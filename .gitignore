@@ -1,0 +1,11 @@
+# Ignore large media files
+*.md
+!README.md
+!CLAUDE.md
+!*.py
+
+# Ignore OS files
+.DS_Store
+
+# Ignore logs
+logs/
