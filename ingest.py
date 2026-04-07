@@ -6,12 +6,12 @@ Usage:
     python ingest.py <path-to-source>
     python ingest.py ~/some-document.md
 
-This spawns a coding agent to process the source and update the wiki:
-  - Creates sources/<slug>.md
-  - Updates index.md
-  - Updates overview.md (if warranted)
-  - Creates entity and concept pages
-  - Appends to log.md
+Options:
+    --agent=NAME   Use specific agent (default: from WIKI_AGENT env or 'claude')
+                   Options: claude, claudem, codex, cursor
+
+Environment:
+    WIKI_AGENT     Default agent to use (e.g., 'claudem')
 """
 import os
 import sys
@@ -26,6 +26,16 @@ WIKI_DIR = Path("/Users/jleechan/llm_wiki")
 LOG_FILE = WIKI_DIR / "log.md"
 INDEX_FILE = WIKI_DIR / "index.md"
 OVERVIEW_FILE = WIKI_DIR / "overview.md"
+
+# Get agent from env or CLI args
+DEFAULT_AGENT = os.environ.get("WIKI_AGENT", "claude")
+AGENT_NAME = DEFAULT_AGENT
+AGENT_CMD = {
+    "claude": "claude",
+    "claudem": "claudem",
+    "codex": "codex",
+    "cursor": "cursor-agent",
+}.get(AGENT_NAME, "claude")
 
 def sha256(text: str) -> str:
     return hashlib.sha256(text.encode()).hexdigest()[:16]
@@ -50,40 +60,6 @@ def build_wiki_context() -> str:
         for p in recent:
             parts.append(f"## {p.name}\n{p.read_text()[:1000]}")
     return "\n\n---\n\n".join(parts)
-
-def spawn_coding_agent(prompt: str) -> dict:
-    """Spawn Claude Code or other coding agent to do the work."""
-
-    # Create a temp file with the task
-    task_file = Path("/tmp/wiki_ingest_task.md")
-    task_file.write_text(prompt)
-
-    # Try claude CLI first, then codex, then others
-    for cmd in ["claude", "codex", "cursor-agent"]:
-        result = subprocess.run(
-            ["which", cmd],
-            capture_output=True,
-            text=True
-        )
-        if result.returncode == 0:
-            print(f"  Using {cmd} for ingestion...")
-            # Spawn the agent with the task
-            proc = subprocess.Popen(
-                [cmd, "--print", f"$(cat {task_file})"],
-                stdout=subprocess.PIPE,
-                stderr=subprocess.PIPE,
-                text=True
-            )
-            stdout, stderr = proc.communicate(timeout=300)
-
-            if proc.returncode == 0 and stdout:
-                try:
-                    return json.loads(stdout)
-                except:
-                    pass
-
-    print("Error: No coding agent found (tried claude, codex, cursor-agent)")
-    sys.exit(1)
 
 def update_index(new_entry: str, section: str = "Sources"):
     content = read_file(INDEX_FILE)
@@ -111,7 +87,7 @@ def ingest(source_path: str):
     today = date.today().isoformat()
 
     print(f"\nIngesting: {source.name}  (hash: {source_hash})")
-    print("  (Using coding agent instead of direct API)")
+    print(f"  Using agent: {AGENT_NAME}")
 
     wiki_context = build_wiki_context()
 
@@ -157,27 +133,25 @@ Process this source and return ONLY a JSON object:
 
 Respond ONLY with JSON, no markdown fences or other text."""
 
-    # Write task to temp file for agent
-    task_file = Path("/tmp/wiki_ingest_task.md")
-    task_file.write_text(prompt)
-
     print("  Spawning coding agent...")
 
-    # Use claude CLI with --dangerously-skip-permissions to avoid prompts
+    # Use shell=True for claudem to work via bash
+    cmd = [AGENT_CMD, "--dangerously-skip-permissions", "-p", prompt]
+
     try:
         result = subprocess.run(
-            ["claude", "--dangerously-skip-permissions", "-p", prompt],
+            cmd,
             capture_output=True,
             text=True,
-            timeout=300,
-            cwd=str(WIKI_DIR)
+            timeout=600,  # 10 min timeout for minimax
+            cwd=str(WIKI_DIR),
+            shell=(AGENT_NAME == "claudem"),  # claudem is a bash function
+            env={**os.environ, "WIKI_AGENT": AGENT_NAME}
         )
 
         if result.returncode == 0:
             raw = result.stdout
-            # Try to extract JSON from response
             try:
-                # Find JSON in response
                 match = re.search(r"\{[\s\S]*\}", raw)
                 if match:
                     data = json.loads(match.group())
@@ -193,8 +167,7 @@ Respond ONLY with JSON, no markdown fences or other text."""
             print(f"Agent error: {result.stderr}")
             sys.exit(1)
     except FileNotFoundError:
-        print("Error: claude CLI not found")
-        print("Install Claude Code: https://claude.ai/code")
+        print(f"Error: {AGENT_CMD} not found")
         sys.exit(1)
     except subprocess.TimeoutExpired:
         print("Error: Agent timed out")
@@ -232,7 +205,29 @@ Respond ONLY with JSON, no markdown fences or other text."""
     print(f"\nDone. Ingested: {data.get('title', source.name)}")
 
 if __name__ == "__main__":
-    if len(sys.argv) < 2:
-        print("Usage: python ingest.py <path-to-source>")
+    # Parse args for --agent
+    agent_override = None
+    source_file = None
+
+    for arg in sys.argv[1:]:
+        if arg.startswith("--agent="):
+            agent_override = arg.split("=")[1]
+        elif not arg.startswith("--"):
+            source_file = arg
+
+    if agent_override:
+        AGENT_NAME = agent_override
+        AGENT_CMD = {
+            "claude": "claude",
+            "claudem": "claudem",
+            "codex": "codex",
+            "cursor": "cursor-agent",
+        }.get(AGENT_NAME, "claude")
+
+    if not source_file:
+        print("Usage: python ingest.py <path-to-source> [--agent=NAME]")
+        print(f"  Default agent: {DEFAULT_AGENT} (set WIKI_AGENT env var to change)")
+        print("  Options: claude, claudem, codex, cursor")
         sys.exit(1)
-    ingest(sys.argv[1])
+
+    ingest(source_file)

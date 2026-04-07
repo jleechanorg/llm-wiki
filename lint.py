@@ -5,9 +5,11 @@ Lint the LLM Wiki using coding agent.
 Usage:
     python lint.py
     python lint.py --save
+    python lint.py --agent=claudem
 """
-import re
+import os
 import sys
+import re
 import subprocess
 from pathlib import Path
 from collections import defaultdict
@@ -15,6 +17,8 @@ from datetime import date
 
 WIKI_DIR = Path("/Users/jleechan/llm_wiki")
 LOG_FILE = WIKI_DIR / "log.md"
+
+DEFAULT_AGENT = os.environ.get("WIKI_AGENT", "claude")
 
 def read_file(path: Path) -> str:
     return path.read_text(encoding="utf-8") if path.exists() else ""

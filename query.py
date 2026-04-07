@@ -5,7 +5,9 @@ Query the LLM Wiki using coding agent.
 Usage:
     python query.py "What are the main themes?"
     python query.py "Summarize EntityName" --save synthesis/my-analysis.md
+    python query.py "question" --agent=claudem
 """
+import os
 import sys
 import re
 import json
@@ -16,6 +18,8 @@ from datetime import date
 WIKI_DIR = Path("/Users/jleechan/llm_wiki")
 INDEX_FILE = WIKI_DIR / "index.md"
 LOG_FILE = WIKI_DIR / "log.md"
+
+DEFAULT_AGENT = os.environ.get("WIKI_AGENT", "claude")
 
 def read_file(path: Path) -> str:
     return path.read_text(encoding="utf-8") if path.exists() else ""
