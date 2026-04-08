@@ -22,7 +22,7 @@ import subprocess
 from pathlib import Path
 from datetime import date
 
-WIKI_DIR = Path("/Users/jleechan/llm_wiki")
+WIKI_DIR = Path("/Users/jleechan/llm_wiki/wiki")  # Karpathy pattern: wiki/ subdirectory only
 LOG_FILE = WIKI_DIR / "log.md"
 INDEX_FILE = WIKI_DIR / "index.md"
 OVERVIEW_FILE = WIKI_DIR / "overview.md"
@@ -217,47 +217,67 @@ def ingest(source_path: str):
 
     wiki_context = build_wiki_context()
 
-    prompt = f"""You are maintaining an LLM Wiki (Karpathy pattern). Process this source document and integrate its knowledge into the wiki.
+    prompt = f"""You are maintaining an LLM Wiki following the Karpathy pattern.
+    Reference: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
 
-The wiki is at: {WIKI_DIR}
+    The wiki is at: {WIKI_DIR}
 
-## Wiki Schema (follow exactly):
+    ## MANDATORY EXTRACTION RULES (Karpathy Pattern):
 
-Every page must have YAML frontmatter:
-```yaml
----
-title: "Page Title"
-type: source | entity | concept | synthesis
-tags: []
-sources: []
-last_updated: {today}
----
-```
+    1. **ALWAYS create entity pages** for:
+       - Every person mentioned (create entities/FirstLast.md)
+       - Every company/organization mentioned (entities/CompanyName.md)
+       - Every project/product mentioned (entities/ProjectName.md)
+       - Every PR/issue referenced (entities/PR123.md)
 
-Use [[PageName]] wikilinks to link to other wiki pages.
+    2. **ALWAYS create concept pages** for:
+       - Every method, framework, or theory discussed
+       - Every technical concept or pattern
+       - Every workflow or process described
 
-## Current wiki state:
-{wiki_context if wiki_context else "(wiki is empty)"}
+    3. **Index entries must be CURATED**, not raw titles:
+       - Good: "Analysis of JSON display bugs in PR #278 — verified as FIXED"
+       - Bad: "JSON Display Bugs Analysis Report" (raw title)
 
-## Source to ingest:
-=== SOURCE START ===
-{source_content[:5000]}
-=== SOURCE END ===
+    ## Wiki Schema:
 
-Process this source and return ONLY a JSON object:
-{{
-  "title": "Human-readable title",
-  "slug": "kebab-case-slug",
-  "source_page": "full markdown for sources/<slug>.md",
-  "index_entry": "- [Title](sources/slug.md) — one-line summary",
-  "overview_update": "updated overview.md content, or null",
-  "entity_pages": [{{"path": "entities/EntityName.md", "content": "full content"}}],
-  "concept_pages": [{{"path": "concepts/ConceptName.md", "content": "full content"}}],
-  "contradictions": ["list any contradictions", or []],
-  "log_entry": "## [{today}] ingest | <title>\\n\\nKey claims: ..."
-}}
+    Every page must have YAML frontmatter:
+    ```yaml
+    ---
+    title: "Page Title"
+    type: source | entity | concept | synthesis
+    tags: []
+    sources: []
+    last_updated: {today}
+    ---
+    ```
 
-Respond ONLY with JSON, no markdown fences or other text."""
+    Use [[PageName]] wikilinks to link to other wiki pages.
+
+    ## Current wiki state:
+    {wiki_context if wiki_context else "(wiki is empty)"}
+
+    ## Source to ingest:
+    === SOURCE START ===
+    {source_content[:5000]}
+    === SOURCE END ===
+
+    Process this source and return ONLY a JSON object:
+    {{
+      "title": "Human-readable title",
+      "slug": "kebab-case-slug",
+      "source_page": "full markdown for sources/<slug>.md",
+      "index_entry": "- [Title](sources/slug.md) — CURATED one-line summary (not raw title)",
+      "overview_update": "updated overview.md content, or null",
+      "entity_pages": [{{"path": "entities/EntityName.md", "content": "full content with YAML frontmatter"}}],
+      "concept_pages": [{{"path": "concepts/ConceptName.md", "content": "full content with YAML frontmatter"}}],
+      "contradictions": ["list any contradictions", or []],
+      "log_entry": "## [{today}] ingest | <title>\\n\\nKey claims: ..."
+    }}
+
+    **CRITICAL**: You MUST create entity_pages and concept_pages arrays with at least one entry each if the source mentions any people, companies, projects, or concepts. Empty arrays are not acceptable.
+
+    Respond ONLY with JSON, no markdown fences or other text."""
 
     print(f"  Spawning coding agent: {AGENT_NAME}...")
 
