@@ -161,6 +161,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [jcc-19-fix BOOTSTRAP.md](sources/jcc-19-fix-bootstrap.md) — Fresh workspace bootstrap: establish identity, update IDENTITY/USER/SOUL files
 - [jcc-19-fix Audit Report](sources/jcc-19-fix-audit-report.md) — Token scrub policy, AGENTS.md workspace version, migration bundle scrub strategy
 - [Discord Eng Bot SOUL.md](sources/discord-eng-bot-soul.md) — Consensus: Discord-first answer bot, second-opinion-tool, citation rules, hard output gate
+- [JSON Display Bugs Analysis Report](sources/json-display-bugs-analysis-report-2026-04-07.md) — Analysis of two JSON display bugs in PR #278 verified as FIXED
 
 ## Entities
 

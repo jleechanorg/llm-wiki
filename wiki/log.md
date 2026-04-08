@@ -141,3 +141,7 @@ Key claims: Expert code reviewer agent with confidence-based filtering (≥80), 
 ## [2026-04-07] ingest | PR #1410 Context Optimization - Validation Report
 
 ## [2026-04-07] homedir-ingest | 30 homedir .md files from repos/mcp_mail, repos/smartclaw, jcc-19-fix directories
+
+## [2026-04-07] ingest | JSON Display Bugs Analysis Report
+
+Key claims: Two JSON display bugs in PR #278 (state updates extraction and raw JSON display) verified as FIXED. Both bugs related to JSON parsing migration from markdown format.
