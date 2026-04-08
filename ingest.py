@@ -35,7 +35,128 @@ AGENT_CMD = {
     "claudem": "claudem",
     "codex": "codex",
     "cursor": "cursor-agent",
+    "ao": "ao",  # Agent Orchestrator integration
 }.get(AGENT_NAME, "claude")
+
+# AO runtime configuration (when AGENT_NAME is "ao")
+AO_RUNTIME = os.environ.get("AO_RUNTIME", "antigravity")  # antigravity, tmux, etc.
+AO_PROJECT = os.environ.get("AO_PROJECT", None)  # Explicit AO project ID
+
+
+def ao_ingest(source: Path, source_content: str, prompt: str):
+    """Ingest using Agent Orchestrator workers."""
+    import tempfile
+
+    # Write prompt to temp file
+    with tempfile.NamedTemporaryFile(mode='w', suffix='.md', delete=False) as f:
+        f.write(prompt)
+        prompt_file = f.name
+
+    try:
+        # Build ao spawn command
+        cmd = ["ao", "spawn"]
+        if AO_RUNTIME:
+            cmd.extend(["--runtime", AO_RUNTIME])
+        if AO_PROJECT:
+            cmd.extend(["-p", AO_PROJECT])
+        cmd.append("wiki-ingest")  # Issue identifier
+
+        print(f"  Running: {' '.join(cmd)}")
+        print(f"  Prompt file: {prompt_file}")
+
+        # Run ao spawn with the prompt
+        result = subprocess.run(
+            cmd,
+            capture_output=True,
+            text=True,
+            timeout=600,
+            cwd=str(WIKI_DIR)
+        )
+
+        if result.returncode == 0:
+            print(f"  AO response: {result.stdout[:500]}")
+            return {"status": "ao_spawned", "output": result.stdout}
+        else:
+            print(f"  AO error: {result.stderr}")
+            # Fall back to inline processing
+            print("  Falling back to inline processing...")
+            return inline_ao_ingest(source, source_content, prompt)
+
+    finally:
+        os.unlink(prompt_file)
+
+
+def inline_ao_ingest(source: Path, source_content: str, prompt: str):
+    """Process ingestion using AO workers inline."""
+    # Process via AO CLI with workers
+    cmd = [
+        "ao", "spawn",
+        "--runtime", AO_RUNTIME or "antigravity",
+        "--max-depth", "2",
+        "wiki-source-ingest"
+    ]
+
+    try:
+        result = subprocess.run(
+            cmd,
+            input=prompt,
+            capture_output=True,
+            text=True,
+            timeout=600,
+            cwd=str(WIKI_DIR)
+        )
+
+        if result.returncode == 0:
+            # Try to parse JSON from output
+            try:
+                data = json.loads(result.stdout)
+                return data
+            except json.JSONDecodeError:
+                print(f"  Could not parse AO JSON, using fallback")
+                return fallback_ingest(source, source_content)
+        else:
+            print(f"  AO inline error: {result.stderr}")
+            return fallback_ingest(source, source_content)
+
+    except Exception as e:
+        print(f"  AO error: {e}")
+        return fallback_ingest(source, source_content)
+
+
+def fallback_ingest(source: Path, source_content: str):
+    """Simple fallback when AO is not available."""
+    print("  Using fallback ingestion...")
+    # Basic extraction - will be enhanced by wiki
+    title = source.stem.replace('-', ' ').title()
+    slug = source.stem.lower()
+
+    data = {
+        "title": title,
+        "slug": slug,
+        "source_page": f"""---
+title: "{title}"
+type: source
+tags: []
+last_updated: {date.today().isoformat()}
+---
+
+## Summary
+Ingested from {source.name}
+
+## Key Claims
+- Source file: {source.name}
+
+## Connections
+- [[Wiki Index]] — main index
+""",
+        "index_entry": f"- [{title}](sources/{slug}.md) — {source.name}",
+        "overview_update": None,
+        "entity_pages": [],
+        "concept_pages": [],
+        "contradictions": [],
+        "log_entry": f"## [{date.today().isoformat()}] ingest | {title}\n\nIngested via fallback mode"
+    }
+    return data
 
 def sha256(text: str) -> str:
     return hashlib.sha256(text.encode()).hexdigest()[:16]
@@ -51,7 +172,12 @@ def write_file(path: Path, content: str):
 def build_wiki_context() -> str:
     parts = []
     if INDEX_FILE.exists():
-        parts.append(f"## index.md\n{read_file(INDEX_FILE)}")
+        # Limit index to last 100 lines to avoid arg-list-too-long
+        idx_content = read_file(INDEX_FILE)
+        idx_lines = idx_content.split("\n")
+        if len(idx_lines) > 100:
+            idx_content = "\n".join(idx_lines[:50]) + f"\n\n... ({len(idx_lines)} total entries)"
+        parts.append(f"## index.md\n{idx_content}")
     if OVERVIEW_FILE.exists():
         parts.append(f"## overview.md\n{read_file(OVERVIEW_FILE)}")
     sources_dir = WIKI_DIR / "sources"
@@ -133,10 +259,26 @@ Process this source and return ONLY a JSON object:
 
 Respond ONLY with JSON, no markdown fences or other text."""
 
-    print("  Spawning coding agent...")
+    print(f"  Spawning coding agent: {AGENT_NAME}...")
+
+    # AO integration: use Agent Orchestrator workers
+    if AGENT_NAME == "ao":
+        return ao_ingest(source, source_content, prompt)
 
     # Use shell=True for claudem to work via bash
     cmd = [AGENT_CMD, "--dangerously-skip-permissions", "-p", prompt]
+
+    # Build env with WIKI_AGENT
+    run_env = {**os.environ, "WIKI_AGENT": AGENT_NAME}
+
+    # For claudem (MiniMax): use direct claude binary path, pass prompt via stdin to avoid arg limit
+    if AGENT_NAME == "claudem":
+        cmd = ["/Applications/cmux DEV.app/Contents/Resources/bin/claude",
+               "--dangerously-skip-permissions", "-p", "-"]
+        run_env["ANTHROPIC_BASE_URL"] = "https://api.minimax.io/anthropic"
+        run_env["ANTHROPIC_AUTH_TOKEN"] = os.environ.get("MINIMAX_API_KEY", os.environ.get("ANTHROPIC_AUTH_TOKEN", ""))
+        run_env["ANTHROPIC_MODEL"] = "MiniMax-M2.5"
+        run_env["ANTHROPIC_SMALL_FAST_MODEL"] = "MiniMax-M2.5"
 
     try:
         result = subprocess.run(
@@ -145,8 +287,9 @@ Respond ONLY with JSON, no markdown fences or other text."""
             text=True,
             timeout=600,  # 10 min timeout for minimax
             cwd=str(WIKI_DIR),
-            shell=(AGENT_NAME == "claudem"),  # claudem is a bash function
-            env={**os.environ, "WIKI_AGENT": AGENT_NAME}
+            shell=False,
+            env=run_env,
+            input=prompt if AGENT_NAME == "claudem" else None
         )
 
         if result.returncode == 0:

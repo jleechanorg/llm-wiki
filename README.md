@@ -31,12 +31,18 @@ python3 ingest.py file.md --agent=claude   # Claude Sonnet
 python3 ingest.py file.md --agent=claudem  # MiniMax M2.5 (default)
 python3 ingest.py file.md --agent=codex    # OpenAI Codex
 python3 ingest.py --agent=cursor cursor   # Cursor
+
+# AO (Agent Orchestrator) integration - uses AO workers
+python3 ingest.py file.md --agent=ao
+export WIKI_AGENT=ao
+export AO_RUNTIME=antigravity  # antigravity, tmux, etc.
 ```
 
 Set your default in `~/.bashrc`:
 ```bash
 export WIKI_AGENT=claudem  # Use MiniMax (default)
-export WIKI_AGENT=claude   # Use Claude Sonnet
+export WIKI_AGENT=ao     # Use AO with workers
+export AO_RUNTIME=antigravity  # AO runtime (antigravity, tmux)
 ```
 
 ## Wiki Structure

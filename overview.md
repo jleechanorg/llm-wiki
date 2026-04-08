@@ -1,39 +1,26 @@
----
-title: "Overview"
-type: synthesis
-tags: []
-sources: [ai-universe-living-blog, bd-beads, ai-usage-tracker]
-last_updated: 2026-04-07
----
+# Wiki Overview
 
-# Overview
+This wiki contains 32245 source documents covering AI, Claude Code, D&D game development, and more.
 
-*The page is maintained by the LLM. It is updated on every ingest to reflect the current synthesis across all sources.*
+## Recent Sources
+- ✅ dev Deployment Successful Environment: dev Service: mvp-site-app-dev Region: u
+- ✅ dev Deployment Successful Environment: dev Service: mvp-site-app-dev Region: u
+- Here are this week&#39;s five freeCodeCamp resources that are worth your time: 1
+- Spring is here and the smell of new clients is in the air ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+- Hi Jeffrey, Here is my resume and cover letter for the position: Manager, Securi
+- ---------- Forwarded message --------- From: Kashminder Chahil &lt;Kashminder.Ch
+- ✅ production Deployment Successful Environment: production Service: ai-universe-
+- Plus... why your eval harness lied, five hidden gems, and the free CV guide ͏ ͏ 
+- Here are this week&#39;s five freeCodeCamp resources that are worth your time: 1
+- 🚨 dev Deployment Failed Environment: dev Service: ai-universe-convo-backend-dev 
+- Hello Jeffrey , To process your documents as quick as possible, avoiding constan
+- ---------- Forwarded message --------- From: Jeffrey Lee-Chan &lt;jleechan@gmail
+- Google Developer Program premium Thank you for your purchase Thank you for your 
+- Hi Jeffrey, The “sunset clause” she is trying to add ends the prenuptial agreeme
+- Good morning, Jeffrey. Just checking to see if you will be able to provide any o
 
-## Current Knowledge
-
-**AI Usage Tracker** adds comprehensive token usage and cost tracking:
-
-
-- Combines `ccusage` (Claude) and `ccusage-codex` (Codex) data
-- Side-by-side reporting with daily averages
-- Claude tokens are ~2.8x more expensive but Codex uses ~67% of total tokens
-- Cache efficiency of 90%+ on both platforms
-- Installable as Claude skill (`/combined-usage`)
-- Typical daily cost: $150-250/day for heavy usage
-
-**AI Universe Living Blog** combines two systems:
-
-1. **Blog MCP Server** — HTTP JSON-RPC 2.0 server exposing 7 MCP tools for CRUD operations on blog posts and threads. Supports event types like `pr_created`, `pr_reviewed`, `pr_merged`, plus novel types `novel_branch_entry` and `novel_daily_summary`.
-
-2. **Novel Engine** — transforms real PR lifecycle events into serialized fiction. Two pipelines: branch entry (per-session, ~400-800 words) and daily community summary (synthesized from day's posts, 1000+ words with 2-4 POV inserts). Uses story bead system (15 emotional narrative beats) for traceability.
-
-Key innovation: zero-config dev mode allowing immediate use without Firebase credentials.
-
-**Beads** adds graph-based issue tracking for AI agents:
-
-- Provides persistent, structured memory replacing markdown plans
-- Dependency-aware graph enables long-horizon task handling
-- Dolt-powered SQL database with git-backed versioning
-- Hash-based IDs prevent merge conflicts in multi-agent workflows
-- Memory compaction summarizes old tasks to save context window
+## Categories
+- [[Sources]] — Raw documents and notes
+- [[Entities]] — People, companies, projects
+- [[Concepts]] — Ideas, frameworks, methods
+- [[Syntheses]] — Query answers and analyses
