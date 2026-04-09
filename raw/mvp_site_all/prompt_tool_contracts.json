@@ -1,0 +1,47 @@
+{
+  "manifest_version": "1.0",
+  "contracts": [
+    {
+      "id": "master_directive_prompt",
+      "type": "prompt",
+      "version": "1.0.1",
+      "path": "mvp_site/prompts/master_directive.md",
+      "sha256": "014980386abc939c7dca0ddd6d0ad0c963355043a6c7eabcf2d8a549b8c3c4a7"
+    },
+    {
+      "id": "game_state_instruction_prompt",
+      "type": "prompt",
+      "version": "1.0.1",
+      "path": "mvp_site/prompts/game_state_instruction.md",
+      "sha256": "3d709687510b588d7d10618a3815674e1c93e41040d6078f43b9f7f25f16d3f4"
+    },
+    {
+      "id": "planning_protocol_prompt",
+      "type": "prompt",
+      "version": "1.0.1",
+      "path": "mvp_site/prompts/planning_protocol.md",
+      "sha256": "a184ec55de392e50924929e8a3447a261869c809b8238444dfd37c956e15dfd0"
+    },
+    {
+      "id": "narrative_response_schema",
+      "type": "tool_schema",
+      "version": "1.0.0",
+      "path": "mvp_site/narrative_response_schema.py",
+      "sha256": "15150698e86b2867a5763ee291e0c293a678161247f87a7321b68dbc0ee716de"
+    },
+    {
+      "id": "mcp_api_tool_contract",
+      "type": "tool_interface",
+      "version": "1.0.2",
+      "path": "mvp_site/mcp_api.py",
+      "sha256": "fc2cfb86779e75a601b066417ddf44fb95e4784c998c8c184d110ba729dbb94d"
+    },
+    {
+      "id": "character_template_prompt",
+      "type": "prompt",
+      "version": "1.0.0",
+      "path": "mvp_site/prompts/character_template.md",
+      "sha256": "16b33be75e6f69fa5aaec1deb74024cd4ffc4352cdf44c89bb54dab9ca78c71e"
+    }
+  ]
+}

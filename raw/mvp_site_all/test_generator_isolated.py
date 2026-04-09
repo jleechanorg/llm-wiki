@@ -1,0 +1,131 @@
+import os
+import sys
+import tempfile
+import unittest
+
+# Add parent directory to path for imports
+sys.path.insert(
+    0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+)
+
+# We ONLY import the document_generator, which has no cloud dependencies.
+from flask import Flask, jsonify, request, send_file
+
+from mvp_site import document_generator
+
+# --- A self-contained Flask App for testing ONLY ---
+app = Flask(__name__)
+
+# Mock data to simulate what would come from Firestore
+MOCK_STORY_CONTEXT = [{"actor": "gemini", "text": "The test begins."}]
+MOCK_CAMPAIGN_DATA = {"title": "PDF Test Campaign"}
+
+
+# A fake endpoint that mimics the real one, but without any database calls.
+@app.route("/test_export", methods=["GET"])
+def export_endpoint():
+    file_format = request.args.get("format", "pdf").lower()
+
+    campaign_title = MOCK_CAMPAIGN_DATA.get("title")
+    story_text = document_generator.get_story_text_from_context(MOCK_STORY_CONTEXT)
+
+    file_path = None
+    try:
+        if file_format == "pdf":
+            # This is the line we are truly testing
+
+            file_path = tempfile.mktemp(suffix=".pdf")
+            document_generator.generate_pdf(story_text, file_path, campaign_title)
+            return send_file(
+                file_path,
+                as_attachment=True,
+                mimetype="application/pdf",
+                download_name="test_campaign.pdf",
+            )
+        return jsonify({"error": "This test only supports PDF format."}), 400
+    finally:
+        if file_path and os.path.exists(file_path):
+            os.remove(file_path)
+
+
+# --- Test Class ---
+class TestPdfGeneration(unittest.TestCase):
+    def setUp(self):
+        self.app = app
+        self.app.config["TESTING"] = True
+        self.client = self.app.test_client()
+
+    def test_pdf_generation_and_export(self):
+        """
+        Tests if a PDF can be generated and returned from the test Flask route.
+        This test WILL FAIL if 'assets/DejaVuSans.ttf' is missing.
+        """
+        print("\\n--- Running PDF Generation Test ---")
+
+        # Prerequisite check - look for font in parent directory
+        parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        font_path = os.path.join(parent_dir, "assets", "DejaVuSans.ttf")
+        if not os.path.exists(font_path):
+            self.skipTest(
+                f"Font file not available: {font_path} not found, skipping PDF generation test"
+            )
+
+        # Call our simple test endpoint
+        response = self.client.get("/test_export?format=pdf")
+
+        # Assert that the response is successful and is a PDF
+        assert response.status_code == 200
+        assert response.mimetype == "application/pdf"
+        assert len(response.data) > 100
+        assert response.data.startswith(b"%PDF-")
+
+        print("--- PDF Generation Test Finished Successfully ---")
+
+
+class TestChoiceMatching(unittest.TestCase):
+    def test_get_selected_choice_ignores_html_whitespace(self):
+        planning_blocks = [
+            {
+                "choices": {
+                    "bad_choice": {
+                        "text": "&#32;",
+                        "description": "Whitespace only",
+                        "risk_level": "safe",
+                        "freeze_time": True,
+                    }
+                }
+            }
+        ]
+
+        selected = document_generator.get_selected_choice(
+            "Attack the goblin", planning_blocks
+        )
+
+        self.assertIsNone(
+            selected,
+            "HTML-encoded whitespace choices should not match any user input",
+        )
+
+    def test_get_choice_type_ignores_html_whitespace(self):
+        planning_blocks = [
+            {
+                "choices": {
+                    "bad_choice": {
+                        "text": "&#32;",
+                        "description": "Whitespace only",
+                        "risk_level": "safe",
+                    }
+                }
+            }
+        ]
+
+        choice_type, choice_key = document_generator.get_choice_type(
+            "Attack the goblin", planning_blocks
+        )
+
+        self.assertEqual("freeform", choice_type)
+        self.assertIsNone(choice_key)
+
+
+if __name__ == "__main__":
+    unittest.main()

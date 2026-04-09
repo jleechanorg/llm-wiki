@@ -1,0 +1,466 @@
+/* =============================================================================
+   Avatar Components — Campaign Creation Upload + In-Game Display
+   ============================================================================= */
+
+/* ---------- Upload Zone (Campaign Wizard Step) ---------- */
+
+.avatar-upload-step {
+  text-align: center;
+  padding: 1rem 0;
+}
+
+.avatar-size-hint {
+  font-size: 0.78rem;
+  color: rgba(184, 180, 207, 0.6);
+  margin-top: 0.25rem;
+}
+
+/* In-game avatar crop overlay (shown when changing photo) */
+.avatar-crop-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: 10001;
+  /* Above avatar card overlay (z-index: 10000) */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.avatar-crop-zone {
+  width: 280px;
+  height: 280px;
+  border-radius: 50%;
+  border: 2px solid rgba(138, 100, 255, 0.5);
+  position: relative;
+  overflow: hidden;
+}
+
+.avatar-crop-actions {
+  display: flex;
+  gap: 0.75rem;
+}
+
+.avatar-upload-zone {
+  width: 280px;
+  height: 280px;
+  margin: 1rem auto;
+  border-radius: 50%;
+  border: 3px dashed rgba(168, 85, 247, 0.4);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  background: rgba(255, 255, 255, 0.03);
+  position: relative;
+  overflow: hidden;
+}
+
+.avatar-upload-zone:hover {
+  border-color: rgba(168, 85, 247, 0.7);
+  background: rgba(168, 85, 247, 0.08);
+  box-shadow: 0 0 24px rgba(168, 85, 247, 0.15);
+}
+
+.avatar-upload-zone.drag-over {
+  border-color: #a855f7;
+  background: rgba(168, 85, 247, 0.15);
+  box-shadow: 0 0 32px rgba(168, 85, 247, 0.3);
+  transform: scale(1.02);
+}
+
+.avatar-upload-zone.has-preview {
+  border-style: solid;
+  border-color: rgba(168, 85, 247, 0.5);
+}
+
+.avatar-upload-icon {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  opacity: 0.7;
+}
+
+.avatar-upload-text {
+  font-size: 0.85rem;
+  opacity: 0.6;
+}
+
+.avatar-upload-zone.has-preview .avatar-upload-icon,
+.avatar-upload-zone.has-preview .avatar-upload-text {
+  display: none;
+}
+
+/* Hidden file input */
+.avatar-file-input {
+  display: none;
+}
+
+/* Preview inside upload zone */
+.avatar-upload-preview {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  display: none;
+}
+
+.avatar-upload-zone.has-preview .avatar-upload-preview {
+  display: block;
+}
+
+/* Remove button overlay */
+.avatar-remove-btn {
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(239, 68, 68, 0.9);
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.2s ease;
+  z-index: 2;
+}
+
+.avatar-upload-zone.has-preview .avatar-remove-btn {
+  display: flex;
+}
+
+.avatar-remove-btn:hover {
+  transform: scale(1.1);
+  background: #ef4444;
+}
+
+/* Upload constraints text */
+.avatar-constraints {
+  font-size: 0.8rem;
+  opacity: 0.5;
+  margin-top: 0.5rem;
+}
+
+/* Skip hint */
+.avatar-skip-hint {
+  margin-top: 1rem;
+  font-size: 0.85rem;
+  opacity: 0.6;
+}
+
+/* ---------- In-Game Avatar Thumbnail ---------- */
+
+.player-avatar-thumb {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid rgba(168, 85, 247, 0.4);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  flex-shrink: 0;
+}
+
+.player-avatar-thumb:hover {
+  border-color: #a855f7;
+  box-shadow: 0 0 12px rgba(168, 85, 247, 0.4);
+  transform: scale(1.1);
+}
+
+/* Default placeholder when no avatar */
+.player-avatar-placeholder {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 2px dashed rgba(168, 85, 247, 0.3);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  flex-shrink: 0;
+  opacity: 0.6;
+}
+
+/* Player message row with avatar */
+.player-message-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-bottom: 0.5rem;
+}
+
+/* ---------- Expanded Avatar Card (Overlay) ---------- */
+
+.avatar-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(4px);
+  z-index: 10000;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  animation: avatarFadeIn 0.2s ease;
+}
+
+.avatar-overlay.visible {
+  display: flex;
+}
+
+@keyframes avatarFadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.avatar-card {
+  background: linear-gradient(145deg, rgba(22, 26, 53, 0.98), rgba(14, 8, 32, 0.98));
+  border: 1px solid rgba(168, 85, 247, 0.4);
+  border-radius: 16px;
+  padding: 1.5rem;
+  text-align: center;
+  max-width: 420px;
+  width: 90%;
+  box-shadow: 0 16px 64px rgba(0, 0, 0, 0.5), 0 0 32px rgba(168, 85, 247, 0.15);
+  position: relative;
+}
+
+.avatar-card-close {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.08);
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 0.9rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.avatar-card-close:hover {
+  background: rgba(239, 68, 68, 0.4);
+  border-color: rgba(239, 68, 68, 0.5);
+  color: white;
+}
+
+.avatar-card-image {
+  width: 340px;
+  height: 340px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid rgba(168, 85, 247, 0.5);
+  box-shadow: 0 0 24px rgba(168, 85, 247, 0.2);
+  margin-bottom: 1rem;
+}
+
+.avatar-card-name {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #f0ecff;
+  margin-bottom: 0.25rem;
+}
+
+.avatar-card-class {
+  font-size: 0.9rem;
+  color: #b8b4cf;
+  margin-bottom: 0.75rem;
+}
+
+.avatar-card-stats {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.avatar-stat {
+  background: rgba(168, 85, 247, 0.1);
+  border: 1px solid rgba(168, 85, 247, 0.25);
+  border-radius: 8px;
+  padding: 0.4rem 0.75rem;
+  font-size: 0.8rem;
+  color: #d4a843;
+}
+
+.avatar-stat-label {
+  font-size: 0.7rem;
+  color: #8a86a8;
+  display: block;
+}
+
+/* ---------- In-game avatar pip (flex sibling of textarea in input bar) ---------- */
+
+.game-avatar-float {
+  flex-shrink: 0;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  align-self: flex-end;
+  margin-right: 8px;
+}
+
+.game-avatar-float img {
+  width: 176px;
+  height: 176px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid rgba(168, 85, 247, 0.5);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+  transition: all 0.2s ease;
+}
+
+.game-avatar-float:hover img {
+  border-color: #a855f7;
+  box-shadow: 0 4px 24px rgba(168, 85, 247, 0.4);
+  transform: scale(1.08);
+}
+
+/* --- Avatar card action buttons (Change Photo / Remove) --- */
+.avatar-card-actions {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.avatar-card-btn {
+  padding: 0.4rem 0.75rem;
+  border-radius: 8px;
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border: 1px solid rgba(168, 85, 247, 0.3);
+  background: rgba(168, 85, 247, 0.1);
+  color: #d4c4f0;
+}
+
+.avatar-card-btn:hover {
+  background: rgba(168, 85, 247, 0.25);
+  border-color: rgba(168, 85, 247, 0.5);
+}
+
+.avatar-card-btn--remove {
+  border-color: rgba(239, 68, 68, 0.3);
+  background: rgba(239, 68, 68, 0.1);
+  color: #f0a0a0;
+}
+
+.avatar-card-btn--remove:hover {
+  background: rgba(239, 68, 68, 0.25);
+  border-color: rgba(239, 68, 68, 0.5);
+}
+
+/* Mobile responsive: smaller pip and card */
+@media (max-width: 576px) {
+  .game-avatar-float img {
+    width: 88px;
+    height: 88px;
+  }
+
+  .avatar-card {
+    max-width: 320px;
+    padding: 1.25rem;
+  }
+
+  .avatar-card-image {
+    width: 200px;
+    height: 200px;
+  }
+
+  .avatar-card-name {
+    font-size: 1.1rem;
+  }
+
+  .avatar-stat {
+    padding: 0.3rem 0.5rem;
+    font-size: 0.75rem;
+  }
+}
+
+/* -- Toast notification -- */
+.avatar-toast {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 10001;
+  padding: 0.75rem 1.25rem;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  color: white;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  animation: avatarToastIn 0.3s ease, avatarToastOut 0.3s ease 2.7s forwards;
+}
+
+.avatar-toast.success {
+  background: rgba(34, 197, 94, 0.9);
+}
+
+.avatar-toast.error {
+  background: rgba(239, 68, 68, 0.9);
+}
+
+@keyframes avatarToastIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes avatarToastOut {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+}
+
+/* ---------- Mobile Responsive ---------- */
+@media (max-width: 576px) {
+  .avatar-upload-zone {
+    width: 160px;
+    height: 160px;
+  }
+
+  .avatar-card {
+    max-width: 320px;
+  }
+
+  .avatar-card-image {
+    width: 200px;
+    height: 200px;
+  }
+
+  .avatar-crop-zone {
+    width: 200px;
+    height: 200px;
+  }
+}

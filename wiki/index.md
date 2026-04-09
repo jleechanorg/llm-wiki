@@ -6,6 +6,644 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [WorldAI Tools MCP Proxy Runtime](sources/worldai-tools-mcp-proxy-runtime.md) — MCP proxy service exposing local diag/admin/ops tools with upstream forwarding and deploy token security
+- [WorldAI MCP STDIO Adapter](sources/worldai-mcp-stdio-adapter.md) — stdio-based MCP server reading JSON-RPC from stdin, wrapping WorldAIToolsProxy
+- [World Time Module](sources/world-time-module.md) — multi-calendar month normalization and temporal comparison utilities for World of Assiah
+- [Unified API Implementation](sources/unified-api-implementation.md) — consistent JSON interface layer extracting business logic from Flask and MCP
+- [World Content Loader for WorldArchitect.AI](sources/world-content-loader.md) — Python module loading World of Assiah campaign content for AI system instructions with banned names and consistency rules
+- [World of Assiah - Compressed Campaign Guide](sources/world-assiah-compressed-campaign-guide.md) — D&D 5e campaign setting: aftermath of Celestial Wars, multi-polar world with Celestial Imperium vs Shattered Host, Year 11 of the New Peace
+- [Campaign Wizard Browser Testing Instructions](sources/campaign-wizard-browser-testing-instructions.md) — manual Puppeteer MCP testing guide for wizard initialization, input fields, and preview system
+- [Visual Validator - Browser-based UI Testing](sources/visual-validator-browser-ui-testing.md) — JavaScript browser console module for detecting overlapping elements, text readability issues, and checkbox alignment
+- [JSON Schema Validation Infrastructure](sources/json-schema-validation-game-state.md) — schema loading, caching, and runtime validation utilities with RFC 3339 datetime checking, ADR-0003 Phase 2
+- [Safe arithmetic utilities for mvp_site](sources/safe-arithmetic-utils-mvp-site.md) — defensive add_safe function with type coercion and default fallback
+- [Unit Upkeep Calculation](sources/unit-upkeep-calculation-faction-management.md) — calculates weekly gp costs for soldiers (0.5gp), spies (1gp), elites (5gp) based on D&D 5e hireling wages
+- [Unified API Implementation](sources/unified-api-implementation.md) — consistent JSON interface layer extracting business logic from Flask and MCP
+- [Shared UI Utility Functions](sources/shared-ui-utility-functions.md) — JavaScript module for collapsible description UI with accessibility support
+- [Python Typing Guide for WorldArchitect.AI](sources/python-typing-guide.md) — type annotation standards using PEP 484 gradual typing with mypy, custom_types.py, and modern Python 3.10+ syntax
+- [GameState TypedDict Schema Definitions](sources/gamestate-typeddict-schema-definitions.md) — auto-generated TypedDict definitions for all game state structures from game_state.schema.json
+- [Faction Tool Definitions for LLM Function Calling](sources/faction-tool-definitions-lambda.md) — backend-executed faction tools matching dice.py pattern for Gemini function calling
+- [Token Counting Utilities](sources/token-counting-utilities.md) — character-to-token estimation (~1:4 ratio) for Gemini with logging utilities
+- [Think Mode System Instruction](sources/think-mode-system-instruction.md) — strategic planning interface where narrative pauses, time advances 1 microsecond, plan quality determined by INT/WIS rolls against DC
+- [ThemeManager JavaScript Class](sources/theme-manager.md) — manages default/fantasy themes with localStorage persistence, migration from legacy keys, and themeChanged events
+- [WorldAI Tools MCP Proxy Tests](sources/worldai-tools-mcp-proxy-tests.md) — validates tool catalog, admin auth, deploy tokens, and input sanitization for WorldAI MCP proxy
+- [World Time Module Tests](sources/world-time-module-tests.md) — validates parse_timestamp_to_world_time, extract_world_time_from_response, and month abbreviation handling
+- [World Time Module Tests](sources/world-time-module-tests.md) — validates ensure_progressive_world_time, parse_timestamp_to_world_time, and calculate_hours_elapsed with timezone defaults and fantasy calendar edge cases
+- [World Logic module structure tests](sources/world-logic-module-structure-tests.md) — validates imports, function signatures, and basic logic without external dependencies
+- [TDD Test Coverage for World Logic Modal Lock Functions](sources/tdd-test-coverage-world-logic-modal-lock.md) — TDD coverage for _check_and_set_level_up_pending stale flag clearing and _enforce_character_creation_modal_lock level-up paths
+- [World Loader Path Handling Tests](sources/world-loader-path-handling-tests.md) — tests path handling logic for parent/local world directories and error handling for missing files
+- [Sophisticated Red/Green Test for Campaign Wizard Reset](sources/sophisticated-wizard-test-jsdom.md) — jsdom-based browser simulation for wizard reset workflow, tests full user journey
+- [Campaign Wizard Reset Red/Green Test](sources/campaign-wizard-reset-red-green-test-html.md) — HTML test interface for Red/Green TDD testing of wizard reset workflow after campaign completion
+- [Campaign Wizard Reset Red/Green Test](sources/campaign-wizard-reset-red-green-test.md) — validates wizard state after campaign completion, tests DOM manipulation and step navigation
+- [Campaign Wizard Reset Code Analysis Test — validates forceCleanRecreation, replaceOriginalForm skipCleanup logic, and wizard state management](sources/campaign-wizard-reset-code-analysis-test.md)
+- [End-to-End Visit Campaign Integration Test — full application stack flow with Firestore mocking, GameState validation](sources/end2end-visit-campaign-integration-test.md) — tests campaign visiting through API endpoint with mock data for Thorin/Gandalf NPCs
+- [Validation Module Coverage Tests — 28%→60% coverage for check_datetime, _enrich_validation_message, is_valid_game_state](sources/validation-module-coverage-tests.md) — AST-based TDD tests targeting RFC 3339 datetime validation, message enrichment, game state validity checks
+- [Pydantic validation for entity tracking — 333 ops/sec with graceful invalid data handling](sources/pydantic-validation-entity-tracking-tests.md) — unit tests validating Pydantic-based SceneManifest creation, performance benchmarks, and DefensiveNumericConverter
+- [V2 Dashboard should show campaigns for authenticated users, not welcome page](sources/v2-dashboard-campaigns-not-welcome.md) — Red/Green test verifying campaigns array correctly controls dashboard vs welcome page display logic
+- [V2 Campaign Display Logic Red/Green Test](sources/v2-campaign-display-logic-test.md) — validates V2 shows campaigns dashboard instead of landing page when 503 campaigns exist
+- [V1 vs V2 Campaign Creation Test](sources/v1-vs-v2-campaign-creation-comparison.md) — E2E comparison of Flask vs React campaign workflows using Playwright and TDD
+- [Status Code and Safe Arithmetic Utils Tests](sources/status-code-safe-arithmetic-utils-tests.md) — validates normalize_status_code and add_safe utility functions with coercion, defaults, and floating-point precision
+- [God mode malformed JSON tests — validates no raw JSON leaks to users, standardized error messages](sources/main-user-scenario-fix-god-mode-json.md) — tests malformed JSON handling in god mode
+- [Summary test demonstrating the Unknown entity fix](sources/summary-test-unknown-entity-fix.md) — demonstrates Unknown placeholder filtering fix preventing unnecessary retries
+- [Unknown Entity Filtering Tests](sources/unknown-entity-filtering-tests.md) — validates Unknown placeholder filtered from entity validation
+- [Test UI Display Verification](sources/test-ui-display-verification.md) — Playwright test verifying session-header, planning-block, dice-rolls, resources display via test_mode bypass
+- [UI Verification Screenshots Test](sources/ui-verification-screenshots-test.md) — Playwright test that screenshots structured response fields in debug mode to verify UI rendering
+- [Simple UI Check Test](sources/simple-ui-check-test.md) — Playwright test verifying .session-header, .planning-block, .dice-rolls, .resources display in campaign UI
+- [UI Verification Screenshots Test](sources/ui-verification-screenshots-test.md) — Playwright test screenshots all UI elements in debug mode to verify structured fields display correctly
+- [UI Verification Screenshots Test](sources/ui-verification-screenshots-test.md) — Playwright test that screenshots all UI elements in debug mode to verify structured fields display
+- [UI Verification Screenshots Test](sources/ui-verification-screenshots-test.md) — Playwright test that screenshots all UI elements in debug mode to verify structured fields display
+- [Type Safety Foundation Tests](sources/type-safety-foundation-tests.md) — validates campaign and API response type guards with runtime invalid input rejection
+- [Type Safety Foundation Tests](sources/type-safety-foundation-tests-javascript-typescript.md) — validates campaign and API response type guards with invalid input rejection
+- [Token Utils Tests](sources/token-utils-tests.md) — validates token estimation, format_token_count, and log_with_tokens functions with edge cases
+- [Campaign Wizard Timing Tests](sources/campaign-wizard-timing-tests.md) — validates form submission within 10ms, visual-only progress animations, no setTimeout delays in critical path
+- [Timeline Log Budget E2E regression — validates 80-turn story context dormancy guard in GameState](sources/timeline-log-budget-end2end-tests.md) — tests timeline_log budgeting guardrails for large story contexts
+- [Time Pressure tracking in GameState](sources/time-pressure-game-state.md) — tests verify deadline tracking, NPC agenda progression, consequence triggers, and urgency-based warning generation
+- [Time Consolidation in GameState](sources/time-consolidation-game-state.md) — unit tests verifying time_of_day migration into unified world_time objects with automatic hour-to-time-of-day mappings
+- [THINK MODE End-to-End Tests](sources/think-mode-e2e-tests.md) — E2E tests verifying strategic planning without narrative advancement, 1 microsecond time increment, and prompt selection flow
+- [Theme CSS overrides not blocked by inline styles](sources/theme-css-overrides-not-blocked-inline-styles.md) — TDD regression test verifying fantasy.css theme overrides for .dice-rolls/.resources/.system-warnings not blocked by inline background-color in app.js
+- [Code Centralization Testing Utils Deduplication](sources/code-centralization-testing-utils-deduplication.md) — RED-phase tests verifying duplicate functions removed from testing_mcp/testing_ui and delegated to testing_utils
+- [Testing UI Default Test Email](sources/testing-ui-default-test-email.md) — validates DEFAULT_TEST_EMAIL defaults to jleechantest@gmail.com when env vars unset
+- [Temporal violation edge cases — punctuated month names don't cause false backward time flags, equal timestamps don't trigger warnings](sources/temporal-violation-edge-cases-month-names.md) — trailing punctuation on month names normalized before comparison, equal timestamps don't trigger alerts
+- [Temporal Correction Misleading Success Message Bug](sources/temporal-correction-misleading-message-bug.md) — Red/Green test showing warning falsely claims corrections "fixed" timeline when max attempts exceeded
+- [Temporal Correction Loop Tests](sources/temporal-correction-loop-tests.md) — validates player input preservation and incomplete world_time handling
+- [Comprehensive Syntax and Import Testing](sources/comprehensive-syntax-import-testing.md) — AST-based TDD tests validating Python file syntax to catch f-string errors before runtime
+- [Comprehensive Syntax and Import Testing](sources/comprehensive-syntax-import-testing.md) — AST-based TDD tests validating Python file syntax to catch f-string errors before runtime
+- [Subprocess Security Vulnerabilities in Copilot Utils](sources/subprocess-security-vulnerabilities-copilot-utils.md) — TDD tests verifying shell=True removal prevents injection attacks in GitCommands
+- [Structured Response Fields Display Frontend Tests](sources/structured-response-fields-display-frontend-tests.md) — validates appendToStory accepts fullData with nested debug_info (dice_rolls, resources)
+- [Structured Response Field Extraction Tests](sources/structured-response-field-extraction-tests.md) — validates schema fields (narrative, debug_info, state_updates) and nested structures
+- [Structured Fields Utils Unit Tests](sources/structured-fields-utils-unit-tests.md) — validates extract_structured_fields handles full data, empty fields, and missing attributes
+- [Structured Fields Storage Test](sources/structured-fields-storage-test.md) — validates session_header, planning_block, dice_rolls, resources, debug_info persist through Firestore write/read cycle
+- [Streaming Orchestrator Module Tests](sources/streaming-orchestrator-module-tests.md) — validates SSE streaming for StreamEvent, headers, event generators, and narrative functions with Gemini provider mocking
+- [Empty response bug reproduction test](sources/integration-test-streaming-orchestrator-empty-response-validation.md) — reproduces production "Empty response from server" bug with full integration flow
+- [Empty Phase 2 streaming error handling — reproduces "[Error: Empty response from server]" bug with boundary-level mocking](sources/empty-phase2-streaming-response-e2e-tests.md) — Test currently skipped, needs refactoring for proper provider mock interception
+- [Empty Phase 2 streaming error handling — reproduces "[Error: Empty response from server]" bug with boundary-level mocking](sources/empty-phase2-streaming-response-e2e-tests.md) — Test currently skipped, needs refactoring for proper provider mock interception
+- [Streaming SSE contract E2E tests — validates /interaction/stream endpoint done payloads for character/think/god modes using boundary-level mocking](sources/streaming-sse-contract-e2e-tests.md)
+- [THINK MODE End-to-End Tests](sources/think-mode-e2e-tests.md) — E2E tests verifying strategic planning without narrative advancement, 1 microsecond time increment, and prompt selection flow
+- [Story Context Tests — type safety guards for malformed Firestore data, warning logic for reduction > 0](sources/story-context-tests-consolidated.md) — TDD tests covering 8 type safety scenarios + 2 warning logic tests for context_compaction.py
+- [Stats Display module tests — validates proficiency bonus, spellcasting ability, weapon extraction, and equipment bonuses](sources/stats-display-module-unit-tests.md) — TDD tests for stats_display functions covering coercion, registry resolution, and stat caps
+- [State update flow from AI response to game state](sources/state-update-integration-tests.md) — validates parse_structured_response extracts state_updates without leaking into narrative
+- [State update flow from AI response to game state](sources/state-update-integration-tests.md) — validates parse_structured_response extracts state_updates without leaking into narrative
+- [Startup Import Lazy Loading Tests](sources/startup-import-lazy-loading-tests.md) — regression tests validating google.genai/firestore stay unloaded at import time
+- [Squash-merge detection bug fixes](sources/squash-merge-detection-tests.md) — validates regex requires digits, empty string guard, and fixed-strings flag in integrate.sh
+- [Spicy Mode Toggle E2E Tests](sources/spicy-mode-toggle-e2e-tests.md) — validates enable/disable flow switches to Grok via OpenRouter and restores previous model
+- [Spells endpoint fallback message validation](sources/spells-endpoint-fallback-tests.md) — TDD tests for /api/campaigns/<id>/spells fallback prompt when spell slots present but no spell list recorded
+- [Social HP Server Enforcement Markers Removed](sources/social-hp-server-enforcement-markers-removed.md) — validates INJECT, SCALE, PROGRESS_SYNC, RESISTANCE markers removed from llm_service.py
+- [Social HP enforcement reminder field validation](sources/social-hp-enforcement-reminder-tests.md) — validates SOCIAL_HP_ENFORCEMENT_REMINDER and game_state_instruction.md contain request_severity and resistance_shown fields
+- [Social HP enum schema derivation](sources/social-hp-challenge-schema-derived-enums-tests.md) — validates request severity normalization and schema-derived enum imports
+- [Settings Validation Module Unit Tests](sources/settings-validation-module-unit-tests.md) — TDD tests for API key, LLM provider, model validation with BYOK env flag handling
+- [TDD HTTP Tests for Settings Page UI](sources/tdd-http-tests-settings-page-ui.md) — HTTP-based TDD tests validating settings button, page loading, API GET/POST, model selection, persistence, and authentication
+- [Settings Page API Tests (MCP Architecture)](sources/settings-page-api-tests-mcp-architecture.md) — validates settings GET/POST endpoints and OpenRouter provider support in MCP architecture
+- [Session Header Utils Progress Enrichment Tests](sources/session-header-utils-progress-enrichment-tests.md) — validates XP/gold enrichment, dict-format normalization, and prefix handling in world_logic.py
+- [Session Header Utils edge cases (PR #3746)](sources/session-header-utils-edge-cases-pr3746.md) — TDD tests for _coerce_int, _get_player_character_data, normalize_session_header, and generate_session_header_fallback edge cases
+- [Service Account Loader Unit Tests](sources/service-account-loader-unit-tests.md) — TDD tests for file/env credential loading, fallback behavior, and validation
+- [Sequence ID budget enforcement (worktree_logs6-cc4)](sources/sequence-id-budget-enforcement-e2e-test.md) — E2E test verifying sequence IDs respect allocated budget, capping to most recent IDs when over budget
+- [JSON Schema validation warnings (PR #4534)](sources/schema-validation-warnings-pr4534.md) — TDD tests for REV-3q63 (empty state), REV-diq9 (catch-all bypass), REV-rrom (non-blocking warnings)
+- [Schema validation warnings non-blocking in production (REV-9zs)](sources/rev-9zs-schema-validation-warnings-non-blocking.md) — TDD tests verifying schema validation logs warnings without blocking Firestore persistence
+- [Schema coverage validation for routing state fields — ensures EncounterState, RewardsPending, CustomCampaignState, CombatState fields are schema-compliant](sources/schema-strictness-schema-coverage-guard-tests.md)
+- [Schema Prompt Generation Performance Tests](sources/schema-prompt-generation-performance-tests.md) — validates schema doc generation <50ms per type, cache retrieval <1ms, injection overhead <5ms
+- [Schema Enforcement End-to-End Tests (REV-jgd8)](sources/schema-enforcement-end2end-tests-rev-jgd8.md) — validates schema validation every turn via GameState.to_validated_dict and canonical field placement for gold-standard writes
+- [User Scene Numbering TDD Tests](sources/user-scene-numbering-tdd-tests.md) — validates scene numbers only increment for AI responses, fixing increment-by-2 bug
+- [Functional Validation Test Runner](sources/functional-validation-test-runner.md) — HTML test runner validating UI components: campaign dashboard, wizard, search/filter, themes, and sort functionality
+- [Root Cause Red/Green Test for Navigation Handler Missing wizard.enable()](sources/root-cause-red-green-test-wizard-enable.md) — Red/Green test showing navigation handler missing wizard.enable() call after route change
+- [Root Cause: Navigation Handler Missing wizard.enable()](sources/root-cause-navigation-handler-missing-wizard-enable.md) — Red/Green test validating navigation handler calls wizard.enable() after route change
+- [RewardsAgent Mechanical E2E Tests](sources/rewards-agent-mechanical-e2e-tests.md) — validates RewardsAgent as purely mechanical component that calculates/displays rewards without advancing game time or generating narrative
+- [Level-up modal lock bypass — REV-439p fixes pending flag handling](sources/rev-439p-level-up-modal-lock-bypass.md) — TDD tests validating level_up_pending=True and rewards_pending.level_up_available=True both activate modal lock in get_agent_for_input
+- [Inconsistent level-up active-state detection — REV-0g1y fixes stale flag handling](sources/rev-0g1y-level-up-active-state-inconsistency.md) — TDD tests verifying both get_agent_for_input and _inject_modal_finish_choice_if_needed respect level_up_in_progress and level_up_pending stale guards
+- [RealServiceProvider Unit Tests](sources/real-service-provider-tests.md) — validates real service provider implements TestServiceProvider interface with Firestore/Gemini client creation
+- [RewardsAgent Mechanical E2E Tests](sources/rewards-agent-mechanical-e2e-tests.md) — validates RewardsAgent as purely mechanical component that calculates/displays rewards without advancing game time or generating narrative
+- [Real Browser Settings Game Integration Test](sources/real-browser-settings-game-integration-test.md) — E2E test for Gemini model switching via settings API with log verification
+- [Rate Limiting Logic Unit Tests](sources/rate-limiting-logic-unit-tests.md) — tests email exemption, BYOK provider detection, and turn limit calculation
+- [Cerebras/Qwen Command Matrix TDD Tests](sources/cerebras-qwen-command-matrix-tdd-tests.md) — matrix-driven tests covering API config, auth fallback, and input variations for Cerebras qwen command
+- [Cerebras/OpenRouter tool request routing tests](sources/llm-provider-tool-request-tests.md) — validates JSON-first tool_requests flow for dice rolling across both providers
+- [Provider inference tests validate automatic provider selection from model names](sources/provider-inference-from-model-selection-tests.md) — tests gemini, openrouter, cerebras inference from model identifiers with fallback to default provider
+- [Prompt Loading Service Tests](sources/test-prompt-loading-via-service.md) — validates prompt file loading, unknown type errors, filesystem-service sync, and dead prompt detection
+- [API endpoint validates prompt loading through Flask pipeline to LLM](sources/e2e-api-prompt-loading-test.md) — tests /interaction endpoint propagates selected_prompts from Firestore to LLM provider
+- [Production parity tests verify campaigns list response format for frontend compatibility](sources/production-parity-tests.md) — validates response format compatibility between test and production environments
+- [Preventive Guards validates god_mode extraction, time/memory inference, location tracking, and faction autofill](sources/preventive-guards-unit-tests.md) — tests enforce_preventive_guards across 7 scenarios including fallback behavior and state preservation
+- [TDD Tests for preflight_model_docker.py — validates GCS URI parsing, tar extraction security, and return value checking](sources/preflight-model-docker-tdd-tests.md)
+- [PR Change Test Runner for Debug Mode and Entity Schema](sources/pr-change-test-runner-debug-mode-entity-schema.md) — validates debug mode defaults, entity schema constant removal, serialization exclusions, and entity ID format
+- [PR Change Test Runner for Debug Mode and Entity Schema](sources/pr-change-test-runner-debug-mode-entity-schema.md) — validates debug mode defaults, entity schema constant removal, serialization exclusions, and entity ID format
+- [Planning loop detection for social encounters — RED test validating Anti-Loop Rule enforcement](sources/planning-loop-detection-social-encounters-red-tests.md) — reproduces bug where LLM presents same options without executing dice rolls
+- [Planning Block UI Buttons Tests](sources/planning-block-ui-buttons-tests.md) — validates parsing and rendering of planning blocks as clickable buttons
+- [Planning block validation integration tests](sources/planning-block-validation-integration-tests.md) — validates _validate_and_enforce_planning_block logging paths for missing/empty/invalid/valid blocks
+- [Planning block robustness tests](sources/test-planning-block-robustness-edge-cases.md) — validates null handling, string rejection, and type validation for JSON-only format
+- [Planning Block List Canonicalization Tests](sources/planning-block-list-canonicalization-tests.md) — validates dict-to-list conversion, empty ID fallback, and deterministic duplicate ID suffixes in normalize_planning_block_choices
+- [Frontend JSON Planning Block Tests](sources/frontend-json-planning-block-tests.md) — TDD tests for parsePlanningBlocks function with JSON input, XSS prevention, and Unicode support
+- [PlanningBlock choices canonical list format](sources/planning-block-choices-canonical-list.md) — validates dict-to-list conversion, duplicate ID handling, and JSON string normalization for PlanningBlock.choices
+- [Planning block analysis field handling](sources/planning-block-analysis-field-handling-tests.md) — validates Deep Think mode boolean coercion and pros/cons analysis structure
+- [Test performance module with FAST_TESTS env var and aggressive mocking for CI optimization](sources/test-performance-configuration.md) — provides fast test execution via mocked file/LLM operations
+- [Output token budget regression — ensures model context (1M), not compaction limit (300K), drives output calculation](sources/output-token-budget-regression-tests.md)
+- [MVP Test Optimization Recommendations](sources/mvp-test-optimization-recommendations.md) — analyzes test suite, recommends ~4K lines reduction across 5 categories
+- [OpenRouter Provider Tests](sources/openrouter-provider-tests.md) — validates API key requirement, SSE streaming parsing, and system instruction preservation
+- [OpenClaw Provider Critical PR Review Tests](sources/openclaw-provider-pr-review-tests.md) — validates gateway_url override, json_mode compatibility, streaming conversation structure, and provider model naming
+- [OpenAI Proxy Tests](sources/openai-proxy-tests.md) — validates OpenAI-compatible /v1/chat/completions proxy with payload parsing, gateway forwarding, and auth/error handling
+- [NumericFieldConverter Tests](sources/numeric-field-converter-tests.md) — validates string-to-int conversion, nested dict processing, and auto-conversion utilities
+- [NPC Death State Persistence TDD Tests](sources/npc-death-state-persistence-tdd-tests.md) — validates named NPCs marked dead not deleted
+- [NPC death state persistence through full stack](sources/npc-death-state-persistence-e2e-tests.md) — E2E tests verifying killed NPCs are removed from combat but preserved in npc_data
+- [Smart NPC Data Handling](sources/test-npc-data-handling.md) — validates AI string updates convert to status field, __DELETE__ token works, list payloads coerce to dict
+- [GameState None Semantics Tests](sources/game-state-none-semantics-preservation-tests.md) — validates None vs {} distinction preserved in serialization round-trip
+- [Narrative Response Social HP Tests](sources/narrative-response-social-hp-tests.md) — TDD tests validating NPC tier extraction, tier-based HP calculation, and validation warnings
+- [Narrative Response Legacy JSON Cleanup Tests](sources/narrative-response-legacy-fallback-tests.md) — tests malformed JSON cleanup, artifact removal, and fallback behavior in parse_structured_response
+- [Narrative Response Extraction Tests](sources/narrative-response-extraction-tests.md) — tests NarrativeResponse structured field mapping with session_header, planning_block, dice_rolls
+- [Narrative response type conversion tests](sources/narrative-response-error-handling-tests.md) — validates _validate_string_field and _validate_list_field handle None, int, float, bool, dict, list with error logging
+- [Narrative field debug tag detection](sources/narrative-field-clean-debug-tags.md) — validates narrative fields exclude debug markers like [DEBUG_START]/[DEBUG_END]
+- [Mode parameter type validation regression](sources/mode-parameter-type-validation-tests.md) — validates invalid mode types (dict/list/int/None) default to MODE_CHARACTER without AttributeError
+- [Modal State Lifecycle Tests](sources/modal-state-lifecycle-tests.md) — validates state transitions, flag clearing, and stale flag removal for Character Creation, Level-Up, and Campaign Upgrade modals
+- [Modal routing invariants via fixtures — validates routing/injection consistency between LevelUpAgent and CharacterCreationAgent](sources/modal-routing-fixtures.md) — fixture-driven TDD tests verify modal active state agreement
+- [Cross-modal flag clearing tests — validates level-up exit clears character_creation_in_progress, stale flag defense, modal priority handling](sources/modal-state-management-integration-tests.md) — integration tests for cross-modal interaction
+- [Modal State Management Test Utilities](sources/modal-state-management-test-utilities.md) — base classes and assertions for declarative modal state testing scenarios
+- [TDD Tests for Modal Agent & Intent Classifier Bugs (PR #5225)](sources/modal-agent-intent-classifier-tdd-tests.md) — validates anchor phrase uniqueness between CHARACTER_CREATION/LEVEL_UP modes and modal exit mechanisms
+- [MockServiceProvider Unit Tests](sources/mock-service-provider-tests.md) — validates mock Firestore/LLM services implement TestServiceProvider interface
+- [Playwright mobile responsive choice ID](sources/mobile-responsive-choice-id-tests.md) — tests .choice-id font scaling at 320px/768px/1200px breakpoints
+- [Mission conversion dict-to-list helpers](sources/mission-conversion-helpers-tests.md) — validates auto-generated mission_ids, update vs duplicate logic, and invalid data handling
+- [Mission Auto-Completion E2E Tests](sources/mission-auto-completion-e2e-tests.md) — validates auto-initialization of completed_missions field for legacy campaigns
+- [Missing Structured Fields UI Tests](sources/missing-structured-fields-ui-tests.md) — validates god_mode_response, entities_mentioned, and location_confirmed UI rendering in JavaScript
+- [Milestone 4 Interactive Features Tests](sources/milestone-4-interactive-features-tests.md) — validates campaign wizard, enhanced search, interface manager JavaScript files and CSS
+- [Memory Utils module tests](sources/memory-utils-tests.md) — validates similarity detection, duplicate filtering, and budget-based memory selection for campaigns
+- [Memory integration test suite validates query extraction, relevance scoring, caching, and metrics](sources/memory-integration-test-suite.md)
+- [Memory budget alignment between memory_utils and context_compaction — validates MAX_CORE_MEMORY_TOKENS stays within BUDGET_CORE_MEMORIES_MIN/MAX bounds](sources/memory-budget-alignment-tests.md)
+- [MCP server health checks — validates React MCP installation, WorldArchitect port 7000 connectivity, and Claude Desktop config completeness](sources/mcp-server-health-checks.md)
+- [MCP error handling E2E — validates error propagation from world_logic through MCPClient to Flask HTTP responses](sources/mcp-error-handling-e2e-tests.md) — tests 404, auth, validation errors through full stack
+- [MCP client connection pooling — validates HTTPAdapter with pool_connections=10, pool_maxsize=20, max_retries=3](sources/mcp-client-connection-pooling-tests.md) — TDD tests verify session adapters for HTTP/HTTPS
+- [Main.py structured response building — validates /api/campaigns/{id}/interaction endpoint returns correct schema with state_updates, entities_mentioned, debug_info](sources/main-structured-response-building-tests.md) — tests verify response includes all structured fields from LLMResponse
+- [Security and Validation Tests — Phase 8 Milestone 8.3 validates SQL injection, NoSQL injection, XSS prevention in main.py](sources/security-validation-tests.md) — tests verify Firestore NoSQL inherently prevents SQL injection
+- [MCP interaction structured fields — validates structured field handling through MCP API gateway, interaction endpoints, auth bypass headers](sources/mcp-interaction-structured-fields-tests.md) — tests verify response formatting and error handling
+- [Parse Set Command error handling — validates invalid JSON, edge cases, special chars, unicode handling in parse_set_command](sources/parse-set-command-error-handling-tests.md) — Phase 3 error path tests
+- [Flask app import and endpoint tests — validates Flask app import, /api/time, /api/campaigns, /api/settings endpoints, auth requirements, and test bypass headers](sources/flask-app-import-endpoint-tests.md)
+- [Luke campaign Jedi Master gender consistency — validates gender field prevents male pronoun/name bugs in female NPC narratives](sources/luke-campaign-jedi-master-gender-tests.md)
+- [Loading spinner messages tests — validates CSS/JS integration, HTML structure, and contextual message variety](sources/loading-spinner-messages-tests.md) — tests verify loading messages feature for TASK-005b
+- [LLM Service token management — validates MAX_OUTPUT_TOKENS and JSON_MODE_MAX_OUTPUT_TOKENS constants set to 50000, estimate_tokens handles empty/Unicode](sources/llm-service-token-management-tests.md) — tests verify token constants and estimation function work in both local and CI environments
+- [LLM Service error handling — validates mock mode response schema, ContextTooLargeError 422, provider overload 503, rate limit 429 without retry](sources/llm-service-error-handling-tests.md) — tests verify error surface correctly with proper status codes
+- [LLM Service context extraction — validates continue_story finds most recent AI response from story_context](sources/llm-service-context-extraction-tests.md) — tests verify last_ai_response passed to get_agent_for_input
+- [Gemini code execution evidence context regression — validates continue_story passes context parameter to prevent TypeError](sources/gemini-code-execution-evidence-context-parameter-regression.md) — uses AST parsing to verify context keyword argument is passed
+- [LLMResponse object TDD tests — validates create(), debug tags detection, state_updates extraction](sources/llm-response-object-tdd-tests.md)
+- [Gemini response validation — validates JSON parsing, schema validation, error recovery per PR #3458](sources/gemini-response-validation-tests.md)
+- [LLMResponse structured fields parsing](sources/llm-response-structured-fields-parsing-tests.md) — validates parsing of session_header, planning_block, dice_rolls from raw JSON
+- [LLMResponse serialization tests](sources/llm-response-serialization-tests.md) — validates Pydantic model and datetime JSON serialization in to_dict()
+- [LLMRequest validation tests](sources/llm-request-validation-tests.md) — validates empty/whitespace user_id, game_mode type checks, core_memories item types, string/payload length limits
+- [LLMRequest Class TDD Tests](sources/llm-request-class-tdd-tests.md) — RED→GREEN tests validating structured JSON sent directly to Gemini API
+- [Provider settings selection tests — validates default Gemini, OpenRouter/Cerebras preference, FORCE_PROVIDER override, invalid provider error handling](sources/provider-settings-selection-tests.md) — tests verify provider and model selection logic with user settings and env vars
+- [Provider settings E2E — validates round-trip persistence across Gemini, OpenRouter, Cerebras](sources/provider-settings-persistence-e2e.md) — E2E tests verify settings API preserves provider preferences
+- [Gemini model selection TDD — validates continue_story() and get_initial_story() respect user gemini_model preferences](sources/gemini-model-selection-tdd-tests.md) — RED→GREEN tests verify user_id parameter enables model preference selection
+- [Entity name sanitization — validates sanitize_entity_name_for_id handles apostrophes, unicode, special chars, whitespace](sources/entity-name-sanitization-tests.md) — TDD tests verify entity name transformation for safe ID usage
+- [Debug events export validation — tests background_events, faction_updates, rumors, scene_events, complications formatting](sources/debug-events-export-tests.md) — TDD tests verify all debug event types included in campaign exports
+- [Living World player_turn tracking — validates non-GOD action increments, GOD mode skips, world_events extraction with turn_generated](sources/living-world-e2e-integration-tests.md) — E2E tests verify counter behavior through full app stack
+- [Living World round-trip preservation — validates last_living_world_turn and last_living_world_time survive to_model/from_model](sources/living-world-model-round-trip-tests.md) — TDD regression test for REV-a73
+- [Level-up stale guard logic — validates explicit False flags override stale rewards_pending in LevelUpAgent activation](sources/level-up-stale-guard-logic-tests.md) — TDD tests verify should_activate_for_state guards from PR #5282
+- [Level-up stale flag clearing — validates level_up_in_progress and character_creation_in_progress reset on state transitions](sources/level-up-stale-flag-tests.md) — RED tests expose bugs where stale flags block future level-ups
+- [LazyModule thread safety — validates no double imports under concurrent access](sources/lazy-module-thread-safety-tests.md) — TDD tests verify _load_real_module is race-condition-free and idempotent
+- [Keyword parsing refactor — removes false positive think/plan triggers, uses consistent prompt template](sources/keyword-parsing-refactor-tests.md) — TDD tests verify keyword detection removed from get_current_turn_prompt()
+- [JSON truncation handling — _compact_game_state never returns invalid JSON](sources/json-truncation-handling-tests.md) — RED tests verify budget-exceeded returns original instead of truncating
+- [JSON-only mode enforcement — no regex fallback](sources/json-only-comprehensive-tests.md) — validates parse_llm_response_for_state_changes removed, JSON is sole state update mechanism
+- [JSON Only Comprehensive Tests](sources/json-only-comprehensive-tests.md) — validates no fallback parsing, state updates exclusively from structured JSON
+- [State update extraction from JSON responses](sources/json-mode-state-updates-tests.md) — validates narrative excludes state blocks, structured_response contains state_updates
+- [JSON Mode Preference Tests](sources/json-mode-preference-tests.md) — validates JSON always beats markdown blocks, no regex fallback exists, code block extraction works
+- [JSON mode constant updates](sources/json-mode-constants-tests.md) — validates CHARACTER_DESIGN_REMINDER uses JSON field for state updates instead of [STATE_UPDATES_PROPOSED] blocks
+- [Safer JSON Cleanup Tests](sources/safer-json-cleanup-tests.md) — validates narrative with JSON-like syntax preserved during parsing
+- [Internal Mode Rejection Tests](sources/internal-mode-rejection-tests.md) — validates internal modes (combat/rewards/info) cannot be forced via API, fall back to StoryMode
+- [Intent Classifier Initialization Tests](sources/intent-classifier-initialization-tests.md) — validates semantic routing toggle, FastEmbed offline mode, and model initialization with cache_dir
+- [Intent Classifier Context Tests](sources/intent-classifier-context-tests.md) — validates context concatenation and truncation in LocalIntentClassifier.predict()
+- [Real-Mode Testing Framework Integration Validation](sources/real-mode-testing-framework-integration-validation.md) — validates framework integration with mock/real mode switching and backwards compatibility
+- [Service Provider Framework Integration Tests](sources/service-provider-framework-integration-tests.md) — demonstrates backwards-compatible testing with mock/real service mode switching
+- [Input Validation Module Tests](sources/input-validation-module-tests.md) — tests for campaign/user ID validation, string sanitization, request/array size limits, export format whitelisting
+- [Input field translation validation](sources/input-field-translation-validation-tests.md) — validates KEY_USER_INPUT="input" (main.py) → "user_input" (MCP) → "user_input" (world_logic.py) field mapping chain
+- [Testserver command infrastructure](sources/testserver-command-infrastructure-tests.md) — validates /testserver help, error handling, and script delegation to test_server_manager.sh
+- [Import tests for main modules](sources/import-tests-main-modules.md) — validates all core modules import with expected attributes (firestore_service, llm_service, game_state, constants)
+- [HP unknown value handling in HealthStatus](sources/hp-unknown-value-handling-tests.md) — validates string/None/invalid HP values convert to safe default 1 via DefensiveNumericConverter
+- [TDD tests for /health endpoint with concurrency metrics — validates 200 OK, JSON response, basic info, GUNICORN_WORKERS/THREADS metrics, max_concurrent_requests calculation](sources/tdd-tests-health-endpoint-concurrency.md) — RED→GREEN tests for enhanced health endpoint
+- [Gunicorn config TDD tests — validates worker formula (2*CPU)+1, gthread class, 4 threads, 600s timeout, env overrides](sources/gunicorn-configuration-tdd-tests.md) — RED→GREEN tests for gunicorn.conf.py
+- [God Mode response field handling — validates god_mode_response vs narrative field separation in parse_structured_response](sources/god-mode-response-field-tests.md) — tests verify frontend uses god_mode_response directly when present
+- [God Mode planning blocks — validates "god:" choice prefix and mandatory return_story option](sources/god-mode-planning-blocks-tests.md) — tests verify choice IDs must use god: prefix and include return_story for mode switching
+- [God Mode narrative placeholder detection — validates prose vs metadata distinction in god mode validation](sources/god-mode-narrative-validation-placeholder-tests.md) — tests verify empty/whitespace/metadata pass but actual narrative triggers GOD_MODE_VIOLATION
+- [God Mode placeholder bug on Turn 0 — reproduces string vs dict parsing failure showing placeholder instead of character creation narrative](sources/god-mode-placeholder-bug-e2e-test.md)
+- [GOD MODE end-to-end tests — validates god mode prompt selection, response handling, and state updates through full app stack](sources/god-mode-end-to-end-integration-tests.md)
+- [PDF Generation and HTML Whitespace Choice Tests](sources/test-pdf-generation-and-export.md) — tests verify PDF export endpoint and HTML-encoded whitespace filtering in choice matching
+- [Gemini usage metadata logging — validates cache hit rate calculation and null handling in _call_llm_api](sources/gemini-usage-metadata-logging-tests.md) — tests verify 75% cache hit rate, None value handling, and AttributeError fallback
+- [Gemini API retry logic tests — validates _is_retriable_gemini_error, _log_retry_attempt, and warning injection from PR #4099](sources/gemini-api-retry-logic-tests.md) — tests verify FAILED_PRECONDITION retriable, non-retriable errors handled, retry logging at WARNING level
+- [Log Gemini response metadata tests — validates PR #4099 None finish_reason fix](sources/log-gemini-response-metadata-tests.md) — tests verify None finish_reason normalizes to UNKNOWN and triggers WARNING
+- [Gemini request size logging validates content, system, and total metrics](sources/gemini-request-size-logging-tests.md) — tests verify character/token/byte breakdown in GEMINI_REQUEST logs
+- [Gemini native tools tests](sources/gemini-native-tools-tests.md) — validates AUTO mode (no forced tool calling) and Phase 2 JSON fallback
+- [Gemini code execution evidence extraction tests](sources/gemini-code-execution-evidence-extraction-tests.md) — validates extract_code_execution_evidence and extract_code_execution_parts_summary truncation
+- [GameState module unit tests](sources/game-state-module-unit-tests.md) — validates GameState class and related functions with comprehensive Firebase mocking for CI environments
+- [GameState fuzz/stress tests validate defensive defaults and graceful failure](sources/game-state-initialization-safety-tests.md) — validates GameState handles None, garbage types, and malformed input without crashes
+- [Division by Zero Fix in GameState.validate_checkpoint_consistency](sources/division-by-zero-fix-validate-checkpoint-consistency.md) — validates ZeroDivisionError fix for hp_max=0 edge case with character creation mode handling
+- [Checkpoint string HP coercion and zero validation](sources/validate-checkpoint-consistency-tests.md) — validates GameState.validate_checkpoint_consistency() handles string HP values and detects zero HP max
+- [E2E campaign creation with real Gemini + Firebase APIs](sources/complete-e2e-campaign-creation-real-apis-test.md) — validates complete user journey: homepage → dashboard → wizard → real AI chat responses (no mocks)
+- [Frontend Structured Fields Tests (Simple)](sources/frontend-structured-fields-tests-simple.md) — validates dice rolls, resources, planning blocks, and debug-mode living world updates rendering without browser deps
+- [Freeze Time Choice Behavior](sources/freeze-time-choice-behavior-tests.md) — validates freeze_time field preservation and string-to-boolean coercion in planning block choices
+- [Framework Validation Tests](sources/framework-validation-tests.md) — validates TestServiceProvider framework with mock/real/capture modes and global state management
+- [Field Format Validation Red-Green Test](sources/field-format-validation-red-green-test.md) — validates story vs text field format mismatch between world_logic.py and main.py
+- [TDD Test: Flask App Import (RED Phase)](sources/test-flask-app-import-red-phase.md) — validates Flask app import from main.py and create_app factory function existence
+- [Budget overflow graceful degradation](sources/tdd-test-fixed-size-component-overflow-crash.md) — validates oversized checkpoint_block reduces story_context instead of crashing with ValueError
+- [Firestore Structured Fields Handling Tests](sources/firestore-structured-fields-handling-tests.md) — validates add_story_entry with structured fields like session_header, planning_block, dice_rolls, resources, debug_info
+- [Phase 5 state helper functions test Firestore safeguards](sources/phase-5-state-helper-function-tests.md) — validates _handle_append_syntax, _handle_core_memories_safeguard, _handle_dict_merge, _handle_delete_token, _handle_string_to_dict_update
+- [API key rotation regression tests verify settings preservation](sources/api-key-rotation-firestore-regression-tests.md) — validates dot-notation transaction.update() preserves gemini_api_key, openclaw_gateway_url on rotate/revoke
+- [Firestore mocking validates get_db() patchable for isolated tests](sources/firestore-mocking-unit-tests.md) — demonstrates MagicMock chain setup and context manager isolation for Firestore operations
+- [Firestore dot-notation update tests validate nested path handling](sources/firestore-service-dot-notation-update-tests.md) — tests verify dot-notation creates proper nested structures in game_state
+- [MissionHandler tests validate static methods for mission list handling](sources/mission-handler-tests-firestore-service.md) — tests initialize_missions_list, find_existing_mission_index, process_mission_data with edge cases
+- [Firestore Service Inventory Deduplication Tests](sources/firestore-service-inventory-deduplication-tests.md) — validates _handle_inventory_safeguard merges string/dict items, handles JSON serialization, and preserves existing duplicates
+- [Firestore Service Helper Function Tests](sources/firestore-service-helper-function-tests.md) — tests _truncate_log_json and _perform_append functions with edge cases like large data, circular references, and invalid JSON
+- [Firebase mock mode skips startup warmup](sources/firebase-mock-mode-initialization-tests.md) — validates MOCK_SERVICES_MODE bypasses Firestore initialization and lazy dependency warmup
+- [File Cache Module Unit Tests](sources/file-cache-module-unit-tests.md) — validates file caching with cachetools, cache hit/miss behavior, thread safety, and statistics tracking
+- [Field Format Validation Red-Green Test](sources/field-format-validation-red-green-test.md) — validates 'text' field format consistency between world_logic.py and main.py translation layer
+- [Fake Services Unit Tests](sources/fake-services-unit-tests.md) — validates FakeFirebaseAuth, FakeFirestoreClient, and fake LLM integration without external dependencies
+- [Service Provider Factory Unit Tests](sources/service-provider-factory-unit-tests.md) — validates provider selection, environment config, and global state management for mock/real/capture modes
+- [Faction tools schema and execution unit tests](sources/faction-tools-schema-execution-unit-tests.md) — validates tool schemas, parameter requirements, and execution function mappings
+- [Faction tool gating tests verify tools excluded when minigame disabled](sources/faction-tool-gating-tests.md) — validates faction tools conditionally available based on faction_minigame.enabled flag
+- [Faction State Util module extracts faction_minigame from nested game_state structures](sources/faction-state-util-module-unit-tests.md) — validates get_faction_minigame_dict() handles attribute access, dict wrappers, and custom_campaign_state precedence
+- [Faction settings persistence validates faction_minigame_enabled round-trip](sources/faction-settings-endtoend-persistence-tests.md) — E2E tests verify settings save → retrieve flow for faction_minigame_enabled, spicy_mode, auto_save, theme
+- [Faction ranking calculation validates territory *5, unit contributions, and edge cases](sources/faction-ranking-calculation-tests.md) — tests verify territory multiplier, soldiers (1x), spies (0.5x), elites (3x at level 6), and total FP calculation
+- [Faction ranking recompute validates FP/ranking consistency](sources/faction-ranking-recompute-tests.md) — tests verify auto-recompute when LLM emits stale or missing power values
+- [Faction Combat Power Calculation Tests](sources/faction-combat-power-calculation-tests.md) — validates territory *5 multiplier, soldier/spy/elite contributions, total FP calculation, and edge cases
+- [Explicit Cache Enabled TDD Guard Tests](sources/tdd-guard-explicit-cache-enabled.md) — validates explicit_cache_enabled=True for Gemini context cache and mode propagation
+- [Evidence Utils Steps-to-Scenarios Conversion Tests](sources/evidence-utils-steps-to-scenarios-conversion-tests.md) — validates steps dict to scenarios list conversion without duplication
+- [Equipment Display Module Tests](sources/equipment-display-module-tests.md) — validates equipment query detection, slot categorization, and backpack item classification
+- [Enhanced Post-Generation Validation with Retry Tests](sources/enhanced-post-generation-validation-retry-tests.md) — validates EntityValidator detects missing entities, calculates confidence scores, and generates retry prompts with location-specific suggestions
+- [EntityUtils filter functions handle case-insensitive Unknown filtering with order preservation](sources/entity-utility-functions-tests.md) — validates filter_unknown_entities removes Unknown variants case-insensitively
+- [Entity Tracking Production Implementation Tests](sources/entity-tracking-production-implementation-tests.md) — validates entity ID format standardization (pc_name_001), string ID preservation, and SceneManifest creation
+- [Generic Entity Tracking Tests](sources/generic-entity-tracking-tests.md) — validates entity tracking has no hardcoded campaign-specific references
+- [Entity Tracking Budget Fix E2E](sources/entity-tracking-budget-fix-end2end-test.md) — validates ENTITY_TRACKING_TOKEN_RESERVE prevents ContextTooLargeError with 15 NPCs + 50-turn story
+- [Entity Tracking Budget Fix E2E](sources/entity-tracking-budget-fix-end2end-test.md) — validates ENTITY_TRACKING_TOKEN_RESERVE prevents ContextTooLargeError with 15 NPCs + 50-turn story
+- [EntityPreloader generates entity manifests with caching and location-aware preloading](sources/entity-preloading-system-tests.md) — tests EntityPreloader and LocationEntityEnforcer with caching, HP display, and location-specific entity handling
+- [Enhanced Explicit Entity Instructions Tests](sources/enhanced-explicit-entity-instructions-tests.md) — validates EntityInstructionGenerator creates mandatory entity requirements with priority levels and enforcement checking
+- [Entity ID validation with special characters](sources/entity-id-special-characters-validation.md) — validates sanitize_entity_name_for_id handles apostrophes, hyphens, non-ASCII characters for entity IDs
+- [Entity Schema Classes Unit Tests](sources/entity-schema-classes-unit-tests.md) — validates Pydantic schemas for Stats, HealthStatus with defensive conversion and range clamping
+- [Pydantic entity integration validates gender/age/MBTI requirements](sources/pydantic-entity-integration-tests.md) — tests NPC gender mandatory, PC gender optional, fantasy age ranges, and MBTI validation
+- [Race condition bug where enhanced-search hides campaigns before full render](sources/enhanced-search-race-condition-test.md) — validates fix prevents premature DOM processing
+- [Race condition bug where enhanced-search hides campaigns before full render](sources/enhanced-search-race-condition-test.md) — validates fix prevents premature DOM processing
+- [Embedded planning JSON narrative E2E test](sources/test-embedded-planning-json-narrative-end2end.md) — validates full-stack JSON stripping from narrative through API-to-Firestore flow
+- [Embedded Planning JSON Bug Reproduction](sources/test-embedded-planning-json-bug-reproduction.md) — validates _strip_embedded_planning_json() removes raw JSON keys from narrative text
+- [Editable preview tests validate click-to-edit behavior](sources/campaign-wizard-editable-preview-tests.md) — tests CampaignWizard form field inline editing with click-outside-save and Escape-cancel
+- [Dragon Knight campaign description handling tests](sources/dragon-knight-description-length-tests.md) — validates DEFAULT_DRAGON_KNIGHT_DESCRIPTION > 1000 chars with Ser Arion, Empress Sariel, truncation at 50 chars, and form data collection
+- [Dragon Knight Campaign Description Length Tests](sources/dragon-knight-campaign-description-length-tests.md) — validates long campaign description handling, truncation, and form data collection
+- [Documentation file size validation](sources/documentation-file-size-performance-tests.md) — validates .cursor/rules/ and CLAUDE.md are within API-safe size limits
+- [Playwright UI Display Test](sources/playwright-ui-display-test.md) — validates structured field display (session-header, planning-block, dice-rolls, resources) in campaign UI via Playwright
+- [Dice Tools and Execution Unit Tests](sources/dice-tools-execution-unit-tests.md) — validates DICE_ROLL_TOOLS array contains roll_dice, roll_attack, roll_skill_check, roll_saving_throw with dc_reasoning support
+- [Security tests validate server field spoofing prevention](sources/tdd-tests-dice-integrity-server-field-security.md) — TDD tests ensuring _server_* fields cannot be spoofed by LLM responses when code_exec_fabrication=False
+- [Provably Fair Dice Roll System Tests](sources/provably-fair-dice-roll-tests.md) — TDD tests validating cryptographic chain: seed generation, SHA256 commitment, prompt injection, and code verification
+- [Dice Logging Functions Unit Tests](sources/dice-logging-functions-unit-tests.md) — validates narrative dice detection, fabrication alerts, and debug toggle logging
+- [Dice integrity module tests validate field detection, error handling, and no-reprompt policy](sources/dice-integrity-module-tests.md) — validates missing dice field detection, error responses don't count as valid results, tool results populate action_resolution.rolls
+- [DialogAgent prompt loading verification](sources/dialog-agent-prompt-loading-test.md) — validates PromptBuilder includes dialog_system_instruction.md content in agent prompts
+- [DialogAgent persuasion action bug reproduction](sources/dialog-agent-persuasion-failure-reproduction-test.md) — test expects matches_game_state() to return True after persuasion action, currently fails
+- [DialogAgent E2E tests validate agent selection and system instruction filtering](sources/dialog-agent-end2end-tests.md) — validates DialogAgent selection for dialog state, character-focused instructions, and mechanics exclusion
+- [World files inaccessible in Docker build without copy operation](sources/deployment-build-world-files-accessibility-tests.md) — validates deploy.sh must copy world files to mvp_site before Docker build
+- [Delete token removes keys from nested dicts, preserves unrelated state](sources/delete-token-processing-tests.md) — validates __DELETE__ marker removes specific keys from npc_data and top-level state while preserving other data
+- [Delete token removes keys from nested dicts, preserves unrelated state](sources/delete-token-processing-tests.md) — validates __DELETE__ marker removes specific keys from npc_data and top-level state while preserving other data
+- [DefensiveNumericConverter validates unknown-to-default conversion for HP, stats, and resources](sources/defensive-numeric-converter-tests.md) — tests validate range clamping and nested dict conversion
+- [Log Exceptions Decorator Tests](sources/log-exceptions-decorator-tests.md) — validates decorator preserves function metadata, logs trimmed exceptions for security, and re-raises after logging
+- [Debug mode E2E tests](sources/debug-mode-end2end-tests.md) — validates settings API toggle flow with Firestore/Gemini mocking
+- [Debug info trimming tests](sources/debug-info-trimming-tests.md) — validates lightweight metadata fields kept, bloated fields removed to prevent storage bloat
+- [Debug content stripping from JSON](sources/debug-content-stripping-tests.md) — validates debug_info removal from embedded JSON with whitespace variations
+- [Data Integrity Test Suite](sources/data-integrity-test-suite.md) — validates NPC data structure integrity and prevents state corruption bugs
+- [CSS Variable Definition Validation Tests](sources/css-variable-definition-validation-tests.md) — validates every var() usage has a corresponding CSS definition
+- [Campaign Creation End-to-End Integration Tests](sources/campaign-creation-end2end-tests.md) — validates full API-to-service-layer flow with mocked Firestore and Gemini providers
+- [Core memories from final truncated context E2E tests](sources/core-memories-final-context-e2e-tests.md) — validates core memories sourced from full allocated story, not 20% bounded context
+- [End-to-end Integration Tests for Story Continuation](sources/end2end-story-continuation-tests.md) — validates full API-to-Firestore flow with context compaction, dual LLM provider support, and game state persistence
+- [Adaptive context truncation behavior (PR #2311)](sources/test-context-truncation.md) — validates character limit handling with aggressive hard-trimming when budget is exceeded
+- [ContextTooLargeError handling](sources/context-too-large-error-handling-tests.md) — validates HTTP 422 conversion with token metadata in error messages
+- [Context Budgeting and Allocation TDD Tests](sources/context-budgeting-allocation-tdd-tests.md) — validates token budget safety ratios, component allocation minimums, warning thresholds, and emergency compaction triggers
+- [Test constants module values and structure](sources/test-constants-module-values-structure.md) — validates actor, mode, key, format, and prompt constants in mvp_site
+- [TDD integration tests for concurrent request handling](sources/tdd-tests-concurrent-request-handling.md) — validates application handles 100 concurrent requests without race conditions, tests Gunicorn/Flask/MCP stack
+- [Auto-initializes completed_missions for older campaigns without that field](sources/completed-missions-auto-init-tests.md) — validates state migration prevents auto-completion failures in legacy campaigns
+- [Complete Combined approach tests — validates Structured Generation + Validation pipeline](sources/complete-combined-approach-tests.md) — tests prompt creation with entity manifest, JSON parsing, entity coverage validation, and end-to-end workflow
+- [Critical memory deduplication bug](sources/tdd-tests-compact-core-memories-dedup.md) — TDD tests validating no duplicate critical memories when appearing in last 3 entries of fallback path
+- [Common Test Utilities](sources/common-test-utilities.md) — validates Firebase credentials check returns False for mocked test environment
+- [Automatic cleanup removes defeated enemies from combatants, initiative, and NPC data](sources/comprehensive-combat-cleanup-tests.md) — validates HP-based defeat detection and automatic cleanup workflow
+- [Collapsible Description Tests verify toggle behavior, accessibility, and campaign pre-filling](sources/collapsible-description-unit-tests.md) — validates expand/collapse toggle, aria attributes, and Dragon Knight narrative pre-fill
+- [Code execution artifact JSON parsing validates array→object preference, whitespace stripping](sources/test-code-execution-artifact-json-parsing.md) — validates parse_structured_response handles code artifacts before JSON, prefers { over [
+- [Code execution evidence extraction validates RNG vs fabrication](sources/code-execution-evidence-extraction-rng-verification-tests.md) — validates empty evidence doesn't bypass fabrication detection, legacy audit_events count as dice, and code without random.randint() is flagged as FABRICATION
+- [Clock skew hardcoded to 720 seconds across all environments](sources/clock-skew-deployment-validation-tests.md) — validates deployment credential validation and environment mode handling
+- [Claude Settings Hook Validation Tests](sources/tdd-tests-claude-settings-hook-validation.md) — validates $ROOT usage robustness to prevent system lockouts, skips auto-generated per-session configs
+- [_classify_raw_narrative helper contract tests](sources/tdd-tests-classify-raw-narrative-helper.md) — validates text classification for LLM streaming fallback, excludes JSON containers/markers
+- [LLM interprets natural language character strings without regex parsing](sources/tdd-tests-character-string-interpretation.md) — validates "A devout cleric..." works without structured format
+- [Character/NPC extraction regex tests](sources/test-character-extraction-regex-bug.md) — validates re module import and NPC pattern extraction in llm_service.py
+- [CharacterCreationAgent Turn 1 Activation with God Mode](sources/character-creation-agent-turn1-e2e-tests.md) — validates agent ALWAYS activates on Turn 1 even with pre-defined character data from templates
+- [Cerebras json_schema strict:false TDD Tests](sources/tdd-tests-cerebras-json-schema-strict-false.md) — validates json_schema with strict:false for dynamic choice keys across Qwen-3, GLM-4.6, Llama-3.3
+- [Centralized Model Selection TDD Tests](sources/tdd-tests-centralized-model-selection.md) — validates user preference respect, default fallback, and error handling for model selection
+- [Capture Framework Tests](sources/capture-framework-tests.md) — validates context manager capture, error tracking, data sanitization for Firestore/Gemini interactions
+- [Campaign Wizard timing behavior tests](sources/campaign-wizard-timing-tests.md) — validates immediate form submission without artificial delays, non-blocking progress animation
+- [Campaign Wizard headless screenshots](sources/campaign-wizard-screenshots-headless.md) — Selenium script capturing all 3 wizard steps in headless Chrome
+- [Campaign Wizard Reset Issue Reproduction Test](sources/campaign-wizard-reset-issue-reproduction-test.md) — Selenium-based test reproducing persistent spinner after create→navigate→restart campaign workflow
+- [Campaign Wizard Editable Preview Tests](sources/campaign-wizard-editable-preview-tests.md) — validates Enter-key save, click-outside checkbox sync, and Escape-cancel behavior for inline campaign editing
+- [Campaign Utils DEFAULT_TEST_EMAIL Behavior Tests](sources/campaign-utils-default-test-email.md) — validates fallback to DEFAULT_TEST_EMAIL when user_email is None, explicit emails preserved
+- [Campaign Settings Tests](sources/campaign-settings-tests.md) — validates campaign setting appears once, type guards for malformed game_state, god_mode.setting flows to system instructions
+- [Campaign List Pagination Tests](sources/campaign-list-pagination-tests.md) — validates default 50 limit, cursor-based pagination, and has_more/next_cursor fields
+- [Campaign Pagination Total Count Tests](sources/campaign-pagination-total-count-tests.md) — validates total_count calculated on first page only, skipped on subsequent pages for performance
+- [Campaign Pagination MCP with Evidence Bundles](sources/campaign-pagination-mcp-integration-test.md) — validates 50-campaign limit, cursor-based pagination, and Firestore query efficiency through MCP protocol
+- [Campaign Pagination MCP with Evidence Bundles](sources/campaign-pagination-mcp-integration-test.md) — validates 50-campaign limit, cursor-based pagination, and Firestore query efficiency through MCP protocol
+- [CampaignCreationV2 Memory Leak Tests](sources/campaign-creation-v2-memory-leak-tests.md) — Playwright-based tests validating timer cleanup on component unmount
+- [Campaign List Click Functionality Tests](sources/campaign-list-click-functionality-tests.md) — validates data attributes, CSS pointer styling, and JS click handler structure for campaign items
+- [TDD Tests for Cache + Provably Fair Compatibility](sources/tdd-tests-cache-provably-fair-compatibility.md) — validates cache_name flows through API, provably fair seed injected as content part, not system_instruction
+- [Cache Prompt Structure Equivalence Tests](sources/cache-prompt-structure-equivalence-tests.md) — validates explicit cache parts equal implicit JSON with identical field ordering for prefix-based caching
+- [TDD Tests for N-1 Cache Promotion Logic](sources/tdd-tests-n-1-cache-promotion-logic.md) — validates deferred cache promotion: first cache gets None, rebuild returns old cache name, promote switches to new
+- [BYOK Browser Base Gemini Provider Tests](sources/byok-browser-base-gemini-provider-tests.md) — validates custom API key client creation, test bypass with test keys, and email env var precedence
+- [TDD Test: Single Budget Path Consistency](sources/tdd-test-single-budget-path-consistency.md) — validates no merge conflicts, new allocator usage, and context truncation for budget calculations
+- [Battle simulation bug fixes (PR #2778)](sources/battle-simulation-bug-tests-pr-2778.md) — TDD tests validating damage not multiplied by defender groups, morale checks HP remaining not casualties
+- [Real-Mode Testing Framework Integration Tests](sources/real-mode-testing-framework-integration-tests.md) — validates service provider creation, mode switching, and backward compatibility helpers
+- [TDD Tests for capture_provenance test_file Parameter](sources/tdd-tests-capture-provenance-test-file.md) — validates test_file parameter defined before capture_provenance() call
+- [Banned Names Visibility Behavior Tests](sources/banned-names-visibility-behavior-tests.md) — validates naming restrictions are identifiable with section markers and source identification
+- [Banned names loading unit tests](sources/banned-names-loading-unit-tests.md) — validates world_loader correctly loads banned_names.md with 56+ names, MASTER DIRECTIVE, and enforcement policy
+- [Banned name prevention in AI character generation](sources/ai-character-banned-name-prevention-tests.md) — validates pre-generation directive blocks overused names (Alaric, Corvus, Lysander, Seraphina) in master directive and mechanics instruction
+- [Avatar storage bucket fallback tests](sources/avatar-storage-bucket-fallback-css-pip-sizes-tests.md) — validates .firebasestorage.app→.appspot.com fallback, env var priority (AVATAR_STORAGE_BUCKET > FIREBASE_STORAGE_BUCKET), and CSS pip sizing
+- [Avatar API Layer 1 Unit Tests](sources/avatar-api-layer-1-unit-tests.md) — validates AVATAR_CONTENT_TYPES whitelist (jpeg/png/gif/webp), magic byte detection, and upload rejection for unsupported types
+- [API test suite with Firebase auth validation](sources/comprehensive-authenticated-api-test-suite.md) — validates campaign endpoints, server connectivity, and auth requirements using real Firebase authentication
+- [JWT clock skew auto-retry with friendly error messages](sources/auth-resilience-clock-skew-tests.md) — validates api.js retryCount, isClockSkewError detection, forceRefresh, and app.js user-friendly error prompts
+- [Architecture Decision Tests - Pydantic Validation](sources/architecture-decision-tests-pydantic-validation.md) — validates Pydantic-only implementation with ADT-001 through ADT-006 test suite
+- [Field format validation across API boundaries](sources/architectural-boundary-field-format-validation.md) — validates input/user_input translation and error/success field consistency across Frontend→main.py→world_logic.py layers
+- [Arc/Event completion tracking E2E tests](sources/arc-event-completion-tracking-e2e-tests.md) — validates arc milestone persistence to Firestore and inclusion in LLM context
+- [app.js Structured Fields Implementation Tests](sources/app-js-structured-fields-implementation-tests.md) — validates fullData parameter, dice_rolls extraction, spicy mode routing, and streaming fallback in frontend
+- [TDD Tests for Flask API Service Enhancements](sources/tdd-tests-flask-api-service-enhancements.md) — validates Flask app test_client behavior for /api/time, /api/campaigns, /api/settings endpoints with auth bypass
+- [API response format consistency](sources/api-response-format-consistency.md) — validates legacy array vs object wrapper formats across /api/campaigns endpoints
+- [API backward compatibility tests for legacy forEach](sources/api-backward-compatibility-tests.md) — validates /api/campaigns returns array directly to prevent JavaScript forEach errors
+- [Animation System Tests - Milestone 3](sources/animation-system-tests-milestone-3.md) — validates CSS animations, JavaScript AnimationHelpers class, and performance properties with accessibility support
+- [JSON Mode Enforcement for LLM Calls](sources/json-mode-enforcement-tests-llm.md) — validates JSON response mode for all LLM calls with comprehensive dependency mocking
+- [AI Content Personalization Integration Test](sources/ai-content-personalization-integration-test.md) — validates AI story generation uses campaign data instead of hardcoded characters
+- [Agent Architecture End-to-End Integration Test](sources/agent-architecture-end2end-integration-test.md) — validates agent selection (StoryModeAgent/GodModeAgent/SpicyModeAgent) and LLM service integration through full application stack
+- [Agent Routing Tests with Schema Validation](sources/agent-routing-schema-validation-tests.md) — unittest validating CharacterCreationAgent/RewardsAgent matching with sanitize_state_updates_overlay for schema-validated routing
+- [Agent Architecture End-to-End Integration Test](sources/agent-architecture-end2end-integration-test.md) — validates agent selection (StoryModeAgent/GodModeAgent/SpicyModeAgent) and LLM service integration through full application stack
+- [Age Field Validation Tests](sources/age-field-validation-character-classes.md) — Pydantic unittest validating age field (0-50000 range, integer-only) for NPC/PlayerCharacter
+- [Adaptive Context Truncation Tests](sources/adaptive-context-truncation-tests.md) — unittest validating iterative turn reduction to prevent ContextTooLargeError for smaller context models
+- [Action resolution field consolidation tests](sources/action-resolution-field-consolidation-tests.md) — Python unittest validating action_resolution as primary field, reinterpreted/audit_flags defaults, and legacy dice_rolls normalization for backward compatibility
+- [Dice roll extraction from action_resolution](sources/action-resolution-utils-unit-tests.md) — Python unittest covering extract_dice_rolls function with DC/success/failure formats and edge cases
+- [Action Resolution Backward Compatibility End-to-End Test](sources/action-resolution-backward-compat-end2end-test.md) — Python unittest validating outcome_resolution→action_resolution mapping and null safety through full API stack
+- [Terms of Use - WorldAI](sources/terms-of-use-worldai.md) — Legal terms governing WorldAI services with IP rights, user representations, prohibited activities, and dispute resolution
+- [Structured Gemini Response Field Extraction](sources/structured-gemini-response-field-extraction.md) — Python helpers for extracting Gemini response fields with Firestore size trimming
+- [StreamingClient for real-time LLM responses](sources/streaming-client-worldarchitect.md) — JavaScript SSE client handling chunk streaming, tool events, and rate limit modals
+- [StreamingClient extraction tests](sources/streaming-client-unit-tests-extraction.md) — Node.js unit tests for _extractPlanningThinking and other parsing functions with partial JSON chunks
+- [Server-side LLM Chunk Timing Logger](sources/server-side-llm-chunk-timing-logger.md) — captures per-chunk timing data for BD-iwr streaming evidence standard compliance
+- [StreamEvent SSE type for streaming](sources/stream-event-type.md) — dataclass avoiding circular imports between streaming_orchestrator and llm_service
+- [D&D 5e Spellcasting and Stats Utilities](sources/dd-spellcasting-stats-utilities.md) — Python module for ability modifiers, proficiency bonus, and spellcasting ability across API and CLI
+- [Standalone Flask App Starter](sources/standalone-flask-app-starter.md) — resolves import path issues for Flask startup in subshells, used in smoke test PR workflow
+- [SRD 5.1 faction unit stat blocks](sources/srd-stat-block-mapping-faction-units.md) — Maps genre-agnostic unit labels to D&D 5.1 SRD creature archetypes for faction simulation
+- [Spicy Mode Literary Intimate Content](sources/spicy-mode-literary-intimate-content-system-instruction.md) — Dual-mode system for explicit romantic content or fade-to-black with periodic enable suggestions
+- [Sovereign Protocol System](sources/sovereign-protocol-system.md) — Complete Multiversal Campaign mechanics: Terminal Administrator role, 1000-Sovereign hierarchy, Logic Siege combat, and Entropy Reversal goal
+- [Sovereign Ascension Ceremony](sources/sovereign-ascension-ceremony-multiversal-upgrade.md) — Game mechanic for transitioning from Divine Leverage to Sovereign Protocol with multiversal domain expansion
+- [Simplified Mock Service Provider Implementation](sources/simplified-mock-service-provider-implementation.md) — lightweight mock implementations avoiding dependency issues
+- [Settings Page JavaScript Functionality](sources/settings-page-javascript-functionality.md) — JS module with BYOK API key management, blur-based auto-save, and SPA navigation support
+- [Settings Page - AI Provider Selection](sources/settings-page-ai-provider-selection.md) — HTML template for selecting LLM provider (Gemini/OpenRouter/Cerebras/OpenClaw) with provider-specific model dropdowns
+- [Settings Context Test Utilities](sources/settings-context-test-utilities.md) — JavaScript mock DOM element factories for settings page testing with event simulation
+- [Session Header Utilities](sources/session-header-utilities.md) — utilities for formatting, normalizing, and generating session headers from game state data
+- [Test Service Provider Abstract Base Class](sources/test-service-provider-abstract-base-class.md) — ABC interface for switching between mock and real Firestore/Gemini/Auth services in tests
+- [Service Account Credentials Loader](sources/service-account-credentials-loader.md) — zero-hardcoded-secrets pattern for GCP authentication via file or env vars
+- [Test Organization Improvements](sources/test-organization-improvements.md) — fixed 9 failing tests by updating to current single-system architecture, all failures were test maintenance debt
+- [50% latency reduction via parallel Pass 2](sources/parallel-dual-pass-optimization.md) — split dual-pass verification into parallel endpoints for immediate story delivery while entity enhancement runs in background
+- [Planning Block Cleanup - Dev1314](sources/planning-block-cleanup-dev1314.md) — removed narrative "--- PLANNING BLOCK ---" delimiters from 4 prompt files while preserving JSON field requirement
+- [Sariel integration test expected output](sources/sariel-campaign-integration-test-expected-output.md) — shows 5834 fields validated across 10 interactions with 90% entity tracking success and Cassian Problem handled
+- [Sariel integration test validates 580+ fields across 10 interactions](sources/sariel-campaign-integration-test-execution.md) — tests entity tracking including Cassian Problem edge case
+- [Sariel test consolidation analysis](sources/sariel-test-files-analysis.md) — 6 test files analyzed, 73-95% API call reduction via consolidation
+- [Sariel LLM Responses - Entity Tracking Analysis](sources/sariel-llm-responses-entity-tracking-analysis.md) — confirms 50% desync; Cassian Problem 0% success; domain NPCs tracked 100%, location NPCs 0%
+- [Sariel campaign replay desync measurement](sources/sariel-campaign-replay-desync-measurement.md) — 50% entity tracking success rate; NPC introduction triggers failures in interactions 4, 6-7, 9-10
+- [Sariel V2 Campaign Prompts (June 2025)](sources/sariel-v2-campaign-prompts.md) — 11-prompt campaign sequence from god mode setup through main character interactions with entity tracking across 5 locations
+- [Sariel Exact Production Campaign Example](sources/sariel-exact-production-campaign-example.md) — production campaign structure with 5 prompts across god/character modes and entity tracking
+- [Sariel Campaign Replay Desync Measurement](sources/sariel-campaign-replay-desync-measurement.md) — Python script measuring entity tracking desync across 10 campaign replays for statistical validation
+- [Sariel LLM response capture](sources/sariel-llm-response-capture.md) — Python script using Flask test client to capture actual LLM outputs from campaign interactions
+- [Integration Tests with Real API Calls](sources/integration-test-runner-real-api-calls.md) — bash script running unittest tests against live Gemini/Firestore APIs, excluded from CI
+- [End-to-End Integration Test Runner](sources/run-end2end-tests-python.md) — Python unittest runner for full application flow testing with mocked Firestore & Gemini
+✅ Added to index.md
+- [Faction Resource Calculation Formulas](sources/faction-resource-calculation-formulas.md) — Python implementation of citizen growth, gold income, and arcana yield formulas with diminishing returns math
+- [NPC Relationship Trust System](sources/relationship-mechanics-detailed.md) — -10 to +10 trust scale with 8 disposition tiers and mandatory check/update triggers for active gameplay mechanics
+- [Real Service Provider Implementation](sources/real-service-provider-implementation.md) — Uses real Firestore/Gemini with capture mode and batch cleanup for test isolation
+- [Frontend static assets structure for WorldArchitect.AI](sources/static-assets-directory.md) — SPA entry point with ~2,000-line app.js, modular JS components, and 5-theme system
+- [Browser authentication bypass for Playwright tests](sources/browser-test-mode-authentication-bypass.md) — URL parameter-based auth bypass with BrowserTestHelper library for 5-step campaign wizard testing
+- [Sariel test consolidation](sources/sariel-test-suite-consolidation.md) — reduced 7 test files to 3, cutting API calls 73-95%
+- [Critical JSON Mode Architecture](sources/readme-ai-assistants-critical-system-architecture.md) — Intentional JSON mode for Gemini API with data flow pipeline and debugging checklist for narrative extraction issues
+- [Faction Power Rankings System](sources/faction-power-rankings-system.md) — FP calculation formulas for army, territory, fortifications with 14 AI faction behavior types
+- [Pytest Configuration](sources/pytest-configuration.md) — pytest discovery patterns and parallel execution settings with 4 workers and cache optimization
+- [Structured Field Fixtures for UI Testing](sources/structured-field-fixtures-ui-testing.md) — JavaScript fixtures matching the complete 10-field game_state JSON schema for character creation and in-game state testing
+- [Pytest Integration for Real-Mode Testing Framework](sources/pytest-integration-real-mode-testing-framework.md) — pytest fixtures and markers for dual-mode mock/real service testing
+- [Prompts Directory](sources/prompts-directory.md) — Hierarchical AI system instructions for WorldArchitect.AI with dice strategy variants and conditional loading
+- [Campaign Prompt Building Utilities](sources/campaign-prompt-building-utilities.md) — Utility functions for campaign prompt building with D&D 5e character/setting fallback
+- [Prompt Contract Manifest](sources/prompt-contract-manifest.md) — JSON manifest tracking 6 prompt/tool contracts with SHA256 verification for WorldArchitect.AI MVP
+- [Prompt Variant Loading System](sources/prompt-variant-loading-system.md) — Python module loading version-controlled markdown prompt files based on dice strategy
+- [JSON Schema Documentation Generator Utilities](sources/json-schema-documentation-generator-utilities.md) — Python utilities for generating markdown docs from JSON Schemas with ref resolution and type inference
+- [WorldAI Privacy Policy](sources/worldai-privacy-policy.md) — Privacy notice for Lee-Chan Consulting covering personal information collection, processing, and user rights for the WorldAI RPG platform
+- [Preventive Guards](sources/preventive-guards-continuity-safeguards.md) — Defensive module preventing LLM hallucinations from breaking game state with silent continuity safeguards
+- [Planning Block Choice Buttons Styling](sources/planning-block-choice-buttons-styles.md) — CSS UI for interactive choice buttons with error states and mobile responsiveness
+- [Parallel Dual-Pass Frontend](sources/parallel-dual-pass-frontend-implementation-task-019.md) — JavaScript module for two-pass entity enhancement with background processing and graceful degradation
+- [Parallel Dual-Pass Styles](sources/parallel-dual-pass-styles.md) — CSS UI components for TASK-019 enhancement indicators with loading spinner, success state, and mobile responsiveness
+- [Parallel Dual-Pass Optimization](sources/parallel-dual-pass-integration-guide.md) — TASK-019 implementation for 50% perceived latency reduction with backend endpoints and frontend integration
+- [Story Pagination Styles](sources/story-pagination-styles.md) — CSS implementation of pagination UI with load-more button, loading animations, and responsive breakpoints
+- [JSDOM Dependency](sources/jsdom-dependency.md) — npm dependency snippet specifying jsdom ^26.1.0 for DOM manipulation
+- [MVP Site package-lock.json](sources/mvp-site-package-lock.md) — npm lockfile listing jsdom, CSS tools, and form security dependencies
+- [OpenRouter Provider Implementation](sources/openrouter-provider-implementation.md) — OpenAI-compatible provider with json_schema support for Grok models and BYOK authentication
+- [OpenClaw Setup for WorldArchitect](sources/openclaw-setup-worldarchitect.md) — HTML guide for exposing local OpenClaw gateway via tunnel script with provider fallback (localhost.run → cloudflared → ngrok)
+- [OpenClaw HTTP Client](sources/openclaw-http-client.md) — Python client for OpenAI-compatible /v1/chat/completions gateway with streaming support
+- [OpenClaw Tailscale Tunnel Script](sources/openclaw-tailscale-tunnel-script.md) — bash script exposing local OpenClaw gateway via Tailscale Funnel with auto-installation and health verification
+- [OpenAI-Compatible Inference Proxy](sources/openai-compatible-inference-proxy.md) — Flask server forwarding /v1/chat/completions to user OpenClaw gateways via Firestore-configured URLs with SSRF protection
+- [OpenAI-Compatible Chat Completions Shared Core](sources/openai-compatible-chat-completions-shared-core.md) — shared core for OpenAI-compatible providers with message building and response parsing
+- [OpenAI Chat Completions Shared Helpers](sources/openai-chat-completions-shared-helpers.md) — shared helpers for OpenAI-compatible providers (Cerebras, OpenRouter) with message/payload building and tool call extraction
+- [Numeric Field Converter Utilities](sources/numeric-field-converter-utilities.md) — simple string-to-int conversion for Firestore data layer with nested structure support
+- [Centralized Numeric Conversion Utilities](sources/centralized-numeric-conversion-utilities.md) — safe type coercion functions guarding against NaN and Infinity
+- [Narrative Directives](sources/narrative-directives.md) — comprehensive narrative style guide with mandatory living world visibility, Social HP skill challenges, and Action Resolution Protocol
+- [Narrative Synchronization Validator](sources/narrative-synchronization-validator.md) — production validator delegating to EntityValidator with continuity checking and emotional state patterns
+- [Simplified Structured Narrative Generation Schemas](sources/simplified-structured-narrative-generation-schemas.md) — self-contained Python schemas without pydantic, featuring JSON parse error handling and threshold-based warning escalation
+- [Narrative Directives (Lite)](sources/narrative-directives-lite.md) — lightweight narrative style guide with Tabletop DM Test and Action Resolution Protocol for player-declared outcomes
+- [Mypy Configuration for WorldArchitect.AI](sources/mypy-configuration-worldarchitect-ai.md) — gradual type checking config with tiered strictness for critical modules
+- [Documentation Size Monitor Script](sources/documentation-size-monitor-script.md) — bash script checking .cursor/rules and CLAUDE.md against 1000/1500 line thresholds to prevent API timeouts
+- [Level-Up Modal Routing Scenarios](sources/level-up-modal-routing-scenarios.md) — test scenarios for modal routing priority between level-up and character creation flows
+- [Mock Service Provider Implementation](sources/mock-service-provider-implementation.md) — test abstraction combining MockFirestoreClient and MockLLMClient for dual-mode testing
+- [Mock Gemini API Service for Function Testing](sources/mock-gemini-api-service-function-testing.md) — mock LLM client with pattern-based response generation for test isolation
+- [Rewards System Protocol](sources/rewards-system-protocol.md) — unified protocol for XP calculation, level-up detection, loot distribution with mandatory narrative display and planning block choices
+- [Mock Gemini Service wrapper for test isolation](sources/mock-gemini-service-wrapper.md) — provides identical interface to real LLM service with fallback narrative for character creation
+- [Mock Firestore Service for Function Testing](sources/mock-firestore-service-for-function-testing.md) — in-memory Firestore simulation with MockFirestoreDocument/Client classes for test isolation
+- [Mock Firestore Service Wrapper](sources/mock-firestore-service-wrapper.md) — test mock providing identical interface to real Firestore service for dual-mode testing
+- [Real-Mode Testing Framework Migration](sources/real-mode-testing-framework-migration-guide.md) — guide for updating tests to support dual-mode operation with mock/real service switching
+- [Test migration: mock-only to dual-mode](sources/test-migration-examples-mock-to-dual-mode.md) — before/after patterns for updating tests to support both mock and real service backends
+- [Memory Management Utilities for Core Memories](sources/memory-utilities-core-memories.md) — token budget selection and deduplication utilities with similarity threshold for memory management
+- [Memory MCP Integration - Architectural Limitation](sources/memory-mcp-integration-architectural-limitation.md) — documents why Python cannot access MCP tools directly
+- [Memory MCP Integration](sources/memory-mcp-integration.md) — multi-tier caching module with query term extraction and relevance scoring for LLM context enhancement
+- [Game Mechanics Protocol](sources/game-mechanics-protocol.md) — D&D 5e character creation (3 methods), XP by CR table, mass combat for 20+ forces, and strict player input handling with planning blocks
+- [D&D 5e character creation & combat mechanics](sources/game-mechanics-protocol.md) — meta-game character creation protocol with XP by CR, mass combat, and mandatory player input handling
+- [MCP Test Client for WorldArchitect.AI](sources/mcp-test-client-worldarchitect-ai.md) — Python test client with JSON-RPC 2.0 support, health checks, and request/response logging for MCP server testing
+- [Real Memory MCP Integration](sources/real-memory-mcp-integration.md) — FAIL-FAST MCP client with dependency injection for production use
+- [MCP Client Library for WorldArchitect.AI](sources/mcp-client-library-worldarchitect-ai.md) — JSON-RPC 2.0 client with HTTP-to-MCP translation, error sanitization, and async-compatible design for Flask integration
+- [Centralized Logging Utility](sources/centralized-logging-utility.md) — dual Cloud Logging + local file output with emoji-enhanced error/warning messages and automatic git-aware initialization
+- [LoadingMessages JavaScript Class](sources/loading-messages-javascript-class.md) — contextual message rotation with 4 message pools and auto-detection of loading overlay/spinner elements
+- [Loading Messages CSS - contextual overlay with fade animation](sources/loading-messages-css-task-005b.md) — inline spinner pill with backdrop blur, message rotation animation, and mobile-responsive layout
+- [LLM Service - AI Integration and Response Processing](sources/llm-service-ai-integration-response-processing.md) — multi-agent Gemini backend with story/god/combat modes, token management fixes, and turn/scene counting systems
+- [LLMResponse Class for Gemini API Responses](sources/llm-response-gemini-api-wrapper.md) — clean architecture wrapper with Pydantic serialization, budget warnings, and backward compatibility
+- [Structured JSON Request to Gemini API](sources/llm-request-class-gemini-api.md) — replaces flawed json_input_schema with typed dataclass for direct JSON serialization
+- [Living World Trigger Evaluation](sources/living-world-trigger-evaluation.md) — turn/time-based trigger logic with state recovery for stale tracking
+- [Living World Protocol — mandatory background events with NPC agenda advancement](sources/living-world-advancement-protocol.md) — generates 3 immediate + 1 long-term event per turn with player-aware visibility rules
+- [Chromium Open Source License Notices](sources/chromium-license-notices.md) — BSD-style license collection for Chromium, double_conversion, dynamic_annotations, and symbolize
+- [Level-Up Mode (D&D 5e) — strict modal flow for character progression with mandatory finish option](sources/level-up-mode-dnd-5e.md) — handles HP, class features, ASI/feats, and spellcasting updates with D&D 5e rules compliance
+- [JSON Parsing Utilities — robust extraction from LLM response artifacts](sources/json-parsing-utilities.md) — brace matching and intelligent JSON candidate selection with scoring functions
+- [Interface Manager — Modern Interface System](sources/interface-manager-modern-interface-system.md) — JavaScript class controlling progressive feature enhancement with localStorage-based toggles
+- [Interactive Features - Milestone 4](sources/interactive-features-milestone-4.md) — Campaign Wizard CSS with step indicators, personality/type cards, and feature-gated modern mode styles
+- [Local Intent Classifier using FastEmbed](sources/local-intent-classifier-fastembed.md) — semantic agent routing via FastEmbed embeddings with 0.65 cosine similarity threshold
+- [Intel Operations for Faction Management](sources/intel-operations-faction-management.md) — Python formulas for spy detection risk and intel success tiers with difficulty multipliers
+- [Real-Mode Testing Framework](sources/real-mode-testing-framework-integration-summary.md) — dual-mode test infrastructure enabling mock/real service switching with zero breaking changes
+- [Input Validation Utilities](sources/input-validation-utilities.md) — UUID/format validation for campaign/user IDs, string sanitization with Unicode normalization, request/array size limits
+- [Inline Editor Component](sources/inline-editor-component.md) — JavaScript class with click-to-edit, keyboard shortcuts, validation, and visual feedback for in-place content editing
+- [Inline Editor Styles](sources/inline-editor-styles.md) — CSS for inline editing UI with hover effects, save/cancel buttons, error states, and responsive mobile layout
+- [TestServiceProvider Implementation](sources/test-service-provider-implementation-summary.md) — abstraction layer enabling mock/real service switching with capture mode for test validation
+- [Gunicorn Production Configuration](sources/gunicorn-configuration-worldarchitect-ai-production.md) — gthread workers achieving 12+ concurrent requests, 10min timeout for Gemini API calls
+- [Modern CSS Foundation Design System](sources/modern-css-foundation-figma-design-system.md) — 80+ CSS design tokens for colors, typography, shadows with dual-theme support (light + Arcane Scholar fantasy)
+- [Generalized File Caching Implementation](sources/generalized-file-caching-implementation.md) — cachetools TTLCache with 1000-file limit, 1-hour TTL, ~11x speedup over direct file I/O
+- [Gemini Code Execution Evidence Helpers](sources/gemini-code-execution-evidence-helpers.md) — server-verified RNG detection in Gemini code_execution responses without model self-reporting
+- [Gemini Explicit Cache Manager](sources/gemini-explicit-cache-manager.md) — splits cache by story age: system+history cached, recent entries uncached, 5-entry rebuild achieves ~200ms amortized overhead
+- [Game State JSON Schema](sources/game-state-schema-json.md) — canonical schema defining game state structure with stats, health, and entity types
+- [GameState Class Definition](sources/game-state-class-definition.md) — campaign state class with D&D 5E mechanics, XP thresholds, and time monotonicity validation
+- [Runtime-generated Pydantic Models](sources/runtime-generated-pydantic-models.md) — dynamic Pydantic generation from JSON Schema eliminates schema drift seen with static models
+- [Game State Management Protocol](sources/game-state-management-protocol.md) — JSON response formatting, session headers, entity ID schema, mandatory dice rolls, inventory validation, and faction minigame routing
+- [Game State Examples](sources/game-state-examples.md) — session header format, response JSON schema, inventory/spell validation rules for LLM responses
+- [Test Fixtures for Pytest and Unittest](sources/test-fixtures-pytest-unittest.md) — pytest fixtures + base classes for mock/real service switching via TEST_MODE
+- [Firestore Service — Database Operations](sources/firestore-service-database-operations.md) — campaign CRUD, game state serialization, and defensive data integrity with Firestore
+- [Thread-safe file caching with TTLCache](sources/generalized-file-caching-module.md) — 1000 file max, 1 hour TTL, stats tracking
+- [Game State Schema Field Constants](sources/game-state-schema-field-constants.md) — auto-generated Python constants from game_state.schema.json with 33 top-level and 48 character fields
+- [Arcane Scholar theme](sources/fantasy-theme-css-variables.md) — deep purple-black palette with gold accents and frosted glass effects
+- [Fallback Behavior Review](sources/fallback-behavior-review-mvp-site.md) — inventory of fallback logic in mvp_site with fail-fast vs justified fallback categorization
+- [Unified Fake Service Manager](sources/unified-fake-service-manager.md) — consolidated fake services manager for Firestore, Auth, and LLM with environment control and patch management
+- [Realistic LLM test doubles with response templates](sources/fake-llm-service-for-testing.md) — Fake pattern returning populated response objects instead of Mock for campaign creation and story continuation
+- [Fake Firestore Implementation](sources/fake-firestore-testing.md) — Fake pattern test double returning real data structures with deep copy semantics to catch post-persistence mutations
+- [Realistic Firebase Auth test doubles](sources/fake-firebase-auth-service-for-testing.md) — Fake pattern implementation returning populated user records instead of mock objects
+- [Service Provider Factory for Tests](sources/service-provider-factory.md) — factory pattern for test providers with mock/real/capture modes and global state management
+- [Unified Fake Service Manager](sources/unified-fake-service-manager.md) — consolidated fake services manager for Firestore, Auth, and LLM with environment control and patch management
+- [Faction Minigame State Access Utilities](sources/faction-minigame-state-access-utilities.md) — centralized extraction of faction_minigame dict from various game_state structures with provider-agnostic approach
+- [Faction & Army Management System](sources/faction-army-management-system.md) — mandatory suggestion protocol for faction minigame with mass combat mechanics and power calculation tools
+- [Sariel Prompt Extractor](sources/sariel-prompt-extractor-integration-testing.md) — extracts 10 LLM prompts from Sariel campaign for integration testing with metadata
+- [Equipment Display Utilities](sources/equipment-display-inventory-formatting-utilities.md) — deterministic functions for equipment query detection, scope classification, and narrative summaries
+- [Enhanced Post-Generation Validation with Retry](sources/enhanced-post-generation-validation-retry.md) — EntityValidator class detecting missing entities with retry logic for narrative generation
+- [Entity Validator Shim](sources/entity-utils-backward-compatibility-shim.md) — Re-exports filter_unknown_entities and is_unknown_entity for legacy imports
+- [Entity Tracking System](sources/entity-tracking-system.md) — wrapper module bridging application to Pydantic schemas for scene manifest creation and entity status/visibility tracking
+- [Entity Preloader — Backward Compatibility Shim](sources/entity-preloader-backward-compatibility-shim.md) — re-exports from consolidated modules for migration support
+- [Enhanced Explicit Entity Instructions Generator](sources/enhanced-explicit-entity-instructions-generator.md) — template-based AI instructions ensuring entity presence with 3-tier priority system
+- [Entity Schema Models — Pydantic-based entity tracking with sequence ID format, type-safe combat disposition enums, and defensive numeric field validation](sources/pydantic-schema-models-entity-tracking.md) — sequence ID format {type}_{name}_{sequence}, imports DefensiveNumericConverter for robust D&D stat handling
+- [Enhanced Search & Filter — real-time campaign search with debounce, multi-filter (theme/status), sort options, and dynamic result counting](sources/enhanced-search-filter-milestone-4.md) — dashboard search UI only activates in modern mode
+- [Enhanced Components CSS — feature-flag controlled button/card/form enhancements with ripple effects, glass morphism, and loading states](sources/enhanced-components-css.md) — feature flag controlled, ripple animations for buttons, hover lift for cards, focus scale for forms
+- [Ember Particle Background — floating ember effect with 160 particles, warm color palette, and accessibility support](sources/ember-particle-background.md) — JavaScript canvas animation ported from worldai_claw, gates on fantasy theme
+- [Dual-Mode Campaign System — D&D + Faction Integration](sources/dual-mode-campaign-system-dnd-faction-integration.md) — combines personal adventures with strategic faction management via time-scale switching, attention triggers for crisis/neglect events
+- [Dragon Emoji SVG](sources/dragon-emoji-svg.md) — minimal SVG with dragon emoji glyph
+- [Document Generation System — multi-format export (PDF, DOCX, TXT) with actor labeling and debug event extraction](sources/document-generation-system.md) — Python module for campaign document generation with story log processing
+- [WorldArchitect.AI Docker Production Image — python:3.11-slim with fastembed cache pre-baking, gthread workers, and build-time cache-busting](sources/worldarchitect-ai-dockerfile-production.md) — production Docker configuration for concurrent requests and offline model serving
+- [D&D 5E SRD System Authority — mechanical rules reference with proficiency tables, roll formulas, and class save proficiencies](sources/dnd-5e-srd-system-authority.md) — mechanical rules reference with proficiency tables
+- [Divine Leverage System — tri-layer deception with Divine Rank progression from Mortal to Greater Deity, Divine Dissonance risk tracking](sources/divine-leverage-system.md) — tri-layer deception with Divine Rank progression
+- [Divine Ascension Ceremony — transition from mortal to hidden god with multi-layer deception protocol](sources/divine-ascension-ceremony.md) — triggers on divine_potential≥100 or level 25+, Domain Truths grant reality-bending powers
+- [Dice Mechanics Utilities Module](sources/dice-mechanics-utilities-module.md) — logging utilities for dice fabrication detection with deterministic RNG support for testing
+- [Dice & Mechanics Tool Requests Protocol](sources/dice-mechanics-tool-requests-mandatory-protocol.md) — mandatory tool_request array for all dice rolls, server execution with DC set before roll
+- [Dice Values Are Unknowable — Code Execution Protocol](sources/dice-values-unknowable-code-execution-protocol.md) — requires random.randint() execution; DC must be set BEFORE rolling
+- [Dice Strategy Selection](sources/dice-strategy-selection.md) — decides between Gemini code_execution and Cerebras/OpenRouter native_two_phase based on provider
+- [Gemini Provider — llm_service Isolation](sources/gemini-provider-implementation-isolated.md) — SDK limitation blocks additionalProperties, uses response_mime_type + post-validation
+- [Gemini Code Execution Evidence Helpers](sources/gemini-code-execution-evidence-helpers.md) — server-verified RNG detection in Gemini code_execution responses without model self-reporting
+- [Verifiable dice rolls via SHA-256 commitment scheme](sources/provably-fair-dice-roll-primitives.md) — server publishes hash pre-roll, reveals seed post-roll for player verification
+- [WorldArchitect.AI Deployment Guide](sources/worldarchitect-ai-deployment-guide.md) — Gunicorn gthread worker config with (2×CPU+1)×4 formula achieving 12+ concurrent requests, 600s timeout alignment
+- [Deferred Rewards Protocol](sources/deferred-rewards-protocol.md) — catches missed XP/loot every 10 turns without double-counting via rewards_processed flags
+- [Defensive Numeric Converter](sources/defensive-numeric-converter.md) — Python class with field-specific defaults for D&D game fields (HP, ability scores, resources) with range validation
+- [Default Theme CSS Variables](sources/worldarchitect-ai-default-theme-css-variables.md) — CSS custom properties for backgrounds, text, panels, and buttons
+- [Decorators Module](sources/decorators-module.md) — utility @log_exceptions decorator for consistent exception logging across services
+- [Hybrid Debug Content System](sources/hybrid-debug-content-system.md) — backward compatibility for embedded debug tags vs structured debug_info fields
+- [Data Fixtures for Testing](sources/data-fixtures-testing.md) — sample data for campaigns, game states, AI responses, and state updates
+- [Shared Type Definitions for WorldArchitect.AI](sources/shared-type-definitions.md) — TypedDicts for Firebase data structures, type aliases, and Protocol definitions
+- [WorldArchitect.AI Code Coverage Report — mvp_site Module Analysis](sources/worldarchitect-ai-code-coverage-report-mvp-site.md) — 56 Python files with 0% coverage, gemini_service.py largest at 822 statements
+- [Token Budget Allocation for LLM Requests](sources/context-compaction-token-budget-allocation.md) — min-first strategy guaranteeing 30% min to story context, extracted from llm_service.py
+- [Shared Constants Configuration](sources/shared-constants-configuration.md) — app version, LLM providers (Gemini/OpenRouter/Cerebras/OpenClaw), model redirection, code execution support
+- [Pytest Configuration for MVP Site Tests](sources/global-pytest-configuration-mvp-site-tests.md) — forces mock services and dev-mode for test runs, prevents real API calls
+- [Test Configuration Management](sources/test-configuration-management.md) — Python class for test environment variables and validation across Firestore, Gemini, and Auth
+- [Test Run Results — v1 vs v2 Comparison](sources/test-run-results-v1-v2-comparison.md) — 39 test combinations, 0% coverage at capture time, compliance checklist complete
+- [Modern Component Styles with Bootstrap Compatibility](sources/modern-component-styles-bootstrap-compatibility.md) — CSS bridging new design system tokens to Bootstrap components with glass morphism cards and focus ring form controls
+- [Component Enhancer — Bootstrap enhancement with ripple effects and loading states](sources/component-enhancer-bootstrap-component-enhancement.md) — feature-flag controlled, temporarily disabled due to CSS conflicts
+- [Combat System Protocol — strict initiative order, reaction windows, and XP display](sources/combat-system-protocol.md) — mandatory turn sequencing with reaction pauses and combat-end protocol for XP awarding
+- [Code Review — mvp_site/ 132 files, 15K+ LOC](sources/worldarchitect-ai-comprehensive-code-review-summary.md) — comprehensive review reveals strong architecture with 34 documented Python files, test infrastructure gaps, and optimization areas
+- [Clock Skew Credentials Patch](sources/clock-skew-credentials-patch.md) — monkey-patches google.auth._helpers.utcnow() with 12-minute adjustment, auto-disables on Cloud Run, includes UseActualTime context manager
+- [Services Layer Architecture](sources/services-layer-architecture.md) — business logic abstraction layer with Firebase integration, AI services, and dependency injection patterns for MVP
+- [Character Profile Template](sources/character-profile-template.md) — RPG character framework with behavioral expression over labels, internal MBTI/alignment storage
+- [Character Creation & Level-Up Mode — D&D 5e pause menu with mandatory choice format and finish protocol](sources/character-creation-level-up-mode.md) — pause menu for character building with time freeze, requires explicit exit choice
+- [Character Creation & Level-Up Mode — D&D 5e pause menu with mandatory choice format and three creation methods](sources/character-creation-level-up-mode.md) — guided character building flow with finish choice protocol, delegates level-up to LevelUpAgent
+- [Cerebras Direct API Provider — json_schema strict:false prevents schema echo](sources/cerebras-direct-api-provider-implementation.md) — OpenAI-compatible endpoint implementation with error handling for model_not_found and response_format failures
+- [LLM API Call Capture — Gemini Prompt/Response Logging](sources/llm-api-call-capture-gemini-logging.md) — raw API call captures from Sariel campaign showing entity manifests, game state context, and enforced JSON response schema
+- [Data Capture Framework Implementation — CaptureManager Python class with context managers, JSON storage, and automatic sanitization](sources/data-capture-framework-implementation-python.md) — implementation code for real service interaction recording during testing
+- [Capture Framework Documentation — capture mode, transparent wrappers, CLI tools for mock validation](sources/capture-framework-documentation.md) — environment-based recording with automatic sanitization for Real-Mode Testing
+- [LLM Response Capture — Sariel campaign with integration test pattern](sources/llm-response-capture-sariel-campaign.md) — Python script capturing LLM outputs via Flask test client for documentation
+- [Data Capture Framework — real service interaction recording for mock validation](sources/data-capture-framework-implementation.md) — complete capture framework with transparent wrappers, analysis tools, and CLI for mock vs real comparison
+- [Capture Framework Demo — real-time API recording with mock comparison](sources/capture-framework-demo-service-interaction-capture.md) — demonstrates capture mode, service provider initialization, and JSON interaction logging for WorldArchitect.AI testing
+- [Capture Analysis CLI — service interaction validation via five subcommands](sources/capture-analysis-cli.md) — analyze, compare, baseline, cleanup, list commands for capture file management
+- [CaptureAnalyzer — service interaction analysis and mock comparison](sources/capture-analyzer-service-interaction-analysis.md) — analyzes JSON captures, tracks performance metrics, and compares real responses against mocks
+- [LLM Response Capture — Sariel campaign with integration test pattern](sources/llm-response-capture-sariel-campaign.md) — Python script capturing LLM outputs via Flask test client
+- [Campaign Wizard — multi-step guided campaign creation with milestone tracking and default narrative hooks](sources/campaign-wizard-milestone-4-interactive-features.md)
+- [CSS fixes for campaign title clickability](sources/campaign-click-fix-task-005a.md) — pointer-events isolation, z-index layering, and scale transform for click feedback
+- [Campaign Upgrade Planning Block Helpers](sources/campaign-upgrade-planning-block-helpers.md) — normalizes planning block choices, injects ascension ceremony options for CampaignUpgradeAgent
+- [Campaign Upgrade Detection — divine/multiverse tier transitions](sources/campaign-divine-multiverse-upgrade-detection-logic.md) — tier thresholds: divine_potential≥100/level≥25, universe_control≥70
+- [CSS Variable Bridge for Design System Migration](sources/css-variable-bridge-design-system-migration.md) — maps legacy CSS custom properties to new design system tokens for backward compatibility during theming migration
+- [SRD Battle Simulation](sources/srd-battle-simulation-worldai-faction.md) — D&D 5.1 mechanics for faction combat with Fast/Detailed/Deterministic modes
+- [WorldArchitect.AI Frontend Base Template](sources/worldarchitect-ai-frontend-base-template.md) — Bootstrap 5.1.3 + Firebase Auth 9.6.1 template with custom theming system
+- [WorldArchitect.AI Default Theme](sources/worldarchitect-ai-default-theme-css-variables.md) — CSS custom properties defining theming for navbar, modals, forms, and content areas
+- [Banned Names Configuration](sources/banned-names.md) — 56-name blocklist for overused fantasy names in AI-generated world content
+- [Avatar Components — Campaign Creation Upload + In-Game Display](sources/avatar-components-campaign-creation-upload-in-game-display.md) — CSS avatar upload zone, in-game thumbnails, crop overlay, and expanded avatar card with backdrop blur
+- [Avatar Components — Campaign Creation Upload + In-Game Display](sources/avatar-components-campaign-creation-upload-in-game-display.md) — CSS avatar upload zone, in-game thumbnails, crop overlay, and expanded avatar card with backdrop blur
+- [Avatar Crop UI — Drag-to-Reposition](sources/avatar-crop-js-drag-to-reposition-avatar-upload.md) — circular crop UI with drag-to-reposition, session-based lifecycle guard prevents stale callbacks
+- [Firebase Authentication with Test Mode Support](sources/firebase-authentication-test-mode-support.md) — Firebase auth initialization with dev test bypass for local development
+- [Lightweight Architecture Analysis Helpers](sources/lightweight-architecture-analysis-helpers.md) — deterministic file analysis for test suite without heavyweight static analysis
+- [WorldArchitect.AI Frontend App.js](sources/worldarchitect-ai-frontend-app-js-core-ui-logic.md) — view navigation, rate limit modals, streaming client, and Bootstrap tooltip integration
+- [Clock Skew Detection](sources/clock-skew-detection-compensation-system.md) — client-server time sync via /api/time endpoint with automatic compensation delays
+- [API Test Consolidation Summary](sources/api-test-consolidation-summary.md) — 94% API call reduction via test consolidation and configuration-driven testing
+- [Animation Helpers — smooth transitions and micro-interactions for WorldArchitect.AI frontend](sources/animation-helpers-frontend-transitions.md) — 300ms fade animations for view switching, form submissions, and loading states
+- [Animation Helpers — smooth transitions and micro-interactions for WorldArchitect.AI frontend](sources/animation-helpers-frontend-transitions.md) — 300ms fade animations for view switching, form submissions, and loading states
+- [Token Pattern Analysis — 100 narrative samples examined for 6 token patterns (deletion, markup, state commands, JSON, punctuation, AI directives), gaps found between documented and implemented tokens](sources/narrative-sample-token-analysis.md)
+- [AI Faction Generator — 200 deterministic factions with seeded generation, difficulty distribution (30/40/30%), behavior and aggression scaling](sources/ai-faction-generator-worldai.md)
+- [Prompt Building Utilities — centralized prompt manipulation for 25+ prompt types, replaces scattered construction in llm_service/world_logic](sources/prompt-building-utilities-agent-system-instructions.md)
+- [Action Resolution Dice Roll Extraction](sources/action-resolution-dice-roll-extraction-helpers.md) — centralized helper functions for extracting formatted dice rolls and audit events from action_resolution dictionaries
+- [LLM Provider Cold-Start Optimization](sources/llm-provider-cold-start-optimization.md) — lazy loading via __getattr__ defers ~840ms google.genai import, enables 5 provider modules
+- [Clean Architecture Rules — Python restricted to data collection only, "approve1234" required for new files](sources/clean-architecture-rules-python-files-prohibition.md) — enforces Claude-as-intelligence pattern
+- [PR #1440 Documentation Analysis — 45 tests failed but claims 16-18x improvements, merge BLOCKED until data integrity resolved](sources/copilot-analysis-report-pr-1440-documentation-guides.md) — critical data integrity discrepancy in performance claims
+- [PR #1440 Documentation Analysis — 45 tests failed but claims 16-18x improvements, merge BLOCKED until data integrity resolved](sources/copilot-analysis-report-pr-1440-documentation-guides.md) — critical data integrity discrepancy in performance claims
+- [Universal Composition fix for /contexte — user-data approach replaces failed built-in command invocation](sources/contexte-command-universal-composition-fix.md) — built-in slash commands cannot be invoked programmatically
+- [Claude Code Complete System Prompt — ~7,009 tokens captured via HTTP proxy from Claude Code 1.0.108](sources/claude-code-complete-system-prompt-raw-capture.md) — raw system prompt showing concise output requirements (under 4 lines), no preamble/postamble, minimal token guidelines
+- [Context Optimization Phases 2-4 — tool selection optimization (30-40% reduction), Serena MCP routing (50-70%), response compression (40-50%)](sources/context-optimization-implementation-plan-phases-2-4.md) — Phase 1 complete, 9 hours implementation plan for Phases 2-4
+- [Context Optimization Implementation Plan — 50-70% token reduction via slash command trimming, Context Monitor, and hook system](sources/context-optimization-implementation-plan.md) — phased implementation approach with code examples
+- [Context Components Reference — 10,500 token entity reserve, scaffold ~15-20%, story budget ~50-60%](sources/context-components-reference.md) — detailed token allocation breakdown with code pointers for WorldArchitect.AI LLM context
+- [Context Budget System — 90% safety margin with 25/10/60% story split, auto-fallback explicitly removed in PR #2311](sources/context-budget-design-document.md) — token allocation system preventing ContextTooLargeError
+- [PR #3902 Conflict Resolution — no main functionality lost, context managers preserved, intent classification metadata retained](sources/conflict-resolution-pr-3902.md)
+- [CLAUDE.md Compression Analysis — 74% reduction (811→213 lines) while preserving all 250 rules via symbol legends, tables, and reference extraction](sources/claude-md-compression-analysis-proof-of-content-preservation.md)
+- [PR Comment Processing System — 3-step workflow: fetch via /commentfetch, analyze, then post via GitHub API with threaded replies](sources/comment-reply-workflow.md)
+- [Comprehensive Site Testing Report](sources/worldarchitect-ai-comprehensive-site-testing-report.md) — WorldArchitect.AI dev environment testing confirms operational status, good performance, proper authentication
+- [Command Usage: Top 30 Commands](sources/command-usage-last-30-days.md) — /copilot leads (552 uses), 131 commands at zero usage from 27,305 conversations
+- [Schema Test Centralization Evidence — 100% pass rate via error/warning classification in schema validation](sources/schema-test-centralization-evidence.md) — SchemaValidationTestBase distinguishes blocking errors from non-blocking warnings
+- [Command Output Trimmer Hook](sources/command-output-trimmer-hook.md) — smart compression system for Claude Code slash command outputs via PostToolUse hook
+- [Combat Turn Fix — mandatory initiative order + status block display for all combatants](sources/combat-turn-management-resource-visibility-fix.md) — fixes consecutive player turns and missing HP/AC visibility
+- [Codebase Statistics — 431K lines, 52.4% test coverage, 9.1 deployments/day](sources/codebase-statistics.md) — Python-dominant (82%) codebase with 143% more test than production code
+- [Code Execution JSON Fix — artifact removal in parse_structured_response() resolves "Expecting value" errors](sources/code-execution-json-parsing-fix-verification.md) — 10 tests pass, GCP logs confirm fix
+- [Cloud Run Commit SHA Tracking — 3-method traceability: image tags, Cloud Run labels, Cloud Build integration](sources/cloud-run-commit-sha-tracking.md)
+- [Firebase Security Rules Maintenance Guide — production security operations, health checks, emergency rollback](sources/firebase-security-rules-maintenance-guide.md) — secure production rules with defense-in-depth and zero-trust model
+- [Claude Code Innovation Discovery Report (Full) — 10 breakthrough workflow patterns (15.6 PRs/day, 119 commits peak)](sources/claude-code-innovation-discovery-report-full.md) — expanded version with all 10 innovations including tmux orchestration, command composition, and MCP integrations
+- [CLI Provider Test Results](sources/cli-provider-test-results.md) — Claude opus orchestration works, sonnet rate-limited, MiniMax/Codex functional
+- [Project Documentation Structure — docs/ directory organization with ADR, feature evidence, and API documentation standards](sources/project-documentation-structure.md) — documentation standards lifecycle and quality assurance
+- [Claude Code Session Analysis — 2,620 sessions, 15.6 PRs/day, 96% orchestration usage](sources/claude-code-session-analysis-report.md) — 30-day analysis showing 85% first-time-right accuracy but 97% orchestration failure rate
+- [Claude Code Learning & Mistakes — 2,188 learning opportunities, 716 /learn commands, 20 mistake types](sources/claude-code-learning-mistakes-analysis-report.md) — 83.5% learning rate, orchestration failures (342) as top mistake
+- [Claude Code Innovation Discovery — 10 breakthrough workflow patterns (15.6 PRs/day, 119 commits peak)](sources/claude-code-innovation-discovery-report.md) — July-Aug 2025 analysis of Claude Code innovations including tmux orchestration, command composition, and MCP integrations
+- [Claude Code System Prompt Capture — Debug vs HTTP Proxy vs ccproxy-api](sources/claude-code-system-prompt-capture-method-comparison.md) — Debug mode (no setup) and HTTP proxy (programmatic) both capture ~32KB; ccproxy-api failed due to Pydantic issues
+- [Claude Code System Prompt — captured via debug mode](sources/claude-code-system-prompt-captured-via-debug-mode.md) — ~2.9MB system prompt analysis from Claude Code 1.0.108, tool hierarchy, and security policies
+- [Cloud Run Commit SHA Tracking](sources/cloud-run-commit-sha-tracking.md) — 3-method commit SHA tracking for Cloud Run: image tagging, labels, Cloud Build integration
+- [Campaign Bulk Deletion — 453 "My Epic Adventure" campaigns removed via batch script](sources/campaign-deletion-summary.md) — exact-match deletion with dry-run safety, 100% success, preserved 36 similar titles
+- [Explicit Cache Evidence — PR #5813](sources/explicit-cache-evidence-pr-5813.md) — fixes double-billing, cache/provably-fair incompatibility, and silent cache disabling; achieves 89-93% hit rate
+- [Deprecated Server Scripts](sources/deprecated-server-scripts.md) — deprecated run_test_server.sh, run_local_server.sh replaced by unified test_server_manager.sh
+- [Browser Automation Workflows: Daily Dev → PR → Bug Fix → CI/CD](sources/browser-automation-workflows.md) — 4-stage workflow: Superpowers Chrome for fast dev, Playwright for regression/CI, staged pipeline with 30s smoke gate
+- [Browser Automation Comparison: Playwright vs Superpowers Chrome](sources/browser-automation-comparison-playwright-vs-superpowers-chrome.md) — Playwright (200 deps, multi-browser, fresh instances) vs Superpowers Chrome (zero deps, persistent sessions, 1-2s launch)
+- [Genesis vs Ralph Benchmark — 3-project test](sources/genesis-vs-ralph-orchestrator-benchmark.md) — Genesis 3/3 (Codex/tmux) vs Ralph 2/3 (Claude fallback); codex adapter bug in Ralph
+- [Manual Beads Creation Guide](sources/manual-beads-creation-guide.md) — 13 priority issues from evaluation feedback: context hallucination, monotonic counters, FP/gold transparency, HP tracking
+- [Manual Beads Creation Guide](sources/manual-beads-creation-guide.md) — 13 priority issues (Critical→Medium) for game state consistency, prompt engineering, character progression
+- [Backup Script — Codex Integration](sources/backup-script-enhancement-codex-conversations.md) — Enhanced claude_backup.sh to backup both Claude and Codex conversation history to Dropbox via rsync, runs every 4 hours
+- [Scene Backtracking Prevention Plan — Auto god-mode application, auto-filled resource updates, continuity locks to guide model forward](sources/preventing-scene-backtracking-god-mode-corrections.md) — proactive prevention over blocking errors
+- [AO Cursor Workers — 7-Green Queue](sources/ao-cursor-workers-7-green-queue.md) — GitHub variable config to hold PRs from auto-merge until skeptic verdict
+- [Animal Movement Web Game — HTML5 Canvas engine with sprite animation, velocity-based physics, and 32x32 tile worlds](sources/animal-movement-web-game-technical-design-document.md)
+- [AI Universe Frontend Testing Report — HTTP 200 on Render, 547KB Vite bundle, backend auth blocks automated verification](sources/ai-universe-frontend-testing-report.md)
+- [20-Turn Test Improvement Summary — Iteration 005 fixes timestamp reversals, tutorial messaging, early level progression; later level jump (2→5) remains](sources/20-turn-test-improvement-summary.md) — Phase 1 prompt fixes working, Phase 2 context management recommended for 15+ scenes
+- [Latency Baseline Report: mvp-site-app-dev](sources/latency-baseline-report-mvp-site-app-dev.md) — 41s cold start vs 737ms warm: Cloud Run cold start (~18s) + containerConcurrency:10 causes cascading cold instances
+- [Schema-Prompt Drift Investigation — 59 hardcoded JSON examples across 13 prompt files drift from schema](sources/schema-prompt-drift-investigation.md) — runtime injection system exists but only generates type docs, not example JSON
+- [OpenClaw E2E Remote Routing Fix — 4 fixes: tap proxy timeout (30s→120s), DNS check window (12×1s→60×2s), Step 8 remote routing branch, HTTP connectivity probe](sources/openclaw-e2e-remote-routing-fix.md)
+- [OpenClaw Agent Swarm Architecture — Elvis's "replace me" setup](sources/zoe-openclaw-agent-swarm-reference.md) — two-tier orchestration: Zoe/OpenClaw as orchestrator spawning Codex/Claude agents with cron monitoring, 94 commits/day proof point
+- [Webhook Pipeline Operator Runbook](sources/webhook-pipeline-operator-runbook.md) — operational guide for GitHub webhook ingress, SQLite queue, and Symphony dispatch with SLO alerts
+- [User Preferences & Patterns](sources/user-preferences-patterns-learnings.md) — communication style (terse, WhatsApp), technical stack (Codex, MiniMax), workflow patterns (cron, PR reviews)
+- [Animal Movement Web Game - Technical Design Document](sources/animal-movement-web-game-technical-design-document.md) — HTML5 Canvas game engine with animal movement physics, sprite animation, and tile-based environments
+- [Symphony Runtime Dedupe Contract](sources/symphony-runtime-dedupe-contract.md) — defines retained local extensions vs runtime primitives for Symphony daemon
+- [Smartclaw Delegation Routing Fix — Mar 2026](sources/smartclaw-routing-delegation-failures-postmortem.md) — fixed cross-repo delegation by adding explicit SOURCE_REPO/TARGET_REPO headers and mandatory pre-PR identity checks
+- [Orchestration System Design: gh_integration.py Justification](sources/orchestration-system-design-justification.md) — custom Python wrapper over gh CLI chosen over PyGithub/GitHubKit for type safety, fail-closed errors, GraphQL review threads, and zero extra deps
+- [Playwright MCP: Primary Browser Testing Method](sources/llm_wiki-raw-worldarchitect.ai-playwright_mcp_primary.md-d1e2a76c.md) — Playwright MCP mandatory for headless browser testing with Puppeteer/local Playwright fallbacks
+- [Orchestration Architecture Research](sources/orchestration-architecture-research.md) — validates hybrid LLM+deterministic approach with 30 parallel agents (Composio) and LLM-as-Judge (Spotify)
+- [OpenClaw Backup Automation](sources/openclaw-backup-automation.md) — launchd-based recurring backup of ~/.openclaw with secret redaction
+- [Harness Engineering Philosophy](sources/harness-engineering-philosophy.md) — 4-layer architecture for reliable AI agent work: environment config → deterministic reactions → LLM judgment → entropy management
+- [Genesis: Persistent Orchestration Layer](sources/genesis-persistent-orchestration-layer-openclaw.md) — configuration/content layer on OpenClaw filling blank workspace files and enabling MCP Mail
+- [CodeRabbit Re-Review Ping Workflow](sources/coderabbit-re-review-ping-workflow.md) — correct @coderabbitai format, post after push only, deduplication rule
+- [AO Exhaustive Audit Findings (File-Level Sweep)](sources/smartclaw-ao-exhaustive-audit-findings-file-level-sweep.md) — file-level audit comparing mctrl/jleechanclaw/worldarchitect vs AO reference; gap closure beads created
+- [LLM-First State Management Plan (PR #2778)](sources/llm-first-state-management-plan-pr-2778.md) — LLM-first approach replacing server-side validation for campaign coherence (timestamp, gold, level fixes)
 - [MCP Server Installation Guide](sources/worldarchitect.ai-scripts-mcp_setup.md-d8bf98ae.md) — global installation for Claude/Codex with 15+ servers, copy to new repo workflow
 - [Ubuntu Dual Boot System Information](sources/worldarchitect.ai-docs-ubuntu-dual-boot-pc-specs.md-a5e54cc2.md) — Intel i9-13900K + 64GB RAM + RTX 4090
 - [Beads CLI Command Reference](sources/beads-docs-cli_reference.md-b47a2629.md) — comprehensive command reference for bd CLI v0.21.0+ covering issue management, atomic operations, and state management
@@ -18,7 +656,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Differentiated Linting Workflows](sources/worldarchitect.ai-docs-workflow_differentiation.md-9945d804.md) — `/push` quality gate (lint before push, blocking) vs `/pushl` fast iteration (push first, non-blocking)
 - [Timeline Log Budgeting Claim Review](sources/worldarchitect.ai-docs-timeline_log_claims.md-b993975c.md) — debunks TIMELINE_LOG_DUPLICATION_FACTOR 2.05 claim; timeline log not serialized in LLMRequest
 - [Command Usage — Last 30 Days](sources/worldarchitect.ai-docs-command-usage.md-a82ab449.md) — 27,305 files scanned, /copilot leads with 552 invocations, 131 commands at zero usage
-- [V1/V2 Architectural Differences Reference](sources/worldarchitect.ai-docs-v1_v2_architectural_differences.md-95e43944.md) — technical reference for V1 Flask vs V2 React architectures, data format conversion, and debugging patterns
+- [WorldArchitect.AI Business Plan — First AI RPG platform with 0% desync, D&D 5e mechanics, BYOK pricing; $2.88M projected by 2028](sources/worldarchitect-ai-business-plan.md) — 0% desynchronization achievement vs competitors' memory degradation, break-even month 24
 - [V2 Campaign Creation Performance Improvements](sources/worldarchitect.ai-docs-v2-performance-improvements.md-8c4b66ed.md) — animated progress bar, optimistic UI, error recovery with retry, and power-user skip animation for 10-11 second campaign creation
 - [LLM-First State Management Plan](sources/worldarchitect.ai-docs-llm_state_management_plan.md-2909e4cb.md) — PR #2778: LLM-first approach to campaign coherence replacing server-side validation with prompt engineering
 - [PR #3746: Session Header Fix - Before/After Evidence](sources/worldarchitect.ai-docs-pr-3746-evidence.md-4081a17a.md) — 0%→100% pass rate via fallback generation + CURRENT/MAX format
@@ -79,6 +717,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [Import Optimization Analysis Report](sources/worldarchitect.ai-docs-import-optimization-analysis.md-3bf88938.md) — 167 inline imports across 64 files, organized by severity
 
+- [Implementation vs Orchestration Decision Framework](sources/implementation-vs-orchestration-decision-framework.md) — systematic framework preventing fake code through "Can I implement this fully right now?" gate
 - [Implementation vs Orchestration Decision Framework](sources/worldarchitect.ai-docs-implementation-decision-framework.md-ffa9728e.md) — systematic framework preventing fake code through "Can I implement this fully right now?" gate
 - [Team Guide: Fake Code Prevention](sources/worldarchitect.ai-docs-team-fake-code-prevention-guide.md-77b17e6f.md) — adoption guide for enhanced fake code prevention with mandatory /fake3 and zero-tolerance policies
 - [Preventing Scene Backtracking and Missed God-Mode Corrections](sources/worldarchitect.ai-docs-backtracking_prevention_plan.md-62338d56.md) — proactive prevention, auto state repair, and continuity locks to prevent scene rewinding
@@ -103,7 +742,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [JSON Parsing Changes - PR #3458](sources/worldarchitect.ai-docs-json_parsing_changes.md-cd5aa29e.md) — removed regex-based JSON recovery, now uses json.loads() only — fail-fast behavior
 - [MCP Server Red-Green Analysis - PR #1551](sources/worldarchitect.ai-docs-mcp_server_redgreen_analysis.md-b0eb466e.md) — Red-Green analysis showing MCP server warnings are cosmetic only, 98.8% test pass rate, system production ready
 - [External Memory Backup System Debug Summary](sources/worldarchitect.ai-docs-memory-backup-debug-summary.md-a39b1aee.md) — fixed 4/5 failing health checks to 0/5 passing
-- [TASK-074 Unit Test Coverage Review](sources/worldarchitect.ai-docs-task_074_progress_summary.md-e1559df6.md) — fixed coverage.sh vpython path, PR #394 ready for merge
+- [TASK-074 Unit Test Coverage Review - Progress Summary](sources/llm_wiki-raw-worldarchitect.ai-task_074_progress_summary.md-e1559df6.md) — fixed coverage.sh vpython path, PR #394 ready for merge
 - [System Prompt Test Scenarios](sources/worldarchitect.ai-docs-system_prompt_test_scenarios.md-10ff2e08.md) — 5 test scenarios validating system prompt generates action-first Claude Code commands
 - [Claude Code System Prompt Capture - Method Comparison](sources/worldarchitect.ai-docs-claude_code_system_prompt_comparison.md-8ee34429.md) — compares debug method vs HTTP proxy method for system prompt capture
 - [CLAUDE.md - Directory Documentation Standards](sources/worldarchitect.ai-docs-claude.md-012e4860.md) — comprehensive documentation standards covering ADRs, feature evidence, and lifecycle management
@@ -146,6 +785,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Smartclaw Zero-Touch Definition](sources/smartclaw-zero-touch-definition.md) — Zero-touch: AO spawned + worker drove to N-green + skeptic merged; GitHub actor audit
 - [Smartclaw ws-stream Incident 2026-03-28](sources/smartclaw-2026-03-28-ws-stream-incident.md) — P0: protocol version mismatch → 367 WS failures/day → Slack reply drops → downgrade to 2026.3.24
 - [Smartclaw Staging Pipeline](sources/smartclaw-staging-pipeline.md) — 3-stage pipeline: staging branch → canary (6/6) → CI gate (2/6) → production
+- [Smartclaw Staging Pipeline](sources/smartclaw-staging-pipeline.md-4c297a3c.md) — 3-stage pipeline: staging branch → canary (6/6) → CI gate (2/6) → production
 - [Smartclaw Context Window Comparison](sources/smartclaw-context-window-comparison.md) — OpenClaw (business context) vs AO workers (delivery context)
 - [Smartclaw Postmortem 2026-03-19](sources/smartclaw-postmortem-2026-03-19-routing.md) — Wrong repo context delegation; SOURCE/TARGET contract enforced
 - [Smartclaw Orchestration Research 2026](sources/smartclaw-orchestration-research-2026.md) — Spotify Honk, Composio AO: 30 agents, 60% PR success, LLM-as-Judge veto
@@ -162,11 +802,20 @@ This file is maintained by the LLM. Updated on every ingest.
 - [jcc-19-fix Audit Report](sources/jcc-19-fix-audit-report.md) — Token scrub policy, AGENTS.md workspace version, migration bundle scrub strategy
 - [Discord Eng Bot SOUL.md](sources/discord-eng-bot-soul.md) — Consensus: Discord-first answer bot, second-opinion-tool, citation rules, hard output gate
 - [JSON Display Bugs Analysis Report](sources/json-display-bugs-analysis-report-2026-04-07.md) — Analysis of two JSON display bugs in PR #278 verified as FIXED
+- [Second Opinion: Campaign Coherence Analysis (Iteration 005)](sources/llm_wiki-raw-secondo_campaign_analysis_iteration_005.md-9798155f.md) — 20-turn faction campaign test analysis: timestamp/gold/level fixes validated, remaining gaps in arithmetic narration
+- [Critical Fake Code Warning](sources/llm_wiki-raw-critical_fake_code_warning.md-a683ff62.md) — Auto-generated warning from Claude Code's fake code detection hook (v2.0), 0 violations detected
+- [File Validation Hook - Comprehensive Test Results](sources/file-validation-hook-comprehensive-test-results.md) — post-file creation validator hook tests: 6 violation tests + 3 approved placement tests, all passed
+- [Faction Test Status - iteration_020](sources/faction-test-status-iteration-020.md) — prompt updates for tool invocation: cached value warnings, reminder tokens, forbidden rules targeting 50%+ tool usage
 
 ## Entities
 
+- [Shadow](entities/Shadow.md) — Lvl 3 Rogue player character with HP 22/28, XP 2500/6000, 75gp — referenced in think mode tests
+
 ## Concepts
 
+- [Think Mode](concepts/ThinkMode.md) — game mode for strategic planning without narrative advancement; advances time by only 1 microsecond
+
+- [XP (Experience Points)](concepts/XP.md) — D&D 5e currency for progression; awarded for combat, encounters, quests, and milestones; triggers level-up when thresholds are reached
 - [Research Test Report: Default /review Command in Claude Code CLI](sources/worldarchitect.ai-docs-research_review_command_test_report.md-895e5636.md) — confirms `/review` is a built-in slash command in Claude Code CLI
 
 - [Research Reproducibility Test Report](sources/worldarchitect.ai-docs-research_reproducibility_test_report.md-762c9ac3.md) — confirms `/review` is a built-in slash command in Claude Code CLI

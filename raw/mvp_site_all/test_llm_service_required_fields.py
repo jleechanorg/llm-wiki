@@ -1,0 +1,888 @@
+from __future__ import annotations
+
+from unittest.mock import Mock
+
+from mvp_site import constants, dice_strategy
+from mvp_site.dice_integrity import (
+    _check_dice_integrity,
+    _detect_combat_in_narrative,
+    _detect_narrative_dice_fabrication,
+    _is_code_execution_fabrication,
+    _should_require_dice_rolls_for_turn,
+    _validate_combat_dice_integrity,
+)
+from mvp_site.game_state import GameState
+from mvp_site.llm_service import _check_missing_required_fields
+from mvp_site.narrative_response_schema import NarrativeResponse
+
+
+def _valid_planning_block() -> dict:
+    return {
+        "thinking": "t",
+        "choices": {"a": {"text": "x", "description": "y", "risk_level": "low"}},
+    }
+
+
+def test_check_missing_required_fields_returns_empty_outside_story_mode():
+    resp = NarrativeResponse(narrative="n")
+    assert _check_missing_required_fields(resp, constants.MODE_GOD) == [], (
+        "Should only validate in character/story mode"
+    )
+    assert (
+        _check_missing_required_fields(resp, constants.MODE_CHARACTER, is_god_mode=True)
+        == []
+    ), "Should skip in god mode"
+    assert (
+        _check_missing_required_fields(resp, constants.MODE_CHARACTER, is_dm_mode=True)
+        == []
+    ), "Should skip in DM mode"
+
+
+def test_check_missing_required_fields_reports_missing_structured_response():
+    missing = _check_missing_required_fields(None, constants.MODE_CHARACTER)
+    assert "planning_block" in missing
+    assert "session_header" in missing
+
+
+def test_check_missing_required_fields_reports_missing_planning_block_and_session_header():
+    resp = NarrativeResponse(
+        narrative="n",
+        planning_block=None,
+        session_header="",
+        action_resolution={"mechanics": {"rolls": []}},
+    )
+    missing = _check_missing_required_fields(resp, constants.MODE_CHARACTER)
+    assert "planning_block" in missing
+    assert "session_header" in missing
+
+
+def test_check_missing_required_fields_requires_dice_rolls_when_requested():
+    resp = NarrativeResponse(
+        narrative="n",
+        planning_block=_valid_planning_block(),
+        session_header="h",
+        action_resolution={"mechanics": {"rolls": []}},
+    )
+    missing = _check_missing_required_fields(
+        resp, constants.MODE_CHARACTER, require_dice_rolls=True
+    )
+    assert "dice_rolls" in missing
+
+
+def test_check_missing_required_fields_accepts_non_empty_dice_rolls_when_required():
+    resp = NarrativeResponse(
+        narrative="n",
+        planning_block=_valid_planning_block(),
+        session_header="h",
+        action_resolution={
+            "mechanics": {"rolls": [{"notation": "1d20+5", "total": 17}]}
+        },
+    )
+    missing = _check_missing_required_fields(
+        resp, constants.MODE_CHARACTER, require_dice_rolls=True
+    )
+    assert "dice_rolls" not in missing
+
+
+def test_check_missing_required_fields_requires_social_hp_challenge_when_requested():
+    resp = NarrativeResponse(
+        narrative="n",
+        planning_block=_valid_planning_block(),
+        session_header="h",
+    )
+    missing = _check_missing_required_fields(
+        resp,
+        constants.MODE_CHARACTER,
+        require_social_hp_challenge=True,
+    )
+    assert "social_hp_challenge" in missing
+
+
+def test_check_missing_required_fields_accepts_valid_social_hp_challenge_when_requested():
+    resp = NarrativeResponse(
+        narrative="n",
+        planning_block=_valid_planning_block(),
+        session_header="h",
+        social_hp_challenge={
+            "npc_name": "Lord Commander Valerius",
+            "objective": "Secure emergency passage",
+            "resistance_shown": "The gate remains shut.",
+            "social_hp": 24,
+            "social_hp_max": 24,
+        },
+    )
+    missing = _check_missing_required_fields(
+        resp,
+        constants.MODE_CHARACTER,
+        require_social_hp_challenge=True,
+    )
+    assert "social_hp_challenge" not in missing
+
+
+def test_check_missing_required_fields_rejects_incomplete_social_hp_challenge():
+    """Incomplete social_hp_challenge with empty required fields should be flagged.
+
+    Regression test for Cursor Bugbot issue: simplified validation from checking
+    all required subfields to just checking if it's a non-empty dict. This means
+    incomplete data like {"npc_name": ""} should trigger a warning.
+    """
+    # Empty strings for required fields should be flagged
+    resp = NarrativeResponse(
+        narrative="n",
+        planning_block=_valid_planning_block(),
+        session_header="h",
+        social_hp_challenge={
+            "npc_name": "",  # Empty - should fail
+            "objective": "",  # Empty - should fail
+            "resistance_shown": "",  # Empty - should fail
+            "social_hp": None,  # None - should fail
+            "social_hp_max": 0,  # Zero max HP - should fail
+        },
+    )
+    missing = _check_missing_required_fields(
+        resp,
+        constants.MODE_CHARACTER,
+        require_social_hp_challenge=True,
+    )
+    assert "social_hp_challenge" in missing, (
+        "Incomplete social_hp_challenge with empty required fields should be flagged"
+    )
+
+
+def test_check_missing_required_fields_rejects_partial_social_hp_challenge():
+    """social_hp_challenge with only some fields populated should be flagged."""
+    resp = NarrativeResponse(
+        narrative="n",
+        planning_block=_valid_planning_block(),
+        session_header="h",
+        social_hp_challenge={
+            "npc_name": "Lord Commander Valerius",
+            # Missing: objective, resistance_shown, social_hp, social_hp_max
+        },
+    )
+    missing = _check_missing_required_fields(
+        resp,
+        constants.MODE_CHARACTER,
+        require_social_hp_challenge=True,
+    )
+    assert "social_hp_challenge" in missing, (
+        "Partial social_hp_challenge missing required fields should be flagged"
+    )
+
+
+def test_should_require_dice_rolls_only_for_combat_actions():
+    gs = GameState(combat_state={"in_combat": True})
+
+    assert (
+        _should_require_dice_rolls_for_turn(
+            current_game_state=gs,
+            user_input="I attack the goblin",
+            mode=constants.MODE_CHARACTER,
+            is_god_mode=False,
+            is_dm_mode=False,
+        )
+        is True
+    )
+
+    assert (
+        _should_require_dice_rolls_for_turn(
+            current_game_state=gs,
+            user_input="/smoke",
+            mode=constants.MODE_CHARACTER,
+            is_god_mode=False,
+            is_dm_mode=False,
+        )
+        is False
+    )
+
+    # Combat keywords in user input should require dice even if not explicitly in_combat
+    # This catches new combat initiation (e.g., first action in a campaign)
+    assert (
+        _should_require_dice_rolls_for_turn(
+            current_game_state=GameState(combat_state={"in_combat": False}),
+            user_input="I attack the goblin",
+            mode=constants.MODE_CHARACTER,
+            is_god_mode=False,
+            is_dm_mode=False,
+        )
+        is True  # Changed from False - combat keywords should trigger dice requirement
+    )
+
+
+def test_should_require_dice_rolls_ignores_non_combat_verbs():
+    """Non-combat phrasing should not force dice requirement."""
+    gs = GameState(combat_state={"in_combat": False})
+
+    assert (
+        _should_require_dice_rolls_for_turn(
+            current_game_state=gs,
+            user_input="help me get to the village",
+            mode=constants.MODE_CHARACTER,
+            is_god_mode=False,
+            is_dm_mode=False,
+        )
+        is False
+    )
+
+    assert (
+        _should_require_dice_rolls_for_turn(
+            current_game_state=gs,
+            user_input="check the door for traps",
+            mode=constants.MODE_CHARACTER,
+            is_god_mode=False,
+            is_dm_mode=False,
+        )
+        is False
+    )
+
+    assert (
+        _should_require_dice_rolls_for_turn(
+            current_game_state=gs,
+            user_input="The troll blocks the bridge.",
+            mode=constants.MODE_CHARACTER,
+            is_god_mode=False,
+            is_dm_mode=False,
+        )
+        is False
+    )
+
+
+def test_should_require_dice_rolls_detects_initiative():
+    """Explicit initiative should still require dice."""
+    gs = GameState(combat_state={"in_combat": False})
+    assert (
+        _should_require_dice_rolls_for_turn(
+            current_game_state=gs,
+            user_input="I roll initiative!",
+            mode=constants.MODE_CHARACTER,
+            is_god_mode=False,
+            is_dm_mode=False,
+        )
+        is True
+    )
+
+
+# =============================================================================
+# Tests for _detect_combat_in_narrative
+# =============================================================================
+
+
+def test_detect_combat_in_narrative_active_attack():
+    """Active present-tense attack should be detected as combat."""
+    assert _detect_combat_in_narrative("The goblin attacks you with its club.") is True
+    assert _detect_combat_in_narrative("The orc swings at you.") is True
+    assert (
+        _detect_combat_in_narrative("The wizard casts fireball at the party.") is True
+    )
+
+
+def test_detect_combat_in_narrative_damage_being_dealt():
+    """Damage being dealt should be detected as combat."""
+    assert _detect_combat_in_narrative("The arrow strikes, dealing 2d6 damage.") is True
+    assert _detect_combat_in_narrative("You take 15 damage from the attack.") is True
+    assert _detect_combat_in_narrative("The hit deals damage to the enemy.") is True
+
+
+def test_detect_combat_in_narrative_dice_patterns():
+    """Dice notation in context should be detected as combat."""
+    assert _detect_combat_in_narrative("Roll 1d20+5 to hit the goblin.") is True
+    assert _detect_combat_in_narrative("Make an attack roll.") is True
+    assert _detect_combat_in_narrative("Roll for initiative!") is True
+
+
+def test_detect_combat_in_narrative_past_tense():
+    """Past tense combat references should NOT be detected as active combat."""
+    assert (
+        _detect_combat_in_narrative("The goblin died in the last encounter.") is False
+    )
+    assert _detect_combat_in_narrative("You killed the orc previously.") is False
+    assert _detect_combat_in_narrative("The battle was won last session.") is False
+
+
+def test_detect_combat_in_narrative_hypothetical():
+    """Hypothetical/conditional combat should NOT be detected as active combat."""
+    assert (
+        _detect_combat_in_narrative("You could attack the goblin if you wanted.")
+        is False
+    )
+    assert (
+        _detect_combat_in_narrative("If you attack, the guard will retaliate.") is False
+    )
+    assert _detect_combat_in_narrative("You might want to cast a spell.") is False
+
+
+def test_detect_combat_in_narrative_no_combat():
+    """Non-combat narrative should not be detected as combat."""
+    assert _detect_combat_in_narrative("You explore the peaceful village.") is False
+    assert _detect_combat_in_narrative("The merchant offers you a deal.") is False
+    assert _detect_combat_in_narrative("You rest at the inn.") is False
+
+
+def test_detect_combat_in_narrative_empty():
+    """Empty or None narrative should return False."""
+    assert _detect_combat_in_narrative("") is False
+    assert _detect_combat_in_narrative(None) is False  # type: ignore[arg-type]
+
+
+# =============================================================================
+# Tests for _check_dice_integrity
+# =============================================================================
+
+
+def test_check_dice_integrity_no_action_resolution_dice():
+    """No action_resolution dice should always be valid."""
+    resp = NarrativeResponse(
+        narrative="test",
+        action_resolution={"mechanics": {"rolls": [], "audit_events": []}},
+    )
+    api_response = Mock()
+    api_response._tool_requests_executed = False
+
+    is_valid, reason = _check_dice_integrity(
+        structured_response=resp,
+        api_response=api_response,
+    )
+    assert is_valid is True
+    assert reason == ""
+
+
+def test_check_dice_integrity_with_tools_executed():
+    """Action resolution dice with tool execution should be valid."""
+    resp = NarrativeResponse(
+        narrative="test",
+        action_resolution={
+            "mechanics": {"rolls": [{"notation": "1d20+5", "total": 17}]}
+        },
+    )
+    api_response = Mock()
+    api_response._tool_requests_executed = True
+    api_response._tool_results = [{"tool": "roll_dice", "result": "17"}]
+
+    is_valid, reason = _check_dice_integrity(
+        structured_response=resp,
+        api_response=api_response,
+    )
+    assert is_valid is True
+
+
+def test_check_dice_integrity_fabricated_dice():
+    """Action resolution dice WITHOUT tool execution should be INVALID (fabrication)."""
+    resp = NarrativeResponse(
+        narrative="test",
+        action_resolution={
+            "mechanics": {"rolls": [{"notation": "1d20+5", "total": 17}]}
+        },
+    )
+    api_response = Mock()
+    api_response._tool_requests_executed = False
+    api_response._tool_results = []
+
+    is_valid, reason = _check_dice_integrity(
+        structured_response=resp,
+        api_response=api_response,
+    )
+    assert is_valid is False
+    assert "fabrication" in reason.lower() or "dice" in reason.lower()
+
+
+def test_check_dice_integrity_no_metadata():
+    """Missing metadata should be permissive (backward compatibility)."""
+    resp = NarrativeResponse(
+        narrative="test",
+        action_resolution={
+            "mechanics": {"rolls": [{"notation": "1d20+5", "total": 17}]}
+        },
+    )
+    api_response = Mock(spec=[])  # No _tool_requests_executed attribute
+
+    is_valid, reason = _check_dice_integrity(
+        structured_response=resp,
+        api_response=api_response,
+    )
+    assert is_valid is True  # Permissive for backward compatibility
+
+
+# =============================================================================
+# Tests for _is_code_execution_fabrication
+# =============================================================================
+
+
+def test_code_execution_fabrication_flags_missing_evidence_with_dice():
+    """Dice results without code_execution evidence should be flagged (Gemini 3)."""
+    resp = NarrativeResponse(
+        narrative="test",
+        action_resolution={
+            "mechanics": {"rolls": [{"notation": "1d20+5", "total": 17}]}
+        },
+    )
+
+    assert _is_code_execution_fabrication(resp, None) is True
+
+
+# =============================================================================
+# Tests for _detect_narrative_dice_fabrication
+# =============================================================================
+
+
+def test_detect_narrative_dice_fabrication_flags_without_tool_evidence():
+    """Dice patterns in narrative without tool evidence should be flagged."""
+    narrative = "You glare. [DICE: Intimidation 1d20+9 = 25]"
+    resp = NarrativeResponse(narrative=narrative, dice_rolls=[])
+    api_response = Mock()
+    api_response._tool_requests_executed = False
+
+    assert (
+        _detect_narrative_dice_fabrication(
+            narrative_text=narrative,
+            structured_response=resp,
+            api_response=api_response,
+            code_execution_evidence=None,
+        )
+        is True
+    )
+
+
+def test_detect_narrative_dice_fabrication_ignored_with_tool_evidence():
+    """Tool execution should suppress narrative dice fabrication detection."""
+    narrative = "You roll 1d20+5 and get 17 vs DC 12."
+    resp = NarrativeResponse(narrative=narrative, dice_rolls=[])
+    api_response = Mock()
+    api_response._tool_requests_executed = True
+    api_response._tool_results = [
+        {
+            "tool": "roll_skill_check",
+            "result": {
+                "roll": 17,
+                "modifier": 5,
+                "total": 22,
+            },
+        }
+    ]
+
+    assert (
+        _detect_narrative_dice_fabrication(
+            narrative_text=narrative,
+            structured_response=resp,
+            api_response=api_response,
+            code_execution_evidence=None,
+        )
+        is False
+    )
+
+
+def test_detect_narrative_dice_fabrication_rejects_non_dice_tool_results():
+    """Non-dice tool results should not suppress narrative dice fabrication detection."""
+    narrative = "You roll 1d20+5 and get 17 vs DC 12."
+    resp = NarrativeResponse(narrative=narrative, dice_rolls=[])
+    api_response = Mock()
+    api_response._tool_requests_executed = True
+    api_response._tool_results = [
+        {
+            "tool": "search_location",
+            "result": {"location": "Neverwinter"},
+        }
+    ]
+
+    assert (
+        _detect_narrative_dice_fabrication(
+            narrative_text=narrative,
+            structured_response=resp,
+            api_response=api_response,
+            code_execution_evidence=None,
+        )
+        is True
+    )
+
+
+def test_detect_narrative_dice_fabrication_ignored_without_dice():
+    """Narrative without dice patterns should not be flagged."""
+    narrative = "You negotiate calmly with the guard."
+    resp = NarrativeResponse(narrative=narrative, dice_rolls=[])
+    api_response = Mock()
+    api_response._tool_requests_executed = False
+
+    assert (
+        _detect_narrative_dice_fabrication(
+            narrative_text=narrative,
+            structured_response=resp,
+            api_response=api_response,
+            code_execution_evidence=None,
+        )
+        is False
+    )
+
+
+def test_detect_narrative_dice_fabrication_requires_context_for_rolls():
+    """'Rolls a 15' without context should not trigger fabrication."""
+    narrative = "She rolls a 15-year-old barrel down the hill."
+    resp = NarrativeResponse(narrative=narrative, dice_rolls=[])
+    api_response = Mock()
+    api_response._tool_requests_executed = False
+
+    assert (
+        _detect_narrative_dice_fabrication(
+            narrative_text=narrative,
+            structured_response=resp,
+            api_response=api_response,
+            code_execution_evidence=None,
+        )
+        is False
+    )
+
+
+# =============================================================================
+# Tests for _validate_combat_dice_integrity
+# =============================================================================
+
+
+def test_validate_combat_dice_integrity_no_combat():
+    """No combat should always be valid."""
+    resp = NarrativeResponse(
+        narrative="You rest at the inn.",
+        action_resolution={"mechanics": {"rolls": []}},
+    )
+    api_response = Mock()
+    api_response._tool_requests_executed = False
+
+    is_valid, reason = _validate_combat_dice_integrity(
+        user_input="I rest",
+        narrative_text="You rest at the inn.",
+        structured_response=resp,
+        current_game_state=None,
+        api_response=api_response,
+        mode=constants.MODE_CHARACTER,
+        is_god_mode=False,
+        is_dm_mode=False,
+    )
+    assert is_valid is True
+    assert reason is None
+
+
+def test_validate_combat_dice_integrity_combat_with_tools():
+    """Combat with proper tool execution should be valid."""
+    resp = NarrativeResponse(
+        narrative="The goblin attacks you!",
+        action_resolution={
+            "mechanics": {"rolls": [{"notation": "1d20+3", "result": 15, "total": 15}]}
+        },
+    )
+    api_response = Mock()
+    api_response._tool_requests_executed = True
+
+    is_valid, reason = _validate_combat_dice_integrity(
+        user_input="I attack the goblin",
+        narrative_text="The goblin attacks you!",
+        structured_response=resp,
+        current_game_state=None,
+        api_response=api_response,
+        mode=constants.MODE_CHARACTER,
+        is_god_mode=False,
+        is_dm_mode=False,
+    )
+    assert is_valid is True
+
+
+def test_validate_combat_dice_integrity_fabricated_combat_dice():
+    """Combat with fabricated dice should be INVALID."""
+    resp = NarrativeResponse(
+        narrative="The goblin attacks you!",
+        action_resolution={
+            "mechanics": {"rolls": [{"notation": "1d20+3", "result": 15, "total": 15}]}
+        },
+    )
+    api_response = Mock()
+    api_response._tool_requests_executed = False
+
+    is_valid, reason = _validate_combat_dice_integrity(
+        user_input="I attack the goblin",
+        narrative_text="The goblin attacks you!",
+        structured_response=resp,
+        current_game_state=None,
+        api_response=api_response,
+        mode=constants.MODE_CHARACTER,
+        is_god_mode=False,
+        is_dm_mode=False,
+    )
+    assert is_valid is False
+    assert reason is not None
+    assert "DICE INTEGRITY VIOLATION" in reason
+
+
+def test_validate_combat_dice_integrity_god_mode_bypass():
+    """God mode should bypass validation."""
+    resp = NarrativeResponse(
+        narrative="The goblin attacks you!",
+        action_resolution={
+            "mechanics": {"rolls": [{"notation": "1d20+3", "result": 15, "total": 15}]}
+        },
+    )
+    api_response = Mock()
+    api_response._tool_requests_executed = False
+
+    is_valid, reason = _validate_combat_dice_integrity(
+        user_input="I attack",
+        narrative_text="The goblin attacks you!",
+        structured_response=resp,
+        current_game_state=None,
+        api_response=api_response,
+        mode=constants.MODE_CHARACTER,
+        is_god_mode=True,  # God mode bypass
+        is_dm_mode=False,
+    )
+    assert is_valid is True  # Bypassed
+
+
+def test_validate_combat_dice_integrity_dm_mode_bypass():
+    """DM mode should bypass validation."""
+    resp = NarrativeResponse(
+        narrative="The goblin attacks you!",
+        action_resolution={
+            "mechanics": {"rolls": [{"notation": "1d20+3", "result": 15, "total": 15}]}
+        },
+    )
+    api_response = Mock()
+    api_response._tool_requests_executed = False
+
+    is_valid, reason = _validate_combat_dice_integrity(
+        user_input="I attack",
+        narrative_text="The goblin attacks you!",
+        structured_response=resp,
+        current_game_state=None,
+        api_response=api_response,
+        mode=constants.MODE_CHARACTER,
+        is_god_mode=False,
+        is_dm_mode=True,  # DM mode bypass
+    )
+    assert is_valid is True  # Bypassed
+
+
+def test_validate_combat_dice_integrity_code_execution_bypass():
+    """Code execution strategy should bypass combat validation."""
+    resp = NarrativeResponse(
+        narrative="The goblin attacks you!",
+        action_resolution={
+            "mechanics": {"rolls": [{"notation": "1d20+3", "result": 15, "total": 15}]}
+        },
+    )
+    api_response = Mock()
+    api_response._tool_requests_executed = False
+
+    is_valid, reason = _validate_combat_dice_integrity(
+        user_input="I attack",
+        narrative_text="The goblin attacks you!",
+        structured_response=resp,
+        current_game_state=None,
+        api_response=api_response,
+        mode=constants.MODE_CHARACTER,
+        is_god_mode=False,
+        is_dm_mode=False,
+        dice_roll_strategy=dice_strategy.DICE_STRATEGY_CODE_EXECUTION,
+    )
+    assert is_valid is True
+    assert reason is None
+
+
+# =============================================================================
+# Tests for dice_integrity in _check_missing_required_fields
+# =============================================================================
+
+
+def test_check_missing_required_fields_reports_dice_integrity_violation():
+    """dice_integrity_violation should add 'dice_integrity' to missing fields."""
+    resp = NarrativeResponse(
+        narrative="n",
+        planning_block=_valid_planning_block(),
+        session_header="h",
+        dice_rolls=["1d20 = 15"],
+    )
+
+    missing = _check_missing_required_fields(
+        resp,
+        constants.MODE_CHARACTER,
+        dice_integrity_violation=True,
+    )
+    assert "dice_integrity" in missing
+
+
+def test_check_missing_required_fields_does_not_report_dice_integrity_when_clean():
+    resp = NarrativeResponse(
+        narrative="n",
+        planning_block=_valid_planning_block(),
+        session_header="h",
+        dice_rolls=["1d20 = 15"],
+    )
+
+    missing = _check_missing_required_fields(
+        resp,
+        constants.MODE_CHARACTER,
+        dice_integrity_violation=False,
+    )
+    assert "dice_integrity" not in missing
+
+
+# =============================================================================
+# Tests for system_warnings functionality (moved from DM notes)
+# =============================================================================
+
+
+def test_check_missing_fields_adds_server_system_warnings():
+    """Missing fields should be added to _server_system_warnings (server-controlled, prevents LLM spoofing)."""
+    resp = NarrativeResponse(
+        narrative="n",
+        planning_block=None,  # Missing (but excluded from warning to avoid double-warning)
+        session_header="",  # Empty (counts as missing, but cosmetic so filtered out)
+        debug_info={},
+    )
+
+    _check_missing_required_fields(resp, constants.MODE_CHARACTER, debug_mode=False)
+
+    # Function modifies response in place - should add to _server_system_warnings
+    # Note: planning_block is excluded to avoid double-warning with _validate_and_enforce_planning_block
+    # session_header is filtered out as cosmetic
+    assert resp.debug_info is not None
+    # If only planning_block and session_header are missing, no warning should be added here
+    # (planning_block gets its own warning, session_header is cosmetic)
+
+
+def test_check_missing_fields_adds_warning_for_non_planning_fields():
+    """Missing non-planning fields should be added to _server_system_warnings."""
+    resp = NarrativeResponse(
+        narrative="n",
+        planning_block={"thinking": "test"},  # Present
+        session_header="h",  # Present
+        debug_info={},
+    )
+    # Note: This test can't easily test dice_rolls or social_hp_challenge without more setup
+    # But the key point is that _server_system_warnings is used, not system_warnings
+
+
+def test_check_missing_fields_handles_server_warnings_none():
+    """When _server_system_warnings is None in debug_info, should initialize to empty list."""
+    resp = NarrativeResponse(
+        narrative="n",
+        planning_block=None,
+        session_header="h",
+        debug_info={"_server_system_warnings": None},  # Explicitly None
+    )
+
+    _check_missing_required_fields(resp, constants.MODE_CHARACTER, debug_mode=False)
+
+    # Should handle None gracefully and create list
+    assert resp.debug_info["_server_system_warnings"] is not None
+    assert isinstance(resp.debug_info["_server_system_warnings"], list)
+
+
+def test_check_missing_fields_handles_server_warnings_existing():
+    """When _server_system_warnings already exists, should append to existing list."""
+    resp = NarrativeResponse(
+        narrative="n",
+        planning_block=None,
+        session_header="h",
+        debug_info={"_server_system_warnings": ["Existing warning"]},
+    )
+
+    _check_missing_required_fields(resp, constants.MODE_CHARACTER, debug_mode=False)
+
+    # Should append to existing list (if any non-planning fields are missing)
+    server_warnings = resp.debug_info["_server_system_warnings"]
+    assert isinstance(server_warnings, list)
+    assert "Existing warning" in server_warnings
+
+
+def test_check_missing_fields_prevents_duplicates():
+    """Should not add duplicate warning messages."""
+    resp = NarrativeResponse(
+        narrative="n",
+        planning_block=None,
+        session_header="h",
+        debug_info={"_server_system_warnings": []},
+    )
+
+    # Call twice
+    _check_missing_required_fields(resp, constants.MODE_CHARACTER, debug_mode=False)
+    _check_missing_required_fields(resp, constants.MODE_CHARACTER, debug_mode=False)
+
+    # Should only have one warning, not duplicates (if any warnings were added)
+    server_warnings = resp.debug_info["_server_system_warnings"]
+    assert isinstance(server_warnings, list)
+    # Note: planning_block is excluded, so may be empty if only planning_block/session_header missing
+
+
+# =============================================================================
+# Tests for list-format choices in planning_block (REV-qtm)
+# =============================================================================
+
+
+def test_check_missing_required_fields_accepts_list_format_choices():
+    """List-format choices should be recognized as valid (not flagged as missing).
+
+    Regression test for REV-qtm: _check_missing_required_fields() was treating
+    list-format planning choices as missing because it only checked isinstance(dict).
+    """
+    resp = NarrativeResponse(
+        narrative="n",
+        planning_block={
+            "choices": [
+                {"id": "a", "text": "Option A", "description": "First choice"},
+                {"id": "b", "text": "Option B", "description": "Second choice"},
+            ]
+        },
+        session_header="h",
+    )
+
+    missing = _check_missing_required_fields(resp, constants.MODE_CHARACTER)
+
+    # Should NOT flag planning_block as missing when list-format choices are present
+    assert "planning_block" not in missing, (
+        "List-format choices should be recognized as valid planning_block content"
+    )
+
+
+def test_check_missing_required_fields_accepts_dict_format_choices():
+    """Dict-format choices should still work (existing behavior)."""
+    resp = NarrativeResponse(
+        narrative="n",
+        planning_block={
+            "choices": {
+                "a": {"text": "Option A", "description": "First choice"},
+                "b": {"text": "Option B", "description": "Second choice"},
+            }
+        },
+        session_header="h",
+    )
+
+    missing = _check_missing_required_fields(resp, constants.MODE_CHARACTER)
+
+    assert "planning_block" not in missing, (
+        "Dict-format choices should be recognized as valid planning_block content"
+    )
+
+
+def test_check_missing_required_fields_rejects_empty_list_choices():
+    """Empty list for choices should be flagged as missing."""
+    resp = NarrativeResponse(
+        narrative="n",
+        planning_block={"choices": []},  # Empty list - no content
+        session_header="h",
+    )
+
+    missing = _check_missing_required_fields(resp, constants.MODE_CHARACTER)
+
+    assert "planning_block" in missing, (
+        "Empty list choices should be flagged as missing content"
+    )
+
+
+def test_check_missing_required_fields_accepts_thinking_without_choices():
+    """Thinking alone should be sufficient (existing behavior)."""
+    resp = NarrativeResponse(
+        narrative="n",
+        planning_block={"thinking": "Some narrative thinking"},
+        session_header="h",
+    )
+
+    missing = _check_missing_required_fields(resp, constants.MODE_CHARACTER)
+
+    assert "planning_block" not in missing, (
+        "Thinking alone should be sufficient for planning_block content"
+    )

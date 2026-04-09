@@ -1,0 +1,228 @@
+/* Modern CSS Foundation - Figma Design System */
+/* This file contains the comprehensive design system with CSS variables */
+
+:root {
+  /* Core Colors - Light Theme Default */
+  --background: #ffffff;
+  --foreground: #0a0a0a;
+  --card: #ffffff;
+  --card-foreground: #0a0a0a;
+  --popover: #ffffff;
+  --popover-foreground: #0a0a0a;
+  --primary: #030213;
+  --primary-foreground: #ffffff;
+  --secondary: #f4f4f5;
+  --secondary-foreground: #18181b;
+  --muted: #f4f4f5;
+  --muted-foreground: #71717a;
+  --accent: #f4f4f5;
+  --accent-foreground: #18181b;
+  --destructive: #ef4444;
+  --destructive-foreground: #fafafa;
+  --border: #e4e4e7;
+  --input: #e4e4e7;
+  --ring: #030213;
+
+  /* Enhanced Color Palette */
+  --success: #10b981;
+  --success-foreground: #ffffff;
+  --warning: #f59e0b;
+  --warning-foreground: #ffffff;
+  --info: #3b82f6;
+  --info-foreground: #ffffff;
+
+  /* Gradients */
+  --gradient-from: #ffffff;
+  --gradient-via: #f8f9fa;
+  --gradient-to: #e9ecef;
+
+  /* Shadows - Modern elevation system */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+  --shadow:
+    0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-md:
+    0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+  --shadow-lg:
+    0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  --shadow-xl: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+
+  /* Border Radius */
+  --radius-sm: 0.25rem;
+  --radius: 0.5rem;
+  --radius-md: 0.75rem;
+  --radius-lg: 1rem;
+  --radius-xl: 1.5rem;
+  --radius-full: 9999px;
+
+  /* Typography Scale */
+  --font-sans:
+    -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue',
+    Arial, sans-serif;
+  --font-mono:
+    ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono',
+    monospace;
+
+  /* Font Sizes */
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.25rem;
+  --text-2xl: 1.5rem;
+  --text-3xl: 1.875rem;
+  --text-4xl: 2.25rem;
+  --text-5xl: 3rem;
+
+  /* Line Heights */
+  --leading-none: 1;
+  --leading-tight: 1.25;
+  --leading-snug: 1.375;
+  --leading-normal: 1.5;
+  --leading-relaxed: 1.625;
+  --leading-loose: 2;
+
+  /* Font Weights */
+  --font-thin: 100;
+  --font-light: 300;
+  --font-normal: 400;
+  --font-medium: 500;
+  --font-semibold: 600;
+  --font-bold: 700;
+  --font-extrabold: 800;
+
+  /* Spacing Scale */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+  --space-20: 5rem;
+  --space-24: 6rem;
+
+  /* Z-Index Scale */
+  --z-dropdown: 1000;
+  --z-sticky: 1020;
+  --z-fixed: 1030;
+  --z-modal-backdrop: 1040;
+  --z-modal: 1050;
+  --z-popover: 1060;
+  --z-tooltip: 1070;
+
+  /* Animation */
+  --transition-fast: 150ms;
+  --transition-base: 300ms;
+  --transition-slow: 500ms;
+  --ease-in-out: cubic-bezier(0.4, 0, 0.2, 1);
+  --ease-out: cubic-bezier(0, 0, 0.2, 1);
+  --ease-in: cubic-bezier(0.4, 0, 1, 1);
+
+  /* Backdrop Filters */
+  --backdrop-blur: blur(10px);
+  --backdrop-saturate: saturate(180%);
+
+  /* Glass / Surface tokens (used by enhanced-components.css) */
+  --glass-background: rgba(255, 255, 255, 0.8);
+  --glass-hover: rgba(0, 0, 0, 0.04);
+  --surface-primary: #ffffff;
+  --surface-secondary: #f4f4f5;
+  --surface-rgb: 255, 255, 255;
+  --accent-rgb: 3, 2, 19;
+
+  /* Shadow aliases for enhanced-components.css */
+  --shadow-base: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px -1px rgba(0, 0, 0, 0.1);
+  --shadow-elevated: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
+  --shadow-glow: 0 0 15px rgba(3, 2, 19, 0.15);
+
+  /* Border-radius aliases */
+  --border-radius-sm: 0.25rem;
+  --border-radius-md: 0.5rem;
+  --border-radius-lg: 0.75rem;
+
+  /* Gradient aliases */
+  --primary-gradient-start: #030213;
+  --primary-gradient-end: #1a1a2e;
+  --accent-gradient: linear-gradient(135deg, var(--accent), var(--primary));
+  --text-gradient: linear-gradient(135deg, var(--foreground), var(--muted-foreground));
+}
+
+/* Fantasy Theme - Arcane Scholar (dark navy-purple) */
+[data-theme='fantasy'] {
+  --background: #0d0f1f;
+  --foreground: #f0ece2;
+  --card: #161a35;
+  --card-foreground: #f0ece2;
+  --popover: #161a35;
+  --popover-foreground: #f0ece2;
+  --primary: #d4a843;
+  --primary-foreground: #0d0f1f;
+  --secondary: #222850;
+  --secondary-foreground: #f0ece2;
+  --muted: #2a3060;
+  --muted-foreground: #8a86a8;
+  --accent: #d4a843;
+  --accent-foreground: #0d0f1f;
+  --destructive: #e05260;
+  --destructive-foreground: #ffffff;
+  --border: #2a3060;
+  --input: #1c2040;
+  --ring: #d4a843;
+
+  /* Fantasy gradients - deep purple glow */
+  --gradient-from: #0d0f1f;
+  --gradient-via: #161a35;
+  --gradient-to: #222850;
+
+  /* Purple-tinted shadows */
+  --shadow-sm: 0 1px 2px 0 rgba(10, 8, 30, 0.4);
+  --shadow:
+    0 4px 6px -1px rgba(10, 8, 30, 0.5), 0 2px 4px -1px rgba(10, 8, 30, 0.3);
+  --shadow-md:
+    0 10px 15px -3px rgba(10, 8, 30, 0.5), 0 4px 6px -2px rgba(10, 8, 30, 0.3);
+  --shadow-lg:
+    0 20px 25px -5px rgba(10, 8, 30, 0.5),
+    0 10px 10px -5px rgba(10, 8, 30, 0.3);
+  --shadow-xl: 0 25px 50px -12px rgba(10, 8, 30, 0.6);
+
+  /* Glass / Surface tokens */
+  --glass-background: rgba(22, 26, 53, 0.85);
+  --glass-hover: rgba(255, 255, 255, 0.08);
+  --surface-primary: #161a35;
+  --surface-secondary: #222850;
+  --surface-rgb: 22, 26, 53;
+  --accent-rgb: 212, 168, 67;
+
+  /* Shadow aliases */
+  --shadow-base: 0 1px 3px 0 rgba(10, 8, 30, 0.4), 0 1px 2px -1px rgba(10, 8, 30, 0.3);
+  --shadow-elevated: 0 10px 15px -3px rgba(10, 8, 30, 0.5), 0 4px 6px -4px rgba(10, 8, 30, 0.4);
+  --shadow-glow: 0 0 15px rgba(168, 85, 247, 0.3);
+
+  /* Border-radius aliases */
+  --border-radius-sm: 0.25rem;
+  --border-radius-md: 0.5rem;
+  --border-radius-lg: 0.75rem;
+
+  /* Gradient aliases */
+  --primary-gradient-start: #d4a843;
+  --primary-gradient-end: #a855f7;
+  --accent-gradient: linear-gradient(135deg, #d4a843, #a855f7);
+  --text-gradient: linear-gradient(135deg, #f0ece2, #b8b4cf);
+}
+
+/* Utility Classes for Modern Effects */
+.backdrop-blur {
+  backdrop-filter: var(--backdrop-blur) var(--backdrop-saturate);
+}
+
+.gradient-bg {
+  background: linear-gradient(
+    135deg,
+    var(--gradient-from),
+    var(--gradient-via),
+    var(--gradient-to)
+  );
+}

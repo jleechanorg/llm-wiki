@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>OpenClaw Setup</title>
+    <link rel="stylesheet" href="/frontend_v1/style.css" />
+  </head>
+  <body class="container mt-3">
+    <h1>OpenClaw Setup for WorldArchitect</h1>
+    <p>
+      Use this page to expose a local OpenClaw gateway to a remote WorldArchitect server.
+    </p>
+
+    <h3>Quick Start</h3>
+    <ol>
+      <li>Install and run OpenClaw locally on this machine.</li>
+      <li>Start your gateway and verify <code>http://127.0.0.1:18789/health</code>.</li>
+      <li>Run: <code>./openclaw_gateway_tunnel.sh</code></li>
+      <li>Copy the printed public HTTPS URL.</li>
+      <li>In Settings, set <strong>Gateway URL</strong> to that URL and set provider to OpenClaw.</li>
+    </ol>
+
+    <h3>Download the tunnel helper</h3>
+    <p>
+      <a href="/frontend_v1/openclaw_gateway_tunnel.sh" download="openclaw_gateway_tunnel.sh">Download openclaw_gateway_tunnel.sh</a>
+    </p>
+
+    <h3>Notes</h3>
+    <ul>
+      <li>Local <code>localhost:18789</code> is not reachable by Cloud Run by itself.</li>
+      <li>The public URL is needed for PR preview / remote environments.</li>
+      <li>If localhost.run fails, use cloudflared or ngrok (script auto-selects available providers).</li>
+      <li>Script order: <code>localhost.run</code> → <code>cloudflared</code> → <code>ngrok</code>.</li>
+    </ul>
+
+    <p>
+      <a href="/settings">Back to settings</a>
+    </p>
+  </body>
+</html>

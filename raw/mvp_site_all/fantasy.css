@@ -1,0 +1,856 @@
+/* Fantasy Theme - "Arcane Scholar" palette
+   Deep purple-black backgrounds, frosted-glass surfaces, vivid purple accents.
+   Gold for text/links. Purple for borders, glows, button bg. */
+[data-theme='fantasy'] {
+  /* Fallback dark color shown before ember canvas loads */
+  background: #0a0a12;
+
+  /* Backgrounds */
+  --primary-bg: #0e0820;
+  --panel-bg: #161a35;
+  --panel-border: rgba(168, 85, 247, 0.35);
+  --panel-text: #f0ece2;
+  --badge-bg: rgba(255, 255, 255, 0.09);
+  --badge-text: #f0ece2;
+  --spell-badge-bg: rgba(255, 255, 255, 0.06);
+  --spell-badge-border: rgba(168, 85, 247, 0.35);
+  --spell-badge-text: #f0ecff;
+  --features-bg: rgba(255, 255, 255, 0.06);
+  --stats-section-bg: #161a35;
+  --stats-section-border: rgba(168, 85, 247, 0.35);
+  --secondary-bg: #161a35;
+  --navbar-bg: #161a35;
+  --story-bg: #0e0820;
+  --input-bg: rgba(255, 255, 255, 0.06);
+  --hover-bg: rgba(255, 255, 255, 0.13);
+  --overlay-bg: rgba(13, 15, 31, 0.88);
+  --panel-neutral-bg: #090a14;
+  --gradient-card: linear-gradient(145deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.03) 100%);
+  --gradient-navbar: linear-gradient(180deg, #1b1f3d 0%, #11142a 100%);
+
+  /* Text - lifted for WCAG AA compliance */
+  --text-primary: #f0ecff;
+  --text-secondary: #b8b4cf;
+  --text-muted: #8a86a8;
+  --text-on-accent: #0e0820;
+
+  /* Accent - warm gold for text/links (matches styleguide swatch, not Tailwind amber) */
+  --accent-color: #d4a843;
+  --accent-color-alpha: rgba(212, 168, 67, 0.25);
+
+  /* Decorative purple - borders, glows, button bg only */
+  --purple-glow: #a855f7;
+  --purple-border: rgba(168, 85, 247, 0.35);
+
+  /* Borders - 3:1 contrast per WCAG 1.4.11 */
+  --border-color: rgba(168, 85, 247, 0.35);
+
+  /* Buttons */
+  --btn-primary-bg: #a855f7;
+  --btn-secondary-bg: rgba(255, 255, 255, 0.09);
+  --btn-success-bg: #22c55e;
+  --btn-danger-bg: #ef4444;
+}
+
+/* Ember canvas background fallback — canvas draws gradient + particles when JS runs */
+
+#ember-bg-canvas {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  pointer-events: none;
+}
+
+[data-theme='fantasy'] #ember-bg-canvas {
+  display: block;
+}
+
+[data-theme='fantasy'] body {
+  background: transparent;
+  min-height: 100vh;
+}
+
+[data-theme='fantasy'] .navbar {
+  background: var(--gradient-navbar) !important;
+  backdrop-filter: blur(8px);
+}
+
+[data-theme='fantasy'] .modal-content,
+[data-theme='fantasy'] .card {
+  background: var(--gradient-card);
+  backdrop-filter: blur(12px);
+  border-color: var(--border-color);
+}
+
+/* Logged-out: container is transparent (auth-view handles the bg) */
+[data-theme='fantasy'] body.is-logged-out .container.mt-4 {
+  background: transparent;
+  backdrop-filter: none;
+  border: none;
+  border-radius: 0;
+  padding: 0;
+}
+
+/* Main content container - very light tint so ember canvas shows through clearly */
+[data-theme='fantasy'] .container.mt-4 {
+  background: rgba(10, 10, 18, 0.12);
+  border-radius: 12px;
+  padding: 1.5rem;
+  border: 1px solid rgba(168, 85, 247, 0.2);
+}
+
+/* Story content: transparent so embers drift through the narrative text */
+[data-theme='fantasy'] #story-content {
+  background: transparent !important;
+  border-color: rgba(168, 85, 247, 0.2) !important;
+  box-shadow: inset 0 0 40px rgba(10, 10, 18, 0.3);
+}
+
+[data-theme='fantasy'] #story-content p,
+[data-theme='fantasy'] #story-content strong,
+[data-theme='fantasy'] #story-content em {
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.95), 0 0 16px rgba(0, 0, 0, 0.8);
+}
+
+[data-theme='fantasy'] .btn-primary {
+  background-color: var(--btn-primary-bg);
+  border-color: var(--btn-primary-bg);
+  color: #ffffff;
+}
+
+[data-theme='fantasy'] .btn-primary:hover {
+  background-color: #9333ea;
+  border-color: #9333ea;
+}
+
+[data-theme='fantasy'] .form-control {
+  background-color: var(--input-bg);
+  border-color: var(--border-color);
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .form-control:focus {
+  border-color: var(--accent-color);
+  box-shadow: 0 0 0 0.2rem var(--accent-color-alpha);
+}
+
+/* Campaign list items - ensure dark bg and readable text */
+[data-theme='fantasy'] .list-group-item {
+  background-color: var(--secondary-bg);
+  border-color: var(--border-color);
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .list-group-item:hover {
+  background-color: var(--hover-bg);
+}
+
+/* Campaign title links - gold accent for readability */
+[data-theme='fantasy'] .list-group-item a,
+[data-theme='fantasy'] .campaign-title-link {
+  color: var(--accent-color);
+}
+
+/* Timestamps and muted text - ensure visible */
+[data-theme='fantasy'] .text-muted,
+[data-theme='fantasy'] small.text-muted {
+  color: var(--text-muted, #a8a2c8) !important;
+}
+
+/* Form select dropdowns */
+[data-theme='fantasy'] .form-select {
+  background-color: var(--input-bg);
+  border-color: var(--border-color);
+  color: var(--text-primary);
+}
+
+/* Headings */
+[data-theme='fantasy'] h2,
+[data-theme='fantasy'] h3 {
+  color: var(--text-primary);
+}
+
+/* Structured story fields - dark-theme overrides for hardcoded light backgrounds */
+/* !important needed because style.css defines these TWICE and loads after this file */
+[data-theme='fantasy'] .planning-block {
+  background-color: rgba(168, 85, 247, 0.12) !important;
+  border-left-color: var(--purple-glow, #a855f7) !important;
+  color: var(--text-primary) !important;
+}
+
+[data-theme='fantasy'] .dice-rolls {
+  background-color: rgba(168, 85, 247, 0.10) !important;
+  border-left-color: var(--btn-success-bg) !important;
+  color: var(--text-primary) !important;
+}
+
+[data-theme='fantasy'] .resources {
+  background-color: rgba(168, 85, 247, 0.10) !important;
+  border-left-color: var(--accent-color) !important;
+  color: var(--text-primary) !important;
+}
+
+/* Choice buttons inside planning blocks — override light-theme hardcoded colors */
+[data-theme='fantasy'] .choice-button {
+  background: var(--input-bg) !important;
+  border-color: var(--border-color) !important;
+  color: var(--text-primary) !important;
+}
+
+[data-theme='fantasy'] .choice-button:hover {
+  background: var(--hover-bg) !important;
+  border-color: var(--accent-color) !important;
+}
+
+[data-theme='fantasy'] .choice-button:active {
+  background: rgba(168, 85, 247, 0.20) !important;
+}
+
+[data-theme='fantasy'] .choice-button:disabled {
+  background: rgba(168, 85, 247, 0.06) !important;
+  border-color: var(--border-color) !important;
+  color: var(--text-muted) !important;
+  opacity: 0.5;
+}
+
+[data-theme='fantasy'] .choice-button-custom {
+  background: rgba(168, 85, 247, 0.08) !important;
+  border-color: var(--border-color) !important;
+}
+
+[data-theme='fantasy'] .choice-button-custom:hover {
+  background: rgba(168, 85, 247, 0.15) !important;
+}
+
+[data-theme='fantasy'] .choice-id {
+  color: var(--accent-color) !important;
+}
+
+[data-theme='fantasy'] .choice-description {
+  color: var(--text-primary) !important;
+}
+
+[data-theme='fantasy'] .system-warnings {
+  background-color: rgba(245, 158, 11, 0.1);
+  border-color: rgba(245, 158, 11, 0.3);
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .session-header {
+  background-color: var(--secondary-bg);
+  color: var(--text-secondary);
+}
+
+[data-theme='fantasy'] .living-world-updates {
+  background-color: rgba(168, 85, 247, 0.1);
+  border-color: var(--purple-glow, #a855f7);
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .living-world-scene,
+[data-theme='fantasy'] .living-world-complication {
+  background-color: rgba(168, 85, 247, 0.12);
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .entities-mentioned {
+  background-color: rgba(59, 130, 246, 0.12);
+  border-left-color: #5eb5f0;
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .location-confirmed {
+  background-color: rgba(65, 105, 225, 0.12);
+  border-left-color: #7090f0;
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .god-mode-response {
+  background-color: rgba(156, 39, 176, 0.12);
+  border-left-color: #b060d0;
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .dm-notes {
+  background-color: rgba(156, 39, 176, 0.1);
+  border-left-color: #b060d0;
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .state-rationale {
+  background-color: rgba(255, 152, 0, 0.12);
+  border-left-color: #e8a830;
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .state-updates {
+  background-color: rgba(158, 158, 158, 0.1);
+  border-left-color: #6a6a8a;
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .debug-info {
+  background-color: var(--secondary-bg);
+  border-color: var(--border-color);
+  color: var(--text-secondary);
+}
+
+[data-theme='fantasy'] .debug-content {
+  background-color: rgba(255, 193, 7, 0.08);
+  color: var(--text-secondary);
+}
+
+[data-theme='fantasy'] .debug-rolls {
+  background-color: rgba(13, 202, 240, 0.08);
+  color: #5eb5f0;
+}
+
+
+[data-theme='fantasy'] .planning-block-error {
+  background-color: rgba(212, 168, 67, 0.14);
+  border-color: var(--accent-color);
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .planning-block-error pre {
+  background-color: rgba(255, 255, 255, 0.05);
+  color: var(--text-primary);
+}
+
+/* Character info - even row background */
+[data-theme='fantasy'] #game-view .info-table tbody tr:nth-child(even) {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+/* Story entry separators */
+[data-theme='fantasy'] .story-entry {
+  border-bottom-color: var(--border-color);
+}
+
+/* Login - transparent so ember canvas shows through */
+[data-theme='fantasy'] body.is-logged-out #auth-view.active-view {
+  background: transparent;
+}
+
+[data-theme='fantasy'] body.is-logged-out {
+  background: transparent;
+}
+
+/* Card: frosted glass over the dragon background */
+[data-theme='fantasy'] .welcome-card {
+  background: rgba(8, 5, 22, 0.30);
+  backdrop-filter: blur(8px);
+}
+
+[data-theme='fantasy'] .welcome-auth-shell {
+  border-color: var(--border-color);
+  background: var(--gradient-card, linear-gradient(145deg, rgba(255, 255, 255, 0.08) 0%, rgba(255, 255, 255, 0.03) 100%));
+  backdrop-filter: blur(12px);
+  box-shadow:
+    0 0 24px rgba(88, 28, 180, 0.2),
+    0 0 0 1px rgba(255, 255, 255, 0.04) inset,
+    0 32px 64px rgba(0, 0, 0, 0.35);
+}
+
+[data-theme='fantasy'] .welcome-auth-title {
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .welcome-auth-subtitle {
+  color: var(--text-secondary);
+}
+
+[data-theme='fantasy'] .welcome-auth-card {
+  border-color: var(--border-color);
+  background: rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(8px);
+}
+
+[data-theme='fantasy'] .welcome-auth-card-title {
+  color: var(--accent-color);
+}
+
+[data-theme='fantasy'] .welcome-auth-card-text {
+  color: var(--text-secondary);
+}
+
+/* White Google button per new styleguide — matches Google brand guidelines */
+[data-theme='fantasy'] .welcome-google-btn {
+  background: #ffffff;
+  border-color: transparent;
+  color: #3c3c3c;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.4);
+}
+
+[data-theme='fantasy'] .welcome-google-btn:hover,
+[data-theme='fantasy'] .welcome-google-btn:focus {
+  background: #f5f5f5;
+  border-color: transparent;
+  color: #1a1a1a;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+}
+
+[data-theme='fantasy'] .welcome-splash-copy h3 {
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .welcome-splash-copy p {
+  color: var(--text-secondary);
+}
+
+/* Standalone settings route (server template) */
+[data-theme='fantasy'] main.container-fluid {
+  min-height: calc(100vh - 56px);
+  background: transparent;
+}
+
+[data-theme='fantasy'] main.container-fluid>.container {
+  background: rgba(26, 15, 50, 0.08);
+  backdrop-filter: blur(8px);
+  border-radius: 12px;
+  border: 1px solid rgba(168, 85, 247, 0.2);
+  padding: 1.5rem;
+  margin-top: 1.25rem;
+}
+
+[data-theme='fantasy'] main.container-fluid>.container .card,
+[data-theme='fantasy'] main.container-fluid>.container .card-header,
+[data-theme='fantasy'] main.container-fluid>.container .card-body {
+  color: var(--text-primary);
+}
+
+/* Campaign wizard visual alignment (no layout change) */
+[data-theme='fantasy'] .wizard-progress .progress {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+[data-theme='fantasy'] .step-circle {
+  background: var(--secondary-bg, #1c2040) !important;
+  border-color: var(--border-color, #4a3f8a) !important;
+  color: var(--text-secondary, #b8b4cf) !important;
+}
+
+[data-theme='fantasy'] .step-indicator.active .step-circle {
+  background: #7c6ff7 !important;
+  border-color: #7c6ff7 !important;
+  color: white !important;
+  box-shadow: 0 0 12px rgba(124, 111, 247, 0.4);
+}
+
+[data-theme='fantasy'] .step-indicator.active .step-label {
+  color: #d4a843 !important;
+  font-weight: 600;
+}
+
+[data-theme='fantasy'] .step-indicator.completed .step-circle {
+  background: #2d9e5f !important;
+  border-color: #2d9e5f !important;
+  color: white !important;
+}
+
+[data-theme='fantasy'] .step-indicator.completed .step-label {
+  color: #2d9e5f !important;
+}
+
+[data-theme='fantasy'] .step-indicator:hover .step-circle {
+  box-shadow: 0 2px 8px rgba(124, 111, 247, 0.3);
+}
+
+/* Gap fix: "Begin Adventure" btn-success → purple primary */
+[data-theme='fantasy'] .btn-success,
+[data-theme='fantasy'] .btn-success:hover,
+[data-theme='fantasy'] .btn-success:focus {
+  background: #7c6ff7 !important;
+  border-color: #7c6ff7 !important;
+  color: white !important;
+}
+[data-theme='fantasy'] .btn-success:hover {
+  background: #6b5ff5 !important;
+  box-shadow: 0 0 20px rgba(124, 111, 247, 0.4);
+}
+
+/* Gap fix: alert-danger dark-themed instead of light pink */
+[data-theme='fantasy'] .alert-danger {
+  background: rgba(224, 82, 96, 0.15) !important;
+  border-color: rgba(224, 82, 96, 0.3) !important;
+  color: #e05260 !important;
+}
+[data-theme='fantasy'] .alert-danger strong,
+[data-theme='fantasy'] .alert-danger b {
+  color: #f0ece2 !important;
+}
+
+/* Gap fix: toast notification dark-themed */
+[data-theme='fantasy'] .toast {
+  background: var(--secondary-bg, #1c2040) !important;
+  border-color: var(--border-color) !important;
+  color: var(--text-primary) !important;
+}
+[data-theme='fantasy'] .toast-header {
+  background: rgba(224, 82, 96, 0.2) !important;
+  border-bottom-color: rgba(224, 82, 96, 0.3) !important;
+  color: #e05260 !important;
+}
+[data-theme='fantasy'] .toast-body {
+  background: var(--secondary-bg, #1c2040) !important;
+  color: var(--text-secondary) !important;
+}
+
+[data-theme='fantasy'] .step-label,
+[data-theme='fantasy'] .step-title,
+[data-theme='fantasy'] .step-description,
+[data-theme='fantasy'] .campaign-type-content h5,
+[data-theme='fantasy'] .campaign-type-content p,
+[data-theme='fantasy'] .campaign-wizard .form-label,
+[data-theme='fantasy'] .campaign-wizard .form-text {
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .campaign-type-card {
+  background: rgba(255, 255, 255, 0.06);
+  border-color: rgba(168, 85, 247, 0.28);
+}
+
+[data-theme='fantasy'] .campaign-type-card.selected {
+  background: rgba(168, 85, 247, 0.18);
+}
+
+[data-theme='fantasy'] .campaign-wizard .form-control,
+[data-theme='fantasy'] .campaign-wizard .form-select,
+[data-theme='fantasy'] .campaign-wizard textarea {
+  background-color: rgba(255, 255, 255, 0.07);
+  border-color: rgba(168, 85, 247, 0.35);
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .campaign-wizard .form-control::placeholder,
+[data-theme='fantasy'] .campaign-wizard textarea::placeholder {
+  color: var(--text-secondary);
+  opacity: 0.8;
+}
+
+/* Dashboard search/filter panel -- interactive-features.css loads AFTER themes,
+   so these hardcoded light backgrounds need [data-theme] overrides. */
+[data-theme='fantasy'] .search-filter-container {
+  background: rgba(26, 15, 50, 0.30);
+  border-color: var(--border-color);
+  backdrop-filter: blur(8px);
+}
+
+[data-theme='fantasy'] .search-box .form-control {
+  background-color: var(--input-bg);
+  border-color: var(--border-color);
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .search-box .form-control::placeholder {
+  color: var(--text-muted);
+}
+
+[data-theme='fantasy'] .search-box .form-control:focus {
+  border-color: var(--accent-color);
+  box-shadow: 0 0 0 0.2rem var(--accent-color-alpha);
+}
+
+[data-theme='fantasy'] .filter-select {
+  background-color: var(--input-bg);
+  border-color: var(--border-color);
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .filter-select:focus {
+  border-color: var(--accent-color);
+  box-shadow: 0 0 0 0.2rem var(--accent-color-alpha);
+}
+
+[data-theme='fantasy'] .filter-group label {
+  color: var(--text-secondary);
+}
+
+[data-theme='fantasy'] .search-stats {
+  color: var(--text-muted);
+}
+
+/* Campaign list items — transparent so embers show through */
+[data-theme='fantasy'] .modern-mode .campaign-item,
+[data-theme='fantasy'] .campaign-item {
+  background: transparent;
+  border-color: var(--border-color);
+}
+
+[data-theme='fantasy'] .campaign-item h5,
+[data-theme='fantasy'] .campaign-item .campaign-title {
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.95), 0 0 16px rgba(0, 0, 0, 0.8);
+}
+
+[data-theme='fantasy'] .campaign-item small,
+[data-theme='fantasy'] .campaign-item .text-muted {
+  text-shadow: 0 1px 6px rgba(0, 0, 0, 0.9);
+}
+
+[data-theme='fantasy'] .modern-mode .campaign-item:hover,
+[data-theme='fantasy'] .campaign-item:hover,
+[data-theme='fantasy'] .list-group-item[data-campaign-id]:hover {
+  background-color: var(--hover-bg) !important;
+  border-color: var(--accent-color) !important;
+}
+
+/* Campaign tags */
+[data-theme='fantasy'] .campaign-tag {
+  background: rgba(168, 85, 247, 0.2);
+  color: var(--text-secondary);
+}
+
+/* Campaign meta text */
+[data-theme='fantasy'] .campaign-meta {
+  color: var(--text-muted);
+}
+
+/* Form-select (Bootstrap default) — white bg needs dark override */
+[data-theme='fantasy'] .form-select {
+  background-color: var(--input-bg);
+  border-color: var(--border-color);
+  color: var(--text-primary);
+}
+
+/* planning-blocks.css loads AFTER themes — override hardcoded light colors */
+[data-theme='fantasy'] .system-warnings {
+  background-color: rgba(168, 85, 247, 0.10) !important;
+  border-color: rgba(212, 168, 67, 0.25) !important;
+  color: var(--text-primary) !important;
+}
+
+[data-theme='fantasy'] .rewards-box {
+  background-color: rgba(168, 85, 247, 0.10) !important;
+  border-color: var(--btn-success-bg) !important;
+  color: var(--text-primary) !important;
+}
+
+[data-theme='fantasy'] .rewards-box strong {
+  color: var(--text-primary) !important;
+}
+
+[data-theme='fantasy'] .equipment-display {
+  background-color: rgba(168, 85, 247, 0.10) !important;
+  border-left-color: #5eb5f0 !important;
+  color: var(--text-primary) !important;
+}
+
+/* --- Dashboard campaign active state: matches choice-button hover in planning blocks --- */
+[data-theme='fantasy'] .list-group-item.active {
+  background-color: var(--hover-bg);
+  border-color: var(--accent-color);
+  color: var(--text-primary);
+}
+
+/* --- Campaign wizard: dark surface + light text --- */
+[data-theme='fantasy'] .campaign-wizard {
+  background: rgba(26, 15, 50, 0.96);
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .campaign-preview {
+  background: rgba(168, 85, 247, 0.08);
+  border: 1px solid rgba(168, 85, 247, 0.25);
+}
+
+[data-theme='fantasy'] .campaign-preview .card-title {
+  color: var(--accent-color);
+}
+
+[data-theme='fantasy'] .preview-item strong {
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .preview-value {
+  color: var(--text-secondary, #c7c8e8);
+}
+
+[data-theme='fantasy'] .step-title {
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .step-description {
+  color: var(--text-secondary, #c7c8e8);
+}
+
+/* (consolidated into wizard section above) */
+
+[data-theme='fantasy'] .step-label {
+  color: var(--text-secondary, #c7c8e8);
+}
+
+[data-theme='fantasy'] .step-counter {
+  color: var(--text-secondary, #c7c8e8);
+}
+
+[data-theme='fantasy'] .wizard-navigation {
+  border-top-color: var(--border-color);
+}
+
+/* Wizard personality/option cards */
+[data-theme='fantasy'] .personality-card .card-title,
+[data-theme='fantasy'] .option-card .card-title,
+[data-theme='fantasy'] .campaign-type-content h5 {
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .personality-card .card-text,
+[data-theme='fantasy'] .option-card .card-text,
+[data-theme='fantasy'] .campaign-type-content p {
+  color: var(--text-secondary, #c7c8e8);
+}
+
+[data-theme='fantasy'] .personality-card .form-check-label,
+[data-theme='fantasy'] .option-card .form-check-label {
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .campaign-type-card {
+  border-color: var(--border-color);
+  background: rgba(26, 15, 50, 0.5);
+}
+
+[data-theme='fantasy'] .campaign-type-card.selected {
+  border-color: var(--accent-color);
+  background: rgba(168, 85, 247, 0.15);
+}
+
+[data-theme='fantasy'] .personality-card,
+[data-theme='fantasy'] .option-card {
+  border-color: var(--border-color);
+}
+
+[data-theme='fantasy'] .search-filter-container {
+  background: rgba(26, 15, 50, 0.30);
+  border-color: var(--border-color);
+}
+
+[data-theme='fantasy'] .filter-group label {
+  color: var(--text-secondary, #c7c8e8);
+}
+
+[data-theme='fantasy'] .preview-item {
+  border-bottom-color: rgba(168, 85, 247, 0.15);
+}
+
+[data-theme='fantasy'] .editable-preview:hover {
+  background-color: rgba(168, 85, 247, 0.10);
+}
+
+[data-theme='fantasy'] .editable-preview.editing {
+  background-color: rgba(168, 85, 247, 0.15);
+  border-color: rgba(168, 85, 247, 0.35);
+}
+
+[data-theme='fantasy'] .planning-block-error {
+  background-color: rgba(212, 168, 67, 0.14);
+  border-color: var(--accent-color);
+  color: var(--text-primary);
+}
+
+[data-theme='fantasy'] .planning-block-error pre {
+  background-color: rgba(255, 255, 255, 0.05);
+  color: var(--text-primary);
+}
+
+
+/* Accessibility: solid fallbacks when reduced transparency is requested */
+@media (prefers-reduced-transparency: reduce) {
+  [data-theme='fantasy'] .welcome-auth-shell {
+    background: rgba(8, 5, 22, 0.85) !important;
+    backdrop-filter: none;
+  }
+
+  [data-theme='fantasy'] .welcome-auth-card {
+    background: #150d28;
+    backdrop-filter: none;
+  }
+
+  [data-theme='fantasy'] .modal-content,
+  [data-theme='fantasy'] .card {
+    background: #1a0f32;
+    backdrop-filter: none;
+  }
+
+  [data-theme='fantasy'] .container.mt-4 {
+    background: #1a0f32;
+    backdrop-filter: none;
+  }
+
+  [data-theme='fantasy'] main.container-fluid>.container {
+    background: #1a0f32 !important;
+    border-color: var(--border-color) !important;
+    backdrop-filter: none !important;
+  }
+}
+
+/* ── Rate Limit Modal (fantasy theme) ────────────────────────────────────── */
+[data-theme='fantasy'] .rate-limit-modal-content,
+[data-theme='fantasy'] .rate-limit-modal-header,
+[data-theme='fantasy'] .rate-limit-modal-body,
+[data-theme='fantasy'] .rate-limit-modal-footer {
+  background-color: #161a35 !important;
+  color: #f0ece2 !important;
+}
+
+[data-theme='fantasy'] .rate-limit-modal-title {
+  color: #f0ece2 !important;
+}
+
+[data-theme='fantasy'] .rate-limit-modal-subtitle {
+  color: #8a86a8 !important;
+}
+
+[data-theme='fantasy'] .rate-limit-message {
+  color: #d4cfc2 !important;
+}
+
+[data-theme='fantasy'] .rate-limit-timer {
+  background-color: rgba(212, 168, 67, 0.12) !important;
+  border-color: rgba(212, 168, 67, 0.3) !important;
+}
+
+[data-theme='fantasy'] .rate-limit-timer-icon { color: #d4a843 !important; }
+
+[data-theme='fantasy'] .rate-limit-byok-hint {
+  background-color: rgba(255, 255, 255, 0.05) !important;
+  border-color: #2a3060 !important;
+}
+
+[data-theme='fantasy'] .rate-limit-key-icon { color: #d4a843 !important; }
+
+[data-theme='fantasy'] .rate-limit-byok-title { color: #f0ece2 !important; }
+
+[data-theme='fantasy'] .rate-limit-byok-desc { color: #8a86a8 !important; }
+
+[data-theme='fantasy'] .rate-limit-settings-btn {
+  background: linear-gradient(135deg, #d4a843, #c8860a) !important;
+  color: #0d0f1f !important;
+}
+
+[data-theme='fantasy'] .rate-limit-settings-btn:hover,
+[data-theme='fantasy'] .rate-limit-settings-btn:focus {
+  background: linear-gradient(135deg, #c8860a, #d4a843) !important;
+  color: #0d0f1f !important;
+}
+
+[data-theme='fantasy'] .rate-limit-icon-badge {
+  background: linear-gradient(135deg, #c8860a, #8b4513) !important;
+}
+
+[data-theme='fantasy'] .rate-limit-close-secondary {
+  background-color: rgba(255, 255, 255, 0.08) !important;
+  border-color: #2a3060 !important;
+  color: #f0ece2 !important;
+}
+
+/* Close (×) button: invert for dark fantasy background */
+[data-theme='fantasy'] .rate-limit-close-btn {
+  filter: invert(1) grayscale(100%) brightness(200%) !important;
+  opacity: 0.8 !important;
+}

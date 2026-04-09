@@ -1,0 +1,77 @@
+/* Loading Messages - TASK-005b */
+
+/* Enhanced loading overlay with messages */
+#loading-overlay {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.loading-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.loading-message {
+  color: white;
+  font-size: 1.1rem;
+  text-align: center;
+  min-height: 2rem;
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+  max-width: 400px;
+  padding: 0 1rem;
+}
+
+.loading-message.active {
+  opacity: 1;
+}
+
+/* Contextual loading for interactions (inline pill spinner) */
+#loading-spinner {
+  display: flex;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+  background: rgba(15, 10, 25, 0.55);
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(130, 80, 200, 0.3);
+  padding: 6px 16px;
+  border-radius: 20px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+}
+
+#loading-spinner .loading-message {
+  color: #e2d9f3;
+  margin-top: 0;
+  font-size: 0.85rem;
+  letter-spacing: 0.2px;
+}
+
+
+/* Animation for message rotation */
+@keyframes fadeInOut {
+
+  0%,
+  100% {
+    opacity: 0;
+  }
+
+  20%,
+  80% {
+    opacity: 1;
+  }
+}
+
+/* Responsive adjustments */
+@media (max-width: 576px) {
+  .loading-message {
+    font-size: 1rem;
+    max-width: 300px;
+  }
+}

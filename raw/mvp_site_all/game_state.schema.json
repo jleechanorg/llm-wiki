@@ -1,0 +1,2688 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://worldarchitect.ai/schemas/game_state.schema.json",
+  "title": "GameState",
+  "description": "Complete game state schema for WorldArchitect.AI tabletop RPG platform",
+  "type": "object",
+  "$defs": {
+    "Stats": {
+      "type": "object",
+      "description": "Allows additional properties for legacy/test data compatibility",
+      "properties": {
+        "strength": {
+          "type": "integer",
+          "minimum": 1,
+          "default": 10,
+          "description": "Physical power, melee attack/damage modifier (unbounded for epic levels)"
+        },
+        "dexterity": {
+          "type": "integer",
+          "minimum": 1,
+          "default": 10,
+          "description": "Agility, ranged attacks, AC, initiative (unbounded for epic levels)"
+        },
+        "constitution": {
+          "type": "integer",
+          "minimum": 1,
+          "default": 10,
+          "description": "Endurance, hit points, concentration saves (unbounded for epic levels)"
+        },
+        "intelligence": {
+          "type": "integer",
+          "minimum": 1,
+          "default": 10,
+          "description": "Reasoning, memory, wizard spellcasting (unbounded for epic levels)"
+        },
+        "wisdom": {
+          "type": "integer",
+          "minimum": 1,
+          "default": 10,
+          "description": "Perception, insight, cleric/druid spellcasting (unbounded for epic levels)"
+        },
+        "charisma": {
+          "type": "integer",
+          "minimum": 1,
+          "default": 10,
+          "description": "Force of personality, bard/warlock/sorcerer spellcasting (unbounded for epic levels)"
+        }
+      },
+      "additionalProperties": true
+    },
+    "HealthStatus": {
+      "type": "object",
+      "description": "Character health tracking including temporary HP and conditions",
+      "properties": {
+        "hp": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Current hit points"
+        },
+        "hp_max": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Maximum hit points"
+        },
+        "temp_hp": {
+          "type": "integer",
+          "minimum": 0,
+          "default": 0,
+          "description": "Temporary hit points (absorbed first)"
+        },
+        "conditions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": [],
+          "description": "Active conditions (poisoned, stunned, etc.)"
+        },
+        "death_saves": {
+          "type": "object",
+          "properties": {
+            "successes": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 3
+            },
+            "failures": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 3
+            }
+          },
+          "description": "Death saving throw tracking when at 0 HP"
+        }
+      },
+      "required": [
+        "hp",
+        "hp_max"
+      ]
+    },
+    "EntityType": {
+      "type": "string",
+      "enum": [
+        "pc",
+        "npc",
+        "creature",
+        "loc",
+        "item",
+        "faction",
+        "obj"
+      ],
+      "description": "Type of game entity"
+    },
+    "EntityStatus": {
+      "anyOf": [
+        {
+          "type": "string",
+          "enum": [
+            "normal",
+            "conscious",
+            "unconscious",
+            "dead",
+            "hidden",
+            "invisible",
+            "paralyzed",
+            "stunned"
+          ]
+        },
+        {
+          "type": "string"
+        },
+        {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "normal",
+              "conscious",
+              "unconscious",
+              "dead",
+              "hidden",
+              "invisible",
+              "paralyzed",
+              "stunned"
+            ]
+          }
+        },
+        {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      ],
+      "description": "Current status of an entity (string canonical; array accepted for backward compatibility)"
+    },
+    "Visibility": {
+      "type": "string",
+      "enum": [
+        "visible",
+        "hidden",
+        "invisible",
+        "obscured",
+        "darkness"
+      ],
+      "description": "Visibility state of an entity"
+    },
+    "Character": {
+      "type": "object",
+      "description": "Base character model for PCs and NPCs",
+      "properties": {
+        "entity_id": {
+          "type": "string",
+          "description": "Unique identifier for this entity"
+        },
+        "string_id": {
+          "type": "string",
+          "description": "Runtime alias for entity_id (LLM/server compatibility)"
+        },
+        "entity_type": {
+          "$ref": "#/$defs/EntityType"
+        },
+        "display_name": {
+          "type": "string",
+          "description": "Name shown in narrative and UI"
+        },
+        "aliases": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": [],
+          "description": "Alternative names/titles for entity matching"
+        },
+        "gender": {
+          "type": "string",
+          "description": "Character gender (required for NPCs)"
+        },
+        "age": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 50000,
+          "description": "Character age in years"
+        },
+        "mbti": {
+          "type": "string",
+          "description": "MBTI personality type or creative personality descriptor"
+        },
+        "alignment": {
+          "type": "string",
+          "description": "D&D alignment or creative moral descriptor"
+        },
+        "class_name": {
+          "type": "string",
+          "description": "Character class (Fighter, Wizard, etc.)"
+        },
+        "class": {
+          "type": "string",
+          "description": "Runtime alias for class_name (LLM/server compatibility)"
+        },
+        "race": {
+          "type": "string",
+          "description": "Character race (Human, Elf, Dwarf, etc.)"
+        },
+        "proficiency_bonus": {
+          "type": "integer",
+          "minimum": 2,
+          "maximum": 9,
+          "description": "Proficiency bonus based on level"
+        },
+        "background": {
+          "type": "string",
+          "description": "Character background (Noble, Criminal, etc.)"
+        },
+        "level": {
+          "type": "integer",
+          "minimum": 1,
+          "default": 1,
+          "description": "Character level (1-20: standard, 21-25: divine, 26-30: sovereign, 31+: epic)"
+        },
+        "name": {
+          "type": "string",
+          "description": "Legacy field - character name (use display_name for new campaigns)"
+        },
+        "hp_current": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Legacy field - current HP (use health.hp for new campaigns)"
+        },
+        "hp_max": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Legacy field - maximum HP (use health.hp_max for new campaigns)"
+        },
+        "xp": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Legacy field - experience points (use experience.current for new campaigns)"
+        },
+        "stats": {
+          "$ref": "#/$defs/Stats"
+        },
+        "attributes": {
+          "type": "object",
+          "description": "Runtime alias for stats - D&D ability scores (strength, dexterity, etc.)"
+        },
+        "base_attributes": {
+          "type": "object",
+          "description": "Base ability scores before modifications"
+        },
+        "health": {
+          "$ref": "#/$defs/HealthStatus"
+        },
+        "status": {
+          "$ref": "#/$defs/EntityStatus"
+        },
+        "visibility": {
+          "$ref": "#/$defs/Visibility"
+        },
+        "current_location": {
+          "type": "string",
+          "description": "Entity ID of current location"
+        },
+        "equipped_items": {
+          "type": "object",
+          "description": "Legacy alias: use equipment for all new campaigns. Preserved for backward compatibility with sessions created before equipment unification.",
+          "additionalProperties": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "object"
+              }
+            ]
+          }
+        },
+        "inventory": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          },
+          "default": [],
+          "description": "Items carried but not equipped"
+        },
+        "equipment": {
+          "type": "object",
+          "description": "Canonical equipment field: slot -> item map plus backpack array. Use this for all equipment (main_hand, off_hand, armor, head, ring_1, ring_2, etc.)",
+          "properties": {
+            "backpack": {
+              "type": "array",
+              "items": {
+                "type": "object"
+              },
+              "default": [],
+              "description": "Non-equipped items in inventory"
+            },
+            "weapons": {
+              "type": "array",
+              "items": {
+                "anyOf": [
+                  {
+                    "type": "string"
+                  },
+                  {
+                    "type": "object"
+                  }
+                ]
+              },
+              "default": [],
+              "description": "Additional weapons list"
+            },
+            "armor": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "object"
+                }
+              ]
+            },
+            "belt": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "object"
+                }
+              ]
+            },
+            "body": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "object"
+                }
+              ]
+            },
+            "chest": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "object"
+                }
+              ]
+            },
+            "cloak": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "object"
+                }
+              ]
+            },
+            "feet": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "object"
+                }
+              ]
+            },
+            "hands": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "object"
+                }
+              ]
+            },
+            "head": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "object"
+                }
+              ]
+            },
+            "instrument": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "object"
+                }
+              ]
+            },
+            "legs": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "object"
+                }
+              ]
+            },
+            "main_hand": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "object"
+                }
+              ]
+            },
+            "neck": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "object"
+                }
+              ]
+            },
+            "off_hand": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "object"
+                }
+              ]
+            },
+            "ring_1": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "object"
+                }
+              ]
+            },
+            "ring_2": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "object"
+                }
+              ]
+            },
+            "shield": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "object"
+                }
+              ]
+            },
+            "shoulders": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "object"
+                }
+              ]
+            },
+            "waist": {
+              "anyOf": [
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "object"
+                }
+              ]
+            }
+          },
+          "additionalProperties": true
+        },
+        "resources": {
+          "type": "object",
+          "description": "Spell slots, class features, consumables"
+        },
+        "spells_known": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {"type": "string"},
+              "level": {"type": "integer"},
+              "description": {"type": "string"}
+            },
+            "required": ["name"]
+          },
+          "default": [],
+          "description": "Known spells for fixed-list casters (Sorcerer, Warlock, Bard, Ranger). Each item: {name, level, description}."
+        },
+        "spells_prepared": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {"type": "string"},
+              "level": {"type": "integer"},
+              "description": {"type": "string"}
+            },
+            "required": ["name"]
+          },
+          "default": [],
+          "description": "Today's prepared spells for prepared-caster classes (Wizard, Cleric, Druid, Paladin, Artificer). Each item: {name, level, description}. Distinct from spells_known."
+        },
+        "death_saves": {
+          "type": "object",
+          "properties": {
+            "successes": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 3
+            },
+            "failures": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 3
+            }
+          },
+          "description": "Legacy/runtime alias for health.death_saves"
+        },
+        "status_conditions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": [],
+          "description": "Player character status conditions"
+        },
+        "active_effects": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": [],
+          "description": "Temporary magical or mechanical effects on the player character"
+        },
+        "combat_stats": {
+          "type": "object",
+          "description": "Initiative/speed/passive metrics and other combat-related stats",
+          "additionalProperties": true
+        },
+        "knowledge": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": [],
+          "description": "Facts/secrets this character knows"
+        },
+        "core_memories": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": [],
+          "description": "Important memories that define this character"
+        },
+        "recent_decisions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": [],
+          "description": "Recent choices for continuity tracking"
+        },
+        "relationships": {
+          "type": "object",
+          "description": "Entity ID -> relationship descriptor mapping"
+        },
+        "cantrips": {
+          "type": "array",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "name": {"type": "string"},
+                  "level": {"type": "integer"},
+                  "description": {"type": "string"}
+                },
+                "required": ["name"]
+              }
+            ]
+          },
+          "default": [],
+          "description": "Cantrips known by this character (at-will spells, no slot required). Supports legacy string format or object format with {name, level, description}."
+        },
+        "spells": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          },
+          "default": [],
+          "description": "Character's spells list (alias for spells_known for LLM compatibility)"
+        }
+      },
+      "required": [],
+      "minProperties": 1
+    },
+    "PlayerCharacter": {
+      "unevaluatedProperties": false,
+      "allOf": [
+        {
+          "$ref": "#/$defs/Character"
+        },
+        {
+          "type": "object",
+          "properties": {
+            "player_name": {
+              "type": "string",
+              "description": "Real player name"
+            },
+            "experience": {
+              "anyOf": [
+                {
+                  "type": "integer",
+                  "minimum": 0,
+                  "description": "Legacy format: XP as direct integer"
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "current": {
+                      "type": "integer",
+                      "minimum": 0,
+                      "default": 0
+                    },
+                    "to_next_level": {
+                      "type": "integer",
+                      "minimum": 0,
+                      "default": 300
+                    }
+                  },
+                  "required": [
+                    "current"
+                  ],
+                  "description": "Modern format: XP tracking object"
+                }
+              ],
+              "description": "XP tracking (supports legacy int and modern object formats)"
+            },
+            "inspiration": {
+              "type": "boolean",
+              "default": false,
+              "description": "Has inspiration die available"
+            },
+            "hero_points": {
+              "type": "integer",
+              "minimum": 0,
+              "default": 0,
+              "description": "Hero points for dramatic moments"
+            },
+            "ability_scores": {
+              "type": "object",
+              "additionalProperties": {
+                "type": "integer"
+              }
+            },
+            "ac": {
+              "type": "integer"
+            },
+            "armor_class": {
+              "type": "integer"
+            },
+            "armor_proficiencies": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "cantrips": {
+              "type": "array",
+              "items": {
+                "anyOf": [
+                  {"type": "string"},
+                  {"type": "object", "properties": {"name": {"type": "string"}}, "required": ["name"]}
+                ]
+              },
+              "description": "Cantrips known (at-will spells, no slot required). Accepts legacy string or modern {name, ...} object."
+            },
+            "cantrips_known": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "description": "Legacy alias for cantrips"
+            },
+            "character_class": {
+              "type": "string"
+            },
+            "xp_current": {
+              "type": ["integer", "string", "null"],
+              "description": "Legacy alias for experience.current"
+            },
+            "id": {
+              "type": "string",
+              "description": "Legacy alias for entity_id"
+            },
+            "damage_immunities": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "damage_resistances": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "damage_vulnerabilities": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "darkvision": {
+              "anyOf": [
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "boolean"
+                }
+              ]
+            },
+            "features": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "hit_dice_current": {
+              "type": "integer"
+            },
+            "hit_dice_max": {
+              "type": "integer"
+            },
+            "hp": {
+              "type": "integer"
+            },
+            "immunities": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "language_proficiencies": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "languages": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "movement_speed": {
+              "anyOf": [
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "object"
+                }
+              ]
+            },
+            "resistances": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "saving_throw_proficiencies": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "senses": {
+              "anyOf": [
+                {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                {
+                  "type": "object",
+                  "additionalProperties": true
+                }
+              ]
+            },
+            "skill_proficiencies": {
+              "type": "object",
+              "properties": {
+                "proficiencies": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "expertise": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                }
+              },
+              "additionalProperties": true
+            },
+            "skills": {
+              "type": "object",
+              "additionalProperties": true
+            },
+            "speed": {
+              "anyOf": [
+                {
+                  "type": "integer"
+                },
+                {
+                  "type": "string"
+                },
+                {
+                  "type": "object"
+                }
+              ]
+            },
+            "spell_slots": {
+              "type": "object",
+              "additionalProperties": true,
+              "description": "Available spell slots by level"
+            },
+            "tool_proficiencies": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "vulnerabilities": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "resources": {
+              "type": "object",
+              "properties": {
+                "spell_slots": {
+                  "type": "object",
+                  "additionalProperties": true
+                }
+              },
+              "additionalProperties": true,
+              "description": "Class resources: spell slots, ki points, rage uses, etc."
+            },
+            "spells": {
+              "type": "array",
+              "items": {
+                "type": "object"
+              },
+              "default": [],
+              "description": "Character's spells list (alias for spells_known)"
+            }
+          }
+        }
+      ],
+      "description": "Player-controlled character with player-specific fields"
+    },
+    "NPC": {
+      "allOf": [
+        {
+          "$ref": "#/$defs/Character"
+        },
+        {
+          "type": "object",
+          "properties": {
+            "faction": {
+              "type": "string",
+              "description": "Faction this NPC belongs to"
+            },
+            "role": {
+              "type": "string",
+              "description": "NPC role (merchant, guard, villain, etc.)"
+            },
+            "attitude_to_party": {
+              "type": "string",
+              "enum": [
+                "hostile",
+                "antagonistic",
+                "cold",
+                "neutral",
+                "friendly",
+                "allied",
+                "trusted",
+                "devoted",
+                "bonded"
+              ],
+              "default": "neutral",
+              "description": "Current narrative attitude toward the party"
+            },
+            "tier": {
+              "type": "string",
+              "enum": [
+                "commoner",
+                "merchant",
+                "guard",
+                "noble",
+                "knight",
+                "lord",
+                "general",
+                "king",
+                "ancient",
+                "god",
+                "primordial",
+                "lord_general",
+                "king_ancient",
+                "god_primordial"
+              ],
+              "default": "commoner",
+              "description": "Social/Power tier (determines Social HP)"
+            }
+          }
+        }
+      ],
+      "description": "Non-player character with NPC-specific fields"
+    },
+    "Location": {
+      "type": "object",
+      "description": "A game location that can contain entities",
+      "properties": {
+        "entity_id": {
+          "type": "string"
+        },
+        "entity_type": {
+          "const": "loc",
+          "description": "Always 'loc' for locations"
+        },
+        "display_name": {
+          "type": "string"
+        },
+        "aliases": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "description": {
+          "type": "string",
+          "description": "Narrative description of this location"
+        },
+        "connected_locations": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Entity IDs of connected locations"
+        },
+        "entities_present": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Entity IDs of entities currently here"
+        },
+        "environmental_effects": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Active environmental effects (darkness, difficult terrain)"
+        }
+      },
+      "required": [
+        "entity_id",
+        "display_name"
+      ]
+    },
+    "FactionUnits": {
+      "type": "object",
+      "description": "Military units in the faction minigame",
+      "properties": {
+        "soldiers": {
+          "type": "integer",
+          "minimum": 0,
+          "default": 0,
+          "description": "Basic units: 1x Faction Power each"
+        },
+        "spies": {
+          "type": "integer",
+          "minimum": 0,
+          "default": 0,
+          "description": "Intel units: 0.5x FP each, enable intel operations"
+        },
+        "elites": {
+          "type": "integer",
+          "minimum": 0,
+          "default": 0,
+          "description": "Elite units: 3x FP each, require level 6+ adventurers"
+        },
+        "elite_avg_level": {
+          "type": "number",
+          "minimum": 6,
+          "description": "Average level of elite unit adventurers"
+        }
+      }
+    },
+    "FactionResources": {
+      "type": "object",
+      "description": "Resources tracked in faction minigame",
+      "properties": {
+        "gold": {
+          "type": "integer",
+          "minimum": 0,
+          "default": 0,
+          "description": "Gold pieces for recruitment and operations"
+        },
+        "territory": {
+          "type": "integer",
+          "minimum": 0,
+          "default": 0,
+          "description": "Controlled territory points"
+        }
+      }
+    },
+    "FactionMinigame": {
+      "type": "object",
+      "description": "Turn-based faction strategy mini-game state. Allows players to manage their faction's military and political power.",
+      "properties": {
+        "enabled": {
+          "type": "boolean",
+          "default": false,
+          "description": "Whether faction minigame is active for this campaign"
+        },
+        "tutorial_completed": {
+          "type": "boolean",
+          "default": false,
+          "description": "Whether player has completed faction tutorial"
+        },
+        "turn_number": {
+          "type": "integer",
+          "minimum": 0,
+          "default": 0,
+          "description": "Current faction turn (advances with in-game time)"
+        },
+        "faction_power": {
+          "type": "number",
+          "minimum": 0,
+          "default": 0,
+          "description": "Total faction power score"
+        },
+        "ranking": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 200,
+          "description": "Faction ranking among all factions (1 = strongest)"
+        },
+        "units": {
+          "$ref": "#/$defs/FactionUnits"
+        },
+        "resources": {
+          "$ref": "#/$defs/FactionResources"
+        },
+        "buildings": {
+          "type": "object",
+          "properties": {
+            "fortifications": {
+              "type": "integer",
+              "minimum": 0
+            }
+          },
+          "additionalProperties": true
+        }
+      }
+    },
+    "CompanionArc": {
+      "type": "object",
+      "properties": {
+        "arc_type": {
+          "type": "string"
+        },
+        "phase": {
+          "type": "string"
+        },
+        "callbacks": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "trigger": {
+                "type": "string"
+              },
+              "effect": {
+                "type": "string"
+              },
+              "triggered": {
+                "type": "boolean",
+                "default": false
+              }
+            }
+          }
+        },
+        "history": {
+          "type": "array",
+          "items": {
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "object",
+                "properties": {
+                  "event": {
+                    "type": "string"
+                  },
+                  "description": {
+                    "type": "string"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    },
+    "GodModeDirective": {
+      "type": "object",
+      "description": "A player-defined rule for god mode (narrative control)",
+      "properties": {
+        "rule": {
+          "type": "string",
+          "description": "The directive text"
+        },
+        "added": {
+          "type": "string",
+          "format": "date-time",
+          "description": "ISO timestamp when rule was added"
+        }
+      },
+      "required": [
+        "rule"
+      ]
+    },
+    "ArcMilestone": {
+      "type": "object",
+      "description": "Tracks completion of a narrative arc milestone",
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": [
+            "in_progress",
+            "completed"
+          ],
+          "default": "in_progress"
+        },
+        "phase": {
+          "type": "string"
+        },
+        "progress": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 100,
+          "default": 0,
+          "description": "Progress percentage (0-100)"
+        },
+        "updated_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "ISO timestamp of last update"
+        },
+        "completed_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When this milestone was achieved"
+        },
+        "notes": {
+          "type": "string",
+          "description": "Optional notes about how it was achieved"
+        }
+      },
+      "required": [
+        "status"
+      ]
+    },
+    "ChapterData": {
+      "type": "object",
+      "description": "Campaign chapter/progression tracking",
+      "properties": {
+        "current_chapter": {
+          "type": "integer",
+          "minimum": 1,
+          "default": 1,
+          "description": "Current chapter number"
+        },
+        "chapter_metadata": {
+          "type": "object",
+          "description": "Per-chapter metadata (title, themes, etc.)"
+        },
+        "bonus_content": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Unlocked bonus content identifiers"
+        }
+      }
+    },
+    "CampaignTier": {
+      "type": "string",
+      "enum": [
+        "mortal",
+        "divine",
+        "sovereign"
+      ],
+      "default": "mortal",
+      "description": "Campaign power tier. Mortal (levels 1-10), Divine (11-17, deity interactions), Sovereign (18-20, multiverse-scale)"
+    },
+    "CustomCampaignState": {
+      "type": "object",
+      "description": "Campaign-specific state beyond core D&D mechanics. This is the primary extension point for WorldArchitect-specific features.",
+      "properties": {
+        "arc_milestones": {
+          "type": "object",
+          "additionalProperties": {
+            "$ref": "#/$defs/ArcMilestone"
+          },
+          "description": "Narrative arc milestone tracking (milestone_id -> ArcMilestone)"
+        },
+        "companion_arcs": {
+          "type": "object",
+          "additionalProperties": {
+            "$ref": "#/$defs/CompanionArc"
+          },
+          "description": "Companion personal quest arc tracking"
+        },
+        "next_companion_arc_turn": {
+          "type": "integer",
+          "minimum": 0,
+          "default": 0,
+          "description": "Turn number when next companion arc event triggers"
+        },
+        "success_streak": {
+          "type": "integer",
+          "minimum": 0,
+          "default": 0,
+          "description": "Consecutive significant successes without major setbacks (used for complication probability)."
+        },
+        "active_constraints": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": [],
+          "description": "Player-defined OOC constraints (e.g., 'keep my backstory secret from other players')"
+        },
+        "core_memories": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": [],
+          "description": "Persistent core memory snippets used for context continuity."
+        },
+        "last_location": {
+          "type": "string",
+          "description": "Last resolved location name from story mode used for continuity and UI fallback."
+        },
+        "last_story_mode_sequence_id": {
+          "type": "integer",
+          "description": "Last persisted story-mode sequence id for state synchronization across flows."
+        },
+        "world_events": {
+          "type": "object",
+          "default": {},
+          "additionalProperties": true,
+          "description": "Nested living-world event payload preserved under custom campaign state for compatibility."
+        },
+        "attribute_system": {
+          "type": "string",
+          "default": "standard",
+          "description": "Which attribute system to use (standard, point_buy, etc.)"
+        },
+        "campaign_tier": {
+          "$ref": "#/$defs/CampaignTier"
+        },
+        "divine_potential": {
+          "type": "integer",
+          "minimum": 0,
+          "default": 0,
+          "description": "Divine potential points (used for divine tier upgrades)"
+        },
+        "universe_control": {
+          "type": "integer",
+          "minimum": 0,
+          "default": 0,
+          "description": "Universe control points (used for sovereign tier)"
+        },
+        "divine_upgrade_available": {
+          "type": "boolean",
+          "default": false,
+          "description": "Whether player can upgrade to divine tier"
+        },
+        "multiverse_upgrade_available": {
+          "type": "boolean",
+          "default": false,
+          "description": "Whether player can upgrade to sovereign/multiverse tier"
+        },
+        "god_mode_directives": {
+          "anyOf": [
+            {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/GodModeDirective"
+              }
+            },
+            {
+              "type": "object"
+            }
+          ],
+          "default": [],
+          "description": "Player-defined narrative control rules"
+        },
+        "faction_minigame": {
+          "$ref": "#/$defs/FactionMinigame"
+        },
+        "progression": {
+          "type": "object",
+          "properties": {
+            "chapter_data": {
+              "$ref": "#/$defs/ChapterData"
+            }
+          },
+          "description": "Campaign progression tracking"
+        },
+        "active_missions": {
+          "type": "array",
+          "items": {
+            "anyOf": [
+              {
+                "type": "string",
+                "description": "Legacy format: mission as string"
+              },
+              {
+                "type": "object",
+                "description": "Modern format: mission as object"
+              }
+            ]
+          },
+          "default": [],
+          "description": "Currently active mission tracking (supports legacy string and modern object formats)"
+        },
+        "completed_missions": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": [],
+          "description": "List of completed mission identifiers"
+        },
+        "character_creation_in_progress": {
+          "type": "boolean",
+          "default": false,
+          "description": "Whether character creation wizard is active"
+        },
+        "character_creation_completed": {
+          "type": "boolean",
+          "default": false,
+          "description": "Whether character creation has been completed"
+        },
+        "character_creation_stage": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "Current character creation stage identifier"
+        },
+        "level_up_pending": {
+          "type": "boolean",
+          "default": false,
+          "description": "Legacy level-up pending flag used for routing"
+        },
+        "level_up_in_progress": {
+          "type": "boolean",
+          "default": false,
+          "description": "Whether level-up flow is actively in progress"
+        },
+        "level_up_cancelled": {
+          "type": "boolean",
+          "default": false,
+          "description": "Legacy marker that level-up flow was cancelled"
+        },
+        "level_up_complete": {
+          "type": "boolean",
+          "default": false,
+          "description": "Legacy marker that level-up flow completed"
+        },
+        "god_mode": {
+          "type": "object",
+          "description": "God mode template/context payload",
+          "additionalProperties": true
+        },
+        "sanctuary_mode": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/SanctuaryMode"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "Sanctuary mode state - activates after quest/mission completion"
+        },
+        "reputation": {
+          "type": "object",
+          "description": "Reputation and notoriety sub-state",
+          "additionalProperties": true
+        },
+        "budget_warnings_shown": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": [],
+          "description": "Persist keys for budget warnings already shown to user"
+        },
+        "player_character_data_extras": {
+          "type": "object",
+          "description": "Non-canonical player_character_data fields migrated for backward compatibility",
+          "additionalProperties": true
+        }
+      },
+      "additionalProperties": true
+    },
+    "CombatantState": {
+      "type": "object",
+      "description": "Per-combatant state during combat",
+      "properties": {
+        "hp_current": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Current hit points"
+        },
+        "hp_max": {
+          "type": "integer",
+          "minimum": 1,
+          "description": "Maximum hit points"
+        },
+        "status": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": [],
+          "description": "Active conditions/status effects"
+        },
+        "type": {
+          "type": "string",
+          "description": "Role in combat (enemy, ally, companion, pc, unknown)"
+        },
+        "role": {
+          "type": "string",
+          "description": "Specific role or description"
+        },
+        "has_acted": {
+          "type": "boolean",
+          "default": false,
+          "description": "Whether this combatant has acted this round"
+        },
+        "reactions_used": {
+          "type": "integer",
+          "minimum": 0,
+          "default": 0,
+          "description": "Reactions used this round"
+        },
+        "concentration_spell": {
+          "type": "string",
+          "description": "Name of spell being concentrated on, if any"
+        }
+      }
+    },
+    "LegacyInitiativeEntry": {
+      "type": "object",
+      "description": "Legacy initiative entry shape (warn-only).",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "initiative": {
+          "type": "integer"
+        },
+        "type": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": true
+    },
+    "CombatState": {
+      "type": "object",
+      "description": "Combat encounter tracking state",
+      "properties": {
+        "in_combat": {
+          "type": "boolean",
+          "default": false,
+          "description": "Whether combat is currently active"
+        },
+        "combat_session_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "Unique identifier for the current combat session"
+        },
+        "current_round": {
+          "anyOf": [
+            {
+              "type": "integer",
+              "minimum": 0
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "Current combat round number"
+        },
+        "round_number": {
+          "type": "integer",
+          "minimum": 0,
+          "default": 0,
+          "description": "Current combat round (1-indexed when in combat)"
+        },
+        "round": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Legacy alias for round_number"
+        },
+        "participants": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "initiative_order": {
+          "type": "array",
+          "items": {
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "$ref": "#/$defs/LegacyInitiativeEntry"
+              }
+            ]
+          },
+          "default": [],
+          "description": "Ordered list of characters by initiative (supports entity ID strings and legacy entry objects)"
+        },
+        "combatants": {
+          "type": "object",
+          "additionalProperties": {
+            "$ref": "#/$defs/CombatantState"
+          },
+          "description": "Entity ID -> CombatantState mapping"
+        },
+        "active_combatant": {
+          "type": "string",
+          "description": "Entity ID of combatant whose turn it is"
+        },
+        "combat_phase": {
+          "type": "string",
+          "enum": [
+            "pre_combat",
+            "initiative",
+            "ongoing",
+            "post_combat",
+            "active",
+            "in_progress",
+            "player_turn",
+            "enemy_turn",
+            "ended",
+            "concluding",
+            "concluded",
+            "finished",
+            "complete",
+            "completed",
+            "resolved",
+            "victory",
+            "fled",
+            "idle"
+          ],
+          "default": "pre_combat",
+          "description": "Current phase of combat"
+        },
+        "combat_summary": {
+          "anyOf": [
+            {
+              "type": "object"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "description": "Summary of combat for narrative generation"
+        },
+        "rewards_processed": {
+          "type": "boolean",
+          "default": false,
+          "description": "Administrative flag indicating combat rewards were already processed"
+        }
+      }
+    },
+    "EncounterState": {
+      "type": "object",
+      "description": "Non-combat encounter tracking state",
+      "properties": {
+        "encounter_active": {
+          "type": "boolean",
+          "default": false
+        },
+        "encounter_id": {
+          "type": "string",
+          "description": "Unique identifier for the encounter"
+        },
+        "encounter_type": {
+          "type": "string",
+          "description": "Type of encounter (heist, social, stealth, etc.)"
+        },
+        "difficulty": {
+          "type": "string",
+          "description": "Difficulty level of the encounter"
+        },
+        "objectives": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "List of encounter objectives"
+        },
+        "encounter_completed": {
+          "type": "boolean",
+          "default": false
+        },
+        "encounter_summary": {
+          "anyOf": [
+            {
+              "type": "object",
+              "properties": {
+                "xp_awarded": {
+                  "type": "integer",
+                  "minimum": 0
+                }
+              },
+              "additionalProperties": true
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "rewards_processed": {
+          "type": "boolean",
+          "default": false
+        }
+      },
+      "additionalProperties": true
+    },
+    "RewardsPending": {
+      "type": "object",
+      "description": "Pending rewards awaiting distribution",
+      "properties": {
+        "source": {
+          "type": "string"
+        },
+        "source_id": {
+          "type": "string"
+        },
+        "xp": {
+          "type": "integer"
+        },
+        "xp_awarded": {
+          "type": "integer",
+          "minimum": 0,
+          "default": 0,
+          "description": "XP awarded from this reward source"
+        },
+        "gold": {
+          "type": "integer"
+        },
+        "items": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        },
+        "level_up_available": {
+          "type": "boolean",
+          "default": false
+        },
+        "new_level": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "processed": {
+          "type": "boolean",
+          "default": false
+        }
+      },
+      "additionalProperties": true
+    },
+    "WorldEvent": {
+      "type": "object",
+      "properties": {
+        "actor": {
+          "type": "string"
+        },
+        "action": {
+          "type": "string"
+        },
+        "location": {
+          "type": "string"
+        },
+        "outcome": {
+          "type": "string"
+        },
+        "event_type": {
+          "type": "string"
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "pending",
+            "discovered",
+            "resolved"
+          ]
+        },
+        "player_aware": {
+          "type": "boolean"
+        },
+        "discovery_condition": {
+          "type": "string"
+        },
+        "player_impact": {
+          "type": "string"
+        },
+        "discovered_turn": {
+          "type": "integer"
+        }
+      }
+    },
+    "WorldTime": {
+      "type": "object",
+      "description": "In-game world time tracking",
+      "properties": {
+        "hour": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 23,
+          "default": 8,
+          "description": "Hour of day (0-23)"
+        },
+        "minute": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 59,
+          "default": 0
+        },
+        "second": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 59,
+          "default": 0
+        },
+        "microsecond": {
+          "type": "integer",
+          "minimum": 0,
+          "maximum": 999999,
+          "default": 0,
+          "description": "Microseconds (0-999999) for precise time tracking in Think Mode"
+        },
+        "day": {
+          "type": "integer",
+          "minimum": 1,
+          "default": 1,
+          "description": "Day of month"
+        },
+        "month": {
+          "anyOf": [
+            {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 12
+            },
+            {
+              "type": "string"
+            }
+          ],
+          "default": 1
+        },
+        "year": {
+          "type": "integer",
+          "default": 1000,
+          "description": "Year in campaign calendar"
+        },
+        "time_of_day": {
+          "type": "string",
+          "enum": [
+            "deep night",
+            "dawn",
+            "morning",
+            "midday",
+            "afternoon",
+            "evening",
+            "night",
+            "midnight",
+            "noon",
+            "day",
+            "dusk",
+            "Deep Night",
+            "Dawn",
+            "Morning",
+            "Midday",
+            "Afternoon",
+            "Evening",
+            "Night",
+            "Midnight",
+            "Noon",
+            "Day",
+            "Dusk"
+          ],
+          "description": "Narrative time of day descriptor (accepts both lowercase and Title Case for backward compatibility)"
+        }
+      }
+    },
+    "WorldData": {
+      "type": "object",
+      "description": "World state and location tracking",
+      "properties": {
+        "world_time": {
+          "$ref": "#/$defs/WorldTime"
+        },
+        "locations": {
+          "type": "object",
+          "additionalProperties": {
+            "$ref": "#/$defs/Location"
+          },
+          "description": "Location ID -> Location mapping"
+        },
+        "current_location": {
+          "anyOf": [
+            {
+              "type": "string",
+              "description": "Entity ID of current location"
+            },
+            {
+              "type": "object",
+              "description": "Legacy format: location as object with name property"
+            }
+          ],
+          "description": "Party's current location (string ID or legacy object format)"
+        },
+        "current_location_name": {
+          "type": "string",
+          "description": "Legacy/display location name"
+        },
+        "location": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "$ref": "#/$defs/Location"
+            }
+          ],
+          "description": "Legacy world_data.location field"
+        },
+        "weather": {
+          "type": "string",
+          "description": "Current weather conditions"
+        },
+        "world_events": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/WorldEvent"
+          },
+          "description": "Active world-level events"
+        }
+      }
+    },
+    "SocialHPChallenge": {
+      "type": "object",
+      "description": "Progress tracking for social persuasion encounters",
+      "properties": {
+        "npc_id": {
+          "type": "string"
+        },
+        "npc_name": {
+          "type": "string"
+        },
+        "npc_tier": {
+          "type": "string",
+          "enum": [
+            "commoner",
+            "merchant",
+            "guard",
+            "noble",
+            "knight",
+            "lord",
+            "general",
+            "king",
+            "ancient",
+            "god",
+            "primordial",
+            "lord_general",
+            "king_ancient",
+            "god_primordial"
+          ]
+        },
+        "objective": {
+          "type": "string"
+        },
+        "request_severity": {
+          "type": "string",
+          "enum": [
+            "information",
+            "favor",
+            "submission"
+          ]
+        },
+        "social_hp": {
+          "type": "integer"
+        },
+        "social_hp_max": {
+          "type": "integer"
+        },
+        "cooldown_remaining": {
+          "type": "integer"
+        },
+        "cooldown_until_hour": {
+          "type": "integer"
+        },
+        "successes": {
+          "type": "integer"
+        },
+        "successes_needed": {
+          "type": "integer",
+          "default": 5
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "RESISTING",
+            "WAVERING",
+            "YIELDING",
+            "SURRENDERED"
+          ]
+        },
+        "resistance_shown": {
+          "type": "string"
+        },
+        "skill_used": {
+          "type": "string",
+          "enum": [
+            "Persuasion",
+            "Deception",
+            "Intimidation",
+            "Insight"
+          ]
+        },
+        "roll_result": {
+          "type": "integer"
+        },
+        "roll_dc": {
+          "type": "integer"
+        },
+        "social_hp_damage": {
+          "type": "integer"
+        }
+      },
+      "required": []
+    },
+    "ActionResolution": {
+      "type": "object",
+      "description": "Mechanical audit trail for player actions",
+      "properties": {
+        "player_input": {
+          "type": "string"
+        },
+        "interpreted_as": {
+          "type": "string"
+        },
+        "reinterpreted": {
+          "type": "boolean"
+        },
+        "mechanics": {
+          "type": "object",
+          "properties": {
+            "type": {
+              "type": "string",
+              "enum": [
+                "attack_roll",
+                "skill_check",
+                "saving_throw",
+                "investigation",
+                "other"
+              ]
+            },
+            "rolls": {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/ActionResolutionRoll"
+              }
+            },
+            "audit_events": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
+          }
+        },
+        "audit_flags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "narrative_outcome": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "reinterpreted",
+        "audit_flags"
+      ]
+    },
+    "ActionResolutionRoll": {
+      "type": "object",
+      "description": "Canonical roll payload for action_resolution.mechanics.rolls.",
+      "properties": {
+        "notation": {
+          "type": "string"
+        },
+        "result": {
+          "type": "integer"
+        },
+        "success": {
+          "type": "boolean"
+        },
+        "die_type": {
+          "type": "string",
+          "pattern": "^d[0-9]+$"
+        },
+        "dc": {
+          "type": "integer"
+        },
+        "purpose": {
+          "type": "string"
+        },
+        "modifier": {
+          "type": "integer"
+        },
+        "total": {
+          "type": "integer"
+        },
+        "margin": {
+          "type": "integer"
+        },
+        "dc_category": {
+          "type": "string"
+        },
+        "dc_reasoning": {
+          "type": "string"
+        },
+        "outcome": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "notation",
+        "result",
+        "success"
+      ],
+      "additionalProperties": true
+    },
+    "StoryEntry": {
+      "type": "object",
+      "description": "Canonical Firestore story document contract (backward-compatible).",
+      "properties": {
+        "actor": {
+          "type": "string"
+        },
+        "text": {
+          "type": "string"
+        },
+        "timestamp": {
+          "oneOf": [
+            {
+              "type": "string",
+              "format": "date-time"
+            },
+            {
+              "type": "object"
+            }
+          ]
+        },
+        "part": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "mode": {
+          "type": "string"
+        },
+        "session_header": {
+          "type": "string"
+        },
+        "resources": {
+          "type": "string"
+        },
+        "planning_block": {
+          "$ref": "#/$defs/PlanningBlock"
+        },
+        "action_resolution": {
+          "$ref": "#/$defs/ActionResolution"
+        },
+        "state_updates": {
+          "type": "object"
+        },
+        "debug_info": {
+          "type": "object",
+          "additionalProperties": true
+        },
+        "dice_rolls": {
+          "type": "array",
+          "items": {
+            "type": "object"
+          }
+        },
+        "directives": {
+          "type": "object",
+          "additionalProperties": true
+        },
+        "world_events": {
+          "type": "object"
+        },
+        "narrative": {
+          "type": "string"
+        },
+        "god_mode_response": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "actor",
+        "text",
+        "timestamp",
+        "part"
+      ],
+      "additionalProperties": true
+    },
+    "PlanningChoice": {
+      "type": "object",
+      "description": "A specific course of action available to the player",
+      "properties": {
+        "text": {
+          "type": "string",
+          "description": "Display name/title for the choice"
+        },
+        "description": {
+          "type": "string",
+          "description": "Detailed explanation of what this choice entails"
+        },
+        "pros": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "List of potential advantages"
+        },
+        "cons": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "List of potential risks or downsides"
+        },
+        "confidence": {
+          "type": "string",
+          "enum": [
+            "high",
+            "medium",
+            "low"
+          ],
+          "description": "Probability of success"
+        },
+        "risk_level": {
+          "type": "string",
+          "enum": [
+            "safe",
+            "low",
+            "medium",
+            "high"
+          ],
+          "description": "Danger level associated with this choice"
+        },
+        "switch_to_story_mode": {
+          "type": "boolean",
+          "default": false,
+          "description": "If true, selecting this switches UI to character/story mode"
+        },
+        "freeze_time": {
+          "type": "boolean",
+          "default": false,
+          "description": "If true, selecting this choice freezes in-game time advancement"
+        },
+        "id": {
+          "type": "string",
+          "description": "Machine-readable identifier for this choice (e.g., 'explore_cave')"
+        }
+      },
+      "required": [
+        "id",
+        "text",
+        "description",
+        "risk_level"
+      ]
+    },
+    "PlanningChoiceLegacy": {
+      "type": "object",
+      "description": "Legacy planning choice without embedded id (use map key as id).",
+      "properties": {
+        "text": {
+          "type": "string",
+          "description": "Display name/title for the choice"
+        },
+        "description": {
+          "type": "string",
+          "description": "Detailed explanation of what this choice entails"
+        },
+        "pros": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "List of potential advantages"
+        },
+        "cons": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "List of potential risks or downsides"
+        },
+        "confidence": {
+          "type": "string",
+          "enum": [
+            "high",
+            "medium",
+            "low"
+          ],
+          "description": "Probability of success"
+        },
+        "risk_level": {
+          "type": "string",
+          "enum": [
+            "safe",
+            "low",
+            "medium",
+            "high"
+          ],
+          "description": "Danger level associated with this choice"
+        },
+        "switch_to_story_mode": {
+          "type": "boolean",
+          "default": false,
+          "description": "If true, selecting this switches UI to character/story mode"
+        },
+        "freeze_time": {
+          "type": "boolean",
+          "default": false,
+          "description": "If true, selecting this choice freezes in-game time advancement"
+        }
+      },
+      "required": [
+        "text",
+        "description",
+        "risk_level"
+      ]
+    },
+    "SanctuaryMode": {
+      "type": "object",
+      "description": "Sanctuary mode state - activates after quest/mission completion",
+      "properties": {
+        "active": {
+          "type": "boolean",
+          "description": "Whether sanctuary mode is currently active"
+        },
+        "activated_turn": {
+          "type": "integer",
+          "description": "Turn when sanctuary was activated"
+        },
+        "expires_turn": {
+          "type": "integer",
+          "description": "Turn when sanctuary expires"
+        },
+        "arc": {
+          "type": "string",
+          "description": "The arc/mission that triggered sanctuary"
+        },
+        "scale": {
+          "type": "string",
+          "enum": [
+            "medium",
+            "major",
+            "epic"
+          ],
+          "description": "Scale of the sanctuary (determines duration)"
+        },
+        "broken": {
+          "type": "boolean",
+          "description": "Whether sanctuary was broken by player aggression"
+        },
+        "broken_turn": {
+          "type": "integer",
+          "description": "Turn when sanctuary was broken"
+        },
+        "broken_reason": {
+          "type": "string",
+          "description": "Reason why sanctuary was broken"
+        },
+        "expired": {
+          "type": "boolean",
+          "description": "Whether sanctuary expired naturally"
+        },
+        "expired_turn": {
+          "type": "integer",
+          "description": "Turn when sanctuary expired"
+        },
+        "original_scale": {
+          "type": "string",
+          "description": "Original scale before expiry"
+        }
+      }
+    },
+    "PlanningBlock": {
+      "type": "object",
+      "description": "Structured planning and decision-making block (Think Mode)",
+      "properties": {
+        "thinking": {
+          "type": "string",
+          "description": "Internal monologue analyzing the situation"
+        },
+        "choice_id": {
+          "type": "string",
+          "description": "Short identifier for the chosen choice"
+        },
+        "chosen_choice": {
+          "type": "string",
+          "description": "Detailed explanation of the chosen path"
+        },
+        "context": {
+          "type": "string",
+          "description": "Optional context or background information"
+        },
+        "choices": {
+          "description": "Planning choices as an ordered list or an id-keyed map.",
+          "oneOf": [
+            {
+              "type": "array",
+              "items": {
+                "$ref": "#/$defs/PlanningChoice"
+              }
+            },
+            {
+              "type": "object",
+              "additionalProperties": {
+                "anyOf": [
+                  {
+                    "$ref": "#/$defs/PlanningChoice"
+                  },
+                  {
+                    "$ref": "#/$defs/PlanningChoiceLegacy"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "plan_quality": {
+          "type": "object",
+          "description": "Assessment of plan quality based on intelligence/wisdom check",
+          "properties": {
+            "quality_tier": {
+              "type": "string",
+              "description": "Tier: Confused, Muddled, Incomplete, Competent, Sharp, Brilliant, Masterful"
+            },
+            "effect": {
+              "type": "string",
+              "description": "Description of how quality affects the plan options"
+            }
+          }
+        }
+      },
+      "required": [
+        "thinking",
+        "choices"
+      ]
+    }
+  },
+  "properties": {
+    "game_state_version": {
+      "type": "integer",
+      "default": 1,
+      "description": "Schema version for migration support"
+    },
+    "session_id": {
+      "type": "string",
+      "description": "Unique session identifier for the current game session"
+    },
+    "turn_number": {
+      "type": "integer",
+      "minimum": 0,
+      "description": "Current turn number in the campaign"
+    },
+    "player_character_data": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/PlayerCharacter"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "Primary player character (null during early initialization)"
+    },
+    "world_data": {
+      "$ref": "#/$defs/WorldData",
+      "description": "World state, locations, time"
+    },
+    "npc_data": {
+      "type": "object",
+      "additionalProperties": {
+        "$ref": "#/$defs/NPC"
+      },
+      "description": "NPC ID -> NPC mapping"
+    },
+    "user_settings": {
+      "anyOf": [
+        {
+          "type": "null"
+        },
+        {
+          "type": "object",
+          "properties": {
+            "faction_minigame_enabled": {
+              "type": "boolean"
+            },
+            "spicy_mode": {
+              "type": "boolean"
+            }
+          },
+          "additionalProperties": true
+        }
+      ],
+      "description": "User preferences and settings"
+    },
+    "item_registry": {
+      "type": "object",
+      "description": "Global item definitions"
+    },
+    "custom_campaign_state": {
+      "$ref": "#/$defs/CustomCampaignState",
+      "description": "WorldArchitect-specific campaign state extensions"
+    },
+    "faction_minigame": {
+      "$ref": "#/$defs/FactionMinigame",
+      "description": "Legacy top-level alias for custom_campaign_state.faction_minigame"
+    },
+    "combat_state": {
+      "$ref": "#/$defs/CombatState",
+      "description": "Current combat encounter state"
+    },
+    "last_state_update_timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO timestamp of last state modification"
+    },
+    "last_living_world_turn": {
+      "type": "integer",
+      "minimum": 0,
+      "default": 0,
+      "description": "Last player turn when living world events were generated"
+    },
+    "last_living_world_time": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/WorldTime"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "description": "World time snapshot of last living world generation"
+    },
+    "player_turn": {
+      "type": "integer",
+      "minimum": 0,
+      "default": 0,
+      "description": "Total player turns taken in this campaign"
+    },
+    "time_sensitive_events": {
+      "type": "object",
+      "description": "Events that trigger at specific times/turns"
+    },
+    "npc_agendas": {
+      "type": "object",
+      "description": "NPC goal and plan tracking"
+    },
+    "world_resources": {
+      "type": "object",
+      "description": "World-level resource tracking"
+    },
+    "time_pressure_warnings": {
+      "type": "object",
+      "description": "Active time pressure indicators"
+    },
+    "debug_mode": {
+      "type": "boolean",
+      "default": false,
+      "description": "Whether debug information should be shown"
+    },
+    "dual_mode": {
+      "type": "boolean",
+      "description": "Compatibility flag for dual mode handling"
+    },
+    "pending_instruction_hints": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": [],
+      "description": "Queued instruction hints for the LLM"
+    },
+    "encounter_state": {
+      "$ref": "#/$defs/EncounterState",
+      "description": "Non-combat encounter tracking"
+    },
+    "rewards_pending": {
+      "$ref": "#/$defs/RewardsPending",
+      "description": "Rewards awaiting distribution"
+    },
+    "world_events": {
+      "type": "object",
+      "description": "Living-world event bundle persisted for story continuity",
+      "additionalProperties": true
+    },
+    "faction_updates": {
+      "type": "object",
+      "description": "Living-world faction update payloads",
+      "additionalProperties": true
+    },
+    "time_events": {
+      "type": "object",
+      "description": "Living-world time-based event payloads",
+      "additionalProperties": true
+    },
+    "rumors": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      },
+      "description": "Rumor/event snippets surfaced to player"
+    },
+    "scene_event": {
+      "type": "object",
+      "description": "Current scene-level living-world event",
+      "additionalProperties": true
+    },
+    "complications": {
+      "type": "object",
+      "description": "Current scene/world complications payload",
+      "additionalProperties": true
+    },
+    "planning_block": {
+      "$ref": "#/$defs/PlanningBlock"
+    },
+    "social_hp_challenge": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/SocialHPChallenge"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "action_resolution": {
+      "$ref": "#/$defs/ActionResolution"
+    },
+    "location": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/Location"
+        },
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "display_name": {
+              "type": "string"
+            },
+            "description": {
+              "type": "string"
+            }
+          },
+          "additionalProperties": true
+        }
+      ],
+      "description": "Legacy top-level location container"
+    },
+    "game_state": {
+      "type": "object",
+      "description": "Legacy nested game_state container for compatibility",
+      "additionalProperties": true
+    }
+  },
+  "required": [
+    "game_state_version",
+    "session_id",
+    "turn_number"
+  ]
+}

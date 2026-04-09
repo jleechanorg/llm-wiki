@@ -1,0 +1,273 @@
+#!/usr/bin/env python3
+"""
+Unit tests for firestore_service structured fields handling.
+Tests that structured fields are properly stored in Firestore.
+"""
+
+import os
+import sys
+import unittest
+from unittest.mock import MagicMock, patch
+
+# Add the parent directory to the Python path
+sys.path.insert(
+    0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+)
+
+from mvp_site import constants
+from mvp_site.firestore_service import add_story_entry
+
+
+class TestFirestoreStructuredFields(unittest.TestCase):
+    """Test structured fields handling in firestore_service"""
+
+    def setUp(self):
+        """Set up test environment"""
+        # Set mock services mode to skip verification for unit tests
+        os.environ["MOCK_SERVICES_MODE"] = "true"
+
+    def tearDown(self):
+        """Clean up test environment"""
+        # Clean up environment variable
+        if "MOCK_SERVICES_MODE" in os.environ:
+            del os.environ["MOCK_SERVICES_MODE"]
+
+    @patch("mvp_site.firestore_service.get_db")
+    def test_add_story_entry_with_structured_fields(self, mock_get_db):
+        """Test add_story_entry properly stores structured fields"""
+        # Mock the database and its chain of calls
+        mock_db = MagicMock()
+        mock_get_db.return_value = mock_db
+
+        # Test data
+        user_id = "test-user-123"
+        campaign_id = "test-campaign-456"
+        story_type = "player"
+        content = "Test story content"
+
+        structured_fields = {
+            constants.FIELD_SESSION_HEADER: "Session 1: The Beginning",
+            constants.FIELD_PLANNING_BLOCK: "1. Explore\n2. Fight\n3. Rest",
+            constants.FIELD_DICE_ROLLS: ["Attack: 1d20+5 = 18"],
+            constants.FIELD_RESOURCES: "HP: 20/30 | Gold: 100",
+            constants.FIELD_DEBUG_INFO: {"turn": 1, "mode": "combat"},
+        }
+
+        # Call the function
+        add_story_entry(
+            user_id,
+            campaign_id,
+            story_type,
+            content,
+            structured_fields=structured_fields,
+        )
+
+        # Verify the database calls were made
+        mock_db.collection.assert_called_with("users")
+
+        # Get the actual data passed to add()
+        # The chain is: db.collection('users').document(user_id).collection('campaigns').document(campaign_id).collection('story').add(entry_data)
+        story_add_calls = mock_db.collection.return_value.document.return_value.collection.return_value.document.return_value.collection.return_value.add.call_args_list
+
+        # Should have exactly one call (content fits in one chunk)
+        assert len(story_add_calls) == 1
+
+        # Get the story data from the call
+        story_data = story_add_calls[0][0][0]
+
+        # Verify structured fields are included
+        assert story_data[constants.FIELD_SESSION_HEADER] == "Session 1: The Beginning"
+        assert (
+            story_data[constants.FIELD_PLANNING_BLOCK]
+            == "1. Explore\n2. Fight\n3. Rest"
+        )
+        assert story_data[constants.FIELD_DICE_ROLLS] == ["Attack: 1d20+5 = 18"]
+        assert story_data[constants.FIELD_RESOURCES] == "HP: 20/30 | Gold: 100"
+        assert story_data[constants.FIELD_DEBUG_INFO] == {"turn": 1, "mode": "combat"}
+
+        # Verify basic fields
+        assert story_data["text"] == content
+        assert story_data["actor"] == story_type
+        assert "timestamp" in story_data
+        assert story_data["part"] == 1
+
+    @patch("mvp_site.firestore_service.get_db")
+    def test_add_story_entry_without_structured_fields(self, mock_get_db):
+        """Test add_story_entry works without structured fields"""
+        # Mock the database
+        mock_db = MagicMock()
+        mock_get_db.return_value = mock_db
+
+        # Call without structured fields
+        add_story_entry("user-123", "campaign-789", "gemini", "Simple story")
+
+        # Get the story data
+        story_add_calls = mock_db.collection.return_value.document.return_value.collection.return_value.document.return_value.collection.return_value.add.call_args_list
+        assert len(story_add_calls) == 1
+        story_data = story_add_calls[0][0][0]
+
+        # Verify no structured fields are added
+        assert constants.FIELD_SESSION_HEADER not in story_data
+        assert constants.FIELD_PLANNING_BLOCK not in story_data
+        assert constants.FIELD_DICE_ROLLS not in story_data
+        assert constants.FIELD_RESOURCES not in story_data
+        assert constants.FIELD_DEBUG_INFO not in story_data
+
+        # But basic fields should exist
+        assert story_data["text"] == "Simple story"
+        assert story_data["actor"] == "gemini"
+
+    @patch("mvp_site.firestore_service.get_db")
+    def test_add_story_entry_with_partial_structured_fields(self, mock_get_db):
+        """Test add_story_entry with only some structured fields"""
+        # Mock the database
+        mock_db = MagicMock()
+        mock_get_db.return_value = mock_db
+
+        # Only provide some structured fields
+        structured_fields = {
+            constants.FIELD_SESSION_HEADER: "Session 2",
+            constants.FIELD_DICE_ROLLS: ["Initiative: 1d20+2 = 14"],
+            # Other fields missing
+        }
+
+        # Call the function
+        add_story_entry(
+            "user-123",
+            "campaign-789",
+            "player",
+            "Player action",
+            structured_fields=structured_fields,
+        )
+
+        # Get the story data
+        story_add_calls = mock_db.collection.return_value.document.return_value.collection.return_value.document.return_value.collection.return_value.add.call_args_list
+        story_data = story_add_calls[0][0][0]
+
+        # Verify only provided fields are included
+        assert story_data[constants.FIELD_SESSION_HEADER] == "Session 2"
+        assert story_data[constants.FIELD_DICE_ROLLS] == ["Initiative: 1d20+2 = 14"]
+
+        # Missing fields should not be included
+        assert constants.FIELD_PLANNING_BLOCK not in story_data
+        assert constants.FIELD_RESOURCES not in story_data
+        assert constants.FIELD_DEBUG_INFO not in story_data
+
+    @patch("mvp_site.firestore_service.get_db")
+    def test_add_story_entry_with_empty_structured_fields(self, mock_get_db):
+        """Test add_story_entry with empty structured fields dict"""
+        # Mock the database
+        mock_db = MagicMock()
+        mock_get_db.return_value = mock_db
+
+        # Call with empty structured fields dict
+        add_story_entry(
+            "user-123",
+            "campaign-789",
+            "player",
+            "Test action",
+            structured_fields={},  # Empty dict
+        )
+
+        # Get the story data
+        story_add_calls = mock_db.collection.return_value.document.return_value.collection.return_value.document.return_value.collection.return_value.add.call_args_list
+        story_data = story_add_calls[0][0][0]
+
+        # Verify no structured fields are added
+        assert constants.FIELD_SESSION_HEADER not in story_data
+        assert constants.FIELD_PLANNING_BLOCK not in story_data
+        assert constants.FIELD_DICE_ROLLS not in story_data
+        assert constants.FIELD_RESOURCES not in story_data
+        assert constants.FIELD_DEBUG_INFO not in story_data
+
+        # Basic fields should still exist
+        assert story_data["text"] == "Test action"
+
+    @patch("mvp_site.firestore_service.get_db")
+    def test_add_story_entry_with_none_values_in_structured_fields(self, mock_get_db):
+        """Test add_story_entry handles None values in structured fields"""
+        # Mock the database
+        mock_db = MagicMock()
+        mock_get_db.return_value = mock_db
+
+        # Provide structured fields with None values
+        structured_fields = {
+            constants.FIELD_SESSION_HEADER: "Valid header",
+            constants.FIELD_PLANNING_BLOCK: None,  # None value
+            constants.FIELD_DICE_ROLLS: [],  # Empty list
+            constants.FIELD_RESOURCES: "",  # Empty string
+            constants.FIELD_DEBUG_INFO: None,  # None value
+        }
+
+        # Call the function
+        add_story_entry(
+            "user-123",
+            "campaign-789",
+            "gemini",
+            "AI response",
+            structured_fields=structured_fields,
+        )
+
+        # Get the story data
+        story_add_calls = mock_db.collection.return_value.document.return_value.collection.return_value.document.return_value.collection.return_value.add.call_args_list
+        story_data = story_add_calls[0][0][0]
+
+        # Non-None fields should be included
+        assert story_data[constants.FIELD_SESSION_HEADER] == "Valid header"
+        assert story_data[constants.FIELD_DICE_ROLLS] == []  # Empty list is saved
+        assert story_data[constants.FIELD_RESOURCES] == ""  # Empty string is saved
+
+        # Only None fields should be excluded
+        assert constants.FIELD_PLANNING_BLOCK not in story_data  # None
+        assert constants.FIELD_DEBUG_INFO not in story_data  # None
+
+    @patch("mvp_site.firestore_service.logging_util.warning")
+    @patch("mvp_site.firestore_service.schema_validation.validate_story_entry")
+    @patch("mvp_site.firestore_service.get_db")
+    def test_story_entry_contract_validation_is_non_blocking(
+        self, mock_get_db, mock_validate_story_entry, mock_warning
+    ):
+        """Story-entry contract warnings should not block persistence."""
+        mock_db = MagicMock()
+        mock_get_db.return_value = mock_db
+        mock_validate_story_entry.return_value = ["part: missing"]
+
+        add_story_entry(
+            "user-123",
+            "campaign-789",
+            "gemini",
+            "AI response",
+            structured_fields={constants.FIELD_SESSION_HEADER: "Session"},
+        )
+
+        story_add_calls = (
+            mock_db.collection.return_value.document.return_value.collection.return_value.document.return_value.collection.return_value.add.call_args_list
+        )
+        assert len(story_add_calls) == 1
+        assert mock_warning.called
+
+    @patch("mvp_site.firestore_service.schema_validation.validate_story_entry")
+    @patch("mvp_site.firestore_service.get_db")
+    def test_story_entry_contract_validation_normalizes_timestamp(
+        self, mock_get_db, mock_validate_story_entry
+    ):
+        """Validation payload should use schema-compatible timestamp values."""
+        mock_db = MagicMock()
+        mock_get_db.return_value = mock_db
+        mock_validate_story_entry.return_value = []
+
+        add_story_entry(
+            "user-123",
+            "campaign-789",
+            "gemini",
+            "AI response",
+            structured_fields={constants.FIELD_SESSION_HEADER: "Session"},
+        )
+
+        assert mock_validate_story_entry.call_count >= 1
+        first_validation_payload = mock_validate_story_entry.call_args_list[0][0][0]
+        assert isinstance(first_validation_payload.get("timestamp"), str)
+
+
+if __name__ == "__main__":
+    unittest.main()

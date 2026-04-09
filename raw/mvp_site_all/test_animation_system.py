@@ -1,0 +1,426 @@
+#!/usr/bin/env python3
+"""
+Animation System Tests - Milestone 3
+Tests for CSS animations, JavaScript helpers, and performance
+"""
+
+import os
+import re
+import sys
+import tempfile
+import unittest
+
+
+class TestAnimationSystem(unittest.TestCase):
+    """Test the animation system components"""
+
+    def setUp(self):
+        """Set up test environment"""
+        self.test_dir = tempfile.mkdtemp()
+        # Fix paths to point to parent directory
+        parent_dir = os.path.dirname(os.path.dirname(__file__))
+        self.animation_css_path = os.path.join(
+            parent_dir, "frontend_v1", "styles", "animations.css"
+        )
+        self.animation_js_path = os.path.join(
+            parent_dir, "frontend_v1", "js", "animation-helpers.js"
+        )
+        self.index_html_path = os.path.join(parent_dir, "frontend_v1", "index.html")
+
+    def test_animation_css_exists_and_valid(self):
+        """Test that animation CSS file exists and contains expected animations"""
+        assert os.path.exists(self.animation_css_path), (
+            "animations.css file should exist"
+        )
+
+        with open(self.animation_css_path) as f:
+            css_content = f.read()
+
+        # Test for essential animation components
+        essential_animations = [
+            "--animation-duration-fast",
+            "--animation-duration-normal",
+            "--animation-duration-slow",
+            ".btn:hover",
+            "@keyframes",
+            "transition:",
+            "transform:",
+            "opacity:",
+        ]
+
+        for animation in essential_animations:
+            assert animation in css_content, f"CSS should contain {animation}"
+
+        # Test for accessibility support
+        assert "@media (prefers-reduced-motion: reduce)" in css_content, (
+            "Should include reduced motion support"
+        )
+
+    def test_animation_js_exists_and_valid(self):
+        """Test that animation JavaScript file exists and is valid"""
+        assert os.path.exists(self.animation_js_path), (
+            "animation-helpers.js file should exist"
+        )
+
+        with open(self.animation_js_path) as f:
+            js_content = f.read()
+
+        # Test for essential JavaScript components
+        essential_components = [
+            "class AnimationHelpers",
+            "animatedShowView",
+            "addButtonLoadingState",
+            "enhanceStoryUpdates",
+            "window.animations",
+            "DOMContentLoaded",
+        ]
+
+        for component in essential_components:
+            assert component in js_content, f"JavaScript should contain {component}"
+
+    def test_index_html_includes_animation_files(self):
+        """Test that index.html includes animation CSS and JS"""
+        assert os.path.exists(self.index_html_path), "index.html file should exist"
+
+        with open(self.index_html_path) as f:
+            html_content = f.read()
+
+        # Test for animation file inclusions
+        assert 'href="/frontend_v1/styles/animations.css"' in html_content, (
+            "Should include animations.css"
+        )
+        assert 'src="/frontend_v1/js/animation-helpers.js"' in html_content, (
+            "Should include animation-helpers.js"
+        )
+
+    def test_animation_css_syntax_validation(self):
+        """Test CSS syntax is valid (basic validation)"""
+        with open(self.animation_css_path) as f:
+            css_content = f.read()
+
+        # Basic syntax checks
+        open_braces = css_content.count("{")
+        close_braces = css_content.count("}")
+        assert open_braces == close_braces, "CSS should have matching braces"
+
+        # Check for common syntax errors
+        assert ";;" not in css_content, "Should not have double semicolons"
+        assert ": ;" not in css_content, "Should not have space before semicolon"
+
+    def test_animation_performance_properties(self):
+        """Test that performance-enhancing CSS properties are present"""
+        with open(self.animation_css_path) as f:
+            css_content = f.read()
+
+        # Performance properties
+        performance_props = [
+            "will-change:",
+            "transform:",  # GPU acceleration
+            "opacity:",  # GPU acceleration
+            "transition:",  # Smooth animations
+        ]
+
+        for prop in performance_props:
+            assert prop in css_content, f"Should include performance property {prop}"
+
+    def test_theme_transition_animations(self):
+        """Test that theme transition animations are included"""
+        with open(self.animation_css_path) as f:
+            css_content = f.read()
+
+        match = re.search(
+            r"#auth-view,\s*#dashboard-view,\s*#new-campaign-view,\s*#game-view\s*{([^}]*)}",
+            css_content,
+            re.S,
+        )
+        assert match, "Should define core view transition block"
+        block = match.group(1)
+        assert "transition:" in block, (
+            "Core view transition block should include transition declarations"
+        )
+        assert "opacity" in block or "transform" in block, (
+            "Core view transition block should transition visual properties"
+        )
+
+    def test_accessibility_features(self):
+        """Test that accessibility features are properly implemented"""
+        with open(self.animation_css_path) as f:
+            css_content = f.read()
+
+        # Accessibility checks
+        assert "prefers-reduced-motion" in css_content, (
+            "Should respect user motion preferences"
+        )
+        assert "animation-duration: 0.01ms" in css_content, (
+            "Should disable animations for reduced motion"
+        )
+
+    def test_javascript_error_handling(self):
+        """Test that JavaScript has proper error handling patterns"""
+        with open(self.animation_js_path) as f:
+            js_content = f.read()
+
+        # Error handling patterns
+        error_handling = [
+            "if (!",  # Null checks
+            "?.(",  # Optional chaining
+            "setTimeout(",  # Async handling
+            "resolve();",  # Promise handling
+        ]
+
+        for pattern in error_handling:
+            assert pattern in js_content, (
+                f"Should include error handling pattern {pattern}"
+            )
+
+    def test_index_theme_implementation(self):
+        """Verify index.html uses CSS-variable theme architecture (no theme-init.js)"""
+        with open(self.index_html_path, encoding="utf-8") as f:
+            content = f.read()
+
+        # FOUC prevention uses theme-bootstrap.js (not the old theme-init.js)
+        assert 'theme-init.js' not in content, (
+            "index.html should not load legacy theme-init.js"
+        )
+
+        # theme-bootstrap.js handles FOUC prevention
+        assert 'theme-bootstrap.js' in content, (
+            "index.html should load theme-bootstrap.js for FOUC prevention"
+        )
+
+        # No hardcoded data-theme on html tag (set dynamically)
+        html_pattern = r"""<html[^>]*\sdata-theme=["'][^"']+["'][^>]*>"""
+        assert not re.search(html_pattern, content), (
+            "index.html should NOT have any hardcoded data-theme on the html tag"
+        )
+
+        # No system dark-mode detection (explicit user choice only)
+        assert "(prefers-color-scheme: dark)" not in content, (
+            "index.html should not auto-detect system dark mode preference"
+        )
+
+
+class TestAnimationIntegration(unittest.TestCase):
+    """Integration tests for animation system with existing app"""
+
+    def setUp(self):
+        """Set up integration test environment"""
+        self.app_js_path = os.path.join(
+            os.path.dirname(os.path.dirname(__file__)), "frontend_v1", "app.js"
+        )
+
+    def test_animation_system_compatibility(self):
+        """Test that animation system doesn't conflict with existing app.js"""
+        # Check that both files exist
+        animation_js_path = os.path.join(
+            os.path.dirname(os.path.dirname(__file__)),
+            "frontend_v1",
+            "js",
+            "animation-helpers.js",
+        )
+
+        assert os.path.exists(self.app_js_path), "app.js should exist"
+        assert os.path.exists(animation_js_path), "animation-helpers.js should exist"
+
+        # Read both files
+        with open(self.app_js_path) as f:
+            app_content = f.read()
+
+        with open(animation_js_path) as f:
+            animation_content = f.read()
+
+        # Test for compatibility patterns
+        # Animation system should enhance, not replace
+        if "showView" in app_content:
+            assert "originalShowView" in animation_content, (
+                "Should preserve original showView function"
+            )
+
+        # Should not conflict with existing global variables
+        if "window." in app_content:
+            # Basic check for global variable conflicts
+            # This is a simplified check - in real testing you'd parse more carefully
+            pass
+
+    def test_loading_order_in_html(self):
+        """Test that scripts are loaded in correct order"""
+        index_html_path = os.path.join(
+            os.path.dirname(os.path.dirname(__file__)), "frontend_v1", "index.html"
+        )
+
+        with open(index_html_path) as f:
+            html_content = f.read()
+
+        # Find script positions
+        theme_manager_pos = html_content.find("theme-manager.js")
+        animation_helpers_pos = html_content.find("animation-helpers.js")
+        app_js_pos = html_content.find('src="/frontend_v1/app.js"')
+
+        # Animation helpers should load before app.js but after theme-manager
+        assert theme_manager_pos < animation_helpers_pos, (
+            "theme-manager.js should load before animation-helpers.js"
+        )
+        assert animation_helpers_pos < app_js_pos, (
+            "animation-helpers.js should load before app.js"
+        )
+
+
+class TestAnimationPerformance(unittest.TestCase):
+    """Performance tests for animation system"""
+
+    def test_css_file_size(self):
+        """Test that CSS file size is reasonable"""
+        animation_css_path = os.path.join(
+            os.path.dirname(os.path.dirname(__file__)),
+            "frontend_v1",
+            "styles",
+            "animations.css",
+        )
+
+        if os.path.exists(animation_css_path):
+            file_size = os.path.getsize(animation_css_path)
+            # Should be under 50KB for performance
+            assert file_size < 50 * 1024, (
+                f"animations.css should be under 50KB, got {file_size} bytes"
+            )
+
+    def test_javascript_file_size(self):
+        """Test that JavaScript file size is reasonable"""
+        animation_js_path = os.path.join(
+            os.path.dirname(os.path.dirname(__file__)),
+            "frontend_v1",
+            "js",
+            "animation-helpers.js",
+        )
+
+        if os.path.exists(animation_js_path):
+            file_size = os.path.getsize(animation_js_path)
+            # Should be under 30KB for performance
+            assert file_size < 30 * 1024, (
+                f"animation-helpers.js should be under 30KB, got {file_size} bytes"
+            )
+
+    def test_css_selector_efficiency(self):
+        """Test that CSS selectors are efficient"""
+        animation_css_path = os.path.join(
+            os.path.dirname(os.path.dirname(__file__)),
+            "frontend_v1",
+            "styles",
+            "animations.css",
+        )
+
+        with open(animation_css_path) as f:
+            css_content = f.read()
+
+        # Check for efficient selectors (avoid inefficient patterns)
+        inefficient_patterns = [
+            "* * *",  # Too many universal selectors
+            '[class*=""] [class*=""]',  # Double attribute selectors
+        ]
+
+        for pattern in inefficient_patterns:
+            assert pattern not in css_content, (
+                f"Should avoid inefficient selector pattern: {pattern}"
+            )
+
+
+class TestAnimationFunctionality(unittest.TestCase):
+    """Functional tests for animation features"""
+
+    def test_animation_duration_variables(self):
+        """Test that animation duration variables are properly defined"""
+        animation_css_path = os.path.join(
+            os.path.dirname(os.path.dirname(__file__)),
+            "frontend_v1",
+            "styles",
+            "animations.css",
+        )
+
+        with open(animation_css_path) as f:
+            css_content = f.read()
+
+        # Check for duration variables
+        duration_vars = [
+            "--animation-duration-fast: 0.15s",
+            "--animation-duration-normal: 0.3s",
+            "--animation-duration-slow: 0.5s",
+        ]
+
+        for var in duration_vars:
+            assert var in css_content, f"Should define duration variable: {var}"
+
+    def test_keyframe_animations_defined(self):
+        """Test that essential keyframe animations are defined"""
+        animation_css_path = os.path.join(
+            os.path.dirname(os.path.dirname(__file__)),
+            "frontend_v1",
+            "styles",
+            "animations.css",
+        )
+
+        with open(animation_css_path) as f:
+            css_content = f.read()
+
+        # Essential animations
+        keyframes = [
+            "@keyframes btn-spin",
+            "@keyframes slideInUp",
+            "@keyframes typeWriter",
+            "@keyframes pulse",
+        ]
+
+        for keyframe in keyframes:
+            assert keyframe in css_content, f"Should define keyframe: {keyframe}"
+
+    def test_javascript_api_methods(self):
+        """Test that JavaScript API provides expected methods"""
+        animation_js_path = os.path.join(
+            os.path.dirname(os.path.dirname(__file__)),
+            "frontend_v1",
+            "js",
+            "animation-helpers.js",
+        )
+
+        with open(animation_js_path) as f:
+            js_content = f.read()
+
+        # API methods that should be available
+        api_methods = [
+            "showView:",
+            "showLoading:",
+            "hideLoading:",
+            "addButtonLoading:",
+            "removeButtonLoading:",
+            "showStoryLoading:",
+            "hideStoryLoading:",
+        ]
+
+        for method in api_methods:
+            assert method in js_content, f"Should provide API method: {method}"
+
+
+def run_animation_tests():
+    """Run all animation system tests"""
+    test_suites = [
+        unittest.TestLoader().loadTestsFromTestCase(TestAnimationSystem),
+        unittest.TestLoader().loadTestsFromTestCase(TestAnimationIntegration),
+        unittest.TestLoader().loadTestsFromTestCase(TestAnimationPerformance),
+        unittest.TestLoader().loadTestsFromTestCase(TestAnimationFunctionality),
+    ]
+
+    combined_suite = unittest.TestSuite(test_suites)
+    runner = unittest.TextTestRunner(verbosity=2)
+    result = runner.run(combined_suite)
+
+    return result.wasSuccessful()
+
+
+if __name__ == "__main__":
+    print("🧪 Running Animation System Tests...")
+    success = run_animation_tests()
+
+    if success:
+        print("✅ All animation tests passed!")
+    else:
+        print("❌ Some animation tests failed.")
+        sys.exit(1)

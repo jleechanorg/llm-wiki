@@ -1,0 +1,4 @@
+# Cache-busted files (generated at deploy time)
+# Pattern: filename.<hash>.ext where hash is 8 hex characters
+*.[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9].js
+*.[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9].css

@@ -15,7 +15,7 @@ from pathlib import Path
 from datetime import date
 from typing import List, Dict, Any
 
-WIKI_DIR = Path("/Users/jleechan/llm_wiki")
+WIKI_DIR = Path("/Users/jleechan/llm_wiki/wiki")
 LOG_FILE = WIKI_DIR / "log.md"
 INDEX_FILE = WIKI_DIR / "index.md"
 OVERVIEW_FILE = WIKI_DIR / "overview.md"
@@ -27,7 +27,7 @@ AO_RUNTIME = os.environ.get("AO_RUNTIME", "antigravity")
 # Extended agent commands for batch processing
 AGENT_CMD = {
     "claude": "claude",
-    "claudem": "claudem",
+    "claudem": '"/Applications/cmux DEV.app/Contents/Resources/bin/cmux"',
     "codex": "codex",
     "cursor": "cursor-agent",
     "ao": "ao",
@@ -113,6 +113,21 @@ Use [[PageName]] wikilinks.
 {source_content[:6000]}
 === SOURCE END ===
 
+## MANDATORY EXTRACTION RULES (Karpathy Pattern):
+
+1. **ALWAYS create entity pages** for:
+   - Every person mentioned (create entities/FirstLast.md)
+   - Every company/organization mentioned (entities/CompanyName.md)
+   - Every project/product mentioned (entities/ProjectName.md)
+   - Every PR/issue referenced (entities/PR123.md)
+
+2. **ALWAYS create concept pages** for:
+   - Every method, framework, or theory discussed
+   - Every technical concept or pattern
+   - Every workflow or process described
+
+**CRITICAL**: You MUST create entity_pages and concept_pages arrays with at least one entry each if the source mentions any people, companies, projects, or concepts. Empty arrays are not acceptable.
+
 Return ONLY valid JSON (no markdown fences):
 {{
   "title": "Human-readable title",
@@ -128,7 +143,7 @@ Return ONLY valid JSON (no markdown fences):
 
     agent_cmd = {
         "claude": "claude",
-        "claudem": "claudem",
+        "claudem": '"/Applications/cmux DEV.app/Contents/Resources/bin/cmux"',
         "codex": "codex",
         "cursor": "cursor-agent",
     }.get(agent, "claude")
@@ -137,6 +152,14 @@ Return ONLY valid JSON (no markdown fences):
 
     try:
         cmd_list = [agent_cmd, "--dangerously-skip-permissions", "-p", prompt]
+        # For claudem, use minimax API
+        run_env = {**os.environ, "WIKI_AGENT": agent}
+        if agent == "claudem":
+            run_env["ANTHROPIC_BASE_URL"] = "https://api.minimax.io/anthropic"
+            run_env["ANTHROPIC_AUTH_TOKEN"] = os.environ.get("MINIMAX_API_KEY", os.environ.get("ANTHROPIC_AUTH_TOKEN", ""))
+            run_env["ANTHROPIC_MODEL"] = "MiniMax-M2.5"
+            run_env["ANTHROPIC_SMALL_FAST_MODEL"] = "MiniMax-M2.5"
+            cmd_list = [agent_cmd, "--dangerously-skip-permissions", "-p", "-"]
         result = subprocess.run(
             cmd_list,
             capture_output=True,
@@ -144,7 +167,8 @@ Return ONLY valid JSON (no markdown fences):
             timeout=300,  # 5 min timeout
             cwd=str(WIKI_DIR),
             shell=use_shell,
-            env={**os.environ, "WIKI_AGENT": agent}
+            env=run_env,
+            input=prompt if agent == "claudem" else None
         )
 
         if result.returncode == 0:

@@ -1,0 +1,168 @@
+/* Planning Block Choice Buttons Styling */
+
+/* Thinking text paragraph styling */
+.planning-block-thinking {
+  margin-bottom: 0.5rem;
+}
+
+/* Aggressively collapse vertical space below planning block choices */
+.planning-block-choices {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+.planning-block-choices + div,
+.planning-block-choices + form,
+.planning-block-choices + input,
+.planning-block-choices + .form-group,
+.planning-block-choices + .input-group {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Remove margin from parent if present */
+.planning-block-choices:parent {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Individual choice button */
+.choice-button {
+  display: block;
+  width: 100%;
+  margin-bottom: 0.5rem;
+  padding: 0.5rem 1rem;
+  text-align: left;
+  background: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  line-height: 1.4;
+  color: #212529;
+  box-shadow: none;
+}
+
+.choice-button:last-child {
+  margin-bottom: 0.1rem;
+}
+
+.choice-button:hover {
+  background: #e9ecef;
+  border-color: #adb5bd;
+}
+
+.choice-button:active {
+  background: #dee2e6;
+}
+
+/* Choice ID styling */
+.choice-id {
+  font-weight: bold;
+  color: #0d6efd;
+  margin-right: 0.5rem;
+  font-family: 'Courier New', monospace;
+}
+
+/* Choice description */
+.choice-description {
+  color: #495057;
+}
+
+/* Disabled state when waiting for response */
+.choice-button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  background: #e9ecef;
+}
+
+/* Custom choice button styling */
+.choice-button-custom {
+  background: linear-gradient(135deg, #f0f4ff 0%, #e0e8ff 100%);
+  border-color: #6c757d;
+  border-style: dashed;
+}
+
+.choice-button-custom:hover {
+  background: linear-gradient(135deg, #e0e8ff 0%, #d0d8ff 100%);
+  border-color: #495057;
+}
+
+.choice-button-custom .choice-id {
+  color: #6c757d;
+}
+
+.choice-button-custom .choice-description {
+  font-style: italic;
+  color: #6c757d;
+}
+
+/* Custom action button - always shown at bottom of planning block choices */
+.custom-action-button {
+  background: transparent;
+  border-style: dashed;
+  border-color: #adb5bd;
+  color: #6c757d;
+  font-style: italic;
+  margin-top: 0.25rem;
+}
+
+.custom-action-button:hover {
+  background: #f8f9fa;
+  border-color: #6c757d;
+  color: #495057;
+}
+
+/* Error state for planning blocks */
+.planning-block-error {
+  background-color: #fff3cd;
+  border: 1px solid #ffecb5;
+  color: #856404;
+  padding: 1rem;
+  margin: 0.5rem 0;
+  border-radius: 0.25rem;
+}
+
+.planning-block-error pre {
+  background-color: rgba(0, 0, 0, 0.05);
+  padding: 0.5rem;
+  margin: 0.5rem 0;
+  border-radius: 0.25rem;
+  overflow-x: auto;
+  font-size: 0.875rem;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+/* Styling for malformed content within error blocks */
+.malformed-content {
+  background-color: rgba(0, 0, 0, 0.05);
+  padding: 0.75rem;
+  margin: 0.5rem 0;
+  border-radius: 0.25rem;
+  border-left: 4px solid #ffecb5;
+  font-family: monospace;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  overflow-x: auto;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .choice-button {
+    padding: 0.08rem 0.25rem;
+    font-size: 0.7rem;
+    margin-right: 0.25rem;
+    margin-bottom: 0.15rem;
+  }
+
+  .choice-id {
+    font-size: 0.7rem;
+  }
+
+  .planning-block-choices {
+    padding: 0.15rem;
+  }
+}

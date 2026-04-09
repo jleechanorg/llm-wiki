@@ -1,0 +1,42 @@
+/* Default Theme - CSS Custom Properties */
+:root {
+  /* Backgrounds */
+  --primary-bg: #f8f9fa;
+  --secondary-bg: #ffffff;
+  --navbar-bg: #ffffff;
+  --story-bg: #f8f9fa;
+  --input-bg: #ffffff;
+  --hover-bg: #f8f9fa;
+  --overlay-bg: rgba(0, 0, 0, 0.5);
+
+  /* Text */
+  --text-primary: #212529;
+  --text-secondary: #6c757d;
+  --text-on-accent: #ffffff;
+
+  /* Accent */
+  --accent-color: #0d6efd;
+  --accent-color-alpha: rgba(13, 110, 253, 0.25);
+
+  /* Borders */
+  --border-color: #dee2e6;
+
+  /* Panel / character info (stats, equipment, spells) */
+  --panel-bg: #f4f5f6;
+  --panel-border: #d0d4da;
+  --panel-text: #1f2328;
+  --badge-bg: #e8eaed;
+  --badge-text: #202428;
+  --spell-badge-bg: #e6ebf7;
+  --spell-badge-border: #c7d2ec;
+  --spell-badge-text: #2f3b68;
+  --features-bg: #edf0f5;
+  --stats-section-bg: #f1f2f4;
+  --stats-section-border: #d4d7dc;
+
+  /* Buttons */
+  --btn-primary-bg: #0d6efd;
+  --btn-secondary-bg: #6c757d;
+  --btn-success-bg: #198754;
+  --btn-danger-bg: #dc3545;
+}

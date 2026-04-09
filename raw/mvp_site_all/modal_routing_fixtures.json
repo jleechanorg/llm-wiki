@@ -1,0 +1,79 @@
+{
+  "scenarios": [
+    {
+      "name": "level_up_pending_activates_modal",
+      "description": "level_up_pending=true with valid XP should route to level-up modal",
+      "user_input": "continue",
+      "state": {
+        "character_level": 2,
+        "character_xp": 900,
+        "custom_campaign_state": {
+          "level_up_pending": true,
+          "character_creation_completed": true
+        },
+        "rewards_pending": {}
+      },
+      "expect": {
+        "modal_active": true,
+        "modal_agent": "LevelUpAgent",
+        "routing_priority": "3_modal_level_up"
+      }
+    },
+    {
+      "name": "stale_pending_false_blocks_modal",
+      "description": "explicit level_up_pending=false should block stale reactivation",
+      "user_input": "continue",
+      "state": {
+        "character_level": 2,
+        "character_xp": 900,
+        "custom_campaign_state": {
+          "level_up_pending": false,
+          "character_creation_completed": true
+        },
+        "rewards_pending": {
+          "level_up_available": true
+        }
+      },
+      "expect": {
+        "modal_active": false
+      }
+    },
+    {
+      "name": "in_progress_overrides_pending_false",
+      "description": "level_up_in_progress=true must keep modal active even if pending=false",
+      "user_input": "continue",
+      "state": {
+        "character_level": 2,
+        "character_xp": 900,
+        "custom_campaign_state": {
+          "level_up_pending": false,
+          "level_up_in_progress": true,
+          "character_creation_completed": true
+        },
+        "rewards_pending": {}
+      },
+      "expect": {
+        "modal_active": true,
+        "modal_agent": "LevelUpAgent",
+        "routing_priority": "3_modal_level_up"
+      }
+    },
+    {
+      "name": "char_creation_lock_has_priority",
+      "description": "character creation in progress should route to character creation modal",
+      "user_input": "continue",
+      "state": {
+        "character_level": 1,
+        "character_xp": 0,
+        "custom_campaign_state": {
+          "character_creation_in_progress": true
+        },
+        "rewards_pending": {}
+      },
+      "expect": {
+        "modal_active": true,
+        "modal_agent": "CharacterCreationAgent"
+      }
+    }
+  ]
+}
