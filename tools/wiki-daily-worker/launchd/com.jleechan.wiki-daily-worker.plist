@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.jleechan.wiki-daily-worker</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/jleechan/.openclaw/scripts/wiki-daily-worker.sh</string>
+    </array>
+    <key>StartCalendarInterval</key>
+    <array>
+        <dict>
+            <key>Hour</key>
+            <integer>8</integer>
+            <key>Minute</key>
+            <integer>0</integer>
+        </dict>
+    </array>
+    <key>StandardOutPath</key>
+    <string>/Users/jleechan/Library/Logs/wiki-daily-worker.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/jleechan/Library/Logs/wiki-daily-worker.error.log</string>
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>
