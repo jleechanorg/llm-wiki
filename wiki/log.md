@@ -1,3 +1,49 @@
+## [2026-04-08] ingest | AI Coding
+
+Key claims: Project tracking document with comprehensive tasks, API credentials, and development workflows. Multiple AI models can be used in parallel based on token limits. Claude Commands can automate PR lifecycles. Cron jobs can run PR monitoring and automation.
+
+Entities created: JeffLeeChan, WorldAI, WorldArchitect, OpenClaw, Codex, Minimax, Claude
+
+Concepts created: PreservationOverEfficiency, ModelRouting
+
+## [2026-04-08] ingest | OpenClaw Workshop Notes
+
+Key claims: 8-stage evolution of AI coding from No AI to Self-Evolving. Harness Engineering is the new paradigm. AgentLoop uses Behavior Trees to reduce hallucinations by 80-90%. CMUX provides terminal for AI agents with socket-based IPC. Multi-agent review achieves 60-70% autonomous merge confidence.
+
+Entities created: TroyEdwards, AustinWang, AgentLoop, CMUX
+
+Concepts created: HarnessEngineering, BehaviorTrees, MinimalReproLadder, DualAgentArchitecture
+
+## [2026-04-08] ingest | Agent Loop Demo
+
+Key claims: Behavior trees provide deterministic execution vs pure LLM. Programmatic validation at each step. Monthly AI spend ~$300 (Anthropic $200, Cursor $60, Minimax $40). Minimax emerging as cost-effective for volume work despite quality gap.
+
+Entities created: AgentLoop, CMUX, Codex, Minimax, Claude
+
+Concepts created: ModelRouting, Parallelization
+
+## [2026-04-08] ingest | OpenAI Harness Ryan Notes
+
+Key claims: Harness Engineering codifies tribal knowledge into markdown files. Dual-agent architecture separates execution and evaluation. Context exhaustion solved; attention limits are new challenge. Side Quest paradigm for parallel improvements. 100% code coverage non-negotiable.
+
+Entities created: Codex, SnorkelAI
+
+Concepts created: ProofOfWork, ContextManagement, DualAgentArchitecture, HarnessEngineering
+
+## [2026-04-08] ingest | AI Leadership Kickoff
+
+Key claims: Collaboration between Larry Jacobson, Kartik Mathur, and Jeff on AI leadership thought leadership. Content strategy through casual Zoom conversations cut into LinkedIn clips. Virtual roundtables with tech executives.
+
+Entities created: LarryJacobson, KartikMathur, JeffLeeChan, SnorkelAI
+
+Concepts created: AILeadership, ThoughtLeadership
+
+## [2026-04-08] ingest | LLM Wiki Ideas
+
+Key claims: LLM Wiki as self-maintaining second brain. Applications for WorldAI campaign management, harness laboratory, velocity metrics, monetization strategy. Setup with raw/ folder and Claude Code ingest commands.
+
+Concepts created: LLMWiki, SecondBrain, KnowledgeCompounding
+
 ## [2026-04-08] ingest | WorldAI Tools MCP Proxy Runtime
 
 Key claims: Local diag/admin/ops tool splitting with upstream forwarding, deploy token security validation with age/skew limits, sensitive data redaction via regex, Firestore operation allowlisting.

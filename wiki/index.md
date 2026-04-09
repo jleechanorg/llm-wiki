@@ -6,6 +6,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [AI Coding](sources/ai-coding.md) — Project tracking document with tasks, API credentials, and workflows for WorldAI, WorldArchitect.AI, and OpenClaw integration
+- [OpenClaw Workshop Notes](sources/openclaw-workshop-notes.md) — Comprehensive analysis of advanced AI coding workflows, harness engineering, AgentLoop, and CMUX
+- [Agent Loop Demo](sources/agent-loop-demo.md) — Technical discussion on orchestration strategies, behavior trees, and model selection with AgentLoop team
+- [OpenAI Harness Ryan Notes](sources/openai-harness-ryan-notes.md) — OpenAI webinar on paradigm shift to agentic software engineering, dual-agent architectures, and harness engineering
+- [AI Leadership Kickoff](sources/ai-leadership-kickoff.md) — Collaboration framework between Larry Jacobson, Kartik Mathur, and Jeff on AI leadership thought leadership
+- [LLM Wiki Ideas](sources/llm-wiki-ideas.md) — Strategic applications for LLM wiki as self-maintaining second brain for WorldAI and harness engineering
 - [WorldAI Tools MCP Proxy Runtime](sources/worldai-tools-mcp-proxy-runtime.md) — MCP proxy service exposing local diag/admin/ops tools with upstream forwarding and deploy token security
 - [WorldAI MCP STDIO Adapter](sources/worldai-mcp-stdio-adapter.md) — stdio-based MCP server reading JSON-RPC from stdin, wrapping WorldAIToolsProxy
 - [World Time Module](sources/world-time-module.md) — multi-calendar month normalization and temporal comparison utilities for World of Assiah
@@ -809,6 +815,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 
+- [Austin Wang](entities/AustinWang.md) — Co-creator of [[CMUX]], native Swift/AppKit terminal for AI-agent workflows
 - [Shadow](entities/Shadow.md) — Lvl 3 Rogue player character with HP 22/28, XP 2500/6000, 75gp — referenced in think mode tests
 
 ## Concepts
