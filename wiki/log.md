@@ -2854,3 +2854,24 @@ Key claims: SDK client-side validation blocks additionalProperties needed for dy
 ## [2026-04-08] ingest | Structured Field Fixtures for UI Testing
 
 Key claims: JavaScript fixtures providing complete 10-field game_state JSON schema (session_header, resources, narrative, planning_block, dice_rolls, god_mode_response, entities_mentioned, location_confirmed, state_updates, debug_info) for character creation and in-game state UI testing.
+## [2026-04-09] ingest | WorldArchitect AO Nextsteps
+
+## [2026-04-09] ingest | Compaction Final Report
+
+## [2026-04-09] ingest | Compaction Hook Evidence
+
+## [2026-04-09] ingest | Claude Code Version Stability
+
+## [2026-04-09] ingest | MCP Trim Analysis
+
+## [2026-04-09] ingest | Context Compaction Research
+
+## [2026-04-09] ingest | Critical Fake Code Warning
+
+## [2026-04-09] ingest | Staging Pipeline
+
+## [2026-04-09] ingest | Secondo Campaign Analysis
+
+## [2026-04-09] ingest | LLM State Management Plan
+
+## [2026-04-09] ingest | Playwright MCP Primary

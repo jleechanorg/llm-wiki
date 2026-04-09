@@ -6,6 +6,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [WorldArchitect AO Nextsteps](sources/worldarchitect-ao-nextsteps-2026-04-06.md) — Next steps for Agent Orchestrator: zero-touch rate focus, AO lifecycle triaging, Skeptic alignment
+- [Compaction Final Report](sources/compaction-final-report-2026-04-06.md) — Final analysis of context compaction hook behavior, evidence of effectiveness
+- [Compaction Hook Evidence](sources/compaction-hook-evidence-2026-04-06.md) — Evidence bundle for compaction hook deployment and validation
+- [Claude Code Version Stability](sources/claude-code-version-stability-2026-04-05.md) — Analysis of Claude Code CLI version stability and auto-update behavior
+- [MCP Trim Analysis](sources/mcp-trim-analysis-2026-04-05.md) — Analysis of MCP server trimming behavior and context reduction strategies
+- [Context Compaction Research](sources/context-compaction-research-2026-04-05.md) — Research on context compaction patterns and token optimization
+- [Critical Fake Code Warning](sources/critical-fake-code-warning.md) — Security warning about fake code prevention in AI agent workflows
+- [Staging Pipeline](sources/staging-pipeline.md) — Staging deployment pipeline configuration and workflow
+- [Secondo Campaign Analysis](sources/secondo-campaign-analysis-iteration-005.md) — Analysis of Secondo campaign iteration 005 for pattern extraction
+- [LLM State Management Plan](sources/llm-state-management-plan.md) — Plan for managing LLM state across sessions and context windows
+- [Playwright MCP Primary](sources/playwright-mcp-primary.md) — Playwright MCP as mandatory primary browser automation method
 - [AI Coding](sources/ai-coding.md) — Project tracking document with tasks, API credentials, and workflows for WorldAI, WorldArchitect.AI, and OpenClaw integration
 - [OpenClaw Workshop Notes](sources/openclaw-workshop-notes.md) — Comprehensive analysis of advanced AI coding workflows, harness engineering, AgentLoop, and CMUX
 - [Agent Loop Demo](sources/agent-loop-demo.md) — Technical discussion on orchestration strategies, behavior trees, and model selection with AgentLoop team
@@ -815,11 +826,19 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Entities
 
+- [PR6110](entities/PR6110.md) — WorldArchitect evidence path PR for PR validation automation
+- [PR6115](entities/PR6115.md) — WorldArchitect evidence path PR for bundle validation
+- [PR335](entities/PR335.md) — AO skeptic installer PR for automated review integration
+- [StagingWorktree](entities/StagingWorktree.md) — OpenClaw staging pipeline worktree for deployment testing
+- [StagingBranch](entities/StagingBranch.md) — OpenClaw staging branch for canary deployments
 - [Austin Wang](entities/AustinWang.md) — Co-creator of [[CMUX]], native Swift/AppKit terminal for AI-agent workflows
 - [Shadow](entities/Shadow.md) — Lvl 3 Rogue player character with HP 22/28, XP 2500/6000, 75gp — referenced in think mode tests
 
 ## Concepts
 
+- [EvidenceEnforcement](concepts/EvidenceEnforcement.md) — CI-gated evidence path, gap between structure-check and real bundle validation
+- [HookBypass](concepts/HookBypass.md) — tmux/cmux/API bypass UserPromptSubmit hooks for agent workflows
+- [OracleCLI](concepts/OracleCLI.md) — Multi-model second-opinion workflow using Cerebras Qwen 3, Grok 4, Perplexity, GPT-5
 - [Think Mode](concepts/ThinkMode.md) — game mode for strategic planning without narrative advancement; advances time by only 1 microsecond
 
 - [XP (Experience Points)](concepts/XP.md) — D&D 5e currency for progression; awarded for combat, encounters, quests, and milestones; triggers level-up when thresholds are reached
