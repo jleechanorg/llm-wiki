@@ -186,3 +186,16 @@ grep "^## \[" wiki/log.md | tail -10
 ```
 
 Operations: `ingest`, `query`, `lint`, `graph`
+
+---
+
+## Insight Presentation Rule
+
+When presenting insights or recommendations from wiki content:
+
+1. **Verify novelty first** — Check if the concept already exists in:
+   - User's known repos (ai_universe, worldarchitect.ai, jleechanclaw)
+   - Existing slash commands (/4layer, /harness, etc.)
+   - Recent merged PRs in worldarchitect.ai
+2. **Flag uncertainty** — If unsure whether user already knows something, say "you may already have this"
+3. **Don't present as novel** — Ideas the user has already built are not insights
