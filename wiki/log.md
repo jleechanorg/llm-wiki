@@ -2875,3 +2875,7 @@ Key claims: JavaScript fixtures providing complete 10-field game_state JSON sche
 ## [2026-04-09] ingest | LLM State Management Plan
 
 ## [2026-04-09] ingest | Playwright MCP Primary
+## [2026-04-09] ingest | Jeffrey Oracle Wiki
+Built from 56K user messages + GitHub patterns + existing wiki entities.
+Created wiki/jeffrey/ with 7 pages + wiki/syntheses/jeffrey-oracle.md
+

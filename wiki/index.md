@@ -824,6 +824,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [File Validation Hook - Comprehensive Test Results](sources/file-validation-hook-comprehensive-test-results.md) — post-file creation validator hook tests: 6 violation tests + 3 approved placement tests, all passed
 - [Faction Test Status - iteration_020](sources/faction-test-status-iteration-020.md) — prompt updates for tool invocation: cached value warnings, reminder tokens, forbidden rules targeting 50%+ tool usage
 
+## Jeffrey Oracle
+
+Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages, 1900+ GitHub commits, and existing wiki pages.
+
+- [Jeffrey Oracle Index](jeffrey/index.md) — Overview of all Jeffrey entity pages
+- [JeffreyChan](jeffrey/JeffreyChan.md) — Full identity: SEM at Snap, ex-Staff Google, jleechanorg
+- [JeffreyWorkingStyle](jeffrey/JeffreyWorkingStyle.md) — CLI-first, automation-driven, evidence-based workflow
+- [JeffreyCommunicationStyle](jeffrey/JeffreyCommunicationStyle.md) — Terse, direct, imperative communication
+- [JeffreyGoals](jeffrey/JeffreyGoals.md) — Current priorities and decision framework
+- [JeffreyTechStack](jeffrey/JeffreyTechStack.md) — Primary tools: Claude Code, Minimax, beads, gh, mem0
+- [jleechanclaw](jeffrey/jleechanclaw.md) — Delegation workflow repo (TARGET_REPO after March 2026 postmortem)
+- [What would Jeffrey say?](syntheses/jeffrey-oracle.md) — **Oracle synthesis**: decision framework from actual patterns
+
 ## Entities
 
 - [PR6110](entities/PR6110.md) — WorldArchitect evidence path PR for PR validation automation
@@ -849,3 +862,5 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Qwen vs Sonnet Benchmark Index](sources/qwen-vs-sonnet-benchmark-index.md-800b5891.md) — 20-30x faster responses (559ms avg) with quality parity across 12 coding tasks
 
 ## Syntheses
+
+- [What would Jeffrey say?](syntheses/jeffrey-oracle.md) — Oracle synthesis from 56K user messages + GitHub patterns
