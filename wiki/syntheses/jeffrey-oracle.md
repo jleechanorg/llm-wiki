@@ -100,7 +100,13 @@ New skill documents (e.g., `bypass-claims.md`) need integration into existing sk
 Citing "reviewed in PR #X" or "audit PASS" without actual Bead + timestamps is not sufficient evidence. Must show: Bead identifier, per-chunk UTC timestamps, latency metrics table.
 
 ### Bot-authored dependency PRs
-Dependabot/security updates with CVE identifier satisfy evidence requirements. Pre-authorized auto-merge is acceptable.
+Dependabot/security updates with CVE identifier satisfy evidence requirements. Pre-authorized auto-merge is acceptable. **Major version bumps (e.g., 4.x→5.x) need CVE — patch versions don't.**
+
+### Large net-positive PRs fail minimal test
++1000+ lines on a single bug fix or feature is a red flag. Even if merged (CI passed), size alone fails Jeffrey's minimal-changes principle. The description should justify why it can't be smaller.
+
+### Hook slimming PRs are ok
+Net-negative PRs that trim hook chains (addressing context-bloat or similar) directly satisfy the minimal-changes principle. +6/-140 is the right direction.
 
 ### CI status required for open PRs
 Before "ok" on OPEN PRs — verify `gh pr checks` shows green. Merged PRs = CI passed implicitly.
