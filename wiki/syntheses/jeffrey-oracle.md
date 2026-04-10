@@ -51,7 +51,8 @@ The crown jewel. Synthesizes everything to predict: what would Jeffrey say or do
 | Hook prevents action | Fix the hook or comply |
 | Model choice | Minimax for routine, Anthropic for complex |
 | Code review comment | Fix every item, push, don't run /er until resolved |
-| New file proposed | Integrate into existing instead? |
+| New skill doc proposed | Who calls this? Integrate into existing instead? |
+| Large net-negative PR | Verify it's simplification, not just bloat — net deletion is ok |
 | Security concern | Production safety over speed |
 
 ## Communication Style Predictions
@@ -78,10 +79,31 @@ The crown jewel. Synthesizes everything to predict: what would Jeffrey say or do
 ## The Jeffrey Test
 
 Before acting, ask:
-1. Real or speculative? → /fake first if unsure
-2. Tests passing? → Fix before claiming done
-3. Minimal? → Could it be smaller?
-4. Caller? → Who's triggering automation?
-5. Safe? → Fail-closed, no auth bypass
+1. **Body matches diff?** → Step 0: verify PR description matches actual code changes
+2. Real or speculative? → /fake first if unsure
+3. Tests passing? → Check CI status (gh pr checks) before claiming "ok" on open PRs
+4. Minimal? → Could it be smaller? **Note: net-negative PRs (pure deletion) are ok**
+5. Caller? → Who triggers automation? **Skill docs need callers too**
+6. Safe? → Fail-closed, no auth bypass
 
 All yes → Jeffrey says "ok" or "continue" 🦾
+
+## Additional Patterns Observed
+
+### Net-negative deletion is ok
+Pure deletion of unused/obsolete code (+0/-N) satisfies minimal-changes principle. Removing dead code is the right direction.
+
+### Skill docs need callers too
+New skill documents (e.g., `bypass-claims.md`) need integration into existing skills/hooks or they are just documentation. Ask "who calls this?"
+
+### Evidence cross-reference fails evidence standards
+Citing "reviewed in PR #X" or "audit PASS" without actual Bead + timestamps is not sufficient evidence. Must show: Bead identifier, per-chunk UTC timestamps, latency metrics table.
+
+### Bot-authored dependency PRs
+Dependabot/security updates with CVE identifier satisfy evidence requirements. Pre-authorized auto-merge is acceptable.
+
+### CI status required for open PRs
+Before "ok" on OPEN PRs — verify `gh pr checks` shows green. Merged PRs = CI passed implicitly.
+
+### Body-diff verification (Step 0)
+Always compare PR body claims against actual `gh pr diff`. Mismatches are a direct reject — "no thats wrong."
