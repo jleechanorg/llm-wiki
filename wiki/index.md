@@ -829,16 +829,14 @@ This file is maintained by the LLM. Updated on every ingest.
 Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages, 1900+ GitHub commits, and existing wiki pages.
 
 - [Jeffrey Oracle Index](jeffrey/index.md) — Overview of all Jeffrey entity pages
-- [JeffreyChan](jeffrey/JeffreyChan.md) — Full identity: SEM at Snap, ex-Staff Google, jleechanorg
-- [JeffreyWorkingStyle](jeffrey/JeffreyWorkingStyle.md) — CLI-first, automation-driven, evidence-based workflow
-- [JeffreyCommunicationStyle](jeffrey/JeffreyCommunicationStyle.md) — Terse, direct, imperative communication
-- [JeffreyGoals](jeffrey/JeffreyGoals.md) — Current priorities and decision framework
-- [JeffreyTechStack](jeffrey/JeffreyTechStack.md) — Primary tools: Claude Code, Minimax, beads, gh, mem0
-- [jleechanclaw](jeffrey/jleechanclaw.md) — Delegation workflow repo (TARGET_REPO after March 2026 postmortem)
-- [What would Jeffrey say?](syntheses/jeffrey-oracle.md) — **Oracle synthesis**: decision framework from actual patterns
+- [[JeffreyChan]] — Full identity: SEM at Snap, ex-Staff Google, jleechanorg
+- [[jleechanclaw]] — Delegation workflow repo (TARGET_REPO after March 2026 postmortem)
+- [[What would Jeffrey say?]] — **Oracle synthesis**: decision framework from actual patterns
 
 ## Entities
 
+- [JeffreyChan](entities/JeffreyChan.md) — SEM at Snap, ex-Staff SWE at Google, jleechanorg owner
+- [jleechanclaw](entities/jleechanclaw.md) — Primary delegation workflow repo (TARGET_REPO after March 2026 postmortem)
 - [PR6110](entities/PR6110.md) — WorldArchitect evidence path PR for PR validation automation
 - [PR6115](entities/PR6115.md) — WorldArchitect evidence path PR for bundle validation
 - [PR335](entities/PR335.md) — AO skeptic installer PR for automated review integration
@@ -849,6 +847,10 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 
 ## Concepts
 
+- [JeffreyWorkingStyle](concepts/JeffreyWorkingStyle.md) — CLI-first, automation-driven, evidence-based workflow
+- [JeffreyCommunicationStyle](concepts/JeffreyCommunicationStyle.md) — Terse, direct, imperative communication
+- [JeffreyGoals](concepts/JeffreyGoals.md) — Current priorities: PR flow, automation, LLM-first architecture
+- [JeffreyTechStack](concepts/JeffreyTechStack.md) — Primary tools: Claude Code, Minimax, beads, gh, mem0
 - [EvidenceEnforcement](concepts/EvidenceEnforcement.md) — CI-gated evidence path, gap between structure-check and real bundle validation
 - [HookBypass](concepts/HookBypass.md) — tmux/cmux/API bypass UserPromptSubmit hooks for agent workflows
 - [OracleCLI](concepts/OracleCLI.md) — Multi-model second-opinion workflow using Cerebras Qwen 3, Grok 4, Perplexity, GPT-5

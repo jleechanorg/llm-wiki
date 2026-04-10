@@ -2,6 +2,12 @@
 *.md
 !README.md
 !CLAUDE.md
+!wiki/*.md
+!wiki/jeffrey/*.md
+!wiki/entities/*.md
+!wiki/concepts/*.md
+!wiki/syntheses/*.md
+!wiki/sources/*.md
 !*.py
 
 # Ignore OS files

@@ -1,3 +1,7 @@
+## [2026-04-10] restructure | Karpathy compliance — relocate Jeffrey Oracle pages
+
+Moved Jeffrey pages from wiki/jeffrey/ subdir to proper Karpathy locations: entities/, concepts/. Entities: JeffreyChan, jleechanclaw. Concepts: JeffreyWorkingStyle, JeffreyCommunicationStyle, JeffreyGoals, JeffreyTechStack. Updated index.md and .gitignore (!wiki/*.md). The synthesis jeffrey-oracle.md was already at wiki/syntheses/jeffrey-oracle.md. Updated jeffrey/index.md as hub.
+
 ## [2026-04-08] ingest | AI Coding
 
 Key claims: Project tracking document with comprehensive tasks, API credentials, and development workflows. Multiple AI models can be used in parallel based on token limits. Claude Commands can automate PR lifecycles. Cron jobs can run PR monitoring and automation.
