@@ -1,0 +1,1 @@
+Created with full YAML frontmatter covering upload zone, crop overlay, thumbnail display, and expanded card patterns

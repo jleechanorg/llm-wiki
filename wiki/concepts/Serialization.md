@@ -1,0 +1,1 @@
+created new - defines to_dict/from_dict serialization behavior, internal attribute exclusion

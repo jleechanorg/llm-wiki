@@ -1,0 +1,1 @@
+new page defining the mechanical agent pattern with RewardsAgent example
