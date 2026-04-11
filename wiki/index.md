@@ -6,6 +6,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [WorldArchitect.AI CLAUDE.md](sources/worldarchitect-claude.md) — Primary operating protocol for AI-agent collaboration on WorldArchitect.AI
+- [WorldArchitect.AI AGENTS.md](sources/worldarchitect-agents.md) — Compact core contract for agents: file protocol, JSON schemas, beads tracking, tmux orchestration
+- [WorldArchitect.AI + Agent Orchestrator Next Steps](sources/worldarchitect-ao-nextsteps.md) — Handoff report: evidence enforcement status, cross-repo priorities, open beads (rev-*/bd-*)
+- [WorldArchitect.AI PRs 5500+](sources/worldarchitect-prs-5500plus.md) — 18 open PRs (#5500-6183): temporal fixes, deployment hardening, state management, evidence gates, Claude Code tooling
+- [WorldArchitect.AI Cross-Org PR Automation](sources/worldarchitect-automation.md) — Cross-organization PR automation: worktree isolation, multi-CLI agents, safety limits, 3 workflows
+- [Claude Code Auto-Compaction Research](sources/worldarchitect-compaction.md) — Root cause analysis: 150K threshold, PreCompact hook (2% coverage), fixes applied, v2.1.92 upgrade
+- [Claude Code Version Stability Report](sources/worldarchitect-claude-code-version.md) — v2.1.77–v2.1.92 stability ratings; recommend v2.1.85; avoid v2.1.86/87/90
+- [MCP Server Context Optimization](sources/worldarchitect-mcp-optimization.md) — ios-simulator-mcp trim saves ~240 tokens/turn; 7 servers KEEP, 8 not connected
+- [Overnight PR Merge Loop](sources/worldarchitect-pr-automation-overnight.md) — 15-min cron loop, 6-point green criteria, /claw dispatch, escalation after 3 failed iterations
 - [WorldArchitect AO Nextsteps](sources/worldarchitect-ao-nextsteps-2026-04-06.md) — Next steps for Agent Orchestrator: zero-touch rate focus, AO lifecycle triaging, Skeptic alignment
 - [Compaction Final Report](sources/compaction-final-report-2026-04-06.md) — Final analysis of context compaction hook behavior, evidence of effectiveness
 - [Compaction Hook Evidence](sources/compaction-hook-evidence-2026-04-06.md) — Evidence bundle for compaction hook deployment and validation
@@ -855,6 +864,11 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [HookBypass](concepts/HookBypass.md) — tmux/cmux/API bypass UserPromptSubmit hooks for agent workflows
 - [OracleCLI](concepts/OracleCLI.md) — Multi-model second-opinion workflow using Cerebras Qwen 3, Grok 4, Perplexity, GPT-5
 - [Think Mode](concepts/ThinkMode.md) — game mode for strategic planning without narrative advancement; advances time by only 1 microsecond
+- [Body-Diff Verification (Step 0)](concepts/Body-Diff-Verification.md) — PR body must match actual diff; mismatch = immediate rejection
+- [Net-Negative Deletion Is Ok](concepts/Net-Negative-Deletion-Is-Ok.md) — pure deletion of unused/obsolete code satisfies minimal-changes principle
+- [CHANGES_REQUESTED Blocks Ok Unconditionally](concepts/CHANGES_REQUESTED-Blocks-Ok.md) — review change requests block approval until resolved and re-reviewed
+- [Automation Scripts Need Callers](concepts/Automation-Scripts-Need-Callers.md) — new scripts require visible trigger in diff; orphaned scripts are rejected
+- [Preview Model Risk](concepts/Preview-Model-Risk.md) — adding preview models to security-critical configs requires explicit medium-risk acknowledgment
 
 - [XP (Experience Points)](concepts/XP.md) — D&D 5e currency for progression; awarded for combat, encounters, quests, and milestones; triggers level-up when thresholds are reached
 - [Research Test Report: Default /review Command in Claude Code CLI](sources/worldarchitect.ai-docs-research_review_command_test_report.md-895e5636.md) — confirms `/review` is a built-in slash command in Claude Code CLI
@@ -866,3 +880,6 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 ## Syntheses
 
 - [What would Jeffrey say?](syntheses/jeffrey-oracle.md) — Oracle synthesis from 56K user messages + GitHub patterns
+- [jeffrey-oracle-architecture](syntheses/jeffrey-oracle-architecture.md) — Architecture decisions: services, APIs, data models, layer boundaries
+- [jeffrey-oracle-cost](syntheses/jeffrey-oracle-cost.md) — Cost optimization: model selection, token budgets, minimax vs Anthropic
+- [jeffrey-oracle-agent](syntheses/jeffrey-oracle-agent.md) — Agent orchestration: spawning, parallel vs sequential, team coordination
