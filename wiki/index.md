@@ -869,6 +869,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [CHANGES_REQUESTED Blocks Ok Unconditionally](concepts/CHANGES_REQUESTED-Blocks-Ok.md) — review change requests block approval until resolved and re-reviewed
 - [Automation Scripts Need Callers](concepts/Automation-Scripts-Need-Callers.md) — new scripts require visible trigger in diff; orphaned scripts are rejected
 - [Preview Model Risk](concepts/Preview-Model-Risk.md) — adding preview models to security-critical configs requires explicit medium-risk acknowledgment
+- [Structure Drift Pattern](concepts/StructureDriftPattern.md) — agent accidentally nests new fields inside existing conditionals; PR #5782 checkpoint placed debug_info inside rewards_box block
 
 - [XP (Experience Points)](concepts/XP.md) — D&D 5e currency for progression; awarded for combat, encounters, quests, and milestones; triggers level-up when thresholds are reached
 - [Research Test Report: Default /review Command in Claude Code CLI](sources/worldarchitect.ai-docs-research_review_command_test_report.md-895e5636.md) — confirms `/review` is a built-in slash command in Claude Code CLI

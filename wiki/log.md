@@ -23,6 +23,8 @@ Entities created: JeffLeeChan, WorldAI, WorldArchitect, OpenClaw, Codex, Minimax
 
 Concepts created: PreservationOverEfficiency, ModelRouting
 
+## [2026-04-11] ingest | Structure Drift Pattern | Agent accidentally nests new fields inside existing conditionals; PR #5782 checkpoint placed debug_info inside rewards_box block
+
 ## [2026-04-08] ingest | OpenClaw Workshop Notes
 
 Key claims: 8-stage evolution of AI coding from No AI to Self-Evolving. Harness Engineering is the new paradigm. AgentLoop uses Behavior Trees to reduce hallucinations by 80-90%. CMUX provides terminal for AI agents with socket-based IPC. Multi-agent review achieves 60-70% autonomous merge confidence.
