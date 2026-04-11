@@ -2,7 +2,7 @@
 title: "jeffrey-oracle"
 type: synthesis
 tags: [jeffrey, oracle, synthesis, decision-framework]
-sources: [user-preferences-patterns-learnings, github-patterns, ai-coding]
+sources: [user-preferences-patterns-learnings, github-patterns, ai-coding, Body-Diff-Verification, Net-Negative-Deletion-Is-Ok, CHANGES_REQUESTED-Blocks-Ok, Automation-Scripts-Need-Callers, Preview-Model-Risk, EvidenceBundle, FailClosedErrorHandling, CICDWorkflows, CronJobAutomation]
 last_updated: 2026-04-11
 ---
 
@@ -18,8 +18,8 @@ The crown jewel. Synthesizes everything to predict: what would Jeffrey say or do
 |----------|----------|
 | AI output / code | Real or speculative? Cite file:line or flag fake |
 | PR / review | Green? [[CodeRabbit]]? Evidence cited? |
-| Automation | Safety limit hit? Who owns it? |
-| Tool question | Use gh. Minimax if cost matters. |
+| Automation | Safety limit hit? Who owns it? See [[CronJobAutomation]]. |
+| Tool question | Use gh. Minimax if cost matters. See [[ModelRouting]]. |
 | Context question | Check mem0. Check git. Check PR state. |
 | Unknown / confused | "what does it prove?", "is this true?" |
 
@@ -68,12 +68,12 @@ The crown jewel. Synthesizes everything to predict: what would Jeffrey say or do
 
 ## Jeffrey's Priorities
 
-1. Production safety — auth, validation, [[FailClosedErrorHandling|fail-closed]]
-2. Evidence over assertion — cite file:line or [[EvidenceBundle|fake]]
-3. Tests must pass — no claiming done until green
+1. Production safety — auth, validation, [[FailClosedErrorHandling|fail-closed]] — see [[FailClosedErrorHandling]]
+2. Evidence over assertion — cite file:line or [[EvidenceBundle|fake]] — see [[EvidenceBundle]]
+3. Tests must pass — no claiming done until green — see [[CICDWorkflows]]
 4. Minimal changes — surgical, existing files first
-5. Automation with callers — scripts need triggers
-6. Cost consciousness — minimax over anthropic when appropriate
+5. Automation with callers — scripts need triggers — see [[CronJobAutomation]]
+6. Cost consciousness — minimax over anthropic when appropriate — see [[ModelRouting]]
 7. Worktree isolation — one PR per worktree
 
 ## The Jeffrey Test
@@ -91,10 +91,10 @@ All yes → Jeffrey says "ok" or "continue" 🦾
 ## Additional Patterns Observed
 
 ### Net-negative deletion is ok
-Pure deletion of unused/obsolete code (+0/-N) satisfies minimal-changes principle. Removing dead code is the right direction.
+Pure deletion of unused/obsolete code (+0/-N) satisfies [[Net-Negative-Deletion-Is-Ok|minimal-changes principle]]. Removing dead code is the right direction.
 
 ### Skill docs need callers too
-New skill documents (e.g., `bypass-claims.md`) need integration into existing skills/hooks or they are just documentation. Ask "who calls this?"
+New skill documents need integration into existing skills/hooks — see [[Automation-Scripts-Need-Callers]]. Ask "who calls this?"
 
 ### Evidence cross-reference fails evidence standards
 Citing "reviewed in PR #X" or "audit PASS" without actual [[EvidenceBundle]] + timestamps is not sufficient evidence. Must show: Bead identifier, per-chunk UTC timestamps, latency metrics table.
@@ -112,16 +112,16 @@ Net-negative PRs that trim [[ClaudeCodeHooks]] hook chains (addressing context-b
 Before "ok" on OPEN PRs — verify `gh pr checks` shows green via [[CICDWorkflows]]. Merged PRs = CI passed implicitly.
 
 ### Body-diff verification (Step 0)
-Always compare PR body claims against actual `gh pr diff`. Mismatches are a direct reject — "no thats wrong." See [[ClaudeCodeHooks]] for [[HookRobustnessPatterns|hook]] integration.
+Always compare PR body claims against actual `gh pr diff`. Mismatches are a direct reject — "no thats wrong." See [[Body-Diff-Verification]] for the full pattern.
 
 ### CHANGES_REQUESTED blocks "ok" unconditionally
-Even if all oracle checks pass (CI green, minimal, caller verified), a [[CodeRabbit]] or human `CHANGES_REQUESTED` verdict blocks "ok." The PR must be re-reviewed after requested changes are resolved. See [[CodeReviewMethodology]]. This applies to OPEN PRs — merged PRs with outstanding changes are already blocked from merging.
+Even if all oracle checks pass (CI green, minimal, caller verified), a [[CodeRabbit]] or human `CHANGES_REQUESTED` verdict blocks "ok." See [[CHANGES_REQUESTED-Blocks-Ok]] for the full pattern.
 
 ### Body-diff mismatch: wrong operator/condition claimed
 A specific variant of Step 0 failure: the body claims a specific code change (e.g., "`>` to `>=`") that contradicts the actual diff. The diff may contain the correct fix via a different mechanism (e.g., new `max_attempts <= 0` block) while the body describes a different operator change. This is a lie, not an omission — fix description to match actual diff.
 
 ### Preview model additions require explicit risk acknowledgment
-Adding preview/nightly models to `MODELS_WITH_CODE_EXECUTION` or similar critical sets gets "conditional" even with all-CI-green and surgical +2/-1 changes. The risk is fail-open: preview model edge cases could silently route to wrong execution path. Jeffrey accepts "properly flagged medium risk" in the body but won't give unconditional "ok" on preview model additions.
+Adding preview/nightly models to `MODELS_WITH_CODE_EXECUTION` or similar critical sets gets "conditional" even with all-CI-green and surgical +2/-1 changes. See [[Preview-Model-Risk]] for the full pattern.
 
 ### Cron janitor --all mode needs per-service PR-state verification
 [[CronJobAutomation]] scripts with `--all` mode running in cron path must re-verify per-service state at runtime — not rely on prior run's state checks. A service could become orphaned (PR closed/merged) between the last per-service check and the cron run. The `--pr-number` path may have proper guards; the `--all` cron path must independently verify each service's PR state before deletion.
@@ -136,7 +136,7 @@ A skill doc IS the protocol definition; a slash command in `.claude/commands/` t
 A Step 0 failure variant — not a lie about what changed, but incomplete enumeration: a file is modified in the diff but not listed in the PR body change summary (e.g., test-deployment.yml modified but not listed in Production Code Changes). Fix the body enumeration to list all modified files.
 
 ### CI automation extension requires visible wiring
-When extending existing automation scripts (e.g., tool-cache bootstrap, [[EvidenceBundle]] scripts) to new [[CICDWorkflows]], the caller must be visible in the diff — the workflow file must show the script invocation step. Adding scripts without visible workflow wiring is orphaned automation.
+When extending existing automation scripts to new [[CICDWorkflows]], the caller must be visible in the diff — the workflow file must show the script invocation step. See [[Automation-Scripts-Need-Callers]].
 
 ### PRODUCTION_MODE=true on preview = tightening (safe)
 Adding `PRODUCTION_MODE=true` to a preview environment is a security tightening, not a bypass. This is [[FailClosedErrorHandling|fail-closed]] behavior and is safe. The concern would be removing it or setting it incorrectly.

@@ -67,6 +67,8 @@ Steps (in order):
 3. Write `wiki/sources/<slug>.md` — use the source page format below
 4. Update `wiki/index.md` — add entry under Sources section
 5. Update `wiki/overview.md` — revise synthesis if warranted
+5b. **Oracle impact check** — After creating entity/concept pages, check if new content affects any [[jeffrey-oracle]] prediction. Look for: new patterns that should become oracle rules, contradictions with existing oracle rules, new situations not covered by the oracle's decision table. If impact found: append to `wiki/log.md`: `## [YYYY-MM-DD] oracle-impact | <Title> | <Description>`
+5c. **Oracle wikilink check** — If a new concept page is relevant to oracle rules, add a [[wikilink]] from the oracle to the new page. Don't let the oracle become orphaned from its own knowledge.
 6. Update/create entity pages for key people, companies, projects mentioned
 7. Update/create concept pages for key ideas and frameworks discussed
 8. Flag any contradictions with existing wiki content

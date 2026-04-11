@@ -66,3 +66,6 @@ Based on 27,923 user messages and git history from worldarchitect.ai (Jan–Apr 
 - ~526 fix: commits (dominant)
 - Agent authorship tracking: [agento], [copilot], [antig]
 - Detailed commit bodies: explain why, not just what
+
+## See Also
+- [[jeffrey-oracle]] — the decision framework synthesis that operationalizes this working style into PR review predictions
