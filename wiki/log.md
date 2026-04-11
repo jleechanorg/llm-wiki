@@ -1,3 +1,7 @@
+## [2026-04-11] ingest | The Five Harness Layers + PR #6204 structure drift fix
+
+Ingested Harness5LayerModel concept (5-layer harness framework: Constraint/L1, Context/L2, Execution/L3, Verification/L4, Lifecycle/L5) and updated StructureDriftPattern to tag as harness-L1 failure. PR #6204 (worldarchitect.ai) hoists 5 fields out of rewards_box block.
+
 ## [2026-04-10] ingest | WorldArchitect.AI sources (9 sources)
 
 Ingested 9 sources about Jeffrey's development workflow, Claude Code, and automation systems:
@@ -24,6 +28,16 @@ Entities created: JeffLeeChan, WorldAI, WorldArchitect, OpenClaw, Codex, Minimax
 Concepts created: PreservationOverEfficiency, ModelRouting
 
 ## [2026-04-11] ingest | Structure Drift Pattern | Agent accidentally nests new fields inside existing conditionals; PR #5782 checkpoint placed debug_info inside rewards_box block
+
+## [2026-04-11] ingest | PR batch 7 — level-up + structure drift fixes | 7 PRs ingested
+
+- pr-6195-rewards-sentinel.md: restore has_visible_content gate with progress_percent support
+- pr-6196-dragon-knight-rewards-box.md: restore missing FIELD_REWARDS_BOX in template extraction
+- pr-6197-debug-info-emitted.md: emit debug_info on all turns (MERGED)
+- pr-6192-rewards-box-xp-zero.md: show rewards_box when xp_gained=0 (regression tests)
+- pr-6165-launch-cta-level-up.md: keep final launch CTA visible, harden level-up atomicity
+- pr-6200-system-message-debug.md: render debug_info.system_message in debug mode
+- pr-6204-structure-drift-hoist.md: hoist 5 fields out of rewards_box block (companion to #6197)
 
 ## [2026-04-08] ingest | OpenClaw Workshop Notes
 

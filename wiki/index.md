@@ -10,6 +10,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [WorldArchitect.AI AGENTS.md](sources/worldarchitect-agents.md) — Compact core contract for agents: file protocol, JSON schemas, beads tracking, tmux orchestration
 - [WorldArchitect.AI + Agent Orchestrator Next Steps](sources/worldarchitect-ao-nextsteps.md) — Handoff report: evidence enforcement status, cross-repo priorities, open beads (rev-*/bd-*)
 - [WorldArchitect.AI PRs 5500+](sources/worldarchitect-prs-5500plus.md) — 18 open PRs (#5500-6183): temporal fixes, deployment hardening, state management, evidence gates, Claude Code tooling
+- [PR #6195: Rewards Sentinel](sources/pr-6195-rewards-sentinel.md) — restore has_visible_content gate with progress_percent support
+- [PR #6196: Dragon Knight Rewards Box](sources/pr-6196-dragon-knight-rewards-box.md) — restore missing FIELD_REWARDS_BOX in template extraction
+- [PR #6197: Debug Info Emitted](sources/pr-6197-debug-info-emitted.md) — emit debug_info on all turns, not just when rewards_box present
+- [PR #6192: Rewards Box XP Zero](sources/pr-6192-rewards-box-xp-zero.md) — show rewards_box when xp_gained=0 (regression tests only)
+- [PR #6165: Launch CTA + Level-Up](sources/pr-6165-launch-cta-level-up.md) — keep final launch CTA visible, harden level-up atomicity
+- [PR #6200: System Message Debug](sources/pr-6200-system-message-debug.md) — render debug_info.system_message in debug mode
+- [PR #6204: Hoist 5 Fields](sources/pr-6204-structure-drift-hoist.md) — hoist 5 fields out of rewards_box block
 - [WorldArchitect.AI Cross-Org PR Automation](sources/worldarchitect-automation.md) — Cross-organization PR automation: worktree isolation, multi-CLI agents, safety limits, 3 workflows
 - [Claude Code Auto-Compaction Research](sources/worldarchitect-compaction.md) — Root cause analysis: 150K threshold, PreCompact hook (2% coverage), fixes applied, v2.1.92 upgrade
 - [Claude Code Version Stability Report](sources/worldarchitect-claude-code-version.md) — v2.1.77–v2.1.92 stability ratings; recommend v2.1.85; avoid v2.1.86/87/90
@@ -870,6 +877,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Automation Scripts Need Callers](concepts/Automation-Scripts-Need-Callers.md) — new scripts require visible trigger in diff; orphaned scripts are rejected
 - [Preview Model Risk](concepts/Preview-Model-Risk.md) — adding preview models to security-critical configs requires explicit medium-risk acknowledgment
 - [Structure Drift Pattern](concepts/StructureDriftPattern.md) — agent accidentally nests new fields inside existing conditionals; PR #5782 checkpoint placed debug_info inside rewards_box block
+- [The Five Harness Layers](concepts/Harness5LayerModel.md) — 5-layer model for agent harness: Constraint (L1), Context (L2), Execution (L3), Verification (L4), Lifecycle (L5); framework for build vs. buy decisions
 
 - [XP (Experience Points)](concepts/XP.md) — D&D 5e currency for progression; awarded for combat, encounters, quests, and milestones; triggers level-up when thresholds are reached
 - [Research Test Report: Default /review Command in Claude Code CLI](sources/worldarchitect.ai-docs-research_review_command_test_report.md-895e5636.md) — confirms `/review` is a built-in slash command in Claude Code CLI
