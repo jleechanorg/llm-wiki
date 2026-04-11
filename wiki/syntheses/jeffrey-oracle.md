@@ -3,7 +3,7 @@ title: "jeffrey-oracle"
 type: synthesis
 tags: [jeffrey, oracle, synthesis, decision-framework]
 sources: [user-preferences-patterns-learnings, github-patterns, ai-coding]
-last_updated: 2026-04-09
+last_updated: 2026-04-10
 ---
 
 # The Jeffrey Oracle: What Would Jeffrey Say?
@@ -113,3 +113,15 @@ Before "ok" on OPEN PRs — verify `gh pr checks` shows green. Merged PRs = CI p
 
 ### Body-diff verification (Step 0)
 Always compare PR body claims against actual `gh pr diff`. Mismatches are a direct reject — "no thats wrong."
+
+### CHANGES_REQUESTED blocks "ok" unconditionally
+Even if all oracle checks pass (CI green, minimal, caller verified), a CodeRabbit or human `CHANGES_REQUESTED` verdict blocks "ok." The PR must be re-reviewed after requested changes are resolved. This applies to OPEN PRs — merged PRs with outstanding changes are already blocked from merging.
+
+### Body-diff mismatch: wrong operator/condition claimed
+A specific variant of Step 0 failure: the body claims a specific code change (e.g., "`>` to `>=`") that contradicts the actual diff. The diff may contain the correct fix via a different mechanism (e.g., new `max_attempts <= 0` block) while the body describes a different operator change. This is a lie, not an omission — fix description to match actual diff.
+
+### Preview model additions require explicit risk acknowledgment
+Adding preview/nightly models to `MODELS_WITH_CODE_EXECUTION` or similar critical sets gets "conditional" even with all-CI-green and surgical +2/-1 changes. The risk is fail-open: preview model edge cases could silently route to wrong execution path. Jeffrey accepts "properly flagged medium risk" in the body but won't give unconditional "ok" on preview model additions.
+
+### Cron janitor --all mode needs per-service PR-state verification
+Automation scripts with `--all` mode running in cron path must re-verify per-service state at runtime — not rely on prior run's state checks. A service could become orphaned (PR closed/merged) between the last per-service check and the cron run. The `--pr-number` path may have proper guards; the `--all` cron path must independently verify each service's PR state before deletion.
