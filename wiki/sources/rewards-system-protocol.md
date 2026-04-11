@@ -1,0 +1,1 @@
+✅ Created at sources/rewards-system-protocol.md

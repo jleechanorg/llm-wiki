@@ -1,0 +1,1 @@
+Created at sources/implementation-vs-orchestration-decision-framework.md with YAML frontmatter + full content

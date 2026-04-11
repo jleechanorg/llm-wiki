@@ -1,0 +1,1 @@
+full markdown for sources/<slug>.md with YAML frontmatter + summary + key claims

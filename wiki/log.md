@@ -1,3 +1,16 @@
+## [2026-04-10] ingest | WorldArchitect.AI sources (9 sources)
+
+Ingested 9 sources about Jeffrey's development workflow, Claude Code, and automation systems:
+- worldarchitect-claude.md: Primary operating protocol (greeting, autonomy, TDD, evidence paths)
+- worldarchitect-agents.md: Compact core contract (file protocol, JSON schemas, beads, tmux orchestration)
+- worldarchitect-prs-5500plus.md: 18 open PRs (temporal fixes, deployment, state management, evidence gates)
+- worldarchitect-automation.md: Cross-org PR automation (worktree isolation, multi-CLI agents, safety limits)
+- worldarchitect-ao-nextsteps.md: Handoff report (evidence enforcement, rev-*/bd-* beads, cross-repo priorities)
+- worldarchitect-compaction.md: Compaction research (150K threshold, PreCompact hook 2%, v2.1.92 upgrade)
+- worldarchitect-claude-code-version.md: Version stability v2.1.77-92 (recommend v2.1.85, avoid 86/87/90)
+- worldarchitect-mcp-optimization.md: MCP trim (ios-simulator-mcp saves ~240 tokens/turn)
+- worldarchitect-pr-automation-overnight.md: Overnight merge loop (6-point green, /claw dispatch, escalation)
+
 ## [2026-04-10] restructure | Karpathy compliance — relocate Jeffrey Oracle pages
 
 Moved Jeffrey pages from wiki/jeffrey/ subdir to proper Karpathy locations: entities/, concepts/. Entities: JeffreyChan, jleechanclaw. Concepts: JeffreyWorkingStyle, JeffreyCommunicationStyle, JeffreyGoals, JeffreyTechStack. Updated index.md and .gitignore (!wiki/*.md). The synthesis jeffrey-oracle.md was already at wiki/syntheses/jeffrey-oracle.md. Updated jeffrey/index.md as hub.

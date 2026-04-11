@@ -1,0 +1,1 @@
+Created at sources/avatar-components-campaign-creation-upload-in-game-display.md with full YAML frontmatter and Source Page Format
