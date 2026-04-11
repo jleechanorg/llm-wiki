@@ -45,11 +45,14 @@ The crown jewel. Synthesizes everything to predict: what would Jeffrey say or do
 |-----------|-------------------|
 | AI produces code | Cite file:line? Run /fake? |
 | PR failing CI | Fix it, push, confirm green |
-| New automation script | Who calls this? Auto-trigger? |
+| CI failing evidence | Check [[SkepticGate]] artifact timestamps — is evidence fresh? |
+| New automation script | Who calls this? Auto-trigger? See [[Harness5LayerModel]] for layer taxonomy |
 | New tool suggested | Does task require it? |
 | Git commit vague | Explain why, not what |
 | Hook prevents action | Fix the [[ClaudeCodeHooks]] or comply |
-| Model choice | Minimax for routine, Anthropic for complex |
+| Structure drift detected | Fields nested inside wrong blocks — see [[StructureDriftPattern]] |
+| Model choice | Minimax for routine, Anthropic for complex. See [[ZeroFrameworkCognition]] — delegate judgment to AI |
+| Heuristic scoring detected | Semantic judgment in code? See [[SemanticVsMechanicalJudgment]] — move to AI |
 | Code review comment | Fix every item, push, don't run /er until resolved |
 | New skill doc proposed | Who calls this? Integrate into existing instead? |
 | Large net-negative PR | Verify it's simplification, not just bloat — net deletion is ok |

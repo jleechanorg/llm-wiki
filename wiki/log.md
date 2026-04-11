@@ -1,3 +1,11 @@
+## [2026-04-11] ingest | Level-up bug chain wiki pages
+
+Created 4 wiki pages for level-up bug debugging: LevelUpBug (concept — 8+ PR chain overview), RewardsBoxAtomicity (concept — 6 atomicity bugs), DiceRollDebugRegression (concept — dice/debug regression investigation), RewardsBoxBuilder (entity — builder.py with sentinel contract). Updated index.md with new entries.
+
+## [2026-04-11] ingest | Beads database survey — 12 failure patterns from 12+ repos
+
+Surveyed beads databases across worldarchitect.ai, ~/.beads, openclaw, mcp_mail, and 8 other repos. Found 300+ issues. Ingested 12 prioritized failure patterns as wiki concepts: CircuitBreakerAgentSelection, CodeExecutionFalsePositiveFabrication, BudgetWarningAPISurface, PromptComplianceDrift, StaleProcessGroupTargeting, HookMatcherToolAgnostic, PostMergeDuplicatePRLoop, CompactedStateReversion, PairVerifierCodexPreflight, EntityTrackingValidationFailure, WorkspacePreservationAcrossRetries, ContextBloatFromMetadataHooks. Source: beads-database-survey-2026-04-11.
+
 ## [2026-04-11] ingest | The Five Harness Layers + PR #6204 structure drift fix
 
 Ingested Harness5LayerModel concept (5-layer harness framework: Constraint/L1, Context/L2, Execution/L3, Verification/L4, Lifecycle/L5) and updated StructureDriftPattern to tag as harness-L1 failure. PR #6204 (worldarchitect.ai) hoists 5 fields out of rewards_box block.
@@ -2912,3 +2920,11 @@ Key claims: JavaScript fixtures providing complete 10-field game_state JSON sche
 Built from 56K user messages + GitHub patterns + existing wiki entities.
 Created wiki/jeffrey/ with 7 pages + wiki/syntheses/jeffrey-oracle.md
 
+## [2026-04-11] ingest | 200 merged PRs | PR sources from worldarchitect.ai and worldai_claw
+## [2026-04-11] ingest | SkepticGate + SemanticVsMechanicalJudgment | BFS from ZFC and evidence enforcement
+## [2026-04-11] ingest | visenya-v6-campaign | Downloaded and ingested Visenya V6 campaign (303 entries, 4,236 lines) as source + 4 entities + 1 concept
+## 2026-04-11 ingest | PRs from 3 ai_universe repos | jleechanorg/ai_universe_convo_mcp (70), jleechanorg/ai_universe_living_blog (51), jleechanorg/mcp_agent_mail (14) — 135 PRs total
+## [2026-04-11] ingest | PR #6213: MCP Stdio Entry Point
+## [2026-04-11] ingest | PR #6214: Remove Rewards Followup LLM Call
+## [2026-04-11] ingest | PR #6161 Bug Hunt Report
+## [2026-04-11] ingest | fix(green-gate): use --paginate for Gate 3 CR review check

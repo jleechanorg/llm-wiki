@@ -6,6 +6,181 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Claude Sessions 2026-04-11](sources/claude-sessions-2026-04-11.md) — 613 sessions on 2026-04-11
+
+- [Claude Sessions 2026-04-10](sources/claude-sessions-2026-04-10.md) — 395 sessions on 2026-04-10
+
+- [Claude Sessions 2026-04-09](sources/claude-sessions-2026-04-09.md) — 1949 sessions on 2026-04-09
+
+- [Claude Sessions 2026-04-08](sources/claude-sessions-2026-04-08.md) — 952 sessions on 2026-04-08
+
+- [Claude Sessions 2026-04-07](sources/claude-sessions-2026-04-07.md) — 2423 sessions on 2026-04-07
+
+- [Claude Sessions 2026-04-06](sources/claude-sessions-2026-04-06.md) — 2065 sessions on 2026-04-06
+
+- [Claude Sessions 2026-04-05](sources/claude-sessions-2026-04-05.md) — 788 sessions on 2026-04-05
+
+- [Claude Sessions 2026-04-04](sources/claude-sessions-2026-04-04.md) — 476 sessions on 2026-04-04
+
+- [Claude Sessions 2026-04-03](sources/claude-sessions-2026-04-03.md) — 1015 sessions on 2026-04-03
+
+- [Claude Sessions 2026-04-02](sources/claude-sessions-2026-04-02.md) — 1011 sessions on 2026-04-02
+
+- [Claude Sessions 2026-04-01](sources/claude-sessions-2026-04-01.md) — 934 sessions on 2026-04-01
+
+- [Claude Sessions 2026-03-31](sources/claude-sessions-2026-03-31.md) — 343 sessions on 2026-03-31
+
+- [Claude Sessions 2026-03-30](sources/claude-sessions-2026-03-30.md) — 466 sessions on 2026-03-30
+
+- [Claude Sessions 2026-03-29](sources/claude-sessions-2026-03-29.md) — 727 sessions on 2026-03-29
+
+- [Claude Sessions 2026-03-28](sources/claude-sessions-2026-03-28.md) — 724 sessions on 2026-03-28
+
+- [Claude Sessions 2026-04-11](sources/claude-sessions-2026-04-11.md) — 611 sessions on 2026-04-11
+
+- [Claude Sessions 2026-04-10](sources/claude-sessions-2026-04-10.md) — 395 sessions on 2026-04-10
+
+- [Claude Sessions 2026-04-09](sources/claude-sessions-2026-04-09.md) — 1949 sessions on 2026-04-09
+
+- [Claude Sessions 2026-04-08](sources/claude-sessions-2026-04-08.md) — 952 sessions on 2026-04-08
+
+- [Claude Sessions 2026-04-07](sources/claude-sessions-2026-04-07.md) — 2423 sessions on 2026-04-07
+
+- [Claude Sessions 2026-04-06](sources/claude-sessions-2026-04-06.md) — 2065 sessions on 2026-04-06
+
+- [Claude Sessions 2026-04-05](sources/claude-sessions-2026-04-05.md) — 788 sessions on 2026-04-05
+
+- [Claude Sessions 2026-04-04](sources/claude-sessions-2026-04-04.md) — 476 sessions on 2026-04-04
+
+- [Claude Sessions 2026-04-03](sources/claude-sessions-2026-04-03.md) — 1015 sessions on 2026-04-03
+
+- [Claude Sessions 2026-04-02](sources/claude-sessions-2026-04-02.md) — 1011 sessions on 2026-04-02
+
+- [Claude Sessions 2026-04-01](sources/claude-sessions-2026-04-01.md) — 934 sessions on 2026-04-01
+
+- [Claude Sessions 2026-03-31](sources/claude-sessions-2026-03-31.md) — 343 sessions on 2026-03-31
+
+- [Claude Sessions 2026-03-30](sources/claude-sessions-2026-03-30.md) — 466 sessions on 2026-03-30
+
+- [Claude Sessions 2026-03-29](sources/claude-sessions-2026-03-29.md) — 727 sessions on 2026-03-29
+
+- [Claude Sessions 2026-03-28](sources/claude-sessions-2026-03-28.md) — 724 sessions on 2026-03-28
+
+- [Claude Sessions 2026-04-11](sources/claude-sessions-2026-04-11.md) — 610 sessions on 2026-04-11
+
+- [Claude Sessions 2026-04-10](sources/claude-sessions-2026-04-10.md) — 395 sessions on 2026-04-10
+
+- [Claude Sessions 2026-04-09](sources/claude-sessions-2026-04-09.md) — 1949 sessions on 2026-04-09
+
+- [Claude Sessions 2026-04-08](sources/claude-sessions-2026-04-08.md) — 952 sessions on 2026-04-08
+
+- [Claude Sessions 2026-04-07](sources/claude-sessions-2026-04-07.md) — 2423 sessions on 2026-04-07
+
+- [Claude Sessions 2026-04-06](sources/claude-sessions-2026-04-06.md) — 2065 sessions on 2026-04-06
+
+- [Claude Sessions 2026-04-05](sources/claude-sessions-2026-04-05.md) — 788 sessions on 2026-04-05
+
+- [Claude Sessions 2026-04-04](sources/claude-sessions-2026-04-04.md) — 476 sessions on 2026-04-04
+
+- [Claude Sessions 2026-04-03](sources/claude-sessions-2026-04-03.md) — 1015 sessions on 2026-04-03
+
+- [Claude Sessions 2026-04-02](sources/claude-sessions-2026-04-02.md) — 1011 sessions on 2026-04-02
+
+- [Claude Sessions 2026-04-01](sources/claude-sessions-2026-04-01.md) — 934 sessions on 2026-04-01
+
+- [Claude Sessions 2026-03-31](sources/claude-sessions-2026-03-31.md) — 343 sessions on 2026-03-31
+
+- [Claude Sessions 2026-03-30](sources/claude-sessions-2026-03-30.md) — 466 sessions on 2026-03-30
+
+- [Claude Sessions 2026-03-29](sources/claude-sessions-2026-03-29.md) — 727 sessions on 2026-03-29
+
+- [Claude Sessions 2026-03-28](sources/claude-sessions-2026-03-28.md) — 724 sessions on 2026-03-28
+
+- [Claude Code Sessions 2026-04-11](sources/claude-sessions-2026-04-11.md) — 9 sessions focused on PR ingestion team coordination
+- [Claude Code Sessions 2026-04-10](sources/claude-sessions-2026-04-10.md) — 3 sessions with team-lead agent coordination tasks
+- [Claude Code Sessions 2026-04-09](sources/claude-sessions-2026-04-09.md) — 249 sessions focused on wiki maintenance, /fake evidence verification, file justification
+- [Claude Code Sessions 2026-04-08](sources/claude-sessions-2026-04-08.md) — 144 sessions focused on wiki maintenance and CLAUDE.md protocol analysis
+- [Claude Code Sessions 2026-04-07](sources/claude-sessions-2026-04-07.md) — 1354 sessions focused on wiki source ingestion and file justification
+
+## Codex Sessions (2026-03-28 to 2026-04-11)
+- [Codex Sessions 2026-04-11](sources/codex-sessions-2026-04-11.md) — 263 sessions
+- [Codex Sessions 2026-04-10](sources/codex-sessions-2026-04-10.md) — 467 sessions
+- [Codex Sessions 2026-04-09](sources/codex-sessions-2026-04-09.md) — 560 sessions
+- [Codex Sessions 2026-04-08](sources/codex-sessions-2026-04-08.md) — 488 sessions
+- [Codex Sessions 2026-04-07](sources/codex-sessions-2026-04-07.md) — 243 sessions
+- [Codex Sessions 2026-04-06](sources/codex-sessions-2026-04-06.md) — 15 sessions
+- [Codex Sessions 2026-04-05](sources/codex-sessions-2026-04-05.md) — 52 sessions
+- [Codex Sessions 2026-04-04](sources/codex-sessions-2026-04-04.md) — 55 sessions
+- [Codex Sessions 2026-04-03](sources/codex-sessions-2026-04-03.md) — 108 sessions
+- [Codex Sessions 2026-04-02](sources/codex-sessions-2026-04-02.md) — 160 sessions
+- [Codex Sessions 2026-04-01](sources/codex-sessions-2026-04-01.md) — 94 sessions
+- [Codex Sessions 2026-03-31](sources/codex-sessions-2026-03-31.md) — 273 sessions
+- [Codex Sessions 2026-03-30](sources/codex-sessions-2026-03-30.md) — 149 sessions
+- [Codex Sessions 2026-03-29](sources/codex-sessions-2026-03-29.md) — 243 sessions
+- [Codex Sessions 2026-03-28](sources/codex-sessions-2026-03-28.md) — 191 sessions
+
+## PRs and Bug Fixes
+- [PR #546: docs: Hermes token-swap config — Hermes owns prod Slack, OpenClaw uses staging](sources/pr-546-docs-hermes-token-swap-config-hermes-owns-prod-slack-openclaw-uses-staging.md)
+- [PR #545: docs: add SWITCH_TO_HERMES guide — Hermes as primary agent](sources/pr-545-docs-add-switchtohermes-guide-hermes-as-primary-agent.md)
+- [PR #544: [P1] fix(bug-hunt): use openclaw agent one-shot instead of fire-and-forget ao spawn](sources/pr-544-p1-fixbug-hunt-use-openclaw-agent-one-shot-instead-of-fire-and-forget-ao-spawn.md)
+- [PR #543: [agento] fix(deploy): disable DM e2e in staging+prod monitor; fix upgrade-safe launchd label; fix mem0 log msg](sources/pr-543-agento-fixdeploy-disable-dm-e2e-in-stagingprod-monitor-fix-upgrade-safe-launchd-.md)
+- [PR #542: rename: skeptic-gate.yml → green-gate.yml (CI gate is not LLM-based)](sources/pr-542-rename-skeptic-gateyml-green-gateyml-ci-gate-is-not-llm-based.md)
+- [PR #541: [P2] feat: register browserclaw AO repo mapping](sources/pr-541-p2-feat-register-browserclaw-ao-repo-mapping.md)
+- [PR #540: [P2] docs: sync workspace AGENTS ao session guidance](sources/pr-540-p2-docs-sync-workspace-agents-ao-session-guidance.md)
+- [PR #539: fix(monitor): Slack E2E matrix harness fixes + staging config repair + skeptic webhook](sources/pr-539-fixmonitor-slack-e2e-matrix-harness-fixes-staging-config-repair-skeptic-webhook.md)
+- [PR #534: [codex] render local AO runtime config before launch](sources/pr-534-codex-render-local-ao-runtime-config-before-launch.md)
+- [PR #537: harness: opt-in AO dashboard and harden gateway health probes](sources/pr-537-harness-opt-in-ao-dashboard-and-harden-gateway-health-probes.md)
+- [PR #531: feat(harness): user/repo layers, openclaw-harness skill, doctor lane backlog](sources/pr-531-featharness-userrepo-layers-openclaw-harness-skill-doctor-lane-backlog.md)
+- [PR #536: [P2] Policy: require captioned tmux/UI evidence videos + PR gist summaries](sources/pr-536-p2-policy-require-captioned-tmuxui-evidence-videos-pr-gist-summaries.md)
+- [PR #538: fix: replace hardcoded paths with HOME for portability](sources/pr-538-fix-replace-hardcoded-paths-with-home-for-portability.md)
+- [PR #529: [P1] [agento] fix(skeptic): dispatch skeptic check to AO worker and fix beads prefix mismatch](sources/pr-529-p1-agento-fixskeptic-dispatch-skeptic-check-to-ao-worker-and-fix-beads-prefix-mi.md)
+- [PR #533: [agento] [P2] add thinclaw MCP server project to AO orchestrator](sources/pr-533-agento-p2-add-thinclaw-mcp-server-project-to-ao-orchestrator.md)
+- [PR #532: [P2] feat: jleechanclaw custom eloop skill path (orch-eei)](sources/pr-532-p2-feat-jleechanclaw-custom-eloop-skill-path-orch-eei.md)
+- [PR #530: docs: cron backup refresh, executable ao7green script, WA hourly PR reporter](sources/pr-530-docs-cron-backup-refresh-executable-ao7green-script-wa-hourly-pr-reporter.md)
+- [PR #526: [P1] fix(ao7green): address actionable items from merged PRs #522 and #525](sources/pr-526-p1-fixao7green-address-actionable-items-from-merged-prs-522-and-525.md)
+- [PR #523: [P1] fix: ralph doesn't send heartbeats when idle](sources/pr-523-p1-fix-ralph-doesnt-send-heartbeats-when-idle.md)
+- [PR #528: [P1] fix(hooks/mem0_config): handle unexpanded env vars as empty strings](sources/pr-528-p1-fixhooksmem0config-handle-unexpanded-env-vars-as-empty-strings.md)
+- [PR #520: docs(mem0): align Groq/OpenAI references with Ollama LLM + OpenAI embeddings](sources/pr-520-docsmem0-align-groqopenai-references-with-ollama-llm-openai-embeddings.md)
+- [PR #524: [P1] chore(beads): consolidate prefixes to orch-* and fix validation errors](sources/pr-524-p1-chorebeads-consolidate-prefixes-to-orch--and-fix-validation-errors.md)
+- [PR #525: [P1] fix(orch-7kf): approved-and-green reaction races CI checks](sources/pr-525-p1-fixorch-7kf-approved-and-green-reaction-races-ci-checks.md)
+- [PR #522: [P1] fix(launchd): ao7green copy scripts to OPENCLAW_HOME + migrate gateway cron](sources/pr-522-p1-fixlaunchd-ao7green-copy-scripts-to-openclawhome-migrate-gateway-cron.md)
+- [PR #521: [P1] feat(launchd): ao7green-jleechanclaw 30-min schedule plist](sources/pr-521-p1-featlaunchd-ao7green-jleechanclaw-30-min-schedule-plist.md)
+- [PR #517: feat: mem0 embedding fix, minimax config tests, docs, AO progress](sources/pr-517-feat-mem0-embedding-fix-minimax-config-tests-docs-ao-progress.md)
+- [PR #516: [agento] fix(canary): add --prefix to npm ls so SDK version is detected correctly](sources/pr-516-agento-fixcanary-add---prefix-to-npm-ls-so-sdk-version-is-detected-correctly.md)
+- [PR #515: chore: sync beads, mem0 recall, monitor PATH, AO workspace policy](sources/pr-515-chore-sync-beads-mem0-recall-monitor-path-ao-workspace-policy.md)
+- [PR #511: [agento] fix(launchd): remove duplicate com.openclaw.gateway plist template](sources/pr-511-agento-fixlaunchd-remove-duplicate-comopenclawgateway-plist-template.md)
+- [PR #509: [agento] jleechanclaw: append skill reference to evolve loop agentRules](sources/pr-509-agento-jleechanclaw-append-skill-reference-to-evolve-loop-agentrules.md)
+- [PR #507: fix(deploy): protect staging gateway during prod restart + increase startup wait](sources/pr-507-fixdeploy-protect-staging-gateway-during-prod-restart-increase-startup-wait.md)
+- [PR #506: [agento] feat(eloop): custom jleechanclaw eloop — drain dropped Slack thread backlog via /claw](sources/pr-506-agento-feateloop-custom-jleechanclaw-eloop-drain-dropped-slack-thread-backlog-vi.md)
+- [PR #505: [agento] fix(harness): kill gateway orphans + single-instance canary check (check 9, port-filtered)](sources/pr-505-agento-fixharness-kill-gateway-orphans-single-instance-canary-check-check-9-port.md)
+- [PR #503: fix(config): worker-signals-completion action is send-to-agent (bd-gth5)](sources/pr-503-fixconfig-worker-signals-completion-action-is-send-to-agent-bd-gth5.md)
+- [PR #504: [agento] feat: add ZFC rule to agentRules in agent-orchestrator.yaml](sources/pr-504-agento-feat-add-zfc-rule-to-agentrules-in-agent-orchestratoryaml.md)
+- [PR #502: refactor(claw): replace Python task-classifier with LLM judgment](sources/pr-502-refactorclaw-replace-python-task-classifier-with-llm-judgment.md)
+- [PR #500: [agento] chore: route monitor failures to monitoring channel + add evolveLoop + backup-cron script](sources/pr-500-agento-chore-route-monitor-failures-to-monitoring-channel-add-evolveloop-backup-.md)
+- [PR #498: [agento] fix(harness): liveness≠functional — auth-profiles probe, deploy seeding, doctor STATE_DIR check](sources/pr-498-agento-fixharness-livenessfunctional-auth-profiles-probe-deploy-seeding-doctor-s.md)
+- [PR #496: [agento] feat(skills): add executive-assistant skills + fix script flags and doctor.sh](sources/pr-496-agento-featskills-add-executive-assistant-skills-fix-script-flags-and-doctorsh.md)
+- [PR #495: [agento] feat(skills): self-contained staging→prod pipeline skill](sources/pr-495-agento-featskills-self-contained-stagingprod-pipeline-skill.md)
+- [PR #494: [agento] feat(launchd): add antig cmux loop + orch-7b7 slack check scripts](sources/pr-494-agento-featlaunchd-add-antig-cmux-loop-orch-7b7-slack-check-scripts.md)
+- [PR #473: [Auto] Pending changes 2026-04-02 09:41](sources/pr-473-auto-pending-changes-2026-04-02-0941.md)
+- [PR #487: [agento] [P1] fix bug-hunt: agents fail silently → proper error reporting + /tmp output](sources/pr-487-agento-p1-fix-bug-hunt-agents-fail-silently-proper-error-reporting-tmp-output.md)
+- [PR #493: [agento] [P2] feat(monitor): wire monitor-agent into staging→prod deploy gate](sources/pr-493-agento-p2-featmonitor-wire-monitor-agent-into-stagingprod-deploy-gate.md)
+- [PR #492: [agento] fix(doctor): correct memory lookup command + skip when mem0 disabled](sources/pr-492-agento-fixdoctor-correct-memory-lookup-command-skip-when-mem0-disabled.md)
+- [PR #491: fix(harness): add protected openclaw.json keys — heartbeat.every must stay 5m](sources/pr-491-fixharness-add-protected-openclawjson-keys-heartbeatevery-must-stay-5m.md)
+- [PR #490: [agento] fix(harness): detect stale session locks that cause silent message loss](sources/pr-490-agento-fixharness-detect-stale-session-locks-that-cause-silent-message-loss.md)
+- [PR #489: [agento] [P2] feat(evidence-review-gate): add comprehensive tests + webhook import hardening](sources/pr-489-agento-p2-featevidence-review-gate-add-comprehensive-tests-webhook-import-harden.md)
+- [PR #488: [agento] [P2] feat(evidence-review-gate): add comprehensive tests + webhook import hardening](sources/pr-488-agento-p2-featevidence-review-gate-add-comprehensive-tests-webhook-import-harden.md)
+- [PR #486: [agento] fix(doctor): update GATEWAY_LABEL to com.openclaw.gateway](sources/pr-486-agento-fixdoctor-update-gatewaylabel-to-comopenclawgateway.md)
+- [PR #5: docs: add OpenClaw context-window ASCII diagram](sources/pr-5-docs-add-openclaw-context-window-ascii-diagram.md)
+- [PR #3: [P2] feat: sync general-purpose content from jleechanclaw](sources/pr-3-p2-feat-sync-general-purpose-content-from-jleechanclaw.md)
+- [PR #1: [agento] docs: add WIP README + install bootstrap script](sources/pr-1-agento-docs-add-wip-readme-install-bootstrap-script.md)
+- [PR #2: docs: add README.md and install.sh for SmartClaw prototype](sources/pr-2-docs-add-readmemd-and-installsh-for-smartclaw-prototype.md)
+- [PR #4: [P2] fix(metadata-updater): prevent grep crash under set -e](sources/pr-4-p2-fixmetadata-updater-prevent-grep-crash-under-set--e.md)
+- [PR #6214: Remove Rewards Followup LLM Call](sources/pr-6214-fix-remove-rewards-followup-llm-call.md) — Remove redundant second LLM call for rewards_box processing
+- [fix(green-gate): use --paginate for Gate 3](sources/pr-930ed37-fix-green-gate-paginate.md) — Fix Gate 3 CR review check to handle multi-page review results
+- [PR #6161 Bug Hunt Report](sources/pr-6161-bug-hunt-report.md) — 7 serious bugs found in world_logic.py rewards_box/planning_block atomicity handling
+- [PR #6213: MCP Stdio Entry Point](sources/pr-6213-fix-mcp-use-worldai-mcp-stdio-as-entry-point-for-global-install.md) — Switch worldarchitect-mcp entry point from mcp_api:run_server to worldai_mcp_stdio:main for global install
+- [Beads Database Survey 2026-04-11](sources/beads-database-survey-2026-04-11.md) — Survey of 12+ beads databases across all repos; 12 failure patterns captured as concepts
+- [Visenya V6 - Campaign Bible](sources/visenya-v6-campaign.md) — Game of Thrones RPG: Level 6 Apex Weaver Targaryen princess, cold-war North manipulation sandbox, 303 entries
 - [WorldArchitect.AI CLAUDE.md](sources/worldarchitect-claude.md) — Primary operating protocol for AI-agent collaboration on WorldArchitect.AI
 - [WorldArchitect.AI AGENTS.md](sources/worldarchitect-agents.md) — Compact core contract for agents: file protocol, JSON schemas, beads tracking, tmux orchestration
 - [WorldArchitect.AI + Agent Orchestrator Next Steps](sources/worldarchitect-ao-nextsteps.md) — Handoff report: evidence enforcement status, cross-repo priorities, open beads (rev-*/bd-*)
@@ -839,6 +1014,4318 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Critical Fake Code Warning](sources/llm_wiki-raw-critical_fake_code_warning.md-a683ff62.md) — Auto-generated warning from Claude Code's fake code detection hook (v2.0), 0 violations detected
 - [File Validation Hook - Comprehensive Test Results](sources/file-validation-hook-comprehensive-test-results.md) — post-file creation validator hook tests: 6 violation tests + 3 approved placement tests, all passed
 - [Faction Test Status - iteration_020](sources/faction-test-status-iteration-020.md) — prompt updates for tool invocation: cached value warnings, reminder tokens, forbidden rules targeting 50%+ tool usage
+- [PR #6066: fix(avatar-crop): correct drag bounds — both axes independently draggable](sources/pr-6066-fix-avatar-crop-correct-drag-bounds-both-axes-inde.md) — 04-01
+- [PR #6067: docs: manual test instructions for OpenClaw + Tailscale integration](sources/pr-6067-docs-manual-test-instructions-for-openclaw-tailsca.md) — 04-02
+- [PR #6068: fix(avatar-crop): correct drag bounds — both axes independently draggable](sources/pr-6068-fix-avatar-crop-correct-drag-bounds-both-axes-inde.md) — 04-02
+- [PR #6070: fix: align level-up narrative injection with canonical level-up signal](sources/pr-6070-fix-align-level-up-narrative-injection-with-canoni.md) — 04-01
+- [PR #6071: fix(world_logic): suppress stale level-up banner after character creation completes](sources/pr-6071-fix-world-logic-suppress-stale-level-up-banner-aft.md) — 04-02
+- [PR #6072: docs: /exportcommands orchestrated run with --agent-cli minimax](sources/pr-6072-docs-exportcommands-orchestrated-run-with-agent-cl.md) — 04-02
+- [PR #6075: fix(avatar): resolve CodeRabbit CHANGES_REQUESTED — seed avatar, improve evidence, remove dead code](sources/pr-6075-fix-avatar-resolve-coderabbit-changes-requested-se.md) — 04-05
+- [PR #6076: [agento] ci(skeptic): align Skeptic Gate and cron with agent-orchestrator](sources/pr-6076-agento-ci-skeptic-align-skeptic-gate-and-cron-wit.md) — 04-02
+- [PR #6077: [agento] fix(testing_mcp): localhost external detection + level-up atomicity test](sources/pr-6077-agento-fix-testing-mcp-localhost-external-detecti.md) — 04-02
+- [PR #6078: fix(skeptic-cron): handle gh api --paginate exit code failures](sources/pr-6078-fix-skeptic-cron-handle-gh-api-paginate-exit-code.md) — 04-02
+- [PR #6083: [agento] fix(testing_http): start local server dynamically for HTTP tests](sources/pr-6083-agento-fix-testing-http-start-local-server-dynami.md) — 04-03
+- [PR #6085: chore(repo): ignore .beads/.beads/ SQLite files + add MCP installer script](sources/pr-6085-chore-repo-ignore-beads-beads-sqlite-files-add-mcp.md) — 04-04
+- [PR #6087: [agento] fix(skeptic-cron): convert null mergeable to string for GHA output](sources/pr-6087-agento-fix-skeptic-cron-convert-null-mergeable-to.md) — 04-04
+- [PR #6088: fix(deploy): remove PRODUCTION_MODE conflict in dev environments](sources/pr-6088-fix-deploy-remove-production-mode-conflict-in-dev.md) — 04-04
+- [PR #6089: fix(deploy): do not set PRODUCTION_MODE for dev/preview environments](sources/pr-6089-fix-deploy-do-not-set-production-mode-for-dev-prev.md) — 04-04
+- [PR #6090: fix(deploy): separate PRODUCTION_MODE from test bypass flags](sources/pr-6090-fix-deploy-separate-production-mode-from-test-bypa.md) — 04-04
+- [PR #6091: [agento] fix(deploy): use --update-env-vars instead of --set-env-vars when --remove-env-vars is also set](sources/pr-6091-agento-fix-deploy-use-update-env-vars-instead-of.md) — 04-04
+- [PR #6092: chore(beads): add beads for 16 active PRs (P0-P2 triage)](sources/pr-6092-chore-beads-add-beads-for-16-active-prs-p0-p2-tria.md) — 04-04
+- [PR #6093: [agento] fix(security): remove unsigned JWT fallback on expired tokens](sources/pr-6093-agento-fix-security-remove-unsigned-jwt-fallback.md) — 04-04
+- [PR #6094: [agento] fix(data): wrap game state update in Firestore transaction with READ (P0)](sources/pr-6094-agento-fix-data-wrap-game-state-update-in-firesto.md) — 04-05
+- [PR #6095: fix(testing): core test infrastructure fixes + skeptic gate/cron improvements](sources/pr-6095-fix-testing-core-test-infrastructure-fixes-skeptic.md) — 04-05
+- [PR #6096: fix(runners): stable install path + org-level runners + status --clean](sources/pr-6096-fix-runners-stable-install-path-org-level-runners.md) — 04-05
+- [PR #6102: beads: harness follow-up issues (rev-atvn, rev-gi16, rev-y3c4)](sources/pr-6102-beads-harness-follow-up-issues-rev-atvn-rev-gi16-r.md) — 04-05
+- [PR #6104: fix(avatar): CR nits — constants consolidation, imports, storage error test](sources/pr-6104-fix-avatar-cr-nits-constants-consolidation-imports.md) — 04-05
+- [PR #6105: fix(deploy): retry gcloud run services update on ABORTED version conflict](sources/pr-6105-fix-deploy-retry-gcloud-run-services-update-on-abo.md) — 04-05
+- [PR #6107: fix(cron): make Gate 6 fail-closed + post evidence request comment (Option B)](sources/pr-6107-fix-cron-make-gate-6-fail-closed-post-evidence-req.md) — 04-06
+- [PR #6108: Github Mention: fix: add input validation for production](sources/pr-6108-github-mention-fix-add-input-validation-for-produc.md) — 04-07
+- [PR #6109: feat(runners): zero-config start-runner.sh — no .env required](sources/pr-6109-feat-runners-zero-config-start-runner-sh-no-env-re.md) — 04-07
+- [PR #6110: docs(testing): note evidence path in conftest](sources/pr-6110-docs-testing-note-evidence-path-in-conftest.md) — 04-06
+- [PR #6111: sync: update claude commands and hooks from user-scope](sources/pr-6111-sync-update-claude-commands-and-hooks-from-user-sc.md) — 04-06
+- [PR #6112: [agento] fix(skeptic-cron): Gate 3 DISMISSED non-blocking + Gate 6 fail-closed](sources/pr-6112-agento-fix-skeptic-cron-gate-3-dismissed-non-bloc.md) — 04-06
+- [PR #6113: [agento] feat(cursor): portable AO metadata hooks](sources/pr-6113-agento-feat-cursor-portable-ao-metadata-hooks.md) — 04-07
+- [PR #6114: fix(world_logic): gate level-up narrative on _resolve_level_up_signal](sources/pr-6114-fix-world-logic-gate-level-up-narrative-on-resolve.md) — 04-06
+- [PR #6115: docs(roadmap): /nextsteps situational + AO tier1 7-green beads](sources/pr-6115-docs-roadmap-nextsteps-situational-ao-tier1-7-gree.md) — 04-06
+- [PR #6116: fix(skeptic-cron): fail-closed evidence gate + pagination fix + bugbot check-run](sources/pr-6116-fix-skeptic-cron-fail-closed-evidence-gate-paginat.md) — 04-11
+- [PR #6117: fix(beads): dedupe issues.jsonl by id](sources/pr-6117-fix-beads-dedupe-issues-jsonl-by-id.md) — 04-06
+- [PR #6118: fix(rewards): keep rewards_pending until level-up completes](sources/pr-6118-fix-rewards-keep-rewards-pending-until-level-up-co.md) — 04-07
+- [PR #6120: chore(beads): AO handoff rev-pil8 for PR 6119 seven-green](sources/pr-6120-chore-beads-ao-handoff-rev-pil8-for-pr-6119-seven.md) — 04-06
+- [PR #6121: fix(streaming): persist server system_warnings to Firestore (BD-724 parity)](sources/pr-6121-fix-streaming-persist-server-system-warnings-to-fi.md) — 04-07
+- [PR #6122: feat(prototype): simplify onboarding to 2-step flow](sources/pr-6122-feat-prototype-simplify-onboarding-to-2-step-flow.md) — 04-07
+- [PR #6125: chore(runners): default EPHEMERAL=false (fewer offline ghost registrations)](sources/pr-6125-chore-runners-default-ephemeral-false-fewer-offlin.md) — 04-09
+- [PR #6129: fix(mcp-smoke): send X-Mock-Services on remote mock runs to avoid Gemini billing](sources/pr-6129-fix-mcp-smoke-send-x-mock-services-on-remote-mock.md) — 04-07
+- [PR #6130: [agento] feat(cursor): portable AO metadata hooks for Cursor sessions](sources/pr-6130-agento-feat-cursor-portable-ao-metadata-hooks-for.md) — 04-10
+- [PR #6131: fix(ci): skeptic-cron hardened fail-closed evidence gate (Gate 6)](sources/pr-6131-fix-ci-skeptic-cron-hardened-fail-closed-evidence.md) — 04-09
+- [PR #6132: feat(wizard): sync Dragon Knight default with canonical world module (wa-6123)](sources/pr-6132-feat-wizard-sync-dragon-knight-default-with-canoni.md) — 04-09
+- [PR #6133: feat(ci): broaden MCP smoke workflow path filters (wa-6129)](sources/pr-6133-feat-ci-broaden-mcp-smoke-workflow-path-filters-wa.md) — 04-07
+- [PR #6134: refactor(testing_ui): remove dead path helpers from config](sources/pr-6134-refactor-testing-ui-remove-dead-path-helpers-from.md) — 04-07
+- [PR #6137: feat(wizard): Dragon Knight template shortcut - pre-create campaign](sources/pr-6137-feat-wizard-dragon-knight-template-shortcut-pre-cr.md) — 04-09
+- [PR #6138: Fix CharacterCreationAgent hijacking LevelUpAgent](sources/pr-6138-fix-charactercreationagent-hijacking-levelupagent.md) — 04-07
+- [PR #6139: fix: level-up available box shows but planning block missing](sources/pr-6139-fix-level-up-available-box-shows-but-planning-bloc.md) — 04-09
+- [PR #6141: ops(ci): delete PR preview Docker images on cleanup to prevent Artifact Registry bloat](sources/pr-6141-ops-ci-delete-pr-preview-docker-images-on-cleanup.md) — 04-07
+- [PR #6142: chore(deps): bump flask from 3.0.0 to 3.1.3](sources/pr-6142-chore-deps-bump-flask-from-3-0-0-to-3-1-3.md) — 04-08
+- [PR #6143: chore(deps): bump protobuf from 4.25.9 to 5.29.6](sources/pr-6143-chore-deps-bump-protobuf-from-4-25-9-to-5-29-6.md) — 04-08
+- [PR #6144: Github Mention: fix: add input validation for production](sources/pr-6144-github-mention-fix-add-input-validation-for-produc.md) — 04-09
+- [PR #6146: docs+test: streaming path required for E2E tests](sources/pr-6146-docs-test-streaming-path-required-for-e2e-tests.md) — 04-09
+- [PR #6147: ci: remove repo-local /claw override](sources/pr-6147-ci-remove-repo-local-claw-override.md) — 04-08
+- [PR #6148: fix(test): fix level-up E2E harness to use two-step routing verification](sources/pr-6148-fix-test-fix-level-up-e2e-harness-to-use-two-step.md) — 04-09
+- [PR #6150: prompts: make currency setting-aware (not always gold)](sources/pr-6150-prompts-make-currency-setting-aware-not-always-gol.md) — 04-09
+- [PR #6153: feat(wizard): simplify campaign creation to 2-step flow](sources/pr-6153-feat-wizard-simplify-campaign-creation-to-2-step-f.md) — 04-09
+- [PR #6154: chore(deps): bump cryptography from 46.0.6 to 46.0.7](sources/pr-6154-chore-deps-bump-cryptography-from-46-0-6-to-46-0-7.md) — 04-09
+- [PR #6157: feat: add local venv bootstrap for testing_mcp tests](sources/pr-6157-feat-add-local-venv-bootstrap-for-testing-mcp-test.md) — 04-09
+- [PR #6158: fix(ci): strictly enforce mp4 and cast video evidence](sources/pr-6158-fix-ci-strictly-enforce-mp4-and-cast-video-evidenc.md) — 04-09
+- [PR #6159: fix(ci): strictly enforce URL matching with ERE compatible regex](sources/pr-6159-fix-ci-strictly-enforce-url-matching-with-ere-comp.md) — 04-09
+- [PR #6160: fix(ci): strictly enforce URL matching with gist support](sources/pr-6160-fix-ci-strictly-enforce-url-matching-with-gist-sup.md) — 04-09
+- [PR #6161: fix: rewards_box/planning_block atomicity and get_campaign_state](sources/pr-6161-fix-rewards-box-planning-block-atomicity-and-get-c.md) — 04-11
+- [PR #6162: fix(world-logic): global time_events persistence and backfill hardening](sources/pr-6162-fix-world-logic-global-time-events-persistence-and.md) — 04-09
+- [PR #6164: chore: remove prototype_ui/ directory](sources/pr-6164-chore-remove-prototype-ui-directory.md) — 04-09
+- [PR #6166: fix: temporal correction misleading success message when max attempts exceeded](sources/pr-6166-fix-temporal-correction-misleading-success-message.md) — 04-10
+- [PR #6167: test: E2E test for rewards_box/planning_block atomicity](sources/pr-6167-test-e2e-test-for-rewards-box-planning-block-atomi.md) — 04-09
+- [PR #6168: feat: enforce evidence standards in PRs + automation](sources/pr-6168-feat-enforce-evidence-standards-in-prs-automation.md) — 04-09
+- [PR #6169: [agento] fix(test_cerebras): avoid KeyError in planning_block assertion](sources/pr-6169-agento-fix-test-cerebras-avoid-keyerror-in-planni.md) — 04-09
+- [PR #6170: feat: add gemini-3.1-flash-lite model support (Apr 2026)](sources/pr-6170-feat-add-gemini-3-1-flash-lite-model-support-apr-2.md) — 04-09
+- [PR #6171: [agento] ci(cleanup): delete PR preview Docker images on close + self-hosted runner enforcement](sources/pr-6171-agento-ci-cleanup-delete-pr-preview-docker-images.md) — 04-10
+- [PR #6172: [agento] feat(ci): extend tool-cache bootstrap to coverage, doc-size-check, hook-tests, mcp-smoke workflows](sources/pr-6172-agento-feat-ci-extend-tool-cache-bootstrap-to-cov.md) — 04-10
+- [PR #6173: Add 4layer skill extraction for canonical command](sources/pr-6173-add-4layer-skill-extraction-for-canonical-command.md) — 04-10
+- [PR #6174: [agento] fix(deploy): secure default for unknown environments and add preview case](sources/pr-6174-agento-fix-deploy-secure-default-for-unknown-envi.md) — 04-10
+- [PR #6175: Sync repo .claude with user-scope updates](sources/pr-6175-sync-repo-claude-with-user-scope-updates.md) — 04-10
+- [PR #6176: fix(dragon-knight): whitespace fallthrough + CR test hygiene (PR #6137 follow-up)](sources/pr-6176-fix-dragon-knight-whitespace-fallthrough-cr-test-h.md) — 04-10
+- [PR #6177: Cost cleanup: prune preview artifacts and gate Gemini mock mode](sources/pr-6177-cost-cleanup-prune-preview-artifacts-and-gate-gemi.md) — 04-11
+- [PR #6178: fix(constants): add gemini-3.1-flash-lite to MODELS_WITH_CODE_EXECUTION](sources/pr-6178-fix-constants-add-gemini-3-1-flash-lite-to-models.md) — 04-11
+- [PR #6179: fix(living-world): inject persisted world events for all users on page reload](sources/pr-6179-fix-living-world-inject-persisted-world-events-for.md) — 04-11
+- [PR #6180: fix(wizard): normalize whitespace in campaign description input](sources/pr-6180-fix-wizard-normalize-whitespace-in-campaign-descri.md) — 04-11
+- [PR #6181: fix(world-logic): merge empty dict state_updates from Dragon Knight template](sources/pr-6181-fix-world-logic-merge-empty-dict-state-updates-fro.md) — 04-11
+- [PR #6182: fix(deploy): add PRODUCTION_MODE=true for preview environment](sources/pr-6182-fix-deploy-add-production-mode-true-for-preview-en.md) — 04-10
+- [PR #6183: fix(temporal): warn when corrections disabled (attempts=0, max=0)](sources/pr-6183-fix-temporal-warn-when-corrections-disabled-attemp.md) — 04-11
+- [PR #6184: fix(skeptic-gate): check only header section for VERDICT to prevent false PASS](sources/pr-6184-fix-skeptic-gate-check-only-header-section-for-ver.md) — 04-10
+- [PR #6185: [agento] fix(skeptic-cron): paginate Gate-5 review threads (fix PR #6161 permanent block)](sources/pr-6185-agento-fix-skeptic-cron-paginate-gate-5-review-th.md) — 04-11
+- [PR #6187: fix(bug-hunt): wait for AO session completion before aggregating output](sources/pr-6187-fix-bug-hunt-wait-for-ao-session-completion-before.md) — 04-11
+- [PR #6188: fix(skeptic-gate): handle Gate-5 comment pagination to unblock PR #6161](sources/pr-6188-fix-skeptic-gate-handle-gate-5-comment-pagination.md) — 04-11
+- [PR #6189: rename: skeptic-gate.yml → green-gate.yml (CI gate is not LLM-based)](sources/pr-6189-rename-skeptic-gate-yml-green-gate-yml-ci-gate-is.md) — 04-11
+- [PR #6190: fix(skeptic-cron): pass Gate 6 for PRs not requiring evidence-gate check](sources/pr-6190-fix-skeptic-cron-pass-gate-6-for-prs-not-requiring.md) — 04-11
+- [PR #6191: docs(evidence): /er + /es as thin aliases, evidence-review skill, clean-computer rule](sources/pr-6191-docs-evidence-er-es-as-thin-aliases-evidence-revie.md) — 04-11
+- [PR #6192: fix(frontend): show rewards_box when xp_gained=0](sources/pr-6192-fix-frontend-show-rewards-box-when-xp-gained-0.md) — 04-11
+- [PR #6193: fix(rewards): stop dropping rewards_box payloads with only level_up/progress](sources/pr-6193-fix-rewards-stop-dropping-rewards-box-payloads-wit.md) — 04-11
+- [PR #6194: investigate: dice rolls & debug messages regression (pre-#6161)](sources/pr-6194-investigate-dice-rolls-debug-messages-regression-p.md) — 04-11
+- [PR #6195: fix(rewards): restore has_visible_content gate with progress_percent support](sources/pr-6195-fix-rewards-restore-has-visible-content-gate-with.md) — 04-11
+- [PR #6196: fix(dragon-knight): restore missing FIELD_REWARDS_BOX in template extraction (REV-rnz)](sources/pr-6196-fix-dragon-knight-restore-missing-field-rewards-bo.md) — 04-11
+- [PR #6197: fix(debug_info): emit debug_info on all turns, not just when rewards_box present](sources/pr-6197-fix-debug-info-emit-debug-info-on-all-turns-not-ju.md) — 04-11
+- [PR #6200: fix(frontend): render debug_info.system_message in debug mode](sources/pr-6200-fix-frontend-render-debug-info-system-message-in-d.md) — 04-11
+- [PR #6201: fix: un-nest social_hp_challenge/spicy/god_mode from rewards_box gate](sources/pr-6201-fix-un-nest-social-hp-challenge-spicy-god-mode-fro.md) — 04-11
+- [PR #117: [agento] feat: duplicate-tick safety for world_scheduler (worldai_claw-e0c)](sources/pr-117-agento-feat-duplicate-tick-safety-for-world-sched.md) — 03-29
+- [PR #118: [agento] feat: add integration tests for GET /entities/:id/verify (worldai_claw-382)](sources/pr-118-agento-feat-add-integration-tests-for-get-entitie.md) — 03-29
+- [PR #119: [agento] feat: enforce dice mandate in narrative (worldai_claw-4f8)](sources/pr-119-agento-feat-enforce-dice-mandate-in-narrative-wor.md) — 03-29
+- [PR #120: [agento] feat: implement server-side dice rolling (worldai_claw-398)](sources/pr-120-agento-feat-implement-server-side-dice-rolling-wo.md) — 03-28
+- [PR #121: [agento] [P2] feat(worldai-claw): agent-first setup — registration codes, MCP tools, skill.md](sources/pr-121-agento-p2-feat-worldai-claw-agent-first-setup-reg.md) — 03-29
+- [PR #123: [agento] test(worldai_claw-a6f): add context blocks non-empty assertion](sources/pr-123-agento-test-worldai-claw-a6f-add-context-blocks-n.md) — 03-29
+- [PR #124: [agento] feat: SHA-256 prompt fingerprinting (worldai_claw-7db)](sources/pr-124-agento-feat-sha-256-prompt-fingerprinting-worldai.md) — 03-29
+- [PR #125: [agento] chore: close worldai_claw-bd6 -- state_reducer already implemented (PR #73)](sources/pr-125-agento-chore-close-worldai-claw-bd6-state-reducer.md) — 03-29
+- [PR #126: [agento] feat: NPC reactions use Social HP tracking with mandatory box format (worldai_claw-b2d)](sources/pr-126-agento-feat-npc-reactions-use-social-hp-tracking.md) — 03-29
+- [PR #127: feat: implement companion action history pruning](sources/pr-127-feat-implement-companion-action-history-pruning.md) — 03-29
+- [PR #128: feat: implement companion edit notifications via SSE](sources/pr-128-feat-implement-companion-edit-notifications-via-ss.md) — 03-29
+- [PR #129: feat: add companion party management (add/remove) — Phase 1](sources/pr-129-feat-add-companion-party-management-add-remove-pha.md) — 03-28
+- [PR #130: feat: add companion world events](sources/pr-130-feat-add-companion-world-events.md) — 03-29
+- [PR #131: feat: basic companion state display in UI (Phase 1)](sources/pr-131-feat-basic-companion-state-display-in-ui-phase-1.md) — 03-28
+- [PR #132: feat: add skeptic-gate workflow for 7th green gate](sources/pr-132-feat-add-skeptic-gate-workflow-for-7th-green-gate.md) — 03-28
+- [PR #133: chore: switch workflows to self-hosted runners](sources/pr-133-chore-switch-workflows-to-self-hosted-runners.md) — 03-28
+- [PR #134: fix: correct PATCH endpoint for skeptic gate trigger comments](sources/pr-134-fix-correct-patch-endpoint-for-skeptic-gate-trigge.md) — 03-28
+- [PR #136: chore: route all CI test runs to self-hosted runners](sources/pr-136-chore-route-all-ci-test-runs-to-self-hosted-runner.md) — 03-29
+- [PR #138: fix: web MVP gaps - API naming, auth consistency, setup reliability](sources/pr-138-fix-web-mvp-gaps-api-naming-auth-consistency-setup.md) — 03-29
+- [PR #139: feat: add cross-player companion visibility endpoint](sources/pr-139-feat-add-cross-player-companion-visibility-endpoin.md) — 03-29
+- [PR #140: fix: improve SSE streaming robustness - retry, timeout, error UX](sources/pr-140-fix-improve-sse-streaming-robustness-retry-timeout.md) — 03-29
+- [PR #141: docs: Track A acceptance evidence - smoke test PASSED](sources/pr-141-docs-track-a-acceptance-evidence-smoke-test-passed.md) — 03-29
+- [PR #142: [agento] fix: stabilize web integration tests to reflect current MVP behavior](sources/pr-142-agento-fix-stabilize-web-integration-tests-to-ref.md) — 03-29
+- [PR #143: [agento] feat: wire game action buttons to real backend endpoints](sources/pr-143-agento-feat-wire-game-action-buttons-to-real-back.md) — 03-29
+- [PR #144: [agento] feat(web): wire CompanionPanel to backend companions API](sources/pr-144-agento-feat-web-wire-companionpanel-to-backend-co.md) — 03-29
+- [PR #145: [agento] fix(web): align API terminology with backend — use worlds not campaigns](sources/pr-145-agento-fix-web-align-api-terminology-with-backend.md) — 03-29
+- [PR #146: [agento] feat(web): enforce backend verification before setup can be skipped](sources/pr-146-agento-feat-web-enforce-backend-verification-befo.md) — 03-29
+- [PR #147: [agento] feat(web): consolidate auth config to single localStorage source](sources/pr-147-agento-feat-web-consolidate-auth-config-to-single.md) — 03-29
+- [PR #148: [agento] feat(web): validate world ID before navigating from wizard](sources/pr-148-agento-feat-web-validate-world-id-before-navigati.md) — 03-29
+- [PR #149: [agento] fix: use PATCH for settings update test (worldai_claw-tes1)](sources/pr-149-agento-fix-use-patch-for-settings-update-test-wor.md) — 03-30
+- [PR #151: feat: implement chain anchor verification and persistence proof (wc-dyr)](sources/pr-151-feat-implement-chain-anchor-verification-and-persi.md) — 03-30
+- [PR #152: fix(gateway): operator scope header + model name normalization + agent routing (wc-4sn, wc-6ol, wc-on8)](sources/pr-152-fix-gateway-operator-scope-header-model-name-norma.md) — 03-30
+- [PR #153: [agento] feat: implement party routes and GET /sessions (worldai_claw-par1)](sources/pr-153-agento-feat-implement-party-routes-and-get-sessio.md) — 03-30
+- [PR #154: [agento] fix(party): disband single-member party when leader removes themselves](sources/pr-154-agento-fix-party-disband-single-member-party-when.md) — 03-30
+- [PR #155: [agento] fix(companions): catchup cursor after reply flush (worldai_claw-499)](sources/pr-155-agento-fix-companions-catchup-cursor-after-reply.md) — 03-30
+- [PR #156: [agento] fix(world): remove LIMIT 1 from listActiveCampaigns to return all active campaigns](sources/pr-156-agento-fix-world-remove-limit-1-from-listactiveca.md) — 03-30
+- [PR #157: [agento] feat(testing): M5c 4-layer chat streaming flow integration test](sources/pr-157-agento-feat-testing-m5c-4-layer-chat-streaming-fl.md) — 03-31
+- [PR #158: [agento] feat(storage): closeAll() for entity chain DB cleanup (worldai_claw-b9d)](sources/pr-158-agento-feat-storage-closeall-for-entity-chain-db.md) — 03-31
+- [PR #159: [agento] feat(api): GET /entities/:id/verify returns {entityId, chainLength, lastHash, verified}](sources/pr-159-agento-feat-api-get-entities-id-verify-returns-en.md) — 03-31
+- [PR #160: [agento] feat(world): add unsupported/ambiguous action handling to narrative system instructions](sources/pr-160-agento-feat-world-add-unsupported-ambiguous-actio.md) — 03-31
+- [PR #161: [agento] feat(worldai_claw-d25): add companion level-up planning_block mandate](sources/pr-161-agento-feat-worldai-claw-d25-add-companion-level.md) — 03-31
+- [PR #162: [agento] feat(world): add multi-process duplicate-tick safety (worldai_claw-e0c)](sources/pr-162-agento-feat-world-add-multi-process-duplicate-tic.md) — 03-31
+- [PR #163: [agento] feat(api): POST /parties — party creation endpoint (wc-p1r)](sources/pr-163-agento-feat-api-post-parties-party-creation-endpo.md) — 03-31
+- [PR #165: [agento] fix(test): correct settings update HTTP method -- POST vs PATCH (wc-st4)](sources/pr-165-agento-fix-test-correct-settings-update-http-meth.md) — 03-31
+- [PR #167: [agento] test(ui): Track G lifecycle video evidence — 3-turn player lifecycle (wc-t5v)](sources/pr-167-agento-test-ui-track-g-lifecycle-video-evidence-3.md) — 03-31
+- [PR #168: fix: remove universe-agnostic violations in companion catchup (wc-s3l)](sources/pr-168-fix-remove-universe-agnostic-violations-in-compani.md) — 03-31
+- [PR #169: fix: mitigate MCP error leak and apply Zod payload constraint validation](sources/pr-169-fix-mitigate-mcp-error-leak-and-apply-zod-payload.md) — 03-31
+- [PR #170: feat: WorldClaw RPG HTML5 MVP](sources/pr-170-feat-worldclaw-rpg-html5-mvp.md) — 03-31
+- [PR #171: [worldai_claw] feat(rpg-engine): WorldClaw 8-bit pixel-art RPG prototype](sources/pr-171-worldai-claw-feat-rpg-engine-worldclaw-8-bit-pixe.md) — 03-31
+- [PR #172: [worldai_claw] feat(game-engine): 8-bit pixel-art RPG engine with player-driven world building](sources/pr-172-worldai-claw-feat-game-engine-8-bit-pixel-art-rpg.md) — 03-31
+- [PR #173: [agento] fix(ci): replace trigger-poll skeptic gate with deterministic 6-green check](sources/pr-173-agento-fix-ci-replace-trigger-poll-skeptic-gate-w.md) — 03-31
+- [PR #174: [worldai_claw] feat(parties): POST /parties endpoint with name field and auth scoping](sources/pr-174-worldai-claw-feat-parties-post-parties-endpoint-w.md) — 04-03
+- [PR #175: [antig] feat(api): GET /sessions list endpoint tests + Turn 502 regression verification](sources/pr-175-antig-feat-api-get-sessions-list-endpoint-tests-t.md) — 04-01
+- [PR #177: [worldai_claw] feat(game-engine): Actor inventory system, Item type, and module encapsulation](sources/pr-177-worldai-claw-feat-game-engine-actor-inventory-sys.md) — 04-03
+- [PR #179: fix(backend): shared helper for persisted history dice reminder (#81)](sources/pr-179-fix-backend-shared-helper-for-persisted-history-di.md) — 04-03
+- [PR #180: feat: integrate true ML-generated visual sprites via backend endpoint](sources/pr-180-feat-integrate-true-ml-generated-visual-sprites-vi.md) — 04-03
+- [PR #181: chore(api): document existing POST /parties and GET /sessions endpoints](sources/pr-181-chore-api-document-existing-post-parties-and-get-s.md) — 04-03
+- [PR #182: feat(core): fix openclaw mismatch and add captioned rpg demo](sources/pr-182-feat-core-fix-openclaw-mismatch-and-add-captioned.md) — 04-03
+- [PR #183: fix(api): resolve OPENCLAW_UNAVAILABLE 502 in turn pipeline](sources/pr-183-fix-api-resolve-openclaw-unavailable-502-in-turn-p.md) — 04-03
+- [PR #184: [antig] feat: explicit OpenClaw success confirmation and brief dwell](sources/pr-184-antig-feat-explicit-openclaw-success-confirmation.md) — 04-03
+- [PR #185: [antig] fix: enforce token limit on no-lore path](sources/pr-185-antig-fix-enforce-token-limit-on-no-lore-path.md) — 04-03
+- [PR #186: [antig] Fix Issue #80: Faction cooldown timing](sources/pr-186-antig-fix-issue-80-faction-cooldown-timing.md) — 04-03
+- [PR #187: [antig] Consolidate testing_ui BrowserTestBase](sources/pr-187-antig-consolidate-testing-ui-browsertestbase.md) — 04-03
+- [PR #188: [antig] fix: optimize entity_chain initialization using DB tracking (wc-1iv)](sources/pr-188-antig-fix-optimize-entity-chain-initialization-us.md) — 04-03
+- [PR #189: [antig] fix: stabilize remaining backend tests](sources/pr-189-antig-fix-stabilize-remaining-backend-tests.md) — 04-03
+- [PR #190: [antig] fix: direct SQL UPDATE in faction_simulator bypasses SessionStore cache](sources/pr-190-antig-fix-direct-sql-update-in-faction-simulator.md) — 04-03
+- [PR #191: [antig] fix: complete consolidation of browser test base files (wc-0ou)](sources/pr-191-antig-fix-complete-consolidation-of-browser-test.md) — 04-03
+- [PR #192: [antig] chore: close wc-382 and tracking beads](sources/pr-192-antig-chore-close-wc-382-and-tracking-beads.md) — 04-03
+- [PR #193: [antig] refactor: centralize _branch_scoped_tmp_root usage](sources/pr-193-antig-refactor-centralize-branch-scoped-tmp-root.md) — 04-03
+- [PR #194: feat: [antig] fix direct SQL UPDATE bypassing SessionStore cache](sources/pr-194-feat-antig-fix-direct-sql-update-bypassing-session.md) — 04-03
+- [PR #195: fix: close already fixed bead wc-7yp](sources/pr-195-fix-close-already-fixed-bead-wc-7yp.md) — 04-03
+- [PR #196: [antig] fix: restrict arbitrary action_type in faction_simulator and fix lint](sources/pr-196-antig-fix-restrict-arbitrary-action-type-in-facti.md) — 04-04
+- [PR #197: WIP: Verify Entity Endpoint](sources/pr-197-wip-verify-entity-endpoint.md) — 04-04
+- [PR #198: feat(wizard): add OpenClaw success confirmation state](sources/pr-198-feat-wizard-add-openclaw-success-confirmation-stat.md) — 04-04
+- [PR #199: fix(world): gate offline player actions with player_away flag](sources/pr-199-fix-world-gate-offline-player-actions-with-player.md) — 04-04
+- [PR #200: chore(beads): close wc-x7r as already implemented](sources/pr-200-chore-beads-close-wc-x7r-as-already-implemented.md) — 04-04
+- [PR #201: feat(web): add UI polish animations (glow pulse & dice shake)](sources/pr-201-feat-web-add-ui-polish-animations-glow-pulse-dice.md) — 04-04
+- [PR #202: feat(web): add subtle text-shadow to chat text (wc-mjl)](sources/pr-202-feat-web-add-subtle-text-shadow-to-chat-text-wc-mj.md) — 04-04
+- [PR #203: feat(web): add chat bubble entry animations (wc-fgb)](sources/pr-203-feat-web-add-chat-bubble-entry-animations-wc-fgb.md) — 04-04
+- [PR #204: [antig] style(web): simplify location header from boxed info-block to breadcrumb text](sources/pr-204-antig-style-web-simplify-location-header-from-box.md) — 04-04
+- [PR #205: feat(test): remove hardcoded dev-token from browser tests](sources/pr-205-feat-test-remove-hardcoded-dev-token-from-browser.md) — 04-04
+- [PR #206: feat(web): upgrade display font from Georgia to Cinzel](sources/pr-206-feat-web-upgrade-display-font-from-georgia-to-cinz.md) — 04-04
+- [PR #207: [antig] fix: remove duplicate knownActionTypes guard (TS error) and normalize partyId in sessions list](sources/pr-207-antig-fix-remove-duplicate-knownactiontypes-guard.md) — 04-04
+- [PR #208: feat(web): add teal accent for lore and knowledge variants](sources/pr-208-feat-web-add-teal-accent-for-lore-and-knowledge-va.md) — 04-04
+- [PR #209: feat(mobile): darken mobile bottom nav and input bar to near-black](sources/pr-209-feat-mobile-darken-mobile-bottom-nav-and-input-bar.md) — 04-04
+- [PR #210: feat(web): add staggered entrance and ambient glow pulse animations](sources/pr-210-feat-web-add-staggered-entrance-and-ambient-glow-p.md) — 04-04
+- [PR #211: fix(connection): reduce local connection latency timeout](sources/pr-211-fix-connection-reduce-local-connection-latency-tim.md) — 04-04
+- [PR #212: Github Mention: feat(test): remove hardcoded dev-token from browser tests](sources/pr-212-github-mention-feat-test-remove-hardcoded-dev-toke.md) — 04-04
+- [PR #213: Github Mention: [antig] fix: remove duplicate knownActionTypes guard (TS error) and normalize partyId in sessions list](sources/pr-213-github-mention-antig-fix-remove-duplicate-knownact.md) — 04-04
+- [PR #214: [antig] fix: companion state mutations not idempotent on tick replay](sources/pr-214-antig-fix-companion-state-mutations-not-idempoten.md) — 04-04
+- [PR #215: Github Mention: [antig] fix: remove duplicate knownActionTypes guard (TS error) and normalize partyId in sessions list](sources/pr-215-github-mention-antig-fix-remove-duplicate-knownact.md) — 04-04
+- [PR #217: [antig] fix: close wc-dyr bead (verified in PR 197)](sources/pr-217-antig-fix-close-wc-dyr-bead-verified-in-pr-197.md) — 04-04
+- [PR #219: [antig] fix: companion and player state mutations idempotent on tick replay (wc-ca0)](sources/pr-219-antig-fix-companion-and-player-state-mutations-id.md) — 04-04
+- [PR #220: [agento] chore(beads): add closed_at to wc-s3l record (address CR)](sources/pr-220-agento-chore-beads-add-closed-at-to-wc-s3l-record.md) — 04-05
+- [PR #221: fix(ui): add responsive container queries and fix rn mocks](sources/pr-221-fix-ui-add-responsive-container-queries-and-fix-rn.md) — 04-05
+- [PR #222: [antig] refactor(tests): fix faction store singleton import leaks](sources/pr-222-antig-refactor-tests-fix-faction-store-singleton.md) — 04-05
+- [PR #223: [agento] Fix faction sim concurrency bug (#80)](sources/pr-223-agento-fix-faction-sim-concurrency-bug-80.md) — 04-05
+- [PR #224: [agento] refactor: decouple universe mechanics from code (#82, #83)](sources/pr-224-agento-refactor-decouple-universe-mechanics-from.md) — 04-05
+- [PR #225: [antig] Improve smoke test evidence to capture full turn envelope and verify contracts](sources/pr-225-antig-improve-smoke-test-evidence-to-capture-full.md) — 04-07
+- [PR #226: [agento] fix(faction_simulator): fall back to deterministic generation when LLM bootstrap schema parse fails](sources/pr-226-agento-fix-faction-simulator-fall-back-to-determi.md) — 04-07
+- [PR #1: fix: wire extraBotAuthors config through plugin pipeline](sources/pr-1-fix-wire-extrabotauthors-config-through-plugin-pip.md) — 03-16
+- [PR #2: fix(doctor): quote tilde in expand_home case pattern](sources/pr-2-fix-doctor-quote-tilde-in-expand-home-case-pattern.md) — 03-16
+- [PR #3: feat(agent-cursor): add cursor-agent plugin](sources/pr-3-feat-agent-cursor-add-cursor-agent-plugin.md) — 03-14
+- [PR #4: feat(agent-gemini): add gemini-cli plugin](sources/pr-4-feat-agent-gemini-add-gemini-cli-plugin.md) — 03-14
+- [PR #5: feat(claim-pr): send initial task message to agent after claiming PR](sources/pr-5-feat-claim-pr-send-initial-task-message-to-agent-a.md) — 03-16
+- [PR #8: feat(autonomy): close four lifecycle autonomy gaps](sources/pr-8-feat-autonomy-close-four-lifecycle-autonomy-gaps.md) — 03-16
+- [PR #9: refactor(agent-cursor): centralize shared code in agent-base plugin](sources/pr-9-refactor-agent-cursor-centralize-shared-code-in-ag.md) — 03-15
+- [PR #10: refactor(agent-gemini): centralize shared code in agent-base plugin](sources/pr-10-refactor-agent-gemini-centralize-shared-code-in-ag.md) — 03-15
+- [PR #12: test(integration): add cursor and gemini agent integration tests](sources/pr-12-test-integration-add-cursor-and-gemini-agent-integ.md) — 03-16
+- [PR #13: docs(roadmap): MCP server for agent-orchestrator](sources/pr-13-docs-roadmap-mcp-server-for-agent-orchestrator.md) — 03-16
+- [PR #15: docs: add upstream PR strip list to CLAUDE.md and AGENTS.md](sources/pr-15-docs-add-upstream-pr-strip-list-to-claude-md-and-a.md) — 03-16
+- [PR #16: [P2] feat(agent-base): add MCP mail configuration to worktree settings](sources/pr-16-p2-feat-agent-base-add-mcp-mail-configuration-to.md) — 03-16
+- [PR #17: fix(scm-github): use REST API instead of GraphQL in resolvePR](sources/pr-17-fix-scm-github-use-rest-api-instead-of-graphql-in.md) — 03-16
+- [PR #18: fix(agent-base): skip writes when workspace config is unchanged](sources/pr-18-fix-agent-base-skip-writes-when-workspace-config-i.md) — 03-19
+- [PR #19: feat: implement bd-uxs.7 and bd-uxs.8](sources/pr-19-feat-implement-bd-uxs-7-and-bd-uxs-8.md) — 03-19
+- [PR #20: chore: enable CodeRabbit approval reviews](sources/pr-20-chore-enable-coderabbit-approval-reviews.md) — 03-19
+- [PR #21: chore: decouple fork from upstream, register cursor agent, close bd-uxs epic](sources/pr-21-chore-decouple-fork-from-upstream-register-cursor.md) — 03-19
+- [PR #23: feat(core): implement FailureBudgetTracker (bd-m34)](sources/pr-23-feat-core-implement-failurebudgettracker-bd-m34.md) — 03-20
+- [PR #24: feat(poller-github-pr): implement PR poller plugin (bd-awq)](sources/pr-24-feat-poller-github-pr-implement-pr-poller-plugin-b.md) — 03-20
+- [PR #25: feat(core): implement ParallelRetryMonitor (bd-tzt)](sources/pr-25-feat-core-implement-parallelretrymonitor-bd-tzt.md) — 03-20
+- [PR #26: feat(core): implement OutcomeRecorder (bd-nig)](sources/pr-26-feat-core-implement-outcomerecorder-bd-nig.md) — 03-20
+- [PR #27: feat(core): implement session reaper (bd-ls5)](sources/pr-27-feat-core-implement-session-reaper-bd-ls5.md) — 03-20
+- [PR #28: feat(core): implement Slack outbox with dead letter (bd-sw3)](sources/pr-28-feat-core-implement-slack-outbox-with-dead-letter.md) — 03-20
+- [PR #29: feat(core): implement MCP agent mail bridge (bd-qm6)](sources/pr-29-feat-core-implement-mcp-agent-mail-bridge-bd-qm6.md) — 03-20
+- [PR #30: feat(core): implement PatternSynthesizer (bd-89q)](sources/pr-30-feat-core-implement-patternsynthesizer-bd-89q.md) — 03-20
+- [PR #31: feat(core): implement webhook ingress (bd-c9h)](sources/pr-31-feat-core-implement-webhook-ingress-bd-c9h.md) — 03-20
+- [PR #32: feat(core): implement evidence bundle generation (bd-2gz)](sources/pr-32-feat-core-implement-evidence-bundle-generation-bd.md) — 03-20
+- [PR #33: feat(core): implement auto-resolve review threads (bd-xj8)](sources/pr-33-feat-core-implement-auto-resolve-review-threads-bd.md) — 03-20
+- [PR #34: feat(core): implement merge gate enforcement (bd-nrp)](sources/pr-34-feat-core-implement-merge-gate-enforcement-bd-nrp.md) — 03-20
+- [PR #35: chore(beads): create bd-q9n + bd-pdt epics, close rate limit fixes](sources/pr-35-chore-beads-create-bd-q9n-bd-pdt-epics-close-rate.md) — 03-20
+- [PR #36: fix(doctor): support renamed ao package in runtime sanity check](sources/pr-36-fix-doctor-support-renamed-ao-package-in-runtime-s.md) — 03-20
+- [PR #37: a](sources/pr-37-a.md) — 03-20
+- [PR #39: refactor(core): extract fork logic from lifecycle-manager for upstream isolation](sources/pr-39-refactor-core-extract-fork-logic-from-lifecycle-ma.md) — 03-20
+- [PR #40: feat(scm-github): add rate limit retry with exponential backoff and REST fallback](sources/pr-40-feat-scm-github-add-rate-limit-retry-with-exponent.md) — 03-20
+- [PR #41: fix(integration-tests): fix codex auth check and trusted-dir failure](sources/pr-41-fix-integration-tests-fix-codex-auth-check-and-tru.md) — 03-20
+- [PR #42: feat(agent-base): remake PR #38 from Composio PR #538 baseline](sources/pr-42-feat-agent-base-remake-pr-38-from-composio-pr-538.md) — 03-21
+- [PR #43: fix(agent-base): add vitest, fix @jleechanorg scope imports in tests](sources/pr-43-fix-agent-base-add-vitest-fix-jleechanorg-scope-im.md) — 03-21
+- [PR #44: feat(config): wire openclaw notifier plugin — ORCH-6ae](sources/pr-44-feat-config-wire-openclaw-notifier-plugin-orch-6ae.md) — 03-20
+- [PR #45: fix: add reference repos to AGENTS.md and include web source files in package](sources/pr-45-fix-add-reference-repos-to-agents-md-and-include-w.md) — 03-21
+- [PR #48: [agento] docs: update README with accurate plugin list and CLI commands](sources/pr-48-agento-docs-update-readme-with-accurate-plugin-li.md) — 03-21
+- [PR #49: fix(scm-github): GraphQL-first with REST API fallback for rate limit resilience](sources/pr-49-fix-scm-github-graphql-first-with-rest-api-fallbac.md) — 03-21
+- [PR #51: docs: add OpenClaw integration section for jleechanorg fork](sources/pr-51-docs-add-openclaw-integration-section-for-jleechan.md) — 03-21
+- [PR #53: fix(ci): resolve all lint and typecheck failures on main](sources/pr-53-fix-ci-resolve-all-lint-and-typecheck-failures-on.md) — 03-21
+- [PR #54: fix(ci): regenerate pnpm-lock.yaml to fix CI failures](sources/pr-54-fix-ci-regenerate-pnpm-lock-yaml-to-fix-ci-failure.md) — 03-21
+- [PR #55: fix(scm-github): preserve review body and propagate fetch errors](sources/pr-55-fix-scm-github-preserve-review-body-and-propagate.md) — 03-21
+- [PR #59: [agento] fix: enforce full merge gate for auto-merge reactions](sources/pr-59-agento-fix-enforce-full-merge-gate-for-auto-merge.md) — 03-21
+- [PR #61: [agento] fix(lifecycle): use checkMergeGate() for auto-merge instead of getMergeability()](sources/pr-61-agento-fix-lifecycle-use-checkmergegate-for-auto.md) — 03-21
+- [PR #63: [agento] bd-s4t.1: kill session on merged transition in lifecycle manager](sources/pr-63-agento-bd-s4t-1-kill-session-on-merged-transition.md) — 03-21
+- [PR #64: [agento][bd-awq] feat: poll GitHub PRs by CodeRabbit changes-requested](sources/pr-64-agento-bd-awq-feat-poll-github-prs-by-coderabbit.md) — 03-21
+- [PR #66: fix(config): block auto-merge reaction config](sources/pr-66-fix-config-block-auto-merge-reaction-config.md) — 03-21
+- [PR #67: [agento] feat(lifecycle): process cleanup improvements for lifecycle-worker](sources/pr-67-agento-feat-lifecycle-process-cleanup-improvement.md) — 03-24
+- [PR #68: [agento][bd-u8p] Enforce gh pr merge guardrail in agent hooks/wrappers](sources/pr-68-agento-bd-u8p-enforce-gh-pr-merge-guardrail-in-ag.md) — 03-23
+- [PR #69: ci: switch workflows to self-hosted runner labels](sources/pr-69-ci-switch-workflows-to-self-hosted-runner-labels.md) — 03-21
+- [PR #70: [agento] feat: add launchd keepalive wrapper for start-all.sh (bd-la7)](sources/pr-70-agento-feat-add-launchd-keepalive-wrapper-for-sta.md) — 03-21
+- [PR #71: fix(ci): symlink warn-not-throw + skip extended setup without config](sources/pr-71-fix-ci-symlink-warn-not-throw-skip-extended-setup.md) — 03-21
+- [PR #74: [agento] fix(scm-github): treat CR COMMENTED reviews as non-decisive (bd-77b)](sources/pr-74-agento-fix-scm-github-treat-cr-commented-reviews.md) — 03-21
+- [PR #75: [agento] fix(scm-github): don't fail-close to CI failing on GraphQL rate limit errors](sources/pr-75-agento-fix-scm-github-don-t-fail-close-to-ci-fail.md) — 03-21
+- [PR #77: fix: add REST API fallbacks for GraphQL rate limit exhaustion](sources/pr-77-fix-add-rest-api-fallbacks-for-graphql-rate-limit.md) — 03-21
+- [PR #78: [P1] fix: dismissed CHANGES_REQUESTED no longer bypasses CR merge gate](sources/pr-78-p1-fix-dismissed-changes-requested-no-longer-bypa.md) — 03-21
+- [PR #79: [agento] fix(scm-github): fallback detectPR when REST head misses fork owner](sources/pr-79-agento-fix-scm-github-fallback-detectpr-when-rest.md) — 03-23
+- [PR #80: [agento] docs: define rate-limit unknown semantics follow-up (orch-06b)](sources/pr-80-agento-docs-define-rate-limit-unknown-semantics-f.md) — 03-23
+- [PR #81: fix(lifecycle): serialize session polling + add startup jitter (bd-wse)](sources/pr-81-fix-lifecycle-serialize-session-polling-add-startu.md) — 03-21
+- [PR #82: fix(core): filter killed/merged sessions after repair in loadActiveSessionRecords](sources/pr-82-fix-core-filter-killed-merged-sessions-after-repai.md) — 03-23
+- [PR #83: fix(agent-cursor): add --trust flag to skip workspace trust prompt (bd-k3a)](sources/pr-83-fix-agent-cursor-add-trust-flag-to-skip-workspace.md) — 03-21
+- [PR #84: Follow-up: rate-limit pattern docs, tests, poller REST note](sources/pr-84-follow-up-rate-limit-pattern-docs-tests-poller-res.md) — 03-21
+- [PR #85: fix(plugin-registry): register gemini agent plugin and fix model/trust issues](sources/pr-85-fix-plugin-registry-register-gemini-agent-plugin-a.md) — 03-21
+- [PR #86: fix: kill zombie tmux sessions when merged PR transitions to killed (bd-kki)](sources/pr-86-fix-kill-zombie-tmux-sessions-when-merged-pr-trans.md) — 03-23
+- [PR #87: fix(launchd): remove legacy per-project lifecycle plists, raise ThrottleInterval to 60s](sources/pr-87-fix-launchd-remove-legacy-per-project-lifecycle-pl.md) — 03-21
+- [PR #88: feat(scripts): add ao-doctor-monitor — extended health monitor (bd-92j)](sources/pr-88-feat-scripts-add-ao-doctor-monitor-extended-health.md) — 03-23
+- [PR #91: test: cursor agent integration test](sources/pr-91-test-cursor-agent-integration-test.md) — 03-23
+- [PR #92: fix(lifecycle): clean up worktree on all terminal transitions, not just merged (bd-e4t)](sources/pr-92-fix-lifecycle-clean-up-worktree-on-all-terminal-tr.md) — 03-23
+- [PR #93: fix(gemini): use AfterTool/BeforeTool hook event names and write hooks before launch (orch-xmg5)](sources/pr-93-fix-gemini-use-aftertool-beforetool-hook-event-nam.md) — 03-23
+- [PR #94: [agento] docs: GH API minimization redesign + phased plan](sources/pr-94-agento-docs-gh-api-minimization-redesign-phased-p.md) — 03-22
+- [PR #95: fix(agent-base): prevent false-idle when spinner visible above ❯ prompt (orch-jtc7)](sources/pr-95-fix-agent-base-prevent-false-idle-when-spinner-vis.md) — 03-23
+- [PR #96: fix(agent-gemini): parse native JSON session format for done-signal (orch-cb3e)](sources/pr-96-fix-agent-gemini-parse-native-json-session-format.md) — 03-23
+- [PR #97: [agento] feat: add PR worker coverage harness with validation script (bd-7ay)](sources/pr-97-agento-feat-add-pr-worker-coverage-harness-with-v.md) — 03-21
+- [PR #98: [agento] feat(core): add fail-closed evidence-gate CI workflow (bd-7ay)](sources/pr-98-agento-feat-core-add-fail-closed-evidence-gate-ci.md) — 03-23
+- [PR #99: [agento] fix: kill zombie tmux sessions when merged PR transitions to killed (bd-kki)](sources/pr-99-agento-fix-kill-zombie-tmux-sessions-when-merged.md) — 03-23
+- [PR #100: [agento] fix: add AO pre-spawn gate for rate limits and capacity](sources/pr-100-agento-fix-add-ao-pre-spawn-gate-for-rate-limits.md) — 03-22
+- [PR #101: [agento] feat(scm-github): add TTL cache + in-flight dedupe for gh API calls](sources/pr-101-agento-feat-scm-github-add-ttl-cache-in-flight-de.md) — 03-22
+- [PR #102: [agento] fix: rate-limit fail-closed handling (rethrow + helper)](sources/pr-102-agento-fix-rate-limit-fail-closed-handling-rethro.md) — 03-22
+- [PR #103: [agento] fix: rate-limit pause state + session visibility safeguards](sources/pr-103-agento-fix-rate-limit-pause-state-session-visibil.md) — 03-22
+- [PR #104: feat(core): resilient GraphQL executor with retry + deferral on rate-limits (bd-fy7)](sources/pr-104-feat-core-resilient-graphql-executor-with-retry-de.md) — 03-22
+- [PR #105: [agento] feat(tracker-beads): inject bead context into AO worker prompts (bd-ggf)](sources/pr-105-agento-feat-tracker-beads-inject-bead-context-int.md) — 03-22
+- [PR #106: feat(notifier-mcp-mail): add MCP Agent Mail notifier plugin](sources/pr-106-feat-notifier-mcp-mail-add-mcp-agent-mail-notifier.md) — 03-22
+- [PR #107: chore: upstream sync — auto-detect project from cwd in multi-project configs](sources/pr-107-chore-upstream-sync-auto-detect-project-from-cwd-i.md) — 03-23
+- [PR #108: fix(runtime-tmux): detect dead-agent CLI state and restart before send (bd-tln)](sources/pr-108-fix-runtime-tmux-detect-dead-agent-cli-state-and-r.md) — 03-23
+- [PR #109: fix(runtime-tmux): adaptive delay + Enter retry for long paste-buffer messages (bd-orch2v3, bd-qhf)](sources/pr-109-fix-runtime-tmux-adaptive-delay-enter-retry-for-lo.md) — 03-23
+- [PR #110: docs+chore: GH API validation report, harness skills, .claude tracking](sources/pr-110-docs-chore-gh-api-validation-report-harness-skills.md) — 03-23
+- [PR #111: fix(session-manager): self-heal terminal ghost files blocking orchestrator respawn](sources/pr-111-fix-session-manager-self-heal-terminal-ghost-files.md) — 03-23
+- [PR #112: [agento] fix(workspace-worktree): lock worktrees on create/restore to prevent accidental prune](sources/pr-112-agento-fix-workspace-worktree-lock-worktrees-on-c.md) — 03-23
+- [PR #113: feat(release): replace changesets with semantic-release auto-versioning](sources/pr-113-feat-release-replace-changesets-with-semantic-rele.md) — 03-23
+- [PR #115: [agento] fix(scm-github): reduce Bugbot severity false positives in merge gate](sources/pr-115-agento-fix-scm-github-reduce-bugbot-severity-fals.md) — 03-23
+- [PR #116: feat: API call reduction Phase 1 (bd-wg5, bd-91z, bd-4nz)](sources/pr-116-feat-api-call-reduction-phase-1-bd-wg5-bd-91z-bd-4.md) — 03-23
+- [PR #117: feat(core): combined PR query + throttled review backlog (bd-sm7, bd-yjo)](sources/pr-117-feat-core-combined-pr-query-throttled-review-backl.md) — 03-23
+- [PR #118: feat(core): batch GraphQL query for all per-session PR checks (bd-att)](sources/pr-118-feat-core-batch-graphql-query-for-all-per-session.md) — 03-23
+- [PR #119: fix(guardrails): block git worktree remove/prune — require manual human approval](sources/pr-119-fix-guardrails-block-git-worktree-remove-prune-req.md) — 03-23
+- [PR #120: fix(lifecycle): auto-merge pipeline — 3 bugs blocking autonomous merge (bd-ara)](sources/pr-120-fix-lifecycle-auto-merge-pipeline-3-bugs-blocking.md) — 03-23
+- [PR #121: bd-xf5: recover stale checked-out worktrees during spawn](sources/pr-121-bd-xf5-recover-stale-checked-out-worktrees-during.md) — 03-23
+- [PR #122: bd-jo6: add lifecycle-worker tmux orphan sweep](sources/pr-122-bd-jo6-add-lifecycle-worker-tmux-orphan-sweep.md) — 03-23
+- [PR #123: [agento] bd-jo6: tmux orphan session TTL/sweep in lifecycle-manager](sources/pr-123-agento-bd-jo6-tmux-orphan-session-ttl-sweep-in-li.md) — 03-24
+- [PR #124: fix(core): avoid API retry storm when batch PR status hits rate limit](sources/pr-124-fix-core-avoid-api-retry-storm-when-batch-pr-statu.md) — 03-23
+- [PR #127: fix(lifecycle): auto-kill tmux session after PR merged/closed](sources/pr-127-fix-lifecycle-auto-kill-tmux-session-after-pr-merg.md) — 03-23
+- [PR #128: feat(lifecycle): add observer logging to reaction start and send-failed paths](sources/pr-128-feat-lifecycle-add-observer-logging-to-reaction-st.md) — 03-23
+- [PR #129: [agento] feat(lifecycle): implement backfillAllPRs — auto-spawn for uncovered PRs](sources/pr-129-agento-feat-lifecycle-implement-backfillallprs-au.md) — 03-23
+- [PR #130: fix(backfill): skip failed PRs and try next uncovered PR](sources/pr-130-fix-backfill-skip-failed-prs-and-try-next-uncovere.md) — 03-24
+- [PR #131: [agento] fix(auton): remove deprecated poller check, add auto-merge config verification](sources/pr-131-agento-fix-auton-remove-deprecated-poller-check-a.md) — 03-24
+- [PR #132: [agento] fix(merge-gate): dismissed CHANGES_REQUESTED no longer bypasses CR merge gate](sources/pr-132-agento-fix-merge-gate-dismissed-changes-requested.md) — 03-24
+- [PR #133: fix(scm-github): replace gh pr checkout with git fetch to avoid GraphQL burn (bd-49u)](sources/pr-133-fix-scm-github-replace-gh-pr-checkout-with-git-fet.md) — 03-24
+- [PR #134: fix(agent-base): silence metadata-updater noise in non-AO sessions](sources/pr-134-fix-agent-base-silence-metadata-updater-noise-in-n.md) — 03-23
+- [PR #135: [agento] feat(scm-github): REST fallback for mergePR on rate limit](sources/pr-135-agento-feat-scm-github-rest-fallback-for-mergepr.md) — 03-23
+- [PR #136: fix(lifecycle): re-send agent-stuck nudge periodically when session stays stuck (bd-sbr)](sources/pr-136-fix-lifecycle-re-send-agent-stuck-nudge-periodical.md) — 03-23
+- [PR #137: [agento] feat: replace GraphQL thread resolution with PR description documentation (bd-ara.1)](sources/pr-137-agento-feat-replace-graphql-thread-resolution-wit.md) — 03-24
+- [PR #138: [agento] fix: PostToolUse guard exemption for metadata-updater](sources/pr-138-agento-fix-posttooluse-guard-exemption-for-metada.md) — 03-24
+- [PR #139: [agento] fix: UserPromptSubmit hook adds rate-limit guard to PR green-check](sources/pr-139-agento-fix-userpromptsubmit-hook-adds-rate-limit.md) — 03-24
+- [PR #140: [agento] fix(scm-github): set noConflicts=false when mergeable=UNKNOWN (bd-ara.2)](sources/pr-140-agento-fix-scm-github-set-noconflicts-false-when.md) — 03-24
+- [PR #142: [agento] fix(metadata-updater): add hook_event guard to merge block](sources/pr-142-agento-fix-metadata-updater-add-hook-event-guard.md) — 03-24
+- [PR #143: fix(lifecycle): log merge gate blockers on auto-merge failure (bd-harness)](sources/pr-143-fix-lifecycle-log-merge-gate-blockers-on-auto-merg.md) — 03-24
+- [PR #144: fix(scm-github): stop leaking GitHub token in curl CLI args](sources/pr-144-fix-scm-github-stop-leaking-github-token-in-curl-c.md) — 03-24
+- [PR #146: feat(lifecycle): reap idle no-PR sessions immediately on merge](sources/pr-146-feat-lifecycle-reap-idle-no-pr-sessions-immediatel.md) — 03-24
+- [PR #147: [agento] fix(lifecycle): return killed immediately on dead runtime — bd-5o1](sources/pr-147-agento-fix-lifecycle-return-killed-immediately-on.md) — 03-24
+- [PR #148: [agento] fix(send): detect dead-agent CLI and restart before pasting (bd-tln)](sources/pr-148-agento-fix-send-detect-dead-agent-cli-and-restart.md) — 03-24
+- [PR #149: [agento] fix(lifecycle): gate auto-kill on 3 consecutive SCM failures (bd-6jc)](sources/pr-149-agento-fix-lifecycle-gate-auto-kill-on-3-consecut.md) — 03-24
+- [PR #150: fix(tmux): adaptive delay + Enter retry for long messages (bd-qhf)](sources/pr-150-fix-tmux-adaptive-delay-enter-retry-for-long-messa.md) — 03-24
+- [PR #151: feat: add runtime-antigravity plugin (bd-5kp)](sources/pr-151-feat-add-runtime-antigravity-plugin-bd-5kp.md) — 03-24
+- [PR #152: [agento] chore: remove stale PreToolUse references from metadata-updater hook](sources/pr-152-agento-chore-remove-stale-pretooluse-references-f.md) — 03-24
+- [PR #153: [agento] fix: clean up metadata-updater.sh hook comments and dead code](sources/pr-153-agento-fix-clean-up-metadata-updater-sh-hook-comm.md) — 03-24
+- [PR #154: [agento] fix: pruneStaleWorktrees tmux name (bd-6ql)](sources/pr-154-agento-fix-prunestaleworktrees-tmux-name-bd-6ql.md) — 03-24
+- [PR #155: [agento] fix(lifecycle): skip reactions on dead agents (bd-5o1)](sources/pr-155-agento-fix-lifecycle-skip-reactions-on-dead-agent.md) — 03-25
+- [PR #156: docs(hooks): clean up metadata-updater to PostToolUse-only (bd-24k)](sources/pr-156-docs-hooks-clean-up-metadata-updater-to-posttoolus.md) — 03-24
+- [PR #157: chore: remove PreToolUse merge policy enforcement from metadata-updater hook](sources/pr-157-chore-remove-pretooluse-merge-policy-enforcement-f.md) — 03-24
+- [PR #158: [agento] fix(scm-github): restore '/' in encoded branch name for REST ref deletion](sources/pr-158-agento-fix-scm-github-restore-in-encoded-branch-n.md) — 03-24
+- [PR #159: fix(doctor): detect and kill non-canonical lifecycle-worker binaries](sources/pr-159-fix-doctor-detect-and-kill-non-canonical-lifecycle.md) — 03-24
+- [PR #160: feat(lifecycle): emit session.spawned/exited events + fix(tmux): submit queued messages](sources/pr-160-feat-lifecycle-emit-session-spawned-exited-events.md) — 03-24
+- [PR #161: fix(lifecycle-worker): increase default polling interval 30s->75s (bd-fmv)](sources/pr-161-fix-lifecycle-worker-increase-default-polling-inte.md) — 03-24
+- [PR #162: feat(auton): consolidate /auton command with stall detection and 6-green rate](sources/pr-162-feat-auton-consolidate-auton-command-with-stall-de.md) — 03-24
+- [PR #163: [agento] feat(harness): add auto-merge wait and --auto flag (bd-5gl)](sources/pr-163-agento-feat-harness-add-auto-merge-wait-and-auto.md) — 03-24
+- [PR #164: feat(session-manager): Pass 2 of pruneStaleWorktrees cleans zombie worktrees outside ~/.worktrees/](sources/pr-164-feat-session-manager-pass-2-of-prunestaleworktrees.md) — 03-24
+- [PR #165: [agento] fix(scm-github): remove invalid GraphQL field + clarify autoMergeWaitSeconds (bd-5gl)](sources/pr-165-agento-fix-scm-github-remove-invalid-graphql-fiel.md) — 03-24
+- [PR #166: feat(lifecycle-worker): add sweepOrphanWorktrees to prevent ghost-worktree claim failures](sources/pr-166-feat-lifecycle-worker-add-sweeporphanworktrees-to.md) — 03-25
+- [PR #168: [P1] fix(lifecycle): guard against duplicate lifecycle-workers per project (orch-886k)](sources/pr-168-p1-fix-lifecycle-guard-against-duplicate-lifecycl.md) — 03-25
+- [PR #169: [agento] feat(agent-opencode): recognize waiting prompts in detectActivity](sources/pr-169-agento-feat-agent-opencode-recognize-waiting-prom.md) — 03-25
+- [PR #170: [agento] fix(agent-opencode): prevent false-positive waiting_input from broad ? patterns](sources/pr-170-agento-fix-agent-opencode-prevent-false-positive.md) — 03-25
+- [PR #171: [agento] feat(notifier-slack): add in-memory dedup cache to suppress duplicate notifications](sources/pr-171-agento-feat-notifier-slack-add-in-memory-dedup-ca.md) — 03-25
+- [PR #172: feat(antigravity): wire idle-detection callback to session lifecycle (bd-5kp.6)](sources/pr-172-feat-antigravity-wire-idle-detection-callback-to-s.md) — 03-25
+- [PR #173: [agento] feat(lifecycle): emit session.exited for reaped co-workers (orch-s66)](sources/pr-173-agento-feat-lifecycle-emit-session-exited-for-rea.md) — 03-25
+- [PR #174: fix(bd-s4t): kill zombie tmux sessions after PR merge/close](sources/pr-174-fix-bd-s4t-kill-zombie-tmux-sessions-after-pr-merg.md) — 03-25
+- [PR #176: [agento] feat(spawn): --runtime flag to choose antigravity/tmux at spawn time](sources/pr-176-agento-feat-spawn-runtime-flag-to-choose-antigrav.md) — 03-25
+- [PR #177: [agento] fix(lifecycle): bd-6jc follow-up — SCM failure counter hygiene](sources/pr-177-agento-fix-lifecycle-bd-6jc-follow-up-scm-failure.md) — 03-25
+- [PR #178: [agento] feat(stuck-review): 8-mechanism prevention package for CHANGES_REQUESTED stalls](sources/pr-178-agento-feat-stuck-review-8-mechanism-prevention-p.md) — 03-25
+- [PR #179: [agento] feat(orch-novel-workers): serialized fiction — AO workers pretend they're alive](sources/pr-179-agento-feat-orch-novel-workers-serialized-fiction.md) — 03-25
+- [PR #180: fix(lifecycle): startup grace period prevents killing new sessions (bd-85r)](sources/pr-180-fix-lifecycle-startup-grace-period-prevents-killin.md) — 03-25
+- [PR #181: [agento] feat(orch-novel-workers): add backfill entry generation](sources/pr-181-agento-feat-orch-novel-workers-add-backfill-entry.md) — 03-25
+- [PR #182: [agento] feat(remotion): The Daily Lives of Workers — Remotion video](sources/pr-182-agento-feat-remotion-the-daily-lives-of-workers-r.md) — 03-25
+- [PR #183: [agento] feat: add prose-polish plugin for AO novel style fixes](sources/pr-183-agento-feat-add-prose-polish-plugin-for-ao-novel.md) — 03-25
+- [PR #184: [agento] fix: skip separator on first write, use printf %q for run_cmd](sources/pr-184-agento-fix-skip-separator-on-first-write-use-prin.md) — 03-25
+- [PR #185: [agento] feat: config-driven bead task queue with maxConcurrent in lifecycle-worker](sources/pr-185-agento-feat-config-driven-bead-task-queue-with-ma.md) — 03-26
+- [PR #186: fix(prose-polish): path traversal guard, trim fix, multi-fix dedup, hyphen Not-X](sources/pr-186-fix-prose-polish-path-traversal-guard-trim-fix-mul.md) — 03-25
+- [PR #187: feat(novel): consolidate upstream Composio PRs into novel/upstream/](sources/pr-187-feat-novel-consolidate-upstream-composio-prs-into.md) — 03-25
+- [PR #188: [agento] feat(novel): per-worker individual novel entry files](sources/pr-188-agento-feat-novel-per-worker-individual-novel-ent.md) — 03-26
+- [PR #189: [agento] feat(runtime-antigravity): add preflight checks before Peekaboo session creation](sources/pr-189-agento-feat-runtime-antigravity-add-preflight-che.md) — 03-25
+- [PR #190: [agento] fix(prose-polish): preserve indentation + clean filler artifact spaces](sources/pr-190-agento-fix-prose-polish-preserve-indentation-clea.md) — 03-25
+- [PR #191: [agento] fix(web): show EmptyState when all sessions are done](sources/pr-191-agento-fix-web-show-emptystate-when-all-sessions.md) — 03-26
+- [PR #192: [agento] fix(scm-github): REST fallback for getPendingComments when GraphQL exhausted](sources/pr-192-agento-fix-scm-github-rest-fallback-for-getpendin.md) — 03-25
+- [PR #193: [agento] fix(prose-polish): address CR follow-up review comments](sources/pr-193-agento-fix-prose-polish-address-cr-follow-up-revi.md) — 03-26
+- [PR #194: [agento] fix(scm-github): REST fallback for getReviews and getReviewDecision](sources/pr-194-agento-fix-scm-github-rest-fallback-for-getreview.md) — 03-25
+- [PR #195: [agento] fix(scm-github): REST fallback for getCIChecksFromStatusRollup + getCISummary](sources/pr-195-agento-fix-scm-github-rest-fallback-for-getcichec.md) — 03-26
+- [PR #196: [agento] docs: close bd-ara.1 — PR description resolved-comments approach implemented](sources/pr-196-agento-docs-close-bd-ara-1-pr-description-resolve.md) — 03-26
+- [PR #197: [agento] fix(backfill): clean up worktree + local branch on claim_failed](sources/pr-197-agento-fix-backfill-clean-up-worktree-local-branc.md) — 03-26
+- [PR #198: [P0] fix(lifecycle): remove broken evidence-review requiredCheck from auto-merge](sources/pr-198-p0-fix-lifecycle-remove-broken-evidence-review-re.md) — 03-26
+- [PR #199: [agento] fix(hooks): remove no-op pr-green-check.py hook](sources/pr-199-agento-fix-hooks-remove-no-op-pr-green-check-py-h.md) — 03-26
+- [PR #200: [agento] docs: close bd-ara.3 — stale session fixes via bd-s4t](sources/pr-200-agento-docs-close-bd-ara-3-stale-session-fixes-vi.md) — 03-26
+- [PR #201: [agento] fix(backfill): clean up worktree + local branch on claim_failed to prevent cascading poison](sources/pr-201-agento-fix-backfill-clean-up-worktree-local-branc.md) — 03-26
+- [PR #202: [agento] fix(lifecycle): mark dead-agent sessions killed when send-to-agent reaction is skipped](sources/pr-202-agento-fix-lifecycle-mark-dead-agent-sessions-kil.md) — 03-26
+- [PR #203: feat(core): add stuck worker detector for overnight monitoring loops](sources/pr-203-feat-core-add-stuck-worker-detector-for-overnight.md) — 03-26
+- [PR #204: fix(doctor): correct non-canonical lifecycle-worker detection](sources/pr-204-fix-doctor-correct-non-canonical-lifecycle-worker.md) — 03-26
+- [PR #205: fix(evidence-gate): fail instead of skip when no Evidence section](sources/pr-205-fix-evidence-gate-fail-instead-of-skip-when-no-evi.md) — 03-26
+- [PR #206: [agento] feat: add skeptic agent as 7th merge gate condition (bd-qw6)](sources/pr-206-agento-feat-add-skeptic-agent-as-7th-merge-gate-c.md) — 03-26
+- [PR #207: feat(social): YouTube/TikTok pipeline for AO novel](sources/pr-207-feat-social-youtube-tiktok-pipeline-for-ao-novel.md) — 03-26
+- [PR #210: [agento] feat: review-fix respawn for orphaned CHANGES_REQUESTED PRs](sources/pr-210-agento-feat-review-fix-respawn-for-orphaned-chang.md) — 03-28
+- [PR #211: [agento] fix: remove unused WORDS_PER_MINUTE (pre-existing lint)](sources/pr-211-agento-fix-remove-unused-words-per-minute-pre-exi.md) — 03-27
+- [PR #212: [agento] feat: PR media proof — agents attach screenshots/video to PRs](sources/pr-212-agento-feat-pr-media-proof-agents-attach-screensh.md) — 03-26
+- [PR #213: [agento] feat: skeptic CI gate + cron merge loop (bd-scp)](sources/pr-213-agento-feat-skeptic-ci-gate-cron-merge-loop-bd-sc.md) — 03-26
+- [PR #214: chore(beads): close bd-scp skeptic CI gate + cron loop](sources/pr-214-chore-beads-close-bd-scp-skeptic-ci-gate-cron-loop.md) — 03-26
+- [PR #215: [agento] fix: [agento] PR title prefix via PreToolUse hook](sources/pr-215-agento-fix-agento-pr-title-prefix-via-pretooluse.md) — 03-27
+- [PR #216: [agento] refactor(skeptic): extract shared actions to eliminate workflow duplication](sources/pr-216-agento-refactor-skeptic-extract-shared-actions-to.md) — 03-27
+- [PR #217: fix(skeptic-gate): add missing permissions block + improve comment posting](sources/pr-217-fix-skeptic-gate-add-missing-permissions-block-imp.md) — 03-27
+- [PR #218: [agento] fix: update 6-green → 7-green references (skeptic is 7th gate)](sources/pr-218-agento-fix-update-6-green-7-green-references-skep.md) — 03-27
+- [PR #219: [agento] fix(scm-github): implement getSkepticVerdict to complete 7th merge gate](sources/pr-219-agento-fix-scm-github-implement-getskepticverdict.md) — 03-27
+- [PR #220: [agento] docs: add bd-dfl bead entry — design-fidelity enforcement (bd-dfl)](sources/pr-220-agento-docs-add-bd-dfl-bead-entry-design-fidelity.md) — 03-27
+- [PR #221: [agento] fix(runtime-antigravity): align Peekaboo CLI with real interface](sources/pr-221-agento-fix-runtime-antigravity-align-peekaboo-cli.md) — 03-27
+- [PR #222: [agento] fix(runtime-antigravity): workspace matching, scrolling, Send button click](sources/pr-222-agento-fix-runtime-antigravity-workspace-matching.md) — 03-27
+- [PR #223: [agento] feat: skeptic Phase 2 - Codex + fail-closed + worker-signals-completion reaction (bd-skp2)](sources/pr-223-agento-feat-skeptic-phase-2-codex-fail-closed-wor.md) — 03-27
+- [PR #224: [agento] fix(backfill): clean up worktree + local branch on claim_failed to prevent cascading poison](sources/pr-224-agento-fix-backfill-clean-up-worktree-local-branc.md) — 03-27
+- [PR #226: [agento] feat: repeatable remotion video render skill + Drive upload pipeline](sources/pr-226-agento-feat-repeatable-remotion-video-render-skil.md) — 03-27
+- [PR #227: [agento] ci: add wholesome structural test gate](sources/pr-227-agento-ci-add-wholesome-structural-test-gate.md) — 03-27
+- [PR #228: [agento] feat: automated PR design doc generator + 33 generated docs (orch-vbt)](sources/pr-228-agento-feat-automated-pr-design-doc-generator-33.md) — 03-27
+- [PR #229: [agento] fix(skeptic-cron): remove cache: pnpm to fix workflow step ordering](sources/pr-229-agento-fix-skeptic-cron-remove-cache-pnpm-to-fix.md) — 03-27
+- [PR #230: [agento] fix(skeptic-cron): remove cache: pnpm from setup-node step](sources/pr-230-agento-fix-skeptic-cron-remove-cache-pnpm-from-se.md) — 03-27
+- [PR #231: [agento] feat: generate design docs on PR open + skeptic design-alignment check](sources/pr-231-agento-feat-generate-design-docs-on-pr-open-skept.md) — 03-27
+- [PR #232: [agento] feat: periodic MCP mail global inbox poll + heartbeat for AO workers](sources/pr-232-agento-feat-periodic-mcp-mail-global-inbox-poll-h.md) — 03-27
+- [PR #233: [agento] fix(skeptic): remove invalid --no-input flag from Claude CLI invocation](sources/pr-233-agento-fix-skeptic-remove-invalid-no-input-flag-f.md) — 03-27
+- [PR #234: [agento] fix: dedup send-to-agent reactions by PR head SHA (bd-1178)](sources/pr-234-agento-fix-dedup-send-to-agent-reactions-by-pr-he.md) — 03-28
+- [PR #235: [agento] chore: create bd-skp2 bead — closed PR fires changes-requested reaction](sources/pr-235-agento-chore-create-bd-skp2-bead-closed-pr-fires.md) — 03-27
+- [PR #236: [agento] fix(gate-5): check isResolved via GraphQL and exclude PR-author comments](sources/pr-236-agento-fix-gate-5-check-isresolved-via-graphql-an.md) — 03-28
+- [PR #237: [agento] feat: add ao skeptic install CLI command (bd-8tpa)](sources/pr-237-agento-feat-add-ao-skeptic-install-cli-command-bd.md) — 03-27
+- [PR #238: [agento] feat: cap send-to-agent retries at 3 + document idempotency (bd-5nxx, bd-5nt5)](sources/pr-238-agento-feat-cap-send-to-agent-retries-at-3-docume.md) — 03-28
+- [PR #239: [agento] chore(skeptic): sync live workflows from skeptic templates](sources/pr-239-agento-chore-skeptic-sync-live-workflows-from-ske.md) — 03-28
+- [PR #240: [agento] feat: 7-green stall loop prevention — cr-loop-guard + comment extraction](sources/pr-240-agento-feat-7-green-stall-loop-prevention-cr-loop.md) — 03-28
+- [PR #242: [agento] fix(launchd): remove KeepAlive from lifecycle-all plist to prevent thrashing](sources/pr-242-agento-fix-launchd-remove-keepalive-from-lifecycl.md) — 03-28
+- [PR #243: [agento] feat: add PR age tracking and stale-PR guardrails to harness](sources/pr-243-agento-feat-add-pr-age-tracking-and-stale-pr-guar.md) — 03-28
+- [PR #247: [agento] fix(skeptic): use codex exec [prompt] instead of broken --print flag](sources/pr-247-agento-fix-skeptic-use-codex-exec-prompt-instead.md) — 03-28
+- [PR #249: [agento] fix: metadata-updater hook -- [agento] prefix guardrail + cmd parsing fixes](sources/pr-249-agento-fix-metadata-updater-hook-agento-prefix-gu.md) — 03-28
+- [PR #250: [agento] chore: improve metadata-updater hook](sources/pr-250-agento-chore-improve-metadata-updater-hook.md) — 03-28
+- [PR #251: [agento] fix(skeptic): include SKIPPED in findExistingVerdict return type cast](sources/pr-251-agento-fix-skeptic-include-skipped-in-findexistin.md) — 03-28
+- [PR #252: [agento] fix(design-doc): break regenerate-loop + strip entity-encoded CURSOR_SUMMARY](sources/pr-252-agento-fix-design-doc-break-regenerate-loop-strip.md) — 03-28
+- [PR #254: [agento] fix(backfill): recover repoDir, extract shared util, fix CR nits](sources/pr-254-agento-fix-backfill-recover-repodir-extract-share.md) — 03-28
+- [PR #255: [agento] fix: replace idx++ pattern with forEach in mergeGate tests](sources/pr-255-agento-fix-replace-idx-pattern-with-foreach-in-me.md) — 03-28
+- [PR #256: [agento] fix(lifecycle): startup race -- isAlive probe bypasses grace period](sources/pr-256-agento-fix-lifecycle-startup-race-isalive-probe-b.md) — 03-28
+- [PR #257: [agento] feat: add verify6Green() pre-merge gate in lifecycle-manager](sources/pr-257-agento-feat-add-verify6green-pre-merge-gate-in-li.md) — 03-28
+- [PR #258: [agento] refactor(skeptic-gate): route skeptic evaluation through AO worker instead of GHA API keys](sources/pr-258-agento-refactor-skeptic-gate-route-skeptic-evalua.md) — 03-28
+- [PR #259: [agento] feat: AO bot account attribution for PR mutations](sources/pr-259-agento-feat-ao-bot-account-attribution-for-pr-mut.md) — 03-29
+- [PR #260: [agento] fix(skeptic): three runtime-breaking gaps in skeptic gate chain](sources/pr-260-agento-fix-skeptic-three-runtime-breaking-gaps-in.md) — 03-28
+- [PR #263: [agento] chore: upstream sync review and P0/P1 cherry-picks](sources/pr-263-agento-chore-upstream-sync-review-and-p0-p1-cherr.md) — 03-29
+- [PR #264: [agento] fix(cli): simplify metadata-updater hook guardrails](sources/pr-264-agento-fix-cli-simplify-metadata-updater-hook-gua.md) — 03-28
+- [PR #265: [agento] fix(design-doc): strip full CURSOR_SUMMARY block — prevent orphan closing tags](sources/pr-265-agento-fix-design-doc-strip-full-cursor-summary-b.md) — 03-29
+- [PR #266: [agento] feat: centralize auto-merge enable/disable configuration (bd-n047)](sources/pr-266-agento-feat-centralize-auto-merge-enable-disable.md) — 03-29
+- [PR #267: [agento] fix(skeptic): match markdown-bold VERDICT format in mergeGate.ts](sources/pr-267-agento-fix-skeptic-match-markdown-bold-verdict-fo.md) — 03-29
+- [PR #268: [agento] feat: deterministic gate-closure action plans for AO workers](sources/pr-268-agento-feat-deterministic-gate-closure-action-pla.md) — 03-29
+- [PR #269: [agento] fix: break infinite commit cycle in generate-pr-design-docs.yml](sources/pr-269-agento-fix-break-infinite-commit-cycle-in-generat.md) — 03-29
+- [PR #270: [agento] fix(skeptic-gate): post VERDICT: SKIPPED fallback when no LLM verdict found](sources/pr-270-agento-fix-skeptic-gate-post-verdict-skipped-fall.md) — 03-29
+- [PR #272: [agento] feat: centralize auto-merge config via autoMerge flag](sources/pr-272-agento-feat-centralize-auto-merge-config-via-auto.md) — 03-29
+- [PR #273: [agento] chore: route all CI test runs to self-hosted runners](sources/pr-273-agento-chore-route-all-ci-test-runs-to-self-hoste.md) — 03-30
+- [PR #276: [agento] fix(skeptic): use ghJsonPaginate for verdict comments + flat() fix](sources/pr-276-agento-fix-skeptic-use-ghjsonpaginate-for-verdict.md) — 03-29
+- [PR #277: [agento] chore: add pre-push merge-conflict check and CR resolution workflow to CLAUDE.md](sources/pr-277-agento-chore-add-pre-push-merge-conflict-check-an.md) — 03-29
+- [PR #278: [agento] fix(skeptic): per-project throttle + skeptic-cron-local tests](sources/pr-278-agento-fix-skeptic-per-project-throttle-skeptic-c.md) — 03-29
+- [PR #279: [agento] fix(harness): add skeptic change verification protocol to CLAUDE.md](sources/pr-279-agento-fix-harness-add-skeptic-change-verificatio.md) — 03-29
+- [PR #280: [agento] feat: supersession-comment gate before gh pr close](sources/pr-280-agento-feat-supersession-comment-gate-before-gh-p.md) — 03-29
+- [PR #281: [agento] fix: use --admin instead of --auto in gh pr merge](sources/pr-281-agento-fix-use-admin-instead-of-auto-in-gh-pr-mer.md) — 03-29
+- [PR #282: fix(skeptic): detect VERDICT: SKIPPED across verdict polling chain](sources/pr-282-fix-skeptic-detect-verdict-skipped-across-verdict.md) — 03-29
+- [PR #283: [agento] fix(harness): Evidence Gate merged-PR bypass + DISMISSED CR stalling + media-check mandate](sources/pr-283-agento-fix-harness-evidence-gate-merged-pr-bypass.md) — 03-29
+- [PR #285: [agento] test(skeptic): add skeptic-chain-integration test validating full skeptic chain](sources/pr-285-agento-test-skeptic-add-skeptic-chain-integration.md) — 03-29
+- [PR #286: [agento] fix(skeptic): route eval via AO worker + gate on 6-green eligibility](sources/pr-286-agento-fix-skeptic-route-eval-via-ao-worker-gate.md) — 03-29
+- [PR #287: [agento] fix(hooks): metadata-updater regex guard and sed escape improvements](sources/pr-287-agento-fix-hooks-metadata-updater-regex-guard-and.md) — 03-29
+- [PR #288: [agento] feat: add productivity-based stall detection to lifecycle-worker](sources/pr-288-agento-feat-add-productivity-based-stall-detectio.md) — 03-29
+- [PR #289: [agento] fix(workspace-worktree): pre-flight disambiguate origin/main ref before git worktree add](sources/pr-289-agento-fix-workspace-worktree-pre-flight-disambig.md) — 03-29
+- [PR #290: [agento] feat(video): Remotion video with cute animated robots — Daily Lives of Workers](sources/pr-290-agento-feat-video-remotion-video-with-cute-animat.md) — 03-29
+- [PR #291: [agento] fix(skeptic): deterministic gate + 20min cron with AO-powered LLM merge](sources/pr-291-agento-fix-skeptic-deterministic-gate-20min-cron.md) — 03-29
+- [PR #292: [agento] feat(skeptic): harness-level claim-verifier for skeptic gate assertions](sources/pr-292-agento-feat-skeptic-harness-level-claim-verifier.md) — 03-29
+- [PR #293: [agento] docs: refresh skeptic architecture with current component map](sources/pr-293-agento-docs-refresh-skeptic-architecture-with-cur.md) — 03-29
+- [PR #295: [agento] feat(lifecycle): add --force flag to bypass PID-file lock (orch-886k)](sources/pr-295-agento-feat-lifecycle-add-force-flag-to-bypass-pi.md) — 03-30
+- [PR #296: [agento] fix(start): guard main repo branch invariant in start-all.sh and ao start](sources/pr-296-agento-fix-start-guard-main-repo-branch-invariant.md) — 03-30
+- [PR #297: [agento] fix: remove hardcoded test command and fix green criteria count (bd-ppm)](sources/pr-297-agento-fix-remove-hardcoded-test-command-and-fix.md) — 03-29
+- [PR #298: [agento] feat(session-reaper): add session TTL and dead-tmux reaping (orch-ju1)](sources/pr-298-agento-feat-session-reaper-add-session-ttl-and-de.md) — 03-30
+- [PR #299: [agento] feat(lifecycle): backfill spawns workers for dead-agent CHANGES_REQUESTED PRs](sources/pr-299-agento-feat-lifecycle-backfill-spawns-workers-for.md) — 03-30
+- [PR #300: [agento] fix(skeptic-cron): use newest check-run for gate pass detection (bd-xyxg)](sources/pr-300-agento-fix-skeptic-cron-use-newest-check-run-for.md) — 03-29
+- [PR #301: [agento] fix: kill tmux session when PR merges/closes (bd-s6z1)](sources/pr-301-agento-fix-kill-tmux-session-when-pr-merges-close.md) — 03-30
+- [PR #302: [agento] fix: message-content hash dedup for send-to-agent reaction (bd-n039)](sources/pr-302-agento-fix-message-content-hash-dedup-for-send-to.md) — 03-30
+- [PR #303: [agento] fix: skeptic VERDICT requires CR APPROVED before PASS (bd-kvvx)](sources/pr-303-agento-fix-skeptic-verdict-requires-cr-approved-b.md) — 03-30
+- [PR #304: [agento] feat(doctor): unified ao-checks.sh — deduplicate setup/doctor + operational health checks](sources/pr-304-agento-feat-doctor-unified-ao-checks-sh-deduplica.md) — 03-30
+- [PR #305: [agento] fix(harness): lifecycle-worker health checks + start-all.sh pgrep fix (bd-rbgp)](sources/pr-305-agento-fix-harness-lifecycle-worker-health-checks.md) — 03-30
+- [PR #306: [agento] feat(session): slash command routing for claude-code workers](sources/pr-306-agento-feat-session-slash-command-routing-for-cla.md) — 03-30
+- [PR #307: [agento] feat: add skeptic-advice reaction — forward FAIL verdicts to workers](sources/pr-307-agento-feat-add-skeptic-advice-reaction-forward-f.md) — 03-30
+- [PR #308: [agento] feat(skeptic): structured FAIL output with Background/Problem/Solution/Consultation sections](sources/pr-308-agento-feat-skeptic-structured-fail-output-with-b.md) — 03-30
+- [PR #309: [agento] feat: slash command web discovery for non-Claude agents](sources/pr-309-agento-feat-slash-command-web-discovery-for-non-c.md) — 03-30
+- [PR #310: [agento] fix(skeptic-gate): robust wait loop for Gate1 CI checks](sources/pr-310-agento-fix-skeptic-gate-robust-wait-loop-for-gate.md) — 03-30
+- [PR #311: [agento] fix: metadata-updater.sh regex fix and simplification](sources/pr-311-agento-fix-metadata-updater-sh-regex-fix-and-simp.md) — 03-30
+- [PR #312: [agento] fix: metadata-updater.sh regex fix and simplification](sources/pr-312-agento-fix-metadata-updater-sh-regex-fix-and-simp.md) — 03-30
+- [PR #313: [agento] fix(merge-gate): detect coderabbitai author with or without [bot] suffix](sources/pr-313-agento-fix-merge-gate-detect-coderabbitai-author.md) — 03-30
+- [PR #314: [agento] fix(lifecycle): skeptic gate never-dispatches for first-seen and ci_failed sessions (wc-zsw)](sources/pr-314-agento-fix-lifecycle-skeptic-gate-never-dispatche.md) — 03-31
+- [PR #315: [agento] fix(security): restore fork PR runner protection and ARM64 gitleaks checksum](sources/pr-315-agento-fix-security-restore-fork-pr-runner-protec.md) — 03-31
+- [PR #316: [agento] fix(runtime-antigravity): align create() flow with actual Manager UI](sources/pr-316-agento-fix-runtime-antigravity-align-create-flow.md) — 03-31
+- [PR #317: [agento] docs(roadmap): packages code audit — cleanup, plugins, Composio alignment](sources/pr-317-agento-docs-roadmap-packages-code-audit-cleanup-p.md) — 03-31
+- [PR #318: [agento] docs(code-review): codebase audit findings — cleanup, composio collision, plugin candidates](sources/pr-318-agento-docs-code-review-codebase-audit-findings-c.md) — 03-31
+- [PR #319: [agento] feat(skeptic): fire skeptic immediately on CR approval (no 30-min wait)](sources/pr-319-agento-feat-skeptic-fire-skeptic-immediately-on-c.md) — 03-31
+- [PR #320: [agento] feat(skeptic-cron): SHA-based dedup — skip re-evaluation when HEAD SHA unchanged](sources/pr-320-agento-feat-skeptic-cron-sha-based-dedup-skip-re.md) — 03-31
+- [PR #321: [agento] fix(evidence-gate): reject simulated/placeholder evidence content (bd-806w)](sources/pr-321-agento-fix-evidence-gate-reject-simulated-placeho.md) — 03-31
+- [PR #322: [agento] fix(skeptic): evaluate evidence authenticity by default — remove N/A escape hatch (bd-7x6y)](sources/pr-322-agento-fix-skeptic-evaluate-evidence-authenticity.md) — 03-31
+- [PR #323: [agento] docs(evolve-loop): document bd-8khr Skeptic Gate branch protection fix](sources/pr-323-agento-docs-evolve-loop-document-bd-8khr-skeptic.md) — 03-31
+- [PR #324: [agento] fix(harness): metadata-updater env-strip and git checkout detection](sources/pr-324-agento-fix-harness-metadata-updater-env-strip-and.md) — 03-31
+- [PR #325: [agento] novel: Chapter 14 (Skeptic self-merge evolution) + Composio Chapter 13](sources/pr-325-agento-novel-chapter-14-skeptic-self-merge-evolut.md) — 03-31
+- [PR #326: [agento] test(lifecycle): add bd-n039 send-to-agent SHA dedup unit tests](sources/pr-326-agento-test-lifecycle-add-bd-n039-send-to-agent-s.md) — 03-31
+- [PR #327: [agento] feat(skeptic-gate): add Gate 6 evidence format check (advisory)](sources/pr-327-agento-feat-skeptic-gate-add-gate-6-evidence-form.md) — 03-31
+- [PR #328: [agento] fix(skeptic): change VERDICT: SKIPPED to VERDICT: FAIL (fail-closed)](sources/pr-328-agento-fix-skeptic-change-verdict-skipped-to-verd.md) — 03-31
+- [PR #329: [agento] feat(skeptic): add Rule 12 goals section verification](sources/pr-329-agento-feat-skeptic-add-rule-12-goals-section-ver.md) — 03-31
+- [PR #330: [agento] docs: evolve loop — /antig dispatch when tmux cap blocks](sources/pr-330-agento-docs-evolve-loop-antig-dispatch-when-tmux.md) — 04-02
+- [PR #331: [agento] fix: pass and normalize Cursor model defaults](sources/pr-331-agento-fix-pass-and-normalize-cursor-model-defaul.md) — 04-03
+- [PR #332: [agento] fix(runtime-antigravity): peekaboo exec maxBuffer + JSON parse errors (bd-5kp follow-up)](sources/pr-332-agento-fix-runtime-antigravity-peekaboo-exec-maxb.md) — 04-01
+- [PR #333: [agento] fix(plugin-registry): warn on failed plugin loads + add monorepo-relative fallback](sources/pr-333-agento-fix-plugin-registry-warn-on-failed-plugin.md) — 04-03
+- [PR #334: [agento] fix(gemini): pass through Gemini-native model IDs + add missing CLI deps](sources/pr-334-agento-fix-gemini-pass-through-gemini-native-mode.md) — 04-02
+- [PR #335: [agento] feat(scripts): curl installer for skeptic CI in consumer repos](sources/pr-335-agento-feat-scripts-curl-installer-for-skeptic-ci.md) — 04-02
+- [PR #337: [agento] feat(core): add CLI-keyed model defaults](sources/pr-337-agento-feat-core-add-cli-keyed-model-defaults.md) — 04-01
+- [PR #338: [agento] feat: add MiniMax agent plugin](sources/pr-338-agento-feat-add-minimax-agent-plugin.md) — 04-01
+- [PR #339: [agento] docs: PR rescue preflight script + 7-green harness guardrails](sources/pr-339-agento-docs-pr-rescue-preflight-script-7-green-ha.md) — 04-03
+- [PR #340: [agento] policy(evidence): require reproducible gist + tmux/UI proof bundle](sources/pr-340-agento-policy-evidence-require-reproducible-gist.md) — 04-03
+- [PR #341: [agento] fix: worktree phase-2 scan when cwd is / (bd-d0la)](sources/pr-341-agento-fix-worktree-phase-2-scan-when-cwd-is-bd-d.md) — 04-02
+- [PR #342: [agento] fix(hooks): make metadata-updater.sh BSD-sed compatible + remove git show-ref guard](sources/pr-342-agento-fix-hooks-make-metadata-updater-sh-bsd-sed.md) — 04-02
+- [PR #343: [agento] fix(scm-github): fail-closed CI status when no checks reported (bd-jp7q)](sources/pr-343-agento-fix-scm-github-fail-closed-ci-status-when.md) — 04-02
+- [PR #344: [agento] feat(novel): daily entries as separate files + canonical plist path](sources/pr-344-agento-feat-novel-daily-entries-as-separate-files.md) — 04-02
+- [PR #346: [agento] fix(skeptic-cron): make evidence gate fail-closed (live + template)](sources/pr-346-agento-fix-skeptic-cron-make-evidence-gate-fail-c.md) — 04-03
+- [PR #348: [agento] fix(skeptic): deterministic evidence authenticity check + fix evidenceLabel display](sources/pr-348-agento-fix-skeptic-deterministic-evidence-authent.md) — 04-02
+- [PR #349: [agento] fix: zombie sessions detected via session.status not pr.state (bd-ara.2)](sources/pr-349-agento-fix-zombie-sessions-detected-via-session-s.md) — 04-03
+- [PR #352: [agento] metrics: add first-touch/second-touch rate calculator](sources/pr-352-agento-metrics-add-first-touch-second-touch-rate.md) — 04-04
+- [PR #353: [agento] fix(evidence): address CR review — integration media formats Bundle v2 restore](sources/pr-353-agento-fix-evidence-address-cr-review-integration.md) — 04-03
+- [PR #357: [agento] fix(novel-daily + CI): launchd date wrapper, auto commit/push, evidence-gate strong-proof + wholesome fixes](sources/pr-357-agento-fix-novel-daily-ci-launchd-date-wrapper-au.md) — 04-03
+- [PR #358: [agento] fix: map permissions=auto to --dangerously-skip-permissions](sources/pr-358-agento-fix-map-permissions-auto-to-dangerously-sk.md) — 04-03
+- [PR #359: [agento] fix: zombie sweep false-positives (wc-zsw)](sources/pr-359-agento-fix-zombie-sweep-false-positives-wc-zsw.md) — 04-03
+- [PR #360: [agento] fix(skeptic-cron): Evidence Gate jq filter + CLAUDE.md rule + wholesome N/A fix](sources/pr-360-agento-fix-skeptic-cron-evidence-gate-jq-filter-c.md) — 04-04
+- [PR #361: [agento] ci: add builtin plugin deps gate + fix wholesome evidence label patterns](sources/pr-361-agento-ci-add-builtin-plugin-deps-gate-fix-wholes.md) — 04-04
+- [PR #362: [agento] test: add jq-filter-test-coverage for skeptic workflows](sources/pr-362-agento-test-add-jq-filter-test-coverage-for-skept.md) — 04-04
+- [PR #364: [agento] feat: evidence standards — Cursor-style media capture + skeptic 5-point bundle](sources/pr-364-agento-feat-evidence-standards-cursor-style-media.md) — 04-04
+- [PR #365: [agento] feat(skeptic-gate): add actionable guidance when evidence-gate fails](sources/pr-365-agento-feat-skeptic-gate-add-actionable-guidance.md) — 04-04
+- [PR #367: [agento] fix(metadata-updater): env-strip regex, sed escaping, git detection refactor](sources/pr-367-agento-fix-metadata-updater-env-strip-regex-sed-e.md) — 04-04
+- [PR #373: [agento] fix(harness): add churn-guard PreToolUse hook to block duplicate-file PRs](sources/pr-373-agento-fix-harness-add-churn-guard-pretooluse-hoo.md) — 04-04
+- [PR #374: [agento] fix(metadata-updater): use BASH_REMATCH[2] not [1] in env-strip regex](sources/pr-374-agento-fix-metadata-updater-use-bash-rematch-2-no.md) — 04-04
+- [PR #375: [agento] fix(evidence-gate): accept both **label**: and **label:** markdown formats](sources/pr-375-agento-fix-evidence-gate-accept-both-label-and-la.md) — 04-04
+- [PR #376: [agento] docs: manager evolve loop architecture design](sources/pr-376-agento-docs-manager-evolve-loop-architecture-desi.md) — 04-04
+- [PR #377: [agento] test(core): stalled-worker-auditor unit tests](sources/pr-377-agento-test-core-stalled-worker-auditor-unit-test.md) — 04-04
+- [PR #378: [agento] feat(core): implement manager evolve loop config + prompt injection](sources/pr-378-agento-feat-core-implement-manager-evolve-loop-co.md) — 04-04
+- [PR #379: [agento] fix: refactor zombie sweep detection to use branch names (wc-zsw)](sources/pr-379-agento-fix-refactor-zombie-sweep-detection-to-use.md) — 04-04
+- [PR #380: [agento] feat(eloop): add healthy-cycle fast path + session budget (bd-l5ko)](sources/pr-380-agento-feat-eloop-add-healthy-cycle-fast-path-ses.md) — 04-05
+- [PR #381: [agento] feat(eloop): add Phase 7 recap + Phase 8 auto-cancel on idle cycles (bd-aosy)](sources/pr-381-agento-feat-eloop-add-phase-7-recap-phase-8-auto.md) — 04-05
+- [PR #383: [agento] docs: slim CLAUDE.md and add roadmap fork reference](sources/pr-383-agento-docs-slim-claude-md-and-add-roadmap-fork-r.md) — 04-05
+- [PR #384: [agento] docs: fix tryClaudePrint flag docs to match implementation](sources/pr-384-agento-docs-fix-tryclaudeprint-flag-docs-to-match.md) — 04-05
+- [PR #385: [agento] feat: default AO agent to cursor](sources/pr-385-agento-feat-default-ao-agent-to-cursor.md) — 04-05
+- [PR #386: [agento] chore(beads): compaction telemetry and Claude Code context follow-ups](sources/pr-386-agento-chore-beads-compaction-telemetry-and-claud.md) — 04-06
+- [PR #387: [agento] docs(roadmap): context compaction optimization + fork reference link](sources/pr-387-agento-docs-roadmap-context-compaction-optimizati.md) — 04-06
+- [PR #389: [agento] chore: context compaction research + hygiene audit](sources/pr-389-agento-chore-context-compaction-research-hygiene.md) — 04-11
+- [PR #390: [agento] docs(roadmap): evidence theater diagnosis and proposed fixes](sources/pr-390-agento-docs-roadmap-evidence-theater-diagnosis-an.md) — 04-06
+- [PR #392: [agento] fix(evidence-gate): Fix 2 agentRules media wire + Fix 3 claim floor enforcement](sources/pr-392-agento-fix-evidence-gate-fix-2-agentrules-media-w.md) — 04-09
+- [PR #393: [agento] docs(config): document evolveLoop config block in agent-orchestrator.yaml.example (bd-elcfg)](sources/pr-393-agento-docs-config-document-evolveloop-config-blo.md) — 04-08
+- [PR #394: [agento] fix(evidence-gate): validate Terminal media URL is real artifact for integration+ claims (bd-vidcap)](sources/pr-394-agento-fix-evidence-gate-validate-terminal-media.md) — 04-11
+- [PR #396: [agento] fix: move MCP agent mail token to env vars (orch-havc)](sources/pr-396-agento-fix-move-mcp-agent-mail-token-to-env-vars.md) — 04-10
+- [PR #397: [agento] fix: ensure terminal sessions are reaped by lifecycle-manager (orch-v7oa)](sources/pr-397-agento-fix-ensure-terminal-sessions-are-reaped-by.md) — 04-10
+- [PR #398: [agento] fix: handle standard JSON session files in agent-base (orch-iv30)](sources/pr-398-agento-fix-handle-standard-json-session-files-in.md) — 04-08
+- [PR #399: [agento] fix(cli): register gemini plugin and fix skeptic regexes](sources/pr-399-agento-fix-cli-register-gemini-plugin-and-fix-ske.md) — 04-11
+- [PR #401: [agento] fix: keep MCP mail auth working in worktree settings.json](sources/pr-401-agento-fix-keep-mcp-mail-auth-working-in-worktree.md) — 04-11
+- [PR #402: [agento] chore: close bd-8y9 lifecycle API investigation beads (jc-investigate-7927)](sources/pr-402-agento-chore-close-bd-8y9-lifecycle-api-investiga.md) — 04-07
+- [PR #403: [agento] feat: prepend [agento] on gh pr create via hook updatedInput (bd-pfx)](sources/pr-403-agento-feat-prepend-agento-on-gh-pr-create-via-ho.md) — 04-11
+- [PR #404: [agento] fix(backfill): make backfillAllPRs opt-out (default on)](sources/pr-404-agento-fix-backfill-make-backfillallprs-opt-out-d.md) — 04-07
+- [PR #405: [agento] chore(novel): ao-spawn daily runner + video evidence roadmap doc](sources/pr-405-agento-chore-novel-ao-spawn-daily-runner-video-ev.md) — 04-11
+- [PR #406: [agento] fix: stabilize backfill warnings and PR 406 CI](sources/pr-406-agento-fix-stabilize-backfill-warnings-and-pr-406.md) — 04-11
+- [PR #408: [agento] fix(start-all): add --force override + health check for lifecycle worker startup](sources/pr-408-agento-fix-start-all-add-force-override-health-ch.md) — 04-07
+- [PR #410: [agento] fix: restore lifecycle-all watchdog self-heal](sources/pr-410-agento-fix-restore-lifecycle-all-watchdog-self-he.md) — 04-09
+- [PR #411: [agento] fix(core): prioritize modelByCli over generic model config](sources/pr-411-agento-fix-core-prioritize-modelbycli-over-generi.md) — 04-08
+- [PR #412: [agento] fix: restart PR work after restore and claim](sources/pr-412-agento-fix-restart-pr-work-after-restore-and-clai.md) — 04-09
+- [PR #413: [agento] fix: split managed OpenClaw staging and prod configs](sources/pr-413-agento-fix-split-managed-openclaw-staging-and-pro.md) — 04-11
+- [PR #414: [agento] fix: AO Codex self-heal for lifecycle + config path](sources/pr-414-agento-fix-ao-codex-self-heal-for-lifecycle-confi.md) — 04-08
+- [PR #415: [agento] fix(config): OpenClaw home path precedence + roadmap (bd-9nvf, bd-qaiz)](sources/pr-415-agento-fix-config-openclaw-home-path-precedence-r.md) — 04-09
+- [PR #416: [agento] fix(harness): support run_shell_command tool name (Gemini CLI)](sources/pr-416-agento-fix-harness-support-run-shell-command-tool.md) — 04-11
+- [PR #417: [agento] fix(scm-github): fail closed empty reviewDecision normalization](sources/pr-417-agento-fix-scm-github-fail-closed-empty-reviewdec.md) — 04-11
+- [PR #418: [agento] fix: split managed OpenClaw staging and prod configs](sources/pr-418-agento-fix-split-managed-openclaw-staging-and-pro.md) — 04-11
+- [PR #419: [agento] feat: --strict-mcp-config for ~16k token savings](sources/pr-419-agento-feat-strict-mcp-config-for-16k-token-savin.md) — 04-09
+- [PR #420: [agento] fix(scm-github): reset AO-managed files before dirty check](sources/pr-420-agento-fix-scm-github-reset-ao-managed-files-befo.md) — 04-09
+- [PR #421: [agento] fix(core): disambiguate orchestrator session prefixes](sources/pr-421-agento-fix-core-disambiguate-orchestrator-session.md) — 04-11
+- [PR #422: [agento] fix(agent-plugins): auto-prefix gh pr create titles](sources/pr-422-agento-fix-agent-plugins-auto-prefix-gh-pr-create.md) — 04-11
+- [PR #423: [agento] fix(cli): remove duplicate timeout in doctor-script.test.ts (bd-doctest)](sources/pr-423-agento-fix-cli-remove-duplicate-timeout-in-doctor.md) — 04-11
+- [PR #424: [agento] fix(wholesome): narrow eslint-disable filter + add pr-403 design doc](sources/pr-424-agento-fix-wholesome-narrow-eslint-disable-filter.md) — 04-11
+- [PR #425: [agento] fix(core): address deferred bugs from PR #421 session-prefix work](sources/pr-425-agento-fix-core-address-deferred-bugs-from-pr-421.md) — 04-11
+- [PR #426: [agento] fix(skeptic): fix 3 bugs causing false VERDICT:FAIL in lifecycle-worker env](sources/pr-426-agento-fix-skeptic-fix-3-bugs-causing-false-verdi.md) — 04-11
+- [PR #427: [agento] feat(agent-claude-code): plugin-level MiniMax routing via model prefix](sources/pr-427-agento-feat-agent-claude-code-plugin-level-minima.md) — 04-11
+- [PR #428: [agento] fix(skeptic): LLM fallback chain codex→claude→gemini](sources/pr-428-agento-fix-skeptic-llm-fallback-chain-codex-claud.md) — 04-11
+- [PR #429: [agento] rename: skeptic-gate.yml → green-gate.yml (CI gate is not LLM-based)](sources/pr-429-agento-rename-skeptic-gate-yml-green-gate-yml-ci.md) — 04-11
+- [PR #430: [agento] fix(scm-github): handle non-AO worktree branch conflicts via ref-based recovery](sources/pr-430-agento-fix-scm-github-handle-non-ao-worktree-bran.md) — 04-11
+- [PR #1: Add RPGClaw MVP Design Doc](sources/pr-1-add-rpgclaw-mvp-design-doc.md) — 02-17
+- [PR #2: WorldClaw: Fix P0/P1 blockers: SSE streaming, state reducer, testing, living-world simulation](sources/pr-2-worldclaw-fix-p0-p1-blockers-sse-streaming-state-r.md) — 02-20
+- [PR #3: Add Codex copilot-process skill mirroring Claude copilot workflow](sources/pr-3-add-codex-copilot-process-skill-mirroring-claude-c.md) — 02-17
+- [PR #6: feat: MVP TDD roadmap implementation](sources/pr-6-feat-mvp-tdd-roadmap-implementation.md) — 02-22
+- [PR #7: Expand system instruction with layered cs8 mechanics](sources/pr-7-expand-system-instruction-with-layered-cs8-mechani.md) — 02-22
+- [PR #8: Add prompt contract manifest, 9-layer assertions, and LLM output schema/tests](sources/pr-8-add-prompt-contract-manifest-9-layer-assertions-an.md) — 02-22
+- [PR #9: Add smoke campaign test and trace coverage](sources/pr-9-add-smoke-campaign-test-and-trace-coverage.md) — 02-22
+- [PR #10: fix: preserve system_prompt context with SYSTEM_INSTRUCTION + transport capture fallback](sources/pr-10-fix-preserve-system-prompt-context-with-system-ins.md) — 02-22
+- [PR #11: Unify local server runtime + fallback persistence + setup wizard OpenClaw proof](sources/pr-11-unify-local-server-runtime-fallback-persistence-se.md) — 02-23
+- [PR #12: test(ui): add real OpenClaw setup wizard smoke test with probe validation](sources/pr-12-test-ui-add-real-openclaw-setup-wizard-smoke-test.md) — 02-22
+- [PR #13: Add design plan for react-native-ai integration into mobile app](sources/pr-13-add-design-plan-for-react-native-ai-integration-in.md) — 02-22
+- [PR #14: Design roadmap, UI styleguide, backend turn route, and test infra cleanup](sources/pr-14-design-roadmap-ui-styleguide-backend-turn-route-an.md) — 02-23
+- [PR #15: Feat: WorldClaw ReactNative](sources/pr-15-feat-worldclaw-reactnative.md) — 02-25
+- [PR #17: docs: restore styleguide.html and twin_dragon.webp](sources/pr-17-docs-restore-styleguide-html-and-twin-dragon-webp.md) — 02-24
+- [PR #18: Fix: Restore GET SSE support and harden bgTheme / star logic](sources/pr-18-fix-restore-get-sse-support-and-harden-bgtheme-sta.md) — 02-24
+- [PR #19: feat: move SQLite DB from repo root to ~/.worldai_claw/](sources/pr-19-feat-move-sqlite-db-from-repo-root-to-worldai-claw.md) — 02-25
+- [PR #20: feat(testing): campaign evidence export with player input](sources/pr-20-feat-testing-campaign-evidence-export-with-player.md) — 02-25
+- [PR #22: fix: prevent JSON leak and generic fallback choices](sources/pr-22-fix-prevent-json-leak-and-generic-fallback-choices.md) — 02-26
+- [PR #23: docs: Living Companions feature roadmap](sources/pr-23-docs-living-companions-feature-roadmap.md) — 02-26
+- [PR #24: fix(mobile,web,backend): MVP P1 design gaps, SSE migration, schema alignment](sources/pr-24-fix-mobile-web-backend-mvp-p1-design-gaps-sse-migr.md) — 02-27
+- [PR #25: feat: WorldClaw v1.4 — Full Design Implementation (Phases 1-6)](sources/pr-25-feat-worldclaw-v1-4-full-design-implementation-pha.md) — 02-28
+- [PR #26: Ralph/pr25 bugfixes](sources/pr-26-ralph-pr25-bugfixes.md) — 02-28
+- [PR #28: Update AGENTS and CLAUDE instructions](sources/pr-28-update-agents-and-claude-instructions.md) — 03-05
+- [PR #30: feat(phases 2,4,5): WorldClaw Autonomy Engine, On-Chain Anchoring, P2P Sync — 18 stories complete](sources/pr-30-feat-phases-2-4-5-worldclaw-autonomy-engine-on-cha.md) — 02-28
+- [PR #31: feat: Living Companions Phases 1-3 — autonomous companions with CRUD, DM force-edit, and catchup](sources/pr-31-feat-living-companions-phases-1-3-autonomous-compa.md) — 03-05
+- [PR #32: test: testing_mcp improvements — filter fix, companion ticks, faction endpoint, strong assertions](sources/pr-32-test-testing-mcp-improvements-filter-fix-companion.md) — 03-02
+- [PR #33: feat: WorldClaw v1.4 tests and configuration](sources/pr-33-feat-worldclaw-v1-4-tests-and-configuration.md) — 03-03
+- [PR #34: fix(backend): strip {"thinking":...} and {"choices":[...]} JSON leaks from scene_text](sources/pr-34-fix-backend-strip-thinking-and-choices-json-leaks.md) — 03-03
+- [PR #35: docs: Legacy Chains design (immortal player-owned NPCs)](sources/pr-35-docs-legacy-chains-design-immortal-player-owned-np.md) — 03-05
+- [PR #36: docs: Warp-like terminal + Mission Control design and mockups](sources/pr-36-docs-warp-like-terminal-mission-control-design-and.md) — 03-05
+- [PR #38: docs: add MCP HTTP equivalence spec](sources/pr-38-docs-add-mcp-http-equivalence-spec.md) — 03-05
+- [PR #40: fix(living-companions): consolidate IDOR checks, require dm_anchor caller, reset repo singleton, harden catchup test](sources/pr-40-fix-living-companions-consolidate-idor-checks-requ.md) — 03-04
+- [PR #41: chore: add local.sh symlink](sources/pr-41-chore-add-local-sh-symlink.md) — 03-04
+- [PR #42: test(backend): add unit tests for worldSchedulerEnabled](sources/pr-42-test-backend-add-unit-tests-for-worldschedulerenab.md) — 03-05
+- [PR #43: feat(dm): audit logging for DM force-edit MCP tools](sources/pr-43-feat-dm-audit-logging-for-dm-force-edit-mcp-tools.md) — 03-05
+- [PR #44: fix: JobLedger durability + TurnCoordinator multi-party isolation](sources/pr-44-fix-jobledger-durability-turncoordinator-multi-par.md) — 03-05
+- [PR #50: feat: Living Companions Phase 1-2 completion](sources/pr-50-feat-living-companions-phase-1-2-completion.md) — 03-05
+- [PR #51: refactor: codebase simplification — 1,518 lines removed](sources/pr-51-refactor-codebase-simplification-1-518-lines-remov.md) — 03-05
+- [PR #52: fix: resolve pre-existing test failures + update stale doc constants](sources/pr-52-fix-resolve-pre-existing-test-failures-update-stal.md) — 03-05
+- [PR #53: fix: remove deprecated npm rebuild config warnings](sources/pr-53-fix-remove-deprecated-npm-rebuild-config-warnings.md) — 03-06
+- [PR #54: dev1772711573](sources/pr-54-dev1772711573.md) — 03-08
+- [PR #55: fix: narrator prompt injections, location continuity, AGGRESSIVE companion targeting](sources/pr-55-fix-narrator-prompt-injections-location-continuity.md) — 03-07
+- [PR #57: fix: harden living-world generator invariants and concurrency](sources/pr-57-fix-harden-living-world-generator-invariants-and-c.md) — 03-10
+- [PR #62: migrate: migrate .beads to beads_rust (br) sqlite workflow](sources/pr-62-migrate-migrate-beads-to-beads-rust-br-sqlite-work.md) — 03-10
+- [PR #63: feat: add LLM world simulation test harness (3 worlds × 20 ticks)](sources/pr-63-feat-add-llm-world-simulation-test-harness-3-world.md) — 03-25
+- [PR #65: fix: Add CodeRabbit ping commands (Add Claude command definitions for CodeRabbit review workflows all good?, post-only-after-push)](sources/pr-65-fix-add-coderabbit-ping-commands-add-claude-comman.md) — 03-25
+- [PR #66: feat(mobile): styleguide iOS refresh + simulator proof artifacts](sources/pr-66-feat-mobile-styleguide-ios-refresh-simulator-proof.md) — 03-26
+- [PR #67: ci: CodeRabbit ping on push (CodeRabbit review fixes only)](sources/pr-67-ci-coderabbit-ping-on-push-coderabbit-review-fixes.md) — 03-12
+- [PR #68: Design: LLM-Driven Custom Campaign Wizard](sources/pr-68-design-llm-driven-custom-campaign-wizard.md) — 03-26
+- [PR #69: chore: CodeRabbit ping - use 10-min duplicate cooldown](sources/pr-69-chore-coderabbit-ping-use-10-min-duplicate-cooldow.md) — 03-15
+- [PR #70: feat: add agent orchestrator lifecycle setup for worldai_claw](sources/pr-70-feat-add-agent-orchestrator-lifecycle-setup-for-wo.md) — 03-26
+- [PR #71: fix(mobile): remove networkClient singleton that bypasses AppContext](sources/pr-71-fix-mobile-remove-networkclient-singleton-that-byp.md) — 03-26
+- [PR #72: feat: define per-turn context injection format (worldai_claw-n3o)](sources/pr-72-feat-define-per-turn-context-injection-format-worl.md) — 03-26
+- [PR #73: feat(game): implement D&D 5e game-rule validation in state reducer (worldai_claw-mp8)](sources/pr-73-feat-game-implement-d-d-5e-game-rule-validation-in.md) — 03-26
+- [PR #74: fix: replace non-deterministic Math.random and Date.now in companion logic (WC-a22, wc-qh7)](sources/pr-74-fix-replace-non-deterministic-math-random-and-date.md) — 03-26
+- [PR #84: feat: add Layer 4 relationship/reputation invariants](sources/pr-84-feat-add-layer-4-relationship-reputation-invariant.md) — 03-25
+- [PR #85: test: add contract phrase assertions for all 9 instruction layers](sources/pr-85-test-add-contract-phrase-assertions-for-all-9-inst.md) — 03-26
+- [PR #86: feat: add MANDATORY XP EARNED narrative box to Layer 6 (level_up)](sources/pr-86-feat-add-mandatory-xp-earned-narrative-box-to-laye.md) — 03-26
+- [PR #87: feat: add dice mandate and no-dice-in-narrative rule to system instruction](sources/pr-87-feat-add-dice-mandate-and-no-dice-in-narrative-rul.md) — 03-26
+- [PR #88: feat: add combat structure protocol (Layer 3) to system instruction](sources/pr-88-feat-add-combat-structure-protocol-layer-3-to-syst.md) — 03-26
+- [PR #89: feat(wc-1xn): add prompt deprecation policy for canonical fields](sources/pr-89-feat-wc-1xn-add-prompt-deprecation-policy-for-cano.md) — 03-26
+- [PR #90: feat(system): add STRICT XP & state change consistency rule](sources/pr-90-feat-system-add-strict-xp-state-change-consistency.md) — 03-26
+- [PR #91: feat: add evidence-fidelity contract validation to system_instruction.ts](sources/pr-91-feat-add-evidence-fidelity-contract-validation-to.md) — 03-26
+- [PR #92: feat: unsupported/ambiguous action handling rules](sources/pr-92-feat-unsupported-ambiguous-action-handling-rules.md) — 03-26
+- [PR #93: feat: companion action persistence (WC-9rl)](sources/pr-93-feat-companion-action-persistence-wc-9rl.md) — 03-26
+- [PR #94: feat: wire processCompanionTicks into WorldScheduler tick loop](sources/pr-94-feat-wire-processcompanionticks-into-worldschedule.md) — 03-26
+- [PR #95: feat: add catch-up narration endpoint](sources/pr-95-feat-add-catch-up-narration-endpoint.md) — 03-26
+- [PR #96: test: snake_case regression guard for companion action deltas (WC-a7g)](sources/pr-96-test-snake-case-regression-guard-for-companion-act.md) — 03-26
+- [PR #97: fix: harden determinism tests for item ID stability (wc-qh7)](sources/pr-97-fix-harden-determinism-tests-for-item-id-stability.md) — 03-26
+- [PR #98: fix: incorporate world day/hour into companion RNG seed (WC-a55)](sources/pr-98-fix-incorporate-world-day-hour-into-companion-rng.md) — 03-26
+- [PR #99: test: TDD regression tests for chain_anchor.ts anchor() config validation (WC-vsr)](sources/pr-99-test-tdd-regression-tests-for-chain-anchor-ts-anch.md) — 03-26
+- [PR #100: test: add IPFS-after-SQLite ordering regression tests (WC-3pg)](sources/pr-100-test-add-ipfs-after-sqlite-ordering-regression-tes.md) — 03-26
+- [PR #101: fix: enforce anchor ownership access control (WC-b65)](sources/pr-101-fix-enforce-anchor-ownership-access-control-wc-b65.md) — 03-26
+- [PR #102: fix: correct Explorer/Quester XP accumulation (WC-4j2)](sources/pr-102-fix-correct-explorer-quester-xp-accumulation-wc-4j.md) — 03-26
+- [PR #103: fix: transaction-safe entity_chain append (WC-dto)](sources/pr-103-fix-transaction-safe-entity-chain-append-wc-dto.md) — 03-26
+- [PR #104: test: TDD regression tests for fork() timestamp preservation (WC-fr8)](sources/pr-104-test-tdd-regression-tests-for-fork-timestamp-prese.md) — 03-26
+- [PR #105: feat: add verifyCids() for real IPFS content verification (WC-hnt)](sources/pr-105-feat-add-verifycids-for-real-ipfs-content-verifica.md) — 03-26
+- [PR #106: fix: correct catch-up narration level gain calculation (WC-dln)](sources/pr-106-fix-correct-catch-up-narration-level-gain-calculat.md) — 03-26
+- [PR #107: test: add TDD tests for getCid() DB lookup (WC-6zk)](sources/pr-107-test-add-tdd-tests-for-getcid-db-lookup-wc-6zk.md) — 03-26
+- [PR #108: test: add TDD regression tests for SQLite FK enforcement (WC-myj)](sources/pr-108-test-add-tdd-regression-tests-for-sqlite-fk-enforc.md) — 03-26
+- [PR #109: fix: validate autonomy_mode values at runtime (WC-tdl)](sources/pr-109-fix-validate-autonomy-mode-values-at-runtime-wc-td.md) — 03-26
+- [PR #110: fix: replace browser fetch with Node.js http/https in IpfsBridge (WC-2ej)](sources/pr-110-fix-replace-browser-fetch-with-node-js-http-https.md) — 03-26
+- [PR #111: feat: integrate ChainAnchor lazy instantiation into app.ts (WC-p26)](sources/pr-111-feat-integrate-chainanchor-lazy-instantiation-into.md) — 03-26
+- [PR #112: feat: integrate P2P sync into app with TDD tests (WC-htt)](sources/pr-112-feat-integrate-p2p-sync-into-app-with-tdd-tests-wc.md) — 03-26
+- [PR #113: [agento] fix: invalidate SessionStore cache after faction_simulator SQL UPDATE (worldai_claw-493)](sources/pr-113-agento-fix-invalidate-sessionstore-cache-after-fa.md) — 03-27
+- [PR #114: [agento] fix: export clearEntityChainCache() for entity chain instance caching (worldai_claw-b9d)](sources/pr-114-agento-fix-export-clearentitychaincache-for-entit.md) — 03-27
+- [PR #115: [agento] fix: add WORLDARCHITECT_ legacy env var fallback for worldSchedulerEnabled (worldai_claw-371)](sources/pr-115-agento-fix-add-worldarchitect-legacy-env-var-fall.md) — 03-27
+- [PR #116: [agento] fix: enforce token limit in no-lore and lore fallback paths (worldai_claw-5e4)](sources/pr-116-agento-fix-enforce-token-limit-in-no-lore-and-lor.md) — 03-27
+- [PR #59: feat(game-state): Implement legacy state migration and clarify game state instructions on what to store](sources/pr-59-feat-game-state-implement-legacy-state-migration-a.md) — 06-21
+- [PR #63: feat(tests): Add unit test for prompt loading](sources/pr-63-feat-tests-add-unit-test-for-prompt-loading.md) — 06-21
+- [PR #80: [mega] Add core memories summarization and fix game state writing to wrong place, totally broken](sources/pr-80-mega-add-core-memories-summarization-and-fix-game.md) — 06-22
+- [PR #93: Define header state better and some narrative tweaks](sources/pr-93-define-header-state-better-and-some-narrative-twea.md) — 06-22
+- [PR #98: Implement Hybrid Checkpoint Validation System](sources/pr-98-implement-hybrid-checkpoint-validation-system.md) — 06-23
+- [PR #99: Add consistent vpython execution and working code publishing rules](sources/pr-99-add-consistent-vpython-execution-and-working-code.md) — 06-23
+- [PR #100: Add 3 complementary starting companions feature](sources/pr-100-add-3-complementary-starting-companions-feature.md) — 06-23
+- [PR #103: Sync CLAUDE.md with updated AI model constants](sources/pr-103-sync-claude-md-with-updated-ai-model-constants.md) — 06-24
+- [PR #105: Add Development Tooling: Test Runner and Python Wrapper](sources/pr-105-add-development-tooling-test-runner-and-python-wra.md) — 06-24
+- [PR #106: Add Merge Protocol Rules and Testing Infrastructure](sources/pr-106-add-merge-protocol-rules-and-testing-infrastructur.md) — 06-24
+- [PR #107: Fix existing test issues and restore missing functionality](sources/pr-107-fix-existing-test-issues-and-restore-missing-funct.md) — 06-24
+- [PR #108: Improve JSON parsing robustness for markdown-formatted AI responses](sources/pr-108-improve-json-parsing-robustness-for-markdown-forma.md) — 06-24
+- [PR #109: Improve integration test environment dependency handling](sources/pr-109-improve-integration-test-environment-dependency-ha.md) — 06-24
+- [PR #110: Combat cleanup integration - complete missing functionality](sources/pr-110-combat-cleanup-integration-complete-missing-functi.md) — 06-25
+- [PR #112: Test Infrastructure Improvements](sources/pr-112-test-infrastructure-improvements.md) — 06-25
+- [PR #113: Fix critical NPC data corruption bug in state updates](sources/pr-113-fix-critical-npc-data-corruption-bug-in-state-upda.md) — 06-25
+- [PR #114: Improve AI quality and log readability for new campaigns](sources/pr-114-improve-ai-quality-and-log-readability-for-new-cam.md) — 06-25
+- [PR #116: Fix more bugs and rules update](sources/pr-116-fix-more-bugs-and-rules-update.md) — 06-25
+- [PR #121: Add comprehensive timeline enhancements to Alexiel book](sources/pr-121-add-comprehensive-timeline-enhancements-to-alexiel.md) — 06-26
+- [PR #122: Add comprehensive prose improvements to Alexiel book + trim end for outdated content](sources/pr-122-add-comprehensive-prose-improvements-to-alexiel-bo.md) — 06-27
+- [PR #125: Full unit tests + vagents prompt](sources/pr-125-full-unit-tests-vagents-prompt.md) — 06-27
+- [PR #127: Fix combat bug](sources/pr-127-fix-combat-bug.md) — 06-27
+- [PR #130: Add comprehensive theme system with 4 themes](sources/pr-130-add-comprehensive-theme-system-with-4-themes.md) — 06-27
+- [PR #131: Update virtual agents system to use centralized SUPERVISOR coordination](sources/pr-131-update-virtual-agents-system-to-use-centralized-su.md) — 06-27
+- [PR #133: Add dynamic time pressure system for living world gameplay](sources/pr-133-add-dynamic-time-pressure-system-for-living-world.md) — 06-28
+- [PR #134: Add GitHub CLI preference for PR operations](sources/pr-134-add-github-cli-preference-for-pr-operations.md) — 06-27
+- [PR #135: Implement World Content Integration](sources/pr-135-implement-world-content-integration.md) — 06-28
+- [PR #137: Complete World of Assiah v2 consolidation and add agent approach rules](sources/pr-137-complete-world-of-assiah-v2-consolidation-and-add.md) — 06-27
+- [PR #139: Fix flaky integration tests](sources/pr-139-fix-flaky-integration-tests.md) — 06-28
+- [PR #141: World of Assiah narrative updates and file reorganization](sources/pr-141-world-of-assiah-narrative-updates-and-file-reorgan.md) — 06-28
+- [PR #142: Fix Docker deployment error for world files](sources/pr-142-fix-docker-deployment-error-for-world-files.md) — 06-28
+- [PR #144: Add debug mode for transparency and debugging](sources/pr-144-add-debug-mode-for-transparency-and-debugging.md) — 06-29
+- [PR #146: Consolidate all rules into rules.mdc and minimize CLAUDE.md](sources/pr-146-consolidate-all-rules-into-rules-mdc-and-minimize.md) — 06-28
+- [PR #151: Consolidate redundant character plotlines in World of Assiah](sources/pr-151-consolidate-redundant-character-plotlines-in-world.md) — 06-28
+- [PR #152: Fix critical think block protocol bug preventing player agency](sources/pr-152-fix-critical-think-block-protocol-bug-preventing-p.md) — 06-28
+- [PR #155: Fix Cloud Run timeout configuration mismatch](sources/pr-155-fix-cloud-run-timeout-configuration-mismatch.md) — 06-28
+- [PR #161: feat: Infer faction power from campaign context on enable](sources/pr-161-feat-infer-faction-power-from-campaign-context-on.md) — 06-29
+- [PR #162: feat: Enhance all faction subfactions with comprehensive details](sources/pr-162-feat-enhance-all-faction-subfactions-with-comprehe.md) — 06-29
+- [PR #163: feat: Add clear prompt prefix when using default Assiah setting](sources/pr-163-feat-add-clear-prompt-prefix-when-using-default-as.md) — 06-29
+- [PR #165: Add the background when starting a new campaign](sources/pr-165-add-the-background-when-starting-a-new-campaign.md) — 06-29
+- [PR #168: CSS Foundation with Bootstrap Bridge](sources/pr-168-css-foundation-with-bootstrap-bridge.md) — 06-29
+- [PR #169: Component Enhancement with Modern Interactions](sources/pr-169-component-enhancement-with-modern-interactions.md) — 06-29
+- [PR #171: Milestone 3: Animation System - Smooth Transitions & Micro-Interactions](sources/pr-171-milestone-3-animation-system-smooth-transitions-mi.md) — 06-29
+- [PR #173: Add Phase 0 (Research & Prototype) to state sync enhancement plan](sources/pr-173-add-phase-0-research-prototype-to-state-sync-enhan.md) — 06-30
+- [PR #174: Milestone 4: Interactive Features - Campaign Wizard, Enhanced Search & Master Toggle](sources/pr-174-milestone-4-interactive-features-campaign-wizard-e.md) — 06-30
+- [PR #175: Milestone 0.4 Plan: Alternative Approach Evaluation](sources/pr-175-milestone-0-4-plan-alternative-approach-evaluation.md) — 06-30
+- [PR #176: Milestone 0.4 detailed steps mock testing](sources/pr-176-milestone-0-4-detailed-steps-mock-testing.md) — 06-30
+- [PR #178: Milestone 5: Figma Design System Implementation Planning](sources/pr-178-milestone-5-figma-design-system-implementation-pla.md) — 06-30
+- [PR #179: Fix: Campaign wizard checkbox consistency and remove broken search filters](sources/pr-179-fix-campaign-wizard-checkbox-consistency-and-remov.md) — 06-30
+- [PR #180: Milestone 0.4.1: Real LLM Integration for Desync Testing](sources/pr-180-milestone-0-4-1-real-llm-integration-for-desync-te.md) — 06-30
+- [PR #181: Milestone 5: Comprehensive Planning for Landing Page & UI Enhancement](sources/pr-181-milestone-5-comprehensive-planning-for-landing-pag.md) — 06-30
+- [PR #185: feat: Add missing character dossiers for Alexiel's era](sources/pr-185-feat-add-missing-character-dossiers-for-alexiel-s.md) — 06-30
+- [PR #187: feat: Add entity tracking with proper ID standardization](sources/pr-187-feat-add-entity-tracking-with-proper-id-standardiz.md) — 07-01
+- [PR #191: docs: Update Sariel integration test results and project scratchpad](sources/pr-191-docs-update-sariel-integration-test-results-and-pr.md) — 07-01
+- [PR #192: feat: Complete prompt system implementation with comprehensive validation and testing](sources/pr-192-feat-complete-prompt-system-implementation-with-co.md) — 07-01
+- [PR #198: feat: Complete documentation optimization and restructuring](sources/pr-198-feat-complete-documentation-optimization-and-restr.md) — 07-01
+- [PR #200: feat: Add GitHub Actions for automated testing](sources/pr-200-feat-add-github-actions-for-automated-testing.md) — 07-01
+- [PR #201: feat: Model cycling and entity tracking accuracy](sources/pr-201-feat-model-cycling-and-entity-tracking-accuracy.md) — 07-03
+- [PR #202: docs: Update scratchpad with lessons.mdc reduction status](sources/pr-202-docs-update-scratchpad-with-lessons-mdc-reduction.md) — 07-01
+- [PR #204: Remove Reference Materials & Influences section from world_assiah.md](sources/pr-204-remove-reference-materials-influences-section-from.md) — 07-02
+- [PR #206: feat: Add banned names list and replace overused LLM names](sources/pr-206-feat-add-banned-names-list-and-replace-overused-ll.md) — 07-02
+- [PR #207: refactor: Break down long methods in MVP site](sources/pr-207-refactor-break-down-long-methods-in-mvp-site.md) — 07-02
+- [PR #210: Fix DELETE token processing and optimize prompt loading order](sources/pr-210-fix-delete-token-processing-and-optimize-prompt-lo.md) — 07-02
+- [PR #212: Fix inaccurate technical claims in documentation](sources/pr-212-fix-inaccurate-technical-claims-in-documentation.md) — 07-02
+- [PR #216: feat: Integrate banned names list into AI system](sources/pr-216-feat-integrate-banned-names-list-into-ai-system.md) — 07-03
+- [PR #218: New scripts](sources/pr-218-new-scripts.md) — 07-03
+- [PR #219: docs: Add no-direct-push-to-main protocol](sources/pr-219-docs-add-no-direct-push-to-main-protocol.md) — 07-03
+- [PR #222: chore: Add worktrees to .gitignore](sources/pr-222-chore-add-worktrees-to-gitignore.md) — 07-03
+- [PR #223: Refactor: Remove Destiny-specific mechanics for D&D 5e compatibility](sources/pr-223-refactor-remove-destiny-specific-mechanics-for-d-d.md) — 07-03
+- [PR #224: Remove Destiny ruleset checkbox and default to D&D only](sources/pr-224-remove-destiny-ruleset-checkbox-and-default-to-d-d.md) — 07-03
+- [PR #225: fix: Enhance JSON response handling with robust parser](sources/pr-225-fix-enhance-json-response-handling-with-robust-par.md) — 07-03
+- [PR #228: Remove dead code from codebase](sources/pr-228-remove-dead-code-from-codebase.md) — 07-03
+- [PR #229: Tweaks](sources/pr-229-tweaks.md) — 07-03
+- [PR #230: Fix some tests and extract shared json parser code + tweaks](sources/pr-230-fix-some-tests-and-extract-shared-json-parser-code.md) — 07-03
+- [PR #231: Fix tests + tweaks](sources/pr-231-fix-tests-tweaks.md) — 07-03
+- [PR #232: Narrative system optimization + critical prompt fixes](sources/pr-232-narrative-system-optimization-critical-prompt-fixe.md) — 07-03
+- [PR #233: feat: Add dynamic enemy scaling protocol to mechanics instruction](sources/pr-233-feat-add-dynamic-enemy-scaling-protocol-to-mechani.md) — 07-03
+- [PR #234: feat: Add mandatory character creation protocol at campaign start + state fixes](sources/pr-234-feat-add-mandatory-character-creation-protocol-at.md) — 07-03
+- [PR #235: feat: Enhance error and warning messages with emojis for better log visibility](sources/pr-235-feat-enhance-error-and-warning-messages-with-emoji.md) — 07-03
+- [PR #236: Fix: Restore missing planning blocks in campaign generation](sources/pr-236-fix-restore-missing-planning-blocks-in-campaign-ge.md) — 07-04
+- [PR #237: Exclude integration tests from GitHub Actions CI](sources/pr-237-exclude-integration-tests-from-github-actions-ci.md) — 07-04
+- [PR #240: Fix: Complete planning block and entity validation improvements](sources/pr-240-fix-complete-planning-block-and-entity-validation.md) — 07-04
+- [PR #241: Improve test organization and run_tests.sh script](sources/pr-241-improve-test-organization-and-run-tests-sh-script.md) — 07-04
+- [PR #242: Story Mode Improvements: Chronicle Display + Edit Campaign UX](sources/pr-242-story-mode-improvements-chronicle-display-edit-cam.md) — 07-04
+- [PR #243: Fix test organization and run_tests.sh directory path](sources/pr-243-fix-test-organization-and-run-tests-sh-directory-p.md) — 07-04
+- [PR #244: Add token reduction scratchpad for Alexiel book](sources/pr-244-add-token-reduction-scratchpad-for-alexiel-book.md) — 07-04
+- [PR #245: Parallel Dual-Pass Optimization: 50% Faster Story Responses](sources/pr-245-parallel-dual-pass-optimization-50-faster-story-re.md) — 07-04
+- [PR #247: Token Reduction Implementation for World Files](sources/pr-247-token-reduction-implementation-for-world-files.md) — 07-04
+- [PR #248: Fix PromptBuilder test support](sources/pr-248-fix-promptbuilder-test-support.md) — 07-05
+- [PR #249: Fix Cloud Run autoscaling configuration](sources/pr-249-fix-cloud-run-autoscaling-configuration.md) — 07-04
+- [PR #250: Fix JSON display bug in campaign responses](sources/pr-250-fix-json-display-bug-in-campaign-responses.md) — 07-04
+- [PR #252: Add development roadmap](sources/pr-252-add-development-roadmap.md) — 07-04
+- [PR #253: Fix: Prevent AI from suggesting banned names](sources/pr-253-fix-prevent-ai-from-suggesting-banned-names.md) — 07-04
+- [PR #255: Automated backup of dotfiles from Cloud Workstation: 2025-07-04 13:08:18](sources/pr-255-automated-backup-of-dotfiles-from-cloud-workstatio.md) — 07-04
+- [PR #256: Integrate update](sources/pr-256-integrate-update.md) — 07-04
+- [PR #257: Reduce lessons.mdc file size by 50%](sources/pr-257-reduce-lessons-mdc-file-size-by-50.md) — 07-04
+- [PR #259: Add documentation size performance tests](sources/pr-259-add-documentation-size-performance-tests.md) — 07-04
+- [PR #260: new roadmap tracking: Add detailed clarifications to roadmap tasks](sources/pr-260-new-roadmap-tracking-add-detailed-clarifications-t.md) — 07-04
+- [PR #261: feat: Add milestone commands to user command shortcuts](sources/pr-261-feat-add-milestone-commands-to-user-command-shortc.md) — 07-04
+- [PR #262: refactor: Remove Gemini Pro model, default to Flash everywhere](sources/pr-262-refactor-remove-gemini-pro-model-default-to-flash.md) — 07-04
+- [PR #263: feat: Merge Alexiel book into World Assiah for unified worldbuilding](sources/pr-263-feat-merge-alexiel-book-into-world-assiah-for-unif.md) — 07-05
+- [PR #264: TASK-009a: Add token-based logging alongside character counts](sources/pr-264-task-009a-add-token-based-logging-alongside-charac.md) — 07-05
+- [PR #265: [paused] TASK-019: Implement parallel dual-pass optimization](sources/pr-265-paused-task-019-implement-parallel-dual-pass-opti.md) — 07-05
+- [PR #266: TASK-014a: Make WorldArchitect.AI header clickable for homepage navigation](sources/pr-266-task-014a-make-worldarchitect-ai-header-clickable.md) — 07-05
+- [PR #267: TASK-005a: Fix campaign list click registration and feedback](sources/pr-267-task-005a-fix-campaign-list-click-registration-and.md) — 07-05
+- [PR #268: TASK-005b: Add contextual loading spinner messages](sources/pr-268-task-005b-add-contextual-loading-spinner-messages.md) — 07-05
+- [PR #270: feat: Add copilot ping and review commands](sources/pr-270-feat-add-copilot-ping-and-review-commands.md) — 07-05
+- [PR #271: Add mandatory PR workflow rule for all changes](sources/pr-271-add-mandatory-pr-workflow-rule-for-all-changes.md) — 07-05
+- [PR #273: Add Firebase user analytics script for database analysis](sources/pr-273-add-firebase-user-analytics-script-for-database-an.md) — 07-05
+- [PR #274: Frontend-based Dragon Knight Campaign Implementation](sources/pr-274-frontend-based-dragon-knight-campaign-implementati.md) — 07-05
+- [PR #275: Fix planning block context issues and simplify prompts](sources/pr-275-fix-planning-block-context-issues-and-simplify-pro.md) — 07-05
+- [PR #276: Planning block fixes followup](sources/pr-276-planning-block-fixes-followup.md) — 07-05
+- [PR #277: Add missing roadmap tasks (TASK-083 to TASK-087)](sources/pr-277-add-missing-roadmap-tasks-task-083-to-task-087.md) — 07-05
+- [PR #278: Fix JSON display bug and consolidate core game protocols](sources/pr-278-fix-json-display-bug-and-consolidate-core-game-pro.md) — 07-05
+- [PR #279: Add Granular Progress Protocol to rules.mdc](sources/pr-279-add-granular-progress-protocol-to-rules-mdc.md) — 07-05
+- [PR #280: Fix timestamp-narrative mismatch with unified time tracking](sources/pr-280-fix-timestamp-narrative-mismatch-with-unified-time.md) — 07-05
+- [PR #281: Fix scene number increment-by-2 display issue](sources/pr-281-fix-scene-number-increment-by-2-display-issue.md) — 07-05
+- [PR #282: Clean up roadmap formatting and assign missing task IDs](sources/pr-282-clean-up-roadmap-formatting-and-assign-missing-tas.md) — 07-05
+- [PR #283: Reorganize rules: Make CLAUDE.md the primary rules file](sources/pr-283-reorganize-rules-make-claude-md-the-primary-rules.md) — 07-05
+- [PR #284: LOC script](sources/pr-284-loc-script.md) — 07-05
+- [PR #287: TASK-088: Remove Direct Myers-Briggs References from Narrative](sources/pr-287-task-088-remove-direct-myers-briggs-references-fro.md) — 07-05
+- [PR #289: TASK-108: Token-based Logging Conversion](sources/pr-289-task-108-token-based-logging-conversion.md) — 07-06
+- [PR #290: TASK-107: Claude Code Directory Navigation Best Practices](sources/pr-290-task-107-claude-code-directory-navigation-best-pra.md) — 07-06
+- [PR #291: Add Task Addition Notification Protocol to CLAUDE.md](sources/pr-291-add-task-addition-notification-protocol-to-claude.md) — 07-05
+- [PR #304: Principal Engineer Code Review: PR #278 JSON Display Bug Analysis](sources/pr-304-principal-engineer-code-review-pr-278-json-display.md) — 07-05
+- [PR #305: Optimize CLAUDE.md: Remove duplicates and improve readability](sources/pr-305-optimize-claude-md-remove-duplicates-and-improve-r.md) — 07-05
+- [PR #306: Standardize logging to use logging_util throughout codebase (TASK-125)](sources/pr-306-standardize-logging-to-use-logging-util-throughout.md) — 07-05
+- [PR #307: Implement comprehensive slash commands interface](sources/pr-307-implement-comprehensive-slash-commands-interface.md) — 07-05
+- [PR #308: Revert PR #306: Undo logging standardization changes](sources/pr-308-revert-pr-306-undo-logging-standardization-changes.md) — 07-05
+- [PR #309: Re-apply logging standardization (revert the revert)](sources/pr-309-re-apply-logging-standardization-revert-the-revert.md) — 07-05
+- [PR #310: Improve JSON parsing performance and safety](sources/pr-310-improve-json-parsing-performance-and-safety.md) — 07-05
+- [PR #311: Compress CLAUDE.md by 74% for improved readability](sources/pr-311-compress-claude-md-by-74-for-improved-readability.md) — 07-06
+- [PR #314: Add playwright comprehensive testing and MCP tool evaluation documentation](sources/pr-314-add-playwright-comprehensive-testing-and-mcp-tool.md) — 07-06
+- [PR #315: Fix doc-size-check GitHub Actions workflow](sources/pr-315-fix-doc-size-check-github-actions-workflow.md) — 07-06
+- [PR #316: Fix TypeError in HealthStatus: Convert string HP values to integers](sources/pr-316-fix-typeerror-in-healthstatus-convert-string-hp-va.md) — 07-06
+- [PR #317: Fix test_prompts.py failing test](sources/pr-317-fix-test-prompts-py-failing-test.md) — 07-06
+- [PR #318: Add /list command and update /review command documentation](sources/pr-318-add-list-command-and-update-review-command-documen.md) — 07-06
+- [PR #319: Fix token_utils.py logging bug affecting 13 PRs](sources/pr-319-fix-token-utils-py-logging-bug-affecting-13-prs.md) — 07-06
+- [PR #321: Add god_mode_response field for cleaner god mode handling](sources/pr-321-add-god-mode-response-field-for-cleaner-god-mode-h.md) — 07-06
+- [PR #325: Revert dragon knight default PR](sources/pr-325-revert-dragon-knight-default-pr.md) — 07-06
+- [PR #328: Fix HP unknown value bug in entity creation](sources/pr-328-fix-hp-unknown-value-bug-in-entity-creation.md) — 07-06
+- [PR #335: Fix DefensiveNumericConverter issues from Copilot feedback](sources/pr-335-fix-defensivenumericconverter-issues-from-copilot.md) — 07-06
+- [PR #337: TASK-141: Implement token optimization and verification system](sources/pr-337-task-141-implement-token-optimization-and-verifica.md) — 07-06
+- [PR #344: feat: Remove obsolete test files and legacy migration code](sources/pr-344-feat-remove-obsolete-test-files-and-legacy-migrati.md) — 07-07
+- [PR #345: Refactor testing infrastructure: separate browser automation from HTTP testing](sources/pr-345-refactor-testing-infrastructure-separate-browser-a.md) — 07-07
+- [PR #346: feat: Complete Zen MCP server evaluation and integration assessment (TASK-111)](sources/pr-346-feat-complete-zen-mcp-server-evaluation-and-integr.md) — 07-06
+- [PR #347: feat: Complete Context7 MCP server evaluation and integration assessment (TASK-112)](sources/pr-347-feat-complete-context7-mcp-server-evaluation-and-i.md) — 07-06
+- [PR #348: feat: Complete Sequential Thinking MCP server evaluation and integration assessment (TASK-113)](sources/pr-348-feat-complete-sequential-thinking-mcp-server-evalu.md) — 07-06
+- [PR #349: feat: Complete Claude-Simone project management framework evaluation (TASK-119)](sources/pr-349-feat-complete-claude-simone-project-management-fra.md) — 07-06
+- [PR #350: feat: Complete comprehensive MCP servers ecosystem evaluation (TASK-120)](sources/pr-350-feat-complete-comprehensive-mcp-servers-ecosystem.md) — 07-06
+- [PR #351: Fix Luke campaign gender consistency and god mode JSON display issues](sources/pr-351-fix-luke-campaign-gender-consistency-and-god-mode.md) — 07-07
+- [PR #366: fix(ci): Remove conflicting paths-ignore from doc-size-check workflow](sources/pr-366-fix-ci-remove-conflicting-paths-ignore-from-doc-si.md) — 07-06
+- [PR #372: feat: Add verified Claude-Simone evaluation report (TASK-119)](sources/pr-372-feat-add-verified-claude-simone-evaluation-report.md) — 07-06
+- [PR #376: fix(gitignore): Properly configure tmp/ directory to be ignored](sources/pr-376-fix-gitignore-properly-configure-tmp-directory-to.md) — 07-06
+- [PR #380: Add principal eng review prompt](sources/pr-380-add-principal-eng-review-prompt.md) — 07-07
+- [PR #383: Fix test_api_routes to use system /tmp/ dir](sources/pr-383-fix-test-api-routes-to-use-system-tmp-dir.md) — 07-07
+- [PR #384: Add Claude Code slash commands to .claude/commands/](sources/pr-384-add-claude-code-slash-commands-to-claude-commands.md) — 07-07
+- [PR #389: docs(roadmap): Update unit test coverage plan with new baseline and priorities](sources/pr-389-docs-roadmap-update-unit-test-coverage-plan-with-n.md) — 07-07
+- [PR #390: docs(roadmap): Consolidate sprint_current.md into roadmap.md with deduplication](sources/pr-390-docs-roadmap-consolidate-sprint-current-md-into-ro.md) — 07-07
+- [PR #391: Complete browser test suite with parallel execution](sources/pr-391-complete-browser-test-suite-with-parallel-executio.md) — 07-07
+- [PR #393: feat(roadmap): Complete ultrathink roadmap optimization with zero task deletion](sources/pr-393-feat-roadmap-complete-ultrathink-roadmap-optimizat.md) — 07-07
+- [PR #397: Fix browser tests comprehensive](sources/pr-397-fix-browser-tests-comprehensive.md) — 07-07
+- [PR #398: TASK-121: Create LLMResponse class for unified response handling](sources/pr-398-task-121-create-llmresponse-class-for-unified-resp.md) — 07-07
+- [PR #399: feat: Add comprehensive unit tests for main.py route handlers (Phase 1)](sources/pr-399-feat-add-comprehensive-unit-tests-for-main-py-rout.md) — 07-07
+- [PR #400: TASK-130: Unit test coverage improvements for utility modules](sources/pr-400-task-130-unit-test-coverage-improvements-for-utili.md) — 07-07
+- [PR #401: feat: Add comprehensive auth and state management tests for main.py (Phase 2)](sources/pr-401-feat-add-comprehensive-auth-and-state-management-t.md) — 07-07
+- [PR #402: TASK-132: GitHub Actions /testi integration](sources/pr-402-task-132-github-actions-testi-integration.md) — 07-07
+- [PR #404: docs: TASK-074 Comprehensive Status Report - Phase 2 Complete](sources/pr-404-docs-task-074-comprehensive-status-report-phase-2.md) — 07-07
+- [PR #407: fix: Fix coverage.sh to properly measure test coverage (0% → 67%)](sources/pr-407-fix-fix-coverage-sh-to-properly-measure-test-cover.md) — 07-07
+- [PR #408: Fix Cloud Run load balancer timeout causing transient errors](sources/pr-408-fix-cloud-run-load-balancer-timeout-causing-transi.md) — 07-07
+- [PR #409: feat: Add Phase 3 error handling tests for main.py](sources/pr-409-feat-add-phase-3-error-handling-tests-for-main-py.md) — 07-07
+- [PR #410: fix: Fix YAML syntax error in integration-tests.yml workflow](sources/pr-410-fix-fix-yaml-syntax-error-in-integration-tests-yml.md) — 07-07
+- [PR #411: feat: Add Phase 4 tests for firestore_service.py](sources/pr-411-feat-add-phase-4-tests-for-firestore-service-py.md) — 07-07
+- [PR #412: fix: Enable Gemini API key in GitHub Actions integration tests](sources/pr-412-fix-enable-gemini-api-key-in-github-actions-integr.md) — 07-07
+- [PR #413: feat: Add Phase 5 tests for firestore_service.py state helpers](sources/pr-413-feat-add-phase-5-tests-for-firestore-service-py-st.md) — 07-07
+- [PR #414: Clean up misplaced files from PR #248](sources/pr-414-clean-up-misplaced-files-from-pr-248.md) — 07-07
+- [PR #415: Remove integration test workflow from GitHub Actions](sources/pr-415-remove-integration-test-workflow-from-github-actio.md) — 07-07
+- [PR #416: Unit Tests Phase 6: Improve gemini_service.py coverage (65% → 85%)](sources/pr-416-unit-tests-phase-6-improve-gemini-service-py-cover.md) — 07-07
+- [PR #417: Unit Tests Phase 7: Improve firestore_service.py coverage (61% → 80%)](sources/pr-417-unit-tests-phase-7-improve-firestore-service-py-co.md) — 07-07
+- [PR #418: 🎁 UI Release Bundle: 5-PR Consolidated Release with Dragon Knight Integration](sources/pr-418-ui-release-bundle-5-pr-consolidated-release-with.md) — 07-08
+- [PR #419: Phase 8: Comprehensive main.py Unit Tests (Route Handlers, Auth, Security)](sources/pr-419-phase-8-comprehensive-main-py-unit-tests-route-han.md) — 07-07
+- [PR #421: Unit Test Phase 9: Utilities & Final Coverage Push](sources/pr-421-unit-test-phase-9-utilities-final-coverage-push.md) — 07-08
+- [PR #423: feat: Add mandatory 5-minute milestone tracking to /execute command](sources/pr-423-feat-add-mandatory-5-minute-milestone-tracking-to.md) — 07-08
+- [PR #424: Fix JSON display bug and refactor GeminiResponse handling](sources/pr-424-fix-json-display-bug-and-refactor-geminiresponse-h.md) — 07-08
+- [PR #425: Automated backup of dotfiles from Cloud Workstation: 2025-07-07 23:16:41](sources/pr-425-automated-backup-of-dotfiles-from-cloud-workstatio.md) — 07-08
+- [PR #427: Update browser test commands to require explicit confirmations](sources/pr-427-update-browser-test-commands-to-require-explicit-c.md) — 07-08
+- [PR #429: feat: Enhance narrative system with proactive NPC behaviors](sources/pr-429-feat-enhance-narrative-system-with-proactive-npc-b.md) — 07-08
+- [PR #431: feat: Add test server management to /push and /integrate commands](sources/pr-431-feat-add-test-server-management-to-push-and-integr.md) — 07-08
+- [PR #432: feat: Add official Claude Code GitHub Action integration](sources/pr-432-feat-add-official-claude-code-github-action-integr.md) — 07-08
+- [PR #433: fix: Change system_prompt to custom_instructions in Claude workflow](sources/pr-433-fix-change-system-prompt-to-custom-instructions-in.md) — 07-08
+- [PR #434: fix: Add checkout step to Claude Code workflow](sources/pr-434-fix-add-checkout-step-to-claude-code-workflow.md) — 07-08
+- [PR #435: fix: Campaign wizard world checkbox not being respected](sources/pr-435-fix-campaign-wizard-world-checkbox-not-being-respe.md) — 07-08
+- [PR #436: fix: Remove checkout step from Claude Code workflow - Final fix](sources/pr-436-fix-remove-checkout-step-from-claude-code-workflow.md) — 07-08
+- [PR #437: DDD Architecture Refactoring - Phase 1: Domain Layer Foundation](sources/pr-437-ddd-architecture-refactoring-phase-1-domain-layer.md) — 07-09
+- [PR #438: Fix claude workflow](sources/pr-438-fix-claude-workflow.md) — 07-09
+- [PR #440: Fix Claude Code workflow exit code 128 error](sources/pr-440-fix-claude-code-workflow-exit-code-128-error.md) — 07-09
+- [PR #444: fix: Correct test execution command in CLAUDE.md](sources/pr-444-fix-correct-test-execution-command-in-claude-md.md) — 07-09
+- [PR #445: feat: Enhanced CLAUDE.md with evidence-based development protocols](sources/pr-445-feat-enhanced-claude-md-with-evidence-based-develo.md) — 07-09
+- [PR #446: learn: Document Firebase/Gemini API availability for testing](sources/pr-446-learn-document-firebase-gemini-api-availability-fo.md) — 07-09
+- [PR #447: Implement structured fields UI with DRY improvements and testing enhancements](sources/pr-447-implement-structured-fields-ui-with-dry-improvemen.md) — 07-09
+- [PR #448: refactor: Consolidate evidence-based rules and remove redundancies](sources/pr-448-refactor-consolidate-evidence-based-rules-and-remo.md) — 07-09
+- [PR #449: feat: Comprehensive Code Review and Documentation - Milestones 1-4](sources/pr-449-feat-comprehensive-code-review-and-documentation-m.md) — 07-09
+- [PR #452: feat: Add branch protection rules for dev[timestamp] branches](sources/pr-452-feat-add-branch-protection-rules-for-dev-timestamp.md) — 07-09
+- [PR #453: seq thinking server](sources/pr-453-seq-thinking-server.md) — 07-09
+- [PR #454: feat: Add /think command with always-on sequential thinking ultrathink](sources/pr-454-feat-add-think-command-with-always-on-sequential-t.md) — 07-09
+- [PR #455: feat: Complete Python file responsibilities documentation and cross-linking](sources/pr-455-feat-complete-python-file-responsibilities-documen.md) — 07-09
+- [PR #458: Consolidate all branch rules into single Git Workflow section](sources/pr-458-consolidate-all-branch-rules-into-single-git-workf.md) — 07-09
+- [PR #460: feat: Protocol implementation strategy - Milestones 1-2](sources/pr-460-feat-protocol-implementation-strategy-milestones-1.md) — 07-09
+- [PR #461: fix: Correct YAML syntax error in auto_resolve_conflicts.yml](sources/pr-461-fix-correct-yaml-syntax-error-in-auto-resolve-conf.md) — 07-09
+- [PR #462: feat: World-class LLM hallucination research - Complete Document](sources/pr-462-feat-world-class-llm-hallucination-research-comple.md) — 07-09
+- [PR #463: feat: Complete World-Class LLM Hallucination Research [FINAL MERGED]](sources/pr-463-feat-complete-world-class-llm-hallucination-resear.md) — 07-09
+- [PR #464: fix: Add missing permissions to auto-resolve-conflicts workflow](sources/pr-464-fix-add-missing-permissions-to-auto-resolve-confli.md) — 07-09
+- [PR #467: Clean up pre-JSON mode references and ensure debug/narrative separation](sources/pr-467-clean-up-pre-json-mode-references-and-ensure-debug.md) — 07-10
+- [PR #472: Add comprehensive Dragon Knight and BG3 Astarion integration tests](sources/pr-472-add-comprehensive-dragon-knight-and-bg3-astarion-i.md) — 07-10
+- [PR #473: Fix planning block choice buttons not working](sources/pr-473-fix-planning-block-choice-buttons-not-working.md) — 07-10
+- [PR #474: New character creation flow / prompt + fixes](sources/pr-474-new-character-creation-flow-prompt-fixes.md) — 07-10
+- [PR #476: feat: Enhanced Anti-Hallucination Protocol - CLAUDE.md Only](sources/pr-476-feat-enhanced-anti-hallucination-protocol-claude-m.md) — 07-10
+- [PR #477: docs: Add /nb alias for /newbranch command](sources/pr-477-docs-add-nb-alias-for-newbranch-command.md) — 07-10
+- [PR #478: feat: Expand Dragon Knight campaign text with rich world history](sources/pr-478-feat-expand-dragon-knight-campaign-text-with-rich.md) — 07-10
+- [PR #481: fix: Remove ineffective anti-hallucination rules from CLAUDE.md](sources/pr-481-fix-remove-ineffective-anti-hallucination-rules-fr.md) — 07-10
+- [PR #482: Add /experiment command for A/B testing Claude behavior](sources/pr-482-add-experiment-command-for-a-b-testing-claude-beha.md) — 07-10
+- [PR #488: Fix: Implement proper mock service support for browser tests](sources/pr-488-fix-implement-proper-mock-service-support-for-brow.md) — 07-11
+- [PR #489: Enhanced character co-design system with 3 collaboration options](sources/pr-489-enhanced-character-co-design-system-with-3-collabo.md) — 07-11
+- [PR #492: Move experiment documentation files to experiments/ directory](sources/pr-492-move-experiment-documentation-files-to-experiments.md) — 07-11
+- [PR #495: Optimize integration tests with selective mocking](sources/pr-495-optimize-integration-tests-with-selective-mocking.md) — 07-11
+- [PR #496: Fix: Skip 'Unknown' entity validation to prevent false failures](sources/pr-496-fix-skip-unknown-entity-validation-to-prevent-fals.md) — 07-11
+- [PR #497: Remove outdated planning block instructions from prompts](sources/pr-497-remove-outdated-planning-block-instructions-from-p.md) — 07-11
+- [PR #498: Fix: Add circuit breaker for /execute command using TodoWrite](sources/pr-498-fix-add-circuit-breaker-for-execute-command-using.md) — 07-11
+- [PR #499: Add allowedTools to Claude GitHub Actions workflow](sources/pr-499-add-allowedtools-to-claude-github-actions-workflow.md) — 07-11
+- [PR #501: feat: Dynamic World State System v2 - Event tracking for narrative consistency](sources/pr-501-feat-dynamic-world-state-system-v2-event-tracking.md) — 07-11
+- [PR #502: Implement comprehensive JSON input schema for enhanced LLM communication](sources/pr-502-implement-comprehensive-json-input-schema-for-enha.md) — 07-13
+- [PR #503: claude start sets up mcp](sources/pr-503-claude-start-sets-up-mcp.md) — 07-11
+- [PR #504: feat: Dynamic World State UI Mockups - Interactive HTML/CSS Prototypes](sources/pr-504-feat-dynamic-world-state-ui-mockups-interactive-ht.md) — 07-11
+- [PR #505: feat: Add custom branch name support to /integrate command](sources/pr-505-feat-add-custom-branch-name-support-to-integrate-c.md) — 07-11
+- [PR #507: feat: Add /pushlite command for lightweight GitHub pushes](sources/pr-507-feat-add-pushlite-command-for-lightweight-github-p.md) — 07-11
+- [PR #508: Enforce mandatory branch header protocol at top of CLAUDE.md](sources/pr-508-enforce-mandatory-branch-header-protocol-at-top-of.md) — 07-11
+- [PR #509: feat: Add /plan command for strategic execution planning](sources/pr-509-feat-add-plan-command-for-strategic-execution-plan.md) — 07-11
+- [PR #510: feat: Add absolute path support to claude_mcp.sh MCP server installer](sources/pr-510-feat-add-absolute-path-support-to-claude-mcp-sh-mc.md) — 07-11
+- [PR #511: Delete venv](sources/pr-511-delete-venv.md) — 07-12
+- [PR #512: docs: Update Dynamic World State scratchpad with UI mockup references](sources/pr-512-docs-update-dynamic-world-state-scratchpad-with-ui.md) — 07-12
+- [PR #514: Fix MCP server detection in claude_start.sh](sources/pr-514-fix-mcp-server-detection-in-claude-start-sh.md) — 07-12
+- [PR #518: Add --clean/-c flag to claude_start.sh for fresh conversations](sources/pr-518-add-clean-c-flag-to-claude-start-sh-for-fresh-conv.md) — 07-12
+- [PR #520: Remove classic interface and related code](sources/pr-520-remove-classic-interface-and-related-code.md) — 07-13
+- [PR #521: fix: Add virtual environment setup documentation and recreation guide](sources/pr-521-fix-add-virtual-environment-setup-documentation-an.md) — 07-12
+- [PR #523: Enhanced /execute command: parallel execution + mandatory plan presentation](sources/pr-523-enhanced-execute-command-parallel-execution-mandat.md) — 07-12
+- [PR #524: feat: Migrate planning blocks to JSON-only format with comprehensive testing](sources/pr-524-feat-migrate-planning-blocks-to-json-only-format-w.md) — 07-12
+- [PR #527: feat: Reorder UI elements in frontend chat interface](sources/pr-527-feat-reorder-ui-elements-in-frontend-chat-interfac.md) — 07-13
+- [PR #528: docs: Documentation Audit & Enhancement Project Planning](sources/pr-528-docs-documentation-audit-enhancement-project-plann.md) — 07-12
+- [PR #529: Refactor: Consolidate entity validation architecture and fix Unknown entity warnings](sources/pr-529-refactor-consolidate-entity-validation-architectur.md) — 07-13
+- [PR #530: docs: Add PR breakdown plan to Dynamic World State scratchpad](sources/pr-530-docs-add-pr-breakdown-plan-to-dynamic-world-state.md) — 07-12
+- [PR #532: feat: Enhance MCP setup scripts with detailed logging and reliability fixes](sources/pr-532-feat-enhance-mcp-setup-scripts-with-detailed-loggi.md) — 07-12
+- [PR #533: feat: Improve coverage workflow and remove vpython dependency](sources/pr-533-feat-improve-coverage-workflow-and-remove-vpython.md) — 07-12
+- [PR #535: Update /execute command workflow: separate /plan and /e behaviors](sources/pr-535-update-execute-command-workflow-separate-plan-and.md) — 07-12
+- [PR #537: Fix campaign wizard character display and story loading issues](sources/pr-537-fix-campaign-wizard-character-display-and-story-lo.md) — 07-13
+- [PR #538: Fix godmode UI and saving firestore](sources/pr-538-fix-godmode-ui-and-saving-firestore.md) — 07-13
+- [PR #539: feat: Improve campaign creation UI with enhanced form controls](sources/pr-539-feat-improve-campaign-creation-ui-with-enhanced-fo.md) — 07-14
+- [PR #541: Add /header command for branch header compliance](sources/pr-541-add-header-command-for-branch-header-compliance.md) — 07-13
+- [PR #542: Add comprehensive end-to-end Python integration tests](sources/pr-542-add-comprehensive-end-to-end-python-integration-te.md) — 07-13
+- [PR #543: Add browser test helper library and fix authentication bypass](sources/pr-543-add-browser-test-helper-library-and-fix-authentica.md) — 07-13
+- [PR #544: Fix venv in run_tests](sources/pr-544-fix-venv-in-run-tests.md) — 07-13
+- [PR #546: Add browser test helper library and structured fields testing utilities](sources/pr-546-add-browser-test-helper-library-and-structured-fie.md) — 07-13
+- [PR #547: Add Claude API monitoring with threshold alerts](sources/pr-547-add-claude-api-monitoring-with-threshold-alerts.md) — 07-13
+- [PR #548: feat: Enhanced git header with local changes status](sources/pr-548-feat-enhanced-git-header-with-local-changes-status.md) — 07-13
+- [PR #549: Set Puppeteer MCP as default for Claude Code CLI browser testing](sources/pr-549-set-puppeteer-mcp-as-default-for-claude-code-cli-b.md) — 07-13
+- [PR #550: Fix: Add explicit God mode planning block instructions](sources/pr-550-fix-add-explicit-god-mode-planning-block-instructi.md) — 07-15
+- [PR #551: Fix planning block deep think mode display with pros/cons format](sources/pr-551-fix-planning-block-deep-think-mode-display-with-pr.md) — 07-14
+- [PR #552: Learnings from integration test](sources/pr-552-learnings-from-integration-test.md) — 07-13
+- [PR #553: claude schedule script](sources/pr-553-claude-schedule-script.md) — 07-13
+- [PR #554: Optimize CLAUDE.md by 24% while preserving critical rules](sources/pr-554-optimize-claude-md-by-24-while-preserving-critical.md) — 07-13
+- [PR #555: Slash command scripts](sources/pr-555-slash-command-scripts.md) — 07-13
+- [PR #556: Update /think command with 4 thinking levels and efficient default](sources/pr-556-update-think-command-with-4-thinking-levels-and-ef.md) — 07-13
+- [PR #558: feat: Add session tracking to /header and /usage commands](sources/pr-558-feat-add-session-tracking-to-header-and-usage-comm.md) — 07-13
+- [PR #559: Optimize CLAUDE.md by 25% while preserving critical rules (#557)](sources/pr-559-optimize-claude-md-by-25-while-preserving-critical.md) — 07-13
+- [PR #562: Add Context7 and Gemini CLI MCP servers to installation script](sources/pr-562-add-context7-and-gemini-cli-mcp-servers-to-install.md) — 07-13
+- [PR #563: Fix git-header command to work from any directory](sources/pr-563-fix-git-header-command-to-work-from-any-directory.md) — 07-13
+- [PR #564: Simplify PR detection in git-header script](sources/pr-564-simplify-pr-detection-in-git-header-script.md) — 07-13
+- [PR #566: Plan: JSON input schema staged implementation milestones](sources/pr-566-plan-json-input-schema-staged-implementation-miles.md) — 07-14
+- [PR #567: Response Architecture Modernization Plan](sources/pr-567-response-architecture-modernization-plan.md) — 07-14
+- [PR #568: CLAUDE.md Optimization Plan - Future Implementation](sources/pr-568-claude-md-optimization-plan-future-implementation.md) — 07-14
+- [PR #569: Add real-mode end2end testing framework](sources/pr-569-add-real-mode-end2end-testing-framework.md) — 07-14
+- [PR #570: Fix: Add file logging configuration to main application](sources/pr-570-fix-add-file-logging-configuration-to-main-applica.md) — 07-14
+- [PR #571: Add /handoff slash command for structured task delegation](sources/pr-571-add-handoff-slash-command-for-structured-task-dele.md) — 07-14
+- [PR #572: Add scratchpad for Firestore write-then-read pattern](sources/pr-572-add-scratchpad-for-firestore-write-then-read-patte.md) — 07-14
+- [PR #573: Fix: Improve integrate.sh to handle branches merged via GitHub PRs](sources/pr-573-fix-improve-integrate-sh-to-handle-branches-merged.md) — 07-14
+- [PR #574: Fix: Enhanced /header script to show local vs remote sync status](sources/pr-574-fix-enhanced-header-script-to-show-local-vs-remote.md) — 07-14
+- [PR #576: Organize end2end tests into proper directory structure](sources/pr-576-organize-end2end-tests-into-proper-directory-struc.md) — 07-14
+- [PR #577: Add simplified planning block choice button styles to main CSS](sources/pr-577-add-simplified-planning-block-choice-button-styles.md) — 07-14
+- [PR #581: Convert browser test to HTTP mode and enhance /push command with async testing](sources/pr-581-convert-browser-test-to-http-mode-and-enhance-push.md) — 07-14
+- [PR #583: Add PR coherence check to push script](sources/pr-583-add-pr-coherence-check-to-push-script.md) — 07-16
+- [PR #584: Add git statistics analysis script](sources/pr-584-add-git-statistics-analysis-script.md) — 07-14
+- [PR #585: Add PR coherence analysis to push script](sources/pr-585-add-pr-coherence-analysis-to-push-script.md) — 07-14
+- [PR #586: Add architecture decision framework with Claude-Gemini dialogue](sources/pr-586-add-architecture-decision-framework-with-claude-ge.md) — 07-14
+- [PR #587: Implement Firestore write-then-read pattern for guaranteed persistence](sources/pr-587-implement-firestore-write-then-read-pattern-for-gu.md) — 07-14
+- [PR #588: Implement /pr command and enhance /push with shared PR utilities](sources/pr-588-implement-pr-command-and-enhance-push-with-shared.md) — 07-14
+- [PR #589: Fix test directory structure: Remove duplicate mvp_site nesting](sources/pr-589-fix-test-directory-structure-remove-duplicate-mvp.md) — 07-14
+- [PR #591: feat: Cognitive Enhancement System - Learn from patterns, not just rules](sources/pr-591-feat-cognitive-enhancement-system-learn-from-patte.md) — 07-16
+- [PR #593: learnings](sources/pr-593-learnings.md) — 07-14
+- [PR #594: Add /reviewdeep command for comprehensive ultra-thinking analysis](sources/pr-594-add-reviewdeep-command-for-comprehensive-ultra-thi.md) — 07-16
+- [PR #595: Fix log file creation for branch names with forward slashes](sources/pr-595-fix-log-file-creation-for-branch-names-with-forwar.md) — 07-14
+- [PR #597: feat: Export Claude commands to Cursor-compatible shell scripts](sources/pr-597-feat-export-claude-commands-to-cursor-compatible-s.md) — 07-16
+- [PR #598: Remove GitHub test coverage action](sources/pr-598-remove-github-test-coverage-action.md) — 07-15
+- [PR #599: Fix Firestore write-then-read verification and implement AUTH/MOCK mode separation](sources/pr-599-fix-firestore-write-then-read-verification-and-imp.md) — 07-15
+- [PR #600: HANDOFF: Implement real AST-based /arch analysis](sources/pr-600-handoff-implement-real-ast-based-arch-analysis.md) — 07-15
+- [PR #602: Enhance /handoff command with copy-paste worker prompt format](sources/pr-602-enhance-handoff-command-with-copy-paste-worker-pro.md) — 07-15
+- [PR #603: Remove redundant .mcp.json configuration file](sources/pr-603-remove-redundant-mcp-json-configuration-file.md) — 07-15
+- [PR #604: MVP Header Compliance Tracking - Handoff Ready](sources/pr-604-mvp-header-compliance-tracking-handoff-ready.md) — 07-15
+- [PR #605: Add placeholder for longer Dragon Knight campaign description](sources/pr-605-add-placeholder-for-longer-dragon-knight-campaign.md) — 07-15
+- [PR #606: 🔒 Fix git-header.sh security vulnerability and add bashrc alias check](sources/pr-606-fix-git-header-sh-security-vulnerability-and-add.md) — 07-15
+- [PR #607: Enhance loc.sh to analyze test vs non-test code](sources/pr-607-enhance-loc-sh-to-analyze-test-vs-non-test-code.md) — 07-15
+- [PR #608: Fix malformed planning block error and add comprehensive debugging logging](sources/pr-608-fix-malformed-planning-block-error-and-add-compreh.md) — 07-15
+- [PR #609: Comprehensive Task Completion: Mobile UI, Comment Formatting, Memory System & Infrastructure](sources/pr-609-comprehensive-task-completion-mobile-ui-comment-fo.md) — 07-16
+- [PR #610: Cleanup test files](sources/pr-610-cleanup-test-files.md) — 07-16
+- [PR #611: feat: Add /thinku alias for /think ultra command](sources/pr-611-feat-add-thinku-alias-for-think-ultra-command.md) — 07-15
+- [PR #612: Fix CSS campaign list layout inconsistency between local and production](sources/pr-612-fix-css-campaign-list-layout-inconsistency-between.md) — 07-16
+- [PR #613: Remove narrative checkbox and streamline campaign wizard to 3 steps](sources/pr-613-remove-narrative-checkbox-and-streamline-campaign.md) — 07-16
+- [PR #618: Revert PR #604: Remove MVP Header Compliance Tracking](sources/pr-618-revert-pr-604-remove-mvp-header-compliance-trackin.md) — 07-16
+- [PR #620: 🚀 Enhance /push and /copilot commands with comprehensive PR health analysis and auto-fixing](sources/pr-620-enhance-push-and-copilot-commands-with-comprehens.md) — 07-16
+- [PR #621: feat: Intelligent slash command composition system](sources/pr-621-feat-intelligent-slash-command-composition-system.md) — 07-16
+- [PR #623: learn: Add Website Testing & Deployment Expectations protocol](sources/pr-623-learn-add-website-testing-deployment-expectations.md) — 07-16
+- [PR #624: 📚 Learning: Add systematic test fixing methodology to CLAUDE.md](sources/pr-624-learning-add-systematic-test-fixing-methodology-t.md) — 07-16
+- [PR #626: learn: Add Website Testing & Deployment Expectations protocol](sources/pr-626-learn-add-website-testing-deployment-expectations.md) — 07-16
+- [PR #627: fix: Address remaining issues from PR #620](sources/pr-627-fix-address-remaining-issues-from-pr-620.md) — 07-16
+- [PR #631: Implement true /execute vs /plan differentiation](sources/pr-631-implement-true-execute-vs-plan-differentiation.md) — 07-16
+- [PR #634: Fix /nb command to always create fresh branches from main](sources/pr-634-fix-nb-command-to-always-create-fresh-branches-fro.md) — 07-16
+- [PR #636: Integrate Memory MCP with /learn command](sources/pr-636-integrate-memory-mcp-with-learn-command.md) — 07-16
+- [PR #637: Learn: Fix branch header upstream tracking protocol](sources/pr-637-learn-fix-branch-header-upstream-tracking-protocol.md) — 07-16
+- [PR #638: Consolidate /learn command: Remove variants and unify with Memory MCP integration](sources/pr-638-consolidate-learn-command-remove-variants-and-unif.md) — 07-16
+- [PR #639: learn: Add critical rule about treating data loss warnings as highest priority](sources/pr-639-learn-add-critical-rule-about-treating-data-loss-w.md) — 07-16
+- [PR #641: feat: Implement automatic clean branch workflow for /learn command](sources/pr-641-feat-implement-automatic-clean-branch-workflow-for.md) — 07-16
+- [PR #642: learn: Add critical rule about header PR context tracking](sources/pr-642-learn-add-critical-rule-about-header-pr-context-tr.md) — 07-16
+- [PR #643: Add comprehensive command hooks enhancement strategy](sources/pr-643-add-comprehensive-command-hooks-enhancement-strate.md) — 07-17
+- [PR #645: feat: Add current directory to git header output](sources/pr-645-feat-add-current-directory-to-git-header-output.md) — 07-17
+- [PR #647: feat: Real multi-agent orchestration with Claude Code CLI](sources/pr-647-feat-real-multi-agent-orchestration-with-claude-co.md) — 07-17
+- [PR #648: Memory MCP read specification and backup system fixes](sources/pr-648-memory-mcp-read-specification-and-backup-system-fi.md) — 07-17
+- [PR #649: feat: Memory MCP read system with enhanced compliance tracking](sources/pr-649-feat-memory-mcp-read-system-with-enhanced-complian.md) — 07-17
+- [PR #651: Automated backup of dotfiles from Cloud Workstation: 2025-07-17 09:39:30](sources/pr-651-automated-backup-of-dotfiles-from-cloud-workstatio.md) — 07-17
+- [PR #652: Fix schedule_branch_work.sh bashrc sourcing for PATH availability](sources/pr-652-fix-schedule-branch-work-sh-bashrc-sourcing-for-pa.md) — 07-17
+- [PR #655: Enhance /handoff command with worker prompt at top and automatic /r execution](sources/pr-655-enhance-handoff-command-with-worker-prompt-at-top.md) — 07-17
+- [PR #656: feat: Enhance Claude startup script with Opus 4 support and selective orchestration](sources/pr-656-feat-enhance-claude-startup-script-with-opus-4-sup.md) — 07-17
+- [PR #657: Add /orch and /orchestrate slash commands with documentation](sources/pr-657-add-orch-and-orchestrate-slash-commands-with-docum.md) — 07-17
+- [PR #658: feat: Complete /list command integration with shell script wrapper](sources/pr-658-feat-complete-list-command-integration-with-shell.md) — 07-17
+- [PR #660: Refactor orchestration system with intelligent LLM-driven agent planning](sources/pr-660-refactor-orchestration-system-with-intelligent-llm.md) — 07-17
+- [PR #662: 🔐 Enhance backup_dotfiles.sh with comprehensive API key filtering](sources/pr-662-enhance-backup-dotfiles-sh-with-comprehensive-api.md) — 07-17
+- [PR #663: fix: /integrate command wrapper to call main ./integrate.sh script](sources/pr-663-fix-integrate-command-wrapper-to-call-main-integra.md) — 07-17
+- [PR #664: Fix integration tests and restore CI replica infrastructure](sources/pr-664-fix-integration-tests-and-restore-ci-replica-infra.md) — 07-18
+- [PR #665: Fix orchestration system agent management and status display](sources/pr-665-fix-orchestration-system-agent-management-and-stat.md) — 07-18
+- [PR #667: Remove dead code from mvp_site/](sources/pr-667-remove-dead-code-from-mvp-site.md) — 07-18
+- [PR #674: Remove unused MCP servers from installation script](sources/pr-674-remove-unused-mcp-servers-from-installation-script.md) — 07-18
+- [PR #676: Generalized File Caching with cachetools - 11x Performance Improvement](sources/pr-676-generalized-file-caching-with-cachetools-11x-perfo.md) — 07-18
+- [PR #677: MAJOR: Update to GitHub's NEW official MCP server + secure token management](sources/pr-677-major-update-to-github-s-new-official-mcp-server-s.md) — 07-18
+- [PR #680: Fix Claude Opus model name in claude_start.sh](sources/pr-680-fix-claude-opus-model-name-in-claude-start-sh.md) — 07-18
+- [PR #681: learn: capture orchestration system breakthrough patterns](sources/pr-681-learn-capture-orchestration-system-breakthrough-pa.md) — 07-18
+- [PR #682: Memory backup: 2025-07-18](sources/pr-682-memory-backup-2025-07-18.md) — 07-18
+- [PR #683: Comprehensive Python Linting Integration with Differentiated Workflows](sources/pr-683-comprehensive-python-linting-integration-with-diff.md) — 07-18
+- [PR #684: Fix memory backup data integrity and add monitoring](sources/pr-684-fix-memory-backup-data-integrity-and-add-monitorin.md) — 07-18
+- [PR #686: Fix integrate.sh conflicts by ignoring auto-updated orchestration status file](sources/pr-686-fix-integrate-sh-conflicts-by-ignoring-auto-update.md) — 07-18
+- [PR #691: Comprehensive Python Linting for testing_ui/ Directory](sources/pr-691-comprehensive-python-linting-for-testing-ui-direct.md) — 07-18
+- [PR #692: Core Services: Essential mvp_site Application Files (37 files)](sources/pr-692-core-services-essential-mvp-site-application-files.md) — 07-18
+- [PR #694: Enhance copilot command with CI error log fetching](sources/pr-694-enhance-copilot-command-with-ci-error-log-fetching.md) — 07-18
+- [PR #695: Tests Part 1: Integration tests and core test files (50 files)](sources/pr-695-tests-part-1-integration-tests-and-core-test-files.md) — 07-18
+- [PR #696: Tests Part 2: Testing frameworks and UI tests (50 files)](sources/pr-696-tests-part-2-testing-frameworks-and-ui-tests-50-fi.md) — 07-18
+- [PR #697: Tests Part 3: Core test suite and debugging tests (50 files)](sources/pr-697-tests-part-3-core-test-suite-and-debugging-tests-5.md) — 07-18
+- [PR #699: Tests Part 4: Advanced tests and specialized components (109 files)](sources/pr-699-tests-part-4-advanced-tests-and-specialized-compon.md) — 07-18
+- [PR #704: 🧠 Add Enhanced Feature Compatibility Protocol - Critical Learning from Copilot Fixes](sources/pr-704-add-enhanced-feature-compatibility-protocol-criti.md) — 07-19
+- [PR #705: Apply comprehensive Python linting to .claude commands directory](sources/pr-705-apply-comprehensive-python-linting-to-claude-comma.md) — 07-19
+- [PR #706: 🤖 Enhanced Copilot Command - Complete Implementation with Modular Architecture](sources/pr-706-enhanced-copilot-command-complete-implementation.md) — 07-19
+- [PR #707: Comprehensive Python Linting: prototype/ Directory (47 files)](sources/pr-707-comprehensive-python-linting-prototype-directory-4.md) — 07-19
+- [PR #708: Comprehensive Python Linting: testing_http/ Directory (36 files)](sources/pr-708-comprehensive-python-linting-testing-http-director.md) — 07-19
+- [PR #709: Comprehensive Python Linting: scripts/ Directory (23 files)](sources/pr-709-comprehensive-python-linting-scripts-directory-23.md) — 07-19
+- [PR #710: Final Comprehensive Python Linting: Remaining Directories (30 files)](sources/pr-710-final-comprehensive-python-linting-remaining-direc.md) — 07-19
+- [PR #712: Add /headless command for automated headless development](sources/pr-712-add-headless-command-for-automated-headless-develo.md) — 07-20
+- [PR #713: Mem backup](sources/pr-713-mem-backup.md) — 07-19
+- [PR #714: 🔧 Agent Orchestration: Critical Portability & Reliability Improvements](sources/pr-714-agent-orchestration-critical-portability-reliabil.md) — 07-19
+- [PR #716: Handoff: Implement /timeout command for performance optimization](sources/pr-716-handoff-implement-timeout-command-for-performance.md) — 07-20
+- [PR #717: Reduce CLAUDE.md by 30% for improved readability](sources/pr-717-reduce-claude-md-by-30-for-improved-readability.md) — 07-19
+- [PR #721: Update claude_start.sh for new memory backup system architecture](sources/pr-721-update-claude-start-sh-for-new-memory-backup-syste.md) — 07-19
+- [PR #722: Handoff: Consolidate copilot.sh and copilot.py](sources/pr-722-handoff-consolidate-copilot-sh-and-copilot-py.md) — 07-20
+- [PR #725: Memory System Cleanup and Migration to jleechanorg](sources/pr-725-memory-system-cleanup-and-migration-to-jleechanorg.md) — 07-19
+- [PR #726: Fix claudepw alias error: unknown option '--worker'](sources/pr-726-fix-claudepw-alias-error-unknown-option-worker.md) — 07-19
+- [PR #727: Fix claude_start.sh --worker flag and add command composition redesign](sources/pr-727-fix-claude-start-sh-worker-flag-and-add-command-co.md) — 07-19
+- [PR #728: Add simplified protocol vs natural command classification system](sources/pr-728-add-simplified-protocol-vs-natural-command-classif.md) — 07-19
+- [PR #730: Create code_research_prompt.md](sources/pr-730-create-code-research-prompt-md.md) — 07-19
+- [PR #736: Require PRs for all changes including roadmap files](sources/pr-736-require-prs-for-all-changes-including-roadmap-file.md) — 07-19
+- [PR #739: Reduce CLAUDE.md by 20% through consolidation](sources/pr-739-reduce-claude-md-by-20-through-consolidation.md) — 07-19
+- [PR #745: Command Composition System Testing and Validation](sources/pr-745-command-composition-system-testing-and-validation.md) — 07-19
+- [PR #749: Add Critical Over-Engineering Prevention Rules](sources/pr-749-add-critical-over-engineering-prevention-rules.md) — 07-19
+- [PR #755: Enhance /handoff and create /commentreply slash commands](sources/pr-755-enhance-handoff-and-create-commentreply-slash-comm.md) — 07-19
+- [PR #756: Simple Command Composition System](sources/pr-756-simple-command-composition-system.md) — 07-19
+- [PR #757: Add anti-demo hook system to prevent placeholder code generation](sources/pr-757-add-anti-demo-hook-system-to-prevent-placeholder-c.md) — 07-20
+- [PR #758: Add comprehensive web search MCP servers with secure token management](sources/pr-758-add-comprehensive-web-search-mcp-servers-with-secu.md) — 07-19
+- [PR #759: Implement centralized token management system for MCP servers](sources/pr-759-implement-centralized-token-management-system-for.md) — 07-19
+- [PR #761: Add /perp multi-engine search command](sources/pr-761-add-perp-multi-engine-search-command.md) — 07-20
+- [PR #762: Add prompt merging script and consolidated MVP site prompts](sources/pr-762-add-prompt-merging-script-and-consolidated-mvp-sit.md) — 07-20
+- [PR #763: new branch command](sources/pr-763-new-branch-command.md) — 07-20
+- [PR #764: Fix integrate.sh syntax error in argument parsing loops](sources/pr-764-fix-integrate-sh-syntax-error-in-argument-parsing.md) — 07-20
+- [PR #765: fix(orchestrate): improve agent reliability for autonomous operation](sources/pr-765-fix-orchestrate-improve-agent-reliability-for-auto.md) — 07-20
+- [PR #767: Enhance /roadmap command with multi-task parallel processing](sources/pr-767-enhance-roadmap-command-with-multi-task-parallel-p.md) — 07-20
+- [PR #768: Comprehensive slash command architecture audit and recommendations](sources/pr-768-comprehensive-slash-command-architecture-audit-and.md) — 07-20
+- [PR #769: feat(memory): Automatic Memory MCP integration for enhanced LLM responses](sources/pr-769-feat-memory-automatic-memory-mcp-integration-for-e.md) — 07-20
+- [PR #770: Strengthen LLM instructions to prevent direct Myers-Briggs and alignment references in narrative](sources/pr-770-strengthen-llm-instructions-to-prevent-direct-myer.md) — 07-20
+- [PR #771: Fix import system and establish Python typing foundation](sources/pr-771-fix-import-system-and-establish-python-typing-foun.md) — 07-21
+- [PR #773: Update /arch command for solo MVP development](sources/pr-773-update-arch-command-for-solo-mvp-development.md) — 07-20
+- [PR #774: Debug command composition: Identify dual architecture solution](sources/pr-774-debug-command-composition-identify-dual-architectu.md) — 07-20
+- [PR #775: Add file deletion impact and scope management protocols](sources/pr-775-add-file-deletion-impact-and-scope-management-prot.md) — 07-20
+- [PR #776: Add /reviewstatus command for PR status checking](sources/pr-776-add-reviewstatus-command-for-pr-status-checking.md) — 07-20
+- [PR #777: Fix orchestration server hardcoded paths to respect worktree context](sources/pr-777-fix-orchestration-server-hardcoded-paths-to-respec.md) — 07-20
+- [PR #778: feat: LLM-native Memory Enhancement Protocol](sources/pr-778-feat-llm-native-memory-enhancement-protocol.md) — 07-20
+- [PR #779: 📚 GitHub Threaded Replies API Guide](sources/pr-779-github-threaded-replies-api-guide.md) — 07-20
+- [PR #780: 🎉 COMPLETE: Advanced Copilot Enhancements - Explicit Architecture (4-Phase Implementation)](sources/pr-780-complete-advanced-copilot-enhancements-explicit-a.md) — 07-20
+- [PR #782: Update /pr command to auto-run /copilot after push](sources/pr-782-update-pr-command-to-auto-run-copilot-after-push.md) — 07-20
+- [PR #783: feat(learning): Add Command Failure Transparency Protocol](sources/pr-783-feat-learning-add-command-failure-transparency-pro.md) — 07-20
+- [PR #784: feat: Extend Memory Enhancement Protocol to /perp and /research commands](sources/pr-784-feat-extend-memory-enhancement-protocol-to-perp-an.md) — 07-20
+- [PR #785: Update /pr command to auto-run /copilot after push](sources/pr-785-update-pr-command-to-auto-run-copilot-after-push.md) — 07-20
+- [PR #787: Fix git-header.sh shebang for better portability](sources/pr-787-fix-git-header-sh-shebang-for-better-portability.md) — 07-20
+- [PR #790: UNIFY: Fix orchestration parallel development anti-pattern](sources/pr-790-unify-fix-orchestration-parallel-development-anti.md) — 07-22
+- [PR #794: feat: Transition to Playwright MCP as default browser automation tool](sources/pr-794-feat-transition-to-playwright-mcp-as-default-brows.md) — 07-20
+- [PR #798: Improve startup script wording clarity](sources/pr-798-improve-startup-script-wording-clarity.md) — 07-20
+- [PR #799: Innovation Documentation: Create README_SUMMARY.md highlighting unique features](sources/pr-799-innovation-documentation-create-readme-summary-md.md) — 07-21
+- [PR #805: Update schedule_branch_work.sh to use current branch by default](sources/pr-805-update-schedule-branch-work-sh-to-use-current-bran.md) — 07-21
+- [PR #814: docs: Add Gemini API import comments](sources/pr-814-docs-add-gemini-api-import-comments.md) — 07-21
+- [PR #816: feat: Add comprehensive campaign launch summary after character creation](sources/pr-816-feat-add-comprehensive-campaign-launch-summary-aft.md) — 07-26
+- [PR #817: Update git-header path references to universal launcher](sources/pr-817-update-git-header-path-references-to-universal-lau.md) — 07-22
+- [PR #818: Remove rigid validation constraints for creative fields](sources/pr-818-remove-rigid-validation-constraints-for-creative-f.md) — 07-22
+- [PR #820: feat: Modular copilot architecture - Split into composable commands](sources/pr-820-feat-modular-copilot-architecture-split-into-compo.md) — 07-22
+- [PR #836: 📝 CodeRabbit Chat: Refactor imports in base.py by moving time import to the top](sources/pr-836-coderabbit-chat-refactor-imports-in-base-py-by-mo.md) — 07-22
+- [PR #837: feat: Add code authenticity detection with LLM analysis](sources/pr-837-feat-add-code-authenticity-detection-with-llm-anal.md) — 07-22
+- [PR #841: docs: Add learnings from PR #818 review process](sources/pr-841-docs-add-learnings-from-pr-818-review-process.md) — 07-22
+- [PR #842: Enhance schedule_branch_work.sh with conversation context awareness](sources/pr-842-enhance-schedule-branch-work-sh-with-conversation.md) — 07-22
+- [PR #843: refactor: Simplify Claude model names in startup script](sources/pr-843-refactor-simplify-claude-model-names-in-startup-sc.md) — 07-22
+- [PR #847: Cherrypick script](sources/pr-847-cherrypick-script.md) — 07-22
+- [PR #848: update download and share icons](sources/pr-848-update-download-and-share-icons.md) — 07-22
+- [PR #850: feat: Add /presentation command for Google Slides compatible presentations](sources/pr-850-feat-add-presentation-command-for-google-slides-co.md) — 07-22
+- [PR #851: feat: Enhance schedule_branch_work.sh to detect work context automatically](sources/pr-851-feat-enhance-schedule-branch-work-sh-to-detect-wor.md) — 07-22
+- [PR #852: learn: Add NO PREMATURE VICTORY DECLARATION rule to CLAUDE.md](sources/pr-852-learn-add-no-premature-victory-declaration-rule-to.md) — 07-22
+- [PR #853: learn: Add AGENT TASK PATIENCE rule from orchestrate debugging](sources/pr-853-learn-add-agent-task-patience-rule-from-orchestrat.md) — 07-22
+- [PR #855: Agent task-agent-9459: Add a simple comment to the top of integrate.sh explaining what it does](sources/pr-855-agent-task-agent-9459-add-a-simple-comment-to-the.md) — 07-22
+- [PR #858: Change test server ports from 6006 to 8081](sources/pr-858-change-test-server-ports-from-6006-to-8081.md) — 07-22
+- [PR #861: Add settings for Gemini model and Debug mode](sources/pr-861-add-settings-for-gemini-model-and-debug-mode.md) — 07-26
+- [PR #863: Add [workspace] to gitignore](sources/pr-863-add-workspace-to-gitignore.md) — 07-22
+- [PR #867: fix: Ensure /commentreply handles ALL individual comments](sources/pr-867-fix-ensure-commentreply-handles-all-individual-com.md) — 07-24
+- [PR #868: Fix: Make debug mode indicator yellow more subtle](sources/pr-868-fix-make-debug-mode-indicator-yellow-more-subtle.md) — 07-22
+- [PR #869: feat: Enhance mvp_site README with comprehensive tech stack analysis](sources/pr-869-feat-enhance-mvp-site-readme-with-comprehensive-te.md) — 07-23
+- [PR #872: Add Animal Web Game Documentation - Product Spec & Technical Design](sources/pr-872-add-animal-web-game-documentation-product-spec-tec.md) — 07-23
+- [PR #873: HANDOFF: A2A SDK Integration with Orchestrator Framework](sources/pr-873-handoff-a2a-sdk-integration-with-orchestrator-fram.md) — 07-23
+- [PR #875: feat: Add fake implementation prevention rules](sources/pr-875-feat-add-fake-implementation-prevention-rules.md) — 07-23
+- [PR #876: docs: Establish Playwright MCP as mandatory primary browser testing method](sources/pr-876-docs-establish-playwright-mcp-as-mandatory-primary.md) — 07-23
+- [PR #877: fix: Replace dynamic project root detection with hardcoded path](sources/pr-877-fix-replace-dynamic-project-root-detection-with-ha.md) — 07-23
+- [PR #878: Add /fake command for comprehensive fake code detection](sources/pr-878-add-fake-command-for-comprehensive-fake-code-detec.md) — 07-23
+- [PR #879: cleanup: Remove export/cursor_commands_export directory](sources/pr-879-cleanup-remove-export-cursor-commands-export-direc.md) — 07-23
+- [PR #880: enhance: Add smart divergence handling to integrate.sh](sources/pr-880-enhance-add-smart-divergence-handling-to-integrate.md) — 07-23
+- [PR #882: fix: Handle repository branch protection rules in integrate.sh](sources/pr-882-fix-handle-repository-branch-protection-rules-in-i.md) — 07-23
+- [PR #883: enhance: Add Memory MCP integration to /fake command for improved fake pattern detection](sources/pr-883-enhance-add-memory-mcp-integration-to-fake-command.md) — 07-23
+- [PR #884: fix: Remove fake pr.py implementation in favor of proper pr.md orchestration](sources/pr-884-fix-remove-fake-pr-py-implementation-in-favor-of-p.md) — 07-23
+- [PR #885: feat: Add /fakel light fake code detection command](sources/pr-885-feat-add-fakel-light-fake-code-detection-command.md) — 07-23
+- [PR #886: feat: Update /fake3 to pure LLM command composition](sources/pr-886-feat-update-fake3-to-pure-llm-command-composition.md) — 07-23
+- [PR #887: Agent task-agent-3570: Find and fix one inline import in the codebase. Search through Python files to locate any inline import statements (imports inside functions or conditionals), then fix by moving to module level. Create a fresh PR from main branch with the fix.](sources/pr-887-agent-task-agent-3570-find-and-fix-one-inline-impo.md) — 07-23
+- [PR #888: docs: Add learnings from orchestration and PR review session](sources/pr-888-docs-add-learnings-from-orchestration-and-pr-revie.md) — 07-23
+- [PR #889: Enhance Memory MCP Quality with Research-Based Patterns](sources/pr-889-enhance-memory-mcp-quality-with-research-based-pat.md) — 07-24
+- [PR #891: Add CLAUDE.md compression strategy and merge main updates](sources/pr-891-add-claude-md-compression-strategy-and-merge-main.md) — 07-24
+- [PR #894: Fix inline import in test_server_manager.py](sources/pr-894-fix-inline-import-in-test-server-manager-py.md) — 07-24
+- [PR #895: fix: Remove inline imports from Python files (clean env)](sources/pr-895-fix-remove-inline-imports-from-python-files-clean.md) — 07-24
+- [PR #900: Agent task-agent-1753387681218: Fix inline imports in multiple Python files](sources/pr-900-agent-task-agent-1753387681218-fix-inline-imports.md) — 07-24
+- [PR #904: Agent task-agent-1753388672620: Fix inline imports in multiple Python files](sources/pr-904-agent-task-agent-1753388672620-fix-inline-imports.md) — 07-25
+- [PR #918: Inline imports: Pr 904 review](sources/pr-918-inline-imports-pr-904-review.md) — 07-25
+- [PR #922: Agent task-agent-1753403124394: Fix inline imports in test_main.py](sources/pr-922-agent-task-agent-1753403124394-fix-inline-imports.md) — 07-25
+- [PR #925: Fix inline imports in test_main.py](sources/pr-925-fix-inline-imports-in-test-main-py.md) — 07-26
+- [PR #932: Agent task-agent-2900: Test ADK cleanup - verify system works](sources/pr-932-agent-task-agent-2900-test-adk-cleanup-verify-syst.md) — 07-25
+- [PR #935: docs(roadmap): Add HANDOFF-PUSHL_FIX task](sources/pr-935-docs-roadmap-add-handoff-pushl-fix-task.md) — 07-25
+- [PR #936: Sync main branch commits (integrate.sh)](sources/pr-936-sync-main-branch-commits-integrate-sh.md) — 07-25
+- [PR #938: fix: eliminate direct main push violations in slash commands](sources/pr-938-fix-eliminate-direct-main-push-violations-in-slash.md) — 07-25
+- [PR #939: 📚 Add Git Analysis Context Checkpoint Protocol](sources/pr-939-add-git-analysis-context-checkpoint-protocol.md) — 07-25
+- [PR #940: Fix /copilot command branch isolation by implementing branch-specific temp directories](sources/pr-940-fix-copilot-command-branch-isolation-by-implementi.md) — 07-25
+- [PR #941: Complete branch isolation fixes for copilot system](sources/pr-941-complete-branch-isolation-fixes-for-copilot-system.md) — 07-25
+- [PR #944: feat: Clean orchestration system with dynamic agents and monitoring](sources/pr-944-feat-clean-orchestration-system-with-dynamic-agent.md) — 07-25
+- [PR #945: Add filesystem MCP server to claude_mcp.sh configuration](sources/pr-945-add-filesystem-mcp-server-to-claude-mcp-sh-configu.md) — 07-25
+- [PR #947: Reduce CLAUDE.md size by 24% while preserving all details](sources/pr-947-reduce-claude-md-size-by-24-while-preserving-all-d.md) — 07-25
+- [PR #948: Fix copilot system /tmp data to use branch-specific naming](sources/pr-948-fix-copilot-system-tmp-data-to-use-branch-specific.md) — 07-25
+- [PR #949: Add comprehensive pre-commit configuration integrating existing linting tools](sources/pr-949-add-comprehensive-pre-commit-configuration-integra.md) — 07-26
+- [PR #950: Agent task-agent-81097935: two tasks. 1) delete orchestration/task_dispatcher_old.py and 2) make integrate.sh source ~/.bashrc and ensure /integrate calls it](sources/pr-950-agent-task-agent-81097935-two-tasks-1-delete-orche.md) — 07-25
+- [PR #951: Enhance /orch command to display PRs at the end](sources/pr-951-enhance-orch-command-to-display-prs-at-the-end.md) — 07-25
+- [PR #955: Add PR update detection to orchestration system](sources/pr-955-add-pr-update-detection-to-orchestration-system.md) — 07-25
+- [PR #956: feat: enhance integration workflow with symlink consolidation and improved UX](sources/pr-956-feat-enhance-integration-workflow-with-symlink-con.md) — 07-26
+- [PR #957: fix: improve integrate.sh to be less overly cautious about unrelated PRs](sources/pr-957-fix-improve-integrate-sh-to-be-less-overly-cautiou.md) — 07-25
+- [PR #958: Fix code quality issues identified by Copilot review](sources/pr-958-fix-code-quality-issues-identified-by-copilot-revi.md) — 07-25
+- [PR #961: Enhance exportcommands.md: Highlight orchestration system as WIP prototype](sources/pr-961-enhance-exportcommands-md-highlight-orchestration.md) — 07-25
+- [PR #963: Update GitHub Statistics for July 25, 2025](sources/pr-963-update-github-statistics-for-july-25-2025.md) — 07-25
+- [PR #964: Transform /copilotsuper to use orchestration agents for parallel processing](sources/pr-964-transform-copilotsuper-to-use-orchestration-agents.md) — 07-26
+- [PR #965: Enhance export command with comprehensive filtering system](sources/pr-965-enhance-export-command-with-comprehensive-filterin.md) — 07-26
+- [PR #966: docs: Session learnings from PR #861 /copilot workflow execution](sources/pr-966-docs-session-learnings-from-pr-861-copilot-workflo.md) — 07-26
+- [PR #967: Agent task-agent-24344965: Enhance /copilot command with comprehensive merge readiness checking](sources/pr-967-agent-task-agent-24344965-enhance-copilot-command.md) — 07-26
+- [PR #975: Enhance /bclean command with comprehensive worktree cleanup functionality](sources/pr-975-enhance-bclean-command-with-comprehensive-worktree.md) — 07-26
+- [PR #976: Add Figma files via upload](sources/pr-976-add-figma-files-via-upload.md) — 07-26
+- [PR #977: 🤖 Add GitHub Claude Slash Commands System](sources/pr-977-add-github-claude-slash-commands-system.md) — 07-26
+- [PR #979: A2A Protocol: Production Agent Communication & 6,365-Line Orchestration Cleanup](sources/pr-979-a2a-protocol-production-agent-communication-6-365.md) — 07-27
+- [PR #984: Sync main branch commits (integrate.sh)](sources/pr-984-sync-main-branch-commits-integrate-sh.md) — 07-26
+- [PR #986: 🐛 Fix missing debug_hook.sh eliminating PreToolUse errors](sources/pr-986-fix-missing-debug-hook-sh-eliminating-pretooluse.md) — 07-26
+- [PR #988: Agent task-agent-2006442: Update mvp_site/README.md with latest codebase info and table of contents](sources/pr-988-agent-task-agent-2006442-update-mvp-site-readme-md.md) — 07-26
+- [PR #990: Restore orchestration version of /copilotsuper from PR #964](sources/pr-990-restore-orchestration-version-of-copilotsuper-from.md) — 07-26
+- [PR #991: 🔧 Fix Claude bot server CLI syntax for GitHub Actions](sources/pr-991-fix-claude-bot-server-cli-syntax-for-github-actio.md) — 07-26
+- [PR #992: feat: Add bot comment filtering rule for --dangerously-skip-permissions](sources/pr-992-feat-add-bot-comment-filtering-rule-for-dangerousl.md) — 07-26
+- [PR #994: Fix Claude bot server CLI syntax and null prompt handling](sources/pr-994-fix-claude-bot-server-cli-syntax-and-null-prompt-h.md) — 07-26
+- [PR #1004: Fix EBADF error in Claude bot server](sources/pr-1004-fix-ebadf-error-in-claude-bot-server.md) — 07-26
+- [PR #1005: Agent task-agent-80914589: Fix debug mode setting ignored during character creation](sources/pr-1005-agent-task-agent-80914589-fix-debug-mode-setting-i.md) — 07-31
+- [PR #1008: feat: Add comprehensive TDD tests for Claude bot server response quality](sources/pr-1008-feat-add-comprehensive-tdd-tests-for-claude-bot-se.md) — 07-26
+- [PR #1016: Memory MCP 2.0: Transform to Intelligent Learning Partner](sources/pr-1016-memory-mcp-2-0-transform-to-intelligent-learning-p.md) — 07-26
+- [PR #1019: MCP Architecture Refactor Plan: Transform main.py to Layered MCP Design](sources/pr-1019-mcp-architecture-refactor-plan-transform-main-py-t.md) — 07-26
+- [PR #1022: fix: Resolve Claude CLI EBADF errors in bot server](sources/pr-1022-fix-resolve-claude-cli-ebadf-errors-in-bot-server.md) — 07-26
+- [PR #1025: enhance: Comprehensive Node.js environment cleanup for EBADF fixes](sources/pr-1025-enhance-comprehensive-node-js-environment-cleanup.md) — 07-26
+- [PR #1027: Frontend v2 Plan: Figma July 25 Prototype Integration Strategy](sources/pr-1027-frontend-v2-plan-figma-july-25-prototype-integrati.md) — 07-26
+- [PR #1028: Website screenshots](sources/pr-1028-website-screenshots.md) — 07-26
+- [PR #1031: figma jul 26](sources/pr-1031-figma-jul-26.md) — 07-26
+- [PR #1032: Add files via upload](sources/pr-1032-add-files-via-upload.md) — 07-26
+- [PR #1036: Agent task-agent-92752723: Replace Settings button text with small gear icon](sources/pr-1036-agent-task-agent-92752723-replace-settings-button.md) — 07-27
+- [PR #1038: feat: MCP Architecture Refactor - Transform main.py to Layered MCP Design](sources/pr-1038-feat-mcp-architecture-refactor-transform-main-py-t.md) — 07-31
+- [PR #1039: Create README.md](sources/pr-1039-create-readme-md.md) — 07-27
+- [PR #1040: Add files via upload](sources/pr-1040-add-files-via-upload.md) — 07-27
+- [PR #1043: feat: Orchestration improvements - 24-hour sessions & optional PR creation](sources/pr-1043-feat-orchestration-improvements-24-hour-sessions-o.md) — 07-28
+- [PR #1056: Add orchestration direct execution prevention protocol](sources/pr-1056-add-orchestration-direct-execution-prevention-prot.md) — 07-28
+- [PR #1057: Implement Direct Prototype Integration - Frontend v2 UI](sources/pr-1057-implement-direct-prototype-integration-frontend-v2.md) — 07-31
+- [PR #1059: Fix /fixpr command: Remove non-existent fixpr.py references, convert to pure orchestrator](sources/pr-1059-fix-fixpr-command-remove-non-existent-fixpr-py-ref.md) — 07-28
+- [PR #1060: fix: Resolve pushl command path conflict preventing copilot automation](sources/pr-1060-fix-resolve-pushl-command-path-conflict-preventing.md) — 07-28
+- [PR #1061: Enhance /fixpr command portability and robustness](sources/pr-1061-enhance-fixpr-command-portability-and-robustness.md) — 07-28
+- [PR #1062: feat: Add explicit subagent integration to /copilot command for 3-5x performance improvement](sources/pr-1062-feat-add-explicit-subagent-integration-to-copilot.md) — 07-29
+- [PR #1063: Add Collaboration Guidelines to CLAUDE.md](sources/pr-1063-add-collaboration-guidelines-to-claude-md.md) — 07-28
+- [PR #1064: Enhance CLAUDE.md with Community Research-Based Best Practices](sources/pr-1064-enhance-claude-md-with-community-research-based-be.md) — 07-29
+- [PR #1066: feat: Convert /review and /reviewdeep commands to use virtual agents](sources/pr-1066-feat-convert-review-and-reviewdeep-commands-to-use.md) — 07-29
+- [PR #1067: Figma site Add files via upload](sources/pr-1067-figma-site-add-files-via-upload.md) — 07-29
+- [PR #1068: Create StyleGuide.md](sources/pr-1068-create-styleguide-md.md) — 07-29
+- [PR #1069: Add files via upload](sources/pr-1069-add-files-via-upload.md) — 07-29
+- [PR #1070: feat: Add critical review process improvements to CLAUDE.md](sources/pr-1070-feat-add-critical-review-process-improvements-to-c.md) — 07-29
+- [PR #1071: Convert /execute to plan-approve-execute composition](sources/pr-1071-convert-execute-to-plan-approve-execute-compositio.md) — 07-29
+- [PR #1072: learn: Add Task delegation decision matrix and execution strategy guidance](sources/pr-1072-learn-add-task-delegation-decision-matrix-and-exec.md) — 07-29
+- [PR #1073: Enhance exportcommands: Add mandatory cleanup phase for accurate exports](sources/pr-1073-enhance-exportcommands-add-mandatory-cleanup-phase.md) — 07-29
+- [PR #1074: Add parallel tasks vs subagents decision framework](sources/pr-1074-add-parallel-tasks-vs-subagents-decision-framework.md) — 07-29
+- [PR #1079: feat: Enhanced pushl command with reliability improvements](sources/pr-1079-feat-enhanced-pushl-command-with-reliability-impro.md) — 07-30
+- [PR #1080: fix: Add defensive programming patterns to prevent 'list' object has no attribute 'get' error in /fixpr command](sources/pr-1080-fix-add-defensive-programming-patterns-to-prevent.md) — 07-30
+- [PR #1081: fix: Apply comprehensive formatting fixes from PR #1038](sources/pr-1081-fix-apply-comprehensive-formatting-fixes-from-pr-1.md) — 07-30
+- [PR #1082: Apply formatting fixes and migrate static to frontend_v1 from PR #1038](sources/pr-1082-apply-formatting-fixes-and-migrate-static-to-front.md) — 07-30
+- [PR #1083: feat: Add plan display and parallelization strategy to /execute command](sources/pr-1083-feat-add-plan-display-and-parallelization-strategy.md) — 07-30
+- [PR #1084: improve: Make /copilot default behavior more obvious when run without args](sources/pr-1084-improve-make-copilot-default-behavior-more-obvious.md) — 07-30
+- [PR #1085: 🚨 CRITICAL: Add mandatory GitHub API pagination protocols](sources/pr-1085-critical-add-mandatory-github-api-pagination-prot.md) — 07-30
+- [PR #1086: Create debug_prompt.md](sources/pr-1086-create-debug-prompt-md.md) — 07-30
+- [PR #1089: 🐛 Fix integrate.sh to check against origin/main instead of branch upstream](sources/pr-1089-fix-integrate-sh-to-check-against-origin-main-ins.md) — 07-30
+- [PR #1090: fix: Apply missing formatting improvements from PR #1038](sources/pr-1090-fix-apply-missing-formatting-improvements-from-pr.md) — 07-30
+- [PR #1091: feat: enhance /perp command with Gemini MCP integration for dual AI analysis](sources/pr-1091-feat-enhance-perp-command-with-gemini-mcp-integrat.md) — 07-30
+- [PR #1092: feat: add comprehensive debugging protocol slash command (/debugp)](sources/pr-1092-feat-add-comprehensive-debugging-protocol-slash-co.md) — 07-30
+- [PR #1093: feat: Apply additional formatting improvements from PR #1038](sources/pr-1093-feat-apply-additional-formatting-improvements-from.md) — 07-30
+- [PR #1094: enhance: integrate /redgreen methodology into fixpr for GitHub CI vs local test discrepancies](sources/pr-1094-enhance-integrate-redgreen-methodology-into-fixpr.md) — 07-30
+- [PR #1095: feat: add comprehensive subagent strategy guide for WorldArchitect.AI](sources/pr-1095-feat-add-comprehensive-subagent-strategy-guide-for.md) — 08-03
+- [PR #1096: feat: Comprehensive codebase linting improvements](sources/pr-1096-feat-comprehensive-codebase-linting-improvements.md) — 07-31
+- [PR #1097: feat: compress CLAUDE.md under 40KB while preserving research annotation format](sources/pr-1097-feat-compress-claude-md-under-40kb-while-preservin.md) — 07-31
+- [PR #1098: feat: Add /batchcopilot command with automation infrastructure](sources/pr-1098-feat-add-batchcopilot-command-with-automation-infr.md) — 07-31
+- [PR #1099: feat: Add MCP Server Integration and Cloud Deployment Support](sources/pr-1099-feat-add-mcp-server-integration-and-cloud-deployme.md) — 07-31
+- [PR #1100: feat: Comprehensive Roadmap Analysis & System Improvement Plan](sources/pr-1100-feat-comprehensive-roadmap-analysis-system-improve.md) — 07-31
+- [PR #1104: feat: Restructure roadmap with task management protocol and completion audit](sources/pr-1104-feat-restructure-roadmap-with-task-management-prot.md) — 07-31
+- [PR #1106: feat: Add intelligent stage optimization to copilot workflow](sources/pr-1106-feat-add-intelligent-stage-optimization-to-copilot.md) — 07-31
+- [PR #1107: Complete TASK-162: Main.py world logic diff analysis with critical gaps identified](sources/pr-1107-complete-task-162-main-py-world-logic-diff-analysi.md) — 08-04
+- [PR #1114: feat: Implement JSON input schema for LLM communication with TDD](sources/pr-1114-feat-implement-json-input-schema-for-llm-communica.md) — 08-03
+- [PR #1115: fix: integrate.sh false positive after PR merge - compare local vs remote tracking branch](sources/pr-1115-fix-integrate-sh-false-positive-after-pr-merge-com.md) — 07-31
+- [PR #1117: feat: Add dynamic narrative experience point award system](sources/pr-1117-feat-add-dynamic-narrative-experience-point-award.md) — 08-02
+- [PR #1119: Enhanced PR Automation with Intelligent Test Fixing and Email Notifications](sources/pr-1119-enhanced-pr-automation-with-intelligent-test-fixin.md) — 07-31
+- [PR #1120: crontab resolve stuff](sources/pr-1120-crontab-resolve-stuff.md) — 08-01
+- [PR #1121: Fix: Implement 4 critical gaps in MCP migration](sources/pr-1121-fix-implement-4-critical-gaps-in-mcp-migration.md) — 08-02
+- [PR #1122: fix: Fix integrate.sh --force functionality to properly stash uncommitted changes](sources/pr-1122-fix-fix-integrate-sh-force-functionality-to-proper.md) — 08-02
+- [PR #1123: fix: Handle unbound VIRTUAL_ENV variable in run_lint.sh](sources/pr-1123-fix-handle-unbound-virtual-env-variable-in-run-lin.md) — 08-01
+- [PR #1126: Fix TASK-161: Semantic String Matching Replacement (Correct Approach)](sources/pr-1126-fix-task-161-semantic-string-matching-replacement.md) — 08-02
+- [PR #1127: Fix PR automation timeout issues with comprehensive timeout handling](sources/pr-1127-fix-pr-automation-timeout-issues-with-comprehensiv.md) — 08-02
+- [PR #1128: feat: Add AI-assisted development protocols and estimation methodology](sources/pr-1128-feat-add-ai-assisted-development-protocols-and-est.md) — 08-02
+- [PR #1129: feat: Fix agent limit enforcement and enhance orchestration system](sources/pr-1129-feat-fix-agent-limit-enforcement-and-enhance-orche.md) — 08-02
+- [PR #1132: Clean Vast.ai + Redis LLM Caching Setup with WorldAI Rebrand](sources/pr-1132-clean-vast-ai-redis-llm-caching-setup-with-worldai.md) — 08-03
+- [PR #1133: feat: Add branch isolation to PR automation system](sources/pr-1133-feat-add-branch-isolation-to-pr-automation-system.md) — 08-02
+- [PR #1138: feat: Enhance debug-protocol.md with Memory MCP and /research integration](sources/pr-1138-feat-enhance-debug-protocol-md-with-memory-mcp-and.md) — 08-02
+- [PR #1139: fix: enforce research integrity by requiring source verification](sources/pr-1139-fix-enforce-research-integrity-by-requiring-source.md) — 08-02
+- [PR #1140: feat: Add DORA metrics and PR timing analysis to git stats script](sources/pr-1140-feat-add-dora-metrics-and-pr-timing-analysis-to-gi.md) — 08-02
+- [PR #1142: fix: Update Gemini token limits to prevent backstory cutoffs](sources/pr-1142-fix-update-gemini-token-limits-to-prevent-backstor.md) — 08-03
+- [PR #1143: Reduce TMux Agent Timeout from 24h to 1h + Smart Cleanup](sources/pr-1143-reduce-tmux-agent-timeout-from-24h-to-1h-smart-cle.md) — 08-03
+- [PR #1144: Enhance exportcommands with comprehensive testing infrastructure and development tools](sources/pr-1144-enhance-exportcommands-with-comprehensive-testing.md) — 08-03
+- [PR #1145: docs: Add GitHub API self-approval limitation rule and analysis](sources/pr-1145-docs-add-github-api-self-approval-limitation-rule.md) — 08-03
+- [PR #1148: Exclude testing directories from export to maintain generic reference nature](sources/pr-1148-exclude-testing-directories-from-export-to-maintai.md) — 08-03
+- [PR #1149: Fix companion generation: Replace vague LLM instructions with crystal-clear requirements](sources/pr-1149-fix-companion-generation-replace-vague-llm-instruc.md) — 08-03
+- [PR #1150: fix: Prevent debug state information leakage in API responses when debug_mode=True](sources/pr-1150-fix-prevent-debug-state-information-leakage-in-api.md) — 08-04
+- [PR #1152: Create Genesis.sh](sources/pr-1152-create-genesis-sh.md) — 08-03
+- [PR #1153: Design multi LLM strategy](sources/pr-1153-design-multi-llm-strategy.md) — 08-03
+- [PR #1154: Add infrastructure scripts to exportcommands for comprehensive development environment export](sources/pr-1154-add-infrastructure-scripts-to-exportcommands-for-c.md) — 08-03
+- [PR #1157: Handoff: CommentReply Threading Enhancement](sources/pr-1157-handoff-commentreply-threading-enhancement.md) — 08-03
+- [PR #1158: Cmd2](sources/pr-1158-cmd2.md) — 08-03
+- [PR #1159: Optimize CLAUDE.md file size: 47kb → 40kb (13% reduction) while preserving all critical functionality](sources/pr-1159-optimize-claude-md-file-size-47kb-40kb-13-reductio.md) — 08-03
+- [PR #1160: feat: Infrastructure Export from PR #1118 - Enhanced Command System](sources/pr-1160-feat-infrastructure-export-from-pr-1118-enhanced-c.md) — 08-03
+- [PR #1162: Local handoff commentreply threading v2](sources/pr-1162-local-handoff-commentreply-threading-v2.md) — 08-03
+- [PR #1163: feat: Complete React V2 Authentication + Milestone 1 Matrix Testing Fixes](sources/pr-1163-feat-complete-react-v2-authentication-milestone-1.md) — 08-04
+- [PR #1164: Security fixes and improvements for CommentReply Threading system](sources/pr-1164-security-fixes-and-improvements-for-commentreply-t.md) — 08-03
+- [PR #1165: Enhance /exportcommand with install script generation](sources/pr-1165-enhance-exportcommand-with-install-script-generati.md) — 08-03
+- [PR #1166: feat: Implement Smart Sync Check Protocol to prevent local changes not pushed to remote](sources/pr-1166-feat-implement-smart-sync-check-protocol-to-preven.md) — 08-03
+- [PR #1170: fix: Replace invalid PostCommit hook with PostToolUse for git commits](sources/pr-1170-fix-replace-invalid-postcommit-hook-with-posttoolu.md) — 08-04
+- [PR #1171: Scheduler remove ccschedule](sources/pr-1171-scheduler-remove-ccschedule.md) — 08-04
+- [PR #1172: Switch to sonnet](sources/pr-1172-switch-to-sonnet.md) — 08-04
+- [PR #1173: Fix cerebrus proxy](sources/pr-1173-fix-cerebrus-proxy.md) — 08-04
+- [PR #1175: Improve /exportcommands install script gitignore logic](sources/pr-1175-improve-exportcommands-install-script-gitignore-lo.md) — 08-04
+- [PR #1176: feat: Add Serena MCP server support for semantic file operations](sources/pr-1176-feat-add-serena-mcp-server-support-for-semantic-fi.md) — 08-04
+- [PR #1177: 🚨 CRITICAL: Fix PR automation branch isolation vulnerability](sources/pr-1177-critical-fix-pr-automation-branch-isolation-vulne.md) — 08-04
+- [PR #1178: 🚨 CRITICAL: Fix orchestration stale task queue bug - prevent prompt file reuse](sources/pr-1178-critical-fix-orchestration-stale-task-queue-bug-p.md) — 08-04
+- [PR #1180: Add comprehensive orchestration integration tests to prevent stale task queue bug](sources/pr-1180-add-comprehensive-orchestration-integration-tests.md) — 08-04
+- [PR #1181: 📚 Document PR automation safety limits and emergency controls](sources/pr-1181-document-pr-automation-safety-limits-and-emergenc.md) — 08-04
+- [PR #1182: Enhance review commands to enforce GitHub comment posting](sources/pr-1182-enhance-review-commands-to-enforce-github-comment.md) — 08-04
+- [PR #1183: 🔧 Fix lint issues in core files](sources/pr-1183-fix-lint-issues-in-core-files.md) — 08-04
+- [PR #1187: feat: React V2 Campaign Creation API Integration & Matrix Testing](sources/pr-1187-feat-react-v2-campaign-creation-api-integration-ma.md) — 08-08
+- [PR #1192: Status Report: Comprehensive Founder Analysis + LLM Meta-Testing Framework](sources/pr-1192-status-report-comprehensive-founder-analysis-llm-m.md) — 08-05
+- [PR #1193: 📊 Add Claude Code Session Analysis Report (July-August 2025)](sources/pr-1193-add-claude-code-session-analysis-report-july-augu.md) — 08-06
+- [PR #1194: Enhance /exportcommands to focus on command composition architecture](sources/pr-1194-enhance-exportcommands-to-focus-on-command-composi.md) — 08-06
+- [PR #1196: Create genesis_coding.md](sources/pr-1196-create-genesis-coding-md.md) — 08-06
+- [PR #1199: Add comprehensive backup validation system with multi-email support](sources/pr-1199-add-comprehensive-backup-validation-system-with-mu.md) — 08-07
+- [PR #1201: Add hooks export functionality to /exportcommands](sources/pr-1201-add-hooks-export-functionality-to-exportcommands.md) — 08-07
+- [PR #1203: 🚨 CRITICAL: Fix /exportcommands to exclude folders and always print PR URL](sources/pr-1203-critical-fix-exportcommands-to-exclude-folders-an.md) — 08-08
+- [PR #1208: Sync main branch commits (integrate.sh)](sources/pr-1208-sync-main-branch-commits-integrate-sh.md) — 08-08
+- [PR #1211: 🧹 Clean up unused composition hook files](sources/pr-1211-clean-up-unused-composition-hook-files.md) — 08-08
+- [PR #1212: feat: Enhance git header with status display and intelligent PR inference](sources/pr-1212-feat-enhance-git-header-with-status-display-and-in.md) — 08-08
+- [PR #1213: Fix: Add slash command verification protocol](sources/pr-1213-fix-add-slash-command-verification-protocol.md) — 08-08
+- [PR #1214: feat: React V2 Interface Testing Results & Current State Analysis](sources/pr-1214-feat-react-v2-interface-testing-results-current-st.md) — 08-08
+- [PR #1217: Add venv pattern to .gitignore](sources/pr-1217-add-venv-pattern-to-gitignore.md) — 08-08
+- [PR #1219: Automated backup of dotfiles from Cloud Workstation: 2025-08-08 16:43:57](sources/pr-1219-automated-backup-of-dotfiles-from-cloud-workstatio.md) — 08-08
+- [PR #1220: feat: Install requirements builder & document V2 planning block fix requirements](sources/pr-1220-feat-install-requirements-builder-document-v2-plan.md) — 08-09
+- [PR #1222: feat: Enhance exportcommands README with command combination features](sources/pr-1222-feat-enhance-exportcommands-readme-with-command-co.md) — 08-09
+- [PR #1226: feat: Enhanced code review system with conversation history search](sources/pr-1226-feat-enhanced-code-review-system-with-conversation.md) — 08-09
+- [PR #1227: feat: Comprehensive Research-Backed Speculation & Fake Code Detection System](sources/pr-1227-feat-comprehensive-research-backed-speculation-fak.md) — 08-09
+- [PR #1230: docs: Move research files from project root to docs/ directory](sources/pr-1230-docs-move-research-files-from-project-root-to-docs.md) — 08-09
+- [PR #1232: Context Optimization System: Enhanced Context Management & Strategic Monitoring](sources/pr-1232-context-optimization-system-enhanced-context-manag.md) — 08-09
+- [PR #1234: feat: Add --continue flag and branch-specific commits to schedule_branch_work.sh](sources/pr-1234-feat-add-continue-flag-and-branch-specific-commits.md) — 08-09
+- [PR #1235: Disable Claude bot memory monitor auto-start](sources/pr-1235-disable-claude-bot-memory-monitor-auto-start.md) — 08-09
+- [PR #1237: Create pc-specs.md](sources/pr-1237-create-pc-specs-md.md) — 08-09
+- [PR #1239: feat: Add latest GitHub development statistics (2025-08-09)](sources/pr-1239-feat-add-latest-github-development-statistics-2025.md) — 08-10
+- [PR #1241: fix: Enhanced ExportCommands system with template-based README and version history](sources/pr-1241-fix-enhanced-exportcommands-system-with-template-b.md) — 08-10
+- [PR #1242: Create test_failures.md](sources/pr-1242-create-test-failures-md.md) — 08-10
+- [PR #1243: Fix Claude Code hooks configuration issues](sources/pr-1243-fix-claude-code-hooks-configuration-issues.md) — 08-10
+- [PR #1244: Optimize Claude Code hook system addressing bot-reported issues](sources/pr-1244-optimize-claude-code-hook-system-addressing-bot-re.md) — 08-10
+- [PR #1245: fix: Improve run_local_server.sh virtual environment handling](sources/pr-1245-fix-improve-run-local-server-sh-virtual-environmen.md) — 08-10
+- [PR #1246: Remove game server from startup scripts](sources/pr-1246-remove-game-server-from-startup-scripts.md) — 08-10
+- [PR #1247: fix: Export system improvements - settings.json configuration and Claude Code self-setup](sources/pr-1247-fix-export-system-improvements-settings-json-confi.md) — 08-10
+- [PR #1248: fix: Restore Claude Code hooks functionality - UserPromptSubmit and speculation detection](sources/pr-1248-fix-restore-claude-code-hooks-functionality-userpr.md) — 08-10
+- [PR #1249: Memory-Safe Test Runner: Three-Tier System (Shell-Based Solution)](sources/pr-1249-memory-safe-test-runner-three-tier-system-shell-ba.md) — 08-10
+- [PR #1250: Enhanced Copilot System with Adaptive Linear Processing and Dual Response Threading](sources/pr-1250-enhanced-copilot-system-with-adaptive-linear-proce.md) — 08-10
+- [PR #1255: Create fake_code_enhanced.md](sources/pr-1255-create-fake-code-enhanced-md.md) — 08-10
+- [PR #1256: feat: Enhance fake code detection hook to suggest /fake command](sources/pr-1256-feat-enhance-fake-code-detection-hook-to-suggest-f.md) — 08-10
+- [PR #1257: feat: Complete GitHub stats integration with LLM-first PR intelligence architecture](sources/pr-1257-feat-complete-github-stats-integration-with-llm-fi.md) — 08-10
+- [PR #1259: docs: Add proper attribution to requirements-* commands](sources/pr-1259-docs-add-proper-attribution-to-requirements-comman.md) — 08-10
+- [PR #1260: fix: Resolve integrate.sh dependency and error handling issues](sources/pr-1260-fix-resolve-integrate-sh-dependency-and-error-hand.md) — 08-10
+- [PR #1262: feat: Add @Streen9/react-mcp integration for React development tools](sources/pr-1262-feat-add-streen9-react-mcp-integration-for-react-d.md) — 08-10
+- [PR #1263: feat: Replicate valuable functionality from PR #1218](sources/pr-1263-feat-replicate-valuable-functionality-from-pr-1218.md) — 08-10
+- [PR #1264: fix: Remove built artifacts from source control (Split from #1221)](sources/pr-1264-fix-remove-built-artifacts-from-source-control-spl.md) — 08-11
+- [PR #1274: Update requirements-start.md](sources/pr-1274-update-requirements-start-md.md) — 08-11
+- [PR #1275: Update review commands to use [AI reviewer] as comment author](sources/pr-1275-update-review-commands-to-use-ai-reviewer-as-comme.md) — 08-12
+- [PR #1276: feat: Add commit hash URL output to /pushl command](sources/pr-1276-feat-add-commit-hash-url-output-to-pushl-command.md) — 08-12
+- [PR #1277: feat: Enhance /reviewdeep command with explicit execution flow](sources/pr-1277-feat-enhance-reviewdeep-command-with-explicit-exec.md) — 08-12
+- [PR #1282: feat: Compress CLAUDE.md for optimal readability and maintenance (78% reduction)](sources/pr-1282-feat-compress-claude-md-for-optimal-readability-an.md) — 08-12
+- [PR #1283: feat: Increase Gemini 2.5 Flash payload limit to 10MB](sources/pr-1283-feat-increase-gemini-2-5-flash-payload-limit-to-10.md) — 08-12
+- [PR #1285: Fix create_worktree.sh to navigate to existing directory instead of exiting](sources/pr-1285-fix-create-worktree-sh-to-navigate-to-existing-dir.md) — 08-13
+- [PR #1286: feat: Comprehensive mistake prevention system for AI development](sources/pr-1286-feat-comprehensive-mistake-prevention-system-for-a.md) — 08-13
+- [PR #1287: feat: Integrate Genesis Coder, Prime Mover Rule into CLAUDE.md](sources/pr-1287-feat-integrate-genesis-coder-prime-mover-rule-into.md) — 08-13
+- [PR #1288: fix: Minimal GitHub Actions security and parallelization fixes](sources/pr-1288-fix-minimal-github-actions-security-and-paralleliz.md) — 08-13
+- [PR #1289: feat: Extract beneficial slash command improvements from PR #1254](sources/pr-1289-feat-extract-beneficial-slash-command-improvements.md) — 08-14
+- [PR #1290: fix: Universal command composition hook with JSON stdin parsing and comprehensive tests](sources/pr-1290-fix-universal-command-composition-hook-with-json-s.md) — 08-13
+- [PR #1291: fix: Debug and fix orchestration startup issues with timeout handling](sources/pr-1291-fix-debug-and-fix-orchestration-startup-issues-wit.md) — 08-13
+- [PR #1292: fix: Export fixes and command consolidation](sources/pr-1292-fix-export-fixes-and-command-consolidation.md) — 08-14
+- [PR #1294: feat: Implement zero-tolerance skip pattern ban for tests](sources/pr-1294-feat-implement-zero-tolerance-skip-pattern-ban-for.md) — 08-18
+- [PR #1295: feat: Restore complete copilot workflow with all phases](sources/pr-1295-feat-restore-complete-copilot-workflow-with-all-ph.md) — 08-15
+- [PR #1297: foundation: comprehensive security, validation, and type safety improvements](sources/pr-1297-foundation-comprehensive-security-validation-and-t.md) — 08-18
+- [PR #1298: fix: robust PORT environment variable parsing across codebase](sources/pr-1298-fix-robust-port-environment-variable-parsing-acros.md) — 08-18
+- [PR #1299: security: fix test mode authentication bypass vulnerability in production](sources/pr-1299-security-fix-test-mode-authentication-bypass-vulne.md) — 08-18
+- [PR #1300: 🔒 Complete hook security fixes and TDD test suite implementation](sources/pr-1300-complete-hook-security-fixes-and-tdd-test-suite-i.md) — 08-15
+- [PR #1302: docs(roadmap): Add CRITICAL handoff for copilot skip detection bug](sources/pr-1302-docs-roadmap-add-critical-handoff-for-copilot-skip.md) — 08-15
+- [PR #1303: fix: Enforce branch isolation for copilot comment handling](sources/pr-1303-fix-enforce-branch-isolation-for-copilot-comment-h.md) — 08-15
+- [PR #1304: Fix: Export Command LLM Placeholder Replacement](sources/pr-1304-fix-export-command-llm-placeholder-replacement.md) — 08-15
+- [PR #1307: Add comprehensive V2 Planning Blocks design documentation and enhanced /design command](sources/pr-1307-add-comprehensive-v2-planning-blocks-design-docume.md) — 08-15
+- [PR #1308: fix: Embed guidelines functionality directly into /plan and /execute commands](sources/pr-1308-fix-embed-guidelines-functionality-directly-into-p.md) — 08-15
+- [PR #1309: 🚨 CRITICAL: Mandatory New File Creation Protocol](sources/pr-1309-critical-mandatory-new-file-creation-protocol.md) — 08-15
+- [PR #1310: feat: Add intelligent /split command for PR analysis](sources/pr-1310-feat-add-intelligent-split-command-for-pr-analysis.md) — 08-15
+- [PR #1313: feat: Design intelligent test selection system for PR optimization](sources/pr-1313-feat-design-intelligent-test-selection-system-for.md) — 08-17
+- [PR #1328: Add QWEN.md primary rules file for AI collaboration](sources/pr-1328-add-qwen-md-primary-rules-file-for-ai-collaboratio.md) — 08-16
+- [PR #1332: Revolutionary /qwen Slash Command: Multi-Model Orchestration Breakthrough](sources/pr-1332-revolutionary-qwen-slash-command-multi-model-orche.md) — 08-17
+- [PR #1334: Automated backup of dotfiles from Cloud Workstation: 2025-08-16 21:58:40](sources/pr-1334-automated-backup-of-dotfiles-from-cloud-workstatio.md) — 08-17
+- [PR #1337: roadmap: hybrid reviewdeep implementation plan](sources/pr-1337-roadmap-hybrid-reviewdeep-implementation-plan.md) — 08-17
+- [PR #1339: Create qwen_cmd_project.md](sources/pr-1339-create-qwen-cmd-project-md.md) — 08-17
+- [PR #1340: Move skills documentation to organized directory structure](sources/pr-1340-move-skills-documentation-to-organized-directory-s.md) — 08-17
+- [PR #1341: Create skillsv2.md](sources/pr-1341-create-skillsv2-md.md) — 08-17
+- [PR #1342: feat: Comprehensive Qwen vs Sonnet Benchmark Analysis (August 2025)](sources/pr-1342-feat-comprehensive-qwen-vs-sonnet-benchmark-analys.md) — 08-17
+- [PR #1344: Add Balanced Technical Skills Assessment: Critical Analysis of AI Development Capabilities](sources/pr-1344-add-balanced-technical-skills-assessment-critical.md) — 08-17
+- [PR #1346: Create gemini_convo_aug_17.md](sources/pr-1346-create-gemini-convo-aug-17-md.md) — 08-17
+- [PR #1353: Sync main branch commits (integrate.sh)](sources/pr-1353-sync-main-branch-commits-integrate-sh.md) — 08-17
+- [PR #1354: feat: Comprehensive Claude Command Systems Analysis & Ranking 2024-2025](sources/pr-1354-feat-comprehensive-claude-command-systems-analysis.md) — 08-17
+- [PR #1355: feat: Implement UserJot-compliant agent specifications for Claude Code](sources/pr-1355-feat-implement-userjot-compliant-agent-specificati.md) — 08-18
+- [PR #1356: feat: optimize /plan command for maximum /qwen code generation batching](sources/pr-1356-feat-optimize-plan-command-for-maximum-qwen-code-g.md) — 08-17
+- [PR #1357: feat: Add .claude/agents/ directory export support](sources/pr-1357-feat-add-claude-agents-directory-export-support.md) — 08-18
+- [PR #1358: fix: Resolve critical security vulnerabilities from PR #1294](sources/pr-1358-fix-resolve-critical-security-vulnerabilities-from.md) — 08-18
+- [PR #1359: docs: Add comprehensive MacBook dev environment setup guide](sources/pr-1359-docs-add-comprehensive-macbook-dev-environment-set.md) — 08-18
+- [PR #1360: feat: increase /qwen token limit from 2K to 500K](sources/pr-1360-feat-increase-qwen-token-limit-from-2k-to-500k.md) — 08-18
+- [PR #1361: Dev1755485926](sources/pr-1361-dev1755485926.md) — 08-18
+- [PR #1364: fix: Escape f-string braces in exportcommands.py](sources/pr-1364-fix-escape-f-string-braces-in-exportcommands-py.md) — 08-18
+- [PR #1368: feat: Add git worktree isolation to copilotsuper command](sources/pr-1368-feat-add-git-worktree-isolation-to-copilotsuper-co.md) — 08-18
+- [PR #1369: feat: rename /qwen command to /cerebras with aliases](sources/pr-1369-feat-rename-qwen-command-to-cerebras-with-aliases.md) — 08-18
+- [PR #1370: fix: CRDT-based memory backup system for parallel environments](sources/pr-1370-fix-crdt-based-memory-backup-system-for-parallel-e.md) — 08-20
+- [PR #1371: fix: Transform /exportcommands to use whole directory copying with user confirmation](sources/pr-1371-fix-transform-exportcommands-to-use-whole-director.md) — 08-20
+- [PR #1373: feat: rename /status to /gstatus with enhanced git status functionality](sources/pr-1373-feat-rename-status-to-gstatus-with-enhanced-git-st.md) — 08-18
+- [PR #1381: feat: Add /converge slash command for iterative goal achievement](sources/pr-1381-feat-add-converge-slash-command-for-iterative-goal.md) — 08-19
+- [PR #1382: Improvement/type safety foundation](sources/pr-1382-improvement-type-safety-foundation.md) — 08-18
+- [PR #1385: feat: Multi-Player Intelligent Command Combination Hook](sources/pr-1385-feat-multi-player-intelligent-command-combination.md) — 08-18
+- [PR #1386: fix: macOS compatibility for claude_mcp.sh bash requirements](sources/pr-1386-fix-macos-compatibility-for-claude-mcp-sh-bash-req.md) — 08-18
+- [PR #1389: feat: dynamic date via command execution](sources/pr-1389-feat-dynamic-date-via-command-execution.md) — 08-19
+- [PR #1390: 🚀 Enforce /cerebras usage in cerebras-coder agent - Zero tolerance validation](sources/pr-1390-enforce-cerebras-usage-in-cerebras-coder-agent-ze.md) — 08-19
+- [PR #1391: Add iOS Simulator MCP server for mobile app development and testing](sources/pr-1391-add-ios-simulator-mcp-server-for-mobile-app-develo.md) — 08-19
+- [PR #1392: compress: Balanced optimization of CLAUDE.md to 27k chars (48% reduction)](sources/pr-1392-compress-balanced-optimization-of-claude-md-to-27k.md) — 08-19
+- [PR #1393: Enhanced Claude Projects Backup System with Device-Specific Naming](sources/pr-1393-enhanced-claude-projects-backup-system-with-device.md) — 08-19
+- [PR #1395: feat: Add filtering to exclude /converge and /orchc commands from exports](sources/pr-1395-feat-add-filtering-to-exclude-converge-and-orchc-c.md) — 08-20
+- [PR #1396: Fix cerebras-coder agent environment variable loading](sources/pr-1396-fix-cerebras-coder-agent-environment-variable-load.md) — 08-20
+- [PR #1397: chore: Remove completed task specifications and review report](sources/pr-1397-chore-remove-completed-task-specifications-and-rev.md) — 08-20
+- [PR #1398: enhance: Improve local development server with comprehensive health checks and cleanup](sources/pr-1398-enhance-improve-local-development-server-with-comp.md) — 08-20
+- [PR #1401: 🔒 Security Fixes for Memory MCP Synchronization System](sources/pr-1401-security-fixes-for-memory-mcp-synchronization-sys.md) — 08-20
+- [PR #1403: fix: Shell injection vulnerability in local server launcher](sources/pr-1403-fix-shell-injection-vulnerability-in-local-server.md) — 08-20
+- [PR #1404: feat: Stop Serena MCP Server auto-browser opening with team config](sources/pr-1404-feat-stop-serena-mcp-server-auto-browser-opening-w.md) — 08-20
+- [PR #1405: Fix MCP servers using red-green testing methodology](sources/pr-1405-fix-mcp-servers-using-red-green-testing-methodolog.md) — 08-22
+- [PR #1406: feat: Enhance export template with /cerebras command and content optimization](sources/pr-1406-feat-enhance-export-template-with-cerebras-command.md) — 08-20
+- [PR #1407: 🚀 Enhance cerebras-coder agent with mandatory pre-test validation](sources/pr-1407-enhance-cerebras-coder-agent-with-mandatory-pre-t.md) — 08-20
+- [PR #1408: feat: Add /localexportcommands for local .claude configuration export](sources/pr-1408-feat-add-localexportcommands-for-local-claude-conf.md) — 08-20
+- [PR #1409: fix: Correct /newb remote tracking documentation and prevent upstream=origin/main](sources/pr-1409-fix-correct-newb-remote-tracking-documentation-and.md) — 08-20
+- [PR #1410: Context Optimization: Comprehensive Solution for 79K Token Cache Reduction](sources/pr-1410-context-optimization-comprehensive-solution-for-79.md) — 08-22
+- [PR #1411: fix: Move origin/main fetch to beginning of integrate.sh](sources/pr-1411-fix-move-origin-main-fetch-to-beginning-of-integra.md) — 08-20
+- [PR #1412: Update README_EXPORT_TEMPLATE.md](sources/pr-1412-update-readme-export-template-md.md) — 08-20
+- [PR #1413: Update README_EXPORT_TEMPLATE.md](sources/pr-1413-update-readme-export-template-md.md) — 08-20
+- [PR #1414: Enhance CLAUDE.md with Cerebras-first protocol and extreme anti-file-creation bias](sources/pr-1414-enhance-claude-md-with-cerebras-first-protocol-and.md) — 08-21
+- [PR #1415: Update README_EXPORT_TEMPLATE.md](sources/pr-1415-update-readme-export-template-md.md) — 08-20
+- [PR #1420: docs: Add dangerously-skip-permissions flag policy to CLAUDE.md](sources/pr-1420-docs-add-dangerously-skip-permissions-flag-policy.md) — 08-22
+- [PR #1421: feat: Content-aware CLAUDE.md generation with actual directory inspection](sources/pr-1421-feat-content-aware-claude-md-generation-with-actua.md) — 08-22
+- [PR #1422: docs: Add DANGEROUSLY-SKIP-PERMISSIONS flag policy to CLAUDE.md](sources/pr-1422-docs-add-dangerously-skip-permissions-flag-policy.md) — 08-22
+- [PR #1427: fix: Hook Environment Robustness - Prevent System Lockouts](sources/pr-1427-fix-hook-environment-robustness-prevent-system-loc.md) — 08-22
+- [PR #1428: docs: Comprehensive Dev Site Testing Report & Validation](sources/pr-1428-docs-comprehensive-dev-site-testing-report-validat.md) — 08-22
+- [PR #1432: Fix JSON escape sequences in campaign creation - Convert instead of clean](sources/pr-1432-fix-json-escape-sequences-in-campaign-creation-con.md) — 08-24
+- [PR #1433: refactor: Remove cerebras-coder subagent and all references](sources/pr-1433-refactor-remove-cerebras-coder-subagent-and-all-re.md) — 08-24
+- [PR #1436: feat(mcp): Autonomous AI Slash Command Execution System [1/6]](sources/pr-1436-feat-mcp-autonomous-ai-slash-command-execution-sys.md) — 08-28
+- [PR #1440: [Split 5/6] Documentation and Guides](sources/pr-1440-split-5-6-documentation-and-guides.md) — 08-24
+- [PR #1442: feat: Add comprehensive development statistics analysis (2025-08-23)](sources/pr-1442-feat-add-comprehensive-development-statistics-anal.md) — 08-24
+- [PR #1443: fix: Use venv Python for orchestration system compatibility](sources/pr-1443-fix-use-venv-python-for-orchestration-system-compa.md) — 08-24
+- [PR #1444: Update cerebras_direct.sh](sources/pr-1444-update-cerebras-direct-sh.md) — 08-24
+- [PR #1445: feat: Add /copilotc and /fixprc autonomous comment resolution commands](sources/pr-1445-feat-add-copilotc-and-fixprc-autonomous-comment-re.md) — 08-24
+- [PR #1446: feat: Add conversation context to /cerebras command](sources/pr-1446-feat-add-conversation-context-to-cerebras-command.md) — 08-24
+- [PR #1448: feat: Extract valuable MCP testing capabilities from PR #1447](sources/pr-1448-feat-extract-valuable-mcp-testing-capabilities-fro.md) — 08-24
+- [PR #1449: Remove logs directory from git tracking](sources/pr-1449-remove-logs-directory-from-git-tracking.md) — 08-24
+- [PR #1452: Archive Experimental Testing Infrastructure - Clean Organization (1/3)](sources/pr-1452-archive-experimental-testing-infrastructure-clean.md) — 08-24
+- [PR #1453: Production Infrastructure Modernization (40 files) - Split 2/2 from PR #1418](sources/pr-1453-production-infrastructure-modernization-40-files-s.md) — 08-24
+- [PR #1455: feat: Enhance MCP server testing and cleanup broken servers](sources/pr-1455-feat-enhance-mcp-server-testing-and-cleanup-broken.md) — 08-24
+- [PR #1457: Fix: Portable hostname detection for Mac/PC backup compatibility](sources/pr-1457-fix-portable-hostname-detection-for-mac-pc-backup.md) — 08-26
+- [PR #1460: fix: Add Python fallback to /history command for permission issues](sources/pr-1460-fix-add-python-fallback-to-history-command-for-per.md) — 08-25
+- [PR #1461: feat: Add external memory backup system debugging task](sources/pr-1461-feat-add-external-memory-backup-system-debugging-t.md) — 08-25
+- [PR #1462: HANDOFF: Tool Substitution Prevention Implementation](sources/pr-1462-handoff-tool-substitution-prevention-implementatio.md) — 08-26
+- [PR #1464: feat: Enhanced test dependency analyzer + massive CI performance optimization](sources/pr-1464-feat-enhanced-test-dependency-analyzer-massive-ci.md) — 08-26
+- [PR #1465: Refactor CI workflow with matrix strategy for parallel test execution](sources/pr-1465-refactor-ci-workflow-with-matrix-strategy-for-para.md) — 08-26
+- [PR #1466: 🚀 CRITICAL: Invisible Cerebras Context Extraction - 88% Token Reduction](sources/pr-1466-critical-invisible-cerebras-context-extraction-88.md) — 08-26
+- [PR #1468: 🔧 Cerebras Script Robustness & Test Accuracy Improvements](sources/pr-1468-cerebras-script-robustness-test-accuracy-improvem.md) — 08-26
+- [PR #1469: fix: Cerebras auto-context working directory issue](sources/pr-1469-fix-cerebras-auto-context-working-directory-issue.md) — 08-26
+- [PR #1470: Update QWEN.md with new protocols from CLAUDE.md](sources/pr-1470-update-qwen-md-with-new-protocols-from-claude-md.md) — 08-26
+- [PR #1472: feat: Debug and fix external memory backup system health checks](sources/pr-1472-feat-debug-and-fix-external-memory-backup-system-h.md) — 08-26
+- [PR #1473: Fix backup script argument passing and organize test scripts](sources/pr-1473-fix-backup-script-argument-passing-and-organize-te.md) — 08-26
+- [PR #1475: Script for LOC in the codebase](sources/pr-1475-script-for-loc-in-the-codebase.md) — 08-26
+- [PR #1477: Fix run_tests.sh bash compatibility issues](sources/pr-1477-fix-run-tests-sh-bash-compatibility-issues.md) — 08-29
+- [PR #1478: Configure global verbosity and output limits for Claude Code CLI](sources/pr-1478-configure-global-verbosity-and-output-limits-for-c.md) — 08-26
+- [PR #1479: iOS Design Documentation: Comprehensive Specification for WorldArchitect.AI Mobile App](sources/pr-1479-ios-design-documentation-comprehensive-specificati.md) — 08-27
+- [PR #1480: Clean up project root: Move iOS files to proper directories](sources/pr-1480-clean-up-project-root-move-ios-files-to-proper-dir.md) — 08-27
+- [PR #1481: Make run_tests executable](sources/pr-1481-make-run-tests-executable.md) — 08-27
+- [PR #1482: Rename context.md to contexte.md in .claude/commands directory](sources/pr-1482-rename-context-md-to-contexte-md-in-claude-command.md) — 08-27
+- [PR #1484: Context Optimization: Remove unused MCP servers to reduce token consumption](sources/pr-1484-context-optimization-remove-unused-mcp-servers-to.md) — 08-27
+- [PR #1485: Enhance plan.md with context-awareness and universal composition](sources/pr-1485-enhance-plan-md-with-context-awareness-and-univers.md) — 08-27
+- [PR #1486: Context Optimization: Disable GitHub MCP server by default](sources/pr-1486-context-optimization-disable-github-mcp-server-by.md) — 08-27
+- [PR #1487: Add --light mode to cerebras_direct.sh](sources/pr-1487-add-light-mode-to-cerebras-direct-sh.md) — 09-05
+- [PR #1488: Enhance /contexte command with integrated context analysis workflow](sources/pr-1488-enhance-contexte-command-with-integrated-context-a.md) — 08-27
+- [PR #1489: Fix /contexte command to use Universal Composition](sources/pr-1489-fix-contexte-command-to-use-universal-composition.md) — 08-28
+- [PR #1490: Enhanced single slash command parsing for composition hook](sources/pr-1490-enhanced-single-slash-command-parsing-for-composit.md) — 08-28
+- [PR #1491: Fix create_worktree.sh to create sibling worktrees](sources/pr-1491-fix-create-worktree-sh-to-create-sibling-worktrees.md) — 08-28
+- [PR #1496: Update cerebras_direct.sh](sources/pr-1496-update-cerebras-direct-sh.md) — 08-29
+- [PR #1497: docs: add AGENTS.md contributor guide](sources/pr-1497-docs-add-agents-md-contributor-guide.md) — 08-29
+- [PR #1498: feat: Universal Slash Command Composition via Pattern Detection](sources/pr-1498-feat-universal-slash-command-composition-via-patte.md) — 08-29
+- [PR #1500: Clean up unused agent definitions](sources/pr-1500-clean-up-unused-agent-definitions.md) — 08-29
+- [PR #1502: Install proper test requirements](sources/pr-1502-install-proper-test-requirements.md) — 08-29
+- [PR #1506: Fix slash cmd mcp - add fastmcp to requirements.txt](sources/pr-1506-fix-slash-cmd-mcp-add-fastmcp-to-requirements-txt.md) — 08-29
+- [PR #1508: feat: Long-Runner Agent for Context Optimization](sources/pr-1508-feat-long-runner-agent-for-context-optimization.md) — 08-29
+- [PR #1509: Add /redgreen and /rg commands for systematic debugging workflow](sources/pr-1509-add-redgreen-and-rg-commands-for-systematic-debugg.md) — 08-29
+- [PR #1510: Fix /commentreply systematic processing - implement missing functionality](sources/pr-1510-fix-commentreply-systematic-processing-implement-m.md) — 09-04
+- [PR #1513: feat: Implement Parallel Copilot Agents Architecture](sources/pr-1513-feat-implement-parallel-copilot-agents-architectur.md) — 09-07
+- [PR #1514: Backup Fix: Restore and Optimize Memory Management](sources/pr-1514-backup-fix-restore-and-optimize-memory-management.md) — 09-11
+- [PR #1516: Test parallel subagent functionality - copilot command enhanced](sources/pr-1516-test-parallel-subagent-functionality-copilot-comma.md) — 09-02
+- [PR #1517: Skillsv3](sources/pr-1517-skillsv3.md) — 09-01
+- [PR #1518: fix: Add --model sonnet to prevent expensive Opus usage in agent monitor](sources/pr-1518-fix-add-model-sonnet-to-prevent-expensive-opus-usa.md) — 09-01
+- [PR #1519: fix: Include .claude.json in backup script](sources/pr-1519-fix-include-claude-json-in-backup-script.md) — 09-01
+- [PR #1520: 🔒 SECURITY: Restrict test agent permissions to readonly tools](sources/pr-1520-security-restrict-test-agent-permissions-to-reado.md) — 09-02
+- [PR #1521: feat: Add ccstatusline configuration to project settings](sources/pr-1521-feat-add-ccstatusline-configuration-to-project-set.md) — 09-02
+- [PR #1523: feat: Add context usage to git-header by default](sources/pr-1523-feat-add-context-usage-to-git-header-by-default.md) — 09-02
+- [PR #1525: 🔧 Fix tmux session infinite loop prevention with comprehensive cleanup automation](sources/pr-1525-fix-tmux-session-infinite-loop-prevention-with-co.md) — 09-03
+- [PR #1526: Fix: Include ~/.claude.json files in backup script](sources/pr-1526-fix-include-claude-json-files-in-backup-script.md) — 09-04
+- [PR #1527: Remove duplicate git-header hook from Stop hooks](sources/pr-1527-remove-duplicate-git-header-hook-from-stop-hooks.md) — 09-03
+- [PR #1528: Fix: Remove backup script error suppression and add proper error detection](sources/pr-1528-fix-remove-backup-script-error-suppression-and-add.md) — 09-05
+- [PR #1529: Create resume.md](sources/pr-1529-create-resume-md.md) — 09-03
+- [PR #1530: Handoff: Modify /reviewdeep for Solo Developer Security Focus](sources/pr-1530-handoff-modify-reviewdeep-for-solo-developer-secur.md) — 09-04
+- [PR #1533: Sync main branch commits (integrate.sh)](sources/pr-1533-sync-main-branch-commits-integrate-sh.md) — 09-04
+- [PR #1534: Update test.yml](sources/pr-1534-update-test-yml.md) — 09-04
+- [PR #1535: Add loc_simple.sh: Clean lines of code counter](sources/pr-1535-add-loc-simple-sh-clean-lines-of-code-counter.md) — 09-04
+- [PR #1538: Implement comprehensive Memory MCP query optimization system](sources/pr-1538-implement-comprehensive-memory-mcp-query-optimizat.md) — 09-05
+- [PR #1545: 🧪 Add enhanced command files for debugging and testing](sources/pr-1545-add-enhanced-command-files-for-debugging-and-test.md) — 09-05
+- [PR #1546: 🚨 Fix /localexportcommands to preserve conversation history](sources/pr-1546-fix-localexportcommands-to-preserve-conversation.md) — 09-05
+- [PR #1547: 🔒 Security Fix: Consistent token handling with clock skew compensation](sources/pr-1547-security-fix-consistent-token-handling-with-clock.md) — 09-06
+- [PR #1550: 🧪 Testing: Comprehensive test suite improvements](sources/pr-1550-testing-comprehensive-test-suite-improvements.md) — 09-09
+- [PR #1551: IMPLEMENT: Delete Testing Mode Authentication System](sources/pr-1551-implement-delete-testing-mode-authentication-syste.md) — 09-09
+- [PR #1552: Add GitHub presubmit hook for inline import validation (delta-only)](sources/pr-1552-add-github-presubmit-hook-for-inline-import-valida.md) — 09-07
+- [PR #1553: Fix MCP slash commands server global installation](sources/pr-1553-fix-mcp-slash-commands-server-global-installation.md) — 09-07
+- [PR #1554: Add Sky's Architecture Principles to Base Guidelines](sources/pr-1554-add-sky-s-architecture-principles-to-base-guidelin.md) — 09-06
+- [PR #1556: ✨ Implement worktree location enhancement - centralized ~/projects/orch_{repo}/ structure](sources/pr-1556-implement-worktree-location-enhancement-centraliz.md) — 09-09
+- [PR #1557: feat: Add explicit model specifications to slash commands](sources/pr-1557-feat-add-explicit-model-specifications-to-slash-co.md) — 09-07
+- [PR #1558: 🔧 Phase 1: Fix inline imports in scripts directory](sources/pr-1558-phase-1-fix-inline-imports-in-scripts-directory.md) — 09-08
+- [PR #1559: feat: Add Gemini CLI and Codex CLI subagents for enhanced code review](sources/pr-1559-feat-add-gemini-cli-and-codex-cli-subagents-for-en.md) — 09-07
+- [PR #1560: Phase 2: Fix HIGH priority inline imports in MVP core files](sources/pr-1560-phase-2-fix-high-priority-inline-imports-in-mvp-co.md) — 09-08
+- [PR #1561: Phase 3: Fix HIGH priority inline imports in MVP test files](sources/pr-1561-phase-3-fix-high-priority-inline-imports-in-mvp-te.md) — 09-09
+- [PR #1562: Phase 4: Final cleanup of HIGH priority inline imports](sources/pr-1562-phase-4-final-cleanup-of-high-priority-inline-impo.md) — 09-09
+- [PR #1563: Create llm_capital_efficiency.md](sources/pr-1563-create-llm-capital-efficiency-md.md) — 09-07
+- [PR #1564: docs: Integrate LLM Capital Efficiency Framework into README](sources/pr-1564-docs-integrate-llm-capital-efficiency-framework-in.md) — 09-07
+- [PR #1565: feat: Integrate LLM Capital Efficiency Framework into WorldArchitect.AI README](sources/pr-1565-feat-integrate-llm-capital-efficiency-framework-in.md) — 09-07
+- [PR #1566: fix: Add Linux/Ubuntu compatibility to claude_backup.sh](sources/pr-1566-fix-add-linux-ubuntu-compatibility-to-claude-backu.md) — 09-08
+- [PR #1567: Fix: Make cron entries worktree-agnostic and add comprehensive cron setup](sources/pr-1567-fix-make-cron-entries-worktree-agnostic-and-add-co.md) — 09-08
+- [PR #1570: feat: add comprehensive Claude Code system prompt analysis](sources/pr-1570-feat-add-comprehensive-claude-code-system-prompt-a.md) — 09-08
+- [PR #1571: docs: Add comprehensive Cerebras context contamination technical documentation](sources/pr-1571-docs-add-comprehensive-cerebras-context-contaminat.md) — 09-09
+- [PR #1572: Enhanced Cerebras Integration: Speed + Intelligence + Expertise](sources/pr-1572-enhanced-cerebras-integration-speed-intelligence-e.md) — 09-09
+- [PR #1574: feat: Apply bulk Ruff lint fixes across mvp_site codebase](sources/pr-1574-feat-apply-bulk-ruff-lint-fixes-across-mvp-site-co.md) — 09-09
+- [PR #1575: fix: Resolve inline import violations for CLAUDE.md compliance](sources/pr-1575-fix-resolve-inline-import-violations-for-claude-md.md) — 09-09
+- [PR #1576: 🚀 CI Timeout Protection: Essential Infrastructure for Pipeline Stability](sources/pr-1576-ci-timeout-protection-essential-infrastructure-fo.md) — 09-09
+- [PR #1577: feat: Clean MCP async fixes - Protocol compliant implementation](sources/pr-1577-feat-clean-mcp-async-fixes-protocol-compliant-impl.md) — 09-09
+- [PR #1579: Phase 5A: Core Infrastructure Inline Import Cleanup](sources/pr-1579-phase-5a-core-infrastructure-inline-import-cleanup.md) — 09-09
+- [PR #1583: fix: Phase 5B - Test Infrastructure Inline Import Cleanup](sources/pr-1583-fix-phase-5b-test-infrastructure-inline-import-cle.md) — 09-11
+- [PR #1584: fix: Phase 5C - MCP Server Inline Import Cleanup](sources/pr-1584-fix-phase-5c-mcp-server-inline-import-cleanup.md) — 09-09
+- [PR #1587: Fix convergence system exit criteria and PR branch constraints](sources/pr-1587-fix-convergence-system-exit-criteria-and-pr-branch.md) — 09-09
+- [PR #1588: feat: Enhanced gstatus with proper CI status detection like fixpr](sources/pr-1588-feat-enhanced-gstatus-with-proper-ci-status-detect.md) — 09-09
+- [PR #1592: Modernize Slash Commands MCP Server to use Python Packaging](sources/pr-1592-modernize-slash-commands-mcp-server-to-use-python.md) — 09-11
+- [PR #1593: fix: Critical inline import cleanup issues](sources/pr-1593-fix-critical-inline-import-cleanup-issues.md) — 09-11
+- [PR #1595: feat: Expand exportcommands infrastructure scripts allowlist](sources/pr-1595-feat-expand-exportcommands-infrastructure-scripts.md) — 09-11
+- [PR #1596: 🚨 Critical Agent Verification Protocol: Complete Security & Infrastructure Improvements](sources/pr-1596-critical-agent-verification-protocol-complete-sec.md) — 09-12
+- [PR #1598: Fix: Add test suite timeout configuration to prevent CI hangs](sources/pr-1598-fix-add-test-suite-timeout-configuration-to-preven.md) — 09-12
+- [PR #1599: Fix CI test hangs: Add 45-minute memory monitor timeout](sources/pr-1599-fix-ci-test-hangs-add-45-minute-memory-monitor-tim.md) — 09-16
+- [PR #1600: feat: Agentic Orchestration Enhancement - Apply Google Design Patterns](sources/pr-1600-feat-agentic-orchestration-enhancement-apply-googl.md) — 09-12
+- [PR #1602: feat: Optimize CLAUDE.md size (60% reduction) and add 10-minute timeout to long-runner agent](sources/pr-1602-feat-optimize-claude-md-size-60-reduction-and-add.md) — 09-12
+- [PR #1603: fix: Prioritize human feedback over automated issues in copilot commands](sources/pr-1603-fix-prioritize-human-feedback-over-automated-issue.md) — 09-18
+- [PR #1604: 🔐 Implement Firebase Security Rules and Organize Project Structure](sources/pr-1604-implement-firebase-security-rules-and-organize-pr.md) — 09-16
+- [PR #1605: fix: Resolve timeout and operation limit inconsistencies from export feedback](sources/pr-1605-fix-resolve-timeout-and-operation-limit-inconsiste.md) — 09-15
+- [PR #1606: fix: Correct infrastructure-scripts export path bug](sources/pr-1606-fix-correct-infrastructure-scripts-export-path-bug.md) — 09-18
+- [PR #1607: learn: Add directory context awareness to base guidelines](sources/pr-1607-learn-add-directory-context-awareness-to-base-guid.md) — 09-15
+- [PR #1608: enhance: Add CLAUDE.md sync protocol and file justification rules to base guidelines](sources/pr-1608-enhance-add-claude-md-sync-protocol-and-file-justi.md) — 09-15
+- [PR #1609: docs(readme): fix clone instructions](sources/pr-1609-docs-readme-fix-clone-instructions.md) — 09-16
+- [PR #1613: Update /testllm default directory behavior](sources/pr-1613-update-testllm-default-directory-behavior.md) — 09-16
+- [PR #1615: feat: Add automatic file placement violation correction hook](sources/pr-1615-feat-add-automatic-file-placement-violation-correc.md) — 09-18
+- [PR #1619: Reduce MCP server verbosity](sources/pr-1619-reduce-mcp-server-verbosity.md) — 09-19
+- [PR #1623: fix: Exclude slow UI tests from CI to prevent timeout](sources/pr-1623-fix-exclude-slow-ui-tests-from-ci-to-prevent-timeo.md) — 09-18
+- [PR #1624: feat: Comprehensive Claude data protection & development infrastructure enhancement](sources/pr-1624-feat-comprehensive-claude-data-protection-developm.md) — 09-21
+- [PR #1626: feat: Universal statusline configuration with intelligent fallbacks](sources/pr-1626-feat-universal-statusline-configuration-with-intel.md) — 09-18
+- [PR #1627: fix: Add global installation support for claude-slash-commands-mcp](sources/pr-1627-fix-add-global-installation-support-for-claude-sla.md) — 09-18
+- [PR #1628: feat: Add safe campaign deletion and query tools](sources/pr-1628-feat-add-safe-campaign-deletion-and-query-tools.md) — 09-19
+- [PR #1629: Docs: Require /redgreen reproduction in fixpr workflow](sources/pr-1629-docs-require-redgreen-reproduction-in-fixpr-workfl.md) — 09-18
+- [PR #1630: Add async python lint enforcement hook](sources/pr-1630-add-async-python-lint-enforcement-hook.md) — 09-19
+- [PR #1631: Update test.yml](sources/pr-1631-update-test-yml.md) — 09-18
+- [PR #1632: refactor: consolidate CRDT validation harness](sources/pr-1632-refactor-consolidate-crdt-validation-harness.md) — 09-19
+- [PR #1633: Remove WorldArchitectiOS directory](sources/pr-1633-remove-worldarchitectios-directory.md) — 09-19
+- [PR #1634: fix: Resolve hook syntax errors and improve functionality](sources/pr-1634-fix-resolve-hook-syntax-errors-and-improve-functio.md) — 09-19
+- [PR #1635: Update exportcommands to stage scripts under scripts directory](sources/pr-1635-update-exportcommands-to-stage-scripts-under-scrip.md) — 09-19
+- [PR #1636: Add deploy slash command and improve localserver script discovery](sources/pr-1636-add-deploy-slash-command-and-improve-localserver-s.md) — 09-19
+- [PR #1638: feat: Enterprise-Grade Cross-Organization PR Automation with Security Hardening](sources/pr-1638-feat-enterprise-grade-cross-organization-pr-automa.md) — 09-22
+- [PR #1639: Add /copilot-expanded - Self-contained PR analysis & enhancement command](sources/pr-1639-add-copilot-expanded-self-contained-pr-analysis-en.md) — 09-20
+- [PR #1640: Fix critical export syntax errors in claude-commands](sources/pr-1640-fix-critical-export-syntax-errors-in-claude-comman.md) — 09-20
+- [PR #1642: chore: remove Claude API usage from git header](sources/pr-1642-chore-remove-claude-api-usage-from-git-header.md) — 09-20
+- [PR #1643: Add focused Grok subagent for /arch and /reviewdeep commands](sources/pr-1643-add-focused-grok-subagent-for-arch-and-reviewdeep.md) — 09-21
+- [PR #1644: chore(deps): bump flask-cors from 4.0.0 to 6.0.0 in /mvp_site](sources/pr-1644-chore-deps-bump-flask-cors-from-4-0-0-to-6-0-0-in.md) — 09-20
+- [PR #1645: chore(deps): bump gunicorn from 21.2.0 to 23.0.0 in /mvp_site](sources/pr-1645-chore-deps-bump-gunicorn-from-21-2-0-to-23-0-0-in.md) — 09-20
+- [PR #1646: chore(deps-dev): bump vite from 5.4.19 to 5.4.20 in /mvp_site/frontend_v2](sources/pr-1646-chore-deps-dev-bump-vite-from-5-4-19-to-5-4-20-in.md) — 09-20
+- [PR #1649: fix: Address Copilot maintainability feedback and resolve test runner issues](sources/pr-1649-fix-address-copilot-maintainability-feedback-and-r.md) — 09-21
+- [PR #1650: Fix critical copilot.md issues: race conditions, security, performance](sources/pr-1650-fix-critical-copilot-md-issues-race-conditions-sec.md) — 09-21
+- [PR #1652: Consensus review: document per-change tests and round recaps](sources/pr-1652-consensus-review-document-per-change-tests-and-rou.md) — 09-21
+- [PR #1654: Ensure research workflows capture current date](sources/pr-1654-ensure-research-workflows-capture-current-date.md) — 09-21
+- [PR #1655: Fix: Block .mjs, .js, .ts files in project root](sources/pr-1655-fix-block-mjs-js-ts-files-in-project-root.md) — 09-21
+- [PR #1658: Add Cerebras consultant agent and document consensus supermajority](sources/pr-1658-add-cerebras-consultant-agent-and-document-consens.md) — 09-21
+- [PR #1659: 🐛 Fix critical bugs from export PR review](sources/pr-1659-fix-critical-bugs-from-export-pr-review.md) — 09-21
+- [PR #1660: refactor(consensus): Enhance consensus validation with security fixes and automation improvements](sources/pr-1660-refactor-consensus-enhance-consensus-validation-wi.md) — 09-21
+- [PR #1661: Fix statusLine performance: 12s → 73ms (167x faster)](sources/pr-1661-fix-statusline-performance-12s-73ms-167x-faster.md) — 09-21
+- [PR #1662: feat: Add /sync slash command for PR synchronization](sources/pr-1662-feat-add-sync-slash-command-for-pr-synchronization.md) — 09-21
+- [PR #1668: 🚨 CRITICAL: Fix Claude backup failures causing 32+ day sync gap](sources/pr-1668-critical-fix-claude-backup-failures-causing-32-da.md) — 09-22
+- [PR #1669: feat: Add Slack notifications for Claude Code hook system](sources/pr-1669-feat-add-slack-notifications-for-claude-code-hook.md) — 09-22
+- [PR #1670: Add /consensus validation to /redgreen command for debugging flow integrity](sources/pr-1670-add-consensus-validation-to-redgreen-command-for-d.md) — 09-21
+- [PR #1688: 🚀 Fix MCP server installation failures and add cross-platform support](sources/pr-1688-fix-mcp-server-installation-failures-and-add-cros.md) — 09-22
+- [PR #1698: Fix critical bugs in comment system and performance improvements](sources/pr-1698-fix-critical-bugs-in-comment-system-and-performanc.md) — 09-22
+- [PR #1699: Refocus grok consultant agent on fresh data analysis](sources/pr-1699-refocus-grok-consultant-agent-on-fresh-data-analys.md) — 09-22
+- [PR #1700: Update Slack notification format to lead with branch/remote info](sources/pr-1700-update-slack-notification-format-to-lead-with-bran.md) — 09-22
+- [PR #1701: AI Ecosystem Analysis and Strategic Recommendations 2025](sources/pr-1701-ai-ecosystem-analysis-and-strategic-recommendation.md) — 09-22
+- [PR #1703: [AI automation] Fresh copilot automation workflow with auto-commit prefix](sources/pr-1703-ai-automation-fresh-copilot-automation-workflow-w.md) — 09-23
+- [PR #1704: Improve gst command path resolution](sources/pr-1704-improve-gst-command-path-resolution.md) — 09-22
+- [PR #1705: Use GitHub CLI for PR lookup in git-header script](sources/pr-1705-use-github-cli-for-pr-lookup-in-git-header-script.md) — 09-22
+- [PR #1706: 🚨 CRITICAL: Add Dangerous Command Safety Protocol to CLAUDE.md](sources/pr-1706-critical-add-dangerous-command-safety-protocol-to.md) — 09-22
+- [PR #1707: Stop truncating Slack notification branch names](sources/pr-1707-stop-truncating-slack-notification-branch-names.md) — 09-22
+- [PR #1708: Gemini Consultant: add Flash fallback for pro quota](sources/pr-1708-gemini-consultant-add-flash-fallback-for-pro-quota.md) — 09-22
+- [PR #1709: Update converge.md to use dynamic cerebras script path](sources/pr-1709-update-converge-md-to-use-dynamic-cerebras-script.md) — 09-22
+- [PR #1710: feat(ralph): Add interactive goal refinement system with /pgen command](sources/pr-1710-feat-ralph-add-interactive-goal-refinement-system.md) — 09-22
+- [PR #1711: User Mimicry System: Autonomous Claude Code CLI Replacement with 87%+ Accuracy](sources/pr-1711-user-mimicry-system-autonomous-claude-code-cli-rep.md) — 09-23
+- [PR #1712: Fix agent parse error: Add missing name field to CLAUDE.md frontmatter](sources/pr-1712-fix-agent-parse-error-add-missing-name-field-to-cl.md) — 09-22
+- [PR #1713: fix: Resolve compose-commands.sh hook hanging in claude -p mode](sources/pr-1713-fix-resolve-compose-commands-sh-hook-hanging-in-cl.md) — 09-22
+- [PR #1714: Extract slash commands MCP setup](sources/pr-1714-extract-slash-commands-mcp-setup.md) — 09-22
+- [PR #1715: feat: Expand MCP server configuration with AI assistants](sources/pr-1715-feat-expand-mcp-server-configuration-with-ai-assis.md) — 09-22
+- [PR #1716: feat(genesis): Enhanced self-determination with rigorous completion detection](sources/pr-1716-feat-genesis-enhanced-self-determination-with-rigo.md) — 09-27
+- [PR #1717: Fix file justification protocol hook failure and clean up root directory](sources/pr-1717-fix-file-justification-protocol-hook-failure-and-c.md) — 09-23
+- [PR #1718: 🔧 CRITICAL: Fix cross-platform timeout compatibility issues](sources/pr-1718-critical-fix-cross-platform-timeout-compatibility.md) — 09-23
+- [PR #1719: Create alignment_coach_40k.md](sources/pr-1719-create-alignment-coach-40k-md.md) — 09-23
+- [PR #1720: Update alignment coach streak tiers](sources/pr-1720-update-alignment-coach-streak-tiers.md) — 09-23
+- [PR #1721: CI Optimization: Reduce runtime from 20min to 5min by excluding integration tests](sources/pr-1721-ci-optimization-reduce-runtime-from-20min-to-5min.md) — 09-23
+- [PR #1722: Ensure headless claude commands default to sonnet](sources/pr-1722-ensure-headless-claude-commands-default-to-sonnet.md) — 09-23
+- [PR #1723: Automation: Request Codex to push commits](sources/pr-1723-automation-request-codex-to-push-commits.md) — 09-29
+- [PR #1724: Rename Grok consultant to Cursor consultant](sources/pr-1724-rename-grok-consultant-to-cursor-consultant.md) — 09-23
+- [PR #1725: Implement Directory-Based CI Testing for Optimized Test Execution](sources/pr-1725-implement-directory-based-ci-testing-for-optimized.md) — 09-24
+- [PR #1736: Simplify /consensus command for solo MVP context](sources/pr-1736-simplify-consensus-command-for-solo-mvp-context.md) — 09-26
+- [PR #1737: Refine centralization consultant spec and consensus logic](sources/pr-1737-refine-centralization-consultant-spec-and-consensu.md) — 09-25
+- [PR #1740: Fix Perplexity MCP Integration - Complete 401 Authentication Resolution](sources/pr-1740-fix-perplexity-mcp-integration-complete-401-authen.md) — 09-25
+- [PR #1741: Fix claude_mcp.sh Perplexity Server Installation - Use Working Package](sources/pr-1741-fix-claude-mcp-sh-perplexity-server-installation-u.md) — 09-25
+- [PR #1742: Add /scaffold infrastructure command documentation](sources/pr-1742-add-scaffold-infrastructure-command-documentation.md) — 09-26
+- [PR #1743: Improve /newbranch auto-commit resilience](sources/pr-1743-improve-newbranch-auto-commit-resilience.md) — 09-26
+- [PR #1744: Revert "fix: Resolve compose-commands.sh hook hanging in claude -p mode (#1713)"](sources/pr-1744-revert-fix-resolve-compose-commands-sh-hook-hangin.md) — 09-26
+- [PR #1745: Add runlocal slash command](sources/pr-1745-add-runlocal-slash-command.md) — 09-26
+- [PR #1747: Normalize compose command output spacing](sources/pr-1747-normalize-compose-command-output-spacing.md) — 09-27
+- [PR #1749: Add comprehensive ChatGPT Pulse repository analysis prompt](sources/pr-1749-add-comprehensive-chatgpt-pulse-repository-analysi.md) — 09-26
+- [PR #1750: Recognize natural-language passthrough requests in trimmer](sources/pr-1750-recognize-natural-language-passthrough-requests-in.md) — 09-26
+- [PR #1751: Disable Claude PR Assistant workflow](sources/pr-1751-disable-claude-pr-assistant-workflow.md) — 09-26
+- [PR #1752: Simplify slash command script lookup](sources/pr-1752-simplify-slash-command-script-lookup.md) — 09-28
+- [PR #1754: Align copilotc and fixprc with gene orchestration](sources/pr-1754-align-copilotc-and-fixprc-with-gene-orchestration.md) — 09-27
+- [PR #1755: Compose Tests: Exercise CLI and env fallbacks](sources/pr-1755-compose-tests-exercise-cli-and-env-fallbacks.md) — 09-29
+- [PR #1756: Remove redundant SLASH_COMMAND_EXECUTE hook infrastructure](sources/pr-1756-remove-redundant-slash-command-execute-hook-infras.md) — 09-27
+- [PR #1757: fix: resolve Genesis API key inheritance in tmux sessions](sources/pr-1757-fix-resolve-genesis-api-key-inheritance-in-tmux-se.md) — 09-27
+- [PR #1758: Document Grok MCP usage in /perp command](sources/pr-1758-document-grok-mcp-usage-in-perp-command.md) — 09-28
+- [PR #1760: Fix macOS mktemp compatibility issues in cerebras_direct.sh](sources/pr-1760-fix-macos-mktemp-compatibility-issues-in-cerebras.md) — 09-27
+- [PR #1763: Document claude-commands path for scaffold slash command](sources/pr-1763-document-claude-commands-path-for-scaffold-slash-c.md) — 09-27
+- [PR #1764: feat: enhance benchmark specifications with comprehensive metrics](sources/pr-1764-feat-enhance-benchmark-specifications-with-compreh.md) — 09-27
+- [PR #1765: docs: harden fixpr command guidance](sources/pr-1765-docs-harden-fixpr-command-guidance.md) — 09-28
+- [PR #1766: Add instruction to read testing_llm suite first](sources/pr-1766-add-instruction-to-read-testing-llm-suite-first.md) — 09-27
+- [PR #1767: Update testllm command environment setup guidance](sources/pr-1767-update-testllm-command-environment-setup-guidance.md) — 09-27
+- [PR #1769: Fix: Build iOS Simulator MCP server before configuration](sources/pr-1769-fix-build-ios-simulator-mcp-server-before-configur.md) — 09-28
+- [PR #1770: Remove deprecated slash commands MCP remnants](sources/pr-1770-remove-deprecated-slash-commands-mcp-remnants.md) — 09-28
+- [PR #1771: feat: Genesis vs Ralph benchmarking enhancements and codex fixes](sources/pr-1771-feat-genesis-vs-ralph-benchmarking-enhancements-an.md) — 09-29
+- [PR #1775: Fix exportcommands skiplist: Add gen.md and gene.md exclusions](sources/pr-1775-fix-exportcommands-skiplist-add-gen-md-and-gene-md.md) — 09-28
+- [PR #1777: Enhanced Output Trimming: Add Argument Sanitization to Hooks System](sources/pr-1777-enhanced-output-trimming-add-argument-sanitization.md) — 09-29
+- [PR #1778: Fix Codex consultant CLI flags](sources/pr-1778-fix-codex-consultant-cli-flags.md) — 09-29
+- [PR #1780: Document /tmp-based artifact storage for /testllm](sources/pr-1780-document-tmp-based-artifact-storage-for-testllm.md) — 09-29
+- [PR #1781: Remove SLASH_COMMAND_EXECUTE handling and references](sources/pr-1781-remove-slash-command-execute-handling-and-referenc.md) — 09-29
+- [PR #1782: Add Render MCP server integration](sources/pr-1782-add-render-mcp-server-integration.md) — 09-29
+- [PR #1784: Fix cursor consultant CLI model configuration](sources/pr-1784-fix-cursor-consultant-cli-model-configuration.md) — 09-29
+- [PR #1785: Refine directory-based CI workflow grouping](sources/pr-1785-refine-directory-based-ci-workflow-grouping.md) — 09-29
+- [PR #1786: Add auto command workflow instructions](sources/pr-1786-add-auto-command-workflow-instructions.md) — 09-29
+- [PR #1788: Comprehensive TypeScript MCP Migration Design Documentation](sources/pr-1788-comprehensive-typescript-mcp-migration-design-docu.md) — 09-29
+- [PR #1790: Fix pushlite handling of empty staging and add regression test](sources/pr-1790-fix-pushlite-handling-of-empty-staging-and-add-reg.md) — 09-30
+- [PR #1791: feat: Package automation as library with venv support](sources/pr-1791-feat-package-automation-as-library-with-venv-suppo.md) — 09-30
+- [PR #1792: feat: Genesis/Ralph orchestrator resilience and recovery enhancements](sources/pr-1792-feat-genesis-ralph-orchestrator-resilience-and-rec.md) — 10-01
+- [PR #1793: fix: Add anti-false-positive protocol to testllm command](sources/pr-1793-fix-add-anti-false-positive-protocol-to-testllm-co.md) — 09-30
+- [PR #1794: feat: WorldAI MCP Server package for private distribution](sources/pr-1794-feat-worldai-mcp-server-package-for-private-distri.md) — 10-02
+- [PR #1796: Standardize slash command workflows](sources/pr-1796-standardize-slash-command-workflows.md) — 10-01
+- [PR #1797: fix: Render deployment fixes for AI Universe services](sources/pr-1797-fix-render-deployment-fixes-for-ai-universe-servic.md) — 10-01
+- [PR #1798: docs: Improve MCP server installation with Verdaccio docs and grok-mcp auto-install](sources/pr-1798-docs-improve-mcp-server-installation-with-verdacci.md) — 10-01
+- [PR #1799: Update /newbranch to base on origin/main and carry requested changes](sources/pr-1799-update-newbranch-to-base-on-origin-main-and-carry.md) — 09-30
+- [PR #1800: Fix MCP server installation failures for grok-mcp, ddg-search, and render](sources/pr-1800-fix-mcp-server-installation-failures-for-grok-mcp.md) — 10-01
+- [PR #1801: fix: Add GITHUB_TOKEN environment to cron for authenticated API access](sources/pr-1801-fix-add-github-token-environment-to-cron-for-authe.md) — 10-01
+- [PR #1804: fix: register benchg commands as orchestrations](sources/pr-1804-fix-register-benchg-commands-as-orchestrations.md) — 10-01
+- [PR #1805: Restore Perplexity MCP via new server](sources/pr-1805-restore-perplexity-mcp-via-new-server.md) — 10-02
+- [PR #1806: Clarify CLAUDE command documentation](sources/pr-1806-clarify-claude-command-documentation.md) — 10-01
+- [PR #1807: Refactor MCP installers to use shared common script](sources/pr-1807-refactor-mcp-installers-to-use-shared-common-scrip.md) — 10-02
+- [PR #1810: Add smart fake code detection hook](sources/pr-1810-add-smart-fake-code-detection-hook.md) — 10-02
+- [PR #1811: Skip Codex automation reruns when pending bot commits exist](sources/pr-1811-skip-codex-automation-reruns-when-pending-bot-comm.md) — 10-02
+- [PR #1812: Codex automation: detect commit message markers](sources/pr-1812-codex-automation-detect-commit-message-markers.md) — 10-04
+- [PR #1814: chore: add dotfile backup automation with sensitive data filtering](sources/pr-1814-chore-add-dotfile-backup-automation-with-sensitive.md) — 10-02
+- [PR #1815: Add subagent validation command and alias](sources/pr-1815-add-subagent-validation-command-and-alias.md) — 10-02
+- [PR #1816: feat: Multi-org PR stats analysis with automatic fallback for large repos](sources/pr-1816-feat-multi-org-pr-stats-analysis-with-automatic-fa.md) — 10-02
+- [PR #1820: Fix Docker image to expose mvp_site package](sources/pr-1820-fix-docker-image-to-expose-mvp-site-package.md) — 10-02
+- [PR #1821: Document Core Application code composition](sources/pr-1821-document-core-application-code-composition.md) — 10-02
+- [PR #1822: Add conversation chronicle skills document](sources/pr-1822-add-conversation-chronicle-skills-document.md) — 10-02
+- [PR #1823: feat: Change automation limit from 50 total to 50 runs per day](sources/pr-1823-feat-change-automation-limit-from-50-total-to-50-r.md) — 10-03
+- [PR #1824: fix: Guard httpx/a2a imports in A2A integration tests](sources/pr-1824-fix-guard-httpx-a2a-imports-in-a2a-integration-tes.md) — 10-03
+- [PR #1825: Update skills docs with October 2025 velocity metrics](sources/pr-1825-update-skills-docs-with-october-2025-velocity-metr.md) — 10-03
+- [PR #1826: Rename Codex automation script module](sources/pr-1826-rename-codex-automation-script-module.md) — 10-03
+- [PR #1829: Generalize /consensus command for multi-mode reviews](sources/pr-1829-generalize-consensus-command-for-multi-mode-review.md) — 10-06
+- [PR #1833: Address review feedback for orchestration packaging](sources/pr-1833-address-review-feedback-for-orchestration-packagin.md) — 10-07
+- [PR #1835: MCP: automate campaign testing and harden Firestore integration](sources/pr-1835-mcp-automate-campaign-testing-and-harden-firestore.md) — 10-08
+- [PR #1836: Fix automation daily reset and cut 0.1.1](sources/pr-1836-fix-automation-daily-reset-and-cut-0-1-1.md) — 10-07
+- [PR #1837: Improve CLI detection and fallback for Codex support](sources/pr-1837-improve-cli-detection-and-fallback-for-codex-suppo.md) — 10-07
+- [PR #1841: Fix GOD_MODE_SET debug command handling](sources/pr-1841-fix-god-mode-set-debug-command-handling.md) — 10-07
+- [PR #1844: Add Codex MCP launcher with legacy bash support](sources/pr-1844-add-codex-mcp-launcher-with-legacy-bash-support.md) — 10-08
+- [PR #1847: Add deep dive documentation for mvp_site](sources/pr-1847-add-deep-dive-documentation-for-mvp-site.md) — 10-09
+- [PR #1848: fix: ensure codex MCP servers register env blocks correctly](sources/pr-1848-fix-ensure-codex-mcp-servers-register-env-blocks-c.md) — 10-08
+- [PR #1849: Followup mcp](sources/pr-1849-followup-mcp.md) — 10-08
+- [PR #1853: Testing: Clarify LLM specs and relocate integration tests](sources/pr-1853-testing-clarify-llm-specs-and-relocate-integration.md) — 10-10
+- [PR #1855: fix: Update CSP to allow CDN resources for Bootstrap and Firebase](sources/pr-1855-fix-update-csp-to-allow-cdn-resources-for-bootstra.md) — 10-11
+- [PR #1856: fix: Remove unsafe-eval and tighten img-src CSP directives](sources/pr-1856-fix-remove-unsafe-eval-and-tighten-img-src-csp-dir.md) — 10-13
+- [PR #1857: Fix deploy script target resolution and hide genesis option](sources/pr-1857-fix-deploy-script-target-resolution-and-hide-genes.md) — 10-11
+- [PR #1859: docs: Add orchestration manager product specification](sources/pr-1859-docs-add-orchestration-manager-product-specificati.md) — 10-13
+- [PR #1863: Add Chrome DevTools MCP server to shared installer](sources/pr-1863-add-chrome-devtools-mcp-server-to-shared-installer.md) — 10-13
+- [PR #1865: fix: address critical PR review issues (orchestration + export)](sources/pr-1865-fix-address-critical-pr-review-issues-orchestratio.md) — 10-13
+- [PR #1867: Add Second Opinion MCP HTTP server](sources/pr-1867-add-second-opinion-mcp-http-server.md) — 10-13
+- [PR #1868: feat: export settings.json, .claude/scripts, and auto-detect scripts from settings.json](sources/pr-1868-feat-export-settings-json-claude-scripts-and-auto.md) — 10-13
+- [PR #1870: Create Journey_oct.md](sources/pr-1870-create-journey-oct-md.md) — 10-14
+- [PR #1871: Expand LOC script to cover more languages](sources/pr-1871-expand-loc-script-to-cover-more-languages.md) — 10-14
+- [PR #1873: Load all Codex MCP API keys from interactive shell](sources/pr-1873-load-all-codex-mcp-api-keys-from-interactive-shell.md) — 10-14
+- [PR #1874: Create combined skills reference document](sources/pr-1874-create-combined-skills-reference-document.md) — 10-14
+- [PR #1876: Package .claude automation as Claude Code plugin](sources/pr-1876-package-claude-automation-as-claude-code-plugin.md) — 10-17
+- [PR #1877: Add initial Claude skills for repo onboarding and ops](sources/pr-1877-add-initial-claude-skills-for-repo-onboarding-and.md) — 10-17
+- [PR #1878: Handle Genesis CLI help path and update tests](sources/pr-1878-handle-genesis-cli-help-path-and-update-tests.md) — 10-17
+- [PR #1879: Docs: timestamp MVP deep dive references](sources/pr-1879-docs-timestamp-mvp-deep-dive-references.md) — 10-17
+- [PR #1882: Allow filesystem MCP server to access tmp and user directories](sources/pr-1882-allow-filesystem-mcp-server-to-access-tmp-and-user.md) — 10-18
+- [PR #1884: Add /secondo command for multi-model AI feedback](sources/pr-1884-add-secondo-command-for-multi-model-ai-feedback.md) — 10-20
+- [PR #1890: Fix printf delimiter logging in smart fake code detection hook](sources/pr-1890-fix-printf-delimiter-logging-in-smart-fake-code-de.md) — 10-19
+- [PR #1892: Consolidate MCP scripts and create shared Python export config](sources/pr-1892-consolidate-mcp-scripts-and-create-shared-python-e.md) — 10-20
+- [PR #1897: feat: Add dual-scope MCP server installation](sources/pr-1897-feat-add-dual-scope-mcp-server-installation.md) — 10-21
+- [PR #1898: feat: Add dry-run support to MCP launchers and enhance local export](sources/pr-1898-feat-add-dry-run-support-to-mcp-launchers-and-enha.md) — 10-27
+- [PR #1903: Fix MCP web search defaults using documented parameters](sources/pr-1903-fix-mcp-web-search-defaults-using-documented-param.md) — 10-30
+- [PR #1904: Fix MCP web search defaults using documented parameters](sources/pr-1904-fix-mcp-web-search-defaults-using-documented-param.md) — 10-30
+- [PR #1906: feat: Add Secondo MCP server plugin for Claude Code](sources/pr-1906-feat-add-secondo-mcp-server-plugin-for-claude-code.md) — 10-30
+- [PR #1908: feat: Unified MCP installer for Claude & Codex with global scope](sources/pr-1908-feat-unified-mcp-installer-for-claude-codex-with-g.md) — 10-31
+- [PR #1917: fix: update MCP installer argument handling and Chrome stats](sources/pr-1917-fix-update-mcp-installer-argument-handling-and-chr.md) — 10-30
+- [PR #1923: Fix savetmp artifact collision handling](sources/pr-1923-fix-savetmp-artifact-collision-handling.md) — 10-30
+- [PR #1926: Add default-only instructions to Second Opinion command](sources/pr-1926-add-default-only-instructions-to-second-opinion-co.md) — 10-31
+- [PR #1933: Harden second opinion request script HTTP handling](sources/pr-1933-harden-second-opinion-request-script-http-handling.md) — 11-01
+- [PR #1936: feat: Update export configs to use unified MCP installer](sources/pr-1936-feat-update-export-configs-to-use-unified-mcp-inst.md) — 11-02
+- [PR #1939: Generalize 4layer command service references](sources/pr-1939-generalize-4layer-command-service-references.md) — 11-02
+- [PR #1940: feat: Add GitHub Actions auto-deployment to Cloud Run](sources/pr-1940-feat-add-github-actions-auto-deployment-to-cloud-r.md) — 11-02
+- [PR #1942: feat: Integrate AI Universe auth-cli.mjs for /secondo command authentication](sources/pr-1942-feat-integrate-ai-universe-auth-cli-mjs-for-second.md) — 11-02
+- [PR #1945: Point secondo MCP traffic to GCP dev backend](sources/pr-1945-point-secondo-mcp-traffic-to-gcp-dev-backend.md) — 11-04
+- [PR #1948: Centralize Codex automation intro text](sources/pr-1948-centralize-codex-automation-intro-text.md) — 11-05
+- [PR #1951: Second Opinion: Attach PR context to MCP requests](sources/pr-1951-second-opinion-attach-pr-context-to-mcp-requests.md) — 11-05
+- [PR #1953: Add cron installer script](sources/pr-1953-add-cron-installer-script.md) — 11-06
+- [PR #1956: Create new /processmsgs slash command](sources/pr-1956-create-new-processmsgs-slash-command.md) — 11-08
+- [PR #1958: Disable filesystem MCP by default and uninstall from CLIs](sources/pr-1958-disable-filesystem-mcp-by-default-and-uninstall-fr.md) — 11-07
+- [PR #1959: Add Beads MCP server to installer script](sources/pr-1959-add-beads-mcp-server-to-installer-script.md) — 11-08
+- [PR #1962: Fix production deployment workflow - GCP project correction](sources/pr-1962-fix-production-deployment-workflow-gcp-project-cor.md) — 11-08
+- [PR #1963: Fix Cloud Build log streaming in deployments](sources/pr-1963-fix-cloud-build-log-streaming-in-deployments.md) — 11-08
+- [PR #1964: docs: Add Render API environment variable safety protocol](sources/pr-1964-docs-add-render-api-environment-variable-safety-pr.md) — 11-08
+- [PR #1965: Add GitHub workflow production fix prompt template](sources/pr-1965-add-github-workflow-production-fix-prompt-template.md) — 11-08
+- [PR #1971: fix(integrate.sh): Prevent blank PR creation for commits with no file changes](sources/pr-1971-fix-integrate-sh-prevent-blank-pr-creation-for-com.md) — 11-08
+- [PR #1972: Update README file](sources/pr-1972-update-readme-file.md) — 11-08
+- [PR #1975: fix(localexportcommands): Replace mapfile with portable array assignment](sources/pr-1975-fix-localexportcommands-replace-mapfile-with-porta.md) — 11-08
+- [PR #1977: Fix mail agent slash command](sources/pr-1977-fix-mail-agent-slash-command.md) — 11-08
+- [PR #1978: feat(dotfiles): Add automatic machine detection and apply bashrc fix](sources/pr-1978-feat-dotfiles-add-automatic-machine-detection-and.md) — 11-08
+- [PR #1980: Bump jleechanorg-pr-automation to v0.1.2 for PyPI publication](sources/pr-1980-bump-jleechanorg-pr-automation-to-v0-1-2-for-pypi.md) — 11-08
+- [PR #1981: Enhance Codex CLI detection in orchestration](sources/pr-1981-enhance-codex-cli-detection-in-orchestration.md) — 11-08
+- [PR #1982: fix(processmsgs): Correct MCP server reference from Gmail to Agent Mail](sources/pr-1982-fix-processmsgs-correct-mcp-server-reference-from.md) — 11-08
+- [PR #1984: Add Beads MCP to installer script](sources/pr-1984-add-beads-mcp-to-installer-script.md) — 11-09
+- [PR #1985: Update /rg slash command](sources/pr-1985-update-rg-slash-command.md) — 11-09
+- [PR #1986: Update README and design documentation](sources/pr-1986-update-readme-and-design-documentation.md) — 11-09
+- [PR #1987: Add tmux live mode to orchestration system](sources/pr-1987-add-tmux-live-mode-to-orchestration-system.md) — 11-10
+- [PR #1988: Add GitHub workflow for code quality checks](sources/pr-1988-add-github-workflow-for-code-quality-checks.md) — 11-10
+- [PR #1989: Add skills directory instructions to agents.md](sources/pr-1989-add-skills-directory-instructions-to-agents-md.md) — 11-10
+- [PR #1991: Resolve rebase conflict and complete Husky hook validation](sources/pr-1991-resolve-rebase-conflict-and-complete-husky-hook-va.md) — 11-10
+- [PR #1992: Set up Husky for Git presubmit checks](sources/pr-1992-set-up-husky-for-git-presubmit-checks.md) — 11-11
+- [PR #1993: Update documentation with GitHub token setup](sources/pr-1993-update-documentation-with-github-token-setup.md) — 11-11
+- [PR #1994: Fix critical bugs identified in code review](sources/pr-1994-fix-critical-bugs-identified-in-code-review.md) — 11-11
+- [PR #1995: fix: map 'prod' and 'production' to 'stable' environment in deploy script](sources/pr-1995-fix-map-prod-and-production-to-stable-environment.md) — 11-11
+- [PR #1996: The Stable](sources/pr-1996-the-stable.md) — 11-12
+- [PR #1997: Optimize CI configuration to eliminate duplicate runs](sources/pr-1997-optimize-ci-configuration-to-eliminate-duplicate-r.md) — 11-12
+- [PR #1998: Run MCP smoke tests for WorldAI PR](sources/pr-1998-run-mcp-smoke-tests-for-worldai-pr.md) — 11-17
+- [PR #1999: Add slash commands from git submodule](sources/pr-1999-add-slash-commands-from-git-submodule.md) — 11-12
+- [PR #2001: fix: reduce max instances to 6 and fix deploy script gcloud flag](sources/pr-2001-fix-reduce-max-instances-to-6-and-fix-deploy-scrip.md) — 11-13
+- [PR #2002: Add npm installation instructions to claude.md](sources/pr-2002-add-npm-installation-instructions-to-claude-md.md) — 11-13
+- [PR #2003: Set up hook method for GitHub CLI installation](sources/pr-2003-set-up-hook-method-for-github-cli-installation.md) — 11-12
+- [PR #2009: Clarify copilot slash command documentation](sources/pr-2009-clarify-copilot-slash-command-documentation.md) — 11-13
+- [PR #2011: Verify hook setup and gh binary location](sources/pr-2011-verify-hook-setup-and-gh-binary-location.md) — 11-13
+- [PR #2012: Sync improvements from global ~/.claude configuration](sources/pr-2012-sync-improvements-from-global-claude-configuration.md) — 11-13
+- [PR #2013: Fix auth script path in secondo-cli.sh](sources/pr-2013-fix-auth-script-path-in-secondo-cli-sh.md) — 11-13
+- [PR #2015: Remove ddg-search MCP server from codex](sources/pr-2015-remove-ddg-search-mcp-server-from-codex.md) — 11-17
+- [PR #2017: Clarify agent directives in processmsgs command](sources/pr-2017-clarify-agent-directives-in-processmsgs-command.md) — 11-14
+- [PR #2018: Fix rate limit for interaction endpoint - increase to 30000/hour](sources/pr-2018-fix-rate-limit-for-interaction-endpoint-increase-t.md) — 11-14
+- [PR #2019: feat: Add staging environment for safe CSS fix deployment testing](sources/pr-2019-feat-add-staging-environment-for-safe-css-fix-depl.md) — 11-14
+- [PR #2020: feat: implement auto-deploy to dev on push to main](sources/pr-2020-feat-implement-auto-deploy-to-dev-on-push-to-main.md) — 11-14
+- [PR #2021: fix: resolve Cloud Build log streaming error in auto-deploy](sources/pr-2021-fix-resolve-cloud-build-log-streaming-error-in-aut.md) — 11-14
+- [PR #2022: fix: use --async with polling to truly fix log streaming](sources/pr-2022-fix-use-async-with-polling-to-truly-fix-log-stream.md) — 11-14
+- [PR #2024: sha commit. tracking: Follow-up coding session](sources/pr-2024-sha-commit-tracking-follow-up-coding-session.md) — 11-17
+- [PR #2025: docs: Add comprehensive GCP deployment skill for WorldArchitect.AI](sources/pr-2025-docs-add-comprehensive-gcp-deployment-skill-for-wo.md) — 11-14
+- [PR #2026: Fix /copilot to prioritize bug fixes over metrics](sources/pr-2026-fix-copilot-to-prioritize-bug-fixes-over-metrics.md) — 11-16
+- [PR #2030: feat: Add universal hook fallback to $HOME/.claude/hooks](sources/pr-2030-feat-add-universal-hook-fallback-to-home-claude-ho.md) — 11-16
+- [PR #2031: fix: Address critical code review comments](sources/pr-2031-fix-address-critical-code-review-comments.md) — 11-16
+- [PR #2032: Restore main README and organize documentation](sources/pr-2032-restore-main-readme-and-organize-documentation.md) — 11-16
+- [PR #2034: feat: add /clonefix command for automated PR test addition](sources/pr-2034-feat-add-clonefix-command-for-automated-pr-test-ad.md) — 11-16
+- [PR #2035: Add API key testing script for ai_universe repository](sources/pr-2035-add-api-key-testing-script-for-ai-universe-reposit.md) — 11-16
+- [PR #2036: Update fixpr command to write to docs/conflicts](sources/pr-2036-update-fixpr-command-to-write-to-docs-conflicts.md) — 11-17
+- [PR #2037: fix: Update hooks matcher format to new object-based syntax](sources/pr-2037-fix-update-hooks-matcher-format-to-new-object-base.md) — 11-17
+- [PR #2038: refactor: Extract Beads MCP installation into reusable function](sources/pr-2038-refactor-extract-beads-mcp-installation-into-reusa.md) — 11-17
+- [PR #2040: Test and fix clonefix merge conflict resolution](sources/pr-2040-test-and-fix-clonefix-merge-conflict-resolution.md) — 11-17
+- [PR #2041: Disable Playwright MCP by default](sources/pr-2041-disable-playwright-mcp-by-default.md) — 11-17
+- [PR #2042: claude md instructions on using gh cli](sources/pr-2042-claude-md-instructions-on-using-gh-cli.md) — 11-17
+- [PR #2044: Remove mcp_common.sh and update callers](sources/pr-2044-remove-mcp-common-sh-and-update-callers.md) — 11-17
+- [PR #2045: Add GCP preview server for pull requests](sources/pr-2045-add-gcp-preview-server-for-pull-requests.md) — 11-18
+- [PR #2047: docs: Add NO DIRECT MERGE TO MAIN protocol](sources/pr-2047-docs-add-no-direct-merge-to-main-protocol.md) — 11-18
+- [PR #2048: Fix Claude Code settings validation errors](sources/pr-2048-fix-claude-code-settings-validation-errors.md) — 11-18
+- [PR #2050: Add MCP preview smoke tests for GCP deployments](sources/pr-2050-add-mcp-preview-smoke-tests-for-gcp-deployments.md) — 11-19
+- [PR #2051: Add Gemini 3 Pro Preview model support](sources/pr-2051-add-gemini-3-pro-preview-model-support.md) — 11-18
+- [PR #2052: Fix dice roll results with Gemini code execution](sources/pr-2052-fix-dice-roll-results-with-gemini-code-execution.md) — 11-19
+- [PR #2053: Fix dev deploy + Add email notifications](sources/pr-2053-fix-dev-deploy-add-email-notifications.md) — 11-18
+- [PR #2054: Fix: continue_story() respects user Gemini model preference](sources/pr-2054-fix-continue-story-respects-user-gemini-model-pref.md) — 11-19
+- [PR #2055: Email notif centralization](sources/pr-2055-email-notif-centralization.md) — 11-19
+- [PR #2056: Disable plugin functionality](sources/pr-2056-disable-plugin-functionality.md) — 11-19
+- [PR #2057: Enhance testllm command to enforce complete execution](sources/pr-2057-enhance-testllm-command-to-enforce-complete-execut.md) — 11-19
+- [PR #2059: Implement server concurrency improvements](sources/pr-2059-implement-server-concurrency-improvements.md) — 11-19
+- [PR #2060: Rotate preview servers following deployment guide](sources/pr-2060-rotate-preview-servers-following-deployment-guide.md) — 11-19
+- [PR #2061: Fix: MCP smoke test upload errors and failure reporting](sources/pr-2061-fix-mcp-smoke-test-upload-errors-and-failure-repor.md) — 11-19
+- [PR #2062: Add email workflow guide to documentation](sources/pr-2062-add-email-workflow-guide-to-documentation.md) — 11-19
+- [PR #2064: Fix: Ensure world directory is included in Docker builds](sources/pr-2064-fix-ensure-world-directory-is-included-in-docker-b.md) — 11-19
+- [PR #2068: Fix XP calculation for D&D leveling system](sources/pr-2068-fix-xp-calculation-for-d-d-leveling-system.md) — 11-19
+- [PR #2069: Add default world smoke tests](sources/pr-2069-add-default-world-smoke-tests.md) — 11-21
+- [PR #2070: Remove confirmation requirement](sources/pr-2070-remove-confirmation-requirement.md) — 11-19
+- [PR #2071: Evaluate system prompt integration](sources/pr-2071-evaluate-system-prompt-integration.md) — 11-19
+- [PR #2072: Fix server pool rotation logic](sources/pr-2072-fix-server-pool-rotation-logic.md) — 11-19
+- [PR #2073: Fix campaign prompt length validation error](sources/pr-2073-fix-campaign-prompt-length-validation-error.md) — 11-29
+- [PR #2074: Make combat experience system prompt explicit](sources/pr-2074-make-combat-experience-system-prompt-explicit.md) — 11-19
+- [PR #2075: Expand smoke tests with real campaign actions](sources/pr-2075-expand-smoke-tests-with-real-campaign-actions.md) — 11-21
+- [PR #2077: Fix preview server rotation logic](sources/pr-2077-fix-preview-server-rotation-logic.md) — 11-19
+- [PR #2080: Fix WorldAi auto deploy aiuniverse reference](sources/pr-2080-fix-worldai-auto-deploy-aiuniverse-reference.md) — 11-20
+- [PR #2082: Harden God Mode validation recovery and clock-skew handling](sources/pr-2082-harden-god-mode-validation-recovery-and-clock-skew.md) — 11-24
+- [PR #2087: Improve smoke test world error handling](sources/pr-2087-improve-smoke-test-world-error-handling.md) — 11-21
+- [PR #2089: Add Codex conversation backup support to system backup script](sources/pr-2089-add-codex-conversation-backup-support-to-system-ba.md) — 11-22
+- [PR #2090: Fix GCP build pipeline](sources/pr-2090-fix-gcp-build-pipeline.md) — 11-21
+- [PR #2091: Create pair slash command for agent collaboration](sources/pr-2091-create-pair-slash-command-for-agent-collaboration.md) — 11-24
+- [PR #2092: feat: Add browser automation skills (Playwright + Superpowers Chrome)](sources/pr-2092-feat-add-browser-automation-skills-playwright-supe.md) — 11-23
+- [PR #2093: Fix Render deployment: Docker context + OOM worker config](sources/pr-2093-fix-render-deployment-docker-context-oom-worker-co.md) — 11-23
+- [PR #2094: fix: Apply PR 106 fixes, fix localexportcommands, and cleanup](sources/pr-2094-fix-apply-pr-106-fixes-fix-localexportcommands-and.md) — 11-23
+- [PR #2101: Harden test bypass safety and async loop handling](sources/pr-2101-harden-test-bypass-safety-and-async-loop-handling.md) — 11-24
+- [PR #2102: chore: update beads JSONL export with closed issues](sources/pr-2102-chore-update-beads-jsonl-export-with-closed-issues.md) — 11-24
+- [PR #2103: Address service DI and validation feedback](sources/pr-2103-address-service-di-and-validation-feedback.md) — 11-24
+- [PR #2104: Fix web search test suite to use actual API functions](sources/pr-2104-fix-web-search-test-suite-to-use-actual-api-functi.md) — 11-26
+- [PR #2109: Align service validation and sync test coverage](sources/pr-2109-align-service-validation-and-sync-test-coverage.md) — 11-27
+- [PR #2110: Fix WorldAI smoke tests for server pool](sources/pr-2110-fix-worldai-smoke-tests-for-server-pool.md) — 11-26
+- [PR #2112: fix: REPO_ROOT path calculation and export genericization](sources/pr-2112-fix-repo-root-path-calculation-and-export-generici.md) — 11-26
+- [PR #2116: Fix parallel request handling with ThreadPoolExecutor](sources/pr-2116-fix-parallel-request-handling-with-threadpoolexecu.md) — 11-27
+- [PR #2119: Address review feedback for concurrency fixes](sources/pr-2119-address-review-feedback-for-concurrency-fixes.md) — 11-26
+- [PR #2121: Restore orchestrated /fixpr copilot runner](sources/pr-2121-restore-orchestrated-fixpr-copilot-runner.md) — 11-27
+- [PR #2125: Document upstream pull attempt](sources/pr-2125-document-upstream-pull-attempt.md) — 11-26
+- [PR #2126: Address review feedback for concurrency fixes](sources/pr-2126-address-review-feedback-for-concurrency-fixes.md) — 11-26
+- [PR #2133: feat: Add GitHub workflows export to /exportcommands](sources/pr-2133-feat-add-github-workflows-export-to-exportcommands.md) — 11-27
+- [PR #2135: Remove slash commands MCP server and tests](sources/pr-2135-remove-slash-commands-mcp-server-and-tests.md) — 11-27
+- [PR #2136: Add .gitignore for automation/ and bump package to 0.1.4](sources/pr-2136-add-gitignore-for-automation-and-bump-package-to-0.md) — 11-27
+- [PR #2138: Add orchestrated PR automation with cron integration](sources/pr-2138-add-orchestrated-pr-automation-with-cron-integrati.md) — 11-27
+- [PR #2139: fix: Resolve integration test bugs and improve code quality](sources/pr-2139-fix-resolve-integration-test-bugs-and-improve-code.md) — 11-27
+- [PR #2140: Add GitHub CLI installation check to claude.md](sources/pr-2140-add-github-cli-installation-check-to-claude-md.md) — 11-27
+- [PR #2141: Implement copilot-lite slash command with LLM](sources/pr-2141-implement-copilot-lite-slash-command-with-llm.md) — 11-27
+- [PR #2142: Clarify /fixpr command workflow and requirements](sources/pr-2142-clarify-fixpr-command-workflow-and-requirements.md) — 11-27
+- [PR #2148: Add Gemini CLI support to orchestration framework](sources/pr-2148-add-gemini-cli-support-to-orchestration-framework.md) — 11-27
+- [PR #2157: fix: Resolve campaign concurrency blocking - asyncio.to_thread() for all blocking I/O](sources/pr-2157-fix-resolve-campaign-concurrency-blocking-asyncio.md) — 11-28
+- [PR #2161: feat: Centralize 100-thread executor for blocking I/O operations](sources/pr-2161-feat-centralize-100-thread-executor-for-blocking-i.md) — 11-28
+- [PR #2162: Upgrade Gemini CLI to Gemini 3 Pro Preview](sources/pr-2162-upgrade-gemini-cli-to-gemini-3-pro-preview.md) — 11-29
+- [PR #2163: Rename gemini service to llm_service](sources/pr-2163-rename-gemini-service-to-llm-service.md) — 11-29
+- [PR #2170: Add tests for parallelization coverage](sources/pr-2170-add-tests-for-parallelization-coverage.md) — 12-01
+- [PR #2173: Fix mock LLM fixture fallback](sources/pr-2173-fix-mock-llm-fixture-fallback.md) — 11-29
+- [PR #2175: Improve GitHub CLI installer logging](sources/pr-2175-improve-github-cli-installer-logging.md) — 11-29
+- [PR #2176: Document orchestration package source of truth](sources/pr-2176-document-orchestration-package-source-of-truth.md) — 11-29
+- [PR #2179: Fix packaging for orchestration + add PyPI publish helper](sources/pr-2179-fix-packaging-for-orchestration-add-pypi-publish-h.md) — 11-29
+- [PR #2181: Improve orchestration heartbeat tracking](sources/pr-2181-improve-orchestration-heartbeat-tracking.md) — 11-29
+- [PR #2182: Require DC display in dice roll prompts](sources/pr-2182-require-dc-display-in-dice-roll-prompts.md) — 11-29
+- [PR #2184: Add files via upload](sources/pr-2184-add-files-via-upload.md) — 11-29
+- [PR #2185: Add preventive guards for god mode continuity](sources/pr-2185-add-preventive-guards-for-god-mode-continuity.md) — 11-30
+- [PR #2186: Enforce fixpr agent selection and align commit prefixes](sources/pr-2186-enforce-fixpr-agent-selection-and-align-commit-pre.md) — 11-30
+- [PR #2194: Add GLM-4.6 200k context (OpenRouter/Cerebras), tighten Gemini compaction, align smoke runner](sources/pr-2194-add-glm-4-6-200k-context-openrouter-cerebras-tight.md) — 12-01
+- [PR #2201: Adjust compaction retention to 20 turns each side](sources/pr-2201-adjust-compaction-retention-to-20-turns-each-side.md) — 11-30
+- [PR #2202: Centralize timeout configuration](sources/pr-2202-centralize-timeout-configuration.md) — 11-30
+- [PR #2203: Revert "Add preventive guards for god mode continuity (#2185)"](sources/pr-2203-revert-add-preventive-guards-for-god-mode-continui.md) — 11-30
+- [PR #2204: Add commit and PR links to deployment emails](sources/pr-2204-add-commit-and-pr-links-to-deployment-emails.md) — 11-30
+- [PR #2206: Add Oracle browser playbook and helper scripts](sources/pr-2206-add-oracle-browser-playbook-and-helper-scripts.md) — 12-01
+- [PR #2207: Refine testing environment handling for model selection](sources/pr-2207-refine-testing-environment-handling-for-model-sele.md) — 12-01
+- [PR #2208: Remove dual-pass entity generator](sources/pr-2208-remove-dual-pass-entity-generator.md) — 12-01
+- [PR #2209: Ensure session headers show XP and gold](sources/pr-2209-ensure-session-headers-show-xp-and-gold.md) — 12-01
+- [PR #2211: Centralize Firebase token header management](sources/pr-2211-centralize-firebase-token-header-management.md) — 12-01
+- [PR #2212: Remove unjustified fallbacks in mvp_site](sources/pr-2212-remove-unjustified-fallbacks-in-mvp-site.md) — 12-01
+- [PR #2213: chore: Add beads merge driver and disable playwright MCP by default](sources/pr-2213-chore-add-beads-merge-driver-and-disable-playwrigh.md) — 12-01
+- [PR #2216: Remove Claude PR Assistant code action](sources/pr-2216-remove-claude-pr-assistant-code-action.md) — 12-01
+- [PR #2217: Review and justify fallback code in mvp_site](sources/pr-2217-review-and-justify-fallback-code-in-mvp-site.md) — 12-24
+- [PR #2219: Add beads chores for MCP handler refactor and settings defaults](sources/pr-2219-add-beads-chores-for-mcp-handler-refactor-and-sett.md) — 12-01
+- [PR #2221: Refactor MCP HTTP handler and centralize settings defaults](sources/pr-2221-refactor-mcp-http-handler-and-centralize-settings.md) — 12-01
+- [PR #2223: Clean up JSON/serialization; consolidate entities; fix HP validation](sources/pr-2223-clean-up-json-serialization-consolidate-entities-f.md) — 12-01
+- [PR #2229: Add files via upload](sources/pr-2229-add-files-via-upload.md) — 12-01
+- [PR #2235: Temporal Consistency Protocol: Complete PR #2233 Integration (18 commits) + Bug Fixes + CI Improvements](sources/pr-2235-temporal-consistency-protocol-complete-pr-2233-int.md) — 12-03
+- [PR #2242: Set Qwen 3 Cerbras as default model](sources/pr-2242-set-qwen-3-cerbras-as-default-model.md) — 12-02
+- [PR #2243: Audit GitHub Actions for cost optimization](sources/pr-2243-audit-github-actions-for-cost-optimization.md) — 12-02
+- [PR #2254: Add per-campaign cost estimation to campaign_manager.py](sources/pr-2254-add-per-campaign-cost-estimation-to-campaign-manag.md) — 12-02
+- [PR #2255: Switch default Gemini model to 2.0-flash for 95% cost savings](sources/pr-2255-switch-default-gemini-model-to-2-0-flash-for-95-co.md) — 12-02
+- [PR #2258: Optimize system prompts: 78% size reduction (172KB → 38KB) with safety preserved](sources/pr-2258-optimize-system-prompts-78-size-reduction-172kb-38.md) — 12-03
+- [PR #2260: Add Llama 4 Maverick and web search support](sources/pr-2260-add-llama-4-maverick-and-web-search-support.md) — 12-03
+- [PR #2263: Fix Cerebras provider to handle Qwen 3 reasoning field response](sources/pr-2263-fix-cerebras-provider-to-handle-qwen-3-reasoning-f.md) — 12-02
+- [PR #2267: Address review feedback for smoke test timeout updates](sources/pr-2267-address-review-feedback-for-smoke-test-timeout-upd.md) — 12-02
+- [PR #2270: Follow-up: improve Cerebras message parsing robustness](sources/pr-2270-follow-up-improve-cerebras-message-parsing-robustn.md) — 12-02
+- [PR #2271: Allow premium Gemini validation path](sources/pr-2271-allow-premium-gemini-validation-path.md) — 12-10
+- [PR #2272: Reduce system prompt sizes without losing information](sources/pr-2272-reduce-system-prompt-sizes-without-losing-informat.md) — 12-02
+- [PR #2284: Fix context-too-large errors with 20% output token reserve](sources/pr-2284-fix-context-too-large-errors-with-20-output-token.md) — 12-02
+- [PR #2294: Fix context budget mismatch between truncation and validation](sources/pr-2294-fix-context-budget-mismatch-between-truncation-and.md) — 12-03
+- [PR #2296: Remove LLM fallback retries and surface context errors](sources/pr-2296-remove-llm-fallback-retries-and-surface-context-er.md) — 12-03
+- [PR #2297: Add diagnostic logging for empty narrative detection](sources/pr-2297-add-diagnostic-logging-for-empty-narrative-detecti.md) — 12-03
+- [PR #2301: Disable temporal correction retries and surface violations to users](sources/pr-2301-disable-temporal-correction-retries-and-surface-vi.md) — 12-03
+- [PR #2302: Add provider auth error handling and rate limit coverage](sources/pr-2302-add-provider-auth-error-handling-and-rate-limit-co.md) — 12-03
+- [PR #2305: fix: remove non-existent Llama 4 Maverick model from Cerebras config](sources/pr-2305-fix-remove-non-existent-llama-4-maverick-model-fro.md) — 12-03
+- [PR #2306: Handle temporal warnings when retries disabled](sources/pr-2306-handle-temporal-warnings-when-retries-disabled.md) — 12-03
+- [PR #2308: fix: add explicit entity tracking token reserve to prevent context overflow](sources/pr-2308-fix-add-explicit-entity-tracking-token-reserve-to.md) — 12-03
+- [PR #2311: Context truncation overhaul (no auto-fallback): percentage budgeting, middle compaction, hard-trim guarantees](sources/pr-2311-context-truncation-overhaul-no-auto-fallback-perce.md) — 12-07
+- [PR #2321: Add files via upload](sources/pr-2321-add-files-via-upload.md) — 12-07
+- [PR #2322: Centralize world time handling and enforce progression](sources/pr-2322-centralize-world-time-handling-and-enforce-progres.md) — 12-10
+- [PR #2325: Fix LLM narrative generation without planning blocks](sources/pr-2325-fix-llm-narrative-generation-without-planning-bloc.md) — 12-11
+- [PR #2326: Document automation workflows and update README](sources/pr-2326-document-automation-workflows-and-update-readme.md) — 12-08
+- [PR #2327: Fix timeline log budget bug causing ContextTooLargeError](sources/pr-2327-fix-timeline-log-budget-bug-causing-contexttoolarg.md) — 12-09
+- [PR #2330: Expose shared timeline log duplication factor](sources/pr-2330-expose-shared-timeline-log-duplication-factor.md) — 12-09
+- [PR #2332: Clarify timeline log guard and documentation](sources/pr-2332-clarify-timeline-log-guard-and-documentation.md) — 12-08
+- [PR #2336: Auto-heal fixpr base clones and bump automation/orchestration](sources/pr-2336-auto-heal-fixpr-base-clones-and-bump-automation-or.md) — 12-10
+- [PR #2343: Fix PR cache invalidation in git-header.sh](sources/pr-2343-fix-pr-cache-invalidation-in-git-header-sh.md) — 12-10
+- [PR #2344: Remove exposed GCP API keys from repository](sources/pr-2344-remove-exposed-gcp-api-keys-from-repository.md) — 12-10
+- [PR #2345: Allow automation to run with codex commits](sources/pr-2345-allow-automation-to-run-with-codex-commits.md) — 12-10
+- [PR #2346: Limit copilot slash command to GitHub comments](sources/pr-2346-limit-copilot-slash-command-to-github-comments.md) — 12-10
+- [PR #2347: feat: Add automation/ directory to exportcommands and document workflows](sources/pr-2347-feat-add-automation-directory-to-exportcommands-an.md) — 12-11
+- [PR #2353: refactor: Move D&D 5E calculations from LLM prompts to code + hybrid dice rolling](sources/pr-2353-refactor-move-d-d-5e-calculations-from-llm-prompts.md) — 12-19
+- [PR #2368: Bump automation package version to 0.2.7](sources/pr-2368-bump-automation-package-version-to-0-2-7.md) — 12-10
+- [PR #2372: Add OpenAI Codex automation suite for Github Mention tasks](sources/pr-2372-add-openai-codex-automation-suite-for-github-menti.md) — 12-18
+- [PR #2373: Update auth-cli.mjs to support multi-project authentication](sources/pr-2373-update-auth-cli-mjs-to-support-multi-project-authe.md) — 12-10
+- [PR #2376: Remove default planning block logic](sources/pr-2376-remove-default-planning-block-logic.md) — 12-11
+- [PR #2377: fix(cerebras): migrate to json_schema with strict:true for structured outputs](sources/pr-2377-fix-cerebras-migrate-to-json-schema-with-strict-tr.md) — 12-10
+- [PR #2385: refactor: centralize JSON schema, remove dead code](sources/pr-2385-refactor-centralize-json-schema-remove-dead-code.md) — 12-10
+- [PR #2393: Add cursor CLI agent orchestration support](sources/pr-2393-add-cursor-cli-agent-orchestration-support.md) — 12-15
+- [PR #2394: Clarify modifier labels in dice roll prompts](sources/pr-2394-clarify-modifier-labels-in-dice-roll-prompts.md) — 12-11
+- [PR #2395: Prevent temporal anomaly warning on unchanged timestamps](sources/pr-2395-prevent-temporal-anomaly-warning-on-unchanged-time.md) — 12-11
+- [PR #2396: feat: God Mode uses separate system prompts (no narrative advancement)](sources/pr-2396-feat-god-mode-uses-separate-system-prompts-no-narr.md) — 12-11
+- [PR #2399: Fix GOD mode detection and documentation updates](sources/pr-2399-fix-god-mode-detection-and-documentation-updates.md) — 12-11
+- [PR #2400: Handle planning fallback for think actions](sources/pr-2400-handle-planning-fallback-for-think-actions.md) — 12-11
+- [PR #2403: Fix: Strip embedded planning block JSON from narrative text](sources/pr-2403-fix-strip-embedded-planning-block-json-from-narrat.md) — 12-11
+- [PR #2407: Add Cerebras and OpenRouter model support](sources/pr-2407-add-cerebras-and-openrouter-model-support.md) — 12-11
+- [PR #2410: Adjust context truncation to preserve more tokens](sources/pr-2410-adjust-context-truncation-to-preserve-more-tokens.md) — 12-17
+- [PR #2411: Create agent classes for story and god modes](sources/pr-2411-create-agent-classes-for-story-and-god-modes.md) — 12-20
+- [PR #2412: Improve copilot workflow](sources/pr-2412-improve-copilot-workflow.md) — 12-13
+- [PR #2417: Adjust Codex automation tests for selector logic and GitHub capitalization](sources/pr-2417-adjust-codex-automation-tests-for-selector-logic-a.md) — 12-12
+- [PR #2418: Fix planning block test location setup](sources/pr-2418-fix-planning-block-test-location-setup.md) — 12-11
+- [PR #2421: Fix concurrent operations parallel execution test](sources/pr-2421-fix-concurrent-operations-parallel-execution-test.md) — 12-15
+- [PR #2422: Set Cerebras Direct GLM 4.6 as default model](sources/pr-2422-set-cerebras-direct-glm-4-6-as-default-model.md) — 12-13
+- [PR #2425: fix(auth): default clock skew to 600s for local development](sources/pr-2425-fix-auth-default-clock-skew-to-600s-for-local-deve.md) — 12-13
+- [PR #2427: Reduce Claude MD file size by half](sources/pr-2427-reduce-claude-md-file-size-by-half.md) — 12-14
+- [PR #2428: Leveling fixes: Complete pending task](sources/pr-2428-leveling-fixes-complete-pending-task.md) — 12-17
+- [PR #2444: feat(orchestration): Add -f flag to cursor agent for non-interactive execution](sources/pr-2444-feat-orchestration-add-f-flag-to-cursor-agent-for.md) — 12-17
+- [PR #2446: Address review feedback for cursor automation workflows](sources/pr-2446-address-review-feedback-for-cursor-automation-work.md) — 12-17
+- [PR #2447: Fix Claude Code statusline PR detection](sources/pr-2447-fix-claude-code-statusline-pr-detection.md) — 12-17
+- [PR #2448: Fix MCP port handling in run_local_server.sh](sources/pr-2448-fix-mcp-port-handling-in-run-local-server-sh.md) — 12-17
+- [PR #2452: Restore Claude MD documentation from GitHub](sources/pr-2452-restore-claude-md-documentation-from-github.md) — 12-17
+- [PR #2454: Fix bug using test-driven development approach](sources/pr-2454-fix-bug-using-test-driven-development-approach.md) — 12-18
+- [PR #2457: Adapt Claude commands to Gemini slash commands](sources/pr-2457-adapt-claude-commands-to-gemini-slash-commands.md) — 12-18
+- [PR #2458: Remove failing WorldArchitect Tests workflow](sources/pr-2458-remove-failing-worldarchitect-tests-workflow.md) — 12-18
+- [PR #2462: Add Gemini 3 Flash model support](sources/pr-2462-add-gemini-3-flash-model-support.md) — 12-18
+- [PR #2465: Clarify removal of legacy test workflow](sources/pr-2465-clarify-removal-of-legacy-test-workflow.md) — 12-18
+- [PR #2468: fix(orchestration): Fix Gemini CLI prompt handling via stdin](sources/pr-2468-fix-orchestration-fix-gemini-cli-prompt-handling-v.md) — 12-18
+- [PR #2469: chore: Bump orchestration v0.1.13 and automation v0.2.8](sources/pr-2469-chore-bump-orchestration-v0-1-13-and-automation-v0.md) — 12-18
+- [PR #2470: Adapt Claude commands to Gemini slash commands](sources/pr-2470-adapt-claude-commands-to-gemini-slash-commands.md) — 12-18
+- [PR #2471: Remove dragon telepathy from campaign start](sources/pr-2471-remove-dragon-telepathy-from-campaign-start.md) — 12-18
+- [PR #2472: Force OAuth auth by unsetting API keys in CLI agents](sources/pr-2472-force-oauth-auth-by-unsetting-api-keys-in-cli-agen.md) — 12-18
+- [PR #2473: Review and refactor keyword parsing logic](sources/pr-2473-review-and-refactor-keyword-parsing-logic.md) — 01-08
+- [PR #2474: Bump versions: orchestration 0.1.14, automation 0.2.12](sources/pr-2474-bump-versions-orchestration-0-1-14-automation-0-2.md) — 12-18
+- [PR #2475: Fix crontab automation to use CDP mode (v0.2.14)](sources/pr-2475-fix-crontab-automation-to-use-cdp-mode-v0-2-14.md) — 12-18
+- [PR #2478: Add Codex CLI fallback for Gemini rate limits](sources/pr-2478-add-codex-cli-fallback-for-gemini-rate-limits.md) — 12-18
+- [PR #2480: chore: docs/artifacts extracted from PR #2353](sources/pr-2480-chore-docs-artifacts-extracted-from-pr-2353.md) — 12-18
+- [PR #2481: chore: ops/debug improvements extracted from PR #2353](sources/pr-2481-chore-ops-debug-improvements-extracted-from-pr-235.md) — 12-18
+- [PR #2483: Add mission system with NPC interactions](sources/pr-2483-add-mission-system-with-npc-interactions.md) — 12-20
+- [PR #2484: Organize end-to-end tests into subdirectory](sources/pr-2484-organize-end-to-end-tests-into-subdirectory.md) — 12-19
+- [PR #2485: Review and optimize test coverage in mvp_site](sources/pr-2485-review-and-optimize-test-coverage-in-mvp-site.md) — 12-22
+- [PR #2489: Enforce strict time format in LLM output](sources/pr-2489-enforce-strict-time-format-in-llm-output.md) — 12-19
+- [PR #2492: Make new arguments optional](sources/pr-2492-make-new-arguments-optional.md) — 12-19
+- [PR #2493: Configure orchestration agents to use Gemini CLI](sources/pr-2493-configure-orchestration-agents-to-use-gemini-cli.md) — 12-21
+- [PR #2496: Centralize combat disposition keywords and add CombatDisposition enum](sources/pr-2496-centralize-combat-disposition-keywords-and-add-com.md) — 12-19
+- [PR #2502: Fix Gemini code_execution dice fabrication](sources/pr-2502-fix-gemini-code-execution-dice-fabrication.md) — 12-19
+- [PR #2505: Fix initial-story prompt ordering and centralize agent instruction assembly](sources/pr-2505-fix-initial-story-prompt-ordering-and-centralize-a.md) — 12-19
+- [PR #2506: feat(dice): Comprehensive dice integrity enforcement (8-layer solution)](sources/pr-2506-feat-dice-comprehensive-dice-integrity-enforcement.md) — 12-22
+- [PR #2509: fix: Apply PR review fixes from export PR #193](sources/pr-2509-fix-apply-pr-review-fixes-from-export-pr-193.md) — 12-20
+- [PR #2510: feat(orch): Add --agent-cli with gemini default and document all options](sources/pr-2510-feat-orch-add-agent-cli-with-gemini-default-and-do.md) — 12-21
+- [PR #2516: fix(dice): boolean combat check + align Gemini code-exec evidence types](sources/pr-2516-fix-dice-boolean-combat-check-align-gemini-code-ex.md) — 12-20
+- [PR #2517: Auto-start Chrome for Codex CDP](sources/pr-2517-auto-start-chrome-for-codex-cdp.md) — 12-21
+- [PR #2519: Add slash command for end-to-end tests](sources/pr-2519-add-slash-command-for-end-to-end-tests.md) — 12-21
+- [PR #2520: fix(temporal): Prevent false temporal anomaly warnings from incomplete world_time](sources/pr-2520-fix-temporal-prevent-false-temporal-anomaly-warnin.md) — 12-30
+- [PR #2521: unify logging](sources/pr-2521-unify-logging.md) — 12-22
+- [PR #2525: feat(game-state): Add arc_milestones tracking to prevent timeline confusion](sources/pr-2525-feat-game-state-add-arc-milestones-tracking-to-pre.md) — 12-24
+- [PR #2527: Fix DM note command functionality](sources/pr-2527-fix-dm-note-command-functionality.md) — 12-22
+- [PR #2528: Remove legacy Grok and Llama 8B models](sources/pr-2528-remove-legacy-grok-and-llama-8b-models.md) — 12-21
+- [PR #2533: Fix cleanup method indentation and bump to 0.2.19](sources/pr-2533-fix-cleanup-method-indentation-and-bump-to-0-2-19.md) — 12-22
+- [PR #2535: Lazy auto-initialize unified logging and env-configurable default service](sources/pr-2535-lazy-auto-initialize-unified-logging-and-env-confi.md) — 12-22
+- [PR #2539: Fix unified logging and update documentation](sources/pr-2539-fix-unified-logging-and-update-documentation.md) — 12-22
+- [PR #2540: Fix scene and turn counting logic](sources/pr-2540-fix-scene-and-turn-counting-logic.md) — 12-27
+- [PR #2541: Implement end-to-end LLM streaming responses (SSE, tools, validation, frontend UX)](sources/pr-2541-implement-end-to-end-llm-streaming-responses-sse-t.md) — 02-13
+- [PR #2546: fix(audit): ignore multi-dice totals](sources/pr-2546-fix-audit-ignore-multi-dice-totals.md) — 12-22
+- [PR #2548: fix(entity): validate NPC string_id before use to prevent invalid prefix errors](sources/pr-2548-fix-entity-validate-npc-string-id-before-use-to-pr.md) — 12-22
+- [PR #2549: Add files via upload](sources/pr-2549-add-files-via-upload.md) — 12-22
+- [PR #2550: Fix narrative truncation on unescaped quotes](sources/pr-2550-fix-narrative-truncation-on-unescaped-quotes.md) — 12-23
+- [PR #2551: fix(dice): Enforce true RNG in code_execution to prevent fabricated dice rolls](sources/pr-2551-fix-dice-enforce-true-rng-in-code-execution-to-pre.md) — 12-24
+- [PR #2552: Fix update_campaign dot-notation path handling](sources/pr-2552-fix-update-campaign-dot-notation-path-handling.md) — 12-23
+- [PR #2553: Add combat-focused agent with system prompts](sources/pr-2553-add-combat-focused-agent-with-system-prompts.md) — 12-27
+- [PR #2560: fix(dice): tighten RNG verification (star-imports, logging, tests)](sources/pr-2560-fix-dice-tighten-rng-verification-star-imports-log.md) — 12-23
+- [PR #2561: Fix Alexiel campaign structural balance issues](sources/pr-2561-fix-alexiel-campaign-structural-balance-issues.md) — 12-31
+- [PR #2562: Add explicit enemy stats to combat system](sources/pr-2562-add-explicit-enemy-stats-to-combat-system.md) — 12-23
+- [PR #2564: feat(god-mode): LLM-based directive extraction with persistent rules](sources/pr-2564-feat-god-mode-llm-based-directive-extraction-with.md) — 12-30
+- [PR #2578: feat(prompts): Add comprehensive relationship and reputation mechanics](sources/pr-2578-feat-prompts-add-comprehensive-relationship-and-re.md) — 12-31
+- [PR #2580: Stabilize Codex updater tab reuse](sources/pr-2580-stabilize-codex-updater-tab-reuse.md) — 12-23
+- [PR #2587: test(dice): add chi-square test for native_two_phase strategy](sources/pr-2587-test-dice-add-chi-square-test-for-native-two-phase.md) — 12-24
+- [PR #2588: fix(test): Fix arc_milestones extraction path in E2E test](sources/pr-2588-fix-test-fix-arc-milestones-extraction-path-in-e2e.md) — 12-26
+- [PR #2592: Optimize savetmp command with evidence standards](sources/pr-2592-optimize-savetmp-command-with-evidence-standards.md) — 12-25
+- [PR #2597: Add files via upload](sources/pr-2597-add-files-via-upload.md) — 12-24
+- [PR #2598: fix(prompts): Clarify XP threshold table to prevent level confusion](sources/pr-2598-fix-prompts-clarify-xp-threshold-table-to-prevent.md) — 12-27
+- [PR #2600: Preserve character inventory and items](sources/pr-2600-preserve-character-inventory-and-items.md) — 01-11
+- [PR #2603: Living World system: 3-turn cadence, lifecycle tracking, E2E evidence](sources/pr-2603-living-world-system-3-turn-cadence-lifecycle-track.md) — 12-28
+- [PR #2605: Fix item stats display accuracy in game](sources/pr-2605-fix-item-stats-display-accuracy-in-game.md) — 12-27
+- [PR #2612: Equipment visibility + InfoAgent hybrid + String ID entity system](sources/pr-2612-equipment-visibility-infoagent-hybrid-string-id-en.md) — 12-27
+- [PR #2627: fix(automation): Detect GitHub bots and fix detection order](sources/pr-2627-fix-automation-detect-github-bots-and-fix-detectio.md) — 12-26
+- [PR #2628: Refactor campaign test utilities into shared library](sources/pr-2628-refactor-campaign-test-utilities-into-shared-libra.md) — 12-26
+- [PR #2633: docs(skills): Add bulletproof evidence requirements from v3 lessons](sources/pr-2633-docs-skills-add-bulletproof-evidence-requirements.md) — 12-26
+- [PR #2635: Fix chrome-superpower plugin path detection](sources/pr-2635-fix-chrome-superpower-plugin-path-detection.md) — 12-26
+- [PR #2660: feat(tests): Add pytest conftest.py for global test configuration](sources/pr-2660-feat-tests-add-pytest-conftest-py-for-global-test.md) — 12-27
+- [PR #2661: fix(backup): Fix heredoc escaping bug breaking cron backups](sources/pr-2661-fix-backup-fix-heredoc-escaping-bug-breaking-cron.md) — 12-27
+- [PR #2664: Fix planning blocks to generate real choices](sources/pr-2664-fix-planning-blocks-to-generate-real-choices.md) — 12-27
+- [PR #2667: Implement RewardsAgent for narrative encounters](sources/pr-2667-implement-rewardsagent-for-narrative-encounters.md) — 12-29
+- [PR #2670: Fix LLM revealing deception to Seline](sources/pr-2670-fix-llm-revealing-deception-to-seline.md) — 12-30
+- [PR #2677: feat(automation): Increase Codex task limit from 50 to 200](sources/pr-2677-feat-automation-increase-codex-task-limit-from-50.md) — 12-27
+- [PR #2678: chore: Bump jleechanorg-pr-automation to v0.2.27](sources/pr-2678-chore-bump-jleechanorg-pr-automation-to-v0-2-27.md) — 12-27
+- [PR #2683: chore: Remove debug artifacts and disable auto-formatting pre-commit hooks](sources/pr-2683-chore-remove-debug-artifacts-and-disable-auto-form.md) — 12-27
+- [PR #2684: feat(prompts): Add inventory validation protocol to prevent item cheating](sources/pr-2684-feat-prompts-add-inventory-validation-protocol-to.md) — 12-28
+- [PR #2687: feat(memory): Add token budget and deduplication for core memories](sources/pr-2687-feat-memory-add-token-budget-and-deduplication-for.md) — 12-28
+- [PR #2701: docs(evidence): Add runtime behavior evidence requirements](sources/pr-2701-docs-evidence-add-runtime-behavior-evidence-requir.md) — 12-28
+- [PR #2702: Remove savetml dependency from evidence standards](sources/pr-2702-remove-savetml-dependency-from-evidence-standards.md) — 12-29
+- [PR #2703: feat(living-world): UI debug panel, player_turn tracking, and annotation fixes](sources/pr-2703-feat-living-world-ui-debug-panel-player-turn-track.md) — 12-28
+- [PR #2707: Update sync command to fetch latest git info](sources/pr-2707-update-sync-command-to-fetch-latest-git-info.md) — 12-28
+- [PR #2716: feat(prompts): Add spell slot validation protocol](sources/pr-2716-feat-prompts-add-spell-slot-validation-protocol.md) — 12-29
+- [PR #2719: Clarify /secondo command to use AI Universe](sources/pr-2719-clarify-secondo-command-to-use-ai-universe.md) — 12-28
+- [PR #2723: Change equipment button label to view equipment](sources/pr-2723-change-equipment-button-label-to-view-equipment.md) — 12-28
+- [PR #2724: Hide state updates](sources/pr-2724-hide-state-updates.md) — 12-28
+- [PR #2725: fix(living-world): Fix duplicate world_events + add diagnostic tool](sources/pr-2725-fix-living-world-fix-duplicate-world-events-add-di.md) — 12-28
+- [PR #2729: Improve LLM equipment summary formatting](sources/pr-2729-improve-llm-equipment-summary-formatting.md) — 12-28
+- [PR #2736: Fix view equipment button chat functionality](sources/pr-2736-fix-view-equipment-button-chat-functionality.md) — 12-29
+- [PR #2739: fix(living-world): Extract world_events from nested custom_campaign_state](sources/pr-2739-fix-living-world-extract-world-events-from-nested.md) — 12-29
+- [PR #2743: Add files via upload](sources/pr-2743-add-files-via-upload.md) — 12-29
+- [PR #2744: Add files via upload](sources/pr-2744-add-files-via-upload.md) — 12-29
+- [PR #2745: Simplify weapon slots and inventory display](sources/pr-2745-simplify-weapon-slots-and-inventory-display.md) — 12-30
+- [PR #2746: Add detailed dialogue to narrative system](sources/pr-2746-add-detailed-dialogue-to-narrative-system.md) — 12-29
+- [PR #2752: Fix Social Victory XP not being awarded](sources/pr-2752-fix-social-victory-xp-not-being-awarded.md) — 12-29
+- [PR #2753: Debug LLM ignoring force count requests](sources/pr-2753-debug-llm-ignoring-force-count-requests.md) — 12-30
+- [PR #2754: feat(automation): Increase PR safety limit from 5 to 10](sources/pr-2754-feat-automation-increase-pr-safety-limit-from-5-to.md) — 12-30
+- [PR #2755: Debug rewards agent level up processing](sources/pr-2755-debug-rewards-agent-level-up-processing.md) — 12-31
+- [PR #2778: Faction minigame + force creation mechanics](sources/pr-2778-faction-minigame-force-creation-mechanics.md) — 01-18
+- [PR #2796: Remove consensus endpoint from plan](sources/pr-2796-remove-consensus-endpoint-from-plan.md) — 12-30
+- [PR #2797: Migrate files to lib directory](sources/pr-2797-migrate-files-to-lib-directory.md) — 12-30
+- [PR #2801: Add regression tests for core system instructions](sources/pr-2801-add-regression-tests-for-core-system-instructions.md) — 01-14
+- [PR #2809: Fix: Address code review comments - test assertions, CLI override, exception handling](sources/pr-2809-fix-address-code-review-comments-test-assertions-c.md) — 12-30
+- [PR #2832: Add DC calculation proof for dice rolls](sources/pr-2832-add-dc-calculation-proof-for-dice-rolls.md) — 01-01
+- [PR #2837: Fix: Auto-initialize completed_missions field for mission auto-completion](sources/pr-2837-fix-auto-initialize-completed-missions-field-for-m.md) — 12-31
+- [PR #2838: Fix Social Victory experience level calculation](sources/pr-2838-fix-social-victory-experience-level-calculation.md) — 12-31
+- [PR #2842: Fix: Enforce automatic ally turns and mandatory combat status display](sources/pr-2842-fix-enforce-automatic-ally-turns-and-mandatory-com.md) — 01-01
+- [PR #2843: fix(prompts): Make reward protocols explicit in ESSENTIALS for LLM reliability](sources/pr-2843-fix-prompts-make-reward-protocols-explicit-in-esse.md) — 01-01
+- [PR #2844: feat(campaign): Dragon Knight campaign overhaul - default build, Dragon's Favor, family lore, and Champion's Inheritance](sources/pr-2844-feat-campaign-dragon-knight-campaign-overhaul-defa.md) — 12-31
+- [PR #2845: Remove Claude MD guidance from slash commands](sources/pr-2845-remove-claude-md-guidance-from-slash-commands.md) — 12-31
+- [PR #2856: Customize dragon knight gear rewards by class](sources/pr-2856-customize-dragon-knight-gear-rewards-by-class.md) — 01-01
+- [PR #2885: Fix level up prompt showing incorrectly](sources/pr-2885-fix-level-up-prompt-showing-incorrectly.md) — 01-01
+- [PR #2888: Award full experience for surrendered enemies](sources/pr-2888-award-full-experience-for-surrendered-enemies.md) — 01-05
+- [PR #2889: feat(scripts): Add campaign download script for local export](sources/pr-2889-feat-scripts-add-campaign-download-script-for-loca.md) — 01-01
+- [PR #2890: Fetch equipment from game state directly](sources/pr-2890-fetch-equipment-from-game-state-directly.md) — 01-04
+- [PR #2891: feat(scripts): Add campaign download script for local export](sources/pr-2891-feat-scripts-add-campaign-download-script-for-loca.md) — 01-04
+- [PR #2902: Create tests and fix issues with system prompt](sources/pr-2902-create-tests-and-fix-issues-with-system-prompt.md) — 01-10
+- [PR #2903: feat(god-mode): Include dm_notes in system prompts with newest-first precedence](sources/pr-2903-feat-god-mode-include-dm-notes-in-system-prompts-w.md) — 01-01
+- [PR #2909: fix(prompts): Add DM Reward Check protocol for all reward-worthy actions](sources/pr-2909-fix-prompts-add-dm-reward-check-protocol-for-all-r.md) — 01-10
+- [PR #2915: fix(social-hp): Auto-inject Social HP enforcement for god-tier NPCs](sources/pr-2915-fix-social-hp-auto-inject-social-hp-enforcement-fo.md) — 01-09
+- [PR #2950: fix(ci): Install full requirements for daily campaign report](sources/pr-2950-fix-ci-install-full-requirements-for-daily-campaig.md) — 01-01
+- [PR #2952: feat(report): Add PST timestamps for user last activity](sources/pr-2952-feat-report-add-pst-timestamps-for-user-last-activ.md) — 01-01
+- [PR #2962: Fix missing level up choices in planning](sources/pr-2962-fix-missing-level-up-choices-in-planning.md) — 01-03
+- [PR #2963: Centralize system prompt manipulation code](sources/pr-2963-centralize-system-prompt-manipulation-code.md) — 01-05
+- [PR #2964: Allow editing campaign selections before submission](sources/pr-2964-allow-editing-campaign-selections-before-submissio.md) — 01-14
+- [PR #2965: Build character creation agent with minimal prompts](sources/pr-2965-build-character-creation-agent-with-minimal-prompt.md) — 01-09
+- [PR #2984: Add customizable calendar system for game settings](sources/pr-2984-add-customizable-calendar-system-for-game-settings.md) — 01-29
+- [PR #2986: Fix god mode pause story functionality](sources/pr-2986-fix-god-mode-pause-story-functionality.md) — 01-04
+- [PR #2987: Remove dice rolls from narrative text](sources/pr-2987-remove-dice-rolls-from-narrative-text.md) — 01-03
+- [PR #2989: feat(rate-limit): adjust limits to 50/day and 25/5hr, show retry timing in UI](sources/pr-2989-feat-rate-limit-adjust-limits-to-50-day-and-25-5hr.md) — 01-19
+- [PR #2992: Uncheck default fantasy world for custom campaigns](sources/pr-2992-uncheck-default-fantasy-world-for-custom-campaigns.md) — 01-11
+- [PR #2993: Add Think Mode to UI with tooltip](sources/pr-2993-add-think-mode-to-ui-with-tooltip.md) — 01-04
+- [PR #2994: Add proficiency bonus reminder to D&D instructions](sources/pr-2994-add-proficiency-bonus-reminder-to-d-d-instructions.md) — 01-07
+- [PR #3000: Review and optimize system prompts](sources/pr-3000-review-and-optimize-system-prompts.md) — 01-17
+- [PR #3001: Enhance story mode with vivid narrative details](sources/pr-3001-enhance-story-mode-with-vivid-narrative-details.md) — 01-04
+- [PR #3002: Reorder campaign title and type fields](sources/pr-3002-reorder-campaign-title-and-type-fields.md) — 01-04
+- [PR #3003: Clarify time passage in hiking blocks](sources/pr-3003-clarify-time-passage-in-hiking-blocks.md) — 01-04
+- [PR #3004: Address think mode feedback](sources/pr-3004-address-think-mode-feedback.md) — 01-04
+- [PR #3014: Clarify Think Mode detection and silence unused argument warning](sources/pr-3014-clarify-think-mode-detection-and-silence-unused-ar.md) — 01-04
+- [PR #3015: Add campaign upgrade agent for universe control](sources/pr-3015-add-campaign-upgrade-agent-for-universe-control.md) — 01-17
+- [PR #3020: fix(prompts): Require level-up planning_block on GOD MODE return to story](sources/pr-3020-fix-prompts-require-level-up-planning-block-on-god.md) — 01-04
+- [PR #3026: feat(automation): Add archive mode for completed Codex tasks](sources/pr-3026-feat-automation-add-archive-mode-for-completed-cod.md) — 01-05
+- [PR #3031: Add Think Mode to UI with tooltip](sources/pr-3031-add-think-mode-to-ui-with-tooltip.md) — 01-04
+- [PR #3042: chore(deps): bump qs and express](sources/pr-3042-chore-deps-bump-qs-and-express.md) — 04-08
+- [PR #3044: feat(agents): Complete prompt-builder refactor (lb3 epic)](sources/pr-3044-feat-agents-complete-prompt-builder-refactor-lb3-e.md) — 01-04
+- [PR #3045: Analyze Unforeseen Complications Frequency](sources/pr-3045-analyze-unforeseen-complications-frequency.md) — 01-04
+- [PR #3046: Revert "Analyze Unforeseen Complications Frequency"](sources/pr-3046-revert-analyze-unforeseen-complications-frequency.md) — 01-04
+- [PR #3048: Add exhaustion check for missing sleep](sources/pr-3048-add-exhaustion-check-for-missing-sleep.md) — 01-04
+- [PR #3053: refactor(export): Unify campaign export logic between web UI and CLI](sources/pr-3053-refactor-export-unify-campaign-export-logic-betwee.md) — 01-04
+- [PR #3060: Fix LLM ignoring success percentage and pros/cons](sources/pr-3060-fix-llm-ignoring-success-percentage-and-pros-cons.md) — 01-04
+- [PR #3065: Fix extension context invalidated error on planning block](sources/pr-3065-fix-extension-context-invalidated-error-on-plannin.md) — 01-04
+- [PR #3066: Hide dice rolls when debug mode is off](sources/pr-3066-hide-dice-rolls-when-debug-mode-is-off.md) — 01-04
+- [PR #3069: Add Sanctuary Mode to Living World Protocol](sources/pr-3069-add-sanctuary-mode-to-living-world-protocol.md) — 01-16
+- [PR #3075: Fix exhaustion save rolling during long rest](sources/pr-3075-fix-exhaustion-save-rolling-during-long-rest.md) — 01-04
+- [PR #3080: refactor(rewards): Replace server-side enforcement with LLM self-correction](sources/pr-3080-refactor-rewards-replace-server-side-enforcement-w.md) — 01-05
+- [PR #3081: feat: Add DeferredRewardsAgent for parallel rewards processing every 10 scenes](sources/pr-3081-feat-add-deferredrewardsagent-for-parallel-rewards.md) — 02-01
+- [PR #3082: Add system instructions for story mode defaults](sources/pr-3082-add-system-instructions-for-story-mode-defaults.md) — 01-09
+- [PR #3086: feat: Add active_effects to system prompts and schema](sources/pr-3086-feat-add-active-effects-to-system-prompts-and-sche.md) — 01-05
+- [PR #3087: Pause time during level up choice](sources/pr-3087-pause-time-during-level-up-choice.md) — 01-31
+- [PR #3094: fix(github): Rename .github/README.md to fix homepage display](sources/pr-3094-fix-github-rename-github-readme-md-to-fix-homepage.md) — 01-06
+- [PR #3097: feat(reports): Add cost estimation and include jleechan in daily report](sources/pr-3097-feat-reports-add-cost-estimation-and-include-jleec.md) — 01-04
+- [PR #3108: Increase companion request frequency in Living World](sources/pr-3108-increase-companion-request-frequency-in-living-wor.md) — 01-05
+- [PR #3109: Address review feedback for deferred rewards system](sources/pr-3109-address-review-feedback-for-deferred-rewards-syste.md) — 01-05
+- [PR #3124: feat(stats): Add features/feats to character stats API endpoint](sources/pr-3124-feat-stats-add-features-feats-to-character-stats-a.md) — 01-05
+- [PR #3125: Align rewards self-corrections and mechanical choice tests](sources/pr-3125-align-rewards-self-corrections-and-mechanical-choi.md) — 01-06
+- [PR #3126: fix(agents): Support mode='god' parameter in get_agent_for_input](sources/pr-3126-fix-agents-support-mode-god-parameter-in-get-agent.md) — 01-05
+- [PR #3132: Add living world updates to narrative](sources/pr-3132-add-living-world-updates-to-narrative.md) — 01-05
+- [PR #3138: fix(equipment): Add weapon_main, weapon_secondary, ring_1, ring_2 slots](sources/pr-3138-fix-equipment-add-weapon-main-weapon-secondary-rin.md) — 01-05
+- [PR #3139: test: Add mode parameter validation test with agent_mode verification](sources/pr-3139-test-add-mode-parameter-validation-test-with-agent.md) — 01-06
+- [PR #3143: fix(api): Limit story entries to last 300 to prevent Cloud Run 500 errors](sources/pr-3143-fix-api-limit-story-entries-to-last-300-to-prevent.md) — 01-05
+- [PR #3144: feat(api): Implement story pagination to avoid loading all entries into memory](sources/pr-3144-feat-api-implement-story-pagination-to-avoid-loadi.md) — 01-06
+- [PR #3148: feat(scripts): Add cleanup_debug_info.py to remove bloated debug data](sources/pr-3148-feat-scripts-add-cleanup-debug-info-py-to-remove-b.md) — 01-05
+- [PR #3151: feat(llm): Stop storing bloated debug_info fields, log instead](sources/pr-3151-feat-llm-stop-storing-bloated-debug-info-fields-lo.md) — 01-05
+- [PR #3152: Fix pagination cursor handling and UI rendering](sources/pr-3152-fix-pagination-cursor-handling-and-ui-rendering.md) — 01-05
+- [PR #3165: chore(automation): Bump version to 0.2.29 for archive feature](sources/pr-3165-chore-automation-bump-version-to-0-2-29-for-archiv.md) — 01-05
+- [PR #3172: Add spicy mode toggle to campaign UI](sources/pr-3172-add-spicy-mode-toggle-to-campaign-ui.md) — 01-06
+- [PR #3173: Investigate output token settings for responses](sources/pr-3173-investigate-output-token-settings-for-responses.md) — 01-05
+- [PR #3174: Rename TESTING environment variable to TESTING_AUTH_BYPASS](sources/pr-3174-rename-testing-environment-variable-to-testing-aut.md) — 01-05
+- [PR #3185: Add LLM detection for spicy mode in game state](sources/pr-3185-add-llm-detection-for-spicy-mode-in-game-state.md) — 02-02
+- [PR #3186: Add spell and combat stats to character sheet](sources/pr-3186-add-spell-and-combat-stats-to-character-sheet.md) — 01-11
+- [PR #3188: Add settings link to play campaign screen](sources/pr-3188-add-settings-link-to-play-campaign-screen.md) — 01-06
+- [PR #3189: Adjust DC for thinking and planning checks](sources/pr-3189-adjust-dc-for-thinking-and-planning-checks.md) — 01-06
+- [PR #3195: Enhance thinking section in planning block](sources/pr-3195-enhance-thinking-section-in-planning-block.md) — 01-06
+- [PR #3201: fix(mobile): Remove slim mode that stripped UI fields on mobile](sources/pr-3201-fix-mobile-remove-slim-mode-that-stripped-ui-field.md) — 01-06
+- [PR #3207: Hide unknown living world updates from narrative](sources/pr-3207-hide-unknown-living-world-updates-from-narrative.md) — 01-06
+- [PR #3208: fix(rewards): Add double-processing detection and self-correction filtering](sources/pr-3208-fix-rewards-add-double-processing-detection-and-se.md) — 01-10
+- [PR #3209: Fix sync command to mirror remote branches](sources/pr-3209-fix-sync-command-to-mirror-remote-branches.md) — 01-06
+- [PR #3211: Fix world_time initialization on campaign creation](sources/pr-3211-fix-world-time-initialization-on-campaign-creation.md) — 02-01
+- [PR #3212: Add LLM refusal for impossible player actions](sources/pr-3212-add-llm-refusal-for-impossible-player-actions.md) — 01-12
+- [PR #3214: feat: Make thinking/planning mechanically impact game outcomes](sources/pr-3214-feat-make-thinking-planning-mechanically-impact-ga.md) — 01-06
+- [PR #3216: Fix home screen not loading on mobile](sources/pr-3216-fix-home-screen-not-loading-on-mobile.md) — 01-06
+- [PR #3219: Combine Codex update and archive workflow](sources/pr-3219-combine-codex-update-and-archive-workflow.md) — 01-07
+- [PR #3220: Restrict test script to explicit test names](sources/pr-3220-restrict-test-script-to-explicit-test-names.md) — 01-10
+- [PR #3221: Improve campaign list titles on mobile](sources/pr-3221-improve-campaign-list-titles-on-mobile.md) — 01-07
+- [PR #3222: Add new fix-comment flow with threaded replies](sources/pr-3222-add-new-fix-comment-flow-with-threaded-replies.md) — 01-08
+- [PR #3229: Gemini commands](sources/pr-3229-gemini-commands.md) — 01-08
+- [PR #3231: Add cachetools dependency for file cache](sources/pr-3231-add-cachetools-dependency-for-file-cache.md) — 01-06
+- [PR #3232: Refresh character info tables with unified styling](sources/pr-3232-refresh-character-info-tables-with-unified-styling.md) — 01-06
+- [PR #3235: Add companion quest lines and story arcs](sources/pr-3235-add-companion-quest-lines-and-story-arcs.md) — 01-15
+- [PR #3236: Fix god_mode_directives dict-to-list type error](sources/pr-3236-fix-god-mode-directives-dict-to-list-type-error.md) — 01-07
+- [PR #3253: Support Enterprise GitHub URLs in git-header](sources/pr-3253-support-enterprise-github-urls-in-git-header.md) — 01-07
+- [PR #3269: Add separate safety limits for each workflow type](sources/pr-3269-add-separate-safety-limits-for-each-workflow-type.md) — 01-09
+- [PR #3307: Apply PR 215 changes to repository](sources/pr-3307-apply-pr-215-changes-to-repository.md) — 01-09
+- [PR #3377: Restore root AGENTS.md (delete docs copy)](sources/pr-3377-restore-root-agents-md-delete-docs-copy.md) — 01-09
+- [PR #3379: Fix Git Provenance Bug in savetmp.py](sources/pr-3379-fix-git-provenance-bug-in-savetmp-py.md) — 01-09
+- [PR #3383: feat(guardrails): Outcome Resolution Protocol with audit trail - zero rejections, full accountability](sources/pr-3383-feat-guardrails-outcome-resolution-protocol-with-a.md) — 01-11
+- [PR #3390: docs(handoff): PR #3379 Logging Improvements - READY FOR HANDOFF](sources/pr-3390-docs-handoff-pr-3379-logging-improvements-ready-fo.md) — 01-10
+- [PR #3394: Investigate aggressive lint presubmit changes](sources/pr-3394-investigate-aggressive-lint-presubmit-changes.md) — 01-11
+- [PR #3398: Add GitHub Enterprise support to orchestration](sources/pr-3398-add-github-enterprise-support-to-orchestration.md) — 01-09
+- [PR #3402: feat: Orchestrated dual-agent pair programming system with background monitoring](sources/pr-3402-feat-orchestrated-dual-agent-pair-programming-syst.md) — 01-10
+- [PR #3407: Fix GitHub threaded replies in PR automation](sources/pr-3407-fix-github-threaded-replies-in-pr-automation.md) — 01-10
+- [PR #3415: Add script for streaming worker logs](sources/pr-3415-add-script-for-streaming-worker-logs.md) — 01-10
+- [PR #3420: fix(automation): Fix marker format + Revise safety limits (pr_limit=50, all attempts count)](sources/pr-3420-fix-automation-fix-marker-format-revise-safety-lim.md) — 01-10
+- [PR #3421: Add random port selection for local server](sources/pr-3421-add-random-port-selection-for-local-server.md) — 01-10
+- [PR #3422: Fix: Eliminate code duplication in logging and email notification](sources/pr-3422-fix-eliminate-code-duplication-in-logging-and-emai.md) — 01-10
+- [PR #3425: docs: Make guardrails handoff evidence reproducible and fix beads JSON formatting](sources/pr-3425-docs-make-guardrails-handoff-evidence-reproducible.md) — 01-10
+- [PR #3429: Char creation: Fix Flask reloader background mode + entity tracking + comprehensive tests](sources/pr-3429-char-creation-fix-flask-reloader-background-mode-e.md) — 01-11
+- [PR #3445: fix(rewards): preserve non-reward pending corrections and de-duplicate evidence scenarios](sources/pr-3445-fix-rewards-preserve-non-reward-pending-correction.md) — 01-10
+- [PR #3450: Fix hardcoded inventory message timing](sources/pr-3450-fix-hardcoded-inventory-message-timing.md) — 01-10
+- [PR #3458: Remove regex-based JSON parsing, keep standard json.loads()](sources/pr-3458-remove-regex-based-json-parsing-keep-standard-json.md) — 01-11
+- [PR #3459: feat(debug): Add agent name to debug_info and display in UI](sources/pr-3459-feat-debug-add-agent-name-to-debug-info-and-displa.md) — 01-10
+- [PR #3460: Refactor tests to use shared library functions](sources/pr-3460-refactor-tests-to-use-shared-library-functions.md) — 01-10
+- [PR #3461: Add Token Optimization Automation Roadmap + Beads Issues](sources/pr-3461-add-token-optimization-automation-roadmap-beads-is.md) — 01-11
+- [PR #3464: docs: Add mandatory PR branch verification rule to prevent branch nam…](sources/pr-3464-docs-add-mandatory-pr-branch-verification-rule-to.md) — 01-11
+- [PR #3465: Fix YAML error and review pair feedback](sources/pr-3465-fix-yaml-error-and-review-pair-feedback.md) — 01-11
+- [PR #3466: fix(automation): Allow --model param for all CLIs (not just Claude)](sources/pr-3466-fix-automation-allow-model-param-for-all-clis-not.md) — 01-11
+- [PR #3467: Fix: Narrative Context Lag via Structured Prompting](sources/pr-3467-fix-narrative-context-lag-via-structured-prompting.md) — 01-15
+- [PR #3468: Add D&D spell and combat stats](sources/pr-3468-add-d-d-spell-and-combat-stats.md) — 01-14
+- [PR #3469: Fix localexportcommands to preserve plugin-installed files](sources/pr-3469-fix-localexportcommands-to-preserve-plugin-install.md) — 01-11
+- [PR #3470: Align LLM instructions with JSON schema definitions](sources/pr-3470-align-llm-instructions-with-json-schema-definition.md) — 01-13
+- [PR #3472: Add detailed JSON error logging for debugging malformed responses](sources/pr-3472-add-detailed-json-error-logging-for-debugging-malf.md) — 01-11
+- [PR #3474: feat: Action Resolution Consolidation & Comprehensive Guardrails](sources/pr-3474-feat-action-resolution-consolidation-comprehensive.md) — 01-12
+- [PR #3475: Fix: Remove merge conflict metadata files and add unit tests for god_mode parsing](sources/pr-3475-fix-remove-merge-conflict-metadata-files-and-add-u.md) — 01-11
+- [PR #3476: Restore beads issue tracking changes from character creation branch](sources/pr-3476-restore-beads-issue-tracking-changes-from-characte.md) — 01-11
+- [PR #3477: fix(automation): Improve log viewing command formatting and session name matching](sources/pr-3477-fix-automation-improve-log-viewing-command-formatt.md) — 01-11
+- [PR #3478: Add PR productivity analysis scripts with weekly and hourly stats](sources/pr-3478-add-pr-productivity-analysis-scripts-with-weekly-a.md) — 01-11
+- [PR #3480: Campaign pagination with total count display and comprehensive test coverage](sources/pr-3480-campaign-pagination-with-total-count-display-and-c.md) — 01-12
+- [PR #3481: Fix FixPR workflow pending review issue](sources/pr-3481-fix-fixpr-workflow-pending-review-issue.md) — 01-12
+- [PR #3482: fix(automation): Robust auth state restoration for Codex](sources/pr-3482-fix-automation-robust-auth-state-restoration-for-c.md) — 01-12
+- [PR #3483: Standardize engineering protocols and GitHub CLI usage across agents](sources/pr-3483-standardize-engineering-protocols-and-github-cli-u.md) — 01-12
+- [PR #3484: Prevent pending reviews: Strengthen prompts and ensure cleanup runs before eligibility checks](sources/pr-3484-prevent-pending-reviews-strengthen-prompts-and-ens.md) — 01-12
+- [PR #3487: Add parallel execution option to story mode](sources/pr-3487-add-parallel-execution-option-to-story-mode.md) — 01-14
+- [PR #3490: Enable full JSON error logging and restore recovery for extra data errors](sources/pr-3490-enable-full-json-error-logging-and-restore-recover.md) — 01-13
+- [PR #3491: feat: Local Semantic Intent Classification for Agent Selection](sources/pr-3491-feat-local-semantic-intent-classification-for-agen.md) — 01-14
+- [PR #3494: fix: Prevent agents from creating pending reviews - multi-layer protection](sources/pr-3494-fix-prevent-agents-from-creating-pending-reviews-m.md) — 01-13
+- [PR #3502: test: Safety content test scenarios](sources/pr-3502-test-safety-content-test-scenarios.md) — 01-13
+- [PR #3503: fix: Prevent Social HP blitzing with cooldown enforcement & guardrails](sources/pr-3503-fix-prevent-social-hp-blitzing-with-cooldown-enfor.md) — 01-18
+- [PR #3506: fix: Address PR review comments - remove duplicates, fix indentation, clean imports](sources/pr-3506-fix-address-pr-review-comments-remove-duplicates-f.md) — 01-17
+- [PR #3512: chore: Bump version to 0.2.54](sources/pr-3512-chore-bump-version-to-0-2-54.md) — 01-13
+- [PR #3516: fix: Check completion marker before commit history in fix-comment workflow](sources/pr-3516-fix-check-completion-marker-before-commit-history.md) — 01-13
+- [PR #3517: feat: Add pre-flight agent validation and improved fallback logic](sources/pr-3517-feat-add-pre-flight-agent-validation-and-improved.md) — 01-14
+- [PR #3531: Include living world updates in campaign downloads](sources/pr-3531-include-living-world-updates-in-campaign-downloads.md) — 01-14
+- [PR #3537: Design: LLM Planning Backend Refactor - Single-Inference Architecture with Backend-Owned State](sources/pr-3537-design-llm-planning-backend-refactor-single-infere.md) — 01-19
+- [PR #3540: feat: Add DialogAgent for conversation-focused NPC interactions with 44% token reduction](sources/pr-3540-feat-add-dialogagent-for-conversation-focused-npc.md) — 01-20
+- [PR #3542: fix: God Mode directive bloat prevention and response handling](sources/pr-3542-fix-god-mode-directive-bloat-prevention-and-respon.md) — 01-14
+- [PR #3544: fix(frontend): improve dice roll display and backward compatibility](sources/pr-3544-fix-frontend-improve-dice-roll-display-and-backwar.md) — 01-14
+- [PR #3551: fix: Auto-detect automation user for pending review monitor](sources/pr-3551-fix-auto-detect-automation-user-for-pending-review.md) — 01-14
+- [PR #3563: fix(workflows): ensure PR preview comments always post with error handling](sources/pr-3563-fix-workflows-ensure-pr-preview-comments-always-po.md) — 01-14
+- [PR #3574: chore: Bump version to 0.2.60](sources/pr-3574-chore-bump-version-to-0-2-60.md) — 01-14
+- [PR #3588: Fix: Centralize dice rolls in action_resolution and auto-extract to UI field](sources/pr-3588-fix-centralize-dice-rolls-in-action-resolution-and.md) — 01-15
+- [PR #3589: Load service account from environment variables](sources/pr-3589-load-service-account-from-environment-variables.md) — 01-16
+- [PR #3606: Add engineering plan for user avatar UI integration](sources/pr-3606-add-engineering-plan-for-user-avatar-ui-integratio.md) — 01-15
+- [PR #3609: fix: Remove unused cli_path variable and add pre-flight validation test](sources/pr-3609-fix-remove-unused-cli-path-variable-and-add-pre-fl.md) — 01-15
+- [PR #3617: Disable all reprompt checks to prevent server crashes](sources/pr-3617-disable-all-reprompt-checks-to-prevent-server-cras.md) — 01-15
+- [PR #3618: chore: Add beads.left.meta.json to version control](sources/pr-3618-chore-add-beads-left-meta-json-to-version-control.md) — 01-15
+- [PR #3624: fix: Address PR review comments for companion arc tests](sources/pr-3624-fix-address-pr-review-comments-for-companion-arc-t.md) — 01-15
+- [PR #3627: fix: Remove caching entirely - always reload from Firestore](sources/pr-3627-fix-remove-caching-entirely-always-reload-from-fir.md) — 01-15
+- [PR #3628: feat: Add structured prompting to prioritize USER_ACTION over STORY_HISTORY](sources/pr-3628-feat-add-structured-prompting-to-prioritize-user-a.md) — 01-16
+- [PR #3629: Revert "Fix: Narrative Context Lag via Structured Prompting (#3467)"](sources/pr-3629-revert-fix-narrative-context-lag-via-structured-pr.md) — 01-15
+- [PR #3635: fix: Add timeout check for stale fix-comment queued comments](sources/pr-3635-fix-add-timeout-check-for-stale-fix-comment-queued.md) — 01-17
+- [PR #3636: fix: Improve pre-flight validation to test all CLIs and verify file writing](sources/pr-3636-fix-improve-pre-flight-validation-to-test-all-clis.md) — 01-15
+- [PR #3641: Sync main branch commits (integrate.sh)](sources/pr-3641-sync-main-branch-commits-integrate-sh.md) — 01-15
+- [PR #3642: Orchestration: show /tmp subdirs during pre-flight validation](sources/pr-3642-orchestration-show-tmp-subdirs-during-pre-flight-v.md) — 01-20
+- [PR #3643: Fix TOML syntax errors in .gemini/commands](sources/pr-3643-fix-toml-syntax-errors-in-gemini-commands.md) — 01-15
+- [PR #3644: feat: avatar change/remove from game card + E2E test + bug fixes](sources/pr-3644-feat-avatar-change-remove-from-game-card-e2e-test.md) — 03-04
+- [PR #3651: Fix Gemini code execution JSON parsing error](sources/pr-3651-fix-gemini-code-execution-json-parsing-error.md) — 01-16
+- [PR #3659: fix: Use fixed script path for pending_review_monitor to prevent macOS permission prompts](sources/pr-3659-fix-use-fixed-script-path-for-pending-review-monit.md) — 01-16
+- [PR #3660: feat: Integrate Claude Commands export fixes from PR #224](sources/pr-3660-feat-integrate-claude-commands-export-fixes-from-p.md) — 01-16
+- [PR #3662: fix(automation): Replace Codex fallback with cursor-agent to reduce quota usage](sources/pr-3662-fix-automation-replace-codex-fallback-with-cursor.md) — 01-16
+- [PR #3663: Add comment validation mode to PR automation](sources/pr-3663-add-comment-validation-mode-to-pr-automation.md) — 01-18
+- [PR #3667: fix: Replace bash monitor script with Python GitHub API functions](sources/pr-3667-fix-replace-bash-monitor-script-with-python-github.md) — 01-16
+- [PR #3668: Add local caching for copilot comments](sources/pr-3668-add-local-caching-for-copilot-comments.md) — 01-16
+- [PR #3669: Fix: Add regression test for missing context parameter in _maybe_get_gemini_code_execution_evidence](sources/pr-3669-fix-add-regression-test-for-missing-context-parame.md) — 01-16
+- [PR #3676: Fix MCP smoke test dice roll failure](sources/pr-3676-fix-mcp-smoke-test-dice-roll-failure.md) — 01-16
+- [PR #3677: fix: Read GitHub token from config file to eliminate macOS permission prompts](sources/pr-3677-fix-read-github-token-from-config-file-to-eliminat.md) — 01-16
+- [PR #3678: Cleanup: Remove 3 dead LLM service functions (189 lines)](sources/pr-3678-cleanup-remove-3-dead-llm-service-functions-189-li.md) — 01-16
+- [PR #3682: fix: Preserve mode for AI responses in story entries](sources/pr-3682-fix-preserve-mode-for-ai-responses-in-story-entrie.md) — 01-16
+- [PR #3684: Fix: Extract dice_rolls from action_resolution.mechanics.rolls for Firestore](sources/pr-3684-fix-extract-dice-rolls-from-action-resolution-mech.md) — 01-17
+- [PR #3685: fix: Skip fixpr on clean PRs with no conflicts or failing checks](sources/pr-3685-fix-skip-fixpr-on-clean-prs-with-no-conflicts-or-f.md) — 01-17
+- [PR #3686: feat(ci): Coverage workflow with PR comments and delta reports](sources/pr-3686-feat-ci-coverage-workflow-with-pr-comments-and-del.md) — 01-17
+- [PR #3690: Remove item validation system false positives](sources/pr-3690-remove-item-validation-system-false-positives.md) — 01-16
+- [PR #3691: Fix git push to set upstream tracking](sources/pr-3691-fix-git-push-to-set-upstream-tracking.md) — 01-17
+- [PR #3692: Standardize evidence generator campaign downloads](sources/pr-3692-standardize-evidence-generator-campaign-downloads.md) — 01-17
+- [PR #3693: fix: Add stdin consumption to statusLine command to prevent buffering issues](sources/pr-3693-fix-add-stdin-consumption-to-statusline-command-to.md) — 01-16
+- [PR #3694: fix: prevent temporal anomaly from wrong year in world_time](sources/pr-3694-fix-prevent-temporal-anomaly-from-wrong-year-in-wo.md) — 01-17
+- [PR #3695: Fix comment reply processing in copilot](sources/pr-3695-fix-comment-reply-processing-in-copilot.md) — 01-17
+- [PR #3718: world_time: document intercalary-day normalization and tidy month map](sources/pr-3718-world-time-document-intercalary-day-normalization.md) — 01-17
+- [PR #3722: NOOP: Improve comment clarity in integration_utils.py](sources/pr-3722-noop-improve-comment-clarity-in-integration-utils.md) — 01-17
+- [PR #3725: Fix GitHub CLI pagination and include reply comments in copilot processing](sources/pr-3725-fix-github-cli-pagination-and-include-reply-commen.md) — 01-17
+- [PR #3726: fix(coverage): Enable delta coverage by running action on main branch](sources/pr-3726-fix-coverage-enable-delta-coverage-by-running-acti.md) — 01-17
+- [PR #3727: fix: Preserve god_mode_response content (scene repeat bug)](sources/pr-3727-fix-preserve-god-mode-response-content-scene-repea.md) — 01-17
+- [PR #3729: test: Verify delta coverage with comment-only change](sources/pr-3729-test-verify-delta-coverage-with-comment-only-chang.md) — 01-17
+- [PR #3741: Improve system instruction clarity based on review](sources/pr-3741-improve-system-instruction-clarity-based-on-review.md) — 01-18
+- [PR #3742: refactor: Consolidate CLAUDE.md protocols into skills, rename /plan to /planexec](sources/pr-3742-refactor-consolidate-claude-md-protocols-into-skil.md) — 01-17
+- [PR #3746: fix: Session header and resources display improvements](sources/pr-3746-fix-session-header-and-resources-display-improveme.md) — 01-19
+- [PR #3747: Fix empty choices in Character Creation Final Review (Step 7)](sources/pr-3747-fix-empty-choices-in-character-creation-final-revi.md) — 01-18
+- [PR #3748: refactor: Reduce CLAUDE.md by 63% (502->185 lines)](sources/pr-3748-refactor-reduce-claude-md-by-63-502-185-lines.md) — 01-18
+- [PR #3749: feat: Add Gemini Support to MCP Server Installer](sources/pr-3749-feat-add-gemini-support-to-mcp-server-installer.md) — 01-18
+- [PR #3750: Fix: Exempt Character Creation from Action Resolution Protocol](sources/pr-3750-fix-exempt-character-creation-from-action-resoluti.md) — 01-18
+- [PR #3752: fix: cleanup MCP server installation](sources/pr-3752-fix-cleanup-mcp-server-installation.md) — 01-18
+- [PR #3753: fix: Standardize Greptile handle and fix PyPI trusted publishing](sources/pr-3753-fix-standardize-greptile-handle-and-fix-pypi-trust.md) — 01-18
+- [PR #3762: fix: Handle dirty git repos in automation base clone reset](sources/pr-3762-fix-handle-dirty-git-repos-in-automation-base-clon.md) — 01-19
+- [PR #3766: Update Comment Validation Prompt to Match PR Monitor Protocol](sources/pr-3766-update-comment-validation-prompt-to-match-pr-monit.md) — 01-18
+- [PR #3770: fix: JSON parsing for Gemini Code Execution responses](sources/pr-3770-fix-json-parsing-for-gemini-code-execution-respons.md) — 01-18
+- [PR #3780: Review AI D&D campaign system architecture](sources/pr-3780-review-ai-d-d-campaign-system-architecture.md) — 01-19
+- [PR #3781: Add files via upload](sources/pr-3781-add-files-via-upload.md) — 01-18
+- [PR #3783: Document tech stack and create system diagram](sources/pr-3783-document-tech-stack-and-create-system-diagram.md) — 01-19
+- [PR #3788: Fix copilot comment analysis architecture](sources/pr-3788-fix-copilot-comment-analysis-architecture.md) — 01-19
+- [PR #3804: feat: remove test_mode auth bypass param](sources/pr-3804-feat-remove-test-mode-auth-bypass-param.md) — 01-19
+- [PR #3805: feat: centralize local server port generation logic](sources/pr-3805-feat-centralize-local-server-port-generation-logic.md) — 01-19
+- [PR #3813: Fix comment fetch cache always returning stale data](sources/pr-3813-fix-comment-fetch-cache-always-returning-stale-dat.md) — 01-19
+- [PR #3820: Fix: Rate Limit Modal Background Styling](sources/pr-3820-fix-rate-limit-modal-background-styling.md) — 02-10
+- [PR #3832: feat: Remove React V2 frontend startup logic](sources/pr-3832-feat-remove-react-v2-frontend-startup-logic.md) — 01-19
+- [PR #3836: CHORE: Cleanup Gemini 3 Pro & Add Latency Logging](sources/pr-3836-chore-cleanup-gemini-3-pro-add-latency-logging.md) — 01-19
+- [PR #3849: FIX: Eliminate rewards double-inference latency via prompt engineering](sources/pr-3849-fix-eliminate-rewards-double-inference-latency-via.md) — 01-20
+- [PR #3874: Fix broken CI: remove obsolete tests and fix test env](sources/pr-3874-fix-broken-ci-remove-obsolete-tests-and-fix-test-e.md) — 01-20
+- [PR #3881: feat(gemini): Remove Gemini 3 Pro Support](sources/pr-3881-feat-gemini-remove-gemini-3-pro-support.md) — 01-21
+- [PR #3882: TEST: Refactor rewards tests to be organic (no state injection)](sources/pr-3882-test-refactor-rewards-tests-to-be-organic-no-state.md) — 01-20
+- [PR #3883: Revert "TEST: Refactor rewards tests to be organic"](sources/pr-3883-revert-test-refactor-rewards-tests-to-be-organic.md) — 01-20
+- [PR #3889: Refactor Tests & Fix Dialog Agent Bugs (PR #3540 Follow-up)](sources/pr-3889-refactor-tests-fix-dialog-agent-bugs-pr-3540-follo.md) — 01-21
+- [PR #3894: Add time and location to narrative entries](sources/pr-3894-add-time-and-location-to-narrative-entries.md) — 01-21
+- [PR #3899: Fix Settings Auth & Homepage (Replacement for #3824)](sources/pr-3899-fix-settings-auth-homepage-replacement-for-3824.md) — 01-25
+- [PR #3902: fix: Purge LLM Dialog Classification & Centralize Intent](sources/pr-3902-fix-purge-llm-dialog-classification-centralize-int.md) — 01-28
+- [PR #3903: test: Restore organic rewards E2E testing (no state injection)](sources/pr-3903-test-restore-organic-rewards-e2e-testing-no-state.md) — 01-28
+- [PR #3912: feat: Add Native Gemini Slash Commands Infrastructure](sources/pr-3912-feat-add-native-gemini-slash-commands-infrastructu.md) — 01-21
+- [PR #3913: feat: Increase OAuth CLI timeout from 15 to 30 minutes](sources/pr-3913-feat-increase-oauth-cli-timeout-from-15-to-30-minu.md) — 01-21
+- [PR #3929: chore: Bump automation package to 0.2.86](sources/pr-3929-chore-bump-automation-package-to-0-2-86.md) — 01-21
+- [PR #3954: feat: Infer faction power from campaign context on minigame enable](sources/pr-3954-feat-infer-faction-power-from-campaign-context-on.md) — 01-30
+- [PR #3959: Add Gemini implicit caching usage metrics logging](sources/pr-3959-add-gemini-implicit-caching-usage-metrics-logging.md) — 01-23
+- [PR #3963: Implement Gemini explicit caching with cache retry fixes and prompt ordering optimization](sources/pr-3963-implement-gemini-explicit-caching-with-cache-retry.md) — 01-31
+- [PR #3965: Sync main branch commits (integrate.sh)](sources/pr-3965-sync-main-branch-commits-integrate-sh.md) — 01-23
+- [PR #3966: Sync main branch commits (integrate.sh)](sources/pr-3966-sync-main-branch-commits-integrate-sh.md) — 01-23
+- [PR #3967: fix: Remove mcpServers from .claude/settings.json](sources/pr-3967-fix-remove-mcpservers-from-claude-settings-json.md) — 01-23
+- [PR #3968: feat: Centralized settings validation with TDD coverage and faction persistence fix](sources/pr-3968-feat-centralized-settings-validation-with-tdd-cove.md) — 01-25
+- [PR #3977: debug: Add mode value logging to diagnose god mode bug](sources/pr-3977-debug-add-mode-value-logging-to-diagnose-god-mode.md) — 01-23
+- [PR #3987: fix: Remove explicit bash invocation from tmux agent spawn](sources/pr-3987-fix-remove-explicit-bash-invocation-from-tmux-agen.md) — 01-24
+- [PR #4018: Fix faction minigame enablement logic & integrate army_data with archetypes](sources/pr-4018-fix-faction-minigame-enablement-logic-integrate-ar.md) — 01-30
+- [PR #4019: fix: GraphQL reviewThreads detection with pagination, timeout compliance, and defensive programming](sources/pr-4019-fix-graphql-reviewthreads-detection-with-paginatio.md) — 01-26
+- [PR #4023: fix: Add shebang to scripts + Fix Cursor quota detection in preflight validation](sources/pr-4023-fix-add-shebang-to-scripts-fix-cursor-quota-detect.md) — 01-25
+- [PR #4025: Disable CI_TEST_LIMIT truncation to prevent skipping critical tests](sources/pr-4025-disable-ci-test-limit-truncation-to-prevent-skippi.md) — 01-25
+- [PR #4027: fix: allow local unauth mcp but require auth in prod](sources/pr-4027-fix-allow-local-unauth-mcp-but-require-auth-in-pro.md) — 01-25
+- [PR #4028: fix: God mode empty narrative with centralized is_god_mode() detection](sources/pr-4028-fix-god-mode-empty-narrative-with-centralized-is-g.md) — 01-28
+- [PR #4049: Spicy mode: stabilize toggle handling](sources/pr-4049-spicy-mode-stabilize-toggle-handling.md) — 01-25
+- [PR #4052: Remove keyword-fallback routing; rely on semantic intent & state](sources/pr-4052-remove-keyword-fallback-routing-rely-on-semantic-i.md) — 01-25
+- [PR #4054: test: Add regression test for has_firebase_credentials()](sources/pr-4054-test-add-regression-test-for-has-firebase-credenti.md) — 01-25
+- [PR #4066: Intent Routing: scan dialog choices and drop keyword fallbacks](sources/pr-4066-intent-routing-scan-dialog-choices-and-drop-keywor.md) — 01-25
+- [PR #4078: infra: Increase Cloud Run memory from 2Gi to 4Gi](sources/pr-4078-infra-increase-cloud-run-memory-from-2gi-to-4gi.md) — 01-26
+- [PR #4079: fix: Enable preload_app to share embedding model across workers](sources/pr-4079-fix-enable-preload-app-to-share-embedding-model-ac.md) — 01-26
+- [PR #4080: fix: Use modern Firestore count API to fix campaign list latency](sources/pr-4080-fix-use-modern-firestore-count-api-to-fix-campaign.md) — 01-26
+- [PR #4081: fix: follow-ups for PR 4080 comments](sources/pr-4081-fix-follow-ups-for-pr-4080-comments.md) — 01-26
+- [PR #4084: fix: dice: Add narrative instruction to FactionManagementAgent + save executed code](sources/pr-4084-fix-dice-add-narrative-instruction-to-factionmanag.md) — 01-27
+- [PR #4094: Add retry logic for stale comment 422 errors in reply creation](sources/pr-4094-add-retry-logic-for-stale-comment-422-errors-in-re.md) — 01-30
+- [PR #4095: Add repo-local Codex skills mirror](sources/pr-4095-add-repo-local-codex-skills-mirror.md) — 01-27
+- [PR #4096: fix(critical): Gemini timeout ms conversion + XSS fix + enhanced error logging](sources/pr-4096-fix-critical-gemini-timeout-ms-conversion-xss-fix.md) — 01-27
+- [PR #4097: feat: Add enhanced error diagnostics for Gemini API failures](sources/pr-4097-feat-add-enhanced-error-diagnostics-for-gemini-api.md) — 01-27
+- [PR #4098: fix(infra): Centralize Cloud Run memory config to prevent drift](sources/pr-4098-fix-infra-centralize-cloud-run-memory-config-to-pr.md) — 01-27
+- [PR #4099: feat: Add Gemini response diagnostics + auto-retry for transient errors](sources/pr-4099-feat-add-gemini-response-diagnostics-auto-retry-fo.md) — 01-27
+- [PR #4111: Migrate dice detection to centralized action_resolution location](sources/pr-4111-migrate-dice-detection-to-centralized-action-resol.md) — 01-30
+- [PR #4112: fix(combat): Add granular action economy tracking and turn control](sources/pr-4112-fix-combat-add-granular-action-economy-tracking-an.md) — 02-01
+- [PR #4131: Add rate limit reset times to API response for frontend countdown](sources/pr-4131-add-rate-limit-reset-times-to-api-response-for-fro.md) — 01-28
+- [PR #4132: Add 'think' mode label to character display](sources/pr-4132-add-think-mode-label-to-character-display.md) — 01-28
+- [PR #4133: Living World: dual-trigger fixes — 30‑day calendar math + defensive GameState coercion](sources/pr-4133-living-world-dual-trigger-fixes-30-day-calendar-ma.md) — 01-28
+- [PR #4136: test: Add end-to-end test for safety limits false rejection bug (WA-3gx)](sources/pr-4136-test-add-end-to-end-test-for-safety-limits-false-r.md) — 01-28
+- [PR #4138: Handle god mode narrative display gracefully](sources/pr-4138-handle-god-mode-narrative-display-gracefully.md) — 01-28
+- [PR #4140: Dice integrity: treat audit_events as structured dice](sources/pr-4140-dice-integrity-treat-audit-events-as-structured-di.md) — 01-28
+- [PR #4141: docs: Update GEMINI.md with Push & Remote Tracking Protocols](sources/pr-4141-docs-update-gemini-md-with-push-remote-tracking-pr.md) — 01-28
+- [PR #4142: chore: Bump automation package to v0.2.96](sources/pr-4142-chore-bump-automation-package-to-v0-2-96.md) — 01-28
+- [PR #4181: Homepage latency: parallelize load and trim campaigns list](sources/pr-4181-homepage-latency-parallelize-load-and-trim-campaig.md) — 01-29
+- [PR #4193: Add SOLID principles skill guide for professional software engineering](sources/pr-4193-add-solid-principles-skill-guide-for-professional.md) — 01-29
+- [PR #4215: feat: PR monitor improvements - default log directory and parallel processing](sources/pr-4215-feat-pr-monitor-improvements-default-log-directory.md) — 01-30
+- [PR #4221: Dice integrity: include audit_events, validate legacy fields to prevent bypass, and fix error messaging](sources/pr-4221-dice-integrity-include-audit-events-validate-legac.md) — 01-30
+- [PR #4223: feat(logging): add detailed Gemini request size logging](sources/pr-4223-feat-logging-add-detailed-gemini-request-size-logg.md) — 01-30
+- [PR #4224: Add component-level budget allocation for LLM requests](sources/pr-4224-add-component-level-budget-allocation-for-llm-requ.md) — 02-02
+- [PR #4225: chore(deps-dev): bump eslint from 8.57.1 to 9.26.0](sources/pr-4225-chore-deps-dev-bump-eslint-from-8-57-1-to-9-26-0.md) — 02-02
+- [PR #4226: Fix dice display issue with version-based cache busting](sources/pr-4226-fix-dice-display-issue-with-version-based-cache-bu.md) — 01-31
+- [PR #4249: Add copilot-pr-processing Codex skill](sources/pr-4249-add-copilot-pr-processing-codex-skill.md) — 01-30
+- [PR #4250: Remove frontend_v2 directory and related configuration](sources/pr-4250-remove-frontend-v2-directory-and-related-configura.md) — 01-30
+- [PR #4257: Add Moltbook social network integration command](sources/pr-4257-add-moltbook-social-network-integration-command.md) — 01-30
+- [PR #4261: refactor: Schema validation, action_resolution warning, and freeze_time support](sources/pr-4261-refactor-schema-validation-action-resolution-warni.md) — 02-01
+- [PR #4268: Add intelligent Moltbook milestone auto-posting hook](sources/pr-4268-add-intelligent-moltbook-milestone-auto-posting-ho.md) — 01-30
+- [PR #4271: Cache busting: deploy-time hashing + tests](sources/pr-4271-cache-busting-deploy-time-hashing-tests.md) — 01-31
+- [PR #4272: Dice backfill: populate action_resolution from legacy data](sources/pr-4272-dice-backfill-populate-action-resolution-from-lega.md) — 01-31
+- [PR #4273: Prompts: add code_execution variants and loader](sources/pr-4273-prompts-add-code-execution-variants-and-loader.md) — 01-31
+- [PR #4274: Beads: update issue tracking snapshots](sources/pr-4274-beads-update-issue-tracking-snapshots.md) — 01-31
+- [PR #4275: Enforce mandatory character level display in all narratives](sources/pr-4275-enforce-mandatory-character-level-display-in-all-n.md) — 01-31
+- [PR #4276: Use local branch names for PR conflict resolution](sources/pr-4276-use-local-branch-names-for-pr-conflict-resolution.md) — 02-01
+- [PR #4287: Add year and month support to game time tracking](sources/pr-4287-add-year-and-month-support-to-game-time-tracking.md) — 01-31
+- [PR #4288: fix: automation safety limits + PR monitor + codex mentions](sources/pr-4288-fix-automation-safety-limits-pr-monitor-codex-ment.md) — 01-31
+- [PR #4289: Enhance LOC analysis: separate code from config, add comprehensive stats](sources/pr-4289-enhance-loc-analysis-separate-code-from-config-add.md) — 01-30
+- [PR #4290: ci: Fix PyPI workflow to use token authentication](sources/pr-4290-ci-fix-pypi-workflow-to-use-token-authentication.md) — 01-31
+- [PR #4291: Remove AI Universe Firebase credential scrubbing from exportcommands](sources/pr-4291-remove-ai-universe-firebase-credential-scrubbing-f.md) — 01-31
+- [PR #4299: Refactor parallel execution mechanics with synergistic/conflicting framework](sources/pr-4299-refactor-parallel-execution-mechanics-with-synergi.md) — 01-31
+- [PR #4306: Add Claude context window percentage to git header display](sources/pr-4306-add-claude-context-window-percentage-to-git-header.md) — 01-31
+- [PR #4308: Prompts: fix loader/regex and strengthen prompt-variant tests](sources/pr-4308-prompts-fix-loader-regex-and-strengthen-prompt-var.md) — 01-31
+- [PR #4311: Fix missed Firebase API key reference in second_opinion.toml](sources/pr-4311-fix-missed-firebase-api-key-reference-in-second-op.md) — 01-31
+- [PR #4324: Add LLM-powered Moltbook poster with Claude CLI (batch analysis every 4h)](sources/pr-4324-add-llm-powered-moltbook-poster-with-claude-cli-ba.md) — 01-31
+- [PR #4334: dice: strategy-aware prompts, cache tools, and expanded test suite](sources/pr-4334-dice-strategy-aware-prompts-cache-tools-and-expand.md) — 02-01
+- [PR #4335: feat: Proactive recovery for ensure_base_clone git state issues (v0.2.108)](sources/pr-4335-feat-proactive-recovery-for-ensure-base-clone-git.md) — 01-31
+- [PR #4341: Change Moltbook poster to editorial selection (pick ONE interesting PR)](sources/pr-4341-change-moltbook-poster-to-editorial-selection-pick.md) — 01-31
+- [PR #4353: Consolidate comment replies into single summary comment](sources/pr-4353-consolidate-comment-replies-into-single-summary-co.md) — 02-01
+- [PR #4354: fix(ci): Include tests/ directory in core test group](sources/pr-4354-fix-ci-include-tests-directory-in-core-test-group.md) — 01-31
+- [PR #4363: Revert: PR #3963 accidental merge - cache optimization had unresolved issues](sources/pr-4363-revert-pr-3963-accidental-merge-cache-optimization.md) — 01-31
+- [PR #4364: chore(deps-dev): bump eslint, @typescript-eslint/eslint-plugin, @typescript-eslint/parser and eslint-plugin-react-hooks in /mvp_site/frontend_v2](sources/pr-4364-chore-deps-dev-bump-eslint-typescript-eslint-eslin.md) — 02-02
+- [PR #4383: chore: Delete unused auto_resolve_conflicts workflow](sources/pr-4383-chore-delete-unused-auto-resolve-conflicts-workflo.md) — 01-31
+- [PR #4394: fix(dice): handle roll singular vs rolls array + reconciliation with stdout](sources/pr-4394-fix-dice-handle-roll-singular-vs-rolls-array-recon.md) — 02-01
+- [PR #4399: fix(validation): Make CLI preflight check actually catch quota errors](sources/pr-4399-fix-validation-make-cli-preflight-check-actually-c.md) — 02-01
+- [PR #4413: fix(moltbook): Add retry logic and state management fixes](sources/pr-4413-fix-moltbook-add-retry-logic-and-state-management.md) — 02-01
+- [PR #4419: fix: Resolve merge conflicts for PR #4224](sources/pr-4419-fix-resolve-merge-conflicts-for-pr-4224.md) — 02-01
+- [PR #4422: fix(smoke): Gate dev deploy on smoke tests + test both Cerebras & Gemini 3](sources/pr-4422-fix-smoke-gate-dev-deploy-on-smoke-tests-test-both.md) — 02-01
+- [PR #4430: fix: Disable explicit cache to restore code_execution for dice rolls](sources/pr-4430-fix-disable-explicit-cache-to-restore-code-executi.md) — 02-01
+- [PR #4436: docs: enhance PR template with detailed change documentation requirements](sources/pr-4436-docs-enhance-pr-template-with-detailed-change-docu.md) — 02-01
+- [PR #4437: fix(dice): stabilize prompt ordering, enforce code_execution cache metadata, and tighten tests](sources/pr-4437-fix-dice-stabilize-prompt-ordering-enforce-code-ex.md) — 02-01
+- [PR #4438: fix: Invert explicit cache tests to pass when cache disabled](sources/pr-4438-fix-invert-explicit-cache-tests-to-pass-when-cache.md) — 02-01
+- [PR #4442: chore: Publish automation 0.2.113 and orchestration 0.1.33 to PyPI](sources/pr-4442-chore-publish-automation-0-2-113-and-orchestration.md) — 02-01
+- [PR #4447: fix(automation): Prevent PR monitor feedback loop with sub-PR filtering](sources/pr-4447-fix-automation-prevent-pr-monitor-feedback-loop-wi.md) — 02-01
+- [PR #4451: fix(gemini): reduce dice tool exposure in prompts](sources/pr-4451-fix-gemini-reduce-dice-tool-exposure-in-prompts.md) — 02-01
+- [PR #4452: Guard consolidated /commentreply summaries: chunking, idempotency, and fail-fast posting](sources/pr-4452-guard-consolidated-commentreply-summaries-chunking.md) — 02-01
+- [PR #4453: Update .gitignore to selectively track .beads JSONL files](sources/pr-4453-update-gitignore-to-selectively-track-beads-jsonl.md) — 02-01
+- [PR #4476: Add comprehensive equipment & spell storage guidelines](sources/pr-4476-add-comprehensive-equipment-spell-storage-guidelin.md) — 02-01
+- [PR #4489: fix(agents): add dice_roll_strategy param to DeferredRewardsAgent](sources/pr-4489-fix-agents-add-dice-roll-strategy-param-to-deferre.md) — 02-01
+- [PR #4501: fix(automation): Centralize automation marker detection to prevent feedback loops](sources/pr-4501-fix-automation-centralize-automation-marker-detect.md) — 02-01
+- [PR #4504: Tests: introduce End2EndBaseTestCase and refactor end2end tests to use shared setup](sources/pr-4504-tests-introduce-end2endbasetestcase-and-refactor-e.md) — 02-01
+- [PR #4506: fix(god-mode): prevent dice rolls and narrative advancement in god mode (DICE-uks)](sources/pr-4506-fix-god-mode-prevent-dice-rolls-and-narrative-adva.md) — 02-01
+- [PR #4523: rules: add title preservation rules](sources/pr-4523-rules-add-title-preservation-rules.md) — 02-02
+- [PR #4528: feat(logging): add response body logging for OpenAI-compatible provider errors](sources/pr-4528-feat-logging-add-response-body-logging-for-openai.md) — 02-02
+- [PR #4529: fix(god-mode): set dice_roll_strategy=None for entire god mode flow](sources/pr-4529-fix-god-mode-set-dice-roll-strategy-none-for-entir.md) — 02-02
+- [PR #4532: docs: ADR-0003 Unified Game State Schema Design](sources/pr-4532-docs-adr-0003-unified-game-state-schema-design.md) — 02-02
+- [PR #4536: chore(deps): bump @eslint/plugin-kit and eslint](sources/pr-4536-chore-deps-bump-eslint-plugin-kit-and-eslint.md) — 02-02
+- [PR #4540: feat: Add living world dual-trigger system (turns + time)](sources/pr-4540-feat-add-living-world-dual-trigger-system-turns-ti.md) — 02-03
+- [PR #4547: fix(frontend): display dice roll label when purpose field is missing](sources/pr-4547-fix-frontend-display-dice-roll-label-when-purpose.md) — 02-02
+- [PR #4549: docs: codify mandatory header check in GEMINI.md](sources/pr-4549-docs-codify-mandatory-header-check-in-gemini-md.md) — 02-02
+- [PR #4551: fix(docs): restore three-tier parallel execution model from PR #4299](sources/pr-4551-fix-docs-restore-three-tier-parallel-execution-mod.md) — 02-02
+- [PR #4554: feat(god-mode): add warning prefix to all god mode responses](sources/pr-4554-feat-god-mode-add-warning-prefix-to-all-god-mode-r.md) — 02-02
+- [PR #4555: Move God Mode warning prefix to input preprocessing](sources/pr-4555-move-god-mode-warning-prefix-to-input-preprocessin.md) — 02-02
+- [PR #4562: fix(automation): Add quick pre-flight check before posting queued comments](sources/pr-4562-fix-automation-add-quick-pre-flight-check-before-p.md) — 02-02
+- [PR #4563: Restore: Fix dice display issue with version-based cache busting (original #4226)](sources/pr-4563-restore-fix-dice-display-issue-with-version-based.md) — 02-03
+- [PR #4572: Restore: cache-busting pipeline for dice UI](sources/pr-4572-restore-cache-busting-pipeline-for-dice-ui.md) — 02-08
+- [PR #4600: CI: Cancel redundant PR workflow runs with concurrency groups](sources/pr-4600-ci-cancel-redundant-pr-workflow-runs-with-concurre.md) — 02-06
+- [PR #4610: Docs: add self-hosted GitHub Actions runner setup guide](sources/pr-4610-docs-add-self-hosted-github-actions-runner-setup-g.md) — 02-08
+- [PR #4611: Automation: Remove copilot mention from Codex comments](sources/pr-4611-automation-remove-copilot-mention-from-codex-comme.md) — 02-02
+- [PR #4612: Remove Claude bot `/claude` dispatch workflow and update docs/start script](sources/pr-4612-remove-claude-bot-claude-dispatch-workflow-and-upd.md) — 02-02
+- [PR #4613: Docs: Require /header script in agent messages](sources/pr-4613-docs-require-header-script-in-agent-messages.md) — 02-02
+- [PR #4640: chore(frontend_v1): restore cache-bust gitignore](sources/pr-4640-chore-frontend-v1-restore-cache-bust-gitignore.md) — 02-12
+- [PR #4641: test(automation): restore global runs rolling window](sources/pr-4641-test-automation-restore-global-runs-rolling-window.md) — 02-04
+- [PR #4665: fix(automation): startup-only preflight + validation cleanup](sources/pr-4665-fix-automation-startup-only-preflight-validation-c.md) — 02-03
+- [PR #4670: fix(automation): remove per-PR quick preflight and stabilize startup preflight in tests](sources/pr-4670-fix-automation-remove-per-pr-quick-preflight-and-s.md) — 02-03
+- [PR #4715: Fix comment detection and surface cache-busting output](sources/pr-4715-fix-comment-detection-and-surface-cache-busting-ou.md) — 02-03
+- [PR #4716: Fix comment detection and surface cache-busting output](sources/pr-4716-fix-comment-detection-and-surface-cache-busting-ou.md) — 02-03
+- [PR #4720: Restore: dice UI cache-busting hooks only](sources/pr-4720-restore-dice-ui-cache-busting-hooks-only.md) — 02-03
+- [PR #4721: Restore: automation monitor mentions + preflight removal](sources/pr-4721-restore-automation-monitor-mentions-preflight-remo.md) — 02-04
+- [PR #4722: Restore: LOC analyzer import + code/config split](sources/pr-4722-restore-loc-analyzer-import-code-config-split.md) — 02-03
+- [PR #4723: Restore: PyPI workflow PR monitor defaults](sources/pr-4723-restore-pypi-workflow-pr-monitor-defaults.md) — 02-03
+- [PR #4724: Restore: Moltbook poster safety + statusline fix](sources/pr-4724-restore-moltbook-poster-safety-statusline-fix.md) — 02-03
+- [PR #4725: Campaign upgrade choice injection + tier prompts](sources/pr-4725-campaign-upgrade-choice-injection-tier-prompts.md) — 02-03
+- [PR #4745: Restore freeze_time: centralized time-freeze + level-up routing](sources/pr-4745-restore-freeze-time-centralized-time-freeze-level.md) — 02-04
+- [PR #4747: Guard campaign upgrade data and centralize tier prompt inclusion](sources/pr-4747-guard-campaign-upgrade-data-and-centralize-tier-pr.md) — 02-03
+- [PR #4759: fix(automation): align preflight mentions + test stability](sources/pr-4759-fix-automation-align-preflight-mentions-test-stabi.md) — 02-03
+- [PR #4765: fix(dice): improve fabrication detection and epic stats validation](sources/pr-4765-fix-dice-improve-fabrication-detection-and-epic-st.md) — 02-04
+- [PR #4771: Entity tracking: budget-aware dormant inclusion](sources/pr-4771-entity-tracking-budget-aware-dormant-inclusion.md) — 02-06
+- [PR #4772: Campaign upgrade helper + coverage](sources/pr-4772-campaign-upgrade-helper-coverage.md) — 02-06
+- [PR #4785: Automation: refine timestamp parsing and restore rolling-window global-run tests](sources/pr-4785-automation-refine-timestamp-parsing-and-restore-ro.md) — 02-04
+- [PR #4820: chore: Bump automation to 0.2.121 + fix rolling 24h window](sources/pr-4820-chore-bump-automation-to-0-2-121-fix-rolling-24h-w.md) — 02-04
+- [PR #4821: fix(settings): consume stdin in statusLine command](sources/pr-4821-fix-settings-consume-stdin-in-statusline-command.md) — 02-04
+- [PR #4831: fix(secondo): hardcode AI Universe Firebase API key for cross-machine usage](sources/pr-4831-fix-secondo-hardcode-ai-universe-firebase-api-key.md) — 02-04
+- [PR #4833: fix(secondo): use correct VITE_AI_UNIVERSE_FIREBASE_* env var prefix](sources/pr-4833-fix-secondo-use-correct-vite-ai-universe-firebase.md) — 02-05
+- [PR #4836: docs(insights): Claude Code usage analysis with actionable improvements](sources/pr-4836-docs-insights-claude-code-usage-analysis-with-acti.md) — 02-05
+- [PR #4838: docs(insights): accurate report from direct data sampling](sources/pr-4838-docs-insights-accurate-report-from-direct-data-sam.md) — 02-05
+- [PR #4839: docs(insights): comprehensive real insights report with verified data](sources/pr-4839-docs-insights-comprehensive-real-insights-report-w.md) — 02-05
+- [PR #4842: improve(CLAUDE.md): add diagnostic efficiency rules from usage analysis](sources/pr-4842-improve-claude-md-add-diagnostic-efficiency-rules.md) — 02-05
+- [PR #4853: Remove system theme detection, default to light theme](sources/pr-4853-remove-system-theme-detection-default-to-light-the.md) — 02-05
+- [PR #4856: feat(dice): self-correction mechanism + production validation monitoring](sources/pr-4856-feat-dice-self-correction-mechanism-production-val.md) — 02-06
+- [PR #4859: fix(dice): resolve false-positive fabrication detection and prompt leakage](sources/pr-4859-fix-dice-resolve-false-positive-fabrication-detect.md) — 02-05
+- [PR #4871: docs: Mandate Remote Commit URL reporting in GEMINI.md](sources/pr-4871-docs-mandate-remote-commit-url-reporting-in-gemini.md) — 02-16
+- [PR #4879: Enforce dice rolls in JSON only, never in narrative text](sources/pr-4879-enforce-dice-rolls-in-json-only-never-in-narrative.md) — 02-06
+- [PR #4886: Add faction management and campaign upgrade systems to god mode](sources/pr-4886-add-faction-management-and-campaign-upgrade-system.md) — 02-08
+- [PR #4889: Fix faction minigame form field naming convention](sources/pr-4889-fix-faction-minigame-form-field-naming-convention.md) — 02-08
+- [PR #4909: fix(gst): simplify command execution to resolve bash template error](sources/pr-4909-fix-gst-simplify-command-execution-to-resolve-bash.md) — 02-08
+- [PR #4924: fix(god-mode): reduce false positive validation warnings + strengthen prompt](sources/pr-4924-fix-god-mode-reduce-false-positive-validation-warn.md) — 02-08
+- [PR #4941: chore(deps): bump react-router and react-router-dom in /mvp_site/frontend_v2](sources/pr-4941-chore-deps-bump-react-router-and-react-router-dom.md) — 02-08
+- [PR #4946: feat: Extract living world trigger helper and expand test coverage](sources/pr-4946-feat-extract-living-world-trigger-helper-and-expan.md) — 02-08
+- [PR #4947: fix(automation): rolling 24h window + per-commit retry limit + push refspec](sources/pr-4947-fix-automation-rolling-24h-window-per-commit-retry.md) — 02-08
+- [PR #4949: Fix faction minigame state centralization and dict handling bug](sources/pr-4949-fix-faction-minigame-state-centralization-and-dict.md) — 02-08
+- [PR #4957: feat(automation): add --codex-update-api flag to pr-monitor](sources/pr-4957-feat-automation-add-codex-update-api-flag-to-pr-mo.md) — 02-08
+- [PR #4968: fix(ci): eliminate duplicate test execution + integrate PR coverage (~14min savings)](sources/pr-4968-fix-ci-eliminate-duplicate-test-execution-integrat.md) — 02-08
+- [PR #4978: Add divine ability score progression system for epic levels](sources/pr-4978-add-divine-ability-score-progression-system-for-ep.md) — 02-08
+- [PR #4985: fix(grok): recover narrative from truncated JSON responses](sources/pr-4985-fix-grok-recover-narrative-from-truncated-json-res.md) — 02-08
+- [PR #4988: fix: Living world E2E test classifier routing and regression oracle](sources/pr-4988-fix-living-world-e2e-test-classifier-routing-and-r.md) — 02-08
+- [PR #4990: Add experience restrictions for level 30+ divine characters](sources/pr-4990-add-experience-restrictions-for-level-30-divine-ch.md) — 02-08
+- [PR #4992: fix(test): resolve test isolation in living world E2E suite](sources/pr-4992-fix-test-resolve-test-isolation-in-living-world-e2.md) — 02-08
+- [PR #4993: Cache-busting: verify existing hashed assets before skipping](sources/pr-4993-cache-busting-verify-existing-hashed-assets-before.md) — 02-08
+- [PR #5006: Fix cron automation: parallel backups + clarify PyPI install docs](sources/pr-5006-fix-cron-automation-parallel-backups-clarify-pypi.md) — 02-08
+- [PR #5019: Add: self-hosted runner with fallback logic for cost savings](sources/pr-5019-add-self-hosted-runner-with-fallback-logic-for-cos.md) — 02-08
+- [PR #5029: chore: Publish automation 0.2.125 and orchestration 0.1.39, add crontab docs, enable real-time output](sources/pr-5029-chore-publish-automation-0-2-125-and-orchestration.md) — 02-08
+- [PR #5034: CI: skip deploy-preview for Dependabot PRs](sources/pr-5034-ci-skip-deploy-preview-for-dependabot-prs.md) — 02-08
+- [PR #5035: Unified game-state schema rollout, validation enforcement, planning normalization, and compatibility hardening (vs origin/main)](sources/pr-5035-unified-game-state-schema-rollout-validation-enfor.md) — 02-09
+- [PR #5036: Fix splash background path and consolidate PR responses](sources/pr-5036-fix-splash-background-path-and-consolidate-pr-resp.md) — 02-08
+- [PR #5037: tests: assert freeze_time on injected level-up choices](sources/pr-5037-tests-assert-freeze-time-on-injected-level-up-choi.md) — 02-08
+- [PR #5047: Add advances_time architecture to BaseAgent for living world triggers](sources/pr-5047-add-advances-time-architecture-to-baseagent-for-li.md) — 02-09
+- [PR #5048: Fix: Self-hosted runner compatibility (skip Linux-specific setup on macOS)](sources/pr-5048-fix-self-hosted-runner-compatibility-skip-linux-sp.md) — 02-08
+- [PR #5049: fix(automation): increase Codex automation timeout from 10 to 25 minutes](sources/pr-5049-fix-automation-increase-codex-automation-timeout-f.md) — 02-08
+- [PR #5057: Centralize Gemini code-execution orchestration in llm_service](sources/pr-5057-centralize-gemini-code-execution-orchestration-in.md) — 02-09
+- [PR #5059: Ignore versioned local virtualenv directories in gitignore](sources/pr-5059-ignore-versioned-local-virtualenv-directories-in-g.md) — 02-08
+- [PR #5099: Clarify editable install risks and provide installation best practices](sources/pr-5099-clarify-editable-install-risks-and-provide-install.md) — 02-09
+- [PR #5100: Make Divine Leverage system setting-agnostic with adaptation guide](sources/pr-5100-make-divine-leverage-system-setting-agnostic-with.md) — 02-09
+- [PR #5105: Prompt contract: require world_events on living-world turns](sources/pr-5105-prompt-contract-require-world-events-on-living-wor.md) — 02-09
+- [PR #5106: LLM capture: remove truncation from raw request/response logging](sources/pr-5106-llm-capture-remove-truncation-from-raw-request-res.md) — 02-09
+- [PR #5107: Hotfix: restore raw_limit variable for raw LLM logging](sources/pr-5107-hotfix-restore-raw-limit-variable-for-raw-llm-logg.md) — 02-09
+- [PR #5110: Perf: make state-update logging serialization lazy](sources/pr-5110-perf-make-state-update-logging-serialization-lazy.md) — 02-09
+- [PR #5111: URGENT: Fix pr-preview workflow (invalid secrets syntax)](sources/pr-5111-urgent-fix-pr-preview-workflow-invalid-secrets-syn.md) — 02-09
+- [PR #5112: Perf: gate heavy state dump logs behind DEBUG](sources/pr-5112-perf-gate-heavy-state-dump-logs-behind-debug.md) — 02-09
+- [PR #5119: Fix campaign wizard focus to title input for custom campaigns](sources/pr-5119-fix-campaign-wizard-focus-to-title-input-for-custo.md) — 02-09
+- [PR #5123: CI: parallelize directory tests and shard core matrix](sources/pr-5123-ci-parallelize-directory-tests-and-shard-core-matr.md) — 02-09
+- [PR #5129: Make Divine Overseer optional across all prompt documents](sources/pr-5129-make-divine-overseer-optional-across-all-prompt-do.md) — 02-09
+- [PR #5131: Fix integrate force-mode checkout blockers](sources/pr-5131-fix-integrate-force-mode-checkout-blockers.md) — 02-09
+- [PR #5136: Fix living-world reload visibility and character-creation misroutes](sources/pr-5136-fix-living-world-reload-visibility-and-character-c.md) — 02-10
+- [PR #5150: Dialog + CI hardening: heavy dialog split, shard safety, junit parse guard](sources/pr-5150-dialog-ci-hardening-heavy-dialog-split-shard-safet.md) — 02-10
+- [PR #5154: Fix: Prevent duplicate PR comments for same SHA](sources/pr-5154-fix-prevent-duplicate-pr-comments-for-same-sha.md) — 02-10
+- [PR #5155: feat: Add comprehensive automation & orchestration libraries guide](sources/pr-5155-feat-add-comprehensive-automation-orchestration-li.md) — 02-10
+- [PR #5186: Improve ai_orch branch/worktree resilience](sources/pr-5186-improve-ai-orch-branch-worktree-resilience.md) — 02-10
+- [PR #5203: feat: Add --version flag to jleechanorg-pr-monitor CLI](sources/pr-5203-feat-add-version-flag-to-jleechanorg-pr-monitor-cl.md) — 02-10
+- [PR #5210: Restore: Condense divine leverage system documentation (from PR #4989)](sources/pr-5210-restore-condense-divine-leverage-system-documentat.md) — 02-10
+- [PR #5211: Add local state files to .beads/.gitignore](sources/pr-5211-add-local-state-files-to-beads-gitignore.md) — 02-10
+- [PR #5221: Fix /stats 500: accept nested skills schema](sources/pr-5221-fix-stats-500-accept-nested-skills-schema.md) — 02-10
+- [PR #5222: Add Modal Agent Pattern Roadmap](sources/pr-5222-add-modal-agent-pattern-roadmap.md) — 02-10
+- [PR #5225: Fix char creation and add level up agent](sources/pr-5225-fix-char-creation-and-add-level-up-agent.md) — 02-11
+- [PR #5226: Fix character creation schema drift + starter gear visibility + state_updates audit](sources/pr-5226-fix-character-creation-schema-drift-starter-gear-v.md) — 02-10
+- [PR #5227: Restore living world + narrative_lite for DialogAgent](sources/pr-5227-restore-living-world-narrative-lite-for-dialogagen.md) — 02-10
+- [PR #5231: Evidence warnings: de-noise code_exec RNG + capture Gemini parts](sources/pr-5231-evidence-warnings-de-noise-code-exec-rng-capture-g.md) — 02-10
+- [PR #5247: Expand sanctuary durations and add quest generation system](sources/pr-5247-expand-sanctuary-durations-and-add-quest-generatio.md) — 02-10
+- [PR #5254: Fix: Remove duplicate living world rules + Add Priority 1-3 test suite](sources/pr-5254-fix-remove-duplicate-living-world-rules-add-priori.md) — 02-10
+- [PR #5266: Design: Agent & System Prompt Optimization Roadmap](sources/pr-5266-design-agent-system-prompt-optimization-roadmap.md) — 02-11
+- [PR #5272: Register narrative_lite prompt type and path (follow-up)](sources/pr-5272-register-narrative-lite-prompt-type-and-path-follo.md) — 02-12
+- [PR #5282: fix: Level-up modal flow and test fixes](sources/pr-5282-fix-level-up-modal-flow-and-test-fixes.md) — 02-12
+- [PR #5294: Reorganize GitHub runner scripts and add comprehensive setup tools](sources/pr-5294-reorganize-github-runner-scripts-and-add-comprehen.md) — 02-12
+- [PR #5298: Fix /generatetest to mandate MCPTestBase for all E2E tests](sources/pr-5298-fix-generatetest-to-mandate-mcptestbase-for-all-e2.md) — 02-12
+- [PR #5302: Add comment URL tracking to copilot workflow for auditability](sources/pr-5302-add-comment-url-tracking-to-copilot-workflow-for-a.md) — 02-12
+- [PR #5311: Codex-generated pull request](sources/pr-5311-codex-generated-pull-request.md) — 02-12
+- [PR #5312: Extend prompt-size measurement utilities for Dialog/Combat phases](sources/pr-5312-extend-prompt-size-measurement-utilities-for-dialo.md) — 02-12
+- [PR #5313: Url fallback constant issues](sources/pr-5313-url-fallback-constant-issues.md) — 02-12
+- [PR #5319: Copilot URL backfill](sources/pr-5319-copilot-url-backfill.md) — 02-12
+- [PR #5322: Follow-up: move Codex tracking tests into existing suite](sources/pr-5322-follow-up-move-codex-tracking-tests-into-existing.md) — 02-12
+- [PR #5329: Agent comment and URL issues](sources/pr-5329-agent-comment-and-url-issues.md) — 02-12
+- [PR #5331: Repository URL path validation](sources/pr-5331-repository-url-path-validation.md) — 02-12
+- [PR #5337: feat: Add worktree support to Codex automation for any-repo compatibility](sources/pr-5337-feat-add-worktree-support-to-codex-automation-for.md) — 02-13
+- [PR #5346: Add Genesis simulation/prediction mode and /simulate command](sources/pr-5346-add-genesis-simulation-prediction-mode-and-simulat.md) — 02-12
+- [PR #5347: Improve /pair orchestration: tmux socket fix, flags, resilience](sources/pr-5347-improve-pair-orchestration-tmux-socket-fix-flags-r.md) — 02-12
+- [PR #5358: Reserve [codex-automation-commit] for automation/ only](sources/pr-5358-reserve-codex-automation-commit-for-automation-onl.md) — 02-12
+- [PR #5360: Trim copilot.md from 1686 to 1047 lines (38% reduction)](sources/pr-5360-trim-copilot-md-from-1686-to-1047-lines-38-reducti.md) — 02-12
+- [PR #5368: Integrate /pair dual-agent programming into /copilot command](sources/pr-5368-integrate-pair-dual-agent-programming-into-copilot.md) — 02-13
+- [PR #5377: Add crontab configuration example and documentation for self-hosted runners](sources/pr-5377-add-crontab-configuration-example-and-documentatio.md) — 02-13
+- [PR #5381: Genesis v2.1: P7.7 CI_STATUS fix + 44% accuracy](sources/pr-5381-genesis-v2-1-p7-7-ci-status-fix-44-accuracy.md) — 02-13
+- [PR #5384: Add passwordless clock sync for self-hosted runner auto-recovery](sources/pr-5384-add-passwordless-clock-sync-for-self-hosted-runner.md) — 02-13
+- [PR #5390: Schema docs: infer property types when JSON Schema omits `type`](sources/pr-5390-schema-docs-infer-property-types-when-json-schema.md) — 02-13
+- [PR #5391: Add PR details (URL, title, description) to deployment email notifications](sources/pr-5391-add-pr-details-url-title-description-to-deployment.md) — 02-13
+- [PR #5392: Add god mode and thinking mode action scenarios to smoke tests](sources/pr-5392-add-god-mode-and-thinking-mode-action-scenarios-to.md) — 02-13
+- [PR #5393: Genesis v2.2: Two-stage prediction with 77.8% intent match accuracy](sources/pr-5393-genesis-v2-2-two-stage-prediction-with-77-8-intent.md) — 02-13
+- [PR #5402: streaming follow-up: evidence integrity and measurement fixes](sources/pr-5402-streaming-follow-up-evidence-integrity-and-measure.md) — 02-13
+- [PR #5419: Non-God Mode Prompt Optimization Carry-Forward](sources/pr-5419-non-god-mode-prompt-optimization-carry-forward.md) — 02-13
+- [PR #5424: Docs: finalize beads config and workspace guidance](sources/pr-5424-docs-finalize-beads-config-and-workspace-guidance.md) — 02-13
+- [PR #5425: Fresh PR from main (empty baseline)](sources/pr-5425-fresh-pr-from-main-empty-baseline.md) — 02-13
+- [PR #5439: Fix /pair to use --no-worktree by default](sources/pr-5439-fix-pair-to-use-no-worktree-by-default.md) — 02-13
+- [PR #5459: Fix: Prevent beads auto-commits to main and correct git user configuration](sources/pr-5459-fix-prevent-beads-auto-commits-to-main-and-correct.md) — 02-13
+- [PR #5463: docs: Add MCP CLI context usage analysis and benchmarks](sources/pr-5463-docs-add-mcp-cli-context-usage-analysis-and-benchm.md) — 02-13
+- [PR #5494: Add OpenClaw MCP Server Integration](sources/pr-5494-add-openclaw-mcp-server-integration.md) — 02-13
+- [PR #5495: Fix OpenClaw MCP script review issues](sources/pr-5495-fix-openclaw-mcp-script-review-issues.md) — 02-14
+- [PR #5496: feat(benchmark): v4 message classifier module + checkpoint table format](sources/pr-5496-feat-benchmark-v4-message-classifier-module-checkp.md) — 02-14
+- [PR #5499: Centralize MCP smoke suite execution](sources/pr-5499-centralize-mcp-smoke-suite-execution.md) — 02-14
+- [PR #5506: feat: BYOK (Bring Your Own Key) - Gemini/OpenRouter/Cerebras with navigation-safe settings persistence](sources/pr-5506-feat-byok-bring-your-own-key-gemini-openrouter-cer.md) — 02-15
+- [PR #5516: feat(genesis): inline /sim prediction + A/B benchmark script](sources/pr-5516-feat-genesis-inline-sim-prediction-a-b-benchmark-s.md) — 02-14
+- [PR #5517: Add beads work item tracking to planning and execution workflows](sources/pr-5517-add-beads-work-item-tracking-to-planning-and-execu.md) — 02-14
+- [PR #5518: chore(deps): bump qs and express in /mcp_servers/secondo](sources/pr-5518-chore-deps-bump-qs-and-express-in-mcp-servers-seco.md) — 02-19
+- [PR #5519: Genesis v10-v11: Intent classifier pipeline + dual-head architecture design](sources/pr-5519-genesis-v10-v11-intent-classifier-pipeline-dual-he.md) — 02-15
+- [PR #5520: Fix smoke test workflow context API mismatch](sources/pr-5520-fix-smoke-test-workflow-context-api-mismatch.md) — 02-14
+- [PR #5521: Fix heredoc parsing bug in smoke comment generation](sources/pr-5521-fix-heredoc-parsing-bug-in-smoke-comment-generatio.md) — 02-14
+- [PR #5522: [codex-automation] BYOK settings follow-up — idempotent listeners & masked-key handling](sources/pr-5522-codex-automation-byok-settings-follow-up-idempote.md) — 02-14
+- [PR #5525: Fix heredoc delimiter quotes for GitHub Actions output](sources/pr-5525-fix-heredoc-delimiter-quotes-for-github-actions-ou.md) — 02-14
+- [PR #5527: feat: Add 4-layer minimal repro testing protocol](sources/pr-5527-feat-add-4-layer-minimal-repro-testing-protocol.md) — 02-15
+- [PR #5528: Fix workflow_run to trigger Mock tests only, not Real E2E](sources/pr-5528-fix-workflow-run-to-trigger-mock-tests-only-not-re.md) — 02-15
+- [PR #5530: Consolidate agents skill notes into root AGENTS.md](sources/pr-5530-consolidate-agents-skill-notes-into-root-agents-md.md) — 02-15
+- [PR #5531: Add PR comment posting for workflow_run mock tests](sources/pr-5531-add-pr-comment-posting-for-workflow-run-mock-tests.md) — 02-15
+- [PR #5532: Follow-up: resolve review comments and enforce real-mode test defaults](sources/pr-5532-follow-up-resolve-review-comments-and-enforce-real.md) — 02-15
+- [PR #5533: Fix final streaming UI scroll jump after completion](sources/pr-5533-fix-final-streaming-ui-scroll-jump-after-completio.md) — 02-16
+- [PR #5535: Fix: Prevent duplicate workflow_run comments on fallback](sources/pr-5535-fix-prevent-duplicate-workflow-run-comments-on-fal.md) — 02-15
+- [PR #5536: Fix living-world schema drift: include last_living_world_* fields](sources/pr-5536-fix-living-world-schema-drift-include-last-living.md) — 02-15
+- [PR #5537: Rate limiting: grant 1000 daily turns for users with BYOK on matching provider](sources/pr-5537-rate-limiting-grant-1000-daily-turns-for-users-wit.md) — 02-15
+- [PR #5538: Test: Verify workflow_run duplicate comment fix](sources/pr-5538-test-verify-workflow-run-duplicate-comment-fix.md) — 02-15
+- [PR #5539: Fix stale level-up modal guard behavior](sources/pr-5539-fix-stale-level-up-modal-guard-behavior.md) — 02-15
+- [PR #5540: Fix world-events persistence for story entries](sources/pr-5540-fix-world-events-persistence-for-story-entries.md) — 02-15
+- [PR #5541: Include debug_info in God Mode state updates](sources/pr-5541-include-debug-info-in-god-mode-state-updates.md) — 02-15
+- [PR #5542: Add Codex Web setup/maintenance scripts for git remote bootstrap](sources/pr-5542-add-codex-web-setup-maintenance-scripts-for-git-re.md) — 02-15
+- [PR #5543: Add game state JSON export to campaign downloader](sources/pr-5543-add-game-state-json-export-to-campaign-downloader.md) — 02-15
+- [PR #5544: Add Codex Web gh marker and task-end PR push guidance](sources/pr-5544-add-codex-web-gh-marker-and-task-end-pr-push-guida.md) — 02-15
+- [PR #5546: fix!: Add wrap_prompt parameter to TaskDispatcher (BREAKING)](sources/pr-5546-fix-add-wrap-prompt-parameter-to-taskdispatcher-br.md) — 02-16
+- [PR #5547: Codex Web: share setup logic; support GCLOUD_SERVICE_ACCOUNT_JSON_B64](sources/pr-5547-codex-web-share-setup-logic-support-gcloud-service.md) — 02-15
+- [PR #5548: fix: add logging for gh pr view failures and expand wrap_prompt docstring](sources/pr-5548-fix-add-logging-for-gh-pr-view-failures-and-expand.md) — 02-16
+- [PR #5549: fix(level-up): normalize planning_block choices to array format (ADR-0003 Phase 6)](sources/pr-5549-fix-level-up-normalize-planning-block-choices-to-a.md) — 02-16
+- [PR #5550: feat(streaming): fix behavior parity and add coverage for PR-c6b](sources/pr-5550-feat-streaming-fix-behavior-parity-and-add-coverag.md) — 02-16
+- [PR #5554: Remove `prompt_archive` and switch prompt sources to `mvp_site/prompts/`](sources/pr-5554-remove-prompt-archive-and-switch-prompt-sources-to.md) — 02-16
+- [PR #5555: chore: Update Claude tooling, skills, and copilot modules](sources/pr-5555-chore-update-claude-tooling-skills-and-copilot-mod.md) — 02-16
+- [PR #5556: chore: Update scripts and CI tooling](sources/pr-5556-chore-update-scripts-and-ci-tooling.md) — 02-16
+- [PR #5557: chore: Improve testing_mcp infrastructure](sources/pr-5557-chore-improve-testing-mcp-infrastructure.md) — 02-16
+- [PR #5559: feat(automation): Add MiniMax CLI support to fixpr automation](sources/pr-5559-feat-automation-add-minimax-cli-support-to-fixpr-a.md) — 02-16
+- [PR #5561: feat(streaming): progressive planning_block.thinking extraction](sources/pr-5561-feat-streaming-progressive-planning-block-thinking.md) — 02-19
+- [PR #5562: feat(ci): reduce test runs with pytest-testmon + fix 8 ghost tests](sources/pr-5562-feat-ci-reduce-test-runs-with-pytest-testmon-fix-8.md) — 02-17
+- [PR #5563: Schema Validation Infrastructure - Truly Squashed](sources/pr-5563-schema-validation-infrastructure-truly-squashed.md) — 02-16
+- [PR #5564: chore(gemini): sync Claude commands to TOML format](sources/pr-5564-chore-gemini-sync-claude-commands-to-toml-format.md) — 02-16
+- [PR #5565: chore: refactor pair orchestration - unique sessions, MCP Mail integration, simplified docs](sources/pr-5565-chore-refactor-pair-orchestration-unique-sessions.md) — 02-17
+- [PR #5568: Use PyPI `orch` CLI with fallback to local script](sources/pr-5568-use-pypi-orch-cli-with-fallback-to-local-script.md) — 02-16
+- [PR #5569: fix: Only trigger CLI fallback on rate limit if exit code is non-zero](sources/pr-5569-fix-only-trigger-cli-fallback-on-rate-limit-if-exi.md) — 02-16
+- [PR #5572: daily email: Codex-generated pull request](sources/pr-5572-daily-email-codex-generated-pull-request.md) — 02-16
+- [PR #5573: chore(testing_mcp): improve evidence_utils with defensive checks](sources/pr-5573-chore-testing-mcp-improve-evidence-utils-with-defe.md) — 02-16
+- [PR #5576: Openclaw MVP design](sources/pr-5576-openclaw-mvp-design.md) — 02-16
+- [PR #5577: Relocate SDUI design to roadmap and expand with system plan](sources/pr-5577-relocate-sdui-design-to-roadmap-and-expand-with-sy.md) — 02-16
+- [PR #5578: Add PR description comment tracking table](sources/pr-5578-add-pr-description-comment-tracking-table.md) — 02-16
+- [PR #5579: Backup dotfiles from MacBook](sources/pr-5579-backup-dotfiles-from-macbook.md) — 02-16
+- [PR #5580: Allow configurable OpenClaw gateway port in Settings and use it at runtime](sources/pr-5580-allow-configurable-openclaw-gateway-port-in-settin.md) — 02-16
+- [PR #5581: Revert "Allow configurable OpenClaw gateway port in Settings and use it at runtime"](sources/pr-5581-revert-allow-configurable-openclaw-gateway-port-in.md) — 02-16
+- [PR #5582: Revert "Revert "Allow configurable OpenClaw gateway port in Settings and use it at runtime""](sources/pr-5582-revert-revert-allow-configurable-openclaw-gateway.md) — 02-20
+- [PR #5583: fix(automation): Non-destructive cron install with MiniMax CLI, backups, and portable paths](sources/pr-5583-fix-automation-non-destructive-cron-install-with-m.md) — 02-17
+- [PR #5584: Schema Prompt Drift Fixes + Field Constants Generation](sources/pr-5584-schema-prompt-drift-fixes-field-constants-generati.md) — 02-21
+- [PR #5585: docs: add shell command safety rules to GEMINI.md + Antigravity workflow](sources/pr-5585-docs-add-shell-command-safety-rules-to-gemini-md-a.md) — 02-17
+- [PR #5586: feat: Enable experimental agent teams in Claude Code settings](sources/pr-5586-feat-enable-experimental-agent-teams-in-claude-cod.md) — 02-17
+- [PR #5587: Update Claude commands from export](sources/pr-5587-update-claude-commands-from-export.md) — 02-17
+- [PR #5589: Docs: add v1 frontend redesign handoff prompt](sources/pr-5589-docs-add-v1-frontend-redesign-handoff-prompt.md) — 02-17
+- [PR #5590: Enhance bead tracking with proactive issue creation guidance](sources/pr-5590-enhance-bead-tracking-with-proactive-issue-creatio.md) — 02-19
+- [PR #5591: chore: Publish automation 0.2.140 and orchestration 0.1.57 to PyPI](sources/pr-5591-chore-publish-automation-0-2-140-and-orchestration.md) — 02-17
+- [PR #5592: Fail-closed provider selection when user settings are unavailable](sources/pr-5592-fail-closed-provider-selection-when-user-settings.md) — 02-17
+- [PR #5594: Codex-generated pull request](sources/pr-5594-codex-generated-pull-request.md) — 02-17
+- [PR #5596: fix: Prevent doubled $PROJECT_ROOT in export path transformation](sources/pr-5596-fix-prevent-doubled-project-root-in-export-path-tr.md) — 02-17
+- [PR #5597: refactor: replace /copilot Python orchestration with pure LLM prompt](sources/pr-5597-refactor-replace-copilot-python-orchestration-with.md) — 02-19
+- [PR #5598: pair/orchestration: minimax defaults, strict CLI behavior, monitor hardening, and real integration tests](sources/pr-5598-pair-orchestration-minimax-defaults-strict-cli-beh.md) — 02-18
+- [PR #5602: fix(ci): harden testmon skip detection against false-green [REV-ed58z]](sources/pr-5602-fix-ci-harden-testmon-skip-detection-against-false.md) — 02-17
+- [PR #5603: docs: align /copilot workflow, restore pair-skill contract, and fix tooling examples](sources/pr-5603-docs-align-copilot-workflow-restore-pair-skill-con.md) — 02-17
+- [PR #5604: chore(husky): bump bd shim metadata to 0.49.6](sources/pr-5604-chore-husky-bump-bd-shim-metadata-to-0-49-6.md) — 02-17
+- [PR #5605: fix(ci): add merge-commit correctness gate [REV-q4cmy]](sources/pr-5605-fix-ci-add-merge-commit-correctness-gate-rev-q4cmy.md) — 02-17
+- [PR #5606: fix: Increase self-hosted runner timeouts from 2 to 10 minutes](sources/pr-5606-fix-increase-self-hosted-runner-timeouts-from-2-to.md) — 02-18
+- [PR #5613: fix: per-file delta coverage with low-coverage exception list](sources/pr-5613-fix-per-file-delta-coverage-with-low-coverage-exce.md) — 02-18
+- [PR #5615: fix(docs): forbid sparse checkout in CLAUDE.md and AGENTS.md](sources/pr-5615-fix-docs-forbid-sparse-checkout-in-claude-md-and-a.md) — 02-18
+- [PR #5617: chore: gitignore testmon WAL/SHM sidecar files and test-results](sources/pr-5617-chore-gitignore-testmon-wal-shm-sidecar-files-and.md) — 02-18
+- [PR #5618: feat(pair): CLI-specific pair agents for all 5 supported CLIs](sources/pr-5618-feat-pair-cli-specific-pair-agents-for-all-5-suppo.md) — 02-18
+- [PR #5619: docs: align Gemini /copilot prompt with direct posting policy](sources/pr-5619-docs-align-gemini-copilot-prompt-with-direct-posti.md) — 02-18
+- [PR #5620: fix(ci): resolve YAML parse error in fetch-pr-details action](sources/pr-5620-fix-ci-resolve-yaml-parse-error-in-fetch-pr-detail.md) — 02-18
+- [PR #5621: docs: GitHub Actions cost optimization recommendations](sources/pr-5621-docs-github-actions-cost-optimization-recommendati.md) — 02-18
+- [PR #5622: feat: Add dedicated self-hosted runner workflow for MVP shard1](sources/pr-5622-feat-add-dedicated-self-hosted-runner-workflow-for.md) — 02-19
+- [PR #5623: fix(ci): add missing permissions to auto-deploy-dev workflow](sources/pr-5623-fix-ci-add-missing-permissions-to-auto-deploy-dev.md) — 02-18
+- [PR #5624: fix(ci): enable smoke test auth bypass for dev MCP endpoint](sources/pr-5624-fix-ci-enable-smoke-test-auth-bypass-for-dev-mcp-e.md) — 02-18
+- [PR #5625: Refine V1 signed-out welcome with blended card + splash image](sources/pr-5625-refine-v1-signed-out-welcome-with-blended-card-spl.md) — 02-22
+- [PR #5628: test: smoke test PR](sources/pr-5628-test-smoke-test-pr.md) — 02-19
+- [PR #5630: fix(automation): use wrapper script for cron jobs to preserve MINIMAX_API_KEY](sources/pr-5630-fix-automation-use-wrapper-script-for-cron-jobs-to.md) — 02-19
+- [PR #5632: Testing UI: narrow OpenClaw settings exception handling](sources/pr-5632-testing-ui-narrow-openclaw-settings-exception-hand.md) — 02-19
+- [PR #5633: Fix theme dropdown being obscured by dashboard controls](sources/pr-5633-fix-theme-dropdown-being-obscured-by-dashboard-con.md) — 02-19
+- [PR #5634: CI: make PR delta coverage report non-blocking](sources/pr-5634-ci-make-pr-delta-coverage-report-non-blocking.md) — 02-19
+- [PR #5635: chore(deps): bump minimatch and eslint](sources/pr-5635-chore-deps-bump-minimatch-and-eslint.md) — 02-19
+- [PR #5636: Add zoomed-out mid-stream screenshots for streaming mode-matrix runs](sources/pr-5636-add-zoomed-out-mid-stream-screenshots-for-streamin.md) — 02-19
+- [PR #5637: fix(validation): don't require exit code 0 for CLI validation](sources/pr-5637-fix-validation-don-t-require-exit-code-0-for-cli-v.md) — 02-19
+- [PR #5639: automation: slash routing, codex cron hardening, env installer, and MiniMax preflight fix](sources/pr-5639-automation-slash-routing-codex-cron-hardening-env.md) — 02-19
+- [PR #5640: fix(genesis): apply review fixes to dual-head architecture design](sources/pr-5640-fix-genesis-apply-review-fixes-to-dual-head-archit.md) — 02-19
+- [PR #5641: Enforce /pair dual-agent Task workflow and remove undocumented team spawn call](sources/pr-5641-enforce-pair-dual-agent-task-workflow-and-remove-u.md) — 02-19
+- [PR #5644: Add local disk-cleanup automation and runbook](sources/pr-5644-add-local-disk-cleanup-automation-and-runbook.md) — 03-05
+- [PR #5646: Fix: harness autonomy contract drift and CI fallback (ref: #5645)](sources/pr-5646-fix-harness-autonomy-contract-drift-and-ci-fallbac.md) — 02-19
+- [PR #5648: feat(pairv2): contract-driven LangGraph retries with reusable contracts and parallel fan-out](sources/pr-5648-feat-pairv2-contract-driven-langgraph-retries-with.md) — 02-23
+- [PR #5654: fix: harden automation mergeability and MiniMax CLI auth handoff](sources/pr-5654-fix-harden-automation-mergeability-and-minimax-cli.md) — 02-20
+- [PR #5659: Set default test user to jleechantest@gmail.com in test infrastructure](sources/pr-5659-set-default-test-user-to-jleechantest-gmail-com-in.md) — 02-24
+- [PR #5660: fix(openclaw): strip openclaw/ prefix in context window token lookups](sources/pr-5660-fix-openclaw-strip-openclaw-prefix-in-context-wind.md) — 02-20
+- [PR #5662: feat(openclaw): per-user gateway URL setting for Tailscale Funnel / cloud access](sources/pr-5662-feat-openclaw-per-user-gateway-url-setting-for-tai.md) — 02-22
+- [PR #5665: fix(docs+scripts): address review feedback for roadmap, pairv2, benchmark, and readiness checks](sources/pr-5665-fix-docs-scripts-address-review-feedback-for-roadm.md) — 02-20
+- [PR #5667: chore: remove frontend_v2 React app and all references](sources/pr-5667-chore-remove-frontend-v2-react-app-and-all-referen.md) — 02-20
+- [PR #5673: fix(llm_service): guard against dict current_location in _tier_entities](sources/pr-5673-fix-llm-service-guard-against-dict-current-locatio.md) — 02-20
+- [PR #5674: Fix PR preview deploy env vars for preview auth-bypass mode](sources/pr-5674-fix-pr-preview-deploy-env-vars-for-preview-auth-by.md) — 02-20
+- [PR #5675: fix(runner): add session conflict cooldown to prevent restart loops after reboot](sources/pr-5675-fix-runner-add-session-conflict-cooldown-to-preven.md) — 02-20
+- [PR #5677: fix: harden PR #5654 post-merge behavior (no wrapper cron path)](sources/pr-5677-fix-harden-pr-5654-post-merge-behavior-no-wrapper.md) — 02-21
+- [PR #5678: Fix OpenClaw provider not persisting during settings saves](sources/pr-5678-fix-openclaw-provider-not-persisting-during-settin.md) — 02-21
+- [PR #5679: fix(preview): remove dead auth-bypass env vars from PR preview deploy](sources/pr-5679-fix-preview-remove-dead-auth-bypass-env-vars-from.md) — 02-21
+- [PR #5682: Ensure self-hosted runner recovers after reboot](sources/pr-5682-ensure-self-hosted-runner-recovers-after-reboot.md) — 02-21
+- [PR #5685: beads: add LLM fingerprint comparison tracking bead](sources/pr-5685-beads-add-llm-fingerprint-comparison-tracking-bead.md) — 02-21
+- [PR #5686: fix(integrate): harden against SIGPIPE exits and beads daemon hook failures](sources/pr-5686-fix-integrate-harden-against-sigpipe-exits-and-bea.md) — 02-21
+- [PR #5687: fix(mcp): harden test infra for gcloud bootstrap, memory guarding, and schema evidence](sources/pr-5687-fix-mcp-harden-test-infra-for-gcloud-bootstrap-mem.md) — 02-21
+- [PR #5688: Export CLAUDE.md and AGENTS.md reference docs with adaptation headers](sources/pr-5688-export-claude-md-and-agents-md-reference-docs-with.md) — 02-21
+- [PR #5691: feat: streaming contracts, smoke auth token, CI hardening, and REV-fd2 mode confidence design](sources/pr-5691-feat-streaming-contracts-smoke-auth-token-ci-harde.md) — 02-23
+- [PR #5692: fix: prevent sparse checkout from hiding working files](sources/pr-5692-fix-prevent-sparse-checkout-from-hiding-working-fi.md) — 02-21
+- [PR #5693: fix: forward response_json_schema and enable strict_narrative for streaming](sources/pr-5693-fix-forward-response-json-schema-and-enable-strict.md) — 03-01
+- [PR #5695: fix(orchestration): add CLAUDECODE to minimax env_unset (prevent nested-session preflight failure)](sources/pr-5695-fix-orchestration-add-claudecode-to-minimax-env-un.md) — 02-21
+- [PR #5698: chore: publish orchestration 0.1.76 and automation 0.2.155 to PyPI](sources/pr-5698-chore-publish-orchestration-0-1-76-and-automation.md) — 02-21
+- [PR #5699: Simplify theme system: default + fantasy only](sources/pr-5699-simplify-theme-system-default-fantasy-only.md) — 02-28
+- [PR #5700: Enforce living world scene visibility in prompts](sources/pr-5700-enforce-living-world-scene-visibility-in-prompts.md) — 02-22
+- [PR #5701: Remove confidence field from UI rendering, keep as mechanics-only](sources/pr-5701-remove-confidence-field-from-ui-rendering-keep-as.md) — 02-22
+- [PR #5702: Add stream_start_time and e2e_latency_seconds to story continuation done payload](sources/pr-5702-add-stream-start-time-and-e2e-latency-seconds-to-s.md) — 02-22
+- [PR #5703: fix(world_logic): inject level-up choices when rewards_box.level_up_available=true but rewards_pending=null](sources/pr-5703-fix-world-logic-inject-level-up-choices-when-rewar.md) — 02-22
+- [PR #5704: feat: add split-pane-launch.sh script for Claude Code agent teams](sources/pr-5704-feat-add-split-pane-launch-sh-script-for-claude-co.md) — 02-22
+- [PR #5705: Integrate script: recover forced checkout on main in --force mode](sources/pr-5705-integrate-script-recover-forced-checkout-on-main-i.md) — 02-22
+- [PR #5706: Integrate: add hard-reset fallback in force-mode checkout recovery](sources/pr-5706-integrate-add-hard-reset-fallback-in-force-mode-ch.md) — 02-22
+- [PR #5707: docs: highlight Tier 1 proprietary systems in README with architecture diagram](sources/pr-5707-docs-highlight-tier-1-proprietary-systems-in-readm.md) — 02-22
+- [PR #5708: chore(beads): migrate to Dolt backend with REV-only canonical JSONL](sources/pr-5708-chore-beads-migrate-to-dolt-backend-with-rev-only.md) — 02-22
+- [PR #5709: Add agent-specific header command instructions to AGENTS.md](sources/pr-5709-add-agent-specific-header-command-instructions-to.md) — 02-22
+- [PR #5710: Add provably fair dice roll system with cryptographic verification](sources/pr-5710-add-provably-fair-dice-roll-system-with-cryptograp.md) — 02-22
+- [PR #5711: feat(security): gitleaks gate + fix commented-out secret filter in backup_dotfiles](sources/pr-5711-feat-security-gitleaks-gate-fix-commented-out-secr.md) — 02-22
+- [PR #5712: Document truly novel capabilities and update system architecture v2.1](sources/pr-5712-document-truly-novel-capabilities-and-update-syste.md) — 02-24
+- [PR #5714: perf: convert landing page background from PNG to WebP (2.5MB -> 102KB, 96% smaller)](sources/pr-5714-perf-convert-landing-page-background-from-png-to-w.md) — 02-23
+- [PR #5715: Fix slash-command PR context detection for fix-comment](sources/pr-5715-fix-slash-command-pr-context-detection-for-fix-com.md) — 02-26
+- [PR #5721: Main PR: Centralize automation marker workflows and harden Codex/fix-comment preflight (E2E validation)](sources/pr-5721-main-pr-centralize-automation-marker-workflows-and.md) — 02-23
+- [PR #5723: fix(ui,contracts): treat planning confidence as mechanics-only](sources/pr-5723-fix-ui-contracts-treat-planning-confidence-as-mech.md) — 02-24
+- [PR #5724: Add contract coverage for character template prompt](sources/pr-5724-add-contract-coverage-for-character-template-promp.md) — 02-22
+- [PR #5725: Add preview-only MCP smoke auth bypass](sources/pr-5725-add-preview-only-mcp-smoke-auth-bypass.md) — 02-22
+- [PR #5726: docs: beads merge conflict prevention and worktree drift guidance](sources/pr-5726-docs-beads-merge-conflict-prevention-and-worktree.md) — 02-22
+- [PR #5727: Settings: gate OpenClaw validation by provider selection](sources/pr-5727-settings-gate-openclaw-validation-by-provider-sele.md) — 02-23
+- [PR #5729: fix(docs): remove literal \n from E2E marker doc headers (PR #5721 copilot)](sources/pr-5729-fix-docs-remove-literal-n-from-e2e-marker-doc-head.md) — 02-24
+- [PR #5730: fix(ci): add SMOKE_TOKEN to preview-smoke-tests job env](sources/pr-5730-fix-ci-add-smoke-token-to-preview-smoke-tests-job.md) — 02-23
+- [PR #5731: Add opt-in flags for preflight validation and prompt templating](sources/pr-5731-add-opt-in-flags-for-preflight-validation-and-prom.md) — 02-23
+- [PR #5732: Rename --lite-mode to --async for clearer async execution semantics](sources/pr-5732-rename-lite-mode-to-async-for-clearer-async-execut.md) — 02-23
+- [PR #5734: feat(pairv2): LLM-recoverable workflow — process-exit + inference-driven verification](sources/pr-5734-feat-pairv2-llm-recoverable-workflow-process-exit.md) — 02-24
+- [PR #5735: feat(ci): migrate heavy workflows to self-hosted runners - save .7k/year](sources/pr-5735-feat-ci-migrate-heavy-workflows-to-self-hosted-run.md) — 02-23
+- [PR #5736: chore(dotfiles): merge macbook bashrc into cloudworkstation backup (Ubuntu-adapted)](sources/pr-5736-chore-dotfiles-merge-macbook-bashrc-into-cloudwork.md) — 02-23
+- [PR #5737: feat(mcp): make token loading optional for bashrc environments](sources/pr-5737-feat-mcp-make-token-loading-optional-for-bashrc-en.md) — 02-23
+- [PR #5739: fix(hooks): update bd shims for bd 0.56.1 compatibility](sources/pr-5739-fix-hooks-update-bd-shims-for-bd-0-56-1-compatibil.md) — 02-23
+- [PR #5740: feat(ci): add Python 3.12 setup script for self-hosted runners](sources/pr-5740-feat-ci-add-python-3-12-setup-script-for-self-host.md) — 02-23
+- [PR #5741: fix(ci): fix venv and setup-python failures on self-hosted runners](sources/pr-5741-fix-ci-fix-venv-and-setup-python-failures-on-self.md) — 02-23
+- [PR #5743: follow-up(ci): resolve CI/workflow and runner script review findings](sources/pr-5743-follow-up-ci-resolve-ci-workflow-and-runner-script.md) — 02-23
+- [PR #5744: Fix Deploy PR Preview script for Bash 3 on macOS runners](sources/pr-5744-fix-deploy-pr-preview-script-for-bash-3-on-macos-r.md) — 02-23
+- [PR #5745: Add /innovate command for generating innovative plan additions](sources/pr-5745-add-innovate-command-for-generating-innovative-pla.md) — 02-24
+- [PR #5746: CI Reliability: Runner control plane + self-hosted bootstrap hardening](sources/pr-5746-ci-reliability-runner-control-plane-self-hosted-bo.md) — 02-24
+- [PR #5747: exclude pairv2 from command exports](sources/pr-5747-exclude-pairv2-from-command-exports.md) — 02-24
+- [PR #5748: fix(ci): harden self-hosted venv cache reuse checks](sources/pr-5748-fix-ci-harden-self-hosted-venv-cache-reuse-checks.md) — 02-24
+- [PR #5749: fix(ci): validate cached venv pip wrapper before reuse](sources/pr-5749-fix-ci-validate-cached-venv-pip-wrapper-before-reu.md) — 02-24
+- [PR #5750: design(runners): self-hosted runner path stability plan](sources/pr-5750-design-runners-self-hosted-runner-path-stability-p.md) — 02-24
+- [PR #5751: ci: harden self-hosted runner bootstrap and hosting strategy](sources/pr-5751-ci-harden-self-hosted-runner-bootstrap-and-hosting.md) — 02-24
+- [PR #5752: Pair-v2 custom args + SDUI blog benchmark task (TDD, dispatcher + bench harness)](sources/pr-5752-pair-v2-custom-args-sdui-blog-benchmark-task-tdd-d.md) — 02-24
+- [PR #5754: chore: add shared classifier preflight and startup gating](sources/pr-5754-chore-add-shared-classifier-preflight-and-startup.md) — 03-04
+- [PR #5756: ci: extend self-hosted runner control-plane to coverage workflow](sources/pr-5756-ci-extend-self-hosted-runner-control-plane-to-cove.md) — 02-26
+- [PR #5757: Centralize CLI preflight validation logic into reusable helper](sources/pr-5757-centralize-cli-preflight-validation-logic-into-reu.md) — 02-24
+- [PR #5758: pairv2: extra arg forwarding fix + asyncio orchestration migration design](sources/pr-5758-pairv2-extra-arg-forwarding-fix-asyncio-orchestrat.md) — 02-25
+- [PR #5759: CI: scoped self-hosted workflows now run in Docker containers](sources/pr-5759-ci-scoped-self-hosted-workflows-now-run-in-docker.md) — 02-25
+- [PR #5760: Complete: /fixpr 5755 - Cache corruption detection for LocalIntentClassifier](sources/pr-5760-complete-fixpr-5755-cache-corruption-detection-for.md) — 03-04
+- [PR #5761: CI: disable non-core self-hosted jobs and pin MVP shards to mac](sources/pr-5761-ci-disable-non-core-self-hosted-jobs-and-pin-mvp-s.md) — 02-24
+- [PR #5762: feat: create testing_utils PyPI library with generic testing infrastructure](sources/pr-5762-feat-create-testing-utils-pypi-library-with-generi.md) — 03-03
+- [PR #5765: docs: set bd dolt server mode and add beads workflow docs](sources/pr-5765-docs-set-bd-dolt-server-mode-and-add-beads-workflo.md) — 02-24
+- [PR #5766: Fix PR fetching: keep per-window search to avoid 1000-result cap](sources/pr-5766-fix-pr-fetching-keep-per-window-search-to-avoid-10.md) — 02-25
+- [PR #5767: CI: use single self-hosted runner label](sources/pr-5767-ci-use-single-self-hosted-runner-label.md) — 02-25
+- [PR #5768: CI: centralize self-hosted selector](sources/pr-5768-ci-centralize-self-hosted-selector.md) — 02-25
+- [PR #5771: docs: tighten GEMINI.md push/remote-branch/commit-URL rules](sources/pr-5771-docs-tighten-gemini-md-push-remote-branch-commit-u.md) — 02-25
+- [PR #5772: chore: add anti-hang command safety rules](sources/pr-5772-chore-add-anti-hang-command-safety-rules.md) — 02-25
+- [PR #5775: Create ClaudeMeetup.md](sources/pr-5775-create-claudemeetup-md.md) — 02-26
+- [PR #5780: testing_http: fix syntax error + add evidence bundle output](sources/pr-5780-testing-http-fix-syntax-error-add-evidence-bundle.md) — 02-26
+- [PR #5781: docs(GEMINI): add SafeToAutoRun=true policy for git commit/push](sources/pr-5781-docs-gemini-add-safetoautorun-true-policy-for-git.md) — 02-26
+- [PR #5782: Rename /ralph to /ralph_custom, free /ralph for plugin](sources/pr-5782-rename-ralph-to-ralph-custom-free-ralph-for-plugin.md) — 02-26
+- [PR #5783: fix: allow SMOKE_TOKEN auth for streaming route on preview](sources/pr-5783-fix-allow-smoke-token-auth-for-streaming-route-on.md) — 03-07
+- [PR #5784: feat: add Ralph dashboard and automation scripts](sources/pr-5784-feat-add-ralph-dashboard-and-automation-scripts.md) — 02-27
+- [PR #5785: feat: Add Ralph autonomous workflow suite (dashboard, runner, monitoring)](sources/pr-5785-feat-add-ralph-autonomous-workflow-suite-dashboard.md) — 02-26
+- [PR #5786: fix: PR #261 export review feedback - FD leak, command injection, OAuth skip_help, filters](sources/pr-5786-fix-pr-261-export-review-feedback-fd-leak-command.md) — 02-27
+- [PR #5788: fix: Reinforce shell-safety — explicit multi-line commit rules for AntiGravity/IDE parsing](sources/pr-5788-fix-reinforce-shell-safety-explicit-multi-line-com.md) — 03-03
+- [PR #5789: Improve ralph scripts: symlink safety, custom repo paths, and tool validation](sources/pr-5789-improve-ralph-scripts-symlink-safety-custom-repo-p.md) — 02-27
+- [PR #5791: Add pluggable AI agent support (claude, codex, amp)](sources/pr-5791-add-pluggable-ai-agent-support-claude-codex-amp.md) — 02-28
+- [PR #5793: feat(ralph): harden run cleanup + add shell command-path regression coverage](sources/pr-5793-feat-ralph-harden-run-cleanup-add-shell-command-pa.md) — 03-01
+- [PR #5795: fix(ui): match campaign list highlight to planning block style](sources/pr-5795-fix-ui-match-campaign-list-highlight-to-planning-b.md) — 02-28
+- [PR #5796: feat(ui): dragon welcome screen with twin_dragon.webp background](sources/pr-5796-feat-ui-dragon-welcome-screen-with-twin-dragon-web.md) — 03-01
+- [PR #5798: fix: expose ai_orch run defaults in top-level help](sources/pr-5798-fix-expose-ai-orch-run-defaults-in-top-level-help.md) — 02-28
+- [PR #5799: fix: eliminate HuggingFace 429 cold-start delays (24-28s → 10s)](sources/pr-5799-fix-eliminate-huggingface-429-cold-start-delays-24.md) — 03-01
+- [PR #5802: feat(ui): ember particle background for fantasy theme + self-hosted CI hardening](sources/pr-5802-feat-ui-ember-particle-background-for-fantasy-them.md) — 03-01
+- [PR #5803: chore: remove RALPH_UNSAFE_CONFIRM gate from Ralph](sources/pr-5803-chore-remove-ralph-unsafe-confirm-gate-from-ralph.md) — 03-01
+- [PR #5806: Add macOS launchd self-hosted runner setup script](sources/pr-5806-add-macos-launchd-self-hosted-runner-setup-script.md) — 03-01
+- [PR #5807: fix(ui): reduce panel opacity for more ember visibility](sources/pr-5807-fix-ui-reduce-panel-opacity-for-more-ember-visibil.md) — 03-01
+- [PR #5808: perf: defer startup imports, optimize first paint, and harden OpenClaw tunnel flow](sources/pr-5808-perf-defer-startup-imports-optimize-first-paint-an.md) — 03-02
+- [PR #5810: fix: redirect orchestration worktrees to /tmp to prevent disk bloat](sources/pr-5810-fix-redirect-orchestration-worktrees-to-tmp-to-pre.md) — 03-02
+- [PR #5812: feat: lazy warmup, benchmark fixes, and SMOKE_TOKEN centralization](sources/pr-5812-feat-lazy-warmup-benchmark-fixes-and-smoke-token-c.md) — 03-03
+- [PR #5813: fix: cache context reclassification — eliminate double-billing + evidence quality](sources/pr-5813-fix-cache-context-reclassification-eliminate-doubl.md) — 03-07
+- [PR #5814: Design reset: OSS-first self-hosted runner cutover](sources/pr-5814-design-reset-oss-first-self-hosted-runner-cutover.md) — 03-02
+- [PR #5817: Fix self-hosted MVP shard wiring to prevent duplicate suite runs](sources/pr-5817-fix-self-hosted-mvp-shard-wiring-to-prevent-duplic.md) — 03-02
+- [PR #5818: Self-hosted CI: stabilize mikey routing and shard regressions](sources/pr-5818-self-hosted-ci-stabilize-mikey-routing-and-shard-r.md) — 03-03
+- [PR #5820: chore: ignore .agentloop/ and .beads/.dolt/ local runtime directories](sources/pr-5820-chore-ignore-agentloop-and-beads-dolt-local-runtim.md) — 03-03
+- [PR #5822: chore: remove old self-hosted/ macOS runner scripts](sources/pr-5822-chore-remove-old-self-hosted-macos-runner-scripts.md) — 03-03
+- [PR #5824: refactor(ai_orch): replace orchestration pipeline with simple passthrough + async runner](sources/pr-5824-refactor-ai-orch-replace-orchestration-pipeline-wi.md) — 03-03
+- [PR #5826: refactor(testing_utils): extract shared scenario runner orchestration](sources/pr-5826-refactor-testing-utils-extract-shared-scenario-run.md) — 03-03
+- [PR #5827: Make git status optional in header command](sources/pr-5827-make-git-status-optional-in-header-command.md) — 03-04
+- [PR #5828: feat(automation): run codex-update flow in headless mode](sources/pr-5828-feat-automation-run-codex-update-flow-in-headless.md) — 03-03
+- [PR #5830: feat: ralph-pair.sh — deterministic verifier for ralph](sources/pr-5830-feat-ralph-pair-sh-deterministic-verifier-for-ralp.md) — 03-03
+- [PR #5831: ci: move Directory tests to self-hosted runners](sources/pr-5831-ci-move-directory-tests-to-self-hosted-runners.md) — 03-03
+- [PR #5832: fix: raise RuntimeError when rmtree silently fails in _fresh_clone](sources/pr-5832-fix-raise-runtimeerror-when-rmtree-silently-fails.md) — 03-03
+- [PR #5833: docs: cross-system companions + shared auth design for worldai_claw](sources/pr-5833-docs-cross-system-companions-shared-auth-design-fo.md) — 03-04
+- [PR #5834: chore: delete legacy pair versions (pairv1, pairv2, orchestration)](sources/pr-5834-chore-delete-legacy-pair-versions-pairv1-pairv2-or.md) — 03-03
+- [PR #5835: chore: Publish automation 0.2.167 and orchestration 0.1.88 to PyPI](sources/pr-5835-chore-publish-automation-0-2-167-and-orchestration.md) — 03-03
+- [PR #5836: Sync main branch commits (integrate.sh)](sources/pr-5836-sync-main-branch-commits-integrate-sh.md) — 03-03
+- [PR #5837: Ralph: MiniMax support + PRD-based completion](sources/pr-5837-ralph-minimax-support-prd-based-completion.md) — 03-04
+- [PR #5838: feat(automation): add Mission Control ai_orch bridge wrapper and integration design](sources/pr-5838-feat-automation-add-mission-control-ai-orch-bridge.md) — 03-05
+- [PR #5839: Make codex-update automation headless by default](sources/pr-5839-make-codex-update-automation-headless-by-default.md) — 03-03
+- [PR #5840: chore(ai_orch): default mission-control run model to sonnet](sources/pr-5840-chore-ai-orch-default-mission-control-run-model-to.md) — 03-03
+- [PR #5844: Implement WorldAI Tools MCP Proxy runtime with real JSON-RPC evidence](sources/pr-5844-implement-worldai-tools-mcp-proxy-runtime-with-rea.md) — 03-06
+- [PR #5845: fix(codex-update): use headed off-screen Chrome to bypass Cloudflare bot detection](sources/pr-5845-fix-codex-update-use-headed-off-screen-chrome-to-b.md) — 03-04
+- [PR #5846: chore: add local.sh symlink](sources/pr-5846-chore-add-local-sh-symlink.md) — 03-04
+- [PR #5847: fix: avatar close button + double pip to 4x (176px)](sources/pr-5847-fix-avatar-close-button-double-pip-to-4x-176px.md) — 03-04
+- [PR #5848: Docs: make CLAUDE.md use git-header hook footer](sources/pr-5848-docs-make-claude-md-use-git-header-hook-footer.md) — 03-04
+- [PR #5849: Enable OpenRouter streaming in continue_story_streaming](sources/pr-5849-enable-openrouter-streaming-in-continue-story-stre.md) — 03-08
+- [PR #5850: Route /pair to ralph-pair script](sources/pr-5850-route-pair-to-ralph-pair-script.md) — 03-04
+- [PR #5851: feat: default Arion avatar, bigger sizes, drag-to-reposition crop](sources/pr-5851-feat-default-arion-avatar-bigger-sizes-drag-to-rep.md) — 03-06
+- [PR #5852: feat(backup): add OpenClaw conversations to Dropbox backup](sources/pr-5852-feat-backup-add-openclaw-conversations-to-dropbox.md) — 03-04
+- [PR #5853: Fix campaign_id log context lifecycle in interaction flows (TDD)](sources/pr-5853-fix-campaign-id-log-context-lifecycle-in-interacti.md) — 03-04
+- [PR #5854: fix: surface equipped_items in character sheet display (equipment UI + stat bonuses + schema keys)](sources/pr-5854-fix-surface-equipped-items-in-character-sheet-disp.md) — 03-08
+- [PR #5855: Consolidate planning commands and add mandatory code simplification step](sources/pr-5855-consolidate-planning-commands-and-add-mandatory-co.md) — 03-05
+- [PR #5856: Integrate claude-plugins-official patterns into 6 commands](sources/pr-5856-integrate-claude-plugins-official-patterns-into-6.md) — 03-06
+- [PR #5857: feat: OpenClaw Tailscale-only tunnel and browser test hardening](sources/pr-5857-feat-openclaw-tailscale-only-tunnel-and-browser-te.md) — 03-08
+- [PR #5858: Harden MCP proxy auth, validation, and harness reliability](sources/pr-5858-harden-mcp-proxy-auth-validation-and-harness-relia.md) — 03-05
+- [PR #5859: Add /coderabbit and /cr commands for CodeRabbit review prompts](sources/pr-5859-add-coderabbit-and-cr-commands-for-coderabbit-revi.md) — 03-05
+- [PR #5860: fix: classifier startup degrades gracefully on HuggingFace 429](sources/pr-5860-fix-classifier-startup-degrades-gracefully-on-hugg.md) — 03-05
+- [PR #5861: follow-up: GCS-backed FastEmbed model sourcing + cache bootstrap simplification](sources/pr-5861-follow-up-gcs-backed-fastembed-model-sourcing-cach.md) — 03-06
+- [PR #5862: chore: remove remaining pair_execute.py stale references](sources/pr-5862-chore-remove-remaining-pair-execute-py-stale-refer.md) — 03-09
+- [PR #5864: Follow-up: tighten deploy-confirm validation and dry-run behavior in MCP proxy](sources/pr-5864-follow-up-tighten-deploy-confirm-validation-and-dr.md) — 03-06
+- [PR #5865: Orchestration: cap child process memory](sources/pr-5865-orchestration-cap-child-process-memory.md) — 03-06
+- [PR #5866: ui: redesign chat loading spinner to be a minimal dark glass pill](sources/pr-5866-ui-redesign-chat-loading-spinner-to-be-a-minimal-d.md) — 03-08
+- [PR #5867: chore: publish orchestration 0.1.93 and automation 0.2.176 to PyPI](sources/pr-5867-chore-publish-orchestration-0-1-93-and-automation.md) — 03-06
+- [PR #5868: feat(commands): add /er and /evidence_review slash commands to repo](sources/pr-5868-feat-commands-add-er-and-evidence-review-slash-com.md) — 03-07
+- [PR #5869: Fix /localexportcommands Ralph export and make /ralph repo-agnostic](sources/pr-5869-fix-localexportcommands-ralph-export-and-make-ralp.md) — 03-07
+- [PR #5870: fix(orch): derive --agent-cli help from CLI_PROFILES (adds minimax)](sources/pr-5870-fix-orch-derive-agent-cli-help-from-cli-profiles-a.md) — 03-07
+- [PR #5872: fix: add missing check_github_requirements to scripts/mcp_common.sh](sources/pr-5872-fix-add-missing-check-github-requirements-to-scrip.md) — 03-08
+- [PR #5873: fix(statusline): two-line status with context bar and clickable PR URL](sources/pr-5873-fix-statusline-two-line-status-with-context-bar-an.md) — 03-08
+- [PR #5874: Add cmux-steer skill: control another cmux terminal tab via socket](sources/pr-5874-add-cmux-steer-skill-control-another-cmux-terminal.md) — 03-08
+- [PR #5875: Move sign out button from campaigns page to settings](sources/pr-5875-move-sign-out-button-from-campaigns-page-to-settin.md) — 03-08
+- [PR #5876: fix: make spinner background more transparent](sources/pr-5876-fix-make-spinner-background-more-transparent.md) — 03-08
+- [PR #5877: fix: populate spells for spellcasting classes during character creation](sources/pr-5877-fix-populate-spells-for-spellcasting-classes-durin.md) — 03-09
+- [PR #5878: fix(settings): settings button click now renders settings page correctly](sources/pr-5878-fix-settings-settings-button-click-now-renders-set.md) — 03-08
+- [PR #5879: feat(openclaw,mcp): personal API keys + Funnel migration + strict trace/evidence hardening](sources/pr-5879-feat-openclaw-mcp-personal-api-keys-funnel-migrati.md) — 03-27
+- [PR #5880: fix: robust streaming LLM fallback — correct JSON guard, mock-mode unification, and de-duplicated narrative classifier](sources/pr-5880-fix-robust-streaming-llm-fallback-correct-json-gua.md) — 03-08
+- [PR #5881: feat(mcp): add worldai stdio MCP adapter and plugin config](sources/pr-5881-feat-mcp-add-worldai-stdio-mcp-adapter-and-plugin.md) — 03-11
+- [PR #5882: Move bulky docs artifacts to archive repo (round 1)](sources/pr-5882-move-bulky-docs-artifacts-to-archive-repo-round-1.md) — 03-08
+- [PR #5883: Move genesis, image_reference, and remaining archive assets](sources/pr-5883-move-genesis-image-reference-and-remaining-archive.md) — 03-08
+- [PR #5885: Add disk_audit.sh — deep disk usage analysis and cleanup](sources/pr-5885-add-disk-audit-sh-deep-disk-usage-analysis-and-cle.md) — 03-08
+- [PR #5886: Add native PR scheduler installer](sources/pr-5886-add-native-pr-scheduler-installer.md) — 03-08
+- [PR #5887: automation: route native catch-up jobs through mctrl wrapper](sources/pr-5887-automation-route-native-catch-up-jobs-through-mctr.md) — 03-09
+- [PR #5888: fix(preview): restore Docker world assets and fail fast](sources/pr-5888-fix-preview-restore-docker-world-assets-and-fail-f.md) — 03-09
+- [PR #5889: Fix settings listener re-init after SPA navigation](sources/pr-5889-fix-settings-listener-re-init-after-spa-navigation.md) — 03-14
+- [PR #5892: fix: harden codex automation runtime reporting (soft-fail codex-api)](sources/pr-5892-fix-harden-codex-automation-runtime-reporting-soft.md) — 03-11
+- [PR #5894: fix(smoke): use require_action_resolution=False in mock mode for dice roll](sources/pr-5894-fix-smoke-use-require-action-resolution-false-in-m.md) — 03-09
+- [PR #5913: Finalize beads_rust cutover for .beads artifacts](sources/pr-5913-finalize-beads-rust-cutover-for-beads-artifacts.md) — 03-09
+- [PR #5915: fix(smoke): decouple SMOKE_TOKEN auth from mock LLM activation](sources/pr-5915-fix-smoke-decouple-smoke-token-auth-from-mock-llm.md) — 03-09
+- [PR #5916: Migrate .beads workflow to beads_rust (br)](sources/pr-5916-migrate-beads-workflow-to-beads-rust-br.md) — 03-09
+- [PR #5932: feat: Add /loop integration for Ralph and Pair commands](sources/pr-5932-feat-add-loop-integration-for-ralph-and-pair-comma.md) — 03-10
+- [PR #5934: fix(automation): add missing mocks for git symbolic-ref in tests](sources/pr-5934-fix-automation-add-missing-mocks-for-git-symbolic.md) — 03-10
+- [PR #5935: fix: remove duplicate evidence_review alias to prevent recursion](sources/pr-5935-fix-remove-duplicate-evidence-review-alias-to-prev.md) — 03-10
+- [PR #5937: chore: add Codebase Statistics section and update README](sources/pr-5937-chore-add-codebase-statistics-section-and-update-r.md) — 03-10
+- [PR #5939: docs: add runner quarantine troubleshooting](sources/pr-5939-docs-add-runner-quarantine-troubleshooting.md) — 03-11
+- [PR #5940: chore: sync package versions to latest published](sources/pr-5940-chore-sync-package-versions-to-latest-published.md) — 03-11
+- [PR #5941: ci: ping CodeRabbit on push to PR branches](sources/pr-5941-ci-ping-coderabbit-on-push-to-pr-branches.md) — 03-12
+- [PR #5942: [agento] fix: CodeRabbit ping — Standardize bot naming and update progress bar rendering handle and post-only-after-push guardrail](sources/pr-5942-agento-fix-coderabbit-ping-standardize-bot-naming.md) — 03-14
+- [PR #5945: fix: use turn_number instead of player_turn for living world triggers](sources/pr-5945-fix-use-turn-number-instead-of-player-turn-for-liv.md) — 03-12
+- [PR #5946: fix: centralize turn tracking, fix living-world UI rendering and payload normalization](sources/pr-5946-fix-centralize-turn-tracking-fix-living-world-ui-r.md) — 03-13
+- [PR #5948: ci: add launchd auto-start for OSS Docker runners on macOS](sources/pr-5948-ci-add-launchd-auto-start-for-oss-docker-runners-o.md) — 03-13
+- [PR #5949: chore: ignore .beads_backup_*/ directories](sources/pr-5949-chore-ignore-beads-backup-directories.md) — 03-13
+- [PR #5950: ci: pin Python to 3.12 on self-hosted runners](sources/pr-5950-ci-pin-python-to-3-12-on-self-hosted-runners.md) — 03-13
+- [PR #5952: Fix export of .mjs scripts and correct script directory paths](sources/pr-5952-fix-export-of-mjs-scripts-and-correct-script-direc.md) — 03-14
+- [PR #5953: feat(codex): add Codex hooks and exportcommands support](sources/pr-5953-feat-codex-add-codex-hooks-and-exportcommands-supp.md) — 03-14
+- [PR #5955: feat: add /claw command for direct OpenClaw gateway dispatch (no timeout)](sources/pr-5955-feat-add-claw-command-for-direct-openclaw-gateway.md) — 03-14
+- [PR #5956: chore: remove stale mcp-gmail-agent.md and add scheduled_tasks.lock to gitignore](sources/pr-5956-chore-remove-stale-mcp-gmail-agent-md-and-add-sche.md) — 03-14
+- [PR #5957: chore: untrack .claude/scheduled_tasks.lock](sources/pr-5957-chore-untrack-claude-scheduled-tasks-lock.md) — 03-14
+- [PR #5958: [agento] feat: add --thinking low to openclaw agent command in /claw](sources/pr-5958-agento-feat-add-thinking-low-to-openclaw-agent-co.md) — 03-14
+- [PR #5959: Feat/claw native openclaw dispatch](sources/pr-5959-feat-claw-native-openclaw-dispatch.md) — 03-14
+- [PR #5960: chore: remove husky git hooks](sources/pr-5960-chore-remove-husky-git-hooks.md) — 03-14
+- [PR #5961: [agento] fix: prevent thread leak in codex-api PR monitor](sources/pr-5961-agento-fix-prevent-thread-leak-in-codex-api-pr-mo.md) — 03-14
+- [PR #5962: fix: add fallback message for spells endpoint and validate classifier timeout](sources/pr-5962-fix-add-fallback-message-for-spells-endpoint-and-v.md) — 03-14
+- [PR #5963: Add LLM-driven Custom Campaign Wizard with 7-round guided setup](sources/pr-5963-add-llm-driven-custom-campaign-wizard-with-7-round.md) — 03-16
+- [PR #5965: feat(mem0): UserPromptSubmit+Stop hooks for automatic memory recall/save](sources/pr-5965-feat-mem0-userpromptsubmit-stop-hooks-for-automati.md) — 03-15
+- [PR #5966: feat(scripts): add check-pr-status.sh — poll PRs, seek CodeRabbit approval](sources/pr-5966-feat-scripts-add-check-pr-status-sh-poll-prs-seek.md) — 03-15
+- [PR #5967: fix(ci): disable rate limits on PR preview deploys for smoke tests](sources/pr-5967-fix-ci-disable-rate-limits-on-pr-preview-deploys-f.md) — 03-15
+- [PR #5969: fix(rate_limiting): elevate BYOK rate limits to 5000 daily / 1000 per 5h with refactored architecture](sources/pr-5969-fix-rate-limiting-elevate-byok-rate-limits-to-5000.md) — 03-14
+- [PR #5970: chore: add /worldai-usage-email slash command](sources/pr-5970-chore-add-worldai-usage-email-slash-command.md) — 03-15
+- [PR #5971: Revert PR #5962: restore CSS loading (fix broken fantasy theme)](sources/pr-5971-revert-pr-5962-restore-css-loading-fix-broken-fant.md) — 03-14
+- [PR #5974: feat(rate-limiting): redesign rate limit modal, BYOK CTA, cache fix](sources/pr-5974-feat-rate-limiting-redesign-rate-limit-modal-byok.md) — 03-15
+- [PR #5975: fix: actor-keyed merge for background_events prevents field stripping on partial LLM updates](sources/pr-5975-fix-actor-keyed-merge-for-background-events-preven.md) — 03-15
+- [PR #5976: feat(mem0): add Codex SessionStart+Stop hooks for automatic memory recall/save](sources/pr-5976-feat-mem0-add-codex-sessionstart-stop-hooks-for-au.md) — 03-15
+- [PR #5977: fix(living-world): streaming path extraction + backfill for world events](sources/pr-5977-fix-living-world-streaming-path-extraction-backfil.md) — 03-15
+- [PR #5979: feat(ui): custom action button, scroll-on-choice, new-campaign first-entry scroll, streaming guard](sources/pr-5979-feat-ui-custom-action-button-scroll-on-choice-new.md) — 03-15
+- [PR #5981: Add dragon favicon to all site pages](sources/pr-5981-add-dragon-favicon-to-all-site-pages.md) — 03-15
+- [PR #5986: fix(living-world): CodeRabbit followups — key-presence checks, state_updates creation, full scene filter](sources/pr-5986-fix-living-world-coderabbit-followups-key-presence.md) — 03-15
+- [PR #5988: chore: CodeRabbit ping - use 10-min duplicate cooldown](sources/pr-5988-chore-coderabbit-ping-use-10-min-duplicate-cooldow.md) — 03-15
+- [PR #5992: fix(level-up): prevent stale level_up_pending from blocking planning block](sources/pr-5992-fix-level-up-prevent-stale-level-up-pending-from-b.md) — 03-31
+- [PR #5994: chore: gitignore Claude Code per-session artifacts](sources/pr-5994-chore-gitignore-claude-code-per-session-artifacts.md) — 03-15
+- [PR #5995: fix(integrate): skip main checkout when branch is in a worktree](sources/pr-5995-fix-integrate-skip-main-checkout-when-branch-is-in.md) — 03-15
+- [PR #5996: fix(ci): remove Claude settings.json validation from run_tests.sh](sources/pr-5996-fix-ci-remove-claude-settings-json-validation-from.md) — 03-15
+- [PR #5998: fix(faction): guard division by zero when defenders have hp=0](sources/pr-5998-fix-faction-guard-division-by-zero-when-defenders.md) — 03-19
+- [PR #5999: feat(commands): migrate from custom MCP memory to native Claude memory](sources/pr-5999-feat-commands-migrate-from-custom-mcp-memory-to-na.md) — 03-16
+- [PR #6000: fix(hooks): address CodeRabbit review for git-header.sh](sources/pr-6000-fix-hooks-address-coderabbit-review-for-git-header.md) — 03-19
+- [PR #6001: Revert "Add LLM-driven Custom Campaign Wizard with 7-round guided setup"](sources/pr-6001-revert-add-llm-driven-custom-campaign-wizard-with.md) — 03-17
+- [PR #6002: Revert "Revert "Add LLM-driven Custom Campaign Wizard with 7-round guided setup""](sources/pr-6002-revert-revert-add-llm-driven-custom-campaign-wizar.md) — 03-19
+- [PR #6003: fix(cache): FAILED_PRECONDITION model-mismatch root cause + hardened fallback](sources/pr-6003-fix-cache-failed-precondition-model-mismatch-root.md) — 03-17
+- [PR #6004: fix(streaming): streaming path missing turn tracking + freeze_time + living world](sources/pr-6004-fix-streaming-streaming-path-missing-turn-tracking.md) — 03-18
+- [PR #6005: Add install_mcp.sh for worldai MCP server + uv project setup](sources/pr-6005-add-install-mcp-sh-for-worldai-mcp-server-uv-proje.md) — 03-17
+- [PR #6006: fix(cache): bead followups rev-ukw/834/oy0/ixu/9td2/n1fc/seg3 + streaming CE roadmap](sources/pr-6006-fix-cache-bead-followups-rev-ukw-834-oy0-ixu-9td2.md) — 03-18
+- [PR #6007: chore: backup bashrc and gitconfig](sources/pr-6007-chore-backup-bashrc-and-gitconfig.md) — 03-18
+- [PR #6009: fix: reduce mobile avatar to 50% size on small screens](sources/pr-6009-fix-reduce-mobile-avatar-to-50-size-on-small-scree.md) — 03-18
+- [PR #6010: fix(streaming): reject malformed JSON in _classify_raw_narrative to prevent raw JSON stored as story text](sources/pr-6010-fix-streaming-reject-malformed-json-in-classify-ra.md) — 03-18
+- [PR #6014: fix(lw+streaming): persistence + P3 streaming fixes combined](sources/pr-6014-fix-lw-streaming-persistence-p3-streaming-fixes-co.md) — 03-19
+- [PR #6015: fix(lw+infra): character creation LW fix, compliance scoring, prompt isolation, test infra](sources/pr-6015-fix-lw-infra-character-creation-lw-fix-compliance.md) — 03-19
+- [PR #6016: fix: add Step 7.5 to resolve conversation threads for fixed/deferred comments](sources/pr-6016-fix-add-step-7-5-to-resolve-conversation-threads-f.md) — 03-19
+- [PR #6017: add: polish slash command](sources/pr-6017-add-polish-slash-command.md) — 03-18
+- [PR #6018: [agento] docs: testing design for MCP, HTTP, and UI test cases](sources/pr-6018-agento-docs-testing-design-for-mcp-http-and-ui-te.md) — 03-19
+- [PR #6020: fix: sanitize error messages for production](sources/pr-6020-fix-sanitize-error-messages-for-production.md) — 04-04
+- [PR #6022: fix: disable auth bypass mechanisms in production](sources/pr-6022-fix-disable-auth-bypass-mechanisms-in-production.md) — 04-07
+- [PR #6023: fix: add input validation for production](sources/pr-6023-fix-add-input-validation-for-production.md) — 04-05
+- [PR #6026: fix: add rate limit abuse logging for production](sources/pr-6026-fix-add-rate-limit-abuse-logging-for-production.md) — 04-07
+- [PR #6027: fix(claw): source .bashrc via interactive shell for env var inheritance](sources/pr-6027-fix-claw-source-bashrc-via-interactive-shell-for-e.md) — 03-19
+- [PR #6029: fix(testing): add real WAHttpTest core flows + testing_mcp/ui core tests](sources/pr-6029-fix-testing-add-real-wahttptest-core-flows-testing.md) — 03-20
+- [PR #6030: [agento] fix: trim large traceability state keys (rev-l6c)](sources/pr-6030-agento-fix-trim-large-traceability-state-keys-rev.md) — 04-04
+- [PR #6031: fix: guard battle sim defender hp edge cases (rev-qzc rev-5ki rev-hep)](sources/pr-6031-fix-guard-battle-sim-defender-hp-edge-cases-rev-qz.md) — 04-04
+- [PR #6033: Revert "Merge pull request #6002 from jleechanorg/revert-6001-revert-…](sources/pr-6033-revert-merge-pull-request-6002-from-jleechanorg-re.md) — 03-19
+- [PR #6035: chore: add .coderabbit.yaml with auto-approve enabled](sources/pr-6035-chore-add-coderabbit-yaml-with-auto-approve-enable.md) — 03-20
+- [PR #6036: feat(statusline): add statusLine config and context caching to repo](sources/pr-6036-feat-statusline-add-statusline-config-and-context.md) — 03-21
+- [PR #6037: [agento] fix(.claude): address CodeRabbit and Codex review comments on settings.json](sources/pr-6037-agento-fix-claude-address-coderabbit-and-codex-re.md) — 04-04
+- [PR #6038: chore(deps-dev): bump flatted from 3.3.3 to 3.4.2](sources/pr-6038-chore-deps-dev-bump-flatted-from-3-3-3-to-3-4-2.md) — 04-04
+- [PR #6039: [P2] [agento] /copilot: remove auto thread resolution + API reduction docs](sources/pr-6039-p2-agento-copilot-remove-auto-thread-resolution-a.md) — 04-05
+- [PR #6040: fix(agent-routing): add same-agent circuit breaker safeguards (rev-wq1r)](sources/pr-6040-fix-agent-routing-add-same-agent-circuit-breaker-s.md) — 04-07
+- [PR #6041: docs(roadmap): exportcommands Python→shell simplification plan](sources/pr-6041-docs-roadmap-exportcommands-python-shell-simplific.md) — 03-23
+- [PR #6042: [agento] feat(commands): add /polish — iterative PR green loop with all claude-commands#272 review fixes](sources/pr-6042-agento-feat-commands-add-polish-iterative-pr-gree.md) — 03-23
+- [PR #6043: test(claude): fix git-header statusline essential output assertion](sources/pr-6043-test-claude-fix-git-header-statusline-essential-ou.md) — 03-23
+- [PR #6044: fix: resolve source bugs identified during exportcommands export review](sources/pr-6044-fix-resolve-source-bugs-identified-during-exportco.md) — 03-23
+- [PR #6045: feat(scripts): command usage analysis script and report](sources/pr-6045-feat-scripts-command-usage-analysis-script-and-rep.md) — 03-24
+- [PR #6048: fix(llm_service): eliminate cache double-billing for story entries (REV-8mgs)](sources/pr-6048-fix-llm-service-eliminate-cache-double-billing-for.md) — 04-04
+- [PR #6049: fix: apply export hardcoded-reference parameterization](sources/pr-6049-fix-apply-export-hardcoded-reference-parameterizat.md) — 03-26
+- [PR #6050: chore(deps-dev): bump brace-expansion from 5.0.2 to 5.0.5](sources/pr-6050-chore-deps-dev-bump-brace-expansion-from-5-0-2-to.md) — 04-04
+- [PR #6051: [agento] fix(openclaw,mcp): guard user_email=None + merge duplicate import](sources/pr-6051-agento-fix-openclaw-mcp-guard-user-email-none-mer.md) — 03-28
+- [PR #6052: fix(tests): convert 9 async tests to use asyncio.run()](sources/pr-6052-fix-tests-convert-9-async-tests-to-use-asyncio-run.md) — 03-31
+- [PR #6053: chore(ci): add skeptic gate + cron workflows](sources/pr-6053-chore-ci-add-skeptic-gate-cron-workflows.md) — 03-29
+- [PR #6054: chore(deps): bump path-to-regexp from 0.1.12 to 0.1.13 in /mcp_servers/secondo](sources/pr-6054-chore-deps-bump-path-to-regexp-from-0-1-12-to-0-1.md) — 04-04
+- [PR #6055: [agento] feat(openclaw): public OpenAI-compatible inference proxy (/v1/chat/completions)](sources/pr-6055-agento-feat-openclaw-public-openai-compatible-inf.md) — 04-05
+- [PR #6056: [agento] fix(hooks,automation): idle hook suppression, evidence guard, metadata hooks, Python modernization](sources/pr-6056-agento-fix-hooks-automation-idle-hook-suppression.md) — 04-04
+- [PR #6059: feat(avatar): add Grok/xAI AI avatar generation](sources/pr-6059-feat-avatar-add-grok-xai-ai-avatar-generation.md) — 03-30
+- [PR #6060: feat(avatar): download avatar image functionality](sources/pr-6060-feat-avatar-download-avatar-image-functionality.md) — 03-30
+- [PR #6062: [agento] fix(commands): remove empty-guard fallback from evidence_review Step 1](sources/pr-6062-agento-fix-commands-remove-empty-guard-fallback-f.md) — 03-30
+- [PR #6063: [agento] feat(avatar): add download avatar image functionality](sources/pr-6063-agento-feat-avatar-add-download-avatar-image-func.md) — 03-30
+- [PR #6064: beads: harness follow-up issues (rev-atvn, rev-gi16, rev-y3c4)](sources/pr-6064-beads-harness-follow-up-issues-rev-atvn-rev-gi16-r.md) — 04-05
+- [PR #6065: fix(avatar-crop): correct drag bounds — both axes independently draggable](sources/pr-6065-fix-avatar-crop-correct-drag-bounds-both-axes-inde.md) — 04-02
+- [PR #6203: fix(firestore): restore _Sentinel class and aggregate query API (PR #6102 regression)](sources/pr-6203-fix-firestore-restore-sentinel-class-and-aggregate.md) — 04-11
+- [PR #6204: fix(world-logic): hoist 5 fields out of rewards_box block](sources/pr-6204-fix-world-logic-hoist-5-fields-out-of-rewards-box.md) — 04-11
+- [PR #4: Add recurring content backup cron job](sources/pr-4-add-recurring-content-backup-cron-job.md) — 02-14
+- [PR #5: chore: Scaffold development scripts and enhance AGENTS.md](sources/pr-5-chore-scaffold-development-scripts-and-enhance-age.md) — 02-14
+- [PR #6: feat: add automated backup system with full machine setup](sources/pr-6-feat-add-automated-backup-system-with-full-machine.md) — 02-15
+- [PR #7: feat: Genesis + Orchestration TDD implementation](sources/pr-7-feat-genesis-orchestration-tdd-implementation.md) — 02-26
+- [PR #8: fix: address PR #7 review issues](sources/pr-8-fix-address-pr-7-review-issues.md) — 02-28
+- [PR #9: test: add evidence tests for webhook payload, cron path, and production layout](sources/pr-9-test-add-evidence-tests-for-webhook-payload-cron-p.md) — 02-28
+- [PR #10: feat(orchestration): Phases 3+4 — Mission Control integration, TaskPoller, AgentRegistry, infra](sources/pr-10-feat-orchestration-phases-3-4-mission-control-inte.md) — 03-02
+- [PR #11: config: update SOUL guidance and add MEMORY learnings](sources/pr-11-config-update-soul-guidance-and-add-memory-learnin.md) — 03-03
+- [PR #12: docs: add user preference learnings reference from OpenClaw sessions](sources/pr-12-docs-add-user-preference-learnings-reference-from.md) — 03-03
+- [PR #13: feat(soul): expand short prompts using DM history before MC dispatch (ORCH-7wk)](sources/pr-13-feat-soul-expand-short-prompts-using-dm-history-be.md) — 03-02
+- [PR #14: feat: add Discord engineering Q&A bot config](sources/pr-14-feat-add-discord-engineering-q-a-bot-config.md) — 03-02
+- [PR #15: fix(config): stabilize second-opinion MCP tool wiring](sources/pr-15-fix-config-stabilize-second-opinion-mcp-tool-wirin.md) — 03-03
+- [PR #16: fix: task poller dispatch + mc_client boards path](sources/pr-16-fix-task-poller-dispatch-mc-client-boards-path.md) — 03-03
+- [PR #17: Task poller: auto-complete dispatched tasks](sources/pr-17-task-poller-auto-complete-dispatched-tasks.md) — 03-03
+- [PR #19: docs: sync active ~/.openclaw remembering preferences](sources/pr-19-docs-sync-active-openclaw-remembering-preferences.md) — 03-03
+- [PR #20: docs: remove duplicate .openclaw preference file](sources/pr-20-docs-remove-duplicate-openclaw-preference-file.md) — 03-03
+- [PR #21: config: enforce explicit repo targeting for GH PR workflows](sources/pr-21-config-enforce-explicit-repo-targeting-for-gh-pr-w.md) — 03-03
+- [PR #22: config: wire Genesis cron integration and document gateway dependency](sources/pr-22-config-wire-genesis-cron-integration-and-document.md) — 03-03
+- [PR #25: Enforce gateway cron guardrail for OpenClaw (no system crontab)](sources/pr-25-enforce-gateway-cron-guardrail-for-openclaw-no-sys.md) — 03-05
+- [PR #27: docs(roadmap): durable behavior hardening plan from beads](sources/pr-27-docs-roadmap-durable-behavior-hardening-plan-from.md) — 03-05
+- [PR #30: docs+fix: autonomous delivery pipeline design + unresolved-thread merge gate + CodeRabbit review fixes](sources/pr-30-docs-fix-autonomous-delivery-pipeline-design-unres.md) — 03-05
+- [PR #32: feat(orchestration): thread ack watcher + in-process MC poller runtime](sources/pr-32-feat-orchestration-thread-ack-watcher-in-process-m.md) — 03-04
+- [PR #34: Batch A: harden Mission Control PR trigger workflow](sources/pr-34-batch-a-harden-mission-control-pr-trigger-workflow.md) — 03-04
+- [PR #35: Batch B: deterministic PR lifecycle automation state machine](sources/pr-35-batch-b-deterministic-pr-lifecycle-automation-stat.md) — 03-05
+- [PR #36: feat(batch-c): evidence schema + webhook-first GitHub integration](sources/pr-36-feat-batch-c-evidence-schema-webhook-first-github.md) — 03-05
+- [PR #37: feat: openclaw-mcp-adapter extension, Slack MCP integration, and workflow security](sources/pr-37-feat-openclaw-mcp-adapter-extension-slack-mcp-inte.md) — 03-04
+- [PR #39: feat(backup): harden openclaw backup — rsync, latest/ symlink, triple-scheduler stagger, watchdog](sources/pr-39-feat-backup-harden-openclaw-backup-rsync-latest-sy.md) — 03-04
+- [PR #40: feat(backup): add Dropbox rsync backup for ~/.openclaw (ORCH-59b)](sources/pr-40-feat-backup-add-dropbox-rsync-backup-for-openclaw.md) — 03-04
+- [PR #42: docs: design cmux integration for Mission Control and Ralph](sources/pr-42-docs-design-cmux-integration-for-mission-control-a.md) — 03-05
+- [PR #43: fix(ci): prevent skipped PR-fix trigger on Slack mention](sources/pr-43-fix-ci-prevent-skipped-pr-fix-trigger-on-slack-men.md) — 03-05
+- [PR #45: fix(orchestration): start HeartbeatPoller alongside TaskPoller (ORCH-uti)](sources/pr-45-fix-orchestration-start-heartbeatpoller-alongside.md) — 03-05
+- [PR #46: fix(mc): remove keyword-based CLI routing from TaskPoller](sources/pr-46-fix-mc-remove-keyword-based-cli-routing-from-taskp.md) — 03-05
+- [PR #47: fix: workflow security tests + LifecyclePoller exception logging (ORCH-apz, ORCH-1g8)](sources/pr-47-fix-workflow-security-tests-lifecyclepoller-except.md) — 03-05
+- [PR #49: Mission Control: add feature-flagged cmux bridge dispatch](sources/pr-49-mission-control-add-feature-flagged-cmux-bridge-di.md) — 03-05
+- [PR #50: docs(roadmap): gateway-direct dispatch + cmux migration architecture plan](sources/pr-50-docs-roadmap-gateway-direct-dispatch-cmux-migratio.md) — 03-05
+- [PR #51: ORCH-jym: validate and resolve repo targets via allowlist](sources/pr-51-orch-jym-validate-and-resolve-repo-targets-via-all.md) — 03-05
+- [PR #52: ORCH-xrf: validate branch target to prevent contamination](sources/pr-52-orch-xrf-validate-branch-target-to-prevent-contami.md) — 03-05
+- [PR #53: feat(orch-qxw): DISPATCHING atomic state to prevent double-dispatch](sources/pr-53-feat-orch-qxw-dispatching-atomic-state-to-prevent.md) — 03-05
+- [PR #54: feat(orch-k9n): reconciliation loop — detect stuck tasks, no auto-transition](sources/pr-54-feat-orch-k9n-reconciliation-loop-detect-stuck-tas.md) — 03-05
+- [PR #55: fix: restore files mass-deleted by 7d5b9e1efd + gitignore .openclaw-backups/](sources/pr-55-fix-restore-files-mass-deleted-by-7d5b9e1efd-gitig.md) — 03-05
+- [PR #56: feat(orch-8w8): add EXECUTION_FAILED status for non-zero ai_orch exit](sources/pr-56-feat-orch-8w8-add-execution-failed-status-for-non.md) — 03-05
+- [PR #59: feat: MVP loopback notifier + session supervisor wiring](sources/pr-59-feat-mvp-loopback-notifier-session-supervisor-wiri.md) — 03-08
+- [PR #62: fix: tighten CodeRabbit ping policy — push-triggered only, no timer](sources/pr-62-fix-tighten-coderabbit-ping-policy-push-triggered.md) — 03-07
+- [PR #65: docs: document PR automation runs via openclaw gateway cron, not system crontab](sources/pr-65-docs-document-pr-automation-runs-via-openclaw-gate.md) — 03-07
+- [PR #67: test: harden MCP roundtrip and launchd startup follow-ups](sources/pr-67-test-harden-mcp-roundtrip-and-launchd-startup-foll.md) — 03-08
+- [PR #70: fix(mctrl): harden orchestration reliability and Slack evidence](sources/pr-70-fix-mctrl-harden-orchestration-reliability-and-sla.md) — 03-09
+- [PR #71: mctrl: harden retries, async ACP roundtrip, and dispatch env isolation](sources/pr-71-mctrl-harden-retries-async-acp-roundtrip-and-dispa.md) — 03-10
+- [PR #72: docs: Replace Me design — autonomous agent memory & identity](sources/pr-72-docs-replace-me-design-autonomous-agent-memory-ide.md) — 03-10
+- [PR #73: docs: align mctrl lifecycle roadmap](sources/pr-73-docs-align-mctrl-lifecycle-roadmap.md) — 03-09
+- [PR #74: feat(agento): Agent-Orchestrator integration via keyword routing](sources/pr-74-feat-agento-agent-orchestrator-integration-via-key.md) — 03-10
+- [PR #81: chore: sync openclaw config, add sync script, debounceMs:0](sources/pr-81-chore-sync-openclaw-config-add-sync-script-debounc.md) — 03-10
+- [PR #83: fix: reconciler false deferral, missing push instruction, notification text](sources/pr-83-fix-reconciler-false-deferral-missing-push-instruc.md) — 03-10
+- [PR #84: test: regression tests for ACK reaction config placement (ORCH-ack1, ORCH-gw1)](sources/pr-84-test-regression-tests-for-ack-reaction-config-plac.md) — 03-10
+- [PR #85: feat: add cross-repo worktree support to dispatch_task](sources/pr-85-feat-add-cross-repo-worktree-support-to-dispatch-t.md) — 03-10
+- [PR #86: feat: implement MCP HTTP equivalence JSON-RPC 2.0 router (TDD)](sources/pr-86-feat-implement-mcp-http-equivalence-json-rpc-2-0-r.md) — 03-10
+- [PR #87: fix: add gateway token to launchd env vars after install](sources/pr-87-fix-add-gateway-token-to-launchd-env-vars-after-in.md) — 03-10
+- [PR #88: fix: dead code cleanup, hmac bug fix, and stale test repair](sources/pr-88-fix-dead-code-cleanup-hmac-bug-fix-and-stale-test.md) — 03-10
+- [PR #89: feat: add comprehensive repo doctor check](sources/pr-89-feat-add-comprehensive-repo-doctor-check.md) — 03-11
+- [PR #90: mctrl: add outbox dead-letter, retry bounds, and status telemetry](sources/pr-90-mctrl-add-outbox-dead-letter-retry-bounds-and-stat.md) — 03-11
+- [PR #91: SOUL: require real memory search before footer](sources/pr-91-soul-require-real-memory-search-before-footer.md) — 03-11
+- [PR #92: feat: add autopilot policy with task classes and Slack thread contract](sources/pr-92-feat-add-autopilot-policy-with-task-classes-and-sl.md) — 03-12
+- [PR #93: feat: add autopilot policy with deterministic Slack thread contract](sources/pr-93-feat-add-autopilot-policy-with-deterministic-slack.md) — 03-11
+- [PR #94: fix: add TZ=America/Los_Angeles to schedule plists](sources/pr-94-fix-add-tz-america-los-angeles-to-schedule-plists.md) — 03-12
+- [PR #95: feat: add proof payload to task completion notifications](sources/pr-95-feat-add-proof-payload-to-task-completion-notifica.md) — 03-12
+- [PR #96: orchestration: make reconciliation remote-agnostic (no origin default)](sources/pr-96-orchestration-make-reconciliation-remote-agnostic.md) — 03-11
+- [PR #97: Add Slack history->memory sync, mem0 migration TDD plan, and launchd installer verification](sources/pr-97-add-slack-history-memory-sync-mem0-migration-tdd-p.md) — 03-11
+- [PR #98: ci: ping CodeRabbit on push to PR branches](sources/pr-98-ci-ping-coderabbit-on-push-to-pr-branches.md) — 03-11
+- [PR #99: fix: CodeRabbit ping workflow — correct handle, guardrails, docs](sources/pr-99-fix-coderabbit-ping-workflow-correct-handle-guardr.md) — 03-12
+- [PR #100: fix: make supervisor multi-registry and set agento as default orchestrator lane](sources/pr-100-fix-make-supervisor-multi-registry-and-set-agento.md) — 03-11
+- [PR #101: docs: clarify README is personal workspace](sources/pr-101-docs-clarify-readme-is-personal-workspace.md) — 03-12
+- [PR #102: docs: smoke test bead rev-faf](sources/pr-102-docs-smoke-test-bead-rev-faf.md) — 03-12
+- [PR #103: Mem0 fast-path roadmap + persistent-backend validation evidence](sources/pr-103-mem0-fast-path-roadmap-persistent-backend-validati.md) — 03-12
+- [PR #104: Add OpenClaw gateway load test script](sources/pr-104-add-openclaw-gateway-load-test-script.md) — 03-11
+- [PR #105: config: disable built-in browser and enforce agent-browser](sources/pr-105-config-disable-built-in-browser-and-enforce-agent.md) — 03-12
+- [PR #106: feat: agento worktree requirement and AO dashboard launchd management](sources/pr-106-feat-agento-worktree-requirement-and-ao-dashboard.md) — 03-12
+- [PR #107: feat(agento): document fresh worktree behavior and add launchd-managed dashboard](sources/pr-107-feat-agento-document-fresh-worktree-behavior-and-a.md) — 03-12
+- [PR #108: docs: append bead rev-22j to README](sources/pr-108-docs-append-bead-rev-22j-to-readme.md) — 03-12
+- [PR #109: Add sym routing to launchd-managed Symphony daemon](sources/pr-109-add-sym-routing-to-launchd-managed-symphony-daemon.md) — 03-12
+- [PR #110: Add dedicated OpenClaw monitor agent files](sources/pr-110-add-dedicated-openclaw-monitor-agent-files.md) — 03-12
+- [PR #111: docs: Symphony E2E test marker](sources/pr-111-docs-symphony-e2e-test-marker.md) — 03-12
+- [PR #112: agento: AO-native remediation loop + intentional CI probe](sources/pr-112-agento-ao-native-remediation-loop-intentional-ci-p.md) — 03-12
+- [PR #113: probe: E2E probe 1773342687 README marker](sources/pr-113-probe-e2e-probe-1773342687-readme-marker.md) — 03-12
+- [PR #114: chore: add Claude Code metadata-updater hook for Agent Orchestrator](sources/pr-114-chore-add-claude-code-metadata-updater-hook-for-ag.md) — 03-12
+- [PR #117: AO plumbing sync: add parity matrix and lifecycle/webhook TDD alignment](sources/pr-117-ao-plumbing-sync-add-parity-matrix-and-lifecycle-w.md) — 03-13
+- [PR #118: chore: dedupe symphony runtime ownership](sources/pr-118-chore-dedupe-symphony-runtime-ownership.md) — 03-13
+- [PR #121: feat: simplify mctrl orchestration — remove cross-repo dispatch, outbox retry/dead-letter, proof payload](sources/pr-121-feat-simplify-mctrl-orchestration-remove-cross-rep.md) — 03-13
+- [PR #122: chore: token hygiene, doctor token probes, sync safety guards, model additions](sources/pr-122-chore-token-hygiene-doctor-token-probes-sync-safet.md) — 03-14
+- [PR #123: docs: add mem0 crash-resume runbook](sources/pr-123-docs-add-mem0-crash-resume-runbook.md) — 03-15
+- [PR #124: chore: add ORCH-cbo.6 implementation follow-up beads](sources/pr-124-chore-add-orch-cbo-6-implementation-follow-up-bead.md) — 03-14
+- [PR #126: chore: rehome repo — ~/.openclaw/ as git root (ORCH-d6i)](sources/pr-126-chore-rehome-repo-openclaw-as-git-root-orch-d6i.md) — 03-14
+- [PR #127: fix: notifier normalizers, drain sender, metrics, and supervisor path separator](sources/pr-127-fix-notifier-normalizers-drain-sender-metrics-and.md) — 03-14
+- [PR #129: feat(mem0): shared qdrant memory architecture + scaffolding for openclaw, Claude, Codex](sources/pr-129-feat-mem0-shared-qdrant-memory-architecture-scaffo.md) — 03-14
+- [PR #130: docs: revise orchestration design — AO primary, deterministic-first](sources/pr-130-docs-revise-orchestration-design-ao-primary-determ.md) — 03-14
+- [PR #132: docs: orchestration impl roadmap, harness engineering philosophy](sources/pr-132-docs-orchestration-impl-roadmap-harness-engineerin.md) — 03-14
+- [PR #133: docs: add Phase 3.5 Parallel Retries to orchestration roadmap](sources/pr-133-docs-add-phase-3-5-parallel-retries-to-orchestrati.md) — 03-14
+- [PR #134: feat(orchestration): AO orchestration layer — Phase 1-3 modules + tests](sources/pr-134-feat-orchestration-ao-orchestration-layer-phase-1.md) — 03-14
+- [PR #135: fix: hardcode tokens directly in openclaw.json, eliminate all ${ENV_VAR} placeholders](sources/pr-135-fix-hardcode-tokens-directly-in-openclaw-json-elim.md) — 03-14
+- [PR #140: fix(mem0): expose infer param + raise MemoryWriteError on silent drop](sources/pr-140-fix-mem0-expose-infer-param-raise-memorywriteerror.md) — 03-14
+- [PR #142: feat(agento): proactive recovery — auto-stop merged PRs, respawn stuck sessions](sources/pr-142-feat-agento-proactive-recovery-auto-stop-merged-pr.md) — 03-14
+- [PR #143: docs(roadmap): Phase 4 E2E unblocking — check_ci_status, _call_llm, webhook daemon](sources/pr-143-docs-roadmap-phase-4-e2e-unblocking-check-ci-statu.md) — 03-14
+- [PR #145: chore: gitignore hygiene, TOOLS.md rewrite, install script improvemen…](sources/pr-145-chore-gitignore-hygiene-tools-md-rewrite-install-s.md) — 03-14
+- [PR #148: fix: address #143 review comments - webhook endpoint, add e2e doc](sources/pr-148-fix-address-143-review-comments-webhook-endpoint-a.md) — 03-15
+- [PR #149: feat(orchestration): Phase 4 — CI polling, webhook daemon, pattern synthesis, SSE events](sources/pr-149-feat-orchestration-phase-4-ci-polling-webhook-daem.md) — 03-15
+- [PR #150: feat(monitor): enable canary health check by default + teach agent to respond](sources/pr-150-feat-monitor-enable-canary-health-check-by-default.md) — 03-15
+- [PR #151: fix(.claude): use absolute path for metadata-updater hook in worktree](sources/pr-151-fix-claude-use-absolute-path-for-metadata-updater.md) — 03-15
+- [PR #152: fix(mem0): fix session scanner to find all Claude/Codex sessions](sources/pr-152-fix-mem0-fix-session-scanner-to-find-all-claude-co.md) — 03-15
+- [PR #153: chore: track agent-orchestrator.yaml in repo](sources/pr-153-chore-track-agent-orchestrator-yaml-in-repo.md) — 03-15
+- [PR #154: test(mem0): add cross-session and hard recall test evidence (2026-03-14)](sources/pr-154-test-mem0-add-cross-session-and-hard-recall-test-e.md) — 03-15
+- [PR #155: feat(notify): parallel Slack+email escalation alerts + webhook daemon in install script](sources/pr-155-feat-notify-parallel-slack-email-escalation-alerts.md) — 03-15
+- [PR #156: chore: CodeRabbit ping - use 10-min duplicate cooldown](sources/pr-156-chore-coderabbit-ping-use-10-min-duplicate-cooldow.md) — 03-15
+- [PR #157: [agento] fix(mem0): fix autoRecall userId mismatch (Python snake_case vs Node.js camelCase)](sources/pr-157-agento-fix-mem0-fix-autorecall-userid-mismatch-py.md) — 03-15
+- [PR #158: chore: remove orphaned genesis tests and update CLAUDE.md](sources/pr-158-chore-remove-orphaned-genesis-tests-and-update-cla.md) — 03-15
+- [PR #159: [agento] docs(ao): document cursor-agent plugin integration](sources/pr-159-agento-docs-ao-document-cursor-agent-plugin-integ.md) — 03-15
+- [PR #160: fix(soul): make memory citation actionable with 8-char ID prefix](sources/pr-160-fix-soul-make-memory-citation-actionable-with-8-ch.md) — 03-15
+- [PR #161: test: add PR #42 deadbeef1234 test cases for pull_request.opened](sources/pr-161-test-add-pr-42-deadbeef1234-test-cases-for-pull-re.md) — 03-15
+- [PR #162: fix(webhook): include workflow lane in remediation issue title](sources/pr-162-fix-webhook-include-workflow-lane-in-remediation-i.md) — 03-15
+- [PR #163: e2e: done](sources/pr-163-e2e-done.md) — 03-15
+- [PR #164: fix(webhook): include workflow lane in remediation issue title](sources/pr-164-fix-webhook-include-workflow-lane-in-remediation-i.md) — 03-15
+- [PR #165: e2e: done](sources/pr-165-e2e-done.md) — 03-15
+- [PR #166: test: add PR #165 testsha999 test cases for pull_request.opened](sources/pr-166-test-add-pr-165-testsha999-test-cases-for-pull-req.md) — 03-15
+- [PR #167: fix(webhook): ignore pull_request.closed events in remediation queue](sources/pr-167-fix-webhook-ignore-pull-request-closed-events-in-r.md) — 03-15
+- [PR #168: fix(webhook): handle check_suite.completed events without PR association](sources/pr-168-fix-webhook-handle-check-suite-completed-events-wi.md) — 03-16
+- [PR #169: docs(ao): document gemini-agent plugin integration](sources/pr-169-docs-ao-document-gemini-agent-plugin-integration.md) — 03-15
+- [PR #170: fix: remove duplicate repo_to_ao_project call and add author notification tests](sources/pr-170-fix-remove-duplicate-repo-to-ao-project-call-and-a.md) — 03-15
+- [PR #171: chore: sync beads + AO PR monitor log (orch gap items)](sources/pr-171-chore-sync-beads-ao-pr-monitor-log-orch-gap-items.md) — 03-15
+- [PR #172: fix(ao-backfill): support backfillAllPRs flag + auto-prune stale worktrees](sources/pr-172-fix-ao-backfill-support-backfillallprs-flag-auto-p.md) — 03-16
+- [PR #173: refactor: 4-phase orchestration & LaunchAgent simplification (Phases 1–4 complete)](sources/pr-173-refactor-4-phase-orchestration-launchagent-simplif.md) — 03-15
+- [PR #174: feat(mem0): switch embedder to local Ollama (nomic-embed-text, 768 dims)](sources/pr-174-feat-mem0-switch-embedder-to-local-ollama-nomic-em.md) — 03-16
+- [PR #175: docs(mem0): local ingest kickoff plan + bead ORCH-0qvy](sources/pr-175-docs-mem0-local-ingest-kickoff-plan-bead-orch-0qvy.md) — 03-16
+- [PR #176: fix: trap backfill PID on exit + wire shared utils in auto_review_trigger](sources/pr-176-fix-trap-backfill-pid-on-exit-wire-shared-utils-in.md) — 03-16
+- [PR #177: docs: orchestration system design document (MD + HTML)](sources/pr-177-docs-orchestration-system-design-document-md-html.md) — 03-16
+- [PR #179: docs: worktree isolation policy — never edit ~ directly](sources/pr-179-docs-worktree-isolation-policy-never-edit-directly.md) — 03-16
+- [PR #180: docs: memory-track next steps — beads + roadmap update](sources/pr-180-docs-memory-track-next-steps-beads-roadmap-update.md) — 03-16
+- [PR #181: docs: replace ASCII diagrams with Mermaid in orchestration system design](sources/pr-181-docs-replace-ascii-diagrams-with-mermaid-in-orches.md) — 03-16
+- [PR #182: feat: agento-report skill + ao-backfill poke rate-limiting + SOUL policy updates](sources/pr-182-feat-agento-report-skill-ao-backfill-poke-rate-lim.md) — 03-16
+- [PR #183: feat(backfill): pass 3 — poke idle sessions with open PR comments](sources/pr-183-feat-backfill-pass-3-poke-idle-sessions-with-open.md) — 03-16
+- [PR #185: fix: use homebrew python3 in agento-manager launchd plist](sources/pr-185-fix-use-homebrew-python3-in-agento-manager-launchd.md) — 03-16
+- [PR #186: docs: fix AO escalation mermaid diagram in HTML + html-always policy](sources/pr-186-docs-fix-ao-escalation-mermaid-diagram-in-html-htm.md) — 03-16
+- [PR #187: chore: gap analysis beads + roadmap update (2026-03-15)](sources/pr-187-chore-gap-analysis-beads-roadmap-update-2026-03-15.md) — 03-16
+- [PR #188: feat(orchestration): implement Sprint 1 - auto-merge gate and stuck d…](sources/pr-188-feat-orchestration-implement-sprint-1-auto-merge-g.md) — 03-16
+- [PR #189: docs: mem0 Feb recall baseline + next-steps beads](sources/pr-189-docs-mem0-feb-recall-baseline-next-steps-beads.md) — 03-16
+- [PR #190: docs: move north star section to top of orchestration design doc](sources/pr-190-docs-move-north-star-section-to-top-of-orchestrati.md) — 03-16
+- [PR #191: docs: post-ingest 5% recall results + userId/user_id mismatch finding](sources/pr-191-docs-post-ingest-5-recall-results-userid-user-id-m.md) — 03-16
+- [PR #192: fix(ao-backfill): honor backfillAllPRs in respawn gate + jq filter](sources/pr-192-fix-ao-backfill-honor-backfillallprs-in-respawn-ga.md) — 03-16
+- [PR #193: feat(parallel-retry): record outcomes for pattern learning (Phase 3.5)](sources/pr-193-feat-parallel-retry-record-outcomes-for-pattern-le.md) — 03-16
+- [PR #194: feat(orch): Phase 4 CodeRabbit merge gate](sources/pr-194-feat-orch-phase-4-coderabbit-merge-gate.md) — 03-16
+- [PR #195: fix: post-merge bug fixes — pokedAt write, cr_approved comparison, unstable label](sources/pr-195-fix-post-merge-bug-fixes-pokedat-write-cr-approved.md) — 03-16
+- [PR #196: docs: add Value Router design proposal](sources/pr-196-docs-add-value-router-design-proposal.md) — 03-16
+- [PR #197: Add CODEOWNERS for auto-review of scripts and .claude directories](sources/pr-197-add-codeowners-for-auto-review-of-scripts-and-clau.md) — 03-16
+- [PR #198: feat: wire AO notifier-webhook to escalation handler on port 19888](sources/pr-198-feat-wire-ao-notifier-webhook-to-escalation-handle.md) — 03-16
+- [PR #199: feat: Auto-resolve review threads after fix push (orch-1roe)](sources/pr-199-feat-auto-resolve-review-threads-after-fix-push-or.md) — 03-16
+- [PR #201: feat(orch-atao): ao-pr-poller — 5-min launchd polling daemon](sources/pr-201-feat-orch-atao-ao-pr-poller-5-min-launchd-polling.md) — 03-16
+- [PR #202: feat: add MCP mail coordination, beads tracking, chatty agents](sources/pr-202-feat-add-mcp-mail-coordination-beads-tracking-chat.md) — 03-16
+- [PR #205: feat: add evidence review as merge gate](sources/pr-205-feat-add-evidence-review-as-merge-gate.md) — 03-16
+- [PR #207: docs: Slack Socket Mode reliability investigation and solutions](sources/pr-207-docs-slack-socket-mode-reliability-investigation-a.md) — 03-16
+- [PR #209: Feat/ao pr poller](sources/pr-209-feat-ao-pr-poller.md) — 03-16
+- [PR #210: Expand CODEOWNERS with agent review paths](sources/pr-210-expand-codeowners-with-agent-review-paths.md) — 03-16
+- [PR #211: Wire auto_resolve_threads into escalation flow](sources/pr-211-wire-auto-resolve-threads-into-escalation-flow.md) — 03-16
+- [PR #212: feat: add escalation anomaly detector](sources/pr-212-feat-add-escalation-anomaly-detector.md) — 03-16
+- [PR #213: fix: reset window_start in inc_cap() when window has expired](sources/pr-213-fix-reset-window-start-in-inc-cap-when-window-has.md) — 03-16
+- [PR #214: fix(ao-pr-poller): detect AO worktrees + add agent-orchestrator mapping](sources/pr-214-fix-ao-pr-poller-detect-ao-worktrees-add-agent-orc.md) — 03-16
+- [PR #215: fix: update tar to 7.5.11 - CVE-2026](sources/pr-215-fix-update-tar-to-7-5-11-cve-2026.md) — 03-16
+- [PR #216: feat: backfill-memory-md includes Claude Code auto-memory files](sources/pr-216-feat-backfill-memory-md-includes-claude-code-auto.md) — 03-16
+- [PR #219: [P2] feat: add daily 9am bug hunt + evidence review gate](sources/pr-219-p2-feat-add-daily-9am-bug-hunt-evidence-review-ga.md) — 03-16
+- [PR #220: fix(orchestrator): add CI unstable handling rules to prevent agent stalls](sources/pr-220-fix-orchestrator-add-ci-unstable-handling-rules-to.md) — 03-16
+- [PR #221: fix(ao-backfill): merge gate bugs — MERGEABLE type, CR bot login, CI fail-closed, flock continue](sources/pr-221-fix-ao-backfill-merge-gate-bugs-mergeable-type-cr.md) — 03-16
+- [PR #223: fix(auto-resolve-threads): use branch param to scope file detection to latest push](sources/pr-223-fix-auto-resolve-threads-use-branch-param-to-scope.md) — 03-16
+- [PR #224: [P1] fix(escalation-router): fail-closed CR gate + add CI/thread checks before MergeAction](sources/pr-224-p1-fix-escalation-router-fail-closed-cr-gate-add.md) — 03-16
+- [PR #225: fix: expand PR green conditions from 4 to 6](sources/pr-225-fix-expand-pr-green-conditions-from-4-to-6.md) — 03-16
+- [PR #226: [P1] fix(action-executor): remove premature/post-merge thread resolve calls, fix inline imports](sources/pr-226-p1-fix-action-executor-remove-premature-post-merg.md) — 03-16
+- [PR #227: [P1] feat(auto-resolve-threads): reply to thread with fix commit before resolving](sources/pr-227-p1-feat-auto-resolve-threads-reply-to-thread-with.md) — 03-16
+- [PR #228: [P2] feat: add repo-specific /er and /evidence_review slash commands](sources/pr-228-p2-feat-add-repo-specific-er-and-evidence-review.md) — 03-16
+- [PR #231: feat: add GCP Cloud Run webhook receiver (Phase 1)](sources/pr-231-feat-add-gcp-cloud-run-webhook-receiver-phase-1.md) — 03-16
+- [PR #232: feat: add ao-pr-poller launchd installer](sources/pr-232-feat-add-ao-pr-poller-launchd-installer.md) — 03-16
+- [PR #233: fix(ao-pr-poller): add resume logic for idle sessions, remove worktree skip](sources/pr-233-fix-ao-pr-poller-add-resume-logic-for-idle-session.md) — 03-16
+- [PR #234: chore: add P0/P1/P2 priority convention to SOUL.md and agentRules](sources/pr-234-chore-add-p0-p1-p2-priority-convention-to-soul-md.md) — 03-16
+- [PR #235: feat: add AGENT_BASE_RULES.md for static memory injection](sources/pr-235-feat-add-agent-base-rules-md-for-static-memory-inj.md) — 03-16
+- [PR #238: Memory233232](sources/pr-238-memory233232.md) — 03-16
+- [PR #241: fix(ao-scripts): harden shell scripts -- locking, portability, error propagation](sources/pr-241-fix-ao-scripts-harden-shell-scripts-locking-portab.md) — 03-16
+- [PR #244: docs: mem0 post-ingest recall test results + beads updates (2026-03-16)](sources/pr-244-docs-mem0-post-ingest-recall-test-results-beads-up.md) — 03-18
+- [PR #248: [P2] feat(merge-gate): add OpenClaw self-review as 7th merge criteria](sources/pr-248-p2-feat-merge-gate-add-openclaw-self-review-as-7t.md) — 03-17
+- [PR #250: [P1] feat(mem0): add --project filter for jleechanclaw-only ingest](sources/pr-250-p1-feat-mem0-add-project-filter-for-jleechanclaw.md) — 03-18
+- [PR #255: feat(ao-backfill): merge gate enforcement (orch-hryp)](sources/pr-255-feat-ao-backfill-merge-gate-enforcement-orch-hryp.md) — 03-17
+- [PR #257: docs(roadmap): evidence review schema — two-stage verification pipeline](sources/pr-257-docs-roadmap-evidence-review-schema-two-stage-veri.md) — 03-17
+- [PR #258: chore: gitignore .beads/ history snapshots](sources/pr-258-chore-gitignore-beads-history-snapshots.md) — 03-17
+- [PR #261: feat(autonomy): wire Pass 4 auto-merge to unified 7-condition gate](sources/pr-261-feat-autonomy-wire-pass-4-auto-merge-to-unified-7.md) — 03-17
+- [PR #262: fix: correct Update bot references and refactor bug hunt daily script handle + bug-hunt-daily.sh correctness fixes](sources/pr-262-fix-correct-update-bot-references-and-refactor-bug.md) — 03-17
+- [PR #265: feat: two-stage evidence review pipeline with independent reviewer](sources/pr-265-feat-two-stage-evidence-review-pipeline-with-indep.md) — 03-18
+- [PR #267: docs(roadmap): AO vs Python orchestration — what each layer does](sources/pr-267-docs-roadmap-ao-vs-python-orchestration-what-each.md) — 03-17
+- [PR #268: feat: two-agent PR review loop via MCP mail (orch-tlkk)](sources/pr-268-feat-two-agent-pr-review-loop-via-mcp-mail-orch-tl.md) — 03-18
+- [PR #269: feat: Phase 2 — MCP mail + merge_gate reviewer APPROVED (orch-tlkk.2)](sources/pr-269-feat-phase-2-mcp-mail-merge-gate-reviewer-approved.md) — 03-18
+- [PR #270: fix(bug-hunt): correct date filter for merged PRs](sources/pr-270-fix-bug-hunt-correct-date-filter-for-merged-prs.md) — 03-19
+- [PR #275: Add daily 9am launchd job for harness engineering compliance](sources/pr-275-add-daily-9am-launchd-job-for-harness-engineering.md) — 03-19
+- [PR #278: fix: verdict comment markers + fail-closed evidence gates](sources/pr-278-fix-verdict-comment-markers-fail-closed-evidence-g.md) — 03-19
+- [PR #281: fix: harness-analyzer crontab grep, weekday schedule, Red Lines, PR comments API](sources/pr-281-fix-harness-analyzer-crontab-grep-weekday-schedule.md) — 03-19
+- [PR #282: feat(agento): add rate-limit fallback for --claim-pr](sources/pr-282-feat-agento-add-rate-limit-fallback-for-claim-pr.md) — 03-20
+- [PR #283: docs: add postmortem + mandatory proof-of-work reporting](sources/pr-283-docs-add-postmortem-mandatory-proof-of-work-report.md) — 03-19
+- [PR #286: Docs/proof postmortem 20260319](sources/pr-286-docs-proof-postmortem-20260319.md) — 03-19
+- [PR #288: fix(monitor): show explicit failing checks in PROBLEM status, add age…](sources/pr-288-fix-monitor-show-explicit-failing-checks-in-proble.md) — 03-19
+- [PR #289: fix(monitor): show explicit failing checks in PROBLEM status, add age…](sources/pr-289-fix-monitor-show-explicit-failing-checks-in-proble.md) — 03-19
+- [PR #292: fix(harness): teach agents to detect empty-body CR APPROVED as fake](sources/pr-292-fix-harness-teach-agents-to-detect-empty-body-cr-a.md) — 03-20
+- [PR #294: feat: implement missing orchestration functions (stalled e2e fix)](sources/pr-294-feat-implement-missing-orchestration-functions-sta.md) — 03-20
+- [PR #295: fix(harness): AO yaml hardening, config redaction, and script fixes](sources/pr-295-fix-harness-ao-yaml-hardening-config-redaction-and.md) — 03-21
+- [PR #296: fix: portable install, unified MCP mail, README rewrite](sources/pr-296-fix-portable-install-unified-mcp-mail-readme-rewri.md) — 03-21
+- [PR #298: fix: wire merge_gate into poller, fix ao spawn arg, add auto-merge](sources/pr-298-fix-wire-merge-gate-into-poller-fix-ao-spawn-arg-a.md) — 03-20
+- [PR #299: [agento] Auto /er evidence review + slash command discovery for non-Claude agents](sources/pr-299-agento-auto-er-evidence-review-slash-command-disc.md) — 03-20
+- [PR #300: chore: deprecate 12 orchestration modules duplicated by agent-orchestrator](sources/pr-300-chore-deprecate-12-orchestration-modules-duplicate.md) — 03-20
+- [PR #301: fix(harness): deterministic analyzer auth token resolution](sources/pr-301-fix-harness-deterministic-analyzer-auth-token-reso.md) — 03-20
+- [PR #302: docs(harness): make gateway cron the only active scheduler contract](sources/pr-302-docs-harness-make-gateway-cron-the-only-active-sch.md) — 03-20
+- [PR #305: [P2] fix: check token file readability before reading](sources/pr-305-p2-fix-check-token-file-readability-before-readin.md) — 03-21
+- [PR #306: Add OpenClaw research page publishing helper + Caddy setup docs](sources/pr-306-add-openclaw-research-page-publishing-helper-caddy.md) — 03-20
+- [PR #307: [agento] chore: retire scripts/ao-resolve-threads.sh](sources/pr-307-agento-chore-retire-scripts-ao-resolve-threads-sh.md) — 03-21
+- [PR #308: fix(claw): security hardening for gateway dispatch](sources/pr-308-fix-claw-security-hardening-for-gateway-dispatch.md) — 03-21
+- [PR #309: chore: deprecate 12 orchestration modules — replace bodies with AO stubs (orch-rzq)](sources/pr-309-chore-deprecate-12-orchestration-modules-replace-b.md) — 03-21
+- [PR #310: [P2] chore: retire legacy agento helper/install scripts](sources/pr-310-p2-chore-retire-legacy-agento-helper-install-scri.md) — 03-21
+- [PR #311: [P2] chore: retire legacy stage2 reviewer module](sources/pr-311-p2-chore-retire-legacy-stage2-reviewer-module.md) — 03-21
+- [PR #312: [agento] docs: fix incorrect ao token show reference](sources/pr-312-agento-docs-fix-incorrect-ao-token-show-reference.md) — 03-21
+- [PR #313: fix(poller): repair zombie worktree cleanup, reap ao-* zombies, delete 3 dead modules](sources/pr-313-fix-poller-repair-zombie-worktree-cleanup-reap-ao.md) — 03-21
+- [PR #314: [agento] docs(readme): audit and fix accuracy of jleechanclaw README](sources/pr-314-agento-docs-readme-audit-and-fix-accuracy-of-jlee.md) — 03-21
+- [PR #315: docs: clarify user flow and AO integration in README](sources/pr-315-docs-clarify-user-flow-and-ao-integration-in-readm.md) — 03-21
+- [PR #316: doctor: make legacy cron non-fatal + AO/MCP checks configurable](sources/pr-316-doctor-make-legacy-cron-non-fatal-ao-mcp-checks-co.md) — 03-21
+- [PR #319: [agento] fix: MCP mail config updates (jleechan-q85n)](sources/pr-319-agento-fix-mcp-mail-config-updates-jleechan-q85n.md) — 03-21
+- [PR #320: [agento] fix: retire ao-pr-poller plist, add ao lifecycle-worker for agent-orchestrator](sources/pr-320-agento-fix-retire-ao-pr-poller-plist-add-ao-lifec.md) — 03-21
+- [PR #321: chore: delete 6 orchestration modules with no active callers](sources/pr-321-chore-delete-6-orchestration-modules-with-no-activ.md) — 03-21
+- [PR #322: [agento] fix: launchctl domain, retire ao-pr-poller, add lifecycle-worker for agent-orchestrator](sources/pr-322-agento-fix-launchctl-domain-retire-ao-pr-poller-a.md) — 03-21
+- [PR #323: [agento] chore: retire 19 Python orchestration modules duplicated by AO](sources/pr-323-agento-chore-retire-19-python-orchestration-modul.md) — 03-21
+- [PR #325: fix(ao): point jleechanclaw repo path to project_jleechanclaw clone](sources/pr-325-fix-ao-point-jleechanclaw-repo-path-to-project-jle.md) — 03-21
+- [PR #326: [P1] fix: disable orchestrator auto-merge](sources/pr-326-p1-fix-disable-orchestrator-auto-merge.md) — 03-21
+- [PR #327: chore: remove deprecated ao-backfill and ao-pr-poller scripts](sources/pr-327-chore-remove-deprecated-ao-backfill-and-ao-pr-poll.md) — 03-21
+- [PR #328: [P1] fix: delete retired test files, fix stuck threshold, fix dashboard](sources/pr-328-p1-fix-delete-retired-test-files-fix-stuck-thresh.md) — 03-21
+- [PR #329: feat: resolve slash commands before /claw dispatch](sources/pr-329-feat-resolve-slash-commands-before-claw-dispatch.md) — 03-21
+- [PR #330: feat: agent-aware slash command dispatch in /claw](sources/pr-330-feat-agent-aware-slash-command-dispatch-in-claw.md) — 03-21
+- [PR #331: [agento] chore: remove AGENT_BASE_RULES.md](sources/pr-331-agento-chore-remove-agent-base-rules-md.md) — 03-21
+- [PR #332: fix(agentRules): enforce CR verdict, inline comments, stuck threshold, and /er before done](sources/pr-332-fix-agentrules-enforce-cr-verdict-inline-comments.md) — 03-21
+- [PR #333: fix: update stale CLAUDE.md green table + fix launchd plist variable expansion](sources/pr-333-fix-update-stale-claude-md-green-table-fix-launchd.md) — 03-21
+- [PR #334: feat: 139 real integration tests for 8 orchestration modules](sources/pr-334-feat-139-real-integration-tests-for-8-orchestratio.md) — 03-21
+- [PR #339: [P1] fix: ao is canonical for coding tasks — preserve+expand task text, ban sessions_spawn](sources/pr-339-p1-fix-ao-is-canonical-for-coding-tasks-preserve.md) — 03-21
+- [PR #340: [agento] feat: coordinate on pre-existing CI failures + MCP mail before stop](sources/pr-340-agento-feat-coordinate-on-pre-existing-ci-failure.md) — 03-21
+- [PR #341: [P1] fix: dispatch-task skill — call ao spawn directly, retire dispatch_task.py path](sources/pr-341-p1-fix-dispatch-task-skill-call-ao-spawn-directly.md) — 03-21
+- [PR #342: fix: implement real agento fix loop in AI reviewer stress test](sources/pr-342-fix-implement-real-agento-fix-loop-in-ai-reviewer.md) — 03-21
+- [PR #344: [P2] chore: delete ao-pr-poller.sh and all references](sources/pr-344-p2-chore-delete-ao-pr-poller-sh-and-all-reference.md) — 03-21
+- [PR #345: fix(claw): add mandatory ao routing rule for openclaw embedded agent (orch-nkg)](sources/pr-345-fix-claw-add-mandatory-ao-routing-rule-for-opencla.md) — 03-21
+- [PR #346: fix: cleanup_zombie_worktree — correct git porcelain parsing, add tests](sources/pr-346-fix-cleanup-zombie-worktree-correct-git-porcelain.md) — 03-21
+- [PR #348: [P1] fix: agents auto-run /er headless via evidence-reviewer subagent](sources/pr-348-p1-fix-agents-auto-run-er-headless-via-evidence-r.md) — 03-21
+- [PR #349: [P1] fix: restore register_agent call with agent_name alias (was silently disabled)](sources/pr-349-p1-fix-restore-register-agent-call-with-agent-nam.md) — 03-21
+- [PR #351: [agento] Orchestrator: single-source agent rules + reaction GraphQL / evidence-reviewer alignment](sources/pr-351-agento-orchestrator-single-source-agent-rules-rea.md) — 03-22
+- [PR #352: chore: remove ao-pr-poller and related scripts](sources/pr-352-chore-remove-ao-pr-poller-and-related-scripts.md) — 03-21
+- [PR #353: chore: remove ao-pr-poller scripts and remaining references](sources/pr-353-chore-remove-ao-pr-poller-scripts-and-remaining-re.md) — 03-21
+- [PR #354: fix: re-spawn agent on exit to prevent orphaned PRs](sources/pr-354-fix-re-spawn-agent-on-exit-to-prevent-orphaned-prs.md) — 03-21
+- [PR #358: [P1] fix: unify green signal wording — canonical string for orchestrator pattern matching](sources/pr-358-p1-fix-unify-green-signal-wording-canonical-strin.md) — 03-21
+- [PR #359: fix: delete ao-pr-poller.sh (superseded by AO lifecycle-worker)](sources/pr-359-fix-delete-ao-pr-poller-sh-superseded-by-ao-lifecy.md) — 03-21
+- [PR #360: [P1] feat(launchd): migrate all gateway cron jobs to launchd with central installer](sources/pr-360-p1-feat-launchd-migrate-all-gateway-cron-jobs-to.md) — 03-23
+- [PR #361: [P1] fix(monitor): restore broken core MD symlinks; add health check](sources/pr-361-p1-fix-monitor-restore-broken-core-md-symlinks-ad.md) — 03-23
+- [PR #362: docs: sync audit output + fix FILE_MAP and document broken cron job](sources/pr-362-docs-sync-audit-output-fix-file-map-and-document-b.md) — 03-23
+- [PR #363: feat(agentor): extract logic into skill, slim commands to thin layers](sources/pr-363-feat-agentor-extract-logic-into-skill-slim-command.md) — 03-23
+- [PR #364: feat: add workspace observability report (weekly Monday 10am PT)](sources/pr-364-feat-add-workspace-observability-report-weekly-mon.md) — 03-23
+- [PR #366: harness: commitment durability — session-init protocol + COMMIT: format](sources/pr-366-harness-commitment-durability-session-init-protoco.md) — 03-23
+- [PR #367: [P2] fix(monitor): canary only fires on pre-existing probe failures](sources/pr-367-p2-fix-monitor-canary-only-fires-on-pre-existing.md) — 03-23
+- [PR #368: [P0] fix: tighten green criteria #3 — require body_len > 0 for genuine CR APPROVED](sources/pr-368-p0-fix-tighten-green-criteria-3-require-body-len.md) — 03-23
+- [PR #370: fix(launchd): point webhook plist at orchestration.webhook module](sources/pr-370-fix-launchd-point-webhook-plist-at-orchestration-w.md) — 03-23
+- [PR #371: feat(scheduled-jobs): convert reminder-only gateway cron jobs to real launchd execution](sources/pr-371-feat-scheduled-jobs-convert-reminder-only-gateway.md) — 03-23
+- [PR #372: harness: merge policy fix + /er re-run guard + autonomy beads](sources/pr-372-harness-merge-policy-fix-er-re-run-guard-autonomy.md) — 03-23
+- [PR #373: fix(launchd): wire scheduled jobs to correct UUIDs, add missing scripts](sources/pr-373-fix-launchd-wire-scheduled-jobs-to-correct-uuids-a.md) — 03-24
+- [PR #374: [P2] fix: remove emoji from green signal (orch-pofi)](sources/pr-374-p2-fix-remove-emoji-from-green-signal-orch-pofi.md) — 03-23
+- [PR #376: [agento] fix: store bug reports in repo instead of ~/.openclaw/logs](sources/pr-376-agento-fix-store-bug-reports-in-repo-instead-of-o.md) — 03-24
+- [PR #378: fix(bug-hunt): gate @openclaw escalation on positive bug count (#242)](sources/pr-378-fix-bug-hunt-gate-openclaw-escalation-on-positive.md) — 03-24
+- [PR #379: [agento] chore: triage issue 245 - no bugs found](sources/pr-379-agento-chore-triage-issue-245-no-bugs-found.md) — 03-24
+- [PR #380: [P1] fix: schedule plist install path + monitor summary verbosity](sources/pr-380-p1-fix-schedule-plist-install-path-monitor-summar.md) — 03-24
+- [PR #382: harness: CR body_len=0 fallback for trivial diffs — prevents manual unblocking loop](sources/pr-382-harness-cr-body-len-0-fallback-for-trivial-diffs-p.md) — 03-24
+- [PR #383: [agento] design: Antigravity multi-repo control plane](sources/pr-383-agento-design-antigravity-multi-repo-control-plan.md) — 03-26
+- [PR #384: fix: thread-reply-nudge covers all channels, not just one](sources/pr-384-fix-thread-reply-nudge-covers-all-channels-not-jus.md) — 03-24
+- [PR #385: feat(monitor): add canary bot token with precedence chain](sources/pr-385-feat-monitor-add-canary-bot-token-with-precedence.md) — 03-24
+- [PR #386: fix(P0/P1): agent-exited respawn guard + bug-hunt jq fail-closed](sources/pr-386-fix-p0-p1-agent-exited-respawn-guard-bug-hunt-jq-f.md) — 03-24
+- [PR #387: feat(soul): immediate text ack for Slack task requests](sources/pr-387-feat-soul-immediate-text-ack-for-slack-task-reques.md) — 03-24
+- [PR #388: [P2] feat(orch-wnf): Claude Code memory → OpenClaw bridge](sources/pr-388-p2-feat-orch-wnf-claude-code-memory-openclaw-brid.md) — 03-25
+- [PR #389: feat(mem0): Claude Code hooks for automatic memory recall + save (dual-write Qdrant + markdown)](sources/pr-389-feat-mem0-claude-code-hooks-for-automatic-memory-r.md) — 03-24
+- [PR #390: feat(commands): integrate Claude auto-memory read/write into /history /research /debug /learn /checkpoint](sources/pr-390-feat-commands-integrate-claude-auto-memory-read-wr.md) — 03-24
+- [PR #391: feat(commands): enhance /roadmap with situation survey, find-or-create beads/docs, Claude memory](sources/pr-391-feat-commands-enhance-roadmap-with-situation-surve.md) — 03-24
+- [PR #392: feat: human channel bridge — AO lifecycle → Slack C0ANK6HFW66](sources/pr-392-feat-human-channel-bridge-ao-lifecycle-slack-c0ank.md) — 03-24
+- [PR #393: [P0] fix(session-reaper): include ao-* sessions in zombie cleanup](sources/pr-393-p0-fix-session-reaper-include-ao-sessions-in-zomb.md) — 03-26
+- [PR #394: fix(mem0): correct config — ollama nomic-embed-text embedder + groq LLM (match existing collection)](sources/pr-394-fix-mem0-correct-config-ollama-nomic-embed-text-em.md) — 03-24
+- [PR #395: feat(claw): add learning-loop gate (Step A5.5) to /claw Path A](sources/pr-395-feat-claw-add-learning-loop-gate-step-a5-5-to-claw.md) — 03-24
+- [PR #397: fix(roadmap): preserve leading dash in project_key (remove .lstrip)](sources/pr-397-fix-roadmap-preserve-leading-dash-in-project-key-r.md) — 03-25
+- [PR #398: [P1] feat(thread): terminal status guarantee + missed-reply watchdog + cmux preflight validation](sources/pr-398-p1-feat-thread-terminal-status-guarantee-missed-r.md) — 03-25
+- [PR #399: [P0] fix(soul): prevent On-it ack being treated as terminal response (openclaw-silent-ack)](sources/pr-399-p0-fix-soul-prevent-on-it-ack-being-treated-as-te.md) — 03-25
+- [PR #400: fix(green-criteria): explicitly require body_len > 0 or confirming comment for CR APPROVED condition 3 (orch-jp8u)](sources/pr-400-fix-green-criteria-explicitly-require-body-len-0-o.md) — 03-25
+- [PR #401: feat(orch-dha): harness hygiene, model→minimax-m2-7, AO 6-green monitor](sources/pr-401-feat-orch-dha-harness-hygiene-model-minimax-m2-7-a.md) — 03-25
+- [PR #402: chore: mcp-mail ack log entries 2026-03-25 afternoon](sources/pr-402-chore-mcp-mail-ack-log-entries-2026-03-25-afternoo.md) — 03-26
+- [PR #403: [P2] feat(orch-k0e): PR session coverage audit + lifecycle-worker diagnostic skill](sources/pr-403-p2-feat-orch-k0e-pr-session-coverage-audit-lifecy.md) — 03-27
+- [PR #404: [P2] fix: remove redundant empty-string guards from review-requested and session-killed reminders](sources/pr-404-p2-fix-remove-redundant-empty-string-guards-from.md) — 03-27
+- [PR #405: feat: launchd gmail daily recap to #life](sources/pr-405-feat-launchd-gmail-daily-recap-to-life.md) — 03-27
+- [PR #406: [agento] feat: 7-green PR monitor — add all gate checks](sources/pr-406-agento-feat-7-green-pr-monitor-add-all-gate-check.md) — 03-27
+- [PR #407: [agento] feat: add skeptic-cron.yml workflow](sources/pr-407-agento-feat-add-skeptic-cron-yml-workflow.md) — 03-27
+- [PR #408: [P2] feat(eloop): add System Harness Audit phase to detect structural gaps](sources/pr-408-p2-feat-eloop-add-system-harness-audit-phase-to-d.md) — 03-27
+- [PR #409: feat: migrate living-blog:novel-hourly-status from gateway cron to launchd](sources/pr-409-feat-migrate-living-blog-novel-hourly-status-from.md) — 03-27
+- [PR #410: chore: session changes 2026-03-27 — ao yaml, scripts, memory, soul, bug reports](sources/pr-410-chore-session-changes-2026-03-27-ao-yaml-scripts-m.md) — 03-27
+- [PR #411: [agento][P2] fix: replace ao spawn --task with direct headless CLI invocations in bug-hunt](sources/pr-411-agento-p2-fix-replace-ao-spawn-task-with-direct-h.md) — 03-27
+- [PR #412: [agento] [P2] feat(bd-z14m): Create a launchd KeepAlive plist for the OpenClaw gateway process](sources/pr-412-agento-p2-feat-bd-z14m-create-a-launchd-keepalive.md) — 03-29
+- [PR #413: [agento] [P0] feat(skeptic): add skeptic-gate.yml; harden skeptic-cron Gates 5/6](sources/pr-413-agento-p0-feat-skeptic-add-skeptic-gate-yml-harde.md) — 03-27
+- [PR #414: [agento] [P1] fix(doctor.sh): 3 health-check improvements (bd-yk9h, bd-23ej, bd-oueo)](sources/pr-414-agento-p1-fix-doctor-sh-3-health-check-improvemen.md) — 03-27
+- [PR #415: [agento] feat: add check-pr-worker-coverage.sh for agento PR monitoring](sources/pr-415-agento-feat-add-check-pr-worker-coverage-sh-for-a.md) — 03-27
+- [PR #416: [agento] [P2] feat(ao-manager): unified launchd manager for all AO components](sources/pr-416-agento-p2-feat-ao-manager-unified-launchd-manager.md) — 03-27
+- [PR #417: [P1] feat(memory): safe one-off mem0-purge script + runbook for Benjamin false memories](sources/pr-417-p1-feat-memory-safe-one-off-mem0-purge-script-run.md) — 03-28
+- [PR #420: [agento] fix(mem0-purge): add try/except to deletion Python script](sources/pr-420-agento-fix-mem0-purge-add-try-except-to-deletion.md) — 03-28
+- [PR #421: fix(SOUL.md): resolve 7 internal contradictions (orch-b17)](sources/pr-421-fix-soul-md-resolve-7-internal-contradictions-orch.md) — 03-28
+- [PR #422: [agento] fix(skeptic-cron): fix bugbot jq filter returning -1 on every PR](sources/pr-422-agento-fix-skeptic-cron-fix-bugbot-jq-filter-retu.md) — 03-28
+- [PR #423: [agento] feat(ao-runner): self-hosted GitHub Actions runner PyPI package](sources/pr-423-agento-feat-ao-runner-self-hosted-github-actions.md) — 03-28
+- [PR #424: chore: switch all workflows to self-hosted runners](sources/pr-424-chore-switch-all-workflows-to-self-hosted-runners.md) — 03-28
+- [PR #425: [agento] [P2] feat(monitoring): add GH Actions cost monitor](sources/pr-425-agento-p2-feat-monitoring-add-gh-actions-cost-mon.md) — 03-28
+- [PR #426: [agento] feat(scripts): add sync-to-smartclaw.sh](sources/pr-426-agento-feat-scripts-add-sync-to-smartclaw-sh.md) — 03-28
+- [PR #427: [agento] [test] verify self-hosted runner pickup (orch-xsh)](sources/pr-427-agento-test-verify-self-hosted-runner-pickup-orch.md) — 03-29
+- [PR #428: chore: route all CI test runs to self-hosted runners](sources/pr-428-chore-route-all-ci-test-runs-to-self-hosted-runner.md) — 03-29
+- [PR #429: [agento] fix(ci): treat cancelled check runs as neutral in CI gate](sources/pr-429-agento-fix-ci-treat-cancelled-check-runs-as-neutr.md) — 03-29
+- [PR #431: fix(harness): fallback to gh auth token when env/file missing](sources/pr-431-fix-harness-fallback-to-gh-auth-token-when-env-fil.md) — 03-29
+- [PR #433: [agento] fix: harness engineering improvements (2026-03-28)](sources/pr-433-agento-fix-harness-engineering-improvements-2026.md) — 03-29
+- [PR #434: [agento] fix(monitor): standardize PR report output format](sources/pr-434-agento-fix-monitor-standardize-pr-report-output-f.md) — 03-29
+- [PR #435: chore: move coderabbit-ping-on-push to self-hosted runner](sources/pr-435-chore-move-coderabbit-ping-on-push-to-self-hosted.md) — 03-29
+- [PR #436: test: verify self-hosted runner pickup](sources/pr-436-test-verify-self-hosted-runner-pickup.md) — 03-29
+- [PR #437: [agento] orch-jq2: dropped-thread-followup launchd + Slack MCP nudge system](sources/pr-437-agento-orch-jq2-dropped-thread-followup-launchd-s.md) — 03-29
+- [PR #438: [agento] [P1] fix(monitor): rename ao6green to ao7green — script and criteria now consistent](sources/pr-438-agento-p1-fix-monitor-rename-ao6green-to-ao7green.md) — 03-29
+- [PR #439: [P2] fix(openclaw): remove bundled mem0 plugin, update ops skill](sources/pr-439-p2-fix-openclaw-remove-bundled-mem0-plugin-update.md) — 03-29
+- [PR #440: [agento] feat(orch-ila): implement missing cr-loop-guard scripts](sources/pr-440-agento-feat-orch-ila-implement-missing-cr-loop-gu.md) — 03-29
+- [PR #441: [agento] [P2] feat(slack): Slack catchup bot for handoff digests](sources/pr-441-agento-p2-feat-slack-slack-catchup-bot-for-handof.md) — 03-29
+- [PR #442: feat(zoom): add Meeting BaaS integration for live Zoom transcription](sources/pr-442-feat-zoom-add-meeting-baas-integration-for-live-zo.md) — 03-30
+- [PR #443: [agento] [P1] fix(rebuild-native-modules): skip monorepo container packages without entry point](sources/pr-443-agento-p1-fix-rebuild-native-modules-skip-monorep.md) — 03-30
+- [PR #444: [agento] [P2] fix: dropped-thread-followup stderr errors + 4h interval](sources/pr-444-agento-p2-fix-dropped-thread-followup-stderr-erro.md) — 03-30
+- [PR #445: feat: add 12h stability report launchd job](sources/pr-445-feat-add-12h-stability-report-launchd-job.md) — 03-30
+- [PR #446: fix: dropped-thread script API call method](sources/pr-446-fix-dropped-thread-script-api-call-method.md) — 03-30
+- [PR #447: [agento] fix(orchestration): worktree cleanup wrong grep key + wrong remove path (orch-tzc)](sources/pr-447-agento-fix-orchestration-worktree-cleanup-wrong-g.md) — 03-30
+- [PR #448: [agento] [P1] fix(claw): security hardening for gateway dispatch](sources/pr-448-agento-p1-fix-claw-security-hardening-for-gateway.md) — 03-30
+- [PR #449: feat(scripts): mem0/better-sqlite3 prevention harness](sources/pr-449-feat-scripts-mem0-better-sqlite3-prevention-harnes.md) — 03-30
+- [PR #450: [agento] fix(skeptic-cron): dismissed CHANGES_REQUESTED no longer satisfies CR gate](sources/pr-450-agento-fix-skeptic-cron-dismissed-changes-request.md) — 03-30
+- [PR #451: [agento] fix(skeptic-cron): add CR 'Comments resolved' verdict to CR_READY fallback](sources/pr-451-agento-fix-skeptic-cron-add-cr-comments-resolved.md) — 03-30
+- [PR #452: [agento] fix(scripts): anchor spawn success grep to ✓ to prevent false positives](sources/pr-452-agento-fix-scripts-anchor-spawn-success-grep-to-t.md) — 03-30
+- [PR #453: [P1] fix(meetingbaas): fix broken SVIX webhook signature verification](sources/pr-453-p1-fix-meetingbaas-fix-broken-svix-webhook-signat.md) — 03-31
+- [PR #454: [agento] feat(staging): add staging gateway + 6-point canary test (orch-j3r)](sources/pr-454-agento-feat-staging-add-staging-gateway-6-point-c.md) — 03-31
+- [PR #455: [agento] harness: no direct ~/.openclaw/ edits rule (staging canary gate)](sources/pr-455-agento-harness-no-direct-openclaw-edits-rule-stag.md) — 03-31
+- [PR #456: [agento] harness: check Slack #C0AJ3SD5C79 before building openclaw infrastructure](sources/pr-456-agento-harness-check-slack-c0aj3sd5c79-before-bui.md) — 03-31
+- [PR #457: [agento] harness: automation completeness rule — scripts must have callers](sources/pr-457-agento-harness-automation-completeness-rule-scrip.md) — 03-31
+- [PR #458: [agento] [P1] feat(ci): staging-canary-gate — CI config/schema checks before merge (orch-1ps.3)](sources/pr-458-agento-p1-feat-ci-staging-canary-gate-ci-config-s.md) — 03-31
+- [PR #459: [agento] [P0] feat(orch-1ps.2): add staging-promote.sh — auto-promote staging→prod](sources/pr-459-agento-p0-feat-orch-1ps-2-add-staging-promote-sh.md) — 03-31
+- [PR #460: [agento] chore: sync openclaw.json.redacted](sources/pr-460-agento-chore-sync-openclaw-json-redacted.md) — 03-31
+- [PR #461: [agento] fix(doctor): silence expected warnings for nvm Node 22 and unconfigured Discord](sources/pr-461-agento-fix-doctor-silence-expected-warnings-for-n.md) — 03-31
+- [PR #462: [agento] [P2] docs: 3-stage openclaw dev pipeline documentation](sources/pr-462-agento-p2-docs-3-stage-openclaw-dev-pipeline-docu.md) — 04-01
+- [PR #463: [agento] [P2] docs: update stale 6-point to 7-point green criteria](sources/pr-463-agento-p2-docs-update-stale-6-point-to-7-point-gr.md) — 03-31
+- [PR #464: [agento] fix(skeptic-cron): fix strftime("%s") jq datetime comparison](sources/pr-464-agento-fix-skeptic-cron-fix-strftime-s-jq-datetim.md) — 03-31
+- [PR #465: fix: harden meetingbaas and worktree cleanup edge cases](sources/pr-465-fix-harden-meetingbaas-and-worktree-cleanup-edge-c.md) — 04-01
+- [PR #466: Enforce AO evidence review requirements](sources/pr-466-enforce-ao-evidence-review-requirements.md) — 04-01
+- [PR #467: chore: deduplicate repo CLAUDE.md (~22% token reduction)](sources/pr-467-chore-deduplicate-repo-claude-md-22-token-reductio.md) — 04-01
+- [PR #468: [P2] fix(evidence-gate): dedupe REST fallback reviews init (orch-jqh)](sources/pr-468-p2-fix-evidence-gate-dedupe-rest-fallback-reviews.md) — 04-02
+- [PR #469: [P1] fix(ci): skeptic gate + cron verdict fetch (automated path B)](sources/pr-469-p1-fix-ci-skeptic-gate-cron-verdict-fetch-automat.md) — 04-02
+- [PR #470: [P2] feat(agent-orchestrator): canonical AO config symlink (orch-2u9d)](sources/pr-470-p2-feat-agent-orchestrator-canonical-ao-config-sy.md) — 04-02
+- [PR #471: [agento] fix(ci): address CR+Copilot comments on skeptic workflow](sources/pr-471-agento-fix-ci-address-cr-copilot-comments-on-skep.md) — 04-02
+- [PR #472: [agento] [P2] feat(smartclaw): add portability audit skill and export infrastructure](sources/pr-472-agento-p2-feat-smartclaw-add-portability-audit-sk.md) — 04-02
+- [PR #473: [Auto] Pending changes 2026-04-02 09:41](sources/pr-473-auto-pending-changes-2026-04-02-09-41.md) — 04-02
+- [PR #474: [agento] feat(schedule): add commit-pending-changes launchd job (every 30 min)](sources/pr-474-agento-feat-schedule-add-commit-pending-changes-l.md) — 04-02
+- [PR #475: [P2] [agento] fix: restore intended project map entries in agent-orchestrator](sources/pr-475-p2-agento-fix-restore-intended-project-map-entrie.md) — 04-02
+- [PR #476: [P2] [agento] chore: persist orch-zrm bead record](sources/pr-476-p2-agento-chore-persist-orch-zrm-bead-record.md) — 04-02
+- [PR #479: [agento] [P2] feat(agent-orchestrator): add defaults.notifiers for openclaw hook escalation](sources/pr-479-agento-p2-feat-agent-orchestrator-add-defaults-no.md) — 04-03
+- [PR #480: docs(agents): clarify SOUL.md vs AGENTS.md responsibilities](sources/pr-480-docs-agents-clarify-soul-md-vs-agents-md-responsib.md) — 04-03
+- [PR #481: fix(scripts): staging gateway env + dropped-thread follow-up detection](sources/pr-481-fix-scripts-staging-gateway-env-dropped-thread-fol.md) — 04-03
+- [PR #482: chore(skills): MiniMax provider + cmux autoapprove (sync from prod clawhub)](sources/pr-482-chore-skills-minimax-provider-cmux-autoapprove-syn.md) — 04-03
+- [PR #483: feat(ci): automatic full staging canary via self-hosted runner](sources/pr-483-feat-ci-automatic-full-staging-canary-via-self-hos.md) — 04-03
+- [PR #484: docs: Slack MCP setup, HTTP 2064 guidance, SmartClaw audit sync](sources/pr-484-docs-slack-mcp-setup-http-2064-guidance-smartclaw.md) — 04-03
+- [PR #485: [agento] feat(infra): staging/prod directory separation with deploy pipeline](sources/pr-485-agento-feat-infra-staging-prod-directory-separati.md) — 04-04
+- [PR #486: [agento] fix(doctor): update GATEWAY_LABEL to com.openclaw.gateway](sources/pr-486-agento-fix-doctor-update-gateway-label-to-com-ope.md) — 04-04
+- [PR #487: [agento] [P1] fix bug-hunt: agents fail silently → proper error reporting + /tmp output](sources/pr-487-agento-p1-fix-bug-hunt-agents-fail-silently-prope.md) — 04-04
+- [PR #488: [agento] [P2] feat(evidence-review-gate): add comprehensive tests + webhook import hardening](sources/pr-488-agento-p2-feat-evidence-review-gate-add-comprehen.md) — 04-04
+- [PR #489: [agento] [P2] feat(evidence-review-gate): add comprehensive tests + webhook import hardening](sources/pr-489-agento-p2-feat-evidence-review-gate-add-comprehen.md) — 04-04
+- [PR #490: [agento] fix(harness): detect stale session locks that cause silent message loss](sources/pr-490-agento-fix-harness-detect-stale-session-locks-tha.md) — 04-04
+- [PR #491: fix(harness): add protected openclaw.json keys — heartbeat.every must stay 5m](sources/pr-491-fix-harness-add-protected-openclaw-json-keys-heart.md) — 04-04
+- [PR #492: [agento] fix(doctor): correct memory lookup command + skip when mem0 disabled](sources/pr-492-agento-fix-doctor-correct-memory-lookup-command-s.md) — 04-04
+- [PR #493: [agento] [P2] feat(monitor): wire monitor-agent into staging→prod deploy gate](sources/pr-493-agento-p2-feat-monitor-wire-monitor-agent-into-st.md) — 04-04
+- [PR #494: [agento] feat(launchd): add antig cmux loop + orch-7b7 slack check scripts](sources/pr-494-agento-feat-launchd-add-antig-cmux-loop-orch-7b7.md) — 04-04
+- [PR #495: [agento] feat(skills): self-contained staging→prod pipeline skill](sources/pr-495-agento-feat-skills-self-contained-staging-prod-pi.md) — 04-04
+- [PR #496: [agento] feat(skills): add executive-assistant skills + fix script flags and doctor.sh](sources/pr-496-agento-feat-skills-add-executive-assistant-skills.md) — 04-04
+- [PR #498: [agento] fix(harness): liveness≠functional — auth-profiles probe, deploy seeding, doctor STATE_DIR check](sources/pr-498-agento-fix-harness-liveness-functional-auth-profi.md) — 04-05
+- [PR #500: [agento] chore: route monitor failures to monitoring channel + add evolveLoop + backup-cron script](sources/pr-500-agento-chore-route-monitor-failures-to-monitoring.md) — 04-05
+- [PR #502: refactor(claw): replace Python task-classifier with LLM judgment](sources/pr-502-refactor-claw-replace-python-task-classifier-with.md) — 04-05
+- [PR #503: fix(config): worker-signals-completion action is send-to-agent (bd-gth5)](sources/pr-503-fix-config-worker-signals-completion-action-is-sen.md) — 04-05
+- [PR #504: [agento] feat: add ZFC rule to agentRules in agent-orchestrator.yaml](sources/pr-504-agento-feat-add-zfc-rule-to-agentrules-in-agent-o.md) — 04-05
+- [PR #505: [agento] fix(harness): kill gateway orphans + single-instance canary check (check 9, port-filtered)](sources/pr-505-agento-fix-harness-kill-gateway-orphans-single-in.md) — 04-05
+- [PR #506: [agento] feat(eloop): custom jleechanclaw eloop — drain dropped Slack thread backlog via /claw](sources/pr-506-agento-feat-eloop-custom-jleechanclaw-eloop-drain.md) — 04-05
+- [PR #507: fix(deploy): protect staging gateway during prod restart + increase startup wait](sources/pr-507-fix-deploy-protect-staging-gateway-during-prod-res.md) — 04-05
+- [PR #509: [agento] jleechanclaw: append skill reference to evolve loop agentRules](sources/pr-509-agento-jleechanclaw-append-skill-reference-to-evo.md) — 04-05
+- [PR #511: [agento] fix(launchd): remove duplicate com.openclaw.gateway plist template](sources/pr-511-agento-fix-launchd-remove-duplicate-com-openclaw.md) — 04-05
+- [PR #515: chore: sync beads, mem0 recall, monitor PATH, AO workspace policy](sources/pr-515-chore-sync-beads-mem0-recall-monitor-path-ao-works.md) — 04-05
+- [PR #516: [agento] fix(canary): add --prefix to npm ls so SDK version is detected correctly](sources/pr-516-agento-fix-canary-add-prefix-to-npm-ls-so-sdk-ver.md) — 04-05
+- [PR #517: feat: mem0 embedding fix, minimax config tests, docs, AO progress](sources/pr-517-feat-mem0-embedding-fix-minimax-config-tests-docs.md) — 04-06
+- [PR #520: docs(mem0): align Groq/OpenAI references with Ollama LLM + OpenAI embeddings](sources/pr-520-docs-mem0-align-groq-openai-references-with-ollama.md) — 04-06
+- [PR #521: [P1] feat(launchd): ao7green-jleechanclaw 30-min schedule plist](sources/pr-521-p1-feat-launchd-ao7green-jleechanclaw-30-min-sche.md) — 04-06
+- [PR #522: [P1] fix(launchd): ao7green copy scripts to OPENCLAW_HOME + migrate gateway cron](sources/pr-522-p1-fix-launchd-ao7green-copy-scripts-to-openclaw.md) — 04-06
+- [PR #523: [P1] fix: ralph doesn't send heartbeats when idle](sources/pr-523-p1-fix-ralph-doesn-t-send-heartbeats-when-idle.md) — 04-06
+- [PR #524: [P1] chore(beads): consolidate prefixes to orch-* and fix validation errors](sources/pr-524-p1-chore-beads-consolidate-prefixes-to-orch-and-f.md) — 04-06
+- [PR #525: [P1] fix(orch-7kf): approved-and-green reaction races CI checks](sources/pr-525-p1-fix-orch-7kf-approved-and-green-reaction-races.md) — 04-06
+- [PR #526: [P1] fix(ao7green): address actionable items from merged PRs #522 and #525](sources/pr-526-p1-fix-ao7green-address-actionable-items-from-mer.md) — 04-06
+- [PR #528: [P1] fix(hooks/mem0_config): handle unexpanded env vars as empty strings](sources/pr-528-p1-fix-hooks-mem0-config-handle-unexpanded-env-va.md) — 04-06
+- [PR #529: [P1] [agento] fix(skeptic): dispatch skeptic check to AO worker and fix beads prefix mismatch](sources/pr-529-p1-agento-fix-skeptic-dispatch-skeptic-check-to-a.md) — 04-07
+- [PR #530: docs: cron backup refresh, executable ao7green script, WA hourly PR reporter](sources/pr-530-docs-cron-backup-refresh-executable-ao7green-scrip.md) — 04-07
+- [PR #531: feat(harness): user/repo layers, openclaw-harness skill, doctor lane backlog](sources/pr-531-feat-harness-user-repo-layers-openclaw-harness-ski.md) — 04-09
+- [PR #532: [P2] feat: jleechanclaw custom eloop skill path (orch-eei)](sources/pr-532-p2-feat-jleechanclaw-custom-eloop-skill-path-orch.md) — 04-07
+- [PR #533: [agento] [P2] add thinclaw MCP server project to AO orchestrator](sources/pr-533-agento-p2-add-thinclaw-mcp-server-project-to-ao-o.md) — 04-07
+- [PR #534: [codex] render local AO runtime config before launch](sources/pr-534-codex-render-local-ao-runtime-config-before-launc.md) — 04-10
+- [PR #536: [P2] Policy: require captioned tmux/UI evidence videos + PR gist summaries](sources/pr-536-p2-policy-require-captioned-tmux-ui-evidence-vide.md) — 04-09
+- [PR #537: harness: opt-in AO dashboard and harden gateway health probes](sources/pr-537-harness-opt-in-ao-dashboard-and-harden-gateway-hea.md) — 04-10
+- [PR #538: fix: replace hardcoded paths with HOME for portability](sources/pr-538-fix-replace-hardcoded-paths-with-home-for-portabil.md) — 04-09
+- [PR #539: fix(monitor): Slack E2E matrix harness fixes + staging config repair + skeptic webhook](sources/pr-539-fix-monitor-slack-e2e-matrix-harness-fixes-staging.md) — 04-10
+- [PR #540: [P2] docs: sync workspace AGENTS ao session guidance](sources/pr-540-p2-docs-sync-workspace-agents-ao-session-guidance.md) — 04-10
+- [PR #541: [P2] feat: register browserclaw AO repo mapping](sources/pr-541-p2-feat-register-browserclaw-ao-repo-mapping.md) — 04-10
+- [PR #542: rename: skeptic-gate.yml → green-gate.yml (CI gate is not LLM-based)](sources/pr-542-rename-skeptic-gate-yml-green-gate-yml-ci-gate-is.md) — 04-11
+- [PR #543: [agento] fix(deploy): disable DM e2e in staging+prod monitor; fix upgrade-safe launchd label; fix mem0 log msg](sources/pr-543-agento-fix-deploy-disable-dm-e2e-in-staging-prod.md) — 04-11
+- [PR #1: feat: standalone conversation MCP server with A2A protocol support](sources/pr-1-feat-standalone-conversation-mcp-server-with-a2a-p.md) — 09-26
+- [PR #6: Fix conversation MCP server timeout and architecture issues](sources/pr-6-fix-conversation-mcp-server-timeout-and-architectu.md) — 09-26
+- [PR #8: 🔥 CRITICAL: Production-ready conversation MCP server with security enhancements](sources/pr-8-critical-production-ready-conversation-mcp-server.md) — 09-27
+- [PR #9: feat: scaffold essential development tools and workflow scripts](sources/pr-9-feat-scaffold-essential-development-tools-and-work.md) — 09-27
+- [PR #10: Fix scaffold sourcing: Replace generated scripts with claude-commands originals](sources/pr-10-fix-scaffold-sourcing-replace-generated-scripts-wi.md) — 09-27
+- [PR #11: docs: refresh MCP documentation](sources/pr-11-docs-refresh-mcp-documentation.md) — 09-27
+- [PR #13: feat: Production-Ready Firestore Storage with TDD + Consensus Validation](sources/pr-13-feat-production-ready-firestore-storage-with-tdd-c.md) — 09-29
+- [PR #14: feat: Unified Firestore conversation architecture with auto-creation (P0/P1 fixes complete)](sources/pr-14-feat-unified-firestore-conversation-architecture-w.md) — 10-02
+- [PR #16: feat: Add automated PR preview deployment with github-actions-deploy](sources/pr-16-feat-add-automated-pr-preview-deployment-with-gith.md) — 10-02
+- [PR #17: chore: Remove legacy auto-creation implementation files](sources/pr-17-chore-remove-legacy-auto-creation-implementation-f.md) — 10-02
+- [PR #18: feat: make start convo take an initial message](sources/pr-18-feat-make-start-convo-take-an-initial-message.md) — 10-07
+- [PR #24: chore: sync conversation client v2.0.3](sources/pr-24-chore-sync-conversation-client-v2-0-3.md) — 10-07
+- [PR #26: fix: support convo_id alias for send-message auto-create](sources/pr-26-fix-support-convo-id-alias-for-send-message-auto-c.md) — 10-07
+- [PR #28: feat: expand message content limit to 200k characters](sources/pr-28-feat-expand-message-content-limit-to-200k-characte.md) — 10-09
+- [PR #31: fix: restore MAX_CONTENT_LENGTH to 200,000 characters](sources/pr-31-fix-restore-max-content-length-to-200-000-characte.md) — 10-10
+- [PR #34: fix: add Firebase configuration to render.yaml](sources/pr-34-fix-add-firebase-configuration-to-render-yaml.md) — 10-21
+- [PR #35: fix: correct Firestore env vars for Render deployment](sources/pr-35-fix-correct-firestore-env-vars-for-render-deployme.md) — 10-21
+- [PR #36: feat: support base64-encoded Firebase service account for Render](sources/pr-36-feat-support-base64-encoded-firebase-service-accou.md) — 10-22
+- [PR #37: Goal: Enable Firebase/Firestore storage on Render deployment](sources/pr-37-goal-enable-firebase-firestore-storage-on-render-d.md) — 10-22
+- [PR #38: fix: Persist and return message metadata in Firestore (TDD approach)](sources/pr-38-fix-persist-and-return-message-metadata-in-firesto.md) — 10-31
+- [PR #44: Default deploy script to staging environment](sources/pr-44-default-deploy-script-to-staging-environment.md) — 11-02
+- [PR #45: feat: Add GitHub Actions auto-deployment to dev environment](sources/pr-45-feat-add-github-actions-auto-deployment-to-dev-env.md) — 11-02
+- [PR #47: feat: add get message tool](sources/pr-47-feat-add-get-message-tool.md) — 11-02
+- [PR #48: fix: Handle transient 404 errors in PR preview build polling](sources/pr-48-fix-handle-transient-404-errors-in-pr-preview-buil.md) — 11-02
+- [PR #51: fix: Handle VPC-SC log streaming in deploy.sh with async builds](sources/pr-51-fix-handle-vpc-sc-log-streaming-in-deploy-sh-with.md) — 11-02
+- [PR #53: fix: Remove deprecated tools and fix message metadata bugs](sources/pr-53-fix-remove-deprecated-tools-and-fix-message-metada.md) — 11-02
+- [PR #57: feat: enforce idempotent conversation persistence contract](sources/pr-57-feat-enforce-idempotent-conversation-persistence-c.md) — 11-04
+- [PR #59: chore: align port docs and add typed local server launcher](sources/pr-59-chore-align-port-docs-and-add-typed-local-server-l.md) — 11-04
+- [PR #61: chore: add typed run_local_server](sources/pr-61-chore-add-typed-run-local-server.md) — 11-04
+- [PR #65: fix: Add timestamp field to send-message response to eliminate race condition](sources/pr-65-fix-add-timestamp-field-to-send-message-response-t.md) — 11-05
+- [PR #67: chore: Remove deprecated in-memory conversations storage](sources/pr-67-chore-remove-deprecated-in-memory-conversations-st.md) — 11-05
+- [PR #68: Make agents proactive with mail notifications](sources/pr-68-make-agents-proactive-with-mail-notifications.md) — 11-06
+- [PR #69: Fix GitHub Actions production deployment workflow](sources/pr-69-fix-github-actions-production-deployment-workflow.md) — 11-08
+- [PR #71: chore: raise rate limit to 10k per minute](sources/pr-71-chore-raise-rate-limit-to-10k-per-minute.md) — 11-08
+- [PR #72: feat: integrate shared @ai-universe/mcp-server-utils for rate limiting](sources/pr-72-feat-integrate-shared-ai-universe-mcp-server-utils.md) — 11-08
+- [PR #74: fix: add defensive fallback for rate limit library bug](sources/pr-74-fix-add-defensive-fallback-for-rate-limit-library.md) — 11-08
+- [PR #75: Fix conversation history lag and missing metadata](sources/pr-75-fix-conversation-history-lag-and-missing-metadata.md) — 11-08
+- [PR #79: Convo backend: Investigate and Fix Two Issues](sources/pr-79-convo-backend-investigate-and-fix-two-issues.md) — 11-09
+- [PR #80: Ensure metadata consistency across conversation API endpoints](sources/pr-80-ensure-metadata-consistency-across-conversation-ap.md) — 11-09
+- [PR #81: fix: remove double JSON serialization in tool handlers](sources/pr-81-fix-remove-double-json-serialization-in-tool-handl.md) — 11-09
+- [PR #83: Add JSON schemas to MCP conversation utilities](sources/pr-83-add-json-schemas-to-mcp-conversation-utilities.md) — 11-09
+- [PR #84: Add camelCase validation to conversation client](sources/pr-84-add-camelcase-validation-to-conversation-client.md) — 11-09
+- [PR #85: Debug MCP smoke test conversation service error](sources/pr-85-debug-mcp-smoke-test-conversation-service-error.md) — 11-09
+- [PR #86: Refactor code to use MCP server utilities](sources/pr-86-refactor-code-to-use-mcp-server-utilities.md) — 11-10
+- [PR #87: Add GitHub workflow for code quality checks](sources/pr-87-add-github-workflow-for-code-quality-checks.md) — 11-10
+- [PR #88: Set up Husky for Git presubmit checks](sources/pr-88-set-up-husky-for-git-presubmit-checks.md) — 11-11
+- [PR #89: Update documentation with GitHub token setup](sources/pr-89-update-documentation-with-github-token-setup.md) — 11-11
+- [PR #90: Convert repository to git submodule](sources/pr-90-convert-repository-to-git-submodule.md) — 11-11
+- [PR #91: Add email notifications for auto-deploy failures](sources/pr-91-add-email-notifications-for-auto-deploy-failures.md) — 11-11
+- [PR #92: chore: fix dev auto deploy workflow](sources/pr-92-chore-fix-dev-auto-deploy-workflow.md) — 11-13
+- [PR #94: chore: make auto-deploy failure issues resilient](sources/pr-94-chore-make-auto-deploy-failure-issues-resilient.md) — 11-13
+- [PR #95: Add pagination to conversation loading](sources/pr-95-add-pagination-to-conversation-loading.md) — 11-13
+- [PR #98: ci: share convo dev workflow](sources/pr-98-ci-share-convo-dev-workflow.md) — 11-13
+- [PR #99: Stop committing conversation client dist artifacts](sources/pr-99-stop-committing-conversation-client-dist-artifacts.md) — 11-14
+- [PR #100: ci: add manual convo deploy workflow](sources/pr-100-ci-add-manual-convo-deploy-workflow.md) — 11-13
+- [PR #102: ci: add manual trigger to convo auto deploy](sources/pr-102-ci-add-manual-trigger-to-convo-auto-deploy.md) — 11-13
+- [PR #103: Add conversation delete functionality](sources/pr-103-add-conversation-delete-functionality.md) — 11-14
+- [PR #107: fix: resolve auto-deploy workflow YAML errors](sources/pr-107-fix-resolve-auto-deploy-workflow-yaml-errors.md) — 11-14
+- [PR #108: feat: add Firestore composite index for list-conversations performance](sources/pr-108-feat-add-firestore-composite-index-for-list-conver.md) — 11-18
+- [PR #109: docs: add git workflow and approval policy to CLAUDE.md](sources/pr-109-docs-add-git-workflow-and-approval-policy-to-claud.md) — 11-18
+- [PR #110: fix: replace Firestore integration tests with unit tests](sources/pr-110-fix-replace-firestore-integration-tests-with-unit.md) — 11-18
+- [PR #112: fix: implement proper /smoke command workflow for real API testing](sources/pr-112-fix-implement-proper-smoke-command-workflow-for-re.md) — 11-18
+- [PR #113: fix: update test suite to match current MCP response format](sources/pr-113-fix-update-test-suite-to-match-current-mcp-respons.md) — 11-19
+- [PR #114: Set up centralized email deployment notifications](sources/pr-114-set-up-centralized-email-deployment-notifications.md) — 11-19
+- [PR #115: chore: enforce deploy project id](sources/pr-115-chore-enforce-deploy-project-id.md) — 11-21
+- [PR #116: Review code for async and parallelization opportunities](sources/pr-116-review-code-for-async-and-parallelization-opportun.md) — 11-24
+- [PR #117: Evaluate typescript-server-launcher for local server](sources/pr-117-evaluate-typescript-server-launcher-for-local-serv.md) — 11-23
+- [PR #119: chore: reconcile Firestore indexes with deployed state](sources/pr-119-chore-reconcile-firestore-indexes-with-deployed-st.md) — 11-23
+- [PR #120: Store userid and email in Firestore](sources/pr-120-store-userid-and-email-in-firestore.md) — 11-27
+- [PR #122: Store user email in Firestore conversations](sources/pr-122-store-user-email-in-firestore-conversations.md) — 12-26
+- [PR #2: [agento] living blog + novel engine: full Phase 1 implementation](sources/pr-2-agento-living-blog-novel-engine-full-phase-1-impl.md) — 03-26
+- [PR #5: [agento] living blog: skeptic review + Phase 1 implementation](sources/pr-5-agento-living-blog-skeptic-review-phase-1-impleme.md) — 03-25
+- [PR #6: [P2] feat: daily novel summary cron for ai_universe_living_blog](sources/pr-6-p2-feat-daily-novel-summary-cron-for-ai-universe.md) — 03-26
+- [PR #7: [P0] feat(storage): FirestoreBlogStorage + storage factory (P0-1)](sources/pr-7-p0-feat-storage-firestoreblogstorage-storage-fact.md) — 03-27
+- [PR #8: [P1] feat(hooks): AO lifecycle hook + GitHub Actions workflow for novel entries](sources/pr-8-p1-feat-hooks-ao-lifecycle-hook-github-actions-wo.md) — 03-26
+- [PR #9: feat(hooks): add worker-poster auto-posting for AO lifecycle events [P1] (jleechan-yl5g)](sources/pr-9-feat-hooks-add-worker-poster-auto-posting-for-ao-l.md) — 03-26
+- [PR #10: [P1] test(install): add install.sh smoke test + FirestoreBlogStorage](sources/pr-10-p1-test-install-add-install-sh-smoke-test-firesto.md) — 03-26
+- [PR #12: feat: agent harness overlay](sources/pr-12-feat-agent-harness-overlay.md) — 03-26
+- [PR #16: chore: add CI workflow](sources/pr-16-chore-add-ci-workflow.md) — 03-27
+- [PR #17: [agento] feat: open eventType to any string (#jleechan-oe36)](sources/pr-17-agento-feat-open-eventtype-to-any-string-jleechan.md) — 03-27
+- [PR #18: [agento] feat: wire --storage=firestore flag (#jleechan-5pqo)](sources/pr-18-agento-feat-wire-storage-firestore-flag-jleechan.md) — 03-27
+- [PR #19: feat: Remote Mode + Auto-Scan Architecture](sources/pr-19-feat-remote-mode-auto-scan-architecture.md) — 03-29
+- [PR #20: docs: living blog refactor design + TDD roadmap](sources/pr-20-docs-living-blog-refactor-design-tdd-roadmap.md) — 03-27
+- [PR #21: [agento] test: Phase 3 — MCP server integration tests (33 tests)](sources/pr-21-agento-test-phase-3-mcp-server-integration-tests.md) — 03-27
+- [PR #23: [agento] test: add storage modes integration tests (bead jleechan-1kbf)](sources/pr-23-agento-test-add-storage-modes-integration-tests-b.md) — 03-29
+- [PR #24: feat(tests): integration test suite — 182 tests across 18 files](sources/pr-24-feat-tests-integration-test-suite-182-tests-across.md) — 03-29
+- [PR #25: fix(ci): rewrite skeptic-cron standalone + fix skeptic-gate polling](sources/pr-25-fix-ci-rewrite-skeptic-cron-standalone-fix-skeptic.md) — 03-29
+- [PR #26: feat(tests): TDD roadmap Phases 2-5 — 40 new tests (226 total)](sources/pr-26-feat-tests-tdd-roadmap-phases-2-5-40-new-tests-226.md) — 03-29
+- [PR #27: feat(cli): add blog-cli entry point + 33 tests](sources/pr-27-feat-cli-add-blog-cli-entry-point-33-tests.md) — 03-29
+- [PR #28: feat(cli): implement --output=both and --output=none modes for branch-entry](sources/pr-28-feat-cli-implement-output-both-and-output-none-mod.md) — 03-29
+- [PR #29: feat(novel): FIFO bidirectional chat + parseFifoLines pure function](sources/pr-29-feat-novel-fifo-bidirectional-chat-parsefifolines.md) — 03-29
+- [PR #30: feat(blog): Demo Mode — fetch git history, generate synthetic blog entries](sources/pr-30-feat-blog-demo-mode-fetch-git-history-generate-syn.md) — 03-29
+- [PR #31: feat(blog): IP-based rate limiting (design doc Section C)](sources/pr-31-feat-blog-ip-based-rate-limiting-design-doc-sectio.md) — 03-29
+- [PR #32: feat(server): wire AUTO_SCAN_ENABLED and AUTO_SCAN_INTERVAL_MS env vars](sources/pr-32-feat-server-wire-auto-scan-enabled-and-auto-scan-i.md) — 03-29
+- [PR #33: feat(cli): implement blog-cli daily-summary command (5 tests)](sources/pr-33-feat-cli-implement-blog-cli-daily-summary-command.md) — 03-29
+- [PR #34: docs: update stale ARCHITECTURE.md and agent/plans.md notes](sources/pr-34-docs-update-stale-architecture-md-and-agent-plans.md) — 03-29
+- [PR #35: test(webhook): HMAC validation + event routing (10 tests)](sources/pr-35-test-webhook-hmac-validation-event-routing-10-test.md) — 03-29
+- [PR #36: test(scanner): AutoScanner full poll-cycle integration tests (10 tests)](sources/pr-36-test-scanner-autoscanner-full-poll-cycle-integrati.md) — 03-29
+- [PR #37: [agento] feat(blog): Section G — search, delete, stats, metrics, Firestore emulator](sources/pr-37-agento-feat-blog-section-g-search-delete-stats-me.md) — 03-29
+- [PR #38: [agento] feat(blog): Section H — CLI read commands + export_repo + replay_event](sources/pr-38-agento-feat-blog-section-h-cli-read-commands-expo.md) — 03-29
+- [PR #39: [agento] feat(section-i): webhook idempotency + optional X-API-Key auth](sources/pr-39-agento-feat-section-i-webhook-idempotency-optiona.md) — 03-29
+- [PR #40: [agento] feat(cli): Section J write commands + repo management](sources/pr-40-agento-feat-cli-section-j-write-commands-repo-man.md) — 03-29
+- [PR #41: [agento] feat(cli): Section K — list-threads, get-thread, update-post](sources/pr-41-agento-feat-cli-section-k-list-threads-get-thread.md) — 03-29
+- [PR #42: [agento] feat(cli): Section L — update-repo, generate-api-key, replay-event](sources/pr-42-agento-feat-cli-section-l-update-repo-generate-ap.md) — 03-29
+- [PR #44: chore: switch workflows to self-hosted runners](sources/pr-44-chore-switch-workflows-to-self-hosted-runners.md) — 03-29
+- [PR #45: test: verify self-hosted runner CI](sources/pr-45-test-verify-self-hosted-runner-ci.md) — 03-29
+- [PR #46: [agento] feat(deploy): Phase 2 Cloud Run deployment — Dockerfile + deploy.sh + GHA workflow](sources/pr-46-agento-feat-deploy-phase-2-cloud-run-deployment-d.md) — 03-30
+- [PR #47: [agento] feat(ui): Phase 2 Web Reader UI — public/index.html served from GET /](sources/pr-47-agento-feat-ui-phase-2-web-reader-ui-public-index.md) — 03-30
+- [PR #48: [agento] feat(novel): Phase 2 Novel Persona Library — 6 worker archetypes](sources/pr-48-agento-feat-novel-phase-2-novel-persona-library-6.md) — 03-30
+- [PR #49: [agento] feat(blog): RSS/Atom feed endpoint GET /feed (#jleechan-mopb)](sources/pr-49-agento-feat-blog-rss-atom-feed-endpoint-get-feed.md) — 03-30
+- [PR #50: [agento] docs: reconcile VISION.md with Phase 2 progress](sources/pr-50-agento-docs-reconcile-vision-md-with-phase-2-prog.md) — 03-30
+- [PR #51: [agento] docs(grafana): add Grafana dashboard template for blog MCP metrics](sources/pr-51-agento-docs-grafana-add-grafana-dashboard-templat.md) — 03-30
+- [PR #52: [agento] feat(cli): blog-cli tail — live-stream new posts as they arrive](sources/pr-52-agento-feat-cli-blog-cli-tail-live-stream-new-pos.md) — 03-30
+- [PR #53: [agento] feat(blog): post_reaction MCP tool — Phase 2 worker upvotes/reactions](sources/pr-53-agento-feat-blog-post-reaction-mcp-tool-phase-2-w.md) — 03-30
+- [PR #54: [agento] feat(cli): blog-cli watch command — live post stream](sources/pr-54-agento-feat-cli-blog-cli-watch-command-live-post.md) — 03-30
+- [PR #55: [agento] fix(blog): skip invalid posts during FileBlogStorage.load()](sources/pr-55-agento-fix-blog-skip-invalid-posts-during-fileblo.md) — 03-30
+- [PR #56: [agento] feat(novel): expand story bead system from 15 to 25 beads (jleechan-sry1)](sources/pr-56-agento-feat-novel-expand-story-bead-system-from-1.md) — 03-30
+- [PR #57: [agento] docs: VISION.md — Phase 2 complete (507 tests, 21 CLI commands)](sources/pr-57-agento-docs-vision-md-phase-2-complete-507-tests.md) — 03-30
+- [PR #58: docs: PR + commit stats for private repos](sources/pr-58-docs-pr-commit-stats-for-private-repos.md) — 03-31
+- [PR #59: docs: PR + commit stats for private repos (2026-03-31)](sources/pr-59-docs-pr-commit-stats-for-private-repos-2026-03-31.md) — 03-31
+- [PR #60: [agento] fix(dockerfile): pre-create data/ and logs/ so non-root user can write](sources/pr-60-agento-fix-dockerfile-pre-create-data-and-logs-so.md) — 04-02
+- [PR #1: Allow unrestricted cross-project messaging](sources/pr-1-allow-unrestricted-cross-project-messaging.md) — 11-05
+- [PR #3: feat: Add lazy loading foundation for MCP tools (60% context reduction)](sources/pr-3-feat-add-lazy-loading-foundation-for-mcp-tools-60.md) — 11-05
+- [PR #4: docs: Add lazy loading implementation roadmap](sources/pr-4-docs-add-lazy-loading-implementation-roadmap.md) — 11-05
+- [PR #5: feat: Implement Phase 2 lazy loading meta-tools](sources/pr-5-feat-implement-phase-2-lazy-loading-meta-tools.md) — 11-05
+- [PR #6: feat: Make agent names globally unique and allow flexible project keys](sources/pr-6-feat-make-agent-names-globally-unique-and-allow-fl.md) — 11-06
+- [PR #10: feat: Remove contact request requirement for messaging](sources/pr-10-feat-remove-contact-request-requirement-for-messag.md) — 11-06
+- [PR #12: feat: Allow register_agent to accept any string as project_key and au…](sources/pr-12-feat-allow-register-agent-to-accept-any-string-as.md) — 11-06
+- [PR #13: Reclaim agent names, retire old identities, and harden share wizard](sources/pr-13-reclaim-agent-names-retire-old-identities-and-hard.md) — 11-07
+- [PR #15: Remove all contact request functionality from codebase](sources/pr-15-remove-all-contact-request-functionality-from-code.md) — 11-08
+- [PR #16: docs: Add fork improvements summary to README](sources/pr-16-docs-add-fork-improvements-summary-to-readme.md) — 11-07
+- [PR #17: feat: Add delete_agent functionality](sources/pr-17-feat-add-delete-agent-functionality.md) — 11-08
+- [PR #25: feat: Publish ai-universe-mail package to PyPI](sources/pr-25-feat-publish-ai-universe-mail-package-to-pypi.md) — 11-08
+- [PR #26: feat: Make project keys informational, agent names primary identifier](sources/pr-26-feat-make-project-keys-informational-agent-names-p.md) — 11-08
+- [PR #31: feat: Local build script, bug fixes, and infrastructure improvements](sources/pr-31-feat-local-build-script-bug-fixes-and-infrastructu.md) — 11-08
+- [PR #1: Claude Commands Export 2025-08-26: Directory Exclusions Applied](sources/pr-1-claude-commands-export-2025-08-26-directory-exclus.md) — 08-26
+- [PR #2: Claude Commands Export 2025-08-27: Directory Exclusions Applied](sources/pr-2-claude-commands-export-2025-08-27-directory-exclus.md) — 08-27
+- [PR #4: Export Fresh Command Composition System v1.7.0 - Complete Workflow Orchestration](sources/pr-4-export-fresh-command-composition-system-v1-7-0-com.md) — 09-07
+- [PR #5: feat: Integrate LLM Capital Efficiency Framework throughout command system](sources/pr-5-feat-integrate-llm-capital-efficiency-framework-th.md) — 09-07
+- [PR #6: Claude Commands Export 2025-09-10: Directory Exclusions Applied](sources/pr-6-claude-commands-export-2025-09-10-directory-exclus.md) — 09-11
+- [PR #22: Remove commands directory](sources/pr-22-remove-commands-directory.md) — 09-15
+- [PR #24: Claude Commands Export 2025-09-17: Directory Exclusions Applied](sources/pr-24-claude-commands-export-2025-09-17-directory-exclus.md) — 09-18
+- [PR #26: Claude Commands Export 2025-09-18: Directory Exclusions Applied](sources/pr-26-claude-commands-export-2025-09-18-directory-exclus.md) — 09-19
+- [PR #29: Claude Commands Export 2025-09-20: Directory Exclusions Applied](sources/pr-29-claude-commands-export-2025-09-20-directory-exclus.md) — 09-20
+- [PR #30: Remove infrastructure scripts directory](sources/pr-30-remove-infrastructure-scripts-directory.md) — 09-20
+- [PR #33: Claude Commands Export 2025-09-20: Directory Exclusions Applied](sources/pr-33-claude-commands-export-2025-09-20-directory-exclus.md) — 09-21
+- [PR #40: Claude Commands Export 2025-09-21: Directory Exclusions Applied](sources/pr-40-claude-commands-export-2025-09-21-directory-exclus.md) — 09-22
+- [PR #44: Delete redundant context file](sources/pr-44-delete-redundant-context-file.md) — 09-23
+- [PR #45: Remove obsolete agents and command scripts](sources/pr-45-remove-obsolete-agents-and-command-scripts.md) — 09-23
+- [PR #48: Claude Commands Export 2025-09-26: Directory Exclusions Applied](sources/pr-48-claude-commands-export-2025-09-26-directory-exclus.md) — 09-26
+- [PR #49: Claude Commands Export 2025-09-26: Directory Exclusions Applied](sources/pr-49-claude-commands-export-2025-09-26-directory-exclus.md) — 09-26
+- [PR #51: Claude Commands Export 2025-09-28: Directory Exclusions Applied](sources/pr-51-claude-commands-export-2025-09-28-directory-exclus.md) — 09-28
+- [PR #52: Remove project-specific genesis orchestration commands](sources/pr-52-remove-project-specific-genesis-orchestration-comm.md) — 09-28
+- [PR #60: Claude Commands Export 2025-10-02: Directory Exclusions Applied](sources/pr-60-claude-commands-export-2025-10-02-directory-exclus.md) — 10-02
+- [PR #73: Claude Commands Export 2025-10-13: Directory Exclusions Applied](sources/pr-73-claude-commands-export-2025-10-13-directory-exclus.md) — 10-13
+- [PR #75: Remove obsolete hooks directory](sources/pr-75-remove-obsolete-hooks-directory.md) — 10-13
+- [PR #77: Claude Commands Export 2025-10-13: Directory Exclusions Applied](sources/pr-77-claude-commands-export-2025-10-13-directory-exclus.md) — 10-13
+- [PR #91: Claude Commands Export 2025-10-26: Directory Exclusions Applied](sources/pr-91-claude-commands-export-2025-10-26-directory-exclus.md) — 10-27
+- [PR #99: Claude Commands Export 2025-11-07: Directory Exclusions Applied](sources/pr-99-claude-commands-export-2025-11-07-directory-exclus.md) — 11-08
+- [PR #101: Claude Commands Export 2025-11-08: Directory Exclusions Applied](sources/pr-101-claude-commands-export-2025-11-08-directory-exclus.md) — 11-09
+- [PR #103: Export Claude Commands v1.1.0 - Complete Command Composition System](sources/pr-103-export-claude-commands-v1-1-0-complete-command-com.md) — 11-11
+- [PR #104: Claude Commands Export 2025-11-15: Directory Exclusions Applied](sources/pr-104-claude-commands-export-2025-11-15-directory-exclus.md) — 11-16
+- [PR #106: Claude Commands Export 2025-11-22: Directory Exclusions Applied](sources/pr-106-claude-commands-export-2025-11-22-directory-exclus.md) — 11-23
+- [PR #110: Claude Commands Export 2025-11-25: Directory Exclusions Applied](sources/pr-110-claude-commands-export-2025-11-25-directory-exclus.md) — 11-26
+- [PR #122: Claude Commands Export 2025-11-26: Directory Exclusions Applied](sources/pr-122-claude-commands-export-2025-11-26-directory-exclus.md) — 11-26
+- [PR #126: Claude Commands Export: GitHub Workflows Added](sources/pr-126-claude-commands-export-github-workflows-added.md) — 11-27
+- [PR #165: Claude Commands Export 2025-12-11: Directory Exclusions Applied](sources/pr-165-claude-commands-export-2025-12-11-directory-exclus.md) — 12-11
+- [PR #185: Claude Commands Export 2025-12-16: Directory Exclusions Applied](sources/pr-185-claude-commands-export-2025-12-16-directory-exclus.md) — 12-17
+- [PR #189: Claude Commands Export 2025-12-16: Directory Exclusions Applied](sources/pr-189-claude-commands-export-2025-12-16-directory-exclus.md) — 12-17
+- [PR #190: Claude Commands Export 2025-12-16: Directory Exclusions Applied](sources/pr-190-claude-commands-export-2025-12-16-directory-exclus.md) — 12-17
+- [PR #191: Claude Commands Export 2025-12-16: Directory Exclusions Applied](sources/pr-191-claude-commands-export-2025-12-16-directory-exclus.md) — 12-17
+- [PR #193: Claude Commands Export 2025-12-19: Directory Exclusions Applied](sources/pr-193-claude-commands-export-2025-12-19-directory-exclus.md) — 12-19
+- [PR #198: Claude Commands Export 2025-12-28: Directory Exclusions Applied](sources/pr-198-claude-commands-export-2025-12-28-directory-exclus.md) — 12-28
+- [PR #202: Wrap restore_crontab in main and clean tests](sources/pr-202-wrap-restore-crontab-in-main-and-clean-tests.md) — 12-28
+- [PR #213: Claude Commands Export 2025-12-30: Directory Exclusions Applied](sources/pr-213-claude-commands-export-2025-12-30-directory-exclus.md) — 12-30
+- [PR #215: Setup marketplace and plugin installation system](sources/pr-215-setup-marketplace-and-plugin-installation-system.md) — 01-08
+- [PR #221: Simplify README and reorganize plugin commands](sources/pr-221-simplify-readme-and-reorganize-plugin-commands.md) — 01-08
+- [PR #222: Apply pull request changes](sources/pr-222-apply-pull-request-changes.md) — 01-09
+- [PR #223: Claude Commands Export 2026-01-09: Directory Exclusions Applied](sources/pr-223-claude-commands-export-2026-01-09-directory-exclus.md) — 01-10
+- [PR #224: Export Claude Commands - 2026-01-15](sources/pr-224-export-claude-commands-2026-01-15.md) — 01-16
+- [PR #225: Claude Commands Export 2026-01-15: Directory Exclusions Applied](sources/pr-225-claude-commands-export-2026-01-15-directory-exclus.md) — 01-16
+- [PR #226: Remove custom agent system documentation and implementations](sources/pr-226-remove-custom-agent-system-documentation-and-imple.md) — 01-29
+- [PR #227: Claude Commands Export 2026-01-29: Directory Exclusions Applied](sources/pr-227-claude-commands-export-2026-01-29-directory-exclus.md) — 01-29
+- [PR #229: Claude Commands Export 2026-01-30: Directory Exclusions Applied](sources/pr-229-claude-commands-export-2026-01-30-directory-exclus.md) — 01-31
+- [PR #230: Claude Commands Export 2026-02-01: Directory Exclusions Applied](sources/pr-230-claude-commands-export-2026-02-01-directory-exclus.md) — 02-02
+- [PR #231: Claude Commands Export 2026-02-04: Directory Exclusions Applied](sources/pr-231-claude-commands-export-2026-02-04-directory-exclus.md) — 02-04
+- [PR #233: Claude Commands Export 2026-02-04: Directory Exclusions Applied](sources/pr-233-claude-commands-export-2026-02-04-directory-exclus.md) — 02-04
+- [PR #234: Claude Commands Export 2026-02-04: Directory Exclusions Applied](sources/pr-234-claude-commands-export-2026-02-04-directory-exclus.md) — 02-05
+- [PR #236: Claude Commands Export 2026-02-06: Directory Exclusions Applied](sources/pr-236-claude-commands-export-2026-02-06-directory-exclus.md) — 02-07
+- [PR #237: Claude Commands Export 2026-02-09: Directory Exclusions Applied](sources/pr-237-claude-commands-export-2026-02-09-directory-exclus.md) — 02-10
+- [PR #238: Claude Commands Export 2026-02-09: Directory Exclusions Applied](sources/pr-238-claude-commands-export-2026-02-09-directory-exclus.md) — 02-10
+- [PR #243: Claude Commands Export 2026-02-14: Directory Exclusions Applied](sources/pr-243-claude-commands-export-2026-02-14-directory-exclus.md) — 02-15
+- [PR #244: Claude Commands Export 2026-02-16: Directory Exclusions Applied](sources/pr-244-claude-commands-export-2026-02-16-directory-exclus.md) — 02-17
+- [PR #245: Claude Commands Export 2026-02-16: Directory Exclusions Applied](sources/pr-245-claude-commands-export-2026-02-16-directory-exclus.md) — 02-17
+- [PR #246: Claude Commands Export 2026-02-16: Directory Exclusions Applied](sources/pr-246-claude-commands-export-2026-02-16-directory-exclus.md) — 02-17
+- [PR #248: Claude Commands Export 2026-02-18: Directory Exclusions Applied](sources/pr-248-claude-commands-export-2026-02-18-directory-exclus.md) — 02-19
+- [PR #249: Claude Commands Export 2026-02-18: Directory Exclusions Applied](sources/pr-249-claude-commands-export-2026-02-18-directory-exclus.md) — 02-19
+- [PR #250: fix: add custom paths in plugin.json to enable plugin installation](sources/pr-250-fix-add-custom-paths-in-plugin-json-to-enable-plug.md) — 02-19
+- [PR #251: fix: bump marketplace version to 1.0.1](sources/pr-251-fix-bump-marketplace-version-to-1-0-1.md) — 02-19
+- [PR #252: Claude Commands Export 2026-02-19: Directory Exclusions Applied](sources/pr-252-claude-commands-export-2026-02-19-directory-exclus.md) — 02-19
+- [PR #253: Refactor installation to support ~/.claude directory structure](sources/pr-253-refactor-installation-to-support-claude-directory.md) — 02-20
+- [PR #260: Claude Commands Export 2026-02-23: Directory Exclusions Applied](sources/pr-260-claude-commands-export-2026-02-23-directory-exclus.md) — 02-24
+- [PR #261: Claude Commands Export 2026-02-26: Directory Exclusions Applied](sources/pr-261-claude-commands-export-2026-02-26-directory-exclus.md) — 02-26
+- [PR #264: Remove deprecated plan.md and add mandatory simplify step to planexec](sources/pr-264-remove-deprecated-plan-md-and-add-mandatory-simpli.md) — 03-05
+- [PR #268: Claude Commands Export 2026-03-09: Directory Exclusions Applied](sources/pr-268-claude-commands-export-2026-03-09-directory-exclus.md) — 03-10
+- [PR #270: Claude Commands Export 2026-03-14: Directory Exclusions Applied](sources/pr-270-claude-commands-export-2026-03-14-directory-exclus.md) — 03-14
+- [PR #271: Claude Commands Export 2026-03-18: Directory Exclusions Applied](sources/pr-271-claude-commands-export-2026-03-18-directory-exclus.md) — 03-18
+- [PR #285: Claude Commands Export 2026-03-24](sources/pr-285-claude-commands-export-2026-03-24.md) — 03-24
+- [PR #287: Claude Commands Export 2026-03-26: Directory Exclusions Applied](sources/pr-287-claude-commands-export-2026-03-26-directory-exclus.md) — 03-26
+- [PR #288: fix: GitHub Actions GCP vars use ${{ vars.GCP_PROJECT_ID }} syntax](sources/pr-288-fix-github-actions-gcp-vars-use-vars-gcp-project-i.md) — 03-26
+- [PR #290: [agento] fix: remove unsupported manifest fields from plugin.json](sources/pr-290-agento-fix-remove-unsupported-manifest-fields-fro.md) — 04-01
+- [PR #293: [agento] feat: sync slash command translator from jleechanclaw](sources/pr-293-agento-feat-sync-slash-command-translator-from-jl.md) — 04-03
+- [PR #299: Claude Commands Export 2026-04-04](sources/pr-299-claude-commands-export-2026-04-04.md) — 04-05
+- [PR #301: Claude Commands Export 2026-04-05](sources/pr-301-claude-commands-export-2026-04-05.md) — 04-05
+- [PR #4: Fix agent registration schema mismatch](sources/pr-4-fix-agent-registration-schema-mismatch.md) — 11-09
+- [PR #6: Implement agent registration functionality](sources/pr-6-implement-agent-registration-functionality.md) — 11-09
+- [PR #7: Create global inbox](sources/pr-7-create-global-inbox.md) — 11-09
+- [PR #10: Debug project message organization removal](sources/pr-10-debug-project-message-organization-removal.md) — 11-09
+- [PR #11: Fix agent registration: Add missing contact_policy field](sources/pr-11-fix-agent-registration-add-missing-contact-policy.md) — 11-09
+- [PR #12: Add repo link to README fork section](sources/pr-12-add-repo-link-to-readme-fork-section.md) — 11-10
+- [PR #13: Add mailbox search tool for all agents](sources/pr-13-add-mailbox-search-tool-for-all-agents.md) — 11-13
+- [PR #14: Review commits from original repository](sources/pr-14-review-commits-from-original-repository.md) — 11-12
+- [PR #17: Complete the paragraph tag](sources/pr-17-complete-the-paragraph-tag.md) — 11-10
+- [PR #18: Update README references to mcp_mai](sources/pr-18-update-readme-references-to-mcp-mai.md) — 11-10
+- [PR #19: Move MCP Mail implementation to correct repo](sources/pr-19-move-mcp-mail-implementation-to-correct-repo.md) — 11-11
+- [PR #20: Set up automated code quality checks](sources/pr-20-set-up-automated-code-quality-checks.md) — 11-10
+- [PR #24: Move MCP Mail implementation to correct repo](sources/pr-24-move-mcp-mail-implementation-to-correct-repo.md) — 11-11
+- [PR #25: integration tests new: Code Review and Documentation](sources/pr-25-integration-tests-new-code-review-and-documentatio.md) — 11-12
+- [PR #26: Set up Husky for Git presubmit checks](sources/pr-26-set-up-husky-for-git-presubmit-checks.md) — 11-11
+- [PR #27: Update documentation with GitHub token setup](sources/pr-27-update-documentation-with-github-token-setup.md) — 11-11
+- [PR #28: Convert repository to git submodule](sources/pr-28-convert-repository-to-git-submodule.md) — 11-11
+- [PR #29: Review codebase against original repository](sources/pr-29-review-codebase-against-original-repository.md) — 11-11
+- [PR #30: Debug MCP mail fetch timeout issues](sources/pr-30-debug-mcp-mail-fetch-timeout-issues.md) — 11-12
+- [PR #31: fix push vs pull request CI Incomplete session description provided](sources/pr-31-fix-push-vs-pull-request-ci-incomplete-session-des.md) — 11-12
+- [PR #32: Reproduce the reported issue](sources/pr-32-reproduce-the-reported-issue.md) — 11-12
+- [PR #33: Add slash commands from git submodule](sources/pr-33-add-slash-commands-from-git-submodule.md) — 11-12
+- [PR #36: Document GitHub CLI binary download instructions](sources/pr-36-document-github-cli-binary-download-instructions.md) — 11-13
+- [PR #37: Add build-slot tools, CLI fixes, and manual test documentation](sources/pr-37-add-build-slot-tools-cli-fixes-and-manual-test-doc.md) — 11-16
+- [PR #40: Fix pre-push guard tests and materialized view schema compatibility](sources/pr-40-fix-pre-push-guard-tests-and-materialized-view-sch.md) — 11-15
+- [PR #41: Fix share export/update test failures (4/4 issues)](sources/pr-41-fix-share-export-update-test-failures-4-4-issues.md) — 11-15
+- [PR #42: Auto-read inbox messages by age](sources/pr-42-auto-read-inbox-messages-by-age.md) — 11-16
+- [PR #46: Address Copilot review comments - improve test code quality](sources/pr-46-address-copilot-review-comments-improve-test-code.md) — 11-16
+- [PR #47: Add regression tests for thread index compatibility](sources/pr-47-add-regression-tests-for-thread-index-compatibilit.md) — 11-15
+- [PR #50: Fix global inbox mention search and tighten tests](sources/pr-50-fix-global-inbox-mention-search-and-tighten-tests.md) — 11-16
+- [PR #52: Fix share export test assertions to match current behavior](sources/pr-52-fix-share-export-test-assertions-to-match-current.md) — 11-16
+- [PR #53: feat: Add MCP server management skill for Claude Code](sources/pr-53-feat-add-mcp-server-management-skill-for-claude-co.md) — 11-17
+- [PR #54: Fix thread resource query parameter parsing](sources/pr-54-fix-thread-resource-query-parameter-parsing.md) — 11-17
+- [PR #55: Fix export command environment variable handling in tests](sources/pr-55-fix-export-command-environment-variable-handling-i.md) — 11-17
+- [PR #56: fix: Wrap bare URL in backticks for markdown compliance](sources/pr-56-fix-wrap-bare-url-in-backticks-for-markdown-compli.md) — 11-17
+- [PR #58: Add script to fix inbox data serialization for test evidence](sources/pr-58-add-script-to-fix-inbox-data-serialization-for-tes.md) — 11-17
+- [PR #60: Upgrade MCP Mail fork to Python 3.14](sources/pr-60-upgrade-mcp-mail-fork-to-python-3-14.md) — 11-17
+- [PR #61: Remove claude-commands submodule](sources/pr-61-remove-claude-commands-submodule.md) — 11-18
+- [PR #62: Release v0.1.9: Python 3.11+ support and improved documentation](sources/pr-62-release-v0-1-9-python-3-11-support-and-improved-do.md) — 11-19
+- [PR #63: Investigate mcp_mail git repository integration issue](sources/pr-63-investigate-mcp-mail-git-repository-integration-is.md) — 11-19
+- [PR #64: Update README with new features](sources/pr-64-update-readme-with-new-features.md) — 11-19
+- [PR #66: Fix agents not reading messages after registration](sources/pr-66-fix-agents-not-reading-messages-after-registration.md) — 11-21
+- [PR #69: Fix ClosedResourceError crash when client disconnects during MCP request](sources/pr-69-fix-closedresourceerror-crash-when-client-disconne.md) — 11-24
+- [PR #75: Add comprehensive Slack integration support](sources/pr-75-add-comprehensive-slack-integration-support.md) — 11-29
+- [PR #78: Fix agent discovery UX for global namespace](sources/pr-78-fix-agent-discovery-ux-for-global-namespace.md) — 11-27
+- [PR #80: Run and test integration tests locally](sources/pr-80-run-and-test-integration-tests-locally.md) — 12-03
+- [PR #83: Add tracked MCP Agent Mail projects](sources/pr-83-add-tracked-mcp-agent-mail-projects.md) — 11-28
+- [PR #85: Add optional project-key storage mode](sources/pr-85-add-optional-project-key-storage-mode.md) — 11-29
+- [PR #87: Store messages for unregistered agents](sources/pr-87-store-messages-for-unregistered-agents.md) — 11-29
+- [PR #88: Evaluate commits from original repository](sources/pr-88-evaluate-commits-from-original-repository.md) — 12-07
+- [PR #90: Clarify global agent namespace and update real CLI tests](sources/pr-90-clarify-global-agent-namespace-and-update-real-cli.md) — 11-29
+- [PR #93: Improve Slack message agent visibility](sources/pr-93-improve-slack-message-agent-visibility.md) — 11-29
+- [PR #94: Enhance Slack bidirectional sync and Slackbox bridge](sources/pr-94-enhance-slack-bidirectional-sync-and-slackbox-brid.md) — 12-19
+- [PR #99: Add slackbox auth bypass and rate limit](sources/pr-99-add-slackbox-auth-bypass-and-rate-limit.md) — 12-10
+- [PR #103: Include sender/recipient names in Slack webhook payloads](sources/pr-103-include-sender-recipient-names-in-slack-webhook-pa.md) — 12-01
+- [PR #108: Disable writes to .mcp_mail directory](sources/pr-108-disable-writes-to-mcp-mail-directory.md) — 12-02
+- [PR #114: Investigate message latency in SQLite](sources/pr-114-investigate-message-latency-in-sqlite.md) — 12-17
+- [PR #123: Decouple SQLite storage from archive - make archive optional for core operations](sources/pr-123-decouple-sqlite-storage-from-archive-make-archive.md) — 12-18
+- [PR #124: Tighten Slack client locking and Slackbox token validation](sources/pr-124-tighten-slack-client-locking-and-slackbox-token-va.md) — 12-17
+- [PR #126: Refactor MCP Agent Mail to use agent name](sources/pr-126-refactor-mcp-agent-mail-to-use-agent-name.md) — 12-19
+- [PR #135: Handle orphaned project references during migrations](sources/pr-135-handle-orphaned-project-references-during-migratio.md) — 12-18
+- [PR #136: Remove message copying to local disk](sources/pr-136-remove-message-copying-to-local-disk.md) — 12-20
+- [PR #139: docs: Enhance Slack setup documentation and bump to v0.1.13](sources/pr-139-docs-enhance-slack-setup-documentation-and-bump-to.md) — 12-19
+- [PR #142: Remove unused archive storage config options](sources/pr-142-remove-unused-archive-storage-config-options.md) — 12-25
+- [PR #149: fix: Remove invalid _comment field from hooks in settings.json](sources/pr-149-fix-remove-invalid-comment-field-from-hooks-in-set.md) — 12-26
+- [PR #151: fix: Remove project_key requirement from global agent tools](sources/pr-151-fix-remove-project-key-requirement-from-global-age.md) — 12-29
+- [PR #156: Auto-register Claude/Codex agent from branch name](sources/pr-156-auto-register-claude-codex-agent-from-branch-name.md) — 01-10
+- [PR #162: feat: Add script to install auto-register hook globally](sources/pr-162-feat-add-script-to-install-auto-register-hook-glob.md) — 01-10
+- [PR #163: fix: Correct SessionStart hook format to use matcher-based structure](sources/pr-163-fix-correct-sessionstart-hook-format-to-use-matche.md) — 01-10
+- [PR #164: Clean up unnecessary root directory files](sources/pr-164-clean-up-unnecessary-root-directory-files.md) — 01-10
+- [PR #166: fix: remove O(N) gc scan in test teardown to prevent hangs](sources/pr-166-fix-remove-o-n-gc-scan-in-test-teardown-to-prevent.md) — 01-11
+- [PR #170: fix: remove __future__ annotations, update deps, fix test regression](sources/pr-170-fix-remove-future-annotations-update-deps-fix-test.md) — 02-02
+- [PR #193: docs: add GEMINI.md with agent verification protocols](sources/pr-193-docs-add-gemini-md-with-agent-verification-protoco.md) — 02-01
+- [PR #203: fix: orchestration CLI integration test model placeholder and tool validation](sources/pr-203-fix-orchestration-cli-integration-test-model-place.md) — 02-02
+- [PR #206: Fix regex pattern to handle hyphen separators in tool names](sources/pr-206-fix-regex-pattern-to-handle-hyphen-separators-in-t.md) — 02-04
+- [PR #208: fix: restrict Python to 3.11-3.13, prevent Python 3.14 startup failures](sources/pr-208-fix-restrict-python-to-3-11-3-13-prevent-python-3.md) — 02-08
+- [PR #211: ci: migrate to org-wide reusable PyPI publishing workflow with delta detection](sources/pr-211-ci-migrate-to-org-wide-reusable-pypi-publishing-wo.md) — 02-09
+- [PR #215: feat: Add development scripts suite and improve uv integration](sources/pr-215-feat-add-development-scripts-suite-and-improve-uv.md) — 02-09
+- [PR #219: Purge remaining archive route naming and archive wording](sources/pr-219-purge-remaining-archive-route-naming-and-archive-w.md) — 02-19
+- [PR #220: Fix high-priority MCP Mail stability bugs and add regression tests](sources/pr-220-fix-high-priority-mcp-mail-stability-bugs-and-add.md) — 02-19
+- [PR #1: Add deployment automation, runtime config, and backend test harness](sources/pr-1-add-deployment-automation-runtime-config-and-backe.md) — 09-18
+- [PR #2: Add CORS middleware to support frontend requests](sources/pr-2-add-cors-middleware-to-support-frontend-requests.md) — 09-18
+- [PR #3: Add local development server script with intelligent port management](sources/pr-3-add-local-development-server-script-with-intellige.md) — 09-18
+- [PR #4: Fix critical PR review issues: security, config architecture, and race conditions](sources/pr-4-fix-critical-pr-review-issues-security-config-arch.md) — 09-19
+- [PR #5: feat: comprehensive Grok integration with production reliability and testing infrastructure](sources/pr-5-feat-comprehensive-grok-integration-with-productio.md) — 09-22
+- [PR #6: Extend model timeouts to three minutes](sources/pr-6-extend-model-timeouts-to-three-minutes.md) — 09-19
+- [PR #7: Add comprehensive infrastructure automation scripts](sources/pr-7-add-comprehensive-infrastructure-automation-script.md) — 09-19
+- [PR #8: feat: add hybrid client metadata rate limiting](sources/pr-8-feat-add-hybrid-client-metadata-rate-limiting.md) — 09-20
+- [PR #9: 🚀 Implement Multi-Model Opinion Synthesis with Smart Fake Testing Infrastructure](sources/pr-9-implement-multi-model-opinion-synthesis-with-smar.md) — 09-23
+- [PR #11: 🔧 Fix deprecated Perplexity model configuration](sources/pr-11-fix-deprecated-perplexity-model-configuration.md) — 09-19
+- [PR #12: Centralize LLM timeout defaults](sources/pr-12-centralize-llm-timeout-defaults.md) — 09-20
+- [PR #14: Switch Cerebras to default primary model](sources/pr-14-switch-cerebras-to-default-primary-model.md) — 09-21
+- [PR #15: Followup](sources/pr-15-followup.md) — 09-21
+- [PR #16: Replace placeholder Cerebras integration with real implementation](sources/pr-16-replace-placeholder-cerebras-integration-with-real.md) — 09-20
+- [PR #17: feat: add dev admin rate limits flag to deploy script](sources/pr-17-feat-add-dev-admin-rate-limits-flag-to-deploy-scri.md) — 09-20
+- [PR #21: docs: add Claude Code slash commands and hooks documentation](sources/pr-21-docs-add-claude-code-slash-commands-and-hooks-docu.md) — 09-21
+- [PR #22: 🔒 SECURITY: Fix Critical Vulnerabilities & Memory Management Issues](sources/pr-22-security-fix-critical-vulnerabilities-memory-mana.md) — 09-22
+- [PR #23: feat: implement three-step multi-model synthesis with Cerebras orchestration](sources/pr-23-feat-implement-three-step-multi-model-synthesis-wi.md) — 09-23
+- [PR #25: Update Perplexity default model to GPT-5](sources/pr-25-update-perplexity-default-model-to-gpt-5.md) — 09-22
+- [PR #29: refactor: move deployment scripts to project root for easier access](sources/pr-29-refactor-move-deployment-scripts-to-project-root-f.md) — 09-22
+- [PR #32: Update Perplexity model name to sonar](sources/pr-32-update-perplexity-model-name-to-sonar.md) — 09-23
+- [PR #33: Allow special characters in questions and prompts](sources/pr-33-allow-special-characters-in-questions-and-prompts.md) — 09-23
+- [PR #34: Switch Cerebras integration to OpenRouter provider](sources/pr-34-switch-cerebras-integration-to-openrouter-provider.md) — 09-23
+- [PR #35: feat: add OpenAI GPT-5 model support](sources/pr-35-feat-add-openai-gpt-5-model-support.md) — 09-24
+- [PR #37: fix: eliminate hardcoded port conflicts - implement true single-port architecture](sources/pr-37-fix-eliminate-hardcoded-port-conflicts-implement-t.md) — 09-28
+- [PR #39: Ensure deploy script installs backend dev dependencies](sources/pr-39-ensure-deploy-script-installs-backend-dev-dependen.md) — 09-23
+- [PR #40: Fix run_local_server.sh to show logs in dedicated terminal tab](sources/pr-40-fix-run-local-server-sh-to-show-logs-in-dedicated.md) — 09-25
+- [PR #41: Clarify secondary prompt instructions](sources/pr-41-clarify-secondary-prompt-instructions.md) — 09-24
+- [PR #43: feat: centralize grok as primary model](sources/pr-43-feat-centralize-grok-as-primary-model.md) — 09-26
+- [PR #44: Add PR preview deployment workflow for GCP](sources/pr-44-add-pr-preview-deployment-workflow-for-gcp.md) — 09-26
+- [PR #45: 🚀 HTTPie Testing Infrastructure Upgrade + Timeout Configuration Fixes](sources/pr-45-httpie-testing-infrastructure-upgrade-timeout-con.md) — 09-25
+- [PR #46: Use CLAUDE_API_KEY consistently](sources/pr-46-use-claude-api-key-consistently.md) — 09-25
+- [PR #50: refactor: Extract shared libraries & remove conversation MCP server](sources/pr-50-refactor-extract-shared-libraries-remove-conversat.md) — 09-26
+- [PR #52: feat: enhance run_local_server.sh with smart dependency checking](sources/pr-52-feat-enhance-run-local-server-sh-with-smart-depend.md) — 09-26
+- [PR #54: feat: MCP conversation client - all critical bugs fixed, production ready](sources/pr-54-feat-mcp-conversation-client-all-critical-bugs-fix.md) — 09-27
+- [PR #55: docs: Update README.md and CLAUDE.md to accurately reflect repository architecture](sources/pr-55-docs-update-readme-md-and-claude-md-to-accurately.md) — 09-26
+- [PR #57: chore: disable deploy preview workflow](sources/pr-57-chore-disable-deploy-preview-workflow.md) — 09-27
+- [PR #59: 🚨 CRITICAL FIX: Complete rate limiting bypass implementation](sources/pr-59-critical-fix-complete-rate-limiting-bypass-implem.md) — 09-27
+- [PR #61: feat: implement TDD for model evaluations with comprehensive test infrastructure](sources/pr-61-feat-implement-tdd-for-model-evaluations-with-comp.md) — 09-27
+- [PR #63: Fix ESLint violations across backend tests](sources/pr-63-fix-eslint-violations-across-backend-tests.md) — 09-27
+- [PR #64: feat: Massive test suite consolidation - 82% integration test reduction](sources/pr-64-feat-massive-test-suite-consolidation-82-integrati.md) — 09-28
+- [PR #65: fix: respect Cloud Run port](sources/pr-65-fix-respect-cloud-run-port.md) — 09-28
+- [PR #66: fix: restore cerebras as default primary model](sources/pr-66-fix-restore-cerebras-as-default-primary-model.md) — 09-28
+- [PR #67: chore: remove broken backend tests](sources/pr-67-chore-remove-broken-backend-tests.md) — 09-28
+- [PR #77: feat: comprehensive conversation context enhancement system](sources/pr-77-feat-comprehensive-conversation-context-enhancemen.md) — 09-29
+- [PR #78: fix: resolve shared libs during docker build](sources/pr-78-fix-resolve-shared-libs-during-docker-build.md) — 09-28
+- [PR #82: feat: Agentic MCP Server Architecture & Library Framework (V5)](sources/pr-82-feat-agentic-mcp-server-architecture-library-frame.md) — 09-29
+- [PR #84: fix: test VPC-SC async build solution for GitHub Actions](sources/pr-84-fix-test-vpc-sc-async-build-solution-for-github-ac.md) — 09-29
+- [PR #85: fix: remove claude from second opinion lineup](sources/pr-85-fix-remove-claude-from-second-opinion-lineup.md) — 09-29
+- [PR #86: feat: GitHub Actions deployment automation with VPC-SC support & PyPI package](sources/pr-86-feat-github-actions-deployment-automation-with-vpc.md) — 09-29
+- [PR #89: feat: add latency tracking to second opinion flow](sources/pr-89-feat-add-latency-tracking-to-second-opinion-flow.md) — 09-29
+- [PR #90: refactor: share FastMCP server factory](sources/pr-90-refactor-share-fastmcp-server-factory.md) — 09-29
+- [PR #94: perf: optimize AI consultation latency (40-50% improvement)](sources/pr-94-perf-optimize-ai-consultation-latency-40-50-improv.md) — 09-30
+- [PR #95: fix: ensure PR previews deploy to unique Cloud Run services](sources/pr-95-fix-ensure-pr-previews-deploy-to-unique-cloud-run.md) — 10-01
+- [PR #97: fix: Use local workspace package for mcp-server-utils](sources/pr-97-fix-use-local-workspace-package-for-mcp-server-uti.md) — 09-30
+- [PR #98: Improve MCP smoke tests after deployment](sources/pr-98-improve-mcp-smoke-tests-after-deployment.md) — 10-01
+- [PR #99: feat: expand mcp-server-utils with ServerFactory and lifecycle helpers](sources/pr-99-feat-expand-mcp-server-utils-with-serverfactory-an.md) — 09-30
+- [PR #100: fix: Require FIREBASE_PROJECT_ID in all environments](sources/pr-100-fix-require-firebase-project-id-in-all-environment.md) — 09-30
+- [PR #102: feat: add deployment simulation CI workflow](sources/pr-102-feat-add-deployment-simulation-ci-workflow.md) — 10-01
+- [PR #103: fix: Register conversation MCP tools with backend server](sources/pr-103-fix-register-conversation-mcp-tools-with-backend-s.md) — 10-01
+- [PR #104: fix: always run npm ci in deploy.sh to ensure symlinks](sources/pr-104-fix-always-run-npm-ci-in-deploy-sh-to-ensure-symli.md) — 10-01
+- [PR #105: fix: keep SecretManager JSON credential support across deploy copies](sources/pr-105-fix-keep-secretmanager-json-credential-support-acr.md) — 10-01
+- [PR #110: fix: Resolve Render backend crashes from unhandled GCP credential rejections](sources/pr-110-fix-resolve-render-backend-crashes-from-unhandled.md) — 10-01
+- [PR #112: Sync main branch commits (integrate.sh)](sources/pr-112-sync-main-branch-commits-integrate-sh.md) — 10-01
+- [PR #115: docs: Add conversation auto-creation design documentation](sources/pr-115-docs-add-conversation-auto-creation-design-documen.md) — 10-01
+- [PR #116: fix: allow ai-universe frontends via wildcard CORS](sources/pr-116-fix-allow-ai-universe-frontends-via-wildcard-cors.md) — 10-01
+- [PR #118: fix: Resolve Firebase Auth project ID mismatch in backend](sources/pr-118-fix-resolve-firebase-auth-project-id-mismatch-in-b.md) — 10-01
+- [PR #121: fix: simplify disabled model handling](sources/pr-121-fix-simplify-disabled-model-handling.md) — 10-02
+- [PR #122: refactor: eliminate backend/shared-libs duplication + extract second opinion config](sources/pr-122-refactor-eliminate-backend-shared-libs-duplication.md) — 10-04
+- [PR #123: refactor: extract second opinion config utilities](sources/pr-123-refactor-extract-second-opinion-config-utilities.md) — 10-02
+- [PR #124: fix: prevent deploy from copying shared lib sources](sources/pr-124-fix-prevent-deploy-from-copying-shared-lib-sources.md) — 10-02
+- [PR #126: refactor: tidy source directive helpers](sources/pr-126-refactor-tidy-source-directive-helpers.md) — 10-02
+- [PR #130: fix(second-opinion): remove redundant secondary runs](sources/pr-130-fix-second-opinion-remove-redundant-secondary-runs.md) — 10-02
+- [PR #131: chore: move deterministic test scripts to integration](sources/pr-131-chore-move-deterministic-test-scripts-to-integrati.md) — 10-02
+- [PR #138: docs: reinforce mobile blueprint safeguards](sources/pr-138-docs-reinforce-mobile-blueprint-safeguards.md) — 10-02
+- [PR #139: feat: Replace Promise-based mutex with async-mutex library and centralize types](sources/pr-139-feat-replace-promise-based-mutex-with-async-mutex.md) — 10-03
+- [PR #142: fix: allow Cloud Run preview domains for CORS](sources/pr-142-fix-allow-cloud-run-preview-domains-for-cors.md) — 10-02
+- [PR #143: feat: Combine primary response + synthesis prompt generation + unified logging](sources/pr-143-feat-combine-primary-response-synthesis-prompt-gen.md) — 10-03
+- [PR #144: feat: stream thinking updates in second opinion responses](sources/pr-144-feat-stream-thinking-updates-in-second-opinion-res.md) — 10-03
+- [PR #145: test: map shared libs packages to ts sources](sources/pr-145-test-map-shared-libs-packages-to-ts-sources.md) — 10-03
+- [PR #146: feat: two step second opinion flow](sources/pr-146-feat-two-step-second-opinion-flow.md) — 10-03
+- [PR #149: fix: Simplify CORS wildcard to allow all ai-universe-frontend deployments](sources/pr-149-fix-simplify-cors-wildcard-to-allow-all-ai-univers.md) — 10-03
+- [PR #150: test: validate MCP smoke tests return all model responses](sources/pr-150-test-validate-mcp-smoke-tests-return-all-model-res.md) — 10-04
+- [PR #151: fix: restrict CORS wildcard to Cloud Run domains](sources/pr-151-fix-restrict-cors-wildcard-to-cloud-run-domains.md) — 10-03
+- [PR #152: docs: refresh repository documentation](sources/pr-152-docs-refresh-repository-documentation.md) — 10-04
+- [PR #153: feat: model display names](sources/pr-153-feat-model-display-names.md) — 10-04
+- [PR #154: Remove CORS config from deploy.sh, rely on code wildcard](sources/pr-154-remove-cors-config-from-deploy-sh-rely-on-code-wil.md) — 10-04
+- [PR #155: chore: stop tracking backend shared lib sources](sources/pr-155-chore-stop-tracking-backend-shared-lib-sources.md) — 10-04
+- [PR #160: fix: Critical OpenAI API fixes - correct parameters and token limits](sources/pr-160-fix-critical-openai-api-fixes-correct-parameters-a.md) — 10-04
+- [PR #161: fix: Remove false-positive error validation + docs for 2-round parallel architecture](sources/pr-161-fix-remove-false-positive-error-validation-docs-fo.md) — 10-04
+- [PR #164: fix: fix dev project mapping](sources/pr-164-fix-fix-dev-project-mapping.md) — 10-04
+- [PR #165: fix: centralize validation constants in config utils](sources/pr-165-fix-centralize-validation-constants-in-config-util.md) — 10-04
+- [PR #168: fix: stage shared libs in temp build context](sources/pr-168-fix-stage-shared-libs-in-temp-build-context.md) — 10-04
+- [PR #177: feat: simple convo impl](sources/pr-177-feat-simple-convo-impl.md) — 10-09
+- [PR #181: docs: clarify testing integration relocation](sources/pr-181-docs-clarify-testing-integration-relocation.md) — 10-06
+- [PR #185: docs: clarify git tooling requirements](sources/pr-185-docs-clarify-git-tooling-requirements.md) — 10-06
+- [PR #188: docs: clarify codex cli expectations](sources/pr-188-docs-clarify-codex-cli-expectations.md) — 10-06
+- [PR #189: docs: revise slash command precedence](sources/pr-189-docs-revise-slash-command-precedence.md) — 10-06
+- [PR #191: docs: expand MCP server utils client guide](sources/pr-191-docs-expand-mcp-server-utils-client-guide.md) — 10-06
+- [PR #193: docs: consolidate pr preview workflow guide](sources/pr-193-docs-consolidate-pr-preview-workflow-guide.md) — 10-06
+- [PR #194: test: expand coverage for mcp server utils](sources/pr-194-test-expand-coverage-for-mcp-server-utils.md) — 10-07
+- [PR #196: fix: repair mermaid syntax in workflow docs](sources/pr-196-fix-repair-mermaid-syntax-in-workflow-docs.md) — 10-07
+- [PR #197: feat(shared-libs): bundle conversation client into server utils](sources/pr-197-feat-shared-libs-bundle-conversation-client-into-s.md) — 10-07
+- [PR #203: feat: python mcp server utils server](sources/pr-203-feat-python-mcp-server-utils-server.md) — 10-07
+- [PR #208: feat: expose config-utils public api re-exports](sources/pr-208-feat-expose-config-utils-public-api-re-exports.md) — 10-07
+- [PR #209: docs: emphasize full PR delta awareness](sources/pr-209-docs-emphasize-full-pr-delta-awareness.md) — 10-07
+- [PR #212: Containerize Claude CLI tooling with SDK runner, auth reuse, and self-hosted CI](sources/pr-212-containerize-claude-cli-tooling-with-sdk-runner-au.md) — 10-07
+- [PR #213: fix: enforce conversation MCP auth context](sources/pr-213-fix-enforce-conversation-mcp-auth-context.md) — 10-07
+- [PR #215: docs: expand AGENT workflow guidance](sources/pr-215-docs-expand-agent-workflow-guidance.md) — 10-07
+- [PR #218: docs: clarify autonomous follow-up actions](sources/pr-218-docs-clarify-autonomous-follow-up-actions.md) — 10-07
+- [PR #219: feat: extract MCP smoke test scaffolding into shared CLI](sources/pr-219-feat-extract-mcp-smoke-test-scaffolding-into-share.md) — 03-16
+- [PR #220: docs: emphasize fail-fast guidance in AGENTS](sources/pr-220-docs-emphasize-fail-fast-guidance-in-agents.md) — 10-07
+- [PR #221: chore: skip redundant hook checks when tree unchanged](sources/pr-221-chore-skip-redundant-hook-checks-when-tree-unchang.md) — 10-07
+- [PR #222: fix: align cerebras aliases across labeling and pricing](sources/pr-222-fix-align-cerebras-aliases-across-labeling-and-pri.md) — 10-07
+- [PR #223: docs: discourage liberal environment variable usage](sources/pr-223-docs-discourage-liberal-environment-variable-usage.md) — 10-07
+- [PR #224: feat(python-mcp-server-utils): align utilities with ts parity](sources/pr-224-feat-python-mcp-server-utils-align-utilities-with.md) — 10-07
+- [PR #225: fix: resolve MCP smoke workflow merge conflicts](sources/pr-225-fix-resolve-mcp-smoke-workflow-merge-conflicts.md) — 10-09
+- [PR #226: fix: harden runner workflows and unblock multi-model synthesis tests](sources/pr-226-fix-harden-runner-workflows-and-unblock-multi-mode.md) — 10-09
+- [PR #228: chore: remove outdated make_pr instructions](sources/pr-228-chore-remove-outdated-make-pr-instructions.md) — 10-08
+- [PR #231: chore: disable claude copilot workflow](sources/pr-231-chore-disable-claude-copilot-workflow.md) — 10-08
+- [PR #233: fix: align model token limits with shared defaults](sources/pr-233-fix-align-model-token-limits-with-shared-defaults.md) — 10-08
+- [PR #241: fix: recover repo slug when metadata is missing](sources/pr-241-fix-recover-repo-slug-when-metadata-is-missing.md) — 10-09
+- [PR #243: feat: enable claude-copilot workflow for self-hosted runner](sources/pr-243-feat-enable-claude-copilot-workflow-for-self-hoste.md) — 10-11
+- [PR #251: fix: align backend server express types](sources/pr-251-fix-align-backend-server-express-types.md) — 10-09
+- [PR #258: fix: type express handlers for cloud deploy](sources/pr-258-fix-type-express-handlers-for-cloud-deploy.md) — 10-10
+- [PR #260: fix: enforce conversation MCP configuration](sources/pr-260-fix-enforce-conversation-mcp-configuration.md) — 10-11
+- [PR #261: docs: remove merge conflicts note](sources/pr-261-docs-remove-merge-conflicts-note.md) — 10-10
+- [PR #263: chore: log MCP smoke success metrics](sources/pr-263-chore-log-mcp-smoke-success-metrics.md) — 10-11
+- [PR #265: Add deterministic coverage for LLM-driven test specs](sources/pr-265-add-deterministic-coverage-for-llm-driven-test-spe.md) — 10-11
+- [PR #266: test: clarify second opinion e2e automation context](sources/pr-266-test-clarify-second-opinion-e2e-automation-context.md) — 10-11
+- [PR #271: fix: import TextEncoder for Anthropic tool](sources/pr-271-fix-import-textencoder-for-anthropic-tool.md) — 10-11
+- [PR #273: docs: add conversation experience product spec](sources/pr-273-docs-add-conversation-experience-product-spec.md) — 10-12
+- [PR #276: Clarify LLM manual specs and relocate synthesis test harness](sources/pr-276-clarify-llm-manual-specs-and-relocate-synthesis-te.md) — 10-11
+- [PR #277: Fix backend coverage workflow regressions](sources/pr-277-fix-backend-coverage-workflow-regressions.md) — 10-13
+- [PR #278: refactor: relocate automation runner to testing_integration](sources/pr-278-refactor-relocate-automation-runner-to-testing-int.md) — 10-11
+- [PR #279: feat: thread full conversation context into prompts](sources/pr-279-feat-thread-full-conversation-context-into-prompts.md) — 10-19
+- [PR #281: fix: prevent claude wrapper from masking failures](sources/pr-281-fix-prevent-claude-wrapper-from-masking-failures.md) — 10-14
+- [PR #283: fix: harden conversation context fallbacks](sources/pr-283-fix-harden-conversation-context-fallbacks.md) — 10-11
+- [PR #287: fix: restore Python 3.8 typing compatibility](sources/pr-287-fix-restore-python-3-8-typing-compatibility.md) — 10-11
+- [PR #289: feat: share second opinion latency instrumentation](sources/pr-289-feat-share-second-opinion-latency-instrumentation.md) — 10-13
+- [PR #293: fix: checkout PR head commit for claude fixpr workflow](sources/pr-293-fix-checkout-pr-head-commit-for-claude-fixpr-workf.md) — 10-11
+- [PR #294: fix: increment conversation message counts accurately](sources/pr-294-fix-increment-conversation-message-counts-accurate.md) — 10-11
+- [PR #299: docs: Add comprehensive roadmap for replacing FastMCP dependency](sources/pr-299-docs-add-comprehensive-roadmap-for-replacing-fastm.md) — 10-12
+- [PR #300: fix: avoid rebuilding claude fixpr image](sources/pr-300-fix-avoid-rebuilding-claude-fixpr-image.md) — 10-12
+- [PR #305: fix: expand cors origins for agent-universe](sources/pr-305-fix-expand-cors-origins-for-agent-universe.md) — 10-13
+- [PR #306: fix: skip optional npm deps to prevent bazelisk cleanup errors](sources/pr-306-fix-skip-optional-npm-deps-to-prevent-bazelisk-cle.md) — 10-13
+- [PR #311: docs: add browser testing guidelines and MCP setup scripts](sources/pr-311-docs-add-browser-testing-guidelines-and-mcp-setup.md) — 10-13
+- [PR #314: feat: run web search before second opinion calls](sources/pr-314-feat-run-web-search-before-second-opinion-calls.md) — 10-13
+- [PR #315: fix: shared-libs prep handles dependency freshness and rebase hooks](sources/pr-315-fix-shared-libs-prep-handles-dependency-freshness.md) — 10-13
+- [PR #317: Harden conflict auto-resolve workflow](sources/pr-317-harden-conflict-auto-resolve-workflow.md) — 10-13
+- [PR #318: ci: temporarily disable Claude FixPR workflow](sources/pr-318-ci-temporarily-disable-claude-fixpr-workflow.md) — 10-13
+- [PR #319: Address review feedback for shared-lib prep and server middleware](sources/pr-319-address-review-feedback-for-shared-lib-prep-and-se.md) — 10-13
+- [PR #320: fix: refine GitHub remote sanitization](sources/pr-320-fix-refine-github-remote-sanitization.md) — 10-13
+- [PR #321: chore: address follow-up feedback for second opinion web search](sources/pr-321-chore-address-follow-up-feedback-for-second-opinio.md) — 10-13
+- [PR #322: Fix stale shared-libs detection and rebuild automation](sources/pr-322-fix-stale-shared-libs-detection-and-rebuild-automa.md) — 10-13
+- [PR #323: feat: CLI Firebase authentication tool with browser OAuth flow](sources/pr-323-feat-cli-firebase-authentication-tool-with-browser.md) — 10-13
+- [PR #324: fix: align anonymous rate limit windows](sources/pr-324-fix-align-anonymous-rate-limit-windows.md) — 10-13
+- [PR #325: feat: add /secondo slash command for multi-model AI feedback](sources/pr-325-feat-add-secondo-slash-command-for-multi-model-ai.md) — 10-13
+- [PR #327: Address shared-libs automation feedback](sources/pr-327-address-shared-libs-automation-feedback.md) — 10-13
+- [PR #328: docs: Multi-model architecture review of shared-libs build strategy](sources/pr-328-docs-multi-model-architecture-review-of-shared-lib.md) — 10-13
+- [PR #329: chore: hash shared libs builds and drop dist artifacts](sources/pr-329-chore-hash-shared-libs-builds-and-drop-dist-artifa.md) — 10-14
+- [PR #331: chore: skip conflict resolver when no PR context](sources/pr-331-chore-skip-conflict-resolver-when-no-pr-context.md) — 10-13
+- [PR #335: fix: harden shared-lib prepare automation for CI](sources/pr-335-fix-harden-shared-lib-prepare-automation-for-ci.md) — 10-13
+- [PR #336: chore: add noop comments to trigger ci](sources/pr-336-chore-add-noop-comments-to-trigger-ci.md) — 10-14
+- [PR #341: feat: replace fastmcp with direct mcp server](sources/pr-341-feat-replace-fastmcp-with-direct-mcp-server.md) — 10-14
+- [PR #342: test: sync rate limit cases with runtime config](sources/pr-342-test-sync-rate-limit-cases-with-runtime-config.md) — 10-14
+- [PR #344: Revert "chore: add noop comments to trigger ci"](sources/pr-344-revert-chore-add-noop-comments-to-trigger-ci.md) — 10-14
+- [PR #345: feat: add pr preview workflow installer](sources/pr-345-feat-add-pr-preview-workflow-installer.md) — 10-14
+- [PR #349: docs: update streaming design plans](sources/pr-349-docs-update-streaming-design-plans.md) — 10-14
+- [PR #354: fix: trigger CI workflows on all branches](sources/pr-354-fix-trigger-ci-workflows-on-all-branches.md) — 10-14
+- [PR #355: feat: enforce live web search across llm stack](sources/pr-355-feat-enforce-live-web-search-across-llm-stack.md) — 10-16
+- [PR #356: fix: streamline render build workflow and handlers](sources/pr-356-fix-streamline-render-build-workflow-and-handlers.md) — 10-15
+- [PR #360: build: enforce merge-conflict guardrails](sources/pr-360-build-enforce-merge-conflict-guardrails.md) — 10-15
+- [PR #363: chore: limit ci workflows to main branch](sources/pr-363-chore-limit-ci-workflows-to-main-branch.md) — 10-15
+- [PR #364: chore: disable backend coverage workflow](sources/pr-364-chore-disable-backend-coverage-workflow.md) — 10-15
+- [PR #365: chore: hash shared-libs builds and drop dist artifacts](sources/pr-365-chore-hash-shared-libs-builds-and-drop-dist-artifa.md) — 10-16
+- [PR #366: chore: align pr preview workflow assets](sources/pr-366-chore-align-pr-preview-workflow-assets.md) — 10-15
+- [PR #367: feat: add TypeScript local server runner with random port selection](sources/pr-367-feat-add-typescript-local-server-runner-with-rando.md) — 10-16
+- [PR #369: fix: guard auto resolver gh args expansion](sources/pr-369-fix-guard-auto-resolver-gh-args-expansion.md) — 10-16
+- [PR #370: Add MCP Inspector Tool](sources/pr-370-add-mcp-inspector-tool.md) — 10-16
+- [PR #373: chore: remove multi-model synthesis tool](sources/pr-373-chore-remove-multi-model-synthesis-tool.md) — 10-17
+- [PR #374: fix: guard Cerebras web search payloads for native endpoints](sources/pr-374-fix-guard-cerebras-web-search-payloads-for-native.md) — 10-16
+- [PR #377: chore: remove multi-model synthesis tool + fix auto-resolve CI triggers](sources/pr-377-chore-remove-multi-model-synthesis-tool-fix-auto-r.md) — 10-17
+- [PR #378: Enable OpenRouter web search for Cerebras primary calls](sources/pr-378-enable-openrouter-web-search-for-cerebras-primary.md) — 10-17
+- [PR #385: docs: address reviewer feedback in Claude skills](sources/pr-385-docs-address-reviewer-feedback-in-claude-skills.md) — 10-17
+- [PR #386: fix: add test to confirm we remove cerebras from secondary fan-out](sources/pr-386-fix-add-test-to-confirm-we-remove-cerebras-from-se.md) — 10-17
+- [PR #388: refactor: centralize latency summary logging](sources/pr-388-refactor-centralize-latency-summary-logging.md) — 10-18
+- [PR #389: chore: remove unused synthesis utilities](sources/pr-389-chore-remove-unused-synthesis-utilities.md) — 10-18
+- [PR #392: fix: open run_local_server in new mac terminal](sources/pr-392-fix-open-run-local-server-in-new-mac-terminal.md) — 10-19
+- [PR #393: docs: add zero-tolerance guidance against simulated code](sources/pr-393-docs-add-zero-tolerance-guidance-against-simulated.md) — 10-19
+- [PR #394: fix: correct env forwarding command in macOS relaunch](sources/pr-394-fix-correct-env-forwarding-command-in-macos-relaun.md) — 10-19
+- [PR #397: fix: correct OpenAI Responses API tool_choice format](sources/pr-397-fix-correct-openai-responses-api-tool-choice-forma.md) — 10-20
+- [PR #399: chore: add GitHub Pages workflow for MCP inspector](sources/pr-399-chore-add-github-pages-workflow-for-mcp-inspector.md) — 10-20
+- [PR #401: fix: make conversation MCP secret required for all deployments](sources/pr-401-fix-make-conversation-mcp-secret-required-for-all.md) — 10-21
+- [PR #406: fix: add render.yaml with correct Firebase configuration](sources/pr-406-fix-add-render-yaml-with-correct-firebase-configur.md) — 10-21
+- [PR #407: Revert PR #406 - render.yaml was in wrong repo](sources/pr-407-revert-pr-406-render-yaml-was-in-wrong-repo.md) — 10-21
+- [PR #408: fix: increase default rate limits for production usage](sources/pr-408-fix-increase-default-rate-limits-for-production-us.md) — 10-23
+- [PR #410: fix: add Render CORS support + comprehensive frontend testing](sources/pr-410-fix-add-render-cors-support-comprehensive-frontend.md) — 10-24
+- [PR #412: refactor: simplify rate limit detection - default to non-distributed](sources/pr-412-refactor-simplify-rate-limit-detection-default-to.md) — 10-25
+- [PR #416: fix: prevent duplicate conversation start messages](sources/pr-416-fix-prevent-duplicate-conversation-start-messages.md) — 10-30
+- [PR #418: Expand presentation outline with trustworthy AI spotlight](sources/pr-418-expand-presentation-outline-with-trustworthy-ai-sp.md) — 10-28
+- [PR #420: docs: add fact-based AI Universe presentation with research verification](sources/pr-420-docs-add-fact-based-ai-universe-presentation-with.md) — 10-29
+- [PR #426: fix: eliminate reference redundancy in synthesis prompts](sources/pr-426-fix-eliminate-reference-redundancy-in-synthesis-pr.md) — 10-29
+- [PR #428: docs: cross-link presentation critique to architecture references](sources/pr-428-docs-cross-link-presentation-critique-to-architect.md) — 10-29
+- [PR #434: fix: prevent silent production failures with MCP URL validation (1/9 critical bugs)](sources/pr-434-fix-prevent-silent-production-failures-with-mcp-ur.md) — 10-29
+- [PR #437: docs: document associated PR for conversation agent refactor](sources/pr-437-docs-document-associated-pr-for-conversation-agent.md) — 10-29
+- [PR #438: fix: align secondary opinion prompts with unicode-safe truncation](sources/pr-438-fix-align-secondary-opinion-prompts-with-unicode-s.md) — 10-30
+- [PR #441: docs: add fastmcp system diagram](sources/pr-441-docs-add-fastmcp-system-diagram.md) — 10-29
+- [PR #445: [WIP] Document hosted environment endpoints for marketing and MCP](sources/pr-445-wip-document-hosted-environment-endpoints-for-mar.md) — 10-30
+- [PR #447: docs: clarify conversation cloud run base URLs](sources/pr-447-docs-clarify-conversation-cloud-run-base-urls.md) — 10-30
+- [PR #448: docs: record hosted environment endpoints](sources/pr-448-docs-record-hosted-environment-endpoints.md) — 10-30
+- [PR #449: fix: enforce prompt-level deduplication for references](sources/pr-449-fix-enforce-prompt-level-deduplication-for-referen.md) — 10-30
+- [PR #451: docs: clarify codex cli git capabilities](sources/pr-451-docs-clarify-codex-cli-git-capabilities.md) — 10-30
+- [PR #452: fix: increase conversation MCP default timeout](sources/pr-452-fix-increase-conversation-mcp-default-timeout.md) — 10-30
+- [PR #453: fix: allow localhost fallback on any port](sources/pr-453-fix-allow-localhost-fallback-on-any-port.md) — 10-30
+- [PR #455: fix: Replace periods with underscores in MCP tool names for OpenAI compatibility](sources/pr-455-fix-replace-periods-with-underscores-in-mcp-tool-n.md) — 10-31
+- [PR #460: chore: align render firebase config with ai-universe-b3551](sources/pr-460-chore-align-render-firebase-config-with-ai-univers.md) — 10-31
+- [PR #462: fix: remove synthetic 'Conversation started' messages and add auto-dependency installation](sources/pr-462-fix-remove-synthetic-conversation-started-messages.md) — 10-31
+- [PR #469: fix: handle undefined conversations array in listConversations](sources/pr-469-fix-handle-undefined-conversations-array-in-listco.md) — 10-31
+- [PR #475: feat: update render.yaml to match deployed backend services](sources/pr-475-feat-update-render-yaml-to-match-deployed-backend.md) — 10-31
+- [PR #478: fix: Preserve message metadata through conversation persistence layer](sources/pr-478-fix-preserve-message-metadata-through-conversation.md) — 10-31
+- [PR #489: docs: refresh repository overview](sources/pr-489-docs-refresh-repository-overview.md) — 10-31
+- [PR #490: feat: return messageIds always](sources/pr-490-feat-return-messageids-always.md) — 10-31
+- [PR #493: feat: Extract generic MCP server utilities from backend to mcp-server…](sources/pr-493-feat-extract-generic-mcp-server-utilities-from-bac.md) — 11-01
+- [PR #500: Add GitHub Actions auto-deployment workflow for backend](sources/pr-500-add-github-actions-auto-deployment-workflow-for-ba.md) — 11-02
+- [PR #502: chore: default deploy script to staging](sources/pr-502-chore-default-deploy-script-to-staging.md) — 11-02
+- [PR #504: fix: persist synthesis metadata to Firestore for second opinion messages](sources/pr-504-fix-persist-synthesis-metadata-to-firestore-for-se.md) — 11-02
+- [PR #505: Add production deployment guards and workflow](sources/pr-505-add-production-deployment-guards-and-workflow.md) — 11-02
+- [PR #509: Refactor conversation tool registration to canonical names](sources/pr-509-refactor-conversation-tool-registration-to-canonic.md) — 11-02
+- [PR #511: fix: sanitize web search annotations](sources/pr-511-fix-sanitize-web-search-annotations.md) — 11-02
+- [PR #512: fix: Convert MCP Inspector transport type to dropdown with HTTP default](sources/pr-512-fix-convert-mcp-inspector-transport-type-to-dropdo.md) — 11-02
+- [PR #514: fix: conversation.get-history crash on undefined messages + dev improvements](sources/pr-514-fix-conversation-get-history-crash-on-undefined-me.md) — 11-02
+- [PR #515: feat: implement refresh token authentication and local MCP Inspector](sources/pr-515-feat-implement-refresh-token-authentication-and-lo.md) — 11-02
+- [PR #519: fix: prefer port 2000 when running local server](sources/pr-519-fix-prefer-port-2000-when-running-local-server.md) — 11-03
+- [PR #523: chore: align conversation tool references](sources/pr-523-chore-align-conversation-tool-references.md) — 11-03
+- [PR #533: chore: remove httpie skill doc](sources/pr-533-chore-remove-httpie-skill-doc.md) — 11-04
+- [PR #535: fix: enforce ai universe firebase auth](sources/pr-535-fix-enforce-ai-universe-firebase-auth.md) — 11-03
+- [PR #537: feat: add macOS auto-start for MCP Inspector](sources/pr-537-feat-add-macos-auto-start-for-mcp-inspector.md) — 11-03
+- [PR #538: fix: derive backend llm defaults from config utils](sources/pr-538-fix-derive-backend-llm-defaults-from-config-utils.md) — 11-04
+- [PR #539: fix: build shared-libs before backend dependencies in local server](sources/pr-539-fix-build-shared-libs-before-backend-dependencies.md) — 11-04
+- [PR #542: chore: remove dotted tool aliases](sources/pr-542-chore-remove-dotted-tool-aliases.md) — 11-04
+- [PR #543: fix: remove conversation start tool](sources/pr-543-fix-remove-conversation-start-tool.md) — 11-04
+- [PR #545: fix: check spawnSync error before status in buildSharedLibs](sources/pr-545-fix-check-spawnsync-error-before-status-in-buildsh.md) — 11-04
+- [PR #556: feat: combined persistence fixes](sources/pr-556-feat-combined-persistence-fixes.md) — 11-09
+- [PR #559: Restore dotted MCP tool names](sources/pr-559-restore-dotted-mcp-tool-names.md) — 11-04
+- [PR #563: fix: stop exposing convo tools via FastMCP proxy](sources/pr-563-fix-stop-exposing-convo-tools-via-fastmcp-proxy.md) — 11-05
+- [PR #565: refactor: consolidate conversation persistence on sendMessage](sources/pr-565-refactor-consolidate-conversation-persistence-on-s.md) — 11-05
+- [PR #567: feat: unify SecondOpinionAgent architecture - eliminate 655 lines of duplication + fix critical bugs](sources/pr-567-feat-unify-secondopinionagent-architecture-elimina.md) — 11-06
+- [PR #569: Create systematic fix without hardcoding](sources/pr-569-create-systematic-fix-without-hardcoding.md) — 11-06
+- [PR #570: Verify add-message tool removal](sources/pr-570-verify-add-message-tool-removal.md) — 11-08
+- [PR #573: feat: Add Beads MCP integration for git-backed issue tracking](sources/pr-573-feat-add-beads-mcp-integration-for-git-backed-issu.md) — 11-07
+- [PR #574: [WIP] Add Beads MCP integration for issue tracking](sources/pr-574-wip-add-beads-mcp-integration-for-issue-tracking.md) — 11-07
+- [PR #576: feat: harden conversation MCP, rate limits, and citation guarantees](sources/pr-576-feat-harden-conversation-mcp-rate-limits-and-citat.md) — 11-08
+- [PR #580: Fix GitHub Actions production deployment workflow](sources/pr-580-fix-github-actions-production-deployment-workflow.md) — 11-08
+- [PR #583: Refactor conversation setup concurrency into shared utils](sources/pr-583-refactor-conversation-setup-concurrency-into-share.md) — 11-09
+- [PR #589: Review AGENTS.md documentation and plan next steps](sources/pr-589-review-agents-md-documentation-and-plan-next-steps.md) — 11-09
+- [PR #590: refactor: Extract rate limiting to shared-libs and integrate Secret Manager](sources/pr-590-refactor-extract-rate-limiting-to-shared-libs-and.md) — 11-09
+- [PR #591: cleanup: Remove deprecated Firestore rate limit management](sources/pr-591-cleanup-remove-deprecated-firestore-rate-limit-man.md) — 11-09
+- [PR #596: Increase beads timeout for workspace setup](sources/pr-596-increase-beads-timeout-for-workspace-setup.md) — 11-09
+- [PR #597: Update agents and claude documentation files](sources/pr-597-update-agents-and-claude-documentation-files.md) — 11-09
+- [PR #598: Audit codebase for critical bugs](sources/pr-598-audit-codebase-for-critical-bugs.md) — 11-10
+- [PR #599: Add response format guidelines for Claude](sources/pr-599-add-response-format-guidelines-for-claude.md) — 11-09
+- [PR #603: Fix TokenCentralization test failures and undefined returns](sources/pr-603-fix-tokencentralization-test-failures-and-undefine.md) — 11-09
+- [PR #605: chore: Add bead for ES module test fix tracking](sources/pr-605-chore-add-bead-for-es-module-test-fix-tracking.md) — 11-09
+- [PR #606: Fix API schema limit and re-enable token tests](sources/pr-606-fix-api-schema-limit-and-re-enable-token-tests.md) — 11-09
+- [PR #607: Fix ESM and metadata bugs with TDD approach](sources/pr-607-fix-esm-and-metadata-bugs-with-tdd-approach.md) — 11-09
+- [PR #608: Install and update MCP client](sources/pr-608-install-and-update-mcp-client.md) — 11-09
+- [PR #609: Create second-opinion-client library](sources/pr-609-create-second-opinion-client-library.md) — 11-09
+- [PR #610: Update agent and Claude documentation](sources/pr-610-update-agent-and-claude-documentation.md) — 11-09
+- [PR #611: Convert server scripts into npm library](sources/pr-611-convert-server-scripts-into-npm-library.md) — 11-10
+- [PR #612: Add special response to tool calls](sources/pr-612-add-special-response-to-tool-calls.md) — 11-11
+- [PR #613: Add instruction to read skills directory](sources/pr-613-add-instruction-to-read-skills-directory.md) — 11-10
+- [PR #614: Set up Google Cloud Monitoring with TypeScript](sources/pr-614-set-up-google-cloud-monitoring-with-typescript.md) — 11-17
+- [PR #619: Fix message persistence and ordering issue](sources/pr-619-fix-message-persistence-and-ordering-issue.md) — 11-11
+- [PR #621: Resolve rebase conflict and complete Husky hook validation](sources/pr-621-resolve-rebase-conflict-and-complete-husky-hook-va.md) — 11-10
+- [PR #622: Mock APIs in MCP smoke tests](sources/pr-622-mock-apis-in-mcp-smoke-tests.md) — 11-11
+- [PR #624: Investigate OpenRouter usage spike](sources/pr-624-investigate-openrouter-usage-spike.md) — 11-10
+- [PR #627: Set up Git hooks for automated checks](sources/pr-627-set-up-git-hooks-for-automated-checks.md) — 11-11
+- [PR #628: Fix smoke command workflow trigger](sources/pr-628-fix-smoke-command-workflow-trigger.md) — 11-12
+- [PR #629: Add Grok fallback model with TDD approach](sources/pr-629-add-grok-fallback-model-with-tdd-approach.md) — 11-13
+- [PR #631: Set up Husky for Git presubmit checks](sources/pr-631-set-up-husky-for-git-presubmit-checks.md) — 11-11
+- [PR #632: Update documentation with GitHub token setup](sources/pr-632-update-documentation-with-github-token-setup.md) — 11-11
+- [PR #633: Convert repository to Git submodule](sources/pr-633-convert-repository-to-git-submodule.md) — 11-11
+- [PR #634: Fix message ordering bug with tests](sources/pr-634-fix-message-ordering-bug-with-tests.md) — 11-11
+- [PR #635: Add email notifications for auto-deploy failures](sources/pr-635-add-email-notifications-for-auto-deploy-failures.md) — 11-11
+- [PR #636: Fix backend auto-deploy missing library assets](sources/pr-636-fix-backend-auto-deploy-missing-library-assets.md) — 11-11
+- [PR #637: Assistant message timestamp set when response generated](sources/pr-637-assistant-message-timestamp-set-when-response-gene.md) — 11-11
+- [PR #638: Add Firebase user activity analysis script](sources/pr-638-add-firebase-user-activity-analysis-script.md) — 11-11
+- [PR #640: Add test for getConversationContext pagination sorting fix](sources/pr-640-add-test-for-getconversationcontext-pagination-sor.md) — 11-11
+- [PR #641: fix: VIP allowlist fallback and RATE_LIMIT_RENDER_ASSUME_SINGLE support](sources/pr-641-fix-vip-allowlist-fallback-and-rate-limit-render-a.md) — 11-11
+- [PR #642: ratelimiting: Fix conditional statement syntax error](sources/pr-642-ratelimiting-fix-conditional-statement-syntax-erro.md) — 11-11
+- [PR #644: fix: improve message ordering robustness with shared sorting helper](sources/pr-644-fix-improve-message-ordering-robustness-with-share.md) — 11-11
+- [PR #645: Organize project root files and documentation](sources/pr-645-organize-project-root-files-and-documentation.md) — 11-12
+- [PR #646: fix: Rate limiting (10/20 req/hr/day) + CRITICAL: Fix ConversationAgent rate limit bypass](sources/pr-646-fix-rate-limiting-10-20-req-hr-day-critical-fix-co.md) — 11-12
+- [PR #647: Container capabilities versus cloud limitations](sources/pr-647-container-capabilities-versus-cloud-limitations.md) — 11-12
+- [PR #648: Continue cloud monitoring PR implementation](sources/pr-648-continue-cloud-monitoring-pr-implementation.md) — 11-17
+- [PR #649: Add slash commands from git submodule](sources/pr-649-add-slash-commands-from-git-submodule.md) — 11-12
+- [PR #650: chore: Change package access from restricted to public for npm publishing](sources/pr-650-chore-change-package-access-from-restricted-to-pub.md) — 11-12
+- [PR #652: Debug and fix userid issue with tests](sources/pr-652-debug-and-fix-userid-issue-with-tests.md) — 11-13
+- [PR #653: Debug admin rate limit logic for users](sources/pr-653-debug-admin-rate-limit-logic-for-users.md) — 11-12
+- [PR #657: fix: align firebase auth admin email env vars](sources/pr-657-fix-align-firebase-auth-admin-email-env-vars.md) — 11-12
+- [PR #658: Fix monitoring instrumentation and proxy startup regressions](sources/pr-658-fix-monitoring-instrumentation-and-proxy-startup-r.md) — 11-12
+- [PR #665: fix: harmonize conversation id precedence in integration tests](sources/pr-665-fix-harmonize-conversation-id-precedence-in-integr.md) — 11-12
+- [PR #669: Audit LLM API calls and test workflows](sources/pr-669-audit-llm-api-calls-and-test-workflows.md) — 11-12
+- [PR #675: Address review feedback for Cerebras API migration](sources/pr-675-address-review-feedback-for-cerebras-api-migration.md) — 11-12
+- [PR #678: chore: document backend auto deploy skipping ci](sources/pr-678-chore-document-backend-auto-deploy-skipping-ci.md) — 11-13
+- [PR #682: Document GitHub CLI binary download instructions](sources/pr-682-document-github-cli-binary-download-instructions.md) — 11-13
+- [PR #683: chore: unblock backend auto deploy checkout](sources/pr-683-chore-unblock-backend-auto-deploy-checkout.md) — 11-13
+- [PR #685: fix: allow consensus-ml domain for CORS](sources/pr-685-fix-allow-consensus-ml-domain-for-cors.md) — 11-13
+- [PR #689: Fix deployment docs and config handling for Redis follow-up](sources/pr-689-fix-deployment-docs-and-config-handling-for-redis.md) — 11-13
+- [PR #691: ci: share backend dev workflow](sources/pr-691-ci-share-backend-dev-workflow.md) — 11-13
+- [PR #696: Address review feedback for Cerebras secret mapping](sources/pr-696-address-review-feedback-for-cerebras-secret-mappin.md) — 11-13
+- [PR #697: fix: audit token tracking across llm tools](sources/pr-697-fix-audit-token-tracking-across-llm-tools.md) — 11-17
+- [PR #699: Design evaluation framework for quality assessment](sources/pr-699-design-evaluation-framework-for-quality-assessment.md) — 11-13
+- [PR #700: Debug transient rate limit on admin account](sources/pr-700-debug-transient-rate-limit-on-admin-account.md) — 11-13
+- [PR #701: Fix admin fallback rate limiting](sources/pr-701-fix-admin-fallback-rate-limiting.md) — 11-13
+- [PR #703: Fix fallback admin validation](sources/pr-703-fix-fallback-admin-validation.md) — 11-13
+- [PR #704: Debug in-memory rate limit logic](sources/pr-704-debug-in-memory-rate-limit-logic.md) — 11-13
+- [PR #705: ci: add manual backend deploy workflow](sources/pr-705-ci-add-manual-backend-deploy-workflow.md) — 11-13
+- [PR #706: Force Cerebras OpenRouter calls to stay on BYOK](sources/pr-706-force-cerebras-openrouter-calls-to-stay-on-byok.md) — 11-17
+- [PR #707: fix: harden in-memory rate limit retention](sources/pr-707-fix-harden-in-memory-rate-limit-retention.md) — 11-13
+- [PR #708: test: refresh rate limit logging tests](sources/pr-708-test-refresh-rate-limit-logging-tests.md) — 11-13
+- [PR #711: ci: add manual trigger to backend auto deploy](sources/pr-711-ci-add-manual-trigger-to-backend-auto-deploy.md) — 11-13
+- [PR #712: Add technical details to multi-AI tool launch announcement](sources/pr-712-add-technical-details-to-multi-ai-tool-launch-anno.md) — 11-13
+- [PR #713: Consolidate CI workflows to reduce runner usage](sources/pr-713-consolidate-ci-workflows-to-reduce-runner-usage.md) — 11-17
+- [PR #715: Verify pagination defaults are respected](sources/pr-715-verify-pagination-defaults-are-respected.md) — 11-29
+- [PR #716: feat: align model context windows](sources/pr-716-feat-align-model-context-windows.md) — 11-13
+- [PR #719: fix: resolve YAML syntax error in deploy-dev workflow](sources/pr-719-fix-resolve-yaml-syntax-error-in-deploy-dev-workfl.md) — 11-13
+- [PR #722: Fix secondo CLI auth path and stabilize token fallback](sources/pr-722-fix-secondo-cli-auth-path-and-stabilize-token-fall.md) — 11-13
+- [PR #724: fix: resolve YAML parsing errors in deploy-dev workflow](sources/pr-724-fix-resolve-yaml-parsing-errors-in-deploy-dev-work.md) — 11-13
+- [PR #730: fix: guard auth bypass logic locally](sources/pr-730-fix-guard-auth-bypass-logic-locally.md) — 11-13
+- [PR #731: Verify pagination defaults are respected](sources/pr-731-verify-pagination-defaults-are-respected.md) — 11-13
+- [PR #734: docs: summarize backend auto-deploy manual trigger fix](sources/pr-734-docs-summarize-backend-auto-deploy-manual-trigger.md) — 11-14
+- [PR #736: Fix redirect auth flow and user-agent tests](sources/pr-736-fix-redirect-auth-flow-and-user-agent-tests.md) — 11-14
+- [PR #738: fix(auth): Centralize authentication with AuthContextResolver, refactor SecondOpinionAgent](sources/pr-738-fix-auth-centralize-authentication-with-authcontex.md) — 11-15
+- [PR #739: Disable web search for Cerebras model](sources/pr-739-disable-web-search-for-cerebras-model.md) — 11-15
+- [PR #740: fix: Admin rate limit bug - add UID-based fallback for missing email claims in Firebase tokens](sources/pr-740-fix-admin-rate-limit-bug-add-uid-based-fallback-fo.md) — 11-17
+- [PR #741: fix: enforce centralized auth for conversation agent](sources/pr-741-fix-enforce-centralized-auth-for-conversation-agen.md) — 11-15
+- [PR #749: chore: backend local auth bypass proof](sources/pr-749-chore-backend-local-auth-bypass-proof.md) — 11-17
+- [PR #750: Only return retryAt payloads vs ratelimit full info](sources/pr-750-only-return-retryat-payloads-vs-ratelimit-full-inf.md) — 11-16
+- [PR #751: Fix web search configuration inversion bug](sources/pr-751-fix-web-search-configuration-inversion-bug.md) — 11-17
+- [PR #752: Sanitize rate limit responses and document retryAt-only contract](sources/pr-752-sanitize-rate-limit-responses-and-document-retryat.md) — 11-16
+- [PR #754: Test parallel second opinion LLM calls](sources/pr-754-test-parallel-second-opinion-llm-calls.md) — 11-17
+- [PR #755: docs: capture live llm rate-limit evidence](sources/pr-755-docs-capture-live-llm-rate-limit-evidence.md) — 11-17
+- [PR #757: fix: harden perplexity token handling](sources/pr-757-fix-harden-perplexity-token-handling.md) — 11-17
+- [PR #758: fix: reconcile Gemini token counts with provider totals](sources/pr-758-fix-reconcile-gemini-token-counts-with-provider-to.md) — 11-17
+- [PR #759: fix: Resolve Google Cloud Monitoring label schema conflict for P1 metrics](sources/pr-759-fix-resolve-google-cloud-monitoring-label-schema-c.md) — 11-24
+- [PR #760: Use Grok for secondary models with random selection](sources/pr-760-use-grok-for-secondary-models-with-random-selectio.md) — 11-18
+- [PR #765: Fix backend bugs from frontend team](sources/pr-765-fix-backend-bugs-from-frontend-team.md) — 11-20
+- [PR #766: Relax UUID v4 validation in client library](sources/pr-766-relax-uuid-v4-validation-in-client-library.md) — 11-20
+- [PR #767: Set up centralized email deployments](sources/pr-767-set-up-centralized-email-deployments.md) — 11-19
+- [PR #771: Document all exported npm library API details](sources/pr-771-document-all-exported-npm-library-api-details.md) — 11-28
+- [PR #772: Fix GCP monitoring timestamp with clock skew tolerance](sources/pr-772-fix-gcp-monitoring-timestamp-with-clock-skew-toler.md) — 11-20
+- [PR #773: fix: rate-limit flag semantics (deployp-22l)](sources/pr-773-fix-rate-limit-flag-semantics-deployp-22l.md) — 11-21
+- [PR #774: feat: stabilize cerebras/openrouter switching](sources/pr-774-feat-stabilize-cerebras-openrouter-switching.md) — 11-21
+- [PR #775: feat: add http logging hooks (deployp-rbo)](sources/pr-775-feat-add-http-logging-hooks-deployp-rbo.md) — 11-21
+- [PR #776: chore: auth init & secret wiring (deployp-2hc)](sources/pr-776-chore-auth-init-secret-wiring-deployp-2hc.md) — 11-20
+- [PR #777: chore: sync tests/docs/skills (deployp-9f7)](sources/pr-777-chore-sync-tests-docs-skills-deployp-9f7.md) — 11-21
+- [PR #779: Reproduce and fix test failure](sources/pr-779-reproduce-and-fix-test-failure.md) — 11-21
+- [PR #780: Fix metrics flush error to Cloud Monitoring](sources/pr-780-fix-metrics-flush-error-to-cloud-monitoring.md) — 11-20
+- [PR #781: Improve message persistence verification and validation](sources/pr-781-improve-message-persistence-verification-and-valid.md) — 11-20
+- [PR #791: Fix CI workflow simulation defaults and indentation](sources/pr-791-fix-ci-workflow-simulation-defaults-and-indentatio.md) — 11-21
+- [PR #792: Hardcode deploy project id](sources/pr-792-hardcode-deploy-project-id.md) — 11-21
+- [PR #794: chore: disable local server rate limits by default (rerun tests)](sources/pr-794-chore-disable-local-server-rate-limits-by-default.md) — 11-21
+- [PR #795: feat: Implement Python integration test runner and re-enable CI tests](sources/pr-795-feat-implement-python-integration-test-runner-and.md) — 11-21
+- [PR #796: fix: enforce rate limit during integration setup](sources/pr-796-fix-enforce-rate-limit-during-integration-setup.md) — 11-21
+- [PR #798: test: Add rate limit enforcement validation and fix E2E test timeouts](sources/pr-798-test-add-rate-limit-enforcement-validation-and-fix.md) — 11-21
+- [PR #799: Review code for async and parallelization opportunities](sources/pr-799-review-code-for-async-and-parallelization-opportun.md) — 11-25
+- [PR #800: fix: Enhance conversation validation and test error handling (23/24 tests passing)](sources/pr-800-fix-enhance-conversation-validation-and-test-error.md) — 11-21
+- [PR #801: Design agentic blogging MCP server architecture](sources/pr-801-design-agentic-blogging-mcp-server-architecture.md) — 11-22
+- [PR #802: Implement async logging functionality](sources/pr-802-implement-async-logging-functionality.md) — 11-22
+- [PR #805: fix: Pin Node.js to 22.x to fix Render build failure](sources/pr-805-fix-pin-node-js-to-22-x-to-fix-render-build-failur.md) — 11-22
+- [PR #808: Add jose-based receipt utils package](sources/pr-808-add-jose-based-receipt-utils-package.md) — 12-01
+- [PR #809: Fix rate limit reconciliation after auth resolution](sources/pr-809-fix-rate-limit-reconciliation-after-auth-resolutio.md) — 11-23
+- [PR #817: fix: address monitoring middleware metrics edge cases](sources/pr-817-fix-address-monitoring-middleware-metrics-edge-cas.md) — 11-24
+- [PR #818: Fix rate-limit provisional identity reuse in send-message](sources/pr-818-fix-rate-limit-provisional-identity-reuse-in-send.md) — 11-24
+- [PR #820: Centralize duplicated code into shared libraries](sources/pr-820-centralize-duplicated-code-into-shared-libraries.md) — 11-25
+- [PR #821: Fix package lock and install GitHub CLI](sources/pr-821-fix-package-lock-and-install-github-cli.md) — 11-25
+- [PR #829: Address review feedback for shared code centralization](sources/pr-829-address-review-feedback-for-shared-code-centraliza.md) — 11-27
+- [PR #832: Fix rate-limit identity alignment and CI credential guard](sources/pr-832-fix-rate-limit-identity-alignment-and-ci-credentia.md) — 11-25
+- [PR #835: Redo Redis rate limiting implementation](sources/pr-835-redo-redis-rate-limiting-implementation.md) — 12-24
+- [PR #836: Extract shared code into libraries](sources/pr-836-extract-shared-code-into-libraries.md) — 11-27
+- [PR #841: docs: Service Mesh Framework Analysis for AI Universe](sources/pr-841-docs-service-mesh-framework-analysis-for-ai-univer.md) — 11-27
+- [PR #842: Design distributed load testing plan with GCP](sources/pr-842-design-distributed-load-testing-plan-with-gcp.md) — 12-26
+- [PR #843: Shared library rebuild strategy](sources/pr-843-shared-library-rebuild-strategy.md) — 11-28
+- [PR #844: Refactor conversation agent into shared libraries](sources/pr-844-refactor-conversation-agent-into-shared-libraries.md) — 11-27
+- [PR #851: Integrate load testing script from PR](sources/pr-851-integrate-load-testing-script-from-pr.md) — 11-29
+- [PR #855: Improve blast latency timing and adaptive concurrency](sources/pr-855-improve-blast-latency-timing-and-adaptive-concurre.md) — 11-27
+- [PR #858: Fix GCP monitoring metrics not appearing](sources/pr-858-fix-gcp-monitoring-metrics-not-appearing.md) — 12-10
+- [PR #866: Ensure Cerebras primary uses OpenRouter web search](sources/pr-866-ensure-cerebras-primary-uses-openrouter-web-search.md) — 12-01
+- [PR #868: feat: preserve citations in single-model replies](sources/pr-868-feat-preserve-citations-in-single-model-replies.md) — 12-01
+- [PR #878: fix: use npm ci in CI for strict reproducible builds](sources/pr-878-fix-use-npm-ci-in-ci-for-strict-reproducible-build.md) — 12-01
+- [PR #880: feat: Add explicit CerebrasMode (FAST/SMART) for endpoint selection](sources/pr-880-feat-add-explicit-cerebrasmode-fast-smart-for-endp.md) — 12-02
+- [PR #882: chore: clarify Cerebras routing comment](sources/pr-882-chore-clarify-cerebras-routing-comment.md) — 12-01
+- [PR #887: refactor: rename usedFallback to hasError for clarity](sources/pr-887-refactor-rename-usedfallback-to-haserror-for-clari.md) — 12-03
+- [PR #889: refactor: rename usedFallback to hasError for clarity](sources/pr-889-refactor-rename-usedfallback-to-haserror-for-clari.md) — 12-02
+- [PR #891: fix: add fallbackMessage alias and stabilize second opinion test](sources/pr-891-fix-add-fallbackmessage-alias-and-stabilize-second.md) — 12-10
+- [PR #899: chore: clarify convo-agent deprecations](sources/pr-899-chore-clarify-convo-agent-deprecations.md) — 12-03
+- [PR #900: Disable and delete Claude FixPR Agent workflow](sources/pr-900-disable-and-delete-claude-fixpr-agent-workflow.md) — 12-03
+- [PR #905: Clarify production-like guard for PR fallbacks](sources/pr-905-clarify-production-like-guard-for-pr-fallbacks.md) — 12-03
+- [PR #908: fix(cerebras): retry on 503 queue_exceeded rate limit errors](sources/pr-908-fix-cerebras-retry-on-503-queue-exceeded-rate-limi.md) — 12-06
+- [PR #917: Add abort-aware streaming retries for Cerebras](sources/pr-917-add-abort-aware-streaming-retries-for-cerebras.md) — 12-06
+- [PR #918: Address Cerebras streaming abort handling feedback](sources/pr-918-address-cerebras-streaming-abort-handling-feedback.md) — 12-07
+- [PR #919: refactor: redesign monitoring dashboard for low-traffic readability](sources/pr-919-refactor-redesign-monitoring-dashboard-for-low-tra.md) — 12-10
+- [PR #922: Compress Claude documentation to 500 lines](sources/pr-922-compress-claude-documentation-to-500-lines.md) — 12-17
+- [PR #924: Switch to OpenRouter Cerebras model for synthesis](sources/pr-924-switch-to-openrouter-cerebras-model-for-synthesis.md) — 12-27
+- [PR #926: Upgrade default model to Gemini 3 flash](sources/pr-926-upgrade-default-model-to-gemini-3-flash.md) — 12-18
+- [PR #927: Upgrade OpenAI model to GPT-5 and update pricing](sources/pr-927-upgrade-openai-model-to-gpt-5-and-update-pricing.md) — 12-19
+- [PR #931: Switch to OpenRouter Cerebras model for synthesis](sources/pr-931-switch-to-openrouter-cerebras-model-for-synthesis.md) — 12-18
+- [PR #940: feat: add DAU/WAU analysis to user activity script](sources/pr-940-feat-add-dau-wau-analysis-to-user-activity-script.md) — 12-24
+- [PR #942: Create prompt for consensus ML growth strategy](sources/pr-942-create-prompt-for-consensus-ml-growth-strategy.md) — 12-24
+- [PR #943: Pass user email to conversation backend](sources/pr-943-pass-user-email-to-conversation-backend.md) — 12-25
+- [PR #949: Fix missing firebase-admin dependency in DAU/WAU report](sources/pr-949-fix-missing-firebase-admin-dependency-in-dau-wau-r.md) — 12-25
+- [PR #952: feat: Enhance user activity report with weekly/monthly stats and percentiles](sources/pr-952-feat-enhance-user-activity-report-with-weekly-mont.md) — 12-26
+- [PR #953: fix: Use /tmp path in CI and add top 10 users to email body](sources/pr-953-fix-use-tmp-path-in-ci-and-add-top-10-users-to-ema.md) — 12-26
+- [PR #954: fix: Show emails instead of user IDs in top users list](sources/pr-954-fix-show-emails-instead-of-user-ids-in-top-users-l.md) — 12-26
+- [PR #961: fix: Add context-aware message selection to prevent Cerebras context overflow](sources/pr-961-fix-add-context-aware-message-selection-to-prevent.md) — 01-04
+- [PR #966: fix: align context budget floor and logging](sources/pr-966-fix-align-context-budget-floor-and-logging.md) — 01-04
+- [PR #977: Design answer sharing feature with link generation](sources/pr-977-design-answer-sharing-feature-with-link-generation.md) — 02-19
+- [PR #981: fix: Migrate Grok API from deprecated Live Search to Agent Tools API](sources/pr-981-fix-migrate-grok-api-from-deprecated-live-search-t.md) — 02-05
+- [PR #992: Add PR details to deployment notification emails](sources/pr-992-add-pr-details-to-deployment-notification-emails.md) — 02-13
+- [PR #996: Set secondary model timeout default to 3.5 minutes](sources/pr-996-set-secondary-model-timeout-default-to-3-5-minutes.md) — 02-14
+- [PR #999: real-mode latency report + MCP session init, monitoring flush resilience](sources/pr-999-real-mode-latency-report-mcp-session-init-monitori.md) — 02-17
+- [PR #1000: chore: default OpenAI model to gpt-5-mini](sources/pr-1000-chore-default-openai-model-to-gpt-5-mini.md) — 02-14
+- [PR #1001: fix: harden dev deploy metadata and stabilize Redis rate limiting for GPT-5 Mini](sources/pr-1001-fix-harden-dev-deploy-metadata-and-stabilize-redis.md) — 02-14
+- [PR #1002: fix: harden MCP init/notification handling + add review responses.json](sources/pr-1002-fix-harden-mcp-init-notification-handling-add-revi.md) — 02-16
+- [PR #1006: fix: default OpenAI secondary to gpt-5-nano](sources/pr-1006-fix-default-openai-secondary-to-gpt-5-nano.md) — 03-09
+- [PR #1: Add AI Universe Frontend MVP Foundation](sources/pr-1-add-ai-universe-frontend-mvp-foundation.md) — 09-18
+- [PR #2: fix: Implement proper MCP Streamable HTTP transport protocol](sources/pr-2-fix-implement-proper-mcp-streamable-http-transport.md) — 09-18
+- [PR #4: 🔥 CRITICAL: Fix MCP protocol session management and deployment issues](sources/pr-4-critical-fix-mcp-protocol-session-management-and.md) — 09-19
+- [PR #5: feat: Add browser testing utilities for MCP validation](sources/pr-5-feat-add-browser-testing-utilities-for-mcp-validat.md) — 09-19
+- [PR #6: feat: Add comprehensive development and deployment scripts from backend](sources/pr-6-feat-add-comprehensive-development-and-deployment.md) — 09-19
+- [PR #7: feat: Integrate AI Synthesis - Comprehensive Multi-Model Analysis](sources/pr-7-feat-integrate-ai-synthesis-comprehensive-multi-mo.md) — 09-20
+- [PR #10: chore(deps): Bump esbuild, vite, @vitest/coverage-v8, @vitest/ui and vitest](sources/pr-10-chore-deps-bump-esbuild-vite-vitest-coverage-v8-vi.md) — 09-20
+- [PR #11: docs: clarify GCP deployment URLs in documentation](sources/pr-11-docs-clarify-gcp-deployment-urls-in-documentation.md) — 09-20
+- [PR #12: feat: make backend URLs configurable via deploy script parameters](sources/pr-12-feat-make-backend-urls-configurable-via-deploy-scr.md) — 09-21
+- [PR #13: fix: remove --no-traffic anti-pattern from dev deployments](sources/pr-13-fix-remove-no-traffic-anti-pattern-from-dev-deploy.md) — 09-21
+- [PR #14: refactor: remove hardcoded model names from frontend](sources/pr-14-refactor-remove-hardcoded-model-names-from-fronten.md) — 09-21
+- [PR #15: docs: add Claude Code slash commands and hooks documentation](sources/pr-15-docs-add-claude-code-slash-commands-and-hooks-docu.md) — 09-21
+- [PR #16: feat: change deploy.sh default environment from prod to dev](sources/pr-16-feat-change-deploy-sh-default-environment-from-pro.md) — 09-21
+- [PR #17: feat: add colorful model badges for AI opinions](sources/pr-17-feat-add-colorful-model-badges-for-ai-opinions.md) — 09-22
+- [PR #18: feat: remove maxOpinions parameter and add deployment architecture docs](sources/pr-18-feat-remove-maxopinions-parameter-and-add-deployme.md) — 09-22
+- [PR #19: docs: correct MCP architecture and add multi-stage streaming roadmap](sources/pr-19-docs-correct-mcp-architecture-and-add-multi-stage.md) — 09-22
+- [PR #20: UI Fixes: Improve model opinion cards layout and markdown support](sources/pr-20-ui-fixes-improve-model-opinion-cards-layout-and-ma.md) — 09-22
+- [PR #21: Remove frontend character limit validation for questions](sources/pr-21-remove-frontend-character-limit-validation-for-que.md) — 09-22
+- [PR #22: Improve mobile chat layout and readability](sources/pr-22-improve-mobile-chat-layout-and-readability.md) — 09-25
+- [PR #25: Fix character limit validation and upgrade deployment architecture](sources/pr-25-fix-character-limit-validation-and-upgrade-deploym.md) — 09-23
+- [PR #27: feat: add Google SSO with Firebase](sources/pr-27-feat-add-google-sso-with-firebase.md) — 09-25
+- [PR #28: Ensure all AI models always have colors in the UI](sources/pr-28-ensure-all-ai-models-always-have-colors-in-the-ui.md) — 09-23
+- [PR #29: Configure local dev server to point to dev GCP backend](sources/pr-29-configure-local-dev-server-to-point-to-dev-gcp-bac.md) — 09-23
+- [PR #30: Fix clipboard functionality with comprehensive fallback support](sources/pr-30-fix-clipboard-functionality-with-comprehensive-fal.md) — 09-24
+- [PR #32: Fix clipboard API permissions policy violation](sources/pr-32-fix-clipboard-api-permissions-policy-violation.md) — 09-25
+- [PR #34: WORKING - Improve LoadingStages mobile layout](sources/pr-34-working-improve-loadingstages-mobile-layout.md) — 09-26
+- [PR #40: Refine second opinion integration coverage](sources/pr-40-refine-second-opinion-integration-coverage.md) — 09-28
+- [PR #44: feat: Add GitHub Actions PR Preview Deployment with VPC-SC Support](sources/pr-44-feat-add-github-actions-pr-preview-deployment-with.md) — 09-29
+- [PR #45: Fix Render wrapper page for mobile viewports](sources/pr-45-fix-render-wrapper-page-for-mobile-viewports.md) — 09-29
+- [PR #46: Add PR preview deployment comment](sources/pr-46-add-pr-preview-deployment-comment.md) — 09-30
+- [PR #47: Ensure Firebase config is injected for preview deployments](sources/pr-47-ensure-firebase-config-is-injected-for-preview-dep.md) — 10-01
+- [PR #48: Update welcome message to mention Grok](sources/pr-48-update-welcome-message-to-mention-grok.md) — 10-01
+- [PR #50: Adjust loading spinner timing and stages](sources/pr-50-adjust-loading-spinner-timing-and-stages.md) — 10-02
+- [PR #53: feat: Cloud Run Server Pool for Firebase OAuth](sources/pr-53-feat-cloud-run-server-pool-for-firebase-oauth.md) — 10-03
+- [PR #58: feat: Add comprehensive evidence collection protocol to test specifications](sources/pr-58-feat-add-comprehensive-evidence-collection-protoco.md) — 10-03
+- [PR #61: feat(chat): add mode toggle and conversation tooling](sources/pr-61-feat-chat-add-mode-toggle-and-conversation-tooling.md) — 10-11
+- [PR #62: Slow down initialization spinner](sources/pr-62-slow-down-initialization-spinner.md) — 10-09
+- [PR #65: Ensure loading progress completes in 90 seconds](sources/pr-65-ensure-loading-progress-completes-in-90-seconds.md) — 10-11
+- [PR #72: fix: Update frontend to use Render backend URLs](sources/pr-72-fix-update-frontend-to-use-render-backend-urls.md) — 10-20
+- [PR #74: Add ChatInterface auth token unit test](sources/pr-74-add-chatinterface-auth-token-unit-test.md) — 10-27
+- [PR #77: feat: add Morgan logging + fix MCP race condition, favicon, and COOP headers](sources/pr-77-feat-add-morgan-logging-fix-mcp-race-condition-fav.md) — 10-30
+- [PR #83: Conversation MCP integration + unified integration test entrypoint](sources/pr-83-conversation-mcp-integration-unified-integration-t.md) — 11-10
+- [PR #85: Add AI Universe deployment URL references for agents](sources/pr-85-add-ai-universe-deployment-url-references-for-agen.md) — 10-30
+- [PR #89: fix: ensure Render build installs dev dependencies](sources/pr-89-fix-ensure-render-build-installs-dev-dependencies.md) — 10-30
+- [PR #90: Fix streaming response hook URL resolution](sources/pr-90-fix-streaming-response-hook-url-resolution.md) — 10-30
+- [PR #96: fix: sync render.yaml with existing service for Blueprint integration](sources/pr-96-fix-sync-render-yaml-with-existing-service-for-blu.md) — 10-30
+- [PR #102: Enhance synthesis view link and heading styling](sources/pr-102-enhance-synthesis-view-link-and-heading-styling.md) — 10-30
+- [PR #106: Clarify Codex CLI Git permissions in AGENTS guidance](sources/pr-106-clarify-codex-cli-git-permissions-in-agents-guidan.md) — 10-30
+- [PR #107: Handle consecutive single-line references as separate entries](sources/pr-107-handle-consecutive-single-line-references-as-separ.md) — 10-30
+- [PR #110: Address review feedback for reference parsing and accordion](sources/pr-110-address-review-feedback-for-reference-parsing-and.md) — 10-30
+- [PR #113: Update Render Firebase config for ai-universe project](sources/pr-113-update-render-firebase-config-for-ai-universe-proj.md) — 10-31
+- [PR #115: Refine model badge gradient for blue-purple palette](sources/pr-115-refine-model-badge-gradient-for-blue-purple-palett.md) — 10-31
+- [PR #118: Clarify execution philosophy scope and tenets](sources/pr-118-clarify-execution-philosophy-scope-and-tenets.md) — 10-31
+- [PR #119: Add GitHub Actions Auto-Deployment Workflow](sources/pr-119-add-github-actions-auto-deployment-workflow.md) — 11-02
+- [PR #121: Set staging as the default deploy target](sources/pr-121-set-staging-as-the-default-deploy-target.md) — 11-02
+- [PR #122: Add production deployment workflow with manual approval](sources/pr-122-add-production-deployment-workflow-with-manual-app.md) — 11-02
+- [PR #124: Update staging deploy backend mapping](sources/pr-124-update-staging-deploy-backend-mapping.md) — 11-02
+- [PR #128: Remove unreliable Morgan logging tests](sources/pr-128-remove-unreliable-morgan-logging-tests.md) — 11-05
+- [PR #133: Fix GitHub Actions production deployment workflow](sources/pr-133-fix-github-actions-production-deployment-workflow.md) — 11-08
+- [PR #135: Review PR and update documentation files](sources/pr-135-review-pr-and-update-documentation-files.md) — 11-09
+- [PR #136: Work on beads project](sources/pr-136-work-on-beads-project.md) — 11-09
+- [PR #137: Update agents and claude documentation files](sources/pr-137-update-agents-and-claude-documentation-files.md) — 11-09
+- [PR #138: Make AI agents autonomous and set up Git hooks](sources/pr-138-make-ai-agents-autonomous-and-set-up-git-hooks.md) — 11-10
+- [PR #139: Fix second multi-model message disappearing bug](sources/pr-139-fix-second-multi-model-message-disappearing-bug.md) — 11-10
+- [PR #140: Integrate manual test cases into testing module](sources/pr-140-integrate-manual-test-cases-into-testing-module.md) — 11-10
+- [PR #141: Integrate with external service](sources/pr-141-integrate-with-external-service.md) — 11-11
+- [PR #142: Add skills directory instructions to agents.md](sources/pr-142-add-skills-directory-instructions-to-agents-md.md) — 11-10
+- [PR #143: Fix 6 test failures in conversation system](sources/pr-143-fix-6-test-failures-in-conversation-system.md) — 11-11
+- [PR #144: Set up pre-commit hooks for Git](sources/pr-144-set-up-pre-commit-hooks-for-git.md) — 11-11
+- [PR #150: Fix second multi-model message disappearing bug](sources/pr-150-fix-second-multi-model-message-disappearing-bug.md) — 11-10
+- [PR #151: Follow-up: stabilize noserver payload capture scripts](sources/pr-151-follow-up-stabilize-noserver-payload-capture-scrip.md) — 11-10
+- [PR #152: Fix and pass Cypress tests](sources/pr-152-fix-and-pass-cypress-tests.md) — 11-11
+- [PR #154: Fix new chat button preselecting existing conversation](sources/pr-154-fix-new-chat-button-preselecting-existing-conversa.md) — 11-11
+- [PR #155: Fix multi-model message sending issue](sources/pr-155-fix-multi-model-message-sending-issue.md) — 11-11
+- [PR #156: Fix direct conversation URL navigation](sources/pr-156-fix-direct-conversation-url-navigation.md) — 11-11
+- [PR #158: Resolve rebase conflict and complete Husky hook validation](sources/pr-158-resolve-rebase-conflict-and-complete-husky-hook-va.md) — 11-11
+- [PR #160: Fix GCP preview server CSP blocking Ajv validation](sources/pr-160-fix-gcp-preview-server-csp-blocking-ajv-validation.md) — 11-11
+- [PR #161: Set up Git presubmit hooks for code quality](sources/pr-161-set-up-git-presubmit-hooks-for-code-quality.md) — 11-11
+- [PR #173: fix: guard Husky prepare script during Docker builds](sources/pr-173-fix-guard-husky-prepare-script-during-docker-build.md) — 11-10
+- [PR #174: Follow-up: Fix review feedback for conversation optimistic cache](sources/pr-174-follow-up-fix-review-feedback-for-conversation-opt.md) — 11-11
+- [PR #176: Add Claude GitHub Actions integration](sources/pr-176-add-claude-github-actions-integration.md) — 11-11
+- [PR #177: Ratelimit message](sources/pr-177-ratelimit-message.md) — 11-11
+- [PR #179: Address review feedback for Husky rebase hook](sources/pr-179-address-review-feedback-for-husky-rebase-hook.md) — 11-11
+- [PR #182: Set up Husky for Git presubmit checks](sources/pr-182-set-up-husky-for-git-presubmit-checks.md) — 11-11
+- [PR #183: Evaluate String Processing Logic](sources/pr-183-evaluate-string-processing-logic.md) — 11-12
+- [PR #185: Fix tests and skip tests for all environments](sources/pr-185-fix-tests-and-skip-tests-for-all-environments.md) — 11-11
+- [PR #186: Update documentation with GitHub token setup](sources/pr-186-update-documentation-with-github-token-setup.md) — 11-11
+- [PR #187: Resolve merge conflict in tests/deployment/deploy.test.ts](sources/pr-187-resolve-merge-conflict-in-tests-deployment-deploy.md) — 11-11
+- [PR #188: Convert repository to git submodule](sources/pr-188-convert-repository-to-git-submodule.md) — 11-11
+- [PR #189: Fix autodeploy feature](sources/pr-189-fix-autodeploy-feature.md) — 11-11
+- [PR #190: Fix email notification issues in auto-deploy workflow](sources/pr-190-fix-email-notification-issues-in-auto-deploy-workf.md) — 11-11
+- [PR #192: Configure CI to run only on push events](sources/pr-192-configure-ci-to-run-only-on-push-events.md) — 11-11
+- [PR #194: Fix: Frontend message ordering - Ensure assistant messages appear after user messages](sources/pr-194-fix-frontend-message-ordering-ensure-assistant-mes.md) — 11-11
+- [PR #195: Organize project root files and documentation](sources/pr-195-organize-project-root-files-and-documentation.md) — 11-12
+- [PR #196: Fix: Align run_local_server.sh help with actual backend URL handling](sources/pr-196-fix-align-run-local-server-sh-help-with-actual-bac.md) — 11-12
+- [PR #197: Fix incomplete rate limit error message](sources/pr-197-fix-incomplete-rate-limit-error-message.md) — 11-12
+- [PR #198: Fix website issue](sources/pr-198-fix-website-issue.md) — 11-12
+- [PR #200: Add slash command detection to claude module](sources/pr-200-add-slash-command-detection-to-claude-module.md) — 11-12
+- [PR #201: Unify homescreen icon and text across modes](sources/pr-201-unify-homescreen-icon-and-text-across-modes.md) — 11-12
+- [PR #202: fix: Extract Retry-After header for accurate rate limit reset time](sources/pr-202-fix-extract-retry-after-header-for-accurate-rate-l.md) — 11-12
+- [PR #203: Fix hardcoded rate limit reset time](sources/pr-203-fix-hardcoded-rate-limit-reset-time.md) — 11-12
+- [PR #205: docs: Add npm tool installation instructions to CLAUDE.md](sources/pr-205-docs-add-npm-tool-installation-instructions-to-cla.md) — 11-13
+- [PR #209: Add multi-AI answer switching feature](sources/pr-209-add-multi-ai-answer-switching-feature.md) — 11-13
+- [PR #210: Add copy icon to interface](sources/pr-210-add-copy-icon-to-interface.md) — 11-13
+- [PR #211: Format second opinion answers consistently](sources/pr-211-format-second-opinion-answers-consistently.md) — 11-13
+- [PR #216: Rename app to Cons](sources/pr-216-rename-app-to-cons.md) — 11-13
+- [PR #217: Change rate limit message color to neutral](sources/pr-217-change-rate-limit-message-color-to-neutral.md) — 11-13
+- [PR #220: chore: skip ci gate for dev auto deploy](sources/pr-220-chore-skip-ci-gate-for-dev-auto-deploy.md) — 11-13
+- [PR #225: chore: stabilize dev auto-deploy tests](sources/pr-225-chore-stabilize-dev-auto-deploy-tests.md) — 11-13
+- [PR #230: ci: reuse deploy-dev workflow](sources/pr-230-ci-reuse-deploy-dev-workflow.md) — 11-13
+- [PR #232: feat: display total cost near synthesis](sources/pr-232-feat-display-total-cost-near-synthesis.md) — 11-13
+- [PR #233: Hide clear conversation button](sources/pr-233-hide-clear-conversation-button.md) — 11-13
+- [PR #234: Add tsx fallback for CLI startup scripts](sources/pr-234-add-tsx-fallback-for-cli-startup-scripts.md) — 11-13
+- [PR #235: feat: add dismissible rate limit toast](sources/pr-235-feat-add-dismissible-rate-limit-toast.md) — 11-13
+- [PR #236: fix: suppress duplicate rate limit toast](sources/pr-236-fix-suppress-duplicate-rate-limit-toast.md) — 11-13
+- [PR #237: Rename branding to Consensus ML](sources/pr-237-rename-branding-to-consensus-ml.md) — 11-13
+- [PR #238: Simplify rate limit toast messaging](sources/pr-238-simplify-rate-limit-toast-messaging.md) — 11-13
+- [PR #239: Start mobile sessions with sidebar collapsed](sources/pr-239-start-mobile-sessions-with-sidebar-collapsed.md) — 11-13
+- [PR #240: ci: allow manual auto deploy](sources/pr-240-ci-allow-manual-auto-deploy.md) — 11-13
+- [PR #242: Update toast copy for AI replies](sources/pr-242-update-toast-copy-for-ai-replies.md) — 11-13
+- [PR #243: Streamline GitHub Actions workflows](sources/pr-243-streamline-github-actions-workflows.md) — 11-17
+- [PR #244: feat: allow disabling auth for local dev](sources/pr-244-feat-allow-disabling-auth-for-local-dev.md) — 11-16
+- [PR #253: Fix Authentication Issues](sources/pr-253-fix-authentication-issues.md) — 11-14
+- [PR #258: Complete the session description](sources/pr-258-complete-the-session-description.md) — 11-17
+- [PR #265: Fix auth redirect heuristics and mocks](sources/pr-265-fix-auth-redirect-heuristics-and-mocks.md) — 11-16
+- [PR #266: Suppress redundant conversation error toasts when MCP offline](sources/pr-266-suppress-redundant-conversation-error-toasts-when.md) — 11-17
+- [PR #267: Add warning message for view detection](sources/pr-267-add-warning-message-for-view-detection.md) — 11-17
+- [PR #268: Update rate limiting response handling](sources/pr-268-update-rate-limiting-response-handling.md) — 11-17
+- [PR #269: Update intro message with comparison tagline](sources/pr-269-update-intro-message-with-comparison-tagline.md) — 11-17
+- [PR #275: fix: v2.0.0 library compatibility + Beads merge configuration](sources/pr-275-fix-v2-0-0-library-compatibility-beads-merge-confi.md) — 11-19
+- [PR #276: Document GCP preview server rotation workflow](sources/pr-276-document-gcp-preview-server-rotation-workflow.md) — 11-19
+- [PR #278: Set up centralized email deployment notifications](sources/pr-278-set-up-centralized-email-deployment-notifications.md) — 11-19
+- [PR #279: Update workflow README for preview server files](sources/pr-279-update-workflow-readme-for-preview-server-files.md) — 11-28
+- [PR #282: Add local server logging to temp directory](sources/pr-282-add-local-server-logging-to-temp-directory.md) — 11-20
+- [PR #283: feat: auth reliability, conversation ID validation, and backend logging](sources/pr-283-feat-auth-reliability-conversation-id-validation-a.md) — 11-21
+- [PR #284: Feat: centralized error display and backend logging](sources/pr-284-feat-centralized-error-display-and-backend-logging.md) — 11-21
+- [PR #285: Chore: reshape conversation test suite](sources/pr-285-chore-reshape-conversation-test-suite.md) — 11-20
+- [PR #286: Chore: docs, skills, and backend test scripts](sources/pr-286-chore-docs-skills-and-backend-test-scripts.md) — 11-21
+- [PR #287: Chore: add baseline-browser-mapping dependency](sources/pr-287-chore-add-baseline-browser-mapping-dependency.md) — 11-21
+- [PR #293: docs: clarify merge/PR rules in AGENTS](sources/pr-293-docs-clarify-merge-pr-rules-in-agents.md) — 11-20
+- [PR #294: tests: temporarily skip flaky/placeholder suites (P0 unblock)](sources/pr-294-tests-temporarily-skip-flaky-placeholder-suites-p0.md) — 11-20
+- [PR #297: Hardcode GCP project for deployment scripts](sources/pr-297-hardcode-gcp-project-for-deployment-scripts.md) — 11-21
+- [PR #298: feat: add automatic fetch interception to backendLogger](sources/pr-298-feat-add-automatic-fetch-interception-to-backendlo.md) — 11-21
+- [PR #300: Review code for async and parallelization opportunities](sources/pr-300-review-code-for-async-and-parallelization-opportun.md) — 11-24
+- [PR #301: fix: upgrade @ai-universe packages to fix Firestore ID validation](sources/pr-301-fix-upgrade-ai-universe-packages-to-fix-firestore.md) — 11-22
+- [PR #302: Clarify async optimization review feedback](sources/pr-302-clarify-async-optimization-review-feedback.md) — 11-22
+- [PR #303: Evaluate typescript-server-launcher for run_local](sources/pr-303-evaluate-typescript-server-launcher-for-run-local.md) — 11-25
+- [PR #304: Improve mobile sidebar responsiveness](sources/pr-304-improve-mobile-sidebar-responsiveness.md) — 11-24
+- [PR #308: docs: add Cloud Run log verification and real vs mock backend testing](sources/pr-308-docs-add-cloud-run-log-verification-and-real-vs-mo.md) — 11-24
+- [PR #309: Improve matchMedia test helper per-query updates](sources/pr-309-improve-matchmedia-test-helper-per-query-updates.md) — 11-23
+- [PR #310: Fix scrolling issues on mobile UI](sources/pr-310-fix-scrolling-issues-on-mobile-ui.md) — 11-24
+- [PR #311: Address touch scroll utility redundancy](sources/pr-311-address-touch-scroll-utility-redundancy.md) — 11-27
+- [PR #313: Fix scrolling after conversation navigation](sources/pr-313-fix-scrolling-after-conversation-navigation.md) — 11-26
+- [PR #315: Normalize Playwright config formatting](sources/pr-315-normalize-playwright-config-formatting.md) — 11-26
+- [PR #316: Fix response message text for multi-model](sources/pr-316-fix-response-message-text-for-multi-model.md) — 11-27
+- [PR #324: Improve mobile chat scroll stability](sources/pr-324-improve-mobile-chat-scroll-stability.md) — 12-01
+- [PR #326: Use Send label in conversation mode](sources/pr-326-use-send-label-in-conversation-mode.md) — 12-01
+- [PR #329: Redesign multi model toggle to be compact](sources/pr-329-redesign-multi-model-toggle-to-be-compact.md) — 12-01
+- [PR #336: Fix scrolling broken on all devices](sources/pr-336-fix-scrolling-broken-on-all-devices.md) — 12-02
+- [PR #340: Align toggle accessibility and test selectors](sources/pr-340-align-toggle-accessibility-and-test-selectors.md) — 12-10
+- [PR #344: fix: resolve race condition preventing URL conversation navigation](sources/pr-344-fix-resolve-race-condition-preventing-url-conversa.md) — 12-02
+- [PR #348: Ensure auth-disabled Playwright suites execute in CI](sources/pr-348-ensure-auth-disabled-playwright-suites-execute-in.md) — 12-03
+- [PR #358: Fix fallback opinion optional chaining](sources/pr-358-fix-fallback-opinion-optional-chaining.md) — 12-10
+- [PR #359: Document scroll regression repro in test](sources/pr-359-document-scroll-regression-repro-in-test.md) — 12-10
+- [PR #362: Compare scrolling logic with reference implementation](sources/pr-362-compare-scrolling-logic-with-reference-implementat.md) — 12-15
+- [PR #364: Tighten MessageItem logging guards](sources/pr-364-tighten-messageitem-logging-guards.md) — 12-12
+- [PR #365: Refine synthesis fallback copy and mute logger network calls in tests](sources/pr-365-refine-synthesis-fallback-copy-and-mute-logger-net.md) — 12-12
+- [PR #366: Allow messaging while conversation is loading](sources/pr-366-allow-messaging-while-conversation-is-loading.md) — 12-18
+- [PR #383: chore: add dev tooling setup script](sources/pr-383-chore-add-dev-tooling-setup-script.md) — 02-01
+- [PR #386: fix: make dev tools setup idempotent](sources/pr-386-fix-make-dev-tools-setup-idempotent.md) — 01-29
+- [PR #424: chore: dedupe CLI prereqs in setup script](sources/pr-424-chore-dedupe-cli-prereqs-in-setup-script.md) — 02-01
+- [PR #1: [agento] docs: add WIP README + install bootstrap script](sources/pr-1-agento-docs-add-wip-readme-install-bootstrap-scri.md) — 03-29
+- [PR #2: docs: add README.md and install.sh for SmartClaw prototype](sources/pr-2-docs-add-readme-md-and-install-sh-for-smartclaw-pr.md) — 03-29
+- [PR #3: [P2] feat: sync general-purpose content from jleechanclaw](sources/pr-3-p2-feat-sync-general-purpose-content-from-jleecha.md) — 03-29
+- [PR #4: [P2] fix(metadata-updater): prevent grep crash under set -e](sources/pr-4-p2-fix-metadata-updater-prevent-grep-crash-under.md) — 03-29
+- [PR #5: docs: add OpenClaw context-window ASCII diagram](sources/pr-5-docs-add-openclaw-context-window-ascii-diagram.md) — 03-30
+- [PR #6: docs: add OpenClaw Docker staging setup guide](sources/pr-6-docs-add-openclaw-docker-staging-setup-guide.md) — 04-02
+- [PR #7: docs: add OpenClaw 3-stage dev pipeline](sources/pr-7-docs-add-openclaw-3-stage-dev-pipeline.md) — 04-02
+- [PR #8: [P2] feat: sync general-purpose content from jleechanclaw](sources/pr-8-p2-feat-sync-general-purpose-content-from-jleecha.md) — 04-02
+- [PR #9: fix: enhance metadata-updater hook with guardrails and parsing](sources/pr-9-fix-enhance-metadata-updater-hook-with-guardrails.md) — 04-03
+- [PR #11: docs: refresh smartclaw README intro](sources/pr-11-docs-refresh-smartclaw-readme-intro.md) — 04-03
+- [PR #13: feat: sync portable content from jleechanclaw (2026-04-03)](sources/pr-13-feat-sync-portable-content-from-jleechanclaw-2026.md) — 04-05
+- [PR #15: feat: migrate agents, lib, ralph, extensions from jleechanclaw (v2)](sources/pr-15-feat-migrate-agents-lib-ralph-extensions-from-jlee.md) — 04-10
+- [PR #16: fix: use openclaw dir consistently and apply portability](sources/pr-16-fix-use-openclaw-dir-consistently-and-apply-portab.md) — 04-09
+- [PR #1: Add disk alerts, conversation backups, and machine-setup tooling](sources/pr-1-add-disk-alerts-conversation-backups-and-machine-s.md) — 03-07
+- [PR #2: feat(backup): add git-backed home config backup and scheduler install](sources/pr-2-feat-backup-add-git-backed-home-config-backup-and.md) — 03-07
+- [PR #3: fix: sync mode for Dropbox sessions/projects + scaffold dev scripts](sources/pr-3-fix-sync-mode-for-dropbox-sessions-projects-scaffo.md) — 03-07
+- [PR #4: backup: show per-file dry-run changes](sources/pr-4-backup-show-per-file-dry-run-changes.md) — 03-09
+- [PR #5: backup: exclude codex sessions_archive from Dropbox sync](sources/pr-5-backup-exclude-codex-sessions-archive-from-dropbox.md) — 03-09
+- [PR #9: docs: clarify OpenClaw git backup scope](sources/pr-9-docs-clarify-openclaw-git-backup-scope.md) — 03-11
+- [PR #10: backup: daily 9am email report for GitHub + Dropbox backup runs](sources/pr-10-backup-daily-9am-email-report-for-github-dropbox-b.md) — 03-14
+- [PR #11: chore: remove broken bd hooks shims](sources/pr-11-chore-remove-broken-bd-hooks-shims.md) — 03-14
+- [PR #12: [agento] fix: compute disk usage percentage from same basis as used_gb](sources/pr-12-agento-fix-compute-disk-usage-percentage-from-sam.md) — 04-02
+- [PR #13: chore: clean up stale beads br_history snapshots and sync issues](sources/pr-13-chore-clean-up-stale-beads-br-history-snapshots-an.md) — 04-10
+- [PR #1: Add OpenClaw gateway, relay, and agent services with full integration](sources/pr-1-add-openclaw-gateway-relay-and-agent-services-with.md) — 03-31
+- [PR #2: feat: OpenClaw SSO Gateway — full TDD implementation (commits 1–9)](sources/pr-2-feat-openclaw-sso-gateway-full-tdd-implementation.md) — 03-31
+- [PR #3: [openclaw_sso] fix: SSO architecture and missing features](sources/pr-3-openclaw-sso-fix-sso-architecture-and-missing-fea.md) — 03-31
+- [PR #4: [openclaw_sso] fix: critical bugs in auth, rate limiter, relay auth](sources/pr-4-openclaw-sso-fix-critical-bugs-in-auth-rate-limit.md) — 03-31
+- [PR #5: [antig] ci: add GitHub Actions CI workflow and README](sources/pr-5-antig-ci-add-github-actions-ci-workflow-and-readm.md) — 04-01
+- [PR #6: feat(gcp): add Cloud Run deployment for gateway + relay services](sources/pr-6-feat-gcp-add-cloud-run-deployment-for-gateway-rela.md) — 04-05
+- [PR #7: [antig] feat(client-py): Implement server-side PKCE flow](sources/pr-7-antig-feat-client-py-implement-server-side-pkce-f.md) — 04-05
+- [PR #9: fix: restore oauth verifier regression coverage](sources/pr-9-fix-restore-oauth-verifier-regression-coverage.md) — 04-09
+- [PR #1: feat: Daily memory summary automation with email](sources/pr-1-feat-daily-memory-summary-automation-with-email.md) — 07-26
+- [PR #2: feat: Switch from daily to hourly memory backups](sources/pr-2-feat-switch-from-daily-to-hourly-memory-backups.md) — 07-26
+- [PR #3: feat: Add email automation system for daily memory summaries](sources/pr-3-feat-add-email-automation-system-for-daily-memory.md) — 07-26
+- [PR #4: Add Claude interpretation to memory summaries and comprehensive CLAUDE.md](sources/pr-4-add-claude-interpretation-to-memory-summaries-and.md) — 07-26
+- [PR #5: Fix email automation cron job with proper environment wrapper](sources/pr-5-fix-email-automation-cron-job-with-proper-environm.md) — 07-30
+- [PR #6: 🔒 Fix critical memory backup data loss: overwrite → append logic](sources/pr-6-fix-critical-memory-backup-data-loss-overwrite-ap.md) — 09-11
+- [PR #7: Consolidate backup scripts with latest unified system](sources/pr-7-consolidate-backup-scripts-with-latest-unified-sys.md) — 09-16
+- [PR #2: Reorder flagship systems and streamline portfolio table](sources/pr-2-reorder-flagship-systems-and-streamline-portfolio.md) — 09-30
+- [PR #4: Enhance profile README with emoji styling](sources/pr-4-enhance-profile-readme-with-emoji-styling.md) — 09-30
+- [PR #5: Remove README file](sources/pr-5-remove-readme-file.md) — 09-30
+- [PR #6: Update README and replace orchestrator references](sources/pr-6-update-readme-and-replace-orchestrator-references.md) — 11-19
+- [PR #1: WORKING: Fix split CWD inheritance and bash job spam](sources/pr-1-working-fix-split-cwd-inheritance-and-bash-job-spa.md) — 03-05
+- [PR #2: Linux port: design doc + TDD implementation roadmap](sources/pr-2-linux-port-design-doc-tdd-implementation-roadmap.md) — 03-09
+- [PR #3: feat: add cmux MCP server for terminal control](sources/pr-3-feat-add-cmux-mcp-server-for-terminal-control.md) — 03-12
+- [PR #1: feat: GTK4 Linux port phases 1-7 complete — split panes, notifications, session restore](sources/pr-1-feat-gtk4-linux-port-phases-1-7-complete-split-pan.md) — 03-09
+- [PR #2: Add Linux GTK tests (Layer 1-3) with evidence passing /er](sources/pr-2-add-linux-gtk-tests-layer-1-3-with-evidence-passin.md) — 03-14
+- [PR #3: chore: remove broken bd hooks shims](sources/pr-3-chore-remove-broken-bd-hooks-shims.md) — 03-14
+- [PR #4: fix: resolve 21 bugs across all crates using TDD](sources/pr-4-fix-resolve-21-bugs-across-all-crates-using-tdd.md) — 03-15
+- [PR #176: feat: add Shortest Path in Binary Matrix (LeetCode 1091)](sources/pr-176-feat-add-shortest-path-in-binary-matrix-leetcode-1.md) — 03-12
+- [PR #184: feat: Two Sum (LC1) + full pytest CI](sources/pr-184-feat-two-sum-lc1-full-pytest-ci.md) — 04-01
+- [PR #186: feat: Valid Parentheses (LC20) + tests](sources/pr-186-feat-valid-parentheses-lc20-tests.md) — 04-01
+- [PR #1: Add linked table of contents to ProdLens design evaluation](sources/pr-1-add-linked-table-of-contents-to-prodlens-design-ev.md) — 10-12
+- [PR #2: feat: ProdLens MVP v1.2 - Production-Ready AI Development Observability Platform](sources/pr-2-feat-prodlens-mvp-v1-2-production-ready-ai-develop.md) — 10-12
+- [PR #3: docs: Add comprehensive testing evidence documentation for ProdLens MVP](sources/pr-3-docs-add-comprehensive-testing-evidence-documentat.md) — 10-12
+- [PR #1: perf: optimize bd init performance by 36% (417ms → 268ms)](sources/pr-1-perf-optimize-bd-init-performance-by-36-417ms-268m.md) — 11-14
+- [PR #2: perf: optimize bd init by 50%+ with comprehensive safety fixes](sources/pr-2-perf-optimize-bd-init-by-50-with-comprehensive-saf.md) — 11-15
+- [PR #4: docs: add local MCP development skills and wrapper script](sources/pr-4-docs-add-local-mcp-development-skills-and-wrapper.md) — 11-15
+- [PR #1: fix: Multi-agent bug audit - 9 confirmed bugs fixed](sources/pr-1-fix-multi-agent-bug-audit-9-confirmed-bugs-fixed.md) — 11-27
+- [PR #2: Fix Claude ingestion to consume from message_queue](sources/pr-2-fix-claude-ingestion-to-consume-from-message-queue.md) — 11-29
+- [PR #1: Add PyPI/npm packages with --version and auto-install](sources/pr-1-add-pypi-npm-packages-with-version-and-auto-instal.md) — 02-12
+- [PR #6: chore: migrate beads to br sqlite (isolated)](sources/pr-6-chore-migrate-beads-to-br-sqlite-isolated.md) — 03-10
+- [PR #1: docs: update README to reflect actual implementation status](sources/pr-1-docs-update-readme-to-reflect-actual-implementatio.md) — 03-02
+- [PR #6: chore: remove broken bd hooks shims](sources/pr-6-chore-remove-broken-bd-hooks-shims.md) — 03-14
+- [PR #1: feat: comprehensive proxy improvements - async status line, critical fixes, and enhanced reliability](sources/pr-1-feat-comprehensive-proxy-improvements-async-status.md) — 09-21
+- [PR #2: Remove infrastructure scripts directory](sources/pr-2-remove-infrastructure-scripts-directory.md) — 09-21
+- [PR #3: feat: fix status line to show correct directory context](sources/pr-3-feat-fix-status-line-to-show-correct-directory-con.md) — 09-22
+- [PR #4: fix: resolve proxy.sh lock acquisition failures and startup race conditions](sources/pr-4-fix-resolve-proxy-sh-lock-acquisition-failures-and.md) — 09-22
+- [PR #7: feat(proxy): add cerebras provider mode](sources/pr-7-feat-proxy-add-cerebras-provider-mode.md) — 09-26
+- [PR #10: fix(proxy): ensure provider display works on older bash](sources/pr-10-fix-proxy-ensure-provider-display-works-on-older-b.md) — 09-27
+- [PR #11: chore: add install helper script](sources/pr-11-chore-add-install-helper-script.md) — 09-28
+- [PR #12: chore(reviewdeep): document command and stabilize cerebras startup](sources/pr-12-chore-reviewdeep-document-command-and-stabilize-ce.md) — 09-29
+- [PR #14: fix: detach proxy from terminal closure](sources/pr-14-fix-detach-proxy-from-terminal-closure.md) — 09-30
+- [PR #15: fix(proxy): show upstream url in status](sources/pr-15-fix-proxy-show-upstream-url-in-status.md) — 09-30
+- [PR #17: feat: Add logging-only passthrough mode and fix coroutine warnings](sources/pr-17-feat-add-logging-only-passthrough-mode-and-fix-cor.md) — 10-02
+- [PR #18: fix(hooks): preserve nested pre-input mutations](sources/pr-18-fix-hooks-preserve-nested-pre-input-mutations.md) — 10-03
+- [PR #19: feat(commands): add codex history slash command](sources/pr-19-feat-commands-add-codex-history-slash-command.md) — 10-06
+- [PR #20: Add consensus command instructions for Codex Plus](sources/pr-20-add-consensus-command-instructions-for-codex-plus.md) — 10-06
+- [PR #22: feat(chat): align streamed colors with Claude palette](sources/pr-22-feat-chat-align-streamed-colors-with-claude-palett.md) — 10-07
+- [PR #23: fix(proxy): guard port before starting proxy](sources/pr-23-fix-proxy-guard-port-before-starting-proxy.md) — 10-07
+- [PR #24: test(proxy): add launchd coverage](sources/pr-24-test-proxy-add-launchd-coverage.md) — 10-08
+- [PR #25: fix: harden proxy resilience around upstream failures](sources/pr-25-fix-harden-proxy-resilience-around-upstream-failur.md) — 10-08
+- [PR #26: fix(proxy): ensure launchd script preserves runtime env](sources/pr-26-fix-proxy-ensure-launchd-script-preserves-runtime.md) — 10-09
+- [PR #29: fix(middleware): ensure home claude slash fallback](sources/pr-29-fix-middleware-ensure-home-claude-slash-fallback.md) — 10-13
+- [PR #30: fix: scope slash commands to latest user message](sources/pr-30-fix-scope-slash-commands-to-latest-user-message.md) — 10-13
+- [PR #2: Add benchmark run artifacts and orchestration helper scripts](sources/pr-2-add-benchmark-run-artifacts-and-orchestration-help.md) — 03-12
+- [PR #1: docs: update roadmap with gateway fix](sources/pr-1-docs-update-roadmap-with-gateway-fix.md) — 04-08
+- [PR #1: Add MiniMax 2.5 recommendation to AI assistant stack](sources/pr-1-add-minimax-2-5-recommendation-to-ai-assistant-sta.md) — 02-17
+- [PR #1: Archive WorldArchitect docs cleanup round 1](sources/pr-1-archive-worldarchitect-docs-cleanup-round-1.md) — 03-08
+- [PR #1: feat: Add functional integration tests for real Claude/Cursor agents](sources/pr-1-feat-add-functional-integration-tests-for-real-cla.md) — 12-17
+
+
+- [Codex Sessions 2026-03-28](sources/codex-sessions-2026-03-28.md) — 191 sessions on 2026-03-28
+
+
+- [Codex Sessions 2026-03-29](sources/codex-sessions-2026-03-29.md) — 243 sessions on 2026-03-29
+
+
+- [Codex Sessions 2026-03-30](sources/codex-sessions-2026-03-30.md) — 149 sessions on 2026-03-30
+
+
+- [Codex Sessions 2026-03-31](sources/codex-sessions-2026-03-31.md) — 273 sessions on 2026-03-31
+
+
+- [Codex Sessions 2026-04-01](sources/codex-sessions-2026-04-01.md) — 94 sessions on 2026-04-01
+
+
+- [Codex Sessions 2026-04-02](sources/codex-sessions-2026-04-02.md) — 160 sessions on 2026-04-02
+
+
+- [Codex Sessions 2026-04-03](sources/codex-sessions-2026-04-03.md) — 108 sessions on 2026-04-03
+
+
+- [Codex Sessions 2026-04-04](sources/codex-sessions-2026-04-04.md) — 55 sessions on 2026-04-04
+
+
+- [Codex Sessions 2026-04-05](sources/codex-sessions-2026-04-05.md) — 52 sessions on 2026-04-05
+
+
+- [Codex Sessions 2026-04-06](sources/codex-sessions-2026-04-06.md) — 15 sessions on 2026-04-06
+
+
+- [Codex Sessions 2026-04-07](sources/codex-sessions-2026-04-07.md) — 243 sessions on 2026-04-07
+
+
+- [Codex Sessions 2026-04-08](sources/codex-sessions-2026-04-08.md) — 488 sessions on 2026-04-08
+
+
+- [Codex Sessions 2026-04-09](sources/codex-sessions-2026-04-09.md) — 560 sessions on 2026-04-09
+
+
+- [Codex Sessions 2026-04-10](sources/codex-sessions-2026-04-10.md) — 467 sessions on 2026-04-10
+
+
+- [Codex Sessions 2026-04-11](sources/codex-sessions-2026-04-11.md) — 255 sessions on 2026-04-11
+
+
+- [Codex Sessions 2026-03-28](sources/codex-sessions-2026-03-28.md) — 191 sessions on 2026-03-28
+
+
+- [Codex Sessions 2026-03-29](sources/codex-sessions-2026-03-29.md) — 243 sessions on 2026-03-29
+
+
+- [Codex Sessions 2026-03-30](sources/codex-sessions-2026-03-30.md) — 149 sessions on 2026-03-30
+
+
+- [Codex Sessions 2026-03-31](sources/codex-sessions-2026-03-31.md) — 273 sessions on 2026-03-31
+
+
+- [Codex Sessions 2026-04-01](sources/codex-sessions-2026-04-01.md) — 94 sessions on 2026-04-01
+
+
+- [Codex Sessions 2026-04-02](sources/codex-sessions-2026-04-02.md) — 160 sessions on 2026-04-02
+
+
+- [Codex Sessions 2026-04-03](sources/codex-sessions-2026-04-03.md) — 108 sessions on 2026-04-03
+
+
+- [Codex Sessions 2026-04-04](sources/codex-sessions-2026-04-04.md) — 55 sessions on 2026-04-04
+
+
+- [Codex Sessions 2026-04-05](sources/codex-sessions-2026-04-05.md) — 52 sessions on 2026-04-05
+
+
+- [Codex Sessions 2026-04-06](sources/codex-sessions-2026-04-06.md) — 15 sessions on 2026-04-06
+
+
+- [Codex Sessions 2026-04-07](sources/codex-sessions-2026-04-07.md) — 243 sessions on 2026-04-07
+
+
+- [Codex Sessions 2026-04-08](sources/codex-sessions-2026-04-08.md) — 488 sessions on 2026-04-08
+
+
+- [Codex Sessions 2026-04-09](sources/codex-sessions-2026-04-09.md) — 560 sessions on 2026-04-09
+
+
+- [Codex Sessions 2026-04-10](sources/codex-sessions-2026-04-10.md) — 467 sessions on 2026-04-10
+
+
+- [Codex Sessions 2026-04-11](sources/codex-sessions-2026-04-11.md) — 261 sessions on 2026-04-11
+
 
 ## Jeffrey Oracle
 
@@ -858,6 +5345,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [PR335](entities/PR335.md) — AO skeptic installer PR for automated review integration
 - [StagingWorktree](entities/StagingWorktree.md) — OpenClaw staging pipeline worktree for deployment testing
 - [StagingBranch](entities/StagingBranch.md) — OpenClaw staging branch for canary deployments
+- [RewardsBoxBuilder](entities/RewardsBoxBuilder.md) — mvp_site/rewards/builder.py; normalize_rewards_box_for_ui with has_visible_content sentinel; affected by PR #6193 and #6195
 - [Austin Wang](entities/AustinWang.md) — Co-creator of [[CMUX]], native Swift/AppKit terminal for AI-agent workflows
 - [Shadow](entities/Shadow.md) — Lvl 3 Rogue player character with HP 22/28, XP 2500/6000, 75gp — referenced in think mode tests
 
@@ -868,6 +5356,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [JeffreyGoals](concepts/JeffreyGoals.md) — Current priorities: PR flow, automation, LLM-first architecture
 - [JeffreyTechStack](concepts/JeffreyTechStack.md) — Primary tools: Claude Code, Minimax, beads, gh, mem0
 - [EvidenceEnforcement](concepts/EvidenceEnforcement.md) — CI-gated evidence path, gap between structure-check and real bundle validation
+- [SkepticGate](concepts/SkepticGate.md) — CI gate requiring per-check evidence artifacts with timestamps; renamed from skeptic-gate to green-gate in PR #6189
 - [HookBypass](concepts/HookBypass.md) — tmux/cmux/API bypass UserPromptSubmit hooks for agent workflows
 - [OracleCLI](concepts/OracleCLI.md) — Multi-model second-opinion workflow using Cerebras Qwen 3, Grok 4, Perplexity, GPT-5
 - [Think Mode](concepts/ThinkMode.md) — game mode for strategic planning without narrative advancement; advances time by only 1 microsecond
@@ -877,7 +5366,24 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Automation Scripts Need Callers](concepts/Automation-Scripts-Need-Callers.md) — new scripts require visible trigger in diff; orphaned scripts are rejected
 - [Preview Model Risk](concepts/Preview-Model-Risk.md) — adding preview models to security-critical configs requires explicit medium-risk acknowledgment
 - [Structure Drift Pattern](concepts/StructureDriftPattern.md) — agent accidentally nests new fields inside existing conditionals; PR #5782 checkpoint placed debug_info inside rewards_box block
+- [Level-Up Bug Chain](concepts/LevelUpBug.md) — 8+ PR cascade: structure drift, atomicity violations, debug-gating preventing dice rolls for non-debug users; PRs #6161→#6195→#6204 chain
+- [RewardsBox Atomicity](concepts/RewardsBoxAtomicity.md) — invariant that rewards_box and planning_block must be consistent; 6 distinct atomicity bugs found in PR #6161 bug hunt
+- [Dice Roll Debug Regression](concepts/DiceRollDebugRegression.md) — dice rolls and debug_info don't render for non-debug users on main; regression predates PR #6161; investigation open in PR #6194
 - [The Five Harness Layers](concepts/Harness5LayerModel.md) — 5-layer model for agent harness: Constraint (L1), Context (L2), Execution (L3), Verification (L4), Lifecycle (L5); framework for build vs. buy decisions
+- [Zero Framework Cognition](concepts/ZeroFrameworkCognition.md) — Steve Yegge's ZFC: delegate ALL reasoning to AI models; application code handles only orchestration, IO, safety checks, and mechanical transforms; forbids keyword routing, heuristic scoring, and pattern-matching classification
+- [Semantic Vs Mechanical Judgment](concepts/SemanticVsMechanicalJudgment.md) — the core ZFC dividing line: semantic judgment (meaning, intent, importance) must go to AI; mechanical judgment (parsing, validation, range checks) stays in code
+- [Circuit Breaker Agent Selection](concepts/CircuitBreakerAgentSelection.md) — Agent selected 52+ consecutive times causing infinite loop; fix with per-agent consecutive cap
+- [Code Execution False Positive Fabrication](concepts/CodeExecutionFalsePositiveFabrication.md) — Gemini code_execution false positive: tool_requests_executed=True without code_exec_used=True flagged as fabrication
+- [Budget Warning API Surface](concepts/BudgetWarningAPISurface.md) — Budget warnings computed in LLMResponse but to_dict() never called in API serialization
+- [Prompt Compliance Drift](concepts/PromptComplianceDrift.md) — LLMs ignoring 25K-token prompts; solutions: gating blocks, affirmative checkpoints, few-shot examples
+- [Stale Process Group Targeting](concepts/StaleProcessGroupTargeting.md) — PGID must be cleared before kill in agent restart loops to avoid killing wrong process
+- [Hook Matcher Tool Agnostic](concepts/HookMatcherToolAgnostic.md) — Hooks hardcoded to 'Bash' miss Gemini run_shell_command and other tool adapters
+- [Post-Merge Duplicate PR Loop](concepts/PostMergeDuplicatePRLoop.md) — Workers create fix PRs after original already merged; fix with merge-status check
+- [Compacted State Reversion](concepts/CompactedStateReversion.md) — JSON truncation falls back to full state, defeating compaction when most needed
+- [Pair Verifier Codex Preflight](concepts/PairVerifierCodexPreflight.md) — Verifier fails when codex preflight validation fails in environment; should be non-fatal
+- [Entity Tracking Validation Failure](concepts/EntityTrackingValidationFailure.md) — 0-4% entity validation pass rate; LRU eviction too aggressive
+- [Workspace Preservation Across Retries](concepts/WorkspacePreservationAcrossRetries.md) — Verify-fail-retry loop should preserve workspace, clean only signal files
+- [Context Bloat from Metadata Hooks](concepts/ContextBloatFromMetadataHooks.md) — 2 error lines per Bash call, 40K char CLAUDE.md; no --quiet flag
 
 - [XP (Experience Points)](concepts/XP.md) — D&D 5e currency for progression; awarded for combat, encounters, quests, and milestones; triggers level-up when thresholds are reached
 - [Research Test Report: Default /review Command in Claude Code CLI](sources/worldarchitect.ai-docs-research_review_command_test_report.md-895e5636.md) — confirms `/review` is a built-in slash command in Claude Code CLI
