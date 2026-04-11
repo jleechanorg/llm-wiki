@@ -140,3 +140,15 @@ When extending existing automation scripts (e.g., tool-cache bootstrap, evidence
 
 ### PRODUCTION_MODE=true on preview = tightening (safe)
 Adding `PRODUCTION_MODE=true` to a preview environment is a security tightening, not a bypass. This is fail-closed behavior and is safe. The concern would be removing it or setting it incorrectly.
+
+### New automation script described as "fix existing code" — body-diff lie type 3
+A body-diff lie variant: the PR body describes modifying/fixing EXISTING code (e.g., "remove broken redirect from existing spawn subshell"), but the diff shows ONLY new files with zero modifications to any existing file. The framing is actively misleading — it is a new automation script, not a fix to existing code. Step 0 catches this.
+
+### settings.json modification in test PR — unlisted production code change
+A test-only PR (body claims "Production Code Changes: None") that modifies `.claude/settings.json` in the diff. settings.json IS production configuration. Any changes to it must be disclosed in the PR body regardless of the PR's primary purpose.
+
+### Recidivist body-diff liar: same PR, same lie, twice
+If a PR has a body-diff mismatch flagged in a prior review and the same false claim persists after update/re-review, treat it as a pattern of deliberate misrepresentation. The author was informed and did not fix it. This is worse than a first offense — it suggests the mismatch is intentional.
+
+### New automation scripts need body description AND visible caller
+A bare new automation script file with no workflow wiring, no cron trigger, and no parent script invocation in the diff is not automation — it is orphaned code. New scripts require: (1) body must accurately describe what the script does, (2) the caller/trigger must be visible in the diff (workflow step, cron entry, or parent script that is itself auto-triggered).
