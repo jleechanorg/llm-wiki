@@ -3,7 +3,7 @@ title: "jeffrey-oracle"
 type: synthesis
 tags: [jeffrey, oracle, synthesis, decision-framework]
 sources: [user-preferences-patterns-learnings, github-patterns, ai-coding]
-last_updated: 2026-04-10
+last_updated: 2026-04-11
 ---
 
 # The Jeffrey Oracle: What Would Jeffrey Say?
@@ -125,3 +125,18 @@ Adding preview/nightly models to `MODELS_WITH_CODE_EXECUTION` or similar critica
 
 ### Cron janitor --all mode needs per-service PR-state verification
 Automation scripts with `--all` mode running in cron path must re-verify per-service state at runtime — not rely on prior run's state checks. A service could become orphaned (PR closed/merged) between the last per-service check and the cron run. The `--pr-number` path may have proper guards; the `--all` cron path must independently verify each service's PR state before deletion.
+
+### Sync PRs are their own category
+Large sync PRs (e.g., user-scope to repo-scope .claude/ tree sync) are categorically different from feature/bug-fix PRs. Size discipline doesn't apply the same way — byte-level parity is the goal. Jeffrey accepts "sync necessary, tests green, medium risk flagged" as sufficient justification for large +N/-N sync PRs.
+
+### Skill docs need callers — slash command definitions count
+A skill doc IS the protocol definition; a slash command in `.claude/commands/` that invokes it IS a valid caller. Both being in the same repo satisfies the "who calls this?" criterion. The skill doc is not orphaned documentation.
+
+### Body-diff omission: file modified but not listed
+A Step 0 failure variant — not a lie about what changed, but incomplete enumeration: a file is modified in the diff but not listed in the PR body change summary (e.g., test-deployment.yml modified but not listed in Production Code Changes). Fix the body enumeration to list all modified files.
+
+### CI automation extension requires visible wiring
+When extending existing automation scripts (e.g., tool-cache bootstrap, evidence scripts) to new workflows, the caller must be visible in the diff — the workflow file must show the script invocation step. Adding scripts without visible workflow wiring is orphaned automation.
+
+### PRODUCTION_MODE=true on preview = tightening (safe)
+Adding `PRODUCTION_MODE=true` to a preview environment is a security tightening, not a bypass. This is fail-closed behavior and is safe. The concern would be removing it or setting it incorrectly.
