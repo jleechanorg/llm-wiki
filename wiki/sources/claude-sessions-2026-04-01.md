@@ -11,8 +11,8 @@ source_file: ~/.claude/projects/
 
 ## Outcomes
 - **PRs mentioned:** 185 — `122`, `1221`, `123`, `1234`, `1270`, `1416`, `143`, `144`, `145`, `146`, `147`, `148`, `167`, `172`, `173`
-- **Commits mentioned:** 410 — `00000000`, `00bbbb025`, `050eded5`, `06c163a05f72`, `09c7a02b2793f136c6bc2dfd11e666dd1c73bbf9`, `0a38f759dd93`, `0ae4c6264774fe06c73dac001b8ca95474fd718b`, `0b9ccd4b1`, `0ce1843e0d7af7984588b68becfba70f34320562`, `0dbdc2b29`
-- **Wiki links:** 84 — ` -x "$nvm_22/node" `, ` "$slack_bot_raw" =~ ^\\$\\{.*\\}$ `, ` "$plist_program" =~ \\.nvm/versions/node/ `, ` "$output" == *"Local:"* `, ` "$1" == "session" && "$2" == "list" `, ` -n "$plist_projects" `, ` -f "scripts/setup-runner-with-drift.sh" `, ` -f "$REPO_ROOT/openclaw.json.redacted" `, ` ! -f "README.md" `, ` -f "README.md.new" `
+- **Commits mentioned:** 411 — `00bbbb025`, `00c04fd430c8`, `01231f76`, `03090204`, `050eded5`, `06c163a05f72`, `09c7a02b2793f136c6bc2dfd11e666dd1c73bbf9`, `0a38f759dd93`, `0ae4c6264774fe06c73dac001b8ca95474fd718b`, `0b9ccd4b1`
+- **Wiki links:** 84 — ` "$main_every" == "5m" `, ` ! -f "$gfile" `, ` -n "${OPENCLAW_DOCTOR_AO_DASHBOARD_PORT:-}" `, ` -f `, ` -n "$plist_path" && -f "$plist_path" `, ` "$failed_count" -ne 0 `, ` ! -d ".claude/agents" `, `:space:`, `^`, ` -z "${PROJECT_ROOT:-}" `
 
 ## Conversations
 ### 1. # Fix: AO Gemini Agent Plugin Resolution (rev-b4ga)

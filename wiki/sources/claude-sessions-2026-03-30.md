@@ -10,9 +10,9 @@ source_file: ~/.claude/projects/
 466 Claude Code sessions on 2026-03-30. 121 unique conversation turns captured.
 
 ## Outcomes
-- **PRs mentioned:** 345 — `103`, `105`, `1068`, `110`, `113`, `114`, `115`, `122`, `123`, `129`, `130`, `143`, `144`, `145`, `146`
-- **Commits mentioned:** 3422 — `0000000`, `00000000`, `000000000`, `0000000000000000000000000000000000000000`, `000000000001`, `000000000002`, `000000000003`, `000000000004`, `0006cd046b45`, `0008eca`
-- **Wiki links:** 175 — ` -n "$CAPS_DATA" `, ` -z "$pkg" `, ` -f /Users/jleechan/.openclaw/openclaw.json `, ` "$LIMIT" -lt 1 `, ` -n "$branch" && "$branch" != "HEAD" &&\n+        ! "$branch" =~ ^(src`, ` "$REPORT_WARN_COUNT" -gt 5 `, ` "$_modver" != "unknown" `, ` -x "$_infra" `, `\'git\', \'-C\', \'/private/var/folders/j0/byd1z6px50v88lf679bgt0h00000gn/T/pytest-of-jleechan/pytest-88/test_calls_git_worktree_remove0/repo\', \'worktree\', \'list\', \'--porcelain\'`, ` -f "scripts/setup-runner-with-drift.sh" `
+- **PRs mentioned:** 346 — `103`, `105`, `1068`, `110`, `113`, `114`, `115`, `122`, `123`, `129`, `130`, `143`, `144`, `145`, `146`
+- **Commits mentioned:** 3438 — `0000000`, `00000000`, `000000000`, `0000000000000000000000000000000000000000`, `000000000001`, `000000000002`, `000000000003`, `0006cd046b45`, `0008eca`, `0036ea6`
+- **Wiki links:** 176 — ` "${TARGET_PATH:-}" == "--help" `, ` -f /Users/jleechan/.openclaw/openclaw.json `, ` -f "$STATE_FILE" `, ` "$REBUILD_FAIL" -gt 0 `, ` \\"$CR_STATE\\" == \\"APPROVED\\" `, ` -x "$_sched" `, ` ... `, ` "$hook_event" != "PostToolUse" && ${AO_ALLOW_GH_PR_MERGE:-_} != "1" `, ` -n "$branch" && "$branch" != "HEAD" `, ` -n "$gw_node" && -x "$gw_node" `
 
 ## Conversations
 ### 1. You are an AI coding agent managed by the Agent Orchestrator (ao).

@@ -11,8 +11,8 @@ source_file: ~/.claude/projects/
 
 ## Outcomes
 - **PRs mentioned:** 389 — `001`, `001829`, `100`, `1001`, `109`, `110`, `111`, `1150`, `120`, `1221`, `123`, `126`, `127`, `1315`, `1316`
-- **Commits mentioned:** 2155 — `0000000`, `00000000`, `000000000`, `0000000000`, `0000135`, `000053b4edbd`, `0001b8f3b69b`, `0006440`, `0013ebe2`, `002b3857`
-- **Wiki links:** 190 — ` "$RUNNER_SCOPE" == "org" `, ` -n "${EMAIL_PASS:-}" `, ` -z "$SCHEMA_ERRORS" `, ` ! -d "$PROD_DIR" `, ` \\"${1:-}\\" == \\"production\\" `, ` \\"$ENVIRONMENT\\" ==\\n\\"staging\\" `, `"## Skeptic Gate — Deterministic 6-Green Check","","`, ` "${1:-}" == "prod" `, ` "$cmd" =~ $pat `, ` "$_modver" != "unknown" `
+- **Commits mentioned:** 2141 — `0000000`, `00000000`, `000000000`, `0000000000`, `0000000000000000000000000000000000000000`, `000053b4edbd`, `0001b8f3b69b`, `0006440`, `000b46bc8422ad62f14a903634309a60`, `00710175`
+- **Wiki links:** 179 — ` "$main_every" == "5m" `, ` -d "$STAGING_DIR/workspace" `, ` -f "$ENV_FILE" `, ` -e "$dst" `, ` -f "$STATE_FILE" `, ` -f "$STAGING_CONFIG" `, ` -x /usr/local/bin/bash `, ` -L "$SYSTEMD_USER_DIR/timers.target.wants/$unit" `, ` "$BRANCH" != "main" `, ` ! -f "${OPENCLAW_DIR}/ai.openclaw.staging.plist" `
 
 ## Conversations
 ### 1. You are updating the README for the jleechanorg/claude-commands GitHub repository.

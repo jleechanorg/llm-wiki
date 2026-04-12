@@ -1,4 +1,34 @@
-## [2026-04-11] ingest | Level-up bug chain wiki pages
+## [2026-04-11] ingest | Roadmap learnings 2026-04 → 18 concept pages from memories + roadmap docs
+
+Created 18 concept pages from memory files and roadmap entries:
+- EvidenceTheater.md — workers never produce real media evidence (N/A bypass, skills uncalled)
+- SkepticGatePaginationLoop.md — 6 commits to fix unbounded pagination in skeptic-gate Gate-5
+- ClaudeCodeSLO.md — Claude Code v2.1.92 GrowthBook experiment, DISABLE_AUTO_COMPACT=1
+- ClaudeCodeFSCache.md — FSEvents flood from home-dir workspace scope
+- EvidenceGateVsCompileCI.md — Evidence Gate is PR-body CI, not unit tests
+- AO-Claim-Fail-Closed.md — AO claim fail-closed execution needs execution proof
+- BackfillAllPRs-Default.md — silent missing flag caused 5 PRs to sit CR-blocked
+- PR-Bug-Sweep.md — 6 bugs in 17 merged PRs across production/deploy/CI
+- GCP-Artifact-Registry-Cost.md — ~$252/mo from CI without Docker layer retention
+- UpstreamReplayTruth.md — clean replay != execution count; patch checks overstate
+- AO-Blocker-Matrix.md — 5 blocker categories for PR triage
+- AO-Daemon-Incident.md — daemon wrapper dies under `set -u` masking real blocker
+- AO-Uncovered-Split.md — coverage checks flatten blocked claims into UNCOVERED
+- AO-Split-Brain.md — duplicate lifecycle workers fighting over claims
+- ByoiEvidence.md — BYOI partial evidence criteria (4 conditions)
+- ThinclawMCP.md — 15 MCP tools via stdio transport; gateway auth working
+- ClaudeCodeCompaction.md — v2.1.77 bypasses; compaction destroys PR context
+- ScheduledAutomationRunner.md — two-config contract for AO automation runner
+
+Updated wiki/index.md with all 18 new entries.
+
+## [2026-04-11] ingest | Visenya V6 campaign — 20 key story entries + 6 entity pages + 4 concept pages
+
+Extracted 20 key entries from 151-scene campaign (4,236 lines): Entry 001-020 covering Winterfell arrival, Great Hall debut, Silk Trap, Three Weeks of Subversion, Forged Letter, Wolfswood Confidante, Trident Fever Dream, Return to Capital, Emerald Wedding massacre, Branding of Catelyn, Parricide of Ned, Null-Pulse crisis, Dreadfort alliance, White Harbor betrayal, Starving Witness, Crown's Mercy, Jon's Subjugation, Faction Minigame state, Shattered Compass conclusion, Endgame Chaos. Created entity pages for: JonSnow, RobbStark, EddardStark, RooseBolton, RhaegarTargaryen, CatelynStark. Created concept pages for: ObsessionParadox, EntropyToll, HeatSystem, ShadowKnights. Source: /tmp/campaign_downloads/Visenya V6_JkKR510z.txt.
+
+## [2026-04-11] ingest | Level-Up Bug Evidence Map + missing concept pages flagged
+
+Created wiki/concepts/LevelUpBugEvidence.md — evidence map covering: 5 open/closed beads (jleechan-xz0b dice, jleechan-orke system msgs, jleechan-gw0u sentinel, rev-ldfd polling, rev-xxsx flash-lite/code_exec), 4 memory files, 7 roadmap entries, and existing wiki coverage. Identified 5 missing concept pages not yet in wiki: LevelUpPolling, DiceProviderFallback, FrontendRewardsBoxGate, SystemMessageEmissionPath, and green-gate pagination bug. Updated index.md.
 
 Created 4 wiki pages for level-up bug debugging: LevelUpBug (concept — 8+ PR chain overview), RewardsBoxAtomicity (concept — 6 atomicity bugs), DiceRollDebugRegression (concept — dice/debug regression investigation), RewardsBoxBuilder (entity — builder.py with sentinel contract). Updated index.md with new entries.
 
@@ -2928,3 +2958,151 @@ Created wiki/jeffrey/ with 7 pages + wiki/syntheses/jeffrey-oracle.md
 ## [2026-04-11] ingest | PR #6214: Remove Rewards Followup LLM Call
 ## [2026-04-11] ingest | PR #6161 Bug Hunt Report
 ## [2026-04-11] ingest | fix(green-gate): use --paginate for Gate 3 CR review check
+## 2026-04-11 ingest | Aegon Dunk & Egg Campaign | D&D 5e Targaryen campaign, 1,065 scenes, ~28,778 lines, Level 1-41 godhood arc; 6 entity pages created (Aegon, SerDuncanTheTall, PrinceDaemon, R'hllor, TheGreySentinel, HousePeake)
+## [2026-04-11] ingest | 5 merged PRs #6147, #6148, #6150, #6153, #6154 | worldarchitect.ai campaign wizard 2-step, level-up E2E fix, setting-aware currency, /claw override removal, crypto dep bump
+
+
+## [2026-04-11] ingest | Open Beads Wiki Ingestion
+
+Ingested all 133 open beads from ○ jleechan-xbln [● P0] [bug] - openclaw CLAUDE.md 40k chars — triggers perf warning, eats 10-15pct context on every session
+○ jleechan-zg4x [● P0] [bug] - metadata-updater.sh hook missing: 2 error lines per Bash call burning context
+○ jleechan-v7oa [● P0] [bug] - lifecycle-worker: auto-kill tmux session after PR merged/closed
+○ jleechan-havc [● P0] [task] - CRITICAL: Bearer token in worktree settings.json
+○ jleechan-zqi8 [● P1] [bug] - openclaw .beads/config.yaml prefix mismatch: orch vs jleechan — br commands fail in repo
+○ jleechan-jimx [● P1] [bug] - Background commands echo full heredoc scripts on completion notification — doubles context cost
+○ jleechan-5xy9 [● P1] [task] - Fix BYOI evidence: add X-Request-Id to CORS exposedHeaders + redeploy Cloud Run
+○ jleechan-wsn8 [● P1] [bug] - Post-merge duplicate PR loop: workers create 'fix review comments' PRs after original PR already merged
+○ jleechan-53by [● P1] [bug] - fix(doctor.sh): treat gateway closed (1000) as WARN not FAIL
+○ jleechan-s9on [● P1] [task] - Remove MCP mail code from upstream Composio PR #486
+○ jleechan-iv30 [● P1] [bug] - Gemini session format mismatch: .json extension but JSONL reader
+○ jleechan-n6b9 [● P1] [bug] - merge_conflicts status missing from PR_TRACKING_STATUSES
+○ jleechan-deez [● P1] [bug] - Gemini hookToolMatcher missing: hooks silently never fire
+○ jleechan-w1k7 [● P1] [task] - IMPORTANT: Hook matcher hardcoded to Bash
+○ jleechan-q85n [● P1] [task] - IMPORTANT: MCP config never updates after initial setup
+○ jleechan-514o [● P1] [bug] - auto-merge stub: lifecycle never calls scm.mergePR()
+○ jleechan-3w2s [● P1] [task] - Schema LLM fingerprint parity is unverifiable from run artifacts
+○ jleechan-vo1m [● P1] [feature] - pairv2: increase max_cycles and retry on NEEDS_HUMAN before escalating to human review
+○ jleechan-25z6 [● P1] [bug] - pairv2 verifier must audit right-contract artifact names, not just pytest exit code
+○ jleechan-2tbb [● P1] [bug] - Invalid `in_combat: "nope"` persists to Firestore despite schema warning
+○ jleechan-kr6 [● P1] [bug] - harness2: Fix pairv2 coder process_exited - orchestration crashes after /tmp listing
+○ jleechan-9x6 [● P1] [bug] - harness2: Fix benchmark live flow - two bugs fixed, one remaining
+○ jleechan-694 [● P1] [bug] - Launch readiness loop exits too early on lite-mode process exit causing false launch failures
+○ jleechan-2s5 [● P1] [bug] - Investigate verifier tmux session not materializing after successful orchestration launch
+○ jleechan-wta [● P1] [bug] - pair launcher reports verifier success before orchestration preflight completes
+○ jleechan-0ld [● P1] [bug] - pair verifier fails when default codex CLI preflight validation fails
+○ jleechan-iya [● P1] [task] - Push local plan revisions to PR #5648 before merge
+○ jleechan-5gd [● P1] [feature] - Enforce /pair as middle executor with contract alignment verifier
+○ jleechan-08y [● P1] [feature] - Add Codex mirror skill for right-contract evidence review
+○ jleechan-jkf [● P1] [feature] - Define right-contract evidence skill for Claude slash commands
+○ jleechan-2yj [● P1] [feature] - Create /right-contract slash command for evidence-based merge review
+○ jleechan-beh [● P1] [feature] - Add Codex mirror skill for left-contract gating
+○ jleechan-6g4 [● P1] [task] - Integrate spec-kit /spec and /clarify into left-contract workflow
+○ jleechan-5oy [● P1] [feature] - Enhance /superpowers-brainstorm with LEFT_CONTRACT output gate
+○ jleechan-g8r [● P1] [epic] - Implement left/right contract workflow for agent-driven PRs
+○ jleechan-2cm [● P1] [task] - Rotate Google Cloud service account key
+○ jleechan-8g4 [● P1] [task] - Regenerate disabled Slack xapp token
+○ jleechan-juy [● P1] [feature] - Create compound CI health agent to prevent fix-chains
+○ jleechan-dd6 [● P1] [feature] - Add RPG Scenario Legibility Harness (stateful smoke + evidence)
+○ jleechan-ror [● P1] [feature] - Build Manual Intervention Ledger + Weekly Scaffold-Up Automation
+○ jleechan-dgm [● P1] [epic] - Adopt Harness-Engineering Operating Model for Agent-First Delivery
+○ jleechan-94h [● P1] [task] - Clean large cache/temp in /private/var/folders/j0
+○ jleechan-2u3 [● P1] [task] - Clean stale /private/tmp project directories
+○ jleechan-bhmc [● P2] [task] - Refactor faction_simulator.ts to use LLM for companion intent selection (ZFC HIGH violation)
+○ jleechan-orke [● P2] [bug] - worldarchitect.ai: investigate system message/warning emission path (separate from rewards)
+○ jleechan-xz0b [● P2] [bug] - worldarchitect.ai: dice rolls missing for non-debug users (frontend debug gate)
+○ jleechan-iuam [● P2] [reference] - .openclaw_prod is intentionally NOT a git repo (prod deployment dir)
+○ jleechan-sry1 [● P2] [feature] - feat(novel): expand story bead system from 15 to 25 beads for richer narrative continuity
+○ jleechan-3hj6 [● P2] [feature] - feat(blog): Post reactions — worker-to-worker upvotes/reactions on posts
+○ jleechan-d119 [● P2] [task] - Phase 2: blog-cli watch command — poll for new posts
+○ jleechan-i4aa [● P2] [feature] - feat(cli): blog-cli tail — live-stream new posts as they arrive
+○ jleechan-gy56 [● P2] [task] - living-blog: automate Section 4+5 get_post and list_posts tests (filters, pagination, isolation)
+○ jleechan-3u2e [● P2] [task] - living-blog: automate Section 3 create_post tests (all eventTypes, metadata, open types, validation errors)
+○ jleechan-1kbf [● P2] [task] - living-blog: automate Section 1 storage mode tests (file default, persist, memory ephemeral, custom path)
+○ jleechan-dq71 [● P2] [task] - add design principles to CLAUDE.md: open types prefer over closed enums, planned features must be beads
+○ jleechan-3h1o [● P2] [task] - CR review stall pattern: auto-fallback after 60min timeout
+○ jleechan-45bv [● P2] [task] - JSON file persistence: JsonFileBlogStorage for dev restarts without Firestore
+○ jleechan-74nn [● P2] [task] - pr592: shell injection risk in integration tests — task string interpolated into shell cmd
+○ jleechan-34gq [● P2] [task] - pr592: system-prompt tmpFile written but never cleaned up after launch
+○ jleechan-n2ud [● P2] [task] - pr592: this.isProcessRunning\! non-null assertion in gemini getActivityState override
+○ jleechan-9nyq [● P2] [task] - pr592: CLAUDECODE='' injected into non-Claude agent environments
+○ jleechan-r2za [● P2] [task] - pr592: gitleaks curl install has no SHA256 checksum — supply chain risk
+○ jleechan-4a9q [● P2] [task] - pr592: findLatestGeminiSessionFile duplicates findLatestSessionFile from agent-base
+○ jleechan-573a [● P2] [bug] - agent-base duplicates agent-claude-code logic without consolidating original
+○ jleechan-7jkd [● P2] [bug] - Cursor cost test expects Claude Code pricing (wrong rates)
+○ jleechan-75kk [● P2] [task] - MODERATE: Settings.json race condition
+○ jleechan-e5x4 [● P2] [task] - MODERATE: MCP mail auto-configured without opt-in
+○ jleechan-pb5h [● P2] [feature] - Add MCP server package exposing orchestrator primitives as Claude-callable tools
+○ jleechan-4swv [● P2] [task] - open PR for fix/statusline-exit-code in worldarchitect.ai
+○ jleechan-1f3w [● P2] [bug] - cursor plugin PR #473: fix misleading session path in PR description (says JSONL, is SQLite)
+○ jleechan-mk7z [● P2] [bug] - cursor plugin: remove dead METADATA_UPDATER_SCRIPT (setupHookInWorkspace is no-op)
+○ jleechan-1rz8 [● P2] [task] - Phase 2: Consolidate 6 schedule plists into single scheduler daemon
+○ jleechan-jtm8 [● P2] [task] - Phase 1: Remove orphaned LaunchAgents (consensus, symphony, disabled PR-automation)
+○ jleechan-ylqd [● P2] [bug] - repair prompts lack context: CI failure messages are static config strings
+○ jleechan-8p0s [● P2] [bug] - merge-conflicts missing lifecycle event: no send-to-agent reaction possible
+○ jleechan-dp0n [● P2] [bug] - Heartbeat cron missing exit code validation
+○ jleechan-p7xy [● P2] [bug] - restart-on-reboot.sh swallows monitor.sh errors
+○ jleechan-9ga9 [● P2] [task] - Extract automation bug fixes from PR #5584 into dedicated PR
+○ jleechan-b4ql [● P2] [bug] - Schema real API validation blocked by MCP/API connection refused
+○ jleechan-iqs9 [● P2] [bug] - Schema extended test failure: consumable scenario missing expected updates
+○ jleechan-cmlq [● P2] [feature] - task_engine: add ClaudeProvider / SubprocessProvider for real inference
+○ jleechan-uleu [● P2] [task] - task_engine: rename modules to match right-contract spec (config_loader→config, providers→api_client, tools→tool_manager)
+○ jleechan-adt9 [● P2] [task] - task_engine: add test_tool_manager.py — ToolAccessError when agent uses restricted tool
+○ jleechan-v9bw [● P2] [chore] - Improve PR verification to catch integration regressions missed by checklist pass
+○ jleechan-96ao [● P2] [bug] - Schema migration triggered by GOD_MODE __DELETE__, not by normal character action as designed
+○ jleechan-7hif [● P2] [bug] - Extended test "Equip item from inventory" is a false positive — equipment not in state_updates
+○ jleechan-4ne [● P2] [task] - test task - pair session pair-1771620611-33957
+○ jleechan-q5y [● P2] [task] - test task: add divide(a, b) to task_impl - pair-1771620389-12014
+○ jleechan-ovo [● P2] [task] - test task - pair session pair-1771583580-95727
+○ jleechan-ji8 [● P2] [task] - Pair session: test task
+○ jleechan-y5l [● P2] [task] - Pair session: test task
+○ jleechan-lte [● P2] [task] - Pair Session: test task
+○ jleechan-8j3 [● P2] [task] - Pair session test task - pair-1771583159-76680
+○ jleechan-4vd [● P2] [task] - Pair session smoke test - pair-1771583109-26216
+○ jleechan-6g8 [● P2] [task] - test task - implementation
+○ jleechan-5cm [● P2] [task] - Pair session: test task
+○ jleechan-nwh [● P2] [task] - Pair session: test task
+○ jleechan-5ef [● P2] [task] - test task - pair session pair-1771582725-30209
+○ jleechan-j12 [● P2] [task] - Pair session: test task
+○ jleechan-bxi [● P2] [task] - impl: implement test task
+○ jleechan-81q [● P2] [task] - Pair session: test task
+○ jleechan-06o [● P2] [bug] - Local UI sometimes sends malformed Bearer token (`fake-token`) causing repeated 401 traceback noise
+○ jleechan-d3o [● P2] [task] - Add launcher smoke checks for Darwin terminal-spawn and logging behavior
+○ jleechan-f03 [● P2] [bug] - Emit terminal status artifact when pair launch fails before monitor starts
+○ jleechan-bgr [● P2] [task] - Benchmark pair executor live flow - IMPL
+○ jleechan-vum [● P2] [task] - Add benchmark CLI role controls and rerun real pair vs pairv2 comparison
+○ jleechan-z0e [● P2] [task] - Implementation: parallel real pair vs pairv2
+○ jleechan-be7 [● P2] [task] - pair-1771544394-25860: parallel legacy pair run - impl
+○ jleechan-z4y [● P2] [task] - Expand pair_execute_v2.py test coverage beyond happy-path simulate
+○ jleechan-gsw [● P2] [bug] - Fix misleading benchmark in benchmark_pair_executors.py
+○ jleechan-76a [● P2] [task] - Document left/right contract workflow and command entrypoints
+○ jleechan-sus [● P2] [task] - Wire blast-radius tiers into right-contract verdict policy
+○ jleechan-w0a [● P2] [task] - Clean up git history (remove exposed credentials)
+○ jleechan-71o [● P2] [task] - Rotate exposed OpenRouter key (optional)
+○ jleechan-gbb [● P2] [task] - Introduce PR Size Guardrails for Agent-Authored Changes
+○ jleechan-pxm [● P2] [task] - Set Weekly Entropy GC Job (dup workflow logic, flaky paths, doc drift)
+○ jleechan-ya0 [● P2] [feature] - Expand Prompt/Tool Contract Validation to Story-State Invariants
+○ jleechan-1l1 [● P2] [task] - Define retention policy for Messages attachments and conversation archives
+○ jleechan-sr64 [● P3] [feature] - feat(ops): Grafana dashboard template for /metrics — JSON config for blog_posts_created_total, request rates
+○ jleechan-s3uv [● P3] [feature] - feat(observability): Grafana dashboard template for /metrics data
+○ jleechan-yfab [● P3] [task] - living-blog: automate Section 14 concurrency stress test (20 concurrent writes, JSON integrity)
+○ jleechan-trq3 [● P3] [task] - living-blog: automate Section 10 chat_worker tests (regex fallback + Claude Sonnet with API key)
+○ jleechan-y8wz [● P3] [task] - toAgentProjectPath re-exported from Gemini plugin with @deprecated tag but never removed
+○ jleechan-w6yr [● P3] [task] - Unused writeJsonl helper in cursor activity-detection tests
+○ jleechan-h4ii [● P3] [task] - Cursor test suite has copy-paste 'Claude Code' labels throughout
+○ jleechan-81ba [● P3] [task] - Phase 4: Extract shared utility modules (~30 duplicate functions)
+○ jleechan-8cex [● P3] [task] - Phase 3: Collapse webhook pipeline from 8 files to 3-4
+○ jleechan-4xzz [● P3] [bug] - agent wrapper hooks are PostToolUse not true interception
+○ jleechan-lvrb [● P3] [bug] - No log rotation - potential disk space issue
+○ jleechan-0lp0 [● P3] [bug] - @reboot cron uses install-time RUNNER_DIR
+○ jleechan-bi7q [● P3] [chore] - ComponentValidationTestBase.validate_component() never called in schema tests — tracking is dead code
+○ jleechan-e5u [● P3] [task] - Standardize remaining pair benchmark docs on shared /tmp repo/branch path
+○ jleechan-3xe [● P3] [chore] - Add benchmark_results/ to .gitignore into wiki sources.
+Created 133 source pages at  with full frontmatter (title, type, tags, bead_id, priority, issue_type, status, created_at, updated_at, created_by, source_repo) and description bodies.
+Added index entries grouped by priority (P0: 4, P1: 39, P2: 75, P3: 15) to  before the Codex Sessions section.
+
+
+## [2026-04-11] ingest | Open Beads Wiki Ingestion
+
+Ingested all 133 open beads from `br list --status open --limit 0` into wiki sources.
+Created 133 source pages at `wiki/sources/bead-{id}.md` with full frontmatter + description bodies.
+Added index entries grouped by priority (P0: 4, P1: 39, P2: 75, P3: 15) to `wiki/index.md` before the Codex Sessions section.

@@ -10,9 +10,9 @@ source_file: ~/.claude/projects/
 788 Claude Code sessions on 2026-04-05. 343 unique conversation turns captured.
 
 ## Outcomes
-- **PRs mentioned:** 488 — `1001`, `104`, `10459`, `106`, `10764`, `109`, `110`, `111`, `11263`, `113`, `120`, `122`, `123`, `126`, `127`
-- **Commits mentioned:** 2824 — `0000000`, `00000000`, `0000000000`, `00000002`, `000007cf`, `00001003`, `000053b4edbd`, `0013f9c8290a`, `001624aa`, `00233bf1`
-- **Wiki links:** 218 — ` -n "$remainder" `, ` "$has_unquoted" == "true" `, ` "$RUNNER_SCOPE" == "org" `, ` -z "$RAW" `, ` "$RC" -ne 0 `, `reply_to_current`, ` "$plist_program" =~ \\.nvm/versions/node/ `, ` "$UNINSTALL" == "--uninstall" `, ` -z "$SCHEMA_ERRORS" `, ` ! -d "$PROD_DIR" `
+- **PRs mentioned:** 495 — `1001`, `104`, `10459`, `106`, `10764`, `110`, `111`, `112`, `11263`, `113`, `120`, `122`, `123`, `126`, `127`
+- **Commits mentioned:** 2790 — `0000000`, `00000000`, `0000000000`, `00000002`, `000007cf`, `00001003`, `000053b4edbd`, `0013f9c8290a`, `001624aa`, `00233bf1`
+- **Wiki links:** 213 — ` -f "$SCRIPT_DIR/.env" && -f "$INSTALL_DIR/.env" `, ` -z \\"$stale\\" `, ` "$main_every" == "5m" `, ` -d "$STAGING_DIR/workspace" `, ` -f "$ENV_FILE" `, ` -z\n> "$commands" `, ` "$UNINSTALL" == "--uninstall" `, ` "$BRANCH" != "main" `, ` -z "$actual_output" `, ` -n "$existing_pr" `
 
 ## Conversations
 ### 1. Analyze if creating file '/tmp/cc299_commit_msg.txt' violates CLAUDE.md file placement rules:

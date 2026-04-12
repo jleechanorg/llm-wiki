@@ -10,9 +10,9 @@ source_file: ~/.claude/projects/
 1011 Claude Code sessions on 2026-04-02. 167 unique conversation turns captured.
 
 ## Outcomes
-- **PRs mentioned:** 377 — `000000`, `10459`, `110`, `1122`, `120`, `1211`, `1213`, `1214`, `122`, `1221`, `123`, `124`, `125`, `126`, `1270`
-- **Commits mentioned:** 1952 — `0000000`, `0000000000`, `000053b4edbd`, `007d4c445e`, `00af264e055d4ecd0273cb98dc16096d`, `012ffc2`, `019cb2c2`, `019cbc7d`, `019cd0bc`, `019cdb9c`
-- **Wiki links:** 204 — ` "$command" =~ ^gh[[:space:`, ` -x "$nvm_22/node" `, ` -n "${REDIS_INSTANCE_OVERRIDE:-}" `, ` "$DEPLOY_ONLY" != true `, ` "$TOK" != "PASS" `, ` -n "$branch" && "$branch" != "HEAD" &&\n        ! "$branch" =~ \\.(ts`, ` -z "$SERVICE_URL" `, ` -n "$src_path" `, ` \\"$clean_command\\" =~ $merge_pattern \\u0026\\u0026 ${AO_ALLOW_GH_PR_MERGE:-_} == \\"1\\" \\u0026\\u0026 \\"$hook_event\\" == \\"PostToolUse\\" `, ` "$_modver" != "unknown" `
+- **PRs mentioned:** 375 — `102`, `10459`, `111`, `120`, `1212`, `1213`, `1214`, `122`, `1221`, `123`, `12345`, `124`, `125`, `126`, `1270`
+- **Commits mentioned:** 1965 — `0000000`, `000000000`, `0000000000`, `000053b4edbd`, `0090a33454`, `012ffc2`, `0155d64120b0`, `019cb2c2`, `019cbc7d`, `019cd0bc`
+- **Wiki links:** 206 — ` -f "$STAGING_CONFIG" `, ` -f "$STATE_FILE" `, ` -z "$NODE_BIN" `, ` ! -f "backend/package.json" `, ` "$DEPLOY_ONLY" == true `, ` -x "$_sched" `, ` -f "$STAGING_PID_FILE" `, ` -z "$OPENCLAW_BIN" `, ` "$(git rev-parse main 2>/dev/null)" == "$(git rev-parse origin/main 2>/dev/null)" `, ` -n "${AO_MONITOR_PROJECT:-}" `
 
 ## Conversations
 ### 1. You are an AI coding agent managed by the Agent Orchestrator (ao).

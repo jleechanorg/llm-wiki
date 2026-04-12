@@ -10,10 +10,9 @@ source_file: ~/.claude/projects/
 343 Claude Code sessions on 2026-03-31. 181 unique conversation turns captured.
 
 ## Outcomes
-- **PRs mentioned:** 230 — `102`, `103`, `104`, `107`, `109`, `110`, `111`, `112`, `113`, `114`, `115`, `116`, `117`, `118`, `120`
-- **Commits mentioned:** 2814 — `0000000`, `000000000`, `0000000000`, `000175625`, `0006121777`, `00061370584`, `0006710476`, `0019341821`, `0023596787`, `002e69ae07`
-- **Wiki links:** 174 — `reply_to_current`, ` "$plist_program" =~ \\.nvm/versions/node/ `, ` -z "$SCHEMA_ERRORS" `, ` -z "$entry" `, `tileIDs`, ` "$args" == *"/extensions/antigravity/bin/language_server_macos_arm"* `, ` ":$PATH:" != *":$entry:"* `, ` -x "$cmux_bin" `, ` -n "$branch" && "$branch" != "HEAD" &&
-             ! "$branch" =~ \.(ts`, ` "$raw" =~ ^Bearer[[:space:`
+- **PRs mentioned:** 224 — `101`, `102`, `103`, `104`, `106`, `108`, `109`, `110`, `111`, `112`, `113`, `114`, `115`, `116`, `118`
+- **Commits mentioned:** 2828 — `0000000`, `000000000`, `0000000000`, `000175625`, `0006710476`, `001809138`, `0023596787`, `0025215182`, `002e69ae07`, `004791514`
+- **Wiki links:** 172 — ` -f "$STAGING_CONFIG" `, ` -z "$NODE_BIN" `, ` =~ `, ` "$IN_CMUX" == "1" `, ` "$SDK_MINOR" -le 16 `, ` -f "$STAGING_PID_FILE" `, ` -z "$OPENCLAW_BIN" `, ` -n "${COMPOSE_LOG_FILE:-}" `, ` -n "$branch" && "$branch" != "HEAD" `, ` ! "$cmd" =~ ^/(usr`
 
 ## Conversations
 ### 1. You are an AI coding agent managed by the Agent Orchestrator (ao).

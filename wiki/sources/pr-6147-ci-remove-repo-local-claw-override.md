@@ -9,7 +9,16 @@ last_updated: 2026-04-08
 ---
 
 ## Summary
-(none)
+Removes the repo-local `.claude/commands/claw.md` override from the repository, restoring the user-scope `/claw` command definition by precedence. Also adds the missing PR design doc (`docs/design/pr-designs/pr-6147.md`) and explicit evidence links required by current review gates. All 48 tests pass after removal.
+
+## Key Claims
+- Deleting the repo-local override allows user-scope `/claw` to take precedence
+- All 48 existing tests pass after removal (4 skipped)
+- Design doc added to satisfy skeptic review requirement
+- Terminal recording evidence at public gist
+
+## Key Quotes
+> "This repository currently contains a repo-local `/claw` command override at `.claude/commands/claw.md`. Because repo-local Claude command files take precedence over user-scope command files, this repo-specific override changes `/claw` behavior away from the user-scope definition."
 
 ## Metadata
 - **PR**: #6147
@@ -19,3 +28,4 @@ last_updated: 2026-04-08
 - **Labels**: none
 
 ## Connections
+- [[/claw command]] — user-scope command now takes precedence after repo-local override removal

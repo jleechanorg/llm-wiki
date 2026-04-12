@@ -9,7 +9,17 @@ last_updated: 2026-04-09
 ---
 
 ## Summary
-The `LevelUpAgent` routing was being hijacked by the `CharacterCreationAgent` because `world_logic.py` was unconditionally setting the `level_up_pending` flag even when a character creation session was in progress. This led to a "modal deadlock" where the user was presented with level-up choices that would fail to process because the active agent was still in character creation mode.
+Fixes a "level-up agent hijacking" bug where the `LevelUpAgent` was being hijacked by `CharacterCreationAgent` due to unconditional `level_up_pending` flag setting in `world_logic.py`. Also hardens the E2E test harness to comply with "Bulletproof Evidence" v3 standards, adding HMAC-SHA256 response signing and mandatory server log capture.
+
+## Key Claims
+- Level-up modal was appearing during character creation flow due to unguarded flag updates
+- Added `character_creation_in_progress` guards in `_maybe_trigger_level_up_modal` (Lines 3472, 3500)
+- E2E harness now uses two-step routing verification (validate AFTER Firestore state reload)
+- Evidence capture includes HMAC-SHA256 signed LLM traces and server audit logs
+- `EVIDENCE_SIGNATURE_GUARD` requires multiple properly-shaped signed responses
+
+## Key Quotes
+> "The `LevelUpAgent` routing was being hijacked by the `CharacterCreationAgent` because `world_logic.py` was unconditionally setting the `level_up_pending` flag even when a character creation session was in progress."
 
 ## Metadata
 - **PR**: #6148
@@ -19,3 +29,6 @@ The `LevelUpAgent` routing was being hijacked by the `CharacterCreationAgent` be
 - **Labels**: none
 
 ## Connections
+- [[LevelUpAgent]] — routing hijacking fixed with character creation guard
+- [[E2E test harness]] — hardened with bulletproof evidence v3 standards
+- [[world_logic.py]] — guarded `_maybe_trigger_level_up_modal` with `character_creation_in_progress` checks

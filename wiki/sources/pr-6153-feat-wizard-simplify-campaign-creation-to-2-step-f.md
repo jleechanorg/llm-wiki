@@ -9,7 +9,18 @@ last_updated: 2026-04-09
 ---
 
 ## Summary
-The previous campaign creation wizard was a 4-step process that required users to click through multiple screens to reach launch, adding unnecessary friction. The AI toggle constraints were also overly aggressive and confusing to users, wiping out Custom Campaign preferences if users toggled between campaign types. Additionally, avatar file state leakages were causing avatars from abandoned campaign creations to bleed into subsequent sessions.
+Streamlines the campaign creation wizard from 4 steps down to 2 steps (Type Selection → Launch). Removes the "AI Storytelling Options" checkboxes from the UI entirely, routing their logic into `collectFormData` where Dragon Knight forces all 3 settings on and Custom disables the Default World. Also fixes avatar file state leakages across wizard resets.
+
+## Key Claims
+- Wizard reduced from 4 steps to 2 steps (Type Selection → Launch)
+- AI toggle UI completely removed; logic moved to backend `collectFormData` rule engine
+- Dragon Knight campaigns enforce all 3 AI settings programmatically
+- Custom campaigns disable Default World but keep Mechanics and Companions enabled
+- Avatar component state leakage fixed via proper listener cleanup
+- All 7 E2E MVP shards pass in strict mode
+
+## Key Quotes
+> "Refactored `campaign-wizard.js` to render a 2-step setup. Moved all character uploading logic, preview edits, and campaign summaries into a newly organized 'Launch' step."
 
 ## Metadata
 - **PR**: #6153
@@ -19,3 +30,6 @@ The previous campaign creation wizard was a 4-step process that required users t
 - **Labels**: none
 
 ## Connections
+- [[Campaign Wizard]] — 2-step flow (Type Selection → Launch)
+- [[Dragon Knight]] — AI defaults enforced programmatically
+- [[Custom Campaign]] — AI defaults enforced with Default World disabled
