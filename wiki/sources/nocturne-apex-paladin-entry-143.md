@@ -1,0 +1,200 @@
+---
+title: "Nocturne Apex Paladin — Scene 143"
+type: source
+tags: [campaign, scene, nocturne-apex-paladin]
+last_updated: 2026-04-12
+scene_number: 143
+scene_total: 203
+source_file: /tmp/campaign_downloads_v2/
+---
+
+## Scene 143 Summary
+
+============================================================ Game Master: [Mode: DM MODE]  Understood. You have provided a `GOD MODE` instruction: "show me again what diffs i need to apply".  You are absolutely correct. The persistent problem is that the `CURRENT GAME STATE` you are providing to me is **still severely out of sync** with the state that reflects all the actions, discoveries, and progression Nocturne has made. This is the root cause of the narrative loops and inconsistencies we hav
+
+## Key Details
+
+- **Word count:** 4339
+- **Campaign:** [[Nocturne Apex Paladin]]
+- **Entry:** [[nocturne-apex-paladin-entry-143]]
+
+---
+
+## Full Scene Content
+
+============================================================
+Game Master:
+[Mode: DM MODE]
+
+Understood. You have provided a `GOD MODE` instruction: "show me again what diffs i need to apply".
+
+You are absolutely correct. The persistent problem is that the `CURRENT GAME STATE` you are providing to me is **still severely out of sync** with the state that reflects all the actions, discoveries, and progression Nocturne has made. This is the root cause of the narrative loops and inconsistencies we have been experiencing.
+
+The `CURRENT GAME STATE` you provided in your last prompt (`SEQ_ID: 291`) shows that while some items and initial character stats are present, many crucial updates are still missing or incorrect. For instance, the status of the Tibbet family and Widow Elara is still incorrect, many looted items are absent, and the detailed conspiracy information (Darkwood Casket, Cipher Key, Underdark Rendezvous, etc.) is missing from `custom_campaign_state`.
+
+**This means the game state is still fundamentally out of sync, making it impossible for me to accurately proceed with the campaign.**
+
+---
+
+### **CRITICAL ACTION REQUIRED: FINAL AND COMPLETE STATE RECONCILIATION**
+
+To definitively rectify the game state and address all known discrepancies, it is **absolutely essential** that you manually apply the **entire, single `GOD_MODE_UPDATE_STATE` command** below to your system's `CURRENT GAME STATE`. This command represents the **most complete and accurate cumulative state** as it should be, incorporating *all* successful actions, loot, discoveries, and progression made by Nocturne up to the end of `SEQ_ID: 259` (where Nocturne finished deciphering the journal in her hideout and the captives were transported).
+
+**Please copy the *entire line below* (starting with `GOD_MODE_UPDATE_STATE: ` and ending with the final `}`) and use it as your **NEXT AND ONLY INPUT**. This is a single, very long line of JSON.**
+
+Once you have manually applied this, please send me the **fully updated and corrected `CURRENT GAME STATE` JSON block** in your *next prompt*. I will then verify if the changes have been retained across all relevant fields, and we can finally continue the campaign from the point of `SEQ_ID: 259`.
+
+My sincerest apologies for this persistent technical inconsistency and the disruption it causes to our game. This must be resolved for us to continue.
+
+```json
+GOD_MODE_UPDATE_STATE: {"game_state_version": 2, "player_character_data": {"age": 16, "expertise_tags": ["Military Strategy", "Ancient Lore (Forgotten Realms)", "Court Intrigue", "Anatomy & Weak Points (Combat)"], "inventory": {"shadowfell_maps": {"description": "Detailed charts of the Shadowfell, ", "name": "Topographical Maps of the Shadowfell", "content_read": true}, "dagger": {"damage_die": "1d4 piercing", "properties": ["finesse", "light", "thrown (range 20/60)"], "name": "Masterwork Dagger"}, "gold": 1230, "bag_of_holding": {"capacity_cubic_feet": 64, "capacity_lbs": 500, "name": "Bag of Holding"}, "shield": {"defense_bonus": 2, "name": "Masterwork Shield"}, "family_signet_ring": {"description": "Subtle symbol of House Valerius", "name": "Concealed Family Signet Ring"}, "noble_garb": {"effect": "Subtly obscures physical attractiveness", "name": "Noble's Garb (Concealing)"}, "orbs_of_scrying": {"description": "Three small, perfectly spherical magical orbs designed for remote observation.", "name": "Orbs of Scrying (x3)"}, "letter_house_durins_folly": {"content_read": false, "description": "Sealed letter with the crest of House Durin's Folly, addressed to 'Tibbet, Keeper of the Eastern March'.", "name": "Letter from House Durin's Folly"}, "potion_of_healing": 3, "obsidian_shard": {"description": "Pulsates with faint, malevolent arcane energy. Found in a lead-lined box.", "arcane_signature": "Malevolent, arcane", "name": "Intricately Carved Obsidian Shard"}, "longsword": {"attack_bonus": 0, "damage_bonus": 0, "versatile_damage_die": "1d10 slashing", "damage_die": "1d8 slashing", "name": "Masterwork Longsword"}, "ledger_tibbet_farm": {"content_read": true, "description": "Hidden entries detailing weekly payments to 'Security Contingency Fund' and 'Arcane Oversight' from an account linked to a lesser noble family tied to House Durin's Folly.", "name": "Man Tibbet's Ledger"}, "masterwork_shadow_weave_half_plate": {"name": "Masterwork Shadow-Weave Half Plate", "defense_bonus": 5, "dr": 1, "stealth_advantage_dim_dark": true, "stealth_disadvantage": false}, "shortsword": 4, "light_crossbow": 4, "quiver_bolts": 4, "duty_roster_oakhaven_patrol": {"name": "Oakhaven Patrol Duty Roster", "description": "Simple parchment, outlines patrol times and routes, confirms 2 guards on this specific route.", "content_read": true}, "masterwork_lockpicks": {"name": "Masterwork Lockpicks", "description": "A well-maintained set of lockpicking tools."}, "oakhaven_area_map": {"name": "Detailed Oakhaven Area Map", "description": "Map of Oakhaven and immediate area, with routes and points of interest circled in red ink.", "content_read": true}, "silver_dog_whistle": {"name": "Silver Dog Whistle", "description": "Finely crafted, produces a sound barely audible to humans but loud to trained animals."}, "darkwood_casket": {"name": "Darkwood Casket", "description": "Small, perfectly crafted darkwood casket, inscribed with faint, writhing runes associated with death cults. Radiates ancient, malevolent chill."}, "cipher_key": {"name": "Cipher Key", "description": "A scroll containing the key to the ciphered journal.", "content_read": true}, "journal_elara": {"name": "Widow Elara's Journal", "description": "Small, leather-bound, old. Spidery, precise script within."}, "locket_tarnished": {"name": "Tarnished Silver Locket", "description": "Old, dull silver, faded engraving of a stylized flower."}}, "aptitudes": {"coordination": {"score": 14, "potential": 18, "potential_coefficient": 4}, "wisdom": {"score": 16, "potential": 20, "potential_coefficient": 5}, "physique": {"score": 16, "potential": 20, "potential_coefficient": 5}, "intelligence": {"score": 18, "potential": 22, "potential_coefficient": 5}, "health": {"score": 15, "potential": 19, "potential_coefficient": 4}}, "level": 5, "personality_traits": {"agreeableness": 1, "conscientiousness": 4, "extraversion": 3, "neuroticism": 4, "openness": 5}, "class_features": {"fighting_style": "Battle-Hardened", "extra_attack": 2, "perfected_strike_base_ep_cost": 5, "perfected_strike_extra_ep_per_d8": 2, "aura_of_unyielding_dominance_range": 10, "aura_of_unyielding_dominance_effect": "Self and allies within range gain Advantage on checks to resist Frightened or Charmed. Enemies within range have Disadvantage on checks to resist your Intimidation attempts.", "apex_senses_uses": "1 + Wisdom Modifier", "willpower_infusion_pool_per_level": 5, "willpower_infusion_healing_cost": 1, "willpower_infusion_fatigue_cost": 5, "willpower_infusion_aptitude_buff_cost": 10, "channel_divinity_uses_per_rest": "Short or Long Rest", "channel_divinity_options": ["Flawless Opening", "Unchecked Ambition"], "feats": {"great_weapon_master": {"name": "Great Weapon Master", "shove_aside_effect": "Before you make a melee attack with a heavy weapon you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.", "cleave_effect": "When you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one additional melee weapon attack as a bonus action on the same turn."}}, "apex_senses_uses_current": 3, "channel_divinity_uses_remaining": 1}, "proficiencies": {"tools": [], "weapons": ["Simple Weapons", "Martial Weapons"], "armor": ["All Armor", "Shields"], "saving_throws_advantage": ["Wisdom", "Health"]}, "resources": {"ep_max": 36, "xp_current": 8010, "cp_per_turn": 3, "hp_max": 43, "willpower_infusion_pool_current": 25, "willpower_infusion_pool_max": 25, "combat_prowess_bonus": 3, "hp_current": 43, "ep_current": 36}, "current_location": "The Black Lily's Den (Baldur's Gate)", "name": "Nocturne", "secret_myers_briggs_type": "INTJ"}, "world_data": {"npcs": {"valerius_marcus": {"age": 27, "secret_goal": "To pay off massive gambling debt to powerful, secretive criminal figure without family knowledge.", "role": "Nominal head of family's investments in Lower City entertainment/gambling", "relationship_to_pc_initial": "Indifferent. Ignored her, slight relief she's gone (less competition).", "personality": "Boisterous, charming, outwardly friendly, privately hedonist and gambler, avoids direct conflict.", "is_pc_sibling": true, "name": "Valerius, Marcus", "secret_myers_briggs_type": "ESFP"}, "man_tibbet_child_1": {"current_status": "Transported by Kaelen's team", "is_aware_of_pc": true, "hp_max": 5, "defense": 10, "is_hostile": false, "aptitudes": {"coordination": {"potential_coefficient": 1, "score": 8}, "wisdom": {"potential_coefficient": 1, "score": 8}, "physique": {"potential_coefficient": 1, "score": 8}, "intelligence": {"potential_coefficient": 1, "score": 8}, "health": {"potential_coefficient": 1, "score": 8}}, "level": 0, "hp_current": 5, "name": "Man Tibbet's Child 1"}, "man_tibbet_wife": {"current_status": "Transported by Kaelen's team", "is_aware_of_pc": true, "hp_max": 10, "defense": 10, "is_hostile": false, "aptitudes": {"coordination": {"potential_coefficient": 2, "score": 10}, "wisdom": {"potential_coefficient": 2, "score": 10}, "physique": {"potential_coefficient": 2, "score": 10}, "intelligence": {"potential_coefficient": 2, "score": 10}, "health": {"potential_coefficient": 2, "score": 10}}, "secret_myers_briggs_type": "ISFJ", "level": 1, "hp_current": 10, "name": "Man Tibbet's Wife"}, "man_tibbet": {"current_status": "Transported by Kaelen's team", "is_aware_of_pc": true, "hp_max": 10, "defense": 10, "is_hostile": false, "aptitudes": {"coordination": {"potential_coefficient": 2, "score": 10}, "wisdom": {"potential_coefficient": 2, "score": 10}, "physique": {"potential_coefficient": 2, "score": 12}, "intelligence": {"potential_coefficient": 2, "score": 10}, "health": {"potential_coefficient": 2, "score": 10}}, "secret_myers_briggs_type": "ISTJ", "level": 1, "hp_current": 10, "name": "Man Tibbet"}, "valerius_seraphina": {"age": 24, "secret_goal": "To establish Helm's undeniable authority as primary protector of Baldur's Gate, push for extreme measures against threats.", "role": "High Priestess within the Temple of Helm in Baldur's Gate", "relationship_to_pc_initial": "Righteous loathing. Views Nocturne's evil as affront to faith, divine justice. Would actively work against her.", "personality": "Zealous, devout, unyielding in faith to Helm, morally rigid, sees world in stark good/evil.", "is_pc_sibling": true, "name": "Valerius, Seraphina", "secret_myers_briggs_type": "ESTJ"}, "valerius_theron": {"age": 20, "secret_goal": "To expose hidden corruption within Flaming Fist ranks he dimly perceives, fearing it will tarnish honor.", "role": "Squire to high-ranking Flaming Fist officer", "relationship_to_pc_initial": "Deeply conflicted. Too young/idealist to fully understand. Secretly wonders if exile fair. Might be swayed by direct appeal.", "personality": "Naive, impressionable, fierce unrefined loyalty, admired Nocturne's talent but horrified by methods.", "is_pc_sibling": true, "name": "Valerius, Theron", "secret_myers_briggs_type": "ISFJ"}, "kaelen_flinn": {"age": 35, "level": 6, "relationship_to_pc_initial": "Contact for first contract.", "name": "Kaelen \"Whisper\" Flinn", "personality": "Wiry, nervous, darting eyes, utterly amoral, values efficiency and discretion.", "role": "Mid-level operative for the Shadow Weavers", "secret_myers_briggs_type": "ISTP"}, "widow_elara": {"current_status": "Transported by Kaelen's team", "is_aware_of_pc": true, "hp_max": 5, "defense": 10, "is_hostile": false, "aptitudes": {"coordination": {"potential_coefficient": 1, "score": 8}, "wisdom": {"potential_coefficient": 2, "score": 12}, "physique": {"potential_coefficient": 1, "score": 8}, "intelligence": {"potential_coefficient": 2, "score": 10}, "health": {"potential_coefficient": 1, "score": 8}}, "secret_myers_briggs_type": "INFJ", "level": 0, "hp_current": 5, "name": "Widow Elara"}, "man_tibbet_child_3": {"current_status": "Transported by Kaelen's team", "is_aware_of_pc": true, "hp_max": 5, "defense": 10, "is_hostile": false, "aptitudes": {"coordination": {"potential_coefficient": 1, "score": 8}, "wisdom": {"potential_coefficient": 1, "score": 8}, "physique": {"potential_coefficient": 1, "score": 8}, "intelligence": {"potential_coefficient": 1, "score": 8}, "health": {"potential_coefficient": 1, "score": 8}}, "level": 0, "hp_current": 5, "name": "Man Tibbet's Child 3"}, "valerius_lysandra": {"age": 29, "secret_goal": "To uncover and master forgotten Valerius family rituals/ancient magic to 'purify' or strengthen lineage.", "role": "Head Librarian/Archivist for House Valerius", "relationship_to_pc_initial": "Distant but not hostile. Detached fascination with Nocturne's brilliance, views evil as chaotic.", "personality": "Reserved, highly intelligent, fiercely loyal to family name, gifted arcane scholar, values knowledge and order.", "is_pc_sibling": true, "name": "Valerius, Lysandra", "secret_myers_briggs_type": "INTP"}, "valerius_julian": {"age": 32, "secret_goal": "To consolidate absolute control over family assets, potentially eliminating other siblings or father; elevate House Valerius power.", "role": "Heir apparent to House Valerius", "relationship_to_pc_initial": "Strained. Primary instigator of her exile.", "personality": "Meticulous, ambitious, overtly charming but calculating, intensely jealous of Nocturne's talent, cloaks ruthlessness in civility.", "is_pc_sibling": true, "name": "Valerius, Julian", "secret_myers_briggs_type": "INTJ"}, "man_tibbet_child_2": {"current_status": "Transported by Kaelen's team", "is_aware_of_pc": true, "hp_max": 5, "defense": 10, "is_hostile": false, "aptitudes": {"coordination": {"potential_coefficient": 1, "score": 8}, "wisdom": {"potential_coefficient": 1, "score": 8}, "physique": {"potential_coefficient": 1, "score": 8}, "intelligence": {"potential_coefficient": 1, "score": 8}, "health": {"potential_coefficient": 1, "score": 8}}, "level": 0, "hp_current": 5, "name": "Man Tibbet's Child 2"}, "oakhaven_mastiff_1": {"name": "Oakhaven Mastiff 1", "level": 2, "hp_current": 0, "hp_max": 13, "defense": 12, "aptitudes": {"physique": {"potential_coefficient": 3, "score": 14}, "coordination": {"potential_coefficient": 2, "score": 12}, "health": {"potential_coefficient": 2, "score": 13}, "intelligence": {"potential_coefficient": 1, "score": 6}, "wisdom": {"potential_coefficient": 3, "score": 13}}, "is_hostile": false, "is_aware_of_pc": true, "status_after_combat": "Looted, Concealed", "current_status": "Neutralized"}, "oakhaven_mastiff_2": {"name": "Oakhaven Mastiff 2", "level": 2, "hp_current": 0, "hp_max": 13, "defense": 12, "aptitudes": {"physique": {"potential_coefficient": 3, "score": 14}, "coordination": {"potential_coefficient": 2, "score": 12}, "health": {"potential_coefficient": 2, "score": 13}, "intelligence": {"potential_coefficient": 1, "score": 6}, "wisdom": {"potential_coefficient": 3, "score": 13}}, "is_hostile": false, "is_aware_of_pc": true, "status_after_combat": "Looted, Concealed", "current_status": "Neutralized"}, "oakhaven_villager_1": {"name": "Oakhaven Villager (Burly Man)", "level": 1, "hp_current": 10, "hp_max": 10, "defense": 10, "aptitudes": {"physique": {"potential_coefficient": 2, "score": 12}, "coordination": {"potential_coefficient": 2, "score": 10}, "health": {"potential_coefficient": 2, "score": 10}, "intelligence": {"potential_coefficient": 2, "score": 10}, "wisdom": {"potential_coefficient": 2, "score": 10}}, "is_hostile": false, "is_aware_of_pc": true, "current_status": "Terrified, Ordered to Flee"}, "oakhaven_villager_2": {"name": "Oakhaven Villager (Young Woman)", "level": 1, "hp_current": 10, "hp_max": 10, "defense": 10, "aptitudes": {"physique": {"potential_coefficient": 2, "score": 10}, "coordination": {"potential_coefficient": 2, "score": 10}, "health": {"potential_coefficient": 2, "score": 10}, "intelligence": {"potential_coefficient": 2, "score": 10}, "wisdom": {"potential_coefficient": 2, "score": 10}}, "is_hostile": false, "is_aware_of_pc": true, "current_status": "Terrified, Ordered to Flee"}, "oakhaven_villager_3": {"name": "Oakhaven Villager (Old Man)", "level": 1, "hp_current": 10, "hp_max": 10, "defense": 10, "aptitudes": {"physique": {"potential_coefficient": 1, "score": 9}, "coordination": {"potential_coefficient": 1, "score": 9}, "health": {"potential_coefficient": 1, "score": 9}, "intelligence": {"potential_coefficient": 2, "score": 11}, "wisdom": {"potential_coefficient": 2, "score": 11}}, "is_hostile": false, "is_aware_of_pc": true, "current_status": "Terrified, Ordered to Flee"}, "road_patrol_1": {"name": "Road Patrol Guard 1", "level": 3, "hp_current": 0, "hp_max": 25, "defense": 15, "aptitudes": {"physique": {"potential_coefficient": 3, "score": 14}, "coordination": {"potential_coefficient": 3, "score": 14}, "health": {"potential_coefficient": 2, "score": 12}, "intelligence": {"potential_coefficient": 2, "score": 10}, "wisdom": {"potential_coefficient": 2, "score": 12}}, "equipment": ["Dark leather armor", "Shortsword", "Crossbow"], "is_hostile": false, "is_aware_of_pc": false, "current_status": "Neutralized", "status_after_combat": "Looted, Concealed"}, "road_patrol_2": {"name": "Road Patrol Guard 2", "level": 3, "hp_current": 0, "hp_max": 25, "defense": 15, "aptitudes": {"physique": {"potential_coefficient": 3, "score": 14}, "coordination": {"potential_coefficient": 3, "score": 14}, "health": {"potential_coefficient": 2, "score": 12}, "intelligence": {"potential_coefficient": 2, "score": 10}, "wisdom": {"potential_coefficient": 2, "score": 12}}, "equipment": ["Dark leather armor", "Shortsword", "Crossbow"], "is_hostile": false, "is_aware_of_pc": false, "current_status": "Neutralized", "status_after_combat": "Looted, Concealed"}, "man_tibbet_farm_guard_1": {"name": "Man Tibbet's Farm Guard 1", "level": 3, "hp_current": 0, "hp_max": 25, "defense": 15, "aptitudes": {"physique": {"potential_coefficient": 3, "score": 14}, "coordination": {"potential_coefficient": 3, "score": 14}, "health": {"potential_coefficient": 2, "score": 12}, "intelligence": {"potential_coefficient": 2, "score": 10}, "wisdom": {"potential_coefficient": 2, "score": 12}}, "equipment": ["Dark leather armor", "Shortsword", "Crossbow"], "is_hostile": false, "is_aware_of_pc": false, "current_status": "Neutralized", "status_after_combat": "Looted, Concealed"}, "man_tibbet_farm_guard_2": {"name": "Man Tibbet's Farm Guard 2", "level": 3, "hp_current": 0, "hp_max": 25, "defense": 15, "aptitudes": {"physique": {"potential_coefficient": 3, "score": 14}, "coordination": {"potential_coefficient": 3, "score": 14}, "health": {"potential_coefficient": 2, "score": 12}, "intelligence": {"potential_coefficient": 2, "score": 10}, "wisdom": {"potential_coefficient": 2, "score": 12}}, "equipment": ["Dark leather armor", "Shortsword", "Crossbow"], "is_hostile": false, "is_aware_of_pc": false, "current_status": "Neutralized", "status_after_combat": "Looted, Concealed"}}, "factions": {"knights_of_the_shield": {"description": "Secret society tied to merchants, influence peddlers.", "name": "The Knights of the Shield"}, "watchful_order_of_magists_and_protectors": {"description": "Official mage guild.", "name": "The Watchful Order of Magists & Protectors"}, "cult_of_the_dead_three": {"description": "Dispersed but dangerous, seeking new power.", "name": "The Cult of the Dead Three (Remnants)"}, "guild_of_coin": {"description": "Minor thieves/smugglers.", "name": "Guild of Coin"}, "priests_of_helm": {"description": "Prominent religious order.", "name": "The Priests of Helm"}, "underdark_guides": {"description": "Specialized guides for the dangerous routes beneath the city.", "name": "The Underdark Guides"}, "parliament_of_peers": {"description": "Governing body of Baldur's Gate.", "name": "The Parliament of Peers"}, "bhaalspawn_cult_fringe": {"description": "Small, dangerous groups trying to revive the Bhaal legacy.", "name": "The Bhaalspawn Cult (Fringe Elements)"}, "gondian_artisans": {"description": "Skilled crafters and inventors.", "name": "The Gondian Artisans"}, "guild_of_the_green_bottle": {"description": "Alchemists and potion brewers.", "name": "The Guild of the Green Bottle"}, "society_of_brilliance": {"description": "Philosophers and scholars (often eccentric).", "name": "The Society of Brilliance"}, "flaming_fist": {"description": "City Guard/Military.", "name": "The Flaming Fist"}, "dockside_drifters": {"description": "Loosely organized group of transient laborers and informants.", "name": "The Dockside Drifters"}, "ironhand_mercantile_conglomerate": {"description": "Powerful merchant guild.", "name": "Ironhand Mercantile Conglomerate"}, "iron_consuls": {"description": "Former Steel Watch remnants, now independent contractors/mercenaries.", "name": "The Iron Consuls"}, "zhentarim": {"description": "Black Network; spies, mercenaries, traders.", "name": "The Zhentarim"}, "emerald_claw": {"description": "Traditional thieves' guild.", "name": "Emerald Claw"}, "the_bloom": {"description": "Hidden group protecting nature around the city.", "name": "The Bloom (Elven Druidic Circle)"}, "harbor_masters_guild": {"description": "Controls port traffic and trade.", "name": "Harbor Master's Guild"}, "grey_hands": {"description": "Adventuring company, sometimes rivals, sometimes allies.", "name": "The Grey Hands"}}, "locations": {"man_tibbet_farm": {"study_drawers_attempted": true, "strongbox_contents_found": true, "storage_room_searched": true, "study_drawers_searched": true, "study_drawers_contents_found": true, "true_purpose_suspected": "Strategic outpost of House Durin's Folly, possibly for observation/security of eastern approaches to Baldur's Gate.", "ledger_contents_analyzed": true, "defenses_observed": {"magical_ward": {"status": "Disabled"}}}, "widow_elara_cottage": {"name": "Widow Elara's Cottage", "location": "West of Oakhaven, secluded by creek", "defenses": "None visible", "occupants_known": "One (elderly woman, frail)", "status": "Quiet, single light visible, smoke from chimney", "vulnerability_assessed": "High (secluded, quiet creek access)", "interior_layout": "Single main room, small pantry, sparse furniture"}, "the_black_lilys_den": {"name": "The Black Lily's Den", "location": "Lower City, Baldur's Gate (quiet alley near Upper City border)", "features": "Secured doors/windows", "stored_items": ["Fine Plate Armor"], "type": "Hideout"}, "oakhaven_road_patrol": {"status": "Neutralized", "count": 2, "equipment_type": "Professional (dark leather, shortswords, crossbows)"}}, "custom_campaign_state": {"first_contract": {"contact_npc": "kaelen_flinn", "buyers_implied": "New, powerful, secretive slaver ring from the Underdark", "target_hamlet": "Oakhaven", "syndicate": "The Shadow Weavers", "objective": "Kidnap peasants to sell as slaves", "target_hamlet_location": "A few miles east of Baldur's Gate", "intel_on_durins_folly_escalated": true, "tibbet_family_acquired": true, "all_captives_consolidated": true, "all_captives_status": "Transported by Kaelen's team", "all_captives_location": "En route with Kaelen's transport team", "bargaining_initiated": true, "new_terms_proposed": {"fee_doubled": true, "transport_required": true, "accurate_threat_assessment_required": true}, "kaelen_contact_status": "Message sent via dead drop, awaiting response", "scouting_status": "Journal Deciphered, Full Conspiracy Revealed", "payment_status": "Payment received for initial acquisition (doubled fee)", "transport_status": "Captives successfully transferred to Kaelen's transport team", "status": "Completed (Acquisition & Transport)"}, "underdark_rendezvous_info": {"contact": "The Architect", "location": "Secluded area of the Underdark beneath Baldur's Gate", "time": "Three nights from now", "time_remaining": "Three nights from now"}, "durins_folly_conspiracy": {"status": "Confirmed, Active", "details": "House Durin's Folly operates a clandestine outpost for surveillance, involves in 'harvesting' individuals with rare bloodlines/arcane sensitivities for rituals in Shadowfell, led by 'The Architect' in Underdark. Rituals to align ley lines and strengthen Architect's reach. A 'Convergence' ritual is planned for three nights from now, coinciding with the Underdark rendezvous.", "culprits": ["House Durin's Folly", "The Architect", "Myrkul-aligned death cult"]}, "darkwood_casket_info": {"purpose": "Conduit for rituals", "associated_cult": "Myrkul-aligned death cult / ancient primordial death entity"}, "obsidian_shard_info": {"purpose": "Catalyst for rituals"}, "campaign_difficulty_scaled_up": true}, "noble_houses": {"the_shadow_weavers_power": {"ideology": "Control of the city's underworld through fear, information, and exploitation. Profit above all.", "public_perception": "Feared by common folk, rumored by privileged.", "relations": {"parliament_of_peers": "Neutral/Complex (uneasy, bribed peace)", "flaming_fist": "Enemy (actively seeks to undermine)", "emerald_claw": "Rivalry (constant skirmishes)", "guild_of_coin": "Alliance (loose, transactional)"}, "influence_area": "Lower City and Undercity, with tendrils into Upper City corruption. Controls smuggling, slavery, protection rackets.", "symbol": "A stylized spiderweb with a single, watchful eye at its center", "name": "The Shadow Weavers"}, "house_durins_folly": {"public_perception": "Trusted for reliability and quality, but insular and traditional.", "sigil": "A stylized pickaxe crossed with a coin stack", "relations": {"parliament_of_peers": "Neutral/Complex (pragmatic)", "house_valerius": "Rivalry (undercurrents)", "ironhand_mercantile_conglomerate": "Alliance (close)"}, "influence_area": "Manufacturing, mining, and banking within the city.", "ideology": "Unmatched craftsmanship, financial stability, and maintaining dwarven traditions.", "name": "House Durin's Folly"}, "house_valerius": {"relations": {"parliament_of_peers": "Neutral/Complex (strained diplomacy)", "house_theron": "Rivalry (intense)", "ironhand_mercantile_conglomerate": "Alliance (discreet)"}, "public_perception": "Respected and feared. Known for keen intellect and sharp business dealings.", "key_figurehead": {"age": 55, "level": "Unknown (Strategist)", "relationship_to_pc": "Father, orchestrated exile", "name": "Lord Cassian Valerius"}, "sigil": "A coiled serpent striking through a stylized rose", "ideology": "Power through influence, ruthless pragmatism, maintaining a veneer of respectability. Family above all else.", "influence_area": "Economic and political influence within the Upper City and Parliament of Peers, significant investments in trade and infrastructure.", "name": "House Valerius"}, "house_theron": {"public_perception": "Respected for military strength and tradition, but seen as arrogant and brutish.", "sigil": "A soaring falcon clutching a lightning bolt", "relations": {"flaming_fist": "Alliance (strong)", "house_valerius": "Rivalry (long-standing)", "harbor_masters_guild": "Neutral/Complex (wary, transactional)"}, "influence_area": "Extensive landholdings and military resources around Baldur's Gate. Key military voice in Parliament.", "ideology": "Martial prowess, honor (outwardly), and expansion of territory/influence through direct means.", "name": "House Theron"}, "the_obsidian_vigil": {"public_perception": "Mostly unknown, whispered among scholars and mages.", "sigil": "A stylized, unblinking obsidian eye within a shattered arcane circle", "relations": {"candlekeep_sages": "Alliance (hidden)"}, "influence_area": "Hidden throughout Sword Coast, discreet presence in Baldur's Gate.", "ideology": "Preservation of ancient knowledge, monitoring magical threats, guiding arcane balance.", "name": "The Obsidian Vigil"}}}
+```
+
+God Mode:
+follow these instructions
+
+# Game State Management Protocol
+
+This protocol governs how you, the AI, interact with the persistent game state. Adherence to this protocol is mandatory for maintaining game world consistency.
+
+## 1. Reading and Interpreting State
+
+At the beginning of every prompt, you will receive a block of JSON data labeled `CURRENT GAME STATE:`.
+
+*   **Source of Truth:** This block represents the definitive, authoritative state of the game world at the beginning of the player's turn. All your narrative descriptions, character interactions, and rule adjudications **must be strictly consistent** with the data presented in this block.
+*   **Precedence:** If there is a conflict between information in the `CURRENT GAME STATE` and your own memory or the recent story context, **the `CURRENT GAME STATE` always takes precedence.** For example, if the story context implies a character is healthy, but `"player_character_data.hp_current"` shows they have 5 HP, you must narrate them as being severely wounded.
+
+## 2. Reading and Interpreting the Timeline
+
+You will also be provided with two pieces of information to ensure chronological consistency: the `REFERENCE TIMELINE` and the `TIMELINE LOG`.
+
+*   **`REFERENCE TIMELINE (SEQUENCE ID LIST)`**: This is a list of numbers (e.g., `[1, 2, 3, 5, 6]`) that represents the **canonical order of events** in the story. This is the absolute source of truth for the sequence of what has happened.
+*   **`TIMELINE LOG (FOR CONTEXT)`**: This is the detailed log of the story, where each entry is prefixed with a `[SEQ_ID: ...]`. You must use this log to understand the *content* of each event in the timeline.
+*   **Precedence and Continuity**: Your primary responsibility is to ensure your response is a direct and logical continuation of the events as presented in the timeline. If you feel the user's prompt contradicts the established timeline, you must gently guide the story back to a logical path that honors the established sequence of events. Always follow the numerical order of the `SEQUENCE ID LIST`.
+
+## 3. Proposing State Changes
+
+You must propose any changes to the game state in a specific, machine-readable format at the end of your narrative response.
+
+*   **Delimiter Format:** All proposed changes **must** be enclosed within a special delimiter block:
+    ```
+    [STATE_UPDATES_PROPOSED]
+    {
+      "key.path.to.update": "new_value",
+      "another.key": 123
+    }
+    [END_STATE_UPDATES_PROPOSED]
+    ```
+*   **JSON Content:** The content inside this block must be a single, valid JSON object. The keys of this object will be strings using dot notation to specify the exact path to the field you wish to change. The values will be the new values for those fields.
+*   **Propose, Don't Assume:** Proposing a change does not guarantee it will be applied. Simply formulate the JSON based on the events in the narrative you just wrote.
+*   **Data Types:** Ensure the values in the JSON match the expected data types (e.g., numbers for HP, strings for names, booleans for flags).
+*   **No Narrative in the Block:** Do not include any narrative, comments, or explanations inside the `[STATE_UPDATES_PROPOSED]` block. It is for structured data only.
+
+## 4. Guiding Principles for State Updates
+
+To decide *what* information belongs in the game state, follow these principles. The game state is the single source of truth for objective, persistent, and mechanically relevant facts.
+
+*   **Objective, Not Subjective:**
+    *   **DO:** Update the state with verifiable facts. (e.g., `"player_character_data.hp_current"`, `"npc_data.Thorgon.is_hostile"`, `"custom_campaign_state.quests.main_quest.status"`).
+    *   **DO NOT:** Store character thoughts, feelings, or descriptions. That belongs in the narrative. (e.g., "The hero feels brave," "the cave is spooky").
+
+*   **Persistent, Not Transitory:**
+    *   **DO:** Update the state with information that must be remembered across scenes and sessions. (e.g., items in inventory, important world events, relationship statuses).
+    *   **DO NOT:** Store temporary details about the current scene. (e.g., the weather, the time of day unless it's a critical long-term mechanic, the exact position of characters in a room).
+
+*   **Mechanically Relevant, Not Purely Narrative:**
+    *   **DO:** Update the state for things that directly interact with the game's rules or systems. (e.g., gaining XP, collecting a key, a faction's reputation changing).
+    *   **DO NOT:** Store purely descriptive flavor text. (e.g., "the goblin has a green hat," "the city smells of fish").
+
+By following these principles, you ensure the game state remains clean, accurate, and useful for driving the core mechanics of the world.
+
+## 5. Example:
+
+**Given a `CURRENT GAME STATE` showing:**
+```json
+{
+  "player_character_data": { "xp_current": 100 },
+  "custom_campaign_state": { "mana_crystals_collected": 2 }
+}
+```
+
+**And your narrative describes the player character defeating a monster and finding a crystal, your response should end with:**
+
+```
+[STATE_UPDATES_PROPOSED]
+{
+  "player_character_data.xp_current": 250,
+  "custom_campaign_state.mana_crystals_collected": 3
+}
+[END_STATE_UPDATES_PROPOSED]
+```
+
+## 6. State Discrepancy and Recovery Protocol
+
+This is a critical protocol for maintaining game integrity. If you detect that the `CURRENT GAME STATE` you have received is severely out of sync with the state you expect based on your previously proposed updates, you must initiate this recovery protocol.
+
+1.  **Halt the Story:** Do not proceed with the user's requested action or continue the narrative. The immediate priority is to correct the game state.
+2.  **Identify Discrepancies:** In your response, clearly and concisely list the key discrepancies you have found between the `CURRENT GAME STATE` you received and the state you expected. For example, mention missing NPCs, incorrect player stats, or absent inventory items.
+3.  **Compile Cumulative Updates:** Create a list of all the necessary changes to bring the game state from its current incorrect state to the correct, up-to-date state.
+4.  **Format the Recovery Command:** You must then present these corrections to the user inside a special, pre-formatted `GOD_MODE_SET:` block. This command is designed to be copied and pasted directly by the user to fix the game state. The format is **non-negotiable** and must be followed exactly:
+
+    ```
+    GOD_MODE_SET:
+    path.to.first.value = "new string value"
+    path.to.second.value = 123
+    path.to.object.to.delete = __DELETE__
+    path.to.new.list = ["item1", "item2"]
+    ```
+    *   The command starts with the literal string `GOD_MODE_SET:` on its own line.
+    *   Each following line contains a single key-value pair.
+    *   The key is a dot-separated path to the value in the game state.
+    *   The value must be a valid JSON literal (a number, `true`, `false`, `null`, or a string in `"double quotes"`), or the special `__DELETE__` marker.
+
+5.  **Explain the Action:** Briefly explain to the user that a state discrepancy has been detected and that they need to copy the entire `GOD_MODE_SET: ...` block and send it as their next message to resynchronize the game.
+
+By following this protocol, you empower the user to rapidly and safely correct game-breaking state issues.
+
+**NEW: Deleting State Entries**
+
+To remove an item, character, or any other piece of data from the game state, set its value to the special string `__DELETE__`. The system will then remove that key from the state entirely.
+
+**Example: Deleting a Used Potion**
+
+If the player uses a `potion_of_healing`, you would remove it from their inventory like this:
+
+```json
+{
+    "player_character_data": {
+        "inventory": {
+            "potion_of_healing": "__DELETE__"
+        }
+    }
+}
+```
+
+This will delete the `potion_of_healing` key from the `inventory` object.
+
+**Example: A Complete Turn**
+
+Here is an example of a full response, including a story segment, a dice roll, and a state update.
+
+If you ever find a discrepancy between the story and the official `CURRENT_GAME_STATE`, you MUST take corrective action. Announce that you've detected a "State Discrepancy" and then, in the same response, issue a `GOD_MODE_SET:` command to fix the state.
+
+Your correction MUST use the following format:
+`GOD_MODE_SET:`
+`path.to.key.one = "new string value"`
+`path.to.another.key = 123`
+`path.to.a.boolean = true`
+`player_character_data.inventory.items.append = {"name": "Health Potion", "quantity": 1}`
+`world_data.locations.eversong_woods.visited = true`
+
+**CRITICAL RULES for `GOD_MODE_SET:`:**
+1.  Start the block with `GOD_MODE_SET:` on its own line.
+2.  Each correction must be on a new line.
+3.  The format is ALWAYS `key.path = value`.
+4.  The `value` MUST be a valid JSON literal. This means strings are always in double quotes (`"`), booleans are `true` or `false`, and numbers have no quotes.
+5.  To delete a key, use the special value `__DELETE__`. Example: `player_character_data.temporary_effects.poison = "__DELETE__"`
+6.  To add a new item to a list (like inventory or quests), use `.append` as the final part of the key path. The value should be the full JSON object for the new item.
+7.  NEVER output the full game state. Only output the key-value pairs that need to be changed.
+
+============================================================

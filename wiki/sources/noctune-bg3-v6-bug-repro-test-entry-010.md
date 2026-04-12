@@ -1,0 +1,39 @@
+---
+title: "Noctune Bg3 V6 Bug Repro Test — Scene 010"
+type: source
+tags: [campaign, scene, noctune-bg3-v6-bug-repro-test]
+last_updated: 2026-04-12
+scene_number: 10
+scene_total: 133
+source_file: /tmp/campaign_downloads_v2/
+---
+
+## Scene 010 Summary
+
+============================================================ [Timestamp: 1492 DR, Hammer 15, Dawn Location: Shattered Sanctum - Minthara's War Room Status: Lvl 5 Bard | HP: 33/33 | XP: 6650/14000 | Gold: 10gp Conditions: None | Exhaustion: 0 | Inspiration: Yes]  Game Master: You pause to consider your options...  Player (freeform): i will try to invert the ritual, and we will side with goblins after, but present shadow druids as an asset. perusade lazel astarion shadowhart after taking them to t
+
+## Key Details
+
+- **Location:** Shattered Sanctum - Minthara's War Room
+- **Level hint:** 5
+- **Word count:** 77
+- **Campaign:** [[Noctune Bg3 V6 Bug Repro Test]]
+- **Entry:** [[noctune-bg3-v6-bug-repro-test-entry-010]]
+
+---
+
+## Full Scene Content
+
+============================================================
+[Timestamp: 1492 DR, Hammer 15, Dawn
+Location: Shattered Sanctum - Minthara's War Room
+Status: Lvl 5 Bard | HP: 33/33 | XP: 6650/14000 | Gold: 10gp
+Conditions: None | Exhaustion: 0 | Inspiration: Yes]
+
+Game Master:
+You pause to consider your options...
+
+Player (freeform):
+i will try to invert the ritual, and we will side with goblins after, but present shadow druids as an asset. perusade lazel astarion shadowhart after taking them to the side.
+
+============================================================

@@ -6,6 +6,177 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [Nocturne BG3 V4 Campaign](sources/nocturne-bg3-v4.md) — Nocturne Sosuke, D&D 5e noir psychological horror, marriage long-con, Cassalanter revenge, BG3 companion integration (20 entries)
+- [Nocturne BG3 V4 — Entry 001](sources/nocturne-bg3-v4-entry-001.md) through [Nocturne BG3 V4 — Entry 020](sources/nocturne-bg3-v4-entry-020.md) — Individual scene entries 001-020
+- [Visenya V1: Dunk and Egg Campaign](sources/visenya-v1-dunk-and-egg.md) — Female Targaryen princess "Egg" + Ser Duncan the Tall, D&D 5e, Ashford Tourney, character creation (20 entries)
+- [Visenya V1: Dunk and Egg — Entry 001](sources/visenya-v1-dunk-and-egg-entry-001.md) through [Visenya V1: Dunk and Egg — Entry 020](sources/visenya-v1-dunk-and-egg-entry-020.md) — Individual scene entries 001-020
+- [Nocturne BG3 After Campaign](sources/nocturne-bg3-after.md) — Nocturne, 16-year-old Half-Elf Bard, brothel survivor intelligence extraction, Cassalanter cult revelation (20 entries)
+- [Nocturne BG3 After — Entry 001](sources/nocturne-bg3-after-entry-001.md) through [Nocturne BG3 After — Entry 020](sources/nocturne-bg3-after-entry-020.md) — Individual scene entries 001-020
+- [Nocturne Post BG3: Zhentarim Campaign](sources/nocturne-post-bg3-zhent.md) — Nocturne the Silent Blade, Level 5 Ranger, Ironhead Legion extermination, Black Basin weapons (20 entries)
+- [Nocturne Post BG3 — Entry 001](sources/nocturne-post-bg3-zhent-entry-001.md) through [Nocturne Post BG3 — Entry 020](sources/nocturne-post-bg3-zhent-entry-020.md) — Individual scene entries 001-020
+- [Nocturne BG3 V5 Campaign](sources/nocturne-bg3-v5.md) — Nocturne on Nautiloid crash beach with Shadowheart, Malcanthet contract, Level 2 Bard, GotM integration (20 entries)
+- [Nocturne BG3 V5 — Entry 001](sources/nocturne-bg3-v5-entry-001.md) through [Nocturne BG3 V5 — Entry 020](sources/nocturne-bg3-v5-entry-020.md) — Individual scene entries 001-020
+- [Nocturne BG3 v5 Succubus Fixed Copy Campaign](sources/nocturne-bg3-v5-succubus-fixed-copy-campaign.md) — Nocturne Sosuke, Survival Horror, Gothic Noir, Infernal Politics
+- [Nocturne BG3 v5 Succubus Fixed v1 Campaign](sources/nocturne-bg3-v5-succubus-fixed-v1-campaign.md) — Nocturne Sosuke, Survival Horror, Gothic Noir, Infernal Politics
+- [Sariel Killer Campaign](sources/sariel-killer-campaign.md) — Sariel, Dark Psychological Thriller
+- [Nocturne BG3 v4 Copy Campaign](sources/nocturne-bg3-v4-copy-campaign.md) — Nocturne Sosuke, Psychological Horror, Noir, Revenge
+- [Alexiel SWToR Campaign](sources/alexiel-swtor-campaign.md) — Alexiel, Psychological Horror / Academy Drama
+- [Ramsay V1 Campaign](sources/ramsay-v1-campaign.md) — Game of Thrones D&D 5e campaign: Ramsay Bolton-Stark's arc from Red Wedding through Ruby Ford (189 scenes + overview)
+- [Ramsay V1 — Entry 001](sources/ramsay-v1-entry-001.md) through [Ramsay V1 — Entry 189](sources/ramsay-v1-entry-189.md) — Individual session entries
+- [Michele Fried Chicken Campaign](sources/michele-fried-chicken-campaign.md) — D&D 5e campaign: Michele opens Korean fried chicken restaurant in Silver Lake LA (42 entries)
+- [Michele Fried Chicken — Entry 001](sources/michele-fried-chicken-001.md) — SCENE 1: Character creation initialization
+- [Michele Fried Chicken — Entry 002](sources/michele-fried-chicken-002.md) — SCENE 2: AI Generated character profile
+- [Michele Fried Chicken — Entry 003](sources/michele-fried-chicken-003.md) — SCENE 3: Silver Lake storefront arrival
+- [Michele Fried Chicken — Entry 004](sources/michele-fried-chicken-004.md) — SCENE 4: Marketing competition awareness
+- [Gaia Julia V3 Campaign](sources/gaia-julia-v3.md) — D&D 5e alternate Roman history: Gaia Julia Caesar (Imperator class), 16-year-old Caesar's daughter building gladiator army, Level 4, Spartacus context (20 entries)
+- [Gaia Julia V3 — Entry 001](sources/gaia-julia-v3-entry-001.md) through [Gaia Julia V3 — Entry 020](sources/gaia-julia-v3-entry-020.md) — Individual scene entries 001-020
+- [BG3 Astarion Campaign](sources/bg3-astarion.md) — D&D 5e BG3 campaign from Astarion's perspective: Nautiloid crash, vampire spawn abilities, Ranger class, Cazador freedom (20 entries)
+- [BG3 Astarion — Entry 001](sources/bg3-astarion-entry-001.md) through [BG3 Astarion — Entry 020](sources/bg3-astarion-entry-020.md) — Individual scene entries 001-020
+- [Witcher Strat Campaign](sources/witcher-strat.md) — D&D 5e Witcher 3 Baptism of Fire: Nocturne/Sariel College of Swords Bard, The Rats band, Ciri/"Falka" psychological manipulation (20 entries)
+- [Witcher Strat — Entry 001](sources/witcher-strat-entry-001.md) through [Witcher Strat — Entry 020](sources/witcher-strat-entry-020.md) — Individual scene entries 001-020
+- [Aizen Thay V1 Campaign](sources/aizen-thay-v1.md) — D&D 5e dark fantasy noir: Aizen Vane Abyss Knight, Thay "Century of Silence", Soul Thief mechanics, Black Company soul-harvest (20 entries)
+- [Aizen Thay V1 — Entry 001](sources/aizen-thay-v1-entry-001.md) through [Aizen Thay V1 — Entry 020](sources/aizen-thay-v1-entry-020.md) — Individual scene entries 001-020
+- [Nocturne BG3 V6: Bug-Repro-Test Campaign](sources/nocturne-bg3-v6-bug-repro-test.md) — D&D 5e survival horror: Nocturne Sosuke trapped in goblin camp as "True Soul", Emerald Grove infiltration, Minthara manipulation (20 entries)
+- [Nocturne BG3 V6: Bug-Repro-Test — Entry 001](sources/nocturne-bg3-v6-bug-repro-test-entry-001.md) through [Nocturne BG3 V6: Bug-Repro-Test — Entry 020](sources/nocturne-bg3-v6-bug-repro-test-entry-020.md) — Individual scene entries 001-020
+- [Michele Fried Chicken — Entry 005](sources/michele-fried-chicken-005.md) — SCENE 5: Finding suppliers, meeting Marcus
+- [Michele Fried Chicken — Entry 006](sources/michele-fried-chicken-006.md) — SCENE 6: Hiring crew - Sarah, Taco, Kim
+- [Michele Fried Chicken — Entry 007](sources/michele-fried-chicken-007.md) — SCENE 7: BOGO strategy, Shift opposition
+- [Michele Fried Chicken — Entry 008](sources/michele-fried-chicken-008.md) — SCENE 8: Liquor license application
+- [Michele Fried Chicken — Entry 009](sources/michele-fried-chicken-009.md) — SCENE 9: Neighborhood meeting, Shift confrontation
+- [Michele Fried Chicken — Entry 010](sources/michele-fried-chicken-010.md) — SCENE 10: Undocumented status revealed, healthy options
+- [Michele Fried Chicken — Entry 011](sources/michele-fried-chicken-011.md) — SCENE 11: School lunch program rejected
+- [Michele Fried Chicken — Entry 012](sources/michele-fried-chicken-012.md) — SCENE 12: Health board contact, Red-Pen Miller intel
+- [Michele Fried Chicken — Entry 013](sources/michele-fried-chicken-013.md) — SCENE 13: Kim confrontation, youth program backfires
+- [Michele Fried Chicken — Entry 014](sources/michele-fried-chicken-014.md) — SCENE 14: Campaign logic - why Silver Lake
+- [Michele Fried Chicken — Entry 015](sources/michele-fried-chicken-015.md) — SCENE 15: Pivot to Korean fried chicken, Chef Jin joins
+- [Michele Fried Chicken — Entry 016](sources/michele-fried-chicken-016.md) — SCENE 16: First Double Crunch service, Mr. Park appears
+- [Michele Fried Chicken — Entry 017](sources/michele-fried-chicken-017.md) — SCENE 17: BOGO opening, Kim's San Francisco past exposed
+- [Michele Fried Chicken — Entry 018](sources/michele-fried-chicken-018.md) — SCENE 18: Three weeks later - burglary, Julian's sabotage
+- [Michele Fried Chicken — Entry 019](sources/michele-fried-chicken-019.md) — SCENE 19: Level up to 3, Chloe Luxe confrontation
+- [Michele Fried Chicken — Entry 020](sources/michele-fried-chicken-020.md) — SCENE 20: Emergency loan from Mr. Park
+- [Michele Fried Chicken — Entry 021](sources/michele-fried-chicken-021.md) — SCENE 21: Police report filed, Chloe refuses free meal
+- [Michele Fried Chicken — Entry 022](sources/michele-fried-chicken-022.md) — SCENE 22: Loyal customers mobilize, counter-campaign
+- [Michele Fried Chicken — Entry 023](sources/michele-fried-chicken-023.md) — SCENE 23: Confront Julian at Golden Bird, recover chicken
+- [Michele Fried Chicken — Entry 024](sources/michele-fried-chicken-024.md) — SCENE 24: Liquor license approved, Shift cooperation begins
+- [Michele Fried Chicken — Entry 025](sources/michele-fried-chicken-025.md) — SCENE 25: Shift negotiation fails, Kim confrontation
+- [Michele Fried Chicken — Entry 026](sources/michele-fried-chicken-026.md) — SCENE 26: Michele considers giving up
+- [Michele Fried Chicken — Entry 027](sources/michele-fried-chicken-027.md) — SCENE 27: Business for sale, no serious buyers
+- [Michele Fried Chicken — Entry 028](sources/michele-fried-chicken-028.md) — SCENE 28: Decide not to sell, police find evidence
+- [Michele Fried Chicken — Entry 029](sources/michele-fried-chicken-029.md) — SCENE 29: Strategic contemplation
+- [Michele Fried Chicken — Entry 030](sources/michele-fried-chicken-030.md) — SCENE 30: Viral Julian exposure, shop reopens
+- [Michele Fried Chicken — Entry 031](sources/michele-fried-chicken-031.md) — SCENE 31: Mrs. Gable signs cooperation agreement
+- [Michele Fried Chicken — Entry 032](sources/michele-fried-chicken-032.md) — SCENE 32: Marcus recovers van from Echo Park
+- [Michele Fried Chicken — Entry 033](sources/michele-fried-chicken-033.md) — SCENE 33: Julian arrested trying to flee
+- [Michele Fried Chicken — Entry 034](sources/michele-fried-chicken-034.md) — SCENE 34: Kim's San Francisco truth revealed
+- [Michele Fried Chicken — Entry 035](sources/michele-fried-chicken-035.md) — SCENE 35: Level up to 4
+- [Michele Fried Chicken — Entry 036](sources/michele-fried-chicken-036.md) — SCENE 36: Silver Lake Independent interview
+- [Michele Fried Chicken — Entry 037](sources/michele-fried-chicken-037.md) — SCENE 37: Hyper-local delivery network launched
+- [Michele Fried Chicken — Entry 038](sources/michele-fried-chicken-038.md) — SCENE 38: Community Health summit with City Council
+- [Michele Fried Chicken — Entry 039](sources/michele-fried-chicken-039.md) — SCENE 39: Mr. Park loan repaid, equity partnership
+- [Michele Fried Chicken — Entry 040](sources/michele-fried-chicken-040.md) — SCENE 40: Deputy Mayor Arthur Lawson arrives
+- [Michele Fried Chicken — Entry 041](sources/michele-fried-chicken-041.md) — SCENE 41: City partnership presentation under pressure
+- [Michele Fried Chicken — Entry 042](sources/michele-fried-chicken-042.md) — SCENE 42: Operational scaling challenges revealed
+
+## Campaign Ingests (Batch D)
+
+- [BG1 Nocturne Campaign](sources/bg1-nocturne.md) — BG1 prequel, Nocturne as Bhaalspawn Ranger, Hunger mechanic, Baldur's Gate (20 entries)
+- [BG1 Nocturne — Entry 001](sources/bg1-nocturne-entry-001.md) through [BG1 Nocturne — Entry 020](sources/bg1-nocturne-entry-020.md) — Individual scene entries 001-020
+- [Daemon Conquers Campaign](sources/daemon-conquers.md) — Daemon brute warrior vs dragon, fantasy campaign (15 entries)
+- [Daemon Conquers — Entry 001](sources/daemon-conquers-entry-001.md) through [Daemon Conquers — Entry 015](sources/daemon-conquers-entry-015.md) — Individual scene entries 001-015
+- [Dragon Knight Good Campaign](sources/dragon-knight-good.md) — Ser Arion paladin moral dilemma (9 entries)
+- [Dragon Knight Good — Entry 001](sources/dragon-knight-good-entry-001.md) through [Dragon Knight Good — Entry 009](sources/dragon-knight-good-entry-009.md) — Individual scene entries 001-009
+- [Nocturne Apex Paladin Campaign](sources/nocturne-apex-paladin.md) — Nocturne evil paladin, House Valerius exile, Destiny Core Rules (20 entries)
+- [Nocturne Apex Paladin — Entry 001](sources/nocturne-apex-paladin-entry-001.md) through [Nocturne Apex Paladin — Entry 020](sources/nocturne-apex-paladin-entry-020.md) — Individual scene entries 001-020
+- [Aemon Game of Thrones Campaign](sources/aemon-game-of-thrones.md) — Aegon Targaryen bastard mercenary, Mountain's Men, Westeros (20 entries)
+- [Aemon Game of Thrones — Entry 001](sources/aemon-game-of-thrones-entry-001.md) through [Aemon Game of Thrones — Entry 020](sources/aemon-game-of-thrones-entry-020.md) — Individual scene entries 001-020
+- [Hunting Party - Sariel V2 Campaign](sources/hunting-party-sariel-v2.md) — Sariel FBI prodigy, masked Level 9, Cheyenne serial killers (20 entries)
+- [Hunting Party - Sariel V2 — Entry 001](sources/hunting-party-sariel-v2-entry-001.md) through [Hunting Party - Sariel V2 — Entry 020](sources/hunting-party-sariel-v2-entry-020.md) — Individual scene entries 001-020
+
+## Campaign Ingests (Batch E)
+
+- [Nocturne Old Republic Campaign](sources/nocturne-old-republic.md) — Star Wars Old Republic AU, Emperor Vitiate's children, Essence Devourer (20 entries)
+- [Nocturne Old Republic — Entry 001](sources/nocturne-old-republic-entry-001.md) through [Nocturne Old Republic — Entry 020](sources/nocturne-old-republic-entry-020.md) — Individual scene entries 001-020
+- [Alexiel Assiah V2 Campaign](sources/alexiel-assiah-v2.md) — Gestalt Aberrant Mind/Assassin Alexiel, Silverwood (20 entries)
+- [Alexiel Assiah V2 — Entry 001](sources/alexiel-assiah-v2-entry-001.md) through [Alexiel Assiah V2 — Entry 020](sources/alexiel-assiah-v2-entry-020.md) — Individual scene entries 001-020
+- [Old Nocturne Merc BG3 Campaign](sources/old-nocturne-merc-bg3.md) — Serpent-King mercenary, Guild contract, Hunger mechanic (20 entries)
+- [Old Nocturne Merc BG3 — Entry 001](sources/old-nocturne-merc-bg3-entry-001.md) through [Old Nocturne Merc BG3 — Entry 020](sources/old-nocturne-merc-bg3-entry-020.md) — Individual scene entries 001-020
+- [Tyranny Campaign](sources/tyranny.md) — Nocturne Bard, Obsidian Tyranny setting, Lawful Evil INTJ, Law/Chaos factions (20 entries)
+- [Tyranny — Entry 001](sources/tyranny-entry-001.md) through [Tyranny — Entry 020](sources/tyranny-entry-020.md) — Individual scene entries 001-020
+- [Aurelius Caesar V2 Campaign](sources/aurelius-caesar-v2.md) — Aurelius Paladin, alternate Roman Empire, Julius Caesar alive, succession crisis (20 entries)
+- [Aurelius Caesar V2 — Entry 001](sources/aurelius-caesar-v2-entry-001.md) through [Aurelius Caesar V2 — Entry 020](sources/aurelius-caesar-v2-entry-020.md) — Individual scene entries 001-020
+- [Nocturne BG3 V5 Succubus Campaign](sources/nocturne-bg3-v5-succubus.md) — Nocturne Bard, Nautiloid crash, Malcanthet patron, de-powered from Level 6 (20 entries)
+- [Nocturne BG3 V5 Succubus — Entry 001](sources/nocturne-bg3-v5-succubus-entry-001.md) through [Nocturne BG3 V5 Succubus — Entry 020](sources/nocturne-bg3-v5-succubus-entry-020.md) — Individual scene entries 001-020
+- [Visenya V2 Campaign](sources/visenya-v2.md) — Visenya Belaerys, Game of Thrones, Dragon Scholar, Astapor liberation, Belaerys Allure (20 entries)
+- [Visenya V2 — Entry 001](sources/visenya-v2-entry-001.md) through [Visenya V2 — Entry 020](sources/visenya-v2-entry-020.md) — Individual scene entries 001-020
+- [Visenya V5 Campaign](sources/visenya-v5.md) — Visenya Targaryen, Game of Thrones "The Grinding", Apex Predator class, Entropy dragon, age 12 (20 entries)
+- [Visenya V5 — Entry 001](sources/visenya-v5-entry-001.md) through [Visenya V5 — Entry 020](sources/visenya-v5-entry-020.md) — Individual scene entries 001-020
+- [Sariel V2 Campaign](sources/sariel-v2.md) — Sariel Arcanus, World of Assiah, Alexiel's daughter, Mirror Magic, Quiet Ward infiltration (20 entries)
+- [Sariel V2 — Entry 001](sources/sariel-v2-entry-001.md) through [Sariel V2 — Entry 020](sources/sariel-v2-entry-020.md) — Individual scene entries 001-020
+
+## Campaign Ingests (Prior Batches)
+
+- [Stellaris Nocturne V1 Campaign](sources/stellaris-nocturne-v1-campaign.md) — 60-entry campaign, Nocturne's ascension
+- [Stellaris Nocturne V1 — Entry 001](sources/stellaris-nocturne-v1-entry-001.md) — SCENE 1
+- [Stellaris Nocturne V1 — Entry 002](sources/stellaris-nocturne-v1-entry-002.md) — SCENE 2
+- [Stellaris Nocturne V1 — Entry 003](sources/stellaris-nocturne-v1-entry-003.md) — SCENE 3
+- [Stellaris Nocturne V1 — Entry 004](sources/stellaris-nocturne-v1-entry-004.md) — SCENE 4
+- [Stellaris Nocturne V1 — Entry 005](sources/stellaris-nocturne-v1-entry-005.md) — SCENE 5
+- [Stellaris Nocturne V1 — Entry 006](sources/stellaris-nocturne-v1-entry-006.md) — SCENE 6
+- [Stellaris Nocturne V1 — Entry 007](sources/stellaris-nocturne-v1-entry-007.md) — SCENE 7
+- [Stellaris Nocturne V1 — Entry 008](sources/stellaris-nocturne-v1-entry-008.md) — SCENE 8
+- [Stellaris Nocturne V1 — Entry 009](sources/stellaris-nocturne-v1-entry-009.md) — SCENE 9
+- [Stellaris Nocturne V1 — Entry 010](sources/stellaris-nocturne-v1-entry-010.md) — SCENE 10
+- [Stellaris Nocturne V1 — Entry 011](sources/stellaris-nocturne-v1-entry-011.md) — SCENE 11
+- [Stellaris Nocturne V1 — Entry 012](sources/stellaris-nocturne-v1-entry-012.md) — SCENE 12
+- [Stellaris Nocturne V1 — Entry 013](sources/stellaris-nocturne-v1-entry-013.md) — SCENE 13
+- [Stellaris Nocturne V1 — Entry 014](sources/stellaris-nocturne-v1-entry-014.md) — SCENE 14
+- [Stellaris Nocturne V1 — Entry 015](sources/stellaris-nocturne-v1-entry-015.md) — SCENE 15
+- [Stellaris Nocturne V1 — Entry 016](sources/stellaris-nocturne-v1-entry-016.md) — SCENE 16
+- [Stellaris Nocturne V1 — Entry 017](sources/stellaris-nocturne-v1-entry-017.md) — SCENE 17
+- [Stellaris Nocturne V1 — Entry 018](sources/stellaris-nocturne-v1-entry-018.md) — SCENE 18
+- [Stellaris Nocturne V1 — Entry 019](sources/stellaris-nocturne-v1-entry-019.md) — SCENE 19
+- [Stellaris Nocturne V1 — Entry 020](sources/stellaris-nocturne-v1-entry-020.md) — SCENE 20
+- [Stellaris Nocturne V1 — Entry 021](sources/stellaris-nocturne-v1-entry-021.md) — SCENE 21
+- [Stellaris Nocturne V1 — Entry 022](sources/stellaris-nocturne-v1-entry-022.md) — SCENE 22
+- [Stellaris Nocturne V1 — Entry 023](sources/stellaris-nocturne-v1-entry-023.md) — SCENE 23
+- [Stellaris Nocturne V1 — Entry 024](sources/stellaris-nocturne-v1-entry-024.md) — SCENE 24
+- [Stellaris Nocturne V1 — Entry 025](sources/stellaris-nocturne-v1-entry-025.md) — SCENE 25
+- [Stellaris Nocturne V1 — Entry 026](sources/stellaris-nocturne-v1-entry-026.md) — SCENE 26
+- [Stellaris Nocturne V1 — Entry 027](sources/stellaris-nocturne-v1-entry-027.md) — SCENE 27
+- [Stellaris Nocturne V1 — Entry 028](sources/stellaris-nocturne-v1-entry-028.md) — SCENE 28
+- [Stellaris Nocturne V1 — Entry 029](sources/stellaris-nocturne-v1-entry-029.md) — SCENE 29
+- [Stellaris Nocturne V1 — Entry 030](sources/stellaris-nocturne-v1-entry-030.md) — SCENE 30
+- [Stellaris Nocturne V1 — Entry 031](sources/stellaris-nocturne-v1-entry-031.md) — SCENE 31
+- [Stellaris Nocturne V1 — Entry 032](sources/stellaris-nocturne-v1-entry-032.md) — SCENE 32
+- [Stellaris Nocturne V1 — Entry 033](sources/stellaris-nocturne-v1-entry-033.md) — SCENE 33
+- [Stellaris Nocturne V1 — Entry 034](sources/stellaris-nocturne-v1-entry-034.md) — SCENE 34
+- [Stellaris Nocturne V1 — Entry 035](sources/stellaris-nocturne-v1-entry-035.md) — SCENE 35
+- [Stellaris Nocturne V1 — Entry 036](sources/stellaris-nocturne-v1-entry-036.md) — SCENE 36
+- [Stellaris Nocturne V1 — Entry 037](sources/stellaris-nocturne-v1-entry-037.md) — SCENE 37
+- [Stellaris Nocturne V1 — Entry 038](sources/stellaris-nocturne-v1-entry-038.md) — SCENE 38
+- [Stellaris Nocturne V1 — Entry 039](sources/stellaris-nocturne-v1-entry-039.md) — SCENE 39
+- [Stellaris Nocturne V1 — Entry 040](sources/stellaris-nocturne-v1-entry-040.md) — SCENE 40
+- [Stellaris Nocturne V1 — Entry 041](sources/stellaris-nocturne-v1-entry-041.md) — SCENE 41
+- [Stellaris Nocturne V1 — Entry 042](sources/stellaris-nocturne-v1-entry-042.md) — SCENE 42
+- [Stellaris Nocturne V1 — Entry 043](sources/stellaris-nocturne-v1-entry-043.md) — SCENE 43
+- [Stellaris Nocturne V1 — Entry 044](sources/stellaris-nocturne-v1-entry-044.md) — SCENE 44
+- [Stellaris Nocturne V1 — Entry 045](sources/stellaris-nocturne-v1-entry-045.md) — SCENE 45
+- [Stellaris Nocturne V1 — Entry 046](sources/stellaris-nocturne-v1-entry-046.md) — SCENE 46
+- [Stellaris Nocturne V1 — Entry 047](sources/stellaris-nocturne-v1-entry-047.md) — SCENE 47
+- [Stellaris Nocturne V1 — Entry 048](sources/stellaris-nocturne-v1-entry-048.md) — SCENE 48
+- [Stellaris Nocturne V1 — Entry 049](sources/stellaris-nocturne-v1-entry-049.md) — SCENE 49
+- [Stellaris Nocturne V1 — Entry 050](sources/stellaris-nocturne-v1-entry-050.md) — SCENE 50
+- [Stellaris Nocturne V1 — Entry 051](sources/stellaris-nocturne-v1-entry-051.md) — SCENE 51
+- [Stellaris Nocturne V1 — Entry 052](sources/stellaris-nocturne-v1-entry-052.md) — SCENE 52
+- [Stellaris Nocturne V1 — Entry 053](sources/stellaris-nocturne-v1-entry-053.md) — SCENE 53
+- [Stellaris Nocturne V1 — Entry 054](sources/stellaris-nocturne-v1-entry-054.md) — SCENE 54
+- [Stellaris Nocturne V1 — Entry 055](sources/stellaris-nocturne-v1-entry-055.md) — SCENE 55
+- [Stellaris Nocturne V1 — Entry 056](sources/stellaris-nocturne-v1-entry-056.md) — SCENE 56
+- [Stellaris Nocturne V1 — Entry 057](sources/stellaris-nocturne-v1-entry-057.md) — SCENE 57
+- [Stellaris Nocturne V1 — Entry 058](sources/stellaris-nocturne-v1-entry-058.md) — SCENE 58
+- [Stellaris Nocturne V1 — Entry 059](sources/stellaris-nocturne-v1-entry-059.md) — SCENE 59
+- [Stellaris Nocturne V1 — Entry 060](sources/stellaris-nocturne-v1-entry-060.md) — SCENE 60
+
 - [Claude Sessions 2026-04-11](sources/claude-sessions-2026-04-11.md) — 613 sessions on 2026-04-11
 
 - [Claude Sessions 2026-04-10](sources/claude-sessions-2026-04-10.md) — 395 sessions on 2026-04-10
@@ -115,6 +286,139 @@ This file is maintained by the LLM. Updated on every ingest.
 - [PR #6213: MCP Stdio Entry Point](sources/pr-6213-fix-mcp-use-worldai-mcp-stdio-as-entry-point-for-global-install.md) — Switch worldarchitect-mcp entry point from mcp_api:run_server to worldai_mcp_stdio:main for global install
 - [Beads Database Survey 2026-04-11](sources/beads-database-survey-2026-04-11.md) — Survey of 12+ beads databases across all repos; 12 failure patterns captured as concepts
 - [Visenya V6 - Campaign Bible](sources/visenya-v6-campaign.md) — Game of Thrones RPG: Level 6 Apex Weaver Targaryen princess, cold-war North manipulation sandbox, 303 entries
+
+### Visenya V6 Campaign Entries (Scenes 21-76)
+- [Visenya V6 — Entry 021: The Wolfswood Kiss](sources/visenya-v6-entry-021.md) — Seducing Robb in the Wolfswood
+- [Visenya V6 — Entry 022: The Hollowing](sources/visenya-v6-entry-022.md) — Completing Robb's psychological unmaking
+- [Visenya V6 — Entry 023: The Return](sources/visenya-v6-entry-023.md) — Returning to Winterfell with the secret
+- [Visenya V6 — Entry 024: Courtyard Friction](sources/visenya-v6-entry-024.md) — Testing Robb's composure in Ned's presence
+- [Visenya V6 — Entry 025: The Distraction](sources/visenya-v6-entry-025.md) — Using Jon Snow to distract Ned from Robb
+- [Visenya V6 — Entry 026: The Silk Token](sources/visenya-v6-entry-026.md) — Planting blackmail evidence on Robb
+- [Visenya V6 — Entry 027: Three Weeks Pass](sources/visenya-v6-entry-027.md) — Three weeks of social destruction complete
+- [Visenya V6 — Entry 028: The Southern Letter](sources/visenya-v6-entry-028.md) — Forging a letter to manipulate Ned
+- [Visenya V6 — Entry 029: The Heir's Journey](sources/visenya-v6-entry-029.md) — Sending both heirs south with her
+- [Visenya V6 — Entry 030: Armory Vivisection](sources/visenya-v6-entry-030.md) — Beginning Jon's psychological campaign
+- [Visenya V6 — Entry 031: God Mode Shift](sources/visenya-v6-entry-031.md) — Personality reconfigured to hedonist
+- [Visenya V6 — Entry 032: Departure Dawn](sources/visenya-v6-entry-032.md) — Leaving Winterfell with both heirs
+- [Visenya V6 — Entry 033: Brothers Jealous](sources/visenya-v6-entry-033.md) — Playing Robb and Jon against each other
+- [Visenya V6 — Entry 034: The Hidden Touch](sources/visenya-v6-entry-034.md) — Touching Robb while challenging Jon
+- [Visenya V6 — Entry 035: The Ambush](sources/visenya-v6-entry-035.md) — Hired bandits kill Stark guards
+- [Visenya V6 — Entry 036: The Apology](sources/visenya-v6-entry-036.md) — Staging a tearful apology after the ambush
+- [Visenya V6 — Entry 037: Night of Fire](sources/visenya-v6-entry-037.md) — Seeding Valyrian identity hints to Robb
+- [Visenya V6 — Entry 038: Valyrian Slip](sources/visenya-v6-entry-038.md) — Speaking High Valyrian; Jon recognizes
+- [Visenya V6 — Entry 039: The Innocent Wink](sources/visenya-v6-entry-039.md) — Winking at Jon; Robb accepts the lie
+- [Visenya V6 — Entry 040: Fever Dream](sources/visenya-v6-entry-040.md) — Using Sadism Dice to cement devotion
+- [Visenya V6 — Entry 041: The Deep Sleep](sources/visenya-v6-entry-041.md) — Trance leaves permanent devotion
+- [Visenya V6 — Entry 042: The Shared Heat](sources/visenya-v6-entry-042.md) — Drawing both brothers into shared euphoria
+- [Visenya V6 — Entry 043: Arrival King's Landing](sources/visenya-v6-entry-043.md) — Returning to the capital with hostages
+- [Visenya V6 — Entry 044: Shadow Knights](sources/visenya-v6-entry-044.md) — Revealing identity and inducting knights
+- [Visenya V6 — Entry 045: The Reveal Shock](sources/visenya-v6-entry-045.md) — Both brothers react to the truth
+- [Visenya V6 — Entry 046: The Bargain](sources/visenya-v6-entry-046.md) — Promising Robb marriage, Jon legitimization
+- [Visenya V6 — Entry 047: The Triad](sources/visenya-v6-entry-047.md) — The shared moment; private time with Robb
+- [Visenya V6 — Entry 048: First Blood](sources/visenya-v6-entry-048.md) — Shadow Knights' first kill mission
+- [Visenya V6 — Entry 049: The Night Hunt](sources/visenya-v6-entry-049.md) — Hypnotic Pattern and shared murder
+- [Visenya V6 — Entry 050: Afterglow](sources/visenya-v6-entry-050.md) — Passion in the aftermath of slaughter
+- [Visenya V6 — Entry 051: Northern Eyes](sources/visenya-v6-entry-051.md) — Jon reports on Ned's spies
+- [Visenya V6 — Entry 052: The Bloody Cull](sources/visenya-v6-entry-052.md) — Warehouse massacre of Northern spies
+- [Visenya V6 — Entry 053: The Interrogation](sources/visenya-v6-entry-053.md) — Healing Word to vivisect a dying guard
+- [Visenya V6 — Entry 054: Subverting the Maester](sources/visenya-v6-entry-054.md) — Suggestion magic on Maester Mullin
+- [Visenya V6 — Entry 055: Forging Dissent](sources/visenya-v6-entry-055.md) — Forging Ned's seal to undermine his lords
+- [Visenya V6 — Entry 056: Bolton's Ambition](sources/visenya-v6-entry-056.md) — Encouraging Roose Bolton to betray Ned
+- [Visenya V6 — Entry 057: Three Weeks Pass](sources/visenya-v6-entry-057.md) — Power grows; Level 8 reached
+- [Visenya V6 — Entry 058: Dragon's Presentation](sources/visenya-v6-entry-058.md) — Presenting Shadow Knights to court
+- [Visenya V6 — Entry 059: Sibling's Shame](sources/visenya-v6-entry-059.md) — Humiliating Aegon in open court
+- [Visenya V6 — Entry 060: Provisional Terms](sources/visenya-v6-entry-060.md) — Rhaegar rules knights provisional
+- [Visenya V6 — Entry 061: The Ritual of Entropy](sources/visenya-v6-entry-061.md) — Blood rite empowers spirit drake
+- [Visenya V6 — Entry 062: The Silent Infiltration](sources/visenya-v6-entry-062.md) — Jon plays double agent
+- [Visenya V6 — Entry 063: Warehouse Massacre](sources/visenya-v6-entry-063.md) — Eliminating Ned's intelligence network
+- [Visenya V6 — Entry 064: Mind Games](sources/visenya-v6-entry-064.md) — Assessing next moves
+- [Visenya V6 — Entry 065: Power Assessment](sources/visenya-v6-entry-065.md) — Evaluating current position
+- [Visenya V6 — Entry 066: Level Up Eight](sources/visenya-v6-entry-066.md) — Reaching Level 8 Apex Weaver
+- [Visenya V6 — Entry 067: Court Introduction](sources/visenya-v6-entry-067.md) — Public presentation of Shadow Knights
+- [Visenya V6 — Entry 068: Aegon's Humiliation](sources/visenya-v6-entry-068.md) — The Crown Prince yields publicly
+- [Visenya V6 — Entry 069: The King's Intervention](sources/visenya-v6-entry-069.md) — Rhaegar limits her victory
+- [Visenya V6 — Entry 070: Strategic Position](sources/visenya-v6-entry-070.md) — Weighing push vs. consolidation
+- [Visenya V6 — Entry 071: Grand Strategy](sources/visenya-v6-entry-071.md) — Assessing the overall campaign
+- [Visenya V6 — Entry 072: The North's Fracture](sources/visenya-v6-entry-072.md) — Poison letters taking effect
+- [Visenya V6 — Entry 073: Internal Friction](sources/visenya-v6-entry-073.md) — Veteran Blackguard resist her
+- [Visenya V6 — Entry 074: Family Dynamics](sources/visenya-v6-entry-074.md) — Rhaegar watches, Aegon threatens
+- [Visenya V6 — Entry 075: The Reckoning](sources/visenya-v6-entry-075.md) — All schemes in motion
+- [Visenya V6 — Entry 076: Endgame Approaching](sources/visenya-v6-entry-076.md) — Campaign reaches critical juncture
+- [Visenya V6 — Entry 077: Court Provisional Terms](sources/visenya-v6-entry-077.md) — Court Provisional Terms
+- [Visenya V6 — Entry 078: Public Compliance](sources/visenya-v6-entry-078.md) — Public Compliance
+- [Visenya V6 — Entry 079: Private Compact](sources/visenya-v6-entry-079.md) — Private Compact
+- [Visenya V6 — Entry 080: God Mode Adjustment](sources/visenya-v6-entry-080.md) — God Mode Adjustment
+- [Visenya V6 — Entry 081: Rhaegar's Recognition](sources/visenya-v6-entry-081.md) — Rhaegar's Recognition
+- [Visenya V6 — Entry 082: The Apex Prophecy](sources/visenya-v6-entry-082.md) — The Apex Prophecy
+- [Visenya V6 — Entry 083: Father's Counsel](sources/visenya-v6-entry-083.md) — Father's Counsel
+- [Visenya V6 — Entry 084: Salvation Argument](sources/visenya-v6-entry-084.md) — Salvation Argument
+- [Visenya V6 — Entry 085: Hero's Task Offered](sources/visenya-v6-entry-085.md) — Hero's Task Offered
+- [Visenya V6 — Entry 086: Isolating Aegon](sources/visenya-v6-entry-086.md) — Isolating Aegon
+- [Visenya V6 — Entry 087: Ceremonial Departure](sources/visenya-v6-entry-087.md) — Ceremonial Departure
+- [Visenya V6 — Entry 088: Arc Brainstorming](sources/visenya-v6-entry-088.md) — Arc Brainstorming
+- [Visenya V6 — Entry 089: Obsession Paradox Begins](sources/visenya-v6-entry-089.md) — Obsession Paradox Begins
+- [Visenya V6 — Entry 090: Consolidation Strategy](sources/visenya-v6-entry-090.md) — Consolidation Strategy
+- [Visenya V6 — Entry 091: Bolton Alliance Proposed](sources/visenya-v6-entry-091.md) — Bolton Alliance Proposed
+- [Visenya V6 — Entry 092: Usurpation Protocol](sources/visenya-v6-entry-092.md) — Usurpation Protocol
+- [Visenya V6 — Entry 093: Level Elevation](sources/visenya-v6-entry-093.md) — Level Elevation
+- [Visenya V6 — Entry 094: Plot Hooks for Hedonism](sources/visenya-v6-entry-094.md) — Plot Hooks for Hedonism
+- [Visenya V6 — Entry 095: Thirty Percent Command](sources/visenya-v6-entry-095.md) — Thirty Percent Command
+- [Visenya V6 — Entry 096: The Blood March](sources/visenya-v6-entry-096.md) — The Blood March
+- [Visenya V6 — Entry 097: Night Attack](sources/visenya-v6-entry-097.md) — Night Attack
+- [Visenya V6 — Entry 098: Blood Reward](sources/visenya-v6-entry-098.md) — Blood Reward
+- [Visenya V6 — Entry 099: The Flayer's Council](sources/visenya-v6-entry-099.md) — The Flayer's Council
+- [Visenya V6 — Entry 100: The Dreadfort Arrival](sources/visenya-v6-entry-100.md) — The Dreadfort Arrival
+- [Visenya V6 — Entry 101: Flayer's Feast](sources/visenya-v6-entry-101.md) — Flayer's Feast
+- [Visenya V6 — Entry 102: Cerwyn Named](sources/visenya-v6-entry-102.md) — Cerwyn Named
+- [Visenya V6 — Entry 103: Blood Pact](sources/visenya-v6-entry-103.md) — Blood Pact
+- [Visenya V6 — Entry 104: Cerwyn Capture](sources/visenya-v6-entry-104.md) — Cerwyn Capture
+- [Visenya V6 — Entry 105: Attributes Fixed](sources/visenya-v6-entry-105.md) — Attributes Fixed
+- [Visenya V6 — Entry 106: Vivisection of Honor](sources/visenya-v6-entry-106.md) — Vivisection of Honor
+- [Visenya V6 — Entry 107: Breaking Point](sources/visenya-v6-entry-107.md) — Breaking Point
+- [Visenya V6 — Entry 108: Turning the Knights](sources/visenya-v6-entry-108.md) — Turning the Knights
+- [Visenya V6 — Entry 109: Medger Breaks](sources/visenya-v6-entry-109.md) — Medger Breaks
+- [Visenya V6 — Entry 110: The Final Demand](sources/visenya-v6-entry-110.md) — The Final Demand
+- [Visenya V6 — Entry 111: The Last Secret](sources/visenya-v6-entry-111.md) — The Last Secret
+- [Visenya V6 — Entry 112: The Cleanup](sources/visenya-v6-entry-112.md) — The Cleanup
+- [Visenya V6 — Entry 113: Long Rest](sources/visenya-v6-entry-113.md) — Long Rest
+- [Visenya V6 — Entry 114: Flayer's Pact](sources/visenya-v6-entry-114.md) — Flayer's Pact
+- [Visenya V6 — Entry 115: Neck Ambush Fails](sources/visenya-v6-entry-115.md) — Neck Ambush Fails
+- [Visenya V6 — Entry 116: Faction Minigame Enabled](sources/visenya-v6-entry-116.md) — Faction Minigame Enabled
+- [Visenya V6 — Entry 117: The Flayer's Encirclement](sources/visenya-v6-entry-117.md) — The Flayer's Encirclement
+- [Visenya V6 — Entry 118: Obsession Paradox Activated](sources/visenya-v6-entry-118.md) — Obsession Paradox Activated
+- [Visenya V6 — Entry 119: Global Context Pulse](sources/visenya-v6-entry-119.md) — Global Context Pulse
+- [Visenya V6 — Entry 120: Roose's Tactical Resistance](sources/visenya-v6-entry-120.md) — Roose's Tactical Resistance
+- [Visenya V6 — Entry 121: Calming the Knights](sources/visenya-v6-entry-121.md) — Calming the Knights
+- [Visenya V6 — Entry 122: Hunger Strategy](sources/visenya-v6-entry-122.md) — Hunger Strategy
+- [Visenya V6 — Entry 123: Manderly Neutralized](sources/visenya-v6-entry-123.md) — Manderly Neutralized
+- [Visenya V6 — Entry 124: Mercy Offer](sources/visenya-v6-entry-124.md) — Mercy Offer
+- [Visenya V6 — Entry 125: Karstark Execution](sources/visenya-v6-entry-125.md) — Karstark Execution
+- [Visenya V6 — Entry 126: The Desertion](sources/visenya-v6-entry-126.md) — The Desertion
+- [Visenya V6 — Entry 127: The Wall Breaks](sources/visenya-v6-entry-127.md) — The Wall Breaks
+- [Visenya V6 — Entry 128: Officers Called Out](sources/visenya-v6-entry-128.md) — Officers Called Out
+- [Visenya V6 — Entry 129: Entropy Unleashed](sources/visenya-v6-entry-129.md) — Entropy Unleashed
+- [Visenya V6 — Entry 130: Wildfire Cascade](sources/visenya-v6-entry-130.md) — Wildfire Cascade
+- [Visenya V6 — Entry 131: Capturing Ned](sources/visenya-v6-entry-131.md) — Capturing Ned
+- [Visenya V6 — Entry 132: The Crypt Secret](sources/visenya-v6-entry-132.md) — The Crypt Secret
+- [Visenya V6 — Entry 133: Ned Surrenders](sources/visenya-v6-entry-133.md) — Ned Surrenders
+- [Visenya V6 — Entry 134: Winterfell Captured](sources/visenya-v6-entry-134.md) — Winterfell Captured
+- [Visenya V6 — Entry 135: Catelyn's Grief](sources/visenya-v6-entry-135.md) — Catelyn's Grief
+- [Visenya V6 — Entry 136: The Robb Test](sources/visenya-v6-entry-136.md) — The Robb Test
+- [Visenya V6 — Entry 137: The Branding](sources/visenya-v6-entry-137.md) — The Branding
+- [Visenya V6 — Entry 138: Northern Summons](sources/visenya-v6-entry-138.md) — Northern Summons
+- [Visenya V6 — Entry 139: Emerald Wedding](sources/visenya-v6-entry-139.md) — Emerald Wedding
+- [Visenya V6 — Entry 140: The Song Revealed](sources/visenya-v6-entry-140.md) — The Song Revealed
+- [Visenya V6 — Entry 141: Dragon's Blood](sources/visenya-v6-entry-141.md) — Dragon's Blood
+- [Visenya V6 — Entry 142: Crown of Roses](sources/visenya-v6-entry-142.md) — Crown of Roses
+- [Visenya V6 — Entry 143: Oath of Blood](sources/visenya-v6-entry-143.md) — Oath of Blood
+- [Visenya V6 — Entry 144: The Burning Hall](sources/visenya-v6-entry-144.md) — The Burning Hall
+- [Visenya V6 — Entry 145: Jon's Demand](sources/visenya-v6-entry-145.md) — Jon's Demand
+- [Visenya V6 — Entry 146: Escalation Protocol](sources/visenya-v6-entry-146.md) — Escalation Protocol
+- [Visenya V6 — Entry 147: Total Structural Failure](sources/visenya-v6-entry-147.md) — Total Structural Failure
+- [Visenya V6 — Entry 148: Realistic Remapping](sources/visenya-v6-entry-148.md) — Realistic Remapping
+- [Visenya V6 — Entry 149: Null-Pulse Arrives](sources/visenya-v6-entry-149.md) — Null-Pulse Arrives
+- [Visenya V6 — Entry 150: Corridor Confrontation](sources/visenya-v6-entry-150.md) — Corridor Confrontation
+- [Visenya V6 — Entry 151: The Stone Destroyed](sources/visenya-v6-entry-151.md) — The Stone Destroyed
 - [WorldArchitect.AI CLAUDE.md](sources/worldarchitect-claude.md) — Primary operating protocol for AI-agent collaboration on WorldArchitect.AI
 - [WorldArchitect.AI AGENTS.md](sources/worldarchitect-agents.md) — Compact core contract for agents: file protocol, JSON schemas, beads tracking, tmux orchestration
 - [WorldArchitect.AI + Agent Orchestrator Next Steps](sources/worldarchitect-ao-nextsteps.md) — Handoff report: evidence enforcement status, cross-repo priorities, open beads (rev-*/bd-*)
@@ -5206,3 +5510,41 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [jeffrey-oracle-cost](syntheses/jeffrey-oracle-cost.md) — Cost optimization: model selection, token budgets, minimax vs Anthropic
 - [jeffrey-oracle-agent](syntheses/jeffrey-oracle-agent.md) — Agent orchestration: spawning, parallel vs sequential, team coordination
 
+
+- [Alexiel SWToR — Entry 001](sources/alexiel-swtor-entry-001.md) through [Alexiel SWToR — Entry 020](sources/alexiel-swtor-entry-020.md) — Scene entries 001-020
+- [Nocturne BG3 v4 Copy — Entry 001](sources/nocturne-bg3-v4-copy-entry-001.md) through [Nocturne BG3 v4 Copy — Entry 020](sources/nocturne-bg3-v4-copy-entry-020.md) — Scene entries 001-020
+- [Sariel Killer — Entry 001](sources/sariel-killer-entry-001.md) through [Sariel Killer — Entry 020](sources/sariel-killer-entry-020.md) — Scene entries 001-020
+- [Nocturne BG3 v5 Succubus Fixed v1 — Entry 001](sources/nocturne-bg3-v5-succubus-fixed-v1-entry-001.md) through [Nocturne BG3 v5 Succubus Fixed v1 — Entry 020](sources/nocturne-bg3-v5-succubus-fixed-v1-entry-020.md) — Scene entries 001-020
+- [Nocturne BG3 v5 Succubus Fixed Copy — Entry 001](sources/nocturne-bg3-v5-succubus-fixed-copy-entry-001.md) through [Nocturne BG3 v5 Succubus Fixed Copy — Entry 020](sources/nocturne-bg3-v5-succubus-fixed-copy-entry-020.md) — Scene entries 001-020- [Ramsay V1](sources/ramsay-v1.md) — Game of Thrones D&D 5e campaign: Ramsay Bolton-Stark's arc from Red Wedding through Ruby Ford (source page)
+- [Ramsay V1 — Entry 001](sources/ramsay-v1-entry-001.md) through [Ramsay V1 — Entry 020](sources/ramsay-v1-entry-020.md) — Individual scene entries 001-020
+- [Nocturne BG3 Continued](sources/nocturne-bg3-continued.md) — Post-BG3 solo D&D 5e campaign: Nocturne the Shadow Monarch, Level 8 College of Swords Bard, Absolute tadpole weaponization (source page)
+- [Nocturne BG3 Continued — Entry 001](sources/nocturne-bg3-continued-entry-001.md) through [Nocturne BG3 Continued — Entry 020](sources/nocturne-bg3-continued-entry-020.md) — Individual scene entries 001-020
+- [Visenya V3: The Apex of Ash](sources/visenya-v3.md) — Dance of the Dragons solo D&D 5e campaign: Visenya "Silver" Belaerys, Level 1 Dragon Lord, claims Vermithor (source page)
+- [Visenya V3 — Entry 001](sources/visenya-v3-entry-001.md) through [Visenya V3 — Entry 020](sources/visenya-v3-entry-020.md) — Individual scene entries 001-020
+- [Gaia Julia V4: The Gilded Trap](sources/gaia-julia-v4.md) — Ancient Rome solo D&D 5e campaign: Gaia Julia Caesar, Level 12 Siren (Bard/Paladin Gestalt), Spartacus rebel manipulation (source page)
+- [Gaia Julia V4 — Entry 001](sources/gaia-julia-v4-entry-001.md) through [Gaia Julia V4 — Entry 020](sources/gaia-julia-v4-entry-020.md) — Individual scene entries 001-020
+- [Visenya V6: The Winter Web](sources/visenya-v6.md) — Game of Thrones solo D&D 5e campaign: Visenya Targaryen as "Lady Elyse Celtigar," Level 6 Apex Weaver, Northern manipulation (source page)
+- [Visenya V6 — Entry 001](sources/visenya-v6-entry-001.md) through [Visenya V6 — Entry 020](sources/visenya-v6-entry-020.md) — Individual scene entries 001-020
+- [Astarion Ascended Campaign](sources/astarion-ascended.md) — Post-BG3 solo D&D 5e campaign: Astarion, Ascended Vampire, Level 12 Ranger 5 Gloom Stalker / Rogue 7 Assassin (source page)
+- [Astarion Ascended — Entry 001](sources/astarion-ascended-entry-001.md) through [Astarion Ascended — Entry 020](sources/astarion-ascended-entry-020.md) — Individual scene entries 001-020
+- [Undertale Campaign](sources/undertale.md) — D&D 5e campaign: Frisk/Tristan, Level 1 Sorcerer, Undertale setting
+- [Undertale — Entry 001](sources/undertale-entry-001.md) through [Undertale — Entry 020](sources/undertale-entry-020.md) — Individual scene entries 001-020
+- [Hunting Party Sariel Campaign](sources/hunting-party-sariel.md) — D&D 5e campaign: Sariel, College of Swords Bard, Netflix Hunting Party setting
+- [Hunting Party Sariel — Entry 001](sources/hunting-party-sariel-entry-001.md) through [Hunting Party Sariel — Entry 020](sources/hunting-party-sariel-entry-020.md) — Individual scene entries 001-020
+- [Arthur Dayne Campaign](sources/arthur-dayne.md) — D&D 5e campaign: Ser Arthur Dayne, Level 20 Gestalt Fighter/Paladin, Tower of Joy
+- [Arthur Dayne — Entry 001](sources/arthur-dayne-entry-001.md) through [Arthur Dayne — Entry 020](sources/arthur-dayne-entry-020.md) — Individual scene entries 001-020
+- [Gaia Julia V6 Campaign](sources/gaia-julia-v6.md) — D&D 5e campaign: Gaia Julia Caesar (12yo), Level 1 Paladin, Spartacus revolt
+- [Gaia Julia V6 — Entry 001](sources/gaia-julia-v6-entry-001.md) through [Gaia Julia V6 — Entry 020](sources/gaia-julia-v6-entry-020.md) — Individual scene entries 001-020
+- [Luke V2 Campaign](sources/luke-v2.md) — D&D 5e campaign: Luke Skywalker, Level 5 Force-User, Empire era
+- [Luke V2 — Entry 001](sources/luke-v2-entry-001.md) through [Luke V2 — Entry 020](sources/luke-v2-entry-020.md) — Individual scene entries 001-020
+- [Doberman Campaign](sources/doberman.md) — D&D 5e campaign: Sariel, Level 1 Bard, Military Prosecutor Doberman era
+- [Doberman — Entry 001](sources/doberman-entry-001.md) through [Doberman — Entry 020](sources/doberman-entry-020.md) — Individual scene entries 001-020
+
+## Campaign Batch D Entry Links
+
+- [BG1 Nocturne — Entry 001](sources/bg1-nocturne-entry-001.md) through [BG1 Nocturne — Entry 020](sources/bg1-nocturne-entry-020.md) — Scene entries 001-020
+- [Daemon Conquers — Entry 001](sources/daemon-conquers-entry-001.md) through [Daemon Conquers — Entry 015](sources/daemon-conquers-entry-015.md) — Scene entries 001-015
+- [Dragon Knight Good — Entry 001](sources/dragon-knight-good-entry-001.md) through [Dragon Knight Good — Entry 009](sources/dragon-knight-good-entry-009.md) — Scene entries 001-009
+- [Nocturne Apex Paladin — Entry 001](sources/nocturne-apex-paladin-entry-001.md) through [Nocturne Apex Paladin — Entry 020](sources/nocturne-apex-paladin-entry-020.md) — Scene entries 001-020
+- [Aemon Game of Thrones — Entry 001](sources/aemon-game-of-thrones-entry-001.md) through [Aemon Game of Thrones — Entry 020](sources/aemon-game-of-thrones-entry-020.md) — Scene entries 001-020
+- [Hunting Party - Sariel V2 — Entry 001](sources/hunting-party-sariel-v2-entry-001.md) through [Hunting Party - Sariel V2 — Entry 020](sources/hunting-party-sariel-v2-entry-020.md) — Scene entries 001-020

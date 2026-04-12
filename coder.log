@@ -1,0 +1,22 @@
+[2026-04-12 15:15:48] [START] Task received: Process 7 campaigns via generate_all_entries.py
+[2026-04-12 15:15:59] [ENGINE] Delegating to MiniMax (Claude CLI + MiniMax API)
+[2026-04-12 15:15:59] [CLI_START] Running generate_all_entries.py for 7 campaigns
+[2026-04-12 15:16:01] [START] Task received: Process 7 campaigns with generate_all_entries.py
+[2026-04-12 15:16:01] [ENGINE] Delegating to MiniMax (Claude CLI + MiniMax API)
+[2026-04-12 15:16:03] [START] Process 4 campaigns: noctune bg3 v6, nocturne bg3 continued, nocturne old republic, visenya v1 dunk and egg
+[2026-04-12 15:16:13] [CLI_START] Running MiniMax CLI for 7 campaign processing
+[2026-04-12 15:16:17] [CLI_RESULT] MiniMax CLI exit code: 0
+[2026-04-12 15:16:17] [TESTS] N/A - manifest validation only
+[2026-04-12 15:16:17] [COMPLETE] Task completed. Engine: MiniMax. Files: 7 campaigns, Total entries: 1030
+[2026-04-12 15:17:03] [COMPLETE] 4 campaigns processed. Total entries: 2026
+[2026-04-12 15:17:09] [CLI_RESULT] MiniMax CLI exit code: 0
+[2026-04-12 15:17:27] [COMPLETE] Task completed. Engine: MiniMax fallback (direct execution)
+Campaign 1: aurelius caesar v3 = 108
+Campaign 2: aurelius julius caesar v1 = 490
+Campaign 3: bg1 nocturne continued = 54
+Campaign 4: bg3 astarion = 122
+Campaign 5: faction Nocturne bg3 V3 = 606
+Campaign 6: gaia julia v2 = 521
+Campaign 7: noctune bg3 v6 bug-repro-test = 133
+TOTAL_ENTRIES: 2034
+TOTAL_CAMPAIGNS: 7

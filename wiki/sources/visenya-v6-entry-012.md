@@ -1,29 +1,50 @@
 ---
-title: "Visenya V6 — Entry 012: The Null-Pulse Crisis"
+title: "Visenya V6 — Scene 012"
 type: source
-tags: [got, campaign, visenya, session, entry-012, winterfell, null-pulse, others]
-date: 2026-04-08
-source_file: /tmp/campaign_downloads/Visenya V6_JkKR510z.txt
+tags: [campaign, scene, visenya-v6]
+last_updated: 2026-04-12
+scene_number: 12
+scene_total: 154
+source_file: /tmp/campaign_downloads_v2/
 ---
 
-## Summary
-Archmaester Marwyn (Level 15) arrives at Winterfell's Guest Wing with a Void-Sphere that suppresses Visenya's Baelarys powers within 100 feet. Without her Static, she is "a physically fragile 14-year-old girl in a room full of people who remember what you did to the Cerwyns." Multiple crises converge simultaneously: the Obsession Rift between Robb and Jon intensifies, the Iron Bank's "Liquidator" is erasing her spy network, and Wights are phasing through the walls.
+## Scene 012 Summary
 
-## Key Events
-- **Null-Pulse**: Within 100 feet of the Void-Sphere, Visenya loses: CHA bonuses to saves, Silver Tongue floor, Static field, all Baelarys traits
-- **Obsession War escalates**: Robb and Jon now "compete for the Sun" — if Visenya favors one, the other autonomously sabotages the other's valued variables
-- **Iron Bank Liquidator**: Every turn, 10% of Visenya's spy network (The Weavers) vanishes; treasury accounts frozen
-- **Bolton Inversion**: Roose Bolton (Level 12) is secretly corresponding with Tywin Lannister and the Night King
-- **Phasing Breach**: Wights are appearing inside the castle walls, drawn to the heat-wells created by the wildfire
-- A Wight hand "phases through the masonry near the library door" — "The Others are no longer at the gates; they are in the architecture"
+============================================================ [Timestamp: 300 AC, 8th Moon, Day 12, 19:45:00 Location: The Great Hall, Winterfell Status: Lvl 6 Apex Weaver | HP: 45/45 (Temp: 6) | XP: 14,650/23,000 | Gold: 40,000gp Conditions: Incognito (Lady Elyse Celtigar) | Exhaustion: 0 | Inspiration: No] Resources: HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sadism Dice: 3/4 (d8)  Game Master: The silence following your question to Jon Snow is heavy, a brittle layer of ice over a dark pond. La
 
-## Character Notes
-- **Visenya (Level 9)**: Suppressed, fragile, unable to use her primary abilities
-- **Robb (Level 8)**: Obsessed, jealous, demanding "exclusive presence"
-- **Jon/Jaehaerys (Level 8)**: Competing for favor, possessive of the Crown of Roses
+## Key Details
 
-## Connections
-- [[ArchmaesterMarwyn]] — the Null-Sphere bearer
-- [[TheOthers]] — now phasing inside Winterfell itself
-- [[IronBank]] — auditing Visenya's network and freezing accounts
-- [[HouseBolton]] — Roose Bolton is turning against Visenya
+- **Location:** The Great Hall, Winterfell
+- **Level hint:** 6
+- **Word count:** 456
+- **Campaign:** [[Visenya V6]]
+- **Entry:** [[visenya-v6-entry-012]]
+
+---
+
+## Full Scene Content
+
+============================================================
+[Timestamp: 300 AC, 8th Moon, Day 12, 19:45:00
+Location: The Great Hall, Winterfell
+Status: Lvl 6 Apex Weaver | HP: 45/45 (Temp: 6) | XP: 14,650/23,000 | Gold: 40,000gp
+Conditions: Incognito (Lady Elyse Celtigar) | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sadism Dice: 3/4 (d8)
+
+Game Master:
+The silence following your question to Jon Snow is heavy, a brittle layer of ice over a dark pond. Lady Catelyn’s eyes remain fixed on the bastard with a cold, sharp intensity, while Lord Eddard’s gaze softens with a weary respect for your perception. You let the moment hang for exactly three seconds—the precise amount of time needed to establish the weight of your words—before you turn your attention back to the heir of Winterfell with a soft, horrified gasp.
+
+"Oh, Lord Robb, please forgive my curiosity," you murmur, your voice dipping into a silken, apologetic register. You lean toward him, the movement bringing the faint scent of winter mint and the unnatural chill of your presence just close enough to make his breath hitch. "I have been so captivated by the architecture of your home that I quite forgot my manners. To speak of cracks and shadows while enjoying such magnificent hospitality... I am truly embarrassed."
+
+You lower your violet eyes, the peat-brown braids of your hair falling forward to shield your face in a display of curated vulnerability. "The rumors of the south must have addled my mind. They speak of such horrors—this 'Blood Dragon' and her piles of heads—that I find myself looking for monsters in every shadow, even here where there is only honor."
+
+Robb Stark (Level 2) flushes a deep, humiliated crimson, his chest swelling as he rushes to fill the silence you've so expertly created. "There is no need for apologies, Lady Elyse. Truly. I was the one who spoke of madness first. The North is a grim place, and perhaps I have grown too used to the dark. It would be my honor to show you that Winterfell holds more than just cold stone."
+
+He glances at his father, who offers a slow, approving nod, then turns back to you with a boyish, eager intensity. "If you would permit it, I should like to show you the wolfswood tomorrow morning. It is... structurally sound, I promise. No cracks to be found, only the oldest trees in the realm."
+
+You offer him a smile that is all silk and hidden thorns, the 'Static' within you purring as the trap snaps shut. The heir is isolated, and the Warden's trust is won.
+
+Player (choice: explore_wolfswood):
+The Morning Ride - Accept Robb&#x27;s invitation and ride into the wolfswood to begin his isolation.
+
+============================================================

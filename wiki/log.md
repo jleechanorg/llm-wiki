@@ -1,3 +1,95 @@
+## [2026-04-12] ingest | Tyranny Campaign (20 entries)
+
+Created 1 campaign overview page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Tyranny campaign. Character: Nocturne, Level 6 Bard (College of Swords), Lawful Evil INTJ "Ascendant Architect". Setting: Obsidian Tyranny world of Terratus. Arc: Law/Chaos faction politics, the Edict of Execution countdown, "Itachi Experiment" with Verse. Scenes 1-20: Law vs Chaos faction encounters, Edict of Execution weaponizing, companion recruitment (Verse, Lantry). Source: /tmp/campaign_downloads_v2/Tyranny_qjVpLfow.txt.
+
+## [2026-04-12] ingest | Aurelius Caesar V2 Campaign (20 entries)
+
+Created 1 campaign overview page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Aurelius Caesar V2 campaign. Character: Aurelius Julia Caesar, Level 5 Paladin (Oath of Domination), 16yo son of living Julius Caesar. Setting: Alternate 40 BCE Roman Empire. Arc: Cursus Honorum rise, succession politics against Caesarion and Octavian, anti-slavery stance. Scenes 1-20: Glabin's Square battle, noble house factions, Parthian threat. Source: /tmp/campaign_downloads_v2/Aurelius caesar v2_nl8480uw.txt.
+
+## [2026-04-12] ingest | Nocturne BG3 V5 Succubus Campaign (20 entries)
+
+Created 1 campaign overview page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Nocturne BG3 V5 Succubus campaign. Character: Nocturne Sosuke, Level 1 Bard (College of Perdition), de-powered from Level 6. Setting: Ravaged Beach Nautiloid crash site, BG3 world. Arc: Malcanthet patron swap from Zariel, survival horror, companion integration. Scenes 1-20: Nautiloid crash, Malcanthet contract, Intellect Devourer combat. Source: /tmp/campaign_downloads_v2/Nocturne bg3 v5 - succubus_bs27jWsO.txt.
+
+## [2026-04-12] ingest | Visenya V2 Campaign (20 entries)
+
+Created 1 campaign overview page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Visenya V2 campaign. Character: Visenya Belaerys, Level 1 Dragon Scholar (Wizard), age 16, secret Valyrian Apex heir. Setting: Game of Thrones, Astapor and Meereen liberation. Arc: Rescued from Lysene pleasure house, Belaerys Allure manipulation, Daenerys relationship. Scenes 1-20: Pleasure house rescue, Grazdan encounter, Daenerys meeting, political maneuvering. Source: /tmp/campaign_downloads_v2/Visenya v2_mSEMkUw6.txt.
+
+## [2026-04-12] ingest | Visenya V5 Campaign (20 entries)
+
+Created 1 campaign overview page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Visenya V5 campaign. Character: Visenya Targaryen, age 12, INTJ Apex Predator class, Chaotic Evil. Setting: Game of Thrones "The Grinding" era (298 AC). Arc: Tea Party of Knives, Margaery Tyrell rivalry, Viserys confrontation, Aerys manipulation, Dragonpit confrontation. Scenes 1-20: Heat mechanics, Entropy dragon companion, sadism dice, political chaos. Source: /tmp/campaign_downloads_v2/Visenya v5_ARrfJ39L.txt.
+
+## [2026-04-12] ingest | Sariel V2 Campaign (20 entries)
+
+Created 1 campaign overview page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Sariel V2 campaign. Character: Sariel Arcanus, Level 2 Wizard (INTP), age 15, daughter of Alexiel. Setting: World of Assiah, Celestial Imperium, Deep Archives of Zenith Spire. Arc: Discover mother's true power (Nullification Field), plan infiltration of Quiet Ward to find Sergeant Kaelan. Scenes 1-10: Deep Archives discovery, Mirror Magic attempt, psychic backlash. Scenes 11-20: Team assembly (Gideon, Cressida, Rowan), Silent Guard protocol analysis, infiltration planning. Source: /tmp/campaign_downloads_v2/Sariel V2_rd3cYXFE.txt.
+
+## [2026-04-12] ingest | Nocturne BG3 V4 Campaign (20 entries)
+
+Created 1 campaign overview page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Nocturne BG3 V4 campaign (nocturne-bg3-v4). Character: Nocturne Sosuke, Level 2 Bard (College of Infernal Contracts future). Setting: The Bloom Shadow brothel, Upper City Baldur's Gate, Horgus Gwent's room, Gwent Manor. Arc: marriage long-con to Cassalanter infiltration. Scenes 1-9: Horgus brings Soul Coin + Gala invitation. Scenes 10-20: marriage to Horgus, inheritance law research, pre-Gala preparation. Source: /tmp/campaign_downloads_v2/Nocturne bg3 v4_kuXKa6vr.txt.
+
+## [2026-04-12] ingest | Visenya V1: Dunk and Egg Campaign (20 entries)
+
+Created 1 campaign overview page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Visenya V1 Dunk and Egg campaign (visenya-v1-dunk-and-egg). Character: Aegon/"Egg," female Targaryen princess disguised as a squire, Dragon Scholar class (INT/WIS primary). Setting: Westeros, Roadside Inn near Ashford, Ashford Tourney. Arc: character creation and first meeting with Ser Duncan the Tall. Scenes 1-14: extensive character build negotiation (16 INT, 16 WIS, dragon companion at level 6, College of Eloquence wizard subclass, spell list refinement). Scenes 15-20: the canonical Dunk and Egg inn meeting — Dunk mistakes Egg for a stable boy, she asserts "I'm not a stableboy," he responds with his famous line. Source: /tmp/campaign_downloads_v2/visenya v1 _dunk and egg__Rp7hvzhO.txt.
+
+## [2026-04-12] ingest | Nocturne BG3 After Campaign (20 entries)
+
+Created 1 campaign overview page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Nocturne BG3 After campaign (nocturne-bg3-after). Character: Nocturne, 16-year-old Half-Elf Bard (College of Eloquence, CHA 16/DEX 16). Setting: The Bloom & Shadow brothel, Gilded Alcove. Arc: intelligence extraction from Horgus during escalating degradation scene. Scenes 1-9: character creation, Madam Zylra's introduction, Horgus arrives. Scenes 10-20: Nocturne collared and chained maintains submission mask while extracting intel — sisters are at Sunder-Stone Villa Whispering Cellar, Cassalanters are cultists harvesting noble souls. Scene 17: Critical Failure breaks the mask; Scene 18: brutal physical punishment. Source: /tmp/campaign_downloads_v2/Nocturne bg3 after _STpjRuwj.txt.
+
+## [2026-04-12] ingest | Nocturne Post BG3: Zhentarim Campaign (20 entries)
+
+Created 1 campaign overview page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Nocturne Post BG3 Zhentarim campaign (nocturne-post-bg3-zhent). Character: Nocturne the Silent Blade, Level 5 Ranger, Zhentarim operative. Setting: Elfsong Tavern Penthouse, Iron Gauntlet arms shop, Black Basin hidden weapon shop. Arc: hired to eliminate the Ironhead Legion (12 Amnian mercenaries). Scenes 1-5: negotiation with Zarys for 1,100 gold + alchemist's fire + mindfire toxin. Scenes 6-10: shopping at the Iron Gauntlet (Spider-Bolts, Whisper-Venom crossbow). Scenes 11-20: Black Basin, the Stitcher, titanstring bow negotiations and modifications (silent string, venom channeling). Source: /tmp/campaign_downloads_v2/Nocturne post bg3 zhent_VqqJLpAB.txt.
+
+## [2026-04-12] ingest | Nocturne BG3 V5 Campaign (20 entries)
+
+Created 1 campaign overview page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Nocturne BG3 V5 campaign (nocturne-bg3-v5). Character: Nocturne Sosuke, Level 2 Bard (Malcanthet contract, College subclass pending). Setting: Ravaged Beach after Nautiloid crash, with BG3 companion Shadowheart. Arc: Nautiloid crash survival, combat with Intellect Devourers, establishing character as social/intellectual/military prodigy. Scenes 1-9: character introduction, Malcanthet contract swap from Zariel, combat with Intellect Devourers begins. Scenes 10-20: Vicious Mockery, Bardic Inspiration, combat victory (100 XP), level up to Level 2, Tasha's Hideous Laughter spell, post-combat Shadowheart conversation, player establishes character truth: not a demon-powered puppet but a natural prodigy + demon powers. Source: /tmp/campaign_downloads_v2/Nocturne bg3 v5 _fixed v2__yxU6r6Uu.txt.
+
+## [2026-04-12] ingest | Nocturne BG3 v5 Succubus Fixed Copy Campaign (20 entries)
+
+Created 1 campaign overview page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Nocturne BG3 v5 Succubus Fixed Copy campaign (nocturne-bg3-v5-succubus-fixed-copy). Character: Nocturne Sosuke. Setting: Ravaged Beach / Nautiloid Crash Site (Baldur's Gate 3 Descent). Source: /tmp/campaign_downloads_v2/Nocturne bg3 v5 - succubus _fixed_ _copy__Rx8rZeFo.txt.
+
+## [2026-04-12] ingest | Nocturne BG3 v5 Succubus Fixed v1 Campaign (20 entries)
+
+Created 1 campaign overview page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Nocturne BG3 v5 Succubus Fixed v1 campaign (nocturne-bg3-v5-succubus-fixed-v1). Character: Nocturne Sosuke. Setting: Ravaged Beach / Nautiloid Crash Site (Baldur's Gate 3 Descent). Source: /tmp/campaign_downloads_v2/Nocturne bg3 v5 - succubus _fixed v1__Wp5aDEpI.txt.
+
+## [2026-04-12] ingest | Sariel Killer Campaign (20 entries)
+
+Created 1 campaign overview page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Sariel Killer campaign (sariel-killer). Character: Sariel. Setting: Modern day. Source: /tmp/campaign_downloads_v2/Sariel killer_W1YIooU4.txt.
+
+## [2026-04-12] ingest | Nocturne BG3 v4 Copy Campaign (20 entries)
+
+Created 1 campaign overview page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Nocturne BG3 v4 Copy campaign (nocturne-bg3-v4-copy). Character: Nocturne Sosuke. Setting: Baldur's Gate / Bloom Shadow Upper City Brothel. Source: /tmp/campaign_downloads_v2/Nocturne bg3 v4 _copy__lJ0AIdpv.txt.
+
+## [2026-04-12] ingest | Alexiel SWToR Campaign (20 entries)
+
+Created 1 campaign overview page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Alexiel SWToR campaign (alexiel-swtor). Character: Alexiel. Setting: Star Wars: The Old Republic / Jedi Academy on Tython. Source: /tmp/campaign_downloads_v2/alexiel swtor_tAE30bFv.txt.
+
+## [2026-04-12] ingest | Stellaris Nocturne V1 Campaign (60 turns)
+
+Created 1 campaign overview page + 60 entry pages (entries 001-060) covering SCENE 1-60 of the Stellaris Nocturne V1 campaign (wOhBvrJ0). Campaign covers Nocturne's ascension as the Shroud-Daughter, imperial court politics, psychic maneuvering with Baron Vex, and the Krios Tithe conflict. Source: /tmp/jleechan_all_campaigns/Stellaris - Nocturne V1_wOhBvrJ0.txt.
+
+## [2026-04-12] ingest | Ramsay V1 Campaign (189 scenes)
+
+Created 189 source pages (entries 001-189) + 1 campaign overview page from /tmp/jleechan_all_campaigns/Ramsay V1_b9LPKcLH.txt. Campaign covers Ramsay Bolton-Stark's arc from the Red Wedding escape through the Ruby Ford campaign, spanning 189 scenes. Includes Dreadblade Shadow class creation, Philosophy Tug-of-War mechanic, Bastard's Bond with Jon Snow, and the full corruption arc of Robb Stark.
+
+## [2026-04-12] ingest | Michele Fried Chicken Campaign (42 entries)
+
+Created 43 source pages from the "Michele Fried Chicken" campaign (Ofn9aEEy): 1 campaign overview + 42 individual entries (001-042). The D&D 5e campaign follows Michele, a Bard (Culinary), opening "Crispy Dreams" Korean fried chicken restaurant in Silver Lake, LA. Key arcs: character creation, community relations, Korean cuisine pivot, Julian sabotage, viral vindication, city partnership interest. Updated wiki/index.md.
+
+## [2026-04-12] ingest | Visenya V6 Entries 021-076
+
+Created 56 source pages (entries 021-076) from scenes 21-76 of the Visenya V6 campaign (lines 691-2051 of /tmp/campaign_downloads/Visenya V6_JkKR510z.txt). Entries cover: Wolfswood seduction arc, return to Winterfell, three-week time skip, Southern Letter manipulation, departure south, Hedonist personality shift, jealousy cultivation, bandit ambush (Stark guards killed), Valyrian slip/wink, Fever Dream ritual, arrival King's Landing, identity reveal, Shadow Knights induction, marriage/legitimization promises, Trident Triad, first kill mission, Kingswood massacre, Hypnotic Pattern combat, blood ritual, Northern spy elimination (warehouse massacre), Maester Mullin subversion, forged Northern dissent letters, Bolton gambit, Level 8 up, throne room confrontation with Rhaegar/Aegon, provisional knight status. Updated wiki/index.md with all 56 entries.
+
+## [2026-04-12] ingest | Nocturne Old Republic Campaign (20 entries)
+
+Created 1 campaign overview page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Nocturne Old Republic campaign (nocturne-old-republic). Character: Nocturne. Setting: Star Wars Old Republic, Sith Empire. Arc: Emperor Vitiate's children, Essence Devourer. Source: /tmp/campaign_downloads_v2/nocturne old republic_vfi0Vh04.txt.
+
+## [2026-04-12] ingest | Alexiel Assiah V2 Campaign (20 entries)
+
+Created 1 campaign overview page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Alexiel Assiah V2 campaign (alexiel-assiah-v2). Character: Gestalt Aberrant Mind/Assassin Alexiel. Setting: Silverwood. Source: /tmp/campaign_downloads_v2/Alexiel Assiah V2_v0030WhK.txt.
+
+## [2026-04-12] ingest | Old Nocturne Merc BG3 Campaign (20 entries)
+
+Created 1 campaign overview page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Old Nocturne Merc BG3 campaign (old-nocturne-merc-bg3). Character: Serpent-King mercenary with Hunger mechanic. Setting: Guild mercenary work. Source: /tmp/campaign_downloads_v2/_old_ Noctune merc bg3_WgHKme6M.txt.
+
 ## [2026-04-11] ingest | Roadmap learnings 2026-04 → 18 concept pages from memories + roadmap docs
 
 Created 18 concept pages from memory files and roadmap entries:
@@ -3106,3 +3198,91 @@ Added index entries grouped by priority (P0: 4, P1: 39, P2: 75, P3: 15) to  befo
 Ingested all 133 open beads from `br list --status open --limit 0` into wiki sources.
 Created 133 source pages at `wiki/sources/bead-{id}.md` with full frontmatter + description bodies.
 Added index entries grouped by priority (P0: 4, P1: 39, P2: 75, P3: 15) to `wiki/index.md` before the Codex Sessions section.
+
+## [2026-04-12] ingest | Visenya V6 Entries 077-151
+
+Created 75 source pages (entries 077-151) from scenes 77-151 of the Visenya V6 campaign (lines 2053-4237 of /tmp/campaign_downloads/Visenya V6_JkKR510z.txt). Entries cover: court confrontation with Rhaegar, provisional terms, private compact, the Apex prophecy reveal, Aegon hero trap, Blood March through Riverlands, Cerwyn capture and interrogation, Bolton alliance, Obsession Paradox manifesting, Neck ambush fails, faction minigame enabled, Stark Wall starvation, wildfire cascade at Causeway, Ned captured, Winterfell fall, Emerald Wedding trap (Umbers/Karstarks killed), Lyanna's crypt secret revealed, Jon legitimized as Jaehaerys Targaryen, blood oath sworn, escalation protocol (Null-Pulse, Liquidator, Bolton betrayal, Others), Ned killed by his own sons in Null-Zone. Updated wiki/index.md with all 75 entries.
+[2026-04-12 04:18:48] [START] Task received: Create 60 entry pages for Stellaris Nocturne V1 campaign
+[2026-04-12 04:19:01] [COMPLETE] Task completed. Engine: MiniMax. Files: 60 entry pages already exist, index updated. No missing entries found.
+
+## [2026-04-12] ingest | Faction Nocturne BG3 V3 Campaign (20 entries)
+
+Created 1 campaign overview page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Faction Nocturne BG3 V3 campaign (faction-nocturne-bg3-v3). Character: Nocturne Sosuke. Setting: Baldur's Gate / Sunder-Stone Villa aftermath of Cassalanter ritual. Source: /tmp/campaign_downloads_v2/faction - Nocturne bg3 V3_U1ngWe4M.txt. 1,212 total entries in campaign.
+
+## [2026-04-12] ingest | Aizen BG3 Campaign (20 entries)
+
+Created 1 campaign overview page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Aizen BG3 campaign (aizen-bg3). Character: Sosuke Aizen. Setting: Baldur's Gate / The White Garden (The Hollow). Source: /tmp/campaign_downloads_v2/Aizen bg3_2Ivu5p5O.txt. 1,194 total entries in campaign. Bleach-inspired evil wizard campaign with explicit content.
+
+## [2026-04-12] ingest | Itachi Evil Campaign 2 (10 entries)
+
+Created 1 campaign overview page + 10 entry pages (entries 001-010) covering scenes 1-10 of the Itachi Evil Campaign 2 (itachi-evil-campaign-2). Character: Itachi Uchiha. Setting: Naruto / Uchiha Clan massacre. Source: /tmp/campaign_downloads_v2/Itachi Evil Campaign 2_20lzLXyQ.txt. 1,069 total entries in campaign. Evil Itachi using Destiny ruleset.
+
+## [2026-04-12] ingest | Gaia Julia V2 Campaign (10 entries)
+
+Created 1 campaign overview page + 10 entry pages (entries 001-010) covering scenes 1-10 of the Gaia Julia V2 campaign (gaia-julia-v2). Character: Gaia Julia Caesar. Setting: 82 BCE Rome / Capua Ludus. Source: /tmp/campaign_downloads_v2/gaia julia v2_JXXNfJpd.txt. 1,042 total entries in campaign. Imperator class, Level 12, sadistic voyeur.
+
+## [2026-04-12] ingest | Dragon Knight Evil Campaign (10 entries)
+
+Created 1 campaign overview page + 10 entry pages (entries 001-010) covering scenes 1-10 of the Dragon Knight Evil campaign (dragon-knight-evil). Character: Ser Arion val Valerion. Setting: Assiah / Winter-Mourn Province. Source: /tmp/campaign_downloads_v2/Dragon knight evil_wBoMKQuM.txt. 1,000 total entries in campaign. Paladin shifts to Neutral Evil, enslaves refugees.
+## [2026-04-12] ingest | Ramsay V1 (20 entries)
+Created 1 campaign source page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Ramsay V1 campaign (ramsay-v1). Character: Ramsay Bolton-Stark. Setting: Game of Thrones / Westeros. Source: /tmp/campaign_downloads_v2/Ramsay V1_b9LPKcLH.txt. 189 total entries in campaign. Theon Greyjoy manipulation, Reed family rescue, Red Wedding aftermath.
+
+## [2026-04-12] ingest | Nocturne BG3 Continued (20 entries)
+Created 1 campaign source page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Nocturne BG3 Continued campaign (nocturne-bg3-continued). Character: Nocturne the Shadow Monarch. Setting: Baldur's Gate 3 post-campaign. Source: /tmp/campaign_downloads_v2/nocturne bg3 continued_TBKp5JCA.txt. Absolute tadpole weaponization, Shadow Bank, Gala infiltration.
+
+## [2026-04-12] ingest | Visenya V3 (20 entries)
+Created 1 campaign source page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Visenya V3 campaign (visenya-v3). Character: Visenya "Silver" Belaerys. Setting: Dance of the Dragons, 129 AC. Source: /tmp/campaign_downloads_v2/Visenya v3_OZTbL5nJ.txt. 173 total entries in campaign. Dragon Lord claims Vermithor, identity restructure, awakening arc.
+
+## [2026-04-12] ingest | Gaia Julia V4 (20 entries)
+Created 1 campaign source page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Gaia Julia V4 campaign (gaia-julia-v4). Character: Gaia Julia Caesar. Setting: 73 BCE Rome. Source: /tmp/campaign_downloads_v2/Gaia julia v4_prg96Cof.txt. 162 total entries in campaign. Level 12 Siren, Lotus Ten cult, Spartacus manipulation.
+
+## [2026-04-12] ingest | Visenya V6 (20 entries)
+Created 1 campaign source page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Visenya V6 campaign (visenya-v6). Character: Visenya Targaryen / Lady Elyse Celtigar. Setting: Game of Thrones, 300 AC. Source: /tmp/campaign_downloads_v2/Visenya V6_JkKR510z.txt. Level 6 Apex Weaver, Winterfell infiltration, Heat System tracking.
+
+## [2026-04-12] ingest | Astarion Ascended (20 entries)
+Created 1 campaign source page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Astarion Ascended campaign (astarion-ascended). Character: Astarion. Setting: Baldur's Gate 3 post-campaign, 1492 DR. Source: /tmp/campaign_downloads_v2/Astarion Ascended_ZohueN1j.txt. Level 12 Ranger 5 Gloom Stalker / Rogue 7 Assassin, Ascended Vampire, DM MODE character sheet refinement.
+
+## [2026-04-12] ingest | Nocturne BG3 V6: Bug-Repro-Test (20 entries)
+Created 1 campaign source page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Nocturne BG3 V6: Bug-Repro-Test campaign (nocturne-bg3-v6-bug-repro-test). Character: Nocturne Sosuke. Setting: BG3 goblin camp, Emerald Grove infiltration, "True Soul" under Absolute's influence. Source: /tmp/campaign_downloads_v2/noctune bg3 v6 _bug-repro-test__ofsvdJwV.txt. Survival Horror / Gothic Noir / Infernal Politics, goblin camp infiltration, Minthara manipulation.
+
+## [2026-04-12] ingest | Aizen Thay V1 (20 entries)
+Created 1 campaign source page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Aizen Thay V1 campaign (aizen-thay-v1). Character: Aizen Vane (Abyss Knight). Setting: Thay "Century of Silence" +100 years post-Nocturne's ascension. Source: /tmp/campaign_downloads_v2/Aizen thay v1_RtLrlAud.txt. Dark fantasy noir, Soul Thief mechanics, Black Company soul-harvest, Tithe of Silt-River.
+
+## [2026-04-12] ingest | Witcher Strat (20 entries)
+Created 1 campaign source page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Witcher Strat campaign (witcher-strat). Character: Nocturne/Sariel (College of Swords Bard). Setting: Witcher 3 Baptism of Fire, The Rats band, Ciri/"Falka" psychological manipulation. Source: /tmp/campaign_downloads_v2/Witcher Strat_X08mM1iQ.txt. Psychological horror, three-act structure with Bonhart arc.
+
+## [2026-04-12] ingest | BG3 Astarion (20 entries)
+Created 1 campaign source page + 20 entry pages (entries 001-020) covering scenes 1-20 of the BG3 Astarion campaign (bg3-astarion). Character: Astarion (vampire spawn). Setting: Nautiloid crash, Ravaged Beach, BG3 Act 1 from Astarion's perspective. Source: /tmp/campaign_downloads_v2/bg3 astarion_LUAqNRjA.txt. Vampire spawn abilities, Ranger class, Cazador freedom quest.
+
+## [2026-04-12] ingest | Gaia Julia V3 (20 entries)
+Created 1 campaign source page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Gaia Julia V3 campaign (gaia-julia-v3). Character: Gaia Julia Caesar (Imperator class). Setting: Alternate Roman history, 44 BCE Capua Ludus of Batiatus. Source: /tmp/campaign_downloads_v2/Gaia Julia v3_0sptOAbQ.txt. Low-magic, Auctoritas spellcasting, sibling rivalry, Spartacus context.
+
+## [2026-04-12] ingest | Undertale (20 entries)
+Created 1 campaign source page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Undertale campaign (undertale). Character: Frisk/Tristan, Level 1 Sorcerer. Setting: Underground, Undertale universe. Source: /tmp/campaign_downloads_v2/Undertale_7WvLqD7a.txt. D&D 5e interpretation of Undertale, character creation, initial encounters.
+
+## [2026-04-12] ingest | Hunting Party Sariel (20 entries)
+Created 1 campaign source page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Hunting Party Sariel campaign (hunting-party-sariel). Character: Sariel, College of Swords Bard. Setting: Netflix Hunting Party reality TV show. Source: /tmp/campaign_downloads_v2/Hunting Party_4gq5vVVs.txt. Social manipulation, alliance building, reality TV survival mechanics.
+
+## [2026-04-12] ingest | Arthur Dayne (20 entries)
+Created 1 campaign source page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Arthur Dayne campaign (arthur-dayne). Character: Ser Arthur Dayne, Level 20 Gestalt Fighter/Paladin. Setting: Tower of Joy, Game of Thrones. Source: /tmp/campaign_downloads_v2/Arthur dayne_Sz0j2Ufz.txt. ToJ dream sequence, Ned Stark confrontation, Lyanna healing, oath about Jon.
+
+## [2026-04-12] ingest | Gaia Julia V6 (20 entries)
+Created 1 campaign source page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Gaia Julia V6 campaign (gaia-julia-v6). Character: Gaia Julia Caesar (12yo), Level 1 Paladin. Setting: Spartacus revolt era. Source: /tmp/campaign_downloads_v2/Gaia julia v6_v9c5j0j6.txt. Noble bastard lie, Market Square confrontation, Glaber healing, Seppius manipulation.
+
+## [2026-04-12] ingest | Luke V2 (20 entries)
+Created 1 campaign source page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Luke V2 campaign (luke-v2). Character: Luke Skywalker, Level 5 Force-User. Setting: Star Wars Empire era. Source: /tmp/campaign_downloads_v2/luke v2_B6n6d6fW.txt. Vader's recruitment offer, accepting Dark Side, betraying friends, alignment shift to Chaotic Evil.
+
+## [2026-04-12] ingest | Doberman (20 entries)
+Created 1 campaign source page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Doberman campaign (doberman). Character: Sariel, Level 1 Bard (College of Swords). Setting: Seoul, South Korea, Military Prosecutor Doberman era. Source: /tmp/campaign_downloads_v2/Doberman_XhYKMdue.txt. High-end restaurant, Noh Tae-nam manipulation, Do Bae-man arrival, 10-year ascension plan, humiliation dynamic.
+
+## [2026-04-12] ingest | Campaign Batch D (6 campaigns: bg1-nocturne, daemon-conquers, dragon-knight-good, nocturne-apex-paladin, aemon-game-of-thrones, hunting-party-sariel-v2)
+
+Created source pages and entry pages for 6 campaigns from /tmp/campaign_downloads_v2/:
+- **BG1 Nocturne** (bg1-nocturne): 1 overview + 20 entries. BG1 prequel, Nocturne as Bhaalspawn Ranger with Hunger mechanic, Baldur's Gate starting area
+- **Daemon Conquers** (daemon-conquers): 1 overview + 15 entries. Daemon brute warrior vs dragon, fantasy campaign
+- **Dragon Knight Good** (dragon-knight-good): 1 overview + 9 entries. Ser Arion paladin moral dilemma, Assiah fantasy setting
+- **Nocturne Apex Paladin** (nocturne-apex-paladin): 1 overview + 20 entries. Nocturne evil paladin, House Valerius exile, Destiny Core Rules, INTJ Myers-Briggs, slave contract for Shadow Weavers
+- **Aemon Game of Thrones** (aemon-game-of-thrones): 1 overview + 20 entries. Aegon Targaryen bastard mercenary "Pale", Mountain's Men, Westeros, Level 5, tannery interrogation arc
+- **Hunting Party - Sariel V2** (hunting-party-sariel-v2): 1 overview + 20 entries. Sariel FBI prodigy, masked Level 9, Cheyenne serial killers, Sterling Dynasty secret lineage, Heat mechanic
+
+Updated wiki/index.md with all source and entry links. Total: 6 overview pages + 104 entry pages created.

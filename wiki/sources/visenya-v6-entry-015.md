@@ -1,26 +1,52 @@
 ---
-title: "Visenya V6 — Entry 015: The Starving Witness"
+title: "Visenya V6 — Scene 015"
 type: source
-tags: [got, campaign, visenya, session, entry-015, causeway, ned-stark, karstark]
-date: 2026-04-08
-source_file: /tmp/campaign_downloads/Visenya V6_JkKR510z.txt
+tags: [campaign, scene, visenya-v6]
+last_updated: 2026-04-12
+scene_number: 15
+scene_total: 154
+source_file: /tmp/campaign_downloads_v2/
 ---
 
-## Summary
-Robb Stark executes a captured Karstark captain — a man who once taught him to string a bow — in front of his father Ned at the Causeway. The atrocity is meant to force Ned's surrender through shock. Instead, it hardens Ned's resolve; the Northmen find a "second wind of desperate, righteous fury." The starvation tactic fails to break Ned, but it demonstrates Robb's complete conversion.
+## Scene 015 Summary
 
-## Key Events
-- **The Causeway**: A frozen, narrow passage through the rotting Neck; Stark army starving, fires guttering, men boiling boot leather
-- **Robb rides out from the Dreadfort lines** in black Shadow Knight cloak, carrying Visenya's Static
-- Ned to Robb: "Robb... what has she done to you? This isn't justice. This is... madness."
-- **Robb's response**: "It is a solved equation, Father. Visenya offers you mercy."
-- **The execution**: A Karstark captain — Robb's former bow-teacher — is dragged into the slush
-- Shadow-Stitch drives through the captain's throat; the psychic terror is "projected outward by the blade until every man on the Causeway feels the phantom weight of their own death"
-- **Unexpected result**: Ned's face "doesn't shatter; it turns to granite" — the atrocity tempered rather than broke the steel
-- **Ned's men find "a second wind of desperate, righteous fury"** — the starvation is still there, but the Stone has found a reason to stay cold
-- **Social Challenge: Eddard Stark** — Status: RESISTING, Social HP: 11/12 — "The execution hardened his resolve"
+============================================================ [Timestamp: 300 AC, 8th Moon 13, 09:15:00 Location: The Wolfswood Status: Lvl 6 Apex Weaver | HP: 45/45 | XP: 15000/23000 | Gold: 10gp Conditions: Disguised (Elyse Celtigar), Regal Grace, Static (Suppressed)] Resources: Spells: L1 4/4, L2 3/3, L3 3/3 | Sadism Dice: 3/4  Game Master: Administrative Selection Confirmed: 'The Heavy Crown'.  The world remains FROZEN and the narrative has NOT advanced. I have performed the following adminis
 
-## Connections
-- [[EddardStark]] — resists; his men's fury is renewed by the atrocity
-- [[RobbStark]] — completely converted; kills his own mentor
-- [[ShadowKnights]] — Visenya's instruments of Northern destruction
+## Key Details
+
+- **Location:** The Wolfswood
+- **Level hint:** 6
+- **Word count:** 212
+- **Campaign:** [[Visenya V6]]
+- **Entry:** [[visenya-v6-entry-015]]
+
+---
+
+## Full Scene Content
+
+============================================================
+[Timestamp: 300 AC, 8th Moon 13, 09:15:00
+Location: The Wolfswood
+Status: Lvl 6 Apex Weaver | HP: 45/45 | XP: 15000/23000 | Gold: 10gp
+Conditions: Disguised (Elyse Celtigar), Regal Grace, Static (Suppressed)]
+Resources: Spells: L1 4/4, L2 3/3, L3 3/3 | Sadism Dice: 3/4
+
+Game Master:
+Administrative Selection Confirmed: 'The Heavy Crown'.
+
+The world remains FROZEN and the narrative has NOT advanced. I have performed the following administrative updates to reflect the selection of this strategic approach:
+
+**Social Challenge Status (Target: Robb Stark):**
+- **Mechanical Resolution**: Choice 'The Heavy Crown' successfully executed via administrative override.
+- **Social HP**: 3 -> 1 (2 points of damage applied based on Apex Weaver proficiency and high success margin).
+- **Success Count**: 4 / 5.
+- **Current Status**: **YIELDING** (Robb's internal resistance to your perspective has reached a critical threshold).
+- **Resistance Indicator**: He turns his face away, his silence confirming the resonance of your words regarding the 'burden of honor' and his father's rigidity.
+- **Cooldown**: Cooldown set to 1 turn.
+
+**Note**: The seed of resentment toward Lord Stark's 'Honorable Wall' has been successfully planted. Return to Story Mode to see the narrative delivery and Robb's verbal response.
+
+God Mode:
+give me some interesting subversion and romance arcs here, brainstorm some without spoilers
+
+============================================================

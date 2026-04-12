@@ -1,34 +1,47 @@
 ---
-title: "Visenya V6 — Entry 003: The Silk Trap"
+title: "Visenya V6 — Scene 003"
 type: source
-tags: [got, campaign, visenya, session, entry-003, winterfell, robb, jon]
-date: 2026-04-08
-source_file: /tmp/campaign_downloads/Visenya V6_JkKR510z.txt
+tags: [campaign, scene, visenya-v6]
+last_updated: 2026-04-12
+scene_number: 3
+scene_total: 154
+source_file: /tmp/campaign_downloads_v2/
 ---
 
-## Summary
-Visenya executes a masterful distraction during a courtyard confrontation: she addresses Jon Snow directly in Ned's presence, highlighting his "Valyrian features" and calling him "an anomaly." Ned's defensive reaction completely overshadows Robb's earlier suspicious behavior, saving the heir while redirecting all suspicion to the bastard.
+## Scene 003 Summary
 
-## Key Events
-- During Ned's questioning about Robb's suspicious behavior, Visenya pivots to Jon Snow
-- She calls Jon the "shadow that holds the shape of the mountain more clearly than the peak"
-- Ned's entire focus shifts to defending Jon's honor; Robb is suddenly and blissfully ignored
-- Catelyn's venom redirects to Jon as well
-- Visenya "stumbles" on ice and presses a silk ribbon from her bodice into Robb's palm
-- The distraction is a **narrative masterpiece** — Ned defends the bastard while the heir's dishonor goes unexamined
-- **Social Challenge: Eddard Stark** — Status: YIELDING, Social HP: 2/8
+============================================================ [Timestamp: 300 AC, 8th Moon, Day 12, 17:00:00 Location: Winterfell Courtyard Status: Lvl 6 Apex Weaver | HP: 45/45 (Temp: 6) | XP: 14,000/23,000 | Gold: 10gp Conditions: Incognito, Masked (Brown Hair)]  Game Master: Administrative change complete. Jon Snow's level has been downgraded to Level 3 to ensure your mechanical superiority as a Level 6 Apex Weaver remains unchallenged by your peers.   Updated NPC Database: - Jon Snow: Level 3
 
-## Character Notes
-- **Robb Stark (Level 2)**: Now carrying physical evidence of his compromise (the silk ribbon)
-- **Jon Snow (Level 3)**: The "anomaly" variable is now a shield protecting Robb's secrets
-- **Ned Stark (Level 12)**: His protective instincts regarding Jon completely blind him to Robb's vulnerability
+## Key Details
 
-## Connections
-- [[RobbStark]] — being isolated and compromised
-- [[JonSnow]] — being weaponized as a distraction
-- [[EddardStark]] — his greatest secret (Jon is a Targaryen) is being used against him
+- **Location:** Winterfell Courtyard
+- **Level hint:** 6
+- **Word count:** 137
+- **Campaign:** [[Visenya V6]]
+- **Entry:** [[visenya-v6-entry-003]]
 
-## Mechanical Notes
-- The "Silk Trap" is now primed: the family is isolated from one another even at the same table
-- Ned's silence is interpreted by Catelyn as coldness; Catelyn's sharpness is seen by Ned as failure of Northern endurance
-- The "Ice Cage" (Winterfell) is becoming a house of glass
+---
+
+## Full Scene Content
+
+============================================================
+[Timestamp: 300 AC, 8th Moon, Day 12, 17:00:00
+Location: Winterfell Courtyard
+Status: Lvl 6 Apex Weaver | HP: 45/45 (Temp: 6) | XP: 14,000/23,000 | Gold: 10gp
+Conditions: Incognito, Masked (Brown Hair)]
+
+Game Master:
+Administrative change complete. Jon Snow's level has been downgraded to Level 3 to ensure your mechanical superiority as a Level 6 Apex Weaver remains unchallenged by your peers. 
+
+Updated NPC Database:
+- Jon Snow: Level 3 (Paladin/Fighter)
+- Robb Stark: Level 2 (Fighter)
+- Sansa Stark: Level 1 (Commoner)
+- Arya Stark: Level 1 (Commoner)
+- Catelyn Stark: Level 4 (Aristocrat)
+- Eddard Stark: Level 12 (Warden of the North)
+
+Player (freeform):
+Narrate a scene. They don't really know who I am but from how I look and carry myself they realize I'm someone of high standing. Narrate their internal thoughts
+
+============================================================

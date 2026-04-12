@@ -1,0 +1,61 @@
+---
+title: "Old Noctune Merc Bg3 — Scene 305"
+type: source
+tags: [campaign, scene, old-noctune-merc-bg3]
+last_updated: 2026-04-12
+scene_number: 305
+scene_total: 315
+source_file: /tmp/campaign_downloads_v2/
+---
+
+## Scene 305 Summary
+
+============================================================ [Timestamp: 1492 DR, Tarsakh 5, 20:10 Location: Chionthar River - The Wyrm's Tooth (The Moonrise Ship) Status: Lvl 8 College of Swords Bard | HP: 52/52 | XP: 39,200/48,000 | Gold: 2000gp Conditions: The Hunger Sated (+2 All Ability Scores), Concentrating on Hypnotic Pattern (2 minutes), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5] Resources: HD: 8/8, Spells: L1 4
+
+## Key Details
+
+- **Location:** Chionthar River - The Wyrm's Tooth (The Moonrise Ship)
+- **Level hint:** 8
+- **Word count:** 423
+- **Campaign:** [[Old Noctune Merc Bg3]]
+- **Entry:** [[old-noctune-merc-bg3-entry-305]]
+
+---
+
+## Full Scene Content
+
+============================================================
+[Timestamp: 1492 DR, Tarsakh 5, 20:10
+Location: Chionthar River - The Wyrm's Tooth (The Moonrise Ship)
+Status: Lvl 8 College of Swords Bard | HP: 52/52 | XP: 39,200/48,000 | Gold: 2000gp
+Conditions: The Hunger Sated (+2 All Ability Scores), Concentrating on Hypnotic Pattern (2 minutes), Attunement to Bracers of Archery (Complete), Limit Break: Omni-Attunement (Active) | Exhaustion: 0 | Inspiration: 5/5]
+Resources: HD: 8/8, Spells: L1 4/4, L2 3/3, L3 2/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 0 day, Lamp Oil: 1, Rags: 2
+Dice Rolls:
+  - Intimidation check (Advantage/Idol): 1d20+14 = 19+14 = 33 (Critical Success vs DC 15)
+
+Game Master:
+You do not grant the True Soul Leader the dignity of a warrior's death. You grant him chains.
+
+"Vesper," you command, your voice cutting through the chaos of the deck. "Bind him."
+
+The assassin moves with a blur of motion, slipping under the Leader's guard as he reels from the psychic assault of your presence. She kicks the back of his knee, driving him to the deck, and snaps heavy iron manacles onto his wrists before he can raise his staff. She shoves a gag of oilcloth into his mouth, silencing his incantations. The violet light in his staff flickers and dies as it rolls across the wood.
+
+You turn your gaze to the remaining active guards—two men backing away from **Gant**, their eyes darting between their fallen captain and the frozen statues of their comrades trapped in your *Hypnotic Pattern*. You step forward, the violet light of the *Hunger* flaring in your eyes, the *Echoes of the Idol* amplifying your voice into a judgment that vibrates in their marrow.
+
+"**Look at him!**" you roar, pointing to the bound and broken True Soul. "Your god is silent! Your leader is a thrall! Drop your steel, or join the dead!"
+
+The will to fight evaporates. The guards drop their scimitars, the metal clattering loudly on the wood. They fall to their knees, hands raised, surrendering to the Shadow Monarch.
+
+The ship is silent. The *Moonrise* vessel, with its cargo of biological weapons, is yours.
+
+**COMBAT RESOLVED: TOTAL VICTORY**
+*   **Leader:** Captured (Bound/Silenced).
+*   **Crew:** 6 Hypnotized, 2 Surrendered (Clean Capture).
+*   **Ship:** Secured intact.
+
+**Nyx** and **Silas** emerge from their positions, joining you on the deck. Vesper hauls the True Soul Leader to his feet, dragging him towards the cargo hold. "Heavy loot, Monarch," she grins, kicking a crate marked with the Absolute's sigil. "And the 'livestock' is below."
+
+God Mode:
+No look at the convo history. We are
+
+============================================================
