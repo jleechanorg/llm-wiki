@@ -1,10 +1,10 @@
 ---
 title: "Alexiel (Assiah Campaign)"
 type: entity
-tags: [character, player-character, assiah, alexiel-assiah, defector]
+tags: [character, player-character, assiah, alexiel-assiah, defector, early-career]
 last_updated: 2026-04-12
 sources: [alexiel-assiah-campaign]
-campaign_note: "**NOT the same as [[Alexiel Arcanus]]** — different character, different timeline. Alexiel Arcanus (Sariel V2) is the Mortal Queen who died at Battle of Sacrifice Fields. This Alexiel is a separate character (also named Alexiel) who is Lucifer's biological construct-daughter and defected from the Unchained Host in Year 78 DR."
+campaign_note: "**Same character as [[Alexiel Arcanus]], different narrative period.** Early career (Year 61-78 DR) — the Prodigal Sword of the Unchained Host before defecting. [[Alexiel Arcanus]] covers her later life as Alexiel Arcanus, Mortal Queen of House Arcanus, mother of Sariel."
 ---
 
 ## Overview
