@@ -1,9 +1,10 @@
 ---
 title: "Nocturne"
 type: entity
-tags: [character, tyranny, tiers, bard, fatebinder, player]
+tags: [character, player-character, shared-name, tyranny]
 sources: [tyranny-campaign, tyranny-entry-002]
 last_updated: 2026-04-12
+campaign_note: "**SHARED NAME — many unrelated Nocturne variants.** This page is the canonical Tyranny character. Other Nocturne variants (completely different characters): BG3 V3/V4/V5/V7, BG1, BG3 After, Apex Paladin, Post BG3 Zhentarim, Old Republic (SWTOR). This wiki has separate pages for each variant."
 ---
 
 ## Profile
@@ -36,6 +37,24 @@ Cold, administrative evil. Tywin Lannister + Aizen Sosuke hybrid. Intellectualiz
 - **The "Hogyoku" Complex:** Must be useful/essential. Weaponized belief that friendship without utility signals parasitism.
 - **The "Itachi" Experiment:** Clinical urge to stress-test raw talents like Verse—cruel mentorship designed to create dependency.
 - **The Refactoring of Reality:** Seeks forbidden knowledge to "patch" Terratus—viewing the world as "full of bad code."
+
+## Nocturne Variant Pattern
+
+Many campaigns use a "Nocturne" character sharing the **Two-Masks/Snake-Eyes archetype** — a brilliant, manipulative INTJ with dual personalities. Key shared traits:
+
+- **Personality mashup:** Tywin Lannister + Aizen Sosuke + Johan Liebert + Griffith
+- **Two perfect masks:** Social persona (soft, essential) + Crisis persona (cold, administrative)
+- **Core drive:** Must be useful/essential; views relationships through utility lens
+- **Background:** Often orphaned/sold/exploited, uses grime as disguise to hide beauty
+
+**Other Nocturne variants in this wiki:**
+- [[Nocturne BG3 V7]] — Divine Scion/Siren, Arch-Druid of Shadow Grove
+- [[Nocturne BG3 V3]] — shares Nautiloid crash + companion mechanics
+- [[Nocturne BG3 After]] — Brothel setting, prostitute origin
+- [[Nocturne BG1]] — BG1 prologue variant
+- [[Nocturne Apex Paladin]] — Apex Paladin class
+- [[Nocturne Post BG3 Zhent]] — Zhentarim storyline
+- [[Nocturne Old Republic]] — SWTOR setting
 
 ## Connections
 

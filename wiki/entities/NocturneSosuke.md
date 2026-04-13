@@ -1,9 +1,10 @@
 ---
 title: "Nocturne Sosuke"
 type: entity
-tags: [baldurs-gate-3, nocturne, bard, college-of-perdition, abyss-siren]
+tags: [baldurs-gate-3, nocturne, bard, college-of-perdition, abyss-siren, shared-name]
 sources: [nocrune-bg3-v6, nocturne-bg3-v4, nocturne-bg3-v5, nocturne-bg3-v5-fixed-v2, nocturne-bg3-v5-succubus, nocturne-bg3-v6-bug-repro-test]
 last_updated: 2026-04-12
+campaign_note: "**SHARED NAME with Nocturne (Tyranny).** Nocturne Sosuke is the BG3 version — completely unrelated to the Tyranny Fatebinder. Shares the archetype: brilliant manipulative INTJ with hidden beauty, but different campaign world. See [[Nocturne]] for the canonical Tyranny character."
 ---
 
 ## Overview

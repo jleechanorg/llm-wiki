@@ -1,9 +1,10 @@
 ---
 title: "Nocturne BG3 V7"
 type: entity
-tags: [entity, character, player-character, divine-scion, arch-druid]
+tags: [character, player-character, divine-scion, arch-druid, baldurs-gate, shared-name]
 sources: [nocturne-bg3-v7]
 last_updated: 2026-04-12
+campaign_note: "**SHARED NAME — many unrelated Nocturne variants.** BG3 V7 is one of many Nocturne characters across campaigns. Other variants include: Nocturne (Tyranny/Fatebinder), Nocturne BG1 (prostitute origin), Nocturne BG3 After (brothel), Nocturne BG3 V3/V4/V5 (explorer/classes), Nocturne Apex Paladin, Nocturne Post BG3 Zhent, Nocturne Old Republic (SWTOR). See [[Nocturne]] for the canonical Tyranny character."
 ---
 
 ## Overview
