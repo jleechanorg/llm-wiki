@@ -25,8 +25,8 @@ Arion's warhorse is named Cinder. His story begins at Ashwood Keep, on the edge 
 ## Key NPCs / Companions
 - **Lady Annalise Ashwood** — Sheltered refugees in defiance of Stability Mandate
 - **Prefect Gratian** — Clinical commander who wants to pacify Ashwood Keep
-- **Empress Sariel** — The absolute ruler (Alexiel's daughter, established Silent Throne)
-- **Alexiel** — Daughter of Lucifer, brokered peace through sacrifice
+- **Empress Sariel** — The absolute ruler. She IS [[Sariel Arcanus]] from the Sariel V2 campaign — the same character, ~40 years later, after growing from grieving teenager into a psychic autocrat who established the Silent Peace through the "War of Whispers"
+- **Alexiel** — Daughter of Lucifer, brokered peace through sacrifice (same Alexiel who died at Battle of Sacrifice Fields in Sariel V2 — this campaign is set ~40 years after that)
 
 ## Factions / Organizations
 - **Argent Eaglets** — Knight order Arion belongs to

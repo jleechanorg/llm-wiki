@@ -7,6 +7,10 @@ last_updated: 2026-04-12
 
 The Silent Peace is the name given to Empress Sariel's rule over Assiah—a political system maintained through psychic dominance rather than military force. After the Celestial Wars, Sariel secured the throne not through blades but through the "crushing weight" of her mind.
 
+**Important — Same Character:** Empress Sariel is the future version of [[Sariel Arcanus]] (daughter of Alexiel, age 15 in the Sariel V2 campaign). After decades following her mother's sacrifice, the grieving scholar grows into a psychic autocrat who establishes the Silent Peace through the "War of Whispers."
+
+The regime justifies its harsh logic through results: millions live in peace because the few are sacrificed. Her daughter is [[Alexiel]], suggesting the psychic power is hereditary.
+
 ## Political Mechanics
 
 The Silent Peace operates on a simple premise: total suppression of dissent is necessary for prosperity. The Empress uses her psychic abilities to identify and eliminate threats before they materialize. This creates a society where:
