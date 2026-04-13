@@ -6,7 +6,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 ## Sources
+- [BG1 Nocturne Campaign](sources/bg1-nocturne-campaign.md) — Dark adventure: Nocturne the Serpent Queen, Gloom Stalker Ranger, Candlekeep to Baldur's Gate, Iron Crisis
+- [BG1 Nocturne Continued Campaign](sources/bg1-nocturne-continued-campaign.md) — Level 5 Nocturne in Baldur's Gate, doppelganger conspiracy, Sarevok threat
+- [BG3 Astarion Campaign](sources/bg3-astarion-campaign.md) — Astarion Ancunín, Vampire Spawn, escape from Nautiloid, freedom from Cazador
+- [Daemon Conquers Campaign](sources/daemon-conquers-campaign.md) — Evil knight, brute-strength, aiming for kingship in a land of dragons
+- [Doberman Campaign](sources/doberman-campaign.md) — Sariel, College of Swords Bard, corporate intrigue in Seoul, K-drama adaptation
+- [Dragon Knight Evil Campaign](sources/dragon-knight-evil-campaign.md) — Ser Arion val Valerion, Paladin, Silent Peace morality crisis
 - [Nocturne BG3 V4 Campaign](sources/nocturne-bg3-v4.md) — Nocturne Sosuke, D&D 5e noir psychological horror, marriage long-con, Cassalanter revenge, BG3 companion integration (20 entries)
+- [Nocturne BG3 V4 Campaign Overview](sources/nocturne-bg3-v4-campaign.md) — V4 campaign summary with locations, factions, concepts
 - [Nocturne BG3 V4 — Entry 001](sources/nocturne-bg3-v4-entry-001.md) through [Nocturne BG3 V4 — Entry 020](sources/nocturne-bg3-v4-entry-020.md) — Individual scene entries 001-020
 - [Visenya V1: Dunk and Egg Campaign](sources/visenya-v1-dunk-and-egg.md) — Female Targaryen princess "Egg" + Ser Duncan the Tall, D&D 5e, Ashford Tourney, character creation (20 entries)
 - [Visenya V1: Dunk and Egg — Entry 001](sources/visenya-v1-dunk-and-egg-entry-001.md) through [Visenya V1: Dunk and Egg — Entry 020](sources/visenya-v1-dunk-and-egg-entry-020.md) — Individual scene entries 001-020
@@ -15,6 +22,11 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nocturne Post BG3: Zhentarim Campaign](sources/nocturne-post-bg3-zhent.md) — Nocturne the Silent Blade, Level 5 Ranger, Ironhead Legion extermination, Black Basin weapons (20 entries)
 - [Nocturne Post BG3 — Entry 001](sources/nocturne-post-bg3-zhent-entry-001.md) through [Nocturne Post BG3 — Entry 020](sources/nocturne-post-bg3-zhent-entry-020.md) — Individual scene entries 001-020
 - [Nocturne BG3 V5 Campaign](sources/nocturne-bg3-v5.md) — Nocturne on Nautiloid crash beach with Shadowheart, Malcanthet contract, Level 2 Bard, GotM integration (20 entries)
+- [Nocturne BG3 V5 Campaign Overview](sources/nocturne-bg3-v5-campaign.md) — V5 campaign with brothel revenge plot
+- [Nocturne BG3 V5 Fixed V2 Campaign](sources/nocturne-bg3-v5-fixed-v2-campaign.md) — V5 fixed variant with Githyanki shipwreck, 925 scenes
+- [Nocturne BG3 V5 Succubus Campaign](sources/nocturne-bg3-v5-succubus-campaign.md) — Nocturne with Malcanthet patron, survival horror, 278 scenes
+- [Nocturne BG3 V5 Succubus Copy Campaign](sources/nocturne-bg3-v5-succubus-copy-campaign.md) — Variant copy of V5 Succubus campaign
+- [Sariel Killer Campaign](sources/sariel-killer-campaign.md) — Sariel, Dark Psychological Thriller
 - [Nocturne BG3 V5 — Entry 001](sources/nocturne-bg3-v5-entry-001.md) through [Nocturne BG3 V5 — Entry 020](sources/nocturne-bg3-v5-entry-020.md) — Individual scene entries 001-020
 - [Nocturne BG3 v5 Succubus Fixed Copy Campaign](sources/nocturne-bg3-v5-succubus-fixed-copy-campaign.md) — Nocturne Sosuke, Survival Horror, Gothic Noir, Infernal Politics
 - [Nocturne BG3 v5 Succubus Fixed v1 Campaign](sources/nocturne-bg3-v5-succubus-fixed-v1-campaign.md) — Nocturne Sosuke, Survival Horror, Gothic Noir, Infernal Politics
@@ -38,6 +50,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Aizen Thay V1 — Entry 001](sources/aizen-thay-v1-entry-001.md) through [Aizen Thay V1 — Entry 020](sources/aizen-thay-v1-entry-020.md) — Individual scene entries 001-020
 - [Nocturne BG3 V6: Bug-Repro-Test Campaign](sources/nocturne-bg3-v6-bug-repro-test.md) — D&D 5e survival horror: Nocturne Sosuke trapped in goblin camp as "True Soul", Emerald Grove infiltration, Minthara manipulation (20 entries)
 - [Nocturne BG3 V6: Bug-Repro-Test — Entry 001](sources/nocturne-bg3-v6-bug-repro-test-entry-001.md) through [Nocturne BG3 V6: Bug-Repro-Test — Entry 020](sources/nocturne-bg3-v6-bug-repro-test-entry-020.md) — Individual scene entries 001-020
+- [Nocrune BG3 V6 Campaign](sources/nocrune-bg3-v6-campaign.md) — Nocturne Sosuke, Level 5 Bard, Abyssal Siren, "Nerf" narrative, Shattered Sanctum
+- [Noctune BG3 V6 Campaign](sources/noctune-bg3-v6-campaign.md) — Nocturne Sosuke "Black Diamond", Level 5 Abyssal Siren, Velvet Cage narrative
+- [Nocturne BG3 V6 Bug-Repro-Test Campaign](sources/nocturne-bg3-v6-bug-repro-test-campaign.md) — SYSTEM RESTORE testing, character verification
+- [Nocturne BG3 Continued Campaign](sources/nocturne-bg3-continued-campaign.md) — Shadow Monarch, Level 8 Bard College of Swords, Omni-Attunement, The Hunger
+- [Nocturne Apex Paladin Campaign](sources/nocturne-apex-paladin-campaign.md) — Nocturne Paladin, Destiny ruleset, House Valerius, post-absolute Baldur's Gate
+- [Nocturne BG3 After Campaign](sources/nocturne-bg3-after-campaign.md) — Nocturne Bard College of Eloquence, fallen noble house, The Bloom & Shadow
+- [Faction Nocturne BG3 V3 Campaign](sources/faction-nocturne-bg3-v3-campaign.md) — Nocturne Level 9 Bard (College of Perdition), Baldur's Gate 1492 DR, hijacked Cassalanter soul-tithe, proxy of Avernus
+- [Gaia Julia V2 Campaign](sources/gaia-julia-v2-campaign.md) — Gaia Julia Caesar Level 12 Imperator (Gestalt Paladin/Sorcerer), 82 BCE Roman Republic, 70% Rule Julian dominance, political manipulation
 - [Michele Fried Chicken — Entry 005](sources/michele-fried-chicken-005.md) — SCENE 5: Finding suppliers, meeting Marcus
 - [Michele Fried Chicken — Entry 006](sources/michele-fried-chicken-006.md) — SCENE 6: Hiring crew - Sarah, Taco, Kim
 - [Michele Fried Chicken — Entry 007](sources/michele-fried-chicken-007.md) — SCENE 7: BOGO strategy, Shift opposition
@@ -76,6 +96,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Michele Fried Chicken — Entry 040](sources/michele-fried-chicken-040.md) — SCENE 40: Deputy Mayor Arthur Lawson arrives
 - [Michele Fried Chicken — Entry 041](sources/michele-fried-chicken-041.md) — SCENE 41: City partnership presentation under pressure
 - [Michele Fried Chicken — Entry 042](sources/michele-fried-chicken-042.md) — SCENE 42: Operational scaling challenges revealed
+- [Sariel V2 Campaign](sources/sariel-v2-campaign.md) — World of Assiah, Sariel Arcanus (15yo daughter of Alexiel), nullification field, imperium politics, grief-driven mystery (252 entries)
+- [Shadow Heart Campaign](sources/shadow-heart-campaign.md) — Baldur's Gate 3 continuation, Shadowheart (Chosen of Shar, custom Death Cleric L12), Extra Attack + Soul Harvest (49 entries)
+- [Spartacus Tiberius Campaign](sources/spartacus-tiberius-campaign.md) — Historical Roman D&D 5e, Tiberius (son of Crassus, Modified Paladin), Spartacus rebellion, low-magic realism (79 entries)
+- [Tyranny Campaign](sources/tyranny-campaign.md) — Obsidian Tyranny setting, Nocturne (Fatebinder Bard L16), College of Swords, optimization pathology (291 entries)
+- [Undertale Campaign](sources/undertale-campaign.md) — Undertale D&D 5e adaptation, Frisk (Determination Adept), Mercy/Kill paths, Underground exploration (145 entries)
+- [Visenya V1 Dunk and Egg Campaign](sources/visenya-v1-dunk-and-egg-campaign.md) — Westeros D&D 5e, Visenya (female Egg, Dragon Scholar, Targaryen princess), Ser Duncan the Tall (1065 entries)
 
 ## Campaign Ingests (Batch D)
 
@@ -112,6 +138,36 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Visenya V5 — Entry 001](sources/visenya-v5-entry-001.md) through [Visenya V5 — Entry 020](sources/visenya-v5-entry-020.md) — Individual scene entries 001-020
 - [Sariel V2 Campaign](sources/sariel-v2.md) — Sariel Arcanus, World of Assiah, Alexiel's daughter, Mirror Magic, Quiet Ward infiltration (20 entries)
 - [Sariel V2 — Entry 001](sources/sariel-v2-entry-001.md) through [Sariel V2 — Entry 020](sources/sariel-v2-entry-020.md) — Individual scene entries 001-020
+- [Nocturne BG3 V7 Campaign](sources/nocturne-bg3-v7-campaign.md) — Post-campaign, Shadow Grove Arch-Druid, Divine Scion/Siren
+- [Nocturne Old Republic Campaign](sources/nocturne-old-republic-campaign.md) — Star Wars TOR AU, Sith Prodigy, Essence Devourer
+- [Nocturne Post BG3 Zhent Campaign](sources/nocturne-post-bg3-zhent-campaign.md) — Post-war noir, Zhentarim expansion
+- [Old Nocturne Merc BG3 Campaign](sources/old-nocturne-merc-bg3-campaign.md) — Noir mercenary, Serpent-King, Guild contract
+- [Rome Pax Julia Campaign](sources/rome-pax-julia-campaign.md) — Alternate Roman history, Imperator, Fated Miasma
+- [Sariel Assiah Campaign](sources/sariel-assiah-campaign.md) — Fantasy academy, House Arcanus
+
+## Campaign Ingests (Batch F)
+
+- [Aemon Game Of Thrones Campaign](sources/aemon-game-of-thrones-campaign.md) — Aegon Targaryen, secret heir, Mountain's Men, Westeros, 211 scenes
+- [Aizen Bg3 Campaign](sources/aizen-bg3-campaign.md) — Sosuke Aizen, Level 4 Wizard, White Garden noir, Baldur's Gate post-Absolute (596 scenes)
+- [Aizen Bg3 V2 Campaign](sources/aizen-bg3-v2-campaign.md) — Sosuke Aizen, Level 4 Bard, expanded network, Lirael Voss corruption (468 scenes)
+- [Aizen Godhood Continued Campaign](sources/aizen-godhood-continued-campaign.md) — Aizen as The Absolute, Cosmic Throne, Mystra villain (78 scenes)
+- [Aizen Thay V1 Campaign](sources/aizen-thay-v1-campaign.md) — Aizen Vane, Abyss Knight, Thay soul-harvest, Black Company (129 scenes)
+- [Alexiel Assiah Campaign](sources/alexiel-assiah-campaign.md) — Alexiel, Level 6 Gestalt, Unchained Host defector, Assiah Year 78 (437 scenes)
+- [Gaia Julia V6 Campaign](sources/gaia-julia-v6-campaign.md) — Gaia Julia Caesar, 12yo Bard, Miasma divine blood, Praetorian Hand, Spartacus revolt (140 scenes)
+- [Hunting Party Sariel Campaign](sources/hunting-party-sariel-campaign.md) — Sariel, 22yo Gloomstalker Ranger, Blood Dragon identity, Neon Dragon Casino, FBI serial killer hunt (141 scenes)
+- [Hunting Party Sariel V2 Campaign](sources/hunting-party-sariel-v2-campaign.md) — Sariel, 16yo FBI prodigy vigilante, Cheyenne The Pit, 100 kills (204 scenes)
+- [Itachi Evil Campaign 2](sources/itachi-evil-campaign-2-campaign.md) — Itachi Uchiha, 13yo evil, Uchiha massacre, Sharingan/Mangekyō, Ninja class, Destiny ruleset (527 scenes)
+- [Luke V2 Campaign](sources/luke-v2-campaign.md) — Luke Skywalker, custom Force-User class, Light/Dark alignment, Star Wars/Baldur's Gate crossover (133 scenes)
+- [Merc Solo Brute Gladius Campaign](sources/merc-solo-brute-gladius-campaign.md) — Gladius, Level 5 Apex Paladin, The Hammer, House Al'Veri, post-BG3 Baldur's Gate (110 scenes)
+
+## Campaign Ingests (Batch G)
+
+- [Alexiel Assiah V2 Campaign Overview](sources/alexiel-assiah-v2-campaign.md) — Alexiel, gestalt Fighter/Sorcerer, daughter of Lucifer, Null powers, fractured Assiah world (437 scenes)
+- [Arthur Dayne Campaign Overview](sources/arthur-dayne-campaign.md) — Ser Arthur Dayne, Sword of the Morning, Level 20 Fighter/Paladin, Tower of Joy, Game of Thrones (140 scenes)
+- [Astarion Ascended Campaign Overview](sources/astarion-ascended-campaign.md) — Astarion, ascended vampire, Level 12, post-BG3 Baldur's Gate power consolidation (151 scenes)
+- [Aurelius Caesar V2 Campaign Overview](sources/aurelius-caesar-v2-campaign.md) — Aurelius, Level 5 Paladin Oath of Sovereignty, anti-slavery, 40 BCE Roman Empire (283 scenes)
+- [Aurelius Caesar V3 Campaign Overview](sources/aurelius-caesar-v3-campaign.md) — Aurelius, Level 6 Bard College of Swords, divergent timeline, hidden divine bloodline (108 scenes)
+- [Aurelius Julius Caesar V1 Campaign Overview](sources/aurelius-julius-caesar-v1-campaign.md) — Aurelius, Level 5 Paladin Oath of Domination, INT 18 CHA 18, Northern Hispania (490 scenes)
 
 ## Campaign Ingests (Prior Batches)
 
@@ -5459,6 +5515,135 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [RewardsBoxBuilder](entities/RewardsBoxBuilder.md) — mvp_site/rewards/builder.py; normalize_rewards_box_for_ui with has_visible_content sentinel; affected by PR #6193 and #6195
 - [Austin Wang](entities/AustinWang.md) — Co-creator of [[CMUX]], native Swift/AppKit terminal for AI-agent workflows
 - [Shadow](entities/Shadow.md) — Lvl 3 Rogue player character with HP 22/28, XP 2500/6000, 75gp — referenced in think mode tests
+- [Aegon Targaryen](entities/AegonTargaryen.md) — Player character, secret Targaryen heir, Level 5 Gloomstalker, Mountain's Men mercenary
+- [Gregor's Mountain's Men](entities/GregorsMountainMen.md) — Mercenary company led by The Mountain, evil missions
+- [Ser Gregor Clegane](entities/SerGregorClegane.md) — "The Mountain," ruthless commander of mercenary company
+- [Westeros](entities/Westeros.md) — Continent setting for Game of Thrones campaigns
+- [Westerlands](entities/Westerlands.md) — Western region of Westeros, Mountain's Warcamp location
+- [Sosuke Aizen](entities/SosukeAizen.md) — Teen prodigy mastermind, runs White Garden, controls House Sosuke
+- [The White Garden](entities/TheWhiteGarden.md) — Elite brothel front for secret harvesting operations, Baldur's Gate
+- [Baldur's Gate](entities/BaldursGate.md) — City setting, post-Absolute power vacuum
+- [House Sosuke](entities/HouseSosuke.md) — Noble house in Baldur's Gate, Kaito public, Aizen true leader
+- [Lord Kaito](entities/LordKaito.md) — Public head of House Sosuke, father of Aizen
+- [Lirael Voss](entities/LiraelVoss.md) — Shipwright heiress, target of Aizen's corruption in V2
+- [Mystra](entities/Mystra.md) — Goddess of Magic, new villain in Godhood Continued
+- [Aizen Vane](entities/AizenVane.md) — Player character in Thay campaign, Abyss Knight, Genetic Echo of Nocturne Sosuke
+- [Alexiel (Assiah)](entities/AlexielAssiah.md) — Player character, Level 6 Gestalt, defected from Unchained Host
+- [Lucifer (Assiah)](entities/LuciferAssiah.md) — Leader of Unchained Host, created Alexiel as ultimate weapon
+- [Celestial Imperium (Assiah)](entities/CelestialImperiumAssiah.md) — Eastern divine empire ruled by Lord Regent Raziel
+- [Lord Regent Raziel](entities/LordRegentRaziel.md) — Ancient ruler of Celestial Imperium from Aeterna
+- [Fortress Vigil](entities/FortressVigil.md) — Imperial fortress at Dragon's Tooth Foothills, Alexiel nearby
+- [Gaia Julia Caesar](entities/GaiaJuliaCaesar.md) — 12yo Bard, Miasma divine blood, Praetorian Hand charge
+- [Sariel](entities/Sariel.md) — Gloomstalker Ranger, Blood Dragon identity, FBI/Hunting Party campaigns
+- [Sariel (Doberman)](entities/SarielDoberman.md) — College of Swords Bard, chaebol heiress in Seoul
+- [Nocturne Sosuke](entities/NocturneSosuke.md) — Protagonist across Nocturne BG3 campaigns, Level 1-6 Bard (College of Perdition/Abyssal Siren)
+- [Bloom Shadow](entities/BloomShadow.md) — Upper City brothel in Baldur's Gate, primary setting in V4
+- [Ravaged Beach](entities/RavagedBeach.md) — Nautiloid crash site, starting location in V5-V6
+- [Gralhund Villa](entities/GralhundVilla.md) — Cassalanter Family mansion, target of infiltration
+- [Emerald Grove](entities/EmeraldGrove.md) — Druid sacred site, destination after Nautiloid crash
+- [Goblin Camp](entities/GoblinCamp.md) — Absolute goblin forces base, Nocturne held as "True Soul" in V6
+- [Shattered Sanctum](entities/ShatteredSanctum.md) — Ruined druidic temple, Minthara's War Room location
+- [Cassalanter Family](entities/CassalanterFamily.md) — Antagonist faction, infernal pact with Zariel, soul coin traders
+- [The Absolute](entities/TheAbsolute.md) — Cult, tadpole source, goblin True Souls
+- [Horgus Gwent](entities/HorgusGwent.md) — Noble client, catalyst for V4 revenge plot
+- [Gwent Manor](entities/GwentManor.md) — Gwent family estate in Upper City
+- [Sovereign Citadel (Avernus)](entities/SovereignCitadelAvernus.md) — Fortress in Avernus, Zariel's stronghold
+- [Basilisk Gate](entities/BasiliskGate.md) — Major entrance to Baldur's Gate
+- [Malcanthet](entities/Malcanthet.md) — Queen of Succubi, patron in succubus variants
+- [Malcanthet's Domain](entities/MalcanthetsDomain.md) — Realm in the Abyss
+- [Malcanthet's Court](entities/MalcanthetsCourt.md) — Demonic court of the Queen of Succubi
+- [Emerald Grove Druids](entities/EmeraldGroveDruids.md) — Druid faction protecting the Grove
+- [Githyanki Raiders](entities/GithyankiRaiders.md) — Githyanki pirates who operated the Nautiloid
+- [Chionthar River](entities/ChiontharRiver.md) — Major waterway near Ravaged Beach, Nautiloid crashed across it
+- [Garl](entities/Garl.md) — Half-orc tavern keeper, early game contact in V5 beach survival
+- [Zevlor](entities/Zevlor.md) — Druid leader at Emerald Grove gates, V6 intelligence source
+- [Kagha](entities/Kagha.md) — Shadow Druid leader, controls Inner Sanctum, in contact with Olodan
+- [True Souls](entities/TrueSouls.md) — Absolute-affiliated goblin warriors
+- [Shadow Druids](entities/ShadowDruids.md) — Radical druid faction
+- [Absolute War Band](entities/AbsoluteWarBand.md) — Military force of the Absolute
+- [Nocturne](entities/Nocturne.md) — Gloom Stalker Ranger, Serpent Queen, bg1-nocturne campaign
+- [Astarion Ancunín](entities/AstarionAncunin.md) — Vampire Spawn, Ranger, BG3 campaign
+- [Ser Arion val Valerion](entities/SerArionValerion.md) — 16yo Paladin, Argent Eaglets
+- [Daemon](entities/Daemon.md) — Evil knight, brute-strength
+- [Candlekeep](entities/Candlekeep.md) — Fortress-library, Nocturne's raising
+- [Seven Suns Coster](entities/SevenSunsCoster.md) — Merchant company in Baldur's Gate
+- [Seoul](entities/Seoul.md) — Location for doberman campaign
+- [Ashwood Keep](entities/AshwoodKeep.md) — Fortress in Winter-Mourn
+- [Winter-Mourn Province](entities/WinterMourn.md) — Province in Assiah
+- [Nautiloid](entities/Nautiloid.md) — Mind flayer ship, BG3 starting point
+- [IM Defense](entities/IMDefense.md) — Corporation in Seoul
+- [Silent Throne](entities/SilentThrone.md) — Government of Empress Sariel
+- [Itachi Uchiha](entities/ItachiUchiha.md) — 13yo evil Uchiha
+- [Luke Skywalker](entities/LukeSkywalker.md) — Custom Force-User, Light/Dark alignment, Star Wars/BG crossover
+- [Gladius](entities/Gladius.md) — Level 5 Apex Paladin, The Hammer, House Al'Veri disowned scion
+- [Capua](entities/Capua.md) — Roman city, Spartacus revolt location, campaign starting point
+- [Praetorian Hand](entities/PraetorianHand.md) — Elite Roman guards (Valerius, Felix, Titus, Cassius, Brutus)
+- [Neon Dragon Casino](entities/NeonDragonCasino.md) — Modern-noir casino, Sariel's employment
+- [Cheyenne](entities/Cheyenne.md) — Wyoming city, The Pit location, Sariel V2 setting
+- [The Pit](entities/ThePit.md) — Post-explosion tactical chaos zone, vigilante operations
+- [Uchiha Compound](entities/UchihaCompound.md) — Uchiha clan residential district, massacre location
+- [Konohagakure](entities/Konohagakure.md) — Hidden Leaf Village, Itachi's home and manipulation target
+- [Elfsong Tavern](entities/ElfsongTavern.md) — Starting location, Lower City Baldur's Gate
+- [Council of Four](entities/CouncilOfFour.md) — Post-BG3 reforming government faction
+- [Flaming Fist Mercenary Company](entities/FlamingFist.md) — Major mercenary organization, restructuring
+- [Uchiha Clan](entities/UchihaClan.md) — Target of Itachi's genocide, Sharingan bloodline
+- [Prefect Gratian](entities/PrefectGratian.md) — Masked enforcer of Silent Peace, commands Argent Eaglets
+- [Lady Annalise Ashwood](entities/LadyAnnaliseAshwood.md) — March Lord defying Stability Mandate, shelters refugees
+- [Refugee Camp (Winter-Mourn)](entities/RefugeeCampWinterMourn.md) — Displaced people marked for dispersal under Silent Peace
+- [Sunder-Stone Villa](entities/SunderStoneVilla.md) — Former Cassalanter manor claimed by Nocturne
+- [Vaximus](entities/Vaximus.md) — Nocturne's henchman, retrieves ledgers and soul coins
+- [Elara](entities/Elara.md) — Nocturne's 18yo sister, rescued from soul-tithe
+- [Lyra](entities/Lyra.md) — Nocturne's 14yo sister, rescued from soul-tithe
+- [Voros](entities/Voros.md) — Gaia's companion in V2 campaign
+- [Cinnaminus](entities/Cinnaminus.md) — Gaia's companion in V2 campaign
+- [Lotus Ten](entities/LotusTen.md) — Fanatical cult devoted to Gaia Julia Caesar
+- [Crixus](entities/Crixus.md) — Brutal rebel commander in Third Servile War
+- [Nocturne Sosuke](entities/NocturneSosuke.md) — Level 5 Bard, College of the Abyssal Siren
+- [Nocturne Sosuke (Noctune)](entities/NocturneSosukeNoctune.md) — Level 5 Bard, "Black Diamond", Abyssal Siren, different campaign variant
+- [Nocturne Sosuke (Bug Repro)](entities/NocturneSosukeBugRepro.md) — Same character, used for SYSTEM RESTORE testing
+- [Nocturne (BG3 After)](entities/NocturneBg3After.md) — Level 1 Bard, College of Eloquence, fallen noble, different character
+- [Nocturne BG3 V7](entities/NocturneBg3V7.md) — Level 5 Divine Scion/Siren, Arch-Druid of Shadow Grove
+- [Nocturne Old Republic](entities/NocturneOldRepublic.md) — Level 1-6 Sith Prodigy, Siren of House Vitiate
+- [Nocturne Post BG3 Zhent](entities/NocturnePostBg3Zhent.md) — Level 5 Ranger, Elfsong Penthouse base
+- [Old Nocturne Merc BG3](entities/OldNocturneMercBg3.md) — Level 6 College of Swords Bard, Serpent-King
+- [Gaia Julia Caesar](entities/GaiaJuliaCaesar.md) — Level 1 Imperator, "Wolf at the Feast", divine parasite (multiple iterations)
+- [Sariel Arcanus](entities/SarielArcanus.md) — Level 1 Wizard, "Quiet Prodigy", Keeper of Secret (multiple iterations)
+- [Shadow Grove](entities/ShadowGrove.md) — Formerly Emerald Grove, Nocturne's domain
+- [The Crimson Kiss](entities/TheCrimsonKiss.md) — Emerging cult centered on Nocturne
+- [Citadel of Storms](entities/CitadelOfStorms.md) — Emperor Vitiate's fortress, Dromund Kaas
+- [House Vitiate](entities/HouseVitiate.md) — Ruling Sith noble house
+- [The Guild](entities/TheGuild.md) — Baldur's Gate criminal organization
+- [Smirking Boar](entities/SmirkingBoar.md) — Tavern, Guild operations base
+- [Smiley Arvax](entities/SmileyArvax.md) — Guild lieutenant contact
+- [Zarys](entities/Zarys.md) — Zhentarim contact
+- [Nocturne Apex Paladin](entities/NocturneApexPaladin.md) — Level 5 Paladin, Destiny ruleset, House Valerius exile
+- [Shadow Monarch](entities/ShadowMonarch.md) — Level 8 Bard College of Swords, Neutral Evil, Omni-Attunement, The Hunger
+- [Shattered Sanctum](entities/ShatteredSanctum.md) — Ruined druidic temple, goblin camp headquarters, Minthara's War Room
+- [Minthara](entities/Minthara.md) — Drow Paladin commander, Social HP 30, goblin camp leader
+- [Bloom Shadow](entities/BloomShadow.md) — Upper City brothel, Madam Zylra's establishment
+- [The Bloom & Shadow](entities/TheBloomAndShadow.md) — Lower City establishment, where fallen nobles are sold
+- [Moonrise Ship](entities/MoonriseShip.md) — Captured cog at Wyrm's Tooth, Shadow Monarch's prize
+- [House Valerius](entities/HouseValerius.md) — Noble house, coiled serpent/rose sigil, Nocturne's family
+- [House Nocturne](entities/HouseNocturne.md) — Fallen noble house, destroyed during Absolute crisis
+- [Shadow Empire](entities/ShadowEmpire.md) — Shadow Monarch's criminal empire: Shadow Bank, House Umbrage, Black Lotus
+
+## Batch G Campaign Entities
+
+- [Alexiel](entities/Alexiel.md) — Alexiel, The Mortal Star, Level 6 gestalt Fighter/Sorcerer, daughter of Lucifer, Null powers
+- [Arthur Dayne](entities/ArthurDayne.md) — Ser Arthur Dayne, Sword of the Morning, Level 20 Fighter/Paladin, wields Dawn
+- [Astarion](entities/Astarion.md) — Ascended vampire, Level 12, post-BG3 power consolidation in Baldur's Gate
+- [Aurelius V2](entities/AureliusJuliaCaesarV2.md) — Level 5 Paladin Oath of Sovereignty, anti-slavery, 40 BCE Rome
+- [Aurelius V3](entities/AureliusJuliusCaesarV3.md) — Level 6 Bard College of Swords, hidden divine bloodline, 71 BCE
+- [Aurelius V1](entities/AureliusJuliusCaesarV1.md) — Level 5 Paladin Oath of Domination, INT 18 CHA 18, Northern Hispania
+- [Dawn](entities/Dawn.md) — Legendary greatsword +5, radiant and force damage, House Dayne heirloom
+- [Tower of Joy](entities/TowerOfJoy.md) — Legendary location in Red Mountains of Dorne
+- [Spartacus](entities/Spartacus.md) — Thracian rebel leader, commands slave army in Roman campaign
+- [Spartacus Rebels](entities/SpartacusRebels.md) — Faction of escaped slaves led by Spartacus
+- [Legio IX Hispana](entities/LegioIXHispana.md) — Roman legion stationed in Northern Hispania
+- [Northern Hispania](entities/NorthernHispania.md) — Region setting for Aurelius V1 campaign
+- [Veritas](entities/Veritas.md) — +1 Damascus Gladius wielded by Aurelius V1
+- [Capua V3](entities/CapuaV3.md) — Roman city setting for Aurelius V3 campaign
+- [Lucifer](entities/Lucifer.md) — The Morning Star, charismatic nihilist leader of Unchained Host
 
 ## Concepts
 
@@ -5473,6 +5658,17 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Think Mode](concepts/ThinkMode.md) — game mode for strategic planning without narrative advancement; advances time by only 1 microsecond
 - [Body-Diff Verification (Step 0)](concepts/Body-Diff-Verification.md) — PR body must match actual diff; mismatch = immediate rejection
 - [Net-Negative Deletion Is Ok](concepts/Net-Negative-Deletion-Is-Ok.md) — pure deletion of unused/obsolete code satisfies minimal-changes principle
+- [Divine Scion](concepts/DivineScion.md) — Prestige class, Siren + divine bloodline hybrid
+- [Mother's Mercy](concepts/MothersMercy.md) — Soul conversion ability
+- [Thrall System](concepts/ThrallSystem.md) — Companion mechanic, 3-slot limit
+- [Essence Devourer](concepts/EssenceDevourer.md) — Sith trait, consume life force
+- [Project Apotheosis](concepts/ProjectApotheosis.md) — Sith elevation project
+- [Post-War Reconstruction](concepts/PostWarReconstruction.md) — Theme, refugee crisis, criminal expansion
+- [College of Swords](concepts/CollegeOfSwords.md) — Bard subclass, melee combat focus (multiple iterations)
+- [Serpent King](concepts/SerpentKing.md) — Backstory identity, philosophical evil
+- [Imperator Class](concepts/ImperatorClass.md) — Custom Roman class
+- [Fated Miasma](concepts/FatedMiasma.md) — Metaphysics of fate
+- [DM Mode vs Story Mode](concepts/DMModeVsStoryMode.md) — Meta-narrative framework
 - [CHANGES_REQUESTED Blocks Ok Unconditionally](concepts/CHANGES_REQUESTED-Blocks-Ok.md) — review change requests block approval until resolved and re-reviewed
 - [Automation Scripts Need Callers](concepts/Automation-Scripts-Need-Callers.md) — new scripts require visible trigger in diff; orphaned scripts are rejected
 - [Preview Model Risk](concepts/Preview-Model-Risk.md) — adding preview models to security-critical configs requires explicit medium-risk acknowledgment
@@ -5480,6 +5676,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Level-Up Bug Chain](concepts/LevelUpBug.md) — 8+ PR cascade: structure drift, atomicity violations, debug-gating preventing dice rolls for non-debug users; PRs #6161→#6195→#6204 chain
 - [RewardsBox Atomicity](concepts/RewardsBoxAtomicity.md) — invariant that rewards_box and planning_block must be consistent; 6 distinct atomicity bugs found in PR #6161 bug hunt
 - [Dice Roll Debug Regression](concepts/DiceRollDebugRegression.md) — dice rolls and debug_info don't render for non-debug users on main; regression predates PR #6161; investigation open in PR #6194
+- [Nullification Field](concepts/NullificationField.md) — Alexiel's special ability to neutralize magic vs celestial beings
 - [The Five Harness Layers](concepts/Harness5LayerModel.md) — 5-layer model for agent harness: Constraint (L1), Context (L2), Execution (L3), Verification (L4), Lifecycle (L5); framework for build vs. buy decisions
 - [Zero Framework Cognition](concepts/ZeroFrameworkCognition.md) — Steve Yegge's ZFC: delegate ALL reasoning to AI models; application code handles only orchestration, IO, safety checks, and mechanical transforms; forbids keyword routing, heuristic scoring, and pattern-matching classification
 - [Semantic Vs Mechanical Judgment](concepts/SemanticVsMechanicalJudgment.md) — the core ZFC dividing line: semantic judgment (meaning, intent, importance) must go to AI; mechanical judgment (parsing, validation, range checks) stays in code
@@ -5495,13 +5692,80 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Entity Tracking Validation Failure](concepts/EntityTrackingValidationFailure.md) — 0-4% entity validation pass rate; LRU eviction too aggressive
 - [Workspace Preservation Across Retries](concepts/WorkspacePreservationAcrossRetries.md) — Verify-fail-retry loop should preserve workspace, clean only signal files
 - [Context Bloat from Metadata Hooks](concepts/ContextBloatFromMetadataHooks.md) — 2 error lines per Bash call, 40K char CLAUDE.md; no --quiet flag
+- [Silent Peace](concepts/SilentPeace.md) — Empress Sariel's psychic rule over Assiah,prosperity through total suppression of dissent
+- [Soul-Tithe Ritual](concepts/SoulTitheRitual.md) — Cassalanter infernal ritual to harvest noble souls for Zariel, hijacked by Nocturne
+- [70% Rule (Pax Julia)](concepts/SeventyPercentRule.md) — Julian family dominance of 70% of Rome in Gaia Julia V2
+- [Psionic Miasma](concepts/PsionicMiasma.md) — Gaia Julia V3's psionic Sorcerer/Bard Gestalt with Miasma visuals
+- [Gloom Stalker Ranger](concepts/GloomStalkerRanger.md) — XGtE Ranger subclass, Dread Ambusher, Umbral Sight
+- [College of Swords Bard](concepts/CollegeOfSwordsBard.md) — XGtE Bard subclass, blade flourishes using Bardic Inspiration
+- [Vampire Spawn](concepts/VampireSpawn.md) — BG3 undead type, Sunlight Sensitivity, Bite, Spawn abilities
+- [Destiny Core Rules](concepts/DestinyCoreRules.md) — Custom TTRPG system, Aptitudes, Personality Traits
+- [Soul Coin Economy](concepts/SoulCoinEconomy.md) — soul-powered currency in Baldur's Gate
+- [Siren's Leverage](concepts/SirensLeverage.md) — +2 Charisma vs attracted humanoids
+- [Tadpole Containment](concepts/TadpoleContainment.md) — tadpole power suppression
+- [College of Perdition](concepts/CollegeOfPerdition.md) — Bard subclass, Abyssal Siren
+- [Malcanthet Patron](concepts/MalcanthetPatron.md) — Queen of Succubi patron
+- [Succubus Corruption](concepts/SuccubusCorruption.md) — Abyssal corruption mechanics
+- [Abyssal Siren](concepts/AbyssalSiren.md) — advanced Bard subclass
+- [Gilded Tether](concepts/GildedTether.md) — thrall-bond companion system
+- [Social HP](concepts/SocialHP.md) — social combat tracking in V5-V6 Abyssal Siren campaigns
+- [The Long Defeat](concepts/TheLongDefeat.md) — central theme of endurance and revenge in Nocturne campaigns
+- [Rite of Thorns](concepts/RiteOfThorns.md) — druidic ritual, siphon target
+- [Companion Asset Framework](concepts/CompanionAssetFramework.md) — BG3 as assets
+- [Sovereign Hub](concepts/SovereignHub.md) — campaign framework
+- [Iron Crisis](concepts/IronCrisis.md) — Forgotten Realms economic collapse, Nashkel mines
+- [The Hunger](concepts/TheHunger.md) — Custom stat modifier mechanic, satiated +2 / withdrawal -2
+- [Nautiloid (Mind Flayer Ship)](concepts/Nautiloid.md) — Living organic vessel, BG3 opening setting
 
 - [XP (Experience Points)](concepts/XP.md) — D&D 5e currency for progression; awarded for combat, encounters, quests, and milestones; triggers level-up when thresholds are reached
+- [Miasma](concepts/Miasma.md) — Divine blood of Venus, Gaia Julia's unique power
+- [College of Swords Bard](concepts/CollegeOfSwordsBard.md) — Bard subclass, blade-focused melee combat
+- [Glass Cannon](concepts/GlassCannon.md) — High damage, low durability character archetype
+- [Spartacus Revolt](concepts/SpartacusRevolt.md) — 73-71 BCE slave uprising, campaign historical context
+- [Third Servile War](concepts/ThirdServileWar.md) — 73 BCE Spartacus rebellion, setting for Gaia Julia V4/V5
+- [Biological Weapon (Social Engineering)](concepts/BiologicalWeaponSocialEngineering.md) — Gaia Julia V4's concealed manipulation role
+- [Gilded Trap (Fall from Grace)](concepts/GildedTrapFallFromGrace.md) — Gaia Julia V5's stripped of power, survival horror
+- [Gloomstalker Ranger](concepts/GloomstalkerRanger.md) — Ranger subclass
+- [Blood Dragon](concepts/BloodDragon.md) — Sariel's military identity, 94% lethal resolution
+- [Serial Killer Extraction](concepts/SerialKillerExtraction.md) — Campaign premise, FBI recruits Sariel
+- [Vigilante Justice](concepts/VigilanteJustice.md) — Theme, Sariel V2's masked executioner
+- [Sharingan](concepts/Sharingan.md) — Uchiha eye technique, enhanced perception/illusion
+- [Mangekyō Sharingan](concepts/MangekyoSharingan.md) — Advanced eye technique, Amaterasu/Tsukuyomi/Susano'o
+- [Tsukuyomi](concepts/Tsukuyomi.md) — Mangekyō genjutsu, temporal nightmare illusion
+- [Uchiha Massacre](concepts/UchihaMassacre.md) — Campaign starting point, Itachi's genocide
+- [Force-User Class](concepts/ForceUserClass.md) — Custom D&D class, Star Wars Force in 5e
+- [Force Alignment Tracker](concepts/ForceAlignmentTracker.md) — Luke's moral progression mechanic
+- [Apex Paladin](concepts/ApexPaladin.md) — Custom paladin class, domination-focused
+- [Great Weapon Master](concepts/GreatWeaponMaster.md) — D&D feat, two-handed weapon damage
+- [Destiny Ruleset](concepts/DestinyRuleset.md) — D&D 5e-based game system for campaigns
+- [Ninja Class](concepts/NinjaClass.md) — Custom class, Assassin Rogue + Illusion spells
+- [Post-Absolute Baldur's Gate](concepts/PostAbsoluteBaldursGate.md) — Setting, city recovery after BG3
 - [Research Test Report: Default /review Command in Claude Code CLI](sources/worldarchitect.ai-docs-research_review_command_test_report.md-895e5636.md) — confirms `/review` is a built-in slash command in Claude Code CLI
 
 - [Research Reproducibility Test Report](sources/worldarchitect.ai-docs-research_reproducibility_test_report.md-762c9ac3.md) — confirms `/review` is a built-in slash command in Claude Code CLI
 
 - [Qwen vs Sonnet Benchmark Index](sources/qwen-vs-sonnet-benchmark-index.md-800b5891.md) — 20-30x faster responses (559ms avg) with quality parity across 12 coding tasks
+
+## Batch G Campaign Concepts
+
+- [Gestalt Progression](concepts/GestaltProgression.md) — Combined class progression system, mixing two classes at once
+- [Three Masks System](concepts/ThreeMasksSystem.md) — Alexiel's mechanic: Prodigal Sword/Reluctant Champion/Joyful Predator
+- [Celestial Imperium](concepts/CelestialImperium.md) — Eastern divine empire ruled by Lord Regent Raziel, geometric wonder Aeterna
+- [Unchained Host](concepts/UnchainedHost.md) — Western multi-species army of orcs, beast-kin, fallen angels
+- [Oath of the Crown](concepts/OathOfTheCrown.md) — Paladin oath focused on rule through protection, social order
+- [Kingsguard Oath](concepts/KingsguardOath.md) — Elite royal protection order in Game of Thrones
+- [Battle Master](concepts/BattleMaster.md) — Fighter subclass for tactical superiority with combat maneuvers
+- [Game of Thrones](concepts/GameOfThrones.md) — GRRM universe setting for Arthur Dayne campaign
+- [Vampire Ascension](concepts/VampireAscension.md) — Powered-up true vampire state beyond spawn
+- [Baldur's Gate Setting](concepts/BaldursGateSetting.md) — Post-BG3 Faerun setting, power vacuum
+- [Oath of Sovereignty](concepts/OathOfSovereignty.md) — Rule through merit and protection vs tyranny
+- [Roman Empire Setting](concepts/RomanEmpireSetting.md) — 40 BCE low-magic Roman world
+- [Oath of Domination](concepts/OathOfDomination.md) — Paladin oath focused on ruling through strength
+- [Dignitas System](concepts/DignitasSystem.md) — Roman honor mechanics: Auctoritas/Imperium/Gratia
+- [Cursus Honorum](concepts/CursusHonorum.md) — Roman political career path system
+- [Low Magic Roman](concepts/LowMagicRoman.md) — Gritty historical Roman setting with minimal magic
+- [Paladin Fighter Gestalt](concepts/PaladinFighterGestalt.md) — Combined martial and divine class progression
+- [Power Ambition](concepts/PowerAmbiton.md) — Theme of seeking ultimate power
 
 ## Syntheses
 
@@ -5523,6 +5787,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Visenya V3 — Entry 001](sources/visenya-v3-entry-001.md) through [Visenya V3 — Entry 020](sources/visenya-v3-entry-020.md) — Individual scene entries 001-020
 - [Gaia Julia V4: The Gilded Trap](sources/gaia-julia-v4.md) — Ancient Rome solo D&D 5e campaign: Gaia Julia Caesar, Level 12 Siren (Bard/Paladin Gestalt), Spartacus rebel manipulation (source page)
 - [Gaia Julia V4 — Entry 001](sources/gaia-julia-v4-entry-001.md) through [Gaia Julia V4 — Entry 020](sources/gaia-julia-v4-entry-020.md) — Individual scene entries 001-020
+- [Gaia Julia V5 Campaign](sources/gaia-julia-v5-campaign.md) — Gaia Julia Caesar Level 1 Bard, stripped of divine Siren powers, Third Servile War "Gilded Trap" survival horror
 - [Visenya V6: The Winter Web](sources/visenya-v6.md) — Game of Thrones solo D&D 5e campaign: Visenya Targaryen as "Lady Elyse Celtigar," Level 6 Apex Weaver, Northern manipulation (source page)
 - [Visenya V6 — Entry 001](sources/visenya-v6-entry-001.md) through [Visenya V6 — Entry 020](sources/visenya-v6-entry-020.md) — Individual scene entries 001-020
 - [Astarion Ascended Campaign](sources/astarion-ascended.md) — Post-BG3 solo D&D 5e campaign: Astarion, Ascended Vampire, Level 12 Ranger 5 Gloom Stalker / Rogue 7 Assassin (source page)

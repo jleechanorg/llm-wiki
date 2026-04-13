@@ -1,8 +1,8 @@
 ---
 title: "House Arcanus"
 type: entity
-tags: [organization, noble-house, dnd]
-sources: [sariel-prompt-extractor-integration-testing]
+tags: [organization, noble-house, dnd, house-arcanus]
+sources: [sariel-prompt-extractor-integration-testing, sariel-assiah]
 last_updated: 2026-04-08
 ---
 ---

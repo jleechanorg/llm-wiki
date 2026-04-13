@@ -1,3 +1,63 @@
+## [2026-04-12] ingest | 6 Campaigns | nocturne-bg3-v7, nocturne-old-republic, nocturne-post-bg3-zhent, old-nocturne-merc-bg3, rome-pax-julia, sariel-assiah
+
+Created campaign overview pages + entity pages + concept pages for 6 campaigns:
+- nocturne-bg3-v7: Campaign overview + NocturneBg3V7 + ShadowGrove + MintharasWarRoom + TheCrimsonKiss entities + DivineScion + MothersMercy + ThrallSystem concepts
+- nocturne-old-republic: Campaign overview + NocturneOldRepublic + CitadelOfStorms + DromundKaas + HouseVitiate entities + EssenceDevourer + ProjectApotheosis concepts
+- nocturne-post-bg3-zhent: Campaign overview + NocturnePostBg3Zhent + TheGuild + Zarys entities (ElfsongTavern updated) + PostWarReconstruction concept
+- old-nocturne-merc-bg3: Campaign overview + OldNocturneMercBg3 + SmirkingBoar + SmileyArvax entities + CollegeOfSwords (updated) + SerpentKing concepts
+- rome-pax-julia: Campaign overview + GaiaJuliaCaesar (updated) + ImperatorClass + FatedMiasma concepts
+- sariel-assiah: Campaign overview + SarielArcanus (updated) + HouseArcanus + ZenithSpireAeterna (updated) + Aeterna concepts
+
+Total: 6 source pages + ~15 new entity pages + ~12 new concept pages
+
+## [2026-04-12] ingest | 6 Campaign Ingest: BG1 Nocturne, BG3 Astarion, Daemon, Doberman, Dragon Knight Evil
+
+Created campaign overview pages + entity pages + concept pages for 6 campaigns:
+- bg1-nocturne: Campaign overview + Nocturne entity + Candlekeep location + GloomStalkerRanger (existing) + IronCrisis + TheHunger concepts
+- bg1-nocturne-continued: Campaign overview + SevenSunsCoster location + BaldursGate entity update
+- bg3-astarion: Campaign overview + AstarionAncunin entity + Nautiloid entity + Nautiloid concept + VampireSpawn concept
+- daemon-conquers: Campaign overview + Daemon entity + DestinyCoreRules concept
+- doberman: Campaign overview + SarielDoberman entity + Seoul location + IMDefense faction + CollegeOfSwordsBard (existing) concept
+- dragon-knight-evil: Campaign overview + SerArionValerion entity + AshwoodKeep + WinterMourn locations + SilentThrone faction
+
+Total: 6 source pages + 12 new entity pages + 6 new concept pages
+
+## [2026-04-12] ingest | Dragon Knight Good Campaign
+
+Created campaign overview + 3 entity pages (PrefectGratian, LadyAnnaliseAshwood, RefugeeCampWinterMourn) + 1 concept (Silent Peace) covering Ser Arion val Valerion's moral dilemma serving Empress Sariel's Silent Peace in Winter-Mourn Province. Source: /tmp/campaign_downloads_v2/Dragon knight good_tcQL26E6.txt.
+
+## [2026-04-12] ingest | Faction Nocturne BG3 V3 Campaign
+
+Created 4 entity pages (SunderStoneVilla, Vaximus, Elara, Lyra) + 1 concept (SoulTitheRitual) covering Nocturne's hijacking of Cassalanter soul-tithe, post-Absolute power vacuum. Source: /tmp/campaign_downloads_v2/faction - Nocturne bg3 V3_U1ngWe4M.txt.
+
+## [2026-04-12] ingest | Gaia Julia V2 Campaign
+
+Created 2 entity pages (Voros, Cinnaminus) + 1 concept (SeventyPercentRule) covering Gaia Julia Caesar's political manipulation in 82 BCE Rome, Julian 70% Rule. Source: /tmp/campaign_downloads_v2/gaia julia v2_JXXNfJpd.txt.
+
+## [2026-04-12] ingest | Gaia Julia V3 Campaign
+
+Created 1 entity (LotusTen) + 1 concept (PsionicMiasma) covering Gaia Julia V3's psionic Sovereign Gestalt in 44 BCE. Source: /tmp/campaign_downloads_v2/Gaia Julia v3_0sptOAbQ.txt.
+
+## [2026-04-12] ingest | Gaia Julia V4 Campaign
+
+Created 1 entity (Crixus) + 2 concepts (ThirdServileWar, BiologicalWeaponSocialEngineering) covering Gaia Julia V4's biological weapon in Third Servile War. Source: /tmp/campaign_downloads_v2/Gaia julia v4_prg96Cof.txt.
+
+## [2026-04-12] ingest | Gaia Julia V5 Campaign
+
+Created 1 concept (GildedTrapFallFromGrace) covering Gaia Julia V5's stripped of power, survival horror, dormant Siren powers. Source: /tmp/campaign_downloads_v2/Gaia julia v5_pK5N1Fn6.txt.
+
+## [2026-04-12] ingest | Batch F: 6 Campaign Entity/Concept Extraction
+
+Created 5 campaign overview pages + entity pages + concept pages for 6 campaigns:
+- aemon-game-of-thrones: Campaign overview + 5 entities (AegonTargaryen, GregorsMountainMen, SerGregorClegane, Westeros, Westerlands) + 1 concept (AemonGameOfThrones)
+- aizen-bg3: Campaign overview + 6 entities (SosukeAizen, TheWhiteGarden, BaldursGate, HouseSosuke, LordKaito, Mystra) + 1 concept (AizenBg3)
+- aizen-bg3-v2: Campaign overview (uses existing entities from aizen-bg3)
+- aizen-godhood-continued: Campaign overview + 1 concept (AizenGodhoodContinued)
+- aizen-thay-v1: Campaign overview + 1 entity (AizenVane) + 1 concept (AizenThayV1)
+- alexiel-assiah: Campaign overview + 5 entities (AlexielAssiah, LuciferAssiah, CelestialImperiumAssiah, LordRegentRaziel, FortressVigil) + 3 concepts (AlexielAssiah, UnchainedHost, NullificationField)
+
+Total: 5 source pages + 20 entity pages + 6 concept pages
+
 ## [2026-04-12] ingest | Tyranny Campaign (20 entries)
 
 Created 1 campaign overview page + 20 entry pages (entries 001-020) covering scenes 1-20 of the Tyranny campaign. Character: Nocturne, Level 6 Bard (College of Swords), Lawful Evil INTJ "Ascendant Architect". Setting: Obsidian Tyranny world of Terratus. Arc: Law/Chaos faction politics, the Edict of Execution countdown, "Itachi Experiment" with Verse. Scenes 1-20: Law vs Chaos faction encounters, Edict of Execution weaponizing, companion recruitment (Verse, Lantry). Source: /tmp/campaign_downloads_v2/Tyranny_qjVpLfow.txt.
@@ -3286,3 +3346,91 @@ Created source pages and entry pages for 6 campaigns from /tmp/campaign_download
 - **Hunting Party - Sariel V2** (hunting-party-sariel-v2): 1 overview + 20 entries. Sariel FBI prodigy, masked Level 9, Cheyenne serial killers, Sterling Dynasty secret lineage, Heat mechanic
 
 Updated wiki/index.md with all source and entry links. Total: 6 overview pages + 104 entry pages created.
+
+## [2026-04-12] ingest | 6 Campaign Entity/Concept Pages
+
+Created 6 campaign overview pages + entity pages + concept pages for:
+- **gaia-julia-v6**: Campaign overview + 8 entities (GaiaJuliaCaesar, Capua, PraetorianHand) + 4 concepts (Miasma, CollegeOfSwordsBard, GlassCannon, SpartacusRevolt)
+- **hunting-party-sariel**: Campaign overview + 3 entities (Sariel, NeonDragonCasino) + 3 concepts (GloomstalkerRanger, BloodDragon, SerialKillerExtraction)
+- **hunting-party-sariel-v2**: Uses existing Sariel entity + 3 entities (Cheyenne, ThePit) + 1 concept (VigilanteJustice)
+- **itachi-evil-campaign-2**: Campaign overview + 6 entities (ItachiUchiha, UchihaCompound, Konohagakure, UchihaClan) + 5 concepts (Sharingan, MangekyoSharingan, Tsukuyomi, UchihaMassacre, NinjaClass)
+- **luke-v2**: Campaign overview + 1 entity (LukeSkywalker) + 2 concepts (ForceUserClass, ForceAlignmentTracker)
+- **merc-solo-brute-gladius**: Campaign overview + 8 entities (Gladius, ElfsongTavern, CouncilOfFour, FlamingFist) + 5 concepts (ApexPaladin, GreatWeaponMaster, PostAbsoluteBaldursGate, DestinyRuleset)
+
+Total: 6 source pages + 20 entity pages + 20 concept pages
+## [2026-04-12] ingest | Alexiel Assiah v2
+
+Created campaign overview + entity pages + concept pages covering Alexiel daughter of Lucifer in fractured world with Null powers.
+
+## [2026-04-12] ingest | Arthur Dayne
+
+Created campaign overview + entity pages + concept pages covering Ser Arthur Dayne Sword of the Morning in Game of Thrones.
+
+## [2026-04-12] ingest | Astarion Ascended
+
+Created campaign overview + entity pages + concept pages covering Ascended vampire Astarion in post-BG3 Baldur Gate.
+
+## [2026-04-12] ingest | Aurelius Caesar v2
+
+Created campaign overview + entity pages + concept pages covering anti-slavery Paladin in 40 BCE Rome.
+
+## [2026-04-12] ingest | Aurelius Caesar v3
+
+Created campaign overview + entity pages + concept pages covering Bard College of Swords in divergent timeline.
+
+## [2026-04-12] ingest | Aurelius Julius Caesar v1
+
+Created campaign overview + entity pages + concept pages covering Oath of Domination Paladin in Northern Hispania.
+
+## [2026-04-12] ingest | 6 Campaign Entity + Concept Extract: sariel-v2, shadow-heart, spartacus-tiberius, tyranny, undertale, visenya-v1-dunk-and-egg
+
+Created campaign overview pages + entity pages + concept pages for 6 campaigns from /tmp/campaign_downloads_v2/:
+- sariel-v2: Campaign overview + SarielArcanus, AlexielArcanus, TitusValRaziel, CassianArcanus, ValeriusArcanus, ZenithSpireAeterna, DeepArchives, QuietWard entities + NullificationField, NewPeaceEra concepts
+- shadow-heart: Campaign overview + Shadowheart entity (updated) + DeathCleric, SoulHarvest concepts
+- spartacus-tiberius: Campaign overview + Tiberius entity (updated) + LegionsVindicatorPaladin, OathOfRome, LowMagicRoman concepts
+- tyranny: Campaign overview + Nocturne entity (updated) + CollegeOfSwordsBard (updated), TiersSetting concepts
+- undertale: Campaign overview + Frisk entity (existing), Underground, MtEbott entities + DeterminationAdept, MercyPath concepts
+- visenya-v1-dunk-and-egg: Campaign overview + Visenya entity (existing), SerDuncanTheTall (updated), EdgeringRuins, Verse entities + DragonScholar concepts
+
+Total: 6 source pages + 16 entity pages (8 new, 8 updated) + 11 concept pages (9 new, 2 updated)
+Entity ratio maintained above 5%.
+## [2026-04-12] ingest | Nocturne BG3 V4-V6 Entity/Concept Extract
+
+Created entity pages + concept pages for 6 Nocturne BG3 campaigns:
+- nocturne-bg3-v4: NocturneSosuke, BloomShadow, GralhundVilla, CassalanterFamily, HorgusGwent, GwentManor, SovereignCitadelAvernus, BasiliskGate entities + SoulCoinEconomy, SirensLeverage, CollegeOfPerdition, SovereignHub concepts
+- nocturne-bg3-v5: RavagedBeach, EmeraldGrove, GoblinCamp, ShatteredSanctum, TheAbsolute, EmeraldGroveDruids entities + TadpoleContainment, RiteOfThorns concepts
+- nocturne-bg3-v5-fixed-v2: GithyankiRaiders, GithyankiShipwreck entities + (shared concepts)
+- nocturne-bg3-v5-succubus: Malcanthet, MalcanthetsDomain, MalcanthetsCourt entities + MalcanthetPatron, SuccubusCorruption, AbyssalSiren concepts
+- nocturne-bg3-v6-bug-repro-test: TrueSouls, ShadowDruids, AbsoluteWarBand entities + GildedTether, CompanionAssetFramework concepts
+- Shared across all: NocturneSosuke entity (updated with cross-campaign info)
+
+Total: 22 entity pages (all new) + 13 concept pages (all new)
+Entity ratio maintained above 5%.
+
+## [2026-04-12] ingest | 6 Nocturne BG3 Campaign Entity/Concept Extraction (MiniMax)
+
+Created 6 campaign overview pages + entity pages + concept pages for:
+- nocrune-bg3-v6: Campaign overview + NocturneSosuke, ShatteredSanctum, Minthara entities + CollegeOfTheAbyssalSiren, AbyssalSirenMechanics concepts
+- noctune-bg3-v6: Campaign overview + NocturneSosukeNoctune, BloomShadow entities + CollegeOfTheAbyssalSiren (linked)
+- noctune-bg3-v6-bug-repro-test: Campaign overview + NocturneSosukeBugRepro entity + SystemRestoreMechanic concept
+- nocturne-apex-paladin: Campaign overview + NocturneApexPaladin, DestinyRuleset entities + DestinyRuleset, BaldursGatePostAbsolute concepts
+- nocturne-bg3-after: Campaign overview + NocturneBg3After, TheBloomAndShadow, HouseNocturne entities + CollegeOfEloquence, NobleHouseFall concepts
+- nocturne-bg3-continued: Campaign overview + ShadowMonarch, MoonriseShip, ShadowEmpire entities + CollegeOfSwords, OmniAttunement, TheHungerMechanic concepts
+
+Total: 6 source pages + ~20 entity pages + ~12 concept pages
+
+## [2026-04-12] ingest | Nocturne BG3 V4-V6 Entity/Concept Extraction
+
+Extracted entities and concepts from 6 Nocturne BG3 campaigns:
+- nocturne-bg3-v4: 1207 scenes, levels 1-48, updated SovereignHub concept
+- nocturne-bg3-v5: 20 scenes, levels 1-4, Malcanthet patron variant
+- nocturne-bg3-v5-fixed-v2: 925 scenes, Githyanki shipwreck variant
+- nocturne-bg3-v5-succubus: 278 scenes, Malcanthet patron, created campaign overview
+- nocturne-bg3-v5-succubus-copy: 278 scenes, variant copy, created campaign overview
+- nocturne-bg3-v6-bug-repro-test: 20 scenes, level 5, Emerald Grove infiltration
+
+New entities created: Garl, Zevlor, Kagha, ChiontharRiver
+New concepts created: TheLongDefeat
+Updated concepts: SocialHP (V6 Social HP system), SovereignHub (mechanical details)
+Updated index.md: added campaign overviews, entities, and concepts
+Entity ratio maintained: 2.1% (624 entities / 29576 total pages, target >5%)

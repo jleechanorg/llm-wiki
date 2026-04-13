@@ -1,13 +1,24 @@
 ---
 title: "Ser Duncan the Tall"
 type: entity
-tags: [hedge-knight, protagonist, dunk-and-egg, reach, dnd-5e]
-sources: [aegon-dunk-and-egg-campaign]
-last_updated: 2026-04-11
+tags: [hedge-knight, protagonist, dunk-and-egg, westeros, dnd-5e]
+sources: [aegon-dunk-and-egg-campaign, visenya-v1-dunk-and-egg-campaign]
+last_updated: 2026-04-12
 ---
 
 ## Summary
-Ser Duncan the Tall (called "Dunk") is a hedge knight — approximately seven feet tall, sun-scorched, and wears mismatched mail. He is Aegon's protector and squire-master in the campaign. In the original George R.R. Martin stories, he is the protagonist and Egg is his squire; this campaign inverts the dynamic.
+Ser Duncan the Tall (called "Dunk") is a hedge knight — approximately seven feet tall, sun-scorched, and wears mismatched mail. In multiple campaigns, he serves as the mentor and traveling companion to a young squire of hidden royal blood. He is defined by his loyalty, commitment to knighthood, and humble origins.
+
+## Visenya V1 Campaign Role
+
+In the [[Visenya V1 Dunk And Egg Campaign]], Ser Duncan the Tall travels with Visenya—a young girl secretly carrying Targaryen royal blood beneath her humble straw hat. The dynamic mirrors the original Dunk and Egg stories: a hedge knight of common birth training a royal heir in disguise. Duncan teaches Visenya the ways of knighthood while she secretly carries the potential for dragon-riding and royal destiny.
+
+## Connections
+
+- [[Visenya]] — His squire in the Visenya V1 campaign
+- [[Visenya V1 Dunk And Egg Campaign]] — The campaign they appear in
+- [[Dragon Scholar]] — The class Visenya is developing
+- [[Westeros]] — The setting they travel through
 
 ## Key Characteristics
 - **Role**: Hedge knight and mentor figure

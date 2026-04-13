@@ -1,21 +1,15 @@
 ---
 title: "Alexiel"
 type: entity
-tags: [character, hero, deceased]
-sources: [world-assiah-compressed-campaign-guide]
-last_updated: 2026-04-08
+tags: [character, campaign]
+date: 2026-04-12
+sources: [alexiel-assiah-v2]
 ---
 
-## Overview
-Alexiel was a heroic figure who died saving Sariel val Artorius from warlord Mordan at the Battle of Sacrifice Fields. Their death was a pivotal event in the campaign timeline.
+Alexiel, known as the Mortal Star, is a Level 6 gestalt character and the daughter of Lucifer, the Morning Star. She possesses the "Null" ability—anti-magic power that cancels magical effects—but harbors a secret: she is actually a magical prodigy with exceptional powers that contradict her father's nihilist philosophy. Her existence represents a bridge between two opposing forces in the fractured world of Assiah, creating ongoing tension between her inherited nullification abilities and her hidden prodigious magical potential. Alexiel's journey involves navigating her identity as both a child of the rebellion's leader and a potential champion of the Celestial order.
 
-## Key Facts
-- Status: Deceased
-- Died: Year 10, Kythorn Day 1 at Battle of Sacrifice Fields
-- Cause: Saving Sariel val Artorius from warlord Mordan
-- Legacy: Starfall Command faction in [[CelestialImperium]] organized around their memory
-
-## Relationships
-- Saved: [[SarielValArtorius]]
-- Killed by: Mordan
-- Legacy carried by: [[StarfallCommand]]
+**Connections:**
+- [[Assiah]] — home world
+- [[Lucifer]] — father
+- [[NullificationField]] — primary ability
+- [[ThreeMasksSystem]] — class progression

@@ -1,0 +1,22 @@
+---
+title: "** Vendrien's Well - Disfavored Encampment Perimeter"
+type: entity
+tags: [tyranny, location]
+sources: [tyranny]
+last_updated: 2026-04-12
+appearances: 5
+total_scenes: 291
+---
+
+## Overview
+
+** Vendrien's Well - Disfavored Encampment Perimeter appears in 5 scenes across the [[tyranny]] campaign.
+
+## Description
+
+** Vendrien's Well - Disfavored Encampment Perimeter is an entity from the tyranny campaign.
+
+## References
+- [[tyranny]] — campaign overview
+- [[tyranny-campaign]]
+

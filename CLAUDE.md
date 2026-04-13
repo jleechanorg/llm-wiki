@@ -70,7 +70,10 @@ Steps (in order):
 5b. **Oracle impact check** — After creating entity/concept pages, check if new content affects any [[jeffrey-oracle]] prediction. Look for: new patterns that should become oracle rules, contradictions with existing oracle rules, new situations not covered by the oracle's decision table. If impact found: append to `wiki/log.md`: `## [YYYY-MM-DD] oracle-impact | <Title> | <Description>`
 5c. **Oracle wikilink check** — If a new concept page is relevant to oracle rules, add a [[wikilink]] from the oracle to the new page. Don't let the oracle become orphaned from its own knowledge.
 6. Update/create entity pages for key people, companies, projects mentioned
+   - **"Key entity" for campaign text:** Extract and create entity pages for: (a) player character, (b) named NPCs appearing in 3+ scenes, (c) named locations, (d) factions/organizations
+   - If adding 100+ source pages, verify entity ratio stayed above 5% after the batch
 7. Update/create concept pages for key ideas and frameworks discussed
+   - For campaigns: game mechanics (level-up, combat, spells), settings (Baldur's Gate, etc.), themes
 8. Flag any contradictions with existing wiki content
 9. Append to `wiki/log.md`: `## [YYYY-MM-DD] ingest | <Title>`
 

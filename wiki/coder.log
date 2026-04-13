@@ -1,3 +1,9 @@
 [2026-04-12 04:01:23] [START] Task received: Ingest Stellaris Nocturne V1 campaign (60 turns) into wiki
 [2026-04-12 04:02:14] [ENGINE] Delegating to MiniMax (Claude CLI + MiniMax API)
 [2026-04-12 04:03:53] [CLI_START] claude --model MiniMax-M2.5 (ANTHROPIC_BASE_URL=minimax)
+[2026-04-12 15:43:30] [START] Extract entities/concepts from 6 campaigns: dragon-knight-good, faction-nocturne-bg3-v3, gaia-julia-v2, gaia-julia-v3, gaia-julia-v4, gaia-julia-v5
+[2026-04-12 15:45:01] [ENGINE] Delegating to MiniMax (Claude CLI + MiniMax API)
+[2026-04-12 15:45:01] [CLI_START] claude --model MiniMax-M2.5 (ANTHROPIC_BASE_URL=api.minimax.io)
+[2026-04-12 16:12:16] [CLI_RESULT] MiniMax CLI exit code: completed (background task bp6vgrp61)
+[2026-04-12 16:12:16] [TESTS] Entity ratio check: 27.5% (was 27.0%, above 5% minimum)
+[2026-04-12 16:12:16] [COMPLETE] Task completed. Engine: MiniMax. Files: 6 campaign overviews + ~40 entities + ~12 concepts. Index updated. Log appended.
