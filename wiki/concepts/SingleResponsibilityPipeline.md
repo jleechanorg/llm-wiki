@@ -2,7 +2,7 @@
 title: "Single Responsibility Pipeline"
 type: concept
 tags: [architecture, level-up, rewards, pipeline]
-sources: [level-up-engine-v4-design]
+sources: [level-up-v4-current-status-2026-04-14, level-up-engine-v4-design]
 last_updated: 2026-04-14
 ---
 
