@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** The Spire Network (Global Hub)
 - **Level hint:** 20
 - **Word count:** 376
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-265]]
 
 ---

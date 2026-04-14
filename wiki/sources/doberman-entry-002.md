@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Character Creation
 - **Level hint:** 1
 - **Word count:** 632
-- **Campaign:** [[Doberman]]
+- **Campaign:** [[doberman]]
 - **Entry:** [[doberman-entry-002]]
 
 ---

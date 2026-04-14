@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Bastard City - Iron Works Perimeter
 - **Level hint:** 15
 - **Word count:** 354
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-212]]
 
 ---

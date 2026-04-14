@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** The Mountain Spire - Ascension Peak
 - **Level hint:** 9
 - **Word count:** 440
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-114]]
 
 ---

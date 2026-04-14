@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Vendrien's Well - Outer Perimeter
 - **Level hint:** 8
 - **Word count:** 377
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-099]]
 
 ---

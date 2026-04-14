@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Final Capstone Spire (Apex Node)
 - **Level hint:** 12
 - **Word count:** 246
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-175]]
 
 ---

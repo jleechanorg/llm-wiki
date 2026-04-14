@@ -35,7 +35,7 @@ The [[PsychologicalProfile]] captures this as "conditional belonging → perform
 
 ### 3. Character Archetype Recycling
 
-[[CharacterArchetypes]] shows name/archetype recycling across campaigns:
+[[CharacterArchetype]] shows name/archetype recycling across campaigns:
 - **Tywin** (Game of Thrones logic) → **Aizen** (Bleach manipulation) → **Johan** (Twin Lakes moral gray) → **Griffith** (ambition/sacrifice)
 - All are different characters but share the "strategic mastermind who sacrifices others for goal"
 - Nocturne specifically is the "anti-Griffith" — avoids the sacrifice moment, instead finds third-option
@@ -67,7 +67,7 @@ The player doesn't change their decision architecture — the consequences of th
 
 - [[PsychologicalProfile]] — the childhood formation analysis
 - [[SevenChoicePatterns]] — the 7 observable decision patterns
-- [[CharacterArchetypes]] — name recycling across campaigns
+- [[CharacterArchetype]] — name recycling across campaigns
 - [[ThirdOption]] — the core cognitive move
 - [[ScaleEscalationFramework]] — why scale escalation works
 - [[EmotionalLeverageTactic]] — using others' emotions as tools

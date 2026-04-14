@@ -27,6 +27,7 @@ Extended Thinking is a mode in which frontier models generate prolonged, structu
 - [[SkepticGate]] — skeptic verification can be applied to extended thinking outputs to catch remaining errors
 - [[ChainOfThought]] — CoT is the prompting-technique precursor to built-in extended thinking
 - [[ScalingLaws]] — extended thinking represents the new inference-time compute scaling axis
+- [[SelfCritiqueVerificationLoop]] — 3-iteration-cap verification loop (ReVeal + Self-Correction) that extends extended thinking with concrete test execution before finalizing output
 
 ## Relationships to Other Concepts
 

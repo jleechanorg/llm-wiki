@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Bastard City - Tunon's Court
 - **Level hint:** 19
 - **Word count:** 440
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-241]]
 
 ---

@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** The Capstone Spire (Apex)
 - **Level hint:** 21
 - **Word count:** 538
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-283]]
 
 ---

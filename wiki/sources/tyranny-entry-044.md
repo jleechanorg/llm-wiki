@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Edgering Ruins - Scriptorium Vault Entrance
 - **Level hint:** 6
 - **Word count:** 388
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-044]]
 
 ---

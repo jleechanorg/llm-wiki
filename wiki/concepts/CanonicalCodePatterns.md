@@ -31,3 +31,4 @@ See the `canonical_code_scorer` skill for scoring any generated code against the
 - [[tRPCTypeSafety]] — TypeScript end-to-end types
 - [[TanStackQueryState]] — React Query state management
 - [[AxumAsyncPatterns]] — Rust async composable handlers
+- [[CanonicalCodeScorer]] — Quantitative scoring engine that evaluates generated code against these canonical repos using a 6-dimension rubric (70%) + token-level diff similarity (30%)

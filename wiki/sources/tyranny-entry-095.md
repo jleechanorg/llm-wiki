@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Scarlet Chorus Encampment - Inner Sprawl
 - **Level hint:** 8
 - **Word count:** 314
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-095]]
 
 ---

@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Beneath Mt. Ebott - The Precipice
 - **Level hint:** 1
 - **Word count:** 313
-- **Campaign:** [[Undertale]]
+- **Campaign:** [[undertale]]
 - **Entry:** [[undertale-entry-002]]
 
 ---

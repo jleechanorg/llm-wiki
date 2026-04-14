@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Lethian's Crossing - Town Square
 - **Level hint:** 9
 - **Word count:** 387
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-124]]
 
 ---

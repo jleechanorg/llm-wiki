@@ -27,5 +27,5 @@ Node.js test class using jsdom to simulate a realistic browser environment for t
 
 ## Connections
 - [[CampaignWizard]] — class being tested
-- [[JSDOM]] — library providing browser simulation
+- [[jsdom]] — library providing browser simulation
 - [[RedGreenTDD]] — testing methodology

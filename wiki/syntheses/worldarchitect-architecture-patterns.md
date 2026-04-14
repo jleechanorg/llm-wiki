@@ -48,7 +48,7 @@ The [[AgentAdapter]] provides a unified interface across different agent impleme
 6. Evidence review passes
 7. Skeptic passes
 
-The [[DRIVE_TO_7_GREEN_HARNESS_FAILURE_2026-04-08]] roadmap doc captures harness failure patterns — CI/skeptic/evidence gates that fail non-deterministically.
+The [[HarnessEngineering]] page documents harness failure patterns — CI/skeptic/evidence gates that fail non-deterministically.
 
 ### 5. Streaming and Error Handling
 
@@ -69,7 +69,7 @@ The [[StreamingParity]] issue (same pattern as Level-Up Bug): streaming path byp
 
 ### 7. Evidence-Based Verification
 
-The [[EVIDENCE_REVIEW_SCHEMA]] (two-stage pipeline):
+The [[EvidenceReviewPipeline]] (two-stage pipeline):
 - **Stage 1:** Automated checks (sha256 verification, scope validation)
 - **Stage 2:** Skeptic review (claims classification, proof requirements)
 - Evidence publication rule: committing to git ≠ published; must add gist/evidence URL to PR description
@@ -83,5 +83,5 @@ The [[EVIDENCE_REVIEW_SCHEMA]] (two-stage pipeline):
 - [[AO-Blocker-Matrix]] — 7-green PR criteria
 - [[AO-Daemon-Incident]] — WebSocket streaming failure
 - [[StreamingParity]] — streaming vs non-streaming divergence
-- [[EVIDENCE_REVIEW_SCHEMA]] — two-stage verification
+- [[EvidenceReviewPipeline]] — two-stage verification
 - [[AsyncioOrchestrationMigration]] — async coordination

@@ -26,6 +26,6 @@ The Fatebinder is the player archetype in the Tyranny campaign. Nocturne present
 - **The Refactoring of Reality:** Seeks forbidden knowledge to "patch" the universe — Terratus is "full of bad code."
 
 ## Connections
-- [[Tyranny]] — the campaign
+- [[tyranny]] — the campaign
 - [[Verse]] — key NPC, target of the "Itachi Experiment"
 - [[EdictOfExecution]] — the laws of Terratus the Fatebinder navigates

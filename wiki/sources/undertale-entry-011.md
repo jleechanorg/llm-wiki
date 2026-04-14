@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** The Ruins - Flowey's Room
 - **Level hint:** 1
 - **Word count:** 310
-- **Campaign:** [[Undertale]]
+- **Campaign:** [[undertale]]
 - **Entry:** [[undertale-entry-011]]
 
 ---

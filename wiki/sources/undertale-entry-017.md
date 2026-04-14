@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** The Ruins - Entrance Hall
 - **Level hint:** 1
 - **Word count:** 290
-- **Campaign:** [[Undertale]]
+- **Campaign:** [[undertale]]
 - **Entry:** [[undertale-entry-017]]
 
 ---

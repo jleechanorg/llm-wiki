@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Noh Tae-nam's Penthouse Bedroom
 - **Level hint:** 4
 - **Word count:** 241
-- **Campaign:** [[Doberman]]
+- **Campaign:** [[doberman]]
 - **Entry:** [[doberman-entry-109]]
 
 ---

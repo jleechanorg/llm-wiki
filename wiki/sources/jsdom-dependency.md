@@ -15,7 +15,7 @@ Simple npm dependencies snippet specifying jsdom version ^26.1.0 as a project de
 - **Testing Utility**: Commonly used for headless browser testing and DOM-related operations
 
 ## Connections
-- [[JSDOM]] — the JavaScript library this dependency references
+- [[jsdom]] — the JavaScript library this dependency references
 - [[MVP Site package-lock.json]] — larger dependency context in the same project
 
 ## Contradictions

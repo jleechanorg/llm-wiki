@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Oldwalls Edge - Voices' Pavilion
 - **Level hint:** 19
 - **Word count:** 415
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-237]]
 
 ---

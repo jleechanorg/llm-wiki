@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Bastard Tier - Resonance Chamber
 - **Level hint:** 15
 - **Word count:** 119
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-211]]
 
 ---
