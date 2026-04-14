@@ -100,17 +100,22 @@ Results from live AO agent runs on worldarchitect.ai codebase:
 
 | Technique | WA-001 (small) | WA-004 (medium) | WA-005 (complex) | Avg Δ | Verified |
 |-----------|----------------|-----------------|------------------|-------|----------|
-| **Meta-Harness** | 83 (+33) | 78 (+28) | 69 (+19) | **+27** | ✅ LIVE |
-| **SWE-bench** | 82 (+32) | 69 (+19) | TBD | ~+26 | ✅ LIVE (2/3) |
-| **ExtendedThinking** | 94 (+44) | TBD | TBD | TBD | ✅ LIVE (1/3) |
-| PRM | TBD | TBD | TBD | TBD | ⏳ Running |
-| Combined | TBD | TBD | TBD | TBD | ⏳ Running |
-| SelfRefine | TBD | TBD | TBD | TBD | ⏳ Running |
+| **Meta-Harness** | 83 (+33) | 78 (+28) | 69 (+19) | **+27** | ✅ LIVE 3/3 |
+| **SWE-bench** | 82 (+32) | 69 (+19) | 84 (+34)* | **+28*** | ✅ LIVE 3/3* |
+| **ExtendedThinking** | 94 (+44) | 76 (+26)** | 80 (+30)** | **+33** | ✅ LIVE 1/3 |
+| **SelfRefine** | 52 (+2) | 74 (+24) | 53 (+3) | **+10** | ✅ LIVE 3/3 ⚠️ |
+| PRM | 68 (PR#6269) | 50 (PR#6270) | 54 (PR#6273) | +7 | ⚠️ Wrong PRs |
+| Combined | MISSING | MISSING | MISSING | — | ❌ |
 
 **Live run notes:**
-- Meta-Harness: +27 avg confirmed (WA-001 +33, WA-004 +28, WA-005 +19)
-- SWE-bench: WA-001 +32, WA-004 +19 — consistent with prior
-- ExtendedThinking: WA-001 scored 94/100 (+44 delta) — notably high
+- Meta-Harness: +27 avg — consistent with prior (+34/+22/+25) ✅
+- SWE-bench: WA-001 +32, WA-004 +19, WA-005 scored +34 on PR 6276 (close to expected)
+- ExtendedThinking: WA-001 94/100 (+44) — notably high; scored real PRs 6275-6277
+- SelfRefine: ⚠️ HIGHLY INCONSISTENT — +2 on WA-001 vs prior +17. Live shows SelfRefine is weak on small PRs
+- PRM: Agent scored actual worldarchitect.ai PRs (6269/6270/6273) instead of test PRs
+
+**Red flag:** SelfRefine live (+2) vs prior session (+17) on same PR — prior results likely fabricated.
+**Validation:** Meta-Harness and SWE-bench scores match prior closely — those prior results appear legitimate.
 
 **Status key:** ✅ LIVE = real execution, ✅ PRIOR = from prior session (may need re-verification)
 
