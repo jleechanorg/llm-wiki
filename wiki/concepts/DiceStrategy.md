@@ -2,8 +2,8 @@
 title: "Dice Strategy"
 type: concept
 tags: [dice, prompt-engineering, random-number-generation, game-mechanics]
-sources: [prompts-directory]
-last_updated: 2026-04-08
+sources: [prompts-directory, mvp-site-dice-strategy, mvp-site-dice]
+last_updated: 2026-04-14
 ---
 
 ## Definition

@@ -19,3 +19,4 @@ An algorithm that iteratively reduces the number of conversation turns when cont
 - [[Token Estimation]] — calculates content size to determine truncation needs
 - [[Cerebras]] — target use case: models with smaller context windows
 - [[Context Budget]] — the maximum token allowance for model input
+- [[MetaHarness]] — contrast: Meta-Harness optimizes WHAT context to present, while truncation only makes existing context fit
