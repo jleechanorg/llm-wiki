@@ -1,0 +1,17 @@
+{
+  "run_id": "swebench_WA-001_swebench-live-20260414231703",
+  "technique": "swebench",
+  "pr": "WA-001",
+  "status": "completed",
+  "scores": {
+    "naming": 14,
+    "error_handling": 17,
+    "type_safety": 16,
+    "architecture": 16,
+    "test_coverage": 13,
+    "documentation": 6,
+    "total": 82,
+    "baseline": 50,
+    "delta": 32
+  }
+}
