@@ -63,6 +63,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Self-Reflection Code Paper](sources/self-reflection-code-paper.md) — Dual-LLM collaborative code representation; semantic preservation
 - [Autonomous Scientific Research Paper](sources/autonomous-scientific-research-paper.md) — Multi-LLM autonomous experiment design; safety considerations
 
+### 2025-2026 Recent Research
+- [Agentic Much Paper](sources/agentic-much-paper.md) — 22-28% coding agent adoption on GitHub; 128K projects; empirical study
+- [One Tool Is Enough Paper](sources/one-tool-is-enough-paper.md) — RepoNavigator RL agent; 7B > 14B, 14B > 32B; exceeds GPT-5
+- [Coding Agents Over-Mocked Tests Paper](sources/coding-agents-over-mocked-tests-paper.md) — Agents use more mocks than humans; 23% vs 13% test changes
+- [Vibe Coding Safe Paper](sources/vibe-coding-safe-paper.md) — Only 10.5% of agent code is secure; SUSB VIBES benchmark
+- [BOAD Paper](sources/board-agents-paper.md) — Hierarchical agent discovery via bandit optimization; 2nd on SWE-bench Live
+- [Shadows in Code Paper](sources/shadows-in-code-paper.md) — Multi-agent security: IMBIA attack; 93% attack rate on ChatDev
+- [Agentic Verification Paper](sources/agentic-verification-paper.md) — AutoRocq: LLM + Coq theorem prover; FSE 2026
+- [From Correctness to Collaboration Paper](sources/from-correctness-to-collaboration-paper.md) — CAB Framework: human-AI partnership evaluation
+- [GitHub Issue Ready for Copilot Paper](sources/github-issue-ready-for-copilot-paper.md) — 32 criteria; 72% AUC for merge prediction
+- [Reformulate Retrieve Localize Paper](sources/reformulate-retrieve-localize-paper.md) — Bug localization agent; 35% better than BM25, +22% vs SWE-agent
+
 - [BG1 Nocturne Campaign](sources/bg1-nocturne-campaign.md) — Dark adventure: Nocturne the Serpent Queen, Gloom Stalker Ranger, Candlekeep to Baldur's Gate, Iron Crisis
 - [BG1 Nocturne Continued Campaign](sources/bg1-nocturne-continued-campaign.md) — Level 5 Nocturne in Baldur's Gate, doppelganger conspiracy, Sarevok threat
 - [BG3 Astarion Campaign](sources/bg3-astarion-campaign.md) — Astarion Ancunín, Vampire Spawn, escape from Nautiloid, freedom from Cazador

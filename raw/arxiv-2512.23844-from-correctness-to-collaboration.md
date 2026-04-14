@@ -1,0 +1,30 @@
+---
+title: "From Correctness to Collaboration: Human-Centered Framework for Evaluating AI Agents in SE"
+type: paper
+tags: [human-AI-collaboration, evaluation-framework, software-engineering, taxonomy]
+date: 2025-12-29
+arxiv_url: https://arxiv.org/abs/2512.23844
+---
+
+## Summary
+
+Proposes that current benchmarks focusing on code correctness "fail to capture the nuanced, interactive behaviors essential for successful human-AI partnership." Presents Context-Adaptive Behavior (CAB) Framework derived from analyzing 91 sets of user-defined agent rules and 15 expert engineer interviews. Four key behavioral expectations: Adhere to Standards, Ensure Code Quality, Solve Problems Effectively, Collaborate with User.
+
+## Key Claims
+
+- Current benchmarks miss nuanced, interactive behaviors for human-AI partnership
+- Behavioral expectations shift along two axes: **Time Horizon** and **Type of Work**
+- Four key expectations: Adhere to Standards, Ensure Code Quality, Solve Problems Effectively, Collaborate with User
+- CAB Framework provides "human-centered foundation for designing and evaluating AI agents"
+
+## Method
+
+- Analyzed 91 sets of user-defined agent rules to derive taxonomy
+- Interviews with 15 expert engineers
+- Prompt analysis of prototyping agent
+
+## Connections
+
+- [[AgenticMuch]] — empirical adoption study
+- [[ProductTasteLayer]] — human judgment gate
+- [[TasteLearningLoop]] — extracting human preferences
