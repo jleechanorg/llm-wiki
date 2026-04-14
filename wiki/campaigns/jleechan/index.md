@@ -26,7 +26,14 @@ A deep psychological profile of a 67+ campaign, 1,000+-scene TTRPG player. Built
 - [[jleechan-scale-framework]] — Why scale escalation works: same framework, different magnitudes
 - [[jleechan-third-option]] — The core cognitive move: never pick from the menu presented
 - [[jleechan-gender-analysis]] — Why a man chooses female characters: the soft/hard paradox, consumption inversion, uncanny valley effect
-- [[jleechan-identity-synthesis]] — Real-world identity: Jerome Lee, GovTech Singapore, worldarchitect.ai founder, OpenAI harness talk
+- [[jleechan-identity-synthesis]] — Jeffrey Lee-Chan: Snap Inc., YouTube Partner Program, WorldArchitect.AI founder
+- [[jleechan-identity-infrastructure]] — Hardware (Mac 48GB), GCP/Firebase stack, MCP tools, automation cron jobs, Dropbox backup
+- [[jleechan-deep-psychology-synthesis]] — Grounded synthesis: third-option reframing, economic translation, 8-mechanism gender analysis, childhood interpretation
+- [[worldarchitect-harness-evaluation]] — 5-layer harness eval: L1 WEAK (no schema enforcement), L4 STRONG (skeptic-gate), 7 GitHub issues #6205–#6211
+- [[worldarchitect-zfc-violations]] — ZFC violations: 3 HIGH (faction_simulator keyword classification, mcp/server intent routing), 2 MEDIUM
+- [[worldarchitect-wiki-status]] — Multi-wiki status: public (220K static), private (16K stubs), main llm_wiki (202M, 67 campaigns)
+- [[bead-ingestion-results]] — 12 concept pages from 18 beads: AgentStallRecovery, AsyncioOrchestrationMigration, SkepticGateRetry, etc.
+- [[batch-campaign-ingest-pipeline]] — Download + ingest methodology: Firebase Auth → UID → Firestore subcollection → wiki conversion
 
 ## Stellaris Nocturne V1 (Shroud-AI Backstory)
 - [Stellaris Nocturne V1 — Shroud-AI Backstory](campaigns/jleechan/stellaris-nocturne-v1-shroud-ai-backstory.md) — 3-generation lineage: Primordial → Xylia → Nocturne; Shroud missions; Hespera as internal voice

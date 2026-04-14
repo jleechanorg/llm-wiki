@@ -3,7 +3,11 @@ title: "Itachi Evil Campaign 2"
 type: source
 tags: [naruto, itachi, dnd, destiny-ruleset, uchiha, sharingan, mangekyo, evil-campaign, ninja]
 sources: []
-last_updated: 2026-04-12
+date: 2026-04-12
+source_file: /tmp/campaign_ingest_new/Itachi Evil Campaign 2_20lzLXyQ.txt
+campaign_id: 20lzLXyQTcoLnHGCA3aW
+entry_count: 1069
+last_updated: 2026-04-13
 ---
 
 ## Summary

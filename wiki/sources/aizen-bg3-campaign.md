@@ -4,6 +4,7 @@ type: source
 tags: [campaign, baldurs-gate, aizen-bg3]
 last_updated: 2026-04-12
 scene_total: 596
+entry_count: 596
 ---
 
 ## Summary

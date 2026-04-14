@@ -3,7 +3,10 @@ title: "Alexiel SWToR Campaign"
 type: source
 tags: [campaign, alexiel, star-wars-5e-(sw5e), ttrpg]
 date: 2026-04-12
-source_file: /tmp/campaign_downloads_v2/alexiel swtor_tAE30bFv.txt
+source_file: /tmp/campaign_ingest_new/alexiel swtor_tAE30bFv.txt
+campaign_id: tAE30bFvyfO0rUd9cgyv
+entry_count: 1644
+last_updated: 2026-04-13
 ---
 
 ## Summary
