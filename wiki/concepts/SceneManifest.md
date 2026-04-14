@@ -2,8 +2,8 @@
 title: "SceneManifest"
 type: concept
 tags: [data-structure, pydantic, game-state]
-sources: [pydantic-validation-entity-tracking-tests]
-last_updated: 2026-04-08
+sources: [pydantic-validation-entity-tracking-tests, mvp-site-entities-pydantic]
+last_updated: 2026-04-14
 ---
 
 ## Description

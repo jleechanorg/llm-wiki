@@ -1,0 +1,6 @@
+[2026-04-14 01:45:20] [START] Wiki ingest: 97 remaining mvp_site Python files
+[2026-04-14 01:46:23] [ENGINE] Delegating to MiniMax (Claude CLI + MiniMax API)
+[2026-04-14 01:47:30] [CLI_START] claude --model MiniMax-M2.5 (ANTHROPIC_BASE_URL=minimax)
+[2026-04-14 02:17:03] [START] Wiki ingest task: 350 remaining .py files from raw/mvp_site_all/
+[2026-04-14 02:17:28] [ENGINE] Delegating to MiniMax (Claude CLI + MiniMax API)
+[2026-04-14 02:17:28] [CLI_START] claude --model MiniMax-M2.5 (ANTHROPIC_BASE_URL=minimax)
