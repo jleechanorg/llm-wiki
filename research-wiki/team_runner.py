@@ -190,38 +190,32 @@ Work in {WORKTREE}.
         f.write(f"Prompt: {prompt[:200]}...\n")
         f.write(f"{'='*60}\n\n")
 
-    # Build the bash command to source bashrc and run via minimax
-    # Escape the prompt for bash
+    # Build the bash command to run via minimax directly (not via bashrc function)
+    # The claudem() bashrc function does: claude --dangerously-skip-permissions --teammate-mode=tmux
+    # We replicate it directly with minimax environment variables
     escaped_prompt = prompt.replace("'", "'\\''").replace('\n', '\\n')
 
-    bash_cmd = f"""source ~/.bashrc 2>/dev/null
-cd {WORKTREE}
-echo 'Working directory: $(pwd)'
-echo 'Git HEAD: $(git rev-parse HEAD)'
-echo 'Branch: $(git branch --show-current)'
-echo '---'
-echo 'Running {technique} on {pr}...'
-echo 'Issue: {pr_info[pr]['issue']}'
-echo 'Bug: {pr_info[pr]['desc']}'
-echo '---'
-
-MINIMAX_API_KEY="$MINIMAX_API_KEY" \\
+    bash_cmd = f"""cd {WORKTREE} && \\
+echo 'Working directory: $(pwd)' && \\
+echo 'Git HEAD: $(git rev-parse HEAD)' && \\
+echo 'Branch: $(git branch --show-current)' && \\
+echo '---' && \\
+echo 'Running {technique} on {pr} (Issue: {pr_info[pr]['issue']})...' && \\
+echo '---' && \\
+MINIMAX_API_KEY="{os.environ.get('MINIMAX_API_KEY', '')}" \\
 ANTHROPIC_BASE_URL="https://api.minimax.io/anthropic" \\
-ANTHROPIC_AUTH_TOKEN="$MINIMAX_API_KEY" \\
+ANTHROPIC_AUTH_TOKEN="{os.environ.get('MINIMAX_API_KEY', '')}" \\
 ANTHROPIC_MODEL="MiniMax-M2.7" \\
-claude --dangerously-skip-permissions -p '{escaped_prompt}' 2>&1 | tee -a {log_file}
-
-# Parse scores from output
-SCORE_FILE="/tmp/scores_{technique}_{pr}.json"
-if [ -f "$SCORE_FILE" ]; then
-    echo "=== SCORES FOUND ==="
-    cat "$SCORE_FILE" | tee -a {log_file}
-else
-    echo "=== NO SCORE FILE FOUND ==="
-    # Try to extract from any logged JSON
-    grep -o '{{"naming".*}}' {log_file} | tail -1 | tee -a {log_file} || echo "No JSON found"
-fi
-"""
+claude --dangerously-skip-permissions -p '{escaped_prompt}' 2>&1 | tee -a {log_file} && \\
+echo '=== AGENT COMPLETE ===' && \\
+SCORE_FILE="/tmp/scores_{technique}_{pr}.json" && \\
+if [ -f "$SCORE_FILE" ]; then \\
+    echo '=== SCORES FOUND ===' && \\
+    cat "$SCORE_FILE" | tee -a {log_file} || true; \\
+else \\
+    echo '=== NO SCORE FILE ===' && \\
+    grep -o '{{"naming".*}}' {log_file} | tail -1 | tee -a {log_file} || true; \\
+fi"""
 
     try:
         proc = subprocess.Popen(
