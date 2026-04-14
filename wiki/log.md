@@ -7,6 +7,7 @@
 ## [2026-04-14] ingest | Layer 1 self-refinement papers | RefineRL (arxiv:2604.00790), ThinkTwice (arxiv:2604.01591), SelfDebias (arxiv:2604.08243), AdverMCTS (arxiv:2604.10449)
 ## [2026-04-14] ingest | Layer 1 frontier papers | SWE-Shepherd (arXiv:2604.10493), FM-Agent (arXiv:2604.11556)
 ## [2026-04-14] ingest | Layer 1 agent improvement papers | Mem2Evolve (ACL 2026), AgentMentor (spec ambiguity), E3TIR (ACL 2026), CodeComp (KV compression)
+## [2026-04-14] ingest | Level-Up v4 Semantic Regression — 6 production bugs; should_show_rewards_box suppresses ALL non-level-up XP boxes (PR #6273); project_level_up_ui return value discarded; hardcoded HP values in ensure_planning_block; PR #6276 still OPEN
 ## [2026-04-14] lint | Wikilink audit — fixed 583 case-mismatches (266 unique patterns), created [[Neongreen]] entity, cleaned external refs; 2099 remaining (1927 CamelCase missing pages, ~172 shell artifacts)
 ## [2026-04-14] update | AutoResearchExperiment concept — enhanced with 5-layer architecture, ProductJudge, TasteLearningLoop, design principles, results
 ## [2026-04-14] ingest | Auto-Research Loop — 4-phase self-discovering meta-research, hypothesis generation from PR patterns

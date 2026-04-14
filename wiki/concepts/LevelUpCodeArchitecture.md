@@ -333,3 +333,44 @@ Both `canonicalize_rewards()` and `project_level_up_ui()` converge on `_canonica
 | dead code | minimal | significant (`ensure_level_up_planning_block`) | zero |
 
 **The PRs #6262/6263/6264 do NOT achieve the target architecture** — they add complexity, duplicate logic, and introduce new bugs. A cleaner approach would be: fix the off-by-one in stuck-completion, remove dead `ensure_level_up_planning_block`, split `_enforce_rewards_box_planning_atomicity` into sub-functions, and keep flag helpers in `game_state.py`.
+
+---
+
+## v4 Regression: PR #6273 Deployed (2026-04-14)
+
+**PR #6273** (`feat/rewards-engine-single-responsibility`) deployed a semantic regression to production.
+
+### Root Cause: should_show_rewards_box Gate Regression
+
+`_canonicalize_core()` in `rewards_engine.py` step 5+6 suppresses **ALL** non-level-up `rewards_box` and `planning_block` emissions:
+
+```python
+# Step 5: visibility gate
+if normalized_rb and not should_show_rewards_box(normalized_rb):
+    normalized_rb = None
+    planning_block_data = None  # ← BOTH suppressed
+```
+
+`should_show_rewards_box()` only returns True when `level_up_available=True`. The OLD `normalize_rewards_box_for_ui()` emitted XP-progress boxes even when `level_up_available=False` (e.g., `xp_gained=50, current_xp=350, next_level_xp=900`). v4 changed this semantic — **a regression**.
+
+### 4 of 6 Production Bugs Trace to This
+
+| Bug | Campaign | Symptom |
+|-----|----------|---------|
+| `WQEl4sJb7RqWLndJK4GU` (dev) | XP gained, no rewards box | suppressed |
+| `WQEl4sJb7RqWLndJK4GU` (s10) | Rewards box + planning_block suppressed | step 6 atomicity |
+| `3JM2gKc3eTFZHQnBtO8m` (s10) | `(None, None)` on non-level-up turns | early return |
+| `KtKlU0rOV6MmG3b6cOxd` (s10) | Rewards box not showing | same suppression |
+
+### Secondary Issues
+
+1. **`project_level_up_ui()` return value discarded** — `llm_parser.py:617` call added in `8024eba8f` but return tuple is discarded (dead code)
+2. **Hardcoded HP values** — `ensure_planning_block()` uses `{"fighter": 7, "rogue": 6, "wizard": 4}` instead of actual class data
+3. **Bug 1 NOT v4 related** — `wOhBvrJ0gYA2Ox9g1kLC` "level up to level 1" is a text prompt bug
+
+### Fix Status
+
+- **PR #6273**: DEPLOYED — contains regression
+- **PR #6276** (`feat/world-logic-clean-layer3`): OPEN — NOT yet deployed
+
+Fix must restore XP-progress visibility in `should_show_rewards_box`, capture `project_level_up_ui()` return value, and fix hardcoded HP values.
