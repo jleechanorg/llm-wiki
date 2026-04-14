@@ -3471,3 +3471,4 @@ Entity ratio maintained: 2.1% (624 entities / 29576 total pages, target >5%)
 ## [2026-04-12] wiki-entity | jleechan TTRPG psychology | 6 pages + 4 campaign entities
 ## [2026-04-13] ingest | jleechan deep psychology synthesis | Third-option reframing, economic translation, 8-mechanism gender analysis, scale escalation without framework change
 ## [2026-04-13] ws_ingest | WS1-WS5 workstream results written to wiki/campaigns/jleechan/
+## [2026-04-14] ingest | Level-Up Bugs and Streaming Unification (2026-04-14) | app.js:924 FrontendRewardsBoxGate live, 15+ PRs still failing, PR #6261 backend robustness

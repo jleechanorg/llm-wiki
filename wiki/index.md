@@ -14,6 +14,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
+- [Level-Up Bugs and Streaming Unification (2026-04-14)](sources/level-up-bugs-and-streaming-unification-2026-04-14.md) — 15+ PRs still failing: FrontendRewardsBoxGate live, streaming parity epic, app.js:924 xp_gained=0 gate, PR #6261 backend robustness
 - [BG1 Nocturne Campaign](sources/bg1-nocturne-campaign.md) — Dark adventure: Nocturne the Serpent Queen, Gloom Stalker Ranger, Candlekeep to Baldur's Gate, Iron Crisis
 - [BG1 Nocturne Continued Campaign](sources/bg1-nocturne-continued-campaign.md) — Level 5 Nocturne in Baldur's Gate, doppelganger conspiracy, Sarevok threat
 - [BG3 Astarion Campaign](sources/bg3-astarion-campaign.md) — Astarion Ancunín, Vampire Spawn, escape from Nautiloid, freedom from Cazador
