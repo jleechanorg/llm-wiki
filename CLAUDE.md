@@ -1,8 +1,12 @@
-# LLM Wiki Agent — Schema & Workflow Instructions
+# Auto-Research Wiki — karpathy/autoresearch for worldarchitect.ai
 
-This wiki is maintained entirely by Claude Code. No API key or Python scripts needed — just open this repo in Claude Code and talk to it.
+**Based on:** karpathy/autoresearch (https://github.com/karpathy/autoresearch)
+**Purpose:** Autonomous AI research system — wiki knowledge base + auto-research experiment loop
+**Target:** worldarchitect.ai codebase
 
-## Slash Commands (Claude Code)
+This repo adapts karpathy's auto-research pattern: an AI agent iteratively experiments on a codebase, evaluates against canonical patterns, and builds knowledge. The wiki is the knowledge layer; the experiment framework is the action layer.
+
+## Slash Commands
 
 | Command | What to say |
 |---|---|
@@ -11,37 +15,60 @@ This wiki is maintained entirely by Claude Code. No API key or Python scripts ne
 | `/wiki-lint` | `lint the wiki` |
 | `/wiki-graph` | `build the knowledge graph` |
 
-Or just describe what you want in plain English:
-- *"Ingest this file: raw/papers/attention-is-all-you-need.md"*
-- *"What does the wiki say about transformer models?"*
-- *"Check the wiki for orphan pages and contradictions"*
-- *"Build the graph and show me what's connected to RAG"*
-
-Claude Code reads this file automatically and follows the workflows below.
-
----
-
 ## Directory Layout
 
 ```
-raw/              # Immutable source documents — never modify these
-canonical-repos/  # Reference code repos for canonical pattern comparisons
-test-prs/         # Historical PR descriptions for auto-research experiments
-scripts/          # Automation scripts (wiki ingest, graph build, verify)
-skills/           # Agent instruction files (self-critique, scoring, taste)
-wiki/             # Claude owns this layer entirely
-  index.md        # Catalog of all pages — update on every ingest
-  log.md          # Append-only chronological record
-  overview.md     # Living synthesis across all sources
-  sources/        # One summary page per source document
-  entities/       # People, companies, projects, products
-  concepts/       # Ideas, frameworks, methods, theories
-  syntheses/      # Saved query answers
-graph/            # Auto-generated graph data
-tools/            # Optional standalone Python scripts (require ANTHROPIC_API_KEY)
-research-wiki-program.md   # Auto-research experiment compiler rules
-research-wiki-results.md   # Master experiment log (append-only)
+karpathy/autoresearch origin (read-only experiment harness):
+  train.py           # THE FILE YOU MODIFY during experiments
+  prepare.py         # Fixed data/eval harness (DO NOT MODIFY)
+  program.md         # Experiment instructions
+
+auto-research extension (this repo):
+  raw/               # Immutable source documents — arxiv papers, PRs, notes
+  wiki/              # LLM knowledge base — sources, entities, concepts, syntheses
+    sources/         # One summary page per source document
+    entities/         # People, companies, projects
+    concepts/         # Ideas, methods, techniques
+    syntheses/        # Saved query answers
+    index.md          # Catalog of ALL pages
+    log.md            # Append-only chronological record
+    overview.md        # Living synthesis across all sources
+  test-prs/          # [autoresearch] labeled test PRs + results
+  canonical-repos/   # Reference code repos for pattern comparison (FastAPI, Requests, etc.)
+  research-wiki/      # Full experiment system (cycles A-E, hypotheses, syntheses)
+  skills/            # Agent instruction files (self-critique, scoring, taste)
+
+The experiment framework (train.py, prepare.py, program.md) is adapted for worldarchitect.ai research.
 ```
+
+---
+
+## Core Concept: The Auto-Research Loop
+
+```
+wiki/ (knowledge) → test-prs/ (experiments) → research-wiki/ (results) → wiki/ (updated knowledge)
+```
+
+For each technique/paper:
+1. **Pick a technique** from the wiki (SelfRefine, PRM, ExtendedThinking, etc.)
+2. **Form a hypothesis**: "If I apply this to PR type X, I expect Y improvement"
+3. **Implement**: Generate fix using the technique
+4. **Test on real PRs**: Compare against actual merged commits
+5. **Score**: Diff similarity + canonical pattern compliance
+6. **Record**: Log to research-wiki/syntheses/cycle_*.md
+7. **Iterate or abandon**: Keep if >10% improvement
+
+---
+
+## Auto-Research Experiment Cycles (A-E)
+
+| Cycle | Technique | PRs Tested | Status |
+|-------|-----------|-----------|--------|
+| A | Self-Refine (3-iteration) | 3 | Done |
+| B | Extended Thinking | 3 | Done |
+| C | Process Reward Models (PRM) | 2 | Done |
+| D | Canonical Code Scorer | 3 | Done |
+| E | SWE-bench Harness (test-first) | 2 | Done |
 
 ---
 
@@ -68,145 +95,45 @@ Use `[[PageName]]` wikilinks to link to other wiki pages.
 Triggered by: *"ingest <file>"* or `/wiki-ingest`
 
 Steps (in order):
-1. Read the source document fully using the Read tool
-2. Read `wiki/index.md` and `wiki/overview.md` for current wiki context
-3. Write `wiki/sources/<slug>.md` — use the source page format below
+1. Read the source document fully
+2. Read `wiki/index.md` and `wiki/overview.md` for context
+3. Write `wiki/sources/<slug>.md` — source page format
 4. Update `wiki/index.md` — add entry under Sources section
-5. Update `wiki/overview.md` — revise synthesis if warranted
-5b. **Oracle impact check** — After creating entity/concept pages, check if new content affects any [[jeffrey-oracle]] prediction. Look for: new patterns that should become oracle rules, contradictions with existing oracle rules, new situations not covered by the oracle's decision table. If impact found: append to `wiki/log.md`: `## [YYYY-MM-DD] oracle-impact | <Title> | <Description>`
-5c. **Oracle wikilink check** — If a new concept page is relevant to oracle rules, add a [[wikilink]] from the oracle to the new page. Don't let the oracle become orphaned from its own knowledge.
-6. Update/create entity pages for key people, companies, projects mentioned
-   - **"Key entity" for campaign text:** Extract and create entity pages for: (a) player character, (b) named NPCs appearing in 3+ scenes, (c) named locations, (d) factions/organizations
-   - If adding 100+ source pages, verify entity ratio stayed above 5% after the batch
-7. Update/create concept pages for key ideas and frameworks discussed
-   - For campaigns: game mechanics (level-up, combat, spells), settings (Baldur's Gate, etc.), themes
-8. Flag any contradictions with existing wiki content
-9. Append to `wiki/log.md`: `## [YYYY-MM-DD] ingest | <Title>`
-
-### Source Page Format
-
-```markdown
----
-title: "Source Title"
-type: source
-tags: []
-date: YYYY-MM-DD
-source_file: raw/...
----
-
-## Summary
-2–4 sentence summary.
-
-## Key Claims
-- Claim 1
-- Claim 2
-
-## Key Quotes
-> "Quote here" — context
-
-## Connections
-- [[EntityName]] — how they relate
-- [[ConceptName]] — how it connects
-
-## Contradictions
-- Contradicts [[OtherPage]] on: ...
-```
+5. Update `wiki/overview.md` — revise synthesis
+6. Create/update entity pages for key people/companies/projects
+7. Create/update concept pages for key ideas
+8. Append to `wiki/log.md`: `## [YYYY-MM-DD] ingest | <Title>`
 
 ---
 
-## Query Workflow
+## Research Plan
 
-Triggered by: *"query: <question>"* or `/wiki-query`
-
-Steps:
-1. Read `wiki/index.md` to identify relevant pages
-2. Read those pages with the Read tool
-3. Synthesize an answer with inline citations as `[[PageName]]` wikilinks
-4. Ask the user if they want the answer filed as `wiki/syntheses/<slug>.md`
+**Phase 1 (done):** Bootstrap wiki with frontier papers (2022-2026) + canonical repos
+**Phase 2 (done):** Run 5-cycle auto-research experiment (A-E) on worldarchitect.ai PRs
+**Phase 3 (todo):** Self-discovering meta-research — generate novel hypotheses from results
+**Phase 4 (todo):** Final synthesis — what worked, what didn't, recommendations
 
 ---
 
-## Lint Workflow
+## Scoring: Canonical Pattern Compliance
 
-Triggered by: *"lint the wiki"* or `/wiki-lint`
+Rather than comparing against potentially buggy existing code, score generated fixes against **ideal patterns** from canonical repos:
 
-Use Grep and Read tools to check for:
-- **Orphan pages** — wiki pages with no inbound `[[links]]` from other pages
-- **Broken links** — `[[WikiLinks]]` pointing to pages that don't exist
-- **Contradictions** — claims that conflict across pages
-- **Stale summaries** — pages not updated after newer sources
-- **Missing entity pages** — entities mentioned in 3+ pages but lacking their own page
-- **Data gaps** — questions the wiki can't answer; suggest new sources
-
-Output a lint report and ask if the user wants it saved to `wiki/lint-report.md`.
-
----
-
-## Graph Workflow
-
-Triggered by: *"build the knowledge graph"* or `/wiki-graph`
-
-When the user asks to build the graph, run `tools/build_graph.py` which:
-- Pass 1: Parses all `[[wikilinks]]` → deterministic `EXTRACTED` edges
-- Pass 2: Infers implicit relationships → `INFERRED` edges with confidence scores
-- Runs Louvain community detection
-- Outputs `graph/graph.json` + `graph/graph.html`
-
-If the user doesn't have Python/dependencies set up, instead generate the graph data manually:
-1. Use Grep to find all `[[wikilinks]]` across wiki pages
-2. Build a node/edge list
-3. Write `graph/graph.json` directly
-4. Write `graph/graph.html` using the vis.js template
+| Dimension | Weight | Source |
+|----------|--------|--------|
+| Naming | 15% | FastAPI, Requests conventions |
+| Error Handling | 20% | FastAPI typed exceptions |
+| Type Safety | 20% | TypedDict for data shapes |
+| Architecture | 20% | Canonical repo patterns |
+| Test Coverage | 15% | Test quality vs complexity |
+| Documentation | 10% | Docstrings, comments |
 
 ---
-
-## Naming Conventions
-
-- Source slugs: `kebab-case` matching source filename
-- Entity pages: `TitleCase.md` (e.g. `OpenAI.md`, `SamAltman.md`)
-- Concept pages: `TitleCase.md` (e.g. `ReinforcementLearning.md`, `RAG.md`)
-- Source pages: `kebab-case.md`
-
-## Index Format
-
-```markdown
-# Wiki Index
-
-## Overview
-- [Overview](overview.md) — living synthesis
-
-## Sources
-- [Source Title](sources/slug.md) — one-line summary
-
-## Entities
-- [Entity Name](entities/EntityName.md) — one-line description
-
-## Concepts
-- [Concept Name](concepts/ConceptName.md) — one-line description
-
-## Syntheses
-- [Analysis Title](syntheses/slug.md) — what question it answers
-```
 
 ## Log Format
 
-Each entry starts with `## [YYYY-MM-DD] <operation> | <title>` so it's grep-parseable:
-
 ```
-grep "^## \[" wiki/log.md | tail -10
+## [YYYY-MM-DD] operation | title
 ```
 
-Operations: `ingest`, `query`, `lint`, `graph`
-
----
-
-## Insight Presentation Rule
-
-When presenting insights or recommendations from wiki content:
-
-1. **Verify novelty first** — Check if the concept already exists in:
-   - User's known repos (ai_universe, worldarchitect.ai, jleechanclaw)
-   - Existing slash commands (/4layer, /harness, etc.)
-   - Recent merged PRs in worldarchitect.ai
-2. **Flag uncertainty** — If unsure whether user already knows something, say "you may already have this"
-3. **Don't present as novel** — Ideas the user has already built are not insights
+Operations: `ingest`, `query`, `lint`, `graph`, `cycle_a`, `cycle_b`, etc.
