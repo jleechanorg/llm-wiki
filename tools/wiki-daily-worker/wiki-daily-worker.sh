@@ -1,13 +1,13 @@
 #!/bin/bash
-# wiki-daily-worker.sh - Daily wiki improvement via AO minimax worker
-# Location: ~/.openclaw/scripts/wiki-daily-worker.sh
+# Daily wiki maintenance: optional ingest + ratio check.
+# Installed copy lives at: ~/Library/Application Support/llm-wiki/daily-worker.sh
+# (Run tools/wiki-daily-worker/install.sh — not tied to OpenClaw or this repo path.)
 
 set -e
 
-WIKI_DIR="$HOME/llm_wiki"
-MEMORY_WIKI="$HOME/memory/wiki"
+WIKI_DIR="${LLM_WIKI_DIR:-$HOME/llm_wiki}"
+MEMORY_WIKI="${MEMORY_WIKI_DIR:-$HOME/memory/wiki}"
 LOG_FILE="$HOME/Library/Logs/wiki-daily-worker.log"
-SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 
 log() {
     echo "[$(date '+%Y-%m-%d %H:%M')] $1" | tee -a "$LOG_FILE"
