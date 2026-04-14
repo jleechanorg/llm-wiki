@@ -19,6 +19,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Self-Debias](sources/self-debias-paper.md) — Self-correction for debiasing LLMs via trajectory optimization; addresses bias propagation through CoT; 20k samples sufficient
 - [AdverMCTS](sources/advermcts-paper.md) — Adversarial MCTS to combat pseudo-correctness; minimax game between Solver and Attacker agents; reduces false positive rates on hidden tests
 - [Level-Up v4 Semantic Regression: 6 Production Bugs](sources/level-up-v4-semantic-regression-bug.md) — should_show_rewards_box suppresses ALL non-level-up XP rewards — 4/6 production bugs trace to PR #6273 semantic change
+- [Level-Up v4 Current Status (2026-04-14)](sources/level-up-v4-current-status-2026-04-14.md) — 4-layer TDD complete (all done), PR #6273 deployed with regression, #6276 OPEN, 3 remaining bugs: should_show_rewards_box fix, project_level_up_ui void return, hardcoded HP values
 - [Rewards Engine: Single-Responsibility Pipeline Refactor](sources/level-up-engine-v4-design.md) — v4 design: single orchestration root (llm_parser.py), 7-stage pipeline, rewards_engine idempotent, closes #6262/#6263/#6264/#6268
 - [System Design Primer](sources/system-design-primer.md) — API design, caching, database sharding, microservices; case studies: GitHub Stadium, GitHub Search, YouTube, Dropbox
 - [Level-Up Second Opinion Analysis](sources/level-up-second-opinion-analysis.md) — Real Cerebras+Gemini+Perplexity secondo: SRP confirmed, double-touch accurate, 5 edge case warnings

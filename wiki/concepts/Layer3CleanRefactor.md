@@ -1,10 +1,12 @@
 ---
 title: "Layer3CleanRefactor"
 type: concept
-tags: [worldarchitect-ai, architecture, rewards-engine]
-sources: [test-prs/pr-6276-layer3-clean-strip-rewards-detection.md]
+tags: [worldarchitect-ai, architecture, rewards-engine, TDD, level-up]
+sources: [level-up-v4-current-status-2026-04-14, level-up-engine-v4-design]
 last_updated: 2026-04-14
 ---
+
+**PR #6276**: `feat(world_logic: Layer 3 CLEAN — strip old rewards detection)`. Status: **OPEN**, not yet deployed. Strips `world_logic.py` of deprecated rewards detection functions (91 lines deleted), delegates to `rewards_engine` public API. Fix for the `should_show_rewards_box` semantic regression must be folded into this PR or issued as a separate PR before merge.
 
 ## What It Is
 

@@ -1,8 +1,8 @@
 ---
 title: "Level-Up Code Architecture"
 type: concept
-tags: [architecture, level-up, rewards-box, world_logic, game_state, separation-of-concerns, llm_parser, rewards_engine, single-responsibility]
-sources: [pr-6262-6263-6264-6268-level-up-pr-chain]
+tags: [architecture, level-up, rewards-box, world_logic, game_state, separation-of-concerns, llm_parser, rewards_engine, single-responsibility, TDD]
+sources: [level-up-v4-current-status-2026-04-14, level-up-engine-v4-design, pr-6262-6263-6264-6268-level-up-pr-chain]
 last_updated: 2026-04-14
 ---
 
