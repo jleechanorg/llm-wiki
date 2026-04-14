@@ -101,7 +101,7 @@ Results from live AO agent runs on worldarchitect.ai codebase:
 | Technique | WA-001 (small) | WA-004 (medium) | WA-005 (complex) | Avg Δ | Verified |
 |-----------|----------------|-----------------|------------------|-------|----------|
 | **Meta-Harness** | 83 (+33) | 78 (+28) | 69 (+19) | **+27** | ✅ LIVE 3/3 |
-| **SWE-bench** | 82 (+32) | 69 (+19) | 84 (+34)* | **+28*** | ✅ LIVE 3/3* |
+| **SWE-bench** | 82 (+32) | 69 (+19) | 77 (+27) | **+26** | ✅ LIVE 3/3 |
 | **ExtendedThinking** | 94 (+44) | 76 (+26)** | 80 (+30)** | **+33** | ✅ LIVE 1/3 |
 | **SelfRefine** | 52 (+2) | 74 (+24) | 53 (+3) | **+10** | ✅ LIVE 3/3 ⚠️ |
 | PRM | 68 (PR#6269) | 50 (PR#6270) | 54 (PR#6273) | +7 | ⚠️ Wrong PRs |
