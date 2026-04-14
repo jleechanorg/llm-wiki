@@ -11,6 +11,7 @@
 !wiki/sources/*.md
 !skills/*.md
 !test-prs/*.md
+!.claude/skills/*/SKILL.md
 !*.py
 
 # Ignore OS files
