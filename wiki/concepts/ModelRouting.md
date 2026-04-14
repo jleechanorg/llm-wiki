@@ -45,5 +45,9 @@ Use Claude team with Minimax model:
 
 ## Connections
 
-- [[EvidenceReview]] - Secondary review step
-- [[Parallelization]] - Multiple agents, multiple models
+- [[EvidenceReview]] — Secondary review step
+- [[Parallelization]] — Multiple agents, multiple models
+- [[ReasoningBudget]] — model routing and reasoning budget are complementary adaptive allocation strategies: routing selects which model, budget controls how much compute that model uses
+- [[HarnessEngineering]] — a harness implements model routing as part of its dispatch logic
+- [[AgenticCoding]] — agentic coding systems benefit from routing tasks to appropriate models
+- [[AdaptiveComputation]] — model routing is a form of adaptive computation at the model-selection level

@@ -1,7 +1,7 @@
 ---
 title: "Canonical Code Patterns"
 type: concept
-tags: [canonical, fastapi, requests, trpc, tanstack-query, tokio]
+tags: [canonical, python, typescript, rust, fastapi, requests, pydantic, sqlalchemy, celery, trpc, tanstack-query, tokio]
 sources: []
 last_updated: 2026-04-14
 ---
@@ -16,6 +16,9 @@ Canonical code patterns are the defining architectural and stylistic choices mad
 |------|-----------------|-------------|
 | [[FastAPIErrorHandling]] | Exception hierarchy | Typed HTTP exceptions with docstrings |
 | [[RequestsAPIDesign]] | API simplicity | Flat request functions, session composition |
+| [[PydanticPatterns]] | Type validation | BaseModel, Field(), ValidationError, discriminated unions |
+| [[SQLAlchemyPatterns]] | ORM patterns | sessionmaker, DeclarativeBase, select(), object state machine |
+| [[CeleryPatterns]] | Task queue | bind=True tasks, autoretry/backoff, canvas primitives |
 | [[tRPCTypeSafety]] | End-to-end types | Procedure generics, input/output inference |
 | [[TanStackQueryState]] | State caching | Observer pattern, query key hashing |
 | [[AxumAsyncPatterns]] | Composable handlers | Layered middleware, From extraction |

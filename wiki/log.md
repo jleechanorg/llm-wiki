@@ -1,3 +1,12 @@
+## [2026-04-14] layer2 | Layer 2 BFS discovery — 5 new concept pages (BeamSearchOverReasoning, CompilerVerification, SelfRefine, SelfGeneratedTestGeneration, SelfRefine already exists) + 4 enhanced (DeterministicFeedbackLoops, ModelRouting, ExtendedThinking, SelfCritique)
+## [2026-04-14] ingest | Canonical Code Patterns | ZustandPatterns: State management, store as hook, slice pattern
+## [2026-04-14] ingest | Canonical Code Patterns | NextJSPatterns: Full-stack React framework, Server/Client Components
+## [2026-04-14] ingest | Canonical Code Patterns | ExpressPatterns: Node.js HTTP framework, middleware chain, error handling
+## [2026-04-14] ingest | Canonical Code Patterns | PydanticPatterns, SQLAlchemyPatterns, CeleryPatterns: Python validation, ORM, task queue canonical patterns
+
+## [2026-04-14] ingest | Layer 1 self-refinement papers | RefineRL (arxiv:2604.00790), ThinkTwice (arxiv:2604.01591), SelfDebias (arxiv:2604.08243), AdverMCTS (arxiv:2604.10449)
+## [2026-04-14] ingest | Layer 1 frontier papers | SWE-Shepherd (arXiv:2604.10493), FM-Agent (arXiv:2604.11556)
+## [2026-04-14] ingest | Layer 1 agent improvement papers | Mem2Evolve (ACL 2026), AgentMentor (spec ambiguity), E3TIR (ACL 2026), CodeComp (KV compression)
 ## [2026-04-14] lint | Wikilink audit — fixed 583 case-mismatches (266 unique patterns), created [[Neongreen]] entity, cleaned external refs; 2099 remaining (1927 CamelCase missing pages, ~172 shell artifacts)
 ## [2026-04-14] update | AutoResearchExperiment concept — enhanced with 5-layer architecture, ProductJudge, TasteLearningLoop, design principles, results
 ## [2026-04-14] ingest | Auto-Research Loop — 4-phase self-discovering meta-research, hypothesis generation from PR patterns

@@ -26,6 +26,8 @@ Formal Verification is the use of mathematical proof systems — such as Lean, C
 - [[SelfDebugging]] — verified code is a prerequisite for reliable self-debugging; a model debugging verified code can rely on the specification
 - [[Lean]] — specific proof assistant increasingly used in AI-assisted verification contexts
 - [[HarnessEngineering]] — a harness can route safety-critical code to a formal verification stage before deployment
+- [[CompilerVerification]] — verified compilers (CompCert, CakeML) provide end-to-end guarantees for the compilation chain
+- [[ProofAssistant]] — formal verification uses proof assistants (Lean, Coq, Isabelle) as the toolchain for building proofs
 
 ## Relationships to Other Concepts
 

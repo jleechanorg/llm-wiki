@@ -14,6 +14,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
+- [RefineRL](sources/refinere-ll-paper.md) — RL-based self-refinement for competitive programming; 4B surpasses 32B, approaches 235B single-attempt results; Skeptical-Agent + RLVR training
+- [ThinkTwice](sources/think-twice-paper.md) — Joint GRPO optimization of reasoning + self-refinement; +11.5pp on AIME after one refinement step; no critique annotations needed
+- [Self-Debias](sources/self-debias-paper.md) — Self-correction for debiasing LLMs via trajectory optimization; addresses bias propagation through CoT; 20k samples sufficient
+- [AdverMCTS](sources/advermcts-paper.md) — Adversarial MCTS to combat pseudo-correctness; minimax game between Solver and Attacker agents; reduces false positive rates on hidden tests
 - [Rewards Engine: Single-Responsibility Pipeline Refactor](sources/level-up-engine-v4-design.md) — v4 design: single orchestration root (llm_parser.py), 7-stage pipeline, rewards_engine idempotent, closes #6262/#6263/#6264/#6268
 - [System Design Primer](sources/system-design-primer.md) — API design, caching, database sharding, microservices; case studies: GitHub Stadium, GitHub Search, YouTube, Dropbox
 - [Level-Up Second Opinion Analysis](sources/level-up-second-opinion-analysis.md) — Real Cerebras+Gemini+Perplexity secondo: SRP confirmed, double-touch accurate, 5 edge case warnings
@@ -23,7 +27,15 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Level-Up PR Chain Analysis (PRs #6262-#6268)](sources/pr-6262-6263-6264-6268-level-up-pr-chain.md) — v3 architecture supersedes all 4 PRs; llm_parser single entry, game_state first, rewards_engine second, world_logic thin wrapper; all 4 PRs share off-by-one + wrong dict keys bugs; branch feat/rewards-engine-single-responsibility
 - [Auto-Research Experiment v2.1](sources/auto-research-experiment-v21.md) — Streamlined 3-skill system: self-critique loop + auto-research loop + canonical scorer; tests frontier techniques on real PRs
 - [Master AI Research & Product Taste System](sources/auto-product-master-system.md) — Full v2.1 master system: adds Product Taste Layer (ProductJudge, TasteLearningLoop) to the auto-research experiment
+- [SWE-Shepherd Paper](sources/swe-shepherd-paper.md) — PRMs providing step-level supervision for repository-level code agents; arXiv:2604.10493
+- [FM-Agent Paper](sources/fm-agent-paper.md) — LLM-based Hoare-style reasoning for automated specification generation; 522 bugs in 143k LOC; arXiv:2604.11556
 - [OpenClaw Self-Refine Experiment — Cycle 1](sources/openclaw-self-refine-experiment.md) — Self-refine vs baseline on TEST-PR-001; ABANDONED for deterministic fixes; key finding: Context > Self-Critique; token cap hit before convergence
+
+### Agent Improvement & Memory (Layer 1)
+- [Mem²Evolve Paper](sources/mem2evolve-paper.md) — Co-evolutionary framework: experience memory + asset memory, 18.53% improvement; ACL 2026
+- [Agent Mentor Paper](sources/agent-mentor-paper.md) — Execution log monitoring to inject corrective instructions; addresses spec ambiguity; open-source
+- [E3-TIR Paper](sources/e3-tir-paper.md) — Enhanced experience exploitation for tool-integrated reasoning; 6-point improvement with <10% synthetic data; ACL 2026
+- [CodeComp Paper](sources/code-comp-paper.md) — KV cache compression via Code Property Graph analysis; training-free; SGLang-compatible
 
 ### Auto-Research Experiment (v2.1 Skill Files)
 - [Auto-Research Loop](sources/auto-research-loop.md) — 4-phase self-discovering meta-research: hypothesis generation from PR patterns, implementation, evaluation, wiki+bead updates
@@ -5702,7 +5714,16 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [HookBypass](concepts/HookBypass.md) — tmux/cmux/API bypass UserPromptSubmit hooks for agent workflows
 - [LevelUpSynthesisFix](concepts/LevelUpSynthesisFix.md) — Stuck-completion reconciliation: synthesize missing rewards_box when level_up_complete=True; D&D 5e ASI injection at levels 4/8/12/14/16/19; PR #6275 has undefined `build_level_up_rewards_box` (BLOCKER) and ASI test setup bugs
 - [StoryPaginationFix](concepts/StoryPaginationFix.md) — FakeFirestore precondition guard pattern + `_coerce_first_valid` helper; PR #6272 blocked by committed merge conflict markers
+- [SWE-Shepherd](concepts/SWE-Shepherd.md) — PRMs for step-level supervision of code agents; trains lightweight reward model on SWE-Bench trajectories for inference-time action guidance
+- [FM-Agent](concepts/FM-Agent.md) — LLM-based Hoare-style reasoning for automated function specification generation; found 522 bugs in 143k LOC systems
 - [OracleCLI](concepts/OracleCLI.md) — Multi-model second-opinion workflow using Cerebras Qwen 3, Grok 4, Perplexity, GPT-5
+- [ZodPatterns](concepts/ZodPatterns.md) — TypeScript-first schema validation: schema as types, refinements, discriminated unions, ZodEffects
+- [ZustandPatterns](concepts/ZustandPatterns.md) — Minimal state management: store as hook, slice pattern, middleware (devtools, persist, immer)
+- [NextJSPatterns](concepts/NextJSPatterns.md) — Full-stack React: Server/Client Components, route handlers, Server Actions, streaming, caching
+- [ExpressPatterns](concepts/ExpressPatterns.md) — Node.js HTTP: middleware chain, error-handling, Router, async error wrapping
+- [PydanticPatterns](concepts/PydanticPatterns.md) — Python runtime validation: BaseModel, Field(), field_validator, ConfigDict, ValidationError, discriminated unions
+- [SQLAlchemyPatterns](concepts/SQLAlchemyPatterns.md) — Python ORM: sessionmaker, DeclarativeBase, select(), object state machine, transaction management, canvas patterns
+- [CeleryPatterns](concepts/CeleryPatterns.md) — Python task queue: bind=True tasks, autoretry with backoff, canvas (chain/group/chord), time limits, broker patterns
 - [Think Mode](concepts/ThinkMode.md) — game mode for strategic planning without narrative advancement; advances time by only 1 microsecond
 - [APIDesign](concepts/APIDesign.md) — RESTful design, versioning, rate limiting, and request validation principles
 - [AutoResearchLoop](concepts/AutoResearchLoop.md) — Self-discovering meta-research: generates hypotheses from PR patterns, tests on real PRs, scores via CanonicalCodeScorer, records in wiki
@@ -5768,8 +5789,11 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Sovereign Hub](concepts/SovereignHub.md) — campaign framework
 - [Iron Crisis](concepts/IronCrisis.md) — Forgotten Realms economic collapse, Nashkel mines
 - [The Hunger](concepts/TheHunger.md) — Custom stat modifier mechanic, satiated +2 / withdrawal -2
+- [Beam Search Over Reasoning](concepts/BeamSearchOverReasoning.md) — PRM-guided beam search over k reasoning paths; prunes bad paths at first bad step, concentrating test-time compute efficiently
+- [Compiler Verification](concepts/CompilerVerification.md) — Formal verification of compilers (CompCert, CakeML); semantic preservation proofs as inspiration for AI coding toolchain guarantees
 - [Nautiloid (Mind Flayer Ship)](concepts/Nautiloid.md) — Living organic vessel, BG3 opening setting
-
+- [SelfRefine](concepts/SelfRefine.md) — Iterative generate-critique-revise loop (Madaan 2023); distinct from pre-hoc extended thinking, achieves 20-40% error reduction in 2-3 passes
+- [Self-Generated Test Generation](concepts/SelfGeneratedTestGeneration.md) — AI models producing test cases for their own output; fills coverage gaps, requires test execution for verification
 - [XP (Experience Points)](concepts/XP.md) — D&D 5e currency for progression; awarded for combat, encounters, quests, and milestones; triggers level-up when thresholds are reached
 - [Miasma](concepts/Miasma.md) — Divine blood of Venus, Gaia Julia's unique power
 - [College of Swords Bard](concepts/CollegeOfSwordsBard.md) — Bard subclass, blade-focused melee combat
