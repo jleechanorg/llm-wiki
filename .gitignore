@@ -4,10 +4,12 @@
 !CLAUDE.md
 !wiki/*.md
 !wiki/jeffrey/*.md
+!wiki/product-taste/*.md
 !wiki/entities/*.md
 !wiki/concepts/*.md
 !wiki/syntheses/*.md
 !wiki/sources/*.md
+!skills/*.md
 !*.py
 
 # Ignore OS files
