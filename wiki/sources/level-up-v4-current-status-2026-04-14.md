@@ -104,9 +104,53 @@ Fix: either capture and use the return value, or remove the dead call.
 
 ## Connections
 
+- [[LevelUpEngineKnowledgeBase]] — **PRIMARY** — authoritative requirements + code truth + open bugs (supersedes this doc for architecture questions)
 - [[RewardsEngine]] — `should_show_rewards_box`, `_canonicalize_core`, semantic regression
 - [[LevelUpCodeArchitecture]] — full architecture, v4 regression analysis
 - [[SingleResponsibilityPipeline]] — 7-stage pipeline, single forward pass
 - [[Layer3CleanRefactor]] — Layer 3 CLEAN details
 - [[LevelUpBugInvestigation]] — prior bug chain (v1-v3 regressions)
 - [[FrontendRewardsBoxGate]] — frontend visibility gate for xp_gained
+
+---
+
+## Session Learnings (2026-04-14)
+
+### CR Blocker Cleared
+
+5 stale CodeRabbitAI CHANGES_REQUESTED dismissed → `mergeable_state: blocked → unstable`. Pre-existing infra failures (Node.js 20 deprecation) remain — not introduced by PR.
+
+### Code vs Design Honest Gap
+
+PR #6276 achieved **pragmatic Layer 3 CLEAN**:
+- ✅ world_logic delegates to `rewards_engine.project_level_up_ui()`
+- ✅ No duplicate XP math
+- ✅ Single-call invariant honored (one `canonicalize_rewards` per path)
+
+**NOT achieved**: The aspirational v4 "thin modal wrapper only" design. These orchestration wrappers still live in world_logic — they delegate TO rewards_engine but contain orchestration logic:
+
+- `_enforce_primary_rewards_box_postcondition` (world_logic.py:1246)
+- `_project_level_up_ui_from_game_state` (world_logic.py:1669)
+- `_has_level_up_ui_signal` (world_logic.py:1695)
+- `_resolve_canonical_level_up_ui_pair` (world_logic.py:1715)
+
+### Real-Server E2E Confirmed
+
+| Test | Result |
+|---|---|
+| `testing_mcp/test_cr1_premodal_badge_projection.py` | **PASS 1/1** — 59 streaming chunks, real combat XP crossing threshold |
+| `testing_mcp/streaming/test_level_up_streaming_e2e.py` | **PASS 2/2** — Scenario A (real XP) + Scenario B (rewards_box contract) |
+
+Both tests run against: real Firebase, real LLM, real local server. No mocks.
+
+### 3 Remaining Open Bugs
+
+These are NOT addressed in PR #6276:
+
+1. **XP-progress suppression**: `should_show_rewards_box()` + `_canonicalize_core()` step 5 suppresses non-level-up `rewards_box`
+2. **`project_level_up_ui` metadata emit**: Early metadata guard may drop `projected_rb/projected_pb` (fixed in CR #1 commit)
+3. **HP hardcoding**: `ensure_planning_block` uses `HIT_DICE_BY_CLASS` — partially fixed but key matching needs verification
+
+### Wiki Location
+
+Wiki cloned at: `/home/jleechan/projects_other/llm-wiki/wiki/`
