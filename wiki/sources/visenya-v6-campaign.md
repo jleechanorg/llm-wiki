@@ -3,7 +3,10 @@ title: "Visenya V6 - Campaign Bible"
 type: source
 tags: [got, game-of-thrones, targaryen, winterfell, campaign, roleplay]
 date: 2026-04-08
-source_file: /tmp/campaign_downloads/Visenya V6_JkKR510z.txt
+source_file: /tmp/campaign_ingest_new/Visenya V6_JkKR510z.txt
+campaign_id: JkKR510zImWiFiVHMGGV
+entry_count: 307
+last_updated: 2026-04-13
 ---
 
 ## Summary

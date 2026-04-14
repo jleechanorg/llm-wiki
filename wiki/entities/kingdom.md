@@ -1,22 +1,22 @@
 ---
 title: "Kingdom"
 type: entity
-tags: [aizen-godhood-continued, faction]
-sources: [aizen-godhood-continued]
+tags: [gaia-julia-v2, faction]
+sources: [gaia-julia-v2]
 last_updated: 2026-04-12
-appearances: 27
-total_scenes: 78
+appearances: 5
+total_scenes: 521
 ---
 
 ## Overview
 
-Kingdom appears in 27 scenes across the [[aizen-godhood-continued]] campaign.
+Kingdom appears in 5 scenes across the [[gaia-julia-v2]] campaign.
 
 ## Description
 
-Kingdom is an entity from the aizen-godhood-continued campaign.
+Kingdom is an entity from the gaia-julia-v2 campaign.
 
 ## References
-- [[aizen-godhood-continued]] — campaign overview
-- [[aizen-godhood-continued-campaign]]
+- [[gaia-julia-v2]] — campaign overview
+- [[gaia-julia-v2-campaign]]
 

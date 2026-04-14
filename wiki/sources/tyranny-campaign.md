@@ -3,9 +3,11 @@ title: "Tyranny Campaign"
 type: source
 tags: [campaign, tyranny, obsidian, tiers, bard]
 date: 2026-04-12
-source_file: /tmp/campaign_downloads_v2/Tyranny_qjVpLfow.txt
+source_file: /tmp/campaign_ingest_new/Tyranny_qjVpLfow.txt
+campaign_id: qjVpLfowsILq40DFKD6N
 campaign_slug: tyranny
 scene_total: 291
+entry_count: 582
 ---
 
 ## Summary
