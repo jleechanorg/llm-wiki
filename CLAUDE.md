@@ -137,3 +137,22 @@ Rather than comparing against potentially buggy existing code, score generated f
 ```
 
 Operations: `ingest`, `query`, `lint`, `graph`, `cycle_a`, `cycle_b`, etc.
+
+---
+
+## Auto-Research Evidence Rule (MANDATORY)
+
+When running experiments (auto-research, benchmark, technique tests):
+
+1. **Run artifacts MUST exist**: stdout logs, commit timestamps, score JSON files
+2. **Do NOT declare complete based solely on reading prior-session artifacts**
+3. **Wiki-ingest only after run artifacts are committed alongside results**
+4. **Session ID required**: Every cycle file must have `run_session: <session_id>` in frontmatter
+5. **Verifier agent required**: After all techniques complete, run verification to check each cycle has matching log + score evidence
+
+**Proof of execution required for any technique claim:**
+- Log file: `wiki/syntheses/et_logs/<technique>_<pr>_<timestamp>.log`
+- Score file: `research-wiki/scores/<technique>_<pr>_<timestamp>.json`
+- Cycle file frontmatter must include `run_session`
+
+**If results appear pre-existing and unverifiable**: Say "Cannot confirm live execution — re-run required" and run the experiment fresh.
