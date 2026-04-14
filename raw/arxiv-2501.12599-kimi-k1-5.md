@@ -1,0 +1,42 @@
+---
+title: "Kimi k1.5: Scaling Reinforcement Learning with LLMs"
+type: paper
+tags: [RL, reinforcement-learning, RLVR, reasoning, coding, multimodal]
+date: 2025-01-22
+arxiv_url: https://arxiv.org/abs/2501.12599
+---
+
+## Summary
+Kimi k1.5 is a multi-modal LLM trained with reinforcement learning, demonstrating that scaling RL unlocks a new axis for AI improvement beyond just pretraining. The framework is deliberately simplistic — no Monte Carlo tree search, value functions, or process reward models — yet achieves state-of-the-art reasoning performance across multiple benchmarks. Long context scaling and improved policy optimization are identified as key ingredients.
+
+## Key Claims
+- Achieves **77.5 on AIME**, **96.2 on MATH 500**, **94th percentile on Codeforces**, **74.9 on MathVista**
+- Matches OpenAI's o1 on reasoning benchmarks
+- Long2short methods yield state-of-the-art short-CoT reasoning, outperforming GPT-4o and Claude Sonnet 3.5 by up to **+550%**
+- "Simplistic" RL framework — no MCTS, value functions, or process reward models needed
+- Long context scaling + improved policy optimization are key ingredients
+- LLMs can scale training data by learning to explore with rewards
+
+## Technique/Method
+- Long context scaling for RL training
+- Improved policy optimization techniques
+- Long2short: distilling long-CoT reasoning quality into short-CoT models
+- Multimodal training (not just text)
+- Rewards drive exploration — no complex planning infrastructure needed
+
+## Results
+- State-of-the-art across AIME, MATH 500, Codeforces, MathVista
+- Short-CoT models (via Long2short) dramatically outperform prior short-CoT approaches
+- Demonstrates RL as viable alternative to process reward models for reasoning
+
+## Limitations
+- Training infrastructure requirements for long-context RL are significant
+- Long2short distillation quality depends on teacher model quality
+- Benchmark performance may not fully generalize to real-world coding tasks
+- Paper from Kimi team — less independent evaluation available
+
+## Connections
+- Strong evidence for RLVR (Reinforcement Learning with Verifiable Rewards) approach
+- Relevant to chain-of-thought and extended reasoning research
+- Long2short insight applicable to coding agent efficiency
+- Supports RL-based approach to agentic coding improvement

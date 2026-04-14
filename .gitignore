@@ -11,6 +11,8 @@
 !wiki/sources/*.md
 !skills/*.md
 !test-prs/*.md
+!raw/*.md
+!raw/**/*.md
 !.claude/skills/*/SKILL.md
 !*.py
 
