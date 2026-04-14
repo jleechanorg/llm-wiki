@@ -3,7 +3,7 @@ title: "Rewards Box"
 type: concept
 tags: [json-structure, game-output, rewards]
 sources: [deferred-rewards-protocol]
-last_updated: 2026-04-08
+last_updated: 2026-04-14
 ---
 
 The `rewards_box` is a JSON structure included in LLM responses when awarding deferred XP/loot.
@@ -27,7 +27,7 @@ The `rewards_box` is a JSON structure included in LLM responses when awarding de
 ## Fields
 
 | Field | Purpose |
-|-------|--------|
+|-------|---------|
 | `source` | Always "deferred" to indicate catch-up rewards |
 | `deferred_reason` | Explains what was missed |
 | `xp_gained` | Amount of XP being awarded |
@@ -38,7 +38,17 @@ The `rewards_box` is a JSON structure included in LLM responses when awarding de
 | `loot` | Array of items awarded |
 | `gold` | Gold amount awarded |
 
+## Normalization
+
+All `rewards_box` output **must** be normalized via `normalize_rewards_box_for_ui()` before persistence. This function:
+- Coerces messy LLM keys (`xp` → `xp_gained`, `gold_pieces` → `gold`)
+- Converts string booleans (`"true"` → `True`)
+- Strips non-standard keys and validates visible content
+
+**Critical path (PR #6265):** `_resolve_canonical_level_up_ui_pair` passthrough branch calls `normalize_rewards_box_for_ui`. Without this, raw LLM `rewards_box` with messy keys flows directly to Firestore.
+
 ## Related Concepts
 
 - [[Deferred Rewards Protocol]] — protocol that generates rewards_box
 - [[Rewards Processed Flag]] — prevents duplicate awards
+- [[LevelUpBug]] — bug chain including rewards_box normalization issues

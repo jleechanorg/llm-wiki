@@ -2,13 +2,13 @@
 title: "Level-Up Bug Chain"
 type: concept
 tags: [worldarchitect-ai, bug-chain, level-up, rewards-box, structure-drift, atomicity]
-sources: [pr-6161-fix-rewards-box-planning-block-atomicity-and-get-c, pr-6161-bug-hunt-report, pr-6179-fix-living-world-inject-persisted-world-events-for, pr-6193-fix-rewards-stop-dropping-rewards-box-payloads-wit, pr-6194-investigate-dice-rolls-debug-messages-regression-p, pr-6195-fix-rewards-restore-has-visible-content-gate-with, pr-6196-dragon-knight-rewards-box, pr-6204-fix-world-logic-hoist-5-fields-out-of-rewards-box, pr-6165-launch-cta-level-up]
-last_updated: 2026-04-11
+sources: [pr-6161-fix-rewards-box-planning-block-atomicity-and-get-c, pr-6161-bug-hunt-report, pr-6179-fix-living-world-inject-persisted-world-events-for, pr-6193-fix-rewards-stop-dropping-rewards-box-payloads-wit, pr-6194-investigate-dice-rolls-debug-messages-regression-p, pr-6195-fix-rewards-restore-has-visible-content-gate-with, pr-6196-dragon-knight-rewards-box, pr-6204-fix-world-logic-hoist-5-fields-out-of-rewards-box, pr-6165-launch-cta-level-up, pr-6265-fix-streaming-passthrough-normalization]
+last_updated: 2026-04-14
 ---
 
 ## Summary
 
-The level-up bug chain is a sequence of 8+ PRs addressing cascading bugs in worldarchitect.ai's rewards_box and level-up system. The root issue spans three weeks of regressions involving structure drift, atomicity violations, and debug-gating that prevented non-debug users from seeing dice rolls and debug messages.
+The level-up bug chain is a sequence of 10+ PRs addressing cascading bugs in worldarchitect.ai's rewards_box and level-up system. The root issue spans three weeks of regressions involving structure drift, atomicity violations, and debug-gating that prevented non-debug users from seeing dice rolls and debug messages.
 
 ## Bug Chain Overview
 
@@ -22,6 +22,10 @@ The level-up bug chain is a sequence of 8+ PRs addressing cascading bugs in worl
 | #6196 | dragon knight rewards_box | PR #6137 template bypass silently dropped FIELD_REWARDS_BOX |
 | #6204 | hoist 5 fields from rewards_box block | Structure drift: 5 fields nested inside rewards_box block (checkpoint PR #2162) |
 | #6165 | launch CTA + level-up atomicity | Wizard CTA hidden + stale level-up choices during polling |
+| #6262 | stale flag recovery + atomicity enforcement | Stale flag recovery in `_project_level_up_ui_from_game_state` |
+| #6263 | stuck level-up completion | Synthesize rewards_box when level_up_complete=True but box missing |
+| #6264 | level-up atomicity helpers | Extract stuck-completion reconciliation into ensure_level_up_rewards_box/planning_block helpers |
+| **#6265** | **streaming passthrough normalization** | **FIXED — jleechan-ajww: passthrough branch calls normalize_rewards_box_for_ui** |
 
 ## Root Causes
 
@@ -47,9 +51,11 @@ Frontend debug-gated dice rolls and debug messages, but backend also had debug_m
 ## Key Files
 
 - `mvp_site/world_logic.py` — Contains all atomicity logic, polling paths, rewards_box assembly
+- `mvp_site/streaming_orchestrator.py` — Streaming done handler; uses `_resolve_canonical_level_up_ui_pair` for normalization
 - `mvp_site/rewards/` — New module (PR #6161) with `domain.py`, `builder.py`, `resolver.py`, `triggers.py`
 - `mvp_site/rewards/builder.py:normalize_rewards_box_for_ui()` — Normalizer with has_visible_content sentinel
 - `mvp_site/world_logic.py:_process_rewards_followup()` — Uses sentinel contract with normalizer
+- `mvp_site/world_logic.py:_resolve_canonical_level_up_ui_pair()` — Canonical level-up pair resolver; **passthrough branch** (line ~1728) now calls `normalize_rewards_box_for_ui` (PR #6265)
 
 ## Key Sentinels
 

@@ -63,10 +63,13 @@ Addresses 3 production bugs: sticky finish button (Class A), zero rewards_box on
 - `social_hp_challenge`, `recommend_spicy_mode`, `recommend_exit_spicy_mode`, `god_mode_response` emitted without rewards_box gate ✅
 - `rewards_box` not dropped for level-up-only payloads ✅
 - Frontend renders `debug_info.system_message` in debug mode ✅
+- **Streaming passthrough normalization (PR #6265):** `_resolve_canonical_level_up_ui_pair` passthrough branch calls `normalize_rewards_box_for_ui` ✅
 
-### What is NOT Fixed (PR #6214 not merged)
-- `_process_rewards_followup` second-LLM-call defensive mechanism still exists (line ~1733 in origin/main)
-- Single-call architecture not yet deployed
+### What is NOT Yet Fixed
+- **PR #6261** OPEN: numeric extraction refactor in `DefensiveNumericConverter`
+- **PR #6262** OPEN: stale flag recovery + atomicity enforcement
+- **PR #6263** OPEN: stuck completion synthesis
+- **PR #6264** OPEN: level-up atomicity helpers
 
 ---
 
