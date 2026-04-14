@@ -920,8 +920,8 @@ document.addEventListener('DOMContentLoaded', () => {
       html += '</ul></div>';
     }
 
-    // 4c. Rewards box (if XP was awarded)
-    if (fullData.rewards_box && fullData.rewards_box.xp_gained > 0) {
+    // 4c. Rewards box (backend normalize_rewards_box_for_ui is single source of truth)
+    if (fullData.rewards_box) {
       const rb = fullData.rewards_box;
       const source = sanitizeHtml(rb.source || 'earned');
       const xpGained = rb.xp_gained || 0;
