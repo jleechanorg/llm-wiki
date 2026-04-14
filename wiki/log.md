@@ -1,3 +1,25 @@
+## [2026-04-14] ingest | jleechanclaw infrastructure | 6 source pages: Evidence Review Schema, Operational Runbook, Orchestration System Design, Harness Engineering, Proactive Recovery Design, Bug Hunt 20260326
+## [2026-04-14] synthesize | 5 synthesis pages created | Level-up bugs analysis, Nocturne patterns, character psychology, D&D combat, WorldArchitect architecture
+## [2026-04-14] ingest | External AI knowledge | RAG, prompt engineering, Claude API, fine-tuning, RLHF
+
+Created 5 concept pages and 1 source page for external AI knowledge. Concept pages: RAG (hybrid search, chunking, reranking), Prompt Engineering (CoT, few-shot, system prompts), Claude API Best Practices (prompt caching, SDK patterns), LLM Fine-Tuning (LoRA, QLoRA, DPO), RLHF (reward modeling, PPO, Constitutional AI). Source page: external-ai-knowledge-sources.md documenting searches.
+
+## [2026-04-14] ingest | mvp_site modules | Sourced 10 Python modules as wiki pages
+
+Created 10 source pages for key mvp_site_all Python modules:
+- action_resolution_utils.py - dice roll extraction, audit events, backward compat
+- ai_factions.py - deterministic 200-faction generator with difficulty tiers
+- battle_sim.py - D&D 5.1 SRD battle simulation (fast/detailed/deterministic modes)
+- campaign_divine.py - campaign tier upgrade detection (mortal/divine/sovereign)
+- campaign_upgrade.py - planning block normalization, upgrade choice injection
+- capture_analysis.py - service interaction capture and mock comparison
+- capture_cli.py - CLI for capture analysis and mock validation
+- capture_example.py - demo of capture framework
+- agent_prompts.py - centralized prompt manipulation, schema injection
+- agents.py - agent class hierarchy, semantic intent classification
+
+Updated wiki/index.md with new source entries.
+
 ## [2026-04-13] ingest | 12 Campaigns | Source Page Frontmatter Update + Entity/Concept Creation
 
 Updated source page frontmatter for 12 campaigns with full entry counts and campaign_ids:

@@ -15,6 +15,22 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [Level-Up Bugs and Streaming Unification (2026-04-14)](sources/level-up-bugs-and-streaming-unification-2026-04-14.md) — 15+ PRs still failing: FrontendRewardsBoxGate live, streaming parity epic, app.js:924 xp_gained=0 gate, PR #6261 backend robustness
+- [mvp_site Action Resolution Utils](sources/mvp-site-action-resolution-utils.md) — Centralized helpers for action_resolution/outcome_resolution field handling, dice roll extraction, audit events, backward compatibility
+- [mvp_site AI Factions Generator](sources/mvp-site-ai-factions.md) — Deterministic 200-faction generator for WorldAI ranking system with seeded random, difficulty tiers, behavior types
+- [mvp_site Battle Simulation](sources/mvp-site-battle-sim.md) — D&D 5.1 SRD-based battle simulation with fast/detailed/deterministic modes, morale routing, casualty distribution
+- [mvp_site Campaign Divine Upgrade Detection](sources/mvp-site-campaign-divine.md) — Upgrade detection for campaign tier system (mortal->divine->sovereign), stat modifier extraction
+- [mvp_site Campaign Upgrade Planning Block](sources/mvp-site-campaign-upgrade.md) — Server-side enforcement for campaign upgrade choice injection, dict-to-array normalization
+- [mvp_site Capture Analysis Framework](sources/mvp-site-capture-analysis.md) — Analyzes captured service interactions, compares with mocks, generates accuracy reports
+- [mvp_site Capture CLI](sources/mvp-site-capture-cli.md) — Command-line interface for capture analysis, mock validation, baseline generation
+- [mvp_site Capture Example](sources/mvp-site-capture-example.md) — Demo of capture framework for recording real service interactions during testing
+- [mvp_site Agent Prompts Module](sources/mvp-site-agent-prompts.md) — Centralized prompt manipulation, schema injection, state example generation, comment stripping
+- [mvp_site Agent Architecture](sources/mvp-site-agents.md) — Agent class hierarchy, semantic intent classification with FastEmbed, priority-based mode routing
+- [jleechanclaw Evidence Review Schema](sources/jleechanclaw-evidence-review-schema.md) — Two-stage verification pipeline: automated checks + skeptic review, evidence publication rules
+- [jleechanclaw Operational Runbook](sources/jleechanclaw-operational-runbook.md) — Gateway restart, WS churn fixes, Slack dropped message handling, incident response procedures
+- [jleechanclaw Orchestration System Design](sources/jleechanclaw-orchestration-system-design.md) — OpenClaw/AO/agent architecture goals and components, 27KB design doc
+- [jleechanclaw Harness Engineering](sources/jleechanclaw-harness-engineering.md) — Philosophy: harness as environment/constraints/feedback loops, 4-layer model (Environment→AO→OpenClaw→Entropy)
+- [jleechanclaw Proactive Recovery Design](sources/jleechanclaw-proactive-recovery-design.md) — Session lifecycle fixes: Option C (gateway webhook handler) recommended over ao-backfill.sh
+- [jleechanclaw Bug Hunt 20260326](sources/jleechanclaw-bug-hunt-20260326.md) — 27 PRs reviewed, 0 bugs found; mcp-mail ack, session-reaper, mem0 config drift patterns
 - [BG1 Nocturne Campaign](sources/bg1-nocturne-campaign.md) — Dark adventure: Nocturne the Serpent Queen, Gloom Stalker Ranger, Candlekeep to Baldur's Gate, Iron Crisis
 - [BG1 Nocturne Continued Campaign](sources/bg1-nocturne-continued-campaign.md) — Level 5 Nocturne in Baldur's Gate, doppelganger conspiracy, Sarevok threat
 - [BG3 Astarion Campaign](sources/bg3-astarion-campaign.md) — Astarion Ancunín, Vampire Spawn, escape from Nautiloid, freedom from Cazador
@@ -5684,10 +5700,13 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Warlock Oath of Vengeance](concepts/Warlock-Oath-of-Vengeance.md) — Warlock subclass focused on pursuing and punishing wrongdoers
 - [DM Mode vs Story Mode](concepts/DMModeVsStoryMode.md) — Meta-narrative framework
 - [CHANGES_REQUESTED Blocks Ok Unconditionally](concepts/CHANGES_REQUESTED-Blocks-Ok.md) — review change requests block approval until resolved and re-reviewed
+- [Claude API Best Practices](concepts/ClaudeAPIBestPractices.md) — Anthropic API usage: prompt caching, SDK patterns, cost optimization
 - [Automation Scripts Need Callers](concepts/Automation-Scripts-Need-Callers.md) — new scripts require visible trigger in diff; orphaned scripts are rejected
 - [Preview Model Risk](concepts/Preview-Model-Risk.md) — adding preview models to security-critical configs requires explicit medium-risk acknowledgment
 - [Structure Drift Pattern](concepts/StructureDriftPattern.md) — agent accidentally nests new fields inside existing conditionals; PR #5782 checkpoint placed debug_info inside rewards_box block
 - [Level-Up Bug Chain](concepts/LevelUpBug.md) — 8+ PR cascade: structure drift, atomicity violations, debug-gating preventing dice rolls for non-debug users; PRs #6161→#6195→#6204 chain
+- [LLM Fine-Tuning](concepts/LLMFineTuning.md) — PEFT methods: LoRA, QLoRA, DPO; when to fine-tune vs RAG vs prompt engineering
+- [Nullification Field](concepts/NullificationField.md) — Alexiel's special ability to neutralize magic vs celestial beings
 - [RewardsBox Atomicity](concepts/RewardsBoxAtomicity.md) — invariant that rewards_box and planning_block must be consistent; 6 distinct atomicity bugs found in PR #6161 bug hunt
 - [Dice Roll Debug Regression](concepts/DiceRollDebugRegression.md) — dice rolls and debug_info don't render for non-debug users on main; regression predates PR #6161; investigation open in PR #6194
 - [Nullification Field](concepts/NullificationField.md) — Alexiel's special ability to neutralize magic vs celestial beings
@@ -5704,6 +5723,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Hook Matcher Tool Agnostic](concepts/HookMatcherToolAgnostic.md) — Hooks hardcoded to 'Bash' miss Gemini run_shell_command and other tool adapters
 - [Post-Merge Duplicate PR Loop](concepts/PostMergeDuplicatePRLoop.md) — Workers create fix PRs after original already merged; fix with merge-status check
 - [Compacted State Reversion](concepts/CompactedStateReversion.md) — JSON truncation falls back to full state, defeating compaction when most needed
+- [Prompt Engineering](concepts/PromptEngineering.md) — CoT, few-shot, system prompts, structured output, temperature selection
 - [Pair Verifier Codex Preflight](concepts/PairVerifierCodexPreflight.md) — Verifier fails when codex preflight validation fails in environment; should be non-fatal
 - [Entity Tracking Validation Failure](concepts/EntityTrackingValidationFailure.md) — 0-4% entity validation pass rate; LRU eviction too aggressive
 - [Workspace Preservation Across Retries](concepts/WorkspacePreservationAcrossRetries.md) — Verify-fail-retry loop should preserve workspace, clean only signal files
@@ -5712,6 +5732,8 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Soul-Tithe Ritual](concepts/SoulTitheRitual.md) — Cassalanter infernal ritual to harvest noble souls for Zariel, hijacked by Nocturne
 - [70% Rule (Pax Julia)](concepts/SeventyPercentRule.md) — Julian family dominance of 70% of Rome in Gaia Julia V2
 - [Psionic Miasma](concepts/PsionicMiasma.md) — Gaia Julia V3's psionic Sorcerer/Bard Gestalt with Miasma visuals
+- [RAG (Retrieval Augmented Generation)](concepts/RAG.md) — hybrid search, chunking, reranking; naive vs advanced vs modular RAG
+- [RLHF (Reinforcement Learning from Human Feedback)](concepts/RLHF.md) — reward modeling, PPO, Constitutional AI, DPO; alignment pipeline
 - [Gloom Stalker Ranger](concepts/GloomStalkerRanger.md) — XGtE Ranger subclass, Dread Ambusher, Umbral Sight
 - [College of Swords Bard](concepts/CollegeOfSwordsBard.md) — XGtE Bard subclass, blade flourishes using Bardic Inspiration
 - [Vampire Spawn](concepts/VampireSpawn.md) — BG3 undead type, Sunlight Sensitivity, Bite, Spawn abilities
@@ -5789,6 +5811,11 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [jeffrey-oracle-architecture](syntheses/jeffrey-oracle-architecture.md) — Architecture decisions: services, APIs, data models, layer boundaries
 - [jeffrey-oracle-cost](syntheses/jeffrey-oracle-cost.md) — Cost optimization: model selection, token budgets, minimax vs Anthropic
 - [jeffrey-oracle-agent](syntheses/jeffrey-oracle-agent.md) — Agent orchestration: spawning, parallel vs sequential, team coordination
+- [Level-Up Bugs and Streaming Parity](syntheses/level-up-bugs-analysis.md) — Root cause synthesis: fix/regression coupling, streaming parity, canonicalizer self-undo
+- [Nocturne Campaign Patterns](syntheses/nocturne-campaign-patterns.md) — Cross-campaign synthesis: 7+ Nocturne BG3 campaigns, recurring character profile, faction recycling
+- [Character Psychology Synthesis](syntheses/character-psychology-synthesis.md) — jleechan TTRPG psychology: two-mask system, seven choice patterns, third-option reframe
+- [D&D Combat Mechanics Patterns](syntheses/dnd-combat-mechanics-patterns.md) — Cross-campaign combat: action resolution, advantage stacking, battle simulation modes
+- [WorldArchitect Architecture Patterns](syntheses/worldarchitect-architecture-patterns.md) — Agent orchestration: routing, stall recovery, blocker matrix, streaming parity
 
 
 - [Alexiel SWToR — Entry 001](sources/alexiel-swtor-entry-001.md) through [Alexiel SWToR — Entry 020](sources/alexiel-swtor-entry-020.md) — Scene entries 001-020
