@@ -5699,6 +5699,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [EvidenceEnforcement](concepts/EvidenceEnforcement.md) — CI-gated evidence path, gap between structure-check and real bundle validation
 - [SkepticGate](concepts/SkepticGate.md) — CI gate requiring per-check evidence artifacts with timestamps; renamed from skeptic-gate to green-gate in PR #6189
 - [HookBypass](concepts/HookBypass.md) — tmux/cmux/API bypass UserPromptSubmit hooks for agent workflows
+- [StoryPaginationFix](concepts/StoryPaginationFix.md) — FakeFirestore precondition guard pattern + `_coerce_first_valid` helper; PR #6272 blocked by committed merge conflict markers
 - [OracleCLI](concepts/OracleCLI.md) — Multi-model second-opinion workflow using Cerebras Qwen 3, Grok 4, Perplexity, GPT-5
 - [Think Mode](concepts/ThinkMode.md) — game mode for strategic planning without narrative advancement; advances time by only 1 microsecond
 - [APIDesign](concepts/APIDesign.md) — RESTful design, versioning, rate limiting, and request validation principles
