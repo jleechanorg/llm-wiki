@@ -23,6 +23,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Level-Up PR Chain Analysis (PRs #6262-#6268)](sources/pr-6262-6263-6264-6268-level-up-pr-chain.md) — v3 architecture supersedes all 4 PRs; llm_parser single entry, game_state first, rewards_engine second, world_logic thin wrapper; all 4 PRs share off-by-one + wrong dict keys bugs; branch feat/rewards-engine-single-responsibility
 - [Auto-Research Experiment v2.1](sources/auto-research-experiment-v21.md) — Streamlined 3-skill system: self-critique loop + auto-research loop + canonical scorer; tests frontier techniques on real PRs
 - [Master AI Research & Product Taste System](sources/auto-product-master-system.md) — Full v2.1 master system: adds Product Taste Layer (ProductJudge, TasteLearningLoop) to the auto-research experiment
+- [OpenClaw Self-Refine Experiment — Cycle 1](sources/openclaw-self-refine-experiment.md) — Self-refine vs baseline on TEST-PR-001; ABANDONED for deterministic fixes; key finding: Context > Self-Critique; token cap hit before convergence
 
 ### Auto-Research Experiment (v2.1 Skill Files)
 - [Auto-Research Loop](sources/auto-research-loop.md) — 4-phase self-discovering meta-research: hypothesis generation from PR patterns, implementation, evaluation, wiki+bead updates

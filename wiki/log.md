@@ -3524,4 +3524,5 @@ Integrated both gists into the LLM wiki:
 
 **Index updated:** Sources section (+2), Entities section (+ProductTasteLayer), Concepts section (+6)
 ## [2026-04-14] cycle20 | PR #6272 StoryPaginationFix | 42/100 BLOCKER: committed merge conflict markers in world_logic.py; FakeFirestore guard + _coerce_first_valid pattern; concept page StoryPaginationFix.md created
+## [2026-04-14] ingest | OpenClaw Self-Refine Experiment Cycle 1 — ABANDONED; Context > Self-Critique; experiment source page created
 ## [2026-04-14] auto-research-cycle-21 | PR #6275 LevelUpSynthesisFix — FAIL 23/100; undefined build_level_up_rewards_box + ASI test setup bugs

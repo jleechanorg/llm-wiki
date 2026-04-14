@@ -55,6 +55,12 @@ Final verified code only
 - Outputs feed into [[CanonicalCodeScorer]] for quantitative evaluation
 - Canonical patterns sourced from [[AutoProductMasterSystem]] wiki pages
 
+## Evidence: OpenClaw Self-Refine Experiment (Cycle 1)
+
+**Finding**: Self-refine WITHOUT file context hits token cap (4,096 tokens, 45s) and still fails to match ground truth. Context > Self-Critique for deterministic fixes.
+
+Key insight from [[openclaw-self-refine-experiment]] — self-critique cannot compensate for missing context. The [[SelfCritiqueVerificationLoop]] provides context via canonical pattern prompt chaining, which addresses this failure mode.
+
 ## Related Concepts
 
 - [[AutoResearchLoop]] — the outer loop that calls this as a subroutine
