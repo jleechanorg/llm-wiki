@@ -1,0 +1,35 @@
+---
+title: "Reformulate, Retrieve, Localize: Agents for Repository-Level Bug Localization"
+type: paper
+tags: [bug-localization, retrieval, SWE-agent, BM25]
+date: 2025-12-07
+arxiv_url: https://arxiv.org/abs/2512.07022
+---
+
+## Summary
+
+LLM-powered agent for repository-level bug localization using query reformulation. Uses non-fine-tuned LLM to extract key information from bug reports and reformulate queries pre-retrieval. Achieves 35% better ranking in first-file retrieval vs BM25 baseline, and up to +22% improvement over SWE-agent.
+
+## Key Claims
+
+- Bug localization remains "critical yet time-consuming" in large-scale repositories
+- Traditional IRBL methods struggle with noisy, unchanged bug descriptions
+- Query reformulation significantly improves localization accuracy
+
+## Technique/Method
+
+- Non-fine-tuned LLM extracts key information from bug reports
+- Reformulates queries pre-retrieval (identifiers, code snippets)
+- BM25 retrieval using preprocessed queries
+- Agent orchestrates the entire pipeline
+
+## Results
+
+- **35%** better ranking in first-file retrieval vs BM25 baseline
+- **+22%** file retrieval improvement over SWE-agent
+
+## Connections
+
+- Related to [[SWE-Agent]] — bug localization improvements
+- Related to [[E3-TIR]] — tool-integrated reasoning
+- [[BugLocalizationAgent]] pattern

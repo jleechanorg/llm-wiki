@@ -1,0 +1,33 @@
+---
+title: "Shadows in the Code: Security Risks in LLM-Based Multi-Agent Development Systems"
+type: paper
+tags: [security, multi-agent, ChatDev, MetaGPT, AgentVerse, AAAI-2026]
+date: 2025-11-23
+arxiv_url: https://arxiv.org/abs/2511.18467
+---
+
+## Summary
+
+Identifies novel security vulnerabilities in LLM-driven multi-agent software development. Two threat scenarios: malicious users exploiting benign agents (MU-BA), and benign users exposed to compromised agents (BU-MA). IMBIA attack embeds hidden malicious functionality within apparently legitimate software. Tested on ChatDev, MetaGPT, AgentVerse.
+
+## Key Claims
+
+- Two threat scenarios: **MU-BA** (malicious user exploits benign agent) and **BU-MA** (benign user exposed to compromised agent)
+- Agents in coding and testing phases pose highest security risk
+- **IMBIA** (Implicit Malicious Behavior Injection Attack) manipulates multi-agent pipelines
+- **Adv-IMBIA** defense "reduced attack success rates significantly"
+
+## Attack Results by Framework
+
+| Framework | MU-BA Attack Rate | BU-MA Attack Rate |
+|-----------|-------------------|-------------------|
+| ChatDev | 93% | 71% |
+| MetaGPT | 45% | 84% |
+| AgentVerse | 71% | 45% |
+
+## Connections
+
+- Related to [[MetaGPT]] — multi-agent vulnerabilities
+- Related to [[AgenticMuch]] — adoption concerns
+- [[ZeroFrameworkCognition]] — safety considerations
+- Related to [[IsVibeCodingSafe]] — security benchmark
