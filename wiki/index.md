@@ -14,7 +14,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
-- [Level-Up Bugs and Streaming Unification (2026-04-14)](sources/level-up-bugs-and-streaming-unification-2026-04-14.md) — 15+ PRs still failing: FrontendRewardsBoxGate live, streaming parity epic, app.js:924 xp_gained=0 gate, PR #6261 backend robustness
+- [Rewards Engine: Single-Responsibility Pipeline Refactor](sources/level-up-engine-v4-design.md) — v4 design: single orchestration root (llm_parser.py), 7-stage pipeline, rewards_engine idempotent, closes #6262/#6263/#6264/#6268
+- [Level-Up Second Opinion Analysis](sources/level-up-second-opinion-analysis.md) — Real Cerebras+Gemini+Perplexity secondo: SRP confirmed, double-touch accurate, 5 edge case warnings
+- [Level-Up D&D 5e Research](sources/level-up-dnd5e-research.md) — XP thresholds cumulative storage, ASI multiclass rule (total_level), Fighter@6 Rogue@10
+- [Polling vs Streaming Architecture](sources/polling-vs-streaming-architecture.md) — SSE streaming vs HTTP GET vs MCP polling; DeferredRewardsProtocol is LLM instruction not timer
+- [WorldArchitect Level-Up Beads](sources/worldarchitect-level-up-beads.md) — Open beads: jleechan-7tas/20z1/xvrx/bwmj/9ej1 for level-up implementation
+- [Level-Up PR Chain Analysis (PRs #6262-#6268)](sources/pr-6262-6263-6264-6268-level-up-pr-chain.md) — v3 architecture supersedes all 4 PRs; llm_parser single entry, game_state first, rewards_engine second, world_logic thin wrapper; all 4 PRs share off-by-one + wrong dict keys bugs; branch feat/rewards-engine-single-responsibility
+- [Auto-Research Experiment v2.1](sources/auto-research-experiment-v21.md) — Streamlined 3-skill system: self-critique loop + auto-research loop + canonical scorer; tests frontier techniques on real PRs
+- [Master AI Research & Product Taste System](sources/auto-product-master-system.md) — Full v2.1 master system: adds Product Taste Layer (ProductJudge, TasteLearningLoop) to the auto-research experiment
 - [BG1 Nocturne Campaign](sources/bg1-nocturne-campaign.md) — Dark adventure: Nocturne the Serpent Queen, Gloom Stalker Ranger, Candlekeep to Baldur's Gate, Iron Crisis
 - [BG1 Nocturne Continued Campaign](sources/bg1-nocturne-continued-campaign.md) — Level 5 Nocturne in Baldur's Gate, doppelganger conspiracy, Sarevok threat
 - [BG3 Astarion Campaign](sources/bg3-astarion-campaign.md) — Astarion Ancunín, Vampire Spawn, escape from Nautiloid, freedom from Cazador
@@ -5518,6 +5525,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [JeffreyChan](entities/JeffreyChan.md) — SEM at Snap, ex-Staff SWE at Google, jleechanorg owner
 - [jleechanclaw](entities/jleechanclaw.md) — Primary delegation workflow repo (TARGET_REPO after March 2026 postmortem)
 - [PR6110](entities/PR6110.md) — WorldArchitect evidence path PR for PR validation automation
+- [ProductTasteLayer](product-taste/index.md) — Product judgement subsystem: ProductJudge oracle + TasteLearningLoop feedback + taste wiki; part of [[AutoProductMasterSystem]]
 - [PR6115](entities/PR6115.md) — WorldArchitect evidence path PR for bundle validation
 - [PR335](entities/PR335.md) — AO skeptic installer PR for automated review integration
 - [StagingWorktree](entities/StagingWorktree.md) — OpenClaw staging pipeline worktree for deployment testing
@@ -5663,6 +5671,12 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [JeffreyWorkingStyle](concepts/JeffreyWorkingStyle.md) — CLI-first, automation-driven, evidence-based workflow
 - [JeffreyCommunicationStyle](concepts/JeffreyCommunicationStyle.md) — Terse, direct, imperative communication
 - [JeffreyGoals](concepts/JeffreyGoals.md) — Current priorities: PR flow, automation, LLM-first architecture
+- [SelfCritiqueVerificationLoop](concepts/SelfCritiqueVerificationLoop.md) — 3-iteration cap verification loop (ReVeal 2026 + Self-Correction 2025): prompt chaining, generation, test+execution, self-critique
+- [AutoResearchLoop](concepts/AutoResearchLoop.md) — Self-discovering meta-research: generates hypotheses from PR patterns, tests on real PRs, scores via CanonicalCodeScorer, records in wiki
+- [CanonicalCodeScorer](concepts/CanonicalCodeScorer.md) — Rubric (6 dimensions Pass/Fail) + diff similarity scoring; 0.7×rubric + 0.3×diff formula
+- [ProductJudge](concepts/ProductJudge.md) — Product Taste Oracle: scores PRs 0–100 on 5 dimensions (strategic, UX, simplicity, maintainability, nuance), references [[ProductTasteLayer]]
+- [TasteLearningLoop](concepts/TasteLearningLoop.md) — Self-improving feedback: manual corrections → good-bad-examples + taste-rubric updates → bead
+- [ProductTasteLayer](concepts/ProductTasteLayer.md) — Product judgement subsystem: principles, good/bad examples, rubric, evolution log; feeds [[ProductJudge]]
 - [JeffreyTechStack](concepts/JeffreyTechStack.md) — Primary tools: Claude Code, Minimax, beads, gh, mem0
 - [EvidenceEnforcement](concepts/EvidenceEnforcement.md) — CI-gated evidence path, gap between structure-check and real bundle validation
 - [SkepticGate](concepts/SkepticGate.md) — CI gate requiring per-check evidence artifacts with timestamps; renamed from skeptic-gate to green-gate in PR #6189
@@ -5688,6 +5702,8 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Preview Model Risk](concepts/Preview-Model-Risk.md) — adding preview models to security-critical configs requires explicit medium-risk acknowledgment
 - [Structure Drift Pattern](concepts/StructureDriftPattern.md) — agent accidentally nests new fields inside existing conditionals; PR #5782 checkpoint placed debug_info inside rewards_box block
 - [Level-Up Bug Chain](concepts/LevelUpBug.md) — 8+ PR cascade: structure drift, atomicity violations, debug-gating preventing dice rolls for non-debug users; PRs #6161→#6195→#6204 chain
+- [Level-Up Code Architecture](concepts/LevelUpCodeArchitecture.md) — v3: llm_parser → game_state → rewards_engine → world_logic → app.js (no file twice); supersedes PRs #6262/#6263/#6264/#6268; idempotent rewards_engine for DeferredRewardsProtocol; DNC type coercion; class-specific ASI levels; property-based tests
+- [LevelUpPolling](concepts/LevelUpPolling.md) — 3 distinct paths: SSE streaming (push, done event inline), HTTP GET (page load only), MCP polling (external clients); DeferredRewardsProtocol is LLM instruction not server timer
 - [RewardsBox Atomicity](concepts/RewardsBoxAtomicity.md) — invariant that rewards_box and planning_block must be consistent; 6 distinct atomicity bugs found in PR #6161 bug hunt
 - [Dice Roll Debug Regression](concepts/DiceRollDebugRegression.md) — dice rolls and debug_info don't render for non-debug users on main; regression predates PR #6161; investigation open in PR #6194
 - [Nullification Field](concepts/NullificationField.md) — Alexiel's special ability to neutralize magic vs celestial beings

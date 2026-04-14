@@ -1,3 +1,12 @@
+## [2026-04-14] ingest | Polling vs Streaming Architecture — 3 paths (SSE/HTTP/MCP), DeferredRewardsProtocol is LLM instruction not timer
+## [2026-04-14] ingest | WorldArchitect Level-Up Beads — open beads jleechan-7tas/20z1/xvrx/bwmj/9ej1
+## [2026-04-14] update | LevelUpPolling — 3-path architecture (SSE push, HTTP GET page-load, MCP polling), DeferredRewardsProtocol LLM instruction
+## [2026-04-14] update | LevelUpCodeArchitecture — polling section added: 3 paths converge on rewards_engine, DeferredRewardsProtocol LLM not timer
+## [2026-04-14] ingest | Level-Up v4 Design — single-responsibility pipeline, rewards_engine idempotent, 7-stage architecture, closes #6262/#6263/#6264/#6268
+## [2026-04-14] ingest | LevelUpCodeArchitecture — before/after PR analysis
+## [2026-04-14] ingest | PR #6265 streaming passthrough normalization source page
+## [2026-04-14] update | LevelUpCodeArchitecture — v3: llm_parser→game_state→rewards_engine→world_logic single-entry no-revisit; DeferredRewardsProtocol idempotency; DNC coercion; class ASI; multi-level-up; property tests; supersedes PRs #6262/#6263/#6264/#6268
+## [2026-04-14] ingest | Level-Up PR Chain Analysis (PRs #6262-#6268) — v3 architecture source page
 ## [2026-04-13] ingest | 12 Campaigns | Source Page Frontmatter Update + Entity/Concept Creation
 
 Updated source page frontmatter for 12 campaigns with full entry counts and campaign_ids:
@@ -3472,3 +3481,37 @@ Entity ratio maintained: 2.1% (624 entities / 29576 total pages, target >5%)
 ## [2026-04-13] ingest | jleechan deep psychology synthesis | Third-option reframing, economic translation, 8-mechanism gender analysis, scale escalation without framework change
 ## [2026-04-13] ws_ingest | WS1-WS5 workstream results written to wiki/campaigns/jleechan/
 ## [2026-04-14] ingest | Level-Up Bugs and Streaming Unification (2026-04-14) | app.js:924 FrontendRewardsBoxGate live, 15+ PRs still failing, PR #6261 backend robustness
+
+## [2026-04-14] wiki-update | Level-up PR chain + streaming passthrough fix (PR #6265)
+- Updated StreamingOrchestrator.md entity page with jleechan-ajww bug and PR #6265 fix
+- Updated LevelUpBug.md concept page with PR #6262/#6263/#6264/#6265 in bug chain table
+- Updated RewardsBox.md concept page with normalization section and PR #6265 reference
+- Updated StaleFlag.md concept page with level-up specific flags and PR #6262 stale flag recovery
+- PRs still OPEN: #6261 (numeric extraction), #6262 (stale flag recovery), #6263 (stuck completion), #6264 (atomicity helpers)
+## [2026-04-14] ingest | Master AI Research & Product Taste System (Auto product.md gist db97de6) + Auto-Research Experiment v2.1 (Autocodev2.md gist 0620377)
+
+Integrated both gists into the LLM wiki:
+
+**Source pages:**
+- wiki/sources/auto-product-master-system.md — full 5-skill master system v2.1 (self-critique, auto-research, canonical scorer, product judge, taste learning)
+- wiki/sources/auto-research-experiment-v21.md — streamlined 3-skill version (autocodev2, no product taste layer)
+
+**Concept pages (6 new):**
+- wiki/concepts/SelfCritiqueVerificationLoop.md
+- wiki/concepts/AutoResearchLoop.md
+- wiki/concepts/CanonicalCodeScorer.md
+- wiki/concepts/ProductJudge.md
+- wiki/concepts/TasteLearningLoop.md
+- wiki/concepts/ProductTasteLayer.md
+
+**Product Taste Layer wiki (5 starter files under wiki/product-taste/):**
+- index.md, principles.md, good-bad-examples.md, taste-rubric.md, taste-evolution-log.md
+
+**Skills (5 files under wiki/skills/):**
+- self-critique-verification-loop.md
+- auto-research-loop.md
+- canonical-code-scorer.md
+- product-judge.md
+- taste-learning-loop.md
+
+**Index updated:** Sources section (+2), Entities section (+ProductTasteLayer), Concepts section (+6)
