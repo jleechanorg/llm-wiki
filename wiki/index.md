@@ -46,6 +46,23 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Product Judge](sources/product-judge.md) — Isolated product taste oracle: 5-dimension scoring (Strategic, UX, Simplicity, Maintainability, Edge-case), verdict: Approve/Minor/Major/Reject
 - [Taste Learning Loop](sources/taste-learning-loop.md) — Self-improving taste: extract rejection feedback, archive negative constraints, update taste rubric, create bead
 
+### Frontier Papers & Coding Agent Research (2022-2026)
+- [Meta-Harness Paper](sources/meta-harness-paper.md) — Outer-loop optimization of model harnesses; 7.7 point improvement, 4x fewer tokens; #1 on TerminalBench-2
+- [ReVeal Paper](sources/reveal-paper.md) — Step-level supervision for repository-level code agents; 2023
+- [Voyager Paper](sources/voyager-paper.md) — Lifelong learning agent in Minecraft; skill library + self-verification; 3.3x items, 15.3x faster milestones
+- [SWE-Agent Paper](sources/swe-agent-paper.md) — Agent Computer Interface for autonomous software repair; real GitHub repositories
+- [OpenHands Paper](sources/openhands-paper.md) — Open platform for reproducible coding agent evaluation; SWE-bench, HumanEval integration
+- [MetaGPT Paper](sources/metagpt-paper.md) — Multi-agent SOP framework; assembly-line paradigm reduces cascading hallucinations
+- [ReAct Paper](sources/react-paper.md) — Synergizing reasoning and acting; 34% improvement on ALFWorld; foundation for tool-use agents
+- [Large Language Monkeys Paper](sources/large-language-monkeys-paper.md) — Repeated sampling scaling; SWE-bench 15.9%→56% with 250 samples
+- [Kimi k1.5 Paper](sources/kimi-k1-5-paper.md) — RL scaling for reasoning; 77.5 AIME, matches o1; Long2short distillation
+- [DeepSeek-Coder-V2 Paper](sources/deepseek-coder-v2-paper.md) — MoE coding model; 236B/21B; SOTA open-source; 56% SWE-bench Lite
+- [DeepSeek-V2 Paper](sources/deepseek-v2-paper.md) — MoE base model; 93.3% KV cache reduction; 128K context
+- [AgentBench Paper](sources/agentbench-paper.md) — Multi-environment agent evaluation; commercial LLMs significantly ahead of open-source ≤70B
+- [EvoEval Paper](sources/evoeval-paper.md) — Evolving benchmarks via LLM; 39.4% average drop; benchmark integrity concerns
+- [Self-Reflection Code Paper](sources/self-reflection-code-paper.md) — Dual-LLM collaborative code representation; semantic preservation
+- [Autonomous Scientific Research Paper](sources/autonomous-scientific-research-paper.md) — Multi-LLM autonomous experiment design; safety considerations
+
 - [BG1 Nocturne Campaign](sources/bg1-nocturne-campaign.md) — Dark adventure: Nocturne the Serpent Queen, Gloom Stalker Ranger, Candlekeep to Baldur's Gate, Iron Crisis
 - [BG1 Nocturne Continued Campaign](sources/bg1-nocturne-continued-campaign.md) — Level 5 Nocturne in Baldur's Gate, doppelganger conspiracy, Sarevok threat
 - [BG3 Astarion Campaign](sources/bg3-astarion-campaign.md) — Astarion Ancunín, Vampire Spawn, escape from Nautiloid, freedom from Cazador

@@ -1,3 +1,4 @@
+## [2026-04-14] ingest | 14 arxiv frontier papers (2022-2026) — Voyager, SWE-Agent, OpenHands, MetaGPT, ReAct, LargeLanguageMonkeys, Kimi k1.5, DeepSeek-Coder-V2, DeepSeek-V2, AgentBench, EvoEval, SelfReflectionCode, AutonomousScientificResearch, (Meta-Harness already existed)
 ## [2026-04-14] layer2 | Layer 2 BFS discovery — 5 new concept pages (BeamSearchOverReasoning, CompilerVerification, SelfRefine, SelfGeneratedTestGeneration, SelfRefine already exists) + 4 enhanced (DeterministicFeedbackLoops, ModelRouting, ExtendedThinking, SelfCritique)
 ## [2026-04-14] ingest | Canonical Code Patterns | ZustandPatterns: State management, store as hook, slice pattern
 ## [2026-04-14] ingest | Canonical Code Patterns | NextJSPatterns: Full-stack React framework, Server/Client Components
