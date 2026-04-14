@@ -1,9 +1,12 @@
 ---
 title: "Stellaris Nocturne V1 Campaign"
 type: source
-tags: [stellaris, campaign, stellaris-nocturne-v1, session]
+tags: [stellaris, campaign, stellaris-nocturne-v1, session, warhammer-40k]
 date: 2026-04-12
-source_file: /tmp/jleechan_all_campaigns/Stellaris - Nocturne V1_wOhBvrJ0.txt
+source_file: /tmp/campaign_ingest_new/Stellaris - Nocturne V1_wOhBvrJ0.txt
+campaign_id: wOhBvrJ0gYA2Ox9g1kLC
+entry_count: 271
+last_updated: 2026-04-13
 ---
 
 ## Summary

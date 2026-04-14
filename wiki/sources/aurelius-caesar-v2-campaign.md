@@ -3,7 +3,10 @@ title: "Aurelius Caesar v2"
 type: source
 tags: [campaign]
 date: 2026-04-12
-source_file: /tmp/campaign_downloads_v2/
+source_file: /tmp/campaign_ingest_new/Aurelius caesar v2_nl8480uw.txt
+campaign_id: nl8480uwPrNOnrHi9pqr
+entry_count: 566
+last_updated: 2026-04-13
 ---
 
 ## Summary

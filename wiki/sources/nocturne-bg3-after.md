@@ -3,7 +3,10 @@ title: "Nocturne BG3 After Campaign"
 type: source
 tags: [baldurs-gate-3, dnd-5e, psychological-horror, degradation, soul-coins]
 date: 2026-04-12
-source_file: /tmp/campaign_downloads_v2/Nocturne bg3 after _STpjRuwj.txt
+source_file: /tmp/campaign_ingest_new/Nocturne bg3 after _STpjRuwj.txt
+campaign_id: STpjRuwjeUt97tpCl5nK
+entry_count: 2054
+last_updated: 2026-04-13
 ---
 
 ## Summary

@@ -1,22 +1,22 @@
 ---
 title: "** The Causeway, The Neck"
 type: entity
-tags: [visenya-v6, location]
-sources: [visenya-v6]
+tags: [ramsay-v1, location]
+sources: [ramsay-v1]
 last_updated: 2026-04-12
-appearances: 8
-total_scenes: 153
+appearances: 3
+total_scenes: 189
 ---
 
 ## Overview
 
-** The Causeway, The Neck appears in 8 scenes across the [[visenya-v6]] campaign.
+** The Causeway, The Neck appears in 3 scenes across the [[ramsay-v1]] campaign.
 
 ## Description
 
-** The Causeway, The Neck is an entity from the visenya-v6 campaign.
+** The Causeway, The Neck is an entity from the ramsay-v1 campaign.
 
 ## References
-- [[visenya-v6]] — campaign overview
-- [[visenya-v6-campaign]]
+- [[ramsay-v1]] — campaign overview
+- [[ramsay-v1-campaign]]
 

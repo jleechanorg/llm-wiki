@@ -42,6 +42,14 @@ Hoisted 5 fields out of rewards_box block: `action_resolution`, `dice_rolls`, `d
 ### PR #6214 — NOT YET MERGED
 Removed the second LLM call (`_process_rewards_followup`). Single-call architecture where primary LLM handles rewards directly. **Still open / not in origin/main.**
 
+### PR #6198 (level_not_clearing) — OPEN
+Addresses 3 production bugs: sticky finish button (Class A), zero rewards_box on level-up (Class B/L), wrong XP threshold (Class F). **Introduces new file `game_state.py`** with canonicalizers. **Still open** — 1 APPROVED, 6 CHANGES_REQUESTED. Three blockers:
+1. **CRITICAL**: `_canonicalize_level_from_xp_in_place` preservation undone by `validate_and_correct_state()` → `validate_xp_level(strict=False)` which auto-corrects `stored_level > expected_level` back down
+2. **MEDIUM**: Stale finish button fix (`has_stale_finish`) requires `not other_choice_ids` — misses mixed-choices scenario
+3. **CRITICAL**: Streaming E2E gap — evidence bundles use `GOD_MODE_UPDATE_STATE` which bypasses the `rewards_box` → `finish_level_up_return_to_game` pipeline where the bug lives
+
+**Known limitation (self-reported)**: Integration bundle bypasses production rewards pipeline via `GOD_MODE_UPDATE_STATE` — does not prove end-to-end streaming path works.
+
 ---
 
 ## Current State (origin/main @ 0f9191b71)

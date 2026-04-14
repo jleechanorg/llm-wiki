@@ -3,7 +3,10 @@ title: "Visenya V1: Dunk and Egg Campaign"
 type: source
 tags: [game-of-thrones, dnd-5e, targaryen, dunk-and-egg, hedge-knight]
 date: 2026-04-12
-source_file: /tmp/campaign_downloads_v2/visenya v1 _dunk and egg__Rp7hvzhO.txt
+source_file: /tmp/campaign_ingest_new/visenya v1 _dunk and egg__Rp7hvzhO.txt
+campaign_id: Rp7hvzhOnS3TlvxpwCy4
+entry_count: 2130
+last_updated: 2026-04-13
 ---
 
 ## Summary

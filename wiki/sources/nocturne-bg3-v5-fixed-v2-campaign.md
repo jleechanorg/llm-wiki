@@ -3,7 +3,10 @@ title: "Nocturne BG3 V5 Fixed V2 Campaign"
 type: source
 tags: [baldurs-gate-3, dnd-5e, noir, psychological-horror, bg3-integration]
 date: 2026-04-12
-source_file: /tmp/campaign_downloads_v2/Nocturne bg3 v5 _fixed v2__yxU6r6Uu.txt
+source_file: /tmp/campaign_ingest_new/Nocturne bg3 v5 _fixed v2__yxU6r6Uu.txt
+campaign_id: yxU6r6UuGFthtDvVsxSl
+entry_count: 1850
+last_updated: 2026-04-13
 ---
 
 ## Summary

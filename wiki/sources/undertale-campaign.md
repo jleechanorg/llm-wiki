@@ -3,9 +3,11 @@ title: "Undertale Campaign"
 type: source
 tags: [campaign, undertale, dnd, determination]
 date: 2026-04-12
-source_file: /tmp/campaign_downloads_v2/Undertale_sAV11o87.txt
+source_file: /tmp/campaign_ingest_new/Undertale_sAV11o87.txt
+campaign_id: sAV11o87CRsN93akPi31
 campaign_slug: undertale
 scene_total: 145
+entry_count: 290
 ---
 
 ## Summary
