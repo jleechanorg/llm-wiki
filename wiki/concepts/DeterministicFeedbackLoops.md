@@ -20,3 +20,4 @@ This follows the Spotify Honk pattern: "reduced flexibility increases predictabi
 - [[Agent Orchestrator]] — provides these reactions
 - [[LLM Judgment]] — called when deterministic routes exhaust
 - [[Harness Engineering]] — overall discipline
+- [[MetaHarness]] — Meta-Harness uses filesystem-based history to provide rich feedback (full code + traces + scores) rather than compressed summaries

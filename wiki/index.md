@@ -14,8 +14,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
+- [test_avatar_bucket_and_sizes.py](sources/mvp-site-test-avatar-bucket-and-sizes.md) — TDD tests for avatar storage bucket fallback and CSS pip sizes
+- [test_avatar_api_unit.py](sources/mvp-site-test-avatar-api-unit.md) — Layer 1 unit tests for avatar API logic
+- [test_authenticated_comprehensive.py](sources/mvp-site-test-authenticated-comprehensive.md) — Comprehensive authenticated API test suite with real Firebase
+- [test_auth_resilience.py](sources/mvp-site-test-auth-resilience.md) — Red/Green test suite for authentication resilience features
+- [test_architectural_decisions.py](sources/mvp-site-test-architectural-decisions.md) — Architecture decision tests validating ADT-001 through ADT-020
 - [Level-Up Bugs and Streaming Unification (2026-04-14)](sources/level-up-bugs-and-streaming-unification-2026-04-14.md) — 15+ PRs still failing: FrontendRewardsBoxGate live, streaming parity epic, app.js:924 xp_gained=0 gate, PR #6261 backend robustness
+- [agent-orchestrator touch-rate.py](sources/agent-orchestrator-touch-rate.py.md) — first/second-touch rate calculator for CodeRabbit PR reviews
 - [mvp_site Action Resolution Utils](sources/mvp-site-action-resolution-utils.md) — Centralized helpers for action_resolution/outcome_resolution field handling, dice roll extraction, audit events, backward compatibility
+- [mvp_site test_action_resolution.py](sources/mvp-site-test-action-resolution.md) — Unit tests for action_resolution_utils helper functions: dice roll extraction, audit events, normalization, backward compatibility
+- [mvp_site test_action_resolution_utils.py](sources/mvp-site-test-action-resolution-utils.md) — Unit tests for NarrativeResponse schema: action_resolution field consolidation, legacy normalization, server warnings
+- [mvp_site test_action_resolution_backward_compat_end2end.py](sources/mvp-site-test-action-resolution-backward-compat-end2end.md) — E2E tests for backward compatibility through API: outcome_resolution mapping, null safety, Firestore persistence, dice fabrication detection
 - [mvp_site AI Factions Generator](sources/mvp-site-ai-factions.md) — Deterministic 200-faction generator for WorldAI ranking system with seeded random, difficulty tiers, behavior types
 - [mvp_site Battle Simulation](sources/mvp-site-battle-sim.md) — D&D 5.1 SRD-based battle simulation with fast/detailed/deterministic modes, morale routing, casualty distribution
 - [mvp_site Campaign Divine Upgrade Detection](sources/mvp-site-campaign-divine.md) — Upgrade detection for campaign tier system (mortal->divine->sovereign), stat modifier extraction
@@ -25,12 +34,174 @@ This file is maintained by the LLM. Updated on every ingest.
 - [mvp_site Capture Example](sources/mvp-site-capture-example.md) — Demo of capture framework for recording real service interactions during testing
 - [mvp_site Agent Prompts Module](sources/mvp-site-agent-prompts.md) — Centralized prompt manipulation, schema injection, state example generation, comment stripping
 - [mvp_site Agent Architecture](sources/mvp-site-agents.md) — Agent class hierarchy, semantic intent classification with FastEmbed, priority-based mode routing
+- [mvp_site capture](sources/mvp-site-capture.md) — CaptureManager for real service interaction recording, CaptureFirestoreClient for Firestore persistence, CaptureGeminiClient for live response capture
+- [mvp_site capture_actual_llm_responses](sources/mvp-site-capture-actual-llm-responses.md) — Script to capture actual LLM responses from Sariel campaign using the working integration test pattern
+- [mvp_site capture_llm_responses](sources/mvp-site-capture-llm-responses.md) — Sariel campaign replay script for capturing real LLM responses for model evaluation
+- [mvp_site cerebras_provider](sources/mvp-site-cerebras-provider.md) — Cerebras OpenAI-compatible provider with schema echo detection, nested JSON unwrapping, token counting
+- [mvp_site clock_skew_credentials](sources/mvp-site-clock-skew-credentials.md) — Clock skew patch for Google OAuth credentials (720-second tolerance) for GCP authentication reliability
+- [mvp_site config](sources/mvp-site-config.md) — TestConfig for real service testing with firebase/auth/Firestore integration
+- [mvp_site constants](sources/mvp-site-constants.md) — LLM provider constants, APP_VERSION, ACTOR_USER/GEMINI, provider priority order
+- [mvp_site Context Compaction](sources/mvp-site-context-compaction.md) — Context compaction for LLM requests with token budgeting, chunking, summarization
+- [mvp_site custom_types](sources/mvp-site-custom-types.md) — TypedDict definitions for GameState, SessionContext, LLMResponse, Protocol interfaces (DatabaseService, AIService)
+- [mvp_site debug_hybrid_system](sources/mvp-site-debug-hybrid-system.md) — Bracket-aware JSON extraction, JSON string unescaping for model JSON responses
+- [mvp_site defensive_numeric_converter](sources/mvp-site-defensive-numeric-converter.md) — DefensiveNumericConverter for robust entity conversion with fallbacks (HP, ability scores, gold fields)
+- [mvp_site dice_provably_fair](sources/mvp-site-dice-provably-fair.md) — Cryptographic seed commitment for provably fair dice rolls using SHA-256
+- [mvp_site dice_strategy](sources/mvp-site-dice-strategy.md) — DICE_STRATEGY_CODE_EXECUTION (Gemini code) vs DICE_STRATEGY_NATIVE_TWO_PHASE (Flask-side seeding)
+- [mvp_site dual_mode](sources/mvp-site-dual-mode.md) — CampaignMode enum (ADVENTURE/FACTION), TriggerType/TriggerUrgency enums for event routing
+- [mvp_site entities_pydantic](sources/mvp-site-entities-pydantic.md) — EntityType/CombatDisposition enums, sanitize_entity_name_for_id() for entity ID generation
+- [mvp_site entity_instructions](sources/mvp-site-entity-instructions.md) — EntityInstructionGenerator for game state entity-to-prompt conversion, context chunking
+- [mvp_site entity_preloader](sources/mvp-site-entity-preloader.md) — EntityPreloader for async entity data loading from Firestore with cache-through pattern
+- [mvp_site Entity Tracking System](sources/mvp-site-entity-tracking.md) — Entity tracking with EntitySnapshot diffing, in-memory cache with TTL, Firestore persistence
+- [mvp_site entity_utils](sources/mvp-site-entity-utils.md) — Entity utility functions for sanitization, ID generation, name normalization
+- [mvp_site entity_validator](sources/mvp-site-entity-validator.md) — EntityValidator for entity existence enforcement, narrative-memory sync checking
+- [mvp_site equipment_display](sources/mvp-site-equipment-display.md) — Equipment query detection and formatting for inventory display prompts
+- [mvp_site extract_sariel_prompts](sources/mvp-site-extract-sariel-prompts.md) — SarielPromptExtractor for integration test prompt extraction from campaign entries
+- [mvp_site test_agents_integration.py](sources/mvp-site-agents-integration.md) — Agent mode detection (story/god), instruction building, prompt sets, backward compatibility
+- [mvp_site test_ai_content_simple.py](sources/mvp-site-ai-content-simple.md) — AI story generation with campaign data, no hardcoded characters
+- [mvp_site test_always_json_mode.py](sources/mvp-site-always-json-mode.md) — JSON-first responses, structured planning_block, entity tracking injection
+- [mvp_site test_animation_system.py](sources/mvp-site-animation-system.md) — CSS/JS animation system, duration variables, keyframes, accessibility reduced-motion
+- [mvp_site test_api_backward_compatibility.py](sources/mvp-site-api-backward-compatibility.md) — API array format for frontend forEach compatibility
+- [mvp_site faction_state_util](sources/mvp-site-faction-state-util.md) — Faction state utilities for faction minigame resource management
+- [mvp_site factory](sources/mvp-site-factory.md) — get_service_provider factory for mock/real/capture service mode selection
+- [mvp_site field_constants](sources/mvp-site-field-constants.md) — Auto-generated field name constants from game_state.schema.json
+- [mvp_site file_cache](sources/mvp-site-file-cache.md) — TTLCache-based file caching with 1-hour TTL, 100-entry LRU
+- [mvp_site firestore_service](sources/mvp-site-firestore-service.md) — Campaign CRUD, state sync, batch operations, DELETE_TOKEN for Firestore
+- [mvp_site Game State](sources/mvp-site-game-state.md) — Core D&D 5e game state management: stats, HP, combat, inventory, conditions, initiative
+- [mvp_site game_state_models](sources/mvp-site-game-state-models.md) — Game state Pydantic models with validation and serialization
+- [mvp_site gemini_cache_manager](sources/mvp-site-gemini-cache-manager.md) — CampaignCacheManager with N-1 propagation delay, REBUILD_THRESHOLD=5, cache versioning
+- [mvp_site gemini_code_execution](sources/mvp-site-gemini-code-execution.md) — RNG pattern detection (random.*, numpy.random.*), AST analysis for dice integrity
+- [mvp_site gemini_provider](sources/mvp-site-gemini-provider.md) — Gemini provider using response_mime_type application/x-empty, BYOK client caching
+- [mvp_site input_validation](sources/mvp-site-input-validation.md) — Input validation utilities for user prompts and action requests
+- [mvp_site integration_utils](sources/mvp-site-integration-utils.md) — dual_mode_test and skip_in_real_mode decorators for integration testing
+- [mvp_site intel](sources/mvp-site-intel.md) — calculate_detection_risk formula, IntelTier enum for spy operation risk assessment
+- [mvp_site intent_classifier](sources/mvp-site-intent-classifier.md) — FastEmbed BAAI/bge-small-en-v1.5 embeddings, SIMILARITY_THRESHOLD=0.65, priority routing
+- [mvp_site json_utils](sources/mvp-site-json-utils.md) — JSON utilities: find_matching_brace, extract_best_json, sanitize_json_string
+- [mvp_site Living World Trigger System](sources/mvp-site-living-world.md) — Event trigger system for living world campaigns, trigger registration and dispatch
+- [mvp_site llm_request](sources/mvp-site-llm-request.md) — LLM request construction and formatting utilities
+- [mvp_site llm_response](sources/mvp-site-llm-response.md) — LLM response parsing and handling utilities
+- [mvp_site LLM Service](sources/mvp-site-llm-service.md) — Central AI integration service: agent routing, token budgets, entity tiering, dice integrity, ~8000+ lines
+- [mvp_site logging_util](sources/mvp-site-logging-util.md) — Unified logging to Cloud Logging + local file, emoji-enhanced console output
+- [mvp_site main](sources/mvp-site-main.md) — Pure HTTP-to-MCP translation layer Flask app, GET/POST /api/campaigns routes
+- [mvp_site MCP API](sources/mvp-site-mcp-api.md) — World Logic MCP Server with create_campaign, process_action, get_campaign tools
+- [mvp_site mcp_client](sources/mvp-site-mcp-client.md) — MCPClient JSON-RPC communication, MCPErrorCode enum, HTTP-to-MCP translation
+- [mvp_site mcp_test_client](sources/mvp-site-mcp-test-client.md) — MCPTestClient for programmatic MCP testing with request/response capture
+- [mvp_site memory_mcp_real](sources/mvp-site-memory-mcp-real.md) — Documents architectural limitation: Python cannot directly call MCP tools
+- [mvp_site memory_utils](sources/mvp-site-memory-utils.md) — Memory utility functions for context management and session state
+- [mvp_site narrative_response_schema](sources/mvp-site-narrative-response-schema.md) — JSON markdown pattern extraction, JSON parse fallback, MIN_NARRATIVE_LENGTH=100
+- [mvp_site narrative_sync_validator](sources/mvp-site-narrative-sync-validator.md) — NarrativeSyncValidator delegating to EntityValidator for narrative-memory consistency
+- [mvp_site numeric_converters](sources/mvp-site-numeric-converters.md) — coerce_int_safe with NaN/Infinity guards for numeric field conversion
+- [mvp_site numeric_field_converter](sources/mvp-site-numeric-field-converter.md) — NumericFieldConverter for Firestore data layer (simpler than defensive converter)
+- [mvp_site openai_chat_common](sources/mvp-site-openai-chat-common.md) — OpenAIChatResponse, build_messages, extract_tool_calls for OpenAI-compatible providers
+- [mvp_site openai_compatible_provider_core](sources/mvp-site-openai-compatible-provider-core.md) — generate_openai_compatible_content centralized function for all OpenAI-compatible providers
+- [mvp_site openai_proxy_provider](sources/mvp-site-openai-proxy-provider.md) — OpenAI proxy to user OpenClaw gateway via Tailscale for model routing
+- [mvp_site openclaw_provider](sources/mvp-site-openclaw-provider.md) — OpenClawHTTPClient with DEFAULT_GATEWAY_PORT=18789, gateway HTTP communication
+- [mvp_site openrouter_provider](sources/mvp-site-openrouter-provider.md) — OpenRouter provider with json_schema strict:false for Grok compatibility
+- [mvp_site paths](sources/mvp-site-paths.md) — PathConfig centralized path configuration for the application
+- [mvp_site preventive_guards](sources/mvp-site-preventive-guards.md) — Social HP anti-blitz, time consistency, memory deduplication guards
+- [mvp_site prompt_generator](sources/mvp-site-prompt-generator.md) — PromptGenerator for campaign-aware prompt construction with entity injection
+- [mvp_site prompt_loader](sources/mvp-site-prompt-loader.md) — PromptLoader for loading and caching system prompts with state-aware templates
+- [mvp_site prompt_utils](sources/mvp-site-prompt-utils.md) — Prompt utilities: truncation, formatting, schema injection helpers
+- [mvp_site provider_utils](sources/mvp-site-provider-utils.md) — strip_tool_requests_dice_instructions, run_openai_json_first_tool_requests_flow
+- [mvp_site Faction Rankings System](sources/mvp-site-rankings.md) — Faction ranking calculation with ranking_code for deterministic ordering
+- [mvp_site rate_limiting](sources/mvp-site-rate-limiting.md) — RATE_LIMIT_DAILY_TURNS=50, RATE_LIMIT_5HOUR_TURNS=25 for turn rate limiting
+- [mvp_site resources](sources/mvp-site-resources.md) — Faction resource management: citizens, gold, arcana tracking and modification
+- [mvp_site serialization](sources/mvp-site-serialization.md) — JSON serialization/deserialization for Firestore with datetime handling
+- [mvp_site service_account_loader](sources/mvp-site-service-account-loader.md) — GOOGLE_* env vars for GCP credentials loading
+- [mvp_site session_header_utils](sources/mvp-site-session-header-utils.md) — _get_player_character_data(), _get_world_data() safe extraction from session headers
+- [mvp_site settings_validation](sources/mvp-site-settings-validation.md) — validate_openclaw_gateway_url/token, _is_tsnet_hostname for settings validation
+- [mvp_site simple_mock_provider](sources/mvp-site-simple-mock-provider.md) — SimpleMockDocument, SimpleMockCollection for Firestore mock testing
+- [mvp_site srd_units](sources/mvp-site-srd-units.md) — UNIT_TO_SRD_MAP: soldier->guard, veteran->veteran for D&D 5e SRD unit conversion
+- [mvp_site start_flask](sources/mvp-site-start-flask.md) — Standalone Flask starter for test scripts and standalone execution
+- [mvp_site stats_display](sources/mvp-site-stats-display.md) — SPELLCASTING_ABILITY_MAP, calc_modifier for D&D stat display formatting
+- [mvp_site stream_events](sources/mvp-site-stream-events.md) — StreamEvent dataclass, to_sse() for Server-Sent Events streaming
+- [mvp_site streaming_chunk_logger](sources/mvp-site-streaming-chunk-logger.md) — ChunkTimingRecord, StreamingChunkLogger for BD-iwr evidence logging
+- [mvp_site streaming_orchestrator](sources/mvp-site-streaming-orchestrator.md) — _lazy_module for cold-start optimization, SSE orchestration
+- [mvp_site structured_fields_utils](sources/mvp-site-structured-fields-utils.md) — _get_structured_attr(), _summarize_mapping() for structured field extraction
+- [mvp_site token_utils](sources/mvp-site-token-utils.md) — CHARS_PER_TOKEN=4, estimate_tokens(), format_token_count() for token budgeting
+- [mvp_site tools](sources/mvp-site-tools.md) — FACTION_TOOL_NAMES, faction_simulate_battle, faction_calculate_ranking for faction operations
+- [mvp_site typed_dicts](sources/mvp-site-typed-dicts.md) — Auto-generated StatsDict, HealthStatusDict, LocationDict, FactionUnitsDict TypedDicts
+- [mvp_site upkeep](sources/mvp-site-upkeep.md) — calculate_unit_upkeep: soldiers*0.5gp + spies*1gp + elites*5gp for faction economy
+- [mvp_site utils](sources/mvp-site-utils.md) — normalize_status_code(), add_safe() for generic utility functions
+- [mvp_site validation](sources/mvp-site-validation.md) — JSON Schema Draft202012Validator, check_datetime RFC3339 for response validation
+- [mvp_site worldai_mcp_stdio](sources/mvp-site-worldai-mcp-stdio.md) — stdio MCP adapter reading stdin/writing stdout for world_logic MCP server
+- [mvp_site worldai_tools_mcp_proxy](sources/mvp-site-worldai-tools-mcp-proxy.md) — WorldAIToolsProxy, RESERVED_PREFIXES, LOCAL_TOOL_SCHEMAS for MCP proxy
+- [mvp_site world_loader](sources/mvp-site-world-loader.md) — WORLD_ASSIAH_PATH, load_banned_names(), load_world_content_for_system_instruction
+- [mvp_site world_logic](sources/mvp-site-world-logic.md) — Unified API layer for Flask + MCP, asyncio.to_thread() for async handling
+- [mvp_site world_time](sources/mvp-site-world-time.md) — MONTH_MAP for calendar normalization (Forgotten Realms, Greyhawk, Eberron)
+- **Note:** worldarchitect.ai Python source files are covered by mvp_site_all ingest (raw/mvp_site_all/ contains all platform modules including app.py, main.py, factory.py, gemini_provider.py, streaming_orchestrator.py, entity_instructions.py, etc.)
 - [jleechanclaw Evidence Review Schema](sources/jleechanclaw-evidence-review-schema.md) — Two-stage verification pipeline: automated checks + skeptic review, evidence publication rules
 - [jleechanclaw Operational Runbook](sources/jleechanclaw-operational-runbook.md) — Gateway restart, WS churn fixes, Slack dropped message handling, incident response procedures
 - [jleechanclaw Orchestration System Design](sources/jleechanclaw-orchestration-system-design.md) — OpenClaw/AO/agent architecture goals and components, 27KB design doc
 - [jleechanclaw Harness Engineering](sources/jleechanclaw-harness-engineering.md) — Philosophy: harness as environment/constraints/feedback loops, 4-layer model (Environment→AO→OpenClaw→Entropy)
 - [jleechanclaw Proactive Recovery Design](sources/jleechanclaw-proactive-recovery-design.md) — Session lifecycle fixes: Option C (gateway webhook handler) recommended over ao-backfill.sh
 - [jleechanclaw Bug Hunt 20260326](sources/jleechanclaw-bug-hunt-20260326.md) — 27 PRs reviewed, 0 bugs found; mcp-mail ack, session-reaper, mem0 config drift patterns
+- [jleechanclaw PR Reviewer](sources/jleechanclaw-pr-reviewer.md) — PR review context builder: diff/commits/CI via gh, CLAUDE.md rules, OpenClaw memories
+- [jleechanclaw PR Review Decision](sources/jleechanclaw-pr-review-decision.md) — Pure LLM review decision engine, no hardcoded rules
+- [jleechanclaw Slack Catchup](sources/jleechanclaw-slack-catchup.md) — Slack digest bot synthesizing 48h activity into handoff summaries
+- [jleechanclaw Auto-Triage](sources/jleechanclaw-auto-triage.md) — Proactive DM when same error_class escalates 2x+ in 7 days
+- [jleechanclaw Human Channel Bridge](sources/jleechanclaw-human-channel-bridge.md) — AO session lifecycle mirrored to Slack with watchdog and terminal guarantee
+- [jleechanclaw Task Tracker](sources/jleechanclaw-task-tracker.md) — Cross-session task/subtask state with atomic JSON writes and file locking
+- [jleechanclaw AO Runner](sources/jleechanclaw-ao-runner.md) — Docker runner lifecycle for GitHub Actions self-hosted runners
+- [jleechanclaw Canary](sources/jleechanclaw-canary.md) — Slack health check messages via second bot (no OpenClaw loop)
+- [jleechanclaw Slack Util](sources/jleechanclaw-slack-util.md) — Slack message sending and value normalization
+- [jleechanclaw Symphony Daemon](sources/jleechanclaw-symphony-daemon.md) — launchd-managed Symphony daemon helpers
+- [jleechanclaw Merge Gate](sources/jleechanclaw-merge-gate.md) — DEPRECATED: merge checks moved to AO merge-gate.ts
+- [jleechanclaw Retired Modules](sources/jleechanclaw-retired-modules.md) — 10 retired modules migrated to agent-orchestrator
+- [jleechanclaw Subtask Events](sources/jleechanclaw-subtask-events.md) — Subtask event emission to JSONL
+- [jleechanclaw Symphony Plugins](sources/jleechanclaw-symphony-plugins.md) — Symphony workflow plugin integration
+- [jleechanclaw Bead Lifecycle Validator](sources/jleechanclaw-beacon-lifecycle-validator.md) — Task lifecycle state validation
+- [jleechanclaw Evidence Review Gate](sources/jleechanclaw-evidence-review-gate.md) — Stage 1 automated evidence checks
+- [jleechanclaw Regression Detector](sources/jleechanclaw-regression-detector.md) — PR regression detection via historical patterns
+- [jleechanclaw Auto Review Trigger](sources/jleechanclaw-auto-review-trigger.md) — Automatic PR review triggering
+- [jleechanclaw Cmux Validator](sources/jleechanclaw-cmux-validator.md) — Codex multiplexer command/response validation
+- [jleechanclaw Decomposition Dispatcher](sources/jleechanclaw-decomposition-dispatcher.md) — Task decomposition and AO dispatch
+- [jleechanclaw OpenClaw Notifier](sources/jleechanclaw-openclaw-notifier.md) — OpenClaw gateway notifications
+- [jleechanclaw Session Tail](sources/jleechanclaw-session-tail.md) — Real-time AO session output streaming
+- [jleechanclaw Session Reaper](sources/jleechanclaw-session-reaper.md) — Stale/orphaned session cleanup
+- [jleechanclaw Reconciliation](sources/jleechanclaw-reconciliation.md) — AO state sync and drift correction
+- [jleechanclaw Path Util](sources/jleechanclaw-path-util.md) — Project path resolution utilities
+- [jleechanclaw Stage2 Reviewer](sources/jleechanclaw-stage2-reviewer.md) — Skeptic review for evidence pipeline
+- [jleechanclaw Datetime Util](sources/jleechanclaw-datetime-util.md) — Timezone-aware timestamp handling
+- [jleechanclaw Webhook](sources/jleechanclaw-webhook.md) — Webhook event ingestion from GitHub
+- [jleechanclaw Webhook Worker](sources/jleechanclaw-webhook-worker.md) — Async webhook event processing
+- [jleechanclaw Webhook Queue](sources/jleechanclaw-webhook-queue.md) — Webhook event queue management
+- [jleechanclaw Webhook Reconciler](sources/jleechanclaw-webhook-reconciler.md) — Webhook delivery verification
+- [jleechanclaw Webhook Bridge](sources/jleechanclaw-webhook-bridge.md) — External-to-internal webhook translation
+- [jleechanclaw Webhook Metrics](sources/jleechanclaw-webhook-metrics.md) — Webhook delivery and latency metrics
+- [jleechanclaw MCP HTTP](sources/jleechanclaw-mcp-http.md) — MCP HTTP client for server communication
+- [jleechanclaw MCP Mail](sources/jleechanclaw-mcp-mail.md) — MCP mail agent-to-agent messaging
+- [jleechanclaw Cron Runner](sources/jleechanclaw-cron-runner.md) — Scheduled task execution
+- [jleechanclaw Lifecycle Reactions](sources/jleechanclaw-lifecycle-reactions.md) — AO session lifecycle reaction handlers
+- [jleechanclaw Event Util](sources/jleechanclaw-event-util.md) — Event creation and serialization helpers
+- [jleechanclaw AO Events](sources/jleechanclaw-ao-events.md) — AO event type definitions
+- [jleechanclaw JSONFile Util](sources/jleechanclaw-jsonfile-util.md) — Atomic JSON writes with file locking
+- [jleechanclaw Escalation Handler](sources/jleechanclaw-escalation-handler.md) — Escalation workflow management
+- [jleechanclaw Code Path Classifier](sources/jleechanclaw-code-path-classifier.md) — File path categorization
+- [jleechanclaw PR Lifecycle](sources/jleechanclaw-pr-lifecycle.md) — PR state machine from open to merge
+- [jleechanclaw Auto Resolve Threads](sources/jleechanclaw-auto-resolve-threads.md) — Automated Slack thread closure
+- [jleechanclaw Worktree Cleanup](sources/jleechanclaw-worktree-cleanup.md) — Stale Git worktree removal
+- [jleechanclaw Failure Budget](sources/jleechanclaw-failure-budget.md) — Subtask/session budget tracking
+- [jleechanclaw Parallel Retry](sources/jleechanclaw-parallel-retry.md) — Parallel retry coordination
+- [jleechanclaw MeetingBaaS](sources/jleechanclaw-meetingbaas.md) — Meeting transcript processing
+- [jleechanclaw Guidance Tracker](sources/jleechanclaw-guidance-tracker.md) — CLAUDE.md rule adherence tracking
+- [jleechanclaw CodeRabbit Gate](sources/jleechanclaw-coderabbit-gate.md) — CodeRabbit review status gate
+- [jleechanclaw Backup Redaction](sources/jleechanclaw-backup-redaction.md) — Log/backup sensitive data redaction
+- [jleechanclaw AO CLI](sources/jleechanclaw-ao-cli.md) — AO CLI wrapper for Python
+- [jleechanclaw Evidence](sources/jleechanclaw-evidence.md) — Evidence management for verification pipeline
+- [Command System Documentation](sources/command-system-documentation.md) — 80+ slash commands, cognitive vs operational command types, Python automation scripts
+- [Pair Protocol](sources/pair-protocol.md) — Agent-to-agent coordination via MCP mail, Planner/Builder roles, immutable test contracts, change orders
+- [Harness Engineering](sources/harness-engineering.md) — Fix harness not symptoms, 5 Whys analysis, failure classes, fix durability tiers
+- [Four-Layer Testing Protocol (/4layer)](sources/four-layer-testing-protocol.md) — Unit -> E2E -> MCP API -> Browser testing ladder, evidence requirements
+- [OpenClaw Agent Dispatch (/claw)](sources/openclaw-agent-dispatch-claw.md) — ao spawn for coding, gateway HTTP for read-only, parallel tmux sessions
+- [Antigravity Self-Improvement Protocol](sources/antigravity-self-improvement.md) — Peekaboo-based Antigravity interaction, failure mode documentation
+- [Evolve Loop (/eloop)](sources/evolve-loop.md) — Adaptive autonomy loop, measures zero-touch rate, skips healthy phases
+- [Autonomy Diagnostic (/auton)](sources/autonomy-diagnostic-auton.md) — Diagnoses why AO system is not autonomously driving PRs to 6-green
+- [Integration Command (/integrate)](sources/integration-command.md) — Fresh branch from main + test server cleanup + auto-learning
+- [Backup Strategy](sources/backup-strategy.md) — Git bundle + patch artifacts, restic encrypted incremental, disaster recovery
+- [LinkedIn Analytics Jan-Apr 2026](sources/linkedin-analytics-2026-04-06.md) — 113K impressions (+338.7%), community posts dominate, story hooks work best
+- [New Machine Setup Guide](sources/new-machine-setup.md) — macOS/Ubuntu restore, OOM guard, dotfiles, Claude/Codex config
+- [Wi-Fi Watchdog Panic Runbook](sources/wlan-watchdog-panic-runbook.md) — Kernel panic with 'wlan' busy timeout, DriverKit instability
+- [OOM Guard Setup](sources/oom-guard-setup.md) — mem-watchdog launchd, rg-safe wrapper, memory-pressure protection
 - [BG1 Nocturne Campaign](sources/bg1-nocturne-campaign.md) — Dark adventure: Nocturne the Serpent Queen, Gloom Stalker Ranger, Candlekeep to Baldur's Gate, Iron Crisis
 - [BG1 Nocturne Continued Campaign](sources/bg1-nocturne-continued-campaign.md) — Level 5 Nocturne in Baldur's Gate, doppelganger conspiracy, Sarevok threat
 - [BG3 Astarion Campaign](sources/bg3-astarion-campaign.md) — Astarion Ancunín, Vampire Spawn, escape from Nautiloid, freedom from Cazador

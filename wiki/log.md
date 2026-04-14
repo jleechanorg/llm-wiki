@@ -1,8 +1,25 @@
+## [2026-04-14] ingest | mvp_site_all test files round 3 | 7 test files sourced: battle_sim_bugs, budget_path_consistency, byok_coverage, cache_n_minus_1, cache_prompt_structure, cache_provably_fair, campaign_clicks
+## [2026-04-14] ingest | mvp_site_all test files round 2 | 5 test files sourced: test_architectural_decisions.py, test_auth_resilience.py, test_authenticated_comprehensive.py, test_avatar_api_unit.py, test_avatar_bucket_and_sizes.py
+## [2026-04-14] ingest | mvp_site remaining code | All remaining Python files sourced
+## [2026-04-14] ingest | mvp_site_all test files | 5 test files sourced: agents_integration, ai_content_simple, always_json_mode, animation_system, api_backward_compatibility
+## [2026-04-14] ingest | commands and conversation logs | Commands/skills sourced: Command System Documentation, Pair Protocol, Harness Engineering, Four-Layer Testing Protocol, OpenClaw Agent Dispatch (/claw), Antigravity Self-Improvement, Evolve Loop (/eloop), Autonomy Diagnostic (/auton), Integration Command, Backup Strategy, LinkedIn Analytics, New Machine Setup, Wi-Fi Watchdog Panic Runbook, OOM Guard Setup
+## [2026-04-14] ingest | mvp_site_all action_resolution test files | 3 test files sourced: test_action_resolution.py, test_action_resolution_utils.py, test_action_resolution_backward_compat_end2end.py
+
+## [2026-04-14] ingest | agent-orchestrator code | 1 Python module sourced: touch-rate.py (first/second-touch rate calculator)
 ## [2026-04-14] ingest | jleechanclaw infrastructure | 6 source pages: Evidence Review Schema, Operational Runbook, Orchestration System Design, Harness Engineering, Proactive Recovery Design, Bug Hunt 20260326
 ## [2026-04-14] synthesize | 5 synthesis pages created | Level-up bugs analysis, Nocturne patterns, character psychology, D&D combat, WorldArchitect architecture
 ## [2026-04-14] ingest | External AI knowledge | RAG, prompt engineering, Claude API, fine-tuning, RLHF
 
 Created 5 concept pages and 1 source page for external AI knowledge. Concept pages: RAG (hybrid search, chunking, reranking), Prompt Engineering (CoT, few-shot, system prompts), Claude API Best Practices (prompt caching, SDK patterns), LLM Fine-Tuning (LoRA, QLoRA, DPO), RLHF (reward modeling, PPO, Constitutional AI). Source page: external-ai-knowledge-sources.md documenting searches.
+
+## [2026-04-14] ingest | mvp_site_all run/test/fixture files | 6 source pages created
+Created 6 source pages for mvp_site_all files:
+- run-end2end-tests.md - E2E test runner with pytest markers
+- run-real-sariel-capture.md - LLM response capture script
+- run-sariel-replays.md - 10-replay desync measurement
+- service-provider.md - ABC pattern for mock/real providers
+- show-sariel-test-summary.md - Field validation summary display
+- structured-fields-fixtures.md - 10-field UI test fixtures
 
 ## [2026-04-14] ingest | mvp_site modules | Sourced 10 Python modules as wiki pages
 
@@ -3493,4 +3510,26 @@ Entity ratio maintained: 2.1% (624 entities / 29576 total pages, target >5%)
 ## [2026-04-12] wiki-entity | jleechan TTRPG psychology | 6 pages + 4 campaign entities
 ## [2026-04-13] ingest | jleechan deep psychology synthesis | Third-option reframing, economic translation, 8-mechanism gender analysis, scale escalation without framework change
 ## [2026-04-13] ws_ingest | WS1-WS5 workstream results written to wiki/campaigns/jleechan/
+## [2026-04-14] note | worldarchitect.ai Python code | Covered by mvp_site_all ingest
+
+worldarchitect.ai platform Python source files reside in raw/mvp_site_all/ directory (not in raw/worldarchitect.ai/). All key modules (app.py, main.py, factory.py, gemini_provider.py, streaming_orchestrator.py, entity_instructions.py, etc.) are already sourced as part of the mvp_site ingest. See existing mvp_site-* source pages in index.
+
 ## [2026-04-14] ingest | Level-Up Bugs and Streaming Unification (2026-04-14) | app.js:924 FrontendRewardsBoxGate live, 15+ PRs still failing, PR #6261 backend robustness
+
+## [2026-04-14] ingest | jleechanclaw Python modules | 54 source pages created
+
+54 source pages for jleechanclaw/src/orchestration/ and ao_runner/ Python modules:
+- pr_reviewer, pr_review_decision, slack_catchup, auto_triage, human_channel_bridge
+- task_tracker, subtask_events, ao_runner, canary, slack_util, symphony_daemon
+- merge_gate (deprecated), retired_modules, symphony_plugins, beacon_lifecycle_validator
+- evidence_review_gate, regression_detector, auto_review_trigger, cmux_validator
+- decomposition_dispatcher, openclaw_notifier, session_tail, session_reaper
+- reconciliation, path_util, stage2_reviewer, datetime_util
+- webhook system (webhook, webhook_worker, webhook_queue, webhook_reconciler, webhook_bridge, webhook_metrics)
+- mcp_http, mcp_mail, cron_runner, lifecycle_reactions, event_util, ao_events
+- jsonfile_util, escalation_handler, code_path_classifier, pr_lifecycle
+- auto_resolve_threads, worktree_cleanup, failure_budget, parallel_retry
+- meetingbaas, guidance_tracker, coderabbit_gate, backup_redaction, ao_cli, evidence
+[2026-04-14 02:21:14] [START] Creating Meta-Harness concept pages
+[2026-04-14 02:22:41] [COMPLETE] Created 6 Meta-Harness concept pages
+## [2026-04-14] concept | MetaHarness Paper Concepts | Created 6 pages: MetaHarness, HarnessEngineering, AgenticProposer, FilesystemHistory, OuterLoopOptimization, HarnessVsPrompt

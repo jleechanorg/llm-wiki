@@ -20,3 +20,4 @@ Process of managing LLM context windows by intelligently allocating token budget
 - [[TypeSafetyGuards]] — protects against malformed Firestore data
 - [[WarningLogic]] — reports token reduction decisions
 - [[TokenBudgetOptimization]] — maximizing useful context within limits
+- [[MetaHarness]] — Meta-Harness searches over compaction strategies itself, optimizing WHAT to present rather than just making context fit
