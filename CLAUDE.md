@@ -24,17 +24,23 @@ Claude Code reads this file automatically and follows the workflows below.
 ## Directory Layout
 
 ```
-raw/          # Immutable source documents — never modify these
-wiki/         # Claude owns this layer entirely
-  index.md    # Catalog of all pages — update on every ingest
-  log.md      # Append-only chronological record
-  overview.md # Living synthesis across all sources
-  sources/    # One summary page per source document
-  entities/   # People, companies, projects, products
-  concepts/   # Ideas, frameworks, methods, theories
-  syntheses/  # Saved query answers
-graph/        # Auto-generated graph data
-tools/        # Optional standalone Python scripts (require ANTHROPIC_API_KEY)
+raw/              # Immutable source documents — never modify these
+canonical-repos/  # Reference code repos for canonical pattern comparisons
+test-prs/         # Historical PR descriptions for auto-research experiments
+scripts/          # Automation scripts (wiki ingest, graph build, verify)
+skills/           # Agent instruction files (self-critique, scoring, taste)
+wiki/             # Claude owns this layer entirely
+  index.md        # Catalog of all pages — update on every ingest
+  log.md          # Append-only chronological record
+  overview.md     # Living synthesis across all sources
+  sources/        # One summary page per source document
+  entities/       # People, companies, projects, products
+  concepts/       # Ideas, frameworks, methods, theories
+  syntheses/      # Saved query answers
+graph/            # Auto-generated graph data
+tools/            # Optional standalone Python scripts (require ANTHROPIC_API_KEY)
+research-wiki-program.md   # Auto-research experiment compiler rules
+research-wiki-results.md   # Master experiment log (append-only)
 ```
 
 ---
