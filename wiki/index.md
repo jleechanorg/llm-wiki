@@ -5961,6 +5961,12 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 
 - [Qwen vs Sonnet Benchmark Index](sources/qwen-vs-sonnet-benchmark-index.md-800b5891.md) — 20-30x faster responses (559ms avg) with quality parity across 12 coding tasks
 
+## Frontier Research (2025-2026)
+
+- [Extended Reasoning & Test-Time Compute](sources/extended-reasoning-frontier.md) — o3/o4, DeepSeek-R1, GLM-4.7; the new inference-time compute scaling law
+- [Agentic Self-Critique + Formal Verification](sources/formal-verification-frontier.md) — Lean/Coq/Z3, ReVeal 2026, self-repair loops, adversarial example generation
+- [Meta-Harness Paper (arxiv 2603.28052)](sources/meta-harness-paper.md) — Outer-loop harness optimization via agentic proposer + filesystem history; TerminalBench-2 #1
+
 ## Frontier AI Coding Concepts (Layer 1 + Layer 2)
 
 - [ExtendedThinking](concepts/ExtendedThinking.md) — Extended reasoning with think tokens; o3/o4 class capability; substrate for SelfCritique and ReasoningBudget
@@ -5986,6 +5992,8 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [SWE-bench](concepts/SWE-bench.md) — Benchmark on real GitHub issues; evaluates SelfDebugging capability
 - [ContinuousVerification](concepts/ContinuousVerification.md) — Verification integrated into every development stage; CI/CD embodiment of VerificationLoop
 - [CI-Gates](concepts/CI-Gates.md) — Automated quality checkpoints in CI/CD; enforce ContinuousVerification
+- [EvidenceReviewPipeline](concepts/EvidenceReviewPipeline.md) — Two-stage verification: automated self-review + independent LLM skeptic evaluation
+- [Autoformalization](concepts/Autoformalization.md) — LLM-generated formal specifications from natural language; bridges informal requirements and formal verification
 
 ## Batch G Campaign Concepts
 
