@@ -44,9 +44,19 @@ SUSPICIOUS_PATTERNS = [
 ]
 
 
+TECHNIQUE_FILES = {
+    "extendedthinking": "cycle_extended_thinking_v3.md",
+    "selfrefine": "cycle_selfrefine_v3.md",
+    "swebench": "cycle_swebench_v3.md",
+    "metaharness": "cycle_metaharness_v3.md",
+    "prm": "cycle_prm_v3.md",
+    "combined": "cycle_combined_v3.md",
+}
+
+
 def load_cycle_file(technique: str) -> dict[str, Any] | None:
     """Load and parse a cycle_*.md file."""
-    cycle_file = SYNTHESES_DIR / f"cycle_{technique}_v3.md"
+    cycle_file = SYNTHESES_DIR / TECHNIQUE_FILES.get(technique, f"cycle_{technique}_v3.md")
     if not cycle_file.exists():
         return None
 
@@ -55,7 +65,7 @@ def load_cycle_file(technique: str) -> dict[str, Any] | None:
     # Extract frontmatter
     fm_match = re.match(r"^---\n(.*?)\n---", content, re.DOTALL)
     if not fm_match:
-        return {"error": "No frontmatter found", "file": str(cycle_file)}
+        return {"error": "No frontmatter found", "file": str(cycle_file), "content": None}
 
     frontmatter = {}
     for line in fm_match.group(1).split("\n"):
@@ -68,6 +78,7 @@ def load_cycle_file(technique: str) -> dict[str, Any] | None:
         "frontmatter": frontmatter,
         "content": content,
         "technique": technique,
+        "session_id": frontmatter.get("run_session"),
     }
 
 
@@ -184,9 +195,9 @@ def verify_technique(technique: str) -> dict:
 
     # Load cycle file
     cycle_data = load_cycle_file(technique)
-    if not cycle_data:
+    if not cycle_data or "content" not in cycle_data:
         result["status"] = "missing"
-        result["issues"].append(f"No cycle_{technique}_v3.md found")
+        result["issues"].append(f"No cycle_{technique}_v3.md found or parse error")
         return result
 
     result["files_checked"].append(cycle_data["file"])
@@ -197,7 +208,9 @@ def verify_technique(technique: str) -> dict:
         result["warnings"].append("No run_session in frontmatter")
 
     # Extract scores from content (look for JSON or table)
-    scores = extract_scores_from_content(cycle_data["content"])
+    scores = {}
+    if cycle_data.get("content"):
+        scores = extract_scores_from_content(cycle_data["content"])
 
     if scores:
         result["scores"] = scores
@@ -212,10 +225,11 @@ def verify_technique(technique: str) -> dict:
         result["warnings"].append("Could not extract scores from cycle file")
 
     # Check for suspicious patterns
-    patterns = check_suspicious_patterns(cycle_data["content"])
-    result["suspicious_patterns"].extend(patterns)
-    if patterns:
-        result["status"] = "failed"
+    if cycle_data.get("content"):
+        patterns = check_suspicious_patterns(cycle_data["content"])
+        result["suspicious_patterns"].extend(patterns)
+        if patterns:
+            result["status"] = "failed"
 
     # Verify log files exist
     if session_id:
