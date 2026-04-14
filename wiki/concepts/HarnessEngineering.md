@@ -1,12 +1,16 @@
 ---
-title: "Harness Engineering"
+title: "HarnessEngineering"
 type: concept
-tags: ["harness", "agent", "infrastructure", "philosophy", "AI-engineering", "documentation", "context-management"]
-sources: ["harness-engineering-philosophy", "openclaw-workshop-notes", "openai-harness-ryan-notes"]
-last_updated: 2026-04-08
+tags: [harness, harness-engineering, context-management, meta-harness, outer-loop-optimization]
+sources: [harness-engineering-philosophy, openclaw-workshop-notes, openai-harness-ryan-notes, meta-harness-paper]
+last_updated: 2026-04-14
 ---
 
 Harness engineering is the discipline of building systems that make AI agents actually work. A harness is not a codebase that agents work on, but the environment, constraints, and feedback loops that enable agents to do reliable work.
+
+## Harness in LLM Context (Meta-Harness Paper)
+
+From the Meta-Harness paper, harness = code that determines what information to store, retrieve, and present to the model. Research shows that changing the harness around a fixed LLM produces a **6x performance gap** on the same benchmark (Tian2026). Despite its outsized impact, harness engineering has remained largely manual. Meta-Harness automates this process.
 
 ## The Four Layers
 
@@ -56,3 +60,6 @@ Ryan emphasizes codifying tribal knowledge into markdown files:
 - [[ProofOfWork]] - Mandatory PR evidence requirements
 - [[MinimalReproLadder]] - TDD for AI agents
 - [[ContextManagement]] - Attention vs. context exhaustion
+- [[MetaHarness]] - The system that automates harness engineering
+- [[OuterLoopOptimization]] - Harness changes are the outer loop
+- [[HarnessVsPrompt]] - Harness is the code layer; prompt is just text
