@@ -3,7 +3,10 @@ title: "Visenya V6: The Winter Web"
 type: source
 tags: [game-of-thrones, dnd-5e, solo-campaign, visenya-targaryen, apex-weaver, winterfell, entropic-manipulation]
 date: 2026-04-12
-source_file: /tmp/campaign_downloads_v2/Visenya V6_JkKR510z.txt
+source_file: /tmp/campaign_ingest_new/Visenya V6_JkKR510z.txt
+campaign_id: JkKR510zImWiFiVHMGGV
+entry_count: 307
+last_updated: 2026-04-13
 ---
 
 ## Summary

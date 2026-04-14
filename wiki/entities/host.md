@@ -1,22 +1,22 @@
 ---
 title: "Host"
 type: entity
-tags: [visenya-v4, faction]
-sources: [visenya-v4]
+tags: [sariel-v2, faction]
+sources: [sariel-v2]
 last_updated: 2026-04-12
-appearances: 13
-total_scenes: 417
+appearances: 8
+total_scenes: 252
 ---
 
 ## Overview
 
-Host appears in 13 scenes across the [[visenya-v4]] campaign.
+Host appears in 8 scenes across the [[sariel-v2]] campaign.
 
 ## Description
 
-Host is an entity from the visenya-v4 campaign.
+Host is an entity from the sariel-v2 campaign.
 
 ## References
-- [[visenya-v4]] — campaign overview
-- [[visenya-v4-campaign]]
+- [[sariel-v2]] — campaign overview
+- [[sariel-v2-campaign]]
 

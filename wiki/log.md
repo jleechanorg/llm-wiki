@@ -1,3 +1,37 @@
+## [2026-04-13] ingest | 12 Campaigns | Source Page Frontmatter Update + Entity/Concept Creation
+
+Updated source page frontmatter for 12 campaigns with full entry counts and campaign_ids:
+- alexiel-swtor-campaign.md (1644 entries, campaign_id: tAE30bFvyfO0rUd9cgyv)
+- tyranny-campaign.md (582 entries, campaign_id: qjVpLfowsILq40DFKD6N)
+- undertale-campaign.md (290 entries, campaign_id: sAV11o87CRsN93akPi31)
+- aurelius-caesar-v2-campaign.md (566 entries, campaign_id: nl8480uwPrNOnrHi9pqr)
+- visenya-v1-dunk-and-egg.md (2130 entries, campaign_id: Rp7hvzhOnS3TlvxpwCy4)
+- nocturne-bg3-v4-campaign.md (2414 entries, campaign_id: kuXKa6vrYY6P99MfhWBn)
+- nocturne-bg3-v5-fixed-v2-campaign.md (1850 entries, campaign_id: yxU6r6UuGFthtDvVsxSl)
+- nocturne-bg3-after.md (2054 entries, campaign_id: STpjRuwjeUt97tpCl5nK)
+- nocturne-bg3-continued.md (358 entries, campaign_id: TBKp5JCAb8E6l5g9Wtf6)
+- stellaris-nocturne-v1-campaign.md (271 entries, campaign_id: wOhBvrJ0gYA2Ox9g1kLC)
+- itachi-evil-campaign-2.md (1069 entries, campaign_id: 20lzLXyQTcoLnHGCA3aW)
+- visenya-v6.md (307 entries, campaign_id: JkKR510zImWiFiVHMGGV)
+- visenya-v6-campaign.md (same as above)
+- aizen-bg3.md, aizen-bg3-campaign.md, aizen-bg3-v2-campaign.md (updated entry counts)
+
+Created entity pages: Arcann.md, Thexan.md, Senya.md, SateleShan.md, MasterOganDe.md
+Updated entity pages: NocturneOldRepublic.md (expanded with full family/god-empress arc), ItachiUchiha.md (added Evil2 source)
+
+Created concept pages: EdictOfExecution.md, FatebinderArchetype.md, SirensCall.md, VoidExperimentClass.md, StigmaScore.md, FactionPoliticsRome.md
+
+Source files downloaded to: /tmp/campaign_ingest_new/ (27 campaign files totaling ~14MB)
+
+## [2026-04-13] ingest | Boudica's Uprising Campaign
+
+Created:
+- source page: boudica-campaign.md (50 scenes, Level 6 Warlock/Bard)
+- entity pages: Boudica, Iceni, Roman Empire
+- concept pages: Warlock Oath of Vengeance
+
+Index updated with source, entities, and concept entries.
+
 ## [2026-04-12] ingest | 6 Campaigns | nocturne-bg3-v7, nocturne-old-republic, nocturne-post-bg3-zhent, old-nocturne-merc-bg3, rome-pax-julia, sariel-assiah
 
 Created campaign overview pages + entity pages + concept pages for 6 campaigns:
@@ -3434,3 +3468,6 @@ New concepts created: TheLongDefeat
 Updated concepts: SocialHP (V6 Social HP system), SovereignHub (mechanical details)
 Updated index.md: added campaign overviews, entities, and concepts
 Entity ratio maintained: 2.1% (624 entities / 29576 total pages, target >5%)
+## [2026-04-12] wiki-entity | jleechan TTRPG psychology | 6 pages + 4 campaign entities
+## [2026-04-13] ingest | jleechan deep psychology synthesis | Third-option reframing, economic translation, 8-mechanism gender analysis, scale escalation without framework change
+## [2026-04-13] ws_ingest | WS1-WS5 workstream results written to wiki/campaigns/jleechan/

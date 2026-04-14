@@ -1,22 +1,22 @@
 ---
 title: "House Stark"
 type: entity
-tags: [visenya-v1-dunk-and-egg, faction]
-sources: [visenya-v1-dunk-and-egg]
+tags: [ramsay-v1, faction]
+sources: [ramsay-v1]
 last_updated: 2026-04-12
-appearances: 5
-total_scenes: 1065
+appearances: 3
+total_scenes: 189
 ---
 
 ## Overview
 
-House Stark appears in 5 scenes across the [[visenya-v1-dunk-and-egg]] campaign.
+House Stark appears in 3 scenes across the [[ramsay-v1]] campaign.
 
 ## Description
 
-House Stark is an entity from the visenya-v1-dunk-and-egg campaign.
+House Stark is an entity from the ramsay-v1 campaign.
 
 ## References
-- [[visenya-v1-dunk-and-egg]] — campaign overview
-- [[visenya-v1-dunk-and-egg-campaign]]
+- [[ramsay-v1]] — campaign overview
+- [[ramsay-v1-campaign]]
 

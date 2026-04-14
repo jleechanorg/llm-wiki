@@ -4,7 +4,8 @@ type: source
 tags: [bg3, baldurs-gate, aizen, sosuke, wizard, hogyoku, bleach, hollow, sadist, dnd]
 sources: []
 last_updated: 2026-04-12
-source_file: /tmp/campaign_downloads_v2/Aizen bg3 v2_ADCwQxVe.txt
+entry_count: 1194
+campaign_id: ADCwQxVeUnKnown
 ---
 
 ## Summary

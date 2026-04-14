@@ -3,7 +3,10 @@ title: "Nocturne BG3 Continued Campaign"
 type: source
 tags: [baldurs-gate-3, bg3, solo-campaign, dnd-5e, nocturne, shadow-monarch, absolute-tadpoles]
 date: 2026-04-12
-source_file: /tmp/campaign_downloads_v2/nocturne bg3 continued_TBKp5JCA.txt
+source_file: /tmp/campaign_ingest_new/nocturne bg3 continued_TBKp5JCA.txt
+campaign_id: TBKp5JCAb8E6l5g9Wtf6
+entry_count: 358
+last_updated: 2026-04-13
 ---
 
 ## Summary

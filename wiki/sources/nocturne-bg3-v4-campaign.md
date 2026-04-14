@@ -3,7 +3,10 @@ title: "Nocturne BG3 V4 Campaign"
 type: source
 tags: [baldurs-gate-3, dnd-5e, noir, psychological-horror, bg3-integration]
 date: 2026-04-12
-source_file: /tmp/campaign_downloads_v2/Nocturne bg3 v4_kuXKa6vr.txt
+source_file: /tmp/campaign_ingest_new/Nocturne bg3 v4_kuXKa6vr.txt
+campaign_id: kuXKa6vrYY6P99MfhWBn
+entry_count: 2414
+last_updated: 2026-04-13
 ---
 
 ## Summary

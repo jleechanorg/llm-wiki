@@ -1,22 +1,22 @@
 ---
 title: "** The Trident, Riverlands"
 type: entity
-tags: [visenya-v6, location]
-sources: [visenya-v6]
+tags: [ramsay-v1, location]
+sources: [ramsay-v1]
 last_updated: 2026-04-12
-appearances: 9
-total_scenes: 153
+appearances: 4
+total_scenes: 189
 ---
 
 ## Overview
 
-** The Trident, Riverlands appears in 9 scenes across the [[visenya-v6]] campaign.
+** The Trident, Riverlands appears in 4 scenes across the [[ramsay-v1]] campaign.
 
 ## Description
 
-** The Trident, Riverlands is an entity from the visenya-v6 campaign.
+** The Trident, Riverlands is an entity from the ramsay-v1 campaign.
 
 ## References
-- [[visenya-v6]] — campaign overview
-- [[visenya-v6-campaign]]
+- [[ramsay-v1]] — campaign overview
+- [[ramsay-v1-campaign]]
 

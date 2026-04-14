@@ -5,6 +5,14 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Overview
 - [Overview](overview.md) — living synthesis across all sources
 
+## Player Psychology (campaigns/jleechan/)
+- [jleechan TTRPG Psychology](campaigns/jleechan/index.md) — Root index
+- [Psychological Profile](campaigns/jleechan/psychological-profile.md) — Childhood formation, conditional belonging, two-mask system
+- [Seven Choice Patterns](campaigns/jleechan/seven-choice-patterns.md) — Observable decision patterns from 500+ turn campaigns
+- [Character Archetypes](campaigns/jleechan/character-archetypes.md) — Name recycling, Tywin+Aizen+Johan+Griffith mashup
+- [Third Option](campaigns/jleechan/third-option.md) — The core cognitive move: never pick from the menu
+- [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
+
 ## Sources
 - [BG1 Nocturne Campaign](sources/bg1-nocturne-campaign.md) — Dark adventure: Nocturne the Serpent Queen, Gloom Stalker Ranger, Candlekeep to Baldur's Gate, Iron Crisis
 - [BG1 Nocturne Continued Campaign](sources/bg1-nocturne-continued-campaign.md) — Level 5 Nocturne in Baldur's Gate, doppelganger conspiracy, Sarevok threat
@@ -143,6 +151,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Nocturne Post BG3 Zhent Campaign](sources/nocturne-post-bg3-zhent-campaign.md) — Post-war noir, Zhentarim expansion
 - [Old Nocturne Merc BG3 Campaign](sources/old-nocturne-merc-bg3-campaign.md) — Noir mercenary, Serpent-King, Guild contract
 - [Rome Pax Julia Campaign](sources/rome-pax-julia-campaign.md) — Alternate Roman history, Imperator, Fated Miasma
+- [Boudica's Uprising Campaign](sources/boudica-campaign.md) — Boudica, Level 6 Warlock/Bard, Roman Britain rebellion, 50 scenes
 - [Sariel Assiah Campaign](sources/sariel-assiah-campaign.md) — Fantasy academy, House Arcanus
 
 ## Campaign Ingests (Batch F)
@@ -5516,6 +5525,9 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Austin Wang](entities/AustinWang.md) — Co-creator of [[CMUX]], native Swift/AppKit terminal for AI-agent workflows
 - [Shadow](entities/Shadow.md) — Lvl 3 Rogue player character with HP 22/28, XP 2500/6000, 75gp — referenced in think mode tests
 - [Aegon Targaryen](entities/AegonTargaryen.md) — Player character, secret Targaryen heir, Level 5 Gloomstalker, Mountain's Men mercenary
+- [Boudica](entities/Boudica.md) — Player character, Queen of the Iceni, Level 6 Warlock/Bard, Roman Britain rebellion
+- [Iceni](entities/Iceni.md) — Celtic tribe in ancient Britain, led by Boudica
+- [Roman Empire](entities/RomanEmpire.md) — Imperial power occupying ancient Britain
 - [Gregor's Mountain's Men](entities/GregorsMountainMen.md) — Mercenary company led by The Mountain, evil missions
 - [Ser Gregor Clegane](entities/SerGregorClegane.md) — "The Mountain," ruthless commander of mercenary company
 - [Westeros](entities/Westeros.md) — Continent setting for Game of Thrones campaigns
@@ -5668,6 +5680,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Serpent King](concepts/SerpentKing.md) — Backstory identity, philosophical evil
 - [Imperator Class](concepts/ImperatorClass.md) — Custom Roman class
 - [Fated Miasma](concepts/FatedMiasma.md) — Metaphysics of fate
+- [Warlock Oath of Vengeance](concepts/Warlock-Oath-of-Vengeance.md) — Warlock subclass focused on pursuing and punishing wrongdoers
 - [DM Mode vs Story Mode](concepts/DMModeVsStoryMode.md) — Meta-narrative framework
 - [CHANGES_REQUESTED Blocks Ok Unconditionally](concepts/CHANGES_REQUESTED-Blocks-Ok.md) — review change requests block approval until resolved and re-reviewed
 - [Automation Scripts Need Callers](concepts/Automation-Scripts-Need-Callers.md) — new scripts require visible trigger in diff; orphaned scripts are rejected
@@ -5681,6 +5694,8 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Zero Framework Cognition](concepts/ZeroFrameworkCognition.md) — Steve Yegge's ZFC: delegate ALL reasoning to AI models; application code handles only orchestration, IO, safety checks, and mechanical transforms; forbids keyword routing, heuristic scoring, and pattern-matching classification
 - [Semantic Vs Mechanical Judgment](concepts/SemanticVsMechanicalJudgment.md) — the core ZFC dividing line: semantic judgment (meaning, intent, importance) must go to AI; mechanical judgment (parsing, validation, range checks) stays in code
 - [Circuit Breaker Agent Selection](concepts/CircuitBreakerAgentSelection.md) — Agent selected 52+ consecutive times causing infinite loop; fix with per-agent consecutive cap
+- [Canvas Overlay Z-Index Issue](concepts/CanvasOverlayZIndexIssue.md) — Canvas with z-index:0 covers game content in Playwright video capture; L3 execution failure
+- [OCR Teardown Validation](concepts/OCRTeardownValidation.md) — Frame-level OCR validation in test teardown; replaces duration-only checks with content validation; L4 verification fix
 - [Code Execution False Positive Fabrication](concepts/CodeExecutionFalsePositiveFabrication.md) — Gemini code_execution false positive: tool_requests_executed=True without code_exec_used=True flagged as fabrication
 - [Budget Warning API Surface](concepts/BudgetWarningAPISurface.md) — Budget warnings computed in LLMResponse but to_dict() never called in API serialization
 - [Prompt Compliance Drift](concepts/PromptComplianceDrift.md) — LLMs ignoring 25K-token prompts; solutions: gating blocks, affirmative checkpoints, few-shot examples
@@ -5813,3 +5828,143 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Nocturne Apex Paladin — Entry 001](sources/nocturne-apex-paladin-entry-001.md) through [Nocturne Apex Paladin — Entry 020](sources/nocturne-apex-paladin-entry-020.md) — Scene entries 001-020
 - [Aemon Game of Thrones — Entry 001](sources/aemon-game-of-thrones-entry-001.md) through [Aemon Game of Thrones — Entry 020](sources/aemon-game-of-thrones-entry-020.md) — Scene entries 001-020
 - [Hunting Party - Sariel V2 — Entry 001](sources/hunting-party-sariel-v2-entry-001.md) through [Hunting Party - Sariel V2 — Entry 020](sources/hunting-party-sariel-v2-entry-020.md) — Scene entries 001-020
+
+## Campaigns (batch ingest)
+- [Nocturne bg3 after ](sources/nocturne-bg3-after-STpjRuwj.md) — 2054 entries
+- [Nocturne bg3 v4](sources/nocturne-bg3-v4-kuXKa6vr.md) — 2414 entries
+- [Nocturne post bg3 zhent](sources/nocturne-post-bg3-zhent-VqqJLpAB.md) — 2007 entries
+- [visenya v1 (dunk and egg)](sources/visenya-v1-dunk-and-egg-Rp7hvzhO.md) — 2130 entries
+- [alexiel swtor](sources/alexiel-swtor-tAE30bFv.md) — 1644 entries
+- [Nocturne bg3 v5 (fixed v2)](sources/nocturne-bg3-v5-fixed-v2-yxU6r6Uu.md) — 1850 entries
+- [Nocturne bg3 v4 (copy)](sources/nocturne-bg3-v4-copy-lJ0AIdpv.md) — 1642 entries
+- [Nocturne bg3 v5 - succubus (fixed) (copy)](sources/nocturne-bg3-v5-succubus-fixed-copy-Rx8rZeFo.md) — 1338 entries
+- [Nocturne bg3 v5 - succubus (fixed v1)](sources/nocturne-bg3-v5-succubus-fixed-v1-Wp5aDEpI.md) — 1338 entries
+- [Sariel killer](sources/sariel-killer-W1YIooU4.md) — 1370 entries
+- [faction - Nocturne bg3 V3](sources/faction-nocturne-bg3-v3-U1ngWe4M.md) — 1212 entries
+- [Itachi Evil Campaign 2](sources/itachi-evil-campaign-2-20lzLXyQ.md) — 1069 entries
+- [Aizen bg3](sources/aizen-bg3-2Ivu5p5O.md) — 1194 entries
+- [Dragon knight evil](sources/dragon-knight-evil-wBoMKQuM.md) — 1000 entries
+- [aurelius julius caesar v1](sources/aurelius-julius-caesar-v1-9za9JS5r.md) — 980 entries
+- [gaia julia v2](sources/gaia-julia-v2-JXXNfJpd.md) — 1042 entries
+- [Rome pax Julia](sources/rome-pax-julia-yLW2asE4.md) — 949 entries
+- [Aizen bg3 v2](sources/aizen-bg3-v2-ADCwQxVe.md) — 936 entries
+- [Alexiel assiah](sources/alexiel-assiah-d37VHc97.md) — 874 entries
+- [nocturne old republic](sources/nocturne-old-republic-vfi0Vh04.md) — 793 entries
+- [Visenya v4](sources/visenya-v4-azWa0WEa.md) — 836 entries
+- [noctune bg3 v6](sources/noctune-bg3-v6-qHCtkGaQ.md) — 772 entries
+- [Alexiel Assiah V2](sources/alexiel-assiah-v2-v0030WhK.md) — 726 entries
+- [(old) Noctune merc bg3](sources/old-noctune-merc-bg3-WgHKme6M.md) — 630 entries
+- [Tyranny](sources/tyranny-qjVpLfow.md) — 582 entries
+- [Nocturne bg3 v5 - succubus (copy)](sources/nocturne-bg3-v5-succubus-copy-2ynBPxtf.md) — 556 entries
+- [Aurelius caesar v2](sources/aurelius-caesar-v2-nl8480uw.md) — 566 entries
+- [Nocturne bg3 v5 - succubus (copy)](sources/nocturne-bg3-v5-succubus-copy-jNLXqa82.md) — 556 entries
+- [Nocturne bg3 v5 - succubus (copy)](sources/nocturne-bg3-v5-succubus-copy-WlfgzI0R.md) — 554 entries
+- [Visenya v2](sources/visenya-v2-mSEMkUw6.md) — 554 entries
+- [Visenya v5](sources/visenya-v5-ARrfJ39L.md) — 533 entries
+- [Nocturne bg3 v5 - succubus](sources/nocturne-bg3-v5-succubus-bs27jWsO.md) — 556 entries
+- [Sariel V2](sources/sariel-v2-rd3cYXFE.md) — 518 entries
+- [BG1 - Nocturne](sources/bg1-nocturne-Fr57AdL2.md) — 506 entries
+- [Daemon conquers](sources/daemon-conquers-tg37yPXr.md) — 471 entries
+- [Dragon knight good](sources/dragon-knight-good-tcQL26E6.md) — 460 entries
+- [Nocturne apex paladin](sources/nocturne-apex-paladin-YwmfPO4e.md) — 425 entries
+- [Aemon Game of Thrones](sources/aemon-game-of-thrones-jvFgRDxL.md) — 422 entries
+- [Hunting party - Sariel v2](sources/hunting-party-sariel-v2-2BQn0xEp.md) — 408 entries
+- [nocturne bg3 continued](sources/nocturne-bg3-continued-TBKp5JCA.md) — 358 entries
+- [Ramsay V1](sources/ramsay-v1-b9LPKcLH.md) — 379 entries
+- [Visenya v3](sources/visenya-v3-OZTbL5nJ.md) — 346 entries
+- [Gaia julia v4](sources/gaia-julia-v4-prg96Cof.md) — 324 entries
+- [Visenya V6](sources/visenya-v6-JkKR510z.md) — 307 entries
+- [Astarion Ascended](sources/astarion-ascended-ZohueN1j.md) — 301 entries
+- [Undertale](sources/undertale-sAV11o87.md) — 290 entries
+- [Hunting party - Sariel](sources/hunting-party-sariel-BSRwg603.md) — 282 entries
+- [Gaia julia v6](sources/gaia-julia-v6-6Zdpwt89.md) — 280 entries
+- [Arthur Dayne](sources/arthur-dayne-IFrx6edc.md) — 280 entries
+- [Luke V2](sources/luke-v2-fLwjxRBH.md) — 278 entries
+- [Stellaris - Nocturne V1](sources/stellaris-nocturne-v1-wOhBvrJ0.md) — 275 entries
+- [Doberman](sources/doberman-XhYKMdue.md) — 272 entries
+- [Aizen thay v1](sources/aizen-thay-v1-RtLrlAud.md) — 258 entries
+- [noctune bg3 v6 (bug-repro-test)](sources/noctune-bg3-v6-bug-repro-test-ofsvdJwV.md) — 266 entries
+- [Witcher Strat](sources/witcher-strat-X08mM1iQ.md) — 256 entries
+- [bg3 astarion](sources/bg3-astarion-LUAqNRjA.md) — 254 entries
+- [Merc solo brute - Gladius](sources/merc-solo-brute-gladius-XHeJJSyE.md) — 221 entries
+- [Gaia Julia v3](sources/gaia-julia-v3-0sptOAbQ.md) — 234 entries
+- [aurelius caesar v3](sources/aurelius-caesar-v3-mu7ZqwN0.md) — 216 entries
+- [Nocturne bg3 v7](sources/nocturne-bg3-v7-As8y312E.md) — 214 entries
+- [Stellaris - Nocturne V1 (repro-test)](sources/stellaris-nocturne-v1-repro-test-5MwN45BB.md) — 213 entries
+- [Aizen godhood continued](sources/aizen-godhood-continued-dD7y8NE1.md) — 176 entries
+- [Spartacus tiberius](sources/spartacus-tiberius-F5vpIFWL.md) — 158 entries
+- [Gaia julia v5](sources/gaia-julia-v5-pK5N1Fn6.md) — 156 entries
+- [Shadow heart ](sources/shadow-heart-DfeU0F05.md) — 111 entries
+- [Sariel - Assiah](sources/sariel-assiah-psXrbZ2t.md) — 116 entries
+- [bg1 nocturne continued](sources/bg1-nocturne-continued-E7qKW9jz.md) — 108 entries
+- [Boudica ](sources/boudica-Mwkd1WEF.md) — 100 entries
+
+## Campaigns (batch ingest)
+- [Nocturne post bg3 zhent](sources/nocturne-post-bg3-zhent-VqqJLpAB.md) — 2007 entries
+- [Nocturne bg3 v4](sources/nocturne-bg3-v4-kuXKa6vr.md) — 2414 entries
+- [Nocturne bg3 after ](sources/nocturne-bg3-after-STpjRuwj.md) — 2054 entries
+- [visenya v1 (dunk and egg)](sources/visenya-v1-dunk-and-egg-Rp7hvzhO.md) — 2130 entries
+- [Nocturne bg3 v5 (fixed v2)](sources/nocturne-bg3-v5-fixed-v2-yxU6r6Uu.md) — 1850 entries
+- [alexiel swtor](sources/alexiel-swtor-tAE30bFv.md) — 1644 entries
+- [Nocturne bg3 v4 (copy)](sources/nocturne-bg3-v4-copy-lJ0AIdpv.md) — 1642 entries
+- [Sariel killer](sources/sariel-killer-W1YIooU4.md) — 1370 entries
+- [Nocturne bg3 v5 - succubus (fixed) (copy)](sources/nocturne-bg3-v5-succubus-fixed-copy-Rx8rZeFo.md) — 1338 entries
+- [Nocturne bg3 v5 - succubus (fixed v1)](sources/nocturne-bg3-v5-succubus-fixed-v1-Wp5aDEpI.md) — 1338 entries
+- [faction - Nocturne bg3 V3](sources/faction-nocturne-bg3-v3-U1ngWe4M.md) — 1212 entries
+- [Aizen bg3](sources/aizen-bg3-2Ivu5p5O.md) — 1194 entries
+- [Itachi Evil Campaign 2](sources/itachi-evil-campaign-2-20lzLXyQ.md) — 1069 entries
+- [gaia julia v2](sources/gaia-julia-v2-JXXNfJpd.md) — 1042 entries
+- [Dragon knight evil](sources/dragon-knight-evil-wBoMKQuM.md) — 1000 entries
+- [aurelius julius caesar v1](sources/aurelius-julius-caesar-v1-9za9JS5r.md) — 980 entries
+- [Rome pax Julia](sources/rome-pax-julia-yLW2asE4.md) — 949 entries
+- [Aizen bg3 v2](sources/aizen-bg3-v2-ADCwQxVe.md) — 936 entries
+- [Alexiel assiah](sources/alexiel-assiah-d37VHc97.md) — 874 entries
+- [Visenya v4](sources/visenya-v4-azWa0WEa.md) — 836 entries
+- [nocturne old republic](sources/nocturne-old-republic-vfi0Vh04.md) — 793 entries
+- [noctune bg3 v6](sources/noctune-bg3-v6-qHCtkGaQ.md) — 772 entries
+- [Alexiel Assiah V2](sources/alexiel-assiah-v2-v0030WhK.md) — 726 entries
+- [(old) Noctune merc bg3](sources/old-noctune-merc-bg3-WgHKme6M.md) — 630 entries
+- [Tyranny](sources/tyranny-qjVpLfow.md) — 582 entries
+- [Nocturne bg3 v5 - succubus (copy)](sources/nocturne-bg3-v5-succubus-copy-2ynBPxtf.md) — 556 entries
+- [Aurelius caesar v2](sources/aurelius-caesar-v2-nl8480uw.md) — 566 entries
+- [Nocturne bg3 v5 - succubus (copy)](sources/nocturne-bg3-v5-succubus-copy-jNLXqa82.md) — 556 entries
+- [Nocturne bg3 v5 - succubus](sources/nocturne-bg3-v5-succubus-bs27jWsO.md) — 556 entries
+- [Nocturne bg3 v5 - succubus (copy)](sources/nocturne-bg3-v5-succubus-copy-WlfgzI0R.md) — 554 entries
+- [Visenya v2](sources/visenya-v2-mSEMkUw6.md) — 554 entries
+- [Visenya v5](sources/visenya-v5-ARrfJ39L.md) — 533 entries
+- [Sariel V2](sources/sariel-v2-rd3cYXFE.md) — 518 entries
+- [BG1 - Nocturne](sources/bg1-nocturne-Fr57AdL2.md) — 506 entries
+- [Daemon conquers](sources/daemon-conquers-tg37yPXr.md) — 471 entries
+- [Nocturne apex paladin](sources/nocturne-apex-paladin-YwmfPO4e.md) — 425 entries
+- [Dragon knight good](sources/dragon-knight-good-tcQL26E6.md) — 460 entries
+- [Aemon Game of Thrones](sources/aemon-game-of-thrones-jvFgRDxL.md) — 422 entries
+- [Hunting party - Sariel v2](sources/hunting-party-sariel-v2-2BQn0xEp.md) — 408 entries
+- [Ramsay V1](sources/ramsay-v1-b9LPKcLH.md) — 379 entries
+- [nocturne bg3 continued](sources/nocturne-bg3-continued-TBKp5JCA.md) — 358 entries
+- [Visenya v3](sources/visenya-v3-OZTbL5nJ.md) — 346 entries
+- [Gaia julia v4](sources/gaia-julia-v4-prg96Cof.md) — 324 entries
+- [Visenya V6](sources/visenya-v6-JkKR510z.md) — 307 entries
+- [Astarion Ascended](sources/astarion-ascended-ZohueN1j.md) — 301 entries
+- [Undertale](sources/undertale-sAV11o87.md) — 290 entries
+- [Hunting party - Sariel](sources/hunting-party-sariel-BSRwg603.md) — 282 entries
+- [Gaia julia v6](sources/gaia-julia-v6-6Zdpwt89.md) — 280 entries
+- [Arthur Dayne](sources/arthur-dayne-IFrx6edc.md) — 280 entries
+- [Luke V2](sources/luke-v2-fLwjxRBH.md) — 278 entries
+- [Stellaris - Nocturne V1](sources/stellaris-nocturne-v1-wOhBvrJ0.md) — 275 entries
+- [Doberman](sources/doberman-XhYKMdue.md) — 272 entries
+- [noctune bg3 v6 (bug-repro-test)](sources/noctune-bg3-v6-bug-repro-test-ofsvdJwV.md) — 266 entries
+- [Aizen thay v1](sources/aizen-thay-v1-RtLrlAud.md) — 258 entries
+- [Witcher Strat](sources/witcher-strat-X08mM1iQ.md) — 256 entries
+- [bg3 astarion](sources/bg3-astarion-LUAqNRjA.md) — 254 entries
+- [Gaia Julia v3](sources/gaia-julia-v3-0sptOAbQ.md) — 234 entries
+- [Merc solo brute - Gladius](sources/merc-solo-brute-gladius-XHeJJSyE.md) — 221 entries
+- [aurelius caesar v3](sources/aurelius-caesar-v3-mu7ZqwN0.md) — 216 entries
+- [Nocturne bg3 v7](sources/nocturne-bg3-v7-As8y312E.md) — 214 entries
+- [Stellaris - Nocturne V1 (repro-test)](sources/stellaris-nocturne-v1-repro-test-5MwN45BB.md) — 213 entries
+- [Aizen godhood continued](sources/aizen-godhood-continued-dD7y8NE1.md) — 176 entries
+- [Spartacus tiberius](sources/spartacus-tiberius-F5vpIFWL.md) — 158 entries
+- [Gaia julia v5](sources/gaia-julia-v5-pK5N1Fn6.md) — 156 entries
+- [Sariel - Assiah](sources/sariel-assiah-psXrbZ2t.md) — 116 entries
+- [Shadow heart ](sources/shadow-heart-DfeU0F05.md) — 111 entries
+- [bg1 nocturne continued](sources/bg1-nocturne-continued-E7qKW9jz.md) — 108 entries
+- [Boudica ](sources/boudica-Mwkd1WEF.md) — 100 entries

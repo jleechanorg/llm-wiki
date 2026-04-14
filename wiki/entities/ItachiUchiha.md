@@ -2,7 +2,7 @@
 title: "Itachi Uchiha"
 type: entity
 tags: [itachi-evil-campaign-2, naruto, uchiha, ninja]
-sources: [itachi-evil-campaign-2-campaign]
+sources: [itachi-evil-campaign-2-campaign, itachi-evil-campaign-2]
 last_updated: 2026-04-12
 ---
 
