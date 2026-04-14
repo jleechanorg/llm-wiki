@@ -1,0 +1,34 @@
+---
+title: "ReAct: Synergizing Reasoning and Acting in Language Models"
+type: source
+tags: [reasoning, acting, chain-of-thought, tool-use, agent, ReAct]
+sources: []
+date: 2022-10-06
+source_file: raw/arxiv-2407.21787-react.md
+---
+
+## Summary
+
+ReAct explores using LLMs to generate reasoning traces and task-specific actions in an interleaved manner, allowing greater synergy between reasoning and acting. Reasoning traces help the model induce, track, and update action plans while handling exceptions, while actions interface with external sources to gather information. ReAct overcomes hallucination and error propagation issues prevalent in chain-of-thought reasoning.
+
+## Key Claims
+
+- ReAct overcomes **hallucination** and **error propagation** issues in chain-of-thought reasoning
+- On **ALFWorld**: **34% absolute improvement** over imitation and reinforcement learning baselines
+- On **WebShop**: **10% absolute improvement** over imitation and RL baselines
+- Uses only **one or two in-context examples** to achieve these results
+- Generates **human-interpretable** task-solving trajectories
+- Reasoning traces enable the model to handle exceptions and update plans dynamically
+
+## Technique/Method
+
+- **Interleaved reasoning + acting**: model alternates between thinking about the situation and taking actions
+- **External source interaction**: actions interface with Wikipedia API, web search, or other tools
+- **In-context learning**: minimal examples (1-2) guide the pattern
+- **Dynamic plan updating**: reasoning traces allow plan modification based on new information
+
+## Connections
+
+- Foundation paper for agentic reasoning + action pattern
+- Relevant to chain-of-thought and tool-use research
+- Precursor to more advanced agentic coding frameworks
