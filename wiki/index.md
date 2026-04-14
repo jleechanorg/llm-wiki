@@ -5699,6 +5699,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [EvidenceEnforcement](concepts/EvidenceEnforcement.md) — CI-gated evidence path, gap between structure-check and real bundle validation
 - [SkepticGate](concepts/SkepticGate.md) — CI gate requiring per-check evidence artifacts with timestamps; renamed from skeptic-gate to green-gate in PR #6189
 - [HookBypass](concepts/HookBypass.md) — tmux/cmux/API bypass UserPromptSubmit hooks for agent workflows
+- [LevelUpSynthesisFix](concepts/LevelUpSynthesisFix.md) — Stuck-completion reconciliation: synthesize missing rewards_box when level_up_complete=True; D&D 5e ASI injection at levels 4/8/12/14/16/19; PR #6275 has undefined `build_level_up_rewards_box` (BLOCKER) and ASI test setup bugs
 - [StoryPaginationFix](concepts/StoryPaginationFix.md) — FakeFirestore precondition guard pattern + `_coerce_first_valid` helper; PR #6272 blocked by committed merge conflict markers
 - [OracleCLI](concepts/OracleCLI.md) — Multi-model second-opinion workflow using Cerebras Qwen 3, Grok 4, Perplexity, GPT-5
 - [Think Mode](concepts/ThinkMode.md) — game mode for strategic planning without narrative advancement; advances time by only 1 microsecond
