@@ -1,0 +1,1 @@
+LaunchAgent plist is **not** committed with real paths. Run `../install.sh` to generate `~/Library/LaunchAgents/com.jleechan.wiki-daily-worker.plist` (daily at 08:00, runs `~/Library/Application Support/llm-wiki/daily-worker.sh`).
