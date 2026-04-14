@@ -224,7 +224,7 @@ def update_index(campaigns: list[dict]):
     lines = []
     for camp in campaigns:
         slug = slugify(camp["title"])
-        if slugify(camp["campaign_id"]) not in slug:
+        if slug not in camp["campaign_id"].lower():
             slug = f"{slug}-{camp['campaign_id'][:8]}"
         lines.append(
             f"- [{camp['title']}](sources/{slug}.md) — {camp['entry_count']} entries"
