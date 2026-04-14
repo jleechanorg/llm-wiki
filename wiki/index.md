@@ -1,3 +1,9 @@
+---
+title: "Wiki Index"
+type: index
+last_updated: 2026-04-14
+---
+
 # Wiki Index
 
 This file is maintained by the LLM. Updated on every ingest.
@@ -5955,6 +5961,32 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 
 - [Qwen vs Sonnet Benchmark Index](sources/qwen-vs-sonnet-benchmark-index.md-800b5891.md) — 20-30x faster responses (559ms avg) with quality parity across 12 coding tasks
 
+## Frontier AI Coding Concepts (Layer 1 + Layer 2)
+
+- [ExtendedThinking](concepts/ExtendedThinking.md) — Extended reasoning with think tokens; o3/o4 class capability; substrate for SelfCritique and ReasoningBudget
+- [ReasoningBudget](concepts/ReasoningBudget.md) — Adaptive token budgets for inference-time compute; maps priority to think budget tier
+- [SelfCritique](concepts/SelfCritique.md) — Model evaluates its own output before finalizing; 20-40% error reduction on coding tasks
+- [SelfDebugging](concepts/SelfDebugging.md) — Autonomous bug diagnosis and fix; combines ErrorDetection + CodeRepair in a loop
+- [FormalVerification](concepts/FormalVerification.md) — Mathematical proof of correctness via Lean, Coq, Isabelle; highest assurance level
+- [AdversarialTesting](concepts/AdversarialTesting.md) — AI generates adversarial inputs to break its own code; generate-attack-fix loop
+- [VerificationLoop](concepts/VerificationLoop.md) — Macro pattern: generate -> verify -> fix -> repeat until verification passes
+- [ChainOfThought](concepts/ChainOfThought.md) — Prompting technique: explicit step-by-step reasoning; precursor to ExtendedThinking
+- [TestTimeCompute](concepts/TestTimeCompute.md) — Inference-time compute scaling; explains why ExtendedThinking works
+- [ScalingLaws](concepts/ScalingLaws.md) — Model scaling relationships; ExtendedThinking changes the classical pre-training scaling laws
+- [AdaptiveComputation](concepts/AdaptiveComputation.md) — Dynamic compute allocation based on input complexity; ReasoningBudget implements this
+- [Reflexion](concepts/Reflexion.md) — Memory-enhanced self-critique; learns from past critique history to avoid repeating errors
+- [SelfReflection](concepts/SelfReflection.md) — Meta-cognition: examining one's own reasoning process (vs SelfCritique which evaluates outputs)
+- [ErrorDetection](concepts/ErrorDetection.md) — First step in SelfDebugging: identifying that a bug occurred
+- [CodeRepair](concepts/CodeRepair.md) — Fix application after ErrorDetection; step 2 of SelfDebugging pipeline
+- [ProofAssistant](concepts/ProofAssistant.md) — Generic term for Lean, Coq, Isabelle; tools for formal verification
+- [Lean](concepts/Lean.md) — Microsoft's theorem prover; popular in AI-assisted formal verification
+- [Coq](concepts/Coq.md) — Proof assistant used for CompCert verified compiler
+- [Fuzzing](concepts/Fuzzing.md) — Automated adversarial input generation; finds edge cases and security bugs
+- [PropertyBasedTesting](concepts/PropertyBasedTesting.md) — Testing properties across randomly generated inputs; complementary to Fuzzing
+- [SWE-bench](concepts/SWE-bench.md) — Benchmark on real GitHub issues; evaluates SelfDebugging capability
+- [ContinuousVerification](concepts/ContinuousVerification.md) — Verification integrated into every development stage; CI/CD embodiment of VerificationLoop
+- [CI-Gates](concepts/CI-Gates.md) — Automated quality checkpoints in CI/CD; enforce ContinuousVerification
+
 ## Batch G Campaign Concepts
 
 - [Gestalt Progression](concepts/GestaltProgression.md) — Combined class progression system, mixing two classes at once
@@ -5979,6 +6011,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 ## Syntheses
 
 - [What would Jeffrey say?](syntheses/jeffrey-oracle.md) — Oracle synthesis from 56K user messages + GitHub patterns
+- [Frontier AI Coding 2026](syntheses/frontier-ai-coding-2026.md) — The two highest-leverage frontier AI coding concepts for the harness: ExtendedThinking and SelfCritique, and the gap (full VerificationLoop not yet in production)
 - [jeffrey-oracle-architecture](syntheses/jeffrey-oracle-architecture.md) — Architecture decisions: services, APIs, data models, layer boundaries
 - [jeffrey-oracle-cost](syntheses/jeffrey-oracle-cost.md) — Cost optimization: model selection, token budgets, minimax vs Anthropic
 - [jeffrey-oracle-agent](syntheses/jeffrey-oracle-agent.md) — Agent orchestration: spawning, parallel vs sequential, team coordination
