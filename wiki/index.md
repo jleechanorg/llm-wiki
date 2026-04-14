@@ -18,6 +18,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [ThinkTwice](sources/think-twice-paper.md) — Joint GRPO optimization of reasoning + self-refinement; +11.5pp on AIME after one refinement step; no critique annotations needed
 - [Self-Debias](sources/self-debias-paper.md) — Self-correction for debiasing LLMs via trajectory optimization; addresses bias propagation through CoT; 20k samples sufficient
 - [AdverMCTS](sources/advermcts-paper.md) — Adversarial MCTS to combat pseudo-correctness; minimax game between Solver and Attacker agents; reduces false positive rates on hidden tests
+- [Level-Up v4 Semantic Regression: 6 Production Bugs](sources/level-up-v4-semantic-regression-bug.md) — should_show_rewards_box suppresses ALL non-level-up XP rewards — 4/6 production bugs trace to PR #6273 semantic change
 - [Rewards Engine: Single-Responsibility Pipeline Refactor](sources/level-up-engine-v4-design.md) — v4 design: single orchestration root (llm_parser.py), 7-stage pipeline, rewards_engine idempotent, closes #6262/#6263/#6264/#6268
 - [System Design Primer](sources/system-design-primer.md) — API design, caching, database sharding, microservices; case studies: GitHub Stadium, GitHub Search, YouTube, Dropbox
 - [Level-Up Second Opinion Analysis](sources/level-up-second-opinion-analysis.md) — Real Cerebras+Gemini+Perplexity secondo: SRP confirmed, double-touch accurate, 5 edge case warnings
@@ -5744,8 +5745,9 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Preview Model Risk](concepts/Preview-Model-Risk.md) — adding preview models to security-critical configs requires explicit medium-risk acknowledgment
 - [Structure Drift Pattern](concepts/StructureDriftPattern.md) — agent accidentally nests new fields inside existing conditionals; PR #5782 checkpoint placed debug_info inside rewards_box block
 - [Level-Up Bug Chain](concepts/LevelUpBug.md) — 8+ PR cascade: structure drift, atomicity violations, debug-gating preventing dice rolls for non-debug users; PRs #6161→#6195→#6204 chain
-- [Level-Up Code Architecture](concepts/LevelUpCodeArchitecture.md) — v3: llm_parser → game_state → rewards_engine → world_logic → app.js (no file twice); supersedes PRs #6262/#6263/#6264/#6268; idempotent rewards_engine for DeferredRewardsProtocol; DNC type coercion; class-specific ASI levels; property-based tests
+- [Level-Up Code Architecture](concepts/LevelUpCodeArchitecture.md) — v3: llm_parser → game_state → rewards_engine → world_logic → app.js (no file twice); PR #6273 deployed with should_show_rewards_box regression; PR #6276 (CLEAN/L3) OPEN
 - [LevelUpPolling](concepts/LevelUpPolling.md) — 3 distinct paths: SSE streaming (push, done event inline), HTTP GET (page load only), MCP polling (external clients); DeferredRewardsProtocol is LLM instruction not server timer
+- [RewardsEngine](concepts/RewardsEngine.md) — Single-responsibility rewards module; `should_show_rewards_box` semantic regression from PR #6273 suppressed all non-level-up XP progress boxes (4/6 production bugs)
 - [RewardsBox Atomicity](concepts/RewardsBoxAtomicity.md) — invariant that rewards_box and planning_block must be consistent; 6 distinct atomicity bugs found in PR #6161 bug hunt
 - [Dice Roll Debug Regression](concepts/DiceRollDebugRegression.md) — dice rolls and debug_info don't render for non-debug users on main; regression predates PR #6161; investigation open in PR #6194
 - [Nullification Field](concepts/NullificationField.md) — Alexiel's special ability to neutralize magic vs celestial beings
