@@ -45,42 +45,60 @@ The streaming path (`/api/campaigns/<id>/interaction/stream`) is what real playe
 
 ---
 
-## Bug Chain: 15+ PRs and Still Failing
+## Bug Chain: PRs That Fixed It
+
+| PR | What it fixed | Status |
+|----|---------------|--------|
+| #6233 | **Centralization** — inlined rewards/ package into game_state.py + world_logic.py; ONE `_is_state_flag_true` | Merged 2026-04-13 |
+| #6254 | `has_visible_content` now includes `current_xp > 0 and next_level_xp > 0` — backend is single source of truth for visibility | Merged 2026-04-14 |
+| #6259 | [antig] fixes missed serious PR audit findings including rewards bug | Merged 2026-04-14 |
+| #6261 | `_extract_reward_value()` for messy LLM payloads (strings, NaN, fallback keys) — backend robustness | OPEN |
+
+## Architecture After #6254: Backend is Single Source of Truth
+
+With PR #6254, `normalize_rewards_box_for_ui()` `has_visible_content` correctly returns True for:
+- `xp_gained > 0` ✅
+- `current_xp > 0 and next_level_xp > 0` ✅ (PR #6254 fix)
+- `level_up_available=true` ✅ (test case in PR #6261)
+
+**Frontend should just `if (fullData.rewards_box)` — if backend returned it, render it.**
+
+The `xp_gained > 0` double-gate in frontend `app.js:924` was redundant and wrong once #6254 landed. **Fix applied to wiki snapshot.**
+
+### Bug Chain: Historical PRs (pre-centralization)
 
 | PR | What it fixed | What it broke/regressed |
 |----|---------------|------------------------|
 | #6161 | rewards_box/planning_block atomicity, added normalize_rewards_box_for_ui | Over-aggressive `has_visible_content → None` gate dropped rewards_box for level-up-only payloads |
 | #6179 | Living world debug gate removed (debug_info emits for non-debug) | — |
-| #6193 | Removed `has_visible_content → None` gate, rewards_box no longer dropped | Broke `_process_rewards_followup` sentinel contract — None returned for empty dict |
+| #6193 | Removed `has_visible_content → None` gate, rewards_box no longer dropped | Broke `_process_rewards_followup` sentinel contract |
 | #6195 | Restored sentinel gate with `progress_percent > 0` added | — |
 | #6196 | Dragon knight template bypass dropped FIELD_REWARDS_BOX | — |
 | #6197 | `debug_info` moved outside rewards_box gate | — |
 | #6201 | `social_hp_challenge`, `recommend_spicy_mode`, `god_mode_response` un-nested | — |
-| #6204 | `action_resolution`, `dice_rolls`, `dice_audit_events`, `resources`, `tool_requests` hoisted out of rewards_box gate | **Primary fix for dice regression** |
-| #6192 | Added regression tests for `xp_gained=0` gate | **Claims fix was in #6161 but snapshot still has buggy gate** |
+| #6204 | `action_resolution`, `dice_rolls`, `dice_audit_events`, `resources`, `tool_requests` hoisted out of rewards_box gate | Primary fix for dice regression |
+| #6192 | Added regression tests for `xp_gained=0` gate | Tests claimed fix was in #6161 but snapshot had buggy gate |
 | #6165 | Wizard CTA hidden, stale level-up choices during polling | — |
 | #6198 | Computed `@property level` redesign (OPEN — 7 CHANGES_REQUESTED) | Canonicalizer self-undo bug still present |
 
 ---
 
-## FrontendRewardsBoxGate: The Specific Bug for 2026-04-14
+## FrontendRewardsBoxGate: The Bug + The Fix
 
 **File:** `raw/mvp_site_all/app.js:924`
-**Bug introduced:** ~3 weeks before #6161 (commit `8f95edde2`, structure drift root cause)
-**Status:** Bug still present in `raw/mvp_site_all/app.js` snapshot despite PR #6192 claiming it was fixed
+**Root cause:** Double-gate — backend `has_visible_content` was too restrictive, so frontend added its own gate. After PR #6254 fixes backend, frontend gate is now redundant and wrong.
+
+**After PR #6254:** Backend `normalize_rewards_box_for_ui` is the single source of truth. Frontend should just `if (fullData.rewards_box)`.
 
 ```javascript
-// CURRENT (buggy): hides box when xp_gained=0 but level_up_available=true
+// BEFORE (double-gate, wrong): app.js:924
 if (fullData.rewards_box && fullData.rewards_box.xp_gained > 0) {
-  const rb = fullData.rewards_box;
-  // ... renders rewards box including "LEVEL UP AVAILABLE!" when level_up_available
-}
 
-// FIX: also render when level_up_available is true
-if (fullData.rewards_box && (fullData.rewards_box.xp_gained > 0 || fullData.rewards_box.level_up_available)) {
+// AFTER (single source of truth): FIXED in wiki snapshot
+if (fullData.rewards_box) {
 ```
 
-**Note:** The `level_up_available` check inside the block (line 959) works correctly — the bug is the outer gate at line 924 that prevents the entire box from rendering.
+**Note:** PR #6254 specifically fixed `current_xp > 0 and next_level_xp > 0` in `has_visible_content`. Test case 7 in PR #6261 confirmed `level_up_available=true` also returns non-None. The frontend gate is now purely redundant.
 
 ---
 
