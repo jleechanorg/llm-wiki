@@ -30,6 +30,9 @@ The Verification Loop is the closed-cycle pipeline that takes a generated code a
 - [[ExtendedThinking]] — extended thinking enables more thorough verification at each loop stage
 - [[ReasoningBudget]] — reasoning budgets can be allocated per loop iteration based on remaining budget and problem difficulty
 - [[SelfCritiqueVerificationLoop]] — specific 3-iteration-cap implementation combining ReVeal test-generation with self-correction refinement, used in [[AutoResearchLoop]] Phase 2
+- [[SelfRefine]] — self-refine is the iterative revision mechanism within the loop: generate → critique → revise → repeat
+- [[DeterministicFeedbackLoops]] — deterministic fast-fail checks are the early-stage feedback before expensive LLM-judged loop stages
+- [[SelfGeneratedTestGeneration]] — self-generated tests fill coverage gaps where no existing test suite exists
 
 ## Relationships to Other Concepts
 

@@ -30,6 +30,8 @@ Self Critique is the capability of a model to evaluate its own output against re
 - [[SelfReflection]] — the meta-cognitive layer of examining one's own reasoning process
 - [[LLM-as-Judge-Pattern]] — using a secondary model to evaluate primary model outputs (architectural sibling to self-critique)
 - [[SelfCritiqueVerificationLoop]] — specific 3-iteration-cap implementation combining ReVeal test-generation with self-correction refinement, mandating concrete test execution before final output
+- [[SelfRefine]] — SelfRefine is the iterative implementation of self-critique: critique → revise → repeat
+- [[SelfGeneratedTestGeneration]] — test generation is a concrete form of self-critique that requires understanding requirements deeply
 
 ## Relationships to Other Concepts
 

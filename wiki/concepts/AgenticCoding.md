@@ -33,3 +33,5 @@ Agentic Coding is the practice of using AI agents to autonomously perform softwa
 - [[CodingAgent]] — broader concept of agents that write code
 - [[SelfImproving]] — agentic systems that improve through feedback
 - [[MetaHarness]] — uses agentic coding to search over harness configurations
+- [[ModelRouting]] — agentic coding systems benefit from routing tasks to appropriate models based on complexity
+- [[SelfGeneratedTestGeneration]] — agentic coders can generate their own test cases as part of the verification workflow
