@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Toriel's Home - Frisk's Room
 - **Level hint:** 3
 - **Word count:** 198
-- **Campaign:** [[Undertale]]
+- **Campaign:** [[undertale]]
 - **Entry:** [[undertale-entry-048]]
 
 ---

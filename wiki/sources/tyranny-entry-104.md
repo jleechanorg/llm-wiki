@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Ascension Hall - Grand Entrance
 - **Level hint:** 8
 - **Word count:** 422
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-104]]
 
 ---

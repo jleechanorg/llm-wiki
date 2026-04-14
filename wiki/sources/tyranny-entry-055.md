@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Disfavored Encampment - Command Tent Perimeter
 - **Level hint:** 6
 - **Word count:** 435
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-055]]
 
 ---

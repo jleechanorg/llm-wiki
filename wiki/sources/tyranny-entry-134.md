@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Ocean Spire (Apex)
 - **Level hint:** 9
 - **Word count:** 106
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-134]]
 
 ---

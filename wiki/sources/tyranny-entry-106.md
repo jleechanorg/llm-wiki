@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Vendrien's Well - Ascension Hall Grand Entrance
 - **Level hint:** 8
 - **Word count:** 353
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-106]]
 
 ---

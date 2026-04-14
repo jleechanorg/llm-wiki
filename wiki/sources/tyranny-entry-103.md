@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Path to Ascension Hall
 - **Level hint:** 8
 - **Word count:** 372
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-103]]
 
 ---

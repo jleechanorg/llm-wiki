@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Toriel's Home - Interior
 - **Level hint:** 3
 - **Word count:** 105
-- **Campaign:** [[Undertale]]
+- **Campaign:** [[undertale]]
 - **Entry:** [[undertale-entry-038]]
 
 ---

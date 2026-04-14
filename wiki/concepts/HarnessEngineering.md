@@ -63,3 +63,4 @@ Ryan emphasizes codifying tribal knowledge into markdown files:
 - [[MetaHarness]] - The system that automates harness engineering
 - [[OuterLoopOptimization]] - Harness changes are the outer loop
 - [[HarnessVsPrompt]] - Harness is the code layer; prompt is just text
+- [[CanonicalCodeScorer]] - Quantitative scoring engine (6-dimension rubric + diff similarity) used to evaluate harness outputs against canonical patterns

@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Scarlet Chorus Encampment - Outer Perimeter
 - **Level hint:** 6
 - **Word count:** 436
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-070]]
 
 ---

@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Noh Tae-nam's Executive Penthouse Suite
 - **Level hint:** 4
 - **Word count:** 446
-- **Campaign:** [[Doberman]]
+- **Campaign:** [[doberman]]
 - **Entry:** [[doberman-entry-093]]
 
 ---

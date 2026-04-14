@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** The Ruins - Long Hallway
 - **Level hint:** 1
 - **Word count:** 415
-- **Campaign:** [[Undertale]]
+- **Campaign:** [[undertale]]
 - **Entry:** [[undertale-entry-027]]
 
 ---

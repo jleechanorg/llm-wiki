@@ -15,7 +15,7 @@ source_file: /tmp/campaign_downloads_v2/
 ## Key Details
 
 - **Word count:** 61
-- **Campaign:** [[Undertale]]
+- **Campaign:** [[undertale]]
 - **Entry:** [[undertale-entry-079]]
 
 ---

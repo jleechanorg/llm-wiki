@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Edgering Ruins - Eastern Scriptorium Outskirts
 - **Level hint:** 6
 - **Word count:** 446
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-040]]
 
 ---

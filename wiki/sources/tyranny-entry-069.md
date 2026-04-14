@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Scarlet Chorus Outskirts - Vendrien's Well
 - **Level hint:** 6
 - **Word count:** 416
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-069]]
 
 ---

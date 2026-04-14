@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Vendrien's Well - Inner Sanctum Threshold
 - **Level hint:** 9
 - **Word count:** 290
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-109]]
 
 ---

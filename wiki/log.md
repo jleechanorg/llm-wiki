@@ -1,3 +1,11 @@
+## [2026-04-14] lint | Wikilink audit — fixed 583 case-mismatches (266 unique patterns), created [[Neongreen]] entity, cleaned external refs; 2099 remaining (1927 CamelCase missing pages, ~172 shell artifacts)
+## [2026-04-14] update | AutoResearchExperiment concept — enhanced with 5-layer architecture, ProductJudge, TasteLearningLoop, design principles, results
+## [2026-04-14] ingest | Auto-Research Loop — 4-phase self-discovering meta-research, hypothesis generation from PR patterns
+## [2026-04-14] ingest | Self-Critique + Verification Loop — 3-iteration-cap, canonical prompt chaining, sandboxed test execution
+## [2026-04-14] ingest | Canonical Code Scorer — 6-dimension rubric (70%) + diff similarity (30%)
+## [2026-04-14] ingest | Product Judge — isolated product taste oracle, 5-dimension scoring, 4-verdict output
+## [2026-04-14] ingest | Taste Learning Loop — negative constraint extraction, taste rubric updates, bead tracking
+## [2026-04-14] ingest | System Design Primer — API design, caching, database sharding, microservices; case studies: GitHub Stadium, GitHub Search, YouTube, Dropbox
 ## [2026-04-14] ingest | Polling vs Streaming Architecture — 3 paths (SSE/HTTP/MCP), DeferredRewardsProtocol is LLM instruction not timer
 ## [2026-04-14] ingest | WorldArchitect Level-Up Beads — open beads jleechan-7tas/20z1/xvrx/bwmj/9ej1
 ## [2026-04-14] update | LevelUpPolling — 3-path architecture (SSE push, HTTP GET page-load, MCP polling), DeferredRewardsProtocol LLM instruction

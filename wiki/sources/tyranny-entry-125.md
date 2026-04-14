@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Lethian's Crossing (Occupied)
 - **Level hint:** 9
 - **Word count:** 445
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-125]]
 
 ---

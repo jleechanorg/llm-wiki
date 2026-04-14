@@ -29,6 +29,7 @@ The Verification Loop is the closed-cycle pipeline that takes a generated code a
 - [[SkepticGate]] — skeptic gates can serve as loop termination enforcers: if a skeptic gate fails, the loop continues fixing
 - [[ExtendedThinking]] — extended thinking enables more thorough verification at each loop stage
 - [[ReasoningBudget]] — reasoning budgets can be allocated per loop iteration based on remaining budget and problem difficulty
+- [[SelfCritiqueVerificationLoop]] — specific 3-iteration-cap implementation combining ReVeal test-generation with self-correction refinement, used in [[AutoResearchLoop]] Phase 2
 
 ## Relationships to Other Concepts
 

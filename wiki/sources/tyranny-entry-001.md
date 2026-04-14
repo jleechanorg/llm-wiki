@@ -15,7 +15,7 @@ source_file: /tmp/campaign_downloads_v2/
 ## Key Details
 
 - **Word count:** 16
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-001]]
 
 ---

@@ -18,5 +18,5 @@ Document generation system for exporting campaign story logs to multiple formats
 - Choice matching uses text normalization with multiple fallback methods (direct match, title prefix, exact match)
 
 ## Connections
-- [[mvp_site_capture]] — works with captured story logs for export
-- [[mvp_site_main]] — related to campaign export functionality
+- [[mvp-site-capture]] — works with captured story logs for export
+- [[mvp-site-main]] — related to campaign export functionality

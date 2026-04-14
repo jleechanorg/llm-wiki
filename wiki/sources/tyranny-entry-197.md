@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Capstone Spire (Neural Apex)
 - **Level hint:** 57
 - **Word count:** 243
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-197]]
 
 ---

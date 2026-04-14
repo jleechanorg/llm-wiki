@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Bastard City - Outer Perimeter
 - **Level hint:** 12
 - **Word count:** 372
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-200]]
 
 ---

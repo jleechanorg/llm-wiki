@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Approach to Vendrien's Well
 - **Level hint:** 8
 - **Word count:** 456
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-098]]
 
 ---

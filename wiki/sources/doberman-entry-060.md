@@ -15,7 +15,7 @@ source_file: /tmp/campaign_downloads_v2/
 ## Key Details
 
 - **Word count:** 31
-- **Campaign:** [[Doberman]]
+- **Campaign:** [[doberman]]
 - **Entry:** [[doberman-entry-060]]
 
 ---

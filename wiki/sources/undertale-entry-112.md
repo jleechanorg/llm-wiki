@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Toriel's Home - Living Room
 - **Level hint:** 4
 - **Word count:** 459
-- **Campaign:** [[Undertale]]
+- **Campaign:** [[undertale]]
 - **Entry:** [[undertale-entry-112]]
 
 ---

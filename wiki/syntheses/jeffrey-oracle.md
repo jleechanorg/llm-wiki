@@ -3,7 +3,10 @@ title: "jeffrey-oracle"
 type: synthesis
 tags: [jeffrey, oracle, synthesis, decision-framework]
 sources: [user-preferences-patterns-learnings, github-patterns, ai-coding, Body-Diff-Verification, Net-Negative-Deletion-Is-Ok, CHANGES_REQUESTED-Blocks-Ok, Automation-Scripts-Need-Callers, Preview-Model-Risk, EvidenceBundle, FailClosedErrorHandling, CICDWorkflows, CronJobAutomation]
-last_updated: 2026-04-11
+last_updated: 2026-04-14
+
+## Backlink Health
+This synthesis should have ≥10 inbound links from concept pages and ≥15 outbound links to related concepts. Run `/wiki-assess` to verify.
 ---
 
 # The Jeffrey Oracle: What Would Jeffrey Say?

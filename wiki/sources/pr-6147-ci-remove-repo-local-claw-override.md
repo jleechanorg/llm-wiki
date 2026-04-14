@@ -28,4 +28,4 @@ Removes the repo-local `.claude/commands/claw.md` override from the repository, 
 - **Labels**: none
 
 ## Connections
-- [[/claw command]] — user-scope command now takes precedence after repo-local override removal
+- `/claw` — user-scope command now takes precedence after repo-local override removal

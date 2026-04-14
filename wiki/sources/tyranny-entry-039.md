@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Edgering Ruins - Eastern Perimeter
 - **Level hint:** 6
 - **Word count:** 350
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-039]]
 
 ---

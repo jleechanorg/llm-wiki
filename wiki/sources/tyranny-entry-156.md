@@ -16,7 +16,7 @@ source_file: /tmp/campaign_downloads_v2/
 
 - **Location:** Dawning Spire (Lower Warrens - Veiled Quill)
 - **Word count:** 356
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-156]]
 
 ---

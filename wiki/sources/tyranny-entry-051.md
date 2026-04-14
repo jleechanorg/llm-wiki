@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Vendrien's Well - Disfavored Encampment Perimeter
 - **Level hint:** 6
 - **Word count:** 338
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-051]]
 
 ---

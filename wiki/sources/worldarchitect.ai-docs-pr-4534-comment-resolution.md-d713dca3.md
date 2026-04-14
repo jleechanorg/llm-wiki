@@ -26,7 +26,7 @@ Analysis of 312 PR comments from PR #4534 (Unified Game State Schema) using 6 pa
 ## Connections
 - [[PR #1405]] — related MCP server and schema fixes
 - [[GameState Model]] — schema-to-implementation issues
-- [[Worldarchitect]] — project this PR belongs to
+- [[worldarchitect]] — project this PR belongs to
 
 ## Contradictions
 - None identified in this source

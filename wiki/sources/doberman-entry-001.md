@@ -18,7 +18,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Character:** Sariel
 - **Level hint:** 1
 - **Word count:** 231
-- **Campaign:** [[Doberman]]
+- **Campaign:** [[doberman]]
 - **Entry:** [[doberman-entry-001]]
 
 ---

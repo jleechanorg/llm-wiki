@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Oldwalls - Eastern Breach
 - **Level hint:** 12
 - **Word count:** 336
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-184]]
 
 ---

@@ -16,6 +16,6 @@ The Edict of Execution is one of Kyros's overarching laws governing Terratus in 
 - **Context:** The Edicts of Kyros (including the Edict of Execution) are the mechanism through which Kyros rules the world. The Fatebinder operates within and against these Edicts.
 
 ## Related Concepts
-- [[Tyranny]] — the campaign
+- [[tyranny]] — the campaign
 - [[FatebinderArchetype]] — the player archetype navigating Edicts
 - [[EdictOfPain]] — another major Edict in the setting

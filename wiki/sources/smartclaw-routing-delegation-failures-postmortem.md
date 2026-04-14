@@ -26,7 +26,7 @@ A delegation flow intended for `jleechanorg/smartclaw` initially produced work i
 ## Connections
 - [[Smartclaw]] — target repository for the delegation
 - [[Worldarchitect.ai]] — the repo where incorrect work was initially performed
-- [[Jleechanclaw]] — source repository for delegation workflow
+- [[jleechanclaw]] — source repository for delegation workflow
 - [[Delegation Flow]] — the broken workflow pattern that was fixed
 
 ## Contradictions

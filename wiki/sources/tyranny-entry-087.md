@@ -17,7 +17,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Location:** Scarlet Chorus Encampment - Voice's Pavilion
 - **Level hint:** 8
 - **Word count:** 395
-- **Campaign:** [[Tyranny]]
+- **Campaign:** [[tyranny]]
 - **Entry:** [[tyranny-entry-087]]
 
 ---

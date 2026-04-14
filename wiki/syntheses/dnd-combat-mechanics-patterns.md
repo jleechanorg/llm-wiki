@@ -27,7 +27,7 @@ The [[ActionResolutionProtocol]] defines the semantic routing between:
 - Multiple advantages don't stack — roll once with advantage
 - Multiple disadvantages cancel advantage (not stack)
 - Situational advantage from Bardic Inspiration, subclass features, spells
-- The [[battle_sim]] implements three modes: fast (single roll), detailed (full advantage calculation), deterministic (preset outcomes for testing)
+- The [[SRD-Battle-Simulation]] implements three modes: fast (single roll), detailed (full advantage calculation), deterministic (preset outcomes for testing)
 
 ### 3. Attunement Constraints
 
@@ -49,7 +49,7 @@ The [[AegonTargaryen]] campaign uses attunement as narrative constraint — drag
 
 ### 5. Battle Simulation Modes
 
-The [[battle_sim]] module implements three [[BattleSimulationMode]] configurations:
+The [[SRD-Battle-Simulation]] module implements three [[SimulationModes]] configurations:
 
 | Mode | Use Case | Roll Behavior |
 |------|----------|---------------|
@@ -76,6 +76,6 @@ The [[DiceRollDebugRegression]] (same pattern as FrontendRewardsBoxGate) — bac
 - [[AdvantageDisadvantage]] — stacking rules
 - [[Attunement]] — 3-item limit, short rest requirement
 - [[AbilityScores]] — standard array, point buy, ASI progression
-- [[BattleSimulation]] — three-mode system
-- [[DiceRollAuditEvents]] — structured roll capture
+- [[SRD-Battle-Simulation]] — three-mode system
+- [[AuditEventExtraction]] — structured roll capture
 - [[LevelUpBug]] — XP/ASI calculation bugs

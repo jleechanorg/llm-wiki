@@ -18,7 +18,7 @@ source_file: /tmp/campaign_downloads_v2/
 - **Character:** Sariel - Human Bard (Level 1)
 - **Level hint:** 1
 - **Word count:** 385
-- **Campaign:** [[Doberman]]
+- **Campaign:** [[doberman]]
 - **Entry:** [[doberman-entry-003]]
 
 ---

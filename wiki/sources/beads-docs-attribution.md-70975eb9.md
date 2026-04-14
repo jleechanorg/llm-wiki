@@ -22,7 +22,7 @@ The 3-way merge functionality in `internal/merge/` of bd is based on **beads-mer
 
 ## Connections
 - [[Beads Changelog]] — related project updates
-- [[@neongreen]] — original author (entity to create)
+- [[Neongreen]] — original author (vendored beads-merge library)
 
 ## Contradictions
 - None identified

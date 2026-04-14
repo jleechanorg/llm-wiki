@@ -17,3 +17,5 @@ Pattern where a secondary LLM evaluates agent outputs (diffs, code changes) befo
 - [[Spotify]] — implementation reference
 - [[Deterministic Orchestration]] — inner loop verifiers run before PR creation
 - [[Orchestration Architecture Research]]
+- [[ProductJudge]] — personal product taste oracle that evaluates PRs against codified taste principles using 5 scoring dimensions
+- [[ProductTasteLayer]] — wiki-grounded subsystem of product taste principles, examples, and rubrics that ProductJudge references

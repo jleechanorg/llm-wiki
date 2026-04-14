@@ -21,7 +21,7 @@ A D&D 5e adaptation of the Undertale video game where the player controls Frisk,
 
 ## Connections
 
-- [[Undertale]] — source video game being adapted
+- [[undertale]] — source video game being adapted
 - [[Frisk]] — player character, Level 1 Determination Adept
 - [[Toriel]] — monster caretaker of the Ruins
 - [[Flowey]] — antagonistic flower who tricks new arrivals
