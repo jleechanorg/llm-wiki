@@ -1,0 +1,27 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - link "Homepage" [ref=e4] [cursor=pointer]:
+      - /url: /
+      - text: WorldAI · Sign in
+  - generic [ref=e5]:
+    - generic [ref=e12]:
+      - generic [ref=e13]:
+        - img "Dragon" [ref=e14]: 🐉
+        - heading "WorldAI" [level=1] [ref=e15]
+      - paragraph [ref=e16]: Your AI-Powered Dungeon Master
+      - paragraph [ref=e17]:
+        - text: Epic AI-driven campaigns. Rich narrative. Infinite worlds.
+        - text: Sign in to begin your adventure.
+      - button "Continue with Google" [ref=e18] [cursor=pointer]:
+        - img [ref=e19]
+        - text: Continue with Google
+      - paragraph [ref=e24]:
+        - text: By continuing you agree to our
+        - link "Terms of Service" [ref=e25] [cursor=pointer]:
+          - /url: /terms-of-use.html
+        - text: and
+        - link "Privacy Policy" [ref=e26] [cursor=pointer]:
+          - /url: /privacy-policy.html
+        - text: .
+    - text:           
+  - text:   

@@ -1,0 +1,21 @@
+[     209ms] [LOG] 🕐 Detecting clock skew... @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/api.368776d6.js:23
+[     219ms] [LOG] ✨ Modern interface activated - enhanced features enabled @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/js/interface-manager.7149a229.js:60
+[     219ms] [LOG] 🎛️ Interface Manager initialized in modern mode @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/js/interface-manager.7149a229.js:24
+[     221ms] [LOG] 🎬 Animation system activated @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/js/animation-helpers.93461772.js:17
+[     226ms] [LOG] 🔍 Enhanced Search activated @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/js/enhanced-search.67b06043.js:39
+[     231ms] [ERROR] 🔴 fetchApi: User not authenticated - firebase.auth().currentUser is null @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/api.368776d6.js:151
+[     231ms] [ERROR] 🔴 fetchApi: Path was: /api/constants/models @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/api.368776d6.js:154
+[     232ms] [WARNING] Failed to load model constants from backend; using defaults Error: User not authenticated
+    at fetchApi (https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/api.368776d6.js:156:13)
+    at loadModelConstants (https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/app.799daf0d.js:3500:30)
+    at HTMLDocument.<anonymous> (https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/app.799daf0d.js:3496:33) @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/app.799daf0d.js:3513
+[     285ms] [LOG] User not authenticated, redirecting to login @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/app.799daf0d.js:677
+[  169753ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.closed call. @ https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js:0
+[  169753ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.closed call. @ https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js:0
+[  183581ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.close call. @ https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js:0
+[  183581ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.close call. @ https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js:0
+[  183587ms] [LOG] 🪙 Scheduling Firebase ID token refresh in 3328s (buffer 5m) @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/auth.f9b3a549.js:149
+[  183587ms] [LOG] 📤 fetchApi: Starting request to /api/campaigns?limit=50&paginate=true (timeout: 600000ms) @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/api.368776d6.js:183
+[  183959ms] [LOG] 📥 fetchApi: Response received from /api/campaigns?limit=50&paginate=true - status: 200 @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/api.368776d6.js:190
+[  183959ms] [LOG] ⏱️ fetchApi: Request to /api/campaigns?limit=50&paginate=true completed in 0.38s @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/api.368776d6.js:205
+[  183960ms] [LOG] ✅ fetchApi: Successfully parsed JSON response from /api/campaigns?limit=50&paginate=true @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/api.368776d6.js:304

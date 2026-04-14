@@ -1,0 +1,19 @@
+[     260ms] [LOG] 🕐 Detecting clock skew... @ https://worldarchitect.ai/frontend_v1/api.368776d6.js:23
+[     346ms] [LOG] ✨ Modern interface activated - enhanced features enabled @ https://worldarchitect.ai/frontend_v1/js/interface-manager.7149a229.js:60
+[     346ms] [LOG] 🎛️ Interface Manager initialized in modern mode @ https://worldarchitect.ai/frontend_v1/js/interface-manager.7149a229.js:24
+[     347ms] [LOG] 🎬 Animation system activated @ https://worldarchitect.ai/frontend_v1/js/animation-helpers.93461772.js:17
+[     348ms] [LOG] 🔍 Enhanced Search activated @ https://worldarchitect.ai/frontend_v1/js/enhanced-search.67b06043.js:39
+[     351ms] [ERROR] 🔴 fetchApi: User not authenticated - firebase.auth().currentUser is null @ https://worldarchitect.ai/frontend_v1/api.368776d6.js:151
+[     351ms] [ERROR] 🔴 fetchApi: Path was: /api/constants/models @ https://worldarchitect.ai/frontend_v1/api.368776d6.js:154
+[     351ms] [WARNING] Failed to load model constants from backend; using defaults Error: User not authenticated
+    at fetchApi (https://worldarchitect.ai/frontend_v1/api.368776d6.js:156:13)
+    at loadModelConstants (https://worldarchitect.ai/frontend_v1/app.799daf0d.js:3500:30)
+    at HTMLDocument.<anonymous> (https://worldarchitect.ai/frontend_v1/app.799daf0d.js:3496:33) @ https://worldarchitect.ai/frontend_v1/app.799daf0d.js:3513
+[     424ms] [LOG] User not authenticated, redirecting to login @ https://worldarchitect.ai/frontend_v1/app.799daf0d.js:677
+[   13933ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.close call. @ https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js:0
+[   13933ms] [ERROR] Cross-Origin-Opener-Policy policy would block the window.close call. @ https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js:0
+[   13937ms] [LOG] 🪙 Scheduling Firebase ID token refresh in 3327s (buffer 5m) @ https://worldarchitect.ai/frontend_v1/auth.f9b3a549.js:149
+[   13937ms] [LOG] 📤 fetchApi: Starting request to /api/campaigns?limit=50&paginate=true (timeout: 600000ms) @ https://worldarchitect.ai/frontend_v1/api.368776d6.js:183
+[   14271ms] [LOG] 📥 fetchApi: Response received from /api/campaigns?limit=50&paginate=true - status: 200 @ https://worldarchitect.ai/frontend_v1/api.368776d6.js:190
+[   14271ms] [LOG] ⏱️ fetchApi: Request to /api/campaigns?limit=50&paginate=true completed in 0.34s @ https://worldarchitect.ai/frontend_v1/api.368776d6.js:205
+[   14271ms] [LOG] ✅ fetchApi: Successfully parsed JSON response from /api/campaigns?limit=50&paginate=true @ https://worldarchitect.ai/frontend_v1/api.368776d6.js:304

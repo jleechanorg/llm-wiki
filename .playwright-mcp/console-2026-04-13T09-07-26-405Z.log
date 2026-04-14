@@ -1,0 +1,12 @@
+[     256ms] [LOG] 🕐 Detecting clock skew... @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/api.368776d6.js:23
+[     404ms] [LOG] ✨ Modern interface activated - enhanced features enabled @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/js/interface-manager.7149a229.js:60
+[     404ms] [LOG] 🎛️ Interface Manager initialized in modern mode @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/js/interface-manager.7149a229.js:24
+[     404ms] [LOG] 🎬 Animation system activated @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/js/animation-helpers.93461772.js:17
+[     406ms] [LOG] 🔍 Enhanced Search activated @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/js/enhanced-search.67b06043.js:39
+[     409ms] [ERROR] 🔴 fetchApi: User not authenticated - firebase.auth().currentUser is null @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/api.368776d6.js:151
+[     409ms] [ERROR] 🔴 fetchApi: Path was: /api/constants/models @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/api.368776d6.js:154
+[     409ms] [WARNING] Failed to load model constants from backend; using defaults Error: User not authenticated
+    at fetchApi (https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/api.368776d6.js:156:13)
+    at loadModelConstants (https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/app.799daf0d.js:3500:30)
+    at HTMLDocument.<anonymous> (https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/app.799daf0d.js:3496:33) @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/app.799daf0d.js:3513
+[     460ms] [LOG] User not authenticated, redirecting to login @ https://mvp-site-app-dev-i6xf2p72ka-uc.a.run.app/frontend_v1/app.799daf0d.js:677

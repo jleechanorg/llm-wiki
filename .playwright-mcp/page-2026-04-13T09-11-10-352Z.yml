@@ -1,0 +1,9 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "Homepage" [ref=e4] [cursor=pointer]:
+        - /url: /
+        - text: WorldAI
+      - button "⚔️" [ref=e7] [cursor=pointer]
+  - generic:           
+  - text:   
