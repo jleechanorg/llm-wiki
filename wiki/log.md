@@ -17,7 +17,7 @@
 ## [2026-04-14] ingest | Canonical Code Scorer — 6-dimension rubric (70%) + diff similarity (30%)
 ## [2026-04-14] ingest | Product Judge — isolated product taste oracle, 5-dimension scoring, 4-verdict output
 ## [2026-04-14] ingest | Taste Learning Loop — negative constraint extraction, taste rubric updates, bead tracking
-## [2026-04-14] ingest | System Design Primer — API design, caching, database sharding, microservices; case studies: GitHub Stadium, GitHub Search, YouTube, Dropbox
+## [2026-04-14] complete | Auto-Research v3 — All 6 techniques tested on 15 PRs. Meta-Harness +27 (best single), Combined +46 (1.7x), PRM catches key_func missed bugs. Wiki-index + findings updated.
 ## [2026-04-14] ingest | Polling vs Streaming Architecture — 3 paths (SSE/HTTP/MCP), DeferredRewardsProtocol is LLM instruction not timer
 ## [2026-04-14] ingest | WorldArchitect Level-Up Beads — open beads jleechan-7tas/20z1/xvrx/bwmj/9ej1
 ## [2026-04-14] update | LevelUpPolling — 3-path architecture (SSE push, HTTP GET page-load, MCP polling), DeferredRewardsProtocol LLM instruction
@@ -3540,3 +3540,4 @@ Integrated both gists into the LLM wiki:
 ## [2026-04-14] auto-research-cycle-21 | PR #6275 LevelUpSynthesisFix — FAIL 23/100; undefined build_level_up_rewards_box + ASI test setup bugs
 ## [2026-04-14] ingest | Level-Up v4 Current Status (2026-04-14)
 Created sources/level-up-v4-current-status-2026-04-14.md — consolidated status: 4-layer TDD all done (RED/GREEN/WIRE/CLEAN), PR #6273 deployed with regression, PR #6276 OPEN. 3 remaining bugs documented. Updated Layer3CleanRefactor, RewardsEngine, LevelUpCodeArchitecture, SingleResponsibilityPipeline concept pages with current-status source reference.
+## [2026-04-14] cycle_metaharness | Meta-Harness v3 — outer-loop harness optimization tested on 3 PRs (small/medium/complex). Optimized harness yields +27 avg improvement (60→87). Type Safety: largest gain (10→18/20). Key finding: harness matters more than LLM.

@@ -6072,6 +6072,16 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [product-judge](sources/product-judge.md) — Product taste oracle
 - [taste-learning-loop](sources/taste-learning-loop.md) — Taste extraction from corrections
 
+### Syntheses (Auto-Research v3)
+- [auto-research-v3-findings](syntheses/auto-research-v3-findings.md) — Research-grade paper: 6 techniques tested on 15 PRs, Meta-Harness +27, Combined +46
+- [AUTO-RESEARCH-v3-DESIGN](syntheses/AUTO-RESEARCH-v3-DESIGN.md) — Experiment design: 15 PRs, ANOVA, stratified sampling
+- [cycle_extended_thinking_v3](syntheses/cycle_extended_thinking_v3.md) — ExtendedThinking: +24 avg, best for medium/complex
+- [cycle_selfrefine_v3](syntheses/cycle_selfrefine_v3.md) — SelfRefine: +17 avg, consistent but shallow
+- [cycle_swebench_v3](syntheses/cycle_swebench_v3.md) — SWE-bench: +24 avg, best Type Safety improvement
+- [cycle_metaharness_v3](syntheses/cycle_metaharness_v3.md) — Meta-Harness: +27 avg, highest leverage single technique
+- [cycle_prm_v3](syntheses/cycle_prm_v3.md) — PRM/SWE-Shepherd: +23 avg, catches key_func-level missed bugs
+- [cycle_combined_v3](syntheses/cycle_combined_v3.md) — Combined: +46 avg, 1.7x Meta-Harness alone
+
 ### Concepts
 - [AutoResearchExperiment](concepts/AutoResearchExperiment.md) — Full system overview
 - [SelfCritiqueVerificationLoop](concepts/SelfCritiqueVerificationLoop.md) — 3-iteration cap pattern
