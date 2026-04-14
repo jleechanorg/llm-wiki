@@ -1,4 +1,6 @@
 ## [2026-04-14] ingest | mvp_site_all test files round 3 | 7 test files sourced: battle_sim_bugs, budget_path_consistency, byok_coverage, cache_n_minus_1, cache_prompt_structure, cache_provably_fair, campaign_clicks
+## [2026-04-14] ingest | mvp_site_all remaining test files | Multiple test files sourced including arch, conftest, document_generator, mcp_memory_real, memory_integration, pytest_integration, real_provider, service_provider, run scripts, campaign_pagination tests
+## [2026-04-14] ingest | mvp_site_all test files round 3 | 7 test files sourced: battle_sim_bugs, budget_path_consistency, byok_coverage, cache_n_minus_1, cache_prompt_structure, cache_provably_fair, campaign_clicks
 ## [2026-04-14] ingest | mvp_site_all test files round 2 | 5 test files sourced: test_architectural_decisions.py, test_auth_resilience.py, test_authenticated_comprehensive.py, test_avatar_api_unit.py, test_avatar_bucket_and_sizes.py
 ## [2026-04-14] ingest | mvp_site remaining code | All remaining Python files sourced
 ## [2026-04-14] ingest | mvp_site_all test files | 5 test files sourced: agents_integration, ai_content_simple, always_json_mode, animation_system, api_backward_compatibility
@@ -6,6 +8,7 @@
 ## [2026-04-14] ingest | mvp_site_all action_resolution test files | 3 test files sourced: test_action_resolution.py, test_action_resolution_utils.py, test_action_resolution_backward_compat_end2end.py
 
 ## [2026-04-14] ingest | agent-orchestrator code | 1 Python module sourced: touch-rate.py (first/second-touch rate calculator)
+## [2026-04-14] concept | 6 new intersection concept pages | ProcessRewardModels, SMT-BasedVerification, EvidenceBasedVerification, TerminalMemoryAgents, AgentDebateProtocol, SelfGeneratedAdversarialTests
 ## [2026-04-14] ingest | jleechanclaw infrastructure | 6 source pages: Evidence Review Schema, Operational Runbook, Orchestration System Design, Harness Engineering, Proactive Recovery Design, Bug Hunt 20260326
 ## [2026-04-14] synthesize | 5 synthesis pages created | Level-up bugs analysis, Nocturne patterns, character psychology, D&D combat, WorldArchitect architecture
 ## [2026-04-14] ingest | External AI knowledge | RAG, prompt engineering, Claude API, fine-tuning, RLHF
@@ -3533,3 +3536,4 @@ worldarchitect.ai platform Python source files reside in raw/mvp_site_all/ direc
 [2026-04-14 02:21:14] [START] Creating Meta-Harness concept pages
 [2026-04-14 02:22:41] [COMPLETE] Created 6 Meta-Harness concept pages
 ## [2026-04-14] concept | MetaHarness Paper Concepts | Created 6 pages: MetaHarness, HarnessEngineering, AgenticProposer, FilesystemHistory, OuterLoopOptimization, HarnessVsPrompt
+## [2026-04-14] concept | Frontier AI Coding Layer 2 (continued) | Created 2 Layer 2 concept pages: EvidenceReviewPipeline (two-stage verification pipeline concept), Autoformalization (LLM-generated formal specs from natural language). Updated index.md.
