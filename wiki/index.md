@@ -15,6 +15,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [Rewards Engine: Single-Responsibility Pipeline Refactor](sources/level-up-engine-v4-design.md) — v4 design: single orchestration root (llm_parser.py), 7-stage pipeline, rewards_engine idempotent, closes #6262/#6263/#6264/#6268
+- [System Design Primer](sources/system-design-primer.md) — API design, caching, database sharding, microservices; case studies: GitHub Stadium, GitHub Search, YouTube, Dropbox
 - [Level-Up Second Opinion Analysis](sources/level-up-second-opinion-analysis.md) — Real Cerebras+Gemini+Perplexity secondo: SRP confirmed, double-touch accurate, 5 edge case warnings
 - [Level-Up D&D 5e Research](sources/level-up-dnd5e-research.md) — XP thresholds cumulative storage, ASI multiclass rule (total_level), Fighter@6 Rogue@10
 - [Polling vs Streaming Architecture](sources/polling-vs-streaming-architecture.md) — SSE streaming vs HTTP GET vs MCP polling; DeferredRewardsProtocol is LLM instruction not timer
@@ -22,6 +23,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Level-Up PR Chain Analysis (PRs #6262-#6268)](sources/pr-6262-6263-6264-6268-level-up-pr-chain.md) — v3 architecture supersedes all 4 PRs; llm_parser single entry, game_state first, rewards_engine second, world_logic thin wrapper; all 4 PRs share off-by-one + wrong dict keys bugs; branch feat/rewards-engine-single-responsibility
 - [Auto-Research Experiment v2.1](sources/auto-research-experiment-v21.md) — Streamlined 3-skill system: self-critique loop + auto-research loop + canonical scorer; tests frontier techniques on real PRs
 - [Master AI Research & Product Taste System](sources/auto-product-master-system.md) — Full v2.1 master system: adds Product Taste Layer (ProductJudge, TasteLearningLoop) to the auto-research experiment
+
+### Auto-Research Experiment (v2.1 Skill Files)
+- [Auto-Research Loop](sources/auto-research-loop.md) — 4-phase self-discovering meta-research: hypothesis generation from PR patterns, implementation, evaluation, wiki+bead updates
+- [Self-Critique + Verification Loop](sources/self-critique-verification-loop.md) — 3-iteration-cap verification: canonical prompt chaining, step-by-step generation, sandboxed test execution, self-critique
+- [Canonical Code Scorer](sources/canonical-code-scorer.md) — Hybrid scoring: 6-dimension rubric (70%) + token-level diff similarity (30%)
+- [Product Judge](sources/product-judge.md) — Isolated product taste oracle: 5-dimension scoring (Strategic, UX, Simplicity, Maintainability, Edge-case), verdict: Approve/Minor/Major/Reject
+- [Taste Learning Loop](sources/taste-learning-loop.md) — Self-improving taste: extract rejection feedback, archive negative constraints, update taste rubric, create bead
+
 - [BG1 Nocturne Campaign](sources/bg1-nocturne-campaign.md) — Dark adventure: Nocturne the Serpent Queen, Gloom Stalker Ranger, Candlekeep to Baldur's Gate, Iron Crisis
 - [BG1 Nocturne Continued Campaign](sources/bg1-nocturne-continued-campaign.md) — Level 5 Nocturne in Baldur's Gate, doppelganger conspiracy, Sarevok threat
 - [BG3 Astarion Campaign](sources/bg3-astarion-campaign.md) — Astarion Ancunín, Vampire Spawn, escape from Nautiloid, freedom from Cazador
@@ -5522,6 +5531,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 
 ## Entities
 
+- [Dropbox](entities/Dropbox.md) — File sync service using DHT for peer-to-peer sync, CRDT-based conflict resolution
 - [JeffreyChan](entities/JeffreyChan.md) — SEM at Snap, ex-Staff SWE at Google, jleechanorg owner
 - [jleechanclaw](entities/jleechanclaw.md) — Primary delegation workflow repo (TARGET_REPO after March 2026 postmortem)
 - [PR6110](entities/PR6110.md) — WorldArchitect evidence path PR for PR validation automation
@@ -5537,6 +5547,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Boudica](entities/Boudica.md) — Player character, Queen of the Iceni, Level 6 Warlock/Bard, Roman Britain rebellion
 - [Iceni](entities/Iceni.md) — Celtic tribe in ancient Britain, led by Boudica
 - [Roman Empire](entities/RomanEmpire.md) — Imperial power occupying ancient Britain
+- [GitHubStadium](entities/GitHubStadium.md) — GitHub's real-time SSH infrastructure using event-driven I/O, Redis pub/sub, in-memory connection state
 - [Gregor's Mountain's Men](entities/GregorsMountainMen.md) — Mercenary company led by The Mountain, evil missions
 - [Ser Gregor Clegane](entities/SerGregorClegane.md) — "The Mountain," ruthless commander of mercenary company
 - [Westeros](entities/Westeros.md) — Continent setting for Game of Thrones campaigns
@@ -5665,14 +5676,21 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Veritas](entities/Veritas.md) — +1 Damascus Gladius wielded by Aurelius V1
 - [Capua V3](entities/CapuaV3.md) — Roman city setting for Aurelius V3 campaign
 - [Lucifer](entities/Lucifer.md) — The Morning Star, charismatic nihilist leader of Unchained Host
+- [GitHub Stadium](entities/GitHubStadium.md) — GitHub real-time infrastructure for thousands of concurrent SSH connections; event-driven architecture with Redis pub/sub
+- [Dropbox](entities/Dropbox.md) — File sync service using distributed hash tables (DHT) for P2P file sync; CRDT-based conflict resolution
 
 ## Concepts
 
 - [JeffreyWorkingStyle](concepts/JeffreyWorkingStyle.md) — CLI-first, automation-driven, evidence-based workflow
 - [JeffreyCommunicationStyle](concepts/JeffreyCommunicationStyle.md) — Terse, direct, imperative communication
 - [JeffreyGoals](concepts/JeffreyGoals.md) — Current priorities: PR flow, automation, LLM-first architecture
+- [MicroservicesArchitecture](concepts/MicroservicesArchitecture.md) — Decomposing apps into independently deployable services; covers service discovery, circuit breakers, event-driven communication
+- [DistributedHashTable](concepts/DistributedHashTable.md) — Decentralized key-value lookup; used by Dropbox for P2P file sync; O(log n) lookup with fault tolerance
+- [APIDesign](concepts/APIDesign.md) — RESTful design, versioning, rate limiting, request validation principles
+- [CachingStrategies](concepts/CachingStrategies.md) — Multi-layer caching (CDN/app/DB), invalidation strategies (TTL, event-driven), tradeoffs
 - [SelfCritiqueVerificationLoop](concepts/SelfCritiqueVerificationLoop.md) — 3-iteration cap verification loop (ReVeal 2026 + Self-Correction 2025): prompt chaining, generation, test+execution, self-critique
 - [AutoResearchLoop](concepts/AutoResearchLoop.md) — Self-discovering meta-research: generates hypotheses from PR patterns, tests on real PRs, scores via CanonicalCodeScorer, records in wiki
+- [AutoResearchHypotheses](concepts/AutoResearchHypotheses.md) — H1-H4 hypothesis status (H1=Validated, H2=Validated, H3=Partial, H4=New), 5 cross-PR patterns, 9 prioritized next experiments
 - [CanonicalCodeScorer](concepts/CanonicalCodeScorer.md) — Rubric (6 dimensions Pass/Fail) + diff similarity scoring; 0.7×rubric + 0.3×diff formula
 - [ProductJudge](concepts/ProductJudge.md) — Product Taste Oracle: scores PRs 0–100 on 5 dimensions (strategic, UX, simplicity, maintainability, nuance), references [[ProductTasteLayer]]
 - [TasteLearningLoop](concepts/TasteLearningLoop.md) — Self-improving feedback: manual corrections → good-bad-examples + taste-rubric updates → bead
@@ -5683,8 +5701,8 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [HookBypass](concepts/HookBypass.md) — tmux/cmux/API bypass UserPromptSubmit hooks for agent workflows
 - [OracleCLI](concepts/OracleCLI.md) — Multi-model second-opinion workflow using Cerebras Qwen 3, Grok 4, Perplexity, GPT-5
 - [Think Mode](concepts/ThinkMode.md) — game mode for strategic planning without narrative advancement; advances time by only 1 microsecond
-- [Body-Diff Verification (Step 0)](concepts/Body-Diff-Verification.md) — PR body must match actual diff; mismatch = immediate rejection
-- [Net-Negative Deletion Is Ok](concepts/Net-Negative-Deletion-Is-Ok.md) — pure deletion of unused/obsolete code satisfies minimal-changes principle
+- [APIDesign](concepts/APIDesign.md) — RESTful design, versioning, rate limiting, and request validation principles
+- [AutoResearchLoop](concepts/AutoResearchLoop.md) — Self-discovering meta-research: generates hypotheses from PR patterns, tests on real PRs, scores via CanonicalCodeScorer, records in wiki
 - [Divine Scion](concepts/DivineScion.md) — Prestige class, Siren + divine bloodline hybrid
 - [Mother's Mercy](concepts/MothersMercy.md) — Soul conversion ability
 - [Thrall System](concepts/ThrallSystem.md) — Companion mechanic, 3-slot limit
@@ -5985,3 +6003,24 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Shadow heart ](sources/shadow-heart-DfeU0F05.md) — 111 entries
 - [bg1 nocturne continued](sources/bg1-nocturne-continued-E7qKW9jz.md) — 108 entries
 - [Boudica ](sources/boudica-Mwkd1WEF.md) — 100 entries
+
+## Auto-Research Experiment (v2.1)
+
+### Skills
+- [auto-research-loop](sources/auto-research-loop.md) — Self-discovering meta-research loop
+- [self-critique-verification-loop](sources/self-critique-verification-loop.md) — 3-iteration verification
+- [canonical-code-scorer](sources/canonical-code-scorer.md) — Rubric + diff similarity scoring
+- [product-judge](sources/product-judge.md) — Product taste oracle
+- [taste-learning-loop](sources/taste-learning-loop.md) — Taste extraction from corrections
+
+### Concepts
+- [AutoResearchExperiment](concepts/AutoResearchExperiment.md) — Full system overview
+- [SelfCritiqueVerificationLoop](concepts/SelfCritiqueVerificationLoop.md) — 3-iteration cap pattern
+- [CanonicalCodeScorer](concepts/CanonicalCodeScorer.md) — 6-dim rubric formula
+- [ProductTasteLayer](concepts/ProductTasteLayer.md) — Product taste components
+- [AutoResearchHypotheses](concepts/AutoResearchHypotheses.md) — H1-H4 validated patterns + C1-C6 cross-PR patterns
+- [Layer3CleanRefactor](concepts/Layer3CleanRefactor.md) — Layer 3 single-responsibility rewards engine refactor
+
+### Reference
+- [research-wiki-results](sources/research-wiki-results.md) — 18-cycle experiment log
+- [research-wiki-program](sources/research-wiki-program.md) — Experiment compiler rules
