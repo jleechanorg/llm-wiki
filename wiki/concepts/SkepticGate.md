@@ -46,3 +46,4 @@ SkepticGate was renamed `green-gate.yml` in PR #6189 because "skeptic" was misle
 - [[EvidenceBundle]] — what SkepticGate requires per check
 - [[CICDWorkflows]] — where SkepticGate fits in the CI pipeline
 - [[FailClosedErrorHandling]] — SkepticGate fails closed, not open
+- [[jeffrey-oracle]] — would ask "where is the evidence?" for any PR without SkepticGate artifacts
