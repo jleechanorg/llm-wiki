@@ -3541,3 +3541,4 @@ Integrated both gists into the LLM wiki:
 ## [2026-04-14] ingest | Level-Up v4 Current Status (2026-04-14)
 Created sources/level-up-v4-current-status-2026-04-14.md — consolidated status: 4-layer TDD all done (RED/GREEN/WIRE/CLEAN), PR #6273 deployed with regression, PR #6276 OPEN. 3 remaining bugs documented. Updated Layer3CleanRefactor, RewardsEngine, LevelUpCodeArchitecture, SingleResponsibilityPipeline concept pages with current-status source reference.
 ## [2026-04-14] cycle_metaharness | Meta-Harness v3 — outer-loop harness optimization tested on 3 PRs (small/medium/complex). Optimized harness yields +27 avg improvement (60→87). Type Safety: largest gain (10→18/20). Key finding: harness matters more than LLM.
+## [2026-04-15] ingest | Level-Up Engine Single-Responsibility Design (2026-04-14) | Design doc ingested; drift analysis: world_logic.py 9 calls remain, constants.py dupes not deleted, browser UI video missing
