@@ -66,6 +66,23 @@ llm_wiki/
 - **Pattern:** Iterations that pass tests but still score mid-range due to type safety and documentation gaps
 - See [[AutoResearchExperiment]] for full 18-cycle breakdown
 
+### Pivot: PR Recreate Pipeline (2026-04-15)
+
+**Problem identified**: Cycles 1-26 ran in **benchmark mode** — predicting what already-merged PRs would do, scoring prediction accuracy, producing zero real code.
+
+**New approach**: [[PR Recreate Pipeline]] — For each merged PR:
+1. Sync worktree to pre-merge commit
+2. Recreate the fix from scratch using technique
+3. Compare recreation vs original diff
+4. Score against canonical ideal
+5. If delta > 0 (technique beats original), open a real PR
+
+**Key metric**: Delta = canonical_score - original_pr_score. Positive delta = technique improved on the original.
+
+**This is production mode, not benchmark mode.** The goal is real PRs, not good predictions.
+
+See [[PRRecreatePipeline]] and [[BenchmarkMode]] concept pages.
+
 ---
 
 ## Cross-Cutting Themes

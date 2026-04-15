@@ -14,6 +14,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
+- [PR Recreate Pipeline](sources/pr-recreate-pipeline.md) — pivots from benchmark (predict) to production (recreate from pre-PR state, open real PRs if delta > 0)
 - [PR #6276 Design Doc v4 Summary](sources/pr6276_design_doc_v4_summary.md) — source page for PR #6276 v4 design, Layer 3 CLEAN status, grep gate gap
 - [RefineRL](sources/refinere-ll-paper.md) — RL-based self-refinement for competitive programming; 4B surpasses 32B, approaches 235B single-attempt results; Skeptical-Agent + RLVR training
 - [ThinkTwice](sources/think-twice-paper.md) — Joint GRPO optimization of reasoning + self-refinement; +11.5pp on AIME after one refinement step; no critique annotations needed
@@ -5835,6 +5836,8 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Nautiloid (Mind Flayer Ship)](concepts/Nautiloid.md) — Living organic vessel, BG3 opening setting
 - [SelfRefine](concepts/SelfRefine.md) — Iterative generate-critique-revise loop (Madaan 2023); avg 79.9/100 on 19 PRs; best when PR description matches actual
 - [ProcessRewardModel](concepts/ProcessRewardModel.md) — Step-level evaluation during generation; best for catching misdiagnosed root causes (e.g., C9 field inconsistency was red herring)
+- [PR Recreate Pipeline](concepts/PRRecreatePipeline.md) — SWE-bench style: pre-PR state → recreate fix → compare → score vs canonical; opens real PRs if delta > 0
+- [Benchmark Mode](concepts/BenchmarkMode.md) — The wrong approach: predict what already-merged PRs would do; produces zero real code
 - [Self-Generated Test Generation](concepts/SelfGeneratedTestGeneration.md) — AI models producing test cases for their own output; fills coverage gaps, requires test execution for verification
 - [XP (Experience Points)](concepts/XP.md) — D&D 5e currency for progression; awarded for combat, encounters, quests, and milestones; triggers level-up when thresholds are reached
 - [Miasma](concepts/Miasma.md) — Divine blood of Venus, Gaia Julia's unique power
