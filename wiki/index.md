@@ -14,6 +14,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
+- [Governance Layer Design BFS + PR #452/#453 (2026-04-15)](sources/governance-layer-design-bfs-2026-04-15.md) — BFS research synthesis: 3-component governance (Skeptic + Evidence Validator + Policy Engine), GitOps approval for GOVERNANCE.md, fail-closed batch model, RLAIF-inspired feedback loops, Confluent Stream Governance as design model
 - [Governance Layer Design PRs #452/#453 (2026-04-15)](sources/pr-452-453-governance-layer-design-2026-04-15.md) — real-time governance layer for evolve loop (GOVERNANCE.md) + fail-closed semantic merge gates (gate-governance plugin); no mandatory human review, hard/soft constraints, escalation paths
 - [PR #6276 Design Doc v4 Summary](sources/pr6276_design_doc_v4_summary.md) — source page for PR #6276 v4 design, Layer 3 CLEAN status, grep gate gap
 - [RefineRL](sources/refinere-ll-paper.md) — RL-based self-refinement for competitive programming; 4B surpasses 32B, approaches 235B single-attempt results; Skeptical-Agent + RLVR training
@@ -28,6 +29,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [PR #6276 rev-v4ci Status 2026-04-15 Night](sources/pr6276-rev-v4ci-status-2026-04-15-night.md) — runners OFFLINE, harness PRs OPEN, rev-v4ci06 scope clarified (design doc update only), rev-v4ci01 BLOCKED
 - [PR #6276 rev-v4ci Status 2026-04-16](sources/pr6276-rev-v4ci-status-2026-04-16.md) — rev-v4ci01 TOMBSTONED (unachievable), PR #6276 ~85% complete, skeptic-gate FAIL on harness-fix PRs
 - [Harness-Fix PRs Status 2026-04-15](sources/harness-fix-prs-status-2026-04-15.md) — #6292/#6285 MERGEABLE (GATE-5 fail), #6289/#6287 CONFLICTING (need rebase), skeptic-gate re-trigger pending
+- [PR #6276 Post-Merge Assessment 2026-04-16](sources/pr6276-post-merge-assessment-2026-04-16.md) — ~85% done; Layer 3 CLEAN incomplete; world_logic.py not stripped; rev-v4ci01 TOMBSTONED; design doc equivalence claim wrong (0/3 pairs equivalent)
 - [PR #6276 Gate Status 2026-04-15](sources/pr-6276-gate-status-2026-04-15.md) — 1/7 gates pass: only CR threads resolved; design vs implementation gap analysis; branch confusion (pr-6275 vs feat/world-logic-clean-layer3)
 - [System Design Primer](sources/system-design-primer.md) — API design, caching, database sharding, microservices; case studies: GitHub Stadium, GitHub Search, YouTube, Dropbox
 - [Level-Up Second Opinion Analysis](sources/level-up-second-opinion-analysis.md) — Real Cerebras+Gemini+Perplexity secondo: SRP confirmed, double-touch accurate, 5 edge case warnings

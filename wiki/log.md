@@ -1,3 +1,4 @@
+## [2026-04-15] ingest | Governance Layer Design BFS — source page: 3-component governance (Skeptic + Evidence Validator + Policy Engine), GitOps approval, fail-closed Confluent model, RLAIF feedback loops, Stream Governance as design model
 ## [2026-04-15] research | Governance Layer BFS 2-Layer Research — BFS Layer 1 (governance patterns) + Layer 2 (multi-agent/evidence/workflow/policy) completed; ~39 new entities + 23 new concepts created; web access heavily degraded (most fetches 404/blocked); Grok MCP failed (xAI unavailable)
 ## [2026-04-15] research | Governance Layer Research Synthesis — Grok second opinion (3 critiques: filesystem abstraction, 5-gate bureaucracy, no feedback loops) + synthesis with existing SkepticGate/AutonomousAgentLoop; GovernanceLayerResearch concept page written; 4 recommendations: single semantic gate, versioned policy objects, async escalation, separate edit from enforcement
 ## [2026-04-15] ingest | Archon vs Agent-Orchestrator Analysis — Slack thread C09GRLXF9GR; 3 entities + 4 concepts
@@ -3575,3 +3576,4 @@ SelfRefine #6277: 8.1/10. PRM #6275: 6.25/10. ExtendedThinking #6276: 6.45/10. S
 ## [2026-04-15] ingest | Harness-Fix PRs Late Status — #6285 skeptic in_progress, #6292 rebase done, #6287 conflicts
 ## [2026-04-15] ingest | Harness-Fix PRs Final Status — #6292 close to merge (skeptic SUCCESS), #6285 CI running, #6289 obsolete
 ## [2026-04-15] ingest | Harness PRs Late Update — #6285 CLEAN + Skeptic PASS ready to merge; #6292 blocked; #6287 DD-gate FAIL
+## [2026-04-16] ingest | PR #6276 Post-Merge Assessment 2026-04-16 — ~85% done, Layer 3 CLEAN incomplete, rev-v4ci01 TOMBSTONED, design doc equivalence wrong
