@@ -1,0 +1,11 @@
+TESTFILE: mvp_site/tests/test_dialog_continuity_state.py
+START: 2026-04-15 03:29:55
+2026-04-15 03:29:55,342 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:29:55

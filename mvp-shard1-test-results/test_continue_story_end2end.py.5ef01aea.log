@@ -1,0 +1,738 @@
+TESTFILE: mvp_site/tests/test_end2end/test_continue_story_end2end.py
+START: 2026-04-15 03:30:03
+2026-04-15 03:30:03,272 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:30:03,734 - root - INFO - Applied clock skew patch: adjusting time by -720 seconds
+2026-04-15 03:30:04,179 - root - INFO - Loading service account from file: /dev/null
+2026-04-15 03:30:04,179 - root - WARNING - ⚠️ Failed to load credentials from file /dev/null: Expecting value: line 1 column 1 (char 0)
+2026-04-15 03:30:04,179 - root - INFO - Attempting to load service account from environment variables
+2026-04-15 03:30:04,179 - root - WARNING - ⚠️ Failed to load credentials from env vars: Missing required environment variables: GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY. Please set these variables in your environment (.env file, Claude.ai project settings, or GitHub Secrets). See module docstring for detailed instructions.
+2026-04-15 03:30:04,179 - root - WARNING - ⚠️ Failed to load explicit credentials: Failed to load service account credentials from any source. File path '/dev/null' not found or invalid. Environment variables missing or incomplete (need GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY).. Attempting default application credentials.
+2026-04-15 03:30:04,179 - root - INFO - Firebase initialized successfully in world_logic.py
+2026-04-15 03:30:04,180 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:04,180 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:04,180 - root - INFO - Schema doc cache initialized: 11 types, 0.12ms total
+2026-04-15 03:30:04,182 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:04,182 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:04,188 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:04,188 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:04,188 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:04,190 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:04,190 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:04,198 - root - INFO - campaign_id=test_campaign_upgrade | DEBUG: handle_interaction START - testing mode removed
+2026-04-15 03:30:04,198 - root - INFO - campaign_id=test_campaign_upgrade | DEBUG: request data = {'input': 'Proceed.', 'mode': 'character'}
+2026-04-15 03:30:04,198 - root - INFO - campaign_id=test_campaign_upgrade | DEBUG: user_input = Proceed. (KEY_USER_INPUT='input')
+2026-04-15 03:30:04,198 - root - INFO - campaign_id=test_campaign_upgrade | 🔄 PARALLEL I/O START: check_rate_limit [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:04,198 - root - INFO - campaign_id=test_campaign_upgrade | ✅ PARALLEL I/O END: check_rate_limit [duration=0.3ms, remaining=0]
+2026-04-15 03:30:04,198 - root - INFO - campaign_id=test_campaign_upgrade | DEBUG: Processing interaction - user_id=test-user-123, campaign_id=test_campaign_upgrade
+2026-04-15 03:30:04,199 - root - INFO - campaign_id=test_campaign_upgrade | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:04,199 - root - INFO - campaign_id=test_campaign_upgrade | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:04,199 - root - INFO - campaign_id=test_campaign_upgrade | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:04,199 - root - INFO - campaign_id=test_campaign_upgrade | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:04,199 - root - INFO - campaign_id=test_campaign_upgrade | 📖 FETCHED STORY ENTRIES: user=test-user-123, campaign=test_campaign_upgrade, total_entries=0
+2026-04-15 03:30:04,199 - root - INFO - campaign_id=test_campaign_upgrade | 📊 STORY BREAKDOWN: user_entries=0, ai_entries=0, other_entries=0
+2026-04-15 03:30:04,199 - root - WARNING - ⚠️ campaign_id=test_campaign_upgrade | ⚠️ NO STORY ENTRIES FOUND for campaign test_campaign_upgrade
+2026-04-15 03:30:04,199 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,199 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,199 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,199 - root - INFO - campaign_id=test_campaign_upgrade | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:04,199 - root - INFO - campaign_id=test_campaign_upgrade | 🔍 PROVIDER_SELECTION_START: user_id=test-user-123, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=false, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:04,199 - root - INFO - campaign_id=test_campaign_upgrade | ↩️ NON_STREAMING_PATH: Using continue_story for provider/model gemini/gemini-3-flash-preview
+2026-04-15 03:30:04,200 - root - INFO - campaign_id=test_campaign_upgrade | 🔍 PROVIDER_SELECTION_START: user_id=test-user-123, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=false, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:04,200 - root - INFO - campaign_id=test_campaign_upgrade | Using provider/model: gemini/gemini-3-flash-preview for story continuation.
+2026-04-15 03:30:04,200 - root - INFO - campaign_id=test_campaign_upgrade | ⬆️ CAMPAIGN_UPGRADE_AVAILABLE (STATE-BASED): Using CampaignUpgradeAgent
+2026-04-15 03:30:04,200 - root - INFO - campaign_id=test_campaign_upgrade | Cache MISS for master_directive.md: loaded and cached 19296 characters (~4824 tokens)
+2026-04-15 03:30:04,201 - root - INFO - campaign_id=test_campaign_upgrade | Cache MISS for game_state_instruction.md: loaded and cached 143160 characters (~35790 tokens)
+2026-04-15 03:30:04,205 - root - INFO - campaign_id=test_campaign_upgrade | Cache MISS for planning_protocol.md: loaded and cached 15931 characters (~3982 tokens)
+2026-04-15 03:30:04,205 - root - INFO - campaign_id=test_campaign_upgrade | Cache MISS for dice_system_instruction_code_execution.md: loaded and cached 4527 characters (~1131 tokens)
+2026-04-15 03:30:04,205 - root - INFO - campaign_id=test_campaign_upgrade | Cache MISS for dnd_srd_instruction.md: loaded and cached 1977 characters (~494 tokens)
+2026-04-15 03:30:04,205 - root - INFO - campaign_id=test_campaign_upgrade | Cache MISS for mechanics_system_instruction.md: loaded and cached 32957 characters (~8239 tokens)
+2026-04-15 03:30:04,206 - root - INFO - campaign_id=test_campaign_upgrade | 🌍 LIVING_WORLD: Including living world instruction every turn (turn=1)
+2026-04-15 03:30:04,206 - root - INFO - campaign_id=test_campaign_upgrade | Cache MISS for living_world_instruction.md: loaded and cached 40532 characters (~10133 tokens)
+2026-04-15 03:30:04,206 - root - INFO - campaign_id=test_campaign_upgrade | Cache MISS for divine_ascension_ceremony.md: loaded and cached 10235 characters (~2558 tokens)
+2026-04-15 03:30:04,206 - root - INFO - campaign_id=test_campaign_upgrade | ✨ CAMPAIGN_UPGRADE: Loading Divine ascension ceremony
+2026-04-15 03:30:04,208 - root - INFO - campaign_id=test_campaign_upgrade | 📊 MEASURED_SIZES: system=80,465tk, state=324tk, memories=0tk, entities=10,500tk, checkpoint=18tk, sequence=0tk, story=0tk, total=91,307tk (budget=240,000tk)
+2026-04-15 03:30:04,208 - root - INFO - campaign_id=test_campaign_upgrade | 📊 MIN_ALLOCATION: total_min=163,218tk (68.0%), remaining=76,782tk (32.0%)
+2026-04-15 03:30:04,208 - root - INFO - campaign_id=test_campaign_upgrade | 📊 BUDGET_ALLOCATION_SUMMARY (budget=240,000tk):
+  system_instruction: 80,465tk -> 80,465tk (33.5%) ✅ OK
+  game_state: 324tk -> 12,000tk (5.0%) ✅ OK
+  core_memories: 0tk -> 48,000tk (20.0%) ✅ OK
+  entity_tracking: 10,500tk -> 10,500tk (4.4%) ✅ OK
+  checkpoint_block: 18tk -> 18tk (0.0%) ✅ OK
+  sequence_id: 0tk -> 0tk (0.0%) ✅ OK
+  story_context: 0tk -> 72,000tk (30.0%) ✅ OK
+2026-04-15 03:30:04,208 - root - INFO - campaign_id=test_campaign_upgrade | 📊 BUDGET: model_limit=1000000tk, safe_budget=300000tk, max_input=240000tk, output_reserve=60000tk (normal), story_budget=72000tk (30.0%)
+2026-04-15 03:30:04,208 - root - INFO - campaign_id=test_campaign_upgrade | Initial context stats: Turns: 0, Tokens: 0
+2026-04-15 03:30:04,208 - root - INFO - campaign_id=test_campaign_upgrade | Context is within token budget. No truncation needed.
+2026-04-15 03:30:04,209 - root - INFO - campaign_id=test_campaign_upgrade | Generated entity manifest for session 1, turn 1
+2026-04-15 03:30:04,209 - root - INFO - campaign_id=test_campaign_upgrade | ENTITY_TRACKING_PROMPT: preload_chars=332, specific_chars=542
+2026-04-15 03:30:04,209 - root - INFO - campaign_id=test_campaign_upgrade | ENTITY_TIERS: no NPCs
+2026-04-15 03:30:04,209 - root - INFO - campaign_id=test_campaign_upgrade | ENTITY_TRACKING_SIZE: 17tk (reserve was 10500tk)
+2026-04-15 03:30:04,209 - root - INFO - campaign_id=test_campaign_upgrade | GAME_STATE_BREAKDOWN: npc_data=0tk (EXCLUDED), world_data=0tk, player_data=26tk, remaining_state=298tk
+2026-04-15 03:30:04,209 - root - INFO - campaign_id=test_campaign_upgrade | 🐛 DEBUG_MODE_VALUE: mode='character', agent=CampaignUpgradeAgent, agent.MODE=campaign_upgrade
+2026-04-15 03:30:04,209 - root - INFO - campaign_id=test_campaign_upgrade | LLMREQUEST_PAYLOAD: story_history=0tk, total_payload=440tk
+2026-04-15 03:30:04,209 - root - INFO - campaign_id=test_campaign_upgrade | Calling LLM API: 324169 characters (~81042 tokens)
+2026-04-15 03:30:04,209 - root - INFO - campaign_id=test_campaign_upgrade | 🔍 MODEL_INFO: Using provider 'gemini', model 'gemini-3-flash-preview'
+2026-04-15 03:30:04,209 - root - INFO - campaign_id=test_campaign_upgrade | Calling LLM provider/model: gemini/gemini-3-flash-preview
+2026-04-15 03:30:04,209 - root - INFO - campaign_id=test_campaign_upgrade | 🔍 CALL_LLM_API_DISPATCH: provider_name=gemini, model_name=gemini-3-flash-preview, temperature=0.9, is_gemini=True, is_cerebras=False, is_openrouter=False
+2026-04-15 03:30:04,210 - root - INFO - campaign_id=test_campaign_upgrade | 🔍 CALL_LLM_API_GEMINI: code_execution strategy for gemini-3-flash-preview
+2026-04-15 03:30:04,210 - root - INFO - campaign_id=test_campaign_upgrade | No tool_requests or hybrid tools in code_execution response
+2026-04-15 03:30:04,210 - root - WARNING - ⚠️ campaign_id=test_campaign_upgrade | ⚠️ GEMINI_RESPONSE_META: model=gemini-3-flash-preview | candidate_index=0 | finish_reason=UNKNOWN | text_length=129 | safety_ratings=None | prompt_feedback=None
+2026-04-15 03:30:04,210 - root - INFO - campaign_id=test_campaign_upgrade | 🔍 GEMINI_USAGE: prompt_tokens=0, cached_tokens=0, response_tokens=0, cache_hit_rate=0.0%, model=gemini-3-flash-preview
+2026-04-15 03:30:04,210 - root - INFO - campaign_id=test_campaign_upgrade | 🔍 GEMINI_RESPONSE_STRUCTURE: candidates=1, finish_reason=None, parts=1, text_len=129, safety=none
+2026-04-15 03:30:04,210 - root - INFO - campaign_id=test_campaign_upgrade | Successfully used LLMRequest for structured JSON communication
+2026-04-15 03:30:04,210 - root - INFO - campaign_id=test_campaign_upgrade | campaign_id=test_campaign_upgrade | GEMINI_CODE_EXECUTION_PARTS[continue_story]: model=gemini-3-flash-preview evidence={'code_execution_used': False, 'executable_code_parts': 0, 'code_execution_result_parts': 0, 'stdout': '', 'stdout_is_valid_json': False, 'stdout_parts': [], 'code_contains_rng': False, 'rng_verified': False, 'executed_code': [], 'dice_seed_verified': False}
+2026-04-15 03:30:04,210 - root - INFO - campaign_id=test_campaign_upgrade | 📝 SYSTEM_INSTRUCTION (321861 chars): # File: master_directive.md
+
+# Master Directive: WorldArchitect.AI Prompt Hierarchy
+**Version: 2.2**
+**Last Updated: 2026-04-13**
+
+## Critical Loading Order and Precedence
+
+This document establishes the authoritative hierarchy for all AI instructions in WorldArchitect.AI. When conflicts arise between instructions, this hierarchy determines which instruction takes precedence.
+
+### 1. CRITICAL FOUNDATION (Load First - Highest Authority)
+These instructions form the core operational framework and MUST be loaded before all others:
+
+1. **`game_state_instruction.md`** - State management protocol, JSON input/output schemas, and entity structures
+   - Authority over: All state updates, data persistence, timeline management, entity structures, JSON input validation
+   - Critical because: Without proper state management and structured communication, nothing else functions
+   - Includes JSON input schema for structured LLM communication
+
+2. **D&D 5E SRD Authority** (defined in this file, "D&D 5E SRD System Authority" section)
+   - Authority over: All combat, attributes, spells, and mechanical resolution
+   - Critical because: Establishes single mechanical system authority
+
+### 2. CORE MECHANICS (Load Second)
+These define the fundamental game rules:
+
+3. **`mechanics_system_instruction.md`** - System integration
+   - Authority over: Character design (when mechanics enabled), dice rolling, leveling tiers, mechanical processes
+   - Defers to: dnd_srd_instruction.md for core mechanics
+   - Special role: Triggers mandatory character design when mechanics checkbox is selected
+
+### 3. NARRATIVE FRAMEWORK (Load Third)
+These guide storytelling and interaction:
+
+4. **`narrative_system_instruction.md`** - Storytelling protocol
+   - Authority over: Think blocks, narrative flow, story progression
+   - Must respect: State management and mechanics from above
+
+### 3. TEMPLATES (Load When Needed)
+These are reference formats:
+
+5. **`character_template.md`** - Character personality and narrative d...
+2026-04-15 03:30:04,210 - root - INFO - campaign_id=test_campaign_upgrade | 📤 RAW_REQUEST (1760 chars; logged up to 20000): {"game_mode": "character", "user_id": "test-user-123", "selected_prompts": [], "use_default_world": false, "story_history": [], "core_memories": [], "sequence_ids": [], "checkpoint_block": "[CHECKPOINT BLOCK:]\\nSequence ID: N/A | Location: Unknown\\nMissions: None\\n", "entity_tracking": {"active_entities": [], "present_entities": [], "dormant_entities": []}, "game_state": {"game_state_version": 1, "player_character_data": {"entity_id": "pc_upgrade_test", "display_name": "Ascendant Hero", "level": 30, "class_name": "Fighter"}, "world_data": {}, "item_registry": {}, "custom_campaign_state": {"campaign_tier": "mortal", "arc_milestones": {}, "companion_arcs": {}, "next_companion_arc_turn": 3, "active_constraints": [], "attribute_system": "D&D", "divine_potential": 0, "universe_control": 0, "divine_upgrade_available": false, "multiverse_upgrade_available": false, "faction_minigame": {"suggestion_given": false, "strong_suggestion_given": false}, "_agent_selection_tracker": {"agent": "CampaignUpgradeAgent", "count": 1, "rewards_skip_count": 0}}, "social_hp_challenge": null, "combat_state": {"in_combat": false}, "last_state_update_timestamp": "2026-04-15T03:30:04.199133+00:00", "turn_number": 0, "player_turn": 0, "last_living_world_turn": 0, "last_living_world_time": null, "time_sensitive_events": {}, "npc_agendas": {}, "world_resources": {}, "time_pressure_warnings": {}, "debug_mode": true, "pending_instruction_hints": [], "user_id": "test-user-123", "story_text": "Previous story content", "user_settings": {}, "campaign_id": "test_campaign_upgrade"}, "user_action": "Proceed.\n\n[SYSTEM ENFORCEMENT: For ANY dice roll, you MUST use the code_execution tool with random.randint(). Your code will be inspected. Fabricated dice = rejection.]"}
+2026-04-15 03:30:04,210 - root - INFO - campaign_id=test_campaign_upgrade | 📥 RAW_RESPONSE (129 chars; logged up to 20000): {"narrative": "You stand at the threshold of apotheosis.", "planning_block": {"thinking": "The ceremony begins.", "choices": {}}}
+2026-04-15 03:30:04,211 - root - INFO - campaign_id=test_campaign_upgrade | 📊 PARSED_RESPONSE: narrative_length=41, structured_response=present, raw_response_length=129
+2026-04-15 03:30:04,211 - root - INFO - campaign_id=test_campaign_upgrade | Comprehensive validation: 0/0 found, confidence: 1.00, warnings: 0
+2026-04-15 03:30:04,212 - root - INFO - campaign_id=test_campaign_upgrade | NarrativeSyncValidator delegated to EntityValidator: 0/1 found
+2026-04-15 03:30:04,212 - root - INFO - campaign_id=test_campaign_upgrade | ✅ Planning block found in JSON structured response
+2026-04-15 03:30:04,212 - root - INFO - campaign_id=test_campaign_upgrade | 📝 FINAL_RESPONSE: narrative_length=41, has_structured_response=True
+2026-04-15 03:30:04,212 - root - INFO - campaign_id=test_campaign_upgrade | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.01s
+2026-04-15 03:30:04,212 - root - WARNING - ⚠️ campaign_id=test_campaign_upgrade | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:04,212 - root - WARNING - ⚠️ campaign_id=test_campaign_upgrade | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:04,212 - root - WARNING - ⚠️ campaign_id=test_campaign_upgrade | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:04,212 - root - INFO - campaign_id=test_campaign_upgrade | Epic level detected: Level 30 (beyond standard D&D 5e cap)
+2026-04-15 03:30:04,213 - root - WARNING - ⚠️ campaign_id=test_campaign_upgrade | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:04,213 - root - WARNING - ⚠️ campaign_id=test_campaign_upgrade | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:04,213 - root - WARNING - ⚠️ campaign_id=test_campaign_upgrade | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:04,213 - root - INFO - campaign_id=test_campaign_upgrade | 🌍 LIVING_WORLD: Recorded trigger for turn 1 (turn (1 turns))
+2026-04-15 03:30:04,213 - root - WARNING - ⚠️ campaign_id=test_campaign_upgrade | 🌍 LIVING_WORLD_MISSING: world_events absent on turn 1 (mode=character agent_mode=campaign_upgrade). Living world instruction fires every turn — LLM did not include state_updates.world_events.
+2026-04-15 03:30:04,214 - root - WARNING - ⚠️ campaign_id=test_campaign_upgrade | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:04,214 - root - WARNING - ⚠️ campaign_id=test_campaign_upgrade | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:04,214 - root - WARNING - ⚠️ campaign_id=test_campaign_upgrade | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:04,214 - root - WARNING - ⚠️ campaign_id=test_campaign_upgrade | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:04,214 - root - WARNING - ⚠️ campaign_id=test_campaign_upgrade | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:04,214 - root - WARNING - ⚠️ campaign_id=test_campaign_upgrade | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:04,214 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,214 - root - INFO - campaign_id=test_campaign_upgrade | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:04,214 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,214 - root - INFO - campaign_id=test_campaign_upgrade | ⬆️ SERVER_CAMPAIGN_UPGRADE_INJECTION: Injecting upgrade_campaign choice
+2026-04-15 03:30:04,214 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,214 - root - INFO - campaign_id=test_campaign_upgrade | ⏱️ LATENCY_PERSIST_START: Persisting state and story to Firestore
+2026-04-15 03:30:04,214 - root - INFO - campaign_id=test_campaign_upgrade | Successfully set new game state for campaign test_campaign_upgrade.
+2026-04-15 03:30:04,215 - root - INFO - campaign_id=test_campaign_upgrade | ✍️ Write completed: 0.000s, document_id: generated-id-1
+2026-04-15 03:30:04,315 - root - INFO - campaign_id=test_campaign_upgrade | ✅ VERIFICATION: Found document generated-id-1 on attempt 1
+2026-04-15 03:30:04,315 - root - INFO - campaign_id=test_campaign_upgrade | 📖 Verify-latest timing: 0.101s (checked latest 10 entries)
+2026-04-15 03:30:04,315 - root - INFO - campaign_id=test_campaign_upgrade | ⏱️ Write-then-read TOTAL latency: 0.101s (write: 0.000s, verify: 0.101s, sleep: 0.100s)
+2026-04-15 03:30:04,315 - root - INFO - campaign_id=test_campaign_upgrade | ✅ Write-then-read verification successful: user=test-user-123, campaign=test_campaign_upgrade, actor=user
+2026-04-15 03:30:04,316 - root - INFO - campaign_id=test_campaign_upgrade | ✍️ Write completed: 0.000s, document_id: generated-id-2
+2026-04-15 03:30:04,416 - root - INFO - campaign_id=test_campaign_upgrade | ✅ VERIFICATION: Found document generated-id-2 on attempt 1
+2026-04-15 03:30:04,416 - root - INFO - campaign_id=test_campaign_upgrade | 📖 Verify-latest timing: 0.100s (checked latest 10 entries)
+2026-04-15 03:30:04,416 - root - INFO - campaign_id=test_campaign_upgrade | ⏱️ Write-then-read TOTAL latency: 0.101s (write: 0.000s, verify: 0.100s, sleep: 0.100s)
+2026-04-15 03:30:04,416 - root - INFO - campaign_id=test_campaign_upgrade | ✅ Write-then-read verification successful: user=test-user-123, campaign=test_campaign_upgrade, actor=gemini
+2026-04-15 03:30:04,417 - root - INFO - campaign_id=test_campaign_upgrade | ⏱️ LATENCY_PERSIST_END: Firestore persistence completed in 0.20s
+2026-04-15 03:30:04,417 - root - WARNING - ⚠️ campaign_id=test_campaign_upgrade | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:04,417 - root - WARNING - ⚠️ campaign_id=test_campaign_upgrade | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:04,417 - root - WARNING - ⚠️ campaign_id=test_campaign_upgrade | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:04,417 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,417 - root - WARNING - ⚠️ campaign_id=test_campaign_upgrade | SYSTEM WARNING: Applied one-time schema migration for legacy compatibility
+2026-04-15 03:30:04,418 - root - WARNING - ⚠️ campaign_id=test_campaign_upgrade | SYSTEM WARNING: Epic level 30 accepted (beyond standard D&D 5e)
+2026-04-15 03:30:04,418 - root - INFO - campaign_id=test_campaign_upgrade | Epic level detected: Level 30 (beyond standard D&D 5e cap)
+2026-04-15 03:30:04,418 - root - INFO - campaign_id=test_campaign_upgrade | Successfully set new game state for campaign test_campaign_upgrade.
+2026-04-15 03:30:04,418 - root - INFO - campaign_id=test_campaign_upgrade | ⏱️ LATENCY_END: process_action_unified completed in 0.22s
+2026-04-15 03:30:04,418 - root - INFO - campaign_id=test_campaign_upgrade | ⏱️ LATENCY_FINAL: Total processing time 0.22s
+2026-04-15 03:30:04,418 - root - INFO - DEBUG: MCP process_action returned result: True
+2026-04-15 03:30:04,418 - root - INFO - MCP process_action result keys: ['success', 'story', 'narrative', 'response', 'game_state', 'mode', 'user_input', 'state_cleaned', 'entries_cleaned', 'sequence_id', 'user_scene_number', 'debug_mode', 'agent_mode', 'agent_used', 'budget_warnings', 'state_updates', 'entities_mentioned', 'location_confirmed', 'session_header', 'planning_block', 'dice_rolls', 'dice_audit_events', 'resources', 'tool_requests', 'action_resolution', 'outcome_resolution', 'debug_info', 'social_hp_challenge', 'system_warnings']
+2026-04-15 03:30:04,418 - root - INFO - Story field type: <class 'list'>, length: 1
+.2026-04-15 03:30:04,419 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:04,419 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:04,419 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:04,420 - root - INFO - Lazy warmup ready: main.firestore_service.get_campaigns_for_user
+2026-04-15 03:30:04,420 - root - INFO - Lazy warmup ready: main.openclaw_provider.test_openclaw_gateway_connection
+2026-04-15 03:30:04,421 - root - INFO - Lazy warmup ready: main.world_logic.get_campaigns_list_unified
+2026-04-15 03:30:04,421 - root - INFO - Lazy warmup started: main.firestore_runtime_warmup (background thread)
+2026-04-15 03:30:04,421 - root - INFO - Lazy warmup skipped: main.intent_classifier_ready (semantic routing disabled)
+2026-04-15 03:30:04,421 - root - INFO - Lazy warmup complete for homepage and streaming dependencies.
+2026-04-15 03:30:04,426 - root - ERROR - 🔥🔴 Failed to create Firestore client: ('File /dev/null is not a valid json file.', JSONDecodeError('Expecting value: line 1 column 1 (char 0)'))
+2026-04-15 03:30:04,426 - root - ERROR - 🔥🔴 Runtime warmup failed for Firestore client/query priming.
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 184, in load_credentials_from_file
+    info = json.load(file_obj)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/firestore_service.py", line 1960, in get_db
+    return firestore.client()
+           ^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/firestore.py", line 53, in client
+    fs_client = _utils.get_app_service(app, _FIRESTORE_ATTRIBUTE, _FirestoreClient.from_app)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/_utils.py", line 98, in get_app_service
+    return app._get_service(name, initializer) # pylint: disable=protected-access
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/__init__.py", line 297, in _get_service
+    self._services[name] = initializer(self)
+                           ^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/firestore.py", line 69, in from_app
+    credentials = app.credential.get_credential()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/credentials.py", line 142, in get_credential
+    self._load_credential()
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/credentials.py", line 159, in _load_credential
+    self._g_credential, self._project_id = google.auth.default(scopes=_scopes)
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 714, in default
+    credentials, project_id = checker()
+                              ^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 707, in <lambda>
+    lambda: _get_explicit_environ_credentials(quota_project_id=quota_project_id),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 352, in _get_explicit_environ_credentials
+    credentials, project_id = load_credentials_from_file(
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 189, in load_credentials_from_file
+    raise new_exc from caught_exc
+google.auth.exceptions.DefaultCredentialsError: ('File /dev/null is not a valid json file.', JSONDecodeError('Expecting value: line 1 column 1 (char 0)'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/main.py", line 195, in _prime_firestore_runtime_warmup
+    firestore_service.get_db()
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/firestore_service.py", line 1963, in get_db
+    raise ValueError(
+ValueError: Firestore client creation failed. Check Firebase configuration and network connectivity.
+2026-04-15 03:30:04,427 - root - INFO - campaign_id=nonexistent_campaign | DEBUG: handle_interaction START - testing mode removed
+2026-04-15 03:30:04,429 - root - INFO - campaign_id=nonexistent_campaign | DEBUG: request data = {'input': 'continue', 'mode': 'character'}
+2026-04-15 03:30:04,429 - root - INFO - campaign_id=nonexistent_campaign | DEBUG: user_input = continue (KEY_USER_INPUT='input')
+2026-04-15 03:30:04,429 - root - INFO - campaign_id=nonexistent_campaign | 🔄 PARALLEL I/O START: check_rate_limit [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:04,429 - root - INFO - campaign_id=nonexistent_campaign | ✅ PARALLEL I/O END: check_rate_limit [duration=0.3ms, remaining=0]
+2026-04-15 03:30:04,429 - root - INFO - campaign_id=nonexistent_campaign | DEBUG: Processing interaction - user_id=test-user-123, campaign_id=nonexistent_campaign
+2026-04-15 03:30:04,429 - root - INFO - campaign_id=nonexistent_campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:04,429 - root - INFO - campaign_id=nonexistent_campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:04,430 - root - WARNING - ⚠️ campaign_id=nonexistent_campaign | GET_CAMPAIGN_GAME_STATE: GameState.from_dict returned None, returning empty GameState
+2026-04-15 03:30:04,430 - root - INFO - campaign_id=nonexistent_campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:04,430 - root - INFO - campaign_id=nonexistent_campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:04,430 - root - INFO - campaign_id=nonexistent_campaign | 📖 FETCHED STORY ENTRIES: user=test-user-123, campaign=nonexistent_campaign, total_entries=0
+2026-04-15 03:30:04,430 - root - INFO - campaign_id=nonexistent_campaign | 📊 STORY BREAKDOWN: user_entries=0, ai_entries=0, other_entries=0
+2026-04-15 03:30:04,430 - root - WARNING - ⚠️ campaign_id=nonexistent_campaign | ⚠️ NO STORY ENTRIES FOUND for campaign nonexistent_campaign
+2026-04-15 03:30:04,430 - root - INFO - campaign_id=nonexistent_campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:04,430 - root - INFO - campaign_id=nonexistent_campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+2026-04-15 03:30:04,430 - root - INFO - DEBUG: MCP process_action returned result: False
+2026-04-15 03:30:04,430 - root - ERROR - 🔥🔴 DEBUG: MCP process_action failed: Campaign not found
+.2026-04-15 03:30:04,431 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:04,431 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:04,431 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:04,432 - root - INFO - Lazy warmup ready: main.firestore_service.get_campaigns_for_user
+2026-04-15 03:30:04,432 - root - INFO - Lazy warmup ready: main.openclaw_provider.test_openclaw_gateway_connection
+2026-04-15 03:30:04,432 - root - INFO - Lazy warmup ready: main.world_logic.get_campaigns_list_unified
+2026-04-15 03:30:04,432 - root - INFO - Lazy warmup started: main.firestore_runtime_warmup (background thread)
+2026-04-15 03:30:04,432 - root - INFO - Lazy warmup skipped: main.intent_classifier_ready (semantic routing disabled)
+2026-04-15 03:30:04,432 - root - INFO - Lazy warmup complete for homepage and streaming dependencies.
+2026-04-15 03:30:04,438 - root - ERROR - 🔥🔴 Failed to create Firestore client: ('File /dev/null is not a valid json file.', JSONDecodeError('Expecting value: line 1 column 1 (char 0)'))
+2026-04-15 03:30:04,438 - root - ERROR - 🔥🔴 Runtime warmup failed for Firestore client/query priming.
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 184, in load_credentials_from_file
+    info = json.load(file_obj)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/firestore_service.py", line 1960, in get_db
+    return firestore.client()
+           ^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/firestore.py", line 53, in client
+    fs_client = _utils.get_app_service(app, _FIRESTORE_ATTRIBUTE, _FirestoreClient.from_app)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/_utils.py", line 98, in get_app_service
+    return app._get_service(name, initializer) # pylint: disable=protected-access
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/__init__.py", line 297, in _get_service
+    self._services[name] = initializer(self)
+                           ^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/firestore.py", line 69, in from_app
+    credentials = app.credential.get_credential()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/credentials.py", line 142, in get_credential
+    self._load_credential()
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/credentials.py", line 159, in _load_credential
+    self._g_credential, self._project_id = google.auth.default(scopes=_scopes)
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 714, in default
+    credentials, project_id = checker()
+                              ^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 707, in <lambda>
+    lambda: _get_explicit_environ_credentials(quota_project_id=quota_project_id),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 352, in _get_explicit_environ_credentials
+    credentials, project_id = load_credentials_from_file(
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 189, in load_credentials_from_file
+    raise new_exc from caught_exc
+google.auth.exceptions.DefaultCredentialsError: ('File /dev/null is not a valid json file.', JSONDecodeError('Expecting value: line 1 column 1 (char 0)'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/main.py", line 195, in _prime_firestore_runtime_warmup
+    firestore_service.get_db()
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/firestore_service.py", line 1963, in get_db
+    raise ValueError(
+ValueError: Firestore client creation failed. Check Firebase configuration and network connectivity.
+2026-04-15 03:30:04,438 - root - INFO - campaign_id=test_campaign_123 | DEBUG: handle_interaction START - testing mode removed
+2026-04-15 03:30:04,439 - root - INFO - campaign_id=test_campaign_123 | DEBUG: request data = {'input': 'continue the adventure', 'mode': 'character'}
+2026-04-15 03:30:04,439 - root - INFO - campaign_id=test_campaign_123 | DEBUG: user_input = continue the adventure (KEY_USER_INPUT='input')
+2026-04-15 03:30:04,439 - root - INFO - campaign_id=test_campaign_123 | 🔄 PARALLEL I/O START: check_rate_limit [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:04,439 - root - INFO - campaign_id=test_campaign_123 | ✅ PARALLEL I/O END: check_rate_limit [duration=0.2ms, remaining=0]
+2026-04-15 03:30:04,439 - root - INFO - campaign_id=test_campaign_123 | DEBUG: Processing interaction - user_id=test-user-123, campaign_id=test_campaign_123
+2026-04-15 03:30:04,439 - root - INFO - campaign_id=test_campaign_123 | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:04,439 - root - INFO - campaign_id=test_campaign_123 | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:04,439 - root - INFO - campaign_id=test_campaign_123 | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:04,439 - root - INFO - campaign_id=test_campaign_123 | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:04,439 - root - INFO - campaign_id=test_campaign_123 | 📖 FETCHED STORY ENTRIES: user=test-user-123, campaign=test_campaign_123, total_entries=0
+2026-04-15 03:30:04,439 - root - INFO - campaign_id=test_campaign_123 | 📊 STORY BREAKDOWN: user_entries=0, ai_entries=0, other_entries=0
+2026-04-15 03:30:04,440 - root - WARNING - ⚠️ campaign_id=test_campaign_123 | ⚠️ NO STORY ENTRIES FOUND for campaign test_campaign_123
+2026-04-15 03:30:04,440 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,440 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,440 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,440 - root - INFO - campaign_id=test_campaign_123 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:04,440 - root - INFO - campaign_id=test_campaign_123 | 🔍 PROVIDER_SELECTION_START: user_id=test-user-123, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=false, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:04,440 - root - INFO - campaign_id=test_campaign_123 | ↩️ NON_STREAMING_PATH: Using continue_story for provider/model gemini/gemini-3-flash-preview
+2026-04-15 03:30:04,440 - root - INFO - campaign_id=test_campaign_123 | 🔍 PROVIDER_SELECTION_START: user_id=test-user-123, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=false, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:04,440 - root - INFO - campaign_id=test_campaign_123 | Using provider/model: gemini/gemini-3-flash-preview for story continuation.
+2026-04-15 03:30:04,440 - root - INFO - campaign_id=test_campaign_123 | 🎭 CHARACTER_CREATION_CHECK: Character creation mode ACTIVE
+2026-04-15 03:30:04,440 - root - INFO - campaign_id=test_campaign_123 | 🎭 CHARACTER_CREATION_ACTIVE: Using CharacterCreationAgent
+2026-04-15 03:30:04,440 - root - INFO - campaign_id=test_campaign_123 | Cache MISS for character_creation_instruction.md: loaded and cached 7073 characters (~1768 tokens)
+2026-04-15 03:30:04,440 - root - INFO - campaign_id=test_campaign_123 | 🌍 LIVING_WORLD: Including living world instruction every turn (turn=1)
+2026-04-15 03:30:04,441 - root - INFO - campaign_id=test_campaign_123 | 🎭 _extract_companions_from_state: No companions found in npc_data (keys: [])
+2026-04-15 03:30:04,442 - root - INFO - campaign_id=test_campaign_123 | 📊 MEASURED_SIZES: system=75,251tk, state=335tk, memories=0tk, entities=10,500tk, checkpoint=18tk, sequence=0tk, story=0tk, total=86,104tk (budget=240,000tk)
+2026-04-15 03:30:04,442 - root - INFO - campaign_id=test_campaign_123 | 📊 MIN_ALLOCATION: total_min=163,218tk (68.0%), remaining=76,782tk (32.0%)
+2026-04-15 03:30:04,442 - root - INFO - campaign_id=test_campaign_123 | 📊 BUDGET_ALLOCATION_SUMMARY (budget=240,000tk):
+  system_instruction: 75,251tk -> 75,251tk (31.4%) ✅ OK
+  game_state: 335tk -> 12,000tk (5.0%) ✅ OK
+  core_memories: 0tk -> 48,000tk (20.0%) ✅ OK
+  entity_tracking: 10,500tk -> 10,500tk (4.4%) ✅ OK
+  checkpoint_block: 18tk -> 18tk (0.0%) ✅ OK
+  sequence_id: 0tk -> 0tk (0.0%) ✅ OK
+  story_context: 0tk -> 72,000tk (30.0%) ✅ OK
+2026-04-15 03:30:04,442 - root - INFO - campaign_id=test_campaign_123 | 📊 BUDGET: model_limit=1000000tk, safe_budget=300000tk, max_input=240000tk, output_reserve=60000tk (normal), story_budget=72000tk (30.0%)
+2026-04-15 03:30:04,442 - root - INFO - campaign_id=test_campaign_123 | Initial context stats: Turns: 0, Tokens: 0
+2026-04-15 03:30:04,442 - root - INFO - campaign_id=test_campaign_123 | Context is within token budget. No truncation needed.
+2026-04-15 03:30:04,442 - root - INFO - campaign_id=test_campaign_123 | ENTITY_TRACKING_PROMPT: preload_chars=332, specific_chars=556
+2026-04-15 03:30:04,442 - root - INFO - campaign_id=test_campaign_123 | ENTITY_TIERS: no NPCs
+2026-04-15 03:30:04,442 - root - INFO - campaign_id=test_campaign_123 | ENTITY_TRACKING_SIZE: 17tk (reserve was 10500tk)
+2026-04-15 03:30:04,442 - root - INFO - campaign_id=test_campaign_123 | GAME_STATE_BREAKDOWN: npc_data=0tk (EXCLUDED), world_data=0tk, player_data=7tk, remaining_state=301tk
+2026-04-15 03:30:04,442 - root - INFO - campaign_id=test_campaign_123 | 🐛 DEBUG_MODE_VALUE: mode='character', agent=CharacterCreationAgent, agent.MODE=character_creation
+2026-04-15 03:30:04,442 - root - INFO - campaign_id=test_campaign_123 | LLMREQUEST_PAYLOAD: story_history=0tk, total_payload=446tk
+2026-04-15 03:30:04,443 - root - INFO - campaign_id=test_campaign_123 | Calling LLM API: 303383 characters (~75845 tokens)
+2026-04-15 03:30:04,443 - root - INFO - campaign_id=test_campaign_123 | 🔍 MODEL_INFO: Using provider 'gemini', model 'gemini-3-flash-preview'
+2026-04-15 03:30:04,443 - root - INFO - campaign_id=test_campaign_123 | Calling LLM provider/model: gemini/gemini-3-flash-preview
+2026-04-15 03:30:04,443 - root - INFO - campaign_id=test_campaign_123 | 🔍 CALL_LLM_API_DISPATCH: provider_name=gemini, model_name=gemini-3-flash-preview, temperature=0.9, is_gemini=True, is_cerebras=False, is_openrouter=False
+2026-04-15 03:30:04,443 - root - INFO - campaign_id=test_campaign_123 | 🔍 CALL_LLM_API_GEMINI: code_execution strategy for gemini-3-flash-preview
+2026-04-15 03:30:04,443 - root - INFO - campaign_id=test_campaign_123 | No tool_requests or hybrid tools in code_execution response
+2026-04-15 03:30:04,443 - root - WARNING - ⚠️ campaign_id=test_campaign_123 | ⚠️ GEMINI_RESPONSE_META: model=gemini-3-flash-preview | candidate_index=0 | finish_reason=UNKNOWN | text_length=566 | safety_ratings=None | prompt_feedback=None
+2026-04-15 03:30:04,443 - root - INFO - campaign_id=test_campaign_123 | 🔍 GEMINI_USAGE: prompt_tokens=0, cached_tokens=0, response_tokens=0, cache_hit_rate=0.0%, model=gemini-3-flash-preview
+2026-04-15 03:30:04,443 - root - INFO - campaign_id=test_campaign_123 | 🔍 GEMINI_RESPONSE_STRUCTURE: candidates=1, finish_reason=None, parts=1, text_len=566, safety=none
+2026-04-15 03:30:04,443 - root - INFO - campaign_id=test_campaign_123 | Successfully used LLMRequest for structured JSON communication
+2026-04-15 03:30:04,443 - root - INFO - campaign_id=test_campaign_123 | campaign_id=test_campaign_123 | GEMINI_CODE_EXECUTION_PARTS[continue_story]: model=gemini-3-flash-preview evidence={'code_execution_used': False, 'executable_code_parts': 0, 'code_execution_result_parts': 0, 'stdout': '', 'stdout_is_valid_json': False, 'stdout_parts': [], 'code_contains_rng': False, 'rng_verified': False, 'executed_code': [], 'dice_seed_verified': False}
+2026-04-15 03:30:04,443 - root - WARNING - ⚠️ campaign_id=test_campaign_123 | ⚠️ STATE_UPDATE_SCHEMA_GATE: Kept state_updates.story_progression: unknown top-level key in strict overlay policy (no close match)
+2026-04-15 03:30:04,443 - root - INFO - campaign_id=test_campaign_123 | 📝 SYSTEM_INSTRUCTION (301004 chars): # File: master_directive.md
+
+# Master Directive: WorldArchitect.AI Prompt Hierarchy
+**Version: 2.2**
+**Last Updated: 2026-04-13**
+
+## Critical Loading Order and Precedence
+
+This document establishes the authoritative hierarchy for all AI instructions in WorldArchitect.AI. When conflicts arise between instructions, this hierarchy determines which instruction takes precedence.
+
+### 1. CRITICAL FOUNDATION (Load First - Highest Authority)
+These instructions form the core operational framework and MUST be loaded before all others:
+
+1. **`game_state_instruction.md`** - State management protocol, JSON input/output schemas, and entity structures
+   - Authority over: All state updates, data persistence, timeline management, entity structures, JSON input validation
+   - Critical because: Without proper state management and structured communication, nothing else functions
+   - Includes JSON input schema for structured LLM communication
+
+2. **D&D 5E SRD Authority** (defined in this file, "D&D 5E SRD System Authority" section)
+   - Authority over: All combat, attributes, spells, and mechanical resolution
+   - Critical because: Establishes single mechanical system authority
+
+### 2. CORE MECHANICS (Load Second)
+These define the fundamental game rules:
+
+3. **`mechanics_system_instruction.md`** - System integration
+   - Authority over: Character design (when mechanics enabled), dice rolling, leveling tiers, mechanical processes
+   - Defers to: dnd_srd_instruction.md for core mechanics
+   - Special role: Triggers mandatory character design when mechanics checkbox is selected
+
+### 3. NARRATIVE FRAMEWORK (Load Third)
+These guide storytelling and interaction:
+
+4. **`narrative_system_instruction.md`** - Storytelling protocol
+   - Authority over: Think blocks, narrative flow, story progression
+   - Must respect: State management and mechanics from above
+
+### 3. TEMPLATES (Load When Needed)
+These are reference formats:
+
+5. **`character_template.md`** - Character personality and narrative d...
+2026-04-15 03:30:04,444 - root - INFO - campaign_id=test_campaign_123 | 📤 RAW_REQUEST (1785 chars; logged up to 20000): {"game_mode": "character", "user_id": "test-user-123", "selected_prompts": [], "use_default_world": false, "story_history": [], "core_memories": [], "sequence_ids": [], "checkpoint_block": "[CHECKPOINT BLOCK:]\\nSequence ID: N/A | Location: Unknown\\nMissions: None\\n", "entity_tracking": {"active_entities": [], "present_entities": [], "dormant_entities": []}, "game_state": {"game_state_version": 1, "player_character_data": {"experience": {"current": 0}}, "world_data": {}, "item_registry": {}, "custom_campaign_state": {"arc_milestones": {}, "companion_arcs": {}, "next_companion_arc_turn": 3, "active_constraints": [], "attribute_system": "D&D", "campaign_tier": "mortal", "divine_potential": 0, "universe_control": 0, "divine_upgrade_available": false, "multiverse_upgrade_available": false, "faction_minigame": {"suggestion_given": false, "strong_suggestion_given": false}, "_agent_selection_tracker": {"agent": "CharacterCreationAgent", "count": 1, "rewards_skip_count": 0}}, "social_hp_challenge": null, "combat_state": {"in_combat": false}, "last_state_update_timestamp": "2026-04-15T03:30:04.439707+00:00", "turn_number": 0, "player_turn": 0, "last_living_world_turn": 0, "last_living_world_time": null, "time_sensitive_events": {}, "npc_agendas": {}, "world_resources": {}, "time_pressure_warnings": {}, "debug_mode": true, "pending_instruction_hints": [], "user_id": "test-user-123", "story_text": "Previous story content", "characters": ["Thorin"], "locations": ["Mountain Kingdom"], "items": ["Magic Sword"], "user_settings": {}, "campaign_id": "test_campaign_123"}, "user_action": "continue the adventure\n\n[SYSTEM ENFORCEMENT: For ANY dice roll, you MUST use the code_execution tool with random.randint(). Your code will be inspected. Fabricated dice = rejection.]"}
+2026-04-15 03:30:04,444 - root - INFO - campaign_id=test_campaign_123 | 📥 RAW_RESPONSE (566 chars; logged up to 20000): {"narrative": "The story continues with new adventures...", "entities_mentioned": ["Thorin"], "location_confirmed": "Mountain Kingdom", "state_updates": {"story_progression": "continued"}, "session_header": "Session 1: The Mountain Path", "planning_block": {"thinking": "The player wants to continue. I should describe the next leg of the journey.", "choices": {"press_on": {"text": "Press On", "description": "Continue deeper into the mountains", "risk_level": "medium"}, "set_camp": {"text": "Set Camp", "description": "Rest for the night", "risk_level": "low"}}}}
+2026-04-15 03:30:04,444 - root - INFO - campaign_id=test_campaign_123 | 📊 PARSED_RESPONSE: narrative_length=42, structured_response=present, raw_response_length=566
+2026-04-15 03:30:04,444 - root - INFO - campaign_id=test_campaign_123 | Comprehensive validation: 0/0 found, confidence: 1.00, warnings: 0
+2026-04-15 03:30:04,444 - root - INFO - campaign_id=test_campaign_123 | NarrativeSyncValidator delegated to EntityValidator: 0/1 found
+2026-04-15 03:30:04,444 - root - INFO - campaign_id=test_campaign_123 | ✅ Planning block found in JSON structured response
+2026-04-15 03:30:04,444 - root - INFO - campaign_id=test_campaign_123 | 📝 FINAL_RESPONSE: narrative_length=42, has_structured_response=True
+2026-04-15 03:30:04,444 - root - INFO - campaign_id=test_campaign_123 | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.01s
+2026-04-15 03:30:04,445 - root - INFO - campaign_id=test_campaign_123 | 🕐 TIME_FREEZE: Applied microsecond-only time advancement
+2026-04-15 03:30:04,445 - root - INFO - campaign_id=test_campaign_123 | Calculated time_of_day as 'midday' from hour 12
+2026-04-15 03:30:04,445 - root - WARNING - ⚠️ campaign_id=test_campaign_123 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:04,445 - root - WARNING - ⚠️ campaign_id=test_campaign_123 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:04,445 - root - WARNING - ⚠️ campaign_id=test_campaign_123 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:04,445 - root - INFO - campaign_id=test_campaign_123 | XP Validation applied corrections: {'valid': True, 'expected_level': 1, 'computed_level': 1}
+2026-04-15 03:30:04,446 - root - WARNING - ⚠️ campaign_id=test_campaign_123 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:04,446 - root - WARNING - ⚠️ campaign_id=test_campaign_123 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:04,446 - root - WARNING - ⚠️ campaign_id=test_campaign_123 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:04,446 - root - WARNING - ⚠️ campaign_id=test_campaign_123 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:04,446 - root - WARNING - ⚠️ campaign_id=test_campaign_123 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:04,446 - root - WARNING - ⚠️ campaign_id=test_campaign_123 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:04,446 - root - WARNING - ⚠️ campaign_id=test_campaign_123 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:04,446 - root - WARNING - ⚠️ campaign_id=test_campaign_123 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:04,446 - root - WARNING - ⚠️ campaign_id=test_campaign_123 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:04,446 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,446 - root - INFO - campaign_id=test_campaign_123 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:04,446 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,446 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,446 - root - INFO - campaign_id=test_campaign_123 | ⏱️ LATENCY_PERSIST_START: Persisting state and story to Firestore
+2026-04-15 03:30:04,447 - root - INFO - campaign_id=test_campaign_123 | Successfully set new game state for campaign test_campaign_123.
+2026-04-15 03:30:04,447 - root - INFO - campaign_id=test_campaign_123 | ✍️ Write completed: 0.000s, document_id: generated-id-1
+2026-04-15 03:30:04,547 - root - INFO - campaign_id=test_campaign_123 | ✅ VERIFICATION: Found document generated-id-1 on attempt 1
+2026-04-15 03:30:04,547 - root - INFO - campaign_id=test_campaign_123 | 📖 Verify-latest timing: 0.101s (checked latest 10 entries)
+2026-04-15 03:30:04,547 - root - INFO - campaign_id=test_campaign_123 | ⏱️ Write-then-read TOTAL latency: 0.101s (write: 0.000s, verify: 0.101s, sleep: 0.100s)
+2026-04-15 03:30:04,547 - root - INFO - campaign_id=test_campaign_123 | ✅ Write-then-read verification successful: user=test-user-123, campaign=test_campaign_123, actor=user
+2026-04-15 03:30:04,548 - root - INFO - campaign_id=test_campaign_123 | ✍️ Write completed: 0.000s, document_id: generated-id-2
+2026-04-15 03:30:04,648 - root - INFO - campaign_id=test_campaign_123 | ✅ VERIFICATION: Found document generated-id-2 on attempt 1
+2026-04-15 03:30:04,648 - root - INFO - campaign_id=test_campaign_123 | 📖 Verify-latest timing: 0.100s (checked latest 10 entries)
+2026-04-15 03:30:04,648 - root - INFO - campaign_id=test_campaign_123 | ⏱️ Write-then-read TOTAL latency: 0.101s (write: 0.000s, verify: 0.100s, sleep: 0.100s)
+2026-04-15 03:30:04,648 - root - INFO - campaign_id=test_campaign_123 | ✅ Write-then-read verification successful: user=test-user-123, campaign=test_campaign_123, actor=gemini
+2026-04-15 03:30:04,649 - root - INFO - campaign_id=test_campaign_123 | ⏱️ LATENCY_PERSIST_END: Firestore persistence completed in 0.20s
+2026-04-15 03:30:04,649 - root - WARNING - ⚠️ campaign_id=test_campaign_123 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:04,649 - root - WARNING - ⚠️ campaign_id=test_campaign_123 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:04,649 - root - WARNING - ⚠️ campaign_id=test_campaign_123 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:04,649 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,649 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,649 - root - WARNING - ⚠️ campaign_id=test_campaign_123 | SYSTEM WARNING: Applied one-time schema migration for legacy compatibility
+2026-04-15 03:30:04,649 - root - WARNING - ⚠️ campaign_id=test_campaign_123 | SYSTEM WARNING: Level computed as 1 from XP
+2026-04-15 03:30:04,649 - root - WARNING - ⚠️ campaign_id=test_campaign_123 | SYSTEM WARNING: State update schema gate: Kept state_updates.story_progression: unknown top-level key in strict overlay policy (no close match)
+2026-04-15 03:30:04,649 - root - INFO - campaign_id=test_campaign_123 | Successfully set new game state for campaign test_campaign_123.
+2026-04-15 03:30:04,649 - root - INFO - campaign_id=test_campaign_123 | ⏱️ LATENCY_END: process_action_unified completed in 0.21s
+2026-04-15 03:30:04,649 - root - INFO - campaign_id=test_campaign_123 | ⏱️ LATENCY_FINAL: Total processing time 0.21s
+2026-04-15 03:30:04,650 - root - INFO - DEBUG: MCP process_action returned result: True
+2026-04-15 03:30:04,650 - root - INFO - MCP process_action result keys: ['success', 'story', 'narrative', 'response', 'game_state', 'mode', 'user_input', 'state_cleaned', 'entries_cleaned', 'sequence_id', 'user_scene_number', 'debug_mode', 'agent_mode', 'agent_used', 'budget_warnings', 'state_updates', 'entities_mentioned', 'location_confirmed', 'session_header', 'planning_block', 'dice_rolls', 'dice_audit_events', 'resources', 'tool_requests', 'action_resolution', 'outcome_resolution', 'debug_info', 'social_hp_challenge', 'system_warnings']
+2026-04-15 03:30:04,650 - root - INFO - Story field type: <class 'list'>, length: 1
+.2026-04-15 03:30:04,650 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:04,650 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:04,651 - root - INFO - Schema doc cache initialized: 11 types, 0.12ms total
+2026-04-15 03:30:04,652 - root - INFO - Lazy warmup ready: main.firestore_service.get_campaigns_for_user
+2026-04-15 03:30:04,652 - root - INFO - Lazy warmup ready: main.openclaw_provider.test_openclaw_gateway_connection
+2026-04-15 03:30:04,652 - root - INFO - Lazy warmup ready: main.world_logic.get_campaigns_list_unified
+2026-04-15 03:30:04,652 - root - INFO - Lazy warmup started: main.firestore_runtime_warmup (background thread)
+2026-04-15 03:30:04,652 - root - INFO - Lazy warmup skipped: main.intent_classifier_ready (semantic routing disabled)
+2026-04-15 03:30:04,652 - root - INFO - Lazy warmup complete for homepage and streaming dependencies.
+2026-04-15 03:30:04,658 - root - ERROR - 🔥🔴 Failed to create Firestore client: ('File /dev/null is not a valid json file.', JSONDecodeError('Expecting value: line 1 column 1 (char 0)'))
+2026-04-15 03:30:04,658 - root - ERROR - 🔥🔴 Runtime warmup failed for Firestore client/query priming.
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 184, in load_credentials_from_file
+    info = json.load(file_obj)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/firestore_service.py", line 1960, in get_db
+    return firestore.client()
+           ^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/firestore.py", line 53, in client
+    fs_client = _utils.get_app_service(app, _FIRESTORE_ATTRIBUTE, _FirestoreClient.from_app)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/_utils.py", line 98, in get_app_service
+    return app._get_service(name, initializer) # pylint: disable=protected-access
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/__init__.py", line 297, in _get_service
+    self._services[name] = initializer(self)
+                           ^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/firestore.py", line 69, in from_app
+    credentials = app.credential.get_credential()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/credentials.py", line 142, in get_credential
+    self._load_credential()
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/credentials.py", line 159, in _load_credential
+    self._g_credential, self._project_id = google.auth.default(scopes=_scopes)
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 714, in default
+    credentials, project_id = checker()
+                              ^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 707, in <lambda>
+    lambda: _get_explicit_environ_credentials(quota_project_id=quota_project_id),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 352, in _get_explicit_environ_credentials
+    credentials, project_id = load_credentials_from_file(
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 189, in load_credentials_from_file
+    raise new_exc from caught_exc
+google.auth.exceptions.DefaultCredentialsError: ('File /dev/null is not a valid json file.', JSONDecodeError('Expecting value: line 1 column 1 (char 0)'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/main.py", line 195, in _prime_firestore_runtime_warmup
+    firestore_service.get_db()
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/firestore_service.py", line 1963, in get_db
+    raise ValueError(
+ValueError: Firestore client creation failed. Check Firebase configuration and network connectivity.
+2026-04-15 03:30:04,658 - root - INFO - campaign_id=test_campaign_time_anomaly | DEBUG: handle_interaction START - testing mode removed
+2026-04-15 03:30:04,658 - root - INFO - campaign_id=test_campaign_time_anomaly | DEBUG: request data = {'input': 'I attack the goblin', 'mode': 'character'}
+2026-04-15 03:30:04,658 - root - INFO - campaign_id=test_campaign_time_anomaly | DEBUG: user_input = I attack the goblin (KEY_USER_INPUT='input')
+2026-04-15 03:30:04,658 - root - INFO - campaign_id=test_campaign_time_anomaly | 🔄 PARALLEL I/O START: check_rate_limit [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:04,659 - root - INFO - campaign_id=test_campaign_time_anomaly | ✅ PARALLEL I/O END: check_rate_limit [duration=0.2ms, remaining=0]
+2026-04-15 03:30:04,659 - root - INFO - campaign_id=test_campaign_time_anomaly | DEBUG: Processing interaction - user_id=test-user-123, campaign_id=test_campaign_time_anomaly
+2026-04-15 03:30:04,659 - root - INFO - campaign_id=test_campaign_time_anomaly | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:04,659 - root - INFO - campaign_id=test_campaign_time_anomaly | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:04,659 - root - INFO - campaign_id=test_campaign_time_anomaly | GameState: initialized last_living_world_time from world_data
+2026-04-15 03:30:04,659 - root - INFO - campaign_id=test_campaign_time_anomaly | Added microsecond field to world_time (default: 0)
+2026-04-15 03:30:04,659 - root - INFO - campaign_id=test_campaign_time_anomaly | Calculated time_of_day as 'morning' from hour 10
+2026-04-15 03:30:04,659 - root - INFO - campaign_id=test_campaign_time_anomaly | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:04,659 - root - INFO - campaign_id=test_campaign_time_anomaly | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:04,659 - root - INFO - campaign_id=test_campaign_time_anomaly | 📖 FETCHED STORY ENTRIES: user=test-user-123, campaign=test_campaign_time_anomaly, total_entries=0
+2026-04-15 03:30:04,659 - root - INFO - campaign_id=test_campaign_time_anomaly | 📊 STORY BREAKDOWN: user_entries=0, ai_entries=0, other_entries=0
+2026-04-15 03:30:04,659 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | ⚠️ NO STORY ENTRIES FOUND for campaign test_campaign_time_anomaly
+2026-04-15 03:30:04,659 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,660 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,660 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,660 - root - INFO - campaign_id=test_campaign_time_anomaly | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:04,660 - root - INFO - campaign_id=test_campaign_time_anomaly | 🔍 PROVIDER_SELECTION_START: user_id=test-user-123, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=false, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:04,660 - root - INFO - campaign_id=test_campaign_time_anomaly | ↩️ NON_STREAMING_PATH: Using continue_story for provider/model gemini/gemini-3-flash-preview
+2026-04-15 03:30:04,660 - root - INFO - campaign_id=test_campaign_time_anomaly | 🔍 PROVIDER_SELECTION_START: user_id=test-user-123, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=false, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:04,660 - root - INFO - campaign_id=test_campaign_time_anomaly | Using provider/model: gemini/gemini-3-flash-preview for story continuation.
+2026-04-15 03:30:04,660 - root - INFO - campaign_id=test_campaign_time_anomaly | 🎭 CHARACTER_CREATION_CHECK: Character creation mode ACTIVE
+2026-04-15 03:30:04,660 - root - INFO - campaign_id=test_campaign_time_anomaly | 🎭 CHARACTER_CREATION_ACTIVE: Using CharacterCreationAgent
+2026-04-15 03:30:04,660 - root - INFO - campaign_id=test_campaign_time_anomaly | 🌍 LIVING_WORLD: Including living world instruction every turn (turn=1)
+2026-04-15 03:30:04,660 - root - INFO - campaign_id=test_campaign_time_anomaly | 🎭 _extract_companions_from_state: No companions found in npc_data (keys: [])
+2026-04-15 03:30:04,661 - root - INFO - campaign_id=test_campaign_time_anomaly | 📊 MEASURED_SIZES: system=75,251tk, state=418tk, memories=0tk, entities=10,500tk, checkpoint=18tk, sequence=0tk, story=0tk, total=86,187tk (budget=240,000tk)
+2026-04-15 03:30:04,661 - root - INFO - campaign_id=test_campaign_time_anomaly | 📊 MIN_ALLOCATION: total_min=163,218tk (68.0%), remaining=76,782tk (32.0%)
+2026-04-15 03:30:04,661 - root - INFO - campaign_id=test_campaign_time_anomaly | 📊 BUDGET_ALLOCATION_SUMMARY (budget=240,000tk):
+  system_instruction: 75,251tk -> 75,251tk (31.4%) ✅ OK
+  game_state: 418tk -> 12,000tk (5.0%) ✅ OK
+  core_memories: 0tk -> 48,000tk (20.0%) ✅ OK
+  entity_tracking: 10,500tk -> 10,500tk (4.4%) ✅ OK
+  checkpoint_block: 18tk -> 18tk (0.0%) ✅ OK
+  sequence_id: 0tk -> 0tk (0.0%) ✅ OK
+  story_context: 0tk -> 72,000tk (30.0%) ✅ OK
+2026-04-15 03:30:04,661 - root - INFO - campaign_id=test_campaign_time_anomaly | 📊 BUDGET: model_limit=1000000tk, safe_budget=300000tk, max_input=240000tk, output_reserve=60000tk (normal), story_budget=72000tk (30.0%)
+2026-04-15 03:30:04,661 - root - INFO - campaign_id=test_campaign_time_anomaly | Initial context stats: Turns: 0, Tokens: 0
+2026-04-15 03:30:04,661 - root - INFO - campaign_id=test_campaign_time_anomaly | Context is within token budget. No truncation needed.
+2026-04-15 03:30:04,662 - root - INFO - campaign_id=test_campaign_time_anomaly | ENTITY_TRACKING_PROMPT: preload_chars=332, specific_chars=553
+2026-04-15 03:30:04,662 - root - INFO - campaign_id=test_campaign_time_anomaly | ENTITY_TIERS: no NPCs
+2026-04-15 03:30:04,662 - root - INFO - campaign_id=test_campaign_time_anomaly | ENTITY_TRACKING_SIZE: 17tk (reserve was 10500tk)
+2026-04-15 03:30:04,662 - root - INFO - campaign_id=test_campaign_time_anomaly | GAME_STATE_BREAKDOWN: npc_data=0tk (EXCLUDED), world_data=42tk, player_data=7tk, remaining_state=363tk
+2026-04-15 03:30:04,662 - root - INFO - campaign_id=test_campaign_time_anomaly | 🐛 DEBUG_MODE_VALUE: mode='character', agent=CharacterCreationAgent, agent.MODE=character_creation
+2026-04-15 03:30:04,662 - root - INFO - campaign_id=test_campaign_time_anomaly | LLMREQUEST_PAYLOAD: story_history=0tk, total_payload=507tk
+2026-04-15 03:30:04,662 - root - INFO - campaign_id=test_campaign_time_anomaly | Calling LLM API: 303759 characters (~75939 tokens)
+2026-04-15 03:30:04,662 - root - INFO - campaign_id=test_campaign_time_anomaly | 🔍 MODEL_INFO: Using provider 'gemini', model 'gemini-3-flash-preview'
+2026-04-15 03:30:04,662 - root - INFO - campaign_id=test_campaign_time_anomaly | Calling LLM provider/model: gemini/gemini-3-flash-preview
+2026-04-15 03:30:04,662 - root - INFO - campaign_id=test_campaign_time_anomaly | 🔍 CALL_LLM_API_DISPATCH: provider_name=gemini, model_name=gemini-3-flash-preview, temperature=0.9, is_gemini=True, is_cerebras=False, is_openrouter=False
+2026-04-15 03:30:04,662 - root - INFO - campaign_id=test_campaign_time_anomaly | 🔍 CALL_LLM_API_GEMINI: code_execution strategy for gemini-3-flash-preview
+2026-04-15 03:30:04,663 - root - INFO - campaign_id=test_campaign_time_anomaly | No tool_requests or hybrid tools in code_execution response
+2026-04-15 03:30:04,663 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | ⚠️ GEMINI_RESPONSE_META: model=gemini-3-flash-preview | candidate_index=0 | finish_reason=UNKNOWN | text_length=427 | safety_ratings=None | prompt_feedback=None
+2026-04-15 03:30:04,663 - root - INFO - campaign_id=test_campaign_time_anomaly | 🔍 GEMINI_USAGE: prompt_tokens=0, cached_tokens=0, response_tokens=0, cache_hit_rate=0.0%, model=gemini-3-flash-preview
+2026-04-15 03:30:04,663 - root - INFO - campaign_id=test_campaign_time_anomaly | 🔍 GEMINI_RESPONSE_STRUCTURE: candidates=1, finish_reason=None, parts=1, text_len=427, safety=none
+2026-04-15 03:30:04,663 - root - INFO - campaign_id=test_campaign_time_anomaly | Successfully used LLMRequest for structured JSON communication
+2026-04-15 03:30:04,663 - root - INFO - campaign_id=test_campaign_time_anomaly | campaign_id=test_campaign_time_anomaly | GEMINI_CODE_EXECUTION_PARTS[continue_story]: model=gemini-3-flash-preview evidence={'code_execution_used': True, 'executable_code_parts': 1, 'code_execution_result_parts': 0, 'stdout': '', 'stdout_is_valid_json': False, 'stdout_parts': [], 'code_contains_rng': True, 'rng_verified': True, 'executed_code': ['import random; roll = random.randint(1, 20); print(roll)'], 'dice_seed_verified': False}
+2026-04-15 03:30:04,663 - root - INFO - campaign_id=test_campaign_time_anomaly | campaign_id=test_campaign_time_anomaly | GEMINI_EXECUTED_CODE[continue_story][0]: model=gemini-3-flash-preview
+import random; roll = random.randint(1, 20); print(roll)
+2026-04-15 03:30:04,663 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | campaign_id=test_campaign_time_anomaly | ⚠️ SCHEMA_VIOLATION: LLM populated legacy dice fields (dice_rolls=1, dice_audit_events=0). LLM should use action_resolution.mechanics.rolls ONLY. Legacy fields are for server backfill, not LLM output.
+2026-04-15 03:30:04,663 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | ⚠️ LLM_MISSING_FIELDS: Response missing ['dice_rolls'] (no server-side retries; accepting response as-is)
+2026-04-15 03:30:04,664 - root - INFO - campaign_id=test_campaign_time_anomaly | 📝 SYSTEM_INSTRUCTION (301004 chars): # File: master_directive.md
+
+# Master Directive: WorldArchitect.AI Prompt Hierarchy
+**Version: 2.2**
+**Last Updated: 2026-04-13**
+
+## Critical Loading Order and Precedence
+
+This document establishes the authoritative hierarchy for all AI instructions in WorldArchitect.AI. When conflicts arise between instructions, this hierarchy determines which instruction takes precedence.
+
+### 1. CRITICAL FOUNDATION (Load First - Highest Authority)
+These instructions form the core operational framework and MUST be loaded before all others:
+
+1. **`game_state_instruction.md`** - State management protocol, JSON input/output schemas, and entity structures
+   - Authority over: All state updates, data persistence, timeline management, entity structures, JSON input validation
+   - Critical because: Without proper state management and structured communication, nothing else functions
+   - Includes JSON input schema for structured LLM communication
+
+2. **D&D 5E SRD Authority** (defined in this file, "D&D 5E SRD System Authority" section)
+   - Authority over: All combat, attributes, spells, and mechanical resolution
+   - Critical because: Establishes single mechanical system authority
+
+### 2. CORE MECHANICS (Load Second)
+These define the fundamental game rules:
+
+3. **`mechanics_system_instruction.md`** - System integration
+   - Authority over: Character design (when mechanics enabled), dice rolling, leveling tiers, mechanical processes
+   - Defers to: dnd_srd_instruction.md for core mechanics
+   - Special role: Triggers mandatory character design when mechanics checkbox is selected
+
+### 3. NARRATIVE FRAMEWORK (Load Third)
+These guide storytelling and interaction:
+
+4. **`narrative_system_instruction.md`** - Storytelling protocol
+   - Authority over: Think blocks, narrative flow, story progression
+   - Must respect: State management and mechanics from above
+
+### 3. TEMPLATES (Load When Needed)
+These are reference formats:
+
+5. **`character_template.md`** - Character personality and narrative d...
+2026-04-15 03:30:04,664 - root - INFO - campaign_id=test_campaign_time_anomaly | 📤 RAW_REQUEST (2029 chars; logged up to 20000): {"game_mode": "character", "user_id": "test-user-123", "selected_prompts": [], "use_default_world": false, "story_history": [], "core_memories": [], "sequence_ids": [], "checkpoint_block": "[CHECKPOINT BLOCK:]\\nSequence ID: N/A | Location: Bridge\\nMissions: None\\n", "entity_tracking": {"active_entities": [], "present_entities": [], "dormant_entities": []}, "game_state": {"game_state_version": 1, "player_character_data": {"experience": {"current": 0}}, "world_data": {"world_time": {"year": 1000, "month": 1, "day": 10, "hour": 10, "minute": 0, "second": 0, "microsecond": 0, "time_of_day": "morning"}, "current_location_name": "Bridge"}, "item_registry": {}, "custom_campaign_state": {"arc_milestones": {}, "companion_arcs": {}, "next_companion_arc_turn": 3, "active_constraints": [], "attribute_system": "D&D", "campaign_tier": "mortal", "divine_potential": 0, "universe_control": 0, "divine_upgrade_available": false, "multiverse_upgrade_available": false, "faction_minigame": {"suggestion_given": false, "strong_suggestion_given": false}, "_agent_selection_tracker": {"agent": "CharacterCreationAgent", "count": 1, "rewards_skip_count": 0}}, "social_hp_challenge": null, "combat_state": {"in_combat": false}, "last_state_update_timestamp": "2026-04-15T03:30:04.659445+00:00", "turn_number": 0, "player_turn": 0, "last_living_world_turn": 0, "last_living_world_time": {"year": 1000, "month": 1, "day": 10, "hour": 10, "minute": 0, "second": 0}, "time_sensitive_events": {}, "npc_agendas": {}, "world_resources": {}, "time_pressure_warnings": {}, "debug_mode": true, "pending_instruction_hints": [], "user_id": "test-user-123", "story_text": "Previous story content", "characters": ["Thorin"], "locations": ["Mountain Kingdom"], "items": ["Magic Sword"], "user_settings": {}, "campaign_id": "test_campaign_time_anomaly"}, "user_action": "I attack the goblin\n\n[SYSTEM ENFORCEMENT: For ANY dice roll, you MUST use the code_execution tool with random.randint(). Your code will be inspected. Fabricated dice = rejection.]"}
+2026-04-15 03:30:04,664 - root - INFO - campaign_id=test_campaign_time_anomaly | 📥 RAW_RESPONSE (427 chars; logged up to 20000): {"narrative": "Your blade strikes true.", "entities_mentioned": ["Goblin"], "location_confirmed": "Bridge", "session_header": "Session 1: The Bridge", "planning_block": {"thinking": "Resolve the hit.", "choices": {}}, "dice_rolls": ["Attack: 1d20+5 = 10+5 = 15 vs AC 12 (Hit)"], "dice_audit_events": [], "state_updates": {"world_data": {"world_time": {"year": 999, "month": 1, "day": 9, "hour": 10, "minute": 0, "second": 0}}}}
+2026-04-15 03:30:04,664 - root - INFO - campaign_id=test_campaign_time_anomaly | 📊 PARSED_RESPONSE: narrative_length=24, structured_response=present, raw_response_length=427
+2026-04-15 03:30:04,664 - root - INFO - campaign_id=test_campaign_time_anomaly | Comprehensive validation: 0/0 found, confidence: 1.00, warnings: 0
+2026-04-15 03:30:04,664 - root - INFO - campaign_id=test_campaign_time_anomaly | NarrativeSyncValidator delegated to EntityValidator: 0/1 found
+2026-04-15 03:30:04,664 - root - INFO - campaign_id=test_campaign_time_anomaly | ✅ Planning block found in JSON structured response
+2026-04-15 03:30:04,665 - root - INFO - campaign_id=test_campaign_time_anomaly | 📝 FINAL_RESPONSE: narrative_length=24, has_structured_response=True
+2026-04-15 03:30:04,665 - root - INFO - campaign_id=test_campaign_time_anomaly | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.01s
+2026-04-15 03:30:04,665 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | ❌ TEMPORAL_CORRECTION_FAILED: Max correction attempts (0) exceeded. Giving up and accepting response with backward time: 999, 1 9, 10:00 < 1000, 1 10, morning (10:00)
+2026-04-15 03:30:04,665 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | ⚠️ TEMPORAL_VIOLATION surfaced to user: 999, 1 9, 10:00 < 1000, 1 10, morning (10:00)
+2026-04-15 03:30:04,665 - root - INFO - campaign_id=test_campaign_time_anomaly | 🕐 TIME_FREEZE: Applied microsecond-only time advancement
+2026-04-15 03:30:04,665 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | CRITICAL SAFEGUARD: Intercepted direct overwrite on 'core_memories'. Converting to safe, deduplicated append.
+2026-04-15 03:30:04,665 - root - INFO - campaign_id=test_campaign_time_anomaly | APPEND/SAFEGUARD: Added 1 new items to 'core_memories'.
+2026-04-15 03:30:04,665 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:04,665 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:04,665 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:04,666 - root - INFO - campaign_id=test_campaign_time_anomaly | XP Validation applied corrections: {'valid': True, 'expected_level': 1, 'computed_level': 1}
+2026-04-15 03:30:04,667 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:04,667 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:04,667 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:04,667 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:04,667 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:04,667 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:04,667 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:04,667 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:04,667 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:04,667 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,667 - root - INFO - campaign_id=test_campaign_time_anomaly | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:04,667 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,667 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,667 - root - INFO - campaign_id=test_campaign_time_anomaly | ⏱️ LATENCY_PERSIST_START: Persisting state and story to Firestore
+2026-04-15 03:30:04,667 - root - INFO - campaign_id=test_campaign_time_anomaly | Successfully set new game state for campaign test_campaign_time_anomaly.
+2026-04-15 03:30:04,668 - root - INFO - campaign_id=test_campaign_time_anomaly | ✍️ Write completed: 0.000s, document_id: generated-id-1
+2026-04-15 03:30:04,768 - root - INFO - campaign_id=test_campaign_time_anomaly | ✅ VERIFICATION: Found document generated-id-1 on attempt 1
+2026-04-15 03:30:04,768 - root - INFO - campaign_id=test_campaign_time_anomaly | 📖 Verify-latest timing: 0.100s (checked latest 10 entries)
+2026-04-15 03:30:04,768 - root - INFO - campaign_id=test_campaign_time_anomaly | ⏱️ Write-then-read TOTAL latency: 0.101s (write: 0.000s, verify: 0.100s, sleep: 0.100s)
+2026-04-15 03:30:04,768 - root - INFO - campaign_id=test_campaign_time_anomaly | ✅ Write-then-read verification successful: user=test-user-123, campaign=test_campaign_time_anomaly, actor=user
+2026-04-15 03:30:04,768 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | Story entry contract validation warning (pre_write, campaign=test_campaign_time_anomaly, actor=gemini): dice_rolls.0: 'Attack: 1d20+5 = 10+5 = 15 vs AC 12 (Hit)' is not of type 'object'
+2026-04-15 03:30:04,769 - root - INFO - campaign_id=test_campaign_time_anomaly | ✍️ Write completed: 0.000s, document_id: generated-id-2
+2026-04-15 03:30:04,869 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | Story entry contract validation warning (read_back, campaign=test_campaign_time_anomaly, actor=gemini): dice_rolls.0: 'Attack: 1d20+5 = 10+5 = 15 vs AC 12 (Hit)' is not of type 'object'
+2026-04-15 03:30:04,869 - root - INFO - campaign_id=test_campaign_time_anomaly | ✅ VERIFICATION: Found document generated-id-2 on attempt 1
+2026-04-15 03:30:04,869 - root - INFO - campaign_id=test_campaign_time_anomaly | 📖 Verify-latest timing: 0.101s (checked latest 10 entries)
+2026-04-15 03:30:04,869 - root - INFO - campaign_id=test_campaign_time_anomaly | ⏱️ Write-then-read TOTAL latency: 0.101s (write: 0.000s, verify: 0.101s, sleep: 0.100s)
+2026-04-15 03:30:04,869 - root - INFO - campaign_id=test_campaign_time_anomaly | ✅ Write-then-read verification successful: user=test-user-123, campaign=test_campaign_time_anomaly, actor=gemini
+2026-04-15 03:30:04,870 - root - INFO - campaign_id=test_campaign_time_anomaly | ⏱️ LATENCY_PERSIST_END: Firestore persistence completed in 0.20s
+2026-04-15 03:30:04,870 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:04,870 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:04,870 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:04,870 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,870 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:04,870 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | SYSTEM WARNING: Applied one-time schema migration for legacy compatibility
+2026-04-15 03:30:04,870 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | SYSTEM WARNING: Level computed as 1 from XP
+2026-04-15 03:30:04,870 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | SYSTEM WARNING: Dice rolls missing for an action that required them. Consider retrying this action.
+2026-04-15 03:30:04,870 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | SYSTEM WARNING: Missing required fields: dice_rolls
+2026-04-15 03:30:04,870 - root - WARNING - ⚠️ campaign_id=test_campaign_time_anomaly | CRITICAL SAFEGUARD: Intercepted direct overwrite on 'core_memories'. Converting to safe, deduplicated append.
+2026-04-15 03:30:04,870 - root - INFO - campaign_id=test_campaign_time_anomaly | APPEND/SAFEGUARD: No new items were added to 'core_memories' (duplicates may have been found).
+2026-04-15 03:30:04,870 - root - INFO - campaign_id=test_campaign_time_anomaly | Successfully set new game state for campaign test_campaign_time_anomaly.
+2026-04-15 03:30:04,870 - root - INFO - campaign_id=test_campaign_time_anomaly | ⏱️ LATENCY_END: process_action_unified completed in 0.21s
+2026-04-15 03:30:04,870 - root - INFO - campaign_id=test_campaign_time_anomaly | ⏱️ LATENCY_FINAL: Total processing time 0.21s
+2026-04-15 03:30:04,871 - root - INFO - DEBUG: MCP process_action returned result: True
+2026-04-15 03:30:04,871 - root - INFO - MCP process_action result keys: ['success', 'story', 'narrative', 'response', 'game_state', 'mode', 'user_input', 'state_cleaned', 'entries_cleaned', 'sequence_id', 'user_scene_number', 'debug_mode', 'agent_mode', 'agent_used', 'budget_warnings', 'state_updates', 'entities_mentioned', 'location_confirmed', 'session_header', 'planning_block', 'dice_rolls', 'dice_audit_events', 'resources', 'tool_requests', 'action_resolution', 'outcome_resolution', 'debug_info', 'social_hp_challenge', 'god_mode_response', 'temporal_correction_warning', 'temporal_correction_attempts', 'system_warnings']
+2026-04-15 03:30:04,871 - root - INFO - Story field type: <class 'list'>, length: 1
+.
+----------------------------------------------------------------------
+Ran 4 tests in 0.684s
+
+OK
+/usr/lib/python3.12/asyncio/base_events.py:726: ResourceWarning: unclosed event loop <_UnixSelectorEventLoop running=False closed=False debug=False>
+RESULT: PASS
+DURATION: 2s
+END: 2026-04-15 03:30:05

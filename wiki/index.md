@@ -68,6 +68,23 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Self-Reflection Code Paper](sources/2410.21014-self-reflection-code-paper.md) — Dual-LLM collaborative code representation; semantic preservation
 - [Autonomous Scientific Research Paper](sources/2304.05332-autonomous-scientific-research-paper.md) — Multi-LLM autonomous experiment design; safety considerations
 
+### Remaining Arxiv Papers (15 papers)
+- [2308.03688 Agentless Paper](sources/2308.03688-swe-agent-paper.md) — Agentless: Demystifying LLM-based SE; simple single-prompt matches multi-agent on SWE-bench
+- [2310.12971 Reveal Evals Paper](sources/2310.12971-reveal-evals-paper.md) — DeepSeek-Coder-V2: MoE coding model; 236B/21B; 128K context; SOTA open-source
+- [2311.05964 AgentBench Paper](sources/2311.05964-agentbench-paper.md) — Multi-environment agent benchmark; commercial LLMs significantly ahead of open-source ≤70B
+- [2311.05964 Code Agents Paper](sources/2311.05964-code-agents-paper.md) — Code agent benchmark for AGI progress; multi-step reasoning and planning
+- [2403.19114 EvoEval Paper](sources/2403.19114-evoeval-paper.md) — Evolving benchmarks via LLM; 39.4% average drop; benchmark integrity concerns
+- [2405.04434 DeepSeek-V2 Paper](sources/2405.04434-deepseek-v2-paper.md) — MoE base model; 236B/21B; 93.3% KV cache reduction; 128K context
+- [2407.21787 Large Language Monkeys Paper](sources/2407.21787-large-language-monkeys-paper.md) — Repeated sampling scaling; SWE-bench 15.9%→56% with 250 samples
+- [2407.21787 ReAct Paper](sources/2407.21787-react-paper.md) — Synergizing reasoning and acting; 34% improvement on ALFWorld; foundation for tool-use agents
+- [2411.09529 MetaGPT Paper](sources/2411.09529-metagpt-paper.md) — Multi-agent SOP framework; assembly-line paradigm reduces cascading hallucinations
+- [2412.21130 OpenHands Paper](sources/2412.21130-openhands-paper.md) — Open platform for reproducible coding agent evaluation; SWE-bench, HumanEval integration
+- [2501.12599 Kimi k1.5 Paper](sources/2501.12599-kimi-k1-5-paper.md) — RL scaling for reasoning; 77.5 AIME, matches o1; Long2short distillation
+- [2511.18467 Shadows in Code Paper](sources/2511.18467-shadows-in-code-paper.md) — Multi-agent security: IMBIA attack; 93% attack rate on ChatDev; AAAI-2026
+- [2512.03262 Vibe Coding Safe Paper](sources/2512.03262-vibe-coding-safe-paper.md) — Only 10.5% of agent code is secure; SUSB VIBES benchmark
+- [2512.07022 Reformulate Retrieve Localize Paper](sources/2512.07022-reformulate-retrieve-localize-paper.md) — Bug localization agent; 35% better than BM25, +22% vs SWE-agent
+- [2512.20957 One Tool Is Enough Paper](sources/2512.20957-one-tool-is-enough-paper.md) — RepoNavigator RL agent; 7B > 14B, 14B > 32B; exceeds GPT-5
+
 ### 2025-2026 Recent Research
 - [Agentic Much Paper](sources/2601.18341-agentic-much-paper.md) — 22-28% coding agent adoption on GitHub; 128K projects; empirical study
 - [Coding Agents Over-Mocked Tests Paper](sources/2602.00409-coding-agents-over-mocked-tests-paper.md) — Agents use more mocks than humans; 23% vs 13% test file changes; 1.2M commits studied

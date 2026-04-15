@@ -1,0 +1,260 @@
+TESTFILE: mvp_site/tests/test_main_interaction_structured_fields.py
+START: 2026-04-15 03:30:35
+2026-04-15 03:30:35,376 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:30:35,775 - root - INFO - Applied clock skew patch: adjusting time by -720 seconds
+2026-04-15 03:30:36,232 - root - INFO - Loading service account from file: /dev/null
+2026-04-15 03:30:36,232 - root - WARNING - ⚠️ Failed to load credentials from file /dev/null: Expecting value: line 1 column 1 (char 0)
+2026-04-15 03:30:36,232 - root - INFO - Attempting to load service account from environment variables
+2026-04-15 03:30:36,232 - root - WARNING - ⚠️ Failed to load credentials from env vars: Missing required environment variables: GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY. Please set these variables in your environment (.env file, Claude.ai project settings, or GitHub Secrets). See module docstring for detailed instructions.
+2026-04-15 03:30:36,232 - root - WARNING - ⚠️ Failed to load explicit credentials: Failed to load service account credentials from any source. File path '/dev/null' not found or invalid. Environment variables missing or incomplete (need GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY).. Attempting default application credentials.
+2026-04-15 03:30:36,232 - root - INFO - Firebase initialized successfully in world_logic.py
+2026-04-15 03:30:36,232 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:36,232 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:36,233 - root - INFO - Schema doc cache initialized: 11 types, 0.13ms total
+2026-04-15 03:30:36,234 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:36,234 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:36,240 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:36,240 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:36,240 - root - INFO - Schema doc cache initialized: 11 types, 0.12ms total
+2026-04-15 03:30:36,241 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:36,241 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:36,249 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: handle_interaction START - testing mode removed
+2026-04-15 03:30:36,249 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: request data = {'input': 'Concurrent interaction 0', 'mode': 'character'}
+2026-04-15 03:30:36,250 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: user_input = Concurrent interaction 0 (KEY_USER_INPUT='input')
+2026-04-15 03:30:36,250 - root - INFO - campaign_id=mcp-structured-test-campaign | 🔄 PARALLEL I/O START: check_rate_limit [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:36,250 - root - INFO - MOCK_SERVICES_MODE enabled - creating singleton in-memory Firestore client
+2026-04-15 03:30:36,250 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: handle_interaction START - testing mode removed
+2026-04-15 03:30:36,250 - root - INFO - MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,250 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: request data = {'input': 'Concurrent interaction 1', 'mode': 'character'}
+2026-04-15 03:30:36,250 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: user_input = Concurrent interaction 1 (KEY_USER_INPUT='input')
+2026-04-15 03:30:36,250 - root - INFO - campaign_id=mcp-structured-test-campaign | 🔄 PARALLEL I/O START: check_rate_limit [concurrent=2, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:36,250 - root - INFO - MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,250 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: handle_interaction START - testing mode removed
+2026-04-15 03:30:36,250 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: request data = {'input': 'Concurrent interaction 2', 'mode': 'character'}
+2026-04-15 03:30:36,251 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: user_input = Concurrent interaction 2 (KEY_USER_INPUT='input')
+2026-04-15 03:30:36,251 - root - INFO - campaign_id=mcp-structured-test-campaign | 🔄 PARALLEL I/O START: check_rate_limit [concurrent=3, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:36,251 - root - INFO - campaign_id=mcp-structured-test-campaign | ✅ PARALLEL I/O END: check_rate_limit [duration=1.1ms, remaining=2]
+2026-04-15 03:30:36,251 - root - INFO - MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,251 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: Processing interaction - user_id=mcp-structured-fields-test-user, campaign_id=mcp-structured-test-campaign
+2026-04-15 03:30:36,251 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:36,251 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:36,251 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,251 - root - WARNING - ⚠️ campaign_id=mcp-structured-test-campaign | PREPARE_GAME_STATE: game_states subcollection absent for campaign mcp-structured-test-campaign — creating initial state. Living World will use empty context this turn.
+2026-04-15 03:30:36,251 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,251 - root - INFO - campaign_id=mcp-structured-test-campaign | Successfully set new game state for campaign mcp-structured-test-campaign.
+2026-04-15 03:30:36,251 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,251 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:36,251 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:36,251 - root - INFO - campaign_id=mcp-structured-test-campaign | ✅ PARALLEL I/O END: check_rate_limit [duration=1.2ms, remaining=1]
+2026-04-15 03:30:36,252 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: Processing interaction - user_id=mcp-structured-fields-test-user, campaign_id=mcp-structured-test-campaign
+2026-04-15 03:30:36,252 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:36,252 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,252 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:36,252 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,252 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,252 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:36,252 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:36,252 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,252 - root - INFO - campaign_id=mcp-structured-test-campaign | ✅ PARALLEL I/O END: check_rate_limit [duration=1.6ms, remaining=0]
+2026-04-15 03:30:36,252 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: Processing interaction - user_id=mcp-structured-fields-test-user, campaign_id=mcp-structured-test-campaign
+2026-04-15 03:30:36,252 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:36,252 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:36,252 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,252 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,253 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:36,253 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:36,253 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:36,253 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+2026-04-15 03:30:36,253 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,253 - root - INFO - DEBUG: MCP process_action returned result: False
+2026-04-15 03:30:36,253 - root - ERROR - 🔥🔴 DEBUG: MCP process_action failed: Campaign not found
+2026-04-15 03:30:36,253 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:36,253 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+2026-04-15 03:30:36,253 - root - INFO - DEBUG: MCP process_action returned result: False
+2026-04-15 03:30:36,253 - root - ERROR - 🔥🔴 DEBUG: MCP process_action failed: Campaign not found
+2026-04-15 03:30:36,254 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:36,254 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+2026-04-15 03:30:36,254 - root - INFO - DEBUG: MCP process_action returned result: False
+2026-04-15 03:30:36,254 - root - ERROR - 🔥🔴 DEBUG: MCP process_action failed: Campaign not found
+.2026-04-15 03:30:36,255 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:36,255 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:36,255 - root - INFO - Schema doc cache initialized: 11 types, 0.12ms total
+2026-04-15 03:30:36,256 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:36,256 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:36,262 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: handle_interaction START - testing mode removed
+2026-04-15 03:30:36,262 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: request data = {'input': 'I attack the goblin with my sword!', 'mode': 'character'}
+2026-04-15 03:30:36,262 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: user_input = I attack the goblin with my sword! (KEY_USER_INPUT='input')
+2026-04-15 03:30:36,262 - root - INFO - campaign_id=mcp-structured-test-campaign | 🔄 PARALLEL I/O START: check_rate_limit [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:36,262 - root - INFO - MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,262 - root - INFO - campaign_id=mcp-structured-test-campaign | ✅ PARALLEL I/O END: check_rate_limit [duration=0.3ms, remaining=0]
+2026-04-15 03:30:36,262 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: Processing interaction - user_id=mcp-structured-fields-test-user, campaign_id=mcp-structured-test-campaign
+2026-04-15 03:30:36,262 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:36,262 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:36,262 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,262 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,262 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:36,262 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:36,262 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,263 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:36,263 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+2026-04-15 03:30:36,263 - root - INFO - DEBUG: MCP process_action returned result: False
+2026-04-15 03:30:36,263 - root - ERROR - 🔥🔴 DEBUG: MCP process_action failed: Campaign not found
+.2026-04-15 03:30:36,263 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:36,263 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:36,263 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:36,264 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:36,264 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:36,270 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: handle_interaction START - testing mode removed
+2026-04-15 03:30:36,270 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: request data = {'input': 'I cast fireball at the orc chieftain!', 'mode': 'character'}
+2026-04-15 03:30:36,270 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: user_input = I cast fireball at the orc chieftain! (KEY_USER_INPUT='input')
+2026-04-15 03:30:36,270 - root - INFO - campaign_id=mcp-structured-test-campaign | 🔄 PARALLEL I/O START: check_rate_limit [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:36,270 - root - INFO - MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,270 - root - INFO - campaign_id=mcp-structured-test-campaign | ✅ PARALLEL I/O END: check_rate_limit [duration=0.2ms, remaining=0]
+2026-04-15 03:30:36,270 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: Processing interaction - user_id=mcp-structured-fields-test-user, campaign_id=mcp-structured-test-campaign
+2026-04-15 03:30:36,270 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:36,270 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:36,270 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,271 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,271 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:36,271 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:36,271 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,271 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:36,271 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+2026-04-15 03:30:36,271 - root - INFO - DEBUG: MCP process_action returned result: False
+2026-04-15 03:30:36,271 - root - ERROR - 🔥🔴 DEBUG: MCP process_action failed: Campaign not found
+.2026-04-15 03:30:36,271 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:36,271 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:36,271 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:36,272 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:36,272 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:36,278 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: handle_interaction START - testing mode removed
+2026-04-15 03:30:36,278 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: request data = {'input': 'Check my inventory and abilities', 'mode': 'character'}
+2026-04-15 03:30:36,278 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: user_input = Check my inventory and abilities (KEY_USER_INPUT='input')
+2026-04-15 03:30:36,278 - root - INFO - campaign_id=mcp-structured-test-campaign | 🔄 PARALLEL I/O START: check_rate_limit [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:36,278 - root - INFO - MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,278 - root - INFO - campaign_id=mcp-structured-test-campaign | ✅ PARALLEL I/O END: check_rate_limit [duration=0.2ms, remaining=0]
+2026-04-15 03:30:36,278 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: Processing interaction - user_id=mcp-structured-fields-test-user, campaign_id=mcp-structured-test-campaign
+2026-04-15 03:30:36,278 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:36,278 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:36,278 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,278 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,278 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:36,278 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:36,278 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,278 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:36,278 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+2026-04-15 03:30:36,278 - root - INFO - DEBUG: MCP process_action returned result: False
+2026-04-15 03:30:36,279 - root - ERROR - 🔥🔴 DEBUG: MCP process_action failed: Campaign not found
+.2026-04-15 03:30:36,279 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:36,279 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:36,279 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:36,280 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:36,280 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:36,285 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: handle_interaction START - testing mode removed
+2026-04-15 03:30:36,285 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: request data = {'input': 'Test input for character mode', 'mode': 'character'}
+2026-04-15 03:30:36,285 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: user_input = Test input for character mode (KEY_USER_INPUT='input')
+2026-04-15 03:30:36,285 - root - INFO - campaign_id=mcp-structured-test-campaign | 🔄 PARALLEL I/O START: check_rate_limit [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:36,285 - root - INFO - MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,286 - root - INFO - campaign_id=mcp-structured-test-campaign | ✅ PARALLEL I/O END: check_rate_limit [duration=0.2ms, remaining=0]
+2026-04-15 03:30:36,286 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: Processing interaction - user_id=mcp-structured-fields-test-user, campaign_id=mcp-structured-test-campaign
+2026-04-15 03:30:36,286 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:36,286 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:36,286 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,286 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,286 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:36,286 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:36,286 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,286 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:36,286 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+2026-04-15 03:30:36,286 - root - INFO - DEBUG: MCP process_action returned result: False
+2026-04-15 03:30:36,286 - root - ERROR - 🔥🔴 DEBUG: MCP process_action failed: Campaign not found
+2026-04-15 03:30:36,287 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: handle_interaction START - testing mode removed
+2026-04-15 03:30:36,287 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: request data = {'input': 'Test input for dm mode', 'mode': 'dm'}
+2026-04-15 03:30:36,287 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: user_input = Test input for dm mode (KEY_USER_INPUT='input')
+2026-04-15 03:30:36,287 - root - INFO - campaign_id=mcp-structured-test-campaign | 🔄 PARALLEL I/O START: check_rate_limit [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:36,287 - root - INFO - MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,287 - root - INFO - campaign_id=mcp-structured-test-campaign | ✅ PARALLEL I/O END: check_rate_limit [duration=0.2ms, remaining=0]
+2026-04-15 03:30:36,287 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: Processing interaction - user_id=mcp-structured-fields-test-user, campaign_id=mcp-structured-test-campaign
+2026-04-15 03:30:36,287 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:36,287 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:36,287 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,287 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,287 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:36,287 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:36,287 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,287 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:36,287 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+2026-04-15 03:30:36,287 - root - INFO - DEBUG: MCP process_action returned result: False
+2026-04-15 03:30:36,287 - root - ERROR - 🔥🔴 DEBUG: MCP process_action failed: Campaign not found
+2026-04-15 03:30:36,288 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: handle_interaction START - testing mode removed
+2026-04-15 03:30:36,288 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: request data = {'input': 'Test input for god mode', 'mode': 'god'}
+2026-04-15 03:30:36,288 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: user_input = Test input for god mode (KEY_USER_INPUT='input')
+2026-04-15 03:30:36,288 - root - INFO - campaign_id=mcp-structured-test-campaign | 🔄 PARALLEL I/O START: check_rate_limit [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:36,288 - root - INFO - MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,288 - root - INFO - campaign_id=mcp-structured-test-campaign | ✅ PARALLEL I/O END: check_rate_limit [duration=0.1ms, remaining=0]
+2026-04-15 03:30:36,288 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: Processing interaction - user_id=mcp-structured-fields-test-user, campaign_id=mcp-structured-test-campaign
+2026-04-15 03:30:36,288 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:36,288 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:36,288 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,288 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,288 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:36,289 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:36,289 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,289 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:36,289 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+2026-04-15 03:30:36,289 - root - INFO - DEBUG: MCP process_action returned result: False
+2026-04-15 03:30:36,289 - root - ERROR - 🔥🔴 DEBUG: MCP process_action failed: Campaign not found
+.2026-04-15 03:30:36,289 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:36,289 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:36,289 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:36,290 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:36,290 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:36,296 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: handle_interaction START - testing mode removed
+2026-04-15 03:30:36,296 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: request data = {'input': '', 'mode': 'character'}
+2026-04-15 03:30:36,296 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: user_input =  (KEY_USER_INPUT='input')
+2026-04-15 03:30:36,296 - root - INFO - campaign_id=mcp-structured-test-campaign | 🔄 PARALLEL I/O START: check_rate_limit [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:36,296 - root - INFO - MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,296 - root - INFO - campaign_id=mcp-structured-test-campaign | ✅ PARALLEL I/O END: check_rate_limit [duration=0.3ms, remaining=0]
+2026-04-15 03:30:36,296 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: Processing interaction - user_id=mcp-structured-fields-test-user, campaign_id=mcp-structured-test-campaign
+2026-04-15 03:30:36,296 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:36,296 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:36,296 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,296 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,296 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:36,296 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:36,297 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,297 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:36,297 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+2026-04-15 03:30:36,297 - root - INFO - DEBUG: MCP process_action returned result: False
+2026-04-15 03:30:36,297 - root - ERROR - 🔥🔴 DEBUG: MCP process_action failed: Campaign not found
+.2026-04-15 03:30:36,297 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:36,297 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:36,297 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:36,298 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:36,298 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:36,303 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: handle_interaction START - testing mode removed
+2026-04-15 03:30:36,304 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: request data = {'input': 'Show me my character sheet and combat stats', 'mode': 'character'}
+2026-04-15 03:30:36,304 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: user_input = Show me my character sheet and combat stats (KEY_USER_INPUT='input')
+2026-04-15 03:30:36,304 - root - INFO - campaign_id=mcp-structured-test-campaign | 🔄 PARALLEL I/O START: check_rate_limit [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:36,304 - root - INFO - MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,304 - root - INFO - campaign_id=mcp-structured-test-campaign | ✅ PARALLEL I/O END: check_rate_limit [duration=0.3ms, remaining=0]
+2026-04-15 03:30:36,304 - root - INFO - campaign_id=mcp-structured-test-campaign | DEBUG: Processing interaction - user_id=mcp-structured-fields-test-user, campaign_id=mcp-structured-test-campaign
+2026-04-15 03:30:36,304 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:36,304 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:36,304 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,304 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,304 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:36,304 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:36,304 - root - INFO - campaign_id=mcp-structured-test-campaign | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:36,304 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:36,305 - root - INFO - campaign_id=mcp-structured-test-campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+2026-04-15 03:30:36,305 - root - INFO - DEBUG: MCP process_action returned result: False
+2026-04-15 03:30:36,305 - root - ERROR - 🔥🔴 DEBUG: MCP process_action failed: Campaign not found
+.
+----------------------------------------------------------------------
+Ran 7 tests in 0.065s
+
+OK
+RESULT: PASS
+DURATION: 1s
+END: 2026-04-15 03:30:36

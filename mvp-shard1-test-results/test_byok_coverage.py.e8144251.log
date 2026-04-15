@@ -1,0 +1,6 @@
+TESTFILE: mvp_site/tests/test_byok_coverage.py
+START: 2026-04-15 03:29:44
+2026-04-15 03:29:44,413 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+RESULT: PASS
+DURATION: 1s
+END: 2026-04-15 03:29:45

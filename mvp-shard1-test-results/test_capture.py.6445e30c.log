@@ -1,0 +1,11 @@
+TESTFILE: mvp_site/testing_framework/tests/test_capture.py
+START: 2026-04-15 03:29:40
+2026-04-15 03:29:40,719 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+..............
+----------------------------------------------------------------------
+Ran 14 tests in 0.003s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:29:40

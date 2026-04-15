@@ -1,0 +1,27 @@
+TESTFILE: mvp_site/tests/test_campaign_pagination.py
+START: 2026-04-15 03:29:46
+2026-04-15 03:29:46,991 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:29:47,085 - root - INFO - Applied clock skew patch: adjusting time by -720 seconds
+2026-04-15 03:29:47,853 - root - INFO - Loading service account from file: /dev/null
+2026-04-15 03:29:47,853 - root - WARNING - ⚠️ Failed to load credentials from file /dev/null: Expecting value: line 1 column 1 (char 0)
+2026-04-15 03:29:47,854 - root - INFO - Attempting to load service account from environment variables
+2026-04-15 03:29:47,854 - root - WARNING - ⚠️ Failed to load credentials from env vars: Missing required environment variables: GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY. Please set these variables in your environment (.env file, Claude.ai project settings, or GitHub Secrets). See module docstring for detailed instructions.
+2026-04-15 03:29:47,854 - root - WARNING - ⚠️ Failed to load explicit credentials: Failed to load service account credentials from any source. File path '/dev/null' not found or invalid. Environment variables missing or incomplete (need GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY).. Attempting default application credentials.
+2026-04-15 03:29:47,854 - root - INFO - Firebase initialized successfully in world_logic.py
+2026-04-15 03:29:47,870 - root - WARNING - ⚠️ Error using cursor for pagination: Doc not found
+🧪 Running Campaign Pagination Tests...
+================================================================================
+✅ PASS: Default limit is 50
+✅ PASS: Custom limit
+✅ PASS: Select minimal fields
+✅ PASS: No more results
+✅ PASS: Cursor structure
+✅ PASS: get_campaigns_list_unified pagination
+✅ PASS: get_campaigns_list_unified no more
+✅ PASS: Cursor fallback duplicate timestamps
+================================================================================
+Test Summary: 8/8 passed
+✅ All tests passed!
+RESULT: PASS
+DURATION: 2s
+END: 2026-04-15 03:29:48

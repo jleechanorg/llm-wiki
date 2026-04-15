@@ -1,0 +1,6 @@
+TESTFILE: mvp_site/tests/test_streaming_empty_response.py
+START: 2026-04-15 03:30:41
+2026-04-15 03:30:41,518 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+RESULT: PASS
+DURATION: 1s
+END: 2026-04-15 03:30:42

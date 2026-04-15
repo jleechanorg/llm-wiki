@@ -1,0 +1,30 @@
+TESTFILE: mvp_site/tests/test_world_time_progression.py
+START: 2026-04-15 03:30:48
+2026-04-15 03:30:48,764 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:30:48,764 - root - INFO - Applied clock skew patch: adjusting time by -720 seconds
+2026-04-15 03:30:49,717 - root - INFO - Loading service account from file: /dev/null
+2026-04-15 03:30:49,717 - root - WARNING - ⚠️ Failed to load credentials from file /dev/null: Expecting value: line 1 column 1 (char 0)
+2026-04-15 03:30:49,717 - root - INFO - Attempting to load service account from environment variables
+2026-04-15 03:30:49,717 - root - WARNING - ⚠️ Failed to load credentials from env vars: Missing required environment variables: GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY. Please set these variables in your environment (.env file, Claude.ai project settings, or GitHub Secrets). See module docstring for detailed instructions.
+2026-04-15 03:30:49,717 - root - WARNING - ⚠️ Failed to load explicit credentials: Failed to load service account credentials from any source. File path '/dev/null' not found or invalid. Environment variables missing or incomplete (need GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY).. Attempting default application credentials.
+2026-04-15 03:30:49,717 - root - INFO - Firebase initialized successfully in world_logic.py
+============================= test session starts ==============================
+platform linux -- Python 3.12.3, pytest-9.0.3, pluggy-1.6.0
+rootdir: /_work/worldarchitect.ai/worldarchitect.ai/mvp_site
+configfile: pytest.ini
+plugins: cov-7.1.0, anyio-4.13.0, testmon-2.2.0, timeout-2.4.0
+collected 61 items
+
+mvp_site/tests/test_world_time_progression.py .......................... [ 42%]
+...................................                                      [100%]
+
+=============================== warnings summary ===============================
+venv/lib/python3.12/site-packages/_pytest/config/__init__.py:1309
+  /_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/_pytest/config/__init__.py:1309: PytestAssertRewriteWarning: Module already imported so cannot be rewritten; anyio
+    self._mark_plugins_for_rewrite(hook, disable_autoload)
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+======================== 61 passed, 1 warning in 0.07s =========================
+RESULT: PASS
+DURATION: 2s
+END: 2026-04-15 03:30:50

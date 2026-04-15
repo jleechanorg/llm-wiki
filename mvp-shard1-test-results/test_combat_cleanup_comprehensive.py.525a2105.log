@@ -1,0 +1,79 @@
+TESTFILE: mvp_site/tests/test_combat_cleanup_comprehensive.py
+START: 2026-04-15 03:29:50
+2026-04-15 03:29:50,729 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:29:50,839 - root - INFO - Applied clock skew patch: adjusting time by -720 seconds
+2026-04-15 03:29:51,586 - root - INFO - Loading service account from file: /dev/null
+2026-04-15 03:29:51,586 - root - WARNING - ⚠️ Failed to load credentials from file /dev/null: Expecting value: line 1 column 1 (char 0)
+2026-04-15 03:29:51,586 - root - INFO - Attempting to load service account from environment variables
+2026-04-15 03:29:51,586 - root - WARNING - ⚠️ Failed to load credentials from env vars: Missing required environment variables: GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY. Please set these variables in your environment (.env file, Claude.ai project settings, or GitHub Secrets). See module docstring for detailed instructions.
+2026-04-15 03:29:51,586 - root - WARNING - ⚠️ Failed to load explicit credentials: Failed to load service account credentials from any source. File path '/dev/null' not found or invalid. Environment variables missing or incomplete (need GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY).. Attempting default application credentials.
+2026-04-15 03:29:51,586 - root - INFO - Firebase initialized successfully in world_logic.py
+test_automatic_cleanup_via_state_updates_hp_defeat (__main__.TestCombatCleanupComprehensive.test_automatic_cleanup_via_state_updates_hp_defeat)
+Test: Enemy defeated via AI HP update should be automatically cleaned up. ... 2026-04-15 03:29:51,587 - root - INFO - COMBAT STARTED - Participants: ['Hero', 'Orc Warrior', 'Goblin']
+2026-04-15 03:29:51,587 - root - INFO - COMBAT INITIALIZED - Initiative order: ['Hero(18)', 'Orc Warrior(14)', 'Goblin(12)']
+2026-04-15 03:29:51,587 - root - INFO - COMBAT CLEANUP: Marking Orc Warrior (enemy) as defeated
+2026-04-15 03:29:51,587 - root - INFO - COMBAT CLEANUP: Removed Orc Warrior from combat_state.combatants
+2026-04-15 03:29:51,587 - root - INFO - COMBAT CLEANUP: Removed Orc Warrior from npc_data (generic enemy)
+2026-04-15 03:29:51,587 - root - INFO - AUTOMATIC CLEANUP: Defeated enemies removed: ['Orc Warrior']
+ok
+test_cleanup_without_explicit_combat_state_changes (__main__.TestCombatCleanupComprehensive.test_cleanup_without_explicit_combat_state_changes)
+Test: Cleanup should trigger even when combat_state isn't explicitly in proposed_changes. ... 2026-04-15 03:29:51,587 - root - INFO - COMBAT STARTED - Participants: ['Ranger', 'Troll']
+2026-04-15 03:29:51,588 - root - INFO - COMBAT INITIALIZED - Initiative order: ['Ranger(16)', 'Troll(8)']
+2026-04-15 03:29:51,588 - root - INFO - COMBAT CLEANUP: Marking Troll (enemy) as defeated
+2026-04-15 03:29:51,588 - root - INFO - COMBAT CLEANUP: Removed Troll from combat_state.combatants
+2026-04-15 03:29:51,588 - root - INFO - COMBAT CLEANUP: Removed Troll from npc_data (generic enemy)
+2026-04-15 03:29:51,588 - root - INFO - AUTOMATIC CLEANUP: Defeated enemies removed: ['Troll']
+ok
+test_combat_end_with_pre_defeated_enemies (__main__.TestCombatCleanupComprehensive.test_combat_end_with_pre_defeated_enemies)
+Test: When combat ends and there are already defeated enemies, they should be cleaned up. ... 2026-04-15 03:29:51,588 - root - INFO - COMBAT STARTED - Participants: ['Player', 'Dead Orc', 'Living Wolf']
+2026-04-15 03:29:51,588 - root - INFO - COMBAT INITIALIZED - Initiative order: ['Player(15)', 'Dead Orc(12)', 'Living Wolf(10)']
+2026-04-15 03:29:51,588 - root - INFO - COMBAT CLEANUP: Marking Dead Orc (enemy) as defeated
+2026-04-15 03:29:51,588 - root - INFO - COMBAT CLEANUP: Removed Dead Orc from combat_state.combatants
+2026-04-15 03:29:51,588 - root - INFO - COMBAT CLEANUP: Removed Dead Orc from npc_data (generic enemy)
+2026-04-15 03:29:51,588 - root - INFO - AUTOMATIC CLEANUP: Defeated enemies removed: ['Dead Orc']
+ok
+test_multiple_enemies_defeated_same_turn (__main__.TestCombatCleanupComprehensive.test_multiple_enemies_defeated_same_turn)
+Test: Multiple enemies defeated in the same AI response should all be cleaned up. ... 2026-04-15 03:29:51,588 - root - INFO - COMBAT STARTED - Participants: ['Wizard', 'Goblin A', 'Goblin B', 'Orc Chief']
+2026-04-15 03:29:51,588 - root - INFO - COMBAT INITIALIZED - Initiative order: ['Wizard(20)', 'Goblin A(15)', 'Goblin B(14)', 'Orc Chief(13)']
+2026-04-15 03:29:51,588 - root - INFO - COMBAT CLEANUP: Marking Goblin A (enemy) as defeated
+2026-04-15 03:29:51,588 - root - INFO - COMBAT CLEANUP: Marking Goblin B (enemy) as defeated
+2026-04-15 03:29:51,588 - root - INFO - COMBAT CLEANUP: Removed Goblin A from combat_state.combatants
+2026-04-15 03:29:51,588 - root - INFO - COMBAT CLEANUP: Removed Goblin A from npc_data (generic enemy)
+2026-04-15 03:29:51,588 - root - INFO - COMBAT CLEANUP: Removed Goblin B from combat_state.combatants
+2026-04-15 03:29:51,588 - root - INFO - COMBAT CLEANUP: Removed Goblin B from npc_data (generic enemy)
+2026-04-15 03:29:51,588 - root - INFO - AUTOMATIC CLEANUP: Defeated enemies removed: ['Goblin A', 'Goblin B']
+ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK
+Running comprehensive combat cleanup tests
+These tests verify the automatic cleanup system works correctly
+======================================================================
+
+Testing: Automatic cleanup via HP state updates
+Initial combatants: ['Hero', 'Orc Warrior', 'Goblin']
+Initial NPC data: ['Orc Warrior', 'Goblin', 'Merchant']
+AI proposed changes: {'combat_state': {'combatants': {'Orc Warrior': {'hp_current': 0, 'status': ['bloodied', 'unconscious']}}}}
+After automatic cleanup - Combatants: ['Hero', 'Goblin']
+After automatic cleanup - NPCs: ['Goblin', 'Merchant']
+
+Testing: Cleanup without explicit combat state changes
+Before update - Troll HP: 0
+Before update - Combatants: ['Ranger', 'Troll']
+After update - Combatants: ['Ranger']
+
+Testing: Combat end with pre-defeated enemies
+Before combat end - Combatants: ['Player', 'Dead Orc', 'Living Wolf']
+Dead Orc HP: 0
+After combat end - In combat: False
+After combat end - Combatants: ['Player', 'Living Wolf']
+
+Testing: Multiple simultaneous defeats
+Before fireball - Combatants: ['Wizard', 'Goblin A', 'Goblin B', 'Orc Chief']
+After fireball - Combatants: ['Wizard', 'Orc Chief']
+After fireball - NPCs: ['Orc Chief', 'Village Elder']
+RESULT: PASS
+DURATION: 1s
+END: 2026-04-15 03:29:51

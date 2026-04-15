@@ -1,0 +1,17 @@
+TESTFILE: mvp_site/tests/test_v1_vs_v2_campaign_comparison.py
+START: 2026-04-15 03:30:45
+2026-04-15 03:30:45,948 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+setUpClass (__main__.V1VsV2CampaignComparisonTest) ... skipped 'V1 server not available for testing'
+
+----------------------------------------------------------------------
+Ran 0 tests in 0.001s
+
+OK (skipped=1)
+🔬 V1 vs V2 Campaign Creation Comparison Test Suite
+============================================================
+📁 Evidence directories created in: /tmp/v1_vs_v2_test_evidence_test_branch_0mh4g0b1
+📋 Test Matrix Generated: 39 test combinations
+❌ V1 server not available at http://localhost:8081: HTTPConnectionPool(host='localhost', port=8081): Max retries exceeded with url: /health (Caused by NewConnectionError("HTTPConnection(host='localhost', port=8081): Failed to establish a new connection: [Errno 111] Connection refused"))
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:30:45

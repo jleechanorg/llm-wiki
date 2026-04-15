@@ -1,0 +1,18 @@
+TESTFILE: mvp_site/tests/test_rev_0g1y_inconsistent_detection.py
+START: 2026-04-15 03:30:38
+2026-04-15 03:30:38,699 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:30:38,699 - root - INFO - Applied clock skew patch: adjusting time by -720 seconds
+2026-04-15 03:30:39,709 - root - INFO - Loading service account from file: /dev/null
+2026-04-15 03:30:39,710 - root - WARNING - ⚠️ Failed to load credentials from file /dev/null: Expecting value: line 1 column 1 (char 0)
+2026-04-15 03:30:39,710 - root - INFO - Attempting to load service account from environment variables
+2026-04-15 03:30:39,710 - root - WARNING - ⚠️ Failed to load credentials from env vars: Missing required environment variables: GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY. Please set these variables in your environment (.env file, Claude.ai project settings, or GitHub Secrets). See module docstring for detailed instructions.
+2026-04-15 03:30:39,710 - root - WARNING - ⚠️ Failed to load explicit credentials: Failed to load service account credentials from any source. File path '/dev/null' not found or invalid. Environment variables missing or incomplete (need GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY).. Attempting default application credentials.
+2026-04-15 03:30:39,710 - root - INFO - Firebase initialized successfully in world_logic.py
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK
+RESULT: PASS
+DURATION: 1s
+END: 2026-04-15 03:30:39

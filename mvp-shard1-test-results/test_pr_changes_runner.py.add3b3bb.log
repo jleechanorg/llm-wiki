@@ -1,0 +1,25 @@
+TESTFILE: mvp_site/tests/test_pr_changes_runner.py
+START: 2026-04-15 03:30:37
+2026-04-15 03:30:37,654 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+
+=== Testing Debug Mode Default Change ===
+✓ GameState defaults to debug_mode=True
+✓ GameState can be set to debug_mode=False
+✓ debug_mode is included in serialization
+✓ debug_mode is preserved in deserialization
+✓ debug_mode defaults to True when missing from deserialization
+
+=== Testing Entity Schema Constant ===
+✓ Entity schema has been properly integrated into game_state instructions
+
+=== Testing Manifest Cache Exclusion ===
+✓ Internal attributes starting with _ are excluded from serialization
+
+=== Testing Entity ID Format ===
+✓ PC entity ID format correct: pc_test_hero_001
+✓ NPC entity ID format correct: npc_guard_captain_001
+
+=== All PR Change Tests Passed! ===
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:30:37

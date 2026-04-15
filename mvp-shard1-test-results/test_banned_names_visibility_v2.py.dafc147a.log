@@ -1,0 +1,18 @@
+TESTFILE: mvp_site/tests/test_banned_names_visibility_v2.py
+START: 2026-04-15 03:29:44
+2026-04-15 03:29:44,301 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:29:44,303 - root - INFO - Cache MISS for banned_names.md: loaded and cached 1368 characters (~342 tokens)
+.2026-04-15 03:29:44,303 - root - INFO - Looking for world content at: /_work/worldarchitect.ai/worldarchitect.ai/mvp_site/world/world_assiah_compressed.md
+2026-04-15 03:29:44,303 - root - INFO - Cache MISS for world_assiah_compressed.md: loaded and cached 38870 characters (~9717 tokens)
+2026-04-15 03:29:44,303 - root - INFO - Cache HIT for banned_names.md: 1368 characters (~342 tokens)
+.2026-04-15 03:29:44,303 - root - INFO - Looking for world content at: /_work/worldarchitect.ai/worldarchitect.ai/mvp_site/world/world_assiah_compressed.md
+2026-04-15 03:29:44,303 - root - INFO - Cache HIT for world_assiah_compressed.md: 38870 characters (~9717 tokens)
+2026-04-15 03:29:44,303 - root - INFO - Cache HIT for banned_names.md: 1368 characters (~342 tokens)
+.
+----------------------------------------------------------------------
+Ran 3 tests in 0.001s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:29:44

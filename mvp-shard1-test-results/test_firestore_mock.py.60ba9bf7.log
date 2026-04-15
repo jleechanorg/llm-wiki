@@ -1,0 +1,13 @@
+TESTFILE: mvp_site/tests/test_firestore_mock.py
+START: 2026-04-15 03:30:23
+<frozen importlib._bootstrap>:488: DeprecationWarning: Type google._upb._message.MessageMapContainer uses PyType_Spec with a metaclass that has custom tp_new. This is deprecated and will no longer be allowed in Python 3.14.
+<frozen importlib._bootstrap>:488: DeprecationWarning: Type google._upb._message.ScalarMapContainer uses PyType_Spec with a metaclass that has custom tp_new. This is deprecated and will no longer be allowed in Python 3.14.
+2026-04-15 03:30:23,989 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.150s
+
+OK
+RESULT: PASS
+DURATION: 1s
+END: 2026-04-15 03:30:24

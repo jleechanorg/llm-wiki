@@ -1,0 +1,27 @@
+TESTFILE: mvp_site/tests/test_preflight_model_docker.py
+START: 2026-04-15 03:30:37
+ERROR: Model download failed: 503 Service Unavailable
+...ERROR: FASTEMBED_GCS_REQUIRED=true but FASTEMBED_GCS_ARCHIVE_URI is unset
+....ERROR: FASTEMBED_GCS_REQUIRED=true and GCS restore failed (e.g. missing google-cloud-storage)
+./usr/lib/python3.12/tarfile.py:2274: DeprecationWarning: Python 3.14 will, by default, filter extracted tar archives and reject files or modify their metadata. Use the filter argument to control this behavior.
+  warnings.warn(
+..
+----------------------------------------------------------------------
+Ran 10 tests in 0.003s
+
+OK
+Using cache directory: /tmp/tmp2pfqeu4x/cache
+Validating cached model BAAI/bge-small-en-v1.5 (local-only mode)...
+WARNING: Local cache validation failed, falling back to direct download: cache miss
+Downloading model BAAI/bge-small-en-v1.5 from HuggingFace...
+WARNING: Model download attempt 1/2 failed: 503 Service Unavailable
+Using cache directory: /tmp/tmps4v5rvop/cache
+Validating cached model BAAI/bge-small-en-v1.5 (local-only mode)...
+WARNING: Local cache validation failed, falling back to direct download: cache miss
+Downloading model BAAI/bge-small-en-v1.5 from HuggingFace...
+WARNING: Model download attempt 1/2 failed: 503 Service Unavailable
+Model downloaded and validated successfully
+Using cache directory: /tmp/tmp_gozwc7g/cache
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:30:37

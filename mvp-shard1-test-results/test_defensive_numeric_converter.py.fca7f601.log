@@ -1,0 +1,58 @@
+TESTFILE: mvp_site/tests/test_defensive_numeric_converter.py
+START: 2026-04-15 03:29:54
+2026-04-15 03:29:54,988 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:29:55,005 - root - WARNING - ⚠️ Invalid value 'unknown' for field 'hp'. Using default: 1
+2026-04-15 03:29:55,005 - root - WARNING - ⚠️ Invalid value 'None' for field 'hp_max'. Using default: 1
+2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Failed to convert 'invalid' to int for field 'strength'. Using default: 10
+2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Invalid value 'unknown' for field 'dexterity'. Using default: 10
+.2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Invalid value 'unknown' for field 'hp'. Using default: 1
+2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Invalid value 'Unknown' for field 'hp'. Using default: 1
+2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Invalid value 'UNKNOWN' for field 'hp'. Using default: 1
+2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Invalid value 'None' for field 'hp'. Using default: 1
+2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Failed to convert 'invalid' to int for field 'hp'. Using default: 1
+2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Invalid value 'unknown' for field 'hp_max'. Using default: 1
+2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Invalid value 'None' for field 'hp_max'. Using default: 1
+2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Invalid value 'unknown' for field 'temp_hp'. Using default: 0
+2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Invalid value 'None' for field 'temp_hp'. Using default: 0
+.2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Invalid value 'unknown' for field 'level'. Using default: 1
+2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Invalid value 'None' for field 'level'. Using default: 1
+2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Failed to convert 'invalid' to int for field 'level'. Using default: 1
+.2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Invalid value 'unknown' for field 'gold'. Using default: 0
+2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Invalid value 'unknown' for field 'initiative'. Using default: 0
+2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Invalid value 'None' for field 'initiative'. Using default: 0
+....2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Invalid value 'unknown' for field 'strength'. Using default: 10
+2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Invalid value 'None' for field 'strength'. Using default: 10
+2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Failed to convert 'invalid' to int for field 'strength'. Using default: 10
+2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Invalid value 'unknown' for field 'dexterity'. Using default: 10
+2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Invalid value 'None' for field 'dexterity'. Using default: 10
+2026-04-15 03:29:55,006 - root - WARNING - ⚠️ Failed to convert 'invalid' to int for field 'dexterity'. Using default: 10
+2026-04-15 03:29:55,007 - root - WARNING - ⚠️ Invalid value 'unknown' for field 'constitution'. Using default: 10
+2026-04-15 03:29:55,007 - root - WARNING - ⚠️ Invalid value 'None' for field 'constitution'. Using default: 10
+2026-04-15 03:29:55,007 - root - WARNING - ⚠️ Failed to convert 'invalid' to int for field 'constitution'. Using default: 10
+2026-04-15 03:29:55,007 - root - WARNING - ⚠️ Invalid value 'unknown' for field 'intelligence'. Using default: 10
+2026-04-15 03:29:55,007 - root - WARNING - ⚠️ Invalid value 'None' for field 'intelligence'. Using default: 10
+2026-04-15 03:29:55,007 - root - WARNING - ⚠️ Failed to convert 'invalid' to int for field 'intelligence'. Using default: 10
+2026-04-15 03:29:55,007 - root - WARNING - ⚠️ Invalid value 'unknown' for field 'wisdom'. Using default: 10
+2026-04-15 03:29:55,007 - root - WARNING - ⚠️ Invalid value 'None' for field 'wisdom'. Using default: 10
+2026-04-15 03:29:55,007 - root - WARNING - ⚠️ Failed to convert 'invalid' to int for field 'wisdom'. Using default: 10
+2026-04-15 03:29:55,007 - root - WARNING - ⚠️ Invalid value 'unknown' for field 'charisma'. Using default: 10
+2026-04-15 03:29:55,007 - root - WARNING - ⚠️ Invalid value 'None' for field 'charisma'. Using default: 10
+2026-04-15 03:29:55,007 - root - WARNING - ⚠️ Failed to convert 'invalid' to int for field 'charisma'. Using default: 10
+.2026-04-15 03:29:55,007 - root - WARNING - ⚠️ Invalid value 'unknown' for field 'level'. Using default: 1
+.2026-04-15 03:29:55,007 - root - WARNING - ⚠️ Invalid value 'unknown' for field 'hp'. Using default: 1
+2026-04-15 03:29:55,007 - root - WARNING - ⚠️ Invalid value 'None' for field 'hp_max'. Using default: 1
+2026-04-15 03:29:55,007 - root - WARNING - ⚠️ Failed to convert 'invalid' to int for field 'temp_hp'. Using default: 0
+.2026-04-15 03:29:55,007 - root - WARNING - ⚠️ Invalid value 'unknown' for field 'hp_max'. Using default: 1
+2026-04-15 03:29:55,007 - root - WARNING - ⚠️ Invalid value 'unknown' for field 'hp'. Using default: 1
+.2026-04-15 03:29:55,007 - root - WARNING - ⚠️ Invalid value 'unknown' for field 'strength'. Using default: 10
+2026-04-15 03:29:55,007 - root - WARNING - ⚠️ Invalid value 'None' for field 'dexterity'. Using default: 10
+2026-04-15 03:29:55,007 - root - WARNING - ⚠️ Failed to convert 'invalid' to int for field 'constitution'. Using default: 10
+.
+----------------------------------------------------------------------
+Ran 12 tests in 0.002s
+
+OK
+RESULT: PASS
+DURATION: 1s
+END: 2026-04-15 03:29:55

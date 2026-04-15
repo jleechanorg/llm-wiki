@@ -1,0 +1,29 @@
+TESTFILE: mvp_site/tests/test_dice_server_field_security.py
+START: 2026-04-15 03:29:56
+2026-04-15 03:29:56,175 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+============================= test session starts ==============================
+platform linux -- Python 3.12.3, pytest-9.0.3, pluggy-1.6.0 -- /_work/worldarchitect.ai/worldarchitect.ai/venv/bin/python3
+cachedir: .pytest_cache
+rootdir: /_work/worldarchitect.ai/worldarchitect.ai/mvp_site
+configfile: pytest.ini
+plugins: cov-7.1.0, anyio-4.13.0, testmon-2.2.0, timeout-2.4.0
+collecting ... collected 5 items
+
+mvp_site/tests/test_dice_server_field_security.py::TestServerFieldSpoofingPrevention::test_server_dice_fabrication_correction_cleared_when_no_fabrication PASSED [ 20%]
+mvp_site/tests/test_dice_server_field_security.py::TestServerFieldSpoofingPrevention::test_server_dice_fabrication_correction_set_when_fabrication_detected PASSED [ 40%]
+mvp_site/tests/test_dice_server_field_security.py::TestServerFieldSpoofingPrevention::test_server_system_warnings_not_spoofable PASSED [ 60%]
+mvp_site/tests/test_dice_server_field_security.py::TestLLMServiceSecurityIntegration::test_llm_service_security_fix_clears_spoofed_fields PASSED [ 80%]
+mvp_site/tests/test_dice_server_field_security.py::TestLLMServiceSecurityIntegration::test_end_to_end_with_malicious_llm_response PASSED [100%]
+
+=============================== warnings summary ===============================
+tests/test_dice_server_field_security.py::TestLLMServiceSecurityIntegration::test_end_to_end_with_malicious_llm_response
+  <frozen importlib._bootstrap>:488: DeprecationWarning: Type google._upb._message.MessageMapContainer uses PyType_Spec with a metaclass that has custom tp_new. This is deprecated and will no longer be allowed in Python 3.14.
+
+tests/test_dice_server_field_security.py::TestLLMServiceSecurityIntegration::test_end_to_end_with_malicious_llm_response
+  <frozen importlib._bootstrap>:488: DeprecationWarning: Type google._upb._message.ScalarMapContainer uses PyType_Spec with a metaclass that has custom tp_new. This is deprecated and will no longer be allowed in Python 3.14.
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+======================== 5 passed, 2 warnings in 1.22s =========================
+RESULT: PASS
+DURATION: 2s
+END: 2026-04-15 03:29:58
