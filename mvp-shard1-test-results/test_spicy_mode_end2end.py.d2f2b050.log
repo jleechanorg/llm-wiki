@@ -1,0 +1,131 @@
+TESTFILE: mvp_site/tests/test_end2end/test_spicy_mode_end2end.py
+START: 2026-04-15 03:30:14
+2026-04-15 03:30:15,115 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:30:15,541 - root - INFO - Applied clock skew patch: adjusting time by -720 seconds
+2026-04-15 03:30:16,043 - root - INFO - Loading service account from file: /dev/null
+2026-04-15 03:30:16,043 - root - WARNING - ⚠️ Failed to load credentials from file /dev/null: Expecting value: line 1 column 1 (char 0)
+2026-04-15 03:30:16,043 - root - INFO - Attempting to load service account from environment variables
+2026-04-15 03:30:16,043 - root - WARNING - ⚠️ Failed to load credentials from env vars: Missing required environment variables: GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY. Please set these variables in your environment (.env file, Claude.ai project settings, or GitHub Secrets). See module docstring for detailed instructions.
+2026-04-15 03:30:16,043 - root - WARNING - ⚠️ Failed to load explicit credentials: Failed to load service account credentials from any source. File path '/dev/null' not found or invalid. Environment variables missing or incomplete (need GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY).. Attempting default application credentials.
+2026-04-15 03:30:16,043 - root - INFO - Firebase initialized successfully in world_logic.py
+2026-04-15 03:30:16,044 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:16,044 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:16,044 - root - INFO - Schema doc cache initialized: 11 types, 0.13ms total
+2026-04-15 03:30:16,046 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:16,046 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:16,052 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:16,052 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:16,052 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:16,054 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:16,054 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:16,060 - root - INFO - update_user_settings_unified: user_id=spicy-mode-e2e-user incoming_keys=['spicy_mode', 'pre_spicy_model', 'pre_spicy_provider', 'llm_provider', 'openrouter_model']
+2026-04-15 03:30:16,061 - root - INFO - update_user_settings_unified: SAVING user_id=spicy-mode-e2e-user settings_to_update={'spicy_mode': True, 'pre_spicy_model': 'gemini-3-flash-preview', 'pre_spicy_provider': 'gemini', 'llm_provider': 'openrouter', 'openrouter_model': 'x-ai/grok-4.1-fast'}
+2026-04-15 03:30:16,061 - root - INFO - Updated settings for user spicy-mode-e2e-user: {'spicy_mode': True, 'pre_spicy_model': 'gemini-3-flash-preview', 'pre_spicy_provider': 'gemini', 'llm_provider': 'openrouter', 'openrouter_model': 'x-ai/grok-4.1-fast'}
+2026-04-15 03:30:16,061 - root - INFO - Updated user settings for spicy-mode-e2e-user: {'spicy_mode': True, 'pre_spicy_model': 'gemini-3-flash-preview', 'pre_spicy_provider': 'gemini', 'llm_provider': 'openrouter', 'openrouter_model': 'x-ai/grok-4.1-fast'}
+2026-04-15 03:30:16,063 - root - INFO - update_user_settings_unified: user_id=spicy-mode-e2e-user incoming_keys=['spicy_mode', 'llm_provider', 'gemini_model']
+2026-04-15 03:30:16,063 - root - INFO - update_user_settings_unified: SAVING user_id=spicy-mode-e2e-user settings_to_update={'spicy_mode': False, 'llm_provider': 'gemini', 'gemini_model': 'gemini-3-flash-preview'}
+2026-04-15 03:30:16,063 - root - INFO - Updated settings for user spicy-mode-e2e-user: {'spicy_mode': False, 'llm_provider': 'gemini', 'gemini_model': 'gemini-3-flash-preview'}
+2026-04-15 03:30:16,063 - root - INFO - Updated user settings for spicy-mode-e2e-user: {'spicy_mode': False, 'llm_provider': 'gemini', 'gemini_model': 'gemini-3-flash-preview'}
+.2026-04-15 03:30:16,064 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:16,064 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:16,064 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:16,065 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:16,065 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:16,071 - root - INFO - update_user_settings_unified: user_id=spicy-mode-e2e-user incoming_keys=['spicy_mode', 'pre_spicy_model', 'pre_spicy_provider', 'llm_provider', 'openrouter_model']
+2026-04-15 03:30:16,071 - root - INFO - update_user_settings_unified: SAVING user_id=spicy-mode-e2e-user settings_to_update={'spicy_mode': True, 'pre_spicy_model': 'gemini-3-flash-preview', 'pre_spicy_provider': 'gemini', 'llm_provider': 'openrouter', 'openrouter_model': 'x-ai/grok-4.1-fast'}
+2026-04-15 03:30:16,072 - root - INFO - Updated settings for user spicy-mode-e2e-user: {'spicy_mode': True, 'pre_spicy_model': 'gemini-3-flash-preview', 'pre_spicy_provider': 'gemini', 'llm_provider': 'openrouter', 'openrouter_model': 'x-ai/grok-4.1-fast'}
+2026-04-15 03:30:16,072 - root - INFO - Updated user settings for spicy-mode-e2e-user: {'spicy_mode': True, 'pre_spicy_model': 'gemini-3-flash-preview', 'pre_spicy_provider': 'gemini', 'llm_provider': 'openrouter', 'openrouter_model': 'x-ai/grok-4.1-fast'}
+.2026-04-15 03:30:16,073 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:16,073 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:16,073 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:16,074 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:16,074 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:16,079 - root - INFO - update_user_settings_unified: user_id=spicy-mode-e2e-user incoming_keys=['llm_provider', 'cerebras_model']
+2026-04-15 03:30:16,080 - root - INFO - update_user_settings_unified: SAVING user_id=spicy-mode-e2e-user settings_to_update={'llm_provider': 'cerebras', 'cerebras_model': 'llama-3.3-70b'}
+2026-04-15 03:30:16,080 - root - INFO - Updated settings for user spicy-mode-e2e-user: {'llm_provider': 'cerebras', 'cerebras_model': 'llama-3.3-70b'}
+2026-04-15 03:30:16,080 - root - INFO - Updated user settings for spicy-mode-e2e-user: {'llm_provider': 'cerebras', 'cerebras_model': 'llama-3.3-70b'}
+2026-04-15 03:30:16,080 - root - INFO - update_user_settings_unified: user_id=spicy-mode-e2e-user incoming_keys=['spicy_mode', 'pre_spicy_model', 'pre_spicy_provider', 'llm_provider', 'openrouter_model']
+2026-04-15 03:30:16,081 - root - INFO - update_user_settings_unified: SAVING user_id=spicy-mode-e2e-user settings_to_update={'spicy_mode': True, 'pre_spicy_model': 'llama-3.3-70b', 'pre_spicy_provider': 'cerebras', 'llm_provider': 'openrouter', 'openrouter_model': 'x-ai/grok-4.1-fast'}
+2026-04-15 03:30:16,081 - root - INFO - Updated settings for user spicy-mode-e2e-user: {'spicy_mode': True, 'pre_spicy_model': 'llama-3.3-70b', 'pre_spicy_provider': 'cerebras', 'llm_provider': 'openrouter', 'openrouter_model': 'x-ai/grok-4.1-fast'}
+2026-04-15 03:30:16,081 - root - INFO - Updated user settings for spicy-mode-e2e-user: {'spicy_mode': True, 'pre_spicy_model': 'llama-3.3-70b', 'pre_spicy_provider': 'cerebras', 'llm_provider': 'openrouter', 'openrouter_model': 'x-ai/grok-4.1-fast'}
+2026-04-15 03:30:16,081 - root - INFO - update_user_settings_unified: user_id=spicy-mode-e2e-user incoming_keys=['spicy_mode', 'llm_provider', 'cerebras_model']
+2026-04-15 03:30:16,081 - root - INFO - update_user_settings_unified: SAVING user_id=spicy-mode-e2e-user settings_to_update={'spicy_mode': False, 'llm_provider': 'cerebras', 'cerebras_model': 'llama-3.3-70b'}
+2026-04-15 03:30:16,081 - root - INFO - Updated settings for user spicy-mode-e2e-user: {'spicy_mode': False, 'llm_provider': 'cerebras', 'cerebras_model': 'llama-3.3-70b'}
+2026-04-15 03:30:16,081 - root - INFO - Updated user settings for spicy-mode-e2e-user: {'spicy_mode': False, 'llm_provider': 'cerebras', 'cerebras_model': 'llama-3.3-70b'}
+.2026-04-15 03:30:16,082 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:16,082 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:16,082 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:16,083 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:16,083 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:16,089 - root - INFO - update_user_settings_unified: user_id=spicy-mode-e2e-user incoming_keys=['llm_provider', 'openrouter_model']
+2026-04-15 03:30:16,089 - root - INFO - update_user_settings_unified: SAVING user_id=spicy-mode-e2e-user settings_to_update={'llm_provider': 'openrouter', 'openrouter_model': 'meta-llama/llama-3.1-70b-instruct'}
+2026-04-15 03:30:16,089 - root - INFO - Updated settings for user spicy-mode-e2e-user: {'llm_provider': 'openrouter', 'openrouter_model': 'meta-llama/llama-3.1-70b-instruct'}
+2026-04-15 03:30:16,089 - root - INFO - Updated user settings for spicy-mode-e2e-user: {'llm_provider': 'openrouter', 'openrouter_model': 'meta-llama/llama-3.1-70b-instruct'}
+2026-04-15 03:30:16,089 - root - INFO - update_user_settings_unified: user_id=spicy-mode-e2e-user incoming_keys=['spicy_mode', 'pre_spicy_model', 'pre_spicy_provider', 'llm_provider', 'openrouter_model']
+2026-04-15 03:30:16,089 - root - INFO - update_user_settings_unified: SAVING user_id=spicy-mode-e2e-user settings_to_update={'spicy_mode': True, 'pre_spicy_model': 'meta-llama/llama-3.1-70b-instruct', 'pre_spicy_provider': 'openrouter', 'llm_provider': 'openrouter', 'openrouter_model': 'x-ai/grok-4.1-fast'}
+2026-04-15 03:30:16,090 - root - INFO - Updated settings for user spicy-mode-e2e-user: {'spicy_mode': True, 'pre_spicy_model': 'meta-llama/llama-3.1-70b-instruct', 'pre_spicy_provider': 'openrouter', 'llm_provider': 'openrouter', 'openrouter_model': 'x-ai/grok-4.1-fast'}
+2026-04-15 03:30:16,090 - root - INFO - Updated user settings for spicy-mode-e2e-user: {'spicy_mode': True, 'pre_spicy_model': 'meta-llama/llama-3.1-70b-instruct', 'pre_spicy_provider': 'openrouter', 'llm_provider': 'openrouter', 'openrouter_model': 'x-ai/grok-4.1-fast'}
+2026-04-15 03:30:16,091 - root - INFO - update_user_settings_unified: user_id=spicy-mode-e2e-user incoming_keys=['spicy_mode', 'llm_provider', 'openrouter_model']
+2026-04-15 03:30:16,091 - root - INFO - update_user_settings_unified: SAVING user_id=spicy-mode-e2e-user settings_to_update={'spicy_mode': False, 'llm_provider': 'openrouter', 'openrouter_model': 'meta-llama/llama-3.1-70b-instruct'}
+2026-04-15 03:30:16,091 - root - INFO - Updated settings for user spicy-mode-e2e-user: {'spicy_mode': False, 'llm_provider': 'openrouter', 'openrouter_model': 'meta-llama/llama-3.1-70b-instruct'}
+2026-04-15 03:30:16,091 - root - INFO - Updated user settings for spicy-mode-e2e-user: {'spicy_mode': False, 'llm_provider': 'openrouter', 'openrouter_model': 'meta-llama/llama-3.1-70b-instruct'}
+.2026-04-15 03:30:16,092 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:16,092 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:16,092 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:16,092 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:16,093 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:16,098 - root - INFO - update_user_settings_unified: user_id=spicy-mode-e2e-user incoming_keys=['spicy_mode', 'pre_spicy_model', 'pre_spicy_provider', 'llm_provider', 'openrouter_model']
+2026-04-15 03:30:16,099 - root - INFO - update_user_settings_unified: SAVING user_id=spicy-mode-e2e-user settings_to_update={'spicy_mode': True, 'pre_spicy_model': 'gemini-3-flash-preview', 'pre_spicy_provider': 'gemini', 'llm_provider': 'openrouter', 'openrouter_model': 'x-ai/grok-4.1-fast'}
+2026-04-15 03:30:16,099 - root - INFO - Updated settings for user spicy-mode-e2e-user: {'spicy_mode': True, 'pre_spicy_model': 'gemini-3-flash-preview', 'pre_spicy_provider': 'gemini', 'llm_provider': 'openrouter', 'openrouter_model': 'x-ai/grok-4.1-fast'}
+2026-04-15 03:30:16,099 - root - INFO - Updated user settings for spicy-mode-e2e-user: {'spicy_mode': True, 'pre_spicy_model': 'gemini-3-flash-preview', 'pre_spicy_provider': 'gemini', 'llm_provider': 'openrouter', 'openrouter_model': 'x-ai/grok-4.1-fast'}
+2026-04-15 03:30:16,100 - root - INFO - update_user_settings_unified: user_id=spicy-mode-e2e-user incoming_keys=['spicy_mode', 'llm_provider', 'gemini_model']
+2026-04-15 03:30:16,100 - root - INFO - update_user_settings_unified: SAVING user_id=spicy-mode-e2e-user settings_to_update={'spicy_mode': False, 'llm_provider': 'gemini', 'gemini_model': 'gemini-3-flash-preview'}
+2026-04-15 03:30:16,100 - root - INFO - Updated settings for user spicy-mode-e2e-user: {'spicy_mode': False, 'llm_provider': 'gemini', 'gemini_model': 'gemini-3-flash-preview'}
+2026-04-15 03:30:16,100 - root - INFO - Updated user settings for spicy-mode-e2e-user: {'spicy_mode': False, 'llm_provider': 'gemini', 'gemini_model': 'gemini-3-flash-preview'}
+2026-04-15 03:30:16,101 - root - INFO - update_user_settings_unified: user_id=spicy-mode-e2e-user incoming_keys=['spicy_mode', 'pre_spicy_model', 'pre_spicy_provider', 'llm_provider', 'openrouter_model']
+2026-04-15 03:30:16,101 - root - INFO - update_user_settings_unified: SAVING user_id=spicy-mode-e2e-user settings_to_update={'spicy_mode': True, 'pre_spicy_model': 'gemini-3-flash-preview', 'pre_spicy_provider': 'gemini', 'llm_provider': 'openrouter', 'openrouter_model': 'x-ai/grok-4.1-fast'}
+2026-04-15 03:30:16,101 - root - INFO - Updated settings for user spicy-mode-e2e-user: {'spicy_mode': True, 'pre_spicy_model': 'gemini-3-flash-preview', 'pre_spicy_provider': 'gemini', 'llm_provider': 'openrouter', 'openrouter_model': 'x-ai/grok-4.1-fast'}
+2026-04-15 03:30:16,102 - root - INFO - Updated user settings for spicy-mode-e2e-user: {'spicy_mode': True, 'pre_spicy_model': 'gemini-3-flash-preview', 'pre_spicy_provider': 'gemini', 'llm_provider': 'openrouter', 'openrouter_model': 'x-ai/grok-4.1-fast'}
+2026-04-15 03:30:16,103 - root - INFO - update_user_settings_unified: user_id=spicy-mode-e2e-user incoming_keys=['spicy_mode', 'llm_provider', 'gemini_model']
+2026-04-15 03:30:16,103 - root - INFO - update_user_settings_unified: SAVING user_id=spicy-mode-e2e-user settings_to_update={'spicy_mode': False, 'llm_provider': 'gemini', 'gemini_model': 'gemini-3-flash-preview'}
+2026-04-15 03:30:16,103 - root - INFO - Updated settings for user spicy-mode-e2e-user: {'spicy_mode': False, 'llm_provider': 'gemini', 'gemini_model': 'gemini-3-flash-preview'}
+2026-04-15 03:30:16,103 - root - INFO - Updated user settings for spicy-mode-e2e-user: {'spicy_mode': False, 'llm_provider': 'gemini', 'gemini_model': 'gemini-3-flash-preview'}
+.2026-04-15 03:30:16,104 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:16,104 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:16,104 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:16,105 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:16,105 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:16,110 - root - INFO - update_user_settings_unified: user_id=spicy-validation-user incoming_keys=['spicy_mode', 'pre_spicy_model', 'pre_spicy_provider']
+2026-04-15 03:30:16,111 - root - INFO - update_user_settings_unified: SAVING user_id=spicy-validation-user settings_to_update={'spicy_mode': True, 'pre_spicy_model': 'qwen-3-235b-a22b-instruct-2507', 'pre_spicy_provider': 'cerebras'}
+2026-04-15 03:30:16,111 - root - INFO - Updated settings for user spicy-validation-user: {'spicy_mode': True, 'pre_spicy_model': 'qwen-3-235b-a22b-instruct-2507', 'pre_spicy_provider': 'cerebras'}
+2026-04-15 03:30:16,111 - root - INFO - Updated user settings for spicy-validation-user: {'spicy_mode': True, 'pre_spicy_model': 'qwen-3-235b-a22b-instruct-2507', 'pre_spicy_provider': 'cerebras'}
+.2026-04-15 03:30:16,112 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:16,112 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:16,112 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:16,112 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:16,112 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:16,118 - root - INFO - update_user_settings_unified: user_id=spicy-validation-user incoming_keys=['spicy_mode']
+2026-04-15 03:30:16,118 - root - INFO - update_user_settings_unified: SAVING user_id=spicy-validation-user settings_to_update={'spicy_mode': True}
+2026-04-15 03:30:16,118 - root - INFO - Updated settings for user spicy-validation-user: {'spicy_mode': True}
+2026-04-15 03:30:16,118 - root - INFO - Updated user settings for spicy-validation-user: {'spicy_mode': True}
+2026-04-15 03:30:16,118 - root - INFO - update_user_settings_unified: user_id=spicy-validation-user incoming_keys=['spicy_mode']
+2026-04-15 03:30:16,118 - root - INFO - update_user_settings_unified: SAVING user_id=spicy-validation-user settings_to_update={'spicy_mode': False}
+2026-04-15 03:30:16,118 - root - INFO - Updated settings for user spicy-validation-user: {'spicy_mode': False}
+2026-04-15 03:30:16,119 - root - INFO - Updated user settings for spicy-validation-user: {'spicy_mode': False}
+.2026-04-15 03:30:16,119 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:16,119 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:16,119 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:16,120 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:16,120 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:16,125 - root - INFO - update_user_settings_unified: user_id=spicy-validation-user incoming_keys=['spicy_mode']
+2026-04-15 03:30:16,125 - root - INFO - update_user_settings_unified: SAVING user_id=spicy-validation-user settings_to_update={'spicy_mode': True}
+2026-04-15 03:30:16,125 - root - INFO - Updated settings for user spicy-validation-user: {'spicy_mode': True}
+2026-04-15 03:30:16,125 - root - INFO - Updated user settings for spicy-validation-user: {'spicy_mode': True}
+.
+----------------------------------------------------------------------
+Ran 8 tests in 0.074s
+
+OK
+RESULT: PASS
+DURATION: 2s
+END: 2026-04-15 03:30:16

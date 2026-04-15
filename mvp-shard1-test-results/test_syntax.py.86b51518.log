@@ -1,0 +1,13 @@
+TESTFILE: mvp_site/tests/test_syntax.py
+START: 2026-04-15 03:30:43
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.006s
+
+OK
+
+--- Attempting to import llm_service.py ---
+SUCCESS: llm_service.py was imported without a syntax error.
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:30:43

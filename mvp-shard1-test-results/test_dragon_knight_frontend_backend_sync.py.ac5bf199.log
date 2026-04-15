@@ -1,0 +1,11 @@
+TESTFILE: mvp_site/tests/test_dragon_knight_frontend_backend_sync.py
+START: 2026-04-15 03:29:58
+2026-04-15 03:29:58,955 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.002s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:29:58

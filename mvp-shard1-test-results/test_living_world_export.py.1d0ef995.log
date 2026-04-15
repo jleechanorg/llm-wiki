@@ -1,0 +1,11 @@
+TESTFILE: mvp_site/tests/test_living_world_export.py
+START: 2026-04-15 03:30:30
+2026-04-15 03:30:30,355 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.000s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:30:30

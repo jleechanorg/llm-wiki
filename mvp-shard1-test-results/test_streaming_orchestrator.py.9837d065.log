@@ -1,0 +1,87 @@
+TESTFILE: mvp_site/tests/test_streaming_orchestrator.py
+START: 2026-04-15 03:30:42
+2026-04-15 03:30:42,605 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+.<frozen importlib._bootstrap>:488: DeprecationWarning: Type google._upb._message.MessageMapContainer uses PyType_Spec with a metaclass that has custom tp_new. This is deprecated and will no longer be allowed in Python 3.14.
+<frozen importlib._bootstrap>:488: DeprecationWarning: Type google._upb._message.ScalarMapContainer uses PyType_Spec with a metaclass that has custom tp_new. This is deprecated and will no longer be allowed in Python 3.14.
+2026-04-15 03:30:43,496 - root - INFO - ⏱️ STREAM_TIMING | _prepare_story_continuation: 0.000s
+2026-04-15 03:30:43,496 - root - INFO - ⏱️ STREAM_TIMING | json_serialization: 0.000s | payload_bytes=16
+2026-04-15 03:30:43,496 - root - INFO - MOCK_SERVICES_MODE enabled - creating singleton in-memory Firestore client
+2026-04-15 03:30:43,496 - root - INFO - BYOK_RESOLUTION: user_id=<MagicMock name='_prepare_story_continuation().user_id' id='130995085573296'>, provider=gemini, has_byok=False
+2026-04-15 03:30:43,497 - root - INFO - ⏱️ STREAM_TIMING | token_calculation: 0.000s | prompt_tokens=0 system_tokens=0 max_output=50000
+2026-04-15 03:30:43,498 - root - INFO - MOCK_SERVICES_MODE: streaming path using mocked Gemini provider (is_god_mode_command=True)
+2026-04-15 03:30:43,498 - root - ERROR - 🔥🔴 Error in continue_story_streaming
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/llm_service.py", line 7265, in continue_story_streaming
+    stream_iter = gemini_provider.generate_content_stream_sync(
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/unittest/mock.py", line 1134, in __call__
+    return self._mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/unittest/mock.py", line 1138, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/unittest/mock.py", line 1193, in _execute_mock_call
+    raise effect
+RuntimeError: Gemini API Error
+2026-04-15 03:30:43,501 - root - INFO - 📁 STREAMING_EVIDENCE | Saved LLM chunk log | path=/tmp/worldarchitect.ai/HEAD/streaming_validation/llm_chunk_log_test_leak_campaign_1776223843.csv chunks=0 campaign_id=test_leak_campaign request_id=test_leak_campaign_1776223843
+.............................................2026-04-15 03:30:43,520 - root - INFO - STREAM_CLIENT: has_byok_api_key=False, cache_name=None
+2026-04-15 03:30:43,521 - root - INFO - Starting sync streaming generation with model gemini-2.5-flash
+2026-04-15 03:30:43,521 - root - INFO - GEMINI_STREAM_USAGE: prompt_tokens=1, cached_tokens=1, response_tokens=1, cache_hit_rate=100.0%, model=gemini-2.5-flash, cache_name=none
+.2026-04-15 03:30:43,522 - root - INFO - STREAM_CLIENT: has_byok_api_key=False, cache_name=cachedContents/stream-cache-1
+2026-04-15 03:30:43,522 - root - INFO - 📦 CACHE_REFERENCE: Using cached_content=cachedContents/stream-cache-1 (streaming system_instruction disabled - already in cache)
+2026-04-15 03:30:43,522 - root - INFO - Starting sync streaming generation with model gemini-3-flash-preview
+2026-04-15 03:30:43,523 - root - INFO - GEMINI_STREAM_USAGE: prompt_tokens=1, cached_tokens=1, response_tokens=1, cache_hit_rate=100.0%, model=gemini-3-flash-preview, cache_name=cachedContents/stream-cache-1
+.2026-04-15 03:30:43,523 - root - INFO - STREAM_CLIENT: has_byok_api_key=False, cache_name=None
+2026-04-15 03:30:43,523 - root - INFO - Starting sync streaming generation with model gemini-2.5-flash
+2026-04-15 03:30:43,524 - root - INFO - GEMINI_STREAM_USAGE: prompt_tokens=1, cached_tokens=1, response_tokens=1, cache_hit_rate=100.0%, model=gemini-2.5-flash, cache_name=none
+.......2026-04-15 03:30:43,524 - root - INFO - Starting simple streaming with model gemini-2.5-flash
+2026-04-15 03:30:43,524 - root - ERROR - 🔥🔴 Streaming error during simple narrative generation
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/llm_parser.py", line 435, in stream_narrative_simple
+    for chunk in gemini_provider.generate_content_stream_sync(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/unittest/mock.py", line 1134, in __call__
+    return self._mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/unittest/mock.py", line 1138, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/unittest/mock.py", line 1193, in _execute_mock_call
+    raise effect
+RuntimeError: API Error
+.2026-04-15 03:30:43,524 - root - INFO - Starting simple streaming with model gemini-2.5-pro
+.2026-04-15 03:30:43,525 - root - INFO - Starting simple streaming with model gemini-2.5-flash
+.ss2026-04-15 03:30:43,525 - root - INFO - Stream story starting: user_id=u1, campaign_id=c1
+2026-04-15 03:30:43,525 - root - INFO - ⏱️ STREAM_TIMING | get_campaign_by_id: 0.000s
+2026-04-15 03:30:43,525 - root - INFO - ⏱️ STREAM_TIMING | get_campaign_game_state: 0.000s
+2026-04-15 03:30:43,525 - root - INFO - ⏱️ STREAM_TIMING | get_user_settings: 0.000s
+2026-04-15 03:30:43,526 - root - INFO - Applied clock skew patch: adjusting time by -720 seconds
+2026-04-15 03:30:43,659 - root - INFO - Loading service account from file: /dev/null
+2026-04-15 03:30:43,659 - root - WARNING - ⚠️ Failed to load credentials from file /dev/null: Expecting value: line 1 column 1 (char 0)
+2026-04-15 03:30:43,659 - root - INFO - Attempting to load service account from environment variables
+2026-04-15 03:30:43,659 - root - WARNING - ⚠️ Failed to load credentials from env vars: Missing required environment variables: GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY. Please set these variables in your environment (.env file, Claude.ai project settings, or GitHub Secrets). See module docstring for detailed instructions.
+2026-04-15 03:30:43,659 - root - WARNING - ⚠️ Failed to load explicit credentials: Failed to load service account credentials from any source. File path '/dev/null' not found or invalid. Environment variables missing or incomplete (need GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY).. Attempting default application credentials.
+2026-04-15 03:30:43,659 - root - INFO - Firebase initialized successfully in world_logic.py
+2026-04-15 03:30:43,659 - root - INFO - 🎭 LEVEL_UP_SELECTION: Triggering LevelUpAgent via level_up_pending
+2026-04-15 03:30:43,659 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:43,659 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:43,659 - root - INFO - ⏱️ STREAM_TIMING | total_firestore_reads: 0.000s | story_entries=1
+2026-04-15 03:30:43,659 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:43,659 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:43,659 - root - INFO - 🔒 MODAL_LOCK: Active modal(s)=level_up, stage=
+2026-04-15 03:30:43,659 - root - INFO - 🔒 MODAL_LOCK: No exit choice selected - enforcing modal lock
+2026-04-15 03:30:43,659 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:43,659 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:43,660 - root - INFO - Persisted streaming game state updates for campaign c1.
+2026-04-15 03:30:43,660 - root - INFO - Persisted streaming story entries for campaign c1
+.sssss2026-04-15 03:30:43,660 - root - INFO - Starting simple streaming with model gemini-2.5-flash
+.2026-04-15 03:30:43,660 - root - INFO - Starting simple streaming with model gemini-2.5-flash
+.2026-04-15 03:30:43,660 - root - INFO - Starting simple streaming with model gemini-2.5-flash
+.ss...........
+----------------------------------------------------------------------
+Ran 82 tests in 0.984s
+
+OK (skipped=9)
+RESULT: PASS
+DURATION: 1s
+END: 2026-04-15 03:30:43

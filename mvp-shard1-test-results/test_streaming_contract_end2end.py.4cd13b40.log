@@ -1,0 +1,705 @@
+TESTFILE: mvp_site/tests/test_end2end/test_streaming_contract_end2end.py
+START: 2026-04-15 03:30:16
+2026-04-15 03:30:16,620 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:30:17,051 - root - INFO - Applied clock skew patch: adjusting time by -720 seconds
+2026-04-15 03:30:17,517 - root - INFO - Loading service account from file: /dev/null
+2026-04-15 03:30:17,517 - root - WARNING - ⚠️ Failed to load credentials from file /dev/null: Expecting value: line 1 column 1 (char 0)
+2026-04-15 03:30:17,517 - root - INFO - Attempting to load service account from environment variables
+2026-04-15 03:30:17,517 - root - WARNING - ⚠️ Failed to load credentials from env vars: Missing required environment variables: GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY. Please set these variables in your environment (.env file, Claude.ai project settings, or GitHub Secrets). See module docstring for detailed instructions.
+2026-04-15 03:30:17,517 - root - WARNING - ⚠️ Failed to load explicit credentials: Failed to load service account credentials from any source. File path '/dev/null' not found or invalid. Environment variables missing or incomplete (need GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY).. Attempting default application credentials.
+2026-04-15 03:30:17,517 - root - INFO - Firebase initialized successfully in world_logic.py
+2026-04-15 03:30:17,518 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:17,518 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:17,518 - root - INFO - Schema doc cache initialized: 11 types, 0.13ms total
+2026-04-15 03:30:17,520 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:17,520 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:17,526 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:17,526 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:17,526 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:17,527 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:17,527 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:17,534 - root - INFO - campaign_id=campaign-streaming-contract | Streaming interaction (full flow) - user_id=test-user-streaming-contract, campaign_id=campaign-streaming-contract, mode=character
+2026-04-15 03:30:17,534 - root - INFO - campaign_id=campaign-streaming-contract | Stream story starting: user_id=test-user-streaming-contract, campaign_id=campaign-streaming-contract
+2026-04-15 03:30:17,534 - root - INFO - campaign_id=campaign-streaming-contract | 📖 FETCHED STORY ENTRIES: user=test-user-streaming-contract, campaign=campaign-streaming-contract, total_entries=0
+2026-04-15 03:30:17,534 - root - INFO - campaign_id=campaign-streaming-contract | 📊 STORY BREAKDOWN: user_entries=0, ai_entries=0, other_entries=0
+2026-04-15 03:30:17,534 - root - WARNING - ⚠️ campaign_id=campaign-streaming-contract | ⚠️ NO STORY ENTRIES FOUND for campaign campaign-streaming-contract
+2026-04-15 03:30:17,534 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | get_campaign_by_id: 0.000s
+2026-04-15 03:30:17,534 - root - INFO - campaign_id=campaign-streaming-contract | GameState: initialized last_living_world_time from world_data
+2026-04-15 03:30:17,535 - root - INFO - campaign_id=campaign-streaming-contract | Added microsecond field to world_time (default: 0)
+2026-04-15 03:30:17,535 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | get_campaign_game_state: 0.000s
+2026-04-15 03:30:17,535 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | get_user_settings: 0.000s
+2026-04-15 03:30:17,535 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:17,535 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:17,535 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:17,535 - root - INFO - campaign_id=campaign-streaming-contract | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:17,535 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:17,535 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:17,535 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | total_firestore_reads: 0.000s | story_entries=0
+2026-04-15 03:30:17,535 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:17,535 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:17,535 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | flask_handler_first_yield: 0.001s | handler_start_utc=2026-04-15T03:30:17.534754+00:00
+2026-04-15 03:30:17,535 - root - INFO - campaign_id=campaign-streaming-contract | 🔍 PROVIDER_SELECTION_START: user_id=test-user-streaming-contract, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=false, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:17,535 - root - INFO - campaign_id=campaign-streaming-contract | Using provider/model: gemini/gemini-3-flash-preview for story continuation.
+2026-04-15 03:30:17,535 - root - INFO - campaign_id=campaign-streaming-contract | 🎭 CHARACTER_CREATION_CHECK: Character creation mode ACTIVE
+2026-04-15 03:30:17,535 - root - INFO - campaign_id=campaign-streaming-contract | 🎭 CHARACTER_CREATION_ACTIVE: Using CharacterCreationAgent
+2026-04-15 03:30:17,535 - root - INFO - campaign_id=campaign-streaming-contract | Cache MISS for master_directive.md: loaded and cached 19296 characters (~4824 tokens)
+2026-04-15 03:30:17,536 - root - INFO - campaign_id=campaign-streaming-contract | Cache MISS for game_state_instruction.md: loaded and cached 143160 characters (~35790 tokens)
+2026-04-15 03:30:17,539 - root - INFO - campaign_id=campaign-streaming-contract | Cache MISS for dice_system_instruction_code_execution.md: loaded and cached 4527 characters (~1131 tokens)
+2026-04-15 03:30:17,539 - root - INFO - campaign_id=campaign-streaming-contract | Cache MISS for character_creation_instruction.md: loaded and cached 7073 characters (~1768 tokens)
+2026-04-15 03:30:17,539 - root - INFO - campaign_id=campaign-streaming-contract | Cache MISS for dnd_srd_instruction.md: loaded and cached 1977 characters (~494 tokens)
+2026-04-15 03:30:17,539 - root - INFO - campaign_id=campaign-streaming-contract | Cache MISS for mechanics_system_instruction.md: loaded and cached 32957 characters (~8239 tokens)
+2026-04-15 03:30:17,539 - root - INFO - campaign_id=campaign-streaming-contract | 🌍 LIVING_WORLD: Including living world instruction every turn (turn=1)
+2026-04-15 03:30:17,539 - root - INFO - campaign_id=campaign-streaming-contract | Cache MISS for living_world_instruction.md: loaded and cached 40532 characters (~10133 tokens)
+2026-04-15 03:30:17,540 - root - INFO - campaign_id=campaign-streaming-contract | 🎭 _extract_companions_from_state: No companions found in npc_data (keys: [])
+2026-04-15 03:30:17,541 - root - INFO - campaign_id=campaign-streaming-contract | 📊 MEASURED_SIZES: system=75,264tk, state=405tk, memories=0tk, entities=10,500tk, checkpoint=18tk, sequence=0tk, story=0tk, total=86,187tk (budget=240,000tk)
+2026-04-15 03:30:17,541 - root - INFO - campaign_id=campaign-streaming-contract | 📊 MIN_ALLOCATION: total_min=163,218tk (68.0%), remaining=76,782tk (32.0%)
+2026-04-15 03:30:17,541 - root - INFO - campaign_id=campaign-streaming-contract | 📊 BUDGET_ALLOCATION_SUMMARY (budget=240,000tk):
+  system_instruction: 75,264tk -> 75,264tk (31.4%) ✅ OK
+  game_state: 405tk -> 12,000tk (5.0%) ✅ OK
+  core_memories: 0tk -> 48,000tk (20.0%) ✅ OK
+  entity_tracking: 10,500tk -> 10,500tk (4.4%) ✅ OK
+  checkpoint_block: 18tk -> 18tk (0.0%) ✅ OK
+  sequence_id: 0tk -> 0tk (0.0%) ✅ OK
+  story_context: 0tk -> 72,000tk (30.0%) ✅ OK
+2026-04-15 03:30:17,541 - root - INFO - campaign_id=campaign-streaming-contract | 📊 BUDGET: model_limit=1000000tk, safe_budget=300000tk, max_input=240000tk, output_reserve=60000tk (normal), story_budget=72000tk (30.0%)
+2026-04-15 03:30:17,541 - root - INFO - campaign_id=campaign-streaming-contract | Initial context stats: Turns: 0, Tokens: 0
+2026-04-15 03:30:17,541 - root - INFO - campaign_id=campaign-streaming-contract | Context is within token budget. No truncation needed.
+2026-04-15 03:30:17,541 - root - INFO - campaign_id=campaign-streaming-contract | Generated entity manifest for session 1, turn 1
+2026-04-15 03:30:17,541 - root - INFO - campaign_id=campaign-streaming-contract | ENTITY_TRACKING_PROMPT: preload_chars=330, specific_chars=590
+2026-04-15 03:30:17,541 - root - INFO - campaign_id=campaign-streaming-contract | ENTITY_TIERS: no NPCs
+2026-04-15 03:30:17,541 - root - INFO - campaign_id=campaign-streaming-contract | ENTITY_TRACKING_SIZE: 17tk (reserve was 10500tk)
+2026-04-15 03:30:17,541 - root - INFO - campaign_id=campaign-streaming-contract | GAME_STATE_BREAKDOWN: npc_data=0tk (EXCLUDED), world_data=41tk, player_data=36tk, remaining_state=356tk
+2026-04-15 03:30:17,541 - root - INFO - campaign_id=campaign-streaming-contract | 🐛 DEBUG_MODE_VALUE: mode='character', agent=CharacterCreationAgent, agent.MODE=character_creation
+2026-04-15 03:30:17,541 - root - INFO - campaign_id=campaign-streaming-contract | LLMREQUEST_PAYLOAD: story_history=0tk, total_payload=520tk
+2026-04-15 03:30:17,541 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | _prepare_story_continuation: 0.006s
+2026-04-15 03:30:17,541 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | json_serialization: 0.000s | payload_bytes=2661
+2026-04-15 03:30:17,541 - root - INFO - campaign_id=campaign-streaming-contract | BYOK_RESOLUTION: user_id=test-user-streaming-contract, provider=gemini, has_byok=False
+2026-04-15 03:30:17,541 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | token_calculation: 0.000s | prompt_tokens=665 system_tokens=75264 max_output=50000
+2026-04-15 03:30:17,543 - root - INFO - campaign_id=campaign-streaming-contract | PROVABLY_FAIR: commitment=b571e948df4c34afbac3d99faae8d2c1ea8f0ba9b65acf1f18a90fc1ab64b71a
+2026-04-15 03:30:17,543 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | llm_time_to_first_chunk: 0.000s | total_pre_stream: 0.008s
+2026-04-15 03:30:17,543 - root - INFO - campaign_id=campaign-streaming-contract | 🔍 STREAMING_EVIDENCE | First LLM chunk | campaign_id=campaign-streaming-contract request_id=campaign-streaming-contract_1776223817 timestamp=2026-04-15T03:30:17.543387+00:00 sequence=0
+2026-04-15 03:30:17,544 - root - INFO - campaign_id=campaign-streaming-contract | 📝 SYSTEM_INSTRUCTION (301058 chars): # File: master_directive.md
+
+# Master Directive: WorldArchitect.AI Prompt Hierarchy
+**Version: 2.2**
+**Last Updated: 2026-04-13**
+
+## Critical Loading Order and Precedence
+
+This document establishes the authoritative hierarchy for all AI instructions in WorldArchitect.AI. When conflicts arise between instructions, this hierarchy determines which instruction takes precedence.
+
+### 1. CRITICAL FOUNDATION (Load First - Highest Authority)
+These instructions form the core operational framework and MUST be loaded before all others:
+
+1. **`game_state_instruction.md`** - State management protocol, JSON input/output schemas, and entity structures
+   - Authority over: All state updates, data persistence, timeline management, entity structures, JSON input validation
+   - Critical because: Without proper state management and structured communication, nothing else functions
+   - Includes JSON input schema for structured LLM communication
+
+2. **D&D 5E SRD Authority** (defined in this file, "D&D 5E SRD System Authority" section)
+   - Authority over: All combat, attributes, spells, and mechanical resolution
+   - Critical because: Establishes single mechanical system authority
+
+### 2. CORE MECHANICS (Load Second)
+These define the fundamental game rules:
+
+3. **`mechanics_system_instruction.md`** - System integration
+   - Authority over: Character design (when mechanics enabled), dice rolling, leveling tiers, mechanical processes
+   - Defers to: dnd_srd_instruction.md for core mechanics
+   - Special role: Triggers mandatory character design when mechanics checkbox is selected
+
+### 3. NARRATIVE FRAMEWORK (Load Third)
+These guide storytelling and interaction:
+
+4. **`narrative_system_instruction.md`** - Storytelling protocol
+   - Authority over: Think blocks, narrative flow, story progression
+   - Must respect: State management and mechanics from above
+
+### 3. TEMPLATES (Load When Needed)
+These are reference formats:
+
+5. **`character_template.md`** - Character personality and narrative d...
+2026-04-15 03:30:17,544 - root - INFO - campaign_id=campaign-streaming-contract | 📤 RAW_REQUEST (2083 chars; logged up to 20000): {"game_mode": "character", "user_id": "test-user-streaming-contract", "selected_prompts": ["narrative", "mechanics"], "use_default_world": false, "story_history": [], "core_memories": [], "sequence_ids": [], "checkpoint_block": "[CHECKPOINT BLOCK:]\\nSequence ID: N/A | Location: Dungeon\\nMissions: None\\n", "entity_tracking": {"active_entities": [], "present_entities": [], "dormant_entities": []}, "game_state": {"game_state_version": 1, "player_character_data": {"entity_id": "player_character", "display_name": "Thorin", "name": "Thorin", "hp_current": 45, "hp_max": 50, "level": 5, "class_name": "Fighter"}, "world_data": {"current_location_name": "Dungeon", "world_time": {"year": 1492, "month": "Mirtul", "day": 10, "hour": 20, "minute": 0, "time_of_day": "Evening", "microsecond": 0}}, "item_registry": {}, "custom_campaign_state": {"arc_milestones": {}, "companion_arcs": {}, "next_companion_arc_turn": 3, "active_constraints": [], "attribute_system": "D&D", "campaign_tier": "mortal", "divine_potential": 0, "universe_control": 0, "divine_upgrade_available": false, "multiverse_upgrade_available": false, "_agent_selection_tracker": {"agent": "CharacterCreationAgent", "count": 1, "rewards_skip_count": 0}}, "social_hp_challenge": null, "combat_state": {"in_combat": false}, "last_state_update_timestamp": "2026-04-15T03:30:17.534944+00:00", "turn_number": 0, "player_turn": 0, "last_living_world_turn": 0, "last_living_world_time": {"year": 1492, "month": "Mirtul", "day": 10, "hour": 20, "minute": 0, "time_of_day": "Evening"}, "time_sensitive_events": {}, "npc_agendas": {}, "world_resources": {}, "time_pressure_warnings": {}, "debug_mode": true, "pending_instruction_hints": [], "user_id": "test-user-streaming-contract", "story_text": "You stand at the entrance to the dungeon.", "campaign_id": "campaign-streaming-contract"}, "user_action": "I whisper quietly to my companions about the danger ahead.\n\n[SYSTEM ENFORCEMENT: For ANY dice roll, you MUST use the code_execution tool with random.randint(). Your code will be inspected. Fabricated dice = rejection.]"}
+2026-04-15 03:30:17,544 - root - INFO - campaign_id=campaign-streaming-contract | 📥 RAW_RESPONSE (671 chars; logged up to 20000): {"narrative": "You whisper a warning to your companions. They nod gravely, hands moving to weapons.", "god_mode_response": "", "planning_block": {"thinking": "The player is being cautious.", "choices": {"advance": {"text": "Advance", "description": "Move forward", "risk_level": "medium"}, "wait": {"text": "Wait", "description": "Hold position", "risk_level": "low"}}}, "session_header": "[SESSION_HEADER]\nTimestamp: Evening\nLocation: Dungeon\nStatus: Active", "resources": "HP: 45/50", "entities_mentioned": ["companions"], "location_confirmed": "Dungeon", "state_updates": {}, "debug_info": {"dm_notes": ["Cautious approach"], "state_rationale": "No state changes"}}
+2026-04-15 03:30:17,544 - root - INFO - campaign_id=campaign-streaming-contract | 📁 STREAMING_EVIDENCE | Saved LLM chunk log | path=/tmp/worldarchitect.ai/HEAD/streaming_validation/llm_chunk_log_campaign-streaming-contract_1776223817.csv chunks=3 campaign_id=campaign-streaming-contract request_id=campaign-streaming-contract_1776223817
+2026-04-15 03:30:17,558 - root - INFO - campaign_id=campaign-streaming-contract | 📁 STREAMING_EVIDENCE | LLM chunk log saved | path=/tmp/worldarchitect.ai/HEAD/streaming_validation/llm_chunk_log_campaign-streaming-contract_1776223817.csv campaign_id=campaign-streaming-contract
+2026-04-15 03:30:17,558 - root - INFO - campaign_id=campaign-streaming-contract | 📦 STREAM_CACHE_USAGE: campaign=campaign-streaming-contract, cache_name=None, source=not_used, requested=True
+2026-04-15 03:30:17,559 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:17,559 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:17,559 - root - INFO - campaign_id=campaign-streaming-contract | Successfully set new game state for campaign campaign-streaming-contract.
+2026-04-15 03:30:17,559 - root - INFO - campaign_id=campaign-streaming-contract | Persisted streaming game state updates for campaign campaign-streaming-contract.
+2026-04-15 03:30:17,559 - root - INFO - campaign_id=campaign-streaming-contract | ✍️ Write completed: 0.000s, document_id: generated-id-1
+2026-04-15 03:30:17,660 - root - INFO - campaign_id=campaign-streaming-contract | ✅ VERIFICATION: Found document generated-id-1 on attempt 1
+2026-04-15 03:30:17,660 - root - INFO - campaign_id=campaign-streaming-contract | 📖 Verify-latest timing: 0.101s (checked latest 10 entries)
+2026-04-15 03:30:17,660 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ Write-then-read TOTAL latency: 0.101s (write: 0.000s, verify: 0.101s, sleep: 0.100s)
+2026-04-15 03:30:17,660 - root - INFO - campaign_id=campaign-streaming-contract | ✅ Write-then-read verification successful: user=test-user-streaming-contract, campaign=campaign-streaming-contract, actor=user
+2026-04-15 03:30:17,661 - root - INFO - campaign_id=campaign-streaming-contract | ✍️ Write completed: 0.000s, document_id: generated-id-2
+2026-04-15 03:30:17,761 - root - INFO - campaign_id=campaign-streaming-contract | ✅ VERIFICATION: Found document generated-id-2 on attempt 1
+2026-04-15 03:30:17,761 - root - INFO - campaign_id=campaign-streaming-contract | 📖 Verify-latest timing: 0.101s (checked latest 10 entries)
+2026-04-15 03:30:17,762 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ Write-then-read TOTAL latency: 0.101s (write: 0.000s, verify: 0.101s, sleep: 0.100s)
+2026-04-15 03:30:17,762 - root - INFO - campaign_id=campaign-streaming-contract | ✅ Write-then-read verification successful: user=test-user-streaming-contract, campaign=campaign-streaming-contract, actor=gemini
+2026-04-15 03:30:17,762 - root - INFO - campaign_id=campaign-streaming-contract | Persisted streaming story entries for campaign campaign-streaming-contract
+2026-04-15 03:30:17,762 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | flask_handler_total: 0.227s | chunks_yielded=5 | handler_start_utc=2026-04-15T03:30:17.534754+00:00
+.2026-04-15 03:30:17,762 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:17,762 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:17,762 - root - INFO - Schema doc cache initialized: 11 types, 0.17ms total
+2026-04-15 03:30:17,764 - root - INFO - Lazy warmup ready: main.firestore_service.get_campaigns_for_user
+2026-04-15 03:30:17,764 - root - INFO - Lazy warmup ready: main.openclaw_provider.test_openclaw_gateway_connection
+2026-04-15 03:30:17,764 - root - INFO - Lazy warmup ready: main.world_logic.get_campaigns_list_unified
+2026-04-15 03:30:17,764 - root - ERROR - 🔥🔴 Failed to create Firestore client: ('File /dev/null is not a valid json file.', JSONDecodeError('Expecting value: line 1 column 1 (char 0)'))
+2026-04-15 03:30:17,764 - root - ERROR - 🔥🔴 Runtime warmup failed for Firestore client/query priming.
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 184, in load_credentials_from_file
+    info = json.load(file_obj)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/firestore_service.py", line 1960, in get_db
+    return firestore.client()
+           ^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/firestore.py", line 53, in client
+    fs_client = _utils.get_app_service(app, _FIRESTORE_ATTRIBUTE, _FirestoreClient.from_app)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/_utils.py", line 98, in get_app_service
+    return app._get_service(name, initializer) # pylint: disable=protected-access
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/__init__.py", line 297, in _get_service
+    self._services[name] = initializer(self)
+                           ^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/firestore.py", line 69, in from_app
+    credentials = app.credential.get_credential()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/credentials.py", line 142, in get_credential
+    self._load_credential()
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/credentials.py", line 159, in _load_credential
+    self._g_credential, self._project_id = google.auth.default(scopes=_scopes)
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 714, in default
+    credentials, project_id = checker()
+                              ^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 707, in <lambda>
+    lambda: _get_explicit_environ_credentials(quota_project_id=quota_project_id),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 352, in _get_explicit_environ_credentials
+    credentials, project_id = load_credentials_from_file(
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 189, in load_credentials_from_file
+    raise new_exc from caught_exc
+google.auth.exceptions.DefaultCredentialsError: ('File /dev/null is not a valid json file.', JSONDecodeError('Expecting value: line 1 column 1 (char 0)'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/main.py", line 195, in _prime_firestore_runtime_warmup
+    firestore_service.get_db()
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/firestore_service.py", line 1963, in get_db
+    raise ValueError(
+ValueError: Firestore client creation failed. Check Firebase configuration and network connectivity.
+2026-04-15 03:30:17,765 - root - INFO - Lazy warmup started: main.firestore_runtime_warmup (background thread)
+2026-04-15 03:30:17,767 - root - INFO - Lazy warmup skipped: main.intent_classifier_ready (semantic routing disabled)
+2026-04-15 03:30:17,767 - root - INFO - Lazy warmup complete for homepage and streaming dependencies.
+2026-04-15 03:30:17,776 - root - INFO - campaign_id=campaign-streaming-contract | Streaming interaction (full flow) - user_id=test-user-streaming-contract, campaign_id=campaign-streaming-contract, mode=god
+2026-04-15 03:30:17,777 - root - INFO - campaign_id=campaign-streaming-contract | Stream story starting: user_id=test-user-streaming-contract, campaign_id=campaign-streaming-contract
+2026-04-15 03:30:17,777 - root - INFO - campaign_id=campaign-streaming-contract | 📖 FETCHED STORY ENTRIES: user=test-user-streaming-contract, campaign=campaign-streaming-contract, total_entries=0
+2026-04-15 03:30:17,777 - root - INFO - campaign_id=campaign-streaming-contract | 📊 STORY BREAKDOWN: user_entries=0, ai_entries=0, other_entries=0
+2026-04-15 03:30:17,777 - root - WARNING - ⚠️ campaign_id=campaign-streaming-contract | ⚠️ NO STORY ENTRIES FOUND for campaign campaign-streaming-contract
+2026-04-15 03:30:17,777 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | get_campaign_by_id: 0.000s
+2026-04-15 03:30:17,777 - root - INFO - campaign_id=campaign-streaming-contract | GameState: initialized last_living_world_time from world_data
+2026-04-15 03:30:17,777 - root - INFO - campaign_id=campaign-streaming-contract | Added microsecond field to world_time (default: 0)
+2026-04-15 03:30:17,777 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | get_campaign_game_state: 0.000s
+2026-04-15 03:30:17,777 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | get_user_settings: 0.000s
+2026-04-15 03:30:17,777 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:17,777 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:17,777 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:17,777 - root - INFO - campaign_id=campaign-streaming-contract | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:17,777 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:17,777 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:17,777 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | total_firestore_reads: 0.000s | story_entries=0
+2026-04-15 03:30:17,777 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:17,777 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:17,777 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | flask_handler_first_yield: 0.001s | handler_start_utc=2026-04-15T03:30:17.777034+00:00
+2026-04-15 03:30:17,777 - root - INFO - campaign_id=campaign-streaming-contract | 🔍 PROVIDER_SELECTION_START: user_id=test-user-streaming-contract, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=false, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:17,777 - root - INFO - campaign_id=campaign-streaming-contract | Using provider/model: gemini/gemini-3-flash-preview for story continuation.
+2026-04-15 03:30:17,777 - root - INFO - campaign_id=campaign-streaming-contract | 🔮 GOD_MODE_DETECTED: Using GodModeAgent
+2026-04-15 03:30:17,777 - root - INFO - campaign_id=campaign-streaming-contract | Cache MISS for god_mode_instruction.md: loaded and cached 17459 characters (~4364 tokens)
+2026-04-15 03:30:17,778 - root - INFO - campaign_id=campaign-streaming-contract | Cache MISS for planning_protocol.md: loaded and cached 15931 characters (~3982 tokens)
+2026-04-15 03:30:17,778 - root - INFO - campaign_id=campaign-streaming-contract | 📊 MEASURED_SIZES: system=72,209tk, state=403tk, memories=0tk, entities=10,500tk, checkpoint=18tk, sequence=0tk, story=0tk, total=83,130tk (budget=240,000tk)
+2026-04-15 03:30:17,778 - root - INFO - campaign_id=campaign-streaming-contract | 📊 MIN_ALLOCATION: total_min=163,218tk (68.0%), remaining=76,782tk (32.0%)
+2026-04-15 03:30:17,778 - root - INFO - campaign_id=campaign-streaming-contract | 📊 BUDGET_ALLOCATION_SUMMARY (budget=240,000tk):
+  system_instruction: 72,209tk -> 72,209tk (30.1%) ✅ OK
+  game_state: 403tk -> 12,000tk (5.0%) ✅ OK
+  core_memories: 0tk -> 48,000tk (20.0%) ✅ OK
+  entity_tracking: 10,500tk -> 10,500tk (4.4%) ✅ OK
+  checkpoint_block: 18tk -> 18tk (0.0%) ✅ OK
+  sequence_id: 0tk -> 0tk (0.0%) ✅ OK
+  story_context: 0tk -> 72,000tk (30.0%) ✅ OK
+2026-04-15 03:30:17,778 - root - INFO - campaign_id=campaign-streaming-contract | 📊 BUDGET: model_limit=1000000tk, safe_budget=300000tk, max_input=240000tk, output_reserve=60000tk (normal), story_budget=72000tk (30.0%)
+2026-04-15 03:30:17,778 - root - INFO - campaign_id=campaign-streaming-contract | Initial context stats: Turns: 0, Tokens: 0
+2026-04-15 03:30:17,778 - root - INFO - campaign_id=campaign-streaming-contract | Context is within token budget. No truncation needed.
+2026-04-15 03:30:17,778 - root - INFO - campaign_id=campaign-streaming-contract | ENTITY_TRACKING_PROMPT: preload_chars=330, specific_chars=597
+2026-04-15 03:30:17,778 - root - INFO - campaign_id=campaign-streaming-contract | ENTITY_TIERS: no NPCs
+2026-04-15 03:30:17,778 - root - INFO - campaign_id=campaign-streaming-contract | ENTITY_TRACKING_SIZE: 17tk (reserve was 10500tk)
+2026-04-15 03:30:17,778 - root - INFO - campaign_id=campaign-streaming-contract | GAME_STATE_BREAKDOWN: npc_data=0tk (EXCLUDED), world_data=41tk, player_data=36tk, remaining_state=354tk
+2026-04-15 03:30:17,778 - root - INFO - campaign_id=campaign-streaming-contract | 🐛 DEBUG_MODE_VALUE: mode='god', agent=GodModeAgent, agent.MODE=god
+2026-04-15 03:30:17,778 - root - INFO - campaign_id=campaign-streaming-contract | LLMREQUEST_PAYLOAD: story_history=0tk, total_payload=500tk
+2026-04-15 03:30:17,778 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | _prepare_story_continuation: 0.001s
+2026-04-15 03:30:17,778 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | json_serialization: 0.000s | payload_bytes=2579
+2026-04-15 03:30:17,779 - root - INFO - campaign_id=campaign-streaming-contract | BYOK_RESOLUTION: user_id=test-user-streaming-contract, provider=gemini, has_byok=False
+2026-04-15 03:30:17,779 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | token_calculation: 0.000s | prompt_tokens=644 system_tokens=72209 max_output=50000
+2026-04-15 03:30:17,780 - root - INFO - campaign_id=campaign-streaming-contract | PROVABLY_FAIR: commitment=2fc2e127d964755ae6f9c1a66327f6e399b2946e6b9d4ff74e00a5a56c48da33
+2026-04-15 03:30:17,780 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | llm_time_to_first_chunk: 0.000s | total_pre_stream: 0.003s
+2026-04-15 03:30:17,780 - root - INFO - campaign_id=campaign-streaming-contract | 🔍 STREAMING_EVIDENCE | First LLM chunk | campaign_id=campaign-streaming-contract request_id=campaign-streaming-contract_1776223817 timestamp=2026-04-15T03:30:17.780614+00:00 sequence=0
+2026-04-15 03:30:17,780 - root - INFO - campaign_id=campaign-streaming-contract | 📝 SYSTEM_INSTRUCTION (288839 chars): # File: master_directive.md
+
+# Master Directive: WorldArchitect.AI Prompt Hierarchy
+**Version: 2.2**
+**Last Updated: 2026-04-13**
+
+## Critical Loading Order and Precedence
+
+This document establishes the authoritative hierarchy for all AI instructions in WorldArchitect.AI. When conflicts arise between instructions, this hierarchy determines which instruction takes precedence.
+
+### 1. CRITICAL FOUNDATION (Load First - Highest Authority)
+These instructions form the core operational framework and MUST be loaded before all others:
+
+1. **`game_state_instruction.md`** - State management protocol, JSON input/output schemas, and entity structures
+   - Authority over: All state updates, data persistence, timeline management, entity structures, JSON input validation
+   - Critical because: Without proper state management and structured communication, nothing else functions
+   - Includes JSON input schema for structured LLM communication
+
+2. **D&D 5E SRD Authority** (defined in this file, "D&D 5E SRD System Authority" section)
+   - Authority over: All combat, attributes, spells, and mechanical resolution
+   - Critical because: Establishes single mechanical system authority
+
+### 2. CORE MECHANICS (Load Second)
+These define the fundamental game rules:
+
+3. **`mechanics_system_instruction.md`** - System integration
+   - Authority over: Character design (when mechanics enabled), dice rolling, leveling tiers, mechanical processes
+   - Defers to: dnd_srd_instruction.md for core mechanics
+   - Special role: Triggers mandatory character design when mechanics checkbox is selected
+
+### 3. NARRATIVE FRAMEWORK (Load Third)
+These guide storytelling and interaction:
+
+4. **`narrative_system_instruction.md`** - Storytelling protocol
+   - Authority over: Think blocks, narrative flow, story progression
+   - Must respect: State management and mechanics from above
+
+### 3. TEMPLATES (Load When Needed)
+These are reference formats:
+
+5. **`character_template.md`** - Character personality and narrative d...
+2026-04-15 03:30:17,780 - root - INFO - campaign_id=campaign-streaming-contract | 📤 RAW_REQUEST (2001 chars; logged up to 20000): {"game_mode": "god", "user_id": "test-user-streaming-contract", "selected_prompts": ["narrative", "mechanics"], "use_default_world": false, "story_history": [], "core_memories": [], "sequence_ids": [], "checkpoint_block": "[CHECKPOINT BLOCK:]\\nSequence ID: N/A | Location: Dungeon\\nMissions: None\\n", "entity_tracking": {"active_entities": [], "present_entities": [], "dormant_entities": []}, "game_state": {"game_state_version": 1, "player_character_data": {"entity_id": "player_character", "display_name": "Thorin", "name": "Thorin", "hp_current": 45, "hp_max": 50, "level": 5, "class_name": "Fighter"}, "world_data": {"current_location_name": "Dungeon", "world_time": {"year": 1492, "month": "Mirtul", "day": 10, "hour": 20, "minute": 0, "time_of_day": "Evening", "microsecond": 0}}, "item_registry": {}, "custom_campaign_state": {"arc_milestones": {}, "companion_arcs": {}, "next_companion_arc_turn": 3, "active_constraints": [], "attribute_system": "D&D", "campaign_tier": "mortal", "divine_potential": 0, "universe_control": 0, "divine_upgrade_available": false, "multiverse_upgrade_available": false, "_agent_selection_tracker": {"agent": "GodModeAgent", "count": 1, "rewards_skip_count": 0}}, "social_hp_challenge": null, "combat_state": {"in_combat": false}, "last_state_update_timestamp": "2026-04-15T03:30:17.777180+00:00", "turn_number": 0, "player_turn": 0, "last_living_world_turn": 0, "last_living_world_time": {"year": 1492, "month": "Mirtul", "day": 10, "hour": 20, "minute": 0, "time_of_day": "Evening"}, "time_sensitive_events": {}, "npc_agendas": {}, "world_resources": {}, "time_pressure_warnings": {}, "debug_mode": true, "pending_instruction_hints": [], "user_id": "test-user-streaming-contract", "story_text": "You stand at the entrance to the dungeon.", "campaign_id": "campaign-streaming-contract"}, "user_action": "GOD MODE: **REMINDER: God Mode is for administrative changes only. Do not advance the narrative.** Provide a brief overview of the current campaign state."}
+2026-04-15 03:30:17,781 - root - INFO - campaign_id=campaign-streaming-contract | 📥 RAW_RESPONSE (629 chars; logged up to 20000): {"narrative": "", "god_mode_response": "God Mode Overview:\n- Player HP: 45/50\n- Location: Dungeon\n- Custom campaign state updated: streaming_smoke_mode=contract", "planning_block": {"thinking": "Administrative command processed.", "choices": {"return_story": {"text": "Return to Story", "description": "Exit god mode", "risk_level": "safe"}}}, "session_header": "[SESSION_HEADER]\nTimestamp: Evening\nLocation: Dungeon\nStatus: Active", "resources": "HP: 45/50", "entities_mentioned": [], "location_confirmed": "Dungeon", "state_updates": {}, "debug_info": {"dm_notes": ["God mode query"], "state_rationale": "State updated"}}
+2026-04-15 03:30:17,782 - root - INFO - campaign_id=campaign-streaming-contract | 📁 STREAMING_EVIDENCE | Saved LLM chunk log | path=/tmp/worldarchitect.ai/HEAD/streaming_validation/llm_chunk_log_campaign-streaming-contract_1776223817.csv chunks=3 campaign_id=campaign-streaming-contract request_id=campaign-streaming-contract_1776223817
+2026-04-15 03:30:17,797 - root - INFO - campaign_id=campaign-streaming-contract | 📁 STREAMING_EVIDENCE | LLM chunk log saved | path=/tmp/worldarchitect.ai/HEAD/streaming_validation/llm_chunk_log_campaign-streaming-contract_1776223817.csv campaign_id=campaign-streaming-contract
+2026-04-15 03:30:17,797 - root - INFO - campaign_id=campaign-streaming-contract | 📦 STREAM_CACHE_USAGE: campaign=campaign-streaming-contract, cache_name=None, source=not_used, requested=True
+2026-04-15 03:30:17,797 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:17,797 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:17,797 - root - INFO - campaign_id=campaign-streaming-contract | Successfully set new game state for campaign campaign-streaming-contract.
+2026-04-15 03:30:17,797 - root - INFO - campaign_id=campaign-streaming-contract | Persisted streaming game state updates for campaign campaign-streaming-contract.
+2026-04-15 03:30:17,798 - root - INFO - campaign_id=campaign-streaming-contract | ✍️ Write completed: 0.000s, document_id: generated-id-1
+2026-04-15 03:30:17,898 - root - INFO - campaign_id=campaign-streaming-contract | ✅ VERIFICATION: Found document generated-id-1 on attempt 1
+2026-04-15 03:30:17,898 - root - INFO - campaign_id=campaign-streaming-contract | 📖 Verify-latest timing: 0.100s (checked latest 10 entries)
+2026-04-15 03:30:17,898 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ Write-then-read TOTAL latency: 0.101s (write: 0.000s, verify: 0.100s, sleep: 0.100s)
+2026-04-15 03:30:17,898 - root - INFO - campaign_id=campaign-streaming-contract | ✅ Write-then-read verification successful: user=test-user-streaming-contract, campaign=campaign-streaming-contract, actor=user
+2026-04-15 03:30:17,899 - root - INFO - campaign_id=campaign-streaming-contract | ✍️ Write completed: 0.000s, document_id: generated-id-2
+2026-04-15 03:30:17,999 - root - INFO - campaign_id=campaign-streaming-contract | ✅ VERIFICATION: Found document generated-id-2 on attempt 1
+2026-04-15 03:30:17,999 - root - INFO - campaign_id=campaign-streaming-contract | 📖 Verify-latest timing: 0.101s (checked latest 10 entries)
+2026-04-15 03:30:17,999 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ Write-then-read TOTAL latency: 0.101s (write: 0.000s, verify: 0.101s, sleep: 0.100s)
+2026-04-15 03:30:17,999 - root - INFO - campaign_id=campaign-streaming-contract | ✅ Write-then-read verification successful: user=test-user-streaming-contract, campaign=campaign-streaming-contract, actor=gemini
+2026-04-15 03:30:17,999 - root - INFO - campaign_id=campaign-streaming-contract | Persisted streaming story entries for campaign campaign-streaming-contract
+2026-04-15 03:30:18,000 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | flask_handler_total: 0.223s | chunks_yielded=5 | handler_start_utc=2026-04-15T03:30:17.777034+00:00
+.2026-04-15 03:30:18,000 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:18,000 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:18,000 - root - INFO - Schema doc cache initialized: 11 types, 0.15ms total
+2026-04-15 03:30:18,001 - root - INFO - Lazy warmup ready: main.firestore_service.get_campaigns_for_user
+2026-04-15 03:30:18,001 - root - INFO - Lazy warmup ready: main.openclaw_provider.test_openclaw_gateway_connection
+2026-04-15 03:30:18,001 - root - INFO - Lazy warmup ready: main.world_logic.get_campaigns_list_unified
+2026-04-15 03:30:18,002 - root - ERROR - 🔥🔴 Failed to create Firestore client: ('File /dev/null is not a valid json file.', JSONDecodeError('Expecting value: line 1 column 1 (char 0)'))
+2026-04-15 03:30:18,002 - root - INFO - Lazy warmup started: main.firestore_runtime_warmup (background thread)
+2026-04-15 03:30:18,002 - root - ERROR - 🔥🔴 Runtime warmup failed for Firestore client/query priming.
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 184, in load_credentials_from_file
+    info = json.load(file_obj)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/firestore_service.py", line 1960, in get_db
+    return firestore.client()
+           ^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/firestore.py", line 53, in client
+    fs_client = _utils.get_app_service(app, _FIRESTORE_ATTRIBUTE, _FirestoreClient.from_app)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/_utils.py", line 98, in get_app_service
+    return app._get_service(name, initializer) # pylint: disable=protected-access
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/__init__.py", line 297, in _get_service
+    self._services[name] = initializer(self)
+                           ^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/firestore.py", line 69, in from_app
+    credentials = app.credential.get_credential()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/credentials.py", line 142, in get_credential
+    self._load_credential()
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/credentials.py", line 159, in _load_credential
+    self._g_credential, self._project_id = google.auth.default(scopes=_scopes)
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 714, in default
+    credentials, project_id = checker()
+                              ^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 707, in <lambda>
+    lambda: _get_explicit_environ_credentials(quota_project_id=quota_project_id),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 352, in _get_explicit_environ_credentials
+    credentials, project_id = load_credentials_from_file(
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 189, in load_credentials_from_file
+    raise new_exc from caught_exc
+google.auth.exceptions.DefaultCredentialsError: ('File /dev/null is not a valid json file.', JSONDecodeError('Expecting value: line 1 column 1 (char 0)'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/main.py", line 195, in _prime_firestore_runtime_warmup
+    firestore_service.get_db()
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/firestore_service.py", line 1963, in get_db
+    raise ValueError(
+ValueError: Firestore client creation failed. Check Firebase configuration and network connectivity.
+2026-04-15 03:30:18,002 - root - INFO - Lazy warmup skipped: main.intent_classifier_ready (semantic routing disabled)
+2026-04-15 03:30:18,003 - root - INFO - Lazy warmup complete for homepage and streaming dependencies.
+2026-04-15 03:30:18,008 - root - INFO - campaign_id=campaign-streaming-contract | Streaming interaction (full flow) - user_id=test-user-streaming-contract, campaign_id=campaign-streaming-contract, mode=god
+2026-04-15 03:30:18,008 - root - INFO - campaign_id=campaign-streaming-contract | Stream story starting: user_id=test-user-streaming-contract, campaign_id=campaign-streaming-contract
+2026-04-15 03:30:18,008 - root - INFO - campaign_id=campaign-streaming-contract | 📖 FETCHED STORY ENTRIES: user=test-user-streaming-contract, campaign=campaign-streaming-contract, total_entries=0
+2026-04-15 03:30:18,008 - root - INFO - campaign_id=campaign-streaming-contract | 📊 STORY BREAKDOWN: user_entries=0, ai_entries=0, other_entries=0
+2026-04-15 03:30:18,008 - root - WARNING - ⚠️ campaign_id=campaign-streaming-contract | ⚠️ NO STORY ENTRIES FOUND for campaign campaign-streaming-contract
+2026-04-15 03:30:18,008 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | get_campaign_by_id: 0.000s
+2026-04-15 03:30:18,008 - root - INFO - campaign_id=campaign-streaming-contract | GameState: initialized last_living_world_time from world_data
+2026-04-15 03:30:18,008 - root - INFO - campaign_id=campaign-streaming-contract | Added microsecond field to world_time (default: 0)
+2026-04-15 03:30:18,008 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | get_campaign_game_state: 0.000s
+2026-04-15 03:30:18,008 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | get_user_settings: 0.000s
+2026-04-15 03:30:18,009 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:18,009 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:18,009 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:18,009 - root - INFO - campaign_id=campaign-streaming-contract | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:18,009 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:18,009 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:18,009 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | total_firestore_reads: 0.000s | story_entries=0
+2026-04-15 03:30:18,009 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:18,009 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:18,009 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | flask_handler_first_yield: 0.001s | handler_start_utc=2026-04-15T03:30:18.008762+00:00
+2026-04-15 03:30:18,009 - root - INFO - campaign_id=campaign-streaming-contract | 🔍 PROVIDER_SELECTION_START: user_id=test-user-streaming-contract, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=false, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:18,009 - root - INFO - campaign_id=campaign-streaming-contract | Using provider/model: gemini/gemini-3-flash-preview for story continuation.
+2026-04-15 03:30:18,009 - root - INFO - campaign_id=campaign-streaming-contract | 🔮 GOD_MODE_DETECTED: Using GodModeAgent
+2026-04-15 03:30:18,009 - root - INFO - campaign_id=campaign-streaming-contract | 📊 MEASURED_SIZES: system=72,209tk, state=403tk, memories=0tk, entities=10,500tk, checkpoint=18tk, sequence=0tk, story=0tk, total=83,130tk (budget=240,000tk)
+2026-04-15 03:30:18,009 - root - INFO - campaign_id=campaign-streaming-contract | 📊 MIN_ALLOCATION: total_min=163,218tk (68.0%), remaining=76,782tk (32.0%)
+2026-04-15 03:30:18,009 - root - INFO - campaign_id=campaign-streaming-contract | 📊 BUDGET_ALLOCATION_SUMMARY (budget=240,000tk):
+  system_instruction: 72,209tk -> 72,209tk (30.1%) ✅ OK
+  game_state: 403tk -> 12,000tk (5.0%) ✅ OK
+  core_memories: 0tk -> 48,000tk (20.0%) ✅ OK
+  entity_tracking: 10,500tk -> 10,500tk (4.4%) ✅ OK
+  checkpoint_block: 18tk -> 18tk (0.0%) ✅ OK
+  sequence_id: 0tk -> 0tk (0.0%) ✅ OK
+  story_context: 0tk -> 72,000tk (30.0%) ✅ OK
+2026-04-15 03:30:18,009 - root - INFO - campaign_id=campaign-streaming-contract | 📊 BUDGET: model_limit=1000000tk, safe_budget=300000tk, max_input=240000tk, output_reserve=60000tk (normal), story_budget=72000tk (30.0%)
+2026-04-15 03:30:18,009 - root - INFO - campaign_id=campaign-streaming-contract | Initial context stats: Turns: 0, Tokens: 0
+2026-04-15 03:30:18,010 - root - INFO - campaign_id=campaign-streaming-contract | Context is within token budget. No truncation needed.
+2026-04-15 03:30:18,010 - root - INFO - campaign_id=campaign-streaming-contract | ENTITY_TRACKING_PROMPT: preload_chars=330, specific_chars=615
+2026-04-15 03:30:18,010 - root - INFO - campaign_id=campaign-streaming-contract | ENTITY_TIERS: no NPCs
+2026-04-15 03:30:18,010 - root - INFO - campaign_id=campaign-streaming-contract | ENTITY_TRACKING_SIZE: 17tk (reserve was 10500tk)
+2026-04-15 03:30:18,010 - root - INFO - campaign_id=campaign-streaming-contract | GAME_STATE_BREAKDOWN: npc_data=0tk (EXCLUDED), world_data=41tk, player_data=36tk, remaining_state=354tk
+2026-04-15 03:30:18,010 - root - INFO - campaign_id=campaign-streaming-contract | 🐛 DEBUG_MODE_VALUE: mode='god', agent=GodModeAgent, agent.MODE=god
+2026-04-15 03:30:18,010 - root - INFO - campaign_id=campaign-streaming-contract | LLMREQUEST_PAYLOAD: story_history=0tk, total_payload=507tk
+2026-04-15 03:30:18,010 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | _prepare_story_continuation: 0.001s
+2026-04-15 03:30:18,010 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | json_serialization: 0.000s | payload_bytes=2606
+2026-04-15 03:30:18,010 - root - INFO - campaign_id=campaign-streaming-contract | BYOK_RESOLUTION: user_id=test-user-streaming-contract, provider=gemini, has_byok=False
+2026-04-15 03:30:18,010 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | token_calculation: 0.000s | prompt_tokens=651 system_tokens=72209 max_output=50000
+2026-04-15 03:30:18,012 - root - INFO - campaign_id=campaign-streaming-contract | PROVABLY_FAIR: commitment=8685bc50c5cb5a08726cc3be5d2fb95336f6ee06a924e77d8557389063a4bc91
+2026-04-15 03:30:18,012 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | llm_time_to_first_chunk: 0.000s | total_pre_stream: 0.003s
+2026-04-15 03:30:18,012 - root - INFO - campaign_id=campaign-streaming-contract | 🔍 STREAMING_EVIDENCE | First LLM chunk | campaign_id=campaign-streaming-contract request_id=campaign-streaming-contract_1776223818 timestamp=2026-04-15T03:30:18.012224+00:00 sequence=0
+2026-04-15 03:30:18,012 - root - INFO - campaign_id=campaign-streaming-contract | 📝 SYSTEM_INSTRUCTION (288839 chars): # File: master_directive.md
+
+# Master Directive: WorldArchitect.AI Prompt Hierarchy
+**Version: 2.2**
+**Last Updated: 2026-04-13**
+
+## Critical Loading Order and Precedence
+
+This document establishes the authoritative hierarchy for all AI instructions in WorldArchitect.AI. When conflicts arise between instructions, this hierarchy determines which instruction takes precedence.
+
+### 1. CRITICAL FOUNDATION (Load First - Highest Authority)
+These instructions form the core operational framework and MUST be loaded before all others:
+
+1. **`game_state_instruction.md`** - State management protocol, JSON input/output schemas, and entity structures
+   - Authority over: All state updates, data persistence, timeline management, entity structures, JSON input validation
+   - Critical because: Without proper state management and structured communication, nothing else functions
+   - Includes JSON input schema for structured LLM communication
+
+2. **D&D 5E SRD Authority** (defined in this file, "D&D 5E SRD System Authority" section)
+   - Authority over: All combat, attributes, spells, and mechanical resolution
+   - Critical because: Establishes single mechanical system authority
+
+### 2. CORE MECHANICS (Load Second)
+These define the fundamental game rules:
+
+3. **`mechanics_system_instruction.md`** - System integration
+   - Authority over: Character design (when mechanics enabled), dice rolling, leveling tiers, mechanical processes
+   - Defers to: dnd_srd_instruction.md for core mechanics
+   - Special role: Triggers mandatory character design when mechanics checkbox is selected
+
+### 3. NARRATIVE FRAMEWORK (Load Third)
+These guide storytelling and interaction:
+
+4. **`narrative_system_instruction.md`** - Storytelling protocol
+   - Authority over: Think blocks, narrative flow, story progression
+   - Must respect: State management and mechanics from above
+
+### 3. TEMPLATES (Load When Needed)
+These are reference formats:
+
+5. **`character_template.md`** - Character personality and narrative d...
+2026-04-15 03:30:18,012 - root - INFO - campaign_id=campaign-streaming-contract | 📤 RAW_REQUEST (2028 chars; logged up to 20000): {"game_mode": "god", "user_id": "test-user-streaming-contract", "selected_prompts": ["narrative", "mechanics"], "use_default_world": false, "story_history": [], "core_memories": [], "sequence_ids": [], "checkpoint_block": "[CHECKPOINT BLOCK:]\\nSequence ID: N/A | Location: Dungeon\\nMissions: None\\n", "entity_tracking": {"active_entities": [], "present_entities": [], "dormant_entities": []}, "game_state": {"game_state_version": 1, "player_character_data": {"entity_id": "player_character", "display_name": "Thorin", "name": "Thorin", "hp_current": 45, "hp_max": 50, "level": 5, "class_name": "Fighter"}, "world_data": {"current_location_name": "Dungeon", "world_time": {"year": 1492, "month": "Mirtul", "day": 10, "hour": 20, "minute": 0, "time_of_day": "Evening", "microsecond": 0}}, "item_registry": {}, "custom_campaign_state": {"arc_milestones": {}, "companion_arcs": {}, "next_companion_arc_turn": 3, "active_constraints": [], "attribute_system": "D&D", "campaign_tier": "mortal", "divine_potential": 0, "universe_control": 0, "divine_upgrade_available": false, "multiverse_upgrade_available": false, "_agent_selection_tracker": {"agent": "GodModeAgent", "count": 1, "rewards_skip_count": 0}}, "social_hp_challenge": null, "combat_state": {"in_combat": false}, "last_state_update_timestamp": "2026-04-15T03:30:18.008899+00:00", "turn_number": 0, "player_turn": 0, "last_living_world_turn": 0, "last_living_world_time": {"year": 1492, "month": "Mirtul", "day": 10, "hour": 20, "minute": 0, "time_of_day": "Evening"}, "time_sensitive_events": {}, "npc_agendas": {}, "world_resources": {}, "time_pressure_warnings": {}, "debug_mode": true, "pending_instruction_hints": [], "user_id": "test-user-streaming-contract", "story_text": "You stand at the entrance to the dungeon.", "campaign_id": "campaign-streaming-contract"}, "user_action": "**REMINDER: God Mode is for administrative changes only. Do not advance the narrative.**\n\nGOD_MODE_UPDATE_STATE:{\"custom_campaign_state\":{\"streaming_smoke_mode\":\"contract\"}}"}
+2026-04-15 03:30:18,012 - root - INFO - campaign_id=campaign-streaming-contract | 📥 RAW_RESPONSE (629 chars; logged up to 20000): {"narrative": "", "god_mode_response": "God Mode Overview:\n- Player HP: 45/50\n- Location: Dungeon\n- Custom campaign state updated: streaming_smoke_mode=contract", "planning_block": {"thinking": "Administrative command processed.", "choices": {"return_story": {"text": "Return to Story", "description": "Exit god mode", "risk_level": "safe"}}}, "session_header": "[SESSION_HEADER]\nTimestamp: Evening\nLocation: Dungeon\nStatus: Active", "resources": "HP: 45/50", "entities_mentioned": [], "location_confirmed": "Dungeon", "state_updates": {}, "debug_info": {"dm_notes": ["God mode query"], "state_rationale": "State updated"}}
+2026-04-15 03:30:18,013 - root - INFO - campaign_id=campaign-streaming-contract | 📁 STREAMING_EVIDENCE | Saved LLM chunk log | path=/tmp/worldarchitect.ai/HEAD/streaming_validation/llm_chunk_log_campaign-streaming-contract_1776223818.csv chunks=3 campaign_id=campaign-streaming-contract request_id=campaign-streaming-contract_1776223818
+2026-04-15 03:30:18,026 - root - INFO - campaign_id=campaign-streaming-contract | 📁 STREAMING_EVIDENCE | LLM chunk log saved | path=/tmp/worldarchitect.ai/HEAD/streaming_validation/llm_chunk_log_campaign-streaming-contract_1776223818.csv campaign_id=campaign-streaming-contract
+2026-04-15 03:30:18,026 - root - INFO - campaign_id=campaign-streaming-contract | 📦 STREAM_CACHE_USAGE: campaign=campaign-streaming-contract, cache_name=None, source=not_used, requested=True
+2026-04-15 03:30:18,026 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:18,026 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:18,026 - root - INFO - campaign_id=campaign-streaming-contract | Successfully set new game state for campaign campaign-streaming-contract.
+2026-04-15 03:30:18,026 - root - INFO - campaign_id=campaign-streaming-contract | Persisted streaming game state updates for campaign campaign-streaming-contract.
+2026-04-15 03:30:18,027 - root - INFO - campaign_id=campaign-streaming-contract | ✍️ Write completed: 0.000s, document_id: generated-id-1
+2026-04-15 03:30:18,127 - root - INFO - campaign_id=campaign-streaming-contract | ✅ VERIFICATION: Found document generated-id-1 on attempt 1
+2026-04-15 03:30:18,127 - root - INFO - campaign_id=campaign-streaming-contract | 📖 Verify-latest timing: 0.100s (checked latest 10 entries)
+2026-04-15 03:30:18,127 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ Write-then-read TOTAL latency: 0.101s (write: 0.000s, verify: 0.100s, sleep: 0.100s)
+2026-04-15 03:30:18,127 - root - INFO - campaign_id=campaign-streaming-contract | ✅ Write-then-read verification successful: user=test-user-streaming-contract, campaign=campaign-streaming-contract, actor=user
+2026-04-15 03:30:18,127 - root - INFO - campaign_id=campaign-streaming-contract | ✍️ Write completed: 0.000s, document_id: generated-id-2
+2026-04-15 03:30:18,228 - root - INFO - campaign_id=campaign-streaming-contract | ✅ VERIFICATION: Found document generated-id-2 on attempt 1
+2026-04-15 03:30:18,228 - root - INFO - campaign_id=campaign-streaming-contract | 📖 Verify-latest timing: 0.100s (checked latest 10 entries)
+2026-04-15 03:30:18,228 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ Write-then-read TOTAL latency: 0.101s (write: 0.000s, verify: 0.100s, sleep: 0.100s)
+2026-04-15 03:30:18,228 - root - INFO - campaign_id=campaign-streaming-contract | ✅ Write-then-read verification successful: user=test-user-streaming-contract, campaign=campaign-streaming-contract, actor=gemini
+2026-04-15 03:30:18,228 - root - INFO - campaign_id=campaign-streaming-contract | Persisted streaming story entries for campaign campaign-streaming-contract
+2026-04-15 03:30:18,228 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | flask_handler_total: 0.220s | chunks_yielded=5 | handler_start_utc=2026-04-15T03:30:18.008762+00:00
+.2026-04-15 03:30:18,228 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:18,228 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:18,228 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:18,229 - root - INFO - Lazy warmup ready: main.firestore_service.get_campaigns_for_user
+2026-04-15 03:30:18,229 - root - INFO - Lazy warmup ready: main.openclaw_provider.test_openclaw_gateway_connection
+2026-04-15 03:30:18,229 - root - INFO - Lazy warmup ready: main.world_logic.get_campaigns_list_unified
+2026-04-15 03:30:18,230 - root - INFO - Lazy warmup started: main.firestore_runtime_warmup (background thread)
+2026-04-15 03:30:18,230 - root - INFO - Lazy warmup skipped: main.intent_classifier_ready (semantic routing disabled)
+2026-04-15 03:30:18,230 - root - INFO - Lazy warmup complete for homepage and streaming dependencies.
+2026-04-15 03:30:18,235 - root - INFO - campaign_id=campaign-streaming-contract | Streaming interaction (full flow) - user_id=test-user-streaming-contract, campaign_id=campaign-streaming-contract, mode=think
+2026-04-15 03:30:18,235 - root - INFO - campaign_id=campaign-streaming-contract | Stream story starting: user_id=test-user-streaming-contract, campaign_id=campaign-streaming-contract
+2026-04-15 03:30:18,235 - root - INFO - campaign_id=campaign-streaming-contract | 📖 FETCHED STORY ENTRIES: user=test-user-streaming-contract, campaign=campaign-streaming-contract, total_entries=0
+2026-04-15 03:30:18,235 - root - INFO - campaign_id=campaign-streaming-contract | 📊 STORY BREAKDOWN: user_entries=0, ai_entries=0, other_entries=0
+2026-04-15 03:30:18,235 - root - WARNING - ⚠️ campaign_id=campaign-streaming-contract | ⚠️ NO STORY ENTRIES FOUND for campaign campaign-streaming-contract
+2026-04-15 03:30:18,235 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | get_campaign_by_id: 0.000s
+2026-04-15 03:30:18,236 - root - INFO - campaign_id=campaign-streaming-contract | GameState: initialized last_living_world_time from world_data
+2026-04-15 03:30:18,236 - root - INFO - campaign_id=campaign-streaming-contract | Added microsecond field to world_time (default: 0)
+2026-04-15 03:30:18,236 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | get_campaign_game_state: 0.000s
+2026-04-15 03:30:18,236 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | get_user_settings: 0.000s
+2026-04-15 03:30:18,236 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:18,236 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:18,236 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:18,236 - root - INFO - campaign_id=campaign-streaming-contract | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:18,236 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:18,236 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:18,236 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | total_firestore_reads: 0.000s | story_entries=0
+2026-04-15 03:30:18,236 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:18,236 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:18,236 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | flask_handler_first_yield: 0.001s | handler_start_utc=2026-04-15T03:30:18.235854+00:00
+2026-04-15 03:30:18,236 - root - INFO - campaign_id=campaign-streaming-contract | 🔍 PROVIDER_SELECTION_START: user_id=test-user-streaming-contract, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=false, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:18,236 - root - INFO - campaign_id=campaign-streaming-contract | Using provider/model: gemini/gemini-3-flash-preview for story continuation.
+2026-04-15 03:30:18,236 - root - INFO - campaign_id=campaign-streaming-contract | 🎭 CHARACTER_CREATION_CHECK: Character creation mode ACTIVE
+2026-04-15 03:30:18,236 - root - INFO - campaign_id=campaign-streaming-contract | 🎭 CHARACTER_CREATION_ACTIVE: Using CharacterCreationAgent
+2026-04-15 03:30:18,236 - root - INFO - campaign_id=campaign-streaming-contract | 🌍 LIVING_WORLD: Including living world instruction every turn (turn=1)
+2026-04-15 03:30:18,236 - root - INFO - campaign_id=campaign-streaming-contract | 🎭 _extract_companions_from_state: No companions found in npc_data (keys: [])
+2026-04-15 03:30:18,237 - root - INFO - campaign_id=campaign-streaming-contract | 📊 MEASURED_SIZES: system=75,264tk, state=405tk, memories=0tk, entities=10,500tk, checkpoint=18tk, sequence=0tk, story=0tk, total=86,187tk (budget=240,000tk)
+2026-04-15 03:30:18,237 - root - INFO - campaign_id=campaign-streaming-contract | 📊 MIN_ALLOCATION: total_min=163,218tk (68.0%), remaining=76,782tk (32.0%)
+2026-04-15 03:30:18,237 - root - INFO - campaign_id=campaign-streaming-contract | 📊 BUDGET_ALLOCATION_SUMMARY (budget=240,000tk):
+  system_instruction: 75,264tk -> 75,264tk (31.4%) ✅ OK
+  game_state: 405tk -> 12,000tk (5.0%) ✅ OK
+  core_memories: 0tk -> 48,000tk (20.0%) ✅ OK
+  entity_tracking: 10,500tk -> 10,500tk (4.4%) ✅ OK
+  checkpoint_block: 18tk -> 18tk (0.0%) ✅ OK
+  sequence_id: 0tk -> 0tk (0.0%) ✅ OK
+  story_context: 0tk -> 72,000tk (30.0%) ✅ OK
+2026-04-15 03:30:18,237 - root - INFO - campaign_id=campaign-streaming-contract | 📊 BUDGET: model_limit=1000000tk, safe_budget=300000tk, max_input=240000tk, output_reserve=60000tk (normal), story_budget=72000tk (30.0%)
+2026-04-15 03:30:18,237 - root - INFO - campaign_id=campaign-streaming-contract | Initial context stats: Turns: 0, Tokens: 0
+2026-04-15 03:30:18,237 - root - INFO - campaign_id=campaign-streaming-contract | Context is within token budget. No truncation needed.
+2026-04-15 03:30:18,238 - root - INFO - campaign_id=campaign-streaming-contract | ENTITY_TRACKING_PROMPT: preload_chars=330, specific_chars=586
+2026-04-15 03:30:18,238 - root - INFO - campaign_id=campaign-streaming-contract | ENTITY_TIERS: no NPCs
+2026-04-15 03:30:18,238 - root - INFO - campaign_id=campaign-streaming-contract | ENTITY_TRACKING_SIZE: 17tk (reserve was 10500tk)
+2026-04-15 03:30:18,238 - root - INFO - campaign_id=campaign-streaming-contract | GAME_STATE_BREAKDOWN: npc_data=0tk (EXCLUDED), world_data=41tk, player_data=36tk, remaining_state=356tk
+2026-04-15 03:30:18,238 - root - INFO - campaign_id=campaign-streaming-contract | 🐛 DEBUG_MODE_VALUE: mode='think', agent=CharacterCreationAgent, agent.MODE=character_creation
+2026-04-15 03:30:18,238 - root - INFO - campaign_id=campaign-streaming-contract | LLMREQUEST_PAYLOAD: story_history=0tk, total_payload=518tk
+2026-04-15 03:30:18,238 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | _prepare_story_continuation: 0.002s
+2026-04-15 03:30:18,238 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | json_serialization: 0.000s | payload_bytes=2653
+2026-04-15 03:30:18,238 - root - INFO - campaign_id=campaign-streaming-contract | BYOK_RESOLUTION: user_id=test-user-streaming-contract, provider=gemini, has_byok=False
+2026-04-15 03:30:18,238 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | token_calculation: 0.000s | prompt_tokens=663 system_tokens=75264 max_output=50000
+2026-04-15 03:30:18,238 - root - ERROR - 🔥🔴 Failed to create Firestore client: ('File /dev/null is not a valid json file.', JSONDecodeError('Expecting value: line 1 column 1 (char 0)'))
+2026-04-15 03:30:18,238 - root - ERROR - 🔥🔴 Runtime warmup failed for Firestore client/query priming.
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 184, in load_credentials_from_file
+    info = json.load(file_obj)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/firestore_service.py", line 1960, in get_db
+    return firestore.client()
+           ^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/firestore.py", line 53, in client
+    fs_client = _utils.get_app_service(app, _FIRESTORE_ATTRIBUTE, _FirestoreClient.from_app)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/_utils.py", line 98, in get_app_service
+    return app._get_service(name, initializer) # pylint: disable=protected-access
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/__init__.py", line 297, in _get_service
+    self._services[name] = initializer(self)
+                           ^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/firestore.py", line 69, in from_app
+    credentials = app.credential.get_credential()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/credentials.py", line 142, in get_credential
+    self._load_credential()
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/credentials.py", line 159, in _load_credential
+    self._g_credential, self._project_id = google.auth.default(scopes=_scopes)
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 714, in default
+    credentials, project_id = checker()
+                              ^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 707, in <lambda>
+    lambda: _get_explicit_environ_credentials(quota_project_id=quota_project_id),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 352, in _get_explicit_environ_credentials
+    credentials, project_id = load_credentials_from_file(
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 189, in load_credentials_from_file
+    raise new_exc from caught_exc
+google.auth.exceptions.DefaultCredentialsError: ('File /dev/null is not a valid json file.', JSONDecodeError('Expecting value: line 1 column 1 (char 0)'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/main.py", line 195, in _prime_firestore_runtime_warmup
+    firestore_service.get_db()
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/firestore_service.py", line 1963, in get_db
+    raise ValueError(
+ValueError: Firestore client creation failed. Check Firebase configuration and network connectivity.
+2026-04-15 03:30:18,239 - root - INFO - campaign_id=campaign-streaming-contract | PROVABLY_FAIR: commitment=4a11e4681a3772b15d33e2b7cb431b57018de3dc7d83d82c7dea08886a8b4574
+2026-04-15 03:30:18,239 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | llm_time_to_first_chunk: 0.000s | total_pre_stream: 0.003s
+2026-04-15 03:30:18,239 - root - INFO - campaign_id=campaign-streaming-contract | 🔍 STREAMING_EVIDENCE | First LLM chunk | campaign_id=campaign-streaming-contract request_id=campaign-streaming-contract_1776223818 timestamp=2026-04-15T03:30:18.239960+00:00 sequence=0
+2026-04-15 03:30:18,240 - root - INFO - campaign_id=campaign-streaming-contract | 📝 SYSTEM_INSTRUCTION (301058 chars): # File: master_directive.md
+
+# Master Directive: WorldArchitect.AI Prompt Hierarchy
+**Version: 2.2**
+**Last Updated: 2026-04-13**
+
+## Critical Loading Order and Precedence
+
+This document establishes the authoritative hierarchy for all AI instructions in WorldArchitect.AI. When conflicts arise between instructions, this hierarchy determines which instruction takes precedence.
+
+### 1. CRITICAL FOUNDATION (Load First - Highest Authority)
+These instructions form the core operational framework and MUST be loaded before all others:
+
+1. **`game_state_instruction.md`** - State management protocol, JSON input/output schemas, and entity structures
+   - Authority over: All state updates, data persistence, timeline management, entity structures, JSON input validation
+   - Critical because: Without proper state management and structured communication, nothing else functions
+   - Includes JSON input schema for structured LLM communication
+
+2. **D&D 5E SRD Authority** (defined in this file, "D&D 5E SRD System Authority" section)
+   - Authority over: All combat, attributes, spells, and mechanical resolution
+   - Critical because: Establishes single mechanical system authority
+
+### 2. CORE MECHANICS (Load Second)
+These define the fundamental game rules:
+
+3. **`mechanics_system_instruction.md`** - System integration
+   - Authority over: Character design (when mechanics enabled), dice rolling, leveling tiers, mechanical processes
+   - Defers to: dnd_srd_instruction.md for core mechanics
+   - Special role: Triggers mandatory character design when mechanics checkbox is selected
+
+### 3. NARRATIVE FRAMEWORK (Load Third)
+These guide storytelling and interaction:
+
+4. **`narrative_system_instruction.md`** - Storytelling protocol
+   - Authority over: Think blocks, narrative flow, story progression
+   - Must respect: State management and mechanics from above
+
+### 3. TEMPLATES (Load When Needed)
+These are reference formats:
+
+5. **`character_template.md`** - Character personality and narrative d...
+2026-04-15 03:30:18,240 - root - INFO - campaign_id=campaign-streaming-contract | 📤 RAW_REQUEST (2075 chars; logged up to 20000): {"game_mode": "think", "user_id": "test-user-streaming-contract", "selected_prompts": ["narrative", "mechanics"], "use_default_world": false, "story_history": [], "core_memories": [], "sequence_ids": [], "checkpoint_block": "[CHECKPOINT BLOCK:]\\nSequence ID: N/A | Location: Dungeon\\nMissions: None\\n", "entity_tracking": {"active_entities": [], "present_entities": [], "dormant_entities": []}, "game_state": {"game_state_version": 1, "player_character_data": {"entity_id": "player_character", "display_name": "Thorin", "name": "Thorin", "hp_current": 45, "hp_max": 50, "level": 5, "class_name": "Fighter"}, "world_data": {"current_location_name": "Dungeon", "world_time": {"year": 1492, "month": "Mirtul", "day": 10, "hour": 20, "minute": 0, "time_of_day": "Evening", "microsecond": 0}}, "item_registry": {}, "custom_campaign_state": {"arc_milestones": {}, "companion_arcs": {}, "next_companion_arc_turn": 3, "active_constraints": [], "attribute_system": "D&D", "campaign_tier": "mortal", "divine_potential": 0, "universe_control": 0, "divine_upgrade_available": false, "multiverse_upgrade_available": false, "_agent_selection_tracker": {"agent": "CharacterCreationAgent", "count": 1, "rewards_skip_count": 0}}, "social_hp_challenge": null, "combat_state": {"in_combat": false}, "last_state_update_timestamp": "2026-04-15T03:30:18.235990+00:00", "turn_number": 0, "player_turn": 0, "last_living_world_turn": 0, "last_living_world_time": {"year": 1492, "month": "Mirtul", "day": 10, "hour": 20, "minute": 0, "time_of_day": "Evening"}, "time_sensitive_events": {}, "npc_agendas": {}, "world_resources": {}, "time_pressure_warnings": {}, "debug_mode": true, "pending_instruction_hints": [], "user_id": "test-user-streaming-contract", "story_text": "You stand at the entrance to the dungeon.", "campaign_id": "campaign-streaming-contract"}, "user_action": "THINK: Evaluate options for bypassing the warded gate.\n\n[SYSTEM ENFORCEMENT: For ANY dice roll, you MUST use the code_execution tool with random.randint(). Your code will be inspected. Fabricated dice = rejection.]"}
+2026-04-15 03:30:18,240 - root - INFO - campaign_id=campaign-streaming-contract | 📥 RAW_RESPONSE (741 chars; logged up to 20000): {"narrative": "You pause to assess the tactical situation carefully.", "god_mode_response": "", "planning_block": {"thinking": "Consider all options before acting.", "choices": {"stealth": {"text": "Stealth approach", "description": "Sneak past guards", "risk_level": "medium"}, "negotiate": {"text": "Negotiate", "description": "Talk your way through", "risk_level": "low"}, "fight": {"text": "Fight", "description": "Direct combat", "risk_level": "high"}}}, "session_header": "[SESSION_HEADER]\nTimestamp: Evening\nLocation: Dungeon\nStatus: Active", "resources": "HP: 45/50", "entities_mentioned": [], "location_confirmed": "Dungeon", "state_updates": {}, "debug_info": {"dm_notes": ["Think mode"], "state_rationale": "No state changes"}}
+2026-04-15 03:30:18,240 - root - INFO - campaign_id=campaign-streaming-contract | 📁 STREAMING_EVIDENCE | Saved LLM chunk log | path=/tmp/worldarchitect.ai/HEAD/streaming_validation/llm_chunk_log_campaign-streaming-contract_1776223818.csv chunks=3 campaign_id=campaign-streaming-contract request_id=campaign-streaming-contract_1776223818
+2026-04-15 03:30:18,253 - root - INFO - campaign_id=campaign-streaming-contract | 📁 STREAMING_EVIDENCE | LLM chunk log saved | path=/tmp/worldarchitect.ai/HEAD/streaming_validation/llm_chunk_log_campaign-streaming-contract_1776223818.csv campaign_id=campaign-streaming-contract
+2026-04-15 03:30:18,253 - root - INFO - campaign_id=campaign-streaming-contract | 📦 STREAM_CACHE_USAGE: campaign=campaign-streaming-contract, cache_name=None, source=not_used, requested=True
+2026-04-15 03:30:18,253 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:18,253 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:18,253 - root - INFO - campaign_id=campaign-streaming-contract | Successfully set new game state for campaign campaign-streaming-contract.
+2026-04-15 03:30:18,253 - root - INFO - campaign_id=campaign-streaming-contract | Persisted streaming game state updates for campaign campaign-streaming-contract.
+2026-04-15 03:30:18,253 - root - INFO - campaign_id=campaign-streaming-contract | ✍️ Write completed: 0.000s, document_id: generated-id-1
+2026-04-15 03:30:18,354 - root - INFO - campaign_id=campaign-streaming-contract | ✅ VERIFICATION: Found document generated-id-1 on attempt 1
+2026-04-15 03:30:18,354 - root - INFO - campaign_id=campaign-streaming-contract | 📖 Verify-latest timing: 0.100s (checked latest 10 entries)
+2026-04-15 03:30:18,354 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ Write-then-read TOTAL latency: 0.101s (write: 0.000s, verify: 0.100s, sleep: 0.100s)
+2026-04-15 03:30:18,354 - root - INFO - campaign_id=campaign-streaming-contract | ✅ Write-then-read verification successful: user=test-user-streaming-contract, campaign=campaign-streaming-contract, actor=user
+2026-04-15 03:30:18,355 - root - INFO - campaign_id=campaign-streaming-contract | ✍️ Write completed: 0.000s, document_id: generated-id-2
+2026-04-15 03:30:18,455 - root - INFO - campaign_id=campaign-streaming-contract | ✅ VERIFICATION: Found document generated-id-2 on attempt 1
+2026-04-15 03:30:18,455 - root - INFO - campaign_id=campaign-streaming-contract | 📖 Verify-latest timing: 0.101s (checked latest 10 entries)
+2026-04-15 03:30:18,455 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ Write-then-read TOTAL latency: 0.101s (write: 0.000s, verify: 0.101s, sleep: 0.100s)
+2026-04-15 03:30:18,455 - root - INFO - campaign_id=campaign-streaming-contract | ✅ Write-then-read verification successful: user=test-user-streaming-contract, campaign=campaign-streaming-contract, actor=gemini
+2026-04-15 03:30:18,455 - root - INFO - campaign_id=campaign-streaming-contract | Persisted streaming story entries for campaign campaign-streaming-contract
+2026-04-15 03:30:18,456 - root - INFO - campaign_id=campaign-streaming-contract | ⏱️ STREAM_TIMING | flask_handler_total: 0.220s | chunks_yielded=5 | handler_start_utc=2026-04-15T03:30:18.235854+00:00
+.
+----------------------------------------------------------------------
+Ran 4 tests in 0.930s
+
+OK
+/usr/lib/python3.12/asyncio/base_events.py:726: ResourceWarning: unclosed event loop <_UnixSelectorEventLoop running=False closed=False debug=False>
+RESULT: PASS
+DURATION: 2s
+END: 2026-04-15 03:30:18

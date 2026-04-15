@@ -1,0 +1,49 @@
+TESTFILE: mvp_site/tests/test_cache_n_minus_1.py
+START: 2026-04-15 03:29:45
+2026-04-15 03:29:45,973 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:29:45,975 - root - INFO - 📦 CACHE_TOKEN_COUNT: campaign=test-campaign, total_token_count=<MagicMock name='mock.caches.create().usage_metadata.total_token_count' id='129544847590176'>, entries=2, cache_name=cachedContents/first-cache
+2026-04-15 03:29:45,975 - root - INFO - 📦 CACHE_CREATED (N-1 first-ever): campaign=test-campaign, entries=2, duration=0.00s, cache_name=cachedContents/first-cache (deferred — no old cache to use)
+.2026-04-15 03:29:45,975 - root - INFO - 📦 CACHE_TOKEN_COUNT: campaign=test-campaign, total_token_count=<MagicMock name='mock.caches.create().usage_metadata.total_token_count' id='129544847632880'>, entries=1, cache_name=cachedContents/cache-v1
+2026-04-15 03:29:45,975 - root - INFO - 📦 CACHE_CREATED (N-1 first-ever): campaign=test-campaign, entries=1, duration=0.00s, cache_name=cachedContents/cache-v1 (deferred — no old cache to use)
+2026-04-15 03:29:45,975 - root - INFO - 📦 CACHE_PROMOTED: campaign=test-campaign, new=cachedContents/cache-v1
+.2026-04-15 03:29:45,976 - root - INFO - 📦 CACHE_TOKEN_COUNT: campaign=test-campaign, total_token_count=<MagicMock name='mock.caches.create().usage_metadata.total_token_count' id='129544847708608'>, entries=2, cache_name=cachedContents/cache-v1
+2026-04-15 03:29:45,976 - root - INFO - 📦 CACHE_CREATED (N-1 first-ever): campaign=test-campaign, entries=2, duration=0.00s, cache_name=cachedContents/cache-v1 (deferred — no old cache to use)
+2026-04-15 03:29:45,976 - root - INFO - 📦 CACHE_PROMOTED: campaign=test-campaign, new=cachedContents/cache-v1
+2026-04-15 03:29:45,976 - root - INFO - 📦 CACHE_TOKEN_COUNT: campaign=test-campaign, total_token_count=<MagicMock name='mock.caches.create().usage_metadata.total_token_count' id='129544847751456'>, entries=7, cache_name=cachedContents/cache-v2
+2026-04-15 03:29:45,976 - root - INFO - 📦 CACHE_CREATED (N-1 deferred): campaign=test-campaign, entries=7, duration=0.00s, new_cache=cachedContents/cache-v2, still_using=cachedContents/cache-v1
+2026-04-15 03:29:45,977 - root - INFO - 📦 CACHE_PROMOTED: campaign=test-campaign, old=cachedContents/cache-v1 → new=cachedContents/cache-v2 (old deleted)
+.2026-04-15 03:29:45,977 - root - INFO - 📦 CACHE_TOKEN_COUNT: campaign=test-campaign, total_token_count=<MagicMock name='mock.caches.create().usage_metadata.total_token_count' id='129544847902864'>, entries=2, cache_name=cachedContents/cache-v1
+2026-04-15 03:29:45,977 - root - INFO - 📦 CACHE_CREATED (N-1 first-ever): campaign=test-campaign, entries=2, duration=0.00s, cache_name=cachedContents/cache-v1 (deferred — no old cache to use)
+2026-04-15 03:29:45,977 - root - INFO - 📦 CACHE_PROMOTED: campaign=test-campaign, new=cachedContents/cache-v1
+2026-04-15 03:29:45,978 - root - INFO - 📦 CACHE_TOKEN_COUNT: campaign=test-campaign, total_token_count=<MagicMock name='mock.caches.create().usage_metadata.total_token_count' id='129544847962528'>, entries=7, cache_name=cachedContents/cache-v2
+2026-04-15 03:29:45,978 - root - INFO - 📦 CACHE_CREATED (N-1 deferred): campaign=test-campaign, entries=7, duration=0.00s, new_cache=cachedContents/cache-v2, still_using=cachedContents/cache-v1
+2026-04-15 03:29:45,978 - root - INFO - 📦 CACHE_PROMOTED: campaign=test-campaign, old=cachedContents/cache-v1 → new=cachedContents/cache-v2 (old deleted)
+.2026-04-15 03:29:45,979 - root - INFO - 📦 CACHE_TOKEN_COUNT: campaign=test-campaign, total_token_count=<MagicMock name='mock.caches.create().usage_metadata.total_token_count' id='129544847712544'>, entries=2, cache_name=cachedContents/cache-v1
+2026-04-15 03:29:45,979 - root - INFO - 📦 CACHE_CREATED (N-1 first-ever): campaign=test-campaign, entries=2, duration=0.00s, cache_name=cachedContents/cache-v1 (deferred — no old cache to use)
+2026-04-15 03:29:45,979 - root - INFO - 📦 CACHE_PROMOTED: campaign=test-campaign, new=cachedContents/cache-v1
+2026-04-15 03:29:45,979 - root - INFO - 📦 CACHE_TOKEN_COUNT: campaign=test-campaign, total_token_count=<MagicMock name='mock.caches.create().usage_metadata.total_token_count' id='129544847666944'>, entries=7, cache_name=cachedContents/cache-v2
+2026-04-15 03:29:45,979 - root - INFO - 📦 CACHE_CREATED (N-1 deferred): campaign=test-campaign, entries=7, duration=0.00s, new_cache=cachedContents/cache-v2, still_using=cachedContents/cache-v1
+.2026-04-15 03:29:45,980 - root - INFO - 📦 CACHE_TOKEN_COUNT: campaign=test-campaign, total_token_count=<MagicMock name='mock.caches.create().usage_metadata.total_token_count' id='129544847592816'>, entries=1, cache_name=cachedContents/cache-v1
+2026-04-15 03:29:45,980 - root - INFO - 📦 CACHE_CREATED (N-1 first-ever): campaign=test-campaign, entries=1, duration=0.00s, cache_name=cachedContents/cache-v1 (deferred — no old cache to use)
+2026-04-15 03:29:45,980 - root - INFO - 📦 CACHE_PROMOTED: campaign=test-campaign, new=cachedContents/cache-v1
+2026-04-15 03:29:45,980 - root - INFO - 📦 CACHE_TOKEN_COUNT: campaign=test-campaign, total_token_count=<MagicMock name='mock.caches.create().usage_metadata.total_token_count' id='129544847541696'>, entries=2, cache_name=cachedContents/cache-v2
+2026-04-15 03:29:45,980 - root - INFO - 📦 CACHE_CREATED (N-1 deferred): campaign=test-campaign, entries=2, duration=0.00s, new_cache=cachedContents/cache-v2, still_using=cachedContents/cache-v1
+.2026-04-15 03:29:45,981 - root - INFO - 📦 CACHE_TOKEN_COUNT: campaign=test-campaign, total_token_count=<MagicMock name='mock.caches.create().usage_metadata.total_token_count' id='129544848021008'>, entries=2, cache_name=cachedContents/cache-v1
+2026-04-15 03:29:45,981 - root - INFO - 📦 CACHE_CREATED (N-1 first-ever): campaign=test-campaign, entries=2, duration=0.00s, cache_name=cachedContents/cache-v1 (deferred — no old cache to use)
+2026-04-15 03:29:45,981 - root - INFO - 📦 CACHE_PROMOTED: campaign=test-campaign, new=cachedContents/cache-v1
+2026-04-15 03:29:45,981 - root - INFO - 📦 CACHE_TOKEN_COUNT: campaign=test-campaign, total_token_count=<MagicMock name='mock.caches.create().usage_metadata.total_token_count' id='129544848063952'>, entries=7, cache_name=cachedContents/cache-v2
+2026-04-15 03:29:45,981 - root - INFO - 📦 CACHE_CREATED (N-1 deferred): campaign=test-campaign, entries=7, duration=0.00s, new_cache=cachedContents/cache-v2, still_using=cachedContents/cache-v1
+.2026-04-15 03:29:45,982 - root - INFO - 📦 CACHE_TOKEN_COUNT: campaign=test-campaign, total_token_count=<MagicMock name='mock.caches.create().usage_metadata.total_token_count' id='129544848139584'>, entries=2, cache_name=cachedContents/cache-v1
+2026-04-15 03:29:45,982 - root - INFO - 📦 CACHE_CREATED (N-1 first-ever): campaign=test-campaign, entries=2, duration=0.00s, cache_name=cachedContents/cache-v1 (deferred — no old cache to use)
+2026-04-15 03:29:45,982 - root - INFO - 📦 CACHE_PROMOTED: campaign=test-campaign, new=cachedContents/cache-v1
+2026-04-15 03:29:45,982 - root - INFO - 📦 CACHE_WITH_TOOLS: campaign=test-campaign, tool_count=1
+2026-04-15 03:29:45,982 - root - INFO - 📦 CACHE_TOKEN_COUNT: campaign=test-campaign, total_token_count=<MagicMock name='mock.caches.create().usage_metadata.total_token_count' id='129544848231696'>, entries=3, cache_name=cachedContents/cache-v2
+2026-04-15 03:29:45,982 - root - INFO - 📦 CACHE_CREATED (tool_upgrade immediate switch): campaign=test-campaign, entries=3, duration=0.00s, old_cache=cachedContents/cache-v1, new_cache=cachedContents/cache-v2
+.
+----------------------------------------------------------------------
+Ran 8 tests in 0.009s
+
+OK
+RESULT: PASS
+DURATION: 1s
+END: 2026-04-15 03:29:46

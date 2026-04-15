@@ -1,0 +1,16 @@
+TESTFILE: mvp_site/tests/test_rate_limiting.py
+START: 2026-04-15 03:30:38
+2026-04-15 03:30:38,310 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+...........2026-04-15 03:30:38,389 - root - ERROR - 🔥🔴 Failed to get user settings for user_595859: Firestore unavailable
+2026-04-15 03:30:38,389 - root - WARNING - ⚠️ Rate limit check failed (infrastructure): Firestore unavailable
+.2026-04-15 03:30:38,389 - root - ERROR - 🔥🔴 Failed to get user settings for user_595859: Unexpected bug
+2026-04-15 03:30:38,389 - root - ERROR - 🔥🔴 Rate limit check failed (unexpected): Unexpected bug
+..........................2026-04-15 03:30:38,397 - root - ERROR - 🔥🔴 Failed to record turn for user user1: Firestore unavailable
+...
+----------------------------------------------------------------------
+Ran 41 tests in 0.013s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:30:38

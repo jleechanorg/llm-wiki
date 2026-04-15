@@ -1,0 +1,40 @@
+TESTFILE: mvp_site/tests/test_dice_tools.py
+START: 2026-04-15 03:29:58
+2026-04-15 03:29:58,197 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+........2026-04-15 03:29:58,787 - root - INFO - DICE_TOOL_EXEC: tool=roll_attack | args={'attack_modifier': 5, 'damage_notation': '1d8+3', 'target_ac': 15}
+2026-04-15 03:29:58,787 - root - INFO - DICE_AUDIT: notation=1d20+5 | rolls=[2] | modifier=5 | total=7 | nat20=False | nat1=False
+2026-04-15 03:29:58,787 - root - INFO - DICE_TOOL_RESULT: tool=roll_attack | weapon= | rolls=[2] | total=7 | hit=False | critical=False | damage=N/A
+.2026-04-15 03:29:58,788 - root - INFO - DICE_TOOL_EXEC: tool=roll_dice | args={'notation': '2d6+3', 'purpose': 'damage'}
+2026-04-15 03:29:58,788 - root - INFO - DICE_AUDIT: notation=2d6+3 | rolls=[2, 2] | modifier=3 | total=7 | nat20=False | nat1=False
+2026-04-15 03:29:58,788 - root - INFO - DICE_TOOL_RESULT: tool=roll_dice | notation=2d6+3 | rolls=[2, 2] | total=7 | purpose=damage
+.2026-04-15 03:29:58,788 - root - INFO - DICE_TOOL_EXEC: tool=roll_skill_check | args={'attribute_modifier': 3, 'proficiency_bonus': 2, 'proficient': True, 'dc': 15, 'dc_reasoning': 'guard is distracted', 'skill_name': 'Stealth'}
+2026-04-15 03:29:58,788 - root - INFO - DICE_AUDIT: notation=1d20+5 | rolls=[6] | modifier=5 | total=11 | nat20=False | nat1=False
+2026-04-15 03:29:58,788 - root - INFO - DICE_TOOL_RESULT: tool=roll_skill_check | skill=Stealth | roll=6 | total=11 | dc=15 | dc_reasoning=guard is distracted | success=False
+.2026-04-15 03:29:58,788 - root - INFO - DICE_TOOL_EXEC: tool=roll_saving_throw | args={'attribute_modifier': 2, 'proficiency_bonus': 2, 'proficient': False, 'dc': 14, 'dc_reasoning': 'Fireball from 5th-level caster (8+3+3)', 'save_type': 'DEX'}
+2026-04-15 03:29:58,788 - root - INFO - DICE_AUDIT: notation=1d20+2 | rolls=[13] | modifier=2 | total=15 | nat20=False | nat1=False
+2026-04-15 03:29:58,788 - root - INFO - DICE_TOOL_RESULT: tool=roll_saving_throw | save_type=DEX | roll=13 | total=15 | dc=14 | dc_reasoning=Fireball from 5th-level caster (8+3+3) | success=True
+.2026-04-15 03:29:58,788 - root - INFO - DICE_TOOL_EXEC: tool=roll_skill_check | args={'attribute_modifier': 4, 'proficiency_bonus': 2, 'proficient': True, 'dc': 18, 'dc_reasoning': 'FBI agent, professionally trained to resist manipulation', 'skill_name': 'Persuasion'}
+2026-04-15 03:29:58,788 - root - INFO - DICE_AUDIT: notation=1d20+6 | rolls=[7] | modifier=6 | total=13 | nat20=False | nat1=False
+2026-04-15 03:29:58,788 - root - INFO - DICE_TOOL_RESULT: tool=roll_skill_check | skill=Persuasion | roll=7 | total=13 | dc=18 | dc_reasoning=FBI agent, professionally trained to resist manipulation | success=False
+.2026-04-15 03:29:58,788 - root - INFO - DICE_TOOL_EXEC: tool=unknown_tool | args={}
+2026-04-15 03:29:58,788 - root - WARNING - ⚠️ DICE_TOOL_RESULT: Unknown tool=unknown_tool
+.2026-04-15 03:29:58,788 - root - INFO - DICE_TOOL_EXEC: tool=roll_saving_throw | args={'attribute_modifier': 2, 'proficiency_bonus': 2, 'dc': 14, 'save_type': 'DEX'}
+2026-04-15 03:29:58,788 - root - WARNING - ⚠️ 🎲 AUTO_DC_REASONING: LLM omitted dc_reasoning for roll_saving_throw, auto-generated: 'DC 14 for DEX saving throw'
+2026-04-15 03:29:58,788 - root - INFO - DICE_AUDIT: notation=1d20+2 | rolls=[10] | modifier=2 | total=12 | nat20=False | nat1=False
+2026-04-15 03:29:58,788 - root - INFO - DICE_TOOL_RESULT: tool=roll_saving_throw | save_type=DEX | roll=10 | total=12 | dc=14 | dc_reasoning=DC 14 for DEX saving throw | success=False
+.2026-04-15 03:29:58,788 - root - INFO - DICE_TOOL_EXEC: tool=roll_skill_check | args={'attribute_modifier': 3, 'proficiency_bonus': 2, 'dc': 15, 'skill_name': 'Stealth'}
+2026-04-15 03:29:58,788 - root - WARNING - ⚠️ 🎲 AUTO_DC_REASONING: LLM omitted dc_reasoning for roll_skill_check, auto-generated: 'DC 15 for Stealth'
+2026-04-15 03:29:58,788 - root - INFO - DICE_AUDIT: notation=1d20+3 | rolls=[9] | modifier=3 | total=12 | nat20=False | nat1=False
+2026-04-15 03:29:58,788 - root - INFO - DICE_TOOL_RESULT: tool=roll_skill_check | skill=Stealth | roll=9 | total=12 | dc=15 | dc_reasoning=DC 15 for Stealth | success=False
+.2026-04-15 03:29:58,788 - root - INFO - DICE_TOOL_EXEC: tool=roll_attack | args={'attack_modifier': 5}
+2026-04-15 03:29:58,788 - root - INFO - DICE_TOOL_RESULT: tool=roll_attack | weapon= | rolls=[15] | total=15 | hit=True | critical=False | damage=15
+.2026-04-15 03:29:58,788 - root - INFO - DICE_TOOL_EXEC: tool=roll_dice | args={'notation': '1d20'}
+2026-04-15 03:29:58,788 - root - INFO - DICE_TOOL_RESULT: tool=roll_dice | notation=1d20 | rolls=[15] | total=15 | purpose=
+.
+----------------------------------------------------------------------
+Ran 18 tests in 0.001s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:29:58

@@ -1,0 +1,20 @@
+TESTFILE: mvp_site/tests/test_cache_provably_fair.py
+START: 2026-04-15 03:29:46
+2026-04-15 03:29:46,674 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:29:46,714 - root - INFO - Gemini code_execution: Single JSON call (no tool_requests Phase 2)
+2026-04-15 03:29:46,714 - root - INFO - PROVABLY_FAIR: commitment=e324f084569cd92c5df0f72bdc4c33b4ee8b186b44a2edd0ffdfe429aa80a503
+.2026-04-15 03:29:46,714 - root - INFO - 📦 NATIVE_TOOLS_CACHE_PHASE1: cache_name present; system_instruction and tools from cache
+2026-04-15 03:29:46,714 - root - INFO - 🔧 TOOLS_INVOKED_BY_LLM: 1 tools called: ['roll_dice']
+2026-04-15 03:29:46,714 - root - INFO - DICE_TOOL_EXEC: tool=roll_dice | args={'notation': '1d20'}
+2026-04-15 03:29:46,715 - root - INFO - DICE_AUDIT: notation=1d20 | rolls=[14] | modifier=0 | total=14 | nat20=False | nat1=False
+2026-04-15 03:29:46,715 - root - INFO - DICE_TOOL_RESULT: tool=roll_dice | notation=1d20 | rolls=[14] | total=14 | purpose=
+.2026-04-15 03:29:46,715 - root - INFO - Gemini code_execution: Single JSON call (no tool_requests Phase 2)
+2026-04-15 03:29:46,715 - root - INFO - PROVABLY_FAIR: commitment=4a3a63eac180ee31dd0df4f6fda3bc6b6e44415f7d51c6474f42a9d62a11c52c
+.
+----------------------------------------------------------------------
+Ran 3 tests in 0.045s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:29:46

@@ -1,0 +1,13 @@
+TESTFILE: mvp_site/tests/test_delete_token_comprehensive.py
+START: 2026-04-15 03:29:55
+2026-04-15 03:29:55,084 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:29:55,241 - root - INFO - update_state: Deleting key 'goblin1' due to DELETE_TOKEN.
+2026-04-15 03:29:55,241 - root - INFO - update_state: Deleting key 'goblin2' due to DELETE_TOKEN.
+.....
+----------------------------------------------------------------------
+Ran 5 tests in 0.003s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:29:55
