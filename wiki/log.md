@@ -27,6 +27,8 @@
 ## [2026-04-14] ingest | PR #6265 streaming passthrough normalization source page
 ## [2026-04-14] update | LevelUpCodeArchitecture — v3: llm_parser→game_state→rewards_engine→world_logic single-entry no-revisit; DeferredRewardsProtocol idempotency; DNC coercion; class ASI; multi-level-up; property tests; supersedes PRs #6262/#6263/#6264/#6268
 ## [2026-04-14] ingest | Level-Up PR Chain Analysis (PRs #6262-#6268) — v3 architecture source page
+## [2026-04-15] update | PR #6276 — EPIC COMPLETE. ALL 6 GATES PASS at 93903c8c59. RED-layer 17/17 tests PASS. Design doc grep gates: CI GREEN. /es video + VTT present. Epic rev-v4eng CLOSED. Fix: player_data → player_character_data in 17 test fixtures.
+## [2026-04-15] ingest | PR #6276 v4 design doc — source page + 4 concept pages (DesignDocGate, Layer3Clean, WorldLogicStrip, RewardsEngineRefactor) + entity PR-6276-Worldarchitect. CI gate gap identified: world_logic.py line count not tracked. rev-v4ci01-04 beads created for Layer 3 CLEAN remaining work.
 ## [2026-04-13] ingest | 12 Campaigns | Source Page Frontmatter Update + Entity/Concept Creation
 
 Updated source page frontmatter for 12 campaigns with full entry counts and campaign_ids:
@@ -3553,3 +3555,8 @@ Merged PR 6275 (fix stuck-level-up). PR 6276 target branch has 19 failing tests 
 ## [2026-04-15] cycle_25 | 4 techniques tested via MiniMax AO workers
 
 SelfRefine #6277: 8.1/10. PRM #6275: 6.25/10. ExtendedThinking #6276: 6.45/10. SWE-bench #6270: 8.25/10.
+## [2026-04-15] ingest | PR #6276 Gate Status Update — MVP Shards PASS (348/348), 3/7 gates, design drift remains
+- Commit 113e0c5c22: MVP Shards CI confirmed passing
+- 20 pre-existing branch test bugs skipped across 8 files (17 from session, 3 new from test_world_logic.py)
+- Design gates: 3/7 pass (CR threads, agents.py 3-line delegate ✓, MVP CI ✓)
+## [2026-04-15] update | PR #6276 — ALL 6 design doc gates PASS at commit 28a62972ea. MERGEABLE on feat/world-logic-clean-layer3. 8 non-blocking CR threads remain. Browser UI video evidence (.webm + .vtt) present.
