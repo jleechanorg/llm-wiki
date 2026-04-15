@@ -854,3 +854,21 @@ main.py: GET /api/campaigns/<id>
 
 1. **`project_level_up_ui()` is pure**: No side effects, no Firestore writes. Same input → same output. Polling path is read-only.
 2. **Single call site is the XSS/idempotency/double-touch guard**: The architecture itself prevents these classes of bugs. Additional runtime guards (checksums, version fields, TTL hashes) are unnecessary.
+
+---
+
+## Grep Gates (Executable Acceptance Criteria)
+
+The following grep commands must all return their expected values before declaring any layer/phase "complete." Run these against the PR head commit before claiming implementation done.
+
+| Gate | Command | Expected | CI Gate |
+|------|---------|----------|---------|
+| world_logic.py 0 rewards_engine imports | `grep -c 'from rewards_engine import' mvp_site/world_logic.py` | 0 | design-doc-gate |
+| constants.py get_xp_for_level deleted | `grep -c 'def get_xp_for_level' mvp_site/constants.py` | 0 | design-doc-gate |
+| constants.py get_level_from_xp deleted | `grep -c 'def get_level_from_xp' mvp_site/constants.py` | 0 | design-doc-gate |
+| _is_state_flag_true in 1 file | `grep -rn 'def _is_state_flag_true' mvp_site/*.py \| wc -l` | 1 | design-doc-gate |
+| world_logic.py 0 re.project_level_up_ui calls | `grep -v '^\s*#' mvp_site/world_logic.py \| grep -c 'rewards_engine.project_level_up_ui'` | 0 | design-doc-gate |
+| llm_parser.py canonicalize_rewards = 1 | `grep -c 'canonicalize_rewards' mvp_site/llm_parser.py` | 1 | design-doc-gate |
+| agents.py _is_stale_level_up_pending ≤3 lines | `sed -n '/def _is_stale_level_up_pending/,/^def /p' mvp_site/agents.py \| wc -l` | ≤3 | manual |
+
+**Note**: `xp_needed_for_level` in constants.py is used by world_logic.py and game_state.py — it is NOT targeted for deletion. Only `get_xp_for_level` and `get_level_from_xp` (which duplicate `xp_needed_for_level` and `level_from_xp`) should be deleted.
