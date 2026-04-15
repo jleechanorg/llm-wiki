@@ -14,6 +14,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
+- [PR #6276 Design Doc v4 Summary](sources/pr6276_design_doc_v4_summary.md) — source page for PR #6276 v4 design, Layer 3 CLEAN status, grep gate gap
 - [RefineRL](sources/refinere-ll-paper.md) — RL-based self-refinement for competitive programming; 4B surpasses 32B, approaches 235B single-attempt results; Skeptical-Agent + RLVR training
 - [ThinkTwice](sources/think-twice-paper.md) — Joint GRPO optimization of reasoning + self-refinement; +11.5pp on AIME after one refinement step; no critique annotations needed
 - [Self-Debias](sources/self-debias-paper.md) — Self-correction for debiasing LLMs via trajectory optimization; addresses bias propagation through CoT; 20k samples sufficient
@@ -5578,6 +5579,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 
 ## Entities
 
+- [PR-6276-Worldarchitect](entities/PR-6276-Worldarchitect.md) — PR #6276 entity: feat/world-logic-clean-layer3, ~75% done, Layer 3 CLEAN remaining
 - [Dropbox](entities/Dropbox.md) — File sync service using DHT for peer-to-peer sync, CRDT-based conflict resolution
 - [JeffreyChan](entities/JeffreyChan.md) — SEM at Snap, ex-Staff SWE at Google, jleechanorg owner
 - [jleechanclaw](entities/jleechanclaw.md) — Primary delegation workflow repo (TARGET_REPO after March 2026 postmortem)
@@ -5728,6 +5730,10 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 
 ## Concepts
 
+- [RewardsEngineRefactor](concepts/RewardsEngineRefactor.md) — Consolidating rewards decisions into rewards_engine.py: full public API, single call site
+- [WorldLogicStrip](concepts/WorldLogicStrip.md) — Reducing world_logic.py to thin modal wrapper: ~7200 lines to remove
+- [Layer3Clean](concepts/Layer3Clean.md) — TDD final phase: strip world_logic.py from 8729 to 1500 lines, delete deprecated functions
+- [DesignDocGate](concepts/DesignDocGate.md) — CI grep gate workflow: 5 gates enforced, gap: world_logic.py line count not tracked
 - [JeffreyWorkingStyle](concepts/JeffreyWorkingStyle.md) — CLI-first, automation-driven, evidence-based workflow
 - [JeffreyCommunicationStyle](concepts/JeffreyCommunicationStyle.md) — Terse, direct, imperative communication
 - [JeffreyGoals](concepts/JeffreyGoals.md) — Current priorities: PR flow, automation, LLM-first architecture
@@ -5827,7 +5833,8 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Beam Search Over Reasoning](concepts/BeamSearchOverReasoning.md) — PRM-guided beam search over k reasoning paths; prunes bad paths at first bad step, concentrating test-time compute efficiently
 - [Compiler Verification](concepts/CompilerVerification.md) — Formal verification of compilers (CompCert, CakeML); semantic preservation proofs as inspiration for AI coding toolchain guarantees
 - [Nautiloid (Mind Flayer Ship)](concepts/Nautiloid.md) — Living organic vessel, BG3 opening setting
-- [SelfRefine](concepts/SelfRefine.md) — Iterative generate-critique-revise loop (Madaan 2023); distinct from pre-hoc extended thinking, achieves 20-40% error reduction in 2-3 passes
+- [SelfRefine](concepts/SelfRefine.md) — Iterative generate-critique-revise loop (Madaan 2023); avg 79.9/100 on 19 PRs; best when PR description matches actual
+- [ProcessRewardModel](concepts/ProcessRewardModel.md) — Step-level evaluation during generation; best for catching misdiagnosed root causes (e.g., C9 field inconsistency was red herring)
 - [Self-Generated Test Generation](concepts/SelfGeneratedTestGeneration.md) — AI models producing test cases for their own output; fills coverage gaps, requires test execution for verification
 - [XP (Experience Points)](concepts/XP.md) — D&D 5e currency for progression; awarded for combat, encounters, quests, and milestones; triggers level-up when thresholds are reached
 - [Miasma](concepts/Miasma.md) — Divine blood of Venus, Gaia Julia's unique power
@@ -6081,6 +6088,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [cycle_extended_thinking_v3](syntheses/cycle_extended_thinking_v3.md) — ExtendedThinking: +24 avg, best for medium/complex
 - [cycle_selfrefine_v3](syntheses/cycle_selfrefine_v3.md) — SelfRefine: +17 avg, consistent but shallow
 - [cycle_swebench_v3](syntheses/cycle_swebench_v3.md) — SWE-bench: +24 avg, best Type Safety improvement
+- [technique-comparison-cycle26](syntheses/technique-comparison-cycle26.md) — FINAL: 19 PRs SelfRefine study, avg 79.9/100; PR description accuracy is #1 predictor; technique selection guide by PR type
 - [cycle_metaharness_v3](syntheses/cycle_metaharness_v3.md) — Meta-Harness: +27 avg, highest leverage single technique
 - [cycle_prm_v3](syntheses/cycle_prm_v3.md) — PRM/SWE-Shepherd: +23 avg, catches key_func-level missed bugs
 - [cycle_combined_v3](syntheses/cycle_combined_v3.md) — Combined: +46 avg, 1.7x Meta-Harness alone
