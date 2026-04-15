@@ -26,6 +26,14 @@ Refactors `world_logic.py` to remove deprecated rewards detection functions, wir
 - Removed: `resolve_level_up_signal`, `ensure_rewards_box`, `normalize_rewards_box` from rewards_engine
 - Kept: `is_level_up_active`, `project_level_up_ui`, `should_show_rewards_box`
 
+## Status Update (2026-04-15)
+
+After PR 6275 merge, PR 6276 is now **CONFLICTING** (mergeable: CONFLICTING, mergeStateStatus: DIRTY). Rebase needed.
+
+- `feat/world-logic-clean-layer3` HEAD: `2e7b4e13f3` (cherry-pick from pr-6275, not rebased to latest main)
+- Test failures: 19 failures in test_level_up_stale_flags.py on this branch vs 62/62 on `chore/auto-research-cycle19`
+- CodeRabbit: CHANGES_REQUESTED (multiple unresolved threads)
+
 ## Architecture
 
 This is Layer 3 of a multi-layer rewards engine single-responsibility refactor:
