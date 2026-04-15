@@ -3544,3 +3544,4 @@ Created sources/level-up-v4-current-status-2026-04-14.md — consolidated status
 ## [2026-04-15] ingest | Level-Up Engine Single-Responsibility Design (2026-04-14) | Design doc ingested; drift analysis: world_logic.py 9 calls remain, constants.py dupes not deleted, browser UI video missing
 ## [2026-04-15] cycle22 | PR #6277 RewardsBox TypedDict — MERGE 92.5/100; 10/10 tests pass; validate_rewards_box defined but not wired; dual-validator distinction undocumented
 ## [2026-04-15] ingest | PR #6276 Level-Up Status 2026-04-15 | Layer 3 CLEAN incomplete, 7 agents running, 5 CI failures, 11 CR threads open
+## [2026-04-15] cycle23 | PR #6275 stuck-level-up — MERGE (CI pending); 76/76 tests pass; C9: player_data→player_character_data typo in rewards_engine.py broke all injection tests
