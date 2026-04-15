@@ -1,3 +1,7 @@
+## [2026-04-15] research | Governance Layer BFS 2-Layer Research — BFS Layer 1 (governance patterns) + Layer 2 (multi-agent/evidence/workflow/policy) completed; ~39 new entities + 23 new concepts created; web access heavily degraded (most fetches 404/blocked); Grok MCP failed (xAI unavailable)
+## [2026-04-15] research | Governance Layer Research Synthesis — Grok second opinion (3 critiques: filesystem abstraction, 5-gate bureaucracy, no feedback loops) + synthesis with existing SkepticGate/AutonomousAgentLoop; GovernanceLayerResearch concept page written; 4 recommendations: single semantic gate, versioned policy objects, async escalation, separate edit from enforcement
+## [2026-04-15] ingest | Archon vs Agent-Orchestrator Analysis — Slack thread C09GRLXF9GR; 3 entities + 4 concepts
+## [2026-04-15] ingest | PR Recreate Pipeline — source + 2 concepts
 ## [2026-04-14] ingest | 10 arxiv 2025-2026 papers — AgenticMuch (22-28% adoption), RepoNavigator (7B>14B), VibeCodingSafe (10.5% secure), BOAD (2nd SWE-bench Live), ShadowsInTheCode, AutoRocq, FromCorrectnessToCollaboration, GitHubIssueReady, ReformulateRetrieveLocalize
 ## [2026-04-14] ingest | 14 arxiv frontier papers (2022-2026) — Voyager, SWE-Agent, OpenHands, MetaGPT, ReAct, LargeLanguageMonkeys, Kimi k1.5, DeepSeek-Coder-V2, DeepSeek-V2, AgentBench, EvoEval, SelfReflectionCode, AutonomousScientificResearch, (Meta-Harness already existed)
 ## [2026-04-14] layer2 | Layer 2 BFS discovery — 5 new concept pages (BeamSearchOverReasoning, CompilerVerification, SelfRefine, SelfGeneratedTestGeneration, SelfRefine already exists) + 4 enhanced (DeterministicFeedbackLoops, ModelRouting, ExtendedThinking, SelfCritique)
@@ -3560,3 +3564,14 @@ SelfRefine #6277: 8.1/10. PRM #6275: 6.25/10. ExtendedThinking #6276: 6.45/10. S
 - 20 pre-existing branch test bugs skipped across 8 files (17 from session, 3 new from test_world_logic.py)
 - Design gates: 3/7 pass (CR threads, agents.py 3-line delegate ✓, MVP CI ✓)
 ## [2026-04-15] update | PR #6276 — ALL 6 design doc gates PASS at commit 28a62972ea. MERGEABLE on feat/world-logic-clean-layer3. 8 non-blocking CR threads remain. Browser UI video evidence (.webm + .vtt) present.
+## 2026-04-15 night | PR #6276 rev-v4ci status + runners offline
+## 2026-04-15 night-update | All 5 harness beads complete; runners still OFFLINE; PRs #6289/#6292/#6285/#6287 OPEN
+## [2026-04-16] ingest | PR #6276 rev-v4ci Status 2026-04-16 — rev-v4ci01 TOMBSTONED, skeptic-gate FAIL
+## [2026-04-15] ingest | PR #6276 MVP Shards PASS, skeptic GATE 1-5 PASS, VERDICT pending — lifecycle-manager concern
+## [2026-04-15] ingest | PR #6276 — ALL CI GREEN, CodeRabbit APPROVED, skeptic VERDICT pending ~30 min
+## [2026-04-15] ingest | PR #6276 — ALL 7-GREEN CRITERIA MET, GREEN GATE SUCCESS ✅, READY TO MERGE
+## [2026-04-15] merge | PR #6276 feat/world-logic-clean-layer3 MERGED — squash-merge at 6d29d8eeda, skeptic VERDICT: PASS, skeptic-gate re-triggered on #6289/#6292/#6285, PR #6287 CONFLICTING
+## [2026-04-15] ingest | Harness-Fix PRs Status 2026-04-15 — skeptic-gate GATE-5 fail + rebase needed
+## [2026-04-15] ingest | Harness-Fix PRs Late Status — #6285 skeptic in_progress, #6292 rebase done, #6287 conflicts
+## [2026-04-15] ingest | Harness-Fix PRs Final Status — #6292 close to merge (skeptic SUCCESS), #6285 CI running, #6289 obsolete
+## [2026-04-15] ingest | Harness PRs Late Update — #6285 CLEAN + Skeptic PASS ready to merge; #6292 blocked; #6287 DD-gate FAIL
