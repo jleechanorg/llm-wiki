@@ -1392,3 +1392,27 @@ None.
 ### Decision
 **APPROVE — MERGE.** Low-risk schema definition PR. Well-scoped, 10 passing tests, no regressions.
 
+---
+
+## Cycle 23 — 2026-04-15T00:20:00Z
+
+### Test PR Selected
+**#6275: fix(level-up): synthesize rewards_box when level_up_complete=True but box missing**
+
+### Root Cause Found (by fix-6275-blocker agent)
+**C9: Cross-Module Field Name Inconsistency (player_data vs player_character_data)**
+
+The PR called for `rewards_engine.py` functions that used `game_state.get("player_data", {})` internally, but the entire codebase uses `player_character_data` as the key. This caused `resolve_level_up_signal` to always derive level=1 (empty dict → xp=0), breaking ALL level-up injection tests.
+
+4 occurrences of `player_data` → `player_character_data` in `rewards_engine.py`:
+- `resolve_level_up_signal` — level derivation
+- `ensure_rewards_box` — rewards building
+- `build_level_up_rewards_box` — rewards box synthesis
+- `original_state_dict` access
+
+### Test Results
+76/76 tests pass (was 0/14 before fix).
+
+### Decision
+**APPROVE — MERGE (pending CI).** Root cause fixed, all tests passing. Blockers from Cycle 21 resolved.
+
