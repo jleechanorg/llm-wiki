@@ -3577,3 +3577,4 @@ SelfRefine #6277: 8.1/10. PRM #6275: 6.25/10. ExtendedThinking #6276: 6.45/10. S
 ## [2026-04-15] ingest | Harness-Fix PRs Final Status — #6292 close to merge (skeptic SUCCESS), #6285 CI running, #6289 obsolete
 ## [2026-04-15] ingest | Harness PRs Late Update — #6285 CLEAN + Skeptic PASS ready to merge; #6292 blocked; #6287 DD-gate FAIL
 ## [2026-04-16] ingest | PR #6276 Post-Merge Assessment 2026-04-16 — ~85% done, Layer 3 CLEAN incomplete, rev-v4ci01 TOMBSTONED, design doc equivalence wrong
+## [2026-04-16] update | PR #6276 post-merge — extra commits merged to main via 908b5db7c9, PR #6308 orphaned

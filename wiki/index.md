@@ -6169,6 +6169,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [ProductTasteLayer](concepts/ProductTasteLayer.md) — Product taste components
 - [AutoResearchHypotheses](concepts/AutoResearchHypotheses.md) — H1-H4 validated patterns + C1-C6 cross-PR patterns
 - [Layer3CleanRefactor](concepts/Layer3CleanRefactor.md) — Layer 3 single-responsibility rewards engine refactor
+- [BehavioralEquivalenceAudit](concepts/BehavioralEquivalenceAudit.md) — Verify two functions produce identical outputs; 0/3 pairs equivalent in PR #6276
 
 ### Reference
 - [research-wiki-results](sources/research-wiki-results.md) — 18-cycle experiment log
