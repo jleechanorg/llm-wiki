@@ -1474,3 +1474,55 @@ Cannot cherry-pick our commits onto `feat/world-logic-clean-layer3` due to world
 **PR 6275 merged too** — fix stuck-level-up completion. Our `chore/auto-research-cycle19` branch passed 62/62 tests while PR 6276's target branch (`feat/world-logic-clean-layer3`) had 19 failures.
 
 **Next focus**: PR 6276 is BLOCKED with conflicts after PR 6275 merge. Its target branch needs rebasing.
+
+---
+
+## Cycle 25 — 2026-04-15T03:30:00Z
+
+### Objective
+Test 4 techniques (SelfRefine, PRM, ExtendedThinking, SWE-bench) on 4 PRs using AO workers with MiniMax-M2.5.
+
+### Techniques Tested
+
+| Technique | PR | Score | Accuracy | Key Finding |
+|-----------|-----|-------|----------|-------------|
+| SelfRefine (3-iter) | #6277 TypedDict | **8.1/10** | ~70% | Predicted new_level/source_id fields correctly, missed progress_percent type expansion |
+| PRM (step feedback) | #6275 stuck-level-up | **6.25/10** | N/A | Correctly identified C9 was misdiagnosis — actual bug is logic gap |
+| ExtendedThinking | #6276 Layer 3 CLEAN | **6.45/10** | ~65% | Correctly identified architecture, wrong about scope (single-line fix predicted as large refactor) |
+| SWE-bench (test-first) | #6270 skeptic workflows | **8.25/10** | 9/9 tests | Test-first works well for infrastructure/structural PRs |
+
+### Key Findings
+
+**SelfRefine**: Works moderately well. 3 iterations helped catch missing test changes and type expansions. Limitation: "schema enforcement" framing led to predicting field additions rather than type strengthening.
+
+**PRM**: Step-level feedback helped avoid red herring. C9 field name inconsistency turned out to be benign (local parameter names, not dict keys). The actual bug was a logic gap in stuck-completion detection. This is PRM's strength — guiding away from wrong hypotheses.
+
+**ExtendedThinking**: Good at deep architecture reasoning, poor at scope estimation. Predicted large refactor when actual PR was single-line fix. Confused new vs modified files. Best for well-defined architectural problems, worst for tiny-but-critical bug fixes.
+
+**SWE-bench (test-first)**: Highest score (8.25/10) for infrastructure PR. 8 tests failed pre-fix, 9 passed post-fix. Limitation: can't test actual runtime behavior of workflows — only structural correctness.
+
+### Comparison to Prior Cycles (A-E)
+
+| Cycle | Technique | PRs | Avg Score |
+|-------|-----------|-----|-----------|
+| A | SelfRefine | 3 | ~8.5 |
+| B | ExtendedThinking | 3 | ~7.0 |
+| C | PRM | 2 | ~7.5 |
+| D | Canonical Scorer | 3 | ~7.7 |
+| E | SWE-bench | 2 | ~8.0 |
+| **25** | **All 4 (MiniMax)** | **4** | **~7.3** |
+
+MiniMax-M2.5 performs comparably to Claude for technique evaluation. ExtendedThinking accuracy lower than prior cycles (65% vs expected ~80%), possibly due to PR #6276 being a "single-line fix masked as large PR" — hardest case for reasoning techniques.
+
+### Recommendations
+
+1. **For bug-fix PRs**: PRM > SelfRefine > ExtendedThinking (PRM correctly identified C9 was red herring)
+2. **For architectural PRs**: ExtendedThinking > SelfRefine (good at direction, poor at scope)
+3. **For infrastructure/structural PRs**: SWE-bench (test-first) is best choice
+4. **Combined approach**: Use ExtendedThinking for architecture, then SelfRefine for implementation details
+
+### Evidence
+- `test-prs/[autoresearch]-pr6277-selfrefine-test.md`
+- `test-prs/[autoresearch]-pr6275-prm-test.md`
+- `test-prs/[autoresearch]-pr6276-extendedthinking-test.md`
+- `test-prs/[autoresearch]-pr6270-swebench-test.md`
