@@ -46,6 +46,28 @@ Benchmark mode measures prediction accuracy but produces zero real code. Recreat
 - Tests whether techniques can do better than originals
 - Works on open issues (not just historical PRs)
 
+## Critical Harness: Pre-Merge Commit for Merged PRs
+
+**CRITICAL BUG (2026-04-15):** For merged PRs, `git merge-base origin/main refs/pull/<N>/head` returns the **post-merge** commit, NOT the pre-merge state. This caused all 5 parallel recreators to fail (recreating already-merged code).
+
+**Correct approach for merged PRs:**
+
+```bash
+# WRONG (returns post-merge for already-merged PRs):
+git merge-base origin/main refs/pull/6270/head  # → be963b9c1 (WRONG)
+
+# CORRECT: Use first parent of the merge commit
+git log --ancestry-path refs/pull/6270/head..origin/main --first-parent --format=%H | head -1
+# → 04d8df0b7 (the merge commit)
+git reset --hard 04d8df0b7^1  # → true pre-merge state
+
+# ALTERNATIVE (simpler):
+# Find the merge commit on main, then use its first parent
+git log --oneline origin/main --ancestry-path refs/pull/<N>/head..origin/main | tail -1
+```
+
+**Rule:** Always verify the worktree is at a commit that predates the PR. Check: `git log --oneline -1 HEAD` should NOT include the PR number in its message.
+
 ## Agent Team
 
 - [[AgentTeam-PrRecreate]] — selector, recreator, comparer, recorder roles
@@ -56,4 +78,5 @@ Benchmark mode measures prediction accuracy but produces zero real code. Recreat
 
 ## Status
 
-Proposed 2026-04-15. Awaiting implementation of Phase 1.
+Phase 1 attempted 2026-04-15 — failed due to harness bug (merged PR pre-merge detection).
+Harness fix documented above. Phase 1 retry pending.
