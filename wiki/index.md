@@ -26,6 +26,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Level-Up Engine Single-Responsibility Design (2026-04-14)](sources/level-up-engine-single-responsibility-design-2026-04-14.md) — v4 design with TDD layers: RED→GREEN→WIRE→CLEAN; PR #6276 drifts: world_logic.py still has 9 rewards_engine calls (design says ZERO), constants.py dupes not deleted
 - [PR #6276 Level-Up Status 2026-04-15](sources/pr-6276-level-up-status-2026-04-15.md) — Layer 3 CLEAN incomplete: 21 grep matches in world_logic.py, 5 CI failures, 11 CR threads, 7 agents running
 - [PR #6276 Gate Status 2026-04-15](sources/pr-6276-gate-status-2026-04-15.md) — 1/7 gates pass: only CR threads resolved; design vs implementation gap analysis; branch confusion (pr-6275 vs feat/world-logic-clean-layer3)
+- [PR #6276 Design Doc Gate Failure](sources/pr-6276-design-doc-gate-failure.md) — PR merged with design-doc-gate FAIL: 6 actual vs 0 expected `rewards_engine.project_level_up_ui` calls; gate fragmentation: green-gate, design-doc-gate, skeptic-gate are 3 separate workflows; skeptic agent does NOT verify grep gates
 - [System Design Primer](sources/system-design-primer.md) — API design, caching, database sharding, microservices; case studies: GitHub Stadium, GitHub Search, YouTube, Dropbox
 - [Level-Up Second Opinion Analysis](sources/level-up-second-opinion-analysis.md) — Real Cerebras+Gemini+Perplexity secondo: SRP confirmed, double-touch accurate, 5 edge case warnings
 - [Level-Up D&D 5e Research](sources/level-up-dnd5e-research.md) — XP thresholds cumulative storage, ASI multiclass rule (total_level), Fighter@6 Rogue@10
@@ -5749,6 +5750,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 
 ## Concepts
 
+- [BehavioralEquivalenceAudit](concepts/BehavioralEquivalenceAudit.md) — design doc function equivalence assumptions don't hold; world_logic vs rewards_engine implementations diverge
 - [RewardsEngineRefactor](concepts/RewardsEngineRefactor.md) — Consolidating rewards decisions into rewards_engine.py: full public API, single call site
 - [WorldLogicStrip](concepts/WorldLogicStrip.md) — Reducing world_logic.py to thin modal wrapper: ~7200 lines to remove
 - [Layer3Clean](concepts/Layer3Clean.md) — TDD final phase: strip world_logic.py from 8729 to 1500 lines, delete deprecated functions

@@ -49,6 +49,8 @@ The experiment framework (train.py, prepare.py, program.md) is adapted for world
 wiki/ (knowledge) → test-prs/ (experiments) → research-wiki/ (results) → wiki/ (updated knowledge)
 ```
 
+**THE GOAL IS REAL PRS.** Every cycle must produce real code that can be pushed and merged. Predictions without real code are failures — not useful evaluations.
+
 For each technique/paper:
 1. **Pick a technique** from the wiki (SelfRefine, PRM, ExtendedThinking, etc.)
 2. **Form a hypothesis**: "If I apply this to PR type X, I expect Y improvement"
@@ -57,6 +59,8 @@ For each technique/paper:
 5. **Score**: Diff similarity + canonical pattern compliance
 6. **Record**: Log to research-wiki/syntheses/cycle_*.md
 7. **Iterate or abandon**: Keep if >10% improvement
+
+**What succeeded in Cycles 1-26**: benchmark mode (predicting merged PRs). **What failed**: producing zero real code. Cycles 27+ must produce real PRs on jleechanorg/worldarchitect.ai.
 
 ---
 
