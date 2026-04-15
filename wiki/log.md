@@ -3549,3 +3549,7 @@ Created sources/level-up-v4-current-status-2026-04-14.md — consolidated status
 ## [2026-04-15] cycle_metaharness | Merge PR 6275, investigate 6276 branch
 
 Merged PR 6275 (fix stuck-level-up). PR 6276 target branch has 19 failing tests in test_level_up_stale_flags.py. Our branch `chore/auto-research-cycle19` passes 62/62. Committing other computer's XP normalization work. PR 6270 is CLEAN and ready to merge.
+
+## [2026-04-15] cycle_25 | 4 techniques tested via MiniMax AO workers
+
+SelfRefine #6277: 8.1/10. PRM #6275: 6.25/10. ExtendedThinking #6276: 6.45/10. SWE-bench #6270: 8.25/10.
