@@ -14,6 +14,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
+- [Governance Layer Design PRs #452/#453 (2026-04-15)](sources/pr-452-453-governance-layer-design-2026-04-15.md) — real-time governance layer for evolve loop (GOVERNANCE.md) + fail-closed semantic merge gates (gate-governance plugin); no mandatory human review, hard/soft constraints, escalation paths
 - [PR #6276 Design Doc v4 Summary](sources/pr6276_design_doc_v4_summary.md) — source page for PR #6276 v4 design, Layer 3 CLEAN status, grep gate gap
 - [RefineRL](sources/refinere-ll-paper.md) — RL-based self-refinement for competitive programming; 4B surpasses 32B, approaches 235B single-attempt results; Skeptical-Agent + RLVR training
 - [ThinkTwice](sources/think-twice-paper.md) — Joint GRPO optimization of reasoning + self-refinement; +11.5pp on AIME after one refinement step; no critique annotations needed
@@ -24,6 +25,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rewards Engine: Single-Responsibility Pipeline Refactor](sources/level-up-engine-v4-design.md) — v4 design: single orchestration root (llm_parser.py), 7-stage pipeline, rewards_engine idempotent, closes #6262/#6263/#6264/#6268
 - [Level-Up Engine Single-Responsibility Design (2026-04-14)](sources/level-up-engine-single-responsibility-design-2026-04-14.md) — v4 design with TDD layers: RED→GREEN→WIRE→CLEAN; PR #6276 drifts: world_logic.py still has 9 rewards_engine calls (design says ZERO), constants.py dupes not deleted
 - [PR #6276 Level-Up Status 2026-04-15](sources/pr-6276-level-up-status-2026-04-15.md) — Layer 3 CLEAN incomplete: 21 grep matches in world_logic.py, 5 CI failures, 11 CR threads, 7 agents running
+- [PR #6276 rev-v4ci Status 2026-04-15 Night](sources/pr6276-rev-v4ci-status-2026-04-15-night.md) — runners OFFLINE, harness PRs OPEN, rev-v4ci06 scope clarified (design doc update only), rev-v4ci01 BLOCKED
+- [PR #6276 rev-v4ci Status 2026-04-16](sources/pr6276-rev-v4ci-status-2026-04-16.md) — rev-v4ci01 TOMBSTONED (unachievable), PR #6276 ~85% complete, skeptic-gate FAIL on harness-fix PRs
+- [Harness-Fix PRs Status 2026-04-15](sources/harness-fix-prs-status-2026-04-15.md) — #6292/#6285 MERGEABLE (GATE-5 fail), #6289/#6287 CONFLICTING (need rebase), skeptic-gate re-trigger pending
 - [PR #6276 Gate Status 2026-04-15](sources/pr-6276-gate-status-2026-04-15.md) — 1/7 gates pass: only CR threads resolved; design vs implementation gap analysis; branch confusion (pr-6275 vs feat/world-logic-clean-layer3)
 - [System Design Primer](sources/system-design-primer.md) — API design, caching, database sharding, microservices; case studies: GitHub Stadium, GitHub Search, YouTube, Dropbox
 - [Level-Up Second Opinion Analysis](sources/level-up-second-opinion-analysis.md) — Real Cerebras+Gemini+Perplexity secondo: SRP confirmed, double-touch accurate, 5 edge case warnings
@@ -5580,6 +5584,44 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 ## Entities
 
 - [PR-6276-Worldarchitect](entities/PR-6276-Worldarchitect.md) — PR #6276 entity: feat/world-logic-clean-layer3, ~75% done, Layer 3 CLEAN remaining
+- [LangGraph](entities/LangGraph.md) — Graph-based state machine framework for reliable AI agents (LangChain ecosystem)
+- [AutoGen](entities/AutoGen.md) — Microsoft Research multi-agent framework (maintenance mode; successor: Microsoft Agent Framework)
+- [CrewAI](entities/CrewAI.md) — Enterprise multi-agent platform; 450M+ workflows/month, 60% Fortune 500
+- [MetaGPT](entities/MetaGPT.md) — SOP-encoding multi-agent framework; assembly line paradigm reduces hallucinations
+- [AgentBench](entities/AgentBench.md) — arXiv:2308.03688; evaluates LLMs as agents across 8 benchmarks
+- [OpenHands](entities/OpenHands.md) — All-Hands-AI coding agent; 77.6% SWE-bench; SDK/CLI/GUI/Cloud/Enterprise
+- [Voyager](entities/Voyager.md) — Minecraft agent; skill library + automatic curriculum + iterative prompting; GPT-4 critic
+- [Devin](entities/Devin.md) — Cognition AI "software engineer"; bug detection, COBOL modernization
+- [Archon](entities/Archon.md) — coleam00's YAML workflow engine; DarkFactory governance; 17 default workflows
+- [Airbyte](entities/Airbyte.md) — Data integration platform with MCP Server for AI agent context access
+- [OPA](entities/OPA.md) — Open Policy Agent; Rego policy language; decouples policy from application
+- [Constitutional AI](entities/ConstitutionalAI.md) — Anthropic self-improvement training; SL self-critique + RL/RLAIF
+- [RLAIF](entities/RLAIF.md) — Reinforcement Learning from AI Feedback; used in Constitutional AI RL phase
+- [Constitutional Classifiers](entities/ConstitutionalClassifiers.md) — Anthropic production output filtering; 3000h red team passed
+- [Anthropic Alignment Team](entities/AnthropicAlignment.md) — Anthropic safety research; Constitutional AI, Frontier Red Team
+- [Frontier Red Team](entities/FrontierRedTeam.md) — Anthropic adversarial testing; cybersecurity, biosecurity, autonomous systems
+- [Microsoft Copilot Studio](entities/MicrosoftCopilotStudio.md) — Enterprise multi-agent orchestration platform
+- [Microsoft Agent Framework](entities/MicrosoftAgentFramework.md) — Successor to AutoGen; Microsoft's recommended multi-agent framework
+- [SWE-agent](entities/SWE-agent.md) — Open-source coding agent; SWE-bench family
+- [CodeClash](entities/CodeClash.md) — SWE-agent family coding agent benchmark
+- [CAMEL](entities/CAMEL.md) — Communicative Agents Framework; inception prompting for autonomous multi-agent cooperation (Guohao Li et al.)
+- [Chip Huyen](entities/ChipHuyen.md) — Author "Designing Machine Learning Systems"; ML engineering and inference
+- [MongoDB](entities/MongoDB.md) — Vector Search + MCP Server for agent governance; Agent Skills externalize per-tenant tool configs
+- [Confluent](entities/Confluent.md) — Stream governance (Schema Registry, Control Center); fail-closed batch discard
+- [Arize AI](entities/ArizeAI.md) — ML observability with drift detection (PSI, concept/data drift); Phoenix OSS
+- [PromptLayer](entities/PromptLayer.md) — Prompt registry with RBAC/SSO; versioning outside codebase
+- [Partnership on AI](entities/PartnershipOnAI.md) — Multi-stakeholder org (Amazon, Meta, Google, IBM, Microsoft); Safety-Critical AI Program
+- [Stanford HAI](entities/StanfordHAI.md) — Foundation Model Governance Initiative
+- [ISACA](entities/ISACA.md) — AI governance certifications: AAIA, AAIR, AAISM
+- [Apache Kafka](entities/ApacheKafka.md) — Event streaming with broker-side schema validation
+- [Schema Registry](entities/SchemaRegistry.md) — Centralized Avro/Protobuf/JSON Schema management for Kafka
+- [Weaveworks](entities/Weaveworks.md) — GitOps pioneer; created Flux CD
+- [ArgoCD](entities/ArgoCD.md) — Declarative GitOps continuous delivery for Kubernetes
+- [Flux](entities/Flux.md) — CNCF GitOps tool for Kubernetes cluster configuration
+- [Elastic](entities/Elastic.md) — Search AI Lake with hybrid search; observability backend
+- [Snowflake](entities/Snowflake.md) — Cortex AI for governance-aware enterprise queries
+- [MLCommons](entities/MLCommons.md) — AI safety preparedness benchmarks; industry consortium
+- [AI Incident Database](entities/AIIncidentDatabase.md) — Real-time failure logging for AI agents
 - [Dropbox](entities/Dropbox.md) — File sync service using DHT for peer-to-peer sync, CRDT-based conflict resolution
 - [JeffreyChan](entities/JeffreyChan.md) — SEM at Snap, ex-Staff SWE at Google, jleechanorg owner
 - [jleechanclaw](entities/jleechanclaw.md) — Primary delegation workflow repo (TARGET_REPO after March 2026 postmortem)
@@ -5730,6 +5772,30 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 
 ## Concepts
 
+- [GovernanceLayerResearch](concepts/GovernanceLayerResearch.md) — Research synthesis: Grok second opinion (filesystem abstraction flaw, 5-gate bureaucracy, no feedback loops) + 4 recommendations; tensions in PR #452/#453 architecture
+- [MultiAgentOrchestration](concepts/MultiAgentOrchestration.md) — Fleet coordination frameworks: LangGraph, AutoGen, CrewAI, MetaGPT; state machines, group chats, SOP encoding
+- [WorkflowEngine](concepts/WorkflowEngine.md) — YAML DAG / durable execution systems: Archon, Temporal, Prefect, Airbyte; git worktree isolation, event sourcing
+- [PolicyEngine](concepts/PolicyEngine.md) — OPA/Rego, Constitutional AI; decouples policy decisions from application code
+- [DurableExecution](concepts/DurableExecution.md) — Crash-proof workflow state persistence; Temporal's event sourcing model; replay from any checkpoint
+- [ConstitutionalAI](concepts/ConstitutionalAI.md) — Anthropic two-phase training: SL self-critique + RL/RLAIF; chain-of-thought transparency
+- [RLAIF](concepts/RLAIF.md) — RL from AI Feedback; reduces labeling burden; RLAIF-inspired loops for governance rule improvement
+- [SOPEncoding](concepts/SOPEncoding.md) — Standardized Operating Procedures as agent prompts; MetaGPT assembly line; AO evolve loop as 8-phase SOP
+- [TreeOfThoughts](concepts/TreeOfThoughts.md) — Deliberate problem-solving with self-evaluation and backtracking; extends chain-of-thought
+- [InceptionPrompting](concepts/InceptionPrompting.md) — CAMEL's role-playing framework for autonomous multi-agent cooperation without human intervention
+- [RolePlayingFramework](concepts/RolePlayingFramework.md) — Assigning roles to agents for emergent cooperation; CAMEL and MetaGPT patterns
+- [RouterBasedArchitecture](concepts/RouterBasedArchitecture.md) — Central decision component for agent skill routing; used in AgentBench
+- [AgentSkills](concepts/AgentSkills.md) — MongoDB externalizes tool configs per-tenant; addresses "agents don't know production best practices"
+- [PromptRegistry](concepts/PromptRegistry.md) — External prompt versioning with RBAC; PromptLayer pattern for governance
+- [MultiTurnAlignment](concepts/MultiTurnAlignment.md) — Training for long-horizon instruction following; "poor instruction following is main obstacle" — AgentBench
+- [SchemaIDValidation](concepts/SchemaIDValidation.md) — Kafka broker-side verification; fail-closed batch discard ("entire batch discarded if any invalid")
+- [StreamGovernance](concepts/StreamGovernance.md) — Confluent's three pillars: Stream Lineage, Stream Catalog, Stream Quality
+- [DataContracts](concepts/DataContracts.md) — Producer-consumer schema agreements; model for merge requirements
+- [ValueAlignment](concepts/ValueAlignment.md) — CHAI/AI systems should be uncertain of objectives and deferent to humans (Stuart Russell)
+- [InverseReinforcementLearning](concepts/InverseReinforcementLearning.md) — Learning reward functions from human behavior; CIRL basis
+- [ScalableOversight](concepts/ScalableOversight.md) — Verifying AI at scale without human review of every decision; PAI Safety-Critical AI Program
+- [DriftDetection](concepts/DriftDetection.md) — ML observability for concept/data drift; PSI metric; Arize/Phoenix
+- [FailClosedValidation](concepts/FailClosedValidation.md) — Entire batch rejected if any message invalid; Confluent Schema Registry model
+- [GitOps](concepts/GitOps.md) — Git-centric deployment with approval workflows; Weaveworks/ArgoCD/Flux; audit trail as governance
 - [RewardsEngineRefactor](concepts/RewardsEngineRefactor.md) — Consolidating rewards decisions into rewards_engine.py: full public API, single call site
 - [WorldLogicStrip](concepts/WorldLogicStrip.md) — Reducing world_logic.py to thin modal wrapper: ~7200 lines to remove
 - [Layer3Clean](concepts/Layer3Clean.md) — TDD final phase: strip world_logic.py from 8729 to 1500 lines, delete deprecated functions
@@ -6092,6 +6158,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [cycle_metaharness_v3](syntheses/cycle_metaharness_v3.md) — Meta-Harness: +27 avg, highest leverage single technique
 - [cycle_prm_v3](syntheses/cycle_prm_v3.md) — PRM/SWE-Shepherd: +23 avg, catches key_func-level missed bugs
 - [cycle_combined_v3](syntheses/cycle_combined_v3.md) — Combined: +46 avg, 1.7x Meta-Harness alone
+- [cycle_pr-recreate-v1](syntheses/cycle_pr-recreate-v1.md) — PR Recreate Pipeline v1: ET 90.2 > PRM 87.25 > SelfRefine 81.4; 15 real PRs created; ET wins on validation/refactor, PRM wins on complex
 
 ### Concepts
 - [AutoResearchExperiment](concepts/AutoResearchExperiment.md) — Full system overview
