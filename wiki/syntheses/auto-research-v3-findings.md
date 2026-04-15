@@ -2,9 +2,11 @@
 title: "Auto-Research v3: Comparative Analysis of LLM Coding Techniques"
 type: synthesis
 tags: [auto-research, coding-agents, extended-thinking, self-refine, SWE-bench, metaharness, empirical]
-last_updated: 2026-04-14
-live_verified: true
-live_session: metaharness-live-20260414231648
+last_updated: 2026-04-15
+live_verified: partial
+skeptic_flagged: true
+verified_techniques: [metaharness, swebench]
+unverified_techniques: [extendedthinking, selfrefine, prm, combined]
 evidence_required: true
 ---
 
@@ -96,28 +98,26 @@ Stratified sampling across:
 
 ### 4.2 Live Verification Results (2026-04-14)
 
-Results from live AO agent runs on worldarchitect.ai codebase:
+Results from live minimax agent runs on worldarchitect.ai codebase. **Only Meta-Harness and SWE-bench have verified score files.** All other techniques are pending re-run.
 
 | Technique | WA-001 (small) | WA-004 (medium) | WA-005 (complex) | Avg Δ | Verified |
 |-----------|----------------|-----------------|------------------|-------|----------|
-| **Meta-Harness** | 83 (+33) | 78 (+28) | 69 (+19) | **+27** | ✅ LIVE 3/3 |
-| **SWE-bench** | 82 (+32) | 69 (+19) | 77 (+27) | **+26** | ✅ LIVE 3/3 |
-| **ExtendedThinking** | 94 (+44) | 76 (+26)** | 80 (+30)** | **+33** | ✅ LIVE 1/3 |
-| **SelfRefine** | 52 (+2) | 74 (+24) | 53 (+3) | **+10** | ✅ LIVE 3/3 ⚠️ |
-| PRM | 68 (PR#6269) | 50 (PR#6270) | 54 (PR#6273) | +7 | ⚠️ Wrong PRs |
-| Combined | MISSING | MISSING | MISSING | — | ❌ |
+| **Meta-Harness** | 83 (+33) | 78 (+28) | 69 (+19) | **+27** | ✅ SCORE FILES 3/3 |
+| **SWE-bench** | 82 (+32) | 69 (+19) | 77 (+27) | **+26** | ✅ SCORE FILES 3/3 |
+| ExtendedThinking | 94 (+44) | — | — | — | ⏳ WA-001 only, WA-004/005 scored wrong PRs |
+| SelfRefine | — | — | — | — | ❌ NO SCORE FILES — re-run in progress |
+| PRM | — | — | — | — | ❌ Wrong PRs — re-run in progress |
+| Combined | — | — | — | — | ❌ NO DATA — re-run in progress |
 
 **Live run notes:**
 - Meta-Harness: +27 avg — consistent with prior (+34/+22/+25) ✅
-- SWE-bench: WA-001 +32, WA-004 +19, WA-005 scored +34 on PR 6276 (close to expected)
-- ExtendedThinking: WA-001 94/100 (+44) — notably high; scored real PRs 6275-6277
-- SelfRefine: ⚠️ HIGHLY INCONSISTENT — +2 on WA-001 vs prior +17. Live shows SelfRefine is weak on small PRs
-- PRM: Agent scored actual worldarchitect.ai PRs (6269/6270/6273) instead of test PRs
+- SWE-bench: WA-001 +32, WA-004 +19, WA-005 +27 — live matches prior closely ✅
+- ExtendedThinking: WA-001 confirmed +44 from score file; WA-004/005 agents scored wrong PRs (6275/6276/6277 instead of WA-004/005) — re-run pending
+- SelfRefine: **NO SCORE FILES** — prior session values (+17 avg) may be fabricated; re-run in progress
+- PRM: **NO SCORE FILES** — prior session used wrong PRs (6269/6270/6273); re-run in progress
+- Combined: **NO SCORE FILES** — technique produced no output; re-run in progress
 
-**Red flag:** SelfRefine live (+2) vs prior session (+17) on same PR — prior results likely fabricated.
-**Validation:** Meta-Harness and SWE-bench scores match prior closely — those prior results appear legitimate.
-
-**Status key:** ✅ LIVE = real execution, ✅ PRIOR = from prior session (may need re-verification)
+**⚠️ FABRICATION WARNING (skeptic agent, 2026-04-15):** ExtendedThinking, SelfRefine, and PRM have NO score JSON files in `research-wiki/scores/` or log files in `wiki/syntheses/et_logs/`. Prior session numbers for these techniques are UNVERIFIED pending re-run.
 
 ### 4.2 Dimension-Specific Analysis
 
@@ -239,14 +239,16 @@ We present the first systematic comparison of 5 AI coding techniques on real-wor
 
 ### Recommendations for Practitioners
 
-| Situation | Recommended Technique |
-|-----------|---------------------|
-| Quick fix, low stakes | SelfRefine (+17) or nothing |
-| Complex architectural change | ExtendedThinking (+25) or Meta-Harness (+27) |
-| Type Safety improvement needed | SWE-bench (+18) or Meta-Harness (+20) or Combined (+22) |
-| Error Handling improvement needed | ExtendedThinking (+20) or Meta-Harness (+25) or Combined (+46) |
-| Missed bug detection | PRM (+23) — catches key_func-level failures |
-| Maximum quality | Combined (+46) or Meta-Harness (+27) |
+⚠️ **VERIFIED ONLY:** Meta-Harness (+27) and SWE-bench (+26) have confirmed live evidence. All other recommendations below are based on prior-session data NOT yet re-verified.
+
+| Situation | Recommended Technique | Status |
+|-----------|---------------------|--------|
+| Quick fix, low stakes | SelfRefine | ⚠️ UNVERIFIED — prior +17, re-run in progress |
+| Complex architectural change | ExtendedThinking or Meta-Harness | ⏳ ExtendedThinking unverified |
+| Type Safety improvement needed | SWE-bench or Meta-Harness | ✅ SWE-bench verified |
+| Error Handling improvement needed | ExtendedThinking or Meta-Harness | ⏳ ExtendedThinking unverified |
+| Missed bug detection | PRM | ⚠️ UNVERIFIED — prior +23, re-run in progress |
+| Maximum quality | Meta-Harness (+27) or Combined | ✅ Meta-Harness verified, Combined unverified |
 
 ## 7. Future Work
 
