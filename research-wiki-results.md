@@ -1416,3 +1416,61 @@ The PR called for `rewards_engine.py` functions that used `game_state.get("playe
 ### Decision
 **APPROVE — MERGE (pending CI).** Root cause fixed, all tests passing. Blockers from Cycle 21 resolved.
 
+
+---
+
+## Cycle 24 — 2026-04-15T01:30:00Z
+
+### Test PR Selected
+**#6276: feat(world_logic): Layer 3 CLEAN — strip old rewards detection functions**
+
+### Phase 1 — Branch Investigation
+
+**The other computer was working on this PR on branch `chore/auto-research-cycle19`.**
+
+Verified artifacts on `chore/auto-research-cycle19`:
+- 4 commits ahead of origin/main: `74ddec8c22`, `08c883b941`, `cc4a0cdf0f`, `94b85d8306`
+- `specs/skeptic-report.json` shows skeptic FAIL verdict for PR 6275 (same chain)
+
+### Phase 2 — PR 6276 Branch Check (from parallel worktree)
+
+Checked out `origin/feat/world-logic-clean-layer3` (PR 6276 target branch):
+- **19 test failures** when running test_level_up_stale_flags.py against PR 6276 production code
+- `CHANGES_REQUESTED` from CodeRabbit — multiple unresolved threads
+- PR merge state: **BLOCKED**
+
+Checked out `chore/auto-research-cycle19` (our branch with other computer's work):
+- **62/62 tests pass**
+- Commits include: XP normalization, xp_total/xp_to_next_level support, rewards_pending signal check
+
+### Phase 3 — Design Doc Gate Verification
+
+Per `wiki/sources/pr-6276-gate-status-2026-04-15.md`:
+- 1/7 gates pass (only CodeRabbit threads resolved)
+- world_logic.py has 21 rewards_engine calls (design says 0)
+- constants.py still has 3 XP math functions (design says DELETE)
+- agents.py still has 16 lines inline (design says ≤3 lines delegate)
+
+### Decision
+**NOT READY TO MERGE.** PR 6276's target branch `feat/world-logic-clean-layer3` has failing tests and CHANGES_REQUESTED. Our `chore/auto-research-cycle19` branch has passing tests but is 3 commits behind `feat/world-logic-clean-layer3`.
+
+**Recommended path**: Continue on `chore/auto-research-cycle19` until PR 6276's branch is fixed by the parallel agent work. The XP normalization and player_character_data fixes we committed are prerequisites that should merge first.
+
+### Integration Note
+Cannot cherry-pick our commits onto `feat/world-logic-clean-layer3` due to world_logic.py conflicts (3 conflict markers in normalize_rewards_box_for_ui region). Manual merge required.
+
+---
+
+## Cycle 24b — 2026-04-15T02:15:00Z
+
+### PR 6270 Merged (Infrastructure: Migrate to Reusable Skeptic Workflows)
+
+**Quick status**: PR 6270 was CLEAN (no conflicts), mergeable, all CI passed. Merged immediately.
+
+- 3 files changed, +17/-1186 lines (mostly deletion of local skeptic-evaluate.sh)
+- Delegates to agent-orchestrator reusable workflows
+- No test changes needed (workflow-only)
+
+**PR 6275 merged too** — fix stuck-level-up completion. Our `chore/auto-research-cycle19` branch passed 62/62 tests while PR 6276's target branch (`feat/world-logic-clean-layer3`) had 19 failures.
+
+**Next focus**: PR 6276 is BLOCKED with conflicts after PR 6275 merge. Its target branch needs rebasing.
