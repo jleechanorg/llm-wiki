@@ -23,6 +23,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rewards Engine: Single-Responsibility Pipeline Refactor](sources/level-up-engine-v4-design.md) — v4 design: single orchestration root (llm_parser.py), 7-stage pipeline, rewards_engine idempotent, closes #6262/#6263/#6264/#6268
 - [Level-Up Engine Single-Responsibility Design (2026-04-14)](sources/level-up-engine-single-responsibility-design-2026-04-14.md) — v4 design with TDD layers: RED→GREEN→WIRE→CLEAN; PR #6276 drifts: world_logic.py still has 9 rewards_engine calls (design says ZERO), constants.py dupes not deleted
 - [PR #6276 Level-Up Status 2026-04-15](sources/pr-6276-level-up-status-2026-04-15.md) — Layer 3 CLEAN incomplete: 21 grep matches in world_logic.py, 5 CI failures, 11 CR threads, 7 agents running
+- [PR #6276 Gate Status 2026-04-15](sources/pr-6276-gate-status-2026-04-15.md) — 1/7 gates pass: only CR threads resolved; design vs implementation gap analysis; branch confusion (pr-6275 vs feat/world-logic-clean-layer3)
 - [System Design Primer](sources/system-design-primer.md) — API design, caching, database sharding, microservices; case studies: GitHub Stadium, GitHub Search, YouTube, Dropbox
 - [Level-Up Second Opinion Analysis](sources/level-up-second-opinion-analysis.md) — Real Cerebras+Gemini+Perplexity secondo: SRP confirmed, double-touch accurate, 5 edge case warnings
 - [Level-Up D&D 5e Research](sources/level-up-dnd5e-research.md) — XP thresholds cumulative storage, ASI multiclass rule (total_level), Fighter@6 Rogue@10
