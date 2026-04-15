@@ -52,9 +52,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Taste Learning Loop](sources/taste-learning-loop.md) — Self-improving taste: extract rejection feedback, archive negative constraints, update taste rubric, create bead
 
 ### Frontier Papers & Coding Agent Research (2022-2026)
-- [Meta-Harness Paper](sources/meta-harness-paper.md) — Outer-loop optimization of model harnesses; 7.7 point improvement, 4x fewer tokens; #1 on TerminalBench-2
+- [Meta-Harness Paper](sources/2603.28052-meta-harness-paper.md) — Outer-loop optimization of model harnesses; 7.7 point improvement, 4x fewer tokens; #1 on TerminalBench-2
 - [ReVeal Paper](sources/reveal-paper.md) — Step-level supervision for repository-level code agents; 2023
-- [Voyager Paper](sources/voyager-paper.md) — Lifelong learning agent in Minecraft; skill library + self-verification; 3.3x items, 15.3x faster milestones
+- [Voyager Paper](sources/2305.16291-voyager-paper.md) — Lifelong learning agent in Minecraft; skill library + self-verification; 3.3x items, 15.3x faster milestones
 - [SWE-Agent Paper](sources/swe-agent-paper.md) — Agent Computer Interface for autonomous software repair; real GitHub repositories
 - [OpenHands Paper](sources/openhands-paper.md) — Open platform for reproducible coding agent evaluation; SWE-bench, HumanEval integration
 - [MetaGPT Paper](sources/metagpt-paper.md) — Multi-agent SOP framework; assembly-line paradigm reduces cascading hallucinations
@@ -65,18 +65,19 @@ This file is maintained by the LLM. Updated on every ingest.
 - [DeepSeek-V2 Paper](sources/deepseek-v2-paper.md) — MoE base model; 93.3% KV cache reduction; 128K context
 - [AgentBench Paper](sources/agentbench-paper.md) — Multi-environment agent evaluation; commercial LLMs significantly ahead of open-source ≤70B
 - [EvoEval Paper](sources/evoeval-paper.md) — Evolving benchmarks via LLM; 39.4% average drop; benchmark integrity concerns
-- [Self-Reflection Code Paper](sources/self-reflection-code-paper.md) — Dual-LLM collaborative code representation; semantic preservation
-- [Autonomous Scientific Research Paper](sources/autonomous-scientific-research-paper.md) — Multi-LLM autonomous experiment design; safety considerations
+- [Self-Reflection Code Paper](sources/2410.21014-self-reflection-code-paper.md) — Dual-LLM collaborative code representation; semantic preservation
+- [Autonomous Scientific Research Paper](sources/2304.05332-autonomous-scientific-research-paper.md) — Multi-LLM autonomous experiment design; safety considerations
 
 ### 2025-2026 Recent Research
-- [Agentic Much Paper](sources/agentic-much-paper.md) — 22-28% coding agent adoption on GitHub; 128K projects; empirical study
+- [Agentic Much Paper](sources/2601.18341-agentic-much-paper.md) — 22-28% coding agent adoption on GitHub; 128K projects; empirical study
+- [Coding Agents Over-Mocked Tests Paper](sources/2602.00409-coding-agents-over-mocked-tests-paper.md) — Agents use more mocks than humans; 23% vs 13% test file changes; 1.2M commits studied
 - [One Tool Is Enough Paper](sources/one-tool-is-enough-paper.md) — RepoNavigator RL agent; 7B > 14B, 14B > 32B; exceeds GPT-5
 - [Coding Agents Over-Mocked Tests Paper](sources/coding-agents-over-mocked-tests-paper.md) — Agents use more mocks than humans; 23% vs 13% test changes
 - [Vibe Coding Safe Paper](sources/vibe-coding-safe-paper.md) — Only 10.5% of agent code is secure; SUSB VIBES benchmark
-- [BOAD Paper](sources/board-agents-paper.md) — Hierarchical agent discovery via bandit optimization; 2nd on SWE-bench Live
+- [BOAD Paper](sources/2512.23631-boarding-agents-paper.md) — Hierarchical agent discovery via bandit optimization; 2nd on SWE-bench Live; 36B surpasses GPT-4 and Claude
 - [Shadows in Code Paper](sources/shadows-in-code-paper.md) — Multi-agent security: IMBIA attack; 93% attack rate on ChatDev
-- [Agentic Verification Paper](sources/agentic-verification-paper.md) — AutoRocq: LLM + Coq theorem prover; FSE 2026
-- [From Correctness to Collaboration Paper](sources/from-correctness-to-collaboration-paper.md) — CAB Framework: human-AI partnership evaluation
+- [Agentic Verification Paper](sources/2511.17330-agentic-verification-paper.md) — AutoRocq: LLM + Coq/Rocq theorem prover; FSE 2026; formal verification of AI-generated code
+- [From Correctness to Collaboration Paper](sources/2512.23844-from-correctness-to-collaboration-paper.md) — CAB Framework: human-AI partnership evaluation; 4 behavioral expectations
 - [GitHub Issue Ready for Copilot Paper](sources/github-issue-ready-for-copilot-paper.md) — 32 criteria; 72% AUC for merge prediction
 - [Reformulate Retrieve Localize Paper](sources/reformulate-retrieve-localize-paper.md) — Bug localization agent; 35% better than BM25, +22% vs SWE-agent
 
