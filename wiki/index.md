@@ -14,7 +14,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
-- [PR Recreate Pipeline](sources/pr-recreate-pipeline.md) — pivots from benchmark (predict) to production (recreate from pre-PR state, open real PRs if delta > 0)
+- [Harness Fix PRs Status 2026-04-16 Late](sources/pr-harness-fix-prs-status-2026-04-16-late.md) — PR #6276 MERGED ~85% complete; 4 harness-fix PRs blocked by CR and 0 runners; rev-v4ci01 TOMBSTONED; skeptic-evaluate.sh auto-merge removed
+- [Governance Layer Design BFS + PR #452/#453 (2026-04-15)](sources/governance-layer-design-bfs-2026-04-15.md) — BFS research synthesis: 3-component governance (Skeptic + Evidence Validator + Policy Engine), GitOps approval for GOVERNANCE.md, fail-closed batch model, RLAIF-inspired feedback loops, Confluent Stream Governance as design model
+- [Governance Layer Design PRs #452/#453 (2026-04-15)](sources/pr-452-453-governance-layer-design-2026-04-15.md) — real-time governance layer for evolve loop (GOVERNANCE.md) + fail-closed semantic merge gates (gate-governance plugin); no mandatory human review, hard/soft constraints, escalation paths
 - [PR #6276 Design Doc v4 Summary](sources/pr6276_design_doc_v4_summary.md) — source page for PR #6276 v4 design, Layer 3 CLEAN status, grep gate gap
 - [RefineRL](sources/refinere-ll-paper.md) — RL-based self-refinement for competitive programming; 4B surpasses 32B, approaches 235B single-attempt results; Skeptical-Agent + RLVR training
 - [ThinkTwice](sources/think-twice-paper.md) — Joint GRPO optimization of reasoning + self-refinement; +11.5pp on AIME after one refinement step; no critique annotations needed
@@ -25,8 +27,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Rewards Engine: Single-Responsibility Pipeline Refactor](sources/level-up-engine-v4-design.md) — v4 design: single orchestration root (llm_parser.py), 7-stage pipeline, rewards_engine idempotent, closes #6262/#6263/#6264/#6268
 - [Level-Up Engine Single-Responsibility Design (2026-04-14)](sources/level-up-engine-single-responsibility-design-2026-04-14.md) — v4 design with TDD layers: RED→GREEN→WIRE→CLEAN; PR #6276 drifts: world_logic.py still has 9 rewards_engine calls (design says ZERO), constants.py dupes not deleted
 - [PR #6276 Level-Up Status 2026-04-15](sources/pr-6276-level-up-status-2026-04-15.md) — Layer 3 CLEAN incomplete: 21 grep matches in world_logic.py, 5 CI failures, 11 CR threads, 7 agents running
+- [PR #6276 rev-v4ci Status 2026-04-15 Night](sources/pr6276-rev-v4ci-status-2026-04-15-night.md) — runners OFFLINE, harness PRs OPEN, rev-v4ci06 scope clarified (design doc update only), rev-v4ci01 BLOCKED
+- [PR #6276 rev-v4ci Status 2026-04-16](sources/pr6276-rev-v4ci-status-2026-04-16.md) — rev-v4ci01 TOMBSTONED (unachievable), PR #6276 ~85% complete, skeptic-gate FAIL on harness-fix PRs
+- [Harness-Fix PRs + PR #6276 Status 2026-04-16 Late — 0 Runners Block All CI](sources/harness-fix-prs-status-2026-04-16-late.md) — PR #6276 MERGED; 4 harness-fix PRs BLOCKED by CR CHANGES_REQUESTED + 0 runners; skeptic-gate concurrency bug confirmed; coder-1 coordinating
+- [Skeptic Gate Concurrency Bug — All Harness-Fix PRs Affected](sources/skeptic-gate-concurrency-bug-2026-04-16.md) — skeptic-gate.yml and green-gate.yml share `green-gate-$PR_NUM` concurrency group, mutually cancelling each other's runs; fix in PR #6308 BLOCKED by its own CR CHANGES_REQUESTED
+- [Harness-Fix PRs Status 2026-04-16d](sources/harness-fix-prs-status-2026-04-16d.md) — CR CHANGES_REQUESTED blocks #6289/#6292/#6308 from 7-green; #6287 test fix pushed (4d1afd4803); PR #6276 MERGED
+- [Harness-Fix PRs Status 2026-04-15](sources/harness-fix-prs-status-2026-04-15.md) — #6292/#6285 MERGEABLE (GATE-5 fail), #6289/#6287 CONFLICTING (need rebase), skeptic-gate re-trigger pending
+- [PR #6276 Post-Merge Assessment 2026-04-16](sources/pr6276-post-merge-assessment-2026-04-16.md) — ~85% done; Layer 3 CLEAN incomplete; world_logic.py not stripped; rev-v4ci01 TOMBSTONED; design doc equivalence claim wrong (0/3 pairs equivalent)
 - [PR #6276 Gate Status 2026-04-15](sources/pr-6276-gate-status-2026-04-15.md) — 1/7 gates pass: only CR threads resolved; design vs implementation gap analysis; branch confusion (pr-6275 vs feat/world-logic-clean-layer3)
-- [PR #6276 Design Doc Gate Failure](sources/pr-6276-design-doc-gate-failure.md) — PR merged with design-doc-gate FAIL: 6 actual vs 0 expected `rewards_engine.project_level_up_ui` calls; gate fragmentation: green-gate, design-doc-gate, skeptic-gate are 3 separate workflows; skeptic agent does NOT verify grep gates
 - [System Design Primer](sources/system-design-primer.md) — API design, caching, database sharding, microservices; case studies: GitHub Stadium, GitHub Search, YouTube, Dropbox
 - [Level-Up Second Opinion Analysis](sources/level-up-second-opinion-analysis.md) — Real Cerebras+Gemini+Perplexity secondo: SRP confirmed, double-touch accurate, 5 edge case warnings
 - [Level-Up D&D 5e Research](sources/level-up-dnd5e-research.md) — XP thresholds cumulative storage, ASI multiclass rule (total_level), Fighter@6 Rogue@10
@@ -53,9 +61,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Taste Learning Loop](sources/taste-learning-loop.md) — Self-improving taste: extract rejection feedback, archive negative constraints, update taste rubric, create bead
 
 ### Frontier Papers & Coding Agent Research (2022-2026)
-- [Meta-Harness Paper](sources/2603.28052-meta-harness-paper.md) — Outer-loop optimization of model harnesses; 7.7 point improvement, 4x fewer tokens; #1 on TerminalBench-2
+- [Meta-Harness Paper](sources/meta-harness-paper.md) — Outer-loop optimization of model harnesses; 7.7 point improvement, 4x fewer tokens; #1 on TerminalBench-2
 - [ReVeal Paper](sources/reveal-paper.md) — Step-level supervision for repository-level code agents; 2023
-- [Voyager Paper](sources/2305.16291-voyager-paper.md) — Lifelong learning agent in Minecraft; skill library + self-verification; 3.3x items, 15.3x faster milestones
+- [Voyager Paper](sources/voyager-paper.md) — Lifelong learning agent in Minecraft; skill library + self-verification; 3.3x items, 15.3x faster milestones
 - [SWE-Agent Paper](sources/swe-agent-paper.md) — Agent Computer Interface for autonomous software repair; real GitHub repositories
 - [OpenHands Paper](sources/openhands-paper.md) — Open platform for reproducible coding agent evaluation; SWE-bench, HumanEval integration
 - [MetaGPT Paper](sources/metagpt-paper.md) — Multi-agent SOP framework; assembly-line paradigm reduces cascading hallucinations
@@ -66,36 +74,18 @@ This file is maintained by the LLM. Updated on every ingest.
 - [DeepSeek-V2 Paper](sources/deepseek-v2-paper.md) — MoE base model; 93.3% KV cache reduction; 128K context
 - [AgentBench Paper](sources/agentbench-paper.md) — Multi-environment agent evaluation; commercial LLMs significantly ahead of open-source ≤70B
 - [EvoEval Paper](sources/evoeval-paper.md) — Evolving benchmarks via LLM; 39.4% average drop; benchmark integrity concerns
-- [Self-Reflection Code Paper](sources/2410.21014-self-reflection-code-paper.md) — Dual-LLM collaborative code representation; semantic preservation
-- [Autonomous Scientific Research Paper](sources/2304.05332-autonomous-scientific-research-paper.md) — Multi-LLM autonomous experiment design; safety considerations
-
-### Remaining Arxiv Papers (15 papers)
-- [2308.03688 Agentless Paper](sources/2308.03688-swe-agent-paper.md) — Agentless: Demystifying LLM-based SE; simple single-prompt matches multi-agent on SWE-bench
-- [2310.12971 Reveal Evals Paper](sources/2310.12971-reveal-evals-paper.md) — DeepSeek-Coder-V2: MoE coding model; 236B/21B; 128K context; SOTA open-source
-- [2311.05964 AgentBench Paper](sources/2311.05964-agentbench-paper.md) — Multi-environment agent benchmark; commercial LLMs significantly ahead of open-source ≤70B
-- [2311.05964 Code Agents Paper](sources/2311.05964-code-agents-paper.md) — Code agent benchmark for AGI progress; multi-step reasoning and planning
-- [2403.19114 EvoEval Paper](sources/2403.19114-evoeval-paper.md) — Evolving benchmarks via LLM; 39.4% average drop; benchmark integrity concerns
-- [2405.04434 DeepSeek-V2 Paper](sources/2405.04434-deepseek-v2-paper.md) — MoE base model; 236B/21B; 93.3% KV cache reduction; 128K context
-- [2407.21787 Large Language Monkeys Paper](sources/2407.21787-large-language-monkeys-paper.md) — Repeated sampling scaling; SWE-bench 15.9%→56% with 250 samples
-- [2407.21787 ReAct Paper](sources/2407.21787-react-paper.md) — Synergizing reasoning and acting; 34% improvement on ALFWorld; foundation for tool-use agents
-- [2411.09529 MetaGPT Paper](sources/2411.09529-metagpt-paper.md) — Multi-agent SOP framework; assembly-line paradigm reduces cascading hallucinations
-- [2412.21130 OpenHands Paper](sources/2412.21130-openhands-paper.md) — Open platform for reproducible coding agent evaluation; SWE-bench, HumanEval integration
-- [2501.12599 Kimi k1.5 Paper](sources/2501.12599-kimi-k1-5-paper.md) — RL scaling for reasoning; 77.5 AIME, matches o1; Long2short distillation
-- [2511.18467 Shadows in Code Paper](sources/2511.18467-shadows-in-code-paper.md) — Multi-agent security: IMBIA attack; 93% attack rate on ChatDev; AAAI-2026
-- [2512.03262 Vibe Coding Safe Paper](sources/2512.03262-vibe-coding-safe-paper.md) — Only 10.5% of agent code is secure; SUSB VIBES benchmark
-- [2512.07022 Reformulate Retrieve Localize Paper](sources/2512.07022-reformulate-retrieve-localize-paper.md) — Bug localization agent; 35% better than BM25, +22% vs SWE-agent
-- [2512.20957 One Tool Is Enough Paper](sources/2512.20957-one-tool-is-enough-paper.md) — RepoNavigator RL agent; 7B > 14B, 14B > 32B; exceeds GPT-5
+- [Self-Reflection Code Paper](sources/self-reflection-code-paper.md) — Dual-LLM collaborative code representation; semantic preservation
+- [Autonomous Scientific Research Paper](sources/autonomous-scientific-research-paper.md) — Multi-LLM autonomous experiment design; safety considerations
 
 ### 2025-2026 Recent Research
-- [Agentic Much Paper](sources/2601.18341-agentic-much-paper.md) — 22-28% coding agent adoption on GitHub; 128K projects; empirical study
-- [Coding Agents Over-Mocked Tests Paper](sources/2602.00409-coding-agents-over-mocked-tests-paper.md) — Agents use more mocks than humans; 23% vs 13% test file changes; 1.2M commits studied
+- [Agentic Much Paper](sources/agentic-much-paper.md) — 22-28% coding agent adoption on GitHub; 128K projects; empirical study
 - [One Tool Is Enough Paper](sources/one-tool-is-enough-paper.md) — RepoNavigator RL agent; 7B > 14B, 14B > 32B; exceeds GPT-5
 - [Coding Agents Over-Mocked Tests Paper](sources/coding-agents-over-mocked-tests-paper.md) — Agents use more mocks than humans; 23% vs 13% test changes
 - [Vibe Coding Safe Paper](sources/vibe-coding-safe-paper.md) — Only 10.5% of agent code is secure; SUSB VIBES benchmark
-- [BOAD Paper](sources/2512.23631-boarding-agents-paper.md) — Hierarchical agent discovery via bandit optimization; 2nd on SWE-bench Live; 36B surpasses GPT-4 and Claude
+- [BOAD Paper](sources/board-agents-paper.md) — Hierarchical agent discovery via bandit optimization; 2nd on SWE-bench Live
 - [Shadows in Code Paper](sources/shadows-in-code-paper.md) — Multi-agent security: IMBIA attack; 93% attack rate on ChatDev
-- [Agentic Verification Paper](sources/2511.17330-agentic-verification-paper.md) — AutoRocq: LLM + Coq/Rocq theorem prover; FSE 2026; formal verification of AI-generated code
-- [From Correctness to Collaboration Paper](sources/2512.23844-from-correctness-to-collaboration-paper.md) — CAB Framework: human-AI partnership evaluation; 4 behavioral expectations
+- [Agentic Verification Paper](sources/agentic-verification-paper.md) — AutoRocq: LLM + Coq theorem prover; FSE 2026
+- [From Correctness to Collaboration Paper](sources/from-correctness-to-collaboration-paper.md) — CAB Framework: human-AI partnership evaluation
 - [GitHub Issue Ready for Copilot Paper](sources/github-issue-ready-for-copilot-paper.md) — 32 criteria; 72% AUC for merge prediction
 - [Reformulate Retrieve Localize Paper](sources/reformulate-retrieve-localize-paper.md) — Bug localization agent; 35% better than BM25, +22% vs SWE-agent
 
@@ -5600,6 +5590,44 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 ## Entities
 
 - [PR-6276-Worldarchitect](entities/PR-6276-Worldarchitect.md) — PR #6276 entity: feat/world-logic-clean-layer3, ~75% done, Layer 3 CLEAN remaining
+- [LangGraph](entities/LangGraph.md) — Graph-based state machine framework for reliable AI agents (LangChain ecosystem)
+- [AutoGen](entities/AutoGen.md) — Microsoft Research multi-agent framework (maintenance mode; successor: Microsoft Agent Framework)
+- [CrewAI](entities/CrewAI.md) — Enterprise multi-agent platform; 450M+ workflows/month, 60% Fortune 500
+- [MetaGPT](entities/MetaGPT.md) — SOP-encoding multi-agent framework; assembly line paradigm reduces hallucinations
+- [AgentBench](entities/AgentBench.md) — arXiv:2308.03688; evaluates LLMs as agents across 8 benchmarks
+- [OpenHands](entities/OpenHands.md) — All-Hands-AI coding agent; 77.6% SWE-bench; SDK/CLI/GUI/Cloud/Enterprise
+- [Voyager](entities/Voyager.md) — Minecraft agent; skill library + automatic curriculum + iterative prompting; GPT-4 critic
+- [Devin](entities/Devin.md) — Cognition AI "software engineer"; bug detection, COBOL modernization
+- [Archon](entities/Archon.md) — coleam00's YAML workflow engine; DarkFactory governance; 17 default workflows
+- [Airbyte](entities/Airbyte.md) — Data integration platform with MCP Server for AI agent context access
+- [OPA](entities/OPA.md) — Open Policy Agent; Rego policy language; decouples policy from application
+- [Constitutional AI](entities/ConstitutionalAI.md) — Anthropic self-improvement training; SL self-critique + RL/RLAIF
+- [RLAIF](entities/RLAIF.md) — Reinforcement Learning from AI Feedback; used in Constitutional AI RL phase
+- [Constitutional Classifiers](entities/ConstitutionalClassifiers.md) — Anthropic production output filtering; 3000h red team passed
+- [Anthropic Alignment Team](entities/AnthropicAlignment.md) — Anthropic safety research; Constitutional AI, Frontier Red Team
+- [Frontier Red Team](entities/FrontierRedTeam.md) — Anthropic adversarial testing; cybersecurity, biosecurity, autonomous systems
+- [Microsoft Copilot Studio](entities/MicrosoftCopilotStudio.md) — Enterprise multi-agent orchestration platform
+- [Microsoft Agent Framework](entities/MicrosoftAgentFramework.md) — Successor to AutoGen; Microsoft's recommended multi-agent framework
+- [SWE-agent](entities/SWE-agent.md) — Open-source coding agent; SWE-bench family
+- [CodeClash](entities/CodeClash.md) — SWE-agent family coding agent benchmark
+- [CAMEL](entities/CAMEL.md) — Communicative Agents Framework; inception prompting for autonomous multi-agent cooperation (Guohao Li et al.)
+- [Chip Huyen](entities/ChipHuyen.md) — Author "Designing Machine Learning Systems"; ML engineering and inference
+- [MongoDB](entities/MongoDB.md) — Vector Search + MCP Server for agent governance; Agent Skills externalize per-tenant tool configs
+- [Confluent](entities/Confluent.md) — Stream governance (Schema Registry, Control Center); fail-closed batch discard
+- [Arize AI](entities/ArizeAI.md) — ML observability with drift detection (PSI, concept/data drift); Phoenix OSS
+- [PromptLayer](entities/PromptLayer.md) — Prompt registry with RBAC/SSO; versioning outside codebase
+- [Partnership on AI](entities/PartnershipOnAI.md) — Multi-stakeholder org (Amazon, Meta, Google, IBM, Microsoft); Safety-Critical AI Program
+- [Stanford HAI](entities/StanfordHAI.md) — Foundation Model Governance Initiative
+- [ISACA](entities/ISACA.md) — AI governance certifications: AAIA, AAIR, AAISM
+- [Apache Kafka](entities/ApacheKafka.md) — Event streaming with broker-side schema validation
+- [Schema Registry](entities/SchemaRegistry.md) — Centralized Avro/Protobuf/JSON Schema management for Kafka
+- [Weaveworks](entities/Weaveworks.md) — GitOps pioneer; created Flux CD
+- [ArgoCD](entities/ArgoCD.md) — Declarative GitOps continuous delivery for Kubernetes
+- [Flux](entities/Flux.md) — CNCF GitOps tool for Kubernetes cluster configuration
+- [Elastic](entities/Elastic.md) — Search AI Lake with hybrid search; observability backend
+- [Snowflake](entities/Snowflake.md) — Cortex AI for governance-aware enterprise queries
+- [MLCommons](entities/MLCommons.md) — AI safety preparedness benchmarks; industry consortium
+- [AI Incident Database](entities/AIIncidentDatabase.md) — Real-time failure logging for AI agents
 - [Dropbox](entities/Dropbox.md) — File sync service using DHT for peer-to-peer sync, CRDT-based conflict resolution
 - [JeffreyChan](entities/JeffreyChan.md) — SEM at Snap, ex-Staff SWE at Google, jleechanorg owner
 - [jleechanclaw](entities/jleechanclaw.md) — Primary delegation workflow repo (TARGET_REPO after March 2026 postmortem)
@@ -5750,11 +5778,36 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 
 ## Concepts
 
-- [BehavioralEquivalenceAudit](concepts/BehavioralEquivalenceAudit.md) — design doc function equivalence assumptions don't hold; world_logic vs rewards_engine implementations diverge
+- [GovernanceLayerResearch](concepts/GovernanceLayerResearch.md) — Research synthesis: Grok second opinion (filesystem abstraction flaw, 5-gate bureaucracy, no feedback loops) + 4 recommendations; tensions in PR #452/#453 architecture
+- [MultiAgentOrchestration](concepts/MultiAgentOrchestration.md) — Fleet coordination frameworks: LangGraph, AutoGen, CrewAI, MetaGPT; state machines, group chats, SOP encoding
+- [WorkflowEngine](concepts/WorkflowEngine.md) — YAML DAG / durable execution systems: Archon, Temporal, Prefect, Airbyte; git worktree isolation, event sourcing
+- [PolicyEngine](concepts/PolicyEngine.md) — OPA/Rego, Constitutional AI; decouples policy decisions from application code
+- [DurableExecution](concepts/DurableExecution.md) — Crash-proof workflow state persistence; Temporal's event sourcing model; replay from any checkpoint
+- [ConstitutionalAI](concepts/ConstitutionalAI.md) — Anthropic two-phase training: SL self-critique + RL/RLAIF; chain-of-thought transparency
+- [RLAIF](concepts/RLAIF.md) — RL from AI Feedback; reduces labeling burden; RLAIF-inspired loops for governance rule improvement
+- [SOPEncoding](concepts/SOPEncoding.md) — Standardized Operating Procedures as agent prompts; MetaGPT assembly line; AO evolve loop as 8-phase SOP
+- [TreeOfThoughts](concepts/TreeOfThoughts.md) — Deliberate problem-solving with self-evaluation and backtracking; extends chain-of-thought
+- [InceptionPrompting](concepts/InceptionPrompting.md) — CAMEL's role-playing framework for autonomous multi-agent cooperation without human intervention
+- [RolePlayingFramework](concepts/RolePlayingFramework.md) — Assigning roles to agents for emergent cooperation; CAMEL and MetaGPT patterns
+- [RouterBasedArchitecture](concepts/RouterBasedArchitecture.md) — Central decision component for agent skill routing; used in AgentBench
+- [AgentSkills](concepts/AgentSkills.md) — MongoDB externalizes tool configs per-tenant; addresses "agents don't know production best practices"
+- [PromptRegistry](concepts/PromptRegistry.md) — External prompt versioning with RBAC; PromptLayer pattern for governance
+- [MultiTurnAlignment](concepts/MultiTurnAlignment.md) — Training for long-horizon instruction following; "poor instruction following is main obstacle" — AgentBench
+- [SchemaIDValidation](concepts/SchemaIDValidation.md) — Kafka broker-side verification; fail-closed batch discard ("entire batch discarded if any invalid")
+- [StreamGovernance](concepts/StreamGovernance.md) — Confluent's three pillars: Stream Lineage, Stream Catalog, Stream Quality
+- [DataContracts](concepts/DataContracts.md) — Producer-consumer schema agreements; model for merge requirements
+- [ValueAlignment](concepts/ValueAlignment.md) — CHAI/AI systems should be uncertain of objectives and deferent to humans (Stuart Russell)
+- [InverseReinforcementLearning](concepts/InverseReinforcementLearning.md) — Learning reward functions from human behavior; CIRL basis
+- [ScalableOversight](concepts/ScalableOversight.md) — Verifying AI at scale without human review of every decision; PAI Safety-Critical AI Program
+- [DriftDetection](concepts/DriftDetection.md) — ML observability for concept/data drift; PSI metric; Arize/Phoenix
+- [FailClosedValidation](concepts/FailClosedValidation.md) — Entire batch rejected if any message invalid; Confluent Schema Registry model
+- [GitOps](concepts/GitOps.md) — Git-centric deployment with approval workflows; Weaveworks/ArgoCD/Flux; audit trail as governance
 - [RewardsEngineRefactor](concepts/RewardsEngineRefactor.md) — Consolidating rewards decisions into rewards_engine.py: full public API, single call site
 - [WorldLogicStrip](concepts/WorldLogicStrip.md) — Reducing world_logic.py to thin modal wrapper: ~7200 lines to remove
 - [Layer3Clean](concepts/Layer3Clean.md) — TDD final phase: strip world_logic.py from 8729 to 1500 lines, delete deprecated functions
 - [DesignDocGate](concepts/DesignDocGate.md) — CI grep gate workflow: 5 gates enforced, gap: world_logic.py line count not tracked
+- [CodeRabbitDismissedPattern](concepts/CodeRabbitDismissedPattern.md) — CR DISMISSED requires substantive code change; empty commit does NOT re-trigger
+- [CodeRabbitStaleLineRefs](concepts/CodeRabbitStaleLineRefs.md) — CR inline comments reference diff as-of-post time; large refactors make line refs stale
 - [JeffreyWorkingStyle](concepts/JeffreyWorkingStyle.md) — CLI-first, automation-driven, evidence-based workflow
 - [JeffreyCommunicationStyle](concepts/JeffreyCommunicationStyle.md) — Terse, direct, imperative communication
 - [JeffreyGoals](concepts/JeffreyGoals.md) — Current priorities: PR flow, automation, LLM-first architecture
@@ -5856,8 +5909,6 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Nautiloid (Mind Flayer Ship)](concepts/Nautiloid.md) — Living organic vessel, BG3 opening setting
 - [SelfRefine](concepts/SelfRefine.md) — Iterative generate-critique-revise loop (Madaan 2023); avg 79.9/100 on 19 PRs; best when PR description matches actual
 - [ProcessRewardModel](concepts/ProcessRewardModel.md) — Step-level evaluation during generation; best for catching misdiagnosed root causes (e.g., C9 field inconsistency was red herring)
-- [PR Recreate Pipeline](concepts/PRRecreatePipeline.md) — SWE-bench style: pre-PR state → recreate fix → compare → score vs canonical; opens real PRs if delta > 0
-- [Benchmark Mode](concepts/BenchmarkMode.md) — The wrong approach: predict what already-merged PRs would do; produces zero real code
 - [Self-Generated Test Generation](concepts/SelfGeneratedTestGeneration.md) — AI models producing test cases for their own output; fills coverage gaps, requires test execution for verification
 - [XP (Experience Points)](concepts/XP.md) — D&D 5e currency for progression; awarded for combat, encounters, quests, and milestones; triggers level-up when thresholds are reached
 - [Miasma](concepts/Miasma.md) — Divine blood of Venus, Gaia Julia's unique power
@@ -6115,14 +6166,22 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [cycle_metaharness_v3](syntheses/cycle_metaharness_v3.md) — Meta-Harness: +27 avg, highest leverage single technique
 - [cycle_prm_v3](syntheses/cycle_prm_v3.md) — PRM/SWE-Shepherd: +23 avg, catches key_func-level missed bugs
 - [cycle_combined_v3](syntheses/cycle_combined_v3.md) — Combined: +46 avg, 1.7x Meta-Harness alone
+- [cycle_pr-recreate-v1](syntheses/cycle_pr-recreate-v1.md) — PR Recreate Pipeline v1: ET 90.2 > PRM 87.25 > SelfRefine 81.4; 15 real PRs created; ET wins on validation/refactor, PRM wins on complex
+- [PR Recreate Pipeline v2 Results](sources/pr-recreate-pipeline-v2-2026-04-16.md) — v2: SelfRefine 89.25 avg (consistent) vs ET 76.5 avg (inflated by v1 outlier); combined n=8 ranking; n=15 needed
+- [PR #6276 Late Status 2026-04-16](sources/pr6276-late-status-2026-04-16.md) — Harness PRs still BLOCKED, 4 commits ahead of main (not 434), PR #6308 BLOCKED
+- [PR #6276 Status Update 2026-04-16b](sources/pr6276-status-update-2026-04-16b.md) — PR #6287 CLEAN (was UNSTABLE), CodeRabbit DISMISSED but merge-ready, 4 commits ahead of main
+- [PR #6276 Status 2026-04-16c](sources/pr6276-status-2026-04-16c.md) — PR #6287 BLOCKED by core-mvp-2 test failure; CLEAN state was transient before test suite completed
+- [PR #6276 Status 2026-04-16d](sources/pr6276-status-2026-04-16d.md) — PR #6287 still BLOCKED by core-mvp-2 failure; state oscillates BLOCKED/UNSTABLE but test failure persists
 
 ### Concepts
 - [AutoResearchExperiment](concepts/AutoResearchExperiment.md) — Full system overview
 - [SelfCritiqueVerificationLoop](concepts/SelfCritiqueVerificationLoop.md) — 3-iteration cap pattern
 - [CanonicalCodeScorer](concepts/CanonicalCodeScorer.md) — 6-dim rubric formula
+- [TechniqueSelectionOracle](concepts/TechniqueSelectionOracle.md) — Thompson sampling bandit for technique selection; converges to best technique via exploration/exploitation
 - [ProductTasteLayer](concepts/ProductTasteLayer.md) — Product taste components
 - [AutoResearchHypotheses](concepts/AutoResearchHypotheses.md) — H1-H4 validated patterns + C1-C6 cross-PR patterns
 - [Layer3CleanRefactor](concepts/Layer3CleanRefactor.md) — Layer 3 single-responsibility rewards engine refactor
+- [BehavioralEquivalenceAudit](concepts/BehavioralEquivalenceAudit.md) — Verify two functions produce identical outputs; 0/3 pairs equivalent in PR #6276
 
 ### Reference
 - [research-wiki-results](sources/research-wiki-results.md) — 18-cycle experiment log

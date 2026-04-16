@@ -1,12 +1,17 @@
 ---
 title: "Archon"
 type: entity
+<<<<<<< HEAD
 tags: [workflow-engine, ai-coding, typescript, bun]
+=======
+tags: [workflow-engine, yaml-dag, autonomous-coding, dark-factory]
+>>>>>>> origin/fix/br-4bk-green-gate-design-doc-v2
 date: 2026-04-15
 ---
 
 ## Overview
 
+<<<<<<< HEAD
 Archon (https://github.com/coleam00/Archon) is a TypeScript/Bun monorepo workflow engine for AI coding agents. It wraps Claude Code SDK and OpenAI Codex SDK with YAML-defined DAG workflows to make AI-assisted development deterministic and repeatable.
 
 ## Key Characteristics
@@ -52,3 +57,34 @@ Archon = workflow engine for **one** AI coding session per worktree.
 AO fork = fleet orchestrator for **many** AI agents in parallel across PRs.
 
 See [[slack-c09grlxf9gr-archon-analysis-2026-04-15]] for full comparison.
+=======
+Archon (coleam00/Archon) is a workflow engine for AI coding — "What Dockerfiles did for infrastructure and GitHub Actions did for CI/CD, Archon does for AI coding workflows." It makes AI coding deterministic and repeatable via YAML workflows.
+
+## Key Properties
+
+- **Creator**: Cole (coleam00)
+- **Description**: "What Dockerfiles did for infrastructure and GitHub Actions did for CI/CD — Archon does for AI coding workflows"
+- **Architecture layers**:
+  - Platform Adapters (Web UI, CLI, Telegram, Slack, Discord, GitHub)
+  - Orchestrator (message routing, context management)
+  - Workflow Executor (YAML DAGs)
+  - AI Assistant Clients (Claude/Codex)
+  - SQLite/PostgreSQL persistence
+- **Key features**: Repeatable, Isolated (git worktrees), Composable, Portable
+- **Node types**: Prompt nodes (AI), Bash nodes (deterministic), Loop nodes, Interactive nodes
+- **17 default workflows**: bug fix, feature development, PR review, conflict resolution, architecture sweeps
+- **Governance**: DarkFactory pattern — mission.md + factory-rules.md consulted on every decision
+
+## Connections
+
+- [[DarkFactory]] — Archon uses DarkFactory governance pattern (mission.md + factory-rules.md)
+- [[WorkflowEngine]] — Archon encodes workflows as YAML DAGs
+- [[GovernanceLayer]] — Archon's governance is coupled (consulted on every decision) vs AO's decoupled constraint model
+- [[YAMLWorkflow]] — Archon's YAML workflow definition pattern
+- [[GitWorktreeIsolation]] — Archon uses git worktrees for run isolation
+
+## See Also
+- [[DarkFactory]]
+- [[WorkflowEngine]]
+- [[GovernanceLayer]]
+>>>>>>> origin/fix/br-4bk-green-gate-design-doc-v2
