@@ -3594,3 +3594,8 @@ SelfRefine #6277: 8.1/10. PRM #6275: 6.25/10. ExtendedThinking #6276: 6.45/10. S
 - **Bead**: audit task #5 complete
 - **Files**: sources/level-up-bugs-audit-2026-04-15.md (new)
 ## 2026-04-15 ingest | Harness-Fix PRs Status 2026-04-16d — CR CHANGES_REQUESTED blocks all 5 from 7-green
+
+## 2026-04-16 — cycle | Phase 3 Convergence Hypothesis — Held-Out Autor PR Validation
+- **Type**: synthesis
+- **Summary**: Phase 3: All 3 techniques converge to ~87 (SelfRefine n=17 mean 84.8, ET n=12 mean 82.5, PRM n=5 mean 79.1). Held-out validation: autor PR #6330 SelfRefine scored 91/100 (+4 vs original #6287 est. 87/100). Hypothesis doc addendum: #6330 improved docstring (+2) and naming (+2) but introduced architectural inconsistency (−1: kept normalize_rewards_box in banned list). 5 remaining autor PRs (#6331-#6335) need scoring.
+- **Files**: wiki/syntheses/cycle_phase3_hypothesis.md (updated with held-out addendum)
