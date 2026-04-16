@@ -14,6 +14,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
+- [Harness Fix PRs Status 2026-04-16 Late](sources/pr-harness-fix-prs-status-2026-04-16-late.md) — PR #6276 MERGED ~85% complete; 4 harness-fix PRs blocked by CR and 0 runners; rev-v4ci01 TOMBSTONED; skeptic-evaluate.sh auto-merge removed
 - [Governance Layer Design BFS + PR #452/#453 (2026-04-15)](sources/governance-layer-design-bfs-2026-04-15.md) — BFS research synthesis: 3-component governance (Skeptic + Evidence Validator + Policy Engine), GitOps approval for GOVERNANCE.md, fail-closed batch model, RLAIF-inspired feedback loops, Confluent Stream Governance as design model
 - [Governance Layer Design PRs #452/#453 (2026-04-15)](sources/pr-452-453-governance-layer-design-2026-04-15.md) — real-time governance layer for evolve loop (GOVERNANCE.md) + fail-closed semantic merge gates (gate-governance plugin); no mandatory human review, hard/soft constraints, escalation paths
 - [PR #6276 Design Doc v4 Summary](sources/pr6276_design_doc_v4_summary.md) — source page for PR #6276 v4 design, Layer 3 CLEAN status, grep gate gap
@@ -28,6 +29,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [PR #6276 Level-Up Status 2026-04-15](sources/pr-6276-level-up-status-2026-04-15.md) — Layer 3 CLEAN incomplete: 21 grep matches in world_logic.py, 5 CI failures, 11 CR threads, 7 agents running
 - [PR #6276 rev-v4ci Status 2026-04-15 Night](sources/pr6276-rev-v4ci-status-2026-04-15-night.md) — runners OFFLINE, harness PRs OPEN, rev-v4ci06 scope clarified (design doc update only), rev-v4ci01 BLOCKED
 - [PR #6276 rev-v4ci Status 2026-04-16](sources/pr6276-rev-v4ci-status-2026-04-16.md) — rev-v4ci01 TOMBSTONED (unachievable), PR #6276 ~85% complete, skeptic-gate FAIL on harness-fix PRs
+- [Harness-Fix PRs + PR #6276 Status 2026-04-16 Late — 0 Runners Block All CI](sources/harness-fix-prs-status-2026-04-16-late.md) — PR #6276 MERGED; 4 harness-fix PRs BLOCKED by CR CHANGES_REQUESTED + 0 runners; skeptic-gate concurrency bug confirmed; coder-1 coordinating
+- [Skeptic Gate Concurrency Bug — All Harness-Fix PRs Affected](sources/skeptic-gate-concurrency-bug-2026-04-16.md) — skeptic-gate.yml and green-gate.yml share `green-gate-$PR_NUM` concurrency group, mutually cancelling each other's runs; fix in PR #6308 BLOCKED by its own CR CHANGES_REQUESTED
+- [Harness-Fix PRs Status 2026-04-16d](sources/harness-fix-prs-status-2026-04-16d.md) — CR CHANGES_REQUESTED blocks #6289/#6292/#6308 from 7-green; #6287 test fix pushed (4d1afd4803); PR #6276 MERGED
 - [Harness-Fix PRs Status 2026-04-15](sources/harness-fix-prs-status-2026-04-15.md) — #6292/#6285 MERGEABLE (GATE-5 fail), #6289/#6287 CONFLICTING (need rebase), skeptic-gate re-trigger pending
 - [PR #6276 Post-Merge Assessment 2026-04-16](sources/pr6276-post-merge-assessment-2026-04-16.md) — ~85% done; Layer 3 CLEAN incomplete; world_logic.py not stripped; rev-v4ci01 TOMBSTONED; design doc equivalence claim wrong (0/3 pairs equivalent)
 - [PR #6276 Gate Status 2026-04-15](sources/pr-6276-gate-status-2026-04-15.md) — 1/7 gates pass: only CR threads resolved; design vs implementation gap analysis; branch confusion (pr-6275 vs feat/world-logic-clean-layer3)
@@ -5802,6 +5806,8 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [WorldLogicStrip](concepts/WorldLogicStrip.md) — Reducing world_logic.py to thin modal wrapper: ~7200 lines to remove
 - [Layer3Clean](concepts/Layer3Clean.md) — TDD final phase: strip world_logic.py from 8729 to 1500 lines, delete deprecated functions
 - [DesignDocGate](concepts/DesignDocGate.md) — CI grep gate workflow: 5 gates enforced, gap: world_logic.py line count not tracked
+- [CodeRabbitDismissedPattern](concepts/CodeRabbitDismissedPattern.md) — CR DISMISSED requires substantive code change; empty commit does NOT re-trigger
+- [CodeRabbitStaleLineRefs](concepts/CodeRabbitStaleLineRefs.md) — CR inline comments reference diff as-of-post time; large refactors make line refs stale
 - [JeffreyWorkingStyle](concepts/JeffreyWorkingStyle.md) — CLI-first, automation-driven, evidence-based workflow
 - [JeffreyCommunicationStyle](concepts/JeffreyCommunicationStyle.md) — Terse, direct, imperative communication
 - [JeffreyGoals](concepts/JeffreyGoals.md) — Current priorities: PR flow, automation, LLM-first architecture
@@ -6161,11 +6167,17 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [cycle_prm_v3](syntheses/cycle_prm_v3.md) — PRM/SWE-Shepherd: +23 avg, catches key_func-level missed bugs
 - [cycle_combined_v3](syntheses/cycle_combined_v3.md) — Combined: +46 avg, 1.7x Meta-Harness alone
 - [cycle_pr-recreate-v1](syntheses/cycle_pr-recreate-v1.md) — PR Recreate Pipeline v1: ET 90.2 > PRM 87.25 > SelfRefine 81.4; 15 real PRs created; ET wins on validation/refactor, PRM wins on complex
+- [PR Recreate Pipeline v2 Results](sources/pr-recreate-pipeline-v2-2026-04-16.md) — v2: SelfRefine 89.25 avg (consistent) vs ET 76.5 avg (inflated by v1 outlier); combined n=8 ranking; n=15 needed
+- [PR #6276 Late Status 2026-04-16](sources/pr6276-late-status-2026-04-16.md) — Harness PRs still BLOCKED, 4 commits ahead of main (not 434), PR #6308 BLOCKED
+- [PR #6276 Status Update 2026-04-16b](sources/pr6276-status-update-2026-04-16b.md) — PR #6287 CLEAN (was UNSTABLE), CodeRabbit DISMISSED but merge-ready, 4 commits ahead of main
+- [PR #6276 Status 2026-04-16c](sources/pr6276-status-2026-04-16c.md) — PR #6287 BLOCKED by core-mvp-2 test failure; CLEAN state was transient before test suite completed
+- [PR #6276 Status 2026-04-16d](sources/pr6276-status-2026-04-16d.md) — PR #6287 still BLOCKED by core-mvp-2 failure; state oscillates BLOCKED/UNSTABLE but test failure persists
 
 ### Concepts
 - [AutoResearchExperiment](concepts/AutoResearchExperiment.md) — Full system overview
 - [SelfCritiqueVerificationLoop](concepts/SelfCritiqueVerificationLoop.md) — 3-iteration cap pattern
 - [CanonicalCodeScorer](concepts/CanonicalCodeScorer.md) — 6-dim rubric formula
+- [TechniqueSelectionOracle](concepts/TechniqueSelectionOracle.md) — Thompson sampling bandit for technique selection; converges to best technique via exploration/exploitation
 - [ProductTasteLayer](concepts/ProductTasteLayer.md) — Product taste components
 - [AutoResearchHypotheses](concepts/AutoResearchHypotheses.md) — H1-H4 validated patterns + C1-C6 cross-PR patterns
 - [Layer3CleanRefactor](concepts/Layer3CleanRefactor.md) — Layer 3 single-responsibility rewards engine refactor
