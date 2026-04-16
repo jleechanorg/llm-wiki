@@ -5808,6 +5808,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [DesignDocGate](concepts/DesignDocGate.md) — CI grep gate workflow: 5 gates enforced, gap: world_logic.py line count not tracked
 - [CodeRabbitDismissedPattern](concepts/CodeRabbitDismissedPattern.md) — CR DISMISSED requires substantive code change; empty commit does NOT re-trigger
 - [CodeRabbitStaleLineRefs](concepts/CodeRabbitStaleLineRefs.md) — CR inline comments reference diff as-of-post time; large refactors make line refs stale
+- [ZeroRunnersCIStuck](concepts/ZeroRunnersCIStuck.md) — Zero self-hosted runners online causes CI to queue indefinitely; infrastructure blocker (not code), affects green-gate + skeptic-gate
 - [JeffreyWorkingStyle](concepts/JeffreyWorkingStyle.md) — CLI-first, automation-driven, evidence-based workflow
 - [JeffreyCommunicationStyle](concepts/JeffreyCommunicationStyle.md) — Terse, direct, imperative communication
 - [JeffreyGoals](concepts/JeffreyGoals.md) — Current priorities: PR flow, automation, LLM-first architecture
@@ -6178,6 +6179,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [SelfCritiqueVerificationLoop](concepts/SelfCritiqueVerificationLoop.md) — 3-iteration cap pattern
 - [CanonicalCodeScorer](concepts/CanonicalCodeScorer.md) — 6-dim rubric formula
 - [TechniqueSelectionOracle](concepts/TechniqueSelectionOracle.md) — Thompson sampling bandit for technique selection; converges to best technique via exploration/exploitation
+- [AutoResearchConvergenceOracle](concepts/AutoResearchConvergenceOracle.md) — Two-level oracle: paper relevance (implementable?) and technique selection (which technique?); convergence criteria: n≥10, stddev<5, winner>80% posterior
 - [ProductTasteLayer](concepts/ProductTasteLayer.md) — Product taste components
 - [AutoResearchHypotheses](concepts/AutoResearchHypotheses.md) — H1-H4 validated patterns + C1-C6 cross-PR patterns
 - [Layer3CleanRefactor](concepts/Layer3CleanRefactor.md) — Layer 3 single-responsibility rewards engine refactor
