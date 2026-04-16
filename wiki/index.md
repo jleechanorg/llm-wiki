@@ -6168,6 +6168,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [cycle_prm_v3](syntheses/cycle_prm_v3.md) — PRM/SWE-Shepherd: +23 avg, catches key_func-level missed bugs
 - [cycle_combined_v3](syntheses/cycle_combined_v3.md) — Combined: +46 avg, 1.7x Meta-Harness alone
 - [cycle_pr-recreate-v1](syntheses/cycle_pr-recreate-v1.md) — PR Recreate Pipeline v1: ET 90.2 > PRM 87.25 > SelfRefine 81.4; 15 real PRs created; ET wins on validation/refactor, PRM wins on complex
+- [cycle_phase3_hypothesis](syntheses/cycle_phase3_hypothesis.md) — Phase 3: rubric ceiling at 87 explains convergence; bandit update; #6330 SelfRefine 91 (+4 vs original held-out)
 - [PR Recreate Pipeline v2 Results](sources/pr-recreate-pipeline-v2-2026-04-16.md) — v2: SelfRefine 89.25 avg (consistent) vs ET 76.5 avg (inflated by v1 outlier); combined n=8 ranking; n=15 needed
 - [PR #6276 Late Status 2026-04-16](sources/pr6276-late-status-2026-04-16.md) — Harness PRs still BLOCKED, 4 commits ahead of main (not 434), PR #6308 BLOCKED
 - [PR #6276 Status Update 2026-04-16b](sources/pr6276-status-update-2026-04-16b.md) — PR #6287 CLEAN (was UNSTABLE), CodeRabbit DISMISSED but merge-ready, 4 commits ahead of main
