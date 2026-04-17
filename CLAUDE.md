@@ -184,3 +184,22 @@ python3 scripts/validate_router_prereqs.py
 3. Re-run the gate. Proceed only when exit 0.
 
 This rule exists because an earlier session recommended "build the router" based on convergent means on disjoint PR sets — a structural fallacy. The gate is deliberately dumb so smaller/weaker models cannot rationalize around it.
+
+---
+
+## Autor PR Lifecycle (MANDATORY)
+
+**Autor PRs are evaluation artifacts, never merge candidates.** The purpose of opening a PR is to get a scorable diff, not to ship code.
+
+Required lifecycle for every autor-generated PR:
+1. **Open as draft** (`gh pr create --draft`) with `[autor]` label and technique tag (`[SR]`, `[ET]`, `[PRM]`).
+2. **Score against the 6-dim rubric**; write `research-wiki/scores/<tech>_<pr>_<ts>.json` + `wiki/syntheses/et_logs/<tech>_<pr>_<ts>.log`.
+3. **Update bandit state** with explicit `technique` field in `rubric_scores`.
+4. **Close the PR** (`gh pr close`) with a comment noting the technique + score. Do not leave it open.
+
+**Do NOT:**
+- Open autor PRs as ready-for-review.
+- Attempt to merge an autor PR (even if CR approves).
+- Interpret "all autor PRs CLOSED" as a failure signal — closed-after-score is the **correct** end state.
+
+**Why:** A CLOSED autor PR with a committed score JSON + log is a successful evaluation. An OPEN autor PR is an incomplete evaluation. A MERGED autor PR is a policy violation. This rule exists because a prior review confused "closed without merge" with "work not done" — autor's goal is the evaluation record, not production code.
