@@ -1,0 +1,97 @@
+TESTFILE: mvp_site/tests/test_narrative_response_legacy_fallback.py
+START: 2026-04-15 03:30:36
+2026-04-15 03:30:36,985 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:30:37,058 - root - WARNING - ⚠️ ⚠️ JSON recovery attempted (expecting_value_recovery) but failed. Falling back to error response. Original error: Expecting value: line 1 column 1 (char 0)
+2026-04-15 03:30:37,058 - root - ERROR - 🔥🔴 🔥 Failed to parse JSON response: Expecting value: line 1 column 1 (char 0) | total_length=46 | error_pos=0 | context[0:46]: Just plain text with no JSON structure at all.
+2026-04-15 03:30:37,058 - root - ERROR - 🔥🔴 Failed to parse JSON response - returning error message.
+2026-04-15 03:30:37,059 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:37,059 - root - ERROR - 🔥🔴 🔥 Failed to parse JSON response: Expecting property name enclosed in double quotes: line 2 column 10 (char 10) | total_length=221 | error_pos=10 | context[0:221]: 
+        {{{{
+            data: {
+                "narrative": "The actual story content here
+                with multiple lines
+                and broken JSON structure"
+            missing brackets everywhere
+        
+2026-04-15 03:30:37,059 - root - ERROR - 🔥🔴 Failed to parse JSON response - returning error message.
+2026-04-15 03:30:37,059 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:37,059 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:37,059 - root - WARNING - ⚠️ ⚠️ JSON recovery attempted (expecting_value_recovery) but failed. Falling back to error response. Original error: Expecting value: line 2 column 9 (char 9)
+2026-04-15 03:30:37,059 - root - ERROR - 🔥🔴 🔥 Failed to parse JSON response: Expecting value: line 2 column 9 (char 9) | total_length=140 | error_pos=9 | context[0:140]: 
+        The actual narrative text but still has "narrative": markers
+        and "god_mode_response": artifacts that need cleaning
+        
+2026-04-15 03:30:37,059 - root - ERROR - 🔥🔴 Failed to parse JSON response - returning error message.
+2026-04-15 03:30:37,059 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:37,059 - root - INFO - Removed code execution prefix (75 chars) before JSON
+2026-04-15 03:30:37,059 - root - WARNING - ⚠️ ⚠️ JSON recovery (extra_data_truncation): Successfully parsed valid JSON portion (truncated at position 10, 40 chars of extra data ignored). Original error: Extra data: line 1 column 11 (char 10)
+2026-04-15 03:30:37,059 - root - ERROR - 🔥🔴 Invalid JSON response format: expected dict, got list with 1 elements. Response may be dice roll results instead of a structured response.
+2026-04-15 03:30:37,059 - root - ERROR - 🔥🔴 Failed to parse JSON response - returning error message.
+2026-04-15 03:30:37,059 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:37,059 - root - WARNING - ⚠️ ⚠️ JSON recovery (extra_data_truncation): Successfully parsed valid JSON portion (truncated at position 20, 63 chars of extra data ignored). Original error: Extra data: line 2 column 20 (char 20)
+2026-04-15 03:30:37,059 - root - ERROR - 🔥🔴 Invalid JSON response format: expected dict, got str.
+2026-04-15 03:30:37,059 - root - ERROR - 🔥🔴 Failed to parse JSON response - returning error message.
+2026-04-15 03:30:37,059 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:37,059 - root - WARNING - ⚠️ NarrativeResponse validation failed: NarrativeResponse.__init__() missing 1 required positional argument: 'narrative'. Attempting partial recovery.
+2026-04-15 03:30:37,059 - root - ERROR - 🔥🔴 ❌ STRING PLANNING BLOCKS NO LONGER SUPPORTED: String planning blocks are deprecated. Only JSON format is allowed. Received: ...
+2026-04-15 03:30:37,059 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:37,059 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:37,059 - root - WARNING - ⚠️ ⚠️ JSON recovery attempted (expecting_value_recovery) but failed. Falling back to error response. Original error: Expecting value: line 2 column 53 (char 53)
+2026-04-15 03:30:37,059 - root - ERROR - 🔥🔴 🔥 Failed to parse JSON response: Expecting value: line 2 column 53 (char 53) | total_length=109 | error_pos=53 | context[0:109]: 
+        {"narrative": "The player enters", "other": broken json here
+        with no proper closing
+        
+2026-04-15 03:30:37,059 - root - ERROR - 🔥🔴 Failed to parse JSON response - returning error message.
+2026-04-15 03:30:37,059 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:37,059 - root - ERROR - 🔥🔴 🔥 Failed to parse JSON response: Expecting property name enclosed in double quotes: line 5 column 13 (char 127) | total_length=203 | error_pos=127 | context[0:203]: 
+        {
+            "narrative": "Valid part of response",
+            "entities_mentioned": ["player", "npc"],
+            this part is broken
+            "but_then": "valid again"
+        }
+        
+2026-04-15 03:30:37,059 - root - ERROR - 🔥🔴 Failed to parse JSON response - returning error message.
+2026-04-15 03:30:37,059 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:37,059 - root - WARNING - ⚠️ ⚠️ JSON recovery attempted (expecting_value_recovery) but failed. Falling back to error response. Original error: Expecting value: line 2 column 9 (char 9)
+2026-04-15 03:30:37,059 - root - ERROR - 🔥🔴 🔥 Failed to parse JSON response: Expecting value: line 2 column 9 (char 9) | total_length=152 | error_pos=9 | context[0:152]: 
+        Some text before
+        "narrative": "First narrative",
+        more text
+        "narrative": "Second narrative",
+        final text
+        
+2026-04-15 03:30:37,059 - root - ERROR - 🔥🔴 Failed to parse JSON response - returning error message.
+2026-04-15 03:30:37,059 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:37,059 - root - ERROR - 🔥🔴 🔥 Failed to parse JSON response: Expecting ',' delimiter: line 5 column 9 (char 121) | total_length=121 | error_pos=121 | context[0:121]: 
+        {
+            "narrative": "The player says, \"Hello!\"\nThen walks away.",
+            "partial": true
+        
+2026-04-15 03:30:37,059 - root - ERROR - 🔥🔴 Failed to parse JSON response - returning error message.
+2026-04-15 03:30:37,059 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:37,059 - root - ERROR - 🔥🔴 🔥 Failed to parse JSON response: Invalid control character at: line 5 column 41 (char 185) | total_length=194 | error_pos=185 | context[0:194]: 
+        {
+            "narrative": "The adventure begins as you enter the dungeon...",
+            "entities_mentioned": ["player", "dungeon"],
+            "location_confirmed": "Dunge
+        
+2026-04-15 03:30:37,059 - root - ERROR - 🔥🔴 Failed to parse JSON response - returning error message.
+2026-04-15 03:30:37,059 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:37,059 - root - WARNING - ⚠️ ⚠️ JSON recovery attempted (expecting_value_recovery) but failed. Falling back to error response. Original error: Expecting value: line 4 column 23 (char 111)
+2026-04-15 03:30:37,060 - root - ERROR - 🔥🔴 🔥 Failed to parse JSON response: Expecting value: line 4 column 23 (char 111) | total_length=134 | error_pos=111 | context[0:134]: 
+        {
+            "narrative": "Too    many     spaces\n\n\nAnd too many newlines",
+            "broken": json
+        }
+        
+2026-04-15 03:30:37,060 - root - ERROR - 🔥🔴 Failed to parse JSON response - returning error message.
+2026-04-15 03:30:37,060 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.
+----------------------------------------------------------------------
+Ran 14 tests in 0.001s
+
+OK
+RESULT: PASS
+DURATION: 1s
+END: 2026-04-15 03:30:37

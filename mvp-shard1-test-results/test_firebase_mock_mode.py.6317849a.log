@@ -1,0 +1,219 @@
+TESTFILE: mvp_site/tests/test_firebase_mock_mode.py
+START: 2026-04-15 03:30:21
+2026-04-15 03:30:21,403 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:30:21,868 - root - INFO - Applied clock skew patch: adjusting time by -720 seconds
+2026-04-15 03:30:22,341 - root - INFO - Loading service account from file: /dev/null
+2026-04-15 03:30:22,341 - root - WARNING - ⚠️ Failed to load credentials from file /dev/null: Expecting value: line 1 column 1 (char 0)
+2026-04-15 03:30:22,341 - root - INFO - Attempting to load service account from environment variables
+2026-04-15 03:30:22,341 - root - WARNING - ⚠️ Failed to load credentials from env vars: Missing required environment variables: GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY. Please set these variables in your environment (.env file, Claude.ai project settings, or GitHub Secrets). See module docstring for detailed instructions.
+2026-04-15 03:30:22,341 - root - WARNING - ⚠️ Failed to load explicit credentials: Failed to load service account credentials from any source. File path '/dev/null' not found or invalid. Environment variables missing or incomplete (need GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY).. Attempting default application credentials.
+2026-04-15 03:30:22,341 - root - INFO - Firebase initialized successfully in world_logic.py
+2026-04-15 03:30:22,342 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:22,342 - root - INFO - Schema doc cache initialized: 11 types, 0.15ms total
+2026-04-15 03:30:22,343 - root - INFO - 🧠 CLASSIFIER: Loading embedding model BAAI/bge-small-en-v1.5...
+2026-04-15 03:30:22,344 - root - INFO - Lazy warmup ready: main.firestore_service.get_campaigns_for_user
+2026-04-15 03:30:22,344 - root - INFO - Lazy warmup ready: main.openclaw_provider.test_openclaw_gateway_connection
+2026-04-15 03:30:22,344 - root - INFO - Lazy warmup ready: main.world_logic.get_campaigns_list_unified
+2026-04-15 03:30:22,344 - root - INFO - Lazy warmup started: main.firestore_runtime_warmup (background thread)
+2026-04-15 03:30:22,344 - root - WARNING - ⚠️ Invalid INTENT_CLASSIFIER_WARMUP_TIMEOUT_SECONDS='not-a-number'; using default 5.0s
+2026-04-15 03:30:22,344 - root - ERROR - 🔥🔴 Failed to create Firestore client: ('File /dev/null is not a valid json file.', JSONDecodeError('Expecting value: line 1 column 1 (char 0)'))
+2026-04-15 03:30:22,344 - root - ERROR - 🔥🔴 Runtime warmup failed for Firestore client/query priming.
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 184, in load_credentials_from_file
+    info = json.load(file_obj)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/firestore_service.py", line 1960, in get_db
+    return firestore.client()
+           ^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/firestore.py", line 53, in client
+    fs_client = _utils.get_app_service(app, _FIRESTORE_ATTRIBUTE, _FirestoreClient.from_app)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/_utils.py", line 98, in get_app_service
+    return app._get_service(name, initializer) # pylint: disable=protected-access
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/__init__.py", line 297, in _get_service
+    self._services[name] = initializer(self)
+                           ^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/firestore.py", line 69, in from_app
+    credentials = app.credential.get_credential()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/credentials.py", line 142, in get_credential
+    self._load_credential()
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/credentials.py", line 159, in _load_credential
+    self._g_credential, self._project_id = google.auth.default(scopes=_scopes)
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 714, in default
+    credentials, project_id = checker()
+                              ^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 707, in <lambda>
+    lambda: _get_explicit_environ_credentials(quota_project_id=quota_project_id),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 352, in _get_explicit_environ_credentials
+    credentials, project_id = load_credentials_from_file(
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 189, in load_credentials_from_file
+    raise new_exc from caught_exc
+google.auth.exceptions.DefaultCredentialsError: ('File /dev/null is not a valid json file.', JSONDecodeError('Expecting value: line 1 column 1 (char 0)'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/main.py", line 195, in _prime_firestore_runtime_warmup
+    firestore_service.get_db()
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/firestore_service.py", line 1963, in get_db
+    raise ValueError(
+ValueError: Firestore client creation failed. Check Firebase configuration and network connectivity.
+2026-04-15 03:30:22,455 - root - INFO - 🧠 CLASSIFIER: Computing anchor embeddings...
+2026-04-15 03:30:23,136 - root - INFO - 🧠 CLASSIFIER: Ready for inference (succeeded on attempt 1).
+2026-04-15 03:30:23,147 - root - INFO - Lazy warmup ready: main.intent_classifier_ready
+2026-04-15 03:30:23,147 - root - INFO - Lazy warmup complete for homepage and streaming dependencies.
+2026-04-15 03:30:23,153 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:23,154 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:23,155 - root - INFO - Lazy warmup ready: main.firestore_service.get_campaigns_for_user
+2026-04-15 03:30:23,155 - root - INFO - Lazy warmup ready: main.openclaw_provider.test_openclaw_gateway_connection
+2026-04-15 03:30:23,155 - root - INFO - Lazy warmup ready: main.world_logic.get_campaigns_list_unified
+2026-04-15 03:30:23,155 - root - INFO - Lazy warmup ready: main.intent_classifier_ready
+2026-04-15 03:30:23,155 - root - INFO - Lazy warmup complete for homepage and streaming dependencies.
+.2026-04-15 03:30:23,160 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:23,160 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:23,160 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:23,161 - root - INFO - Loading service account from file: /dev/null
+2026-04-15 03:30:23,162 - root - WARNING - ⚠️ Failed to load credentials from file /dev/null: Expecting value: line 1 column 1 (char 0)
+2026-04-15 03:30:23,162 - root - INFO - Attempting to load service account from environment variables
+2026-04-15 03:30:23,162 - root - WARNING - ⚠️ Failed to load credentials from env vars: Missing required environment variables: GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY. Please set these variables in your environment (.env file, Claude.ai project settings, or GitHub Secrets). See module docstring for detailed instructions.
+2026-04-15 03:30:23,162 - root - WARNING - ⚠️ Failed to load explicit credentials: Failed to load service account credentials from any source. File path '/dev/null' not found or invalid. Environment variables missing or incomplete (need GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY).. Attempting default application credentials.
+.2026-04-15 03:30:23,167 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:23,167 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:23,167 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:23,168 - root - INFO - Lazy warmup ready: main.firestore_service.get_campaigns_for_user
+2026-04-15 03:30:23,168 - root - INFO - Lazy warmup ready: main.openclaw_provider.test_openclaw_gateway_connection
+2026-04-15 03:30:23,169 - root - INFO - Lazy warmup ready: main.world_logic.get_campaigns_list_unified
+2026-04-15 03:30:23,169 - root - INFO - Lazy warmup skipped: main.intent_classifier_ready (semantic routing disabled)
+2026-04-15 03:30:23,169 - root - INFO - Lazy warmup complete for homepage and streaming dependencies.
+.2026-04-15 03:30:23,173 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:23,173 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:23,174 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:23,175 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:23,175 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+.2026-04-15 03:30:23,180 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:23,180 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:23,180 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:23,181 - root - INFO - Skipping startup lazy warmup (DISABLE_STARTUP_WARMUP=true).
+.2026-04-15 03:30:23,186 - root - INFO - MOCK_SERVICES_MODE enabled - creating singleton in-memory Firestore client
+2026-04-15 03:30:23,186 - root - INFO - MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:23,186 - root - INFO - MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+.2026-04-15 03:30:23,186 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:23,187 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:23,187 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:23,187 - root - INFO - Loading service account from file: /dev/null
+2026-04-15 03:30:23,188 - root - WARNING - ⚠️ Failed to load credentials from file /dev/null: Expecting value: line 1 column 1 (char 0)
+2026-04-15 03:30:23,188 - root - INFO - Attempting to load service account from environment variables
+2026-04-15 03:30:23,188 - root - WARNING - ⚠️ Failed to load credentials from env vars: Missing required environment variables: GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY. Please set these variables in your environment (.env file, Claude.ai project settings, or GitHub Secrets). See module docstring for detailed instructions.
+2026-04-15 03:30:23,188 - root - WARNING - ⚠️ Failed to load explicit credentials: Failed to load service account credentials from any source. File path '/dev/null' not found or invalid. Environment variables missing or incomplete (need GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY).. Attempting default application credentials.
+2026-04-15 03:30:23,188 - root - INFO - Lazy warmup ready: main.firestore_service.get_campaigns_for_user
+2026-04-15 03:30:23,188 - root - INFO - Lazy warmup ready: main.openclaw_provider.test_openclaw_gateway_connection
+2026-04-15 03:30:23,188 - root - INFO - Lazy warmup ready: main.world_logic.get_campaigns_list_unified
+2026-04-15 03:30:23,188 - root - INFO - Lazy warmup started: main.firestore_runtime_warmup (background thread)
+2026-04-15 03:30:23,188 - root - INFO - Lazy warmup skipped: main.intent_classifier_ready (semantic routing disabled)
+2026-04-15 03:30:23,188 - root - INFO - Lazy warmup complete for homepage and streaming dependencies.
+.2026-04-15 03:30:23,193 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:23,193 - root - ERROR - 🔥🔴 Failed to create Firestore client: ('File /dev/null is not a valid json file.', JSONDecodeError('Expecting value: line 1 column 1 (char 0)'))
+.2026-04-15 03:30:23,194 - root - ERROR - 🔥🔴 Runtime warmup failed for Firestore client/query priming.
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 184, in load_credentials_from_file
+    info = json.load(file_obj)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+           ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/firestore_service.py", line 1960, in get_db
+    return firestore.client()
+           ^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/firestore.py", line 53, in client
+    fs_client = _utils.get_app_service(app, _FIRESTORE_ATTRIBUTE, _FirestoreClient.from_app)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/_utils.py", line 98, in get_app_service
+    return app._get_service(name, initializer) # pylint: disable=protected-access
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/__init__.py", line 297, in _get_service
+    self._services[name] = initializer(self)
+                           ^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/firestore.py", line 69, in from_app
+    credentials = app.credential.get_credential()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/credentials.py", line 142, in get_credential
+    self._load_credential()
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/firebase_admin/credentials.py", line 159, in _load_credential
+    self._g_credential, self._project_id = google.auth.default(scopes=_scopes)
+                                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 714, in default
+    credentials, project_id = checker()
+                              ^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 707, in <lambda>
+    lambda: _get_explicit_environ_credentials(quota_project_id=quota_project_id),
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 352, in _get_explicit_environ_credentials
+    credentials, project_id = load_credentials_from_file(
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/google/auth/_default.py", line 189, in load_credentials_from_file
+    raise new_exc from caught_exc
+google.auth.exceptions.DefaultCredentialsError: ('File /dev/null is not a valid json file.', JSONDecodeError('Expecting value: line 1 column 1 (char 0)'))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/main.py", line 195, in _prime_firestore_runtime_warmup
+    firestore_service.get_db()
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/firestore_service.py", line 1963, in get_db
+    raise ValueError(
+ValueError: Firestore client creation failed. Check Firebase configuration and network connectivity.
+2026-04-15 03:30:23,200 - root - INFO - Lazy warmup started: main.firestore_runtime_warmup (background thread)
+2026-04-15 03:30:23,200 - root - INFO - Lazy warmup skipped: main.intent_classifier_ready (semantic routing disabled)
+2026-04-15 03:30:23,200 - root - INFO - Lazy warmup complete for homepage and streaming dependencies.
+2026-04-15 03:30:23,550 - root - INFO - Lazy warmup ready: main.firestore_runtime_warmup
+.2026-04-15 03:30:23,554 - root - INFO - Loading service account from file: /dev/null
+2026-04-15 03:30:23,554 - root - WARNING - ⚠️ Failed to load credentials from file /dev/null: Expecting value: line 1 column 1 (char 0)
+2026-04-15 03:30:23,554 - root - INFO - Attempting to load service account from environment variables
+2026-04-15 03:30:23,554 - root - WARNING - ⚠️ Failed to load credentials from env vars: Missing required environment variables: GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY. Please set these variables in your environment (.env file, Claude.ai project settings, or GitHub Secrets). See module docstring for detailed instructions.
+2026-04-15 03:30:23,554 - root - WARNING - ⚠️ Failed to load explicit credentials: Failed to load service account credentials from any source. File path '/dev/null' not found or invalid. Environment variables missing or incomplete (need GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY).. Attempting default application credentials.
+2026-04-15 03:30:23,554 - root - INFO - Firebase initialized successfully in world_logic.py
+.
+----------------------------------------------------------------------
+Ran 10 tests in 2.082s
+
+OK
+🟢 GREEN PHASE: Testing MOCK_SERVICES_MODE support...
+Environment: TESTING_AUTH_BYPASS=true, MOCK_SERVICES_MODE=true
+/usr/lib/python3.12/asyncio/base_events.py:726: ResourceWarning: unclosed event loop <_UnixSelectorEventLoop running=False closed=False debug=False>
+RESULT: PASS
+DURATION: 2s
+END: 2026-04-15 03:30:23

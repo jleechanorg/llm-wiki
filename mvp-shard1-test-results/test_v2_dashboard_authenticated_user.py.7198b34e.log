@@ -1,0 +1,8 @@
+TESTFILE: mvp_site/tests/test_v2_dashboard_authenticated_user.py
+START: 2026-04-15 03:30:45
+✅ All tests passed - Dashboard logic is correct
+🚨 But V2 UI still shows welcome page despite having campaigns
+🔍 Issue: campaigns array not reaching Dashboard component properly
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:30:45

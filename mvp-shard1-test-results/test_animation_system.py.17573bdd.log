@@ -1,0 +1,46 @@
+TESTFILE: mvp_site/tests/test_animation_system.py
+START: 2026-04-15 03:29:42
+test_accessibility_features (__main__.TestAnimationSystem.test_accessibility_features)
+Test that accessibility features are properly implemented ... ok
+test_animation_css_exists_and_valid (__main__.TestAnimationSystem.test_animation_css_exists_and_valid)
+Test that animation CSS file exists and contains expected animations ... ok
+test_animation_css_syntax_validation (__main__.TestAnimationSystem.test_animation_css_syntax_validation)
+Test CSS syntax is valid (basic validation) ... ok
+test_animation_js_exists_and_valid (__main__.TestAnimationSystem.test_animation_js_exists_and_valid)
+Test that animation JavaScript file exists and is valid ... ok
+test_animation_performance_properties (__main__.TestAnimationSystem.test_animation_performance_properties)
+Test that performance-enhancing CSS properties are present ... ok
+test_index_html_includes_animation_files (__main__.TestAnimationSystem.test_index_html_includes_animation_files)
+Test that index.html includes animation CSS and JS ... ok
+test_index_theme_implementation (__main__.TestAnimationSystem.test_index_theme_implementation)
+Verify index.html uses CSS-variable theme architecture (no theme-init.js) ... ok
+test_javascript_error_handling (__main__.TestAnimationSystem.test_javascript_error_handling)
+Test that JavaScript has proper error handling patterns ... ok
+test_theme_transition_animations (__main__.TestAnimationSystem.test_theme_transition_animations)
+Test that theme transition animations are included ... ok
+test_animation_system_compatibility (__main__.TestAnimationIntegration.test_animation_system_compatibility)
+Test that animation system doesn't conflict with existing app.js ... ok
+test_loading_order_in_html (__main__.TestAnimationIntegration.test_loading_order_in_html)
+Test that scripts are loaded in correct order ... ok
+test_css_file_size (__main__.TestAnimationPerformance.test_css_file_size)
+Test that CSS file size is reasonable ... ok
+test_css_selector_efficiency (__main__.TestAnimationPerformance.test_css_selector_efficiency)
+Test that CSS selectors are efficient ... ok
+test_javascript_file_size (__main__.TestAnimationPerformance.test_javascript_file_size)
+Test that JavaScript file size is reasonable ... ok
+test_animation_duration_variables (__main__.TestAnimationFunctionality.test_animation_duration_variables)
+Test that animation duration variables are properly defined ... ok
+test_javascript_api_methods (__main__.TestAnimationFunctionality.test_javascript_api_methods)
+Test that JavaScript API provides expected methods ... ok
+test_keyframe_animations_defined (__main__.TestAnimationFunctionality.test_keyframe_animations_defined)
+Test that essential keyframe animations are defined ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 0.002s
+
+OK
+🧪 Running Animation System Tests...
+✅ All animation tests passed!
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:29:42

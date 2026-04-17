@@ -1,0 +1,133 @@
+TESTFILE: mvp_site/tests/test_decorators.py
+START: 2026-04-15 03:29:54
+2026-04-15 03:29:54,855 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:29:54,856 - mvp_site.decorators - ERROR - 🔥🔴 --- EXCEPTION IN: failing_function ---
+Args: (1 args)
+Kwargs: {}
+Error: Negative values not allowed
+Traceback:
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/decorators.py", line 62, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/tests/test_decorators.py", line 69, in failing_function
+    raise ValueError("Negative values not allowed")
+ValueError: Negative values not allowed
+--- END EXCEPTION ---
+.2026-04-15 03:29:54,856 - mvp_site.decorators - ERROR - 🔥🔴 --- EXCEPTION IN: function_with_args ---
+Args: (2 args)
+Kwargs: ['c', 'd']
+Error: Test error
+Traceback:
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/decorators.py", line 62, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/tests/test_decorators.py", line 92, in function_with_args
+    raise RuntimeError("Test error")
+RuntimeError: Test error
+--- END EXCEPTION ---
+.....2026-04-15 03:29:54,857 - mvp_site.decorators - ERROR - 🔥🔴 --- EXCEPTION IN: complex_args_function ---
+Args: (2 args)
+Kwargs: ['extra_kwarg']
+Error: Error with complex args
+Traceback:
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/decorators.py", line 62, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/tests/test_decorators.py", line 168, in complex_args_function
+    raise ValueError("Error with complex args")
+ValueError: Error with complex args
+--- END EXCEPTION ---
+.2026-04-15 03:29:54,857 - mvp_site.decorators - ERROR - 🔥🔴 --- EXCEPTION IN: multi_exception_function ---
+Args: (1 args)
+Kwargs: {}
+Error: Value error occurred
+Traceback:
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/decorators.py", line 62, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/tests/test_decorators.py", line 108, in multi_exception_function
+    raise ValueError("Value error occurred")
+ValueError: Value error occurred
+--- END EXCEPTION ---
+2026-04-15 03:29:54,857 - mvp_site.decorators - ERROR - 🔥🔴 --- EXCEPTION IN: multi_exception_function ---
+Args: (1 args)
+Kwargs: {}
+Error: Type error occurred
+Traceback:
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/decorators.py", line 62, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/tests/test_decorators.py", line 110, in multi_exception_function
+    raise TypeError("Type error occurred")
+TypeError: Type error occurred
+--- END EXCEPTION ---
+2026-04-15 03:29:54,857 - mvp_site.decorators - ERROR - 🔥🔴 --- EXCEPTION IN: multi_exception_function ---
+Args: (1 args)
+Kwargs: {}
+Error: Runtime error occurred
+Traceback:
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/decorators.py", line 62, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/tests/test_decorators.py", line 112, in multi_exception_function
+    raise RuntimeError("Runtime error occurred")
+RuntimeError: Runtime error occurred
+--- END EXCEPTION ---
+2026-04-15 03:29:54,857 - mvp_site.decorators - ERROR - 🔥🔴 --- EXCEPTION IN: multi_exception_function ---
+Args: (1 args)
+Kwargs: {}
+Error: Generic error occurred
+Traceback:
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/decorators.py", line 62, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/tests/test_decorators.py", line 113, in multi_exception_function
+    raise Exception("Generic error occurred")
+Exception: Generic error occurred
+--- END EXCEPTION ---
+.2026-04-15 03:29:54,857 - mvp_site.decorators - ERROR - 🔥🔴 --- EXCEPTION IN: inner_function ---
+Args: ()
+Kwargs: {}
+Error: Inner function error
+Traceback:
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/decorators.py", line 62, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/tests/test_decorators.py", line 207, in inner_function
+    raise ValueError("Inner function error")
+ValueError: Inner function error
+--- END EXCEPTION ---
+2026-04-15 03:29:54,857 - mvp_site.decorators - ERROR - 🔥🔴 --- EXCEPTION IN: outer_function ---
+Args: ()
+Kwargs: {}
+Error: Inner function error
+Traceback:
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/decorators.py", line 62, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/tests/test_decorators.py", line 211, in outer_function
+    inner_function()
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/decorators.py", line 62, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/tests/test_decorators.py", line 207, in inner_function
+    raise ValueError("Inner function error")
+ValueError: Inner function error
+--- END EXCEPTION ---
+.
+----------------------------------------------------------------------
+Ran 9 tests in 0.002s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:29:54

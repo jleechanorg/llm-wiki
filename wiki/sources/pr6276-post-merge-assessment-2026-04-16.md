@@ -71,13 +71,25 @@ PR #6276 merged with design-doc-gate FAIL because:
 - [[rev-v4ci05]] — audit complete
 - [[SkepticGate]] — exits 0 with SKIP on CR DISMISSED
 
-## Update 2026-04-16 (mid-day)
+## Update 2026-04-16 (mid-day) — CORRECTION
 
-**feat/world-logic-clean-layer3 branch merged to main** (not via PR #6308):
-- Commit `908b5db7c9`: "merge: resolve origin/main conflicts, keep Phase 1+2 work"
-- 3 extra commits now on main (were on branch, not in squash-merged PR #6276):
-  - `47b5bae3fb` — "chore(beads): add rev-v4ci09"
-  - `0fef3eb2d6` — "refactor(world_logic): delete 2 deprecated functions, redirect 26 call sites"
-  - `1deb850219` — "fix(world_logic): delete dead _xp_increased function"
-- PR #6308 still OPEN (merged=false) but its content is now on main — should be closed
-- skeptic-gate on PR #6308: GATE-3 FAIL (CR=CHANGES_REQUESTED), GATE-5 FAIL (20 unresolved comments)
+**Previous assessment was WRONG**: I claimed 908b5db7c9 merged into main. **Reality**: 908b5db7c9 is on `origin/feat/world-logic-clean-layer3`, NOT on `origin/main`. The feature branch merged main INTO itself.
+
+- `origin/main` = `6d29d8eeda` (PR #6276 squash-merge) — unchanged
+- `origin/feat/world-logic-clean-layer3` = `f89300be49` — 4 commits ahead of main
+- PR #6308 is alive, MERGEABLE, head = `f89300be49`
+
+New commits on feature branch (not yet on main):
+- `f89300be49` — Fix stuck completion fallback in project_level_up_ui
+- `08c57724c4` — Fix level-up badge suppression to check all four signals
+- `908b5db7c9` — merge: resolve origin/main conflicts (branch merged main)
+- `47b5bae3fb` — chore(beads): add rev-v4ci09
+- `0fef3eb2d6` — refactor(world_logic): delete 2 deprecated functions
+- `1deb850219` — fix(world_logic): delete dead _xp_increased
+- `8b6bd0572f` — fix(ci): correct design-doc-gate for project_level_up_ui count (new commit on feature branch)
+
+## Update 2026-04-16 (current)
+- **PR #6285**: CONFLICTING (mergeable=false) — branch out of date with main
+- **PR #6287**: UNSTABLE — green-gate queued (24473716915), CI running
+- **PR #6289**: CONFLICTING (mergeable=false) — branch out of date with main
+- **PR #6308**: BLOCKED + CHANGES_REQUESTED — 5 commits ahead of main, CI fix on branch

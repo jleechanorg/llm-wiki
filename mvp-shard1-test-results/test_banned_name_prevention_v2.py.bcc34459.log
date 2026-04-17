@@ -1,0 +1,10 @@
+TESTFILE: mvp_site/tests/test_banned_name_prevention_v2.py
+START: 2026-04-15 03:29:44
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:29:44

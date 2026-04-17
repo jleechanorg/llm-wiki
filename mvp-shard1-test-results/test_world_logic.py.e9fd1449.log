@@ -1,0 +1,810 @@
+TESTFILE: mvp_site/tests/test_world_logic.py
+START: 2026-04-15 03:30:46
+2026-04-15 03:30:46,709 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:30:46,751 - root - INFO - Applied clock skew patch: adjusting time by -720 seconds
+2026-04-15 03:30:47,679 - root - INFO - Loading service account from file: /dev/null
+2026-04-15 03:30:47,679 - root - WARNING - ⚠️ Failed to load credentials from file /dev/null: Expecting value: line 1 column 1 (char 0)
+2026-04-15 03:30:47,679 - root - INFO - Attempting to load service account from environment variables
+2026-04-15 03:30:47,679 - root - WARNING - ⚠️ Failed to load credentials from env vars: Missing required environment variables: GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY. Please set these variables in your environment (.env file, Claude.ai project settings, or GitHub Secrets). See module docstring for detailed instructions.
+2026-04-15 03:30:47,679 - root - WARNING - ⚠️ Failed to load explicit credentials: Failed to load service account credentials from any source. File path '/dev/null' not found or invalid. Environment variables missing or incomplete (need GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY).. Attempting default application credentials.
+2026-04-15 03:30:47,679 - root - INFO - Firebase initialized successfully in world_logic.py
+..............2026-04-15 03:30:47,686 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:47,686 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:47,687 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:47,687 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:47,687 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:47,687 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:47,691 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:47,691 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:47,691 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:47,691 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:47,691 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:47,691 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:47,891 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:47,891 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:47,891 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:47,892 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:47,892 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:47,892 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:47,892 - root - INFO - campaign_id=test-campaign | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:47,892 - root - INFO - campaign_id=test-campaign | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:47,892 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:47,892 - root - INFO - campaign_id=test-campaign | ↩️ NON_STREAMING_PATH: Using continue_story for provider/model test-provider/test-model
+2026-04-15 03:30:47,892 - root - INFO - campaign_id=test-campaign | ↩️ NON_STREAMING_PATH: Using continue_story for provider/model test-provider/test-model
+2026-04-15 03:30:47,892 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:47,893 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:47,893 - root - INFO - campaign_id=test-campaign | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:47,893 - root - INFO - campaign_id=test-campaign | ↩️ NON_STREAMING_PATH: Using continue_story for provider/model test-provider/test-model
+2026-04-15 03:30:48,093 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.40s
+2026-04-15 03:30:48,095 - root - INFO - campaign_id=test-campaign | XP Validation applied corrections: {'valid': True, 'expected_level': 1, 'computed_level': 1}
+2026-04-15 03:30:48,096 - root - WARNING - ⚠️ campaign_id=test-campaign | 🌍 LIVING_WORLD_MISSING: world_events absent on turn 1 (mode=character agent_mode=<MagicMock name='mock.agent_mode' id='139482709480016'>). Living world instruction fires every turn — LLM did not include state_updates.world_events.
+2026-04-15 03:30:48,096 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,096 - root - INFO - campaign_id=test-campaign | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,096 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,096 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,096 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PERSIST_START: Persisting state and story to Firestore
+2026-04-15 03:30:48,096 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.41s
+2026-04-15 03:30:48,097 - root - INFO - campaign_id=test-campaign | XP Validation applied corrections: {'valid': True, 'expected_level': 1, 'computed_level': 1}
+2026-04-15 03:30:48,098 - root - WARNING - ⚠️ campaign_id=test-campaign | 🌍 LIVING_WORLD_MISSING: world_events absent on turn 1 (mode=character agent_mode=<MagicMock name='mock.agent_mode' id='139482709566016'>). Living world instruction fires every turn — LLM did not include state_updates.world_events.
+2026-04-15 03:30:48,098 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,098 - root - INFO - campaign_id=test-campaign | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,098 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,098 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,098 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PERSIST_START: Persisting state and story to Firestore
+2026-04-15 03:30:48,098 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.41s
+2026-04-15 03:30:48,099 - root - INFO - campaign_id=test-campaign | XP Validation applied corrections: {'valid': True, 'expected_level': 1, 'computed_level': 1}
+2026-04-15 03:30:48,100 - root - WARNING - ⚠️ campaign_id=test-campaign | 🌍 LIVING_WORLD_MISSING: world_events absent on turn 1 (mode=character agent_mode=<MagicMock name='mock.agent_mode' id='139482709566448'>). Living world instruction fires every turn — LLM did not include state_updates.world_events.
+2026-04-15 03:30:48,100 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,100 - root - INFO - campaign_id=test-campaign | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,100 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,100 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,100 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PERSIST_START: Persisting state and story to Firestore
+2026-04-15 03:30:48,100 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PERSIST_END: Firestore persistence completed in 0.00s
+2026-04-15 03:30:48,101 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,101 - root - WARNING - ⚠️ campaign_id=test-campaign | SYSTEM WARNING: Applied one-time schema migration for legacy compatibility
+2026-04-15 03:30:48,101 - root - WARNING - ⚠️ campaign_id=test-campaign | SYSTEM WARNING: Level computed as 1 from XP
+2026-04-15 03:30:48,101 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_END: process_action_unified completed in 0.41s
+2026-04-15 03:30:48,101 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_FINAL: Total processing time 0.41s
+2026-04-15 03:30:48,101 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PERSIST_END: Firestore persistence completed in 0.00s
+2026-04-15 03:30:48,101 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,101 - root - WARNING - ⚠️ campaign_id=test-campaign | SYSTEM WARNING: Applied one-time schema migration for legacy compatibility
+2026-04-15 03:30:48,101 - root - WARNING - ⚠️ campaign_id=test-campaign | SYSTEM WARNING: Level computed as 1 from XP
+2026-04-15 03:30:48,101 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_END: process_action_unified completed in 0.41s
+2026-04-15 03:30:48,101 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_FINAL: Total processing time 0.41s
+2026-04-15 03:30:48,101 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PERSIST_END: Firestore persistence completed in 0.00s
+2026-04-15 03:30:48,102 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,102 - root - WARNING - ⚠️ campaign_id=test-campaign | SYSTEM WARNING: Applied one-time schema migration for legacy compatibility
+2026-04-15 03:30:48,102 - root - WARNING - ⚠️ campaign_id=test-campaign | SYSTEM WARNING: Level computed as 1 from XP
+2026-04-15 03:30:48,102 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_END: process_action_unified completed in 0.41s
+2026-04-15 03:30:48,102 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_FINAL: Total processing time 0.41s
+......2026-04-15 03:30:48,151 - root - INFO - Generated random campaign: character='A stealthy monk trained in martial arts and inner discipline', setting='The mystical Feywild, a realm where magic runs wild and reality bends to emotion'
+.....2026-04-15 03:30:48,151 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,151 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:48,151 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:48,152 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:48,152 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:48,152 - root - WARNING - ⚠️ campaign_id=test-campaign | Preventive guards received non-dict state_updates (Mock); using empty dict
+2026-04-15 03:30:48,153 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: old_challenge state - social_hp=None, social_hp_max=None, cooldown_remaining=None, cooldown_until_hour=None, old_challenge_keys=[]
+2026-04-15 03:30:48,153 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Extracted current_hour=0 from game_state. game_state.world_data type: <class 'dict'>, game_state.world_data is None: False, game_state.world_data is empty dict: False, game_state.world_data keys: ['world_time', 'current_location_name'], game_state.world_time type: <class 'dict'>, game_state.world_time keys: ['year'], game_state.world_time.hour: MISSING, state_changes.world_data keys: ['world_time', 'current_location_name'], final current_hour: 0
+2026-04-15 03:30:48,153 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: old_hp=0, cooldown_active=False, effective_cd=0, time_based=False, current_hour=0, new_damage=None, old_challenge_empty=True
+2026-04-15 03:30:48,153 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Damage calc check - old_hp=0, new_hp_raw=None, new_hp=0, damage=0, condition=False
+2026-04-15 03:30:48,153 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Cooldown trigger check - final_damage=0, cooldown_active=False, use_time_based=False, time_advanced_in_response=False, current_hour=0, new_hour=0, old_cd_until_hour=None, old_cd_original=0
+2026-04-15 03:30:48,153 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Correcting HP hallucination (None -> 0)
+2026-04-15 03:30:48,153 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Added default resistance_shown (status=RESISTING, npc=the NPC)
+2026-04-15 03:30:48,153 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Final state_changes['social_hp_challenge'] - social_hp=0, social_hp_damage=None, cooldown_remaining=None, cooldown_until_hour=None, social_hp_max=None, npc_tier=None, resistance_shown=the NPC shows resistance to your request.
+2026-04-15 03:30:48,154 - root - ERROR - 🔥🔴 campaign_id=test-campaign | Process action failed: argument of type 'Mock' is not iterable
+2026-04-15 03:30:48,154 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+2026-04-15 03:30:48,154 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,154 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:48,154 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:48,154 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:48,154 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:48,155 - root - WARNING - ⚠️ campaign_id=test-campaign | Preventive guards received non-dict state_updates (Mock); using empty dict
+2026-04-15 03:30:48,155 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: old_challenge state - social_hp=None, social_hp_max=None, cooldown_remaining=None, cooldown_until_hour=None, old_challenge_keys=[]
+2026-04-15 03:30:48,155 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Extracted current_hour=0 from game_state. game_state.world_data type: <class 'dict'>, game_state.world_data is None: False, game_state.world_data is empty dict: False, game_state.world_data keys: ['world_time', 'current_location_name'], game_state.world_time type: <class 'dict'>, game_state.world_time keys: ['year'], game_state.world_time.hour: MISSING, state_changes.world_data keys: ['world_time', 'current_location_name'], final current_hour: 0
+2026-04-15 03:30:48,156 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: old_hp=0, cooldown_active=False, effective_cd=0, time_based=False, current_hour=0, new_damage=None, old_challenge_empty=True
+2026-04-15 03:30:48,156 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Damage calc check - old_hp=0, new_hp_raw=None, new_hp=0, damage=0, condition=False
+2026-04-15 03:30:48,156 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Cooldown trigger check - final_damage=0, cooldown_active=False, use_time_based=False, time_advanced_in_response=False, current_hour=0, new_hour=0, old_cd_until_hour=None, old_cd_original=0
+2026-04-15 03:30:48,156 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Correcting HP hallucination (None -> 0)
+2026-04-15 03:30:48,156 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Added default resistance_shown (status=RESISTING, npc=the NPC)
+2026-04-15 03:30:48,156 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Final state_changes['social_hp_challenge'] - social_hp=0, social_hp_damage=None, cooldown_remaining=None, cooldown_until_hour=None, social_hp_max=None, npc_tier=None, resistance_shown=the NPC shows resistance to your request.
+2026-04-15 03:30:48,158 - root - ERROR - 🔥🔴 campaign_id=test-campaign | Process action failed: argument of type 'Mock' is not iterable
+2026-04-15 03:30:48,158 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+.2026-04-15 03:30:48,159 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,159 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:48,159 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:48,159 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:48,159 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:48,160 - root - WARNING - ⚠️ campaign_id=test-campaign | Preventive guards received non-dict state_updates (Mock); using empty dict
+2026-04-15 03:30:48,161 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: old_challenge state - social_hp=None, social_hp_max=None, cooldown_remaining=None, cooldown_until_hour=None, old_challenge_keys=[]
+2026-04-15 03:30:48,161 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Extracted current_hour=0 from game_state. game_state.world_data type: <class 'dict'>, game_state.world_data is None: False, game_state.world_data is empty dict: False, game_state.world_data keys: ['world_time', 'current_location_name'], game_state.world_time type: <class 'dict'>, game_state.world_time keys: ['year'], game_state.world_time.hour: MISSING, state_changes.world_data keys: ['world_time', 'current_location_name'], final current_hour: 0
+2026-04-15 03:30:48,161 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: old_hp=0, cooldown_active=False, effective_cd=0, time_based=False, current_hour=0, new_damage=None, old_challenge_empty=True
+2026-04-15 03:30:48,161 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Damage calc check - old_hp=0, new_hp_raw=None, new_hp=0, damage=0, condition=False
+2026-04-15 03:30:48,161 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Cooldown trigger check - final_damage=0, cooldown_active=False, use_time_based=False, time_advanced_in_response=False, current_hour=0, new_hour=0, old_cd_until_hour=None, old_cd_original=0
+2026-04-15 03:30:48,161 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Correcting HP hallucination (None -> 0)
+2026-04-15 03:30:48,161 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Added default resistance_shown (status=RESISTING, npc=the NPC)
+2026-04-15 03:30:48,161 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Final state_changes['social_hp_challenge'] - social_hp=0, social_hp_damage=None, cooldown_remaining=None, cooldown_until_hour=None, social_hp_max=None, npc_tier=None, resistance_shown=the NPC shows resistance to your request.
+2026-04-15 03:30:48,162 - root - ERROR - 🔥🔴 campaign_id=test-campaign | Process action failed: argument of type 'Mock' is not iterable
+2026-04-15 03:30:48,162 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+2026-04-15 03:30:48,162 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,162 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:48,162 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:48,162 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:48,162 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:48,163 - root - WARNING - ⚠️ campaign_id=test-campaign | Preventive guards received non-dict state_updates (Mock); using empty dict
+2026-04-15 03:30:48,163 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: old_challenge state - social_hp=None, social_hp_max=None, cooldown_remaining=None, cooldown_until_hour=None, old_challenge_keys=[]
+2026-04-15 03:30:48,163 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Extracted current_hour=0 from game_state. game_state.world_data type: <class 'dict'>, game_state.world_data is None: False, game_state.world_data is empty dict: False, game_state.world_data keys: ['world_time', 'current_location_name'], game_state.world_time type: <class 'dict'>, game_state.world_time keys: ['year'], game_state.world_time.hour: MISSING, state_changes.world_data keys: ['world_time', 'current_location_name'], final current_hour: 0
+2026-04-15 03:30:48,163 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: old_hp=0, cooldown_active=False, effective_cd=0, time_based=False, current_hour=0, new_damage=None, old_challenge_empty=True
+2026-04-15 03:30:48,163 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Damage calc check - old_hp=0, new_hp_raw=None, new_hp=0, damage=0, condition=False
+2026-04-15 03:30:48,163 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Cooldown trigger check - final_damage=0, cooldown_active=False, use_time_based=False, time_advanced_in_response=False, current_hour=0, new_hour=0, old_cd_until_hour=None, old_cd_original=0
+2026-04-15 03:30:48,163 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Correcting HP hallucination (None -> 0)
+2026-04-15 03:30:48,163 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Added default resistance_shown (status=RESISTING, npc=the NPC)
+2026-04-15 03:30:48,163 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Final state_changes['social_hp_challenge'] - social_hp=0, social_hp_damage=None, cooldown_remaining=None, cooldown_until_hour=None, social_hp_max=None, npc_tier=None, resistance_shown=the NPC shows resistance to your request.
+2026-04-15 03:30:48,165 - root - ERROR - 🔥🔴 campaign_id=test-campaign | Process action failed: argument of type 'Mock' is not iterable
+2026-04-15 03:30:48,165 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+.2026-04-15 03:30:48,166 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,166 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:48,166 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:48,166 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:48,166 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:48,166 - root - WARNING - ⚠️ campaign_id=test-campaign | Preventive guards received non-dict state_updates (Mock); using empty dict
+2026-04-15 03:30:48,167 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: old_challenge state - social_hp=None, social_hp_max=None, cooldown_remaining=None, cooldown_until_hour=None, old_challenge_keys=[]
+2026-04-15 03:30:48,167 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Extracted current_hour=0 from game_state. game_state.world_data type: <class 'dict'>, game_state.world_data is None: False, game_state.world_data is empty dict: False, game_state.world_data keys: ['world_time', 'current_location_name'], game_state.world_time type: <class 'dict'>, game_state.world_time keys: ['year'], game_state.world_time.hour: MISSING, state_changes.world_data keys: ['world_time', 'current_location_name'], final current_hour: 0
+2026-04-15 03:30:48,167 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: old_hp=0, cooldown_active=False, effective_cd=0, time_based=False, current_hour=0, new_damage=None, old_challenge_empty=True
+2026-04-15 03:30:48,167 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Damage calc check - old_hp=0, new_hp_raw=None, new_hp=0, damage=0, condition=False
+2026-04-15 03:30:48,167 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Cooldown trigger check - final_damage=0, cooldown_active=False, use_time_based=False, time_advanced_in_response=False, current_hour=0, new_hour=0, old_cd_until_hour=None, old_cd_original=0
+2026-04-15 03:30:48,167 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Correcting HP hallucination (None -> 0)
+2026-04-15 03:30:48,167 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Added default resistance_shown (status=RESISTING, npc=the NPC)
+2026-04-15 03:30:48,167 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Final state_changes['social_hp_challenge'] - social_hp=0, social_hp_damage=None, cooldown_remaining=None, cooldown_until_hour=None, social_hp_max=None, npc_tier=None, resistance_shown=the NPC shows resistance to your request.
+2026-04-15 03:30:48,168 - root - ERROR - 🔥🔴 campaign_id=test-campaign | Process action failed: argument of type 'Mock' is not iterable
+2026-04-15 03:30:48,168 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+2026-04-15 03:30:48,168 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,168 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:48,168 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:48,169 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:48,169 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:48,169 - root - WARNING - ⚠️ campaign_id=test-campaign | Preventive guards received non-dict state_updates (Mock); using empty dict
+2026-04-15 03:30:48,170 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: old_challenge state - social_hp=None, social_hp_max=None, cooldown_remaining=None, cooldown_until_hour=None, old_challenge_keys=[]
+2026-04-15 03:30:48,170 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Extracted current_hour=0 from game_state. game_state.world_data type: <class 'dict'>, game_state.world_data is None: False, game_state.world_data is empty dict: False, game_state.world_data keys: ['world_time', 'current_location_name'], game_state.world_time type: <class 'dict'>, game_state.world_time keys: ['year'], game_state.world_time.hour: MISSING, state_changes.world_data keys: ['world_time', 'current_location_name'], final current_hour: 0
+2026-04-15 03:30:48,170 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: old_hp=0, cooldown_active=False, effective_cd=0, time_based=False, current_hour=0, new_damage=None, old_challenge_empty=True
+2026-04-15 03:30:48,170 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Damage calc check - old_hp=0, new_hp_raw=None, new_hp=0, damage=0, condition=False
+2026-04-15 03:30:48,170 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Cooldown trigger check - final_damage=0, cooldown_active=False, use_time_based=False, time_advanced_in_response=False, current_hour=0, new_hour=0, old_cd_until_hour=None, old_cd_original=0
+2026-04-15 03:30:48,170 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Correcting HP hallucination (None -> 0)
+2026-04-15 03:30:48,170 - root - WARNING - ⚠️ campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Added default resistance_shown (status=RESISTING, npc=the NPC)
+2026-04-15 03:30:48,170 - root - INFO - campaign_id=test-campaign | 🛡️ SOCIAL_HP_GUARD: Final state_changes['social_hp_challenge'] - social_hp=0, social_hp_damage=None, cooldown_remaining=None, cooldown_until_hour=None, social_hp_max=None, npc_tier=None, resistance_shown=the NPC shows resistance to your request.
+2026-04-15 03:30:48,172 - root - ERROR - 🔥🔴 campaign_id=test-campaign | Process action failed: argument of type 'Mock' is not iterable
+2026-04-15 03:30:48,172 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+.2026-04-15 03:30:48,173 - root - INFO - ⬆️ SERVER_CAMPAIGN_UPGRADE_INJECTION: Injecting upgrade_campaign choice
+.2026-04-15 03:30:48,173 - root - INFO - ⬆️ SERVER_CAMPAIGN_UPGRADE_INJECTION: Injecting upgrade_campaign choice
+.2026-04-15 03:30:48,173 - root - INFO - ⬆️ SERVER_CAMPAIGN_UPGRADE_INJECTION: Injecting upgrade_campaign choice
+.2026-04-15 03:30:48,173 - root - INFO - ⬆️ SERVER_CAMPAIGN_UPGRADE_INJECTION: Injecting upgrade_campaign choice
+.2026-04-15 03:30:48,173 - root - WARNING - ⚠️ Choice ID collision detected: '123' -> '123_1' (index 1)
+2026-04-15 03:30:48,173 - root - INFO - ⬆️ SERVER_CAMPAIGN_UPGRADE_INJECTION: Injecting upgrade_campaign choice
+....2026-04-15 03:30:48,173 - root - INFO - ⬆️ SERVER_CAMPAIGN_UPGRADE_INJECTION: Injecting upgrade_campaign choice
+...2026-04-15 03:30:48,174 - root - INFO - 📈 LEVEL_UP_CHECK: Level-up available! XP 6400 → 6600 (+200), stored_level=4, expected_level=5. Setting rewards_pending.level_up_available=True
+.2026-04-15 03:30:48,174 - root - INFO - 📈 LEVEL_UP_CHECK: Level-up available! XP 6400 → 6600 (+200), stored_level=4, expected_level=5. Setting rewards_pending.level_up_available=True
+.2026-04-15 03:30:48,174 - root - INFO - 📈 LEVEL_UP_CHECK: Level-up available! XP 8006 → 8006 (+0), stored_level=4, expected_level=5. Setting rewards_pending.level_up_available=True
+..2026-04-15 03:30:48,174 - root - INFO - 📈 LEVEL_UP_CHECK: Reset stale processed flag — character still below new_level (current=4, pending=5)
+2026-04-15 03:30:48,174 - root - INFO - 📈 LEVEL_UP_CHECK: Reset stale processed flag — character still below new_level (current=4, pending=5)
+2026-04-15 03:30:48,174 - root - INFO - 📈 LEVEL_UP_CHECK: Reset stale processed flag — character still below new_level (current=4, pending=5)
+.2026-04-15 03:30:48,174 - root - INFO - 📈 LEVEL_UP_CHECK: Level-up available! XP 6400 → 6600 (+200), stored_level=4, expected_level=5. Setting rewards_pending.level_up_available=True
+..2026-04-15 03:30:48,174 - root - INFO - 📈 LEVEL_UP_CHECK: Upgrading pending level-up notification from 5 to 7
+2026-04-15 03:30:48,174 - root - INFO - 📈 LEVEL_UP_CHECK: Level-up available! XP 7000 → 24000 (+17000), stored_level=4, expected_level=7. Setting rewards_pending.level_up_available=True
+.2026-04-15 03:30:48,174 - root - INFO - 📈 LEVEL_UP_CHECK: Level-up available! XP 6400 → 6600 (+200), stored_level=4, expected_level=5. Setting rewards_pending.level_up_available=True
+.....2026-04-15 03:30:48,176 - root - INFO - 🏆 SERVER_AUTO_SET: rewards_processed=true (combat_phase=ended with combat_summary)
+...2026-04-15 03:30:48,176 - root - INFO - 🏆 SERVER_AUTO_SET: rewards_processed=true (combat_phase=victory with combat_summary)
+.2026-04-15 03:30:48,176 - root - INFO - 🏆 SERVER_AUTO_SET: rewards_processed=true (encounter_completed with encounter_summary)
+.2026-04-15 03:30:48,177 - root - INFO - 🏆 SERVER_AUTO_SET: rewards_processed=true (XP increased 1000 -> 2000 during combat_phase=victory)
+.2026-04-15 03:30:48,177 - root - INFO - 🏆 SERVER_AUTO_SET: rewards_processed=true (XP increased 100 -> 200 during encounter)
+.2026-04-15 03:30:48,177 - root - WARNING - ⚠️ 🏆 REWARDS_DISCREPANCY: XP increased (100 -> 200) even though rewards_processed=True during encounter; investigate potential double-processing
+.2026-04-15 03:30:48,177 - root - WARNING - ⚠️ 🏆 REWARDS_DISCREPANCY: XP increased (1000 -> 2000) even though rewards_processed=True during combat_phase=victory; investigate potential double-processing
+.2026-04-15 03:30:48,177 - root - WARNING - ⚠️ 🏆 REWARDS_DISCREPANCY: XP increased (400 -> 500) even though rewards_processed=True during encounter; investigate potential double-processing
+.2026-04-15 03:30:48,177 - root - INFO - 🏆 SERVER_AUTO_SET: rewards_processed=true (XP increased 100 -> 150, fallback for narrative/uncategorized rewards)
+.....2026-04-15 03:30:48,178 - root - INFO - 🏆 REWARDS_INFO: XP increased (400 -> 450) with stale encounter_completed=True (encounter was already completed last turn). Likely non-encounter XP award (training, skill check).
+.2026-04-15 03:30:48,178 - root - WARNING - ⚠️ 🏆 REWARDS_DISCREPANCY: XP increased (1000 -> 2000) even though rewards_processed=True during combat_phase=victory; investigate potential double-processing
+.2026-04-15 03:30:48,178 - root - INFO - 🏆 SERVER_AUTO_SET: rewards_processed=true (combat_phase=ended with combat_summary)
+2026-04-15 03:30:48,178 - root - INFO - 🏆 SERVER_AUTO_SET: rewards_processed=true (combat_phase=finished with combat_summary)
+2026-04-15 03:30:48,178 - root - INFO - 🏆 SERVER_AUTO_SET: rewards_processed=true (combat_phase=complete with combat_summary)
+2026-04-15 03:30:48,178 - root - INFO - 🏆 SERVER_AUTO_SET: rewards_processed=true (combat_phase=concluding with combat_summary)
+2026-04-15 03:30:48,178 - root - INFO - 🏆 SERVER_AUTO_SET: rewards_processed=true (combat_phase=completed with combat_summary)
+2026-04-15 03:30:48,178 - root - INFO - 🏆 SERVER_AUTO_SET: rewards_processed=true (combat_phase=victory with combat_summary)
+2026-04-15 03:30:48,178 - root - INFO - 🏆 SERVER_AUTO_SET: rewards_processed=true (combat_phase=concluded with combat_summary)
+2026-04-15 03:30:48,178 - root - INFO - 🏆 SERVER_AUTO_SET: rewards_processed=true (combat_phase=resolved with combat_summary)
+.2026-04-15 03:30:48,178 - root - INFO - 🏆 SERVER_AUTO_SET: rewards_processed=true (encounter_completed with encounter_summary)
+.2026-04-15 03:30:48,178 - root - INFO - 🏆 SERVER_AUTO_SET: rewards_processed=true (combat_phase=ended with combat_summary)
+.2026-04-15 03:30:48,178 - root - INFO - 🏆 SERVER_AUTO_SET: rewards_processed=true (XP increased 100 -> 150 during combat_phase=ended)
+...2026-04-15 03:30:48,179 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,179 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:48,179 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:48,179 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:48,179 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:48,179 - root - INFO - campaign_id=test_campaign | 🕐 TIME_FREEZE: Applied microsecond-only time advancement
+2026-04-15 03:30:48,179 - root - INFO - campaign_id=test_campaign | GameState: initialized last_living_world_time from world_data
+2026-04-15 03:30:48,179 - root - INFO - campaign_id=test_campaign | Calculated time_of_day as 'afternoon' from hour 14
+2026-04-15 03:30:48,179 - root - INFO - campaign_id=test_campaign | GameState: initialized last_living_world_time from world_data
+2026-04-15 03:30:48,179 - root - WARNING - ⚠️ campaign_id=test_campaign | GameState: turn counter mismatch (turn_number=0, player_turn=1); using canonical=1
+2026-04-15 03:30:48,179 - root - INFO - campaign_id=test_campaign | GameState: initialized last_living_world_time from world_data
+2026-04-15 03:30:48,180 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,180 - root - INFO - campaign_id=test_campaign | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,180 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,180 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,180 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_PERSIST_START: Persisting state and story to Firestore
+2026-04-15 03:30:48,180 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_PERSIST_END: Firestore persistence completed in 0.00s
+2026-04-15 03:30:48,180 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,180 - root - WARNING - ⚠️ campaign_id=test_campaign | SYSTEM WARNING: Applied one-time schema migration for legacy compatibility
+2026-04-15 03:30:48,180 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_END: process_action_unified completed in 0.00s
+2026-04-15 03:30:48,180 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+..2026-04-15 03:30:48,182 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,182 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:48,182 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:48,182 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:48,182 - root - ERROR - 🔥🔴 campaign_id=test_campaign | Process action failed: Should not reach here
+2026-04-15 03:30:48,182 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+..2026-04-15 03:30:48,182 - root - INFO - --- GOD_MODE_SET received for campaign campaign-1 ---
+2026-04-15 03:30:48,182 - root - INFO - GOD_MODE_SET raw payload:
+---
+
+player_character_data.experience.current = 6600
+---
+2026-04-15 03:30:48,182 - root - INFO - XP validation: XP/Level mismatch: XP=6600 should be Level 5, but provided Level 4 - level-up detected, letting LLM handle via rewards_pending
+2026-04-15 03:30:48,182 - root - INFO - XP validation: XP/Level mismatch: XP=6600 should be Level 5, but provided Level 4 - level-up detected, letting LLM handle via rewards_pending
+2026-04-15 03:30:48,183 - root - INFO - 📈 LEVEL_UP_CHECK: Level-up available! XP 6400 → 6600 (+200), stored_level=4, expected_level=5. Setting rewards_pending.level_up_available=True
+2026-04-15 03:30:48,183 - root - INFO - --- GOD_MODE_SET for campaign campaign-1 complete ---
+..2026-04-15 03:30:48,184 - root - INFO - XP validation: XP/Level mismatch: XP=6600 should be Level 5, but provided Level 4 - level-up detected, letting LLM handle via rewards_pending
+2026-04-15 03:30:48,184 - root - INFO - 📈 LEVEL_UP_CHECK: Level-up available! XP 6400 → 6600 (+200), stored_level=4, expected_level=5. Setting rewards_pending.level_up_available=True
+.2026-04-15 03:30:48,185 - root - INFO - XP validation: XP/Level mismatch: XP=6600 should be Level 5, but provided Level 4 - level-up detected, letting LLM handle via rewards_pending
+2026-04-15 03:30:48,186 - root - INFO - 📈 LEVEL_UP_CHECK: Level-up available! XP 6400 → 6600 (+200), stored_level=4, expected_level=5. Setting rewards_pending.level_up_available=True
+.2026-04-15 03:30:48,186 - root - INFO - campaign_id=test-campaign-god-mode-return | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,186 - root - INFO - campaign_id=test-campaign-god-mode-return | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:48,186 - root - INFO - campaign_id=test-campaign-god-mode-return | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:48,186 - root - INFO - campaign_id=test-campaign-god-mode-return | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:48,187 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,187 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,187 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,187 - root - INFO - campaign_id=test-campaign-god-mode-return | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,187 - root - INFO - campaign_id=test-campaign-god-mode-return | 🔍 PROVIDER_SELECTION_START: user_id=test-user-god-mode-return, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=true, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:48,187 - root - INFO - campaign_id=test-campaign-god-mode-return | MOCK_SERVICES_MODE enabled - creating singleton in-memory Firestore client
+2026-04-15 03:30:48,187 - root - WARNING - ⚠️ campaign_id=test-campaign-god-mode-return | ⚠️ PROVIDER_SELECTION_SETTINGS_MISSING: No user settings document for user_id=test-user-god-mode-return; using default provider/model.
+2026-04-15 03:30:48,187 - root - INFO - campaign_id=test-campaign-god-mode-return | ↩️ NON_STREAMING_PATH: Using continue_story for provider/model gemini/gemini-3-flash-preview
+2026-04-15 03:30:48,187 - root - INFO - campaign_id=test-campaign-god-mode-return | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:48,188 - root - WARNING - ⚠️ campaign_id=test-campaign-god-mode-return | CRITICAL SAFEGUARD: Intercepted direct overwrite on 'core_memories'. Converting to safe, deduplicated append.
+2026-04-15 03:30:48,188 - root - INFO - campaign_id=test-campaign-god-mode-return | APPEND/SAFEGUARD: Added 1 new items to 'core_memories'.
+2026-04-15 03:30:48,188 - root - INFO - campaign_id=test-campaign-god-mode-return | ✅ Added player character 'Thorin' to active_entities
+2026-04-15 03:30:48,188 - root - INFO - campaign_id=test-campaign-god-mode-return | GameState: initialized last_living_world_time from world_data
+2026-04-15 03:30:48,188 - root - INFO - campaign_id=test-campaign-god-mode-return | Added microsecond field to world_time (default: 0)
+2026-04-15 03:30:48,188 - root - INFO - campaign_id=test-campaign-god-mode-return | GameState: initialized last_living_world_time from world_data
+2026-04-15 03:30:48,188 - root - WARNING - ⚠️ campaign_id=test-campaign-god-mode-return | GameState: turn counter mismatch (turn_number=0, player_turn=5); using canonical=5
+2026-04-15 03:30:48,188 - root - INFO - campaign_id=test-campaign-god-mode-return | GameState: initialized last_living_world_time from world_data
+2026-04-15 03:30:48,188 - root - INFO - campaign_id=test-campaign-god-mode-return | XP Validation applied corrections: {'valid': True, 'assumed_xp': 0, 'expected_level': 1, 'computed_level': 1}
+2026-04-15 03:30:48,188 - root - WARNING - ⚠️ campaign_id=test-campaign-god-mode-return | Time monotonicity: Time regression detected: 1492, Day 10, 12:00 is earlier than 1492, Day 10, 14:00
+2026-04-15 03:30:48,189 - root - WARNING - ⚠️ campaign_id=test-campaign-god-mode-return | 🌍 LIVING_WORLD_MISSING: world_events absent on turn 6 (mode=character agent_mode=character). Living world instruction fires every turn — LLM did not include state_updates.world_events.
+2026-04-15 03:30:48,189 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,189 - root - INFO - campaign_id=test-campaign-god-mode-return | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,189 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,189 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,189 - root - INFO - campaign_id=test-campaign-god-mode-return | ⏱️ LATENCY_PERSIST_START: Persisting state and story to Firestore
+2026-04-15 03:30:48,190 - root - INFO - campaign_id=test-campaign-god-mode-return | ⏱️ LATENCY_PERSIST_END: Firestore persistence completed in 0.00s
+2026-04-15 03:30:48,190 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,190 - root - WARNING - ⚠️ campaign_id=test-campaign-god-mode-return | SYSTEM WARNING: Applied one-time schema migration for legacy compatibility
+2026-04-15 03:30:48,190 - root - WARNING - ⚠️ campaign_id=test-campaign-god-mode-return | SYSTEM WARNING: Level computed as 1 from XP
+2026-04-15 03:30:48,190 - root - WARNING - ⚠️ campaign_id=test-campaign-god-mode-return | SYSTEM WARNING: Time warning: Time regression detected: 1492, Day 10, 12:00 is earlier than 1492, Day 10, 14:00
+2026-04-15 03:30:48,190 - root - INFO - campaign_id=test-campaign-god-mode-return | ⏱️ LATENCY_END: process_action_unified completed in 0.00s
+2026-04-15 03:30:48,190 - root - INFO - campaign_id=test-campaign-god-mode-return | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+.2026-04-15 03:30:48,192 - root - INFO - campaign_id=test-campaign-god-mode-time | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,192 - root - INFO - campaign_id=test-campaign-god-mode-time | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:48,192 - root - INFO - campaign_id=test-campaign-god-mode-time | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:48,192 - root - INFO - campaign_id=test-campaign-god-mode-time | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:48,192 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,192 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,192 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,192 - root - INFO - campaign_id=test-campaign-god-mode-time | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,192 - root - INFO - campaign_id=test-campaign-god-mode-time | 🔍 PROVIDER_SELECTION_START: user_id=test-user-god-mode-time, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=true, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:48,192 - root - INFO - campaign_id=test-campaign-god-mode-time | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:48,192 - root - WARNING - ⚠️ campaign_id=test-campaign-god-mode-time | ⚠️ PROVIDER_SELECTION_SETTINGS_MISSING: No user settings document for user_id=test-user-god-mode-time; using default provider/model.
+2026-04-15 03:30:48,192 - root - INFO - campaign_id=test-campaign-god-mode-time | ↩️ NON_STREAMING_PATH: Using continue_story for provider/model gemini/gemini-3-flash-preview
+2026-04-15 03:30:48,192 - root - INFO - campaign_id=test-campaign-god-mode-time | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:48,193 - root - WARNING - ⚠️ campaign_id=test-campaign-god-mode-time | CRITICAL SAFEGUARD: Intercepted direct overwrite on 'core_memories'. Converting to safe, deduplicated append.
+2026-04-15 03:30:48,193 - root - INFO - campaign_id=test-campaign-god-mode-time | APPEND/SAFEGUARD: Added 1 new items to 'core_memories'.
+2026-04-15 03:30:48,193 - root - INFO - campaign_id=test-campaign-god-mode-time | ✅ Added player character 'Thorin' to active_entities
+2026-04-15 03:30:48,193 - root - INFO - campaign_id=test-campaign-god-mode-time | GameState: initialized last_living_world_time from world_data
+2026-04-15 03:30:48,193 - root - INFO - campaign_id=test-campaign-god-mode-time | Calculated time_of_day as 'night' from hour 23
+2026-04-15 03:30:48,193 - root - INFO - campaign_id=test-campaign-god-mode-time | GameState: initialized last_living_world_time from world_data
+2026-04-15 03:30:48,193 - root - WARNING - ⚠️ campaign_id=test-campaign-god-mode-time | GameState: turn counter mismatch (turn_number=0, player_turn=2); using canonical=2
+2026-04-15 03:30:48,193 - root - INFO - campaign_id=test-campaign-god-mode-time | GameState: initialized last_living_world_time from world_data
+2026-04-15 03:30:48,193 - root - INFO - campaign_id=test-campaign-god-mode-time | XP Validation applied corrections: {'valid': True, 'assumed_xp': 0, 'expected_level': 1, 'computed_level': 1}
+2026-04-15 03:30:48,194 - root - INFO - campaign_id=test-campaign-god-mode-time | ⏱️ LATENCY_PERSIST_START: Persisting state and story to Firestore
+2026-04-15 03:30:48,194 - root - INFO - campaign_id=test-campaign-god-mode-time | ⏱️ LATENCY_PERSIST_END: Firestore persistence completed in 0.00s
+2026-04-15 03:30:48,194 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,194 - root - WARNING - ⚠️ campaign_id=test-campaign-god-mode-time | SYSTEM WARNING: Applied one-time schema migration for legacy compatibility
+2026-04-15 03:30:48,194 - root - WARNING - ⚠️ campaign_id=test-campaign-god-mode-time | SYSTEM WARNING: Level computed as 1 from XP
+2026-04-15 03:30:48,195 - root - INFO - campaign_id=test-campaign-god-mode-time | ⏱️ LATENCY_END: process_action_unified completed in 0.00s
+2026-04-15 03:30:48,195 - root - INFO - campaign_id=test-campaign-god-mode-time | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+.2026-04-15 03:30:48,196 - root - INFO - campaign_id=test-campaign-god-mode-param | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,196 - root - INFO - campaign_id=test-campaign-god-mode-param | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:48,196 - root - INFO - campaign_id=test-campaign-god-mode-param | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:48,196 - root - INFO - campaign_id=test-campaign-god-mode-param | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:48,197 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,197 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,197 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,197 - root - INFO - campaign_id=test-campaign-god-mode-param | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,197 - root - INFO - campaign_id=test-campaign-god-mode-param | 🔍 PROVIDER_SELECTION_START: user_id=test-user-god-mode-param, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=true, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:48,197 - root - INFO - campaign_id=test-campaign-god-mode-param | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:48,197 - root - WARNING - ⚠️ campaign_id=test-campaign-god-mode-param | ⚠️ PROVIDER_SELECTION_SETTINGS_MISSING: No user settings document for user_id=test-user-god-mode-param; using default provider/model.
+2026-04-15 03:30:48,197 - root - INFO - campaign_id=test-campaign-god-mode-param | ↩️ NON_STREAMING_PATH: Using continue_story for provider/model gemini/gemini-3-flash-preview
+2026-04-15 03:30:48,197 - root - INFO - campaign_id=test-campaign-god-mode-param | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:48,198 - root - WARNING - ⚠️ campaign_id=test-campaign-god-mode-param | CRITICAL SAFEGUARD: Intercepted direct overwrite on 'core_memories'. Converting to safe, deduplicated append.
+2026-04-15 03:30:48,198 - root - INFO - campaign_id=test-campaign-god-mode-param | APPEND/SAFEGUARD: Added 1 new items to 'core_memories'.
+2026-04-15 03:30:48,198 - root - INFO - campaign_id=test-campaign-god-mode-param | ✅ Added player character 'Thorin' to active_entities
+2026-04-15 03:30:48,198 - root - INFO - campaign_id=test-campaign-god-mode-param | GameState: initialized last_living_world_time from world_data
+2026-04-15 03:30:48,198 - root - INFO - campaign_id=test-campaign-god-mode-param | Added microsecond field to world_time (default: 0)
+2026-04-15 03:30:48,198 - root - INFO - campaign_id=test-campaign-god-mode-param | GameState: initialized last_living_world_time from world_data
+2026-04-15 03:30:48,198 - root - WARNING - ⚠️ campaign_id=test-campaign-god-mode-param | GameState: turn counter mismatch (turn_number=0, player_turn=5); using canonical=5
+2026-04-15 03:30:48,198 - root - INFO - campaign_id=test-campaign-god-mode-param | GameState: initialized last_living_world_time from world_data
+2026-04-15 03:30:48,198 - root - INFO - campaign_id=test-campaign-god-mode-param | XP Validation applied corrections: {'valid': True, 'assumed_xp': 0, 'expected_level': 1, 'computed_level': 1}
+2026-04-15 03:30:48,198 - root - WARNING - ⚠️ campaign_id=test-campaign-god-mode-param | Time monotonicity: Time regression detected: 1492, Day 10, 12:00 is earlier than 1492, Day 10, 14:00
+2026-04-15 03:30:48,199 - root - INFO - campaign_id=test-campaign-god-mode-param | ⏱️ LATENCY_PERSIST_START: Persisting state and story to Firestore
+2026-04-15 03:30:48,199 - root - INFO - campaign_id=test-campaign-god-mode-param | ⏱️ LATENCY_PERSIST_END: Firestore persistence completed in 0.00s
+2026-04-15 03:30:48,199 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,199 - root - WARNING - ⚠️ campaign_id=test-campaign-god-mode-param | SYSTEM WARNING: Applied one-time schema migration for legacy compatibility
+2026-04-15 03:30:48,199 - root - WARNING - ⚠️ campaign_id=test-campaign-god-mode-param | SYSTEM WARNING: Level computed as 1 from XP
+2026-04-15 03:30:48,199 - root - WARNING - ⚠️ campaign_id=test-campaign-god-mode-param | SYSTEM WARNING: Time warning: Time regression detected: 1492, Day 10, 12:00 is earlier than 1492, Day 10, 14:00
+2026-04-15 03:30:48,199 - root - INFO - campaign_id=test-campaign-god-mode-param | ⏱️ LATENCY_END: process_action_unified completed in 0.00s
+2026-04-15 03:30:48,200 - root - INFO - campaign_id=test-campaign-god-mode-param | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+...................................................2026-04-15 03:30:48,204 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,204 - root - INFO - 📈 SERVER_LEVELUP_INJECTION: Converted 0 dict-format choices to list format
+2026-04-15 03:30:48,204 - root - INFO - 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 5 (had level_up_now=False, continue_adventuring=False)
+.2026-04-15 03:30:48,204 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,204 - root - INFO - 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 5 (had level_up_now=False, continue_adventuring=False)
+.2026-04-15 03:30:48,204 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+.2026-04-15 03:30:48,204 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+F2026-04-15 03:30:48,205 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+..2026-04-15 03:30:48,205 - root - INFO - 🔓 MODAL_FINISH_STALE_FLAG: Ignoring stale level_up_pending (XP below next-level threshold and no rewards_pending signal)
+.2026-04-15 03:30:48,205 - root - INFO - 🔓 MODAL_FINISH_STALE_FLAG: Ignoring stale level_up_pending (XP below next-level threshold and no rewards_pending signal)
+...2026-04-15 03:30:48,207 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,207 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:48,207 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:48,207 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:48,207 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,207 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,207 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,207 - root - INFO - campaign_id=test-campaign-456 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,207 - root - INFO - campaign_id=test-campaign-456 | 🔍 PROVIDER_SELECTION_START: user_id=test-user-123, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=true, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:48,207 - root - INFO - campaign_id=test-campaign-456 | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:48,208 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | ⚠️ PROVIDER_SELECTION_SETTINGS_MISSING: No user settings document for user_id=test-user-123; using default provider/model.
+2026-04-15 03:30:48,208 - root - INFO - campaign_id=test-campaign-456 | ↩️ NON_STREAMING_PATH: Using continue_story for provider/model gemini/gemini-3-flash-preview
+2026-04-15 03:30:48,208 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:48,208 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | CRITICAL SAFEGUARD: Intercepted direct overwrite on 'core_memories'. Converting to safe, deduplicated append.
+2026-04-15 03:30:48,208 - root - INFO - campaign_id=test-campaign-456 | APPEND/SAFEGUARD: Added 1 new items to 'core_memories'.
+2026-04-15 03:30:48,208 - root - INFO - campaign_id=test-campaign-456 | Added microsecond field to world_time (default: 0)
+2026-04-15 03:30:48,209 - root - INFO - campaign_id=test-campaign-456 | GOD MODE DIRECTIVE ADDED: New directive rule
+2026-04-15 03:30:48,209 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PERSIST_START: Persisting state and story to Firestore
+2026-04-15 03:30:48,210 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PERSIST_END: Firestore persistence completed in 0.00s
+2026-04-15 03:30:48,210 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,210 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | SYSTEM WARNING: Applied one-time schema migration for legacy compatibility
+2026-04-15 03:30:48,210 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_END: process_action_unified completed in 0.00s
+2026-04-15 03:30:48,210 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+.2026-04-15 03:30:48,211 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,211 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:48,211 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:48,211 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:48,212 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,212 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,212 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,212 - root - INFO - campaign_id=test-campaign-456 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,212 - root - INFO - campaign_id=test-campaign-456 | 🔍 PROVIDER_SELECTION_START: user_id=test-user-123, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=true, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:48,212 - root - INFO - campaign_id=test-campaign-456 | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:48,212 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | ⚠️ PROVIDER_SELECTION_SETTINGS_MISSING: No user settings document for user_id=test-user-123; using default provider/model.
+2026-04-15 03:30:48,212 - root - INFO - campaign_id=test-campaign-456 | ↩️ NON_STREAMING_PATH: Using continue_story for provider/model gemini/gemini-3-flash-preview
+2026-04-15 03:30:48,212 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:48,213 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | CRITICAL SAFEGUARD: Intercepted direct overwrite on 'core_memories'. Converting to safe, deduplicated append.
+2026-04-15 03:30:48,213 - root - INFO - campaign_id=test-campaign-456 | APPEND/SAFEGUARD: Added 1 new items to 'core_memories'.
+2026-04-15 03:30:48,213 - root - INFO - campaign_id=test-campaign-456 | Added microsecond field to world_time (default: 0)
+2026-04-15 03:30:48,214 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | 🌍 LIVING_WORLD_MISSING: world_events absent on turn 1 (mode=character agent_mode=<Mock name='continue_story().agent_mode' id='139482611752288'>). Living world instruction fires every turn — LLM did not include state_updates.world_events.
+2026-04-15 03:30:48,214 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,214 - root - INFO - campaign_id=test-campaign-456 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,214 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,214 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,214 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PERSIST_START: Persisting state and story to Firestore
+2026-04-15 03:30:48,214 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PERSIST_END: Firestore persistence completed in 0.00s
+2026-04-15 03:30:48,214 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,214 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | SYSTEM WARNING: Applied one-time schema migration for legacy compatibility
+2026-04-15 03:30:48,214 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_END: process_action_unified completed in 0.00s
+2026-04-15 03:30:48,214 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+.2026-04-15 03:30:48,215 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,215 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:48,215 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:48,215 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:48,215 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,215 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,215 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,215 - root - INFO - campaign_id=test-campaign-456 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,216 - root - INFO - campaign_id=test-campaign-456 | 🔍 PROVIDER_SELECTION_START: user_id=test-user-123, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=true, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:48,216 - root - INFO - campaign_id=test-campaign-456 | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:48,216 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | ⚠️ PROVIDER_SELECTION_SETTINGS_MISSING: No user settings document for user_id=test-user-123; using default provider/model.
+2026-04-15 03:30:48,216 - root - INFO - campaign_id=test-campaign-456 | ↩️ NON_STREAMING_PATH: Using continue_story for provider/model gemini/gemini-3-flash-preview
+2026-04-15 03:30:48,216 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:48,217 - root - INFO - campaign_id=test-campaign-456 | 🛡️ SOCIAL_HP_GUARD: old_challenge state - social_hp=None, social_hp_max=None, cooldown_remaining=None, cooldown_until_hour=None, old_challenge_keys=[]
+2026-04-15 03:30:48,217 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | 🛡️ SOCIAL_HP_GUARD: Extracted current_hour=12 from state_changes. game_state.world_data type: <class 'unittest.mock.Mock'>, game_state.world_data is None: False, game_state.world_data is empty dict: False, game_state.world_data keys: N/A, game_state.world_time type: <class 'dict'>, game_state.world_time keys: [], game_state.world_time.hour: MISSING, state_changes.world_data keys: ['world_time', 'current_location_name'], final current_hour: 12
+2026-04-15 03:30:48,217 - root - INFO - campaign_id=test-campaign-456 | 🛡️ SOCIAL_HP_GUARD: old_hp=0, cooldown_active=False, effective_cd=0, time_based=False, current_hour=12, new_damage=None, old_challenge_empty=True
+2026-04-15 03:30:48,217 - root - INFO - campaign_id=test-campaign-456 | 🛡️ SOCIAL_HP_GUARD: Damage calc check - old_hp=0, new_hp_raw=None, new_hp=0, damage=0, condition=False
+2026-04-15 03:30:48,217 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | 🛡️ SOCIAL_HP_GUARD: Cooldown trigger check - final_damage=0, cooldown_active=False, use_time_based=True, time_advanced_in_response=False, current_hour=12, new_hour=12, old_cd_until_hour=None, old_cd_original=0
+2026-04-15 03:30:48,217 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | 🛡️ SOCIAL_HP_GUARD: Correcting HP hallucination (None -> 0)
+2026-04-15 03:30:48,217 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | 🛡️ SOCIAL_HP_GUARD: Added default resistance_shown (status=RESISTING, npc=the NPC)
+2026-04-15 03:30:48,217 - root - INFO - campaign_id=test-campaign-456 | 🛡️ SOCIAL_HP_GUARD: Final state_changes['social_hp_challenge'] - social_hp=0, social_hp_damage=None, cooldown_remaining=None, cooldown_until_hour=None, social_hp_max=None, npc_tier=None, resistance_shown=the NPC shows resistance to your request.
+2026-04-15 03:30:48,217 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | CRITICAL SAFEGUARD: Intercepted direct overwrite on 'core_memories'. Converting to safe, deduplicated append.
+2026-04-15 03:30:48,217 - root - INFO - campaign_id=test-campaign-456 | APPEND/SAFEGUARD: No new items were added to 'core_memories' (duplicates may have been found).
+2026-04-15 03:30:48,217 - root - INFO - campaign_id=test-campaign-456 | Added microsecond field to world_time (default: 0)
+2026-04-15 03:30:48,218 - root - INFO - campaign_id=test-campaign-456 | ✅ GOD_MODE: Using god_mode_response for story entry: Time set to midnight. The world now shows 00:00....
+2026-04-15 03:30:48,218 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PERSIST_START: Persisting state and story to Firestore
+2026-04-15 03:30:48,218 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PERSIST_END: Firestore persistence completed in 0.00s
+2026-04-15 03:30:48,219 - root - INFO - campaign_id=test-campaign-456 | ✅ GOD_MODE: Empty narrative expected, frontend uses god_mode_response
+2026-04-15 03:30:48,219 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | SYSTEM WARNING: Applied one-time schema migration for legacy compatibility
+2026-04-15 03:30:48,219 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_END: process_action_unified completed in 0.00s
+2026-04-15 03:30:48,219 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+.2026-04-15 03:30:48,220 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,221 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:48,221 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:48,221 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:48,221 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,221 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,221 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,221 - root - INFO - campaign_id=test-campaign-456 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,221 - root - INFO - campaign_id=test-campaign-456 | 🔍 PROVIDER_SELECTION_START: user_id=test-user-123, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=true, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:48,221 - root - INFO - campaign_id=test-campaign-456 | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:48,221 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | ⚠️ PROVIDER_SELECTION_SETTINGS_MISSING: No user settings document for user_id=test-user-123; using default provider/model.
+2026-04-15 03:30:48,221 - root - INFO - campaign_id=test-campaign-456 | ↩️ NON_STREAMING_PATH: Using continue_story for provider/model gemini/gemini-3-flash-preview
+2026-04-15 03:30:48,221 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:48,222 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | CRITICAL SAFEGUARD: Intercepted direct overwrite on 'core_memories'. Converting to safe, deduplicated append.
+2026-04-15 03:30:48,222 - root - INFO - campaign_id=test-campaign-456 | APPEND/SAFEGUARD: Added 1 new items to 'core_memories'.
+2026-04-15 03:30:48,222 - root - INFO - campaign_id=test-campaign-456 | Added microsecond field to world_time (default: 0)
+2026-04-15 03:30:48,222 - root - INFO - campaign_id=test-campaign-456 | XP Validation applied corrections: {'valid': True, 'expected_level': 1, 'computed_level': 1}
+2026-04-15 03:30:48,223 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | 🌍 LIVING_WORLD_MISSING: world_events absent on turn 1 (mode=character agent_mode=<Mock name='continue_story().agent_mode' id='139482691166304'>). Living world instruction fires every turn — LLM did not include state_updates.world_events.
+2026-04-15 03:30:48,223 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,223 - root - INFO - campaign_id=test-campaign-456 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,223 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,223 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,223 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PERSIST_START: Persisting state and story to Firestore
+2026-04-15 03:30:48,223 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PERSIST_END: Firestore persistence completed in 0.00s
+2026-04-15 03:30:48,224 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,224 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | SYSTEM WARNING: Applied one-time schema migration for legacy compatibility
+2026-04-15 03:30:48,224 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | SYSTEM WARNING: Level computed as 1 from XP
+2026-04-15 03:30:48,224 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_END: process_action_unified completed in 0.00s
+2026-04-15 03:30:48,224 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+.2026-04-15 03:30:48,225 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,225 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,225 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,225 - root - INFO - 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,225 - root - INFO - ↩️ NON_STREAMING_PATH: Using continue_story for provider/model gemini/gemini-3-test
+.2026-04-15 03:30:48,227 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,227 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:48,227 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:48,227 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:48,227 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,227 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,227 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,227 - root - INFO - campaign_id=test-campaign-456 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,227 - root - INFO - campaign_id=test-campaign-456 | 🔍 PROVIDER_SELECTION_START: user_id=test-user-123, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=true, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:48,227 - root - INFO - campaign_id=test-campaign-456 | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:48,227 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | ⚠️ PROVIDER_SELECTION_SETTINGS_MISSING: No user settings document for user_id=test-user-123; using default provider/model.
+2026-04-15 03:30:48,227 - root - INFO - campaign_id=test-campaign-456 | ↩️ NON_STREAMING_PATH: Using continue_story for provider/model gemini/gemini-3-flash-preview
+2026-04-15 03:30:48,228 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:48,228 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | CRITICAL SAFEGUARD: Intercepted direct overwrite on 'core_memories'. Converting to safe, deduplicated append.
+2026-04-15 03:30:48,228 - root - INFO - campaign_id=test-campaign-456 | APPEND/SAFEGUARD: Added 1 new items to 'core_memories'.
+2026-04-15 03:30:48,228 - root - INFO - campaign_id=test-campaign-456 | Added microsecond field to world_time (default: 0)
+2026-04-15 03:30:48,228 - root - INFO - campaign_id=test-campaign-456 | XP Validation applied corrections: {'valid': True, 'expected_level': 1, 'computed_level': 1}
+2026-04-15 03:30:48,229 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | 🌍 LIVING_WORLD_MISSING: world_events absent on turn 1 (mode=character agent_mode=<Mock name='continue_story().agent_mode' id='139482612311696'>). Living world instruction fires every turn — LLM did not include state_updates.world_events.
+2026-04-15 03:30:48,229 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,229 - root - INFO - campaign_id=test-campaign-456 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,229 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,230 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,230 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PERSIST_START: Persisting state and story to Firestore
+2026-04-15 03:30:48,230 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PERSIST_END: Firestore persistence completed in 0.00s
+2026-04-15 03:30:48,230 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,230 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | SYSTEM WARNING: Applied one-time schema migration for legacy compatibility
+2026-04-15 03:30:48,230 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | SYSTEM WARNING: Level computed as 1 from XP
+2026-04-15 03:30:48,230 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_END: process_action_unified completed in 0.00s
+2026-04-15 03:30:48,230 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+.2026-04-15 03:30:48,232 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,232 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:48,232 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:48,232 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:48,232 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,232 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,232 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,232 - root - INFO - campaign_id=test-campaign-456 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,232 - root - INFO - campaign_id=test-campaign-456 | 🌊 STREAMING_PATH: Using continue_story_streaming for provider/model gemini/gemini-3-test
+2026-04-15 03:30:48,233 - root - INFO - campaign_id=test-campaign-456 | action_resolution missing required fields: ['player_input', 'interpreted_as', 'mechanics', 'audit_flags']. Actual working schema: player_input, interpreted_as, reinterpreted, mechanics, audit_flags (count=1)
+2026-04-15 03:30:48,233 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:48,234 - root - INFO - campaign_id=test-campaign-456 | Added microsecond field to world_time (default: 0)
+2026-04-15 03:30:48,234 - root - INFO - campaign_id=test-campaign-456 | Calculated time_of_day as 'deep night' from hour 1
+2026-04-15 03:30:48,234 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:48,234 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:48,234 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:48,235 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:48,235 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:48,235 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:48,235 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | 🌍 LIVING_WORLD_MISSING: world_events absent on turn 1 (mode=character agent_mode=character). Living world instruction fires every turn — LLM did not include state_updates.world_events.
+2026-04-15 03:30:48,235 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:48,235 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:48,235 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:48,235 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,235 - root - INFO - campaign_id=test-campaign-456 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,235 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,235 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,235 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PERSIST_START: Persisting state and story to Firestore
+2026-04-15 03:30:48,235 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_PERSIST_END: Firestore persistence completed in 0.00s
+2026-04-15 03:30:48,236 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:48,236 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:48,236 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:48,236 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,236 - root - WARNING - ⚠️ campaign_id=test-campaign-456 | SYSTEM WARNING: Applied one-time schema migration for legacy compatibility
+2026-04-15 03:30:48,236 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_END: process_action_unified completed in 0.00s
+2026-04-15 03:30:48,236 - root - INFO - campaign_id=test-campaign-456 | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+..2026-04-15 03:30:48,338 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,338 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,338 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,338 - root - INFO - 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,338 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,338 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,338 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,338 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,339 - root - INFO - 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,339 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,339 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,339 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,339 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,339 - root - INFO - 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,339 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+...2026-04-15 03:30:48,342 - root - INFO - Generated random campaign: character='A charismatic bard who weaves magic through music and stories', setting='The frozen lands of Icewind Dale, where survival means everything in the harsh tundra'
+.2026-04-15 03:30:48,343 - root - INFO - Generated random campaign: character='A wise wizard devoted to uncovering ancient magical secrets', setting='The frozen lands of Icewind Dale, where survival means everything in the harsh tundra'
+2026-04-15 03:30:48,343 - root - INFO - Extracted character from prompt: A wise wizard devoted to uncovering ancient magical secrets
+2026-04-15 03:30:48,343 - root - INFO - Extracted setting from prompt: The frozen lands of Icewind Dale, where survival means everything in the harsh tundra
+2026-04-15 03:30:48,343 - root - INFO - Building god_mode dict from separate character/setting/description fields
+2026-04-15 03:30:48,343 - root - INFO - Built god_mode from separate fields: character=A wise wizard devoted to uncovering ancient magical secrets
+2026-04-15 03:30:48,343 - root - INFO - God Mode character template detected: A wise wizard devoted to uncovering ancient magical secrets
+2026-04-15 03:30:48,343 - root - INFO - ✅ Initialized 9 starting items for  (equipment.backpack)
+2026-04-15 03:30:48,343 - root - INFO - ✅ Added 'A wise wizard devoted to uncovering ancient magical secrets' to active_entities (God Mode character)
+2026-04-15 03:30:48,343 - root - INFO - ✅ Stored god_mode in custom_campaign_state (setting: 85 chars)
+2026-04-15 03:30:48,343 - root - INFO - 🔍 CHARACTER CREATION DECISION:
+2026-04-15 03:30:48,343 - root - INFO -   character_creation_in_progress: True
+2026-04-15 03:30:48,343 - root - INFO -   god_mode exists: True
+2026-04-15 03:30:48,343 - root - INFO -   god_mode type: <class 'dict'>
+2026-04-15 03:30:48,343 - root - INFO -   god_mode value: {'setting': 'The frozen lands of Icewind Dale, where survival means everything in the harsh tundra', 'character': {'name': 'A wise wizard devoted to uncovering ancient magical secrets'}}
+2026-04-15 03:30:48,343 - root - INFO -   god_mode.get('character'): {'name': 'A wise wizard devoted to uncovering ancient magical secrets'}
+2026-04-15 03:30:48,343 - root - INFO -   character is dict: True
+2026-04-15 03:30:48,343 - root - INFO -   is_god_mode_with_character: True
+2026-04-15 03:30:48,343 - root - INFO - Merged LLM state updates into initial game state
+.2026-04-15 03:30:48,344 - root - INFO - Generated random campaign: character='A noble paladin sworn to protect the innocent from evil', setting='The floating city of Sharn, where magic and technology create vertical neighborhoods'
+2026-04-15 03:30:48,344 - root - INFO - Extracted character from prompt: A noble paladin sworn to protect the innocent from evil
+2026-04-15 03:30:48,344 - root - INFO - Extracted setting from prompt: The floating city of Sharn, where magic and technology create vertical neighborhoods
+2026-04-15 03:30:48,344 - root - INFO - God Mode character template detected: Visenya
+2026-04-15 03:30:48,344 - root - INFO - ✅ Initialized 9 starting items for sorcerer (equipment.backpack)
+2026-04-15 03:30:48,344 - root - INFO - ✅ Added 'Visenya' to active_entities (God Mode character)
+2026-04-15 03:30:48,344 - root - INFO - ✅ Character 'Visenya' pre-populated from god_mode/paste - skipping character creation modal
+2026-04-15 03:30:48,344 - root - INFO - ✅ Stored god_mode in custom_campaign_state (setting: 0 chars)
+2026-04-15 03:30:48,344 - root - INFO - 🔍 CHARACTER CREATION DECISION:
+2026-04-15 03:30:48,344 - root - INFO -   character_creation_in_progress: False
+2026-04-15 03:30:48,344 - root - INFO -   god_mode exists: True
+2026-04-15 03:30:48,344 - root - INFO -   god_mode type: <class 'dict'>
+2026-04-15 03:30:48,344 - root - INFO -   god_mode value: {'character': {'name': 'Visenya', 'class': 'Sorcerer', 'level': '6'}}
+2026-04-15 03:30:48,344 - root - INFO -   god_mode.get('character'): {'name': 'Visenya', 'class': 'Sorcerer', 'level': '6'}
+2026-04-15 03:30:48,344 - root - INFO -   character is dict: True
+2026-04-15 03:30:48,344 - root - INFO -   is_god_mode_with_character: True
+2026-04-15 03:30:48,344 - root - INFO - Merged LLM state updates into initial game state
+.2026-04-15 03:30:48,344 - root - INFO - Generated random campaign: character='A noble paladin sworn to protect the innocent from evil', setting='The bustling city of Waterdeep, where intrigue and adventure await around every corner'
+.2026-04-15 03:30:48,345 - root - INFO - Generated random campaign: character='A devout cleric blessed with divine power to heal and smite', setting='The treacherous Underdark, a vast network of caverns filled with dangerous creatures'
+.2026-04-15 03:30:48,346 - root - INFO - Generated random campaign: character='A skilled ranger who knows the wilderness like no other', setting='The jungle continent of Chult, where ancient ruins hide deadly secrets and treasures'
+2026-04-15 03:30:48,346 - root - INFO - Extracted character from prompt: A skilled ranger who knows the wilderness like no other
+2026-04-15 03:30:48,346 - root - INFO - Extracted setting from prompt: The jungle continent of Chult, where ancient ruins hide deadly secrets and treasures
+2026-04-15 03:30:48,346 - root - INFO - Building god_mode dict from separate character/setting/description fields
+2026-04-15 03:30:48,346 - root - INFO - Built god_mode from separate fields: character=A skilled ranger who knows the wilderness like no other
+2026-04-15 03:30:48,346 - root - INFO - God Mode character template detected: A skilled ranger who knows the wilderness like no other
+2026-04-15 03:30:48,346 - root - INFO - ✅ Initialized 9 starting items for  (equipment.backpack)
+2026-04-15 03:30:48,346 - root - INFO - ✅ Added 'A skilled ranger who knows the wilderness like no other' to active_entities (God Mode character)
+2026-04-15 03:30:48,346 - root - INFO - ✅ Stored god_mode in custom_campaign_state (setting: 84 chars)
+2026-04-15 03:30:48,346 - root - INFO - 🔍 CHARACTER CREATION DECISION:
+2026-04-15 03:30:48,346 - root - INFO -   character_creation_in_progress: True
+2026-04-15 03:30:48,346 - root - INFO -   god_mode exists: True
+2026-04-15 03:30:48,346 - root - INFO -   god_mode type: <class 'dict'>
+2026-04-15 03:30:48,346 - root - INFO -   god_mode value: {'setting': 'The jungle continent of Chult, where ancient ruins hide deadly secrets and treasures', 'character': {'name': 'A skilled ranger who knows the wilderness like no other'}}
+2026-04-15 03:30:48,346 - root - INFO -   god_mode.get('character'): {'name': 'A skilled ranger who knows the wilderness like no other'}
+2026-04-15 03:30:48,346 - root - INFO -   character is dict: True
+2026-04-15 03:30:48,346 - root - INFO -   is_god_mode_with_character: True
+2026-04-15 03:30:48,346 - root - ERROR - 🔥🔴 Payload too large during campaign creation: Payload too large
+...........2026-04-15 03:30:48,356 - root - WARNING - ⚠️ Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:48,356 - root - WARNING - ⚠️ Invalid value 'None' for field 'xp_current'. Using default: 0
+...2026-04-15 03:30:48,356 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,356 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,356 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,356 - root - INFO - 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,356 - root - INFO - 🏆 REWARDS_POSTCONDITION: Synthesized canonical level-up rewards_box
+.2026-04-15 03:30:48,356 - root - WARNING - ⚠️ Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:48,356 - root - WARNING - ⚠️ Invalid value 'None' for field 'xp_current'. Using default: 0
+.2026-04-15 03:30:48,356 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,356 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,356 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,356 - root - INFO - 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,356 - root - INFO - 🏆 REWARDS_POSTCONDITION: Synthesized canonical level-up rewards_box
+.2026-04-15 03:30:48,356 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,356 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,356 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,356 - root - INFO - 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,356 - root - INFO - 🏆 REWARDS_POSTCONDITION: Synthesized canonical level-up rewards_box
+.2026-04-15 03:30:48,356 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,356 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,356 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,356 - root - INFO - 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 2 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,356 - root - INFO - 🏆 REWARDS_POSTCONDITION: Synthesized canonical level-up rewards_box
+.2026-04-15 03:30:48,356 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,356 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,356 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,356 - root - INFO - 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 2 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,356 - root - INFO - 🏆 REWARDS_POSTCONDITION: Synthesized canonical level-up rewards_box
+.2026-04-15 03:30:48,357 - root - INFO - campaign_id=campaign-2 | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,357 - root - INFO - campaign_id=campaign-2 | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:48,357 - root - INFO - campaign_id=campaign-2 | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:48,357 - root - INFO - campaign_id=campaign-2 | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:48,357 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,358 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,358 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,358 - root - INFO - campaign_id=campaign-2 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,358 - root - INFO - campaign_id=campaign-2 | 🔍 PROVIDER_SELECTION_START: user_id=user-2, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=true, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:48,358 - root - INFO - campaign_id=campaign-2 | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:48,358 - root - WARNING - ⚠️ campaign_id=campaign-2 | ⚠️ PROVIDER_SELECTION_SETTINGS_MISSING: No user settings document for user_id=user-2; using default provider/model.
+2026-04-15 03:30:48,358 - root - INFO - campaign_id=campaign-2 | ↩️ NON_STREAMING_PATH: Using continue_story for provider/model gemini/gemini-3-flash-preview
+2026-04-15 03:30:48,358 - root - INFO - campaign_id=campaign-2 | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:48,358 - root - INFO - campaign_id=campaign-2 | 🔒 MODAL_LOCK: Active modal(s)=level_up, stage=
+2026-04-15 03:30:48,358 - root - INFO - campaign_id=campaign-2 | ✅ MODAL_LOCK: User selected exit choice: finish_level_up_return_to_game
+2026-04-15 03:30:48,358 - root - INFO - campaign_id=campaign-2 | 🚪 MODAL_LOCK: Server enforced level-up exit via finish_level_up_return_to_game - modal lock released
+2026-04-15 03:30:48,359 - root - INFO - campaign_id=campaign-2 | 🕐 TIME_FREEZE: Applied microsecond-only time advancement
+2026-04-15 03:30:48,360 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,360 - root - INFO - campaign_id=campaign-2 | 📈 SERVER_LEVELUP_INJECTION: Converted 1 dict-format choices to list format
+2026-04-15 03:30:48,360 - root - INFO - campaign_id=campaign-2 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,360 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,360 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,360 - root - INFO - campaign_id=campaign-2 | ⏱️ LATENCY_PERSIST_START: Persisting state and story to Firestore
+2026-04-15 03:30:48,360 - root - INFO - campaign_id=campaign-2 | ⏱️ LATENCY_PERSIST_END: Firestore persistence completed in 0.00s
+2026-04-15 03:30:48,361 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,361 - root - WARNING - ⚠️ campaign_id=campaign-2 | SYSTEM WARNING: Applied one-time schema migration for legacy compatibility
+2026-04-15 03:30:48,361 - root - INFO - campaign_id=campaign-2 | ⏱️ LATENCY_END: process_action_unified completed in 0.00s
+2026-04-15 03:30:48,361 - root - INFO - campaign_id=campaign-2 | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+.2026-04-15 03:30:48,363 - root - INFO - campaign_id=campaign-1 | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,363 - root - INFO - campaign_id=campaign-1 | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:48,363 - root - INFO - campaign_id=campaign-1 | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:48,363 - root - INFO - campaign_id=campaign-1 | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:48,363 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,363 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,363 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,363 - root - INFO - campaign_id=campaign-1 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,363 - root - INFO - campaign_id=campaign-1 | 🔍 PROVIDER_SELECTION_START: user_id=user-1, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=true, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:48,363 - root - INFO - campaign_id=campaign-1 | MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:48,363 - root - WARNING - ⚠️ campaign_id=campaign-1 | ⚠️ PROVIDER_SELECTION_SETTINGS_MISSING: No user settings document for user_id=user-1; using default provider/model.
+2026-04-15 03:30:48,363 - root - INFO - campaign_id=campaign-1 | ↩️ NON_STREAMING_PATH: Using continue_story for provider/model gemini/gemini-3-flash-preview
+2026-04-15 03:30:48,363 - root - INFO - campaign_id=campaign-1 | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:48,364 - root - INFO - campaign_id=campaign-1 | 📈 LEVEL_UP_CHECK: Level-up available! XP 6400 → 6600 (+200), stored_level=4, expected_level=5. Setting rewards_pending.level_up_available=True
+2026-04-15 03:30:48,364 - root - INFO - campaign_id=campaign-1 | XP validation: XP/Level mismatch: XP=6600 should be Level 5, but provided Level 4 - level-up detected, letting LLM handle via rewards_pending
+2026-04-15 03:30:48,365 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,365 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,365 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,365 - root - INFO - campaign_id=campaign-1 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 5 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,365 - root - INFO - campaign_id=campaign-1 | 🏆 REWARDS_POSTCONDITION: Synthesized canonical level-up rewards_box
+2026-04-15 03:30:48,365 - root - INFO - campaign_id=campaign-1 | 🌍 LIVING_WORLD: Recorded trigger for turn 1 (turn (1 turns))
+2026-04-15 03:30:48,365 - root - WARNING - ⚠️ campaign_id=campaign-1 | 🌍 LIVING_WORLD_MISSING: world_events absent on turn 1 (mode=character agent_mode=<Mock name='continue_story().agent_mode' id='139482688699520'>). Living world instruction fires every turn — LLM did not include state_updates.world_events.
+2026-04-15 03:30:48,365 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,365 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,365 - root - INFO - campaign_id=campaign-1 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 5 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,365 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,365 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,366 - root - INFO - campaign_id=campaign-1 | ⏱️ LATENCY_PERSIST_START: Persisting state and story to Firestore
+2026-04-15 03:30:48,366 - root - INFO - campaign_id=campaign-1 | ⏱️ LATENCY_PERSIST_END: Firestore persistence completed in 0.00s
+2026-04-15 03:30:48,366 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,366 - root - WARNING - ⚠️ campaign_id=campaign-1 | SYSTEM WARNING: Applied one-time schema migration for legacy compatibility
+2026-04-15 03:30:48,366 - root - INFO - campaign_id=campaign-1 | ⏱️ LATENCY_END: process_action_unified completed in 0.00s
+2026-04-15 03:30:48,366 - root - INFO - campaign_id=campaign-1 | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+.2026-04-15 03:30:48,367 - root - INFO - 🌶️ SERVER_SPICY_INJECTION: Converted 1 dict-format choices to list format
+.2026-04-15 03:30:48,367 - root - INFO - 🌶️ SERVER_SPICY_INJECTION: Converted 0 dict-format choices to list format
+2026-04-15 03:30:48,367 - root - INFO - 🌶️ SERVER_SPICY_INJECTION: Injecting enable_spicy_mode choice (LLM detected intimate content)
+.2026-04-15 03:30:48,367 - root - INFO - 🌶️ SERVER_SPICY_INJECTION: Converted 0 dict-format choices to list format
+2026-04-15 03:30:48,367 - root - INFO - 🌶️ SERVER_SPICY_INJECTION: Injecting disable_spicy_mode choice (LLM detected scene ending)
+.2026-04-15 03:30:48,367 - root - INFO - 🌶️ SERVER_SPICY_INJECTION: Injecting enable_spicy_mode choice (LLM detected intimate content)
+.2026-04-15 03:30:48,367 - root - INFO - 🌶️ SERVER_SPICY_INJECTION: Converted 0 dict-format choices to list format
+2026-04-15 03:30:48,367 - root - INFO - 🌶️ SERVER_SPICY_INJECTION: Injecting enable_spicy_mode choice (LLM detected intimate content)
+..2026-04-15 03:30:48,367 - root - INFO - 🌶️ SERVER_SPICY_INJECTION: Injecting enable_spicy_mode choice (LLM detected intimate content)
+...2026-04-15 03:30:48,367 - root - INFO - 🌶️ SERVER_SPICY_INJECTION: Injecting enable_spicy_mode choice (LLM detected intimate content)
+.2026-04-15 03:30:48,367 - root - INFO - 🌶️ SPICY_EXIT: Preserving manual change to cerebras (was gemini before spicy mode)
+.2026-04-15 03:30:48,367 - root - INFO - 🌶️ SPICY_EXIT: Preserving manual change to openrouter (was gemini before spicy mode)
+.2026-04-15 03:30:48,367 - root - INFO - 🌶️ SPICY_EXIT: Restoring pre-spicy provider openclaw
+.2026-04-15 03:30:48,367 - root - INFO - 🌶️ SPICY_EXIT: Restoring pre-spicy provider openclaw
+.2026-04-15 03:30:48,367 - root - INFO - 🌶️ SPICY_EXIT: Restoring pre-spicy provider gemini
+..........2026-04-15 03:30:48,369 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,369 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:48,370 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:48,370 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:48,370 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,370 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,370 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,370 - root - INFO - campaign_id=test-campaign | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,370 - root - INFO - campaign_id=test-campaign | ↩️ NON_STREAMING_PATH: Using continue_story for provider/model test-provider/test-model
+2026-04-15 03:30:48,370 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:48,372 - root - INFO - campaign_id=test-campaign | XP Validation applied corrections: {'valid': True, 'expected_level': 1, 'computed_level': 1}
+2026-04-15 03:30:48,374 - root - WARNING - ⚠️ campaign_id=test-campaign | 🌍 LIVING_WORLD_MISSING: world_events absent on turn 1 (mode=character agent_mode=<MagicMock name='mock.agent_mode' id='139482618085456'>). Living world instruction fires every turn — LLM did not include state_updates.world_events.
+2026-04-15 03:30:48,374 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,374 - root - INFO - campaign_id=test-campaign | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:48,374 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,374 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,374 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PERSIST_START: Persisting state and story to Firestore
+2026-04-15 03:30:48,374 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_PERSIST_END: Firestore persistence completed in 0.00s
+2026-04-15 03:30:48,433 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:48,433 - root - WARNING - ⚠️ campaign_id=test-campaign | SYSTEM WARNING: Applied one-time schema migration for legacy compatibility
+2026-04-15 03:30:48,434 - root - WARNING - ⚠️ campaign_id=test-campaign | SYSTEM WARNING: Level computed as 1 from XP
+2026-04-15 03:30:48,434 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_END: process_action_unified completed in 0.06s
+2026-04-15 03:30:48,434 - root - INFO - campaign_id=test-campaign | ⏱️ LATENCY_FINAL: Total processing time 0.06s
+...2026-04-15 03:30:48,435 - root - INFO - Generated random campaign: character='A brave warrior seeking to prove their worth in battle', setting='The desert kingdom of Calimshan, where genies and merchants rule with equal power'
+..2026-04-15 03:30:48,435 - root - INFO - Generated random campaign: character='A devout cleric blessed with divine power to heal and smite', setting='The mystical Feywild, a realm where magic runs wild and reality bends to emotion'
+2026-04-15 03:30:48,435 - root - INFO - Extracted character from prompt: A devout cleric blessed with divine power to heal and smite
+2026-04-15 03:30:48,435 - root - INFO - Extracted setting from prompt: The mystical Feywild, a realm where magic runs wild and reality bends to emotion
+2026-04-15 03:30:48,435 - root - INFO - Building god_mode dict from separate character/setting/description fields
+2026-04-15 03:30:48,435 - root - INFO - Built god_mode from separate fields: character=A devout cleric blessed with divine power to heal and smite
+2026-04-15 03:30:48,435 - root - INFO - MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:48,436 - root - INFO - God Mode character template detected: A devout cleric blessed with divine power to heal and smite
+2026-04-15 03:30:48,436 - root - INFO - ✅ Initialized 9 starting items for  (equipment.backpack)
+2026-04-15 03:30:48,436 - root - INFO - ✅ Added 'A devout cleric blessed with divine power to heal and smite' to active_entities (God Mode character)
+2026-04-15 03:30:48,436 - root - INFO - ✅ Stored god_mode in custom_campaign_state (setting: 80 chars)
+2026-04-15 03:30:48,436 - root - INFO - 🔍 CHARACTER CREATION DECISION:
+2026-04-15 03:30:48,436 - root - INFO -   character_creation_in_progress: True
+2026-04-15 03:30:48,436 - root - INFO -   god_mode exists: True
+2026-04-15 03:30:48,436 - root - INFO -   god_mode type: <class 'dict'>
+2026-04-15 03:30:48,436 - root - INFO -   god_mode value: {'setting': 'The mystical Feywild, a realm where magic runs wild and reality bends to emotion', 'character': {'name': 'A devout cleric blessed with divine power to heal and smite'}}
+2026-04-15 03:30:48,436 - root - INFO -   god_mode.get('character'): {'name': 'A devout cleric blessed with divine power to heal and smite'}
+2026-04-15 03:30:48,436 - root - INFO -   character is dict: True
+2026-04-15 03:30:48,436 - root - INFO -   is_god_mode_with_character: True
+2026-04-15 03:30:48,436 - root - INFO - Using mock mode - returning mock initial story response
+2026-04-15 03:30:48,436 - root - INFO - Mock mode: Using CharacterCreationAgent for character review
+2026-04-15 03:30:48,436 - root - INFO - Merged LLM state updates into initial game state
+2026-04-15 03:30:48,436 - root - INFO - MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:48,436 - root - INFO - MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:48,437 - root - INFO - ✅ Write-then-read (mock mode): user=test, campaign=generated-id-1, actor=user
+2026-04-15 03:30:48,437 - root - INFO - MOCK_SERVICES_MODE enabled - reusing singleton in-memory Firestore client
+2026-04-15 03:30:48,437 - root - WARNING - ⚠️ Story entry contract validation warning (pre_write, campaign=generated-id-1, actor=gemini): planning_block: 'thinking' is a required property, planning_block: 'choices' is a required property
+2026-04-15 03:30:48,437 - root - INFO - ✅ Write-then-read (mock mode): user=test, campaign=generated-id-1, actor=gemini
+...2026-04-15 03:30:48,438 - root - INFO - ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,438 - root - INFO - ⏱️ LATENCY_FINAL: Total processing time 0.00s
+2026-04-15 03:30:48,438 - root - INFO - ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,438 - root - INFO - ⏱️ LATENCY_FINAL: Total processing time 0.00s
+2026-04-15 03:30:48,438 - root - INFO - campaign_id=test | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,438 - root - INFO - campaign_id=test | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+..2026-04-15 03:30:48,438 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,438 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:48,438 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:48,438 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:48,438 - root - ERROR - 🔥🔴 campaign_id=test_campaign | Process action failed: Should not reach here
+2026-04-15 03:30:48,439 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+.2026-04-15 03:30:48,439 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,439 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+.2026-04-15 03:30:48,439 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:48,439 - root - INFO - campaign_id=test_campaign | ⏱️ LATENCY_FINAL: Total processing time 0.00s
+.
+======================================================================
+FAIL: test_inject_levelup_narrative_skipped_when_stale_modal_flags_suppress_signal (__main__.TestLevelUpInjection.test_inject_levelup_narrative_skipped_when_stale_modal_flags_suppress_signal)
+Narrative injection must use resolve_level_up_signal (same as choice injection).
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/_work/worldarchitect.ai/worldarchitect.ai/mvp_site/tests/test_world_logic.py", line 3135, in test_inject_levelup_narrative_skipped_when_stale_modal_flags_suppress_signal
+    self.assertEqual(injected, narrative)
+AssertionError: 'The path winds ahead.\n\n**LEVEL UP AVAILABLE!** You have earn[302 chars] up.' != 'The path winds ahead.'
+  The path winds ahead.
+- 
+- **LEVEL UP AVAILABLE!** You have earned enough experience to reach Level 1!
+- Benefits: Gain new class features, increased proficiency, and more HP.
+- Would you like to level up now?
+- Options: 1. Level up immediately  2. Continue adventuring
+- If you continue adventuring, you remain Level 2 and defer these benefits until you choose to level up.
+
+
+----------------------------------------------------------------------
+Ran 221 tests in 0.754s
+
+FAILED (failures=1)
+RESULT: FAIL
+DURATION: 2s
+END: 2026-04-15 03:30:48

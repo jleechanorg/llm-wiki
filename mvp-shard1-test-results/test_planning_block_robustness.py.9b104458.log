@@ -1,0 +1,24 @@
+TESTFILE: mvp_site/tests/test_planning_block_robustness.py
+START: 2026-04-15 03:30:37
+2026-04-15 03:30:37,446 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+.2026-04-15 03:30:37,521 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+..2026-04-15 03:30:37,521 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:37,521 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:37,521 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:37,521 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+2026-04-15 03:30:37,521 - root - WARNING - ⚠️ Invalid dice_rolls type: str, expected list. Using empty list.
+2026-04-15 03:30:37,521 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+2026-04-15 03:30:37,521 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:37,521 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:37,521 - root - WARNING - ⚠️ Invalid state_updates type: str, expected dict. Using empty dict instead.
+2026-04-15 03:30:37,521 - root - WARNING - ⚠️ Invalid debug_info type: int, expected dict. Using empty dict instead.
+2026-04-15 03:30:37,521 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:37,521 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+..
+----------------------------------------------------------------------
+Ran 11 tests in 0.003s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:30:37

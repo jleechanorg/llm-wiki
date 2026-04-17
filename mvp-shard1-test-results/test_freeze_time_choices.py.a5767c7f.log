@@ -1,0 +1,36 @@
+TESTFILE: mvp_site/tests/test_freeze_time_choices.py
+START: 2026-04-15 03:30:24
+2026-04-15 03:30:25,060 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:30:25,116 - root - INFO - Applied clock skew patch: adjusting time by -720 seconds
+2026-04-15 03:30:25,887 - root - INFO - Loading service account from file: /dev/null
+2026-04-15 03:30:25,887 - root - WARNING - ⚠️ Failed to load credentials from file /dev/null: Expecting value: line 1 column 1 (char 0)
+2026-04-15 03:30:25,887 - root - INFO - Attempting to load service account from environment variables
+2026-04-15 03:30:25,887 - root - WARNING - ⚠️ Failed to load credentials from env vars: Missing required environment variables: GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY. Please set these variables in your environment (.env file, Claude.ai project settings, or GitHub Secrets). See module docstring for detailed instructions.
+2026-04-15 03:30:25,887 - root - WARNING - ⚠️ Failed to load explicit credentials: Failed to load service account credentials from any source. File path '/dev/null' not found or invalid. Environment variables missing or incomplete (need GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY).. Attempting default application credentials.
+2026-04-15 03:30:25,887 - root - INFO - Firebase initialized successfully in world_logic.py
+...2026-04-15 03:30:25,888 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:25,888 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:25,889 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:25,889 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.2026-04-15 03:30:25,889 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+..........2026-04-15 03:30:25,889 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:25,889 - root - INFO - 📈 SERVER_LEVELUP_INJECTION: Converted 2 dict-format choices to list format
+2026-04-15 03:30:25,889 - root - INFO - 📈 SERVER_LEVELUP_INJECTION: Enforced freeze_time on LLM-provided level-up choices (level_up_now, continue_adventuring)
+.2026-04-15 03:30:25,889 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:25,889 - root - INFO - 📈 SERVER_LEVELUP_INJECTION: Converted 0 dict-format choices to list format
+2026-04-15 03:30:25,889 - root - INFO - 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 5 (had level_up_now=False, continue_adventuring=False)
+.2026-04-15 03:30:25,889 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:25,889 - root - INFO - 📈 SERVER_LEVELUP_INJECTION: Converted 0 dict-format choices to list format
+2026-04-15 03:30:25,889 - root - INFO - 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 5 (had level_up_now=False, continue_adventuring=False)
+.2026-04-15 03:30:25,889 - root - INFO - ✅ SERVER_MODAL_FINISH_INJECTION: Converted 1 dict-format choices to list format
+.2026-04-15 03:30:25,889 - root - INFO - ✅ SERVER_MODAL_FINISH_INJECTION: Converted 1 dict-format choices to list format
+.2026-04-15 03:30:25,889 - root - INFO - 🕐 FREEZE_TIME: User selected choice 'level_up_now' with freeze_time=true
+2026-04-15 03:30:25,889 - root - INFO - 🕐 FREEZE_TIME: User selected choice 'continue_adventuring' with freeze_time=true
+.
+----------------------------------------------------------------------
+Ran 23 tests in 0.001s
+
+OK
+RESULT: PASS
+DURATION: 2s
+END: 2026-04-15 03:30:26

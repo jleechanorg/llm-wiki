@@ -1,0 +1,100 @@
+TESTFILE: mvp_site/tests/test_entity_tracking.py
+START: 2026-04-15 03:30:18
+2026-04-15 03:30:18,814 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+test_edge_cases_and_robustness (__main__.TestEntityTracking.test_edge_cases_and_robustness)
+Test edge cases for robustness ... 2026-04-15 03:30:18,840 - root - INFO - Comprehensive validation: 0/0 found, confidence: 1.00, warnings: 0
+2026-04-15 03:30:18,841 - root - INFO - Comprehensive validation: 0/0 found, confidence: 1.00, warnings: 0
+2026-04-15 03:30:18,841 - root - INFO - Comprehensive validation: 0/1 found, confidence: 0.00, warnings: 0
+ok
+test_end_to_end_missing_entity_red_green_workflow (__main__.TestEntityTracking.test_end_to_end_missing_entity_red_green_workflow)
+End-to-end RED-GREEN test: Demonstrates missing entity detection and handling ... 2026-04-15 03:30:18,841 - root - INFO - Comprehensive validation: 1/4 found, confidence: 0.25, warnings: 0
+2026-04-15 03:30:18,841 - root - INFO - Comprehensive validation: 1/3 found, confidence: 0.33, warnings: 0
+2026-04-15 03:30:18,842 - root - INFO - Comprehensive validation: 4/4 found, confidence: 1.00, warnings: 0
+2026-04-15 03:30:18,842 - root - INFO - Comprehensive validation: 3/3 found, confidence: 1.00, warnings: 0
+ok
+test_entity_id_format_standardization (__main__.TestEntityTracking.test_entity_id_format_standardization)
+Test that entity IDs follow underscore format like 'pc_name_001' ... ok
+test_entity_presence_type_detection (__main__.TestEntityTracking.test_entity_presence_type_detection)
+Test EntityPresenceType detection in EntityValidator ... ok
+test_entity_validator_comprehensive_validation (__main__.TestEntityTracking.test_entity_validator_comprehensive_validation)
+Test EntityValidator's comprehensive validation method ... 2026-04-15 03:30:18,842 - root - INFO - Comprehensive validation: 3/3 found, confidence: 1.00, warnings: 0
+2026-04-15 03:30:18,843 - root - INFO - Comprehensive validation: 1/3 found, confidence: 0.33, warnings: 0
+ok
+test_existing_string_ids_preserved (__main__.TestEntityTracking.test_existing_string_ids_preserved)
+Test that existing string_ids from game state are preserved ... ok
+test_expected_entities_filtering (__main__.TestEntityTracking.test_expected_entities_filtering)
+Test that expected entities correctly filters visible, conscious entities ... ok
+test_get_validation_info (__main__.TestEntityTracking.test_get_validation_info)
+Test get_validation_info function returns correct information. ... ok
+test_injection_template_creation (__main__.TestEntityTracking.test_injection_template_creation)
+Test entity injection template creation ... ok
+test_integration_flow (__main__.TestEntityTracking.test_integration_flow)
+Test the complete entity tracking flow ... 2026-04-15 03:30:18,843 - root - INFO - Comprehensive validation: 3/3 found, confidence: 1.00, warnings: 0
+2026-04-15 03:30:18,843 - root - INFO - NarrativeSyncValidator delegated to EntityValidator: 3/3 found
+ok
+test_invalid_string_ids_regenerated (__main__.TestEntityTracking.test_invalid_string_ids_regenerated)
+Test that invalid string_ids (wrong prefix) are regenerated with proper format ... ok
+test_manifest_prompt_format (__main__.TestEntityTracking.test_manifest_prompt_format)
+Test manifest to prompt format conversion ... ok
+test_multiple_unknown_entities (__main__.TestEntityTracking.test_multiple_unknown_entities)
+Test filtering multiple Unknown entities and variations ... 2026-04-15 03:30:18,843 - root - INFO - Comprehensive validation: 2/2 found, confidence: 1.00, warnings: 0
+ok
+test_narrative_sync_validator (__main__.TestEntityTracking.test_narrative_sync_validator)
+Test NarrativeSyncValidator functionality ... 2026-04-15 03:30:18,844 - root - INFO - Comprehensive validation: 3/3 found, confidence: 1.00, warnings: 0
+2026-04-15 03:30:18,844 - root - INFO - NarrativeSyncValidator delegated to EntityValidator: 3/3 found
+2026-04-15 03:30:18,844 - root - INFO - Comprehensive validation: 2/3 found, confidence: 0.67, warnings: 0
+2026-04-15 03:30:18,844 - root - INFO - NarrativeSyncValidator delegated to EntityValidator: 2/3 found
+ok
+test_narrative_sync_validator_delegation (__main__.TestEntityTracking.test_narrative_sync_validator_delegation)
+Test that NarrativeSyncValidator properly delegates to EntityValidator ... 2026-04-15 03:30:18,844 - root - INFO - Comprehensive validation: 2/3 found, confidence: 0.67, warnings: 0
+2026-04-15 03:30:18,844 - root - INFO - NarrativeSyncValidator delegated to EntityValidator: 2/3 found
+ok
+test_physical_state_extraction (__main__.TestEntityTracking.test_physical_state_extraction)
+Test physical state extraction from EntityValidator ... ok
+test_scene_manifest_creation (__main__.TestEntityTracking.test_scene_manifest_creation)
+Test SceneManifest creation from game state ... ok
+test_scene_transition_detection (__main__.TestEntityTracking.test_scene_transition_detection)
+Test scene transition detection from EntityValidator ... ok
+test_unknown_entity_filtering_comprehensive (__main__.TestEntityTracking.test_unknown_entity_filtering_comprehensive)
+Test comprehensive Unknown entity filtering across all validators ... 2026-04-15 03:30:18,844 - root - INFO - Comprehensive validation: 2/2 found, confidence: 1.00, warnings: 0
+2026-04-15 03:30:18,844 - root - INFO - Comprehensive validation: 2/2 found, confidence: 1.00, warnings: 0
+2026-04-15 03:30:18,844 - root - INFO - NarrativeSyncValidator delegated to EntityValidator: 2/3 found
+2026-04-15 03:30:18,845 - root - INFO - Entity validation: 2/2 found, confidence: 0.90
+ok
+test_validation_result_compatibility (__main__.TestEntityTracking.test_validation_result_compatibility)
+Test ValidationResult supports both old and new interfaces ... 2026-04-15 03:30:18,845 - root - INFO - Comprehensive validation: 2/2 found, confidence: 1.00, warnings: 0
+ok
+test_validator_presence_detection (__main__.TestEntityTracking.test_validator_presence_detection)
+Test validator's presence detection logic (REFACTORED: uses EntityValidator) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 0.004s
+
+OK
+🧪 Testing Entity Tracking Production Implementation
+============================================================
+
+🔴 RED PHASE: Testing missing entity detection
+   ❌ DETECTED MISSING: ['Sariel', 'Rowan', 'Tavern Keeper']
+   ✅ FOUND: ['Gideon']
+   🔄 RETRY NEEDED: True
+   📝 SUGGESTIONS: 5 provided
+   🚫 FILTERED UNKNOWN: Unknown entities properly excluded
+
+🟢 GREEN PHASE: Testing complete entity handling
+   ✅ ALL ENTITIES FOUND: ['Gideon', 'Sariel', 'Rowan', 'Tavern Keeper']
+   📊 CONFIDENCE: 1.00
+   🎯 PASSED: True
+   🚫 UNKNOWN FILTERED: Still properly excluded in success case
+
+🔄 RETRY WORKFLOW: Testing retry suggestion system
+   📝 RETRY PROMPT GENERATED: Contains guidance for missing entities
+
+✅ RED-GREEN WORKFLOW COMPLETE: Missing entity detection and handling verified
+✅ Integration test passed!
+   Expected entities: ['Gideon', 'Sariel', 'Rowan']
+   Found entities: ['Gideon', 'Sariel', 'Rowan']
+   Confidence: 1.00
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:30:18

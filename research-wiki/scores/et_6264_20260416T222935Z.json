@@ -1,0 +1,27 @@
+{
+  "run_id": "et_6264_20260416T222935Z",
+  "technique": "et",
+  "pr": "6264",
+  "timestamp": "20260416T222935Z",
+  "provenance": {
+    "head": "770c21cdf",
+    "branch": "et/pr6264-atomicity-20260416222735",
+    "origin_main": "main",
+    "commit_timestamp": "2026-04-16T22:29:00-04:00",
+    "diff_stat": "mvp_site/world_logic.py | +192"
+  },
+  "status": "completed",
+  "scores": {
+    "naming": 9,
+    "error_handling": 8,
+    "type_safety": 9,
+    "architecture": 8,
+    "test_coverage": 7,
+    "documentation": 9,
+    "total": 84,
+    "baseline": 85,
+    "delta": -1
+  },
+  "log_file": "/Users/jleechan/llm-wiki-autor-phase3/wiki/syntheses/et_logs/et_6264_20260416T222935Z.log",
+  "score_file": "/Users/jleechan/llm-wiki-autor-phase3/research-wiki/scores/et_6264_20260416T222935Z.json"
+}

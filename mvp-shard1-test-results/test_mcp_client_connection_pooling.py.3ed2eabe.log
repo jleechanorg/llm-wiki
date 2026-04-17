@@ -1,0 +1,12 @@
+TESTFILE: mvp_site/tests/test_mcp_client_connection_pooling.py
+START: 2026-04-15 03:30:36
+2026-04-15 03:30:36,816 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+.........2026-04-15 03:30:36,881 - root - WARNING - ⚠️ skip_http=True but no world_logic module injected; direct calls will return mock/503 responses.
+..
+----------------------------------------------------------------------
+Ran 11 tests in 0.000s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:30:36

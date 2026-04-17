@@ -1,0 +1,6 @@
+TESTFILE: mvp_site/tests/test_llm_service_required_fields.py
+START: 2026-04-15 03:30:34
+2026-04-15 03:30:34,061 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+RESULT: PASS
+DURATION: 1s
+END: 2026-04-15 03:30:35

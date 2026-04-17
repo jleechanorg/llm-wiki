@@ -1,0 +1,376 @@
+TESTFILE: mvp_site/tests/test_end2end/test_character_creation_turn1_end2end.py
+START: 2026-04-15 03:30:01
+2026-04-15 03:30:01,882 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:30:02,273 - root - INFO - Applied clock skew patch: adjusting time by -720 seconds
+2026-04-15 03:30:02,712 - root - INFO - Loading service account from file: /dev/null
+2026-04-15 03:30:02,712 - root - WARNING - ⚠️ Failed to load credentials from file /dev/null: Expecting value: line 1 column 1 (char 0)
+2026-04-15 03:30:02,712 - root - INFO - Attempting to load service account from environment variables
+2026-04-15 03:30:02,712 - root - WARNING - ⚠️ Failed to load credentials from env vars: Missing required environment variables: GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY. Please set these variables in your environment (.env file, Claude.ai project settings, or GitHub Secrets). See module docstring for detailed instructions.
+2026-04-15 03:30:02,712 - root - WARNING - ⚠️ Failed to load explicit credentials: Failed to load service account credentials from any source. File path '/dev/null' not found or invalid. Environment variables missing or incomplete (need GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY).. Attempting default application credentials.
+2026-04-15 03:30:02,712 - root - INFO - Firebase initialized successfully in world_logic.py
+2026-04-15 03:30:02,713 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:02,713 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:02,713 - root - INFO - Schema doc cache initialized: 11 types, 0.12ms total
+2026-04-15 03:30:02,714 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:02,715 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:02,721 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:02,721 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:02,721 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:02,722 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:02,722 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:02,729 - root - INFO - Received campaign creation request:
+2026-04-15 03:30:02,729 - root - INFO -   Character: 
+2026-04-15 03:30:02,729 - root - INFO -   Setting: 
+2026-04-15 03:30:02,729 - root - INFO -   Description: 
+2026-04-15 03:30:02,729 - root - INFO -   Custom options: []
+2026-04-15 03:30:02,729 - root - INFO -   Selected prompts: []
+2026-04-15 03:30:02,729 - root - INFO - Parsing god_mode_data string format into god_mode dict
+2026-04-15 03:30:02,730 - root - INFO - Parsed god_mode_data: character=luke
+2026-04-15 03:30:02,730 - root - INFO - God Mode character template detected: luke
+2026-04-15 03:30:02,730 - root - INFO - ✅ Initialized 9 starting items for  (equipment.backpack)
+2026-04-15 03:30:02,730 - root - INFO - ✅ Added 'luke' to active_entities (God Mode character)
+2026-04-15 03:30:02,730 - root - INFO - ✅ Stored god_mode in custom_campaign_state (setting: 9 chars)
+2026-04-15 03:30:02,730 - root - INFO - 🔍 CHARACTER CREATION DECISION:
+2026-04-15 03:30:02,730 - root - INFO -   character_creation_in_progress: True
+2026-04-15 03:30:02,730 - root - INFO -   god_mode exists: True
+2026-04-15 03:30:02,730 - root - INFO -   god_mode type: <class 'dict'>
+2026-04-15 03:30:02,730 - root - INFO -   god_mode value: {'setting': 'star wars', 'character': {'name': 'luke'}}
+2026-04-15 03:30:02,730 - root - INFO -   god_mode.get('character'): {'name': 'luke'}
+2026-04-15 03:30:02,730 - root - INFO -   character is dict: True
+2026-04-15 03:30:02,730 - root - INFO -   is_god_mode_with_character: True
+2026-04-15 03:30:02,730 - root - INFO - Using mock mode - returning mock initial story response
+2026-04-15 03:30:02,731 - root - INFO - Mock mode: Using CharacterCreationAgent for character review
+2026-04-15 03:30:02,732 - root - INFO - Merged LLM state updates into initial game state
+2026-04-15 03:30:02,732 - root - INFO - ✅ Write-then-read (mock mode): user=test-user-char-creation-turn1, campaign=generated-id-1, actor=user
+2026-04-15 03:30:02,733 - root - WARNING - ⚠️ Story entry contract validation warning (pre_write, campaign=generated-id-1, actor=gemini): planning_block: 'thinking' is a required property, planning_block: 'choices' is a required property
+2026-04-15 03:30:02,733 - root - INFO - ✅ Write-then-read (mock mode): user=test-user-char-creation-turn1, campaign=generated-id-1, actor=gemini
+2026-04-15 03:30:02,734 - root - INFO - campaign_id=generated-id-1 | DEBUG: handle_interaction START - testing mode removed
+2026-04-15 03:30:02,734 - root - INFO - campaign_id=generated-id-1 | DEBUG: request data = {'input': 'I want to create my character', 'mode': 'character', 'include_raw_llm_payloads': True}
+2026-04-15 03:30:02,734 - root - INFO - campaign_id=generated-id-1 | DEBUG: user_input = I want to create my character (KEY_USER_INPUT='input')
+2026-04-15 03:30:02,734 - root - INFO - campaign_id=generated-id-1 | 🔄 PARALLEL I/O START: check_rate_limit [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:02,735 - root - INFO - campaign_id=generated-id-1 | ✅ PARALLEL I/O END: check_rate_limit [duration=0.2ms, remaining=0]
+2026-04-15 03:30:02,735 - root - INFO - campaign_id=generated-id-1 | DEBUG: Processing interaction - user_id=test-user-char-creation-turn1, campaign_id=generated-id-1
+2026-04-15 03:30:02,735 - root - INFO - campaign_id=generated-id-1 | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:02,735 - root - INFO - campaign_id=generated-id-1 | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:02,735 - root - INFO - campaign_id=generated-id-1 | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:02,735 - root - INFO - campaign_id=generated-id-1 | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:02,735 - root - INFO - campaign_id=generated-id-1 | 📖 FETCHED STORY ENTRIES: user=test-user-char-creation-turn1, campaign=generated-id-1, total_entries=2
+2026-04-15 03:30:02,735 - root - INFO - campaign_id=generated-id-1 | 📊 STORY BREAKDOWN: user_entries=1, ai_entries=1, other_entries=0
+2026-04-15 03:30:02,735 - root - INFO - campaign_id=generated-id-1 | 🔍 RECENT ENTRIES (last 2):
+2026-04-15 03:30:02,735 - root - INFO - campaign_id=generated-id-1 |   1. [user] god | Character: luke | Setting: star wars | 2026-04-15 03:30:02.732556+00:00
+2026-04-15 03:30:02,735 - root - INFO - campaign_id=generated-id-1 |   2. [gemini] N/A | [CHARACTER CREATION]
+
+Welcome! I see you have a pr... | 2026-04-15 03:30:02.732945+00:00
+2026-04-15 03:30:02,735 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:02,735 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:02,735 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:02,735 - root - INFO - campaign_id=generated-id-1 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:02,736 - root - INFO - campaign_id=generated-id-1 | 🔍 PROVIDER_SELECTION_START: user_id=test-user-char-creation-turn1, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=true, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:02,736 - root - INFO - campaign_id=generated-id-1 | ↩️ NON_STREAMING_PATH: Using continue_story for provider/model gemini/gemini-3-flash-preview
+2026-04-15 03:30:02,736 - root - INFO - campaign_id=generated-id-1 | 🔍 PROVIDER_SELECTION_START: user_id=test-user-char-creation-turn1, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=true, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:02,736 - root - INFO - campaign_id=generated-id-1 | Using provider/model: gemini/gemini-3-flash-preview for story continuation.
+2026-04-15 03:30:02,736 - root - INFO - campaign_id=generated-id-1 | 🎭 CHARACTER_CREATION_CHECK: Character creation mode ACTIVE
+2026-04-15 03:30:02,736 - root - INFO - campaign_id=generated-id-1 | 🎭 CHARACTER_CREATION_ACTIVE: Using CharacterCreationAgent
+2026-04-15 03:30:02,736 - root - INFO - campaign_id=generated-id-1 | Cache MISS for master_directive.md: loaded and cached 19296 characters (~4824 tokens)
+2026-04-15 03:30:02,737 - root - INFO - campaign_id=generated-id-1 | Cache MISS for game_state_instruction.md: loaded and cached 143160 characters (~35790 tokens)
+2026-04-15 03:30:02,740 - root - INFO - campaign_id=generated-id-1 | Cache MISS for dice_system_instruction_code_execution.md: loaded and cached 4527 characters (~1131 tokens)
+2026-04-15 03:30:02,741 - root - INFO - campaign_id=generated-id-1 | Cache MISS for character_creation_instruction.md: loaded and cached 7073 characters (~1768 tokens)
+2026-04-15 03:30:02,741 - root - INFO - campaign_id=generated-id-1 | Cache MISS for dnd_srd_instruction.md: loaded and cached 1977 characters (~494 tokens)
+2026-04-15 03:30:02,741 - root - INFO - campaign_id=generated-id-1 | Cache MISS for mechanics_system_instruction.md: loaded and cached 32957 characters (~8239 tokens)
+2026-04-15 03:30:02,741 - root - INFO - campaign_id=generated-id-1 | 🌍 LIVING_WORLD: Including living world instruction every turn (turn=1)
+2026-04-15 03:30:02,741 - root - INFO - campaign_id=generated-id-1 | Cache MISS for living_world_instruction.md: loaded and cached 40532 characters (~10133 tokens)
+2026-04-15 03:30:02,742 - root - INFO - campaign_id=generated-id-1 | 🎭 _extract_companions_from_state: No companions found in npc_data (keys: [])
+2026-04-15 03:30:02,742 - root - INFO - campaign_id=generated-id-1 | ✅ CAMPAIGN_SETTING: Adding 9 chars to system instruction
+2026-04-15 03:30:02,743 - root - INFO - campaign_id=generated-id-1 | Initial context stats: Turns: 2, Tokens(est): 195, Core Memories: 0
+2026-04-15 03:30:02,743 - root - INFO - campaign_id=generated-id-1 | Context is within token budget. No truncation needed.
+2026-04-15 03:30:02,743 - root - INFO - campaign_id=generated-id-1 | 📊 MEASURED_SIZES: system=75,312tk, state=651tk, memories=0tk, entities=10,500tk, checkpoint=18tk, sequence=1tk, story=199tk, total=86,681tk (budget=240,000tk)
+2026-04-15 03:30:02,743 - root - INFO - campaign_id=generated-id-1 | 📊 MIN_ALLOCATION: total_min=163,219tk (68.0%), remaining=76,781tk (32.0%)
+2026-04-15 03:30:02,743 - root - INFO - campaign_id=generated-id-1 | 📊 BUDGET_ALLOCATION_SUMMARY (budget=240,000tk):
+  system_instruction: 75,312tk -> 75,312tk (31.4%) ✅ OK
+  game_state: 651tk -> 12,000tk (5.0%) ✅ OK
+  core_memories: 0tk -> 48,000tk (20.0%) ✅ OK
+  entity_tracking: 10,500tk -> 10,500tk (4.4%) ✅ OK
+  checkpoint_block: 18tk -> 18tk (0.0%) ✅ OK
+  sequence_id: 1tk -> 1tk (0.0%) ✅ OK
+  story_context: 199tk -> 72,000tk (30.0%) ✅ OK
+2026-04-15 03:30:02,743 - root - INFO - campaign_id=generated-id-1 | 📊 BUDGET: model_limit=1000000tk, safe_budget=300000tk, max_input=240000tk, output_reserve=60000tk (normal), story_budget=72000tk (30.0%)
+2026-04-15 03:30:02,743 - root - INFO - campaign_id=generated-id-1 | Initial context stats: Turns: 2, Tokens(est): 195, Core Memories: 0
+2026-04-15 03:30:02,743 - root - INFO - campaign_id=generated-id-1 | Context is within token budget. No truncation needed.
+2026-04-15 03:30:02,743 - root - INFO - campaign_id=generated-id-1 | Generated entity manifest for session 1, turn 2
+2026-04-15 03:30:02,743 - root - INFO - campaign_id=generated-id-1 | ENTITY_TRACKING_PROMPT: preload_chars=326, specific_chars=557
+2026-04-15 03:30:02,743 - root - INFO - campaign_id=generated-id-1 | ENTITY_TIERS: no NPCs
+2026-04-15 03:30:02,743 - root - INFO - campaign_id=generated-id-1 | ENTITY_TRACKING_SIZE: 17tk (reserve was 10500tk)
+2026-04-15 03:30:02,743 - root - INFO - campaign_id=generated-id-1 | GAME_STATE_BREAKDOWN: npc_data=0tk (EXCLUDED), world_data=0tk, player_data=139tk, remaining_state=494tk
+2026-04-15 03:30:02,743 - root - INFO - campaign_id=generated-id-1 | 🐛 DEBUG_MODE_VALUE: mode='character', agent=CharacterCreationAgent, agent.MODE=character_creation
+2026-04-15 03:30:02,743 - root - INFO - campaign_id=generated-id-1 | LLMREQUEST_PAYLOAD: story_history=228tk, total_payload=874tk
+2026-04-15 03:30:02,743 - root - INFO - campaign_id=generated-id-1 | Successfully used LLMRequest for structured JSON communication
+2026-04-15 03:30:02,744 - root - INFO - campaign_id=generated-id-1 | campaign_id=generated-id-1 | GEMINI_CODE_EXECUTION_PARTS[continue_story]: model=gemini-3-flash-preview evidence={'code_execution_used': False, 'executable_code_parts': 0, 'code_execution_result_parts': 0, 'stdout': '', 'stdout_is_valid_json': False, 'stdout_parts': [], 'code_contains_rng': False, 'rng_verified': False, 'executed_code': [], 'dice_seed_verified': False}
+2026-04-15 03:30:02,744 - root - WARNING - ⚠️ campaign_id=generated-id-1 | ⚠️ LLM_MISSING_FIELDS: Response missing ['planning_block'] (no server-side retries; accepting response as-is)
+2026-04-15 03:30:02,744 - root - INFO - campaign_id=generated-id-1 | 📝 SYSTEM_INSTRUCTION (301251 chars): # File: master_directive.md
+
+# Master Directive: WorldArchitect.AI Prompt Hierarchy
+**Version: 2.2**
+**Last Updated: 2026-04-13**
+
+## Critical Loading Order and Precedence
+
+This document establishes the authoritative hierarchy for all AI instructions in WorldArchitect.AI. When conflicts arise between instructions, this hierarchy determines which instruction takes precedence.
+
+### 1. CRITICAL FOUNDATION (Load First - Highest Authority)
+These instructions form the core operational framework and MUST be loaded before all others:
+
+1. **`game_state_instruction.md`** - State management protocol, JSON input/output schemas, and entity structures
+   - Authority over: All state updates, data persistence, timeline management, entity structures, JSON input validation
+   - Critical because: Without proper state management and structured communication, nothing else functions
+   - Includes JSON input schema for structured LLM communication
+
+2. **D&D 5E SRD Authority** (defined in this file, "D&D 5E SRD System Authority" section)
+   - Authority over: All combat, attributes, spells, and mechanical resolution
+   - Critical because: Establishes single mechanical system authority
+
+### 2. CORE MECHANICS (Load Second)
+These define the fundamental game rules:
+
+3. **`mechanics_system_instruction.md`** - System integration
+   - Authority over: Character design (when mechanics enabled), dice rolling, leveling tiers, mechanical processes
+   - Defers to: dnd_srd_instruction.md for core mechanics
+   - Special role: Triggers mandatory character design when mechanics checkbox is selected
+
+### 3. NARRATIVE FRAMEWORK (Load Third)
+These guide storytelling and interaction:
+
+4. **`narrative_system_instruction.md`** - Storytelling protocol
+   - Authority over: Think blocks, narrative flow, story progression
+   - Must respect: State management and mechanics from above
+
+### 3. TEMPLATES (Load When Needed)
+These are reference formats:
+
+5. **`character_template.md`** - Character personality and narrative d...
+2026-04-15 03:30:02,744 - root - INFO - campaign_id=generated-id-1 | 📤 RAW_REQUEST (3497 chars; logged up to 20000): {"game_mode": "character", "user_id": "test-user-char-creation-turn1", "selected_prompts": [], "use_default_world": false, "story_history": [{"actor": "user", "mode": "god", "text": "Character: luke | Setting: star wars", "sequence_id": 1}, {"actor": "gemini", "text": "[CHARACTER CREATION]\n\nWelcome! I see you have a pre-defined character template. Let's review and finalize your character before we begin the adventure.\n\n**Your Character So Far:**\n- **Name:** (From template)\n- **Class:** (From template)\n- **Level:** (From template)\n\n**Questions to Complete Your Character:**\n\n1. **Race:** What race is your character? (Human, Elf, Dwarf, Halfling, Dragonborn, etc.)\n2. **Background:** What was your character's life before this adventure? (Noble, Soldier, Acolyte, Folk Hero, etc.)\n3. **Alignment:** What alignment best fits your character?\n4. **Personality:** What drives your character? What are their ideals, bonds, and flaws?\n\nTake your time! Once we finalize these details, we'll begin your epic adventure.", "sequence_id": 2}], "core_memories": [], "sequence_ids": ["1", "2"], "checkpoint_block": "[CHECKPOINT BLOCK:]\\nSequence ID: 2 | Location: Unknown\\nMissions: None\\n", "entity_tracking": {"active_entities": [], "present_entities": [], "dormant_entities": []}, "game_state": {"game_state_version": 1, "player_character_data": {"name": "luke", "equipment": {"backpack": [{"name": "Backpack", "stats": null, "equipped": false}, {"name": "Bedroll", "stats": null, "equipped": false}, {"name": "Mess kit", "stats": null, "equipped": false}, {"name": "Tinderbox", "stats": null, "equipped": false}, {"name": "Torch", "stats": "10", "equipped": false}, {"name": "Rations", "stats": "10 days", "equipped": false}, {"name": "Waterskin", "stats": null, "equipped": false}, {"name": "Rope", "stats": "50 feet", "equipped": false}, {"name": "Coin pouch", "stats": "10gp", "equipped": false}]}}, "world_data": {}, "item_registry": {}, "custom_campaign_state": {"attribute_system": "D&D", "character_creation_in_progress": false, "character_creation_stage": "review", "god_mode": {"setting": "star wars", "character": {"name": "luke"}}, "arc_milestones": {}, "companion_arcs": {}, "next_companion_arc_turn": 3, "active_constraints": [], "campaign_tier": "mortal", "divine_potential": 0, "universe_control": 0, "divine_upgrade_available": false, "multiverse_upgrade_available": false, "faction_minigame": {"suggestion_given": false, "strong_suggestion_given": false}, "_agent_selection_tracker": {"agent": "CharacterCreationAgent", "count": 1, "rewards_skip_count": 0}}, "social_hp_challenge": null, "combat_state": {"in_combat": false}, "last_state_update_timestamp": "2026-04-15T03:30:02.730852+00:00", "turn_number": 0, "player_turn": 0, "last_living_world_turn": 0, "last_living_world_time": null, "time_sensitive_events": {}, "npc_agendas": {}, "world_resources": {}, "time_pressure_warnings": {}, "debug_mode": true, "pending_instruction_hints": [], "user_id": "test-user-char-creation-turn1", "entity_tracking": {"active_entities": ["luke"], "present_entities": []}, "session_id": "legacy-migrated-6175166711bda24b", "schema_migration_version": 1, "schema_migrated_at": "2026-04-15T03:30:02.732449+00:00", "user_settings": {}, "campaign_id": "generated-id-1"}, "user_action": "I want to create my character\n\n[SYSTEM ENFORCEMENT: For ANY dice roll, you MUST use the code_execution tool with random.randint(). Your code will be inspected. Fabricated dice = rejection.]"}
+2026-04-15 03:30:02,744 - root - INFO - campaign_id=generated-id-1 | 📥 RAW_RESPONSE (880 chars; logged up to 20000): {"narrative": "[CHARACTER CREATION]\n\nWelcome to your Star Wars adventure! I see you want to play as Luke. Let's create your character together.\n\n**Character Concept:** Luke in the Star Wars setting\n\n**Let's Define Your Character:**\n\n1. **Full Name:** Is your character named Luke Skywalker, or a different Luke?\n2. **Species/Race:** Human, or another Star Wars species? (Twi'lek, Wookiee, Droid, etc.)\n3. **Class/Role:** What type of character is Luke? (Jedi, Scoundrel, Soldier, Force Adept, etc.)\n4. **Background:** What's Luke's story before this adventure begins?\n5. **Alignment:** Light side, dark side, or somewhere in between?\n\nTell me your choices and we'll build Luke's character sheet together!", "entities_mentioned": ["Luke"], "location_confirmed": "Star Wars Galaxy", "state_updates": {"custom_campaign_state": {"character_creation_in_progress": true}}}
+2026-04-15 03:30:02,744 - root - INFO - campaign_id=generated-id-1 | 📊 PARSED_RESPONSE: narrative_length=689, structured_response=present, raw_response_length=880
+2026-04-15 03:30:02,744 - root - INFO - campaign_id=generated-id-1 | Comprehensive validation: 1/1 found, confidence: 1.00, warnings: 0
+2026-04-15 03:30:02,744 - root - INFO - campaign_id=generated-id-1 | NarrativeSyncValidator delegated to EntityValidator: 1/1 found
+2026-04-15 03:30:02,745 - root - WARNING - ⚠️ campaign_id=generated-id-1 | ⚠️ PLANNING_BLOCK_MISSING: Story mode response missing required planning block. The LLM should have generated this - no fallback will be used.
+2026-04-15 03:30:02,745 - root - INFO - campaign_id=generated-id-1 | 📝 FINAL_RESPONSE: narrative_length=689, has_structured_response=True
+2026-04-15 03:30:02,745 - root - INFO - campaign_id=generated-id-1 | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.01s
+2026-04-15 03:30:02,745 - root - INFO - campaign_id=generated-id-1 | 🕐 TIME_FREEZE: Applied microsecond-only time advancement
+2026-04-15 03:30:02,745 - root - INFO - campaign_id=generated-id-1 | Calculated time_of_day as 'midday' from hour 12
+2026-04-15 03:30:02,745 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:02,745 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:02,745 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:02,745 - root - INFO - campaign_id=generated-id-1 | XP Validation applied corrections: {'valid': True, 'assumed_xp': 0, 'expected_level': 1, 'computed_level': 1}
+2026-04-15 03:30:02,746 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:02,746 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:02,746 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:02,746 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:02,746 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:02,746 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:02,746 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:02,746 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:02,746 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:02,746 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:02,746 - root - INFO - campaign_id=generated-id-1 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:02,746 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:02,746 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:02,746 - root - INFO - campaign_id=generated-id-1 | ⏱️ LATENCY_PERSIST_START: Persisting state and story to Firestore
+2026-04-15 03:30:02,746 - root - INFO - campaign_id=generated-id-1 | Successfully set new game state for campaign generated-id-1.
+2026-04-15 03:30:02,746 - root - INFO - campaign_id=generated-id-1 | ✅ Write-then-read (mock mode): user=test-user-char-creation-turn1, campaign=generated-id-1, actor=user
+2026-04-15 03:30:02,747 - root - INFO - campaign_id=generated-id-1 | ✅ Write-then-read (mock mode): user=test-user-char-creation-turn1, campaign=generated-id-1, actor=gemini
+2026-04-15 03:30:02,747 - root - INFO - campaign_id=generated-id-1 | ⏱️ LATENCY_PERSIST_END: Firestore persistence completed in 0.00s
+2026-04-15 03:30:02,747 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:02,747 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:02,747 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:02,747 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:02,747 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:02,747 - root - WARNING - ⚠️ campaign_id=generated-id-1 | SYSTEM WARNING: Level computed as 1 from XP
+2026-04-15 03:30:02,747 - root - WARNING - ⚠️ campaign_id=generated-id-1 | SYSTEM WARNING: Missing required planning block
+2026-04-15 03:30:02,747 - root - INFO - campaign_id=generated-id-1 | ⏱️ LATENCY_END: process_action_unified completed in 0.01s
+2026-04-15 03:30:02,747 - root - INFO - campaign_id=generated-id-1 | ⏱️ LATENCY_FINAL: Total processing time 0.01s
+2026-04-15 03:30:02,747 - root - INFO - DEBUG: MCP process_action returned result: True
+2026-04-15 03:30:02,747 - root - INFO - MCP process_action result keys: ['success', 'story', 'narrative', 'response', 'game_state', 'mode', 'user_input', 'state_cleaned', 'entries_cleaned', 'sequence_id', 'user_scene_number', 'debug_mode', 'agent_mode', 'agent_used', 'budget_warnings', 'processing_metadata', 'raw_request_payload', 'raw_response_text', 'state_updates', 'entities_mentioned', 'location_confirmed', 'session_header', 'planning_block', 'dice_rolls', 'dice_audit_events', 'resources', 'tool_requests', 'action_resolution', 'outcome_resolution', 'debug_info', 'social_hp_challenge', 'system_warnings']
+2026-04-15 03:30:02,747 - root - INFO - Story field type: <class 'list'>, length: 1
+.2026-04-15 03:30:02,748 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:02,748 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:02,748 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:02,749 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:02,749 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:02,755 - root - INFO - Received campaign creation request:
+2026-04-15 03:30:02,755 - root - INFO -   Character: 
+2026-04-15 03:30:02,755 - root - INFO -   Setting: 
+2026-04-15 03:30:02,755 - root - INFO -   Description: 
+2026-04-15 03:30:02,755 - root - INFO -   Custom options: []
+2026-04-15 03:30:02,755 - root - INFO -   Selected prompts: []
+2026-04-15 03:30:02,755 - root - INFO - Parsing god_mode_data string format into god_mode dict
+2026-04-15 03:30:02,755 - root - INFO - Parsed god_mode_data: character=ser arion val valerion
+2026-04-15 03:30:02,756 - root - INFO - God Mode character template detected: ser arion val valerion
+2026-04-15 03:30:02,756 - root - INFO - ✅ Initialized 9 starting items for paladin (equipment.backpack)
+2026-04-15 03:30:02,756 - root - INFO - ✅ Added 'ser arion val valerion' to active_entities (God Mode character)
+2026-04-15 03:30:02,756 - root - INFO - ✅ Character 'ser arion val valerion' pre-populated from god_mode/paste - skipping character creation modal
+2026-04-15 03:30:02,756 - root - INFO - ✅ Stored god_mode in custom_campaign_state (setting: 257 chars)
+2026-04-15 03:30:02,756 - root - INFO - 🔍 CHARACTER CREATION DECISION:
+2026-04-15 03:30:02,756 - root - INFO -   character_creation_in_progress: False
+2026-04-15 03:30:02,756 - root - INFO -   god_mode exists: True
+2026-04-15 03:30:02,756 - root - INFO -   god_mode type: <class 'dict'>
+2026-04-15 03:30:02,756 - root - INFO -   god_mode value: {'setting': 'World of Assiah\n**Your Character:**\n- **Name:** Ser Arion val Valerion\n- **Age:** 16\n- **Class:** Level 1 Paladin (Oath of the Crown)\n- **Alignment:** Neutral (Lawful Neutral leaning)\n\n**Default Build (Level 1 Paladin):**\n- **Stats:** Str 16, Con 14, Cha 16', 'character': {'name': 'ser arion val valerion', 'level': 1, 'class': 'Paladin', 'base_attributes': {'strength': 16, 'constitution': 14, 'charisma': 16}, 'attributes': {'strength': 16, 'constitution': 14, 'charisma': 16}, 'hp_max': 12, 'hp_current': 12, 'ac': 20}}
+2026-04-15 03:30:02,756 - root - INFO -   god_mode.get('character'): {'name': 'ser arion val valerion', 'level': 1, 'class': 'Paladin', 'base_attributes': {'strength': 16, 'constitution': 14, 'charisma': 16}, 'attributes': {'strength': 16, 'constitution': 14, 'charisma': 16}, 'hp_max': 12, 'hp_current': 12, 'ac': 20}
+2026-04-15 03:30:02,756 - root - INFO -   character is dict: True
+2026-04-15 03:30:02,756 - root - INFO -   is_god_mode_with_character: True
+2026-04-15 03:30:02,756 - root - INFO - Using mock mode - returning mock initial story response
+2026-04-15 03:30:02,756 - root - INFO - Mock mode: Using CharacterCreationAgent for character review
+2026-04-15 03:30:02,756 - root - INFO - Merged LLM state updates into initial game state
+2026-04-15 03:30:02,757 - root - INFO - ✅ Write-then-read (mock mode): user=test-user-char-creation-turn1, campaign=generated-id-1, actor=user
+2026-04-15 03:30:02,757 - root - WARNING - ⚠️ Story entry contract validation warning (pre_write, campaign=generated-id-1, actor=gemini): planning_block: 'thinking' is a required property, planning_block: 'choices' is a required property
+2026-04-15 03:30:02,757 - root - INFO - ✅ Write-then-read (mock mode): user=test-user-char-creation-turn1, campaign=generated-id-1, actor=gemini
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 | DEBUG: handle_interaction START - testing mode removed
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 | DEBUG: request data = {'input': "Let's begin the adventure!", 'mode': 'character', 'include_raw_llm_payloads': True}
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 | DEBUG: user_input = Let's begin the adventure! (KEY_USER_INPUT='input')
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 | 🔄 PARALLEL I/O START: check_rate_limit [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 | ✅ PARALLEL I/O END: check_rate_limit [duration=0.1ms, remaining=0]
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 | DEBUG: Processing interaction - user_id=test-user-char-creation-turn1, campaign_id=generated-id-1
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 | 📖 FETCHED STORY ENTRIES: user=test-user-char-creation-turn1, campaign=generated-id-1, total_entries=2
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 | 📊 STORY BREAKDOWN: user_entries=1, ai_entries=1, other_entries=0
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 | 🔍 RECENT ENTRIES (last 2):
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 |   1. [user] god | Character: ser arion val valerion | Setting: World... | 2026-04-15 03:30:02.756918+00:00
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 |   2. [gemini] N/A | [CHARACTER CREATION]
+
+Welcome! I see you have a pr... | 2026-04-15 03:30:02.757127+00:00
+2026-04-15 03:30:02,758 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:02,758 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:02,758 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 | 🔍 PROVIDER_SELECTION_START: user_id=test-user-char-creation-turn1, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=true, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 | ↩️ NON_STREAMING_PATH: Using continue_story for provider/model gemini/gemini-3-flash-preview
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 | 🔍 PROVIDER_SELECTION_START: user_id=test-user-char-creation-turn1, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=true, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 | Using provider/model: gemini/gemini-3-flash-preview for story continuation.
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 | ⚔️ COMBAT_CHECK: in_combat=False, combat_state_keys=['in_combat']
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 | 🧠 CLASSIFIER_CONTEXT_SKIPPED: first_turn_or_char_creation_context
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 | 🧠 CLASSIFIER: classify_intent() [WITH_CONTEXT] completed in 0.02ms
+2026-04-15 03:30:02,758 - root - INFO - campaign_id=generated-id-1 | 🎭 SEMANTIC_INTENT_STORY: (0.00) -> StoryModeAgent
+2026-04-15 03:30:02,759 - root - INFO - campaign_id=generated-id-1 | Cache MISS for planning_protocol.md: loaded and cached 15931 characters (~3982 tokens)
+2026-04-15 03:30:02,759 - root - INFO - campaign_id=generated-id-1 | Cache MISS for character_template.md: loaded and cached 3375 characters (~843 tokens)
+2026-04-15 03:30:02,759 - root - INFO - campaign_id=generated-id-1 | Cache MISS for narrative_system_instruction.md: loaded and cached 78657 characters (~19664 tokens)
+2026-04-15 03:30:02,759 - root - INFO - campaign_id=generated-id-1 | 🌍 LIVING_WORLD: Including living world instruction every turn (turn=1)
+2026-04-15 03:30:02,759 - root - INFO - campaign_id=generated-id-1 | ✅ CAMPAIGN_SETTING: Adding 257 chars to system instruction
+2026-04-15 03:30:02,760 - root - INFO - campaign_id=generated-id-1 | Initial context stats: Turns: 2, Tokens(est): 261, Core Memories: 0
+2026-04-15 03:30:02,760 - root - INFO - campaign_id=generated-id-1 | Context is within token budget. No truncation needed.
+2026-04-15 03:30:02,760 - root - INFO - campaign_id=generated-id-1 | 📊 MEASURED_SIZES: system=90,626tk, state=898tk, memories=0tk, entities=10,500tk, checkpoint=18tk, sequence=1tk, story=265tk, total=102,308tk (budget=240,000tk)
+2026-04-15 03:30:02,760 - root - INFO - campaign_id=generated-id-1 | 📊 MIN_ALLOCATION: total_min=163,219tk (68.0%), remaining=76,781tk (32.0%)
+2026-04-15 03:30:02,760 - root - INFO - campaign_id=generated-id-1 | 📊 BUDGET_ALLOCATION_SUMMARY (budget=240,000tk):
+  system_instruction: 90,626tk -> 90,626tk (37.8%) ✅ OK
+  game_state: 898tk -> 12,000tk (5.0%) ✅ OK
+  core_memories: 0tk -> 48,000tk (20.0%) ✅ OK
+  entity_tracking: 10,500tk -> 10,500tk (4.4%) ✅ OK
+  checkpoint_block: 18tk -> 18tk (0.0%) ✅ OK
+  sequence_id: 1tk -> 1tk (0.0%) ✅ OK
+  story_context: 265tk -> 72,000tk (30.0%) ✅ OK
+2026-04-15 03:30:02,760 - root - INFO - campaign_id=generated-id-1 | 📊 BUDGET: model_limit=1000000tk, safe_budget=300000tk, max_input=240000tk, output_reserve=60000tk (normal), story_budget=72000tk (30.0%)
+2026-04-15 03:30:02,760 - root - INFO - campaign_id=generated-id-1 | Initial context stats: Turns: 2, Tokens(est): 261, Core Memories: 0
+2026-04-15 03:30:02,760 - root - INFO - campaign_id=generated-id-1 | Context is within token budget. No truncation needed.
+2026-04-15 03:30:02,761 - root - INFO - campaign_id=generated-id-1 | ENTITY_TRACKING_PROMPT: preload_chars=326, specific_chars=590
+2026-04-15 03:30:02,761 - root - INFO - campaign_id=generated-id-1 | ENTITY_TIERS: no NPCs
+2026-04-15 03:30:02,761 - root - INFO - campaign_id=generated-id-1 | ENTITY_TRACKING_SIZE: 17tk (reserve was 10500tk)
+2026-04-15 03:30:02,761 - root - INFO - campaign_id=generated-id-1 | GAME_STATE_BREAKDOWN: npc_data=0tk (EXCLUDED), world_data=0tk, player_data=197tk, remaining_state=687tk
+2026-04-15 03:30:02,761 - root - INFO - campaign_id=generated-id-1 | 🐛 DEBUG_MODE_VALUE: mode='character', agent=StoryModeAgent, agent.MODE=character
+2026-04-15 03:30:02,761 - root - INFO - campaign_id=generated-id-1 | LLMREQUEST_PAYLOAD: story_history=296tk, total_payload=1135tk
+2026-04-15 03:30:02,761 - root - INFO - campaign_id=generated-id-1 | Successfully used LLMRequest for structured JSON communication
+2026-04-15 03:30:02,761 - root - INFO - campaign_id=generated-id-1 | campaign_id=generated-id-1 | GEMINI_CODE_EXECUTION_PARTS[continue_story]: model=gemini-3-flash-preview evidence={'code_execution_used': False, 'executable_code_parts': 0, 'code_execution_result_parts': 0, 'stdout': '', 'stdout_is_valid_json': False, 'stdout_parts': [], 'code_contains_rng': False, 'rng_verified': False, 'executed_code': [], 'dice_seed_verified': False}
+2026-04-15 03:30:02,761 - root - WARNING - ⚠️ campaign_id=generated-id-1 | action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+2026-04-15 03:30:02,761 - root - WARNING - ⚠️ campaign_id=generated-id-1 | ⚠️ LLM_MISSING_FIELDS: Response missing ['planning_block'] (no server-side retries; accepting response as-is)
+2026-04-15 03:30:02,761 - root - INFO - campaign_id=generated-id-1 | 📝 SYSTEM_INSTRUCTION (362506 chars): # File: master_directive.md
+
+# Master Directive: WorldArchitect.AI Prompt Hierarchy
+**Version: 2.2**
+**Last Updated: 2026-04-13**
+
+## Critical Loading Order and Precedence
+
+This document establishes the authoritative hierarchy for all AI instructions in WorldArchitect.AI. When conflicts arise between instructions, this hierarchy determines which instruction takes precedence.
+
+### 1. CRITICAL FOUNDATION (Load First - Highest Authority)
+These instructions form the core operational framework and MUST be loaded before all others:
+
+1. **`game_state_instruction.md`** - State management protocol, JSON input/output schemas, and entity structures
+   - Authority over: All state updates, data persistence, timeline management, entity structures, JSON input validation
+   - Critical because: Without proper state management and structured communication, nothing else functions
+   - Includes JSON input schema for structured LLM communication
+
+2. **D&D 5E SRD Authority** (defined in this file, "D&D 5E SRD System Authority" section)
+   - Authority over: All combat, attributes, spells, and mechanical resolution
+   - Critical because: Establishes single mechanical system authority
+
+### 2. CORE MECHANICS (Load Second)
+These define the fundamental game rules:
+
+3. **`mechanics_system_instruction.md`** - System integration
+   - Authority over: Character design (when mechanics enabled), dice rolling, leveling tiers, mechanical processes
+   - Defers to: dnd_srd_instruction.md for core mechanics
+   - Special role: Triggers mandatory character design when mechanics checkbox is selected
+
+### 3. NARRATIVE FRAMEWORK (Load Third)
+These guide storytelling and interaction:
+
+4. **`narrative_system_instruction.md`** - Storytelling protocol
+   - Authority over: Think blocks, narrative flow, story progression
+   - Must respect: State management and mechanics from above
+
+### 3. TEMPLATES (Load When Needed)
+These are reference formats:
+
+5. **`character_template.md`** - Character personality and narrative d...
+2026-04-15 03:30:02,761 - root - INFO - campaign_id=generated-id-1 | 📤 RAW_REQUEST (4540 chars; logged up to 20000): {"game_mode": "character", "user_id": "test-user-char-creation-turn1", "selected_prompts": [], "use_default_world": false, "story_history": [{"actor": "user", "mode": "god", "text": "Character: ser arion val valerion | Setting: World of Assiah\n**Your Character:**\n- **Name:** Ser Arion val Valerion\n- **Age:** 16\n- **Class:** Level 1 Paladin (Oath of the Crown)\n- **Alignment:** Neutral (Lawful Neutral leaning)\n\n**Default Build (Level 1 Paladin):**\n- **Stats:** Str 16, Con 14, Cha 16", "sequence_id": 1}, {"actor": "gemini", "text": "[CHARACTER CREATION]\n\nWelcome! I see you have a pre-defined character template. Let's review and finalize your character before we begin the adventure.\n\n**Your Character So Far:**\n- **Name:** (From template)\n- **Class:** (From template)\n- **Level:** (From template)\n\n**Questions to Complete Your Character:**\n\n1. **Race:** What race is your character? (Human, Elf, Dwarf, Halfling, Dragonborn, etc.)\n2. **Background:** What was your character's life before this adventure? (Noble, Soldier, Acolyte, Folk Hero, etc.)\n3. **Alignment:** What alignment best fits your character?\n4. **Personality:** What drives your character? What are their ideals, bonds, and flaws?\n\nTake your time! Once we finalize these details, we'll begin your epic adventure.", "sequence_id": 2}], "core_memories": [], "sequence_ids": ["1", "2"], "checkpoint_block": "[CHECKPOINT BLOCK:]\\nSequence ID: 2 | Location: Unknown\\nMissions: None\\n", "entity_tracking": {"active_entities": [], "present_entities": [], "dormant_entities": []}, "game_state": {"game_state_version": 1, "player_character_data": {"name": "ser arion val valerion", "level": 1, "class": "Paladin", "base_attributes": {"strength": 16, "constitution": 14, "charisma": 16}, "attributes": {"strength": 16, "constitution": 14, "charisma": 16}, "hp_max": 12, "hp_current": 12, "ac": 20, "equipment": {"backpack": [{"name": "Backpack", "stats": null, "equipped": false}, {"name": "Bedroll", "stats": null, "equipped": false}, {"name": "Mess kit", "stats": null, "equipped": false}, {"name": "Tinderbox", "stats": null, "equipped": false}, {"name": "Torch", "stats": "10", "equipped": false}, {"name": "Rations", "stats": "10 days", "equipped": false}, {"name": "Waterskin", "stats": null, "equipped": false}, {"name": "Rope", "stats": "50 feet", "equipped": false}, {"name": "Coin pouch", "stats": "10gp", "equipped": false}]}}, "world_data": {}, "item_registry": {}, "custom_campaign_state": {"attribute_system": "D&D", "character_creation_in_progress": false, "character_creation_completed": true, "character_creation_stage": "complete", "god_mode": {"setting": "World of Assiah\n**Your Character:**\n- **Name:** Ser Arion val Valerion\n- **Age:** 16\n- **Class:** Level 1 Paladin (Oath of the Crown)\n- **Alignment:** Neutral (Lawful Neutral leaning)\n\n**Default Build (Level 1 Paladin):**\n- **Stats:** Str 16, Con 14, Cha 16", "character": {"name": "ser arion val valerion", "level": 1, "class": "Paladin", "base_attributes": {"strength": 16, "constitution": 14, "charisma": 16}, "attributes": {"strength": 16, "constitution": 14, "charisma": 16}, "hp_max": 12, "hp_current": 12, "ac": 20}}, "arc_milestones": {}, "companion_arcs": {}, "next_companion_arc_turn": 3, "active_constraints": [], "campaign_tier": "mortal", "divine_potential": 0, "universe_control": 0, "divine_upgrade_available": false, "multiverse_upgrade_available": false, "faction_minigame": {"suggestion_given": false, "strong_suggestion_given": false}, "_agent_selection_tracker": {"agent": "StoryModeAgent", "count": 1, "rewards_skip_count": 0}}, "social_hp_challenge": null, "combat_state": {"in_combat": false}, "last_state_update_timestamp": "2026-04-15T03:30:02.756187+00:00", "turn_number": 0, "player_turn": 0, "last_living_world_turn": 0, "last_living_world_time": null, "time_sensitive_events": {}, "npc_agendas": {}, "world_resources": {}, "time_pressure_warnings": {}, "debug_mode": true, "pending_instruction_hints": [], "user_id": "test-user-char-creation-turn1", "entity_tracking": {"active_entities": ["ser arion val valerion"], "present_entities": []}, "session_id": "legacy-migrated-5773d3c2eab61d8f", "schema_migration_version": 1, "schema_migrated_at": "2026-04-15T03:30:02.756850+00:00", "user_settings": {}, "campaign_id": "generated-id-1"}, "user_action": "Let's begin the adventure!\n\n[SYSTEM ENFORCEMENT: For ANY dice roll, you MUST use the code_execution tool with random.randint(). Your code will be inspected. Fabricated dice = rejection.]"}
+2026-04-15 03:30:02,761 - root - INFO - campaign_id=generated-id-1 | 📥 RAW_RESPONSE (410 chars; logged up to 20000): {"narrative": "[SCENE 1]\n\nThe adventure begins in the World of Assiah, where Ser Arion val Valerion stands ready to fulfill his oath...\n\nThe streets of Valerion are quiet tonight. A patrol of city watch passes by, their armor gleaming in the torchlight.\n\nWhat would you like to do, Ser Arion?", "entities_mentioned": ["Ser Arion val Valerion", "World of Assiah"], "location_confirmed": "World of Assiah"}
+2026-04-15 03:30:02,762 - root - INFO - campaign_id=generated-id-1 | 📊 PARSED_RESPONSE: narrative_length=277, structured_response=present, raw_response_length=410
+2026-04-15 03:30:02,762 - root - INFO - campaign_id=generated-id-1 | Comprehensive validation: 1/1 found, confidence: 1.00, warnings: 0
+2026-04-15 03:30:02,762 - root - INFO - campaign_id=generated-id-1 | NarrativeSyncValidator delegated to EntityValidator: 1/1 found
+2026-04-15 03:30:02,762 - root - WARNING - ⚠️ campaign_id=generated-id-1 | ⚠️ PLANNING_BLOCK_MISSING: Story mode response missing required planning block. The LLM should have generated this - no fallback will be used.
+2026-04-15 03:30:02,762 - root - INFO - campaign_id=generated-id-1 | 📝 FINAL_RESPONSE: narrative_length=277, has_structured_response=True
+2026-04-15 03:30:02,762 - root - INFO - campaign_id=generated-id-1 | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.00s
+2026-04-15 03:30:02,762 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:02,762 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:02,762 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:02,763 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:02,763 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:02,763 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:02,763 - root - INFO - campaign_id=generated-id-1 | 🌍 LIVING_WORLD: Recorded trigger for turn 1 (turn (1 turns))
+2026-04-15 03:30:02,763 - root - WARNING - ⚠️ campaign_id=generated-id-1 | 🌍 LIVING_WORLD_MISSING: world_events absent on turn 1 (mode=character agent_mode=character). Living world instruction fires every turn — LLM did not include state_updates.world_events.
+2026-04-15 03:30:02,763 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:02,763 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:02,763 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:02,763 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:02,763 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:02,763 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:02,763 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:02,763 - root - INFO - campaign_id=generated-id-1 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:02,763 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:02,763 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:02,763 - root - INFO - campaign_id=generated-id-1 | ⏱️ LATENCY_PERSIST_START: Persisting state and story to Firestore
+2026-04-15 03:30:02,763 - root - INFO - campaign_id=generated-id-1 | Successfully set new game state for campaign generated-id-1.
+2026-04-15 03:30:02,764 - root - INFO - campaign_id=generated-id-1 | ✅ Write-then-read (mock mode): user=test-user-char-creation-turn1, campaign=generated-id-1, actor=user
+2026-04-15 03:30:02,764 - root - INFO - campaign_id=generated-id-1 | ✅ Write-then-read (mock mode): user=test-user-char-creation-turn1, campaign=generated-id-1, actor=gemini
+2026-04-15 03:30:02,764 - root - INFO - campaign_id=generated-id-1 | ⏱️ LATENCY_PERSIST_END: Firestore persistence completed in 0.00s
+2026-04-15 03:30:02,764 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:02,764 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:02,764 - root - WARNING - ⚠️ campaign_id=generated-id-1 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:02,764 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:02,764 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:02,764 - root - WARNING - ⚠️ campaign_id=generated-id-1 | SYSTEM WARNING: Missing action_resolution field (required for player actions)
+2026-04-15 03:30:02,764 - root - WARNING - ⚠️ campaign_id=generated-id-1 | SYSTEM WARNING: Missing required planning block
+2026-04-15 03:30:02,764 - root - INFO - campaign_id=generated-id-1 | ⏱️ LATENCY_END: process_action_unified completed in 0.01s
+2026-04-15 03:30:02,764 - root - INFO - campaign_id=generated-id-1 | ⏱️ LATENCY_FINAL: Total processing time 0.01s
+2026-04-15 03:30:02,764 - root - INFO - DEBUG: MCP process_action returned result: True
+2026-04-15 03:30:02,764 - root - INFO - MCP process_action result keys: ['success', 'story', 'narrative', 'response', 'game_state', 'mode', 'user_input', 'state_cleaned', 'entries_cleaned', 'sequence_id', 'user_scene_number', 'debug_mode', 'agent_mode', 'agent_used', 'budget_warnings', 'processing_metadata', 'raw_request_payload', 'raw_response_text', 'state_updates', 'entities_mentioned', 'location_confirmed', 'session_header', 'planning_block', 'dice_rolls', 'dice_audit_events', 'resources', 'tool_requests', 'action_resolution', 'outcome_resolution', 'debug_info', 'social_hp_challenge', 'system_warnings']
+2026-04-15 03:30:02,764 - root - INFO - Story field type: <class 'list'>, length: 1
+.
+----------------------------------------------------------------------
+Ran 2 tests in 0.044s
+
+OK
+RESULT: PASS
+DURATION: 2s
+END: 2026-04-15 03:30:03

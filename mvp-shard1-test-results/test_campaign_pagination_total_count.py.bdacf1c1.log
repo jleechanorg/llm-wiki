@@ -1,0 +1,36 @@
+TESTFILE: mvp_site/tests/test_campaign_pagination_total_count.py
+START: 2026-04-15 03:29:48
+2026-04-15 03:29:48,280 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:29:48,371 - root - INFO - Applied clock skew patch: adjusting time by -720 seconds
+2026-04-15 03:29:49,136 - root - INFO - Loading service account from file: /dev/null
+2026-04-15 03:29:49,137 - root - WARNING - ⚠️ Failed to load credentials from file /dev/null: Expecting value: line 1 column 1 (char 0)
+2026-04-15 03:29:49,137 - root - INFO - Attempting to load service account from environment variables
+2026-04-15 03:29:49,137 - root - WARNING - ⚠️ Failed to load credentials from env vars: Missing required environment variables: GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY. Please set these variables in your environment (.env file, Claude.ai project settings, or GitHub Secrets). See module docstring for detailed instructions.
+2026-04-15 03:29:49,137 - root - WARNING - ⚠️ Failed to load explicit credentials: Failed to load service account credentials from any source. File path '/dev/null' not found or invalid. Environment variables missing or incomplete (need GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY).. Attempting default application credentials.
+2026-04-15 03:29:49,137 - root - INFO - Firebase initialized successfully in world_logic.py
+============================= test session starts ==============================
+platform linux -- Python 3.12.3, pytest-9.0.3, pluggy-1.6.0 -- /_work/worldarchitect.ai/worldarchitect.ai/venv/bin/python3
+cachedir: .pytest_cache
+rootdir: /_work/worldarchitect.ai/worldarchitect.ai/mvp_site
+configfile: pytest.ini
+plugins: cov-7.1.0, anyio-4.13.0, testmon-2.2.0, timeout-2.4.0
+collecting ... collected 7 items
+
+mvp_site/tests/test_campaign_pagination_total_count.py::TestCampaignPaginationTotalCount::test_total_count_included_on_first_page PASSED [ 14%]
+mvp_site/tests/test_campaign_pagination_total_count.py::TestCampaignPaginationTotalCount::test_total_count_not_included_on_subsequent_pages PASSED [ 28%]
+mvp_site/tests/test_campaign_pagination_total_count.py::TestCampaignPaginationTotalCount::test_firestore_include_total_count_parameter SKIPPED [ 42%]
+mvp_site/tests/test_campaign_pagination_total_count.py::TestCampaignPaginationTotalCount::test_firestore_total_count_not_calculated_on_subsequent_pages SKIPPED [ 57%]
+mvp_site/tests/test_campaign_pagination_total_count.py::TestCampaignPaginationTotalCount::test_firestore_total_count_fallback_on_aggregation_failure SKIPPED [ 71%]
+mvp_site/tests/test_campaign_pagination_total_count.py::TestCampaignPaginationTotalCount::test_firestore_total_count_fallback_on_unparseable_aggregation_result PASSED [ 85%]
+mvp_site/tests/test_campaign_pagination_total_count.py::TestCampaignPaginationTotalCount::test_total_count_preserved_across_pages PASSED [100%]
+
+=============================== warnings summary ===============================
+venv/lib/python3.12/site-packages/_pytest/config/__init__.py:1309
+  /_work/worldarchitect.ai/worldarchitect.ai/venv/lib/python3.12/site-packages/_pytest/config/__init__.py:1309: PytestAssertRewriteWarning: Module already imported so cannot be rewritten; anyio
+    self._mark_plugins_for_rewrite(hook, disable_autoload)
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+=================== 4 passed, 3 skipped, 1 warning in 0.05s ====================
+RESULT: PASS
+DURATION: 1s
+END: 2026-04-15 03:29:49
