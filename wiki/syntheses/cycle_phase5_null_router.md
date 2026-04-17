@@ -1,13 +1,20 @@
 ---
-title: "Phase 5 — Null Result: Router Adds No Significant Value"
+title: "Phase 5 — Null Result: Router Adds No Significant Value (PROVISIONAL — n=1 per cell)"
 type: synthesis
 last_updated: 2026-04-17
 run_session: null-result-20260417
+provisional_sample_size: 1
+plan_mandated_sample_size: 3
+status: provisional-pending-n3
 ---
+
+## ⚠️ Provisional — executed at n=1 not n=3
+
+`research-wiki/plans/matched_corpus_prs.md` mandates **n=3 per (PR, technique) cell**. `technique_bandit/bandit_state.json` currently stores **n=1** for every corpus cell ({6265, 6261, 6245, 6243, 6269} × {SR, ET, PRM}). With rubric noise ≈ 3 points stddev and all techniques clustering within ~5 pts of an ~87 ceiling, both the reversal count and the uplift number below are within measurement noise. Do **not** treat this synthesis as final until samples 2 and 3 per cell are scored and uplift is recomputed. Corresponding beads `br-bqo/vpr/4kn/8jh/mkc` remain in-progress. `br-5bj` should not have been closed on n=1 evidence.
 
 ## Summary
 
-Matched corpus experiment tested whether a PR-type → technique router could beat always-picking the best-mean technique (SelfRefine). **Answer: No.** Oracle uplift is only 1.0 rubric points — below the 2.0-point threshold needed to justify router infrastructure.
+Matched corpus experiment tested whether a PR-type → technique router could beat always-picking the best-mean technique (SelfRefine). **Provisional answer at n=1: No.** Oracle uplift is only 1.0 rubric points — below the 2.0-point threshold needed to justify router infrastructure.
 
 ## Methodology
 
