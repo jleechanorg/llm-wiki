@@ -1,3 +1,6 @@
+## [2026-04-17] autor | PRM autor PR #6340 created — recreation of #6261 (robust numeric extraction); PRM technique with step-by-step reasoning; scored 77/100; bandit updated PRM n=10 mean=81.4
+## [2026-04-16] ingest | 7 merged PRs ingested — PRs #6325, #6309, #6291, #6279, #6275, #6269, #6266 — CI workflow, grep fixes, 6-dim scoring, level-up bug fixes
+## [2026-04-16] ingest | 4 merged PRs ingested — PR #6325 (remove design_doc_gate), PR #6309 (grep POSIX fix), PR #6291 (add design_doc_gate), PR #6279 (6-dim scoring rubric)
 ## [2026-04-16] ingest | Harness Fix PRs Late Update 2026-04-16 Late — PR #6308 test fixes pushed (d218d4857a: skip→expectedFailure, DRY refactor); CR stale line refs on PR #6308 (line refs from pre-refactor diff don't match current code); 2 new concept pages: CodeRabbitDismissedPattern + CodeRabbitStaleLineRefs
 ## [2026-04-16] ingest | Phase 3 Auto-Research Concept Pages — 5 concept pages: AutoResearchConvergenceOracle (why all 3 techniques converge to ~87, convergence criteria: n≥10, stddev<5, winner>80%), TechniqueSelectionOracle (Thompson bandit, already in index), CodeRabbitDismissedPattern (CR DISMISSED requires substantive push), CodeRabbitStaleLineRefs (CR line refs go stale after large refactors), ZeroRunnersCIStuck (self-hosted runner outage blocks CI green-gate + skeptic-gate)
 ## [2026-04-15] ingest | Governance Layer Design BFS — source page: 3-component governance (Skeptic + Evidence Validator + Policy Engine), GitOps approval, fail-closed Confluent model, RLAIF feedback loops, Stream Governance as design model
@@ -3599,3 +3602,4 @@ SelfRefine #6277: 8.1/10. PRM #6275: 6.25/10. ExtendedThinking #6276: 6.45/10. S
 - **Type**: synthesis
 - **Summary**: Phase 3: All 3 techniques converge to ~87 (SelfRefine n=17 mean 84.8, ET n=12 mean 82.5, PRM n=5 mean 79.1). Held-out validation: autor PR #6330 SelfRefine scored 91/100 (+4 vs original #6287 est. 87/100). Hypothesis doc addendum: #6330 improved docstring (+2) and naming (+2) but introduced architectural inconsistency (−1: kept normalize_rewards_box in banned list). 5 remaining autor PRs (#6331-#6335) need scoring.
 - **Files**: wiki/syntheses/cycle_phase3_hypothesis.md (updated with held-out addendum)
+## [2026-04-16] phase4 | Phase 4 final synthesis created
