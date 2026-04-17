@@ -1,0 +1,73 @@
+---
+title: "PRM autor PR #6340 - Robust Numeric Extraction"
+type: synthesis
+tags: [prm, autor, rewards, numeric-extraction]
+last_updated: 2026-04-17
+run_session: prm-WA-006
+---
+
+# PRM Run Log — PR #6340 (Recreating PR #6261)
+
+## PRM Steps
+
+### Step 1: Root Cause Diagnosis (9/10)
+**Reasoning**: Two-layer problem identified:
+1. DefensiveNumericConverter uses `int(value)` — fails on strings like "500 XP"
+2. world_logic.py uses `coerce_int()` — doesn't handle LLM hallucinated strings
+
+**Verdict**: CORRECT — identified both layers correctly.
+
+### Step 2: Fix DefensiveNumericConverter (9/10)
+Added regex-based extraction in convert_value:
+- `re.search(r"[-+]?[0-9]*\.?[0-9]+", value_no_commas)`
+- Handles "500 XP", "1,000", "10/20", "No Armor (10)"
+- Added OverflowError to exception clause
+
+**Verdict**: CORRECT — same as original PR.
+
+### Step 3: Fix world_logic.py (8/10)
+Added `_get_raw` helper with fallback key logic:
+- Skips None, empty strings, 0/0.0, NaN/inf
+- Returns first valid non-zero finite value
+- Replaced coerce_int with _DNC.convert_value
+
+**Verdict**: CORRECT — but kept _get_raw helper (original used `or` chaining instead).
+
+### Step 4: Unit Tests (9/10)
+Created test_defensive_numeric_central_robustness.py:
+- 7 tests: HP, XP/Gold, AC, fallbacks, recursive dicts, signed numbers, floats
+- All 7 passing
+
+**Verdict**: CORRECT.
+
+### Step 5: E2E Test (8/10)
+Created test_rewards_box_robustness.py:
+- Internal unit tests scenario
+- E2E hallucination provocation scenario
+
+**Verdict**: GOOD but E2E requires live MCP server.
+
+## Total PRM Score: 43/50
+
+## 6-Dimension Rubric Score: 78/100
+
+| Dimension | Score |
+|-----------|-------|
+| NAMING (15%) | 13 |
+| ERROR_HANDLING (20%) | 17 |
+| TYPE_SAFETY (20%) | 12 |
+| ARCHITECTURE (20%) | 15 |
+| TEST_COVERAGE (15%) | 13 |
+| DOCUMENTATION (10%) | 8 |
+
+## Delta vs Original PR #6261: -2
+
+## Bandit Update
+- PRM n=9, mean=81.7, α=8.3, β=4.8
+- Bandit state: SelfRefine 83.8/26, ET 82.5/12, PRM 81.7/9
+
+## Files Changed
+- mvp_site/schemas/defensive_numeric_converter.py: +15 -3
+- mvp_site/tests/test_defensive_numeric_central_robustness.py: +87
+- mvp_site/world_logic.py: +54 -10
+- testing_mcp/test_rewards_box_robustness.py: +116
