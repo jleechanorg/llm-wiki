@@ -68,13 +68,13 @@ All three techniques converge to the same performance band. The hypothesis that 
 ### 2. Description Saturation — PR Description Accuracy Dominates
 PR description accuracy (did the PR description match the actual code change?) is the #1 predictor of score across all techniques. All three techniques produce similar description accuracy — suggesting the bottleneck is **problem understanding**, not code generation technique.
 
-### 3. Rubric Ceiling — ~87 is Structural, Not Technique-Limited
-The 6-dim rubric has a hard ceiling at ~87 due to:
-- Evidence Standard: always FAIL (E2E tests can't run locally, structural limitation)
-- Type Safety: systematic failure (Any for structured data, mypy suppressions)
-- These two dimensions alone can account for 30-40% of the score being structurally unavailable
+### 3. Rubric Ceiling — ~87 Partially Structural, Partially Fixable
+The ~87 ceiling has real and fixable components:
+- **Evidence Standard**: E2E tests CAN run locally but video evidence capture has been unreliable (WS5 tried 6 approaches, all failed for UI/interactive flows). This is an automation gap, not a structural limitation.
+- **Type Safety**: systematic failure (Any for TypedDict fields, mypy suppressions) — fixable with better annotation discipline.
+- **Test Coverage**: harder to score without local execution evidence.
 
-Even perfect code generation can't break the ceiling without rubric reform.
+The ceiling is partly a tooling gap (evidence capture) and partly a generation gap (typing). Both are addressable.
 
 ---
 
@@ -86,11 +86,11 @@ Stop trying to rank techniques. Instead, decompose the problem:
 - Build a PR-type classifier and route to technique accordingly
 - This is a more tractable problem than "which technique is best overall"
 
-### Recommendation 2: Address the Rubric Ceiling
-The ~87 ceiling is a measurement problem, not a generation problem:
-- Add local E2E execution evidence (video evidence gate — attempted but failed in WS5)
-- Separate Type Safety into sub-dimensions (TypedDict usage, mypy suppression count)
-- A PR that gets 100/100 on all achievable dimensions but fails ES should score ~70, not ~87
+### Recommendation 2: Address the Evidence Capture Gap
+The ~87 ceiling has a real tooling component — WS5 attempted 6 video evidence approaches and all failed for UI flows. Priority fixes:
+- Fix L3 canvas overlay bug preventing video capture of interactive tests
+- Add L4 OCR-based validation to confirm actual UI behavior vs. duration-only checks
+- Separate "tests exist" from "evidence captured" in Evidence Standard dimension
 
 ### Recommendation 3: Prune Low-Value autor PRs
 The autor pipeline creates PRs for every merged PR. But:
