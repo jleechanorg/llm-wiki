@@ -1,0 +1,67 @@
+{
+  "6265": {
+    "technique": "PRM",
+    "total": 82,
+    "breakdown": {
+      "naming": 12,
+      "error_handling": 16,
+      "type_safety": 17,
+      "architecture": 15,
+      "test_coverage": 12,
+      "documentation": 10
+    },
+    "notes": "Good fallback logic with xp→xp_gained and gold_pieces→gold mapping. Clean conditional with explicit is not None check. Misleading 'passthrough' terminology (not actually passthrough). Type annotations present. E2E test added."
+  },
+  "6261": {
+    "technique": "PRM",
+    "total": 88,
+    "breakdown": {
+      "naming": 14,
+      "error_handling": 18,
+      "type_safety": 18,
+      "architecture": 17,
+      "test_coverage": 14,
+      "documentation": 7
+    },
+    "notes": "Excellent DefensiveNumericConverter class with robust handling of messy formats. Comprehensive unit tests for edge cases. Clean separation of concerns. Fallback chain is well-designed. Minor docs gap in the class docstring."
+  },
+  "6245": {
+    "technique": "PRM",
+    "total": 79,
+    "breakdown": {
+      "naming": 13,
+      "error_handling": 16,
+      "type_safety": 16,
+      "architecture": 14,
+      "test_coverage": 11,
+      "documentation": 9
+    },
+    "notes": "Good unified extract_character_xp(). Fixed xp_from_combat with explicit is not None check. State flag widening done correctly. Some duplication in game_state.py remains. Tests for state flags but missing edge case coverage."
+  },
+  "6243": {
+    "technique": "PRM",
+    "total": 84,
+    "breakdown": {
+      "naming": 14,
+      "error_handling": 17,
+      "type_safety": 17,
+      "architecture": 16,
+      "test_coverage": 12,
+      "documentation": 8
+    },
+    "notes": "Clean widening of state flag semantics. Excellent isinstance check avoids bool/int confusion. Comprehensive tests for acceptance/rejection. Good explicit type handling. Minor docs gap."
+  },
+  "6269": {
+    "technique": "PRM",
+    "total": 70,
+    "breakdown": {
+      "naming": 10,
+      "error_handling": 15,
+      "type_safety": 15,
+      "architecture": 12,
+      "test_coverage": 3,
+      "documentation": 7
+    },
+    "notes": "Good CR fallback logic chain. Fixed set +/-e errors. Cleaned up CR filter. Significant whitespace regex fix. Shell-specific: tests not applicable, but overall structure is sound."
+  }
+}
