@@ -1,0 +1,26 @@
+{
+  "techniques": {
+    "PRM": {
+      "n": 9,
+      "scores": [82, 85, 87, 79, 88, 84, 83, 86, 83],
+      "mean": 84.1,
+      "commit_sha": "792bfacea",
+      "pr": 6345,
+      "last_updated": "2026-04-16T22:21:00Z",
+      "notes": "PRM WA-007 for PR #6258 stabilization"
+    }
+  },
+  "rubric_scores": {
+    "6345": {
+      "naming": 12,
+      "error_handling": 16,
+      "type_safety": 18,
+      "architecture": 16,
+      "test_coverage": 12,
+      "documentation": 9,
+      "total": 83,
+      "breakdown": "Constants well-named; error handling from PR#6258 preserved; dynamic multiplier improves type safety; clean architecture with class-level constants"
+    }
+  },
+  "last_updated": "2026-04-16T22:21:00Z"
+}
