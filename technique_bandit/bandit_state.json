@@ -4,7 +4,7 @@
       "n": 0,
       "scores": [],
       "mean": 0,
-      "last_updated": "2026-04-17T15:10:09.041012+00:00",
+      "last_updated": "2026-04-17T15:10:51.163050+00:00",
       "notes": "ET matched corpus batch run"
     },
     "PRM": {
@@ -115,7 +115,24 @@
           "technique": "ET"
         }
       ]
+    },
+    "6269": {
+      "ET": [
+        {
+          "total": null,
+          "naming": null,
+          "error_handling": null,
+          "type_safety": null,
+          "architecture": null,
+          "test_coverage": null,
+          "documentation": null,
+          "breakdown": "ET autor PR run_id=ET_6269_20260417T151009Z",
+          "commit_sha": "ET_6269_",
+          "run_session": "58c72f24",
+          "technique": "ET"
+        }
+      ]
     }
   },
-  "last_updated": "2026-04-17T15:10:09.041263+00:00"
+  "last_updated": "2026-04-17T15:10:51.163084+00:00"
 }
