@@ -160,3 +160,27 @@ When running experiments (auto-research, benchmark, technique tests):
 - Cycle file frontmatter must include `run_session`
 
 **If results appear pre-existing and unverifiable**: Say "Cannot confirm live execution — re-run required" and run the experiment fresh.
+
+---
+
+## Router Prerequisite Gate (MANDATORY before any router work)
+
+Any work that implements a PR-type → technique router (bead `br-5bj` and successors) MUST first clear:
+
+```bash
+python3 scripts/validate_router_prereqs.py
+# exit 0 → unblocked; exit 1 → blocked; exit 2 → input error
+```
+
+**Why this gate exists:** All three techniques (SelfRefine, Extended Thinking, PRM) converge within rubric noise (~81-85, CIs overlap). A router can only add value if matched-PR evidence shows ranking reversals — i.e. technique A beats B on PR X while B beats A on PR Y. Bandit means on *different* PR sets cannot prove this, because the variance could be PR-specific, not technique-specific.
+
+**What the gate enforces (do NOT soften these thresholds without user approval):**
+- ≥ 5 PRs scored by ALL tracked techniques (rubric_scores entries must carry an explicit `technique` field so matches are unambiguous).
+- ≥ 2 ranking reversals across technique pairs.
+
+**If the gate fails:**
+1. Do NOT write router code. Do NOT open a router PR.
+2. Open or continue the matched-corpus task first: pick 5 PRs, run SR + ET + PRM on each, append to `technique_bandit/bandit_state.json` with proper `technique` fields.
+3. Re-run the gate. Proceed only when exit 0.
+
+This rule exists because an earlier session recommended "build the router" based on convergent means on disjoint PR sets — a structural fallacy. The gate is deliberately dumb so smaller/weaker models cannot rationalize around it.
