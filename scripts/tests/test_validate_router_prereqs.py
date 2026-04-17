@@ -123,6 +123,71 @@ def test_matched_table_requires_same_pr_id():
     assert matched == {}
 
 
+def test_nested_schema_cell_mean():
+    """Nested schema: rubric_scores[pr][tech] = [row1, row2, row3] aggregates to mean."""
+    state = _state(
+        {
+            "PR1": {
+                "SR": [{"total": 90}, {"total": 88}, {"total": 92}],
+                "ET": [{"total": 80}, {"total": 82}, {"total": 78}],
+            }
+        }
+    )
+    matched = gate.build_matched_table(state)
+    assert "PR1" in matched
+    assert matched["PR1"]["SR"] == pytest.approx(90.0)
+    assert matched["PR1"]["ET"] == pytest.approx(80.0)
+
+
+def test_nested_schema_ignores_cells_without_numeric_totals():
+    state = _state(
+        {
+            "PR1": {
+                "SR": [{"total": "not-a-number"}, {"no_total": True}],
+                "ET": [{"total": 82}],
+                "PRM": [{"total": 70}],
+            }
+        }
+    )
+    matched = gate.build_matched_table(state)
+    assert set(matched["PR1"].keys()) == {"ET", "PRM"}
+
+
+def test_nested_schema_five_prs_passes_gate():
+    """5 PRs x 3 techniques x n=3 rows each with reversals -> gate passes."""
+    rubric = {}
+    score_matrix = {
+        "PR1": {"SR": [90, 91, 92], "ET": [80, 81, 79], "PRM": [85, 84, 86]},
+        "PR2": {"SR": [70, 71, 72], "ET": [85, 86, 84], "PRM": [88, 87, 89]},
+        "PR3": {"SR": [92, 91, 93], "ET": [75, 76, 74], "PRM": [70, 71, 69]},
+        "PR4": {"SR": [60, 61, 59], "ET": [90, 89, 91], "PRM": [95, 94, 96]},
+        "PR5": {"SR": [88, 87, 89], "ET": [84, 85, 83], "PRM": [70, 71, 72]},
+    }
+    for pr_id, techs in score_matrix.items():
+        rubric[pr_id] = {t: [{"total": s} for s in scores] for t, scores in techs.items()}
+    state = _state(rubric)
+    report = gate.evaluate(state, min_matched=5, min_reversals=2)
+    assert report["passed"] is True
+    assert report["matched_prs"] == 5
+    assert report["reversals"] >= 2
+
+
+def test_mixed_flat_and_nested_schema():
+    """Legacy flat entries and new nested entries can coexist in rubric_scores."""
+    state = _state(
+        {
+            "LEGACY1": {"technique": "SR", "total": 85},  # flat, no match (only 1 tech)
+            "PR1": {
+                "SR": [{"total": 90}],
+                "ET": [{"total": 80}],
+            },
+        }
+    )
+    matched = gate.build_matched_table(state)
+    assert "LEGACY1" not in matched  # single-technique flat entry dropped
+    assert matched["PR1"] == {"SR": 90.0, "ET": 80.0}
+
+
 def test_real_current_state_file_fails_gate():
     """Regression guard: today's bandit_state.json must NOT pass the gate.
 

@@ -52,25 +52,59 @@ def load_state(path: Path) -> dict[str, Any]:
     return json.loads(path.read_text())
 
 
+def _cell_mean(rows: list[Any]) -> float | None:
+    """Average the `total` field across a list of rubric rows.
+
+    Ignores rows without a numeric `total`. Returns None if no rows contribute.
+    """
+    totals = [
+        float(row["total"])
+        for row in rows
+        if isinstance(row, dict) and isinstance(row.get("total"), (int, float))
+    ]
+    if not totals:
+        return None
+    return sum(totals) / len(totals)
+
+
 def build_matched_table(state: dict[str, Any]) -> dict[str, dict[str, float]]:
     """Return {pr_id: {technique: score}} for PRs scored by 2+ techniques.
 
-    A PR "match" requires the same pr_id to appear in the per-technique
-    records AND in rubric_scores with a total. Techniques lists raw scores
-    without PR mapping, so this gate treats rubric_scores as the authoritative
-    matched table: each rubric entry must include a "technique" field for it
-    to count. Any rubric entry without an explicit technique is ignored.
+    Supports two schemas so the gate keeps working as n=3 per-cell data lands:
+
+    1. Flat (legacy, n=1):
+        rubric_scores[pr_id] = {"technique": "<T>", "total": <float>, ...}
+    2. Nested (n>=1 per cell):
+        rubric_scores[pr_id][<T>] = [{"total": <float>, ...}, ...]
+       The cell value is the mean of the `total` fields. A cell contributes
+       iff at least one row has a numeric total.
+
+    Flat entries without an explicit technique are ignored. PRs scored by
+    fewer than 2 techniques are dropped so the reversal count is unambiguous.
     """
     rubric = state.get("rubric_scores", {}) or {}
     table: dict[str, dict[str, float]] = {}
     for pr_id, entry in rubric.items():
         if not isinstance(entry, dict):
             continue
-        technique = entry.get("technique")
-        total = entry.get("total")
-        if not technique or not isinstance(total, (int, float)):
+
+        # Flat schema: {"technique": ..., "total": ...}
+        if "technique" in entry and "total" in entry:
+            technique = entry.get("technique")
+            total = entry.get("total")
+            if technique and isinstance(total, (int, float)):
+                table.setdefault(str(pr_id), {})[str(technique)] = float(total)
             continue
-        table.setdefault(str(pr_id), {})[str(technique)] = float(total)
+
+        # Nested schema: {<technique>: [rows, ...], ...}
+        for technique, rows in entry.items():
+            if not isinstance(rows, list):
+                continue
+            mean = _cell_mean(rows)
+            if mean is None:
+                continue
+            table.setdefault(str(pr_id), {})[str(technique)] = mean
+
     return {pr: row for pr, row in table.items() if len(row) >= 2}
 
 
