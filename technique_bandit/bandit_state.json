@@ -1,10 +1,16 @@
 {
   "techniques": {
     "ET": {
-      "n": 0,
-      "scores": [],
-      "mean": 0,
-      "last_updated": "2026-04-17T15:10:51.163050+00:00",
+      "n": 5,
+      "scores": [
+        81,
+        85,
+        78,
+        89,
+        78
+      ],
+      "mean": 82.2,
+      "last_updated": "2026-04-17T15:11:58.471247+00:00",
       "notes": "ET matched corpus batch run"
     },
     "PRM": {
@@ -62,6 +68,19 @@
           "commit_sha": "ET_6265_",
           "run_session": "58c72f24",
           "technique": "ET"
+        },
+        {
+          "total": 81,
+          "naming": 12,
+          "error_handling": 16,
+          "type_safety": 16,
+          "architecture": 16,
+          "test_coverage": 13,
+          "documentation": 8,
+          "breakdown": "P0 fix: unconditional normalization call, graceful LLM key fallbacks, integration test added",
+          "commit_sha": "et-6265",
+          "run_session": "et-manual-20260417",
+          "technique": "ET"
         }
       ]
     },
@@ -78,6 +97,19 @@
           "breakdown": "ET autor PR run_id=ET_6261_20260417T150827Z",
           "commit_sha": "ET_6261_",
           "run_session": "58c72f24",
+          "technique": "ET"
+        },
+        {
+          "total": 85,
+          "naming": 13,
+          "error_handling": 17,
+          "type_safety": 17,
+          "architecture": 17,
+          "test_coverage": 13,
+          "documentation": 8,
+          "breakdown": "Refactor: regex-based numeric extraction in DefensiveNumericConverter, removed redundant helpers",
+          "commit_sha": "et-6261",
+          "run_session": "et-manual-20260417",
           "technique": "ET"
         }
       ]
@@ -96,6 +128,19 @@
           "commit_sha": "ET_6245_",
           "run_session": "58c72f24",
           "technique": "ET"
+        },
+        {
+          "total": 78,
+          "naming": 12,
+          "error_handling": 16,
+          "type_safety": 15,
+          "architecture": 16,
+          "test_coverage": 12,
+          "documentation": 7,
+          "breakdown": "Bug fix: widened boolean coercion, integrated legacy XP parsing, unified XP extraction",
+          "commit_sha": "et-6245",
+          "run_session": "et-manual-20260417",
+          "technique": "ET"
         }
       ]
     },
@@ -112,6 +157,19 @@
           "breakdown": "ET autor PR run_id=ET_6243_20260417T150906Z",
           "commit_sha": "ET_6243_",
           "run_session": "58c72f24",
+          "technique": "ET"
+        },
+        {
+          "total": 89,
+          "naming": 14,
+          "error_handling": 17,
+          "type_safety": 18,
+          "architecture": 17,
+          "test_coverage": 14,
+          "documentation": 9,
+          "breakdown": "Bug fix: accept int(1)/'1' as true, int(0)/'0' as false in state flags",
+          "commit_sha": "et-6243",
+          "run_session": "et-manual-20260417",
           "technique": "ET"
         }
       ]
@@ -130,9 +188,22 @@
           "commit_sha": "ET_6269_",
           "run_session": "58c72f24",
           "technique": "ET"
+        },
+        {
+          "total": 78,
+          "naming": 13,
+          "error_handling": 16,
+          "type_safety": 14,
+          "architecture": 15,
+          "test_coverage": 12,
+          "documentation": 8,
+          "breakdown": "CI fix: broaden CodeRabbit approval detection, fallback to status+comment",
+          "commit_sha": "et-6269",
+          "run_session": "et-manual-20260417",
+          "technique": "ET"
         }
       ]
     }
   },
-  "last_updated": "2026-04-17T15:10:51.163084+00:00"
+  "last_updated": "2026-04-17T15:11:58.471255+00:00"
 }
