@@ -1,9 +1,15 @@
 {
   "techniques": {
     "ET": {
-      "n": 0,
-      "scores": [],
-      "mean": 0,
+      "n": 5,
+      "scores": [
+        81,
+        85,
+        78,
+        89,
+        78
+      ],
+      "mean": 82.2,
       "last_updated": "2026-04-17T15:11:58.471247+00:00",
       "notes": "ET matched corpus batch run"
     },
@@ -56,19 +62,6 @@
     "6265": {
       "ET": [
         {
-          "total": null,
-          "naming": null,
-          "error_handling": null,
-          "type_safety": null,
-          "architecture": null,
-          "test_coverage": null,
-          "documentation": null,
-          "breakdown": "ET autor PR run_id=ET_6265_20260417T150734Z",
-          "commit_sha": "ET_6265_",
-          "run_session": "58c72f24",
-          "technique": "ET"
-        },
-        {
           "total": 81,
           "naming": 12,
           "error_handling": 16,
@@ -100,19 +93,6 @@
     },
     "6261": {
       "ET": [
-        {
-          "total": null,
-          "naming": null,
-          "error_handling": null,
-          "type_safety": null,
-          "architecture": null,
-          "test_coverage": null,
-          "documentation": null,
-          "breakdown": "ET autor PR run_id=ET_6261_20260417T150827Z",
-          "commit_sha": "ET_6261_",
-          "run_session": "58c72f24",
-          "technique": "ET"
-        },
         {
           "total": 85,
           "naming": 13,
@@ -146,19 +126,6 @@
     "6245": {
       "ET": [
         {
-          "total": null,
-          "naming": null,
-          "error_handling": null,
-          "type_safety": null,
-          "architecture": null,
-          "test_coverage": null,
-          "documentation": null,
-          "breakdown": "ET autor PR run_id=ET_6245_20260417T150842Z",
-          "commit_sha": "ET_6245_",
-          "run_session": "58c72f24",
-          "technique": "ET"
-        },
-        {
           "total": 78,
           "naming": 12,
           "error_handling": 16,
@@ -191,19 +158,6 @@
     "6243": {
       "ET": [
         {
-          "total": null,
-          "naming": null,
-          "error_handling": null,
-          "type_safety": null,
-          "architecture": null,
-          "test_coverage": null,
-          "documentation": null,
-          "breakdown": "ET autor PR run_id=ET_6243_20260417T150906Z",
-          "commit_sha": "ET_6243_",
-          "run_session": "58c72f24",
-          "technique": "ET"
-        },
-        {
           "total": 89,
           "naming": 14,
           "error_handling": 17,
@@ -235,19 +189,6 @@
     },
     "6269": {
       "ET": [
-        {
-          "total": null,
-          "naming": null,
-          "error_handling": null,
-          "type_safety": null,
-          "architecture": null,
-          "test_coverage": null,
-          "documentation": null,
-          "breakdown": "ET autor PR run_id=ET_6269_20260417T151009Z",
-          "commit_sha": "ET_6269_",
-          "run_session": "58c72f24",
-          "technique": "ET"
-        },
         {
           "total": 78,
           "naming": 13,
