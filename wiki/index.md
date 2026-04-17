@@ -14,6 +14,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
+- [PR #6340 — [autor/PRM] Robust Numeric Extraction Recreation](sources/pr6340_autor_prm_recreation_6261.md) — PRM autor PR #6261; step-by-step reasoning visible in comments; scored 77/100; added OverflowError handling
+- [PR #6325 — Remove design_doc_gate from CI Pipeline](sources/pr6325_design_doc_gate_removal.md) — Removes design_doc_gate job from green-gate.yml (158 lines); fixes doc-size-check.yml retry-self-hosted needs bug; CI workflow simplified
+- [PR #6279 — SWE-bench 6-Dimension Scoring](sources/pr6279_swebench_6dimension_scoring.md) — 6-dim canonical pattern scoring rubric introduced; scored PRs 6275/6276/6277; became standard for AutorPR evaluation in Phase 3/4
+- [PR #6309 — Fix grep \s to [ \t] for mawk/BSD](sources/pr6309_grep_mawk_bsd_portability_fix.md) — POSIX-compliant grep pattern fix for macOS/Homebrew compatibility; ANSI-C quoting $'^[ \t]*#'
+- [PR #6291 — Add design_doc_gate Before Skeptic Gate](sources/pr6291_design_doc_gate_addition.md) — Added design_doc_gate as blocking step before skeptic evaluation (subsequently removed by PR #6325)
+- [PR #6275 — Fix Stuck Level-Up: Synthesize rewards_box](sources/pr6275_fix_stuck_level_up.md) — Fix stuck level-up when level_up_complete=True but rewards_box missing; synthesize from game state; 76/76 tests pass
+- [PR #6269 — Port CR Fallback Logic to Skeptic Gates](sources/pr6269_port_cr_fallback_skeptic_gates.md) — CR fallback logic added to skeptic gates; retry mechanism for CR API errors
+- [PR #6266 — Fix Skeptic Verdict Regex for Bold Formatting](sources/pr6266_fix_skeptic_verdict_regex.md) — Remove anchor in skeptic verdict regex to capture bold **VERDICT** formatting
 - [Harness Fix PRs Status 2026-04-16 Late](sources/pr-harness-fix-prs-status-2026-04-16-late.md) — PR #6276 MERGED ~85% complete; 4 harness-fix PRs blocked by CR and 0 runners; rev-v4ci01 TOMBSTONED; skeptic-evaluate.sh auto-merge removed
 - [Governance Layer Design BFS + PR #452/#453 (2026-04-15)](sources/governance-layer-design-bfs-2026-04-15.md) — BFS research synthesis: 3-component governance (Skeptic + Evidence Validator + Policy Engine), GitOps approval for GOVERNANCE.md, fail-closed batch model, RLAIF-inspired feedback loops, Confluent Stream Governance as design model
 - [Governance Layer Design PRs #452/#453 (2026-04-15)](sources/pr-452-453-governance-layer-design-2026-04-15.md) — real-time governance layer for evolve loop (GOVERNANCE.md) + fail-closed semantic merge gates (gate-governance plugin); no mandatory human review, hard/soft constraints, escalation paths
@@ -5778,6 +5786,10 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 
 ## Concepts
 
+- [AutorPR](concepts/AutorPR.md) — AI-generated PRs that recreate merged PRs using SelfRefine/ET/PRM; 6-dim rubric scoring; Phase 3 held-out validation: all 3 techniques converge ~80-87
+- [Phase4FinalSynthesis](concepts/Phase4FinalSynthesis.md) — All 3 techniques converge ~80-87 (no winner); 87 ceiling is rubric artifact; PRM advantages on complex PRs; recommendation: problem decomposition over technique ranking
+- [GreenGateWorkflow](concepts/GreenGateWorkflow.md) — .github/workflows/green-gate.yml — trigger-only + polling CI; SkepticGate runs via AO worker; PR #6325 removed design_doc_gate
+- [SkepticGate](concepts/SkepticGate.md) — CI gate requiring evidence artifacts with timestamps; renamed from skeptic-gate.yml to green-gate.yml; concurrency bug with green-gate shared group
 - [GovernanceLayerResearch](concepts/GovernanceLayerResearch.md) — Research synthesis: Grok second opinion (filesystem abstraction flaw, 5-gate bureaucracy, no feedback loops) + 4 recommendations; tensions in PR #452/#453 architecture
 - [MultiAgentOrchestration](concepts/MultiAgentOrchestration.md) — Fleet coordination frameworks: LangGraph, AutoGen, CrewAI, MetaGPT; state machines, group chats, SOP encoding
 - [WorkflowEngine](concepts/WorkflowEngine.md) — YAML DAG / durable execution systems: Archon, Temporal, Prefect, Airbyte; git worktree isolation, event sourcing
