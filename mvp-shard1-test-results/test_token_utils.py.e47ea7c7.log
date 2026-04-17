@@ -1,0 +1,113 @@
+TESTFILE: mvp_site/tests/test_token_utils.py
+START: 2026-04-15 03:30:45
+2026-04-15 03:30:45,734 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:30:45,737 - root - INFO - Cleared file cache
+2026-04-15 03:30:45,737 - root - INFO - Cache MISS for test_file_1.txt: loaded and cached 77 characters (~19 tokens)
+2026-04-15 03:30:45,737 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,737 - root - INFO - Cache MISS for test_file_2.txt: loaded and cached 55 characters (~13 tokens)
+2026-04-15 03:30:45,737 - root - INFO - Cleared file cache
+.2026-04-15 03:30:45,738 - root - INFO - Cleared file cache
+2026-04-15 03:30:45,738 - root - INFO - Cleared file cache
+2026-04-15 03:30:45,738 - root - INFO - Cache MISS for test_file_1.txt: loaded and cached 77 characters (~19 tokens)
+2026-04-15 03:30:45,738 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,738 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,738 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,738 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,738 - root - INFO - Cleared file cache
+.2026-04-15 03:30:45,738 - root - INFO - Cleared file cache
+2026-04-15 03:30:45,738 - root - INFO - Cache MISS for test_file_1.txt: loaded and cached 77 characters (~19 tokens)
+2026-04-15 03:30:45,738 - root - INFO - Invalidated cache for test_file_1.txt
+2026-04-15 03:30:45,738 - root - INFO - Cleared file cache
+.2026-04-15 03:30:45,739 - root - INFO - Cleared file cache
+2026-04-15 03:30:45,739 - root - INFO - Cleared file cache
+2026-04-15 03:30:45,739 - root - INFO - Cache MISS for test_file_1.txt: loaded and cached 77 characters (~19 tokens)
+2026-04-15 03:30:45,739 - root - INFO - Cache MISS for test_file_2.txt: loaded and cached 55 characters (~13 tokens)
+2026-04-15 03:30:45,739 - root - INFO - Cleared file cache
+.2026-04-15 03:30:45,739 - root - INFO - Cleared file cache
+2026-04-15 03:30:45,739 - root - INFO - Cache MISS for utf8_test.txt: loaded and cached 40 characters (~10 tokens)
+2026-04-15 03:30:45,739 - root - INFO - Cache HIT for utf8_test.txt: 40 characters (~10 tokens)
+2026-04-15 03:30:45,739 - root - INFO - Cleared file cache
+.2026-04-15 03:30:45,739 - root - INFO - Cleared file cache
+2026-04-15 03:30:45,740 - root - ERROR - 🔥🔴 Failed to read file /tmp/tmpsfhh2thz/nonexistent.txt: [Errno 2] No such file or directory: '/tmp/tmpsfhh2thz/nonexistent.txt'
+2026-04-15 03:30:45,740 - root - ERROR - 🔥🔴 Failed to read file /path/that/does/not/exist.txt: [Errno 2] No such file or directory: '/path/that/does/not/exist.txt'
+2026-04-15 03:30:45,740 - root - ERROR - 🔥🔴 Failed to read file : [Errno 21] Is a directory: '/_work/worldarchitect.ai/worldarchitect.ai'
+2026-04-15 03:30:45,740 - root - ERROR - 🔥🔴 Failed to read file /root/restricted_file.txt: [Errno 2] No such file or directory: '/root/restricted_file.txt'
+2026-04-15 03:30:45,740 - root - INFO - Cleared file cache
+.2026-04-15 03:30:45,740 - root - INFO - Cleared file cache
+2026-04-15 03:30:45,740 - root - INFO - Cache MISS for test_file_1.txt: loaded and cached 77 characters (~19 tokens)
+2026-04-15 03:30:45,740 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,740 - root - INFO - Cleared file cache
+.2026-04-15 03:30:45,740 - root - INFO - Cleared file cache
+2026-04-15 03:30:45,741 - root - INFO - Cleared file cache
+2026-04-15 03:30:45,741 - root - INFO - Cache MISS for test_file_1.txt: loaded and cached 77 characters (~19 tokens)
+2026-04-15 03:30:45,741 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,741 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,741 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,741 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,741 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,741 - root - INFO - Cleared file cache
+.2026-04-15 03:30:45,741 - root - INFO - Cleared file cache
+2026-04-15 03:30:45,741 - root - INFO - Cache MISS for test_file_1.txt: loaded and cached 77 characters (~19 tokens)
+2026-04-15 03:30:45,741 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,741 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,741 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,742 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,742 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,742 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,743 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,743 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,743 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,743 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,743 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,744 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,744 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,744 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,744 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,745 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,745 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,745 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,745 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,746 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,746 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,746 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,746 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,746 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,747 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,747 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,747 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,747 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,747 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,748 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,748 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,748 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,748 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,749 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,749 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,749 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,750 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,750 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,750 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,750 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,751 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,751 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,751 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,751 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,752 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,752 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,753 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,753 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,754 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,755 - root - INFO - Cleared file cache
+.2026-04-15 03:30:45,755 - root - INFO - Cleared file cache
+2026-04-15 03:30:45,757 - root - INFO - Cache MISS for test_file_1.txt: loaded and cached 77 characters (~19 tokens)
+2026-04-15 03:30:45,757 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,758 - root - INFO - Cache HIT for test_file_1.txt: 77 characters (~19 tokens)
+2026-04-15 03:30:45,758 - root - INFO - Cleared file cache
+............
+----------------------------------------------------------------------
+Ran 21 tests in 0.024s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:30:45

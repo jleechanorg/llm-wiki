@@ -1,0 +1,13 @@
+TESTFILE: mvp_site/tests/test_unknown_entity_filtering.py
+START: 2026-04-15 03:30:45
+2026-04-15 03:30:45,846 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:30:45,849 - root - INFO - Entity validation: 0/0 found, confidence: 1.00
+.2026-04-15 03:30:45,849 - root - INFO - Entity validation: 0/2 found, confidence: 0.00
+.
+----------------------------------------------------------------------
+Ran 2 tests in 0.001s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:30:45

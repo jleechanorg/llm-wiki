@@ -1,3 +1,11 @@
+## [2026-04-17] autor | PRM autor PR #6344 (recreation of #6259) scored 78; PRM n=13; ET autor PR #6343 scored 76; PRM n=11
+## [2026-04-17] autor | ET autor PR #6342 created — recreation of #6261 (robust numeric); ET WHY reasoning; scored 92/100 (highest Phase 4); bandit updated ET n=14 mean=83.2
+## [2026-04-17] autor | ET autor PR #6341 created — recreation of #6266 (skeptic verdict regex); ET extended thinking; scored 85/100; bandit updated ET n=13 mean=82.7
+## [2026-04-17] autor | PRM autor PR #6340 created — recreation of #6261 (robust numeric extraction); PRM technique with step-by-step reasoning; scored 77/100; bandit updated PRM n=10 mean=81.4
+## [2026-04-16] ingest | 7 merged PRs ingested — PRs #6325, #6309, #6291, #6279, #6275, #6269, #6266 — CI workflow, grep fixes, 6-dim scoring, level-up bug fixes
+## [2026-04-16] ingest | 4 merged PRs ingested — PR #6325 (remove design_doc_gate), PR #6309 (grep POSIX fix), PR #6291 (add design_doc_gate), PR #6279 (6-dim scoring rubric)
+## [2026-04-16] ingest | Harness Fix PRs Late Update 2026-04-16 Late — PR #6308 test fixes pushed (d218d4857a: skip→expectedFailure, DRY refactor); CR stale line refs on PR #6308 (line refs from pre-refactor diff don't match current code); 2 new concept pages: CodeRabbitDismissedPattern + CodeRabbitStaleLineRefs
+## [2026-04-16] ingest | Phase 3 Auto-Research Concept Pages — 5 concept pages: AutoResearchConvergenceOracle (why all 3 techniques converge to ~87, convergence criteria: n≥10, stddev<5, winner>80%), TechniqueSelectionOracle (Thompson bandit, already in index), CodeRabbitDismissedPattern (CR DISMISSED requires substantive push), CodeRabbitStaleLineRefs (CR line refs go stale after large refactors), ZeroRunnersCIStuck (self-hosted runner outage blocks CI green-gate + skeptic-gate)
 ## [2026-04-15] ingest | Governance Layer Design BFS — source page: 3-component governance (Skeptic + Evidence Validator + Policy Engine), GitOps approval, fail-closed Confluent model, RLAIF feedback loops, Stream Governance as design model
 ## [2026-04-15] research | Governance Layer BFS 2-Layer Research — BFS Layer 1 (governance patterns) + Layer 2 (multi-agent/evidence/workflow/policy) completed; ~39 new entities + 23 new concepts created; web access heavily degraded (most fetches 404/blocked); Grok MCP failed (xAI unavailable)
 ## [2026-04-15] research | Governance Layer Research Synthesis — Grok second opinion (3 critiques: filesystem abstraction, 5-gate bureaucracy, no feedback loops) + synthesis with existing SkepticGate/AutonomousAgentLoop; GovernanceLayerResearch concept page written; 4 recommendations: single semantic gate, versioned policy objects, async escalation, separate edit from enforcement
@@ -3578,3 +3586,23 @@ SelfRefine #6277: 8.1/10. PRM #6275: 6.25/10. ExtendedThinking #6276: 6.45/10. S
 ## [2026-04-15] ingest | Harness PRs Late Update — #6285 CLEAN + Skeptic PASS ready to merge; #6292 blocked; #6287 DD-gate FAIL
 ## [2026-04-16] ingest | PR #6276 Post-Merge Assessment 2026-04-16 — ~85% done, Layer 3 CLEAN incomplete, rev-v4ci01 TOMBSTONED, design doc equivalence wrong
 ## [2026-04-16] update | PR #6276 post-merge — extra commits merged to main via 908b5db7c9, PR #6308 orphaned
+## [2026-04-16] update | PR #6276 post-merge — PR #6285/#6289 CONFLICTING, PR #6287 UNSTABLE, PR #6308 has new CI fix commit
+## [2026-04-16] ingest | PR Recreate Pipeline v2 results — SelfRefine 89.25 avg vs ET 76.5 avg, n=8 combined, n=15 needed
+## [2026-04-16] ingest | PR #6276 Late Status 2026-04-16 — Harness PRs BLOCKED, 434 commits ahead of origin/main
+## [2026-04-16] ingest | PR #6276 Status Update 2026-04-16b — PR #6287 CLEAN, 4 commits ahead (not 434)
+## [2026-04-16] ingest | PR #6276 Status 2026-04-16c — PR #6287 BLOCKED by core-mvp-2 test failure; CLEAN was transient
+## [2026-04-16] ingest | PR #6276 Status 2026-04-16d — PR #6287 still BLOCKED by core-mvp-2 failure; state oscillation BLOCKED/UNSTABLE
+
+## 2026-04-15 — wiki-ingest | Level-Up Bugs Audit PR #6308
+- **Type**: source
+- **Classification**: ✅
+- **Summary**: Audit of 7 reported level-up bugs shows all have fixes on feat/world-logic-clean-layer3 (PR #6308). Cherry-picked f0a35528d9 (fresh XP signal override) to fix "need to level up to level 1" bug. Design Doc Gate passes.
+- **Bead**: audit task #5 complete
+- **Files**: sources/level-up-bugs-audit-2026-04-15.md (new)
+## 2026-04-15 ingest | Harness-Fix PRs Status 2026-04-16d — CR CHANGES_REQUESTED blocks all 5 from 7-green
+
+## 2026-04-16 — cycle | Phase 3 Convergence Hypothesis — Held-Out Autor PR Validation
+- **Type**: synthesis
+- **Summary**: Phase 3: All 3 techniques converge to ~87 (SelfRefine n=17 mean 84.8, ET n=12 mean 82.5, PRM n=5 mean 79.1). Held-out validation: autor PR #6330 SelfRefine scored 91/100 (+4 vs original #6287 est. 87/100). Hypothesis doc addendum: #6330 improved docstring (+2) and naming (+2) but introduced architectural inconsistency (−1: kept normalize_rewards_box in banned list). 5 remaining autor PRs (#6331-#6335) need scoring.
+- **Files**: wiki/syntheses/cycle_phase3_hypothesis.md (updated with held-out addendum)
+## [2026-04-16] phase4 | Phase 4 final synthesis created

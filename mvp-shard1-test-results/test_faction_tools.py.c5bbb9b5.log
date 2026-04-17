@@ -1,0 +1,27 @@
+TESTFILE: mvp_site/tests/test_faction_tools.py
+START: 2026-04-15 03:30:20
+2026-04-15 03:30:20,111 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:30:20,112 - root - INFO - FACTION_TOOL_EXEC: tool=faction_calculate_power | args={'soldiers': 100, 'spies': 50, 'elites': 10, 'elite_avg_level': 6, 'territory': 200, 'fortifications': 2}
+2026-04-15 03:30:20,112 - root - INFO - FACTION_TOOL_RESULT: tool=faction_calculate_power | fp=3155
+..2026-04-15 03:30:20,113 - root - INFO - FACTION_TOOL_EXEC: tool=faction_calculate_ranking | args={'player_faction_power': 6000, 'turn_number': 1}
+2026-04-15 03:30:20,113 - root - INFO - FACTION_TOOL_RESULT: tool=faction_calculate_ranking | ranking=2 | player_fp=6000 | turn=1
+..2026-04-15 03:30:20,113 - root - INFO - FACTION_TOOL_EXEC: tool=faction_fp_to_next_rank | args={'faction_power': 50000, 'turn_number': 5}
+2026-04-15 03:30:20,113 - root - INFO - FACTION_TOOL_RESULT: tool=faction_fp_to_next_rank | fp_needed=1713 | current_fp=50000
+2026-04-15 03:30:20,113 - root - INFO - FACTION_TOOL_EXEC: tool=faction_fp_to_next_rank | args={'player_faction_power': 50000, 'turn_number': 5}
+2026-04-15 03:30:20,114 - root - INFO - FACTION_TOOL_RESULT: tool=faction_fp_to_next_rank | fp_needed=1713 | current_fp=50000
+.2026-04-15 03:30:20,114 - root - INFO - FACTION_TOOL_EXEC: tool=invalid_tool_name | args={}
+2026-04-15 03:30:20,114 - root - WARNING - ⚠️ FACTION_TOOL_UNKNOWN: tool=invalid_tool_name
+.2026-04-15 03:30:20,114 - root - INFO - FACTION_TOOL_EXEC: tool=faction_calculate_power | args={'soldiers': 100}
+2026-04-15 03:30:20,114 - root - INFO - FACTION_TOOL_RESULT: tool=faction_calculate_power | fp=100
+..2026-04-15 03:30:20,114 - root - INFO - FACTION_TOOL_EXEC: tool=faction_calculate_power | args={'soldiers': 100, 'spies': 50, 'elites': 10}
+2026-04-15 03:30:20,114 - root - INFO - FACTION_TOOL_RESULT: tool=faction_calculate_power | fp=5000
+2026-04-15 03:30:20,115 - root - INFO - FACTION_TOOL_EXEC: tool=faction_calculate_ranking | args={'player_faction_power': 5000, 'turn_number': 1}
+2026-04-15 03:30:20,115 - root - INFO - FACTION_TOOL_RESULT: tool=faction_calculate_ranking | ranking=3 | player_fp=5000 | turn=1
+.
+----------------------------------------------------------------------
+Ran 9 tests in 0.003s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:30:20

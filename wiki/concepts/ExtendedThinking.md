@@ -3,7 +3,7 @@ title: "Extended Thinking / Test-Time Compute"
 type: concept
 tags: [reasoning, test-time-compute, chain-of-thought, inference-budget]
 sources: []
-last_updated: 2026-04-14
+last_updated: 2026-04-15
 ---
 
 ## Summary
@@ -16,7 +16,29 @@ Extended Thinking provides step-by-step reasoning prefixes before code generatio
 - Step-by-step thinking surfaces edge cases and downstream effects
 - Canonical pattern application during reasoning phase can improve code quality
 
-## Findings from Cycle B
+## Findings from Cycle B (MiniMax-M2.5)
+
+- Extended thinking produced **identical code to baseline** in all 3 tests on worldarchitect.ai
+- Reasoning was accurate but didn't change output — model likely applies internal reasoning regardless
+- **Context is the bottleneck, not reasoning quality** — missing file content limits output more than missing reasoning prefixes
+- Small, well-specified fixes (95%) vs medium/complex (<75%) — specificity of prompt matters more than thinking technique
+- Canonical pattern references were shallow — applied at surface level, not integrated architecturally
+
+## Findings from Cycle 25 (PR #6276)
+
+**PR #6276**: Layer 3 CLEAN architecture refactor
+
+**Score: 6.45/10** — Good at identifying the *area* of the fix but poor at scope estimation. Predicted a large refactor when actual was a single-line critical fix.
+
+| What ExtendedThinking Predicted | What Actually Happened |
+|-------------------------------|---------------------|
+| Large architectural refactor | Single-line fix (`canonical_planning_block = planning_block`) |
+| New files (design doc, tests) | All files already existed in the PR |
+| 5+ function deletions | Only 3 functions removed |
+
+**Key lesson**: ExtendedThinking works best for **architectural problems** but **over-predicts scope** for small-but-critical bug fixes. The technique is attracted to "big thinking" which can mislead when the actual fix is tiny.
+
+**Recommendation**: Use ExtendedThinking for well-defined architectural problems. For small bug fixes, SelfRefine's post-hoc iteration is more reliable.
 
 - Extended thinking produced **identical code to baseline** in all 3 tests on worldarchitect.ai
 - Reasoning was accurate but didn't change output — model likely applies internal reasoning regardless

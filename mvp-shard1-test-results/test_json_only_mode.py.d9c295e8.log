@@ -1,0 +1,204 @@
+TESTFILE: mvp_site/tests/test_json_only_mode.py
+START: 2026-04-15 03:30:28
+2026-04-15 03:30:29,272 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:30:29,610 - root - INFO - 🔍 PROVIDER_SELECTION_START: user_id=None, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=false, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:29,610 - root - INFO - 🔍 PROVIDER_SELECTION_NO_USER: No user_id provided, returning default Gemini
+2026-04-15 03:30:29,610 - root - INFO - Using provider/model: gemini/gemini-3-flash-preview for story continuation.
+2026-04-15 03:30:29,611 - root - WARNING - ⚠️ No specific system prompts selected for continue_story. Using none.
+2026-04-15 03:30:29,611 - root - INFO - 🎭 CHARACTER_CREATION_CHECK: Character creation mode ACTIVE
+2026-04-15 03:30:29,611 - root - INFO - 🎭 CHARACTER_CREATION_ACTIVE: Using CharacterCreationAgent
+2026-04-15 03:30:29,611 - root - INFO - Cache MISS for master_directive.md: loaded and cached 19296 characters (~4824 tokens)
+2026-04-15 03:30:29,611 - root - INFO - Cache MISS for game_state_instruction.md: loaded and cached 143160 characters (~35790 tokens)
+2026-04-15 03:30:29,613 - root - WARNING - ⚠️ Schema docs for EntityType not in cache, generated on-demand
+2026-04-15 03:30:29,613 - root - WARNING - ⚠️ Schema docs for CampaignTier not in cache, generated on-demand
+2026-04-15 03:30:29,613 - root - WARNING - ⚠️ Schema docs for PlanningBlock not in cache, generated on-demand
+2026-04-15 03:30:29,613 - root - WARNING - ⚠️ Schema docs for SocialHPChallenge not in cache, generated on-demand
+2026-04-15 03:30:29,613 - root - WARNING - ⚠️ Schema docs for PlayerCharacter not in cache, generated on-demand
+2026-04-15 03:30:29,613 - root - WARNING - ⚠️ Schema docs for NPC not in cache, generated on-demand
+2026-04-15 03:30:29,614 - root - INFO - Cache MISS for dice_system_instruction_code_execution.md: loaded and cached 4527 characters (~1131 tokens)
+2026-04-15 03:30:29,614 - root - INFO - Cache MISS for character_creation_instruction.md: loaded and cached 7073 characters (~1768 tokens)
+2026-04-15 03:30:29,614 - root - INFO - Cache MISS for dnd_srd_instruction.md: loaded and cached 1977 characters (~494 tokens)
+2026-04-15 03:30:29,615 - root - INFO - Cache MISS for mechanics_system_instruction.md: loaded and cached 32957 characters (~8239 tokens)
+2026-04-15 03:30:29,615 - root - INFO - 🌍 LIVING_WORLD: Including living world instruction every turn (turn=1)
+2026-04-15 03:30:29,615 - root - INFO - Cache MISS for living_world_instruction.md: loaded and cached 40532 characters (~10133 tokens)
+2026-04-15 03:30:29,615 - root - INFO - 🎭 _extract_companions_from_state: No companions found in npc_data (keys: [])
+2026-04-15 03:30:29,616 - root - INFO - 📊 MEASURED_SIZES: system=75,251tk, state=269tk, memories=0tk, entities=10,500tk, checkpoint=18tk, sequence=0tk, story=0tk, total=86,038tk (budget=240,000tk)
+2026-04-15 03:30:29,616 - root - INFO - 📊 MIN_ALLOCATION: total_min=163,218tk (68.0%), remaining=76,782tk (32.0%)
+2026-04-15 03:30:29,616 - root - INFO - 📊 BUDGET_ALLOCATION_SUMMARY (budget=240,000tk):
+  system_instruction: 75,251tk -> 75,251tk (31.4%) ✅ OK
+  game_state: 269tk -> 12,000tk (5.0%) ✅ OK
+  core_memories: 0tk -> 48,000tk (20.0%) ✅ OK
+  entity_tracking: 10,500tk -> 10,500tk (4.4%) ✅ OK
+  checkpoint_block: 18tk -> 18tk (0.0%) ✅ OK
+  sequence_id: 0tk -> 0tk (0.0%) ✅ OK
+  story_context: 0tk -> 72,000tk (30.0%) ✅ OK
+2026-04-15 03:30:29,616 - root - INFO - 📊 BUDGET: model_limit=1000000tk, safe_budget=300000tk, max_input=240000tk, output_reserve=60000tk (normal), story_budget=72000tk (30.0%)
+2026-04-15 03:30:29,616 - root - INFO - Initial context stats: Turns: 0, Tokens: 0
+2026-04-15 03:30:29,616 - root - INFO - Context is within token budget. No truncation needed.
+2026-04-15 03:30:29,617 - root - INFO - Generated entity manifest for session 1, turn 1
+2026-04-15 03:30:29,617 - root - INFO - ENTITY_TRACKING_PROMPT: preload_chars=332, specific_chars=545
+2026-04-15 03:30:29,617 - root - INFO - ENTITY_TIERS: no NPCs
+2026-04-15 03:30:29,617 - root - INFO - ENTITY_TRACKING_SIZE: 17tk (reserve was 10500tk)
+2026-04-15 03:30:29,617 - root - INFO - GAME_STATE_BREAKDOWN: npc_data=0tk (EXCLUDED), world_data=0tk, player_data=7tk, remaining_state=234tk
+2026-04-15 03:30:29,617 - root - INFO - 🐛 DEBUG_MODE_VALUE: mode='story', agent=CharacterCreationAgent, agent.MODE=character_creation
+2026-04-15 03:30:29,617 - root - INFO - LLMREQUEST_PAYLOAD: story_history=0tk, total_payload=375tk
+2026-04-15 03:30:29,617 - root - INFO - Calling LLM API: 303011 characters (~75752 tokens)
+2026-04-15 03:30:29,617 - root - INFO - 🔍 MODEL_INFO: Using provider 'gemini', model 'gemini-3-flash-preview'
+2026-04-15 03:30:29,617 - root - INFO - Calling LLM provider/model: gemini/gemini-3-flash-preview
+2026-04-15 03:30:29,617 - root - INFO - 🔍 CALL_LLM_API_DISPATCH: provider_name=gemini, model_name=gemini-3-flash-preview, temperature=0.9, is_gemini=True, is_cerebras=False, is_openrouter=False
+2026-04-15 03:30:29,617 - root - INFO - 🔍 CALL_LLM_API_GEMINI: code_execution strategy for gemini-3-flash-preview
+2026-04-15 03:30:29,617 - root - INFO - Gemini code_execution: Single JSON call (no tool_requests Phase 2)
+2026-04-15 03:30:29,617 - root - INFO - PROVABLY_FAIR: commitment=b7e8c5faa65ff21bff027fafab7c6d884e2153089afa5bd5c8c926754b6fb434
+2026-04-15 03:30:29,619 - root - INFO - No tool_requests or hybrid tools in code_execution response
+2026-04-15 03:30:29,619 - root - WARNING - ⚠️ 🔍 GEMINI_RESPONSE_META: model=gemini-3-flash-preview | NO_CANDIDATES | prompt_feedback=<Mock name='generate_json_mode_content().prompt_feedback' id='134901628114400'>
+2026-04-15 03:30:29,619 - root - INFO - 🔍 GEMINI_USAGE: prompt_tokens=0, cached_tokens=0, response_tokens=0, cache_hit_rate=0.0%, model=gemini-3-flash-preview
+2026-04-15 03:30:29,619 - root - INFO - Successfully used LLMRequest for structured JSON communication
+2026-04-15 03:30:29,619 - root - INFO - GEMINI_CODE_EXECUTION_PARTS[continue_story]: model=gemini-3-flash-preview evidence={'code_execution_used': False, 'executable_code_parts': 0, 'code_execution_result_parts': 0, 'stdout': '', 'stdout_is_valid_json': False, 'stdout_parts': [], 'code_contains_rng': False, 'rng_verified': False, 'executed_code': [], 'dice_seed_verified': False, 'dice_server_seed': '885f125d2d44a6838284c0394ad359e9142ee67e21d6aa49f95f767571414508', 'dice_seed_commitment': 'b7e8c5faa65ff21bff027fafab7c6d884e2153089afa5bd5c8c926754b6fb434'}
+2026-04-15 03:30:29,619 - root - INFO - 📝 SYSTEM_INSTRUCTION (301004 chars): # File: master_directive.md
+
+# Master Directive: WorldArchitect.AI Prompt Hierarchy
+**Version: 2.2**
+**Last Updated: 2026-04-13**
+
+## Critical Loading Order and Precedence
+
+This document establishes the authoritative hierarchy for all AI instructions in WorldArchitect.AI. When conflicts arise between instructions, this hierarchy determines which instruction takes precedence.
+
+### 1. CRITICAL FOUNDATION (Load First - Highest Authority)
+These instructions form the core operational framework and MUST be loaded before all others:
+
+1. **`game_state_instruction.md`** - State management protocol, JSON input/output schemas, and entity structures
+   - Authority over: All state updates, data persistence, timeline management, entity structures, JSON input validation
+   - Critical because: Without proper state management and structured communication, nothing else functions
+   - Includes JSON input schema for structured LLM communication
+
+2. **D&D 5E SRD Authority** (defined in this file, "D&D 5E SRD System Authority" section)
+   - Authority over: All combat, attributes, spells, and mechanical resolution
+   - Critical because: Establishes single mechanical system authority
+
+### 2. CORE MECHANICS (Load Second)
+These define the fundamental game rules:
+
+3. **`mechanics_system_instruction.md`** - System integration
+   - Authority over: Character design (when mechanics enabled), dice rolling, leveling tiers, mechanical processes
+   - Defers to: dnd_srd_instruction.md for core mechanics
+   - Special role: Triggers mandatory character design when mechanics checkbox is selected
+
+### 3. NARRATIVE FRAMEWORK (Load Third)
+These guide storytelling and interaction:
+
+4. **`narrative_system_instruction.md`** - Storytelling protocol
+   - Authority over: Think blocks, narrative flow, story progression
+   - Must respect: State management and mechanics from above
+
+### 3. TEMPLATES (Load When Needed)
+These are reference formats:
+
+5. **`character_template.md`** - Character personality and narrative d...
+2026-04-15 03:30:29,619 - root - INFO - 📤 RAW_REQUEST (1503 chars; logged up to 20000): {"game_mode": "story", "user_id": "test-user-123", "selected_prompts": [], "use_default_world": false, "story_history": [], "core_memories": [], "sequence_ids": [], "checkpoint_block": "[CHECKPOINT BLOCK:]\\nSequence ID: N/A | Location: Unknown\\nMissions: None\\n", "entity_tracking": {"active_entities": [], "present_entities": [], "dormant_entities": []}, "game_state": {"game_state_version": 1, "player_character_data": {"experience": {"current": 0}}, "world_data": {}, "item_registry": {}, "custom_campaign_state": {"arc_milestones": {}, "companion_arcs": {}, "next_companion_arc_turn": 3, "active_constraints": [], "attribute_system": "D&D", "campaign_tier": "mortal", "divine_potential": 0, "universe_control": 0, "divine_upgrade_available": false, "multiverse_upgrade_available": false, "_agent_selection_tracker": {"agent": "CharacterCreationAgent", "count": 1, "rewards_skip_count": 0}}, "social_hp_challenge": null, "combat_state": {"in_combat": false}, "last_state_update_timestamp": "2026-04-15T03:30:29.610861+00:00", "turn_number": 0, "player_turn": 0, "last_living_world_turn": 0, "last_living_world_time": null, "time_sensitive_events": {}, "npc_agendas": {}, "world_resources": {}, "time_pressure_warnings": {}, "debug_mode": true, "pending_instruction_hints": [], "user_id": "test-user-123"}, "user_action": "test prompt\n\n[SYSTEM ENFORCEMENT: For ANY dice roll, you MUST use the code_execution tool with random.randint(). Your code will be inspected. Fabricated dice = rejection.]"}
+2026-04-15 03:30:29,619 - root - INFO - 📥 RAW_RESPONSE (98 chars; logged up to 20000): {"narrative": "test", "planning_block": {"thinking": "", "choices": {}}, "session_header": "test"}
+2026-04-15 03:30:29,620 - root - INFO - 📢 Added API retry warning to user response: API retry required (attempt <Mock name='generate_json_mode_content()._retry_metadata.get()' id='134901573805136'>/<Mock name='generate_json_mode_content()._retry_metadata.get()' id='134901573805136'>) - transient error recovered
+2026-04-15 03:30:29,620 - root - INFO - 📊 PARSED_RESPONSE: narrative_length=4, structured_response=present, raw_response_length=98
+2026-04-15 03:30:29,620 - root - INFO - Comprehensive validation: 0/0 found, confidence: 1.00, warnings: 0
+2026-04-15 03:30:29,620 - root - INFO - NarrativeSyncValidator delegated to EntityValidator: 0/1 found
+2026-04-15 03:30:29,620 - root - INFO - 📝 FINAL_RESPONSE: narrative_length=4, has_structured_response=True
+.2026-04-15 03:30:29,621 - root - ERROR - 🔥🔴 ERROR: No structured response available for state updates. JSON mode is required.
+..2026-04-15 03:30:29,621 - root - INFO - 🔍 PROVIDER_SELECTION_START: user_id=None, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=false, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:29,621 - root - INFO - 🔍 PROVIDER_SELECTION_NO_USER: No user_id provided, returning default Gemini
+2026-04-15 03:30:29,621 - root - INFO - Using provider/model: gemini/gemini-3-flash-preview for story continuation.
+2026-04-15 03:30:29,621 - root - WARNING - ⚠️ No specific system prompts selected for continue_story. Using none.
+2026-04-15 03:30:29,621 - root - INFO - 🎭 CHARACTER_CREATION_CHECK: Character creation mode ACTIVE
+2026-04-15 03:30:29,621 - root - INFO - 🎭 CHARACTER_CREATION_ACTIVE: Using CharacterCreationAgent
+2026-04-15 03:30:29,621 - root - INFO - 🌍 LIVING_WORLD: Including living world instruction every turn (turn=1)
+2026-04-15 03:30:29,621 - root - INFO - 🎭 _extract_companions_from_state: No companions found in npc_data (keys: [])
+2026-04-15 03:30:29,622 - root - INFO - 📊 MEASURED_SIZES: system=75,251tk, state=268tk, memories=0tk, entities=10,500tk, checkpoint=18tk, sequence=0tk, story=0tk, total=86,037tk (budget=240,000tk)
+2026-04-15 03:30:29,622 - root - INFO - 📊 MIN_ALLOCATION: total_min=163,218tk (68.0%), remaining=76,782tk (32.0%)
+2026-04-15 03:30:29,622 - root - INFO - 📊 BUDGET_ALLOCATION_SUMMARY (budget=240,000tk):
+  system_instruction: 75,251tk -> 75,251tk (31.4%) ✅ OK
+  game_state: 268tk -> 12,000tk (5.0%) ✅ OK
+  core_memories: 0tk -> 48,000tk (20.0%) ✅ OK
+  entity_tracking: 10,500tk -> 10,500tk (4.4%) ✅ OK
+  checkpoint_block: 18tk -> 18tk (0.0%) ✅ OK
+  sequence_id: 0tk -> 0tk (0.0%) ✅ OK
+  story_context: 0tk -> 72,000tk (30.0%) ✅ OK
+2026-04-15 03:30:29,622 - root - INFO - 📊 BUDGET: model_limit=1000000tk, safe_budget=300000tk, max_input=240000tk, output_reserve=60000tk (normal), story_budget=72000tk (30.0%)
+2026-04-15 03:30:29,622 - root - INFO - Initial context stats: Turns: 0, Tokens: 0
+2026-04-15 03:30:29,622 - root - INFO - Context is within token budget. No truncation needed.
+2026-04-15 03:30:29,622 - root - INFO - ENTITY_TRACKING_PROMPT: preload_chars=332, specific_chars=540
+2026-04-15 03:30:29,622 - root - INFO - ENTITY_TIERS: no NPCs
+2026-04-15 03:30:29,622 - root - INFO - ENTITY_TRACKING_SIZE: 17tk (reserve was 10500tk)
+2026-04-15 03:30:29,622 - root - INFO - GAME_STATE_BREAKDOWN: npc_data=0tk (EXCLUDED), world_data=0tk, player_data=7tk, remaining_state=233tk
+2026-04-15 03:30:29,622 - root - INFO - 🐛 DEBUG_MODE_VALUE: mode='story', agent=CharacterCreationAgent, agent.MODE=character_creation
+2026-04-15 03:30:29,622 - root - INFO - LLMREQUEST_PAYLOAD: story_history=0tk, total_payload=372tk
+2026-04-15 03:30:29,622 - root - INFO - Calling LLM API: 302998 characters (~75749 tokens)
+2026-04-15 03:30:29,622 - root - INFO - 🔍 MODEL_INFO: Using provider 'gemini', model 'gemini-3-flash-preview'
+2026-04-15 03:30:29,622 - root - INFO - Calling LLM provider/model: gemini/gemini-3-flash-preview
+2026-04-15 03:30:29,622 - root - INFO - 🔍 CALL_LLM_API_DISPATCH: provider_name=gemini, model_name=gemini-3-flash-preview, temperature=0.9, is_gemini=True, is_cerebras=False, is_openrouter=False
+2026-04-15 03:30:29,622 - root - INFO - 🔍 CALL_LLM_API_GEMINI: code_execution strategy for gemini-3-flash-preview
+2026-04-15 03:30:29,622 - root - INFO - Gemini code_execution: Single JSON call (no tool_requests Phase 2)
+2026-04-15 03:30:29,622 - root - INFO - PROVABLY_FAIR: commitment=9f2d78de814059976a99f9602d2aa2120d192689d7a2e857b885171482329d76
+2026-04-15 03:30:29,624 - root - INFO - No tool_requests or hybrid tools in code_execution response
+2026-04-15 03:30:29,624 - root - WARNING - ⚠️ 🔍 GEMINI_RESPONSE_META: model=gemini-3-flash-preview | NO_CANDIDATES | prompt_feedback=<Mock name='generate_json_mode_content().prompt_feedback' id='134902544349136'>
+2026-04-15 03:30:29,624 - root - INFO - 🔍 GEMINI_USAGE: prompt_tokens=0, cached_tokens=0, response_tokens=0, cache_hit_rate=0.0%, model=gemini-3-flash-preview
+2026-04-15 03:30:29,624 - root - INFO - Successfully used LLMRequest for structured JSON communication
+2026-04-15 03:30:29,624 - root - INFO - GEMINI_CODE_EXECUTION_PARTS[continue_story]: model=gemini-3-flash-preview evidence={'code_execution_used': False, 'executable_code_parts': 0, 'code_execution_result_parts': 0, 'stdout': '', 'stdout_is_valid_json': False, 'stdout_parts': [], 'code_contains_rng': False, 'rng_verified': False, 'executed_code': [], 'dice_seed_verified': False, 'dice_server_seed': 'ec44292c642d58d808a9d32f9e53d98154667470fa75de6c04ba54f3a3ec5d27', 'dice_seed_commitment': '9f2d78de814059976a99f9602d2aa2120d192689d7a2e857b885171482329d76'}
+2026-04-15 03:30:29,624 - root - INFO - 📝 SYSTEM_INSTRUCTION (301004 chars): # File: master_directive.md
+
+# Master Directive: WorldArchitect.AI Prompt Hierarchy
+**Version: 2.2**
+**Last Updated: 2026-04-13**
+
+## Critical Loading Order and Precedence
+
+This document establishes the authoritative hierarchy for all AI instructions in WorldArchitect.AI. When conflicts arise between instructions, this hierarchy determines which instruction takes precedence.
+
+### 1. CRITICAL FOUNDATION (Load First - Highest Authority)
+These instructions form the core operational framework and MUST be loaded before all others:
+
+1. **`game_state_instruction.md`** - State management protocol, JSON input/output schemas, and entity structures
+   - Authority over: All state updates, data persistence, timeline management, entity structures, JSON input validation
+   - Critical because: Without proper state management and structured communication, nothing else functions
+   - Includes JSON input schema for structured LLM communication
+
+2. **D&D 5E SRD Authority** (defined in this file, "D&D 5E SRD System Authority" section)
+   - Authority over: All combat, attributes, spells, and mechanical resolution
+   - Critical because: Establishes single mechanical system authority
+
+### 2. CORE MECHANICS (Load Second)
+These define the fundamental game rules:
+
+3. **`mechanics_system_instruction.md`** - System integration
+   - Authority over: Character design (when mechanics enabled), dice rolling, leveling tiers, mechanical processes
+   - Defers to: dnd_srd_instruction.md for core mechanics
+   - Special role: Triggers mandatory character design when mechanics checkbox is selected
+
+### 3. NARRATIVE FRAMEWORK (Load Third)
+These guide storytelling and interaction:
+
+4. **`narrative_system_instruction.md`** - Storytelling protocol
+   - Authority over: Think blocks, narrative flow, story progression
+   - Must respect: State management and mechanics from above
+
+### 3. TEMPLATES (Load When Needed)
+These are reference formats:
+
+5. **`character_template.md`** - Character personality and narrative d...
+2026-04-15 03:30:29,624 - root - INFO - 📤 RAW_REQUEST (1490 chars; logged up to 20000): {"game_mode": "story", "user_id": "test-user", "selected_prompts": [], "use_default_world": false, "story_history": [], "core_memories": [], "sequence_ids": [], "checkpoint_block": "[CHECKPOINT BLOCK:]\\nSequence ID: N/A | Location: Unknown\\nMissions: None\\n", "entity_tracking": {"active_entities": [], "present_entities": [], "dormant_entities": []}, "game_state": {"game_state_version": 1, "player_character_data": {"experience": {"current": 0}}, "world_data": {}, "item_registry": {}, "custom_campaign_state": {"arc_milestones": {}, "companion_arcs": {}, "next_companion_arc_turn": 3, "active_constraints": [], "attribute_system": "D&D", "campaign_tier": "mortal", "divine_potential": 0, "universe_control": 0, "divine_upgrade_available": false, "multiverse_upgrade_available": false, "_agent_selection_tracker": {"agent": "CharacterCreationAgent", "count": 1, "rewards_skip_count": 0}}, "social_hp_challenge": null, "combat_state": {"in_combat": false}, "last_state_update_timestamp": "2026-04-15T03:30:29.621475+00:00", "turn_number": 0, "player_turn": 0, "last_living_world_turn": 0, "last_living_world_time": null, "time_sensitive_events": {}, "npc_agendas": {}, "world_resources": {}, "time_pressure_warnings": {}, "debug_mode": true, "pending_instruction_hints": [], "user_id": "test-user"}, "user_action": "prompt\n\n[SYSTEM ENFORCEMENT: For ANY dice roll, you MUST use the code_execution tool with random.randint(). Your code will be inspected. Fabricated dice = rejection.]"}
+2026-04-15 03:30:29,624 - root - INFO - 📥 RAW_RESPONSE (98 chars; logged up to 20000): {"narrative": "test", "planning_block": {"thinking": "", "choices": {}}, "session_header": "test"}
+2026-04-15 03:30:29,625 - root - INFO - 📢 Added API retry warning to user response: API retry required (attempt <Mock name='generate_json_mode_content()._retry_metadata.get()' id='134901573811088'>/<Mock name='generate_json_mode_content()._retry_metadata.get()' id='134901573811088'>) - transient error recovered
+2026-04-15 03:30:29,625 - root - INFO - 📊 PARSED_RESPONSE: narrative_length=4, structured_response=present, raw_response_length=98
+2026-04-15 03:30:29,625 - root - INFO - Comprehensive validation: 0/0 found, confidence: 1.00, warnings: 0
+2026-04-15 03:30:29,625 - root - INFO - NarrativeSyncValidator delegated to EntityValidator: 0/1 found
+2026-04-15 03:30:29,625 - root - INFO - 📝 FINAL_RESPONSE: narrative_length=4, has_structured_response=True
+....2026-04-15 03:30:29,625 - root - INFO - Extracted JSON from markdown code block
+2026-04-15 03:30:29,625 - root - ERROR - 🔥🔴 🔥 Failed to parse JSON response: Expecting ',' delimiter: line 1 column 53 (char 52) | total_length=52 | error_pos=52 | context[0:52]: {"narrative": "test", "entities_mentioned": ["hero"]
+2026-04-15 03:30:29,625 - root - ERROR - 🔥🔴 Failed to parse JSON response - returning error message.
+2026-04-15 03:30:29,625 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+..
+----------------------------------------------------------------------
+Ran 9 tests in 0.015s
+
+OK
+RESULT: PASS
+DURATION: 1s
+END: 2026-04-15 03:30:29

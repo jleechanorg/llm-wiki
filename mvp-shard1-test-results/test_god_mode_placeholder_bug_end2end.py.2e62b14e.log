@@ -1,0 +1,141 @@
+TESTFILE: mvp_site/tests/test_end2end/test_god_mode_placeholder_bug_end2end.py
+START: 2026-04-15 03:30:10
+2026-04-15 03:30:10,607 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:30:10,983 - root - INFO - Applied clock skew patch: adjusting time by -720 seconds
+2026-04-15 03:30:11,426 - root - INFO - Loading service account from file: /dev/null
+2026-04-15 03:30:11,426 - root - WARNING - ⚠️ Failed to load credentials from file /dev/null: Expecting value: line 1 column 1 (char 0)
+2026-04-15 03:30:11,426 - root - INFO - Attempting to load service account from environment variables
+2026-04-15 03:30:11,426 - root - WARNING - ⚠️ Failed to load credentials from env vars: Missing required environment variables: GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY. Please set these variables in your environment (.env file, Claude.ai project settings, or GitHub Secrets). See module docstring for detailed instructions.
+2026-04-15 03:30:11,426 - root - WARNING - ⚠️ Failed to load explicit credentials: Failed to load service account credentials from any source. File path '/dev/null' not found or invalid. Environment variables missing or incomplete (need GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY).. Attempting default application credentials.
+2026-04-15 03:30:11,426 - root - INFO - Firebase initialized successfully in world_logic.py
+2026-04-15 03:30:11,427 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:11,427 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:11,427 - root - INFO - Schema doc cache initialized: 11 types, 0.12ms total
+2026-04-15 03:30:11,428 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:11,428 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:11,434 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:11,435 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:11,435 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:11,436 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:11,436 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:11,442 - root - INFO - Received campaign creation request:
+2026-04-15 03:30:11,442 - root - INFO -   Character: Ser Arion val Valerion
+2026-04-15 03:30:11,442 - root - INFO -   Setting: World of Assiah. Caught between an oath to a ruthless tyrant...
+2026-04-15 03:30:11,442 - root - INFO -   Description: # Campaign summary
+
+You are Ser Arion, a 16 year old honorable knight on your first mission, sworn to protect the vast Celestial Imperium.
+
+**Your Character:**
+
+- **Name:** Ser Arion val Valerion
+- **Age:** 16
+- **Class:** Level 1 Paladin (Oath of the Crown)
+- **Stats:** Str 16, Con 14, Cha 16 | **HP:** 12 | **AC:** 20
+2026-04-15 03:30:11,442 - root - INFO -   Custom options: []
+2026-04-15 03:30:11,442 - root - INFO -   Selected prompts: []
+2026-04-15 03:30:11,442 - root - INFO - Building god_mode dict from separate character/setting/description fields
+2026-04-15 03:30:11,443 - root - INFO - Built god_mode from separate fields: character=Ser Arion val Valerion
+2026-04-15 03:30:11,443 - root - INFO - God Mode character template detected: Ser Arion val Valerion
+2026-04-15 03:30:11,443 - root - INFO - ✅ Initialized 9 starting items for  (equipment.backpack)
+2026-04-15 03:30:11,443 - root - INFO - ✅ Added 'Ser Arion val Valerion' to active_entities (God Mode character)
+2026-04-15 03:30:11,443 - root - INFO - ✅ Stored god_mode in custom_campaign_state (setting: 63 chars)
+2026-04-15 03:30:11,443 - root - INFO - 🔍 CHARACTER CREATION DECISION:
+2026-04-15 03:30:11,443 - root - INFO -   character_creation_in_progress: True
+2026-04-15 03:30:11,443 - root - INFO -   god_mode exists: True
+2026-04-15 03:30:11,443 - root - INFO -   god_mode type: <class 'dict'>
+2026-04-15 03:30:11,443 - root - INFO -   god_mode value: {'setting': 'World of Assiah. Caught between an oath to a ruthless tyrant...', 'description': '# Campaign summary\n\nYou are Ser Arion, a 16 year old honorable knight on your first mission, sworn to protect the vast Celestial Imperium.\n\n**Your Character:**\n\n- **Name:** Ser Arion val Valerion\n- **Age:** 16\n- **Class:** Level 1 Paladin (Oath of the Crown)\n- **Stats:** Str 16, Con 14, Cha 16 | **HP:** 12 | **AC:** 20', 'character': {'name': 'Ser Arion val Valerion', 'description': '# Campaign summary\n\nYou are Ser Arion, a 16 year old honorable knight on your first mission, sworn to protect the vast Celestial Imperium.\n\n**Your Character:**\n\n- **Name:** Ser Arion val Valerion\n- **Age:** 16\n- **Class:** Level 1 Paladin (Oath of the Crown)\n- **Stats:** Str 16, Con 14, Cha 16 | **HP:** 12 | **AC:** 20'}}
+2026-04-15 03:30:11,443 - root - INFO -   god_mode.get('character'): {'name': 'Ser Arion val Valerion', 'description': '# Campaign summary\n\nYou are Ser Arion, a 16 year old honorable knight on your first mission, sworn to protect the vast Celestial Imperium.\n\n**Your Character:**\n\n- **Name:** Ser Arion val Valerion\n- **Age:** 16\n- **Class:** Level 1 Paladin (Oath of the Crown)\n- **Stats:** Str 16, Con 14, Cha 16 | **HP:** 12 | **AC:** 20'}
+2026-04-15 03:30:11,443 - root - INFO -   character is dict: True
+2026-04-15 03:30:11,443 - root - INFO -   is_god_mode_with_character: True
+2026-04-15 03:30:11,443 - root - INFO - Using mock mode - returning mock initial story response
+2026-04-15 03:30:11,443 - root - INFO - Mock mode: Using CharacterCreationAgent for character review
+2026-04-15 03:30:11,444 - root - INFO - Merged LLM state updates into initial game state
+2026-04-15 03:30:11,445 - root - INFO - ✅ Write-then-read (mock mode): user=test-user-god-mode-placeholder-bug, campaign=generated-id-1, actor=user
+2026-04-15 03:30:11,445 - root - WARNING - ⚠️ Story entry contract validation warning (pre_write, campaign=generated-id-1, actor=gemini): planning_block: 'thinking' is a required property, planning_block: 'choices' is a required property
+2026-04-15 03:30:11,445 - root - INFO - ✅ Write-then-read (mock mode): user=test-user-god-mode-placeholder-bug, campaign=generated-id-1, actor=gemini
+2026-04-15 03:30:11,447 - root - INFO - 🎮 LOADING GAME PAGE: user=test-user-god-mode-placeholder-bug, campaign=generated-id-1, story_limit=300
+2026-04-15 03:30:11,447 - root - INFO - 🔄 PARALLEL I/O START: get_campaign_metadata [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:11,447 - root - INFO - 🔄 PARALLEL I/O START: get_story_paginated [concurrent=2, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:11,447 - root - INFO - 📖 PAGINATED STORY: user=test-user-god-mode-placeholder-bug, campaign=generated-id-1, fetched=2, total=2, has_older=False
+2026-04-15 03:30:11,447 - root - INFO - 🔄 PARALLEL I/O START: get_user_settings [concurrent=3, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:11,448 - root - INFO - 🔄 PARALLEL I/O START: get_campaign_game_state [concurrent=4, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:11,448 - root - INFO - ✅ PARALLEL I/O END: get_campaign_metadata [duration=0.9ms, remaining=3]
+2026-04-15 03:30:11,448 - root - INFO - ✅ PARALLEL I/O END: get_story_paginated [duration=1.0ms, remaining=2]
+2026-04-15 03:30:11,448 - root - INFO - ✅ PARALLEL I/O END: get_user_settings [duration=0.8ms, remaining=1]
+2026-04-15 03:30:11,448 - root - INFO - ✅ PARALLEL I/O END: get_campaign_game_state [duration=0.5ms, remaining=0]
+2026-04-15 03:30:11,448 - root - WARNING - ⚠️ Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:11,448 - root - WARNING - ⚠️ Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:11,448 - root - WARNING - ⚠️ Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:11,448 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:11,448 - root - WARNING - ⚠️ Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:11,448 - root - WARNING - ⚠️ Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:11,448 - root - WARNING - ⚠️ Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:11,448 - root - INFO - Campaign generated-id-1 story: 2 entries, total=2.1KB, avg=1.0KB/entry
+2026-04-15 03:30:11,448 - root - INFO - Entry 1 size breakdown (top 5): text=0.7KB, session_header=0.1KB, state_updates_audit=0.1KB, full_state_updates=0.1KB, action_resolution=0.0KB
+2026-04-15 03:30:11,448 - root - INFO - 🎯 BACKEND RESPONSE for campaign generated-id-1:
+2026-04-15 03:30:11,448 - root - INFO -   Campaign Title: 'Frontend Format Test - My Epic Adventure'
+2026-04-15 03:30:11,448 - root - INFO -   Story entries: 2
+2026-04-15 03:30:11,448 - root - INFO -   Pagination: 2/2 (has_older=False)
+.2026-04-15 03:30:11,449 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:11,449 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:11,449 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:11,450 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:11,450 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:11,456 - root - INFO - Received campaign creation request:
+2026-04-15 03:30:11,456 - root - INFO -   Character: 
+2026-04-15 03:30:11,456 - root - INFO -   Setting: 
+2026-04-15 03:30:11,456 - root - INFO -   Description: 
+2026-04-15 03:30:11,456 - root - INFO -   Custom options: []
+2026-04-15 03:30:11,456 - root - INFO -   Selected prompts: []
+2026-04-15 03:30:11,456 - root - INFO - Parsing god_mode_data string format into god_mode dict
+2026-04-15 03:30:11,457 - root - INFO - Parsed god_mode_data: character=ser arion val valerion
+2026-04-15 03:30:11,457 - root - INFO - God Mode character template detected: ser arion val valerion
+2026-04-15 03:30:11,457 - root - INFO - ✅ Initialized 9 starting items for paladin (oath of the crown (equipment.backpack)
+2026-04-15 03:30:11,457 - root - INFO - ✅ Added 'ser arion val valerion' to active_entities (God Mode character)
+2026-04-15 03:30:11,457 - root - INFO - ✅ Character 'ser arion val valerion' pre-populated from god_mode/paste - skipping character creation modal
+2026-04-15 03:30:11,457 - root - INFO - ✅ Stored god_mode in custom_campaign_state (setting: 269 chars)
+2026-04-15 03:30:11,457 - root - INFO - 🔍 CHARACTER CREATION DECISION:
+2026-04-15 03:30:11,457 - root - INFO -   character_creation_in_progress: False
+2026-04-15 03:30:11,457 - root - INFO -   god_mode exists: True
+2026-04-15 03:30:11,457 - root - INFO -   god_mode type: <class 'dict'>
+2026-04-15 03:30:11,457 - root - INFO -   god_mode value: {'description': '# Campaign summary\n\nYou are Ser Arion, a 16 year old honorable knight on your first mission, sworn to protect the vast Celestial Imperium. For decades, the Empire has been ruled by the iron-willed Empress Sariel, a ruthless tyrant who uses psychic power to crush dissent. While her methods are terrifying, her reign has brought undeniable benefits: the roads are safe, trade flourishes, and the common people no longer starve or fear bandits. You are a product of this "Silent Peace," and your oath binds you to the security and prosperity it provides.\n\nYour loyalty is now brutally tested. You have been ordered to slaughter a settlement of innocent refugees whose very existence has been deemed a threat to the Empress\'s perfect, unyielding order. As you wrestle with this monstrous command, the weight of your oath clashes with the humanity you feel for the innocent lives before you.\n\nYou are now caught between duty and conscience. Do you uphold your oath and commit an atrocity, believing the sacrifice of a few is worth the peace and safety of millions? Or do you break your vow and defy the Empress, knowing that rebellion could plunge the world back into chaos? This single choice will define your honor and your path in an empire where security is bought with blood.\n\n**Your Character:**\n\n- **Name:** Ser Arion val Valerion\n- **Age:** 16\n- **Class:** Level 1 Paladin (Oath of the Crown, sworn to Empress Sariel and the Laws of the Imperium)\n- **Alignment:** Neutral (Lawful Neutral leaning) — Your choices determine whether you become a champion of justice or an instrument of tyranny.\n- **Background:** Noble Knight of House Valerion\n\n**Default Build (Level 1 Paladin):**\n- **Stats:** Str 16, Con 14, Cha 16', 'setting': "World of Assiah. Caught between an oath to a ruthless tyrant who enforces a prosperous peace and the call of a chaotic dragon promising true freedom, a young knight must decide whether to slaughter innocents to preserve order or start a war to reclaim the world's soul.", 'character': {'name': 'ser arion val valerion', 'level': 1, 'class': 'Paladin (Oath Of The Crown', 'background': 'noble knight of house valerion', 'base_attributes': {'strength': 16, 'constitution': 14, 'charisma': 16}, 'attributes': {'strength': 16, 'constitution': 14, 'charisma': 16}, 'hp_max': 12, 'hp_current': 12, 'ac': 20}}
+2026-04-15 03:30:11,457 - root - INFO -   god_mode.get('character'): {'name': 'ser arion val valerion', 'level': 1, 'class': 'Paladin (Oath Of The Crown', 'background': 'noble knight of house valerion', 'base_attributes': {'strength': 16, 'constitution': 14, 'charisma': 16}, 'attributes': {'strength': 16, 'constitution': 14, 'charisma': 16}, 'hp_max': 12, 'hp_current': 12, 'ac': 20}
+2026-04-15 03:30:11,457 - root - INFO -   character is dict: True
+2026-04-15 03:30:11,457 - root - INFO -   is_god_mode_with_character: True
+2026-04-15 03:30:11,457 - root - INFO - Using mock mode - returning mock initial story response
+2026-04-15 03:30:11,457 - root - INFO - Mock mode: Using CharacterCreationAgent for character review
+2026-04-15 03:30:11,458 - root - INFO - Merged LLM state updates into initial game state
+2026-04-15 03:30:11,458 - root - INFO - ✅ Write-then-read (mock mode): user=test-user-god-mode-placeholder-bug, campaign=generated-id-1, actor=user
+2026-04-15 03:30:11,458 - root - WARNING - ⚠️ Story entry contract validation warning (pre_write, campaign=generated-id-1, actor=gemini): planning_block: 'thinking' is a required property, planning_block: 'choices' is a required property
+2026-04-15 03:30:11,458 - root - INFO - ✅ Write-then-read (mock mode): user=test-user-god-mode-placeholder-bug, campaign=generated-id-1, actor=gemini
+2026-04-15 03:30:11,459 - root - INFO - 🎮 LOADING GAME PAGE: user=test-user-god-mode-placeholder-bug, campaign=generated-id-1, story_limit=300
+2026-04-15 03:30:11,459 - root - INFO - 🔄 PARALLEL I/O START: get_campaign_metadata [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:11,459 - root - INFO - 🔄 PARALLEL I/O START: get_story_paginated [concurrent=2, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:11,459 - root - INFO - 🔄 PARALLEL I/O START: get_user_settings [concurrent=3, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:11,459 - root - INFO - 📖 PAGINATED STORY: user=test-user-god-mode-placeholder-bug, campaign=generated-id-1, fetched=2, total=2, has_older=False
+2026-04-15 03:30:11,460 - root - INFO - 🔄 PARALLEL I/O START: get_campaign_game_state [concurrent=4, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:11,460 - root - INFO - ✅ PARALLEL I/O END: get_campaign_metadata [duration=0.4ms, remaining=3]
+2026-04-15 03:30:11,460 - root - INFO - ✅ PARALLEL I/O END: get_story_paginated [duration=0.4ms, remaining=2]
+2026-04-15 03:30:11,460 - root - INFO - ✅ PARALLEL I/O END: get_user_settings [duration=0.4ms, remaining=1]
+2026-04-15 03:30:11,460 - root - INFO - ✅ PARALLEL I/O END: get_campaign_game_state [duration=0.2ms, remaining=0]
+2026-04-15 03:30:11,460 - root - WARNING - ⚠️ Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:11,460 - root - WARNING - ⚠️ Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:11,460 - root - WARNING - ⚠️ Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:11,460 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:11,460 - root - WARNING - ⚠️ Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:11,460 - root - WARNING - ⚠️ Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:11,460 - root - WARNING - ⚠️ Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:11,460 - root - INFO - Campaign generated-id-1 story: 2 entries, total=3.7KB, avg=1.9KB/entry
+2026-04-15 03:30:11,460 - root - INFO - Entry 1 size breakdown (top 5): text=0.7KB, session_header=0.1KB, state_updates_audit=0.1KB, full_state_updates=0.1KB, action_resolution=0.0KB
+2026-04-15 03:30:11,460 - root - INFO - 🎯 BACKEND RESPONSE for campaign generated-id-1:
+2026-04-15 03:30:11,460 - root - INFO -   Campaign Title: 'RED Test - God Mode Placeholder Bug'
+2026-04-15 03:30:11,460 - root - INFO -   Story entries: 2
+2026-04-15 03:30:11,460 - root - INFO -   Pagination: 2/2 (has_older=False)
+.
+----------------------------------------------------------------------
+Ran 2 tests in 0.026s
+
+OK
+RESULT: PASS
+DURATION: 1s
+END: 2026-04-15 03:30:11

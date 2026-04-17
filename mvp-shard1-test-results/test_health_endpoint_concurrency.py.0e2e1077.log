@@ -1,0 +1,113 @@
+TESTFILE: mvp_site/tests/test_health_endpoint_concurrency.py
+START: 2026-04-15 03:30:27
+2026-04-15 03:30:27,361 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:30:27,759 - root - INFO - Applied clock skew patch: adjusting time by -720 seconds
+2026-04-15 03:30:28,183 - root - INFO - Loading service account from file: /dev/null
+2026-04-15 03:30:28,183 - root - WARNING - ⚠️ Failed to load credentials from file /dev/null: Expecting value: line 1 column 1 (char 0)
+2026-04-15 03:30:28,183 - root - INFO - Attempting to load service account from environment variables
+2026-04-15 03:30:28,183 - root - WARNING - ⚠️ Failed to load credentials from env vars: Missing required environment variables: GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY. Please set these variables in your environment (.env file, Claude.ai project settings, or GitHub Secrets). See module docstring for detailed instructions.
+2026-04-15 03:30:28,183 - root - WARNING - ⚠️ Failed to load explicit credentials: Failed to load service account credentials from any source. File path '/dev/null' not found or invalid. Environment variables missing or incomplete (need GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY).. Attempting default application credentials.
+2026-04-15 03:30:28,183 - root - INFO - Firebase initialized successfully in world_logic.py
+2026-04-15 03:30:28,184 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:28,184 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:28,184 - root - INFO - Schema doc cache initialized: 11 types, 0.12ms total
+2026-04-15 03:30:28,185 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:28,185 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:28,192 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:28,192 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:28,192 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:28,193 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:28,193 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:28,198 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:28,198 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:28,199 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:28,200 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:28,200 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+.2026-04-15 03:30:28,205 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:28,205 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:28,205 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:28,206 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:28,206 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+.2026-04-15 03:30:28,212 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:28,212 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:28,212 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:28,213 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:28,213 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:28,217 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:28,218 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:28,218 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:28,218 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:28,218 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+.2026-04-15 03:30:28,224 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:28,224 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:28,224 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:28,225 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:28,225 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+.2026-04-15 03:30:28,230 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:28,230 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:28,230 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:28,231 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:28,231 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:28,236 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:28,236 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:28,236 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:28,237 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:28,237 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+.2026-04-15 03:30:28,242 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:28,242 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:28,242 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:28,243 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:28,243 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+.2026-04-15 03:30:28,263 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:28,263 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:28,264 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:28,264 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:28,264 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:28,269 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:28,270 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:28,270 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:28,270 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:28,271 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+.2026-04-15 03:30:28,276 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:28,276 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:28,276 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:28,277 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:28,277 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+.2026-04-15 03:30:28,282 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:28,283 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:28,283 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:28,284 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:28,284 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+.2026-04-15 03:30:28,289 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:28,289 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:28,289 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:28,290 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:28,290 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+.2026-04-15 03:30:28,295 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:28,295 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:28,295 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:28,296 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:28,296 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+.2026-04-15 03:30:28,301 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:28,301 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:28,301 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:28,302 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:28,302 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+.2026-04-15 03:30:28,307 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:28,307 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:28,307 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:28,309 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:28,309 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:28,314 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:28,314 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:28,314 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:28,315 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:28,315 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+.
+----------------------------------------------------------------------
+Ran 13 tests in 0.128s
+
+OK
+RESULT: PASS
+DURATION: 1s
+END: 2026-04-15 03:30:28

@@ -1,0 +1,17 @@
+TESTFILE: mvp_site/tests/test_authenticated_comprehensive.py
+START: 2026-04-15 03:29:44
+2026-04-15 03:29:44,189 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:29:44,189 - __main__ - INFO - 🔐 Starting Comprehensive Authenticated API Test Suite
+2026-04-15 03:29:44,189 - __main__ - INFO - =================================================================
+2026-04-15 03:29:44,189 - __main__ - INFO - 
+🌐 Test 1: Server Connectivity
+2026-04-15 03:29:44,189 - __main__ - INFO - ----------------------------------------
+2026-04-15 03:29:44,190 - __main__ - ERROR - ❌ Backend server failed: HTTPConnectionPool(host='localhost', port=8081): Max retries exceeded with url: /api/time (Caused by NewConnectionError("HTTPConnection(host='localhost', port=8081): Failed to establish a new connection: [Errno 111] Connection refused"))
+2026-04-15 03:29:44,190 - __main__ - INFO - ℹ️  CI Environment detected - server unavailability is expected
+2026-04-15 03:29:44,190 - __main__ - INFO - 
+📊 Final Assessment:
+2026-04-15 03:29:44,190 - __main__ - INFO - ℹ️  Test suite skipped - servers not available in CI environment
+2026-04-15 03:29:44,191 - __main__ - INFO - System Status: ⏭️ SKIPPED (CI Environment)
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:29:44
