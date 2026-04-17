@@ -1,3 +1,4 @@
+## [2026-04-17] autor | ET autor PR #6342 created — recreation of #6261 (robust numeric); ET WHY reasoning; scored 92/100 (highest Phase 4); bandit updated ET n=14 mean=83.2
 ## [2026-04-17] autor | ET autor PR #6341 created — recreation of #6266 (skeptic verdict regex); ET extended thinking; scored 85/100; bandit updated ET n=13 mean=82.7
 ## [2026-04-17] autor | PRM autor PR #6340 created — recreation of #6261 (robust numeric extraction); PRM technique with step-by-step reasoning; scored 77/100; bandit updated PRM n=10 mean=81.4
 ## [2026-04-16] ingest | 7 merged PRs ingested — PRs #6325, #6309, #6291, #6279, #6275, #6269, #6266 — CI workflow, grep fixes, 6-dim scoring, level-up bug fixes
