@@ -14,6 +14,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
+- [PR #6344 — [autor/PRM] Recreation of #6259](sources/pr6344_autor_prm_recreation_6259.md) — PRM autor; skeptic VERDICT extraction fix; scored 78/100; PRM n=13
+- [PR #6343 — [autor/PRM] Port CR Fallback Logic](sources/pr6343_autor_prm_6269.md) — PRM autor; CR fallback logic; scored 76/100; PRM n=11
 - [PR #6342 — [autor/ET] Robust Numeric Extraction Recreation](sources/pr6342_autor_et_recreation_6261.md) — ET autor PR #6261; WHY reasoning comments; scored 92/100 (highest in Phase 4); +15 vs original; ET n=14
 - [PR #6341 — [autor/ET] Fix Skeptic Verdict Regex Recreation](sources/pr6341_autor_et_recreation_6266.md) — ET autor PR #6266; extended chain-of-thought reasoning; scored 85/100; bold **VERDICT** formatting fix
 - [PR #6340 — [autor/PRM] Robust Numeric Extraction Recreation](sources/pr6340_autor_prm_recreation_6261.md) — PRM autor PR #6261; step-by-step reasoning visible in comments; scored 77/100; added OverflowError handling
