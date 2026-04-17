@@ -3606,3 +3606,5 @@ SelfRefine #6277: 8.1/10. PRM #6275: 6.25/10. ExtendedThinking #6276: 6.45/10. S
 - **Summary**: Phase 3: All 3 techniques converge to ~87 (SelfRefine n=17 mean 84.8, ET n=12 mean 82.5, PRM n=5 mean 79.1). Held-out validation: autor PR #6330 SelfRefine scored 91/100 (+4 vs original #6287 est. 87/100). Hypothesis doc addendum: #6330 improved docstring (+2) and naming (+2) but introduced architectural inconsistency (−1: kept normalize_rewards_box in banned list). 5 remaining autor PRs (#6331-#6335) need scoring.
 - **Files**: wiki/syntheses/cycle_phase3_hypothesis.md (updated with held-out addendum)
 ## [2026-04-16] phase4 | Phase 4 final synthesis created
+## [2026-04-17] cycle_phase5 | NULL RESULT: router uplift=1.0 < 2.0 threshold — br-5bj closed as wontfix
+Matched corpus: 5 PRs × 3 techniques. Reversals=3, gate PASS. Oracle uplift=1.0. Router infrastructure unjustified.
