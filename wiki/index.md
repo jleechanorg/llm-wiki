@@ -14,6 +14,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
+- [PR #6341 — [autor/ET] Fix Skeptic Verdict Regex Recreation](sources/pr6341_autor_et_recreation_6266.md) — ET autor PR #6266; extended chain-of-thought reasoning; scored 85/100; bold **VERDICT** formatting fix
 - [PR #6340 — [autor/PRM] Robust Numeric Extraction Recreation](sources/pr6340_autor_prm_recreation_6261.md) — PRM autor PR #6261; step-by-step reasoning visible in comments; scored 77/100; added OverflowError handling
 - [PR #6325 — Remove design_doc_gate from CI Pipeline](sources/pr6325_design_doc_gate_removal.md) — Removes design_doc_gate job from green-gate.yml (158 lines); fixes doc-size-check.yml retry-self-hosted needs bug; CI workflow simplified
 - [PR #6279 — SWE-bench 6-Dimension Scoring](sources/pr6279_swebench_6dimension_scoring.md) — 6-dim canonical pattern scoring rubric introduced; scored PRs 6275/6276/6277; became standard for AutorPR evaluation in Phase 3/4
