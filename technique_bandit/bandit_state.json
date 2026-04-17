@@ -1,20 +1,14 @@
 {
   "techniques": {
     "ET": {
-      "n": 5,
-      "scores": [
-        81,
-        85,
-        78,
-        89,
-        78
-      ],
-      "mean": 82.2,
+      "n": 0,
+      "scores": [],
+      "mean": 0,
       "last_updated": "2026-04-17T15:11:58.471247+00:00",
       "notes": "ET matched corpus batch run"
     },
     "PRM": {
-      "n": 9,
+      "n": 14,
       "scores": [
         82,
         85,
@@ -24,13 +18,18 @@
         84,
         83,
         86,
-        83
+        83,
+        82,
+        88,
+        79,
+        84,
+        70
       ],
-      "mean": 84.1,
+      "mean": 82.9,
       "commit_sha": "792bfacea",
       "pr": 6345,
-      "last_updated": "2026-04-16T22:21:00Z",
-      "notes": "PRM WA-007 for PR #6258 stabilization"
+      "last_updated": "2026-04-17T15:12:08.077501+00:00",
+      "notes": "PRM matched corpus batch 2: +5 PRs (82, 88, 79, 84, 70), n=14"
     }
   },
   "rubric_scores": {
@@ -82,6 +81,21 @@
           "run_session": "et-manual-20260417",
           "technique": "ET"
         }
+      ],
+      "PRM": [
+        {
+          "total": 82,
+          "naming": 12,
+          "error_handling": 16,
+          "type_safety": 17,
+          "architecture": 15,
+          "test_coverage": 12,
+          "documentation": 10,
+          "breakdown": "PRM rubric scoring via MiniMax; 82/100",
+          "commit_sha": "PRM_6265_20260417_151208",
+          "run_session": "20260417_151208",
+          "technique": "PRM"
+        }
       ]
     },
     "6261": {
@@ -111,6 +125,21 @@
           "commit_sha": "et-6261",
           "run_session": "et-manual-20260417",
           "technique": "ET"
+        }
+      ],
+      "PRM": [
+        {
+          "total": 88,
+          "naming": 14,
+          "error_handling": 18,
+          "type_safety": 18,
+          "architecture": 17,
+          "test_coverage": 14,
+          "documentation": 7,
+          "breakdown": "PRM rubric scoring via MiniMax; 88/100",
+          "commit_sha": "PRM_6261_20260417_151208",
+          "run_session": "20260417_151208",
+          "technique": "PRM"
         }
       ]
     },
@@ -142,6 +171,21 @@
           "run_session": "et-manual-20260417",
           "technique": "ET"
         }
+      ],
+      "PRM": [
+        {
+          "total": 79,
+          "naming": 13,
+          "error_handling": 16,
+          "type_safety": 16,
+          "architecture": 14,
+          "test_coverage": 11,
+          "documentation": 9,
+          "breakdown": "PRM rubric scoring via MiniMax; 79/100",
+          "commit_sha": "PRM_6245_20260417_151208",
+          "run_session": "20260417_151208",
+          "technique": "PRM"
+        }
       ]
     },
     "6243": {
@@ -171,6 +215,21 @@
           "commit_sha": "et-6243",
           "run_session": "et-manual-20260417",
           "technique": "ET"
+        }
+      ],
+      "PRM": [
+        {
+          "total": 84,
+          "naming": 14,
+          "error_handling": 17,
+          "type_safety": 17,
+          "architecture": 16,
+          "test_coverage": 12,
+          "documentation": 8,
+          "breakdown": "PRM rubric scoring via MiniMax; 84/100",
+          "commit_sha": "PRM_6243_20260417_151208",
+          "run_session": "20260417_151208",
+          "technique": "PRM"
         }
       ]
     },
@@ -202,8 +261,23 @@
           "run_session": "et-manual-20260417",
           "technique": "ET"
         }
+      ],
+      "PRM": [
+        {
+          "total": 70,
+          "naming": 10,
+          "error_handling": 15,
+          "type_safety": 15,
+          "architecture": 12,
+          "test_coverage": 3,
+          "documentation": 7,
+          "breakdown": "PRM rubric scoring via MiniMax; 70/100",
+          "commit_sha": "PRM_6269_20260417_151208",
+          "run_session": "20260417_151208",
+          "technique": "PRM"
+        }
       ]
     }
   },
-  "last_updated": "2026-04-17T15:11:58.471255+00:00"
+  "last_updated": "2026-04-17T15:12:08.077501+00:00"
 }
