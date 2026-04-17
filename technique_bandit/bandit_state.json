@@ -1,36 +1,22 @@
 {
   "techniques": {
+    "SR": {
+      "n": 5,
+      "scores": [77, 89, 83, 100, 82],
+      "mean": 86.2,
+      "last_updated": "2026-04-17T15:30:00Z",
+      "notes": "SR matched corpus batch: MiniMax-M2.5 rubric scoring"
+    },
     "ET": {
       "n": 5,
-      "scores": [
-        81,
-        85,
-        78,
-        89,
-        78
-      ],
+      "scores": [81, 85, 78, 89, 78],
       "mean": 82.2,
       "last_updated": "2026-04-17T15:11:58.471247+00:00",
       "notes": "ET matched corpus batch run"
     },
     "PRM": {
       "n": 14,
-      "scores": [
-        82,
-        85,
-        87,
-        79,
-        88,
-        84,
-        83,
-        86,
-        83,
-        82,
-        88,
-        79,
-        84,
-        70
-      ],
+      "scores": [82, 85, 87, 79, 88, 84, 83, 86, 83, 82, 88, 79, 84, 70],
       "mean": 82.9,
       "commit_sha": "792bfacea",
       "pr": 6345,
@@ -60,6 +46,21 @@
       "breakdown": "Constants well-named; error handling from PR#6258 preserved; dynamic multiplier improves type safety; clean architecture with class-level constants"
     },
     "6265": {
+      "SR": [
+        {
+          "total": 77,
+          "naming": 13,
+          "error_handling": 16,
+          "type_safety": 14,
+          "architecture": 16,
+          "test_coverage": 12,
+          "documentation": 6,
+          "breakdown": "Solid fix adding fallback mapping (xp→xp_gained, gold_pieces→gold) and restructuring the signal logic. Clean coerce_int with defaults. Type safety could benefit from TypedDict for rewards_box shape.",
+          "commit_sha": "SR_6265_20260417",
+          "run_session": "20260417_SR_batch",
+          "technique": "SR"
+        }
+      ],
       "ET": [
         {
           "total": 81,
@@ -92,6 +93,21 @@
       ]
     },
     "6261": {
+      "SR": [
+        {
+          "total": 89,
+          "naming": 14,
+          "error_handling": 18,
+          "type_safety": 17,
+          "architecture": 18,
+          "test_coverage": 14,
+          "documentation": 8,
+          "breakdown": "Centralized numeric converter with regex extraction handles varied formats well. Error handling covers edge cases (NaN, infinity, empty strings). Architecture properly separates concerns with _get_raw helper for fallback chains.",
+          "commit_sha": "SR_6261_20260417",
+          "run_session": "20260417_SR_batch",
+          "technique": "SR"
+        }
+      ],
       "ET": [
         {
           "total": 85,
@@ -124,6 +140,21 @@
       ]
     },
     "6245": {
+      "SR": [
+        {
+          "total": 83,
+          "naming": 13,
+          "error_handling": 18,
+          "type_safety": 17,
+          "architecture": 18,
+          "test_coverage": 8,
+          "documentation": 9,
+          "breakdown": "Strong type safety with explicit isinstance checks and overflow handling. Good architecture consolidation - removed duplicate functions, unified to extract_character_xp. Main weakness: test coverage dropped.",
+          "commit_sha": "SR_6245_20260417",
+          "run_session": "20260417_SR_batch",
+          "technique": "SR"
+        }
+      ],
       "ET": [
         {
           "total": 78,
@@ -156,6 +187,21 @@
       ]
     },
     "6243": {
+      "SR": [
+        {
+          "total": 100,
+          "naming": 15,
+          "error_handling": 20,
+          "type_safety": 20,
+          "architecture": 20,
+          "test_coverage": 15,
+          "documentation": 10,
+          "breakdown": "Excellent implementation of widening state flag semantics. Type safety correctly handles Python's bool-is-subclass-of-int quirk with explicit bool exclusion. Architecture is DRY with parallel structure.",
+          "commit_sha": "SR_6243_20260417",
+          "run_session": "20260417_SR_batch",
+          "technique": "SR"
+        }
+      ],
       "ET": [
         {
           "total": 89,
@@ -188,6 +234,21 @@
       ]
     },
     "6269": {
+      "SR": [
+        {
+          "total": 82,
+          "naming": 14,
+          "error_handling": 18,
+          "type_safety": 16,
+          "architecture": 17,
+          "test_coverage": 8,
+          "documentation": 9,
+          "breakdown": "Consistent variable naming (CR_SIGNAL, LATEST_CR_PIPELINE) across all 4 files. Excellent error handling with set +e -o pipefail guards. Shell typing appropriate for workflow scripts.",
+          "commit_sha": "SR_6269_20260417",
+          "run_session": "20260417_SR_batch",
+          "technique": "SR"
+        }
+      ],
       "ET": [
         {
           "total": 78,
@@ -220,5 +281,5 @@
       ]
     }
   },
-  "last_updated": "2026-04-17T15:12:08.077501+00:00"
+  "last_updated": "2026-04-17T15:30:00Z"
 }
