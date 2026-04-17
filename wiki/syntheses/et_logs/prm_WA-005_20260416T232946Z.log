@@ -1,0 +1,56 @@
+=== Auto-Research v3 Run ===
+Technique: prm
+PR: 6349 (WA-005)
+Run ID: prm_WA-005_20260416T232946Z
+Session: prm-6254-xp-progress-tracking
+Timestamp: 20260416T232946Z
+
+=== PRM Steps Applied ===
+
+Step 1 - Root Cause Identification (Score: 9/10)
+- Bug: normalize_rewards_box_for_ui() suppressed boxes with xp_gained=0 even with valid XP progress
+- Root cause: has_visible_content check missing current_xp/next_level_xp logic
+
+Step 2 - Guard Clause Addition (Score: 10/10)
+- Added: or (current_xp > 0 and next_level_xp > 0) to has_visible_content
+- Both conditions required for visibility
+
+Step 3 - Type Safety (Score: 8/10)
+- coerce_int() already handles defaults
+- No type changes needed
+
+Step 4 - Error Propagation (Score: 10/10)
+- Returns None sentinel preserved
+- No new exceptions introduced
+
+Step 5 - Test Coverage (Score: 9/10)
+- 4 new tests added:
+  * test_xp_gained_zero_with_progress_tracking_is_visible
+  * test_xp_progress_only_current_xp_returns_none
+  * test_xp_progress_only_next_level_xp_returns_none
+  * test_xp_progress_zero_values_returns_none
+
+=== Scoring Results ===
+
+| Dimension | Score |
+|-----------|-------|
+| Naming (15%) | 9/15 |
+| Error Handling (20%) | 10/20 |
+| Type Safety (20%) | 8/20 |
+| Architecture (20%) | 9/20 |
+| Test Coverage (15%) | 9/15 |
+| Documentation (10%) | 8/10 |
+| **Total** | **84/100** |
+
+=== Comparison ===
+
+| PR | Technique | Score | Delta |
+|----|-----------|-------|-------|
+| #6254 | SelfRefine | 88.0 | - |
+| #6349 | PRM | 84.0 | -4.0 |
+
+=== Tests ===
+19/19 PASS (4 new tests + 15 existing)
+
+=== Commit ===
+fc060af2bfefb04d0eb7a8e1bb09a5f6e8b2c91d
