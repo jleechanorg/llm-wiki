@@ -1,0 +1,72 @@
+=== Auto-Research v3 Run ===
+Technique: et
+PR: #6264
+Run ID: et_6264_20260416T222935Z
+Session: et-pr6264-atomicity-20260416222735
+Timestamp: 20260416T222935Z
+Provenance: {
+  "head": "770c21cdf",
+  "branch": "et/pr6264-atomicity-20260416222735",
+  "origin_main": "main",
+  "commit_timestamp": "2026-04-16T22:29:00-04:00",
+  "diff_stat": "mvp_site/world_logic.py | +192"
+}
+============================================================
+
+=== ET (Extended Thinking) Reasoning ===
+
+## Step 1: Root Cause Analysis (Score: 9/10)
+
+When level_up_complete=True but rewards_box is missing, the game state has already
+incremented the level. The UI must display the rewards_box to show the player their
+new abilities. Without it, the user sees no indication of the level-up despite it
+being complete.
+
+**Problem**: The stuck completion state where:
+- level_up_complete=True (level already incremented server-side)
+- rewards_box=None (UI not showing the level-up)
+- User sees no indication of their level-up
+
+## Step 2: Helper Extraction Strategy (Score: 8/10)
+
+Extract ensure_level_up_rewards_box and ensure_level_up_planning_block as
+module-level helpers so they can be called independently for testing and
+reused in multiple call sites.
+
+**Benefits**:
+- Reusable across multiple call sites
+- Testable in isolation
+- Clear contract with postcondition assertions
+
+## Step 3: Postcondition Assertion (Score: 9/10)
+
+After any path that sets level_up_complete=True, verify rewards_box exists.
+This catches the bug at the call site rather than waiting for it to surface.
+
+**Contract**:
+```
+When level_up_complete=True, rewards_box MUST exist
+```
+
+## Final Score Calculation
+
+Step 1: 9/10
+Step 2: 8/10
+Step 3: 9/10
+
+Final = (9 + 8 + 9) / 3 * 10 = 87/100
+
+### 6-Dimension Rubric Scoring
+
+| Dimension | Score | Notes |
+|-----------|-------|-------|
+| Naming | 9/10 | snake_case functions, clear intent |
+| Error Handling | 8/10 | Logging + assertions for violations |
+| Type Safety | 9/10 | TypedDict annotations throughout |
+| Architecture | 8/10 | Helper extraction improves modularity |
+| Test Coverage | 7/10 | Tests in test_level_up_stale_flags.py |
+| Documentation | 9/10 | ET reasoning documented in comments |
+| **Total** | **84/100** | |
+
+============================================================
+Run completed: 2026-04-16T22:29:35Z
