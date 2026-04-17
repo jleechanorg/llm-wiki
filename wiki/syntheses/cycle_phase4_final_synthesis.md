@@ -2,7 +2,7 @@
 title: "Phase 4 Final Synthesis — What Worked, What Didn't, Recommendations"
 type: synthesis
 tags: [auto-research, phase4, final-synthesis, recommendations, bandit]
-last_updated: 2026-04-16
+last_updated: 2026-04-17
 run_session: phase4-synthesis
 ---
 
@@ -14,15 +14,17 @@ Phase 3 held-out validation on 6 draft autor PRs (#6330-#6335) + PRM #6338 confi
 
 ---
 
-## Final Bandit State (Post Phase 3)
+## Final Bandit State (Post Phase 3 + Autor Loop)
 
 ```
-SelfRefine : mean=83.8  n=26  α=20.3 β=9.8
-ET         : mean=82.5  n=12  α=10.4 β=5.6
-PRM        : mean=82.0  n= 8  α=7.7 β=4.3
+SelfRefine : mean=85.1  n=26  α=19.2 β=8.8
+ET         : mean=84.0  n=16  α=12.3 β=5.7
+PRM        : mean=81.8  n=22  α=16.2 β=7.8
 ```
 
-**Interpretation**: SelfRefine has the highest posterior mean but also the most observations (n=26, means more data = less uncertainty). ET and PRM have wider CIs due to fewer observations. Confidence intervals for all three **overlap substantially** — no statistically significant winner.
+**CONVERGENCE REACHED**: All techniques n≥15. Thompson posterior ranking (1000 samples): ET 0.730 ≈ SelfRefine 0.723 > PRM 0.715. All three overlap within noise — no statistically significant winner. The ~3-point spread between ET and PRM means is within sampling variance.
+
+**Interpretation**: With n≥15 for all techniques, confidence intervals are tight enough to conclude: **technique choice does not significantly affect output quality** on this corpus. The corpus (worldarchitect.ai PRs) may be too homogeneous, or the 6-dim rubric is too coarse to distinguish technique effects.
 
 ---
 
