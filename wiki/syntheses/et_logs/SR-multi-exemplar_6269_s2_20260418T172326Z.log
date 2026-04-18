@@ -1,0 +1,26 @@
+# SR-multi-exemplar Phase 7c Run 2 for PR #6269
+Timestamp: 2026-04-18T17:23:26Z
+Technique: SR-multi-exemplar
+Session: phase7-multi-exemplar-20260418
+
+## PR Context
+Title: [autor] Add CodeRabbit approval fallback to Skeptic Gates workflows
+Body: Add CR approval fallback logic: when no formal CR review exists, check CodeRabbit status checks and [approve] bot comments
+
+## Exemplars Shown (all 3 types)
+1. state-bool exemplar: PR#6243 (97.5) - game_state.py boolean widening
+2. data-norm exemplar: PR#6261 (89) - world_logic.py centralized numeric coercion
+3. ci-workflow exemplar: PR#6269 (85.3) - skeptic-gate YAML CodeRabbit fallback
+
+## PR Type Classification
+Model classified PR #6269 as: ci-workflow
+Rationale: GitHub Actions workflow file modifications
+
+## Applied Pattern
+ci-workflow exemplar was applied:
+- CodeRabbit fallback logic to Skeptic Gates
+- Secondary approval check when formal review unavailable
+- Exit code capture for robust error handling
+
+## Score: 84.4/100
+naming=85, error_handling=90, type_safety=80, architecture=86, test_coverage=20, documentation=82

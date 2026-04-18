@@ -1,0 +1,9 @@
+# SR-multi-exemplar Generation for PR #6275
+Timestamp: 2026-04-18T21:01:30.887022+00:00
+Technique: SR-multi-exemplar
+
+## PR Context
+Title: [agento][fix(level-up)] synthesize rewards_box when level_up_complete=True but box missing
+
+## Generation Response (2356 chars)
+Extracted code: 182 chars

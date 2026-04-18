@@ -1,0 +1,23 @@
+{
+  "pr": 6270,
+  "technique": "SR-multi-exemplar",
+  "naming": 85,
+  "error_handling": 70,
+  "type_safety": 90,
+  "architecture": 95,
+  "test_coverage": 80,
+  "documentation": 60,
+  "total": 81.75,
+  "breakdown": "This PR migrates the inline skeptic gate polling logic (200+ lines of bash with API rate limiting, retries, verdict parsing) to a reusable workflow call. The architecture improves significantly by removing inline implementation in favor of DRY reusable workflow pattern. However, the reusable workflow implementation is external (pinned to a specific SHA), so error handling behavior is not visible in this diff. Documentation is minimal on the new reusable workflow invocation compared to the verbose comments in the removed inline implementation.",
+  "key_changes": [
+    "Replaced 200+ line inline 'Poll for skeptic VERDICT' step with reusable workflow invocation",
+    "Added inputs: pr_number, head_sha, runner_labels, concurrency_group for workflow parameterization",
+    "Used secrets: inherit to pass GitHub tokens to reusable workflow",
+    "Removed extensive bash polling logic with API failure tracking and retry handling",
+    "Pinned reusable workflow to specific SHA (edf76e9fe41a57fbbf84baca674fd7c02a036bd1) for reproducibility"
+  ],
+  "commit_sha": "04d8df0b7bdafd745ce82e731ffcb2abf3f58273",
+  "run_session": "SR-multi-exemplar-20260418T210319Z",
+  "last_updated": "2026-04-18T21:04:08.711465+00:00",
+  "sample_number": 1
+}
