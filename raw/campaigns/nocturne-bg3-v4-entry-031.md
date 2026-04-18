@@ -1,0 +1,49 @@
+---
+title: "Nocturne Bg3 V4 — Scene 031"
+type: source
+tags: [campaign, scene, nocturne-bg3-v4]
+last_updated: 2026-04-12
+scene_number: 31
+scene_total: 1207
+source_file: /tmp/campaign_downloads_v2/
+---
+
+## Scene 031 Summary
+
+============================================================ [Timestamp: 1492 DR, Mirtul 17, 11:00 AM Location: Cassalanter Villa Reception Hall Status: Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp] Resources: HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1 Dice Rolls:   - Deception (Confirmed): 1d20 +7 CHA (Siren's Leverage + PROF) = 19 +7 = 26 vs DC 18 (Elite Majordomo) - Success  Game Master: The Majordomo’s eyes, sharp as flint and twice as cold, fix upon you with the practice
+
+## Key Details
+
+- **Location:** Cassalanter Villa Reception Hall
+- **Level hint:** 2
+- **Word count:** 529
+- **Campaign:** [[Nocturne Bg3 V4]]
+- **Entry:** [[nocturne-bg3-v4-entry-031]]
+
+---
+
+## Full Scene Content
+
+============================================================
+[Timestamp: 1492 DR, Mirtul 17, 11:00 AM
+Location: Cassalanter Villa Reception Hall
+Status: Lvl 2 Bard | HP: 11/11 | XP: 450/900 | Gold: 125gp]
+Resources: HD: 2/2, Spells: L1 3/3, Inspiration: 3/3, Exhaustion: 1
+Dice Rolls:
+  - Deception (Confirmed): 1d20 +7 CHA (Siren's Leverage + PROF) = 19 +7 = 26 vs DC 18 (Elite Majordomo) - Success
+
+Game Master:
+The Majordomo’s eyes, sharp as flint and twice as cold, fix upon you with the practiced indifference of a man who has seen empires fall and soup served cold with equal equanimity. For a heartbeat, the gray fog of your exhaustion threatens to swallow your words, but you reach deep into the Sosuke well of performative trauma. You don't just act weak; you allow the genuine poison in your veins to dictate the rhythm of your breath.
+
+'Please...' you whisper, your voice a cracking porcelain fragment. You reach out, your fingers trembling as you touch the silver braid on his sleeve—a calculated breach of protocol that suggests a mind too frayed by distress to remember its place. 'My husband... Lord Gwent... he is a man of vast spirit, but he does not see the shadow in my eyes. I have misplaced a locket, a small thing of gold and silver hair, the only remnant of my sister Lyra.' You swallow hard, your eyes dilated and watering from the ammonia sting of the salts. 'If it is found by a common guest... the scandal... I only wish to know if I have time to search the garden path before the Lord’s Toast begins. When exactly is the... the peak of the festivities? I must not be absent when the sun stands highest.'
+
+The Majordomo pauses. He looks at your hand on his sleeve, then at the raw, dilated vulnerability in your violet eyes. He sees a high-born woman breaking under the pressure of a boorish husband and a lost ghost. The rigid line of his shoulders softens by a fraction of a millimeter. The roll was indeed valid: a 19 raw, bolstered by your Siren's Leverage and your proficiency in the arts of the tongue, totals a 26. Against his DC of 18, it is a masterwork of manipulation.
+
+'The Lord’s Toast commences precisely at the zenith, Madam,' he murmurs, his voice dropping an octave into a low, professional confidence. 'High Noon. Sixty minutes remain. The Temple doors will be sealed ten minutes prior for the private devotion. If you must search, do so with haste. A lady of your... station... should not be seen wandering the service corridors once the bells chime.'
+
+He bows, a shallow but genuine acknowledgment of your 'distress,' and turns back to his subordinates. You have the time: 12:00 PM. Sixty minutes to navigate the web before the doors to the Temple become a tomb. As you turn back toward the crowd, you notice Victoro Cassalanter receiving a wax-sealed cylinder from a harried-looking courier; the Lord of the house barely glances at the contents before sliding the scroll into the silk folds of his robes, his expression hardening into one of finality.
+
+God Mode:
+Think. how should i use this new info
+
+============================================================
