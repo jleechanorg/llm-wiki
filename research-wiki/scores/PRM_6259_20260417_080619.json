@@ -1,0 +1,30 @@
+{
+  "pr": 6259,
+  "technique": "PRM",
+  "naming": 16,
+  "error_handling": 17,
+  "type_safety": 14,
+  "architecture": 15,
+  "test_coverage": 13,
+  "documentation": 12,
+  "total": 74,
+  "breakdown": "Strong error handling (17) and naming (16); type safety solid (14); architecture good (15); test coverage modest (13); docs adequate (12). PRM step-by-step reasoning fit well with multi-bug fix.",
+  "commit_sha": "4243f69ea093870d83012d9653ea9233a223a755",
+  "run_session": "phase3-prm-6259",
+  "last_updated": "2026-04-17T08:06:19Z",
+  "files_changed": [
+    ".github/scripts/skeptic-evaluate.sh (+12/-4)",
+    "mvp_site/game_state.py (+4/-4)",
+    "mvp_site/world_logic.py (+25/-10)",
+    "testing_mcp/test_world_events_real_repro.py (+10/-3)"
+  ],
+  "additions": 51,
+  "deletions": 21,
+  "pr_description": "fix: resolve missed serious PR audit findings (test hardening, skeptic logic, rewards bug)",
+  "bugs_addressed": [
+    "VERDICT regex not anchored to line start (could match malformed output)",
+    "or vs is not None bug in XP/gold fallbacks (0 treated as falsy)",
+    "Float numeric booleans (1.0/0.0) not recognized by state flag functions",
+    "Test missing error handling for API failures"
+  ]
+}

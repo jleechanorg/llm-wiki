@@ -1,0 +1,74 @@
+=== ET Run for PR #6265 ===
+Run ID: ET_6265_20260417T150734Z
+Session: 58c72f24
+Timestamp: 20260417T150734Z
+
+
+=== Prompt Sent to MiniMax ===
+## Task: Fix PR #6265
+
+### Original PR Title: [antig] [Fix] Normalize rewards box in streaming passthrough
+
+### Original PR Description:
+## Background
+A P0 bug was identified in `streaming_orchestrator.py` where raw, un-normalized rewards box data from the LLM was getting merged into Firestore because the fallback passthrough path skipped `_resolve_canonical_level_up_ui_pair` altogether during non-level-up scenarios.
+
+## Goals
+- Guarantee normalization for `rewards_box` payloads in streaming.
+- Unify streaming and non-streaming event persistence handling.
+
+## Tenets
+- Backend Owns State & Schema: The schema must always be strictly normalized regardless of the path.
+- Single Source of Truth: Canonical transformations should exist in unified helpers.
+
+## High-level description
+- Removed the `_has_level_up_ui_signal` conditional in `streaming_orchestrator.py` calling `_resolve_canonical_level_up_ui_pair` unconditionally so that all payloads pass through normalization.
+- In `world_logic.py:1717`'s fallback passthrough codepath, call `normalize_rewards_box_for_ui`.
+- Increased robustness of the normalization helper (`_normalize_rewards_box_for_ui`) to fall back gracefully for common hallucinatory LLM keys (`xp` -> `xp_gained`, `gold_pieces` -> `gold`).
+
+## Testing
+- ✅ Added local integration test `test_streaming_passthrough_normalization.py` that asserts normalization functions even with chaotic LLM keys.
+- ✅ Successfully executed local LLM verification demonstrating correct persistence of `xp_gained` and `gold`.
+
+## Low-level details
+- `mvp_site/streaming_orchestrator.py`: Unconditionally assigns canonical rewards boxes via `_resolve_canonical_level_up_ui_pair`.
+- `mvp_site/world_logic.py`: Normalizes passthrough box data. Handles legacy UI keys.
+- `testing_mcp/test_streaming_passthrough_normalization.py`: Integration test added.
+
+<!-- CURSOR_SUMMARY -->
+---
+
+> [!NOTE]
+> **Medium Risk**
+> Changes the streaming persistence path for `rewards_box`/`planning_block` canonica
+...
+
+
+=== MiniMax Response ===
+[Thinking: Let me analyze the task. I need to fix PR #6265 which is about normalizing rewards box in streaming passthrough.
+
+Looking at the original PR description:
+1. A P0 bug was identified in `streaming_orchestrator.py` where raw, un-normalized rewards box data from the LLM was getting merged into Firestore
+2. The fallback passthrough path skipped `_resolve_canonical_level_up_ui_pair` altogether during non-level-up scenarios
+3. The fix involves:
+   - Remove the `_has_level_up_ui_signal` conditional in `...]
+## Thinking
+
+Looking at this PR, the issue is about normalizing rewards box data in the streaming passthrough path. The bug is that raw, un-normalized rewards data from the LLM gets written to Firestore because non-level-up scenarios were skipping normalization.
+
+**Root Cause:**
+1. In `streaming_orchestrator.py`, `_resolve_canonical_level_up_ui_pair` was only called when `_has_level_up_ui_signal` returned True
+2. In `world_logic.py`'s fallback passthrough path at line ~1717, there was no call to `normalize_rewards_box_for_ui`
+3. The normalization helper wasn't robust enough to handle common LLM hallucinations like `xp` instead of `xp_gained`
+
+**Fix Approach:**
+1. Make `_resolve_canonical_level_up_ui_pair` be called unconditionally in streaming
+2. Add normalization call in the passthrough fallback path in `world_logic.py`
+3. Enhance `_normalize_rewards_box_for_ui` (or `normalize_rewards_box_for_ui`) to handle legacy keys like `xp` → `xp_gained` and `gold_pieces` → `gold`
+
+Let me start by exploring the codebase to understand the exact current state.
+<minimax:tool_call>
+<invoke name="bash">
+<parameter name="command">cd /Users/jleechan/.worktrees/jleechanorg/worldarchitect.ai && find . -type f -name "*.py" | head -20</parameter>
+</invoke>
+</minimax:tool_call>

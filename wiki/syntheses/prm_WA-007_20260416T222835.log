@@ -1,0 +1,42 @@
+---
+name: PRM PR #6257 ci-detect-changes Simplification
+type: synthesis
+run_session: $(date +%Y%m%dT%H%M%S)
+technique: PRM
+source_pr: 6257
+autor_pr: 6348
+score: 82/100
+delta: 0
+---
+
+## PRM Analysis: Remove Dead github_only Loop
+
+### Problem
+The `github_only` loop in `scripts/ci-detect-changes.sh` was dead code:
+- Loop iterates `ordered_groups` to set `github_only=false` if any group selected
+- But `.github` files `continue` at line 105 before reaching `SELECTED_GROUPS`
+- Combined condition reduces to just `${#SELECTED_GROUPS[@]} -eq 0`
+
+### PRM Step-by-Step Reasoning
+1. **Identify dead code**: The loop can never change `github_only` from `true` for `.github` files
+2. **Trace data flow**: `.github` files skip via `continue`, never reach `SELECTED_GROUPS`
+3. **Simplify condition**: `$github_only = true AND empty` → `empty`
+4. **Improve comments**: Explain WHY `.github` files never reach `SELECTED_GROUPS`
+
+### 6-Dim Rubric Score: 82/100
+
+| Dimension | Score | Rationale |
+|-----------|-------|-----------|
+| Naming | 95 | Clear variable names (`github_only`, `SELECTED_GROUPS`) |
+| Error Handling | 85 | Preserves existing GITHUB_OUTPUT error handling |
+| Type Safety | 70 | Bash no types; proper bash-isms used |
+| Architecture | 95 | Correct simplification; removes dead code cleanly |
+| Test Coverage | 60 | No tests; none broken by change |
+| Documentation | 90 | Improved comments explain why condition works |
+
+### Diff
+-11 lines removed, +7 lines added
+Logic identical; dead loop removed
+
+### Bandit Update
+PRM n=17, mean=82.2, alpha=11.33, beta=5.67

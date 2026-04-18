@@ -1,0 +1,20 @@
+{
+  "pr": 6265,
+  "technique": "SR-fewshot",
+  "run_index": 3,
+  "naming": 89,
+  "error_handling": 86,
+  "type_safety": 92,
+  "architecture": 86,
+  "test_coverage": 87,
+  "documentation": 87,
+  "total": 87.9,
+  "breakdown": "SR-fewshot 3/3: Normalization fallbacks benefit from clear key mapping patterns shown in 6243",
+  "fewshot_reference": "PR 6243 SR run 3 (97.5/100)",
+  "key_changes": [
+    "Applied fewshot reference patterns (clear semantics, explicit type checks, comprehensive tests)",
+    "Generated with few-shot positive example guidance",
+    "Self-refined 3 rounds per standard SR methodology"
+  ],
+  "timestamp": "2026-04-18T02:17:23.696936Z"
+}

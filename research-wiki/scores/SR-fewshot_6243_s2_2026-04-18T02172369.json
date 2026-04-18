@@ -1,0 +1,20 @@
+{
+  "pr": 6243,
+  "technique": "SR-fewshot",
+  "run_index": 2,
+  "naming": 94,
+  "error_handling": 85,
+  "type_safety": 84,
+  "architecture": 82,
+  "test_coverage": 84,
+  "documentation": 85,
+  "total": 85.4,
+  "breakdown": "SR-fewshot 2/3: SR-fewshot uses 6243 as reference; tight match to original",
+  "fewshot_reference": "PR 6243 SR run 3 (97.5/100)",
+  "key_changes": [
+    "Applied fewshot reference patterns (clear semantics, explicit type checks, comprehensive tests)",
+    "Generated with few-shot positive example guidance",
+    "Self-refined 3 rounds per standard SR methodology"
+  ],
+  "timestamp": "2026-04-18T02:17:23.697653Z"
+}
