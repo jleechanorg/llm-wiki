@@ -104,7 +104,7 @@
       "notes": "Phase 6: 5-round SelfRefine on PRs 6265,6261,6245,6243,6269; n=3 runs per PR"
     },
     "SR-fewshot": {
-      "n": 15,
+      "n": 20,
       "scores": [
         87.35,
         88.45,
@@ -120,10 +120,15 @@
         83.45,
         85.0,
         84.2,
-        84.0
+        84.0,
+        84.25,
+        60.75,
+        77.25,
+        62.75,
+        60.25
       ],
-      "mean": 85.75,
-      "last_updated": "2026-04-18T02:17:23.698631+00:00",
+      "mean": 81.575,
+      "last_updated": "2026-04-18T18:42:55.302585+00:00",
       "notes": "Phase 6: SR-fewshot with PR 6243 97.5/100 reference; 15 runs across 5 PRs"
     },
     "SR-adversarial": {
@@ -1506,6 +1511,22 @@
           "last_updated": "2026-04-18T18:37:39.438002+00:00",
           "technique": "SR-multi-exemplar"
         }
+      ],
+      "SR-fewshot": [
+        {
+          "total": 84.25,
+          "naming": 90,
+          "error_handling": 70,
+          "type_safety": 90,
+          "architecture": 85,
+          "test_coverage": 95,
+          "documentation": 75,
+          "breakdown": "This PR adds a RewardsBox TypedDict with validate_rewards_box() schema enforcement in custom_types.py. It introduces type safety for a previously untyped data structure used in narrative responses. Strengths include comprehensive test coverage and clear naming. Weaknesses include basic error handling (just returns bool, no detailed error messages) and limited documentation for the implementation itself.",
+          "commit_sha": "52a5fe2c17cbe22a7da159c7542b8ecc585848e7",
+          "run_session": "SR-fewshot-20260418T184046Z",
+          "last_updated": "2026-04-18T18:41:09.782436+00:00",
+          "technique": "SR-fewshot"
+        }
       ]
     },
     "6270": {
@@ -1523,6 +1544,22 @@
           "run_session": "SR-multi-exemplar-20260418T183711Z",
           "last_updated": "2026-04-18T18:37:54.537910+00:00",
           "technique": "SR-multi-exemplar"
+        }
+      ],
+      "SR-fewshot": [
+        {
+          "total": 60.75,
+          "naming": 55,
+          "error_handling": 60,
+          "type_safety": 75,
+          "architecture": 85,
+          "test_coverage": 40,
+          "documentation": 25,
+          "breakdown": "This PR migrates complex inline GitHub Actions polling logic (~150 lines of bash) to a reusable workflow call. The architecture improves by extracting the skeptic gate logic into a reusable workflow with proper parameterization. However, the job name contains a typo ('skptic_gate'), the change removes extensive inline comments that explained the polling logic, and no tests are visible. The use of a specific commit SHA rather than a tag is good for reproducibility.",
+          "commit_sha": "04d8df0b7bdafd745ce82e731ffcb2abf3f58273",
+          "run_session": "SR-fewshot-20260418T184046Z",
+          "last_updated": "2026-04-18T18:41:35.430923+00:00",
+          "technique": "SR-fewshot"
         }
       ]
     },
@@ -1542,6 +1579,22 @@
           "last_updated": "2026-04-18T18:38:12.029277+00:00",
           "technique": "SR-multi-exemplar"
         }
+      ],
+      "SR-fewshot": [
+        {
+          "total": 77.25,
+          "naming": 85,
+          "error_handling": 70,
+          "type_safety": 70,
+          "architecture": 85,
+          "test_coverage": 80,
+          "documentation": 75,
+          "breakdown": "Refactoring PR that moves level-up and rewards logic from game_state to a dedicated rewards_engine module, following single-responsibility principles. The diff shows clean import reorganization with descriptive function names like ensure_rewards_box, normalize_rewards_box, is_level_up_active. Tests were updated to reflect module changes. Most actual implementation code not visible in truncated diff, limiting full assessment of error handling and type safety.",
+          "commit_sha": "b8ecfd30a257b618458a1803f31915e10d7f6177",
+          "run_session": "SR-fewshot-20260418T184046Z",
+          "last_updated": "2026-04-18T18:42:02.298223+00:00",
+          "technique": "SR-fewshot"
+        }
       ]
     },
     "6254": {
@@ -1560,6 +1613,22 @@
           "last_updated": "2026-04-18T18:38:47.013423+00:00",
           "technique": "SR-multi-exemplar"
         }
+      ],
+      "SR-fewshot": [
+        {
+          "total": 62.75,
+          "naming": 75,
+          "error_handling": 50,
+          "type_safety": 40,
+          "architecture": 80,
+          "test_coverage": 70,
+          "documentation": 70,
+          "breakdown": "PR adds XP progress tracking (current_xp > 0 and next_level_xp > 0) to rewards_box visibility check in normalize_rewards_box_for_ui. Also refactors session header code from world_logic_module to session_header_utils. Naming is decent with improved function names, but no error handling added, no type safety improvements visible, and no new tests specifically for the XP progress feature. Architecture benefits from the utility extraction.",
+          "commit_sha": "457a1639e3e449da0ef84b78b33438df38730dfc",
+          "run_session": "SR-fewshot-20260418T184046Z",
+          "last_updated": "2026-04-18T18:42:22.380909+00:00",
+          "technique": "SR-fewshot"
+        }
       ]
     },
     "6275": {
@@ -1577,6 +1646,22 @@
           "run_session": "SR-multi-exemplar-20260418T183711Z",
           "last_updated": "2026-04-18T18:40:10.422884+00:00",
           "technique": "SR-multi-exemplar"
+        }
+      ],
+      "SR-fewshot": [
+        {
+          "total": 60.25,
+          "naming": 70,
+          "error_handling": 65,
+          "type_safety": 45,
+          "architecture": 65,
+          "test_coverage": 55,
+          "documentation": 65,
+          "breakdown": "This PR modifies tests to check shell scripts instead of workflow YAML files for certain gates, and updates the evidence root path string. The changes are mostly refactoring of test assertions to point to new locations rather than functional improvements. Type safety is unchanged - no type annotations added. The test modifications split some tests into YAML vs script versions but don't add new test coverage for the claimed fix about synthesizing rewards_box when level_up_complete=True.",
+          "commit_sha": "be963b9c187eb27d7a52ce85120f3bc08a6bd597",
+          "run_session": "SR-fewshot-20260418T184046Z",
+          "last_updated": "2026-04-18T18:42:55.302574+00:00",
+          "technique": "SR-fewshot"
         }
       ]
     }

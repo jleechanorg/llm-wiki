@@ -1,0 +1,23 @@
+{
+  "pr": 6277,
+  "technique": "SR-fewshot",
+  "naming": 90,
+  "error_handling": 70,
+  "type_safety": 90,
+  "architecture": 85,
+  "test_coverage": 95,
+  "documentation": 75,
+  "total": 84.25,
+  "breakdown": "This PR adds a RewardsBox TypedDict with validate_rewards_box() schema enforcement in custom_types.py. It introduces type safety for a previously untyped data structure used in narrative responses. Strengths include comprehensive test coverage and clear naming. Weaknesses include basic error handling (just returns bool, no detailed error messages) and limited documentation for the implementation itself.",
+  "key_changes": [
+    "Added RewardsBox TypedDict with required fields (level_up_available, xp_gained, current_xp, next_level_xp, gold, loot, source)",
+    "Added validate_rewards_box() function for schema enforcement with type checking",
+    "Added _is_int_not_bool helper to distinguish int from bool (since bool is isinstance of int)",
+    "Added comprehensive test suite in test_rewards_box_schema.py covering valid/invalid inputs, type checking, and required fields",
+    "Added progress_percent validation in LevelProgress schema (seen in diff snippet)"
+  ],
+  "commit_sha": "52a5fe2c17cbe22a7da159c7542b8ecc585848e7",
+  "run_session": "SR-fewshot-20260418T184046Z",
+  "last_updated": "2026-04-18T18:41:09.780022+00:00",
+  "sample_number": 1
+}
