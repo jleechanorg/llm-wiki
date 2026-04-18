@@ -1,0 +1,9 @@
+# PRM Generation for PR #6277
+Timestamp: 2026-04-18T20:58:43.339222+00:00
+Technique: PRM
+
+## PR Context
+Title: feat(mvp_site): RewardsBox TypedDict + validate_rewards_box() schema enforcement
+
+## Generation Response (21516 chars)
+Extracted code: 6122 chars

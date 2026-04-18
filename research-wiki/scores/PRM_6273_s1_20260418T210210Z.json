@@ -1,0 +1,24 @@
+{
+  "pr": 6273,
+  "technique": "PRM",
+  "naming": 90,
+  "error_handling": 60,
+  "type_safety": 75,
+  "architecture": 95,
+  "test_coverage": 85,
+  "documentation": 85,
+  "total": 80.75,
+  "breakdown": "This PR extracts level-up pipeline logic from game_state.py into a dedicated rewards_engine.py module, following single-responsibility principle. The new module contains functions for state flag checking, level-up signal resolution, rewards box normalization, and UI projection. Architecture is excellent with clean module boundaries and proper separation of concerns. Test coverage includes tests for level-up signals and rewards box functionality. Some gaps in error handling (assertions vs exceptions) and minor type safety concerns with some Any return types.",
+  "key_changes": [
+    "Created new rewards_engine.py module extracting level-up pipeline from game_state.py",
+    "Moved _is_state_flag_false, _is_state_flag_true, resolve_level_up_signal to rewards_engine.py",
+    "Added new functions: ensure_rewards_box, normalize_rewards_box, is_level_up_active, project_level_up_ui",
+    "Updated world_logic.py imports to use rewards_engine module",
+    "Renamed wiki/tips/*.md files to wiki/sources/*.md",
+    "Updated test_startup_import_regression.py to test llm_parser instead of streaming_orchestrator"
+  ],
+  "commit_sha": "b8ecfd30a257b618458a1803f31915e10d7f6177",
+  "run_session": "PRM-20260418T205842Z",
+  "last_updated": "2026-04-18T21:02:10.993323+00:00",
+  "sample_number": 1
+}
