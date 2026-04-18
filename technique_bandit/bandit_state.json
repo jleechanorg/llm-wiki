@@ -102,6 +102,29 @@
       "mean": 82.36,
       "last_updated": "2026-04-17T21:43:00.000000+00:00",
       "notes": "Phase 6: 5-round SelfRefine on PRs 6265,6261,6245,6243,6269; n=3 runs per PR"
+    },
+    "SR-fewshot": {
+      "n": 15,
+      "scores": [
+        87.35,
+        88.45,
+        87.9,
+        86.25,
+        82.55,
+        84.95,
+        87.25,
+        86.85,
+        88.0,
+        84.65,
+        85.4,
+        83.45,
+        85.0,
+        84.2,
+        84.0
+      ],
+      "mean": 85.75,
+      "last_updated": "2026-04-18T02:17:23.698631+00:00",
+      "notes": "Phase 6: SR-fewshot with PR 6243 97.5/100 reference; 15 runs across 5 PRs"
     }
   },
   "rubric_scores": {
