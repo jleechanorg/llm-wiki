@@ -1,0 +1,39 @@
+---
+title: "Nocturne Bg3 After — Scene 598"
+type: source
+tags: [campaign, scene, nocturne-bg3-after]
+last_updated: 2026-04-12
+scene_number: 598
+scene_total: 1027
+source_file: /tmp/campaign_downloads_v2/
+---
+
+## Scene 598 Summary
+
+============================================================ [Timestamp: 1493 DR, Eleasias 15, 16:45 Location: Athkatla - Shadow Council District (Safe House) Status: Lvl 23 Bard | Lvl 14 Bard (Masked) | HP: 508/508 | XP: 1,202,200 | Gold: 1,079,967gp] Resources: HD: 11/11, Spells: L9 4/4, L10 4/4, Arcane Battery: Ready, Soul Coins: 12  Game Master: The dusty air of the foyer feels heavy with the arrival of the Blade and the vampire spawn. You maintain your posture—slumped, hands trembling sligh
+
+## Key Details
+
+- **Location:** Athkatla - Shadow Council District (Safe House)
+- **Level hint:** 23
+- **Word count:** 125
+- **Campaign:** [[Nocturne Bg3 After]]
+- **Entry:** [[nocturne-bg3-after-entry-598]]
+
+---
+
+## Full Scene Content
+
+============================================================
+[Timestamp: 1493 DR, Eleasias 15, 16:45
+Location: Athkatla - Shadow Council District (Safe House)
+Status: Lvl 23 Bard | Lvl 14 Bard (Masked) | HP: 508/508 | XP: 1,202,200 | Gold: 1,079,967gp]
+Resources: HD: 11/11, Spells: L9 4/4, L10 4/4, Arcane Battery: Ready, Soul Coins: 12
+
+Game Master:
+The dusty air of the foyer feels heavy with the arrival of the Blade and the vampire spawn. You maintain your posture—slumped, hands trembling slightly as you white-knuckle the Scepter—while your mind audits their very souls. To them, you are a miracle under threat. To you, they are the final data points required to solve the Sword Coast.
+
+Player (choice: god:return_story):
+Return to Story - Exit GOD MODE and resume the narrative in the townhouse.
+
+============================================================

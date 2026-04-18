@@ -1,0 +1,32 @@
+---
+title: "Nocturne Bg3 V5 Succubus Copy — Scene 260"
+type: source
+tags: [campaign, scene, nocturne-bg3-v5-succubus-copy]
+last_updated: 2026-04-12
+scene_number: 260
+scene_total: 278
+source_file: /tmp/campaign_downloads_v2/
+---
+
+## Scene 260 Summary
+
+============================================================ Game Master: Invalid JSON response received. Please try again.  Player (choice: consume_spy): Consume Spy for Intel - Use Soul Thief to instantly learn everything the spy knows about Gortash's plans.  ============================================================
+
+## Key Details
+
+- **Word count:** 32
+- **Campaign:** [[Nocturne Bg3 V5 Succubus Copy]]
+- **Entry:** [[nocturne-bg3-v5-succubus-copy-entry-260]]
+
+---
+
+## Full Scene Content
+
+============================================================
+Game Master:
+Invalid JSON response received. Please try again.
+
+Player (choice: consume_spy):
+Consume Spy for Intel - Use Soul Thief to instantly learn everything the spy knows about Gortash's plans.
+
+============================================================
