@@ -1,0 +1,23 @@
+{
+  "pr": 6269,
+  "technique": "ET",
+  "naming": 75,
+  "error_handling": 85,
+  "type_safety": 80,
+  "architecture": 80,
+  "test_coverage": 0,
+  "documentation": 85,
+  "total": 68.75,
+  "breakdown": "This PR improves CodeRabbit approval detection in GitHub Actions workflows by adding fallback logic that checks both CodeRabbit status checks and '[approve]' bot comments when no formal review exists. It also adds proper pipefail error handling for shell API calls. The main weakness is lack of test coverage - there are no test files in this diff, only workflow YAML changes.",
+  "key_changes": [
+    "Add CR fallback logic: checks CodeRabbit status + '[approve]' comment when no formal review exists",
+    "Add explicit pipefail handling with set +e/-e and exit code checking for jq commands",
+    "Expand accepted bot usernames from just 'coderabbitai[bot]' to include 'coderabbitai'",
+    "Relax CR status filter from 'success' state to any CodeRabbit status",
+    "Add explicit error handling with exit code variables (LATEST_CR_EXIT, CR_APPROVE_EXIT)"
+  ],
+  "commit_sha": "35b736d9658cd1e0203503fecf4c50a8e4a809ec",
+  "run_session": "matched-corpus-n3-20260418",
+  "last_updated": "2026-04-18T00:09:31.554476+00:00",
+  "sample_number": 2
+}

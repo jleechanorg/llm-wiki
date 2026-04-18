@@ -1,0 +1,23 @@
+{
+  "pr": 6269,
+  "technique": "SR",
+  "naming": 70,
+  "error_handling": 75,
+  "type_safety": 50,
+  "architecture": 65,
+  "test_coverage": 20,
+  "documentation": 80,
+  "total": 59.5,
+  "breakdown": "PR adds CR approval fallback logic to Skeptic Gates workflows: when no formal CR review exists, it now checks CodeRabbit status checks on commits and [approve] bot comments. Improves error handling with explicit exit code capture using set +e -o pipefail. Also broadens bot username matching to include both coderabbitai[bot] and coderabbitai. Shell scripting makes type safety not applicable; test coverage absent as expected for workflow changes.",
+  "key_changes": [
+    "Add fallback to CR status check on commit (not just PR review)",
+    "Add fallback to CR [approve] bot comment detection",
+    "Add explicit exit code handling with set +e -o pipefail",
+    "Broaden bot username matching from coderabbitai[bot] to include coderabbitai",
+    "Filter CR status checks by context 'CodeRabbit' without success requirement in fallback path"
+  ],
+  "commit_sha": "35b736d9658cd1e0203503fecf4c50a8e4a809ec",
+  "run_session": "matched-corpus-n3-20260418",
+  "last_updated": "2026-04-18T00:08:52.495876+00:00",
+  "sample_number": 2
+}

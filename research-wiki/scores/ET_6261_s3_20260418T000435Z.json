@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "ET",
+  "naming": 85,
+  "error_handling": 72,
+  "type_safety": 80,
+  "architecture": 88,
+  "test_coverage": 65,
+  "documentation": 75,
+  "total": 79.15,
+  "breakdown": "This PR refactors the rewards box normalization to use a centralized robust numeric converter with fallback chains for handling messy LLM outputs. A new internal helper `_get_raw` handles edge cases (0, NaN, inf, empty strings) before conversion. The test file is substantial but lacks explicit assertion statements\u2014errors are collected in a list rather than raised. Type hints use Any appropriately for the fallback function. Good use of explanatory comments for WHY certain checks are needed.",
+  "key_changes": [
+    "Added `_get_raw` helper function with fallback key list and edge case handling (0, NaN, inf, empty)",
+    "Replaced multiple `coerce_int` calls with centralized `_DNC.convert_value` using fallback key chains",
+    "Added robust handling for absent `next_level_xp` to default to 0 instead of DNC game-state defaults",
+    "Created new E2E test `test_rewards_box_robustness.py` validating conversion on messy LLM payloads",
+    "Added unit tests covering fallback aliases, empty primary fallbacks, and NaN cases"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "matched-corpus-n3-20260418",
+  "last_updated": "2026-04-18T00:04:35.982260+00:00",
+  "sample_number": 3
+}
