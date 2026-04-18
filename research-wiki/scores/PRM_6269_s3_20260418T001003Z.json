@@ -1,0 +1,23 @@
+{
+  "pr": 6269,
+  "technique": "PRM",
+  "naming": 85,
+  "error_handling": 90,
+  "type_safety": 50,
+  "architecture": 80,
+  "test_coverage": 20,
+  "documentation": 85,
+  "total": 67.5,
+  "breakdown": "This PR adds fallback logic to Skeptic Gates workflow for CodeRabbit approval checking. When formal CR review is unavailable, it now falls back to checking the GitHub status check combined with an explicit '[approve]' comment. Error handling is solid with exit code capture and error messages. Naming improvements (LATEST_CR_PIPELINE) and documented rationale (some repos lack PR review objects) are strong. Test coverage is absent as expected for workflow changes.",
+  "key_changes": [
+    "Rename LATEST_CR_RAW to LATEST_CR_PIPELINE for clarity",
+    "Add error handling with set +e -o pipefail to capture jq exit codes",
+    "Check formal CR review first, fall back to status+comment combination",
+    "Update skeptic-cron.yml with parallel fallback logic",
+    "Expand user login filter from coderabbitai[bot] to include coderabbitai"
+  ],
+  "commit_sha": "35b736d9658cd1e0203503fecf4c50a8e4a809ec",
+  "run_session": "matched-corpus-n3-20260418",
+  "last_updated": "2026-04-18T00:10:03.435807+00:00",
+  "sample_number": 3
+}

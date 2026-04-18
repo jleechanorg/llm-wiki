@@ -1,0 +1,23 @@
+{
+  "pr": 6243,
+  "technique": "PRM",
+  "naming": 90,
+  "error_handling": 100,
+  "type_safety": 90,
+  "architecture": 95,
+  "test_coverage": 100,
+  "documentation": 95,
+  "total": 95.0,
+  "breakdown": "This PR widens state flag checking to accept LLM numeric booleans (1, '1', 0, '0') alongside strict boolean values, fixing silent level-up stalls. The code uses careful type checking to avoid confusing bool subclasses with int values. Tests are comprehensive with good docstrings explaining the WHY behind the change.",
+  "key_changes": [
+    "Widen _is_state_flag_true to accept int(1) and str('1') in addition to True/str('true')",
+    "Widen _is_state_flag_false to accept int(0) and str('0') in addition to False/str('false')",
+    "Add type check to ensure bool subclass of int is handled by bool branch, not int branch",
+    "Add comprehensive test class StateFlagSemanticsTest covering accepted and rejected values",
+    "Update docstrings to explain LLM numeric boolean rationale and production impact"
+  ],
+  "commit_sha": "168073c02518b872d6097d422c8776b6752b9a0d",
+  "run_session": "matched-corpus-n3-20260418",
+  "last_updated": "2026-04-18T00:08:42.272608+00:00",
+  "sample_number": 3
+}

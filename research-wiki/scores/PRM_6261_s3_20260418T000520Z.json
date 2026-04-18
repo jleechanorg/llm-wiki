@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "PRM",
+  "naming": 75,
+  "error_handling": 60,
+  "type_safety": 70,
+  "architecture": 75,
+  "test_coverage": 90,
+  "documentation": 80,
+  "total": 73.75,
+  "breakdown": "This PR refactors rewards box normalization to use a centralized robust numeric extraction with intelligent fallbacks across multiple key aliases (xp_gained, xp, xp_awarded, xpAmount). It handles edge cases like empty strings, zero values, NaN, and infinity gracefully. The inline helper function `_get_raw` is well-implemented but uses the cryptic `_DNC` abbreviation. Test coverage is strong with both unit and E2E hallucination tests. Type safety is partial with `Any` return types.",
+  "key_changes": [
+    "Replace coerce_int with centralized _DNC.convert_value using fallback key chains",
+    "Add _get_raw helper that searches multiple aliases (xp_gained\u2192xp\u2192xp_awarded\u2192xpAmount\u2192xp_earned)",
+    "Handle edge cases: empty strings, 0/0.0, NaN/inf treated as invalid/not-found",
+    "For next_level_xp, default to 0 instead of DNC game-state defaults like 300",
+    "Add testing_mcp/test_rewards_box_robustness.py with 5 unit test scenarios and E2E hallucination provocation"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "matched-corpus-n3-20260418",
+  "last_updated": "2026-04-18T00:05:20.453908+00:00",
+  "sample_number": 3
+}
