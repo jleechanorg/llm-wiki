@@ -26,7 +26,7 @@ def get_bandit_state():
 def get_merged_prs():
     out = run_cmd([
         "gh", "pr", "list", "--repo", "jleechanorg/worldarchitect.ai",
-        "--state", "merged", "--json", "number,title", "--jq", ".[] | \"\(.number) \(.title)\""
+        "--state", "merged", "--json", "number,title", "--jq", r'.[] | "\(.number) \(.title)"'
     ])
     return [line.split(" ", 1) for line in out.split("\n") if line]
 

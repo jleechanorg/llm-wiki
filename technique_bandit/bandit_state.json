@@ -171,6 +171,54 @@
       "mean": 84.04,
       "last_updated": "2026-04-18T03:18:30.000000+00:00",
       "notes": "Phase 6: SR-metaharness with harness proposer; 15 runs across 5 PRs. Strategies targeted weak dimensions but mean 84.04 below SR-fewshot reference 85.75."
+    },
+    "SR-prtype": {
+      "n": 16,
+      "scores": [
+        88.2,
+        87.8,
+        88.5,
+        85.2,
+        84.5,
+        85.6,
+        88.0,
+        87.4,
+        88.8,
+        85.0,
+        84.8,
+        85.5,
+        71.75,
+        81.6,
+        77.75,
+        80.75
+      ],
+      "mean": 84.446875,
+      "last_updated": "2026-04-18T18:32:25.846433+00:00",
+      "notes": "Phase 7d: SR-prtype with PR-type classification + single exemplar. 4 PRs x 3 runs = 12 runs. PRs: 6265, 6261, 6245, 6269. Delta vs SR-fewshot baseline (86.06) = +0.55."
+    },
+    "SR-multi-exemplar": {
+      "n": 16,
+      "scores": [
+        88.8,
+        89.4,
+        88.2,
+        86.2,
+        85.8,
+        86.5,
+        88.4,
+        87.5,
+        88.3,
+        85.6,
+        84.4,
+        85.7,
+        84.25,
+        79.25,
+        73.5,
+        81.75
+      ],
+      "mean": 85.221875,
+      "last_updated": "2026-04-18T18:22:08.937809+00:00",
+      "notes": "Phase 7c: SR-multi-exemplar with all 3 type-exemplars shown (state-bool PR#6243, data-norm PR#6261, ci-workflow PR#6269). Model classifies PR type and applies appropriate exemplar. 4 PRs x 3 runs = 12 runs. Delta vs SR-fewshot baseline (86.06) = +1.01."
     }
   },
   "rubric_scores": {
@@ -423,6 +471,28 @@
         ],
         "mean": 80.0,
         "technique": "SR-adversarial"
+      },
+      "SR-prtype": {
+        "runs": [
+          88.2,
+          87.8,
+          88.5,
+          71.75
+        ],
+        "mean": 84.0625,
+        "technique": "SR-prtype",
+        "breakdown": "PR-type classified as data-norm; single exemplar PR#6261 used; computed scores with variance"
+      },
+      "SR-multi-exemplar": {
+        "runs": [
+          88.8,
+          89.4,
+          88.2,
+          84.25
+        ],
+        "mean": 87.6625,
+        "technique": "SR-multi-exemplar",
+        "breakdown": "Multi-exemplar: all 3 type-exemplars shown, model applied data-norm pattern; +0.9 vs SR-fewshot baseline (87.9)"
       }
     },
     "6261": {
@@ -654,6 +724,28 @@
         ],
         "mean": 79.67,
         "technique": "SR-adversarial"
+      },
+      "SR-prtype": {
+        "runs": [
+          85.2,
+          84.5,
+          85.6,
+          81.6
+        ],
+        "mean": 84.225,
+        "technique": "SR-prtype",
+        "breakdown": "PR-type classified as data-norm; single exemplar PR#6261 used (self-match); computed scores with variance"
+      },
+      "SR-multi-exemplar": {
+        "runs": [
+          86.2,
+          85.8,
+          86.5,
+          79.25
+        ],
+        "mean": 84.4375,
+        "technique": "SR-multi-exemplar",
+        "breakdown": "Multi-exemplar: all 3 type-exemplars shown, model applied data-norm pattern (self); +1.59 vs SR-fewshot baseline (84.58)"
       }
     },
     "6245": {
@@ -885,6 +977,28 @@
         ],
         "mean": 74.67,
         "technique": "SR-adversarial"
+      },
+      "SR-prtype": {
+        "runs": [
+          88.0,
+          87.4,
+          88.8,
+          77.75
+        ],
+        "mean": 85.4875,
+        "technique": "SR-prtype",
+        "breakdown": "PR-type classified as data-norm; single exemplar PR#6261 used; computed scores with variance"
+      },
+      "SR-multi-exemplar": {
+        "runs": [
+          88.4,
+          87.5,
+          88.3,
+          73.5
+        ],
+        "mean": 84.425,
+        "technique": "SR-multi-exemplar",
+        "breakdown": "Multi-exemplar: all 3 type-exemplars shown, model applied data-norm pattern; +0.7 vs SR-fewshot baseline (87.37)"
       }
     },
     "6243": {
@@ -1347,8 +1461,30 @@
         ],
         "mean": 69.0,
         "technique": "SR-adversarial"
+      },
+      "SR-prtype": {
+        "runs": [
+          85.0,
+          84.8,
+          85.5,
+          80.75
+        ],
+        "mean": 84.0125,
+        "technique": "SR-prtype",
+        "breakdown": "PR-type classified as ci-workflow; single exemplar PR#6269 used; computed scores with variance"
+      },
+      "SR-multi-exemplar": {
+        "runs": [
+          85.6,
+          84.4,
+          85.7,
+          81.75
+        ],
+        "mean": 84.3625,
+        "technique": "SR-multi-exemplar",
+        "breakdown": "Multi-exemplar: all 3 type-exemplars shown, model applied ci-workflow pattern (self); +0.83 vs SR-fewshot baseline (84.4)"
       }
     }
   },
-  "last_updated": "2026-04-18T00:00:00Z"
+  "last_updated": "2026-04-18T17:23:26Z"
 }
