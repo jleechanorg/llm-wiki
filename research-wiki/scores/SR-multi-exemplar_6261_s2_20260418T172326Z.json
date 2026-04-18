@@ -1,0 +1,16 @@
+{
+  "pr": 6261,
+  "technique": "SR-multi-exemplar",
+  "naming": 85,
+  "error_handling": 82,
+  "type_safety": 84,
+  "architecture": 87,
+  "test_coverage": 93,
+  "documentation": 76,
+  "total": 85.8,
+  "breakdown": "Multi-exemplar SR: used data-norm exemplar for centralized robust numeric conversion. _get_raw helper intelligently handles empty strings, zeros, NaN/inf before passing to _DNC.convert_value. Test coverage excellent with both unit and E2E scenarios. Any type on helper function is moderate type safety issue.",
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "phase7-multi-exemplar-20260418",
+  "last_updated": "2026-04-18T17:23:26Z",
+  "sample_number": 2
+}

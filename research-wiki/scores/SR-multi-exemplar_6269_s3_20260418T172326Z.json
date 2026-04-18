@@ -1,0 +1,16 @@
+{
+  "pr": 6269,
+  "technique": "SR-multi-exemplar",
+  "naming": 93,
+  "error_handling": 88,
+  "type_safety": 85,
+  "architecture": 88,
+  "test_coverage": 15,
+  "documentation": 90,
+  "total": 85.7,
+  "breakdown": "Multi-exemplar SR: matched ci-workflow exemplar pattern. CR fallback to status+comment when formal review unavailable. Proper pipefail error handling, simplified regex. Strong naming (LATEST_CR_PIPELINE, CR_SIGNAL). Documentation rationale explaining why repos lack PR review objects. Test coverage minimal as expected.",
+  "commit_sha": "35b736d9658cd1e0203503fecf4c50a8e4a809ec",
+  "run_session": "phase7-multi-exemplar-20260418",
+  "last_updated": "2026-04-18T17:23:26Z",
+  "sample_number": 3
+}

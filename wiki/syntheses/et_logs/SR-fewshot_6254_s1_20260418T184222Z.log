@@ -1,0 +1,9 @@
+# SR-fewshot Generation for PR #6254
+Timestamp: 2026-04-18T18:42:04.075825+00:00
+Technique: SR-fewshot
+
+## PR Context
+Title: [agento] fix(rewards): include XP progress tracking in rewards box visibility
+
+## Generation Response (10370 chars)
+Extracted code: 9223 chars

@@ -1,0 +1,23 @@
+{
+  "pr": 6275,
+  "technique": "SR-multi-exemplar",
+  "naming": 75,
+  "error_handling": 60,
+  "type_safety": 40,
+  "architecture": 70,
+  "test_coverage": 80,
+  "documentation": 85,
+  "total": 65.75,
+  "breakdown": "This PR modifies test assertions to check shell script files (.github/scripts/skeptic-evaluate.sh) instead of workflow YAML directly, and updates the evidence root path from 'worldarchitectai' to 'worldarchitect.ai'. Type safety is weak with no type annotations, TypedDict, or generics. Test coverage is solid with specific assertions. Documentation is good with clear docstrings. Error handling relies on basic assertions.",
+  "key_changes": [
+    "Update evidence root path from 'worldarchitectai' to 'worldarchitect.ai' in evidence_utils.py",
+    "Rename test functions to add '_in_script' suffix indicating they now check shell scripts",
+    "Refactor tests to read skeptic-evaluate.sh script instead of workflow YAML",
+    "Update test assertions to verify specific patterns like 'test(\\\"\\\\[approve\\\\]\"; \"i\")' in scripts",
+    "Add deeper YAML env var checking that traverses job and step levels"
+  ],
+  "commit_sha": "be963b9c187eb27d7a52ce85120f3bc08a6bd597",
+  "run_session": "SR-multi-exemplar-20260418T210319Z",
+  "last_updated": "2026-04-18T21:05:23.895660+00:00",
+  "sample_number": 1
+}

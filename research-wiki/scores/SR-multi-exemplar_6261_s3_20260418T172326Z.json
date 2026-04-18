@@ -1,0 +1,16 @@
+{
+  "pr": 6261,
+  "technique": "SR-multi-exemplar",
+  "naming": 88,
+  "error_handling": 84,
+  "type_safety": 85,
+  "architecture": 90,
+  "test_coverage": 90,
+  "documentation": 80,
+  "total": 86.5,
+  "breakdown": "Multi-exemplar SR: selected data-norm exemplar pattern with greedy fallback extraction. Comprehensive E2E test coverage for various LLM output formats. Type safety improved over baseline with explicit handling of edge cases. Documentation better than single-exemplar runs.",
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "phase7-multi-exemplar-20260418",
+  "last_updated": "2026-04-18T17:23:26Z",
+  "sample_number": 3
+}

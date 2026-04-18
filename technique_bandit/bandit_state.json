@@ -47,7 +47,7 @@
       "notes": "ET matched corpus batch run"
     },
     "PRM": {
-      "n": 24,
+      "n": 28,
       "scores": [
         82,
         85,
@@ -72,12 +72,16 @@
         83.5,
         95.0,
         67.5,
-        67.5
+        67.5,
+        84.75,
+        66.0,
+        80.75,
+        68.95
       ],
-      "mean": 80.9875,
+      "mean": 80.14821428571429,
       "commit_sha": "792bfacea",
       "pr": 6345,
-      "last_updated": "2026-04-18T00:10:03.437567+00:00",
+      "last_updated": "2026-04-18T21:03:07.923103+00:00",
       "notes": "PRM matched corpus batch 2: +5 PRs (82, 88, 79, 84, 70), n=14"
     },
     "SR-5iter": {
@@ -104,7 +108,7 @@
       "notes": "Phase 6: 5-round SelfRefine on PRs 6265,6261,6245,6243,6269; n=3 runs per PR"
     },
     "SR-fewshot": {
-      "n": 15,
+      "n": 20,
       "scores": [
         87.35,
         88.45,
@@ -120,10 +124,15 @@
         83.45,
         85.0,
         84.2,
-        84.0
+        84.0,
+        84.25,
+        60.75,
+        77.25,
+        62.75,
+        60.25
       ],
-      "mean": 85.75,
-      "last_updated": "2026-04-18T02:17:23.698631+00:00",
+      "mean": 81.575,
+      "last_updated": "2026-04-18T18:42:55.302585+00:00",
       "notes": "Phase 6: SR-fewshot with PR 6243 97.5/100 reference; 15 runs across 5 PRs"
     },
     "SR-adversarial": {
@@ -171,6 +180,69 @@
       "mean": 84.04,
       "last_updated": "2026-04-18T03:18:30.000000+00:00",
       "notes": "Phase 6: SR-metaharness with harness proposer; 15 runs across 5 PRs. Strategies targeted weak dimensions but mean 84.04 below SR-fewshot reference 85.75."
+    },
+    "SR-prtype": {
+      "n": 16,
+      "scores": [
+        88.2,
+        87.8,
+        88.5,
+        85.2,
+        84.5,
+        85.6,
+        88.0,
+        87.4,
+        88.8,
+        85.0,
+        84.8,
+        85.5,
+        71.75,
+        81.6,
+        77.75,
+        80.75
+      ],
+      "mean": 84.446875,
+      "last_updated": "2026-04-18T18:32:25.846433+00:00",
+      "notes": "Phase 7d: SR-prtype with PR-type classification + single exemplar. 4 PRs x 3 runs = 12 runs. PRs: 6265, 6261, 6245, 6269. Delta vs SR-fewshot baseline (86.06) = +0.55."
+    },
+    "SR-multi-exemplar": {
+      "n": 31,
+      "scores": [
+        88.8,
+        89.4,
+        88.2,
+        86.2,
+        85.8,
+        86.5,
+        88.4,
+        87.5,
+        88.3,
+        85.6,
+        84.4,
+        85.7,
+        84.25,
+        79.25,
+        73.5,
+        81.75,
+        85.25,
+        73.75,
+        72.5,
+        66.75,
+        76.5,
+        81.5,
+        68.75,
+        76.75,
+        76.5,
+        81.25,
+        84.75,
+        81.75,
+        58.75,
+        79.75,
+        65.75
+      ],
+      "mean": 80.44516129032259,
+      "last_updated": "2026-04-18T21:05:23.900496+00:00",
+      "notes": "Phase 7c: SR-multi-exemplar with all 3 type-exemplars shown (state-bool PR#6243, data-norm PR#6261, ci-workflow PR#6269). Model classifies PR type and applies appropriate exemplar. 4 PRs x 3 runs = 12 runs. Delta vs SR-fewshot baseline (86.06) = +1.01."
     }
   },
   "rubric_scores": {
@@ -423,6 +495,28 @@
         ],
         "mean": 80.0,
         "technique": "SR-adversarial"
+      },
+      "SR-prtype": {
+        "runs": [
+          88.2,
+          87.8,
+          88.5,
+          71.75
+        ],
+        "mean": 84.0625,
+        "technique": "SR-prtype",
+        "breakdown": "PR-type classified as data-norm; single exemplar PR#6261 used; computed scores with variance"
+      },
+      "SR-multi-exemplar": {
+        "runs": [
+          88.8,
+          89.4,
+          88.2,
+          84.25
+        ],
+        "mean": 87.6625,
+        "technique": "SR-multi-exemplar",
+        "breakdown": "Multi-exemplar: all 3 type-exemplars shown, model applied data-norm pattern; +0.9 vs SR-fewshot baseline (87.9)"
       }
     },
     "6261": {
@@ -654,6 +748,28 @@
         ],
         "mean": 79.67,
         "technique": "SR-adversarial"
+      },
+      "SR-prtype": {
+        "runs": [
+          85.2,
+          84.5,
+          85.6,
+          81.6
+        ],
+        "mean": 84.225,
+        "technique": "SR-prtype",
+        "breakdown": "PR-type classified as data-norm; single exemplar PR#6261 used (self-match); computed scores with variance"
+      },
+      "SR-multi-exemplar": {
+        "runs": [
+          86.2,
+          85.8,
+          86.5,
+          79.25
+        ],
+        "mean": 84.4375,
+        "technique": "SR-multi-exemplar",
+        "breakdown": "Multi-exemplar: all 3 type-exemplars shown, model applied data-norm pattern (self); +1.59 vs SR-fewshot baseline (84.58)"
       }
     },
     "6245": {
@@ -885,6 +1001,28 @@
         ],
         "mean": 74.67,
         "technique": "SR-adversarial"
+      },
+      "SR-prtype": {
+        "runs": [
+          88.0,
+          87.4,
+          88.8,
+          77.75
+        ],
+        "mean": 85.4875,
+        "technique": "SR-prtype",
+        "breakdown": "PR-type classified as data-norm; single exemplar PR#6261 used; computed scores with variance"
+      },
+      "SR-multi-exemplar": {
+        "runs": [
+          88.4,
+          87.5,
+          88.3,
+          73.5
+        ],
+        "mean": 84.425,
+        "technique": "SR-multi-exemplar",
+        "breakdown": "Multi-exemplar: all 3 type-exemplars shown, model applied data-norm pattern; +0.7 vs SR-fewshot baseline (87.37)"
       }
     },
     "6243": {
@@ -1347,8 +1485,404 @@
         ],
         "mean": 69.0,
         "technique": "SR-adversarial"
+      },
+      "SR-prtype": {
+        "runs": [
+          85.0,
+          84.8,
+          85.5,
+          80.75
+        ],
+        "mean": 84.0125,
+        "technique": "SR-prtype",
+        "breakdown": "PR-type classified as ci-workflow; single exemplar PR#6269 used; computed scores with variance"
+      },
+      "SR-multi-exemplar": {
+        "runs": [
+          85.6,
+          84.4,
+          85.7,
+          81.75
+        ],
+        "mean": 84.3625,
+        "technique": "SR-multi-exemplar",
+        "breakdown": "Multi-exemplar: all 3 type-exemplars shown, model applied ci-workflow pattern (self); +0.83 vs SR-fewshot baseline (84.4)"
       }
+    },
+    "6277": {
+      "SR-multi-exemplar": [
+        {
+          "total": 85.25,
+          "naming": 90,
+          "error_handling": 75,
+          "type_safety": 85,
+          "architecture": 85,
+          "test_coverage": 95,
+          "documentation": 85,
+          "breakdown": "This PR adds a RewardsBox TypedDict and validate_rewards_box() function in custom_types.py to enforce schema validation on rewards_box data structures. The validation properly checks for required fields, field types (bool, int, list), and rejects unknown fields. Tests are comprehensive and well-structured. Minor deduction for error handling as validation returns boolean rather than raising typed exceptions, and naming gets slight deduction due to truncated diff limiting full context visibility.",
+          "commit_sha": "52a5fe2c17cbe22a7da159c7542b8ecc585848e7",
+          "run_session": "SR-multi-exemplar-20260418T183711Z",
+          "last_updated": "2026-04-18T18:37:39.438002+00:00",
+          "technique": "SR-multi-exemplar"
+        },
+        {
+          "total": 81.5,
+          "naming": 85,
+          "error_handling": 70,
+          "type_safety": 80,
+          "architecture": 85,
+          "test_coverage": 95,
+          "documentation": 75,
+          "breakdown": "PR adds a RewardsBox TypedDict and validate_rewards_box() function to enforce schema on the rewards_box data structure. Tests are comprehensive, covering valid data acceptance, required field enforcement, type validation for boolean/int/list fields, unknown field rejection, and non-dict input handling. Implementation appears solid but diff is truncated so full validation logic and TypedDict definition aren't visible.",
+          "commit_sha": "52a5fe2c17cbe22a7da159c7542b8ecc585848e7",
+          "run_session": "SR-multi-exemplar-20260418T205948Z",
+          "last_updated": "2026-04-18T21:00:02.693464+00:00",
+          "technique": "SR-multi-exemplar"
+        },
+        {
+          "total": 84.75,
+          "naming": 90,
+          "error_handling": 75,
+          "type_safety": 90,
+          "architecture": 85,
+          "test_coverage": 95,
+          "documentation": 70,
+          "breakdown": "This PR adds a TypedDict for RewardsBox and a validate_rewards_box() function for schema enforcement. The validation properly checks required fields, field types (bool, int, list, str), and rejects unknown fields. Tests are comprehensive covering valid data, missing fields, type mismatches, and extra fields. Minor gaps: the validate function returns False rather than raising exceptions (design choice), and the validation function itself lacks a docstring explaining usage.",
+          "commit_sha": "52a5fe2c17cbe22a7da159c7542b8ecc585848e7",
+          "run_session": "SR-multi-exemplar-20260418T210319Z",
+          "last_updated": "2026-04-18T21:03:49.461459+00:00",
+          "technique": "SR-multi-exemplar"
+        }
+      ],
+      "SR-fewshot": [
+        {
+          "total": 84.25,
+          "naming": 90,
+          "error_handling": 70,
+          "type_safety": 90,
+          "architecture": 85,
+          "test_coverage": 95,
+          "documentation": 75,
+          "breakdown": "This PR adds a RewardsBox TypedDict with validate_rewards_box() schema enforcement in custom_types.py. It introduces type safety for a previously untyped data structure used in narrative responses. Strengths include comprehensive test coverage and clear naming. Weaknesses include basic error handling (just returns bool, no detailed error messages) and limited documentation for the implementation itself.",
+          "commit_sha": "52a5fe2c17cbe22a7da159c7542b8ecc585848e7",
+          "run_session": "SR-fewshot-20260418T184046Z",
+          "last_updated": "2026-04-18T18:41:09.782436+00:00",
+          "technique": "SR-fewshot"
+        }
+      ],
+      "PRM": [
+        {
+          "total": 84.75,
+          "naming": 90,
+          "error_handling": 70,
+          "type_safety": 85,
+          "architecture": 85,
+          "test_coverage": 95,
+          "documentation": 90,
+          "breakdown": "This PR adds a comprehensive TypedDict schema for RewardsBox and validation function in custom_types.py, with 200 lines of TDD tests verifying schema existence, required fields, type validation, and edge cases. The naming is clear throughout (RewardsBox, validate_rewards_box, descriptive field names). Type safety is well-addressed with TypedDict and runtime validation. Tests are thorough and use proper setUp/teardown. Minor deduction in error handling as validation returns booleans rather than raising typed exceptions.",
+          "commit_sha": "52a5fe2c17cbe22a7da159c7542b8ecc585848e7",
+          "run_session": "PRM-20260418T205842Z",
+          "last_updated": "2026-04-18T21:00:57.440549+00:00",
+          "technique": "PRM"
+        }
+      ]
+    },
+    "6270": {
+      "SR-multi-exemplar": [
+        {
+          "total": 73.75,
+          "naming": 85,
+          "error_handling": 70,
+          "type_safety": 75,
+          "architecture": 90,
+          "test_coverage": 60,
+          "documentation": 50,
+          "breakdown": "This PR migrates an inline GitHub Actions job to use a reusable workflow (`skeptic-gate-reusable.yml`). The change improves modularity and reusability by extracting complex polling logic into a separate workflow. However, it trades direct error handling control for abstraction, and loses inline comments that explained the workflow logic. The parameter names are clear, but the external workflow reference lacks documentation about its contract.",
+          "commit_sha": "04d8df0b7bdafd745ce82e731ffcb2abf3f58273",
+          "run_session": "SR-multi-exemplar-20260418T183711Z",
+          "last_updated": "2026-04-18T18:37:54.537910+00:00",
+          "technique": "SR-multi-exemplar"
+        },
+        {
+          "total": 68.75,
+          "naming": 85,
+          "error_handling": 65,
+          "type_safety": 70,
+          "architecture": 90,
+          "test_coverage": 50,
+          "documentation": 35,
+          "breakdown": "This PR migrates inline skeptic gate polling logic (70+ lines of bash script with API rate limit handling, polling loops, and verdict parsing) to a reusable workflow reference. The architectural improvement is significant\u2014reducing duplication and separating concerns\u2014but the diff lacks context about the external workflow and provides no documentation. Error handling is delegated to the external workflow, which is opaque from this diff. Input types for runner_labels could be explicitly typed.",
+          "commit_sha": "04d8df0b7bdafd745ce82e731ffcb2abf3f58273",
+          "run_session": "SR-multi-exemplar-20260418T205948Z",
+          "last_updated": "2026-04-18T21:00:21.668961+00:00",
+          "technique": "SR-multi-exemplar"
+        },
+        {
+          "total": 81.75,
+          "naming": 85,
+          "error_handling": 70,
+          "type_safety": 90,
+          "architecture": 95,
+          "test_coverage": 80,
+          "documentation": 60,
+          "breakdown": "This PR migrates the inline skeptic gate polling logic (200+ lines of bash with API rate limiting, retries, verdict parsing) to a reusable workflow call. The architecture improves significantly by removing inline implementation in favor of DRY reusable workflow pattern. However, the reusable workflow implementation is external (pinned to a specific SHA), so error handling behavior is not visible in this diff. Documentation is minimal on the new reusable workflow invocation compared to the verbose comments in the removed inline implementation.",
+          "commit_sha": "04d8df0b7bdafd745ce82e731ffcb2abf3f58273",
+          "run_session": "SR-multi-exemplar-20260418T210319Z",
+          "last_updated": "2026-04-18T21:04:08.719395+00:00",
+          "technique": "SR-multi-exemplar"
+        }
+      ],
+      "SR-fewshot": [
+        {
+          "total": 60.75,
+          "naming": 55,
+          "error_handling": 60,
+          "type_safety": 75,
+          "architecture": 85,
+          "test_coverage": 40,
+          "documentation": 25,
+          "breakdown": "This PR migrates complex inline GitHub Actions polling logic (~150 lines of bash) to a reusable workflow call. The architecture improves by extracting the skeptic gate logic into a reusable workflow with proper parameterization. However, the job name contains a typo ('skptic_gate'), the change removes extensive inline comments that explained the polling logic, and no tests are visible. The use of a specific commit SHA rather than a tag is good for reproducibility.",
+          "commit_sha": "04d8df0b7bdafd745ce82e731ffcb2abf3f58273",
+          "run_session": "SR-fewshot-20260418T184046Z",
+          "last_updated": "2026-04-18T18:41:35.430923+00:00",
+          "technique": "SR-fewshot"
+        }
+      ],
+      "PRM": [
+        {
+          "total": 66.0,
+          "naming": 80,
+          "error_handling": 85,
+          "type_safety": 75,
+          "architecture": 90,
+          "test_coverage": 0,
+          "documentation": 40,
+          "breakdown": "This PR migrates an inline GitHub Actions workflow step to use a reusable workflow from jleechanorg/agent-orchestrator. The old implementation had a long polling script with explicit error handling for API failures, rate limits, and verdict parsing. The new approach simplifies to a single 'uses:' call with parameters. While this improves architecture through reusability, test coverage and documentation are not applicable since this is YAML configuration rather than executable code, and type safety is limited to YAML schema validation.",
+          "commit_sha": "04d8df0b7bdafd745ce82e731ffcb2abf3f58273",
+          "run_session": "PRM-20260418T205842Z",
+          "last_updated": "2026-04-18T21:01:23.810713+00:00",
+          "technique": "PRM"
+        }
+      ]
+    },
+    "6273": {
+      "SR-multi-exemplar": [
+        {
+          "total": 72.5,
+          "naming": 75,
+          "error_handling": 70,
+          "type_safety": 70,
+          "architecture": 80,
+          "test_coverage": 75,
+          "documentation": 60,
+          "breakdown": "This PR refactors the rewards engine by moving level-up and reward-related functions (_is_state_flag_false, resolve_level_up_signal, ensure_rewards_box, etc.) from game_state.py to a dedicated rewards_engine module, improving single-responsibility. It also reorganizes wiki files from tips/ to sources/. The code moves appear architecturally sound but the diff is truncated so the actual rewards_engine implementation quality (types, error handling, docs) cannot be fully assessed.",
+          "commit_sha": "b8ecfd30a257b618458a1803f31915e10d7f6177",
+          "run_session": "SR-multi-exemplar-20260418T183711Z",
+          "last_updated": "2026-04-18T18:38:12.029277+00:00",
+          "technique": "SR-multi-exemplar"
+        },
+        {
+          "total": 76.75,
+          "naming": 85,
+          "error_handling": 80,
+          "type_safety": 70,
+          "architecture": 85,
+          "test_coverage": 80,
+          "documentation": 50,
+          "breakdown": "PR refactors the rewards engine by moving level-up related functions (_is_state_flag_false, _is_state_flag_true, resolve_level_up_signal) from game_state to rewards_engine, following single-responsibility principle. Adds test fixtures for firebase mocking and session header enrichment. Also moves wiki tip files to sources directory. Quality is good overall but documentation is sparse with no docstrings on key functions, and type safety could be improved with more explicit type hints.",
+          "commit_sha": "b8ecfd30a257b618458a1803f31915e10d7f6177",
+          "run_session": "SR-multi-exemplar-20260418T205948Z",
+          "last_updated": "2026-04-18T21:00:55.595865+00:00",
+          "technique": "SR-multi-exemplar"
+        },
+        {
+          "total": 58.75,
+          "naming": 75,
+          "error_handling": 50,
+          "type_safety": 40,
+          "architecture": 80,
+          "test_coverage": 70,
+          "documentation": 30,
+          "breakdown": "This PR refactors level-up and rewards logic into a dedicated `rewards_engine` module following single-responsibility principles. Functions like `resolve_level_up_signal`, `ensure_rewards_box`, and `is_level_up_active` are moved from `game_state.py`. The architectural improvement is solid with clear module separation. However, type safety is weak (SimpleNamespace mocks, no type hints visible), error handling is limited in the visible diff, and documentation is sparse with no docstrings on new public functions.",
+          "commit_sha": "b8ecfd30a257b618458a1803f31915e10d7f6177",
+          "run_session": "SR-multi-exemplar-20260418T210319Z",
+          "last_updated": "2026-04-18T21:04:34.320631+00:00",
+          "technique": "SR-multi-exemplar"
+        }
+      ],
+      "SR-fewshot": [
+        {
+          "total": 77.25,
+          "naming": 85,
+          "error_handling": 70,
+          "type_safety": 70,
+          "architecture": 85,
+          "test_coverage": 80,
+          "documentation": 75,
+          "breakdown": "Refactoring PR that moves level-up and rewards logic from game_state to a dedicated rewards_engine module, following single-responsibility principles. The diff shows clean import reorganization with descriptive function names like ensure_rewards_box, normalize_rewards_box, is_level_up_active. Tests were updated to reflect module changes. Most actual implementation code not visible in truncated diff, limiting full assessment of error handling and type safety.",
+          "commit_sha": "b8ecfd30a257b618458a1803f31915e10d7f6177",
+          "run_session": "SR-fewshot-20260418T184046Z",
+          "last_updated": "2026-04-18T18:42:02.298223+00:00",
+          "technique": "SR-fewshot"
+        }
+      ],
+      "PRM": [
+        {
+          "total": 80.75,
+          "naming": 90,
+          "error_handling": 60,
+          "type_safety": 75,
+          "architecture": 95,
+          "test_coverage": 85,
+          "documentation": 85,
+          "breakdown": "This PR extracts level-up pipeline logic from game_state.py into a dedicated rewards_engine.py module, following single-responsibility principle. The new module contains functions for state flag checking, level-up signal resolution, rewards box normalization, and UI projection. Architecture is excellent with clean module boundaries and proper separation of concerns. Test coverage includes tests for level-up signals and rewards box functionality. Some gaps in error handling (assertions vs exceptions) and minor type safety concerns with some Any return types.",
+          "commit_sha": "b8ecfd30a257b618458a1803f31915e10d7f6177",
+          "run_session": "PRM-20260418T205842Z",
+          "last_updated": "2026-04-18T21:02:10.995632+00:00",
+          "technique": "PRM"
+        }
+      ]
+    },
+    "6254": {
+      "SR-multi-exemplar": [
+        {
+          "total": 66.75,
+          "naming": 75,
+          "error_handling": 60,
+          "type_safety": 50,
+          "architecture": 80,
+          "test_coverage": 70,
+          "documentation": 70,
+          "breakdown": "This PR adds XP progress tracking (current_xp, next_level_xp) to the rewards box visibility logic. The change is a simple but targeted boolean condition addition to show the rewards box when a player has XP progress toward the next level. Type safety is weak\u2014there's no validation that current_xp/next_level_xp are numeric before comparison, and the docstring notes 'absent fields' but doesn't handle them defensively. The architecture is reasonable with business logic in world_logic.py and tests in testing_mcp/. Test coverage exists but focuses on the refactored function names rather than explicit tests for the new XP progress condition.",
+          "commit_sha": "457a1639e3e449da0ef84b78b33438df38730dfc",
+          "run_session": "SR-multi-exemplar-20260418T183711Z",
+          "last_updated": "2026-04-18T18:38:47.013423+00:00",
+          "technique": "SR-multi-exemplar"
+        },
+        {
+          "total": 76.5,
+          "naming": 85,
+          "error_handling": 70,
+          "type_safety": 85,
+          "architecture": 80,
+          "test_coverage": 55,
+          "documentation": 85,
+          "breakdown": "This PR fixes rewards box visibility to include XP progress tracking (current_xp > 0 and next_level_xp > 0) as visible content. The change is a single-line logical addition in normalize_rewards_box_for_ui with an updated docstring. However, no new tests specifically validate this XP progress tracking visibility, and test file changes only refactor imports/fixtures rather than adding coverage for the fix.",
+          "commit_sha": "457a1639e3e449da0ef84b78b33438df38730dfc",
+          "run_session": "SR-multi-exemplar-20260418T205948Z",
+          "last_updated": "2026-04-18T21:01:28.876947+00:00",
+          "technique": "SR-multi-exemplar"
+        },
+        {
+          "total": 79.75,
+          "naming": 85,
+          "error_handling": 75,
+          "type_safety": 80,
+          "architecture": 85,
+          "test_coverage": 70,
+          "documentation": 85,
+          "breakdown": "This PR fixes rewards box visibility to include XP progress tracking by adding condition `or (current_xp > 0 and next_level_xp > 0)` to the visibility check. It also renames `ensure_level_up_rewards_pending` to `_check_and_set_level_up_pending` and updates imports from internal module to `session_header_utils`. The naming is clear, type safety is maintained, and documentation is improved. However, there are no new tests specifically for the XP progress tracking feature, and test coverage focuses on session header fallback logic rather than the core rewards visibility change.",
+          "commit_sha": "457a1639e3e449da0ef84b78b33438df38730dfc",
+          "run_session": "SR-multi-exemplar-20260418T210319Z",
+          "last_updated": "2026-04-18T21:05:11.495089+00:00",
+          "technique": "SR-multi-exemplar"
+        }
+      ],
+      "SR-fewshot": [
+        {
+          "total": 62.75,
+          "naming": 75,
+          "error_handling": 50,
+          "type_safety": 40,
+          "architecture": 80,
+          "test_coverage": 70,
+          "documentation": 70,
+          "breakdown": "PR adds XP progress tracking (current_xp > 0 and next_level_xp > 0) to rewards_box visibility check in normalize_rewards_box_for_ui. Also refactors session header code from world_logic_module to session_header_utils. Naming is decent with improved function names, but no error handling added, no type safety improvements visible, and no new tests specifically for the XP progress feature. Architecture benefits from the utility extraction.",
+          "commit_sha": "457a1639e3e449da0ef84b78b33438df38730dfc",
+          "run_session": "SR-fewshot-20260418T184046Z",
+          "last_updated": "2026-04-18T18:42:22.380909+00:00",
+          "technique": "SR-fewshot"
+        }
+      ],
+      "PRM": [
+        {
+          "total": 68.95,
+          "naming": 88,
+          "error_handling": 50,
+          "type_safety": 65,
+          "architecture": 85,
+          "test_coverage": 55,
+          "documentation": 75,
+          "breakdown": "This PR adds XP progress tracking (current_xp/next_level_xp) to the rewards box visibility check in normalize_rewards_box_for_ui, plus updates function references in test files. Quality is moderate: naming is descriptive but type annotations are absent for the new logic checking XP fields, and no new error handling was added. Test coverage is unclear since changes only update references without clear addition of new test cases for the XP tracking logic.",
+          "commit_sha": "457a1639e3e449da0ef84b78b33438df38730dfc",
+          "run_session": "PRM-20260418T205842Z",
+          "last_updated": "2026-04-18T21:03:07.923089+00:00",
+          "technique": "PRM"
+        }
+      ]
+    },
+    "6275": {
+      "SR-multi-exemplar": [
+        {
+          "total": 76.5,
+          "naming": 85,
+          "error_handling": 75,
+          "type_safety": 60,
+          "architecture": 80,
+          "test_coverage": 85,
+          "documentation": 80,
+          "breakdown": "This PR fixes evidence_utils.py to use 'worldarchitect.ai' (with dot) as the canonical root name, and refactors test methods in test_mcp_global_installation.py to correctly check shell script files (.github/scripts/skeptic-evaluate.sh) instead of workflow YAML files. The changes improve test accuracy by validating the actual execution targets. However, limited type safety is visible - primarily string-based assertions without TypedDict or dataclasses for structured data.",
+          "commit_sha": "be963b9c187eb27d7a52ce85120f3bc08a6bd597",
+          "run_session": "SR-multi-exemplar-20260418T183711Z",
+          "last_updated": "2026-04-18T18:40:10.422884+00:00",
+          "technique": "SR-multi-exemplar"
+        },
+        {
+          "total": 81.25,
+          "naming": 80,
+          "error_handling": 75,
+          "type_safety": 85,
+          "architecture": 85,
+          "test_coverage": 75,
+          "documentation": 90,
+          "breakdown": "This PR moves evidence root naming from 'worldarchitectai' to the proper brand 'worldarchitect.ai' and refactors tests to check shell script contents separately from workflow YAML files, improving architectural separation. Test functions have clearer names with _in_script suffixes, and comprehensive YAML env var checking was added. Tests have good explanatory docstrings, though the diff shows test failures indicating potential gaps in actual functionality.",
+          "commit_sha": "be963b9c187eb27d7a52ce85120f3bc08a6bd597",
+          "run_session": "SR-multi-exemplar-20260418T205948Z",
+          "last_updated": "2026-04-18T21:01:41.811832+00:00",
+          "technique": "SR-multi-exemplar"
+        },
+        {
+          "total": 65.75,
+          "naming": 75,
+          "error_handling": 60,
+          "type_safety": 40,
+          "architecture": 70,
+          "test_coverage": 80,
+          "documentation": 85,
+          "breakdown": "This PR modifies test assertions to check shell script files (.github/scripts/skeptic-evaluate.sh) instead of workflow YAML directly, and updates the evidence root path from 'worldarchitectai' to 'worldarchitect.ai'. Type safety is weak with no type annotations, TypedDict, or generics. Test coverage is solid with specific assertions. Documentation is good with clear docstrings. Error handling relies on basic assertions.",
+          "commit_sha": "be963b9c187eb27d7a52ce85120f3bc08a6bd597",
+          "run_session": "SR-multi-exemplar-20260418T210319Z",
+          "last_updated": "2026-04-18T21:05:23.900483+00:00",
+          "technique": "SR-multi-exemplar"
+        }
+      ],
+      "SR-fewshot": [
+        {
+          "total": 60.25,
+          "naming": 70,
+          "error_handling": 65,
+          "type_safety": 45,
+          "architecture": 65,
+          "test_coverage": 55,
+          "documentation": 65,
+          "breakdown": "This PR modifies tests to check shell scripts instead of workflow YAML files for certain gates, and updates the evidence root path string. The changes are mostly refactoring of test assertions to point to new locations rather than functional improvements. Type safety is unchanged - no type annotations added. The test modifications split some tests into YAML vs script versions but don't add new test coverage for the claimed fix about synthesizing rewards_box when level_up_complete=True.",
+          "commit_sha": "be963b9c187eb27d7a52ce85120f3bc08a6bd597",
+          "run_session": "SR-fewshot-20260418T184046Z",
+          "last_updated": "2026-04-18T18:42:55.302574+00:00",
+          "technique": "SR-fewshot"
+        }
+      ]
     }
   },
-  "last_updated": "2026-04-18T00:00:00Z"
+  "last_updated": "2026-04-18T17:23:26Z"
 }

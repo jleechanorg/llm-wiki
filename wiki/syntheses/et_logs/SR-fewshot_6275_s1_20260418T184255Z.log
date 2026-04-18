@@ -1,0 +1,9 @@
+# SR-fewshot Generation for PR #6275
+Timestamp: 2026-04-18T18:42:24.357487+00:00
+Technique: SR-fewshot
+
+## PR Context
+Title: [agento][fix(level-up)] synthesize rewards_box when level_up_complete=True but box missing
+
+## Generation Response (2641 chars)
+Extracted code: 146 chars

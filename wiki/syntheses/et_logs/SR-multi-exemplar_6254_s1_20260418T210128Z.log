@@ -1,0 +1,9 @@
+# SR-multi-exemplar Generation for PR #6254
+Timestamp: 2026-04-18T21:00:57.490091+00:00
+Technique: SR-multi-exemplar
+
+## PR Context
+Title: [agento] fix(rewards): include XP progress tracking in rewards box visibility
+
+## Generation Response (3445 chars)
+Extracted code: 2380 chars
