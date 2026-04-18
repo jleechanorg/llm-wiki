@@ -1,0 +1,9 @@
+# SR-multi-exemplar Generation for PR #6261
+Timestamp: 2026-04-18T18:20:44.874855+00:00
+Technique: SR-multi-exemplar
+
+## PR Context
+Title: [antig] refactor(rewards): migrate to centralized robust numeric extraction & simplify chaining
+
+## Generation Response (5762 chars)
+Extracted code: 5748 chars

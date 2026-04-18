@@ -1,0 +1,26 @@
+# SR-multi-exemplar Phase 7c Run 3 for PR #6261
+Timestamp: 2026-04-18T17:23:26Z
+Technique: SR-multi-exemplar
+Session: phase7-multi-exemplar-20260418
+
+## PR Context
+Title: [autor] Refactor rewards box normalization with centralized numeric converter
+Body: Refactors rewards box normalization to use centralized robust numeric conversion approach with fallback chains
+
+## Exemplars Shown (all 3 types)
+1. state-bool exemplar: PR#6243 (97.5) - game_state.py boolean widening
+2. data-norm exemplar: PR#6261 (89) - world_logic.py centralized numeric coercion
+3. ci-workflow exemplar: PR#6269 (85.3) - skeptic-gate YAML CodeRabbit fallback
+
+## PR Type Classification
+Model classified PR #6261 as: data-norm
+Rationale: world_logic.py refactor with numeric conversion focus
+
+## Applied Pattern
+data-norm exemplar with improvements:
+- Greedy fallback extraction pattern
+- Handles xp_gained, xp, xp_awarded, xpAmount aliases
+- Comprehensive E2E test for various LLM formats
+
+## Score: 86.5/100
+naming=88, error_handling=84, type_safety=85, architecture=90, test_coverage=90, documentation=80

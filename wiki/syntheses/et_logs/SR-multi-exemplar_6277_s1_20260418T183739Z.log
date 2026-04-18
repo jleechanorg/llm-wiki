@@ -1,0 +1,9 @@
+# SR-multi-exemplar Generation for PR #6277
+Timestamp: 2026-04-18T18:37:12.594265+00:00
+Technique: SR-multi-exemplar
+
+## PR Context
+Title: feat(mvp_site): RewardsBox TypedDict + validate_rewards_box() schema enforcement
+
+## Generation Response (11231 chars)
+Extracted code: 2610 chars

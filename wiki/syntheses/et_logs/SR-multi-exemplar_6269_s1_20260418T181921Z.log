@@ -1,0 +1,9 @@
+# SR-multi-exemplar Generation for PR #6269
+Timestamp: 2026-04-18T18:19:00.539150+00:00
+Technique: SR-multi-exemplar
+
+## PR Context
+Title: [antig] Port CR fallback logic to Skeptic Gates in worldarchitect.ai
+
+## Generation Response (3494 chars)
+Extracted code: 3004 chars

@@ -1,0 +1,26 @@
+# SR-multi-exemplar Phase 7c Run 2 for PR #6245
+Timestamp: 2026-04-18T17:23:26Z
+Technique: SR-multi-exemplar
+Session: phase7-multi-exemplar-20260418
+
+## PR Context
+Title: [autor] Stabilize XP synthesis and remove deprecated extraction function
+Body: Fix XP extraction by replacing deprecated _extract_xp_from_player_data with extract_character_xp
+
+## Exemplars Shown (all 3 types)
+1. state-bool exemplar: PR#6243 (97.5) - game_state.py boolean widening
+2. data-norm exemplar: PR#6261 (89) - world_logic.py centralized numeric coercion
+3. ci-workflow exemplar: PR#6269 (85.3) - skeptic-gate YAML CodeRabbit fallback
+
+## PR Type Classification
+Model classified PR #6245 as: data-norm
+Rationale: XP synthesis refactoring with data normalization focus
+
+## Applied Pattern
+data-norm exemplar was applied:
+- Replaced _extract_xp_from_player_data with extract_character_xp
+- Updated reward synthesis to prioritize xp_awarded
+- Comprehensive test coverage across input formats
+
+## Score: 87.5/100
+naming=88, error_handling=85, type_safety=88, architecture=89, test_coverage=95, documentation=78
