@@ -148,6 +148,29 @@
       "mean": 79.2,
       "last_updated": "2026-04-18T02:48:00.000000+00:00",
       "notes": "Phase 6 Iteration 4: SR-adversarial (Solver+Attacker minimax). n=3 runs per PR (6265,6261,6245,6243,6269). Mean 79.20 < SR baseline 81.23, suggesting adversarial overhead outweighs bug-fixing benefit on this task."
+    },
+    "SR-metaharness": {
+      "n": 15,
+      "scores": [
+        84.21,
+        82.42,
+        85.16,
+        83.95,
+        84.36,
+        82.87,
+        83.59,
+        83.58,
+        83.86,
+        86.15,
+        83.52,
+        85.5,
+        84.23,
+        82.84,
+        84.29
+      ],
+      "mean": 84.04,
+      "last_updated": "2026-04-18T03:18:30.000000+00:00",
+      "notes": "Phase 6: SR-metaharness with harness proposer; 15 runs across 5 PRs. Strategies targeted weak dimensions but mean 84.04 below SR-fewshot reference 85.75."
     }
   },
   "rubric_scores": {
@@ -335,6 +358,44 @@
           "technique": "SR-v2",
           "timestamp": "20260417_210235"
         }
+      ],
+      "SR-metaharness": [
+        {
+          "naming": 91.5,
+          "error_handling": 81.3,
+          "type_safety": 82.4,
+          "architecture": 80.9,
+          "test_coverage": 85.7,
+          "documentation": 87.1,
+          "total": 84.21,
+          "run_session": "phase6-sr-metaharness-20260418_031827",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +12, Documentation +27"
+        },
+        {
+          "naming": 82.2,
+          "error_handling": 81.4,
+          "type_safety": 82.4,
+          "architecture": 83.3,
+          "test_coverage": 82.8,
+          "documentation": 82.5,
+          "total": 82.42,
+          "run_session": "phase6-sr-metaharness-20260418_031827",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +12, Documentation +22"
+        },
+        {
+          "naming": 89.4,
+          "error_handling": 82.8,
+          "type_safety": 88.2,
+          "architecture": 80.9,
+          "test_coverage": 85.0,
+          "documentation": 86.2,
+          "total": 85.16,
+          "run_session": "phase6-sr-metaharness-20260418_031827",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +18, Documentation +26"
+        }
       ]
     },
     "6261": {
@@ -500,6 +561,44 @@
           "run_session": "phase6-v1-20260417",
           "technique": "SR-v2",
           "timestamp": "20260417_210235"
+        }
+      ],
+      "SR-metaharness": [
+        {
+          "naming": 88.3,
+          "error_handling": 80.9,
+          "type_safety": 89.0,
+          "architecture": 80.0,
+          "test_coverage": 78.6,
+          "documentation": 89.3,
+          "total": 83.95,
+          "run_session": "phase6-sr-metaharness-20260418_031827",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +19, Documentation +29"
+        },
+        {
+          "naming": 88.7,
+          "error_handling": 77.8,
+          "type_safety": 87.4,
+          "architecture": 87.2,
+          "test_coverage": 83.2,
+          "documentation": 81.0,
+          "total": 84.36,
+          "run_session": "phase6-sr-metaharness-20260418_031828",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +17, Documentation +21"
+        },
+        {
+          "naming": 80.2,
+          "error_handling": 81.9,
+          "type_safety": 85.0,
+          "architecture": 84.0,
+          "test_coverage": 79.7,
+          "documentation": 87.0,
+          "total": 82.87,
+          "run_session": "phase6-sr-metaharness-20260418_031828",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +15, Documentation +27"
         }
       ]
     },
@@ -667,6 +766,44 @@
           "technique": "SR-v2",
           "timestamp": "20260417_210236"
         }
+      ],
+      "SR-metaharness": [
+        {
+          "naming": 86.9,
+          "error_handling": 76.7,
+          "type_safety": 84.2,
+          "architecture": 85.2,
+          "test_coverage": 86.9,
+          "documentation": 83.0,
+          "total": 83.59,
+          "run_session": "phase6-sr-metaharness-20260418_031828",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +14, Documentation +23"
+        },
+        {
+          "naming": 80.9,
+          "error_handling": 83.2,
+          "type_safety": 89.3,
+          "architecture": 80.1,
+          "test_coverage": 82.4,
+          "documentation": 85.6,
+          "total": 83.58,
+          "run_session": "phase6-sr-metaharness-20260418_031828",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +19, Documentation +26"
+        },
+        {
+          "naming": 92.0,
+          "error_handling": 79.1,
+          "type_safety": 84.6,
+          "architecture": 81.3,
+          "test_coverage": 86.8,
+          "documentation": 80.4,
+          "total": 83.86,
+          "run_session": "phase6-sr-metaharness-20260418_031828",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +15, Documentation +20"
+        }
       ]
     },
     "6243": {
@@ -833,6 +970,44 @@
           "technique": "SR-v2",
           "timestamp": "20260417_210237"
         }
+      ],
+      "SR-metaharness": [
+        {
+          "naming": 86.6,
+          "error_handling": 83.0,
+          "type_safety": 89.3,
+          "architecture": 87.2,
+          "test_coverage": 82.8,
+          "documentation": 88.4,
+          "total": 86.15,
+          "run_session": "phase6-sr-metaharness-20260418_031829",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +19, Documentation +28"
+        },
+        {
+          "naming": 86.6,
+          "error_handling": 75.9,
+          "type_safety": 83.3,
+          "architecture": 85.9,
+          "test_coverage": 85.9,
+          "documentation": 86.2,
+          "total": 83.52,
+          "run_session": "phase6-sr-metaharness-20260418_031829",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +13, Documentation +26"
+        },
+        {
+          "naming": 89.2,
+          "error_handling": 81.3,
+          "type_safety": 82.9,
+          "architecture": 87.2,
+          "test_coverage": 87.7,
+          "documentation": 86.9,
+          "total": 85.5,
+          "run_session": "phase6-sr-metaharness-20260418_031829",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +13, Documentation +27"
+        }
       ]
     },
     "6269": {
@@ -998,6 +1173,44 @@
           "run_session": "phase6-v1-20260417",
           "technique": "SR-v2",
           "timestamp": "20260417_210237"
+        }
+      ],
+      "SR-metaharness": [
+        {
+          "naming": 88.2,
+          "error_handling": 80.0,
+          "type_safety": 89.8,
+          "architecture": 82.7,
+          "test_coverage": 78.6,
+          "documentation": 87.1,
+          "total": 84.23,
+          "run_session": "phase6-sr-metaharness-20260418_031829",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +20, Documentation +27"
+        },
+        {
+          "naming": 81.4,
+          "error_handling": 79.5,
+          "type_safety": 88.2,
+          "architecture": 82.3,
+          "test_coverage": 79.7,
+          "documentation": 86.8,
+          "total": 82.84,
+          "run_session": "phase6-sr-metaharness-20260418_031829",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +18, Documentation +27"
+        },
+        {
+          "naming": 86.3,
+          "error_handling": 76.6,
+          "type_safety": 86.7,
+          "architecture": 85.2,
+          "test_coverage": 84.9,
+          "documentation": 89.1,
+          "total": 84.29,
+          "run_session": "phase6-sr-metaharness-20260418_031830",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +17, Documentation +29"
         }
       ]
     }
