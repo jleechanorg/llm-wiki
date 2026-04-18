@@ -1,0 +1,9 @@
+# PRM Generation for PR #6273
+Timestamp: 2026-04-18T21:01:25.937736+00:00
+Technique: PRM
+
+## PR Context
+Title: feat(rewards_engine): v4 single-responsibility level-up pipeline
+
+## Generation Response (37778 chars)
+Extracted code: 14863 chars
