@@ -1,0 +1,23 @@
+{
+  "pr": 6265,
+  "technique": "SR",
+  "naming": 85,
+  "error_handling": 75,
+  "type_safety": 80,
+  "architecture": 85,
+  "test_coverage": 90,
+  "documentation": 65,
+  "total": 80.75,
+  "breakdown": "This PR fixes normalization of rewards_box in streaming passthrough by adding a `normalize_rewards_box_for_ui()` function that converts non-standard LLM-generated keys ('xp'\u2192'xp_gained', 'gold_pieces'\u2192'gold') to standardized format. The fix includes a new E2E test that verifies the normalization works end-to-end. Naming and architecture are solid, but documentation lacks proper docstrings and some comments explain WHAT rather than WHY.",
+  "key_changes": [
+    "Add normalize_rewards_box_for_ui() function in world_logic.py to handle fallback keys 'xp' and 'gold_pieces'",
+    "Pop raw keys 'xp' and 'gold_pieces' after normalization to ensure clean output",
+    "Call normalize_rewards_box_for_ui() in _resolve_canonical_level_up_ui_pair() for passthrough rewards",
+    "Refactor conditional logic in game_logic.py for streaming blocks handling",
+    "Add test_streaming_passthrough_normalization.py E2E test that verifies normalization of messy rewards_box"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "matched-corpus-n3-20260418",
+  "last_updated": "2026-04-18T00:01:46.352805+00:00",
+  "sample_number": 2
+}

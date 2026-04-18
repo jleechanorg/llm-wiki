@@ -1,0 +1,23 @@
+{
+  "pr": 6265,
+  "technique": "SR",
+  "naming": 85,
+  "error_handling": 75,
+  "type_safety": 70,
+  "architecture": 85,
+  "test_coverage": 95,
+  "documentation": 70,
+  "total": 80.0,
+  "breakdown": "This PR fixes a bug where non-standard reward keys ('xp'/'gold_pieces') from LLM responses weren't being normalized to standard keys ('xp_gained'/'gold') in the streaming passthrough path. The fix adds fallback logic in `normalize_rewards_box_for_ui` and applies normalization in the UI pair resolution. Test coverage is excellent with a real E2E test. Type safety could be improved with explicit type hints on the normalization function.",
+  "key_changes": [
+    "Enhance normalize_rewards_box_for_ui to fall back to 'xp'/'gold_pieces' if 'xp_gained'/'gold' not present",
+    "Remove raw keys after normalization to prevent persistence of non-standard format",
+    "Apply normalization to rewards_box in _resolve_canonical_level_up_ui_pair passthrough path",
+    "Add E2E test verifying normalization handles messy LLM-generated keys",
+    "Refactor some canonical stream logic in world_logic.py for planning block handling"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "matched-corpus-n3-20260418",
+  "last_updated": "2026-04-18T00:01:56.254393+00:00",
+  "sample_number": 3
+}

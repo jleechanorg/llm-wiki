@@ -1,0 +1,23 @@
+{
+  "pr": 6265,
+  "technique": "PRM",
+  "naming": 90,
+  "error_handling": 70,
+  "type_safety": 75,
+  "architecture": 85,
+  "test_coverage": 95,
+  "documentation": 50,
+  "total": 78.75,
+  "breakdown": "This PR fixes a bug where rewards_box in streaming passthrough wasn't being normalized, causing non-standard keys (xp, gold_pieces) from LLM responses to leak into persisted state. The fix adds a normalize_rewards_box_for_ui function that maps legacy keys to standard keys, applied in the _resolve_canonical_level_up_ui_pair function. Test coverage is excellent with a real E2E test, but the main function lacks a docstring and has minimal explicit error handling beyond coerce_int defaults.",
+  "key_changes": [
+    "Added normalize_rewards_box_for_ui function to convert 'xp'\u2192'xp_gained' and 'gold_pieces'\u2192'gold'",
+    "Applied normalization in _resolve_canonical_level_up_ui_pair for passthrough_rewards",
+    "Added E2E test file testing streaming passthrough normalization with messy keys",
+    "Removed redundant canonical_stream_rewards_box = None assignment",
+    "Added pop operations to remove legacy keys after normalization"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "matched-corpus-n3-20260418",
+  "last_updated": "2026-04-18T00:03:06.996165+00:00",
+  "sample_number": 2
+}

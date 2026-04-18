@@ -1,0 +1,22 @@
+{
+  "pr": 6265,
+  "technique": "ET",
+  "naming": 90,
+  "error_handling": 80,
+  "type_safety": 70,
+  "architecture": 90,
+  "test_coverage": 85,
+  "documentation": 70,
+  "total": 81,
+  "breakdown": "This PR adds normalization for non-standard reward keys (xp\u2192xp_gained, gold_pieces\u2192gold) in streaming passthrough, with a new test that exercises the LLM fallback parser. The core logic is well-structured in world_logic.py with appropriate deep copying and None handling. Minor gaps: no type annotations on the function, and the new function lacks a docstring despite being a public utility.",
+  "key_changes": [
+    "Add xp\u2192xp_gained and gold_pieces\u2192gold fallback mapping in normalize_rewards_box_for_ui",
+    "Pop normalized fallback keys after processing to prevent persistence of raw keys",
+    "Apply normalize_rewards_box_for_ui to passthrough rewards in _resolve_canonical_level_up_ui_pair",
+    "Add new E2E test test_streaming_passthrough_normalization.py to verify normalization"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "matched-corpus-n3-20260418",
+  "last_updated": "2026-04-18T00:02:39.097187+00:00",
+  "sample_number": 3
+}
