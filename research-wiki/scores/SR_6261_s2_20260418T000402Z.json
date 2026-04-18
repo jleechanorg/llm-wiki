@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "SR",
+  "naming": 75,
+  "error_handling": 75,
+  "type_safety": 70,
+  "architecture": 80,
+  "test_coverage": 75,
+  "documentation": 65,
+  "total": 73.5,
+  "breakdown": "This PR refactors rewards box handling to use a centralized robust numeric conversion approach with fallback chains. It adds a `_get_raw` helper that intelligently handles empty strings, zero values, NaN/inf before passing to `_DNC.convert_value`. The new test file covers both unit and E2E scenarios. Minor concerns: the `_get_raw` helper uses `Any` type; some assertions in E2E test are minimal; helper function lacks docstring.",
+  "key_changes": [
+    "Added `_get_raw` helper function with robust fallback logic for numeric extraction",
+    "Replaced multiple `coerce_int` calls with centralized `_DNC.convert_value` approach",
+    "Added logic to handle NaN/inf as invalid (keep searching for fallback)",
+    "Added test file `testing_mcp/test_rewards_box_robustness.py` with unit and E2E tests",
+    "Added comment explaining WHY boolean representations are handled differently for LLM payloads"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "matched-corpus-n3-20260418",
+  "last_updated": "2026-04-18T00:04:02.943854+00:00",
+  "sample_number": 2
+}

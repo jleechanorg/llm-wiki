@@ -1,0 +1,23 @@
+{
+  "pr": 6265,
+  "technique": "ET",
+  "naming": 90,
+  "error_handling": 70,
+  "type_safety": 50,
+  "architecture": 85,
+  "test_coverage": 95,
+  "documentation": 50,
+  "total": 73.75,
+  "breakdown": "This PR fixes a bug where non-standard reward box keys (xp/gold_pieces) from LLM responses weren't being normalized in streaming passthrough. The fix adds a normalization function that handles fallback key mapping and removes raw keys. The test coverage is excellent - it exercises the actual code path with a real LLM. However, type safety is weak (no type hints on the new function, no TypedDict for rewards_box shape), and documentation is minimal (the new function lacks a docstring).",
+  "key_changes": [
+    "Added normalize_rewards_box_for_ui function to handle xp->xp_gained and gold_pieces->gold fallback mappings",
+    "Applied normalization to passthrough_rewards in _resolve_canonical_level_up_ui_pair",
+    "Created new test file test_streaming_passthrough_normalization.py that validates the fix with real LLM",
+    "Removed raw keys (xp, gold_pieces) after normalization to prevent persistence of messy data",
+    "Added comment explaining WHY the normalization exists (LLM-generated payloads use non-standard boolean representations)"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "matched-corpus-n3-20260418",
+  "last_updated": "2026-04-18T00:02:13.345105+00:00",
+  "sample_number": 2
+}

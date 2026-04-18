@@ -1,0 +1,24 @@
+{
+  "pr": 6269,
+  "technique": "ET",
+  "naming": 85,
+  "error_handling": 75,
+  "type_safety": 80,
+  "architecture": 80,
+  "test_coverage": 0,
+  "documentation": 85,
+  "total": 68,
+  "breakdown": "PR adds CR (CodeRabbit) fallback logic to Gate-3 in GitHub Actions workflows, enhancing the approval check to fall back to status+comment when formal review is unavailable. Proper error handling with exit codes is added, and regex is simplified. Naming is clear, error handling improved but could be stronger, type safety is adequate for shell (proper quoting), but architecture duplicates identical logic across two workflow files. No test coverage as these are CI workflow files.",
+  "key_changes": [
+    "Added fallback from CR review state to CodeRabbit status + [approve] comment check",
+    "Added exit code capture with set +e -o pipefail around API calls",
+    "Extended user matching from coderabbitai[bot] to include coderabbitai",
+    "Changed status filter from specific 'success' context to any CodeRabbit context",
+    "Simplified regex from (?m)^\\s*\\[approve\\]\\s*$ to \\[approve\\]",
+    "Added error logging for failed CR review lookups"
+  ],
+  "commit_sha": "35b736d9658cd1e0203503fecf4c50a8e4a809ec",
+  "run_session": "matched-corpus-n3-20260418",
+  "last_updated": "2026-04-18T00:09:42.461850+00:00",
+  "sample_number": 3
+}

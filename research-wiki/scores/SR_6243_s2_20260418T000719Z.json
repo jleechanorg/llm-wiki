@@ -1,0 +1,22 @@
+{
+  "pr": 6243,
+  "technique": "SR",
+  "naming": 95,
+  "error_handling": 90,
+  "type_safety": 90,
+  "architecture": 95,
+  "test_coverage": 100,
+  "documentation": 95,
+  "total": 93.75,
+  "breakdown": "This PR widens state flag boolean semantics in game_state.py to accept numeric LLM outputs (int 1/0, string '1'/'0') in addition to existing True/False and string 'true'/'false'. The change fixes silent level-up stalls caused by LLMs setting boolean fields as integers. Tests provide thorough coverage of accepted/rejected values including the critical bool-subclass-of-int edge case. Code is well-documented with docstrings explaining the production problem being solved.",
+  "key_changes": [
+    "Widen _is_state_flag_true to accept int 1 and string '1' in addition to True/'true'",
+    "Widen _is_state_flag_false to accept int 0 and string '0' in addition to False/'false'",
+    "Explicitly exclude bool from int check to prevent bool(1) == True confusing the int branch",
+    "Add comprehensive StateFlagSemanticsTest with test_true_accepted_values, test_true_rejected_values, test_false_accepted_values, test_false_rejected_values, and test_bool_subclass_of_int_not_confused"
+  ],
+  "commit_sha": "168073c02518b872d6097d422c8776b6752b9a0d",
+  "run_session": "matched-corpus-n3-20260418",
+  "last_updated": "2026-04-18T00:07:19.746470+00:00",
+  "sample_number": 2
+}

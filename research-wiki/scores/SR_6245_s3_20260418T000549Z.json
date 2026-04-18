@@ -1,0 +1,23 @@
+{
+  "pr": 6245,
+  "technique": "SR",
+  "naming": 82,
+  "error_handling": 68,
+  "type_safety": 68,
+  "architecture": 75,
+  "test_coverage": 72,
+  "documentation": 75,
+  "total": 72.45,
+  "breakdown": "This PR stabilizes XP synthesis by removing the duplicated `_extract_xp_from_player_data` function and routing calls to the existing `extract_character_xp` helper instead. It also adds type-checking for `xp_awarded` fields in the rewards box synthesis and renames `check_and_set_level_up_pending_impl` to `ensure_level_up_rewards_pending`. The refactoring reduces code duplication but introduces a minor API break, and there's inconsistent type-checking between combat and encounter paths. Test coverage confirms the various XP extraction edge cases.",
+  "key_changes": [
+    "Removed `_extract_xp_from_player_data` function and replaced all calls with `extract_character_xp`",
+    "Added isinstance check for combat_summary before accessing xp_awarded in _synthesize_generic_rewards_box",
+    "Added xp_awarded extraction for encounter_summary with fallback logic",
+    "Renamed check_and_set_level_up_pending_impl wrapper to ensure_level_up_rewards_pending",
+    "Added tests for _extract_xp_from_player_data covering various input formats and edge cases"
+  ],
+  "commit_sha": "86585b929a75e6b69b1b4e53f17ad560e6e1a880",
+  "run_session": "matched-corpus-n3-20260418",
+  "last_updated": "2026-04-18T00:05:49.860939+00:00",
+  "sample_number": 3
+}

@@ -1,26 +1,83 @@
 {
   "techniques": {
     "SR": {
-      "n": 5,
-      "scores": [77, 89, 83, 100, 82],
-      "mean": 86.2,
-      "last_updated": "2026-04-17T15:30:00Z",
+      "n": 15,
+      "scores": [
+        77,
+        89,
+        83,
+        100,
+        82,
+        80.75,
+        80.0,
+        73.5,
+        78,
+        74.75,
+        72.45,
+        93.75,
+        97.5,
+        59.5,
+        77.25
+      ],
+      "mean": 81.23,
+      "last_updated": "2026-04-18T00:09:15.717211+00:00",
       "notes": "SR matched corpus batch: MiniMax-M2.5 rubric scoring"
     },
     "ET": {
-      "n": 5,
-      "scores": [81, 85, 78, 89, 78],
-      "mean": 82.2,
-      "last_updated": "2026-04-17T15:11:58.471247+00:00",
+      "n": 15,
+      "scores": [
+        81,
+        85,
+        78,
+        89,
+        78,
+        73.75,
+        81,
+        77,
+        79.15,
+        73.5,
+        73.25,
+        93.75,
+        91.5,
+        68.75,
+        68
+      ],
+      "mean": 79.37666666666668,
+      "last_updated": "2026-04-18T00:09:42.470517+00:00",
       "notes": "ET matched corpus batch run"
     },
     "PRM": {
-      "n": 14,
-      "scores": [82, 85, 87, 79, 88, 84, 83, 86, 83, 82, 88, 79, 84, 70],
-      "mean": 82.9,
+      "n": 24,
+      "scores": [
+        82,
+        85,
+        87,
+        79,
+        88,
+        84,
+        83,
+        86,
+        83,
+        82,
+        88,
+        79,
+        84,
+        70,
+        78.75,
+        85.5,
+        76.25,
+        73.75,
+        81.2,
+        74.75,
+        83.5,
+        95.0,
+        67.5,
+        67.5
+      ],
+      "mean": 80.9875,
       "commit_sha": "792bfacea",
       "pr": 6345,
-      "last_updated": "2026-04-17T15:12:08.077501+00:00",
+      "last_updated": "2026-04-18T00:10:03.437567+00:00",
       "notes": "PRM matched corpus batch 2: +5 PRs (82, 88, 79, 84, 70), n=14"
     }
   },
@@ -55,10 +112,36 @@
           "architecture": 16,
           "test_coverage": 12,
           "documentation": 6,
-          "breakdown": "Solid fix adding fallback mapping (xp→xp_gained, gold_pieces→gold) and restructuring the signal logic. Clean coerce_int with defaults. Type safety could benefit from TypedDict for rewards_box shape.",
+          "breakdown": "Solid fix adding fallback mapping (xp\u2192xp_gained, gold_pieces\u2192gold) and restructuring the signal logic. Clean coerce_int with defaults. Type safety could benefit from TypedDict for rewards_box shape.",
           "commit_sha": "SR_6265_20260417",
           "run_session": "20260417_SR_batch",
           "technique": "SR"
+        },
+        {
+          "total": 80.75,
+          "naming": 85,
+          "error_handling": 75,
+          "type_safety": 80,
+          "architecture": 85,
+          "test_coverage": 90,
+          "documentation": 65,
+          "breakdown": "This PR fixes normalization of rewards_box in streaming passthrough by adding a `normalize_rewards_box_for_ui()` function that converts non-standard LLM-generated keys ('xp'\u2192'xp_gained', 'gold_pieces'\u2192'gold') to standardized format. The fix includes a new E2E test that verifies the normalization works end-to-end. Naming and architecture are solid, but documentation lacks proper docstrings and some comments explain WHAT rather than WHY.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:01:46.354129+00:00"
+        },
+        {
+          "total": 80.0,
+          "naming": 85,
+          "error_handling": 75,
+          "type_safety": 70,
+          "architecture": 85,
+          "test_coverage": 95,
+          "documentation": 70,
+          "breakdown": "This PR fixes a bug where non-standard reward keys ('xp'/'gold_pieces') from LLM responses weren't being normalized to standard keys ('xp_gained'/'gold') in the streaming passthrough path. The fix adds fallback logic in `normalize_rewards_box_for_ui` and applies normalization in the UI pair resolution. Test coverage is excellent with a real E2E test. Type safety could be improved with explicit type hints on the normalization function.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:01:56.264996+00:00"
         }
       ],
       "ET": [
@@ -74,6 +157,32 @@
           "commit_sha": "et-6265",
           "run_session": "et-manual-20260417",
           "technique": "ET"
+        },
+        {
+          "total": 73.75,
+          "naming": 90,
+          "error_handling": 70,
+          "type_safety": 50,
+          "architecture": 85,
+          "test_coverage": 95,
+          "documentation": 50,
+          "breakdown": "This PR fixes a bug where non-standard reward box keys (xp/gold_pieces) from LLM responses weren't being normalized in streaming passthrough. The fix adds a normalization function that handles fallback key mapping and removes raw keys. The test coverage is excellent - it exercises the actual code path with a real LLM. However, type safety is weak (no type hints on the new function, no TypedDict for rewards_box shape), and documentation is minimal (the new function lacks a docstring).",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:02:13.347767+00:00"
+        },
+        {
+          "total": 81,
+          "naming": 90,
+          "error_handling": 80,
+          "type_safety": 70,
+          "architecture": 90,
+          "test_coverage": 85,
+          "documentation": 70,
+          "breakdown": "This PR adds normalization for non-standard reward keys (xp\u2192xp_gained, gold_pieces\u2192gold) in streaming passthrough, with a new test that exercises the LLM fallback parser. The core logic is well-structured in world_logic.py with appropriate deep copying and None handling. Minor gaps: no type annotations on the function, and the new function lacks a docstring despite being a public utility.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:02:39.113392+00:00"
         }
       ],
       "PRM": [
@@ -89,6 +198,32 @@
           "commit_sha": "PRM_6265_20260417_151208",
           "run_session": "20260417_151208",
           "technique": "PRM"
+        },
+        {
+          "total": 78.75,
+          "naming": 90,
+          "error_handling": 70,
+          "type_safety": 75,
+          "architecture": 85,
+          "test_coverage": 95,
+          "documentation": 50,
+          "breakdown": "This PR fixes a bug where rewards_box in streaming passthrough wasn't being normalized, causing non-standard keys (xp, gold_pieces) from LLM responses to leak into persisted state. The fix adds a normalize_rewards_box_for_ui function that maps legacy keys to standard keys, applied in the _resolve_canonical_level_up_ui_pair function. Test coverage is excellent with a real E2E test, but the main function lacks a docstring and has minimal explicit error handling beyond coerce_int defaults.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:03:06.998825+00:00"
+        },
+        {
+          "total": 85.5,
+          "naming": 95,
+          "error_handling": 85,
+          "type_safety": 70,
+          "architecture": 95,
+          "test_coverage": 95,
+          "documentation": 70,
+          "breakdown": "This PR fixes normalization of rewards_box in streaming passthrough to handle alternative key names ('xp'\u2192'xp_gained', 'gold_pieces'\u2192'gold'). The core fix adds fallback logic to normalize_rewards_box_for_ui and applies it in _resolve_canonical_level_up_ui_pair before persistence. A thorough E2E test verifies the fix works. Minor gaps: no explicit return type annotation on the normalization function and missing docstring.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:03:30.590045+00:00"
         }
       ]
     },
@@ -106,6 +241,32 @@
           "commit_sha": "SR_6261_20260417",
           "run_session": "20260417_SR_batch",
           "technique": "SR"
+        },
+        {
+          "total": 73.5,
+          "naming": 75,
+          "error_handling": 75,
+          "type_safety": 70,
+          "architecture": 80,
+          "test_coverage": 75,
+          "documentation": 65,
+          "breakdown": "This PR refactors rewards box handling to use a centralized robust numeric conversion approach with fallback chains. It adds a `_get_raw` helper that intelligently handles empty strings, zero values, NaN/inf before passing to `_DNC.convert_value`. The new test file covers both unit and E2E scenarios. Minor concerns: the `_get_raw` helper uses `Any` type; some assertions in E2E test are minimal; helper function lacks docstring.",
+          "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:04:02.947718+00:00"
+        },
+        {
+          "total": 78,
+          "naming": 85,
+          "error_handling": 70,
+          "type_safety": 65,
+          "architecture": 85,
+          "test_coverage": 90,
+          "documentation": 75,
+          "breakdown": "This PR refactors reward normalization to use a centralized robust numeric converter with a helper function `_get_raw` that handles fallbacks through multiple key aliases before global conversion. It improves architecture by extracting a greedy fallback extraction pattern and adds comprehensive E2E test coverage. However, it uses `Any` type in the critical `_get_raw` function without generic bounds, lacks explicit exception handling for edge cases, and has limited public API documentation beyond comments.",
+          "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:04:17.098668+00:00"
         }
       ],
       "ET": [
@@ -121,6 +282,32 @@
           "commit_sha": "et-6261",
           "run_session": "et-manual-20260417",
           "technique": "ET"
+        },
+        {
+          "total": 77,
+          "naming": 70,
+          "error_handling": 80,
+          "type_safety": 70,
+          "architecture": 80,
+          "test_coverage": 85,
+          "documentation": 75,
+          "breakdown": "This PR refactors rewards box normalization to use a robust key fallback extraction helper and centralized numeric conversion. The changes add defensive handling for edge cases (empty strings, zeros, NaN, Inf) when parsing LLM-generated payloads. Quality is solid: tests are comprehensive covering both unit and E2E scenarios, but\u6263\u5206 points for cryptic `_DNC` acronym without expansion, return type `Any` on the helper function, and missing docstrings on public production functions.",
+          "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:04:28.359987+00:00"
+        },
+        {
+          "total": 79.15,
+          "naming": 85,
+          "error_handling": 72,
+          "type_safety": 80,
+          "architecture": 88,
+          "test_coverage": 65,
+          "documentation": 75,
+          "breakdown": "This PR refactors the rewards box normalization to use a centralized robust numeric converter with fallback chains for handling messy LLM outputs. A new internal helper `_get_raw` handles edge cases (0, NaN, inf, empty strings) before conversion. The test file is substantial but lacks explicit assertion statements\u2014errors are collected in a list rather than raised. Type hints use Any appropriately for the fallback function. Good use of explanatory comments for WHY certain checks are needed.",
+          "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:04:35.983141+00:00"
         }
       ],
       "PRM": [
@@ -136,6 +323,32 @@
           "commit_sha": "PRM_6261_20260417_151208",
           "run_session": "20260417_151208",
           "technique": "PRM"
+        },
+        {
+          "total": 76.25,
+          "naming": 75,
+          "error_handling": 70,
+          "type_safety": 65,
+          "architecture": 80,
+          "test_coverage": 90,
+          "documentation": 85,
+          "breakdown": "This PR refactors rewards box normalization to use a centralized robust numeric converter with intelligent fallback logic for various LLM output formats. It handles edge cases like NaN, inf, empty strings, and zero values through a custom `_get_raw` helper. The test coverage is excellent with both unit and E2E tests. Type safety could be improved by replacing `Any` return type on the helper, and error handling could benefit from explicit typed exceptions rather than implicit conversion logic.",
+          "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:05:10.483474+00:00"
+        },
+        {
+          "total": 73.75,
+          "naming": 75,
+          "error_handling": 60,
+          "type_safety": 70,
+          "architecture": 75,
+          "test_coverage": 90,
+          "documentation": 80,
+          "breakdown": "This PR refactors rewards box normalization to use a centralized robust numeric extraction with intelligent fallbacks across multiple key aliases (xp_gained, xp, xp_awarded, xpAmount). It handles edge cases like empty strings, zero values, NaN, and infinity gracefully. The inline helper function `_get_raw` is well-implemented but uses the cryptic `_DNC` abbreviation. Test coverage is strong with both unit and E2E hallucination tests. Type safety is partial with `Any` return types.",
+          "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:05:20.464944+00:00"
         }
       ]
     },
@@ -153,6 +366,32 @@
           "commit_sha": "SR_6245_20260417",
           "run_session": "20260417_SR_batch",
           "technique": "SR"
+        },
+        {
+          "total": 74.75,
+          "naming": 75,
+          "error_handling": 80,
+          "type_safety": 75,
+          "architecture": 70,
+          "test_coverage": 85,
+          "documentation": 60,
+          "breakdown": "This PR fixes XP extraction by replacing the deprecated `_extract_xp_from_player_data` with `extract_character_xp`, removing a duplicated function, and adding support for xp_awarded field in combat/encounter rewards synthesis. Tests are comprehensive covering various input formats. Architecturally, the function rename and removal reduces duplication. Weaknesses include sparse docstrings and comments explaining WHY the new xp_awarded priority was added.",
+          "commit_sha": "86585b929a75e6b69b1b4e53f17ad560e6e1a880",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:05:38.069447+00:00"
+        },
+        {
+          "total": 72.45,
+          "naming": 82,
+          "error_handling": 68,
+          "type_safety": 68,
+          "architecture": 75,
+          "test_coverage": 72,
+          "documentation": 75,
+          "breakdown": "This PR stabilizes XP synthesis by removing the duplicated `_extract_xp_from_player_data` function and routing calls to the existing `extract_character_xp` helper instead. It also adds type-checking for `xp_awarded` fields in the rewards box synthesis and renames `check_and_set_level_up_pending_impl` to `ensure_level_up_rewards_pending`. The refactoring reduces code duplication but introduces a minor API break, and there's inconsistent type-checking between combat and encounter paths. Test coverage confirms the various XP extraction edge cases.",
+          "commit_sha": "86585b929a75e6b69b1b4e53f17ad560e6e1a880",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:05:49.862548+00:00"
         }
       ],
       "ET": [
@@ -168,6 +407,32 @@
           "commit_sha": "et-6245",
           "run_session": "et-manual-20260417",
           "technique": "ET"
+        },
+        {
+          "total": 73.5,
+          "naming": 80,
+          "error_handling": 70,
+          "type_safety": 70,
+          "architecture": 75,
+          "test_coverage": 80,
+          "documentation": 70,
+          "breakdown": "This PR fixes XP synthesis and level-up regressions by removing a duplicate `_extract_xp_from_player_data` function and consolidating to use the shared `extract_character_xp` helper. It improves XP extraction logic to check combat_summary's xp_awarded field first before falling back to rewards_pending. The changes are straightforward bug fixes with adequate naming and tests, but introduce minimal new error handling beyond isinstance checks.",
+          "commit_sha": "86585b929a75e6b69b1b4e53f17ad560e6e1a880",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:06:22.086563+00:00"
+        },
+        {
+          "total": 73.25,
+          "naming": 85,
+          "error_handling": 70,
+          "type_safety": 70,
+          "architecture": 75,
+          "test_coverage": 70,
+          "documentation": 70,
+          "breakdown": "This PR removes the `_extract_xp_from_player_data` function and replaces it with calls to `extract_character_xp`, while updating XP synthesis in reward boxes to prioritize `xp_awarded` from combat/encounter summaries. The naming is improved with clearer function names. Error handling relies on `coerce_int` and type checks. Type safety is moderate with `Any` types still present. Architecture shows consolidation but XP priority logic is duplicated across multiple sites. Test coverage appears to exist from the title but the diff shows tests for the removed function. Documentation is minimal on new code.",
+          "commit_sha": "86585b929a75e6b69b1b4e53f17ad560e6e1a880",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:06:32.613435+00:00"
         }
       ],
       "PRM": [
@@ -183,6 +448,32 @@
           "commit_sha": "PRM_6245_20260417_151208",
           "run_session": "20260417_151208",
           "technique": "PRM"
+        },
+        {
+          "total": 81.2,
+          "naming": 85,
+          "error_handling": 75,
+          "type_safety": 80,
+          "architecture": 85,
+          "test_coverage": 90,
+          "documentation": 70,
+          "breakdown": "This PR fixes level-up and XP synthesis regressions by removing a duplicate local function (`_extract_xp_from_player_data`) in favor of the canonical `extract_character_xp`, and updating reward synthesis to prioritize `xp_awarded` from combat/encounter summaries. The refactoring reduces code duplication and improves maintainability. Strong test coverage exists for the removed function's behavior.",
+          "commit_sha": "86585b929a75e6b69b1b4e53f17ad560e6e1a880",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:06:54.561836+00:00"
+        },
+        {
+          "total": 74.75,
+          "naming": 85,
+          "error_handling": 70,
+          "type_safety": 75,
+          "architecture": 85,
+          "test_coverage": 60,
+          "documentation": 70,
+          "breakdown": "This PR stabilizes XP synthesis by adding fallback logic for xp_awarded in combat/encounter summaries before falling back to rewards_pending, and replaces _extract_xp_from_player_data with extract_character_xp. Good: consistent naming, type checks added, module structure maintained. Concerns: tests still reference the removed function, loss of the well-documented parsing function may reduce error handling coverage, and some docstrings were removed during refactoring.",
+          "commit_sha": "86585b929a75e6b69b1b4e53f17ad560e6e1a880",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:07:04.684765+00:00"
         }
       ]
     },
@@ -200,6 +491,32 @@
           "commit_sha": "SR_6243_20260417",
           "run_session": "20260417_SR_batch",
           "technique": "SR"
+        },
+        {
+          "total": 93.75,
+          "naming": 95,
+          "error_handling": 90,
+          "type_safety": 90,
+          "architecture": 95,
+          "test_coverage": 100,
+          "documentation": 95,
+          "breakdown": "This PR widens state flag boolean semantics in game_state.py to accept numeric LLM outputs (int 1/0, string '1'/'0') in addition to existing True/False and string 'true'/'false'. The change fixes silent level-up stalls caused by LLMs setting boolean fields as integers. Tests provide thorough coverage of accepted/rejected values including the critical bool-subclass-of-int edge case. Code is well-documented with docstrings explaining the production problem being solved.",
+          "commit_sha": "168073c02518b872d6097d422c8776b6752b9a0d",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:07:19.748249+00:00"
+        },
+        {
+          "total": 97.5,
+          "naming": 95,
+          "error_handling": 100,
+          "type_safety": 95,
+          "architecture": 100,
+          "test_coverage": 100,
+          "documentation": 95,
+          "breakdown": "This PR widens the boolean acceptance semantics in _is_state_flag_true and _is_state_flag_false to accept LLM numeric booleans (int 1/0, string '1'/'0'). The type safety is excellent - the code correctly excludes bool from the int check using isinstance. Test coverage is comprehensive with 4 test methods covering accepted/rejected values and bool/int distinction. Documentation clearly explains the production bug (silent level-up stalls) that motivated the change.",
+          "commit_sha": "168073c02518b872d6097d422c8776b6752b9a0d",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:07:38.680123+00:00"
         }
       ],
       "ET": [
@@ -215,6 +532,32 @@
           "commit_sha": "et-6243",
           "run_session": "et-manual-20260417",
           "technique": "ET"
+        },
+        {
+          "total": 93.75,
+          "naming": 95,
+          "error_handling": 90,
+          "type_safety": 90,
+          "architecture": 95,
+          "test_coverage": 100,
+          "documentation": 95,
+          "breakdown": "This PR widens state flag semantics in game_state.py to accept LLM numeric booleans (1, '1', 0, '0') alongside traditional boolean values. The changes are focused and solve a real production issue where LLM-generated state updates with numeric booleans were being silently rejected, causing level-up stalls. Type safety is excellent with explicit bool/int discrimination. Test coverage is comprehensive with clear subTest usage.",
+          "commit_sha": "168073c02518b872d6097d422c8776b6752b9a0d",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:08:01.704487+00:00"
+        },
+        {
+          "total": 91.5,
+          "naming": 95,
+          "error_handling": 85,
+          "type_safety": 90,
+          "architecture": 95,
+          "test_coverage": 95,
+          "documentation": 90,
+          "breakdown": "The PR widens state flag semantics to accept LLM numeric booleans (1, 0, '1', '0') for level-up state fields. Code quality is solid with clear function names, type-safe isinstance checks that correctly distinguish bool from int, comprehensive test coverage including edge cases like bool subclassing, and well-explained docstrings. No error handling needed since these are pure logic functions. Minor\u6263\u5206 for generic module name 'game_state' and missing type annotations.",
+          "commit_sha": "168073c02518b872d6097d422c8776b6752b9a0d",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:08:18.670615+00:00"
         }
       ],
       "PRM": [
@@ -230,6 +573,32 @@
           "commit_sha": "PRM_6243_20260417_151208",
           "run_session": "20260417_151208",
           "technique": "PRM"
+        },
+        {
+          "total": 83.5,
+          "naming": 85,
+          "error_handling": 70,
+          "type_safety": 80,
+          "architecture": 85,
+          "test_coverage": 95,
+          "documentation": 90,
+          "breakdown": "This PR widens the state flag semantics in game_state.py to accept numeric booleans (int 1/0, string '1'/'0') in addition to strict True/'true' and False/'false'. Tests are comprehensive, covering accepted/rejected edge cases and checking that bool is handled correctly as a subclass of int. The code has good documentation explaining the WHY (preventing silent level-up stalls from LLM numeric booleans). Minor deduction in error handling as no exceptions are involved, but type safety properly handles bool-as-int edge case.",
+          "commit_sha": "168073c02518b872d6097d422c8776b6752b9a0d",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:08:29.549064+00:00"
+        },
+        {
+          "total": 95.0,
+          "naming": 90,
+          "error_handling": 100,
+          "type_safety": 90,
+          "architecture": 95,
+          "test_coverage": 100,
+          "documentation": 95,
+          "breakdown": "This PR widens state flag checking to accept LLM numeric booleans (1, '1', 0, '0') alongside strict boolean values, fixing silent level-up stalls. The code uses careful type checking to avoid confusing bool subclasses with int values. Tests are comprehensive with good docstrings explaining the WHY behind the change.",
+          "commit_sha": "168073c02518b872d6097d422c8776b6752b9a0d",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:08:42.275553+00:00"
         }
       ]
     },
@@ -247,6 +616,32 @@
           "commit_sha": "SR_6269_20260417",
           "run_session": "20260417_SR_batch",
           "technique": "SR"
+        },
+        {
+          "total": 59.5,
+          "naming": 70,
+          "error_handling": 75,
+          "type_safety": 50,
+          "architecture": 65,
+          "test_coverage": 20,
+          "documentation": 80,
+          "breakdown": "PR adds CR approval fallback logic to Skeptic Gates workflows: when no formal CR review exists, it now checks CodeRabbit status checks on commits and [approve] bot comments. Improves error handling with explicit exit code capture using set +e -o pipefail. Also broadens bot username matching to include both coderabbitai[bot] and coderabbitai. Shell scripting makes type safety not applicable; test coverage absent as expected for workflow changes.",
+          "commit_sha": "35b736d9658cd1e0203503fecf4c50a8e4a809ec",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:08:52.497436+00:00"
+        },
+        {
+          "total": 77.25,
+          "naming": 80,
+          "error_handling": 95,
+          "type_safety": 85,
+          "architecture": 80,
+          "test_coverage": 30,
+          "documentation": 85,
+          "breakdown": "This PR ports CodeRabbit fallback logic to Skeptic Gates, adding a secondary approval check via GitHub status and [approve] comment when no formal CR review exists. The implementation shows excellent error handling with explicit exit code capture and pipefail mode, though test coverage is absent as this is a workflow file change. Variable naming is descriptive (LATEST_CR_PIPELINE, CR_SIGNAL) but documentation is limited to inline comments.",
+          "commit_sha": "35b736d9658cd1e0203503fecf4c50a8e4a809ec",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:09:15.717163+00:00"
         }
       ],
       "ET": [
@@ -262,6 +657,32 @@
           "commit_sha": "et-6269",
           "run_session": "et-manual-20260417",
           "technique": "ET"
+        },
+        {
+          "total": 68.75,
+          "naming": 75,
+          "error_handling": 85,
+          "type_safety": 80,
+          "architecture": 80,
+          "test_coverage": 0,
+          "documentation": 85,
+          "breakdown": "This PR improves CodeRabbit approval detection in GitHub Actions workflows by adding fallback logic that checks both CodeRabbit status checks and '[approve]' bot comments when no formal review exists. It also adds proper pipefail error handling for shell API calls. The main weakness is lack of test coverage - there are no test files in this diff, only workflow YAML changes.",
+          "commit_sha": "35b736d9658cd1e0203503fecf4c50a8e4a809ec",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:09:31.562452+00:00"
+        },
+        {
+          "total": 68,
+          "naming": 85,
+          "error_handling": 75,
+          "type_safety": 80,
+          "architecture": 80,
+          "test_coverage": 0,
+          "documentation": 85,
+          "breakdown": "PR adds CR (CodeRabbit) fallback logic to Gate-3 in GitHub Actions workflows, enhancing the approval check to fall back to status+comment when formal review is unavailable. Proper error handling with exit codes is added, and regex is simplified. Naming is clear, error handling improved but could be stronger, type safety is adequate for shell (proper quoting), but architecture duplicates identical logic across two workflow files. No test coverage as these are CI workflow files.",
+          "commit_sha": "35b736d9658cd1e0203503fecf4c50a8e4a809ec",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:09:42.470475+00:00"
         }
       ],
       "PRM": [
@@ -277,6 +698,32 @@
           "commit_sha": "PRM_6269_20260417_151208",
           "run_session": "20260417_151208",
           "technique": "PRM"
+        },
+        {
+          "total": 67.5,
+          "naming": 85,
+          "error_handling": 95,
+          "type_safety": 75,
+          "architecture": 80,
+          "test_coverage": 0,
+          "documentation": 60,
+          "breakdown": "This PR modifies GitHub Actions workflow files to add a fallback logic for CodeRabbit approval detection. The changes add robust error handling (set +e pipefail, exit code capture), extend user filtering to include both coderabbitai[bot] and coderabbitai, and add a secondary check using CR status + [approve] comment when formal review state is unavailable. This is shell scripting in YAML, so type safety and test coverage dimensions don't apply meaningfully.",
+          "commit_sha": "35b736d9658cd1e0203503fecf4c50a8e4a809ec",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:09:55.238341+00:00"
+        },
+        {
+          "total": 67.5,
+          "naming": 85,
+          "error_handling": 90,
+          "type_safety": 50,
+          "architecture": 80,
+          "test_coverage": 20,
+          "documentation": 85,
+          "breakdown": "This PR adds fallback logic to Skeptic Gates workflow for CodeRabbit approval checking. When formal CR review is unavailable, it now falls back to checking the GitHub status check combined with an explicit '[approve]' comment. Error handling is solid with exit code capture and error messages. Naming improvements (LATEST_CR_PIPELINE) and documented rationale (some repos lack PR review objects) are strong. Test coverage is absent as expected for workflow changes.",
+          "commit_sha": "35b736d9658cd1e0203503fecf4c50a8e4a809ec",
+          "run_session": "matched-corpus-n3-20260418",
+          "last_updated": "2026-04-18T00:10:03.437555+00:00"
         }
       ]
     }

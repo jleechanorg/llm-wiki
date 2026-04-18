@@ -1,0 +1,23 @@
+{
+  "pr": 6245,
+  "technique": "SR",
+  "naming": 75,
+  "error_handling": 80,
+  "type_safety": 75,
+  "architecture": 70,
+  "test_coverage": 85,
+  "documentation": 60,
+  "total": 74.75,
+  "breakdown": "This PR fixes XP extraction by replacing the deprecated `_extract_xp_from_player_data` with `extract_character_xp`, removing a duplicated function, and adding support for xp_awarded field in combat/encounter rewards synthesis. Tests are comprehensive covering various input formats. Architecturally, the function rename and removal reduces duplication. Weaknesses include sparse docstrings and comments explaining WHY the new xp_awarded priority was added.",
+  "key_changes": [
+    "Replace _extract_xp_from_player_data calls with extract_character_xp",
+    "Add xp_awarded field handling in _synthesize_generic_rewards_box (combat path)",
+    "Add xp_awarded field handling in _synthesize_generic_rewards_box (encounter path)",
+    "Remove duplicate _extract_xp_from_player_data function",
+    "Rename check_and_set_level_up_pending_impl to ensure_level_up_rewards_pending"
+  ],
+  "commit_sha": "86585b929a75e6b69b1b4e53f17ad560e6e1a880",
+  "run_session": "matched-corpus-n3-20260418",
+  "last_updated": "2026-04-18T00:05:38.067249+00:00",
+  "sample_number": 2
+}
