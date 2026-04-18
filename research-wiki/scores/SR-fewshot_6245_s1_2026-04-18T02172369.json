@@ -1,0 +1,20 @@
+{
+  "pr": 6245,
+  "technique": "SR-fewshot",
+  "run_index": 1,
+  "naming": 92,
+  "error_handling": 86,
+  "type_safety": 88,
+  "architecture": 87,
+  "test_coverage": 87,
+  "documentation": 82,
+  "total": 87.25,
+  "breakdown": "SR-fewshot 1/3: Consolidation patterns apply; test organization follows 6243 subTest style",
+  "fewshot_reference": "PR 6243 SR run 3 (97.5/100)",
+  "key_changes": [
+    "Applied fewshot reference patterns (clear semantics, explicit type checks, comprehensive tests)",
+    "Generated with few-shot positive example guidance",
+    "Self-refined 3 rounds per standard SR methodology"
+  ],
+  "timestamp": "2026-04-18T02:17:23.697362Z"
+}
