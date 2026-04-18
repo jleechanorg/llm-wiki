@@ -1,0 +1,23 @@
+{
+  "pr": 6270,
+  "technique": "SR-multi-exemplar",
+  "naming": 85,
+  "error_handling": 70,
+  "type_safety": 75,
+  "architecture": 90,
+  "test_coverage": 60,
+  "documentation": 50,
+  "total": 73.75,
+  "breakdown": "This PR migrates an inline GitHub Actions job to use a reusable workflow (`skeptic-gate-reusable.yml`). The change improves modularity and reusability by extracting complex polling logic into a separate workflow. However, it trades direct error handling control for abstraction, and loses inline comments that explained the workflow logic. The parameter names are clear, but the external workflow reference lacks documentation about its contract.",
+  "key_changes": [
+    "Replaced inline `skeptic_gate` job with reusable workflow call via `uses: ...@edf76e9fe41a57fbbf84baca674fd7c02a036bd1`",
+    "Removed ~150 lines of inline polling logic including API error handling, retry logic, and verdict parsing",
+    "Added `concurrency_group` parameter to prevent concurrent workflow runs",
+    "Passed through `secrets: inherit` to delegate authentication to reusable workflow",
+    "Simplified workflow by externalizing implementation details to reusable workflow"
+  ],
+  "commit_sha": "04d8df0b7bdafd745ce82e731ffcb2abf3f58273",
+  "run_session": "SR-multi-exemplar-20260418T183711Z",
+  "last_updated": "2026-04-18T18:37:54.536793+00:00",
+  "sample_number": 1
+}

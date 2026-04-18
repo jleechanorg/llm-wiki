@@ -1,0 +1,16 @@
+{
+  "pr": 6261,
+  "technique": "SR-multi-exemplar",
+  "naming": 87,
+  "error_handling": 85,
+  "type_safety": 82,
+  "architecture": 89,
+  "test_coverage": 90,
+  "documentation": 78,
+  "total": 86.2,
+  "breakdown": "Multi-exemplar SR: applied data-norm exemplar pattern. Centralized numeric converter with regex extraction handles varied formats well. Error handling covers NaN, infinity, empty strings. Architecture properly separates concerns. _DNC acronym without expansion is minor naming issue.",
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "phase7-multi-exemplar-20260418",
+  "last_updated": "2026-04-18T17:23:26Z",
+  "sample_number": 1
+}

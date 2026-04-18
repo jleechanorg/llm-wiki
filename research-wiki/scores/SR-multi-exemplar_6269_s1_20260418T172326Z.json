@@ -1,0 +1,16 @@
+{
+  "pr": 6269,
+  "technique": "SR-multi-exemplar",
+  "naming": 88,
+  "error_handling": 93,
+  "type_safety": 85,
+  "architecture": 87,
+  "test_coverage": 15,
+  "documentation": 86,
+  "total": 85.6,
+  "breakdown": "Multi-exemplar SR: identified ci-workflow PR type. Applied CodeRabbit fallback pattern from exemplar: broaden bot username matching (coderabbitai[bot] + coderabbitai), add CR status + [approve] comment fallback when formal review unavailable. Excellent error handling with pipefail. Test coverage 0% expected for workflow changes.",
+  "commit_sha": "35b736d9658cd1e0203503fecf4c50a8e4a809ec",
+  "run_session": "phase7-multi-exemplar-20260418",
+  "last_updated": "2026-04-18T17:23:26Z",
+  "sample_number": 1
+}
