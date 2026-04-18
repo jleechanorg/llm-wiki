@@ -197,7 +197,7 @@
       "notes": "Phase 7d: SR-prtype with PR-type classification + single exemplar. 4 PRs x 3 runs = 12 runs. PRs: 6265, 6261, 6245, 6269. Delta vs SR-fewshot baseline (86.06) = +0.55."
     },
     "SR-multi-exemplar": {
-      "n": 16,
+      "n": 21,
       "scores": [
         88.8,
         89.4,
@@ -214,10 +214,15 @@
         84.25,
         79.25,
         73.5,
-        81.75
+        81.75,
+        85.25,
+        73.75,
+        72.5,
+        66.75,
+        76.5
       ],
-      "mean": 85.221875,
-      "last_updated": "2026-04-18T18:22:08.937809+00:00",
+      "mean": 82.77619047619048,
+      "last_updated": "2026-04-18T18:40:10.422898+00:00",
       "notes": "Phase 7c: SR-multi-exemplar with all 3 type-exemplars shown (state-bool PR#6243, data-norm PR#6261, ci-workflow PR#6269). Model classifies PR type and applies appropriate exemplar. 4 PRs x 3 runs = 12 runs. Delta vs SR-fewshot baseline (86.06) = +1.01."
     }
   },
@@ -1484,6 +1489,96 @@
         "technique": "SR-multi-exemplar",
         "breakdown": "Multi-exemplar: all 3 type-exemplars shown, model applied ci-workflow pattern (self); +0.83 vs SR-fewshot baseline (84.4)"
       }
+    },
+    "6277": {
+      "SR-multi-exemplar": [
+        {
+          "total": 85.25,
+          "naming": 90,
+          "error_handling": 75,
+          "type_safety": 85,
+          "architecture": 85,
+          "test_coverage": 95,
+          "documentation": 85,
+          "breakdown": "This PR adds a RewardsBox TypedDict and validate_rewards_box() function in custom_types.py to enforce schema validation on rewards_box data structures. The validation properly checks for required fields, field types (bool, int, list), and rejects unknown fields. Tests are comprehensive and well-structured. Minor deduction for error handling as validation returns boolean rather than raising typed exceptions, and naming gets slight deduction due to truncated diff limiting full context visibility.",
+          "commit_sha": "52a5fe2c17cbe22a7da159c7542b8ecc585848e7",
+          "run_session": "SR-multi-exemplar-20260418T183711Z",
+          "last_updated": "2026-04-18T18:37:39.438002+00:00",
+          "technique": "SR-multi-exemplar"
+        }
+      ]
+    },
+    "6270": {
+      "SR-multi-exemplar": [
+        {
+          "total": 73.75,
+          "naming": 85,
+          "error_handling": 70,
+          "type_safety": 75,
+          "architecture": 90,
+          "test_coverage": 60,
+          "documentation": 50,
+          "breakdown": "This PR migrates an inline GitHub Actions job to use a reusable workflow (`skeptic-gate-reusable.yml`). The change improves modularity and reusability by extracting complex polling logic into a separate workflow. However, it trades direct error handling control for abstraction, and loses inline comments that explained the workflow logic. The parameter names are clear, but the external workflow reference lacks documentation about its contract.",
+          "commit_sha": "04d8df0b7bdafd745ce82e731ffcb2abf3f58273",
+          "run_session": "SR-multi-exemplar-20260418T183711Z",
+          "last_updated": "2026-04-18T18:37:54.537910+00:00",
+          "technique": "SR-multi-exemplar"
+        }
+      ]
+    },
+    "6273": {
+      "SR-multi-exemplar": [
+        {
+          "total": 72.5,
+          "naming": 75,
+          "error_handling": 70,
+          "type_safety": 70,
+          "architecture": 80,
+          "test_coverage": 75,
+          "documentation": 60,
+          "breakdown": "This PR refactors the rewards engine by moving level-up and reward-related functions (_is_state_flag_false, resolve_level_up_signal, ensure_rewards_box, etc.) from game_state.py to a dedicated rewards_engine module, improving single-responsibility. It also reorganizes wiki files from tips/ to sources/. The code moves appear architecturally sound but the diff is truncated so the actual rewards_engine implementation quality (types, error handling, docs) cannot be fully assessed.",
+          "commit_sha": "b8ecfd30a257b618458a1803f31915e10d7f6177",
+          "run_session": "SR-multi-exemplar-20260418T183711Z",
+          "last_updated": "2026-04-18T18:38:12.029277+00:00",
+          "technique": "SR-multi-exemplar"
+        }
+      ]
+    },
+    "6254": {
+      "SR-multi-exemplar": [
+        {
+          "total": 66.75,
+          "naming": 75,
+          "error_handling": 60,
+          "type_safety": 50,
+          "architecture": 80,
+          "test_coverage": 70,
+          "documentation": 70,
+          "breakdown": "This PR adds XP progress tracking (current_xp, next_level_xp) to the rewards box visibility logic. The change is a simple but targeted boolean condition addition to show the rewards box when a player has XP progress toward the next level. Type safety is weak\u2014there's no validation that current_xp/next_level_xp are numeric before comparison, and the docstring notes 'absent fields' but doesn't handle them defensively. The architecture is reasonable with business logic in world_logic.py and tests in testing_mcp/. Test coverage exists but focuses on the refactored function names rather than explicit tests for the new XP progress condition.",
+          "commit_sha": "457a1639e3e449da0ef84b78b33438df38730dfc",
+          "run_session": "SR-multi-exemplar-20260418T183711Z",
+          "last_updated": "2026-04-18T18:38:47.013423+00:00",
+          "technique": "SR-multi-exemplar"
+        }
+      ]
+    },
+    "6275": {
+      "SR-multi-exemplar": [
+        {
+          "total": 76.5,
+          "naming": 85,
+          "error_handling": 75,
+          "type_safety": 60,
+          "architecture": 80,
+          "test_coverage": 85,
+          "documentation": 80,
+          "breakdown": "This PR fixes evidence_utils.py to use 'worldarchitect.ai' (with dot) as the canonical root name, and refactors test methods in test_mcp_global_installation.py to correctly check shell script files (.github/scripts/skeptic-evaluate.sh) instead of workflow YAML files. The changes improve test accuracy by validating the actual execution targets. However, limited type safety is visible - primarily string-based assertions without TypedDict or dataclasses for structured data.",
+          "commit_sha": "be963b9c187eb27d7a52ce85120f3bc08a6bd597",
+          "run_session": "SR-multi-exemplar-20260418T183711Z",
+          "last_updated": "2026-04-18T18:40:10.422884+00:00",
+          "technique": "SR-multi-exemplar"
+        }
+      ]
     }
   },
   "last_updated": "2026-04-18T17:23:26Z"

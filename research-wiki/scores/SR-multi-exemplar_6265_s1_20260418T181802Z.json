@@ -1,0 +1,23 @@
+{
+  "pr": 6265,
+  "technique": "SR-multi-exemplar",
+  "naming": 90,
+  "error_handling": 75,
+  "type_safety": 65,
+  "architecture": 85,
+  "test_coverage": 90,
+  "documentation": 60,
+  "total": 78.0,
+  "breakdown": "PR adds normalization logic to handle non-standard rewards_box keys ('xp'/'xp_pieces' fallback to 'xp_gained'/'gold') in streaming passthrough. The function properly deep-copies and normalizes before persistence. Test is comprehensive E2E using real LLM. Type safety is weaker due to implicit typing, and the new function lacks a docstring explaining its purpose.",
+  "key_changes": [
+    "Add normalize_rewards_box_for_ui() function with key fallback logic (xp\u2192xp_gained, gold_pieces\u2192gold)",
+    "Call normalization in _resolve_canonical_level_up_ui_pair passthrough path",
+    "Create test_streaming_passthrough_normalization.py E2E test",
+    "Modify branching logic to use raw_structured_rewards_box in non-level-up path",
+    "Pop normalized keys after coercion to prevent raw key persistence"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-multi-exemplar-20260418T181742Z",
+  "last_updated": "2026-04-18T18:18:02.980908+00:00",
+  "sample_number": 1
+}

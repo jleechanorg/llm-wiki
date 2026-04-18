@@ -1,0 +1,23 @@
+{
+  "pr": 6275,
+  "technique": "SR-multi-exemplar",
+  "naming": 85,
+  "error_handling": 75,
+  "type_safety": 60,
+  "architecture": 80,
+  "test_coverage": 85,
+  "documentation": 80,
+  "total": 76.5,
+  "breakdown": "This PR fixes evidence_utils.py to use 'worldarchitect.ai' (with dot) as the canonical root name, and refactors test methods in test_mcp_global_installation.py to correctly check shell script files (.github/scripts/skeptic-evaluate.sh) instead of workflow YAML files. The changes improve test accuracy by validating the actual execution targets. However, limited type safety is visible - primarily string-based assertions without TypedDict or dataclasses for structured data.",
+  "key_changes": [
+    "Changed evidence root name from 'worldarchitectai' to 'worldarchitect.ai' in _get_evidence_tmp_root_name()",
+    "Updated docstring to reflect new domain name format",
+    "Refactored test methods to check skeptic-evaluate.sh script instead of workflow file",
+    "Added file existence assertions before reading script content",
+    "Adjusted test method names to suffix '_in_script' indicating script-based validation"
+  ],
+  "commit_sha": "be963b9c187eb27d7a52ce85120f3bc08a6bd597",
+  "run_session": "SR-multi-exemplar-20260418T183711Z",
+  "last_updated": "2026-04-18T18:40:10.420212+00:00",
+  "sample_number": 1
+}
