@@ -1,0 +1,23 @@
+{
+  "pr": 6270,
+  "technique": "SR-fewshot",
+  "naming": 55,
+  "error_handling": 60,
+  "type_safety": 75,
+  "architecture": 85,
+  "test_coverage": 40,
+  "documentation": 25,
+  "total": 60.75,
+  "breakdown": "This PR migrates complex inline GitHub Actions polling logic (~150 lines of bash) to a reusable workflow call. The architecture improves by extracting the skeptic gate logic into a reusable workflow with proper parameterization. However, the job name contains a typo ('skptic_gate'), the change removes extensive inline comments that explained the polling logic, and no tests are visible. The use of a specific commit SHA rather than a tag is good for reproducibility.",
+  "key_changes": [
+    "Replaces ~150 lines of inline polling bash with single reusable workflow call",
+    "Uses specific commit SHA (@edf76e9) for reproducible workflow version",
+    "Passes pr_number, head_sha, runner_labels, concurrency_group as workflow inputs",
+    "Delegates error handling and retries to external reusable workflow",
+    "Removes inline comments documenting the polling mechanism"
+  ],
+  "commit_sha": "04d8df0b7bdafd745ce82e731ffcb2abf3f58273",
+  "run_session": "SR-fewshot-20260418T184046Z",
+  "last_updated": "2026-04-18T18:41:35.425074+00:00",
+  "sample_number": 1
+}

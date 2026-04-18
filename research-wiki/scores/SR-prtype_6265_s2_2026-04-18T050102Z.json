@@ -1,0 +1,19 @@
+{
+  "pr": "6265",
+  "technique": "SR-prtype",
+  "run_session": "phase7-prtype-computed",
+  "breakdown": {
+    "naming": 91,
+    "error_handling": 86,
+    "type_safety": 84,
+    "architecture": 90,
+    "test_coverage": 88,
+    "documentation": 83,
+    "total": 87.8
+  },
+  "total": 87.8,
+  "timestamp": "2026-04-18T050102Z",
+  "pr_type": "data-norm",
+  "exemplar_used": "PR#6261 (data-norm exemplar, 89/100)",
+  "hypothesis": "PR-type classification selects the best-matching single exemplar for generation"
+}

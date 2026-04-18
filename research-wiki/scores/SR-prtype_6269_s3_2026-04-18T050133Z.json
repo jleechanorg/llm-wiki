@@ -1,0 +1,19 @@
+{
+  "pr": "6269",
+  "technique": "SR-prtype",
+  "run_session": "phase7-prtype-computed",
+  "breakdown": {
+    "naming": 88,
+    "error_handling": 88,
+    "type_safety": 66,
+    "architecture": 85,
+    "test_coverage": 90,
+    "documentation": 89,
+    "total": 85.5
+  },
+  "total": 85.5,
+  "timestamp": "2026-04-18T050133Z",
+  "pr_type": "ci-workflow",
+  "exemplar_used": "PR#6269 (ci-workflow exemplar, 85.3/100)",
+  "hypothesis": "PR-type classification selects the best-matching single exemplar for generation"
+}

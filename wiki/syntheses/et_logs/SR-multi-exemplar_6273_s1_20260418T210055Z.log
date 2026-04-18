@@ -1,0 +1,9 @@
+# SR-multi-exemplar Generation for PR #6273
+Timestamp: 2026-04-18T21:00:24.498305+00:00
+Technique: SR-multi-exemplar
+
+## PR Context
+Title: feat(rewards_engine): v4 single-responsibility level-up pipeline
+
+## Generation Response (5786 chars)
+Extracted code: 4881 chars

@@ -1,0 +1,23 @@
+{
+  "pr": 6273,
+  "technique": "SR-multi-exemplar",
+  "naming": 75,
+  "error_handling": 70,
+  "type_safety": 70,
+  "architecture": 80,
+  "test_coverage": 75,
+  "documentation": 60,
+  "total": 72.5,
+  "breakdown": "This PR refactors the rewards engine by moving level-up and reward-related functions (_is_state_flag_false, resolve_level_up_signal, ensure_rewards_box, etc.) from game_state.py to a dedicated rewards_engine module, improving single-responsibility. It also reorganizes wiki files from tips/ to sources/. The code moves appear architecturally sound but the diff is truncated so the actual rewards_engine implementation quality (types, error handling, docs) cannot be fully assessed.",
+  "key_changes": [
+    "Move level-up functions from game_state to rewards_engine module",
+    "Update world_logic imports to use rewards_engine instead of game_state for reward functions",
+    "Refactor test imports for session_header_utils enrichment",
+    "Fix test target from streaming_orchestrator to llm_parser for lazy loading tests",
+    "Rename wiki/tips/*.md to wiki/sources/*.md"
+  ],
+  "commit_sha": "b8ecfd30a257b618458a1803f31915e10d7f6177",
+  "run_session": "SR-multi-exemplar-20260418T183711Z",
+  "last_updated": "2026-04-18T18:38:12.026687+00:00",
+  "sample_number": 1
+}

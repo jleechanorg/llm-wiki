@@ -1,0 +1,26 @@
+# SR-multi-exemplar Phase 7c Run 1 for PR #6265
+Timestamp: 2026-04-18T17:23:26Z
+Technique: SR-multi-exemplar
+Session: phase7-multi-exemplar-20260418
+
+## PR Context
+Title: [autor] Normalize rewards_box keys in streaming passthrough
+Body: Fix for issue where LLM-generated reward keys (xp, gold_pieces) not normalized to standard keys (xp_gained, gold)
+
+## Exemplars Shown (all 3 types)
+1. state-bool exemplar: PR#6243 (97.5) - game_state.py boolean widening
+2. data-norm exemplar: PR#6261 (89) - world_logic.py centralized numeric coercion
+3. ci-workflow exemplar: PR#6269 (85.3) - skeptic-gate YAML CodeRabbit fallback
+
+## PR Type Classification
+Model classified PR #6265 as: data-norm
+Rationale: PR modifies world_logic.py, handles numeric coercion for rewards_box keys
+
+## Applied Pattern
+data-norm exemplar (#6261) was applied:
+- Centralized normalize_rewards_box_for_ui() function
+- Key alias fallbacks (xp→xp_gained, gold_pieces→gold)
+- Robust coerce_int with defaults
+
+## Score: 88.8/100
+naming=92, error_handling=88, type_safety=90, architecture=91, test_coverage=88, documentation=77

@@ -1,0 +1,23 @@
+{
+  "pr": 6273,
+  "technique": "SR-multi-exemplar",
+  "naming": 85,
+  "error_handling": 80,
+  "type_safety": 70,
+  "architecture": 85,
+  "test_coverage": 80,
+  "documentation": 50,
+  "total": 76.75,
+  "breakdown": "PR refactors the rewards engine by moving level-up related functions (_is_state_flag_false, _is_state_flag_true, resolve_level_up_signal) from game_state to rewards_engine, following single-responsibility principle. Adds test fixtures for firebase mocking and session header enrichment. Also moves wiki tip files to sources directory. Quality is good overall but documentation is sparse with no docstrings on key functions, and type safety could be improved with more explicit type hints.",
+  "key_changes": [
+    "Move level-up signal functions from game_state to rewards_engine module",
+    "Add firebase_admin mock setup with ValueError raising get_app",
+    "Add conftest fixture for world_logic with import reload handling",
+    "Modify test_streaming_orchestrator tests to target llm_parser instead",
+    "Rename wiki/tips/ to wiki/sources/ directory"
+  ],
+  "commit_sha": "b8ecfd30a257b618458a1803f31915e10d7f6177",
+  "run_session": "SR-multi-exemplar-20260418T205948Z",
+  "last_updated": "2026-04-18T21:00:55.590447+00:00",
+  "sample_number": 1
+}

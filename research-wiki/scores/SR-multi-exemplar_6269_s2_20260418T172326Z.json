@@ -1,0 +1,16 @@
+{
+  "pr": 6269,
+  "technique": "SR-multi-exemplar",
+  "naming": 85,
+  "error_handling": 90,
+  "type_safety": 80,
+  "architecture": 86,
+  "test_coverage": 20,
+  "documentation": 82,
+  "total": 84.4,
+  "breakdown": "Multi-exemplar SR: applied ci-workflow exemplar pattern for CodeRabbit fallback. Added secondary approval check via GitHub status and [approve] comment when no formal CR review exists. Strong error handling with exit code capture. Minimal test coverage expected for workflow. Documentation improved over single-exemplar.",
+  "commit_sha": "35b736d9658cd1e0203503fecf4c50a8e4a809ec",
+  "run_session": "phase7-multi-exemplar-20260418",
+  "last_updated": "2026-04-18T17:23:26Z",
+  "sample_number": 2
+}

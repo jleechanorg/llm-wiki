@@ -1,0 +1,23 @@
+{
+  "pr": 6270,
+  "technique": "SR-multi-exemplar",
+  "naming": 85,
+  "error_handling": 65,
+  "type_safety": 70,
+  "architecture": 90,
+  "test_coverage": 50,
+  "documentation": 35,
+  "total": 68.75,
+  "breakdown": "This PR migrates inline skeptic gate polling logic (70+ lines of bash script with API rate limit handling, polling loops, and verdict parsing) to a reusable workflow reference. The architectural improvement is significant\u2014reducing duplication and separating concerns\u2014but the diff lacks context about the external workflow and provides no documentation. Error handling is delegated to the external workflow, which is opaque from this diff. Input types for runner_labels could be explicitly typed.",
+  "key_changes": [
+    "Replaced ~70 lines of inline polling script with reusable workflow reference",
+    "Added inputs: pr_number, head_sha, runner_labels, concurrency_group to pass to reusable workflow",
+    "Used secrets: inherit to pass through required credentials",
+    "Removed all bash-based polling, API rate limit handling, and verdict parsing logic",
+    "Delegated VERDICT processing to external skeptic-gate-reusable.yml workflow"
+  ],
+  "commit_sha": "04d8df0b7bdafd745ce82e731ffcb2abf3f58273",
+  "run_session": "SR-multi-exemplar-20260418T205948Z",
+  "last_updated": "2026-04-18T21:00:21.666454+00:00",
+  "sample_number": 1
+}

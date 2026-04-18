@@ -1,0 +1,23 @@
+{
+  "pr": 6245,
+  "technique": "SR-multi-exemplar",
+  "naming": 90,
+  "error_handling": 85,
+  "type_safety": 85,
+  "architecture": 90,
+  "test_coverage": 95,
+  "documentation": 80,
+  "total": 87.75,
+  "breakdown": "This PR stabilizes level-up regressions by replacing the custom `_extract_xp_from_player_data` function with the canonical `extract_character_xp` helper, and switching from `check_and_set_level_up_pending_impl` to `ensure_level_up_rewards_pending`. The XP synthesis in rewards boxes was also enhanced to check `xp_awarded` from combat/encounter summaries before falling back to pending rewards. Test coverage is excellent with comprehensive tests for XP extraction scenarios.",
+  "key_changes": [
+    "Replace `_extract_xp_from_player_data` calls with `extract_character_xp` for consistency",
+    "Switch `_check_and_set_level_up_pending` to use `ensure_level_up_rewards_pending` instead of `check_and_set_level_up_pending_impl`",
+    "Add `xp_awarded` extraction from combat_summary in `_synthesize_generic_rewards_box`",
+    "Add `xp_awarded` extraction from encounter_summary in rewards synthesis",
+    "Remove the redundant `_extract_xp_from_player_data` function after consolidation"
+  ],
+  "commit_sha": "86585b929a75e6b69b1b4e53f17ad560e6e1a880",
+  "run_session": "SR-multi-exemplar-20260418T181742Z",
+  "last_updated": "2026-04-18T18:18:58.656230+00:00",
+  "sample_number": 1
+}

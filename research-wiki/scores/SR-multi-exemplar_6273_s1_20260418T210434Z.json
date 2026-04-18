@@ -1,0 +1,24 @@
+{
+  "pr": 6273,
+  "technique": "SR-multi-exemplar",
+  "naming": 75,
+  "error_handling": 50,
+  "type_safety": 40,
+  "architecture": 80,
+  "test_coverage": 70,
+  "documentation": 30,
+  "total": 58.75,
+  "breakdown": "This PR refactors level-up and rewards logic into a dedicated `rewards_engine` module following single-responsibility principles. Functions like `resolve_level_up_signal`, `ensure_rewards_box`, and `is_level_up_active` are moved from `game_state.py`. The architectural improvement is solid with clear module separation. However, type safety is weak (SimpleNamespace mocks, no type hints visible), error handling is limited in the visible diff, and documentation is sparse with no docstrings on new public functions.",
+  "key_changes": [
+    "Created new rewards_engine module with level-up/rewards functions extracted from game_state",
+    "Updated imports in world_logic.py to use rewards_engine functions",
+    "Modified game_state.py to import from rewards_engine instead of defining locally",
+    "Added test_enriches_empty_header_with_progress in session_header_utils tests",
+    "Updated test_startup_import_regression to test llm_parser instead of streaming_orchestrator",
+    "Renamed wiki/tips/ to wiki/sources/ (6 files)"
+  ],
+  "commit_sha": "b8ecfd30a257b618458a1803f31915e10d7f6177",
+  "run_session": "SR-multi-exemplar-20260418T210319Z",
+  "last_updated": "2026-04-18T21:04:34.315228+00:00",
+  "sample_number": 1
+}

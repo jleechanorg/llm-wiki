@@ -1,0 +1,23 @@
+{
+  "pr": 6269,
+  "technique": "SR-multi-exemplar",
+  "naming": 85,
+  "error_handling": 95,
+  "type_safety": 75,
+  "architecture": 90,
+  "test_coverage": 50,
+  "documentation": 95,
+  "total": 81.75,
+  "breakdown": "This PR adds CR (CodeRabbit) fallback logic to Skeptic Gates in GitHub Actions workflows. Key improvements: error handling for jq commands using exit codes and pipefail, fallback from formal CR review state to status check + approve comment for repos without PR review objects, and expanded user matching to include both 'coderabbitai[bot]' and 'coderabbitai'. The PR is well-documented with clear comments explaining the fallback rationale.",
+  "key_changes": [
+    "Added pipefail and exit code handling for jq commands in Gate-3 CR lookup",
+    "Implemented fallback logic: formal CR review \u2192 CR status + [approve] comment",
+    "Expanded CR user filter to include both coderabbitai[bot] and coderabbitai",
+    "Changed status filter from 'success' to all states for broader CR detection",
+    "Added descriptive variable names with _PIPELINE suffix for captured output"
+  ],
+  "commit_sha": "35b736d9658cd1e0203503fecf4c50a8e4a809ec",
+  "run_session": "SR-multi-exemplar-20260418T182020Z",
+  "last_updated": "2026-04-18T18:22:08.933456+00:00",
+  "sample_number": 1
+}

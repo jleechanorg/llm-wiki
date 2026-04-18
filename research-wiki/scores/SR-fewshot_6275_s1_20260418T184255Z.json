@@ -1,0 +1,23 @@
+{
+  "pr": 6275,
+  "technique": "SR-fewshot",
+  "naming": 70,
+  "error_handling": 65,
+  "type_safety": 45,
+  "architecture": 65,
+  "test_coverage": 55,
+  "documentation": 65,
+  "total": 60.25,
+  "breakdown": "This PR modifies tests to check shell scripts instead of workflow YAML files for certain gates, and updates the evidence root path string. The changes are mostly refactoring of test assertions to point to new locations rather than functional improvements. Type safety is unchanged - no type annotations added. The test modifications split some tests into YAML vs script versions but don't add new test coverage for the claimed fix about synthesizing rewards_box when level_up_complete=True.",
+  "key_changes": [
+    "Changed evidence root name from 'worldarchitectai' to 'worldarchitect.ai' in evidence_utils.py",
+    "Renamed multiple test methods to indicate they test scripts instead of YAML",
+    "Modified tests to read from .github/scripts/skeptic-evaluate.sh instead of workflow files",
+    "Added YAML parsing in test_auto_merge_controls_are_restored_in_yaml to check env vars",
+    "Updated assertion patterns to match new script content (e.g., CR_SIGNAL variable usage)"
+  ],
+  "commit_sha": "be963b9c187eb27d7a52ce85120f3bc08a6bd597",
+  "run_session": "SR-fewshot-20260418T184046Z",
+  "last_updated": "2026-04-18T18:42:55.300196+00:00",
+  "sample_number": 1
+}
