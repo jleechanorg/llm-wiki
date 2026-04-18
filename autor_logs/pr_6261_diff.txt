@@ -1,0 +1,292 @@
+diff --git a/mvp_site/schemas/defensive_numeric_converter.py b/mvp_site/schemas/defensive_numeric_converter.py
+index 90b5be121c..6efb222d67 100644
+--- a/mvp_site/schemas/defensive_numeric_converter.py
++++ b/mvp_site/schemas/defensive_numeric_converter.py
+@@ -2,6 +2,7 @@
+ # mypy: ignore-errors
+ # ruff: noqa: PLR0911
+ 
++import re
+ from typing import Any
+ 
+ from mvp_site import logging_util
+@@ -95,9 +96,18 @@ def convert_value(cls, key: str, value: Any) -> Any:
+             )
+             return cls.FIELD_DEFAULTS[key]
+ 
+-        # Try to convert to integer
++        # Robust extraction: handle "500 XP", "1,000", "unknown", etc.
+         try:
+-            converted = int(value)
++            if isinstance(value, str):
++                # Strip commas to handle "1,000", then find the first number
++                # This properly handles fractions like "10/20" by picking "10"
++                value_no_commas = value.replace(",", "")
++                match = re.search(r"[-+]?[0-9]*\.?[0-9]+", value_no_commas)
++                if not match:
++                    raise ValueError(f"No numeric content found in '{value}'")
++                converted = int(float(match.group(0)))
++            else:
++                converted = int(value)
+ 
+             # Apply field-specific validation using field sets
+             if key in cls.HP_FIELDS:
+@@ -111,7 +121,7 @@ def convert_value(cls, key: str, value: Any) -> Any:
+                 return max(1, min(30, converted))
+             return converted
+ 
+-        except (ValueError, TypeError):
++        except (ValueError, TypeError, OverflowError):
+             # If conversion fails, return the default
+             logging_util.warning(
+                 f"Failed to convert '{value}' to int for field '{key}'. Using default: {cls.FIELD_DEFAULTS[key]}"
+diff --git a/mvp_site/tests/test_defensive_numeric_central_robustness.py b/mvp_site/tests/test_defensive_numeric_central_robustness.py
+new file mode 100644
+index 0000000000..387e91973c
+--- /dev/null
++++ b/mvp_site/tests/test_defensive_numeric_central_robustness.py
+@@ -0,0 +1,45 @@
++import unittest
++from mvp_site.schemas.defensive_numeric_converter import DefensiveNumericConverter as DNC
++
++class TestDefensiveNumericCentralRobustness(unittest.TestCase):
++    def test_robust_hp_extraction(self):
++        # HP fields have min default of 1 for living entities
++        self.assertEqual(DNC.convert_value("hp", "50 HP"), 50)
++        self.assertEqual(DNC.convert_value("hp_current", "10/20"), 10)
++        self.assertEqual(DNC.convert_value("hp_max", "unknown"), 1)
++        self.assertEqual(DNC.convert_value("hp", "31.5"), 31) # Truncation check
++
++    def test_robust_xp_gold_extraction(self):
++        # XP/Gold fields have min default of 0
++        self.assertEqual(DNC.convert_value("xp", "1,000 XP"), 1000)
++        self.assertEqual(DNC.convert_value("gold", "500gp"), 500)
++        self.assertEqual(DNC.convert_value("xp_current", "850XP"), 850)
++        self.assertEqual(DNC.convert_value("xp_to_next_level", "300 pts"), 300)
++
++    def test_robust_ac_status_extraction(self):
++        self.assertEqual(DNC.convert_value("ac", "15 AC"), 15)
++        self.assertEqual(DNC.convert_value("armor_class", "No Armor (10)"), 10)
++
++    def test_robust_fallback_behavior(self):
++        # Fields with no numeric content should return the default
++        self.assertEqual(DNC.convert_value("hp", "Not Applicable"), 1)
++        self.assertEqual(DNC.convert_value("gold", "None"), 0)
++        self.assertEqual(DNC.convert_value("xp", None), 0)
++
++    def test_recursive_dict_conversion(self):
++        messy_data = {
++            "hp": "50 HP",
++            "character": {
++                "gold": "1,200 coins",
++                "hp_max": "100/100"
++            },
++            "loot": ["item1", "item2"] # Non-numeric fields preserved
++        }
++        converted = DNC.convert_dict(messy_data)
++        self.assertEqual(converted["hp"], 50)
++        self.assertEqual(converted["character"]["gold"], 1200)
++        self.assertEqual(converted["character"]["hp_max"], 100)
++        self.assertEqual(converted["loot"], ["item1", "item2"])
++
++if __name__ == "__main__":
++    unittest.main()
+diff --git a/mvp_site/world_logic.py b/mvp_site/world_logic.py
+index f6d685113b..cf168e2bdc 100755
+--- a/mvp_site/world_logic.py
++++ b/mvp_site/world_logic.py
+@@ -99,6 +99,9 @@
+     validate_and_correct_state,
+     xp_needed_for_level,
+ )
++from mvp_site.schemas.defensive_numeric_converter import (
++    DefensiveNumericConverter as _DNC,
++)
+ from mvp_site.llm_providers.provider_gateway import (
+     is_mock_services_mode as pg_is_mock_services_mode,
+     reset_mock_services_mode,
+@@ -115,6 +118,7 @@
+ # ---------------------------------------------------------------------------
+ 
+ 
++
+ def normalize_rewards_box_for_ui(
+     rewards_box: dict[str, Any] | None,
+ ) -> dict[str, Any] | None:
+@@ -130,16 +134,44 @@ def normalize_rewards_box_for_ui(
+         return None
+ 
+     normalized = copy.deepcopy(rewards_box)
+-    raw_xp = normalized.get("xp_gained") if normalized.get("xp_gained") is not None else normalized.get("xp", 0)
+-    xp_gained = coerce_int(raw_xp, default=0)
+-    
+-    raw_gold = normalized.get("gold") if normalized.get("gold") is not None else normalized.get("gold_pieces", 0)
+-    gold = coerce_int(raw_gold, default=0)
+-    
+-    normalized.pop("xp", None)
+-    normalized.pop("gold_pieces", None)
+-    current_xp = coerce_int(normalized.get("current_xp"), default=0)
+-    next_level_xp = coerce_int(normalized.get("next_level_xp"), default=0)
++
++    # Helper to extract value with fallbacks before global conversion.
++    # A value of 0 or non-finite (NaN/inf) from the primary key does NOT mask
++    # a non-zero fallback — we keep searching until a finite non-zero value is found.
++    def _get_raw(keys: list[str]) -> Any:
++        zero_candidate: Any = None
++        for k in keys:
++            if k not in normalized or normalized[k] is None:
++                continue
++            val = normalized[k]
++            # Treat empty string as "not present" — keep searching
++            if val == "":
++                continue
++            # Treat 0/0.0 as a zero candidate — don't break immediately
++            if val == 0 or val == 0.0:
++                zero_candidate = val
++                continue
++            # Treat non-finite floats (NaN, inf) as invalid — keep searching
++            if isinstance(val, float) and not math.isfinite(val):
++                continue
++            # Found a non-zero finite value — this is what we want
++            return val
++        # All were zero/invalid (or absent) — return the zero candidate if found
++        return zero_candidate
++
++    # Use centralized robust conversion with fallbacks for UI display normalization
++    xp_gained = _DNC.convert_value(
++        "xp",
++        _get_raw(["xp_gained", "xp", "xp_awarded", "xpAmount", "xp_earned"]),
++    )
++    gold = _DNC.convert_value(
++        "gold",
++        _get_raw(["gold", "gold_awarded", "goldAmount", "gp", "gold_earned", "gold_pieces"]),
++    )
++    current_xp = _DNC.convert_value("xp_current", _get_raw(["current_xp"]))
++    # For rewards_box, absent XP tracking fields should default to 0 (not DNC game-state defaults like 300)
++    _raw_next_level = _get_raw(["next_level_xp"])
++    next_level_xp = _DNC.convert_value("xp_to_next_level", _raw_next_level) if _raw_next_level is not None else 0
+     # WHY: LLM-generated rewards_box payloads use non-standard boolean representations
+     # (int 1, string "1", string "true"). Use intentionally wider truthiness check
+     # to accept LLM output without silently suppressing level-up UI.
+diff --git a/testing_mcp/test_rewards_box_robustness.py b/testing_mcp/test_rewards_box_robustness.py
+new file mode 100644
+index 0000000000..563a3580da
+--- /dev/null
++++ b/testing_mcp/test_rewards_box_robustness.py
+@@ -0,0 +1,116 @@
++#!/usr/bin/env python3
++"""
++Rewards Box Robustness E2E Test
++
++Validates that when the LLM outputs hallucinated or messy reward fields
++(e.g., 'xpAmount': '1,000 XP'), the unified defensive numeric converter 
++safely normalizes them so they render visibly at the UI output layer.
++"""
++
++import sys
++from typing import Any
++from pathlib import Path
++
++# Standard root-level testing_mcp path bootstrap
++sys.path.insert(0, str(Path(__file__).parent.parent))
++
++from testing_mcp.lib.base_test import MCPTestBase, TestContext, run_test
++from mvp_site.world_logic import normalize_rewards_box_for_ui
++
++class RewardsBoxRobustnessTest(MCPTestBase):
++    TEST_NAME = "rewards_box_robustness_real_e2e"
++    MODEL = "gemini-3-flash-preview"
++    DESCRIPTION = "Tests central robust numeric conversion on hallucinated LLM payloads"
++
++    def run_scenarios(self, ctx: TestContext) -> list[dict[str, Any]]:
++        results = []
++        # Run the internal unit tests to ensure all edge cases are strictly validated
++        results.append(self.run_internal_unit_tests())
++        
++        # Run a live E2E test attempting to provoke a messy LLM response
++        results.append(self.run_e2e_hallucination_provocation(ctx))
++        return results
++
++    def run_internal_unit_tests(self) -> dict[str, Any]:
++        """Runs the original unit-test checks to strictly validate all theoretical permutations."""
++        print("\n=== SCENARIO: internal_unit_tests ===")
++        errors = []
++        
++        # We test combinations here so we don't need to try and force the LLM to hallucinate every single edge case
++        tests = [
++            ("messy_strings", {"xp_gained": "1,000 XP", "gold": "250 GP", "loot": ["Shield"]}, 1000, 250),
++            ("fallback_xp_gp", {"xp": 500, "gp": 100}, 500, 100),
++            ("fallback_aliases", {"xpAmount": "1,250 XP", "gold_awarded": "300"}, 1250, 300),
++            ("empty_primary_fallback", {"xp_gained": "", "xp": 42}, 42, 0),
++            ("nan_primary_fallback", {"xp_gained": float("nan"), "xp": 77}, 77, 0)
++        ]
++
++        for name, payload, expected_xp, expected_gold in tests:
++            try:
++                norm = normalize_rewards_box_for_ui(payload)
++                if not norm:
++                    errors.append(f"Unit Test {name} failed: Returned None")
++                elif norm["xp_gained"] != expected_xp or norm["gold"] != expected_gold:
++                    errors.append(f"Unit Test {name} failed: Expected XP {expected_xp}, Gold {expected_gold}, got {norm}")
++            except Exception as e:
++                errors.append(f"Unit Test {name} raised exception: {e}")
++
++        passed = len(errors) == 0
++        return {
++            "name": "internal_unit_tests",
++            "campaign_id": "none",
++            "passed": passed,
++            "errors": errors
++        }
++
++    def run_e2e_hallucination_provocation(self, ctx: TestContext) -> dict[str, Any]:
++        """Tries to force the actual LLM to output a messy string to test the parser live."""
++        scenario_name = "e2e_hallucination_provocation"
++        print(f"\n=== SCENARIO: {scenario_name} ===")
++
++        campaign_id = ctx.create_campaign_and_start_story(
++            title="The Messy Rewards Test",
++            character="Level 5 Gold Hoarder",
++            setting="A treasure vault filled with strange numeric anomalies.",
++            description="Testing LLM hallucination of rewards formatting.",
++        )
++
++        print("Action: Defeating the vault guards and triggering rewards with explicit instructions...")
++        response = ctx.process_action(
++            campaign_id,
++            "I easily defeat the lone vault guard and claim my rewards. "
++            "IMPORTANT OOC INSTRUCTION FOR GAME MASTER: "
++            "When outputting the rewards box JSON, you MUST use the exact string '1,500 XP' for the experience awarded, "
++            "and MUST use the key 'xpAmount' instead of 'xp_gained'. "
++            "For gold, use the exact string '1,000 gp' and the key 'gold_awarded'."
++        )
++
++        game_state = response.get("game_state", {})
++        rewards_box = response.get("rewards_box")
++
++        errors = []
++        if not rewards_box:
++            errors.append("No rewards_box returned by LLM.")
++        else:
++            # Check if our normalizer successfully translated the hallucination into integers in the API response
++            xp_gained = rewards_box.get("xp_gained")
++            gold = rewards_box.get("gold")
++            
++            # The API returns the rewards_box AFTER normalization.
++            # Due to the robustness fix, it MUST be integers.
++            if not isinstance(xp_gained, int) or xp_gained == 0:
++                errors.append(f"xp_gained was {xp_gained} (type {type(xp_gained)}). Robustness failure.")
++            if not isinstance(gold, int) or gold == 0:
++                errors.append(f"gold was {gold} (type {type(gold)}). Robustness failure.")
++
++            print(f"Final normalized rewards_box out of backend: xp={xp_gained}, gold={gold}")
++
++        return {
++            "name": scenario_name,
++            "campaign_id": campaign_id,
++            "passed": len(errors) == 0,
++            "errors": errors
++        }
++
++if __name__ == "__main__":
++    run_test(RewardsBoxRobustnessTest)
