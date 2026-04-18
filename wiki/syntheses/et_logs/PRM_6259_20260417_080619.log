@@ -1,0 +1,112 @@
+# PRM Scoring Log — PR #6259
+PR: https://github.com/jleechanorg/worldarchitect.ai/pull/6259
+Title: [antig] fix: resolve missed serious PR audit findings (test hardening, skeptic logic, rewards bug)
+Technique: PRM (Process Reward Model)
+Session: phase3-prm-6259
+Date: 2026-04-17
+
+## PRM Scoring Rationale (Process Reward Model approach)
+
+PRM involves reasoning about intermediate steps. For bug fix PRs, this means:
+1. Can we trace the bug reproduction?
+2. Is the fix's reasoning explicit?
+3. Does the fix handle edge cases discovered during reasoning?
+
+## Diff Analysis
+
+### File 1: .github/scripts/skeptic-evaluate.sh (+12/-4)
+**Changes:**
+- Improved VERDICT regex: `"VERDICT:"` → `"^[[:space:]]*VERDICT:"` (anchor to line start)
+- Added `|| echo "VERDICT: UNKNOWN"` fallback
+- Added API_ERR_FILE with cat for debugging failed gh api calls
+- Proper cleanup of temp files
+
+**Bugs addressed:**
+- Bug: `grep -i "VERDICT:"` could match VERDICT in multi-line/malformed output
+- Bug: missing error diagnostics when gh api call fails
+
+### File 2: mvp_site/game_state.py (+4/-4)
+**Changes:**
+- `_is_state_flag_true`: Added float to type check, handles 1.0
+- `_is_state_flag_false`: Added float to type check, handles 0.0
+
+**Bug fixed:** LLM numeric booleans (e.g., `1.0`, `0.0` from JSON) weren't recognized
+
+### File 3: mvp_site/world_logic.py (+25/-10)
+**Changes (3 blocks with identical pattern):**
+- Combat block: gold, xp fallbacks replaced `or` with `is not None` checks
+- Encounter block: same pattern
+- rewards_pending block: same pattern
+
+**Bug fixed:** `0 or fallback` incorrectly uses fallback when 0 is intentional
+
+### File 4: testing_mcp/test_world_events_real_repro.py (+10/-3)
+**Changes:**
+- Added error checking for API calls: `if "error" in working: ... return 1`
+- Extracted status to variable
+
+**Bug fixed:** Test exits early with error code when API fails
+
+## Scoring by Rubric Dimension
+
+### Naming (15%) — Score: 16/20
+- Variable names are descriptive: `xp_pending_gained`, `xp_pending_legacy`, `gold_raw`, `gold_pending`
+- VERDICT extraction improved with explicit naming
+- Minor: `API_ERR_FILE` is verbose but clear
+- API error file approach is functional, naming consistent
+
+### Error Handling (20%) — Score: 17/20
+- UNKNOWN fallback for VERDICT parsing is explicit improvement
+- API error diagnostics added (cat to stderr)
+- Temp file cleanup is comprehensive
+- Test error handling: returns 1 on API error
+- Minor: no explicit error for float handling edge cases
+
+### Type Safety (20%) — Score: 14/20
+- `_is_state_flag_true/false` uses explicit type checks with float
+- No TypeScript/TypedDict violations visible
+- Minor: `coerce_int` calls lack full type annotations in scope
+- game_state.py changes are type-safe
+
+### Architecture (20%) — Score: 15/20
+- Consistent fix pattern applied across 3 blocks in world_logic.py
+- Temporal fix: same change at same location (combat, encounter, rewards_pending)
+- skeptic-evaluate.sh changes are additive and non-invasive
+- Minor: test file has early return style that differs slightly from rest of codebase
+
+### Test Coverage (15%) — Score: 13/20
+- Test file hardening (error handling) adds value
+- No new unit tests added for world_logic.py fix
+- skeptic-evaluate.sh changes are tested in production (implicit)
+- Minor: would benefit from unit tests for float handling
+
+### Documentation (10%) — Score: 12/20
+- Inline comments added explaining VERDICT extraction logic
+- PR description clearly identifies "serious PR audit findings"
+- Commit messages are descriptive (e.g., "Fix: Apply is-not-None guard")
+- No docstrings added for modified functions
+
+## Total Calculation
+
+naming: 16 * 0.15 = 2.40
+error_handling: 17 * 0.20 = 3.40
+type_safety: 14 * 0.20 = 2.80
+architecture: 15 * 0.20 = 3.00
+test_coverage: 13 * 0.15 = 1.95
+documentation: 12 * 0.10 = 1.20
+---
+Total: 14.75 / 20 = 73.75
+
+## PRM-Specific Observations
+
+This PR demonstrates PRM's strength: step-by-step bug reasoning.
+- The `or` → `is not None` fix requires reasoning about falsy values
+- The skeptic VERDICT regex fix requires reasoning about malformed output
+- The float handling fix requires reasoning about LLM numeric output
+
+PRM advantage: this PR benefits from sequential reasoning about each bug's root cause.
+
+## Commit SHA
+4243f69ea093870d83012d9653ea9233a223a755 (initial commit)
+cc19186cf37d555a1d8596ec0ad09ca26c851fce (is-not-None fix)
+7b811160632b962bf7af54c35515ff3c9f71a530 (VERDICT UNKNOWN)

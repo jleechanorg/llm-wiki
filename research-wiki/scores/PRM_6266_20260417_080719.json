@@ -1,0 +1,15 @@
+{
+  "pr": 6266,
+  "technique": "PRM",
+  "naming": 15,
+  "error_handling": 16,
+  "type_safety": 12,
+  "architecture": 16,
+  "test_coverage": 8,
+  "documentation": 14,
+  "total": 81,
+  "breakdown": "Simple regex fix: removes ^ anchor from grep, adds ** stripping. Good variable naming (VERDICT_LINE), solid fallback (|| echo UNKNOWN). No tests for shell script. Comment explains intent well.",
+  "commit_sha": "unknown",
+  "run_session": "phase3-prm-20260417",
+  "last_updated": "2026-04-17T05:30:00Z"
+}

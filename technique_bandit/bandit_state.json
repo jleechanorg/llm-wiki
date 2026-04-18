@@ -79,6 +79,98 @@
       "pr": 6345,
       "last_updated": "2026-04-18T00:10:03.437567+00:00",
       "notes": "PRM matched corpus batch 2: +5 PRs (82, 88, 79, 84, 70), n=14"
+    },
+    "SR-5iter": {
+      "n": 15,
+      "scores": [
+        68.2,
+        78.7,
+        86.8,
+        89.2,
+        78.5,
+        85.1,
+        95.4,
+        76.1,
+        76.4,
+        77.1,
+        83.6,
+        88.6,
+        85.3,
+        81.5,
+        84.9
+      ],
+      "mean": 82.36,
+      "last_updated": "2026-04-17T21:43:00.000000+00:00",
+      "notes": "Phase 6: 5-round SelfRefine on PRs 6265,6261,6245,6243,6269; n=3 runs per PR"
+    },
+    "SR-fewshot": {
+      "n": 15,
+      "scores": [
+        87.35,
+        88.45,
+        87.9,
+        86.25,
+        82.55,
+        84.95,
+        87.25,
+        86.85,
+        88.0,
+        84.65,
+        85.4,
+        83.45,
+        85.0,
+        84.2,
+        84.0
+      ],
+      "mean": 85.75,
+      "last_updated": "2026-04-18T02:17:23.698631+00:00",
+      "notes": "Phase 6: SR-fewshot with PR 6243 97.5/100 reference; 15 runs across 5 PRs"
+    },
+    "SR-adversarial": {
+      "n": 15,
+      "scores": [
+        82.0,
+        80.0,
+        78.0,
+        77.0,
+        79.0,
+        83.0,
+        79.0,
+        70.0,
+        75.0,
+        90.0,
+        95.0,
+        93.0,
+        68.0,
+        67.0,
+        72.0
+      ],
+      "mean": 79.2,
+      "last_updated": "2026-04-18T02:48:00.000000+00:00",
+      "notes": "Phase 6 Iteration 4: SR-adversarial (Solver+Attacker minimax). n=3 runs per PR (6265,6261,6245,6243,6269). Mean 79.20 < SR baseline 81.23, suggesting adversarial overhead outweighs bug-fixing benefit on this task."
+    },
+    "SR-metaharness": {
+      "n": 15,
+      "scores": [
+        84.21,
+        82.42,
+        85.16,
+        83.95,
+        84.36,
+        82.87,
+        83.59,
+        83.58,
+        83.86,
+        86.15,
+        83.52,
+        85.5,
+        84.23,
+        82.84,
+        84.29
+      ],
+      "mean": 84.04,
+      "last_updated": "2026-04-18T03:18:30.000000+00:00",
+      "notes": "Phase 6: SR-metaharness with harness proposer; 15 runs across 5 PRs. Strategies targeted weak dimensions but mean 84.04 below SR-fewshot reference 85.75."
     }
   },
   "rubric_scores": {
@@ -225,7 +317,113 @@
           "run_session": "matched-corpus-n3-20260418",
           "last_updated": "2026-04-18T00:03:30.590045+00:00"
         }
-      ]
+      ],
+      "SR-v2": [
+        {
+          "total": 82.05,
+          "naming": 76,
+          "error_handling": 83,
+          "type_safety": 80,
+          "architecture": 84,
+          "test_coverage": 89,
+          "documentation": 79,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210235"
+        },
+        {
+          "total": 78.2,
+          "naming": 77,
+          "error_handling": 73,
+          "type_safety": 84,
+          "architecture": 75,
+          "test_coverage": 73,
+          "documentation": 93,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210235"
+        },
+        {
+          "total": 82.1,
+          "naming": 81,
+          "error_handling": 73,
+          "type_safety": 89,
+          "architecture": 83,
+          "test_coverage": 89,
+          "documentation": 76,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210235"
+        }
+      ],
+      "SR-metaharness": [
+        {
+          "naming": 91.5,
+          "error_handling": 81.3,
+          "type_safety": 82.4,
+          "architecture": 80.9,
+          "test_coverage": 85.7,
+          "documentation": 87.1,
+          "total": 84.21,
+          "run_session": "phase6-sr-metaharness-20260418_031827",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +12, Documentation +27"
+        },
+        {
+          "naming": 82.2,
+          "error_handling": 81.4,
+          "type_safety": 82.4,
+          "architecture": 83.3,
+          "test_coverage": 82.8,
+          "documentation": 82.5,
+          "total": 82.42,
+          "run_session": "phase6-sr-metaharness-20260418_031827",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +12, Documentation +22"
+        },
+        {
+          "naming": 89.4,
+          "error_handling": 82.8,
+          "type_safety": 88.2,
+          "architecture": 80.9,
+          "test_coverage": 85.0,
+          "documentation": 86.2,
+          "total": 85.16,
+          "run_session": "phase6-sr-metaharness-20260418_031827",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +18, Documentation +26"
+        }
+      ],
+      "SR-5iter": {
+        "runs": [
+          68.2,
+          78.7,
+          86.8
+        ],
+        "mean": 77.9,
+        "technique": "SR-5iter"
+      },
+      "SR-fewshot": {
+        "runs": [
+          87.35,
+          88.45,
+          87.9
+        ],
+        "mean": 87.9,
+        "technique": "SR-fewshot"
+      },
+      "SR-adversarial": {
+        "runs": [
+          82,
+          80,
+          78
+        ],
+        "mean": 80.0,
+        "technique": "SR-adversarial"
+      }
     },
     "6261": {
       "SR": [
@@ -350,7 +548,113 @@
           "run_session": "matched-corpus-n3-20260418",
           "last_updated": "2026-04-18T00:05:20.464944+00:00"
         }
-      ]
+      ],
+      "SR-v2": [
+        {
+          "total": 82.1,
+          "naming": 80,
+          "error_handling": 84,
+          "type_safety": 81,
+          "architecture": 85,
+          "test_coverage": 82,
+          "documentation": 78,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210235"
+        },
+        {
+          "total": 80.1,
+          "naming": 81,
+          "error_handling": 81,
+          "type_safety": 86,
+          "architecture": 75,
+          "test_coverage": 77,
+          "documentation": 80,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210235"
+        },
+        {
+          "total": 79.45,
+          "naming": 89,
+          "error_handling": 75,
+          "type_safety": 77,
+          "architecture": 79,
+          "test_coverage": 72,
+          "documentation": 91,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210235"
+        }
+      ],
+      "SR-metaharness": [
+        {
+          "naming": 88.3,
+          "error_handling": 80.9,
+          "type_safety": 89.0,
+          "architecture": 80.0,
+          "test_coverage": 78.6,
+          "documentation": 89.3,
+          "total": 83.95,
+          "run_session": "phase6-sr-metaharness-20260418_031827",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +19, Documentation +29"
+        },
+        {
+          "naming": 88.7,
+          "error_handling": 77.8,
+          "type_safety": 87.4,
+          "architecture": 87.2,
+          "test_coverage": 83.2,
+          "documentation": 81.0,
+          "total": 84.36,
+          "run_session": "phase6-sr-metaharness-20260418_031828",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +17, Documentation +21"
+        },
+        {
+          "naming": 80.2,
+          "error_handling": 81.9,
+          "type_safety": 85.0,
+          "architecture": 84.0,
+          "test_coverage": 79.7,
+          "documentation": 87.0,
+          "total": 82.87,
+          "run_session": "phase6-sr-metaharness-20260418_031828",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +15, Documentation +27"
+        }
+      ],
+      "SR-5iter": {
+        "runs": [
+          89.2,
+          78.5,
+          85.1
+        ],
+        "mean": 84.27,
+        "technique": "SR-5iter"
+      },
+      "SR-fewshot": {
+        "runs": [
+          86.25,
+          82.55,
+          84.95
+        ],
+        "mean": 84.58,
+        "technique": "SR-fewshot"
+      },
+      "SR-adversarial": {
+        "runs": [
+          77,
+          79,
+          83
+        ],
+        "mean": 79.67,
+        "technique": "SR-adversarial"
+      }
     },
     "6245": {
       "SR": [
@@ -475,7 +779,113 @@
           "run_session": "matched-corpus-n3-20260418",
           "last_updated": "2026-04-18T00:07:04.684765+00:00"
         }
-      ]
+      ],
+      "SR-v2": [
+        {
+          "total": 82.55,
+          "naming": 83,
+          "error_handling": 72,
+          "type_safety": 89,
+          "architecture": 89,
+          "test_coverage": 74,
+          "documentation": 90,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210236"
+        },
+        {
+          "total": 80.85,
+          "naming": 81,
+          "error_handling": 77,
+          "type_safety": 85,
+          "architecture": 82,
+          "test_coverage": 82,
+          "documentation": 76,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210236"
+        },
+        {
+          "total": 83.85,
+          "naming": 88,
+          "error_handling": 75,
+          "type_safety": 92,
+          "architecture": 78,
+          "test_coverage": 83,
+          "documentation": 92,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210236"
+        }
+      ],
+      "SR-metaharness": [
+        {
+          "naming": 86.9,
+          "error_handling": 76.7,
+          "type_safety": 84.2,
+          "architecture": 85.2,
+          "test_coverage": 86.9,
+          "documentation": 83.0,
+          "total": 83.59,
+          "run_session": "phase6-sr-metaharness-20260418_031828",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +14, Documentation +23"
+        },
+        {
+          "naming": 80.9,
+          "error_handling": 83.2,
+          "type_safety": 89.3,
+          "architecture": 80.1,
+          "test_coverage": 82.4,
+          "documentation": 85.6,
+          "total": 83.58,
+          "run_session": "phase6-sr-metaharness-20260418_031828",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +19, Documentation +26"
+        },
+        {
+          "naming": 92.0,
+          "error_handling": 79.1,
+          "type_safety": 84.6,
+          "architecture": 81.3,
+          "test_coverage": 86.8,
+          "documentation": 80.4,
+          "total": 83.86,
+          "run_session": "phase6-sr-metaharness-20260418_031828",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +15, Documentation +20"
+        }
+      ],
+      "SR-5iter": {
+        "runs": [
+          95.4,
+          76.1,
+          76.4
+        ],
+        "mean": 82.63,
+        "technique": "SR-5iter"
+      },
+      "SR-fewshot": {
+        "runs": [
+          87.25,
+          86.85,
+          88.0
+        ],
+        "mean": 87.37,
+        "technique": "SR-fewshot"
+      },
+      "SR-adversarial": {
+        "runs": [
+          79,
+          70,
+          75
+        ],
+        "mean": 74.67,
+        "technique": "SR-adversarial"
+      }
     },
     "6243": {
       "SR": [
@@ -600,7 +1010,113 @@
           "run_session": "matched-corpus-n3-20260418",
           "last_updated": "2026-04-18T00:08:42.275553+00:00"
         }
-      ]
+      ],
+      "SR-v2": [
+        {
+          "total": 80.45,
+          "naming": 80,
+          "error_handling": 72,
+          "type_safety": 87,
+          "architecture": 79,
+          "test_coverage": 83,
+          "documentation": 84,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210237"
+        },
+        {
+          "total": 83.75,
+          "naming": 88,
+          "error_handling": 88,
+          "type_safety": 83,
+          "architecture": 79,
+          "test_coverage": 87,
+          "documentation": 75,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210237"
+        },
+        {
+          "total": 78.8,
+          "naming": 88,
+          "error_handling": 74,
+          "type_safety": 82,
+          "architecture": 81,
+          "test_coverage": 70,
+          "documentation": 77,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210237"
+        }
+      ],
+      "SR-metaharness": [
+        {
+          "naming": 86.6,
+          "error_handling": 83.0,
+          "type_safety": 89.3,
+          "architecture": 87.2,
+          "test_coverage": 82.8,
+          "documentation": 88.4,
+          "total": 86.15,
+          "run_session": "phase6-sr-metaharness-20260418_031829",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +19, Documentation +28"
+        },
+        {
+          "naming": 86.6,
+          "error_handling": 75.9,
+          "type_safety": 83.3,
+          "architecture": 85.9,
+          "test_coverage": 85.9,
+          "documentation": 86.2,
+          "total": 83.52,
+          "run_session": "phase6-sr-metaharness-20260418_031829",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +13, Documentation +26"
+        },
+        {
+          "naming": 89.2,
+          "error_handling": 81.3,
+          "type_safety": 82.9,
+          "architecture": 87.2,
+          "test_coverage": 87.7,
+          "documentation": 86.9,
+          "total": 85.5,
+          "run_session": "phase6-sr-metaharness-20260418_031829",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +13, Documentation +27"
+        }
+      ],
+      "SR-5iter": {
+        "runs": [
+          77.1,
+          83.6,
+          88.6
+        ],
+        "mean": 83.1,
+        "technique": "SR-5iter"
+      },
+      "SR-fewshot": {
+        "runs": [
+          84.65,
+          85.4,
+          83.45
+        ],
+        "mean": 84.5,
+        "technique": "SR-fewshot"
+      },
+      "SR-adversarial": {
+        "runs": [
+          90,
+          95,
+          93
+        ],
+        "mean": 92.67,
+        "technique": "SR-adversarial"
+      }
     },
     "6269": {
       "SR": [
@@ -725,8 +1241,114 @@
           "run_session": "matched-corpus-n3-20260418",
           "last_updated": "2026-04-18T00:10:03.437555+00:00"
         }
-      ]
+      ],
+      "SR-v2": [
+        {
+          "total": 79.05,
+          "naming": 84,
+          "error_handling": 78,
+          "type_safety": 75,
+          "architecture": 86,
+          "test_coverage": 71,
+          "documentation": 80,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210237"
+        },
+        {
+          "total": 82.75,
+          "naming": 94,
+          "error_handling": 76,
+          "type_safety": 86,
+          "architecture": 76,
+          "test_coverage": 81,
+          "documentation": 89,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210237"
+        },
+        {
+          "total": 81.25,
+          "naming": 92,
+          "error_handling": 72,
+          "type_safety": 94,
+          "architecture": 79,
+          "test_coverage": 71,
+          "documentation": 78,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210237"
+        }
+      ],
+      "SR-metaharness": [
+        {
+          "naming": 88.2,
+          "error_handling": 80.0,
+          "type_safety": 89.8,
+          "architecture": 82.7,
+          "test_coverage": 78.6,
+          "documentation": 87.1,
+          "total": 84.23,
+          "run_session": "phase6-sr-metaharness-20260418_031829",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +20, Documentation +27"
+        },
+        {
+          "naming": 81.4,
+          "error_handling": 79.5,
+          "type_safety": 88.2,
+          "architecture": 82.3,
+          "test_coverage": 79.7,
+          "documentation": 86.8,
+          "total": 82.84,
+          "run_session": "phase6-sr-metaharness-20260418_031829",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +18, Documentation +27"
+        },
+        {
+          "naming": 86.3,
+          "error_handling": 76.6,
+          "type_safety": 86.7,
+          "architecture": 85.2,
+          "test_coverage": 84.9,
+          "documentation": 89.1,
+          "total": 84.29,
+          "run_session": "phase6-sr-metaharness-20260418_031830",
+          "technique": "SR-metaharness",
+          "breakdown": "SR-metaharness with harness proposer: TypeSafety +17, Documentation +29"
+        }
+      ],
+      "SR-5iter": {
+        "runs": [
+          85.3,
+          81.5,
+          84.9
+        ],
+        "mean": 83.9,
+        "technique": "SR-5iter"
+      },
+      "SR-fewshot": {
+        "runs": [
+          85.0,
+          84.2,
+          84.0
+        ],
+        "mean": 84.4,
+        "technique": "SR-fewshot"
+      },
+      "SR-adversarial": {
+        "runs": [
+          68,
+          67,
+          72
+        ],
+        "mean": 69.0,
+        "technique": "SR-adversarial"
+      }
     }
   },
-  "last_updated": "2026-04-17T15:30:00Z"
+  "last_updated": "2026-04-18T00:00:00Z"
 }
