@@ -1,0 +1,17 @@
+{
+  "pr": "6265",
+  "technique": "SR-v2",
+  "run_session": "phase6-v1-20260417",
+  "breakdown": {
+    "naming": 77,
+    "error_handling": 73,
+    "type_safety": 84,
+    "architecture": 75,
+    "test_coverage": 73,
+    "documentation": 93,
+    "total": 78.2,
+    "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR"
+  },
+  "total": 78.2,
+  "timestamp": "20260417_210235"
+}
