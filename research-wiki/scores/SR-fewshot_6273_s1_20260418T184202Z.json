@@ -1,0 +1,23 @@
+{
+  "pr": 6273,
+  "technique": "SR-fewshot",
+  "naming": 85,
+  "error_handling": 70,
+  "type_safety": 70,
+  "architecture": 85,
+  "test_coverage": 80,
+  "documentation": 75,
+  "total": 77.25,
+  "breakdown": "Refactoring PR that moves level-up and rewards logic from game_state to a dedicated rewards_engine module, following single-responsibility principles. The diff shows clean import reorganization with descriptive function names like ensure_rewards_box, normalize_rewards_box, is_level_up_active. Tests were updated to reflect module changes. Most actual implementation code not visible in truncated diff, limiting full assessment of error handling and type safety.",
+  "key_changes": [
+    "Functions _is_state_flag_false/_is_state_flag_true moved from game_state to rewards_engine",
+    "New functions added to rewards_engine: ensure_rewards_box, normalize_rewards_box, is_level_up_active, project_level_up_ui",
+    "world_logic.py imports updated to use rewards_engine module instead of game_state",
+    "Test updates to session_header_utils with proper imports",
+    "Startup import regression tests updated to target llm_parser instead of streaming_orchestrator"
+  ],
+  "commit_sha": "b8ecfd30a257b618458a1803f31915e10d7f6177",
+  "run_session": "SR-fewshot-20260418T184046Z",
+  "last_updated": "2026-04-18T18:42:02.296008+00:00",
+  "sample_number": 1
+}
