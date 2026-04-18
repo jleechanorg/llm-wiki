@@ -1,0 +1,39 @@
+{
+  "pr": 6258,
+  "technique": "SR",
+  "naming": 14,
+  "error_handling": 15,
+  "type_safety": 13,
+  "architecture": 12,
+  "test_coverage": 15,
+  "documentation": 12,
+  "total": 82,
+  "breakdown": "Test stabilization PR with parallel runner, budget overflow test rewrite (raw_llm_usage→budget_warnings), 21 FAIL_ON_DIRTY_TREE additions. Good: log path abstraction, evidence capture hardening. Weak: evidence_utils hardcoded regression, _clean_action no regex guard, 21 copy-paste additions",
+  "commit_sha": "5bd154ac8bb9a0101530c986430410b0e79e38c7",
+  "run_session": "autor-phase3-minimax",
+  "last_updated": "2026-04-17T08:08:32Z",
+  "iteration_details": {
+    "iteration_1_total": 86,
+    "iteration_2_total": 81,
+    "iteration_3_total": 82,
+    "refinement_notes": "Iteration 1 overweighted architecture; Iteration 2 identified evidence_utils hardcoded regression; Iteration 3 converged with ET(83)/PRM(84)"
+  },
+  "files_changed": 31,
+  "additions": 420,
+  "deletions": 431,
+  "key_changes": [
+    "New run_parallel_mcp_tests.sh — parallel MCP test runner",
+    "test_bug3_budget_overflow.py refactored: raw_llm_usage → budget_warnings, model gemini→gpt-oss-120b",
+    "Deleted test_bug3_fast.py",
+    "Added MCPTestBase.get_server_log_path()",
+    "21× FAIL_ON_DIRTY_TREE = False additions",
+    "Refactored _extract_invariants() to tolerate volatile fields",
+    "_clean_action() added for user_action comparison tolerance",
+    "Canonicalized evidence root naming"
+  ],
+  "technique_comparison": {
+    "ET": 83,
+    "PRM": 84,
+    "SR": 82
+  }
+}

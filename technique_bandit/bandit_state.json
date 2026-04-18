@@ -225,6 +225,47 @@
           "run_session": "matched-corpus-n3-20260418",
           "last_updated": "2026-04-18T00:03:30.590045+00:00"
         }
+      ],
+      "SR-v2": [
+        {
+          "total": 82.05,
+          "naming": 76,
+          "error_handling": 83,
+          "type_safety": 80,
+          "architecture": 84,
+          "test_coverage": 89,
+          "documentation": 79,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210235"
+        },
+        {
+          "total": 78.2,
+          "naming": 77,
+          "error_handling": 73,
+          "type_safety": 84,
+          "architecture": 75,
+          "test_coverage": 73,
+          "documentation": 93,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210235"
+        },
+        {
+          "total": 82.1,
+          "naming": 81,
+          "error_handling": 73,
+          "type_safety": 89,
+          "architecture": 83,
+          "test_coverage": 89,
+          "documentation": 76,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210235"
+        }
       ]
     },
     "6261": {
@@ -349,6 +390,47 @@
           "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
           "run_session": "matched-corpus-n3-20260418",
           "last_updated": "2026-04-18T00:05:20.464944+00:00"
+        }
+      ],
+      "SR-v2": [
+        {
+          "total": 82.1,
+          "naming": 80,
+          "error_handling": 84,
+          "type_safety": 81,
+          "architecture": 85,
+          "test_coverage": 82,
+          "documentation": 78,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210235"
+        },
+        {
+          "total": 80.1,
+          "naming": 81,
+          "error_handling": 81,
+          "type_safety": 86,
+          "architecture": 75,
+          "test_coverage": 77,
+          "documentation": 80,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210235"
+        },
+        {
+          "total": 79.45,
+          "naming": 89,
+          "error_handling": 75,
+          "type_safety": 77,
+          "architecture": 79,
+          "test_coverage": 72,
+          "documentation": 91,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210235"
         }
       ]
     },
@@ -475,6 +557,47 @@
           "run_session": "matched-corpus-n3-20260418",
           "last_updated": "2026-04-18T00:07:04.684765+00:00"
         }
+      ],
+      "SR-v2": [
+        {
+          "total": 82.55,
+          "naming": 83,
+          "error_handling": 72,
+          "type_safety": 89,
+          "architecture": 89,
+          "test_coverage": 74,
+          "documentation": 90,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210236"
+        },
+        {
+          "total": 80.85,
+          "naming": 81,
+          "error_handling": 77,
+          "type_safety": 85,
+          "architecture": 82,
+          "test_coverage": 82,
+          "documentation": 76,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210236"
+        },
+        {
+          "total": 83.85,
+          "naming": 88,
+          "error_handling": 75,
+          "type_safety": 92,
+          "architecture": 78,
+          "test_coverage": 83,
+          "documentation": 92,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210236"
+        }
       ]
     },
     "6243": {
@@ -600,6 +723,47 @@
           "run_session": "matched-corpus-n3-20260418",
           "last_updated": "2026-04-18T00:08:42.275553+00:00"
         }
+      ],
+      "SR-v2": [
+        {
+          "total": 80.45,
+          "naming": 80,
+          "error_handling": 72,
+          "type_safety": 87,
+          "architecture": 79,
+          "test_coverage": 83,
+          "documentation": 84,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210237"
+        },
+        {
+          "total": 83.75,
+          "naming": 88,
+          "error_handling": 88,
+          "type_safety": 83,
+          "architecture": 79,
+          "test_coverage": 87,
+          "documentation": 75,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210237"
+        },
+        {
+          "total": 78.8,
+          "naming": 88,
+          "error_handling": 74,
+          "type_safety": 82,
+          "architecture": 81,
+          "test_coverage": 70,
+          "documentation": 77,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210237"
+        }
       ]
     },
     "6269": {
@@ -724,6 +888,47 @@
           "commit_sha": "35b736d9658cd1e0203503fecf4c50a8e4a809ec",
           "run_session": "matched-corpus-n3-20260418",
           "last_updated": "2026-04-18T00:10:03.437555+00:00"
+        }
+      ],
+      "SR-v2": [
+        {
+          "total": 79.05,
+          "naming": 84,
+          "error_handling": 78,
+          "type_safety": 75,
+          "architecture": 86,
+          "test_coverage": 71,
+          "documentation": 80,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210237"
+        },
+        {
+          "total": 82.75,
+          "naming": 94,
+          "error_handling": 76,
+          "type_safety": 86,
+          "architecture": 76,
+          "test_coverage": 81,
+          "documentation": 89,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210237"
+        },
+        {
+          "total": 81.25,
+          "naming": 92,
+          "error_handling": 72,
+          "type_safety": 94,
+          "architecture": 79,
+          "test_coverage": 71,
+          "documentation": 78,
+          "breakdown": "SR-v2: rubric-targeted critique improved type safety and documentation vs baseline SR",
+          "run_session": "phase6-v1-20260417",
+          "technique": "SR-v2",
+          "timestamp": "20260417_210237"
         }
       ]
     }
