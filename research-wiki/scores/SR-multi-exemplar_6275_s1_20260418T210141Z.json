@@ -1,0 +1,23 @@
+{
+  "pr": 6275,
+  "technique": "SR-multi-exemplar",
+  "naming": 80,
+  "error_handling": 75,
+  "type_safety": 85,
+  "architecture": 85,
+  "test_coverage": 75,
+  "documentation": 90,
+  "total": 81.25,
+  "breakdown": "This PR moves evidence root naming from 'worldarchitectai' to the proper brand 'worldarchitect.ai' and refactors tests to check shell script contents separately from workflow YAML files, improving architectural separation. Test functions have clearer names with _in_script suffixes, and comprehensive YAML env var checking was added. Tests have good explanatory docstrings, though the diff shows test failures indicating potential gaps in actual functionality.",
+  "key_changes": [
+    "Renamed evidence root from 'worldarchitectai' to 'worldarchitect.ai' in evidence_utils.py",
+    "Refactored tests to read from .github/scripts/skeptic-evaluate.sh instead of workflow file for script logic checks",
+    "Added comprehensive YAML env var parsing at top-level, job-level, and step-level",
+    "Renamed test functions with _in_yaml and _in_script suffixes for clarity",
+    "Updated assertion patterns to match actual green-gate.yml syntax changes"
+  ],
+  "commit_sha": "be963b9c187eb27d7a52ce85120f3bc08a6bd597",
+  "run_session": "SR-multi-exemplar-20260418T205948Z",
+  "last_updated": "2026-04-18T21:01:41.808713+00:00",
+  "sample_number": 1
+}
