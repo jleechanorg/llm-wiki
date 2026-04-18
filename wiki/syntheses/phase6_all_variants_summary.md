@@ -72,34 +72,28 @@ Phase 6 tested 6 variants of SelfRefine across the same 5 target PRs (6265, 6261
 ## Oracle Uplift Analysis
 
 ### Definition
-- **Baseline:** Best single technique across all runs = SR-fewshot @ 85.75
-- **Oracle:** If we could pick the best technique per PR = mean of PR-level maxima
+- **Baseline:** SR mean = 81.23
+- **Best single technique:** SR-fewshot @ 85.75 (+4.52)
+- **Oracle:** Per-PR best selector across all 6 Phase-6 techniques
 
-### Oracle Computation (Hypothetical)
+### Oracle Computation (All techniques, n=3 per cell)
 
-Using only rubric_scores with all techniques:
+All 6 techniques now have per-PR entries in `bandit_state.json`:
 
 ```
-PRs with >3 techniques: 6265 (SR, ET, PRM, SR-v2, SR-metaharness)
-                        6261 (SR, ET, PRM, SR-v2, SR-metaharness)
-                        6245 (SR, ET, PRM, SR-v2, SR-metaharness)
-                        6243 (SR, ET, PRM, SR-v2, SR-metaharness)
-                        6269 (SR, ET, PRM, SR-v2, SR-metaharness)
+Per-PR oracle (max technique across SR, SR-v2, SR-5iter, SR-fewshot, SR-adversarial, SR-metaharness):
+- 6265: SR-fewshot  @ 87.90
+- 6261: SR-fewshot  @ 84.58
+- 6245: SR-fewshot  @ 87.37
+- 6243: SR          @ 97.08  (SR-adversarial=92.67 but SR still tops via Phase5 scores)
+- 6269: SR-fewshot  @ 84.40
 
-Per-PR oracle (max technique):
-- 6265: max(SR=79.25, ET=78.58, PRM=82.08, SR-v2=80.78, SR-metaharness=83.93) = 83.93
-- 6261: max(SR=80.17, ET=80.38, PRM=79.33, SR-v2=80.55, SR-metaharness=83.73) = 83.73
-- 6245: max(SR=76.73, ET=74.92, PRM=78.32, SR-v2=82.42, SR-metaharness=83.68) = 83.68
-- 6243: max(SR=97.08, ET=91.42, PRM=87.50, SR-v2=81.00, SR-metaharness=85.06) = 97.08
-- 6269: max(SR=72.92, ET=71.58, PRM=68.33, SR-v2=81.02, SR-metaharness=83.79) = 83.79
-
-Oracle mean = (83.93 + 83.73 + 83.68 + 97.08 + 83.79) / 5 = 86.44
-
-vs SR-fewshot (technique table) = 85.75
-vs techniques table baseline (SR) = 81.23
+Oracle mean = 88.27
+SR baseline  = 81.23
+Oracle uplift = +7.04 pts
 ```
 
-**Note:** Oracle analysis is limited because SR-fewshot, SR-5iter, SR-adversarial were not scored on all 5 target PRs individually. They were only tracked in the `techniques` aggregate table.
+**Interpretation:** A perfect per-PR router selecting the best Phase-6 technique would score 88.27 vs 81.23 baseline — a 7.04-point uplift. SR-fewshot wins on 4 of 5 PRs; PR 6243 is a known outlier where SR dominates due to intrinsic code quality.
 
 ## Key Findings
 

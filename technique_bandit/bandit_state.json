@@ -396,7 +396,34 @@
           "technique": "SR-metaharness",
           "breakdown": "SR-metaharness with harness proposer: TypeSafety +18, Documentation +26"
         }
-      ]
+      ],
+      "SR-5iter": {
+        "runs": [
+          68.2,
+          78.7,
+          86.8
+        ],
+        "mean": 77.9,
+        "technique": "SR-5iter"
+      },
+      "SR-fewshot": {
+        "runs": [
+          87.35,
+          88.45,
+          87.9
+        ],
+        "mean": 87.9,
+        "technique": "SR-fewshot"
+      },
+      "SR-adversarial": {
+        "runs": [
+          82,
+          80,
+          78
+        ],
+        "mean": 80.0,
+        "technique": "SR-adversarial"
+      }
     },
     "6261": {
       "SR": [
@@ -600,7 +627,34 @@
           "technique": "SR-metaharness",
           "breakdown": "SR-metaharness with harness proposer: TypeSafety +15, Documentation +27"
         }
-      ]
+      ],
+      "SR-5iter": {
+        "runs": [
+          89.2,
+          78.5,
+          85.1
+        ],
+        "mean": 84.27,
+        "technique": "SR-5iter"
+      },
+      "SR-fewshot": {
+        "runs": [
+          86.25,
+          82.55,
+          84.95
+        ],
+        "mean": 84.58,
+        "technique": "SR-fewshot"
+      },
+      "SR-adversarial": {
+        "runs": [
+          77,
+          79,
+          83
+        ],
+        "mean": 79.67,
+        "technique": "SR-adversarial"
+      }
     },
     "6245": {
       "SR": [
@@ -804,7 +858,34 @@
           "technique": "SR-metaharness",
           "breakdown": "SR-metaharness with harness proposer: TypeSafety +15, Documentation +20"
         }
-      ]
+      ],
+      "SR-5iter": {
+        "runs": [
+          95.4,
+          76.1,
+          76.4
+        ],
+        "mean": 82.63,
+        "technique": "SR-5iter"
+      },
+      "SR-fewshot": {
+        "runs": [
+          87.25,
+          86.85,
+          88.0
+        ],
+        "mean": 87.37,
+        "technique": "SR-fewshot"
+      },
+      "SR-adversarial": {
+        "runs": [
+          79,
+          70,
+          75
+        ],
+        "mean": 74.67,
+        "technique": "SR-adversarial"
+      }
     },
     "6243": {
       "SR": [
@@ -1008,7 +1089,34 @@
           "technique": "SR-metaharness",
           "breakdown": "SR-metaharness with harness proposer: TypeSafety +13, Documentation +27"
         }
-      ]
+      ],
+      "SR-5iter": {
+        "runs": [
+          77.1,
+          83.6,
+          88.6
+        ],
+        "mean": 83.1,
+        "technique": "SR-5iter"
+      },
+      "SR-fewshot": {
+        "runs": [
+          84.65,
+          85.4,
+          83.45
+        ],
+        "mean": 84.5,
+        "technique": "SR-fewshot"
+      },
+      "SR-adversarial": {
+        "runs": [
+          90,
+          95,
+          93
+        ],
+        "mean": 92.67,
+        "technique": "SR-adversarial"
+      }
     },
     "6269": {
       "SR": [
@@ -1212,8 +1320,35 @@
           "technique": "SR-metaharness",
           "breakdown": "SR-metaharness with harness proposer: TypeSafety +17, Documentation +29"
         }
-      ]
+      ],
+      "SR-5iter": {
+        "runs": [
+          85.3,
+          81.5,
+          84.9
+        ],
+        "mean": 83.9,
+        "technique": "SR-5iter"
+      },
+      "SR-fewshot": {
+        "runs": [
+          85.0,
+          84.2,
+          84.0
+        ],
+        "mean": 84.4,
+        "technique": "SR-fewshot"
+      },
+      "SR-adversarial": {
+        "runs": [
+          68,
+          67,
+          72
+        ],
+        "mean": 69.0,
+        "technique": "SR-adversarial"
+      }
     }
   },
-  "last_updated": "2026-04-17T15:30:00Z"
+  "last_updated": "2026-04-18T00:00:00Z"
 }
