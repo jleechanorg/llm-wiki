@@ -1,0 +1,14 @@
+{
+  "total": 70,
+  "naming": 80,
+  "error_handling": 64,
+  "type_safety": 74,
+  "architecture": 71,
+  "test_coverage": 79,
+  "documentation": 64,
+  "breakdown": "SR-adversarial: Attacker found 3 failure modes, Solver fixed all with defensive programming",
+  "commit_sha": "SR_adversarial_6245_20260417_224805",
+  "run_session": "phase6_sr_adversarial_20260417_224803",
+  "technique": "SR-adversarial",
+  "timestamp": "2026-04-18T02:48:03Z"
+}

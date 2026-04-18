@@ -1,0 +1,211 @@
+diff --git a/.github/scripts/skeptic-evaluate.sh b/.github/scripts/skeptic-evaluate.sh
+index 3833328d88..324f38c5df 100755
+--- a/.github/scripts/skeptic-evaluate.sh
++++ b/.github/scripts/skeptic-evaluate.sh
+@@ -77,13 +77,13 @@ for PR in $(echo "$PR_JSON" | jq -r '.[] | @base64'); do
+     HEAD_COMMITTED_AT=$(gh api repos/$GITHUB_REPOSITORY/commits/"$HEAD_SHA" \
+       --jq '.commit.committer.date // ""' 2>/dev/null || echo "")
+     CR_STATUS=$(gh api repos/$GITHUB_REPOSITORY/commits/"$HEAD_SHA"/status \
+-      --jq '.statuses | map(select(.context == "CodeRabbit" and .state == "success")) | sort_by(.updated_at) | last | .state // "none"' \
++      --jq '.statuses | map(select(.context == "CodeRabbit")) | sort_by(.updated_at) | last | .state // "none"' \
+       2>/dev/null || echo "none")
+     CR_APPROVE_COMMENT="none"
+     if [ -n "$HEAD_COMMITTED_AT" ]; then
+       CR_APPROVE_COMMENT=$(gh api repos/$GITHUB_REPOSITORY/issues/"$PR_NUM"/comments \
+         --paginate 2>/dev/null \
+-        | jq -rs --arg since "$HEAD_COMMITTED_AT" 'add | [.[] | select((.user.login == "coderabbitai[bot]" or .user.login == "coderabbitai") and .created_at >= $since and (.body | test("(?m)^\\s*\\[approve\\]\\s*$"; "i")))] | sort_by(.created_at) | last | if . then "APPROVED" else "none" end' \
++        | jq -rs --arg since "$HEAD_COMMITTED_AT" 'add | [.[] | select((.user.login == "coderabbitai[bot]" or .user.login == "coderabbitai") and .created_at >= $since and (.body | test("\\[approve\\]"; "i")))] | sort_by(.created_at) | last | if . then "APPROVED" else "none" end' \
+         2>/dev/null || echo "none")
+     fi
+     if [ "$CR_STATUS" = "success" ] && [ "$CR_APPROVE_COMMENT" = "APPROVED" ]; then
+diff --git a/.github/workflows/green-gate.yml b/.github/workflows/green-gate.yml
+index 69589578d5..bd438455b9 100644
+--- a/.github/workflows/green-gate.yml
++++ b/.github/workflows/green-gate.yml
+@@ -92,41 +92,54 @@ jobs:
+           # fall back to CodeRabbit's current-head status plus its explicit
+           # "[approve]" bot comment because some repos receive comments/statuses
+           # without a PR review object even with auto_approve enabled.
++          set +e -o pipefail
+           LATEST_CR_PIPELINE=$(gh api repos/${{ github.repository }}/pulls/"$PR_NUM"/reviews \
+             --paginate 2>/dev/null \
+             | jq -rs 'add | [.[] | select((.user.login == "coderabbitai[bot]" or .user.login == "coderabbitai") and .state != "COMMENTED")] | sort_by(.submitted_at) | last | .state // "none"' 2>&1)
+           LATEST_CR_EXIT=$?
++          set -e +o pipefail
+           if [ $LATEST_CR_EXIT -ne 0 ]; then
+             echo "GATE-3 ERROR: CR review lookup failed (jq exit=$LATEST_CR_EXIT)"
+             ELIGIBLE=false
+           else
+             LATEST_CR="${LATEST_CR_PIPELINE%$'\n'}"
+             if [ "$LATEST_CR" = "APPROVED" ]; then
+-              echo "GATE-3 PASS: CR=APPROVED"
++              CR_SIGNAL="APPROVED"
+             elif [ "$LATEST_CR" != "none" ]; then
+-              echo "GATE-3 FAIL: CR=$LATEST_CR"
+-              ELIGIBLE=false
++              CR_SIGNAL="FAIL($LATEST_CR)"
+             else
+               HEAD_COMMITTED_AT=$(gh api repos/${{ github.repository }}/commits/"$HEAD_SHA" \
+                 --jq '.commit.committer.date // ""' 2>/dev/null || echo "")
+               CR_STATUS=$(gh api repos/${{ github.repository }}/commits/"$HEAD_SHA"/status \
+-                --jq '.statuses | map(select(.context == "CodeRabbit" and .state == "success")) | sort_by(.updated_at) | last | .state // "none"' \
++                --jq '.statuses | map(select(.context == "CodeRabbit")) | sort_by(.updated_at) | last | .state // "none"' \
+                 2>/dev/null || echo "none")
+               CR_APPROVE_COMMENT="none"
+               if [ -n "$HEAD_COMMITTED_AT" ]; then
+-                CR_APPROVE_COMMENT=$(gh api repos/${{ github.repository }}/issues/"$PR_NUM"/comments \
++                set +e -o pipefail
++                CR_APPROVE_PIPELINE=$(gh api repos/${{ github.repository }}/issues/"$PR_NUM"/comments \
+                   --paginate 2>/dev/null \
+-                  | jq -rs --arg since "$HEAD_COMMITTED_AT" 'add | [.[] | select((.user.login == "coderabbitai[bot]" or .user.login == "coderabbitai") and .created_at >= $since and (.body | test("(?m)^\\s*\\[approve\\]\\s*$"; "i")))] | sort_by(.created_at) | last | if . then "APPROVED" else "none" end' \
+-                  2>/dev/null || echo "none")
++                  | jq -rs --arg since "$HEAD_COMMITTED_AT" 'add | [.[] | select((.user.login == "coderabbitai[bot]" or .user.login == "coderabbitai") and .created_at >= $since and (.body | test("\\[approve\\]"; "i")))] | sort_by(.created_at) | last | if . then "APPROVED" else "none" end' 2>&1)
++                CR_APPROVE_EXIT=$?
++                set -e +o pipefail
++                if [ "$CR_APPROVE_EXIT" -eq 0 ]; then
++                  CR_APPROVE_COMMENT="${CR_APPROVE_PIPELINE%$'\n'}"
++                else
++                  CR_APPROVE_COMMENT="none"
++                fi
+               fi
+               if [ "$CR_STATUS" = "success" ] && [ "$CR_APPROVE_COMMENT" = "APPROVED" ]; then
+-                echo "GATE-3 PASS: CR=APPROVED(status+comment)"
++                CR_SIGNAL="APPROVED(status+comment)"
+               else
+-                echo "GATE-3 FAIL: CR=$LATEST_CR status=$CR_STATUS comment=$CR_APPROVE_COMMENT"
+-                ELIGIBLE=false
++                CR_SIGNAL="FAIL(status=$CR_STATUS comment=$CR_APPROVE_COMMENT)"
+               fi
+             fi
+           fi
++          if [[ "$CR_SIGNAL" == APPROVED* ]]; then
++            echo "GATE-3 PASS: CR=$CR_SIGNAL"
++          else
++            echo "GATE-3 FAIL: CR=$CR_SIGNAL"
++            ELIGIBLE=false
++          fi
+ 
+           # Gate 4: Bugbot clean — use CI check-run conclusion, not inline comment count.
+           # Inline comment count is unreliable: stale comments from old commits persist and
+diff --git a/.github/workflows/skeptic-cron.yml b/.github/workflows/skeptic-cron.yml
+index 4e18589ea9..7c5e11b3e8 100644
+--- a/.github/workflows/skeptic-cron.yml
++++ b/.github/workflows/skeptic-cron.yml
+@@ -130,16 +130,18 @@ jobs:
+             # "[approve]" bot comment because some repos receive comments/statuses
+             # without a PR review object even with auto_approve enabled.
+             # ----------------------------------------------------------------
+-            LATEST_CR_RAW=$(gh api repos/${{ github.repository }}/pulls/"$PR_NUM"/reviews \
++            set +e -o pipefail
++            LATEST_CR_PIPELINE=$(gh api repos/${{ github.repository }}/pulls/"$PR_NUM"/reviews \
+               --paginate 2>/dev/null \
+               | jq -rs 'add | [.[] | select((.user.login == "coderabbitai[bot]" or .user.login == "coderabbitai") and .state != "COMMENTED")] | sort_by(.submitted_at) | last | .state // "none"' 2>&1)
+             LATEST_CR_EXIT=$?
++            set -e +o pipefail
+             if [ $LATEST_CR_EXIT -ne 0 ]; then
+               echo "  [SKIP] Gate-3 ERROR: CR review lookup failed (jq exit=$LATEST_CR_EXIT)"
+               SKIPPED_NOT_6GREEN=$((SKIPPED_NOT_6GREEN + 1))
+               continue
+             fi
+-            LATEST_CR="${LATEST_CR_RAW%$'\n'}"
++            LATEST_CR="${LATEST_CR_PIPELINE%$'\n'}"
+             if [ "$LATEST_CR" = "APPROVED" ]; then
+               CR_SIGNAL="APPROVED"
+             elif [ "$LATEST_CR" != "none" ]; then
+@@ -150,14 +152,21 @@ jobs:
+               HEAD_COMMITTED_AT=$(gh api repos/${{ github.repository }}/commits/"$PR_SHA" \
+                 --jq '.commit.committer.date // ""' 2>/dev/null || echo "")
+               CR_STATUS=$(gh api repos/${{ github.repository }}/commits/"$PR_SHA"/status \
+-                --jq '.statuses | map(select(.context == "CodeRabbit" and .state == "success")) | sort_by(.updated_at) | last | .state // "none"' \
++                --jq '.statuses | map(select(.context == "CodeRabbit")) | sort_by(.updated_at) | last | .state // "none"' \
+                 2>/dev/null || echo "none")
+               CR_APPROVE_COMMENT="none"
+               if [ -n "$HEAD_COMMITTED_AT" ]; then
+-                CR_APPROVE_COMMENT=$(gh api repos/${{ github.repository }}/issues/"$PR_NUM"/comments \
++                set +e -o pipefail
++                CR_APPROVE_PIPELINE=$(gh api repos/${{ github.repository }}/issues/"$PR_NUM"/comments \
+                   --paginate 2>/dev/null \
+-                  | jq -rs --arg since "$HEAD_COMMITTED_AT" 'add | [.[] | select((.user.login == "coderabbitai[bot]" or .user.login == "coderabbitai") and .created_at >= $since and (.body | test("(?m)^\\s*\\[approve\\]\\s*$"; "i")))] | sort_by(.created_at) | last | if . then "APPROVED" else "none" end' \
+-                  2>/dev/null || echo "none")
++                  | jq -rs --arg since "$HEAD_COMMITTED_AT" 'add | [.[] | select((.user.login == "coderabbitai[bot]" or .user.login == "coderabbitai") and .created_at >= $since and (.body | test("\\[approve\\]"; "i")))] | sort_by(.created_at) | last | if . then "APPROVED" else "none" end' 2>&1)
++                CR_APPROVE_EXIT=$?
++                set -e +o pipefail
++                if [ "$CR_APPROVE_EXIT" -eq 0 ]; then
++                  CR_APPROVE_COMMENT="${CR_APPROVE_PIPELINE%$'\n'}"
++                else
++                  CR_APPROVE_COMMENT="none"
++                fi
+               fi
+               if [ "$CR_STATUS" = "success" ] && [ "$CR_APPROVE_COMMENT" = "APPROVED" ]; then
+                 CR_SIGNAL="APPROVED(status+comment)"
+diff --git a/.github/workflows/skeptic-gate.yml b/.github/workflows/skeptic-gate.yml
+index 5fd5ff3d75..03ed16532f 100644
+--- a/.github/workflows/skeptic-gate.yml
++++ b/.github/workflows/skeptic-gate.yml
+@@ -88,18 +88,56 @@ jobs:
+             echo "GATE-2 PASS: no conflicts"
+           fi
+ 
+-          # Gate 3: CR APPROVED — take the latest non-COMMENTED review from coderabbitai.
+-          # Use --paginate so all review pages are read (PRs with many reviews need this).
+-          # The latest APPROVED may be on a later page; --jq processes pages independently
+-          # and would only see the first page, so pipe to external jq instead.
+-          LATEST_CR=$(gh api repos/${{ github.repository }}/pulls/"$PR_NUM"/reviews \
++          # Gate 3: CR APPROVED. Prefer formal CodeRabbit review state, but
++          # fall back to CodeRabbit's current-head status plus its explicit
++          # "[approve]" bot comment because some repos receive comments/statuses
++          # without a PR review object even with auto_approve enabled.
++          set +e -o pipefail
++          LATEST_CR_PIPELINE=$(gh api repos/${{ github.repository }}/pulls/"$PR_NUM"/reviews \
+             --paginate 2>/dev/null \
+-            | jq -rs 'add | [.[] | select(.user.login == "coderabbitai[bot]" and .state != "COMMENTED")] | sort_by(.submitted_at) | last | .state // "none"' \
+-            2>/dev/null || echo "none")
+-          if [ "$LATEST_CR" = "APPROVED" ]; then
+-            echo "GATE-3 PASS: CR=APPROVED"
++            | jq -rs 'add | [.[] | select((.user.login == "coderabbitai[bot]" or .user.login == "coderabbitai") and .state != "COMMENTED")] | sort_by(.submitted_at) | last | .state // "none"' 2>&1)
++          LATEST_CR_EXIT=$?
++          set -e +o pipefail
++          if [ $LATEST_CR_EXIT -ne 0 ]; then
++            echo "GATE-3 ERROR: CR review lookup failed (jq exit=$LATEST_CR_EXIT)"
++            CR_SIGNAL="ERROR"
+           else
+-            echo "GATE-3 FAIL: CR=$LATEST_CR"
++            LATEST_CR="${LATEST_CR_PIPELINE%$'\n'}"
++            if [ "$LATEST_CR" = "APPROVED" ]; then
++              CR_SIGNAL="APPROVED"
++            elif [ "$LATEST_CR" != "none" ]; then
++              CR_SIGNAL="FAIL($LATEST_CR)"
++            else
++              HEAD_COMMITTED_AT=$(gh api repos/${{ github.repository }}/commits/"$HEAD_SHA" \
++                --jq '.commit.committer.date // ""' 2>/dev/null || echo "")
++              CR_STATUS=$(gh api repos/${{ github.repository }}/commits/"$HEAD_SHA"/status \
++                --jq '.statuses | map(select(.context == "CodeRabbit")) | sort_by(.updated_at) | last | .state // "none"' \
++                2>/dev/null || echo "none")
++              CR_APPROVE_COMMENT="none"
++              if [ -n "$HEAD_COMMITTED_AT" ]; then
++                set +e -o pipefail
++                CR_APPROVE_PIPELINE=$(gh api repos/${{ github.repository }}/issues/"$PR_NUM"/comments \
++                  --paginate 2>/dev/null \
++                  | jq -rs --arg since "$HEAD_COMMITTED_AT" 'add | [.[] | select((.user.login == "coderabbitai[bot]" or .user.login == "coderabbitai") and .created_at >= $since and (.body | test("\\[approve\\]"; "i")))] | sort_by(.created_at) | last | if . then "APPROVED" else "none" end' 2>&1)
++                CR_APPROVE_EXIT=$?
++                set -e +o pipefail
++                if [ "$CR_APPROVE_EXIT" -eq 0 ]; then
++                  CR_APPROVE_COMMENT="${CR_APPROVE_PIPELINE%$'\n'}"
++                else
++                  CR_APPROVE_COMMENT="none"
++                fi
++              fi
++              if [ "$CR_STATUS" = "success" ] && [ "$CR_APPROVE_COMMENT" = "APPROVED" ]; then
++                CR_SIGNAL="APPROVED(status+comment)"
++              else
++                CR_SIGNAL="FAIL(status=$CR_STATUS comment=$CR_APPROVE_COMMENT)"
++              fi
++            fi
++          fi
++          if [[ "$CR_SIGNAL" == APPROVED* ]]; then
++            echo "GATE-3 PASS: CR=$CR_SIGNAL"
++          else
++            echo "GATE-3 FAIL: CR=$CR_SIGNAL"
+             ELIGIBLE=false
+           fi
+ 

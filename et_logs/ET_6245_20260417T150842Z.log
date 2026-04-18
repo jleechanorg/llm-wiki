@@ -1,0 +1,80 @@
+=== ET Run for PR #6245 ===
+Run ID: ET_6245_20260417T150842Z
+Session: 58c72f24
+Timestamp: 20260417T150842Z
+
+
+=== Prompt Sent to MiniMax ===
+## Task: Fix PR #6245
+
+### Original PR Title: fix: stabilize level-up regressions and xp synthesis
+
+### Original PR Description:
+Background
+Recent PRs (#6233, #6214) introduced regressions in `world_logic.py` and `game_state.py` involving boolean casting rejecting numeric `1` or string `"1"` causing level-up blocking, and XP rewards synthesis failing closed on missing keys.
+
+Goals
+Fix regressions to ensure full backward compatibility with production firestore payload properties.
+
+Tenets
+Do no harm to production schemas. Re-widen validations.
+
+High-level description
+- Widened `_is_state_flag_true` handling to again allow `1` and `"1"`.
+- Integrated `_parse_numeric` legacy logic into `extract_character_xp` to robustly parse comma strings and nested `experience.current` legacy objects.
+- Updated `world_logic.py:synthesize_generic_rewards_box` to safely pluck fallback XP from `combat_summary` and `encounter_summary['xp_awarded']`.
+- Fixed residual `Undefined name` linter failures left in `world_logic.py`.
+- Unified XP extraction avoiding redundant and buggy extraction functions.
+- Removed redundant `isinstance` checks that clutter logic.
+
+Testing
+Test suite execution indicates that logic passes all tests and properly parses nested objects!
+
+## Evidence
+```bash
+=================== 200 passed, 38 subtests passed in 2.11s ====================
+```
+
+Low-level details
+- `mvp_site/game_state.py`
+- `mvp_site/world_logic.py`
+
+<!-- CURSOR_SUMMARY -->
+---
+
+> [!NOTE]
+> **Medium Risk**
+> Touches core XP/level-up state derivation and rewards synthesis logic; subtle coercion/fallback changes could alter when rewards/level-up UI triggers in edge-case Firestore payloads.
+> 
+> **Overview**
+> Fixes level-up/rewards regressions caused by loosely-typed Firestore/LLM payloads by **widening boolean state-flag coercion** (accept `1`/`"1"`) and making `extract_character_xp` more robust against legacy XP shapes and numeric strings.
+> 
+> Updates rewards synthesis to **preserve explicit `0` XP awa
+...
+
+
+=== MiniMax Response ===
+[Thinking: Let me analyze this task. I need to fix PR #6245 which addresses regressions in `world_logic.py` and `game_state.py` related to:
+
+1. Boolean casting rejecting numeric `1` or string `"1"` - causing level-up blocking
+2. XP rewards synthesis failing closed on missing keys
+
+The original PR description mentions:
+- Widened `_is_state_flag_true` handling to allow `1` and `"1"`
+- Integrated `_parse_numeric` legacy logic into `extract_character_xp` 
+- Updated `world_logic.py:synthesize_generic_rewards_bo...]
+## Thinking
+
+Let me first understand the current state of the codebase by exploring the relevant files to identify the root cause of the regressions.
+
+### Root Cause Analysis
+1. **Boolean state flag coercion**: The `_is_state_flag_true` function is likely rejecting valid loosely-typed inputs like `1` or `"1"` from Firestore/LLM payloads
+2. **XP extraction issues**: The `extract_character_xp` function needs to handle legacy nested objects and comma-formatted strings more robustly
+3. **Rewards synthesis**: The `synthesize_generic_rewards_box` needs fallback logic to safely derive XP from combat/encounter summaries
+
+Let me explore the worktree to examine the current code:
+<minimax:tool_call>
+<invoke name="cli-mcp-server_run_command">
+<parameter name="command">cd /Users/jleechan/.worktrees/jleechanorg/worldarchitect.ai && find . -type f -name "*.py" | head -20</parameter>
+</invoke>
+</minimax:tool_call>

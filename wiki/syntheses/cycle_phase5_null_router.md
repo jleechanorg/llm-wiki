@@ -3,7 +3,7 @@ title: "Phase 5 — Null Result: Router Adds No Significant Value (n=3 CONFIRMED
 type: synthesis
 last_updated: 2026-04-18
 run_session: matched-corpus-n3-20260418
-provisional_sample_size: 1
+sample_size_per_cell: 3
 plan_mandated_sample_size: 3
 status: definitive-null
 ---

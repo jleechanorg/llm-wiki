@@ -125,6 +125,29 @@
       "mean": 85.75,
       "last_updated": "2026-04-18T02:17:23.698631+00:00",
       "notes": "Phase 6: SR-fewshot with PR 6243 97.5/100 reference; 15 runs across 5 PRs"
+    },
+    "SR-adversarial": {
+      "n": 15,
+      "scores": [
+        82.0,
+        80.0,
+        78.0,
+        77.0,
+        79.0,
+        83.0,
+        79.0,
+        70.0,
+        75.0,
+        90.0,
+        95.0,
+        93.0,
+        68.0,
+        67.0,
+        72.0
+      ],
+      "mean": 79.2,
+      "last_updated": "2026-04-18T02:48:00.000000+00:00",
+      "notes": "Phase 6 Iteration 4: SR-adversarial (Solver+Attacker minimax). n=3 runs per PR (6265,6261,6245,6243,6269). Mean 79.20 < SR baseline 81.23, suggesting adversarial overhead outweighs bug-fixing benefit on this task."
     }
   },
   "rubric_scores": {
