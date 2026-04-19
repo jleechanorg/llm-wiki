@@ -27,3 +27,7 @@ logs/
 
 # Runtime disk cache (memory-search CLI)
 .cache/
+
+# Python
+__pycache__/
+*.py[cod]
