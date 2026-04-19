@@ -1,3 +1,5 @@
+## [2026-04-19] ingest | PR #6370 review: ASI/XP scope drift — source `pr6370-asi-xp-display-scope-drift`; PR #6370 review: ASI now applies to single-class (was multiclass-only); xp_gained override from rewards_pending (was computed overflow); both scope beyond stale-flag fix; posted as PR comment
+
 ## [2026-04-19] ingest | WorldArchitect level-up session 2026-04-19 — source `worldarchitect-level-up-session-2026-04-19`; PR stack (#6372/#6373/#6397 merged; #6370/#6379/#6387 open); merge order; 7-green; agent-only policy; parallel rules; story-persistence cross-link; [[LevelUpCentralTracker]] section update; [[jeffrey-oracle]]: merge discipline + proof expectations unchanged—operational detail in source page
 
 ## [2026-04-19] ingest | Story persistence & reload parity harness — source `story-persistence-reload-parity-2026-04-19`; tenet: no strip-at-save without reload waiver; PR #6376 class; wiki + roadmap + mem0 + Claude memory
