@@ -15,7 +15,6 @@
 !raw/**/*.md
 !memory-search/
 !memory-search/*.md
-!.cache/
 !.claude/skills/*/SKILL.md
 !.claude/skills/*.md
 !*.py

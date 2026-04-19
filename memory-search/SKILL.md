@@ -32,7 +32,13 @@ Note: Mem0 (Qdrant at localhost:6333) not filesystem-accessible — skip.
 
 ## Execution
 
-Run all searches in parallel via `/e` subagents:
+Primary implementation: `python3 ~/llm_wiki/scripts/memory_search.py <query>`
+
+- Performs cache lookup before dispatching searches
+- Runs the 9 source searches in parallel when cache is stale/missing
+- Writes the merged result bundle to `~/llm_wiki/.cache/memory-search/<sha256>.json`
+
+Reference behavior (the original design target) was to run all searches in parallel via `/e` subagents:
 
 ```
 /e Search ~/roadmap for "$QUERY". List files with matching snippets.
