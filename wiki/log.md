@@ -1,3 +1,7 @@
+## [2026-04-19] ingest | WorldArchitect level-up session 2026-04-19 — source `worldarchitect-level-up-session-2026-04-19`; PR stack (#6372/#6373/#6397 merged; #6370/#6379/#6387 open); merge order; 7-green; agent-only policy; parallel rules; story-persistence cross-link; [[LevelUpCentralTracker]] section update; [[jeffrey-oracle]]: merge discipline + proof expectations unchanged—operational detail in source page
+
+## [2026-04-19] ingest | Story persistence & reload parity harness — source `story-persistence-reload-parity-2026-04-19`; tenet: no strip-at-save without reload waiver; PR #6376 class; wiki + roadmap + mem0 + Claude memory
+
 ## [2026-04-17] autor | PRM autor PR #6344 (recreation of #6259) scored 78; PRM n=13; ET autor PR #6343 scored 76; PRM n=11
 ## [2026-04-17] autor | ET autor PR #6342 created — recreation of #6261 (robust numeric); ET WHY reasoning; scored 92/100 (highest Phase 4); bandit updated ET n=14 mean=83.2
 ## [2026-04-17] autor | ET autor PR #6341 created — recreation of #6266 (skeptic verdict regex); ET extended thinking; scored 85/100; bandit updated ET n=13 mean=82.7
@@ -3608,3 +3612,4 @@ SelfRefine #6277: 8.1/10. PRM #6275: 6.25/10. ExtendedThinking #6276: 6.45/10. S
 ## [2026-04-16] phase4 | Phase 4 final synthesis created
 ## [2026-04-17] cycle_phase5 | NULL RESULT: router uplift=1.0 < 2.0 threshold — br-5bj closed as wontfix
 Matched corpus: 5 PRs × 3 techniques. Reversals=3, gate PASS. Oracle uplift=1.0. Router infrastructure unjustified.
+## [2026-04-18] ingest | Level-Up Evidence Phase 1 Results — Class 5 REPRODUCED, Phase 2 pending

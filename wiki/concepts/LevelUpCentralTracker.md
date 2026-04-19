@@ -3,7 +3,7 @@ title: "LevelUpCentralTracker"
 type: concept
 tags: [worldarchitect-ai, level-up, rewards-box, streaming, evidence, beads, pr-triage]
 sources: [2026-04-18-level-up-central-tracker]
-last_updated: 2026-04-18
+last_updated: 2026-04-19
 ---
 
 ## Summary
@@ -12,6 +12,10 @@ last_updated: 2026-04-18
 level-up/rewards-box/streaming fix family: new work should point at bead
 `rev-7vyc` and the central roadmap source instead of creating another
 branch-local handoff.
+
+### 2026-04-19 stack update (split PRs + migration)
+
+The **split stack** superseded the single “#6358 vs #6361” landing framing: **#6372** and **#6373** merged; **#6370** (split A) remains the production canonicalization path to `main`. **#6379** (contract/gate) targets **`test/level-up-centralization-migration`**; **#6387** brings migration to **`main`** — see wiki source [[worldarchitect-level-up-session-2026-04-19]]. Re-verify PR state with GitHub before planning merges.
 
 ## Current Landing Rule
 
