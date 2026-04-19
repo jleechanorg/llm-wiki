@@ -24,3 +24,6 @@
 
 # Ignore logs
 logs/
+
+# Runtime disk cache (memory-search CLI)
+.cache/
