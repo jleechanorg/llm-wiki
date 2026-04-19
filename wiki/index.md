@@ -14,6 +14,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
+- [PR #6370 Review: ASI and XP Display Scope Drift — 2026-04-19](sources/pr6370-asi-xp-display-scope-drift.md) — PR #6370 review: ASI choices now apply to single-class characters (not just multiclass); xp_gained now uses rewards_pending instead of computed overflow; both are scope changes not disclosed in PR body
 - [WorldArchitect.AI level-up / Layer 2 session digest — 2026-04-19](sources/worldarchitect-level-up-session-2026-04-19.md) — Split stack PR truth, merge order (#6370 → #6379/#6387), 7-green vs checks, agent-only gates, roadmap pointers, parallel-work rules
 - [Story persistence & reload parity (harness) — 2026-04-19](sources/story-persistence-reload-parity-2026-04-19.md) — Round-trip parity tenet; anti strip-at-save; PR #6376 class; repo skill + CLAUDE pointer
 - [Level-Up Evidence Phase 1 — 2026-04-18](sources/level-up-evidence-phase1-2026-04-18.md) — Class 5 REPRODUCED on main; Class 1 inconclusive; Phase 2 pending; testing_ui required
@@ -5796,6 +5797,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [AutorPR](concepts/AutorPR.md) — AI-generated PRs that recreate merged PRs using SelfRefine/ET/PRM; 6-dim rubric scoring; Phase 3 held-out validation: all 3 techniques converge ~80-87
 - [Phase4FinalSynthesis](concepts/Phase4FinalSynthesis.md) — All 3 techniques converge ~80-87 (no winner); 87 ceiling is rubric artifact; PRM advantages on complex PRs; recommendation: problem decomposition over technique ranking
 - [GreenGateWorkflow](concepts/GreenGateWorkflow.md) — .github/workflows/green-gate.yml — trigger-only + polling CI; SkepticGate runs via AO worker; PR #6325 removed design_doc_gate
+- [ScopeDrift](concepts/ScopeDrift.md) — PR introduces behavioral changes beyond stated goals without explicit disclosure; PR #6370 example: ASI changes (multiclass-only → all-classes) and xp_gained display changes not in PR body
 - [SkepticGate](concepts/SkepticGate.md) — CI gate requiring evidence artifacts with timestamps; renamed from skeptic-gate.yml to green-gate.yml; concurrency bug with green-gate shared group
 - [GovernanceLayerResearch](concepts/GovernanceLayerResearch.md) — Research synthesis: Grok second opinion (filesystem abstraction flaw, 5-gate bureaucracy, no feedback loops) + 4 recommendations; tensions in PR #452/#453 architecture
 - [MultiAgentOrchestration](concepts/MultiAgentOrchestration.md) — Fleet coordination frameworks: LangGraph, AutoGen, CrewAI, MetaGPT; state machines, group chats, SOP encoding
