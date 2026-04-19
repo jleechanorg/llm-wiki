@@ -1,0 +1,19 @@
+{
+  "canonical_query": "cache verification 2026-04-18",
+  "created_at": "2026-04-19T01:14:26.574805+00:00",
+  "expires_at": "2026-04-19T02:14:26.574805+00:00",
+  "query": "cache verification 2026-04-18",
+  "query_hash": "f7ae07b096d17846bcf6fd62865f4f0a0453f6ce210dcd695f2e82afad5c5dad",
+  "results": {
+    "beads": "\u2014 no matches",
+    "claude_memories": "\u2014 no matches",
+    "hermes_briefings": "\u2014 no matches",
+    "hermes_index": "\u2014 no matches",
+    "hermes_sqlite": "\u2014 no matches",
+    "history": "\u2014 no matches",
+    "openclaw": "\u2014 no matches",
+    "roadmap": "\u2014 no matches",
+    "wiki": "\u2014 no matches"
+  },
+  "ttl_seconds": 3600
+}

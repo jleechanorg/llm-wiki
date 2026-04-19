@@ -14,6 +14,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
+- [WorldArchitect.AI level-up / Layer 2 session digest — 2026-04-19](sources/worldarchitect-level-up-session-2026-04-19.md) — Split stack PR truth, merge order (#6370 → #6379/#6387), 7-green vs checks, agent-only gates, roadmap pointers, parallel-work rules
+- [Story persistence & reload parity (harness) — 2026-04-19](sources/story-persistence-reload-parity-2026-04-19.md) — Round-trip parity tenet; anti strip-at-save; PR #6376 class; repo skill + CLAUDE pointer
+- [Level-Up Evidence Phase 1 — 2026-04-18](sources/level-up-evidence-phase1-2026-04-18.md) — Class 5 REPRODUCED on main; Class 1 inconclusive; Phase 2 pending; testing_ui required
 - [PR #6344 — [autor/PRM] Recreation of #6259](sources/pr6344_autor_prm_recreation_6259.md) — PRM autor; skeptic VERDICT extraction fix; scored 78/100; PRM n=13
 - [PR #6343 — [autor/PRM] Port CR Fallback Logic](sources/pr6343_autor_prm_6269.md) — PRM autor; CR fallback logic; scored 76/100; PRM n=11
 - [PR #6342 — [autor/ET] Robust Numeric Extraction Recreation](sources/pr6342_autor_et_recreation_6261.md) — ET autor PR #6261; WHY reasoning comments; scored 92/100 (highest in Phase 4); +15 vs original; ET n=14
@@ -6205,3 +6208,6 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 ### Reference
 - [research-wiki-results](sources/research-wiki-results.md) — 18-cycle experiment log
 - [research-wiki-program](sources/research-wiki-program.md) — Experiment compiler rules
+- [[roadmap]] - April 2026 Roadmap
+- [[learnings-2026-04]] - April 2026 Learnings
+- [[2026-04-19-layer2-centralization-nextsteps]]
