@@ -150,7 +150,7 @@ def _search_filesystem(
         if expanded.is_file():
             candidates = [expanded]
         else:
-            candidates = [p for p in expanded.rglob("*") if p.is_file()]
+            candidates = (p for p in expanded.rglob("*") if p.is_file())
         for candidate in candidates:
             if allowed_suffixes and candidate.suffix.lower() not in allowed_suffixes:
                 continue
@@ -191,10 +191,9 @@ def _search_sqlite(query: str) -> str:
 
 
 def _search_wiki(query: str) -> str:
-    script = Path.home() / "llm_wiki" / "scripts" / "memory_search.py"
-    if not script.exists():
-        return "— no matches"
     wiki_root = Path.home() / "llm_wiki" / "wiki"
+    if not wiki_root.exists():
+        return "— no matches"
     return _search_filesystem(query, roots=[wiki_root], allowed_suffixes={".md"})
 
 
@@ -253,9 +252,10 @@ def run_memory_search(
         return cached
 
     sources = search_sources or build_search_sources()
+    canonical_query = canonicalize_query(query)
     results: dict[str, str] = {}
     with concurrent.futures.ThreadPoolExecutor(max_workers=len(sources) or 1) as executor:
-        future_to_name = {executor.submit(func, query): name for name, func in sources.items()}
+        future_to_name = {executor.submit(func, canonical_query): name for name, func in sources.items()}
         for future in concurrent.futures.as_completed(future_to_name):
             name = future_to_name[future]
             try:

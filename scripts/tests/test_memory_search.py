@@ -38,7 +38,7 @@ def test_run_memory_search_writes_cache_and_reuses_fresh_entry(tmp_path: Path) -
     assert first["cache_status"] == "miss"
     assert roadmap.calls == 1
     assert wiki.calls == 1
-    assert first["results"]["roadmap"] == "roadmap-hit::  Memory Search  "
+    assert first["results"]["roadmap"] == "roadmap-hit::memory search"
     cache_file = tmp_path / f"{memory_search.query_hash('memory search')}.json"
     assert cache_file.exists()
 
