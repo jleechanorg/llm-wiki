@@ -14,6 +14,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
+- [Project Chimera: A Neural Network of LLM Agents — 2026-04-19](sources/project-chimera-neural-network-llm-agents-2026-04-19.md) — 22-agent GNN-driven swarm; M2.7 primary + GPT-5.4 for synthesis/gate; Living Knowledge Wiki as killer app; 31-commit TDD roadmap over 6–7 weeks
 - [ZFC Level-Up Architecture: Model Computes, Backend Formats — 2026-04-19](sources/zfc-level-up-model-computes-north-star-2026-04-19.md) — Model computes level-up/XP/rewards; backend is pure formatter; replaces backend-centralization approach
 - [PR #6370 Review: ASI and XP Display Scope Drift — 2026-04-19](sources/pr6370-asi-xp-display-scope-drift.md) — PR #6370 review: ASI choices now apply to single-class characters (not just multiclass); xp_gained now uses rewards_pending instead of computed overflow; both are scope changes not disclosed in PR body
 - [WorldArchitect.AI level-up / Layer 2 session digest — 2026-04-19](sources/worldarchitect-level-up-session-2026-04-19.md) — Split stack PR truth, merge order (#6370 → #6379/#6387), 7-green vs checks, agent-only gates, roadmap pointers, parallel-work rules

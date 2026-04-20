@@ -1,3 +1,7 @@
+## [2026-04-20] ingest | Project Chimera: A Neural Network of LLM Agents
+
+Project Chimera (Jeffrey, v1.1 April 2026): 22-agent GNN-driven multi-agent system; M2.7 primary + selective GPT-5.4; Living Knowledge Wiki killer app; 5-layer architecture; 31-commit TDD roadmap over 6–7 weeks. New concept pages: [[GNN]], [[CollectiveIntelligence]], [[LLMAsJudge]], [[LivingKnowledgeWiki]], [[TriadicCoEvolution]]. Entity pages: [[ProjectChimera]], [[Jeffrey]].
+
 ## [2026-04-20] ingest | ZFC Level-Up Architecture: Model Computes, Backend Formats
 
 Key claims: Model computes XP/level-up/rewards; backend is pure formatter; _has_rewards_narrative keyword scan is ZFC violation; resolve_level_up_signal triplication disappears under model-computes; PR #6404 implements ZFC contract with previous_turn_exp/current_turn_exp fields.
