@@ -1,6 +1,12 @@
+## [2026-04-20] ingest | ZFC Level-Up Architecture: Model Computes, Backend Formats
+
+Key claims: Model computes XP/level-up/rewards; backend is pure formatter; _has_rewards_narrative keyword scan is ZFC violation; resolve_level_up_signal triplication disappears under model-computes; PR #6404 implements ZFC contract with previous_turn_exp/current_turn_exp fields.
+
 ## [2026-04-19] ingest | PR #6370 review: ASI/XP scope drift — source `pr6370-asi-xp-display-scope-drift`; PR #6370 review: ASI now applies to single-class (was multiclass-only); xp_gained override from rewards_pending (was computed overflow); both scope beyond stale-flag fix; posted as PR comment
 
 ## [2026-04-19] ingest | WorldArchitect level-up session 2026-04-19 — source `worldarchitect-level-up-session-2026-04-19`; PR stack (#6372/#6373/#6397 merged; #6370/#6379/#6387 open); merge order; 7-green; agent-only policy; parallel rules; story-persistence cross-link; [[LevelUpCentralTracker]] section update; [[jeffrey-oracle]]: merge discipline + proof expectations unchanged—operational detail in source page
+
+## [2026-04-19] bfs | ZFC level up architecture — 2 layers, 6 new entities (Styra, NVIDIA, CNCF, Rego, OPA-Gatekeeper, Stuart-Russell), 13 new concepts (Policy-Decoupling, Bundle-Files, Drift-Detection, Digital-Signatures, Partial-Rules, Scalable-Oversight, Debate, Recursive-Reward-Modeling, Value-Alignment, Corrigibility, PSI, OPA-Bundle-Signing, OPA-Constraint-Templates), ZFC-Level-Up-Architecture + ZFC-Level-Up-Implementation-Stages concept pages created; sources: OPA docs, Constitutional AI, NVIDIA guardrails, Stuart Russell Human Compatible, scalable oversight literature
 
 ## [2026-04-19] ingest | Story persistence & reload parity harness — source `story-persistence-reload-parity-2026-04-19`; tenet: no strip-at-save without reload waiver; PR #6376 class; wiki + roadmap + mem0 + Claude memory
 
