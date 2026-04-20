@@ -14,6 +14,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
+- [ZFC Level-Up Architecture: Model Computes, Backend Formats — 2026-04-19](sources/zfc-level-up-model-computes-north-star-2026-04-19.md) — Model computes level-up/XP/rewards; backend is pure formatter; replaces backend-centralization approach
 - [PR #6370 Review: ASI and XP Display Scope Drift — 2026-04-19](sources/pr6370-asi-xp-display-scope-drift.md) — PR #6370 review: ASI choices now apply to single-class characters (not just multiclass); xp_gained now uses rewards_pending instead of computed overflow; both are scope changes not disclosed in PR body
 - [WorldArchitect.AI level-up / Layer 2 session digest — 2026-04-19](sources/worldarchitect-level-up-session-2026-04-19.md) — Split stack PR truth, merge order (#6370 → #6379/#6387), 7-green vs checks, agent-only gates, roadmap pointers, parallel-work rules
 - [Story persistence & reload parity (harness) — 2026-04-19](sources/story-persistence-reload-parity-2026-04-19.md) — Round-trip parity tenet; anti strip-at-save; PR #6376 class; repo skill + CLAUDE pointer
@@ -5617,9 +5618,15 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Archon](entities/Archon.md) — coleam00's YAML workflow engine; DarkFactory governance; 17 default workflows
 - [Airbyte](entities/Airbyte.md) — Data integration platform with MCP Server for AI agent context access
 - [OPA](entities/OPA.md) — Open Policy Agent; Rego policy language; decouples policy from application
+- [Styra](entities/styra.md) — Company behind OPA; enterprise governance platform; visual policy editors + RBAC
+- [Rego](entities/rego.md) — OPA's policy language; generates structured data (not just boolean); fail-closed default pattern
+- [OPA-Gatekeeper](entities/opa-gatekeeper.md) — CNCF K8s admission controller; constraint templates instantiate Rego per namespace
+- [CNCF](entities/cncf.md) — Linux Foundation org hosting OPA, Kubernetes, Envoy, ArgoCD; policy-as-code as first-class concern
+- [NVIDIA](entities/nvidia.md) — Published fail-safe guardrails for LLM agent deployments; out-of-band action interception
 - [Constitutional AI](entities/ConstitutionalAI.md) — Anthropic self-improvement training; SL self-critique + RL/RLAIF
 - [RLAIF](entities/RLAIF.md) — Reinforcement Learning from AI Feedback; used in Constitutional AI RL phase
 - [Constitutional Classifiers](entities/ConstitutionalClassifiers.md) — Anthropic production output filtering; 3000h red team passed
+- [Stuart-Russell](entities/stuart-russell.md) — UC Berkeley; co-authored CIRL; author "Human Compatible"; value alignment + corrigibility research
 - [Anthropic Alignment Team](entities/AnthropicAlignment.md) — Anthropic safety research; Constitutional AI, Frontier Red Team
 - [Frontier Red Team](entities/FrontierRedTeam.md) — Anthropic adversarial testing; cybersecurity, biosecurity, autonomous systems
 - [Microsoft Copilot Studio](entities/MicrosoftCopilotStudio.md) — Enterprise multi-agent orchestration platform
@@ -5650,6 +5657,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [PR6110](entities/PR6110.md) — WorldArchitect evidence path PR for PR validation automation
 - [ProductTasteLayer](product-taste/index.md) — Product judgement subsystem: ProductJudge oracle + TasteLearningLoop feedback + taste wiki; part of [[AutoProductMasterSystem]]
 - [PR6115](entities/PR6115.md) — WorldArchitect evidence path PR for bundle validation
+- [PR6404](entities/PR6404.md) — ZFC Level-Up: Model Computes Backend Formats; anchor PR for level_up_signal model output, format_model_level_up_signal() formatter, 5-stage ZFC migration plan
 - [PR335](entities/PR335.md) — AO skeptic installer PR for automated review integration
 - [StagingWorktree](entities/StagingWorktree.md) — OpenClaw staging pipeline worktree for deployment testing
 - [StagingBranch](entities/StagingBranch.md) — OpenClaw staging branch for canary deployments
@@ -5822,6 +5830,20 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [ScalableOversight](concepts/ScalableOversight.md) — Verifying AI at scale without human review of every decision; PAI Safety-Critical AI Program
 - [DriftDetection](concepts/DriftDetection.md) — ML observability for concept/data drift; PSI metric; Arize/Phoenix
 - [FailClosedValidation](concepts/FailClosedValidation.md) — Entire batch rejected if any message invalid; Confluent Schema Registry model
+- [ZFC Level-Up Architecture](concepts/ZFC-Level-Up-Architecture.md) — Model computes level-up facts; backend validates/formats/delivers; replaces [[LevelUpArchitecture]] post-2026-04-14
+- [ZFC Level-Up Implementation Stages](concepts/ZFC-Level-Up-Implementation-Stages.md) — 5-stage cleanup-first plan: Stage 0 cleanup → Stage 1 compliance probe → Stage 2 narrow formatter → Stage 3 parity → Stage 4 delete legacy → Stage 5 enforcement
+- [Policy-Decoupling](concepts/policy-decoupling.md) — OPA separates policy decision from enforcement; architectural parallel to model-computes/backend-formats
+- [Bundle-Files](concepts/bundle-files.md) — OPA .tar.gz policy packages with hot reload and OCI distribution; maps to prompt+formatter deployment
+- [Digital-Signatures](concepts/digital-signatures.md) — JWT file-hash verification for policy bundle integrity; supply-chain integrity model
+- [Partial-Rules](concepts/partial-rules.md) — OPA partial rule evaluation generates unbound templates instantiated at runtime
+- [Scalable-Oversight](concepts/scalable-oversight.md) — Enabling humans to supervise AI on tasks too complex for direct evaluation; RLHF/RLAIF field
+- [Debate](concepts/debate.md) — AI alignment technique: competing agents argue, human judges truthfulness; truth-seeking via adversarial scrutiny
+- [Recursive-Reward-Modeling](concepts/recursive-reward-modeling.md) — AI assists in evaluating AI outputs to scale human oversight; multi-layer evaluation hierarchy
+- [Value-Alignment](concepts/value-alignment.md) — Stuart Russell: AI should maximize uncertainty over human values, not optimize fixed reward
+- [Corrigibility](concepts/corrigibility.md) — AI accepts corrections and shutdown rather than resisting modification; data-level form: fail-closed rejection
+- [PSI](concepts/psi.md) — Population Stability Index: PSI<0.1 stable, 0.1-0.2 warning, >0.2 significant drift; ML model monitoring metric
+- [OPA-Bundle-Signing](concepts/opa-bundle-signing.md) — Asymmetric JWT signing of OPA policy bundles; prevents policy supply-chain attacks
+- [OPA-Constraint-Templates](concepts/opa-constraint-templates.md) — Parameterized Rego policies instantiated per-namespace; maps to level_up_signal schema template
 - [GitOps](concepts/GitOps.md) — Git-centric deployment with approval workflows; Weaveworks/ArgoCD/Flux; audit trail as governance
 - [RewardsEngineRefactor](concepts/RewardsEngineRefactor.md) — Consolidating rewards decisions into rewards_engine.py: full public API, single call site
 - [WorldLogicStrip](concepts/WorldLogicStrip.md) — Reducing world_logic.py to thin modal wrapper: ~7200 lines to remove
@@ -5960,6 +5982,8 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Research Reproducibility Test Report](sources/worldarchitect.ai-docs-research_reproducibility_test_report.md-762c9ac3.md) — confirms `/review` is a built-in slash command in Claude Code CLI
 
 - [Qwen vs Sonnet Benchmark Index](sources/qwen-vs-sonnet-benchmark-index.md-800b5891.md) — 20-30x faster responses (559ms avg) with quality parity across 12 coding tasks
+- [Model-as-Judge](concepts/Model-as-Judge.md) — Architectural pattern: model makes semantic decisions, backend enforces fail-closed; maps to Constitutional AI self-critique + CIRL uncertainty
+- [Self-Critique](concepts/Self-Critique.md) — Model evaluates own outputs against principles; Constitutional AI two-phase (critique + revision); caveats field as structured self-critique
 
 ## Batch G Campaign Concepts
 
