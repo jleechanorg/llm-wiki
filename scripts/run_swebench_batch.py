@@ -248,6 +248,10 @@ def run_harness_evaluation(instance_ids: list[str]) -> dict:
         for p in our_preds:
             f.write(json.dumps(p) + "\n")
 
+    # Generate a unique run_id for this batch
+    run_id = f"batch_{datetime.now(tz=timezone.utc).strftime('%Y%m%dT%H%M%S')}"
+    report_path = OUT_DIR / f"{run_id}.json"
+
     try:
         result = subprocess.run(
             [
@@ -256,19 +260,27 @@ def run_harness_evaluation(instance_ids: list[str]) -> dict:
                 "--predictions_path", str(temp_preds),
                 "--max_workers", "2",
                 "--timeout", "600",
+                "--run_id", run_id,
+                "--report_dir", str(OUT_DIR),
             ],
             cwd="/Users/jleechan/.swes",
             capture_output=True,
             text=True,
             timeout=900,
         )
-        # Parse results from stdout/stderr
+        # Parse results from JSON report file
         results = {}
-        for line in result.stdout.split("\n") + result.stderr.split("\n"):
-            if "PASS" in line or "FAIL" in line:
-                for iid in instance_ids:
-                    if iid in line:
-                        results[iid] = "PASS" if "PASS" in line else "FAIL"
+        if report_path.exists():
+            with open(report_path) as f:
+                report = json.load(f)
+            for iid in instance_ids:
+                if iid in report.get("resolved_ids", []):
+                    results[iid] = "PASS"
+                elif iid in report.get("unresolved_ids", []):
+                    results[iid] = "FAIL"
+                elif iid in report.get("error_ids", []):
+                    results[iid] = "ERROR"
+            report_path.unlink()  # clean up
         return results
     except subprocess.TimeoutExpired:
         log(f"  HARNESS TIMEOUT for {instance_ids}")

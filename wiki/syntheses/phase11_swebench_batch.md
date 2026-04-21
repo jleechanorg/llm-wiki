@@ -2,7 +2,7 @@
 
 **Date**: 2026-04-21
 **Branch**: `sr-matched-corpus-0417`
-**Status**: COMPLETE — 50 diverse Verified instances, 0 resolved (0%, 95% CI: 0-7.1%)
+**Status**: COMPLETE — 50 diverse Verified instances, 1 resolved (2%)
 
 ## Executive Summary
 
@@ -31,9 +31,12 @@ TESTS: {fail_to_pass}
 HINTS: {hints_text}
 ```
 
-## Results: 39 Diverse Verified Instances
+## Results: 50 Diverse Verified Instances
 
-**Resolution: 0/39 = 0%** (95% CI: 0-8.7%)
+**Resolution: 1/50 = 2%** (95% CI: 0.1-10.4%)
+- 1 resolved: `scikit-learn__scikit-learn-10844`
+- 10 tests failed (patches applied but wrong fix)
+- 39 errors (patches didn't apply at all)
 
 | Repo | n | Resolved |
 |------|---|----------|
@@ -60,27 +63,28 @@ HINTS: {hints_text}
 
 | Phase | Dataset | Instances | Resolution Rate |
 |-------|---------|-----------|-----------------|
-| Phase 9/10 | Verified (easy subset) | 8 | 87.5% (7/8) |
-| Phase 9/10 (autor-only) | Verified (easy subset) | 5 | 60% (3/5) |
-| **Phase 11** | **Verified (diverse)** | **50** | **0% (0/50)** |
+| Phase 9/10 | Verified (easy subset) | 4 | 100% (4/4) |
+| Phase 11 | Verified (diverse) | 50 | **2% (1/50)** |
+| Lite (early runs) | Lite | 10 | 0% (errors) |
 
 **Key insight**: Phase 9/10 easy instances (astropy-13579, django-13315, matplotlib-23412, astropy-7671) are NOT in our diverse random sample. Our sample draws from harder instances spread across 10 repos.
 
-## Root Cause: Capability Ceiling
+## Root Cause: Capability Ceiling Confirmed
 
-MiniMax-M2.5 with no reasoning ("lean prompt") produces syntactically valid diffs but cannot determine the correct fix for diverse hard SWE-bench instances. The model lacks the multi-step reasoning required to:
-1. Understand the full problem from issue + test cases
-2. Locate the correct file and function
-3. Apply the right semantic fix
+MiniMax-M2.5 with "lean prompt" (no CoT exemplars) on diverse Verified instances:
+- **1/50 = 2% resolution** (real, harness-verified)
+- 39 errors: patches don't even apply (hunk mismatch)
+- 10 tests failed: patch applies but wrong fix
+- 1 resolved: patch applies and happens to be correct
 
-**Without CoT exemplars, the model guesses.** On easy instances (Phase 9/10), guessing happens to work ~60% of the time. On diverse hard instances, guessing fails 100%.
+The model can produce syntactically valid diffs but cannot reliably determine the correct fix. Phase 9/10's 100% was on easy instances (django-11049, django-12113, pytest-7168, sympy-20590) that don't appear in diverse sampling.
 
 ## What This Means
 
-- **Lean prompt = fast but wrong**: Stripping exemplars saves tokens but loses reasoning signal
-- **0% on diverse Verified is the floor**: Not a statistical fluke — the CI lower bound is 0%
-- **Phase 9/10's 87.5% was on easy instances**: Not representative of general SWE-bench performance
-- **SWE-bench resolution requires reasoning**: The "lean" approach fails because code repair is a reasoning task, not a pattern-matching task
+- **Lean prompt = fast but weak**: 2% resolution on diverse Verified (vs 100% on easy)
+- **78% error rate** (39/50): most patches don't even apply (hunk mismatch)
+- **20% tests failed** (10/50): patches apply but wrong fix
+- **Phase 9/10 easy instances are NOT representative**: django-11049, django-12113, pytest-7168, sympy-20590 are the easy cherry-pick set
 
 ## Key Technical Fixes Made
 
@@ -97,12 +101,13 @@ scripts/run_swebench_batch.py     # ✓ Resumable batch runner (50 instances don
 scripts/technique_router.py         # ✓ ZFC router
 technique_bandit/bandit_state.json  # ✓ All 9 techniques n≥15
 wiki/syntheses/phase10_synthesis.md  # ✓ Phase 10 final
-/tmp/swebench_batch/state.json      # 50 generated, 0 resolved
+~/.swes/autor-SR-multi-exemplar-batch.phase11_verified_eval.json  # 1/50 resolved
 /tmp/swebench_batch/predictions.jsonl  # 53 predictions (50 unique)
+/tmp/swebench_batch/state.json    # 50 generated, 1 resolved (from harness)
 ```
 
 ## Next Steps
 
-1. **DONE**: 50 diverse Verified instances — 0% resolution is definitive
-2. **Key question**: Would adding CoT exemplars (like Phase 9/10) raise resolution on diverse instances?
-3. **Alternative**: The lean prompt is not suitable for hard SWE-bench — the task requires reasoning
+1. **DONE**: 50 diverse Verified instances — 2% resolution is the real number
+2. **Key question**: Would adding CoT exemplars raise resolution on diverse instances?
+3. **Easy instances** are the only ones MiniMax solves reliably — diverse hard instances remain out of reach for the lean approach
