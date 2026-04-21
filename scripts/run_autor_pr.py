@@ -36,6 +36,7 @@ LOG_DIR = Path("wiki/syntheses/et_logs")
 
 REPO_OWNER = "jleechanorg"
 REPO_NAME = "worldarchitect.ai"
+REPO_LOCAL = Path(os.path.expanduser("~/worldarchitect-ai-autor"))
 
 RUBRIC_WEIGHTS = {
     "naming": 0.15,
@@ -357,67 +358,49 @@ def generate_fix(technique: str, pr_info: dict, diff: str) -> tuple[str, str]:
 
 
 def run_tests_via_api(fork_owner: str, branch: str, file_content: str, base_ref: str) -> dict:
-    """Fork the repo, apply fix, run pytest, return results. Returns dict with passed/failed/output."""
+    """Clone from local, push test branch, run pytest via workflow dispatch. Returns dict with passed/failed/output."""
     result = {"passed": -1, "failed": -1, "output": "", "error": ""}
 
-    # 1. Create fork if needed
-    fork_name = f"{fork_owner}/worldarchitect.ai"
-    check_fork = subprocess.run(
-        ["gh", "api", f"repos/{fork_name}"], capture_output=True, text=True, timeout=15,
+    # Clone from local bare repo
+    test_dir = Path("/tmp/autor_test_clone")
+    subprocess.run(["rm", "-rf", str(test_dir)], check=False, capture_output=True)
+    clone_r = subprocess.run(
+        ["git", "clone", str(REPO_LOCAL), str(test_dir)],
+        capture_output=True, text=True, timeout=120,
     )
-    if check_fork.returncode != 0:
-        # Create fork
-        fork_r = subprocess.run(
-            ["gh", "repo", "fork", "--repo", f"jleechanorg/worldarchitect.ai",
-             "--clone", "--remote"],
-            capture_output=True, text=True, timeout=60,
-        )
-        if fork_r.returncode != 0:
-            result["error"] = f"fork failed: {fork_r.stderr[:200]}"
-            return result
-        fork_clone_dir = Path("/tmp/fork_clone")
-    else:
-        # Clone existing fork
-        subprocess.run(["rm", "-rf", "/tmp/fork_clone"], check=False, capture_output=True)
-        clone_r = subprocess.run(
-            ["git", "clone", f"https://github.com/{fork_name}.git", "/tmp/fork_clone",
-             "--depth", "1"],
-            capture_output=True, text=True, timeout=120,
-        )
-        if clone_r.returncode != 0:
-            result["error"] = f"fork clone failed: {clone_r.stderr[:200]}"
-            return result
-        fork_clone_dir = Path("/tmp/fork_clone")
+    if clone_r.returncode != 0:
+        result["error"] = f"clone failed: {clone_r.stderr[:200]}"
+        return result
 
     try:
-        # 2. Create test branch
+        # Create test branch
         test_branch = f"autor-test-{datetime.now(tz=timezone.utc).strftime('%Y%m%d%H%M%S')}"
-        subprocess.run(["git", "checkout", "-b", test_branch], cwd=fork_clone_dir,
+        subprocess.run(["git", "checkout", "-b", test_branch], cwd=test_dir,
                        capture_output=True, timeout=10)
 
-        # 3. Write generated file
-        gen_file = fork_clone_dir / "autor_generated.py"
+        # Write generated file
+        gen_file = test_dir / "autor_generated.py"
         gen_file.write_text(file_content)
-        subprocess.run(["git", "add", "autor_generated.py"], cwd=fork_clone_dir,
+        subprocess.run(["git", "add", "autor_generated.py"], cwd=test_dir,
                        capture_output=True, timeout=10)
         subprocess.run(
             ["git", "commit", "-m", "autor: apply generated fix for test"],
-            cwd=fork_clone_dir, capture_output=True, timeout=10,
+            cwd=test_dir, capture_output=True, timeout=10,
         )
 
-        # 4. Push test branch
+        # Push to GitHub
         push_r = subprocess.run(
-            ["git", "push", "-u", "origin", test_branch],
-            cwd=fork_clone_dir, capture_output=True, text=True, timeout=30,
+            ["git", "push", "-u", "github", test_branch],
+            cwd=test_dir, capture_output=True, text=True, timeout=30,
+            env={**os.environ, "GIT_TERMINAL_PROMPT": "0"},
         )
         if push_r.returncode != 0:
             result["error"] = f"push failed: {push_r.stderr[:200]}"
             return result
 
-        # 5. Trigger workflow dispatch on the test branch
-        # Find a test workflow
+        # Trigger workflow dispatch
         workflows_r = subprocess.run(
-            ["gh", "api", f"repos/{fork_name}/actions/workflows",
+            ["gh", "api", f"repos/{REPO_OWNER}/{REPO_NAME}/actions/workflows",
              "--jq", ".workflows[] | select(.name | contains(\"Hook Tests\")) | .id"],
             capture_output=True, text=True, timeout=15,
         )
@@ -425,18 +408,18 @@ def run_tests_via_api(fork_owner: str, branch: str, file_content: str, base_ref:
 
         if workflow_id:
             dispatch_r = subprocess.run(
-                ["gh", "api", f"repos/{fork_name}/actions/workflows/{workflow_id}/runs",
+                ["gh", "api", f"repos/{REPO_OWNER}/{REPO_NAME}/actions/workflows/{workflow_id}/runs",
                  "--method", "POST", "--input", "-"],
                 input=json.dumps({"ref": test_branch}),
                 capture_output=True, text=True, timeout=15,
             )
             result["output"] += f"workflow dispatch: {dispatch_r.returncode}\n"
 
-        # 6. Poll for workflow result (up to 5 min)
+        # Poll for workflow result (up to 5 min)
         for attempt in range(30):
             time.sleep(10)
             runs_r = subprocess.run(
-                ["gh", "api", f"repos/{fork_name}/actions/runs",
+                ["gh", "api", f"repos/{REPO_OWNER}/{REPO_NAME}/actions/runs",
                  "--jq", f".workflow_runs[] | select(.head_branch == \"{test_branch}\") | {{conclusion, number}}"],
                 capture_output=True, text=True, timeout=15,
             )
@@ -463,7 +446,7 @@ def run_tests_via_api(fork_owner: str, branch: str, file_content: str, base_ref:
     except Exception as e:
         result["error"] = str(e)[:200]
     finally:
-        subprocess.run(["rm", "-rf", "/tmp/fork_clone"], check=False, capture_output=True)
+        subprocess.run(["rm", "-rf", "/tmp/autor_test_clone"], check=False, capture_output=True)
 
     return result
 
@@ -558,59 +541,20 @@ def main():
     branch_name = f"autor-{technique.lower()}-{pr_number}-{datetime.now(tz=timezone.utc).strftime('%Y%m%d%H%M%S')}"
     file_content = f"# Autor {technique} PR\n# Target: #{pr_number}\n{code}"
 
-    def gh_get(path):
-        r = subprocess.run(
-            ["gh", "api", f"repos/{REPO_OWNER}/{REPO_NAME}/{path}"],
-            capture_output=True, text=True, timeout=30,
-        )
+    def run_git(*args, cwd=REPO_LOCAL, timeout=30):
+        r = subprocess.run(["git"] + list(args), cwd=cwd, capture_output=True, text=True, timeout=timeout)
         if r.returncode != 0:
-            raise RuntimeError(f"gh api GET {path} failed: {r.stderr[:300]}")
-        return json.loads(r.stdout)
-
-    def gh_post_input(path, data):
-        r = subprocess.run(
-            ["gh", "api", f"repos/{REPO_OWNER}/{REPO_NAME}/{path}", "--input", "-"],
-            input=json.dumps(data), capture_output=True, text=True, timeout=30,
-        )
-        if r.returncode != 0:
-            raise RuntimeError(f"gh api POST {path} failed: {r.stderr[:300]}")
-        return json.loads(r.stdout) if r.stdout.strip() else {}
-
-    def create_branch_via_api(branch, base_ref):
-        base_sha = gh_get(f"git/ref/heads/{base_ref}")["object"]["sha"]
-        gh_post_input("git/refs", {
-            "ref": f"refs/heads/{branch}",
-            "sha": base_sha,
-        })
-
-    def upload_file_via_api(branch, path, content, message):
-        blob = gh_post_input("git/blobs", {
-            "content": content,
-            "encoding": "utf-8",
-        })
-        tree_data = gh_get(f"git/trees/{branch}?recursive=1")
-        new_tree = gh_post_input("git/trees", {
-            "base_tree": tree_data["sha"],
-            "tree": [{"path": path, "mode": "100644", "type": "blob", "sha": blob["sha"]}],
-        })
-        branch_sha = gh_get(f"git/ref/heads/{branch}")["object"]["sha"]
-        commit = gh_post_input("git/commits", {
-            "message": message,
-            "tree": new_tree["sha"],
-            "parents": [branch_sha],
-        })
-        subprocess.run(
-            ["gh", "api", f"repos/{REPO_OWNER}/{REPO_NAME}/git/refs/heads/{branch}",
-             "--method", "PATCH", "--input", "-"],
-            input=json.dumps({"sha": commit["sha"]}),
-            capture_output=True, text=True, timeout=30,
-        )
+            raise RuntimeError(f"git {' '.join(args)} failed: {r.stderr[:300]}")
+        return r.stdout.strip()
 
     print("Pushing branch for test execution...")
     try:
-        create_branch_via_api(branch_name, pr_info["base_ref"])
-        upload_file_via_api(branch_name, "autor_generated.py", file_content,
-                             f"autor: {technique} fix for PR #{pr_number}")
+        run_git("fetch", "github", pr_info["base_ref"])
+        run_git("checkout", "-B", branch_name, f"github/{pr_info['base_ref']}")
+        (REPO_LOCAL / "autor_generated.py").write_text(file_content)
+        run_git("add", "autor_generated.py")
+        run_git("commit", "-m", f"autor: {technique} fix for PR #{pr_number}")
+        run_git("push", "-u", "github", branch_name, timeout=60)
         print(f"Branch {branch_name} pushed")
     except Exception as e:
         print(f"Branch/push failed: {e}")
