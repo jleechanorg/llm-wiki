@@ -14,6 +14,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
+- [Level-Up ZFC Loop Postmortem — 2026-04-21](sources/2026-04-21-level-up-zfc-loop-postmortem.md) — Postmortem: `#6420` stayed red because the loop treated `upstream-owned` as a stable wait state instead of forcing rapid fresh-main revalidation and branch reclassification
+- [ZFC Level-Up PR Status — 2026-04-21](sources/2026-04-21-level-up-zfc-pr-status.md) — PR queue snapshot: #6423/#6422 merge-ready; #6420 Stage 0 CHANGES_REQUESTED + harness contract hash mismatch; #6404 APPROVED; #6418 parked
+- [ZFC Level-Up Stage 0 Execution Drift — 2026-04-20](sources/zfc-level-up-stage0-execution-drift-2026-04-20.md) — Stage 0 added code instead of deleting: +845/-123 LOC; M0 0% complete; PR lifecycle management consumed time instead of M0-PR1/PR2/PR3 deletion work
+- [Level-Up ZFC Current Status — 2026-04-20](sources/2026-04-20-level-up-zfc-current-status.md) — Current landing queue snapshot: #6420 first, then #6418, then #6404; north star unchanged
 - [Project Chimera: A Neural Network of LLM Agents — 2026-04-19](sources/project-chimera-neural-network-llm-agents-2026-04-19.md) — 22-agent GNN-driven swarm; M2.7 primary + GPT-5.4 for synthesis/gate; Living Knowledge Wiki as killer app; 31-commit TDD roadmap over 6–7 weeks
 - [Project Chimera Codebase: April 2026 — 2026-04-20](sources/project-chimera-codebase-2026-04-20.md) — Live implementation at ~/Downloads/chimera/; 11 agents; real Minimax API verified; 9/9 tests pass; DomainExpert ~60s latency is bottleneck; GNN is simulated not trained
 - [ZFC Level-Up Architecture: Model Computes, Backend Formats — 2026-04-19](sources/zfc-level-up-model-computes-north-star-2026-04-19.md) — Model computes level-up/XP/rewards; backend is pure formatter; replaces backend-centralization approach
@@ -5815,6 +5819,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [WorkflowEngine](concepts/WorkflowEngine.md) — YAML DAG / durable execution systems: Archon, Temporal, Prefect, Airbyte; git worktree isolation, event sourcing
 - [PolicyEngine](concepts/PolicyEngine.md) — OPA/Rego, Constitutional AI; decouples policy decisions from application code
 - [DurableExecution](concepts/DurableExecution.md) — Crash-proof workflow state persistence; Temporal's event sourcing model; replay from any checkpoint
+- [Tenacity](concepts/tenacity.md) — Apache 2.0 Python retry library; wait_exponential, wait_fixed, async support; relevant to LLM API reliability in multi-agent systems
 - [ConstitutionalAI](concepts/ConstitutionalAI.md) — Anthropic two-phase training: SL self-critique + RL/RLAIF; chain-of-thought transparency
 - [RLAIF](concepts/RLAIF.md) — RL from AI Feedback; reduces labeling burden; RLAIF-inspired loops for governance rule improvement
 - [SOPEncoding](concepts/SOPEncoding.md) — Standardized Operating Procedures as agent prompts; MetaGPT assembly line; AO evolve loop as 8-phase SOP
@@ -5835,6 +5840,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [FailClosedValidation](concepts/FailClosedValidation.md) — Entire batch rejected if any message invalid; Confluent Schema Registry model
 - [ZFC Level-Up Architecture](concepts/ZFC-Level-Up-Architecture.md) — Model computes level-up facts; backend validates/formats/delivers; replaces [[LevelUpArchitecture]] post-2026-04-14
 - [ZFC Level-Up Implementation Stages](concepts/ZFC-Level-Up-Implementation-Stages.md) — 5-stage cleanup-first plan: Stage 0 cleanup → Stage 1 compliance probe → Stage 2 narrow formatter → Stage 3 parity → Stage 4 delete legacy → Stage 5 enforcement
+- [Stage-0-Execution-Drift](concepts/Stage-0-Execution-Drift.md) — M0 executed as additive code changes instead of deletion-first; +845/-123 LOC net; new formatter layered on legacy paths instead of replacing them
 - [Policy-Decoupling](concepts/policy-decoupling.md) — OPA separates policy decision from enforcement; architectural parallel to model-computes/backend-formats
 - [Bundle-Files](concepts/bundle-files.md) — OPA .tar.gz policy packages with hot reload and OCI distribution; maps to prompt+formatter deployment
 - [Digital-Signatures](concepts/digital-signatures.md) — JWT file-hash verification for policy bundle integrity; supply-chain integrity model
