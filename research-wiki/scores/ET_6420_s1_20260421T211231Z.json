@@ -1,0 +1,18 @@
+{
+  "pr": 6420,
+  "technique": "ET",
+  "naming": 70,
+  "error_handling": 60,
+  "type_safety": 60,
+  "architecture": 75,
+  "test_coverage": 50,
+  "documentation": 65,
+  "total": 63.5,
+  "breakdown": "The PR shows solid architectural decisions with properly scoped responsibility headers and a clear authority function (_build_early_metadata_payload), but lacks visible error handling specifics and has truncated test verification. Type safety and naming are implied adequate but not explicitly demonstrated in the provided summary.",
+  "reasoning": "Without the full diff, I cannot verify specific variable names, type annotations, or exception handling patterns. The 'validation hardening' and 'schema prerequisites' suggest correctness work, but test coverage is flagged as needing verification. Architecture receives the highest score due to clear functional ownership and clean structural changes mentioned.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: could not open '/private/tmp/fork_clone/.git/objects/pack/tmp_pack_5hoa6S' for reading: No such file or directory\nfatal: fetch-pack: invalid index-pack output\n",
+  "run_session": "autor-ET-20260421T211057Z",
+  "last_updated": "20260421T211231Z"
+}
