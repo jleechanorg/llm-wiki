@@ -187,6 +187,23 @@ This rule exists because an earlier session recommended "build the router" based
 
 ---
 
+## CLI Argument Verification (MANDATORY)
+
+Before calling any CLI tool with required arguments (especially `--run_id`, `--output`, `--report`, or similar output-specifying flags), **read the tool's `--help` and verify all required arguments are present.**
+
+This is a mandatory check, not optional. The SWE-bench harness failed silently because `--run_id` was missing — a required argument that the script never verified.
+
+```bash
+# Always verify required arguments before running
+python -m swebench.harness.run_evaluation --help
+# or
+<swebench binary> --help
+```
+
+**Why this matters**: Tools with required output-specifying arguments (run_id, report_path, output_file) will silently fail or produce no usable output if those arguments are missing. The failure mode (empty output) looks identical to the failure mode (genuine failure), making the error invisible.
+
+---
+
 ## Autor PR Lifecycle (MANDATORY)
 
 **Autor PRs are evaluation artifacts, never merge candidates.** The purpose of opening a PR is to get a scorable diff, not to ship code.
