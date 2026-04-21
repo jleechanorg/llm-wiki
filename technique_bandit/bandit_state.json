@@ -1,7 +1,7 @@
 {
   "techniques": {
     "SR": {
-      "n": 20,
+      "n": 21,
       "scores": [
         77,
         89,
@@ -22,9 +22,10 @@
         13.25,
         76.5,
         67.25,
-        42.75
+        42.75,
+        79.5
       ],
-      "mean": 74.735,
+      "mean": 74.96190476190476,
       "last_updated": "2026-04-18T00:09:15.717211+00:00",
       "notes": "SR matched corpus batch: MiniMax-M2.5 rubric scoring"
     },
@@ -1956,6 +1957,19 @@
           "run_session": "autor-SR-20260421T210413Z",
           "technique": "SR",
           "last_updated": "20260421T210703Z"
+        },
+        {
+          "total": 79.5,
+          "naming": 80,
+          "error_handling": 85,
+          "type_safety": 85,
+          "architecture": 90,
+          "test_coverage": 40,
+          "documentation": 95,
+          "breakdown": "Strong architectural clarity with well-documented single-owner pattern and proper delegation of level-up logic; excellent type safety with dataclasses and generics; good error handling with graceful degradation; moderate naming with some abbreviations (t0, t3, rb, pb); no test files visible in diff significantly lowers coverage score.",
+          "run_session": "autor-SR-20260421T211056Z",
+          "technique": "SR",
+          "last_updated": "20260421T211326Z"
         }
       ],
       "ET": [
