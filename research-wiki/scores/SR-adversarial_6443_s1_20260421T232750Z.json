@@ -1,0 +1,18 @@
+{
+  "pr": 6443,
+  "technique": "SR-adversarial",
+  "naming": 85,
+  "error_handling": 80,
+  "type_safety": 70,
+  "architecture": 80,
+  "test_coverage": 0,
+  "documentation": 70,
+  "total": 65.75,
+  "breakdown": "The PR adds a well-named helper function for calculating total character level with solid error handling for various input types, but it lacks test coverage and could benefit from TypedDict for type safety on the return structures. The architecture is clean with single-responsibility functions, though the second function's docstring underspecifies its return value keys.",
+  "reasoning": "Naming is clear and descriptive with no generic names; error handling is thorough with specific type checks and try/except for string parsing; type safety could improve with TypedDict rather than bare dict annotations; architecture is clean with good separation; zero test coverage since no tests were provided in the diff; documentation is present but the stat increase eligibility function omits return value detail.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-adversarial-20260421T232647Z",
+  "last_updated": "20260421T232750Z"
+}
