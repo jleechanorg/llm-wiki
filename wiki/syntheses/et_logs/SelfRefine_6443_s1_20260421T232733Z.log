@@ -1,0 +1,7 @@
+# SelfRefine generation for PR #6443
+Timestamp: 2026-04-21T23:26:47.173781+00:00
+Technique: SelfRefine
+PR: [antig] fix(rewards): add missing _total_character_level helper for multiclass ASI
+
+Raw response: 13958 chars
+Extracted code: 1958 chars

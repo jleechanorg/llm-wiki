@@ -1,0 +1,7 @@
+# SelfRefine generation for PR #6444
+Timestamp: 2026-04-21T23:23:16.044695+00:00
+Technique: SelfRefine
+PR: [antig] feat(prompts): thread-safe schema cache circuit breaker
+
+Raw response: 22687 chars
+Extracted code: 19821 chars

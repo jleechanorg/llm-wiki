@@ -1,0 +1,7 @@
+# SelfRefine generation for PR #6434
+Timestamp: 2026-04-21T23:27:44.250575+00:00
+Technique: SelfRefine
+PR: [antig] refactor: rename prepared.gemini_request → prepared.llm_request
+
+Raw response: 3642 chars
+Extracted code: 184 chars
