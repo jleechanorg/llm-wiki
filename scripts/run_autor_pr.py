@@ -326,7 +326,7 @@ def extract_code_block(text: str) -> str:
 
 
 def build_prompt(technique: str, pr_info: dict, diff: str) -> tuple[str, str]:
-    prompts = TECHNIQUE_PROMPTS.get(technique, TECHNIQUE_PROMPTS["SR"])
+    prompts = TECHNIQUE_PROMPTS.get(technique, TECHNIQUE_PROMPTS["SelfRefine"])
     user_prompt = prompts["generation"].format(
         title=pr_info["title"],
         body=pr_info["body"][:2000],
