@@ -1,0 +1,18 @@
+{
+  "pr": 6443,
+  "technique": "PRM",
+  "naming": 92,
+  "error_handling": 58,
+  "type_safety": 62,
+  "architecture": 88,
+  "test_coverage": 0,
+  "documentation": 88,
+  "total": 64.2,
+  "breakdown": "Strong naming and internal architecture with clear helper function decomposition, but lacks test coverage entirely and type safety could be improved with TypedDict. Error handling uses safe access patterns but doesn't validate inputs or handle edge cases like None values.",
+  "reasoning": "The helper function `_total_character_level` correctly extracts multiclass level calculation, with clear variable names and descriptive docstrings explaining the nested structure handling. However, type hints use raw `dict` instead of TypedDict, no tests are provided despite the behavior change, and while `.get()` is used safely, there's no validation for None inputs or type errors in the iteration logic.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | clone failed: fatal: destination path '/tmp/autor_test_clone' already exists and is not an empty directory.\n",
+  "run_session": "autor-PRM-20260421T232445Z",
+  "last_updated": "20260421T232637Z"
+}

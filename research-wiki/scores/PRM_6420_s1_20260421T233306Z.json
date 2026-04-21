@@ -1,0 +1,18 @@
+{
+  "pr": 6420,
+  "technique": "PRM",
+  "naming": 80,
+  "error_handling": 75,
+  "type_safety": 55,
+  "architecture": 85,
+  "test_coverage": 0,
+  "documentation": 85,
+  "total": 63.5,
+  "breakdown": "The code demonstrates strong architectural discipline with clear module responsibilities and good naming conventions, plus comprehensive docstrings explaining intent. Error handling is present but uses broad Exception catches rather than specific types. Type safety relies heavily on generic dict returns without TypedDict or dataclass for complex payloads. Test coverage is not evaluable from this diff, which is concerning for a PR claiming to fix validation logic.",
+  "reasoning": "While the architectural separation and documentation quality are exemplary (responsibility headers, single source of truth pattern), the type safety score drags significantly due to untyped dict returns everywhere except StreamEvent. The error handling could be stronger with typed exceptions. Most critically, no test code appears in this diff despite this being a validation-hardening PR, making it impossible to verify the actual fix works.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-PRM-20260421T232939Z",
+  "last_updated": "20260421T233306Z"
+}
