@@ -29,7 +29,7 @@
       "notes": "SR matched corpus batch: MiniMax-M2.5 rubric scoring"
     },
     "ET": {
-      "n": 15,
+      "n": 16,
       "scores": [
         81,
         85,
@@ -45,14 +45,15 @@
         93.75,
         91.5,
         68.75,
-        68
+        68,
+        63.5
       ],
-      "mean": 79.37666666666668,
+      "mean": 78.384375,
       "last_updated": "2026-04-18T00:09:42.470517+00:00",
       "notes": "ET matched corpus batch run"
     },
     "PRM": {
-      "n": 28,
+      "n": 29,
       "scores": [
         82,
         85,
@@ -81,9 +82,10 @@
         84.75,
         66.0,
         80.75,
-        68.95
+        68.95,
+        38.5
       ],
-      "mean": 80.14821428571429,
+      "mean": 78.71206896551725,
       "commit_sha": "792bfacea",
       "pr": 6345,
       "last_updated": "2026-04-18T21:03:07.923103+00:00",
@@ -1954,6 +1956,36 @@
           "run_session": "autor-SR-20260421T210413Z",
           "technique": "SR",
           "last_updated": "20260421T210703Z"
+        }
+      ],
+      "ET": [
+        {
+          "total": 63.5,
+          "naming": 70,
+          "error_handling": 60,
+          "type_safety": 60,
+          "architecture": 75,
+          "test_coverage": 50,
+          "documentation": 65,
+          "breakdown": "The PR shows solid architectural decisions with properly scoped responsibility headers and a clear authority function (_build_early_metadata_payload), but lacks visible error handling specifics and has truncated test verification. Type safety and naming are implied adequate but not explicitly demonstrated in the provided summary.",
+          "run_session": "autor-ET-20260421T211057Z",
+          "technique": "ET",
+          "last_updated": "20260421T211231Z"
+        }
+      ],
+      "PRM": [
+        {
+          "total": 38.5,
+          "naming": 70,
+          "error_handling": 50,
+          "type_safety": 30,
+          "architecture": 50,
+          "test_coverage": 0,
+          "documentation": 20,
+          "breakdown": "This 2-line snippet only shows a None-check initialization pattern, leaving 5 of 6 dimensions impossible to properly assess from context. The variable name is reasonable but unremarkable, and the code itself is syntactically correct without type hints or documentation.",
+          "run_session": "autor-PRM-20260421T211057Z",
+          "technique": "PRM",
+          "last_updated": "20260421T211233Z"
         }
       ]
     }
