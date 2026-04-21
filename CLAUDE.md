@@ -218,3 +218,13 @@ Before publishing any benchmark claims (wiki page, PR description, commit messag
 **Why this rule exists**: Chimera benchmark (2026-04-21) published a 3.62-point spread as architectural quality difference — it was actually a 93% single-mode error rate. The rubric scored error text (timeout/529) as 5.0/10, identical to mediocre valid output. Win counts were hand-typed from memory, not derived from JSON.
 
 **Evidence-review pattern**: For any benchmark, run `/es` (evidence standards) to verify: error rates reported, scores derive from JSON, rubric distinguishes errors.
+
+---
+
+## Work Queue Dispatch — No Stopping Between Items
+
+When a work queue is stated (via `/nextsteps` output, task list, or explicit list), dispatch each item sequentially **without asking for confirmation between items**. If an item requires user action (e.g., API key revocation, long-running task), dispatch it and note "awaiting user action" rather than stopping. Do not ask "want to run X next?" — just run it.
+
+**Exception**: explicitly long-running tasks (hours) where user timezone matters — confirm before blocking the session.
+
+**Why this rule exists**: After completing P2 (retry logic), I listed P3-P6 remaining then asked "Want to run P3 or P5 next?" — the user heard "you stopped." Work queues are directives, not menus.
