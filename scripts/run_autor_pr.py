@@ -322,18 +322,27 @@ def main():
 
     if autor_pr and hasattr(autor_pr, "open_draft_autor_pr"):
         print("Using autor_pr.open_draft_autor_pr()...")
-        # Push code to a branch first
-        with subprocess.os.popen("git clone --depth 1 https://github.com/jleechanorg/worldarchitect.ai.git /tmp/autor_clone 2>&1") as f:
-            pass
+        # Push code to a branch first (full clone needed for push)
         clone_dir = Path("/tmp/autor_clone")
-        if clone_dir.exists():
+        # Clean any prior clone
+        subprocess.run(["rm", "-rf", str(clone_dir)], check=False)
+        clone_r = subprocess.run(
+            ["git", "clone", "https://github.com/jleechanorg/worldarchitect.ai.git", str(clone_dir)],
+            capture_output=True, text=True, timeout=60,
+        )
+        if clone_r.returncode != 0:
+            print(f"Clone failed: {clone_r.stderr[:300]}")
+        elif clone_dir.exists():
             subprocess.run(["git", "checkout", "-b", branch_name], cwd=clone_dir, check=True)
             # Write generated code to a file
             gen_file = clone_dir / "autor_generated.py"
             gen_file.write_text(f"# Autor {technique} PR\n# Target: #{pr_number}\n{code}")
             subprocess.run(["git", "add", "autor_generated.py"], cwd=clone_dir, check=True)
             subprocess.run(["git", "commit", "-m", f"autor: {technique} fix for PR #{pr_number}"], cwd=clone_dir, check=True)
-            push_r = subprocess.run(["git", "push", "-u", "origin", branch_name], cwd=clone_dir, capture_output=True, text=True)
+            push_r = subprocess.run(
+                ["git", "push", "-u", "origin", branch_name],
+                cwd=clone_dir, capture_output=True, text=True, timeout=30,
+            )
             if push_r.returncode == 0:
                 try:
                     new_pr_number = autor_pr.open_draft_autor_pr(
@@ -347,9 +356,9 @@ def main():
                 except Exception as e:
                     print(f"autor_pr.open_draft_autor_pr failed: {e}")
             else:
-                print(f"Push failed: {push_r.stderr[:200]}")
+                print(f"Push failed: {push_r.stderr[:300]}")
             # Cleanup
-            subprocess.run(["rm", "-rf", "/tmp/autor_clone"], check=False)
+            subprocess.run(["rm", "-rf", str(clone_dir)], check=False)
     else:
         # Manual gh pr create
         print("autor_pr helpers not available — using gh directly")
@@ -359,18 +368,25 @@ Run session: {run_session}
 
 Evaluation artifact — NOT a merge candidate."""
 
-        # Push to a branch first
-        with subprocess.popen(f"git clone --depth 1 https://github.com/jleechanorg/worldarchitect.ai.git /tmp/autor_clone 2>&1", shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE) as proc:
-            stdout, stderr = proc.communicate()
-
+        # Push to a branch first (full clone needed for push)
         clone_dir = Path("/tmp/autor_clone")
-        if clone_dir.exists():
+        subprocess.run(["rm", "-rf", str(clone_dir)], check=False)
+        clone_r = subprocess.run(
+            ["git", "clone", "https://github.com/jleechanorg/worldarchitect.ai.git", str(clone_dir)],
+            capture_output=True, text=True, timeout=60,
+        )
+        if clone_r.returncode != 0:
+            print(f"Clone failed: {clone_r.stderr[:300]}")
+        elif clone_dir.exists():
             subprocess.run(["git", "checkout", "-b", branch_name], cwd=clone_dir, check=True)
             gen_file = clone_dir / "autor_generated.py"
             gen_file.write_text(f"# Autor {technique} PR\n# Target: #{pr_number}\n{code}")
             subprocess.run(["git", "add", "autor_generated.py"], cwd=clone_dir, check=True)
             subprocess.run(["git", "commit", "-m", f"autor: {technique} fix for PR #{pr_number}"], cwd=clone_dir, check=True)
-            push_r = subprocess.run(["git", "push", "-u", "origin", branch_name], cwd=clone_dir, capture_output=True, text=True)
+            push_r = subprocess.run(
+                ["git", "push", "-u", "origin", branch_name],
+                cwd=clone_dir, capture_output=True, text=True, timeout=30,
+            )
             if push_r.returncode == 0:
                 title = f"[autor] [{technique}] recreation of #{pr_number}"
                 create_r = subprocess.run([
@@ -397,10 +413,10 @@ Evaluation artifact — NOT a merge candidate."""
                             break
                     print(f"Draft PR created: #{new_pr_number}")
                 else:
-                    print(f"gh pr create failed: {create_r.stderr[:200]}")
+                    print(f"gh pr create failed: {create_r.stderr[:300]}")
             else:
-                print(f"Push failed: {push_r.stderr[:200]}")
-            subprocess.run(["rm", "-rf", "/tmp/autor_clone"], check=False)
+                print(f"Push failed: {push_r.stderr[:300]}")
+            subprocess.run(["rm", "-rf", str(clone_dir)], check=False)
 
     # 6. Update bandit
     try:
