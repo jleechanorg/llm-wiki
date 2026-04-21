@@ -30,7 +30,7 @@ from pathlib import Path
 import anthropic
 
 # Paths
-BANDIT_PATH = Path("technique_bandit/bandit_state.json")
+BANDIT_PATH = Path(os.path.expanduser("~/.claude/projects/-Users-jleechan-llm-wiki/technique_bandit/bandit_state.json"))
 SCORES_DIR = Path("research-wiki/scores")
 LOG_DIR = Path("wiki/syntheses/et_logs")
 
@@ -72,7 +72,7 @@ Return JSON:
 }"""
 
 TECHNIQUE_PROMPTS = {
-    "SR": {
+    "SelfRefine": {
         "system": "You are an expert code reviewer and fixer. Generate production-ready code fixes for GitHub PRs.",
         "generation": """Analyze this PR and generate a complete, production-ready fix.
 
@@ -122,6 +122,149 @@ First, generate the fix. Then score your own fix:
 - Is it documented?
 
 Improve any low-scoring dimensions. Output the final code in a ```python``` block.""",
+    },
+    "SR-5iter": {
+        "system": "You are an expert code reviewer and fixer. Generate production-ready code fixes for GitHub PRs using iterative self-refinement.",
+        "generation": """Analyze this PR and generate a complete, production-ready fix.
+
+PR Title: {title}
+PR Description: {body}
+
+Diff:
+{diff}
+
+Generate a complete fix. Then do 5 self-refinement rounds:
+- Round 1: Review for naming clarity
+- Round 2: Review for error handling
+- Round 3: Review for type safety
+- Round 4: Review for architecture patterns
+- Round 5: Review for test coverage and documentation
+
+Each round: identify one weakness, fix it, then move to next round.
+Output the final fixed code in a ```python``` block.""",
+    },
+    "SR-fewshot": {
+        "system": "You are an expert code reviewer and fixer. Use few-shot examples of good fixes to guide your generation.",
+        "generation": """Here are 3 examples of excellent code fixes:
+
+EXAMPLE 1 (type safety focus):
+```python
+# Before: def process(data): ...
+# After: def process(data: list[dict]) -> list[dict]:
+```
+Example 1 explanation: Added type hints, validated input is dict list, returned same type.
+
+EXAMPLE 2 (error handling focus):
+```python
+# Before: json.loads(raw)
+# After: try: return json.loads(raw) except json.JSONDecodeError: return {}
+```
+Example 2 explanation: Wrapped in try/except, returned safe default on parse failure.
+
+EXAMPLE 3 (architecture focus):
+```python
+# Before: all logic in one function
+# After: separate validator, transformer, and executor functions
+```
+Example 3 explanation: Split into single-responsibility functions.
+
+Now apply this pattern to this PR:
+
+PR Title: {title}
+PR Description: {body}
+
+Diff:
+{diff}
+
+Generate a complete fix applying these patterns. Output the final code in a ```python``` block.""",
+    },
+    "SR-adversarial": {
+        "system": "You are an expert code reviewer. Generate fixes, then challenge and break your own solutions.",
+        "generation": """You will generate a fix, then adversarially challenge it.
+
+PR Title: {title}
+PR Description: {body}
+
+Diff:
+{diff}
+
+STEP 1 - Generate initial fix:
+Produce a complete, production-ready fix.
+
+STEP 2 - Adversarial challenge:
+Pretend you are a hostile reviewer. Attack your fix on these dimensions:
+- What breaks if the input is empty or None?
+- What breaks if the data is malformed?
+- What breaks under concurrent access?
+- What naming is still ambiguous?
+- What edge cases did you ignore?
+
+STEP 3 - Revised fix:
+Produce an improved fix that addresses every attack you raised.
+
+Output: initial analysis, then the revised code in a ```python``` block.""",
+    },
+    "SR-metaharness": {
+        "system": "You are an expert code reviewer. Generate fixes and create a test harness to verify your own work.",
+        "generation": """Generate a production-ready fix AND a test harness that verifies it.
+
+PR Title: {title}
+PR Description: {body}
+
+Diff:
+{diff}
+
+For the fix:
+- Generate the complete code fix
+- Include inline comments explaining WHY each change was made
+
+For the harness:
+- Write a pytest test that verifies the fix handles: normal case, empty input, error case
+- The harness should PASS with the correct fix and FAIL with the original broken code
+
+Output both in a ```python``` block: first the fix, then the test harness.""",
+    },
+    "SR-prtype": {
+        "system": "You are an expert code reviewer. Route to the best fix strategy based on PR type.",
+        "generation": """Analyze the PR type from title and description, then apply the most appropriate fix strategy.
+
+PR Title: {title}
+PR Description: {body}
+
+Diff:
+{diff}
+
+PR TYPE ANALYSIS:
+- If bug fix: focus on reproducing the bug, understanding root cause, adding regression test
+- If feature: focus on clean API design, backward compatibility, proper error handling
+- If refactor: focus on preserving behavior, minimal changes, clear naming
+- If security: focus on input validation, no injection vectors, proper escaping
+- If performance: focus on algorithmic complexity, caching opportunities, avoiding N+1
+
+Based on the title "{title}" and body, identify the PR type and apply the corresponding strategy.
+
+Generate a complete fix using the appropriate strategy. Output the final code in a ```python``` block.""",
+    },
+    "SR-multi-exemplar": {
+        "system": "You are an expert code reviewer. Generate multiple candidate fixes and select the best one.",
+        "generation": """Generate 3 different candidate fixes, then select and refine the best one.
+
+PR Title: {title}
+PR Description: {body}
+
+Diff:
+{diff}
+
+CANDIDATE A - Conservative: Make the minimal change needed to fix the issue. Prioritize safety over elegance.
+CANDIDATE B - Architectural: Refactor to follow clean architecture principles. May involve more code but better structure.
+CANDIDATE C - Comprehensive: Add full error handling, type safety, tests, and documentation. Most thorough.
+
+For each candidate:
+1. Generate the code
+2. Self-score against the rubric (naming, error handling, type safety, architecture, test coverage, documentation)
+3. Select the best one based on weighted rubric score
+
+Output all 3 candidates briefly, then the best one refined in a ```python``` block.""",
     },
 }
 
@@ -379,7 +522,11 @@ def _import_autor_pr():
 
 def main():
     parser = argparse.ArgumentParser(description="Autor PR workflow")
-    parser.add_argument("--technique", required=True, choices=["SR", "ET", "PRM"])
+    parser.add_argument("--technique", required=True, choices=[
+        "SelfRefine", "ET", "PRM",
+        "SR-5iter", "SR-fewshot", "SR-adversarial",
+        "SR-metaharness", "SR-prtype", "SR-multi-exemplar",
+    ])
     parser.add_argument("--pr-number", type=int, required=True)
     args = parser.parse_args()
 
@@ -569,9 +716,13 @@ Evaluation artifact — NOT a merge candidate."""
             "last_updated": ts,
         })
         if technique in state["techniques"]:
-            state["techniques"][technique]["scores"].append(score["total"])
-            state["techniques"][technique]["n"] = len(state["techniques"][technique]["scores"])
-            state["techniques"][technique]["mean"] = sum(state["techniques"][technique]["scores"]) / len(state["techniques"][technique]["scores"])
+            t = state["techniques"][technique]
+            norm = max(0.0, min(1.0, (score["total"] - 50) / 50))
+            t["alpha"] = t.get("alpha", 2.0) + norm
+            t["beta"] = t.get("beta", 2.0) + 1 - norm
+            t.setdefault("observations", []).append(score["total"])
+            if len(t["observations"]) > 50:
+                t["observations"] = t["observations"][-50:]
         BANDIT_PATH.write_text(json.dumps(state, indent=2))
         print("Bandit updated")
     except Exception as e:
