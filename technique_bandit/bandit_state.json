@@ -1,7 +1,7 @@
 {
   "techniques": {
     "SR": {
-      "n": 19,
+      "n": 20,
       "scores": [
         77,
         89,
@@ -21,9 +21,10 @@
         76.5,
         13.25,
         76.5,
-        67.25
+        67.25,
+        42.75
       ],
-      "mean": 76.41842105263159,
+      "mean": 74.735,
       "last_updated": "2026-04-18T00:09:15.717211+00:00",
       "notes": "SR matched corpus batch: MiniMax-M2.5 rubric scoring"
     },
@@ -1940,6 +1941,19 @@
           "run_session": "autor-SR-20260421T192303Z",
           "technique": "SR",
           "last_updated": "20260421T192433Z"
+        },
+        {
+          "total": 42.75,
+          "naming": 85,
+          "error_handling": 50,
+          "type_safety": 50,
+          "architecture": 50,
+          "test_coverage": 0,
+          "documentation": 0,
+          "breakdown": "The PR contains only a JSONL data file (issue tracking entries) with no code implementation to evaluate against coding standards. Field naming is appropriately descriptive. No executable code, error handling, type annotations, or tests are present to assess.",
+          "run_session": "autor-SR-20260421T210413Z",
+          "technique": "SR",
+          "last_updated": "20260421T210703Z"
         }
       ]
     }
