@@ -336,8 +336,8 @@ class TestCodeExecutionIntegrity(unittest.TestCase):
         """Should detect when code execution was used in response."""
         mock_response = Mock()
         mock_part = Mock()
-        mock_part.executable_code = Mock(language="python", code="print('hello')")
-        mock_part.code_execution_result = Mock(outcome="OUTCOME_OK", output="hello")
+        mock_part.executable_code = Mock(language="python", code="print('world')")
+        mock_part.code_execution_result = Mock(outcome="OUTCOME_OK", output="world")
         mock_response.candidates = [Mock(content=Mock(parts=[mock_part]))]
         evidence = gemini_code_execution.extract_code_execution_evidence(mock_response)
         self.assertTrue(evidence["code_execution_used"])
@@ -362,7 +362,7 @@ class TestCodeExecutionIntegrity(unittest.TestCase):
         """Should preserve multiple stdout parts and flag JSON if any part is valid."""
         mock_response = Mock()
         mock_part1 = SimpleNamespace(
-            executable_code=SimpleNamespace(language="python", code="print('hello')"),
+            executable_code=SimpleNamespace(language="python", code="print('world')"),
             code_execution_result=SimpleNamespace(
                 outcome="OUTCOME_OK", output="not json"
             ),
