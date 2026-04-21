@@ -1,0 +1,7 @@
+# SR-adversarial generation for PR #6434
+Timestamp: 2026-04-21T23:43:13.556083+00:00
+Technique: SR-adversarial
+PR: [antig] refactor: rename prepared.gemini_request → prepared.llm_request
+
+Raw response: 5141 chars
+Extracted code: 1346 chars

@@ -1,0 +1,18 @@
+{
+  "pr": 6404,
+  "technique": "SR-adversarial",
+  "naming": 45,
+  "error_handling": 20,
+  "type_safety": 25,
+  "architecture": 35,
+  "test_coverage": 0,
+  "documentation": 35,
+  "total": 26.25,
+  "breakdown": "This diff fragment only shows a variable assignment and rhetorical comments about an edge case; it provides no actual error handling, type annotations, tests, or architectural structure. The comment raises a question about empty dict behavior but doesn't implement any defensive code to address it.",
+  "reasoning": "Given this is a snippet labeled 'SR-adversarial' (likely meant to test handling of missing/empty data), the absence of actual exception handling or validation logic is a significant gap. No type hints, no dataclass/TypedDict for the signal shape, no tests, and comments explain 'what' not 'why'. Scores are deliberately low because the snippet demonstrates failure to handle the adversarial case it describes.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-adversarial-20260421T233629Z",
+  "last_updated": "20260421T233725Z"
+}
