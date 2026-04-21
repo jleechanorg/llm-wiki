@@ -213,6 +213,118 @@ def generate_fix(technique: str, pr_info: dict, diff: str) -> tuple[str, str]:
     return code, "\n".join(log)
 
 
+def run_tests_via_api(fork_owner: str, branch: str, file_content: str, base_ref: str) -> dict:
+    """Fork the repo, apply fix, run pytest, return results. Returns dict with passed/failed/output."""
+    result = {"passed": -1, "failed": -1, "output": "", "error": ""}
+
+    # 1. Create fork if needed
+    fork_name = f"{fork_owner}/worldarchitect.ai"
+    check_fork = subprocess.run(
+        ["gh", "api", f"repos/{fork_name}"], capture_output=True, text=True, timeout=15,
+    )
+    if check_fork.returncode != 0:
+        # Create fork
+        fork_r = subprocess.run(
+            ["gh", "repo", "fork", "--repo", f"jleechanorg/worldarchitect.ai",
+             "--clone", "--remote"],
+            capture_output=True, text=True, timeout=60,
+        )
+        if fork_r.returncode != 0:
+            result["error"] = f"fork failed: {fork_r.stderr[:200]}"
+            return result
+        fork_clone_dir = Path("/tmp/fork_clone")
+    else:
+        # Clone existing fork
+        subprocess.run(["rm", "-rf", "/tmp/fork_clone"], check=False, capture_output=True)
+        clone_r = subprocess.run(
+            ["git", "clone", f"https://github.com/{fork_name}.git", "/tmp/fork_clone",
+             "--depth", "1"],
+            capture_output=True, text=True, timeout=120,
+        )
+        if clone_r.returncode != 0:
+            result["error"] = f"fork clone failed: {clone_r.stderr[:200]}"
+            return result
+        fork_clone_dir = Path("/tmp/fork_clone")
+
+    try:
+        # 2. Create test branch
+        test_branch = f"autor-test-{datetime.now(tz=timezone.utc).strftime('%Y%m%d%H%M%S')}"
+        subprocess.run(["git", "checkout", "-b", test_branch], cwd=fork_clone_dir,
+                       capture_output=True, timeout=10)
+
+        # 3. Write generated file
+        gen_file = fork_clone_dir / "autor_generated.py"
+        gen_file.write_text(file_content)
+        subprocess.run(["git", "add", "autor_generated.py"], cwd=fork_clone_dir,
+                       capture_output=True, timeout=10)
+        subprocess.run(
+            ["git", "commit", "-m", "autor: apply generated fix for test"],
+            cwd=fork_clone_dir, capture_output=True, timeout=10,
+        )
+
+        # 4. Push test branch
+        push_r = subprocess.run(
+            ["git", "push", "-u", "origin", test_branch],
+            cwd=fork_clone_dir, capture_output=True, text=True, timeout=30,
+        )
+        if push_r.returncode != 0:
+            result["error"] = f"push failed: {push_r.stderr[:200]}"
+            return result
+
+        # 5. Trigger workflow dispatch on the test branch
+        # Find a test workflow
+        workflows_r = subprocess.run(
+            ["gh", "api", f"repos/{fork_name}/actions/workflows",
+             "--jq", ".workflows[] | select(.name | contains(\"Hook Tests\")) | .id"],
+            capture_output=True, text=True, timeout=15,
+        )
+        workflow_id = workflows_r.stdout.strip()
+
+        if workflow_id:
+            dispatch_r = subprocess.run(
+                ["gh", "api", f"repos/{fork_name}/actions/workflows/{workflow_id}/runs",
+                 "--method", "POST", "--input", "-"],
+                input=json.dumps({"ref": test_branch}),
+                capture_output=True, text=True, timeout=15,
+            )
+            result["output"] += f"workflow dispatch: {dispatch_r.returncode}\n"
+
+        # 6. Poll for workflow result (up to 5 min)
+        for attempt in range(30):
+            time.sleep(10)
+            runs_r = subprocess.run(
+                ["gh", "api", f"repos/{fork_name}/actions/runs",
+                 "--jq", f".workflow_runs[] | select(.head_branch == \"{test_branch}\") | {{conclusion, number}}"],
+                capture_output=True, text=True, timeout=15,
+            )
+            if runs_r.stdout.strip():
+                import re
+                m = re.search(r'"conclusion"\s*:\s*"(\w+)"', runs_r.stdout)
+                if m:
+                    conclusion = m.group(1)
+                    result["output"] += f"workflow conclusion: {conclusion}\n"
+                    if conclusion == "success":
+                        result["passed"] = 1
+                        result["failed"] = 0
+                    elif conclusion == "failure":
+                        result["passed"] = 0
+                        result["failed"] = 1
+                    else:
+                        result["output"] += f"status: {runs_r.stdout[:200]}\n"
+                    break
+        else:
+            result["output"] += "workflow poll timeout\n"
+
+    except subprocess.TimeoutExpired as e:
+        result["error"] = f"timeout: {e}"
+    except Exception as e:
+        result["error"] = str(e)[:200]
+    finally:
+        subprocess.run(["rm", "-rf", "/tmp/fork_clone"], check=False, capture_output=True)
+
+    return result
+
+
 def score_diff(code: str, pr_info: dict, technique: str) -> dict:
     system_prompt = "You are an expert code reviewer. Evaluate code against the 6-dim rubric with high standards."
     prompt = f"""Score this code against the 6-dimension rubric.
@@ -293,32 +405,11 @@ def main():
         print("ERROR: no code generated")
         sys.exit(1)
 
-    # 3. Score
-    print("Scoring...")
-    score = score_diff(code, pr_info, technique)
-    print(f"Score: {score['total']}/100")
-
-    # 4. Write score JSON + log
-    ts = datetime.now(tz=timezone.utc).strftime("%Y%m%dT%H%M%SZ")
-    SCORES_DIR.mkdir(parents=True, exist_ok=True)
-    LOG_DIR.mkdir(parents=True, exist_ok=True)
-
-    score_file = SCORES_DIR / f"{technique}_{pr_number}_s1_{ts}.json"
-    log_file = LOG_DIR / f"{technique}_{pr_number}_s1_{ts}.log"
-
-    with open(score_file, "w") as f:
-        json.dump({"pr": pr_number, "technique": technique, **score,
-                   "run_session": run_session, "last_updated": ts}, f, indent=2)
-    with open(log_file, "w") as f:
-        f.write(log_text)
-
-    print(f"Score: {score_file}")
-    print(f"Log: {log_file}")
-
-    # 5. Try autor_pr helpers if available
+    # 3. Push branch first (needed for test execution + PR creation)
     autor_pr = _import_autor_pr()
     new_pr_number = None
     branch_name = f"autor-{technique.lower()}-{pr_number}-{datetime.now(tz=timezone.utc).strftime('%Y%m%d%H%M%S')}"
+    file_content = f"# Autor {technique} PR\n# Target: #{pr_number}\n{code}"
 
     def gh_get(path):
         r = subprocess.run(
@@ -368,71 +459,92 @@ def main():
             capture_output=True, text=True, timeout=30,
         )
 
-    file_content = f"# Autor {technique} PR\n# Target: #{pr_number}\n{code}"
+    print("Pushing branch for test execution...")
+    try:
+        create_branch_via_api(branch_name, pr_info["base_ref"])
+        upload_file_via_api(branch_name, "autor_generated.py", file_content,
+                             f"autor: {technique} fix for PR #{pr_number}")
+        print(f"Branch {branch_name} pushed")
+    except Exception as e:
+        print(f"Branch/push failed: {e}")
 
+    # 4. Run tests via fork
+    print("Running tests via fork + workflow...")
+    test_result = run_tests_via_api("jleechan2015", branch_name, file_content, pr_info["base_ref"])
+    print(f"Tests: {test_result['passed']} passed / {test_result['failed']} failed")
+
+    # 5. Score
+    print("Scoring...")
+    score = score_diff(code, pr_info, technique)
+    score["test_passed"] = test_result["passed"]
+    score["test_failed"] = test_result["failed"]
+    score["test_output"] = (test_result["output"] + " | " + test_result.get("error", ""))[:1000]
+    print(f"Score: {score['total']}/100")
+
+    # 6. Write score JSON + log
+    ts = datetime.now(tz=timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+    SCORES_DIR.mkdir(parents=True, exist_ok=True)
+    LOG_DIR.mkdir(parents=True, exist_ok=True)
+
+    score_file = SCORES_DIR / f"{technique}_{pr_number}_s1_{ts}.json"
+    log_file = LOG_DIR / f"{technique}_{pr_number}_s1_{ts}.log"
+
+    with open(score_file, "w") as f:
+        json.dump({"pr": pr_number, "technique": technique, **score,
+                   "run_session": run_session, "last_updated": ts}, f, indent=2)
+    with open(log_file, "w") as f:
+        f.write(log_text)
+
+    print(f"Score: {score_file}")
+    print(f"Log: {log_file}")
+
+    # 7. Create draft PR (branch already pushed)
     if autor_pr and hasattr(autor_pr, "open_draft_autor_pr"):
         print("Using autor_pr.open_draft_autor_pr()...")
         try:
-            create_branch_via_api(branch_name, pr_info["base_ref"])
-            upload_file_via_api(branch_name, "autor_generated.py", file_content,
-                                 f"autor: {technique} fix for PR #{pr_number}")
-            print(f"Branch {branch_name} pushed")
+            new_pr_number = autor_pr.open_draft_autor_pr(
+                technique=technique,
+                title=f"recreation of #{pr_number}",
+                body=f"Autor eval PR — technique: {technique}\nTarget: https://github.com/{REPO_OWNER}/{REPO_NAME}/pull/{pr_number}\n\nEvaluation artifact — not a merge candidate.",
+                branch=branch_name,
+                base=pr_info["base_ref"],
+            )
+            print(f"Draft PR created: #{new_pr_number}")
         except Exception as e:
-            print(f"Branch/push failed: {e}")
-        else:
-            try:
-                new_pr_number = autor_pr.open_draft_autor_pr(
-                    technique=technique,
-                    title=f"recreation of #{pr_number}",
-                    body=f"Autor eval PR — technique: {technique}\nTarget: https://github.com/{REPO_OWNER}/{REPO_NAME}/pull/{pr_number}\n\nEvaluation artifact — not a merge candidate.",
-                    branch=branch_name,
-                    base=pr_info["base_ref"],
-                )
-                print(f"Draft PR created: #{new_pr_number}")
-            except Exception as e:
-                print(f"autor_pr.open_draft_autor_pr failed: {e}")
+            print(f"autor_pr.open_draft_autor_pr failed: {e}")
     else:
-        # Manual gh pr create
         print("autor_pr helpers not available — using gh directly")
         body = f"""Autor eval — technique: {technique}
 Target PR: https://github.com/{REPO_OWNER}/{REPO_NAME}/pull/{pr_number}
 Run session: {run_session}
 
 Evaluation artifact — NOT a merge candidate."""
-        try:
-            create_branch_via_api(branch_name, pr_info["base_ref"])
-            upload_file_via_api(branch_name, "autor_generated.py", file_content,
-                                 f"autor: {technique} fix for PR #{pr_number}")
-            print(f"Branch {branch_name} pushed")
-        except Exception as e:
-            print(f"Branch/push failed: {e}")
+        title = f"[autor][{technique}] recreation of #{pr_number}"
+        create_r = subprocess.run([
+            "gh", "pr", "create",
+            "--repo", f"{REPO_OWNER}/{REPO_NAME}",
+            "--title", title,
+            "--body", body,
+            "--draft",
+            "--label", "autor",
+            "--base", pr_info["base_ref"],
+            "--head", branch_name,
+        ], capture_output=True, text=True)
+        if create_r.returncode == 0:
+            lines = create_r.stdout.strip().split("\n")
+            for line in lines:
+                if "/pull/" in line:
+                    parts = line.strip().split("/")
+                    for i, p in enumerate(parts):
+                        if p == "pull" and i + 1 < len(parts):
+                            try:
+                                new_pr_number = int(parts[i + 1])
+                            except ValueError:
+                                pass
+                    break
+            print(f"Draft PR created: #{new_pr_number}")
         else:
-            title = f"[autor][{technique}] recreation of #{pr_number}"
-            create_r = subprocess.run([
-                "gh", "pr", "create",
-                "--repo", f"{REPO_OWNER}/{REPO_NAME}",
-                "--title", title,
-                "--body", body,
-                "--draft",
-                "--label", "autor",
-                "--base", pr_info["base_ref"],
-                "--head", branch_name,
-            ], capture_output=True, text=True)
-            if create_r.returncode == 0:
-                lines = create_r.stdout.strip().split("\n")
-                for line in lines:
-                    if "/pull/" in line:
-                        parts = line.strip().split("/")
-                        for i, p in enumerate(parts):
-                            if p == "pull" and i + 1 < len(parts):
-                                try:
-                                    new_pr_number = int(parts[i + 1])
-                                except ValueError:
-                                    pass
-                        break
-                print(f"Draft PR created: #{new_pr_number}")
-            else:
-                print(f"gh pr create failed: {create_r.stderr[:300]}")
+            print(f"gh pr create failed: {create_r.stderr[:300]}")
 
     # 6. Update bandit
     try:
