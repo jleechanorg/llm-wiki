@@ -1,0 +1,18 @@
+{
+  "pr": 6434,
+  "technique": "SR-multi-exemplar",
+  "naming": 90,
+  "error_handling": 50,
+  "type_safety": 70,
+  "architecture": 60,
+  "test_coverage": 50,
+  "documentation": 50,
+  "total": 62.0,
+  "breakdown": "The rename from gemini_request to llm_request demonstrates clear naming improvement by generalizing to provider-agnostic terminology, though error handling, type safety, and tests remain unchanged from the baseline. Architecture gains from the more generic naming, but the PR lacks documentation additions or new test coverage for the refactored code.",
+  "reasoning": "This is a minimal rename refactor with limited scope\u2014while the new name is superior, no other dimensions were enhanced. Error handling and type safety were not improved, and test updates are not visible in the diff, resulting in a mediocre overall score despite the naming improvement.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-multi-exemplar-20260421T234703Z",
+  "last_updated": "20260421T234736Z"
+}

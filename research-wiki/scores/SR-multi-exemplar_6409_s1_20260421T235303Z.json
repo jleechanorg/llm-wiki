@@ -1,0 +1,18 @@
+{
+  "pr": 6409,
+  "technique": "SR-multi-exemplar",
+  "naming": 50,
+  "error_handling": 0,
+  "type_safety": 30,
+  "architecture": 50,
+  "test_coverage": 45,
+  "documentation": 55,
+  "total": 35.75,
+  "breakdown": "This test snippet suffers from a dynamically constructed Args class using `type()` instead of proper type definitions, and contains no error handling whatsoever. The test name is descriptive but overly verbose, and the inner ConcreteTest class feels ad-hoc. Type annotations are absent, though the test does perform a real assertion rather than a stub.",
+  "reasoning": "The code lacks type safety by using `type()` for dynamic class creation and has no try/except blocks or typed exceptions visible. While there's a docstring and a real assertion (not a stub), the test only validates a single mocked path without asserting that the guard actually 'runs' as the method name claims. The nested test class definition suggests an awkward testing pattern.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-multi-exemplar-20260421T235154Z",
+  "last_updated": "20260421T235303Z"
+}

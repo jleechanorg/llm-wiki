@@ -1,0 +1,7 @@
+# SR-multi-exemplar generation for PR #6443
+Timestamp: 2026-04-21T23:31:38.354375+00:00
+Technique: SR-multi-exemplar
+PR: [antig] fix(rewards): add missing _total_character_level helper for multiclass ASI
+
+Raw response: 6656 chars
+Extracted code: 483 chars
