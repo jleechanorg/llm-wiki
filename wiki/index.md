@@ -15,7 +15,9 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Sources
 - [Project Chimera: A Neural Network of LLM Agents — 2026-04-19](sources/project-chimera-neural-network-llm-agents-2026-04-19.md) — 22-agent GNN-driven swarm; M2.7 primary + GPT-5.4 for synthesis/gate; Living Knowledge Wiki as killer app; 31-commit TDD roadmap over 6–7 weeks
+- [Project Chimera Codebase: April 2026 — 2026-04-20](sources/project-chimera-codebase-2026-04-20.md) — Live implementation at ~/Downloads/chimera/; 11 agents; real Minimax API verified; 9/9 tests pass; DomainExpert ~60s latency is bottleneck; GNN is simulated not trained
 - [ZFC Level-Up Architecture: Model Computes, Backend Formats — 2026-04-19](sources/zfc-level-up-model-computes-north-star-2026-04-19.md) — Model computes level-up/XP/rewards; backend is pure formatter; replaces backend-centralization approach
+- [ZFC Level-Up M0 Cleanup Session — 2026-04-20](sources/2026-04-20-zfc-m0-cleanup-session.md) — 8h session: PR #6415 7-green/merge-ready; PRs #6420/#6404 CR CHANGES_REQUESTED; PR #6418 Skeptic stale; branch v4 created after v1-v3 conflicts
 - [PR #6370 Review: ASI and XP Display Scope Drift — 2026-04-19](sources/pr6370-asi-xp-display-scope-drift.md) — PR #6370 review: ASI choices now apply to single-class characters (not just multiclass); xp_gained now uses rewards_pending instead of computed overflow; both are scope changes not disclosed in PR body
 - [WorldArchitect.AI level-up / Layer 2 session digest — 2026-04-19](sources/worldarchitect-level-up-session-2026-04-19.md) — Split stack PR truth, merge order (#6370 → #6379/#6387), 7-green vs checks, agent-only gates, roadmap pointers, parallel-work rules
 - [Story persistence & reload parity (harness) — 2026-04-19](sources/story-persistence-reload-parity-2026-04-19.md) — Round-trip parity tenet; anti strip-at-save; PR #6376 class; repo skill + CLAUDE pointer
