@@ -3641,3 +3641,21 @@ Stage 0 drift analysis: M0 was supposed to delete legacy paths (+845/-123 LOC); 
 - Added source page: `sources/2026-04-21-level-up-zfc-loop-postmortem.md`
 - Added concept page: `concepts/ProvisionalUpstreamOwnership.md`
 - Indexed the incident as a harness failure in the level-up ZFC supervision loop
+
+## [2026-04-21] ingest | ZFC Loop Current-Head Comment Gate
+
+- Added source page: `sources/2026-04-21-zfc-loop-current-head-comment-gate.md`
+- Indexed the lesson that current-head `/smoke`, `/er`, and bot-failure issue comments outrank green-check optimism
+- Linked the incident to PR `#6431` and the worker-park failure pattern in loop supervision
+
+## [2026-04-21] ingest | AO Worker Failure Investigation
+
+- Added source page: `sources/2026-04-21-ao-worker-failure-investigation.md`
+- Indexed the finding that AO launch fidelity, stuck-probe handling, and ownership drift all contributed to worker failure on `#6420` / `#6404`
+- Linked the incident to AO session archives and lifecycle logs, not just tmux observations
+
+## [2026-04-21] chimera | P7 rubric redesign complete, P8 benchmark running
+
+- P7: Redesigned rubric (commit `7b59ce9`): 6-dim 100pt, Insight heaviest (25pts), 5=floor not ceiling, behavioral anchors for 8+, accuracy gate caps at 3/10, 500-char error detection
+- P8: Benchmark re-run started Q1/15 (~6h expected)
+- Wiki: `roadmap/nextsteps-2026-04-21-chimera.md` updated
