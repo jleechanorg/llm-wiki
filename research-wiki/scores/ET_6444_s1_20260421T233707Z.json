@@ -1,0 +1,18 @@
+{
+  "pr": 6444,
+  "technique": "ET",
+  "naming": 80,
+  "error_handling": 70,
+  "type_safety": 88,
+  "architecture": 82,
+  "test_coverage": 0,
+  "documentation": 75,
+  "total": 67.5,
+  "breakdown": "Code shows solid type safety with modern Python generics and clear naming conventions for cache/lock variables. Custom `SchemaLoadError` exception is well-documented. Threading primitives (_SCHEMA_DOC_CACHE_LOCK) indicate thread-safe architecture. However, no implementation or test code is provided in this diff\u2014only imports and module-level declarations\u2014so error handling patterns, actual circuit breaker logic, and test coverage cannot be assessed.",
+  "reasoning": "The diff only contains module-level imports, variable declarations, and an exception class definition\u2014no function implementations or tests. Naming is descriptive (e.g., _SCHEMA_DOC_CACHE_LOCK), type hints are modern (str | None, dict[str, str]), and architecture separates concerns via module imports. Without implementation code or tests, scores are conservative; type_safety gets credit for visible patterns, test_coverage gets 0 for missing tests.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-ET-20260421T233350Z",
+  "last_updated": "20260421T233707Z"
+}

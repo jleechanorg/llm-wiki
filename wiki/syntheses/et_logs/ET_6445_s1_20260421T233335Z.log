@@ -1,0 +1,7 @@
+# ET generation for PR #6445
+Timestamp: 2026-04-21T23:32:43.736453+00:00
+Technique: ET
+PR: chore(deps): bump lxml from 6.0.2 to 6.1.0
+
+Raw response: 2271 chars
+Extracted code: 314 chars

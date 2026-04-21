@@ -1,0 +1,7 @@
+# ET generation for PR #6443
+Timestamp: 2026-04-21T23:26:24.556560+00:00
+Technique: ET
+PR: [antig] fix(rewards): add missing _total_character_level helper for multiclass ASI
+
+Raw response: 5157 chars
+Extracted code: 2692 chars
