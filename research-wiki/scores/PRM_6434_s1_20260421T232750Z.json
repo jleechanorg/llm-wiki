@@ -1,0 +1,18 @@
+{
+  "pr": 6434,
+  "technique": "PRM",
+  "naming": 75,
+  "error_handling": 50,
+  "type_safety": 55,
+  "architecture": 70,
+  "test_coverage": 50,
+  "documentation": 40,
+  "total": 57.75,
+  "breakdown": "The rename improves naming by making the field generic rather than Gemini-specific, though the annotation `Any` remains problematic\u2014the PR comment itself notes it should be `LLMRequest` type, and `agent: Any` compounds the type safety issue. No error handling, test coverage, or documentation changes are visible in this snippet.",
+  "reasoning": "This is a minimal rename with the stated goal of using proper type hints, yet the diff shows `Any` is still present. The PR comment acknowledges the type should be `LLMRequest` but the actual change isn't shown, suggesting the type fix is incomplete or belongs to another commit. Score reflects incomplete execution of the stated improvement.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-PRM-20260421T232649Z",
+  "last_updated": "20260421T232750Z"
+}

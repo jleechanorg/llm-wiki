@@ -1,0 +1,7 @@
+# PRM generation for PR #6420
+Timestamp: 2026-04-21T23:29:41.120465+00:00
+Technique: PRM
+PR: [antig] fix: ZFC level-up schema prerequisites + validation hardening
+
+Raw response: 37054 chars
+Extracted code: 15014 chars

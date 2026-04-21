@@ -1,0 +1,7 @@
+# PRM generation for PR #6434
+Timestamp: 2026-04-21T23:26:50.500559+00:00
+Technique: PRM
+PR: [antig] refactor: rename prepared.gemini_request → prepared.llm_request
+
+Raw response: 4188 chars
+Extracted code: 281 chars
