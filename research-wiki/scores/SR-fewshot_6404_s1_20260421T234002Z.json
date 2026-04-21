@@ -1,0 +1,18 @@
+{
+  "pr": 6404,
+  "technique": "SR-fewshot",
+  "naming": 92,
+  "error_handling": 85,
+  "type_safety": 82,
+  "architecture": 88,
+  "test_coverage": 0,
+  "documentation": 85,
+  "total": 73.3,
+  "breakdown": "Source code exhibits strong naming conventions and architectural clarity with model-owned signals properly bounded; validation logic is thorough with appropriate logging, and type checking is systematic using isinstance with type tuples. However, no test coverage is visible in this diff, which is a critical gap for a PR of this nature. The type safety is solid but input parameters use `Any` which could be more strictly typed at entry points.",
+  "reasoning": "The implementation shows thoughtful separation of concerns with clear docstrings explaining WHY (design contract, schema requirements) and appropriate use of constants like VALID_LEVEL_UP_SOURCES. Error handling is consistent (logging warnings, returning None/false for invalid states). The architectural docstring in game_state.py clearly delineates what game_state may vs may not own. Without test files in the diff, test coverage cannot be scored\u2014only source code changes were provided, making it impossible to evaluate whether the actual changes are covered by tests.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-fewshot-20260421T233835Z",
+  "last_updated": "20260421T234002Z"
+}

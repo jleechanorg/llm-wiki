@@ -1,0 +1,18 @@
+{
+  "pr": 6409,
+  "technique": "SR-fewshot",
+  "naming": 70,
+  "error_handling": 70,
+  "type_safety": 70,
+  "architecture": 70,
+  "test_coverage": 70,
+  "documentation": 70,
+  "breakdown": "Parse failed",
+  "reasoning": "JSON parse error",
+  "total": 70.0,
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-fewshot-20260421T233741Z",
+  "last_updated": "20260421T233825Z"
+}

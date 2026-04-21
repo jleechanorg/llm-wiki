@@ -1,0 +1,18 @@
+{
+  "pr": 6443,
+  "technique": "SR-fewshot",
+  "naming": 80,
+  "error_handling": 60,
+  "type_safety": 70,
+  "architecture": 85,
+  "test_coverage": 30,
+  "documentation": 70,
+  "total": 66.5,
+  "breakdown": "Helper function extraction shows good architectural intent with clear separation of concerns, but the PR lacks test coverage which is critical for bug-fix changes. Type safety is moderate\u2014uses isinstance guards but lacks TypedDict structures. Error handling is basic with no logging or boundary validation.",
+  "reasoning": "The naming is clear and descriptive for internal helpers. Type annotations are present but could be stronger with TypedDict for the game_state parameter. Error handling uses safe .get() calls but doesn't validate input ranges or log edge cases. The architectural pattern of extracting _total_character_level is sound. No tests provided despite this being a bug-fix\u2014without tests the fix cannot be verified as correct or prevent regressions.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-fewshot-20260421T233207Z",
+  "last_updated": "20260421T233312Z"
+}

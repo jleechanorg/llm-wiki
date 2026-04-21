@@ -1,0 +1,18 @@
+{
+  "pr": 6443,
+  "technique": "SR-fewshot",
+  "naming": 80,
+  "error_handling": 65,
+  "type_safety": 60,
+  "architecture": 78,
+  "test_coverage": 40,
+  "documentation": 70,
+  "total": 65.6,
+  "breakdown": "This PR adds a well-named helper function to safely handle multiclass character level calculation, addressing a bug with nested dict structures. The code uses safe dictionary traversal patterns but lacks type safety beyond basic isinstance checks, and the PR provides no test coverage for the new functionality. Error handling is implicit through dict.get() defaults rather than explicit validation.",
+  "reasoning": "Naming is strong with descriptive function names and variable names. Error handling avoids crashes via .get() defaults but lacks explicit exceptions. Type safety uses dict instead of TypedDict for complex game_state structure\u2014acceptable but not rigorous. Architecture properly separates the helper with clear single responsibility. Test coverage scores low because no tests are included for this bugfix. Documentation has docstrings but one function is missing one.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-fewshot-20260421T234320Z",
+  "last_updated": "20260421T234422Z"
+}
