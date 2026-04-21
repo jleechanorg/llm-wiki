@@ -8,23 +8,14 @@ last_updated: 2026-04-21
 
 ## Summary
 
-15 hard research queries × 3 Chimera modes (single/fixed/GNN) run on real Minimax M2.7 API over 281 minutes. Real spread achieved: multi-agent modes outperform single mode on complex queries by avg 3.62 points. GNN edges Fixed by only 0.3 pts — dynamic topology adds marginal value over a well-designed static pipeline.
+15 hard research queries × 3 Chimera modes (single/fixed/GNN) run on real Minimax M2.7 API over 281 minutes. **Critical caveat: results dominated by API reliability (33-93% error rates), not pure architectural quality.** Multi-agent completes more API calls than single mode, but the quality gap is unclear.
 
 ## Key Claims
 
-- **Single mode scores 1.0/10 on 10/15 hard queries** — completely fails on complex multi-perspective tasks requiring synthesis of conflicting information
-- **Multi-agent is mandatory for hard queries**: 13/15 queries show spread > 1.0 point between modes
-- **GNN vs Fixed is essentially tied**: GNN (4.1 avg) vs Fixed (3.8 avg) — dynamic topology routing doesn't add significant value over parallel execution + critique loops
-- **Average spread: 3.62 points** — rubric now discriminating properly on hard queries (vs 0.4 on easy queries)
-
-## Mode Averages
-
-| Mode | Avg Score | Wins | Win Rate |
-|------|----------|------|----------|
-| GNN | 4.1/10 | 5 | 33% |
-| Fixed | 3.8/10 | 4 | 27% |
-| Single | 1.5/10 | 0 | 0% |
-| Tie | — | 6 | 40% |
+- **Single mode errors on 14/15 hard queries** (93% failure rate) — the 1.0/10 scores are API timeouts, not quality assessments
+- **Multi-agent is more reliable**: Fixed completes 67% of calls, GNN completes 40%, Single completes only 7%
+- **GNN vs Fixed: essentially tied on quality, but Fixed more reliable** — Fixed wins 8 head-to-head queries, GNN wins 5, with 2 ties. Average scores favor GNN but this is largely which queries timed out.
+- **Average spread 3.62 points = API reliability gap**, not pure quality difference
 
 ## Detailed Results
 
@@ -48,16 +39,23 @@ last_updated: 2026-04-21
 
 ## Key Insights
 
-1. **Single mode is a brittle baseline**: Scores 1.0/10 on 10/15 queries. Concise, well-structured output looks good to AI Judge on simple queries but falls apart on complex synthesis tasks.
+1. **Single mode fails 93% of the time**: 14/15 queries produced API errors (timeout or 529). The 1.0 scores are error text, not quality assessments. When single mode ran successfully (Q15), it scored 5.0 — equivalent to multi-agent modes.
 
-2. **GNN topology routing ≠ multi-agent collaboration**: The GNN mode's advantage comes from parallel execution + multiple expert perspectives, not from smart topology selection. Fixed pipeline is nearly as good.
+2. **Multi-agent advantage is reliability, not quality**: Fixed completed 67% of calls, GNN 40%, Single 7%. The 3.62-point spread is an API reliability gap.
 
-3. **When multi-agent pays off**:
-   - Queries requiring synthesis of conflicting information (Q7: academic papers)
-   - Queries needing domain-specific deep analysis (Q3: AI languages, Q11: fusion)
-   - Queries requiring multiple technical perspectives (Q8: due diligence, Q9: architecture)
+3. **GNN vs Fixed — Fixed wins head-to-head**: Fixed wins 8 queries, GNN wins 5, Tie 2. The GNN's higher average (4.1 vs 3.8) comes from Q1 where Fixed timed out and GNN produced a 17K-token report — not a systemic advantage.
 
-4. **When modes tie**: High-level analytical queries (Q2: geopolitical) and structured analytical tasks (Q15: election) where single synthesizer produces adequate output.
+4. **When multi-agent genuinely helps**: Q7 (conflicting academic papers) — GNN synthesized 17K tokens where Fixed errored. Q3 (AI languages) — GNN scored 5.0 vs Fixed 3.7.
+
+5. **Benchmark reliability issues**: 33-93% error rates make cross-mode quality comparisons unreliable. Need retry logic, rubric calibration for errors, and re-run before claims are valid.
+
+## Evidence Review Flags
+
+This benchmark was reviewed against evidence-standards.md. Critical failures found:
+- **Win counts corrected**: GNN=5, Fixed=8, Tie=2 (was GNN=5, Fixed=4, Tie=6)
+- **API key exposed** in `chimera_standalone.py` — fixed to use `MINIMAX_API_KEY` env var
+- **Scores not derived from JSON**: The modes[] block scores don't match pairwise comparison data — aggregation code missing
+- Full review: `~/roadmap/nextsteps-2026-04-21-chimera.md`
 
 ## Files
 
