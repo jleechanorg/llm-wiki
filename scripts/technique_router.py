@@ -11,13 +11,16 @@ ZFC-compliant: classification of PR type is delegated to the model API, not hard
   typeddict-schema  — TypedDict + validation for untyped data structures
   large-arch-refactor — module extraction / large refactors
 
-Routing (from bandit per-type performance):
-  state-bool         → SR-prtype (wins on state-bool by +2.3 over SR-metaharness)
-  data-norm          → SR-prtype (wins on data-norm by +0.5 over SR-fewshot)
-  ci-workflow        → SR-prtype (wins on ci-workflow by +4.4 over SR-metaharness)
-  typeddict-schema   → SR-prtype (wins on typeddict-schema by +1.4 over SR-fewshot)
-  large-arch-refactor → SR-prtype (wins on large-arch-refactor by +0.7 over SR-metaharness)
+Routing (CORRECTED — per evidence review 2026-04-21):
+  state-bool         → SR-prtype (84.4 from matched-corpus)
+  data-norm          → SR-prtype (84.23 on exemplar PR 6261; SR-fewshot=87.9 is from PR 6265, not exemplar)
+  ci-workflow        → SR-prtype (84.0 from matched-corpus)
+  typeddict-schema   → SR-prtype (85.2 from matched-corpus)
+  large-arch-refactor → SR-prtype (83.9 from matched-corpus)
   default            → SR-prtype (highest bandit mean: 84.45, n=16)
+
+Note: All techniques converge within rubric noise. The data-norm routing
+was built on unverified per-type data. SR-prtype is the safe default.
 
 Usage:
   python scripts/technique_router.py --pr-description "Fix: accept int(1) as True in state flags"
@@ -57,12 +60,13 @@ TYPE_EXEMPLARS = {
             "with NaN/inf/empty-string handling."
         ),
         "exemplar_pr": "6261",
-        "best_technique": "SR-fewshot",
-        "alternatives": ["SR-multi-exemplar", "SR-prtype", "PRM"],
+        "best_technique": "SR-prtype",
+        "alternatives": ["SR-multi-exemplar", "SR-fewshot", "PRM"],
         "bandit_scores": {
-            "SR-fewshot": 87.9, "SR-multi-exemplar": 84.4,
-            "SR-prtype": 84.1, "PRM": 82.3
+            "SR-prtype": 84.23, "SR-multi-exemplar": 84.44,
+            "SR-fewshot": 84.58, "PRM": 79.33
         },
+        "note": "87.9 SR-fewshot figure was from PR 6265, not the exemplar. All techniques converge."
     },
     "ci-workflow": {
         "description": (
