@@ -1,7 +1,7 @@
 {
   "techniques": {
     "SR": {
-      "n": 17,
+      "n": 19,
       "scores": [
         77,
         89,
@@ -19,9 +19,11 @@
         59.5,
         77.25,
         76.5,
-        13.25
+        13.25,
+        76.5,
+        67.25
       ],
-      "mean": 76.95294117647059,
+      "mean": 76.41842105263159,
       "last_updated": "2026-04-18T00:09:15.717211+00:00",
       "notes": "SR matched corpus batch: MiniMax-M2.5 rubric scoring"
     },
@@ -1912,6 +1914,32 @@
           "run_session": "autor-SR-20260421T191729Z",
           "technique": "SR",
           "last_updated": "20260421T191920Z"
+        },
+        {
+          "total": 76.5,
+          "naming": 85,
+          "error_handling": 70,
+          "type_safety": 75,
+          "architecture": 80,
+          "test_coverage": 65,
+          "documentation": 90,
+          "breakdown": "Test naming is consistently descriptive with clear class and method names that explain intent. Error handling is adequately tested via try/except patterns and assertion-based validation. Type safety is solid with proper annotations and fixture typing, though production code context is missing. Architecture shows strong ownership boundary separation with logical test class organization. Test coverage is moderate\u2014tests are meaningful but some implementations appear truncated mid-method. Documentation excels with comprehensive module docstrings and M0-tagged test explanations.",
+          "run_session": "autor-SR-20260421T192014Z",
+          "technique": "SR",
+          "last_updated": "20260421T192210Z"
+        },
+        {
+          "total": 67.25,
+          "naming": 85,
+          "error_handling": 65,
+          "type_safety": 85,
+          "architecture": 80,
+          "test_coverage": 0,
+          "documentation": 85,
+          "breakdown": "The PR shows solid fundamentals in naming conventions, type safety with dataclasses and union types, and clear architectural responsibility boundaries documented in the module header. Error handling exists but relies on bare `except Exception` with warnings rather than typed errors. No test coverage is visible in the provided diff, which significantly impacts the score. Documentation is strong with comprehensive docstrings and a responsibility charter explaining module scope.",
+          "run_session": "autor-SR-20260421T192303Z",
+          "technique": "SR",
+          "last_updated": "20260421T192433Z"
         }
       ]
     }
