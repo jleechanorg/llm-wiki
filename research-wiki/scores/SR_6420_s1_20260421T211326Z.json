@@ -1,0 +1,18 @@
+{
+  "pr": 6420,
+  "technique": "SR",
+  "naming": 80,
+  "error_handling": 85,
+  "type_safety": 85,
+  "architecture": 90,
+  "test_coverage": 40,
+  "documentation": 95,
+  "total": 79.5,
+  "breakdown": "Strong architectural clarity with well-documented single-owner pattern and proper delegation of level-up logic; excellent type safety with dataclasses and generics; good error handling with graceful degradation; moderate naming with some abbreviations (t0, t3, rb, pb); no test files visible in diff significantly lowers coverage score.",
+  "reasoning": "The code demonstrates solid engineering practices: clean module boundaries documented at the top, single owner pattern explicitly called out in docstrings, proper delegation to RewardsEngine.project_level_up_ui eliminating duplicate logic, and comprehensive docstrings explaining WHY (single call site, consolidates projection logic) rather than just WHAT. Type safety is strong with dataclass and generics throughout. Error handling is good with graceful degradation in early metadata projection. Minor deductions: cryptic timing variable names (t0, t3), abbreviations (rb, pb), and inability to assess test coverage from the provided diff.",
+  "test_passed": 1,
+  "test_failed": 0,
+  "test_output": "workflow dispatch: 1\nworkflow conclusion: success\n | ",
+  "run_session": "autor-SR-20260421T211056Z",
+  "last_updated": "20260421T211326Z"
+}
