@@ -1,7 +1,7 @@
 {
   "techniques": {
     "SR": {
-      "n": 15,
+      "n": 16,
       "scores": [
         77,
         89,
@@ -17,9 +17,10 @@
         93.75,
         97.5,
         59.5,
-        77.25
+        77.25,
+        76.5
       ],
-      "mean": 81.23,
+      "mean": 80.934375,
       "last_updated": "2026-04-18T00:09:15.717211+00:00",
       "notes": "SR matched corpus batch: MiniMax-M2.5 rubric scoring"
     },
@@ -1880,6 +1881,23 @@
           "run_session": "SR-fewshot-20260418T184046Z",
           "last_updated": "2026-04-18T18:42:55.302574+00:00",
           "technique": "SR-fewshot"
+        }
+      ]
+    },
+    "6420": {
+      "SR": [
+        {
+          "total": 76.5,
+          "naming": 88,
+          "error_handling": 72,
+          "type_safety": 85,
+          "architecture": 92,
+          "test_coverage": 30,
+          "documentation": 90,
+          "breakdown": "The code demonstrates strong architectural clarity with explicit ownership boundaries and clean module layering; naming is descriptive with no generic placeholders. Type safety is solid using frozen dataclasses and proper generics. Error handling is adequate but the catch block in `to_sse` merely logs and replaces with a generic error, which could mask serialization issues. Documentation is excellent with 'WHY' comments explaining design decisions and single-owner patterns. However, no test files were included in the diff, making test coverage assessment impossible\u2014this is a significant gap for a PR targeting 'validation hardening'.",
+          "run_session": "autor-SR-20260421T185756Z",
+          "technique": "SR",
+          "last_updated": "20260421T185959Z"
         }
       ]
     }
