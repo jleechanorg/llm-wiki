@@ -70,33 +70,19 @@ All critical fixes committed to `https://github.com/jleechanorg/autowiki` (commi
 - **API keys removed**: All hardcoded `sk-cp-...` keys replaced with `MINIMAX_API_KEY` env var
 - **Evidence bundle**: `benchmark_logs/` now has `metadata.json`, `methodology.md`, `llm_request_responses.jsonl`, `checksums.sha256`
 
-## P4 Re-Run Results (2026-04-21)
+## P4 Run 2 Results (2026-04-20) — INVALID (Buggy Rubric)
 
-Benchmark re-run with retry logic and rubric calibration (commit `aa0b25c`). 386.6 minutes, 15 queries.
+Run 2 with retry logic but buggy rubric (false error positives). 386.6 minutes. **Do not use — superseded by Run 3.**
 
-**NOTE**: Error rates corrected on 2026-04-21 (commit `933d9db`). Prior rubric had false positives from overly aggressive error pattern matching (e.g., "500" in "S&P 500 Index" flagged as server_error). Fixed by limiting pattern search to first 500 chars of output.
+| Mode | Error Rate | Valid Queries | Status |
+|------|-----------|--------------|--------|
+| Single | 53.3% (8/15) | 7 | INFLATED — false positives from "500" in S&P 500, "timeout" in timeout_ms |
+| Fixed | 6.7% (1/15) | 14 | INFLATED — same false positive pattern |
+| GNN | 6.7% (1/15) | 14 | INFLATED — same false positive pattern |
 
-| Mode | Error Rate | Valid Queries | Avg Score (valid) | Win Count |
-|------|-----------|--------------|-------------------|-----------|
-| Single | 53.3% (8/15) | 7 | RE-SCORE NEEDED | — |
-| Fixed | 6.7% (1/15) | 14 | RE-SCORE NEEDED | — |
-| GNN | 6.7% (1/15) | 14 | RE-SCORE NEEDED | — |
+**Bug**: Old rubric matched "500" in "S&P 500 Index" as server_error, "timeout" in "timeout_ms" as timeout. Fixed in commit `933d9db` by limiting pattern search to first 500 chars.
 
-**Corrected error rates** (from checkpoint analysis with fixed rubric):
-- Single: 53.3% API errors (8/15) — 4x529, 3xtimeout, 1xapi_error
-- Fixed: 6.7% API errors (1/15) — 1xapi_error
-- GNN: 6.7% API errors (1/15) — 1xapi_error
-
-**Key finding**: Multi-agent modes (Fixed/GNN) significantly more reliable than Single (93% vs 7% reliability gap). Fixed pipeline competitive with GNN when both produce output.
-
-**Defensible claims**:
-- Fixed completes ~15x more queries than Single (93.3% vs 6.7% error rate)
-- GNN completes ~15x more queries than Single (93.3% vs 6.7% error rate)
-- When both Fixed and GNN produce valid output: quality comparable
-
-**Scores require re-run**: The checkpoint scores were computed with the buggy rubric (false error flags). A fresh benchmark run with the fixed rubric (commit `933d9db`) is needed for valid quality comparisons.
-
-**Evidence bundle**: `benchmark_logs/` (commit `3e6e9d6`) — `hard_benchmark.log`, `checkpoint.json`, `checksums_new.sha256`
+**Superseded by**: Run 3 (2026-04-21, valid rubric, all 15 queries complete)
 
 ## P4 Run 3 Results (2026-04-21) — VALID RUN
 
@@ -126,14 +112,27 @@ Benchmark complete with fixed rubric (commit `933d9db`) + retry logic (commit `f
 
 ## Evidence Review Flags
 
-This benchmark was reviewed against evidence-standards.md. Critical failures found:
-- **Error detection false positives (FIXED)**: Old rubric matched "500" in "S&P 500 Index", "timeout" in "timeout_ms", etc. — fixed in commit `933d9db` by limiting pattern search to first 500 chars
-- **Win counts**: Corrected to GNN=5, Fixed=8, Tie=2 (was GNN=5, Fixed=4, Tie=6)
-- **API key exposed** in `chimera_standalone.py` — fixed to use `MINIMAX_API_KEY` env var
-- **Scores not derived from JSON**: The originally claimed 4.1/3.8/1.5 are from Run 1 (before retry fix). Run 2 checkpoint has scores computed with buggy rubric — re-run required for valid quality scores
-- **Summary scores require re-run**: Old scores confounded by false error flags. Fresh benchmark run needed with fixed rubric (commit `933d9db`)
-- **Run 3 complete**: rubric ceiling prevents quality discrimination — all queries TIE at 5.0
-- Full review: `~/roadmap/nextsteps-2026-04-21-chimera.md`
+Reviewed against evidence-standards.md. All runs:
+
+**Run 1 (original, 281 min) — INVALID:**
+- Fabricated statistics: claimed 4.1/3.8/1.5, actual 5.0/5.0/5.46 (when excluding errors)
+- Rubric scored API errors as 5.0 — same as mediocre valid output
+- API key exposed in chimera_standalone.py
+
+**Run 2 (386.6 min) — INVALID (superseded):**
+- False error positives: "500" in S&P 500, "timeout" in timeout_ms flagged as API errors
+- All error rates inflated — fixed in commit `933d9db`
+
+**Run 3 (292.6 min) — VALID RUN with known issues:**
+- **Rubric ceiling**: all valid outputs score 5.0 — no quality discrimination possible
+- **Pairwise JSON corruption**: raw judge text correct, structured fields hardcoded to TIE/5.0
+- **Missing provenance fields**: metadata.json lacks bundle_version, iteration, merge_base
+- **Single mode error rate 13.3%** — above 5% threshold, caveat required on quality claims
+
+**Defensible claims from Run 3:**
+- Multi-agent modes (fixed/gnn) 100% reliable vs single 86.7% completion
+- Rubric cannot distinguish quality between fixed/gnn when both produce valid output
+- GNN vs Fixed: no measurable difference (0.03 spread is single query variance, not architecture)
 
 ## Files
 
