@@ -383,7 +383,7 @@ def main():
             try:
                 new_pr_number = autor_pr.open_draft_autor_pr(
                     technique=technique,
-                    title=f"[autor] [{technique}] recreation of #{pr_number}",
+                    title=f"recreation of #{pr_number}",
                     body=f"Autor eval PR — technique: {technique}\nTarget: https://github.com/{REPO_OWNER}/{REPO_NAME}/pull/{pr_number}\n\nEvaluation artifact — not a merge candidate.",
                     branch=branch_name,
                     base=pr_info["base_ref"],
@@ -407,7 +407,7 @@ Evaluation artifact — NOT a merge candidate."""
         except Exception as e:
             print(f"Branch/push failed: {e}")
         else:
-            title = f"[autor] [{technique}] recreation of #{pr_number}"
+            title = f"[autor][{technique}] recreation of #{pr_number}"
             create_r = subprocess.run([
                 "gh", "pr", "create",
                 "--repo", f"{REPO_OWNER}/{REPO_NAME}",
