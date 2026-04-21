@@ -1,0 +1,7 @@
+# SR-fewshot generation for PR #6436
+Timestamp: 2026-04-21T22:25:34.646334+00:00
+Technique: SR-fewshot
+PR: [antig] Evidence: Twin-Clone Bug Repro for PR #6418
+
+Raw response: 1930 chars
+Extracted code: 276 chars

@@ -1,0 +1,18 @@
+{
+  "pr": 6432,
+  "technique": "SR-adversarial",
+  "naming": 50,
+  "error_handling": 15,
+  "type_safety": 50,
+  "architecture": 50,
+  "test_coverage": 0,
+  "documentation": 10,
+  "total": 31.5,
+  "breakdown": "This PR contains only a single bash one-liner for retrieving a PR's mergedAt timestamp via the gh CLI, which provides minimal code to evaluate. The command lacks any error handling for missing gh installation, network failures, or non-existent PRs, and there are no tests or inline documentation present. Type safety and architecture dimensions are not applicable to shell commands but are scored neutral.",
+  "reasoning": "As a single shell command rather than a code diff, this PR fails to demonstrate meaningful software engineering practices. Error handling is absent (command will simply fail on issues), test coverage is zero, and no documentation explains the command's purpose or context.",
+  "test_passed": 1,
+  "test_failed": 0,
+  "test_output": "workflow dispatch: 1\nworkflow conclusion: success\n | ",
+  "run_session": "autor-SR-adversarial-20260421T221320Z",
+  "last_updated": "20260421T221509Z"
+}

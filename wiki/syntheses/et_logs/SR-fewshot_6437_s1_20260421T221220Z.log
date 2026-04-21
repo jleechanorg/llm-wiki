@@ -1,0 +1,7 @@
+# SR-fewshot generation for PR #6437
+Timestamp: 2026-04-21T22:11:32.339726+00:00
+Technique: SR-fewshot
+PR: [antig] docs(evidence): MCP level-up repro + organic recon + smoke (2026-04-21)
+
+Raw response: 2679 chars
+Extracted code: 450 chars

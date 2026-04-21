@@ -1,0 +1,7 @@
+# SR-prtype generation for PR #6444
+Timestamp: 2026-04-21T22:14:24.296196+00:00
+Technique: SR-prtype
+PR: [antig] feat(prompts): thread-safe schema cache circuit breaker
+
+Raw response: 4018 chars
+Extracted code: 2903 chars

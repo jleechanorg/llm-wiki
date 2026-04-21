@@ -1,0 +1,18 @@
+{
+  "pr": 6432,
+  "technique": "SR-fewshot",
+  "naming": 30,
+  "error_handling": 50,
+  "type_safety": 40,
+  "architecture": 35,
+  "test_coverage": 0,
+  "documentation": 45,
+  "total": 34.0,
+  "breakdown": "This appears to be a metadata/documentation header for a PR with no actual code diff provided. Naming and architecture dimensions cannot be properly assessed without implementation code. The PR header itself is well-structured with proper metadata, but this lacks the substantive changes needed for meaningful review across most dimensions.",
+  "reasoning": "No actual code implementation is included in this PR diff submission\u2014only header metadata describing a documentation PR. Error handling and type safety cannot be evaluated, architecture cannot be assessed, and test coverage is absent. The documentation header itself is correctly formatted but provides no implementation artifacts to score meaningfully. This submission appears incomplete for a proper code review assessment.",
+  "test_passed": 1,
+  "test_failed": 0,
+  "test_output": "workflow dispatch: 1\nworkflow conclusion: success\n | ",
+  "run_session": "autor-SR-fewshot-20260421T221446Z",
+  "last_updated": "20260421T221600Z"
+}

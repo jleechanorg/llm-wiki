@@ -1,0 +1,7 @@
+# SR-fewshot generation for PR #6420
+Timestamp: 2026-04-21T22:17:41.877385+00:00
+Technique: SR-fewshot
+PR: [agento] fix: ZFC level-up schema prerequisites + validation hardening
+
+Raw response: 3406 chars
+Extracted code: 393 chars

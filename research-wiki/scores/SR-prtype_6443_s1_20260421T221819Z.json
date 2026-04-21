@@ -1,0 +1,18 @@
+{
+  "pr": 6443,
+  "technique": "SR-prtype",
+  "naming": 85,
+  "error_handling": 70,
+  "type_safety": 75,
+  "architecture": 80,
+  "test_coverage": 50,
+  "documentation": 85,
+  "total": 73.75,
+  "breakdown": "Helper functions are well-named with clear purposes, and docstrings explain the 'why' (multiclass ASI eligibility). Type hints are present though `Any` appears in the public API which is acceptable. No test code provided in the diff, making coverage assessment impossible. Defensive isinstance guards protect against invalid inputs but no explicit exception handling.",
+  "reasoning": "Naming and documentation are strong (docstrings on helpers, explanatory comments for business logic). Type safety is decent with proper hints and runtime checks. Architecture properly separates concerns with private helpers. The main weakness is absence of test code visible in the diff, and error handling relies on silent returns rather than exceptions or logging.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: Unable to create '/private/tmp/fork_clone/.git/shallow.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened b",
+  "run_session": "autor-SR-prtype-20260421T221739Z",
+  "last_updated": "20260421T221819Z"
+}

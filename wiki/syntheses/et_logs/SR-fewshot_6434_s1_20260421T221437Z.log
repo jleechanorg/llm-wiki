@@ -1,0 +1,7 @@
+# SR-fewshot generation for PR #6434
+Timestamp: 2026-04-21T22:13:33.044594+00:00
+Technique: SR-fewshot
+PR: [agento] refactor: rename prepared.gemini_request → prepared.llm_request
+
+Raw response: 2326 chars
+Extracted code: 1295 chars

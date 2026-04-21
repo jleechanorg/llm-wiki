@@ -1,0 +1,18 @@
+{
+  "pr": 6432,
+  "technique": "SR-multi-exemplar",
+  "naming": 75,
+  "error_handling": 50,
+  "type_safety": 50,
+  "architecture": 70,
+  "test_coverage": 50,
+  "documentation": 60,
+  "total": 58.75,
+  "breakdown": "This PR artifact is a status/trigger document for PR activation, not a code implementation PR. The document correctly identifies KEEP vs DROP items, documents prerequisites, and provides verifiable CI/CI-state checks \u2014 but it is not itself a code change. Naming is partially rated on referenced symbols; dimensions that require code implementation (error handling, type safety, test coverage) score at the floor.",
+  "reasoning": "The artifact is well-structured as a status tracker with clear dependency tracking, but it contains no actual code \u2014 no functions, no error handlers, no type definitions, no test files. The referenced code changes live in prerequisite PRs. Therefore error handling and type safety cannot be assessed (scored at 50 baseline), test coverage is not applicable to this PR content, and documentation quality is limited to internal status text rather than public-facing docstrings or design rationale explanations. The weighted total reflects that roughly half the dimensions have no code to evaluate.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: could not open '/private/tmp/fork_clone/.git/objects/pack/tmp_pack_akLL01' for reading: No such file or directory\nfatal: fetch-pack: invalid index-pack output\n",
+  "run_session": "autor-SR-multi-exemplar-20260421T220819Z",
+  "last_updated": "20260421T220858Z"
+}

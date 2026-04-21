@@ -1,0 +1,7 @@
+# SR-fewshot generation for PR #6438
+Timestamp: 2026-04-21T22:23:00.238135+00:00
+Technique: SR-fewshot
+PR: [antig] chore: explicitly mirror git-header instruction in GEMINI.md
+
+Raw response: 1907 chars
+Extracted code: 782 chars

@@ -1,0 +1,18 @@
+{
+  "pr": 6409,
+  "technique": "SR-prtype",
+  "naming": 55,
+  "error_handling": 20,
+  "type_safety": 30,
+  "architecture": 45,
+  "test_coverage": 25,
+  "documentation": 55,
+  "total": 36.5,
+  "breakdown": "This test relies on MagicMock extensively without type hints, creates anonymous types with `type()` instead of proper dataclasses, and swallows exceptions with bare `pass` which hides debugging information. The nested ConcreteTest class and extensive patching indicate tight coupling. Only one assertion verifies the guard was initialized, leaving the actual behavior untested.",
+  "reasoning": "Error handling is severely lacking - the try/except block catches TypeError/AttributeError and silently passes, which will mask bugs. Type safety is weak with MagicMock everywhere and no TypedDict for mock returns. Test coverage is minimal with just one assertion on mock_guard_init while mocking all real behavior. The anonymous Args class could be a dataclass with type annotations.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: refs/heads/autor-test-20260421221356 cannot be resolved to branch\n",
+  "run_session": "autor-SR-prtype-20260421T221327Z",
+  "last_updated": "20260421T221413Z"
+}

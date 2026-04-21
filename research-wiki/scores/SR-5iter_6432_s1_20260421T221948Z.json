@@ -1,0 +1,18 @@
+{
+  "pr": 6432,
+  "technique": "SR-5iter",
+  "naming": 80,
+  "error_handling": 50,
+  "type_safety": 50,
+  "architecture": 85,
+  "test_coverage": 40,
+  "documentation": 90,
+  "total": 64.0,
+  "breakdown": "This is a process/architecture documentation PR that clearly delineates KEEP vs DROP items with explicit rationale for each architectural decision. Naming is descriptive (level_up_signal, canonicalize_rewards, structured_fields_utils). Error handling and type safety are minimally applicable since no code changes are introduced\u2014the focus is on coordinating prerequisite PRs. Architecture section is particularly strong with clear dependency graph and activation triggers. Test coverage references are indirect (mentions 70 passing tests from other PRs).",
+  "reasoning": "This PR is meta-level documentation/specification rather than implementation code, which skews the rubric application. Documentation quality is excellent with clear KEEP/DROP rationale and dependency graph. Naming correctly references field names (level_up_signal) and module paths. Error handling and type safety are not applicable dimensions here\u2014only error acknowledgment via fail-closed design is documented. Test coverage is referenced but not contributed. Architecture gets high marks for coherent module boundary definition and clear prerequisite chain.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: fatal: could not create work tree dir '/tmp/fork_clone': File exists\n",
+  "run_session": "autor-SR-5iter-20260421T221818Z",
+  "last_updated": "20260421T221948Z"
+}

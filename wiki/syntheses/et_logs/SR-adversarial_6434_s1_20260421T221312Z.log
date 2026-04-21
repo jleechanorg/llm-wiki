@@ -1,0 +1,7 @@
+# SR-adversarial generation for PR #6434
+Timestamp: 2026-04-21T22:11:51.159137+00:00
+Technique: SR-adversarial
+PR: [agento] refactor: rename prepared.gemini_request → prepared.llm_request
+
+Raw response: 6594 chars
+Extracted code: 117 chars

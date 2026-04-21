@@ -1,0 +1,18 @@
+{
+  "pr": 6437,
+  "technique": "SR-metaharness",
+  "naming": 85,
+  "error_handling": 60,
+  "type_safety": 50,
+  "architecture": 80,
+  "test_coverage": 20,
+  "documentation": 90,
+  "total": 62.75,
+  "breakdown": "The shell script demonstrates solid documentation and naming conventions, with a well-structured retry helper function and clear problem/solution headers. However, type safety is inherently limited in bash, and critical bugs exist: the `lines` variable referenced in `retry_with_backoff` is never initialized before use, and there's no test coverage for this production fix itself.",
+  "reasoning": "Self-critique: The script's documentation is exemplary\u2014it explains WHY rather than WHAT, and references the evidence docs. Architecture is clean with a reusable helper. Naming is strong with SCREAMING_SNAKE_CASE constants and descriptive variable names. However, error handling has a critical bug: `lines` is never set before being used in the HTTP code extraction. Type safety gets partial credit as bash has limited typing but the parsing logic is fragile. Test coverage is 0 for the script itself\u2014no unit tests validate the retry logic. The 429/5xx handling logic is solid but incomplete.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: could not open '/private/tmp/fork_clone/.git/objects/pack/tmp_pack_Uxgrlr' for reading: No such file or directory\nfatal: fetch-pack: invalid index-pack output\n",
+  "run_session": "autor-SR-metaharness-20260421T220600Z",
+  "last_updated": "20260421T220743Z"
+}

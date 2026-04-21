@@ -1,0 +1,18 @@
+{
+  "pr": 6437,
+  "technique": "SR-fewshot",
+  "naming": 70,
+  "error_handling": 75,
+  "type_safety": 50,
+  "architecture": 70,
+  "test_coverage": 0,
+  "documentation": 55,
+  "total": 55.0,
+  "breakdown": "The diff provides solid error handling with safe defaults and reasonable naming conventions, but suffers from weak type safety (generic dicts instead of TypedDict/dataclasses) and zero test coverage. Documentation has basic docstrings but lacks explanatory context.",
+  "reasoning": "Functions are named descriptively (_load_smoke_results, parse_recon_response) with appropriate parameter names, though 'raw' and 'result' are generic. Error handling is good with explicit checks for file existence, empty content, and JSON parse errors returning safe defaults. Type hints are present but miss TypedDict/dataclasses for structured data shapes. Architecture cleanly separates I/O from parsing logic. No tests are included in this diff. Docstrings state what functions do but don't explain the design rationale.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: could not open '/private/tmp/fork_clone/.git/objects/pack/tmp_pack_BVxQ8i' for reading: No such file or directory\nfatal: fetch-pack: invalid index-pack output\n",
+  "run_session": "autor-SR-fewshot-20260421T222413Z",
+  "last_updated": "20260421T222517Z"
+}

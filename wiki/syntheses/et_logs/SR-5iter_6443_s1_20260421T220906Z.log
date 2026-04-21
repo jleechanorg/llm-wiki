@@ -1,0 +1,7 @@
+# SR-5iter generation for PR #6443
+Timestamp: 2026-04-21T22:08:17.374079+00:00
+Technique: SR-5iter
+PR: [antig] fix(rewards): add missing _total_character_level helper for multiclass ASI
+
+Raw response: 10101 chars
+Extracted code: 270 chars

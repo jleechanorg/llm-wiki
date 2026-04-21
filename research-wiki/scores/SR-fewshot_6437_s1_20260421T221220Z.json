@@ -1,0 +1,18 @@
+{
+  "pr": 6437,
+  "technique": "SR-fewshot",
+  "naming": 50,
+  "error_handling": 50,
+  "type_safety": 50,
+  "architecture": 50,
+  "test_coverage": 50,
+  "documentation": 85,
+  "total": 53.5,
+  "breakdown": "This PR contains no reviewable code\u2014only binary evidence assets (MP4/GIF/WebVTT), test output snippets, and metadata files. The documentation dimension scores high because adding evidence assets directly fulfills the stated PR purpose, but the other five dimensions receive neutral scores due to the absence of code artifacts to evaluate.",
+  "reasoning": "The PR description explicitly states it is documentation-only ('Evidence assets...Sanitized test output snippets...Orchestration scripts'), yet no actual code diff, scripts, or text content is provided for review. Without code, dimensions 1-5 cannot be assessed as pass/fail, and dimension 6 is limited to inferring the documentation quality from the stated purpose rather than evaluating actual docstrings or comments. A complete code review requires actual source code/text content to analyze.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: could not open '/private/tmp/fork_clone/.git/objects/pack/tmp_pack_Qb32px' for reading: No such file or directory\nfatal: fetch-pack: invalid index-pack output\n",
+  "run_session": "autor-SR-fewshot-20260421T221130Z",
+  "last_updated": "20260421T221220Z"
+}

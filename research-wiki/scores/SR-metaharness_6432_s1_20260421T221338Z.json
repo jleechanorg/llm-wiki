@@ -1,0 +1,18 @@
+{
+  "pr": 6432,
+  "technique": "SR-metaharness",
+  "naming": 95,
+  "error_handling": 85,
+  "type_safety": 88,
+  "architecture": 85,
+  "test_coverage": 40,
+  "documentation": 95,
+  "total": 81.35,
+  "breakdown": "Naming is excellent with descriptive identifiers throughout. Error handling uses a typed custom exception with context and graceful degradation. Type safety is strong with dataclasses, enums, and Optional types. Architecture shows clear separation of concerns with helper functions. Documentation is exceptional with WHY comments explaining design rationale. Test coverage cannot be assessed from the diff.",
+  "reasoning": "Code quality is high across most dimensions. The Why-driven documentation style is exemplary. Minor deductions: code snippet appears incomplete (validated assignment cut off with trailing '='), test coverage not visible in diff, List imported but unused.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: fatal: destination path '/tmp/fork_clone' already exists and is not an empty directory.\n",
+  "run_session": "autor-SR-metaharness-20260421T221153Z",
+  "last_updated": "20260421T221338Z"
+}

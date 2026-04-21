@@ -1,0 +1,18 @@
+{
+  "pr": 6418,
+  "technique": "SR-multi-exemplar",
+  "naming": 40,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 70,
+  "test_coverage": 0,
+  "documentation": 80,
+  "total": 28.0,
+  "breakdown": "This PR is a planning/metadata document rather than executable code, containing only a git revert instruction, a split/park plan in a string literal, and CLAUDE.md update notes. No variables with meaningful names, no runtime code, no types, no tests, and no function documentation\u2014just well-structured markdown documentation of a proposed workflow.",
+  "reasoning": "As a pure documentation artifact, scoring high would be misleading about code quality. Naming gets 40 for generic `CONTENTS`/`ADD_TO_CLAUDE_MD` with descriptive file paths. Error handling and type safety are 0 (no code). Architecture earns 70 for clear lane decomposition in the plan itself. Tests are absent. Documentation scores 80 for clean markdown with checklist, but does not reflect code practices.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: refs/heads/autor-test-20260421221326 cannot be resolved to branch\n",
+  "run_session": "autor-SR-multi-exemplar-20260421T221240Z",
+  "last_updated": "20260421T221337Z"
+}
