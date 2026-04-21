@@ -1,0 +1,7 @@
+# SR-prtype generation for PR #6429
+Timestamp: 2026-04-21T23:33:11.907232+00:00
+Technique: SR-prtype
+PR: feat(loop): add repo-local level-up ZFC loop automation
+
+Raw response: 26170 chars
+Extracted code: 15123 chars

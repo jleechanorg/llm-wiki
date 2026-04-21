@@ -1,0 +1,18 @@
+{
+  "pr": 6443,
+  "technique": "SR-prtype",
+  "naming": 78,
+  "error_handling": 42,
+  "type_safety": 72,
+  "architecture": 85,
+  "test_coverage": 0,
+  "documentation": 88,
+  "total": 60.3,
+  "breakdown": "Core functions have clear, descriptive names and excellent docstrings with examples; however, error handling is weak (silently returns 0 for malformed data), type safety relies on isinstance checks without TypedDict, and no test coverage is visible in this diff.",
+  "reasoning": "The helper function and eligibility logic are well-architected with clear separation of concerns, and documentation is thorough with concrete examples; but critical gaps exist: no try/except for unexpected type structures, no TypedDict for game state, and zero test coverage despite the functional changes. These gaps weaken reliability despite the clean implementation.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-prtype-20260421T234223Z",
+  "last_updated": "20260421T234358Z"
+}

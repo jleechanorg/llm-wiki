@@ -1,0 +1,18 @@
+{
+  "pr": 6429,
+  "technique": "SR-prtype",
+  "naming": 95,
+  "error_handling": 70,
+  "type_safety": 90,
+  "architecture": 85,
+  "test_coverage": 0,
+  "documentation": 85,
+  "total": 71.75,
+  "breakdown": "Strong naming and type safety with good use of enums and dataclasses, but error handling has silent failures in datetime parsing. Architecture is clean with proper separation between data models and storage, but test coverage is completely absent as no tests were provided in the PR. Documentation is thorough for public interfaces but missing for computed properties.",
+  "reasoning": "The code demonstrates solid fundamentals with meaningful naming (ZFCLoopIssue, IssueStatus, etc.), type-safe enums and dataclasses, and coherent module boundaries. However, parse_datetime silently returns None on malformed strings rather than raising, and the save() method appears truncated. Most critically, no test code exists in this PR, making test_coverage zero despite other strengths.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-prtype-20260421T234457Z",
+  "last_updated": "20260421T234600Z"
+}
