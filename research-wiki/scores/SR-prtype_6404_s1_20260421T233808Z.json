@@ -1,0 +1,18 @@
+{
+  "pr": 6404,
+  "technique": "SR-prtype",
+  "naming": 85,
+  "error_handling": 70,
+  "type_safety": 55,
+  "architecture": 85,
+  "test_coverage": 40,
+  "documentation": 50,
+  "total": 65.75,
+  "breakdown": "Naming is clear and consistent with the existing codebase pattern. Type safety is weak with no type annotations on constants. Error handling and test coverage cannot be assessed from constants-only diff\u2014no validation logic or tests included. Documentation lacks explanation of purpose.",
+  "reasoning": "This is a minimal constants-only addition. While naming follows established patterns (prefix with scope), there's no type annotation for the lists, no validation helper functions (error handling gap), and no tests visible. The comment 'Add schema constants' describes what, not why these specific sources or fields are needed. Architecture is appropriate\u2014constants belong in constants.py\u2014but the change is too small to fully evaluate structure.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-prtype-20260421T233732Z",
+  "last_updated": "20260421T233808Z"
+}

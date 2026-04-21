@@ -1,0 +1,18 @@
+{
+  "pr": 6434,
+  "technique": "SR-prtype",
+  "naming": 95,
+  "error_handling": 75,
+  "type_safety": 75,
+  "architecture": 85,
+  "test_coverage": 50,
+  "documentation": 60,
+  "total": 74.75,
+  "breakdown": "The rename from gemini_request to llm_request is a well-executed, consistent refactor that improves naming by generalizing the variable beyond a specific provider, benefiting architecture by reducing coupling to Gemini. No type or error handling regressions, but test coverage and documentation are unverified since neither is mentioned in the diff.",
+  "reasoning": "Score reflects a clean behavior-preserving rename that improves abstraction level (generic LLM rather than Gemini-specific), with 12 references consistently updated. Deductions for test_coverage and documentation since neither is addressed despite being rubric dimensions.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-prtype-20260421T234416Z",
+  "last_updated": "20260421T234447Z"
+}

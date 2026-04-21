@@ -1,0 +1,18 @@
+{
+  "pr": 6434,
+  "technique": "SR-prtype",
+  "naming": 95,
+  "error_handling": 70,
+  "type_safety": 70,
+  "architecture": 90,
+  "test_coverage": 85,
+  "documentation": 60,
+  "total": 79.0,
+  "breakdown": "This refactoring cleanly renames vendor-specific identifiers to vendor-agnostic ones, improving code clarity and future-proofing; the AST-based test verification is a robust approach for catching rename regressions. Error handling and type safety receive baseline scores as no changes were made in these areas, though the rename itself doesn't introduce any regressions.",
+  "reasoning": "The rename from gemini_request to llm_request is semantically correct and makes the codebase more maintainable by using abstraction-appropriate naming; architecture benefits from decoupling naming from specific providers. The PR's mention of AST-based test detection indicates thoughtful test coverage for the refactoring itself.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-prtype-20260421T233225Z",
+  "last_updated": "20260421T233301Z"
+}
