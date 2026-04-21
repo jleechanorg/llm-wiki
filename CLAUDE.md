@@ -203,3 +203,18 @@ Required lifecycle for every autor-generated PR:
 - Interpret "all autor PRs CLOSED" as a failure signal — closed-after-score is the **correct** end state.
 
 **Why:** A CLOSED autor PR with a committed score JSON + log is a successful evaluation. An OPEN autor PR is an incomplete evaluation. A MERGED autor PR is a policy violation. This rule exists because a prior review confused "closed without merge" with "work not done" — autor's goal is the evaluation record, not production code.
+
+---
+
+## Benchmark Reliability Gate (MANDATORY for API-heavy experiments)
+
+Before publishing any benchmark claims (wiki page, PR description, commit message):
+
+1. **Error rate per mode MUST be reported** alongside quality scores
+2. **Error-state outputs must be distinguished** from valid outputs in the rubric (API errors score 0 or 1, not the same as mediocre valid output)
+3. **Summary statistics must be computed by script**, not typed from memory — aggregates must be reproducible from the raw JSON
+4. **If any mode has >5% error rate**: add explicit caveat "results dominated by API errors"; quality superiority claims are excluded
+
+**Why this rule exists**: Chimera benchmark (2026-04-21) published a 3.62-point spread as architectural quality difference — it was actually a 93% single-mode error rate. The rubric scored error text (timeout/529) as 5.0/10, identical to mediocre valid output. Win counts were hand-typed from memory, not derived from JSON.
+
+**Evidence-review pattern**: For any benchmark, run `/es` (evidence standards) to verify: error rates reported, scores derive from JSON, rubric distinguishes errors.
