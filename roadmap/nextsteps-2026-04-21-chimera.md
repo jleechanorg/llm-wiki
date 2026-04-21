@@ -12,10 +12,11 @@
 
 ## Executive summary
 
-- **Outcomes**: Project Chimera benchmarked (15 queries × 3 modes, 281 min, real MiniMax M2.7 API). Evidence review found CRITICAL FAILURES. Codebase pushed to `https://github.com/jleechanorg/autowiki`.
-- **Key findings**: The 3.62-point spread is API reliability (93% single-mode errors), not architectural quality. Win counts fabricated in wiki (was Fixed=4/Tie=6 — actual Fixed=8/Tie=2). Summary scores not derivable from JSON. Rubric scores errors as 5.0.
-- **Fixes applied**: API key removed from code (now uses `MINIMAX_API_KEY` env var). Wiki win counts corrected.
-- **Critical gaps**: Revoke exposed API key (MiniMax dashboard), add retry logic, re-run benchmark before claims are valid.
+- **Outcomes**: Project Chimera benchmarked (15 queries × 3 modes, 281 min, real MiniMax M2.7 API). Evidence review found CRITICAL FAILURES. All infrastructure fixes now committed to `https://github.com/jleechanorg/autowiki` (commit `fb78717`).
+- **Key findings**: The 3.62-point spread is API reliability (93% single-mode errors), not architectural quality. Win counts fabricated in wiki (was Fixed=4/Tie=6 — actual Fixed=8/Tie=2). Claimed averages 4.1/3.8/1.5 are FABRICATED — confirmed by `aggregate_benchmark.py`: actual averages excluding errors are 5.0/5.0/5.46. Rubric scores errors as 5.0.
+- **Fixes applied**: P2 (retry/logic), P3 (rubric calibration), P5 (aggregation script), P6 (evidence bundle) — all committed. API keys removed from all Python files. Hardcoded paths replaced with `__file__`-relative paths.
+- **P4 remaining**: Re-run benchmark with fixed infrastructure (~6h). Requires `MINIMAX_API_KEY` env var set.
+- **P1 (user action)**: Revoke exposed API key at MiniMax dashboard — key was in code and pushed to GitHub.
 - **Repo**: `~/autowiki/` | `https://github.com/jleechanorg/autowiki`
 
 ## Context
@@ -35,46 +36,32 @@ No new beads created this session — all gaps are actionable tasks, not long-ru
 
 ## Work queue
 
-### P1 — Revoke exposed API key (user action required)
-- **Goal**: Revoke `sk-cp-Rg64VbM5FkwJrZkiTYazH3PXihEFIaY4ohU5r-zg-aAyPN60puG0IaWTQ9AJXdbGpzTlqcozbsIEhpquqkg3GA9qTeN-C_SXTJsOSYWQhPuFhIPPuULgs1I` at MiniMax dashboard
-- **Acceptance criteria**: Key no longer functional
-- **Risk**: EMERGENCY — key was pushed to GitHub commit `61b9097` and is now public
+### P1 — Revoke exposed API key ⚠️ USER ACTION REQUIRED
+- **Status**: API key removed from code, but key itself still active
+- **Goal**: Revoke `sk-cp-Rg64...` at MiniMax dashboard
 - **Action**: Go to MiniMax dashboard → API keys → revoke that specific key
 
-### P2 — Add retry logic to MiniMaxClient (~2h)
-- **Goal**: Reduce 33-93% error rates in benchmark
-- **Files**: `~/autowiki/chimera/utils.py`, `~/autowiki/chimera_standalone.py`
-- **Acceptance criteria**: Re-run benchmark achieves <5% error rate per mode
-- **Approach**:
-  1. Add exponential backoff retry (3 attempts) to `MiniMaxClient.messages_create`
-  2. Increase timeout from 120s to 180s
-  3. Add circuit breaker: >3 consecutive failures → pause and retry with backoff
-  4. Log all 529 errors with timestamps for diagnosis
+### P2 — ✅ DONE — Add retry logic to MiniMaxClient
+- **Files**: `~/autowiki/chimera/utils.py` (commit `fb78717`)
+- **Changes**: 3-attempt exp backoff, 180s timeout, circuit breaker, 529 timestamp logging
 
-### P3 — Calibrate rubric for API errors (~1h)
-- **Goal**: API errors currently score 5.0/10 (same as mediocre answer)
-- **Files**: `~/autowiki/chimera/judge.py`
-- **Acceptance criteria**: Error outputs get 0.0 or 1.0 (not 5.0), with explicit error flag in JSON
+### P3 — ✅ DONE — Calibrate rubric for API errors
+- **Files**: `~/autowiki/chimera/judge.py`, `~/autowiki/run_hard_benchmark.py` (commit `fb78717`)
+- **Changes**: `score_single_output()` detects error patterns, returns `{"is_error": true, "overall": 0.0}`, errors excluded from averages
 
-### P4 — Re-run benchmark with fixed infrastructure (~6h)
+### P4 — ⬜ PENDING — Re-run benchmark (~6h)
 - **Goal**: Get valid quality comparison between GNN, Fixed, and Single modes
 - **Files**: `~/autowiki/run_hard_benchmark.py`
-- **Acceptance criteria**:
-  - Error rate < 5% per mode
-  - All 45 pairwise comparisons produce substantive content
-  - Win counts computed by script, not hand-written
-  - Results reproducible from JSON via aggregation script
+- **Acceptance criteria**: Error rate <5% per mode, all 45 pairwise comparisons produce substantive content, win counts computed by script
+- **Note**: All infrastructure fixes are in place (P2+P3). Run after P1 is resolved.
 
-### P5 — Write aggregation script (~1h)
-- **Goal**: Verify or correct the 4.1/3.8/1.5 summary scores from raw JSON
-- **Files**: `~/autowiki/aggregate_benchmark.py` (new)
-- **Acceptance criteria**: Script takes `benchmark_hard_queries.json` → produces mode averages matching what's reported
-- **Note**: If script cannot reproduce 4.1/3.8/1.5, those numbers are fabricated and must be corrected
+### P5 — ✅ DONE — Write aggregation script
+- **Files**: `~/autowiki/aggregate_benchmark.py` (commit `fb78717`)
+- **Finding**: Claimed 4.1/3.8/1.5 are FABRICATED. Actual (excluding errors): single=5.0, fixed=5.0, gnn=5.46
 
-### P6 — Add evidence bundle structure (~2h)
-- **Goal**: Benchmark meets evidence-standards compliance
-- **Files**: `~/autowiki/benchmark_*/metadata.json`, `methodology.md`, `llm_request_responses.jsonl`
-- **Acceptance criteria**: metadata.json with git provenance, SHA-256 checksums, methodology.md
+### P6 — ✅ DONE — Add evidence bundle structure
+- **Files**: `~/autowiki/benchmark_logs/` (commit `fb78717`)
+- **Files created**: `metadata.json`, `methodology.md`, `llm_request_responses.jsonl`, `checksums.sha256`
 
 ## Evidence review findings
 
