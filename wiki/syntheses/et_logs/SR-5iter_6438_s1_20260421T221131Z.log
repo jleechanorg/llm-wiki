@@ -1,0 +1,7 @@
+# SR-5iter generation for PR #6438
+Timestamp: 2026-04-21T22:09:15.459009+00:00
+Technique: SR-5iter
+PR: [antig] chore: explicitly mirror git-header instruction in GEMINI.md
+
+Raw response: 37010 chars
+Extracted code: 5113 chars

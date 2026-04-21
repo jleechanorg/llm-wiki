@@ -1,0 +1,7 @@
+# SR-prtype generation for PR #6438
+Timestamp: 2026-04-21T22:18:30.038722+00:00
+Technique: SR-prtype
+PR: [antig] chore: explicitly mirror git-header instruction in GEMINI.md
+
+Raw response: 1793 chars
+Extracted code: 665 chars

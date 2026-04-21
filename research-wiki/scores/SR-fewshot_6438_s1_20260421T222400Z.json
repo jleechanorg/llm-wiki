@@ -1,0 +1,18 @@
+{
+  "pr": 6438,
+  "technique": "SR-fewshot",
+  "naming": 85,
+  "error_handling": 95,
+  "type_safety": 70,
+  "architecture": 90,
+  "test_coverage": 50,
+  "documentation": 100,
+  "total": 81.25,
+  "breakdown": "This documentation change significantly improves instruction clarity by adding explicit error handling (skip silently, never fail), step-by-step procedure breakdown, and conditional logic. The before version was vague ('Run the /header command') while the after version defines precise path resolution, existence checks, and failure modes. Lacks test coverage because it's a docs change with no associated code tests.",
+  "reasoning": "Since this is documentation-only (not code), dimensions like type safety, architecture, and test coverage receive neutral-to-low scores as the change doesn't demonstrate those qualities. The strongest gains are in error handling (adding 'skip silently' and 'never fail' policies) and documentation (replacing a single vague instruction with a detailed, bullet-form procedure). Naming is high because instruction names like HEADER_SCRIPT are descriptive and self-documenting.",
+  "test_passed": 1,
+  "test_failed": 0,
+  "test_output": "workflow dispatch: 1\nworkflow conclusion: success\n | ",
+  "run_session": "autor-SR-fewshot-20260421T222258Z",
+  "last_updated": "20260421T222400Z"
+}

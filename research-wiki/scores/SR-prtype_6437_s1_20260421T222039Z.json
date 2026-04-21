@@ -1,0 +1,18 @@
+{
+  "pr": 6437,
+  "technique": "SR-prtype",
+  "naming": 0,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 0,
+  "test_coverage": 0,
+  "documentation": 0,
+  "total": 0.0,
+  "breakdown": "No code diff was provided for review\u2014the 'Code' section contains only a single character ('t'), making all six dimensions impossible to evaluate.",
+  "reasoning": "This PR diff is empty or malformed. Without actual code to assess, I cannot evaluate naming conventions, error handling patterns, type safety, architecture, test coverage, or documentation quality. The PR title references docs/evidence with MCP and smoke testing, but the diff itself is missing entirely.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: could not open '/private/tmp/fork_clone/.git/objects/pack/tmp_pack_lOFmV6' for reading: No such file or directory\nfatal: fetch-pack: invalid index-pack output\n",
+  "run_session": "autor-SR-prtype-20260421T221948Z",
+  "last_updated": "20260421T222039Z"
+}

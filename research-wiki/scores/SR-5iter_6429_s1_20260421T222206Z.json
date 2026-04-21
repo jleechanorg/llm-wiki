@@ -1,0 +1,18 @@
+{
+  "pr": 6429,
+  "technique": "SR-5iter",
+  "naming": 25,
+  "error_handling": 30,
+  "type_safety": 25,
+  "architecture": 25,
+  "test_coverage": 15,
+  "documentation": 20,
+  "total": 24.0,
+  "breakdown": "PR provides only meta-commentary about issues found in a diff without showing actual code changes. No functions, classes, or implementation files are present to evaluate. The 'code' is essentially a TODO list describing what should be fixed rather than the fixes themselves.",
+  "reasoning": "No runnable code exists in this diff\u2014only comments describing that code files (commands, skills, scripts) are missing from review. Cannot assess naming when no symbols exist. Cannot verify error handling when no try/except blocks are shown. Cannot check type safety when no type annotations appear. Cannot evaluate architecture when module boundaries aren't visible. Cannot review test coverage with zero test files present. Documentation score reflects only comments describing problems, not actual docstrings on actual functions.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nerror: could not lock config file /private/tmp/fork_clone/.git/config: No such file or directory\nfatal: could not set 'core.repositoryformatversion' to '0'\n",
+  "run_session": "autor-SR-5iter-20260421T221956Z",
+  "last_updated": "20260421T222206Z"
+}

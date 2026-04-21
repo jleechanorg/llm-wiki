@@ -1,0 +1,18 @@
+{
+  "pr": 6409,
+  "technique": "SR-multi-exemplar",
+  "naming": 68,
+  "error_handling": 60,
+  "type_safety": 40,
+  "architecture": 65,
+  "test_coverage": 55,
+  "documentation": 72,
+  "total": 58.65,
+  "breakdown": "The test method has a descriptive name and clear docstring explaining intent, but relies on dynamic type creation without type hints and tests implementation details via patching rather than observable behavior. No type annotations, generic class name 'ConcreteTest', and limited assertions beyond mocking.",
+  "reasoning": "This is a single test method excerpt from a larger test suite. It demonstrates reasonable use of mocking but lacks type safety (no hints, uses `type()` for dynamic args), has a generic subclass name, and verifies internal method calls rather than actual behavior outcomes. The docstring is helpful but the code could benefit from dataclass-based fixtures and typed assertions.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nerror: could not lock config file /private/tmp/fork_clone/.git/config: No such file or directory\nfatal: could not set 'core.repositoryformatversion' to '0'\n",
+  "run_session": "autor-SR-multi-exemplar-20260421T221346Z",
+  "last_updated": "20260421T221441Z"
+}

@@ -1,0 +1,18 @@
+{
+  "pr": 6420,
+  "technique": "SR-multi-exemplar",
+  "naming": 82,
+  "error_handling": 72,
+  "type_safety": 68,
+  "architecture": 88,
+  "test_coverage": 25,
+  "documentation": 88,
+  "total": 70.45,
+  "breakdown": "Code demonstrates strong architecture with clear layer boundaries and responsibility contracts, plus excellent docstrings explaining WHY decisions were made. Type safety is moderate\u2014uses Optional/Any appropriately but missing TypedDict for data shapes; yield_fn uses untyped callable. Error handling is defensive but catches broadly. Critical gap: no test coverage visible in diff, severely impacting the score.",
+  "reasoning": "Naming is clear with descriptive variables and functions; the type parameter shadowing in StreamEvent.__init__ is a minor issue. Error handling is mostly sound but incomplete (truncated code shows try without visible except). Type annotations are present but miss opportunities for TypedDict and more specific callable types. Architecture is the strongest dimension with explicit layer contracts and module boundaries. Test coverage is the major weakness\u2014no tests visible for the actual changes. Documentation is excellent with module-level responsibility contract and comments explaining design decisions.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: could not open '/private/tmp/fork_clone/.git/objects/pack/tmp_pack_1ANv7x' for reading: No such file or directory\nfatal: fetch-pack: invalid index-pack output\n",
+  "run_session": "autor-SR-multi-exemplar-20260421T221128Z",
+  "last_updated": "20260421T221230Z"
+}

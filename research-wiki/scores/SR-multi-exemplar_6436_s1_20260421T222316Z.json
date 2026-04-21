@@ -1,0 +1,18 @@
+{
+  "pr": 6436,
+  "technique": "SR-multi-exemplar",
+  "naming": 0,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 0,
+  "test_coverage": 0,
+  "documentation": 0,
+  "total": 0.0,
+  "breakdown": "No code was provided in the diff\u2014only error messages showing pip dependency failures. All six dimensions receive 0 as there is nothing to evaluate for naming conventions, exception handling, type safety, architectural coherence, test assertions, or documentation.",
+  "reasoning": "This appears to be test failure logs rather than a code diff. Without actual source code, tests, or documentation content, I cannot assess any dimension. A valid review requires the actual code changes.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: could not open '/private/tmp/fork_clone/.git/objects/pack/tmp_pack_RMurva' for reading: No such file or directory\nfatal: fetch-pack: invalid index-pack output\n",
+  "run_session": "autor-SR-multi-exemplar-20260421T222152Z",
+  "last_updated": "20260421T222316Z"
+}

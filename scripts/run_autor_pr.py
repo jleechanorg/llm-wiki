@@ -157,7 +157,7 @@ Example 1 explanation: Added type hints, validated input is dict list, returned 
 EXAMPLE 2 (error handling focus):
 ```python
 # Before: json.loads(raw)
-# After: try: return json.loads(raw) except json.JSONDecodeError: return {}
+# After: try: return json.loads(raw) except json.JSONDecodeError: return {{}}
 ```
 Example 2 explanation: Wrapped in try/except, returned safe default on parse failure.
 

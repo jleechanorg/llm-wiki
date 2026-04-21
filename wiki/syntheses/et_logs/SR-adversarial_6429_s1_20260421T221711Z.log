@@ -1,0 +1,7 @@
+# SR-adversarial generation for PR #6429
+Timestamp: 2026-04-21T22:15:20.730801+00:00
+Technique: SR-adversarial
+PR: feat(loop): add repo-local level-up ZFC loop automation
+
+Raw response: 24816 chars
+Extracted code: 12124 chars

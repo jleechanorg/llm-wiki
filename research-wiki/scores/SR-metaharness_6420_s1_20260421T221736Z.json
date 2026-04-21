@@ -1,0 +1,18 @@
+{
+  "pr": 6420,
+  "technique": "SR-metaharness",
+  "naming": 78,
+  "error_handling": 58,
+  "type_safety": 52,
+  "architecture": 65,
+  "test_coverage": 0,
+  "documentation": 88,
+  "total": 55.5,
+  "breakdown": "Naming and documentation are strong with clear, descriptive names and comprehensive docstrings explaining ownership boundaries. Type safety relies on hasattr/getattr patterns rather than proper protocols or TypedDict. Error handling is present but catches all exceptions generically. No test coverage is visible in the diff. The architecture correctly implements single-source early metadata ownership, but the truncated diff raises questions about completeness.",
+  "reasoning": "The PR demonstrates good architectural thinking with single-source-of-truth principles and clear responsibility boundaries documented in the module header. However, type safety is compromised by extensive hasattr/getattr usage, error handling lacks typed exceptions, and critically no tests are visible despite claiming testability improvements. The incomplete `project_level_up_ui` wrapper function (ends with `l`) suggests the diff was truncated.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: could not open '/private/tmp/fork_clone/.git/objects/pack/tmp_pack_HZXYSG' for reading: No such file or directory\nfatal: fetch-pack: invalid index-pack output\n",
+  "run_session": "autor-SR-metaharness-20260421T221606Z",
+  "last_updated": "20260421T221736Z"
+}

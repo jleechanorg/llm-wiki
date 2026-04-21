@@ -1,0 +1,7 @@
+# SR-multi-exemplar generation for PR #6434
+Timestamp: 2026-04-21T22:06:53.177096+00:00
+Technique: SR-multi-exemplar
+PR: [agento] refactor: rename prepared.gemini_request → prepared.llm_request
+
+Raw response: 4608 chars
+Extracted code: 202 chars

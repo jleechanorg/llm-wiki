@@ -1,0 +1,18 @@
+{
+  "pr": 6438,
+  "technique": "SR-multi-exemplar",
+  "naming": 85,
+  "error_handling": 100,
+  "type_safety": 100,
+  "architecture": 85,
+  "test_coverage": 100,
+  "documentation": 90,
+  "total": 93.75,
+  "breakdown": "This is a documentation-only chore PR that mirrors existing git-header instructions into a protocol document\u2014appropriate for its purpose. The markdown is well-structured with clear section headers and explicit imperative instructions. Since no code was modified, error handling, type safety, and test coverage dimensions are not applicable and receive neutral-high scores. The naming and architecture scores reflect the protocol's clarity and structure.",
+  "reasoning": "This PR contains only documentation (markdown) with no code changes. The markdown is clear and well-organized with two numbered instructions explaining mandatory context verification and branch state output. Since this is a documentation chore without code, traditional code quality metrics (naming, error handling, type safety, tests) are largely inapplicable. The documentation quality is strong\u2014clear headings, explicit steps, and consistent formatting\u2014but the content itself is minimal (just two instructions repeated from elsewhere).",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: could not open '/private/tmp/fork_clone/.git/objects/pack/tmp_pack_C6eloL' for reading: No such file or directory\nfatal: fetch-pack: invalid index-pack output\n",
+  "run_session": "autor-SR-multi-exemplar-20260421T221823Z",
+  "last_updated": "20260421T221905Z"
+}

@@ -1,0 +1,7 @@
+# SR-multi-exemplar generation for PR #6420
+Timestamp: 2026-04-21T22:11:29.663057+00:00
+Technique: SR-multi-exemplar
+PR: [agento] fix: ZFC level-up schema prerequisites + validation hardening
+
+Raw response: 8000 chars
+Extracted code: 6406 chars

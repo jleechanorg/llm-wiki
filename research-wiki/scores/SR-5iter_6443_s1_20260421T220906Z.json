@@ -1,0 +1,18 @@
+{
+  "pr": 6443,
+  "technique": "SR-5iter",
+  "naming": 85,
+  "error_handling": 70,
+  "type_safety": 85,
+  "architecture": 80,
+  "test_coverage": 0,
+  "documentation": 90,
+  "total": 68.75,
+  "breakdown": "The function has clear naming and a useful docstring explaining purpose, but lacks any test coverage for the change and the silent type filtering via isinstance could mask data integrity issues. The None handling is adequate but could be more defensive.",
+  "reasoning": "Naming is descriptive and purposeful. Type hints are present and correct. Documentation explains WHY (multiclass ASI eligibility) rather than just WHAT. However, no tests are visible in the diff, the isinstance filter silently discards invalid types rather than raising on bad input, and there's minimal architectural context to evaluate.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: could not open '/private/tmp/fork_clone/.git/objects/pack/tmp_pack_zgqrJS' for reading: No such file or directory\nfatal: fetch-pack: invalid index-pack output\n",
+  "run_session": "autor-SR-5iter-20260421T220816Z",
+  "last_updated": "20260421T220906Z"
+}

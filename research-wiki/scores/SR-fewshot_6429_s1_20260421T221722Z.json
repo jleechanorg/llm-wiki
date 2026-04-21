@@ -1,0 +1,18 @@
+{
+  "pr": 6429,
+  "technique": "SR-fewshot",
+  "naming": 90,
+  "error_handling": 80,
+  "type_safety": 75,
+  "architecture": 85,
+  "test_coverage": 30,
+  "documentation": 80,
+  "total": 74.0,
+  "breakdown": "The code demonstrates solid naming conventions and architecture with well-organized sections, though it suffers from extensive TODOs and placeholder implementations that leave core functionality unimplemented. Type safety is moderate with no `any` escaping but lacking TypedDict/dataclass definitions for data shapes. Test coverage is critically low with no tests present despite the TODO-based implementation.",
+  "reasoning": "Naming is strong with descriptive constants and function names. Error handling properly catches exceptions and returns booleans for callers, but lacks typed custom exceptions. Type hints are present throughout without `any`, but data structures like 'findings' dict and PR audit returns use generic `dict` rather than TypedDict. Architecture is clean with good separation between I/O and logic. Documentation covers public functions adequately, but test coverage is absent and major features are stubs.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nUpdating files:  29% (1327/4502)\nUpdating files:  30% (1351/4502)\nUpdating files:  31% (1396/4502)\nUpdating files:  32% (1441/4502)\nUpdating files:  33% (1486/4502)\nU",
+  "run_session": "autor-SR-fewshot-20260421T221609Z",
+  "last_updated": "20260421T221722Z"
+}

@@ -1,0 +1,18 @@
+{
+  "pr": 6434,
+  "technique": "SR-multi-exemplar",
+  "naming": 85,
+  "error_handling": 50,
+  "type_safety": 50,
+  "architecture": 80,
+  "test_coverage": 30,
+  "documentation": 40,
+  "total": 57.25,
+  "breakdown": "This is a minimal rename refactor that improves naming accuracy (gemini_request \u2192 llm_request) and aligns the dataclass with its provider-agnostic role, but the diff provides insufficient context to evaluate test coverage or documentation changes. Type safety remains unchanged (Any type persists), and error handling is unaffected.",
+  "reasoning": "The rename demonstrates good judgment by using a generic name appropriate for a shared LLM abstraction rather than a provider-specific one. However, the dataclass field still uses `Any` with a commented-out proper type hint, suggesting incomplete type safety work. No test files or documentation changes are visible in the diff, making it impossible to verify that 12 reference sites were updated or that tests cover the rename.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: could not open '/private/tmp/fork_clone/.git/objects/pack/tmp_pack_gMjZ05' for reading: No such file or directory\nfatal: fetch-pack: invalid index-pack output\n",
+  "run_session": "autor-SR-multi-exemplar-20260421T222329Z",
+  "last_updated": "20260421T222458Z"
+}

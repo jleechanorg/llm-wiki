@@ -1,0 +1,7 @@
+# SR-fewshot generation for PR #6444
+Timestamp: 2026-04-21T22:21:01.388579+00:00
+Technique: SR-fewshot
+PR: [antig] feat(prompts): thread-safe schema cache circuit breaker
+
+Raw response: 2742 chars
+Extracted code: 1528 chars
