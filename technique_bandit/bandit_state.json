@@ -1,7 +1,7 @@
 {
   "techniques": {
     "SR": {
-      "n": 16,
+      "n": 17,
       "scores": [
         77,
         89,
@@ -18,9 +18,10 @@
         97.5,
         59.5,
         77.25,
-        76.5
+        76.5,
+        13.25
       ],
-      "mean": 80.934375,
+      "mean": 76.95294117647059,
       "last_updated": "2026-04-18T00:09:15.717211+00:00",
       "notes": "SR matched corpus batch: MiniMax-M2.5 rubric scoring"
     },
@@ -1898,6 +1899,19 @@
           "run_session": "autor-SR-20260421T185756Z",
           "technique": "SR",
           "last_updated": "20260421T185959Z"
+        },
+        {
+          "total": 13.25,
+          "naming": 25,
+          "error_handling": 10,
+          "type_safety": 10,
+          "architecture": 20,
+          "test_coverage": 0,
+          "documentation": 15,
+          "breakdown": "This submission contains only issue metadata in JSONL format\u2014no actual code changes, functions, or implementations to evaluate. The file consists of deleted/archived issue records with generic field names (id, title, status) typical of data serialization formats. There are no tests, no error handling logic, no type annotations, and no architectural patterns present.",
+          "run_session": "autor-SR-20260421T191729Z",
+          "technique": "SR",
+          "last_updated": "20260421T191920Z"
         }
       ]
     }

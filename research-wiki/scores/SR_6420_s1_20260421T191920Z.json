@@ -1,0 +1,15 @@
+{
+  "pr": 6420,
+  "technique": "SR",
+  "naming": 25,
+  "error_handling": 10,
+  "type_safety": 10,
+  "architecture": 20,
+  "test_coverage": 0,
+  "documentation": 15,
+  "total": 13.25,
+  "breakdown": "This submission contains only issue metadata in JSONL format\u2014no actual code changes, functions, or implementations to evaluate. The file consists of deleted/archived issue records with generic field names (id, title, status) typical of data serialization formats. There are no tests, no error handling logic, no type annotations, and no architectural patterns present.",
+  "reasoning": "This is a data file (.beads/issues.jsonl), not a code diff. It cannot be scored meaningfully against code quality dimensions because it contains no executable code, functions, classes, or logic. The 'description' fields hint at the actual work but are themselves just metadata about issues (e.g., 'PR 6420 M0 rewrite salvage'). A valid PR diff would include Python/code files with the actual fix for 'ZFC level-up schema prerequisites + validation hardening'. For a proper review, I'd need the actual implementation files (e.g., world_logic.py changes, schema validation code, test files).",
+  "run_session": "autor-SR-20260421T191729Z",
+  "last_updated": "20260421T191920Z"
+}
