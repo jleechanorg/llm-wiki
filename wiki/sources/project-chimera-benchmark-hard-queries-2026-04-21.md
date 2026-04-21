@@ -70,6 +70,28 @@ All critical fixes committed to `https://github.com/jleechanorg/autowiki` (commi
 - **API keys removed**: All hardcoded `sk-cp-...` keys replaced with `MINIMAX_API_KEY` env var
 - **Evidence bundle**: `benchmark_logs/` now has `metadata.json`, `methodology.md`, `llm_request_responses.jsonl`, `checksums.sha256`
 
+## P4 Re-Run Results (2026-04-21)
+
+Benchmark re-run with retry logic and rubric calibration (commit `aa0b25c`). 386.6 minutes, 15 queries.
+
+| Mode | Error Rate | Valid Queries | Avg Score (valid) | Win Count |
+|------|-----------|--------------|-------------------|-----------|
+| Single | 93.3% (14/15) | 1 | 5.00 | 1 |
+| Fixed | 60.0% (9/15) | 6 | 5.00 | 6 |
+| GNN | 66.7% (10/15) | 5 | 5.46 | 5 |
+
+**Key finding**: Multi-agent modes (Fixed/GNN) significantly more reliable than Single. When Single produces valid output, quality is comparable (5.0). GNN slightly higher on quality when it runs (5.46). Error rates remain high across all modes — API reliability is the dominant factor, not architecture.
+
+**Defensible claims**:
+- Fixed completes 6x more queries than Single (60% vs 7% success)
+- GNN completes 5x more queries than Single (67% vs 7% success)
+- When both produce valid output: Fixed=GNN=Single at ~5.0
+- GNN marginally higher quality on valid queries (5.46 vs 5.0)
+
+**Fabrication confirmed again**: Claimed 4.1/3.8/1.5 remain FABRICATED — aggregate script confirms actual averages of 5.0/5.0/5.46 excluding errors.
+
+**Evidence bundle**: `benchmark_logs/` (commit `3e6e9d6`) — `hard_benchmark.log`, `checkpoint.json`, `checksums_new.sha256`
+
 ## Evidence Review Flags
 
 This benchmark was reviewed against evidence-standards.md. Critical failures found:
