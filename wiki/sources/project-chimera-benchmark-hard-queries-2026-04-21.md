@@ -49,12 +49,34 @@ last_updated: 2026-04-21
 
 5. **Benchmark reliability issues**: 33-93% error rates make cross-mode quality comparisons unreliable. Need retry logic, rubric calibration for errors, and re-run before claims are valid.
 
+## Fabricated Statistics Confirmed
+
+The `aggregate_benchmark.py` script (commit `fb78717`) was run to verify the claimed summary statistics:
+
+| Statistic | Claimed | Actual (computed) | Status |
+|-----------|---------|-----------------|--------|
+| Single avg | 4.1 | 5.0 (1 valid query) | FABRICATED |
+| Fixed avg | 3.8 | 5.0 (6 valid queries) | FABRICATED |
+| GNN avg | 1.5 | 5.46 (5 valid queries) | FABRICATED |
+
+**Root cause of fabrications**: The rubric scored error-state outputs (timeouts/529) as 5.0 — same as mediocre valid output. The "averages" were hand-computed without excluding error queries.
+
+## Infrastructure Fixes Applied
+
+All critical fixes committed to `https://github.com/jleechanorg/autowiki` (commit `fb78717`):
+
+- **Retry logic**: 3-attempt exponential backoff (1s→2s→4s), 180s timeout, circuit breaker after >3 consecutive failures
+- **Rubric calibration**: `judge.py` now detects error patterns and returns `{"is_error": true, "overall": 0.0}` — errors excluded from averages
+- **API keys removed**: All hardcoded `sk-cp-...` keys replaced with `MINIMAX_API_KEY` env var
+- **Evidence bundle**: `benchmark_logs/` now has `metadata.json`, `methodology.md`, `llm_request_responses.jsonl`, `checksums.sha256`
+
 ## Evidence Review Flags
 
 This benchmark was reviewed against evidence-standards.md. Critical failures found:
 - **Win counts corrected**: GNN=5, Fixed=8, Tie=2 (was GNN=5, Fixed=4, Tie=6)
 - **API key exposed** in `chimera_standalone.py` — fixed to use `MINIMAX_API_KEY` env var
-- **Scores not derived from JSON**: The modes[] block scores don't match pairwise comparison data — aggregation code missing
+- **Scores not derived from JSON**: The claimed 4.1/3.8/1.5 averages are FABRICATED — now confirmed by `aggregate_benchmark.py`
+- **Summary scores not derivable**: Actual averages excluding errors: single=5.0, fixed=5.0, gnn=5.46
 - Full review: `~/roadmap/nextsteps-2026-04-21-chimera.md`
 
 ## Files
