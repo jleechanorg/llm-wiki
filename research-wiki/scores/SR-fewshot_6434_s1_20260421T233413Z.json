@@ -1,0 +1,18 @@
+{
+  "pr": 6434,
+  "technique": "SR-fewshot",
+  "naming": 85,
+  "error_handling": 50,
+  "type_safety": 50,
+  "architecture": 80,
+  "test_coverage": 50,
+  "documentation": 50,
+  "total": 61.25,
+  "breakdown": "The rename from gemini_request to llm_request improves naming by generalizing a vendor-specific term into an abstraction-appropriate name, indicating better architecture. However, since no code changes are displayed and the PR states the work is already done, error handling, type safety, test coverage, and documentation cannot be evaluated from this diff.",
+  "reasoning": "A simple rename operation with no visible code changes limits evaluation to naming and architectural intent. The shift from 'gemini' to 'llm' suggests decoupling from specific vendors, which is architecturally sound, but without actual diff context, scoring must remain conservative across dimensions requiring code inspection.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-fewshot-20260421T233322Z",
+  "last_updated": "20260421T233413Z"
+}
