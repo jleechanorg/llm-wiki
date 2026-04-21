@@ -36,14 +36,16 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import sys
 from itertools import combinations
 from pathlib import Path
 from typing import Any
 
-DEFAULT_STATE = Path("technique_bandit/bandit_state.json")
+DEFAULT_STATE = Path(os.path.expanduser("~/.claude/projects/-Users-jleechan-llm-wiki/technique_bandit/bandit_state.json"))
 DEFAULT_MIN_MATCHED = 5
 DEFAULT_MIN_REVERSALS = 2
+DEFAULT_MIN_PER_TECHNIQUE_N = 30
 
 
 def load_state(path: Path) -> dict[str, Any]:
@@ -136,18 +138,30 @@ def evaluate(
     state: dict[str, Any],
     min_matched: int,
     min_reversals: int,
+    min_per_technique_n: int,
 ) -> dict[str, Any]:
     matched = build_matched_table(state)
     reversals = count_reversals(matched)
     matched_n = len(matched)
     techniques_in_state = sorted((state.get("techniques") or {}).keys())
-    passed = matched_n >= min_matched and reversals >= min_reversals
+
+    # Per-technique n check
+    techniques_state = state.get("techniques", {})
+    per_technique_n = {
+        t: len(techniques_state.get(t, {}).get("observations", []))
+        for t in techniques_in_state
+    }
+    all_sufficient = all(n >= min_per_technique_n for n in per_technique_n.values())
+    passed = matched_n >= min_matched and reversals >= min_reversals and all_sufficient
+
     return {
         "passed": passed,
         "matched_prs": matched_n,
         "min_matched_required": min_matched,
         "reversals": reversals,
         "min_reversals_required": min_reversals,
+        "min_per_technique_n_required": min_per_technique_n,
+        "per_technique_n": per_technique_n,
         "matched_detail": matched,
         "techniques_in_state": techniques_in_state,
     }
@@ -166,27 +180,36 @@ def format_report(report: dict[str, Any]) -> str:
         f"(required ≥ {report['min_reversals_required']})"
     )
     lines.append(
+        f"  per-technique n: {report.get('min_per_technique_n_required', '?')}+ "
+        f"(required per technique)"
+    )
+    pt_n = report.get("per_technique_n", {})
+    if pt_n:
+        detail = " | ".join(f"{t}:{n}" for t, n in sorted(pt_n.items()))
+        lines.append(f"    {detail}")
+    lines.append(
         f"  techniques in bandit state: {report['techniques_in_state'] or '(none)'}"
     )
     if not report["passed"]:
         lines.append("")
-        lines.append("Router work is BLOCKED until:")
+        lines.append("Router work is BLOCKED until ALL of:")
         lines.append(
-            "  1. At least "
-            f"{report['min_matched_required']} PRs are scored by ALL tracked "
-            "techniques (matched evaluations recorded in rubric_scores with"
-            ' an explicit "technique" field).'
+            f"  1. Each technique has ≥{report['min_per_technique_n_required']} observations "
+            "(current: " + ", ".join(f"{t}={n}" for t, n in sorted(pt_n.items())) + ")"
         )
         lines.append(
-            "  2. Those matched scores contain at least "
-            f"{report['min_reversals_required']} ranking reversals across "
-            "technique pairs."
+            "  2. At least "
+            f"{report['min_matched_required']} PRs are scored by ALL tracked "
+            "techniques."
+        )
+        lines.append(
+            "  3. Those matched scores contain at least "
+            f"{report['min_reversals_required']} ranking reversals."
         )
         lines.append("")
         lines.append(
             "Without ranking reversals, a router cannot beat 'always pick the"
-            " top-mean technique'. Build the matched corpus first; then this"
-            " gate unblocks."
+            " top-mean technique'."
         )
     return "\n".join(lines)
 
@@ -196,6 +219,12 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--state", type=Path, default=DEFAULT_STATE)
     parser.add_argument("--min-matched", type=int, default=DEFAULT_MIN_MATCHED)
     parser.add_argument("--min-reversals", type=int, default=DEFAULT_MIN_REVERSALS)
+    parser.add_argument(
+        "--min-per-technique-n", type=int, default=DEFAULT_MIN_PER_TECHNIQUE_N,
+        help=f"Minimum observations per technique (default: {DEFAULT_MIN_PER_TECHNIQUE_N}). "
+             "Statistical power: n30 needed to detect delta=10 at 80 power "
+             "given sigma approx 20 score variance."
+    )
     parser.add_argument("--json", action="store_true")
     args = parser.parse_args(argv)
 
@@ -208,7 +237,9 @@ def main(argv: list[str] | None = None) -> int:
         print(f"ERROR: malformed bandit state JSON: {exc}", file=sys.stderr)
         return 2
 
-    report = evaluate(state, args.min_matched, args.min_reversals)
+    report = evaluate(
+        state, args.min_matched, args.min_reversals, args.min_per_technique_n
+    )
     if args.json:
         print(json.dumps(report, indent=2, sort_keys=True))
     else:
