@@ -1,0 +1,466 @@
+#!/usr/bin/env python3
+"""
+Autor PR runner — creates real draft PRs on worldarchitect.ai using MiniMax.
+
+Usage:
+    python scripts/run_autor_pr.py --technique SR --pr-number 6420
+    python scripts/run_autor_pr.py --technique ET --pr-number 6420
+    python scripts/run_autor_pr.py --technique PRM --pr-number 6420
+
+Lifecycle (per autor PR):
+  1. Fetch diff of target PR
+  2. Generate fix using specified technique via MiniMax-M2.7
+  3. Open draft PR via autor_pr.open_draft_autor_pr()
+  4. Score generated diff against 6-dim rubric
+  5. Write score JSON
+  6. Update bandit state
+  7. Close via autor_pr.close_after_score() — NEVER merge
+
+This is the script that /autor-n15-loop should invoke.
+"""
+import argparse
+import json
+import os
+import subprocess
+import sys
+import time
+from datetime import datetime, timezone
+from pathlib import Path
+
+import anthropic
+
+# Paths
+BANDIT_PATH = Path("technique_bandit/bandit_state.json")
+SCORES_DIR = Path("research-wiki/scores")
+LOG_DIR = Path("wiki/syntheses/et_logs")
+
+REPO_OWNER = "jleechanorg"
+REPO_NAME = "worldarchitect.ai"
+
+RUBRIC_WEIGHTS = {
+    "naming": 0.15,
+    "error_handling": 0.20,
+    "type_safety": 0.20,
+    "architecture": 0.20,
+    "test_coverage": 0.15,
+    "documentation": 0.10,
+}
+
+SIX_DIM_RUBRIC = """Score the following PR diff against these 6 dimensions:
+
+1. **Naming (15%)** — Variables, functions, files named for what they do. No generic names like data, temp, foo.
+2. **Error Handling (20%)** — Exceptions caught and handled, not swallowed. Typed errors where beneficial.
+3. **Type Safety (20%)** — No `any` escaping critical paths. TypedDict/dataclasses for data shapes. Generics where appropriate.
+4. **Architecture (20%)** — Coherent module boundaries. No circular imports. Business logic separated from I/O.
+5. **Test Coverage (15%)** — Tests cover the actual changes. No empty test files or stub assertions.
+6. **Documentation (10%)** — Docstrings on public functions. Comments explain WHY not WHAT. No commented-out code.
+
+Score each dimension 0-100. Then compute weighted total:
+total = naming*0.15 + error_handling*0.20 + type_safety*0.20 + architecture*0.20 + test_coverage*0.15 + documentation*0.10
+
+Return JSON:
+{
+  "naming": <0-100>,
+  "error_handling": <0-100>,
+  "type_safety": <0-100>,
+  "architecture": <0-100>,
+  "test_coverage": <0-100>,
+  "documentation": <0-100>,
+  "total": <weighted_sum 0-100>,
+  "breakdown": "<2-3 sentence summary>",
+  "reasoning": "<brief self-critique>"
+}"""
+
+TECHNIQUE_PROMPTS = {
+    "SR": {
+        "system": "You are an expert code reviewer and fixer. Generate production-ready code fixes for GitHub PRs.",
+        "generation": """Analyze this PR and generate a complete, production-ready fix.
+
+PR Title: {title}
+PR Description: {body}
+
+Diff:
+{diff}
+
+Generate a complete fix. Then do 2 self-refinement rounds: review your fix against code quality standards and improve it.
+Output the final fixed code in a ```python``` block.""",
+    },
+    "ET": {
+        "system": "You are an expert code reviewer. Use extended thinking to deeply analyze and fix this PR.",
+        "generation": """Think step by step about this PR. Consider the problem from multiple angles before generating the fix.
+
+PR Title: {title}
+PR Description: {body}
+
+Diff:
+{diff}
+
+Think about:
+1. What is the root cause of the issue?
+2. What are the edge cases and failure modes?
+3. How does this interact with existing code?
+4. What patterns from the codebase should be followed?
+
+Then generate a complete fix. Output your analysis first, then the final code in a ```python``` block.""",
+    },
+    "PRM": {
+        "system": "You are an expert code reviewer. Generate a fix, then verify it against the quality rubric.",
+        "generation": """Generate a production-ready fix for this PR, then self-score it against the quality rubric.
+
+PR Title: {title}
+PR Description: {body}
+
+Diff:
+{diff}
+
+First, generate the fix. Then score your own fix:
+- Does it have clear naming?
+- Does it handle errors properly?
+- Is it type-safe?
+- Does it follow the architecture patterns?
+- Does it have test coverage?
+- Is it documented?
+
+Improve any low-scoring dimensions. Output the final code in a ```python``` block.""",
+    },
+}
+
+
+def call_minimax(prompt: str, system_prompt: str, max_tokens: int = 8192) -> str:
+    """Call MiniMax via Anthropic SDK."""
+    client = anthropic.Anthropic(
+        base_url="https://api.minimax.io/anthropic",
+        api_key=os.environ.get("MINIMAX_API_KEY", ""),
+    )
+    response = client.messages.create(
+        model="MiniMax-M2.7",
+        max_tokens=max_tokens,
+        system=system_prompt,
+        messages=[{"role": "user", "content": prompt}],
+    )
+    for block in response.content:
+        if block.type == "text":
+            return block.text
+    raise RuntimeError(f"No text block. Types: {[b.type for b in response.content]}")
+
+
+def get_pr_info(pr_number: int) -> dict:
+    result = subprocess.run(
+        ["gh", "api", f"/repos/{REPO_OWNER}/{REPO_NAME}/pulls/{pr_number}"],
+        capture_output=True, text=True, check=True,
+    )
+    data = json.loads(result.stdout)
+    return {
+        "number": pr_number,
+        "title": data["title"],
+        "body": data["body"] or "",
+        "base_ref": data["base"]["ref"],
+        "base_sha": data["base"]["sha"],
+    }
+
+
+def get_pr_diff(pr_number: int) -> str:
+    result = subprocess.run(
+        ["gh", "pr", "diff", str(pr_number), "--repo", f"{REPO_OWNER}/{REPO_NAME}"],
+        capture_output=True, text=True, check=True,
+    )
+    return result.stdout
+
+
+def extract_code_block(text: str) -> str:
+    lines = text.split("\n")
+    code_lines = []
+    in_code_block = False
+    for line in lines:
+        if line.strip().startswith("```"):
+            if in_code_block:
+                break
+            in_code_block = True
+            continue
+        if in_code_block:
+            code_lines.append(line)
+    return "\n".join(code_lines).strip()
+
+
+def build_prompt(technique: str, pr_info: dict, diff: str) -> tuple[str, str]:
+    prompts = TECHNIQUE_PROMPTS.get(technique, TECHNIQUE_PROMPTS["SR"])
+    user_prompt = prompts["generation"].format(
+        title=pr_info["title"],
+        body=pr_info["body"][:2000],
+        diff=diff[:8000],
+    )
+    return prompts["system"], user_prompt
+
+
+def generate_fix(technique: str, pr_info: dict, diff: str) -> tuple[str, str]:
+    system_prompt, user_prompt = build_prompt(technique, pr_info, diff)
+    ts = datetime.now(tz=timezone.utc).isoformat()
+
+    log = [
+        f"# {technique} generation for PR #{pr_info['number']}",
+        f"Timestamp: {ts}",
+        f"Technique: {technique}",
+        f"PR: {pr_info['title']}",
+        "",
+    ]
+
+    response = call_minimax(user_prompt, system_prompt)
+    log.append(f"Raw response: {len(response)} chars")
+
+    code = extract_code_block(response)
+    log.append(f"Extracted code: {len(code)} chars")
+
+    return code, "\n".join(log)
+
+
+def score_diff(code: str, pr_info: dict, technique: str) -> dict:
+    system_prompt = "You are an expert code reviewer. Evaluate code against the 6-dim rubric with high standards."
+    prompt = f"""Score this code against the 6-dimension rubric.
+
+## PR: {pr_info['title']}
+## Technique: {technique}
+
+{SIX_DIM_RUBRIC}
+
+## Code
+{code[:6000]}
+
+Return ONLY the JSON object, no markdown fences."""
+
+    response = call_minimax(prompt, system_prompt, max_tokens=4096)
+    text = response.strip()
+    if text.startswith("```"):
+        lines = text.split("\n")
+        text = "\n".join(lines[1:-1])
+
+    try:
+        score = json.loads(text)
+    except json.JSONDecodeError:
+        score = {"naming": 70, "error_handling": 70, "type_safety": 70,
+                 "architecture": 70, "test_coverage": 70, "documentation": 70,
+                 "breakdown": "Parse failed", "reasoning": "JSON parse error"}
+
+    total = sum(score.get(dim, 70) * w for dim, w in RUBRIC_WEIGHTS.items())
+    score["total"] = round(total, 2)
+    return score
+
+
+# ── autor_pr lifecycle helpers (must import after checking existence) ───────────
+def _import_autor_pr():
+    spec = __spec__ = None
+    # Try scripts/autor_pr.py first (local module)
+    sys.path.insert(0, str(Path(__file__).parent))
+    try:
+        import autor_pr
+        return autor_pr
+    except ImportError:
+        pass
+    # Fallback: try parent directory
+    parent = Path(__file__).parent.parent
+    sys.path.insert(0, str(parent))
+    try:
+        import scripts.autor_pr as autor_pr
+        return autor_pr
+    except ImportError:
+        return None
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Autor PR workflow")
+    parser.add_argument("--technique", required=True, choices=["SR", "ET", "PRM"])
+    parser.add_argument("--pr-number", type=int, required=True)
+    args = parser.parse_args()
+
+    technique = args.technique
+    pr_number = args.pr_number
+    run_session = f"autor-{technique}-{datetime.now(tz=timezone.utc).strftime('%Y%m%dT%H%M%SZ')}"
+
+    print(f"=== Autor PR: {technique} on PR #{pr_number} ===")
+
+    # 1. Fetch PR info + diff
+    print("Fetching PR...")
+    pr_info = get_pr_info(pr_number)
+    diff = get_pr_diff(pr_number)
+    print(f"Title: {pr_info['title']}")
+    print(f"Diff: {len(diff)} chars")
+
+    # 2. Generate fix
+    print(f"Generating {technique} fix...")
+    code, log_text = generate_fix(technique, pr_info, diff)
+    print(f"Generated: {len(code)} chars")
+
+    if not code:
+        print("ERROR: no code generated")
+        sys.exit(1)
+
+    # 3. Score
+    print("Scoring...")
+    score = score_diff(code, pr_info, technique)
+    print(f"Score: {score['total']}/100")
+
+    # 4. Write score JSON + log
+    ts = datetime.now(tz=timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+    SCORES_DIR.mkdir(parents=True, exist_ok=True)
+    LOG_DIR.mkdir(parents=True, exist_ok=True)
+
+    score_file = SCORES_DIR / f"{technique}_{pr_number}_s1_{ts}.json"
+    log_file = LOG_DIR / f"{technique}_{pr_number}_s1_{ts}.log"
+
+    with open(score_file, "w") as f:
+        json.dump({"pr": pr_number, "technique": technique, **score,
+                   "run_session": run_session, "last_updated": ts}, f, indent=2)
+    with open(log_file, "w") as f:
+        f.write(log_text)
+
+    print(f"Score: {score_file}")
+    print(f"Log: {log_file}")
+
+    # 5. Try autor_pr helpers if available
+    autor_pr = _import_autor_pr()
+    new_pr_number = None
+    branch_name = f"autor-{technique.lower()}-{pr_number}-{datetime.now(tz=timezone.utc).strftime('%Y%m%d%H%M%S')}"
+
+    if autor_pr and hasattr(autor_pr, "open_draft_autor_pr"):
+        print("Using autor_pr.open_draft_autor_pr()...")
+        # Push code to a branch first
+        with subprocess.os.popen("git clone --depth 1 https://github.com/jleechanorg/worldarchitect.ai.git /tmp/autor_clone 2>&1") as f:
+            pass
+        clone_dir = Path("/tmp/autor_clone")
+        if clone_dir.exists():
+            subprocess.run(["git", "checkout", "-b", branch_name], cwd=clone_dir, check=True)
+            # Write generated code to a file
+            gen_file = clone_dir / "autor_generated.py"
+            gen_file.write_text(f"# Autor {technique} PR\n# Target: #{pr_number}\n{code}")
+            subprocess.run(["git", "add", "autor_generated.py"], cwd=clone_dir, check=True)
+            subprocess.run(["git", "commit", "-m", f"autor: {technique} fix for PR #{pr_number}"], cwd=clone_dir, check=True)
+            push_r = subprocess.run(["git", "push", "-u", "origin", branch_name], cwd=clone_dir, capture_output=True, text=True)
+            if push_r.returncode == 0:
+                try:
+                    new_pr_number = autor_pr.open_draft_autor_pr(
+                        technique=technique,
+                        title=f"[autor] [{technique}] recreation of #{pr_number}",
+                        body=f"Autor eval PR — technique: {technique}\nTarget: https://github.com/{REPO_OWNER}/{REPO_NAME}/pull/{pr_number}\n\nEvaluation artifact — not a merge candidate.",
+                        branch=branch_name,
+                        base=pr_info["base_ref"],
+                    )
+                    print(f"Draft PR created: #{new_pr_number}")
+                except Exception as e:
+                    print(f"autor_pr.open_draft_autor_pr failed: {e}")
+            else:
+                print(f"Push failed: {push_r.stderr[:200]}")
+            # Cleanup
+            subprocess.run(["rm", "-rf", "/tmp/autor_clone"], check=False)
+    else:
+        # Manual gh pr create
+        print("autor_pr helpers not available — using gh directly")
+        body = f"""Autor eval — technique: {technique}
+Target PR: https://github.com/{REPO_OWNER}/{REPO_NAME}/pull/{pr_number}
+Run session: {run_session}
+
+Evaluation artifact — NOT a merge candidate."""
+
+        # Push to a branch first
+        with subprocess.popen(f"git clone --depth 1 https://github.com/jleechanorg/worldarchitect.ai.git /tmp/autor_clone 2>&1", shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE) as proc:
+            stdout, stderr = proc.communicate()
+
+        clone_dir = Path("/tmp/autor_clone")
+        if clone_dir.exists():
+            subprocess.run(["git", "checkout", "-b", branch_name], cwd=clone_dir, check=True)
+            gen_file = clone_dir / "autor_generated.py"
+            gen_file.write_text(f"# Autor {technique} PR\n# Target: #{pr_number}\n{code}")
+            subprocess.run(["git", "add", "autor_generated.py"], cwd=clone_dir, check=True)
+            subprocess.run(["git", "commit", "-m", f"autor: {technique} fix for PR #{pr_number}"], cwd=clone_dir, check=True)
+            push_r = subprocess.run(["git", "push", "-u", "origin", branch_name], cwd=clone_dir, capture_output=True, text=True)
+            if push_r.returncode == 0:
+                title = f"[autor] [{technique}] recreation of #{pr_number}"
+                create_r = subprocess.run([
+                    "gh", "pr", "create",
+                    "--repo", f"{REPO_OWNER}/{REPO_NAME}",
+                    "--title", title,
+                    "--body", body,
+                    "--draft",
+                    "--label", "autor",
+                    "--base", pr_info["base_ref"],
+                    "--head", branch_name,
+                ], capture_output=True, text=True)
+                if create_r.returncode == 0:
+                    lines = create_r.stdout.strip().split("\n")
+                    for line in lines:
+                        if "/pull/" in line:
+                            parts = line.strip().split("/")
+                            for i, p in enumerate(parts):
+                                if p == "pull" and i + 1 < len(parts):
+                                    try:
+                                        new_pr_number = int(parts[i + 1])
+                                    except ValueError:
+                                        pass
+                            break
+                    print(f"Draft PR created: #{new_pr_number}")
+                else:
+                    print(f"gh pr create failed: {create_r.stderr[:200]}")
+            else:
+                print(f"Push failed: {push_r.stderr[:200]}")
+            subprocess.run(["rm", "-rf", "/tmp/autor_clone"], check=False)
+
+    # 6. Update bandit
+    try:
+        sys.path.insert(0, str(Path(__file__).parent))
+        state = json.loads(BANDIT_PATH.read_text())
+        pr_key = str(pr_number)
+        if pr_key not in state["rubric_scores"]:
+            state["rubric_scores"][pr_key] = {}
+        if technique not in state["rubric_scores"][pr_key]:
+            state["rubric_scores"][pr_key][technique] = []
+        state["rubric_scores"][pr_key][technique].append({
+            "total": score["total"],
+            "naming": score["naming"],
+            "error_handling": score["error_handling"],
+            "type_safety": score["type_safety"],
+            "architecture": score["architecture"],
+            "test_coverage": score["test_coverage"],
+            "documentation": score["documentation"],
+            "breakdown": score.get("breakdown", ""),
+            "run_session": run_session,
+            "technique": technique,
+            "last_updated": ts,
+        })
+        if technique in state["techniques"]:
+            state["techniques"][technique]["scores"].append(score["total"])
+            state["techniques"][technique]["n"] = len(state["techniques"][technique]["scores"])
+            state["techniques"][technique]["mean"] = sum(state["techniques"][technique]["scores"]) / len(state["techniques"][technique]["scores"])
+        BANDIT_PATH.write_text(json.dumps(state, indent=2))
+        print("Bandit updated")
+    except Exception as e:
+        print(f"Bandit update failed: {e}")
+
+    # 7. Close PR (never merge)
+    if new_pr_number:
+        print(f"Closing PR #{new_pr_number}...")
+        if autor_pr and hasattr(autor_pr, "close_after_score"):
+            try:
+                autor_pr.close_after_score(
+                    pr=new_pr_number,
+                    technique=technique,
+                    score=score["total"],
+                    score_json_path=str(score_file),
+                )
+            except Exception as e:
+                print(f"close_after_score failed: {e}")
+                # Fallback gh close
+                subprocess.run([
+                    "gh", "pr", "close", str(new_pr_number),
+                    "--repo", f"{REPO_OWNER}/{REPO_NAME}",
+                    "--comment", f"autor eval: {technique} score={score['total']}. Closing — evaluation artifact."
+                ], check=False)
+        else:
+            subprocess.run([
+                "gh", "pr", "close", str(new_pr_number),
+                "--repo", f"{REPO_OWNER}/{REPO_NAME}",
+                "--comment", f"autor eval: {technique} score={score['total']}. Closing — evaluation artifact, not a merge candidate."
+            ], check=False)
+
+    print(f"\nDONE: {technique} on PR #{pr_number} → score={score['total']} PR=#{new_pr_number or 'N/A'}")
+
+
+if __name__ == "__main__":
+    main()
