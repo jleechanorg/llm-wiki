@@ -50,12 +50,19 @@ python layer/score_pr.py <pr_number>
 python technique_bandit/technique_selector.py --update --PR <pr> --score <score> --technique <tech>
 ```
 
-### 6. Commit + push
+### 6. Close the PR (evaluation artifact — NEVER merge)
+```
+gh pr close <pr_number> --repo jleechanorg/worldarchitect.ai \
+  --comment "autor eval: <tech> score=<score>. Closing — evaluation artifact, not a merge candidate."
+```
+Autor PRs are **evaluation artifacts, not merge candidates**. Always open as draft, always close after scoring. Do not leave them open.
+
+### 7. Commit + push
 ```
 git add -A && git commit -m "autor: <tech> n=$(n+1) score=<score>" && git push
 ```
 
-### 7. Check time budget
+### 8. Check time budget
 If elapsed > 12h since first iteration → STOP.
 
 ## Stop conditions

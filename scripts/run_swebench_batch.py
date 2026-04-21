@@ -68,7 +68,7 @@ def call_minimax(prompt: str, system_prompt: str = SYSTEM_PROMPT, max_tokens: in
         api_key=os.environ.get("MINIMAX_API_KEY", ""),
     )
     response = client.messages.create(
-        model="MiniMax-M2.5",
+        model="MiniMax-M2.7",
         max_tokens=max_tokens,
         system=system_prompt,
         messages=[{"role": "user", "content": prompt}],
