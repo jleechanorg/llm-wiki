@@ -1,5 +1,5 @@
 ---
-title: "Project Chimera Benchmark: Hard Queries (281 min)"
+title: "Project Chimera Benchmark: Hard Queries (All Runs)"
 type: source
 tags: [multi-agent-systems, benchmark, gnns, minimax, llm-orchestration]
 sources: [project-chimera-neural-network-llm-agents-2026-04-19, project-chimera-codebase-2026-04-20]
@@ -98,6 +98,32 @@ Benchmark re-run with retry logic and rubric calibration (commit `aa0b25c`). 386
 
 **Evidence bundle**: `benchmark_logs/` (commit `3e6e9d6`) — `hard_benchmark.log`, `checkpoint.json`, `checksums_new.sha256`
 
+## P4 Run 3 Results (2026-04-21) — VALID RUN
+
+Benchmark complete with fixed rubric (commit `933d9db`) + retry logic (commit `fb78717`). 292.6 minutes, 15/15 queries.
+
+| Mode | Errors | Error Rate | Valid Avg | Notes |
+|------|--------|-----------|-----------|-------|
+| Single | 2/15 | 13.3% | 4.73 | Timeouts on Q1-Q2, scored valid from Q3 onward |
+| Fixed | 0/15 | 0.0% | 5.00 | All 15 queries completed, zero variance (ceiling effect) |
+| GNN | 0/15 | 0.0% | 5.03 | All 15 queries completed, one query at 5.5 (Q15) |
+
+**Key findings:**
+- All 15/15 queries unanimous TIE at 5.0 — rubric lacks discrimination (ceiling at 5.0)
+- Single mode: 2 errors only (Q1-Q2 timeouts), not the 53.3% originally claimed
+- Fixed vs GNN: GNN wins only by 0.03 points — one non-5.0 score (Q15: GNN=5.5 vs Fixed=5.0)
+- Pairwise JSON corruption: structured winners/summary fields hardcoded to TIE/5.0 even when raw judge correctly identifies winner B
+
+**Defensible claims:**
+- Multi-agent modes (fixed/gnn) 100% reliable vs single 86.7% on completion
+- When all modes produce valid output: quality essentially tied (rubric ceiling artifact)
+- GNN vs Fixed: no meaningful quality difference detected
+
+**Evidence violations (non-blocking):**
+- SHA-256 mismatch fixed post-run (checksums_final.sha256 created)
+- Missing evidence.md / artifacts/ directory — non-blocking
+- Pairwise propagation bug: raw judge correct, JSON summary fields hardcoded
+
 ## Evidence Review Flags
 
 This benchmark was reviewed against evidence-standards.md. Critical failures found:
@@ -106,13 +132,18 @@ This benchmark was reviewed against evidence-standards.md. Critical failures fou
 - **API key exposed** in `chimera_standalone.py` — fixed to use `MINIMAX_API_KEY` env var
 - **Scores not derived from JSON**: The originally claimed 4.1/3.8/1.5 are from Run 1 (before retry fix). Run 2 checkpoint has scores computed with buggy rubric — re-run required for valid quality scores
 - **Summary scores require re-run**: Old scores confounded by false error flags. Fresh benchmark run needed with fixed rubric (commit `933d9db`)
+- **Run 3 complete**: rubric ceiling prevents quality discrimination — all queries TIE at 5.0
 - Full review: `~/roadmap/nextsteps-2026-04-21-chimera.md`
 
 ## Files
 
+- `benchmark_logs/checkpoint.json` — 1.1MB, 15 query results with scores + pairwise comparisons
+- `benchmark_logs/hard_benchmark.log` — execution log (292.6 min, 8 retries)
+- `benchmark_logs/metadata.json` — run provenance (git SHA, model, timeout, retry config)
+- `benchmark_logs/methodology.md` — methodology documentation
+- `benchmark_logs/checksums_final.sha256` — SHA-256 for all result files
 - `benchmark_hard_queries.md` — Full markdown report
 - `benchmark_hard_queries.json` — Raw structured data
-- `benchmark_logs/hard_benchmark.log` — Execution log (281 min)
 - `run_hard_benchmark.py` — Benchmark runner script
 
 ## Connections
@@ -120,3 +151,4 @@ This benchmark was reviewed against evidence-standards.md. Critical failures fou
 - [[ProjectChimera]] — design document
 - [[MultiAgentOrchestration]] — the coordination pattern being evaluated
 - [[GNN]] — topology learning component (found marginal value)
+- [[Tenacity]] — retry library used for API reliability

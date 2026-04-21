@@ -27,6 +27,8 @@ The correct architecture under Zero Framework Cognition (ZFC) is **model compute
 
 > "What `rewards_engine.py` does NOT do on the model-owned path: no semantic XP judgment, no level-up threshold detection, no class-benefit synthesis when model choices are missing." — formatter contract
 
+**Companion**: [[zfc-level-up-model-computes-2026-04-19]] — the fuller 796-line design doc (this page is the executive summary)
+
 ## Connections
 
 - [[ScopeDrift]] — PR #6370 scope drift is symptomatic of backend-centralization approach

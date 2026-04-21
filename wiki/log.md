@@ -1,3 +1,5 @@
+## [2026-04-20] ingest | Level-Up ZFC Current Status — current queue snapshot preserved; north star unchanged; #6420 first, then #6418, then #6404; local worktree branch attached to #6404 but does not change landing order
+
 ## [2026-04-20] ingest | ZFC Level-Up M0 Cleanup Session — 2026-04-20
 
 ZFC M0 cleanup session: PR #6415 is 7-green/merge-ready (human MERGE APPROVED needed). PR #6420 Green Gate PASS but CodeRabbit CHANGES_REQUESTED + self-hosted shard failures. PR #6418 Skeptic stale pre-reopen failures need fresh run. Branch v4 created after v1-v3 conflicts. Next: resolve CR on #6420/#6404, verify #6418, then merge #6415.
@@ -3629,3 +3631,13 @@ SelfRefine #6277: 8.1/10. PRM #6275: 6.25/10. ExtendedThinking #6276: 6.45/10. S
 ## [2026-04-17] cycle_phase5 | NULL RESULT: router uplift=1.0 < 2.0 threshold — br-5bj closed as wontfix
 Matched corpus: 5 PRs × 3 techniques. Reversals=3, gate PASS. Oracle uplift=1.0. Router infrastructure unjustified.
 ## [2026-04-18] ingest | Level-Up Evidence Phase 1 Results — Class 5 REPRODUCED, Phase 2 pending
+
+## [2026-04-20] ingest | ZFC Level-Up Stage 0 Execution Drift
+
+Stage 0 drift analysis: M0 was supposed to delete legacy paths (+845/-123 LOC); executed as header fixes + formatter additions. Source page + Stage-0-Execution-Drift concept page created. Execution spent time on PR lifecycle (close/reopen/cherry-pick) instead of M0-PR1/PR2/PR3 deletion work. Key gap: duplicate projection (`project_level_up_ui()` at llm_parser lines 381+642), `resolve_level_up_signal()` in rewards_engine, legacy `_canonicalize_core()` fallback branches — all NOT deleted. Wiki: [[Stage-0-Execution-Drift]], sources/zfc-level-up-stage0-execution-drift-2026-04-20.md
+## [2026-04-21] ingest | ZFC Level-Up PR Status — 2026-04-21 — PR queue snapshot: #6423/#6422 merge-ready, #6420 CHANGES_REQUESTED + harness hash, #6418 parked
+## [2026-04-21] ingest | Level-Up ZFC Loop Postmortem
+
+- Added source page: `sources/2026-04-21-level-up-zfc-loop-postmortem.md`
+- Added concept page: `concepts/ProvisionalUpstreamOwnership.md`
+- Indexed the incident as a harness failure in the level-up ZFC supervision loop
