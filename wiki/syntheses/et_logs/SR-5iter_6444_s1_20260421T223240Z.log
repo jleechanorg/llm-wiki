@@ -1,0 +1,7 @@
+# SR-5iter generation for PR #6444
+Timestamp: 2026-04-21T22:30:25.969870+00:00
+Technique: SR-5iter
+PR: [antig] feat(prompts): thread-safe schema cache circuit breaker
+
+Raw response: 37343 chars
+Extracted code: 1174 chars

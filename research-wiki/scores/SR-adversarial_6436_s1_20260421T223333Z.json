@@ -1,0 +1,18 @@
+{
+  "pr": 6436,
+  "technique": "SR-adversarial",
+  "naming": 0,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 0,
+  "test_coverage": 0,
+  "documentation": 0,
+  "total": 0.0,
+  "breakdown": "No actual code was provided in the diff\u2014only pip installation error messages indicating a module import failure for 'flask_compress' dependency. All dimensions receive zero as there is nothing to evaluate.",
+  "reasoning": "The submitted artifact contains runtime error traces rather than source code or a diff. Without actual implementation to assess naming conventions, error handling patterns, type safety, architectural structure, test files, or documentation, a meaningful rubric evaluation is impossible. A proper PR diff would include Python source files, test modules, and documentation in markup format\u2014not build error output.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: could not open '/private/tmp/fork_clone/.git/objects/pack/tmp_pack_pwOZsm' for reading: No such file or directory\nfatal: fetch-pack: invalid index-pack output\n",
+  "run_session": "autor-SR-adversarial-20260421T223152Z",
+  "last_updated": "20260421T223333Z"
+}

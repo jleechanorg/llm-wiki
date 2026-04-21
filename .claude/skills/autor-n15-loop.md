@@ -3,7 +3,7 @@
 **Loop interval**: 30m | **Max duration**: 12h (24 iterations)
 
 ## Purpose
-Generate real draft PRs on worldarchitect.ai using SelfRefine/ET/PRM techniques and score them against the 6-dim rubric. Continuous evaluation mode — all techniques already have n≥15 in bandit.
+Generate real draft PRs on worldarchitect.ai using 9 techniques (SelfRefine, ET, PRM, SR-5iter, SR-fewshot, SR-adversarial, SR-metaharness, SR-prtype, SR-multi-exemplar) and score them against the 6-dim rubric. All 9 techniques have n≥15 in bandit — continuous evaluation mode.
 
 ## Entry conditions (all must be true to continue)
 - Branch `sr-matched-corpus-0417` is pushed and not detached
@@ -31,11 +31,12 @@ gh pr list --repo jleechanorg/worldarchitect.ai --state open --json number,title
 ```
 
 ### 4. Generate autor PR using run_autor_pr.py
+Local clone: `~/worldarchitect-ai-autor` (private repo, do NOT fork — forking is disabled)
 ```
 cd ~/llm-wiki-autor-phase3
 python scripts/run_autor_pr.py --technique <TECH> --pr-number <PR>
 ```
-Where `<TECH>` is SR, ET, or PRM. This script:
+Where `<TECH>` is any of: SelfRefine, ET, PRM, SR-5iter, SR-fewshot, SR-adversarial, SR-metaharness, SR-prtype, SR-multi-exemplar. This script:
 - Fetches diff of the target PR
 - Generates fix using MiniMax-M2.7
 - Creates a draft PR labeled `autor`

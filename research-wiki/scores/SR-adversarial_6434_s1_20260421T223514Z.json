@@ -1,0 +1,18 @@
+{
+  "pr": 6434,
+  "technique": "SR-adversarial",
+  "naming": 75,
+  "error_handling": 50,
+  "type_safety": 50,
+  "architecture": 45,
+  "test_coverage": 50,
+  "documentation": 50,
+  "total": 52.75,
+  "breakdown": "The rename from gemini_request to llm_request demonstrates improved abstraction naming that avoids provider lock-in. The diff only shows removed code (metadata population logic), making it impossible to assess test coverage, error handling impacts, or type safety changes\u2014the partial nature of the diff significantly limits evaluation. Architecture gets penalized because removing early_metadata handling without visible context could indicate unintended side effects or broken feature wiring.",
+  "reasoning": "This refactoring rename is semantically positive (llm_request is more generic than gemini_request), but the diff provides only REMOVED code with no added code, imports, or test files. Without seeing what replaces the metadata logic or how the rename is implemented, I cannot evaluate architectural soundness (are callers updated?), test coverage (are tests passing after rename?), or type safety (are type hints consistent?). The metadata removal specifically raises red flags about whether this was deliberate feature removal or accidental deletion.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: could not open '/private/tmp/fork_clone/.git/objects/pack/tmp_pack_1HDyPc' for reading: No such file or directory\nfatal: fetch-pack: invalid index-pack output\n",
+  "run_session": "autor-SR-adversarial-20260421T223353Z",
+  "last_updated": "20260421T223514Z"
+}
