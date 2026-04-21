@@ -320,45 +320,77 @@ def main():
     new_pr_number = None
     branch_name = f"autor-{technique.lower()}-{pr_number}-{datetime.now(tz=timezone.utc).strftime('%Y%m%d%H%M%S')}"
 
+    def gh_get(path):
+        r = subprocess.run(
+            ["gh", "api", f"repos/{REPO_OWNER}/{REPO_NAME}/{path}"],
+            capture_output=True, text=True, timeout=30,
+        )
+        if r.returncode != 0:
+            raise RuntimeError(f"gh api GET {path} failed: {r.stderr[:300]}")
+        return json.loads(r.stdout)
+
+    def gh_post_input(path, data):
+        r = subprocess.run(
+            ["gh", "api", f"repos/{REPO_OWNER}/{REPO_NAME}/{path}", "--input", "-"],
+            input=json.dumps(data), capture_output=True, text=True, timeout=30,
+        )
+        if r.returncode != 0:
+            raise RuntimeError(f"gh api POST {path} failed: {r.stderr[:300]}")
+        return json.loads(r.stdout) if r.stdout.strip() else {}
+
+    def create_branch_via_api(branch, base_ref):
+        base_sha = gh_get(f"git/ref/heads/{base_ref}")["object"]["sha"]
+        gh_post_input("git/refs", {
+            "ref": f"refs/heads/{branch}",
+            "sha": base_sha,
+        })
+
+    def upload_file_via_api(branch, path, content, message):
+        blob = gh_post_input("git/blobs", {
+            "content": content,
+            "encoding": "utf-8",
+        })
+        tree_data = gh_get(f"git/trees/{branch}?recursive=1")
+        new_tree = gh_post_input("git/trees", {
+            "base_tree": tree_data["sha"],
+            "tree": [{"path": path, "mode": "100644", "type": "blob", "sha": blob["sha"]}],
+        })
+        branch_sha = gh_get(f"git/ref/heads/{branch}")["object"]["sha"]
+        commit = gh_post_input("git/commits", {
+            "message": message,
+            "tree": new_tree["sha"],
+            "parents": [branch_sha],
+        })
+        subprocess.run(
+            ["gh", "api", f"repos/{REPO_OWNER}/{REPO_NAME}/git/refs/heads/{branch}",
+             "--method", "PATCH", "--input", "-"],
+            input=json.dumps({"sha": commit["sha"]}),
+            capture_output=True, text=True, timeout=30,
+        )
+
+    file_content = f"# Autor {technique} PR\n# Target: #{pr_number}\n{code}"
+
     if autor_pr and hasattr(autor_pr, "open_draft_autor_pr"):
         print("Using autor_pr.open_draft_autor_pr()...")
-        # Push code to a branch first (full clone needed for push)
-        clone_dir = Path("/tmp/autor_clone")
-        # Clean any prior clone
-        subprocess.run(["rm", "-rf", str(clone_dir)], check=False)
-        clone_r = subprocess.run(
-            ["git", "clone", "https://github.com/jleechanorg/worldarchitect.ai.git", str(clone_dir)],
-            capture_output=True, text=True, timeout=60,
-        )
-        if clone_r.returncode != 0:
-            print(f"Clone failed: {clone_r.stderr[:300]}")
-        elif clone_dir.exists():
-            subprocess.run(["git", "checkout", "-b", branch_name], cwd=clone_dir, check=True)
-            # Write generated code to a file
-            gen_file = clone_dir / "autor_generated.py"
-            gen_file.write_text(f"# Autor {technique} PR\n# Target: #{pr_number}\n{code}")
-            subprocess.run(["git", "add", "autor_generated.py"], cwd=clone_dir, check=True)
-            subprocess.run(["git", "commit", "-m", f"autor: {technique} fix for PR #{pr_number}"], cwd=clone_dir, check=True)
-            push_r = subprocess.run(
-                ["git", "push", "-u", "origin", branch_name],
-                cwd=clone_dir, capture_output=True, text=True, timeout=30,
-            )
-            if push_r.returncode == 0:
-                try:
-                    new_pr_number = autor_pr.open_draft_autor_pr(
-                        technique=technique,
-                        title=f"[autor] [{technique}] recreation of #{pr_number}",
-                        body=f"Autor eval PR — technique: {technique}\nTarget: https://github.com/{REPO_OWNER}/{REPO_NAME}/pull/{pr_number}\n\nEvaluation artifact — not a merge candidate.",
-                        branch=branch_name,
-                        base=pr_info["base_ref"],
-                    )
-                    print(f"Draft PR created: #{new_pr_number}")
-                except Exception as e:
-                    print(f"autor_pr.open_draft_autor_pr failed: {e}")
-            else:
-                print(f"Push failed: {push_r.stderr[:300]}")
-            # Cleanup
-            subprocess.run(["rm", "-rf", str(clone_dir)], check=False)
+        try:
+            create_branch_via_api(branch_name, pr_info["base_ref"])
+            upload_file_via_api(branch_name, "autor_generated.py", file_content,
+                                 f"autor: {technique} fix for PR #{pr_number}")
+            print(f"Branch {branch_name} pushed")
+        except Exception as e:
+            print(f"Branch/push failed: {e}")
+        else:
+            try:
+                new_pr_number = autor_pr.open_draft_autor_pr(
+                    technique=technique,
+                    title=f"[autor] [{technique}] recreation of #{pr_number}",
+                    body=f"Autor eval PR — technique: {technique}\nTarget: https://github.com/{REPO_OWNER}/{REPO_NAME}/pull/{pr_number}\n\nEvaluation artifact — not a merge candidate.",
+                    branch=branch_name,
+                    base=pr_info["base_ref"],
+                )
+                print(f"Draft PR created: #{new_pr_number}")
+            except Exception as e:
+                print(f"autor_pr.open_draft_autor_pr failed: {e}")
     else:
         # Manual gh pr create
         print("autor_pr helpers not available — using gh directly")
@@ -367,14 +399,67 @@ Target PR: https://github.com/{REPO_OWNER}/{REPO_NAME}/pull/{pr_number}
 Run session: {run_session}
 
 Evaluation artifact — NOT a merge candidate."""
-
-        # Push to a branch first (full clone needed for push)
-        clone_dir = Path("/tmp/autor_clone")
-        subprocess.run(["rm", "-rf", str(clone_dir)], check=False)
-        clone_r = subprocess.run(
-            ["git", "clone", "https://github.com/jleechanorg/worldarchitect.ai.git", str(clone_dir)],
-            capture_output=True, text=True, timeout=60,
-        )
+        try:
+            create_branch_via_api(branch_name, pr_info["base_ref"])
+            upload_file_via_api(branch_name, "autor_generated.py", file_content,
+                                 f"autor: {technique} fix for PR #{pr_number}")
+            print(f"Branch {branch_name} pushed")
+        except Exception as e:
+            print(f"Branch/push failed: {e}")
+        else:
+            title = f"[autor] [{technique}] recreation of #{pr_number}"
+            create_r = subprocess.run([
+                "gh", "pr", "create",
+                "--repo", f"{REPO_OWNER}/{REPO_NAME}",
+                "--title", title,
+                "--body", body,
+                "--draft",
+                "--label", "autor",
+                "--base", pr_info["base_ref"],
+                "--head", branch_name,
+            ], capture_output=True, text=True)
+            if create_r.returncode == 0:
+                lines = create_r.stdout.strip().split("\n")
+                for line in lines:
+                    if "/pull/" in line:
+                        parts = line.strip().split("/")
+                        for i, p in enumerate(parts):
+                            if p == "pull" and i + 1 < len(parts):
+                                try:
+                                    new_pr_number = int(parts[i + 1])
+                                except ValueError:
+                                    pass
+                        break
+                print(f"Draft PR created: #{new_pr_number}")
+            else:
+                print(f"gh pr create failed: {create_r.stderr[:300]}")
+        else:
+            title = f"[autor] [{technique}] recreation of #{pr_number}"
+            create_r = subprocess.run([
+                "gh", "pr", "create",
+                "--repo", f"{REPO_OWNER}/{REPO_NAME}",
+                "--title", title,
+                "--body", body,
+                "--draft",
+                "--label", "autor",
+                "--base", pr_info["base_ref"],
+                "--head", branch_name,
+            ], capture_output=True, text=True)
+            if create_r.returncode == 0:
+                lines = create_r.stdout.strip().split("\n")
+                for line in lines:
+                    if "/pull/" in line:
+                        parts = line.strip().split("/")
+                        for i, p in enumerate(parts):
+                            if p == "pull" and i + 1 < len(parts):
+                                try:
+                                    new_pr_number = int(parts[i + 1])
+                                except ValueError:
+                                    pass
+                        break
+                print(f"Draft PR created: #{new_pr_number}")
+            else:
+                print(f"gh pr create failed: {create_r.stderr[:300]}")
         if clone_r.returncode != 0:
             print(f"Clone failed: {clone_r.stderr[:300]}")
         elif clone_dir.exists():
