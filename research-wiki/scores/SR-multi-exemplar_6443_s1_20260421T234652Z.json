@@ -1,0 +1,18 @@
+{
+  "pr": 6443,
+  "technique": "SR-multi-exemplar",
+  "naming": 82,
+  "error_handling": 45,
+  "type_safety": 35,
+  "architecture": 78,
+  "test_coverage": 20,
+  "documentation": 50,
+  "total": 51.9,
+  "breakdown": "The helper function has clear naming and appropriate architectural placement as a private utility, but lacks type annotations, explicit error handling for edge cases (missing/invalid fields), and no tests are visible in the diff. The docstring is minimal, describing WHAT rather than WHY.",
+  "reasoning": "While the function is a straightforward utility with descriptive naming, it scores poorly on type safety (no type hints) and test coverage (no tests shown). Error handling is minimal\u2014no validation that class_levels values are numeric or that required fields exist. For a bugfix PR adding a new helper, expected standards would include type annotations and test coverage demonstrating the fix works correctly.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-multi-exemplar-20260421T234540Z",
+  "last_updated": "20260421T234652Z"
+}
