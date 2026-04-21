@@ -252,7 +252,7 @@ def run_harness_evaluation(instance_ids: list[str]) -> dict:
         result = subprocess.run(
             [
                 sys.executable, "-m", "swebench.harness.run_evaluation",
-                "--dataset_name", "princeton-nlp/SWE-bench_Lite",
+                "--dataset_name", "princeton-nlp/SWE-bench_Verified",
                 "--predictions_path", str(temp_preds),
                 "--max_workers", "2",
                 "--timeout", "600",
@@ -374,8 +374,8 @@ def main():
     log(f"State loaded: {state['total_generated']} generated, {state['total_resolved']} resolved")
 
     # Load dataset
-    log("Loading SWE-bench Lite dataset...")
-    ds = load_dataset("princeton-nlp/SWE-bench_Lite", split="test")
+    log("Loading SWE-bench Verified dataset...")
+    ds = load_dataset("princeton-nlp/SWE-bench_Verified", split="test")
     log(f"Total instances in dataset: {len(ds)}")
 
     # Select diverse instances from multiple repos
