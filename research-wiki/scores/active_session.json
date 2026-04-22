@@ -1,0 +1,107 @@
+{
+  "session_id": "728dad4f",
+  "start_time": "2026-04-15T01:28:57.257951+00:00",
+  "techniques": {
+    "extendedthinking": {
+      "status": "timeout",
+      "results": {
+        "WA-001": {
+          "run_id": "extendedthinking_WA-001_728dad4f",
+          "technique": "extendedthinking",
+          "pr": "WA-001",
+          "timestamp": "20260415T012857Z",
+          "session_id": "728dad4f",
+          "status": "timeout",
+          "scores": {}
+        },
+        "WA-004": {
+          "run_id": "extendedthinking_WA-004_728dad4f",
+          "technique": "extendedthinking",
+          "pr": "WA-004",
+          "timestamp": "20260415T013857Z",
+          "session_id": "728dad4f",
+          "status": "timeout",
+          "scores": {}
+        },
+        "WA-005": {
+          "run_id": "extendedthinking_WA-005_728dad4f",
+          "technique": "extendedthinking",
+          "pr": "WA-005",
+          "timestamp": "20260415T014857Z",
+          "session_id": "728dad4f",
+          "status": "timeout",
+          "scores": {}
+        }
+      }
+    },
+    "selfrefine": {
+      "status": "pending",
+      "results": {}
+    },
+    "swebench": {
+      "status": "pending",
+      "results": {}
+    },
+    "metaharness": {
+      "status": "pending",
+      "results": {}
+    },
+    "prm": {
+      "status": "timeout",
+      "results": {
+        "WA-001": {
+          "run_id": "prm_WA-001_728dad4f",
+          "technique": "prm",
+          "pr": "WA-001",
+          "timestamp": "20260415T015857Z",
+          "session_id": "728dad4f",
+          "status": "completed",
+          "scores": {
+            "naming": "14/15",
+            "error_handling": "17/20",
+            "type_safety": "16/20",
+            "architecture": "18/20",
+            "test_coverage": "13/15",
+            "documentation": "9/10",
+            "total": "87/100",
+            "baseline": "40/100",
+            "delta": "+47"
+          }
+        },
+        "WA-004": {
+          "run_id": "prm_WA-004_728dad4f",
+          "technique": "prm",
+          "pr": "WA-004",
+          "timestamp": "20260415T020240Z",
+          "session_id": "728dad4f",
+          "status": "completed",
+          "scores": {
+            "naming": "13/15",
+            "error_handling": "17/20",
+            "type_safety": "16/20",
+            "architecture": "16/20",
+            "test_coverage": "13/15",
+            "documentation": "8/10",
+            "total": "83/100",
+            "baseline": "72/100",
+            "delta": "11"
+          }
+        },
+        "WA-005": {
+          "run_id": "prm_WA-005_728dad4f",
+          "technique": "prm",
+          "pr": "WA-005",
+          "timestamp": "20260415T020401Z",
+          "session_id": "728dad4f",
+          "status": "timeout",
+          "scores": {}
+        }
+      }
+    },
+    "combined": {
+      "status": "pending",
+      "results": {}
+    }
+  },
+  "status": "running"
+}
