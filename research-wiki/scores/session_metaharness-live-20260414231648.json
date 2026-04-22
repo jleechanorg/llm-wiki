@@ -1,0 +1,57 @@
+{
+  "session_id": "metaharness-live-20260414231648",
+  "results": [
+    {
+      "run_id": "metaharness_WA-001_metaharness-live-20260414231648",
+      "technique": "metaharness",
+      "pr": "WA-001",
+      "status": "completed",
+      "scores": {
+        "naming": 14,
+        "error_handling": 14,
+        "type_safety": 16,
+        "architecture": 16,
+        "test_coverage": 14,
+        "documentation": 9,
+        "total": 83,
+        "baseline": 50,
+        "delta": 33
+      }
+    },
+    {
+      "run_id": "metaharness_WA-004_metaharness-live-20260414231648",
+      "technique": "metaharness",
+      "pr": "WA-004",
+      "status": "completed",
+      "scores": {
+        "naming": 14,
+        "error_handling": 16,
+        "type_safety": 10,
+        "architecture": 16,
+        "test_coverage": 13,
+        "documentation": 9,
+        "total": 78,
+        "baseline": 50,
+        "delta": 28
+      }
+    },
+    {
+      "run_id": "metaharness_WA-005_metaharness-live-20260414231648",
+      "technique": "metaharness",
+      "pr": "WA-005",
+      "status": "completed",
+      "scores": {
+        "naming": 13,
+        "error_handling": 14,
+        "type_safety": 11,
+        "architecture": 15,
+        "test_coverage": 11,
+        "documentation": 5,
+        "total": 69,
+        "baseline": 50,
+        "delta": 19
+      }
+    }
+  ],
+  "technique": "metaharness"
+}

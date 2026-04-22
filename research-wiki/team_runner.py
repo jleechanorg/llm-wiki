@@ -118,6 +118,36 @@ Save as JSON to /tmp/scores_{technique}_{pr}.json:
 IMPORTANT: Save the JSON scores to /tmp/scores_{technique}_{pr}.json and also output the full JSON.
 """
 
+    rubric = """
+## Scoring Rubric
+
+After implementing, score your fix:
+
+| Dimension | Max | What to Score |
+|-----------|-----|---------------|
+| Naming | 15 | snake_case, FastAPI patterns |
+| Error Handling | 20 | TypedDict exceptions, fail-closed |
+| Type Safety | 20 | TypedDict for data shapes, no Any |
+| Architecture | 20 | Single responsibility, composable |
+| Test Coverage | 15 | Edge cases, error paths |
+| Documentation | 10 | Docstrings with Args/Returns |
+
+Save as JSON to /tmp/scores_{technique}_{pr}.json:
+{
+  "naming": X/15,
+  "error_handling": X/20,
+  "type_safety": X/20,
+  "architecture": X/20,
+  "test_coverage": X/15,
+  "documentation": X/10,
+  "total": X/100,
+  "baseline": Y/100,
+  "delta": Z
+}
+
+IMPORTANT: Save the JSON scores to /tmp/scores_{technique}_{pr}.json and also output the full JSON.
+""".replace("{technique}", technique).replace("{pr}", pr)
+
     prompts = {
         "extendedthinking": f"""Fix issue {pr_info[pr]['issue']} using Extended Thinking.
 
@@ -176,7 +206,7 @@ Work in {WORKTREE}.
 {rubric}""",
     }
 
-    prompt = prompts.get(technique, prompts["extendedthinking"]).format(technique=technique, pr=pr)
+    prompt = prompts.get(technique, prompts["extendedthinking"])
 
     # Write log header
     with open(log_file, "w") as f:

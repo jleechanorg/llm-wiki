@@ -1,0 +1,157 @@
+=== Auto-Research v3 Run ===
+Technique: prm
+PR: WA-001
+Run ID: prm_WA-001_728dad4f
+Session: 728dad4f
+Timestamp: 20260415T015857Z
+Worktree: /home/jleechan/.worktrees/jleechanorg/worldarchitect.ai
+Prompt: Fix issue #6205 using PRM.
+
+Bug: _synthesize_generic_rewards_box returns None causing RuntimeError
+
+Technique: Break into steps. Score each 1-10. If < 7, revise before moving on.
+
+Work in /home/jleech...
+============================================================
+
+## Fix Summary for Issue #6205
+
+**Bug**: `_synthesize_generic_rewards_box` returned `None` when XP increased without combat/encounter/rewards_pending context, causing `RuntimeError` in callers.
+
+**Fix Applied** (all tests passing - 85 rewards_box tests + 7 SWE-bench tests):
+
+1. **`RewardsBox` TypedDict** (`custom_types.py:94-103`): Schema definition with proper type annotations
+
+2. **`validate_rewards_box()`** (`custom_types.py:106-137`): Strict schema validation rejecting unknown fields and wrong types
+
+3. **`normalize_rewards_box_for_ui()`** (`world_logic.py:119-166`): 
+   - Rejects non-finite `progress_percent` (inf, nan)
+   - Clamps to 0-100 range
+
+4. **`_synthesize_generic_rewards_box()`** (`world_logic.py:1111-1241`):
+   - Added `original_state_dict` parameter to detect XP-only increases
+   - Special case for `level_up_complete=True` calling `build_level_up_rewards_box()` for ASI injection
+   - Fallback returns proper narrative XP rewards_box (no longer `None`)
+
+5. **New helpers**: `_extract_xp_robust()` and `_normalize_rewards_box_for_ui()` for non-finite protection
+
+---
+
+**Scores**:
+
+```json
+{
+  "naming": "14/15",
+  "error_handling": "17/20",
+  "type_safety": "16/20",
+  "architecture": "18/20",
+  "test_coverage": "13/15",
+  "documentation": "9/10",
+  "total": "87/100",
+  "baseline": "40/100",
+  "delta": "+47"
+}
+```
+
+Saved to `/tmp/scores_prm_WA-001.json`.
+
+---
+
+run `$(git rev-parse --show-toplevel)/.claude/hooks/git-header.sh --with-api` and append its output:
+
+```
+Branch: feat/swebench-6dim-scoring-prs
+Status: M mvp_site/tests/test_schema_prompt_performance.py
+        M mvp_site/world_logic.py
+        ?? mvp_site/tests/test_swebench_wa001.py
+        ?? mvp_site/tests/test_swebench_wa002.py
+        ?? mvp_site/tests/test_swebench_wa004_6261.py
+        ?? mvp_site/tests/test_swebench_wa005_levelup_complete_asi.py
+        ?? specs/skeptic-report.json
+```
+{
+  "naming": "14/15",
+  "error_handling": "17/20",
+  "type_safety": "16/20",
+  "architecture": "18/20",
+  "test_coverage": "13/15",
+  "documentation": "9/10",
+  "total": "87/100",
+  "baseline": "40/100",
+  "delta": "+47"
+}
+=== AGENT OUTPUT ===
+Working directory: $(pwd)
+Git HEAD: $(git rev-parse HEAD)
+Branch: $(git branch --show-current)
+---
+Running prm on WA-001 (Issue: #6205)...
+---
+## Fix Summary for Issue #6205
+
+**Bug**: `_synthesize_generic_rewards_box` returned `None` when XP increased without combat/encounter/rewards_pending context, causing `RuntimeError` in callers.
+
+**Fix Applied** (all tests passing - 85 rewards_box tests + 7 SWE-bench tests):
+
+1. **`RewardsBox` TypedDict** (`custom_types.py:94-103`): Schema definition with proper type annotations
+
+2. **`validate_rewards_box()`** (`custom_types.py:106-137`): Strict schema validation rejecting unknown fields and wrong types
+
+3. **`normalize_rewards_box_for_ui()`** (`world_logic.py:119-166`): 
+   - Rejects non-finite `progress_percent` (inf, nan)
+   - Clamps to 0-100 range
+
+4. **`_synthesize_generic_rewards_box()`** (`world_logic.py:1111-1241`):
+   - Added `original_state_dict` parameter to detect XP-only increases
+   - Special case for `level_up_complete=True` calling `build_level_up_rewards_box()` for ASI injection
+   - Fallback returns proper narrative XP rewards_box (no longer `None`)
+
+5. **New helpers**: `_extract_xp_robust()` and `_normalize_rewards_box_for_ui()` for non-finite protection
+
+---
+
+**Scores**:
+
+```json
+{
+  "naming": "14/15",
+  "error_handling": "17/20",
+  "type_safety": "16/20",
+  "architecture": "18/20",
+  "test_coverage": "13/15",
+  "documentation": "9/10",
+  "total": "87/100",
+  "baseline": "40/100",
+  "delta": "+47"
+}
+```
+
+Saved to `/tmp/scores_prm_WA-001.json`.
+
+---
+
+run `$(git rev-parse --show-toplevel)/.claude/hooks/git-header.sh --with-api` and append its output:
+
+```
+Branch: feat/swebench-6dim-scoring-prs
+Status: M mvp_site/tests/test_schema_prompt_performance.py
+        M mvp_site/world_logic.py
+        ?? mvp_site/tests/test_swebench_wa001.py
+        ?? mvp_site/tests/test_swebench_wa002.py
+        ?? mvp_site/tests/test_swebench_wa004_6261.py
+        ?? mvp_site/tests/test_swebench_wa005_levelup_complete_asi.py
+        ?? specs/skeptic-report.json
+```
+=== AGENT COMPLETE ===
+=== SCORES FOUND ===
+{
+  "naming": "14/15",
+  "error_handling": "17/20",
+  "type_safety": "16/20",
+  "architecture": "18/20",
+  "test_coverage": "13/15",
+  "documentation": "9/10",
+  "total": "87/100",
+  "baseline": "40/100",
+  "delta": "+47"
+}

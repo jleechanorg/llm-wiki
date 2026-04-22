@@ -1,0 +1,33 @@
+Meta-Harness Live Run
+PR: WA-005 (#6214)
+Session: metaharness-live-20260414231648
+Run ID: metaharness_WA-005_metaharness-live-20260414231648
+=== Agent Output ===
+
+
+```json
+{
+  "naming": 13,
+  "error_handling": 14,
+  "type_safety": 11,
+  "architecture": 15,
+  "test_coverage": 11,
+  "documentation": 5,
+  "total": 69,
+  "baseline": 50,
+  "delta": 19
+}
+```
+
+**WA-005 scoring rationale** (scored vs ideal canonical patterns):
+
+| Dimension | Score | Reasoning |
+|-----------|-------|-----------|
+| **Naming (15)** | 13 | `enforce_primary_rewards_box_postcondition`, `_xp_increased`, `_response_has_displayable_rewards_box` — all clean snake_case. Prefix `_` correctly indicates internal. Slight扣: `_has_rewards_context` is slightly ambiguous (noun vs verb phrase). |
+| **Error Handling (20)** | 14 | Fail-closed via `RuntimeError` when postcondition cannot be synthesized — good. `MODE_REWARDS` skip-path is correct. But the early `return` chain in `_enforce_primary_rewards_box_postcondition` handles multiple cases implicitly without docs explaining the precedence. No TypedDict exception types — uses raw `RuntimeError`. |
+| **Type Safety (20)** | 11 | `_enforce_primary_rewards_box_postcondition` signature uses `Any` for `llm_response_obj` and return is `None`. `_requires_primary_rewards_box` uses TypedDict-style dicts. `_xp_increased` uses `dict[str, Any]` properly. But heavy use of `Any` in function parameters and `SimpleNamespace` instead of typed wrappers. No `RewardsBox` TypedDict used in the enforcement path. |
+| **Architecture (20)** | 15 | Excellent single-responsibility — four focused helpers (`_response_has_displayable_rewards_box`, `_xp_increased`, `_requires_primary_rewards_box`, `_enforce_primary_rewards_box_postcondition`). Composability is clean — each helper does one thing. Slight concern: `_enforce_primary_rewards_box_postcondition` has side effects on `llm_response_obj` in-place mutation which isn't idiomatic. |
+| **Test Coverage (15)** | 11 | `TestPrimaryRewardsBoxPostcondition` has 8 tests covering main paths. Good: tests RuntimeError, synthesis path, skip path. But test helper `_response()` is a simple lambda without type assertions. No tests for the `_response_has_displayable_rewards_box` or `_xp_increased` helpers in isolation. Missing edge case: what happens when `structured_response` is present but `None` vs missing. |
+| **Documentation (10)** | 5 | Docstrings on `_enforce_primary_rewards_box_postcondition` exist but missing `Args`/`Returns`. `_response_has_displayable_rewards_box` has no docstring. `_xp_increased` has one line but no Args/Returns. `_requires_primary_rewards_box` has no docstring. Inline comments are sparse. |
+
+**Saved to:** `/tmp/scores_metaharness_WA-005.json`

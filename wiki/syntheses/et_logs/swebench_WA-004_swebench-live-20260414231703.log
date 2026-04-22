@@ -1,0 +1,22 @@
+SWE-bench Live Run
+PR: WA-004
+Session: swebench-live-20260414231703
+=== Output ===
+```json
+{"naming": 13, "error_handling": 14, "type_safety": 10, "architecture": 14, "test_coverage": 11, "documentation": 7, "total": 69, "baseline": 50, "delta": 19}
+```
+
+**Score breakdown:**
+
+| Dimension | Score | Notes |
+|-----------|-------|-------|
+| Naming | 13/15 | snake_case correct; `_DNC` alias lacks explanation; `k` vs `key` |
+| Error Handling | 14/20 | Good: ValueError/TypeError/OverflowError caught; Bad: `# mypy: ignore-errors` and `# ruff: noqa: PLR0911` disable linter checks |
+| Type Safety | 10/20 | Return type is `Any`; extensive `# mypy: ignore-errors`; TypedDict not used |
+| Architecture | 14/20 | Field sets (HP_FIELDS etc.) good separation; DefensiveNumericConverter handles too many responsibilities |
+| Test Coverage | 11/15 | Unit tests + e2e tests; missing OverflowError, negative numbers, complex fractions |
+| Documentation | 7/10 | Docstrings present; inline comments explain _get_raw; private helpers undocumented |
+
+**Delta: +19 over baseline (50)** — the regex extraction is genuinely useful but type-safety suppression drags the score down significantly.
+
+Note: Current worktree is on `fix/rewards-box-schema-enforcement` (old branch). Scored against `main` where PR 6261 was merged.
