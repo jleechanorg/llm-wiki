@@ -1,0 +1,15 @@
+{
+  "pr": 6440,
+  "technique": "SR-metaharness",
+  "naming": 85,
+  "error_handling": 30,
+  "type_safety": 70,
+  "architecture": 85,
+  "test_coverage": 0,
+  "documentation": 95,
+  "total": 59.25,
+  "breakdown": "The code demonstrates excellent naming conventions and documentation with clear WHY explanations, but critically lacks error handling patterns and test coverage. Type safety is adequate with proper dataclass usage, though some Any types and missing type parameters on collections are present.",
+  "reasoning": "Naming is strong with descriptive class/function names like RewardsBox and refresh_hash. Type safety is good using dataclasses/enums, but _seen_entries is a raw set() without type parameter. Error handling is weak - no try/except, no custom exceptions, no validation of inputs like None checks. Test coverage is 0 since no test code was included in the diff. Documentation is exemplary with WHY comments and comprehensive docstrings explaining architectural decisions.",
+  "run_session": "autor-SR-metaharness-20260422T031023Z",
+  "last_updated": "20260422T031441Z"
+}

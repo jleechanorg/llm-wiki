@@ -22,6 +22,7 @@ Techniques:
     SR-fewshot      Single exemplar (PR#6243 @ 97.5)
     SR-multi-exemplar  All 3 type-exemplars shown, model selects
     SR-prtype       Classify PR type first, then single type-specific exemplar
+    SR-adversarial  Solver+Attacker: generate fix, actively attack it, refine
     ET              Extended Thinking
     PRM             Process Reward Models
 
@@ -283,6 +284,21 @@ First, generate the fix. Then score your own fix:
 
 Improve any low-scoring dimensions. Output the final code in a ```python``` block.""",
     },
+    "SR-adversarial": {
+        "system": "You are an expert code reviewer. Generate fixes and actively attack them to find weaknesses.",
+        "generation": """Generate a production-ready fix for this PR, then ADVERSARIALLY attack it: find edge cases, failure modes, and bugs in your own fix. Refine until robust.
+
+PR Title: {title}
+PR Description: {body}
+
+Diff:
+{diff}
+
+Step 1: Generate the fix.
+Step 2: ATTACK your fix — what breaks? what edge cases? what fails?
+Step 3: Refine the fix to address the weaknesses found.
+Output the final code in a ```python``` block.""",
+    },
 }
 
 
@@ -316,6 +332,7 @@ def get_pr_info(pr_number: int) -> dict:
         "title": data["title"],
         "body": data["body"] or "",
         "merge_commit_sha": data["merge_commit_sha"],
+        "base_ref": data["base"]["ref"],
         "base_sha": data["base"]["sha"],
     }
 
@@ -673,7 +690,7 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=__doc__,
     )
-    parser.add_argument("--technique", required=True, choices=list(TECHNIQUE_PROMPTS.keys()))
+    parser.add_argument("--technique", required=True, choices=["SR", "SR-fewshot", "SR-multi-exemplar", "SR-prtype", "SR-adversarial", "ET", "PRM"])
     parser.add_argument("--prs", required=True, help="Comma-separated PR numbers (e.g., 6265,6261,6245,6269)")
     parser.add_argument("--n", type=int, default=3, help="Number of runs per PR (default: 3)")
     parser.add_argument("--outdir", default="research-wiki/scores", help="Output directory for score JSONs")

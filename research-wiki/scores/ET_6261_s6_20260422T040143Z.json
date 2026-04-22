@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "ET",
+  "naming": 75,
+  "error_handling": 70,
+  "type_safety": 70,
+  "architecture": 85,
+  "test_coverage": 90,
+  "documentation": 85,
+  "total": 78.25,
+  "breakdown": "This PR refactors rewards box numeric extraction to use a centralized helper function with smart fallback logic that handles empty strings, zero values, and non-finite floats. The approach is architecturally sound with good separation between extraction and conversion. Test coverage is excellent with both unit and E2E tests. Minor\u6263\u5206\uff1a`_get_raw` and `_DNC` are somewhat terse naming, `Any` types used for flexibility, and no explicit exception handling despite robust edge case handling.",
+  "key_changes": [
+    "Replace manual coerce_int calls with centralized _get_raw() helper function",
+    "Add smart fallback logic that doesn't mask non-zero values with zero candidates",
+    "Use _DNC.convert_value() for defensive numeric conversion",
+    "Handle edge cases: empty strings, NaN/inf floats, zero values",
+    "Add comprehensive test file with unit and E2E test scenarios"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "ET-20260422T035122Z",
+  "last_updated": "2026-04-22T04:01:43.935520+00:00",
+  "sample_number": 6
+}

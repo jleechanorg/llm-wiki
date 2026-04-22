@@ -1,0 +1,22 @@
+{
+  "pr": 6265,
+  "technique": "SR-fewshot",
+  "naming": 85,
+  "error_handling": 70,
+  "type_safety": 55,
+  "architecture": 90,
+  "test_coverage": 80,
+  "documentation": 50,
+  "total": 72.75,
+  "breakdown": "This PR fixes rewards box normalization in the streaming passthrough path by adding a `normalize_rewards_box_for_ui` function that falls back from non-standard keys ('xp', 'gold_pieces') to standard keys ('xp_gained', 'gold'). Naming is generally good with descriptive variable names like `raw_structured_rewards_box`. However, the function lacks type annotations (no return type, no input type), and the codebase uses generic `Any` types for payload structures. Test coverage is solid with an E2E test. Documentation is weak - the new function has no docstring and existing comments explain the 'what' not the 'why'.",
+  "key_changes": [
+    "Add normalize_rewards_box_for_ui() function to handle non-standard rewards_box keys with fallback logic",
+    "Apply normalization in _resolve_canonical_level_up_ui_pair() before returning passthrough_rewards",
+    "Rename variables from canonical_stream_* to raw_structured_rewards_box/raw_structured_planning_block in resolve_planning_block.py",
+    "Add E2E test test_streaming_passthrough_normalization.py to verify normalization works with LLM-generated messy payloads"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-fewshot-20260422T042550Z",
+  "last_updated": "2026-04-22T04:29:14.724194+00:00",
+  "sample_number": 5
+}

@@ -1,0 +1,23 @@
+{
+  "pr": 6265,
+  "technique": "SR-fewshot",
+  "naming": 85,
+  "error_handling": 80,
+  "type_safety": 75,
+  "architecture": 85,
+  "test_coverage": 85,
+  "documentation": 70,
+  "total": 80.5,
+  "breakdown": "This PR fixes a bug where non-standard rewards_box keys ('xp'/'gold_pieces') from LLM responses were not being normalized before persistence. The fix adds a dedicated normalization function that handles fallback field names, removes the alternate keys post-coercion, and wires it into the streaming passthrough path. Naming is clear and descriptive. Error handling provides safe defaults via coerce_int. Type safety uses dict types but could benefit from TypedDict for the rewards_box shape. Architecture properly separates normalization logic into world_logic, though this creates some duplication with existing canonical path logic. Tests are comprehensive E2E with no mocks.",
+  "key_changes": [
+    "Add normalize_rewards_box_for_ui() function to handle 'xp' -> 'xp_gained' and 'gold_pieces' -> 'gold' field mapping",
+    "Remove alternate keys (xp, gold_pieces) after normalization to prevent persistence of non-standard fields",
+    "Wire normalize_rewards_box_for_ui() into _resolve_canonical_level_up_ui_pair() for passthrough rewards",
+    "Add copy.deepcopy() to avoid mutating the original rewards_box during normalization",
+    "Add E2E test test_streaming_passthrough_normalization.py that verifies normalization with non-standard keys"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-fewshot-20260422T042550Z",
+  "last_updated": "2026-04-22T04:30:07.790644+00:00",
+  "sample_number": 7
+}

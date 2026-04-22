@@ -1,0 +1,9 @@
+# SR-prtype Generation for PR #6269
+Timestamp: 2026-04-22T03:16:48.532968+00:00
+Technique: SR-prtype
+
+## PR Context
+Title: [antig] Port CR fallback logic to Skeptic Gates in worldarchitect.ai
+
+## Generation Response (2770 chars)
+Extracted code: 2743 chars

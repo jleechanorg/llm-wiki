@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "ET",
+  "naming": 90,
+  "error_handling": 85,
+  "type_safety": 75,
+  "architecture": 88,
+  "test_coverage": 90,
+  "documentation": 85,
+  "total": 85.1,
+  "breakdown": "This PR refactors rewards box numeric extraction by creating a centralized `_get_raw()` helper that searches multiple fallback keys with robust handling for zero candidates, NaN, inf, and empty strings, then pipes results through a defensive converter. The test file provides both internal unit tests covering edge cases and an E2E hallucination provocation test. Quality observations: Good architectural separation with extracted helper, excellent test coverage across permutations, and explanatory comments on non-obvious logic decisions. Minor deduction for `Any` typing in internal helpers and lack of typed error classes.",
+  "key_changes": [
+    "Extract `_get_raw()` helper function with fallback search logic handling edge cases (NaN, inf, zero candidates)",
+    "Replace multiple `coerce_int()` calls with centralized `_DNC.convert_value()` using fallback key lists",
+    "Add `rewards_box_robustness.py` test file with internal unit tests and E2E hallucination provocation",
+    "Improve `next_level_xp` handling to default to 0 when absent instead of game-state defaults",
+    "Add explanatory WHY comments for non-standard boolean/numeric handling in LLM output"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "ET-20260422T035122Z",
+  "last_updated": "2026-04-22T03:58:05.705079+00:00",
+  "sample_number": 4
+}

@@ -1,0 +1,22 @@
+{
+  "pr": 6265,
+  "technique": "SR",
+  "naming": 85,
+  "error_handling": 75,
+  "type_safety": 50,
+  "architecture": 80,
+  "test_coverage": 90,
+  "documentation": 80,
+  "total": 75.25,
+  "breakdown": "This PR fixes rewards box normalization in streaming passthrough by adding fallback logic to handle alternative key names ('xp'/'xp_gained', 'gold_pieces'/'gold'). The naming is clear with descriptive variables like raw_xp/raw_gold. Error handling uses appropriate defaults. Type safety is weak with no TypedDict or explicit type annotations. Test coverage is strong with a real E2E test that validates the fix works end-to-end.",
+  "key_changes": [
+    "Add fallback logic in normalize_rewards_box_for_ui to accept 'xp' as alternative to 'xp_gained' and 'gold_pieces' as alternative to 'gold'",
+    "Pop unnecessary alternative keys after normalization to clean up the payload",
+    "Call normalize_rewards_box_for_ui in _resolve_canonical_level_up_ui_pair for passthrough rewards",
+    "Add E2E test file that exercises the normalization with real LLM and verifies output has standardized keys"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-20260422T023321Z",
+  "last_updated": "2026-04-22T02:41:35.224386+00:00",
+  "sample_number": 5
+}

@@ -1,0 +1,22 @@
+{
+  "pr": 6265,
+  "technique": "SR-adversarial",
+  "naming": 100,
+  "error_handling": 60,
+  "type_safety": 50,
+  "architecture": 80,
+  "test_coverage": 100,
+  "documentation": 60,
+  "total": 74.0,
+  "breakdown": "This PR fixes normalization of rewards_box in streaming passthrough by adding fallback logic to handle LLM-generated payloads using non-standard keys ('xp'/'gold_pieces' instead of 'xp_gained'/'gold'). The code quality is solid: descriptive naming throughout, good test coverage with real LLM verification, and clean architecture. Gaps include lack of type annotations on the normalize function and missing docstrings explaining its purpose and contract.",
+  "key_changes": [
+    "Added fallback key lookup in normalize_rewards_box_for_ui: checks 'xp' if 'xp_gained' is not present, checks 'gold_pieces' if 'gold' is not present",
+    "Added .pop() calls to remove non-standard keys after extracting values",
+    "Wrapped rewards_box with normalize_rewards_box_for_ui() in _resolve_canonical_level_up_ui_pair passthrough flow",
+    "Created new E2E test file test_streaming_passthrough_normalization.py that exercises the fallback normalization with real LLM"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-adversarial-20260422T042629Z",
+  "last_updated": "2026-04-22T04:26:55.727715+00:00",
+  "sample_number": 1
+}

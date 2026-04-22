@@ -1,0 +1,23 @@
+{
+  "pr": 6265,
+  "technique": "SR-fewshot",
+  "naming": 90,
+  "error_handling": 80,
+  "type_safety": 85,
+  "architecture": 90,
+  "test_coverage": 90,
+  "documentation": 90,
+  "total": 87.0,
+  "breakdown": "This PR fixes a bug where LLM-generated rewards_box payloads use non-standard keys ('xp' and 'gold_pieces' instead of 'xp_gained' and 'gold'). The fix adds a normalization function that coerces values from fallback keys and removes them after processing. The test is a real E2E test that prompts the LLM to produce messy keys and verifies normalization occurs. Code is well-structured with clear naming, though error handling could be more explicit.",
+  "key_changes": [
+    "Added normalize_rewards_box_for_ui() function with fallback key logic for xp/xp_gained and gold/gold_pieces",
+    "Modified _resolve_canonical_level_up_ui_pair() to call normalization on passthrough rewards",
+    "Added E2E test file that prompts LLM to generate non-standard rewards_box keys",
+    "Uses deepcopy to avoid mutating original rewards_box",
+    "Removes fallback keys after normalization to ensure consistent output"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-fewshot-20260422T042550Z",
+  "last_updated": "2026-04-22T04:27:26.725633+00:00",
+  "sample_number": 3
+}

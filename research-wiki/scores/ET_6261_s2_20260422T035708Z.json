@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "ET",
+  "naming": 70,
+  "error_handling": 80,
+  "type_safety": 70,
+  "architecture": 85,
+  "test_coverage": 95,
+  "documentation": 75,
+  "total": 79.25,
+  "breakdown": "Refactors rewards box numeric extraction to use centralized robust conversion with fallback chains for LLM hallucinated fields. Introduces _get_raw() helper that handles empty strings, zeros, NaN/inf gracefully before calling convert_value(). Strong test coverage with unit and E2E tests validates edge cases. Main weaknesses: _DNC abbreviation is opaque (should be DefensiveNumericConverter), _get_raw returns Any type reducing type safety, and no public function docstrings.",
+  "key_changes": [
+    "Replace multiple coerce_int calls with centralized _DNC.convert_value() for xp_gained, gold, current_xp, next_level_xp",
+    "Add _get_raw() helper with fallback chain that skips empty strings, zeros, and non-finite floats until finite non-zero value found",
+    "Test empty_primary_fallback and nan_primary_fallback edge cases with fallback aliases",
+    "Add rewards_box_robustness.py test file with internal unit tests and E2E hallucination provocation",
+    "Add WHY comment about LLM boolean representation handling"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "ET-20260422T035122Z",
+  "last_updated": "2026-04-22T03:57:08.791574+00:00",
+  "sample_number": 2
+}

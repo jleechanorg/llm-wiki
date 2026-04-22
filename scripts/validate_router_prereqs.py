@@ -148,7 +148,7 @@ def evaluate(
     # Per-technique n check
     techniques_state = state.get("techniques", {})
     per_technique_n = {
-        t: max(len(techniques_state.get(t, {}).get("observations", [])), techniques_state.get(t, {}).get("n", 0))
+t: max(len(techniques_state.get(t, {}).get("observations", [])), techniques_state.get(t, {}).get("n", 0))
         for t in techniques_in_state
     }
     all_sufficient = all(n >= min_per_technique_n for n in per_technique_n.values())

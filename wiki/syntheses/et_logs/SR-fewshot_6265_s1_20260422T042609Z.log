@@ -1,0 +1,9 @@
+# SR-fewshot Generation for PR #6265
+Timestamp: 2026-04-22T04:25:51.791872+00:00
+Technique: SR-fewshot
+
+## PR Context
+Title: [antig] [Fix] Normalize rewards box in streaming passthrough
+
+## Generation Response (6546 chars)
+Extracted code: 5831 chars

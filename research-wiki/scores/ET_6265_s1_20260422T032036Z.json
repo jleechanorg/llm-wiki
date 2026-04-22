@@ -1,0 +1,22 @@
+{
+  "pr": 6265,
+  "technique": "ET",
+  "naming": 85,
+  "error_handling": 70,
+  "type_safety": 60,
+  "architecture": 75,
+  "test_coverage": 90,
+  "documentation": 75,
+  "total": 74.75,
+  "breakdown": "This PR fixes a bug where rewards_box normalization wasn't applied in streaming passthrough, causing non-standard keys like 'xp'/'gold_pieces' to bypass normalization. The fix adds explicit normalization in `_resolve_canonical_level_up_ui_pair()` and extracts the logic into a dedicated `normalize_rewards_box_for_ui()` function. Test coverage is solid with a real E2E test. Type safety is weak\u2014no TypedDict for rewards_box shape, relying on runtime checks and duck typing.",
+  "key_changes": [
+    "Add normalize_rewards_box_for_ui() function to normalize 'xp' \u2192 'xp_gained' and 'gold_pieces' \u2192 'gold'",
+    "Call normalize_rewards_box_for_ui() on passthrough_rewards before returning from _resolve_canonical_level_up_ui_pair()",
+    "Add pop() to remove raw keys after normalization to prevent persistence of non-standard fields",
+    "Add new E2E test test_streaming_passthrough_normalization.py that triggers LLM to use messy keys"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "ET-20260422T031748Z",
+  "last_updated": "2026-04-22T03:20:36.895190+00:00",
+  "sample_number": 1
+}

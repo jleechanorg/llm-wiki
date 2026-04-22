@@ -1,0 +1,22 @@
+{
+  "pr": 6265,
+  "technique": "ET",
+  "naming": 90,
+  "error_handling": 70,
+  "type_safety": 75,
+  "architecture": 85,
+  "test_coverage": 80,
+  "documentation": 80,
+  "total": 79.5,
+  "breakdown": "PR adds fallback key handling in normalize_rewards_box_for_ui to coerce 'xp'\u2192'xp_gained' and 'gold_pieces'\u2192'gold' for LLM-generated payloads. Calls normalization in _resolve_canonical_level_up_ui_pair passthrough. Quality is solid overall with good variable naming, some type checking via isinstance, and a real E2E test. Minor gaps: no typing imports in diff, and the test is integration-level rather than unit tests.",
+  "key_changes": [
+    "Added xp\u2192xp_gained and gold_pieces\u2192gold fallback in normalize_rewards_box_for_ui function",
+    "Added pop() calls to remove raw fallback keys after normalization",
+    "Called normalize_rewards_box_for_ui in _resolve_canonical_level_up_ui_pair passthrough",
+    "Added test file testing_mcp/test_streaming_passthrough_normalization.py to verify the fix with real LLM"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "ET-20260422T025312Z",
+  "last_updated": "2026-04-22T02:55:31.134013+00:00",
+  "sample_number": 1
+}

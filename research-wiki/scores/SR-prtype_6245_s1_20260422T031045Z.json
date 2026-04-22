@@ -1,0 +1,23 @@
+{
+  "pr": 6245,
+  "technique": "SR-prtype",
+  "naming": 85,
+  "error_handling": 65,
+  "type_safety": 70,
+  "architecture": 75,
+  "test_coverage": 50,
+  "documentation": 60,
+  "total": 68.25,
+  "breakdown": "This PR stabilizes level-up regressions by replacing the old `_extract_xp_from_player_data` function with `extract_character_xp`, and changes XP synthesis logic to prioritize `xp_awarded` from combat/encounter summaries over legacy fields. Key issues: incomplete removal (test file still tests deleted function), inconsistent isinstance checks between the two synthesized rewards functions, and some code style changes mixed in.",
+  "key_changes": [
+    "Replace _extract_xp_from_player_data with extract_character_xp throughout codebase",
+    "Modify _synthesize_generic_rewards_box to check combat_summary.get('xp_awarded') first with isinstance guard",
+    "Change XP extraction to prioritize xp_awarded over rewards_pending xp_gained/xp fields",
+    "Add ensure_level_up_rewards_pending wrapper replacing check_and_set_level_up_pending_impl calls",
+    "Line wrapping changes in multiple functions for readability but mixed with functional changes"
+  ],
+  "commit_sha": "86585b929a75e6b69b1b4e53f17ad560e6e1a880",
+  "run_session": "SR-prtype-20260422T030347Z",
+  "last_updated": "2026-04-22T03:10:45.858988+00:00",
+  "sample_number": 1
+}

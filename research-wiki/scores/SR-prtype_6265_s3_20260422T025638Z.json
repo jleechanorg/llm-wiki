@@ -1,0 +1,22 @@
+{
+  "pr": 6265,
+  "technique": "SR-prtype",
+  "naming": 80,
+  "error_handling": 60,
+  "type_safety": 75,
+  "architecture": 80,
+  "test_coverage": 85,
+  "documentation": 80,
+  "total": 75.75,
+  "breakdown": "This PR fixes a bug where non-standard rewards_box keys ('xp'/'gold_pieces' instead of 'xp_gained'/'gold') from LLM responses were not being normalized in the streaming passthrough path. It adds a normalize_rewards_box_for_ui function that handles fallback keys and removes the raw keys after normalization. Test coverage is strong with real E2E tests verifying the fix. Type safety could be improved with explicit type annotations.",
+  "key_changes": [
+    "Add normalize_rewards_box_for_ui function to handle 'xp' \u2192 'xp_gained' and 'gold_pieces' \u2192 'gold' fallback mapping",
+    "Call normalize_rewards_box_for_ui in _resolve_canonical_level_up_ui_pair passthrough_rewards path",
+    "Pop raw keys 'xp' and 'gold_pieces' after normalization to prevent persistence of non-standard keys",
+    "Add E2E test file that forces LLM to generate messy rewards_box and verifies normalization"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-prtype-20260422T025000Z",
+  "last_updated": "2026-04-22T02:56:38.166632+00:00",
+  "sample_number": 3
+}

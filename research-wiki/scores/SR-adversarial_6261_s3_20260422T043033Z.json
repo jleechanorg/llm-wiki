@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "SR-adversarial",
+  "naming": 70,
+  "error_handling": 70,
+  "type_safety": 60,
+  "architecture": 75,
+  "test_coverage": 85,
+  "documentation": 80,
+  "total": 72.25,
+  "breakdown": "This PR refactors reward numeric extraction to use a centralized robust converter with intelligent fallback chains that search through multiple possible key variations (xp_gained, xp, xp_awarded, etc.) while properly handling edge cases like 0, NaN, inf, and empty strings. The new `_get_raw` helper provides defensive value extraction before passing to `_DNC.convert_value`. Test coverage is strong with both unit and E2E tests. Type safety is moderate\u2014uses `Any` type and returns untyped values from the helper function. Naming is mostly clear but `_DNC` abbreviation is non-obvious.",
+  "key_changes": [
+    "Replace inline coerce_int calls with centralized _DNC.convert_value",
+    "Add _get_raw helper function for multi-key fallback extraction with zero/NaN/inf handling",
+    "Extend key aliases for xp/gold fields (xp_gained, xp_awarded, xpAmount, xp_earned)",
+    "Add test file test_rewards_box_robustness.py with unit and E2E scenarios",
+    "Handle LLM non-standard boolean representations with wider truthiness check"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "SR-adversarial-20260422T042629Z",
+  "last_updated": "2026-04-22T04:30:33.839461+00:00",
+  "sample_number": 3
+}

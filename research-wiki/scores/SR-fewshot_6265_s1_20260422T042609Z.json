@@ -1,0 +1,22 @@
+{
+  "pr": 6265,
+  "technique": "SR-fewshot",
+  "naming": 90,
+  "error_handling": 70,
+  "type_safety": 85,
+  "architecture": 80,
+  "test_coverage": 95,
+  "documentation": 65,
+  "total": 81.25,
+  "breakdown": "This PR fixes a bug where LLM-generated rewards boxes in streaming passthrough were not normalized before persistence, allowing non-standard keys like 'xp'/'gold_pieces' to leak through. The fix adds fallback key handling and removes raw keys after normalization. Naming is excellent with clear variables like raw_xp/raw_gold. Test coverage is comprehensive, verifying actual normalization behavior. Documentation is minimal but explains the WHY for fallback logic.",
+  "key_changes": [
+    "Added fallback key handling in normalize_rewards_box_for_ui: xp -> xp_gained, gold_pieces -> gold",
+    "Added .pop() calls to remove raw keys after extracting values",
+    "Modified _resolve_canonical_level_up_ui_pair to normalize passthrough rewards before returning",
+    "Added new E2E test file to verify normalization works with messy keys in streaming passthrough"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-fewshot-20260422T042550Z",
+  "last_updated": "2026-04-22T04:26:09.793502+00:00",
+  "sample_number": 1
+}

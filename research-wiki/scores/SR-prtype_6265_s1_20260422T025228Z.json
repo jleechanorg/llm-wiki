@@ -1,0 +1,23 @@
+{
+  "pr": 6265,
+  "technique": "SR-prtype",
+  "naming": 85,
+  "error_handling": 70,
+  "type_safety": 75,
+  "architecture": 80,
+  "test_coverage": 75,
+  "documentation": 60,
+  "total": 75.0,
+  "breakdown": "This PR fixes a bug where non-standard reward keys ('xp' and 'gold_pieces') from LLM responses weren't being normalized in the streaming passthrough path. The fix adds a normalize_rewards_box_for_ui function that converts these keys to standard names ('xp_gained' and 'gold'). The code has good naming and architecture, but the normalization function lacks a docstring, and the single E2E test could be supplemented with unit tests for the normalization logic itself.",
+  "key_changes": [
+    "Add normalize_rewards_box_for_ui function in world_logic.py to handle 'xp'->'xp_gained' and 'gold_pieces'->'gold' conversion",
+    "Modify _resolve_canonical_level_up_ui_pair to apply normalization to passthrough rewards",
+    "Add E2E test file test_streaming_passthrough_normalization.py to verify normalization works end-to-end",
+    "Use copy.deepcopy to avoid mutating original rewards_box",
+    "Pop normalized keys to remove legacy keys from output"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-prtype-20260422T025000Z",
+  "last_updated": "2026-04-22T02:52:28.922495+00:00",
+  "sample_number": 1
+}

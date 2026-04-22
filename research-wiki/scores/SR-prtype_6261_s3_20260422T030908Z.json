@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "SR-prtype",
+  "naming": 75,
+  "error_handling": 70,
+  "type_safety": 65,
+  "architecture": 80,
+  "test_coverage": 90,
+  "documentation": 85,
+  "total": 76.25,
+  "breakdown": "This PR refactors rewards box numeric extraction to use a centralized `_get_raw` helper with fallback chains for multiple key aliases, combined with `_DNC.convert_value` for robust parsing of messy LLM outputs. It adds comprehensive E2E and unit tests covering hallucinations, fallback aliases, NaN handling, and empty strings. The naming is decent but uses generic `_get_raw`; type safety suffers from pervasive `Any` usage; error handling is implicit via fallback logic rather than explicit try/except with typed errors.",
+  "key_changes": [
+    "Replace individual coerce_int calls with centralized _get_raw helper function supporting fallback key chains",
+    "Add _get_raw helper to handle edge cases: empty strings treated as 'not present', zero as candidate, NaN/inf as invalid",
+    "Use _DNC.convert_value for unified defensive numeric conversion",
+    "Add explicit None check for next_level_xp to default to 0 instead of DNC game-state defaults",
+    "Add new test_rewards_box_robustness.py with E2E and unit tests validating messy string parsing, fallback aliases, and hallucination handling"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "SR-prtype-20260422T030347Z",
+  "last_updated": "2026-04-22T03:09:08.670154+00:00",
+  "sample_number": 3
+}

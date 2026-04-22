@@ -1,0 +1,23 @@
+{
+  "pr": 6265,
+  "technique": "SR-fewshot",
+  "naming": 90,
+  "error_handling": 75,
+  "type_safety": 60,
+  "architecture": 85,
+  "test_coverage": 95,
+  "documentation": 65,
+  "total": 78.25,
+  "breakdown": "PR adds normalization logic to handle LLM-generated rewards_box with non-standard keys (xp/gold_pieces instead of xp_gained/gold). Changes include a new normalize_rewards_box_for_ui function in world_logic.py, integration into the streaming passthrough path, and a comprehensive E2E test. Test coverage is excellent with real LLM testing. Minor issues: missing function docstring, incorrect comment (says 'boolean representations' when referring to key names), and limited visible type annotations.",
+  "key_changes": [
+    "Added normalize_rewards_box_for_ui function to handle non-standard reward keys (xp \u2192 xp_gained, gold_pieces \u2192 gold)",
+    "Integrated normalize_rewards_box_for_ui into _resolve_canonical_level_up_ui_pair for passthrough rewards",
+    "Added pop() calls to remove non-standard keys after normalization",
+    "Created new E2E test file testing_mcp/test_streaming_passthrough_normalization.py",
+    "Added WHY comment explaining LLM-generated payloads use non-standard representations"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-fewshot-20260422T042550Z",
+  "last_updated": "2026-04-22T04:32:39.338460+00:00",
+  "sample_number": 10
+}

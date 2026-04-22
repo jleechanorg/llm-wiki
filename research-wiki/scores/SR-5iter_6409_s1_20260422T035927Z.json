@@ -1,0 +1,24 @@
+{
+  "pr": 6409,
+  "technique": "SR-5iter",
+  "naming": 78,
+  "error_handling": 80,
+  "type_safety": 70,
+  "architecture": 80,
+  "test_coverage": 80,
+  "documentation": 65,
+  "total": 76.2,
+  "breakdown": "Naming: 78 - Test function names are descriptive (test_process_action_stream_infers_failure_without_explicit_success), but some variables like 'harness' and 'commands' are generic. Error Handling: 80 - Tests properly assert error conditions (response['error'], status_code 500). Type Safety: 70 - Basic type hints present (list[list[str]], set[str]) but uses dynamic type creation via type() constructor. Architecture: 80 - Tests integrated into existing test modules; proper mock patterns. Test Coverage: 80 - New tests cover multiple scenarios (failure handling, bootstrap fallback, runtime deps). Documentation: 65 - No docstrings on test functions or comments explaining test scenarios; no inline WHY comments.",
+  "key_changes": [
+    "Add test for process_action_stream failure handling with error status",
+    "Add tests for runtime bootstrap numpy downgrade skipping",
+    "Add test for runtime bootstrap cache invalidation with timeouts",
+    "Add test for runtime bootstrap fallback package candidates",
+    "Add test for evidence_signature_guard external server skip",
+    "Add test_loc_script.py for loc.sh script with spaces and test detection"
+  ],
+  "commit_sha": null,
+  "run_session": "SR-5iter-20260422T035705Z",
+  "last_updated": "2026-04-22T03:59:27.644503+00:00",
+  "sample_number": 1
+}

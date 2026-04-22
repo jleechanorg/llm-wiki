@@ -1,0 +1,23 @@
+{
+  "pr": 6265,
+  "technique": "SR-prtype",
+  "naming": 90,
+  "error_handling": 85,
+  "type_safety": 85,
+  "architecture": 90,
+  "test_coverage": 90,
+  "documentation": 85,
+  "total": 87.5,
+  "breakdown": "This PR fixes the streaming passthrough by normalizing rewards_box payloads before persistence, handling non-standard LLM-generated keys like 'xp' and 'gold_pieces'. The code adds a dedicated normalization function with fallback logic and deep copies. Test coverage is strong with a real E2E test. Minor gaps: could use TypedDict for rewards_box shape and more explicit exception handling.",
+  "key_changes": [
+    "Add normalize_rewards_box_for_ui() function to handle fallback keys (xp\u2192xp_gained, gold_pieces\u2192gold)",
+    "Call normalize_rewards_box_for_ui() in _resolve_canonical_level_up_ui_pair passthrough branch",
+    "Add deep copy to avoid mutating original rewards_box",
+    "Remove fallback keys after normalization to prevent raw keys persisting",
+    "Add E2E test test_streaming_passthrough_normalization.py to verify normalization works"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-prtype-20260422T024714Z",
+  "last_updated": "2026-04-22T02:49:14.545827+00:00",
+  "sample_number": 1
+}
