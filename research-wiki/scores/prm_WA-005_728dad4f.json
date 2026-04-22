@@ -1,0 +1,10 @@
+{
+  "run_id": "prm_WA-005_728dad4f",
+  "technique": "prm",
+  "pr": "WA-005",
+  "timestamp": "20260415T020401Z",
+  "session_id": "728dad4f",
+  "status": "timeout",
+  "scores": {},
+  "note": "Agent timed out after 10 minutes. Scores not captured."
+}

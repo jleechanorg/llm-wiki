@@ -1,0 +1,19 @@
+{
+  "run_id": "prm_WA-004_728dad4f",
+  "technique": "prm",
+  "pr": "WA-004",
+  "timestamp": "20260415T020240Z",
+  "session_id": "728dad4f",
+  "status": "completed_with_scores",
+  "scores": {
+    "naming": 13,
+    "error_handling": 17,
+    "type_safety": 16,
+    "architecture": 16,
+    "test_coverage": 13,
+    "documentation": 8,
+    "total": 83,
+    "baseline": 72,
+    "delta": 11
+  }
+}
