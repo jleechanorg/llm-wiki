@@ -1,0 +1,9 @@
+# SR-adversarial Generation for PR #6261
+Timestamp: 2026-04-22T04:29:47.671553+00:00
+Technique: SR-adversarial
+
+## PR Context
+Title: [antig] refactor(rewards): migrate to centralized robust numeric extraction & simplify chaining
+
+## Generation Response (27291 chars)
+Extracted code: 936 chars

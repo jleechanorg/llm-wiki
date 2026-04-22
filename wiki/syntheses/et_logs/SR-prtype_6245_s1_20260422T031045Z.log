@@ -1,0 +1,9 @@
+# SR-prtype Generation for PR #6245
+Timestamp: 2026-04-22T03:09:10.665055+00:00
+Technique: SR-prtype
+
+## PR Context
+Title: fix: stabilize level-up regressions and xp synthesis
+
+## Generation Response (2097 chars)
+Extracted code: 2051 chars

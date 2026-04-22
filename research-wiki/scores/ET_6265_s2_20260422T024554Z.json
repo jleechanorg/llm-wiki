@@ -1,0 +1,23 @@
+{
+  "pr": 6265,
+  "technique": "ET",
+  "naming": 90,
+  "error_handling": 70,
+  "type_safety": 75,
+  "architecture": 75,
+  "test_coverage": 90,
+  "documentation": 50,
+  "total": 76.0,
+  "breakdown": "PR fixes rewards_box normalization in streaming passthrough by adding key fallbacks (xp\u2192xp_gained, gold_pieces\u2192gold) and applying normalize_rewards_box_for_ui before passthrough. Good naming and test coverage, but the WHY comment is misplaced (refers to booleans but deals with string keys), and the function lacks a docstring. Uses defensive defaults for error handling rather than typed errors.",
+  "key_changes": [
+    "Add normalize_rewards_box_for_ui function with fallback logic for non-standard keys 'xp' and 'gold_pieces'",
+    "Apply normalization to passthrough_rewards in _resolve_canonical_level_up_ui_pair",
+    "Add new test file testing_mvp/test_streaming_passthrough_normalization.py with E2E protocol test",
+    "Use copy.deepcopy to avoid mutating original rewards_box",
+    "Pop raw keys xp and gold_pieces after extracting normalized values"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "ET-20260422T023406Z",
+  "last_updated": "2026-04-22T02:45:54.902061+00:00",
+  "sample_number": 2
+}

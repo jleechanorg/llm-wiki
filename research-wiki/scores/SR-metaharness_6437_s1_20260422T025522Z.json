@@ -1,0 +1,15 @@
+{
+  "pr": 6437,
+  "technique": "SR-metaharness",
+  "naming": 78,
+  "error_handling": 48,
+  "type_safety": 62,
+  "architecture": 72,
+  "test_coverage": 0,
+  "documentation": 92,
+  "total": 57.3,
+  "breakdown": "Excellent docstrings and naming offset by complete absence of tests and missing exception handling with no try/except blocks despite documenting raised exceptions. Type safety relies on Any without TypedDict definitions for config shapes. Architecture is solid for a single-file utility.",
+  "reasoning": "Self-critique: The module docstring is exemplary in explaining root cause and rationale, and function docstrings follow good conventions. However, error handling is merely documented rather than implemented\u2014no try/except blocks exist even for I/O operations. Type annotations use bare Any where TypedDict would strengthen the config shape. The most critical gap is test coverage: the diff contains zero test code, making it impossible to verify the validation and fix logic actually works. Score reflects strong documentation offset by architectural gaps and missing tests.",
+  "run_session": "autor-SR-metaharness-20260422T025233Z",
+  "last_updated": "20260422T025522Z"
+}

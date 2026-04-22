@@ -1,0 +1,9 @@
+# SR Generation for PR #6265
+Timestamp: 2026-04-22T02:34:25.856536+00:00
+Technique: SR
+
+## PR Context
+Title: [antig] [Fix] Normalize rewards box in streaming passthrough
+
+## Generation Response (12972 chars)
+Extracted code: 45 chars

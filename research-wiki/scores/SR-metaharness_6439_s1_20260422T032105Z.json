@@ -1,0 +1,15 @@
+{
+  "pr": 6439,
+  "technique": "SR-metaharness",
+  "naming": 88,
+  "error_handling": 87,
+  "type_safety": 85,
+  "architecture": 78,
+  "test_coverage": 0,
+  "documentation": 80,
+  "total": 71.2,
+  "breakdown": "Code shows strong naming conventions and comprehensive error handling with proper exception hierarchies, but architecture suffers from tight coupling in `append_issue` (mixing I/O with business logic), test coverage is absent, and the diff appears truncated mid-function.",
+  "reasoning": "Naming is excellent with descriptive exceptions and functions. Error handling is robust with typed exceptions and context-rich messages. Type safety is solid with Union[str, Path] and generics. However, `append_issue` violates separation of concerns by embedding field defaults and I/O logic together. No test files provided, and `append_issue` docstring cuts off mid-implementation, suggesting incomplete diff.",
+  "run_session": "autor-SR-metaharness-20260422T031822Z",
+  "last_updated": "20260422T032105Z"
+}

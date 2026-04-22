@@ -1,0 +1,24 @@
+{
+  "pr": 6409,
+  "technique": "SR-5iter",
+  "naming": 80,
+  "error_handling": 85,
+  "type_safety": 80,
+  "architecture": 85,
+  "test_coverage": 90,
+  "documentation": 50,
+  "total": 80.5,
+  "breakdown": "Naming: Good descriptive test function names like test_runtime_bootstrap_invalidates_caches_and_uses_timeouts. Variables like commands, missing_modules are contextually clear. Some generic names (cmd, kwargs) but acceptable in test context. Error Handling: Tests properly verify error paths - subprocess.CalledProcessError handling, status_code 500 checks, error message assertions. Type Safety: Proper type hints throughout (list[list[str]], set[str], Path, tmp_path: Path). Mock objects created with type() are pragmatic for testing. Architecture: Clean separation - test files in tests/ directory, test_loc_script.py for script testing, runtime bootstrap tests for base module. Module boundaries respected. Test Coverage: This IS the test coverage - substantive test cases with real assertions, not stubs. Covers failure inference, bootstrap scenarios, fallback candidates, signature guard, cache invalidation. No empty test files. Documentation: Minimal - test function names are self-documenting but no docstrings or comments explaining WHY for complex test scenarios. No commented-out code.",
+  "key_changes": [
+    "Added test_process_action_stream_infers_failure_without_explicit_success - tests error status inference from structured response with 500 status code",
+    "Added test_runtime_bootstrap_skips_numpy_downgrade_when_repair_not_needed - tests numpy version check logic",
+    "Added test_runtime_bootstrap_invalidates_caches_and_uses_timeouts - tests importlib.invalidate_caches() call and timeout kwargs",
+    "Added test_evidence_signature_guard_skips_external_server_runs - tests external server bypass logic",
+    "Added test_runtime_bootstrap_tries_fallback_package_candidates - tests fallback from onnxruntime-silicon to onnxruntime",
+    "Added tests/scripts/test_loc_script.py - new test file for loc.sh script with boundary-aware test detection"
+  ],
+  "commit_sha": null,
+  "run_session": "SR-5iter-20260422T035705Z",
+  "last_updated": "2026-04-22T04:02:39.351274+00:00",
+  "sample_number": 2
+}

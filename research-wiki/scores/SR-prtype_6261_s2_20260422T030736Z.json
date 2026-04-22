@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "SR-prtype",
+  "naming": 80,
+  "error_handling": 70,
+  "type_safety": 65,
+  "architecture": 85,
+  "test_coverage": 95,
+  "documentation": 75,
+  "total": 77.75,
+  "breakdown": "PR adds robust numeric extraction to rewards_box normalization with a centralized `_DNC.convert_value` and fallback key lists. The `_get_raw` helper elegantly handles edge cases (empty strings, zero, NaN, inf). Test coverage is strong with both unit and E2E hallucination tests. Type safety is moderate due to `Any` return type in helper and runtime type assertions in tests.",
+  "key_changes": [
+    "Add `_get_raw` helper function with fallback key list and edge case handling (empty, zero, NaN, inf)",
+    "Use centralized `_DNC.convert_value` for robust numeric extraction with multiple key fallbacks",
+    "Simplify chaining by removing explicit coerce_int calls in favor of centralized conversion",
+    "Add `RewardsBoxRobustnessTest` E2E test with internal unit tests and hallucination provocation",
+    "Add comment explaining WHY non-standard boolean representations need wider truthiness check"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "SR-prtype-20260422T030347Z",
+  "last_updated": "2026-04-22T03:07:36.705882+00:00",
+  "sample_number": 2
+}

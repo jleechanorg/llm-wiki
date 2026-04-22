@@ -1,0 +1,24 @@
+{
+  "pr": 6409,
+  "technique": "SR-5iter",
+  "naming": 90,
+  "error_handling": 90,
+  "type_safety": 85,
+  "architecture": 85,
+  "test_coverage": 95,
+  "documentation": 90,
+  "total": 88.75,
+  "breakdown": "Naming: Descriptive function/test names like test_process_action_stream_infers_failure_without_explicit_success. Variables like commands, missing_modules, installed_modules clearly indicate purpose. Some generic names like fake_run acceptable for test helpers. Error Handling: Tests properly verify error responses (response[error] == internal error). subprocess.CalledProcessError is raised and caught for fallback package testing. Error conditions explicitly tested. Type Safety: Type hints present throughout (Path, list[list[str]], tuple[list[str], dict[str, object]]). No any types visible. Some mock places use object() without specifics but not critical paths. Architecture: Tests well-organized in separate concerns (stream handling, runtime bootstrap, signature guard, loc script). TestContext and _StreamingContractHarness appropriately encapsulate test harness logic. Module boundaries respected. Test Coverage: Comprehensive tests covering stream failure inference, numpy downgrade skipping, cache invalidation, fallback package candidates, evidence signature guard, loc script with spaces/boundary detection. Assertions verify actual behavior. No empty stubs. Documentation: Descriptive test names explain WHAT is being tested. Comments explain WHY (# noqa: S603 - executes the checked-in repo script under test). _write_file has docstring. No commented-out code.",
+  "key_changes": [
+    "Added test for process_action stream failure inference without explicit success flag",
+    "Added test for runtime bootstrap skipping numpy downgrade when repair not needed",
+    "Added test for runtime bootstrap cache invalidation and timeout usage",
+    "Added test for runtime bootstrap fallback package candidates (onnxruntime-silicon -> onnxruntime)",
+    "Added test for evidence signature guard skipping external server runs",
+    "Added new test file tests/scripts/test_loc_script.py for loc.sh with spaces and boundary-aware test detection"
+  ],
+  "commit_sha": null,
+  "run_session": "SR-5iter-20260422T025545Z",
+  "last_updated": "2026-04-22T02:59:25.387512+00:00",
+  "sample_number": 1
+}

@@ -1,0 +1,23 @@
+{
+  "pr": 6269,
+  "technique": "SR-adversarial",
+  "naming": 85,
+  "error_handling": 90,
+  "type_safety": 80,
+  "architecture": 88,
+  "test_coverage": 50,
+  "documentation": 95,
+  "total": 81.35,
+  "breakdown": "This PR adds CR (CodeRabbit) fallback logic to Skeptic Gates workflows, allowing approval via status checks combined with [approve] comments when no formal review exists. Key improvements: proper error handling with exit code capture, robust pipeline mode with set +e/-e and pipefail, and supporting both coderabbitai[bot] and coderabbitai user logins. Variable naming is clear (LATEST_CR_PIPELINE, *_EXIT codes). No test files added but workflow changes are verified via the CI itself.",
+  "key_changes": [
+    "Add fallback to CR status+comment approval when no formal review exists",
+    "Add proper error handling with set +e/-o pipefail and exit code checking",
+    "Support both coderabbitai[bot] and coderabbitai user login formats",
+    "Extract CR review lookup into LATEST_CR_PIPELINE with exit code tracking",
+    "Filter status check by context 'CodeRabbit' without requiring 'success' state only"
+  ],
+  "commit_sha": "35b736d9658cd1e0203503fecf4c50a8e4a809ec",
+  "run_session": "SR-adversarial-20260422T042629Z",
+  "last_updated": "2026-04-22T04:34:43.116066+00:00",
+  "sample_number": 3
+}

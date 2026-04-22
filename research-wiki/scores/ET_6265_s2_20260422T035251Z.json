@@ -1,0 +1,23 @@
+{
+  "pr": 6265,
+  "technique": "ET",
+  "naming": 95,
+  "error_handling": 70,
+  "type_safety": 75,
+  "architecture": 85,
+  "test_coverage": 80,
+  "documentation": 75,
+  "total": 79.75,
+  "breakdown": "This PR fixes a bug where rewards boxes with non-standard keys (like 'xp' instead of 'xp_gained', 'gold_pieces' instead of 'gold') from LLM generation were not being normalized before persistence. The fix extends `normalize_rewards_box_for_ui()` to handle fallback key names and ensures it's called in the streaming passthrough path. Quality is strong overall with excellent naming and clean architecture, though error handling is pragmatic rather than rigorous and type safety could be improved with TypedDict definitions for the rewards_box shape.",
+  "key_changes": [
+    "Add fallback key handling in normalize_rewards_box_for_ui: checks for 'xp' if 'xp_gained' missing, 'gold_pieces' if 'gold' missing, then pops the raw keys after coercion",
+    "Call normalize_rewards_box_for_ui() in _resolve_canonical_level_up_ui_pair() passthrough logic instead of passing raw rewards_box through",
+    "Add E2E test StreamingPassthroughNormalizationTest that instructs LLM to produce messy rewards_box and verifies normalization produces standard keys",
+    "Restructure canonical rewards box/planning block resolution in streaming path to properly handle non-level-up scenarios",
+    "Add defensive type checking in test for done_payload and structured_response before accessing rewards_box"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "ET-20260422T035122Z",
+  "last_updated": "2026-04-22T03:52:51.521346+00:00",
+  "sample_number": 2
+}

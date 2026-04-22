@@ -1,0 +1,9 @@
+# ET Generation for PR #6261
+Timestamp: 2026-04-22T03:58:07.850510+00:00
+Technique: ET
+
+## PR Context
+Title: [antig] refactor(rewards): migrate to centralized robust numeric extraction & simplify chaining
+
+## Generation Response (7417 chars)
+Extracted code: 5383 chars

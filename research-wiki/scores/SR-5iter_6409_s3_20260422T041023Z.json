@@ -1,0 +1,24 @@
+{
+  "pr": 6409,
+  "technique": "SR-5iter",
+  "naming": 85,
+  "error_handling": 85,
+  "type_safety": 85,
+  "architecture": 85,
+  "test_coverage": 95,
+  "documentation": 60,
+  "total": 84.0,
+  "breakdown": "Naming: Test function names are descriptive (test_process_action_stream_infers_failure_without_explicit_success, test_runtime_bootstrap_skips_numpy_downgrade_when_repair_not_needed). Variables like commands, missing_modules, installed_modules are clear. Good clarity. Error Handling: Tests properly mock error conditions (CalledProcessError, subprocess failures) and verify error propagation (status_code, error messages). Assertions check failure paths correctly. Type Safety: Uses type hints (list[list[str]], Path, SimpleNamespace, tuple[list[str], dict[str, object]]). Proper typing in test setup. Architecture: Tests well-organized by functionality. New test_loc_script.py properly placed in tests/scripts/. Tests isolate specific behaviors of base_test_module functions. Test Coverage: Excellent - tests cover multiple scenarios: numpy downgrade skip, cache invalidation, timeouts, fallback package candidates, evidence signature guard, loc script with spaces. All tests have substantive assertions, no stubs. Documentation: Test file lacks module-level docstring. Test functions have no docstrings explaining what they verify. Inline comments minimal but adequate for understanding setup. Some comments explain WHY for complex mock setups.",
+  "key_changes": [
+    "Added test_process_action_stream_infers_failure_without_explicit_success - verifies error propagation when stream fails",
+    "Added test_runtime_bootstrap_skips_numpy_downgrade_when_repair_not_needed - tests numpy downgrade is skipped when not needed",
+    "Added test_runtime_bootstrap_invalidates_caches_and_uses_timeouts - verifies cache invalidation and 600s timeout on pip installs",
+    "Added test_runtime_bootstrap_tries_fallback_package_candidates - tests fallback from onnxruntime-silicon to onnxruntime",
+    "Added test_evidence_signature_guard_skips_external_server_runs - verifies skip when server is external",
+    "Added new test file tests/scripts/test_loc_script.py - tests loc.sh handles spaces and test detection"
+  ],
+  "commit_sha": null,
+  "run_session": "SR-5iter-20260422T040724Z",
+  "last_updated": "2026-04-22T04:10:23.428051+00:00",
+  "sample_number": 3
+}

@@ -1,0 +1,24 @@
+{
+  "pr": 6409,
+  "technique": "SR-5iter",
+  "naming": 95,
+  "error_handling": 80,
+  "type_safety": 85,
+  "architecture": 85,
+  "test_coverage": 90,
+  "documentation": 60,
+  "total": 83.75,
+  "breakdown": "Naming: Excellent descriptive test function names (e.g., test_runtime_bootstrap_tries_fallback_package_candidates, test_loc_script_handles_spaces_and_boundary_aware_test_detection) and well-named helper variables. Error Handling: Tests verify error paths well (checks return codes, error messages, status codes), includes intentional subprocess.run usage with explanation comment. Type Safety: Good type hints throughout (list[str], Path, etc.), uses typed mock objects, though some areas could use TypedDict. Architecture: Well-organized modular test structure, clear separation between test modules and scripts under test, appropriate use of monkeypatch isolation. Test Coverage: Strong coverage with multiple scenarios per feature (success, failure, edge cases like fallback packages, path spaces, timeouts), detailed assertions verify specific behaviors. Documentation: No docstrings on test functions, relies on descriptive function names for clarity, includes rationale comment for subprocess.run check=False usage.",
+  "key_changes": [
+    "New test_process_action_stream_infers_failure_without_explicit_success covering 500 status error handling",
+    "test_runtime_bootstrap_skips_numpy_downgrade_when_repair_not_needed for version guard logic",
+    "test_runtime_bootstrap_invalidates_caches_and_uses_timeouts verifying 600s timeout and importlib.invalidate_caches()",
+    "test_evidence_signature_guard_skips_external_server_runs for external server detection",
+    "test_runtime_bootstrap_tries_fallback_package_candidates for fallback package ordering (onnxruntime-silicon \u2192 onnxruntime)",
+    "New tests/scripts/test_loc_script.py file testing loc.sh with space-in-path handling and boundary-aware test detection"
+  ],
+  "commit_sha": null,
+  "run_session": "SR-5iter-20260422T031839Z",
+  "last_updated": "2026-04-22T03:22:33.027503+00:00",
+  "sample_number": 1
+}

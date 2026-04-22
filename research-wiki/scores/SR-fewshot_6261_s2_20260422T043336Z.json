@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "SR-fewshot",
+  "naming": 70,
+  "error_handling": 80,
+  "type_safety": 65,
+  "architecture": 80,
+  "test_coverage": 85,
+  "documentation": 75,
+  "total": 75.75,
+  "breakdown": "This PR refactors rewards box normalization to use a centralized robust numeric extraction with fallback key aliases to handle LLM-generated messy data. The naming is mostly clear but uses the unexplained `_DNC` abbreviation; the type safety is weakened by `Any` types on critical paths; the architecture properly separates the helper function and the test provides good E2E coverage of edge cases like NaN, empty strings, and fallback aliases.",
+  "key_changes": [
+    "Replace `coerce_int` calls with `_DNC.convert_value` for centralized robust conversion",
+    "Add `_get_raw` helper function with fallback key resolution ignoring 0/NaN/inf/empty as 'not present'",
+    "Use multiple key aliases for xp and gold fields (e.g., xp_gained \u2192 xp \u2192 xp_awarded \u2192 xpAmount)",
+    "Add new E2E test file testing_mcp/test_rewards_box_robustness.py with unit and live LLM hallucination tests",
+    "Handle edge cases: empty strings skipped, 0 treated as zero candidate, NaN/inf treated as invalid"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "SR-fewshot-20260422T042550Z",
+  "last_updated": "2026-04-22T04:33:36.657096+00:00",
+  "sample_number": 2
+}

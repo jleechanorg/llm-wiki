@@ -1,0 +1,22 @@
+{
+  "pr": 6265,
+  "technique": "SR-fewshot",
+  "naming": 95,
+  "error_handling": 80,
+  "type_safety": 85,
+  "architecture": 80,
+  "test_coverage": 90,
+  "documentation": 70,
+  "total": 83.75,
+  "breakdown": "This PR fixes rewards box normalization in the streaming passthrough path by adding fallback handling for non-standard keys ('xp'/'xp_gained', 'gold'/'gold_pieces') before persisting to game state. The normalize_rewards_box_for_ui function now checks for alternate keys and removes the raw keys after normalization. The new E2E test verifies that messy LLM outputs get properly normalized. Naming is excellent throughout, but documentation could use more context on WHY these alternate formats exist, and error handling relies on defaults rather than explicit exception handling.",
+  "key_changes": [
+    "Add fallback key handling in normalize_rewards_box_for_ui for 'xp' \u2192 'xp_gained' and 'gold' \u2192 'gold_pieces'",
+    "Pop raw alternate keys after normalization to clean up persisted state",
+    "Apply normalize_rewards_box_for_ui to passthrough_rewards in _resolve_canonical_level_up_ui_pair",
+    "Add E2E test test_streaming_passthrough_normalization.py to verify normalization with non-standard keys"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-fewshot-20260422T042550Z",
+  "last_updated": "2026-04-22T04:26:57.254408+00:00",
+  "sample_number": 2
+}

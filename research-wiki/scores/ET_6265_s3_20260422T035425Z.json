@@ -1,0 +1,22 @@
+{
+  "pr": 6265,
+  "technique": "ET",
+  "naming": 85,
+  "error_handling": 75,
+  "type_safety": 70,
+  "architecture": 80,
+  "test_coverage": 95,
+  "documentation": 70,
+  "total": 79.0,
+  "breakdown": "This PR adds fallback logic to handle non-standard rewards_box keys ('xp'/'xp_gained', 'gold'/'gold_pieces') in the streaming passthrough path. The fix normalizes LLM-generated payloads before persistence. Key quality notes: test coverage is excellent (full E2E), naming is clear, but the core function lacks a docstring and type annotations for the return type. Error handling relies on coerce_int defaults rather than explicit exception handling.",
+  "key_changes": [
+    "Added fallback key handling in normalize_rewards_box_for_ui for xp/xp_gained and gold/gold_pieces",
+    "Added cleanup of raw keys after normalization (pop xp and gold_pieces)",
+    "Added normalize_rewards_box_for_ui call in _resolve_canonical_level_up_ui_pair passthrough path",
+    "Created E2E test file testing_mcp/test_streaming_passthrough_normalization.py"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "ET-20260422T035122Z",
+  "last_updated": "2026-04-22T03:54:25.726138+00:00",
+  "sample_number": 3
+}

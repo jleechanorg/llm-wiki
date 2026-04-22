@@ -1,0 +1,22 @@
+{
+  "pr": 6265,
+  "technique": "SR-fewshot",
+  "naming": 90,
+  "error_handling": 75,
+  "type_safety": 85,
+  "architecture": 85,
+  "test_coverage": 95,
+  "documentation": 85,
+  "total": 85.25,
+  "breakdown": "This PR fixes a bug where rewards_box payloads were passed through without normalization. LLM-generated responses may use non-standard keys like 'xp' instead of 'xp_gained'. The fix adds a call to normalize_rewards_box_for_ui in the passthrough path, updates that function to handle fallback keys, and adds a test verifying the normalization works correctly. Overall solid code quality with good test coverage.",
+  "key_changes": [
+    "Added normalize_rewards_box_for_ui call in _resolve_canonical_level_up_ui_pair to normalize rewards before persistence",
+    "Extended normalize_rewards_box_for_ui to check 'xp'/'gold_pieces' as fallbacks when 'xp_gained'/'gold' are missing",
+    "Added .pop() calls to remove raw fallback keys after normalization",
+    "Created new test file test_streaming_passthrough_normalization.py with E2E test using real LLM to verify the fix"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-fewshot-20260422T042550Z",
+  "last_updated": "2026-04-22T04:31:59.304767+00:00",
+  "sample_number": 9
+}

@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "SR-fewshot",
+  "naming": 80,
+  "error_handling": 65,
+  "type_safety": 60,
+  "architecture": 75,
+  "test_coverage": 75,
+  "documentation": 70,
+  "total": 70.25,
+  "breakdown": "This PR refactors rewards box numeric extraction to use a centralized `_get_raw` helper with fallback key chains and `_DNC.convert_value` for defensive conversion. It handles edge cases like empty strings, zero, NaN, and inf by continuing to search for valid values. Added comprehensive E2E test coverage for hallucinated LLM outputs. Main quality gaps: uses `Any` type for the helper function return value, lacks explicit exception handling with typed errors, and no function docstrings on the helper functions.",
+  "key_changes": [
+    "Add `_get_raw` helper function with multi-key fallback and edge case handling (empty string, zero, NaN, inf)",
+    "Replace individual `coerce_int` calls with centralized `_DNC.convert_value` for xp_gained, gold, current_xp, next_level_xp",
+    "Refactor key aliases to support LLM non-standard field names (xpAmount, gold_awarded, xp_earned, gp)",
+    "Add test file testing_mcp/test_rewards_box_robustness.py with internal unit tests and E2E hallucination tests",
+    "Handle absent next_level_xp by defaulting to 0 instead of DNC game-state defaults"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "SR-fewshot-20260422T042550Z",
+  "last_updated": "2026-04-22T04:34:35.781928+00:00",
+  "sample_number": 5
+}
