@@ -1,52 +1,64 @@
 # Resume Prompt — Autor Commit Workflow — 2026-04-23
 
-## Context
-On machine `llm-wiki-autor-phase3` (branch: `sr-matched-corpus-0417`), the autor workflow was modified to push commits to `jleechanorg/worldarchitect-autor-eval` instead of creating PRs on `worldarchitect.ai`.
+## What Was Done
+Modified `scripts/run_autor_pr.py` and `scripts/run_autor_experiment.py` to push commits directly to `jleechanorg/worldarchitect-autor-eval` instead of creating draft PRs on `worldarchitect.ai`. The scripts now:
+1. Generate fix via MiniMax
+2. Write `autor_generated.py` to `~/worldarchitect-ai-autor`
+3. Commit and `git push -u autor-eval <branch>`
+4. Score against 6-dim rubric
+5. Write score JSON + log
+6. Update bandit state
+No PR created — just remote branch + score record.
 
-**What was done this session:**
-- Modified `scripts/run_autor_pr.py` and `scripts/run_autor_experiment.py` to push commits to autor-eval instead of creating/closing PRs
-- Removed the PR lifecycle entirely (no draft PR, no close after score)
-- Added `push_autor_commit()` that writes `autor_generated.py` to `~/worldarchitect-ai-autor` and pushes to `jleechanorg/worldarchitect-autor-eval`
+## What Changed
+- `scripts/run_autor_pr.py` — removed PR lifecycle (open/close), removed `_import_autor_pr()`, removed `run_tests_via_api()`
+- `scripts/run_autor_experiment.py` — added `REPO_LOCAL`, `run_git()`, `push_autor_commit()` helpers; integrated into `run_cell()`
 
-**Current state:**
-- Changes are uncommitted in `llm-wiki-autor-phase3`
-- Score JSONs from SR-5iter and SR-metaharness runs are staged/unstaged but not committed
-- `~/worldarchitect-ai-autor` is the local clone used for pushing to autor-eval
+## Current State
+- Commit `6480d891` merged to `main` on `jleechanorg/llm-wiki`
+- Research branch `sr-matched-corpus-0417` is behind main; resync from main on next session in `llm-wiki-autor-phase3`
+- `~/worldarchitect-ai-autor` is the working clone for pushing to autor-eval
 
-## How to Resume
+## How to Resume on Another Machine
 
-### Step 1: Commit the modified scripts
+### Step 1: Pull latest main
 ```bash
-cd /Users/jleechan/llm-wiki-autor-phase3
-git add scripts/run_autor_pr.py scripts/run_autor_experiment.py
-git commit -m "autor: push commits to autor-eval instead of PRs"
-git push origin sr-matched-corpus-0417
+git clone https://github.com/jleechanorg/llm-wiki.git ~/llm-wiki
+cd ~/llm-wiki
 ```
 
-### Step 2: Also push the autor-eval changes
-The local clone `~/worldarchitect-ai-autor` should already have the autor-eval remote configured. Verify:
+### Step 2: Ensure autor-eval remote is available
 ```bash
-git -C ~/worldarchitect-ai-autor remote -v
-# Should show: autor-eval https://github.com/jleechanorg/worldarchitect-autor-eval.git
+git remote add autor-eval https://github.com/jleechanorg/worldarchitect-autor-eval.git
+# OR if already cloned:
+git remote -v  # should show autor-eval
 ```
 
-### Step 3: Test end-to-end
+### Step 3: Verify scripts
 ```bash
-cd /Users/jleechan/llm-wiki-autor-phase3
+ls scripts/run_autor_pr.py          # should exist
+ls scripts/run_autor_experiment.py # should exist
+```
+
+### Step 4: Clone/create autor working directory for autor-eval pushes
+```bash
+git clone https://github.com/jleechanorg/worldarchitect-autor-eval.git ~/worldarchitect-ai-autor
+```
+
+### Step 5: Run a test
+```bash
+cd ~/llm-wiki
 python scripts/run_autor_pr.py --technique SR --pr-number 6404
 ```
-Expected: branch pushed to autor-eval, score JSON written, bandit updated.
+Expected output: `DONE: SR on PR #6404 → score=XX branch=autor-sr-6404-YYYYMMDDHHMMSS`
 
-### Step 4: Update autor-n15-loop.md skill (optional)
-Update `.claude/skills/autor-n15-loop.md` to reference the commit-only workflow.
+### Step 6: Check autor-eval push
+```bash
+git -C ~/worldarchitect-ai-autor log --oneline -3
+# Should show new branch pushed
+```
 
-## Key Files
-- `scripts/run_autor_pr.py` — single-run, commit-only
-- `scripts/run_autor_experiment.py` — batch mode with commit push
-- `technique_bandit/bandit_state.json` — all technique scores (n=15-31 per technique)
-- `~/worldarchitect-ai-autor` — local clone used for autor-eval pushes
-
-## Bandit State (current)
+## Bandit State
 | Technique | n | mean |
 |----------|---|------|
 | SR-multi-exemplar | 31 | 80.4 |
@@ -60,7 +72,7 @@ Update `.claude/skills/autor-n15-loop.md` to reference the commit-only workflow.
 | SR-5iter | 15 | 82.4 |
 
 ## Key Rules
-- Autor commits → `jleechanorg/worldarchitect-autor-eval` (not `worldarchitect.ai`)
-- No PR created — just branch + score record
-- Autor PRs (worldarchitect.ai) = evaluation artifacts, never merge candidates
+- Autor commits → `jleechanorg/worldarchitect-autor-eval` (NOT `worldarchitect.ai`)
+- No PR created — just branch push + score record
 - `/autor-n15-loop` = correct loop for technique research
+- Autor PRs (worldarchitect.ai) = evaluation artifacts, never merge candidates
