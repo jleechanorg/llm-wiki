@@ -1,0 +1,23 @@
+{
+  "pr": 6269,
+  "technique": "SR-prtype",
+  "naming": 70,
+  "error_handling": 90,
+  "type_safety": 40,
+  "architecture": 75,
+  "test_coverage": 20,
+  "documentation": 80,
+  "total": 62.5,
+  "breakdown": "This PR ports CR (CodeRabbit) fallback logic to Skeptic Gates workflow files. It adds robust error handling with exit code capture via set +e -o pipefail, falls back to status+comment detection when formal reviews aren't available, and handles both coderabbitai[bot] and coderabbitai user logins. High error handling quality but score penalized by lack of test files and shell scripting having no type safety concept.",
+  "key_changes": [
+    "Added error handling with set +e -o pipefail and exit code capture (LATEST_CR_EXIT, CR_APPROVE_EXIT)",
+    "Added fallback logic: when no formal CR review exists, check CodeRabbit status + [approve] comment",
+    "Expanded user.login filter to include both 'coderabbitai[bot]' and 'coderabbitai'",
+    "Changed regex from strict '\\\\s*\\\\[approve\\\\]\\\\s*$' to simpler '\\\\[approve\\\\]' for comment matching",
+    "Modified CR status filter to include all states (not just 'success') before falling back to comment check"
+  ],
+  "commit_sha": "35b736d9658cd1e0203503fecf4c50a8e4a809ec",
+  "run_session": "SR-prtype-20260422T031647Z",
+  "last_updated": "2026-04-22T03:19:43.521566+00:00",
+  "sample_number": 2
+}

@@ -1,0 +1,23 @@
+{
+  "pr": 6245,
+  "technique": "SR-prtype",
+  "naming": 80,
+  "error_handling": 75,
+  "type_safety": 80,
+  "architecture": 85,
+  "test_coverage": 85,
+  "documentation": 70,
+  "total": 79.75,
+  "breakdown": "This PR stabilizes XP synthesis by adding checks for xp_awarded from combat/encounter summaries with proper fallback to rewards_pending. It removes the duplicate _extract_xp_from_player_data function in favor of extract_character_xp, reducing code duplication. Good defensive type checking added (isinstance checks), but inline comments could better explain the WHY behind the precedence order changes.",
+  "key_changes": [
+    "Added xp_awarded check in _synthesize_generic_rewards_box for combat rewards with type-safe isinstance check",
+    "Added xp_awarded check in _synthesize_generic_rewards_box for encounter rewards",
+    "Replaced _extract_xp_from_player_data calls with extract_character_xp throughout",
+    "Removed duplicate _extract_xp_from_player_data function (~45 lines)",
+    "Added comprehensive tests for extract_character_xp covering missing/invalid inputs and float conversion"
+  ],
+  "commit_sha": "86585b929a75e6b69b1b4e53f17ad560e6e1a880",
+  "run_session": "SR-prtype-20260422T031449Z",
+  "last_updated": "2026-04-22T03:16:27.024933+00:00",
+  "sample_number": 1
+}

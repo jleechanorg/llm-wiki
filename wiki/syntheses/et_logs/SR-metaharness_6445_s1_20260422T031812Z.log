@@ -1,0 +1,7 @@
+# SR-metaharness generation for PR #6445
+Timestamp: 2026-04-22T03:14:58.449559+00:00
+Technique: SR-metaharness
+PR: chore(deps): bump lxml from 6.0.2 to 6.1.0
+
+Raw response: 20984 chars
+Extracted code: 9672 chars

@@ -1,0 +1,9 @@
+# SR-fewshot Generation for PR #6261
+Timestamp: 2026-04-22T04:34:37.902961+00:00
+Technique: SR-fewshot
+
+## PR Context
+Title: [antig] refactor(rewards): migrate to centralized robust numeric extraction & simplify chaining
+
+## Generation Response (2447 chars)
+Extracted code: 1411 chars

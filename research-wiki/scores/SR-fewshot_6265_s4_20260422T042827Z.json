@@ -1,0 +1,22 @@
+{
+  "pr": 6265,
+  "technique": "SR-fewshot",
+  "naming": 85,
+  "error_handling": 75,
+  "type_safety": 70,
+  "architecture": 85,
+  "test_coverage": 90,
+  "documentation": 70,
+  "total": 79.25,
+  "breakdown": "This PR fixes a bug where the streaming passthrough path was not normalizing rewards_box payloads that used non-standard keys (xp/gold_pieces instead of xp_gained/gold). The fix adds fallback logic in normalize_rewards_box_for_ui and ensures it's called in the non-level-up path. The new E2E test properly exercises the normalization by forcing the LLM to produce messy keys and verifying they get normalized. Naming is good with descriptive variables like raw_xp/raw_gold. Type safety and error handling could benefit from explicit type hints and more defensive checks.",
+  "key_changes": [
+    "Add fallback key handling in normalize_rewards_box_for_ui: xp->xp_gained and gold_pieces->gold",
+    "Remove raw fallback keys (xp, gold_pieces) after normalization",
+    "Call normalize_rewards_box_for_ui in _resolve_canonical_level_up_ui_pair passthrough path",
+    "Add E2E test file testing streaming passthrough normalization with messy LLM keys"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-fewshot-20260422T042550Z",
+  "last_updated": "2026-04-22T04:28:27.041099+00:00",
+  "sample_number": 4
+}

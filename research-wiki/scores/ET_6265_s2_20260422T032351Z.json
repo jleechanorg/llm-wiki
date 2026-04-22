@@ -1,0 +1,23 @@
+{
+  "pr": 6265,
+  "technique": "ET",
+  "naming": 90,
+  "error_handling": 75,
+  "type_safety": 80,
+  "architecture": 85,
+  "test_coverage": 90,
+  "documentation": 70,
+  "total": 82.0,
+  "breakdown": "This PR fixes a bug where rewards_box payloads with non-standard keys ('xp' instead of 'xp_gained', 'gold_pieces' instead of 'gold') from LLM generation were passing through without normalization. The fix adds fallback key handling in normalize_rewards_box_for_ui and ensures the normalization is applied in the non-level-up streaming passthrough path. Code quality is solid with good variable naming and defensive isinstance checks, though error handling could benefit from explicit try/except blocks for edge cases.",
+  "key_changes": [
+    "normalize_rewards_box_for_ui now checks for fallback keys (xp\u2192xp_gained, gold_pieces\u2192gold) and removes them after normalization",
+    "_resolve_canonical_level_up_ui_pair now calls normalize_rewards_box_for_ui on passthrough_rewards before returning",
+    "core_integration.py restructuring to apply normalization consistently across all streaming passthrough paths",
+    "New E2E test file validates that LLM-generated messy rewards_box keys are properly normalized before persistence",
+    "Test verifies both converted keys exist AND raw fallback keys are removed"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "ET-20260422T032051Z",
+  "last_updated": "2026-04-22T03:23:51.743594+00:00",
+  "sample_number": 2
+}

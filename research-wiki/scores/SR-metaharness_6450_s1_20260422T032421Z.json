@@ -1,0 +1,15 @@
+{
+  "pr": 6450,
+  "technique": "SR-metaharness",
+  "naming": 70,
+  "error_handling": 35,
+  "type_safety": 55,
+  "architecture": 50,
+  "test_coverage": 0,
+  "documentation": 70,
+  "total": 45.5,
+  "breakdown": "The code shows good intent with clear naming and explanatory WHY comments, but is fundamentally broken: the `apply_fixes` method is truncated mid-execution, references an undefined function `required_version_str()`, and the `replacer` callback is unused. Error handling swallows exceptions silently without logging, type hints are incomplete, and critically, there are zero tests covering this security fix.",
+  "reasoning": "While the documentation explains WHY each component exists (CVE context, method rationale), the code is incomplete and non-functional. The truncated `apply_fixes` method with undefined references makes this PR non-usable. No test coverage is present for a security-sensitive change. The type safety is partial with some annotations missing.",
+  "run_session": "autor-SR-metaharness-20260422T032109Z",
+  "last_updated": "20260422T032421Z"
+}

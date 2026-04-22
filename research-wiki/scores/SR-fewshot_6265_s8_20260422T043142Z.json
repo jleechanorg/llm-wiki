@@ -1,0 +1,23 @@
+{
+  "pr": 6265,
+  "technique": "SR-fewshot",
+  "naming": 90,
+  "error_handling": 75,
+  "type_safety": 60,
+  "architecture": 90,
+  "test_coverage": 80,
+  "documentation": 50,
+  "total": 75.5,
+  "breakdown": "This PR fixes a rewards box normalization issue in streaming passthrough by adding fallback logic for non-standard keys ('xp'/'xp_gained', 'gold_pieces'/'gold'). The core fix is in `normalize_rewards_box_for_ui` which now handles alternate key names before persisting. While naming and architecture are solid, the function lacks type annotations and documentation. Error handling relies on defaults rather than explicit exception handling.",
+  "key_changes": [
+    "Add fallback logic in `normalize_rewards_box_for_ui` to handle 'xp' \u2192 'xp_gained' and 'gold_pieces' \u2192 'gold' key normalization",
+    "Remove alternate keys after normalization with `normalized.pop()`",
+    "Apply `normalize_rewards_box_for_ui` to passthrough_rewards in `_resolve_canonical_level_up_ui_pair`",
+    "Add E2E test file `test_streaming_passthrough_normalization.py` that verifies normalization with messy keys",
+    "Refactor canonical_stream_rewards_box handling with new raw_structured_rewards_box variable"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-fewshot-20260422T042550Z",
+  "last_updated": "2026-04-22T04:31:42.411077+00:00",
+  "sample_number": 8
+}

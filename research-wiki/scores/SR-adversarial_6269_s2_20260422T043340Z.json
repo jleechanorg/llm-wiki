@@ -1,0 +1,23 @@
+{
+  "pr": 6269,
+  "technique": "SR-adversarial",
+  "naming": 85,
+  "error_handling": 90,
+  "type_safety": 50,
+  "architecture": 80,
+  "test_coverage": 30,
+  "documentation": 70,
+  "total": 68.25,
+  "breakdown": "This PR ports CR (CodeRabbit) fallback logic to Skeptic Gates workflows, adding resilience by checking both formal CodeRabbit reviews and fallback to status+comment approval. It adds proper error handling with set +e -o pipefail and exit code checking, extends the user filter to include both coderabbitai[bot] and coderabbitai, and adds informative debug output. The main quality concerns are no test coverage for the new fallback logic and shell scripting's inherent lack of type safety, though the code is otherwise well-structured with good naming and inline comments explaining the reasoning.",
+  "key_changes": [
+    "Added error handling with set +e -o pipefail before gh API calls to properly capture failures",
+    "Added fallback logic: if formal CR review unavailable, check status + [approve] comment",
+    "Extended user login filter from coderabbitai[bot] to include both coderabbitai[bot] or coderabbitai",
+    "Renamed variables to distinguish raw pipeline output (LATEST_CR_PIPELINE) from processed values",
+    "Added detailed debug output showing CR_SIGNAL values for traceability"
+  ],
+  "commit_sha": "35b736d9658cd1e0203503fecf4c50a8e4a809ec",
+  "run_session": "SR-adversarial-20260422T042629Z",
+  "last_updated": "2026-04-22T04:33:40.594519+00:00",
+  "sample_number": 2
+}

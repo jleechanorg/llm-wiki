@@ -1,0 +1,23 @@
+{
+  "pr": 6277,
+  "technique": "SR-adversarial",
+  "naming": 90,
+  "error_handling": 70,
+  "type_safety": 85,
+  "architecture": 80,
+  "test_coverage": 95,
+  "documentation": 80,
+  "total": 82.75,
+  "breakdown": "This PR adds comprehensive TDD tests for a RewardsBox TypedDict and validate_rewards_box() schema enforcement in custom_types.py. The tests cover TypedDict existence, required fields, and various validation scenarios including wrong types and extra fields. Test coverage is excellent with 10 tests verifying the schema contract. Naming is clear and descriptive throughout. Error handling relies on boolean returns rather than typed exceptions, and the actual implementation is not visible in this truncated diff.",
+  "key_changes": [
+    "Added test_rewards_box_schema.py with 10 comprehensive tests for TypedDict and validation",
+    "Tests verify RewardsBox TypedDict exists with required fields (level_up_available, xp_gained, current_xp, next_level_xp, gold, loot, source)",
+    "Tests verify validate_rewards_box() accepts valid data and rejects invalid data",
+    "Tests cover type validation for bool, int, list fields and reject non-dict inputs",
+    "Added field validation logic for progress_percent, new_level, source_id in optional fields"
+  ],
+  "commit_sha": "52a5fe2c17cbe22a7da159c7542b8ecc585848e7",
+  "run_session": "SR-adversarial-20260422T042629Z",
+  "last_updated": "2026-04-22T04:35:16.295624+00:00",
+  "sample_number": 1
+}

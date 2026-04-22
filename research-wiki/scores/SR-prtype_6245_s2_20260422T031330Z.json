@@ -1,0 +1,23 @@
+{
+  "pr": 6245,
+  "technique": "SR-prtype",
+  "naming": 85,
+  "error_handling": 75,
+  "type_safety": 70,
+  "architecture": 75,
+  "test_coverage": 85,
+  "documentation": 75,
+  "total": 77.0,
+  "breakdown": "This PR stabilizes XP synthesis by prioritizing combat/encounter summary XP fields (xp_awarded) over pending rewards fields (xp_gained/xp), and replaces the internal _extract_xp_from_player_data helper with the proper extract_character_xp function. The changes improve error handling with isinstance checks before dict access. Naming is improved with clearer function names. Tests cover the XP extraction logic comprehensively. However, type safety is limited by Any usage internally, and error handling relies on silent defaults rather than explicit error propagation.",
+  "key_changes": [
+    "Remove _extract_xp_from_player_data function and redirect callers to extract_character_xp",
+    "Add xp_awarded extraction from combat_summary in _synthesize_generic_rewards_box with priority fallback",
+    "Add xp_awarded extraction from encounter_summary in _synthesize_generic_rewards_box with priority fallback",
+    "Rename check_and_set_level_up_pending_impl to ensure_level_up_rewards_pending",
+    "Add isinstance(dict) check before accessing combat_summary.get('xp_awarded') for type safety"
+  ],
+  "commit_sha": "86585b929a75e6b69b1b4e53f17ad560e6e1a880",
+  "run_session": "SR-prtype-20260422T030347Z",
+  "last_updated": "2026-04-22T03:13:30.191265+00:00",
+  "sample_number": 2
+}

@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "SR-fewshot",
+  "naming": 80,
+  "error_handling": 75,
+  "type_safety": 70,
+  "architecture": 85,
+  "test_coverage": 90,
+  "documentation": 75,
+  "total": 79.0,
+  "breakdown": "This PR refactors the rewards box normalization to use a centralized robust numeric converter with a new `_get_raw` helper function that handles multiple fallback keys and edge cases (empty strings, zeros, NaN/inf). It adds comprehensive test coverage including both unit tests and E2E tests. Main weaknesses: the helper function uses `Any` return type reducing type safety, and the helper lacks a docstring explaining its contract.",
+  "key_changes": [
+    "Replace inline `coerce_int` calls with `_DNC.convert_value` for centralized robust numeric conversion",
+    "Add `_get_raw` helper function with fallback key chain and edge case handling (empty strings, zeros, NaN/inf)",
+    "Simplify XP/gold extraction to use fallback key lists like ['xp_gained', 'xp', 'xp_awarded', 'xpAmount', 'xp_earned']",
+    "Add new test file `testing_mcp/test_rewards_box_robustness.py` with unit and E2E hallucination tests",
+    "Add WHY comment explaining boolean representation handling for LLM outputs"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "SR-fewshot-20260422T042550Z",
+  "last_updated": "2026-04-22T04:35:23.764202+00:00",
+  "sample_number": 7
+}

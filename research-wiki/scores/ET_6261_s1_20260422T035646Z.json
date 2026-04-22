@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "ET",
+  "naming": 75,
+  "error_handling": 70,
+  "type_safety": 60,
+  "architecture": 75,
+  "test_coverage": 85,
+  "documentation": 80,
+  "total": 73.0,
+  "breakdown": "This PR refactors rewards_box normalization to use a centralized robust numeric extraction pattern with multi-key fallbacks (e.g., xp_gained \u2192 xp \u2192 xp_awarded \u2192 etc.) and the _DNC.convert_value helper. The changes improve edge case handling for messy LLM hallucinated outputs (NaN, inf, empty strings, zero candidates). Minor issues: _get_raw returns Any losing type info, _DNC abbreviation is cryptic, and no explicit exception handling visible.",
+  "key_changes": [
+    "Replaced inline coerce_int calls with centralized _get_raw(keys) helper that implements robust multi-key fallback strategy",
+    "Added _DNC.convert_value for centralized robust numeric conversion with fallback keys",
+    "Implemented _get_raw logic to handle edge cases: empty strings \u2192 skip, 0/0.0 \u2192 zero candidate, NaN/inf \u2192 skip, return first finite non-zero value",
+    "Added explanatory comments on WHY decisions (e.g., LLM non-standard boolean representations, treating empty as not present)",
+    "Created new test file testing_mcp/test_rewards_box_robustness.py with unit tests and E2E hallucination provocation tests"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "ET-20260422T035122Z",
+  "last_updated": "2026-04-22T03:56:46.728698+00:00",
+  "sample_number": 1
+}

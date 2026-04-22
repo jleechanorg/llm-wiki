@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "SR-fewshot",
+  "naming": 70,
+  "error_handling": 50,
+  "type_safety": 55,
+  "architecture": 70,
+  "test_coverage": 85,
+  "documentation": 60,
+  "total": 64.25,
+  "breakdown": "This PR adds a `_get_raw` helper function inside `normalize_rewards_box_for_ui` that iterates through multiple fallback key aliases (xp_gained\u2192xp\u2192xp_awarded\u2192xpAmount\u2192xp_earned) to find the first non-zero finite value, then pipes results through a centralized `_DNC.convert_value` for robust numeric parsing. The change addresses LLM hallucinated reward fields like 'xpAmount': '1,000 XP'. Weaknesses: uses `Any` type in the helper, minimal explicit error handling/typed errors, and missing docstrings on the core function despite good explanatory comments elsewhere.",
+  "key_changes": [
+    "Added `_get_raw` helper with fallback key chain iteration logic",
+    "Replaced direct coerce_int calls with `_DNC.convert_value` wrapper",
+    "Extended key aliases for xp and gold fields to handle LLM variations",
+    "Added `testing_mcp/test_rewards_box_robustness.py` with unit and E2E hallucination tests",
+    "Rewrote value extraction to prioritize non-zero finite values over zero/NaN/inf"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "SR-fewshot-20260422T042550Z",
+  "last_updated": "2026-04-22T04:33:52.014746+00:00",
+  "sample_number": 3
+}

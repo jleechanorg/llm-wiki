@@ -1,0 +1,23 @@
+{
+  "pr": 6265,
+  "technique": "SR",
+  "naming": 90,
+  "error_handling": 75,
+  "type_safety": 60,
+  "architecture": 85,
+  "test_coverage": 95,
+  "documentation": 65,
+  "total": 78.25,
+  "breakdown": "This PR adds a normalize_rewards_box_for_ui function that converts LLM-generated 'xp'/'gold_pieces' keys to standard 'xp_gained'/'gold'. It applies normalization in the streaming passthrough path. Naming is excellent throughout. Type safety is weak - no type hints visible in the diff. Error handling is adequate via coerce_int defaults. The test coverage is thorough, using real LLM calls to verify the fix. Documentation is mixed - the new function lacks a docstring but test has good explanation.",
+  "key_changes": [
+    "Add normalize_rewards_box_for_ui function to convert alternative keys (xp->xp_gained, gold_pieces->gold)",
+    "Call normalize_rewards_box_for_ui in _resolve_canonical_level_up_ui_pair for passthrough rewards",
+    "Add test file test_streaming_passthrough_normalization.py with E2E test",
+    "Refactor canonical_stream_planning_block assignment logic in streaming block handling",
+    "Pop normalized keys (xp, gold_pieces) after conversion to clean output"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-20260422T023321Z",
+  "last_updated": "2026-04-22T02:43:43.462643+00:00",
+  "sample_number": 7
+}

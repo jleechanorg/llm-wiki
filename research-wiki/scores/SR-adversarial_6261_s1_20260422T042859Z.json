@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "SR-adversarial",
+  "naming": 85,
+  "error_handling": 70,
+  "type_safety": 60,
+  "architecture": 85,
+  "test_coverage": 95,
+  "documentation": 70,
+  "total": 77.0,
+  "breakdown": "This PR refactors rewards_box normalization to use centralized robust numeric extraction with fallback key chains. It introduces a helper function to safely extract values before conversion, handling edge cases like NaN/inf. The test file provides thorough coverage including unit tests and E2E hallucination provocation. Type safety is moderate due to `Any` types and lack of TypedDict; error handling is implicit rather than typed.",
+  "key_changes": [
+    "Introduce _get_raw helper with fallback keys for robust value extraction before conversion",
+    "Replace coerce_int calls with centralized _DNC.convert_value for UI display normalization",
+    "Handle edge cases: empty strings, 0/0.0, NaN/inf treated as invalid fallbacks",
+    "Add XP tracking fields with explicit absent handling defaulting to 0",
+    "Add test_rewards_box_robustness.py with internal unit tests and E2E hallucination scenarios"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "SR-adversarial-20260422T042629Z",
+  "last_updated": "2026-04-22T04:28:59.785515+00:00",
+  "sample_number": 1
+}

@@ -1,0 +1,23 @@
+{
+  "pr": 6265,
+  "technique": "SR-prtype",
+  "naming": 90,
+  "error_handling": 70,
+  "type_safety": 85,
+  "architecture": 90,
+  "test_coverage": 80,
+  "documentation": 85,
+  "total": 83.0,
+  "breakdown": "This PR fixes normalization of rewards_box in streaming passthrough to handle LLM-generated payloads with non-standard keys ('xp'/'xp_gained', 'gold'/'gold_pieces'). The core change adds fallback logic in normalize_rewards_box_for_ui that checks both normalized and raw keys, then removes the raw keys after normalization. A new E2E test verifies this path using real LLM. Overall code quality is solid with good naming and architecture; minor deduction for lack of explicit error handling beyond silent coercion to defaults.",
+  "key_changes": [
+    "Add fallback key handling in normalize_rewards_box_for_ui: checks xp_gained first, falls back to xp; checks gold first, falls back to gold_pieces",
+    "Remove raw keys after normalization with normalized.pop() calls",
+    "Call normalize_rewards_box_for_ui in _resolve_canonical_level_up_ui_pair before returning passthrough_rewards",
+    "New E2E test verifies normalization with messy LLM-generated rewards_box using 'xp' and 'gold_pieces' keys",
+    "Added WHY comment explaining LLM-generated payloads use non-standard boolean representations"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-prtype-20260422T025000Z",
+  "last_updated": "2026-04-22T02:54:46.850088+00:00",
+  "sample_number": 2
+}

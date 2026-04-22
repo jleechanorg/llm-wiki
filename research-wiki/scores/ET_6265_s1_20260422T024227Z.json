@@ -1,0 +1,23 @@
+{
+  "pr": 6265,
+  "technique": "ET",
+  "naming": 90,
+  "error_handling": 75,
+  "type_safety": 80,
+  "architecture": 85,
+  "test_coverage": 90,
+  "documentation": 70,
+  "total": 82.0,
+  "breakdown": "This PR fixes a bug where the streaming passthrough wasn't normalizing rewards boxes with non-standard keys (xp/gold_pieces vs xp_gained/gold). The fix adds fallback logic in normalize_rewards_box_for_ui to handle both key variants, plus applies normalization in the passthrough path. Good test coverage with a real E2E test that coerces the LLM to produce messy keys. Minor gaps: no docstring on the public normalize function and minimal error logging.",
+  "key_changes": [
+    "Add fallback logic in normalize_rewards_box_for_ui to check for 'xp' key when 'xp_gained' is missing",
+    "Add fallback logic to check for 'gold_pieces' when 'gold' is missing",
+    "Pop non-standard keys (xp, gold_pieces) after extracting values to ensure clean output",
+    "Apply normalize_rewards_box_for_ui() to rewards_box in _resolve_canonical_level_up_ui_pair passthrough",
+    "Add test_streaming_passthrough_normalization.py E2E test that coerces LLM to generate messy rewards_box"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "ET-20260422T023406Z",
+  "last_updated": "2026-04-22T02:42:27.061278+00:00",
+  "sample_number": 1
+}

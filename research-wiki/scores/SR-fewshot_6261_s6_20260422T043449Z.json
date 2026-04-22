@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "SR-fewshot",
+  "naming": 75,
+  "error_handling": 60,
+  "type_safety": 65,
+  "architecture": 75,
+  "test_coverage": 85,
+  "documentation": 70,
+  "total": 71.0,
+  "breakdown": "PR refactors the rewards normalization to use a centralized robust numeric converter (_DNC) with a new _get_raw() helper that cascades through multiple field aliases before falling back to zero. Adds a comprehensive E2E test suite validating both unit tests for edge cases (messy strings, NaN, fallbacks) and live LLM hallucination provocation. Minor gaps: _get_raw uses Any return type, and no explicit exception handling around the converter calls.",
+  "key_changes": [
+    "Replace individual coerce_int() calls with centralized _DNC.convert_value() using _get_raw() helper for cascading field lookup",
+    "Add _get_raw() helper that handles fallbacks: tries multiple keys, skips empty strings, treats 0/0.0/NaN/inf as invalid, returns first finite non-zero value",
+    "Maintain backward compatibility by checking legacy keys (xp_gained, gold_pieces) as fallbacks",
+    "Add test_rewards_box_robustness.py E2E test with internal unit tests + live hallucination provocation scenario",
+    "Comment explains WHY: LLM-generated payloads use non-standard boolean/numeric representations requiring robust parsing"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "SR-fewshot-20260422T042550Z",
+  "last_updated": "2026-04-22T04:34:49.521985+00:00",
+  "sample_number": 6
+}

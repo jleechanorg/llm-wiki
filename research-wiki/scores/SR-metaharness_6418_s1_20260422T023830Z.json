@@ -1,0 +1,15 @@
+{
+  "pr": 6418,
+  "technique": "SR-metaharness",
+  "naming": 92,
+  "error_handling": 88,
+  "type_safety": 94,
+  "architecture": 91,
+  "test_coverage": 0,
+  "documentation": 96,
+  "total": 78.0,
+  "breakdown": "The code demonstrates excellent naming conventions, type safety with dataclasses and proper generics, and comprehensive documentation explaining design rationale. Error handling is solid with typed exceptions and informative messages. However, test coverage cannot be assessed from the PR diff itself\u2014only implementation code is provided, which is a critical gap for scoring this dimension.",
+  "reasoning": "Naming is highly descriptive with no generic names; type safety uses dataclasses and filters unknown fields; error handling raises ValueError with context on duplicates and missing fields; architecture separates concerns cleanly with design decisions documented. The score is heavily impacted by test_coverage=0 since no test files appear in the diff\u2014this is a test-focused PR ('test: level-up centralization contract enforcement') yet contains zero tests, which is the most significant deficiency.",
+  "run_session": "autor-SR-metaharness-20260422T023513Z",
+  "last_updated": "20260422T023830Z"
+}

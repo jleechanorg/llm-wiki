@@ -1,0 +1,15 @@
+{
+  "pr": 6404,
+  "technique": "SR-metaharness",
+  "naming": 75,
+  "error_handling": 55,
+  "type_safety": 60,
+  "architecture": 70,
+  "test_coverage": 5,
+  "documentation": 65,
+  "total": 55.5,
+  "breakdown": "Code demonstrates solid architectural separation between model-computed signals and UI formatters with clear naming conventions, but is incomplete (truncated PlanningBlock) and lacks tests\u2014critical for a paradigm shift of this magnitude. Error handling is fail-closed via validation but lacks exception handling with typed errors. Type safety is compromised by Any usage and string literals where enums should be used.",
+  "reasoning": "Good docstrings and class naming offset by incomplete code, no test file visible, weak error handling (validation returns bool but no explanation of WHY invalid), and type safety gaps (Dict[str, Any], string literals for source). The paradigm shift from XP-threshold inference to model-owned signals is well-documented in comments but implementation appears unfinished.",
+  "run_session": "autor-SR-metaharness-20260422T030727Z",
+  "last_updated": "20260422T031018Z"
+}

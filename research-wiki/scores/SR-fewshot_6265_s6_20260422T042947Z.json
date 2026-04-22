@@ -1,0 +1,22 @@
+{
+  "pr": 6265,
+  "technique": "SR-fewshot",
+  "naming": 85,
+  "error_handling": 80,
+  "type_safety": 75,
+  "architecture": 80,
+  "test_coverage": 75,
+  "documentation": 70,
+  "total": 78.0,
+  "breakdown": "This PR adds normalization for rewards_box payloads in the streaming passthrough path, handling both standard keys ('xp_gained', 'gold') and non-standard LLM-generated keys ('xp', 'gold_pieces'). The core fix is in `world_logic.py` adding fallback logic in `normalize_rewards_box_for_ui` and calling it in `_resolve_canonical_level_up_ui_pair`. Test coverage is decent but the E2E test depends on successful LLM prompt adherence which is fragile.",
+  "key_changes": [
+    "Add fallback key handling for 'xp'/'xp_gained' and 'gold_pieces'/'gold' in normalize_rewards_box_for_ui",
+    "Pop non-standard keys after normalization to ensure clean output",
+    "Call normalize_rewards_box_for_ui in _resolve_canonical_level_up_ui_pair passthrough path",
+    "Add 136-line E2E test test_streaming_passthrough_normalization.py that verifies normalization handles messy LLM keys"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-fewshot-20260422T042550Z",
+  "last_updated": "2026-04-22T04:29:47.882521+00:00",
+  "sample_number": 6
+}

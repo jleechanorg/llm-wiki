@@ -1,0 +1,9 @@
+# ET Generation for PR #6265
+Timestamp: 2026-04-22T02:53:13.686623+00:00
+Technique: ET
+
+## PR Context
+Title: [antig] [Fix] Normalize rewards box in streaming passthrough
+
+## Generation Response (5659 chars)
+Extracted code: 808 chars

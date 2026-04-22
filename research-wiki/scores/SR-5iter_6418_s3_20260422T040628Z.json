@@ -1,0 +1,24 @@
+{
+  "pr": 6418,
+  "technique": "SR-5iter",
+  "naming": 90,
+  "error_handling": 95,
+  "type_safety": 95,
+  "architecture": 95,
+  "test_coverage": 100,
+  "documentation": 85,
+  "total": 94.0,
+  "breakdown": "1. Naming: Mechanical refactor from timezone.utc to UTC constant - this is actually improved naming as UTC is the recommended constant in Python 3.11+. No generic names introduced.\n\n2. Error Handling: No error handling changes - this is a pure mechanical refactor. Existing error handling remains unchanged.\n\n3. Type Safety: Using UTC (datetime.UTC) is slightly better type safety than timezone.utc as it's more explicit. No any types introduced.\n\n4. Architecture: No architectural changes. Single-file mechanical refactor across multiple functions in base_test.py.\n\n5. Test Coverage: No test case changes. The file modified is test infrastructure (base_test.py), not test cases themselves. No new tests added.\n\n6. Documentation: Design document comment added about duplicate injection issue (item #12). However, the code changes themselves have no docstrings or inline comments explaining the change.",
+  "key_changes": [
+    "Replace datetime.now(timezone.utc) with datetime.now(UTC) across 9 locations in testing_mcp/lib/base_test.py",
+    "Replace datetime.now(tz=timezone.utc) with datetime.now(tz=UTC) in 2 locations",
+    "Replace datetime.fromtimestamp(..., tz=timezone.utc) with datetime.fromtimestamp(..., tz=UTC) in 2 locations",
+    "Replace datetime.now(timezone.utc).isoformat() with datetime.now(UTC).isoformat() in 2 locations",
+    "Import UTC from datetime instead of timezone",
+    "Add design doc comment about duplicate _inject_modal_finish_choice_if_needed injection issue in streaming path"
+  ],
+  "commit_sha": "4fba24273dc8bdf1a04d5bbbcce443a5e1a608f7",
+  "run_session": "SR-5iter-20260422T035705Z",
+  "last_updated": "2026-04-22T04:06:28.643785+00:00",
+  "sample_number": 3
+}

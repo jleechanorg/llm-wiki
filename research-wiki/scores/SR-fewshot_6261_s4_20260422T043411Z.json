@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "SR-fewshot",
+  "naming": 90,
+  "error_handling": 80,
+  "type_safety": 70,
+  "architecture": 85,
+  "test_coverage": 95,
+  "documentation": 80,
+  "total": 82.75,
+  "breakdown": "PR refactors rewards numeric extraction to use a centralized `_DNC.convert_value` function with a cascading fallback chain (`xp_gained` -> `xp` -> `xp_awarded` -> ...). Introduces a `_get_raw` helper that intelligently skips zero/non-finite candidates to find actual values. Test coverage is thorough with unit tests for multiple edge cases (messy strings, alias fallbacks, NaN handling) plus E2E hallucination testing. Type safety is moderate - uses `Any` for flexible input values but lacks output type validation or TypedDicts.",
+  "key_changes": [
+    "Refactor numeric extraction to use centralized `_DNC.convert_value` with fallback key chains",
+    "Add `_get_raw` helper that skips zero/invalid values until finding true non-zero finite values",
+    "Test coverage: internal unit tests for messy_strings, fallback_xp_gp, fallback_aliases, empty_primary_fallback, nan_primary_fallback",
+    "Test coverage: E2E hallucination provocation test",
+    "Add comment explaining WHY LLM rewards_box uses wider truthiness check for non-standard booleans"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "SR-fewshot-20260422T042550Z",
+  "last_updated": "2026-04-22T04:34:11.513328+00:00",
+  "sample_number": 4
+}

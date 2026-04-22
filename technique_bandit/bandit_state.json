@@ -1,7 +1,7 @@
 {
   "techniques": {
     "SR": {
-      "n": 21,
+      "n": 30,
       "scores": [
         77,
         89,
@@ -23,14 +23,23 @@
         76.5,
         67.25,
         42.75,
-        79.5
+        79.5,
+        78.25,
+        75.75,
+        70.0,
+        75.0,
+        75.25,
+        78.5,
+        78.25,
+        87.25,
+        75.5
       ],
-      "mean": 74.96190476190476,
-      "last_updated": "2026-04-18T00:09:15.717211+00:00",
+      "mean": 75.59833333333333,
+      "last_updated": "2026-04-22T02:46:26.435651+00:00",
       "notes": "SR matched corpus batch: MiniMax-M2.5 rubric scoring"
     },
     "ET": {
-      "n": 16,
+      "n": 34,
       "scores": [
         81,
         85,
@@ -47,14 +56,32 @@
         91.5,
         68.75,
         68,
-        63.5
+        63.5,
+        82.0,
+        76.0,
+        79.5,
+        79.75,
+        74.75,
+        81.25,
+        82.0,
+        74.25,
+        85.5,
+        79.75,
+        79.0,
+        78.0,
+        73.0,
+        79.25,
+        75.25,
+        85.1,
+        81.25,
+        78.25
       ],
-      "mean": 78.384375,
-      "last_updated": "2026-04-18T00:09:42.470517+00:00",
+      "mean": 78.76470588235294,
+      "last_updated": "2026-04-22T04:01:43.935983+00:00",
       "notes": "ET matched corpus batch run"
     },
     "PRM": {
-      "n": 29,
+      "n": 30,
       "scores": [
         82,
         85,
@@ -84,16 +111,17 @@
         66.0,
         80.75,
         68.95,
-        38.5
+        38.5,
+        84
       ],
-      "mean": 78.71206896551725,
+      "mean": 78.88833333333334,
       "commit_sha": "792bfacea",
       "pr": 6345,
       "last_updated": "2026-04-18T21:03:07.923103+00:00",
       "notes": "PRM matched corpus batch 2: +5 PRs (82, 88, 79, 84, 70), n=14"
     },
     "SR-5iter": {
-      "n": 15,
+      "n": 33,
       "scores": [
         68.2,
         78.7,
@@ -109,14 +137,32 @@
         88.6,
         85.3,
         81.5,
-        84.9
+        84.9,
+        83.75,
+        53.0,
+        83.75,
+        88.75,
+        83.75,
+        79.15,
+        76.2,
+        80.5,
+        87.75,
+        60.0,
+        80.0,
+        94.0,
+        84.6,
+        84.0,
+        84.0,
+        78.5,
+        97.25,
+        93.75
       ],
-      "mean": 82.36,
-      "last_updated": "2026-04-17T21:43:00.000000+00:00",
+      "mean": 82.06363636363636,
+      "last_updated": "2026-04-22T04:13:29.208692+00:00",
       "notes": "Phase 6: 5-round SelfRefine on PRs 6265,6261,6245,6243,6269; n=3 runs per PR"
     },
     "SR-fewshot": {
-      "n": 20,
+      "n": 37,
       "scores": [
         87.35,
         88.45,
@@ -137,14 +183,31 @@
         60.75,
         77.25,
         62.75,
-        60.25
+        60.25,
+        81.25,
+        83.75,
+        87.0,
+        79.25,
+        72.75,
+        78.0,
+        80.5,
+        75.5,
+        85.25,
+        78.25,
+        76.75,
+        75.75,
+        64.25,
+        82.75,
+        70.25,
+        71.0,
+        79.0
       ],
-      "mean": 81.575,
-      "last_updated": "2026-04-18T18:42:55.302585+00:00",
+      "mean": 79.80405405405405,
+      "last_updated": "2026-04-22T04:35:23.765951+00:00",
       "notes": "Phase 6: SR-fewshot with PR 6243 97.5/100 reference; 15 runs across 5 PRs"
     },
     "SR-adversarial": {
-      "n": 15,
+      "n": 30,
       "scores": [
         82.0,
         80.0,
@@ -160,14 +223,29 @@
         93.0,
         68.0,
         67.0,
-        72.0
+        72.0,
+        74.0,
+        74.0,
+        87.75,
+        77.0,
+        82.75,
+        72.25,
+        73.75,
+        72.5,
+        60.75,
+        77.75,
+        68.25,
+        81.35,
+        82.75,
+        80.5,
+        80.75
       ],
-      "mean": 79.2,
-      "last_updated": "2026-04-18T02:48:00.000000+00:00",
+      "mean": 77.80333333333333,
+      "last_updated": "2026-04-22T04:36:20.161407+00:00",
       "notes": "Phase 6 Iteration 4: SR-adversarial (Solver+Attacker minimax). n=3 runs per PR (6265,6261,6245,6243,6269). Mean 79.20 < SR baseline 81.23, suggesting adversarial overhead outweighs bug-fixing benefit on this task."
     },
     "SR-metaharness": {
-      "n": 15,
+      "n": 30,
       "scores": [
         84.21,
         82.42,
@@ -183,14 +261,29 @@
         85.5,
         84.23,
         82.84,
-        84.29
+        84.29,
+        66.45,
+        78.0,
+        63.25,
+        73.7,
+        72.75,
+        78.5,
+        57.3,
+        68.55,
+        85.3,
+        65.75,
+        55.5,
+        59.25,
+        63.5,
+        71.2,
+        45.5
       ],
-      "mean": 84.04,
+      "mean": 75.5,
       "last_updated": "2026-04-18T03:18:30.000000+00:00",
       "notes": "Phase 6: SR-metaharness with harness proposer; 15 runs across 5 PRs. Strategies targeted weak dimensions but mean 84.04 below SR-fewshot reference 85.75."
     },
     "SR-prtype": {
-      "n": 16,
+      "n": 30,
       "scores": [
         88.2,
         87.8,
@@ -207,10 +300,24 @@
         71.75,
         81.6,
         77.75,
-        80.75
+        80.75,
+        87.5,
+        75.0,
+        83.0,
+        75.75,
+        75.25,
+        85.75,
+        75.75,
+        77.75,
+        76.25,
+        68.25,
+        77.0,
+        79.75,
+        65.5,
+        62.5
       ],
-      "mean": 84.446875,
-      "last_updated": "2026-04-18T18:32:25.846433+00:00",
+      "mean": 80.53833333333334,
+      "last_updated": "2026-04-22T03:19:43.522064+00:00",
       "notes": "Phase 7d: SR-prtype with PR-type classification + single exemplar. 4 PRs x 3 runs = 12 runs. PRs: 6265, 6261, 6245, 6269. Delta vs SR-fewshot baseline (86.06) = +0.55."
     },
     "SR-multi-exemplar": {
@@ -314,6 +421,132 @@
           "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
           "run_session": "matched-corpus-n3-20260418",
           "last_updated": "2026-04-18T00:01:56.264996+00:00"
+        },
+        {
+          "total": 78.25,
+          "naming": 85,
+          "error_handling": 75,
+          "type_safety": 70,
+          "architecture": 80,
+          "test_coverage": 90,
+          "documentation": 70,
+          "breakdown": "This PR fixes a bug where non-standard reward keys ('xp'/'gold_pieces' instead of 'xp_gained'/'gold') from LLM responses weren't being normalized in the streaming passthrough path. The solution adds a normalize_rewards_box_for_ui function that falls back to legacy keys and removes them after processing. Test coverage is strong with an E2E test that verifies the fix. Weaknesses include lack of type hints on the new function and minimal inline documentation beyond the existing WHY comment.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "SR-20260422T023321Z",
+          "last_updated": "2026-04-22T02:34:23.868793+00:00",
+          "technique": "SR"
+        },
+        {
+          "total": 75.75,
+          "naming": 75,
+          "error_handling": 65,
+          "type_safety": 70,
+          "architecture": 80,
+          "test_coverage": 90,
+          "documentation": 80,
+          "breakdown": "This PR fixes normalization of rewards_box in streaming passthrough by adding fallback handling for non-standard LLM-generated keys ('xp' \u2192 'xp_gained', 'gold_pieces' \u2192 'gold'). The fix properly intercepts rewards_box before persistence in _resolve_canonical_level_up_ui_pair(). Variable naming is clear overall, though some generic names exist. Error handling uses coercion-with-defaults pattern but lacks explicit typed exceptions. Test coverage is strong with a real E2E test targeting the exact bug.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "SR-20260422T023321Z",
+          "last_updated": "2026-04-22T02:35:41.053271+00:00",
+          "technique": "SR"
+        },
+        {
+          "total": 70.0,
+          "naming": 75,
+          "error_handling": 60,
+          "type_safety": 65,
+          "architecture": 70,
+          "test_coverage": 85,
+          "documentation": 70,
+          "breakdown": "This PR adds fallback key normalization for rewards_box payloads, converting non-standard keys ('xp' \u2192 'xp_gained', 'gold_pieces' \u2192 'gold') before UI rendering. Key positive: new E2E test validates the actual normalization behavior with real LLM. Weak spots: no type hints on function signatures, minimal error handling beyond default values, and no docstrings on modified functions.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "SR-20260422T023321Z",
+          "last_updated": "2026-04-22T02:37:50.208215+00:00",
+          "technique": "SR"
+        },
+        {
+          "total": 75.0,
+          "naming": 85,
+          "error_handling": 75,
+          "type_safety": 60,
+          "architecture": 80,
+          "test_coverage": 95,
+          "documentation": 50,
+          "breakdown": "This PR fixes the streaming passthrough to normalize rewards_box payloads that use non-standard keys (xp/gold_pieces instead of xp_gained/gold). The code adds fallback logic in normalize_rewards_box_for_ui() and applies it before persisting in _resolve_canonical_level_up_ui_pair(). Naming is clear, error handling uses defaults appropriately, and test coverage is comprehensive using real LLM. Main gaps are type safety (no TypedDict) and documentation (function lacks docstring).",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "SR-20260422T023321Z",
+          "last_updated": "2026-04-22T02:39:34.187553+00:00",
+          "technique": "SR"
+        },
+        {
+          "total": 75.25,
+          "naming": 85,
+          "error_handling": 75,
+          "type_safety": 50,
+          "architecture": 80,
+          "test_coverage": 90,
+          "documentation": 80,
+          "breakdown": "This PR fixes rewards box normalization in streaming passthrough by adding fallback logic to handle alternative key names ('xp'/'xp_gained', 'gold_pieces'/'gold'). The naming is clear with descriptive variables like raw_xp/raw_gold. Error handling uses appropriate defaults. Type safety is weak with no TypedDict or explicit type annotations. Test coverage is strong with a real E2E test that validates the fix works end-to-end.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "SR-20260422T023321Z",
+          "last_updated": "2026-04-22T02:41:35.224754+00:00",
+          "technique": "SR"
+        },
+        {
+          "total": 78.5,
+          "naming": 90,
+          "error_handling": 75,
+          "type_safety": 85,
+          "architecture": 80,
+          "test_coverage": 70,
+          "documentation": 65,
+          "breakdown": "PR adds a normalize_rewards_box_for_ui function to convert non-standard keys ('xp'\u2192'xp_gained', 'gold_pieces'\u2192'gold') in the streaming passthrough path, fixing a data consistency bug. The code is generally well-structured with good naming, but the new function lacks unit tests and inline documentation explaining the normalization rationale. The test coverage is E2E rather than unit-level, which reduces coverage granularity.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "SR-20260422T023321Z",
+          "last_updated": "2026-04-22T02:42:49.709901+00:00",
+          "technique": "SR"
+        },
+        {
+          "total": 78.25,
+          "naming": 90,
+          "error_handling": 75,
+          "type_safety": 60,
+          "architecture": 85,
+          "test_coverage": 95,
+          "documentation": 65,
+          "breakdown": "This PR adds a normalize_rewards_box_for_ui function that converts LLM-generated 'xp'/'gold_pieces' keys to standard 'xp_gained'/'gold'. It applies normalization in the streaming passthrough path. Naming is excellent throughout. Type safety is weak - no type hints visible in the diff. Error handling is adequate via coerce_int defaults. The test coverage is thorough, using real LLM calls to verify the fix. Documentation is mixed - the new function lacks a docstring but test has good explanation.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "SR-20260422T023321Z",
+          "last_updated": "2026-04-22T02:43:43.463098+00:00",
+          "technique": "SR"
+        },
+        {
+          "total": 87.25,
+          "naming": 90,
+          "error_handling": 85,
+          "type_safety": 85,
+          "architecture": 90,
+          "test_coverage": 95,
+          "documentation": 75,
+          "breakdown": "This PR fixes a bug where non-standard keys ('xp', 'gold_pieces') in LLM-generated rewards_box payloads weren't being normalized to standard keys ('xp_gained', 'gold') in the streaming passthrough path. The solution adds a dedicated normalize_rewards_box_for_ui function that coerces these alternative keys before removing them. Quality is high overall with good naming, architecture, and comprehensive E2E testing, though the function lacks a docstring and there could be more explicit error handling.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "SR-20260422T024413Z",
+          "last_updated": "2026-04-22T02:45:03.665505+00:00",
+          "technique": "SR"
+        },
+        {
+          "total": 75.5,
+          "naming": 80,
+          "error_handling": 75,
+          "type_safety": 70,
+          "architecture": 80,
+          "test_coverage": 90,
+          "documentation": 50,
+          "breakdown": "This PR fixes normalization of rewards_box payloads in streaming passthrough, adding fallback logic to map LLM-generated non-standard keys ('xp' -> 'xp_gained', 'gold_pieces' -> 'gold') before persistence. The fix is focused and targeted with good E2E test coverage. Main gaps are lack of explicit type annotations on the new function and missing docstrings. The error handling via coerce_int with defaults is appropriate for defensive data cleaning.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "SR-20260422T024413Z",
+          "last_updated": "2026-04-22T02:46:26.435644+00:00",
+          "technique": "SR"
         }
       ],
       "ET": [
@@ -355,6 +588,174 @@
           "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
           "run_session": "matched-corpus-n3-20260418",
           "last_updated": "2026-04-18T00:02:39.113392+00:00"
+        },
+        {
+          "total": 82.0,
+          "naming": 90,
+          "error_handling": 75,
+          "type_safety": 80,
+          "architecture": 85,
+          "test_coverage": 90,
+          "documentation": 70,
+          "breakdown": "This PR fixes a bug where the streaming passthrough wasn't normalizing rewards boxes with non-standard keys (xp/gold_pieces vs xp_gained/gold). The fix adds fallback logic in normalize_rewards_box_for_ui to handle both key variants, plus applies normalization in the passthrough path. Good test coverage with a real E2E test that coerces the LLM to produce messy keys. Minor gaps: no docstring on the public normalize function and minimal error logging.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "ET-20260422T023406Z",
+          "last_updated": "2026-04-22T02:42:27.062286+00:00",
+          "technique": "ET"
+        },
+        {
+          "total": 76.0,
+          "naming": 90,
+          "error_handling": 70,
+          "type_safety": 75,
+          "architecture": 75,
+          "test_coverage": 90,
+          "documentation": 50,
+          "breakdown": "PR fixes rewards_box normalization in streaming passthrough by adding key fallbacks (xp\u2192xp_gained, gold_pieces\u2192gold) and applying normalize_rewards_box_for_ui before passthrough. Good naming and test coverage, but the WHY comment is misplaced (refers to booleans but deals with string keys), and the function lacks a docstring. Uses defensive defaults for error handling rather than typed errors.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "ET-20260422T023406Z",
+          "last_updated": "2026-04-22T02:45:54.902504+00:00",
+          "technique": "ET"
+        },
+        {
+          "total": 79.5,
+          "naming": 90,
+          "error_handling": 70,
+          "type_safety": 75,
+          "architecture": 85,
+          "test_coverage": 80,
+          "documentation": 80,
+          "breakdown": "PR adds fallback key handling in normalize_rewards_box_for_ui to coerce 'xp'\u2192'xp_gained' and 'gold_pieces'\u2192'gold' for LLM-generated payloads. Calls normalization in _resolve_canonical_level_up_ui_pair passthrough. Quality is solid overall with good variable naming, some type checking via isinstance, and a real E2E test. Minor gaps: no typing imports in diff, and the test is integration-level rather than unit tests.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "ET-20260422T025312Z",
+          "last_updated": "2026-04-22T02:55:31.134498+00:00",
+          "technique": "ET"
+        },
+        {
+          "total": 79.75,
+          "naming": 90,
+          "error_handling": 70,
+          "type_safety": 70,
+          "architecture": 85,
+          "test_coverage": 95,
+          "documentation": 70,
+          "breakdown": "This PR fixes the streaming passthrough to normalize rewards_box payloads by adding a dedicated normalize_rewards_box_for_ui function that converts non-standard keys ('xp'/'xp_gained', 'gold_pieces'/'gold') to canonical forms. The naming is excellent with descriptive function and variable names. Type safety could be improved with explicit type hints on the new function. Test coverage is comprehensive with a real E2E test that forces the LLM to produce messy keys and verifies normalization.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "ET-20260422T025547Z",
+          "last_updated": "2026-04-22T03:01:14.007139+00:00",
+          "technique": "ET"
+        },
+        {
+          "total": 74.75,
+          "naming": 85,
+          "error_handling": 70,
+          "type_safety": 60,
+          "architecture": 75,
+          "test_coverage": 90,
+          "documentation": 75,
+          "breakdown": "This PR fixes a bug where rewards_box normalization wasn't applied in streaming passthrough, causing non-standard keys like 'xp'/'gold_pieces' to bypass normalization. The fix adds explicit normalization in `_resolve_canonical_level_up_ui_pair()` and extracts the logic into a dedicated `normalize_rewards_box_for_ui()` function. Test coverage is solid with a real E2E test. Type safety is weak\u2014no TypedDict for rewards_box shape, relying on runtime checks and duck typing.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "ET-20260422T031748Z",
+          "last_updated": "2026-04-22T03:20:36.895719+00:00",
+          "technique": "ET"
+        },
+        {
+          "total": 81.25,
+          "naming": 90,
+          "error_handling": 75,
+          "type_safety": 70,
+          "architecture": 85,
+          "test_coverage": 95,
+          "documentation": 75,
+          "breakdown": "PR fixes rewards_box normalization in streaming passthrough by adding fallback key handling for non-standard LLM-generated keys ('xp'/'xp_gained', 'gold_pieces'/'gold'). The new normalize_rewards_box_for_ui function coerces values and removes legacy keys after copying. Type safety is adequate with isinstance checks but could benefit from TypedDict; test coverage is excellent with real E2E flow.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "ET-20260422T032051Z",
+          "last_updated": "2026-04-22T03:21:37.301932+00:00",
+          "technique": "ET"
+        },
+        {
+          "total": 82.0,
+          "naming": 90,
+          "error_handling": 75,
+          "type_safety": 80,
+          "architecture": 85,
+          "test_coverage": 90,
+          "documentation": 70,
+          "breakdown": "This PR fixes a bug where rewards_box payloads with non-standard keys ('xp' instead of 'xp_gained', 'gold_pieces' instead of 'gold') from LLM generation were passing through without normalization. The fix adds fallback key handling in normalize_rewards_box_for_ui and ensures the normalization is applied in the non-level-up streaming passthrough path. Code quality is solid with good variable naming and defensive isinstance checks, though error handling could benefit from explicit try/except blocks for edge cases.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "ET-20260422T032051Z",
+          "last_updated": "2026-04-22T03:23:51.744073+00:00",
+          "technique": "ET"
+        },
+        {
+          "total": 74.25,
+          "naming": 75,
+          "error_handling": 65,
+          "type_safety": 70,
+          "architecture": 80,
+          "test_coverage": 90,
+          "documentation": 65,
+          "breakdown": "This PR fixes a bug where LLM-generated rewards_box uses non-standard keys ('xp'/'gold_pieces' instead of 'xp_gained'/'gold'). The fix adds a normalize_rewards_box_for_ui function that handles fallback keys and normalizes values before passthrough. Test coverage is strong with an E2E test that forces messy keys. Type safety is adequate but lacks explicit type hints. Documentation explains the WHY but new function lacks docstring.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "ET-20260422T035021Z",
+          "last_updated": "2026-04-22T03:51:12.790509+00:00",
+          "technique": "ET"
+        },
+        {
+          "total": 85.5,
+          "naming": 90,
+          "error_handling": 85,
+          "type_safety": 80,
+          "architecture": 90,
+          "test_coverage": 90,
+          "documentation": 75,
+          "breakdown": "PR fixes streaming passthrough to normalize rewards_box with non-standard keys ('xp'/'gold_pieces' vs 'xp_gained'/'gold'). The core fix adds fallback logic in normalize_rewards_box_for_ui to check alternative keys and cleanup raw keys. Test properly exercises the fix using real LLM to generate messy payloads. Minor gaps: no type hints on function signatures, and sparse inline comments beyond WHY.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "ET-20260422T035122Z",
+          "last_updated": "2026-04-22T03:51:55.299562+00:00",
+          "technique": "ET"
+        },
+        {
+          "total": 79.75,
+          "naming": 95,
+          "error_handling": 70,
+          "type_safety": 75,
+          "architecture": 85,
+          "test_coverage": 80,
+          "documentation": 75,
+          "breakdown": "This PR fixes a bug where rewards boxes with non-standard keys (like 'xp' instead of 'xp_gained', 'gold_pieces' instead of 'gold') from LLM generation were not being normalized before persistence. The fix extends `normalize_rewards_box_for_ui()` to handle fallback key names and ensures it's called in the streaming passthrough path. Quality is strong overall with excellent naming and clean architecture, though error handling is pragmatic rather than rigorous and type safety could be improved with TypedDict definitions for the rewards_box shape.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "ET-20260422T035122Z",
+          "last_updated": "2026-04-22T03:52:51.521826+00:00",
+          "technique": "ET"
+        },
+        {
+          "total": 79.0,
+          "naming": 85,
+          "error_handling": 75,
+          "type_safety": 70,
+          "architecture": 80,
+          "test_coverage": 95,
+          "documentation": 70,
+          "breakdown": "This PR adds fallback logic to handle non-standard rewards_box keys ('xp'/'xp_gained', 'gold'/'gold_pieces') in the streaming passthrough path. The fix normalizes LLM-generated payloads before persistence. Key quality notes: test coverage is excellent (full E2E), naming is clear, but the core function lacks a docstring and type annotations for the return type. Error handling relies on coerce_int defaults rather than explicit exception handling.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "ET-20260422T035122Z",
+          "last_updated": "2026-04-22T03:54:25.726586+00:00",
+          "technique": "ET"
+        },
+        {
+          "total": 78.0,
+          "naming": 85,
+          "error_handling": 70,
+          "type_safety": 75,
+          "architecture": 80,
+          "test_coverage": 85,
+          "documentation": 75,
+          "breakdown": "This PR fixes a bug in streaming passthrough where LLM-generated rewards boxes use non-standard keys ('xp'/'gold_pieces' instead of 'xp_gained'/'gold'). The fix adds fallback logic in normalize_rewards_box_for_ui() to handle both key variants and applies normalization before persisting the rewards. The new E2E test is substantive and tests the actual fix by prompting the LLM to produce messy keys. Minor gaps: minimal type annotations shown in truncated diff, and some defensive code could benefit from typed exceptions.",
+          "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+          "run_session": "ET-20260422T035122Z",
+          "last_updated": "2026-04-22T03:55:48.104681+00:00",
+          "technique": "ET"
         }
       ],
       "PRM": [
@@ -490,18 +891,31 @@
         "runs": [
           87.35,
           88.45,
-          87.9
+          87.9,
+          81.25,
+          83.75,
+          87.0,
+          79.25,
+          72.75,
+          78.0,
+          80.5,
+          75.5,
+          85.25,
+          78.25
         ],
-        "mean": 87.9,
+        "mean": 81.93846153846154,
         "technique": "SR-fewshot"
       },
       "SR-adversarial": {
         "runs": [
           82,
           80,
-          78
+          78,
+          74.0,
+          74.0,
+          87.75
         ],
-        "mean": 80.0,
+        "mean": 79.29166666666667,
         "technique": "SR-adversarial"
       },
       "SR-prtype": {
@@ -509,9 +923,14 @@
           88.2,
           87.8,
           88.5,
-          71.75
+          71.75,
+          87.5,
+          75.0,
+          83.0,
+          75.75,
+          75.25
         ],
-        "mean": 84.0625,
+        "mean": 81.41666666666667,
         "technique": "SR-prtype",
         "breakdown": "PR-type classified as data-norm; single exemplar PR#6261 used; computed scores with variance"
       },
@@ -608,6 +1027,90 @@
           "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
           "run_session": "matched-corpus-n3-20260418",
           "last_updated": "2026-04-18T00:04:35.983141+00:00"
+        },
+        {
+          "total": 73.0,
+          "naming": 75,
+          "error_handling": 70,
+          "type_safety": 60,
+          "architecture": 75,
+          "test_coverage": 85,
+          "documentation": 80,
+          "breakdown": "This PR refactors rewards_box normalization to use a centralized robust numeric extraction pattern with multi-key fallbacks (e.g., xp_gained \u2192 xp \u2192 xp_awarded \u2192 etc.) and the _DNC.convert_value helper. The changes improve edge case handling for messy LLM hallucinated outputs (NaN, inf, empty strings, zero candidates). Minor issues: _get_raw returns Any losing type info, _DNC abbreviation is cryptic, and no explicit exception handling visible.",
+          "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+          "run_session": "ET-20260422T035122Z",
+          "last_updated": "2026-04-22T03:56:46.729181+00:00",
+          "technique": "ET"
+        },
+        {
+          "total": 79.25,
+          "naming": 70,
+          "error_handling": 80,
+          "type_safety": 70,
+          "architecture": 85,
+          "test_coverage": 95,
+          "documentation": 75,
+          "breakdown": "Refactors rewards box numeric extraction to use centralized robust conversion with fallback chains for LLM hallucinated fields. Introduces _get_raw() helper that handles empty strings, zeros, NaN/inf gracefully before calling convert_value(). Strong test coverage with unit and E2E tests validates edge cases. Main weaknesses: _DNC abbreviation is opaque (should be DefensiveNumericConverter), _get_raw returns Any type reducing type safety, and no public function docstrings.",
+          "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+          "run_session": "ET-20260422T035122Z",
+          "last_updated": "2026-04-22T03:57:08.792041+00:00",
+          "technique": "ET"
+        },
+        {
+          "total": 75.25,
+          "naming": 75,
+          "error_handling": 70,
+          "type_safety": 60,
+          "architecture": 80,
+          "test_coverage": 90,
+          "documentation": 85,
+          "breakdown": "This PR refactors rewards box normalization to use a centralized robust numeric extraction pattern with intelligent fallback chaining. The key change introduces a `_get_raw` helper that iterates through multiple potential keys to find valid non-zero finite values, plus a separate `_DNC.convert_value` for type coercion. Test coverage is excellent with both unit tests and E2E hallucination provocation. The main weakness is the use of `Any` type in `_get_raw` which undermines type safety, and the `_DNC` reference is somewhat opaque.",
+          "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+          "run_session": "ET-20260422T035122Z",
+          "last_updated": "2026-04-22T03:57:35.970631+00:00",
+          "technique": "ET"
+        },
+        {
+          "total": 85.1,
+          "naming": 90,
+          "error_handling": 85,
+          "type_safety": 75,
+          "architecture": 88,
+          "test_coverage": 90,
+          "documentation": 85,
+          "breakdown": "This PR refactors rewards box numeric extraction by creating a centralized `_get_raw()` helper that searches multiple fallback keys with robust handling for zero candidates, NaN, inf, and empty strings, then pipes results through a defensive converter. The test file provides both internal unit tests covering edge cases and an E2E hallucination provocation test. Quality observations: Good architectural separation with extracted helper, excellent test coverage across permutations, and explanatory comments on non-obvious logic decisions. Minor deduction for `Any` typing in internal helpers and lack of typed error classes.",
+          "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+          "run_session": "ET-20260422T035122Z",
+          "last_updated": "2026-04-22T03:58:05.705543+00:00",
+          "technique": "ET"
+        },
+        {
+          "total": 81.25,
+          "naming": 85,
+          "error_handling": 70,
+          "type_safety": 75,
+          "architecture": 85,
+          "test_coverage": 90,
+          "documentation": 90,
+          "breakdown": "This PR refactors rewards box normalization to use a centralized Defensive Numeric Converter (_DNC) with a helper function _get_raw for robust value extraction with fallbacks. It handles messy LLM outputs including NaN, inf, empty strings, and various key aliases. The changes simplify chaining logic and add a new test file covering edge cases. Strengths include good test coverage and architectural separation; weaknesses include using Any type and limited explicit exception handling in the helper function.",
+          "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+          "run_session": "ET-20260422T035122Z",
+          "last_updated": "2026-04-22T03:59:40.161868+00:00",
+          "technique": "ET"
+        },
+        {
+          "total": 78.25,
+          "naming": 75,
+          "error_handling": 70,
+          "type_safety": 70,
+          "architecture": 85,
+          "test_coverage": 90,
+          "documentation": 85,
+          "breakdown": "This PR refactors rewards box numeric extraction to use a centralized helper function with smart fallback logic that handles empty strings, zero values, and non-finite floats. The approach is architecturally sound with good separation between extraction and conversion. Test coverage is excellent with both unit and E2E tests. Minor\u6263\u5206\uff1a`_get_raw` and `_DNC` are somewhat terse naming, `Any` types used for flexibility, and no explicit exception handling despite robust edge case handling.",
+          "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+          "run_session": "ET-20260422T035122Z",
+          "last_updated": "2026-04-22T04:01:43.935978+00:00",
+          "technique": "ET"
         }
       ],
       "PRM": [
@@ -743,18 +1246,28 @@
         "runs": [
           86.25,
           82.55,
-          84.95
+          84.95,
+          76.75,
+          75.75,
+          64.25,
+          82.75,
+          70.25,
+          71.0,
+          79.0
         ],
-        "mean": 84.58,
+        "mean": 77.35,
         "technique": "SR-fewshot"
       },
       "SR-adversarial": {
         "runs": [
           77,
           79,
-          83
+          83,
+          77.0,
+          82.75,
+          72.25
         ],
-        "mean": 79.67,
+        "mean": 78.5,
         "technique": "SR-adversarial"
       },
       "SR-prtype": {
@@ -762,9 +1275,13 @@
           85.2,
           84.5,
           85.6,
-          81.6
+          81.6,
+          85.75,
+          75.75,
+          77.75,
+          76.25
         ],
-        "mean": 84.225,
+        "mean": 81.55,
         "technique": "SR-prtype",
         "breakdown": "PR-type classified as data-norm; single exemplar PR#6261 used (self-match); computed scores with variance"
       },
@@ -1005,9 +1522,12 @@
         "runs": [
           79,
           70,
-          75
+          75,
+          73.75,
+          72.5,
+          60.75
         ],
-        "mean": 74.67,
+        "mean": 71.83333333333333,
         "technique": "SR-adversarial"
       },
       "SR-prtype": {
@@ -1015,9 +1535,12 @@
           88.0,
           87.4,
           88.8,
-          77.75
+          77.75,
+          68.25,
+          77.0,
+          79.75
         ],
-        "mean": 85.4875,
+        "mean": 80.99285714285715,
         "technique": "SR-prtype",
         "breakdown": "PR-type classified as data-norm; single exemplar PR#6261 used; computed scores with variance"
       },
@@ -1489,9 +2012,12 @@
         "runs": [
           68,
           67,
-          72
+          72,
+          77.75,
+          68.25,
+          81.35
         ],
-        "mean": 69.0,
+        "mean": 72.39166666666667,
         "technique": "SR-adversarial"
       },
       "SR-prtype": {
@@ -1499,9 +2025,11 @@
           85.0,
           84.8,
           85.5,
-          80.75
+          80.75,
+          65.5,
+          62.5
         ],
-        "mean": 84.0125,
+        "mean": 77.34166666666667,
         "technique": "SR-prtype",
         "breakdown": "PR-type classified as ci-workflow; single exemplar PR#6269 used; computed scores with variance"
       },
@@ -1592,6 +2120,50 @@
           "run_session": "PRM-20260418T205842Z",
           "last_updated": "2026-04-18T21:00:57.440549+00:00",
           "technique": "PRM"
+        }
+      ],
+      "SR-adversarial": [
+        {
+          "total": 82.75,
+          "naming": 90,
+          "error_handling": 70,
+          "type_safety": 85,
+          "architecture": 80,
+          "test_coverage": 95,
+          "documentation": 80,
+          "breakdown": "This PR adds comprehensive TDD tests for a RewardsBox TypedDict and validate_rewards_box() schema enforcement in custom_types.py. The tests cover TypedDict existence, required fields, and various validation scenarios including wrong types and extra fields. Test coverage is excellent with 10 tests verifying the schema contract. Naming is clear and descriptive throughout. Error handling relies on boolean returns rather than typed exceptions, and the actual implementation is not visible in this truncated diff.",
+          "commit_sha": "52a5fe2c17cbe22a7da159c7542b8ecc585848e7",
+          "run_session": "SR-adversarial-20260422T042629Z",
+          "last_updated": "2026-04-22T04:35:16.296091+00:00",
+          "technique": "SR-adversarial"
+        },
+        {
+          "total": 80.5,
+          "naming": 95,
+          "error_handling": 50,
+          "type_safety": 85,
+          "architecture": 80,
+          "test_coverage": 95,
+          "documentation": 90,
+          "breakdown": "PR adds RewardsBox TypedDict schema and validate_rewards_box() function for data shape enforcement. Type safety is solid with TypedDict and type checks, but error handling is minimal (returns only True/False with no error details or logging). Test coverage is excellent. Naming is clear and descriptive throughout.",
+          "commit_sha": "52a5fe2c17cbe22a7da159c7542b8ecc585848e7",
+          "run_session": "SR-adversarial-20260422T042629Z",
+          "last_updated": "2026-04-22T04:35:48.049247+00:00",
+          "technique": "SR-adversarial"
+        },
+        {
+          "total": 80.75,
+          "naming": 85,
+          "error_handling": 70,
+          "type_safety": 80,
+          "architecture": 85,
+          "test_coverage": 90,
+          "documentation": 75,
+          "breakdown": "This PR adds a RewardsBox TypedDict and validate_rewards_box() function for schema enforcement in custom_types.py, with comprehensive tests covering required fields, type validation (bool/int/list), missing fields, extra unknown fields, and non-dict inputs. The validation returns boolean rather than raising typed errors, which is a simpler pattern but provides less context to callers. Test coverage is excellent with 9 test methods covering all major validation scenarios.",
+          "commit_sha": "52a5fe2c17cbe22a7da159c7542b8ecc585848e7",
+          "run_session": "SR-adversarial-20260422T042629Z",
+          "last_updated": "2026-04-22T04:36:20.161402+00:00",
+          "technique": "SR-adversarial"
         }
       ]
     },
@@ -2000,6 +2572,266 @@
           "run_session": "autor-PRM-20260421T211057Z",
           "technique": "PRM",
           "last_updated": "20260421T211233Z"
+        }
+      ]
+    },
+    "6409": {
+      "SR-5iter": [
+        {
+          "total": 83.75,
+          "naming": 90,
+          "error_handling": 90,
+          "type_safety": 75,
+          "architecture": 85,
+          "test_coverage": 95,
+          "documentation": 60,
+          "breakdown": "Naming: Test function names are highly descriptive (e.g., test_runtime_bootstrap_skips_numpy_downgrade_when_repair_not_needed). Variables like commands, missing_modules are reasonably clear but somewhat generic. Error Handling: Tests verify error responses (status_code, error messages), simulate CalledProcessError, and assert on failure conditions. Type Safety: Type hints present (Path, list, etc.) but some dynamic constructs like type('Proc') and lambdas without hints reduce score. Architecture: Well-organized tests with appropriate mocking via monkeypatch. New test file follows existing patterns. Test Coverage: Excellent coverage of edge cases (numpy downgrade, cache invalidation, fallback packages, spaces in paths). Documentation: No docstrings on test functions. No explanatory comments for WHY scenarios exist. Only one inline noqa comment.",
+          "commit_sha": null,
+          "run_session": "SR-5iter-20260422T023546Z",
+          "last_updated": "2026-04-22T02:38:12.635111+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 53.0,
+          "naming": 70,
+          "error_handling": 45,
+          "type_safety": 40,
+          "architecture": 45,
+          "test_coverage": 90,
+          "documentation": 30,
+          "breakdown": "Naming: Test function names are well-descriptive (test_process_action_stream_infers_failure, test_runtime_bootstrap_skips_numpy_downgrade, etc.). Variable names like missing_modules, installed_modules, commands are specific. Error Handling: Tests verify error responses include error/status_code, but most source code error handling is not visible - only test assertions confirming desired behavior. Type Safety: Strong typing in tests (list[list[str]], set[str], etc.), but cannot evaluate type safety of actual code changes since only test additions are shown. Architecture: Test structure properly separates concerns (tests/scripts/), uses monkeypatch to isolate modules. Source code architecture not visible. Test Coverage: Multiple comprehensive tests added covering failure scenarios, runtime bootstrap edge cases (numpy version, cache invalidation, fallback packages, external server runs). The test file adds boundary-aware test detection validation with proper assertions. Documentation: Test files have minimal docstrings which is acceptable for tests. Test function names are self-documenting.",
+          "commit_sha": null,
+          "run_session": "SR-5iter-20260422T023546Z",
+          "last_updated": "2026-04-22T02:40:20.225139+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 88.75,
+          "naming": 90,
+          "error_handling": 90,
+          "type_safety": 85,
+          "architecture": 85,
+          "test_coverage": 95,
+          "documentation": 90,
+          "breakdown": "Naming: Descriptive function/test names like test_process_action_stream_infers_failure_without_explicit_success. Variables like commands, missing_modules, installed_modules clearly indicate purpose. Some generic names like fake_run acceptable for test helpers. Error Handling: Tests properly verify error responses (response[error] == internal error). subprocess.CalledProcessError is raised and caught for fallback package testing. Error conditions explicitly tested. Type Safety: Type hints present throughout (Path, list[list[str]], tuple[list[str], dict[str, object]]). No any types visible. Some mock places use object() without specifics but not critical paths. Architecture: Tests well-organized in separate concerns (stream handling, runtime bootstrap, signature guard, loc script). TestContext and _StreamingContractHarness appropriately encapsulate test harness logic. Module boundaries respected. Test Coverage: Comprehensive tests covering stream failure inference, numpy downgrade skipping, cache invalidation, fallback package candidates, evidence signature guard, loc script with spaces/boundary detection. Assertions verify actual behavior. No empty stubs. Documentation: Descriptive test names explain WHAT is being tested. Comments explain WHY (# noqa: S603 - executes the checked-in repo script under test). _write_file has docstring. No commented-out code.",
+          "commit_sha": null,
+          "run_session": "SR-5iter-20260422T025545Z",
+          "last_updated": "2026-04-22T02:59:25.387968+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 83.75,
+          "naming": 95,
+          "error_handling": 80,
+          "type_safety": 85,
+          "architecture": 85,
+          "test_coverage": 90,
+          "documentation": 60,
+          "breakdown": "Naming: Excellent descriptive test function names (e.g., test_runtime_bootstrap_tries_fallback_package_candidates, test_loc_script_handles_spaces_and_boundary_aware_test_detection) and well-named helper variables. Error Handling: Tests verify error paths well (checks return codes, error messages, status codes), includes intentional subprocess.run usage with explanation comment. Type Safety: Good type hints throughout (list[str], Path, etc.), uses typed mock objects, though some areas could use TypedDict. Architecture: Well-organized modular test structure, clear separation between test modules and scripts under test, appropriate use of monkeypatch isolation. Test Coverage: Strong coverage with multiple scenarios per feature (success, failure, edge cases like fallback packages, path spaces, timeouts), detailed assertions verify specific behaviors. Documentation: No docstrings on test functions, relies on descriptive function names for clarity, includes rationale comment for subprocess.run check=False usage.",
+          "commit_sha": null,
+          "run_session": "SR-5iter-20260422T031839Z",
+          "last_updated": "2026-04-22T03:22:33.027976+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 79.15,
+          "naming": 85,
+          "error_handling": 80,
+          "type_safety": 88,
+          "architecture": 75,
+          "test_coverage": 82,
+          "documentation": 55,
+          "breakdown": "PR #6409 adds a single test file for a new loc.sh script with comprehensive test coverage for directory space handling and boundary-aware test detection. Naming is clear (test_loc_script.py, _write_file, LOC_SCRIPT, PROJECT_ROOT). Error handling properly uses check=False with manual returncode validation. Type safety strong with Path typing throughout. Architecture shows proper separation (script in scripts/, tests in tests/scripts/). Test coverage is thorough covering multiple scenarios. Documentation weak with missing docstrings on test functions (only inline comment explaining subprocess execution).",
+          "commit_sha": null,
+          "run_session": "SR-5iter-20260422T034437Z",
+          "last_updated": "2026-04-22T03:57:54.969164+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 76.2,
+          "naming": 78,
+          "error_handling": 80,
+          "type_safety": 70,
+          "architecture": 80,
+          "test_coverage": 80,
+          "documentation": 65,
+          "breakdown": "Naming: 78 - Test function names are descriptive (test_process_action_stream_infers_failure_without_explicit_success), but some variables like 'harness' and 'commands' are generic. Error Handling: 80 - Tests properly assert error conditions (response['error'], status_code 500). Type Safety: 70 - Basic type hints present (list[list[str]], set[str]) but uses dynamic type creation via type() constructor. Architecture: 80 - Tests integrated into existing test modules; proper mock patterns. Test Coverage: 80 - New tests cover multiple scenarios (failure handling, bootstrap fallback, runtime deps). Documentation: 65 - No docstrings on test functions or comments explaining test scenarios; no inline WHY comments.",
+          "commit_sha": null,
+          "run_session": "SR-5iter-20260422T035705Z",
+          "last_updated": "2026-04-22T03:59:27.644966+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 80.5,
+          "naming": 80,
+          "error_handling": 85,
+          "type_safety": 80,
+          "architecture": 85,
+          "test_coverage": 90,
+          "documentation": 50,
+          "breakdown": "Naming: Good descriptive test function names like test_runtime_bootstrap_invalidates_caches_and_uses_timeouts. Variables like commands, missing_modules are contextually clear. Some generic names (cmd, kwargs) but acceptable in test context. Error Handling: Tests properly verify error paths - subprocess.CalledProcessError handling, status_code 500 checks, error message assertions. Type Safety: Proper type hints throughout (list[list[str]], set[str], Path, tmp_path: Path). Mock objects created with type() are pragmatic for testing. Architecture: Clean separation - test files in tests/ directory, test_loc_script.py for script testing, runtime bootstrap tests for base module. Module boundaries respected. Test Coverage: This IS the test coverage - substantive test cases with real assertions, not stubs. Covers failure inference, bootstrap scenarios, fallback candidates, signature guard, cache invalidation. No empty test files. Documentation: Minimal - test function names are self-documenting but no docstrings or comments explaining WHY for complex test scenarios. No commented-out code.",
+          "commit_sha": null,
+          "run_session": "SR-5iter-20260422T035705Z",
+          "last_updated": "2026-04-22T04:02:39.351750+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 87.75,
+          "naming": 90,
+          "error_handling": 85,
+          "type_safety": 90,
+          "architecture": 85,
+          "test_coverage": 95,
+          "documentation": 80,
+          "breakdown": "Naming: Test function names are highly descriptive (e.g., test_process_action_stream_infers_failure_without_explicit_success). Variables like missing_modules, commands, installed_modules are clear. Error Handling: Tests properly cover error scenarios including failure detection, CalledProcessError handling for fallback packages. Type Safety: Proper type hints throughout (list[list[str]], list[tuple[list[str], dict[str, object]]], Path, set[str]). No any types visible. Architecture: Well-organized tests with proper separation of concerns. Each test focuses on specific functionality using monkeypatch effectively. Test Coverage: Comprehensive tests covering streaming, runtime bootstrap, signature guards, fallback packages, and loc script. Meaningful assertions, no stubs. Documentation: Docstrings on _write_file. Test function names are self-documenting. No commented-out code.",
+          "commit_sha": null,
+          "run_session": "SR-5iter-20260422T035705Z",
+          "last_updated": "2026-04-22T04:03:40.954173+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 84.6,
+          "naming": 88,
+          "error_handling": 85,
+          "type_safety": 80,
+          "architecture": 85,
+          "test_coverage": 88,
+          "documentation": 82,
+          "breakdown": "Weighted: Naming(90\u00d70.15) + Error(85\u00d70.20) + Type(80\u00d70.20) + Arch(85\u00d70.20) + Test(90\u00d70.15) + Doc(82\u00d70.10). Naming scores high with descriptive test names like test_runtime_bootstrap_tries_fallback_package_candidates. Error handling well-done via CalledProcessError in test fakes. Type safety good with typed collections and Path hints, minor use of object() in fakes acceptable. Architecture solid with proper monkeypatch DI and organized test structure. Test coverage high with new test file for loc.sh plus multiple runtime bootstrap scenarios. Documentation adequate with self-documenting names, no commented code.",
+          "commit_sha": null,
+          "run_session": "SR-5iter-20260422T040724Z",
+          "last_updated": "2026-04-22T04:08:40.288678+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 84.0,
+          "naming": 90,
+          "error_handling": 85,
+          "type_safety": 85,
+          "architecture": 85,
+          "test_coverage": 90,
+          "documentation": 60,
+          "breakdown": "Naming: Good descriptive names (_write_file, test_loc_script_handles_spaces_and_boundary_aware_test_detection). Error Handling: Proper return code checking (result.returncode == 0). Type Safety: Proper use of Path, type hints on tmp_path. Architecture: Clean test isolation with tmp_path, well-organized test file. Test Coverage: Substantive assertions with regex validation of actual script output, tests boundary conditions. Documentation: Missing docstrings on module and helper functions - no module-level docstring or _write_file docstring.",
+          "commit_sha": null,
+          "run_session": "SR-5iter-20260422T040724Z",
+          "last_updated": "2026-04-22T04:09:33.946116+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 84.0,
+          "naming": 85,
+          "error_handling": 85,
+          "type_safety": 85,
+          "architecture": 85,
+          "test_coverage": 95,
+          "documentation": 60,
+          "breakdown": "Naming: Test function names are descriptive (test_process_action_stream_infers_failure_without_explicit_success, test_runtime_bootstrap_skips_numpy_downgrade_when_repair_not_needed). Variables like commands, missing_modules, installed_modules are clear. Good clarity. Error Handling: Tests properly mock error conditions (CalledProcessError, subprocess failures) and verify error propagation (status_code, error messages). Assertions check failure paths correctly. Type Safety: Uses type hints (list[list[str]], Path, SimpleNamespace, tuple[list[str], dict[str, object]]). Proper typing in test setup. Architecture: Tests well-organized by functionality. New test_loc_script.py properly placed in tests/scripts/. Tests isolate specific behaviors of base_test_module functions. Test Coverage: Excellent - tests cover multiple scenarios: numpy downgrade skip, cache invalidation, timeouts, fallback package candidates, evidence signature guard, loc script with spaces. All tests have substantive assertions, no stubs. Documentation: Test file lacks module-level docstring. Test functions have no docstrings explaining what they verify. Inline comments minimal but adequate for understanding setup. Some comments explain WHY for complex mock setups.",
+          "commit_sha": null,
+          "run_session": "SR-5iter-20260422T040724Z",
+          "last_updated": "2026-04-22T04:10:23.430480+00:00",
+          "technique": "SR-5iter"
+        }
+      ]
+    },
+    "6418": {
+      "SR-5iter": [
+        {
+          "total": 83.75,
+          "naming": 85,
+          "error_handling": 75,
+          "type_safety": 90,
+          "architecture": 90,
+          "test_coverage": 70,
+          "documentation": 95,
+          "breakdown": "The PR is primarily a datetime migration from deprecated timezone.utc to UTC (Python 3.11+ style), plus a detailed design doc section. Naming: Existing descriptive names preserved (base_test.py, _record_tmux_video, etc.). No issues. Error Handling: No changes to error handling in this diff - datetime migration is low-risk. Type Safety: Migration to UTC is proper typing, no any introduced. Architecture: Isolated changes in single file, no module boundary issues. Test Coverage: base_test.py is test infrastructure itself - changes are to the framework, not test assertions. Documentation: Excellent - includes comprehensive design doc with 12 work items documenting issues found, severity levels, and action items. Key missing is actual test code for the changes. Weighted: 85*0.15 + 75*0.20 + 90*0.20 + 90*0.20 + 70*0.15 + 95*0.10 = 12.75+15+18+18+10.5+9.5=83.75... Round to 85.5",
+          "commit_sha": "4fba24273dc8bdf1a04d5bbbcce443a5e1a608f7",
+          "run_session": "SR-5iter-20260422T023546Z",
+          "last_updated": "2026-04-22T02:47:07.503366+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 60.0,
+          "naming": 70,
+          "error_handling": 50,
+          "type_safety": 70,
+          "architecture": 60,
+          "test_coverage": 30,
+          "documentation": 90,
+          "breakdown": "1. Naming (70/100): Minor improvements replacing timezone.utc with UTC. Documentation uses descriptive headings. Some generic names (data, timestamp) but standard. No outstanding naming issues.\n\n2. Error Handling (50/100): No error handling changes in this PR. The datetime refactoring doesn't affect error handling patterns. Documentation identifies some error handling gaps but doesn't fix them.\n\n3. Type Safety (70/100): The datetime changes (timezone.utc \u2192 UTC) are type-equivalent. No new any types introduced. Maintains existing type safety level. No TypedDict/dataclass changes.\n\n4. Architecture (60/100): No architectural changes in the diff itself. Documentation identifies 10 architectural concerns (circular injection, dead imports, future facades) but the actual code changes are trivial import alias updates only.\n\n5. Test Coverage (30/100): No test files modified in this diff. The PR adds documentation but no test coverage for the datetime changes or documented issues.\n\n6. Documentation (90/100): Strong documentation focus. Adds comprehensive summary table with 10 issues, severity ratings (Critical/Moderate/Minor), work items, and action items. Updates status appropriately. Well-structured for a review document.",
+          "commit_sha": "4fba24273dc8bdf1a04d5bbbcce443a5e1a608f7",
+          "run_session": "SR-5iter-20260422T035705Z",
+          "last_updated": "2026-04-22T04:04:38.424575+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 80.0,
+          "naming": 90,
+          "error_handling": 85,
+          "type_safety": 90,
+          "architecture": 90,
+          "test_coverage": 50,
+          "documentation": 60,
+          "breakdown": "The PR makes a focused refactor replacing deprecated timezone.utc with UTC in datetime calls. Naming is good (no new generic names introduced). Error handling unchanged (not applicable for this API migration). Type safety is solid (UTC is the recommended singleton). Architecture is clean - localized changes, no module boundary changes. Test coverage cannot be assessed from diff alone - testing_mcp changes don't appear to include test modifications. Documentation includes a large design doc section but most appears to be planning rather than code docs.",
+          "commit_sha": "4fba24273dc8bdf1a04d5bbbcce443a5e1a608f7",
+          "run_session": "SR-5iter-20260422T035705Z",
+          "last_updated": "2026-04-22T04:05:30.521493+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 94.0,
+          "naming": 90,
+          "error_handling": 95,
+          "type_safety": 95,
+          "architecture": 95,
+          "test_coverage": 100,
+          "documentation": 85,
+          "breakdown": "1. Naming: Mechanical refactor from timezone.utc to UTC constant - this is actually improved naming as UTC is the recommended constant in Python 3.11+. No generic names introduced.\n\n2. Error Handling: No error handling changes - this is a pure mechanical refactor. Existing error handling remains unchanged.\n\n3. Type Safety: Using UTC (datetime.UTC) is slightly better type safety than timezone.utc as it's more explicit. No any types introduced.\n\n4. Architecture: No architectural changes. Single-file mechanical refactor across multiple functions in base_test.py.\n\n5. Test Coverage: No test case changes. The file modified is test infrastructure (base_test.py), not test cases themselves. No new tests added.\n\n6. Documentation: Design document comment added about duplicate injection issue (item #12). However, the code changes themselves have no docstrings or inline comments explaining the change.",
+          "commit_sha": "4fba24273dc8bdf1a04d5bbbcce443a5e1a608f7",
+          "run_session": "SR-5iter-20260422T035705Z",
+          "last_updated": "2026-04-22T04:06:28.644220+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 78.5,
+          "naming": 90,
+          "error_handling": 80,
+          "type_safety": 90,
+          "architecture": 85,
+          "test_coverage": 60,
+          "documentation": 50,
+          "breakdown": "Naming: Clean mechanical datetime modernization - using `UTC` consistently. No generic names introduced. Error Handling: No error handling changes; existing patterns unchanged. Type Safety: Good - modernization from `timezone.utc` to `datetime.UTC` is the correct typed approach. No `any` types introduced. Architecture: Single file mechanical changes; no module boundary changes or circular import risks. Test Coverage: Changes are refactoring-only (datetime modernization); no new tests added. The design doc mentions verification coverage gaps. Documentation: Code has no docstrings added. The large design doc section is review documentation not actual code documentation (docstrings/comments explaining WHY).",
+          "commit_sha": "4fba24273dc8bdf1a04d5bbbcce443a5e1a608f7",
+          "run_session": "SR-5iter-20260422T040724Z",
+          "last_updated": "2026-04-22T04:11:13.753500+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 97.25,
+          "naming": 95,
+          "error_handling": 100,
+          "type_safety": 100,
+          "architecture": 100,
+          "test_coverage": 100,
+          "documentation": 80,
+          "breakdown": "This PR is a focused code modernization effort replacing deprecated `timezone.utc` with the new Python 3.11+ `UTC` constant in `testing_mcp/lib/base_test.py`. Changes are consistent across 10 locations. No issues in any dimension - the refactor is clean, maintains type safety (both are timezone-aware), introduces no errors, preserves architecture, and doesn't require new tests (this is a test infrastructure file). Minor deduction in documentation for not adding a brief comment explaining the modernization, though it's not strictly necessary for this straightforward change.",
+          "commit_sha": "4fba24273dc8bdf1a04d5bbbcce443a5e1a608f7",
+          "run_session": "SR-5iter-20260422T040724Z",
+          "last_updated": "2026-04-22T04:12:28.097556+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 93.75,
+          "naming": 95,
+          "error_handling": 100,
+          "type_safety": 95,
+          "architecture": 95,
+          "test_coverage": 90,
+          "documentation": 80,
+          "breakdown": "Naming (15%): 95 - Code already well-named; change from timezone.utc to UTC is a standard Python convention. Error Handling (20%): 100 - No error handling changes; this is a cosmetic modernization. Type Safety (20%): 95 - Uses proper timezone objects (UTC from datetime.timezone), maintains type safety. Architecture (20%): 95 - Single file change, no module boundaries affected, no circular imports. Test Coverage (15%): 90 - This is a test infrastructure file; changes are backward-compatible and don't require new tests. Documentation (10%): 80 - No docstrings added for the change, though code is self-explanatory.",
+          "commit_sha": "4fba24273dc8bdf1a04d5bbbcce443a5e1a608f7",
+          "run_session": "SR-5iter-20260422T040724Z",
+          "last_updated": "2026-04-22T04:13:29.208687+00:00",
+          "technique": "SR-5iter"
         }
       ]
     }

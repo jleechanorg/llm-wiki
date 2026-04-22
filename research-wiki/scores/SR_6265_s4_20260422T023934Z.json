@@ -1,0 +1,22 @@
+{
+  "pr": 6265,
+  "technique": "SR",
+  "naming": 85,
+  "error_handling": 75,
+  "type_safety": 60,
+  "architecture": 80,
+  "test_coverage": 95,
+  "documentation": 50,
+  "total": 75.0,
+  "breakdown": "This PR fixes the streaming passthrough to normalize rewards_box payloads that use non-standard keys (xp/gold_pieces instead of xp_gained/gold). The code adds fallback logic in normalize_rewards_box_for_ui() and applies it before persisting in _resolve_canonical_level_up_ui_pair(). Naming is clear, error handling uses defaults appropriately, and test coverage is comprehensive using real LLM. Main gaps are type safety (no TypedDict) and documentation (function lacks docstring).",
+  "key_changes": [
+    "Add fallback key handling in normalize_rewards_box_for_ui: check xp then xp_gained, gold_pieces then gold",
+    "Pop normalized keys (xp, gold_pieces) from dict after reading to prevent duplication",
+    "Apply normalize_rewards_box_for_ui() in _resolve_canonical_level_up_ui_pair passthrough_rewards",
+    "Add test file testing_mcp/test_streaming_passthrough_normalization.py that exercises the fix with real LLM"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-20260422T023321Z",
+  "last_updated": "2026-04-22T02:39:34.187142+00:00",
+  "sample_number": 4
+}

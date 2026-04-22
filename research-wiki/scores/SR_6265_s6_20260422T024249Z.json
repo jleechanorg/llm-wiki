@@ -1,0 +1,22 @@
+{
+  "pr": 6265,
+  "technique": "SR",
+  "naming": 90,
+  "error_handling": 75,
+  "type_safety": 85,
+  "architecture": 80,
+  "test_coverage": 70,
+  "documentation": 65,
+  "total": 78.5,
+  "breakdown": "PR adds a normalize_rewards_box_for_ui function to convert non-standard keys ('xp'\u2192'xp_gained', 'gold_pieces'\u2192'gold') in the streaming passthrough path, fixing a data consistency bug. The code is generally well-structured with good naming, but the new function lacks unit tests and inline documentation explaining the normalization rationale. The test coverage is E2E rather than unit-level, which reduces coverage granularity.",
+  "key_changes": [
+    "Add normalize_rewards_box_for_ui() function to convert 'xp' to 'xp_gained' and 'gold_pieces' to 'gold'",
+    "Call normalize_rewards_box_for_ui() in _resolve_canonical_level_up_ui_pair passthrough path",
+    "Fix canonical_stream_suppressed conditional logic in the streaming block",
+    "Add E2E test file testing messy rewards_box normalization with real LLM"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-20260422T023321Z",
+  "last_updated": "2026-04-22T02:42:49.709485+00:00",
+  "sample_number": 6
+}

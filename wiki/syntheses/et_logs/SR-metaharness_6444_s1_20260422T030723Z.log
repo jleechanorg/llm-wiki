@@ -1,0 +1,7 @@
+# SR-metaharness generation for PR #6444
+Timestamp: 2026-04-22T03:04:34.380480+00:00
+Technique: SR-metaharness
+PR: [antig] feat(prompts): thread-safe schema cache circuit breaker
+
+Raw response: 22409 chars
+Extracted code: 20930 chars

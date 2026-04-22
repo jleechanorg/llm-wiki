@@ -1,0 +1,23 @@
+{
+  "pr": 6265,
+  "technique": "ET",
+  "naming": 90,
+  "error_handling": 70,
+  "type_safety": 70,
+  "architecture": 85,
+  "test_coverage": 95,
+  "documentation": 70,
+  "total": 79.75,
+  "breakdown": "This PR fixes the streaming passthrough to normalize rewards_box payloads by adding a dedicated normalize_rewards_box_for_ui function that converts non-standard keys ('xp'/'xp_gained', 'gold_pieces'/'gold') to canonical forms. The naming is excellent with descriptive function and variable names. Type safety could be improved with explicit type hints on the new function. Test coverage is comprehensive with a real E2E test that forces the LLM to produce messy keys and verifies normalization.",
+  "key_changes": [
+    "Add normalize_rewards_box_for_ui function that handles fallback keys (xp->xp_gained, gold_pieces->gold)",
+    "Call normalize_rewards_box_for_ui in _resolve_canonical_level_up_ui_pair passthrough_rewards",
+    "Add E2E test test_streaming_passthrough_normalization.py that verifies normalization with real LLM",
+    "Refactor streaming path to pass raw_structured_rewards_box and raw_structured_planning_block to helper functions",
+    "Add WHY comment explaining LLM-generated payloads use non-standard representations"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "ET-20260422T025547Z",
+  "last_updated": "2026-04-22T03:01:14.006551+00:00",
+  "sample_number": 1
+}

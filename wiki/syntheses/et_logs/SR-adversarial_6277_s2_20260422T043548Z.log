@@ -1,0 +1,9 @@
+# SR-adversarial Generation for PR #6277
+Timestamp: 2026-04-22T04:35:18.308012+00:00
+Technique: SR-adversarial
+
+## PR Context
+Title: feat(mvp_site): RewardsBox TypedDict + validate_rewards_box() schema enforcement
+
+## Generation Response (22688 chars)
+Extracted code: 2750 chars

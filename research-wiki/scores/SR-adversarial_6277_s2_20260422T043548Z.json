@@ -1,0 +1,23 @@
+{
+  "pr": 6277,
+  "technique": "SR-adversarial",
+  "naming": 95,
+  "error_handling": 50,
+  "type_safety": 85,
+  "architecture": 80,
+  "test_coverage": 95,
+  "documentation": 90,
+  "total": 80.5,
+  "breakdown": "PR adds RewardsBox TypedDict schema and validate_rewards_box() function for data shape enforcement. Type safety is solid with TypedDict and type checks, but error handling is minimal (returns only True/False with no error details or logging). Test coverage is excellent. Naming is clear and descriptive throughout.",
+  "key_changes": [
+    "Added RewardsBox TypedDict in custom_types.py with 7 required fields (level_up_available, xp_gained, current_xp, next_level_xp, gold, loot, source)",
+    "Added validate_rewards_box() validation function with type checking for bool, int, str, list fields",
+    "Added _is_int_not_bool() helper to distinguish int from bool in JSON (where bool is also valid)",
+    "Added type aliases UserId and CampaignId",
+    "Added comprehensive test suite (test_rewards_box_schema.py) with 11 test methods covering schema existence, valid/invalid data, field types, and edge cases"
+  ],
+  "commit_sha": "52a5fe2c17cbe22a7da159c7542b8ecc585848e7",
+  "run_session": "SR-adversarial-20260422T042629Z",
+  "last_updated": "2026-04-22T04:35:48.048757+00:00",
+  "sample_number": 2
+}

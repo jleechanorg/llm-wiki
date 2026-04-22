@@ -1,0 +1,15 @@
+{
+  "pr": 6420,
+  "technique": "SR-metaharness",
+  "naming": 85,
+  "error_handling": 55,
+  "type_safety": 60,
+  "architecture": 80,
+  "test_coverage": 20,
+  "documentation": 85,
+  "total": 63.25,
+  "breakdown": "Strong naming conventions and architecture documentation with clear ownership boundaries, but error handling relies on dict returns instead of typed exceptions, and several public functions lack type hints on parameters. Test coverage is critically absent from this diff\u2014no tests verify the level-up prerequisite or validation changes.",
+  "reasoning": "The module docstring excels at defining responsibility boundaries (what must/must not own), function names are semantically clear, and dataclasses provide structure for SSE events. However, errors are swallowed as dict returns rather than raised as typed exceptions, missing TypedDict for game state shapes reduces type safety, and the diff contains no test files despite claiming fixes to prerequisites and validation logic.",
+  "run_session": "autor-SR-metaharness-20260422T023845Z",
+  "last_updated": "20260422T024230Z"
+}

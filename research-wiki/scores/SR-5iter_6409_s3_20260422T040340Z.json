@@ -1,0 +1,24 @@
+{
+  "pr": 6409,
+  "technique": "SR-5iter",
+  "naming": 90,
+  "error_handling": 85,
+  "type_safety": 90,
+  "architecture": 85,
+  "test_coverage": 95,
+  "documentation": 80,
+  "total": 87.75,
+  "breakdown": "Naming: Test function names are highly descriptive (e.g., test_process_action_stream_infers_failure_without_explicit_success). Variables like missing_modules, commands, installed_modules are clear. Error Handling: Tests properly cover error scenarios including failure detection, CalledProcessError handling for fallback packages. Type Safety: Proper type hints throughout (list[list[str]], list[tuple[list[str], dict[str, object]]], Path, set[str]). No any types visible. Architecture: Well-organized tests with proper separation of concerns. Each test focuses on specific functionality using monkeypatch effectively. Test Coverage: Comprehensive tests covering streaming, runtime bootstrap, signature guards, fallback packages, and loc script. Meaningful assertions, no stubs. Documentation: Docstrings on _write_file. Test function names are self-documenting. No commented-out code.",
+  "key_changes": [
+    "Added test for process_action stream failure detection without explicit success",
+    "Added test for runtime bootstrap skipping numpy downgrade when not needed",
+    "Added test for runtime bootstrap cache invalidation and timeouts",
+    "Added test for evidence signature guard skipping external server runs",
+    "Added test for runtime bootstrap fallback package candidates",
+    "Added new test file test_loc_script.py for LOC script with spaces and boundary-aware test detection"
+  ],
+  "commit_sha": null,
+  "run_session": "SR-5iter-20260422T035705Z",
+  "last_updated": "2026-04-22T04:03:40.953735+00:00",
+  "sample_number": 3
+}

@@ -1,0 +1,23 @@
+{
+  "pr": 6265,
+  "technique": "SR",
+  "naming": 75,
+  "error_handling": 65,
+  "type_safety": 70,
+  "architecture": 80,
+  "test_coverage": 90,
+  "documentation": 80,
+  "total": 75.75,
+  "breakdown": "This PR fixes normalization of rewards_box in streaming passthrough by adding fallback handling for non-standard LLM-generated keys ('xp' \u2192 'xp_gained', 'gold_pieces' \u2192 'gold'). The fix properly intercepts rewards_box before persistence in _resolve_canonical_level_up_ui_pair(). Variable naming is clear overall, though some generic names exist. Error handling uses coercion-with-defaults pattern but lacks explicit typed exceptions. Test coverage is strong with a real E2E test targeting the exact bug.",
+  "key_changes": [
+    "Added fallback key handling in normalize_rewards_box_for_ui() for 'xp' \u2192 'xp_gained' and 'gold_pieces' \u2192 'gold'",
+    "Removed legacy keys after normalization with .pop() calls",
+    "Applied normalize_rewards_box_for_ui() to rewards_box in _resolve_canonical_level_up_ui_pair() before returning",
+    "Added inline comment explaining WHY the fallback is needed for LLM-generated payloads",
+    "Created new E2E test file test_streaming_passthrough_normalization.py with 136 lines covering the fix"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-20260422T023321Z",
+  "last_updated": "2026-04-22T02:35:41.052813+00:00",
+  "sample_number": 2
+}

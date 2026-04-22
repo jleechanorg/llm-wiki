@@ -1,0 +1,22 @@
+{
+  "pr": 6265,
+  "technique": "ET",
+  "naming": 90,
+  "error_handling": 75,
+  "type_safety": 70,
+  "architecture": 85,
+  "test_coverage": 95,
+  "documentation": 75,
+  "total": 81.25,
+  "breakdown": "PR fixes rewards_box normalization in streaming passthrough by adding fallback key handling for non-standard LLM-generated keys ('xp'/'xp_gained', 'gold_pieces'/'gold'). The new normalize_rewards_box_for_ui function coerces values and removes legacy keys after copying. Type safety is adequate with isinstance checks but could benefit from TypedDict; test coverage is excellent with real E2E flow.",
+  "key_changes": [
+    "Add normalize_rewards_box_for_ui() function handling both standard and non-standard reward keys",
+    "Update _resolve_canonical_level_up_ui_pair() to call normalization before returning passthrough rewards",
+    "Add .pop() calls to remove legacy 'xp' and 'gold_pieces' keys after normalization",
+    "Create E2E test file verifying LLM can produce messy rewards_box that gets normalized to standard shape"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "ET-20260422T032051Z",
+  "last_updated": "2026-04-22T03:21:37.301414+00:00",
+  "sample_number": 1
+}

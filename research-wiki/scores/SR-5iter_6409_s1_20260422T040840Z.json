@@ -1,0 +1,25 @@
+{
+  "pr": 6409,
+  "technique": "SR-5iter",
+  "naming": 88,
+  "error_handling": 85,
+  "type_safety": 80,
+  "architecture": 85,
+  "test_coverage": 88,
+  "documentation": 82,
+  "total": 84.6,
+  "breakdown": "Weighted: Naming(90\u00d70.15) + Error(85\u00d70.20) + Type(80\u00d70.20) + Arch(85\u00d70.20) + Test(90\u00d70.15) + Doc(82\u00d70.10). Naming scores high with descriptive test names like test_runtime_bootstrap_tries_fallback_package_candidates. Error handling well-done via CalledProcessError in test fakes. Type safety good with typed collections and Path hints, minor use of object() in fakes acceptable. Architecture solid with proper monkeypatch DI and organized test structure. Test coverage high with new test file for loc.sh plus multiple runtime bootstrap scenarios. Documentation adequate with self-documenting names, no commented code.",
+  "key_changes": [
+    "New test file tests/scripts/test_loc_script.py for loc.sh script",
+    "test_evidence_signature_guard_skips_external_server_runs",
+    "test_runtime_bootstrap_tries_fallback_package_candidates",
+    "test_runtime_bootstrap_invalidates_caches_and_uses_timeouts",
+    "test_runtime_bootstrap_skips_numpy_downgrade_when_repair_not_needed",
+    "test_process_action_stream_infers_failure_without_explicit_success",
+    "test_process_action_stream_uses_configured_timeout"
+  ],
+  "commit_sha": null,
+  "run_session": "SR-5iter-20260422T040724Z",
+  "last_updated": "2026-04-22T04:08:40.288184+00:00",
+  "sample_number": 1
+}

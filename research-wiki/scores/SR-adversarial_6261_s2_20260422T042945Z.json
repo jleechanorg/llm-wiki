@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "SR-adversarial",
+  "naming": 85,
+  "error_handling": 80,
+  "type_safety": 75,
+  "architecture": 85,
+  "test_coverage": 90,
+  "documentation": 85,
+  "total": 82.75,
+  "breakdown": "This PR refactors rewards box numeric extraction to use a centralized robust converter with fallback key chains. It introduces a `_get_raw` helper that iterates through multiple possible input keys (aliases like xp_gained, xp, xp_awarded) and handles edge cases (0, NaN, empty strings). The new test file validates multiple edge case scenarios including messy LLM string outputs and fallback logic. Minor deduction for using `Any` type in the internal helper.",
+  "key_changes": [
+    "Refactored numeric extraction to use `_get_raw` helper with fallback key chains",
+    "Migrated to centralized `_DNC.convert_value` for robust type conversion",
+    "Added logic to handle NaN, infinity, zero, and empty string edge cases",
+    "Created comprehensive test file covering 6 scenarios including real E2E",
+    "Added explanatory comments describing WHY non-finite values are skipped"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "SR-adversarial-20260422T042629Z",
+  "last_updated": "2026-04-22T04:29:45.717309+00:00",
+  "sample_number": 2
+}

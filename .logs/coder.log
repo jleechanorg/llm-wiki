@@ -4,3 +4,13 @@
 [2026-04-14 02:17:03] [START] Wiki ingest task: 350 remaining .py files from raw/mvp_site_all/
 [2026-04-14 02:17:28] [ENGINE] Delegating to MiniMax (Claude CLI + MiniMax API)
 [2026-04-14 02:17:28] [CLI_START] claude --model MiniMax-M2.5 (ANTHROPIC_BASE_URL=minimax)
+[2026-04-21 19:32:14] [START] SR-adversarial autor runs: 15 iterations needed (current n=15)
+[2026-04-21 21:25:37] [ENGINE] Delegating to MiniMax (Claude CLI + MiniMax API)
+[2026-04-21 21:25:37] [CLI_START] claude --model MiniMax-M2.5 (ANTHROPIC_BASE_URL=minimax)
+[2026-04-21 21:25:39] [START] Task received: Part A add SR-adversarial technique + Part B run 15 autor experiments
+[2026-04-21 21:26:18] [ENGINE] Delegating to MiniMax (Claude CLI + MiniMax API)
+[2026-04-21 21:26:18] [CLI_START] python3 scripts/run_autor_experiment.py --technique SR-adversarial --prs 6265,6261,6245,6269,6277 --n 3
+[2026-04-21 21:36:49] [CLI_RESULT] MiniMax CLI exit code: 0
+[2026-04-21 21:36:49] [TESTS] 15 autor experiments completed: 15 success, 0 failures
+[2026-04-21 21:36:49] [SIGNAL] IMPLEMENTATION_READY sent to verifier (bandit state updated)
+[2026-04-21 21:36:49] [COMPLETE] Task completed. Engine: MiniMax. Files: 1 modified (run_autor_experiment.py), Experiments: 15, SR-adversarial n=30 mean=77.80

@@ -1,0 +1,22 @@
+{
+  "pr": 6265,
+  "technique": "ET",
+  "naming": 75,
+  "error_handling": 65,
+  "type_safety": 70,
+  "architecture": 80,
+  "test_coverage": 90,
+  "documentation": 65,
+  "total": 74.25,
+  "breakdown": "This PR fixes a bug where LLM-generated rewards_box uses non-standard keys ('xp'/'gold_pieces' instead of 'xp_gained'/'gold'). The fix adds a normalize_rewards_box_for_ui function that handles fallback keys and normalizes values before passthrough. Test coverage is strong with an E2E test that forces messy keys. Type safety is adequate but lacks explicit type hints. Documentation explains the WHY but new function lacks docstring.",
+  "key_changes": [
+    "Added normalize_rewards_box_for_ui() to normalize xp/xp_gained and gold/gold_pieces keys",
+    "Modified _resolve_canonical_level_up_ui_pair to call normalization before returning rewards",
+    "Added pop() to remove raw fallback keys after normalization",
+    "Created E2E test forcing LLM to use messy 'xp'/'gold_pieces' keys to verify normalization works"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "ET-20260422T035021Z",
+  "last_updated": "2026-04-22T03:51:12.789967+00:00",
+  "sample_number": 1
+}
