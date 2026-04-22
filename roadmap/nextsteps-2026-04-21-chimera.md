@@ -70,10 +70,13 @@ No Chimera-specific beads. Issues tracked in repo at `https://github.com/jleecha
 - **Changes**: 6-dimension rubric (100pts), Insight heaviest (25pts), 5=floor not ceiling, behavioral anchors for 8+, accuracy gate caps at 3/10, 500-char error detection, pairwise tiebreaking
 - **Acceptance criteria**: Score distribution spans at least 3 points across 15 queries — pending P8 re-run
 
-### P8 — ⬜ NEW — Re-run benchmark with new rubric
+### P8 — ✅ DONE (14/15) — Re-run benchmark with new rubric
 - **Goal**: Get valid quality comparison between GNN, Fixed, Single modes
-- **Files**: `run_hard_benchmark.py`, `benchmark_logs/`
-- **Acceptance criteria**: Error rate <5% per mode, score distribution spans 3+ points, pairwise comparisons show discriminable winners
+- **Files**: `run_query_p8.py`, `benchmark_logs/checkpoint_p8*.json`, `aggregate_p8.py`
+- **Results**: 14/15 complete; Q6 stuck in GNN (killed after 30+ min)
+- **Acceptance criteria**: FAIL — score_range=0.00, single=100% errors
+- **Key finding**: Rubric ceiling PERSISTS — new rubric still produces exactly 5.0 for all fixed/gnn outputs
+- **Next**: P9 rubric redesign with behavioral anchors (not dimensional scoring)
 
 ## Evidence review findings
 
