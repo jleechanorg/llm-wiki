@@ -1,0 +1,39 @@
+{
+  "session_id": "728dad4f",
+  "checkpoint_at": "2026-04-15T01:58:57.561771+00:00",
+  "finished_runs": 3,
+  "total_runs": 9,
+  "results": {
+    "extendedthinking": [
+      {
+        "run_id": "extendedthinking_WA-001_728dad4f",
+        "technique": "extendedthinking",
+        "pr": "WA-001",
+        "timestamp": "20260415T012857Z",
+        "session_id": "728dad4f",
+        "status": "timeout",
+        "scores": {}
+      },
+      {
+        "run_id": "extendedthinking_WA-004_728dad4f",
+        "technique": "extendedthinking",
+        "pr": "WA-004",
+        "timestamp": "20260415T013857Z",
+        "session_id": "728dad4f",
+        "status": "timeout",
+        "scores": {}
+      },
+      {
+        "run_id": "extendedthinking_WA-005_728dad4f",
+        "technique": "extendedthinking",
+        "pr": "WA-005",
+        "timestamp": "20260415T014857Z",
+        "session_id": "728dad4f",
+        "status": "timeout",
+        "scores": {}
+      }
+    ],
+    "prm": [],
+    "selfrefine": []
+  }
+}

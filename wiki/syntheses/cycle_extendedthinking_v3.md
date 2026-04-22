@@ -1,15 +1,15 @@
 ---
-title: "Prm Technique — Auto-Research v3"
+title: "Extendedthinking Technique — Auto-Research v3"
 type: synthesis
-tags: [auto-research, prm, evidence-required]
+tags: [auto-research, extendedthinking, evidence-required]
 last_updated: 2026-04-15
 run_session: 728dad4f
 ---
 
-# Prm Technique — Auto-Research v3
+# Extendedthinking Technique — Auto-Research v3
 
 ## Technique
-PRM
+EXTENDEDTHINKING
 
 ## Run Session
 728dad4f
@@ -18,7 +18,7 @@ PRM
 
 | PR | Type | Baseline | Score | Delta |
 |----|------|----------|-------|-------|
-| WA-001 (small) | 40/100 | 87/100 | ++47 |
+| WA-001 (small) | TBD | TBD | +TBD |
 
 ## Run Evidence
 
