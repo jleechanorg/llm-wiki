@@ -1,0 +1,7 @@
+# SR-multi-exemplar generation for PR #6436
+Timestamp: 2026-04-21T22:21:59.873825+00:00
+Technique: SR-multi-exemplar
+PR: [antig] Evidence: Twin-Clone Bug Repro for PR #6418
+
+Raw response: 11080 chars
+Extracted code: 139 chars

@@ -1,0 +1,15 @@
+{
+  "pr": 6420,
+  "technique": "SR",
+  "naming": 55,
+  "error_handling": 50,
+  "type_safety": 60,
+  "architecture": 78,
+  "test_coverage": 15,
+  "documentation": 75,
+  "total": 55.6,
+  "breakdown": "The code demonstrates strong architectural discipline with clear module boundaries and explicit responsibility ownership documented in the header. However, critical issues include the garbled `SSE\u707e` constant (appears to be a corrupted encoding or incomplete rename), generic timing variables `t0`/`t3`, and an unused nested function `_stream_chunks()`. Error handling uses overly broad `Exception` catch with silent degradation. Type safety is moderate with heavy `Any` usage. Test coverage is essentially absent with only placeholder comments.",
+  "reasoning": "Naming suffers from the suspicious `SSE\u707e` constant and generic timing variables. Error handling catches generic Exception without typed errors. Type safety is undermined by `Any` in critical paths and missing frozen dataclass. Architecture is the strongest dimension with well-documented ownership boundaries. Documentation is solid at function level. Test coverage receives the lowest score due to no actual test implementations.",
+  "run_session": "autor-SR-20260421T191139Z",
+  "last_updated": "20260421T191316Z"
+}

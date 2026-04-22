@@ -1,0 +1,18 @@
+{
+  "pr": 6434,
+  "technique": "SR-adversarial",
+  "naming": 88,
+  "error_handling": 72,
+  "type_safety": 55,
+  "architecture": 78,
+  "test_coverage": 30,
+  "documentation": 82,
+  "total": 66.9,
+  "breakdown": "The rename from gemini_request to llm_request shows solid naming judgment by using the vendor-agnostic LLM term, and the deprecation shim using @property is architecturally sound for backward compatibility. However, the pervasive use of `Any` types undermines type safety, no test coverage is evident in the diff, and the scope appears limited to just one file when callers likely need updates.",
+  "reasoning": "While the deprecation warning with stacklevel=2 follows Python conventions, warnings can be suppressed and are not guaranteed to surface to users. The docstring and deprecation messages are clear, but the diff is minimal\u2014only showing a class definition snippet\u2014and lacks evidence of updated callers, type improvements (should reference the actual LLMRequest type instead of Any), or any tests verifying the migration path works correctly.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-adversarial-20260421T234312Z",
+  "last_updated": "20260421T234431Z"
+}

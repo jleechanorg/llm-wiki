@@ -1,0 +1,18 @@
+{
+  "pr": 6404,
+  "technique": "PRM",
+  "naming": 92,
+  "error_handling": 95,
+  "type_safety": 68,
+  "architecture": 88,
+  "test_coverage": 0,
+  "documentation": 92,
+  "total": 73.2,
+  "breakdown": "The code demonstrates strong naming conventions and robust fail-closed error handling with detailed logging. Type safety is the main weakness\u2014the function uses `Any` for input/output without TypedDict/dataclass for the complex signal shape. Architecture is clean with clear separation of validation from game logic. No test code was provided in the diff, making test coverage indeterminate but likely insufficient. Documentation is excellent with comprehensive docstrings explaining the 'model-owned contract' rationale.",
+  "reasoning": "Naming is clear with descriptive names like _validate_level_up_signal and _VALID_LEVEL_UP_SOURCES. Error handling is exemplary\u2014fail-closed with logging at each failure point. Type safety loses points for using Any type hints instead of TypedDict for the level-up signal schema, which would enforce the expected structure at type-check time. Architecture follows single responsibility well. Test coverage receives 0 as no test file content was provided\u2014cannot verify actual changes are tested. Documentation is thorough with docstring covering structure, return semantics, and architectural note about model-owned contracts.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-PRM-20260421T233429Z",
+  "last_updated": "20260421T233524Z"
+}

@@ -1,0 +1,18 @@
+{
+  "pr": 6436,
+  "technique": "SR-metaharness",
+  "naming": 0,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 0,
+  "test_coverage": 0,
+  "documentation": 0,
+  "total": 0.0,
+  "breakdown": "No actual code was provided\u2014only two error messages indicating module import and dependency installation failures, making it impossible to evaluate any of the six dimensions.",
+  "reasoning": "The submitted content consists of error traces (ModuleNotFoundError for pip._internal and RuntimeError for flask_compress dependency) rather than a PR diff or code artifact. There are no variables, functions, files, types, modules, tests, or documentation to assess. This appears to be an error log rather than a code submission.",
+  "test_passed": 1,
+  "test_failed": 0,
+  "test_output": "workflow dispatch: 1\nworkflow conclusion: success\n | ",
+  "run_session": "autor-SR-metaharness-20260421T223159Z",
+  "last_updated": "20260421T223327Z"
+}

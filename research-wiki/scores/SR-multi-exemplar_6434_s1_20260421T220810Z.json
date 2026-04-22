@@ -1,0 +1,18 @@
+{
+  "pr": 6434,
+  "technique": "SR-multi-exemplar",
+  "naming": 85,
+  "error_handling": 50,
+  "type_safety": 45,
+  "architecture": 60,
+  "test_coverage": 40,
+  "documentation": 60,
+  "total": 55.75,
+  "breakdown": "The rename from gemini_request to llm_request is a clear improvement in naming specificity, but the diff is minimal\u2014only showing a single dataclass field. The persistent use of `Any` with a comment (rather than a proper type) remains a type safety concern. No tests or error handling are visible in this snippet, making thorough assessment impossible for those dimensions.",
+  "reasoning": "This is a trivial one-line rename with no context on tests, surrounding code, or error handling. The `Any` typing with comment hint is weak (type safety 45), and absence of test updates is concerning (test coverage 40). The naming itself is reasonable but not exceptional. Cannot assess architecture or error handling meaningfully from this snippet alone.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: could not open '/private/tmp/fork_clone/.git/objects/pack/tmp_pack_aIJtAu' for reading: No such file or directory\nfatal: fetch-pack: invalid index-pack output\n",
+  "run_session": "autor-SR-multi-exemplar-20260421T220652Z",
+  "last_updated": "20260421T220810Z"
+}

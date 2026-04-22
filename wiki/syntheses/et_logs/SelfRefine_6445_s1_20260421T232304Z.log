@@ -1,0 +1,7 @@
+# SelfRefine generation for PR #6445
+Timestamp: 2026-04-21T23:22:15.004851+00:00
+Technique: SelfRefine
+PR: chore(deps): bump lxml from 6.0.2 to 6.1.0
+
+Raw response: 2786 chars
+Extracted code: 555 chars

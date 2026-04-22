@@ -1,0 +1,18 @@
+{
+  "pr": 6420,
+  "technique": "SR-multi-exemplar",
+  "naming": 25,
+  "error_handling": 20,
+  "type_safety": 15,
+  "architecture": 35,
+  "test_coverage": 25,
+  "documentation": 30,
+  "total": 24.5,
+  "breakdown": "Naming is poor with cryptic PR-number-suffixed names (_pr6420_gs) that obscure purpose; no type annotations or TypedDicts in this test fragment; tests verify basic defaults but lack coverage of the 'validation hardening' described in the PR title; limited visibility into actual code changes, only test stubs visible.",
+  "reasoning": "This appears to be a truncated test file fragment showing only 2 test methods with basic assertions. The PR title mentions 'ZFC level-up schema prerequisites + validation hardening' but the visible tests only check default values (level=1, class=fighter) without testing any validation logic. Function names like `_pr6420_gs` encode PR numbers rather than semantic purpose. No type annotations, no TypedDicts, no visible exception handling paths, and no documentation explaining WHY these tests exist beyond referencing external PR numbers.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-multi-exemplar-20260421T235019Z",
+  "last_updated": "20260421T235144Z"
+}

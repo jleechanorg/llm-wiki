@@ -1,0 +1,18 @@
+{
+  "pr": 6444,
+  "technique": "PRM",
+  "naming": 75,
+  "error_handling": 85,
+  "type_safety": 90,
+  "architecture": 80,
+  "test_coverage": 0,
+  "documentation": 90,
+  "total": 71.25,
+  "breakdown": "The PR demonstrates strong typing practices with TypedDict and well-documented class/method docstrings, but is severely penalized for zero test coverage and an incomplete diff that cuts off mid-function. The naming is mostly clear, though `builder_flags` appears to be a misnamed stub or misplaced function, and the architecture shows good separation of the circuit breaker pattern.",
+  "reasoning": "Type safety and documentation are excellent\u2014use of TypedDict, typed exceptions with cause chaining, and docstrings explaining WHY rather than WHAT. Error handling follows the fail-fast tenet appropriately. However, the diff is truncated and contains what appears to be an orphan function (`builder_flags`) with no context, suggesting either incomplete review or a problematic merge. Without tests covering the circuit breaker state transitions and thread-safety, the core functionality cannot be verified.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-PRM-20260421T232335Z",
+  "last_updated": "20260421T232435Z"
+}

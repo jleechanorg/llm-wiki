@@ -1,0 +1,7 @@
+# SR-multi-exemplar generation for PR #6429
+Timestamp: 2026-04-21T22:26:52.358589+00:00
+Technique: SR-multi-exemplar
+PR: feat(loop): add repo-local level-up ZFC loop automation
+
+Raw response: 7752 chars
+Extracted code: 445 chars

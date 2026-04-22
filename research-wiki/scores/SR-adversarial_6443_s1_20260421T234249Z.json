@@ -1,0 +1,18 @@
+{
+  "pr": 6443,
+  "technique": "SR-adversarial",
+  "naming": 85,
+  "error_handling": 65,
+  "type_safety": 70,
+  "architecture": 80,
+  "test_coverage": 0,
+  "documentation": 75,
+  "total": 63.25,
+  "breakdown": "Function has clear naming and solid architecture but lacks type safety with generic `dict` hints, handles errors passively by returning 0 rather than raising typed exceptions, and the diff provides no visibility into test coverage despite the changes being testable.",
+  "reasoning": "The function correctly handles nested and flat multiclass structures with isinstance guards, but relying on `dict` instead of TypedDict loses static type checking benefits. Silent 0 returns for errors make debugging harder\u2014no logging or typed exceptions. The diff shows only the implementation; no test file context is visible, so test_coverage gets 0. Docstring explains structures well but lacks @returns annotation and doesn't explain why this exists (ASI calculation).",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-adversarial-20260421T234131Z",
+  "last_updated": "20260421T234249Z"
+}

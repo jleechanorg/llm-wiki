@@ -1,0 +1,18 @@
+{
+  "pr": 6420,
+  "technique": "SR-fewshot",
+  "naming": 70,
+  "error_handling": 20,
+  "type_safety": 25,
+  "architecture": 85,
+  "test_coverage": 0,
+  "documentation": 90,
+  "total": 45.5,
+  "breakdown": "This is only a module-level docstring header fragment with no implementation code, making comprehensive scoring impossible. The architecture documentation is exemplary (clear ownership boundaries), and the module naming is reasonable, but error handling, type safety, and test coverage cannot be assessed as no actual code was provided.",
+  "reasoning": "The docstring itself is excellent documentation (90/100) with clear 'Owns' vs 'Must not own' boundaries. Architecture is well-documented at 85/100. However, I deducted heavily across all other dimensions: no variable/function names to evaluate naming quality, zero visible error handling patterns, no type annotations in the snippet, and no test files visible at all. With only a header docstring provided, scoring error handling, type safety, naming, and tests at or near zero is the only honest assessment. The total of 40.5 reflects that this is documentation about code, not code itself.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: could not open '/private/tmp/fork_clone/.git/objects/pack/tmp_pack_y5Dsmi' for reading: No such file or directory\nfatal: fetch-pack: invalid index-pack output\n",
+  "run_session": "autor-SR-fewshot-20260421T221739Z",
+  "last_updated": "20260421T221829Z"
+}

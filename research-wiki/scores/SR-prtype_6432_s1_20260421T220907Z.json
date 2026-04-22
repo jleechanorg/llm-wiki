@@ -1,0 +1,18 @@
+{
+  "pr": 6432,
+  "technique": "SR-prtype",
+  "naming": 60,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 85,
+  "test_coverage": 0,
+  "documentation": 100,
+  "total": 36.0,
+  "breakdown": "This PR activation artifact excels at documentation (100) with comprehensive status tracking, dependency graphs, and clear KEEP/DROP rationale. Architecture dimension scores well (85) given logical module boundaries and prerequisite separation. However, naming (60) is generic in places (feat/zfc-level-up-model-computes lane), and error handling/type safety/test coverage (all 0) are inapplicable to this documentation-only artifact\u2014there's no code to evaluate.",
+  "reasoning": "Self-critique: This is a PR lifecycle/status document, not code. The rubric's code-centric dimensions (error handling, type safety, test coverage) don't apply\u2014no executable code exists. Naming is competent but not exceptional. Where this document shines is documentation and architecture organization: the KEEP/DROP split, dependency graph, and activation trigger checklist are exemplary. Weighted total reflects that 60% of dimensions are N/A for a status artifact, yielding a low composite score despite strong documentation quality.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: could not open '/private/tmp/fork_clone/.git/objects/pack/tmp_pack_SHL1ix' for reading: No such file or directory\nfatal: fetch-pack: invalid index-pack output\n",
+  "run_session": "autor-SR-prtype-20260421T220816Z",
+  "last_updated": "20260421T220907Z"
+}

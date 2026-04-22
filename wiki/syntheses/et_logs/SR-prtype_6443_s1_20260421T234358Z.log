@@ -1,0 +1,7 @@
+# SR-prtype generation for PR #6443
+Timestamp: 2026-04-21T23:42:26.236291+00:00
+Technique: SR-prtype
+PR: [antig] fix(rewards): add missing _total_character_level helper for multiclass ASI
+
+Raw response: 3510 chars
+Extracted code: 2703 chars

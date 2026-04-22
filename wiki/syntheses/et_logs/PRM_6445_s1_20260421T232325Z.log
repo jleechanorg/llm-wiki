@@ -1,0 +1,7 @@
+# PRM generation for PR #6445
+Timestamp: 2026-04-21T23:22:17.353087+00:00
+Technique: PRM
+PR: chore(deps): bump lxml from 6.0.2 to 6.1.0
+
+Raw response: 5884 chars
+Extracted code: 476 chars

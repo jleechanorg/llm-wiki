@@ -1,0 +1,18 @@
+{
+  "pr": 6443,
+  "technique": "SR-multi-exemplar",
+  "naming": 80,
+  "error_handling": 65,
+  "type_safety": 40,
+  "architecture": 80,
+  "test_coverage": 20,
+  "documentation": 55,
+  "total": 57.5,
+  "breakdown": "The helper function has clear naming and follows good architectural principles as a pure, single-responsibility function, but suffers from missing type hints and no visible test coverage in the diff. Error handling relies on a basic isinstance check rather than explicit validation.",
+  "reasoning": "The underscore-prefixed name and descriptive parameter name are solid, but the absence of type annotations is a significant gap for a game system dealing with character stats. The isinstance guard prevents type errors but doesn't provide static safety. No test file is included in the diff, making test coverage unverifiable. The docstring is minimal but adequate for a private helper.",
+  "test_passed": 1,
+  "test_failed": 0,
+  "test_output": "workflow dispatch: 1\nworkflow conclusion: success\n | ",
+  "run_session": "autor-SR-multi-exemplar-20260421T221658Z",
+  "last_updated": "20260421T221812Z"
+}

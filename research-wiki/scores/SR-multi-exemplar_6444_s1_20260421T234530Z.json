@@ -1,0 +1,18 @@
+{
+  "pr": 6444,
+  "technique": "SR-multi-exemplar",
+  "naming": 65,
+  "error_handling": 80,
+  "type_safety": 45,
+  "architecture": 60,
+  "test_coverage": 0,
+  "documentation": 25,
+  "total": 49.25,
+  "breakdown": "This is a focused bugfix with solid error handling practices (proper exception chaining with `from e`, typed `SchemaLoadError`), but the diff is minimal in scope\u2014no tests, no type annotations visible, and limited documentation beyond a one-line comment describing the fix itself rather than the underlying design.",
+  "reasoning": "The error handling is the strongest aspect with correct exception chaining and a dedicated error type; naming is adequate but `_SCHEMA_DOC_CACHE_ATTEMPTED` is a verbose flag; type safety cannot be fully assessed but no annotations are visible; test coverage is absent from the diff; documentation is minimal with only a top-level comment explaining the fix rather than the circuit breaker pattern's intent.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-multi-exemplar-20260421T234346Z",
+  "last_updated": "20260421T234530Z"
+}

@@ -1,0 +1,18 @@
+{
+  "pr": 6432,
+  "technique": "SR-adversarial",
+  "naming": 0,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 0,
+  "test_coverage": 0,
+  "documentation": 0,
+  "total": 0.0,
+  "breakdown": "No code diff was provided for review\u2014only git history showing PR chain 6404\u21926418\u21926420. Cannot evaluate any of the 6 dimensions without actual code content.",
+  "reasoning": "This appears to be a docs PR according to the title, but no code changes, diffs, or file modifications were included in the request. All dimensions receive 0 as there is nothing to score against the rubric.",
+  "test_passed": 1,
+  "test_failed": 0,
+  "test_output": "workflow dispatch: 1\nworkflow conclusion: success\n | ",
+  "run_session": "autor-SR-adversarial-20260421T223525Z",
+  "last_updated": "20260421T223736Z"
+}

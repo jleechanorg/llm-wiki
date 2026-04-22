@@ -1,0 +1,7 @@
+# SR-prtype generation for PR #6420
+Timestamp: 2026-04-21T23:35:00.254894+00:00
+Technique: SR-prtype
+PR: [antig] fix: ZFC level-up schema prerequisites + validation hardening
+
+Raw response: 17651 chars
+Extracted code: 16467 chars

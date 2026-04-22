@@ -1,0 +1,7 @@
+# SR-adversarial generation for PR #6420
+Timestamp: 2026-04-21T22:17:27.616261+00:00
+Technique: SR-adversarial
+PR: [agento] fix: ZFC level-up schema prerequisites + validation hardening
+
+Raw response: 7172 chars
+Extracted code: 213 chars

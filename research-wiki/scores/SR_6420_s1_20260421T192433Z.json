@@ -1,0 +1,15 @@
+{
+  "pr": 6420,
+  "technique": "SR",
+  "naming": 85,
+  "error_handling": 65,
+  "type_safety": 85,
+  "architecture": 80,
+  "test_coverage": 0,
+  "documentation": 85,
+  "total": 67.25,
+  "breakdown": "The PR shows solid fundamentals in naming conventions, type safety with dataclasses and union types, and clear architectural responsibility boundaries documented in the module header. Error handling exists but relies on bare `except Exception` with warnings rather than typed errors. No test coverage is visible in the provided diff, which significantly impacts the score. Documentation is strong with comprehensive docstrings and a responsibility charter explaining module scope.",
+  "reasoning": "The code demonstrates good practices with clear function/variable names and TypedDict-like structures, but falls short due to: (1) incomplete error handling visible (truncated exception message), (2) no test files provided to verify the actual changes work, and (3) some inconsistency like mixing `logging_util.warning` with `logger`. The architecture is well-structured with clear separation of concerns and explicit responsibility ownership documented.",
+  "run_session": "autor-SR-20260421T192303Z",
+  "last_updated": "20260421T192433Z"
+}

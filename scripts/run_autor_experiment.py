@@ -45,6 +45,7 @@ REPO = "jleechanorg/worldarchitect.ai"
 SCORES_DIR = Path("research-wiki/scores")
 LOG_DIR = Path("wiki/syntheses/et_logs")
 BANDIT_PATH = Path("technique_bandit/bandit_state.json")
+REPO_LOCAL = Path(os.path.expanduser("~/worldarchitect-ai-autor"))
 
 # 6-dim rubric weights
 RUBRIC_WEIGHTS = {
@@ -566,6 +567,34 @@ def write_log(log_text: str, pr_number: int, technique: str, run_num: int, log_d
     return path
 
 
+def run_git(*args, cwd=None, timeout=30):
+    if cwd is None:
+        cwd = REPO_LOCAL
+    r = subprocess.run(["git"] + list(args), cwd=cwd, capture_output=True, text=True, timeout=timeout)
+    if r.returncode != 0:
+        raise RuntimeError(f"git {' '.join(args)} failed: {r.stderr[:300]}")
+    return r.stdout.strip()
+
+
+def push_autor_commit(technique: str, pr_number: int, code: str, base_ref: str, run_num: int) -> str:
+    """Write generated code to autor_generated.py, commit, push to autor-eval repo. Returns branch name."""
+    branch_name = f"autor-{technique.lower()}-{pr_number}-s{run_num}-{datetime.now(tz=timezone.utc).strftime('%Y%m%d%H%M%S')}"
+    file_content = f"# Autor {technique} PR\n# Target: #{pr_number} run {run_num}\n{code}"
+
+    try:
+        run_git("fetch", "autor-eval", base_ref)
+        run_git("fetch", "github", base_ref)
+        run_git("checkout", "-B", branch_name, f"autor-eval/{base_ref}")
+        (REPO_LOCAL / "autor_generated.py").write_text(file_content)
+        run_git("add", "autor_generated.py")
+        run_git("commit", "-m", f"autor: {technique} fix for PR #{pr_number} run {run_num}")
+        run_git("push", "-u", "autor-eval", branch_name, timeout=60)
+        return branch_name
+    except Exception as e:
+        print(f"  WARNING: git push failed: {e}")
+        return branch_name
+
+
 def run_cell(
     pr_number: int,
     technique: str,
@@ -595,6 +624,11 @@ def run_cell(
         print(f"Generating fix with {technique}...")
         fix_code, log_text = generate_fix(technique, pr_info, diff)
         print(f"Generated code: {len(fix_code)} chars")
+
+        # Push commit to autor-eval (no PR)
+        print(f"Pushing commit to autor-eval...")
+        branch = push_autor_commit(technique, pr_number, fix_code, pr_info["base_ref"], run_num)
+        print(f"  Branch: {branch}")
 
         # Score the generated diff against rubric
         print(f"Scoring against 6-dim rubric...")
@@ -635,7 +669,7 @@ def run_cell(
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Deterministic autor experiment runner",
+        description="Deterministic autor experiment runner — pushes commits to autor-eval repo (no PRs).",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=__doc__,
     )

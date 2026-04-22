@@ -1,0 +1,18 @@
+{
+  "pr": 6443,
+  "technique": "SR-multi-exemplar",
+  "naming": 75,
+  "error_handling": 45,
+  "type_safety": 55,
+  "architecture": 70,
+  "test_coverage": 20,
+  "documentation": 80,
+  "total": 56.25,
+  "breakdown": "Function naming is clear and descriptive with appropriate private prefix; docstring explains purpose well. Error handling is minimal with no typed exceptions or logging for unexpected data shapes. Type safety relies on generic `dict` instead of TypedDict for game_state structure, missing opportunity for better type constraints. Architecture is clean with single-responsibility function, but no module context provided to assess boundaries. No tests visible in diff, making coverage unverifiable.",
+  "reasoning": "The implementation is straightforward and correctly calculates total level with graceful handling of missing data, but scores lower due to: generic `dict` type instead of TypedDict for game_state; no typed exceptions or error logging; and no test coverage visible to verify the fix works for multiclass ASI scenarios. A TypedDict for Character and ClassLevel would significantly improve type safety.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-multi-exemplar-20260421T233134Z",
+  "last_updated": "20260421T233252Z"
+}

@@ -1,0 +1,7 @@
+# SR-multi-exemplar generation for PR #6444
+Timestamp: 2026-04-21T22:14:51.617347+00:00
+Technique: SR-multi-exemplar
+PR: [antig] feat(prompts): thread-safe schema cache circuit breaker
+
+Raw response: 15879 chars
+Extracted code: 1088 chars

@@ -1,0 +1,7 @@
+# SR-fewshot generation for PR #6418
+Timestamp: 2026-04-21T22:18:40.527270+00:00
+Technique: SR-fewshot
+PR: [antig] test: level-up centralization contract enforcement
+
+Raw response: 7731 chars
+Extracted code: 867 chars

@@ -1,0 +1,7 @@
+# SR-adversarial generation for PR #6438
+Timestamp: 2026-04-21T22:06:19.579863+00:00
+Technique: SR-adversarial
+PR: [antig] chore: explicitly mirror git-header instruction in GEMINI.md
+
+Raw response: 8216 chars
+Extracted code: 462 chars

@@ -1,0 +1,18 @@
+{
+  "pr": 6438,
+  "technique": "SR-adversarial",
+  "naming": 85,
+  "error_handling": 75,
+  "type_safety": 90,
+  "architecture": 85,
+  "test_coverage": 95,
+  "documentation": 95,
+  "total": 86.5,
+  "breakdown": "This is a documentation-only PR (markdown protocol), so code-centric dimensions receive neutral scores\u2014no variables to name, no types to enforce, no tests needed. The markdown itself demonstrates excellent structure with clear numbered instructions, comprehensive error handling scenarios (timeout, failure, empty output), and the RATIONALE section properly explains the 'why'. The instruction includes safety guards like checking git work-tree first and caching for idempotency.",
+  "reasoning": "Solid documentation PR. Error handling covers timeout, failure, and non-git scenarios gracefully. The RATIONALE properly explains the design intent. Naming in headings is clear. No architectural issues since it's prose. Test coverage is N/A\u2014markdown doesn't need tests. Type safety is N/A. The only minor gap is not explicitly documenting the cache behavior for idempotency in the rationale itself, but the instruction text is unambiguous.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: could not open '/private/tmp/fork_clone/.git/objects/pack/tmp_pack_Z36tle' for reading: No such file or directory\nfatal: fetch-pack: invalid index-pack output\n",
+  "run_session": "autor-SR-adversarial-20260421T222746Z",
+  "last_updated": "20260421T222847Z"
+}

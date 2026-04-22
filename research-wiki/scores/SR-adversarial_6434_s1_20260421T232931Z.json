@@ -1,0 +1,18 @@
+{
+  "pr": 6434,
+  "technique": "SR-adversarial",
+  "naming": 85,
+  "error_handling": 50,
+  "type_safety": 70,
+  "architecture": 85,
+  "test_coverage": 40,
+  "documentation": 50,
+  "total": 64.75,
+  "breakdown": "The rename improves naming by making the interface LLM-agnostic rather than gemini-specific, benefiting architecture, but this minimal diff provides no evidence of corresponding type updates or test coverage, and the example comment reveals a legitimate AttributeError risk if not all references were updated.",
+  "reasoning": "A rename-only diff scores well only on dimensions it demonstrably improves\u2014naming and architecture\u2014but the lack of test files and documentation changes in the diff itself forces low scores on test coverage and documentation; error handling and type safety receive neutral-to-low scores because the change neither adds error handling nor shows whether the underlying TypedDict was updated to match the new field name.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-adversarial-20260421T232804Z",
+  "last_updated": "20260421T232931Z"
+}

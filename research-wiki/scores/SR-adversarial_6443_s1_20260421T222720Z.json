@@ -1,0 +1,18 @@
+{
+  "pr": 6443,
+  "technique": "SR-adversarial",
+  "naming": 95,
+  "error_handling": 95,
+  "type_safety": 90,
+  "architecture": 85,
+  "test_coverage": 0,
+  "documentation": 85,
+  "total": 76.75,
+  "breakdown": "The helper function is well-named, defensively validates all edge cases, and has thorough type hints and docstrings. However, no test coverage was provided for this change, which is a critical gap for a bug fix. Architecture and documentation are solid for a single helper but can't be deeply evaluated without the full module context.",
+  "reasoning": "Naming and error handling are excellent\u2014comprehensive validation for None, wrong types, non-integer floats, and negative values. Type safety is good with proper hints. No tests visible in the diff reduces the score significantly since this is a bug fix that needs verification.",
+  "test_passed": 1,
+  "test_failed": 0,
+  "test_output": "workflow dispatch: 1\nworkflow conclusion: success\n | ",
+  "run_session": "autor-SR-adversarial-20260421T222609Z",
+  "last_updated": "20260421T222720Z"
+}
