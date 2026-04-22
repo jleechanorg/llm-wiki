@@ -299,6 +299,7 @@ Step 2: ATTACK your fix — what breaks? what edge cases? what fails?
 Step 3: Refine the fix to address the weaknesses found.
 Output the final code in a ```python``` block.""",
     },
+<<<<<<< HEAD
     "SR-5iter": {
         "system": "You are an expert code reviewer and fixer. Generate production-ready code fixes for GitHub PRs with 5 rounds of self-refinement.",
         "generation": """Analyze this PR and generate a complete, production-ready fix.
@@ -318,6 +319,8 @@ Generate a complete fix. Then perform 5 rounds of self-refinement:
 
 Output the final fixed code in a ```python``` block. Show brief refinement notes before the final code.""",
     },
+=======
+>>>>>>> 2c20d8b1 (fix(autor): add SR-adversarial technique, fix validate_router_prereqs observations->scores)
 }
 
 
@@ -719,7 +722,11 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=__doc__,
     )
+<<<<<<< HEAD
     parser.add_argument("--technique", required=True, choices=["SR", "SR-fewshot", "SR-multi-exemplar", "SR-prtype", "SR-adversarial", "ET", "PRM", "SR-5iter"])
+=======
+    parser.add_argument("--technique", required=True, choices=["SR", "SR-fewshot", "SR-multi-exemplar", "SR-prtype", "SR-adversarial", "ET", "PRM"])
+>>>>>>> 2c20d8b1 (fix(autor): add SR-adversarial technique, fix validate_router_prereqs observations->scores)
     parser.add_argument("--prs", required=True, help="Comma-separated PR numbers (e.g., 6265,6261,6245,6269)")
     parser.add_argument("--n", type=int, default=3, help="Number of runs per PR (default: 3)")
     parser.add_argument("--outdir", default="research-wiki/scores", help="Output directory for score JSONs")
