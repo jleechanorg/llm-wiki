@@ -1,0 +1,7 @@
+# SR-fewshot generation for PR #6429
+Timestamp: 2026-04-21T22:16:11.611586+00:00
+Technique: SR-fewshot
+PR: feat(loop): add repo-local level-up ZFC loop automation
+
+Raw response: 6558 chars
+Extracted code: 5563 chars

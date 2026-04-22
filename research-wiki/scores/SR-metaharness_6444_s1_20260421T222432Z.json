@@ -1,0 +1,18 @@
+{
+  "pr": 6444,
+  "technique": "SR-metaharness",
+  "naming": 85,
+  "error_handling": 65,
+  "type_safety": 80,
+  "architecture": 75,
+  "test_coverage": 10,
+  "documentation": 85,
+  "total": 66.75,
+  "breakdown": "The circuit breaker implementation shows strong technical design with excellent WHY-oriented comments explaining the rationale behind state transitions and exception semantics. Type safety is solid with TypedDict and dataclasses properly used, though state returns string literals rather than an Enum. Critical gap: no test coverage visible in the diff despite the behavioral complexity of the circuit breaker pattern. Code is also truncated/incomplete at the end.",
+  "reasoning": "Naming is descriptive and avoids generics; error handling uses typed exceptions but the code is cut off mid-context-manager; type safety is good with no 'any' leaks but state could use Enum; architecture separates concerns well within the module but this belongs in a shared utilities module rather than agent_prompts.py; test coverage is severely lacking\u2014no tests for the main behavioral changes; documentation is exemplary with 'Why:' explanations throughout. The missing test coverage and incomplete code execution significantly impact the score.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: could not open '/private/tmp/fork_clone/.git/objects/pack/tmp_pack_rbbkPz' for reading: No such file or directory\nfatal: fetch-pack: invalid index-pack output\n",
+  "run_session": "autor-SR-metaharness-20260421T222218Z",
+  "last_updated": "20260421T222432Z"
+}

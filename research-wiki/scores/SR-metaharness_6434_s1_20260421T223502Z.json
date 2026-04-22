@@ -1,0 +1,18 @@
+{
+  "pr": 6434,
+  "technique": "SR-metaharness",
+  "naming": 95,
+  "error_handling": 100,
+  "type_safety": 50,
+  "architecture": 100,
+  "test_coverage": 0,
+  "documentation": 90,
+  "total": 73.25,
+  "breakdown": "The rename from gemini_request to llm_request is executed cleanly with excellent naming and documentation\u2014each change includes 'REASON:' comments explaining provider-neutrality goals. However, this is purely a cosmetic refactor: type annotations remain as 'Any' instead of being updated to 'LLMRequest', and critically, no test files are shown, suggesting test coverage hasn't been addressed for this rename.",
+  "reasoning": "Naming and documentation are strong, with clear 'REASON:' comments. Error handling and architecture are unchanged\u2014no regressions introduced. Type safety is a notable gap: the field is still annotated as 'Any' with a comment suggesting 'LLMRequest', but no actual type update occurred. Most concerning: zero test coverage is included in the diff, which is a significant omission for a refactor that changes public-facing attribute names. A proper renaming PR should include updated tests to verify the changes.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nerror: unable to write file /private/tmp/fork_clone/.git/objects/pack/pack-0460d65386ba8d32b528ec0de918c8328289c9f7.pack: No such file or directory\nfatal: unable to r",
+  "run_session": "autor-SR-metaharness-20260421T223344Z",
+  "last_updated": "20260421T223502Z"
+}

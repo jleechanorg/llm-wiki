@@ -1,0 +1,18 @@
+{
+  "pr": 6443,
+  "technique": "SR-fewshot",
+  "naming": 88,
+  "error_handling": 65,
+  "type_safety": 72,
+  "architecture": 82,
+  "test_coverage": 0,
+  "documentation": 72,
+  "total": 64.2,
+  "breakdown": "The PR correctly extracts a named helper to reduce duplication and uses type hints appropriately, but the isinstance filter silently swallows non-numeric values rather than logging or raising a typed error, masking potential data quality issues. No tests were provided to verify the fix, and while the docstring is adequate, it could better explain why float filtering is necessary when input is typed as dict[str, int].",
+  "reasoning": "The refactoring demonstrates good instincts for DRY and naming conventions, but the defensive isinstance check is a code smell\u2014it suggests either trust issues with the type system or untyped data sources. Without tests, I cannot verify the fix actually resolves the crash scenario it was meant to address. The partial type annotation `list[dict[str, Any]]` in usage sites also leaks Any into what could be a strongly-typed domain object.",
+  "test_passed": 1,
+  "test_failed": 0,
+  "test_output": "workflow dispatch: 1\nworkflow conclusion: success\n | ",
+  "run_session": "autor-SR-fewshot-20260421T220926Z",
+  "last_updated": "20260421T221026Z"
+}

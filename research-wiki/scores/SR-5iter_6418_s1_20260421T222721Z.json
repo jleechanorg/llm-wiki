@@ -1,0 +1,18 @@
+{
+  "pr": 6418,
+  "technique": "SR-5iter",
+  "naming": 90,
+  "error_handling": 60,
+  "type_safety": 80,
+  "architecture": 70,
+  "test_coverage": 10,
+  "documentation": 75,
+  "total": 64.5,
+  "breakdown": "The naming is exemplary with semantic names like `ownership_drift`, `ALLOWED_MODEL_COMPUTE_PATHS`, and `ContractViolation` clearly describing intent. Type safety is solid with dataclasses and type hints throughout. However, the code is incomplete\u2014`check_grep_gates` is truncated mid-implementation, and critically, despite the PR title mentioning 'test', there is zero test code included in the diff. Error handling catches syntax/IO errors but lacks typed errors for custom enforcement failures.",
+  "reasoning": "Naming deserves high marks for avoiding generic names and using domain-specific terminology consistently. Type safety is good with proper dataclasses and generics. Architecture is coherent but the truncated method and single-file structure limit scalability. The major deduction comes from test coverage being 0 (PR title implies tests but none exist) and error handling missing typed/custom error types. Documentation is strong on public interfaces but several private methods lack docstrings.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: could not open '/private/tmp/fork_clone/.git/objects/pack/tmp_pack_EpM127' for reading: No such file or directory\nfatal: fetch-pack: invalid index-pack output\n",
+  "run_session": "autor-SR-5iter-20260421T222515Z",
+  "last_updated": "20260421T222721Z"
+}

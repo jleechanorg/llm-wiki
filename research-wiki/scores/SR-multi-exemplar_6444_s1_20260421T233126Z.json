@@ -1,0 +1,18 @@
+{
+  "pr": 6444,
+  "technique": "SR-multi-exemplar",
+  "naming": 65,
+  "error_handling": 25,
+  "type_safety": 35,
+  "architecture": 55,
+  "test_coverage": 0,
+  "documentation": 15,
+  "total": 34.25,
+  "breakdown": "The snippet shows basic naming conventions with SCHEMA_DOC_CACHE prefix but the 'already_attempted' return value violates the declared return type (dict[str, float] vs string value). Type safety is weak due to untyped collections and no TypedDict for cache state. No error handling, no tests, and minimal documentation beyond a partial comment. The thread-safety mechanism (lock) demonstrates architectural awareness but the global state pattern has anti-pattern concerns.",
+  "reasoning": "This diff is incomplete (ends with ... ellipsis) making full assessment impossible. The type annotation `dict[str, float]` contradicts the actual return `{'__cache__': 'already_attempted'}` which contains a string. No error handling visible, no tests provided, and only a single explanatory comment that doesn't clarify intent. The circuit breaker pattern appears partially implemented but the cache state representation lacks type safety.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | clone failed: fatal: destination path '/tmp/autor_test_clone' already exists and is not an empty directory.\n",
+  "run_session": "autor-SR-multi-exemplar-20260421T233037Z",
+  "last_updated": "20260421T233126Z"
+}

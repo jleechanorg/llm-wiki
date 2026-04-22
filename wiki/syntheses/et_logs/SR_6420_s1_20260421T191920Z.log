@@ -1,0 +1,7 @@
+# SR generation for PR #6420
+Timestamp: 2026-04-21T19:17:31.273067+00:00
+Technique: SR
+PR: [agento] fix: ZFC level-up schema prerequisites + validation hardening
+
+Raw response: 35296 chars
+Extracted code: 2704 chars

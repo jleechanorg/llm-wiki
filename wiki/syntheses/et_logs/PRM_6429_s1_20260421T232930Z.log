@@ -1,0 +1,7 @@
+# PRM generation for PR #6429
+Timestamp: 2026-04-21T23:28:00.121404+00:00
+Technique: PRM
+PR: feat(loop): add repo-local level-up ZFC loop automation
+
+Raw response: 31652 chars
+Extracted code: 10725 chars

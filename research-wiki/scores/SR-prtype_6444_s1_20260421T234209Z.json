@@ -1,0 +1,18 @@
+{
+  "pr": 6444,
+  "technique": "SR-prtype",
+  "naming": 85,
+  "error_handling": 70,
+  "type_safety": 75,
+  "architecture": 80,
+  "test_coverage": 0,
+  "documentation": 85,
+  "total": 66.25,
+  "breakdown": "The PR implements a solid thread-safe circuit breaker pattern with excellent naming and documentation (inline comments explain WHY the pattern prevents thundering herd). However, the diff is severely truncated mid-function, missing test coverage entirely and leaving critical code incomplete. The type safety is good overall but the dangling `builder_flags` stub and inconsistent imports suggest incomplete changes. Architecture is strong with proper separation of concerns, but the cut-off code prevents full evaluation.",
+  "reasoning": "Naming earns high marks for descriptive names like `failure_threshold` and `can_attempt()`. Error handling is mid-range because custom exceptions exist but the try-except blocks are missing due to truncation. Type safety is solid with proper enums, generics, and `TYPE_CHECKING`, though `builder_flags: ...` is a concerning stub. Architecture is clean with thread-safety via locks and state machine pattern. Test coverage is 0\u2014no tests visible. Documentation is excellent with detailed class/method docstrings and inline comments explaining the 'thundering herd' rationale. Total is dragged to ~60 primarily by missing test coverage.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-prtype-20260421T233926Z",
+  "last_updated": "20260421T234209Z"
+}

@@ -1,0 +1,18 @@
+{
+  "pr": 6409,
+  "technique": "SR-multi-exemplar",
+  "naming": 45,
+  "error_handling": 50,
+  "type_safety": 30,
+  "architecture": 55,
+  "test_coverage": 35,
+  "documentation": 50,
+  "total": 44.0,
+  "breakdown": "This test uses generic class names (ConcreteTest) and abbreviated variables (ctx), lacks type annotations on any function or variable, and dynamically creates args via type() instead of proper dataclasses. The test mocks internal implementation details (_check_signature_guard) rather than verifying observable behavior, making it fragile and tied to internal refactoring. No error handling present, and docstring explains what but not why this behavior matters.",
+  "reasoning": "Low scores reflect: (1) `type(\"Args\", ...)` instead of TypedDict/dataclass for type safety, (2) mocking _check_signature_guard instead of testing observable side effects, (3) no type annotations anywhere, (4) generic class naming and short variable names like 'ctx', (5) test will break if implementation details change even if behavior is preserved.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-multi-exemplar-20260421T233841Z",
+  "last_updated": "20260421T234014Z"
+}

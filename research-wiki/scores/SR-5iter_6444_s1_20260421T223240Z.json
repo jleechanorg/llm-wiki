@@ -1,0 +1,18 @@
+{
+  "pr": 6444,
+  "technique": "SR-5iter",
+  "naming": 95,
+  "error_handling": 90,
+  "type_safety": 92,
+  "architecture": 88,
+  "test_coverage": 0,
+  "documentation": 88,
+  "total": 77.05,
+  "breakdown": "Exception hierarchy is well-structured with clear inheritance and descriptive naming; type safety is strong with proper Optional hints; however, no test coverage is visible in this diff for the exception classes, and documentation for child exceptions is minimal compared to the thorough docstring on SchemaLoadError.",
+  "reasoning": "The exception module shows excellent code quality with semantic naming (SchemaLoadError, CircuitBreakerOpenError), proper exception chaining via `cause`, and informative __str__ formatting. Type hints are present throughout. However, as an exceptions-only module, test coverage cannot be assessed from this diff, and the child exceptions lack the detailed docstrings that SchemaLoadError provides explaining the circuit breaker pattern rationale.",
+  "test_passed": 1,
+  "test_failed": 0,
+  "test_output": "workflow dispatch: 1\nworkflow conclusion: success\n | ",
+  "run_session": "autor-SR-5iter-20260421T223021Z",
+  "last_updated": "20260421T223240Z"
+}

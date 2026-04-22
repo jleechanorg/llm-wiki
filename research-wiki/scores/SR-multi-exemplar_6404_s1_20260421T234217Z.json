@@ -1,0 +1,18 @@
+{
+  "pr": 6404,
+  "technique": "SR-multi-exemplar",
+  "naming": 85,
+  "error_handling": 60,
+  "type_safety": 55,
+  "architecture": 75,
+  "test_coverage": 0,
+  "documentation": 90,
+  "total": 59.75,
+  "breakdown": "The function demonstrates clear naming conventions and appropriate documentation explaining its purpose, but suffers from using `Any` types throughout which undermines type safety, and returns empty dict for all error cases effectively swallowing validation failures without giving callers visibility into what went wrong. Test coverage cannot be assessed from this snippet.",
+  "reasoning": "Function naming is clear and descriptive (_validate_level_up_signal), and the docstring effectively explains the WHY (validating without computing game semantics). However, the parameter type `Any` and return type `dict[str, Any]` lack type safety\u2014could benefit from TypedDict. Error handling uses warnings appropriately but returns empty dict uniformly, making it impossible for callers to distinguish between valid empty signals and rejected invalid ones. No tests included in this diff.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-multi-exemplar-20260421T234024Z",
+  "last_updated": "20260421T234217Z"
+}

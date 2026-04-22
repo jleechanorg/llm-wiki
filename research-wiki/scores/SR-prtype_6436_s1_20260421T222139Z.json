@@ -1,0 +1,18 @@
+{
+  "pr": 6436,
+  "technique": "SR-prtype",
+  "naming": 0,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 0,
+  "test_coverage": 0,
+  "documentation": 60,
+  "total": 6.0,
+  "breakdown": "Evidence-only PR with no application code to evaluate; documentation dimension receives partial credit for clear explanation of purpose and recommended review actions, while all code-focused dimensions score zero due to absence of implementation.",
+  "reasoning": "This PR explicitly contains no application code changes\u2014only reproduction artifacts for bug verification. By design, it cannot be scored on naming, error handling, type safety, architecture, or test coverage since those dimensions require actual code. The documentation explaining the PR's purpose and recommended actions earns partial credit, but the weighted total reflects that evidence-only PRs cannot satisfy standard code quality criteria.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: fatal: destination path '/tmp/fork_clone' already exists and is not an empty directory.\n",
+  "run_session": "autor-SR-prtype-20260421T222053Z",
+  "last_updated": "20260421T222139Z"
+}

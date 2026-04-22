@@ -1,0 +1,7 @@
+# SR-5iter generation for PR #6434
+Timestamp: 2026-04-21T22:17:03.412176+00:00
+Technique: SR-5iter
+PR: [agento] refactor: rename prepared.gemini_request → prepared.llm_request
+
+Raw response: 15473 chars
+Extracted code: 434 chars

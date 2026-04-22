@@ -1,0 +1,18 @@
+{
+  "pr": 6434,
+  "technique": "SR-multi-exemplar",
+  "naming": 95,
+  "error_handling": 90,
+  "type_safety": 85,
+  "architecture": 95,
+  "test_coverage": 50,
+  "documentation": 95,
+  "total": 85.25,
+  "breakdown": "The rename from gemini_request to llm_request is well-executed with provider-neutral naming, proper deprecation warning implementation, and clear migration documentation; however, no tests are visible in the diff and the deprecated property uses Any return type. The weighted total reflects strong marks in naming, architecture, and documentation despite test coverage being unverifiable from this diff.",
+  "reasoning": "Naming is excellent (llm_request is descriptive and provider-agnostic). Error handling properly uses warnings.warn with correct stacklevel. Type safety is slightly reduced by Any return type on deprecated alias. Architecture shows good backward-compatibility planning. Test coverage cannot be assessed from the diff. Documentation clearly explains the rename and migration path.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-multi-exemplar-20260421T233305Z",
+  "last_updated": "20260421T233410Z"
+}

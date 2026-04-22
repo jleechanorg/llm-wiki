@@ -1,0 +1,7 @@
+# SR-prtype generation for PR #6434
+Timestamp: 2026-04-21T23:44:17.473760+00:00
+Technique: SR-prtype
+PR: [antig] refactor: rename prepared.gemini_request → prepared.llm_request
+
+Raw response: 1537 chars
+Extracted code: 400 chars

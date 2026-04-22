@@ -1,12 +1,12 @@
-# autor-n15-loop — Phase 3 n=15 per technique loop
+# autor-n15-loop — Continuous autor PR evaluation loop
 
 **Loop interval**: 30m | **Max duration**: 12h (24 iterations)
 
 ## Purpose
-Drive SelfRefine/ET/PRM autor PR generation until each technique reaches n=15 samples in the Thompson bandit.
+Generate real draft PRs on worldarchitect.ai using 9 techniques (SelfRefine, ET, PRM, SR-5iter, SR-fewshot, SR-adversarial, SR-metaharness, SR-prtype, SR-multi-exemplar) and score them against the 6-dim rubric. All 9 techniques have n≥15 in bandit — continuous evaluation mode.
 
 ## Entry conditions (all must be true to continue)
-- Branch `chore/auto-research-phase3` is pushed and not detached
+- Branch `sr-matched-corpus-0417` is pushed and not detached
 - No merge conflicts on the branch
 - CI is not stuck (>30min queue with no progress)
 
@@ -16,7 +16,7 @@ Drive SelfRefine/ET/PRM autor PR generation until each technique reaches n=15 sa
 ```
 python technique_bandit/technique_selector.py --rank
 ```
-If all three techniques have n≥15 → STOP (goal reached).
+Print: `[iter N] SelfRefine n=X | ET n=Y | PRM n=Z | elapsed=Thh:mm`
 
 ### 2. Thompson-suggest next technique
 ```
@@ -24,49 +24,52 @@ python technique_bandit/technique_selector.py --suggest <PR#>
 ```
 Use the suggested technique for the next run.
 
-### 3. Generate autor PR for under-sampled papers
-cd to ~/llm-wiki-autor-phase3 (NOT the main workspace).
-
-For the suggested technique, pick a paper from the autor benchmark that has the fewest SelfRefine/ET/PRM samples. Run the autor pipeline:
+### 3. Pick an open PR on worldarchitect.ai
+Pick the open PR with fewest existing samples across all techniques:
 ```
-# Example for SelfRefine
+gh pr list --repo jleechanorg/worldarchitect.ai --state open --json number,title --jq '.[] | "\(.number) \(.title)"' | head -30
+```
+
+### 4. Generate autor PR using run_autor_pr.py
+Local clone: `~/worldarchitect-ai-autor` (private repo, do NOT fork — forking is disabled)
+```
 cd ~/llm-wiki-autor-phase3
-autor run --technique SelfRefine --paper <paper_id> --pr-number <next_pr>
+python scripts/run_autor_pr.py --technique <TECH> --pr-number <PR>
 ```
+Where `<TECH>` is any of: SelfRefine, ET, PRM, SR-5iter, SR-fewshot, SR-adversarial, SR-metaharness, SR-prtype, SR-multi-exemplar. This script:
+- Fetches diff of the target PR
+- Generates fix using MiniMax-M2.7
+- Creates a draft PR labeled `autor`
+- Scores the generated diff against the 6-dim rubric
+- Writes score JSON to `research-wiki/scores/`
+- Updates `technique_bandit/bandit_state.json`
+- **Closes the draft PR** (never merges)
 
-If the autor CLI is not available, use the manual workflow:
-- Fork/clone the target repo
-- Apply the technique (SelfRefine prompt, ET extended thinking, or PRM reasoning)
-- Create a draft PR against the original
+### 5. Verify score JSON was written
+Check `research-wiki/scores/<tech>_<pr>_s1_<ts>.json` exists before continuing.
 
-### 4. Score the new PR
-Use the 6-dim rubric on the new PR diff:
+### 6. Commit + push evidence
 ```
-python layer/score_pr.py <pr_number>
-```
-
-### 5. Update bandit
-```
-python technique_bandit/technique_selector.py --update --PR <pr> --score <score> --technique <tech>
-```
-
-### 6. Commit + push
-```
-git add -A && git commit -m "autor: <tech> n=$(n+1) score=<score>" && git push
+cd ~/llm-wiki-autor-phase3
+git add -A && git commit -m "autor: <tech> on PR#<n> score=<score>" && git push
 ```
 
 ### 7. Check time budget
 If elapsed > 12h since first iteration → STOP.
 
 ## Stop conditions
-- All three techniques reach n≥15 → SUCCESS
 - 12 hours elapsed → PARTIAL (note final n for each technique)
 - Error on 3 consecutive iterations → FAIL (notify)
 
-## Priority order when choosing papers
-1. Papers with NO samples yet for any technique
-2. Papers with samples for only 1-2 techniques (fill gaps)
-3. Papers with lowest combined score across techniques
+## Output
+After each iteration, print:
+```
+[iter N] SelfRefine n=X | ET n=Y | PRM n=Z | elapsed=Thh:mm
+```
+
+## Key files
+- `scripts/run_autor_pr.py` — the autor PR workflow script
+- `scripts/autor_pr.py` — helper module (open_draft_autor_pr, close_after_score)
 
 ## Output
 After each iteration, print:

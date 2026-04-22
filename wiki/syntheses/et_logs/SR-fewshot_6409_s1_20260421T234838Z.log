@@ -1,0 +1,7 @@
+# SR-fewshot generation for PR #6409
+Timestamp: 2026-04-21T23:48:06.031356+00:00
+Technique: SR-fewshot
+PR: Sync main branch commits (integrate.sh)
+
+Raw response: 2445 chars
+Extracted code: 492 chars

@@ -1,0 +1,7 @@
+# SR-adversarial generation for PR #6444
+Timestamp: 2026-04-21T23:24:26.661721+00:00
+Technique: SR-adversarial
+PR: [antig] feat(prompts): thread-safe schema cache circuit breaker
+
+Raw response: 14101 chars
+Extracted code: 376 chars

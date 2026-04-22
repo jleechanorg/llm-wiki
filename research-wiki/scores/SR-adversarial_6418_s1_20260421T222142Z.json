@@ -1,0 +1,18 @@
+{
+  "pr": 6418,
+  "technique": "SR-adversarial",
+  "naming": 90,
+  "error_handling": 70,
+  "type_safety": 85,
+  "architecture": 82,
+  "test_coverage": 15,
+  "documentation": 85,
+  "total": 71.65,
+  "breakdown": "Naming is excellent with clear semantic names (ZFCViolation, UI_GAME_LOGIC_PATTERNS, get_ui_directories). Error handling is adequate but silently skips file read errors rather than logging them. Type safety is strong with proper generics and dataclasses. Architecture is coherent with clear separation of concerns. Test coverage is critically weak\u2014no unit tests exist for the enforcement logic. Documentation is solid with descriptive docstrings and comments explaining architectural intent.",
+  "reasoning": "The PR implements a contract enforcement system for ZFC layer boundaries but appears to be incomplete (truncated at check_ast_ownership) and lacks tests. Error handling catches exceptions but doesn't surface them, which could hide important issues during enforcement runs. The type annotations are consistent and correct. Primary improvement areas: add unit tests for pattern matching and violation detection, complete the AST analysis function, and consider surfacing file read errors rather than silently skipping them.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: fatal: destination path '/tmp/fork_clone' already exists and is not an empty directory.\n",
+  "run_session": "autor-SR-adversarial-20260421T221917Z",
+  "last_updated": "20260421T222142Z"
+}

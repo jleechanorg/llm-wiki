@@ -1,0 +1,18 @@
+{
+  "pr": 6437,
+  "technique": "SR-multi-exemplar",
+  "naming": 85,
+  "error_handling": 70,
+  "type_safety": 50,
+  "architecture": 60,
+  "test_coverage": 80,
+  "documentation": 85,
+  "total": 69.25,
+  "breakdown": "This is a documentation/evidence file (JSON test results), not production code, so some dimensions have limited applicability. Field naming is clear and self-documenting, test failures are properly captured with error details, and the structure appropriately represents the smoke test outcomes. However, JSON inherently lacks type safety and architecture patterns to evaluate.",
+  "reasoning": "As a data file rather than code, naming and documentation scores are high due to clear field names, but type safety and architecture scores are limited by the JSON format. Error handling shows appropriately as the file documents a test failure with error details. Test coverage is well-documented with 4 test cases showing 3 passed, 1 failed with timeout.",
+  "test_passed": 1,
+  "test_failed": 0,
+  "test_output": "workflow dispatch: 1\nworkflow conclusion: success\n | ",
+  "run_session": "autor-SR-multi-exemplar-20260421T221917Z",
+  "last_updated": "20260421T222137Z"
+}

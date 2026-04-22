@@ -1,0 +1,18 @@
+{
+  "pr": 6409,
+  "technique": "SR-adversarial",
+  "naming": 90,
+  "error_handling": 75,
+  "type_safety": 45,
+  "architecture": 80,
+  "test_coverage": 40,
+  "documentation": 85,
+  "total": 68.0,
+  "breakdown": "Method uses clear, descriptive names for env vars and attributes. Docstring explains priority logic well. Lacks type annotations on parameters and return type, and no test code is provided to verify the change. Error handling is minimal but acceptable for this utility function.",
+  "reasoning": "The code is clean and readable with good naming conventions. Documentation is strong with a priority-based explanation. However, type safety is lacking\u2014no annotations for the method signature or variables like env_value. The snippet provides no test coverage data to evaluate.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-adversarial-20260421T233535Z",
+  "last_updated": "20260421T233615Z"
+}

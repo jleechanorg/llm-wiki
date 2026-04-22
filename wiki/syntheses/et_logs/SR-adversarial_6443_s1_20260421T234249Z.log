@@ -1,0 +1,7 @@
+# SR-adversarial generation for PR #6443
+Timestamp: 2026-04-21T23:41:35.079897+00:00
+Technique: SR-adversarial
+PR: [antig] fix(rewards): add missing _total_character_level helper for multiclass ASI
+
+Raw response: 8134 chars
+Extracted code: 1284 chars

@@ -1,0 +1,7 @@
+# SR-multi-exemplar generation for PR #6438
+Timestamp: 2026-04-21T22:18:24.616148+00:00
+Technique: SR-multi-exemplar
+PR: [antig] chore: explicitly mirror git-header instruction in GEMINI.md
+
+Raw response: 2171 chars
+Extracted code: 364 chars

@@ -1,0 +1,18 @@
+{
+  "pr": 6420,
+  "technique": "ET",
+  "naming": 80,
+  "error_handling": 85,
+  "type_safety": 75,
+  "architecture": 85,
+  "test_coverage": 92,
+  "documentation": 90,
+  "total": 83.8,
+  "breakdown": "Well-structured test suite with comprehensive coverage of all PR behaviors including edge cases (ASI schedule, fallback paths). Type hints are present but helper functions use implicit dict types rather than TypedDict definitions. Generic helper names (_gs, _pc) are acceptable for test scaffolding but could be more descriptive.",
+  "reasoning": "Naming scores high due to descriptive test classes and docstrings; minor deduction for terse helper names. Error handling is solid with proper exception chaining. Type safety lacks TypedDict for data shapes but avoids `any`. Architecture is clean with good separation. Test coverage is exemplary\u2014uses `subTest` for parameterized cases, covers all four behavioral combinations for rewards box. Documentation is thorough with no commented-out code.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-ET-20260421T232909Z",
+  "last_updated": "20260421T233008Z"
+}

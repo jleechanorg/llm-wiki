@@ -1,0 +1,7 @@
+# SR-fewshot generation for PR #6443
+Timestamp: 2026-04-21T22:09:28.102931+00:00
+Technique: SR-fewshot
+PR: [antig] fix(rewards): add missing _total_character_level helper for multiclass ASI
+
+Raw response: 2022 chars
+Extracted code: 1494 chars

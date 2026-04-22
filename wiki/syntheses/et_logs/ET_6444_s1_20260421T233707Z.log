@@ -1,0 +1,7 @@
+# ET generation for PR #6444
+Timestamp: 2026-04-21T23:33:51.146796+00:00
+Technique: ET
+PR: [antig] feat(prompts): thread-safe schema cache circuit breaker
+
+Raw response: 13369 chars
+Extracted code: 1223 chars

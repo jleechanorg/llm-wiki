@@ -1,0 +1,18 @@
+{
+  "pr": 6432,
+  "technique": "SR-multi-exemplar",
+  "naming": 0,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 0,
+  "test_coverage": 0,
+  "documentation": 0,
+  "total": 0.0,
+  "breakdown": "No code was provided for review\u2014only metadata indicating an artifact was generated. All dimensions receive 0 as there is nothing to evaluate.",
+  "reasoning": "The diff contains no actual code changes, function definitions, variable names, type annotations, error handling logic, architecture patterns, tests, or documentation. Scoring requires concrete code to assess.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: Unable to create '/private/tmp/fork_clone/.git/shallow.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened b",
+  "run_session": "autor-SR-multi-exemplar-20260421T222521Z",
+  "last_updated": "20260421T222625Z"
+}

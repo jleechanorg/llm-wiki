@@ -1,0 +1,15 @@
+{
+  "pr": 6420,
+  "technique": "SR",
+  "naming": 88,
+  "error_handling": 72,
+  "type_safety": 85,
+  "architecture": 92,
+  "test_coverage": 30,
+  "documentation": 90,
+  "total": 76.5,
+  "breakdown": "The code demonstrates strong architectural clarity with explicit ownership boundaries and clean module layering; naming is descriptive with no generic placeholders. Type safety is solid using frozen dataclasses and proper generics. Error handling is adequate but the catch block in `to_sse` merely logs and replaces with a generic error, which could mask serialization issues. Documentation is excellent with 'WHY' comments explaining design decisions and single-owner patterns. However, no test files were included in the diff, making test coverage assessment impossible\u2014this is a significant gap for a PR targeting 'validation hardening'.",
+  "reasoning": "Scoring penalizes error handling (shallow exception handling in serialization), limits test coverage to 30 due to complete absence of test files in diff, and notes architecture/documentation are strong with explicit ownership contracts. Total weighted score is 74.3.",
+  "run_session": "autor-SR-20260421T185756Z",
+  "last_updated": "20260421T185959Z"
+}

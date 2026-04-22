@@ -1,0 +1,7 @@
+# SR-metaharness generation for PR #6429
+Timestamp: 2026-04-21T22:13:48.389316+00:00
+Technique: SR-metaharness
+PR: feat(loop): add repo-local level-up ZFC loop automation
+
+Raw response: 29934 chars
+Extracted code: 15042 chars

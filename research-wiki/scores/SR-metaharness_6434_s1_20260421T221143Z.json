@@ -1,0 +1,18 @@
+{
+  "pr": 6434,
+  "technique": "SR-metaharness",
+  "naming": 100,
+  "error_handling": 50,
+  "type_safety": 100,
+  "architecture": 85,
+  "test_coverage": 0,
+  "documentation": 90,
+  "total": 71.0,
+  "breakdown": "This is a textbook rename refactoring with excellent naming rationale\u2014the change from provider-specific `gemini_request` to provider-neutral `llm_request` accurately reflects the type's capabilities. Type safety is maintained throughout, and documentation explains WHY each change is made. However, no test coverage changes are visible, and error handling is irrelevant for this mechanical rename. The architecture remains unchanged as this is internal field/attribute renaming only.",
+  "reasoning": "The actual code changes (12 attribute updates) are well-identified and documented with clear before/after mapping. Documentation gets high marks for explaining intent, but test coverage is completely absent from the diff, which is a significant gap for any refactoring\u2014even a simple rename. Error handling receives a neutral score since this change type doesn't involve error handling logic. The diff format is prose-based rather than showing actual code, making it harder to verify completeness of the 12 attribute updates.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | fork clone failed: Cloning into '/tmp/fork_clone'...\nfatal: could not open '/private/tmp/fork_clone/.git/objects/pack/tmp_pack_RqlQCH' for reading: No such file or directory\nfatal: fetch-pack: invalid index-pack output\n",
+  "run_session": "autor-SR-metaharness-20260421T220955Z",
+  "last_updated": "20260421T221143Z"
+}

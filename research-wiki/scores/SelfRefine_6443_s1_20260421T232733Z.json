@@ -1,0 +1,18 @@
+{
+  "pr": 6443,
+  "technique": "SelfRefine",
+  "naming": 92,
+  "error_handling": 68,
+  "type_safety": 82,
+  "architecture": 88,
+  "test_coverage": 30,
+  "documentation": 88,
+  "total": 74.7,
+  "breakdown": "The helper functions are well-named and architecturally sound with clear single responsibilities, and docstrings properly explain behavior; however, the diff contains no tests for the new logic, error handling is defensive but silently returns 0 for malformed data rather than raising, and while type hints are present they could benefit from TypedDict definitions for game_state shapes.",
+  "reasoning": "Naming is strong with descriptive function/variable names; error handling uses .get() safely but lacks explicit validation and could mask bugs; type safety has solid generics but game_state dict structure is untyped; architecture shows good separation and single responsibility; test coverage is the weakest area\u2014no tests appear in the diff at all; documentation including docstrings and inline comments explaining multi-class handling is thorough.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SelfRefine-20260421T232643Z",
+  "last_updated": "20260421T232733Z"
+}

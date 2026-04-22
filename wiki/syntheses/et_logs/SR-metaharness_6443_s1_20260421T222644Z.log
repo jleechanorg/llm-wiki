@@ -1,0 +1,7 @@
+# SR-metaharness generation for PR #6443
+Timestamp: 2026-04-21T22:24:46.762573+00:00
+Technique: SR-metaharness
+PR: [antig] fix(rewards): add missing _total_character_level helper for multiclass ASI
+
+Raw response: 22867 chars
+Extracted code: 21882 chars

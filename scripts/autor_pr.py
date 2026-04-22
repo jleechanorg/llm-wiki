@@ -17,7 +17,11 @@ from pathlib import Path
 from typing import Iterable, Sequence
 
 DEFAULT_REPO = "jleechanorg/worldarchitect.ai"
-ALLOWED_TECHNIQUES = frozenset({"SR", "ET", "PRM", "SelfRefine", "ExtendedThinking"})
+ALLOWED_TECHNIQUES = frozenset({
+    "SR", "ET", "PRM", "SelfRefine", "ExtendedThinking",
+    "SR-5iter", "SR-fewshot", "SR-adversarial",
+    "SR-metaharness", "SR-prtype", "SR-multi-exemplar",
+})
 AUTOR_LABEL = "autor"
 
 

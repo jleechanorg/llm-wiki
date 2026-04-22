@@ -1,0 +1,18 @@
+{
+  "pr": 6409,
+  "technique": "SR-fewshot",
+  "naming": 70,
+  "error_handling": 25,
+  "type_safety": 30,
+  "architecture": 55,
+  "test_coverage": 35,
+  "documentation": 65,
+  "total": 44.25,
+  "breakdown": "This test creates a test instance and sets args but lacks assertions to verify the guard actually runs\u2014the core behavior under test. Type safety is weak with `type()` dynamic construction instead of proper TypedDict or dataclass. Error handling is absent with no validation of outcomes. Naming is clear but `ConcreteTest` is generic.",
+  "reasoning": "The diff shows incomplete test logic: it sets up a scenario but never asserts that the signature guard executes as expected. Without assertions or validation of side effects, the test coverage is minimal. The `type('Args', ...)` workaround avoids proper typing. Documentation exists but test execution logic is missing.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-fewshot-20260421T234804Z",
+  "last_updated": "20260421T234838Z"
+}

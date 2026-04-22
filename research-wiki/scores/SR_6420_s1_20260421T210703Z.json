@@ -1,0 +1,18 @@
+{
+  "pr": 6420,
+  "technique": "SR",
+  "naming": 85,
+  "error_handling": 50,
+  "type_safety": 50,
+  "architecture": 50,
+  "test_coverage": 0,
+  "documentation": 0,
+  "total": 42.75,
+  "breakdown": "The PR contains only a JSONL data file (issue tracking entries) with no code implementation to evaluate against coding standards. Field naming is appropriately descriptive. No executable code, error handling, type annotations, or tests are present to assess.",
+  "reasoning": "This diff is purely a data file (.beads/issues.jsonl) containing issue tracking entries, not code logic. The JSON structure is valid and field names are descriptive, but there's nothing to evaluate for error handling, type safety, architecture patterns, test coverage, or documentation. Scores reflect the absence of code artifacts rather than quality failures.",
+  "test_passed": 1,
+  "test_failed": 0,
+  "test_output": "workflow dispatch: 1\nworkflow conclusion: success\n | ",
+  "run_session": "autor-SR-20260421T210413Z",
+  "last_updated": "20260421T210703Z"
+}

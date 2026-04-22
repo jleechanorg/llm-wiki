@@ -1,0 +1,18 @@
+{
+  "pr": 6420,
+  "technique": "SR-fewshot",
+  "naming": 78,
+  "error_handling": 70,
+  "type_safety": 62,
+  "architecture": 82,
+  "test_coverage": 80,
+  "documentation": 88,
+  "total": 75.3,
+  "breakdown": "Test file demonstrates strong documentation and architecture with clear section headers and well-structured helper functions. Naming is decent but relies on abbreviations (_gs, _pc). Type safety is minimal with no type hints or TypedDict definitions. Test coverage is thorough for the features tested (state flags, ASI schedules for 4 classes, planning block logic).",
+  "reasoning": "The code shows good testing intent with comprehensive coverage of D&D 5e ASI schedules across multiple classes and careful boundary testing for state flag helpers. However, it lacks type annotations that would strengthen safety, and some variable names like 'resu' (appears truncated) and abbreviations reduce clarity. Error handling isn't applicable to test code. The structure is solid but the implementation is incomplete (cuts off mid-test method).",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-fewshot-20260421T233547Z",
+  "last_updated": "20260421T233730Z"
+}

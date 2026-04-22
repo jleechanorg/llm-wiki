@@ -1,0 +1,18 @@
+{
+  "pr": 6420,
+  "technique": "SR-fewshot",
+  "naming": 55,
+  "error_handling": 85,
+  "type_safety": 70,
+  "architecture": 85,
+  "test_coverage": 35,
+  "documentation": 85,
+  "total": 70.0,
+  "breakdown": "Helper functions use `_pr6420_*` naming which embeds PR references rather than semantic purpose, weakening maintainability; exception handling is exemplary with wrapped fallbacks and detailed logging; type annotations are present but rely on `dict[str, Any]` for state structures; architectural boundaries are clearly defined in module docstring with explicit 'must not own' constraints; no actual test assertions visible in diff despite helper constructors existing; docstrings are comprehensive with examples and rationale explanations throughout.",
+  "reasoning": "The error handling pattern (`_safe_build_early_metadata`) demonstrates production-quality defensive coding with proper exception catching, context logging, and graceful degradation\u2014likely the strongest dimension. The `_pr6420_*` helper naming is the main weakness\u2014test utilities should describe their purpose (e.g., `_build_test_game_state`) rather than reference internal PR numbers. Type safety scores lower because game state dicts use untyped `Any` values rather than TypedDict or dataclass structures. No visible test assertions or test file content limits test coverage score.",
+  "test_passed": -1,
+  "test_failed": -1,
+  "test_output": " | push failed: fatal: 'github' does not appear to be a git repository\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n",
+  "run_session": "autor-SR-fewshot-20260421T234647Z",
+  "last_updated": "20260421T234751Z"
+}
