@@ -1,0 +1,9 @@
+# SR-fewshot Generation for PR #6277
+Timestamp: 2026-04-18T18:40:46.814197+00:00
+Technique: SR-fewshot
+
+## PR Context
+Title: feat(mvp_site): RewardsBox TypedDict + validate_rewards_box() schema enforcement
+
+## Generation Response (5085 chars)
+Extracted code: 4062 chars

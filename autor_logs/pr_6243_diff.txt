@@ -1,0 +1,113 @@
+diff --git a/mvp_site/game_state.py b/mvp_site/game_state.py
+index 89eb69a597..190306bc88 100644
+--- a/mvp_site/game_state.py
++++ b/mvp_site/game_state.py
+@@ -199,26 +199,34 @@ def coerce_int(value: Any, default: int | None = 0) -> int | None:
+ def _is_state_flag_true(value: Any) -> bool:
+     """Canonical check: value is truthy state flag.
+ 
+-    Strict semantics — only ``True`` and case-insensitive ``"true"`` count.
+-    Numeric ``1``, ``"1"``, ``"yes"`` intentionally rejected so that
+-    Firestore int fields and free-text strings are never misread as boolean.
++    Accepts ``True``, case-insensitive ``"true"``, ``1``, and ``"1"``.
++    LLM-generated state updates commonly use int ``1`` or string ``"1"``
++    for boolean fields like ``level_up_in_progress``.  Rejecting these
++    causes silent level-up stalls in production.
++
++    Free-text strings like ``"yes"`` are still intentionally rejected.
+     """
+     if value is True:
+         return True
++    if isinstance(value, int) and not isinstance(value, bool) and value == 1:
++        return True
+     if isinstance(value, str):
+-        return value.strip().lower() == "true"
++        return value.strip().lower() in {"true", "1"}
+     return False
+ 
+ 
+ def _is_state_flag_false(value: Any) -> bool:
+     """Canonical check: value is explicitly-false state flag.
+ 
+-    Strict semantics — only ``False`` and case-insensitive ``"false"`` count.
++    Accepts ``False``, case-insensitive ``"false"``, ``0``, and ``"0"``.
++    Mirrors the widened acceptance in :func:`_is_state_flag_true`.
+     """
+     if value is False:
+         return True
++    if isinstance(value, int) and not isinstance(value, bool) and value == 0:
++        return True
+     if isinstance(value, str):
+-        return value.strip().lower() == "false"
++        return value.strip().lower() in {"false", "0"}
+     return False
+ 
+ 
+diff --git a/mvp_site/tests/test_game_state.py b/mvp_site/tests/test_game_state.py
+index 5dc11965a0..0d2c5e52de 100644
+--- a/mvp_site/tests/test_game_state.py
++++ b/mvp_site/tests/test_game_state.py
+@@ -3355,5 +3355,63 @@ def test_living_world_turn0_with_valid_last_turn(self):
+         assert gs.last_living_world_turn == 0
+ 
+ 
++class StateFlagSemanticsTest(unittest.TestCase):
++    """Tests for _is_state_flag_true and _is_state_flag_false.
++
++    These functions gate level-up flow.  LLM-generated state updates may set
++    level_up_in_progress as int(1), "1", True, or "true".  All must be
++    accepted to prevent silent level-up stalls.
++    """
++
++    def test_true_accepted_values(self):
++        from mvp_site.game_state import _is_state_flag_true
++
++        for value in (True, 1, "true", "True", "TRUE", "1", " true ", " 1 "):
++            with self.subTest(value=value):
++                self.assertTrue(
++                    _is_state_flag_true(value),
++                    f"_is_state_flag_true({value!r}) should be True",
++                )
++
++    def test_true_rejected_values(self):
++        from mvp_site.game_state import _is_state_flag_true
++
++        for value in (False, 0, None, "", "yes", "false", "0", 2, "2", [], {}):
++            with self.subTest(value=value):
++                self.assertFalse(
++                    _is_state_flag_true(value),
++                    f"_is_state_flag_true({value!r}) should be False",
++                )
++
++    def test_false_accepted_values(self):
++        from mvp_site.game_state import _is_state_flag_false
++
++        for value in (False, 0, "false", "False", "FALSE", "0", " false ", " 0 "):
++            with self.subTest(value=value):
++                self.assertTrue(
++                    _is_state_flag_false(value),
++                    f"_is_state_flag_false({value!r}) should be True",
++                )
++
++    def test_false_rejected_values(self):
++        from mvp_site.game_state import _is_state_flag_false
++
++        for value in (True, 1, None, "", "no", "true", "1", 2, "2", [], {}):
++            with self.subTest(value=value):
++                self.assertFalse(
++                    _is_state_flag_false(value),
++                    f"_is_state_flag_false({value!r}) should be False",
++                )
++
++    def test_bool_subclass_of_int_not_confused(self):
++        """Ensure bool True/False are handled by the bool branch, not the int branch."""
++        from mvp_site.game_state import _is_state_flag_true, _is_state_flag_false
++
++        # True is int(1) in Python but should match the bool branch
++        self.assertTrue(_is_state_flag_true(True))
++        # False is int(0) in Python but should match the bool branch
++        self.assertTrue(_is_state_flag_false(False))
++
++
+ if __name__ == "__main__":
+     unittest.main()

@@ -1,0 +1,34 @@
+TESTFILE: mvp_site/tests/test_explicit_cache_enabled.py
+START: 2026-04-15 03:30:18
+2026-04-15 03:30:19,537 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:30:19,841 - root - INFO - 📦 EXPLICIT_CACHE: campaign=test-campaign-123, entries=1
+.2026-04-15 03:30:19,841 - root - INFO - 📦 EXPLICIT_CACHE: campaign=test-campaign-123, entries=1
+.2026-04-15 03:30:19,842 - root - INFO - 📦 CACHE_BUILD: campaign=test-campaign-123, total_entries=1, caching=1, previously_cached=0, threshold=3
+2026-04-15 03:30:19,842 - root - INFO - 📦 CACHE_CODE_EXECUTION: Adding code_execution tool to cache for model=gemini-3-flash-preview
+2026-04-15 03:30:19,842 - root - WARNING - ⚠️ 🚨 CACHE_CREATE_FAILED: campaign=test-campaign-123, error='InvalidArgument: cache failed'. Falling back to non-cached generation.
+.2026-04-15 03:30:19,843 - root - INFO - 📦 CACHE_REUSE: campaign=test-campaign-123, cache=caches/existing-123, entries=1, cached=1
+2026-04-15 03:30:19,843 - root - INFO - Calling LLM API: 430 characters (~107 tokens)
+2026-04-15 03:30:19,843 - root - INFO - 🔍 MODEL_INFO: Using provider 'gemini', model 'gemini-3-flash-preview'
+2026-04-15 03:30:19,843 - root - INFO - Calling LLM provider/model: gemini/gemini-3-flash-preview
+2026-04-15 03:30:19,843 - root - INFO - 🔍 CALL_LLM_API_DISPATCH: provider_name=gemini, model_name=gemini-3-flash-preview, temperature=0.9, is_gemini=True, is_cerebras=False, is_openrouter=False
+2026-04-15 03:30:19,843 - root - INFO - 🔍 CALL_LLM_API_GEMINI: code_execution strategy for gemini-3-flash-preview
+2026-04-15 03:30:19,843 - root - INFO - Gemini code_execution: Single JSON call (no tool_requests Phase 2)
+2026-04-15 03:30:19,843 - root - INFO - PROVABLY_FAIR: commitment=b166df49b61566cc56bb7cf7fcf507d5504f09e95e8f8643a5c5f5165f1e0621
+2026-04-15 03:30:19,843 - root - INFO - TESTING_AUTH_BYPASS active - returning Gemini stub response
+2026-04-15 03:30:19,843 - root - INFO - No tool_requests or hybrid tools in code_execution response
+2026-04-15 03:30:19,843 - root - WARNING - ⚠️ 🔍 GEMINI_RESPONSE_META: model=gemini-3-flash-preview | NO_CANDIDATES | prompt_feedback=None
+.2026-04-15 03:30:19,844 - root - INFO - 📦 CACHE_REUSE: campaign=test-campaign-123, cache=caches/existing-789, entries=1, cached=1
+2026-04-15 03:30:19,844 - root - WARNING - ⚠️ 🚨 EXPLICIT_CACHE_FORCED_MISS: campaign=test-campaign-123, cache_name=caches/existing-789 (test hook enabled)
+2026-04-15 03:30:19,844 - root - WARNING - ⚠️ 🚨 EXPLICIT_CACHE_RETRY_FORCED_MISS: campaign=test-campaign-123, cache_name=caches/existing-789. Retrying without cache for test validation.
+.2026-04-15 03:30:19,844 - root - INFO - 📦 CACHE_DELETED: campaign=test-campaign, cache_name=caches/active-123 (active)
+2026-04-15 03:30:19,844 - root - INFO - 📦 CACHE_DELETED: campaign=test-campaign, cache_name=caches/pending-456 (pending)
+..2026-04-15 03:30:19,846 - root - INFO - 📦 EXPLICIT_CACHE: campaign=test-campaign-123, entries=1
+.2026-04-15 03:30:19,846 - root - INFO - 📦 CACHE_REUSE: campaign=test-campaign-123, cache=caches/existing-789, entries=1, cached=1
+.
+----------------------------------------------------------------------
+Ran 9 tests in 0.006s
+
+OK
+RESULT: PASS
+DURATION: 2s
+END: 2026-04-15 03:30:20

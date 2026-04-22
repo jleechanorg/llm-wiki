@@ -1,0 +1,9 @@
+# SR-fewshot Generation for PR #6273
+Timestamp: 2026-04-18T18:41:38.546128+00:00
+Technique: SR-fewshot
+
+## PR Context
+Title: feat(rewards_engine): v4 single-responsibility level-up pipeline
+
+## Generation Response (4559 chars)
+Extracted code: 3420 chars

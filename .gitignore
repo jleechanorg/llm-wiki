@@ -13,7 +13,10 @@
 !test-prs/*.md
 !raw/*.md
 !raw/**/*.md
+!memory-search/
+!memory-search/*.md
 !.claude/skills/*/SKILL.md
+!.claude/skills/*.md
 !*.py
 
 # Ignore OS files
@@ -21,3 +24,10 @@
 
 # Ignore logs
 logs/
+
+# Runtime disk cache (memory-search CLI)
+.cache/
+
+# Python
+__pycache__/
+*.py[cod]

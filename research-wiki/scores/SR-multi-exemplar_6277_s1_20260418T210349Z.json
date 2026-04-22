@@ -1,0 +1,23 @@
+{
+  "pr": 6277,
+  "technique": "SR-multi-exemplar",
+  "naming": 90,
+  "error_handling": 75,
+  "type_safety": 90,
+  "architecture": 85,
+  "test_coverage": 95,
+  "documentation": 70,
+  "total": 84.75,
+  "breakdown": "This PR adds a TypedDict for RewardsBox and a validate_rewards_box() function for schema enforcement. The validation properly checks required fields, field types (bool, int, list, str), and rejects unknown fields. Tests are comprehensive covering valid data, missing fields, type mismatches, and extra fields. Minor gaps: the validate function returns False rather than raising exceptions (design choice), and the validation function itself lacks a docstring explaining usage.",
+  "key_changes": [
+    "Added validate_rewards_box() function returning boolean for schema validation",
+    "Added RewardsBox TypedDict with required fields: level_up_available, xp_gained, current_xp, next_level_xp, gold, loot, source",
+    "Validation rejects: missing required fields, wrong types for bool/int/list fields, extra unknown fields, non-dict inputs",
+    "Created comprehensive test file test_rewards_box_schema.py with 11 test cases",
+    "Added type validation for progress_percent, new_level, source_id in existing validation logic"
+  ],
+  "commit_sha": "52a5fe2c17cbe22a7da159c7542b8ecc585848e7",
+  "run_session": "SR-multi-exemplar-20260418T210319Z",
+  "last_updated": "2026-04-18T21:03:49.459556+00:00",
+  "sample_number": 1
+}

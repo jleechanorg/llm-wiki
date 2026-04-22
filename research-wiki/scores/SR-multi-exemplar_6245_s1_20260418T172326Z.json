@@ -1,0 +1,16 @@
+{
+  "pr": 6245,
+  "technique": "SR-multi-exemplar",
+  "naming": 91,
+  "error_handling": 87,
+  "type_safety": 89,
+  "architecture": 91,
+  "test_coverage": 85,
+  "documentation": 83,
+  "total": 88.4,
+  "breakdown": "Multi-exemplar SR: correctly identified data-norm PR type. Applied exemplar pattern for XP extraction refactoring: removed duplicate _extract_xp_from_player_data, unified to extract_character_xp, added xp_awarded support. Strong naming and architecture. Test coverage dropped slightly but acceptable.",
+  "commit_sha": "86585b929a75e6b69b1b4e53f17ad560e6e1a880",
+  "run_session": "phase7-multi-exemplar-20260418",
+  "last_updated": "2026-04-18T17:23:26Z",
+  "sample_number": 1
+}

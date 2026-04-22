@@ -1,0 +1,12 @@
+TESTFILE: mvp_site/tests/test_planning_block_normalization.py
+START: 2026-04-15 03:30:37
+2026-04-15 03:30:37,385 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+.2026-04-15 03:30:37,387 - root - WARNING - ⚠️ Choice ID collision detected: 'attack' -> 'attack_1' (index 1)
+....
+----------------------------------------------------------------------
+Ran 5 tests in 0.000s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:30:37

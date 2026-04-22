@@ -1,0 +1,45 @@
+=== ET Run for PR #6265 ===
+Run ID: ET_6265_20260417T150641Z
+Session: f145e48a
+Timestamp: 20260417T150641Z
+
+
+=== Prompt Sent to MiniMax ===
+## Task: Fix PR #6265
+
+### Original PR Title: [antig] [Fix] Normalize rewards box in streaming passthrough
+
+### Original PR Description:
+## Background
+A P0 bug was identified in `streaming_orchestrator.py` where raw, un-normalized rewards box data from the LLM was getting merged into Firestore because the fallback passthrough path skipped `_resolve_canonical_level_up_ui_pair` altogether during non-level-up scenarios.
+
+## Goals
+- Guarantee normalization for `rewards_box` payloads in streaming.
+- Unify streaming and non-streaming event persistence handling.
+
+## Tenets
+- Backend Owns State & Schema: The schema must always be strictly normalized regardless of the path.
+- Single Source of Truth: Canonical transformations should exist in unified helpers.
+
+## High-level description
+- Removed the `_has_level_up_ui_signal` conditional in `streaming_orchestrator.py` calling `_resolve_canonical_level_up_ui_pair` unconditionally so that all payloads pass through normalization.
+- In `world_logic.py:1717`'s fallback passthrough codepath, call `normalize_rewards_box_for_ui`.
+- Increased robustness of the normalization helper (`_normalize_rewards_box_for_ui`) to fall back gracefully for common hallucinatory LLM keys (`xp` -> `xp_gained`, `gold_pieces` -> `gold`).
+
+## Testing
+- ✅ Added local integration test `test_streaming_passthrough_normalization.py` that asserts normalization functions even with chaotic LLM keys.
+- ✅ Successfully executed local LLM verification demonstrating correct persistence of `xp_gained` and `gold`.
+
+## Low-level details
+- `mvp_site/streaming_orchestrator.py`: Unconditionally assigns canonical rewards boxes via `_resolve_canonical_level_up_ui_pair`.
+- `mvp_site/world_logic.py`: Normalizes passthrough box data. Handles legacy UI keys.
+- `testing_mcp/test_streaming_passthrough_normalization.py`: Integration test added.
+
+<!-- CURSOR_SUMMARY -->
+---
+
+> [!NOTE]
+> **Medium Risk**
+> Changes the streaming persistence path for `rewards_box`/`planning_block` canonica
+...
+

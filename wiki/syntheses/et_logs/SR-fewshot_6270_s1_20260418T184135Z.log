@@ -1,0 +1,9 @@
+# SR-fewshot Generation for PR #6270
+Timestamp: 2026-04-18T18:41:11.497057+00:00
+Technique: SR-fewshot
+
+## PR Context
+Title: [antig] Infrastructure: Migrate to Reusable Skeptic Workflows
+
+## Generation Response (3476 chars)
+Extracted code: 2055 chars

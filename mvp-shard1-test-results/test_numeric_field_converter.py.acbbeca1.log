@@ -1,0 +1,10 @@
+TESTFILE: mvp_site/tests/test_numeric_field_converter.py
+START: 2026-04-15 03:30:37
+...........
+----------------------------------------------------------------------
+Ran 11 tests in 0.000s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:30:37

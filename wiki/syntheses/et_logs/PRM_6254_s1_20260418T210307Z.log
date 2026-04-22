@@ -1,0 +1,9 @@
+# PRM Generation for PR #6254
+Timestamp: 2026-04-18T21:02:13.043496+00:00
+Technique: PRM
+
+## PR Context
+Title: [agento] fix(rewards): include XP progress tracking in rewards box visibility
+
+## Generation Response (7615 chars)
+Extracted code: 1534 chars

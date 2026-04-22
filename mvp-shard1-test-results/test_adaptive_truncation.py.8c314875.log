@@ -1,0 +1,68 @@
+TESTFILE: mvp_site/tests/test_adaptive_truncation.py
+START: 2026-04-15 03:29:40
+2026-04-15 03:29:41,003 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:29:41,988 - root - INFO - Initial context stats: Turns: 50, Tokens(est): 500000, Core Memories: 0
+2026-04-15 03:29:41,989 - root - WARNING - ⚠️ Context (500000 tokens) exceeds budget of 20000 tokens. Truncating...
+2026-04-15 03:29:41,989 - root - INFO - 📊 PERCENTAGE-BASED TURNS: avg_tokens/turn=10000, start_budget=5000tk→3 turns (25%), end_budget=12000tk→5 turns (60%), middle_budget=2000tk (10% for compaction)
+2026-04-15 03:29:42,045 - root - INFO - 📊 MIDDLE COMPACTION: 42 turns → 0 key events, 27 tokens (budget: 2000)
+2026-04-15 03:29:42,101 - root - INFO - 📊 MIDDLE COMPACTION: 42 turns → 0 key events, 27 tokens (budget: 2000)
+2026-04-15 03:29:42,101 - root - WARNING - ⚠️ Aggressive truncation to 3+5 turns. Tokens: 80027 (budget: 20000)
+2026-04-15 03:29:42,101 - root - WARNING - ⚠️ Hard-trimmed last resort to fit budget: 80027 tokens -> 14024 tokens (iteration 2)
+2026-04-15 03:29:42,101 - root - INFO - 📊 BUDGET UTILIZATION (last-resort): 14,024/20,000 tokens (70.1%) | Original: 500,000tk (50 turns) | Final: 8 entries
+2026-04-15 03:29:42,101 - root - INFO - Final context stats after truncation: Turns: 8, Tokens(est): 14024, Core Memories: 0
+.2026-04-15 03:29:42,101 - root - INFO - Initial context stats: Turns: 10, Tokens(est): 32, Core Memories: 0
+2026-04-15 03:29:42,102 - root - INFO - Context is within token budget. No truncation needed.
+.2026-04-15 03:29:42,102 - root - INFO - Initial context stats: Turns: 60, Tokens(est): 60237, Core Memories: 0
+2026-04-15 03:29:42,102 - root - WARNING - ⚠️ Context (60237 tokens) exceeds budget of 40000 tokens. Truncating...
+2026-04-15 03:29:42,102 - root - INFO - 📊 PERCENTAGE-BASED TURNS: avg_tokens/turn=1004, start_budget=10000tk→9 turns (25%), end_budget=24000tk→23 turns (60%), middle_budget=4000tk (10% for compaction)
+2026-04-15 03:29:42,105 - root - INFO - 📊 MIDDLE COMPACTION: 28 turns → 3 key events, 3041 tokens (budget: 4000)
+2026-04-15 03:29:42,105 - root - INFO - Truncation: 9 start + 28 middle (compacted) + 23 end = 35166 tokens
+2026-04-15 03:29:42,105 - root - INFO - 📊 BUDGET UTILIZATION: 35,166/40,000 tokens (87.9%) | Components: start=9,033tk (9 turns), middle=3,041tk (compacted from 28 turns), end=23,092tk (23 turns) | Original: 60,237tk (60 turns)
+2026-04-15 03:29:42,105 - root - INFO - Final context stats after truncation: Turns: 33, Tokens(est): 35166, Core Memories: 0
+.2026-04-15 03:29:42,105 - root - INFO - Initial context stats: Turns: 50, Tokens(est): 120000, Core Memories: 0
+2026-04-15 03:29:42,105 - root - WARNING - ⚠️ Context (120000 tokens) exceeds budget of 80000 tokens. Truncating...
+2026-04-15 03:29:42,105 - root - INFO - 📊 PERCENTAGE-BASED TURNS: avg_tokens/turn=2400, start_budget=20000tk→8 turns (25%), end_budget=48000tk→20 turns (60%), middle_budget=8000tk (10% for compaction)
+2026-04-15 03:29:42,109 - root - INFO - 📊 MIDDLE COMPACTION: 22 turns → 3 key events, 2427 tokens (budget: 8000)
+2026-04-15 03:29:42,109 - root - INFO - Truncation: 8 start + 22 middle (compacted) + 20 end = 69627 tokens
+2026-04-15 03:29:42,109 - root - INFO - 📊 BUDGET UTILIZATION: 69,627/80,000 tokens (87.0%) | Components: start=19,200tk (8 turns), middle=2,427tk (compacted from 22 turns), end=48,000tk (20 turns) | Original: 120,000tk (50 turns)
+2026-04-15 03:29:42,109 - root - INFO - Final context stats after truncation: Turns: 29, Tokens(est): 69627, Core Memories: 0
+.2026-04-15 03:29:42,109 - root - INFO - 📊 MIDDLE COMPACTION: 5 turns → 5 key events, 74 tokens (budget: 500)
+............2026-04-15 03:29:42,109 - root - INFO - 📊 MIDDLE COMPACTION: 5 turns → 4 key events, 68 tokens (budget: 500)
+.2026-04-15 03:29:42,110 - root - INFO - 📊 MIDDLE COMPACTION: 3 turns → 3 key events, 46 tokens (budget: 500)
+.2026-04-15 03:29:42,110 - root - INFO - 📊 MIDDLE COMPACTION: 20 turns → 1 key events, 89 tokens (budget: 100)
+.2026-04-15 03:29:42,110 - root - INFO - Initial context stats: Turns: 80, Tokens(est): 50642, Core Memories: 0
+2026-04-15 03:29:42,110 - root - WARNING - ⚠️ Context (50642 tokens) exceeds budget of 20000 tokens. Truncating...
+2026-04-15 03:29:42,110 - root - INFO - 📊 PERCENTAGE-BASED TURNS: avg_tokens/turn=633, start_budget=5000tk→7 turns (25%), end_budget=12000tk→18 turns (60%), middle_budget=2000tk (10% for compaction)
+2026-04-15 03:29:42,112 - root - INFO - 📊 MIDDLE COMPACTION: 55 turns → 60 key events, 168 tokens (budget: 2000)
+2026-04-15 03:29:42,114 - root - INFO - 📊 MIDDLE COMPACTION: 57 turns → 60 key events, 168 tokens (budget: 2000)
+2026-04-15 03:29:42,117 - root - INFO - 📊 MIDDLE COMPACTION: 59 turns → 60 key events, 168 tokens (budget: 2000)
+2026-04-15 03:29:42,119 - root - INFO - 📊 MIDDLE COMPACTION: 61 turns → 60 key events, 168 tokens (budget: 2000)
+2026-04-15 03:29:42,119 - root - WARNING - ⚠️ Adaptive truncation reduced to 7+12 turns (from 7+18) to fit budget. Middle: 61 turns compacted. Final: 19209 tokens <= 20000 budget
+2026-04-15 03:29:42,119 - root - INFO - 📊 BUDGET UTILIZATION: 19,209/20,000 tokens (96.0%) | Components: start=7,014tk (7 turns), middle=168tk (compacted from 61 turns), end=12,027tk (12 turns) | Original: 50,642tk (80 turns)
+2026-04-15 03:29:42,119 - root - INFO - Final context stats after truncation: Turns: 20, Tokens(est): 19209, Core Memories: 0
+.2026-04-15 03:29:42,120 - root - INFO - 📊 PERCENTAGE-BASED TURNS: avg_tokens/turn=100, start_budget=1250tk→12 turns (25%), end_budget=3000tk→30 turns (60%), middle_budget=500tk (10% for compaction)
+.2026-04-15 03:29:42,120 - root - INFO - 📊 PERCENTAGE-BASED TURNS: avg_tokens/turn=200, start_budget=500tk→3 turns (25%), end_budget=1200tk→3 turns (60%), middle_budget=200tk (10% for compaction)
+.2026-04-15 03:29:42,120 - root - INFO - 📊 PERCENTAGE-BASED TURNS: avg_tokens/turn=500, start_budget=750tk→3 turns (25%), end_budget=1800tk→5 turns (60%), middle_budget=300tk (10% for compaction)
+2026-04-15 03:29:42,120 - root - INFO - 📊 PERCENTAGE-BASED TURNS: avg_tokens/turn=500, start_budget=5000tk→10 turns (25%), end_budget=12000tk→24 turns (60%), middle_budget=2000tk (10% for compaction)
+.2026-04-15 03:29:42,120 - root - INFO - Initial context stats: Turns: 10, Tokens(est): 200000, Core Memories: 0
+2026-04-15 03:29:42,120 - root - WARNING - ⚠️ Context (200000 tokens) exceeds budget of 5000 tokens. Truncating...
+2026-04-15 03:29:42,120 - root - INFO - 📊 PERCENTAGE-BASED TURNS: avg_tokens/turn=20000, start_budget=1250tk→3 turns (25%), end_budget=3000tk→5 turns (60%), middle_budget=500tk (10% for compaction)
+2026-04-15 03:29:42,125 - root - INFO - 📊 MIDDLE COMPACTION: 2 turns → 0 key events, 27 tokens (budget: 500)
+2026-04-15 03:29:42,131 - root - INFO - 📊 MIDDLE COMPACTION: 2 turns → 0 key events, 27 tokens (budget: 500)
+2026-04-15 03:29:42,131 - root - WARNING - ⚠️ Aggressive truncation to 3+5 turns. Tokens: 160027 (budget: 5000)
+2026-04-15 03:29:42,131 - root - WARNING - ⚠️ Hard-trimmed last resort to fit budget: 160027 tokens -> 3528 tokens (iteration 2)
+2026-04-15 03:29:42,131 - root - INFO - 📊 BUDGET UTILIZATION (last-resort): 3,528/5,000 tokens (70.6%) | Original: 200,000tk (10 turns) | Final: 8 entries
+2026-04-15 03:29:42,131 - root - INFO - Final context stats after truncation: Turns: 8, Tokens(est): 3528, Core Memories: 0
+.2026-04-15 03:29:42,132 - root - INFO - 📊 MIDDLE COMPACTION: 50 turns → 0 key events, 27 tokens (budget: 100)
+.2026-04-15 03:29:42,132 - root - INFO - Initial context stats: Turns: 2, Tokens(est): 100000, Core Memories: 0
+2026-04-15 03:29:42,132 - root - WARNING - ⚠️ Context (100000 tokens) exceeds budget of 10000 tokens. Truncating...
+2026-04-15 03:29:42,132 - root - INFO - 📊 PERCENTAGE-BASED TURNS: avg_tokens/turn=50000, start_budget=2500tk→2 turns (25%), end_budget=6000tk→0 turns (60%), middle_budget=1000tk (10% for compaction)
+2026-04-15 03:29:42,132 - root - WARNING - ⚠️ Hard-trimmed 2 turns to fit budget: 100000 tokens -> 7007 tokens
+.
+----------------------------------------------------------------------
+Ran 26 tests in 0.145s
+
+OK
+RESULT: PASS
+DURATION: 2s
+END: 2026-04-15 03:29:42

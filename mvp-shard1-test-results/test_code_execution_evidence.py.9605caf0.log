@@ -1,0 +1,18 @@
+TESTFILE: mvp_site/tests/test_code_execution_evidence.py
+START: 2026-04-15 03:29:49
+2026-04-15 03:29:49,854 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+.2026-04-15 03:29:50,425 - root - WARNING - ⚠️ ⚠️ MISSING_CODE_EXEC_EVIDENCE: action_resolution dice present but no code_execution evidence. Treating as potential fabrication.
+..2026-04-15 03:29:50,425 - root - INFO - CODE_EXEC_NO_RNG: code_execution used without detected RNG call. stdout_is_valid_json=True code_samples=print('hello')
+.2026-04-15 03:29:50,425 - root - INFO - CODE_EXEC_NO_RNG: code_execution used without detected RNG call. stdout_is_valid_json=False code_samples=print('hello')
+.................2026-04-15 03:29:50,429 - root - INFO - CODE_EXEC_NO_RNG: code_execution used without detected RNG call. stdout_is_valid_json=True code_samples=import json; print(json.dumps({"rolls": [16], "total": 21}))
+..2026-04-15 03:29:50,430 - root - WARNING - ⚠️ 🚨 CODE_EXEC_FABRICATION: code_execution_used=True but rng_verified=False. LLM ran code but did NOT use random.randint() - action_resolution dice are fabricated!
+.....2026-04-15 03:29:50,430 - root - INFO - DICE_FALLBACK_OK: code_execution not used but dice tool_requests executed server-side via fallback - dice are legitimate (not fabrication)
+.2026-04-15 03:29:50,430 - root - INFO - DICE_FALLBACK_OK: code_execution not used but dice tool_requests executed server-side via fallback - dice are legitimate (not fabrication)
+..
+----------------------------------------------------------------------
+Ran 31 tests in 0.005s
+
+OK
+RESULT: PASS
+DURATION: 1s
+END: 2026-04-15 03:29:50

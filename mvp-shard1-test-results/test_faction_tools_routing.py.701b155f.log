@@ -1,0 +1,25 @@
+TESTFILE: mvp_site/tests/test_faction_tools_routing.py
+START: 2026-04-15 03:30:20
+2026-04-15 03:30:20,736 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:30:21,051 - root - INFO - FACTION_TOOL_EXEC: tool=faction_calculate_power | args={'soldiers': 50, 'spies': 0, 'elites': 0}
+2026-04-15 03:30:21,051 - root - INFO - FACTION_TOOL_RESULT: tool=faction_calculate_power | fp=50
+.2026-04-15 03:30:21,052 - root - INFO - Calling LLM API: 100 characters (~25 tokens)
+2026-04-15 03:30:21,052 - root - INFO - 🔍 MODEL_INFO: Using provider 'gemini', model 'gemini-3-flash-preview'
+2026-04-15 03:30:21,052 - root - INFO - Calling LLM provider/model: gemini/gemini-3-flash-preview
+2026-04-15 03:30:21,052 - root - INFO - 🔍 CALL_LLM_API_DISPATCH: provider_name=gemini, model_name=gemini-3-flash-preview, temperature=0.9, is_gemini=True, is_cerebras=False, is_openrouter=False
+2026-04-15 03:30:21,052 - root - INFO - 🔍 CALL_LLM_API_GEMINI: code_execution strategy for gemini-3-flash-preview
+2026-04-15 03:30:21,052 - root - INFO - 🏰 STATE_UPDATE: faction_power updated None → 100 from tool result
+2026-04-15 03:30:21,052 - root - WARNING - ⚠️ 🔍 GEMINI_RESPONSE_META: model=gemini-3-flash-preview | NO_CANDIDATES | prompt_feedback=None
+.2026-04-15 03:30:21,052 - root - INFO - DICE_TOOL_EXEC: tool=roll_dice | args={'notation': '1d20'}
+2026-04-15 03:30:21,052 - root - INFO - DICE_AUDIT: notation=1d20 | rolls=[20] | modifier=0 | total=20 | nat20=True | nat1=False
+2026-04-15 03:30:21,052 - root - INFO - DICE_TOOL_RESULT: tool=roll_dice | notation=1d20 | rolls=[20] | total=20 | purpose=
+.2026-04-15 03:30:21,052 - root - INFO - FACTION_TOOL_EXEC: tool=faction_calculate_power | args={'soldiers': 100, 'spies': 0, 'elites': 0}
+2026-04-15 03:30:21,052 - root - INFO - FACTION_TOOL_RESULT: tool=faction_calculate_power | fp=100
+.
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK
+RESULT: PASS
+DURATION: 1s
+END: 2026-04-15 03:30:21

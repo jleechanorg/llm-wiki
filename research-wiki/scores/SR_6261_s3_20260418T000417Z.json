@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "SR",
+  "naming": 85,
+  "error_handling": 70,
+  "type_safety": 65,
+  "architecture": 85,
+  "test_coverage": 90,
+  "documentation": 75,
+  "total": 78,
+  "breakdown": "This PR refactors reward normalization to use a centralized robust numeric converter with a helper function `_get_raw` that handles fallbacks through multiple key aliases before global conversion. It improves architecture by extracting a greedy fallback extraction pattern and adds comprehensive E2E test coverage. However, it uses `Any` type in the critical `_get_raw` function without generic bounds, lacks explicit exception handling for edge cases, and has limited public API documentation beyond comments.",
+  "key_changes": [
+    "Replace `coerce_int` with centralized `_DNC.convert_value` for robust numeric conversion",
+    "Extract `_get_raw` helper to greedily search multiple key aliases for values, skipping zero candidates until a finite non-zero value is found",
+    "Add fallback key sets: xp_gained/xp/xp_awarded/xpAmount/xp_earned and gold/gold_awarded/goldAmount/gp/gold_earned/gold_pieces",
+    "Handle edge cases: empty strings skip, zero candidates continue, NaN/inf treated as invalid",
+    "Add new test file with unit tests for messy strings, aliases, empty/nan fallbacks, plus E2E hallucination provocation test"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "matched-corpus-n3-20260418",
+  "last_updated": "2026-04-18T00:04:17.089016+00:00",
+  "sample_number": 3
+}

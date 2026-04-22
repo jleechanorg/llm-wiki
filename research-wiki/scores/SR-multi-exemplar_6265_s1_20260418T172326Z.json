@@ -1,0 +1,16 @@
+{
+  "pr": 6265,
+  "technique": "SR-multi-exemplar",
+  "naming": 92,
+  "error_handling": 88,
+  "type_safety": 90,
+  "architecture": 91,
+  "test_coverage": 88,
+  "documentation": 77,
+  "total": 88.8,
+  "breakdown": "Multi-exemplar SR: model correctly identified data-norm PR type and applied centralized numeric coercion pattern from exemplar #6261. Fix adds normalize_rewards_box_for_ui() with key alias fallbacks. Naming and architecture excellent; documentation gap on new utility function.",
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "phase7-multi-exemplar-20260418",
+  "last_updated": "2026-04-18T17:23:26Z",
+  "sample_number": 1
+}

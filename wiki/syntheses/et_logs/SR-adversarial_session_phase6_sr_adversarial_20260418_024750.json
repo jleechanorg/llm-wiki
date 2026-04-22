@@ -1,0 +1,14 @@
+{
+  "session_id": "phase6_sr_adversarial_20260418_024750",
+  "timestamp": "2026-04-18T02:47:50.412994",
+  "technique": "SR-adversarial",
+  "target_prs": [
+    6265,
+    6261,
+    6245,
+    6243,
+    6269
+  ],
+  "runs_per_pr": 3,
+  "description": "AdverMCTS-inspired Solver+Attacker minimax for code generation"
+}

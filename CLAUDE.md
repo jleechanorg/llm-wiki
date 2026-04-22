@@ -49,6 +49,8 @@ The experiment framework (train.py, prepare.py, program.md) is adapted for world
 wiki/ (knowledge) → test-prs/ (experiments) → research-wiki/ (results) → wiki/ (updated knowledge)
 ```
 
+**THE GOAL IS REAL PRS.** Every cycle must produce real code that can be pushed and merged. Predictions without real code are failures — not useful evaluations.
+
 For each technique/paper:
 1. **Pick a technique** from the wiki (SelfRefine, PRM, ExtendedThinking, etc.)
 2. **Form a hypothesis**: "If I apply this to PR type X, I expect Y improvement"
@@ -57,6 +59,8 @@ For each technique/paper:
 5. **Score**: Diff similarity + canonical pattern compliance
 6. **Record**: Log to research-wiki/syntheses/cycle_*.md
 7. **Iterate or abandon**: Keep if >10% improvement
+
+**What succeeded in Cycles 1-26**: benchmark mode (predicting merged PRs). **What failed**: producing zero real code. Cycles 27+ must produce real PRs on jleechanorg/worldarchitect.ai.
 
 ---
 
@@ -156,3 +160,71 @@ When running experiments (auto-research, benchmark, technique tests):
 - Cycle file frontmatter must include `run_session`
 
 **If results appear pre-existing and unverifiable**: Say "Cannot confirm live execution — re-run required" and run the experiment fresh.
+
+---
+
+## Router Prerequisite Gate (MANDATORY before any router work)
+
+Any work that implements a PR-type → technique router (bead `br-5bj` and successors) MUST first clear:
+
+```bash
+python3 scripts/validate_router_prereqs.py
+# exit 0 → unblocked; exit 1 → blocked; exit 2 → input error
+```
+
+**Why this gate exists:** All three techniques (SelfRefine, Extended Thinking, PRM) converge within rubric noise (~81-85, CIs overlap). A router can only add value if matched-PR evidence shows ranking reversals — i.e. technique A beats B on PR X while B beats A on PR Y. Bandit means on *different* PR sets cannot prove this, because the variance could be PR-specific, not technique-specific.
+
+**What the gate enforces (do NOT soften these thresholds without user approval):**
+- ≥ 5 PRs scored by ALL tracked techniques (rubric_scores entries must carry an explicit `technique` field so matches are unambiguous).
+- ≥ 2 ranking reversals across technique pairs.
+
+**If the gate fails:**
+1. Do NOT write router code. Do NOT open a router PR.
+2. Open or continue the matched-corpus task first: pick 5 PRs, run SR + ET + PRM on each, append to `technique_bandit/bandit_state.json` with proper `technique` fields.
+3. Re-run the gate. Proceed only when exit 0.
+
+This rule exists because an earlier session recommended "build the router" based on convergent means on disjoint PR sets — a structural fallacy. The gate is deliberately dumb so smaller/weaker models cannot rationalize around it.
+
+---
+
+## Autor PR Lifecycle (MANDATORY)
+
+**Autor PRs are evaluation artifacts, never merge candidates.** The purpose of opening a PR is to get a scorable diff, not to ship code.
+
+Required lifecycle for every autor-generated PR:
+1. **Open as draft** (`gh pr create --draft`) with `[autor]` label and technique tag (`[SR]`, `[ET]`, `[PRM]`).
+2. **Score against the 6-dim rubric**; write `research-wiki/scores/<tech>_<pr>_<ts>.json` + `wiki/syntheses/et_logs/<tech>_<pr>_<ts>.log`.
+3. **Update bandit state** with explicit `technique` field in `rubric_scores`.
+4. **Close the PR** (`gh pr close`) with a comment noting the technique + score. Do not leave it open.
+
+**Do NOT:**
+- Open autor PRs as ready-for-review.
+- Attempt to merge an autor PR (even if CR approves).
+- Interpret "all autor PRs CLOSED" as a failure signal — closed-after-score is the **correct** end state.
+
+**Why:** A CLOSED autor PR with a committed score JSON + log is a successful evaluation. An OPEN autor PR is an incomplete evaluation. A MERGED autor PR is a policy violation. This rule exists because a prior review confused "closed without merge" with "work not done" — autor's goal is the evaluation record, not production code.
+
+---
+
+## Benchmark Reliability Gate (MANDATORY for API-heavy experiments)
+
+Before publishing any benchmark claims (wiki page, PR description, commit message):
+
+1. **Error rate per mode MUST be reported** alongside quality scores
+2. **Error-state outputs must be distinguished** from valid outputs in the rubric (API errors score 0 or 1, not the same as mediocre valid output)
+3. **Summary statistics must be computed by script**, not typed from memory — aggregates must be reproducible from the raw JSON
+4. **If any mode has >5% error rate**: add explicit caveat "results dominated by API errors"; quality superiority claims are excluded
+
+**Why this rule exists**: Chimera benchmark (2026-04-21) published a 3.62-point spread as architectural quality difference — it was actually a 93% single-mode error rate. The rubric scored error text (timeout/529) as 5.0/10, identical to mediocre valid output. Win counts were hand-typed from memory, not derived from JSON.
+
+**Evidence-review pattern**: For any benchmark, run `/es` (evidence standards) to verify: error rates reported, scores derive from JSON, rubric distinguishes errors.
+
+---
+
+## Work Queue Dispatch — No Stopping Between Items
+
+When a work queue is stated (via `/nextsteps` output, task list, or explicit list), dispatch each item sequentially **without asking for confirmation between items**. If an item requires user action (e.g., API key revocation, long-running task), dispatch it and note "awaiting user action" rather than stopping. Do not ask "want to run X next?" — just run it.
+
+**Exception**: explicitly long-running tasks (hours) where user timezone matters — confirm before blocking the session.
+
+**Why this rule exists**: After completing P2 (retry logic), I listed P3-P6 remaining then asked "Want to run P3 or P5 next?" — the user heard "you stopped." Work queues are directives, not menus.

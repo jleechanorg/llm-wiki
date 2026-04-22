@@ -1,0 +1,18 @@
+TESTFILE: mvp_site/tests/test_firestore_personal_api_key.py
+START: 2026-04-15 03:30:24
+2026-04-15 03:30:24,323 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:30:24,389 - root - INFO - Revoked personal API key for user user-abc
+.2026-04-15 03:30:24,390 - root - INFO - Revoked personal API key for user user-abc
+.2026-04-15 03:30:24,391 - root - INFO - Revoked personal API key for user user-abc
+.2026-04-15 03:30:24,393 - root - INFO - Rotated personal API key for user user-abc
+.2026-04-15 03:30:24,394 - root - INFO - Rotated personal API key for user user-abc
+.2026-04-15 03:30:24,395 - root - INFO - Rotated personal API key for user user-abc
+.2026-04-15 03:30:24,396 - root - INFO - Rotated personal API key for user user-abc
+.
+----------------------------------------------------------------------
+Ran 7 tests in 0.009s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:30:24

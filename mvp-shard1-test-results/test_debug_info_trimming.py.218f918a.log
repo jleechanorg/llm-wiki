@@ -1,0 +1,12 @@
+TESTFILE: mvp_site/tests/test_debug_info_trimming.py
+START: 2026-04-15 03:29:54
+2026-04-15 03:29:54,645 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+...2026-04-15 03:29:54,722 - root - WARNING - ⚠️ action_resolution is missing from LLM response. This field is REQUIRED for all player actions per system prompts. LLM should include action_resolution with reinterpreted flag and mechanics. Using empty dict as fallback.
+.....
+----------------------------------------------------------------------
+Ran 8 tests in 0.000s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:29:54

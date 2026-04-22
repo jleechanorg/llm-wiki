@@ -1,0 +1,28 @@
+TESTFILE: mvp_site/tests/test_qwen_matrix.py
+START: 2026-04-15 03:30:38
+test_matrix_1_1_cerebras_valid_key (__main__.QwenCommandMatrixTests.test_matrix_1_1_cerebras_valid_key)
+[1,1] Cerebras with valid CEREBRAS_API_KEY → Fast generation + timing ... ok
+test_matrix_1_2_cerebras_fallback_key (__main__.QwenCommandMatrixTests.test_matrix_1_2_cerebras_fallback_key)
+[1,2] Cerebras with OPENAI_API_KEY fallback → Fallback auth working ... ok
+test_matrix_1_3_cerebras_missing_keys (__main__.QwenCommandMatrixTests.test_matrix_1_3_cerebras_missing_keys)
+[1,3] Cerebras with missing keys → Clear error message ... ok
+test_matrix_3_1_simple_code_request (__main__.QwenCommandMatrixTests.test_matrix_3_1_simple_code_request)
+[3,1] Simple code request with project context → Code generation ... ok
+test_matrix_3_4_empty_prompt (__main__.QwenCommandMatrixTests.test_matrix_3_4_empty_prompt)
+[3,4] Empty prompt → Usage error ... ok
+test_matrix_3_5_special_characters (__main__.QwenCommandMatrixTests.test_matrix_3_5_special_characters)
+[3,5] Special characters in prompt → Proper escaping ... ok
+test_matrix_4_1_cerebras_timing_display (__main__.QwenCommandMatrixTests.test_matrix_4_1_cerebras_timing_display)
+[4,1] Cerebras timing display format → Rocket emojis and ms ... ok
+test_matrix_5_1_concise_output (__main__.QwenCommandMatrixTests.test_matrix_5_1_concise_output)
+[5,1] System prompt 'Be concise, direct' → No verbose explanations ... ok
+test_matrix_5_2_no_comments_unless_asked (__main__.QwenCommandMatrixTests.test_matrix_5_2_no_comments_unless_asked)
+[5,2] System prompt 'NEVER add comments' → Code without comments ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.027s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:30:38

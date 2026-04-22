@@ -1,0 +1,16 @@
+{
+  "pr": 6265,
+  "technique": "SR-multi-exemplar",
+  "naming": 93,
+  "error_handling": 90,
+  "type_safety": 89,
+  "architecture": 92,
+  "test_coverage": 87,
+  "documentation": 82,
+  "total": 89.4,
+  "breakdown": "Multi-exemplar SR: applied data-norm pattern with improved type safety via TypedDict for rewards_box shape. Strong architecture with centralized normalizer. Best docstring coverage of the three runs. Small edge in all dimensions over single-exemplar baseline.",
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "phase7-multi-exemplar-20260418",
+  "last_updated": "2026-04-18T17:23:26Z",
+  "sample_number": 2
+}

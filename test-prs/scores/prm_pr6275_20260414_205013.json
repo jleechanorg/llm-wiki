@@ -1,0 +1,85 @@
+{
+  "technique": "PRM",
+  "pr": 6275,
+  "timestamp": "2026-04-14T20:50:13",
+  "run_session": "pr-6275-prm-test",
+  "dimensions": {
+    "naming": {
+      "score": 1.0,
+      "max": 1.5,
+      "reason": "All code uses player_character_data consistently. rewards_engine.py function signatures use player_data as param name (OK - it's a local var), but all actual game_state dict access uses player_character_data."
+    },
+    "error_handling": {
+      "score": 1.0,
+      "max": 2.0,
+      "reason": "_extract_xp_robust handles None, empty dict, and None XP values gracefully. _has_level_up_ui_signal handles missing custom_campaign_state with isinstance check."
+    },
+    "type_safety": {
+      "score": 1.0,
+      "max": 2.0,
+      "reason": "TypedDict usage present in custom_types.py. rewards_engine.py uses type hints (dict | None, Any, int). No untyped Any abuse in critical paths."
+    },
+    "test_coverage": {
+      "score": 1.0,
+      "max": 1.5,
+      "reason": "9 tests covering all PRM steps: stuck detection (2), synthesis (2), field consistency (3), integration (2). All 9 GREEN. TDD followed."
+    },
+    "documentation": {
+      "score": 0.75,
+      "max": 1.0,
+      "reason": "Module docstring explains dependency direction. _has_level_up_ui_signal has inline comment explaining stuck completion detection. But some functions lack WHY docstrings."
+    },
+    "evidence_standards": {
+      "score": 1.5,
+      "max": 2.0,
+      "reason": "Test log exists, score JSON exists, report markdown exists. All run artifacts committed."
+    }
+  },
+  "total": 6.25,
+  "max_total": 10.0,
+  "prm_identified_c9": true,
+  "prm_identified_c9_detail": "PRM correctly identified that the C9 root cause (player_data vs player_character_data) is NOT the primary bug - the PRIMARY bug is the missing stuck-completion detection in _has_level_up_ui_signal. The C9 field name issue (player_data as function parameter) is benign (local variable, not dict key access).",
+  "steps": [
+    {
+      "step": 1,
+      "description": "_has_level_up_ui_signal detects stuck completion",
+      "reward": 1.0,
+      "max_reward": 1.0,
+      "addresses_c9": false,
+      "step_type": "logic_fix",
+      "verdict": "CORRECT - detects level_up_complete=True with missing rewards_box"
+    },
+    {
+      "step": 2,
+      "description": "_resolve_canonical_level_up_ui_pair synthesizes rewards_box for stuck state",
+      "reward": 1.0,
+      "max_reward": 1.0,
+      "addresses_c9": true,
+      "step_type": "synthesis_fix",
+      "verdict": "CORRECT - calls ensure_level_up_rewards_box to synthesize missing box + planning"
+    },
+    {
+      "step": 3,
+      "description": "_extract_xp_robust/_extract_class_levels use player_character_data via correct key",
+      "reward": 1.0,
+      "max_reward": 1.0,
+      "addresses_c9": true,
+      "step_type": "field_consistency",
+      "verdict": "CORRECT - all dict key access uses player_character_data, not player_data"
+    },
+    {
+      "step": 4,
+      "description": "Integration: end-to-end stuck completion → synthesized box + planning",
+      "reward": 1.0,
+      "max_reward": 1.0,
+      "addresses_c9": true,
+      "step_type": "integration",
+      "verdict": "CORRECT - full path verified with 9 passing tests"
+    }
+  ],
+  "comparison_with_actual_pr": {
+    "actual_pr_fix": "PR #6275 fix: (1) _has_level_up_ui_signal detects stuck completion (lines 2061-2072), (2) _resolve_canonical_level_up_ui_pair synthesizes box + planning (lines 2089-2129), (3) ensure_level_up_rewards_box in world_logic.py builds the box",
+    "prm_test_verdict": "PRM correctly verified the actual PR #6275 fix. All 9 tests pass.",
+    "c9_detail": "C9 (player_data vs player_character_data) was described in the bug report but the actual occurrences are benign: function parameters named player_data are local variables that receive correctly-keyed dicts. The only real fix needed was the stuck-completion logic in _has_level_up_ui_signal."
+  }
+}

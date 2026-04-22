@@ -1,0 +1,22 @@
+{
+  "pr": 6265,
+  "technique": "SR-prtype",
+  "naming": 75,
+  "error_handling": 65,
+  "type_safety": 55,
+  "architecture": 80,
+  "test_coverage": 90,
+  "documentation": 70,
+  "total": 71.75,
+  "breakdown": "This PR fixes a bug where non-standard key names ('xp'/'xp_pieces' instead of 'xp_gained'/'gold') in LLM-generated rewards boxes weren't being normalized in the streaming passthrough path. The fix adds fallback key handling in normalize_rewards_box_for_ui and applies it in _resolve_canonical_level_up_ui_pair. Good test coverage with a real E2E test validates the fix. Weaknesses: no type hints or TypedDict for rewards_box structure, generic dict return types, and minimal defensive error handling for edge cases like None values.",
+  "key_changes": [
+    "Added fallback key handling in normalize_rewards_box_for_ui: reads 'xp' if 'xp_gained' is None, 'gold_pieces' if 'gold' is None, then removes fallback keys",
+    "Applied normalize_rewards_box_for_ui() to rewards_box in _resolve_canonical_level_up_ui_pair before returning",
+    "Added new E2E test file that validates normalization with messy LLM-produced keys",
+    "Variable renaming: raw_structured_rewards_box, raw_structured_planning_block for clarity in canonical stream resolution"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-prtype-20260418T183013Z",
+  "last_updated": "2026-04-18T18:30:32.241911+00:00",
+  "sample_number": 1
+}

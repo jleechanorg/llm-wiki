@@ -1,0 +1,5 @@
+TESTFILE: mvp_site/tests/test_startup_import_regression.py
+START: 2026-04-15 03:30:41
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:30:41

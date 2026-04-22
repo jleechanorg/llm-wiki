@@ -1,0 +1,9 @@
+# SR-multi-exemplar Generation for PR #6245
+Timestamp: 2026-04-18T18:21:29.614708+00:00
+Technique: SR-multi-exemplar
+
+## PR Context
+Title: fix: stabilize level-up regressions and xp synthesis
+
+## Generation Response (1417 chars)
+Extracted code: 1403 chars

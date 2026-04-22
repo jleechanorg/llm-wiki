@@ -1,0 +1,10 @@
+TESTFILE: mvp_site/tests/test_provider_inference.py
+START: 2026-04-15 03:30:37
+..........
+----------------------------------------------------------------------
+Ran 10 tests in 0.000s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:30:37

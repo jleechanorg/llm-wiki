@@ -1,0 +1,23 @@
+{
+  "pr": 6269,
+  "technique": "PRM",
+  "naming": 85,
+  "error_handling": 95,
+  "type_safety": 75,
+  "architecture": 80,
+  "test_coverage": 0,
+  "documentation": 60,
+  "total": 67.5,
+  "breakdown": "This PR modifies GitHub Actions workflow files to add a fallback logic for CodeRabbit approval detection. The changes add robust error handling (set +e pipefail, exit code capture), extend user filtering to include both coderabbitai[bot] and coderabbitai, and add a secondary check using CR status + [approve] comment when formal review state is unavailable. This is shell scripting in YAML, so type safety and test coverage dimensions don't apply meaningfully.",
+  "key_changes": [
+    "Add error handling with set +e -o pipefail and exit code capture for API calls",
+    "Extend user filter from coderabbitai[bot] to include coderabbitai",
+    "Add fallback logic checking CodeRabbit status + [approve] comment when review state returns none",
+    "Simplify regex pattern from (?m)^\\s*\\[approve\\]\\s*$ to \\[approve\\]",
+    "Add CR_STATUS filtering change to include any state (not just success) for status lookup"
+  ],
+  "commit_sha": "35b736d9658cd1e0203503fecf4c50a8e4a809ec",
+  "run_session": "matched-corpus-n3-20260418",
+  "last_updated": "2026-04-18T00:09:55.235932+00:00",
+  "sample_number": 2
+}

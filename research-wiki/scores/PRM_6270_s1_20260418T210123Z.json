@@ -1,0 +1,23 @@
+{
+  "pr": 6270,
+  "technique": "PRM",
+  "naming": 80,
+  "error_handling": 85,
+  "type_safety": 75,
+  "architecture": 90,
+  "test_coverage": 0,
+  "documentation": 40,
+  "total": 66.0,
+  "breakdown": "This PR migrates an inline GitHub Actions workflow step to use a reusable workflow from jleechanorg/agent-orchestrator. The old implementation had a long polling script with explicit error handling for API failures, rate limits, and verdict parsing. The new approach simplifies to a single 'uses:' call with parameters. While this improves architecture through reusability, test coverage and documentation are not applicable since this is YAML configuration rather than executable code, and type safety is limited to YAML schema validation.",
+  "key_changes": [
+    "Replaced inline polling script (~200 lines) with reusable workflow call to skeptic-gate-reusable.yml",
+    "Added parameters: pr_number, head_sha, runner_labels, concurrency_group",
+    "Passed secrets via 'secrets: inherit' to preserve authentication",
+    "Removed explicit verdict parsing logic and API error handling (now in reusable workflow)",
+    "Changed from inline 'run:' step to 'uses:' reusable workflow invocation"
+  ],
+  "commit_sha": "04d8df0b7bdafd745ce82e731ffcb2abf3f58273",
+  "run_session": "PRM-20260418T205842Z",
+  "last_updated": "2026-04-18T21:01:23.807572+00:00",
+  "sample_number": 1
+}

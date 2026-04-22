@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "SR-prtype",
+  "naming": 88,
+  "error_handling": 82,
+  "type_safety": 72,
+  "architecture": 78,
+  "test_coverage": 90,
+  "documentation": 85,
+  "total": 81.6,
+  "breakdown": "PR refactors rewards_box numeric extraction to use centralized robust conversion with a helper function `_get_raw` that handles fallback logic across multiple key aliases. The code properly handles edge cases like empty strings, zero values, NaN, and infinity when extracting values. Test coverage is strong with both unit and E2E tests validating the robustness. Type safety could be improved by avoiding `Any` and using proper generics.",
+  "key_changes": [
+    "Introduced `_get_raw` helper function for fallback-based value extraction across multiple key aliases",
+    "Replaced individual `coerce_int` calls with centralized `_DNC.convert_value` for robust numeric conversion",
+    "Added logic to handle non-finite floats (NaN, inf) as invalid and continue searching",
+    "Added test file `test_rewards_box_robustness.py` with unit and E2E test scenarios",
+    "Simplified chaining by using the centralized converter with fallback keys"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "SR-prtype-20260418T183013Z",
+  "last_updated": "2026-04-18T18:30:57.494566+00:00",
+  "sample_number": 1
+}

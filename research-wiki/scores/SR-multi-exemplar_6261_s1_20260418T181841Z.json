@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "SR-multi-exemplar",
+  "naming": 75,
+  "error_handling": 85,
+  "type_safety": 70,
+  "architecture": 85,
+  "test_coverage": 90,
+  "documentation": 90,
+  "total": 81.75,
+  "breakdown": "PR refactors rewards box normalization to use centralized robust numeric extraction with fallback chains for multiple key aliases. The _get_raw helper intelligently handles edge cases (empty strings, zeros, NaN/inf). Good test coverage includes both unit tests and E2E hallucination provocation. Minor deduction for opaque _DNC abbreviation and loose Any typing on the helper function.",
+  "key_changes": [
+    "Add _get_raw helper with smart fallback logic for multi-key extraction",
+    "Replace coerce_int calls with _DNC.convert_value for robust numeric parsing",
+    "Simplify gold extraction by removing manual pop operations",
+    "Add next_level_xp handling with explicit None check to default to 0",
+    "Create test_rewards_box_robustness.py with unit and E2E tests"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "SR-multi-exemplar-20260418T181742Z",
+  "last_updated": "2026-04-18T18:18:41.445927+00:00",
+  "sample_number": 1
+}

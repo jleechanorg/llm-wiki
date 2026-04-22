@@ -1,0 +1,433 @@
+TESTFILE: mvp_site/tests/test_end2end/test_debug_mode_end2end.py
+START: 2026-04-15 03:30:05
+2026-04-15 03:30:05,313 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:30:05,708 - root - INFO - Applied clock skew patch: adjusting time by -720 seconds
+2026-04-15 03:30:06,160 - root - INFO - Loading service account from file: /dev/null
+2026-04-15 03:30:06,160 - root - WARNING - ⚠️ Failed to load credentials from file /dev/null: Expecting value: line 1 column 1 (char 0)
+2026-04-15 03:30:06,160 - root - INFO - Attempting to load service account from environment variables
+2026-04-15 03:30:06,160 - root - WARNING - ⚠️ Failed to load credentials from env vars: Missing required environment variables: GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY. Please set these variables in your environment (.env file, Claude.ai project settings, or GitHub Secrets). See module docstring for detailed instructions.
+2026-04-15 03:30:06,160 - root - WARNING - ⚠️ Failed to load explicit credentials: Failed to load service account credentials from any source. File path '/dev/null' not found or invalid. Environment variables missing or incomplete (need GOOGLE_PROJECT_ID, GOOGLE_CLIENT_EMAIL, GOOGLE_PRIVATE_KEY).. Attempting default application credentials.
+2026-04-15 03:30:06,160 - root - INFO - Firebase initialized successfully in world_logic.py
+2026-04-15 03:30:06,161 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:06,161 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:06,161 - root - INFO - Schema doc cache initialized: 11 types, 0.18ms total
+2026-04-15 03:30:06,164 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:06,164 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:06,173 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:06,175 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:06,175 - root - INFO - Schema doc cache initialized: 11 types, 0.17ms total
+2026-04-15 03:30:06,180 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:06,180 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:06,190 - root - INFO - update_user_settings_unified: user_id=debug-test-user-123 incoming_keys=['debug_mode']
+2026-04-15 03:30:06,191 - root - INFO - update_user_settings_unified: SAVING user_id=debug-test-user-123 settings_to_update={'debug_mode': False}
+2026-04-15 03:30:06,191 - root - INFO - Updated settings for user debug-test-user-123: {'debug_mode': False}
+2026-04-15 03:30:06,191 - root - INFO - Updated user settings for debug-test-user-123: {'debug_mode': False}
+2026-04-15 03:30:06,193 - root - INFO - 🎮 LOADING GAME PAGE: user=debug-test-user-123, campaign=debug-test-campaign-456, story_limit=300
+2026-04-15 03:30:06,193 - root - INFO - 🔄 PARALLEL I/O START: get_campaign_metadata [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,193 - root - INFO - 🔄 PARALLEL I/O START: get_story_paginated [concurrent=2, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,193 - root - INFO - 📖 PAGINATED STORY: user=debug-test-user-123, campaign=debug-test-campaign-456, fetched=2, total=2, has_older=False
+2026-04-15 03:30:06,194 - root - INFO - 🔄 PARALLEL I/O START: get_user_settings [concurrent=3, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,194 - root - INFO - 🔄 PARALLEL I/O START: get_campaign_game_state [concurrent=4, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,194 - root - WARNING - ⚠️ GET_CAMPAIGN_GAME_STATE: GameState.from_dict returned None, returning empty GameState
+2026-04-15 03:30:06,194 - root - INFO - ✅ PARALLEL I/O END: get_campaign_metadata [duration=1.0ms, remaining=3]
+2026-04-15 03:30:06,194 - root - INFO - ✅ PARALLEL I/O END: get_story_paginated [duration=1.0ms, remaining=2]
+2026-04-15 03:30:06,194 - root - INFO - ✅ PARALLEL I/O END: get_user_settings [duration=0.6ms, remaining=1]
+2026-04-15 03:30:06,194 - root - INFO - ✅ PARALLEL I/O END: get_campaign_game_state [duration=0.6ms, remaining=0]
+2026-04-15 03:30:06,194 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:06,194 - root - INFO - Campaign debug-test-campaign-456 story: 2 entries, total=0.6KB, avg=0.3KB/entry
+2026-04-15 03:30:06,194 - root - INFO - Entry 0 size breakdown (top 5): text=0.0KB, planning_block=0.0KB, id=0.0KB, sequence_id=0.0KB, user_scene_number=0.0KB
+2026-04-15 03:30:06,194 - root - INFO - Entry 1 size breakdown (top 5): dice_rolls=0.0KB, god_mode_response=0.0KB, text=0.0KB, resources=0.0KB, location_confirmed=0.0KB
+2026-04-15 03:30:06,195 - root - INFO - 🎯 BACKEND RESPONSE for campaign debug-test-campaign-456:
+2026-04-15 03:30:06,195 - root - INFO -   Campaign Title: 'Debug Test Campaign'
+2026-04-15 03:30:06,195 - root - INFO -   Story entries: 2
+2026-04-15 03:30:06,195 - root - INFO -   Pagination: 2/2 (has_older=False)
+2026-04-15 03:30:06,196 - root - INFO - update_user_settings_unified: user_id=debug-test-user-123 incoming_keys=['debug_mode']
+2026-04-15 03:30:06,196 - root - INFO - update_user_settings_unified: SAVING user_id=debug-test-user-123 settings_to_update={'debug_mode': True}
+2026-04-15 03:30:06,196 - root - INFO - Updated settings for user debug-test-user-123: {'debug_mode': True}
+2026-04-15 03:30:06,196 - root - INFO - Updated user settings for debug-test-user-123: {'debug_mode': True}
+2026-04-15 03:30:06,197 - root - INFO - 🎮 LOADING GAME PAGE: user=debug-test-user-123, campaign=debug-test-campaign-456, story_limit=300
+2026-04-15 03:30:06,197 - root - INFO - 🔄 PARALLEL I/O START: get_campaign_metadata [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,197 - root - INFO - 🔄 PARALLEL I/O START: get_story_paginated [concurrent=2, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,197 - root - INFO - 🔄 PARALLEL I/O START: get_user_settings [concurrent=3, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,197 - root - INFO - 📖 PAGINATED STORY: user=debug-test-user-123, campaign=debug-test-campaign-456, fetched=2, total=2, has_older=False
+2026-04-15 03:30:06,197 - root - INFO - 🔄 PARALLEL I/O START: get_campaign_game_state [concurrent=4, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,197 - root - WARNING - ⚠️ GET_CAMPAIGN_GAME_STATE: GameState.from_dict returned None, returning empty GameState
+2026-04-15 03:30:06,197 - root - INFO - ✅ PARALLEL I/O END: get_campaign_metadata [duration=0.6ms, remaining=3]
+2026-04-15 03:30:06,198 - root - INFO - ✅ PARALLEL I/O END: get_user_settings [duration=0.5ms, remaining=2]
+2026-04-15 03:30:06,198 - root - INFO - ✅ PARALLEL I/O END: get_story_paginated [duration=0.7ms, remaining=1]
+2026-04-15 03:30:06,198 - root - INFO - ✅ PARALLEL I/O END: get_campaign_game_state [duration=0.5ms, remaining=0]
+2026-04-15 03:30:06,198 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:06,198 - root - INFO - Campaign debug-test-campaign-456 story: 2 entries, total=1.0KB, avg=0.5KB/entry
+2026-04-15 03:30:06,198 - root - INFO - Entry 0 size breakdown (top 5): text=0.0KB, debug_info=0.0KB, planning_block=0.0KB, id=0.0KB, sequence_id=0.0KB
+2026-04-15 03:30:06,198 - root - INFO - Entry 1 size breakdown (top 5): state_updates=0.1KB, debug_info=0.1KB, entities=0.1KB, dice_rolls=0.0KB, entities_mentioned=0.0KB
+2026-04-15 03:30:06,198 - root - INFO - 🎯 BACKEND RESPONSE for campaign debug-test-campaign-456:
+2026-04-15 03:30:06,198 - root - INFO -   Campaign Title: 'Debug Test Campaign'
+2026-04-15 03:30:06,198 - root - INFO -   Story entries: 2
+2026-04-15 03:30:06,198 - root - INFO -   Pagination: 2/2 (has_older=False)
+.2026-04-15 03:30:06,199 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:06,199 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:06,199 - root - INFO - Schema doc cache initialized: 11 types, 0.17ms total
+2026-04-15 03:30:06,200 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:06,200 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+.2026-04-15 03:30:06,210 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:06,210 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:06,210 - root - INFO - Schema doc cache initialized: 11 types, 0.18ms total
+2026-04-15 03:30:06,211 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:06,211 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+.2026-04-15 03:30:06,216 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:06,216 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:06,217 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:06,218 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:06,218 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:06,223 - root - INFO - update_user_settings_unified: user_id=debug-test-user-123 incoming_keys=['debug_mode']
+2026-04-15 03:30:06,223 - root - INFO - update_user_settings_unified: SAVING user_id=debug-test-user-123 settings_to_update={'debug_mode': True}
+2026-04-15 03:30:06,223 - root - INFO - Updated settings for user debug-test-user-123: {'debug_mode': True}
+2026-04-15 03:30:06,224 - root - INFO - Updated user settings for debug-test-user-123: {'debug_mode': True}
+2026-04-15 03:30:06,225 - root - INFO - 🎮 LOADING GAME PAGE: user=debug-test-user-123, campaign=debug-test-campaign-456, story_limit=300
+2026-04-15 03:30:06,225 - root - INFO - 🔄 PARALLEL I/O START: get_campaign_metadata [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,225 - root - INFO - 🔄 PARALLEL I/O START: get_story_paginated [concurrent=2, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,225 - root - INFO - 🔄 PARALLEL I/O START: get_user_settings [concurrent=3, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,225 - root - INFO - 📖 PAGINATED STORY: user=debug-test-user-123, campaign=debug-test-campaign-456, fetched=1, total=1, has_older=False
+2026-04-15 03:30:06,225 - root - INFO - 🔄 PARALLEL I/O START: get_campaign_game_state [concurrent=4, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,225 - root - WARNING - ⚠️ GET_CAMPAIGN_GAME_STATE: GameState.from_dict returned None, returning empty GameState
+2026-04-15 03:30:06,226 - root - INFO - ✅ PARALLEL I/O END: get_campaign_metadata [duration=0.8ms, remaining=3]
+2026-04-15 03:30:06,226 - root - INFO - ✅ PARALLEL I/O END: get_story_paginated [duration=0.8ms, remaining=2]
+2026-04-15 03:30:06,226 - root - INFO - ✅ PARALLEL I/O END: get_user_settings [duration=0.8ms, remaining=1]
+2026-04-15 03:30:06,226 - root - INFO - ✅ PARALLEL I/O END: get_campaign_game_state [duration=0.5ms, remaining=0]
+2026-04-15 03:30:06,226 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:06,226 - root - INFO - Campaign debug-test-campaign-456 story: 1 entries, total=0.2KB, avg=0.2KB/entry
+2026-04-15 03:30:06,226 - root - INFO - Entry 0 size breakdown (top 5): text=0.0KB, debug_info=0.0KB, planning_block=0.0KB, id=0.0KB, sequence_id=0.0KB
+2026-04-15 03:30:06,226 - root - INFO - 🎯 BACKEND RESPONSE for campaign debug-test-campaign-456:
+2026-04-15 03:30:06,226 - root - INFO -   Campaign Title: 'Debug Test Campaign'
+2026-04-15 03:30:06,226 - root - INFO -   Story entries: 1
+2026-04-15 03:30:06,226 - root - INFO -   Pagination: 1/1 (has_older=False)
+2026-04-15 03:30:06,227 - root - INFO - 🎮 LOADING GAME PAGE: user=debug-test-user-123, campaign=debug-test-campaign-456, story_limit=300
+2026-04-15 03:30:06,227 - root - INFO - 🔄 PARALLEL I/O START: get_campaign_metadata [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,227 - root - INFO - 🔄 PARALLEL I/O START: get_story_paginated [concurrent=2, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,227 - root - INFO - 🔄 PARALLEL I/O START: get_user_settings [concurrent=3, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,227 - root - INFO - 🔄 PARALLEL I/O START: get_campaign_game_state [concurrent=4, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,227 - root - INFO - 📖 PAGINATED STORY: user=debug-test-user-123, campaign=debug-test-campaign-456, fetched=1, total=1, has_older=False
+2026-04-15 03:30:06,227 - root - WARNING - ⚠️ GET_CAMPAIGN_GAME_STATE: GameState.from_dict returned None, returning empty GameState
+2026-04-15 03:30:06,228 - root - INFO - ✅ PARALLEL I/O END: get_campaign_metadata [duration=0.6ms, remaining=3]
+2026-04-15 03:30:06,228 - root - INFO - ✅ PARALLEL I/O END: get_user_settings [duration=0.5ms, remaining=2]
+2026-04-15 03:30:06,228 - root - INFO - ✅ PARALLEL I/O END: get_story_paginated [duration=0.6ms, remaining=1]
+2026-04-15 03:30:06,228 - root - INFO - ✅ PARALLEL I/O END: get_campaign_game_state [duration=0.6ms, remaining=0]
+2026-04-15 03:30:06,228 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:06,228 - root - INFO - Campaign debug-test-campaign-456 story: 1 entries, total=0.2KB, avg=0.2KB/entry
+2026-04-15 03:30:06,228 - root - INFO - Entry 0 size breakdown (top 5): text=0.0KB, debug_info=0.0KB, planning_block=0.0KB, id=0.0KB, sequence_id=0.0KB
+2026-04-15 03:30:06,228 - root - INFO - 🎯 BACKEND RESPONSE for campaign debug-test-campaign-456:
+2026-04-15 03:30:06,228 - root - INFO -   Campaign Title: 'Debug Test Campaign'
+2026-04-15 03:30:06,228 - root - INFO -   Story entries: 1
+2026-04-15 03:30:06,228 - root - INFO -   Pagination: 1/1 (has_older=False)
+2026-04-15 03:30:06,229 - root - INFO - 🎮 LOADING GAME PAGE: user=debug-test-user-123, campaign=debug-test-campaign-456, story_limit=300
+2026-04-15 03:30:06,229 - root - INFO - 🔄 PARALLEL I/O START: get_campaign_metadata [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,229 - root - INFO - 🔄 PARALLEL I/O START: get_story_paginated [concurrent=2, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,229 - root - INFO - 🔄 PARALLEL I/O START: get_user_settings [concurrent=3, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,229 - root - INFO - 🔄 PARALLEL I/O START: get_campaign_game_state [concurrent=4, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,229 - root - INFO - 📖 PAGINATED STORY: user=debug-test-user-123, campaign=debug-test-campaign-456, fetched=1, total=1, has_older=False
+2026-04-15 03:30:06,229 - root - WARNING - ⚠️ GET_CAMPAIGN_GAME_STATE: GameState.from_dict returned None, returning empty GameState
+2026-04-15 03:30:06,229 - root - INFO - ✅ PARALLEL I/O END: get_campaign_metadata [duration=0.4ms, remaining=3]
+2026-04-15 03:30:06,229 - root - INFO - ✅ PARALLEL I/O END: get_user_settings [duration=0.4ms, remaining=2]
+2026-04-15 03:30:06,229 - root - INFO - ✅ PARALLEL I/O END: get_story_paginated [duration=0.5ms, remaining=1]
+2026-04-15 03:30:06,229 - root - INFO - ✅ PARALLEL I/O END: get_campaign_game_state [duration=0.5ms, remaining=0]
+2026-04-15 03:30:06,229 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:06,229 - root - INFO - Campaign debug-test-campaign-456 story: 1 entries, total=0.2KB, avg=0.2KB/entry
+2026-04-15 03:30:06,229 - root - INFO - Entry 0 size breakdown (top 5): text=0.0KB, debug_info=0.0KB, planning_block=0.0KB, id=0.0KB, sequence_id=0.0KB
+2026-04-15 03:30:06,229 - root - INFO - 🎯 BACKEND RESPONSE for campaign debug-test-campaign-456:
+2026-04-15 03:30:06,229 - root - INFO -   Campaign Title: 'Debug Test Campaign'
+2026-04-15 03:30:06,229 - root - INFO -   Story entries: 1
+2026-04-15 03:30:06,229 - root - INFO -   Pagination: 1/1 (has_older=False)
+.2026-04-15 03:30:06,230 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:06,230 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:06,230 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:06,231 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:06,231 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:06,237 - root - INFO - update_user_settings_unified: user_id=debug-test-user-123 incoming_keys=['debug_mode']
+2026-04-15 03:30:06,237 - root - INFO - update_user_settings_unified: SAVING user_id=debug-test-user-123 settings_to_update={'debug_mode': False}
+2026-04-15 03:30:06,237 - root - INFO - Updated settings for user debug-test-user-123: {'debug_mode': False}
+2026-04-15 03:30:06,237 - root - INFO - Updated user settings for debug-test-user-123: {'debug_mode': False}
+2026-04-15 03:30:06,238 - root - INFO - campaign_id=debug-test-campaign-456 | DEBUG: handle_interaction START - testing mode removed
+2026-04-15 03:30:06,238 - root - INFO - campaign_id=debug-test-campaign-456 | DEBUG: request data = {'input': 'I look around the area', 'mode': 'character'}
+2026-04-15 03:30:06,238 - root - INFO - campaign_id=debug-test-campaign-456 | DEBUG: user_input = I look around the area (KEY_USER_INPUT='input')
+2026-04-15 03:30:06,238 - root - INFO - campaign_id=debug-test-campaign-456 | 🔄 PARALLEL I/O START: check_rate_limit [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,238 - root - INFO - campaign_id=debug-test-campaign-456 | ✅ PARALLEL I/O END: check_rate_limit [duration=0.2ms, remaining=0]
+2026-04-15 03:30:06,238 - root - INFO - campaign_id=debug-test-campaign-456 | DEBUG: Processing interaction - user_id=debug-test-user-123, campaign_id=debug-test-campaign-456
+2026-04-15 03:30:06,238 - root - INFO - campaign_id=debug-test-campaign-456 | ⏱️ LATENCY_START: process_action_unified started
+2026-04-15 03:30:06,238 - root - INFO - campaign_id=debug-test-campaign-456 | ⏱️ LATENCY_PREP_START: Preparing game state and user settings
+2026-04-15 03:30:06,238 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | GET_CAMPAIGN_GAME_STATE: GameState.from_dict returned None, returning empty GameState
+2026-04-15 03:30:06,238 - root - INFO - campaign_id=debug-test-campaign-456 | ⏱️ LATENCY_PREP_END: Game state preparation completed in 0.00s
+2026-04-15 03:30:06,238 - root - INFO - campaign_id=debug-test-campaign-456 | ⏱️ LATENCY_LLM_PRIMARY_START: Starting primary LLM inference (attempt 1)
+2026-04-15 03:30:06,239 - root - INFO - campaign_id=debug-test-campaign-456 | 📖 FETCHED STORY ENTRIES: user=debug-test-user-123, campaign=debug-test-campaign-456, total_entries=1
+2026-04-15 03:30:06,239 - root - INFO - campaign_id=debug-test-campaign-456 | 📊 STORY BREAKDOWN: user_entries=0, ai_entries=1, other_entries=0
+2026-04-15 03:30:06,239 - root - INFO - campaign_id=debug-test-campaign-456 | 🔍 RECENT ENTRIES (last 1):
+2026-04-15 03:30:06,239 - root - INFO - campaign_id=debug-test-campaign-456 |   1. [gemini] N/A | Welcome to the adventure! | 2025-01-01 00:00:00
+2026-04-15 03:30:06,239 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:06,239 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:06,239 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:06,239 - root - INFO - campaign_id=debug-test-campaign-456 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:06,239 - root - INFO - campaign_id=debug-test-campaign-456 | 🔍 PROVIDER_SELECTION_START: user_id=debug-test-user-123, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=true, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:06,239 - root - INFO - campaign_id=debug-test-campaign-456 | ↩️ NON_STREAMING_PATH: Using continue_story for provider/model gemini/gemini-3-flash-preview
+2026-04-15 03:30:06,239 - root - INFO - campaign_id=debug-test-campaign-456 | 🔍 PROVIDER_SELECTION_START: user_id=debug-test-user-123, FORCE_PROVIDER=None, MOCK_SERVICES_MODE=true, FORCE_TEST_MODEL=None, TESTING_AUTH_BYPASS=true
+2026-04-15 03:30:06,239 - root - INFO - campaign_id=debug-test-campaign-456 | Using provider/model: gemini/gemini-3-flash-preview for story continuation.
+2026-04-15 03:30:06,239 - root - INFO - campaign_id=debug-test-campaign-456 | 🎭 CHARACTER_CREATION_CHECK: Character creation mode ACTIVE
+2026-04-15 03:30:06,239 - root - INFO - campaign_id=debug-test-campaign-456 | 🎭 CHARACTER_CREATION_ACTIVE: Using CharacterCreationAgent
+2026-04-15 03:30:06,239 - root - INFO - campaign_id=debug-test-campaign-456 | Cache MISS for master_directive.md: loaded and cached 19296 characters (~4824 tokens)
+2026-04-15 03:30:06,240 - root - INFO - campaign_id=debug-test-campaign-456 | Cache MISS for game_state_instruction.md: loaded and cached 143160 characters (~35790 tokens)
+2026-04-15 03:30:06,243 - root - INFO - campaign_id=debug-test-campaign-456 | Cache MISS for dice_system_instruction_code_execution.md: loaded and cached 4527 characters (~1131 tokens)
+2026-04-15 03:30:06,243 - root - INFO - campaign_id=debug-test-campaign-456 | Cache MISS for character_creation_instruction.md: loaded and cached 7073 characters (~1768 tokens)
+2026-04-15 03:30:06,243 - root - INFO - campaign_id=debug-test-campaign-456 | Cache MISS for dnd_srd_instruction.md: loaded and cached 1977 characters (~494 tokens)
+2026-04-15 03:30:06,243 - root - INFO - campaign_id=debug-test-campaign-456 | Cache MISS for mechanics_system_instruction.md: loaded and cached 32957 characters (~8239 tokens)
+2026-04-15 03:30:06,243 - root - INFO - campaign_id=debug-test-campaign-456 | 🌍 LIVING_WORLD: Including living world instruction every turn (turn=1)
+2026-04-15 03:30:06,244 - root - INFO - campaign_id=debug-test-campaign-456 | Cache MISS for living_world_instruction.md: loaded and cached 40532 characters (~10133 tokens)
+2026-04-15 03:30:06,244 - root - INFO - campaign_id=debug-test-campaign-456 | 🎭 _extract_companions_from_state: No companions found in npc_data (keys: [])
+2026-04-15 03:30:06,245 - root - INFO - campaign_id=debug-test-campaign-456 | Initial context stats: Turns: 1, Tokens(est): 6, Core Memories: 0
+2026-04-15 03:30:06,245 - root - INFO - campaign_id=debug-test-campaign-456 | Context is within token budget. No truncation needed.
+2026-04-15 03:30:06,245 - root - INFO - campaign_id=debug-test-campaign-456 | 📊 MEASURED_SIZES: system=75,251tk, state=297tk, memories=0tk, entities=10,500tk, checkpoint=18tk, sequence=0tk, story=8tk, total=86,074tk (budget=240,000tk)
+2026-04-15 03:30:06,245 - root - INFO - campaign_id=debug-test-campaign-456 | 📊 MIN_ALLOCATION: total_min=163,218tk (68.0%), remaining=76,782tk (32.0%)
+2026-04-15 03:30:06,245 - root - INFO - campaign_id=debug-test-campaign-456 | 📊 BUDGET_ALLOCATION_SUMMARY (budget=240,000tk):
+  system_instruction: 75,251tk -> 75,251tk (31.4%) ✅ OK
+  game_state: 297tk -> 12,000tk (5.0%) ✅ OK
+  core_memories: 0tk -> 48,000tk (20.0%) ✅ OK
+  entity_tracking: 10,500tk -> 10,500tk (4.4%) ✅ OK
+  checkpoint_block: 18tk -> 18tk (0.0%) ✅ OK
+  sequence_id: 0tk -> 0tk (0.0%) ✅ OK
+  story_context: 8tk -> 72,000tk (30.0%) ✅ OK
+2026-04-15 03:30:06,245 - root - INFO - campaign_id=debug-test-campaign-456 | 📊 BUDGET: model_limit=1000000tk, safe_budget=300000tk, max_input=240000tk, output_reserve=60000tk (normal), story_budget=72000tk (30.0%)
+2026-04-15 03:30:06,245 - root - INFO - campaign_id=debug-test-campaign-456 | Initial context stats: Turns: 1, Tokens(est): 6, Core Memories: 0
+2026-04-15 03:30:06,245 - root - INFO - campaign_id=debug-test-campaign-456 | Context is within token budget. No truncation needed.
+2026-04-15 03:30:06,245 - root - INFO - campaign_id=debug-test-campaign-456 | Generated entity manifest for session 1, turn 1
+2026-04-15 03:30:06,245 - root - INFO - campaign_id=debug-test-campaign-456 | ENTITY_TRACKING_PROMPT: preload_chars=332, specific_chars=556
+2026-04-15 03:30:06,245 - root - INFO - campaign_id=debug-test-campaign-456 | ENTITY_TIERS: no NPCs
+2026-04-15 03:30:06,245 - root - INFO - campaign_id=debug-test-campaign-456 | ENTITY_TRACKING_SIZE: 17tk (reserve was 10500tk)
+2026-04-15 03:30:06,246 - root - INFO - campaign_id=debug-test-campaign-456 | GAME_STATE_BREAKDOWN: npc_data=0tk (EXCLUDED), world_data=0tk, player_data=7tk, remaining_state=287tk
+2026-04-15 03:30:06,246 - root - INFO - campaign_id=debug-test-campaign-456 | 🐛 DEBUG_MODE_VALUE: mode='character', agent=CharacterCreationAgent, agent.MODE=character_creation
+2026-04-15 03:30:06,246 - root - INFO - campaign_id=debug-test-campaign-456 | LLMREQUEST_PAYLOAD: story_history=19tk, total_payload=453tk
+2026-04-15 03:30:06,246 - root - INFO - campaign_id=debug-test-campaign-456 | 📦 EXPLICIT_CACHE: campaign=debug-test-campaign-456, entries=1
+2026-04-15 03:30:06,246 - root - INFO - campaign_id=debug-test-campaign-456 | 📦 CACHE_BUILD: campaign=debug-test-campaign-456, total_entries=1, caching=1, previously_cached=0, threshold=5
+2026-04-15 03:30:06,246 - root - INFO - campaign_id=debug-test-campaign-456 | MOCK_SERVICES_MODE active - using mock Gemini provider client
+2026-04-15 03:30:06,246 - root - INFO - campaign_id=debug-test-campaign-456 | 📦 CACHE_CODE_EXECUTION: Adding code_execution tool to cache for model=gemini-3-flash-preview
+2026-04-15 03:30:06,246 - root - INFO - campaign_id=debug-test-campaign-456 | 📦 CACHE_WITH_TOOLS: campaign=debug-test-campaign-456, tool_count=1
+2026-04-15 03:30:06,247 - root - INFO - campaign_id=debug-test-campaign-456 | 📦 CACHE_TOKEN_COUNT: campaign=debug-test-campaign-456, total_token_count=0, entries=1, cache_name=cachedContents/mock-cache-1
+2026-04-15 03:30:06,247 - root - INFO - campaign_id=debug-test-campaign-456 | 📦 CACHE_CREATED (N-1 first-ever): campaign=debug-test-campaign-456, entries=1, duration=0.00s, cache_name=cachedContents/mock-cache-1 (deferred — no old cache to use)
+2026-04-15 03:30:06,247 - root - INFO - campaign_id=debug-test-campaign-456 | Calling LLM API: 303178 characters (~75794 tokens)
+2026-04-15 03:30:06,247 - root - INFO - campaign_id=debug-test-campaign-456 | 🔍 MODEL_INFO: Using provider 'gemini', model 'gemini-3-flash-preview'
+2026-04-15 03:30:06,247 - root - INFO - campaign_id=debug-test-campaign-456 | Calling LLM provider/model: gemini/gemini-3-flash-preview
+2026-04-15 03:30:06,247 - root - INFO - campaign_id=debug-test-campaign-456 | 🔍 CALL_LLM_API_DISPATCH: provider_name=gemini, model_name=gemini-3-flash-preview, temperature=0.9, is_gemini=True, is_cerebras=False, is_openrouter=False
+2026-04-15 03:30:06,247 - root - INFO - campaign_id=debug-test-campaign-456 | 🔍 CALL_LLM_API_GEMINI: code_execution strategy for gemini-3-flash-preview
+2026-04-15 03:30:06,247 - root - INFO - campaign_id=debug-test-campaign-456 | Gemini code_execution: Single JSON call (no tool_requests Phase 2)
+2026-04-15 03:30:06,247 - root - INFO - campaign_id=debug-test-campaign-456 | campaign_id=debug-test-campaign-456 | PROVABLY_FAIR: commitment=f24aa8a630e2600d38eab1d0653662b7e437101d685332c6a30e9bcc1b7eeada
+2026-04-15 03:30:06,248 - root - INFO - campaign_id=debug-test-campaign-456 | TESTING_AUTH_BYPASS active - returning Gemini stub response
+2026-04-15 03:30:06,249 - root - INFO - campaign_id=debug-test-campaign-456 | No tool_requests or hybrid tools in code_execution response
+2026-04-15 03:30:06,249 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | 🔍 GEMINI_RESPONSE_META: model=gemini-3-flash-preview | NO_CANDIDATES | prompt_feedback=None
+2026-04-15 03:30:06,249 - root - INFO - campaign_id=debug-test-campaign-456 | Successfully used LLMRequest for structured JSON communication
+2026-04-15 03:30:06,249 - root - INFO - campaign_id=debug-test-campaign-456 | campaign_id=debug-test-campaign-456 | GEMINI_CODE_EXECUTION_PARTS[continue_story]: model=gemini-3-flash-preview evidence={'code_execution_used': False, 'executable_code_parts': 0, 'code_execution_result_parts': 0, 'stdout': '', 'stdout_is_valid_json': False, 'stdout_parts': [], 'code_contains_rng': False, 'rng_verified': False, 'executed_code': [], 'dice_seed_verified': False, 'dice_server_seed': 'f05f7f2b106504ccdac0baad74c77282ec51a6db2d075c8f9ec0672782a588a5', 'dice_seed_commitment': 'f24aa8a630e2600d38eab1d0653662b7e437101d685332c6a30e9bcc1b7eeada'}
+2026-04-15 03:30:06,249 - root - INFO - campaign_id=debug-test-campaign-456 | action_resolution missing required fields: ['player_input', 'interpreted_as', 'audit_flags']. Actual working schema: player_input, interpreted_as, reinterpreted, mechanics, audit_flags (count=1)
+2026-04-15 03:30:06,249 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | campaign_id=debug-test-campaign-456 | 🎲 CODE_EXEC_FABRICATION: Code was executed but random.randint() not found - dice values are fabricated. Flagged for user warning.
+2026-04-15 03:30:06,249 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | campaign_id=debug-test-campaign-456 | ⚠️ ACTION_RESOLUTION_DICE_NO_CODE_EXECUTION: action_resolution.mechanics has dice (rolls=1, audit_events=0) but code_execution_used=False. Dice should come from code_execution with random.randint().
+2026-04-15 03:30:06,249 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | campaign_id=debug-test-campaign-456 | 🚨 DICE_FABRICATION_DETECTED: Found dice in response but no tool/code execution evidence! has_dice_in_narrative=False, has_dice_in_structured=True
+2026-04-15 03:30:06,249 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | campaign_id=debug-test-campaign-456 | 🎲 NARRATIVE_DICE_FABRICATION: Dice patterns found in narrative without tool evidence. Flagged for user warning.
+2026-04-15 03:30:06,249 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | ⚠️ LLM_MISSING_FIELDS: Response missing ['dice_integrity'] (no server-side retries; accepting response as-is)
+2026-04-15 03:30:06,249 - root - INFO - campaign_id=debug-test-campaign-456 | 📝 SYSTEM_INSTRUCTION (301004 chars): # File: master_directive.md
+
+# Master Directive: WorldArchitect.AI Prompt Hierarchy
+**Version: 2.2**
+**Last Updated: 2026-04-13**
+
+## Critical Loading Order and Precedence
+
+This document establishes the authoritative hierarchy for all AI instructions in WorldArchitect.AI. When conflicts arise between instructions, this hierarchy determines which instruction takes precedence.
+
+### 1. CRITICAL FOUNDATION (Load First - Highest Authority)
+These instructions form the core operational framework and MUST be loaded before all others:
+
+1. **`game_state_instruction.md`** - State management protocol, JSON input/output schemas, and entity structures
+   - Authority over: All state updates, data persistence, timeline management, entity structures, JSON input validation
+   - Critical because: Without proper state management and structured communication, nothing else functions
+   - Includes JSON input schema for structured LLM communication
+
+2. **D&D 5E SRD Authority** (defined in this file, "D&D 5E SRD System Authority" section)
+   - Authority over: All combat, attributes, spells, and mechanical resolution
+   - Critical because: Establishes single mechanical system authority
+
+### 2. CORE MECHANICS (Load Second)
+These define the fundamental game rules:
+
+3. **`mechanics_system_instruction.md`** - System integration
+   - Authority over: Character design (when mechanics enabled), dice rolling, leveling tiers, mechanical processes
+   - Defers to: dnd_srd_instruction.md for core mechanics
+   - Special role: Triggers mandatory character design when mechanics checkbox is selected
+
+### 3. NARRATIVE FRAMEWORK (Load Third)
+These guide storytelling and interaction:
+
+4. **`narrative_system_instruction.md`** - Storytelling protocol
+   - Authority over: Think blocks, narrative flow, story progression
+   - Must respect: State management and mechanics from above
+
+### 3. TEMPLATES (Load When Needed)
+These are reference formats:
+
+5. **`character_template.md`** - Character personality and narrative d...
+2026-04-15 03:30:06,249 - root - INFO - campaign_id=debug-test-campaign-456 | 📤 RAW_REQUEST (1813 chars; logged up to 20000): {"game_mode": "character", "user_id": "debug-test-user-123", "selected_prompts": [], "use_default_world": false, "story_history": [{"actor": "gemini", "text": "Welcome to the adventure!", "sequence_id": 1}], "core_memories": [], "sequence_ids": ["1"], "checkpoint_block": "[CHECKPOINT BLOCK:]\\nSequence ID: 1 | Location: Unknown\\nMissions: None\\n", "entity_tracking": {"active_entities": [], "present_entities": [], "dormant_entities": []}, "game_state": {"game_state_version": 1, "player_character_data": {"experience": {"current": 0}}, "world_data": {}, "item_registry": {}, "custom_campaign_state": {"arc_milestones": {}, "companion_arcs": {}, "next_companion_arc_turn": 3, "active_constraints": [], "attribute_system": "D&D", "campaign_tier": "mortal", "divine_potential": 0, "universe_control": 0, "divine_upgrade_available": false, "multiverse_upgrade_available": false, "faction_minigame": {"suggestion_given": false, "strong_suggestion_given": false}, "_agent_selection_tracker": {"agent": "CharacterCreationAgent", "count": 1, "rewards_skip_count": 0}}, "social_hp_challenge": null, "combat_state": {"in_combat": false}, "last_state_update_timestamp": "2026-04-15T03:30:06.238816+00:00", "turn_number": 0, "player_turn": 0, "last_living_world_turn": 0, "last_living_world_time": null, "time_sensitive_events": {}, "npc_agendas": {}, "world_resources": {}, "time_pressure_warnings": {}, "debug_mode": false, "pending_instruction_hints": [], "user_id": "debug-test-user-123", "user_settings": {"debug_mode": false, "gemini_model": "gemini-3-flash-preview"}, "campaign_id": "debug-test-campaign-456"}, "user_action": "I look around the area\n\n[SYSTEM ENFORCEMENT: For ANY dice roll, you MUST use the code_execution tool with random.randint(). Your code will be inspected. Fabricated dice = rejection.]"}
+2026-04-15 03:30:06,249 - root - INFO - campaign_id=debug-test-campaign-456 | 📥 RAW_RESPONSE (761 chars; logged up to 20000): {"narrative": "This is a test-mode Gemini response with simulated dice mechanics.", "session_header": "Scene #Test", "planning_block": {"thinking": "Test stub active. No external call made.", "choices": {"test_choice": {"text": "Continue", "description": "Continue in test mode", "risk_level": "none"}}}, "dice_rolls": [], "action_resolution": {"mechanics": {"rolls": [{"notation": "1d20+5", "rolls": [15], "modifier": 5, "total": 20, "label": "Test Skill Check", "dc": 15, "success": true}]}}, "resources": "None", "state_updates": {}, "world_data": {"world_time": "0000-01-01T00:00:00Z"}, "player_character_data": {"name": "Test Player"}, "debug_info": {"agent_mode": "test_stub", "code_execution_used": true, "rng_verified": true, "code_contains_rng": true}}
+2026-04-15 03:30:06,250 - root - ERROR - 🔥🔴 campaign_id=debug-test-campaign-456 | campaign_id=debug-test-campaign-456 | 🚨 FABRICATED_DICE_DETECTED: Gemini returned action_resolution dice but did NOT use code_execution (executable_code_parts=0). Dice values may be hallucinated! action_resolution={'mechanics': {'rolls': [{'notation': '1d20+5', 'rolls': [15], 'modifier': 5, 'total': 20, 'label': 'Test Skill Check', 'dc': 15, 'success': True}]}, 'reinterpreted': False, 'audit_flags': []}, evidence={'code_execution_used': False, 'executable_code_parts': 0, 'code_execution_result_parts': 0, 'stdout': '', 'stdout_is_valid_json': False, 'stdout_parts': [], 'code_contains_rng': False, 'rng_verified': False, 'executed_code': [], 'dice_seed_verified': False, 'dice_server_seed': 'f05f7f2b106504ccdac0baad74c77282ec51a6db2d075c8f9ec0672782a588a5', 'dice_seed_commitment': 'f24aa8a630e2600d38eab1d0653662b7e437101d685332c6a30e9bcc1b7eeada'}
+2026-04-15 03:30:06,250 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | 🚨 DICE-s8u ENFORCEMENT: Added fabrication warning to user response
+2026-04-15 03:30:06,250 - root - INFO - campaign_id=debug-test-campaign-456 | 📊 PARSED_RESPONSE: narrative_length=66, structured_response=present, raw_response_length=761
+2026-04-15 03:30:06,250 - root - INFO - campaign_id=debug-test-campaign-456 | Comprehensive validation: 0/0 found, confidence: 1.00, warnings: 0
+2026-04-15 03:30:06,250 - root - INFO - campaign_id=debug-test-campaign-456 | NarrativeSyncValidator delegated to EntityValidator: 0/1 found
+2026-04-15 03:30:06,250 - root - INFO - campaign_id=debug-test-campaign-456 | ✅ Planning block found in JSON structured response
+2026-04-15 03:30:06,250 - root - INFO - campaign_id=debug-test-campaign-456 | 📝 FINAL_RESPONSE: narrative_length=66, has_structured_response=True
+2026-04-15 03:30:06,250 - root - INFO - campaign_id=debug-test-campaign-456 | ⏱️ LATENCY_LLM_PRIMARY_END: Primary LLM inference completed in 0.01s
+2026-04-15 03:30:06,250 - root - INFO - campaign_id=debug-test-campaign-456 | 🕐 TIME_FREEZE: Applied microsecond-only time advancement
+2026-04-15 03:30:06,250 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | CRITICAL SAFEGUARD: Intercepted direct overwrite on 'core_memories'. Converting to safe, deduplicated append.
+2026-04-15 03:30:06,250 - root - INFO - campaign_id=debug-test-campaign-456 | APPEND/SAFEGUARD: Added 1 new items to 'core_memories'.
+2026-04-15 03:30:06,251 - root - INFO - campaign_id=debug-test-campaign-456 | Calculated time_of_day as 'midday' from hour 12
+2026-04-15 03:30:06,251 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:06,251 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:06,251 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:06,251 - root - INFO - campaign_id=debug-test-campaign-456 | XP Validation applied corrections: {'valid': True, 'expected_level': 1, 'computed_level': 1}
+2026-04-15 03:30:06,251 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:06,251 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:06,251 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:06,251 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | 🎲 Injecting dice fabrication correction into pending_system_corrections: CORRECTION: You did not use the code_execution tool for dice rolls. You fabricated dice values direc...
+2026-04-15 03:30:06,251 - root - INFO - campaign_id=debug-test-campaign-456 | 📋 Persisted 1 system_corrections to game_state.pending_system_corrections
+2026-04-15 03:30:06,252 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:06,252 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:06,252 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:06,252 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:06,252 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:06,252 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:06,252 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:06,252 - root - INFO - campaign_id=debug-test-campaign-456 | 📈 SERVER_LEVELUP_INJECTION: Injecting level-up choices for level 1 (had level_up_now=False, continue_adventuring=False)
+2026-04-15 03:30:06,252 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:06,252 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:06,252 - root - INFO - campaign_id=debug-test-campaign-456 | ⏱️ LATENCY_PERSIST_START: Persisting state and story to Firestore
+2026-04-15 03:30:06,252 - root - INFO - campaign_id=debug-test-campaign-456 | Successfully set new game state for campaign debug-test-campaign-456.
+2026-04-15 03:30:06,252 - root - INFO - campaign_id=debug-test-campaign-456 | ✅ Write-then-read (mock mode): user=debug-test-user-123, campaign=debug-test-campaign-456, actor=user
+2026-04-15 03:30:06,252 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | Story entry contract validation warning (pre_write, campaign=debug-test-campaign-456, actor=gemini): action_resolution.mechanics.rolls.0: 'result' is a required property
+2026-04-15 03:30:06,252 - root - INFO - campaign_id=debug-test-campaign-456 | ✅ Write-then-read (mock mode): user=debug-test-user-123, campaign=debug-test-campaign-456, actor=gemini
+2026-04-15 03:30:06,252 - root - INFO - campaign_id=debug-test-campaign-456 | ⏱️ LATENCY_PERSIST_END: Firestore persistence completed in 0.00s
+2026-04-15 03:30:06,252 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | Invalid value 'None' for field 'xp'. Using default: 0
+2026-04-15 03:30:06,252 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | Invalid value 'None' for field 'gold'. Using default: 0
+2026-04-15 03:30:06,252 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | Invalid value 'None' for field 'xp_current'. Using default: 0
+2026-04-15 03:30:06,252 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:06,252 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:06,252 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | SYSTEM WARNING: Applied one-time schema migration for legacy compatibility
+2026-04-15 03:30:06,252 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | SYSTEM WARNING: Level computed as 1 from XP
+2026-04-15 03:30:06,252 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | SYSTEM WARNING: Dice integrity warning: dice output could not be verified. Consider retrying this action.
+2026-04-15 03:30:06,252 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | SYSTEM WARNING: Missing required fields: dice_integrity
+2026-04-15 03:30:06,252 - root - WARNING - ⚠️ campaign_id=debug-test-campaign-456 | SYSTEM WARNING: ⚠️ Dice Integrity Warning: No code execution used for dice rolls. Dice values were not generated by RNG and may not be authentic.
+2026-04-15 03:30:06,252 - root - INFO - campaign_id=debug-test-campaign-456 | ⏱️ LATENCY_END: process_action_unified completed in 0.01s
+2026-04-15 03:30:06,252 - root - INFO - campaign_id=debug-test-campaign-456 | ⏱️ LATENCY_FINAL: Total processing time 0.01s
+2026-04-15 03:30:06,253 - root - INFO - DEBUG: MCP process_action returned result: True
+2026-04-15 03:30:06,253 - root - INFO - MCP process_action result keys: ['success', 'story', 'narrative', 'response', 'game_state', 'mode', 'user_input', 'state_cleaned', 'entries_cleaned', 'sequence_id', 'user_scene_number', 'debug_mode', 'agent_mode', 'agent_used', 'budget_warnings', 'state_updates', 'location_confirmed', 'session_header', 'planning_block', 'dice_rolls', 'dice_audit_events', 'resources', 'tool_requests', 'action_resolution', 'outcome_resolution', 'social_hp_challenge', 'system_warnings']
+2026-04-15 03:30:06,253 - root - INFO - Story field type: <class 'list'>, length: 1
+.2026-04-15 03:30:06,253 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:06,253 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:06,253 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:06,254 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:06,254 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+.2026-04-15 03:30:06,259 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:06,259 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:06,259 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:06,260 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:06,260 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+.2026-04-15 03:30:06,265 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:06,265 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:06,266 - root - INFO - Schema doc cache initialized: 11 types, 0.10ms total
+2026-04-15 03:30:06,267 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:06,267 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+.2026-04-15 03:30:06,272 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:06,272 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:06,273 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:06,273 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:06,273 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+.2026-04-15 03:30:06,279 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:06,279 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:06,279 - root - INFO - Schema doc cache initialized: 11 types, 0.11ms total
+2026-04-15 03:30:06,280 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:06,280 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+.2026-04-15 03:30:06,285 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:06,285 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:06,285 - root - INFO - Schema doc cache initialized: 11 types, 0.12ms total
+2026-04-15 03:30:06,286 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:06,286 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:06,292 - root - INFO - update_user_settings_unified: user_id=debug-test-user-123 incoming_keys=['debug_mode']
+2026-04-15 03:30:06,292 - root - INFO - update_user_settings_unified: SAVING user_id=debug-test-user-123 settings_to_update={'debug_mode': True}
+2026-04-15 03:30:06,292 - root - INFO - Updated settings for user debug-test-user-123: {'debug_mode': True}
+2026-04-15 03:30:06,292 - root - INFO - Updated user settings for debug-test-user-123: {'debug_mode': True}
+2026-04-15 03:30:06,293 - root - INFO - update_user_settings_unified: user_id=debug-test-user-123 incoming_keys=['debug_mode']
+2026-04-15 03:30:06,293 - root - INFO - update_user_settings_unified: SAVING user_id=debug-test-user-123 settings_to_update={'debug_mode': False}
+2026-04-15 03:30:06,294 - root - INFO - Updated settings for user debug-test-user-123: {'debug_mode': False}
+2026-04-15 03:30:06,294 - root - INFO - Updated user settings for debug-test-user-123: {'debug_mode': False}
+.2026-04-15 03:30:06,295 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:06,295 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:06,295 - root - INFO - Schema doc cache initialized: 11 types, 0.18ms total
+2026-04-15 03:30:06,297 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:06,297 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:06,307 - root - INFO - update_user_settings_unified: user_id=debug-test-user-123 incoming_keys=['debug_mode']
+2026-04-15 03:30:06,307 - root - INFO - update_user_settings_unified: SAVING user_id=debug-test-user-123 settings_to_update={'debug_mode': True}
+2026-04-15 03:30:06,307 - root - INFO - Updated settings for user debug-test-user-123: {'debug_mode': True}
+2026-04-15 03:30:06,307 - root - INFO - Updated user settings for debug-test-user-123: {'debug_mode': True}
+.2026-04-15 03:30:06,309 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:06,309 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:06,309 - root - INFO - Schema doc cache initialized: 11 types, 0.17ms total
+2026-04-15 03:30:06,310 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:06,310 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:06,320 - root - INFO - update_user_settings_unified: user_id=debug-test-user-123 incoming_keys=['debug_mode']
+2026-04-15 03:30:06,320 - root - INFO - update_user_settings_unified: SAVING user_id=debug-test-user-123 settings_to_update={'debug_mode': False}
+2026-04-15 03:30:06,320 - root - INFO - Updated settings for user debug-test-user-123: {'debug_mode': False}
+2026-04-15 03:30:06,321 - root - INFO - Updated user settings for debug-test-user-123: {'debug_mode': False}
+2026-04-15 03:30:06,322 - root - INFO - 🎮 LOADING GAME PAGE: user=debug-test-user-123, campaign=debug-test-campaign-456, story_limit=300
+2026-04-15 03:30:06,322 - root - INFO - 🔄 PARALLEL I/O START: get_campaign_metadata [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,322 - root - INFO - 🔄 PARALLEL I/O START: get_story_paginated [concurrent=2, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,322 - root - INFO - 🔄 PARALLEL I/O START: get_user_settings [concurrent=3, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,322 - root - INFO - 📖 PAGINATED STORY: user=debug-test-user-123, campaign=debug-test-campaign-456, fetched=1, total=1, has_older=False
+2026-04-15 03:30:06,322 - root - INFO - 🔄 PARALLEL I/O START: get_campaign_game_state [concurrent=4, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,322 - root - WARNING - ⚠️ GET_CAMPAIGN_GAME_STATE: GameState.from_dict returned None, returning empty GameState
+2026-04-15 03:30:06,322 - root - INFO - ✅ PARALLEL I/O END: get_campaign_metadata [duration=0.7ms, remaining=3]
+2026-04-15 03:30:06,322 - root - INFO - ✅ PARALLEL I/O END: get_story_paginated [duration=0.7ms, remaining=2]
+2026-04-15 03:30:06,323 - root - INFO - ✅ PARALLEL I/O END: get_user_settings [duration=0.7ms, remaining=1]
+2026-04-15 03:30:06,323 - root - INFO - ✅ PARALLEL I/O END: get_campaign_game_state [duration=0.4ms, remaining=0]
+2026-04-15 03:30:06,323 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:06,323 - root - INFO - Campaign debug-test-campaign-456 story: 1 entries, total=0.2KB, avg=0.2KB/entry
+2026-04-15 03:30:06,323 - root - INFO - Entry 0 size breakdown (top 5): text=0.0KB, planning_block=0.0KB, id=0.0KB, sequence_id=0.0KB, user_scene_number=0.0KB
+2026-04-15 03:30:06,323 - root - INFO - 🎯 BACKEND RESPONSE for campaign debug-test-campaign-456:
+2026-04-15 03:30:06,323 - root - INFO -   Campaign Title: 'Debug Test Campaign'
+2026-04-15 03:30:06,323 - root - INFO -   Story entries: 1
+2026-04-15 03:30:06,323 - root - INFO -   Pagination: 1/1 (has_older=False)
+.2026-04-15 03:30:06,323 - root - INFO - Logging already configured for 'app'; ignoring 'flask-server'
+2026-04-15 03:30:06,323 - root - INFO - 🔧 SEMANTIC_ROUTING_DISABLED: Skipping classifier initialization (ENABLE_SEMANTIC_ROUTING=false)
+2026-04-15 03:30:06,324 - root - INFO - Schema doc cache initialized: 11 types, 0.16ms total
+2026-04-15 03:30:06,325 - root - INFO - 🔧 MOCK_SERVICES_MODE: Skipping real Firebase initialization
+2026-04-15 03:30:06,325 - root - INFO - Skipping startup lazy warmup (MOCK_SERVICES_MODE=true).
+2026-04-15 03:30:06,335 - root - INFO - update_user_settings_unified: user_id=debug-test-user-123 incoming_keys=['debug_mode']
+2026-04-15 03:30:06,335 - root - INFO - update_user_settings_unified: SAVING user_id=debug-test-user-123 settings_to_update={'debug_mode': True}
+2026-04-15 03:30:06,335 - root - INFO - Updated settings for user debug-test-user-123: {'debug_mode': True}
+2026-04-15 03:30:06,335 - root - INFO - Updated user settings for debug-test-user-123: {'debug_mode': True}
+2026-04-15 03:30:06,336 - root - INFO - 🎮 LOADING GAME PAGE: user=debug-test-user-123, campaign=debug-test-campaign-456, story_limit=300
+2026-04-15 03:30:06,336 - root - INFO - 🔄 PARALLEL I/O START: get_campaign_metadata [concurrent=1, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,336 - root - INFO - 🔄 PARALLEL I/O START: get_story_paginated [concurrent=2, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,336 - root - INFO - 🔄 PARALLEL I/O START: get_user_settings [concurrent=3, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,336 - root - INFO - 🔄 PARALLEL I/O START: get_campaign_game_state [concurrent=4, thread=Thread-1 (_start_loop)]
+2026-04-15 03:30:06,337 - root - INFO - 📖 PAGINATED STORY: user=debug-test-user-123, campaign=debug-test-campaign-456, fetched=1, total=1, has_older=False
+2026-04-15 03:30:06,337 - root - WARNING - ⚠️ GET_CAMPAIGN_GAME_STATE: GameState.from_dict returned None, returning empty GameState
+2026-04-15 03:30:06,337 - root - INFO - ✅ PARALLEL I/O END: get_campaign_metadata [duration=0.8ms, remaining=3]
+2026-04-15 03:30:06,337 - root - INFO - ✅ PARALLEL I/O END: get_user_settings [duration=0.6ms, remaining=2]
+2026-04-15 03:30:06,337 - root - INFO - ✅ PARALLEL I/O END: get_story_paginated [duration=0.7ms, remaining=1]
+2026-04-15 03:30:06,337 - root - INFO - ✅ PARALLEL I/O END: get_campaign_game_state [duration=0.6ms, remaining=0]
+2026-04-15 03:30:06,337 - mvp_site.rewards_engine - WARNING - Level/XP mismatch: stored_level=0, xp_derived_level=1. Using XP-derived level for threshold calculation. XP=0, thresholds: level 1 starts at 0
+2026-04-15 03:30:06,337 - root - INFO - Campaign debug-test-campaign-456 story: 1 entries, total=0.2KB, avg=0.2KB/entry
+2026-04-15 03:30:06,337 - root - INFO - Entry 0 size breakdown (top 5): text=0.0KB, debug_info=0.0KB, planning_block=0.0KB, id=0.0KB, sequence_id=0.0KB
+2026-04-15 03:30:06,337 - root - INFO - 🎯 BACKEND RESPONSE for campaign debug-test-campaign-456:
+2026-04-15 03:30:06,337 - root - INFO -   Campaign Title: 'Debug Test Campaign'
+2026-04-15 03:30:06,337 - root - INFO -   Story entries: 1
+2026-04-15 03:30:06,337 - root - INFO -   Pagination: 1/1 (has_older=False)
+.
+----------------------------------------------------------------------
+Ran 14 tests in 0.165s
+
+OK
+RESULT: PASS
+DURATION: 1s
+END: 2026-04-15 03:30:06

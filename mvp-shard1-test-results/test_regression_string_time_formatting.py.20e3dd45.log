@@ -1,0 +1,17 @@
+TESTFILE: mvp_site/tests/test_regression_string_time_formatting.py
+START: 2026-04-15 03:30:38
+2026-04-15 03:30:38,491 - root - INFO - Unified logging configured: /tmp/worldarchitect.ai/unknown/app.log
+2026-04-15 03:30:38,572 - root - INFO - Added microsecond field to world_time (default: 0)
+2026-04-15 03:30:38,572 - root - INFO - Calculated time_of_day as 'afternoon' from hour 15
+.2026-04-15 03:30:38,572 - root - INFO - Added microsecond field to world_time (default: 0)
+2026-04-15 03:30:38,572 - root - INFO - Calculated time_of_day as 'midday' from hour 12
+.2026-04-15 03:30:38,572 - root - INFO - Added microsecond field to world_time (default: 0)
+2026-04-15 03:30:38,572 - root - INFO - Calculated time_of_day as 'afternoon' from hour 15
+.
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
+RESULT: PASS
+DURATION: 0s
+END: 2026-04-15 03:30:38

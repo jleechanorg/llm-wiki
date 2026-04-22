@@ -1,0 +1,23 @@
+{
+  "pr": 6265,
+  "technique": "SR-multi-exemplar",
+  "naming": 90,
+  "error_handling": 85,
+  "type_safety": 75,
+  "architecture": 90,
+  "test_coverage": 95,
+  "documentation": 65,
+  "total": 84.25,
+  "breakdown": "PR adds a normalization function to handle messy rewards_box payloads from LLMs (e.g., 'xp' vs 'xp_gained', 'gold_pieces' vs 'gold'). The function properly falls back to alternative keys and cleans up raw keys. Test coverage is excellent with a real E2E test. Minor gaps: missing type hints on the new function and no docstring for the public-ish helper.",
+  "key_changes": [
+    "Added normalize_rewards_box_for_ui() function with fallback logic for xp/xp_gained and gold/gold_pieces keys",
+    "Modified _resolve_canonical_level_up_ui_pair to apply normalization before passthrough",
+    "Added test_streaming_passthrough_normalization.py E2E test that verifies normalization with real LLM",
+    "Uses copy.deepcopy to avoid mutating original rewards_box",
+    "Removes raw keys (xp, gold_pieces) after normalization to ensure clean output"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-multi-exemplar-20260418T182020Z",
+  "last_updated": "2026-04-18T18:20:43.120643+00:00",
+  "sample_number": 1
+}

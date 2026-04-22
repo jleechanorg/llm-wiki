@@ -1,0 +1,23 @@
+{
+  "pr": 6243,
+  "technique": "PRM",
+  "naming": 85,
+  "error_handling": 70,
+  "type_safety": 80,
+  "architecture": 85,
+  "test_coverage": 95,
+  "documentation": 90,
+  "total": 83.5,
+  "breakdown": "This PR widens the state flag semantics in game_state.py to accept numeric booleans (int 1/0, string '1'/'0') in addition to strict True/'true' and False/'false'. Tests are comprehensive, covering accepted/rejected edge cases and checking that bool is handled correctly as a subclass of int. The code has good documentation explaining the WHY (preventing silent level-up stalls from LLM numeric booleans). Minor deduction in error handling as no exceptions are involved, but type safety properly handles bool-as-int edge case.",
+  "key_changes": [
+    "Widen _is_state_flag_true to accept int 1 and string '1' as truthy",
+    "Widen _is_state_flag_false to accept int 0 and string '0' as falsy",
+    "Add isinstance checks with bool exclusion to prevent bool(True)/int(1) confusion",
+    "Add comprehensive StateFlagSemanticsTest class with 5 test methods",
+    "Add rejection of free-text strings like 'yes'/'no' (not true/false)"
+  ],
+  "commit_sha": "168073c02518b872d6097d422c8776b6752b9a0d",
+  "run_session": "matched-corpus-n3-20260418",
+  "last_updated": "2026-04-18T00:08:29.544047+00:00",
+  "sample_number": 2
+}

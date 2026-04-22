@@ -1,0 +1,325 @@
+diff --git a/docs/pr-design-docs/PR-6245.md b/docs/pr-design-docs/PR-6245.md
+new file mode 100644
+index 0000000000..0ec5d002ea
+--- /dev/null
++++ b/docs/pr-design-docs/PR-6245.md
+@@ -0,0 +1,16 @@
++# PR 6245 Design Doc
++
++## Overview
++This PR addresses regressions related to how character levels and rewards updates handle integer and string types.
++
++## Motivation
++Recent changes introduced false-negative validations when Firestore state flags (`level_up_in_progress`, etc.) came in as loosely-typed int (`1`) or string (`"1"`) instead of booleans, breaking the internal state transitions.
++Additionally, when `xp_awarded` fields default to `0`, previous chained `or` fallbacks were overriding valid zeroes with stale pending state.
++
++## Implementation Details
++1. **Unify `extract_character_xp` extraction**:
++   Both `world_logic.py` and `game_state.py` parse legacy combinations of `experience.current` dicts and flat `xp` scalars. We unified these to only use the safe `extract_character_xp` from `game_state`.
++2. **Boolean casting width**:
++   The `_is_state_flag_true` function was deliberately widened to safely accept integers and stringly-typed numeric equivalents `1`, `"1"` that LLMs routinely output in mock schemas, explicitly denying unparseable terms like `"yes"` to remain compatible.
++3. **Explicit zero checks**:
++   In `world_logic.py`, `xp_from_combat` parsing changed `... or ...` short-circuiting to explicit `if target is not None:` loops, preserving active 0 awards from erroneously pulling default pool numbers.
+diff --git a/mvp_site/game_state.py b/mvp_site/game_state.py
+index fdceb2393f..d973870140 100644
+--- a/mvp_site/game_state.py
++++ b/mvp_site/game_state.py
+@@ -938,27 +938,42 @@ def extract_character_xp(player_data: dict[str, Any] | None) -> int:
+     """
+     Extract cumulative XP from player_character_data.
+ 
+-    Supports the canonical nested schema as well as legacy scalar fields.
++    Checks, in order: experience.current, experience (scalar), xp, xp_current.
++    Returns 0 for None, non-dict, or unparseable input.
++    All return values are clamped to >= 0.
+     """
+     if not isinstance(player_data, dict):
+         return 0
+ 
+-    xp_raw = None
+-    experience = player_data.get("experience")
+-    if isinstance(experience, dict):
+-        xp_raw = experience.get("current")
+-    elif experience is not None:
+-        xp_raw = experience
+-
+-    if xp_raw is None:
+-        xp_raw = player_data.get("xp")
+-    if xp_raw is None:
+-        xp_raw = player_data.get("xp_current")
+-
+-    if isinstance(xp_raw, str):
+-        xp_raw = xp_raw.replace(",", "")
++    def _parse_numeric(val: Any) -> int:
++        if isinstance(val, (int, float)):
++            try:
++                return int(val)
++            except (ValueError, TypeError, OverflowError):
++                return 0
++        if isinstance(val, str):
++            cleaned = val.replace(",", "").replace(" ", "").strip()
++            if not cleaned:
++                return 0
++            try:
++                return int(float(cleaned))
++            except (ValueError, TypeError, OverflowError):
++                return 0
++        return 0
+ 
+-    return max(0, _coerce_int(xp_raw, 0))
++    exp = player_data.get("experience")
++    if isinstance(exp, dict):
++        xp_raw = exp.get("current")
++        if xp_raw is not None:
++            return max(0, _parse_numeric(xp_raw))
++    elif exp is not None:
++        return max(0, _parse_numeric(exp))
++    xp = player_data.get("xp")
++    if xp is None:
++        xp = player_data.get("xp_current")
++    if xp is not None:
++        return max(0, _parse_numeric(xp))
++    return 0
+ 
+ 
+ def resolve_level_progression_state(
+diff --git a/mvp_site/tests/test_world_logic.py b/mvp_site/tests/test_world_logic.py
+index 506b86eb2d..00b5bb04a3 100644
+--- a/mvp_site/tests/test_world_logic.py
++++ b/mvp_site/tests/test_world_logic.py
+@@ -4503,68 +4503,6 @@ def test_increment_turn_counter_falls_back_to_player_turn(self):
+         self.assertEqual(result["player_turn"], 6)
+ 
+ 
+-class TestExtractXPFromPlayerData(unittest.TestCase):
+-    """Test _extract_xp_from_player_data function"""
+-
+-    def test_extract_xp_from_experience_dict(self):
+-        """Test extracting XP from experience.current format"""
+-        pc_data = {"experience": {"current": 5000}}
+-        result = world_logic._extract_xp_from_player_data(pc_data)
+-        self.assertEqual(result, 5000)
+-
+-    def test_extract_xp_from_experience_int(self):
+-        """Test extracting XP from experience as int"""
+-        pc_data = {"experience": 3000}
+-        result = world_logic._extract_xp_from_player_data(pc_data)
+-        self.assertEqual(result, 3000)
+-
+-    def test_extract_xp_from_experience_string(self):
+-        """Test extracting XP from experience as string"""
+-        pc_data = {"experience": "2500"}
+-        result = world_logic._extract_xp_from_player_data(pc_data)
+-        self.assertEqual(result, 2500)
+-
+-    def test_extract_xp_from_experience_string_with_commas(self):
+-        """Test extracting XP from experience as comma-formatted string"""
+-        pc_data = {"experience": "2,700"}
+-        result = world_logic._extract_xp_from_player_data(pc_data)
+-        self.assertEqual(result, 2700)
+-
+-    def test_extract_xp_from_xp_field(self):
+-        """Test extracting XP from xp field"""
+-        pc_data = {"xp": 1500}
+-        result = world_logic._extract_xp_from_player_data(pc_data)
+-        self.assertEqual(result, 1500)
+-
+-    def test_extract_xp_from_xp_current_field(self):
+-        """Test extracting XP from xp_current field"""
+-        pc_data = {"xp_current": 2000}
+-        result = world_logic._extract_xp_from_player_data(pc_data)
+-        self.assertEqual(result, 2000)
+-
+-    def test_extract_xp_priority_order(self):
+-        """Test that experience field takes priority over xp"""
+-        pc_data = {"experience": 1000, "xp": 2000}
+-        result = world_logic._extract_xp_from_player_data(pc_data)
+-        self.assertEqual(result, 1000)
+-
+-    def test_extract_xp_returns_zero_for_missing(self):
+-        """Test that missing XP returns 0"""
+-        pc_data = {}
+-        result = world_logic._extract_xp_from_player_data(pc_data)
+-        self.assertEqual(result, 0)
+-
+-    def test_extract_xp_returns_zero_for_invalid_type(self):
+-        """Test that invalid input type returns 0"""
+-        result = world_logic._extract_xp_from_player_data("not a dict")
+-        self.assertEqual(result, 0)
+-
+-    def test_extract_xp_handles_float(self):
+-        """Test that float XP values are converted to int"""
+-        pc_data = {"experience": 1234.5}
+-        result = world_logic._extract_xp_from_player_data(pc_data)
+-        self.assertEqual(result, 1234)
+-
+ 
+ class TestHasRewardsNarrative(unittest.TestCase):
+     """Test _has_rewards_narrative function"""
+diff --git a/mvp_site/world_logic.py b/mvp_site/world_logic.py
+index def2fec90c..6b12db3aac 100755
+--- a/mvp_site/world_logic.py
++++ b/mvp_site/world_logic.py
+@@ -471,47 +471,6 @@ def _resolve_empty_narrative(
+     return "[Error: Empty narrative from LLM]"
+ 
+ 
+-def _extract_xp_from_player_data(pc_data: dict[str, Any]) -> int:
+-    """Extract XP value from player_character_data dict.
+-
+-    Handles int, float, and string formats (including commas like "2,700").
+-    Returns 0 if XP cannot be parsed or is not present.
+-
+-    Args:
+-        pc_data: Player character data dictionary
+-
+-    Returns:
+-        Integer XP value, or 0 if not found/parseable
+-    """
+-    if not isinstance(pc_data, dict):
+-        return 0
+-
+-    def _parse_numeric(val: Any) -> int:
+-        if isinstance(val, (int, float)):
+-            return int(val)
+-        if isinstance(val, str):
+-            # Remove commas and whitespace, then try to parse
+-            cleaned = val.replace(",", "").replace(" ", "").strip()
+-            if not cleaned:
+-                return 0
+-            try:
+-                return int(float(cleaned))
+-            except (ValueError, TypeError):
+-                return 0
+-        return 0
+-
+-    exp = pc_data.get("experience")
+-    if isinstance(exp, dict):
+-        return _parse_numeric(exp.get("current", 0))
+-    if exp is not None:
+-        return _parse_numeric(exp)
+-    xp = pc_data.get("xp")
+-    if xp is None:
+-        xp = pc_data.get("xp_current")
+-    if xp is not None:
+-        return _parse_numeric(xp)
+-    return 0
+-
+ 
+ def _annotate_entry(entry: dict[str, Any], turn: int, scene: int) -> None:
+     """Add turn/scene to a dict entry if not already present."""
+@@ -1148,10 +1107,24 @@ def _synthesize_generic_rewards_box(
+             coerce_int(combat_state.get("gold"), default=0)
+             or coerce_int(rewards_pending.get("gold"), default=0),
+         )
++        xp_awarded_raw = (
++            combat_summary.get("xp_awarded")
++            if isinstance(combat_summary, dict)
++            else None
++        )
++        xp_from_combat = (
++            coerce_int(xp_awarded_raw, default=0)
++            if xp_awarded_raw is not None
++            else None
++        )
+         xp = max(
+             0,
+-            coerce_int(rewards_pending.get("xp_gained"), default=0)
+-            or coerce_int(rewards_pending.get("xp"), default=0),
++            xp_from_combat
++            if xp_from_combat is not None
++            else (
++                coerce_int(rewards_pending.get("xp_gained"), default=0)
++                or coerce_int(rewards_pending.get("xp"), default=0)
++            ),
+         )
+         return {
+             "source": source,
+@@ -1174,10 +1147,20 @@ def _synthesize_generic_rewards_box(
+             coerce_int(encounter_state.get("gold"), default=0)
+             or coerce_int(rewards_pending.get("gold"), default=0),
+         )
++        xp_awarded_raw = encounter_summary.get("xp_awarded")
++        xp_from_encounter = (
++            coerce_int(xp_awarded_raw, default=0)
++            if xp_awarded_raw is not None
++            else None
++        )
+         xp = max(
+             0,
+-            coerce_int(rewards_pending.get("xp_gained"), default=0)
+-            or coerce_int(rewards_pending.get("xp"), default=0),
++            xp_from_encounter
++            if xp_from_encounter is not None
++            else (
++                coerce_int(rewards_pending.get("xp_gained"), default=0)
++                or coerce_int(rewards_pending.get("xp"), default=0)
++            ),
+         )
+         return {
+             "source": source,
+@@ -1229,7 +1212,9 @@ def _xp_increased(
+         return False
+     player_data = state_dict.get("player_character_data") or {}
+     original_player_data = original_state_dict.get("player_character_data") or {}
+-    return extract_character_xp(player_data) > extract_character_xp(original_player_data)
++    return extract_character_xp(player_data) > extract_character_xp(
++        original_player_data
++    )
+ 
+ 
+ def _requires_primary_rewards_box(
+@@ -1286,7 +1271,9 @@ def _enforce_primary_rewards_box_postcondition(
+         return
+ 
+     # Second try: synthesize generic rewards_box from combat/loot state
+-    generic_box = _synthesize_generic_rewards_box(updated_game_state_dict, original_state_dict)
++    generic_box = _synthesize_generic_rewards_box(
++        updated_game_state_dict, original_state_dict
++    )
+     if generic_box is not None:
+         structured_response = getattr(llm_response_obj, "structured_response", None)
+         if structured_response is None:
+@@ -2018,10 +2005,11 @@ def _check_and_set_level_up_pending(
+     state_dict: dict[str, Any], original_state_dict: dict[str, Any] | None = None
+ ) -> dict[str, Any]:
+     """World-logic compat wrapper around canonical pending level-up ownership."""
+-    return check_and_set_level_up_pending_impl(
++    return ensure_level_up_rewards_pending(
+         state_dict, original_state_dict=original_state_dict
+     )
+ 
++
+ # =============================================================================
+ # FREEZE TIME HELPERS
+ # =============================================================================
+@@ -6311,8 +6299,8 @@ def _is_god_mode_return_to_story(text: str, mode: str | None = None) -> bool:
+             original_pc = original_state_for_level_check.get(
+                 "player_character_data", {}
+             )
+-            final_xp = _extract_xp_from_player_data(final_pc)
+-            original_xp = _extract_xp_from_player_data(original_pc)
++            final_xp = extract_character_xp(final_pc)
++            original_xp = extract_character_xp(original_pc)
+ 
+             # Only warn if XP didn't increase at all (including from rewards followup)
+             xp_increased = final_xp > original_xp
+@@ -8507,15 +8495,15 @@ def _handle_update_state_command(
+         )
+ 
+         # Detect post-combat warnings for GOD_MODE_UPDATE_STATE (no rewards followup here)
+-        # Uses shared _extract_xp_from_player_data helper to avoid duplication with unified flow
++        # Uses shared extract_character_xp helper to avoid duplication with unified flow
+         post_combat_warnings: list[str] = []
+         try:
+             updated_game_state_obj = GameState.from_dict(validated_state_dict)
+             if updated_game_state_obj:
+-                final_xp = _extract_xp_from_player_data(
++                final_xp = extract_character_xp(
+                     validated_state_dict.get("player_character_data", {})
+                 )
+-                original_xp = _extract_xp_from_player_data(
++                original_xp = extract_character_xp(
+                     original_state_for_level_check.get("player_character_data", {})
+                 )
+                 if final_xp <= original_xp:

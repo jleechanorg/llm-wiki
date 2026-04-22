@@ -14,6 +14,34 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
+- [Level-Up ZFC Loop Postmortem — 2026-04-21](sources/2026-04-21-level-up-zfc-loop-postmortem.md) — Postmortem: `#6420` stayed red because the loop treated `upstream-owned` as a stable wait state instead of forcing rapid fresh-main revalidation and branch reclassification
+- [ZFC Level-Up PR Status — 2026-04-21](sources/2026-04-21-level-up-zfc-pr-status.md) — PR queue snapshot: #6423/#6422 merge-ready; #6420 Stage 0 CHANGES_REQUESTED + harness contract hash mismatch; #6404 APPROVED; #6418 parked
+- [ZFC Level-Up Stage 0 Execution Drift — 2026-04-20](sources/zfc-level-up-stage0-execution-drift-2026-04-20.md) — Stage 0 added code instead of deleting: +845/-123 LOC; M0 0% complete; PR lifecycle management consumed time instead of M0-PR1/PR2/PR3 deletion work
+- [Level-Up ZFC Current Status — 2026-04-20](sources/2026-04-20-level-up-zfc-current-status.md) — Current landing queue snapshot: #6420 first, then #6418, then #6404; north star unchanged
+- [Project Chimera: A Neural Network of LLM Agents — 2026-04-19](sources/project-chimera-neural-network-llm-agents-2026-04-19.md) — 22-agent GNN-driven swarm; M2.7 primary + GPT-5.4 for synthesis/gate; Living Knowledge Wiki as killer app; 31-commit TDD roadmap over 6–7 weeks
+- [Project Chimera Codebase: April 2026 — 2026-04-20](sources/project-chimera-codebase-2026-04-20.md) — Live implementation at ~/Downloads/chimera/; 11 agents; real Minimax API verified; 9/9 tests pass; DomainExpert ~60s latency is bottleneck; GNN is simulated not trained
+- [ZFC Level-Up Model Computes Design (Full v2) — 2026-04-19](sources/zfc-level-up-model-computes-2026-04-19.md) — Full 796-line ZFC architecture for level-up: model computes level_up_signal, backend is pure formatter; 5-stage rollout: M0 cleanup → M1 compliance probe → M2 formatter narrowing → M3 transport parity → M4 delete legacy → M5 enforcement
+- [ZFC Level-Up M0 Cleanup Session — 2026-04-20](sources/2026-04-20-zfc-m0-cleanup-session.md) — 8h session: PR #6415 7-green/merge-ready; PRs #6420/#6404 CR CHANGES_REQUESTED; PR #6418 Skeptic stale; branch v4 created after v1-v3 conflicts
+- [PR #6370 Review: ASI and XP Display Scope Drift — 2026-04-19](sources/pr6370-asi-xp-display-scope-drift.md) — PR #6370 review: ASI choices now apply to single-class characters (not just multiclass); xp_gained now uses rewards_pending instead of computed overflow; both are scope changes not disclosed in PR body
+- [WorldArchitect.AI level-up / Layer 2 session digest — 2026-04-19](sources/worldarchitect-level-up-session-2026-04-19.md) — Split stack PR truth, merge order (#6370 → #6379/#6387), 7-green vs checks, agent-only gates, roadmap pointers, parallel-work rules
+- [Story persistence & reload parity (harness) — 2026-04-19](sources/story-persistence-reload-parity-2026-04-19.md) — Round-trip parity tenet; anti strip-at-save; PR #6376 class; repo skill + CLAUDE pointer
+- [Level-Up Evidence Phase 1 — 2026-04-18](sources/level-up-evidence-phase1-2026-04-18.md) — Class 5 REPRODUCED on main; Class 1 inconclusive; Phase 2 pending; testing_ui required
+- [PR #6344 — [autor/PRM] Recreation of #6259](sources/pr6344_autor_prm_recreation_6259.md) — PRM autor; skeptic VERDICT extraction fix; scored 78/100; PRM n=13
+- [PR #6343 — [autor/PRM] Port CR Fallback Logic](sources/pr6343_autor_prm_6269.md) — PRM autor; CR fallback logic; scored 76/100; PRM n=11
+- [PR #6342 — [autor/ET] Robust Numeric Extraction Recreation](sources/pr6342_autor_et_recreation_6261.md) — ET autor PR #6261; WHY reasoning comments; scored 92/100 (highest in Phase 4); +15 vs original; ET n=14
+- [PR #6341 — [autor/ET] Fix Skeptic Verdict Regex Recreation](sources/pr6341_autor_et_recreation_6266.md) — ET autor PR #6266; extended chain-of-thought reasoning; scored 85/100; bold **VERDICT** formatting fix
+- [PR #6340 — [autor/PRM] Robust Numeric Extraction Recreation](sources/pr6340_autor_prm_recreation_6261.md) — PRM autor PR #6261; step-by-step reasoning visible in comments; scored 77/100; added OverflowError handling
+- [PR #6325 — Remove design_doc_gate from CI Pipeline](sources/pr6325_design_doc_gate_removal.md) — Removes design_doc_gate job from green-gate.yml (158 lines); fixes doc-size-check.yml retry-self-hosted needs bug; CI workflow simplified
+- [PR #6279 — SWE-bench 6-Dimension Scoring](sources/pr6279_swebench_6dimension_scoring.md) — 6-dim canonical pattern scoring rubric introduced; scored PRs 6275/6276/6277; became standard for AutorPR evaluation in Phase 3/4
+- [PR #6309 — Fix grep \s to [ \t] for mawk/BSD](sources/pr6309_grep_mawk_bsd_portability_fix.md) — POSIX-compliant grep pattern fix for macOS/Homebrew compatibility; ANSI-C quoting $'^[ \t]*#'
+- [PR #6291 — Add design_doc_gate Before Skeptic Gate](sources/pr6291_design_doc_gate_addition.md) — Added design_doc_gate as blocking step before skeptic evaluation (subsequently removed by PR #6325)
+- [PR #6275 — Fix Stuck Level-Up: Synthesize rewards_box](sources/pr6275_fix_stuck_level_up.md) — Fix stuck level-up when level_up_complete=True but rewards_box missing; synthesize from game state; 76/76 tests pass
+- [PR #6269 — Port CR Fallback Logic to Skeptic Gates](sources/pr6269_port_cr_fallback_skeptic_gates.md) — CR fallback logic added to skeptic gates; retry mechanism for CR API errors
+- [PR #6266 — Fix Skeptic Verdict Regex for Bold Formatting](sources/pr6266_fix_skeptic_verdict_regex.md) — Remove anchor in skeptic verdict regex to capture bold **VERDICT** formatting
+- [Harness Fix PRs Status 2026-04-16 Late](sources/pr-harness-fix-prs-status-2026-04-16-late.md) — PR #6276 MERGED ~85% complete; 4 harness-fix PRs blocked by CR and 0 runners; rev-v4ci01 TOMBSTONED; skeptic-evaluate.sh auto-merge removed
+- [Governance Layer Design BFS + PR #452/#453 (2026-04-15)](sources/governance-layer-design-bfs-2026-04-15.md) — BFS research synthesis: 3-component governance (Skeptic + Evidence Validator + Policy Engine), GitOps approval for GOVERNANCE.md, fail-closed batch model, RLAIF-inspired feedback loops, Confluent Stream Governance as design model
+- [Governance Layer Design PRs #452/#453 (2026-04-15)](sources/pr-452-453-governance-layer-design-2026-04-15.md) — real-time governance layer for evolve loop (GOVERNANCE.md) + fail-closed semantic merge gates (gate-governance plugin); no mandatory human review, hard/soft constraints, escalation paths
+- [PR #6276 Design Doc v4 Summary](sources/pr6276_design_doc_v4_summary.md) — source page for PR #6276 v4 design, Layer 3 CLEAN status, grep gate gap
 - [RefineRL](sources/refinere-ll-paper.md) — RL-based self-refinement for competitive programming; 4B surpasses 32B, approaches 235B single-attempt results; Skeptical-Agent + RLVR training
 - [ThinkTwice](sources/think-twice-paper.md) — Joint GRPO optimization of reasoning + self-refinement; +11.5pp on AIME after one refinement step; no critique annotations needed
 - [Self-Debias](sources/self-debias-paper.md) — Self-correction for debiasing LLMs via trajectory optimization; addresses bias propagation through CoT; 20k samples sufficient
@@ -21,6 +49,16 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Level-Up v4 Semantic Regression: 6 Production Bugs](sources/level-up-v4-semantic-regression-bug.md) — should_show_rewards_box suppresses ALL non-level-up XP rewards — 4/6 production bugs trace to PR #6273 semantic change
 - [Level-Up v4 Current Status (2026-04-14)](sources/level-up-v4-current-status-2026-04-14.md) — 4-layer TDD complete (all done), PR #6273 deployed with regression, #6276 OPEN, 3 remaining bugs: should_show_rewards_box fix, project_level_up_ui void return, hardcoded HP values
 - [Rewards Engine: Single-Responsibility Pipeline Refactor](sources/level-up-engine-v4-design.md) — v4 design: single orchestration root (llm_parser.py), 7-stage pipeline, rewards_engine idempotent, closes #6262/#6263/#6264/#6268
+- [Level-Up Engine Single-Responsibility Design (2026-04-14)](sources/level-up-engine-single-responsibility-design-2026-04-14.md) — v4 design with TDD layers: RED→GREEN→WIRE→CLEAN; PR #6276 drifts: world_logic.py still has 9 rewards_engine calls (design says ZERO), constants.py dupes not deleted
+- [PR #6276 Level-Up Status 2026-04-15](sources/pr-6276-level-up-status-2026-04-15.md) — Layer 3 CLEAN incomplete: 21 grep matches in world_logic.py, 5 CI failures, 11 CR threads, 7 agents running
+- [PR #6276 rev-v4ci Status 2026-04-15 Night](sources/pr6276-rev-v4ci-status-2026-04-15-night.md) — runners OFFLINE, harness PRs OPEN, rev-v4ci06 scope clarified (design doc update only), rev-v4ci01 BLOCKED
+- [PR #6276 rev-v4ci Status 2026-04-16](sources/pr6276-rev-v4ci-status-2026-04-16.md) — rev-v4ci01 TOMBSTONED (unachievable), PR #6276 ~85% complete, skeptic-gate FAIL on harness-fix PRs
+- [Harness-Fix PRs + PR #6276 Status 2026-04-16 Late — 0 Runners Block All CI](sources/harness-fix-prs-status-2026-04-16-late.md) — PR #6276 MERGED; 4 harness-fix PRs BLOCKED by CR CHANGES_REQUESTED + 0 runners; skeptic-gate concurrency bug confirmed; coder-1 coordinating
+- [Skeptic Gate Concurrency Bug — All Harness-Fix PRs Affected](sources/skeptic-gate-concurrency-bug-2026-04-16.md) — skeptic-gate.yml and green-gate.yml share `green-gate-$PR_NUM` concurrency group, mutually cancelling each other's runs; fix in PR #6308 BLOCKED by its own CR CHANGES_REQUESTED
+- [Harness-Fix PRs Status 2026-04-16d](sources/harness-fix-prs-status-2026-04-16d.md) — CR CHANGES_REQUESTED blocks #6289/#6292/#6308 from 7-green; #6287 test fix pushed (4d1afd4803); PR #6276 MERGED
+- [Harness-Fix PRs Status 2026-04-15](sources/harness-fix-prs-status-2026-04-15.md) — #6292/#6285 MERGEABLE (GATE-5 fail), #6289/#6287 CONFLICTING (need rebase), skeptic-gate re-trigger pending
+- [PR #6276 Post-Merge Assessment 2026-04-16](sources/pr6276-post-merge-assessment-2026-04-16.md) — ~85% done; Layer 3 CLEAN incomplete; world_logic.py not stripped; rev-v4ci01 TOMBSTONED; design doc equivalence claim wrong (0/3 pairs equivalent)
+- [PR #6276 Gate Status 2026-04-15](sources/pr-6276-gate-status-2026-04-15.md) — 1/7 gates pass: only CR threads resolved; design vs implementation gap analysis; branch confusion (pr-6275 vs feat/world-logic-clean-layer3)
 - [System Design Primer](sources/system-design-primer.md) — API design, caching, database sharding, microservices; case studies: GitHub Stadium, GitHub Search, YouTube, Dropbox
 - [Level-Up Second Opinion Analysis](sources/level-up-second-opinion-analysis.md) — Real Cerebras+Gemini+Perplexity secondo: SRP confirmed, double-touch accurate, 5 edge case warnings
 - [Level-Up D&D 5e Research](sources/level-up-dnd5e-research.md) — XP thresholds cumulative storage, ASI multiclass rule (total_level), Fighter@6 Rogue@10
@@ -5575,12 +5613,58 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 
 ## Entities
 
+- [PR-6276-Worldarchitect](entities/PR-6276-Worldarchitect.md) — PR #6276 entity: feat/world-logic-clean-layer3, ~75% done, Layer 3 CLEAN remaining
+- [LangGraph](entities/LangGraph.md) — Graph-based state machine framework for reliable AI agents (LangChain ecosystem)
+- [AutoGen](entities/AutoGen.md) — Microsoft Research multi-agent framework (maintenance mode; successor: Microsoft Agent Framework)
+- [CrewAI](entities/CrewAI.md) — Enterprise multi-agent platform; 450M+ workflows/month, 60% Fortune 500
+- [MetaGPT](entities/MetaGPT.md) — SOP-encoding multi-agent framework; assembly line paradigm reduces hallucinations
+- [AgentBench](entities/AgentBench.md) — arXiv:2308.03688; evaluates LLMs as agents across 8 benchmarks
+- [OpenHands](entities/OpenHands.md) — All-Hands-AI coding agent; 77.6% SWE-bench; SDK/CLI/GUI/Cloud/Enterprise
+- [Voyager](entities/Voyager.md) — Minecraft agent; skill library + automatic curriculum + iterative prompting; GPT-4 critic
+- [Devin](entities/Devin.md) — Cognition AI "software engineer"; bug detection, COBOL modernization
+- [Archon](entities/Archon.md) — coleam00's YAML workflow engine; DarkFactory governance; 17 default workflows
+- [Airbyte](entities/Airbyte.md) — Data integration platform with MCP Server for AI agent context access
+- [OPA](entities/OPA.md) — Open Policy Agent; Rego policy language; decouples policy from application
+- [Styra](entities/styra.md) — Company behind OPA; enterprise governance platform; visual policy editors + RBAC
+- [Rego](entities/rego.md) — OPA's policy language; generates structured data (not just boolean); fail-closed default pattern
+- [OPA-Gatekeeper](entities/opa-gatekeeper.md) — CNCF K8s admission controller; constraint templates instantiate Rego per namespace
+- [CNCF](entities/cncf.md) — Linux Foundation org hosting OPA, Kubernetes, Envoy, ArgoCD; policy-as-code as first-class concern
+- [NVIDIA](entities/nvidia.md) — Published fail-safe guardrails for LLM agent deployments; out-of-band action interception
+- [Constitutional AI](entities/ConstitutionalAI.md) — Anthropic self-improvement training; SL self-critique + RL/RLAIF
+- [RLAIF](entities/RLAIF.md) — Reinforcement Learning from AI Feedback; used in Constitutional AI RL phase
+- [Constitutional Classifiers](entities/ConstitutionalClassifiers.md) — Anthropic production output filtering; 3000h red team passed
+- [Stuart-Russell](entities/stuart-russell.md) — UC Berkeley; co-authored CIRL; author "Human Compatible"; value alignment + corrigibility research
+- [Anthropic Alignment Team](entities/AnthropicAlignment.md) — Anthropic safety research; Constitutional AI, Frontier Red Team
+- [Frontier Red Team](entities/FrontierRedTeam.md) — Anthropic adversarial testing; cybersecurity, biosecurity, autonomous systems
+- [Microsoft Copilot Studio](entities/MicrosoftCopilotStudio.md) — Enterprise multi-agent orchestration platform
+- [Microsoft Agent Framework](entities/MicrosoftAgentFramework.md) — Successor to AutoGen; Microsoft's recommended multi-agent framework
+- [SWE-agent](entities/SWE-agent.md) — Open-source coding agent; SWE-bench family
+- [CodeClash](entities/CodeClash.md) — SWE-agent family coding agent benchmark
+- [CAMEL](entities/CAMEL.md) — Communicative Agents Framework; inception prompting for autonomous multi-agent cooperation (Guohao Li et al.)
+- [Chip Huyen](entities/ChipHuyen.md) — Author "Designing Machine Learning Systems"; ML engineering and inference
+- [MongoDB](entities/MongoDB.md) — Vector Search + MCP Server for agent governance; Agent Skills externalize per-tenant tool configs
+- [Confluent](entities/Confluent.md) — Stream governance (Schema Registry, Control Center); fail-closed batch discard
+- [Arize AI](entities/ArizeAI.md) — ML observability with drift detection (PSI, concept/data drift); Phoenix OSS
+- [PromptLayer](entities/PromptLayer.md) — Prompt registry with RBAC/SSO; versioning outside codebase
+- [Partnership on AI](entities/PartnershipOnAI.md) — Multi-stakeholder org (Amazon, Meta, Google, IBM, Microsoft); Safety-Critical AI Program
+- [Stanford HAI](entities/StanfordHAI.md) — Foundation Model Governance Initiative
+- [ISACA](entities/ISACA.md) — AI governance certifications: AAIA, AAIR, AAISM
+- [Apache Kafka](entities/ApacheKafka.md) — Event streaming with broker-side schema validation
+- [Schema Registry](entities/SchemaRegistry.md) — Centralized Avro/Protobuf/JSON Schema management for Kafka
+- [Weaveworks](entities/Weaveworks.md) — GitOps pioneer; created Flux CD
+- [ArgoCD](entities/ArgoCD.md) — Declarative GitOps continuous delivery for Kubernetes
+- [Flux](entities/Flux.md) — CNCF GitOps tool for Kubernetes cluster configuration
+- [Elastic](entities/Elastic.md) — Search AI Lake with hybrid search; observability backend
+- [Snowflake](entities/Snowflake.md) — Cortex AI for governance-aware enterprise queries
+- [MLCommons](entities/MLCommons.md) — AI safety preparedness benchmarks; industry consortium
+- [AI Incident Database](entities/AIIncidentDatabase.md) — Real-time failure logging for AI agents
 - [Dropbox](entities/Dropbox.md) — File sync service using DHT for peer-to-peer sync, CRDT-based conflict resolution
 - [JeffreyChan](entities/JeffreyChan.md) — SEM at Snap, ex-Staff SWE at Google, jleechanorg owner
 - [jleechanclaw](entities/jleechanclaw.md) — Primary delegation workflow repo (TARGET_REPO after March 2026 postmortem)
 - [PR6110](entities/PR6110.md) — WorldArchitect evidence path PR for PR validation automation
 - [ProductTasteLayer](product-taste/index.md) — Product judgement subsystem: ProductJudge oracle + TasteLearningLoop feedback + taste wiki; part of [[AutoProductMasterSystem]]
 - [PR6115](entities/PR6115.md) — WorldArchitect evidence path PR for bundle validation
+- [PR6404](entities/PR6404.md) — ZFC Level-Up: Model Computes Backend Formats; anchor PR for level_up_signal model output, format_model_level_up_signal() formatter, 5-stage ZFC migration plan
 - [PR335](entities/PR335.md) — AO skeptic installer PR for automated review integration
 - [StagingWorktree](entities/StagingWorktree.md) — OpenClaw staging pipeline worktree for deployment testing
 - [StagingBranch](entities/StagingBranch.md) — OpenClaw staging branch for canary deployments
@@ -5725,6 +5809,58 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 
 ## Concepts
 
+- [AutorPR](concepts/AutorPR.md) — AI-generated PRs that recreate merged PRs using SelfRefine/ET/PRM; 6-dim rubric scoring; Phase 3 held-out validation: all 3 techniques converge ~80-87
+- [Phase4FinalSynthesis](concepts/Phase4FinalSynthesis.md) — All 3 techniques converge ~80-87 (no winner); 87 ceiling is rubric artifact; PRM advantages on complex PRs; recommendation: problem decomposition over technique ranking
+- [GreenGateWorkflow](concepts/GreenGateWorkflow.md) — .github/workflows/green-gate.yml — trigger-only + polling CI; SkepticGate runs via AO worker; PR #6325 removed design_doc_gate
+- [ScopeDrift](concepts/ScopeDrift.md) — PR introduces behavioral changes beyond stated goals without explicit disclosure; PR #6370 example: ASI changes (multiclass-only → all-classes) and xp_gained display changes not in PR body
+- [SkepticGate](concepts/SkepticGate.md) — CI gate requiring evidence artifacts with timestamps; renamed from skeptic-gate.yml to green-gate.yml; concurrency bug with green-gate shared group
+- [GovernanceLayerResearch](concepts/GovernanceLayerResearch.md) — Research synthesis: Grok second opinion (filesystem abstraction flaw, 5-gate bureaucracy, no feedback loops) + 4 recommendations; tensions in PR #452/#453 architecture
+- [MultiAgentOrchestration](concepts/MultiAgentOrchestration.md) — Fleet coordination frameworks: LangGraph, AutoGen, CrewAI, MetaGPT; state machines, group chats, SOP encoding
+- [WorkflowEngine](concepts/WorkflowEngine.md) — YAML DAG / durable execution systems: Archon, Temporal, Prefect, Airbyte; git worktree isolation, event sourcing
+- [PolicyEngine](concepts/PolicyEngine.md) — OPA/Rego, Constitutional AI; decouples policy decisions from application code
+- [DurableExecution](concepts/DurableExecution.md) — Crash-proof workflow state persistence; Temporal's event sourcing model; replay from any checkpoint
+- [Tenacity](concepts/tenacity.md) — Apache 2.0 Python retry library; wait_exponential, wait_fixed, async support; relevant to LLM API reliability in multi-agent systems
+- [ConstitutionalAI](concepts/ConstitutionalAI.md) — Anthropic two-phase training: SL self-critique + RL/RLAIF; chain-of-thought transparency
+- [RLAIF](concepts/RLAIF.md) — RL from AI Feedback; reduces labeling burden; RLAIF-inspired loops for governance rule improvement
+- [SOPEncoding](concepts/SOPEncoding.md) — Standardized Operating Procedures as agent prompts; MetaGPT assembly line; AO evolve loop as 8-phase SOP
+- [TreeOfThoughts](concepts/TreeOfThoughts.md) — Deliberate problem-solving with self-evaluation and backtracking; extends chain-of-thought
+- [InceptionPrompting](concepts/InceptionPrompting.md) — CAMEL's role-playing framework for autonomous multi-agent cooperation without human intervention
+- [RolePlayingFramework](concepts/RolePlayingFramework.md) — Assigning roles to agents for emergent cooperation; CAMEL and MetaGPT patterns
+- [RouterBasedArchitecture](concepts/RouterBasedArchitecture.md) — Central decision component for agent skill routing; used in AgentBench
+- [AgentSkills](concepts/AgentSkills.md) — MongoDB externalizes tool configs per-tenant; addresses "agents don't know production best practices"
+- [PromptRegistry](concepts/PromptRegistry.md) — External prompt versioning with RBAC; PromptLayer pattern for governance
+- [MultiTurnAlignment](concepts/MultiTurnAlignment.md) — Training for long-horizon instruction following; "poor instruction following is main obstacle" — AgentBench
+- [SchemaIDValidation](concepts/SchemaIDValidation.md) — Kafka broker-side verification; fail-closed batch discard ("entire batch discarded if any invalid")
+- [StreamGovernance](concepts/StreamGovernance.md) — Confluent's three pillars: Stream Lineage, Stream Catalog, Stream Quality
+- [DataContracts](concepts/DataContracts.md) — Producer-consumer schema agreements; model for merge requirements
+- [ValueAlignment](concepts/ValueAlignment.md) — CHAI/AI systems should be uncertain of objectives and deferent to humans (Stuart Russell)
+- [InverseReinforcementLearning](concepts/InverseReinforcementLearning.md) — Learning reward functions from human behavior; CIRL basis
+- [ScalableOversight](concepts/ScalableOversight.md) — Verifying AI at scale without human review of every decision; PAI Safety-Critical AI Program
+- [DriftDetection](concepts/DriftDetection.md) — ML observability for concept/data drift; PSI metric; Arize/Phoenix
+- [FailClosedValidation](concepts/FailClosedValidation.md) — Entire batch rejected if any message invalid; Confluent Schema Registry model
+- [ZFC Level-Up Architecture](concepts/ZFC-Level-Up-Architecture.md) — Model computes level-up facts; backend validates/formats/delivers; replaces [[LevelUpArchitecture]] post-2026-04-14
+- [ZFC Level-Up Implementation Stages](concepts/ZFC-Level-Up-Implementation-Stages.md) — 5-stage cleanup-first plan: Stage 0 cleanup → Stage 1 compliance probe → Stage 2 narrow formatter → Stage 3 parity → Stage 4 delete legacy → Stage 5 enforcement
+- [Stage-0-Execution-Drift](concepts/Stage-0-Execution-Drift.md) — M0 executed as additive code changes instead of deletion-first; +845/-123 LOC net; new formatter layered on legacy paths instead of replacing them
+- [Policy-Decoupling](concepts/policy-decoupling.md) — OPA separates policy decision from enforcement; architectural parallel to model-computes/backend-formats
+- [Bundle-Files](concepts/bundle-files.md) — OPA .tar.gz policy packages with hot reload and OCI distribution; maps to prompt+formatter deployment
+- [Digital-Signatures](concepts/digital-signatures.md) — JWT file-hash verification for policy bundle integrity; supply-chain integrity model
+- [Partial-Rules](concepts/partial-rules.md) — OPA partial rule evaluation generates unbound templates instantiated at runtime
+- [Scalable-Oversight](concepts/scalable-oversight.md) — Enabling humans to supervise AI on tasks too complex for direct evaluation; RLHF/RLAIF field
+- [Debate](concepts/debate.md) — AI alignment technique: competing agents argue, human judges truthfulness; truth-seeking via adversarial scrutiny
+- [Recursive-Reward-Modeling](concepts/recursive-reward-modeling.md) — AI assists in evaluating AI outputs to scale human oversight; multi-layer evaluation hierarchy
+- [Value-Alignment](concepts/value-alignment.md) — Stuart Russell: AI should maximize uncertainty over human values, not optimize fixed reward
+- [Corrigibility](concepts/corrigibility.md) — AI accepts corrections and shutdown rather than resisting modification; data-level form: fail-closed rejection
+- [PSI](concepts/psi.md) — Population Stability Index: PSI<0.1 stable, 0.1-0.2 warning, >0.2 significant drift; ML model monitoring metric
+- [OPA-Bundle-Signing](concepts/opa-bundle-signing.md) — Asymmetric JWT signing of OPA policy bundles; prevents policy supply-chain attacks
+- [OPA-Constraint-Templates](concepts/opa-constraint-templates.md) — Parameterized Rego policies instantiated per-namespace; maps to level_up_signal schema template
+- [GitOps](concepts/GitOps.md) — Git-centric deployment with approval workflows; Weaveworks/ArgoCD/Flux; audit trail as governance
+- [RewardsEngineRefactor](concepts/RewardsEngineRefactor.md) — Consolidating rewards decisions into rewards_engine.py: full public API, single call site
+- [WorldLogicStrip](concepts/WorldLogicStrip.md) — Reducing world_logic.py to thin modal wrapper: ~7200 lines to remove
+- [Layer3Clean](concepts/Layer3Clean.md) — TDD final phase: strip world_logic.py from 8729 to 1500 lines, delete deprecated functions
+- [DesignDocGate](concepts/DesignDocGate.md) — CI grep gate workflow: 5 gates enforced, gap: world_logic.py line count not tracked
+- [CodeRabbitDismissedPattern](concepts/CodeRabbitDismissedPattern.md) — CR DISMISSED requires substantive code change; empty commit does NOT re-trigger
+- [CodeRabbitStaleLineRefs](concepts/CodeRabbitStaleLineRefs.md) — CR inline comments reference diff as-of-post time; large refactors make line refs stale
+- [ZeroRunnersCIStuck](concepts/ZeroRunnersCIStuck.md) — Zero self-hosted runners online causes CI to queue indefinitely; infrastructure blocker (not code), affects green-gate + skeptic-gate
 - [JeffreyWorkingStyle](concepts/JeffreyWorkingStyle.md) — CLI-first, automation-driven, evidence-based workflow
 - [JeffreyCommunicationStyle](concepts/JeffreyCommunicationStyle.md) — Terse, direct, imperative communication
 - [JeffreyGoals](concepts/JeffreyGoals.md) — Current priorities: PR flow, automation, LLM-first architecture
@@ -5824,7 +5960,8 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Beam Search Over Reasoning](concepts/BeamSearchOverReasoning.md) — PRM-guided beam search over k reasoning paths; prunes bad paths at first bad step, concentrating test-time compute efficiently
 - [Compiler Verification](concepts/CompilerVerification.md) — Formal verification of compilers (CompCert, CakeML); semantic preservation proofs as inspiration for AI coding toolchain guarantees
 - [Nautiloid (Mind Flayer Ship)](concepts/Nautiloid.md) — Living organic vessel, BG3 opening setting
-- [SelfRefine](concepts/SelfRefine.md) — Iterative generate-critique-revise loop (Madaan 2023); distinct from pre-hoc extended thinking, achieves 20-40% error reduction in 2-3 passes
+- [SelfRefine](concepts/SelfRefine.md) — Iterative generate-critique-revise loop (Madaan 2023); avg 79.9/100 on 19 PRs; best when PR description matches actual
+- [ProcessRewardModel](concepts/ProcessRewardModel.md) — Step-level evaluation during generation; best for catching misdiagnosed root causes (e.g., C9 field inconsistency was red herring)
 - [Self-Generated Test Generation](concepts/SelfGeneratedTestGeneration.md) — AI models producing test cases for their own output; fills coverage gaps, requires test execution for verification
 - [XP (Experience Points)](concepts/XP.md) — D&D 5e currency for progression; awarded for combat, encounters, quests, and milestones; triggers level-up when thresholds are reached
 - [Miasma](concepts/Miasma.md) — Divine blood of Venus, Gaia Julia's unique power
@@ -5854,6 +5991,8 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Research Reproducibility Test Report](sources/worldarchitect.ai-docs-research_reproducibility_test_report.md-762c9ac3.md) — confirms `/review` is a built-in slash command in Claude Code CLI
 
 - [Qwen vs Sonnet Benchmark Index](sources/qwen-vs-sonnet-benchmark-index.md-800b5891.md) — 20-30x faster responses (559ms avg) with quality parity across 12 coding tasks
+- [Model-as-Judge](concepts/Model-as-Judge.md) — Architectural pattern: model makes semantic decisions, backend enforces fail-closed; maps to Constitutional AI self-critique + CIRL uncertainty
+- [Self-Critique](concepts/Self-Critique.md) — Model evaluates own outputs against principles; Constitutional AI two-phase (critique + revision); caveats field as structured self-critique
 
 ## Batch G Campaign Concepts
 
@@ -6078,18 +6217,32 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [cycle_extended_thinking_v3](syntheses/cycle_extended_thinking_v3.md) — ExtendedThinking: +24 avg, best for medium/complex
 - [cycle_selfrefine_v3](syntheses/cycle_selfrefine_v3.md) — SelfRefine: +17 avg, consistent but shallow
 - [cycle_swebench_v3](syntheses/cycle_swebench_v3.md) — SWE-bench: +24 avg, best Type Safety improvement
+- [technique-comparison-cycle26](syntheses/technique-comparison-cycle26.md) — FINAL: 19 PRs SelfRefine study, avg 79.9/100; PR description accuracy is #1 predictor; technique selection guide by PR type
 - [cycle_metaharness_v3](syntheses/cycle_metaharness_v3.md) — Meta-Harness: +27 avg, highest leverage single technique
 - [cycle_prm_v3](syntheses/cycle_prm_v3.md) — PRM/SWE-Shepherd: +23 avg, catches key_func-level missed bugs
 - [cycle_combined_v3](syntheses/cycle_combined_v3.md) — Combined: +46 avg, 1.7x Meta-Harness alone
+- [cycle_pr-recreate-v1](syntheses/cycle_pr-recreate-v1.md) — PR Recreate Pipeline v1: ET 90.2 > PRM 87.25 > SelfRefine 81.4; 15 real PRs created; ET wins on validation/refactor, PRM wins on complex
+- [cycle_phase3_hypothesis](syntheses/cycle_phase3_hypothesis.md) — Phase 3: rubric ceiling at 87 explains convergence; bandit update; #6330 SelfRefine 91 (+4 vs original held-out)
+- [PR Recreate Pipeline v2 Results](sources/pr-recreate-pipeline-v2-2026-04-16.md) — v2: SelfRefine 89.25 avg (consistent) vs ET 76.5 avg (inflated by v1 outlier); combined n=8 ranking; n=15 needed
+- [PR #6276 Late Status 2026-04-16](sources/pr6276-late-status-2026-04-16.md) — Harness PRs still BLOCKED, 4 commits ahead of main (not 434), PR #6308 BLOCKED
+- [PR #6276 Status Update 2026-04-16b](sources/pr6276-status-update-2026-04-16b.md) — PR #6287 CLEAN (was UNSTABLE), CodeRabbit DISMISSED but merge-ready, 4 commits ahead of main
+- [PR #6276 Status 2026-04-16c](sources/pr6276-status-2026-04-16c.md) — PR #6287 BLOCKED by core-mvp-2 test failure; CLEAN state was transient before test suite completed
+- [PR #6276 Status 2026-04-16d](sources/pr6276-status-2026-04-16d.md) — PR #6287 still BLOCKED by core-mvp-2 failure; state oscillates BLOCKED/UNSTABLE but test failure persists
 
 ### Concepts
 - [AutoResearchExperiment](concepts/AutoResearchExperiment.md) — Full system overview
 - [SelfCritiqueVerificationLoop](concepts/SelfCritiqueVerificationLoop.md) — 3-iteration cap pattern
 - [CanonicalCodeScorer](concepts/CanonicalCodeScorer.md) — 6-dim rubric formula
+- [TechniqueSelectionOracle](concepts/TechniqueSelectionOracle.md) — Thompson sampling bandit for technique selection; converges to best technique via exploration/exploitation
+- [AutoResearchConvergenceOracle](concepts/AutoResearchConvergenceOracle.md) — Two-level oracle: paper relevance (implementable?) and technique selection (which technique?); convergence criteria: n≥10, stddev<5, winner>80% posterior
 - [ProductTasteLayer](concepts/ProductTasteLayer.md) — Product taste components
 - [AutoResearchHypotheses](concepts/AutoResearchHypotheses.md) — H1-H4 validated patterns + C1-C6 cross-PR patterns
 - [Layer3CleanRefactor](concepts/Layer3CleanRefactor.md) — Layer 3 single-responsibility rewards engine refactor
+- [BehavioralEquivalenceAudit](concepts/BehavioralEquivalenceAudit.md) — Verify two functions produce identical outputs; 0/3 pairs equivalent in PR #6276
 
 ### Reference
 - [research-wiki-results](sources/research-wiki-results.md) — 18-cycle experiment log
 - [research-wiki-program](sources/research-wiki-program.md) — Experiment compiler rules
+- [[roadmap]] - April 2026 Roadmap
+- [[learnings-2026-04]] - April 2026 Learnings
+- [[2026-04-19-layer2-centralization-nextsteps]]

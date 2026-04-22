@@ -1,0 +1,23 @@
+{
+  "pr": 6269,
+  "technique": "SR-prtype",
+  "naming": 95,
+  "error_handling": 90,
+  "type_safety": 100,
+  "architecture": 95,
+  "test_coverage": 0,
+  "documentation": 95,
+  "total": 80.75,
+  "breakdown": "Ports CodeRabbit fallback logic to Skeptic Gates workflows, adding error handling with pipefail guards and exit code checking. The changes add a secondary approval path when CodeRabbit doesn't leave a formal review (checks status + bot comment). Good variable naming and comments explaining the fallback rationale.",
+  "key_changes": [
+    "Added CR fallback logic in skeptic-gate.yml Gate-3: checks formal review first, then status + comment as fallback",
+    "Added set +e -o pipefail guards around gh api calls to capture and handle failures",
+    "Expanded user matching from 'coderabbitai[bot]' to include 'coderabbitai'",
+    "Added same fallback logic to skeptic-cron.yml for consistency",
+    "Changed approval regex from strict '^(?m)^\\s*\\[approve\\]\\s*$' to simpler '\\[approve\\]'"
+  ],
+  "commit_sha": "35b736d9658cd1e0203503fecf4c50a8e4a809ec",
+  "run_session": "SR-prtype-20260418T183013Z",
+  "last_updated": "2026-04-18T18:32:25.841149+00:00",
+  "sample_number": 1
+}

@@ -1,0 +1,9 @@
+# SR-multi-exemplar Generation for PR #6265
+Timestamp: 2026-04-18T18:20:22.571234+00:00
+Technique: SR-multi-exemplar
+
+## PR Context
+Title: [antig] [Fix] Normalize rewards box in streaming passthrough
+
+## Generation Response (4314 chars)
+Extracted code: 3342 chars
