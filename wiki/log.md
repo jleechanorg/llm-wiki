@@ -3659,3 +3659,13 @@ Stage 0 drift analysis: M0 was supposed to delete legacy paths (+845/-123 LOC); 
 - P7: Redesigned rubric (commit `7b59ce9`): 6-dim 100pt, Insight heaviest (25pts), 5=floor not ceiling, behavioral anchors for 8+, accuracy gate caps at 3/10, 500-char error detection
 - P8: Benchmark re-run started Q1/15 (~6h expected)
 - Wiki: `roadmap/nextsteps-2026-04-21-chimera.md` updated
+
+## [2026-04-21] ingest | ZFC level-up PR task specs + 3 PR sources + entities
+
+- wiki-ingest: /Users/jleechan/roadmap/zfc-pr-task-specs-2026-04-22.md
+- wiki-ingest: PR #6420, #6404, #6434 source pages
+- wiki-ingest: ZFC Level-Up PR Tracking concept
+- wiki-ingest: PR #6420, #6404, #6434 entity pages
+- Note: rev-lmdo/rev-23eq/rev-7yt7/rev-cujw/rev-usv2/rev-c726/rev-ahpi/rev-v0x7 beads NOT FOUND in local bead store
+- Note: All 3 PRs have lost headRefName (null via API); commits on main
+## [2026-04-21] ingest | fork-skeptic-extension.ts

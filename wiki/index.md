@@ -14,6 +14,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
+- [fork-skeptic-extension.ts — 2026-04-21](sources/fork-skeptic-extension.md) — Skeptic extension module for AO fork: extracted skeptic-review reaction from lifecycle-manager.ts; runSkepticReviewReaction() handles verdicts with SKIPPED as non-success
+- [ZFC Loop Current-Head Comment Gate — 2026-04-21](sources/2026-04-21-zfc-loop-current-head-comment-gate.md) — Loop supervision lesson: current-head `/smoke`, `/er`, and bot-failure comments block worker parking even when standard checks look green
+- [AO Worker Failure Investigation — 2026-04-21](sources/2026-04-21-ao-worker-failure-investigation.md) — AO archive and lifecycle proof that wrong-agent launch, stuck-probe churn, and ownership drift caused the `#6420` / `#6404` worker failures
 - [Level-Up ZFC Loop Postmortem — 2026-04-21](sources/2026-04-21-level-up-zfc-loop-postmortem.md) — Postmortem: `#6420` stayed red because the loop treated `upstream-owned` as a stable wait state instead of forcing rapid fresh-main revalidation and branch reclassification
 - [ZFC Level-Up PR Status — 2026-04-21](sources/2026-04-21-level-up-zfc-pr-status.md) — PR queue snapshot: #6423/#6422 merge-ready; #6420 Stage 0 CHANGES_REQUESTED + harness contract hash mismatch; #6404 APPROVED; #6418 parked
 - [ZFC Level-Up Stage 0 Execution Drift — 2026-04-20](sources/zfc-level-up-stage0-execution-drift-2026-04-20.md) — Stage 0 added code instead of deleting: +845/-123 LOC; M0 0% complete; PR lifecycle management consumed time instead of M0-PR1/PR2/PR3 deletion work
@@ -6246,3 +6249,8 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [[roadmap]] - April 2026 Roadmap
 - [[learnings-2026-04]] - April 2026 Learnings
 - [[2026-04-19-layer2-centralization-nextsteps]]
+
+- [pr-6420-zfc-level-up-m0-cleanup](sources/pr-6420-zfc-level-up-m0-cleanup.md) — ZFC M0 cleanup lane: duplicate early projection removal, responsibility headers, schema contract refresh
+
+- [pr-6404-level-up-model-owned-signal-formatter](sources/pr-6404-level-up-model-owned-signal-formatter.md) — ZFC architecture lane: model-owned level_up_signal field, rewards_engine canonicalize_rewards prefer
+- [pr-6434-rename-prepare-gemini-request-to-llm-request](sources/pr-6434-rename-prepare-gemini-request-to-llm-request.md) — Net 0 LOC rename of prepared.gemini_request → prepared.llm_request
