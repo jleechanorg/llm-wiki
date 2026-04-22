@@ -1,0 +1,22 @@
+SWE-bench Live Run
+PR: WA-005
+Session: swebench-live-20260414231703
+=== Output ===
+
+
+Scored against canonical patterns (FastAPI, TypedDict, single-responsibility):
+
+| Dimension | Score | Evidence |
+|-----------|-------|----------|
+| **Naming** | 13/15 | snake_case helpers (`_extract_xp_robust`, `_xp_increased`, `_enforce_primary_rewards_box_postcondition`), constants `FIELD_REWARDS_BOX`, `MODE_REWARDS` — strong. Minor deduction: `build_level_up_rewards_box` mixes underscore/camel within same function family. |
+| **Error Handling** | 16/20 | `RuntimeError` with descriptive message when both synthesis paths fail (line 1350-1355) — fail-closed. Type guards in `_normalize_rewards_box_for_ui` return `None` sentinel. Early returns for `MODE_REWARDS`. Missing: no custom exception class (generic `RuntimeError`), no recovery path if `_project_level_up_ui_from_game_state` raises. |
+| **Type Safety** | 12/20 | `RewardsBox` TypedDict with strict field validation (`validate_rewards_box`), `TypedDict` for `GameState` data shapes. `Any` used only at system boundary (`llm_response_obj: Any`). Deduction: `custom_campaign_state` accessed as `dict` with no `isinstance` guard inside critical path; `_requires_primary_rewards_box` falls back to `GameState.from_dict` with `None` check but no TypedDict enforcement on output. |
+| **Architecture** | 16/20 | Clean separation: pure helper functions (`_xp_increased`, `_response_has_displayable_rewards_box`, `_normalize_rewards_box_for_ui`) vs. postcondition enforcement (`_enforce_primary_rewards_box_postcondition`). Single-call path replaces async followup. Two synthesis strategies (level-up canonical + generic fallback). Deduction: `SimpleNamespace()` mutation on `llm_response_obj` is a side effect hidden inside enforcement; `_enforce_primary_rewards_box_postcondition` mutates `llm_response_obj.structured_response.rewards_box` rather than returning a value. |
+| **Test Coverage** | 14/15 | `test_level_up_stale_flags.py` (346 lines), `test_rewards_box_schema.py` (10 tests, full schema validation), `test_rewards_box_normalizer_sentinel.py` (15 tests), `test_rewards_box_xp_zero_condition.py`. Covers: stale flag clearing, schema enforcement, sentinel contract, XP-zero visibility. Missing: no test for the `RuntimeError` path when both synthesis paths fail, no test for `include_xp_increase=False` flag. |
+| **Documentation** | 6/10 | Docstrings on all new functions (Args, Returns). Line-level comments explaining architectural decisions. But: no class/module docstring, `_enforce_primary_rewards_box_postcondition` docstring is 1 line with no Args description, no README for the postcondition pattern. |
+
+**Total: 77/100** — Baseline 50 → **+27 delta**
+
+```json
+{"naming": 13, "error_handling": 16, "type_safety": 12, "architecture": 16, "test_coverage": 14, "documentation": 6, "total": 77, "baseline": 50, "delta": 27}
+```

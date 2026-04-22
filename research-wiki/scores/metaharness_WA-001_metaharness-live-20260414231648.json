@@ -1,0 +1,17 @@
+{
+  "run_id": "metaharness_WA-001_metaharness-live-20260414231648",
+  "technique": "metaharness",
+  "pr": "WA-001",
+  "status": "completed",
+  "scores": {
+    "naming": 14,
+    "error_handling": 14,
+    "type_safety": 16,
+    "architecture": 16,
+    "test_coverage": 14,
+    "documentation": 9,
+    "total": 83,
+    "baseline": 50,
+    "delta": 33
+  }
+}

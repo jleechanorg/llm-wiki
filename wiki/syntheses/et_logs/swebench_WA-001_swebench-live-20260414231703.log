@@ -1,0 +1,40 @@
+SWE-bench Live Run
+PR: WA-001
+Session: swebench-live-20260414231703
+=== Output ===
+
+
+**Issue #6205 Analysis — rewards_box schema enforcement**
+
+**Relevant files:**
+- `mvp_site/custom_types.py:94-137` — TypedDict + `validate_rewards_box()`
+- `mvp_site/world_logic.py:118-167` — `normalize_rewards_box_for_ui()`
+- `mvp_site/world_logic.py:1110-1141` — `_synthesize_generic_rewards_box()`
+- `mvp_site/tests/test_rewards_box_schema.py` — 10 tests, all passing
+
+**Scoring:**
+
+| Dimension | Score | Assessment |
+|-----------|-------|------------|
+| Naming | 14/15 | snake_case, FastAPI conventions — minor: TypedDict field docstrings missing |
+| Error Handling | 17/20 | TypedDict, fail-closed validation — missing typed exception class |
+| Type Safety | 16/20 | TypedDict + validation function, no `Any` leaks — `coerce_int` uses `Any` param |
+| Architecture | 16/20 | Single-responsibility split (normalize vs validate) — duplicate `_normalize_rewards_box_for_ui` exists |
+| Test Coverage | 13/15 | Edge cases covered (wrong types, unknown fields, missing fields, non-dict) — missing integration test |
+| Documentation | 6/10 | Docstrings present but missing Args/Returns for `validate_rewards_box` |
+
+**Total: 82/100** (baseline 50, delta +32)
+
+```json
+{
+  "naming": 14,
+  "error_handling": 17,
+  "type_safety": 16,
+  "architecture": 16,
+  "test_coverage": 13,
+  "documentation": 6,
+  "total": 82,
+  "baseline": 50,
+  "delta": 32
+}
+```

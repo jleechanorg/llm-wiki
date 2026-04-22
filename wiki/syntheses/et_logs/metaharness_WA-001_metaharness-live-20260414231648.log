@@ -1,0 +1,24 @@
+Meta-Harness Live Run
+PR: WA-001 (#6205)
+Session: metaharness-live-20260414231648
+Run ID: metaharness_WA-001_metaharness-live-20260414231648
+=== Agent Output ===
+**Scores saved to `/tmp/scores_metaharness_WA-001.json`**
+
+```json
+{"naming": 14, "error_handling": 14, "type_safety": 16, "architecture": 16, "test_coverage": 14, "documentation": 9, "total": 83, "baseline": 50, "delta": 33}
+```
+
+---
+
+### Scoring Rationale
+
+| Dimension | Score | Notes |
+|---|---|---|
+| **Naming** (15) | 14 | snake_case throughout. `RewardsBox` PascalCase is correct for TypedDict. All field names are clear RPG conventions. |
+| **Error Handling** (20) | 14 | Fail-closed (rejects unknown fields, wrong types). No custom exception class — just `bool` return. No detail on *which* field failed. |
+| **Type Safety** (20) | 16 | TypedDict with `total=False` on optional `progress_percent` is correct. `data: Any` parameter is the only escape hatch — acceptable for a validation function. |
+| **Architecture** (20) | 16 | Clean single-responsibility — TypedDict definition and validator are co-located in `custom_types.py`. Reusable and composable. No violations. |
+| **Test Coverage** (15) | 14 | Excellent coverage: valid data, missing field, wrong types (bool/int/list), non-dict input, unknown fields. Dedicated `test_rewards_box_schema.py`. |
+| **Documentation** (10) | 9 | Module docstring is solid. `validate_rewards_box` has Args/Returns behavior documented. Minor: no example in docstring. |
+| **Total** | **83** | **+33 vs 50 baseline** |

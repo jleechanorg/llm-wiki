@@ -1,0 +1,17 @@
+{
+  "run_id": "swebench_WA-005_swebench-live-20260414231703",
+  "technique": "swebench",
+  "pr": "WA-005",
+  "status": "completed",
+  "scores": {
+    "naming": 13,
+    "error_handling": 16,
+    "type_safety": 12,
+    "architecture": 16,
+    "test_coverage": 14,
+    "documentation": 6,
+    "total": 77,
+    "baseline": 50,
+    "delta": 27
+  }
+}
