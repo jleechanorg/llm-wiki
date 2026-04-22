@@ -1,22 +1,21 @@
 #!/usr/bin/env python3
 """
-Autor PR runner — creates real draft PRs on worldarchitect.ai using MiniMax.
+Autor branch committer — generates fixes and pushes commits to worldarchitect-autor-eval
+(no PR created). Records score + updates bandit state.
 
 Usage:
     python scripts/run_autor_pr.py --technique SR --pr-number 6420
     python scripts/run_autor_pr.py --technique ET --pr-number 6420
     python scripts/run_autor_pr.py --technique PRM --pr-number 6420
 
-Lifecycle (per autor PR):
-  1. Fetch diff of target PR
+Flow (per run):
+  1. Fetch diff of target PR from jleechanorg/worldarchitect.ai
   2. Generate fix using specified technique via MiniMax-M2.7
-  3. Open draft PR via autor_pr.open_draft_autor_pr()
+  3. Write autor_generated.py to ~/worldarchitect-ai-autor and push branch to
+     jleechanorg/worldarchitect-autor-eval (NO PR created)
   4. Score generated diff against 6-dim rubric
-  5. Write score JSON
+  5. Write score JSON + log
   6. Update bandit state
-  7. Close via autor_pr.close_after_score() — NEVER merge
-
-This is the script that /autor-n15-loop should invoke.
 """
 import argparse
 import json
@@ -483,26 +482,6 @@ Return ONLY the JSON object, no markdown fences."""
     return score
 
 
-# ── autor_pr lifecycle helpers (must import after checking existence) ───────────
-def _import_autor_pr():
-    spec = __spec__ = None
-    # Try scripts/autor_pr.py first (local module)
-    sys.path.insert(0, str(Path(__file__).parent))
-    try:
-        import autor_pr
-        return autor_pr
-    except ImportError:
-        pass
-    # Fallback: try parent directory
-    parent = Path(__file__).parent.parent
-    sys.path.insert(0, str(parent))
-    try:
-        import scripts.autor_pr as autor_pr
-        return autor_pr
-    except ImportError:
-        return None
-
-
 def main():
     parser = argparse.ArgumentParser(description="Autor PR workflow")
     parser.add_argument("--technique", required=True, choices=[
@@ -535,9 +514,6 @@ def main():
         print("ERROR: no code generated")
         sys.exit(1)
 
-    # 3. Push branch first (needed for test execution + PR creation)
-    autor_pr = _import_autor_pr()
-    new_pr_number = None
     branch_name = f"autor-{technique.lower()}-{pr_number}-{datetime.now(tz=timezone.utc).strftime('%Y%m%d%H%M%S')}"
     file_content = f"# Autor {technique} PR\n# Target: #{pr_number}\n{code}"
 
@@ -547,32 +523,24 @@ def main():
             raise RuntimeError(f"git {' '.join(args)} failed: {r.stderr[:300]}")
         return r.stdout.strip()
 
-    print("Pushing branch for test execution...")
+    print("Pushing branch to autor-eval repo...")
     try:
+        run_git("fetch", "autor-eval", pr_info["base_ref"])
         run_git("fetch", "github", pr_info["base_ref"])
-        run_git("checkout", "-B", branch_name, f"github/{pr_info['base_ref']}")
+        run_git("checkout", "-B", branch_name, f"autor-eval/{pr_info['base_ref']}")
         (REPO_LOCAL / "autor_generated.py").write_text(file_content)
         run_git("add", "autor_generated.py")
         run_git("commit", "-m", f"autor: {technique} fix for PR #{pr_number}")
-        run_git("push", "-u", "github", branch_name, timeout=60)
-        print(f"Branch {branch_name} pushed")
+        run_git("push", "-u", "autor-eval", branch_name, timeout=60)
+        print(f"Branch {branch_name} pushed to autor-eval")
     except Exception as e:
         print(f"Branch/push failed: {e}")
 
-    # 4. Run tests via fork
-    print("Running tests via fork + workflow...")
-    test_result = run_tests_via_api("jleechan2015", branch_name, file_content, pr_info["base_ref"])
-    print(f"Tests: {test_result['passed']} passed / {test_result['failed']} failed")
-
-    # 5. Score
     print("Scoring...")
     score = score_diff(code, pr_info, technique)
-    score["test_passed"] = test_result["passed"]
-    score["test_failed"] = test_result["failed"]
-    score["test_output"] = (test_result["output"] + " | " + test_result.get("error", ""))[:1000]
     print(f"Score: {score['total']}/100")
 
-    # 6. Write score JSON + log
+    # 5. Write score JSON + log
     ts = datetime.now(tz=timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     SCORES_DIR.mkdir(parents=True, exist_ok=True)
     LOG_DIR.mkdir(parents=True, exist_ok=True)
@@ -588,54 +556,6 @@ def main():
 
     print(f"Score: {score_file}")
     print(f"Log: {log_file}")
-
-    # 7. Create draft PR (branch already pushed)
-    if autor_pr and hasattr(autor_pr, "open_draft_autor_pr"):
-        print("Using autor_pr.open_draft_autor_pr()...")
-        try:
-            new_pr_number = autor_pr.open_draft_autor_pr(
-                technique=technique,
-                title=f"recreation of #{pr_number}",
-                body=f"Autor eval PR — technique: {technique}\nTarget: https://github.com/{REPO_OWNER}/{REPO_NAME}/pull/{pr_number}\n\nEvaluation artifact — not a merge candidate.",
-                branch=branch_name,
-                base=pr_info["base_ref"],
-            )
-            print(f"Draft PR created: #{new_pr_number}")
-        except Exception as e:
-            print(f"autor_pr.open_draft_autor_pr failed: {e}")
-    else:
-        print("autor_pr helpers not available — using gh directly")
-        body = f"""Autor eval — technique: {technique}
-Target PR: https://github.com/{REPO_OWNER}/{REPO_NAME}/pull/{pr_number}
-Run session: {run_session}
-
-Evaluation artifact — NOT a merge candidate."""
-        title = f"[autor][{technique}] recreation of #{pr_number}"
-        create_r = subprocess.run([
-            "gh", "pr", "create",
-            "--repo", f"{REPO_OWNER}/{REPO_NAME}",
-            "--title", title,
-            "--body", body,
-            "--draft",
-            "--label", "autor",
-            "--base", pr_info["base_ref"],
-            "--head", branch_name,
-        ], capture_output=True, text=True)
-        if create_r.returncode == 0:
-            lines = create_r.stdout.strip().split("\n")
-            for line in lines:
-                if "/pull/" in line:
-                    parts = line.strip().split("/")
-                    for i, p in enumerate(parts):
-                        if p == "pull" and i + 1 < len(parts):
-                            try:
-                                new_pr_number = int(parts[i + 1])
-                            except ValueError:
-                                pass
-                    break
-            print(f"Draft PR created: #{new_pr_number}")
-        else:
-            print(f"gh pr create failed: {create_r.stderr[:300]}")
 
     # 6. Update bandit
     try:
@@ -672,33 +592,7 @@ Evaluation artifact — NOT a merge candidate."""
     except Exception as e:
         print(f"Bandit update failed: {e}")
 
-    # 7. Close PR (never merge)
-    if new_pr_number:
-        print(f"Closing PR #{new_pr_number}...")
-        if autor_pr and hasattr(autor_pr, "close_after_score"):
-            try:
-                autor_pr.close_after_score(
-                    pr=new_pr_number,
-                    technique=technique,
-                    score=score["total"],
-                    score_json_path=str(score_file),
-                )
-            except Exception as e:
-                print(f"close_after_score failed: {e}")
-                # Fallback gh close
-                subprocess.run([
-                    "gh", "pr", "close", str(new_pr_number),
-                    "--repo", f"{REPO_OWNER}/{REPO_NAME}",
-                    "--comment", f"autor eval: {technique} score={score['total']}. Closing — evaluation artifact."
-                ], check=False)
-        else:
-            subprocess.run([
-                "gh", "pr", "close", str(new_pr_number),
-                "--repo", f"{REPO_OWNER}/{REPO_NAME}",
-                "--comment", f"autor eval: {technique} score={score['total']}. Closing — evaluation artifact, not a merge candidate."
-            ], check=False)
-
-    print(f"\nDONE: {technique} on PR #{pr_number} → score={score['total']} PR=#{new_pr_number or 'N/A'}")
+    print(f"\nDONE: {technique} on PR #{pr_number} → score={score['total']} branch={branch_name}")
 
 
 if __name__ == "__main__":
