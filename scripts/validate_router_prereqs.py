@@ -148,7 +148,11 @@ def evaluate(
     # Per-technique n check
     techniques_state = state.get("techniques", {})
     per_technique_n = {
+<<<<<<< HEAD
 t: max(len(techniques_state.get(t, {}).get("observations", [])), techniques_state.get(t, {}).get("n", 0))
+=======
+        t: len(techniques_state.get(t, {}).get("scores", []))
+>>>>>>> 2c20d8b1 (fix(autor): add SR-adversarial technique, fix validate_router_prereqs observations->scores)
         for t in techniques_in_state
     }
     all_sufficient = all(n >= min_per_technique_n for n in per_technique_n.values())
