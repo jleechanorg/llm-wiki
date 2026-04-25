@@ -1,0 +1,40 @@
+{
+  "run_id": "P14-20260424T030521Z",
+  "mode_summary": {
+    "single": { "n": 21, "mean": 15.67, "stdev": 22.78, "min": 0.0, "max": 59.0, "latency_mean": 19.18 },
+    "fixed": { "n": 21, "mean": 62.98, "stdev": 24.3, "min": 0.0, "max": 121.75, "latency_mean": 18.2 },
+    "gnn": { "n": 21, "mean": 58.55, "stdev": 20.94, "min": 0.0, "max": 80.75, "latency_mean": 23.47 },
+    "router": { "n": 21, "mean": 43.21, "stdev": 30.93, "min": 0.0, "max": 82.25, "latency_mean": 26.89 }
+  },
+  "win_counts": { "single": 0, "fixed": 5, "gnn": 7, "router": 3 },
+  "error_rate_per_mode": { "single": 0.0, "fixed": 0.0, "gnn": 0.0, "router": 0.0 },
+  "router_accuracy": {
+    "correct": 6,
+    "total": 15,
+    "rate": 0.4
+  },
+  "query_count": 15,
+  "query_breakdown": {
+    "Q1": { "single": 0.0, "fixed": 50.0, "gnn": 77.65, "router": 5.0, "best": 77.65, "best_mode": "gnn" },
+    "Q2": { "single": 31.75, "fixed": 77.0, "gnn": 44.5, "router": 22.0, "best": 77.0, "best_mode": "fixed" },
+    "Q3": { "single": 0.0, "fixed": 68.0, "gnn": 51.5, "router": 36.0, "best": 68.0, "best_mode": "fixed" },
+    "Q4": { "single": 0.0, "fixed": 72.0, "gnn": 66.0, "router": 51.0, "best": 72.0, "best_mode": "fixed" },
+    "Q5": { "single": 0.0, "fixed": 63.0, "gnn": 77.5, "router": 0.0, "best": 77.5, "best_mode": "gnn" },
+    "Q6": { "single": 0.0, "fixed": 78.0, "gnn": 58.0, "router": 79.0, "best": 79.0, "best_mode": "router" },
+    "Q7": { "single": 0.0, "fixed": 61.0, "gnn": 65.5, "router": 0.0, "best": 65.5, "best_mode": "gnn" },
+    "Q8": { "single": 0.0, "fixed": 69.5, "gnn": 0.0, "router": 45.0, "best": 69.5, "best_mode": "fixed" },
+    "Q9": { "single": 0.0, "fixed": 55.0, "gnn": 0.0, "router": 0.0, "best": 55.0, "best_mode": "fixed" },
+    "Q10": { "single": 0.0, "fixed": 38.0, "gnn": 54.5, "router": 0.0, "best": 54.5, "best_mode": "gnn" },
+    "Q11": { "single": 0.0, "fixed": 68.0, "gnn": 58.0, "router": 74.0, "best": 74.0, "best_mode": "router" },
+    "Q12": { "single": 6.0, "fixed": 65.0, "gnn": 63.0, "router": 68.0, "best": 68.0, "best_mode": "router" },
+    "Q13": { "single": 5.0, "fixed": 74.0, "gnn": 32.0, "router": 45.0, "best": 74.0, "best_mode": "fixed" },
+    "Q14": { "single": 59.0, "fixed": 79.0, "gnn": 77.0, "router": 12.0, "best": 79.0, "best_mode": "fixed" },
+    "Q15": { "single": 0.0, "fixed": 74.0, "gnn": 68.0, "router": 82.0, "best": 82.0, "best_mode": "router" }
+  },
+  "timestamp": "2026-04-24T12:00:00Z",
+  "git_sha": "6525732d",
+  "git_branch": "llm_chimera",
+  "benchmark": "chimera-mode-router-v1",
+  "technique": "mode-router",
+  "rubric_version": "6-dim-v3"
+}

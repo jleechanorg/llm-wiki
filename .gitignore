@@ -8,6 +8,7 @@
 !wiki/entities/*.md
 !wiki/concepts/*.md
 !wiki/syntheses/*.md
+!research-wiki/syntheses/*.md
 !wiki/sources/*.md
 !skills/*.md
 !test-prs/*.md

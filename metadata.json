@@ -1,0 +1,21 @@
+{
+  "run_id": "P14-20260424T030521Z",
+  "timestamp_utc": "2026-04-24T03:05:21Z",
+  "technique": "mode-router",
+  "mode": "all",
+  "git_sha": "6525732d",
+  "git_branch": "llm_chimera",
+  "query_count": 15,
+  "error_rate": 0.0,
+  "checksum_mode": "aggregate_sha256",
+  "benchmark": "chimera-mode-router-v1",
+  "rubric_version": "6-dim-v3",
+  "modes_tested": ["single", "fixed", "gnn", "router"],
+  "router_accuracy": {
+    "correct": 6,
+    "total": 15,
+    "rate": 0.4
+  },
+  "aggregate_file": "aggregate.json",
+  "score_files_pattern": "research-wiki/scores/P14_*.json"
+}
