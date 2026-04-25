@@ -186,19 +186,14 @@ def main():
     with open(LOG, "a") as l:
         l.write(f"\n# SR-5iter 15-run batch start: {datetime.now(tz=timezone.utc).isoformat()}\n")
 
-    # PRs that have only 1 run (need 2 more each for n=3): 6409,6418,6420,6429,6432,6434,6436,6437,6438,6443,6444
-    # PRs that already have 3 runs: 6243,6245,6261,6265,6269 (already complete)
-    # For the 15-run batch, target 5 PRs with 3 runs each = 15 total
-    # Select PRs with only 1 run, adding runs to reach 3 each
-    prs_need_runs = [6409,6418,6420,6429,6432,6434,6436,6437,6438,6443,6444]
-    # For 15 runs, take 5 PRs with 3 runs each
-    target_prs = prs_need_runs[:5]  # 6409, 6418, 6420, 6429, 6432
+    # SR-5iter on matched PRs: 6254, 6270, 6273, 6275, 6277, 6420 — 2 runs each
+    target_prs = [6254, 6270, 6273, 6275, 6277, 6420]
 
     results = []
     run_session = f"SR-5iter-{datetime.now(tz=timezone.utc).strftime('%Y%m%dT%H%M%SZ')}"
 
     for pr_num in target_prs:
-        for run_num in range(1, 4):
+        for run_num in range(1, 3):  # 2 runs per PR
             print(f"\n{'='*60}")
             print(f"Running: PR #{pr_num} / SR-5iter / run {run_num}")
             print(f"{'='*60}")
