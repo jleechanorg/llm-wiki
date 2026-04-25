@@ -1,0 +1,19 @@
+{
+  "pr": "Q10",
+  "technique": "gnn",
+  "naming": 75,
+  "error_handling": 65,
+  "type_safety": 55,
+  "architecture": 40,
+  "test_coverage": 30,
+  "documentation": 70,
+  "total": 54.5,
+  "breakdown": "The answer appropriately flags the missing wiki context and provides generally accurate general knowledge about open-source code models, but suffers from weak evidence (no citations, no specific data) and lacks actionable guidance beyond generic model listings. The structure is clear but the insights are surface-level without novel synthesis or specific recommendations.",
+  "is_error": false,
+  "latency": 6.58,
+  "routed_to": "gnn",
+  "domain": "science",
+  "complexity": "low",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:53:47.739690+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "pr": "Q13",
+  "technique": "gnn",
+  "naming": 40,
+  "error_handling": 35,
+  "type_safety": 30,
+  "architecture": 25,
+  "test_coverage": 20,
+  "documentation": 45,
+  "total": 32,
+  "breakdown": "Answer appropriately acknowledges lack of information and requests clarification, which shows proper uncertainty flagging (good for error_handling dimension). However, provides zero factual content, insight, evidence, or actionable guidance. All substantive dimensions score low due to absence of relevant information - essentially a polite non-response that doesn't address the query's core topic.",
+  "is_error": false,
+  "latency": 18.05,
+  "routed_to": "gnn",
+  "domain": "business",
+  "complexity": "medium",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T04:04:49.217583+00:00"
+}

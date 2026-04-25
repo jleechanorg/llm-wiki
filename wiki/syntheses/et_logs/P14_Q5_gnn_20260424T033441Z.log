@@ -1,0 +1,8 @@
+[GNN] Loading graph for similarity search...
+[GNN] Top 5 keyword matches: ['ProcessRewardModels', 'RewardsProcessedFlag', 'pr-2755-debug-rewards-agent-level-up-pro', 'pr-3208-fix-rewards-add-double-processin', 'DeferredRewardsProtocol']
+
+Query: What are the failure modes of process reward models in multi-step reasoning?
+Domain: technical | Complexity: high
+Mode: gnn
+Latency: 20.9s
+Answer length: 6584 chars

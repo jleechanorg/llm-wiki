@@ -1,0 +1,9 @@
+[GNN] Loading graph for similarity search...
+[GNN] Loaded 31634 nodes
+[GNN] Top 5 keyword matches: ['AutonomousTaskAgentOrchestration', 'AutonomousAgentLoop', 'ThemeSystem', 'pr-31-feat-living-companions-phases-1-3-', 'pr-218-docs-clarify-autonomous-follow-up']
+
+Query: What are the main themes in autonomous AI research?
+Domain: science | Complexity: low
+Mode: gnn
+Latency: 42.4s
+Answer length: 5430 chars

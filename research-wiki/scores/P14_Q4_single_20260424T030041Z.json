@@ -1,0 +1,19 @@
+{
+  "pr": "Q4",
+  "technique": "single",
+  "naming": 10,
+  "error_handling": 5,
+  "type_safety": 5,
+  "architecture": 15,
+  "test_coverage": 5,
+  "documentation": 5,
+  "total": 7.75,
+  "breakdown": "Answer consists only of a single tool call to list a directory with no actual information about Extended Thinking models or recursion. Provides no content, coverage, insight, evidence, or actionability. Structure is minimal - just the function invocation with no response or follow-up.",
+  "is_error": false,
+  "latency": 9.06,
+  "routed_to": "single",
+  "domain": "science",
+  "complexity": "medium",
+  "run_session": "P14-20260424T025936Z",
+  "last_updated": "2026-04-24T03:00:47.520680+00:00"
+}

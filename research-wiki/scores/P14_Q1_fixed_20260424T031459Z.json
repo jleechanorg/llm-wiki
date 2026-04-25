@@ -1,0 +1,19 @@
+{
+  "pr": "Q1",
+  "technique": "fixed",
+  "naming": 50,
+  "error_handling": 50,
+  "type_safety": 50,
+  "architecture": 50,
+  "test_coverage": 50,
+  "documentation": 50,
+  "total": 50.0,
+  "breakdown": "Scoring parse error. Raw: {\"naming\": 86, \"error_handling\": 86, \"type_safety\": 74, \"architecture\": 86, \"test_coverage\": 45, \"documentation\": 88, \"total\": 77, \"breakdown\": \"A well-structured synthesis of autonomous AI research t",
+  "is_error": false,
+  "latency": 8.94,
+  "routed_to": "fixed",
+  "domain": "science",
+  "complexity": "low",
+  "run_session": "P14-20260424T031418Z",
+  "last_updated": "2026-04-24T03:15:18.169733+00:00"
+}

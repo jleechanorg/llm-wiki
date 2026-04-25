@@ -1,0 +1,19 @@
+{
+  "pr": "Q1",
+  "technique": "single",
+  "naming": 0,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 0,
+  "test_coverage": 0,
+  "documentation": 0,
+  "total": 0.0,
+  "breakdown": "No actual answer content provided. The response consists only of a function call to open_dir with no textual content to evaluate against any rubric dimensions. Cannot assess factual accuracy, coverage, insight, evidence, actionability, or structure.",
+  "is_error": false,
+  "latency": 1.76,
+  "routed_to": "single",
+  "domain": "science",
+  "complexity": "low",
+  "run_session": "P14-20260424T024428Z",
+  "last_updated": "2026-04-24T02:44:35.131067+00:00"
+}

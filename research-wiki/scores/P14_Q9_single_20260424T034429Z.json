@@ -1,0 +1,19 @@
+{
+  "pr": "Q9",
+  "technique": "single",
+  "naming": 5,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 0,
+  "test_coverage": 0,
+  "documentation": 5,
+  "total": 1,
+  "breakdown": "The answer contains only an intent statement and a tool call to read_wiki, but no actual content comparing Voyager and AutoGPT architecture. It provides zero facts, coverage, insights, evidence, or actionable analysis to evaluate. The attempted function call was never executed or completed.",
+  "is_error": false,
+  "latency": 1.43,
+  "routed_to": "single",
+  "domain": "technical",
+  "complexity": "medium",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:44:33.076678+00:00"
+}

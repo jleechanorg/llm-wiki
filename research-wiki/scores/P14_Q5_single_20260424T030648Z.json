@@ -1,0 +1,19 @@
+{
+  "pr": "Q5",
+  "technique": "single",
+  "naming": 10,
+  "error_handling": 5,
+  "type_safety": 0,
+  "architecture": 5,
+  "test_coverage": 0,
+  "documentation": 0,
+  "total": 3.5,
+  "breakdown": "The answer is simply a bash ls command listing directory contents, which is not a substantive response to any question. It demonstrates no code, no error handling, no type safety considerations, no architectural decisions, no tests, and no documentation. This appears to be either a misunderstanding of the query or an placeholder response.",
+  "is_error": false,
+  "latency": 1.15,
+  "routed_to": "single",
+  "domain": "technical",
+  "complexity": "high",
+  "run_session": "P14-20260424T030521Z",
+  "last_updated": "2026-04-24T03:07:01.654652+00:00"
+}

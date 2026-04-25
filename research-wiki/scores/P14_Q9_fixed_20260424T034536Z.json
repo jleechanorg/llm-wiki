@@ -1,0 +1,19 @@
+{
+  "pr": "Q9",
+  "technique": "fixed",
+  "naming": 75,
+  "error_handling": 78,
+  "type_safety": 72,
+  "architecture": 80,
+  "test_coverage": 65,
+  "documentation": 82,
+  "total": 75,
+  "breakdown": "The answer provides a solid architectural comparison with clear tables and good structure, scoring well on coverage breadth and readability, though it loses points for missing explicit source citations, incomplete section (cut off mid-sentence), and limited actionable guidance; the factual claims about Voyager's skill library and AutoGPT's loop are generally accurate but would benefit from primary source references.",
+  "is_error": false,
+  "latency": 5.72,
+  "routed_to": "fixed",
+  "domain": "technical",
+  "complexity": "medium",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:46:27.130177+00:00"
+}

@@ -1,0 +1,8 @@
+[GNN] Loading graph for similarity search...
+[GNN] Top 5 keyword matches: ['CalendarSystems', 'AbilityScoreImprovement', 'pr-5347-improve-pair-orchestration-tmux-', 'pr-34-working-improve-loadingstages-mobi', 'pr-1837-improve-cli-detection-and-fallba']
+
+Query: How do multi-agent辩论 systems improve factual accuracy?
+Domain: science | Complexity: medium
+Mode: gnn
+Latency: 38.3s
+Answer length: 3954 chars

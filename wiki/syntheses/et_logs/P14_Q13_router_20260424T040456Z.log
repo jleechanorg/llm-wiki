@@ -1,0 +1,12 @@
+[ROUTER] Analyzing query for mode selection...
+[ROUTER] Domain=business, Complexity=medium
+[ROUTER] Predicted best mode: gnn
+[GNN] Loading graph for similarity search...
+[GNN] Top 5 keyword matches: ['ReasoningBudget', 'pr-2263-fix-cerebras-provider-to-handle-', 'worldarchitect.ai-docs-workflow_differen', 'pr-631-implement-true-execute-vs-plan-di', 'extended-reasoning-frontier']
+[ROUTER] Used mode: gnn
+
+Query: What are the API cost benchmarks for different reasoning techniques?
+Domain: business | Complexity: medium
+Mode: router → routed to gnn
+Latency: 5.1s
+Answer length: 406 chars

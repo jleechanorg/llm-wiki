@@ -1,0 +1,19 @@
+{
+  "pr": "Q7",
+  "technique": "fixed",
+  "naming": 0,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 0,
+  "test_coverage": 0,
+  "documentation": 0,
+  "total": 0,
+  "breakdown": "No actual answer content provided. The 'answer' consists only of a wiki_search tool invocation with a query parameter. There is no response text, analysis, or information to evaluate against any of the 6 rubric dimensions.",
+  "is_error": false,
+  "latency": 3.24,
+  "routed_to": "fixed",
+  "domain": "business",
+  "complexity": "medium",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:40:25.771284+00:00"
+}

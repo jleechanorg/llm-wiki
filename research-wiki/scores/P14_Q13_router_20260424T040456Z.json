@@ -1,0 +1,19 @@
+{
+  "pr": "Q13",
+  "technique": "router",
+  "naming": 50,
+  "error_handling": 55,
+  "type_safety": 45,
+  "architecture": 40,
+  "test_coverage": 20,
+  "documentation": 60,
+  "total": 45,
+  "breakdown": "The answer honestly acknowledges information gaps but provides no substantive coverage of the query topic (API cost benchmarks for reasoning techniques). It scores poorly on insight and analytical originality since it offers no analysis. While it correctly flags uncertainty and suggests actionable next steps, it fails to provide any meaningful evidence chain or technical depth. Scores reflect honest self-assessment rather than content quality.",
+  "is_error": false,
+  "latency": 5.07,
+  "routed_to": "gnn",
+  "domain": "business",
+  "complexity": "medium",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T04:05:01.104638+00:00"
+}

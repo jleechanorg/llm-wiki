@@ -1,0 +1,19 @@
+{
+  "pr": "Q5",
+  "technique": "fixed",
+  "naming": 85,
+  "error_handling": 75,
+  "type_safety": 70,
+  "architecture": 90,
+  "test_coverage": 65,
+  "documentation": 80,
+  "total": 77.5,
+  "breakdown": "Strong on coverage (comprehensive failure taxonomy) and architecture (well-organized categorization with clear sections), but weak on actionable guidance\u2014no specific interventions, owners, or verification methods. Major gaps: lacks primary sourcing or empirical evidence for claimed failure modes, and no uncertainty acknowledgment about which failures are empirically validated vs. theoretical.",
+  "is_error": false,
+  "latency": 7.89,
+  "routed_to": "fixed",
+  "domain": "technical",
+  "complexity": "high",
+  "run_session": "P14-20260424T030752Z",
+  "last_updated": "2026-04-24T03:09:02.658969+00:00"
+}

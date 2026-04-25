@@ -1,0 +1,19 @@
+{
+  "pr": "Q1",
+  "technique": "gnn",
+  "naming": 88,
+  "error_handling": 90,
+  "type_safety": 75,
+  "architecture": 70,
+  "test_coverage": 55,
+  "documentation": 92,
+  "total": 77.65,
+  "breakdown": "The answer demonstrates strong factual accuracy across major AI research themes with well-structured Wikipedia references. Coverage breadth is excellent\u2014nine distinct themes are addressed with clear interconnections. Insight quality is moderate; while thematic relationships are mapped, the analysis remains descriptive rather than deeply synthesizing novel connections. Evidence chain relies on secondary Wikipedia sources rather than primary research, lowering that score. Actionability is minimal\u2014this is an overview not designed for implementation. Structure and readability are outstanding with clear tables, headers, and visual hierarchy.",
+  "is_error": false,
+  "latency": 36.26,
+  "routed_to": "gnn",
+  "domain": "science",
+  "complexity": "low",
+  "run_session": "P14-20260424T024605Z",
+  "last_updated": "2026-04-24T02:47:03.865961+00:00"
+}

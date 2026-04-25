@@ -1,0 +1,19 @@
+{
+  "pr": "Q7",
+  "technique": "gnn",
+  "naming": 90,
+  "error_handling": 80,
+  "type_safety": 60,
+  "architecture": 75,
+  "test_coverage": 85,
+  "documentation": 95,
+  "total": 80,
+  "breakdown": "Answer demonstrates strong uncertainty acknowledgment and clear structure with tables/org chart. Provides good role coverage and actionability through specific responsibilities, but lacks primary sourcing (explicitly flags no wiki material) and offers conventional rather than innovative insights. The generic framework approach is appropriate given stated knowledge limitations.",
+  "is_error": false,
+  "latency": 17.35,
+  "routed_to": "gnn",
+  "domain": "business",
+  "complexity": "medium",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:40:52.766817+00:00"
+}

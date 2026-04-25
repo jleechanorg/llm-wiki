@@ -1,0 +1,17 @@
+{
+  "session": "P14-20260424T032510Z",
+  "total_results": 50,
+  "successes": 50,
+  "modes": [
+    "single",
+    "fixed",
+    "gnn",
+    "router"
+  ],
+  "mode_means": {
+    "single": 15.5,
+    "fixed": 58.67,
+    "gnn": 61.81,
+    "router": 44.08
+  }
+}

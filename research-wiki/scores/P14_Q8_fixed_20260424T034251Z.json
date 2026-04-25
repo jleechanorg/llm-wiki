@@ -1,0 +1,19 @@
+{
+  "pr": "Q8",
+  "technique": "fixed",
+  "naming": 85,
+  "error_handling": 90,
+  "type_safety": 85,
+  "architecture": 80,
+  "test_coverage": 60,
+  "documentation": 90,
+  "total": 82,
+  "breakdown": "The answer demonstrates strong factual accuracy covering major regulatory frameworks (EU AI Act, US Executive Order, China's rules) with good analytical insights on classifications and extraterritorial reach. Coverage breadth is impressive across horizontal and sector-specific regulations. Evidence quality is solid with specific regulatory references, though the evidence-to-conclusion chain could be more explicit. Main weakness is actionability\u2014the answer is highly informative but doesn't provide concrete compliance actions, owners, or verification conditions. Structure is excellent with clear hierarchy and readability.",
+  "is_error": false,
+  "latency": 8.76,
+  "routed_to": "fixed",
+  "domain": "policy",
+  "complexity": "high",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:42:57.415294+00:00"
+}

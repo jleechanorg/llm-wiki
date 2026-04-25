@@ -1,0 +1,19 @@
+{
+  "pr": "Q1",
+  "technique": "gnn",
+  "naming": 0,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 0,
+  "test_coverage": 0,
+  "documentation": 0,
+  "total": 0.0,
+  "breakdown": "The scoring request contains a rubric mismatch\u2014the provided dimensions (naming, error_handling, etc.) are software engineering criteria completely inapplicable to evaluating research themes content. Using the correctly aligned rubric (Factual Accuracy, Coverage, Insight, Evidence, Actionability, Structure), this answer scores approximately 56/100: it provides accurate breadth across 9 major autonomous AI themes with good structure via the table format, but lacks depth/analysis, contains no actionable guidance, and the evidence chain relies only on Wikipedia category names rather than primary sources or explicit reasoning.",
+  "is_error": false,
+  "latency": 42.38,
+  "routed_to": "gnn",
+  "domain": "science",
+  "complexity": "low",
+  "run_session": "P14-20260424T031418Z",
+  "last_updated": "2026-04-24T03:16:26.538999+00:00"
+}

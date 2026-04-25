@@ -1,0 +1,19 @@
+{
+  "pr": "Q5",
+  "technique": "gnn",
+  "naming": 45,
+  "error_handling": 85,
+  "type_safety": 55,
+  "architecture": 40,
+  "test_coverage": 30,
+  "documentation": 70,
+  "total": 54.25,
+  "breakdown": "The answer appropriately acknowledges missing context (high error_handling) and maintains clear communication (documentation). However, it fails to provide any substantive coverage, insight, or actionable guidance on the requested topic, which significantly impacts the overall quality despite correctly flagging insufficient source material.",
+  "is_error": false,
+  "latency": 11.27,
+  "routed_to": "gnn",
+  "domain": "technical",
+  "complexity": "high",
+  "run_session": "P14-20260424T030910Z",
+  "last_updated": "2026-04-24T03:09:31.736021+00:00"
+}

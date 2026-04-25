@@ -1,0 +1,19 @@
+{
+  "pr": "Q6",
+  "technique": "router",
+  "naming": 30,
+  "error_handling": 10,
+  "type_safety": 5,
+  "architecture": 5,
+  "test_coverage": 5,
+  "documentation": 5,
+  "total": 8,
+  "breakdown": "The answer contains only a CLI command to list files, demonstrating minimal engagement with the query requirements. No factual claims to evaluate, no conceptual coverage, no analytical insight, no evidence chain, no actionable steps, and no readable structure\u2014just a raw command execution.",
+  "is_error": false,
+  "latency": 1.21,
+  "routed_to": "single",
+  "domain": "technical",
+  "complexity": "low",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:39:05.018594+00:00"
+}

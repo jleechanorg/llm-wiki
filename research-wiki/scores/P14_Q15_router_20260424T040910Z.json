@@ -1,0 +1,19 @@
+{
+  "pr": "Q15",
+  "technique": "router",
+  "naming": 82,
+  "error_handling": 75,
+  "type_safety": 80,
+  "architecture": 88,
+  "test_coverage": 60,
+  "documentation": 85,
+  "total": 82,
+  "breakdown": "Strong analyticaloriginality (88) with comprehensive liability frameworks coverage (80) and good documentation/citations (85). Factual accuracy is solid with proper references to EU Product Liability Directive, AI Act, GDPR. Weaknesses: limited actionability (no specific steps for implementation) and the answer appears truncated mid-sentence reducing completion depth.",
+  "is_error": false,
+  "latency": 20.3,
+  "routed_to": "gnn",
+  "domain": "policy",
+  "complexity": "high",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T04:09:18.594769+00:00"
+}

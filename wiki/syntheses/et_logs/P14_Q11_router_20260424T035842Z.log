@@ -1,0 +1,12 @@
+[ROUTER] Analyzing query for mode selection...
+[ROUTER] Domain=policy, Complexity=high
+[ROUTER] Predicted best mode: gnn
+[GNN] Loading graph for similarity search...
+[GNN] Top 5 keyword matches: ['pr-157-chore-remove-pretooluse-merge-pol', 'pr-11-fix-agent-registration-add-missing', 'pr-536-p2-policy-require-captioned-tmux-', 'pr-62-fix-tighten-coderabbit-ping-policy', 'pr-109-docs-add-git-workflow-and-approva']
+[ROUTER] Used mode: gnn
+
+Query: Draft a procurement policy for LLM API services.
+Domain: policy | Complexity: high
+Mode: router → routed to gnn
+Latency: 33.7s
+Answer length: 3778 chars

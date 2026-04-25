@@ -1,0 +1,19 @@
+{
+  "pr": "Q11",
+  "technique": "gnn",
+  "naming": 60,
+  "error_handling": 55,
+  "type_safety": 50,
+  "architecture": 65,
+  "test_coverage": 60,
+  "documentation": 70,
+  "total": 58,
+  "breakdown": "The policy draft is well-structured and covers major procurement topics with reasonable depth, but lacks specific factual anchoring\u2014no citations to actual regulations, SLA benchmarks, or vendor pricing data. Coverage misses critical LLM-specific concerns (fine-tuning rights, output filtering, vendor lock-in), while actionability is good for low-value requests but vague above $50K. The vendor evaluation table and approval workflow diagrams are useful templates, but the answer reads as generic organizational policy rather than LLM-specific guidance, with no original insights or evidence chains linking to authoritative sources.",
+  "is_error": false,
+  "latency": 44.3,
+  "routed_to": "gnn",
+  "domain": "policy",
+  "complexity": "high",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:58:06.627539+00:00"
+}

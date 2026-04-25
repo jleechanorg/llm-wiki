@@ -1,0 +1,19 @@
+{
+  "pr": "Q10",
+  "technique": "fixed",
+  "naming": 45,
+  "error_handling": 35,
+  "type_safety": 30,
+  "architecture": 40,
+  "test_coverage": 25,
+  "documentation": 55,
+  "total": 38,
+  "breakdown": "The answer provides good surface-level coverage of open-source code generation models with decent naming conventions and structure, but fails on multiple dimensions: it contains several unsubstantiated claims without sourcing, lacks analytical insight beyond basic enumeration of models, offers no actionable guidance, and the answer appears truncated (ends mid-sentence at 'external to'). The type safety and test coverage dimensions are severely lacking as there's no discussion of model reliability, benchmark validation, or quality assurance approaches.",
+  "is_error": false,
+  "latency": 15.99,
+  "routed_to": "fixed",
+  "domain": "science",
+  "complexity": "low",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:53:22.546375+00:00"
+}

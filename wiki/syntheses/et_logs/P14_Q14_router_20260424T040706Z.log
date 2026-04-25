@@ -1,0 +1,10 @@
+[ROUTER] Analyzing query for mode selection...
+[ROUTER] Domain=technical, Complexity=low
+[ROUTER] Predicted best mode: single
+[ROUTER] Used mode: single
+
+Query: Explain tree-of-thought vs chain-of-thought prompting.
+Domain: technical | Complexity: low
+Mode: router → routed to single
+Latency: 26.3s
+Answer length: 257 chars

@@ -1,0 +1,19 @@
+{
+  "pr": "Q2",
+  "technique": "single",
+  "naming": 50,
+  "error_handling": 50,
+  "type_safety": 50,
+  "architecture": 50,
+  "test_coverage": 50,
+  "documentation": 50,
+  "total": 50.0,
+  "breakdown": "Scoring parse error. Raw: ",
+  "is_error": false,
+  "latency": 18.79,
+  "routed_to": "single",
+  "domain": "technical",
+  "complexity": "high",
+  "run_session": "P14-20260424T024605Z",
+  "last_updated": "2026-04-24T02:47:45.061049+00:00"
+}

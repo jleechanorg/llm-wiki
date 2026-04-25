@@ -1,0 +1,19 @@
+{
+  "pr": "Q14",
+  "technique": "router",
+  "naming": 30,
+  "error_handling": 10,
+  "type_safety": 10,
+  "architecture": 15,
+  "test_coverage": 0,
+  "documentation": 5,
+  "total": 12,
+  "breakdown": "The answer contains only a basic code snippet that lists files in a directory. There is no discussion of naming conventions, error handling, type safety, architecture, test coverage, or documentation. The response is severely incomplete and does not address the likely requirements of Q14.",
+  "is_error": false,
+  "latency": 26.33,
+  "routed_to": "single",
+  "domain": "technical",
+  "complexity": "low",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T04:07:09.727623+00:00"
+}

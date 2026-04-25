@@ -1,0 +1,19 @@
+{
+  "pr": "Q4",
+  "technique": "router",
+  "naming": 85,
+  "error_handling": 90,
+  "type_safety": 75,
+  "architecture": 90,
+  "test_coverage": 70,
+  "documentation": 80,
+  "total": 82.25,
+  "breakdown": "The answer demonstrates strong error_handling and architecture coverage by thoroughly explaining recursion pitfalls (missing base case, stack overflow) and state management mechanisms. However, type_safety is only partially addressed (mentioning edge cases but not explicit type constraints), and test_coverage is underdeveloped (lists verification steps but doesn't show actual test cases). Documentation quality is solid with clear section headers, though the answer appears truncated, missing full code examples. Naming conventions are appropriately discussed in context of recursive function design.",
+  "is_error": false,
+  "latency": 36.93,
+  "routed_to": "fixed",
+  "domain": "science",
+  "complexity": "medium",
+  "run_session": "P14-20260424T030521Z",
+  "last_updated": "2026-04-24T03:06:44.862481+00:00"
+}

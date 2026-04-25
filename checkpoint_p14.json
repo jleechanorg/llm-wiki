@@ -1,0 +1,605 @@
+{
+  "completed": {
+    "Q1_single": {
+      "status": "success",
+      "qid": "Q1",
+      "mode": "single",
+      "score": 0.0,
+      "latency": 5.810081243515015,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q1_single_20260424T031424Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q1_single_20260424T031424Z.log",
+      "routed_to": "single"
+    },
+    "Q1_fixed": {
+      "status": "success",
+      "qid": "Q1",
+      "mode": "fixed",
+      "score": 50.0,
+      "latency": 8.936018705368042,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q1_fixed_20260424T031459Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q1_fixed_20260424T031459Z.log",
+      "routed_to": "fixed"
+    },
+    "Q1_gnn": {
+      "status": "success",
+      "qid": "Q1",
+      "mode": "gnn",
+      "score": 0.0,
+      "latency": 42.37861919403076,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q1_gnn_20260424T031602Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q1_gnn_20260424T031602Z.log",
+      "routed_to": "gnn"
+    },
+    "Q1_router": {
+      "status": "success",
+      "qid": "Q1",
+      "mode": "router",
+      "score": 0.0,
+      "latency": 2.043550491333008,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q1_router_20260424T031630Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q1_router_20260424T031630Z.log",
+      "routed_to": "single"
+    },
+    "Q2_single": {
+      "status": "success",
+      "qid": "Q2",
+      "mode": "single",
+      "score": 31.75,
+      "latency": 7.785173416137695,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q2_single_20260424T031648Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q2_single_20260424T031648Z.log",
+      "routed_to": "single"
+    },
+    "Q2_fixed": {
+      "status": "success",
+      "qid": "Q2",
+      "mode": "fixed",
+      "score": 62.25,
+      "latency": 10.49466061592102,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q2_fixed_20260424T031820Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q2_fixed_20260424T031820Z.log",
+      "routed_to": "fixed"
+    },
+    "Q2_gnn": {
+      "status": "success",
+      "qid": "Q2",
+      "mode": "gnn",
+      "score": 73.75,
+      "latency": 16.613956928253174,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q2_gnn_20260424T031846Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q2_gnn_20260424T031846Z.log",
+      "routed_to": "gnn"
+    },
+    "Q2_router": {
+      "status": "success",
+      "qid": "Q2",
+      "mode": "router",
+      "score": 50.0,
+      "latency": 64.80609202384949,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q2_router_20260424T032044Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q2_router_20260424T032044Z.log",
+      "routed_to": "gnn"
+    },
+    "Q3_single": {
+      "status": "success",
+      "qid": "Q3",
+      "mode": "single",
+      "score": 50.0,
+      "latency": 30.712902307510376,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q3_single_20260424T032127Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q3_single_20260424T032127Z.log",
+      "routed_to": "single"
+    },
+    "Q3_fixed": {
+      "status": "success",
+      "qid": "Q3",
+      "mode": "fixed",
+      "score": 121.75,
+      "latency": 10.04908800125122,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q3_fixed_20260424T032407Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q3_fixed_20260424T032407Z.log",
+      "routed_to": "fixed"
+    },
+    "Q3_gnn": {
+      "status": "success",
+      "qid": "Q3",
+      "mode": "gnn",
+      "score": 71,
+      "latency": 77.54467439651489,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q3_gnn_20260424T032628Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q3_gnn_20260424T032628Z.log",
+      "routed_to": "gnn"
+    },
+    "Q3_router": {
+      "status": "success",
+      "qid": "Q3",
+      "mode": "router",
+      "score": 62,
+      "latency": 22.5632061958313,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q3_router_20260424T032659Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q3_router_20260424T032659Z.log",
+      "routed_to": "gnn"
+    },
+    "Q4_single": {
+      "status": "success",
+      "qid": "Q4",
+      "mode": "single",
+      "score": 0,
+      "latency": 20.894121170043945,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q4_single_20260424T032730Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q4_single_20260424T032730Z.log",
+      "routed_to": "single"
+    },
+    "Q4_fixed": {
+      "status": "success",
+      "qid": "Q4",
+      "mode": "fixed",
+      "score": 77,
+      "latency": 43.506901264190674,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q4_fixed_20260424T032915Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q4_fixed_20260424T032915Z.log",
+      "routed_to": "fixed"
+    },
+    "Q4_gnn": {
+      "status": "success",
+      "qid": "Q4",
+      "mode": "gnn",
+      "score": 38,
+      "latency": 5.6124842166900635,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q4_gnn_20260424T032950Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q4_gnn_20260424T032950Z.log",
+      "routed_to": "gnn"
+    },
+    "Q4_router": {
+      "status": "success",
+      "qid": "Q4",
+      "mode": "router",
+      "score": 37,
+      "latency": 14.147743701934814,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q4_router_20260424T033117Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q4_router_20260424T033117Z.log",
+      "routed_to": "fixed"
+    },
+    "Q5_single": {
+      "status": "success",
+      "qid": "Q5",
+      "mode": "single",
+      "score": 7,
+      "latency": 3.801020860671997,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q5_single_20260424T033132Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q5_single_20260424T033132Z.log",
+      "routed_to": "single"
+    },
+    "Q5_fixed": {
+      "status": "success",
+      "qid": "Q5",
+      "mode": "fixed",
+      "score": 24,
+      "latency": 12.763298273086548,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q5_fixed_20260424T033413Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q5_fixed_20260424T033413Z.log",
+      "routed_to": "fixed"
+    },
+    "Q5_gnn": {
+      "status": "success",
+      "qid": "Q5",
+      "mode": "gnn",
+      "score": 79,
+      "latency": 20.934637546539307,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q5_gnn_20260424T033441Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q5_gnn_20260424T033441Z.log",
+      "routed_to": "gnn"
+    },
+    "Q5_router": {
+      "status": "success",
+      "qid": "Q5",
+      "mode": "router",
+      "score": 31,
+      "latency": 40.63362097740173,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q5_router_20260424T033533Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q5_router_20260424T033533Z.log",
+      "routed_to": "gnn"
+    },
+    "Q6_single": {
+      "status": "success",
+      "qid": "Q6",
+      "mode": "single",
+      "score": 0,
+      "latency": 3.0643224716186523,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q6_single_20260424T033544Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q6_single_20260424T033544Z.log",
+      "routed_to": "single"
+    },
+    "Q6_fixed": {
+      "status": "success",
+      "qid": "Q6",
+      "mode": "fixed",
+      "score": 48,
+      "latency": 116.0303406715393,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q6_fixed_20260424T033832Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q6_fixed_20260424T033832Z.log",
+      "routed_to": "fixed"
+    },
+    "Q6_gnn": {
+      "status": "success",
+      "qid": "Q6",
+      "mode": "gnn",
+      "score": 49,
+      "latency": 9.092278003692627,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q6_gnn_20260424T033849Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q6_gnn_20260424T033849Z.log",
+      "routed_to": "gnn"
+    },
+    "Q6_router": {
+      "status": "success",
+      "qid": "Q6",
+      "mode": "router",
+      "score": 8,
+      "latency": 1.2073054313659668,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q6_router_20260424T033859Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q6_router_20260424T033859Z.log",
+      "routed_to": "single"
+    },
+    "Q7_single": {
+      "status": "success",
+      "qid": "Q7",
+      "mode": "single",
+      "score": 50.0,
+      "latency": 1.299665927886963,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q7_single_20260424T033908Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q7_single_20260424T033908Z.log",
+      "routed_to": "single"
+    },
+    "Q7_fixed": {
+      "status": "success",
+      "qid": "Q7",
+      "mode": "fixed",
+      "score": 0,
+      "latency": 3.237416982650757,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q7_fixed_20260424T034022Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q7_fixed_20260424T034022Z.log",
+      "routed_to": "fixed"
+    },
+    "Q7_gnn": {
+      "status": "success",
+      "qid": "Q7",
+      "mode": "gnn",
+      "score": 80,
+      "latency": 17.35065484046936,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q7_gnn_20260424T034045Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q7_gnn_20260424T034045Z.log",
+      "routed_to": "gnn"
+    },
+    "Q7_router": {
+      "status": "success",
+      "qid": "Q7",
+      "mode": "router",
+      "score": 4,
+      "latency": 8.147783279418945,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q7_router_20260424T034102Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q7_router_20260424T034102Z.log",
+      "routed_to": "gnn"
+    },
+    "Q8_single": {
+      "status": "success",
+      "qid": "Q8",
+      "mode": "single",
+      "score": 58,
+      "latency": 13.798194408416748,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q8_single_20260424T034124Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q8_single_20260424T034124Z.log",
+      "routed_to": "single"
+    },
+    "Q8_fixed": {
+      "status": "success",
+      "qid": "Q8",
+      "mode": "fixed",
+      "score": 82,
+      "latency": 8.761416673660278,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q8_fixed_20260424T034251Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q8_fixed_20260424T034251Z.log",
+      "routed_to": "fixed"
+    },
+    "Q8_gnn": {
+      "status": "success",
+      "qid": "Q8",
+      "mode": "gnn",
+      "score": 58,
+      "latency": 46.429282903671265,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q8_gnn_20260424T034345Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q8_gnn_20260424T034345Z.log",
+      "routed_to": "gnn"
+    },
+    "Q8_router": {
+      "status": "success",
+      "qid": "Q8",
+      "mode": "router",
+      "score": 78,
+      "latency": 17.190428495407104,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q8_router_20260424T034421Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q8_router_20260424T034421Z.log",
+      "routed_to": "gnn"
+    },
+    "Q9_single": {
+      "status": "success",
+      "qid": "Q9",
+      "mode": "single",
+      "score": 1,
+      "latency": 1.4295463562011719,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q9_single_20260424T034429Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q9_single_20260424T034429Z.log",
+      "routed_to": "single"
+    },
+    "Q9_fixed": {
+      "status": "success",
+      "qid": "Q9",
+      "mode": "fixed",
+      "score": 75,
+      "latency": 5.724391460418701,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q9_fixed_20260424T034536Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q9_fixed_20260424T034536Z.log",
+      "routed_to": "fixed"
+    },
+    "Q9_gnn": {
+      "status": "success",
+      "qid": "Q9",
+      "mode": "gnn",
+      "score": 76,
+      "latency": 6.0133020877838135,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q9_gnn_20260424T034635Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q9_gnn_20260424T034635Z.log",
+      "routed_to": "gnn"
+    },
+    "Q9_router": {
+      "status": "success",
+      "qid": "Q9",
+      "mode": "router",
+      "score": 72,
+      "latency": 181.31448030471802,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q9_router_20260424T035039Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q9_router_20260424T035039Z.log",
+      "routed_to": "fixed"
+    },
+    "Q10_single": {
+      "status": "success",
+      "qid": "Q10",
+      "mode": "single",
+      "score": 0,
+      "latency": 84.10040926933289,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q10_single_20260424T035213Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q10_single_20260424T035213Z.log",
+      "routed_to": "single"
+    },
+    "Q10_fixed": {
+      "status": "success",
+      "qid": "Q10",
+      "mode": "fixed",
+      "score": 38,
+      "latency": 15.985209703445435,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q10_fixed_20260424T035318Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q10_fixed_20260424T035318Z.log",
+      "routed_to": "fixed"
+    },
+    "Q10_gnn": {
+      "status": "success",
+      "qid": "Q10",
+      "mode": "gnn",
+      "score": 54.5,
+      "latency": 6.580588340759277,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q10_gnn_20260424T035331Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q10_gnn_20260424T035331Z.log",
+      "routed_to": "gnn"
+    },
+    "Q10_router": {
+      "status": "success",
+      "qid": "Q10",
+      "mode": "router",
+      "score": 0,
+      "latency": 3.7622132301330566,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q10_router_20260424T035353Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q10_router_20260424T035353Z.log",
+      "routed_to": "single"
+    },
+    "Q11_single": {
+      "status": "success",
+      "qid": "Q11",
+      "mode": "single",
+      "score": 0,
+      "latency": 4.969994068145752,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q11_single_20260424T035412Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q11_single_20260424T035412Z.log",
+      "routed_to": "single"
+    },
+    "Q11_fixed": {
+      "status": "success",
+      "qid": "Q11",
+      "mode": "fixed",
+      "score": 68,
+      "latency": 16.405523777008057,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q11_fixed_20260424T035659Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q11_fixed_20260424T035659Z.log",
+      "routed_to": "fixed"
+    },
+    "Q11_gnn": {
+      "status": "success",
+      "qid": "Q11",
+      "mode": "gnn",
+      "score": 58,
+      "latency": 44.2981379032135,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q11_gnn_20260424T035759Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q11_gnn_20260424T035759Z.log",
+      "routed_to": "gnn"
+    },
+    "Q11_router": {
+      "status": "success",
+      "qid": "Q11",
+      "mode": "router",
+      "score": 74,
+      "latency": 33.66234087944031,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q11_router_20260424T035842Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q11_router_20260424T035842Z.log",
+      "routed_to": "gnn"
+    },
+    "Q12_single": {
+      "status": "success",
+      "qid": "Q12",
+      "mode": "single",
+      "score": 6,
+      "latency": 3.7909727096557617,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q12_single_20260424T035856Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q12_single_20260424T035856Z.log",
+      "routed_to": "single"
+    },
+    "Q12_fixed": {
+      "status": "success",
+      "qid": "Q12",
+      "mode": "fixed",
+      "score": 65,
+      "latency": 7.2332375049591064,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q12_fixed_20260424T040023Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q12_fixed_20260424T040023Z.log",
+      "routed_to": "fixed"
+    },
+    "Q12_gnn": {
+      "status": "success",
+      "qid": "Q12",
+      "mode": "gnn",
+      "score": 63,
+      "latency": 38.347612142562866,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q12_gnn_20260424T040124Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q12_gnn_20260424T040124Z.log",
+      "routed_to": "gnn"
+    },
+    "Q12_router": {
+      "status": "success",
+      "qid": "Q12",
+      "mode": "router",
+      "score": 68,
+      "latency": 7.335829257965088,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q12_router_20260424T040245Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q12_router_20260424T040245Z.log",
+      "routed_to": "fixed"
+    },
+    "Q13_single": {
+      "status": "success",
+      "qid": "Q13",
+      "mode": "single",
+      "score": 5,
+      "latency": 4.498792886734009,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q13_single_20260424T040256Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q13_single_20260424T040256Z.log",
+      "routed_to": "single"
+    },
+    "Q13_fixed": {
+      "status": "success",
+      "qid": "Q13",
+      "mode": "fixed",
+      "score": 74,
+      "latency": 41.135425329208374,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q13_fixed_20260424T040418Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q13_fixed_20260424T040418Z.log",
+      "routed_to": "fixed"
+    },
+    "Q13_gnn": {
+      "status": "success",
+      "qid": "Q13",
+      "mode": "gnn",
+      "score": 32,
+      "latency": 18.052670001983643,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q13_gnn_20260424T040443Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q13_gnn_20260424T040443Z.log",
+      "routed_to": "gnn"
+    },
+    "Q13_router": {
+      "status": "success",
+      "qid": "Q13",
+      "mode": "router",
+      "score": 45,
+      "latency": 5.074814796447754,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q13_router_20260424T040456Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q13_router_20260424T040456Z.log",
+      "routed_to": "gnn"
+    },
+    "Q14_single": {
+      "status": "success",
+      "qid": "Q14",
+      "mode": "single",
+      "score": 59,
+      "latency": 21.78943634033203,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q14_single_20260424T040524Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q14_single_20260424T040524Z.log",
+      "routed_to": "single"
+    },
+    "Q14_fixed": {
+      "status": "success",
+      "qid": "Q14",
+      "mode": "fixed",
+      "score": 79,
+      "latency": 6.707821846008301,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q14_fixed_20260424T040601Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q14_fixed_20260424T040601Z.log",
+      "routed_to": "fixed"
+    },
+    "Q14_gnn": {
+      "status": "success",
+      "qid": "Q14",
+      "mode": "gnn",
+      "score": 77,
+      "latency": 18.328598976135254,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q14_gnn_20260424T040626Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q14_gnn_20260424T040626Z.log",
+      "routed_to": "gnn"
+    },
+    "Q14_router": {
+      "status": "success",
+      "qid": "Q14",
+      "mode": "router",
+      "score": 12,
+      "latency": 26.331037282943726,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q14_router_20260424T040706Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q14_router_20260424T040706Z.log",
+      "routed_to": "single"
+    },
+    "Q15_single": {
+      "status": "success",
+      "qid": "Q15",
+      "mode": "single",
+      "score": 0,
+      "latency": 1.597733736038208,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q15_single_20260424T040713Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q15_single_20260424T040713Z.log",
+      "routed_to": "single"
+    },
+    "Q15_fixed": {
+      "status": "success",
+      "qid": "Q15",
+      "mode": "fixed",
+      "score": 74,
+      "latency": 7.332632541656494,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q15_fixed_20260424T040755Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q15_fixed_20260424T040755Z.log",
+      "routed_to": "fixed"
+    },
+    "Q15_gnn": {
+      "status": "success",
+      "qid": "Q15",
+      "mode": "gnn",
+      "score": 68,
+      "latency": 26.27076268196106,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q15_gnn_20260424T040828Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q15_gnn_20260424T040828Z.log",
+      "routed_to": "gnn"
+    },
+    "Q15_router": {
+      "status": "success",
+      "qid": "Q15",
+      "mode": "router",
+      "score": 82,
+      "latency": 20.301743507385254,
+      "score_file": "/home/jleechan/projects_other/worktree_llm_chimera/research-wiki/scores/P14_Q15_router_20260424T040910Z.json",
+      "log_file": "/home/jleechan/projects_other/worktree_llm_chimera/wiki/syntheses/et_logs/P14_Q15_router_20260424T040910Z.log",
+      "routed_to": "gnn"
+    }
+  },
+  "started_at": "2026-04-24T03:14:18.175383+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "pr": "Q11",
+  "technique": "fixed",
+  "naming": 75,
+  "error_handling": 60,
+  "type_safety": 70,
+  "architecture": 65,
+  "test_coverage": 55,
+  "documentation": 80,
+  "total": 68,
+  "breakdown": "The policy document is well-structured with clear sections and useful definitions, scoring high on documentation and readability. However, it has significant gaps: the procurement workflow is incomplete, lacks specific evaluation criteria/vendor benchmarks, misses actionable items with owners/timelines, and provides generic guidance without organizational-specific insights. The document covers breadth but lacks depth in critical areas like security controls, contract terms, compliance verification, and vendor risk assessment.",
+  "is_error": false,
+  "latency": 16.41,
+  "routed_to": "fixed",
+  "domain": "policy",
+  "complexity": "high",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:57:13.252192+00:00"
+}

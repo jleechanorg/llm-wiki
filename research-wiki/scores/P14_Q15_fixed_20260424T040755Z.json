@@ -1,0 +1,19 @@
+{
+  "pr": "Q15",
+  "technique": "fixed",
+  "naming": 85,
+  "error_handling": 70,
+  "type_safety": 60,
+  "architecture": 75,
+  "test_coverage": 65,
+  "documentation": 90,
+  "total": 74,
+  "breakdown": "The answer provides accurate and well-structured coverage of major liability frameworks (product liability, negligence, professional services, contractual) with clear explanations and good section headers. However, it lacks concrete jurisdictional specifics, case citations, and actionable guidance. The writing is readable but incomplete\u2014contractual liability section cuts off mid-sentence and misses key frameworks like AI-specific regulations, IP liability, and cross-border enforcement challenges.",
+  "is_error": false,
+  "latency": 7.33,
+  "routed_to": "fixed",
+  "domain": "policy",
+  "complexity": "high",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T04:08:00.287036+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "pr": "Q4",
+  "technique": "single",
+  "naming": 0,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 0,
+  "test_coverage": 0,
+  "documentation": 0,
+  "total": 0,
+  "breakdown": "The answer contains no substantive content\u2014it is only a tool invocation format with no response, analysis, facts, insights, evidence, or actionable information. All six dimensions receive zero as there is nothing to evaluate.",
+  "is_error": false,
+  "latency": 20.89,
+  "routed_to": "single",
+  "domain": "science",
+  "complexity": "medium",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:27:35.173169+00:00"
+}

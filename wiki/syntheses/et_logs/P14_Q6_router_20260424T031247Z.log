@@ -1,0 +1,10 @@
+[ROUTER] Analyzing query for mode selection...
+[ROUTER] Domain=technical, Complexity=low
+[ROUTER] Predicted best mode: single
+[ROUTER] Used mode: single
+
+Query: Summarize the SWE-bench benchmark results from 2024-2025.
+Domain: technical | Complexity: low
+Mode: router → routed to single
+Latency: 5.1s
+Answer length: 154 chars

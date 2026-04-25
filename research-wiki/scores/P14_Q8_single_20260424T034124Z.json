@@ -1,0 +1,19 @@
+{
+  "pr": "Q8",
+  "technique": "single",
+  "naming": 70,
+  "error_handling": 60,
+  "type_safety": 45,
+  "architecture": 85,
+  "test_coverage": 40,
+  "documentation": 55,
+  "total": 58,
+  "breakdown": "The answer demonstrates solid factual accuracy with appropriate coverage of US and EU regulatory frameworks including EO 14110, NIST AI RMF, and EU AI Act, though it lacks international perspectives. Evidence quality is weak\u2014the citation about 2,000 organizations adopting NIST AI RMF lacks primary sourcing, and claims are not substantiated with direct references. Analytical insight is moderate, providing useful categorization but missing synthesis across jurisdictions. Actionability is notably absent\u2014no concrete steps or recommendations for compliance. Structure is excellent with clear hierarchies and executive framing.",
+  "is_error": false,
+  "latency": 13.8,
+  "routed_to": "single",
+  "domain": "policy",
+  "complexity": "high",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:41:30.646051+00:00"
+}

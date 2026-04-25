@@ -1,0 +1,8 @@
+[GNN] Loading graph for similarity search...
+[GNN] Top 5 keyword matches: ['TestInfrastructure', 'StructureDriftPattern', 'StructuredFieldsFixtures', 'StructuredResponseSchema', 'ParseStructuredResponse']
+
+Query: How should companies structure LLM evaluation teams? Include org charts.
+Domain: business | Complexity: medium
+Mode: gnn
+Latency: 17.4s
+Answer length: 5518 chars

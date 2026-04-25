@@ -1,0 +1,19 @@
+{
+  "pr": "Q7",
+  "technique": "router",
+  "naming": 10,
+  "error_handling": 5,
+  "type_safety": 0,
+  "architecture": 0,
+  "test_coverage": 0,
+  "documentation": 15,
+  "total": 4,
+  "breakdown": "Answer is a generic deflection with no technical content. It appropriately handles uncertainty by acknowledging insufficient context but provides no actionable guidance, code structure, or domain-specific insight. Lacks any coverage of subtopics, evidence chain, or implementation details.",
+  "is_error": false,
+  "latency": 8.15,
+  "routed_to": "gnn",
+  "domain": "business",
+  "complexity": "medium",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:41:08.258046+00:00"
+}

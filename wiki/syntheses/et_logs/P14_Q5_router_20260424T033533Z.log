@@ -1,0 +1,12 @@
+[ROUTER] Analyzing query for mode selection...
+[ROUTER] Domain=technical, Complexity=high
+[ROUTER] Predicted best mode: gnn
+[GNN] Loading graph for similarity search...
+[GNN] Top 5 keyword matches: ['ProcessRewardModels', 'RewardsProcessedFlag', 'pr-2755-debug-rewards-agent-level-up-pro', 'pr-3208-fix-rewards-add-double-processin', 'DeferredRewardsProtocol']
+[ROUTER] Used mode: gnn
+
+Query: What are the failure modes of process reward models in multi-step reasoning?
+Domain: technical | Complexity: high
+Mode: router → routed to gnn
+Latency: 40.6s
+Answer length: 1215 chars

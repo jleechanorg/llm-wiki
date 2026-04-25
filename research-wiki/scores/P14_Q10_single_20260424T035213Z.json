@@ -1,0 +1,19 @@
+{
+  "pr": "Q10",
+  "technique": "single",
+  "naming": 0,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 0,
+  "test_coverage": 0,
+  "documentation": 0,
+  "total": 0,
+  "breakdown": "No answer content provided. The response is blank/empty, making it impossible to evaluate any rubric dimension. All scores are 0.",
+  "is_error": false,
+  "latency": 84.1,
+  "routed_to": "single",
+  "domain": "science",
+  "complexity": "low",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:52:16.526721+00:00"
+}

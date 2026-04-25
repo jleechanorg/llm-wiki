@@ -1,0 +1,19 @@
+{
+  "pr": "Q6",
+  "technique": "gnn",
+  "naming": 85,
+  "error_handling": 90,
+  "type_safety": 80,
+  "architecture": 75,
+  "test_coverage": 70,
+  "documentation": 85,
+  "total": 80.75,
+  "breakdown": "The answer correctly acknowledges insufficient information and transparently flags uncertainty without fabricating facts. Coverage is adequate for explaining the limitation but lacks depth on SWE-bench specifics. Little analytical novelty since it primarily defers. No primary sourcing as expected given the admitted knowledge gap. Structured request for context provides reasonable actionability. Clear and readable with appropriate headers.",
+  "is_error": false,
+  "latency": 4.38,
+  "routed_to": "gnn",
+  "domain": "technical",
+  "complexity": "low",
+  "run_session": "P14-20260424T031138Z",
+  "last_updated": "2026-04-24T03:12:39.979841+00:00"
+}

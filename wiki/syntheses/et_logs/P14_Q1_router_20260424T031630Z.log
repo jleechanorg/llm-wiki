@@ -1,0 +1,10 @@
+[ROUTER] Analyzing query for mode selection...
+[ROUTER] Domain=science, Complexity=low
+[ROUTER] Predicted best mode: single
+[ROUTER] Used mode: single
+
+Query: What are the main themes in autonomous AI research?
+Domain: science | Complexity: low
+Mode: router → routed to single
+Latency: 2.0s
+Answer length: 217 chars
