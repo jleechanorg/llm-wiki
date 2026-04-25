@@ -1,0 +1,23 @@
+{
+  "pr": 6265,
+  "technique": "SR-5iter",
+  "naming": 90,
+  "error_handling": 80,
+  "type_safety": 85,
+  "architecture": 90,
+  "test_coverage": 95,
+  "documentation": 85,
+  "total": 87.25,
+  "breakdown": "This PR fixes rewards_box normalization in streaming passthrough by adding fallback logic to handle LLM-generated non-standard keys ('xp'/'gold_pieces' instead of 'xp_gained'/'gold'). The fix adds a new normalize_rewards_box_for_ui function with fallback handling and calls it in the passthrough path. Excellent E2E test coverage with a real LLM scenario. Minor\u6263\u5206: error handling could benefit from explicit try/except for edge cases, and the fallback logic is slightly complex.",
+  "key_changes": [
+    "Add fallback logic in normalize_rewards_box_for_ui to check 'xp' if 'xp_gained' is None",
+    "Add fallback logic to check 'gold_pieces' if 'gold' is None",
+    "Pop non-standard keys after normalization",
+    "Call normalize_rewards_box_for_ui in _resolve_canonical_level_up_ui_pair passthrough",
+    "Add E2E test test_streaming_passthrough_normalization.py"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-5iter-20260422T053730Z",
+  "last_updated": "2026-04-22T05:44:11.416419+00:00",
+  "sample_number": 1
+}

@@ -1,0 +1,22 @@
+{
+  "pr": 6270,
+  "technique": "SR-5iter",
+  "naming": 90,
+  "error_handling": 85,
+  "type_safety": 50,
+  "architecture": 95,
+  "test_coverage": 50,
+  "documentation": 90,
+  "total": 76.0,
+  "breakdown": "This PR migrates the Green Gate workflow from a complex inline polling implementation (Step 2 with extensive bash scripting) to a reusable workflow call. The change consolidates 50+ lines of intricate polling logic, rate limit handling, and verdict parsing into a single clean `uses:` statement. Error handling is preserved (API failure tracking, explicit exit codes). Type safety is low because this is shell scripting in YAML workflows with no typed parameters or return values. The architecture improves significantly by externalizing the skeptic logic.",
+  "key_changes": [
+    "Replace inline 'Poll for skeptic VERDICT' step with reusable workflow call `uses: jleechanorg/agent-orchestrator/.github/workflows/skeptic-gate-reusable.yml`",
+    "Pass inputs: pr_number, head_sha, runner_labels, concurrency_group",
+    "Inherit secrets for OAuth authentication",
+    "The reusable workflow encapsulates all the polling logic, rate limit handling, and verdict parsing that was previously inline"
+  ],
+  "commit_sha": "04d8df0b7bdafd745ce82e731ffcb2abf3f58273",
+  "run_session": "SR-5iter-20260422T060353Z",
+  "last_updated": "2026-04-22T06:04:42.020198+00:00",
+  "sample_number": 1
+}

@@ -1,0 +1,23 @@
+{
+  "pr": 6275,
+  "technique": "SR-5iter",
+  "naming": 65,
+  "error_handling": 50,
+  "type_safety": 45,
+  "architecture": 70,
+  "test_coverage": 55,
+  "documentation": 40,
+  "total": 55.0,
+  "breakdown": "This PR refactors tests to check both the workflow YAML and shell script for skeptic-evaluate.sh, updating assertions to use script_path exists guards. The main functional change is updating the evidence root path from 'worldarchitectai' to 'worldarchitect.ai'. Test output shows FAIL verdicts which is concerning, and the changes rely heavily on string-presence assertions rather than behavioral validation. Error handling is minimal with basic assert guards but no try/except patterns.",
+  "key_changes": [
+    "Path name change in evidence_utils.py from 'worldarchitectai' to 'worldarchitect.ai'",
+    "Tests refactored from checking workflow YAML to checking skeptic-evaluate.sh script separately",
+    "Assertions updated to use script_path.exists() guards before reading script contents",
+    "Pattern assertion changed from 'test(\"(?m)^\\\\s*\\\\[approve\\\\]\\\\s*$\"; \"i\")' to 'test(\"\\\\[approve\\\\]\"; \"i\")'",
+    "New yaml.safe_load pattern for extracting env vars from workflow YAML structure"
+  ],
+  "commit_sha": "be963b9c187eb27d7a52ce85120f3bc08a6bd597",
+  "run_session": "SR-5iter-20260422T055344Z",
+  "last_updated": "2026-04-22T05:59:42.612927+00:00",
+  "sample_number": 1
+}

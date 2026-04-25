@@ -1,0 +1,24 @@
+{
+  "pr": 6269,
+  "technique": "SR-5iter",
+  "naming": 90,
+  "error_handling": 85,
+  "type_safety": 80,
+  "architecture": 85,
+  "test_coverage": 50,
+  "documentation": 90,
+  "total": 80.0,
+  "breakdown": "PR ports CR (CodeRabbit) approval fallback logic from skeptical cron to skeptic gate workflow. Adds status+comment fallback detection when no formal CR review exists. Naming is clear (LATEST_CR_PIPELINE, CR_APPROVE_EXIT). Error handling captures jq exit codes properly. Type safety dimension limited since this is shell scripting in YAML workflows. No test files present as this is workflow config change. Comments explain WHY fallback is needed.",
+  "key_changes": [
+    "Added fallback logic to check CR status + [approve] comment when no formal CR review exists",
+    "Added exit code capture (LATEST_CR_EXIT, CR_APPROVE_EXIT) with proper error handling",
+    "Renamed LATEST_CR_RAW to LATEST_CR_PIPELINE for clarity",
+    "Changed status filter from specific 'success' to include all CR states (.context == CodeRabbit)",
+    "Added proper set +e/-e pipefail guards around API calls",
+    "Extended username matching to include both coderabbitai[bot] and coderabbitai"
+  ],
+  "commit_sha": "35b736d9658cd1e0203503fecf4c50a8e4a809ec",
+  "run_session": "SR-5iter-20260422T053730Z",
+  "last_updated": "2026-04-22T05:46:21.964479+00:00",
+  "sample_number": 2
+}

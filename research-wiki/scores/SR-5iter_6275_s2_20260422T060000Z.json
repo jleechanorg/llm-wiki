@@ -1,0 +1,24 @@
+{
+  "pr": 6275,
+  "technique": "SR-5iter",
+  "naming": 85,
+  "error_handling": 80,
+  "type_safety": 85,
+  "architecture": 85,
+  "test_coverage": 75,
+  "documentation": 85,
+  "total": 82.5,
+  "breakdown": "This PR restructures tests to check shell script files (.github/scripts/skeptic-evaluate.sh) instead of workflow YAML for several gates, and updates evidence_utils.py paths from 'worldarchitectai' to 'worldarchitect.ai'. Tests were renamed for clarity (e.g., _in_script suffix). The core functionality described in the PR title ('synthesize rewards_box when level_up_complete=True but box missing') is not visible in this diff. Some test assertions were removed (e.g., PR_SHA checks) while new env var validation tests were added.",
+  "key_changes": [
+    "Rename evidence_utils.py root path from 'worldarchitectai' to 'worldarchitect.ai'",
+    "Rename multiple test functions to specify _in_script or _in_yaml suffix",
+    "Restructure test assertions to check .github/scripts/skeptic-evaluate.sh instead of workflow YAML file",
+    "Add test_auto_merge_controls_are_restored_in_yaml to validate env vars in YAML",
+    "Remove some assertions from original tests (e.g., /commits/$PR_SHA checks)",
+    "Add isinstance() type checks for env var parsing in YAML"
+  ],
+  "commit_sha": "be963b9c187eb27d7a52ce85120f3bc08a6bd597",
+  "run_session": "SR-5iter-20260422T055344Z",
+  "last_updated": "2026-04-22T06:00:00.556405+00:00",
+  "sample_number": 2
+}

@@ -1,0 +1,22 @@
+{
+  "pr": 6420,
+  "technique": "SR-5iter",
+  "naming": 75,
+  "error_handling": 70,
+  "type_safety": 85,
+  "architecture": 75,
+  "test_coverage": 80,
+  "documentation": 65,
+  "total": 75.75,
+  "breakdown": "This PR fixes debug_info precedence handling and narrative fallback logic in the process_action flow. Tests verify that top-level debug_info takes precedence over structured response debug_info, and that narrative fallback remains at the correct level. The changes include new AST-based tests that verify code structure rather than just behavior. The code quality is decent but the diff shows minimal documentation and some generic naming in test helpers like `_ClientStub`.",
+  "key_changes": [
+    "Added test_process_action_preserves_top_level_debug_info_precedence to verify debug_info precedence",
+    "Added test_process_action_keeps_narrative_fallback_directly_under_structured_guard using AST analysis",
+    "Reformatted multi-line function calls for consistency",
+    "Updated numpy dependency version constraints in uv.lock for Python 3.14 compatibility"
+  ],
+  "commit_sha": null,
+  "run_session": "SR-5iter-20260422T055344Z",
+  "last_updated": "2026-04-22T06:02:55.154828+00:00",
+  "sample_number": 2
+}

@@ -1,0 +1,23 @@
+{
+  "pr": 6420,
+  "technique": "SR-5iter",
+  "naming": 70,
+  "error_handling": 75,
+  "type_safety": 60,
+  "architecture": 65,
+  "test_coverage": 80,
+  "documentation": 65,
+  "total": 69.0,
+  "breakdown": "This PR adds tests for process_action debug_info precedence preservation and validates narrative fallback structure through AST inspection. Testing focuses on stream failure classification, empty payload handling, and MCP retries. However, the diff appears truncated showing only test changes without core implementation logic, making it difficult to fully assess error handling, type safety, architecture patterns, and documentation quality across the full codebase.",
+  "key_changes": [
+    "Add uv.lock numpy version markers for Python 3.14+ support",
+    "Add test_process_action_preserves_top_level_debug_info_precedence",
+    "Add test_process_action_keeps_narrative_fallback_directly_under_structured_guard using AST validation",
+    "Test stream preflight HTTP auth 401 classification",
+    "Add test_process_action_mcp_retries_transient_transport_errors"
+  ],
+  "commit_sha": null,
+  "run_session": "SR-5iter-20260422T054852Z",
+  "last_updated": "2026-04-22T05:52:29.845839+00:00",
+  "sample_number": 1
+}
