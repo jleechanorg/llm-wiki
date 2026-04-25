@@ -1,0 +1,19 @@
+{
+  "pr": "Q3",
+  "technique": "router",
+  "naming": 75,
+  "error_handling": 85,
+  "type_safety": 65,
+  "architecture": 80,
+  "test_coverage": 70,
+  "documentation": 35,
+  "total": 71.25,
+  "breakdown": "The answer demonstrates strong transparency by explicitly flagging the lack of wiki context and provides well-organized coverage of team configurations with actionable recommendations (2-3 agents). However, it suffers from significant type_safety weaknesses\u2014claims 'common implementations and research' without citations are unsubstantiated, and the documentation score is critically low due to zero actual sources despite the self-declared knowledge gap.",
+  "is_error": false,
+  "latency": 5.56,
+  "routed_to": "gnn",
+  "domain": "business",
+  "complexity": "medium",
+  "run_session": "P14-20260424T025936Z",
+  "last_updated": "2026-04-24T03:00:30.688397+00:00"
+}

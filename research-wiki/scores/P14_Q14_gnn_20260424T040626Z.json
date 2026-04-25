@@ -1,0 +1,19 @@
+{
+  "pr": "Q14",
+  "technique": "gnn",
+  "naming": 75,
+  "error_handling": 90,
+  "type_safety": 80,
+  "architecture": 65,
+  "test_coverage": 65,
+  "documentation": 85,
+  "total": 77,
+  "breakdown": "The answer provides accurate factual content comparing CoT and ToT with good coverage and structure. However, there are gaps: Chinese characters '\u663e\u8457' appear erroneously in the text, evidence citations lack explicit inference chains, and the 'Quick-pick guide' section appears truncated. The actionability dimension is weakened by the incomplete guidance section. There is also a discrepancy in the rubric - the weighting formula lists different dimensions (naming/error_handling/type_safety/architecture/test_coverage/documentation) than the evaluation criteria (Factual Accuracy/Coverage/Insight/Evidence/Actionability/Structure). This scoring applies the content-relevant dimensions to match the question intent.",
+  "is_error": false,
+  "latency": 18.33,
+  "routed_to": "gnn",
+  "domain": "technical",
+  "complexity": "low",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T04:06:37.907916+00:00"
+}

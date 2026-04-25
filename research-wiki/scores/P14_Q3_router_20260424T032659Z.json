@@ -1,0 +1,19 @@
+{
+  "pr": "Q3",
+  "technique": "router",
+  "naming": 70,
+  "error_handling": 65,
+  "type_safety": 60,
+  "architecture": 50,
+  "test_coverage": 60,
+  "documentation": 75,
+  "total": 62,
+  "breakdown": "The answer provides reasonable coverage of team size patterns and properly flags the missing wiki sources, but lacks primary evidence and actionable specifics\u2014the claim about '2-3 developers per LLM agent' is presented without citation or supporting data. The structure is clear and well-organized with headers, though the answer relies on general knowledge rather than authoritative sources or original analysis.",
+  "is_error": false,
+  "latency": 22.56,
+  "routed_to": "gnn",
+  "domain": "business",
+  "complexity": "medium",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:27:07.323588+00:00"
+}

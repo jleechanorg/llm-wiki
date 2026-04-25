@@ -1,0 +1,19 @@
+{
+  "pr": "Q10",
+  "technique": "router",
+  "naming": 0,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 0,
+  "test_coverage": 0,
+  "documentation": 0,
+  "total": 0,
+  "breakdown": "Answer contains only a tool invocation with no actual content. The 'answer' is simply an attempt to search for information rather than a response providing facts, analysis, insights, or any substantive content about open-source code generation models. All rubric dimensions score zero as there is no actual answer to evaluate.",
+  "is_error": false,
+  "latency": 3.76,
+  "routed_to": "single",
+  "domain": "science",
+  "complexity": "low",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:54:05.618587+00:00"
+}

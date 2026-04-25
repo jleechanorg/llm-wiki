@@ -1,0 +1,8 @@
+[GNN] Loading graph for similarity search...
+[GNN] Top 5 keyword matches: ['CircuitBreakerAgentSelection', 'AgentSelection', 'AgentStallRecovery', 'Self-Improving-Coding-Agents', 'TerminalMemoryAgents']
+
+Query: What liability frameworks apply when AI agents introduce bugs?
+Domain: policy | Complexity: high
+Mode: gnn
+Latency: 26.3s
+Answer length: 7622 chars

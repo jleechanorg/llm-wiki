@@ -1,0 +1,19 @@
+{
+  "pr": "Q2",
+  "technique": "gnn",
+  "naming": 45,
+  "error_handling": 25,
+  "type_safety": 15,
+  "architecture": 20,
+  "test_coverage": 10,
+  "documentation": 70,
+  "total": 27.25,
+  "breakdown": "The answer fails to provide substantive coverage of Self-Refine or PRM, offering only an acknowledgment of inability to locate information. It lacks any analytical insight, evidence chain, or actionable content beyond suggesting the user provide more context. While structured politely, it essentially dodges the core question rather than engaging with the requested benchmark comparison.",
+  "is_error": false,
+  "latency": 23.26,
+  "routed_to": "gnn",
+  "domain": "technical",
+  "complexity": "high",
+  "run_session": "P14-20260424T025140Z",
+  "last_updated": "2026-04-24T02:53:18.177826+00:00"
+}

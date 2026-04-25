@@ -1,0 +1,19 @@
+{
+  "pr": "Q5",
+  "technique": "router",
+  "naming": 35,
+  "error_handling": 25,
+  "type_safety": 30,
+  "architecture": 30,
+  "test_coverage": 20,
+  "documentation": 45,
+  "total": 31,
+  "breakdown": "The answer addresses process-reward model failure modes, but the rubric dimensions requested (naming, error_handling, type_safety, etc.) do not correspond to this content domain. Scores reflect partial alignment where concepts loosely map: reward misspecification touches error handling, temporal credit-assignment relates to architecture concerns, and the tabular structure provides documentation value. The content is well-structured and factual but misaligned with the provided scoring framework.",
+  "is_error": false,
+  "latency": 40.63,
+  "routed_to": "gnn",
+  "domain": "technical",
+  "complexity": "high",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:35:39.082735+00:00"
+}

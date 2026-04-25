@@ -1,0 +1,12 @@
+[ROUTER] Analyzing query for mode selection...
+[ROUTER] Domain=business, Complexity=medium
+[ROUTER] Predicted best mode: gnn
+[GNN] Loading graph for similarity search...
+[GNN] Top 5 keyword matches: ['TestInfrastructure', 'StructureDriftPattern', 'StructuredFieldsFixtures', 'StructuredResponseSchema', 'ParseStructuredResponse']
+[ROUTER] Used mode: gnn
+
+Query: How should companies structure LLM evaluation teams? Include org charts.
+Domain: business | Complexity: medium
+Mode: router → routed to gnn
+Latency: 8.1s
+Answer length: 148 chars

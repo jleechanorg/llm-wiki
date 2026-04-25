@@ -1,0 +1,19 @@
+{
+  "pr": "Q1",
+  "technique": "single",
+  "naming": 0,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 0,
+  "test_coverage": 0,
+  "documentation": 0,
+  "total": 0.0,
+  "breakdown": "No answer provided. The submitted content is a function call to explore a directory, not a response to query Q1. All rubric dimensions receive 0 as there is no content to evaluate for naming conventions, error handling, type safety, architecture, test coverage, or documentation.",
+  "is_error": false,
+  "latency": 5.81,
+  "routed_to": "single",
+  "domain": "science",
+  "complexity": "low",
+  "run_session": "P14-20260424T031418Z",
+  "last_updated": "2026-04-24T03:14:27.466437+00:00"
+}

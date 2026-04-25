@@ -1,0 +1,19 @@
+{
+  "pr": "Q1",
+  "technique": "fixed",
+  "naming": 65,
+  "error_handling": 70,
+  "type_safety": 60,
+  "architecture": 75,
+  "test_coverage": 55,
+  "documentation": 80,
+  "total": 67.0,
+  "breakdown": "The answer demonstrates solid structural organization and covers major research themes in autonomous AI with reasonable depth. However, it lacks explicit uncertainty acknowledgment, specific primary source citations, and clear actionable insights. The content is technically accurate but reads as a survey rather than an analytical synthesis.",
+  "is_error": false,
+  "latency": 17.75,
+  "routed_to": "fixed",
+  "domain": "science",
+  "complexity": "low",
+  "run_session": "P14-20260424T024428Z",
+  "last_updated": "2026-04-24T02:45:38.828172+00:00"
+}

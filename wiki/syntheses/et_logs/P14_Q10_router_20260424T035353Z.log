@@ -1,0 +1,10 @@
+[ROUTER] Analyzing query for mode selection...
+[ROUTER] Domain=science, Complexity=low
+[ROUTER] Predicted best mode: single
+[ROUTER] Used mode: single
+
+Query: What is the current state of open-source code generation models?
+Domain: science | Complexity: low
+Mode: router → routed to single
+Latency: 3.8s
+Answer length: 268 chars

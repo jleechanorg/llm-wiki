@@ -1,0 +1,19 @@
+{
+  "pr": "Q4",
+  "technique": "fixed",
+  "naming": 65,
+  "error_handling": 50,
+  "type_safety": 55,
+  "architecture": 70,
+  "test_coverage": 45,
+  "documentation": 75,
+  "total": 59.0,
+  "breakdown": "Answer provides solid conceptual explanation of extended-thinking models and recursion with clear examples, but uses terminology mismatched to rubric criteria. Content covers core mechanisms and code patterns well (architecture, documentation strong), yet lacks specific uncertainty markers, actionable steps, and primary source evidence. Coverage breadth is adequate but depth is limited\u2014edge cases and counterarguments are sparse. Test coverage dimension suffers most as no testing strategies are addressed.",
+  "is_error": false,
+  "latency": 12.65,
+  "routed_to": "fixed",
+  "domain": "science",
+  "complexity": "medium",
+  "run_session": "P14-20260424T030147Z",
+  "last_updated": "2026-04-24T03:03:33.618350+00:00"
+}

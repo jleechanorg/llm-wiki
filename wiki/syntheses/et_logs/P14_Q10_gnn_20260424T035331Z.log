@@ -1,0 +1,8 @@
+[GNN] Loading graph for similarity search...
+[GNN] Top 5 keyword matches: ['PDFGeneration', 'StateUpdatesProposed', 'GlobalProviderState', 'NestedStateManagement', 'StateTransitions']
+
+Query: What is the current state of open-source code generation models?
+Domain: science | Complexity: low
+Mode: gnn
+Latency: 6.6s
+Answer length: 1499 chars

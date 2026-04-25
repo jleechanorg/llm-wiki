@@ -1,0 +1,8 @@
+[GNN] Loading graph for similarity search...
+[GNN] Top 1 keyword matches: ['pr-362-compare-scrolling-logic-with-refe']
+
+Query: Compare Voyager vs AutoGPT architecture. Which is more extensible?
+Domain: technical | Complexity: medium
+Mode: gnn
+Latency: 6.0s
+Answer length: 2906 chars

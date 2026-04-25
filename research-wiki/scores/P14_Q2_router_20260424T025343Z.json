@@ -1,0 +1,19 @@
+{
+  "pr": "Q2",
+  "technique": "router",
+  "naming": 75,
+  "error_handling": 80,
+  "type_safety": 70,
+  "architecture": 65,
+  "test_coverage": 60,
+  "documentation": 70,
+  "total": 70.25,
+  "breakdown": "The answer appropriately flags uncertainty by acknowledging missing wiki context and avoids fabricating benchmark data. It covers both Self-Refine and PRM methodologies with reasonable depth but lacks specific quantitative benchmarks and edge cases. The comparison shows basic analytical insight but doesn't synthesize non-obvious relationships. Evidence quality is weak due to absence of cited sources, though the answer honestly states this limitation. Actionability is minimal\u2014offering to search for articles rather than providing direct answers. Structure is clear with headers but lacks an executive summary.",
+  "is_error": false,
+  "latency": 23.43,
+  "routed_to": "gnn",
+  "domain": "technical",
+  "complexity": "high",
+  "run_session": "P14-20260424T025140Z",
+  "last_updated": "2026-04-24T02:54:05.088170+00:00"
+}

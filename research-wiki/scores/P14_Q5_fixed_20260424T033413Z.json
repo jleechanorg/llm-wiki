@@ -1,0 +1,19 @@
+{
+  "pr": "Q5",
+  "technique": "fixed",
+  "naming": 45,
+  "error_handling": 30,
+  "type_safety": 20,
+  "architecture": 25,
+  "test_coverage": 15,
+  "documentation": 10,
+  "total": 24,
+  "breakdown": "RUBRIC MISMATCH: The answer discusses Process Reward Model failure modes but scoring was requested on software engineering dimensions (naming, error_handling, etc.) that don't apply. Using rough proxy mapping: references [1][2][3] are named variables (naming), no explicit error handling guidance presented (error_handling), no type system discussion (type_safety), no architectural recommendations (architecture), no test coverage strategies (test_coverage), structured headers present but no usage documentation (documentation).",
+  "is_error": false,
+  "latency": 12.76,
+  "routed_to": "fixed",
+  "domain": "technical",
+  "complexity": "high",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:34:18.966473+00:00"
+}

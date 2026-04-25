@@ -1,0 +1,19 @@
+{
+  "pr": "Q6",
+  "technique": "gnn",
+  "naming": 50,
+  "error_handling": 55,
+  "type_safety": 50,
+  "architecture": 45,
+  "test_coverage": 40,
+  "documentation": 60,
+  "total": 49,
+  "breakdown": "The answer correctly acknowledges missing context and expresses uncertainty, but fails to provide any substantive coverage of SWE-bench, shows zero analytical insight, lacks evidence or actionable guidance, and offers only a basic defensive structure. The formula dimensions don't match the stated rubric dimensions, causing confusion in interpretation.",
+  "is_error": false,
+  "latency": 9.09,
+  "routed_to": "gnn",
+  "domain": "technical",
+  "complexity": "low",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:38:56.064922+00:00"
+}

@@ -1,0 +1,9 @@
+[GNN] Loading graph for similarity search...
+[GNN] Loaded 31634 nodes
+[GNN] Top 5 keyword matches: ['PDFGeneration', 'PDF-Generation', 'DynamicFactionGeneration', 'DOCXGeneration', 'ThreeGenerationBackstoryTemplate']
+
+Query: Compare Self-Refine vs PRM for code generation tasks. Include quantitative benchmarks.
+Domain: technical | Complexity: high
+Mode: gnn
+Latency: 23.3s
+Answer length: 802 chars

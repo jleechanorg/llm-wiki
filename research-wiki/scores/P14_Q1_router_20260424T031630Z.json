@@ -1,0 +1,19 @@
+{
+  "pr": "Q1",
+  "technique": "router",
+  "naming": 0,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 0,
+  "test_coverage": 0,
+  "documentation": 0,
+  "total": 0.0,
+  "breakdown": "The answer contains only a directory listing command with no substantive content addressing the query\u2014zero coverage, analysis, evidence, or actionable information. All rubric dimensions score at minimum.",
+  "is_error": false,
+  "latency": 2.04,
+  "routed_to": "single",
+  "domain": "science",
+  "complexity": "low",
+  "run_session": "P14-20260424T031418Z",
+  "last_updated": "2026-04-24T03:16:38.696937+00:00"
+}

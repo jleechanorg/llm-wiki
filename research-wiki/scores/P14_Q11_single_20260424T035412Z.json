@@ -1,0 +1,19 @@
+{
+  "pr": "Q11",
+  "technique": "single",
+  "naming": 0,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 0,
+  "test_coverage": 0,
+  "documentation": 0,
+  "total": 0,
+  "breakdown": "The answer contains no actual procurement policy content\u2014it is merely a statement of intent to explore a wiki. All scoring dimensions receive 0 as there is no substantive content to evaluate: no factual claims, no coverage of topics, no insights, no evidence chain, no actionable steps, and no structural elements.",
+  "is_error": false,
+  "latency": 4.97,
+  "routed_to": "single",
+  "domain": "policy",
+  "complexity": "high",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:54:16.981767+00:00"
+}

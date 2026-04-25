@@ -1,0 +1,19 @@
+{
+  "pr": "Q12",
+  "technique": "router",
+  "naming": 65,
+  "error_handling": 70,
+  "type_safety": 60,
+  "architecture": 75,
+  "test_coverage": 55,
+  "documentation": 80,
+  "total": 68,
+  "breakdown": "The answer provides solid conceptual coverage of multi-agent debate mechanisms and applications, but lacks primary source citations and explicit uncertainty flagging for factual claims. The structure is clear with good hierarchy, and it offers useful examples (IBM, Google, DeepMind). However, it doesn't link evidence\u2192inference\u2192conclusion explicitly, and provides minimal actionable guidance. The discussion of error detection and confidence aggregation shows analytical depth, but training data bias acknowledgment is incomplete.",
+  "is_error": false,
+  "latency": 7.34,
+  "routed_to": "fixed",
+  "domain": "science",
+  "complexity": "medium",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T04:02:49.725061+00:00"
+}

@@ -1,0 +1,428 @@
+{
+  "mode_summary": {
+    "single": {
+      "n": 21,
+      "mean": 15.67,
+      "stdev": 22.78,
+      "min": 0.0,
+      "max": 59,
+      "latency_mean": 19.18
+    },
+    "fixed": {
+      "n": 21,
+      "mean": 62.98,
+      "stdev": 24.3,
+      "min": 0,
+      "max": 121.75,
+      "latency_mean": 18.2
+    },
+    "gnn": {
+      "n": 21,
+      "mean": 58.55,
+      "stdev": 20.94,
+      "min": 0.0,
+      "max": 80.75,
+      "latency_mean": 23.47
+    },
+    "router": {
+      "n": 21,
+      "mean": 43.21,
+      "stdev": 30.93,
+      "min": 0.0,
+      "max": 82.25,
+      "latency_mean": 26.89
+    }
+  },
+  "win_counts": {
+    "single": 0,
+    "fixed": 5,
+    "gnn": 7,
+    "router": 3
+  },
+  "query_breakdown": {
+    "Q1": {
+      "scores": {
+        "single": 0.0,
+        "fixed": 50.0,
+        "gnn": 77.65,
+        "router": 5.0
+      },
+      "best": 77.65,
+      "best_mode": "gnn"
+    },
+    "Q10": {
+      "scores": {
+        "single": 0,
+        "fixed": 38,
+        "gnn": 54.5,
+        "router": 0
+      },
+      "best": 54.5,
+      "best_mode": "gnn"
+    },
+    "Q11": {
+      "scores": {
+        "single": 0,
+        "fixed": 68,
+        "gnn": 58,
+        "router": 74
+      },
+      "best": 74,
+      "best_mode": "router"
+    },
+    "Q12": {
+      "scores": {
+        "single": 6,
+        "fixed": 65,
+        "gnn": 63,
+        "router": 68
+      },
+      "best": 68,
+      "best_mode": "router"
+    },
+    "Q13": {
+      "scores": {
+        "single": 5,
+        "fixed": 74,
+        "gnn": 32,
+        "router": 45
+      },
+      "best": 74,
+      "best_mode": "fixed"
+    },
+    "Q14": {
+      "scores": {
+        "single": 59,
+        "fixed": 79,
+        "gnn": 77,
+        "router": 12
+      },
+      "best": 79,
+      "best_mode": "fixed"
+    },
+    "Q15": {
+      "scores": {
+        "single": 0,
+        "fixed": 74,
+        "gnn": 68,
+        "router": 82
+      },
+      "best": 82,
+      "best_mode": "router"
+    },
+    "Q2": {
+      "scores": {
+        "single": 31.75,
+        "fixed": 66.75,
+        "gnn": 27.25,
+        "router": 50.0
+      },
+      "best": 66.75,
+      "best_mode": "fixed"
+    },
+    "Q3": {
+      "scores": {
+        "single": 0.0,
+        "fixed": 45.0,
+        "gnn": 71,
+        "router": 62
+      },
+      "best": 71,
+      "best_mode": "gnn"
+    },
+    "Q4": {
+      "scores": {
+        "single": 7.75,
+        "fixed": 77,
+        "gnn": 45.75,
+        "router": 37
+      },
+      "best": 77,
+      "best_mode": "fixed"
+    },
+    "Q5": {
+      "scores": {
+        "single": 7,
+        "fixed": 77.5,
+        "gnn": 79,
+        "router": 31
+      },
+      "best": 79,
+      "best_mode": "gnn"
+    },
+    "Q6": {
+      "scores": {
+        "single": 0,
+        "fixed": 48,
+        "gnn": 80.75,
+        "router": 8
+      },
+      "best": 80.75,
+      "best_mode": "gnn"
+    },
+    "Q7": {
+      "scores": {
+        "single": 50.0,
+        "fixed": 0,
+        "gnn": 80,
+        "router": 4
+      },
+      "best": 80,
+      "best_mode": "gnn"
+    },
+    "Q8": {
+      "scores": {
+        "single": 58,
+        "fixed": 82,
+        "gnn": 58,
+        "router": 78
+      },
+      "best": 82,
+      "best_mode": "fixed"
+    },
+    "Q9": {
+      "scores": {
+        "single": 1,
+        "fixed": 75,
+        "gnn": 76,
+        "router": 72
+      },
+      "best": 76,
+      "best_mode": "gnn"
+    }
+  },
+  "router_accuracy": {
+    "correct": 6,
+    "incorrect": 9,
+    "ties": 0,
+    "queries": [
+      {
+        "qid": "Q6",
+        "predicted": "single",
+        "best_actual": "gnn",
+        "verdict": "incorrect",
+        "scores": {
+          "single": 0,
+          "fixed": 69.25,
+          "gnn": 80.75,
+          "router": 8
+        }
+      },
+      {
+        "qid": "Q1",
+        "predicted": "single",
+        "best_actual": "fixed",
+        "verdict": "incorrect",
+        "scores": {
+          "single": 0.0,
+          "fixed": 67.0,
+          "gnn": 0,
+          "router": 5.0
+        }
+      },
+      {
+        "qid": "Q4",
+        "predicted": "fixed",
+        "best_actual": "fixed",
+        "verdict": "correct",
+        "scores": {
+          "single": 7.75,
+          "fixed": 77,
+          "gnn": 45.75,
+          "router": 37
+        }
+      },
+      {
+        "qid": "Q9",
+        "predicted": "fixed",
+        "best_actual": "router",
+        "verdict": "incorrect",
+        "scores": {
+          "single": 0,
+          "fixed": 0,
+          "gnn": 0,
+          "router": 72
+        }
+      },
+      {
+        "qid": "Q13",
+        "predicted": "gnn",
+        "best_actual": "router",
+        "verdict": "incorrect",
+        "scores": {
+          "single": 0,
+          "fixed": 0,
+          "gnn": 0,
+          "router": 45
+        }
+      },
+      {
+        "qid": "Q3",
+        "predicted": "gnn",
+        "best_actual": "gnn",
+        "verdict": "correct",
+        "scores": {
+          "single": 0,
+          "fixed": 45.0,
+          "gnn": 66.75,
+          "router": 62
+        }
+      },
+      {
+        "qid": "Q14",
+        "predicted": "single",
+        "best_actual": "single",
+        "verdict": "correct",
+        "scores": {
+          "single": 59,
+          "fixed": 0,
+          "gnn": 0,
+          "router": 12
+        }
+      },
+      {
+        "qid": "Q8",
+        "predicted": "gnn",
+        "best_actual": "fixed",
+        "verdict": "incorrect",
+        "scores": {
+          "single": 0,
+          "fixed": 82,
+          "gnn": 0,
+          "router": 78
+        }
+      },
+      {
+        "qid": "Q2",
+        "predicted": "gnn",
+        "best_actual": "gnn",
+        "verdict": "correct",
+        "scores": {
+          "single": 50.0,
+          "fixed": 62.25,
+          "gnn": 73.75,
+          "router": 50.0
+        }
+      },
+      {
+        "qid": "Q10",
+        "predicted": "single",
+        "best_actual": "gnn",
+        "verdict": "incorrect",
+        "scores": {
+          "single": 0,
+          "fixed": 38,
+          "gnn": 54.5,
+          "router": 0
+        }
+      },
+      {
+        "qid": "Q12",
+        "predicted": "fixed",
+        "best_actual": "router",
+        "verdict": "incorrect",
+        "scores": {
+          "single": 6,
+          "fixed": 65,
+          "gnn": 63,
+          "router": 68
+        }
+      },
+      {
+        "qid": "Q7",
+        "predicted": "gnn",
+        "best_actual": "gnn",
+        "verdict": "correct",
+        "scores": {
+          "single": 50.0,
+          "fixed": 0,
+          "gnn": 80,
+          "router": 4
+        }
+      },
+      {
+        "qid": "Q11",
+        "predicted": "gnn",
+        "best_actual": "router",
+        "verdict": "incorrect",
+        "scores": {
+          "single": 0,
+          "fixed": 0,
+          "gnn": 58,
+          "router": 74
+        }
+      },
+      {
+        "qid": "Q5",
+        "predicted": "gnn",
+        "best_actual": "gnn",
+        "verdict": "correct",
+        "scores": {
+          "single": 7,
+          "fixed": 77.5,
+          "gnn": 79,
+          "router": 31
+        }
+      },
+      {
+        "qid": "Q15",
+        "predicted": "gnn",
+        "best_actual": "router",
+        "verdict": "incorrect",
+        "scores": {
+          "single": 0,
+          "fixed": 74,
+          "gnn": 68,
+          "router": 82
+        }
+      }
+    ]
+  },
+  "domain_heatmap": {
+    "business": {
+      "single": 26.25,
+      "fixed": 60.19,
+      "gnn": 62.44,
+      "router": 45.56
+    },
+    "policy": {
+      "single": 19.33,
+      "fixed": 74.67,
+      "gnn": 61.33,
+      "router": 78
+    },
+    "science": {
+      "single": 2.29,
+      "fixed": 59.33,
+      "gnn": 46.48,
+      "router": 32.04
+    },
+    "technical": {
+      "single": 19.03,
+      "fixed": 62.72,
+      "gnn": 64.62,
+      "router": 37.38
+    }
+  },
+  "complexity_heatmap": {
+    "low": {
+      "single": 9.83,
+      "fixed": 58.54,
+      "gnn": 56.48,
+      "router": 5.12
+    },
+    "medium": {
+      "single": 14.97,
+      "fixed": 64.59,
+      "gnn": 59.06,
+      "router": 55.19
+    },
+    "high": {
+      "single": 21.46,
+      "fixed": 64.93,
+      "gnn": 59.75,
+      "router": 62.18
+    }
+  },
+  "total_scores": 84
+}

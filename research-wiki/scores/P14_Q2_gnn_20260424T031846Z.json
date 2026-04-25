@@ -1,0 +1,19 @@
+{
+  "pr": "Q2",
+  "technique": "gnn",
+  "naming": 60,
+  "error_handling": 75,
+  "type_safety": 85,
+  "architecture": 70,
+  "test_coverage": 65,
+  "documentation": 90,
+  "total": 73.75,
+  "breakdown": "Answer provides accurate overview of Self-Refine vs PRM with reasonable coverage but lacks specific citations and precise quantitative benchmarks. Structure is clear with good table comparison and note acknowledging uncertainty. Actionable insights are limited to general comparison rather than specific recommendations.",
+  "is_error": false,
+  "latency": 16.61,
+  "routed_to": "gnn",
+  "domain": "technical",
+  "complexity": "high",
+  "run_session": "P14-20260424T031418Z",
+  "last_updated": "2026-04-24T03:18:49.941042+00:00"
+}

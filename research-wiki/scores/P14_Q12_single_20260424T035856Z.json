@@ -1,0 +1,19 @@
+{
+  "pr": "Q12",
+  "technique": "single",
+  "naming": 10,
+  "error_handling": 5,
+  "type_safety": 5,
+  "architecture": 5,
+  "test_coverage": 5,
+  "documentation": 5,
+  "total": 6,
+  "breakdown": "Answer contains only a description of intended tool usage (searching wiki) but no actual content\u2014no facts, insights, analysis, evidence, or action items. It's a placeholder response with zero substantive engagement with the query topic.",
+  "is_error": false,
+  "latency": 3.79,
+  "routed_to": "single",
+  "domain": "science",
+  "complexity": "medium",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:59:01.500245+00:00"
+}

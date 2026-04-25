@@ -1,0 +1,9 @@
+[GNN] Loading graph for similarity search...
+[GNN] Loaded 31634 nodes
+[GNN] Top 5 keyword matches: ['Self-Improving-Coding-Agents', 'CodingAgent', 'AgenticCoding', 'ai-coding', 'pr-1196-create-genesis-coding-md']
+
+Query: What is the optimal team size for LLM-powered coding agents?
+Domain: business | Complexity: medium
+Mode: gnn
+Latency: 16.1s
+Answer length: 4831 chars

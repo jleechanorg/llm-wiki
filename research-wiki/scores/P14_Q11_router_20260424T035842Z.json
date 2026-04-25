@@ -1,0 +1,19 @@
+{
+  "pr": "Q11",
+  "technique": "router",
+  "naming": 75,
+  "error_handling": 65,
+  "type_safety": 70,
+  "architecture": 88,
+  "test_coverage": 62,
+  "documentation": 85,
+  "total": 74,
+  "breakdown": "The policy document demonstrates strong structural organization covering evaluation criteria, procurement workflow, and governance. However, it lacks explicit uncertainty acknowledgment and primary source citations. The actionability is solid with clear ownership and process steps, but analytical depth is limited to general best practices rather than novel insights. Coverage breadth is good across major subtopics but misses some edge cases like multi-vendor redundancy or hybrid deployment scenarios.",
+  "is_error": false,
+  "latency": 33.66,
+  "routed_to": "gnn",
+  "domain": "policy",
+  "complexity": "high",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:58:51.157544+00:00"
+}

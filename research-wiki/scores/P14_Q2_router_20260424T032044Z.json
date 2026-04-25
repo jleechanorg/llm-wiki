@@ -1,0 +1,19 @@
+{
+  "pr": "Q2",
+  "technique": "router",
+  "naming": 50,
+  "error_handling": 50,
+  "type_safety": 50,
+  "architecture": 50,
+  "test_coverage": 50,
+  "documentation": 50,
+  "total": 50.0,
+  "breakdown": "Scoring parse error. Raw: {\"naming\": 10, \"error_handling\": 30, \"type",
+  "is_error": false,
+  "latency": 64.81,
+  "routed_to": "gnn",
+  "domain": "technical",
+  "complexity": "high",
+  "run_session": "P14-20260424T031939Z",
+  "last_updated": "2026-04-24T03:20:54.686258+00:00"
+}

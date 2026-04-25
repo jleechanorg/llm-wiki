@@ -1,0 +1,19 @@
+{
+  "pr": "Q6",
+  "technique": "router",
+  "naming": 10,
+  "error_handling": 5,
+  "type_safety": 5,
+  "architecture": 5,
+  "test_coverage": 5,
+  "documentation": 5,
+  "total": 5.75,
+  "breakdown": "The answer provides only a bash command with no substantive content addressing any rubric dimension. The output format requested does not match the 6-dimension rubric provided, creating a mismatch. Since there's no actual answer to the query (no question Q6 visible), and the response is merely a directory listing command, it fails to demonstrate coverage, insight, evidence, actionability, or proper structure. This would be a template or context error - the submitted text appears to be a command rather than an answer.",
+  "is_error": false,
+  "latency": 5.08,
+  "routed_to": "single",
+  "domain": "technical",
+  "complexity": "low",
+  "run_session": "P14-20260424T031138Z",
+  "last_updated": "2026-04-24T03:12:51.701628+00:00"
+}

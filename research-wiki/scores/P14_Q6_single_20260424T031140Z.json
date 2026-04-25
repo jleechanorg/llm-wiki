@@ -1,0 +1,19 @@
+{
+  "pr": "Q6",
+  "technique": "single",
+  "naming": 0,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 0,
+  "test_coverage": 0,
+  "documentation": 0,
+  "total": 0.0,
+  "breakdown": "The answer contains only a filesystem_list_directory function call with no substantive content addressing any of the six rubric dimensions (naming, error_handling, type_safety, architecture, test_coverage, documentation). No code, analysis, or explanatory text is provided.",
+  "is_error": false,
+  "latency": 1.89,
+  "routed_to": "single",
+  "domain": "technical",
+  "complexity": "low",
+  "run_session": "P14-20260424T031138Z",
+  "last_updated": "2026-04-24T03:11:44.401732+00:00"
+}

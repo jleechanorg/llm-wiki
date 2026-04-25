@@ -1,0 +1,19 @@
+{
+  "pr": "Q15",
+  "technique": "gnn",
+  "naming": 70,
+  "error_handling": 85,
+  "type_safety": 75,
+  "architecture": 60,
+  "test_coverage": 45,
+  "documentation": 90,
+  "total": 68,
+  "breakdown": "The answer demonstrates strong factual accuracy and comprehensive coverage of legal liability frameworks (EU Product Liability Directive, US negligence standards, AI Act proposals). However, it lacks explicit uncertainty markers and primary source citations, limiting evidence chain quality. The structure is excellent with clear hierarchy, but actionability is weak\u2014the answer explains legal theories without providing concrete guidance on liability allocation or risk mitigation steps that stakeholders can implement.",
+  "is_error": false,
+  "latency": 26.27,
+  "routed_to": "gnn",
+  "domain": "policy",
+  "complexity": "high",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T04:08:47.906727+00:00"
+}

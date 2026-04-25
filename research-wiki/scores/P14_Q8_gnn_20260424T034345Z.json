@@ -1,0 +1,19 @@
+{
+  "pr": "Q8",
+  "technique": "gnn",
+  "naming": 60,
+  "error_handling": 55,
+  "type_safety": 50,
+  "architecture": 65,
+  "test_coverage": 45,
+  "documentation": 75,
+  "total": 58,
+  "breakdown": "The answer provides good structure and readable coverage of international AI regulatory frameworks (EU AI Act, NIST, Canada AIDA, China), but appears to use an incorrect scoring rubric. Using the intended 6-dimension rubric (Factual Accuracy 15%, Coverage 20%, Insight 25%, Evidence 15%, Actionability 15%, Structure 10%), I'd score: Factual Accuracy 70 (accurate but limited specifics on coding agents), Coverage 75 (good breadth but missing some jurisdictions), Insight 55 (descriptive rather than analytical), Evidence 50 (framework names but no primary source citations), Actionability 30 (no specific actions), Structure 85 (excellent tables and hierarchy). Weighted total would be approximately 58/100.",
+  "is_error": false,
+  "latency": 46.43,
+  "routed_to": "gnn",
+  "domain": "policy",
+  "complexity": "high",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:44:01.960348+00:00"
+}

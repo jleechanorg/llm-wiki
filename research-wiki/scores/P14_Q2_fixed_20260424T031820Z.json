@@ -1,0 +1,19 @@
+{
+  "pr": "Q2",
+  "technique": "fixed",
+  "naming": 55,
+  "error_handling": 60,
+  "type_safety": 65,
+  "architecture": 70,
+  "test_coverage": 50,
+  "documentation": 75,
+  "total": 62.25,
+  "breakdown": "Answer provides solid comparative framework and tables but uses uncertain/generic benchmark numbers (e.g., '~67%') without proper sourcing. Lacks primary citations and actionable guidance. Structure is clear but dimensionality mismatch between query and weighted formula limits scoring precision.",
+  "is_error": false,
+  "latency": 10.49,
+  "routed_to": "fixed",
+  "domain": "technical",
+  "complexity": "high",
+  "run_session": "P14-20260424T031418Z",
+  "last_updated": "2026-04-24T03:18:27.415763+00:00"
+}

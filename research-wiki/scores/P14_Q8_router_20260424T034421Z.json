@@ -1,0 +1,19 @@
+{
+  "pr": "Q8",
+  "technique": "router",
+  "naming": 85,
+  "error_handling": 75,
+  "type_safety": 80,
+  "architecture": 72,
+  "test_coverage": 68,
+  "documentation": 88,
+  "total": 78,
+  "breakdown": "Answer correctly identifies key regulatory frameworks (GDPR, CCPA, EU AI Act, etc.) with appropriate uncertainty acknowledgment. Good coverage breadth across data protection, IP, AI regulations, and liability. Insightful in connecting general laws to AI-specific context. However, evidence chain weak (no primary sources cited), actionability limited (generic advice to consult counsel), and no explicit source verification provided.",
+  "is_error": false,
+  "latency": 17.19,
+  "routed_to": "gnn",
+  "domain": "policy",
+  "complexity": "high",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:44:26.372629+00:00"
+}

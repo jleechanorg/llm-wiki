@@ -1,0 +1,19 @@
+{
+  "pr": "Q14",
+  "technique": "single",
+  "naming": 70,
+  "error_handling": 65,
+  "type_safety": 60,
+  "architecture": 50,
+  "test_coverage": 40,
+  "documentation": 75,
+  "total": 59,
+  "breakdown": "The answer correctly distinguishes CoT linear structure from ToT branching but uses questionable benchmark figures (GSM8K ~55-60%) without proper sourcing. Coverage is adequate on mechanisms but misses edge cases and implementation trade-offs. Lacks actionable guidance and presents descriptive comparison without analytical novelty. Evidence chain is weak - cites 'wiki pages' generically without specific references.",
+  "is_error": false,
+  "latency": 21.79,
+  "routed_to": "single",
+  "domain": "technical",
+  "complexity": "low",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T04:05:29.371187+00:00"
+}

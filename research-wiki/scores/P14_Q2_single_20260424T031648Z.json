@@ -1,0 +1,19 @@
+{
+  "pr": "Q2",
+  "technique": "single",
+  "naming": 35,
+  "error_handling": 25,
+  "type_safety": 20,
+  "architecture": 40,
+  "test_coverage": 30,
+  "documentation": 50,
+  "total": 31.75,
+  "breakdown": "The answer conflates evaluation dimensions from different rubrics\u2014the content quality rubric dimensions (factual accuracy, coverage, insight) don't map to the requested software engineering dimensions (naming, error_handling, type_safety), causing systematic misalignment; while the answer shows strong structure and reasonable content coverage for a technical comparison, the scoring dimensions are inapplicable to the subject matter.",
+  "is_error": false,
+  "latency": 7.79,
+  "routed_to": "single",
+  "domain": "technical",
+  "complexity": "high",
+  "run_session": "P14-20260424T031418Z",
+  "last_updated": "2026-04-24T03:17:02.176374+00:00"
+}

@@ -1,0 +1,10 @@
+[ROUTER] Analyzing query for mode selection...
+[ROUTER] Domain=technical, Complexity=medium
+[ROUTER] Predicted best mode: fixed
+[ROUTER] Used mode: fixed
+
+Query: Compare Voyager vs AutoGPT architecture. Which is more extensible?
+Domain: technical | Complexity: medium
+Mode: router → routed to fixed
+Latency: 181.3s
+Answer length: 3712 chars

@@ -1,0 +1,10 @@
+[ROUTER] Analyzing query for mode selection...
+[ROUTER] Domain=science, Complexity=medium
+[ROUTER] Predicted best mode: fixed
+[ROUTER] Used mode: fixed
+
+Query: How do multi-agent辩论 systems improve factual accuracy?
+Domain: science | Complexity: medium
+Mode: router → routed to fixed
+Latency: 7.3s
+Answer length: 3536 chars

@@ -1,0 +1,9 @@
+[GNN] Loading graph for similarity search...
+[GNN] Loaded 31634 nodes
+[GNN] Top 5 keyword matches: ['worldarchitect.ai-docs-benchmark-results', 'BenchmarkTesting', 'pr-191-docs-post-ingest-5-recall-results', 'pr-244-docs-mem0-post-ingest-recall-test', 'pr-5812-feat-lazy-warmup-benchmark-fixes']
+
+Query: Summarize the SWE-bench benchmark results from 2024-2025.
+Domain: technical | Complexity: low
+Mode: gnn
+Latency: 4.4s
+Answer length: 526 chars

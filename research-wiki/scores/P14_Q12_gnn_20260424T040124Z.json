@@ -1,0 +1,19 @@
+{
+  "pr": "Q12",
+  "technique": "gnn",
+  "naming": 72,
+  "error_handling": 68,
+  "type_safety": 65,
+  "architecture": 55,
+  "test_coverage": 42,
+  "documentation": 78,
+  "total": 63,
+  "breakdown": "The answer provides solid theoretical coverage of multi-agent debate mechanisms with good structure, but lacks explicit uncertainty quantification and concrete examples. The evidence chain relies heavily on Wikipedia topic links rather than primary sources, and actionability is weak with no specific implementation guidance or verification methods. The Chinese text fragment ('\u68c0\u7d22\u8865\u5145') indicates an uncaught error in the document.",
+  "is_error": false,
+  "latency": 38.35,
+  "routed_to": "gnn",
+  "domain": "science",
+  "complexity": "medium",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T04:01:50.803242+00:00"
+}

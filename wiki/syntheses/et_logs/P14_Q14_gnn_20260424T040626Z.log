@@ -1,0 +1,8 @@
+[GNN] Loading graph for similarity search...
+[GNN] Top 0 keyword matches: []
+
+Query: Explain tree-of-thought vs chain-of-thought prompting.
+Domain: technical | Complexity: low
+Mode: gnn
+Latency: 18.3s
+Answer length: 3661 chars

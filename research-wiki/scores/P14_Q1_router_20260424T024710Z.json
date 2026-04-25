@@ -1,0 +1,19 @@
+{
+  "pr": "Q1",
+  "technique": "router",
+  "naming": 5,
+  "error_handling": 5,
+  "type_safety": 5,
+  "architecture": 5,
+  "test_coverage": 5,
+  "documentation": 5,
+  "total": 5.0,
+  "breakdown": "Answer is merely a tool invocation with no substantive content addressing any rubric dimension. Provides no reasoning, analysis, facts, or structured response to the query.",
+  "is_error": false,
+  "latency": 4.16,
+  "routed_to": "single",
+  "domain": "science",
+  "complexity": "low",
+  "run_session": "P14-20260424T024605Z",
+  "last_updated": "2026-04-24T02:47:14.370299+00:00"
+}

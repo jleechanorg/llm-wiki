@@ -1,0 +1,10 @@
+[ROUTER] Analyzing query for mode selection...
+[ROUTER] Domain=science, Complexity=medium
+[ROUTER] Predicted best mode: fixed
+[ROUTER] Used mode: fixed
+
+Query: Explain how Extended Thinking models handle recursion in code. Provide examples.
+Domain: science | Complexity: medium
+Mode: router → routed to fixed
+Latency: 14.1s
+Answer length: 6183 chars

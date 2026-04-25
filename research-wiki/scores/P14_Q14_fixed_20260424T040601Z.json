@@ -1,0 +1,19 @@
+{
+  "pr": "Q14",
+  "technique": "fixed",
+  "naming": 90,
+  "error_handling": 70,
+  "type_safety": 75,
+  "architecture": 80,
+  "test_coverage": 65,
+  "documentation": 90,
+  "total": 79,
+  "breakdown": "The answer provides accurate and well-structured explanations of CoT and ToT techniques with effective analogies and comparison tables. However, it lacks explicit sourcing/citations, doesn't clearly flag uncertainty, and the actionability dimension is underdeveloped (the 'When to Use Each' section stops abruptly and lacks concrete implementation guidance). The structure is excellent with clear hierarchy and markdown formatting",
+  "is_error": false,
+  "latency": 6.71,
+  "routed_to": "fixed",
+  "domain": "technical",
+  "complexity": "low",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T04:06:06.359411+00:00"
+}

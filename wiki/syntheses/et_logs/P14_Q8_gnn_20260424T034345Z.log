@@ -1,0 +1,8 @@
+[GNN] Loading graph for similarity search...
+[GNN] Top 5 keyword matches: ['AutonomousTaskAgentOrchestration', 'AutonomousAgentLoop', 'Self-Improving-Coding-Agents', 'CodingAgent', 'AgenticCoding']
+
+Query: What regulatory frameworks apply to autonomous AI coding agents?
+Domain: policy | Complexity: high
+Mode: gnn
+Latency: 46.4s
+Answer length: 8445 chars

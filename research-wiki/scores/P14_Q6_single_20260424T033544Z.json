@@ -1,0 +1,19 @@
+{
+  "pr": "Q6",
+  "technique": "single",
+  "naming": 0,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 0,
+  "test_coverage": 0,
+  "documentation": 0,
+  "total": 0,
+  "breakdown": "The answer provided is only a bash shell command (ls -F) rather than any actual text response. There is no content to evaluate against the rubric dimensions (factual accuracy, coverage, insight, evidence, actionability, structure). No query Q6 was even specified to understand what question this answer was meant to address. Total score: 0.",
+  "is_error": false,
+  "latency": 3.06,
+  "routed_to": "single",
+  "domain": "technical",
+  "complexity": "low",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:35:49.971240+00:00"
+}

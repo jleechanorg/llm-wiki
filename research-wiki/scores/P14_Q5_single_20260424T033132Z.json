@@ -1,0 +1,19 @@
+{
+  "pr": "Q5",
+  "technique": "single",
+  "naming": 10,
+  "error_handling": 5,
+  "type_safety": 5,
+  "architecture": 5,
+  "test_coverage": 10,
+  "documentation": 10,
+  "total": 7,
+  "breakdown": "The answer only contains a tool invocation to explore a wiki directory with no actual content addressing process reward models or their failure modes in multi-step reasoning, resulting in near-zero coverage across all substantive dimensions.",
+  "is_error": false,
+  "latency": 3.8,
+  "routed_to": "single",
+  "domain": "technical",
+  "complexity": "high",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:31:49.920794+00:00"
+}

@@ -1,0 +1,12 @@
+[ROUTER] Analyzing query for mode selection...
+[ROUTER] Domain=technical, Complexity=high
+[ROUTER] Predicted best mode: gnn
+[GNN] Loading graph for similarity search...
+[GNN] Top 5 keyword matches: ['PDFGeneration', 'PDF-Generation', 'DynamicFactionGeneration', 'DOCXGeneration', 'ThreeGenerationBackstoryTemplate']
+[ROUTER] Used mode: gnn
+
+Query: Compare Self-Refine vs PRM for code generation tasks. Include quantitative benchmarks.
+Domain: technical | Complexity: high
+Mode: router → routed to gnn
+Latency: 23.4s
+Answer length: 1754 chars

@@ -1,0 +1,19 @@
+{
+  "pr": "Q4",
+  "technique": "gnn",
+  "naming": 30,
+  "error_handling": 25,
+  "type_safety": 35,
+  "architecture": 40,
+  "test_coverage": 15,
+  "documentation": 85,
+  "total": 38,
+  "breakdown": "Answer correctly acknowledges context limitation and provides general recursion explanation with Python example\u2014but lacks specific wiki citations required by the query. The conceptual content about recursive processing is accurate but lacks depth in Extended Thinking model specifics. No testable assertions or verifiable evidence chain provided. Structure is good with clear headers but dimensions seem mismatched to actual answer content.",
+  "is_error": false,
+  "latency": 5.61,
+  "routed_to": "gnn",
+  "domain": "science",
+  "complexity": "medium",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T03:30:07.732145+00:00"
+}

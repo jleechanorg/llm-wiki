@@ -1,0 +1,19 @@
+{
+  "pr": "Q15",
+  "technique": "single",
+  "naming": 0,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 0,
+  "test_coverage": 0,
+  "documentation": 0,
+  "total": 0,
+  "breakdown": "The provided answer is not actually a response to Q15\u2014it's a function call to open a wiki path. There is no text content to evaluate against naming, error handling, type safety, architecture, test coverage, or documentation criteria.",
+  "is_error": false,
+  "latency": 1.6,
+  "routed_to": "single",
+  "domain": "policy",
+  "complexity": "high",
+  "run_session": "P14-20260424T032510Z",
+  "last_updated": "2026-04-24T04:07:20.091528+00:00"
+}

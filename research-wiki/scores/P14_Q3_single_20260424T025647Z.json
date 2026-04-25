@@ -1,0 +1,19 @@
+{
+  "pr": "Q3",
+  "technique": "single",
+  "naming": 0,
+  "error_handling": 0,
+  "type_safety": 0,
+  "architecture": 0,
+  "test_coverage": 0,
+  "documentation": 0,
+  "total": 0.0,
+  "breakdown": "No answer provided - the response only executes tool calls (wiki_search) but never returns actual content/answers to the query. Contains no factual claims, no insights, no actionable guidance, and no structure for evaluation.",
+  "is_error": false,
+  "latency": 160.82,
+  "routed_to": "single",
+  "domain": "business",
+  "complexity": "medium",
+  "run_session": "P14-20260424T025140Z",
+  "last_updated": "2026-04-24T02:56:51.919460+00:00"
+}

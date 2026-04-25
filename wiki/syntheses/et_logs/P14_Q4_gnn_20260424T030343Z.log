@@ -1,0 +1,9 @@
+[GNN] Loading graph for similarity search...
+[GNN] Loaded 31634 nodes
+[GNN] Top 5 keyword matches: ['ExtendedThinking', 'pr-2263-fix-cerebras-provider-to-handle-', 'DiceProviderFallback', 'GlobalProviderState', 'OpenAICompatibleProvider']
+
+Query: Explain how Extended Thinking models handle recursion in code. Provide examples.
+Domain: science | Complexity: medium
+Mode: gnn
+Latency: 7.8s
+Answer length: 898 chars
