@@ -299,25 +299,54 @@ Step 2: ATTACK your fix — what breaks? what edge cases? what fails?
 Step 3: Refine the fix to address the weaknesses found.
 Output the final code in a ```python``` block.""",
     },
+    "SR-5iter": {
+        "system": "You are an expert code reviewer and fixer. Generate production-ready code fixes for GitHub PRs with 5 rounds of self-refinement.",
+        "generation": """Analyze this PR and generate a complete, production-ready fix.
+
+PR Title: {title}
+PR Description: {body}
+
+Diff:
+{diff}
+
+Generate a complete fix. Then perform 5 rounds of self-refinement:
+- Round 1: Review your fix against code quality standards. Identify 2-3 specific improvements.
+- Round 2: Apply those improvements. Check for new issues.
+- Round 3: Refine error handling and type safety. Verify edge cases.
+- Round 4: Check architecture and naming. Ensure module boundaries are clean.
+- Round 5: Final polish — documentation, comments, and any last improvements.
+
+Output the final fixed code in a ```python``` block. Show brief refinement notes before the final code.""",
+    },
 }
 
 
 def call_minimax(prompt: str, system_prompt: str) -> str:
-    """Call MiniMax via Anthropic SDK. Handles ThinkingBlock responses."""
+    """Call MiniMax via Anthropic SDK with retry on rate limit."""
+    import time
     client = anthropic.Anthropic(
         base_url="https://api.minimax.io/anthropic",
         api_key=os.environ.get("MINIMAX_API_KEY", ""),
     )
-    response = client.messages.create(
-        model="MiniMax-M2.5",
-        max_tokens=8192,
-        system=system_prompt,
-        messages=[{"role": "user", "content": prompt}],
-    )
-    for block in response.content:
-        if block.type == "text":
-            return block.text
-    raise RuntimeError(f"No text block in response. Content types: {[b.type for b in response.content]}")
+    for attempt in range(4):
+        try:
+            response = client.messages.create(
+                model="MiniMax-M2.5",
+                max_tokens=8192,
+                system=system_prompt,
+                messages=[{"role": "user", "content": prompt}],
+            )
+            for block in response.content:
+                if block.type == "text":
+                    return block.text
+            raise RuntimeError(f"No text block in response. Content types: {[b.type for b in response.content]}")
+        except anthropic.RateLimitError as e:
+            if attempt < 3:
+                wait = 15 * (attempt + 1)
+                print(f"  Rate limit, retrying in {wait}s (attempt {attempt+1}/3)...")
+                time.sleep(wait)
+            else:
+                raise
 
 
 def get_pr_info(pr_number: int) -> dict:
@@ -690,7 +719,7 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog=__doc__,
     )
-    parser.add_argument("--technique", required=True, choices=["SR", "SR-fewshot", "SR-multi-exemplar", "SR-prtype", "SR-adversarial", "ET", "PRM"])
+    parser.add_argument("--technique", required=True, choices=["SR", "SR-fewshot", "SR-multi-exemplar", "SR-prtype", "SR-adversarial", "ET", "PRM", "SR-5iter"])
     parser.add_argument("--prs", required=True, help="Comma-separated PR numbers (e.g., 6265,6261,6245,6269)")
     parser.add_argument("--n", type=int, default=3, help="Number of runs per PR (default: 3)")
     parser.add_argument("--outdir", default="research-wiki/scores", help="Output directory for score JSONs")
