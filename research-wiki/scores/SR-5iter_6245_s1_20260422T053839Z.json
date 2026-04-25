@@ -1,0 +1,23 @@
+{
+  "pr": 6245,
+  "technique": "SR-5iter",
+  "naming": 85,
+  "error_handling": 70,
+  "type_safety": 80,
+  "architecture": 85,
+  "test_coverage": 55,
+  "documentation": 50,
+  "total": 73.0,
+  "breakdown": "This PR fixes XP extraction priority by ensuring xp_awarded from combat/encounter summaries takes precedence over rewards_pending xp. It removes the _extract_xp_from_player_data helper in favor of existing extract_character_xp. Positive: clear variable naming (xp_awarded_raw, xp_from_combat), runtime type checks for dict inputs, centralized XP logic. Negative: tests for deleted function become invalid, no tests for synthesized rewards box changes, new code lacks docstrings, no explicit exception handling.",
+  "key_changes": [
+    "Extract xp_awarded from combat_summary before falling back to rewards_pending in _synthesize_generic_rewards_box (combat path)",
+    "Extract xp_awarded from encounter_summary before falling back to rewards_pending in _synthesize_generic_rewards_box (encounter path)",
+    "Replace _extract_xp_from_player_data calls with extract_character_xp throughout codebase",
+    "Change wrapper from check_and_set_level_up_pending_impl to ensure_level_up_rewards_pending",
+    "Remove _extract_xp_from_player_data function definition"
+  ],
+  "commit_sha": "86585b929a75e6b69b1b4e53f17ad560e6e1a880",
+  "run_session": "SR-5iter-20260422T053730Z",
+  "last_updated": "2026-04-22T05:38:39.472426+00:00",
+  "sample_number": 1
+}

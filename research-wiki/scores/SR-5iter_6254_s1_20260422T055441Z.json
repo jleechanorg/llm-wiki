@@ -1,0 +1,22 @@
+{
+  "pr": 6254,
+  "technique": "SR-5iter",
+  "naming": 75,
+  "error_handling": 70,
+  "type_safety": 65,
+  "architecture": 75,
+  "test_coverage": 65,
+  "documentation": 70,
+  "total": 70.0,
+  "breakdown": "This PR fixes rewards box visibility logic to include XP progress tracking (current_xp and next_level_xp) as visible content alongside existing checks. The core change adds a condition `or (current_xp > 0 and next_level_xp > 0)` to make quests showing XP progress without level-up visible in the UI. Type safety is moderate\u2014no explicit types on function parameters; naming is solid with descriptive field names but some internal functions could be clearer. Test coverage shows updates to test function references but the diff doesn't show new tests specifically for the XP progress tracking logic.",
+  "key_changes": [
+    "Added XP progress tracking condition `(current_xp > 0 and next_level_xp > 0)` to normalize_rewards_box_for_ui visibility check",
+    "Updated docstring to document XP progress tracking inclusion in rewards box visibility",
+    "Renamed ensure_level_up_rewards_pending to _check_and_set_level_up_pending in test references",
+    "Updated test function references from world_logic_module._ensure_session_header_resources to session_header_utils.ensure_session_header_resources"
+  ],
+  "commit_sha": "457a1639e3e449da0ef84b78b33438df38730dfc",
+  "run_session": "SR-5iter-20260422T055344Z",
+  "last_updated": "2026-04-22T05:54:41.623546+00:00",
+  "sample_number": 1
+}

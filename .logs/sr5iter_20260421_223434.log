@@ -1,0 +1,811 @@
+[2026-04-21 22:34:34] [START] SR-5iter matched PRs: 6243,6245,6261,6265,6269,6254,6270,6273,6275,6277,6420, n=2
+[2026-04-21 22:36:42] [ENGINE] Delegating to MiniMax (Claude CLI + MiniMax API)
+[2026-04-21 22:36:42] [CLI_START] Starting SR-5iter experiment: 11 PRs x 2 runs via orchestrator
+Traceback (most recent call last):
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 661, in run_cell
+    fix_code, log_text = generate_fix(technique, pr_info, diff)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 423, in generate_fix
+    response_text = call_minimax(user_prompt, system_prompt)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 330, in call_minimax
+    response = client.messages.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_utils/_utils.py", line 283, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/resources/messages/messages.py", line 1000, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_base_client.py", line 1368, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_base_client.py", line 1141, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.RateLimitError: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'The Token Plan is designed for individual, interactive developer workflows. Traffic is currently high—please retry shortly. For higher concurrency or automated workloads, consider upgrading to a higher-tier plan or using the pay-as-you-go API. (2062)'}, 'request_id': '063791bc04556da7aa128f009d39b11d'}
+Traceback (most recent call last):
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 671, in run_cell
+    score = score_diff(diff, pr_info, technique, run_num)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 471, in score_diff
+    response = call_minimax(prompt, system_prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 330, in call_minimax
+    response = client.messages.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_utils/_utils.py", line 283, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/resources/messages/messages.py", line 1000, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_base_client.py", line 1368, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_base_client.py", line 1141, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.RateLimitError: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'The Token Plan is designed for individual, interactive developer workflows. Traffic is currently high—please retry shortly. For higher concurrency or automated workloads, consider upgrading to a higher-tier plan or using the pay-as-you-go API. (2062)'}, 'request_id': '0637936767ff35508a4bfca29d7f5335'}
+Starting experiment: SR-5iter
+PRs: [6243, 6245, 6261, 6265, 6269, 6254, 6270, 6273, 6275, 6277, 6420]
+Runs per PR: 2
+Output: research-wiki/scores
+Log: wiki/syntheses/et_logs
+Run session: SR-5iter-20260422T053730Z
+
+============================================================
+Running: PR #6243 / SR-5iter / run 1
+============================================================
+PR title: [antig] fix(game-state): widen state flag semantics to accept LLM numeric booleans
+Merge commit: 168073c02518b872d6097d422c8776b6752b9a0d
+Diff length: 4685 chars
+Generating fix with SR-5iter...
+Generated code: 1809 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6243-s1-20260422053752
+Scoring against 6-dim rubric...
+Score: 92.75/100
+  naming=95, error_handling=90, type_safety=85
+  architecture=95, test_coverage=100, documentation=95
+Wrote score JSON: research-wiki/scores/SR-5iter_6243_s1_20260422T053800Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6243_s1_20260422T053800Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6243 / SR-5iter / run 2
+============================================================
+PR title: [antig] fix(game-state): widen state flag semantics to accept LLM numeric booleans
+Merge commit: 168073c02518b872d6097d422c8776b6752b9a0d
+Diff length: 4685 chars
+Generating fix with SR-5iter...
+ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'The Token Plan is designed for individual, interactive developer workflows. Traffic is currently high—please retry shortly. For higher concurrency or automated workloads, consider upgrading to a higher-tier plan or using the pay-as-you-go API. (2062)'}, 'request_id': '063791bc04556da7aa128f009d39b11d'}
+
+============================================================
+Running: PR #6245 / SR-5iter / run 1
+============================================================
+PR title: fix: stabilize level-up regressions and xp synthesis
+Merge commit: 86585b929a75e6b69b1b4e53f17ad560e6e1a880
+Diff length: 13628 chars
+Generating fix with SR-5iter...
+Generated code: 142 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6245-s1-20260422053833
+Scoring against 6-dim rubric...
+Score: 73.0/100
+  naming=85, error_handling=70, type_safety=80
+  architecture=85, test_coverage=55, documentation=50
+Wrote score JSON: research-wiki/scores/SR-5iter_6245_s1_20260422T053839Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6245_s1_20260422T053839Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6245 / SR-5iter / run 2
+============================================================
+PR title: fix: stabilize level-up regressions and xp synthesis
+Merge commit: 86585b929a75e6b69b1b4e53f17ad560e6e1a880
+Diff length: 13628 chars
+Generating fix with SR-5iter...
+Generated code: 6885 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6245-s2-20260422053910
+Scoring against 6-dim rubric...
+Score: 81.5/100
+  naming=85, error_handling=80, type_safety=80
+  architecture=85, test_coverage=85, documentation=70
+Wrote score JSON: research-wiki/scores/SR-5iter_6245_s2_20260422T053918Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6245_s2_20260422T053918Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6261 / SR-5iter / run 1
+============================================================
+PR title: [antig] refactor(rewards): migrate to centralized robust numeric extraction & simplify chaining
+Merge commit: 425969ca6f35bed0c129a233568aade36334e001
+Diff length: 13233 chars
+Generating fix with SR-5iter...
+Generated code: 4013 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6261-s1-20260422054105
+Scoring against 6-dim rubric...
+Score: 78.75/100
+  naming=75, error_handling=70, type_safety=80
+  architecture=85, test_coverage=90, documentation=70
+Wrote score JSON: research-wiki/scores/SR-5iter_6261_s1_20260422T054112Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6261_s1_20260422T054112Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6261 / SR-5iter / run 2
+============================================================
+PR title: [antig] refactor(rewards): migrate to centralized robust numeric extraction & simplify chaining
+Merge commit: 425969ca6f35bed0c129a233568aade36334e001
+Diff length: 13233 chars
+Generating fix with SR-5iter...
+Generated code: 3977 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6261-s2-20260422054324
+Scoring against 6-dim rubric...
+Score: 84.4/100
+  naming=95, error_handling=80, type_safety=75
+  architecture=82, test_coverage=95, documentation=85
+Wrote score JSON: research-wiki/scores/SR-5iter_6261_s2_20260422T054341Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6261_s2_20260422T054341Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6265 / SR-5iter / run 1
+============================================================
+PR title: [antig] [Fix] Normalize rewards box in streaming passthrough
+Merge commit: 7bfb576254ae83868ba8b18d1f2e71133ccb7e76
+Diff length: 10053 chars
+Generating fix with SR-5iter...
+Generated code: 0 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6265-s1-20260422054353
+Scoring against 6-dim rubric...
+Score: 87.25/100
+  naming=90, error_handling=80, type_safety=85
+  architecture=90, test_coverage=95, documentation=85
+Wrote score JSON: research-wiki/scores/SR-5iter_6265_s1_20260422T054411Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6265_s1_20260422T054411Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6265 / SR-5iter / run 2
+============================================================
+PR title: [antig] [Fix] Normalize rewards box in streaming passthrough
+Merge commit: 7bfb576254ae83868ba8b18d1f2e71133ccb7e76
+Diff length: 10053 chars
+Generating fix with SR-5iter...
+Generated code: 77 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6265-s2-20260422054509
+Scoring against 6-dim rubric...
+ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'The Token Plan is designed for individual, interactive developer workflows. Traffic is currently high—please retry shortly. For higher concurrency or automated workloads, consider upgrading to a higher-tier plan or using the pay-as-you-go API. (2062)'}, 'request_id': '0637936767ff35508a4bfca29d7f5335'}
+
+============================================================
+Running: PR #6269 / SR-5iter / run 1
+============================================================
+PR title: [antig] Port CR fallback logic to Skeptic Gates in worldarchitect.ai
+Merge commit: 35b736d9658cd1e0203503fecf4c50a8e4a809ec
+Diff length: 13557 chars
+Generating fix with SR-5iter...
+Generated code: 2087 chars
+Pushing commit to autor-eval...
+Traceback (most recent call last):
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 671, in run_cell
+    score = score_diff(diff, pr_info, technique, run_num)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 471, in score_diff
+    response = call_minimax(prompt, system_prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 330, in call_minimax
+    response = client.messages.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_utils/_utils.py", line 283, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/resources/messages/messages.py", line 1000, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_base_client.py", line 1368, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_base_client.py", line 1141, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.RateLimitError: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'The Token Plan is designed for individual, interactive developer workflows. Traffic is currently high—please retry shortly. For higher concurrency or automated workloads, consider upgrading to a higher-tier plan or using the pay-as-you-go API. (2062)'}, 'request_id': '063793daba4a0fd395ceaacce379612f'}
+Traceback (most recent call last):
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 661, in run_cell
+    fix_code, log_text = generate_fix(technique, pr_info, diff)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 423, in generate_fix
+    response_text = call_minimax(user_prompt, system_prompt)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 330, in call_minimax
+    response = client.messages.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_utils/_utils.py", line 283, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/resources/messages/messages.py", line 1000, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_base_client.py", line 1368, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_base_client.py", line 1141, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.RateLimitError: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'The Token Plan is designed for individual, interactive developer workflows. Traffic is currently high—please retry shortly. For higher concurrency or automated workloads, consider upgrading to a higher-tier plan or using the pay-as-you-go API. (2062)'}, 'request_id': '063793decb620fa43febf9cbf1c3768c'}
+Traceback (most recent call last):
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 671, in run_cell
+    score = score_diff(diff, pr_info, technique, run_num)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 471, in score_diff
+    response = call_minimax(prompt, system_prompt)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 330, in call_minimax
+    response = client.messages.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_utils/_utils.py", line 283, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/resources/messages/messages.py", line 1000, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_base_client.py", line 1368, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_base_client.py", line 1141, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.RateLimitError: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'The Token Plan is designed for individual, interactive developer workflows. Traffic is currently high—please retry shortly. For higher concurrency or automated workloads, consider upgrading to a higher-tier plan or using the pay-as-you-go API. (2062)'}, 'request_id': '06379495b56417f9becb710023bdf9ba'}
+Traceback (most recent call last):
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 661, in run_cell
+    fix_code, log_text = generate_fix(technique, pr_info, diff)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 423, in generate_fix
+    response_text = call_minimax(user_prompt, system_prompt)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 330, in call_minimax
+    response = client.messages.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_utils/_utils.py", line 283, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/resources/messages/messages.py", line 1000, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_base_client.py", line 1368, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_base_client.py", line 1141, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.RateLimitError: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'The Token Plan is designed for individual, interactive developer workflows. Traffic is currently high—please retry shortly. For higher concurrency or automated workloads, consider upgrading to a higher-tier plan or using the pay-as-you-go API. (2062)'}, 'request_id': '063794c8ce0a2cd851f88aeabf148508'}
+Traceback (most recent call last):
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 661, in run_cell
+    fix_code, log_text = generate_fix(technique, pr_info, diff)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 423, in generate_fix
+    response_text = call_minimax(user_prompt, system_prompt)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 330, in call_minimax
+    response = client.messages.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_utils/_utils.py", line 283, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/resources/messages/messages.py", line 1000, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_base_client.py", line 1368, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_base_client.py", line 1141, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.RateLimitError: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'The Token Plan is designed for individual, interactive developer workflows. Traffic is currently high—please retry shortly. For higher concurrency or automated workloads, consider upgrading to a higher-tier plan or using the pay-as-you-go API. (2062)'}, 'request_id': '063794cc7c3d32dac83271bc2a1eccae'}
+Traceback (most recent call last):
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 661, in run_cell
+    fix_code, log_text = generate_fix(technique, pr_info, diff)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 423, in generate_fix
+    response_text = call_minimax(user_prompt, system_prompt)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 330, in call_minimax
+    response = client.messages.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_utils/_utils.py", line 283, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/resources/messages/messages.py", line 1000, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_base_client.py", line 1368, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_base_client.py", line 1141, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.RateLimitError: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'The Token Plan is designed for individual, interactive developer workflows. Traffic is currently high—please retry shortly. For higher concurrency or automated workloads, consider upgrading to a higher-tier plan or using the pay-as-you-go API. (2062)'}, 'request_id': '063794d1e1f0bbcda526ee5b1e1cc0f6'}
+Traceback (most recent call last):
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 661, in run_cell
+    fix_code, log_text = generate_fix(technique, pr_info, diff)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 423, in generate_fix
+    response_text = call_minimax(user_prompt, system_prompt)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 330, in call_minimax
+    response = client.messages.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_utils/_utils.py", line 283, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/resources/messages/messages.py", line 1000, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_base_client.py", line 1368, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/.local/lib/python3.12/site-packages/anthropic/_base_client.py", line 1141, in request
+    raise self._make_status_error_from_response(err.response) from None
+anthropic.RateLimitError: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'The Token Plan is designed for individual, interactive developer workflows. Traffic is currently high—please retry shortly. For higher concurrency or automated workloads, consider upgrading to a higher-tier plan or using the pay-as-you-go API. (2062)'}, 'request_id': '0637950d071d837cfa9ea809966caed6'}
+Starting experiment: SR-5iter
+PRs: [6254, 6273, 6275, 6277, 6420]
+Runs per PR: 2
+Output: research-wiki/scores
+Log: wiki/syntheses/et_logs
+Run session: SR-5iter-20260422T054852Z
+
+============================================================
+Running: PR #6254 / SR-5iter / run 1
+============================================================
+PR title: [agento] fix(rewards): include XP progress tracking in rewards box visibility
+Merge commit: 457a1639e3e449da0ef84b78b33438df38730dfc
+Diff length: 28424 chars
+Generating fix with SR-5iter...
+Generated code: 5710 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6254-s1-20260422054928
+Scoring against 6-dim rubric...
+Score: 66.75/100
+  naming=75, error_handling=60, type_safety=50
+  architecture=75, test_coverage=70, documentation=80
+Wrote score JSON: research-wiki/scores/SR-5iter_6254_s1_20260422T054934Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6254_s1_20260422T054934Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6254 / SR-5iter / run 2
+============================================================
+PR title: [agento] fix(rewards): include XP progress tracking in rewards box visibility
+Merge commit: 457a1639e3e449da0ef84b78b33438df38730dfc
+Diff length: 28424 chars
+Generating fix with SR-5iter...
+Generated code: 2231 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6254-s2-20260422055010
+Scoring against 6-dim rubric...
+ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'The Token Plan is designed for individual, interactive developer workflows. Traffic is currently high—please retry shortly. For higher concurrency or automated workloads, consider upgrading to a higher-tier plan or using the pay-as-you-go API. (2062)'}, 'request_id': '06379495b56417f9becb710023bdf9ba'}
+
+============================================================
+Running: PR #6273 / SR-5iter / run 1
+============================================================
+PR title: feat(rewards_engine): v4 single-responsibility level-up pipeline
+Merge commit: b8ecfd30a257b618458a1803f31915e10d7f6177
+Diff length: 129809 chars
+Generating fix with SR-5iter...
+Generated code: 13475 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6273-s1-20260422055034
+Scoring against 6-dim rubric...
+Score: 77.0/100
+  naming=85, error_handling=70, type_safety=70
+  architecture=90, test_coverage=75, documentation=70
+Wrote score JSON: research-wiki/scores/SR-5iter_6273_s1_20260422T055100Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6273_s1_20260422T055100Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6273 / SR-5iter / run 2
+============================================================
+PR title: feat(rewards_engine): v4 single-responsibility level-up pipeline
+Merge commit: b8ecfd30a257b618458a1803f31915e10d7f6177
+Diff length: 129809 chars
+Generating fix with SR-5iter...
+ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'The Token Plan is designed for individual, interactive developer workflows. Traffic is currently high—please retry shortly. For higher concurrency or automated workloads, consider upgrading to a higher-tier plan or using the pay-as-you-go API. (2062)'}, 'request_id': '063794c8ce0a2cd851f88aeabf148508'}
+
+============================================================
+Running: PR #6275 / SR-5iter / run 1
+============================================================
+PR title: [agento][fix(level-up)] synthesize rewards_box when level_up_complete=True but box missing
+Merge commit: be963b9c187eb27d7a52ce85120f3bc08a6bd597
+Diff length: 74064 chars
+Generating fix with SR-5iter...
+ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'The Token Plan is designed for individual, interactive developer workflows. Traffic is currently high—please retry shortly. For higher concurrency or automated workloads, consider upgrading to a higher-tier plan or using the pay-as-you-go API. (2062)'}, 'request_id': '063794cc7c3d32dac83271bc2a1eccae'}
+
+============================================================
+Running: PR #6275 / SR-5iter / run 2
+============================================================
+PR title: [agento][fix(level-up)] synthesize rewards_box when level_up_complete=True but box missing
+Merge commit: be963b9c187eb27d7a52ce85120f3bc08a6bd597
+Diff length: 74064 chars
+Generating fix with SR-5iter...
+ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'The Token Plan is designed for individual, interactive developer workflows. Traffic is currently high—please retry shortly. For higher concurrency or automated workloads, consider upgrading to a higher-tier plan or using the pay-as-you-go API. (2062)'}, 'request_id': '063794d1e1f0bbcda526ee5b1e1cc0f6'}
+
+============================================================
+Running: PR #6277 / SR-5iter / run 1
+============================================================
+PR title: feat(mvp_site): RewardsBox TypedDict + validate_rewards_box() schema enforcement
+Merge commit: 52a5fe2c17cbe22a7da159c7542b8ecc585848e7
+Diff length: 10516 chars
+Generating fix with SR-5iter...
+Generated code: 3367 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6277-s1-20260422055143
+Scoring against 6-dim rubric...
+Score: 81.75/100
+  naming=90, error_handling=60, type_safety=85
+  architecture=85, test_coverage=95, documentation=80
+Wrote score JSON: research-wiki/scores/SR-5iter_6277_s1_20260422T055209Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6277_s1_20260422T055209Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6277 / SR-5iter / run 2
+============================================================
+PR title: feat(mvp_site): RewardsBox TypedDict + validate_rewards_box() schema enforcement
+Merge commit: 52a5fe2c17cbe22a7da159c7542b8ecc585848e7
+Diff length: 10516 chars
+Generating fix with SR-5iter...
+ERROR: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'The Token Plan is designed for individual, interactive developer workflows. Traffic is currently high—please retry shortly. For higher concurrency or automated workloads, consider upgrading to a higher-tier plan or using the pay-as-you-go API. (2062)'}, 'request_id': '0637950d071d837cfa9ea809966caed6'}
+
+============================================================
+Running: PR #6420 / SR-5iter / run 1
+============================================================
+PR title: [antig] fix: ZFC level-up schema prerequisites + validation hardening
+Merge commit: None
+Diff length: 50764 chars
+Generating fix with SR-5iter...
+Generated code: 574 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6420-s1-20260422055224
+Scoring against 6-dim rubric...
+Score: 69.0/100
+  naming=70, error_handling=75, type_safety=60
+  architecture=65, test_coverage=80, documentation=65
+Wrote score JSON: research-wiki/scores/SR-5iter_6420_s1_20260422T055229Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6420_s1_20260422T055229Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6420 / SR-5iter / run 2
+============================================================
+PR title: [antig] fix: ZFC level-up schema prerequisites + validation hardening
+Merge commit: None
+Diff length: 50764 chars
+Generating fix with SR-5iter...
+Generated code: 55 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6420-s2-20260422055252
+Scoring against 6-dim rubric...
+Score: 74.25/100
+  naming=90, error_handling=65, type_safety=75
+  architecture=70, test_coverage=85, documentation=60
+Wrote score JSON: research-wiki/scores/SR-5iter_6420_s2_20260422T055258Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6420_s2_20260422T055258Z.log
+Updated bandit state
+
+============================================================
+SUMMARY: 5 succeeded, 5 failed
+  ✓ PR 6254 / SR-5iter / s1: 66.75
+  ✓ PR 6273 / SR-5iter / s1: 77.0
+  ✓ PR 6277 / SR-5iter / s1: 81.75
+  ✓ PR 6420 / SR-5iter / s1: 69.0
+  ✓ PR 6420 / SR-5iter / s2: 74.25
+  ✗ PR 6254 / SR-5iter / s2: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'The Token Plan is designed for individual, interactive developer workflows. Traffic is currently high—please retry shortly. For higher concurrency or automated workloads, consider upgrading to a higher-tier plan or using the pay-as-you-go API. (2062)'}, 'request_id': '06379495b56417f9becb710023bdf9ba'}
+  ✗ PR 6273 / SR-5iter / s2: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'The Token Plan is designed for individual, interactive developer workflows. Traffic is currently high—please retry shortly. For higher concurrency or automated workloads, consider upgrading to a higher-tier plan or using the pay-as-you-go API. (2062)'}, 'request_id': '063794c8ce0a2cd851f88aeabf148508'}
+  ✗ PR 6275 / SR-5iter / s1: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'The Token Plan is designed for individual, interactive developer workflows. Traffic is currently high—please retry shortly. For higher concurrency or automated workloads, consider upgrading to a higher-tier plan or using the pay-as-you-go API. (2062)'}, 'request_id': '063794cc7c3d32dac83271bc2a1eccae'}
+  ✗ PR 6275 / SR-5iter / s2: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'The Token Plan is designed for individual, interactive developer workflows. Traffic is currently high—please retry shortly. For higher concurrency or automated workloads, consider upgrading to a higher-tier plan or using the pay-as-you-go API. (2062)'}, 'request_id': '063794d1e1f0bbcda526ee5b1e1cc0f6'}
+  ✗ PR 6277 / SR-5iter / s2: Error code: 429 - {'type': 'error', 'error': {'type': 'rate_limit_error', 'message': 'The Token Plan is designed for individual, interactive developer workflows. Traffic is currently high—please retry shortly. For higher concurrency or automated workloads, consider upgrading to a higher-tier plan or using the pay-as-you-go API. (2062)'}, 'request_id': '0637950d071d837cfa9ea809966caed6'}
+Starting experiment: SR-5iter
+PRs: [6254, 6273, 6275, 6277, 6420]
+Runs per PR: 2
+Output: research-wiki/scores
+Log: wiki/syntheses/et_logs
+Run session: SR-5iter-20260422T055344Z
+
+============================================================
+Running: PR #6254 / SR-5iter / run 1
+============================================================
+PR title: [agento] fix(rewards): include XP progress tracking in rewards box visibility
+Merge commit: 457a1639e3e449da0ef84b78b33438df38730dfc
+Diff length: 28424 chars
+Generating fix with SR-5iter...
+Generated code: 125 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6254-s1-20260422055427
+Scoring against 6-dim rubric...
+Score: 70.0/100
+  naming=75, error_handling=70, type_safety=65
+  architecture=75, test_coverage=65, documentation=70
+Wrote score JSON: research-wiki/scores/SR-5iter_6254_s1_20260422T055441Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6254_s1_20260422T055441Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6254 / SR-5iter / run 2
+============================================================
+PR title: [agento] fix(rewards): include XP progress tracking in rewards box visibility
+Merge commit: 457a1639e3e449da0ef84b78b33438df38730dfc
+Diff length: 28424 chars
+Generating fix with SR-5iter...
+Generated code: 1031 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6254-s2-20260422055505
+Scoring against 6-dim rubric...
+Score: 74.25/100
+  naming=85, error_handling=75, type_safety=70
+  architecture=90, test_coverage=40, documentation=85
+Wrote score JSON: research-wiki/scores/SR-5iter_6254_s2_20260422T055523Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6254_s2_20260422T055523Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6273 / SR-5iter / run 1
+============================================================
+PR title: feat(rewards_engine): v4 single-responsibility level-up pipeline
+Merge commit: b8ecfd30a257b618458a1803f31915e10d7f6177
+Diff length: 129809 chars
+Generating fix with SR-5iter...
+Generated code: 15395 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6273-s1-20260422055604
+Scoring against 6-dim rubric...
+  Rate limit, retrying in 15s (attempt 1/3)...
+Score: 71.0/100
+  naming=75, error_handling=60, type_safety=70
+  architecture=80, test_coverage=85, documentation=50
+Wrote score JSON: research-wiki/scores/SR-5iter_6273_s1_20260422T055653Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6273_s1_20260422T055653Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6273 / SR-5iter / run 2
+============================================================
+PR title: feat(rewards_engine): v4 single-responsibility level-up pipeline
+Merge commit: b8ecfd30a257b618458a1803f31915e10d7f6177
+Diff length: 129809 chars
+Generating fix with SR-5iter...
+  Rate limit, retrying in 15s (attempt 1/3)...
+  Rate limit, retrying in 30s (attempt 2/3)...
+Generated code: 10967 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6273-s2-20260422055810
+Scoring against 6-dim rubric...
+  Rate limit, retrying in 15s (attempt 1/3)...
+Score: 70.5/100
+  naming=80, error_handling=70, type_safety=65
+  architecture=85, test_coverage=60, documentation=55
+Wrote score JSON: research-wiki/scores/SR-5iter_6273_s2_20260422T055845Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6273_s2_20260422T055845Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6275 / SR-5iter / run 1
+============================================================
+PR title: [agento][fix(level-up)] synthesize rewards_box when level_up_complete=True but box missing
+Merge commit: be963b9c187eb27d7a52ce85120f3bc08a6bd597
+Diff length: 74064 chars
+Generating fix with SR-5iter...
+Generated code: 282 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6275-s1-20260422055903
+Scoring against 6-dim rubric...
+Score: 55.0/100
+  naming=65, error_handling=50, type_safety=45
+  architecture=70, test_coverage=55, documentation=40
+Wrote score JSON: research-wiki/scores/SR-5iter_6275_s1_20260422T055942Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6275_s1_20260422T055942Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6275 / SR-5iter / run 2
+============================================================
+PR title: [agento][fix(level-up)] synthesize rewards_box when level_up_complete=True but box missing
+Merge commit: be963b9c187eb27d7a52ce85120f3bc08a6bd597
+Diff length: 74064 chars
+Generating fix with SR-5iter...
+Generated code: 92 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6275-s2-20260422055952
+Scoring against 6-dim rubric...
+Score: 82.5/100
+  naming=85, error_handling=80, type_safety=85
+  architecture=85, test_coverage=75, documentation=85
+Wrote score JSON: research-wiki/scores/SR-5iter_6275_s2_20260422T060000Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6275_s2_20260422T060000Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6277 / SR-5iter / run 1
+============================================================
+PR title: feat(mvp_site): RewardsBox TypedDict + validate_rewards_box() schema enforcement
+Merge commit: 52a5fe2c17cbe22a7da159c7542b8ecc585848e7
+Diff length: 10516 chars
+Generating fix with SR-5iter...
+Generated code: 6693 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6277-s1-20260422060053
+Scoring against 6-dim rubric...
+Score: 86.0/100
+  naming=95, error_handling=70, type_safety=80
+  architecture=90, test_coverage=95, documentation=95
+Wrote score JSON: research-wiki/scores/SR-5iter_6277_s1_20260422T060114Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6277_s1_20260422T060114Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6277 / SR-5iter / run 2
+============================================================
+PR title: feat(mvp_site): RewardsBox TypedDict + validate_rewards_box() schema enforcement
+Merge commit: 52a5fe2c17cbe22a7da159c7542b8ecc585848e7
+Diff length: 10516 chars
+Generating fix with SR-5iter...
+Generated code: 4676 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6277-s2-20260422060143
+Scoring against 6-dim rubric...
+Score: 88.25/100
+  naming=95, error_handling=70, type_safety=95
+  architecture=85, test_coverage=100, documentation=90
+Wrote score JSON: research-wiki/scores/SR-5iter_6277_s2_20260422T060152Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6277_s2_20260422T060152Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6420 / SR-5iter / run 1
+============================================================
+PR title: [antig] fix: ZFC level-up schema prerequisites + validation hardening
+Merge commit: None
+Diff length: 50764 chars
+Generating fix with SR-5iter...
+Generated code: 2018 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6420-s1-20260422060206
+Scoring against 6-dim rubric...
+Score: 77.5/100
+  naming=80, error_handling=75, type_safety=80
+  architecture=85, test_coverage=70, documentation=70
+Wrote score JSON: research-wiki/scores/SR-5iter_6420_s1_20260422T060217Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6420_s1_20260422T060217Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6420 / SR-5iter / run 2
+============================================================
+PR title: [antig] fix: ZFC level-up schema prerequisites + validation hardening
+Merge commit: None
+Diff length: 50764 chars
+Generating fix with SR-5iter...
+Generated code: 7206 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6420-s2-20260422060235
+Scoring against 6-dim rubric...
+Score: 75.75/100
+  naming=75, error_handling=70, type_safety=85
+  architecture=75, test_coverage=80, documentation=65
+Wrote score JSON: research-wiki/scores/SR-5iter_6420_s2_20260422T060255Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6420_s2_20260422T060255Z.log
+Updated bandit state
+
+============================================================
+SUMMARY: 10 succeeded, 0 failed
+  ✓ PR 6254 / SR-5iter / s1: 70.0
+  ✓ PR 6254 / SR-5iter / s2: 74.25
+  ✓ PR 6273 / SR-5iter / s1: 71.0
+  ✓ PR 6273 / SR-5iter / s2: 70.5
+  ✓ PR 6275 / SR-5iter / s1: 55.0
+  ✓ PR 6275 / SR-5iter / s2: 82.5
+  ✓ PR 6277 / SR-5iter / s1: 86.0
+  ✓ PR 6277 / SR-5iter / s2: 88.25
+  ✓ PR 6420 / SR-5iter / s1: 77.5
+  ✓ PR 6420 / SR-5iter / s2: 75.75
+Starting experiment: SR-5iter
+PRs: [6270]
+Runs per PR: 1
+Output: research-wiki/scores
+Log: wiki/syntheses/et_logs
+Run session: SR-5iter-20260422T060353Z
+
+============================================================
+Running: PR #6270 / SR-5iter / run 1
+============================================================
+PR title: [antig] Infrastructure: Migrate to Reusable Skeptic Workflows
+Merge commit: 04d8df0b7bdafd745ce82e731ffcb2abf3f58273
+Diff length: 64571 chars
+Generating fix with SR-5iter...
+Generated code: 9211 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6270-s1-20260422060425
+Scoring against 6-dim rubric...
+Score: 76.0/100
+  naming=90, error_handling=85, type_safety=50
+  architecture=95, test_coverage=50, documentation=90
+Wrote score JSON: research-wiki/scores/SR-5iter_6270_s1_20260422T060442Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6270_s1_20260422T060442Z.log
+Updated bandit state
+
+============================================================
+SUMMARY: 1 succeeded, 0 failed
+  ✓ PR 6270 / SR-5iter / s1: 76.0
+[2026-04-21 23:05:23] [COMPLETE] SR-5iter matched PR run complete
+[2026-04-21 23:05:23] [TESTS] Router gate PASS
+[2026-04-21 23:05:23] [SIGNAL] VERIFICATION_READY: SR-5iter has matched evidence on all 11 PRs

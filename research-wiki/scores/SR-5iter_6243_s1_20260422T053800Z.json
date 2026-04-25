@@ -1,0 +1,23 @@
+{
+  "pr": 6243,
+  "technique": "SR-5iter",
+  "naming": 95,
+  "error_handling": 90,
+  "type_safety": 85,
+  "architecture": 95,
+  "test_coverage": 100,
+  "documentation": 95,
+  "total": 92.75,
+  "breakdown": "PR widens boolean state flag semantics in game_state.py to accept LLM-generated numeric booleans (1, '1', 0, '0') in addition to strict True/'true' values, fixing silent level-up stalls. Added comprehensive tests covering accepted/rejected values and edge cases like bool-subclass-of-int. Excellent test coverage with clear rationale in docstrings; minor deduction for minimal type hints on utility functions.",
+  "key_changes": [
+    "Widen _is_state_flag_true to accept int(1) and string '1' in addition to True/'true'",
+    "Widen _is_state_flag_false to accept int(0) and string '0' in addition to False/'false'",
+    "Add isinstance check to distinguish bool from int (bool is subclass of int in Python)",
+    "Reject free-text strings like 'yes'/'no' to maintain safety semantics",
+    "Add StateFlagSemanticsTest class with 5 test methods covering true/false accept/reject cases"
+  ],
+  "commit_sha": "168073c02518b872d6097d422c8776b6752b9a0d",
+  "run_session": "SR-5iter-20260422T053730Z",
+  "last_updated": "2026-04-22T05:38:00.922243+00:00",
+  "sample_number": 1
+}

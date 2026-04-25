@@ -1,0 +1,23 @@
+{
+  "pr": 6273,
+  "technique": "SR-5iter",
+  "naming": 85,
+  "error_handling": 70,
+  "type_safety": 70,
+  "architecture": 90,
+  "test_coverage": 75,
+  "documentation": 70,
+  "total": 77.0,
+  "breakdown": "This PR refactors level-up pipeline logic by moving state flag helpers (_is_state_flag_false/true), resolve_level_up_signal, and related functions from game_state.py into a dedicated rewards_engine module, improving single-responsibility. The architectural changes show good separation of concerns with clean imports in world_logic.py. However, the diff lacks type annotations, has minimal documentation beyond one docstring, and test changes focus on import regression rather than testing the refactored logic itself.",
+  "key_changes": [
+    "Move _is_state_flag_false, _is_state_flag_true from game_state to rewards_engine",
+    "Move resolve_level_up_signal from game_state to rewards_engine",
+    "Add new imports in world_logic.py from rewards_engine: ensure_rewards_box, normalize_rewards_box, is_level_up_active, project_level_up_ui",
+    "Update test names from streaming_orchestrator to llm_parser in test_startup_import_regression.py",
+    "Rename wiki/tips/*.md files to wiki/sources/"
+  ],
+  "commit_sha": "b8ecfd30a257b618458a1803f31915e10d7f6177",
+  "run_session": "SR-5iter-20260422T054852Z",
+  "last_updated": "2026-04-22T05:51:00.409149+00:00",
+  "sample_number": 1
+}

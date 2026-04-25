@@ -1,0 +1,23 @@
+{
+  "pr": 6273,
+  "technique": "SR-5iter",
+  "naming": 80,
+  "error_handling": 70,
+  "type_safety": 65,
+  "architecture": 85,
+  "test_coverage": 60,
+  "documentation": 55,
+  "total": 70.5,
+  "breakdown": "This PR refactors the rewards_engine module by moving level-up related functions (_is_state_flag_false, _is_state_flag_true, resolve_level_up_signal) from game_state to rewards_engine, and adding new functions (ensure_rewards_box, normalize_rewards_box, is_level_up_active, project_level_up_ui). The architectural separation is well-executed with clear module boundaries. However, the diff shows minimal test coverage for the refactored functions themselves, limited type annotations in the Python code, and lacks comprehensive docstrings explaining the WHY of the changes. Wiki files were also reorganized from tips/ to sources/.",
+  "key_changes": [
+    "Move _is_state_flag_false, _is_state_flag_true, resolve_level_up_signal from game_state to rewards_engine",
+    "Add new functions: ensure_rewards_box, normalize_rewards_box, is_level_up_active, project_level_up_ui to rewards_engine",
+    "Update imports in world_logic.py to reference rewards_engine instead of game_state for level-up functions",
+    "Reorganize wiki files from wiki/tips/ to wiki/sources/",
+    "Update test_startup_import_regression.py to test llm_parser instead of streaming_orchestrator"
+  ],
+  "commit_sha": "b8ecfd30a257b618458a1803f31915e10d7f6177",
+  "run_session": "SR-5iter-20260422T055344Z",
+  "last_updated": "2026-04-22T05:58:45.157382+00:00",
+  "sample_number": 2
+}

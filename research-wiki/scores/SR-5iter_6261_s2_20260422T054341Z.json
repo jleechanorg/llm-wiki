@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "SR-5iter",
+  "naming": 95,
+  "error_handling": 80,
+  "type_safety": 75,
+  "architecture": 82,
+  "test_coverage": 95,
+  "documentation": 85,
+  "total": 84.4,
+  "breakdown": "This PR refactors the rewards box normalization to use a centralized robust numeric extraction with a `_get_raw` helper that intelligently handles fallbacks across multiple field aliases (xp_gained \u2192 xp \u2192 xp_awarded, etc.). The code properly handles edge cases like NaN, infinity, empty strings, and zero values. Test coverage is comprehensive with both unit and E2E tests. Type safety is slightly reduced due to the use of `Any` for the helper function, and error handling is implicit through defensive checks rather than explicit try/except blocks.",
+  "key_changes": [
+    "Added `_get_raw` helper with sophisticated fallback logic for numeric field extraction",
+    "Refactored `normalize_rewards_box_for_ui` to use `_DNC.convert_value()` for centralized robust conversion",
+    "Implemented handling for non-finite floats (NaN/inf) as invalid values",
+    "Added fallback chain logic that treats 0 as a candidate but continues searching for non-zero values",
+    "Created comprehensive test file `test_rewards_box_robustness.py` with unit and E2E scenarios"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "SR-5iter-20260422T053730Z",
+  "last_updated": "2026-04-22T05:43:41.972120+00:00",
+  "sample_number": 2
+}
