@@ -1,0 +1,23 @@
+{
+  "pr": 6420,
+  "technique": "SR-5iter",
+  "naming": 70,
+  "error_handling": 50,
+  "type_safety": 60,
+  "architecture": 75,
+  "test_coverage": 85,
+  "documentation": 40,
+  "total": 64.25,
+  "breakdown": "This PR hardens validation for ZFC level-up schema by changing empty done payload handling from returning empty success to raising RuntimeError, along with refactoring mock attribute names (llm_request\u2192gemini_request) and improving test monkeypatch patterns. Tests verify debug_info precedence and AST structure, but error handling lacks typed exceptions and documentation is minimal across changed functions.",
+  "key_changes": [
+    "Change empty done payload test from expecting success to raising RuntimeError with specific message",
+    "Rename mock attribute llm_request\u2192gemini_request in test mocks",
+    "Replace string-path monkeypatch with harness object binding",
+    "Add test_process_action_preserves_top_level_debug_info_precedence",
+    "Add AST structure verification test for narrative fallback guard placement"
+  ],
+  "commit_sha": null,
+  "run_session": "SR-5iter-20260425T090133Z",
+  "last_updated": "2026-04-25T09:19:05.872176+00:00",
+  "sample_number": 1
+}

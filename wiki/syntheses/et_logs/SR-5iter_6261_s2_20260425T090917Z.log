@@ -1,0 +1,9 @@
+# SR-5iter Generation for PR #6261
+Timestamp: 2026-04-25T09:08:21.809790+00:00
+Technique: SR-5iter
+
+## PR Context
+Title: [antig] refactor(rewards): migrate to centralized robust numeric extraction & simplify chaining
+
+## Generation Response (34052 chars)
+Extracted code: 6045 chars

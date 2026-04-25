@@ -1,0 +1,504 @@
+Starting experiment: SR-5iter
+PRs: [6243, 6245, 6261, 6265, 6269, 6254, 6270, 6273, 6275, 6277, 6420]
+Runs per PR: 2
+Output: research-wiki/scores
+Log: wiki/syntheses/et_logs
+Run session: SR-5iter-20260425T090133Z
+
+============================================================
+Running: PR #6243 / SR-5iter / run 1
+============================================================
+PR title: [antig] fix(game-state): widen state flag semantics to accept LLM numeric booleans
+Merge commit: 168073c02518b872d6097d422c8776b6752b9a0d
+Diff length: 4685 chars
+Generating fix with SR-5iter...
+Generated code: 3127 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6243-s1-20260425090229
+Scoring against 6-dim rubric...
+Score: 93.25/100
+  naming=90, error_handling=100, type_safety=90
+  architecture=95, test_coverage=95, documentation=85
+Wrote score JSON: research-wiki/scores/SR-5iter_6243_s1_20260425T090237Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6243_s1_20260425T090237Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6243 / SR-5iter / run 2
+============================================================
+PR title: [antig] fix(game-state): widen state flag semantics to accept LLM numeric booleans
+Merge commit: 168073c02518b872d6097d422c8776b6752b9a0d
+Diff length: 4685 chars
+Generating fix with SR-5iter...
+Generated code: 1947 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6243-s2-20260425090323
+Scoring against 6-dim rubric...
+Score: 91.25/100
+  naming=90, error_handling=85, type_safety=95
+  architecture=90, test_coverage=95, documentation=95
+Wrote score JSON: research-wiki/scores/SR-5iter_6243_s2_20260425T090334Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6243_s2_20260425T090334Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6245 / SR-5iter / run 1
+============================================================
+PR title: fix: stabilize level-up regressions and xp synthesis
+Merge commit: 86585b929a75e6b69b1b4e53f17ad560e6e1a880
+Diff length: 13628 chars
+Generating fix with SR-5iter...
+Generated code: 483 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6245-s1-20260425090530
+Scoring against 6-dim rubric...
+Score: 71.75/100
+  naming=75, error_handling=70, type_safety=75
+  architecture=80, test_coverage=60, documentation=65
+Wrote score JSON: research-wiki/scores/SR-5iter_6245_s1_20260425T090544Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6245_s1_20260425T090544Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6245 / SR-5iter / run 2
+============================================================
+PR title: fix: stabilize level-up regressions and xp synthesis
+Merge commit: 86585b929a75e6b69b1b4e53f17ad560e6e1a880
+Diff length: 13628 chars
+Generating fix with SR-5iter...
+Generated code: 3800 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6245-s2-20260425090724
+Scoring against 6-dim rubric...
+Score: 74.75/100
+  naming=75, error_handling=70, type_safety=75
+  architecture=75, test_coverage=80, documentation=75
+Wrote score JSON: research-wiki/scores/SR-5iter_6245_s2_20260425T090736Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6245_s2_20260425T090736Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6261 / SR-5iter / run 1
+============================================================
+PR title: [antig] refactor(rewards): migrate to centralized robust numeric extraction & simplify chaining
+Merge commit: 425969ca6f35bed0c129a233568aade36334e001
+Diff length: 13233 chars
+Generating fix with SR-5iter...
+Generated code: 4600 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6261-s1-20260425090810
+Scoring against 6-dim rubric...
+Score: 84.15/100
+  naming=85, error_handling=75, type_safety=82
+  architecture=90, test_coverage=90, documentation=85
+Wrote score JSON: research-wiki/scores/SR-5iter_6261_s1_20260425T090819Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6261_s1_20260425T090819Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6261 / SR-5iter / run 2
+============================================================
+PR title: [antig] refactor(rewards): migrate to centralized robust numeric extraction & simplify chaining
+Merge commit: 425969ca6f35bed0c129a233568aade36334e001
+Diff length: 13233 chars
+Generating fix with SR-5iter...
+Generated code: 6045 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6261-s2-20260425090903
+Scoring against 6-dim rubric...
+Score: 84.7/100
+  naming=78, error_handling=85, type_safety=82
+  architecture=88, test_coverage=90, documentation=85
+Wrote score JSON: research-wiki/scores/SR-5iter_6261_s2_20260425T090917Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6261_s2_20260425T090917Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6265 / SR-5iter / run 1
+============================================================
+PR title: [antig] [Fix] Normalize rewards box in streaming passthrough
+Merge commit: 7bfb576254ae83868ba8b18d1f2e71133ccb7e76
+Diff length: 10053 chars
+Generating fix with SR-5iter...
+Generated code: 12496 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6265-s1-20260425090936
+Scoring against 6-dim rubric...
+Score: 81.25/100
+  naming=85, error_handling=75, type_safety=80
+  architecture=85, test_coverage=90, documentation=70
+Wrote score JSON: research-wiki/scores/SR-5iter_6265_s1_20260425T090943Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6265_s1_20260425T090943Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6265 / SR-5iter / run 2
+============================================================
+PR title: [antig] [Fix] Normalize rewards box in streaming passthrough
+Merge commit: 7bfb576254ae83868ba8b18d1f2e71133ccb7e76
+Diff length: 10053 chars
+Generating fix with SR-5iter...
+Generated code: 0 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6265-s2-20260425090951
+Scoring against 6-dim rubric...
+Score: 82.75/100
+  naming=80, error_handling=85, type_safety=70
+  architecture=85, test_coverage=95, documentation=85
+Wrote score JSON: research-wiki/scores/SR-5iter_6265_s2_20260425T091005Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6265_s2_20260425T091005Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6269 / SR-5iter / run 1
+============================================================
+PR title: [antig] Port CR fallback logic to Skeptic Gates in worldarchitect.ai
+Merge commit: 35b736d9658cd1e0203503fecf4c50a8e4a809ec
+Diff length: 13557 chars
+Generating fix with SR-5iter...
+Generated code: 15238 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6269-s1-20260425091030
+Scoring against 6-dim rubric...
+Score: 71.25/100
+  naming=70, error_handling=85, type_safety=50
+  architecture=70, test_coverage=75, documentation=85
+Wrote score JSON: research-wiki/scores/SR-5iter_6269_s1_20260425T091038Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6269_s1_20260425T091038Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6269 / SR-5iter / run 2
+============================================================
+PR title: [antig] Port CR fallback logic to Skeptic Gates in worldarchitect.ai
+Merge commit: 35b736d9658cd1e0203503fecf4c50a8e4a809ec
+Diff length: 13557 chars
+Generating fix with SR-5iter...
+Generated code: 6953 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6269-s2-20260425091111
+Scoring against 6-dim rubric...
+Score: 59.0/100
+  naming=70, error_handling=75, type_safety=45
+  architecture=80, test_coverage=0, documentation=85
+Wrote score JSON: research-wiki/scores/SR-5iter_6269_s2_20260425T091120Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6269_s2_20260425T091120Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6254 / SR-5iter / run 1
+============================================================
+PR title: [agento] fix(rewards): include XP progress tracking in rewards box visibility
+Merge commit: 457a1639e3e449da0ef84b78b33438df38730dfc
+Diff length: 28424 chars
+Generating fix with SR-5iter...
+Generated code: 2708 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6254-s1-20260425091133
+Scoring against 6-dim rubric...
+Score: 73.0/100
+  naming=80, error_handling=70, type_safety=75
+  architecture=75, test_coverage=60, documentation=80
+Wrote score JSON: research-wiki/scores/SR-5iter_6254_s1_20260425T091148Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6254_s1_20260425T091148Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6254 / SR-5iter / run 2
+============================================================
+PR title: [agento] fix(rewards): include XP progress tracking in rewards box visibility
+Merge commit: 457a1639e3e449da0ef84b78b33438df38730dfc
+Diff length: 28424 chars
+Generating fix with SR-5iter...
+Generated code: 3395 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6254-s2-20260425091207
+Scoring against 6-dim rubric...
+Score: 73.75/100
+  naming=75, error_handling=65, type_safety=70
+  architecture=75, test_coverage=80, documentation=85
+Wrote score JSON: research-wiki/scores/SR-5iter_6254_s2_20260425T091214Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6254_s2_20260425T091214Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6270 / SR-5iter / run 1
+============================================================
+PR title: [antig] Infrastructure: Migrate to Reusable Skeptic Workflows
+Merge commit: 04d8df0b7bdafd745ce82e731ffcb2abf3f58273
+Diff length: 64571 chars
+Generating fix with SR-5iter...
+Generated code: 10058 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6270-s1-20260425091241
+Scoring against 6-dim rubric...
+Score: 67.75/100
+  naming=75, error_handling=80, type_safety=60
+  architecture=70, test_coverage=50, documentation=70
+Wrote score JSON: research-wiki/scores/SR-5iter_6270_s1_20260425T091248Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6270_s1_20260425T091248Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6270 / SR-5iter / run 2
+============================================================
+PR title: [antig] Infrastructure: Migrate to Reusable Skeptic Workflows
+Merge commit: 04d8df0b7bdafd745ce82e731ffcb2abf3f58273
+Diff length: 64571 chars
+Generating fix with SR-5iter...
+Generated code: 1067 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6270-s2-20260425091315
+Scoring against 6-dim rubric...
+Score: 80.5/100
+  naming=90, error_handling=85, type_safety=75
+  architecture=90, test_coverage=60, documentation=80
+Wrote score JSON: research-wiki/scores/SR-5iter_6270_s2_20260425T091329Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6270_s2_20260425T091329Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6273 / SR-5iter / run 1
+============================================================
+PR title: feat(rewards_engine): v4 single-responsibility level-up pipeline
+Merge commit: b8ecfd30a257b618458a1803f31915e10d7f6177
+Diff length: 129809 chars
+Generating fix with SR-5iter...
+Generated code: 4483 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6273-s1-20260425091400
+Scoring against 6-dim rubric...
+Score: 76.0/100
+  naming=85, error_handling=70, type_safety=65
+  architecture=90, test_coverage=75, documentation=70
+Wrote score JSON: research-wiki/scores/SR-5iter_6273_s1_20260425T091405Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6273_s1_20260425T091405Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6273 / SR-5iter / run 2
+============================================================
+PR title: feat(rewards_engine): v4 single-responsibility level-up pipeline
+Merge commit: b8ecfd30a257b618458a1803f31915e10d7f6177
+Diff length: 129809 chars
+Generating fix with SR-5iter...
+Generated code: 8270 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6273-s2-20260425091425
+Scoring against 6-dim rubric...
+Score: 73.5/100
+  naming=85, error_handling=70, type_safety=60
+  architecture=85, test_coverage=75, documentation=65
+Wrote score JSON: research-wiki/scores/SR-5iter_6273_s2_20260425T091438Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6273_s2_20260425T091438Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6275 / SR-5iter / run 1
+============================================================
+PR title: [agento][fix(level-up)] synthesize rewards_box when level_up_complete=True but box missing
+Merge commit: be963b9c187eb27d7a52ce85120f3bc08a6bd597
+Diff length: 74064 chars
+Generating fix with SR-5iter...
+Generated code: 18558 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6275-s1-20260425091520
+Scoring against 6-dim rubric...
+Score: 71.5/100
+  naming=75, error_handling=70, type_safety=65
+  architecture=80, test_coverage=65, documentation=75
+Wrote score JSON: research-wiki/scores/SR-5iter_6275_s1_20260425T091539Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6275_s1_20260425T091539Z.logTraceback (most recent call last):
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 681, in run_cell
+    score = score_diff(diff, pr_info, technique, run_num)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/jleechan/projects_other/llm-wiki/scripts/run_autor_experiment.py", line 488, in score_diff
+    score = json.loads(text)
+            ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+Updated bandit state
+
+============================================================
+Running: PR #6275 / SR-5iter / run 2
+============================================================
+PR title: [agento][fix(level-up)] synthesize rewards_box when level_up_complete=True but box missing
+Merge commit: be963b9c187eb27d7a52ce85120f3bc08a6bd597
+Diff length: 74064 chars
+Generating fix with SR-5iter...
+Generated code: 19002 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6275-s2-20260425091629
+Scoring against 6-dim rubric...
+ERROR: Expecting value: line 1 column 1 (char 0)
+
+============================================================
+Running: PR #6277 / SR-5iter / run 1
+============================================================
+PR title: feat(mvp_site): RewardsBox TypedDict + validate_rewards_box() schema enforcement
+Merge commit: 52a5fe2c17cbe22a7da159c7542b8ecc585848e7
+Diff length: 10516 chars
+Generating fix with SR-5iter...
+Generated code: 3290 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6277-s1-20260425091704
+Scoring against 6-dim rubric...
+Score: 81.0/100
+  naming=85, error_handling=70, type_safety=90
+  architecture=75, test_coverage=95, documentation=70
+Wrote score JSON: research-wiki/scores/SR-5iter_6277_s1_20260425T091723Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6277_s1_20260425T091723Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6277 / SR-5iter / run 2
+============================================================
+PR title: feat(mvp_site): RewardsBox TypedDict + validate_rewards_box() schema enforcement
+Merge commit: 52a5fe2c17cbe22a7da159c7542b8ecc585848e7
+Diff length: 10516 chars
+Generating fix with SR-5iter...
+Generated code: 6888 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6277-s2-20260425091747
+Scoring against 6-dim rubric...
+Score: 90.25/100
+  naming=90, error_handling=85, type_safety=95
+  architecture=90, test_coverage=95, documentation=85
+Wrote score JSON: research-wiki/scores/SR-5iter_6277_s2_20260425T091754Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6277_s2_20260425T091754Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6420 / SR-5iter / run 1
+============================================================
+PR title: [antig] fix: ZFC level-up schema prerequisites + validation hardening
+Merge commit: None
+Diff length: 56004 chars
+Generating fix with SR-5iter...
+Generated code: 1187 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6420-s1-20260425091858
+Scoring against 6-dim rubric...
+Score: 64.25/100
+  naming=70, error_handling=50, type_safety=60
+  architecture=75, test_coverage=85, documentation=40
+Wrote score JSON: research-wiki/scores/SR-5iter_6420_s1_20260425T091905Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6420_s1_20260425T091905Z.log
+Updated bandit state
+
+============================================================
+Running: PR #6420 / SR-5iter / run 2
+============================================================
+PR title: [antig] fix: ZFC level-up schema prerequisites + validation hardening
+Merge commit: None
+Diff length: 56004 chars
+Generating fix with SR-5iter...
+Generated code: 2724 chars
+Pushing commit to autor-eval...
+  WARNING: git push failed: git fetch github main failed: remote: Repository not found.
+fatal: repository 'https://github.com/jleechanorg/worldarchitect-ai.git/' not found
+
+  Branch: autor-sr-5iter-6420-s2-20260425091942
+Scoring against 6-dim rubric...
+Score: 77.1/100
+  naming=82, error_handling=85, type_safety=72
+  architecture=75, test_coverage=88, documentation=52
+Wrote score JSON: research-wiki/scores/SR-5iter_6420_s2_20260425T092000Z.json
+Wrote log: wiki/syntheses/et_logs/SR-5iter_6420_s2_20260425T092000Z.log
+Updated bandit state
+
+============================================================
+SUMMARY: 21 succeeded, 1 failed
+  ✓ PR 6243 / SR-5iter / s1: 93.25
+  ✓ PR 6243 / SR-5iter / s2: 91.25
+  ✓ PR 6245 / SR-5iter / s1: 71.75
+  ✓ PR 6245 / SR-5iter / s2: 74.75
+  ✓ PR 6261 / SR-5iter / s1: 84.15
+  ✓ PR 6261 / SR-5iter / s2: 84.7
+  ✓ PR 6265 / SR-5iter / s1: 81.25
+  ✓ PR 6265 / SR-5iter / s2: 82.75
+  ✓ PR 6269 / SR-5iter / s1: 71.25
+  ✓ PR 6269 / SR-5iter / s2: 59.0
+  ✓ PR 6254 / SR-5iter / s1: 73.0
+  ✓ PR 6254 / SR-5iter / s2: 73.75
+  ✓ PR 6270 / SR-5iter / s1: 67.75
+  ✓ PR 6270 / SR-5iter / s2: 80.5
+  ✓ PR 6273 / SR-5iter / s1: 76.0
+  ✓ PR 6273 / SR-5iter / s2: 73.5
+  ✓ PR 6275 / SR-5iter / s1: 71.5
+  ✓ PR 6277 / SR-5iter / s1: 81.0
+  ✓ PR 6277 / SR-5iter / s2: 90.25
+  ✓ PR 6420 / SR-5iter / s1: 64.25
+  ✓ PR 6420 / SR-5iter / s2: 77.1
+  ✗ PR 6275 / SR-5iter / s2: Expecting value: line 1 column 1 (char 0)

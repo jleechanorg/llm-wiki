@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "SR-5iter",
+  "naming": 78,
+  "error_handling": 85,
+  "type_safety": 82,
+  "architecture": 88,
+  "test_coverage": 90,
+  "documentation": 85,
+  "total": 84.7,
+  "breakdown": "This PR refactors rewards numeric extraction by introducing a centralized `_get_raw` helper that searches multiple key aliases before returning a value, and uses `_DNC.convert_value` for robust conversion with proper handling of edge cases (NaN, inf, zero, empty strings). The change simplifies reward field normalization and adds comprehensive tests covering both internal unit tests and live E2E hallucination scenarios. Code quality is solid with clear separation between extraction and conversion logic, though the internal helper uses `Any` type hints in constrained scopes.",
+  "key_changes": [
+    "Added `_get_raw` helper function for multi-key fallback extraction with explicit zero/NaN/inf handling",
+    "Replaced `coerce_int` calls with `_DNC.convert_value` for centralized robust conversion",
+    "Implemented fallback key chains for xp (xp_gained, xp, xp_awarded, etc.) and gold (gold, gold_awarded, gp, etc.)",
+    "Added special handling for `next_level_xp` to default to 0 instead of DNC game-state defaults",
+    "Added `test_rewards_box_robustness.py` with unit tests and E2E hallucination provocation tests"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "SR-5iter-20260425T090133Z",
+  "last_updated": "2026-04-25T09:09:17.204483+00:00",
+  "sample_number": 2
+}

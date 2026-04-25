@@ -1,0 +1,23 @@
+{
+  "pr": 6254,
+  "technique": "SR-5iter",
+  "naming": 75,
+  "error_handling": 65,
+  "type_safety": 70,
+  "architecture": 75,
+  "test_coverage": 80,
+  "documentation": 85,
+  "total": 73.75,
+  "breakdown": "This PR adds XP progress tracking (current_xp/next_level_xp) to the rewards box visibility check in normalize_rewards_box_for_ui(). The changes include a new condition to show content when both XP values are positive, plus test renaming and docstring updates. Architectural improvement: refactoring _ensure_session_header_resources to session_header_utils module. Test coverage is solid with multiple test cases for fallback scenarios.",
+  "key_changes": [
+    "Add XP progress tracking visibility check: or (current_xp > 0 and next_level_xp > 0) in has_visible_content",
+    "Update normalize_rewards_box_for_ui docstring to document new XP tracking visibility logic",
+    "Refactor test references from world_logic_module._ensure_session_header_resources to session_header_utils.ensure_session_header_resources",
+    "Rename ensure_level_up_rewards_pending to _check_and_set_level_up_pending in test comments",
+    "Multiple test functions renamed from parametrized to standalone fixtures with descriptive names"
+  ],
+  "commit_sha": "457a1639e3e449da0ef84b78b33438df38730dfc",
+  "run_session": "SR-5iter-20260425T090133Z",
+  "last_updated": "2026-04-25T09:12:14.228352+00:00",
+  "sample_number": 2
+}

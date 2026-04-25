@@ -121,7 +121,7 @@
       "notes": "PRM matched corpus batch 2: +5 PRs (82, 88, 79, 84, 70), n=14"
     },
     "SR-5iter": {
-      "n": 58,
+      "n": 79,
       "scores": [
         68.2,
         78.7,
@@ -180,10 +180,31 @@
         88.25,
         77.5,
         75.75,
-        76.0
+        76.0,
+        93.25,
+        91.25,
+        71.75,
+        74.75,
+        84.15,
+        84.7,
+        81.25,
+        82.75,
+        71.25,
+        59.0,
+        73.0,
+        73.75,
+        67.75,
+        80.5,
+        76.0,
+        73.5,
+        71.5,
+        81.0,
+        90.25,
+        64.25,
+        77.1
       ],
-      "mean": 79.73275862068965,
-      "last_updated": "2026-04-22T06:04:42.020799+00:00",
+      "mean": 79.07848101265823,
+      "last_updated": "2026-04-25T09:20:00.546239+00:00",
       "notes": "Phase 6: 5-round SelfRefine on PRs 6265,6261,6245,6243,6269; n=3 runs per PR"
     },
     "SR-fewshot": {
@@ -908,9 +929,11 @@
           68.2,
           78.7,
           86.8,
-          87.25
+          87.25,
+          81.25,
+          82.75
         ],
-        "mean": 80.2375,
+        "mean": 80.825,
         "technique": "SR-5iter"
       },
       "SR-fewshot": {
@@ -1265,9 +1288,11 @@
           78.5,
           85.1,
           78.75,
-          84.4
+          84.4,
+          84.15,
+          84.7
         ],
-        "mean": 83.19,
+        "mean": 83.54285714285713,
         "technique": "SR-5iter"
       },
       "SR-fewshot": {
@@ -1534,9 +1559,11 @@
           76.1,
           76.4,
           73.0,
-          81.5
+          81.5,
+          71.75,
+          74.75
         ],
-        "mean": 80.47999999999999,
+        "mean": 78.41428571428571,
         "technique": "SR-5iter"
       },
       "SR-fewshot": {
@@ -1794,9 +1821,11 @@
           77.1,
           83.6,
           88.6,
-          92.75
+          92.75,
+          93.25,
+          91.25
         ],
-        "mean": 85.51249999999999,
+        "mean": 87.75833333333333,
         "technique": "SR-5iter"
       },
       "SR-fewshot": {
@@ -2027,9 +2056,11 @@
           81.5,
           84.9,
           72.0,
-          80.0
+          80.0,
+          71.25,
+          59.0
         ],
-        "mean": 80.74,
+        "mean": 76.27857142857144,
         "technique": "SR-5iter"
       },
       "SR-fewshot": {
@@ -2241,6 +2272,34 @@
           "run_session": "SR-5iter-20260422T055344Z",
           "last_updated": "2026-04-22T06:01:52.051243+00:00",
           "technique": "SR-5iter"
+        },
+        {
+          "total": 81.0,
+          "naming": 85,
+          "error_handling": 70,
+          "type_safety": 90,
+          "architecture": 75,
+          "test_coverage": 95,
+          "documentation": 70,
+          "breakdown": "PR adds a comprehensive test file for RewardsBox TypedDict and validates the validate_rewards_box() function rejects invalid data (wrong types, missing fields, extra fields). The Type Safety dimension is strong (TypedDict + thorough validation), but Error Handling could improve with custom exceptions vs boolean returns. Test coverage is extensive with 10 test cases covering various invalid inputs.",
+          "commit_sha": "52a5fe2c17cbe22a7da159c7542b8ecc585848e7",
+          "run_session": "SR-5iter-20260425T090133Z",
+          "last_updated": "2026-04-25T09:17:23.583104+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 90.25,
+          "naming": 90,
+          "error_handling": 85,
+          "type_safety": 95,
+          "architecture": 90,
+          "test_coverage": 95,
+          "documentation": 85,
+          "breakdown": "This PR adds a TypedDict schema for RewardsBox and a validate_rewards_box() function to enforce schema compliance. The test file is comprehensive, covering TypedDict existence, required fields, type validation for bool/int/list fields, and rejection of unknown extra fields. Naming is clear and specific. Error handling uses boolean return values appropriately for validation. Type safety is excellent with TypedDict preventing Any escape. Architecture properly separates type definitions into custom_types.py. Documentation explains the WHY (avoiding Any type problems) in test docstrings.",
+          "commit_sha": "52a5fe2c17cbe22a7da159c7542b8ecc585848e7",
+          "run_session": "SR-5iter-20260425T090133Z",
+          "last_updated": "2026-04-25T09:17:54.288857+00:00",
+          "technique": "SR-5iter"
         }
       ]
     },
@@ -2348,6 +2407,34 @@
           "commit_sha": "04d8df0b7bdafd745ce82e731ffcb2abf3f58273",
           "run_session": "SR-5iter-20260422T060353Z",
           "last_updated": "2026-04-22T06:04:42.020793+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 67.75,
+          "naming": 75,
+          "error_handling": 80,
+          "type_safety": 60,
+          "architecture": 70,
+          "test_coverage": 50,
+          "documentation": 70,
+          "breakdown": "This PR migrated from a complex ~200-line inline polling mechanism that queries GitHub API and waits for VERDICT comments to a simple reusable workflow call. The removed code demonstrated solid error handling (API failure tracking, rate limit handling, validation) and clear commenting. The new approach delegates logic to an external reusable workflow (jleechanorg/agent-orchestrator), improving DRY but introducing external dependency. No test files visible in the diff and traditional type safety doesn't apply to YAML workflows.",
+          "commit_sha": "04d8df0b7bdafd745ce82e731ffcb2abf3f58273",
+          "run_session": "SR-5iter-20260425T090133Z",
+          "last_updated": "2026-04-25T09:12:48.044084+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 80.5,
+          "naming": 90,
+          "error_handling": 85,
+          "type_safety": 75,
+          "architecture": 90,
+          "test_coverage": 60,
+          "documentation": 80,
+          "breakdown": "This PR migrates a 200+ line inline polling script for skeptic VERDICT comments to use a reusable GitHub Actions workflow (skptic-gate-reusable.yml). The migration significantly improves maintainability by externalizing polling logic, retry handling, and timeout management to a reusable component. The old code is cleanly removed (not commented). Minor concerns: workflow pinned to specific commit hash rather than version tag, and test coverage not visible in this diff.",
+          "commit_sha": "04d8df0b7bdafd745ce82e731ffcb2abf3f58273",
+          "run_session": "SR-5iter-20260425T090133Z",
+          "last_updated": "2026-04-25T09:13:29.701397+00:00",
           "technique": "SR-5iter"
         }
       ]
@@ -2471,6 +2558,34 @@
           "run_session": "SR-5iter-20260422T055344Z",
           "last_updated": "2026-04-22T05:58:45.157906+00:00",
           "technique": "SR-5iter"
+        },
+        {
+          "total": 76.0,
+          "naming": 85,
+          "error_handling": 70,
+          "type_safety": 65,
+          "architecture": 90,
+          "test_coverage": 75,
+          "documentation": 70,
+          "breakdown": "This PR refactors the rewards system by extracting level-up and rewards logic from game_state into a new dedicated rewards_engine module. It separates concerns (rewards handling now separate from game state management) and updates imports across world_logic and tests. The naming is generally good with descriptive function names, though some helper functions use generic underscore prefixes. Error handling and type safety details are limited in the visible diff.",
+          "commit_sha": "b8ecfd30a257b618458a1803f31915e10d7f6177",
+          "run_session": "SR-5iter-20260425T090133Z",
+          "last_updated": "2026-04-25T09:14:05.604038+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 73.5,
+          "naming": 85,
+          "error_handling": 70,
+          "type_safety": 60,
+          "architecture": 85,
+          "test_coverage": 75,
+          "documentation": 65,
+          "breakdown": "This PR refactors the rewards engine (v4 SR pipeline) by moving reward-related functions (_is_state_flag_false, _is_state_flag_true, resolve_level_up_signal, etc.) from game_state.py to a dedicated rewards_engine.py module. It adds new functions: ensure_rewards_box, normalize_rewards_box, is_level_up_active, project_level_up_ui. The architecture shows good separation of concerns, but type safety is weak with minimal explicit annotations and heavy dynamic typing (types.SimpleNamespace, type() constructors). Error handling is present in tests (ImportError/KeyError catching) but not consistently visible across business logic. Naming is descriptive throughout.",
+          "commit_sha": "b8ecfd30a257b618458a1803f31915e10d7f6177",
+          "run_session": "SR-5iter-20260425T090133Z",
+          "last_updated": "2026-04-25T09:14:38.822406+00:00",
+          "technique": "SR-5iter"
         }
       ]
     },
@@ -2593,6 +2708,34 @@
           "run_session": "SR-5iter-20260422T055344Z",
           "last_updated": "2026-04-22T05:55:23.390565+00:00",
           "technique": "SR-5iter"
+        },
+        {
+          "total": 73.0,
+          "naming": 80,
+          "error_handling": 70,
+          "type_safety": 75,
+          "architecture": 75,
+          "test_coverage": 60,
+          "documentation": 80,
+          "breakdown": "This PR adds XP progress tracking visibility to the rewards box by adding condition `(current_xp > 0 and next_level_xp > 0)` to the visibility check. The code change is minimal and targeted, with updated docstrings explaining the new behavior. Tests were refactored to use `session_header_utils` instead of `world_logic_module`, and documentation comments were updated to reference the new function name `_check_and_set_level_up_pending`. However, no new tests specifically validate the XP progress tracking feature, and the error handling remains unchanged as this is a simple logic addition.",
+          "commit_sha": "457a1639e3e449da0ef84b78b33438df38730dfc",
+          "run_session": "SR-5iter-20260425T090133Z",
+          "last_updated": "2026-04-25T09:11:48.220313+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 73.75,
+          "naming": 75,
+          "error_handling": 65,
+          "type_safety": 70,
+          "architecture": 75,
+          "test_coverage": 80,
+          "documentation": 85,
+          "breakdown": "This PR adds XP progress tracking (current_xp/next_level_xp) to the rewards box visibility check in normalize_rewards_box_for_ui(). The changes include a new condition to show content when both XP values are positive, plus test renaming and docstring updates. Architectural improvement: refactoring _ensure_session_header_resources to session_header_utils module. Test coverage is solid with multiple test cases for fallback scenarios.",
+          "commit_sha": "457a1639e3e449da0ef84b78b33438df38730dfc",
+          "run_session": "SR-5iter-20260425T090133Z",
+          "last_updated": "2026-04-25T09:12:14.228901+00:00",
+          "technique": "SR-5iter"
         }
       ]
     },
@@ -2684,6 +2827,20 @@
           "commit_sha": "be963b9c187eb27d7a52ce85120f3bc08a6bd597",
           "run_session": "SR-5iter-20260422T055344Z",
           "last_updated": "2026-04-22T06:00:00.558887+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 71.5,
+          "naming": 75,
+          "error_handling": 70,
+          "type_safety": 65,
+          "architecture": 80,
+          "test_coverage": 65,
+          "documentation": 75,
+          "breakdown": "This PR makes two unrelated changes: (1) fixes the evidence root directory name from 'worldarchitectai' to 'worldarchitect.ai' in evidence_utils.py, and (2) refactors tests in test_mcp_global_installation.py to verify script content in skeptic-evaluate.sh instead of directly checking workflow YAML. Naming is decent with some generic variables. Error handling includes script existence checks and yaml parsing with isinstance guards, but lacks explicit fallback for parse failures. Type safety is basic with no TypedDict or generics but avoids any escape. Architecture properly separates library code from tests. Test quality is good with comprehensive env var checking across YAML levels, but evidence_utils changes lack test coverage.",
+          "commit_sha": "be963b9c187eb27d7a52ce85120f3bc08a6bd597",
+          "run_session": "SR-5iter-20260425T090133Z",
+          "last_updated": "2026-04-25T09:15:39.475508+00:00",
           "technique": "SR-5iter"
         }
       ]
@@ -2854,6 +3011,34 @@
           "commit_sha": null,
           "run_session": "SR-5iter-20260422T055344Z",
           "last_updated": "2026-04-22T06:02:55.155382+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 64.25,
+          "naming": 70,
+          "error_handling": 50,
+          "type_safety": 60,
+          "architecture": 75,
+          "test_coverage": 85,
+          "documentation": 40,
+          "breakdown": "This PR hardens validation for ZFC level-up schema by changing empty done payload handling from returning empty success to raising RuntimeError, along with refactoring mock attribute names (llm_request\u2192gemini_request) and improving test monkeypatch patterns. Tests verify debug_info precedence and AST structure, but error handling lacks typed exceptions and documentation is minimal across changed functions.",
+          "commit_sha": null,
+          "run_session": "SR-5iter-20260425T090133Z",
+          "last_updated": "2026-04-25T09:19:05.874418+00:00",
+          "technique": "SR-5iter"
+        },
+        {
+          "total": 77.1,
+          "naming": 82,
+          "error_handling": 85,
+          "type_safety": 72,
+          "architecture": 75,
+          "test_coverage": 88,
+          "documentation": 52,
+          "breakdown": "This PR hardens validation for stream processing by changing behavior from silently returning empty success to raising RuntimeError on malformed done payloads, and fixes attribute name inconsistencies (llm_request \u2192 gemini_request). The test suite now includes comprehensive AST structure validation ensuring narrative fallback logic sits at the correct level. While naming is clear and error handling is improved, documentation is sparse with no docstrings or explanatory comments for the architectural changes.",
+          "commit_sha": null,
+          "run_session": "SR-5iter-20260425T090133Z",
+          "last_updated": "2026-04-25T09:20:00.546233+00:00",
           "technique": "SR-5iter"
         }
       ]

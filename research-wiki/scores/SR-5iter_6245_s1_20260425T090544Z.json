@@ -1,0 +1,23 @@
+{
+  "pr": 6245,
+  "technique": "SR-5iter",
+  "naming": 75,
+  "error_handling": 70,
+  "type_safety": 75,
+  "architecture": 80,
+  "test_coverage": 60,
+  "documentation": 65,
+  "total": 71.75,
+  "breakdown": "This PR stabilizes level-up regressions by replacing the custom `_extract_xp_from_player_data` helper with the existing `extract_character_xp` function, and adds support for `xp_awarded` field from combat/encounter summaries as a higher-priority source. The changes shift to using `ensure_level_up_rewards_pending` instead of implementation detail function. Tests exist for the removed function but appear orphaned; some error handling via isinstance checks exists but relies on coerce_int defaults.",
+  "key_changes": [
+    "Removed `_extract_xp_from_player_data` function (~35 lines) and replaced usages with `extract_character_xp`",
+    "Added `xp_awarded` field handling in `_synthesize_generic_rewards_box` for combat path",
+    "Added `xp_awarded` field handling in `_synthesize_generic_rewards_box` for encounter path",
+    "Changed `_check_and_set_level_up_pending` to call `ensure_level_up_rewards_pending` instead of implementation function",
+    "Added isinstance check for combat_summary dict before accessing xp_awarded field"
+  ],
+  "commit_sha": "86585b929a75e6b69b1b4e53f17ad560e6e1a880",
+  "run_session": "SR-5iter-20260425T090133Z",
+  "last_updated": "2026-04-25T09:05:44.736928+00:00",
+  "sample_number": 1
+}

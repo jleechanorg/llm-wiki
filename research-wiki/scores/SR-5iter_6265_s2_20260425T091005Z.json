@@ -1,0 +1,23 @@
+{
+  "pr": 6265,
+  "technique": "SR-5iter",
+  "naming": 80,
+  "error_handling": 85,
+  "type_safety": 70,
+  "architecture": 85,
+  "test_coverage": 95,
+  "documentation": 85,
+  "total": 82.75,
+  "breakdown": "PR fixes a bug where rewards_box with non-standard keys (xp/gold_pieces) wasn't being normalized in streaming passthrough paths. The fix adds fallback logic to normalize_rewards_box_for_ui to handle both standard and alternative key names, then applies normalization in the passthrough path. Code quality is solid with defensive coding and good test coverage, though type safety could be improved with type hints on the normalize function.",
+  "key_changes": [
+    "Add fallback logic in normalize_rewards_box_for_ui to handle 'xp'/'gold_pieces' keys alongside standard 'xp_gained'/'gold'",
+    "Call normalize_rewards_box_for_ui on rewards_box in _resolve_canonical_level_up_ui_pair passthrough path",
+    "Remove fallback keys after normalization to prevent downstream issues",
+    "Add comprehensive E2E test that exercises messy rewards_box generation via LLM prompts",
+    "Restructure conditional logic in streaming passthrough code for clarity"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-5iter-20260425T090133Z",
+  "last_updated": "2026-04-25T09:10:05.956843+00:00",
+  "sample_number": 2
+}

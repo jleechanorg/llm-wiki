@@ -1,0 +1,23 @@
+{
+  "pr": 6273,
+  "technique": "SR-5iter",
+  "naming": 85,
+  "error_handling": 70,
+  "type_safety": 60,
+  "architecture": 85,
+  "test_coverage": 75,
+  "documentation": 65,
+  "total": 73.5,
+  "breakdown": "This PR refactors the rewards engine (v4 SR pipeline) by moving reward-related functions (_is_state_flag_false, _is_state_flag_true, resolve_level_up_signal, etc.) from game_state.py to a dedicated rewards_engine.py module. It adds new functions: ensure_rewards_box, normalize_rewards_box, is_level_up_active, project_level_up_ui. The architecture shows good separation of concerns, but type safety is weak with minimal explicit annotations and heavy dynamic typing (types.SimpleNamespace, type() constructors). Error handling is present in tests (ImportError/KeyError catching) but not consistently visible across business logic. Naming is descriptive throughout.",
+  "key_changes": [
+    "Moves reward-related functions (_is_state_flag_*, resolve_level_up_signal) from game_state to new rewards_engine module",
+    "Adds new functions: ensure_rewards_box, normalize_rewards_box, is_level_up_active, project_level_up_ui",
+    "Updates world_logic.py imports to source from rewards_engine instead of game_state",
+    "Adds firebase mocking in conftest.py for test isolation",
+    "Renames wiki/tips/ files to wiki/sources/ for better organization"
+  ],
+  "commit_sha": "b8ecfd30a257b618458a1803f31915e10d7f6177",
+  "run_session": "SR-5iter-20260425T090133Z",
+  "last_updated": "2026-04-25T09:14:38.821828+00:00",
+  "sample_number": 2
+}

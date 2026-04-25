@@ -1,0 +1,23 @@
+{
+  "pr": 6254,
+  "technique": "SR-5iter",
+  "naming": 80,
+  "error_handling": 70,
+  "type_safety": 75,
+  "architecture": 75,
+  "test_coverage": 60,
+  "documentation": 80,
+  "total": 73.0,
+  "breakdown": "This PR adds XP progress tracking visibility to the rewards box by adding condition `(current_xp > 0 and next_level_xp > 0)` to the visibility check. The code change is minimal and targeted, with updated docstrings explaining the new behavior. Tests were refactored to use `session_header_utils` instead of `world_logic_module`, and documentation comments were updated to reference the new function name `_check_and_set_level_up_pending`. However, no new tests specifically validate the XP progress tracking feature, and the error handling remains unchanged as this is a simple logic addition.",
+  "key_changes": [
+    "Added XP progress tracking condition `(current_xp > 0 and next_level_xp > 0)` to rewards box visibility check in `normalize_rewards_box_for_ui`",
+    "Updated docstring to document new visibility logic for XP progress tracking",
+    "Refactored test imports from `world_logic_module._ensure_session_header_resources` to `session_header_utils.ensure_session_header_resources`",
+    "Removed `world_logic_module` fixture parameter from multiple test functions",
+    "Updated documentation comments to reference new function name `_check_and_set_level_up_pending` instead of `ensure_level_up_rewards_pending`"
+  ],
+  "commit_sha": "457a1639e3e449da0ef84b78b33438df38730dfc",
+  "run_session": "SR-5iter-20260425T090133Z",
+  "last_updated": "2026-04-25T09:11:48.219688+00:00",
+  "sample_number": 1
+}

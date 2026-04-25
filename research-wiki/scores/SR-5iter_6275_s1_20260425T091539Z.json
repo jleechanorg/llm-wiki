@@ -1,0 +1,24 @@
+{
+  "pr": 6275,
+  "technique": "SR-5iter",
+  "naming": 75,
+  "error_handling": 70,
+  "type_safety": 65,
+  "architecture": 80,
+  "test_coverage": 65,
+  "documentation": 75,
+  "total": 71.5,
+  "breakdown": "This PR makes two unrelated changes: (1) fixes the evidence root directory name from 'worldarchitectai' to 'worldarchitect.ai' in evidence_utils.py, and (2) refactors tests in test_mcp_global_installation.py to verify script content in skeptic-evaluate.sh instead of directly checking workflow YAML. Naming is decent with some generic variables. Error handling includes script existence checks and yaml parsing with isinstance guards, but lacks explicit fallback for parse failures. Type safety is basic with no TypedDict or generics but avoids any escape. Architecture properly separates library code from tests. Test quality is good with comprehensive env var checking across YAML levels, but evidence_utils changes lack test coverage.",
+  "key_changes": [
+    "Update evidence root name constant from 'worldarchitectai' to 'worldarchitect.ai' in _get_evidence_tmp_root_name()",
+    "Update directory paths in evidence_utils.py to use 'worldarchitect.ai' instead of 'worldarchitectai'",
+    "Refactor tests to check script file skeptic-evaluate.sh instead of workflow file directly",
+    "Add yaml.safe_load parsing with multi-level env variable extraction (top-level, job-level, step-level)",
+    "Update test assertions to check different patterns in shell script content",
+    "Add script_path.exists() assertions with descriptive error messages"
+  ],
+  "commit_sha": "be963b9c187eb27d7a52ce85120f3bc08a6bd597",
+  "run_session": "SR-5iter-20260425T090133Z",
+  "last_updated": "2026-04-25T09:15:39.474939+00:00",
+  "sample_number": 1
+}

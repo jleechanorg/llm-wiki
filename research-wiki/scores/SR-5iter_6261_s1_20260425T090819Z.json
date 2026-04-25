@@ -1,0 +1,23 @@
+{
+  "pr": 6261,
+  "technique": "SR-5iter",
+  "naming": 85,
+  "error_handling": 75,
+  "type_safety": 82,
+  "architecture": 90,
+  "test_coverage": 90,
+  "documentation": 85,
+  "total": 84.15,
+  "breakdown": "PR refactors the rewards box normalization to use a centralized robust numeric extraction with fallback key chains. The changes include a new _get_raw() helper that intelligently searches multiple possible keys for each field (xp_gained/xp/xp_awarded/etc) with smart handling of edge cases like 0, NaN, and empty strings. Includes new E2E test file covering various messy LLM output scenarios. Good architecture with separation of lookup logic from conversion, but minimal explicit exception handling and uses Any type for intermediate dict access.",
+  "key_changes": [
+    "Refactored normalize_rewards_box_for_ui to use centralized _get_raw() helper with multi-key fallback chains",
+    "Added robust handling for edge cases: empty strings, zero values, NaN/inf floats",
+    "Integrated _DNC.convert_value() for standardized numeric conversion",
+    "Created new E2E test file testing messy string aliases like 'xpAmount' and 'xp_gained'",
+    "Added test coverage for fallback aliases, empty primary fallback, and nan handling"
+  ],
+  "commit_sha": "425969ca6f35bed0c129a233568aade36334e001",
+  "run_session": "SR-5iter-20260425T090133Z",
+  "last_updated": "2026-04-25T09:08:19.783691+00:00",
+  "sample_number": 1
+}

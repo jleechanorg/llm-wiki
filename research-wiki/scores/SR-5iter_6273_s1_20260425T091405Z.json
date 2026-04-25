@@ -1,0 +1,23 @@
+{
+  "pr": 6273,
+  "technique": "SR-5iter",
+  "naming": 85,
+  "error_handling": 70,
+  "type_safety": 65,
+  "architecture": 90,
+  "test_coverage": 75,
+  "documentation": 70,
+  "total": 76.0,
+  "breakdown": "This PR refactors the rewards system by extracting level-up and rewards logic from game_state into a new dedicated rewards_engine module. It separates concerns (rewards handling now separate from game state management) and updates imports across world_logic and tests. The naming is generally good with descriptive function names, though some helper functions use generic underscore prefixes. Error handling and type safety details are limited in the visible diff.",
+  "key_changes": [
+    "Extract rewards/level-up functions from game_state to new rewards_engine module",
+    "Add new functions: resolve_level_up_signal, ensure_rewards_box, normalize_rewards_box, is_level_up_active, project_level_up_ui",
+    "Update world_logic imports to source from rewards_engine instead of game_state",
+    "Rename test target from streaming_orchestrator to llm_parser in import regression tests",
+    "Move wiki documentation files from tips/ to sources/ directory"
+  ],
+  "commit_sha": "b8ecfd30a257b618458a1803f31915e10d7f6177",
+  "run_session": "SR-5iter-20260425T090133Z",
+  "last_updated": "2026-04-25T09:14:05.603123+00:00",
+  "sample_number": 1
+}

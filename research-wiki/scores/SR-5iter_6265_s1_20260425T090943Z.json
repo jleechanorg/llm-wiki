@@ -1,0 +1,22 @@
+{
+  "pr": 6265,
+  "technique": "SR-5iter",
+  "naming": 85,
+  "error_handling": 75,
+  "type_safety": 80,
+  "architecture": 85,
+  "test_coverage": 90,
+  "documentation": 70,
+  "total": 81.25,
+  "breakdown": "This PR fixes the normalization of rewards_box in streaming passthrough by handling alternative key names ('xp'/'gold_pieces' vs 'xp_gained'/'gold'). The changes include the normalize_rewards_box_for_ui function now checking for fallback keys and popping them after normalization, plus applying this normalization in _resolve_canonical_level_up_ui_pair. Naming is clear, type safety good with coerce_int and isinstance checks, but documentation is minimal with only the existing comment explaining the boolean rationale.",
+  "key_changes": [
+    "Added fallback key handling in normalize_rewards_box_for_ui: checks 'xp' if 'xp_gained' is None, 'gold_pieces' if 'gold' is None",
+    "Added .pop() calls to remove raw fallback keys after normalization",
+    "Applied normalize_rewards_box_for_ui in _resolve_canonical_level_up_ui_pair for passthrough rewards",
+    "New test file testing_mcp/test_streaming_passthrough_normalization.py added to verify normalization with messy keys"
+  ],
+  "commit_sha": "7bfb576254ae83868ba8b18d1f2e71133ccb7e76",
+  "run_session": "SR-5iter-20260425T090133Z",
+  "last_updated": "2026-04-25T09:09:43.122609+00:00",
+  "sample_number": 1
+}

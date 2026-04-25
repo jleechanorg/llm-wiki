@@ -1,0 +1,9 @@
+# SR-5iter Generation for PR #6245
+Timestamp: 2026-04-25T09:03:36.590727+00:00
+Technique: SR-5iter
+
+## PR Context
+Title: fix: stabilize level-up regressions and xp synthesis
+
+## Generation Response (32573 chars)
+Extracted code: 483 chars
