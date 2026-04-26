@@ -3669,3 +3669,11 @@ Stage 0 drift analysis: M0 was supposed to delete legacy paths (+845/-123 LOC); 
 - Note: rev-lmdo/rev-23eq/rev-7yt7/rev-cujw/rev-usv2/rev-c726/rev-ahpi/rev-v0x7 beads NOT FOUND in local bead store
 - Note: All 3 PRs have lost headRefName (null via API); commits on main
 ## [2026-04-21] ingest | fork-skeptic-extension.ts
+## [2026-04-25] ingest | ZFC Systemic Audit
+- Source: raw/2026-04-25-zfc-systemic-audit.md
+- Created: sources/2026-04-25-zfc-systemic-audit.md (source page)
+- Created: concepts/agent-pr-sprawl.md (new concept: Agent PR Sprawl anti-pattern)
+- Created: concepts/skill-consolidation-pattern.md (new concept: Skill Consolidation Pattern)
+- Updated: index.md (new source entry)
+- Oracle impact: YES — documents systemic inefficiency in autonomous agent PR workflows; directly connects to [[ZeroFrameworkCognition]], [[AgentDrift]], [[Harness5LayerModel]]
+- Key finding: 10% PR merge rate across ~30 ZFC PRs in 4 days; root cause hierarchy: (1) no machine enforcement, (2) too much context / not enough signal, (3) LLM training data priors

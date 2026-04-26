@@ -14,6 +14,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
+- [ZFC Systemic Audit — 2026-04-25](sources/2026-04-25-zfc-systemic-audit.md) — ~30 PRs in 4 days, 10% merge rate; 5 anti-patterns; root cause hierarchy: no machine enforcement > context overload > training priors; skill consolidation from 5→1
 - [fork-skeptic-extension.ts — 2026-04-21](sources/fork-skeptic-extension.md) — Skeptic extension module for AO fork: extracted skeptic-review reaction from lifecycle-manager.ts; runSkepticReviewReaction() handles verdicts with SKIPPED as non-success
 - [ZFC Loop Current-Head Comment Gate — 2026-04-21](sources/2026-04-21-zfc-loop-current-head-comment-gate.md) — Loop supervision lesson: current-head `/smoke`, `/er`, and bot-failure comments block worker parking even when standard checks look green
 - [AO Worker Failure Investigation — 2026-04-21](sources/2026-04-21-ao-worker-failure-investigation.md) — AO archive and lifecycle proof that wrong-agent launch, stuck-probe churn, and ownership drift caused the `#6420` / `#6404` worker failures
