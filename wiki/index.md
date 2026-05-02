@@ -5,7 +5,15 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Overview
 - [Overview](overview.md) — living synthesis across all sources
 
-## Player Psychology (campaigns/jleechan/)
+- [org-runner-audit skill](sources/org-runner-audit-skill.md) — Use org-level GH API for runner queries (not repo-level); addresses memory incidents 0.73, 0.77, 0.78
+
+## Concepts
+
+- [GeneratorEvaluatorSeparation](concepts/GeneratorEvaluatorSeparation.md) — Separate generator agent from evaluator agent; generator grading itself is meaningless
+- [ContextAnxiety](concepts/ContextAnxiety.md) — Models wrap up prematurely as context fills; solved by context resets, not compaction
+- [SprintContract](concepts/SprintContract.md) — Negotiated scope lock between Generator and Reviewer before any code is written
+- [FileBasedHandoffs](concepts/FileBasedHandoffs.md) — State persistence via files between agent restarts
+- [BorisWorkflow](concepts/BorisWorkflow.md) — Research-first, plan-in-markdown, annotation cycle, "don't implement yet" guard
 - [jleechan TTRPG Psychology](campaigns/jleechan/index.md) — Root index
 - [Psychological Profile](campaigns/jleechan/psychological-profile.md) — Childhood formation, conditional belonging, two-mask system
 - [Seven Choice Patterns](campaigns/jleechan/seven-choice-patterns.md) — Observable decision patterns from 500+ turn campaigns
@@ -14,6 +22,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
+- [Anthropic Harness Design for Long-Running Apps](sources/anthropic-harness-design-long-running-apps.md) — GAN-style generator/evaluator separation, context resets vs compaction, sprint contracts, file-based handoffs, three-agent architecture
+- [Anthropic Advisor Strategy April 2026](sources/anthropic-advisor-strategy.md) — Sonnet/Haiku as executor + Opus as advisor; +2.7pp on SWE-bench at 11.9% lower cost; inverts sub-agent pattern
+- [Boris Tan How I Use Claude Code Feb 2026](sources/boris-tan-how-i-use-claude-code.md) — Research-first, plan-in-markdown, annotation cycle, "don't implement yet" guard
+- [Launchd Env-Isolation — AO Lifecycle-Worker Auth Failure — 2026-04-30](sources/launchd-env-isolation-2026-04-30.md) — Launchd does NOT source `.bashrc`; `MINIMAX_API_KEY` silently undefined in lifecycle-manager Node.js process; fix via plist `EnvironmentVariables` + `setup-launchd.sh` sed substitutions + `test-launchd-env.sh` verification
+- [PR 6737 Evidence Artifact Verification](sources/feedback-2026-05-01-pr6737-evidence-artifact-verification.md) - Current-SHA `/es` evidence must be verified in the public PR/release artifacts: real local server, real service mode, raw logs, checksums, and UI video for user-visible `mvp_site` behavior
+- [Level-Up Debugging Saga — 17 Days, Still Not Fixed](sources/feedback-2026-05-01-level-up-debugging-saga.md) — 30+ PRs across 17 days; upstream LLM prompt never fixed, downstream guards are patches not actual fixes; FM1/FM2/FM3 still alive; `_is_stale_level_up_pending` has pre-existing bugs (3 tests skipped)
+- [PR 6719 Evidence Bloat Skipped Preview Deploy](sources/pr-6719-evidence-bloat-preview-skip.md) - 430 changed files and generated evidence pushed preview-triggering files beyond GitHub's path-filter window; freeze SHA before Layer 3/4/Skeptic evidence and keep preview deploy manually runnable
+- [Stale rewards_box xp_gained — Root Cause Confirmed — 2026-04-30](sources/nextsteps-2026-04-30-stale-rewards-box-6732.md) — `_canonicalize_core` has no dismissal guard for non-level-up `xp_gained=2300`; persists via game-state merge loop; LLM prose acknowledgment does NOT write Firestore; PR #6719 not responsible; display-layer fix PR #6733 is CONFLICTING
 - [ZFC Systemic Audit — 2026-04-25](sources/2026-04-25-zfc-systemic-audit.md) — ~30 PRs in 4 days, 10% merge rate; 5 anti-patterns; root cause hierarchy: no machine enforcement > context overload > training priors; skill consolidation from 5→1
 - [fork-skeptic-extension.ts — 2026-04-21](sources/fork-skeptic-extension.md) — Skeptic extension module for AO fork: extracted skeptic-review reaction from lifecycle-manager.ts; runSkepticReviewReaction() handles verdicts with SKIPPED as non-success
 - [ZFC Loop Current-Head Comment Gate — 2026-04-21](sources/2026-04-21-zfc-loop-current-head-comment-gate.md) — Loop supervision lesson: current-head `/smoke`, `/er`, and bot-failure comments block worker parking even when standard checks look green
@@ -5617,6 +5633,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 
 ## Entities
 
+- [FrierenCampaign](entities/FrierenCampaign.md) — TTRPG campaign; repro subject for stale `xp_gained=2300` bug (issue #6732); twin copy at `vPZUnBAKMDsbN3HS95wF`
 - [PR-6276-Worldarchitect](entities/PR-6276-Worldarchitect.md) — PR #6276 entity: feat/world-logic-clean-layer3, ~75% done, Layer 3 CLEAN remaining
 - [LangGraph](entities/LangGraph.md) — Graph-based state machine framework for reliable AI agents (LangChain ecosystem)
 - [AutoGen](entities/AutoGen.md) — Microsoft Research multi-agent framework (maintenance mode; successor: Microsoft Agent Framework)
@@ -5919,6 +5936,8 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [LevelUpPolling](concepts/LevelUpPolling.md) — 3 distinct paths: SSE streaming (push, done event inline), HTTP GET (page load only), MCP polling (external clients); DeferredRewardsProtocol is LLM instruction not server timer
 - [RewardsEngine](concepts/RewardsEngine.md) — Single-responsibility rewards module; `should_show_rewards_box` semantic regression from PR #6273 suppressed all non-level-up XP progress boxes (4/6 production bugs)
 - [RewardsBox Atomicity](concepts/RewardsBoxAtomicity.md) — invariant that rewards_box and planning_block must be consistent; 6 distinct atomicity bugs found in PR #6161 bug hunt
+- [RewardsBoxDismissalGap](concepts/RewardsBoxDismissalGap.md) — non-level-up `xp_gained` has no dismissal guard in `_canonicalize_core`; stale value persists via game-state merge loop; LLM prose does not write Firestore
+- [LevelUpSignalDismissalGap](concepts/LevelUpSignalDismissalGap.md) — `level_up_available` has dismissal guard but `xp_gained` in non-level-up path does not; asymmetric staleness pattern
 - [Dice Roll Debug Regression](concepts/DiceRollDebugRegression.md) — dice rolls and debug_info don't render for non-debug users on main; regression predates PR #6161; investigation open in PR #6194
 - [Nullification Field](concepts/NullificationField.md) — Alexiel's special ability to neutralize magic vs celestial beings
 - [The Five Harness Layers](concepts/Harness5LayerModel.md) — 5-layer model for agent harness: Constraint (L1), Context (L2), Execution (L3), Verification (L4), Lifecycle (L5); framework for build vs. buy decisions
@@ -6255,3 +6274,4 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 
 - [pr-6404-level-up-model-owned-signal-formatter](sources/pr-6404-level-up-model-owned-signal-formatter.md) — ZFC architecture lane: model-owned level_up_signal field, rewards_engine canonicalize_rewards prefer
 - [pr-6434-rename-prepare-gemini-request-to-llm-request](sources/pr-6434-rename-prepare-gemini-request-to-llm-request.md) — Net 0 LOC rename of prepared.gemini_request → prepared.llm_request
+- [Level-up prompt path before enforcement — 2026-05-02](sources/feedback-2026-05-02-level-up-prompt-path-before-enforcement.md) — Verify selected agent prompt path before enforcement; `target_level > current_level` is the actionable model-owned level-up signal.
