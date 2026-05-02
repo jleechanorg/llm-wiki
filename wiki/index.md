@@ -6277,3 +6277,5 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [pr-6434-rename-prepare-gemini-request-to-llm-request](sources/pr-6434-rename-prepare-gemini-request-to-llm-request.md) — Net 0 LOC rename of prepared.gemini_request → prepared.llm_request
 - [Level-up prompt path before enforcement — 2026-05-02](sources/feedback-2026-05-02-level-up-prompt-path-before-enforcement.md) — Verify selected agent prompt path before enforcement; `target_level > current_level` is the actionable model-owned level-up signal.
 - [Game-Ready 2D Sprite Sheet Pipeline via AI](sources/sprite-sheet-pipeline-layrkits.md) — Complete pipeline: image model (GPT Image 2/Nano Banana 2) on chroma green → video model (Kling) for motion → FFmpeg frame extraction → Python/Pillow sprite sheet assembly; video models solve image models' leg/mechanics failure
+
+- [claude-code-browser-screenshot-read-tool](sources/claude-code-browser-screenshot-read-tool.md) — View PNG screenshots in Claude Code conversation via Read tool + chrome-superpowers MCP browser automation
