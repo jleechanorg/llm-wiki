@@ -22,6 +22,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
+- [Game-Ready 2D Sprite Sheet Pipeline via AI](sources/sprite-sheet-pipeline-layrkits.md) — AI image+video pipeline (GPT Image 2 → Kling → FFmpeg → Pillow) for game-ready sprite sheets; chroma key + preserve-canvas workflow
 - [Anthropic Harness Design for Long-Running Apps](sources/anthropic-harness-design-long-running-apps.md) — GAN-style generator/evaluator separation, context resets vs compaction, sprint contracts, file-based handoffs, three-agent architecture
 - [Anthropic Advisor Strategy April 2026](sources/anthropic-advisor-strategy.md) — Sonnet/Haiku as executor + Opus as advisor; +2.7pp on SWE-bench at 11.9% lower cost; inverts sub-agent pattern
 - [Boris Tan How I Use Claude Code Feb 2026](sources/boris-tan-how-i-use-claude-code.md) — Research-first, plan-in-markdown, annotation cycle, "don't implement yet" guard
@@ -6275,3 +6276,4 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [pr-6404-level-up-model-owned-signal-formatter](sources/pr-6404-level-up-model-owned-signal-formatter.md) — ZFC architecture lane: model-owned level_up_signal field, rewards_engine canonicalize_rewards prefer
 - [pr-6434-rename-prepare-gemini-request-to-llm-request](sources/pr-6434-rename-prepare-gemini-request-to-llm-request.md) — Net 0 LOC rename of prepared.gemini_request → prepared.llm_request
 - [Level-up prompt path before enforcement — 2026-05-02](sources/feedback-2026-05-02-level-up-prompt-path-before-enforcement.md) — Verify selected agent prompt path before enforcement; `target_level > current_level` is the actionable model-owned level-up signal.
+- [Game-Ready 2D Sprite Sheet Pipeline via AI](sources/sprite-sheet-pipeline-layrkits.md) — Complete pipeline: image model (GPT Image 2/Nano Banana 2) on chroma green → video model (Kling) for motion → FFmpeg frame extraction → Python/Pillow sprite sheet assembly; video models solve image models' leg/mechanics failure

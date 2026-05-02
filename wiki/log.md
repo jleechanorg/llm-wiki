@@ -1,3 +1,7 @@
+## [2026-05-02] ingest | Game-Ready 2D Sprite Sheet Pipeline via AI
+
+Complete 9-step pipeline for AI-generated sprite sheets: image model (GPT Image 2/Nano Banana 2) for chroma-green pose → Kling video model for animation → FFmpeg frame extraction → Python/Pillow chroma removal → preserve-canvas sprite sheet assembly. Core insight: video models understand leg/motion mechanics image models lack. Entity pages: [[LayrKits]], [[Kling]], [[Codex]]. Concept pages: [[SpriteSheetPipeline]], [[ChromaKeyBackground]], [[PreserveCanvasMode]]. Oracle impact: NO - creative tooling.
+
 ## [2026-05-01] ingest | Level-Up Debugging Saga — 17 Days, Still Not Fixed
 
 30+ PRs across 17 days; upstream LLM prompt never fixed (model still derives level from XP), downstream guards are patches not actual fixes. FM1: transitional backend override exists but model prompt never corrected. FM2: monotonicity guard exists but upstream LLM still wrong. FM3: `_is_stale_level_up_pending` has pre-existing bugs (3 tests skipped). FM4/FM5/FM6: streaming/polling divergence never resolved. Concept: [[LevelUpDebuggingSaga]]. Oracle impact: NO - technical workflow lesson.
@@ -3720,3 +3724,10 @@ Stage 0 drift analysis: M0 was supposed to delete legacy paths (+845/-123 LOC); 
 - Concepts: level-up modal routing, root-cause-first, ZFC signal contract
 - `[[jeffrey-oracle]]`: no direct product psychology update; engineering workflow memory only.
 ## [2026-05-02] ingest | Autonomous harness design sources + concepts
+
+## [2026-05-02] ingest | Game-Ready 2D Sprite Sheet Pipeline via AI
+- Source: `sources/sprite-sheet-pipeline-layrkits.md`
+- Raw: `/Users/jleechan/llm_wiki/raw/sprite-sheet-pipeline-layrkits.md`
+- Concepts: sprite sheet pipeline, chroma key animation, AI video model frame extraction, game asset production
+- `[[jeffrey-oracle]]`: NO - technical game-dev/AI workflow lesson; no product psychology update.
+- Entities linked: [[Codex]], [[Kling]], [[Ronnie Stein]], [[FFmpeg]], [[Pillow]], [[AnimationSystem]], [[sprite-generation-system]]
