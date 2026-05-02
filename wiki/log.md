@@ -1,3 +1,11 @@
+## [2026-05-01] ingest | Level-Up Debugging Saga — 17 Days, Still Not Fixed
+
+30+ PRs across 17 days; upstream LLM prompt never fixed (model still derives level from XP), downstream guards are patches not actual fixes. FM1: transitional backend override exists but model prompt never corrected. FM2: monotonicity guard exists but upstream LLM still wrong. FM3: `_is_stale_level_up_pending` has pre-existing bugs (3 tests skipped). FM4/FM5/FM6: streaming/polling divergence never resolved. Concept: [[LevelUpDebuggingSaga]]. Oracle impact: NO - technical workflow lesson.
+
+## [2026-04-30] ingest | Launchd Env-Isolation — AO Lifecycle-Worker Auth Failure
+
+Launchd does NOT source `.bashrc`; `MINIMAX_API_KEY` silently undefined in lifecycle-manager Node.js process spawned by `ai.agento.lifecycle-all.plist`; fix via plist `EnvironmentVariables` + `setup-launchd.sh` sed substitutions + `test-launchd-env.sh` verification. Concept pages: [[LaunchdEnvIsolation]].
+
 ## [2026-04-20] ingest | Level-Up ZFC Current Status — current queue snapshot preserved; north star unchanged; #6420 first, then #6418, then #6404; local worktree branch attached to #6404 but does not change landing order
 
 ## [2026-04-20] ingest | ZFC Level-Up M0 Cleanup Session — 2026-04-20
@@ -3677,3 +3685,38 @@ Stage 0 drift analysis: M0 was supposed to delete legacy paths (+845/-123 LOC); 
 - Updated: index.md (new source entry)
 - Oracle impact: YES — documents systemic inefficiency in autonomous agent PR workflows; directly connects to [[ZeroFrameworkCognition]], [[AgentDrift]], [[Harness5LayerModel]]
 - Key finding: 10% PR merge rate across ~30 ZFC PRs in 4 days; root cause hierarchy: (1) no machine enforcement, (2) too much context / not enough signal, (3) LLM training data priors
+
+## [2026-04-30] ingest | Stale rewards_box xp_gained — Root Cause Confirmed
+- **Source**: nextsteps-2026-04-30-stale-rewards-box-6732.md (roadmap nextsteps doc)
+- **Entities**: FrierenCampaign.md (campaign repro subject, xp_gained=2300 bug)
+- **Concepts**: RewardsBoxDismissalGap.md, LevelUpSignalDismissalGap.md
+- **Oracle impact**: NO — technical bug analysis, no oracle implications
+- **Key finding**: `_canonicalize_core` non-level-up path has no dismissal guard for `xp_gained`; PR #6733 (display-layer fix) is CONFLICTING
+
+## [2026-04-30] ingest | PR 6719 Evidence Bloat Skipped Preview Deploy
+- **Source**: pr-6719-evidence-bloat-preview-skip.md
+- **Entities**: WorldArchitectAI.md, GitHubActions.md
+- **Concepts**: GitHubPathFilterWindow.md, EvidenceShaFreeze.md
+- **Oracle impact**: NO - technical CI/evidence workflow lesson
+- **Key finding**: Generated evidence/design-doc churn expanded the PR to 430 files, causing preview deploy path filters to miss the final head; evidence and skeptic verdicts must be tied to the current SHA.
+
+## [2026-05-01] ingest | PR 6737 Evidence Artifact Verification
+- **Source**: feedback-2026-05-01-pr6737-evidence-artifact-verification.md
+- **Entities**: WorldArchitectAI.md
+- **Concepts**: EvidenceShaFreeze.md, EvidenceSkepticalReview.md, HarnessEvidenceRules.md, VideoEvidenceGate.md
+- **Oracle impact**: NO - technical evidence workflow lesson
+- **Key finding**: Evidence remediation is incomplete until the public PR/release/gist artifacts prove the current PR HEAD with real local server/service mode, raw logs, checksums, and UI video for user-visible behavior.
+## [2026-05-01] ingest | org-runner-audit skill created
+- **Source**: org_runner_audit_skill_2026-05-01.md
+- **Entities**: none
+- **Concepts**: org-runner-audit-skill.md, github-runner-registration.md
+- **Oracle impact**: NO - technical workflow lesson
+- **Key finding**: ALWAYS use `gh api orgs/jleechanorg/actions/runners` (org-level) not `gh api repos/.../actions/runners` (repo-level) for runner queries. Repo-level only shows 2; org-level shows all 8.
+
+## [2026-05-02] ingest | Level-up prompt path before enforcement
+
+- Source: `sources/feedback-2026-05-02-level-up-prompt-path-before-enforcement.md`
+- Raw: `/Users/jleechan/llm_wiki/raw/feedback_2026-05-02_level_up_prompt_path_before_enforcement.md`
+- Concepts: level-up modal routing, root-cause-first, ZFC signal contract
+- `[[jeffrey-oracle]]`: no direct product psychology update; engineering workflow memory only.
+## [2026-05-02] ingest | Autonomous harness design sources + concepts
