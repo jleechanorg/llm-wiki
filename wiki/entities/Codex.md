@@ -2,10 +2,10 @@
 title: "Codex"
 type: entity
 tags: [company, ai, cli]
-sources: []
-last_updated: 2026-04-07
+sources: [sprite-sheet-pipeline-layrkits.md]
+last_updated: 2026-05-01
 ---
 
-OpenAI's CLI tool for AI-assisted coding. Successfully verified working via codex CLI integration with orchestration system.
+OpenAI's CLI tool for AI-assisted coding. Used by [[LayrKits]] to one-shot a basic game from a paragraph prompt, then solve the animation/sprite problem with the [[SpriteSheetPipeline]].
 
-**Related:** [[Claude]], [[MiniMax]]
+**Related:** [[Claude]], [[MiniMax]], [[LayrKits]]
