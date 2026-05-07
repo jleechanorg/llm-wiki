@@ -60,3 +60,11 @@ See [[LevelUpCodeArchitecture]] for full regression analysis.
 - [[LevelUpCodeArchitecture]] — full pipeline architecture
 - [[LevelUpPolling]] — polling vs streaming paths
 - [[FrontendRewardsBoxGate]] — frontend visibility gate
+- [[SanitizeRewardsStateForContext]] — strips rewards_box/rewards_pending from LLM prompt unconditionally
+
+## Sanitization Invariant (2026-05-05)
+
+`sanitize_rewards_state_for_context()` MUST strip `rewards_box` and `rewards_pending`
+unconditionally. A prior early-return that preserved these fields when `is_level_up_active()`
+was the primary stale-echo trigger for duplicate XP. Fixed in PR `investigate-duplicate-xp-rewards`
+(rev-zzxp). Level-up state travels via `custom_campaign_state` flags, never via reward field presence.

@@ -28,6 +28,12 @@ Duplicate project names in AO config causing multiple worker instances to compet
 
 AO can mark claims as covered when workers fail immediately or attach to the wrong PR/session. The split-brain state causes workers to fight over claims, with none winning durably.
 
+## 2026-05-04 Lifecycle Churn Variant
+
+A single project can also behave like split-brain when health automation repeatedly restarts the only valid lifecycle worker. In the worldarchitect skeptic incident, `ai.agento.lifecycle-all` ran `start-all.sh` every 5 minutes, and `start-all.sh` killed existing lifecycle workers by default. Because local skeptic cron is throttled to 10 minutes, the worker could lose in-memory cron state before reliable evaluation. A separate `lw-watchdog.sh` detection bug made this worse by falsely reporting all workers missing.
+
+Durable checks: compare worker uptime against cron cadence, inspect `~/.openclaw/logs/lw-watchdog.log` for `RESTART_NEEDED` or `HEALTHY_DORMANT`, and run direct `ao skeptic verify --dry-run` to distinguish infrastructure failures from real PR-gate `VERDICT: FAIL`.
+
 ## Connections
 
 - [[AO-Daemon-Incident]] — daemon incidents masking blockers
