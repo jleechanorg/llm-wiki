@@ -47,3 +47,7 @@ SkepticGate was renamed `green-gate.yml` in PR #6189 because "skeptic" was misle
 - [[CICDWorkflows]] — where SkepticGate fits in the CI pipeline
 - [[FailClosedErrorHandling]] — SkepticGate fails closed, not open
 - [[jeffrey-oracle]] — would ask "where is the evidence?" for any PR without SkepticGate artifacts
+
+## 2026-05-05 Update — ENOBUFS / maxBuffer
+
+Codex output can exceed 1MB on large PRs with evidence bundles. If `ao skeptic verify` crashes with ENOBUFS, check `maxBuffer` in `llm-eval.js` (at `~/.nvm/versions/node/v22.22.0/lib/node_modules/@jleechanorg/ao-cli/dist/lib/llm-eval.js`). Fix: change to `32 << 20` (32MB).
