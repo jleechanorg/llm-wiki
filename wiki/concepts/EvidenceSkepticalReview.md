@@ -2,8 +2,8 @@
 title: "Evidence Skeptical Review"
 type: concept
 tags: [testing, task-pattern, automation]
-sources: []
-last_updated: 2026-04-13
+sources: [pr-review-live-head-verdict-discipline-2026-05-07]
+last_updated: 2026-05-07
 ---
 
 ## Description
@@ -23,3 +23,12 @@ When stabilizing remote-preview reruns via iterative test loops, evidence must b
 ## Related Beads
 
 - BD-pr5879-rerun-stability-loop
+- rev-awmxd
+
+## 2026-05-07 Update — Live-Head PR Review
+
+When reviewing a PR handoff, skeptical evidence review includes live GitHub
+state, not only bundle internals. Verify the current `headRefOid`, bundle
+`git_head`, post-bundle runtime deltas, Green Gate logs, and PR body evidence
+text before answering whether issues are fixed. Report serious code/product
+blockers separately from strict green process gaps.

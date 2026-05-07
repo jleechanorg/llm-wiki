@@ -1,3 +1,27 @@
+## [2026-05-07] ingest | PR review live-head verdict discipline
+
+Verify live PR head, evidence bundle SHA, post-evidence runtime delta, and same-SHA Skeptic verdict before accepting pasted PR review handoffs. PR 6818 had no serious production-code issue on live head, but still had strict green/process cleanup around skipped Skeptic verdict and stale PR body evidence text. Source: sources/pr-review-live-head-verdict-discipline-2026-05-07.md. [[jeffrey-oracle]]: NO.
+
+## [2026-05-06] ingest | Post-merge follow-up branches require verified fresh remote main
+
+After a PR merge, fetch `+refs/heads/main:refs/remotes/origin/main` and verify the merge commit is reachable before creating cleanup tasks. PR 6795 showed stale local `origin/main` can make landed files/fixes look absent; the corrected base was merge commit `a80e21e596d29fd788603d7ed75d2807e44a7536`. [[jeffrey-oracle]]: NO.
+
+## [2026-05-05] ingest | origin/main ambiguous ref in worktrees breaks integrate
+
+Local branch `refs/heads/origin/main` shadowed remote tracking ref `refs/remotes/origin/main`, causing `./integrate.sh` to fail with "ambiguous object name". Solution: `git ls-remote origin main` to get actual SHA, then `git checkout -b dev{timestamp} <sha>`. [[jeffrey-oracle]]: NO.
+
+## [2026-05-04] ingest | Skeptic Self-Verify Gate Fixes
+
+Fix 4 bugs in skeptic-self-verify.yml to get PR #6783 to 7-green: BUGBOT=none accepted, CR CHANGES_REQUESTED dismissed via REST, cursor[bot] thread resolved via GraphQL. Source: sources/skeptic-self-verify-gate-fixes-2026-05-04.md. [[jeffrey-oracle]]: NO.
+
+## [2026-05-02] ingest | git stash is branch-local during integration
+
+`git stash` does not follow checkout — stash is tied to the branch where created. During `fix/gemini-api-key-auth` → `dev1777768605` integration, `git stash pop` on target branch reported "nothing to commit" because stash was tied to source branch's commit context. Fixed by `git checkout source -- path`. Source: raw/feedback-2026-05-02-git-stash-branch-local-integrate.md, sources/feedback-2026-05-02-git-stash-branch-local-integrate.md. [[jeffrey-oracle]]: NO.
+
+## [2026-05-02] ingest | Minimax 401 Harness Fix — AO Lifecycle + Skeptic Fixes
+
+Root cause: `setup-launchd.sh` missing sed substitutions for `MINIMAX_API_KEY` etc.; commit `893fae999` only added verification call, not fix; PR #510 merged then superseded by `launchd-launcher.sh` (sources secrets from shell profile). Also covers skeptic `--trigger-type` bug fixed in PR #514, AO_CLI_PATH fork mismatch, @VAR@ fail-fast harness gap (PR #512 OPEN). Entity pages: [[minimax-401]], [[launchd-lifecycle-worker]], [[skeptic-trigger-type-bug]], [[ao-cli-path-fork]]. Devil's advocate: spawned paranoid review agent.
+
 ## [2026-05-02] ingest | Game-Ready 2D Sprite Sheet Pipeline via AI
 
 Complete 9-step pipeline for AI-generated sprite sheets: image model (GPT Image 2/Nano Banana 2) for chroma-green pose → Kling video model for animation → FFmpeg frame extraction → Python/Pillow chroma removal → preserve-canvas sprite sheet assembly. Core insight: video models understand leg/motion mechanics image models lack. Entity pages: [[LayrKits]], [[Kling]], [[Codex]]. Concept pages: [[SpriteSheetPipeline]], [[ChromaKeyBackground]], [[PreserveCanvasMode]]. Oracle impact: NO - creative tooling.
@@ -3731,3 +3755,56 @@ Stage 0 drift analysis: M0 was supposed to delete legacy paths (+845/-123 LOC); 
 - Concepts: sprite sheet pipeline, chroma key animation, AI video model frame extraction, game asset production
 - `[[jeffrey-oracle]]`: NO - technical game-dev/AI workflow lesson; no product psychology update.
 - Entities linked: [[Codex]], [[Kling]], [[Ronnie Stein]], [[FFmpeg]], [[Pillow]], [[AnimationSystem]], [[sprite-generation-system]]
+
+## [2026-05-04] ingest | OSS runner naming fix + PR 6791 merged
+## [2026-05-04] ingest | Level-Up 5-Class Bug Fix Verification
+## [2026-05-04] ingest | worldarchitect skeptic lifecycle churn root cause
+- Source: `sources/feedback-2026-05-04-worldarchitect-skeptic-lifecycle-churn.md`
+- Raw: `/Users/jleechan/llm_wiki/raw/feedback_2026-05-04_worldarchitect_skeptic_lifecycle_churn.md`
+- Concepts: AO-Split-Brain, lifecycle-worker, skeptic-gate, launchd watchdog
+- `[[jeffrey-oracle]]`: NO - technical AO operations learning only.
+## [2026-05-05] ingest | node:vm extraction pattern for closure-scoped browser JS functions
+
+- Source: feedback_2026-05-05_vm_extract_browser_fn.md
+- Bead: bd-spvv
+- Key: const in vm.runInContext is invisible on ctx; rewrite to var; call via string eval form
+- Affects [[jeffrey-oracle]]: NO — technical testing pattern only
+
+## [2026-05-05] ingest | Real calibration must validate conservative Gemini token-ratio changes
+
+- Source: `sources/gemini-token-ratio-real-calibration-2026-05-05.md`
+- Raw: `/Users/jleechan/llm_wiki/raw/project_2026-05-05_gemini_token_ratio_real_calibration.md`
+- Bead: `rev-8min4`
+- Concepts: [[CalibrationBiasVerification]], [[HarnessEvidenceRules]]
+- Entities linked: [[TokenUtils]], [[GeminiProvider]]
+- Key finding: `3.45` looked safer for the PR #6809 large raw Gemini undercount but failed the Firestore compacted calibration row at `5.003%`; full real calibration selected `3.455`.
+- `[[jeffrey-oracle]]`: NO - technical estimator/evidence workflow learning only.
+## 2026-05-05 ingest | LEVEL_UP_EXIT_CLASSIFIER for modal exit
+- Source: feedback_2026-05-05_level_up_exit_classifier.md
+- Concept: [[Level-Up Exit Classifier]] (new)
+- : NO
+## 2026-05-05 ingest | LEVEL_UP_EXIT_CLASSIFIER for modal exit
+- Source: feedback_2026-05-05_level_up_exit_classifier.md
+- Concept: [[Level-Up Exit Classifier]] (new)
+- [[jeffrey-oracle]]: NO
+
+## [2026-05-05] ingest | sanitize_rewards_state_for_context level-up early-return stale-echo fix
+Source: sanitize-rewards-stale-echo-fix-2026-05-05.md | Bead: rev-zzxp | Concepts updated: RewardsEngine.md
+## [2026-05-05] ingest | integrate reset lost PR work on expfix
+## [2026-05-05] update | ambiguous origin/main local branch — added preferred fix (git branch -d) and --force note
+
+## [2026-05-05] ingest | Squash-merge branch evaluation — two-dot diff is authoritative
+
+## [2026-05-05] ingest | Skeptic ENOBUFS — execFileSync maxBuffer too small for large PRs
+## [2026-05-05] ingest | CI Auto-Commit Cycle Causes Evidence Provenance Staleness
+## [2026-05-05] ingest | Resolve GitHub Review Threads via GraphQL resolveReviewThread Mutation
+
+## [2026-05-06] ingest | Claude Code Quota Cost Analysis — May 5 2026
+- Source: `sources/claude-quota-cost-analysis-2026-05-06.md`
+- Raw: `raw/project_2026-05-06_claude-quota-cost-analysis.md`
+- New concept: `concepts/ClaudeCodeQuotaCost.md`
+- Updated concept: `concepts/ClaudeCodeHooks.md` — linked new quota concept
+- Bead: rev-8cubl
+## [2026-05-06] ingest | Directory tests CI vs local parity
+## [2026-05-06] ingest | Wafer Pass + OpenCode Integration (opencodew wrapper)
+## [2026-05-06] ingest | integrate.sh cleanup behavior

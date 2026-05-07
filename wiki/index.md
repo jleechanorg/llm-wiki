@@ -5,10 +5,11 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Overview
 - [Overview](overview.md) — living synthesis across all sources
 
-- [org-runner-audit skill](sources/org-runner-audit-skill.md) — Use org-level GH API for runner queries (not repo-level); addresses memory incidents 0.73, 0.77, 0.78
+- [Level-Up Exit Classifier](sources/level_up_exit_classifier.md) — Use `classify_level_up_exit_intent()` for modal exit, not `classify_intent()`
 
 ## Concepts
 
+- [PostMergeFollowupWorkflow](concepts/PostMergeFollowupWorkflow.md) — Post-merge cleanup branches must start from verified fresh remote main
 - [GeneratorEvaluatorSeparation](concepts/GeneratorEvaluatorSeparation.md) — Separate generator agent from evaluator agent; generator grading itself is meaningless
 - [ContextAnxiety](concepts/ContextAnxiety.md) — Models wrap up prematurely as context fills; solved by context resets, not compaction
 - [SprintContract](concepts/SprintContract.md) — Negotiated scope lock between Generator and Reviewer before any code is written
@@ -22,6 +23,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 
 ## Sources
+- [PR review live-head verdict discipline](sources/pr-review-live-head-verdict-discipline-2026-05-07.md) — 05-07: verify live head, evidence SHA, runtime deltas, and Skeptic logs before accepting PR review handoffs
+- [[claude-directory-tests-ci-local-parity-2026-05-06]] — Directory tests CI vs local parity
+- [Post-merge follow-up branches require verified fresh remote main](sources/post-merge-followup-fresh-origin-main-2026-05-06.md) — 05-06: fetch exact remote main and verify merge commit reachability before cleanup tasks
+- [Claude Code Quota Cost Analysis — 2026-05-06](sources/claude-quota-cost-analysis-2026-05-06.md) — $2,832/day breakdown; skeptic $963, input tokens 54% of cost, all 3 drivers disabled
+- [origin/main ambiguous ref in worktrees breaks integrate](sources/origin-main-ambiguous-worktree-2026-05-05.md) — 05-05: local branch shadows remote tracking ref; use `git ls-remote origin main` SHA directly
+- [node:vm extraction for closure-scoped browser JS functions](sources/vm-extract-browser-fn-2026-05-05.md) — 05-05: const vs var in vm context, mock DOM stub pattern, worldarchitect.ai PR #6782
+- [worldarchitect skeptic lifecycle churn root cause](sources/feedback-2026-05-04-worldarchitect-skeptic-lifecycle-churn.md) — 05-04
+- [Level-Up 5-Class Bug Fix Verification — 2026-05-04](sources/level_up_5class_fix_verified_2026-05-04.md) — All 5 original level-up bug repro tests pass on origin/main at 733a44f1; each class mapped to specific fix commit
+- [integrate reset lost PR work on expfix](sources/feedback_2026-05-05_integrate_reset_lost_pr_work.md) — 05-05: /integrate git reset --hard origin/main on expfix lost unmerged PR #6790; recoverable via reflog cherry-pick → PR #6814
+- [Skeptic Self-Verify Gate Fixes — 2026-05-04](sources/skeptic-self-verify-gate-fixes-2026-05-04.md) — 4 bugs fixed in skeptic-self-verify.yml: BUGBOT=none, CR review dismissal, GraphQL thread resolution
+- [Minimax 401 Harness Fix — 2026-05-01](sources/2026-05-01-minimax-401-harness-fix.md) — Root cause of recurring MiniMax 401 auth failures in AO workers; `setup-launchd.sh` missing sed substitutions; superseded by `launchd-launcher.sh` approach; also covers skeptic `--trigger-type` bug (PR #514) and AO_CLI_PATH fork mismatch
 - [Game-Ready 2D Sprite Sheet Pipeline via AI](sources/sprite-sheet-pipeline-layrkits.md) — AI image+video pipeline (GPT Image 2 → Kling → FFmpeg → Pillow) for game-ready sprite sheets; chroma key + preserve-canvas workflow
 - [Anthropic Harness Design for Long-Running Apps](sources/anthropic-harness-design-long-running-apps.md) — GAN-style generator/evaluator separation, context resets vs compaction, sprint contracts, file-based handoffs, three-agent architecture
 - [Anthropic Advisor Strategy April 2026](sources/anthropic-advisor-strategy.md) — Sonnet/Haiku as executor + Opus as advisor; +2.7pp on SWE-bench at 11.9% lower cost; inverts sub-agent pattern
@@ -6275,7 +6287,21 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 
 - [pr-6404-level-up-model-owned-signal-formatter](sources/pr-6404-level-up-model-owned-signal-formatter.md) — ZFC architecture lane: model-owned level_up_signal field, rewards_engine canonicalize_rewards prefer
 - [pr-6434-rename-prepare-gemini-request-to-llm-request](sources/pr-6434-rename-prepare-gemini-request-to-llm-request.md) — Net 0 LOC rename of prepared.gemini_request → prepared.llm_request
+- [git stash is branch-local during integration — 2026-05-02](sources/feedback-2026-05-02-git-stash-branch-local-integrate.md) — `git stash` does not follow checkout; use `git checkout source -- path` for cross-branch file transfer
 - [Level-up prompt path before enforcement — 2026-05-02](sources/feedback-2026-05-02-level-up-prompt-path-before-enforcement.md) — Verify selected agent prompt path before enforcement; `target_level > current_level` is the actionable model-owned level-up signal.
 - [Game-Ready 2D Sprite Sheet Pipeline via AI](sources/sprite-sheet-pipeline-layrkits.md) — Complete pipeline: image model (GPT Image 2/Nano Banana 2) on chroma green → video model (Kling) for motion → FFmpeg frame extraction → Python/Pillow sprite sheet assembly; video models solve image models' leg/mechanics failure
+- [Real calibration must validate conservative Gemini token-ratio changes](sources/gemini-token-ratio-real-calibration-2026-05-05.md) — Rerun the full real-service calibration envelope before accepting a conservative-looking token-ratio change; `3.45` failed Firestore compacted while `3.455` satisfied the suite.
 
 - [claude-code-browser-screenshot-read-tool](sources/claude-code-browser-screenshot-read-tool.md) — View PNG screenshots in Claude Code conversation via Read tool + chrome-superpowers MCP browser automation
+
+- [OSS Runner Naming Fix — PR #6791 Merged — 2026-05-04](sources/2026-05-04-oss-runner-naming-fix.md) — All 6 ARM64 runners online; RUNNER_NAME_PREFIX mirrors RUNNER_CONTAINER_NAME; install.sh idempotent
+- [sanitize_rewards_state stale-echo fix 2026-05-05](sources/sanitize-rewards-stale-echo-fix-2026-05-05.md) — level-up early-return preserved rewards_box in LLM prompt; stripped unconditionally to fix duplicate XP
+
+- [Squash-merge branch evaluation — two-dot diff pattern 2026-05-05](sources/squash-merge-branch-evaluation-2026-05-05.md) — three-dot diff misleads after squash merge; use git show --stat + two-dot diff to confirm branch is done
+
+## Sources
+- [[claude-directory-tests-ci-local-parity-2026-05-06]] — Directory tests CI vs local parity (added 2026-05-05)
+- [integrate.sh cleanup behavior](sources/integrate-sh-cleanup-behavior.md) — synced+merged branch deletion; worktree main → origin/main fallback; artifact discipline rule
+- [CI auto-commit evidence staleness](sources/ci-auto-commit-evidence-staleness.md)
+- [Resolve GitHub review threads via GraphQL](sources/resolve-github-review-thread-graphql.md)
+- [Wafer Pass + OpenCode Integration 2026-05-06](sources/wafer-opencode-integration-2026-05-06.md) — opencodew() wrapper using WAFER_API_KEY; GLM-5.1 and Qwen3.5-397B-A17B confirmed working via curl and tmux opencode run
