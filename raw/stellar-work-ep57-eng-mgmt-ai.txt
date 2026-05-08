@@ -1,0 +1,430 @@
+welcome to the stella work podcast joe how are you man how's life doing well very very good
+just to clear things up you're in la right uh yep in santa monica oh my god that's just
+the time difference in recording this episode it's getting so interesting it's like how late
+is it it's four in the morning where i am wow that's evening where you are hope you had a great
+week man of course yeah thank you so much for coming uh onto this show i wanted to make an
+episode about engineering management at big tech because i feel big tech is always a bit of the
+forefront um and we met in san francisco so i'm really happy to have you here uh to give us a
+bit of a glimpse of what it looks like and what it will be in the future before we dig in can you give
+us a bit of an introduction to who you are and maybe the career stages that you went through
+yeah so let's see i grew up in canada and then i came to the u.s when i was like 22 23
+i worked for google for 10 years working at youtube um that have been at snapchat for about
+seven years and yeah i would say there was sort of typical career stages so you first kind of
+start as a junior engineer right and back then you had to write your own code you didn't have
+ai so you had to learn that stuff um so after a couple years then you're kind of like a established
+engineer usually you're kind of independent you don't need a manager to like help you that much
+you kind of get your work done but you're not really the senior engineer which is when you're
+kind of like proposing your own bigger projects or or saying you're going to do something pretty
+novel pretty big um and usually the senior engineer uh can lead you know multiple people
+sometimes even a larger amount of people um so i did that then at google i went to staff which is
+in a way kind of similar to senior except um i think you just kind of own a larger part of your
+team roadmap so let's say you're have a team of 10 12 20 people you might have one of the big three
+projects you're kind of leading um and then sometimes those staff engineers they kind of like
+become like half a manager which was kind of what i was doing where i was helping people with
+uh career growth mentorship um especially at google back then i felt like it was more um
+more the challenges were people or organization related rather than tech related especially as it
+got bigger um so that was a big role and then um moved to snapchat i started as an ic at snapchat but
+i think after uh one or two years uh moved to management uh that i've been a manager ever since pretty much
+how how did engineering management change within your career we saw a couple of things that
+that are happening and of course ai is now dominating all the discussions about how engineering teams
+work but can you walk me through like the major things that uh impacted your career when it comes
+to engineering management or orchestrating engineering teams in general yeah yeah yeah i think um for a while
+it was actually just traditional engineering management and then um i think i actually
+started my management career a little later right so some people will start you know after five years
+of being an ic but i think i was like 11 years of being an ic right so i had a pretty comfortable
+background technically but you know i still had a lot to learn people wise so i think that's where
+most of my focus was on learning the people management side but i had sort of been like half a manager
+for a while right as a kind of pupil tech lead so i think for a while it was pretty traditional um and
+i think really the obvious thing that changes is ai right so i think ai really started to take off like
+last year and i think um a lot of companies even this year are kind of like beginning of the year like
+whoa right it's not just you know some sloppy stuff like you can actually get real work done right so i think
+there was another surge this year um and i think just engineering management has to adapt to it and
+what's changed for me is like around mid last year i had that sort of like this is kind of really
+different moment right so before that you know you had your copilot you had your autocomplete
+um you had stuff where you were like all right that's that's pretty cool like maybe it'll give me
+20 efficiency boost but a lot of the things i learned were actually just um from personal side
+projects so about mid last year i started in going like okay let me try a side project now
+like i've heard a lot about ai let me just try it um let me see how good it is so i was like okay i
+want to make a ai rpg i want to you know at least say hello world i want to just you know hit up the
+chat gpt endpoint right so i'm like how long will this take i'm like let me just try it and i didn't
+even use anything fancy didn't use cursor i was just using gemini to write the code copy and paste it
+right right so in 30 minutes i had a website and it actually hit an api like an element i was like
+i was astounded i was like not even like just like making the code but like telling me where to click
+on on uh cloud console how to like click on everything instead i was like wow like that would
+have taken me like a week maybe full time even right just to like figure out what to click on set
+everything up debug it iterate um so that was when i had that moment where i was like the world has
+really changed and of course it gets better and how does it relate to management i think
+as a manager you do need especially like a frontline manager you do need to have a sense of
+what um ices are doing what makes sense like how to optimize their work um and i think that has just
+changed a lot and in some ways engineering managers i think still have to do even overtime work there
+because it's not like someone's going to go relax on everything else and uh take take lots of time
+to learn ic stuff right like i think you kind of have to pull a bit of double time you know unfortunately
+or fortunately if you like it where like i have to keep up with things i have to know what the latest
+things are um i don't think you have to necessarily be like the expert on your team but you definitely
+need to be i don't know top 25 like you have to be able to like help your engineers help help them
+debug uh point them to things so i think that is the big change and even for bigger leaders i think
+you still need some of that because there's just a sort of very big um what do i call it spectrum of
+ai adoption right like you'll have some managers who are kind of like me who are like oh i've really
+done a lot of stuff i want to really learn it and some people are kind of like is it really that good
+like you tell me right like i haven't tried it out that much um but i think uh the people who
+haven't tried it out very much as time goes on right uh things will kind of fall further behind
+and it'll be i think it'll be challenging if you're not up to speed so really long uh answer there but
+let me know if that answer is good oh good can you walk me a bit through the ai stack of an engineering
+team at at big tech how does it look like is it just you you kind of have your cloud and you plug
+it into whatever you have and how does that look like yeah i would say so um it depends on the
+company but there can be like internal services to help you debug things or whatever um it's i feel
+like at most companies though they're still like kind of emerging right you'll you'll hear about stripe
+and stuff like that right so some people are pretty far ahead but i think for for us and for other
+people a lot of it is just you know you've got cloud code you've got cursor you've got codex you've got
+your standard things um are you using them well um i don't hear too much about anything super special
+right even friends talking to you at meta as well right yeah and is it just within your ide or is it
+beyond that it would be both um i think most companies have started to try the the proper like
+cli tools like cloud code codex um but still a lot of people are on ide and i think a lot of people
+are still even an autocomplete action and are you creating your own ai features within companies
+or is the trend rather to use the existing features like to build um
+let's say when you're using entropic products you have like co-work skills um projects and all of that
+going on or is it more that you build your own tools let's say with cloud code and have them
+running as agents for example right i think each one will have a different sort of decision right so
+skills i think most people if they're not they should use default entropic skills but you may
+customize it you may build your own but you're still should be aware of it i mean maybe some people
+but you should be um and then you have the other extreme right very unlikely another company is going
+to build a coding agent like cloud code right although maybe it's open source we can't right
+but before that before that it's like okay why would we make this investment when anthropic has
+solved it right um and then there's always these middle ground things like anthropic just released
+their agent platform whatever right so every company will probably go okay um i can build some
+of this on my own um i could use some of it maybe it's going to be a hybrid but if you think
+about that price it's like eight cents per hour or something like you know if you have a company
+like us with like billions of users right and depending on that usage that could be expensive for
+a core feature so i think the way most people will approach it and already have is yeah kind of use
+case by use case as an engineering manager where do you see the the actual returns of using ai is it
+is it speed efficiency or is there something beyond that so i think most companies have not experienced
+this yet but my goal would be to bring the velocity to a sort of bigger company where it's more complex
+but i think what's possible is what's possible personally in greenfield which is everywhere so
+not even just coding right first even before my design doc what should i even do i'll have my own
+ideas you brainstorm with ai you're like what are some good ideas you do the research and you make
+that design doc then you make that roadmap break it down and you get the coding then after the coding
+you're like okay how am i testing it you use ai to help you test it ai for the code review and then even
+after like you're deployed you're gonna have ai like looking at the metrics helping you brainstorm
+some more metrics so i do see that as sort of like part of the whole life cycle but i think um you know
+most companies even open ai to some degree right they're still not fully experiencing what you can
+greenfield because of course it's harder when you have more people you have brownfield code bases
+but i think that's what's possible i think right now what's mostly optimized is coding and part of
+code review but even code review i think people can do a lot more like a lot of people are like oh i got
+one code review bot i've got some code review like well you know you know other ones exist or you can
+customize it i actually think like probably four or five different bots with your own custom bot is a
+good balance rather than the sort of one bot that many people use but i think most people are pretty
+focused on the coding and approaching the code review and then of course when it gets to larger
+companies you have a people element so it doesn't matter how fast you code if people take like three
+days to look at your pr and then you update it like oh three more days right it'll take a long time
+have you have you been part of um the team or the organization that were introducing the new tools
+or introducing ai to to engineers and how did that look like um because there's just so much going on
+um out there and there are just so many tools that you can use um how does such a company um
+decide what what they should look at and what to avoid right to just to just focus put your hats down
+and actually get some work done yeah and i'm not part of all the time all the time on twitter
+looking for new tools i'm not part of the official team or anything right but i do a lot of advising of
+teams and stuff and you know kind of in my spare time i i don't even answer questions directly
+necessarily but i'll just i see some question i'm like yeah i bet my ai can answer that then i'll
+paste the answer to the a and they're like oh okay i got an answer right um how i think everyone should
+approach it not saying everyone is but how i think you should approach it is like you should still have
+your main roadmap and maybe some people are like okay we're the core ai in for team we're going to
+build something specific but i don't think you want to be like all right let's pause all the work
+go experiment because you know i mean you'll probably learn something but then again you
+have a business to run so i actually think most people should go through a thought exercise and
+compress their timeline and go okay make your timeline and go you already know that usually
+when you make a timeline it's already too short right but fine make the timeline and then go okay
+now this timeline and we're going to cut it in half so you think it's going to take three months
+we need to do it in a month and a half and then let's work backwards what would happen usually it's
+going to be oh my build is like one hour long my code reviews take two days uh then i think you
+should restructure things so what i've seen things work well is when people kind of do this
+process they do that and they actually like are really focused on bottlenecks so there's some
+projects i'm working on they're kind of like what do i put it like a permanent hackathon in a way so
+like when you have a hackathon you're kind of like oh this is going to be um a blocking thing a code
+review right because you're all kind of in it together you're trying to build something together
+you want it quick but when you're not in that mode you kind of are like oh i got a code review but
+you know our p0 is here um and you know maybe they're not working the same project so i'll review
+that later today right and then sometimes you start reviewing it later in the day maybe it's
+four o'clock you're like this is bigger than i thought and then i have to take it tomorrow morning
+right and then sometimes it's three days later right and then throughout no fault of your own but
+i think um the way to do it properly is like you have teams just really focused and reviewing code and
+then the reviewer has to have the same kind of incentive and goal and then you're going to get a lot
+of velocity but um so i think there's something
+is your cloud messaging you yeah it's your little lobster uh pinging you on your phone
+so it pings me a lot on slack but it would be too much so i have all those notifications off
+and then i basically only look um when when i want to but then i guess someone was texting
+it was weird i thought it was in silence i just turned off i always get confused
+um but yeah that is another interesting point about the distractions right so it's like
+um as a worker right you're always going to get slacks and emails and all these things and actually
+with ai it's even more right because your ai workers can be doing stuff so that is actually
+another part of optimization people don't talk about a lot where you actually try to do like slack
+unread zeros and and inbox zero actually um i sometimes i'll see someone else's computer it's just
+full of notifications from people and maybe even bots and like okay like how do you know what's
+going on right but yeah to get back to your point i think if you do it well you have a good loop where
+like the same people who are like really working together they have the same incentive like that
+hackathon right um and then when it's not working well like you might have one person then they have
+to get code reviews from another team and um or or you're not trying to optimize the build time for
+example what is your personal strategy to stay ahead of the curve and be informed and sort of maybe
+distinguish between signal and noise when when it comes to new tools new techniques ideas that are out
+there truly filters yeah so what do you want to implement yeah yeah so i would say the sort of
+like um non-magical thing is actually more time so um outside of my normal job i'll probably spend
+another 20 sometimes even 30 hours a week on different ai stuff um so that was a choice i made
+i'm not sure if i'll do it for like five years but at least another year or two while things are moving
+fast so i just decided that's kind of just what's needed for the industry um and then with that time i
+kind of go like okay if i see something does this apply to something i could do like right now at
+work or right now in one of my personal projects and there's no real like good system besides just
+you have some nuance or judgment right like i think sometimes people are like oh you know i'll spend
+one hour doing this and 30 minutes doing that um and it may work for some people but i'm more of a sort
+of instinctive and whatever type of person so for example i saw the carpathy wiki thing right
+and i'm like okay great it sounds pretty cool um i wouldn't say i've seen an amazing thing from it
+yet but i probably spent about an hour messing around with it so i'm like all right i built some
+wikis i made a wiki to be like okay replace my own judgment and then seeing what the wiki is doing i'm
+like okay that seems kind of reasonable i'm not sure if i'll integrate it just yet but i'm like
+was that worth probably an hour of time to maybe improve my custom code review agent with a 20 expected
+value yeah probably right but would it be worth a week of full-time work or whatever a week of
+part-time work maybe not right so um that's kind of how i think about it and then i'm also thinking
+about say that particular thing right now my custom code review agent is not enforcing that workers
+produce videos of their work so i saw this cursor video was like okay that looks really cool they're
+making videos of their work um of the terminal and of the output and then i saw that harness
+engineering article where they're like okay they make a whole video of the website whatever whatever
+um you know it's not open source you don't know how often those agents really comply but i think
+it is possible to have some compliance there so i'm kind of working on that and i think if that wiki
+thing doesn't like really enforce that or really help unblock it then i may like pause on that wiki
+thing and go like okay maybe that's not really the right approach maybe i should just have some
+better prompts or or trim down my problems right or there's something else to do but that would be
+a big velocity unlock for me to close the loop on uh ai workers kind of generating evidence and then
+once you generate evidence and it's enforced you can actually move and then even if it's less
+efficient you're at least like working async if that makes sense right um so i'm kind of like okay
+that's one of my main core things to work on in the personal project and any info i come in that's good
+about that i will consider uh and if not i might go like okay that's kind of like a backlog thing
+that will look later um or another thing is like i've got open claw i like it a lot but it's pretty
+unreliable right um so i did sort of do a side task maybe invested 30 minutes in this hermes agent i'm
+just always seeing it on twitter and probably this weekend i'll be like all right let's let's try this
+hermes agent right i'm like yeah yeah it's pretty funny so it has a lot of whatever but i'm like okay
+let's try it out right and i'll be like you know what if it's better i'll switch but switching is
+probably a good amount of work so it's probably at least three to four hours of work i think so
+yeah yeah but we'll see right so kind of like case by case do you see an increase in like what is
+the increase in speed when it comes to engineering teams who use ai tools who make themselves
+comfortable with versus um the engineering team i don't know five years ago yeah yeah
+i think when i think about like organizations and what i've heard i don't really see that 10x yet
+because even if you can ai generate the code faster the rest of the process is not very optimized so
+you know my team has been doing pretty well i want to say like maybe double speed right um
+but imagine like the whole org was really well optimized every part of the software development
+lifecycle was really efficient just in general and kind of well suited to ai i think you could go 10x
+probably i don't think you'll go 100x because there's still a good um where do you think um
+the bottleneck is moving when it's not coding anymore when it's not writing code you already talked about
+organizational things that that would need to change to really get to that 10x yeah
+so where do you think the bottleneck is moving so every part where human is involved is a bottleneck
+so first deciding what to do then writing a design a plan getting agreement consensus because
+especially at a larger company if you work on something people don't agree
+and they're the decision makers it doesn't kind of matter like you'll get shut down right
+so the sort of sign off type of thing then there's the coding which has improved but that's not
+always the bottleneck and then it's the code review right especially when you need to get a code
+review from someone not on your team different incentives that takes a while then there's even
+building right sometimes um for large projects like especially snapchat the build could take like
+an hour 30 minutes whatever um then there's also like sort of i don't know i'm not exactly sure what
+to call it but i guess i'll call it like iteration in terms of like you gotta like put it out there
+whether it's a small experiment or you're dog fooding it with the team but you need to get a certain amount of
+like um sample to be like you know is it ready to go from one percent to five percent to ten percent
+um that could take some time i think it could be faster but right now it still takes time
+um then it's actually sometimes a launch decision so very often for an established product if you are
+making a change it's not all going to be positive so you're going to have trade-offs some features
+will do better some will do worse um and then you're going to be like all right i've got to talk to
+five different teams and make some decision or something so uh every every part of that will uh
+change the velocity and then that's why you see this like you know one person by himself like pete
+steinberger or whatever like 100x like make open claw and change the world all by yourself at least at
+the start right and organizations um you know with all the people decision makers not as much
+uh peter steinberger really revolutionized uh the industry i think and definitely
+i think he was so much in experimentation modes he had so much freedom so much interesting
+curiosity about the topic i'm really wondering like as an engineer you would need to make yourself a
+a little bit comfortable to set up your space create your agents maybe um have a few automations
+running like make yourself comfortable in your own ai world that you create but how do you get to the
+point where you get people to be as curious as they need to be in order to really dig into all of that
+stuff because it's not happening overnight right and when you're working i know big tech is not a nine
+to five job but still it's a job right and um how do you get teams or maybe organizations to a point
+to be curious enough to really dig into those tools and adapt and change their way of working
+yeah yeah that's a good question um i don't think there's any good answer to that i i think how
+i would approach it though is like not everyone's going to be pete right i mean um but let's say you
+have someone who's 20 of pete right like that's probably still pretty good uh i think you do need
+a critical mass of like sort of early adopters innovators people who really care about the space
+and the efficiency and then you kind of need that in the company maybe within a team um then i think
+once there is a bit of like a healthy momentum in the company then you go like okay like should this
+stay as a team should we spread some people around maybe they're tech leads of different teams maybe
+we bring in a tech lead from another team to work with them but i think when you don't have
+enough of that critical mass of either combination of talent or um desire right then your company may
+not move um and you know who will really do it i don't know nature nurture right hard to say but um
+um yeah i think how would i put it you know there's going to be some employees who like will
+try things out on their own experiment on their own and they're going to learn faster and there's
+some people who just you know they to be fair they want to do a job and then they're you know that's
+their job anything an engineering manager can do to sort of um help the process yeah yeah yeah like
+what i do is like i try to lead by example get people excited so i'm kind of like okay look like
+i spent this much time here's a cool thing i did outside of work or even inside work right like
+here's something to do and then i've seen some teammates go like okay i built my own thing i'm
+getting excited about it um not everyone will but i think um kind of like leading by example encouraging
+it is good but um i would say you're you know even if you're a manager you're sort of like
+influence is a bit limited to some degree right and i don't i really don't think it makes sense
+when so sometimes people are like oh like let's let's make some rule like everyone has to use
+i don't know 50 million tokens a day or yeah right or like you're like oh it's like a company rule now
+and i can see why it's being done but it feels like if you don't know the root cause then you know
+you're kind of like doing something but yeah i don't know maybe it works for some people but i
+would be surprised and i've seen you you you do far more you even um build a small community
+uh on discord yeah exactly and uh meet up regularly yeah so for example i've got go ahead oh yeah good
+oh yeah yeah i've got like some co-workers in that discord like so the people are the most interested
+will talk and you know talk about stuff outside work inside work um so uh yeah i think there's
+always going to be some people who who kind of want to do that and then usually they're like
+force multipliers within their teams orgs
+maybe not um looking at the individual but at a team or at a org level do you see have you seen any
+changes in how teams are structured when they really start working with ai's tools and having
+their companions on the side does that impact how teams are formed yeah from what i've seen i think
+it might still be a little too early for that to change um i think it should change though but i
+haven't really seen it change you know just so what do you think it should be yeah so i think it actually
+should be a lot flatter and maybe even a lot less people actually um so let's say i was starting a
+company now um you know and you gave me some capital i would be very careful actually i would
+first be like what's the problem trying to solve blah blah and then eventually i'll look at my backlog
+and go like okay um what business value am i dropping with my backlog let's say i've got my ai rpg
+and someone is like hey multiplayer would be cool i haven't had time to do that right even if i
+was full time maybe i wouldn't have time because i'm doing other stuff so i'm like you know what
+that is quite valuable that could change the destiny of my product if there was multiplayer
+can i find someone who i'm pretty aligned with in terms of how to work right velocity and stuff like
+that probably i could right so i think even my own side project of ai rpg could use like two people
+but i would definitely be careful about going further and going like oh like 10 people or something
+right because i'm like even if you could find 10 people who are like sort of properly efficient with ai
+it may not like satisfy or be justifiable for what the business needs but i would say my side project
+you know assuming i had capital whatever easily could do a couple people
+but the tricky question is you have that existing business with existing people and
+how exactly will it go right now but would you still go and um staff teams like um
+um very cross-functional and have someone doing design ux testing coding or is it more like okay you
+don't actually need roles because you have a baseline level of knowledge with which is uh the knowledge
+level of your ai and everyone can do basically everything sort of
+i don't have a super strong opinion i think it should be a mix of that though like
+i do see like you know people working across teams it's pretty easy for me to work in any codebase
+actually but i still do think it's good to have like you know all right this team at least owns this
+product and they're they're driving it right because i think even if like you can work
+like especially at a big company right like i don't know snapchat probably has like
+hundreds of teams or whatever right like and then if you're like oh like you own hundreds of teams okay
+like it's gonna happen right um so i think it still should be mixed though like especially if you
+have a team dependency and you're kind of like um you know i need to get something done in this codebase
+like you know maybe just try it it might not be that hard right so i think a mix versus like in
+the past you'd be like oh man i'm not even gonna try to learn how to get the ide to set that thing
+out person and is it affecting um roles and titles because what i've seen from entropic and they might
+be super far ahead when it comes to those type of things is that they call everyone member of technical
+stuff basically and they don't even care what your specific roles and background are um everyone's
+just like do the job right and do not bother with roles and and all of that yeah i i kind of like that
+but i think taken to its extreme you may have some areas underserved so i think role is different
+than title though right like it's a little debatable but at some points like especially
+at google your level used to be kind of hidden right and then they revealed it and every company
+goes through different things i i probably think the level should not be public but whatever right
+that's that's kind of how most companies went so maybe entropic doesn't have a public level great
+right like that's probably good but i i still do think you should have areas of ownership and i think
+entropic does for example there's some you know cloud code product manager or something like i'll
+see people on twitter right so i don't think you're kind of like the product manager of everything but
+i do think you're kind of right about like teams are probably growing this way and maybe
+entropic is the most ahead on like oh you can work in other people's areas of code bases i
+definitely think that should be how it is
+maybe on a whole different topic because i get this all the time where when i talk to people
+listening to the show and when i talk to people on linkedin or on twitter is how ai is affecting the
+engineering career path and especially when it comes to like entering the job like is it is it
+really taking away all the entry-level jobs and if there if it is where do the seniors come from is it just
+from site projects and then you graduate from university run your site project for i don't
+know three years and then pitch with your site project for a senior engineering role like how
+how does that uh affect the career i actually think what you said might be a path for some people it
+sounds kind of weird but maybe right um i think you know the the interesting thing is like what's going to
+happen is what's going to happen it's not really in anyone's control um so i think all the things you
+said uh will happen or are happening right like will there be less junior engineers hired i think so
+uh is that unfortunate it is and um where will the senior engineers come from i don't think there's any
+good answer to that um and it could just be a problem that probably no one will solve actually
+um so i think that'll keep happening but i do think there's a certain like i don't know how to
+want to put like the top five percent of new grads or something who are just they learn really fast
+they do stuff even when they're doing ai coding they actually have the sort of either discernment
+or ability to understand what their code is doing to you um for example have you heard of cmux the
+terminal no okay great terminal i definitely not paid for this cmux definitely try it out what's good
+about it is like i feel like it's actually the best terminal i've ever used um especially for ai
+because it just has a good design so they have vertical sort of tabs workspaces you can split
+it horizontally as well and they have good notifications where like oh this tab or terminal
+is ready it's like something i've always wanted but i've tried like say warp terminal whatever ghosty
+whatever like everything i've tried just didn't exactly hit it for me except for this um so this is just
+kind of like the perfect ui i've always wanted and i think it was built by like um like i even talked
+to their founder so it's cmux ux yeah okay yeah and you know whatever they're like young guys like
+they're in their early 20s or something and um i don't know i think they have some yc or whatever right
+but um yeah i was pretty impressed by that and uh i think you know you're gonna have sort of like this top
+five percent of young people who you know i think they could easily get a job in most places right
+based on what they've done they want to stop doing that but you have this sort of top five percent
+probably those people will be fine but uh for other people i think i think it will be a very
+challenging career you know especially starting out versus like before right at the peaks of it like
+i want to say like um even when i started like in 08 i wouldn't call that the peak but maybe like
+2012 to like 2016 2017 or something right it was very like i don't want to say easy easy but like
+lots of abundance everyone was like oh man there's so much more you know demand for these engineers
+than supply but i think that has changed even with uh first covet sort of right and then and then with ai
+what is the main differentiating factor between a junior and senior engineer by now what would you say
+so let's see i guess there's the obvious thing experience right so um no matter how talented
+someone is if they've never seen something before um they kind of like you know a lot more challenges
+so let's say you've got a really good junior engineer but you know they're kind of like hey
+this person didn't answer me on slack and i'm like okay did you send them a direct message or did you cc
+them and they're like oh i cc'd like okay you found your direct message because have you seen
+this person's screen like like well look at your screen your screen is full of notifications are you
+really getting to all of them they're oh yeah okay right someone young in their 20s may not just
+have those kinds of things right um but i think people who are very like sort of talented motivated
+can close that gap pretty fast so i think you know in a couple of years you can really get to that
+level that um you know people will call senior i was just wondering whether we could like move
+move the goalposts a little bit when it comes to engineer engineers and have like have them contribute
+more to open source um even during university or have be uh change university in a way that their
+subjects are more revolved around like actually building and trying to building stuff and trying to get
+someone to actually use their their the things that they are building right right instead of like
+all the definitely a good idea i think that's definitely a good idea and i do think that theory is
+valuable in some way but i can't remember the last time i used it right so maybe it's subconsciously
+helping me um so there's another guy i know um he works on agent orchestrator have you heard of that
+open source framework yep so he's like some other young guy i think he's in india in his early 20s and
+he's like i think whatever one of the main contributors there might be like two of them
+right so there's the guy who started it and there's this guy um and he's just reviewing a lot of prs
+writing a lot of code he's really involved and i think that is probably a lot more valuable than like
+you know most even entry-level jobs you'd get because he's like making decisions and there's like
+i don't know probably thousands of people are using it at least hundreds active right um you know and
+he's kind of like figuring out how oh like when do i use hermes agent versus open claw versus like
+working directly in the terminal so not to say that'll happen to everyone but that's another
+good example of someone very young really diving into problems and and figuring it out and gaining
+good experience but i think with both of those cases like the cmux guy and this agent orchestrator
+guy what's good is like you have a feedback loop so let's pretend um you know the cmux guy just
+vibe coded everything and never understood it well probably the app would crash and then he
+would lose some investors or something right or the agent orchestrator guy let's say like he just
+vibe coded a lot of stuff and the framework was broken for a week right like you'd probably be
+losing users you'd lose something so if you have like that open source thing you mentioned with a
+very good feedback loop that can be a very good way to learn if you have an open source thing that
+no one's using and you're kind of just going oh great great right then yeah maybe not as much
+as much as possible yeah true um i wonder like if you could go back in time and go to yourself who's
+just at the beginning of becoming an engineering manager is there any advice you would give your
+younger self at that point um i think when i started i made the typical mistake of being kind
+of micromanaging right um and there's a subtle way you can be micromanaging so the most obvious one is
+like hey where's my status update every hour right that's very obvious everyone hates it so i didn't do
+that and i didn't even do status update every day or whatever but um i would be very engaged and very
+involved and in a way if like how would i put it if if i'm talking about something it is implicitly a
+bit of a check-in because i'm a manager there's a formal relationship but i was used to talking to
+people like a peer like an engineer so i'd be like oh yeah this could be better whatever right i'm always
+engaging and i think i usually did have something valuable to say but depending on the nature of
+what i was saying i wasn't weighing in the sort of emotional impact of your manager is checking in on
+you and then sometimes that can be a bit net negative where someone feels a bit demoralized and
+they're like um why is he talking to me so much right like why is any more hands off um and it didn't
+even mean anything was bad but uh it just can feel bad especially back then when i started because um
+when i started it was more like managers were more like oh i'm really like a people manager i'm not
+too technical like and then when you get in there like oh shit something's wrong i think now it has
+actually evolved or changed a lot because i think the managers should be more technical especially with
+the ai focus right um so that's a little different now um but yeah i would i would say like
+the old advice i would give myself is just be aware of the consequence of every single interaction
+with your team because if you ask something or talk to them you are their manager you're in a
+position of power and it can sort of make someone worry or something so you know i can like you can
+even do a really quick thing to be like hey just checking in nothing's wrong but you know i want
+to learn about this thing versus i'm like oh you know how come this is using this database or
+something right that sounds a little more ominous and especially when things are said um on slack
+or google comment right like you can see a sort of it just sounds a lot more ominous when you say
+something online versus like in a meeting right so back then it was also during covid when i started or
+like right before so a lot of interaction was like not in person it was like in a video conference or
+uh slack or google docs so yeah i think that the main thing and it could be good for especially
+managers who switch from engineering um like an ic to a manager role you are truly no longer appear
+there is a formal relationship there is a power dynamic and if you're not aware of it uh you know
+your actions do have a good amount of emotional impact you've got to be pretty careful and pretty um
+nuanced in your communication yeah if people want to learn more about engineering management at big
+tech or follow your content maybe learn from you how to orchestrate the ai uh agents around themselves
+uh what would be a good way to reach out and learn a bit more yeah definitely um linkedin got like my
+linkedin url um i also do some mentoring and stuff so i got a mentor cruise page okay so people could just reach
+out and go like hey jeff i need some help can you be my mentor i have this project going on yeah
+awesome man it's really cool um i put all the links into the show notes and jeff thank you so much for
+jumping onto this episode with me uh it's really interesting to to learn from you and your career
+and happy to have you again and maybe revisit the topic of engineering management of course all right
+thanks for having me of course thanks have a good one bye

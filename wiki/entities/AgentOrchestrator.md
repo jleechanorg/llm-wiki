@@ -85,3 +85,4 @@ Fork-specific issues live in `.beads/issues.jsonl`. Use the `br` CLI to create, 
 - [[Cursor]] — primary worker agent
 - [[WorldArchitectAI]] — target repository for fork dogfooding
 - [[ZeroFrameworkCognition]] — ZFC design principle enforced in this repo
+- [[StellarWorkPodcast]] — EP57: Jeff Lee-Chan highlighted an AO contributor as exemplar of AI-era career success; praised the contributor's PR review and code contributions as more valuable than most entry-level jobs

@@ -1,3 +1,7 @@
+## [2026-05-07] ingest | Stellar Work EP57 — Engineering Management & AI with Jeff from Snap
+
+Podcast transcript ingest: Jeff Lee-Chan ([[JeffreyChan]], Engineering Manager at Snap) on Stellar Work EP57 with host Ben. Key themes: AI velocity gap at big tech (~2x today, 10x possible if all SDLC stages optimized), timeline compression as bottleneck discovery tool, manager power dynamics (every interaction carries authority weight), AI adoption spectrum among engineers, career path disruption for juniors, and team flattening. Jeff gave prominent shoutouts to [[cmux]] ("best terminal for AI") and [[AgentOrchestrator]] (young contributor as AI-era career exemplar). New entity pages: [[cmux]], [[BenStellarWork]], [[StellarWorkPodcast]]. New concept pages: [[AIAdoptionSpectrum]], [[TimelineCompressionDiscovery]], [[ManagerPowerDynamics]]. Updated entity pages: [[JeffreyChan]] (podcast appearance), [[AgentOrchestrator]] (EP57 shoutout). Source: sources/stellar-work-ep57-eng-mgmt-ai.md. Oracle impact: NO — podcast commentary, not oracle-affecting.
+
 ## [2026-05-07] ingest | PR review live-head verdict discipline
 
 Verify live PR head, evidence bundle SHA, post-evidence runtime delta, and same-SHA Skeptic verdict before accepting pasted PR review handoffs. PR 6818 had no serious production-code issue on live head, but still had strict green/process cleanup around skipped Skeptic verdict and stale PR body evidence text. Source: sources/pr-review-live-head-verdict-discipline-2026-05-07.md. [[jeffrey-oracle]]: NO.
@@ -3808,3 +3812,8 @@ Source: sanitize-rewards-stale-echo-fix-2026-05-05.md | Bead: rev-zzxp | Concept
 ## [2026-05-06] ingest | Directory tests CI vs local parity
 ## [2026-05-06] ingest | Wafer Pass + OpenCode Integration (opencodew wrapper)
 ## [2026-05-06] ingest | integrate.sh cleanup behavior
+
+## [2026-05-07] ingest | /zfc slash command global install — PR #6832, bead rev-9lz8v
+
+## [2026-05-07] ingest | OpenCode TUI vs run subcommand flag split
+Source: ~/.claude/projects/.../memory/feedback_2026-05-07_opencode-tui-run-flag-split.md

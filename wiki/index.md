@@ -21,8 +21,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Character Archetypes](campaigns/jleechan/character-archetypes.md) — Name recycling, Tywin+Aizen+Johan+Griffith mashup
 - [Third Option](campaigns/jleechan/third-option.md) — The core cognitive move: never pick from the menu
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
+- [AI Adoption Spectrum](concepts/AIAdoptionSpectrum.md) — Wide variation in AI tool proficiency; managers need top-25% to effectively lead
+- [Timeline Compression Discovery](concepts/TimelineCompressionDiscovery.md) — Cut project timelines in half to surface real bottlenecks and prioritize AI investment
+- [Manager Power Dynamics](concepts/ManagerPowerDynamics.md) — Every manager interaction carries implicit authority weight; casual engagement reads as scrutiny
 
 ## Sources
+- [Stellar Work EP57 — Engineering Management & AI with Jeff from Snap](sources/stellar-work-ep57-eng-mgmt-ai.md) — 04-27: AI velocity at big tech (~2x today, 10x possible), timeline compression for bottleneck discovery, manager power dynamics, cmux + Agent Orchestrator shoutouts
 - [PR review live-head verdict discipline](sources/pr-review-live-head-verdict-discipline-2026-05-07.md) — 05-07: verify live head, evidence SHA, runtime deltas, and Skeptic logs before accepting PR review handoffs
 - [[claude-directory-tests-ci-local-parity-2026-05-06]] — Directory tests CI vs local parity
 - [Post-merge follow-up branches require verified fresh remote main](sources/post-merge-followup-fresh-origin-main-2026-05-06.md) — 05-06: fetch exact remote main and verify merge commit reachability before cleanup tasks
@@ -6300,8 +6304,11 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Squash-merge branch evaluation — two-dot diff pattern 2026-05-05](sources/squash-merge-branch-evaluation-2026-05-05.md) — three-dot diff misleads after squash merge; use git show --stat + two-dot diff to confirm branch is done
 
 ## Sources
+- [/zfc slash command global install 2026-05-07](sources/zfc-slash-command-global-install-2026-05-07.md) — general ZFC skill existed on main; /zfc command created (PR #6832); global install to ~/.claude and ~/.codex; bead rev-9lz8v
 - [[claude-directory-tests-ci-local-parity-2026-05-06]] — Directory tests CI vs local parity (added 2026-05-05)
 - [integrate.sh cleanup behavior](sources/integrate-sh-cleanup-behavior.md) — synced+merged branch deletion; worktree main → origin/main fallback; artifact discipline rule
 - [CI auto-commit evidence staleness](sources/ci-auto-commit-evidence-staleness.md)
 - [Resolve GitHub review threads via GraphQL](sources/resolve-github-review-thread-graphql.md)
 - [Wafer Pass + OpenCode Integration 2026-05-06](sources/wafer-opencode-integration-2026-05-06.md) — opencodew() wrapper using WAFER_API_KEY; GLM-5.1 and Qwen3.5-397B-A17B confirmed working via curl and tmux opencode run
+
+- [OpenCode TUI vs run flag split](sources/opencode-tui-run-flag-split.md) — --dangerously-skip-permissions run-only; TUI silent help-exit fix (2026-05-07)

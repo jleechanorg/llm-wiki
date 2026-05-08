@@ -1,9 +1,9 @@
 ---
 title: "JeffreyChan"
 type: entity
-tags: [jeffrey, person, sem, snap, google]
-sources: [user-preferences-patterns-learnings, ai-coding, openclaw-workshop-notes]
-last_updated: 2026-04-09
+tags: [jeffrey, person, sem, snap, google, podcast-guest]
+sources: [user-preferences-patterns-learnings, ai-coding, openclaw-workshop-notes, stellar-work-ep57-eng-mgmt-ai]
+last_updated: 2026-05-07
 ---
 
 # Jeff Lee-Chan
@@ -46,8 +46,14 @@ Delegation workflow source repo — used as TARGET_REPO after March 2026 postmor
 - **Zero tolerance for speculation**: "let me wait", placeholder logic — all blocked
 - **Multiple models in parallel**: Anthropic, Minimax, Gemini, Codex — each for different task types
 
+## Podcast Appearances
+
+- **Stellar Work EP57** (2026-04-27): Engineering Management & AI at Big Tech — discussed AI tool adoption, team structure evolution, career path disruption, and gave shoutouts to [[cmux]] and [[AgentOrchestrator]]. See [[stellar-work-ep57-eng-mgmt-ai]].
+
 ## Relationships
 
 - [[jleechanorg]] — GitHub org
 - [[worldarchitect.ai]] — primary project
 - [[jleechanclaw]] — delegation workflow repo
+- [[cmux]] — publicly endorsed as "best terminal for AI" on Stellar Work EP57
+- [[StellarWorkPodcast]] — EP57 guest
