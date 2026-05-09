@@ -26,6 +26,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Manager Power Dynamics](concepts/ManagerPowerDynamics.md) — Every manager interaction carries implicit authority weight; casual engagement reads as scrutiny
 
 ## Sources
+- [world_logic_lw_authoritative_fields](sources/world_logic_lw_authoritative_fields.md) — 2026-05-08: `world_logic.py` now uses `firestore_service._AUTHORITATIVE_LIVING_WORLD_FIELDS` for all LW cooldown strip paths
 - [Stellar Work EP57 — Engineering Management & AI with Jeff from Snap](sources/stellar-work-ep57-eng-mgmt-ai.md) — 04-27: AI velocity at big tech (~2x today, 10x possible), timeline compression for bottleneck discovery, manager power dynamics, cmux + Agent Orchestrator shoutouts
 - [PR review live-head verdict discipline](sources/pr-review-live-head-verdict-discipline-2026-05-07.md) — 05-07: verify live head, evidence SHA, runtime deltas, and Skeptic logs before accepting PR review handoffs
 - [[claude-directory-tests-ci-local-parity-2026-05-06]] — Directory tests CI vs local parity
