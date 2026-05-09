@@ -1,3 +1,7 @@
+## [2026-05-09] ingest | Root Cause Analysis — Bug Fix PRs #6839-#6844
+
+Git archaeology traced 5 bugs to original breaking PRs. PR #6844: combat trap from PR #2553/#3020 architectural gap. PR #6843: location fallback severed by PR #5563 schema validation. PR #6842: AND-logic CC guard from PR #6225 never fires for templates. PR #6841: .bind(this) leak from PR #1082. PR #6839: duplicated cooldown lists from PR #6308 caused NameError. New concept pages: [[SchemaFallbackSeverance]], [[DuplicatedConstantLists]], [[AndLogicModalExitGuard]]. Source: sources/root-cause-analysis-2026-05-09.md. [[jeffrey-oracle]]: NO.
+
 ## [2026-05-09] ingest | Admin Override State Poisoning Pattern
 
 God mode and admin override actions bypass state machine entry/exit protocols in `world_logic.py`. After the override, stale modal flags persist, trapping players in modal loops. Three separate PRs (#6844, #6842, #6825) independently discovered this pattern. Fix direction: `ADMIN_OVERRIDE_CONTRACTS` dict + `_validate_post_override_state()`. New concept pages: [[AdminOverrideContract]], [[ModalIntersection]], [[EventListenerMemoryLeak]]. Source: sources/feedback-2026-05-09-admin-override-state-poisoning.md. [[jeffrey-oracle]]: NO.

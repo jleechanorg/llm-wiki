@@ -27,6 +27,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Admin Override Contract](concepts/AdminOverrideContract.md) — Declarative contract mapping admin/god-mode overrides to required post-override invariants
 - [Modal Intersection](concepts/ModalIntersection.md) — Concurrent modal systems corrupt each other's state when they overlap
 - [Event Listener Memory Leak](concepts/EventListenerMemoryLeak.md) — JS .bind(this) in addEventListener silently breaks removeEventListener
+- [Schema Fallback Severance](concepts/SchemaFallbackSeverance.md) — Removing legacy fallback during strict schema validation causes silent data loss
+- [Duplicated Constant Lists](concepts/DuplicatedConstantLists.md) — Duplicated field lists across files are merge-rebase bombs
+- [AND-Logic Modal Exit Guard](concepts/AndLogicModalExitGuard.md) — Modal exit guards requiring AND logic create impossible states
 
 ## Sources
 - [world_logic_lw_authoritative_fields](sources/world_logic_lw_authoritative_fields.md) — 2026-05-08: `world_logic.py` now uses `firestore_service._AUTHORITATIVE_LIVING_WORLD_FIELDS` for all LW cooldown strip paths
@@ -34,6 +37,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Modal Intersection Neglect Pattern](sources/feedback-2026-05-09-modal-intersection-neglect.md) — 2026-05-09: Concurrent modal systems corrupt each other's state when they overlap
 - [JS .bind(this) Event Listener Anti-Pattern](sources/feedback-2026-05-09-js-bind-this-event-listener.md) — 2026-05-09: addEventListener with .bind(this) silently breaks removeEventListener
 - [Multi-PR Evidence & Review Block](sources/nextsteps-2026-05-09-multi-pr-evidence-review.md) — 2026-05-09: 12 PRs analyzed, 7 test-augmented, 3 root cause trends, admin override contract proposed
+- [Root Cause Analysis — Bug Fix PRs #6839-#6844](sources/root-cause-analysis-2026-05-09.md) — 2026-05-09: Git archaeology traced 5 bugs to breaking PRs; common patterns: mode intersection gaps, fallback severance, AND-logic guards, .bind(this) leaks, duplicated lists
 - [Stellar Work EP57 — Engineering Management & AI with Jeff from Snap](sources/stellar-work-ep57-eng-mgmt-ai.md) — 04-27: AI velocity at big tech (~2x today, 10x possible), timeline compression for bottleneck discovery, manager power dynamics, cmux + Agent Orchestrator shoutouts
 - [PR review live-head verdict discipline](sources/pr-review-live-head-verdict-discipline-2026-05-07.md) — 05-07: verify live head, evidence SHA, runtime deltas, and Skeptic logs before accepting PR review handoffs
 - [[claude-directory-tests-ci-local-parity-2026-05-06]] — Directory tests CI vs local parity
