@@ -1,3 +1,19 @@
+## [2026-05-09] ingest | Admin Override State Poisoning Pattern
+
+God mode and admin override actions bypass state machine entry/exit protocols in `world_logic.py`. After the override, stale modal flags persist, trapping players in modal loops. Three separate PRs (#6844, #6842, #6825) independently discovered this pattern. Fix direction: `ADMIN_OVERRIDE_CONTRACTS` dict + `_validate_post_override_state()`. New concept pages: [[AdminOverrideContract]], [[ModalIntersection]], [[EventListenerMemoryLeak]]. Source: sources/feedback-2026-05-09-admin-override-state-poisoning.md. [[jeffrey-oracle]]: NO.
+
+## [2026-05-09] ingest | Modal Intersection Neglect Pattern
+
+When two modal systems are active simultaneously (CC + level-up, combat + LW), neither handler clears the other's stale state. Each modal handler was written in isolation; intersection testing was never part of the design. Fix: hypothesis-style parametrized property tests for all modal intersection combos. Source: sources/feedback-2026-05-09-modal-intersection-neglect.md. [[jeffrey-oracle]]: NO.
+
+## [2026-05-09] ingest | JS .bind(this) Event Listener Anti-Pattern
+
+`addEventListener('click', this.handler.bind(this))` creates a new function reference each call; `removeEventListener` with `.bind(this)` never matches. Silent leak — no error, just growing listener count. Found in PR #6841 (`mvp_site/frontend_v1/js/inline-editor.js`). ESLint rule recommended. Source: sources/feedback-2026-05-09-js-bind-this-event-listener.md. [[jeffrey-oracle]]: NO.
+
+## [2026-05-09] ingest | Multi-PR Evidence & Review Block
+
+Session covered deep-diff analysis + /es-level test additions across 7 production PRs (2,348 new LOC). Root cause trends: admin override state poisoning, modal intersection neglect, refactoring friction/duplication. Manual test campaign cloned for hands-on verification. All 12 PRs still OPEN. Source: sources/nextsteps-2026-05-09-multi-pr-evidence-review.md. [[jeffrey-oracle]]: NO.
+
 ## [2026-05-07] ingest | Stellar Work EP57 — Engineering Management & AI with Jeff from Snap
 
 Podcast transcript ingest: Jeff Lee-Chan ([[JeffreyChan]], Engineering Manager at Snap) on Stellar Work EP57 with host Ben. Key themes: AI velocity gap at big tech (~2x today, 10x possible if all SDLC stages optimized), timeline compression as bottleneck discovery tool, manager power dynamics (every interaction carries authority weight), AI adoption spectrum among engineers, career path disruption for juniors, and team flattening. Jeff gave prominent shoutouts to [[cmux]] ("best terminal for AI") and [[AgentOrchestrator]] (young contributor as AI-era career exemplar). New entity pages: [[cmux]], [[BenStellarWork]], [[StellarWorkPodcast]]. New concept pages: [[AIAdoptionSpectrum]], [[TimelineCompressionDiscovery]], [[ManagerPowerDynamics]]. Updated entity pages: [[JeffreyChan]] (podcast appearance), [[AgentOrchestrator]] (EP57 shoutout). Source: sources/stellar-work-ep57-eng-mgmt-ai.md. Oracle impact: NO — podcast commentary, not oracle-affecting.
