@@ -3817,3 +3817,9 @@ Source: sanitize-rewards-stale-echo-fix-2026-05-05.md | Bead: rev-zzxp | Concept
 
 ## [2026-05-07] ingest | OpenCode TUI vs run subcommand flag split
 Source: ~/.claude/projects/.../memory/feedback_2026-05-07_opencode-tui-run-flag-split.md
+## [2026-05-08] ingest | Canonicalize LW cooldown stripping to authoritative fields
+- Source: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worktree-worker4/memory/project_2026-05-08_world_logic_lw_authoritative_canonical_fields.md
+- Raw: /Users/jleechan/llm_wiki/raw/world_logic_lw_authoritative_fields.md
+- Wiki source: /Users/jleechan/llm_wiki/wiki/sources/world_logic_lw_authoritative_fields.md
+- Bead: rev-247t8
+- Oracle impact: NO — technical maintainability lesson

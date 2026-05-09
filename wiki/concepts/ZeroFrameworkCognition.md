@@ -206,3 +206,4 @@ const resolved = removedTexts.filter(
 - Martin Fowler, "Smart Endpoints and Dumb Pipes" (2014)
 - Steve Yegge, "The Gilded Rose" (2014)
 - Andrej Karpathy, "Software 2.0" (2017)
+- [/zfc slash command global install 2026-05-07](../sources/zfc-slash-command-global-install-2026-05-07.md) — `/zfc` command added to `.claude/commands/` (PR [#6832](https://github.com/jleechanorg/worldarchitect.ai/pull/6832)); skill + command installed globally to `~/.claude` and `~/.codex`; pointer lines in `CLAUDE.md` + `AGENTS.md`
