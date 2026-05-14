@@ -51,3 +51,14 @@ SkepticGate was renamed `green-gate.yml` in PR #6189 because "skeptic" was misle
 ## 2026-05-05 Update — ENOBUFS / maxBuffer
 
 Codex output can exceed 1MB on large PRs with evidence bundles. If `ao skeptic verify` crashes with ENOBUFS, check `maxBuffer` in `llm-eval.js` (at `~/.nvm/versions/node/v22.22.0/lib/node_modules/@jleechanorg/ao-cli/dist/lib/llm-eval.js`). Fix: change to `32 << 20` (32MB).
+
+## 2026-05-13 Update — Hallucination Defense
+
+Skeptic LLM can hallucinate code behavior (inventing function calls or execution paths that don't exist). Defense pattern:
+1. Add explicit code comment at the hallucinated site stating the invariant
+2. Add ordering test proving the invariant via `mock.invocationCallOrder`
+3. Re-run skeptic with `--prompt` hint pointing to the test
+4. PR body should explicitly state the hallucination is false
+
+Case study: PR #552 skeptic claimed 3x that line 229 calls `updateSessionMetadataHelper()` after spawn — this was false. Fixed with ghost session prevention comment + ordering test. See [[skeptic-hallucination-defense]].
+
