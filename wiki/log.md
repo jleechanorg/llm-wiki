@@ -1,3 +1,23 @@
+## [2026-05-13] ingest | PR #6913 schedule_branch_work learnings
+
+Three learnings from PR #6913 (`schedule_branch_work.sh` wrapper support). (1) Bash ANSI-C quoting: `$'\n'` inside `"..."` is literal — use `+=` at top level. (2) CodeRabbit evaluates stale SHAs when commits land close together; Green Gate Gate-3 uses ping-coderabbit CI status (not formal reviewDecision). (3) `.beads/issues.jsonl` has two corruption modes — doubling (br auto-flush) and shrinking (`--ours` in orchestrated_pr_runner.py). Beads: rev-bmo6q, rev-3jjro, rev-teygr. [[jeffrey-oracle]]: NO.
+
+## [2026-05-10] ingest | Administrative State Poisoning — Named Disease Pattern
+
+New concept page for the class of bug where admin shortcuts (God Mode, Template Injection) bypass state machine cleanup, leaving stale modal flags. Three-step mechanism: Normal Flow → Admin Shortcut → Poisoning. Discovered across PRs #6844, #6842, #6845. Links to [[AdminOverrideContract]] (the fix) and [[ModalIntersection]] (the broader category). Source: user pedagogical description + PRs. [[jeffrey-oracle]]: NO.
+
+## [2026-05-09] ingest | GameState Attribute Access Pattern
+
+GameState is a custom class, not a dict. Using `.get()` causes AttributeError; use `getattr()` instead. 18/19 preventive_guards tests failed from this mistake. Source: sources/feedback-2026-05-09-gamestate-not-dict.md. [[jeffrey-oracle]]: NO.
+
+## [2026-05-09] ingest | Canonical Field Registry Anti-Pattern
+
+`_AUTHORITATIVE_LIVING_WORLD_FIELDS` duplicated in 4 locations caused NameError on rebase. Fix: single canonical frozenset in `firestore_service.py`, imported everywhere. Source: sources/feedback-2026-05-09-canonical-field-registry.md. [[jeffrey-oracle]]: NO.
+
+## [2026-05-09] ingest | Admin Override Contract Wiring (Phase 2)
+
+Declarative cleanup contracts (`validate_pre/post_override_state()`) wired into 4 production paths: level_up_entry, level_up_exit, character_creation_exit, prepopulated_template. Source: sources/feedback-2026-05-09-admin-override-contract-wiring.md. [[jeffrey-oracle]]: NO.
+
 ## [2026-05-09] ingest | Root Cause Analysis — Bug Fix PRs #6839-#6844
 
 Git archaeology traced 5 bugs to original breaking PRs. PR #6844: combat trap from PR #2553/#3020 architectural gap. PR #6843: location fallback severed by PR #5563 schema validation. PR #6842: AND-logic CC guard from PR #6225 never fires for templates. PR #6841: .bind(this) leak from PR #1082. PR #6839: duplicated cooldown lists from PR #6308 caused NameError. New concept pages: [[SchemaFallbackSeverance]], [[DuplicatedConstantLists]], [[AndLogicModalExitGuard]]. Source: sources/root-cause-analysis-2026-05-09.md. [[jeffrey-oracle]]: NO.
@@ -3843,3 +3863,120 @@ Source: ~/.claude/projects/.../memory/feedback_2026-05-07_opencode-tui-run-flag-
 - Wiki source: /Users/jleechan/llm_wiki/wiki/sources/world_logic_lw_authoritative_fields.md
 - Bead: rev-247t8
 - Oracle impact: NO — technical maintainability lesson
+## [2026-05-10] ingest | integrate.sh post-merge commits lost + ruff pre-commit whole-file check
+
+## [2026-05-10] ingest | integrate.sh unrelated histories on diverged main
+- Source: feedback_2026-05-10_integrate_unrelated_histories.md
+- Wiki page: sources/integrate-unrelated-histologies-diverged-main.md
+- Affects jeffrey-oracle: no
+
+## [2026-05-11] ingest | PR 6825 low-confidence routing disclosure
+- Source: raw/pr6825-low-confidence-routing-disclosure-2026-05-11.md
+- Created: sources/pr6825-low-confidence-routing-disclosure-2026-05-11.md
+- Created: concepts/LowConfidenceRoutingDisclosure.md
+- Updated: index.md, overview.md
+- Key claims: Keep faction routing separate from PR #6825 unless it blocks the 20-turn proof; prefer classifier uncertainty disclosure to the selected agent over context suppression or keyword routing.
+## [2026-05-11] ingest | Gemini Context Cache Does NOT Reduce Story-Mode TTFC
+
+- Source: `raw/gemini_cache_latency_investigation_2026-05-11.md`
+- Wiki page: `wiki/sources/gemini-cache-latency-investigation-2026-05-11.md`
+- Key finding: Gemini cache adds latency; uncached path 9.6s < cached 13.2s median TTFC
+- Affects [[gemini-api-latency]], [[worldarchitect-streaming]]
+
+## [2026-05-12] ingest | Story Budget A/B Null Result × 2 + System Instructions Token Floor
+- Source: `raw/story_budget_ab_null_result_2026-05-12.md`
+- Wiki page: concept update to `wiki/concepts/LatencyOptimization.md`
+- Key findings:
+  1. A/B1 (50K story token cap): TTFC 1.31× SLOWER; A/B2 (6K story token cap, 47% total prompt reduction): 1.72× SLOWER
+  2. Gemini TTFC is NOT driven by prompt token count — API variance dominates
+  3. System instructions = ~288K chars / ~72K tokens → hard floor of 70-114K prompt_tokens (any target below 100K is infeasible)
+  4. Infeasible numeric targets must be surfaced and confirmed before running — never silently substitute
+- Affects [[LatencyOptimization]], [[GeminiResponseMetadata]]
+
+## [2026-05-12] ingest | Gemini TTFC Ablation Analysis
+
+- **Source**: `~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-05-12_gemini_ttfc_token_floor_ablation.md`
+- **Raw**: `~/llm_wiki/raw/gemini_ttfc_token_floor_ablation_2026-05-12.md`
+- **Wiki source**: `~/llm_wiki/wiki/sources/gemini-ttfc-ablation-2026-05-12.md`
+- **Concepts created**: CachedSystemInstructionTokens, GeminiApiVariance, CodeExecutionSandboxOverhead
+- **Affects jeffrey-oracle**: No — this is a Gemini API measurement finding, not an oracle pattern
+
+## [2026-05-13] ingest | Hermes Gateway Troubleshooting Pattern
+
+- Source: feedback_2026-05-13_hermes_gateway_troubleshooting_pattern.md
+- Classification: Critical
+- Summary: 4 recurring Hermes gateway failure classes (launchd state corruption, env isolation, duplicate plists, resource exhaustion) with diagnostic checklist and identified missing harness guards
+- Affects [[jeffrey-oracle]]: No — operational/infrastructure, not oracle logic
+
+## [2026-05-13] ingest | Skeptic Evidence Freshness
+
+- Source: feedback_2026-05-13_skeptic_evidence_freshness.md
+- Page: sources/skeptic-evidence-freshness.md
+- Classification: Mandatory
+- Affects [[jeffrey-oracle]]: No
+
+## [2026-05-13] ingest | Skeptic Hallucination Defense
+
+- **Source**: feedback_2026-05-13_skeptic_hallucination_defense.md
+- **Bead**: bd-nmaj
+- **Wiki page**: sources/skeptic-hallucination-defense.md
+- **Affects jeffrey-oracle**: No
+
+## [2026-05-13] ingest | Pre-Modal State Gap in rewards_box Postcondition Enforcement
+
+- Source: `sources/feedback-2026-05-13-postcondition-pre-modal-state-gap.md`
+- Raw: `raw/feedback-2026-05-13-postcondition-pre-modal-state-gap.md`
+- Concept updated: `RewardsBoxAtomicity.md`
+- Bead: rev-cl195 (closed)
+- Commit: f289b8782fb2393ee11847db4b9dbf956aeaa39d
+
+## [2026-05-13] ingest | .beads/issues.jsonl Read Without Offset — Wafer Context Thrash
+
+- Source: `~/llm_wiki/raw/feedback_2026-05-13_beads_read_without_offset_wafer_thrash.md`
+- Page: `wiki/sources/beads-issues-jsonl-read-without-offset-wafer-thrash.md`
+- Concepts updated: Compaction.md
+- Bead: rev-wgtju
+
+## [2026-05-14] ingest | Wafer SSE input_tokens:0 Autocompact Thrashing Fix
+
+- Source: `raw/feedback_2026-05-14_wafer-sse-input-tokens-zero.md`
+- Page: `wiki/sources/wafer-sse-input-tokens-zero-fix-2026-05-14.md`
+- Concepts updated: `SSEStreaming.md`, `Compaction.md`
+- Concept created: `WaferFixSSEPatcher.md`
+- Bead: none
+- Affects jeffrey-oracle: No
+
+## [2026-05-14] update | Wafer Dual Root Cause JSONL Proof
+
+- Source: `~/.claude/projects/-Users-jleechan-projects-worktree-location-freeze/c03c7cd8.jsonl` line 1259
+- Pages updated: `wiki/sources/wafer-sse-input-tokens-zero-fix-2026-05-14.md`
+- Proof: model=GLM-5.1 + Read without offset/limit on .beads/issues.jsonl + input_tokens=0 confirmed simultaneously in one assistant turn
+## 2026-05-13 ingest | export_filter_artifacts
+
+## [2026-05-14] ingest | br CLI Bead Access Pattern — Never Read .beads/*.jsonl
+
+- Source: `wiki/sources/br-cli-bead-access-pattern-2026-05-14.md`
+- Raw: `raw/feedback_2026-05-14_br_cli_bead_access_pattern.md`
+- Bead: rev-1ivmd (closed learning)
+- Key finding: beads.left.jsonl=5MB git-tracked legacy; br CLI queries beads.db directly; compaction blocked by full-DB re-export
+- Concepts updated: Compaction.md (new access pattern rule)
+- jeffrey-oracle: not affected
+
+## [2026-05-14] ingest | Branch Upstream Tracking
+
+- Source: `~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-05-14_branch_upstream_tracking.md`
+- Wiki page: `sources/branch-upstream-tracking-2026-05-14.md`
+- Raw: `raw/feedback_2026-05-14_branch_upstream_tracking.md`
+- Bead: br-befe0 (closed learning)
+- Key finding: After creating any branch or entering any worktree, immediately run git branch --set-upstream-to=origin/<branch> <branch>. Do not wait for git push -u. Recurring manual fix across all sessions.
+- Concepts updated: GitWorkflow.md (upstream tracking rule added)
+- jeffrey-oracle: not affected
+
+## [2026-05-14] ingest | Hermes Launchd Meta-Pattern — Hostile Daemon Environment
+
+- Source: `wiki/sources/hermes-launchd-meta-pattern.md`
+- Raw: `raw/feedback_2026-05-14_hermes_launchd_meta_pattern.md`
+- Bead: orch-5pf0 (closed learning)
+- Key finding: 8+ Hermes incidents over 6 weeks all trace to launchd violating shell-session assumptions. 5 mismatches, Liveness≠Functionality pattern, 4/6 required guards still missing.
+- Concepts: LaunchdIsolation, DaemonAssumptions, LivenessVsFunctionality
+- jeffrey-oracle: not affected

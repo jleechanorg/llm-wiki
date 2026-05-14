@@ -88,6 +88,7 @@ See [[PRRecreatePipeline]] and [[BenchmarkMode]] concept pages.
 ## Cross-Cutting Themes
 
 - **[[ZeroFrameworkCognition]]** — Delegate all reasoning to AI; forbidden patterns (keyword routing, heuristic scoring, regex intent detection)
+- **[[LowConfidenceRoutingDisclosure]]** — For weak specialized-agent classifier matches, disclose top-N scores/margins/context influence to the selected LLM instead of adding keyword routing or suppressing context by heuristic
 - **[[Harness5LayerModel]]** — L1 Constraint, L2 Context, L3 Execution, L4 Verification, L5 Lifecycle
 - **[[Level-Up Systemic Fix]]** — game_state.py canonicalizer self-undo bug, computed @property level
 - **[[Normalization Atomicity]]** — All Firestore-persisted rewards_box must canonicalize; passthrough path name does not mean skip normalization

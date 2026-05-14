@@ -2,8 +2,8 @@
 title: "RewardsBoxAtomicity"
 type: concept
 tags: [worldarchitect-ai, atomicity, rewards-box, planning-block, world-logic]
-sources: [pr-6161-fix-rewards-box-planning-block-atomicity-and-get-c, pr-6161-bug-hunt-report]
-last_updated: 2026-04-11
+sources: [pr-6161-fix-rewards-box-planning-block-atomicity-and-get-c, pr-6161-bug-hunt-report, feedback-2026-05-13-postcondition-pre-modal-state-gap]
+last_updated: 2026-05-13
 ---
 
 ## Summary
@@ -45,6 +45,18 @@ last_updated: 2026-04-11
 - `_process_rewards_followup()` — Uses sentinel contract with `normalize_rewards_box_for_ui`
 - `normalize_rewards_box_for_ui()` — Returns `None` for empty payloads, normalized dict otherwise
 - `_infer_level_up_target_from_xp()` — Uses `xp_needed_for_level()` canonical thresholds
+
+## Pre-Modal State Test Gap (2026-05-13, bead rev-cl195)
+
+Tests for `_enforce_primary_rewards_box_postcondition` with `level_up_available=True` must cover all three modal states:
+
+| State | `level_up_pending` | `level_up_in_progress` | Must synthesize? |
+|-------|--------------------|------------------------|-----------------|
+| pre-modal | None | None | YES — XP threshold crossed |
+| active-modal | True | True | YES |
+| post-modal/stale | False | False | Only if XP above threshold |
+
+**Bug**: Campaign iDDyaHbevKSqQHoMUHnu turn 8 — stale-suppression fired on `level_up_pending=None` (pre-modal), burning `rewards_box=null` into story entry. Fix: `test_synthesizes_level_up_rewards_box_in_pre_modal_state` in `test_world_logic.py`, commit `f289b87`.
 
 ## Connections
 

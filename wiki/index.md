@@ -6,9 +6,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 - [Level-Up Exit Classifier](sources/level_up_exit_classifier.md) — Use `classify_level_up_exit_intent()` for modal exit, not `classify_intent()`
+- [GameState is NOT a dict](sources/feedback-2026-05-09-gamestate-not-dict.md) — Use `getattr()` not `.get()` for GameState objects
+- [Canonical Field Registry](sources/feedback-2026-05-09-canonical-field-registry.md) — Never duplicate field sets locally; import from canonical frozenset
+- [Admin Override Contract Wiring](sources/feedback-2026-05-09-admin-override-contract-wiring.md) — Declarative cleanup contracts wired into 4 production paths
 
 ## Concepts
 
+- [LowConfidenceRoutingDisclosure](concepts/LowConfidenceRoutingDisclosure.md) — Disclose weak classifier uncertainty to the selected agent instead of adding heuristic routing
 - [PostMergeFollowupWorkflow](concepts/PostMergeFollowupWorkflow.md) — Post-merge cleanup branches must start from verified fresh remote main
 - [GeneratorEvaluatorSeparation](concepts/GeneratorEvaluatorSeparation.md) — Separate generator agent from evaluator agent; generator grading itself is meaningless
 - [ContextAnxiety](concepts/ContextAnxiety.md) — Models wrap up prematurely as context fills; solved by context resets, not compaction
@@ -24,6 +28,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AI Adoption Spectrum](concepts/AIAdoptionSpectrum.md) — Wide variation in AI tool proficiency; managers need top-25% to effectively lead
 - [Timeline Compression Discovery](concepts/TimelineCompressionDiscovery.md) — Cut project timelines in half to surface real bottlenecks and prioritize AI investment
 - [Manager Power Dynamics](concepts/ManagerPowerDynamics.md) — Every manager interaction carries implicit authority weight; casual engagement reads as scrutiny
+- [Administrative State Poisoning](concepts/AdministrativeStatePoisoning.md) — Admin shortcuts bypass cleanup, leaving stale modal flags that trap the session
 - [Admin Override Contract](concepts/AdminOverrideContract.md) — Declarative contract mapping admin/god-mode overrides to required post-override invariants
 - [Modal Intersection](concepts/ModalIntersection.md) — Concurrent modal systems corrupt each other's state when they overlap
 - [Event Listener Memory Leak](concepts/EventListenerMemoryLeak.md) — JS .bind(this) in addEventListener silently breaks removeEventListener
@@ -32,6 +37,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AND-Logic Modal Exit Guard](concepts/AndLogicModalExitGuard.md) — Modal exit guards requiring AND logic create impossible states
 
 ## Sources
+- [br CLI Bead Access Pattern (2026-05-14)](sources/br-cli-bead-access-pattern-2026-05-14.md) — use br show/search/list; beads.left.jsonl=5MB; compaction blocked by full DB re-export
+- [PR #6913 schedule_branch_work learnings](sources/pr6913-schedule-branch-work-learnings.md) — 2026-05-13: bash ANSI-C quoting in double quotes, CR stale SHA evaluation, beads issues.jsonl corruption modes
+- [Skeptic Hallucination Defense](sources/skeptic-hallucination-defense.md) — 2026-05-13: skeptic invents code behavior; defend with explicit comment + ordering test + --prompt hint
+- [PR 6825 Low-Confidence Routing Disclosure](sources/pr6825-low-confidence-routing-disclosure-2026-05-11.md) — 2026-05-11: keep faction routing separate from PR #6825 and prefer disclosure-first ZFC-clean hardening
+- [integrate.sh Post-Merge Branch Commits Lost](sources/integrate-post-merge-commits-lost-2026-05-10.md) — 2026-05-10: integrate.sh auto-deletes merged-PR branches; post-merge commits are orphaned
+- [Ruff Pre-Commit Checks Whole File Not Diff](sources/ruff-preexisting-blocks-commit-2026-05-10.md) — 2026-05-10: pre-commit ruff scans full staged file; pre-existing violations block even clean additions
 - [world_logic_lw_authoritative_fields](sources/world_logic_lw_authoritative_fields.md) — 2026-05-08: `world_logic.py` now uses `firestore_service._AUTHORITATIVE_LIVING_WORLD_FIELDS` for all LW cooldown strip paths
 - [Admin Override State Poisoning Pattern](sources/feedback-2026-05-09-admin-override-state-poisoning.md) — 2026-05-09: God mode/admin short-circuits leave stale modal flags across CC, level-up, combat
 - [Modal Intersection Neglect Pattern](sources/feedback-2026-05-09-modal-intersection-neglect.md) — 2026-05-09: Concurrent modal systems corrupt each other's state when they overlap
@@ -6316,6 +6327,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Squash-merge branch evaluation — two-dot diff pattern 2026-05-05](sources/squash-merge-branch-evaluation-2026-05-05.md) — three-dot diff misleads after squash merge; use git show --stat + two-dot diff to confirm branch is done
 
 ## Sources
+- [br CLI Bead Access Pattern (2026-05-14)](sources/br-cli-bead-access-pattern-2026-05-14.md) — use br show/search/list; beads.left.jsonl=5MB; compaction blocked by full DB re-export
 - [/zfc slash command global install 2026-05-07](sources/zfc-slash-command-global-install-2026-05-07.md) — general ZFC skill existed on main; /zfc command created (PR #6832); global install to ~/.claude and ~/.codex; bead rev-9lz8v
 - [[claude-directory-tests-ci-local-parity-2026-05-06]] — Directory tests CI vs local parity (added 2026-05-05)
 - [integrate.sh cleanup behavior](sources/integrate-sh-cleanup-behavior.md) — synced+merged branch deletion; worktree main → origin/main fallback; artifact discipline rule
@@ -6324,3 +6336,24 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Wafer Pass + OpenCode Integration 2026-05-06](sources/wafer-opencode-integration-2026-05-06.md) — opencodew() wrapper using WAFER_API_KEY; GLM-5.1 and Qwen3.5-397B-A17B confirmed working via curl and tmux opencode run
 
 - [OpenCode TUI vs run flag split](sources/opencode-tui-run-flag-split.md) — --dangerously-skip-permissions run-only; TUI silent help-exit fix (2026-05-07)
+
+- [integrate-unrelated-histories-diverged-main](sources/integrate-unrelated-histories-diverged-main.md) — integrate.sh fails with unrelated histories; manual reset required
+
+- [Consulting iPad Layout Fix](sources/consulting-ipad-layout-fix.md) — Fixed horizontal overflow on iPad by changing breakpoint and making layout fluid
+- [Gemini Context Cache Does NOT Reduce Story-Mode TTFC](sources/gemini-cache-latency-investigation-2026-05-11.md) — Measured: cache adds latency (13.2s vs uncached 9.6s); 95% of request time is Gemini API
+
+### 2026-05-12
+- [Gemini TTFC Ablation](sources/gemini-ttfc-ablation-2026-05-12.md) — ablation analysis proving system instructions are the dominant TTFC lever
+- [CachedSystemInstructionTokens](concepts/CachedSystemInstructionTokens.md) — ~200K cached tokens from prompt files; dominant TTFC lever
+- [GeminiApiVariance](concepts/GeminiApiVariance.md) — within 65-78K tokens, API variance dominates TTFC
+- [CodeExecutionSandboxOverhead](concepts/CodeExecutionSandboxOverhead.md) — ~6s median TTFC overhead for provably-fair dice sandbox
+- [Hermes Gateway Troubleshooting Pattern](sources/hermes-gateway-troubleshooting-pattern-2026-05-13.md) — 4 recurring failure classes, diagnostic checklist, missing guards
+- [Skeptic Evidence Freshness](sources/skeptic-evidence-freshness.md) — run skeptic only after all CI terminal; stale SHA + scope creep = top FAIL causes
+- [Pre-Modal State Gap in rewards_box Postcondition Enforcement](sources/feedback-2026-05-13-postcondition-pre-modal-state-gap.md) — 2026-05-13, bead rev-cl195
+- [.beads/issues.jsonl Read Without Offset — Wafer Thrash (2026-05-13)](sources/beads-issues-jsonl-read-without-offset-wafer-thrash.md) — bead rev-wgtju; 1MB unguarded read confirmed in GLM-5.1 session
+- [Wafer SSE input_tokens:0 Autocompact Thrashing Fix](sources/wafer-sse-input-tokens-zero-fix-2026-05-14.md) — GLM-5.1 always returns input_tokens:0 in message_start; WaferFixPatcher in llm-inspector patches to estimated count (bodyBytes/4), stopping autocompact thrash (2026-05-14)
+## Sources
+- [br CLI Bead Access Pattern (2026-05-14)](sources/br-cli-bead-access-pattern-2026-05-14.md) — use br show/search/list; beads.left.jsonl=5MB; compaction blocked by full DB re-export
+- [Export Filter Artifacts - Double PROJECT_ROOT Bug](sources/export_filter_artifacts.md) — 2026-05-13
+- [Hermes Launchd Meta-Pattern](sources/hermes-launchd-meta-pattern.md) — All recurring Hermes gateway failures trace to launchd violating shell-session assumptions; Liveness≠Functionality pattern
+- [Branch Upstream Tracking — Always Set After Creation (2026-05-14)](sources/branch-upstream-tracking-2026-05-14.md) — git branch --set-upstream-to after every branch/worktree creation; recurring manual fix; bead br-befe0
