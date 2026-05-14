@@ -32,6 +32,7 @@
 [2026-04-14 10:30:02] [SIGNAL] IMPLEMENTATION_READY sent to verifier
 [2026-04-14 10:30:02] [COMPLETE] Task completed. Engine: MiniMax. Files: 2, Tests: 10 passing
 [2026-04-14 10:34:39] [SHUTDOWN] Shutdown requested — task complete
+<<<<<<< HEAD
 [2026-04-21 21:45:18] [START] P8 benchmark: launching 5 parallel query agents
 [2026-04-21 21:45:21] [ENGINE] Delegating to MiniMax (Claude CLI + MiniMax API)
 [2026-04-21 21:45:21] [CLI_START] Launching 5 parallel P8 query agents via orchestration library
@@ -66,6 +67,8 @@
 [2026-04-23 21:11:23 [COMPLETE] P14: 60/60 cells done. Router=43.21, fixed=62.98, gnn=58.55, single=15.67. Router accuracy: 40. GNN wins=7, fixed=5, router=3, single=0. IMPLEMENTATION_READY sent to verifier.
 [COMPLETE] P14 done: Router loses (43.21 vs fixed 62.98). gnn wins 7 queries. Files: run_query_p14.py (clean), aggregate_p14.py. 60/60 cells. Router accuracy 40%. Evidence: P14 scores + logs + checkpoint.
 [2026-04-23 21:14:45 [SHUTDOWN] P14 complete. Router loses. GNN wins 7/15. Shutdown ack'd.
+=======
+>>>>>>> 2c20d8b1 (fix(autor): add SR-adversarial technique, fix validate_router_prereqs observations->scores)
 [2026-04-21 19:31:39] [START] Task received: PRM autor experiment run
 [2026-04-21 19:34:35] [ENGINE] Delegating to MiniMax (Claude CLI + MiniMax API)
 [2026-04-21 19:34:42] [CLI_START] Running MiniMax CLI for PRM experiment
