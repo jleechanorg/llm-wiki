@@ -33,6 +33,15 @@ Pattern portability fix (PR #6309):
 - GNU grep: `\s` matches whitespace
 - BSD/mawk grep: `\s` not recognized → use `$'^[ \t]*#'` (ANSI-C quoting)
 
+## Lite-green Bypass (2026-05-16)
+
+For **docs-only PRs**, Green Gate times out polling for Skeptic VERDICT (10–15 min wait). Classify as lite-green and check 3 gates directly:
+1. `gh api .../commits/<SHA>/status --jq '.state'` = `success`
+2. `gh pr view N --json mergeable` = `MERGEABLE`
+3. Latest CR review = `APPROVED`
+
+Merge directly without waiting for Green Gate. See `feedback_2026-05-16_lite-green-merge-bypass.md`.
+
 ## Connections
 - [[SkepticGate]] — runs within green-gate workflow
 - [[DesignDocGate]] — removed gate that was part of the workflow

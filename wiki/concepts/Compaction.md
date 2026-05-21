@@ -39,3 +39,25 @@ GLM-5.1 (wafer) always returns `"input_tokens":0` in `message_start`. Claude Cod
 - `.beads/beads.left.jsonl` — **5.0MB, 15,447 lines**, git-tracked legacy export (5× more dangerous)
 
 Compaction cannot be automated via `br sync --flush-only` because it re-exports the full DB including closed beads. A custom script filtering open-only beads would reduce issues.jsonl from 1.0MB to ~620KB, but is not yet implemented. See [[br-cli-bead-access-pattern-2026-05-14]].
+
+## context-mode mitigation: fills Read-tool blind spot
+
+RTK (`rtk` prefix) intercepts Bash commands to reduce token output, but the built-in `Read` tool bypasses RTK entirely. `context-mode` (PostToolUse/PreCompact/SessionStart hooks) intercepts ALL tool results — including `Read` — and stores them in FTS5 SQLite, returning summaries to the LLM. Wired 2026-05-14 into all 3 runtimes (Claude Code, claudew, Codex). See [[context-mode-wired-all-runtimes-2026-05-14]].
+
+## Known thrash trigger: conflict resolution reads during cherry-pick/merge
+
+During upstream integration work (cherry-pick of 50 commits), `claudewc` (GLM-5.1) thrashed because conflict resolution read full files (425-line `useXtermTerminal.ts`, large `mux-websocket.ts`, etc.). `WaferFixPatcher` patches the *false* trigger (`input_tokens:0`) but cannot stop *genuine* overflow from bulk reads. Both are required to stop thrashing.
+
+**Required discipline for conflict resolution:**
+```bash
+# 1. Find conflict line numbers without loading the file
+grep -n "<<<<<<\|=======\|>>>>>>>" <conflicted-file>
+
+# 2. Read only the conflict region
+# Read tool: offset=<marker_line - 5>, limit=30
+
+# 3. Understand upstream changes without the conflicted blob
+git show <upstream-sha> -- <file>
+```
+
+Evidence: session `claudewc` `~/project_agento/worktree_upstream2`, 2026-05-14, 32min run, "Autocompact is thrashing" after 3 consecutive compact→refill cycles at 75% context. See [[conflict-resolution-large-file-thrash]].

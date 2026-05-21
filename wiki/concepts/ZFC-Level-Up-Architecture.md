@@ -139,3 +139,6 @@ ZFC Level-Up Architecture fixes this by shifting the semantic decision to the mo
 - [[RewardsEngine]] — the single backend file that owns all reward/level-up formatting
 - [[FailClosedValidation]] — validation philosophy for malformed model signals
 - [[SemanticVsMechanicalJudgment]] — the dividing line this architecture enforces
+## PR6906 Scope Freeze Rule (2026-05-17)
+
+PR #6906 showed that a prompt-first level-up cleanup can drift into guard-retention and evidence-churn work if scope is not frozen. When retained backend correction guards, guard-asserting tests, opaque choice migration, and CI/evidence harness changes appear in one branch, split the work: keep only the smallest prompt/schema/root-cause fix and proven guard deletions in the current PR, and move migration/telemetry/harness enforcement to follow-up PRs.

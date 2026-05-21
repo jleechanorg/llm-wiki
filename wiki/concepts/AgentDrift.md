@@ -39,3 +39,6 @@ In the level-up bug fix work (2026-04-18): 13 of 29 post-roadmap PRs drifted fro
 - [[LevelUpBugFixPostMortem20260418]] — 13/29 PRs drifted in this case
 - [[TrunkBasedDevelopment]] — smaller PRs reduce drift surface
 - [[BugClassification]] — classify all classes before splitting into PRs
+## PR Fix-Forward Treadmill
+
+PR6906 is a concrete drift pattern: repeated review fixes, backend guard retention, evidence refreshes, and generated docs can turn a prompt-first PR into a moving target. The correction is a scope-freeze checkpoint: name the one invariant, classify every guard, split follow-up work, and rerun evidence only after the behavioral diff is frozen.

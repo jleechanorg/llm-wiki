@@ -27,6 +27,18 @@ Count compact_boundary entries in session JSONL to diagnose lost history:
 - 43 entries = v2.1.77 bug
 - 3/3 BLOCKED = v2.1.92 fixed
 
+## WaferFixPatcher Lean-Body Thrash (2026-05-14)
+
+When `lean` or `lean,on-demand` proxy mode is active, the llm-inspector
+`WaferFixPatcher` must estimate from `rawRequestBody` (pre-lean), not
+`forwardBody` (post-lean). Lean mode removes tool schemas (60–80% of body),
+so estimating from the lean body causes Claude Code to see artificially low
+`input_tokens` and delay compaction until context is truly full. The oversized
+compact summary immediately re-fills the context → 3-cycle thrash in `claudew()`
+sessions. Fix: `src/proxy.ts:480` — use `rawRequestBody.length`.
+
+See: `sources/wafer-fix-lean-body-underestimate.md`
+
 ## Connections
 
 - [[ClaudeCodeSLO]] — Claude Code SLO and GrowthBook experiments
