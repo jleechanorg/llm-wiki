@@ -1,3 +1,19 @@
+## [2026-05-15] ingest | project-supervisor interval timer rejection bug
+
+PR #559 `feat/upstream-integration-may2026` merged. Critical bug in `packages/cli/src/lib/project-supervisor.ts`: interval timer callers (swallowErrors=true) were incorrectly rejected via double-negative (`!options.swallowErrors` when swallowErrors=true → true → reject). Fix: `options.swallowErrors === false` instead. Related: GraphQL resolveReviewThread resolves CodeRabbit threads, `sessions/[id]/page.tsx` deleted by upstream refactor and restored, `gh run list` requires cd to repo root. PR merged as commit a12ef2c68. Source: feedback_2026-05-15_pr559_interval_timer_rejection_bug.md. [[jeffrey-oracle]]: NO.
+
+## [2026-05-14] ingest | hermes-agent Bearer Token Security + Fork Push Protection
+
+2 learnings from ha-14 session. (1) Fork push protection: jleechanclaw origin has pre-migration openclaw commits with embedded API keys; pushing session branches to hermes remote triggers GitHub Push Protection; fix is always use `git checkout -b fix/* hermes/main` + cherry-pick. (2) Windows footgun false positive: `check-windows-footguns.py` does naive grep; code inside `if not _IS_WINDOWS:` still flagged; suppress with `# windows-footgun: ok`. PR #13 OPEN. Bead orch-havc CLOSED. Sources: feedback-2026-05-14-fork-push-protection-hermes-agent.md, feedback-2026-05-14-windows-footgun-suppression.md. [[jeffrey-oracle]]: NO.
+
+## [2026-05-14] ingest | Hermes Migration PR#568 Learnings
+
+5 learnings from openclaw→hermes rename (PR #568, 69+ CodeRabbit findings). (1) Bash pipefail required for tee pipelines — without `set -o pipefail`, exit codes masked. (2) Docker volume rename on project migration — `docker volume rename openclaw-data hermes-data`. (3) Blind rename 5-class breakage: self-referential, config format, historical inversion, non-existent repos, hardcoded paths. (4) Green Gate 6-gate deterministic CI: no LLM, staging canary counts distinct run IDs, cancelled≠green. (5) Personal plist /Users/ paths intentional — only templates need portability. Bead: orch-8zvm. Sources: blind-rename-pitfalls-2026-05-14.md, green-gate-ci-pattern-2026-05-14.md, pipefail-bash-health-2026-05-14.md (raw). [[jeffrey-oracle]]: NO.
+
+## [2026-05-14] ingest | Hermes Migration PR#568 Learnings
+
+5 learnings from openclaw→hermes rename (PR #568, 69+ CodeRabbit findings). (1) Bash pipefail required for tee pipelines — without `set -o pipefail`, exit codes masked. (2) Docker volume rename on project migration — `docker volume rename openclaw-data hermes-data`. (3) Blind rename 5-class breakage: self-referential, config format, historical inversion, non-existent repos, hardcoded paths. (4) Green Gate 6-gate deterministic CI: no LLM, staging canary counts distinct run IDs, cancelled≠green. (5) Personal plist /Users/ paths intentional — only templates need portability. Bead: orch-8zvm. Sources: blind-rename-pitfalls-2026-05-14.md, green-gate-ci-pattern-2026-05-14.md, pipefail-bash-health-2026-05-14.md (raw). [[jeffrey-oracle]]: NO.
+
 ## [2026-05-13] ingest | PR #6913 schedule_branch_work learnings
 
 Three learnings from PR #6913 (`schedule_branch_work.sh` wrapper support). (1) Bash ANSI-C quoting: `$'\n'` inside `"..."` is literal — use `+=` at top level. (2) CodeRabbit evaluates stale SHAs when commits land close together; Green Gate Gate-3 uses ping-coderabbit CI status (not formal reviewDecision). (3) `.beads/issues.jsonl` has two corruption modes — doubling (br auto-flush) and shrinking (`--ours` in orchestrated_pr_runner.py). Beads: rev-bmo6q, rev-3jjro, rev-teygr. [[jeffrey-oracle]]: NO.
@@ -3980,3 +3996,152 @@ Source: ~/.claude/projects/.../memory/feedback_2026-05-07_opencode-tui-run-flag-
 - Key finding: 8+ Hermes incidents over 6 weeks all trace to launchd violating shell-session assumptions. 5 mismatches, Liveness≠Functionality pattern, 4/6 required guards still missing.
 - Concepts: LaunchdIsolation, DaemonAssumptions, LivenessVsFunctionality
 - jeffrey-oracle: not affected
+
+## [2026-05-14] ingest | context-mode Wired All Runtimes (claude, claudew, codex)
+
+- Source: `wiki/sources/context-mode-wired-all-runtimes-2026-05-14.md`
+- Raw: `raw/project_2026-05-14_context-mode-wired-all-runtimes.md`
+- Key lessons: enabledPlugins≠MCP server; absolute hook paths; WaferFixPatcher composable modes
+- Updated concepts: [[Compaction]] (new known pattern: context-mode fills RTK blind spot)
+- PR: https://github.com/jleechanorg/llm_inspector/pull/1
+- jeffrey-oracle: not affected (infra/tooling change only)
+
+## [2026-05-14] ingest | Conflict Resolution Large File Reads Cause Genuine Autocompact Thrash
+
+- Source: `wiki/sources/conflict-resolution-large-file-thrash-2026-05-14.md`
+- Raw: `raw/feedback_2026-05-14_conflict-resolution-large-file-thrash.md`
+- Key lesson: WaferFixPatcher ≠ sufficient; genuine overflow from cherry-pick conflict reads still thrashes; use grep+offset/limit
+- Updated concepts: [[Compaction]] (new thrash trigger: conflict resolution reads)
+## [2026-05-15] ingest | Opaque Choice IDs Need Resolver Contract
+
+- **Source**: `~/.claude/projects/-Users-jleechan-projects-worktree_level_choices/memory/feedback_2026-05-15_opaque_choice_ids_need_resolver_contract.md`
+- **Raw copy**: `raw/feedback_2026-05-15_opaque_choice_ids_need_resolver_contract.md`
+- **Wiki page**: `wiki/sources/opaque-choice-ids-resolver-contract-2026-05-15.md`
+- **Index entry**: Added to `wiki/index.md` under Concepts and Sources
+- **Concepts updated**: [[PlanningChoice]], [[ArchitecturalBoundaries]], [[ChoiceIdPrefix]]
+- **New concepts**: [[OpaqueChoiceIdContract]]
+- **Affects [[jeffrey-oracle]]**: No
+
+- jeffrey-oracle: not affected (tooling/workflow discipline)
+
+## [2026-05-14] ingest | /ms Skill Forbidden Patterns Cause Autocompact Thrash Loop
+
+- Source: `wiki/sources/ms-skill-forbidden-patterns-thrash-2026-05-14.md`
+- Raw: `raw/feedback_2026-05-14_ms-skill-forbidden-patterns-thrash.md`
+- Key lesson: /ms beads step reads .beads/issues.jsonl raw (1MB+) and history step uses grep -H on session JSONL (full content); post-compaction /ms floods context → 3-cycle autocompact thrash; fix applied to SKILL.md
+- Updated concepts: [[MemorySearch]] (new thrash triggers section), [[Compaction]] (referenced via source)
+- jeffrey-oracle: not affected (tooling/workflow discipline)
+
+## [2026-05-14] ingest | AO Worker Tmux Reading: Idle Between Turns ≠ Frozen
+- Source: `~/.claude/projects/-Users-jleechan--hermes/memory/feedback_2026-05-14_ao_worker_idle_not_stuck.md`
+- Wiki page: `~/llm_wiki/wiki/sources/ao-worker-tmux-reading.md`
+- Affects [[jeffrey-oracle]]: No — operational technique, not oracle knowledge
+
+## [2026-05-14] ingest | AO Worker Tmux Reading: Idle Between Turns ≠ Frozen
+- Source: `~/.claude/projects/-Users-jleechan--hermes/memory/feedback_2026-05-14_ao_worker_idle_not_stuck.md`
+- Wiki page: `~/llm_wiki/wiki/sources/ao-worker-tmux-reading.md`
+- Affects [[jeffrey-oracle]]: No — operational technique, not oracle knowledge
+
+## [2026-05-14] ingest | Skeptic Cron Deployed to Hermes-Agent + Integrate Branch Mismatch
+
+Sources:
+- `raw/skeptic-cron-deployed-hermes-agent.md`
+- `raw/integrate-branch-mismatch.md`
+- `wiki/sources/skeptic-cron-hermes-agent-deploy.md`
+- `wiki/sources/integrate-branch-name-mismatch.md`
+
+Key concepts: skeptic-cron 7-green auto-merge, SKEPTIC_NO_VERDICT, GitHub mergeable empty-string, integrate.sh branch name mismatch.
+
+Affects [[jeffrey-oracle]]: No — operational automation deployment, not oracle logic.
+
+## [2026-05-14] ingest | Skeptic Cron Deployed to Hermes-Agent + Integrate Branch Mismatch
+
+Sources:
+- `raw/skeptic-cron-deployed-hermes-agent.md`
+- `raw/integrate-branch-mismatch.md`
+- `wiki/sources/skeptic-cron-hermes-agent-deploy.md`
+- `wiki/sources/integrate-branch-name-mismatch.md`
+
+Key concepts: skeptic-cron 7-green auto-merge, SKEPTIC_NO_VERDICT, GitHub mergeable empty-string, integrate.sh branch name mismatch.
+
+Affects [[jeffrey-oracle]]: No — operational automation deployment, not oracle logic.
+
+## [2026-05-15] ingest | Tmux Terminal Reading: Bottom-Up, Never From Stale Scrollback
+
+- **Source**: `~/.claude/projects/-Users-jleechan--hermes/memory/feedback_2026-05-15_tmux_terminal_reading.md`
+- **Wiki page**: `wiki/sources/tmux-terminal-reading-2026-05-15.md`
+- **Index entry**: Added to wiki/index.md under Sources
+- **Concepts updated**: Linked to existing [[FileBasedHandoffs]], [[ContextAnxiety]]
+- **New concepts**: None (learning is procedural, not a new reusable concept)
+- **Affects jeffrey-oracle**: No
+
+## [2026-05-15] ingest | Tmux Terminal Reading: Bottom-Up, Never From Stale Scrollback
+
+- **Source**: `~/.claude/projects/-Users-jleechan--hermes/memory/feedback_2026-05-15_tmux_terminal_reading.md`
+- **Wiki page**: `wiki/sources/tmux-terminal-reading-2026-05-15.md`
+- **Index entry**: Added to wiki/index.md under Sources
+- **Concepts updated**: Linked to existing [[FileBasedHandoffs]], [[ContextAnxiety]]
+- **New concepts**: None (learning is procedural, not a new reusable concept)
+- **Affects jeffrey-oracle**: No
+## [2026-05-14] ingest | llm_inspector integrate no script
+
+## [2026-05-14] ingest | WaferFixPatcher Lean-Body Underestimate
+
+Source: `sources/wafer-fix-lean-body-underestimate.md`  
+Raw: `raw/feedback_2026-05-14_wafer-fix-lean-body-underestimate.md`  
+Fix: `src/proxy.ts:480` rawRequestBody.length → commit 3fb937f
+
+## [2026-05-15] ingest | tsup/esbuild silently passes TypeScript scope bugs
+
+Source: llm-inspector memory feedback_2026-05-15_tsup-hides-scope-bugs.md
+Pages: sources/tsup-hides-scope-bugs.md
+Concepts: tsup, esbuild, typescript-strict-mode (links only, no new pages — existing concepts)
+Entities: none affected. Does not affect [[jeffrey-oracle]].
+
+## [2026-05-16] ingest | WorldArchitect.AI System Architecture v3.0 + README
+- Sources: worldarchitect-system-architecture-v3.md, worldarchitect-readme-restructured.md
+- Entities: WorldArchitectAI, DiceIntegrity, TokenBudget, FactionSystem, FastEmbed
+- Concepts: LLM-Decides-Server-Executes
+- Aligned with restructured README (1,142→206 lines) and refreshed system-architecture.md (v2.1→v3.0)
+## [2026-05-17] ingest | PR6906 Scope Freeze Before ZFC Guard Churn
+
+- Source: `~/.claude/projects/-Users-jleechan-projects-worktree_level_choices/memory/feedback_2026-05-17_pr6906_scope_freeze_zfc_guard_churn.md`
+- Wiki page: `wiki/sources/pr6906-scope-freeze-zfc-guard-churn-2026-05-17.md`
+- Raw: `raw/feedback_2026-05-17_pr6906_scope_freeze_zfc_guard_churn.md`
+- Key lesson: freeze or split level-up/ZFC PRs once retained backend correction guards, evidence churn, and review-thread fixes start replacing the original prompt-first scope.
+- Updated concepts: [[ZFC-Level-Up-Architecture]], [[OpaqueChoiceIdContract]], [[AgentDrift]]
+- Affects [[jeffrey-oracle]]: No
+
+## [2026-05-18] ingest | Lite-Green Docs-Only PR Workflow + Codex Skills Symlink + CodeRabbit Incremental Review
+- Source: feedback_2026-05-18_lite_green_docs_pr.md, feedback_2026-05-18_codex_skills_symlink_mirror.md, feedback_2026-05-18_coderabbit_incremental_review.md
+- Wiki page: wiki/sources/lite-green-docs-pr-workflow-2026-05-18.md
+
+## [2026-05-18] ingest | Codex Mirror Pointer Pattern
+
+Source: ~/llm_wiki/raw/codex-mirror-pointer-pattern-2026-05-18.md
+Wiki page: wiki/sources/codex-mirror-pointer-pattern.md
+Index: added under Sources section
+Affects jeffrey-oracle: no
+
+## [2026-05-18] ingest | Doctor.sh minimal config tolerance pattern
+
+Source: ~/.claude/projects/-Users-jleechan-.hermes/memory/feedback_2026-05-18_doctor-minimal-config-tolerance.md
+Category: ops/harness
+Tags: doctor.sh, hermes.json, minimal-config, env-defaults-install
+
+## [2026-05-19] ingest | setup-launchd.sh dry-run writes files bug
+
+- Source: sources/setup-launchd-dryrun-2026-05-19.md
+- Concept updated: Launchd.md
+- Bead: orch-ud0d
+- Commit: ab684908be
+
+## [2026-05-19] ingest | Plist Template Drift Anti-Pattern — Hermes Launchd
+
+- Source: `feedback_2026-05-19_plist_template_drift.md`
+- Bead: `orch-oxdm`
+- PR: [#584](https://github.com/jleechanorg/jleechanclaw/pull/584)
+- Concept pages updated: `concepts/hermes-launchd.md` (if exists)
+- Affects `[[jeffrey-oracle]]`: No — technical workflow only
+
+## [2026-05-19] ingest | PR #6958 evidence iteration 3 — process_action over get_campaign_state

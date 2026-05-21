@@ -5,14 +5,24 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Overview
 - [Overview](overview.md) — living synthesis across all sources
 
+- [Fork Push Protection — hermes-agent](sources/feedback-2026-05-14-fork-push-protection-hermes-agent.md) — jleechanclaw fork has old openclaw secrets; always use clean branch from hermes/main for upstream PRs
+- [project-supervisor interval timer rejection bug](sources/pr559_interval_timer_rejection_bug.md) — `swallowErrors=true` callers incorrectly rejected via double-negative bug; `gh run list` requires cd to repo root
+- [Windows Footgun False Positive Suppression](sources/feedback-2026-05-14-windows-footgun-suppression.md) — naive grep checker; suppress with `# windows-footgun: ok` on _IS_WINDOWS-gated lines
 - [Level-Up Exit Classifier](sources/level_up_exit_classifier.md) — Use `classify_level_up_exit_intent()` for modal exit, not `classify_intent()`
 - [GameState is NOT a dict](sources/feedback-2026-05-09-gamestate-not-dict.md) — Use `getattr()` not `.get()` for GameState objects
 - [Canonical Field Registry](sources/feedback-2026-05-09-canonical-field-registry.md) — Never duplicate field sets locally; import from canonical frozenset
 - [Admin Override Contract Wiring](sources/feedback-2026-05-09-admin-override-contract-wiring.md) — Declarative cleanup contracts wired into 4 production paths
+- [Blind Rename Pitfalls](sources/blind-rename-pitfalls-2026-05-14.md) — Mechanical find-replace renames produce 5 classes of breakage; each needs targeted remediation
+- [Green Gate CI Pattern](sources/green-gate-ci-pattern-2026-05-14.md) — 6-gate deterministic PR merge eligibility with no LLM, no polling, self-hosted runner fallback
+- [Tmux Terminal Reading](sources/tmux-terminal-reading-2026-05-15.md) — Read tmux panes bottom-up; never diagnose from stale scrollback; `❯` = idle, not frozen
+
+- [WorldArchitect.AI System Architecture v3.0](sources/worldarchitect-system-architecture-v3.md) — Deep architecture: 14 agents, token budget, dice integrity, factions, prompt library
+- [WorldArchitect.AI README (Restructured)](sources/worldarchitect-readme-restructured.md) — Exec summary README with system diagram and deep-dive links
 
 ## Concepts
 
 - [LowConfidenceRoutingDisclosure](concepts/LowConfidenceRoutingDisclosure.md) — Disclose weak classifier uncertainty to the selected agent instead of adding heuristic routing
+- [OpaqueChoiceIdContract](concepts/OpaqueChoiceIdContract.md) — Choice IDs are opaque exact-selection handles; semantics belong in schema/resolver output, not correction scrubbers
 - [PostMergeFollowupWorkflow](concepts/PostMergeFollowupWorkflow.md) — Post-merge cleanup branches must start from verified fresh remote main
 - [GeneratorEvaluatorSeparation](concepts/GeneratorEvaluatorSeparation.md) — Separate generator agent from evaluator agent; generator grading itself is meaningless
 - [ContextAnxiety](concepts/ContextAnxiety.md) — Models wrap up prematurely as context fills; solved by context resets, not compaction
@@ -37,6 +47,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AND-Logic Modal Exit Guard](concepts/AndLogicModalExitGuard.md) — Modal exit guards requiring AND logic create impossible states
 
 ## Sources
+- [Plist Template Drift Anti-Pattern — Hermes Launchd (2026-05-19)](sources/feedback-2026-05-19-plist-template-drift.md) — 4 drift classes: wrong placeholder, orphaned plists, MINIMAX behind interactive guard, source .bashrc in bash -c
+- [PR6906 Scope Freeze Before ZFC Guard Churn (2026-05-17)](sources/pr6906-scope-freeze-zfc-guard-churn-2026-05-17.md) — Freeze or split level-up/ZFC PRs when retained backend guards, evidence churn, and review-thread fixes replace the original prompt-first scope
+- [Opaque Choice IDs Need Resolver Contract (2026-05-15)](sources/opaque-choice-ids-resolver-contract-2026-05-15.md) — PR6906 lesson: RED contract tests first, schema/resolver boundary owns semantics, correction guards stay narrow
+- [WaferFixPatcher Lean-Body Underestimate (2026-05-14)](sources/wafer-fix-lean-body-underestimate.md) — lean mode reassigns forwardBody before patcher; estimate 3-5x too low → delayed compact → oversized summary → 3-cycle thrash in claudew; fix: rawRequestBody.length
+- [/ms Skill Forbidden Patterns Thrash Loop (2026-05-14)](sources/ms-skill-forbidden-patterns-thrash-2026-05-14.md) — /ms beads step reads .beads/issues.jsonl raw (1MB+); history step uses grep -H on session JSONL; post-compaction /ms floods context → 3-cycle thrash; fix: br search + grep -rl
+- [Conflict Resolution Large File Thrash (2026-05-14)](sources/conflict-resolution-large-file-thrash-2026-05-14.md) — WaferFixPatcher fixes false trigger only; genuine overflow from 400+ line reads still thrashes; grep+offset/limit for conflict resolution
+- [context-mode Wired All Runtimes (2026-05-14)](sources/context-mode-wired-all-runtimes-2026-05-14.md) — 2026-05-14: enabledPlugins≠MCP running; absolute hook paths; WaferFixPatcher composable modes; PR #1 merged
 - [br CLI Bead Access Pattern (2026-05-14)](sources/br-cli-bead-access-pattern-2026-05-14.md) — use br show/search/list; beads.left.jsonl=5MB; compaction blocked by full DB re-export
 - [PR #6913 schedule_branch_work learnings](sources/pr6913-schedule-branch-work-learnings.md) — 2026-05-13: bash ANSI-C quoting in double quotes, CR stale SHA evaluation, beads issues.jsonl corruption modes
 - [Skeptic Hallucination Defense](sources/skeptic-hallucination-defense.md) — 2026-05-13: skeptic invents code behavior; defend with explicit comment + ordering test + --prompt hint
@@ -5868,6 +5885,9 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [GitHub Stadium](entities/GitHubStadium.md) — GitHub real-time infrastructure for thousands of concurrent SSH connections; event-driven architecture with Redis pub/sub
 - [Dropbox](entities/Dropbox.md) — File sync service using distributed hash tables (DHT) for P2P file sync; CRDT-based conflict resolution
 
+- [WorldArchitect.AI System Architecture v3.0](sources/worldarchitect-system-architecture-v3.md) — Deep architecture: 14 agents, token budget, dice integrity, factions, prompt library
+- [WorldArchitect.AI README (Restructured)](sources/worldarchitect-readme-restructured.md) — Exec summary README with system diagram and deep-dive links
+
 ## Concepts
 
 - [AutorPR](concepts/AutorPR.md) — AI-generated PRs that recreate merged PRs using SelfRefine/ET/PRM; 6-dim rubric scoring; Phase 3 held-out validation: all 3 techniques converge ~80-87
@@ -6353,7 +6373,34 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [.beads/issues.jsonl Read Without Offset — Wafer Thrash (2026-05-13)](sources/beads-issues-jsonl-read-without-offset-wafer-thrash.md) — bead rev-wgtju; 1MB unguarded read confirmed in GLM-5.1 session
 - [Wafer SSE input_tokens:0 Autocompact Thrashing Fix](sources/wafer-sse-input-tokens-zero-fix-2026-05-14.md) — GLM-5.1 always returns input_tokens:0 in message_start; WaferFixPatcher in llm-inspector patches to estimated count (bodyBytes/4), stopping autocompact thrash (2026-05-14)
 ## Sources
+- [tsup/esbuild silently passes TypeScript scope bugs (2026-05-15)](sources/tsup-hides-scope-bugs.md) — tsup builds pass with out-of-scope vars; tsc --noEmit catches TS2304; llm-inspector commit 0d3efa0
 - [br CLI Bead Access Pattern (2026-05-14)](sources/br-cli-bead-access-pattern-2026-05-14.md) — use br show/search/list; beads.left.jsonl=5MB; compaction blocked by full DB re-export
 - [Export Filter Artifacts - Double PROJECT_ROOT Bug](sources/export_filter_artifacts.md) — 2026-05-13
 - [Hermes Launchd Meta-Pattern](sources/hermes-launchd-meta-pattern.md) — All recurring Hermes gateway failures trace to launchd violating shell-session assumptions; Liveness≠Functionality pattern
 - [Branch Upstream Tracking — Always Set After Creation (2026-05-14)](sources/branch-upstream-tracking-2026-05-14.md) — git branch --set-upstream-to after every branch/worktree creation; recurring manual fix; bead br-befe0
+
+- [AO Worker Tmux Reading: Idle Between Turns ≠ Frozen (2026-05-14)](sources/ao-worker-tmux-reading.md) — AO workers are turn-based; between-turn idle at ❯ is healthy; pre-filled text is suggestion not failure; tmux capture-pane technique
+
+- [AO Worker Tmux Reading: Idle Between Turns ≠ Frozen (2026-05-14)](sources/ao-worker-tmux-reading.md) — AO workers are turn-based; between-turn idle at ❯ is healthy; pre-filled text is suggestion not failure; tmux capture-pane technique
+- [Skeptic Cron Hermes-Agent Deploy (2026-05-14)](sources/skeptic-cron-hermes-agent-deploy.md) — Skeptic-cron deployed to hermes-agent; PR #11 auto-merged; SKEPTIC_NO_VERDICT auto-posts verdict
+- [Integrate Branch Name Mismatch (2026-05-14)](sources/integrate-branch-name-mismatch.md) — integrate.sh branch name may differ from actual; verify with git branch --show-current
+- [Skeptic Cron Hermes-Agent Deploy (2026-05-14)](sources/skeptic-cron-hermes-agent-deploy.md) — Skeptic-cron deployed to hermes-agent; PR #11 auto-merged; SKEPTIC_NO_VERDICT auto-posts verdict
+- [Integrate Branch Name Mismatch (2026-05-14)](sources/integrate-branch-name-mismatch.md) — integrate.sh branch name may differ from actual; verify with git branch --show-current
+- [llm_inspector integrate no script (2026-05-14)](sources/llm-inspector-integrate-no-script-2026-05-14.md) — llm_inspector has no integrate.sh; manual: checkout main, pull, git branch -D old, checkout -b new, set-upstream-to=origin/main
+
+## Entities
+
+- [[WorldArchitectAI]] — Production D&D 5e AI GM platform (14 agents, Gemini, FastEmbed)
+- [[DiceIntegrity]] — Anti-fabrication: LLM requests rolls, sandbox resolves them
+- [[TokenBudget]] — 5-component min-first/fill-to-max token allocation
+- [[FactionSystem]] — 12 living world factions with autonomous ticks
+- [[FastEmbed]] — BAAI/bge-small-en-v1.5 semantic router (384-dim, <50ms)
+
+## Concepts (Architecture)
+
+- [[LLM-Decides-Server-Executes]] — Core pattern: LLM proposes, server validates and persists
+- [[Lite-Green Docs-Only PR Workflow]](sources/lite-green-docs-pr-workflow-2026-05-18.md)
+- [Codex Mirror Pointer Pattern](sources/codex-mirror-pointer-pattern.md) — .codex/skills/ mirrors must use pointer pattern (frontmatter + one-liner), never full content copies; user-scope skills need explicit annotations
+- [setup-launchd.sh dry-run writes files bug](sources/setup-launchd-dryrun-2026-05-19.md) — 2026-05-19; dry-run must not write files; sed must follow DRY_RUN gate
+
+- [PR #6958 evidence: process_action over get_campaign_state](sources/pr6958-evidence-iteration3-process-action.md) — use process_action for fresh LLM planning_block, not get_campaign_state (cached)

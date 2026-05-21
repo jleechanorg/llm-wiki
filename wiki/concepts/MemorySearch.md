@@ -39,6 +39,19 @@ OpenClaw's configurable hybrid search system combining vector and text-based ret
 - **temporalDecay**: Prefer recent memories (30-day half-life)
 - **mmr**: Maximum Marginal Relevance for diversity in results
 
+## /ms Skill — Known Thrash Triggers (2026-05-14)
+
+The `/ms` slash command (`~/.claude/skills/memory-search/SKILL.md`) runs 9 parallel subagents. Two steps contain forbidden patterns that cause autocompact thrash loops in wafer sessions:
+
+| Step | Forbidden pattern | Safe replacement |
+|------|------------------|-----------------|
+| Beads (step 2) | Read `.beads/issues.jsonl` raw (1MB+) | `br search "$QUERY" --json \| head -40` |
+| History (step 9) | `grep -H` across `*.jsonl` files (reads full content) | `grep -rl` (filenames only) |
+
+**Thrash mechanism**: Post-compaction, session invokes `/ms` → 9 subagents return MB+ of JSONL content → context refills within 3 turns → compact fires → repeat 3× → "Autocompact is thrashing."
+
+Fixed in `~/.claude/skills/memory-search/SKILL.md` 2026-05-14. See [[conflict-resolution-large-file-thrash]] for a parallel thrash trigger.
+
 ## Related Concepts
 - [[Memory System]] — underlying storage mechanism
 - [[Compaction]] — memory management before context limit

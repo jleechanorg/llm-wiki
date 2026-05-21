@@ -1,25 +1,26 @@
 ---
-title: "WorldArchitect.AI"
+title: WorldArchitect.AI
 type: entity
-tags: [company, product, ai, game, dnd]
-sources: [unified-api-implementation, zfc-level-up-model-computes-2026-04-19]
-last_updated: 2026-04-20
+tags: [project, dnd, ai-gm, game-engine]
+date: 2026-05-16
 ---
 
-## Description
-AI-powered tabletop RPG campaign management platform using Gemini for narrative generation. The system loads world content from the World of Assiah campaign setting and provides both Flask web and MCP server interfaces.
+## Summary
+Production D&D 5e AI Game Master platform. Flask + MCP backend, Gemini AI engine with 14 specialized agents, FastEmbed semantic routing, deterministic token budget, dice anti-fabrication, and living world factions. Deployed on Google Cloud Run.
 
-## Key Components
-- **Unified API Layer**: Python module providing consistent JSON interfaces for Flask and MCP
-- **World Content Loader**: Loads campaign settings and banned names
-- **Firestore Integration**: Firebase backend for campaign data persistence
-- **Game State Management**: TypedDict-based state tracking for campaigns
+## Key Metrics
+- 14 specialized agents ([agents.py](https://github.com/jleechanorg/worldarchitect.ai/blob/main/mvp_site/agents.py))
+- 30 prompt files, 17,369 lines ([prompts/](https://github.com/jleechanorg/worldarchitect.ai/blob/main/mvp_site/prompts/))
+- 12 living world factions ([faction/](https://github.com/jleechanorg/worldarchitect.ai/blob/main/mvp_site/faction/))
+- 370 test files
+- 684 tracked files in mvp_site/
 
-## Recent Architecture Notes
-
-- PR #6404 / PR #6412 document the ZFC level-up target: the model computes semantic level-up facts, while the backend validates and formats explicit structured fields.
+## Architecture
+See [[WorldArchitect System Architecture v3.0]] for full deep-dive.
 
 ## Connections
-- [[Firebase]] — backend database service
-- [[World of Assiah]] — default campaign setting
-- [[ZFCNorthStar]] — ZFC level-up architecture principle
+- [[GeminiAPI]] — primary LLM
+- [[FastEmbed]] — semantic routing
+- [[DiceIntegrity]] — anti-fabrication
+- [[TokenBudget]] — token allocation
+- [[FactionSystem]] — living world

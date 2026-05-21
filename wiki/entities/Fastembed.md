@@ -1,15 +1,13 @@
 ---
-title: "FastEmbed"
+title: FastEmbed Semantic Router
 type: entity
-tags: [python, embedding, ml]
-sources: []
-last_updated: 2026-04-08
+tags: [fastembed, embedding, semantic-routing, classifier]
+date: 2026-05-16
 ---
 
-FastEmbed is a lightweight text embedding library that provides efficient on-device embedding generation. Used by LocalIntentClassifier for intent classification tasks.
+## Summary
+BAAI/bge-small-en-v1.5 (384-dim) embedding model used for semantic agent routing. Replaces keyword matching — 'I want to fight' and 'let's do battle' route identically. File: [intent_classifier.py](https://github.com/jleechanorg/worldarchitect.ai/blob/main/mvp_site/intent_classifier.py) (1,350 lines). Runs locally (<50ms, no API cost).
 
-## Key Features
-- Local model loading
-- ONNX runtime support
-- Cache directory configuration
-- Offline mode (local_files_only)
+## Connections
+- [[WorldArchitectAI]] — uses this for agent routing
+- [[WorldArchitect System Architecture v3.0]] — §4.1
