@@ -2,11 +2,11 @@
 title: "(old) Noctune merc bg3"
 type: source
 tags: [campaign, old-noctune-merc-bg3-WgHKme6M]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/WgHKme6M79ACsGHBFjlG/_old_ Noctune merc bg3_WgHKme6M.txt
 campaign_id: WgHKme6M79ACsGHBFjlG
 entry_count: 630
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

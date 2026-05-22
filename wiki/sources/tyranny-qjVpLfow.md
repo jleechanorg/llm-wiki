@@ -2,11 +2,11 @@
 title: "Tyranny"
 type: source
 tags: [campaign, tyranny-qjVpLfow]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/qjVpLfowsILq40DFKD6N/Tyranny_qjVpLfow.txt
 campaign_id: qjVpLfowsILq40DFKD6N
 entry_count: 582
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

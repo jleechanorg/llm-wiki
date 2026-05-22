@@ -2,11 +2,11 @@
 title: "Sariel V2"
 type: source
 tags: [campaign, sariel-v2-rd3cYXFE]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/rd3cYXFE1YoltR36e8jr/Sariel V2_rd3cYXFE.txt
 campaign_id: rd3cYXFE1YoltR36e8jr
 entry_count: 518
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

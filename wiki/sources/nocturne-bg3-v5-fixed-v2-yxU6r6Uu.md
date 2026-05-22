@@ -2,11 +2,11 @@
 title: "Nocturne bg3 v5 (fixed v2)"
 type: source
 tags: [campaign, nocturne-bg3-v5-fixed-v2-yxU6r6Uu]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/yxU6r6UuGFthtDvVsxSl/Nocturne bg3 v5 _fixed v2__yxU6r6Uu.txt
 campaign_id: yxU6r6UuGFthtDvVsxSl
 entry_count: 1850
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

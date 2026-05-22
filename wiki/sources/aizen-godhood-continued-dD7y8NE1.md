@@ -2,11 +2,11 @@
 title: "Aizen godhood continued"
 type: source
 tags: [campaign, aizen-godhood-continued-dD7y8NE1]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/dD7y8NE1LqxnZAKjmkZn/Aizen godhood continued_dD7y8NE1.txt
 campaign_id: dD7y8NE1LqxnZAKjmkZn
 entry_count: 176
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 ============================================================

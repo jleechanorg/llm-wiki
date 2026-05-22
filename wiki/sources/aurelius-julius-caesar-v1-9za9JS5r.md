@@ -2,11 +2,11 @@
 title: "aurelius julius caesar v1"
 type: source
 tags: [campaign, aurelius-julius-caesar-v1-9za9JS5r]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/9za9JS5rJWrAvJDEEj5g/aurelius julius caesar v1_9za9JS5r.txt
 campaign_id: 9za9JS5rJWrAvJDEEj5g
 entry_count: 980
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

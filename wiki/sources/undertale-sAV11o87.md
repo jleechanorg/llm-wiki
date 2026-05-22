@@ -2,11 +2,11 @@
 title: "Undertale"
 type: source
 tags: [campaign, undertale-sAV11o87]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/sAV11o87CRsN93akPi31/Undertale_sAV11o87.txt
 campaign_id: sAV11o87CRsN93akPi31
 entry_count: 290
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

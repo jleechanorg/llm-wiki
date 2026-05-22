@@ -2,11 +2,11 @@
 title: "Visenya v2"
 type: source
 tags: [campaign, visenya-v2-mSEMkUw6]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/mSEMkUw6vRh5jPtfS7p4/Visenya v2_mSEMkUw6.txt
 campaign_id: mSEMkUw6vRh5jPtfS7p4
 entry_count: 554
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

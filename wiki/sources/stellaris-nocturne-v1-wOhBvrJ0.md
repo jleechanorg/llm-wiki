@@ -2,11 +2,11 @@
 title: "Stellaris - Nocturne V1"
 type: source
 tags: [campaign, stellaris-nocturne-v1-wOhBvrJ0]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/wOhBvrJ0gYA2Ox9g1kLC/Stellaris - Nocturne V1_wOhBvrJ0.txt
 campaign_id: wOhBvrJ0gYA2Ox9g1kLC
-entry_count: 275
-last_updated: 2026-04-14
+entry_count: 589
+last_updated: 2026-05-22
 ---
 
 God Mode:

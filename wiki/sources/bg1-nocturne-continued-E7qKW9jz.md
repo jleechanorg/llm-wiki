@@ -2,11 +2,11 @@
 title: "bg1 nocturne continued"
 type: source
 tags: [campaign, bg1-nocturne-continued-E7qKW9jz]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/E7qKW9jz4tuK724EgIOf/bg1 nocturne continued_E7qKW9jz.txt
 campaign_id: E7qKW9jz4tuK724EgIOf
 entry_count: 108
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

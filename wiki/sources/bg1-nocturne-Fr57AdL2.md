@@ -2,11 +2,11 @@
 title: "BG1 - Nocturne"
 type: source
 tags: [campaign, bg1-nocturne-Fr57AdL2]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/Fr57AdL2vCflPFxDzcix/BG1 - Nocturne_Fr57AdL2.txt
 campaign_id: Fr57AdL2vCflPFxDzcix
 entry_count: 506
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

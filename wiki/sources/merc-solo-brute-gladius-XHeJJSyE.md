@@ -2,11 +2,11 @@
 title: "Merc solo brute - Gladius"
 type: source
 tags: [campaign, merc-solo-brute-gladius-XHeJJSyE]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/XHeJJSyERbsHdAM84DzR/Merc solo brute - Gladius_XHeJJSyE.txt
 campaign_id: XHeJJSyERbsHdAM84DzR
 entry_count: 221
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

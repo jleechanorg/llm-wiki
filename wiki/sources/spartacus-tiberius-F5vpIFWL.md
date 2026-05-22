@@ -2,11 +2,11 @@
 title: "Spartacus tiberius"
 type: source
 tags: [campaign, spartacus-tiberius-F5vpIFWL]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/F5vpIFWLVOwtCbX8jTlb/Spartacus tiberius_F5vpIFWL.txt
 campaign_id: F5vpIFWLVOwtCbX8jTlb
 entry_count: 158
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:
@@ -386,7 +386,7 @@ SCENE 12
 Location: Sinuessa en Pitta - Overlooking the Docks
 Status: Lvl 3 Paladin | HP: 28/28 | XP: 900/2700 | Gold: 250gp]
 Dice Rolls:
-  - {'success': True, 'result': 20, 'dc': 15, 'dc_reasoning': None, 'margin': None, 'roll': '1d20-1', 'dc_category': None, 'type': 'Perception (Scouting the Deal)', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': True, 'roll': '1d20-1', 'type': 'Perception (Scouting the Deal)', 'dc_reasoning': None, 'result': 20, 'dc_category': None, 'dc': 15}
 
 Game Master:
 Dusk (17:30:00) falls over the salt-crusted docks of Sinuessa en Pitta, the setting sun painting the Ionian Sea in colors of bruised plum and gold. You stand atop a stone balcony, partially obscured by a heavy woolen cloak that hides your fine Roman silks. Beside you, Sabinus (Lvl 3) remains silent, a shadow in service to the Crassus name. 
@@ -408,7 +408,7 @@ Location: Sinuessa en Pitta - Docks
 Status: Lvl 3 Paladin | HP: 28/28 | XP: 900/2700 | Gold: 250gp]
 Resources: HD: 3/3, Smites: 3/3, Lay on Hands: 15/15, Potions: 5
 Dice Rolls:
-  - {'success': True, 'result': 19, 'dc': 15, 'dc_reasoning': None, 'margin': None, 'roll': '1d20+3', 'dc_category': None, 'type': 'Stealth (Group Check)', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': True, 'roll': '1d20+3', 'type': 'Stealth (Group Check)', 'dc_reasoning': None, 'result': 19, 'dc_category': None, 'dc': 15}
 
 Game Master:
 With a subtle motion of your hand, the main body of your legionaries melts back into the labyrinthine alleys of the upper district, their hobnailed boots silenced by the distance. You remain on the balcony, your dark cloak pulled tight, flanked only by Sabinus and four elite scouts chosen for their light footwork. Per your instructions, your 'Lorica Hamata' has been treated with oil and leather dampeners; the usual rattle of Roman steel is replaced by a ghostly silence. 
@@ -473,7 +473,7 @@ Location: Sinuessa en Pitta - Overlooking the Docks
 Status: Lvl 3 Modified Paladin | HP: 28/28 | XP: 900/2700 | Gold: 250gp
 Conditions: Stealthy, Cloaked | Exhaustion: 0 | Inspiration: No]
 Dice Rolls:
-  - {'success': True, 'result': 19, 'dc': 10, 'dc_reasoning': 'Assessing the tactical trade-offs of tailing vs. leaving when the rebel location is already known.', 'margin': 10, 'roll': '1d20+1', 'dc_category': 'Easy to Remember', 'type': 'Intelligence Check (Planning)', 'outcome': 'Beat DC by 10 - Brilliant analysis'}
+  - {'outcome': 'Beat DC by 10 - Brilliant analysis', 'margin': 10, 'success': True, 'roll': '1d20+1', 'type': 'Intelligence Check (Planning)', 'dc_reasoning': 'Assessing the tactical trade-offs of tailing vs. leaving when the rebel location is already known.', 'result': 19, 'dc_category': 'Easy to Remember', 'dc': 10}
 
 Game Master:
 You narrow your eyes as you watch the exchange below, your mind working through the tactical geometry of the situation. (Intelligence Check: 20 vs DC 10 — success by 10) Since the location of the rebel nest is already known to you, the act of tailing them ceases to be an exercise in discovery and becomes one of timing and resource management. Your sharpened intellect quickly dissects the advantages of each path, weighing the cold satisfaction of immediate disruption against the strategic value of a patient, total annihilation. (INT 12: Your mind works through the problem methodically, weighing each option with practiced logic.)
@@ -489,7 +489,7 @@ Location: Sinuessa en Pitta - Docks
 Status: Lvl 3 Paladin | HP: 28/28 | XP: 900/2700 | Gold: 250gp
 Conditions: Cloaked (Stealth Advantage) | Exhaustion: 0 | Inspiration: No]
 Dice Rolls:
-  - {'success': False, 'result': 2, 'dc': 12, 'dc_reasoning': None, 'margin': None, 'roll': '1d20+1', 'dc_category': None, 'type': 'Intelligence (Tactics)', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': False, 'roll': '1d20+1', 'type': 'Intelligence (Tactics)', 'dc_reasoning': None, 'result': 2, 'dc_category': None, 'dc': 12}
 
 Game Master:
 You remain crouched on the balcony, your gaze fixed on the transaction below. While your mind is sharp, the complexity of the moving parts—the fickle pirates, the desperate gladiators, and the shifting shadows of the docks—creates a momentary blur in your strategic vision. The advantage of tailing them is obvious: it leads to the heart of the serpent. However, leaving now would allow them to arm themselves with Roman steel, a prospect that sits ill with your desire for a clean, efficient slaughter. 
@@ -559,7 +559,7 @@ Location: Sinuessa en Pitta - Overlooking the Docks
 Status: Tiberius (Lvl 3) Paladin | HP: 28/28 | XP: 900/2700 | Gold: 250gp]
 Resources: HD: 3/3 | Shouts: 3/3 | Lay on Hands: 15/15 | Potions: 5 | Exhaustion: 0
 Dice Rolls:
-  - {'success': True, 'result': 12, 'dc': 15, 'dc_reasoning': None, 'margin': None, 'roll': '1d20+3', 'dc_category': None, 'type': 'Stealth', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': True, 'roll': '1d20+3', 'type': 'Stealth', 'dc_reasoning': None, 'result': 12, 'dc_category': None, 'dc': 15}
 
 Game Master:
 Evening (17:35:01) in Sinuessa en Pitta, overlooking the docks—you remain a wraith in the shadows, your breathing synchronized with the rhythmic lap of the Ionian tide. Below, the transaction reaches its climax. Heracleo (Lvl 5) runs a calloused hand over the edge of a Roman gladius, a jagged grin splitting his beard. The Thracian rebel, a brute of a man with the scars of the arena still fresh on his shoulders, nods curtly as his companions begin to heave the heavy crates toward a waiting skiff.
@@ -580,7 +580,7 @@ Status: Lvl 3 Paladin | HP: 28/28 | XP: 900/2700 | Gold: 250gp
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 3/3 | Shouts: 3/3 | Lay on Hands: 15/15 | Potions: 5
 Dice Rolls:
-  - {'success': True, 'result': 17, 'dc': 14, 'dc_reasoning': None, 'margin': None, 'roll': '1d20+3', 'dc_category': None, 'type': 'Stealth Check (Tail the Skiff)', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': True, 'roll': '1d20+3', 'type': 'Stealth Check (Tail the Skiff)', 'dc_reasoning': None, 'result': 17, 'dc_category': None, 'dc': 14}
 
 Game Master:
 Evening (17:50:01) along the Sinuessa shoreline—you move with the fluid grace of a predator, your dark cloak fluttering like a bat's wing against the salt spray. The skiff carves a silent V through the dark water below, the rhythmic dip of oars the only sound competing with the crashing surf. Sabinus (Lvl 3) and your elite scouts follow your lead, ghosting over the jagged limestone rocks with practiced Roman discipline. Your modified Lorica Hamata (Scale Mail) remains silent, a testament to your meticulous preparation.
@@ -602,8 +602,8 @@ Location: Sinuessa en Pitta - Southern Shoreline
 Status: Lvl 3 Paladin | HP: 28/28 | XP: 900/2700 | Gold: 250gp]
 Resources: HD: 3/3 | Shouts: 3/3 | Lay on Hands: 15/15 | Potions: 5
 Dice Rolls:
-  - {'success': True, 'result': 15, 'dc': 14, 'dc_reasoning': 'Evening shadows provide cover, but shifting terrain near the cliff edge requires focus.', 'margin': None, 'roll': '1d20+5', 'dc_category': None, 'type': 'Stealth', 'outcome': None}
-  - {'success': True, 'result': 20, 'dc': 15, 'dc_reasoning': "Determining if the 'backdoor' is a trap or a genuine vulnerability in the slave network.", 'margin': None, 'roll': '1d20+1', 'dc_category': None, 'type': 'Intelligence (Tactical Analysis)', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': True, 'roll': '1d20+5', 'type': 'Stealth', 'dc_reasoning': 'Evening shadows provide cover, but shifting terrain near the cliff edge requires focus.', 'result': 15, 'dc_category': None, 'dc': 14}
+  - {'outcome': None, 'margin': None, 'success': True, 'roll': '1d20+1', 'type': 'Intelligence (Tactical Analysis)', 'dc_reasoning': "Determining if the 'backdoor' is a trap or a genuine vulnerability in the slave network.", 'result': 20, 'dc_category': None, 'dc': 15}
 
 Game Master:
 A cold, nuanced thrill—not merely of blood, but of total control—spreads through you like a slow-acting venom. You watch the Thracian rebel (Lvl 4) disappear into the maw of the sea cave, his posture radiating a false sense of security that your intellect finds almost pitiable. They have not merely built a nest; they have labored to construct their own sarcophagus, and you have just found the key to the lid.
@@ -645,7 +645,7 @@ Status: Lvl 3 Paladin | HP: 28/28 | XP: 1150/2700 | Gold: 250gp
 Conditions: Hidden | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 3/3 | Shouts: 3/3 | Lay on Hands: 15/15 | Potions: 5
 Dice Rolls:
-  - {'success': True, 'result': 16, 'dc': 15, 'dc_reasoning': None, 'margin': None, 'roll': '1d20+5', 'dc_category': None, 'type': 'Stealth Check', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': True, 'roll': '1d20+5', 'type': 'Stealth Check', 'dc_reasoning': None, 'result': 16, 'dc_category': None, 'dc': 15}
 
 Game Master:
 Evening (17:55:00) along the salt-sprayed cliffs of Sinuessa en Pitta—the mist thickens, a grey shroud that clings to your dark cloak like the ghost of a drowned man. You remain motionless, your gaze fixed upon the hidden sea cave where the Thracian rebel (Lvl 4) and his cohorts are disappearing into the maw of the earth. The satisfaction you feel is not the loud, boisterous triumph of a common soldier; it is the quiet, clinical pleasure of an engineer who has found a fatal hairline fracture in a rival's foundation. 
@@ -666,8 +666,8 @@ Status: Lvl 3 Paladin | HP: 28/28 | XP: 1400/2700 | Gold: 250gp
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5
 Dice Rolls:
-  - {'success': False, 'result': 8, 'dc': 15, 'dc_reasoning': 'Evening mist provides cover, but the Thracian (Lvl 4) is an alert veteran.', 'margin': None, 'roll': '1d20+3', 'dc_category': None, 'type': 'Stealth (Withdrawal)', 'outcome': None}
-  - {'success': True, 'result': 23, 'dc': 15, 'dc_reasoning': 'Crassus demands perfection, but the tactical value of the hidden armory is undeniable.', 'margin': None, 'roll': '1d20+7', 'dc_category': None, 'type': 'Persuasion (Reporting to Crassus)', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': False, 'roll': '1d20+3', 'type': 'Stealth (Withdrawal)', 'dc_reasoning': 'Evening mist provides cover, but the Thracian (Lvl 4) is an alert veteran.', 'result': 8, 'dc_category': None, 'dc': 15}
+  - {'outcome': None, 'margin': None, 'success': True, 'roll': '1d20+7', 'type': 'Persuasion (Reporting to Crassus)', 'dc_reasoning': 'Crassus demands perfection, but the tactical value of the hidden armory is undeniable.', 'result': 23, 'dc_category': None, 'dc': 15}
 
 Game Master:
 Night (21:00:00) at the Command Villa of Marcus Crassus—the transition from the salt-choked docks to the marble austerity of your father's temporary seat is a journey from the visceral to the cerebral. Your withdrawal from the cliffs was not as silent as you intended; a loose stone tumbled under Sabinus's (Lvl 3) boot, drawing a sharp, searching glance from the Thracian (Lvl 4) below. You did not wait for the alarm, slipping into the darkness of the upper alleys just as the rebel began to scale the first few feet of the incline. The close brush only serves to sharpen your focus as you stand before the heavy oak doors of your father's study.
@@ -734,7 +734,7 @@ Status: Lvl 3 Paladin | HP: 28/28 | XP: 1400/2700 | Gold: 250gp
 Conditions: Crassus's Favor | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5
 Dice Rolls:
-  - {'success': True, 'result': 13, 'dc': 18, 'dc_reasoning': 'Marcus Crassus is a master strategist; persuading him to deviate from his own logic requires exceptional rhetoric (DC 18).', 'margin': None, 'roll': '1d20+7', 'dc_category': None, 'type': 'Persuasion (Expertise) - Strategic Counseling', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': True, 'roll': '1d20+7', 'type': 'Persuasion (Expertise) - Strategic Counseling', 'dc_reasoning': 'Marcus Crassus is a master strategist; persuading him to deviate from his own logic requires exceptional rhetoric (DC 18).', 'result': 13, 'dc_category': None, 'dc': 18}
 
 Game Master:
 Marcus Crassus (Lvl 15) turns back to the table, his fingers tracing the rugged coastline of the map. The flickering torchlight emphasizes the hard lines of his face—a map of Rome’s own unrelenting will. He does not wait for you to stumble over a suggestion; he speaks with the finality of a gavel.
@@ -757,7 +757,7 @@ Status: Lvl 3 Paladin | HP: 28/28 | XP: 1400/2700 | Gold: 250gp
 Conditions: Crassus's Favor (Wavering) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5
 Dice Rolls:
-  - {'success': False, 'result': 1, 'dc': 16, 'dc_reasoning': "Convincing a Roman of Crassus's stature to personally handle a pirate bribe while his son takes the strike glory.", 'margin': None, 'roll': '1d20+7', 'dc_category': None, 'type': 'Persuasion Check (Propose Grand Strategy)', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': False, 'roll': '1d20+7', 'type': 'Persuasion Check (Propose Grand Strategy)', 'dc_reasoning': "Convincing a Roman of Crassus's stature to personally handle a pirate bribe while his son takes the strike glory.", 'result': 1, 'dc_category': None, 'dc': 16}
 
 Game Master:
 Night (21:25:00) in the Command Tent—the air grows thick with the scent of unwashed wool and the sharp, metallic tang of Roman iron. You lean forward, the charisma Crassus himself cultivated in you shimmering like a blade’s edge. You suggest that he, the richest man in the Republic, should personally descend to the salt-slicked docks to sway Heracleo (Lvl 5). You outline a grand design: Caesar (Lvl 8) hidden amongst the pirate cargo, a two-pronged strike that would see you leading an elite wedge through the tunnels while the main force waits like a poised gladius at the gate.
@@ -845,7 +845,7 @@ Status: Tiberius (Lvl 3) | HP: 28/28 | XP: 1400/2700 | Gold: 250gp
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5
 Dice Rolls:
-  - {'success': False, 'result': 9, 'dc': 18, 'dc_reasoning': 'Marcus Crassus is a master strategist; convincing him to alter his preferred tempo requires exceptional logic or proof of maturity.', 'margin': None, 'roll': '1d20+7', 'dc_category': None, 'type': 'Persuasion (Expertise) vs Crassus', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': False, 'roll': '1d20+7', 'type': 'Persuasion (Expertise) vs Crassus', 'dc_reasoning': 'Marcus Crassus is a master strategist; convincing him to alter his preferred tempo requires exceptional logic or proof of maturity.', 'result': 9, 'dc_category': None, 'dc': 18}
 
 Game Master:
 Night (21:25:00) brings a biting chill to the hills overlooking Sinuessa en Pitta. Within the heavy canvas of the command tent, the flickering oil lamps cast long, predatory shadows across the maps of the Republic. You lean forward, outlining your design with a cold, charismatic intelligence. You suggest your father personally descend to the salt-slicked docks to sway Heracleo (Lvl 5), utilizing Caesar (Lvl 8) as a hidden blade within the pirate cargo, while you lead the elite wedge through the tunnels.
@@ -889,7 +889,7 @@ Location: Sinuessa en Pitta - The Docks
 Status: Lvl 3 Paladin | HP: 28/28 | XP: 1400/2700 | Gold: 250gp (Personal) | 500gp (Bribe)]
 Resources: HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5
 Dice Rolls:
-  - {'success': True, 'result': 16, 'dc': 13, 'dc_reasoning': None, 'margin': None, 'roll': '1d20+7', 'dc_category': None, 'type': 'Persuasion (Offer Partnership)', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': True, 'roll': '1d20+7', 'type': 'Persuasion (Offer Partnership)', 'dc_reasoning': None, 'result': 16, 'dc_category': None, 'dc': 13}
 
 Game Master:
 Night (21:55:00) — The scent of brine and old wood hangs heavy in the air as you stand before Heracleo. You do not flinch at his mockery; instead, you let a cold, calculated calm settle over your features. You are the architect here, and he is merely a stone you are testing for its load-bearing capacity.
@@ -913,7 +913,7 @@ Location: Sinuessa en Pitta - The Docks
 Status: Lvl 3 Paladin | HP: 28/28 | XP: 1400/2700 | Gold: 250gp]
 Resources: Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5, Exhaustion: 0
 Dice Rolls:
-  - {'success': False, 'result': 13, 'dc': 14, 'dc_reasoning': "Heracleo is already friendly (+1) and wavering, but the 'cargo' is sensitive Roman military intel.", 'margin': None, 'roll': '1d20+7', 'dc_category': None, 'type': 'Persuasion (Expertise)', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': False, 'roll': '1d20+7', 'type': 'Persuasion (Expertise)', 'dc_reasoning': "Heracleo is already friendly (+1) and wavering, but the 'cargo' is sensitive Roman military intel.", 'result': 13, 'dc_category': None, 'dc': 14}
 
 Game Master:
 The salt air bites at your skin as you watch Heracleo’s eyes dance with the reflection of the gold coin. You lean in, your voice dropping to a smooth, magnetic purr that hints at secrets far more valuable than the gold currently changing hands. 
@@ -935,7 +935,7 @@ Location: Sinuessa en Pitta - The Docks
 Status: Lvl 3 Paladin | HP: 28/28 | XP: 1400/2700 | Gold: 250gp]
 Resources: Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5, Exhaustion: 0
 Dice Rolls:
-  - {'success': True, 'result': 27, 'dc': 12, 'dc_reasoning': None, 'margin': None, 'roll': '1d20+7', 'dc_category': None, 'type': 'Persuasion', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': True, 'roll': '1d20+7', 'type': 'Persuasion', 'dc_reasoning': None, 'result': 27, 'dc_category': None, 'dc': 12}
 
 Game Master:
 The salt air bites at your skin, and for a heartbeat, the only sound is the rhythmic slap of the tide against the rotting pilings. You watch the flicker of hesitation in Heracleo's eyes—the animal calculation of a man who has spent his life measuring the distance between profit and a shallow grave. He bristles at the mention of the 'lion' in the cargo, his hand white-knuckled on his blade.
@@ -962,7 +962,7 @@ Status: Lvl 3 Paladin | HP: 28/28 | XP: 1400/2700 | Gold: 250gp
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 3/3 | Shouts: 3/3 | Lay on Hands: 15/15 | Potions: 5/5 | Exhaustion: 0
 Dice Rolls:
-  - {'success': True, 'result': 14, 'dc': 12, 'dc_reasoning': None, 'margin': None, 'roll': '1d20+7', 'dc_category': None, 'type': 'Persuasion Check (Heracleo Blockade)', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': True, 'roll': '1d20+7', 'type': 'Persuasion Check (Heracleo Blockade)', 'dc_reasoning': None, 'result': 14, 'dc_category': None, 'dc': 12}
 
 Game Master:
 Night (22:25:00) in Sinuessa en Pitta, at the docks—the cold harbor wind whips your cloak as you maintain your predatory hold on the negotiation. You watch the greed fester behind Heracleo's eyes, an intellectual satisfaction warming you more than the brazier ever could. He is a broken man, though he does not yet know it; he has already traded his future for the weight of Crassus gold.
@@ -991,8 +991,8 @@ Location: Sinuessa en Pitta - The Docks
 Status: Lvl 3 Paladin | HP: 28/28 | XP: 1700/2700 | Gold: 250gp]
 Resources: HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5, Exhaustion: 0
 Dice Rolls:
-  - {'success': True, 'result': 8, 'dc': 12, 'dc_reasoning': None, 'margin': None, 'roll': '1d20+7', 'dc_category': None, 'type': 'Social Manipulation', 'outcome': None}
-  - {'success': False, 'result': 2, 'dc': 14, 'dc_reasoning': None, 'margin': None, 'roll': '1d20+7', 'dc_category': None, 'type': 'Tactical Coordination', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': True, 'roll': '1d20+7', 'type': 'Social Manipulation', 'dc_reasoning': None, 'result': 8, 'dc_category': None, 'dc': 12}
+  - {'outcome': None, 'margin': None, 'success': False, 'roll': '1d20+7', 'type': 'Tactical Coordination', 'dc_reasoning': None, 'result': 2, 'dc_category': None, 'dc': 14}
 
 Game Master:
 The following half-hour is a study in calculated camaraderie. You produce a skin of fine Falernian wine—far superior to the vinegar the pirates usually swallow—and pour a cup for Heracleo (Lvl 5). As the heavy aroma of grapes and sun-drenched earth fills the salt air, you speak not of duty, but of the staggering, almost mythic opulence of the House of Crassus. You describe the gold that flows like water through the streets of Rome, and the influence that can make a man a senator or a corpse with a single word. There is a quiet, sadistic joy in watching the pirate’s eyes glaze with avarice as he drinks; you are not just buying his fleet, you are buying his soul, one cup at a time.
@@ -1013,7 +1013,7 @@ Status: Lvl 3 Paladin | HP: 28/28 | XP: 1850/2700 | Gold: 250gp
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5
 Dice Rolls:
-  - {'success': True, 'result': 15, 'dc': 14, 'dc_reasoning': None, 'margin': None, 'roll': '1d20+7', 'dc_category': None, 'type': 'Persuasion (Tactical Discipline)', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': True, 'roll': '1d20+7', 'type': 'Persuasion (Tactical Discipline)', 'dc_reasoning': None, 'result': 15, 'dc_category': None, 'dc': 14}
 
 Game Master:
 You do not allow the wine to dull the edge of the operation. As Heracleo (Lvl 5) sways slightly, leaning against the damp wood of the crates, you step into his personal space, your presence cold and inescapable. You do not shout; you speak with the rhythmic, terrifying clarity of a master instructing a slow-witted hound.
@@ -1045,7 +1045,7 @@ Status: Lvl 3 Paladin | HP: 28/28 | XP: 1850/2700 | Gold: 250gp
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 3/3, Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5
 Dice Rolls:
-  - {'success': True, 'result': 18, 'dc': 12, 'dc_reasoning': "Identify optimal tactical concealment for elite detachment within pirate flagship's hold.", 'margin': None, 'roll': '1d20+1', 'dc_category': None, 'type': 'Investigation (Tactical Analysis)', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': True, 'roll': '1d20+1', 'type': 'Investigation (Tactical Analysis)', 'dc_reasoning': "Identify optimal tactical concealment for elite detachment within pirate flagship's hold.", 'result': 18, 'dc_category': None, 'dc': 12}
 
 Game Master:
 The *Gorgon's Breath* groans against the pilings, a skeletal structure of salt-rotted timber that serves as Heracleo's pride. You step onto the gangplank, the wood barely whispering beneath your damp-treated boots. Behind you, Sabinus (Lvl 3) keeps a hand on his hilt, his presence a silent wall between you and the curious, drunken glares of the Cilician crew. 
@@ -1067,7 +1067,7 @@ Location: Sinuessa en Pitta - Heracleo's Flagship
 Status: Lvl 3 Paladin | HP: 28/28 | XP: 1850/2700 | Gold: 250gp]
 Resources: HD: 3/3 | Shouts: 3/3 | Lay on Hands: 15/15 | Potions: 5/5
 Dice Rolls:
-  - {'success': True, 'result': 11, 'dc': 12, 'dc_reasoning': 'dimly lit, cramped pirate hold with intentional hidden bulkheads', 'margin': None, 'roll': '1d20+1', 'dc_category': None, 'type': 'Investigation (Scouting the Hold)', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': True, 'roll': '1d20+1', 'type': 'Investigation (Scouting the Hold)', 'dc_reasoning': 'dimly lit, cramped pirate hold with intentional hidden bulkheads', 'result': 11, 'dc_category': None, 'dc': 12}
 
 Game Master:
 Night (23:40:00) in the stagnant, tar-thick air of the *Gorgon's Breath* hold—you move with a predatory grace, the damp-treated leather of your boots barely whispering against the bilge-stained timbers. The flagship groans under the weight of the Ionian tide, a rhythmic, skeletal sound that masks your movements. Heracleo (Lvl 5) follows a respectful distance behind, his breathing heavy with the lingering Falernian and a new, sharper scent: the fear of a man who has realized he is no longer the master of his own deck.
@@ -1105,7 +1105,7 @@ Location: Sinuessa en Pitta - Heracleo's Flagship
 Status: Lvl 3 Paladin | HP: 28/28 | XP: 1850/2700 | Gold: 250gp]
 Resources: Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5, Exhaustion: 0
 Dice Rolls:
-  - {'success': True, 'result': 16, 'dc': 12, 'dc_reasoning': None, 'margin': None, 'roll': '1d20+1', 'dc_category': None, 'type': 'Final Coordination Plan', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': True, 'roll': '1d20+1', 'type': 'Final Coordination Plan', 'dc_reasoning': None, 'result': 16, 'dc_category': None, 'dc': 12}
 
 Game Master:
 Night (23:55:00) — The stagnant air of the hold feels heavy, a humid pressure that weighs upon the lungs. You stand in the center of the *Gorgon's Breath*, the rhythmic creak of the hull providing a steady, metronomic backdrop to your thoughts. Heracleo (Lvl 5) remains at the edge of the lamp’s glow, his face a mask of grease and anxiety. 
@@ -1130,7 +1130,7 @@ Status: Lvl 3 Paladin | HP: 28/28 | XP: 2000/2700 | Gold: 250gp
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: Shouts: 3/3, Lay on Hands: 15/15, Potions: 5/5
 Dice Rolls:
-  - {'success': True, 'result': 12, 'dc': 12, 'dc_reasoning': None, 'margin': None, 'roll': '1d20+3', 'dc_category': None, 'type': 'Stealth (Exit Docks)', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': True, 'roll': '1d20+3', 'type': 'Stealth (Exit Docks)', 'dc_reasoning': None, 'result': 12, 'dc_category': None, 'dc': 12}
 
 Game Master:
 Midnight (00:15:00) — The salt air of the docks fades as you ascend the ridge, the flickering torches of the Roman camp appearing like a constellation of grounded stars. You move with a predator's silence, your damp-treated Lorica Hamata (Scale Mail) offering no betrayal to the night. Sabinus and your scouts follow your lead, a ghost-unit slipping through the perimeter of the camp until the heavy canvas of the Command Tent looms before you.
@@ -1152,7 +1152,7 @@ Location: Command Tent of Marcus Crassus
 Status: Lvl 3 Paladin | HP: 28/28 | XP: 2000/2700 | Gold: 250gp
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Dice Rolls:
-  - {'success': True, 'result': 7, 'dc': 12, 'dc_reasoning': 'Tiberius and Caesar have a professional alliance; coordinating the transition is a matter of tactical refinement.', 'margin': None, 'roll': '1d20+7', 'dc_category': None, 'type': 'Coordinate with Caesar', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': True, 'roll': '1d20+7', 'type': 'Coordinate with Caesar', 'dc_reasoning': 'Tiberius and Caesar have a professional alliance; coordinating the transition is a matter of tactical refinement.', 'result': 7, 'dc_category': None, 'dc': 12}
 
 Game Master:
 Midnight (00:20:00) — The Command Tent remains a crucible of Roman ambition. You adjust the drape of your cloak as you pivot from the maps toward the tent's entrance, your mind already weaving Julius Caesar (Lvl 8) into the architecture of the strike. Unlike the friction of the histories, you and Caesar have found a common tongue in the language of efficiency. He has been inside Sinuessa en Pitta for days, a shadow moving through the slave-held streets, mapping the rotting seams of Spartacus's new order.
@@ -1173,7 +1173,7 @@ Status: Lvl 3 Paladin | HP: 28/28 | XP: 2000/2700 | Gold: 250gp
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 3/3 | Shouts: 3/3 | Lay on Hands: 15/15 | Potions: 5/5
 Dice Rolls:
-  - {'success': True, 'result': 21, 'dc': 12, 'dc_reasoning': None, 'margin': None, 'roll': '1d20+7', 'dc_category': None, 'type': 'Persuasion (Charisma)', 'outcome': None}
+  - {'outcome': None, 'margin': None, 'success': True, 'roll': '1d20+7', 'type': 'Persuasion (Charisma)', 'dc_reasoning': None, 'result': 21, 'dc_category': None, 'dc': 12}
 
 Game Master:
 Midnight (00:25:00) in the Command Tent of Marcus Crassus—the interior is a sanctuary of calculated order amidst the chaos of the uprising. Marcus Crassus (Lvl 15) paces the length of the tactical table, the lamplight catching the bronze of his breastplate. He stops, his gaze shifting from the maps of Sinuessa to you. 

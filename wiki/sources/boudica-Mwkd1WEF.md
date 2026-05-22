@@ -2,11 +2,11 @@
 title: "Boudica "
 type: source
 tags: [campaign, boudica-Mwkd1WEF]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/Mwkd1WEFKuV5YufFwFNw/Boudica _Mwkd1WEF.txt
 campaign_id: Mwkd1WEFKuV5YufFwFNw
 entry_count: 100
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

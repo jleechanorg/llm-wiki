@@ -2,11 +2,11 @@
 title: "bg3 astarion"
 type: source
 tags: [campaign, bg3-astarion-LUAqNRjA]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/LUAqNRjA6SIgLAoSPfDH/bg3 astarion_LUAqNRjA.txt
 campaign_id: LUAqNRjA6SIgLAoSPfDH
 entry_count: 254
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

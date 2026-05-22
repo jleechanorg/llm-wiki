@@ -2,11 +2,11 @@
 title: "Aemon Game of Thrones"
 type: source
 tags: [campaign, aemon-game-of-thrones-jvFgRDxL]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/jvFgRDxLwOxVhh6cgfe7/Aemon Game of Thrones_jvFgRDxL.txt
 campaign_id: jvFgRDxLwOxVhh6cgfe7
 entry_count: 422
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

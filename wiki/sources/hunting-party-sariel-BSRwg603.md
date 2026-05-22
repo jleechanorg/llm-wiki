@@ -2,11 +2,11 @@
 title: "Hunting party - Sariel"
 type: source
 tags: [campaign, hunting-party-sariel-BSRwg603]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/BSRwg6034CNKeCUfDYCx/Hunting party - Sariel_BSRwg603.txt
 campaign_id: BSRwg6034CNKeCUfDYCx
 entry_count: 282
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

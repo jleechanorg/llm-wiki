@@ -2,11 +2,11 @@
 title: "Aizen bg3"
 type: source
 tags: [campaign, aizen-bg3-2Ivu5p5O]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/2Ivu5p5OcXkkgyoytzGy/Aizen bg3_2Ivu5p5O.txt
 campaign_id: 2Ivu5p5OcXkkgyoytzGy
 entry_count: 1194
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

@@ -2,11 +2,11 @@
 title: "alexiel swtor"
 type: source
 tags: [campaign, alexiel-swtor-tAE30bFv]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/tAE30bFvyfO0rUd9cgyv/alexiel swtor_tAE30bFv.txt
 campaign_id: tAE30bFvyfO0rUd9cgyv
 entry_count: 1644
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

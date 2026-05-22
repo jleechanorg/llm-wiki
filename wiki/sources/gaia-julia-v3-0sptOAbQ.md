@@ -2,11 +2,11 @@
 title: "Gaia Julia v3"
 type: source
 tags: [campaign, gaia-julia-v3-0sptOAbQ]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/0sptOAbQZ7yEtBLNmkCA/Gaia Julia v3_0sptOAbQ.txt
 campaign_id: 0sptOAbQZ7yEtBLNmkCA
 entry_count: 234
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

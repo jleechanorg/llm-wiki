@@ -2,11 +2,11 @@
 title: "Nocturne post bg3 zhent"
 type: source
 tags: [campaign, nocturne-post-bg3-zhent-VqqJLpAB]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/VqqJLpABua9bvAG4ArTg/Nocturne post bg3 zhent_VqqJLpAB.txt
 campaign_id: VqqJLpABua9bvAG4ArTg
 entry_count: 2007
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

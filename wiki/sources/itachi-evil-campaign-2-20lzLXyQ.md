@@ -2,11 +2,11 @@
 title: "Itachi Evil Campaign 2"
 type: source
 tags: [campaign, itachi-evil-campaign-2-20lzLXyQ]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/20lzLXyQTcoLnHGCA3aW/Itachi Evil Campaign 2_20lzLXyQ.txt
 campaign_id: 20lzLXyQTcoLnHGCA3aW
 entry_count: 1069
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 ============================================================

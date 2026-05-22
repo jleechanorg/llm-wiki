@@ -2,11 +2,11 @@
 title: "Sariel killer"
 type: source
 tags: [campaign, sariel-killer-W1YIooU4]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/W1YIooU4UIXsbeQui20f/Sariel killer_W1YIooU4.txt
 campaign_id: W1YIooU4UIXsbeQui20f
 entry_count: 1370
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

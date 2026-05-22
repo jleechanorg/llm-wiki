@@ -2,11 +2,11 @@
 title: "Ramsay V1"
 type: source
 tags: [campaign, ramsay-v1-b9LPKcLH]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/b9LPKcLHEwvG4FGsQDpu/Ramsay V1_b9LPKcLH.txt
 campaign_id: b9LPKcLHEwvG4FGsQDpu
 entry_count: 379
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:
@@ -159,9 +159,9 @@ Status: Ramsay (Lvl 6) Dreadblade Shadow | HP: 45/45 | XP: 14000/23000 | Gold: 1
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: Inspiration: 3/3, Spells: L1 4/4, L2 2/2
 Dice Rolls:
-  - {'outcome': None, 'dc': None, 'roll': '1d20+3', 'result': 17, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Initiative'}
-  - {'outcome': None, 'dc': 15, 'roll': '1d20+6', 'result': 16, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Shield Intercept (Attack)'}
-  - {'outcome': None, 'dc': 15, 'roll': '1d20+6', 'result': 16, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Dreadful Flourish (Intimidation)'}
+  - {'dc': None, 'margin': None, 'type': 'Initiative', 'success': True, 'dc_reasoning': None, 'roll': '1d20+3', 'result': 17, 'dc_category': None, 'outcome': None}
+  - {'dc': 15, 'margin': None, 'type': 'Shield Intercept (Attack)', 'success': True, 'dc_reasoning': None, 'roll': '1d20+6', 'result': 16, 'dc_category': None, 'outcome': None}
+  - {'dc': 15, 'margin': None, 'type': 'Dreadful Flourish (Intimidation)', 'success': True, 'dc_reasoning': None, 'roll': '1d20+6', 'result': 16, 'dc_category': None, 'outcome': None}
 
 Game Master:
 Night (21:15:00) in the Great Hall of the Twins—the festive music of 'The Rains of Castamere' has become a death knell. The feast tables are upended, and the screams of Northmen drown out the frantic barking of Grey Wind in the distance. Robb Stark stands paralyzed, his eyes wide as he realizes the magnitude of the Frey betrayal. Across the hall, a Frey crossbowman levels his weapon at the King in the North's heart.
@@ -192,9 +192,9 @@ Status: Lvl 6 Dreadblade Shadow | HP: 45/45 | XP: 14000/23000 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 6/6, Spells: L1 4/4, L2 2/2, Dreadful Dice: 3/3, Exhaustion: 0
 Dice Rolls:
-  - {'outcome': None, 'dc': 14, 'roll': '1d20+3', 'result': 1, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': False, 'type': 'Coordination (CHA)'}
-  - {'outcome': None, 'dc': 15, 'roll': '1d20+6', 'result': 15, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': "Stark's Vengeance Attack 1"}
-  - {'outcome': None, 'dc': 15, 'roll': '1d20+6', 'result': 5, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': False, 'type': "Stark's Vengeance Attack 2"}
+  - {'dc': 14, 'margin': None, 'type': 'Coordination (CHA)', 'success': False, 'dc_reasoning': None, 'roll': '1d20+3', 'result': 1, 'dc_category': None, 'outcome': None}
+  - {'dc': 15, 'margin': None, 'type': "Stark's Vengeance Attack 1", 'success': True, 'dc_reasoning': None, 'roll': '1d20+6', 'result': 15, 'dc_category': None, 'outcome': None}
+  - {'dc': 15, 'margin': None, 'type': "Stark's Vengeance Attack 2", 'success': False, 'dc_reasoning': None, 'roll': '1d20+6', 'result': 5, 'dc_category': None, 'outcome': None}
 
 Game Master:
 Night (21:20:00) in the Great Hall of the Twins—the air is a choking fog of iron-scent and woodsmoke as the massacre turns into a desperate breakout. You snap your fingers, pointing toward the side doors where the kitchens lie. "Grunt! Take half the boys. Get the King and the Lady Mother to the stables. Don't stop for God or Ghost!" You bark the command with the authority of a high lord, but in the screeching chaos of the hall, the coordination falters. Grunt (Lvl 4) hesitates for a heartbeat too long, caught in a spray of Frey crossbow bolts, and the split-second delay means the escape will be bloodier than you hoped.
@@ -219,8 +219,8 @@ Status: Lvl 6 Dreadblade Shadow | HP: 45/45 | XP: 14000/23000 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Dreadful Dice: 3/3 | Exhaustion: 0
 Dice Rolls:
-  - {'outcome': None, 'dc': 13, 'roll': '1d20+6', 'result': 20, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Attack Frey Guard'}
-  - {'outcome': None, 'dc': 15, 'roll': '1d20+6', 'result': 16, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Coordination: Drop Chandeliers'}
+  - {'dc': 13, 'margin': None, 'type': 'Attack Frey Guard', 'success': True, 'dc_reasoning': None, 'roll': '1d20+6', 'result': 20, 'dc_category': None, 'outcome': None}
+  - {'dc': 15, 'margin': None, 'type': 'Coordination: Drop Chandeliers', 'success': True, 'dc_reasoning': None, 'roll': '1d20+6', 'result': 16, 'dc_category': None, 'outcome': None}
 
 Game Master:
 Night (21:25:00) in the Great Hall of the Twins—the air is a screaming vortex of betrayal. You whirl Stark's Vengeance (Lvl 6) in a savage arc, the wolf-headed pommel trailing a spray of crimson as you bury the steel into the chest of a Frey guard (Lvl 2). As he falls, gurgling on his own treachery, you let out a sharp, piercing whistle that cuts through the din of 'The Rains of Castamere.'
@@ -263,7 +263,7 @@ Status: Lvl 6 Dreadblade Shadow | HP: 45/45 | XP: 14,000/23,000 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Dreadful Dice: 3/3 | Exhaustion: 0
 Dice Rolls:
-  - {'outcome': None, 'dc': 13, 'roll': '1d20+8', 'result': 16, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Stealth'}
+  - {'dc': 13, 'margin': None, 'type': 'Stealth', 'success': True, 'dc_reasoning': None, 'roll': '1d20+8', 'result': 16, 'dc_category': None, 'outcome': None}
 
 Game Master:
 Night (21:30:00) in the claustrophobic, soot-stained servants' passages of the Twins—the air here smells of damp stone and stale bread, a sharp contrast to the iron-tang of the massacre behind you. You signal for silence, your hand raised in a sharp, Bolton-esque gesture that your men recognize instantly. With Kyra (Lvl 5) acting as your shadow, you lead the unit through the narrow veins of the castle. 
@@ -288,7 +288,7 @@ Status: Lvl 6 Dreadblade Shadow | HP: 45/45 | XP: 14000/23000 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 6/6, Spells: L1 4/4, L2 2/2, Dreadful Dice: 3/3, Exhaustion: 0
 Dice Rolls:
-  - {'outcome': None, 'dc': 14, 'roll': '1d20+5', 'result': 15, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': "Kyra's Arson Attempt"}
+  - {'dc': 14, 'margin': None, 'type': "Kyra's Arson Attempt", 'success': True, 'dc_reasoning': None, 'roll': '1d20+5', 'result': 15, 'dc_category': None, 'outcome': None}
 
 Game Master:
 Night (21:35:00) at the Twins—the outer courtyard is a chaotic swirl of torchlight and the panicked bellows of horses. You reach the stables just as Robb (Lvl 6) finishes tightening the cinch on a grey gelding. His hands shake, but the steel of Winterfell is back in his eyes. Catelyn (Lvl 1) stands beside him, her gown torn and blood-spattered, her gaze fixed on the gate where Frey horns continue to blast.
@@ -317,7 +317,7 @@ Status: Lvl 6 Dreadblade Shadow | HP: 45/45 | XP: 14000/23000 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Dreadful Dice: 3/3 | Exhaustion: 0
 Dice Rolls:
-  - {'outcome': None, 'dc': 14, 'roll': '1d20+3', 'result': 16, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Persuasion (Explaining Motives)'}
+  - {'dc': 14, 'margin': None, 'type': 'Persuasion (Explaining Motives)', 'success': True, 'dc_reasoning': None, 'roll': '1d20+3', 'result': 16, 'dc_category': None, 'outcome': None}
 
 Game Master:
 Night (02:15:00) in a dense, rain-slicked thicket miles north of the Twins—the air is heavy with the smell of wet earth and the lingering acrid scent of smoke clinging to your armor. The escape was a bloody, jagged affair; while the Frey's main force was occupied with the fires in the stables, you led the remnants of the Stark host through the postern gate. Half the Northern lords are gone—Greatjon Umber was seen fighting like a god before he was swamped, and others lie in the charnel house of the Great Hall—but Robb (Lvl 6) and Catelyn (Lvl 1) breathe, safe for now within a ring of your grim, blood-stained Bolton-Stark loyalists.
@@ -363,7 +363,7 @@ Status: Lvl 6 Dreadblade Shadow | HP: 45/45 | XP: 14000/23000 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 10 | ✨ Arcana: 0/0
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Dreadful Dice: 3/3 | Exhaustion: 0
 Dice Rolls:
-  - {'outcome': None, 'dc': 16, 'roll': '1d20+6', 'result': 26, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Persuasion (Honor and Demand)'}
+  - {'dc': 16, 'margin': None, 'type': 'Persuasion (Honor and Demand)', 'success': True, 'dc_reasoning': None, 'roll': '1d20+6', 'result': 26, 'dc_category': None, 'outcome': None}
 
 Game Master:
 Night (02:45:00) in the rain-drenched Riverlands—the small fire hisses as fat from a roasting rabbit drips into the embers, casting long, wavering shadows against the trunks of ancient ironwoods. You stand tall, your Shadow-Stitched armor gleaming like wet beetle-shell in the orange glow. You meet Robb Stark's (Lvl 6) gaze with a cold, unblinking intensity that makes the young King stiffen, his hand tightening reflexively on the pommel of his sword.
@@ -402,7 +402,7 @@ Conditions: None | Exhaustion: 0 | Inspiration: Yes]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 10 | ✨ Arcana: 0/0
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Dreadful Dice: 3/3 | Exhaustion: 0
 Dice Rolls:
-  - {'outcome': None, 'dc': 14, 'roll': '1d20+3', 'result': 19, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Persuasion (Clarifying Honor)'}
+  - {'dc': 14, 'margin': None, 'type': 'Persuasion (Clarifying Honor)', 'success': True, 'dc_reasoning': None, 'roll': '1d20+3', 'result': 19, 'dc_category': None, 'outcome': None}
 
 Game Master:
 Night (02:50:00) in the rain-drenched Riverlands—the small fire hisses as fat from a roasting rabbit drips into the embers, casting long, wavering shadows against the trunks of ancient ironwoods. You stand tall, your Shadow-Stitched armor gleaming like wet beetle-shell in the orange glow. You meet Robb Stark's (Lvl 6) gaze with a cold, unblinking intensity that makes the young King stiffen, his hand tightening reflexively on the pommel of his sword.
@@ -437,7 +437,7 @@ Status: Lvl 6 Dreadblade Shadow | HP: 45/45 | XP: 14000/23000 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 10 | ✨ Arcana: 0/0
 Resources: HD: 6/6, Spells: L1 4/4, L2 2/2, Dreadful Dice: 3/3, Exhaustion: 0
 Dice Rolls:
-  - {'outcome': None, 'dc': 13, 'roll': '1d20+6', 'result': 22, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Persuasion (Sharing History)'}
+  - {'dc': 13, 'margin': None, 'type': 'Persuasion (Sharing History)', 'success': True, 'dc_reasoning': None, 'roll': '1d20+6', 'result': 22, 'dc_category': None, 'outcome': None}
 
 Game Master:
 Early morning (03:15:00) in the hidden camp—the rain has slowed to a thin, cold mist that clings to the trees like a shroud. You are seated on a moss-covered log, the Unnamed Longsword (Lvl 6) resting across your knees as you run a whetstone along its edge. The rhythmic *shing-shing* of the stone is the only sound until the crunch of boots on wet leaves signals an approach. Robb Stark (Lvl 6) emerges from the gloom, looking older than he did when the night began.
@@ -502,7 +502,7 @@ Status: Lvl 6 Dreadblade Shadow | HP: 45/45 | XP: 14300/23000 | Gold: 1500gp]
 ⚔️ Soldiers: 80 | 🕵️ Spies: 0 | 👑 Elites: 4 (Avg Lvl 5)
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 1,500 | ✨ Arcana: 0/0
 Dice Rolls:
-  - {'outcome': None, 'dc': 14, 'roll': '1d20+6', 'result': 17, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Persuasion (Stark Lineage Reveal)'}
+  - {'dc': 14, 'margin': None, 'type': 'Persuasion (Stark Lineage Reveal)', 'success': True, 'dc_reasoning': None, 'roll': '1d20+6', 'result': 17, 'dc_category': None, 'outcome': None}
 
 Game Master:
 Early morning (03:45:00) in the hidden camp—the mist has thickened, swirling around the knees of your horses like the ghosts of the men left behind at the Twins. Robb Stark (Lvl 6) remains seated upon the stump, his gaze fixed on you with an intensity that suggests he is no longer looking at a monster, but at a puzzle he is determined to solve. Beside him, Talisa Stark (Lvl 2) steps into the pale light of the dying fire. She had been quiet until now, her hands still stained with the blood of the men she had tried to save in the Great Hall, her eyes wide with a mixture of terror and profound gratitude.
@@ -565,8 +565,8 @@ Conditions: Advantage on Stealth (Armor) | Exhaustion: 0 | Inspiration: Yes]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 1,500 | ✨ Arcana: 0/0
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Dreadful Dice: 3/3 | Exhaustion: 0
 Dice Rolls:
-  - {'outcome': None, 'dc': 15, 'roll': '1d20+3', 'result': 7, 'dc_category': None, 'dc_reasoning': "Robb's honor is his core, but the Frey betrayal has created a crack for pragmatic ruthlessness.", 'margin': None, 'success': False, 'type': 'Persuasion: Convince Robb of Pragmatism'}
-  - {'outcome': None, 'dc': 18, 'roll': '1d20+3', 'result': 20, 'dc_category': None, 'dc_reasoning': "The Northern lords are stubborn, traditional, and know Ramsay's reputation for cruelty.", 'margin': None, 'success': True, 'type': 'Persuasion: Asserting Command to Lords'}
+  - {'dc': 15, 'margin': None, 'type': 'Persuasion: Convince Robb of Pragmatism', 'success': False, 'dc_reasoning': "Robb's honor is his core, but the Frey betrayal has created a crack for pragmatic ruthlessness.", 'roll': '1d20+3', 'result': 7, 'dc_category': None, 'outcome': None}
+  - {'dc': 18, 'margin': None, 'type': 'Persuasion: Asserting Command to Lords', 'success': True, 'dc_reasoning': "The Northern lords are stubborn, traditional, and know Ramsay's reputation for cruelty.", 'roll': '1d20+3', 'result': 20, 'dc_category': None, 'outcome': None}
 
 Game Master:
 Early morning (04:15:00) in the hidden Riverlands camp—the cold mist clings to the trees like a shroud as the first grey light of dawn begins to bleed through the canopy. You stand before Robb Stark (Lvl 6), your Shadow-Stitched Reinforced Mail (Lvl 6) absorbing the dim light, making you appear as little more than a jagged silhouette against the mist.
@@ -601,7 +601,7 @@ Conditions: Expertise (Intimidation/Stealth) | Exhaustion: 0 | Inspiration: 3/3]
 ⚔️ Soldiers: 80 | 🕵️ Spies: 0 | 👑 Elites: 4 (Avg Lvl 5)
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 1,500 | ✨ Arcana: 0/0
 Dice Rolls:
-  - {'outcome': None, 'dc': 18, 'roll': '1d20+5', 'result': 17, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': False, 'type': 'Persuasion (Underhanded Tactics)'}
+  - {'dc': 18, 'margin': None, 'type': 'Persuasion (Underhanded Tactics)', 'success': False, 'dc_reasoning': None, 'roll': '1d20+5', 'result': 17, 'dc_category': None, 'outcome': None}
 
 Game Master:
 Early morning (04:30:00) in the hidden Riverlands camp—you stand before the dying embers of the fire, the cold mist swirling around your boots as you draw the two blades you claimed from Roose's private armory during the chaos. The first, a longsword of rippled, smoky Valyrian steel, seems to drink the grey dawn light. You have named it *Oath-Eater (Lvl 6)*, a mocking tribute to the laws your father so casually discarded. The second, a wicked dagger of the same dark metal, you call *The Whisper (Lvl 6)*—for it is the last thing a man hears before the dark takes him.
@@ -725,7 +725,7 @@ Conditions: None | Exhaustion: 0 | Inspiration: Yes]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 1,500 | ✨ Arcana: 0/0
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Dreadful Dice: 3/3
 Dice Rolls:
-  - {'outcome': None, 'dc': 18, 'roll': '1d20+10', 'result': 19, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Intimidation (Expertise)'}
+  - {'dc': 18, 'margin': None, 'type': 'Intimidation (Expertise)', 'success': True, 'dc_reasoning': None, 'roll': '1d20+10', 'result': 19, 'dc_category': None, 'outcome': None}
 
 Game Master:
 Early morning (04:45:00) in the hidden Riverlands camp—the damp air is thick with the smell of wet wool and the low, resentful murmurs of men who have lost their brothers. You stand beside Robb Stark (Lvl 6), the dark, rippled surface of Flayer's Oath (Lvl 6) catching the weak light of the rising sun. The Northern lords remain in a semicircle, their breaths blooming like pale ghosts in the cold air. Lord Galbart Glover (Lvl 5) hasn't moved, his face a map of stubborn defiance, his eyes darting between the King and the bastard who now commands his vanguard.
@@ -755,7 +755,7 @@ Conditions: Advantage on Stealth | Exhaustion: 0 | Inspiration: Yes]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 1,500 | ✨ Arcana: 0/0
 Resources: HD: 6/6, Spells: L1 4/4, L2 2/2, Dreadful Dice: 3/3
 Dice Rolls:
-  - {'outcome': None, 'dc': 12, 'roll': '1d20+10', 'result': 29, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Intimidation (Interrogation)'}
+  - {'dc': 12, 'margin': None, 'type': 'Intimidation (Interrogation)', 'success': True, 'dc_reasoning': None, 'roll': '1d20+10', 'result': 29, 'dc_category': None, 'outcome': None}
 
 Game Master:
 Early morning (05:15:00) in the dense thickets of the Riverlands—the mist clings to the mossy earth like a cold, wet shroud as you step into the small, natural hollow where your men have bound the Frey captive. The man-at-arms (Lvl 2) is tied to a stunted ironwood tree, his breath coming in ragged, sobbing gasps. He looks up as you approach, his eyes widening in the dim light as they fix on the dark, rippled steel of Flayer's Oath (Lvl 6) at your hip and the surgical precision of the tools Kyra (Lvl 5) has laid out on a clean piece of buckskin.
@@ -785,7 +785,7 @@ Conditions: None | Exhaustion: 0 | Inspiration: No]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 1,500 | ✨ Arcana: 0/0
 Resources: HD: 6/6, Spells: L1 4/4, L2 2/2, Dreadful Dice: 3/3, Potions: 0/0
 Dice Rolls:
-  - {'outcome': None, 'dc': 16, 'roll': '1d20+10', 'result': 13, 'dc_category': None, 'dc_reasoning': "Convincing Robb to trust a plan that involves his father's betrayal and Moat Cailin (Tier 2 Strategic Persuasion)", 'margin': None, 'success': False, 'type': 'Persuasion (Advise the King)'}
+  - {'dc': 16, 'margin': None, 'type': 'Persuasion (Advise the King)', 'success': False, 'dc_reasoning': "Convincing Robb to trust a plan that involves his father's betrayal and Moat Cailin (Tier 2 Strategic Persuasion)", 'roll': '1d20+10', 'result': 13, 'dc_category': None, 'outcome': None}
 
 Game Master:
 Early morning (05:45:00) in the rain-slicked Riverlands camp—the sun is a pale, bruised smear against the horizon, barely visible through the canopy of dripping pines. You emerge from the hollow where the Frey captive still trembles, your shadow lengthening across the mud. You find Robb (Lvl 6) standing over a makeshift map table with Lord Glover (Lvl 5) and Lady Catelyn (Lvl 1), their faces illuminated by the flickering warmth of a dying brazier.
@@ -821,9 +821,9 @@ Status: Lvl 6 Dreadblade Shadow | HP: 45/45 | XP: 14300/23000 | Gold: 1500gp]
 ⚔️ Soldiers: 80 | 🕵️ Spies: 0 | 👑 Elites: 4 (Avg Lvl 5)
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 1,500 | ✨ Arcana: 0/0
 Dice Rolls:
-  - {'outcome': None, 'dc': 14, 'roll': '2d20kh1+9', 'result': 17, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Stealth'}
-  - {'outcome': None, 'dc': 15, 'roll': '1d20+3', 'result': 4, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': False, 'type': 'Perception'}
-  - {'outcome': None, 'dc': 13, 'roll': '2d20kh1+8', 'result': 26, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': "Attack (Flayer's Oath)"}
+  - {'dc': 14, 'margin': None, 'type': 'Stealth', 'success': True, 'dc_reasoning': None, 'roll': '2d20kh1+9', 'result': 17, 'dc_category': None, 'outcome': None}
+  - {'dc': 15, 'margin': None, 'type': 'Perception', 'success': False, 'dc_reasoning': None, 'roll': '1d20+3', 'result': 4, 'dc_category': None, 'outcome': None}
+  - {'dc': 13, 'margin': None, 'type': "Attack (Flayer's Oath)", 'success': True, 'dc_reasoning': None, 'roll': '2d20kh1+8', 'result': 26, 'dc_category': None, 'outcome': None}
 
 Game Master:
 Early morning (06:15:00) in the dense thickets of the Riverlands—the mist has deepened into a grey wall, clinging to the Shadow-Stitched Reinforced Mail (Lvl 6) as you and Kyra (Lvl 5) slip away from the bickering lords. You move like a breath of cold wind, the enchanted leather of your armor drinking the gloom to keep you unseen. Beside you, Kyra is a wraith in the fog, her bow gripped loosely as she matches your predatory stride through the undergrowth.
@@ -850,8 +850,8 @@ Conditions: Disguised (Unstable) | Exhaustion: 0 | Inspiration: Yes]
 ⚔️ Soldiers: 80 | 🕵️ Spies: 0 | 👑 Elites: 4 (Avg Lvl 5)
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 1,500 | ✨ Arcana: 0/0
 Dice Rolls:
-  - {'outcome': None, 'dc': 15, 'roll': '1d20+10', 'result': 13, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': False, 'type': 'Disguise Self (Performance)'}
-  - {'outcome': None, 'dc': 18, 'roll': '2d20kh1+9', 'result': 23, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Infiltration Stealth (Advantage)'}
+  - {'dc': 15, 'margin': None, 'type': 'Disguise Self (Performance)', 'success': False, 'dc_reasoning': None, 'roll': '1d20+10', 'result': 13, 'dc_category': None, 'outcome': None}
+  - {'dc': 18, 'margin': None, 'type': 'Infiltration Stealth (Advantage)', 'success': True, 'dc_reasoning': None, 'roll': '2d20kh1+9', 'result': 23, 'dc_category': None, 'outcome': None}
 
 Game Master:
 Early morning (06:45:00) at the edge of the Frey secondary camp—the smell of horse manure and woodsmoke is thick in the humid air. You stand behind a cluster of gnarled oaks, whispering the incantation for *Disguise Self*. The magical shimmer ripples over your Shadow-Stitched Mail, lengthening your frame and dulling your sharp Bolton features into the likeness of the scout you just gutted. You look down at your hands; they are dirtier, more calloused, matching the dead man’s perfectly. 
@@ -881,8 +881,8 @@ Status: Lvl 6 Dreadblade Shadow | HP: 45/45 | XP: 14700/23000 | Gold: 1500gp]
 ⚔️ Soldiers: 80 | 🕵️ Spies: 0 | 👑 Elites: 4 (Avg Lvl 5)
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 1,500 | ✨ Arcana: 0/0
 Dice Rolls:
-  - {'outcome': None, 'dc': 18, 'roll': '1d20+9', 'result': 24, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Stealth (Assassination)'}
-  - {'outcome': None, 'dc': 13, 'roll': '1d20+8', 'result': 28, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Attack with The Whisper'}
+  - {'dc': 18, 'margin': None, 'type': 'Stealth (Assassination)', 'success': True, 'dc_reasoning': None, 'roll': '1d20+9', 'result': 24, 'dc_category': None, 'outcome': None}
+  - {'dc': 13, 'margin': None, 'type': 'Attack with The Whisper', 'success': True, 'dc_reasoning': None, 'roll': '1d20+8', 'result': 28, 'dc_category': None, 'outcome': None}
 
 Game Master:
 Early morning (06:46:30) at the edge of the Frey secondary camp—the suspicious guard is still squinting into the mist, his hand hovering over his rusted hilt. You don't give him the chance to find his voice. As he opens his mouth to shout for the sergeant, you dissolve into the grey fog, moving with the preternatural silence of the Dreadblade Shadow.
@@ -907,8 +907,8 @@ Conditions: Disguised (Frey Scout), Expertise (CHA Skills), Stealth Advantage]
 ⚔️ Soldiers: 80 | 🕵️ Spies: 0 | 👑 Elites: 4 (Avg Lvl 5)
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 1,500 | ✨ Arcana: 0/0
 Dice Rolls:
-  - {'outcome': None, 'dc': 18, 'roll': '1d20+9', 'result': 18, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Stealth to enter tent'}
-  - {'outcome': None, 'dc': 15, 'roll': '1d20+2', 'result': 10, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': False, 'type': 'Investigation for loot/maps'}
+  - {'dc': 18, 'margin': None, 'type': 'Stealth to enter tent', 'success': True, 'dc_reasoning': None, 'roll': '1d20+9', 'result': 18, 'dc_category': None, 'outcome': None}
+  - {'dc': 15, 'margin': None, 'type': 'Investigation for loot/maps', 'success': False, 'dc_reasoning': None, 'roll': '1d20+2', 'result': 10, 'dc_category': None, 'outcome': None}
 
 Game Master:
 Early morning (07:05:00) at the Frey Secondary Camp—the mist is beginning to burn off under the pale, watery sun, revealing the ragged lines of tents and the stir of waking men. You move through the camp like a flicker of shadow, the likeness of the dead scout Pate holding firm as you weave between supply wagons and small cooking fires. The guard you silenced lies cold beneath the wagon, but the alarm hasn't been raised yet; the sergeant is still shouting into the fog, his frustration masking the growing danger.
@@ -938,10 +938,10 @@ Conditions: Disguised (Pate) | Exhaustion: 0 | Inspiration: Yes]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 1,500 | ✨ Arcana: 0/0
 Resources: HD: 6/6, Spells: L1 4/4, L2 2/2, Dreadful Dice: 3/3, Potions: 0/0
 Dice Rolls:
-  - {'outcome': None, 'dc': 16, 'roll': '1d20+10', 'result': 27, 'dc_category': None, 'dc_reasoning': 'High risk shadow maneuver: stealthily observing a camp that is alert to a missing guard while picking off fleeing targets.', 'margin': None, 'success': True, 'type': 'Stealth (Expertise)'}
-  - {'outcome': None, 'dc': 13, 'roll': '1d20+8', 'result': 13, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': "Flayer's Oath Attack 1"}
-  - {'outcome': None, 'dc': None, 'roll': '1d8+1d8+5', 'result': 12, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': None, 'type': "Flayer's Oath Damage"}
-  - {'outcome': None, 'dc': 13, 'roll': '1d20+7', 'result': 15, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': "Kyra's Longbow Shot"}
+  - {'dc': 16, 'margin': None, 'type': 'Stealth (Expertise)', 'success': True, 'dc_reasoning': 'High risk shadow maneuver: stealthily observing a camp that is alert to a missing guard while picking off fleeing targets.', 'roll': '1d20+10', 'result': 27, 'dc_category': None, 'outcome': None}
+  - {'dc': 13, 'margin': None, 'type': "Flayer's Oath Attack 1", 'success': True, 'dc_reasoning': None, 'roll': '1d20+8', 'result': 13, 'dc_category': None, 'outcome': None}
+  - {'dc': None, 'margin': None, 'type': "Flayer's Oath Damage", 'success': None, 'dc_reasoning': None, 'roll': '1d8+1d8+5', 'result': 12, 'dc_category': None, 'outcome': None}
+  - {'dc': 13, 'margin': None, 'type': "Kyra's Longbow Shot", 'success': True, 'dc_reasoning': None, 'roll': '1d20+7', 'result': 15, 'dc_category': None, 'outcome': None}
 
 Game Master:
 Early morning (07:35:00) on the ridge overlooking the Frey Secondary Camp—the sun has begun to strip away the mist, revealing a scene of quiet, creeping horror. You crouch beside Kyra (Lvl 5), your Shadow-Stitched Reinforced Mail (Lvl 6) blending perfectly with the damp lichen and dark stone of the overlook. Below, the camp is dying. 
@@ -1008,8 +1008,8 @@ Conditions: None | Exhaustion: 0 | Inspiration: Yes]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 1,500 | ✨ Arcana: 0/0
 Resources: HD: 6/6 | Spells: L1 4/4, L2 2/2 | Dreadful Dice: 3/3 | Potions: 0/0
 Dice Rolls:
-  - {'outcome': None, 'dc': 12, 'roll': '2d20kh1+9', 'result': 12, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Stealth (Advantage)'}
-  - {'outcome': None, 'dc': 10, 'roll': '1d20+2', 'result': 17, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Investigation (Looting)'}
+  - {'dc': 12, 'margin': None, 'type': 'Stealth (Advantage)', 'success': True, 'dc_reasoning': None, 'roll': '2d20kh1+9', 'result': 12, 'dc_category': None, 'outcome': None}
+  - {'dc': 10, 'margin': None, 'type': 'Investigation (Looting)', 'success': True, 'dc_reasoning': None, 'roll': '1d20+2', 'result': 17, 'dc_category': None, 'outcome': None}
 
 Game Master:
 The sun begins to bake the morning mist away, revealing the grisly fruit of your labor. You rise from the ridgeline, a dark specter against the awakening sky, and give a sharp, bird-like whistle. Kyra (Lvl 5) stands beside you, her bow already lowered as the last of the camp's defenders—a staggering sergeant clutching his throat—collapses into a muddy puddle.
@@ -1040,8 +1040,8 @@ Conditions: None | Exhaustion: 0 | Inspiration: Yes]
 ⚔️ Soldiers: 80 | 🕵️ Spies: 0 | 👑 Elites: 0 (Avg Lvl 0)
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 1,500 | ✨ Arcana: 0/0
 Dice Rolls:
-  - {'outcome': None, 'dc': 12, 'roll': '1d20+10', 'result': 26, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'persuasion_soldiers'}
-  - {'outcome': None, 'dc': 16, 'roll': '1d20+10', 'result': 12, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': False, 'type': 'persuasion_robb'}
+  - {'dc': 12, 'margin': None, 'type': 'persuasion_soldiers', 'success': True, 'dc_reasoning': None, 'roll': '1d20+10', 'result': 26, 'dc_category': None, 'outcome': None}
+  - {'dc': 16, 'margin': None, 'type': 'persuasion_robb', 'success': False, 'dc_reasoning': None, 'roll': '1d20+10', 'result': 12, 'dc_category': None, 'outcome': None}
 
 Game Master:
 Morning (08:35:00) in the hidden Riverlands camp—the air is thick with the scent of damp wool and the metallic tang of the three heads you've brought back as trophies. You do not wait for the lords to recover their tongues. You signal Skinner (Lvl 5) and Grunt (Lvl 5), who haul the heavy iron chest of Frey silver into the center of the camp. 
@@ -1075,7 +1075,7 @@ Conditions: Expertise Active | Exhaustion: 0 | Inspiration: Yes]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 1,500 | ✨ Arcana: 0/0
 Resources: HD: 6/6, Spells: L1 4/4, L2 2/2, Dreadful Dice: 3/3
 Dice Rolls:
-  - {'outcome': None, 'dc': 16, 'roll': '1d20+10', 'result': 15, 'dc_category': None, 'dc_reasoning': None, 'margin': None, 'success': False, 'type': 'Persuasion (Pragmatism)'}
+  - {'dc': 16, 'margin': None, 'type': 'Persuasion (Pragmatism)', 'success': False, 'dc_reasoning': None, 'roll': '1d20+10', 'result': 15, 'dc_category': None, 'outcome': None}
 
 Game Master:
 Morning (08:35:00) in the hidden Riverlands camp—the sun is a pale, sickly disc struggling against the canopy as the Northern host begins to stir with the heavy, metallic clink of coin being distributed. Within the quiet confines of the command tent, the air is thick with the scent of unwashed wool and the sharp, iron tang of the Frey trophies sitting just outside the flap. You stand across from Robb Stark (Lvl 6), the dark ripples of Flayer's Oath (Lvl 6) gleaming at your hip as you watch the young King struggle with the weight of the crown you've helped him keep.

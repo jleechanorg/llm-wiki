@@ -2,11 +2,11 @@
 title: "Daemon conquers"
 type: source
 tags: [campaign, daemon-conquers-tg37yPXr]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/tg37yPXra7HQfYKmgDOj/Daemon conquers_tg37yPXr.txt
 campaign_id: tg37yPXra7HQfYKmgDOj
 entry_count: 471
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 ============================================================

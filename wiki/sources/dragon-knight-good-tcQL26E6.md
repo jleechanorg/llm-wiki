@@ -2,11 +2,11 @@
 title: "Dragon knight good"
 type: source
 tags: [campaign, dragon-knight-good-tcQL26E6]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/tcQL26E6XvqBJGfaLtE8/Dragon knight good_tcQL26E6.txt
 campaign_id: tcQL26E6XvqBJGfaLtE8
 entry_count: 460
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:
