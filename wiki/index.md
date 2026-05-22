@@ -18,6 +18,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 - [WorldArchitect.AI System Architecture v3.0](sources/worldarchitect-system-architecture-v3.md) — Deep architecture: 14 agents, token budget, dice integrity, factions, prompt library
 - [WorldArchitect.AI README (Restructured)](sources/worldarchitect-readme-restructured.md) — Exec summary README with system diagram and deep-dive links
+- [autor SR-adversarial Design — 2026-05-13](sources/autor-sr-adversarial-design-2026-05-13.md) — 2026-05-13: resolve divergent main branch; validate_router_prereqs.py `observations` → `scores` fix; SR-adversarial technique added to run_autor_experiment.py; batch_sr5iter.py resolved to origin version
 
 ## Concepts
 
@@ -37,6 +38,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Scale Escalation Framework](campaigns/jleechan/scale-framework.md) — Why scale escalation works: same framework, larger magnitudes
 - [AI Adoption Spectrum](concepts/AIAdoptionSpectrum.md) — Wide variation in AI tool proficiency; managers need top-25% to effectively lead
 - [Timeline Compression Discovery](concepts/TimelineCompressionDiscovery.md) — Cut project timelines in half to surface real bottlenecks and prioritize AI investment
+- [autor Router Prerequisite Gate](concepts/autor-router-prerequisite-gate.md) — Structural gate: requires ≥5 matched PRs scored by ALL techniques AND ≥2 ranking reversals before router work can proceed
+- [autor SR-5iter Technique](concepts/autor-5iter-technique.md) — 5-round self-refinement; 3 runs per PR targeting PRs needing additional runs to reach n=3
 - [Manager Power Dynamics](concepts/ManagerPowerDynamics.md) — Every manager interaction carries implicit authority weight; casual engagement reads as scrutiny
 - [Administrative State Poisoning](concepts/AdministrativeStatePoisoning.md) — Admin shortcuts bypass cleanup, leaving stale modal flags that trap the session
 - [Admin Override Contract](concepts/AdminOverrideContract.md) — Declarative contract mapping admin/god-mode overrides to required post-override invariants

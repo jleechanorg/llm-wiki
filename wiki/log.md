@@ -38,6 +38,10 @@ Declarative cleanup contracts (`validate_pre/post_override_state()`) wired into 
 
 Git archaeology traced 5 bugs to original breaking PRs. PR #6844: combat trap from PR #2553/#3020 architectural gap. PR #6843: location fallback severed by PR #5563 schema validation. PR #6842: AND-logic CC guard from PR #6225 never fires for templates. PR #6841: .bind(this) leak from PR #1082. PR #6839: duplicated cooldown lists from PR #6308 caused NameError. New concept pages: [[SchemaFallbackSeverance]], [[DuplicatedConstantLists]], [[AndLogicModalExitGuard]]. Source: sources/root-cause-analysis-2026-05-09.md. [[jeffrey-oracle]]: NO.
 
+## [2026-05-13] ingest | autor SR-adversarial Design + Router Gate + SR-5iter
+
+2026-05-13 rebase session resolved divergent main branch across three scripts. validate_router_prereqs.py: `observations` key → `scores` key fix (correct per-technique n calculation). run_autor_experiment.py: SR-adversarial technique added (Solver+Attacker: generate fix, actively attack it, refine). batch_sr5iter.py: resolved to origin version targeting PRs needing runs to reach n=3 (6409,6418,6420,6429,6432 with 3 runs each = 15 total). New source page: [[autor-sr-adversarial-design-2026-05-13]]. New concept pages: [[autor-router-prerequisite-gate]] (structural gate: ≥5 matched PRs + ≥2 ranking reversals before router work), [[autor-5iter-technique]] (5-round self-refinement). [[jeffrey-oracle]]: NO.
+
 ## [2026-05-09] ingest | Admin Override State Poisoning Pattern
 
 God mode and admin override actions bypass state machine entry/exit protocols in `world_logic.py`. After the override, stale modal flags persist, trapping players in modal loops. Three separate PRs (#6844, #6842, #6825) independently discovered this pattern. Fix direction: `ADMIN_OVERRIDE_CONTRACTS` dict + `_validate_post_override_state()`. New concept pages: [[AdminOverrideContract]], [[ModalIntersection]], [[EventListenerMemoryLeak]]. Source: sources/feedback-2026-05-09-admin-override-state-poisoning.md. [[jeffrey-oracle]]: NO.
