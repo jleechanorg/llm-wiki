@@ -47,6 +47,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AND-Logic Modal Exit Guard](concepts/AndLogicModalExitGuard.md) — Modal exit guards requiring AND logic create impossible states
 
 ## Sources
+- [AO ralph lifecycle-worker: involuntary injection respawns after kill (2026-05-21)](sources/ao-ralph-lifecycle-worker-respawn-2026-05-21.md) — bead rev-3ey45; lifecycle-worker ralph = AO project monitor NOT ralph-wiggum; kill PID insufficient (launchd+2min watchdog); use `ao stop ralph` + `launchctl unload com.ao-runner.plist`; `ao session kill <id>` before manual sessions
+- [Inline Prompt Drift in agents.py (2026-05-22)](sources/2026-05-22-inline-prompt-drift-agents-py.md) — PR #6968: edit prompts/*_instruction.md instead of appending string literals inside build_system_instructions; mvp_site/agents.py at 3853 lines / 157 long literals
 - [Plist Template Drift Anti-Pattern — Hermes Launchd (2026-05-19)](sources/feedback-2026-05-19-plist-template-drift.md) — 4 drift classes: wrong placeholder, orphaned plists, MINIMAX behind interactive guard, source .bashrc in bash -c
 - [PR6906 Scope Freeze Before ZFC Guard Churn (2026-05-17)](sources/pr6906-scope-freeze-zfc-guard-churn-2026-05-17.md) — Freeze or split level-up/ZFC PRs when retained backend guards, evidence churn, and review-thread fixes replace the original prompt-first scope
 - [Opaque Choice IDs Need Resolver Contract (2026-05-15)](sources/opaque-choice-ids-resolver-contract-2026-05-15.md) — PR6906 lesson: RED contract tests first, schema/resolver boundary owns semantics, correction guards stay narrow
@@ -6404,3 +6406,5 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [setup-launchd.sh dry-run writes files bug](sources/setup-launchd-dryrun-2026-05-19.md) — 2026-05-19; dry-run must not write files; sed must follow DRY_RUN gate
 
 - [PR #6958 evidence: process_action over get_campaign_state](sources/pr6958-evidence-iteration3-process-action.md) — use process_action for fresh LLM planning_block, not get_campaign_state (cached)
+- [.claude_reference + LLM-first export guards](sources/claude-reference-llm-first-exports-2026-05-22.md) — 2026-05-22 — git mv for archived commands; Phase 0 + confirm gate for exports
+- [Worktree-safe integrate pattern](sources/integrate-worktree-safe-pattern.md)
