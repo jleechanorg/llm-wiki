@@ -2,11 +2,11 @@
 title: "Doberman"
 type: source
 tags: [campaign, doberman-XhYKMdue]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/XhYKMdueYYULy99Lax0Y/Doberman_XhYKMdue.txt
 campaign_id: XhYKMdueYYULy99Lax0Y
 entry_count: 272
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

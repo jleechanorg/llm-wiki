@@ -2,11 +2,11 @@
 title: "Rome pax Julia"
 type: source
 tags: [campaign, rome-pax-julia-yLW2asE4]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/yLW2asE4ZbUZYdpsmphe/Rome pax Julia_yLW2asE4.txt
 campaign_id: yLW2asE4ZbUZYdpsmphe
 entry_count: 949
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

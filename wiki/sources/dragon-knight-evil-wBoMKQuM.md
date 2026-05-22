@@ -2,11 +2,11 @@
 title: "Dragon knight evil"
 type: source
 tags: [campaign, dragon-knight-evil-wBoMKQuM]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/wBoMKQuMnvLfyjTFTBHd/Dragon knight evil_wBoMKQuM.txt
 campaign_id: wBoMKQuMnvLfyjTFTBHd
 entry_count: 1000
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

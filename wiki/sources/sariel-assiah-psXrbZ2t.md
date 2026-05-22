@@ -2,11 +2,11 @@
 title: "Sariel - Assiah"
 type: source
 tags: [campaign, sariel-assiah-psXrbZ2t]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/psXrbZ2tlT1KDnTLpdYK/Sariel - Assiah_psXrbZ2t.txt
 campaign_id: psXrbZ2tlT1KDnTLpdYK
 entry_count: 116
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

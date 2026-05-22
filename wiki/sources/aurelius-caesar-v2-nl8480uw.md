@@ -2,11 +2,11 @@
 title: "Aurelius caesar v2"
 type: source
 tags: [campaign, aurelius-caesar-v2-nl8480uw]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/nl8480uwPrNOnrHi9pqr/Aurelius caesar v2_nl8480uw.txt
 campaign_id: nl8480uwPrNOnrHi9pqr
 entry_count: 566
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

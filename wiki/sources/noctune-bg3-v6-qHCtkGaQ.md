@@ -2,11 +2,11 @@
 title: "noctune bg3 v6"
 type: source
 tags: [campaign, noctune-bg3-v6-qHCtkGaQ]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/qHCtkGaQdhoAeelmAP0f/noctune bg3 v6_qHCtkGaQ.txt
 campaign_id: qHCtkGaQdhoAeelmAP0f
 entry_count: 772
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

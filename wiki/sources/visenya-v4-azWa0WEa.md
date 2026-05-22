@@ -2,11 +2,11 @@
 title: "Visenya v4"
 type: source
 tags: [campaign, visenya-v4-azWa0WEa]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/azWa0WEav6sJC6lylLec/Visenya v4_azWa0WEa.txt
 campaign_id: azWa0WEav6sJC6lylLec
 entry_count: 836
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:
@@ -200,7 +200,7 @@ Location: Unknown
 Status: Lvl 6 Apex Weaver
 Resources: Spells: L1 4/4, L2 3/3, L3 3/3]
 Dice Rolls:
-  - {'result': 9, 'outcome': None, 'roll': '1d20+8', 'dc_reasoning': "Aerion is in a royal madness, but Visenya's Apex blood triggers his primal fear/inferiority.", 'margin': None, 'success': False, 'type': 'persuasion', 'dc': 15, 'dc_category': None}
+  - {'margin': None, 'result': 9, 'type': 'persuasion', 'outcome': None, 'dc_category': None, 'roll': '1d20+8', 'dc': 15, 'dc_reasoning': "Aerion is in a royal madness, but Visenya's Apex blood triggers his primal fear/inferiority.", 'success': False}
 
 Game Master:
 The Ashford air is thick with the scent of roasted meat and the metallic tang of impending violence. In the center of the muddy lane, the scene is a tableau of cruelty. Prince Aerion Targaryen, his face twisted into a mask of beautiful, porcelain madness, grips the fingers of Tanselle Too-Tall. The girl’s whimpers are rhythmic, punctuated by the sharp *crack* of bone. 
@@ -266,8 +266,8 @@ Status: Lvl 6 Apex Weaver | HP: 39/39 | XP: 14000/23000 | Leverage: 4/4]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: Leverage: 4/4, Spells: L1 4/4, L2 3/3, L3 3/3
 Dice Rolls:
-  - {'result': 25, 'outcome': None, 'roll': '1d20+7', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Apex Presence (Intimidation)', 'dc': 12, 'dc_category': None}
-  - {'result': 20, 'outcome': None, 'roll': '1d20+3', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Royal Insight (Insight)', 'dc': 15, 'dc_category': None}
+  - {'margin': None, 'result': 25, 'type': 'Apex Presence (Intimidation)', 'outcome': None, 'dc_category': None, 'roll': '1d20+7', 'dc': 12, 'dc_reasoning': None, 'success': True}
+  - {'margin': None, 'result': 20, 'type': 'Royal Insight (Insight)', 'outcome': None, 'dc_category': None, 'roll': '1d20+3', 'dc': 15, 'dc_reasoning': None, 'success': True}
 
 Game Master:
 Evening (18:05:00) in the Ashford Tourney Grounds—the setting sun casts long, bloody shadows across the mud as you exert your will over the chaos. Your voice, laced with the subsonic vibration of the Silver Song, cuts through Aerion's brittle laughter like a razor through silk. 
@@ -375,8 +375,8 @@ Status: Lvl 6 Apex Weaver | HP: 39/39 | XP: 14000/23000 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: Leverage: 4/4, Spells: L1 4/4, L2 3/3, L3 3/3
 Dice Rolls:
-  - {'result': 12, 'outcome': None, 'roll': '1d20+2', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Duncan Insight', 'dc': 12, 'dc_category': None}
-  - {'result': 16, 'outcome': None, 'roll': '1d20+7', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Visenya Persuasion (Duncan)', 'dc': 10, 'dc_category': None}
+  - {'margin': None, 'result': 12, 'type': 'Duncan Insight', 'outcome': None, 'dc_category': None, 'roll': '1d20+2', 'dc': 12, 'dc_reasoning': None, 'success': True}
+  - {'margin': None, 'result': 16, 'type': 'Visenya Persuasion (Duncan)', 'outcome': None, 'dc_category': None, 'roll': '1d20+7', 'dc': 10, 'dc_reasoning': None, 'success': True}
 
 Game Master:
 Evening (18:05:05) in the Ashford Tourney Grounds—the mud beneath your boots feels like a pedestal as the world recalibrates around your arrival. You have never met this man, Ser Duncan (Lvl 4), yet you see the gears of his mind grinding beneath the bruises and the shock. He looks at you, not with the familiarity of a travel companion, but with the raw, blinding awe of a man who has just seen a star fall into a pigsty.
@@ -405,7 +405,7 @@ Status: Lvl 6 Apex Weaver | HP: 39/39 | XP: 14000/23000 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: Leverage: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3 | Exhaustion: 0
 Dice Rolls:
-  - {'result': 26, 'outcome': None, 'roll': '1d20+10', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Persuasion/Intimidation (Invoking Maekar)', 'dc': 15, 'dc_category': None}
+  - {'margin': None, 'result': 26, 'type': 'Persuasion/Intimidation (Invoking Maekar)', 'outcome': None, 'dc_category': None, 'roll': '1d20+10', 'dc': 15, 'dc_reasoning': None, 'success': True}
 
 Game Master:
 Evening (18:07:30) in the Ashford Tourney Grounds—the setting sun bleeds crimson across the muddy thoroughfare, silhouetting your form against the rising smoke of the campfires. You turn your crystalline gaze away from the broken puppeteer and the stunned knight, fixing it instead on your younger brother. 
@@ -439,7 +439,7 @@ Status: Lvl 6 Apex Weaver | HP: 39/39 | XP: 14000/23000 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: Leverage: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3 | Exhaustion: 0
 Dice Rolls:
-  - {'result': 15, 'outcome': None, 'roll': '1d20+7', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Baelarys Authority', 'dc': 12, 'dc_category': None}
+  - {'margin': None, 'result': 15, 'type': 'Baelarys Authority', 'outcome': None, 'dc_category': None, 'roll': '1d20+7', 'dc': 12, 'dc_reasoning': None, 'success': True}
 
 Game Master:
 Late evening (18:09:45) in the Ashford Tourney Grounds—the lingering heat of the day escapes into the darkening sky, leaving the mud cold and the air sharp with tension. You step toward Prince Aerion (Lvl 4), your presence expanding until the chaotic noise of the nearby stalls seems to mute into a low, rhythmic hum. 
@@ -464,8 +464,8 @@ Status: Lvl 6 Apex Weaver | HP: 39/39 | XP: 14000/23000 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Leverage: 4/4 | Exhaustion: 0
 Dice Rolls:
-  - {'result': 10, 'outcome': None, 'roll': '1d20+7', 'dc_reasoning': None, 'margin': None, 'success': False, 'type': 'Geometric Repair (Mending)', 'dc': 12, 'dc_category': None}
-  - {'result': 16, 'outcome': None, 'roll': '1d20+7', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Persuasion (The Hard Truth)', 'dc': 13, 'dc_category': None}
+  - {'margin': None, 'result': 10, 'type': 'Geometric Repair (Mending)', 'outcome': None, 'dc_category': None, 'roll': '1d20+7', 'dc': 12, 'dc_reasoning': None, 'success': False}
+  - {'margin': None, 'result': 16, 'type': 'Persuasion (The Hard Truth)', 'outcome': None, 'dc_category': None, 'roll': '1d20+7', 'dc': 13, 'dc_reasoning': None, 'success': True}
 
 Game Master:
 Late evening (18:15:00) in the Ashford Tourney Grounds—the bloody hues of sunset have faded into a bruised purple, much like the swelling on Tanselle’s hands. You kneel in the Ashford mud, your fine silks contrasting sharply with the filth as you take the puppeteer's hand in yours. You reach for the 'marrow' of the world, attempting to weave the fractured geometry of her small bones back into alignment. However, the chaos of the crowd and the heavy, stagnant air of the hedge-knight camp dampen your resonance; the bones remain misaligned, though your touch at least numbs the immediate fire of the pain.
@@ -492,7 +492,7 @@ Status: Lvl 6 Apex Weaver | HP: 39/39 | XP: 14000/23000 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Leverage: 4/4 | Exhaustion: 0
 Dice Rolls:
-  - {'result': 13, 'outcome': None, 'roll': '1d20+4', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Mending (Healing Tanselle)', 'dc': 10, 'dc_category': None}
+  - {'margin': None, 'result': 13, 'type': 'Mending (Healing Tanselle)', 'outcome': None, 'dc_category': None, 'roll': '1d20+4', 'dc': 10, 'dc_reasoning': None, 'success': True}
 
 Game Master:
 Late evening (18:20:00) in the Ashford Tourney Grounds—the violet light of the Baelarys sun seems to linger on your fingertips as you kneel before Tanselle. You take her hand, your touch surgical and certain. You do not merely treat the wound; you visualize the shattered geometry of the bone and hum a single, subsonic note—the resonance of mending. Under your palm, there is a faint, rhythmic pulse as the bone knits itself back together in seconds. Tanselle gasps, her eyes widening as the swelling recedes and the pain vanishes entirely. 
@@ -519,7 +519,7 @@ Status: Lvl 6 Apex Weaver | HP: 39/39 | XP: 14000/23000 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Leverage Dice: 4/4 | Exhaustion: 0
 Dice Rolls:
-  - {'result': 14, 'outcome': None, 'roll': '1d20+8', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Apex Presence (Escort)', 'dc': 12, 'dc_category': None}
+  - {'margin': None, 'result': 14, 'type': 'Apex Presence (Escort)', 'outcome': None, 'dc_category': None, 'roll': '1d20+8', 'dc': 12, 'dc_reasoning': None, 'success': True}
 
 Game Master:
 Late evening (18:35:00) along the muddy path from the tourney grounds to the Ashford Castle gates—the violet hues of the Baelarys twilight deepen into a cold, ink-black night. You walk at the shoulder of Ser Duncan (Lvl 4), your stride measured and geometric, a stark contrast to the giant's heavy, rhythmic tread. Beside you, Aegon (Lvl 1) is a small, silent shadow, his eyes fixed on the dirt, still clutching the rough hem of Dunk's tunic.
@@ -612,7 +612,7 @@ Status: Lvl 6 Apex Weaver | HP: 39/39 | XP: 14350/23000 | Gold: 10gp
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Leverage Dice: 4/4 | Exhaustion: 0
 Dice Rolls:
-  - {'result': 22, 'outcome': None, 'roll': '1d20+7', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': "Persuasion (Architect's Mind)", 'dc': 18, 'dc_category': None}
+  - {'margin': None, 'result': 22, 'type': "Persuasion (Architect's Mind)", 'outcome': None, 'dc_category': None, 'roll': '1d20+7', 'dc': 18, 'dc_reasoning': None, 'success': True}
 
 Game Master:
 Night (18:55:00) falls over Ashford, and the Royal Pavilion glows like a paper lantern against the dark, a sanctuary of silk and steel. You stride past the guards, your steps silent and predatory, the cold air of the dungeon still clinging to your hair. Inside, the atmosphere is thick enough to choke a lesser dragon. 
@@ -648,7 +648,7 @@ Status: Lvl 6 Apex Weaver | HP: 39/39 | XP: 14350/23000 | Gold: 10gp]
 🏰 Territory: 200 | 🏛️ Citizens: 8,000/10,000 | 💰 Gold: 500 | ✨ Arcana: 0/0
 Resources: HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Leverage Dice: 4/4 | Exhaustion: 0
 Dice Rolls:
-  - {'result': 15, 'outcome': None, 'roll': '1d20+1', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': "Aerion's Trial Proposal", 'dc': 14, 'dc_category': None}
+  - {'margin': None, 'result': 15, 'type': "Aerion's Trial Proposal", 'outcome': None, 'dc_category': None, 'roll': '1d20+1', 'dc': 14, 'dc_reasoning': None, 'success': True}
 
 Game Master:
 Night (19:10:00) in the Royal Pavilion—the tension in the room stretches thin as a bowstring, threatening to snap at the slightest touch. Aerion (Lvl 4) stands abruptly, his wine goblet hitting the table with a sharp, echoing *clack*. His face is no longer pale with fear, but flushed with a sudden, ugly inspiration. He looks at you, his eyes burning with a hatred that even your presence cannot fully dampen.
@@ -675,7 +675,7 @@ Status: Lvl 6 Apex Weaver | HP: 39/39 | XP: 14350/23000 | Alignment: Neutral Evi
 🏰 Territory: 200 | 🏛️ Citizens: 8,000/10,000 | 💰 Gold: 500 | ✨ Arcana: 0/0
 Resources: HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Leverage Dice: 4/4 | Exhaustion: 0
 Dice Rolls:
-  - {'result': 18, 'outcome': None, 'roll': '1d20+7', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': "Persuasion (Architect's Mind) vs Maekar", 'dc': 18, 'dc_category': None}
+  - {'margin': None, 'result': 18, 'type': "Persuasion (Architect's Mind) vs Maekar", 'outcome': None, 'dc_category': None, 'roll': '1d20+7', 'dc': 18, 'dc_reasoning': None, 'success': True}
 
 Game Master:
 Night (19:15:00) in the Royal Pavilion—the word hangs in the air like a poisoned blade, vibrating with the sick, manic energy Aerion (Lvl 4) has poured into it. A Trial of Seven. The ancient, bloody tradition of the Faith, rarely seen and even more rarely survived.
@@ -718,7 +718,7 @@ Conditions: None | Exhaustion: 0 | Inspiration: No]
 🏰 Territory: 200 | 🏛️ Citizens: 8,000/10,000 | 💰 Gold: 500 | ✨ Arcana: 0/0
 Resources: HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Leverage Dice: 4/4 | Exhaustion: 0
 Dice Rolls:
-  - {'result': 19, 'outcome': None, 'roll': '1d20+8', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': "Persuasion (Architect's Mind)", 'dc': 14, 'dc_category': None}
+  - {'margin': None, 'result': 19, 'type': "Persuasion (Architect's Mind)", 'outcome': None, 'dc_category': None, 'roll': '1d20+8', 'dc': 14, 'dc_reasoning': None, 'success': True}
 
 Game Master:
 Night (19:45:00) in the Ashford Castle Dungeons—the damp chill of the stone walls seeps through your fine silks as you return to the cell where you left the giant. The torchlight flickers, casting long, distorted shadows that dance like specters across the iron bars. Egg (Lvl 1) clings to your hand, his small fingers trembling, his face pale with the weight of the news you carry.
@@ -766,7 +766,7 @@ Conditions: None | Exhaustion: 0 | Inspiration: No]
 🏰 Territory: 200 | 🏛️ Citizens: 8,000/10,000 | 💰 Gold: 500 | ✨ Arcana: 0/0
 Resources: HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Leverage: 4/4
 Dice Rolls:
-  - {'result': 10, 'outcome': None, 'roll': '1d20+2', 'dc_reasoning': 'Egg is young, but his sincerity and royal lineage lend weight to his words.', 'margin': None, 'success': False, 'type': 'Egg Persuading Dunk', 'dc': 12, 'dc_category': None}
+  - {'margin': None, 'result': 10, 'type': 'Egg Persuading Dunk', 'outcome': None, 'dc_category': None, 'roll': '1d20+2', 'dc': 12, 'dc_reasoning': 'Egg is young, but his sincerity and royal lineage lend weight to his words.', 'success': False}
 
 Game Master:
 Night (19:50:00) in the Ashford Castle Dungeons—the iron door groans shut behind you as you depart, leaving the giant and the prince in the flickering amber glow of a single torch. You stride toward the upper levels, your mind already dissecting the guest lists of every Great House currently camped beneath the castle walls.
@@ -820,7 +820,7 @@ Status: Lvl 6 Apex Weaver | HP: 39/39 | XP: 14500/23000 | Gold: 10gp]
 🏰 Territory: 200 | 🏛️ Citizens: 8,000/10,000 | 💰 Gold: 500 | ✨ Arcana: 0/0
 Resources: HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Leverage: 4/4 | Exhaustion: 0
 Dice Rolls:
-  - {'result': 19, 'outcome': None, 'roll': '1d20+2', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Egg Persuasion (Deep Bond)', 'dc': 12, 'dc_category': None}
+  - {'margin': None, 'result': 19, 'type': 'Egg Persuasion (Deep Bond)', 'outcome': None, 'dc_category': None, 'roll': '1d20+2', 'dc': 12, 'dc_reasoning': None, 'success': True}
 
 Game Master:
 Night (19:55:00) in the Ashford Castle Dungeons—the torchlight gutters as a draft sweeps through the stone corridor, casting shadows that seem to shrink away from Aegon (Lvl 1) as he leans closer to the giant. You have already ascended to the courtyard, but your presence lingers in the cell like the scent of ozone before a lightning strike.
@@ -847,12 +847,12 @@ Status: Lvl 6 Apex Weaver | HP: 39/39 | XP: 14500/23000 | Alignment: Neutral]
 🏰 Territory: 200 | 🏛️ Citizens: 8,000/10,000 | 💰 Gold: 500 | ✨ Arcana: 0/0
 Resources: HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Leverage: 4/4 | Exhaustion: 0
 Dice Rolls:
-  - {'result': 8, 'outcome': None, 'roll': '1d20+2', 'dc_reasoning': None, 'margin': None, 'success': False, 'type': 'Persuade Raymun/Steffon (Dunk)', 'dc': 13, 'dc_category': None}
-  - {'result': 18, 'outcome': None, 'roll': '1d20+4', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Persuade Lyonel Baratheon', 'dc': 15, 'dc_category': None}
-  - {'result': 18, 'outcome': None, 'roll': '1d20+4', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Persuade Humfrey Hardyng', 'dc': 14, 'dc_category': None}
-  - {'result': 13, 'outcome': None, 'roll': '1d20+4', 'dc_reasoning': None, 'margin': None, 'success': False, 'type': 'Persuade Humfrey Beesbury', 'dc': 14, 'dc_category': None}
-  - {'result': 17, 'outcome': None, 'roll': '1d20+4', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Persuade Robyn Rhysling', 'dc': 16, 'dc_category': None}
-  - {'result': 17, 'outcome': None, 'roll': '1d20+4', 'dc_reasoning': None, 'margin': None, 'success': False, 'type': 'Persuade Valerius (7th Knight)', 'dc': 18, 'dc_category': None}
+  - {'margin': None, 'result': 8, 'type': 'Persuade Raymun/Steffon (Dunk)', 'outcome': None, 'dc_category': None, 'roll': '1d20+2', 'dc': 13, 'dc_reasoning': None, 'success': False}
+  - {'margin': None, 'result': 18, 'type': 'Persuade Lyonel Baratheon', 'outcome': None, 'dc_category': None, 'roll': '1d20+4', 'dc': 15, 'dc_reasoning': None, 'success': True}
+  - {'margin': None, 'result': 18, 'type': 'Persuade Humfrey Hardyng', 'outcome': None, 'dc_category': None, 'roll': '1d20+4', 'dc': 14, 'dc_reasoning': None, 'success': True}
+  - {'margin': None, 'result': 13, 'type': 'Persuade Humfrey Beesbury', 'outcome': None, 'dc_category': None, 'roll': '1d20+4', 'dc': 14, 'dc_reasoning': None, 'success': False}
+  - {'margin': None, 'result': 17, 'type': 'Persuade Robyn Rhysling', 'outcome': None, 'dc_category': None, 'roll': '1d20+4', 'dc': 16, 'dc_reasoning': None, 'success': True}
+  - {'margin': None, 'result': 17, 'type': 'Persuade Valerius (7th Knight)', 'outcome': None, 'dc_category': None, 'roll': '1d20+4', 'dc': 18, 'dc_reasoning': None, 'success': False}
 
 Game Master:
 Night (20:00:00) falls over the Ashford tourney grounds for the second time since the giant’s arrest. The three-day countdown is a tightening noose, and the air in the 'hedge knight' camp is thick with the scent of cheap ale and desperate ambition. While Ser Duncan (Lvl 4) remains in his cell, his name has become a rallying cry for some and a curse for others.
@@ -902,7 +902,7 @@ Status: Lvl 6 Apex Weaver | HP: 39/39 | XP: 14500/23000 | Gold: 500gp]
 🏰 Territory: 200 | 🏛️ Citizens: 8,000/10,000 | 💰 Gold: 500 | ✨ Arcana: 0/0
 Resources: Leverage: 4/4, Spells: L1 4/4, L2 3/3, L3 3/3, Exhaustion: 0
 Dice Rolls:
-  - {'result': 20, 'outcome': None, 'roll': '1d20+4', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': "Persuasion (Dunk's Loyalty)", 'dc': 12, 'dc_category': None}
+  - {'margin': None, 'result': 20, 'type': "Persuasion (Dunk's Loyalty)", 'outcome': None, 'dc_category': None, 'roll': '1d20+4', 'dc': 12, 'dc_reasoning': None, 'success': True}
 
 Game Master:
 Night (20:15:00) in the Royal Pavilion Guard Barracks—the scent of lavender and expensive oils from the royal quarters bleeds into the iron-and-leather tang of the barracks. Ser Duncan (Lvl 4) stands by the narrow window, his massive silhouette blocking out the campfires of the tourney grounds. He turns as you enter, the sheer relief on his face making him look younger, less like a warrior and more like the man Egg has described. 
@@ -974,8 +974,8 @@ Status: Lvl 6 Apex Weaver | HP: 39/39 | XP: 14500/23000 | Gold: 10gp]
 🏰 Territory: 200 | 🏛️ Citizens: 8,000/10,000 | 💰 Gold: 500 | ✨ Arcana: 0/0
 Resources: Leverage: 4/4, Spells: L1 4/4, L2 3/3, L3 3/3, Exhaustion: 0
 Dice Rolls:
-  - {'result': 5, 'outcome': None, 'roll': '1d20+1', 'dc_reasoning': None, 'margin': None, 'success': False, 'type': 'Aegon Insight', 'dc': 12, 'dc_category': None}
-  - {'result': 15, 'outcome': None, 'roll': '1d20+0', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Duncan Wisdom Save', 'dc': 15, 'dc_category': None}
+  - {'margin': None, 'result': 5, 'type': 'Aegon Insight', 'outcome': None, 'dc_category': None, 'roll': '1d20+1', 'dc': 12, 'dc_reasoning': None, 'success': False}
+  - {'margin': None, 'result': 15, 'type': 'Duncan Wisdom Save', 'outcome': None, 'dc_category': None, 'roll': '1d20+0', 'dc': 15, 'dc_reasoning': None, 'success': True}
 
 Game Master:
 Night (20:25:00) in the Royal Pavilion Guard Barracks—the torchlight flickers across the stone walls, casting long, wavering shadows as you leave Duncan (Lvl 4) and Aegon (Lvl 1) to their thoughts. 
@@ -998,7 +998,7 @@ Status: Lvl 6 Apex Weaver | HP: 39/39 | XP: 14500/23000 | Gold: 10gp]
 🏰 Territory: 200 | 🏛️ Citizens: 8,000/10,000 | 💰 Gold: 500 | ✨ Arcana: 0/0
 Resources: Leverage: 4/4, Spells: L1 4/4, L2 3/3, L3 3/3, Exhaustion: 0
 Dice Rolls:
-  - {'result': 8, 'outcome': None, 'roll': '1d20+2', 'dc_reasoning': None, 'margin': None, 'success': False, 'type': 'Duncan Insight', 'dc': 18, 'dc_category': None}
+  - {'margin': None, 'result': 8, 'type': 'Duncan Insight', 'outcome': None, 'dc_category': None, 'roll': '1d20+2', 'dc': 18, 'dc_reasoning': None, 'success': False}
 
 Game Master:
 Night (20:35:00) in the Royal Pavilion Guard Barracks—the heavy velvet curtains of the pavilion dampen the sounds of the bustling tourney grounds outside, leaving the room in a heavy, flickering silence. You have vanished into the shadows of the castle, leaving the giant and the boy to the weight of your mercy.
@@ -1033,7 +1033,7 @@ Status: Lvl 6 Apex Weaver | HP: 39/39 | XP: 14500/23000 | Gold: 10gp]
 🏰 Territory: 200 | 🏛️ Citizens: 8,000/10,000 | 💰 Gold: 500 | ✨ Arcana: 0/0
 Resources: HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Leverage: 4/4, Exhaustion: 0
 Dice Rolls:
-  - {'result': 24, 'outcome': None, 'roll': '1d20+7', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': "Persuasion (Architect's Mind) vs Lyonel Baratheon", 'dc': 18, 'dc_category': None}
+  - {'margin': None, 'result': 24, 'type': "Persuasion (Architect's Mind) vs Lyonel Baratheon", 'outcome': None, 'dc_category': None, 'roll': '1d20+7', 'dc': 18, 'dc_reasoning': None, 'success': True}
 
 Game Master:
 Morning (08:00:00) breaks over the Ashford Tourney Grounds, the rising sun struggling to pierce a thick, suffocating fog that clings to the mud. You awake from a deep, calculated rest within the Royal Pavilion, your mind sharp and your blood humming with the subsonic resonance of the Weaver. The peace is short-lived.
@@ -1092,7 +1092,7 @@ Status: Lvl 6 Apex Weaver | HP: 39/39 | XP: 14500/23000 | Gold: 10gp]
 🏰 Territory: 200 | 🏛️ Citizens: 8,000/10,000 | 💰 Gold: 500 | ✨ Arcana: 0/0
 Resources: HD: 6/6, Spells: L1 4/4, L2 3/3, L3 3/3, Leverage: 4/4, Exhaustion: 0
 Dice Rolls:
-  - {'result': 11, 'outcome': None, 'roll': '1d20+7', 'dc_reasoning': None, 'margin': None, 'success': False, 'type': "Persuasion (Architect's Mind) vs Lyonel Baratheon", 'dc': 18, 'dc_category': None}
+  - {'margin': None, 'result': 11, 'type': "Persuasion (Architect's Mind) vs Lyonel Baratheon", 'outcome': None, 'dc_category': None, 'roll': '1d20+7', 'dc': 18, 'dc_reasoning': None, 'success': False}
 
 Game Master:
 Morning (08:05:00) in the Ashford Tourney Grounds—the fog curls around your silver-mailed form like a living shroud as you sink to one knee before the Laughing Storm. The silence that follows is not peaceful; it is the breathless moment before a castle wall collapses. 
@@ -1131,7 +1131,7 @@ Conditions: Knighted | Inspiration: Yes]
 🏰 Territory: 200 | 🏛️ Citizens: 8,000/10,000 | 💰 Gold: 500 | ✨ Arcana: 0/0
 Resources: HD: 6/6 | Leverage: 4/4 | Spells: L1 4/4, L2 3/3, L3 3/3
 Dice Rolls:
-  - {'result': 28, 'outcome': None, 'roll': '1d20+10', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Persuasion (Lyonel Baratheon)', 'dc': 18, 'dc_category': None}
+  - {'margin': None, 'result': 28, 'type': 'Persuasion (Lyonel Baratheon)', 'outcome': None, 'dc_category': None, 'roll': '1d20+10', 'dc': 18, 'dc_reasoning': None, 'success': True}
 
 Game Master:
 Morning (08:15:00) in the Ashford Tourney Grounds—the thick fog seems to recoil from the cold radiance of your presence as you remain kneeling, your silver mail shimmering like starlight in the muck. 
@@ -1171,9 +1171,9 @@ Conditions: Mounted (Valyrian Pegasus) | Inspiration: No]
 🏰 Territory: 200 | 🏛️ Citizens: 8,000/10,000 | 💰 Gold: 500 | ✨ Arcana: 0/0
 Resources: HD: 6/6 | Leverage: 4/4 | Spells: L1 3/4, L2 3/3, L3 2/3, L4 0/1
 Dice Rolls:
-  - {'result': 19, 'outcome': None, 'roll': '1d20+1', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Aerion WIS Save vs Command', 'dc': 15, 'dc_category': None}
-  - {'result': 19, 'outcome': None, 'roll': '1d20+6', 'dc_reasoning': None, 'margin': None, 'success': True, 'type': 'Lance Attack vs Aerion AC', 'dc': 18, 'dc_category': None}
-  - {'result': 23, 'outcome': None, 'roll': '1d12+3 + 4d8', 'dc_reasoning': None, 'margin': None, 'success': None, 'type': 'Lance Damage + Silver Butcher (L3)', 'dc': None, 'dc_category': None}
+  - {'margin': None, 'result': 19, 'type': 'Aerion WIS Save vs Command', 'outcome': None, 'dc_category': None, 'roll': '1d20+1', 'dc': 15, 'dc_reasoning': None, 'success': True}
+  - {'margin': None, 'result': 19, 'type': 'Lance Attack vs Aerion AC', 'outcome': None, 'dc_category': None, 'roll': '1d20+6', 'dc': 18, 'dc_reasoning': None, 'success': True}
+  - {'margin': None, 'result': 23, 'type': 'Lance Damage + Silver Butcher (L3)', 'outcome': None, 'dc_category': None, 'roll': '1d12+3 + 4d8', 'dc': None, 'dc_reasoning': None, 'success': None}
 
 Game Master:
 Morning (08:20:00) at the Ashford Tourney Grounds—the fog has turned into a heavy, suffocating mist that clings to the silver scales of your armor. You sit astride a creature that should not exist

@@ -2,11 +2,11 @@
 title: "Nocturne apex paladin"
 type: source
 tags: [campaign, nocturne-apex-paladin-YwmfPO4e]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/YwmfPO4eXeWLBOoFLLg0/Nocturne apex paladin_YwmfPO4e.txt
 campaign_id: YwmfPO4eXeWLBOoFLLg0
 entry_count: 425
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

@@ -2,11 +2,11 @@
 title: "Stellaris - Nocturne V1 (repro-test)"
 type: source
 tags: [campaign, stellaris-nocturne-v1-repro-test-5MwN45BB]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/5MwN45BBcojDz9xG0g84/Stellaris - Nocturne V1 _repro-test__5MwN45BB.txt
 campaign_id: 5MwN45BBcojDz9xG0g84
 entry_count: 213
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

@@ -2,11 +2,11 @@
 title: "Nocturne bg3 v7"
 type: source
 tags: [campaign, nocturne-bg3-v7-As8y312E]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/As8y312Er2VJlxdaQ5VL/Nocturne bg3 v7_As8y312E.txt
 campaign_id: As8y312Er2VJlxdaQ5VL
 entry_count: 214
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:
@@ -879,7 +879,7 @@ SCENE 1
 ============================================================
 [{'scene_title': 'The First Disciple', 'location_description': 'Minthara’s War Room, Shattered Sanctum', 'active_party': ['Nocturne', 'Minthara (Thrall)'], 'resources': 'HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Inspiration: 5/5 | Thralls: 1/3'}]
 Dice Rolls:
-  - {'roll': '2d20kh1+11', 'dc': 10, 'dc_reasoning': "Conversion: Touch her forehead, channeling Malcanthet's love and Bhaal's authority simultaneously (Advantage provided by divine lineage)", 'margin': None, 'dc_category': None, 'outcome': None, 'success': True, 'result': 30, 'type': "Mother's Mercy (Conversion)"}
+  - {'outcome': None, 'dc_category': None, 'dc_reasoning': "Conversion: Touch her forehead, channeling Malcanthet's love and Bhaal's authority simultaneously (Advantage provided by divine lineage)", 'result': 30, 'success': True, 'type': "Mother's Mercy (Conversion)", 'margin': None, 'roll': '2d20kh1+11', 'dc': 10}
 
 Game Master:
 The air in the Shattered Sanctum thickens, the smell of cheap ale and goblin filth momentarily displaced by a sharp, impossible scent of crushed roses and ozone. You do not shout. You do not draw a blade. You simply step into Minthara’s personal space, your movements fluid and terrifyingly still.
@@ -1030,7 +1030,7 @@ Location: Unknown
 Status: Lvl 6 Bard (College of the Abyssal Siren)
 Resources: None]
 Dice Rolls:
-  - {'roll': '1d20+8', 'dc': 18, 'dc_reasoning': 'Inverting the high-level Rite of Thorns to siphon 150+ souls into a single vessel requires near-divine focus.', 'margin': None, 'dc_category': None, 'outcome': None, 'success': True, 'result': 19, 'type': 'Ritual Inversion'}
+  - {'outcome': None, 'dc_category': None, 'dc_reasoning': 'Inverting the high-level Rite of Thorns to siphon 150+ souls into a single vessel requires near-divine focus.', 'result': 19, 'success': True, 'type': 'Ritual Inversion', 'margin': None, 'roll': '1d20+8', 'dc': 18}
 
 Game Master:
 The Emerald Grove is no longer a sanctuary; it is a tomb. As the modified Rite of Thorns reaches its crescendo, the emerald energy that should have formed a wall of brambles instead turns a sickly, iridescent violet—the color of Nocturne’s eyes. 
@@ -1062,7 +1062,7 @@ Location: Unknown
 Status: Lvl 6 Bard (College of the Abyssal Siren)
 Resources: Spells: L3 3/3]
 Dice Rolls:
-  - {'roll': '1d8+2', 'dc': None, 'dc_reasoning': None, 'margin': None, 'dc_category': None, 'outcome': None, 'success': True, 'result': 3, 'type': 'hp_increase'}
+  - {'outcome': None, 'dc_category': None, 'dc_reasoning': None, 'result': 3, 'success': True, 'type': 'hp_increase', 'margin': None, 'roll': '1d8+2', 'dc': None}
 
 Game Master:
 [LEVEL UP COMPLETE - LEVEL 6]
@@ -1245,7 +1245,7 @@ Location: The Shadow Grove (Formerly Emerald Grove)
 Status: Lvl 6 Bard (Abyssal Siren) | HP: 31/31 | XP: 14000/23000 | Gold: 500gp
 Conditions: Arch-Druid of the Shadow Grove | Exhaustion: 0]
 Dice Rolls:
-  - {'roll': '1d8+12', 'dc': None, 'dc_reasoning': None, 'margin': None, 'dc_category': None, 'outcome': None, 'success': True, 'result': 15, 'type': 'Shadow Druid Circle Count'}
+  - {'outcome': None, 'dc_category': None, 'dc_reasoning': None, 'result': 15, 'success': True, 'type': 'Shadow Druid Circle Count', 'margin': None, 'roll': '1d8+12', 'dc': None}
 
 Game Master:
 Midday (12:00:00) in the Shadow Grove—the air is heavy, not with the scent of pine, but with the cloying, sweet rot of nearly two hundred siphoned souls. The grey ash of the refugees still coats the stone floor like a grim velvet carpet. 
@@ -1328,7 +1328,7 @@ Conditions: Arch-Druid's Aura, Shadow Thorns | Exhaustion: 0 | Inspiration: 5/5]
 ⚔️ Soldiers: 30 | 🕵️ Spies: 15 | 👑 Elites: 2 (Avg Lvl 5)
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Dice Rolls:
-  - {'roll': '1d20+5', 'dc': 8, 'dc_reasoning': None, 'margin': None, 'dc_category': None, 'outcome': None, 'success': True, 'result': 18, 'type': 'Soul Siphon (Trophy Check)'}
+  - {'outcome': None, 'dc_category': None, 'dc_reasoning': None, 'result': 18, 'success': True, 'type': 'Soul Siphon (Trophy Check)', 'margin': None, 'roll': '1d20+5', 'dc': 8}
 
 Game Master:
 Midday (12:00:00) in the Shadow Grove—the sun hangs directly overhead, its light filtered through the iridescent violet canopy into a bruised, hazy purple. You sit cross-legged at the center of the ritual stone, the fine grey ash of the refugees clinging to your sheer silks like funeral powder. Kagha (Lvl 5) and Olodan (Lvl 5) stand at the edge of the circle, their breathing synchronized with yours, their cowls pulled low to hide faces that still mirror the horror of the harvest.

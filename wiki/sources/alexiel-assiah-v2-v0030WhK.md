@@ -2,11 +2,11 @@
 title: "Alexiel Assiah V2"
 type: source
 tags: [campaign, alexiel-assiah-v2-v0030WhK]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/v0030WhKjLHOPfJzIDVq/Alexiel Assiah V2_v0030WhK.txt
 campaign_id: v0030WhKjLHOPfJzIDVq
 entry_count: 726
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

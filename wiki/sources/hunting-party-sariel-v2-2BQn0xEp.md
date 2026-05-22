@@ -2,11 +2,11 @@
 title: "Hunting party - Sariel v2"
 type: source
 tags: [campaign, hunting-party-sariel-v2-2BQn0xEp]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/2BQn0xEpDJVmFfNiOTbv/Hunting party - Sariel v2_2BQn0xEp.txt
 campaign_id: 2BQn0xEpDJVmFfNiOTbv
 entry_count: 408
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

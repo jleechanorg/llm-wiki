@@ -1,40 +1,38 @@
 ---
 title: "Nocturne Sosuke"
 type: entity
-tags: [baldurs-gate-3, nocturne, bard, college-of-perdition, abyss-siren, shared-name]
-sources: [nocrune-bg3-v6, nocturne-bg3-v4, nocturne-bg3-v5, nocturne-bg3-v5-fixed-v2, nocturne-bg3-v5-succubus, nocturne-bg3-v6-bug-repro-test]
-last_updated: 2026-04-12
-campaign_note: "**SHARED NAME with Nocturne (Tyranny).** Nocturne Sosuke is the BG3 version — completely unrelated to the Tyranny Fatebinder. Shares the archetype: brilliant manipulative INTJ with hidden beauty, but different campaign world. See [[Nocturne]] for the canonical Tyranny character."
+tags: [character, player-character, deity, sovereign, house-sosuke, recurring]
+sources: [nocturne-bg3, nocturne-apex-paladin, aizen-thay, faction-nocturne-bg3, stellaris-nocturne]
+last_updated: 2026-05-22
 ---
 
-## Overview
-Nocturne Sosuke is the protagonist across multiple Nocturne BG3 campaigns. A Half-Elf Bard (College of Perdition / College of the Abyssal Siren), she was once a noble daughter sold to the Bloom Shadow brothel after her family was destroyed by the Cassalanter Family. Across campaigns, she ranges from Level 1-6, wielding social combat as her primary weapon through the "Siren's Leverage" trait.
+## Description
 
-## Key Details
-- **Category:** Person / Player Character
-- **Campaign(s):** [[nocturne-bg3-v4]], [[nocturne-bg3-v5]], [[nocturne-bg3-v5-fixed-v2]], [[nocturne-bg3-v5-succubus]], [[nocturne-bg3-v6-bug-repro-test]]
-- **Class:** Bard (College of Perdition / College of the Abyssal Siren)
-- **Level Range:** 1-6 (varies by campaign)
-- **Stats:** STR 8, DEX 14, CON 8, INT 16, WIS 10, CHA 16 — "porcelain weapon" built for social combat
-- **Patron:** Formerly Zariel, currently Malcanthet (in succubus variants)
+Nocturne Sosuke is the most widely recurring character in the WorldArchitect campaign universe, appearing as both a player character and a Tier 5 cosmic entity (patron/deity). In her original campaigns she is a 16-year-old scion of House Valerius/Sosuke — an exiled noble who becomes the Apex Paladin of Baldur's Gate. In later timelines (Aizen Thay), she has ascended to become "The Sovereign of Shadow-Thorns," a Level 60+ entity who conquered the Sword Coast, the Hells, and the Abyss before being sealed by Ao's Geometric Firewall.
 
-## Connections
-- [[CassalanterFamily]] — destroyed Nocturne's family; antagonists across all campaigns
-- [[BloomShadow]] — Upper City brothel where she was held in V4
-- [[Malcanthet]] — Queen of Succubi, patron in V5-succubus variants
-- [[HorgusGwent]] — regular client who brought the inciting Soul Coin
-- [[BG3Companions]] — potential allies: Astarion, Wyll, Gale, Karlach, Lae'zel, Shadowheart, Minthara
-- [[RavagedBeach]] — starting location in V5 campaigns
-- [[ShatteredSanctum]] — location in V6
+## Appears In
 
-## Unique Abilities
-- **Siren's Leverage:** +2 bonus to Charisma checks against humanoids sexually/romantically attracted to females
-- **Malcanthet's Favor (Plot Armor):** Instead of falling unconscious at 0 HP, becomes Incorporeal and drops to 1 HP
-- **Thrall Mechanics:** From College of the Abyssal Siren subclass
+- [[nocturne-bg3]] — PC, Baldur's Gate 3 setting (5000+ entries, largest campaign)
+- [[nocturne-apex-paladin]] — PC, custom Apex Paladin class, 203 scenes
+- [[aizen-thay]] — Patron/Deity ("The Sovereign"), communicates via Obsidian Mirror, 100 years post-ascension
+- [[faction-nocturne-bg3]] — Faction leader version
+- [[stellaris-nocturne]] — Sci-fi/Stellaris iteration
+- [[bg1-nocturne]] — Baldur's Gate 1 variant
+- [[bg3-nocturne-continued]] — Continuation campaigns
 
-## Appearances
-- [[nocturne-bg3-v4]] — "Black Diamond" of Madam Zylra's brothel, revenge against Cassalanters
-- [[nocturne-bg3-v5]] — Level 1-2, Nautiloid crash beach, de-powered from Level 6
-- [[nocturne-bg3-v5-fixed-v2]] — Level 1-4, brothel infiltration variant
-- [[nocturne-bg3-v5-succubus]] — Malcanthet patron, Level 1-4, survival horror
-- [[nocturne-bg3-v6-bug-repro-test]] — Level 5, goblin camp "True Soul", Emerald Grove infiltration
+## Key Traits
+
+- **The Singularity:** Power so extreme it threatens cosmic balance; Ao intervened to seal her
+- **Apex Paladin / Domination Magic:** Charisma-based power manifesting as absolute command
+- **The Shattered Rose:** Her pocket-dimension dominion in the Abyss, containing enslaved demon lords and former heroes (Lae'zel, Astarion, Shadowheart, Gale)
+- **Weaponized Desire:** Treats allies and enemies as psychological tools; love as a leash
+- **Soul Harvest Economy:** Industrialized soul consumption to fuel divine-level power
+- **Violet Eyes / Raven Hair / Porcelain Skin:** Consistent visual signature across all iterations
+- **INTJ Alignment:** Cold strategic brilliance behind playful, languid exterior
+
+## Relationships Across Campaigns
+
+- [[AizenSosuke]] — Descendant/pawn in Aizen Thay; groomed as potential rival
+- [[HouseSosuke]] — Noble house destroyed after her ascension
+- [[Alexiel]] — Parallel archetype (the secret prodigy / "Null" who is actually god-tier)
+- [[Auctoritas]] — Nocturne's power is an extreme manifestation of Auctoritas

@@ -2,11 +2,11 @@
 title: "Gaia julia v5"
 type: source
 tags: [campaign, gaia-julia-v5-pK5N1Fn6]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/pK5N1Fn6MrAXZSPPvcu3/Gaia julia v5_pK5N1Fn6.txt
 campaign_id: pK5N1Fn6MrAXZSPPvcu3
 entry_count: 156
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

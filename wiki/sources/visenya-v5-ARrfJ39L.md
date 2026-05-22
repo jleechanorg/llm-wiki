@@ -2,11 +2,11 @@
 title: "Visenya v5"
 type: source
 tags: [campaign, visenya-v5-ARrfJ39L]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/ARrfJ39LhNEi5rcGq1c7/Visenya v5_ARrfJ39L.txt
 campaign_id: ARrfJ39LhNEi5rcGq1c7
 entry_count: 533
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:
@@ -562,7 +562,7 @@ Location: Unknown
 Status: Lvl 1 Apex Weaver | HP: 8/8
 Resources: None]
 Dice Rolls:
-  - {'dc': 15, 'outcome': None, 'dc_reasoning': None, 'dc_category': None, 'roll': '1d20+4', 'success': False, 'result': 8, 'margin': None, 'type': 'Subsonic Command'}
+  - {'outcome': None, 'margin': None, 'result': 8, 'dc': 15, 'success': False, 'dc_reasoning': None, 'roll': '1d20+4', 'dc_category': None, 'type': 'Subsonic Command'}
 
 Game Master:
 The command hangs in the humid air, vibrating with the strange, subsonic frequency of your Baelarys blood. For a heartbeat, Viserys’s pupils dilate, his muscles twitching as the impulse to obey conflicts with the surging, wounded pride of a dragon who refuses to be tamed by a 'mongrel.'
@@ -747,7 +747,7 @@ Status: Lvl 1 Apex Predator | HP: 8/8 | XP: 150/300 | Gold: 10gp
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 1/1 | Spells: L1 2/2 | Sadism Dice: 4/4 | Exhaustion: 0
 Dice Rolls:
-  - {'dc': 15, 'outcome': None, 'dc_reasoning': None, 'dc_category': None, 'roll': '2d20kh1+4', 'success': True, 'result': 24, 'margin': None, 'type': 'Baelarys Eye Insight (Margaery)'}
+  - {'outcome': None, 'margin': None, 'result': 24, 'dc': 15, 'success': True, 'dc_reasoning': None, 'roll': '2d20kh1+4', 'dc_category': None, 'type': 'Baelarys Eye Insight (Margaery)'}
 
 Game Master:
 Afternoon (14:30:00) in Maegor’s Holdfast Gardens, King’s Landing—the air remains heavy with the scent of sun-scorched roses and the sharp, metallic tang of Viserys’s lingering terror. Your brother’s retreating screams echo through the stone arches of the Holdfast, leaving a vacuum of silence that tastes like cold ash and copper.
@@ -782,7 +782,7 @@ Location: Unknown
 Status: Lvl 1 Apex Predator | HP: 8/8
 Resources: Spells: L1 2/2]
 Dice Rolls:
-  - {'dc': 12, 'outcome': None, 'dc_reasoning': 'The sword is a full-sized martial weapon, heavy and unwieldy for a physically fragile child.', 'dc_category': None, 'roll': '1d20-1', 'success': True, 'result': 12, 'margin': None, 'type': 'Strength Check (Lift Sword)'}
+  - {'outcome': None, 'margin': None, 'result': 12, 'dc': 12, 'success': True, 'dc_reasoning': 'The sword is a full-sized martial weapon, heavy and unwieldy for a physically fragile child.', 'roll': '1d20-1', 'dc_category': None, 'type': 'Strength Check (Lift Sword)'}
 
 Game Master:
 The fallen blade of Prince Viserys lies in the dust, a gleaming length of castle-forged steel with a hilt wrapped in golden wire and capped with a ruby-eyed dragon. To anyone else, it is merely a weapon. To you, it is a mathematical variable out of place, a physical manifestation of your brother's surrendered authority.
@@ -853,7 +853,7 @@ Location: Unknown
 Status: Lvl 2 Apex Predator | HP: 13/13
 Resources: Spells: L1 2/2]
 Dice Rolls:
-  - {'dc': None, 'outcome': None, 'dc_reasoning': None, 'dc_category': None, 'roll': '1d8+0', 'success': None, 'result': 5, 'margin': None, 'type': 'hp_increase'}
+  - {'outcome': None, 'margin': None, 'result': 5, 'dc': None, 'success': None, 'dc_reasoning': None, 'roll': '1d8+0', 'dc_category': None, 'type': 'hp_increase'}
 
 Game Master:
 [LEVEL UP - LEVEL 2]
@@ -915,9 +915,9 @@ Status: Lvl 2 Apex Predator | HP: 10/10 | XP: 400/900 | Gold: 10gp
 Conditions: The Static (Active) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 2/2, Spells: L1 3/3, Sadism Dice: 4/4, Potions: 0/0
 Dice Rolls:
-  - {'dc': 14, 'outcome': None, 'dc_reasoning': "Red Keep is under martial law; sword is conspicuous; Viserys's flight provides distraction.", 'dc_category': None, 'roll': '1d20+3', 'success': False, 'result': 1, 'margin': None, 'type': 'Stealth (Movement through Keep)'}
-  - {'dc': 18, 'outcome': None, 'dc_reasoning': "Maidenvault is a high-security prison; guards are wary of the 'Ghost Child'.", 'dc_category': None, 'roll': '1d20+5 (Silver Tongue)', 'success': False, 'result': 11, 'margin': None, 'type': 'Deception (Maidenvault Entrance)'}
-  - {'dc': 15, 'outcome': None, 'dc_reasoning': 'Guards are superstitious; The Static causes physical discomfort.', 'dc_category': None, 'roll': '2d20kh1+5', 'success': True, 'result': 20, 'margin': None, 'type': 'Intimidation (The Static)'}
+  - {'outcome': None, 'margin': None, 'result': 1, 'dc': 14, 'success': False, 'dc_reasoning': "Red Keep is under martial law; sword is conspicuous; Viserys's flight provides distraction.", 'roll': '1d20+3', 'dc_category': None, 'type': 'Stealth (Movement through Keep)'}
+  - {'outcome': None, 'margin': None, 'result': 11, 'dc': 18, 'success': False, 'dc_reasoning': "Maidenvault is a high-security prison; guards are wary of the 'Ghost Child'.", 'roll': '1d20+5 (Silver Tongue)', 'dc_category': None, 'type': 'Deception (Maidenvault Entrance)'}
+  - {'outcome': None, 'margin': None, 'result': 20, 'dc': 15, 'success': True, 'dc_reasoning': 'Guards are superstitious; The Static causes physical discomfort.', 'roll': '2d20kh1+5', 'dc_category': None, 'type': 'Intimidation (The Static)'}
 
 Game Master:
 You do not wait for the world to resume; you command it. As Margaery rises from her curtsy, her eyes lingering on the sword, you turn without a word, the heavy tip of Viserys's blade gouging a shallow, jagged line through the manicured dirt. Rhaenys calls your name—a frantic, high-pitched warble—but you are already moving. 
@@ -971,7 +971,7 @@ Location: The Maidenvault, King's Landing
 Status: Lvl 2 Apex Predator | HP: 10/10 | XP: 400/900 | Gold: 10gp]
 Resources: HD: 2/2 | Spells: L1 3/3 | Sadism: 4/4 | Exhaustion: 0
 Dice Rolls:
-  - {'dc': 18, 'outcome': None, 'dc_reasoning': None, 'dc_category': None, 'roll': '1d20+6', 'success': False, 'result': 14, 'margin': None, 'type': 'Deception (Frame Viserys)'}
+  - {'outcome': None, 'margin': None, 'result': 14, 'dc': 18, 'success': False, 'dc_reasoning': None, 'roll': '1d20+6', 'dc_category': None, 'type': 'Deception (Frame Viserys)'}
 
 Game Master:
 Mid-afternoon (15:20:00) in the Maidenvault—the air is thick with the smell of green wildfire and the dry, papery scent of the King's madness. You lean the heavy blade against Aerys's mapping table, the ruby dragon pommel glaring at the King as if in judgment. 
@@ -996,7 +996,7 @@ Status: Lvl 2 Apex Predator | HP: 10/10 | XP: 400/900 | Gold: 10gp
 Conditions: The Static (Active) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 2/2 | Spells: L1 3/3 | Sadism Dice: 4/4 | Entropy: Hidden Spirit Form
 Dice Rolls:
-  - {'dc': 18, 'outcome': None, 'dc_reasoning': 'King Aerys II is Level 5 and deeply paranoid; he is delighted by chaos but remains inherently suspicious of everyone (DC 18 base for major social manipulation).', 'dc_category': None, 'roll': '1d20+4', 'success': True, 'result': 18, 'margin': None, 'type': 'Persuasion (Frame Viserys/Influence King)'}
+  - {'outcome': None, 'margin': None, 'result': 18, 'dc': 18, 'success': True, 'dc_reasoning': 'King Aerys II is Level 5 and deeply paranoid; he is delighted by chaos but remains inherently suspicious of everyone (DC 18 base for major social manipulation).', 'roll': '1d20+4', 'dc_category': None, 'type': 'Persuasion (Frame Viserys/Influence King)'}
 
 Game Master:
 Late afternoon (15:30:00) in the Maidenvault—the king's milky eyes are wide, reflecting the ruby fire of the stolen sword. You lean in closer, the air around you shimmering with 'The Static' as the temperature drops, the cold ringing in the room reaching a crescendo that makes the wildfire jars on the shelves rattle in their cradles.
@@ -1026,7 +1026,7 @@ Status: Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Gold: 10gp
 Conditions: The Static (Emotional) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 2/2, Spells: L1 3/3, Sadism Dice: 4/4, Heat: 10
 Dice Rolls:
-  - {'dc': 20, 'outcome': None, 'dc_reasoning': 'Aerys is pathologically paranoid; sharing his Pyromancer controls is equivalent to sharing his life.', 'dc_category': None, 'roll': '1d20+5', 'success': False, 'result': 2, 'margin': None, 'type': 'Persuasion (Command the Alchemists)'}
+  - {'outcome': None, 'margin': None, 'result': 2, 'dc': 20, 'success': False, 'dc_reasoning': 'Aerys is pathologically paranoid; sharing his Pyromancer controls is equivalent to sharing his life.', 'roll': '1d20+5', 'dc_category': None, 'type': 'Persuasion (Command the Alchemists)'}
 
 Game Master:
 You lean in, the heat from the invisible Entropy shimmering against your skin as you reach for the ultimate lever of power in this bunker-city. "Grandfather," you whisper, your voice like silk across a razor. "The boy shrieked because he has no fire. If the Discord is to burn, it needs a hand that won't flinch. Give me the signs. Let me be the one to speak to the Alchemists when you cannot."
@@ -1049,7 +1049,7 @@ Status: Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Gold: 10gp
 Conditions: Static Active (+Adv Intimidation, -Disadv Stealth) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 2/2, Spells: L1 3/3, Sadism Dice: 4/4 (d6), Exhaustion: 0
 Dice Rolls:
-  - {'dc': 18, 'outcome': None, 'dc_reasoning': None, 'dc_category': None, 'roll': '1d20+6', 'success': False, 'result': 16, 'margin': None, 'type': 'Deception (Redeem the Lizard)'}
+  - {'outcome': None, 'margin': None, 'result': 16, 'dc': 18, 'success': False, 'dc_reasoning': None, 'roll': '1d20+6', 'dc_category': None, 'type': 'Deception (Redeem the Lizard)'}
 
 Game Master:
 Afternoon (15:50:00) in the Maidenvault—the air vibrates with the King's frantic panting, the smell of 'Despair' turning from rotten honey into something sharp and acidic like vinegar. Aerys II (Lvl 5) is no longer laughing; he is a cornered animal, his long fingernails leaving white gouges in the weirwood table as he shields his maps from your gaze.
@@ -1078,7 +1078,7 @@ Location: The Maidenvault / Serpent's Steps
 Status: Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Gold: 10gp]
 Resources: HD: 2/2, Spells: L1 3/3, Sadism Dice: 4/4 (d6), Exhaustion: 0
 Dice Rolls:
-  - {'dc': 14, 'outcome': None, 'dc_reasoning': "Professional Iron Gate guard; tense atmosphere; Visenya's voice bypasses logic but guard fears Rhaegar.", 'dc_category': None, 'roll': '1d20+6', 'success': False, 'result': 5, 'margin': None, 'type': 'Persuasion (Subsonic Command)'}
+  - {'outcome': None, 'margin': None, 'result': 5, 'dc': 14, 'success': False, 'dc_reasoning': "Professional Iron Gate guard; tense atmosphere; Visenya's voice bypasses logic but guard fears Rhaegar.", 'roll': '1d20+6', 'dc_category': None, 'type': 'Persuasion (Subsonic Command)'}
 
 Game Master:
 You leave the King scuttling into the cobwebbed corners of his vault, his whispers of 'green blood' trailing off into the dry hiss of shifting parchment. Dragging the ruby-pommeled sword behind you, the metal creates a rhythmic, screeching protest against the cold stone floor as you emerge into the dim light of the corridor.
@@ -1101,8 +1101,8 @@ Status: Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Gold: 10gp
 Conditions: The Static (Emotional) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 2/2, Spells: L1 3/3, Sadism Dice: 4/4 (d6), Heat: 55
 Dice Rolls:
-  - {'dc': 16, 'outcome': None, 'dc_reasoning': None, 'dc_category': None, 'roll': '1d20+3', 'success': True, 'result': 15, 'margin': None, 'type': 'Stealth (Stash Blade)'}
-  - {'dc': 18, 'outcome': None, 'dc_reasoning': None, 'dc_category': None, 'roll': '1d20+5 (Silver Tongue min 10)', 'success': False, 'result': 9, 'margin': None, 'type': 'Deception (Deny Everything)'}
+  - {'outcome': None, 'margin': None, 'result': 15, 'dc': 16, 'success': True, 'dc_reasoning': None, 'roll': '1d20+3', 'dc_category': None, 'type': 'Stealth (Stash Blade)'}
+  - {'outcome': None, 'margin': None, 'result': 9, 'dc': 18, 'success': False, 'dc_reasoning': None, 'roll': '1d20+5 (Silver Tongue min 10)', 'dc_category': None, 'type': 'Deception (Deny Everything)'}
 
 Game Master:
 The dragging screech of steel against stone ceases as you slip into a narrow servant’s conduit behind the Serpent’s Steps. In the claustrophobic dimness, you find a loose flagstone beneath a tapestry of the Doom—a fitting grave for Viserys's dignity. You slide the heavy blade into the darkness of the sub-floor, the ruby eyes of the dragon pommel disappearing last. 
@@ -1127,9 +1127,9 @@ SCENE 22
 Location: The Dragonpit / War Room
 Status: Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Gold: 10gp]
 Dice Rolls:
-  - {'dc': 15, 'outcome': None, 'dc_reasoning': 'Rhaegar is suspicious and weary; Viserys is hysterical but has a bandaged hand.', 'dc_category': None, 'roll': '1d20+5', 'success': False, 'result': 14, 'margin': None, 'type': 'Deception (Concerned Frame)'}
-  - {'dc': None, 'outcome': None, 'dc_reasoning': None, 'dc_category': None, 'roll': '1d6', 'success': None, 'result': 6, 'margin': None, 'type': 'Psychic Vivisection'}
-  - {'dc': 14, 'outcome': None, 'dc_reasoning': "Gauging Rhaegar's internal exhaustion vs familial duty.", 'dc_category': None, 'roll': '2d20kh1+2', 'success': True, 'result': 18, 'margin': None, 'type': 'Insight (Advantage)'}
+  - {'outcome': None, 'margin': None, 'result': 14, 'dc': 15, 'success': False, 'dc_reasoning': 'Rhaegar is suspicious and weary; Viserys is hysterical but has a bandaged hand.', 'roll': '1d20+5', 'dc_category': None, 'type': 'Deception (Concerned Frame)'}
+  - {'outcome': None, 'margin': None, 'result': 6, 'dc': None, 'success': None, 'dc_reasoning': None, 'roll': '1d6', 'dc_category': None, 'type': 'Psychic Vivisection'}
+  - {'outcome': None, 'margin': None, 'result': 18, 'dc': 14, 'success': True, 'dc_reasoning': "Gauging Rhaegar's internal exhaustion vs familial duty.", 'roll': '2d20kh1+2', 'dc_category': None, 'type': 'Insight (Advantage)'}
 
 Game Master:
 Late afternoon (16:15:00) in the Dragonpit War Room—the shadows of the massive roof beams stretch across the floor like the ribs of a long-dead beast. You stand before the Iron Regent, a small figure in indigo velvet, projecting an aura of quiet, heartbreaking concern. Beneath your sleeve, you feel the heat of Entropy flaring, and as you focus your gaze on Viserys (Lvl 4), you execute the Psychic Vivisection. You reach into the 'Stress Lines' of his mind and give them a sharp, jagged pull.
@@ -1160,7 +1160,7 @@ Location: The Dragonpit / War Room
 Status: Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Heat: 65]
 Resources: HD: 2/2 | Spells: L1 3/3 | Sadism: 3/4 | Exhaustion: 0
 Dice Rolls:
-  - {'dc': 18, 'outcome': None, 'dc_reasoning': 'Rhaegar is a Level 12 Paladin/Fighter with high Insight; discrediting his brother publicly requires exceptional manipulation.', 'dc_category': None, 'roll': '1d20+6', 'success': True, 'result': 26, 'margin': None, 'type': 'Deception (Silver Tongue)'}
+  - {'outcome': None, 'margin': None, 'result': 26, 'dc': 18, 'success': True, 'dc_reasoning': 'Rhaegar is a Level 12 Paladin/Fighter with high Insight; discrediting his brother publicly requires exceptional manipulation.', 'roll': '1d20+6', 'dc_category': None, 'type': 'Deception (Silver Tongue)'}
 
 Game Master:
 Late afternoon (16:30:00) in the Dragonpit War Room—the iron-scented air feels stagnant, heavy with the growing silence of a father watching his legacy fracture. You look at Viserys (Lvl 4), whose face is a frantic mosaic of sweat and twitching nerves, and you tilt your head with the guileless curiosity of a child.
@@ -1195,7 +1195,7 @@ Status: Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Gold: 10gp
 Conditions: The Static (Active) | Heat: 65]
 Resources: Spells: L1 3/3 | Sadism: 3/4 | Exhaustion: 0
 Dice Rolls:
-  - {'dc': 20, 'outcome': None, 'dc_reasoning': None, 'dc_category': None, 'roll': '1d20+5', 'success': False, 'result': 11, 'margin': None, 'type': 'Persuasion (Request for Official Post)'}
+  - {'outcome': None, 'margin': None, 'result': 11, 'dc': 20, 'success': False, 'dc_reasoning': None, 'roll': '1d20+5', 'dc_category': None, 'type': 'Persuasion (Request for Official Post)'}
 
 Game Master:
 The Dragonpit is silent, the only sound the flickering of torches and the distant, muffled sobbing of Viserys as he retreats into the shadows. You turn your gaze back to your father, the Iron Regent. You let a slow, knowing smile spread across your face—a expression far too old for a girl of twelve. It is a smile that acknowledges the 'smoke' he sees, a silent confession that you are exactly what he fears you are: something more than human.
@@ -1241,7 +1241,7 @@ Location: Servant's Conduit, Maegor's Holdfast
 Status: Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Heat: 75]
 Resources: Sadism Dice: 2/4 (d6) | Spells: L1 3/3 | Exhaustion: 0 | Inspiration: No
 Dice Rolls:
-  - {'dc': 20, 'outcome': None, 'dc_reasoning': "Heat 65; Regent's monitoring active; dragging a heavy, metallic object through stone corridors.", 'dc_category': None, 'roll': '2d20kh1 + 3', 'success': False, 'result': 8, 'margin': None, 'type': 'Stealth'}
+  - {'outcome': None, 'margin': None, 'result': 8, 'dc': 20, 'success': False, 'dc_reasoning': "Heat 65; Regent's monitoring active; dragging a heavy, metallic object through stone corridors.", 'roll': '2d20kh1 + 3', 'dc_category': None, 'type': 'Stealth'}
 
 Game Master:
 Late afternoon (16:20:00) in the claustrophobic dimness of the servant's conduit—the air is stale, smelling of centuries-old dust and the faint, coppery tang of Prince Viserys's (Lvl 4) fear. You kneel by the loose flagstone, your small fingers trembling slightly as you reach into the darkness to retrieve the trophy. The ruby eyes of the dragon pommel wink at you, mocking the Regent's command of silence.
@@ -1285,7 +1285,7 @@ SCENE 28
 Location: Servant's Conduit, Maegor's Holdfast
 Status: Lvl 2 Apex Predator | HP: 10/10 | XP: 600/900 | Heat: 85]
 Dice Rolls:
-  - {'dc': 15, 'outcome': None, 'dc_reasoning': 'Narrow passage, Static noise, alert guard', 'dc_category': None, 'roll': 'min(1d20, 1d20)+3', 'success': False, 'result': 5, 'margin': None, 'type': 'Stealth Check'}
+  - {'outcome': None, 'margin': None, 'result': 5, 'dc': 15, 'success': False, 'dc_reasoning': 'Narrow passage, Static noise, alert guard', 'roll': 'min(1d20, 1d20)+3', 'dc_category': None, 'type': 'Stealth Check'}
 
 Game Master:
 Late afternoon (16:45:00) in the Dragonpit War Room—the Prince Regent Rhaegar (Lvl 18) stands by the open archway, his gaze fixed on the Red Keep’s distant spires. Beside him, Jaehaerys (Lvl 6) stands like a silent statue of white marble, his hand resting on the pommel of *Dark Sister*.

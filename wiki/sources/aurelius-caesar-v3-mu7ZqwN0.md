@@ -2,11 +2,11 @@
 title: "aurelius caesar v3"
 type: source
 tags: [campaign, aurelius-caesar-v3-mu7ZqwN0]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/mu7ZqwN0EjBOnWyYLPER/aurelius caesar v3_mu7ZqwN0.txt
 campaign_id: mu7ZqwN0EjBOnWyYLPER
 entry_count: 216
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

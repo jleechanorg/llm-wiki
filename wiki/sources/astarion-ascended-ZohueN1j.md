@@ -2,11 +2,11 @@
 title: "Astarion Ascended"
 type: source
 tags: [campaign, astarion-ascended-ZohueN1j]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/ZohueN1jHIg4SokVJmTu/Astarion Ascended_ZohueN1j.txt
 campaign_id: ZohueN1jHIg4SokVJmTu
 entry_count: 301
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 ============================================================

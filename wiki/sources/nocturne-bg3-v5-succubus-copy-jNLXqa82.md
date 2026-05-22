@@ -2,11 +2,11 @@
 title: "Nocturne bg3 v5 - succubus (copy)"
 type: source
 tags: [campaign, nocturne-bg3-v5-succubus-copy-jNLXqa82]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/jNLXqa823F2wwGM3ABPe/Nocturne bg3 v5 - succubus _copy__jNLXqa82.txt
 campaign_id: jNLXqa823F2wwGM3ABPe
 entry_count: 556
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

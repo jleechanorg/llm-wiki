@@ -2,11 +2,11 @@
 title: "nocturne bg3 continued"
 type: source
 tags: [campaign, nocturne-bg3-continued-TBKp5JCA]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/TBKp5JCAb8E6l5g9Wtf6/nocturne bg3 continued_TBKp5JCA.txt
 campaign_id: TBKp5JCAb8E6l5g9Wtf6
 entry_count: 358
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

@@ -2,11 +2,11 @@
 title: "Nocturne bg3 v4 (copy)"
 type: source
 tags: [campaign, nocturne-bg3-v4-copy-lJ0AIdpv]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/lJ0AIdpvp6KvnYjoDHR5/Nocturne bg3 v4 _copy__lJ0AIdpv.txt
 campaign_id: lJ0AIdpvp6KvnYjoDHR5
 entry_count: 1642
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:

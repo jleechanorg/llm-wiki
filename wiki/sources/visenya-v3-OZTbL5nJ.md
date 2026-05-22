@@ -2,11 +2,11 @@
 title: "Visenya v3"
 type: source
 tags: [campaign, visenya-v3-OZTbL5nJ]
-date: 2026-04-14
+date: 2026-05-22
 source_file: /tmp/campaign_downloads/OZTbL5nJ4tDWqAAVQmPr/Visenya v3_OZTbL5nJ.txt
 campaign_id: OZTbL5nJ4tDWqAAVQmPr
 entry_count: 346
-last_updated: 2026-04-14
+last_updated: 2026-05-22
 ---
 
 God Mode:
@@ -95,7 +95,7 @@ Status: Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 1/1, Spells: L1 2/2, Sorcery Points: 0/0, Ascension: 0/100
 Dice Rolls:
-  - {'margin': None, 'dc': 10, 'outcome': None, 'result': 14, 'success': True, 'dc_reasoning': None, 'type': 'Character Modification Check', 'roll': '1d20+0', 'dc_category': None}
+  - {'roll': '1d20+0', 'type': 'Character Modification Check', 'outcome': None, 'success': True, 'dc_category': None, 'result': 14, 'dc_reasoning': None, 'dc': 10, 'margin': None}
 
 Game Master:
 The sulfurous air of the Dragonmont tastes of ancient ash and impending fire. You stand amidst the 'seeds,' your soot-stained wool hiding a lineage that predates the very stone beneath your feet. To your left, Gerrick grips his hammer, his knuckles white; above, the Queen of Dragons searches for a spark in the darkness. Your attributes are etched in your blood, and your spells are the echoes of the Fourteen Flames. If you wish to sharpen your mind (INT), harden your resolve (CON), or refine the magic within your soul, now is the moment to adjust the vessel of your power before the Bronze Fury tests it.
@@ -151,7 +151,7 @@ Status: Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Ascension: 2/100]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 1/1 | Spells: L1 1/2 | Sorcery Points: 0/0 | Ascension: 2/100
 Dice Rolls:
-  - {'margin': None, 'dc': 17, 'outcome': None, 'result': 19, 'success': True, 'dc_reasoning': None, 'type': 'Persuasion (Noblest Dialect)', 'roll': '2d20kh1+6', 'dc_category': None}
+  - {'roll': '2d20kh1+6', 'type': 'Persuasion (Noblest Dialect)', 'outcome': None, 'success': True, 'dc_category': None, 'result': 19, 'dc_reasoning': None, 'dc': 17, 'margin': None}
 
 Game Master:
 Morning (10:05:00) in the Dragonmont—the sulfurous heat is a physical weight, pressing against your sixteen-year-old frame as you step out from the shadow of the cowering Dragonseeds. Vermithor, the Bronze Fury, let out a low, vibrating growl that rattled the very teeth in your skull, his throat a pulsing vein of molten orange. 
@@ -204,7 +204,7 @@ Conditions: None | Exhaustion: 0 | Inspiration: No]
 ⚔️ Soldiers: 0 | 🕵️ Spies: 0 | 👑 Elites: 0 (Avg Lvl 0)
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Dice Rolls:
-  - {'margin': None, 'dc': 12, 'outcome': None, 'result': 7, 'success': False, 'dc_reasoning': None, 'type': 'Charisma (Animal Handling) - Performance', 'roll': '1d20+4', 'dc_category': None}
+  - {'roll': '1d20+4', 'type': 'Charisma (Animal Handling) - Performance', 'outcome': None, 'success': False, 'dc_category': None, 'result': 7, 'dc_reasoning': None, 'dc': 12, 'margin': None}
 
 Game Master:
 Morning (10:12:00) in the Dragonmont—the heat rising from Vermithor's scales is a blistering caress against your face. You do not climb immediately. Instead, you stay on the ash-strewn floor, your soot-stained hand reaching out with a trembling delicacy that looks like raw fear to the Queen on the ridge, but feels like a tether to the beast. 
@@ -232,7 +232,7 @@ Conditions: Silver Persona | Ascension: 2/100]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 1/1 | Spells: L1 1/2 | Sorcery Points: 0/0
 Dice Rolls:
-  - {'margin': None, 'dc': 15, 'outcome': None, 'result': 15, 'success': True, 'dc_reasoning': 'Queen Rhaenyra (Lvl 15) assessing a seemingly impossible feat of dragon-taming by a peasant.', 'type': 'Deception (Silver Persona)', 'roll': '1d20+6', 'dc_category': None}
+  - {'roll': '1d20+6', 'type': 'Deception (Silver Persona)', 'outcome': None, 'success': True, 'dc_category': None, 'result': 15, 'dc_reasoning': 'Queen Rhaenyra (Lvl 15) assessing a seemingly impossible feat of dragon-taming by a peasant.', 'dc': 15, 'margin': None}
 
 Game Master:
 Morning (10:14:00) on the Dragonmont—the sulfurous wind carries the scent of ancient scales and disbelief. High on the ridge, Queen Rhaenyra (Lvl 15) stands frozen, her hand white-knuckled upon the stone. Beneath the facade of the stoic Queen, her thoughts race with a frantic, lethal heat. *This girl... this 'Silver'.* She watches you stumble, watches Gerrick (Lvl 3) boost you up with his massive, soot-stained hands, but she is no longer fooled by the clumsy woolen tunic. No mere peasant has eyes that hold the Bronze Fury’s gaze without burning to ash. Rhaenyra recognizes the cadence of your movements—the ghost of Valyrian steel in a girl’s spine. 
@@ -259,8 +259,8 @@ Status: Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 1/1 | Spells: L1 1/2 | Sorcery Points: 0/0 | Exhaustion: 0
 Dice Rolls:
-  - {'margin': None, 'dc': 14, 'outcome': None, 'result': 4, 'success': False, 'dc_reasoning': 'Controlling a Lvl 20 dragon for the first time without a saddle', 'type': 'Animal Handling (Control Vermithor)', 'roll': '1d20+4', 'dc_category': None}
-  - {'margin': None, 'dc': 12, 'outcome': None, 'result': 8, 'success': True, 'dc_reasoning': "Maintaining the 'terrified peasant' persona during a dragon flight", 'type': 'Deception (Persona Maintenance)', 'roll': '1d20+6', 'dc_category': None}
+  - {'roll': '1d20+4', 'type': 'Animal Handling (Control Vermithor)', 'outcome': None, 'success': False, 'dc_category': None, 'result': 4, 'dc_reasoning': 'Controlling a Lvl 20 dragon for the first time without a saddle', 'dc': 14, 'margin': None}
+  - {'roll': '1d20+6', 'type': 'Deception (Persona Maintenance)', 'outcome': None, 'success': True, 'dc_category': None, 'result': 8, 'dc_reasoning': "Maintaining the 'terrified peasant' persona during a dragon flight", 'dc': 12, 'margin': None}
 
 Game Master:
 Morning (10:20:00) in the skies above the Dragonmont—the sulfurous stench of the pits is suddenly replaced by the biting, cold clarity of high altitude. As Gerrick's (Lvl 3) hand slips from your ankle, you lean forward, your sixteen-year-old frame pressing against the furnace-heat of Vermithor's (Lvl 20) neck. Your lips brush against a bronze scale the size of a shield as you whisper the command. "Sōvegon."
@@ -283,7 +283,7 @@ Status: Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 1/1 | Spells: L1 1/2 | Sorcery Points: 0/0 | Exhaustion: 0
 Dice Rolls:
-  - {'margin': None, 'dc': 15, 'outcome': None, 'result': 14, 'success': True, 'dc_reasoning': None, 'type': 'Animal Handling (CHA) - Landing Vermithor', 'roll': '1d20+4', 'dc_category': None}
+  - {'roll': '1d20+4', 'type': 'Animal Handling (CHA) - Landing Vermithor', 'outcome': None, 'success': True, 'dc_category': None, 'result': 14, 'dc_reasoning': None, 'dc': 15, 'margin': None}
 
 Game Master:
 Late morning (10:25:00) above the Dragonmont—the wind screams past your ears as Vermithor (Lvl 20) banks sharply, the jagged obsidian of the volcano rushing up to meet you. You do not panic. While your Silver persona shrieks for the benefit of the watchers below, your knees grip the bronze-scaled ridges of the dragon's neck with the instinctive precision of an Apex heir. You lean into the beast, your weight a silent suggestion that harmonizes with his ancient, rhythmic pulse. 
@@ -441,8 +441,8 @@ Conditions: Drunk (Advantage vs Frightened) | Low Self-Esteem]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 1/1, Spells: L1 2/2, Sorcery Points: 0/0
 Dice Rolls:
-  - {'margin': None, 'dc': 14, 'outcome': None, 'result': 12, 'success': True, 'dc_reasoning': None, 'type': 'Deception (Drunken Persona)', 'roll': '1d20+4', 'dc_category': None}
-  - {'margin': None, 'dc': 15, 'outcome': None, 'result': 10, 'success': False, 'dc_reasoning': None, 'type': 'Animal Handling (Noblest Dialect)', 'roll': '2d20kh1+4', 'dc_category': None}
+  - {'roll': '1d20+4', 'type': 'Deception (Drunken Persona)', 'outcome': None, 'success': True, 'dc_category': None, 'result': 12, 'dc_reasoning': None, 'dc': 14, 'margin': None}
+  - {'roll': '2d20kh1+4', 'type': 'Animal Handling (Noblest Dialect)', 'outcome': None, 'success': False, 'dc_category': None, 'result': 10, 'dc_reasoning': None, 'dc': 15, 'margin': None}
 
 Game Master:
 Morning (10:00:00) in the Dragonmont—the sulfurous air is choked with the smell of charred meat and ozone. You stand at the edge of the obsidian pit, swaying slightly as you clutch a dented silver flask. The 'Dragonseeds' around you are a sea of trembling peasants and terrified bastards, all staring at the steaming pile of ash that was, until moments ago, a knight of some standing. Vermithor (Lvl 20), the Bronze Fury, let out a low, tectonic rumble that rattled the loose stones under your boots. He looks bored by the carnage.
@@ -472,7 +472,7 @@ Conditions: Drunk | Exhaustion: 0 | Inspiration: No]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 1/1 | Spells: L1 1/2 | Sorcery Points: 0/0
 Dice Rolls:
-  - {'margin': None, 'dc': 12, 'outcome': None, 'result': 19, 'success': True, 'dc_reasoning': None, 'type': 'Drunken Coordination', 'roll': '1d20+3', 'dc_category': None}
+  - {'roll': '1d20+3', 'type': 'Drunken Coordination', 'outcome': None, 'success': True, 'dc_category': None, 'result': 19, 'dc_reasoning': None, 'dc': 12, 'margin': None}
 
 Game Master:
 Late morning (10:30:00) in the Dragonmont—the obsidian plateau is a stage where the smell of sulfur competes with the sharp, acidic tang of the wine on your breath. You do not wait for the Queen's guard to assist you. Instead, you push away from Gerrick (Lvl 3) with a loose, uncoordinated confidence, your boots scuffing through the deep gray ash. Every step feels like walking on a ship's deck during a gale; the world tilts at a jaunty angle, but your 16 Dexterity serves as a silent, stabilizing anchor even through the haze of drink. 
@@ -520,10 +520,10 @@ Status: Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 1/1, Spells: L1 2/2, Sorcery Points: 0/0
 Dice Rolls:
-  - {'margin': None, 'dc': 15, 'outcome': None, 'result': 4, 'success': False, 'dc_reasoning': None, 'type': 'Persuasion (Initial Plea)', 'roll': '1d20+4', 'dc_category': None}
-  - {'margin': None, 'dc': 12, 'outcome': None, 'result': 18, 'success': True, 'dc_reasoning': None, 'type': 'Persuasion (Inspiring Jacaerys)', 'roll': '1d20+4', 'dc_category': None}
-  - {'margin': None, 'dc': 16, 'outcome': None, 'result': 19, 'success': True, 'dc_reasoning': None, 'type': "Persuasion (Final Plea with Jace's Support)", 'roll': '1d20+4', 'dc_category': None}
-  - {'margin': None, 'dc': 15, 'outcome': None, 'result': 14, 'success': True, 'dc_reasoning': None, 'type': 'Animal Handling (Subtle Apex Aura)', 'roll': '2d20kh1+4', 'dc_category': None}
+  - {'roll': '1d20+4', 'type': 'Persuasion (Initial Plea)', 'outcome': None, 'success': False, 'dc_category': None, 'result': 4, 'dc_reasoning': None, 'dc': 15, 'margin': None}
+  - {'roll': '1d20+4', 'type': 'Persuasion (Inspiring Jacaerys)', 'outcome': None, 'success': True, 'dc_category': None, 'result': 18, 'dc_reasoning': None, 'dc': 12, 'margin': None}
+  - {'roll': '1d20+4', 'type': "Persuasion (Final Plea with Jace's Support)", 'outcome': None, 'success': True, 'dc_category': None, 'result': 19, 'dc_reasoning': None, 'dc': 16, 'margin': None}
+  - {'roll': '2d20kh1+4', 'type': 'Animal Handling (Subtle Apex Aura)', 'outcome': None, 'success': True, 'dc_category': None, 'result': 14, 'dc_reasoning': None, 'dc': 15, 'margin': None}
 
 Game Master:
 Morning (10:00:00) in the Dragonmont—the sulfurous steam rises from the obsidian vents like the breath of the volcano itself. You stand at the edge of the descent, the silver flask in your hand feeling heavier than the Hidden Valyrian Steel Dagger at your thigh. Your vision swims slightly, the mid-tier noble silks of your house smelling faintly of the blackberry wine you’ve been nursing since dawn.
@@ -560,7 +560,7 @@ Status: Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 1/1, Spells: L1 2/2, Sorcery Points: 0/0
 Dice Rolls:
-  - {'margin': None, 'dc': 15, 'outcome': None, 'result': 11, 'success': True, 'dc_reasoning': None, 'type': 'Animal Handling (Noblest Dialect Advantage)', 'roll': '2d20kh1+4', 'dc_category': None}
+  - {'roll': '2d20kh1+4', 'type': 'Animal Handling (Noblest Dialect Advantage)', 'outcome': None, 'success': True, 'dc_category': None, 'result': 11, 'dc_reasoning': None, 'dc': 15, 'margin': None}
 
 Game Master:
 Morning (10:07:00) in the Dragonmont Plateau—the heat radiates from the obsidian floor, shimmering through the haze of your intoxicated vision as you take your first stumbling step toward the beast. You don't look like a threat; you look like a girl who has lost her way to the wine cellar and wandered into the mouth of hell.
@@ -612,8 +612,8 @@ Conditions: Genuine Intoxication, Low Self-Esteem | Exhaustion: 0 | Inspiration:
 ⚔️ Soldiers: 0 | 🕵️ Spies: 0 | 👑 Elites: 0 (Avg Lvl 0)
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Dice Rolls:
-  - {'margin': None, 'dc': 15, 'outcome': None, 'result': 12, 'success': True, 'dc_reasoning': None, 'type': 'Animal Handling (Mounting/Commanding)', 'roll': '1d20+4 (Advantage)', 'dc_category': None}
-  - {'margin': None, 'dc': 12, 'outcome': None, 'result': 3, 'success': False, 'dc_reasoning': None, 'type': 'Dexterity (Balance while Intoxicated)', 'roll': '1d20+3', 'dc_category': None}
+  - {'roll': '1d20+4 (Advantage)', 'type': 'Animal Handling (Mounting/Commanding)', 'outcome': None, 'success': True, 'dc_category': None, 'result': 12, 'dc_reasoning': None, 'dc': 15, 'margin': None}
+  - {'roll': '1d20+3', 'type': 'Dexterity (Balance while Intoxicated)', 'outcome': None, 'success': False, 'dc_category': None, 'result': 3, 'dc_reasoning': None, 'dc': 12, 'margin': None}
 
 Game Master:
 Morning (10:15:00) in the Dragonmont Plateau. The air is a thick, sulfurous soup that stings your eyes, though perhaps that’s just the lingering heat of the blackberry wine. You stagger forward, the silver flask clinking against your hip as you approach the Bronze Fury. Vermithor (Lvl 20) emits a low, tectonic rumble that vibrates through your boots, his vast orange eye tracking your erratic movements with a mixture of ancient curiosity and predatory patience.
@@ -640,7 +640,7 @@ Status: Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 1/1 | Spells: L1 2/2 | Sorcery Points: 0/0 | Exhaustion: 0
 Dice Rolls:
-  - {'margin': None, 'dc': 8, 'outcome': None, 'result': 10, 'success': True, 'dc_reasoning': None, 'type': 'Animal Handling (Dragon Command)', 'roll': '2d20kh1+4', 'dc_category': None}
+  - {'roll': '2d20kh1+4', 'type': 'Animal Handling (Dragon Command)', 'outcome': None, 'success': True, 'dc_category': None, 'result': 10, 'dc_reasoning': None, 'dc': 8, 'margin': None}
 
 Game Master:
 Morning (10:22:00) in the churning, smoke-choked skies above the Dragonmont—the wind howls like a wounded beast as you cling to Vermithor’s (Lvl 20) neck. Your vision is a blurred mess of salt-spray and volcanic ash, the blackberry wine turning your stomach into a chaotic sea. You feel your fingers slipping, the coarse bronze bristles of the dragon's mane nearly ripping from your grasp as he banks toward the jagged cliffs of Dragonstone.
@@ -665,8 +665,8 @@ Status: Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 1/1 | Spells: L1 2/2 | Sorcery Points: 0/0 | Exhaustion: 0
 Dice Rolls:
-  - {'margin': None, 'dc': 14, 'outcome': None, 'result': 16, 'success': True, 'dc_reasoning': None, 'type': 'Dexterity (Balance) to stay mounted while waving', 'roll': '1d20+3', 'dc_category': None}
-  - {'margin': None, 'dc': 12, 'outcome': None, 'result': 11, 'success': True, 'dc_reasoning': None, 'type': "Performance to sell the 'Lucky Drunk' victory lap", 'roll': '1d20+4', 'dc_category': None}
+  - {'roll': '1d20+3', 'type': 'Dexterity (Balance) to stay mounted while waving', 'outcome': None, 'success': True, 'dc_category': None, 'result': 16, 'dc_reasoning': None, 'dc': 14, 'margin': None}
+  - {'roll': '1d20+4', 'type': "Performance to sell the 'Lucky Drunk' victory lap", 'outcome': None, 'success': True, 'dc_category': None, 'result': 11, 'dc_reasoning': None, 'dc': 12, 'margin': None}
 
 Game Master:
 Late morning (10:24:00) in the skies above the Dragonmont—the biting wind of the Blackwater whips through your thin silks, yet the furnace-heat of Vermithor (Lvl 20) keeps the chill at bay. You feel the world tilting, a dizzying mix of altitude and the blackberry wine still sloshing in your gut. As the dragon levels out into a majestic, steady glide, you let out a shaky, triumphant laugh that is mostly a hiccup. 
@@ -725,8 +725,8 @@ Status: Lvl 1 Dragon Lord | HP: 8/8 | XP: 0/300 | Gold: 25gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 1/1 | Spells: L1 2/2 | SP: 0/0 | Exhaustion: 0
 Dice Rolls:
-  - {'margin': None, 'dc': 8, 'outcome': None, 'result': 12, 'success': True, 'dc_reasoning': None, 'type': 'Animal Handling (CHA) with Advantage', 'roll': '1d20+4', 'dc_category': None}
-  - {'margin': None, 'dc': 12, 'outcome': None, 'result': 3, 'success': False, 'dc_reasoning': None, 'type': 'Dexterity (Coordination)', 'roll': '1d20+3', 'dc_category': None}
+  - {'roll': '1d20+4', 'type': 'Animal Handling (CHA) with Advantage', 'outcome': None, 'success': True, 'dc_category': None, 'result': 12, 'dc_reasoning': None, 'dc': 8, 'margin': None}
+  - {'roll': '1d20+3', 'type': 'Dexterity (Coordination)', 'outcome': None, 'success': False, 'dc_category': None, 'result': 3, 'dc_reasoning': None, 'dc': 12, 'margin': None}
 
 Game Master:
 Late morning (10:30:00) at the Dragonmont Landing Plateau—the sky is a bruised purple where the volcanic smoke meets the sea air. High above, you lean into Vermithor's (Lvl 20) neck, your cheek pressed against his bronze scales. You don't realize that the warmth flooding your veins isn't just the blackberry wine, but the raw, tectonic pulse of the beast recognizing its master. You whisper a slurry of Valyrian that sounds like a lullaby, and the Bronze Fury responds with a grace that defies his size. He banks toward the ridge not as a wild predator, but as a loyal servant carrying a fragile treasure.
@@ -751,8 +751,8 @@ Status: Lvl 1 Dragon Lord | HP: 8/8 | XP: 250/300 | Gold: 25gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 1/1 | Spells: L1 2/2 | SP: 0/0 | Exhaustion: 0
 Dice Rolls:
-  - {'margin': None, 'dc': 10, 'outcome': None, 'result': 12, 'success': True, 'dc_reasoning': None, 'type': 'Drunken Whisperer (Synergy Check)', 'roll': '1d20+4', 'dc_category': None}
-  - {'margin': None, 'dc': 12, 'outcome': None, 'result': 13, 'success': True, 'dc_reasoning': None, 'type': 'Offering the Flask to Rhaenyra', 'roll': '1d20+4', 'dc_category': None}
+  - {'roll': '1d20+4', 'type': 'Drunken Whisperer (Synergy Check)', 'outcome': None, 'success': True, 'dc_category': None, 'result': 12, 'dc_reasoning': None, 'dc': 10, 'margin': None}
+  - {'roll': '1d20+4', 'type': 'Offering the Flask to Rhaenyra', 'outcome': None, 'success': True, 'dc_category': None, 'result': 13, 'dc_reasoning': None, 'dc': 12, 'margin': None}
 
 Game Master:
 Late morning (10:35:00) at the Dragonmont Landing Plateau—the air is a thick, gray veil of ash that tastes of sulfur and the sharp, blackberry tang of the wine still wet on your lips. You sway precariously on your feet, the world spinning in a slow, lazy circle as you lean one hand against Vermithor's (Lvl 20) snout. The dragon, a mountain of bronze power, lets out a huff of hot air that smells of ancient earth, yet he stays as still as a statue under your touch.
@@ -783,7 +783,7 @@ Conditions: Genuine Intoxication, Low Self-Esteem | Exhaustion: 0]
 ⚔️ Soldiers: 0 | 🕵️ Spies: 0 | 👑 Elites: 0 (Avg Lvl 0)
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Dice Rolls:
-  - {'margin': None, 'dc': 12, 'outcome': None, 'result': 20, 'success': True, 'dc_reasoning': None, 'type': 'Persuasion (Social Interaction)', 'roll': '1d20+4', 'dc_category': None}
+  - {'roll': '1d20+4', 'type': 'Persuasion (Social Interaction)', 'outcome': None, 'success': True, 'dc_category': None, 'result': 20, 'dc_reasoning': None, 'dc': 12, 'margin': None}
 
 Game Master:
 Late morning (10:40:00) at the Dragonmont Landing Plateau—the air is thick with the scent of ozone and the sharp, fermented tang of blackberry wine as you wobble toward the royal party. Behind you, Vermithor (Lvl 20) lets out a low, content rumble that sounds like grinding tectonic plates, his massive head coming to rest on the soot-stained stones.
@@ -812,7 +812,7 @@ Conditions: Intoxicated (Genuine), Low Self-Esteem | Exhaustion: 0 | Inspiration
 ⚔️ Soldiers: 0 | 🕵️ Spies: 0 | 👑 Elites: 0 (Avg Lvl 0)
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Dice Rolls:
-  - {'margin': None, 'dc': 12, 'outcome': None, 'result': 16, 'success': True, 'dc_reasoning': None, 'type': 'Persuasion (Sincere Promise)', 'roll': '1d20+4', 'dc_category': None}
+  - {'roll': '1d20+4', 'type': 'Persuasion (Sincere Promise)', 'outcome': None, 'success': True, 'dc_category': None, 'result': 16, 'dc_reasoning': None, 'dc': 12, 'margin': None}
 
 Game Master:
 Late morning (10:45:00) at the Dragonmont Landing Plateau—the sulfurous haze seems to lift slightly as you lean into Rhaenyra’s embrace, the metal of your flask clinking softly against her royal breastplate. You look up at her with glassy, sincere eyes, a hiccup punctuating your words. "I'll... I'll do it, Rhae. I'll train. I'll even... I'll even cut back. No more blackberry before noon. I promise. I want to be... useful. Not just the family's favorite drunk."
@@ -839,7 +839,7 @@ Status: Lvl 1 Dragon Lord | HP: 8/8 | XP: 250/300 | Gold: 10gp]
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 1/1, Spells: L1 2/2, SP: 0/0, Exhaustion: 0
 Dice Rolls:
-  - {'margin': None, 'dc': 12, 'outcome': None, 'result': 11, 'success': True, 'dc_reasoning': None, 'type': 'Persuasion (Sincere Promise)', 'roll': '1d20+4', 'dc_category': None}
+  - {'roll': '1d20+4', 'type': 'Persuasion (Sincere Promise)', 'outcome': None, 'success': True, 'dc_category': None, 'result': 11, 'dc_reasoning': None, 'dc': 12, 'margin': None}
 
 Game Master:
 Late morning (10:50:00) at the Dragonmont Landing Plateau—the sulfurous haze seems to lift slightly as you lean into Rhaenyra’s embrace, the metal of your flask clinking softly against her royal breastplate. You look up at her with glassy, sincere eyes, a hiccup punctuating your words. "I'll... I'll do it, Rhae. I'll train. I'll even... I'll even cut back. No more blackberry before noon. I promise. But... could I have something? For the head? It's spinning like a septon's top."
@@ -906,7 +906,7 @@ Conditions: Genuine Intoxication, Low Self-Esteem | Exhaustion: 0 | Expectations
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 2/2, Spells: L1 3/3, SP: 0/2, Exhaustion: 0
 Dice Rolls:
-  - {'margin': None, 'dc': 12, 'outcome': None, 'result': 17, 'success': True, 'dc_reasoning': None, 'type': 'Persuasion (Bonding with Princes)', 'roll': '1d20+4', 'dc_category': None}
+  - {'roll': '1d20+4', 'type': 'Persuasion (Bonding with Princes)', 'outcome': None, 'success': True, 'dc_category': None, 'result': 17, 'dc_reasoning': None, 'dc': 12, 'margin': None}
 
 Game Master:
 Late morning (11:20:00) in the secluded shadow of the Dragonmont's inner courtyard—the Maester's sobering draught hits your tongue like liquid smoke and regret. You gag, the world spinning in a violent, clockwise lurch before the concoction's bitter heat finally forces your vision into focus. Above the jagged peaks, Vermithor's distant, vibrating roar ripples through your bones, a bronze echo that feels like a possessive weight on your shoulders.
@@ -973,7 +973,7 @@ Conditions: Drunken Resilience, Low Self-Esteem, Intoxicated | Exhaustion: 0 | I
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 2/2, Spells: L1 3/3, SP: 2/2, Potions: 0, Exhaustion: 0
 Dice Rolls:
-  - {'margin': None, 'dc': 11, 'outcome': None, 'result': 18, 'success': True, 'dc_reasoning': None, 'type': 'Insight (Dragon Tactics)', 'roll': '1d20+0', 'dc_category': None}
+  - {'roll': '1d20+0', 'type': 'Insight (Dragon Tactics)', 'outcome': None, 'success': True, 'dc_category': None, 'result': 18, 'dc_reasoning': None, 'dc': 11, 'margin': None}
 
 Game Master:
 Late morning (11:30:00) in the secluded shadow of the Dragonmont's inner courtyard—the bitter aftertaste of the Maester's draught lingers, but the world has finally stopped its dizzying tilt. You sit on a low stone bench, the heavy practice harness forgotten at your feet, as Jacaerys (Lvl 5) paces before you. His movements are precise, echoing the discipline his mother has instilled in him.
@@ -1003,7 +1003,7 @@ Conditions: Drunken Resilience, Low Self-Esteem, Genuine Intoxication | Exhausti
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 2/2, Spells: L1 3/3, SP: 2/2, Potions: 0, Exhaustion: 0
 Dice Rolls:
-  - {'margin': None, 'dc': 13, 'outcome': None, 'result': 17, 'success': True, 'dc_reasoning': None, 'type': 'Mounting Grip Practice', 'roll': '1d20+5', 'dc_category': None}
+  - {'roll': '1d20+5', 'type': 'Mounting Grip Practice', 'outcome': None, 'success': True, 'dc_category': None, 'result': 17, 'dc_reasoning': None, 'dc': 13, 'margin': None}
 
 Game Master:
 Late morning (11:45:00) in the Dragonmont Private Courtyard—the sharp, medicinal tang of the sobering draught still dances on your tongue as you turn toward the training rig. It is a hulking frame of iron and wood, draped in thick, scorched leather meant to simulate the broad junction of a dragon's neck. You feel the princes' eyes on you—expectant, hopeful, and entirely too trusting for a girl who feels like her knees are made of wet parchment.
@@ -1059,8 +1059,8 @@ Conditions: Genuine Intoxication (Clearing), Low Self-Esteem | Exhaustion: 0 | I
 🏰 Territory: 0 | 🏛️ Citizens: 0/0 | 💰 Gold: 0 | ✨ Arcana: 0/0
 Resources: HD: 2/2, Spells: L1 3/3, SP: 2/2, Potions: 0, Exhaustion: 0
 Dice Rolls:
-  - {'margin': None, 'dc': 12, 'outcome': None, 'result': 8, 'success': True, 'dc_reasoning': None, 'type': 'Persuasion (Bonding)', 'roll': '1d20+6 (Disadvantage from Expectations)', 'dc_category': None}
-  - {'margin': None, 'dc': 15, 'outcome': None, 'result': 5, 'success': False, 'dc_reasoning': None, 'type': 'Insight (Recognizing Worth)', 'roll': '1d20+0 (Disadvantage from Low Self-Esteem)', 'dc_category': None}
+  - {'roll': '1d20+6 (Disadvantage from Expectations)', 'type': 'Persuasion (Bonding)', 'outcome': None, 'success': True, 'dc_category': None, 'result': 8, 'dc_reasoning': None, 'dc': 12, 'margin': None}
+  - {'roll': '1d20+0 (Disadvantage from Low Self-Esteem)', 'type': 'Insight (Recognizing Worth)', 'outcome': None, 'success': False, 'dc_category': None, 'result': 5, 'dc_reasoning': None, 'dc': 15, 'margin': None}
 
 Game Master:
 Late Morning (11:50:00) in the Dragonmont Courtyard—the sharp, acidic residue of the Maester's sobering draught feels like a cold flame in your stomach, stripping away the blackberry haze and leaving you raw. You sit atop the training rig, your hands still trembling as they grip the scorched leather. The silence of the courtyard is broken only by the distant, rhythmic thrumming of Vermithor’s wings somewhere above the peaks.
