@@ -92,3 +92,6 @@ See [[PRRecreatePipeline]] and [[BenchmarkMode]] concept pages.
 - **[[Harness5LayerModel]]** — L1 Constraint, L2 Context, L3 Execution, L4 Verification, L5 Lifecycle
 - **[[Level-Up Systemic Fix]]** — game_state.py canonicalizer self-undo bug, computed @property level
 - **[[Normalization Atomicity]]** — All Firestore-persisted rewards_box must canonicalize; passthrough path name does not mean skip normalization
+- **[[autor-router-prerequisite-gate]]** — Structural gate (2026-05-13): requires ≥5 matched PRs scored by ALL techniques AND ≥2 ranking reversals before router work can proceed; `observations` → `scores` key fix in validate_router_prereqs.py
+- **[[autor-5iter-technique]]** — 5-round self-refinement in batch_sr5iter.py; targets PRs needing runs to reach n=3
+- **[[autor-sr-adversarial-design-2026-05-13]]** — SR-adversarial (Solver+Attacker) added to run_autor_experiment.py; 2026-05-13 merge conflict resolution
