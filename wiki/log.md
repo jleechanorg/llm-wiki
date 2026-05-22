@@ -4145,3 +4145,14 @@ Tags: doctor.sh, hermes.json, minimal-config, env-defaults-install
 - Affects `[[jeffrey-oracle]]`: No — technical workflow only
 
 ## [2026-05-19] ingest | PR #6958 evidence iteration 3 — process_action over get_campaign_state
+
+## [2026-05-22] ingest | Inline prompt drift in mvp_site/agents.py
+
+- Source: `wiki/sources/2026-05-22-inline-prompt-drift-agents-py.md`
+- Raw: `raw/feedback_2026-05-22_inline_prompt_drift_agents_py.md`
+- Origin: PR [#6968](https://github.com/jleechanorg/worldarchitect.ai/pull/6968) review
+- Beads: rev-ivchh / [#6979](https://github.com/jleechanorg/worldarchitect.ai/issues/6979), rev-7v63f / [#6980](https://github.com/jleechanorg/worldarchitect.ai/issues/6980)
+- Related concepts: [[ZeroFrameworkCognition]], [[AgentArchitecture]]
+- Jeffrey-oracle relevance: no (technical workflow learning)
+## [2026-05-22] ingest | .claude_reference/commands/ + LLM-first export guards
+## [2026-05-22] ingest | worktree-safe integrate pattern
