@@ -10,6 +10,7 @@
 !wiki/syntheses/*.md
 !research-wiki/syntheses/*.md
 !wiki/sources/*.md
+!wiki/campaigns/**/*.md
 !skills/*.md
 !test-prs/*.md
 !raw/*.md
