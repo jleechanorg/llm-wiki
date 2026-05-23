@@ -6,6 +6,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 - [Chimera GNN Mock Training vs Real Training — 2026-05-22](sources/feedback-2026-05-22-chimera-gnn-mock-vs-real-training.md) — `train_gnn.py` was training GNN on hash-based fake quality scores; fixed with `--real-data` flag loading P14 benchmark scores; GNN mean > fixed mean after retraining — jleechanclaw fork has old openclaw secrets; always use clean branch from hermes/main for upstream PRs
+- [integrate --force for worktree main checkout](sources/integrate-force-worktree-main-2026-05-23.md) — `./integrate.sh --force` bypasses main checkout safety when main is checked out in another worktree
 - [project-supervisor interval timer rejection bug](sources/pr559_interval_timer_rejection_bug.md) — `swallowErrors=true` callers incorrectly rejected via double-negative bug; `gh run list` requires cd to repo root
 - [Windows Footgun False Positive Suppression](sources/feedback-2026-05-14-windows-footgun-suppression.md) — naive grep checker; suppress with `# windows-footgun: ok` on _IS_WINDOWS-gated lines
 - [Level-Up Exit Classifier](sources/level_up_exit_classifier.md) — Use `classify_level_up_exit_intent()` for modal exit, not `classify_intent()`
