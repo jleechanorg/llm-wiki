@@ -4165,3 +4165,9 @@ Tags: doctor.sh, hermes.json, minimal-config, env-defaults-install
 - GNN mean=4.09 > fixed mean=3.85 in re-benchmark
 - New files: collect_training_data.py, DESIGN-real-training.md, training_data.jsonl
 - Next: expand training corpus, replace LLM router with real GNN in benchmark
+
+## [2026-05-22] ingest | Chimera GNN mock training vs real training
+- Source: `raw/feedback_2026-05-22_chimera_gnn_mock_vs_real_training.md`
+- Learning: `train_gnn.py generate_mock_quality_score()` used hash-based fake scores; fixed with `--real-data` + JSONL loader from P14 checkpoint
+- Bead: jleechan-mth
+- Jeffrey-oracle relevance: no (technical workflow learning)

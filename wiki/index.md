@@ -5,7 +5,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Overview
 - [Overview](overview.md) — living synthesis across all sources
 
-- [Fork Push Protection — hermes-agent](sources/feedback-2026-05-14-fork-push-protection-hermes-agent.md) — jleechanclaw fork has old openclaw secrets; always use clean branch from hermes/main for upstream PRs
+- [Chimera GNN Mock Training vs Real Training — 2026-05-22](sources/feedback-2026-05-22-chimera-gnn-mock-vs-real-training.md) — `train_gnn.py` was training GNN on hash-based fake quality scores; fixed with `--real-data` flag loading P14 benchmark scores; GNN mean > fixed mean after retraining — jleechanclaw fork has old openclaw secrets; always use clean branch from hermes/main for upstream PRs
 - [project-supervisor interval timer rejection bug](sources/pr559_interval_timer_rejection_bug.md) — `swallowErrors=true` callers incorrectly rejected via double-negative bug; `gh run list` requires cd to repo root
 - [Windows Footgun False Positive Suppression](sources/feedback-2026-05-14-windows-footgun-suppression.md) — naive grep checker; suppress with `# windows-footgun: ok` on _IS_WINDOWS-gated lines
 - [Level-Up Exit Classifier](sources/level_up_exit_classifier.md) — Use `classify_level_up_exit_intent()` for modal exit, not `classify_intent()`
