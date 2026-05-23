@@ -31,6 +31,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [FileBasedHandoffs](concepts/FileBasedHandoffs.md) — State persistence via files between agent restarts
 - [BorisWorkflow](concepts/BorisWorkflow.md) — Research-first, plan-in-markdown, annotation cycle, "don't implement yet" guard
 - [jleechan TTRPG Psychology](campaigns/jleechan/index.md) — Root index
+- [Michele Fried Chicken Sessions](campaigns/jleechan/michele-fried-chicken/) — 42 session entries (campaign runs)
 - [Psychological Profile](campaigns/jleechan/psychological-profile.md) — Childhood formation, conditional belonging, two-mask system
 - [Seven Choice Patterns](campaigns/jleechan/seven-choice-patterns.md) — Observable decision patterns from 500+ turn campaigns
 - [Character Archetypes](campaigns/jleechan/character-archetypes.md) — Name recycling, Tywin+Aizen+Johan+Griffith mashup
