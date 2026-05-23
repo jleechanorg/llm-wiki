@@ -80,3 +80,21 @@ Query → Router → GNN Topology Generator
 - [[ProjectChimera]] — design document this implements
 - [[MultiAgentOrchestration]] — general orchestration patterns
 - [[GNN]] — topology learning concept
+
+## Implementation Status — 2026-05-22
+
+### Complete
+- [x] 11-agent MVP (of 22 planned)
+- [x] GNN training infrastructure (`train_gnn.py`, `--real-data` mode)
+- [x] Training data collector (`collect_training_data.py`)
+- [x] Real GNN training on P14 benchmark scores (not mock)
+
+### In Progress
+- [ ] 22-agent full deployment
+- [ ] Real GNN topology execution in benchmark (currently benchmark uses LLM router for GNN mode)
+- [ ] PyTorch Geometric or proper GNN layer replacement
+
+### Known Limitations
+- `run_gnn_mode()` in `run_hard_benchmark.py` does NOT call `GNNTopologyGenerator` — it uses LLM-based routing instead
+- `generate_topology()` uses hash-based random embedding, not sentence transformers
+- Training data: only 15 queries from P14 benchmark, limited diversity

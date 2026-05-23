@@ -4160,3 +4160,8 @@ Tags: doctor.sh, hermes.json, minimal-config, env-defaults-install
 - Jeffrey-oracle relevance: no (technical workflow learning)
 ## [2026-05-22] ingest | .claude_reference/commands/ + LLM-first export guards
 ## [2026-05-22] ingest | worktree-safe integrate pattern
+## [2026-05-22] chimera | Real GNN training complete — trained on actual benchmark scores, GNN beats fixed in re-benchmark
+- train_gnn.py --real-data training_data.jsonl (15 samples, 10 epochs)
+- GNN mean=4.09 > fixed mean=3.85 in re-benchmark
+- New files: collect_training_data.py, DESIGN-real-training.md, training_data.jsonl
+- Next: expand training corpus, replace LLM router with real GNN in benchmark

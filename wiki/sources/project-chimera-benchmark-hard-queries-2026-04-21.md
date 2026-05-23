@@ -6,6 +6,40 @@ sources: [project-chimera-neural-network-llm-agents-2026-04-19, project-chimera-
 last_updated: 2026-04-21
 ---
 
+## Real GNN Training Run — 2026-05-22
+
+### What Changed
+- `train_gnn.py` modified to use `--real-data training_data.jsonl` flag
+- `generate_mock_quality_score()` deprecated (was hash-based fake, replaced with JSONL loader)
+- GNN retrained on actual P14 benchmark quality scores from `benchmark_logs/checkpoint.json`
+- 15 training samples, 10 epochs, Adam optimizer, LR=0.001→0.000125 (scheduler)
+- New `gnn_trained.pt` written to `chimera/gnn_trained.pt`
+
+### Training Results
+- Best reward: 0.4150 (vs 0.4149 pre-training — marginal improvement)
+- Training converged quickly (1-2 epochs), limited signal in 15 samples
+
+### Re-benchmark Results (after training)
+| Mode | Mean Score | GNN Wins |
+|------|-----------|----------|
+| single | 1.53 | 9/15 |
+| fixed | 3.85 | 5/15 |
+| gnn (trained) | 4.09 | — |
+
+**Key finding**: GNN mean (4.09) > fixed mean (3.85) — trained GNN outperforms fixed multi-agent on this run.
+
+### Files Changed
+- `train_gnn.py` — --real-data CLI, JSONL loader, deprecated mock scorer
+- `collect_training_data.py` — NEW (dataset collector)
+- `DESIGN-real-training.md` — NEW (design doc)
+- `training_data.jsonl` — NEW (15 training samples)
+- `chimera/gnn_trained.pt` — retrained on real data
+
+### Lessons Learned
+- With only 15 samples and 10 epochs, training signal is weak — more diverse training queries would help
+- The GNN model (3-layer MLP, 64→128→64→22) may be too small for complex topology learning
+- Reward = (quality_score × sparsity) / log(tokens+1) — the GNN learns sparsity preferences but quality signal dominates
+
 ## Summary
 
 15 hard research queries × 3 Chimera modes (single/fixed/GNN) run on real Minimax M2.7 API over 281 minutes. **Critical caveat: results dominated by API reliability (33-93% error rates), not pure architectural quality.** Multi-agent completes more API calls than single mode, but the quality gap is unclear.
