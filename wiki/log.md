@@ -4171,3 +4171,6 @@ Tags: doctor.sh, hermes.json, minimal-config, env-defaults-install
 - Learning: `train_gnn.py generate_mock_quality_score()` used hash-based fake scores; fixed with `--real-data` + JSONL loader from P14 checkpoint
 - Bead: jleechan-mth
 - Jeffrey-oracle relevance: no (technical workflow learning)
+- Ingest: `integrate --force` workflow learning — main checkout safety bypass when worktree holds main
+- Bead: none
+- Jeffrey-oracle relevance: no (technical workflow learning)
