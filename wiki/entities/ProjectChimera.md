@@ -3,7 +3,7 @@ title: "Project Chimera"
 type: entity
 tags: [project, multi-agent-system, gnn, collective-intelligence]
 sources: [project-chimera-neural-network-llm-agents-2026-04-19]
-last_updated: 2026-04-19
+last_updated: 2026-05-22
 ---
 
 ## Overview
