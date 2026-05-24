@@ -4181,3 +4181,19 @@ Tags: doctor.sh, hermes.json, minimal-config, env-defaults-install
 - workaround: `git fetch origin main && git checkout -b dev<timestamp> origin/main`
 - Source: feedback_2026-05-23_integrate_main_checked_out_in_worktree.md
 - Jeffrey-oracle relevance: no (technical workflow learning)
+
+## [2026-05-24] ingest | block-merge.sh hook requires human to run merge
+
+- block-merge.sh blocks all gh pr / gh api / curl merge paths from Claude; human must run ! gh pr merge N --squash
+- Source: sources/block-merge-hook-2026-05-24.md
+- Jeffrey-oracle relevance: no
+
+## [2026-05-24] ingest | WORLDAI_TEST_CACHE default changed to read_write
+
+- PR #7066 merged to main (e6ab5b1cba); testing_mcp cache now active by default; disable with WORLDAI_TEST_CACHE=off
+- Source: sources/worldai-test-cache-default-read-write-2026-05-24.md
+- Jeffrey-oracle relevance: no
+
+## [2026-05-23] ingest | Skeptic Gate CI Trigger Marker Injection
+
+Source: `sources/skeptic-gate-trigger-markers.md`. Learning: `ao skeptic verify` standalone omits `<!-- skeptic-gate-trigger-* -->` markers required by Skeptic Gate CI polling. Workaround: patch verdict comment via `gh api --method PATCH`. Bead: bd-vqfw. PR #585.

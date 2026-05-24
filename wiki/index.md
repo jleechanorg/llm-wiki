@@ -53,6 +53,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AND-Logic Modal Exit Guard](concepts/AndLogicModalExitGuard.md) — Modal exit guards requiring AND logic create impossible states
 
 ## Sources
+- [block-merge.sh — Human must run merge (2026-05-24)](sources/block-merge-hook-2026-05-24.md) — hook blocks all gh pr / gh api / curl merge paths from Claude; after /green PASS output `! gh pr merge N --squash` and stop; refs PR #7066
+- [WORLDAI_TEST_CACHE default changed to read_write (2026-05-24)](sources/worldai-test-cache-default-read-write-2026-05-24.md) — PR #7066 merged main e6ab5b1cba; testing_mcp LLM response cache now active by default; disable with WORLDAI_TEST_CACHE=off
 - [AO ralph lifecycle-worker: involuntary injection respawns after kill (2026-05-21)](sources/ao-ralph-lifecycle-worker-respawn-2026-05-21.md) — bead rev-3ey45; lifecycle-worker ralph = AO project monitor NOT ralph-wiggum; kill PID insufficient (launchd+2min watchdog); use `ao stop ralph` + `launchctl unload com.ao-runner.plist`; `ao session kill <id>` before manual sessions
 - [Inline Prompt Drift in agents.py (2026-05-22)](sources/2026-05-22-inline-prompt-drift-agents-py.md) — PR #6968: edit prompts/*_instruction.md instead of appending string literals inside build_system_instructions; mvp_site/agents.py at 3853 lines / 157 long literals
 - [Plist Template Drift Anti-Pattern — Hermes Launchd (2026-05-19)](sources/feedback-2026-05-19-plist-template-drift.md) — 4 drift classes: wrong placeholder, orphaned plists, MINIMAX behind interactive guard, source .bashrc in bash -c
@@ -6517,3 +6519,4 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [bg3 shadow heart - camp design](sources/bg3-shadow-heart-camp-design-9WlAYnqj.md) — 53 entries
 - [Derek](sources/derek-oSpVZmb6.md) — 50 entries
 - [Arion dragon good](sources/arion-dragon-good-X3jXwHvo.md) — 50 entries
+- [Skeptic Gate CI Trigger Markers](sources/skeptic-gate-trigger-markers.md) — ao skeptic verify standalone omits trigger markers; patch verdict comment via gh api PATCH
