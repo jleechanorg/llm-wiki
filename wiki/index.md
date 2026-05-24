@@ -30,6 +30,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [GeneratorEvaluatorSeparation](concepts/GeneratorEvaluatorSeparation.md) — Separate generator agent from evaluator agent; generator grading itself is meaningless
 - [ContextAnxiety](concepts/ContextAnxiety.md) — Models wrap up prematurely as context fills; solved by context resets, not compaction
 - [SprintContract](concepts/SprintContract.md) — Negotiated scope lock between Generator and Reviewer before any code is written
+- [AttractorBench](entities/AttractorBench.md) — StrongDM's benchmark harness: spec-in/evaluator-out split, mock LLM server, 5-dim LLM Judge, Harbor concurrent runner
+- [Kilroy](entities/Kilroy.md) — Dan Shapiro's Go implementation: CSS model_stylesheet, parallel fan-out/fan-in, failure dossier, model escalation, 5-phase lifecycle
+- [Smasher](entities/Smasher.md) — 2389 Research Rust implementation: 6 crates, 3-tier conformance, tokio parallel, SSE streaming, HTMX dashboard
+- [Mammoth](entities/Mammoth.md) — 2389 Research TypeScript implementation; review pending for full detail
 - [FileBasedHandoffs](concepts/FileBasedHandoffs.md) — State persistence via files between agent restarts
 - [BorisWorkflow](concepts/BorisWorkflow.md) — Research-first, plan-in-markdown, annotation cycle, "don't implement yet" guard
 - [jleechan TTRPG Psychology](campaigns/jleechan/index.md) — Root index
@@ -51,8 +55,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Schema Fallback Severance](concepts/SchemaFallbackSeverance.md) — Removing legacy fallback during strict schema validation causes silent data loss
 - [Duplicated Constant Lists](concepts/DuplicatedConstantLists.md) — Duplicated field lists across files are merge-rebase bombs
 - [AND-Logic Modal Exit Guard](concepts/AndLogicModalExitGuard.md) — Modal exit guards requiring AND logic create impossible states
+- [Dark Factory](concepts/DarkFactory.md) — DOT pipeline runner with Healer, slash gates, sealed holdouts; only Attractor impl without parallel execution
+- [Attractor Pattern](concepts/AttractorPattern.md) — Three-layer convergence pattern (LLM client → Agent loop → Pipeline engine); four independent implementations converged
+- [Model Stylesheet](concepts/ModelStylesheet.md) — CSS-like model routing in DOT files with specificity matching; implemented in Kilroy
+- [Attractor Parallel Execution](concepts/AttractorParallelExecution.md) — Fan-out/fan-in with 4 join policies (wait_all, first_success, k_of_n, quorum); Kilroy + Smasher; NOT in dark-factory
+- [Failure Dossier](concepts/FailureDossier.md) — Per-stage 6-class failure taxonomy (transient_infra, budget_exhausted, compilation_loop, deterministic, canceled, structural); implemented in Kilroy
 
 ## Sources
+- [Attractor Pattern Four-Implementation Gap Analysis (2026-05-24)](sources/attractor-four-implementation-gap-analysis-2026-05-24.md) — Feature-by-feature comparison of dark-factory vs AttractorBench, Kilroy, Smasher, Mammoth; three-layer convergence; dark-factory unique in Healer + slash gates + sealed holdouts; only one without parallel execution
 - [Mem0 Environment Fix and PyPI Name Discrepancy (2026-05-24)](sources/mem0-environment-fix.md) — Missing mem0ai and qdrant-client dependencies in orchestrator python env caused import failure skipped warnings. Correct PyPI registry package name is mem0ai.
 - [GitHub Actions Cost Root-Caused to Runner Policy Drift (2026-05-24)](sources/github-actions-cost-runner-policy-drift.md) — High metered Actions billing caused by runner policy drift hardcoding ubuntu-latest; resolved across four repositories concurrently using parallel green validation subagents and a daily launchd compliance scanner
 - [PR #7074 — Cache TTL fix & stream retry correction (2026-05-24)](sources/pr7074-cache-ttl-stream-retry.md) — CACHE_TTL_EXPIRY fires 0x in prod; active-play cost = REBUILD_THRESHOLD=5; stream path must not retry ConnectionResetError (mutating); injectable is_retryable_fn fix
@@ -5715,6 +5725,17 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Voyager](entities/Voyager.md) — Minecraft agent; skill library + automatic curriculum + iterative prompting; GPT-4 critic
 - [Devin](entities/Devin.md) — Cognition AI "software engineer"; bug detection, COBOL modernization
 - [Archon](entities/Archon.md) — coleam00's YAML workflow engine; DarkFactory governance; 17 default workflows
+- [StrongDM](entities/StrongDM.md) — Enterprise security company; Attractor pattern pioneer; CXDB + Healer + digital twin universe
+- [AttractorBench](entities/AttractorBench.md) — StrongDM's NLSpec-following benchmark; deterministic mock LLM; 4 tiers; cost-aware scoring
+- [Dan Shapiro](entities/DanShapiro.md) — Glowforge CEO; documented Dark Factory; built Kilroy; Five-Level Automation ladder
+- [2389 Research](entities/2389Research.md) — AI startup; built Mammoth, Smasher, Tracker; DOT-pipeline expertise
+- [Kilroy](entities/Kilroy.md) — Go CLI for Attractor pipelines; English-to-DOT ingestion; CXDB checkpoints; multi-provider
+- [Mammoth](entities/Mammoth.md) — Go DOT pipeline runner; 21-rule linter; fan-in nodes; verification nodes; 5-phase lifecycle
+- [Smasher](entities/Smasher.md) — Rust DOT pipeline runner; HTMX dashboard; SSE streaming; smasher chat REPL
+- [Tracker](entities/Tracker.md) — 2389 Research Go pipeline orchestration engine; Dippin language; .dipx bundles; interview-mode gates
+- [Harbor](entities/Harbor.md) — Concurrent benchmark runner for coding agents; Docker/Daytona; ATIF trajectories
+- [Harper Reed](entities/HarperReed.md) — 2389 Research co-founder; "The Dark Factory Is a .dot file" author
+- [Jesse Vincent](entities/JesseVincent.md) — Coined dorodango framing for codegen; "Software is cheap now. Specs are the expensive part."
 - [Airbyte](entities/Airbyte.md) — Data integration platform with MCP Server for AI agent context access
 - [OPA](entities/OPA.md) — Open Policy Agent; Rego policy language; decouples policy from application
 - [Styra](entities/styra.md) — Company behind OPA; enterprise governance platform; visual policy editors + RBAC
@@ -5911,9 +5932,22 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [SkepticGate](concepts/SkepticGate.md) — CI gate requiring evidence artifacts with timestamps; renamed from skeptic-gate.yml to green-gate.yml; concurrency bug with green-gate shared group
 - [GovernanceLayerResearch](concepts/GovernanceLayerResearch.md) — Research synthesis: Grok second opinion (filesystem abstraction flaw, 5-gate bureaucracy, no feedback loops) + 4 recommendations; tensions in PR #452/#453 architecture
 - [MultiAgentOrchestration](concepts/MultiAgentOrchestration.md) — Fleet coordination frameworks: LangGraph, AutoGen, CrewAI, MetaGPT; state machines, group chats, SOP encoding
-- [WorkflowEngine](concepts/WorkflowEngine.md) — YAML DAG / durable execution systems: Archon, Temporal, Prefect, Airbyte; git worktree isolation, event sourcing
+- [WorkflowEngine](concepts/WorkflowEngine.md) — YAML/DOT DAG / durable execution systems: Archon, Kilroy, Mammoth, Tracker, Temporal, Prefect, Airbyte; git worktree isolation, event sourcing
 - [PolicyEngine](concepts/PolicyEngine.md) — OPA/Rego, Constitutional AI; decouples policy decisions from application code
 - [DurableExecution](concepts/DurableExecution.md) — Crash-proof workflow state persistence; Temporal's event sourcing model; replay from any checkpoint
+- [AttractorPattern](concepts/AttractorPattern.md) — Spec-driven design where NLSpecs pull independent implementations to the same architecture; 4 implementations converged on 3-layer design
+- [NLSpec](concepts/NLSpec.md) — Natural Language Specification; prose specs precise enough for agents to implement from scratch; the primary artifact in Attractor pattern
+- [CXDB](concepts/CXDB.md) — Code eXecution Data Base; observability layer recording every pipeline step; enables Healer, checkpoint recovery, audit trail
+- [HealerAgent](concepts/HealerAgent.md) — Automated failure diagnosis and fix; clusters CXDB failures into diagnoses; writes prescriptions; applies fixes
+- [Dorodango](concepts/Dorodango.md) — Japanese mud-ball polishing metaphor for codegen; code is disposable, specs are durable; throw away and rebuild from spec
+- [DOT as Artifact](concepts/DOTAsArtifact.md) — Graphviz DOT pipeline files as the durable versionable product; runner code is dorodango
+- [Five Level Automation](concepts/FiveLevelAutomation.md) — Dan Shapiro's ladder: L0 (vi) → L2 (pair programming) → L4 (AI PM) → L5 (dark factory)
+- [Mock LLM Testing](concepts/MockLLMTesting.md) — Deterministic mock LLM server returning canned responses; reproducible cost-free agent evaluation
+- [Digital Twin Universe](concepts/DigitalTwinUniverse.md) — Local replicas of SaaS apps (GSuite, Salesforce, Okta) for agent testing; faithful enough agents can't tell
+- [Agent Isolation](concepts/AgentIsolation.md) — Operational + mechanical separation of implementing agent from evaluator; sandbox-exec + env stripping
+- [Adversarial Evaluation](concepts/AdversarialEvaluation.md) — Red-teaming, Constitutional AI, debate, cross-review; sealed evaluator is adversarial by design
+- [Event Sourcing for Agents](concepts/EventSourcingForAgents.md) — Immutable event log for agent pipeline steps; enables replay, failure clustering, checkpoint recovery
+- [Model Stylesheets](concepts/ModelStylesheets.md) — CSS-like selectors mapping DOT node classes to LLM providers/models; declarative model routing
 - [Tenacity](concepts/tenacity.md) — Apache 2.0 Python retry library; wait_exponential, wait_fixed, async support; relevant to LLM API reliability in multi-agent systems
 - [ConstitutionalAI](concepts/ConstitutionalAI.md) — Anthropic two-phase training: SL self-critique + RL/RLAIF; chain-of-thought transparency
 - [RLAIF](concepts/RLAIF.md) — RL from AI Feedback; reduces labeling burden; RLAIF-inspired loops for governance rule improvement
