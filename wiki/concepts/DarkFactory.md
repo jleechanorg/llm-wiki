@@ -55,3 +55,25 @@ Cole is honest about limits on stream, but framing (dark factory, no steering wh
 | Failure recovery | Implicit retry hooks | Explicit: stuck-worker-detector, stalled-worker-auditor, parallel-retry |
 
 See [[Archon]], [[jleechanorg/agent-orchestrator]], [[slack-c09grlxf9gr-archon-analysis-2026-04-15]].
+
+## vs Four Canonical Attractor Implementations
+
+The dark-factory (Python) is one of five Attractor pattern implementations. Four independent implementations converged on the same three-layer architecture (LLM client → Agent loop → Pipeline engine), confirming structural correctness.
+
+| Dimension | dark-factory | [[AttractorBench]] | [[Kilroy]] | [[Smasher]] | [[Mammoth]] |
+|---|---|---|---|---|---|
+| Language | Python | Python | Go | Rust | TypeScript |
+| Parallel | No | Yes (Harbor) | Yes (4 join policies) | Yes (bounded) | TBD |
+| Multi-model | Single backend | Single provider | CSS stylesheet + escalation | 3 providers + catalog | TBD |
+| Holdout | Sealed repo + sandbox-exec | Sealed mock LLM + LLM Judge | review_consensus | Tiered conformance | TBD |
+
+**dark-factory is unique** in having:
+- Healer failure clustering (no other implementation has post-hoc failure clustering)
+- /es /er /code_standards slash gates with SHA binding
+- Sealed holdouts via `$DARK_FACTORY_HOLDOUTS` + `sandbox-exec`
+
+**dark-factory is the ONLY one** without parallel execution. Its engine walks a single path sequentially via `_edge_matches`.
+
+For the full feature-by-feature gap analysis, see source page `attractor-four-implementation-gap-analysis-2026-05-24`.
+
+See [[AttractorPattern]], [[ModelStylesheet]], [[AttractorParallelExecution]], [[FailureDossier]].
