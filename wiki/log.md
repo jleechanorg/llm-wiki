@@ -4197,3 +4197,10 @@ Tags: doctor.sh, hermes.json, minimal-config, env-defaults-install
 ## [2026-05-23] ingest | Skeptic Gate CI Trigger Marker Injection
 
 Source: `sources/skeptic-gate-trigger-markers.md`. Learning: `ao skeptic verify` standalone omits `<!-- skeptic-gate-trigger-* -->` markers required by Skeptic Gate CI polling. Workaround: patch verdict comment via `gh api --method PATCH`. Bead: bd-vqfw. PR #585.
+## [2026-05-24] ingest | PR #7074 cache TTL fix & stream retry correction
+
+- Source: ~/.claude/projects/-Users-jleechan-projects-worktree-cost-gemini/memory/project_2026-05-24_cache_ttl_pr7074_merged.md
+- Concepts updated: CachedSystemInstructionTokens.md, RetryLogic.md
+- Key facts: CACHE_TTL_EXPIRY=0 in prod; REBUILD_THRESHOLD=5 dominates; stream retry fix via is_retryable_fn
+- [[jeffrey-oracle]]: not affected (technical workflow learning)
+
