@@ -1,3 +1,7 @@
+## [2026-05-24] ingest | GitHub Actions Cost Root-Caused to Runner Policy Drift
+
+High metered Actions billing caused by runner policy drift hardcoding ubuntu-latest; resolved across four repositories concurrently using parallel green validation subagents and a daily launchd compliance scanner. PRs #7000 (worldarchitect.ai), #593 (agent-orchestrator), #248 (worldai_claw), and #590 (jleechanclaw) successfully green-validated and squash-merged under explicit human authorization. Established a daily automated scanner script (`scan_runner_violations.py`) and plist daemon to notify on future violations. Bead: rev-0qn8f. Source: project_2026-05-24_actions_runner_policy_drift.md. [[jeffrey-oracle]]: NO.
+
 ## [2026-05-15] ingest | project-supervisor interval timer rejection bug
 
 PR #559 `feat/upstream-integration-may2026` merged. Critical bug in `packages/cli/src/lib/project-supervisor.ts`: interval timer callers (swallowErrors=true) were incorrectly rejected via double-negative (`!options.swallowErrors` when swallowErrors=true → true → reject). Fix: `options.swallowErrors === false` instead. Related: GraphQL resolveReviewThread resolves CodeRabbit threads, `sessions/[id]/page.tsx` deleted by upstream refactor and restored, `gh run list` requires cd to repo root. PR merged as commit a12ef2c68. Source: feedback_2026-05-15_pr559_interval_timer_rejection_bug.md. [[jeffrey-oracle]]: NO.
