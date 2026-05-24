@@ -4204,3 +4204,7 @@ Source: `sources/skeptic-gate-trigger-markers.md`. Learning: `ao skeptic verify`
 - Key facts: CACHE_TTL_EXPIRY=0 in prod; REBUILD_THRESHOLD=5 dominates; stream retry fix via is_retryable_fn
 - [[jeffrey-oracle]]: not affected (technical workflow learning)
 
+## [2026-05-24] ingest | pr7048-location-centralization-merged
+
+Source: Claude session memory (project_2026-05-24_pr7048_merged_summary.md)
+4 reusable patterns + 22-bead triage record.
