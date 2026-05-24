@@ -62,3 +62,14 @@ Skeptic LLM can hallucinate code behavior (inventing function calls or execution
 
 Case study: PR #552 skeptic claimed 3x that line 229 calls `updateSessionMetadataHelper()` after spawn — this was false. Fixed with ghost session prevention comment + ordering test. See [[skeptic-hallucination-defense]].
 
+## 2026-05-23 Update — Trigger Marker Protocol
+
+`ao skeptic verify` run standalone (manual/cron, not via lifecycle-worker) does NOT embed the three comment markers that Skeptic Gate CI polling requires:
+
+```
+<!-- skeptic-gate-trigger-<SHA> -->
+<!-- skeptic-head-sha-<SHA> -->
+<!-- skeptic-request-id-gate-<SHA>-<RUN_ID>-<N> -->
+```
+
+**Workaround**: patch the verdict comment via `gh api --method PATCH repos/.../issues/comments/<ID>` to prepend the markers extracted from the GHA trigger comment. Source: `[[skeptic-gate-trigger-markers]]`, bead bd-vqfw, PR #585.
