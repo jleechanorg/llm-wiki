@@ -6522,3 +6522,5 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Derek](sources/derek-oSpVZmb6.md) — 50 entries
 - [Arion dragon good](sources/arion-dragon-good-X3jXwHvo.md) — 50 entries
 - [Skeptic Gate CI Trigger Markers](sources/skeptic-gate-trigger-markers.md) — ao skeptic verify standalone omits trigger markers; patch verdict comment via gh api PATCH
+
+- [[pr7048-location-centralization-merged]] — PR #7048 location centralization MERGED 2026-05-24
