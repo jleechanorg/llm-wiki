@@ -1,3 +1,7 @@
+## [2026-05-24] ingest | Mem0 Environment Fix and PyPI Name Discrepancy
+
+Missing mem0ai and qdrant-client dependencies in the orchestrator python environment (/Users/jleechan/.local/orch-venv/) caused import failure skipped warnings in Claude hooks. Resolved by identifying the PyPI package name discrepancy (official package is mem0ai, without hyphens) and installing mem0ai along with qdrant-client. Stats connection to the shared local Qdrant collection openclaw_mem0 verified successful showing 31,530 memory points. Bead: rev-4s58s. Source: project_2026-05-24_mem0_environment_fix.md. [[jeffrey-oracle]]: NO.
+
 ## [2026-05-24] ingest | GitHub Actions Cost Root-Caused to Runner Policy Drift
 
 High metered Actions billing caused by runner policy drift hardcoding ubuntu-latest; resolved across four repositories concurrently using parallel green validation subagents and a daily launchd compliance scanner. PRs #7000 (worldarchitect.ai), #593 (agent-orchestrator), #248 (worldai_claw), and #590 (jleechanclaw) successfully green-validated and squash-merged under explicit human authorization. Established a daily automated scanner script (`scan_runner_violations.py`) and plist daemon to notify on future violations. Bead: rev-0qn8f. Source: project_2026-05-24_actions_runner_policy_drift.md. [[jeffrey-oracle]]: NO.
