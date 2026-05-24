@@ -6524,3 +6524,4 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Skeptic Gate CI Trigger Markers](sources/skeptic-gate-trigger-markers.md) — ao skeptic verify standalone omits trigger markers; patch verdict comment via gh api PATCH
 
 - [[pr7048-location-centralization-merged]] — PR #7048 location centralization MERGED 2026-05-24
+- [LevelUpAgent Inline Override Must Name Exact IDs (2026-05-24)](sources/levelup-inline-override-exact-ids-2026-05-24.md) — vague 'expose a change choice' ignored by LLM; MANDATORY with literal id required; rev-vcm7y PR #7064 iter6 PASS
