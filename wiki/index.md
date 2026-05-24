@@ -53,6 +53,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [AND-Logic Modal Exit Guard](concepts/AndLogicModalExitGuard.md) — Modal exit guards requiring AND logic create impossible states
 
 ## Sources
+- [Gemini API cost investigation — context cache TTL root cause (2026-05-24)](sources/gemini-cost-investigation-2026-05-24.md) — $85/day = cache storage churn (78%) + cache-miss re-input; TTL 1hr→4hr saves ~$50/day; SMOKE_TOKEN CI is free; concept: GeminiContextCacheTTL
 - [block-merge.sh — Human must run merge (2026-05-24)](sources/block-merge-hook-2026-05-24.md) — hook blocks all gh pr / gh api / curl merge paths from Claude; after /green PASS output `! gh pr merge N --squash` and stop; refs PR #7066
 - [WORLDAI_TEST_CACHE default changed to read_write (2026-05-24)](sources/worldai-test-cache-default-read-write-2026-05-24.md) — PR #7066 merged main e6ab5b1cba; testing_mcp LLM response cache now active by default; disable with WORLDAI_TEST_CACHE=off
 - [AO ralph lifecycle-worker: involuntary injection respawns after kill (2026-05-21)](sources/ao-ralph-lifecycle-worker-respawn-2026-05-21.md) — bead rev-3ey45; lifecycle-worker ralph = AO project monitor NOT ralph-wiggum; kill PID insufficient (launchd+2min watchdog); use `ao stop ralph` + `launchctl unload com.ao-runner.plist`; `ao session kill <id>` before manual sessions
