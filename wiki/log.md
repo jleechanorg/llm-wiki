@@ -4174,3 +4174,10 @@ Tags: doctor.sh, hermes.json, minimal-config, env-defaults-install
 - Ingest: `integrate --force` workflow learning — main checkout safety bypass when worktree holds main
 - Bead: none
 - Jeffrey-oracle relevance: no (technical workflow learning)
+
+## [2026-05-23] ingest | integrate.sh main checked out in worktree workaround
+
+- integrate.sh failed (exit code 1) on worktree_misc875675 because main is checked out at worktree_root_cause
+- workaround: `git fetch origin main && git checkout -b dev<timestamp> origin/main`
+- Source: feedback_2026-05-23_integrate_main_checked_out_in_worktree.md
+- Jeffrey-oracle relevance: no (technical workflow learning)
