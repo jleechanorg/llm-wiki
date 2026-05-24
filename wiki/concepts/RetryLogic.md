@@ -19,6 +19,14 @@ Pattern for handling transient failures in Gemini API calls. Includes error clas
 - GEMINI_RETRY_BASE_DELAY_SECONDS
 - GEMINI_RETRY_MAX_ATTEMPTS
 
+## Mutating vs. Idempotent Retry (2026-05-24)
+
+**Critical distinction**: stream path (`/interaction/stream`) is mutating — it writes to Firestore. Retrying `ConnectionResetError` on a mutating path duplicates game effects (double dice rolls, double story entries).
+
+Fix: injectable `is_retryable_fn` param in `_run_with_transport_retry`. Stream path passes `_is_stream_retryable_transport_error` (only pre-connection failures: `ConnectionRefused`, `"Errno 61"`). Non-stream path uses default `_is_mcp_transient_transport_error` (includes `ConnectionResetError`).
+
+Source: PR #7074 commit `c02561c7b1`, `testing_mcp/lib/base_test.py`.
+
 ## Connections
 - [[GeminiLLMService]] — implements retry logic
 - [[PR4099]] — introduced retry logic
