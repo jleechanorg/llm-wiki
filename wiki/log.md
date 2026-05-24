@@ -4208,3 +4208,4 @@ Source: `sources/skeptic-gate-trigger-markers.md`. Learning: `ao skeptic verify`
 
 Source: Claude session memory (project_2026-05-24_pr7048_merged_summary.md)
 4 reusable patterns + 22-bead triage record.
+## [2026-05-24] ingest | LevelUpAgent inline override must name exact canonical choice IDs
