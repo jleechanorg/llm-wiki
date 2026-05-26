@@ -6561,3 +6561,6 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 
 - [[pr7048-location-centralization-merged]] — PR #7048 location centralization MERGED 2026-05-24
 - [LevelUpAgent Inline Override Must Name Exact IDs (2026-05-24)](sources/levelup-inline-override-exact-ids-2026-05-24.md) — vague 'expose a change choice' ignored by LLM; MANDATORY with literal id required; rev-vcm7y PR #7064 iter6 PASS
+
+- [Obra Superpowers Integration: code-standards Enhancement (2026-05-26)](sources/2026-05-26_obra-superpowers-integration.md) — Integrated systematic-debugging iron law, TDD test coverage gate, anti-rationalization tables into /code-standards review dispatcher; PR #7135
+- [Codex Slash Autocomplete Proof Boundary (2026-05-26)](sources/codex-slash-autocomplete-proof-boundary-2026-05-26.md) — `codex exec` slash resolution is not proof that native Codex TUI autocomplete indexes custom commands or prompts
