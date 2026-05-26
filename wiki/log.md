@@ -4238,3 +4238,6 @@ Source: Claude session memory (project_2026-05-24_pr7048_merged_summary.md)
 - Page: `sources/codex-slash-autocomplete-proof-boundary-2026-05-26.md`
 - Concept: `concepts/codex-slash-autocomplete-proof-boundary.md`
 - Note: This does not affect `[[jeffrey-oracle]]`; it records a local Codex CLI verification boundary.
+
+## [2026-05-26] ingest | PR #7122 Sanctuary XP Pacing Iteration 3 Merged
+Source: project_2026-05-26_pr7122_sanctuary_xp_merged.md
