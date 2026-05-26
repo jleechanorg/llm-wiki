@@ -4241,3 +4241,8 @@ Source: Claude session memory (project_2026-05-24_pr7048_merged_summary.md)
 
 ## [2026-05-26] ingest | PR #7122 Sanctuary XP Pacing Iteration 3 Merged
 Source: project_2026-05-26_pr7122_sanctuary_xp_merged.md
+## [2026-05-26] ingest | Gmail Access via gog CLI
+Source: sources/gmail-gog-cli.md
+
+## [2026-05-26] ingest | Gmail Access via gog CLI
+Source: sources/gmail-gog-cli.md
