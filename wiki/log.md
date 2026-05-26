@@ -4225,3 +4225,16 @@ Source: `sources/skeptic-gate-trigger-markers.md`. Learning: `ao skeptic verify`
 Source: Claude session memory (project_2026-05-24_pr7048_merged_summary.md)
 4 reusable patterns + 22-bead triage record.
 ## [2026-05-24] ingest | LevelUpAgent inline override must name exact canonical choice IDs
+
+## [2026-05-26] ingest | Obra Superpowers Integration: code-standards Enhancement
+
+- Source: sources/2026-05-26_obra-superpowers-integration.md
+- Concepts updated: none (technical workflow learning)
+- Key facts: Enhanced /code-standards with Iron Law (PASS needs file/line evidence), systematic-debugging four-phase process, TDD test coverage gate, anti-rationalization tables from obra superpowers
+- [[jeffrey-oracle]]: not affected (technical workflow learning)
+## [2026-05-26] ingest | Codex Slash Autocomplete Proof Boundary
+
+- Source: `raw/feedback_2026-05-26_codex_slash_autocomplete_proof_boundary.md`
+- Page: `sources/codex-slash-autocomplete-proof-boundary-2026-05-26.md`
+- Concept: `concepts/codex-slash-autocomplete-proof-boundary.md`
+- Note: This does not affect `[[jeffrey-oracle]]`; it records a local Codex CLI verification boundary.
