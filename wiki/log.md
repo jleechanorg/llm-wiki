@@ -4246,3 +4246,4 @@ Source: sources/gmail-gog-cli.md
 
 ## [2026-05-26] ingest | Gmail Access via gog CLI
 Source: sources/gmail-gog-cli.md
+## [2026-05-27] ingest | GitHub REST vs GraphQL rate limits are separate pools
