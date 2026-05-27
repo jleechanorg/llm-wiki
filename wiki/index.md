@@ -6568,3 +6568,4 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [PR #7122 Sanctuary XP Pacing Iteration 3 Merged](sources/pr7122-sanctuary-xp-pacing-iteration3-merged-2026-05-26.md) — 2026-05-26, merge ee84df38, rate-limit background poll pattern
 
 - [Gmail Access via gog CLI](sources/gmail-gog-cli.md) — use gog CLI, not browser/MCP
+- [GitHub REST vs GraphQL rate limits](sources/github-rest-graphql-rate-limits-separate.md) — separate 5000/hr pools, switch when one exhausted (2026-05-27)
