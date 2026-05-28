@@ -1,3 +1,7 @@
+## [2026-05-28] ingest | Resilient MCP and Playwright video smoke test conflict resolution
+
+Clean merge conflict resolution in integration and video smoke tests requires blending branch-added environment cleanups/telemetry and Playwright browser check resiliency with main's refactored schemas. Pre-flight Playwright browser engine checks keep tests robust against environmental failures on self-hosted vs local runners. Source: best_practice_2026-05-28_resilient_mcp_and_video_smoke_merge.md. [[jeffrey-oracle]]: NO.
+
 ## [2026-05-24] ingest | Attractor Pattern Four-Implementation Gap Analysis — 4 entities, 4 concepts, 1 source page
 
 Feature-by-feature comparison of dark-factory vs AttractorBench, Kilroy, Smasher, Mammoth. Four implementations converge on three-layer architecture (LLM client → Agent loop → Pipeline engine) but diverge on execution model. dark-factory is unique in having Healer + slash gates + sealed holdouts; also the only one without parallel execution. New entity pages: [[AttractorBench]], [[Kilroy]], [[Smasher]], [[Mammoth]]. New concept pages: [[AttractorPattern]], [[ModelStylesheet]], [[AttractorParallelExecution]], [[FailureDossier]]. Updated [[DarkFactory]] with vs-section. Source: project_2026-05-24_attractor_four_implementation_gap_analysis.md. [[jeffrey-oracle]]: NO.
