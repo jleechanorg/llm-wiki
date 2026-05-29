@@ -3,7 +3,7 @@ title: "ZFC North Star"
 type: concept
 tags: [zfc, architecture, model-computes]
 sources: [zfc-level-up-model-computes-north-star-2026-04-19]
-last_updated: 2026-04-20
+last_updated: 2026-05-28
 ---
 
 **ZFC North Star** — The architectural principle that under Zero Framework Cognition, the model computes semantic game state and the backend is pure formatter.
@@ -41,6 +41,27 @@ The backend (`rewards_engine.py`) acts as pure formatter:
 - If a true level-up signal is missing required fields → fail closed by suppressing the malformed level-up UI
 - If model output is malformed → do not attempt repair, fail closed
 - Never infer level-up from threshold crossings (model computes)
+
+## ZFC Exemption Boundary (2026-05-28)
+
+Frozenset membership checks on **structured schema fields** against **canonical enum sets** are ZFC-exempt:
+
+```python
+# EXEMPT — deterministic schema field parsing
+if matched_class in _DUAL_STORE_CASTER_CLASSES:  # frozenset{"wizard"}
+
+# EXEMPT — structural class string parsing against known enum
+def _match_spellcasting_class(class_lower: str) -> str | None:
+    for sc in _SPELLCASTING_CLASS_PRIORITY:
+        if sc == t or sc in t: return sc  # canonical enum, not free-text routing
+```
+
+Exempt when:
+1. Input is a structured data field (not free-form user text)
+2. Comparison set is a canonical enum of known values
+3. Output drives schema branching (not LLM routing / model behavior selection)
+
+Source: [[zfc-exempt-structural-class-parsing-magic-number]], bead rev-h9hrm
 
 ## Connections
 

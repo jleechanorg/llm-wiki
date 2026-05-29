@@ -62,6 +62,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Failure Dossier](concepts/FailureDossier.md) — Per-stage 6-class failure taxonomy (transient_infra, budget_exhausted, compilation_loop, deterministic, canceled, structural); implemented in Kilroy
 
 ## Sources
+- [ZFC-exempt structural class parsing + magic number extraction (2026-05-28)](sources/zfc-exempt-structural-class-parsing-magic-number.md) — frozenset membership checks on schema fields are ZFC-exempt; LLM call kwargs with magic numbers (temperature=0.7) need named constants; bead rev-h9hrm
 - [Resilient MCP and Playwright video smoke test conflict resolution (2026-05-28)](sources/resilient-mcp-playwright-smoke-merge-2026-05-28.md) — Clean merge conflict resolution in integration and video smoke tests requires blending branch-added environment cleanups/telemetry and Playwright browser check resiliency with main's refactored schemas.
 - [Attractor Pattern Four-Implementation Gap Analysis (2026-05-24)](sources/attractor-four-implementation-gap-analysis-2026-05-24.md) — Feature-by-feature comparison of dark-factory vs AttractorBench, Kilroy, Smasher, Mammoth; three-layer convergence; dark-factory unique in Healer + slash gates + sealed holdouts; only one without parallel execution
 - [Mem0 Environment Fix and PyPI Name Discrepancy (2026-05-24)](sources/mem0-environment-fix.md) — Missing mem0ai and qdrant-client dependencies in orchestrator python env caused import failure skipped warnings. Correct PyPI registry package name is mem0ai.
