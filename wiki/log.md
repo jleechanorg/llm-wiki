@@ -4251,3 +4251,13 @@ Source: sources/gmail-gog-cli.md
 ## [2026-05-26] ingest | Gmail Access via gog CLI
 Source: sources/gmail-gog-cli.md
 ## [2026-05-27] ingest | GitHub REST vs GraphQL rate limits are separate pools
+
+## [2026-05-28] ingest | MCP HTTP Daemon Setup & Port Config Fix
+Source: raw/mcp-daemon-port-config-2026-05-28.md — port config in two files (settings.json + .claude.json), playwright→8012, supergateway SIGTERM auto-restart, launchd plist created
+
+## [2026-05-28] ingest | API-Driven Lock Release Validation and Stale Check Diagnostics
+
+- Source: raw/stale-lock-verification-safety-2026-05-28.md
+- Page: sources/stale-lock-verification-safety-2026-05-28.md
+- Concepts updated: none (technical workflow learning)
+- [[jeffrey-oracle]]: not affected (technical workflow learning)
