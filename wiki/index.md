@@ -63,6 +63,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Failure Dossier](concepts/FailureDossier.md) — Per-stage 6-class failure taxonomy (transient_infra, budget_exhausted, compilation_loop, deterministic, canceled, structural); implemented in Kilroy
 
 ## Sources
+- [god_mode broken prompt cross-reference — 2026-05-29](sources/feedback-2026-05-29-god-mode-broken-prompt-reference.md) — god_mode_instruction.md referenced living_world_instruction.md which is absent from GodModeAgent.REQUIRED_PROMPT_ORDER; verify agent prompt order before any cross-file reference
 - [Never Kill Active User Apps Like cmux — 2026-05-29](sources/never-kill-active-user-app-cmux-2026-05-29.md) — Never force-kill active developer applications (such as cmux) or their lifecycle workers under the assumption they are orphaned, as they are actively used by the developer.
 - [Refactor Backend Adjustment Registry to Immutable Types and Validations](sources/refactor_adjusters_immutable_types.md) — resolved circular imports via neutral type modules, strict frozen dataclass validation, and backward-compatible shim interfaces
 - [Disk Cleanup Coverage Gap - 2026-05-29](sources/disk-cleanup-coverage-gap-2026-05-29.md) — periodic cleanup launchd agents were loaded but missed Docker.raw, /private/tmp/wt-* AO clones, Antigravity generated worktrees/browser recordings, and broader cache regrowth

@@ -4298,3 +4298,10 @@ Source: raw/mcp-daemon-port-config-2026-05-28.md — port config in two files (s
 - Concepts updated: CircularImportsResolution, ImmutableSpecValidation, BackwardCompatibleShim
 - [[jeffrey-oracle]]: not affected (technical workflow learning)
 
+
+## [2026-05-29] ingest | god_mode broken prompt cross-reference
+
+- Source: raw/feedback_2026-05-29_god_mode_broken_prompt_reference.md
+- Page: sources/feedback-2026-05-29-god-mode-broken-prompt-reference.md
+- Concepts updated: none (no existing concept page for prompt-file-cross-reference; new concept tagged in source page)
+- [[jeffrey-oracle]]: not affected (technical workflow learning)
