@@ -62,6 +62,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Failure Dossier](concepts/FailureDossier.md) — Per-stage 6-class failure taxonomy (transient_infra, budget_exhausted, compilation_loop, deterministic, canceled, structural); implemented in Kilroy
 
 ## Sources
+- [API-Driven Lock Release Validation and Stale Check Diagnostics](sources/stale-lock-verification-safety-2026-05-28.md) — 2026-05-28: strict dynamic safety release verification to prevent incorrect domain lock overrides, with unit tests and pre-tool hook diagnostics.
+- [MCP HTTP Daemon Setup & Port Config Fix](sources/mcp-daemon-port-config-2026-05-28.md) — 2026-05-28: port config in two files, playwright 8012, supergateway SIGTERM handling
 - [ZFC-exempt structural class parsing + magic number extraction (2026-05-28)](sources/zfc-exempt-structural-class-parsing-magic-number.md) — frozenset membership checks on schema fields are ZFC-exempt; LLM call kwargs with magic numbers (temperature=0.7) need named constants; bead rev-h9hrm
 - [Resilient MCP and Playwright video smoke test conflict resolution (2026-05-28)](sources/resilient-mcp-playwright-smoke-merge-2026-05-28.md) — Clean merge conflict resolution in integration and video smoke tests requires blending branch-added environment cleanups/telemetry and Playwright browser check resiliency with main's refactored schemas.
 - [Attractor Pattern Four-Implementation Gap Analysis (2026-05-24)](sources/attractor-four-implementation-gap-analysis-2026-05-24.md) — Feature-by-feature comparison of dark-factory vs AttractorBench, Kilroy, Smasher, Mammoth; three-layer convergence; dark-factory unique in Healer + slash gates + sealed holdouts; only one without parallel execution
