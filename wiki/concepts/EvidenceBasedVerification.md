@@ -62,3 +62,17 @@ Per [[EvidenceReviewPipeline]]:
 - [[SkepticAgent]] — the skeptic reviewing evidence
 - [[EvidenceBundles]] — the artifact being reviewed
 - [[VerificationLoop]] — evidence-based verification is the loop's core
+
+## SHA Staleness Rule (2026-05-29)
+
+Evidence is only valid for the exact commit SHA at which it was recorded. Any `mvp_site/` change after the evidence SHA invalidates Gate 6.
+
+**Verification command before Gate 6 claim:**
+```bash
+git diff <evidence_sha>..HEAD -- mvp_site/
+# Must return empty (0 lines) before claiming pass
+```
+
+**Incident**: PR [#7142](https://github.com/jleechanorg/worldarchitect.ai/pull/7142) evidence at SHA `a0b5c87780` became stale after `df433f84de` — 13 files (+331/−135) changed. CR flagged as P0.
+
+- Source: `[[feedback_2026-05-29_evidence_sha_staleness]]`
