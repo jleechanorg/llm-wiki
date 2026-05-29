@@ -1,3 +1,7 @@
+## [2026-05-29] ingest | Disk Cleanup Coverage Gap
+
+Periodic cleanup launchd agents were loaded but missed the actual disk-regrowth paths: Docker.raw physical allocation, /private/tmp/wt-* AO clones, Antigravity generated worktrees/browser recordings, and broader cache regrowth. New concept page: [[DiskCleanupCoverage]]. Source: sources/disk-cleanup-coverage-gap-2026-05-29.md. [[jeffrey-oracle]]: NO.
+
 ## [2026-05-28] ingest | Resilient MCP and Playwright video smoke test conflict resolution
 
 Clean merge conflict resolution in integration and video smoke tests requires blending branch-added environment cleanups/telemetry and Playwright browser check resiliency with main's refactored schemas. Pre-flight Playwright browser engine checks keep tests robust against environmental failures on self-hosted vs local runners. Source: best_practice_2026-05-28_resilient_mcp_and_video_smoke_merge.md. [[jeffrey-oracle]]: NO.
@@ -4261,3 +4265,32 @@ Source: raw/mcp-daemon-port-config-2026-05-28.md — port config in two files (s
 - Page: sources/stale-lock-verification-safety-2026-05-28.md
 - Concepts updated: none (technical workflow learning)
 - [[jeffrey-oracle]]: not affected (technical workflow learning)
+
+## [2026-05-29] ingest | PR body: runtime mechanism not constant removal
+
+- Source: raw/feedback_2026-05-29_pr_body_mechanism_not_constant.md
+- Page: sources/feedback_2026-05-29_pr_body_mechanism_not_constant.md
+- Concepts updated: none (PR writing discipline — existing worktree memory)
+- [[jeffrey-oracle]]: not affected (technical workflow learning)
+
+## [2026-05-29] ingest | integrate.sh worktree fallback
+
+- Source: raw/feedback_2026-05-29_integrate_worktree_fallback.md
+- Page: sources/feedback_2026-05-29_integrate_worktree_fallback.md
+- Concepts updated: none (reinforces existing integrate failure pattern)
+- [[jeffrey-oracle]]: not affected (technical workflow learning)
+
+## [2026-05-29] ingest | Evidence SHA staleness — 13 mvp_site/ files changed
+
+- Source: raw/feedback_2026-05-29_evidence_sha_staleness.md
+- Page: sources/feedback_2026-05-29_evidence_sha_staleness.md
+- Concepts updated: EvidenceBasedVerification (added SHA staleness check)
+- [[jeffrey-oracle]]: not affected (technical workflow learning)
+
+## [2026-05-29] ingest | Refactor backend adjustment registry to immutable types and validations
+
+- Source: raw/project_2026-05-29_refactor_adjusters_immutable_types.md
+- Page: sources/refactor_adjusters_immutable_types.md
+- Concepts updated: CircularImportsResolution, ImmutableSpecValidation, BackwardCompatibleShim
+- [[jeffrey-oracle]]: not affected (technical workflow learning)
+

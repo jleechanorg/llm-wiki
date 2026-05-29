@@ -24,6 +24,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 
+- [Disk Cleanup Coverage](concepts/DiskCleanupCoverage.md) — Monitored disk-growth paths need scheduled cleanup, manual cleanup policy, or explicit monitor-only ownership
 - [LowConfidenceRoutingDisclosure](concepts/LowConfidenceRoutingDisclosure.md) — Disclose weak classifier uncertainty to the selected agent instead of adding heuristic routing
 - [OpaqueChoiceIdContract](concepts/OpaqueChoiceIdContract.md) — Choice IDs are opaque exact-selection handles; semantics belong in schema/resolver output, not correction scrubbers
 - [PostMergeFollowupWorkflow](concepts/PostMergeFollowupWorkflow.md) — Post-merge cleanup branches must start from verified fresh remote main
@@ -62,6 +63,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Failure Dossier](concepts/FailureDossier.md) — Per-stage 6-class failure taxonomy (transient_infra, budget_exhausted, compilation_loop, deterministic, canceled, structural); implemented in Kilroy
 
 ## Sources
+- [Refactor Backend Adjustment Registry to Immutable Types and Validations](sources/refactor_adjusters_immutable_types.md) — resolved circular imports via neutral type modules, strict frozen dataclass validation, and backward-compatible shim interfaces
+- [Disk Cleanup Coverage Gap - 2026-05-29](sources/disk-cleanup-coverage-gap-2026-05-29.md) — periodic cleanup launchd agents were loaded but missed Docker.raw, /private/tmp/wt-* AO clones, Antigravity generated worktrees/browser recordings, and broader cache regrowth
 - [API-Driven Lock Release Validation and Stale Check Diagnostics](sources/stale-lock-verification-safety-2026-05-28.md) — 2026-05-28: strict dynamic safety release verification to prevent incorrect domain lock overrides, with unit tests and pre-tool hook diagnostics.
 - [MCP HTTP Daemon Setup & Port Config Fix](sources/mcp-daemon-port-config-2026-05-28.md) — 2026-05-28: port config in two files, playwright 8012, supergateway SIGTERM handling
 - [ZFC-exempt structural class parsing + magic number extraction (2026-05-28)](sources/zfc-exempt-structural-class-parsing-magic-number.md) — frozenset membership checks on schema fields are ZFC-exempt; LLM call kwargs with magic numbers (temperature=0.7) need named constants; bead rev-h9hrm
@@ -104,6 +107,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [worldarchitect skeptic lifecycle churn root cause](sources/feedback-2026-05-04-worldarchitect-skeptic-lifecycle-churn.md) — 05-04
 - [Level-Up 5-Class Bug Fix Verification — 2026-05-04](sources/level_up_5class_fix_verified_2026-05-04.md) — All 5 original level-up bug repro tests pass on origin/main at 733a44f1; each class mapped to specific fix commit
 - [integrate reset lost PR work on expfix](sources/feedback_2026-05-05_integrate_reset_lost_pr_work.md) — 05-05: /integrate git reset --hard origin/main on expfix lost unmerged PR #6790; recoverable via reflog cherry-pick → PR #6814
+- [PR body: runtime mechanism not constant removal (2026-05-29)](sources/feedback_2026-05-29_pr_body_mechanism_not_constant.md) — lead with 3-field OR + LLM-owned field selection; removing a constant is an implementation detail; PR #7142 CR P2
+- [integrate.sh worktree fallback (2026-05-29)](sources/feedback_2026-05-29_integrate_worktree_fallback.md) — use `git checkout -b dev$(date +%s) origin/main` when main checked out in another worktree
+- [Evidence SHA staleness 13 files (2026-05-29)](sources/feedback_2026-05-29_evidence_sha_staleness.md) — `git diff <evidence_sha>..HEAD -- mvp_site/` must be 0; PR #7142 a0b5c877→df433f84 = 13 files
 - [Skeptic Self-Verify Gate Fixes — 2026-05-04](sources/skeptic-self-verify-gate-fixes-2026-05-04.md) — 4 bugs fixed in skeptic-self-verify.yml: BUGBOT=none, CR review dismissal, GraphQL thread resolution
 - [Minimax 401 Harness Fix — 2026-05-01](sources/2026-05-01-minimax-401-harness-fix.md) — Root cause of recurring MiniMax 401 auth failures in AO workers; `setup-launchd.sh` missing sed substitutions; superseded by `launchd-launcher.sh` approach; also covers skeptic `--trigger-type` bug (PR #514) and AO_CLI_PATH fork mismatch
 - [Game-Ready 2D Sprite Sheet Pipeline via AI](sources/sprite-sheet-pipeline-layrkits.md) — AI image+video pipeline (GPT Image 2 → Kling → FFmpeg → Pillow) for game-ready sprite sheets; chroma key + preserve-canvas workflow
