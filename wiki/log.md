@@ -1,3 +1,7 @@
+## [2026-05-29] ingest | Anti-Pattern: Force-Killing Active User Applications (cmux)
+
+Never force-kill active developer applications (such as cmux) or their lifecycle workers under the assumption they are orphaned, as they are actively used by the developer. Terminative actions should only be targeted at the offending background plists/services (which have been successfully unloaded). Source: sources/never-kill-active-user-app-cmux-2026-05-29.md. [[jeffrey-oracle]]: NO.
+
 ## [2026-05-29] ingest | Disk Cleanup Coverage Gap
 
 Periodic cleanup launchd agents were loaded but missed the actual disk-regrowth paths: Docker.raw physical allocation, /private/tmp/wt-* AO clones, Antigravity generated worktrees/browser recordings, and broader cache regrowth. New concept page: [[DiskCleanupCoverage]]. Source: sources/disk-cleanup-coverage-gap-2026-05-29.md. [[jeffrey-oracle]]: NO.
