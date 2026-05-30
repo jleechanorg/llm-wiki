@@ -64,6 +64,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Failure Dossier](concepts/FailureDossier.md) — Per-stage 6-class failure taxonomy (transient_infra, budget_exhausted, compilation_loop, deterministic, canceled, structural); implemented in Kilroy
 
 ## Sources
+- [SKIP_SHAS agento prefix escape hatch — 2026-05-30](sources/skip-shas-agento-escape-2026-05-30.md) — SKIP_SHAS circular dependency fix: use [agento] prefix on update commits; spawnOrchestrator test needs isAlive=false; PR #645 merged
 - [opencode-go/GLM-5.1 Provider Quality Investigation — 2026-05-29](sources/opencode-go-provider-quality-2026-05-29.md) — opencode-go day-1 shows 3× iteration exhaustion vs wafer baseline; documented agentic stall (Issue #24178), thinking-token leakage, availability issues; do not switch provider without Jeffrey approval
 - [god_mode broken prompt cross-reference — 2026-05-29](sources/feedback-2026-05-29-god-mode-broken-prompt-reference.md) — god_mode_instruction.md referenced living_world_instruction.md which is absent from GodModeAgent.REQUIRED_PROMPT_ORDER; verify agent prompt order before any cross-file reference
 - [Never Kill Active User Apps Like cmux — 2026-05-29](sources/never-kill-active-user-app-cmux-2026-05-29.md) — Never force-kill active developer applications (such as cmux) or their lifecycle workers under the assumption they are orphaned, as they are actively used by the developer.
@@ -6583,3 +6584,6 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 
 - [Gmail Access via gog CLI](sources/gmail-gog-cli.md) — use gog CLI, not browser/MCP
 - [GitHub REST vs GraphQL rate limits](sources/github-rest-graphql-rate-limits-separate.md) — separate 5000/hr pools, switch when one exhausted (2026-05-27)
+
+- [Stale merge_train locks after SIGKILL](sources/stale-mergetrain-locks-sigkill-2026-05-30.md) — 2026-05-30, manual domain_lock release procedure for fake PR#958856
+- [CampaignWizard isEnabled guard](sources/wizard-isenabled-guard-2026-05-30.md) — 2026-05-30, disable() never clears selectedCampaignType; guard with isEnabled

@@ -22,3 +22,16 @@ Campaign wizard is a multi-step form UI component for creating new game campaign
 - Part of [[CampaignCreation]] workflow
 - Uses [[FormInputHandling]] concepts
 - Tested by [[FunctionalValidationTesting]]
+
+## State Management Gotcha (2026-05-30)
+
+`disable()` sets `isEnabled = false` but does **NOT** clear `selectedCampaignType`.
+Any code reading wizard state must check `isEnabled` first:
+
+```javascript
+if (window.campaignWizard && window.campaignWizard.isEnabled &&
+    window.campaignWizard.selectedCampaignType != null) { ... }
+```
+
+Without this guard, stale `selectedCampaignType` persists after `disable()` and can
+override legacy form radio buttons. See source: wizard-isenabled-guard-2026-05-30

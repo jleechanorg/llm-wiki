@@ -4309,3 +4309,7 @@ Source: raw/mcp-daemon-port-config-2026-05-28.md — port config in two files (s
 - Page: sources/feedback-2026-05-29-god-mode-broken-prompt-reference.md
 - Concepts updated: none (no existing concept page for prompt-file-cross-reference; new concept tagged in source page)
 - [[jeffrey-oracle]]: not affected (technical workflow learning)
+## [2026-05-30] ingest | SKIP_SHAS agento prefix escape hatch — PR #645 merged
+
+## [2026-05-30] ingest | Stale merge_train locks after SIGKILL (rev-h37al)
+## [2026-05-30] ingest | CampaignWizard isEnabled guard for stale selectedCampaignType (rev-rux0d)
