@@ -24,6 +24,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 
+- [Hermes Provider Quality](concepts/hermes-provider-quality.md) — Provider selection history, iteration-exhaustion baseline, opencode-go/GLM-5.1 failure modes; provider change requires Jeffrey approval
 - [Disk Cleanup Coverage](concepts/DiskCleanupCoverage.md) — Monitored disk-growth paths need scheduled cleanup, manual cleanup policy, or explicit monitor-only ownership
 - [LowConfidenceRoutingDisclosure](concepts/LowConfidenceRoutingDisclosure.md) — Disclose weak classifier uncertainty to the selected agent instead of adding heuristic routing
 - [OpaqueChoiceIdContract](concepts/OpaqueChoiceIdContract.md) — Choice IDs are opaque exact-selection handles; semantics belong in schema/resolver output, not correction scrubbers
@@ -63,6 +64,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Failure Dossier](concepts/FailureDossier.md) — Per-stage 6-class failure taxonomy (transient_infra, budget_exhausted, compilation_loop, deterministic, canceled, structural); implemented in Kilroy
 
 ## Sources
+- [opencode-go/GLM-5.1 Provider Quality Investigation — 2026-05-29](sources/opencode-go-provider-quality-2026-05-29.md) — opencode-go day-1 shows 3× iteration exhaustion vs wafer baseline; documented agentic stall (Issue #24178), thinking-token leakage, availability issues; do not switch provider without Jeffrey approval
 - [god_mode broken prompt cross-reference — 2026-05-29](sources/feedback-2026-05-29-god-mode-broken-prompt-reference.md) — god_mode_instruction.md referenced living_world_instruction.md which is absent from GodModeAgent.REQUIRED_PROMPT_ORDER; verify agent prompt order before any cross-file reference
 - [Never Kill Active User Apps Like cmux — 2026-05-29](sources/never-kill-active-user-app-cmux-2026-05-29.md) — Never force-kill active developer applications (such as cmux) or their lifecycle workers under the assumption they are orphaned, as they are actively used by the developer.
 - [Refactor Backend Adjustment Registry to Immutable Types and Validations](sources/refactor_adjusters_immutable_types.md) — resolved circular imports via neutral type modules, strict frozen dataclass validation, and backward-compatible shim interfaces

@@ -1,3 +1,7 @@
+## [2026-05-29] ingest | opencode-go GLM-5.1 provider quality investigation
+
+opencode-go/GLM-5.1 shows 3× iteration budget exhaustion on day 1 vs wafer baseline; documented agentic stall, thinking-token leakage, availability issues, routing bugs. Concept page created: [[hermes-provider-quality]]. Do not change provider without Jeffrey approval. [[jeffrey-oracle]]: NO.
+
 ## [2026-05-29] ingest | Anti-Pattern: Force-Killing Active User Applications (cmux)
 
 Never force-kill active developer applications (such as cmux) or their lifecycle workers under the assumption they are orphaned, as they are actively used by the developer. Terminative actions should only be targeted at the offending background plists/services (which have been successfully unloaded). Source: sources/never-kill-active-user-app-cmux-2026-05-29.md. [[jeffrey-oracle]]: NO.
