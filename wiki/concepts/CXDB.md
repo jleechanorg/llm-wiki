@@ -27,3 +27,8 @@ CXDB is the observability backbone of the Attractor pattern. Without it, you can
 - [[AttractorPattern]]
 - [[DurableExecution]]
 - [[EventSourcingForAgents]]
+
+## Update 2026-05-30 — shared store cross-contamination (see [[sources/feedback-2026-05-30-dark-factory-brownfield-flaws]])
+- `~/.dark-factory/cxdb.sqlite` is SHARED across all concurrent Dark Factory runs (any agent, any pipeline). A monitor querying "the latest run" latched onto a DIFFERENT agent's unrelated `agf-api` run `24e130dcdc14`.
+- **Rule:** always pin monitoring/queries by exact `run_id` (e.g. `WHERE run_id='a147c7bdeaf9'`); never use "latest run" / `ORDER BY ts DESC LIMIT 1` against the shared CXDB.
+- **Done-detection:** declare a run DONE only when its `exit` node is recorded in the `steps` table for that exact run_id — never trust the mutable `runs.final` summary field (it can hold a stale `'success'` from before a crash).
