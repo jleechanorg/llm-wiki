@@ -4316,3 +4316,6 @@ Source: raw/mcp-daemon-port-config-2026-05-28.md — port config in two files (s
 
 ## [2026-05-30] ingest | Conclude/Finalize ZFC + Dark Factory learnings
 Source: sources/conclude-finalize-zfc-darkfactory-2026-05-30.md — 7 learnings (holdout guarantee, @prompts false-PASS, ZFC conclude, staged override deletion, agent routing, secondo auth, /llm-testing)
+
+## [2026-05-30] ingest | Dark Factory brownfield-vs-greenfield pipeline flaws
+Source: sources/feedback-2026-05-30-dark-factory-brownfield-flaws.md (raw: raw/feedback_2026-05-30_dark_factory_brownfield_flaws.md). Bead rev-kq9cf. PR #7178. Four lessons: timeout false-success (_tool 300s default), shared cxdb.sqlite contamination (pin by run_id a147c7bdeaf9), collision OPTION-2, headline brownfield-run-as-greenfield (orphaned deletion + backwards proof + dead code passed test_e2e). Fix: Step 0 brownfield classification in factory-spec SKILL.md. Updated concepts: DarkFactory, CXDB.
