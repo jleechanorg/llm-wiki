@@ -207,3 +207,7 @@ const resolved = removedTexts.filter(
 - Steve Yegge, "The Gilded Rose" (2014)
 - Andrej Karpathy, "Software 2.0" (2017)
 - [/zfc slash command global install 2026-05-07](../sources/zfc-slash-command-global-install-2026-05-07.md) — `/zfc` command added to `.claude/commands/` (PR [#6832](https://github.com/jleechanorg/worldarchitect.ai/pull/6832)); skill + command installed globally to `~/.claude` and `~/.codex`; pointer lines in `CLAUDE.md` + `AGENTS.md`
+
+## Update 2026-05-30 — conclude/finalize prompt (see [[sources/conclude-finalize-zfc-darkfactory-2026-05-30]])
+- Backend force-override of a model-owned field is the inverse of ZFC and HIDES prompt bugs (industry: 3 lanes / 6+ models unanimous). Fix the prompt; keep only a warn-only logged invariant (Guardrails NOOP / event-sourcing replay-audit), never a silent override. Re-ask is streaming-incompatible.
+- Agent routing by explicit flow-state flags (level_up_in_progress) is **legitimate state-based routing, not banned keyword routing**. A conclude signal selects the prompt PHASE within the already-selected agent.

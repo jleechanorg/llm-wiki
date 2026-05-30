@@ -6587,3 +6587,4 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 
 - [Stale merge_train locks after SIGKILL](sources/stale-mergetrain-locks-sigkill-2026-05-30.md) — 2026-05-30, manual domain_lock release procedure for fake PR#958856
 - [CampaignWizard isEnabled guard](sources/wizard-isenabled-guard-2026-05-30.md) — 2026-05-30, disable() never clears selectedCampaignType; guard with isEnabled
+- [Conclude/Finalize ZFC + Dark Factory (2026-05-30)](sources/conclude-finalize-zfc-darkfactory-2026-05-30.md) — holdout coder-vs-orchestrator, @prompts false-PASS, conclude prompt phase, /llm-testing

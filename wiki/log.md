@@ -4313,3 +4313,6 @@ Source: raw/mcp-daemon-port-config-2026-05-28.md — port config in two files (s
 
 ## [2026-05-30] ingest | Stale merge_train locks after SIGKILL (rev-h37al)
 ## [2026-05-30] ingest | CampaignWizard isEnabled guard for stale selectedCampaignType (rev-rux0d)
+
+## [2026-05-30] ingest | Conclude/Finalize ZFC + Dark Factory learnings
+Source: sources/conclude-finalize-zfc-darkfactory-2026-05-30.md — 7 learnings (holdout guarantee, @prompts false-PASS, ZFC conclude, staged override deletion, agent routing, secondo auth, /llm-testing)

@@ -77,3 +77,7 @@ The dark-factory (Python) is one of five Attractor pattern implementations. Four
 For the full feature-by-feature gap analysis, see source page `attractor-four-implementation-gap-analysis-2026-05-24`.
 
 See [[AttractorPattern]], [[ModelStylesheet]], [[AttractorParallelExecution]], [[FailureDossier]].
+
+## Update 2026-05-30 — holdout & prompt-path facts (see [[sources/conclude-finalize-zfc-darkfactory-2026-05-30]])
+- The adversarial **holdout guarantee is about the CODER** (runner `claude --print` codergen subprocess), NOT the orchestrator. The orchestrator may author `holdouts/<feature>/scenarios.yaml` (SKILL.md:106-114); the coder stays blind. Evaluator (`dark-factory-holdouts/evaluator/run.py`) kinds: `python_call`/`python_call_signature`/`python_module_attr`, exact-repr match, module imported from impl_root.
+- **@prompts false-PASS**: `runner/handlers.py:550 _path_attr` joins a relative prompt path to `ctx.workdir` (target repo) → codergen stub scores success. Use ABSOLUTE prompt paths in the `.dot`; verify with `--backend echo --max-steps 3`.
