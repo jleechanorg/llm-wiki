@@ -6451,6 +6451,8 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Skeptic Cron Hermes-Agent Deploy (2026-05-14)](sources/skeptic-cron-hermes-agent-deploy.md) — Skeptic-cron deployed to hermes-agent; PR #11 auto-merged; SKEPTIC_NO_VERDICT auto-posts verdict
 - [Integrate Branch Name Mismatch (2026-05-14)](sources/integrate-branch-name-mismatch.md) — integrate.sh branch name may differ from actual; verify with git branch --show-current
 - [llm_inspector integrate no script (2026-05-14)](sources/llm-inspector-integrate-no-script-2026-05-14.md) — llm_inspector has no integrate.sh; manual: checkout main, pull, git branch -D old, checkout -b new, set-upstream-to=origin/main
+- [Automatic Merge Bypass in AO Reactions (2026-05-31)](sources/ao_reactions_auto_merge_bypass.md) — Custom approved-and-green actions (like send-to-agent) bypass daemon-side auto-merge overrides, creating deadlocks with agentRules merge restrictions.
+
 
 ## Entities
 
