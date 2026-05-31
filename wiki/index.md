@@ -6590,3 +6590,6 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [CampaignWizard isEnabled guard](sources/wizard-isenabled-guard-2026-05-30.md) — 2026-05-30, disable() never clears selectedCampaignType; guard with isEnabled
 - [Conclude/Finalize ZFC + Dark Factory (2026-05-30)](sources/conclude-finalize-zfc-darkfactory-2026-05-30.md) — holdout coder-vs-orchestrator, @prompts false-PASS, conclude prompt phase, /llm-testing
 - [AO launchd respawners cause load-486 storm](sources/ao-launchd-load-storm.md)
+
+## Campaigns (batch ingest)
+
