@@ -4332,3 +4332,9 @@ Source: sources/feedback-2026-05-30-dark-factory-brownfield-flaws.md (raw: raw/f
 - Page: sources/antigravity_auto_trust_workspaces.md
 - Concepts updated: AntigravityWorkspaceTrust, HeadlessInteractiveBlocker, SessionIsolationConfig, ZeroTouchAutomation
 - [[jeffrey-oracle]]: not affected (technical workflow learning)
+
+## [2026-06-01] ingest | Gemini Cost Census — Test/CI Traffic Dominates 89%
+- Source: raw/project_2026-06-01_gemini_cost_census_test_dominates.md
+- Page: sources/gemini-cost-census-test-traffic-dominates-2026-06-01.md
+- Concepts updated: GeminiCostApportionment (new), FirestoreOrphanTenants (new), GeminiContextCacheTTL (linked)
+- [[jeffrey-oracle]]: not affected (technical cost-attribution learning)

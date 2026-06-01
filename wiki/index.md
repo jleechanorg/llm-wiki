@@ -24,6 +24,8 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 
+- [GeminiCostApportionment](concepts/GeminiCostApportionment.md) — split Gemini cost real-vs-test by story-entry count (proxy $0.07/entry); worldarchitect.ai = 10.6% real / 89.4% test/CI; ratio robust, $ illustrative; test path ~9× real volume is the dominant lever
+- [FirestoreOrphanTenants](concepts/FirestoreOrphanTenants.md) — `users/{uid}` paths with subcollections but no Auth account; `list_documents()` − `auth.list_users()`; classify real-vs-synthetic by UID shape (`^[A-Za-z0-9]{28}$` = real hash); primary TTL/cleanup target
 - [Hermes Provider Quality](concepts/hermes-provider-quality.md) — Provider selection history, iteration-exhaustion baseline, opencode-go/GLM-5.1 failure modes; provider change requires Jeffrey approval
 - [Disk Cleanup Coverage](concepts/DiskCleanupCoverage.md) — Monitored disk-growth paths need scheduled cleanup, manual cleanup policy, or explicit monitor-only ownership
 - [LowConfidenceRoutingDisclosure](concepts/LowConfidenceRoutingDisclosure.md) — Disclose weak classifier uncertainty to the selected agent instead of adding heuristic routing
@@ -64,6 +66,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Failure Dossier](concepts/FailureDossier.md) — Per-stage 6-class failure taxonomy (transient_infra, budget_exhausted, compilation_loop, deterministic, canceled, structural); implemented in Kilroy
 
 ## Sources
+- [Gemini Cost Census — Test/CI Traffic Dominates 89% — 2026-06-01](sources/gemini-cost-census-test-traffic-dominates-2026-06-01.md) — of 655,037 lifetime story entries (proxy $0.07/entry), REAL human play = 10.6% (~$4,865, jleechan-dominated), TEST/CI synthetic = 89.4% (~$40,987); 61% under 21,656 orphan UIDs with NO auth account, 0 are 28-char Firebase hash UIDs → no anonymous-real traffic; method = `collection_group("story").count()` server-side aggregation + orphan-UID shape classification; optimize the test/CI path (~9× real volume) first; beads rev-9piwk/rev-c6ogo/rev-pjtnr
 - [Dark Factory brownfield-vs-greenfield pipeline flaws — 2026-05-30](sources/feedback-2026-05-30-dark-factory-brownfield-flaws.md) — 4 lessons (PR #7178, bead rev-kq9cf): timeout false-success (`_tool` 300s default crashes real-LLM nodes, `runs.final` stays success → declare DONE only from exit-step); shared `~/.dark-factory/cxdb.sqlite` contamination (pin by exact run_id, not "latest run"); collision OPTION-2 (finish+rebase+keep both+review both); HEADLINE brownfield DELETE run through greenfield additive pipeline → orphaned deletion + backwards proof + dead code passed test_e2e, net +2507/−54 zero deletion → Step 0 brownfield classification (6 rules) in factory-spec SKILL.md
 - [SKIP_SHAS agento prefix escape hatch — 2026-05-30](sources/skip-shas-agento-escape-2026-05-30.md) — SKIP_SHAS circular dependency fix: use [agento] prefix on update commits; spawnOrchestrator test needs isAlive=false; PR #645 merged
 - [opencode-go/GLM-5.1 Provider Quality Investigation — 2026-05-29](sources/opencode-go-provider-quality-2026-05-29.md) — opencode-go day-1 shows 3× iteration exhaustion vs wafer baseline; documented agentic stall (Issue #24178), thinking-token leakage, availability issues; do not switch provider without Jeffrey approval
