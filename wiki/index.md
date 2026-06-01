@@ -6452,6 +6452,8 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Integrate Branch Name Mismatch (2026-05-14)](sources/integrate-branch-name-mismatch.md) — integrate.sh branch name may differ from actual; verify with git branch --show-current
 - [llm_inspector integrate no script (2026-05-14)](sources/llm-inspector-integrate-no-script-2026-05-14.md) — llm_inspector has no integrate.sh; manual: checkout main, pull, git branch -D old, checkout -b new, set-upstream-to=origin/main
 - [Automatic Merge Bypass in AO Reactions (2026-05-31)](sources/ao_reactions_auto_merge_bypass.md) — Custom approved-and-green actions (like send-to-agent) bypass daemon-side auto-merge overrides, creating deadlocks with agentRules merge restrictions.
+- [Automatic Workspace Trust Injection in Antigravity CLI (2026-05-31)](sources/antigravity_auto_trust_workspaces.md) — Inject launch project paths into trustedFolders.json inside session configs to prevent interactive trust prompts in background workers.
+
 
 
 ## Entities
