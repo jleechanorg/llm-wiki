@@ -4326,3 +4326,9 @@ Source: sources/feedback-2026-05-30-dark-factory-brownfield-flaws.md (raw: raw/f
 - Page: sources/ao_reactions_auto_merge_bypass.md
 - Concepts updated: AgentOrchestratorReactions, ApprovedAndGreenReaction, AgentRulesMergeLock, ZeroTouchAutomation
 - [[jeffrey-oracle]]: not affected (technical workflow learning)
+
+## [2026-05-31] ingest | Automatic Workspace Trust Injection in Antigravity CLI
+- Source: raw/feedback_2026-05-31_antigravity_auto_trust_workspaces.md
+- Page: sources/antigravity_auto_trust_workspaces.md
+- Concepts updated: AntigravityWorkspaceTrust, HeadlessInteractiveBlocker, SessionIsolationConfig, ZeroTouchAutomation
+- [[jeffrey-oracle]]: not affected (technical workflow learning)
