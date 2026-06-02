@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p ~/.claude/projects/--Users-jleechan-worldarchitect-ai/memory)",
+      "Read(//Users/jleechan/.claude/projects/**)",
+      "Bash(mkdir -p /Users/jleechan/llm_wiki/.claude/skills)",
+      "Bash(cp -r ~/.claude/skills/wiki-* /Users/jleechan/llm_wiki/.claude/skills/)",
+      "Bash(cp ~/.claude/commands/learn.md /Users/jleechan/llm_wiki/.claude/commands/learn.md)",
+      "Bash(cp ~/.claude/commands/nextsteps.md /Users/jleechan/llm_wiki/.claude/commands/nextsteps.md)",
+      "Bash(mkdir -p /Users/jleechan/llm_wiki/.claude/commands)",
+      "Bash(mkdir -p /Users/jleechan/worldarchitect.ai/.git/worktrees/wa-1276)",
+      "Bash(echo \"gitdir: /Users/jleechan/worldarchitect.ai/.git\")",
+      "Bash(echo \"6d29d8eeda4c04f73819403596e67063bd5ac6c0\")",
+      "Read(//Users/jleechan/worldarchitect.ai/.git/worktrees/**)"
+    ]
+  }
+}
