@@ -1,3 +1,7 @@
+## [2026-06-02] ingest | Skeptic Cron Auto-Merge
+
+The skeptic cron job (`skeptic-cron.yml` workflow on GitHub Actions) periodically scans open pull requests in the repository. If all 7-green conditions are satisfied—including the 7th gate (Skeptic Agent Verdict: PASS) which is verified via the `ao skeptic verify` comment—the workflow will automatically squash-merge the PR. This auto-merge mechanism is enabled by the repository variable `SKEPTIC_CRON_AUTO_MERGE="true"`. Source: sources/2026-06-02-skeptic-cron-auto-merge.md. [[jeffrey-oracle]]: NO.
+
 ## [2026-05-29] ingest | opencode-go GLM-5.1 provider quality investigation
 
 opencode-go/GLM-5.1 shows 3× iteration budget exhaustion on day 1 vs wafer baseline; documented agentic stall, thinking-token leakage, availability issues, routing bugs. Concept page created: [[hermes-provider-quality]]. Do not change provider without Jeffrey approval. [[jeffrey-oracle]]: NO.
