@@ -53,3 +53,11 @@ Before persisting to Firestore, all RewardsBox instances must pass through `norm
 - [[RewardsBoxObservability]] — Observability patterns
 - [[StreamingPassthroughNormalization]] — Normalization in streaming path
 - [[CentralizedNumericExtraction]] — Numeric extraction from LLM
+
+## ⚠️ Banned Schema Field (2026-06-02)
+
+`level_up_available` must NOT be in the LLM narrative response schema.
+- It is backend-derived (set by `ensure_rewards_box()`), not model-owned.
+- Adding it creates a circular dependency (LLM echoes → backend trusts echo).
+- ZFC-correct: use `level_up_signal.target_level > current_level`.
+- See: PR #7221, commit 20372341, bead rev-1pmyg.

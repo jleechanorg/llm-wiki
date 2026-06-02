@@ -4342,3 +4342,13 @@ Source: sources/feedback-2026-05-30-dark-factory-brownfield-flaws.md (raw: raw/f
 - Page: sources/gemini-cost-census-test-traffic-dominates-2026-06-01.md
 - Concepts updated: GeminiCostApportionment (new), FirestoreOrphanTenants (new), GeminiContextCacheTTL (linked)
 - [[jeffrey-oracle]]: not affected (technical cost-attribution learning)
+
+## [2026-06-01] ingest | GCP Billing Hard-Dollar Daily Cost (2026-01-01 → 2026-06-01)
+- raw: ~/llm_wiki/raw/gcp_billing_2026-01-01_to_2026-06-01.csv (md5 79c2fc75f68ad74214dd2f1cd745e05d, 1492 lines)
+- source page: wiki/sources/gcp-billing-2026-h1-hard-dollar.md
+- index: added under ## Sources
+- concept updated: GeminiCostApportionment.md (hard-dollar YTD totals + monthly trend)
+- key facts: Gemini API $9,210.88 YTD = 78.8% of all $11,689 GCP; May peak month $3,331; top day Apr-13 $816.13; resolves BQ freshness gap rev-wj9mo.1
+- affects [[jeffrey-oracle]]: no (operational cost data, not identity)
+
+## [2026-06-02] ingest | level_up_available Schema Ban (Anti-Pattern)
