@@ -4352,3 +4352,8 @@ Source: sources/feedback-2026-05-30-dark-factory-brownfield-flaws.md (raw: raw/f
 - affects [[jeffrey-oracle]]: no (operational cost data, not identity)
 
 ## [2026-06-02] ingest | level_up_available Schema Ban (Anti-Pattern)
+
+## [2026-06-04] ingest | Consulting Server Express.js Fixes (agent-universe.ai)
+- Source: wiki/sources/consulting-server-express-fixes.md
+- Raw: llm_wiki/raw/feedback_2026-06-04_consulting-server-fixes.md
+- Concepts: express-spa-server-patterns
