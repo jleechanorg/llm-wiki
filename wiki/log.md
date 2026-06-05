@@ -4384,3 +4384,10 @@ Source: sources/feedback-2026-05-30-dark-factory-brownfield-flaws.md (raw: raw/f
 - mem0: not used (no helper configured for this project)
 - Bead: rev-6q1t9 (closed learning bead)
 - Jeffrey-oracle impact: NO — purely provider-level encoding fix
+
+## [2026-06-05] ingest | macOS keychain popup multi-source fix + AO skeptic gate ops 2026-06-05
+- source: sources/keychain-ao-skeptic-2026-06-05.md (raw/keychain_ao_skeptic_2026-06-05.md)
+- updated concept: concepts/macOSKeychain.md (added system.keychain.create.loginkc common right + blanket authorizationdb fix + merged PR #653/#592)
+- new concept: concepts/AOSkepticGateOps.md (AO worker kill side-effects, manual verdict posting, gist-not-md evidence)
+- index: added Sources + Concepts entries
+- mem0: written verbatim under user_id=jleechan (id 43e4ace6-b7ef-47f8-a2bf-811c74b62745), search-confirmed (score 0.685)

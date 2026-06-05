@@ -1,9 +1,9 @@
 ---
 title: "macOS Keychain"
 type: concept
-tags: [macos, keychain, security, securityd, headless, ci]
-sources: [keychain-not-found-multi-source-rca-2026-06-04.md]
-last_updated: 2026-06-04
+tags: [macos, keychain, security, securityd, headless, ci, authorizationdb, loginkc]
+sources: [keychain-not-found-multi-source-rca-2026-06-04.md, keychain-ao-skeptic-2026-06-05.md]
+last_updated: 2026-06-05
 ---
 
 ## Summary
@@ -26,6 +26,22 @@ See [[AgentOrchestrator]], [[GitHubActionsSelfHostedRunner]], and the
 `com.jleechan.cmux-codex-approve` launchd loop — three independent headless processes documented in
 the 2026-06-04 multi-source RCA.
 
+**Common authorization right (2026-06-05):** all three sources hit the *same* authorization right
+`system.keychain.create.loginkc`. Confirm the requesting client with:
+`log show --predicate 'process == "authd"' | grep keychain.create.loginkc`. Because they converge
+on one right, a single blanket authorization change suppresses every source at once.
+
+## Decisive Blanket Fix (2026-06-05)
+
+```bash
+sudo security authorizationdb write system.keychain.create.loginkc allow
+```
+
+- Back up the existing rule first (read it before overwriting).
+- Reversible, and persists across reboot.
+- Suppresses the prompt for **every** source simultaneously — use this when per-source fixes are
+  not yet deployed everywhere.
+
 ## Diagnostic Discipline
 
 - **Measure real popups, not probe noise.** securityd `MacOS error: -25294` (`errSecNoSuchKeychain`)
@@ -38,11 +54,13 @@ the 2026-06-04 multi-source RCA.
 - **`~/.bashrc` is not a fix** for git keychain popups: the credential helper lives in gitconfig, not
   env, and bashrc deliberately disables `GITHUB_TOKEN`/`GH_TOKEN`.
 
-## Fixes (per source)
+## Fixes (per source — both MERGED 2026-06-05)
 
-- **AO worker `$HOME`:** symlink session `Library/Keychains` → real `~/Library/Keychains`.
+- **AO worker `$HOME`:** always symlink session `Library/Keychains` → real `~/Library/Keychains` —
+  agent-orchestrator PR #653.
 - **CI git:** point the runner at a CI-only gitconfig via `GIT_CONFIG_GLOBAL` that resets
-  `[credential] helper=` empty, disabling osxkeychain for CI without affecting interactive git.
+  `[credential] helper=` empty, disabling osxkeychain for CI without affecting interactive git —
+  jleechanclaw PR #592 (the same PR also added qdrant `--restart unless-stopped`).
 
 ## Connections
 - [[securityd]] — the daemon that emits `-25294` probe noise and launches SecurityAgent dialogs.
