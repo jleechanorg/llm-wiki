@@ -46,7 +46,12 @@ Storage cost accrues **continuously all day**, not just at peak hours. An estima
 
 Activity-aware TTL refresh (cache keepalive): on each cache reuse, if remaining TTL < threshold, issue a PATCH to extend TTL. This decouples cache lifetime from wall-clock time to "time since last player action," eliminating churn during active gameplay.
 
+## Shared System/Tools-Only Cache (2026-06-04 spike, GO)
+
+The current per-campaign cache stores system+tools redundantly per active campaign — that O(campaigns) storage rent was the dominant pre-#7215 cost. A measured spike ([shared-system-tools-cache-spike-2026-06-04](../sources/shared-system-tools-cache-spike-2026-06-04.md)) proves a single **shared, campaign-free, system/tools-only explicit cache** keyed by `(model, system_prompt_sha256, tool_signature_sha256)` discounts 99.8% of the static floor on read and collapses storage **O(campaigns)=$1,440/day → O(~6 caches)=$8.64/day** (Option 2 = −74%/call). Constraint: `cached_content` is a single `Optional[str]` (one cache/request), and referencing a cache while also setting `system_instruction`/`tools` returns HTTP 400 — system must move fully into the cache. Verdict GO → impl bead `rev-n6nbs.1`; PR [#7259](https://github.com/jleechanorg/worldarchitect.ai/pull/7259) (OPEN, human-gated).
+
 ## Related
 
 - [[CachedSystemInstructionTokens]] — system instruction token overhead
 - [[GeminiApiVariance]] — below-threshold prompt variance
+- [[GeminiCostApportionment]] — cost epic this spike feeds (rev-9piwk)
