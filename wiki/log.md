@@ -4357,3 +4357,9 @@ Source: sources/feedback-2026-05-30-dark-factory-brownfield-flaws.md (raw: raw/f
 - Source: wiki/sources/consulting-server-express-fixes.md
 - Raw: llm_wiki/raw/feedback_2026-06-04_consulting-server-fixes.md
 - Concepts: express-spa-server-patterns
+
+## [2026-06-04] ingest | GCP Cloud Run Job daily test infra — auth, timeout, email, prod bugs
+- Source: wiki/sources/gcp-daily-test-job-infra-2026-06-04.md
+- Raw: llm_wiki/raw/project_2026-06-04_gcp-daily-test-job-infra.md
+- Concepts: cloud-run-jobs, testing-auth-bypass, gcp-evidence-upload
+- Bead: rev-zsls4
