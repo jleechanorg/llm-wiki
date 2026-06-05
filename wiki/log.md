@@ -4363,3 +4363,11 @@ Source: sources/feedback-2026-05-30-dark-factory-brownfield-flaws.md (raw: raw/f
 - Raw: llm_wiki/raw/project_2026-06-04_gcp-daily-test-job-infra.md
 - Concepts: cloud-run-jobs, testing-auth-bypass, gcp-evidence-upload
 - Bead: rev-zsls4
+
+## [2026-06-04] ingest | macOS "Keychain Not Found" popups — multi-source root cause and fixes
+- Source: wiki/sources/keychain-not-found-multi-source-rca-2026-06-04.md
+- Raw: llm_wiki/raw/keychain-not-found-multi-source-rca-2026-06-04.md
+- Entities: GitHubActionsSelfHostedRunner
+- Concepts: macOSKeychain, securityd
+- Existing links: [[AgentOrchestrator]], [[ZeroFrameworkCognition]]
+- mem0: 54c3ed79-7ed6-4044-a837-918df46b21ca (user_id=jleechan)
