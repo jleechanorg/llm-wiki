@@ -6601,6 +6601,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [CampaignWizard isEnabled guard](sources/wizard-isenabled-guard-2026-05-30.md) — 2026-05-30, disable() never clears selectedCampaignType; guard with isEnabled
 - [Conclude/Finalize ZFC + Dark Factory (2026-05-30)](sources/conclude-finalize-zfc-darkfactory-2026-05-30.md) — holdout coder-vs-orchestrator, @prompts false-PASS, conclude prompt phase, /llm-testing
 - [AO launchd respawners cause load-486 storm](sources/ao-launchd-load-storm.md)
+- [macOS "Keychain Not Found" popups — multi-source RCA](sources/keychain-not-found-multi-source-rca-2026-06-04.md) — 2026-06-04, 3 headless sources (AO agy workers, GHA self-hosted runner, cmux loop); measure SecurityAgent dialogs not securityd -25294 noise
 
 ## Campaigns (batch ingest)
 
