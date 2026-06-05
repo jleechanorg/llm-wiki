@@ -18,6 +18,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Green Gate CI Pattern](sources/green-gate-ci-pattern-2026-05-14.md) — 6-gate deterministic PR merge eligibility with no LLM, no polling, self-hosted runner fallback
 - [Tmux Terminal Reading](sources/tmux-terminal-reading-2026-05-15.md) — Read tmux panes bottom-up; never diagnose from stale scrollback; `❯` = idle, not frozen
 
+- [PR #7249 UTF-8 mojibake streaming fix](sources/pr7249-utf8-mojibake-streaming-fix-2026-06-05.md) — `requests.Response.iter_lines(decode_unicode=True)` silently defaults to ISO-8859-1 when SSE Content-Type lacks charset, corrupting 22 model-output entries in OpenRouter/OpenAI proxy providers. Fix: remove `decode_unicode=True` (matches OpenClaw safe pattern). 4 regression tests. --squash merged at 6933742b16 after "if 6 gates pass you can merge" authorization.
 - [WorldArchitect.AI System Architecture v3.0](sources/worldarchitect-system-architecture-v3.md) — Deep architecture: 14 agents, token budget, dice integrity, factions, prompt library
 - [WorldArchitect.AI README (Restructured)](sources/worldarchitect-readme-restructured.md) — Exec summary README with system diagram and deep-dive links
 - [autor SR-adversarial Design — 2026-05-13](sources/autor-sr-adversarial-design-2026-05-13.md) — 2026-05-13: resolve divergent main branch; validate_router_prereqs.py `observations` → `scores` fix; SR-adversarial technique added to run_autor_experiment.py; batch_sr5iter.py resolved to origin version
