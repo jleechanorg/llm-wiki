@@ -4371,3 +4371,16 @@ Source: sources/feedback-2026-05-30-dark-factory-brownfield-flaws.md (raw: raw/f
 - Concepts: macOSKeychain, securityd
 - Existing links: [[AgentOrchestrator]], [[ZeroFrameworkCognition]]
 - mem0: 54c3ed79-7ed6-4044-a837-918df46b21ca (user_id=jleechan)
+
+## [2026-06-05] ingest | PR #7249 UTF-8 mojibake streaming fix merged
+- Source: wiki/sources/pr7249-utf8-mojibake-streaming-fix-2026-06-05.md
+- Raw: llm_wiki/raw/pr7249-utf8-mojibake-streaming-fix-2026-06-05.md
+- PR: https://github.com/jleechanorg/worldarchitect.ai/pull/7249
+- Issue: https://github.com/jleechanorg/worldarchitect.ai/issues/7248
+- Commit: 6933742b16564b152623aba7cfdcc61c60652652 (--squash merged)
+- Entities: (none new — OpenRouter and OpenAI proxy providers are entities already represented in mvp_site/llm_providers/)
+- Concepts: (none new — relates to existing OpenRouterProvider, OpenAIProxyProvider, OpenClawProvider, PythonRequestsSSEDecoding)
+- Existing links: [[Green Gate CI Pattern]], [[PRGreenDefinition]], [[EvidenceStandards]]
+- mem0: not used (no helper configured for this project)
+- Bead: rev-6q1t9 (closed learning bead)
+- Jeffrey-oracle impact: NO — purely provider-level encoding fix

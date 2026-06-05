@@ -3,7 +3,7 @@ title: "SSE Streaming"
 type: concept
 tags: [streaming, http, server-sent-events]
 sources: [openrouter-provider-tests]
-last_updated: 2026-04-08
+last_updated: 2026-06-05
 ---
 
 Server-Sent Events (SSE) streaming is a server-push technology where the server sends data to the client over HTTP using the text/event-stream content type.
@@ -25,3 +25,32 @@ The first SSE event from Anthropic's API is always `message_start`, containing `
 - [[StreamingSync]] — generate_content_stream_sync function concept
 - [[WaferFixSSEPatcher]] — proxy-level patcher for `input_tokens:0` in message_start
 - [[Compaction]] — autocompact thrash caused by zero token counts
+
+## ⚠️ iter_lines(decode_unicode=True) is a UTF-8 footgun (PR #7249)
+
+**Added 2026-06-05** — see `pr7249-utf8-mojibake-streaming-fix-2026-06-05.md`
+
+`requests.Response.iter_lines(decode_unicode=True)` decodes SSE bytes using
+`self.encoding`, which **defaults to ISO-8859-1** when the upstream
+Content-Type lacks a `charset=` directive. This silently corrupts multi-byte
+UTF-8 (em-dash, curly quotes, curly apostrophe) when SSE chunks cross a
+line boundary. Affects OpenRouter and OpenAI proxy providers. Bug is
+non-deterministic per turn (depends on chunk boundaries).
+
+**Safe pattern (OpenClaw already does this)**:
+```python
+for line in response.iter_lines():  # NO decode_unicode=True
+    text = line.decode("utf-8", errors="replace")  # explicit decode
+```
+
+**Less safe alternative**:
+```python
+response.encoding = "utf-8"  # force BEFORE iter_lines
+for line in response.iter_lines(decode_unicode=True):
+    ...
+```
+
+Regression test pattern: use a `FakeSSEResponse` whose `iter_lines` is the
+**real** method with `encoding=ISO-8859-1` (mimics `requests` default).
+Build raw SSE bytes with `ensure_ascii=False` so em-dash is actual
+`0xE2 0x80 0x94` bytes (not `\\u2014` escape).
