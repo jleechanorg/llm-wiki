@@ -18,3 +18,18 @@ The `mvp_site.llm_providers.gemini_code_execution` module provides utilities:
 - Evidence extraction returns structured dict with boolean `code_execution_used` flag
 - Truncation adds "...(truncated)" suffix when content exceeds `max_chars`
 - Supports multiple candidates and parts per response
+
+## Streaming Instruction/Tool Parity
+
+2026-06-06 WorldArchitect RCA: do not send code-execution instructions on a
+Gemini request path unless the request also attaches the actual
+`code_execution` tool. A streaming turn for campaign `8J0RzsHVHH1GLg6E6BLM`
+returned a JSON list of inert `tool=code_execution` objects with `args.code`
+but no normal `text` and no observed `code_execution_result.output`. Text-only
+extraction then dropped the answer and parser fail-open persisted
+`The story continues...`.
+
+Operational rule: on placeholder/fail-open incidents, inspect raw response part
+types (`text`, `executable_code`, `code_execution_result`, tool/function parts)
+and compare streaming vs non-streaming tool config before blaming model
+narrative quality or frontend truncation.
