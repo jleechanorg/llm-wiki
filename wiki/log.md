@@ -4391,3 +4391,9 @@ Source: sources/feedback-2026-05-30-dark-factory-brownfield-flaws.md (raw: raw/f
 - new concept: concepts/AOSkepticGateOps.md (AO worker kill side-effects, manual verdict posting, gist-not-md evidence)
 - index: added Sources + Concepts entries
 - mem0: written verbatim under user_id=jleechan (id 43e4ace6-b7ef-47f8-a2bf-811c74b62745), search-confirmed (score 0.685)
+
+## [2026-06-05] ingest | ao-codex-worker-blockers-2026-06-05
+Three AO Codex worker blockers: --full-auto flag replaced, running.json workaround, openBrowser:false config. Bead bd-40k8 closed.
+
+## [2026-06-05] ingest | evidence-review-unscorable-axes-2026-06-05
+/er on dark-factory PR #16 (b2bd7a3) PASSED. Lesson: exclude structurally-unmeasurable axes (graph_quality, shared graph-IR, mode-invariant) from "no separation on any axis" — a non-measurement is not equivalence; partition axes measured-tied vs unscorable. Bead jleechan-g8m closed. Concept EvidenceBasedVerification.md updated.

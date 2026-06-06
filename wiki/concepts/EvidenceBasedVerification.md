@@ -76,3 +76,21 @@ git diff <evidence_sha>..HEAD -- mvp_site/
 **Incident**: PR [#7142](https://github.com/jleechanorg/worldarchitect.ai/pull/7142) evidence at SHA `a0b5c87780` became stale after `df433f84de` — 13 files (+331/−135) changed. CR flagged as P0.
 
 - Source: `[[feedback_2026-05-29_evidence_sha_staleness]]`
+
+## Axis partition — a null on an unscorable axis is a non-measurement
+
+When verifying an A/B mechanism benchmark, "no separation on **any** axis" must
+**exclude axes that cannot separate by construction.** In dark-factory's
+workflow_graphgen n=10 null, the `graph_quality` axis was `n=0 / insufficient data`
+because both modes consume the *same* graph-IR (mode-invariant — the fit score is
+computed once and reused), so it can never separate. Folding it into "any axis"
+inflates the null's scope; the aggregate JSON honestly marked it `insufficient data`
+while the synthesis prose rounded it away.
+
+**Rule:** partition axes into `{measured-and-tied}` vs `{unscorable / structurally
+invariant}`; a null on the latter is zero evidence of equivalence. And for a
+*true-negative* claim, prove the ruler is sighted by reusing the **same aggregator**
+on engineered scenarios where it *does* credit winners (the dynamic_fanout
+calibration credited 4 with the identical `scoring.aggregate`).
+
+- Source: `[[evidence-review-unscorable-axes-2026-06-05]]` (dark-factory PR #16, bead jleechan-g8m). Related: [[CalibrationBiasVerification]].
