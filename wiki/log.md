@@ -4404,3 +4404,11 @@ Three AO Codex worker blockers: --full-auto flag replaced, running.json workarou
 - Concepts updated: `GeminiCodeExecution.md`, `StreamingVsNonStreaming.md`
 - Beads: rev-ncugf, rev-mzl0i, rev-5b2zf, rev-t00zj
 - [[jeffrey-oracle]]: not affected; technical LLM provider/path and operator-discipline learning.
+
+## [2026-06-06] ingest | mem0 embedder Wafer to Ollama
+- Source: `~/llm_wiki/raw/feedback_2026-06-06_mem0_embedder_wafer_ollama.md`
+- Page: `wiki/sources/mem0-embedder-wafer-ollama-2026-06-06.md`
+- Concepts updated: `CredentialValidation.md`
+- Bead: jleechan-b4a (CLOSED)
+- Summary: mem0 embedding silently failed — OPENAI_API_KEY held a Wafer (wfr_) token (Anthropic gateway, not OpenAI) and the ~/.hermes/config.yaml override was a silent no-op (json.loads on YAML, swallowed exception). Fixed → local Ollama nomic-embed-text (768-dim drop-in for text-embedding-3-small, matches Qdrant hermes_mem0, no re-index), now key-free. MiniMax embeddings rejected.
+- [[jeffrey-oracle]]: not affected; technical workflow/config learning.
