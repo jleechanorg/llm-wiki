@@ -4397,3 +4397,10 @@ Three AO Codex worker blockers: --full-auto flag replaced, running.json workarou
 
 ## [2026-06-05] ingest | evidence-review-unscorable-axes-2026-06-05
 /er on dark-factory PR #16 (b2bd7a3) PASSED. Lesson: exclude structurally-unmeasurable axes (graph_quality, shared graph-IR, mode-invariant) from "no separation on any axis" — a non-measurement is not equivalence; partition axes measured-tied vs unscorable. Bead jleechan-g8m closed. Concept EvidenceBasedVerification.md updated.
+
+## [2026-06-06] ingest | Streaming code-exec fail-open RCA
+- Source: `~/llm_wiki/raw/streaming-codeexec-failopen-2026-06-06.md`
+- Page: `wiki/sources/streaming-codeexec-failopen-2026-06-06.md`
+- Concepts updated: `GeminiCodeExecution.md`, `StreamingVsNonStreaming.md`
+- Beads: rev-ncugf, rev-mzl0i, rev-5b2zf, rev-t00zj
+- [[jeffrey-oracle]]: not affected; technical LLM provider/path and operator-discipline learning.
