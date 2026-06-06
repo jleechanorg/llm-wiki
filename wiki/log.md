@@ -4412,3 +4412,11 @@ Three AO Codex worker blockers: --full-auto flag replaced, running.json workarou
 - Bead: jleechan-b4a (CLOSED)
 - Summary: mem0 embedding silently failed — OPENAI_API_KEY held a Wafer (wfr_) token (Anthropic gateway, not OpenAI) and the ~/.hermes/config.yaml override was a silent no-op (json.loads on YAML, swallowed exception). Fixed → local Ollama nomic-embed-text (768-dim drop-in for text-embedding-3-small, matches Qdrant hermes_mem0, no re-index), now key-free. MiniMax embeddings rejected.
 - [[jeffrey-oracle]]: not affected; technical workflow/config learning.
+
+## [2026-06-06] ingest | CodeRabbit perpetual-nitpick stall (PR #16)
+- Source: `~/llm_wiki/raw/feedback_2026-05-31_pr10_coderabbit_stall.md`
+- Page: `wiki/sources/coderabbit-perpetual-nitpick-stall-2026-06-06.md`
+- Concepts updated: `CodeRabbitDismissedPattern.md` (added Stall variants section)
+- Bead: jleechan-xpv (CLOSED)
+- Summary: Second CodeRabbit stall flavor on dark-factory PR #16, distinct from PR #10's COMMENTED-stall. CR re-reviews each new head but perpetually files fresh CHANGES_REQUESTED with new low-severity nitpicks, never auto-dismisses, never flips reviewDecision to APPROVED even with CI green + suite 226. Rule: once actionable items fixed+verified, CI green, local suite green → stop chasing APPROVED → admin squash-merge per operator OK (gh pr merge N --admin --squash). Mandatory pre-merge re-check (mergeable=MERGEABLE, local HEAD==remote HEAD). Merged → d010cf6 (4b8b921->d010cf6).
+- [[jeffrey-oracle]]: not affected; technical workflow/process learning.
