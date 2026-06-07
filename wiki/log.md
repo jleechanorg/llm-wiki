@@ -4420,3 +4420,14 @@ Three AO Codex worker blockers: --full-auto flag replaced, running.json workarou
 - Bead: jleechan-xpv (CLOSED)
 - Summary: Second CodeRabbit stall flavor on dark-factory PR #16, distinct from PR #10's COMMENTED-stall. CR re-reviews each new head but perpetually files fresh CHANGES_REQUESTED with new low-severity nitpicks, never auto-dismisses, never flips reviewDecision to APPROVED even with CI green + suite 226. Rule: once actionable items fixed+verified, CI green, local suite green → stop chasing APPROVED → admin squash-merge per operator OK (gh pr merge N --admin --squash). Mandatory pre-merge re-check (mergeable=MERGEABLE, local HEAD==remote HEAD). Merged → d010cf6 (4b8b921->d010cf6).
 - [[jeffrey-oracle]]: not affected; technical workflow/process learning.
+
+## [2026-06-07] ingest | Grep on gh-pr-diff false-positives via .beads/issues.jsonl prose
+- Source: [[sources/2026-06-07-grep-beads-false-positive-pr-verification]]
+- Bead: rev-15x97 (CLOSED)
+- Summary: Verifying a PR code-symbol claim via `gh pr diff <PR> | grep <symbol>` false-positives because `.beads/issues.jsonl` prose ships in the diff and quotes code symbols. #7330 verify: count=3 `code_execution_used` matches all in beads JSON, 0 in production — nearly inverted the verdict. Fix: isolate the source hunk (awk on `diff --git`) or `git show <sha>:file | grep`. Same class as `gh pr checks | grep -c fail`.
+- [[jeffrey-oracle]]: not affected; technical workflow/verification learning.
+
+## [2026-06-07] ingest | Competing-PR subsumption — close the subset, migrate follow-ups to the superset
+- source: [[sources/2026-06-07-competing-pr-subsumption-close-subset]]
+- close the subset (#7330) as subsumed by the strict superset (#7280) when they overlap the same production files; migrate unique caveats to a comment on the superset; never merge the incomplete subset alone. bead rev-15x97.
+- updated concept [[CodeReviewMethodology]] / [[Competing-PR-Canonical-Field-Resolution]]; [[jeffrey-oracle]]: not affected.
