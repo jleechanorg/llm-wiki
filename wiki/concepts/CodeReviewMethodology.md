@@ -27,3 +27,17 @@ PR #1440 received 45/100 - MAJOR REVISION REQUIRED due to:
 - [[DataIntegrityAnalysis]]
 - [[SecurityAnalysis]]
 - [[DocumentationQualityAssessment]]
+
+## Grep-on-PR-diff false positives (beads-tracked repos) — 2026-06-07
+
+When verifying whether a PR's **code** sets/contains/removes a symbol, do **not**
+trust `gh pr diff <PR> | grep <symbol>`. The combined diff includes
+`.beads/issues.jsonl` (a 1MB+ DB export), and bead-description prose quotes code
+symbols verbatim — producing false positives that conflate "mentioned in a bead"
+with "changed by this PR." Isolate the production-file hunk
+(`awk '/^diff --git.*FILE/{f=1} /^diff --git/&&!/FILE/{f=0} f'`) or read the
+PR-head blob directly (`git show <sha>:file | grep`). Verify gate/consumer sides
+by reading the file, not the diff. Same error class as `gh pr checks | grep -c
+fail` (matches check names, not statuses). Incident: PR #7330 verification —
+3 apparent `code_execution_used` matches, all in beads JSON, 0 in production.
+Source: [[sources/2026-06-07-grep-beads-false-positive-pr-verification]] · bead rev-15x97.
