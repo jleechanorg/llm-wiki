@@ -4431,3 +4431,4 @@ Three AO Codex worker blockers: --full-auto flag replaced, running.json workarou
 - source: [[sources/2026-06-07-competing-pr-subsumption-close-subset]]
 - close the subset (#7330) as subsumed by the strict superset (#7280) when they overlap the same production files; migrate unique caveats to a comment on the superset; never merge the incomplete subset alone. bead rev-15x97.
 - updated concept [[CodeReviewMethodology]] / [[Competing-PR-Canonical-Field-Resolution]]; [[jeffrey-oracle]]: not affected.
+## [2026-06-07] ingest | Auth catch-block recovery e.code gate + handler rename (PR #7349)
