@@ -6,6 +6,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Overview](overview.md) — living synthesis across all sources
 
 - [Chimera GNN Mock Training vs Real Training — 2026-05-22](sources/feedback-2026-05-22-chimera-gnn-mock-vs-real-training.md) — `train_gnn.py` was training GNN on hash-based fake quality scores; fixed with `--real-data` flag loading P14 benchmark scores; GNN mean > fixed mean after retraining — jleechanclaw fork has old openclaw secrets; always use clean branch from hermes/main for upstream PRs
+- [Push rule is force-push only — 2026-06-10](sources/feedback-2026-06-10-push-rule-misattribution.md) — global CLAUDE.md does NOT say "ask before pushing"; force-push needs explicit approval, normal push to current branch is fine; don't paraphrase rules into stricter versions
+- [Don't fabricate post-compaction context — 2026-06-10](sources/feedback-2026-06-10-no-fabricate-conversation-context.md) — after a context compaction, summary said tests + config refinement were written; on resume working tree was clean; verify disk/git/tests, not the summary, before continuing
 - [integrate --force for worktree main checkout](sources/integrate-force-worktree-main-2026-05-23.md) — `./integrate.sh --force` bypasses main checkout safety when main is checked out in another worktree
 - [integrate.sh main checked out in worktree — workaround](sources/integrate-worktree-main-conflict-2026-05-23.md) — fatal: 'main' is already checked out at 'worktree_root_cause'; workaround: `git fetch origin main && git checkout -b dev<timestamp> origin/main`
 - [project-supervisor interval timer rejection bug](sources/pr559_interval_timer_rejection_bug.md) — `swallowErrors=true` callers incorrectly rejected via double-negative bug; `gh run list` requires cd to repo root
@@ -68,6 +70,12 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Failure Dossier](concepts/FailureDossier.md) — Per-stage 6-class failure taxonomy (transient_infra, budget_exhausted, compilation_loop, deterministic, canceled, structural); implemented in Kilroy
 
 ## Sources
+- [AO spawn dispatch sequence — 2026-06-10](sources/feedback_2026-06-10_ao_spawn_dispatch_sequence.md) — `ao spawn --claim-pr` pre-flight: (1) get exact project name from `ao session ls` (not repo slug guess), (2) `ao start --no-dashboard` first or "AO is not running", (3) verify `session.json` `agent` + `launchCommand` match expected CLI. PR #7386 worker wa-2286.
+- [/newb + cherry-pick + force-push retarget recipe — 2026-06-10](sources/feedback_2026-06-10_newbranch_cherrypick_forcepush_retarget.md) — Trigger: PR diff >> expected file count AND `git diff origin/main` empty (merge pollution, not real work). Recipe: `/newb` (slashes→dashes) + cherry-pick + commit refactor + `git push --force-with-lease <clean>:<old>`. `gh pr edit` has no `--head` — force-push is the ONLY retarget path; preserves PR #, review history, issue link. Requires explicit --force-with-lease human approval. PR #7386: 36→7 file diff at head f21bd61478.
+- [Skeptic importlib cross-test smell — 2026-06-10](sources/feedback_2026-06-10_skeptic_importlib_cross_test_smell.md) — Unit test under `mvp_site/tests/` using `importlib.util.spec_from_file_location` to load a helper from `testing_mcp/test_*.py` is a Skeptic-flagged coupling defect. Fix: extract helper to `mvp_site/<feature>.py` (mvp_site-importable) or `testing_mcp/lib/` (testing-only). Matches repo's CI-enforced import standards. PR #7386: `mvp_site/milestone_completion.py` (202L) replaces importlib block.
+- [Duplicate PR superset-merge pattern (dark-factory PR #40/#41) — 2026-06-09](sources/duplicate-pr-superset-merge-2026-06-09.md) — When an agent's WIP is recovered into one PR and the agent opens its own PR of the same edits: diff branches to prove byte-identical subset, merge the green superset first (#40 → bf694ad), then `git merge origin/main` into the duplicate so identical hunks fall away conflict-free, deflating it to its unique contribution (#41 → fee8f01). No force-push, preserves authorship. Divergent overlap = stacked-PR single-writer stop-the-line instead. Complements [[sources/2026-06-07-competing-pr-subsumption-close-subset]] (close-subset variant). Bead jleechan-clh.
+- [Optional Registry and Self-Invocation Fix in merge_train hooks — 2026-06-09](sources/feedback_2026-06-09_active_symbol_hooks_logging.md) — Fixed silent hook skips due to missing file_domains.yaml and recursive self-invocation loops in per-repo predict-spawn-check.sh. Diagnostic start/conclude stderr logs added.
+- [feedback-2026-06-09-runner-supervisor-and-ops](sources/feedback-2026-06-09-runner-supervisor-and-ops.md) — Self-healing launchd supervisor `while true; sleep 300` + `set -uo pipefail` (NOT -e); bashrc sourcing needs `set +u` AND `set +e` (cmux $PROMPT_COMMAND + user errexit leak); GH-side busy=true corruption is local-unrecoverable; hard-reset order `docker stop`→`rm -f`→`volume rm`; stable install path `~/.local/share/worldarchitect-runners/` must be cp'd from worktree; PR-cancel fanout must also protect in-flight /green PR; PR #7271 merged 2026-06-07
 - [auth-catch-recovery-ecode-gate-2026-06-07](sources/auth-catch-recovery-ecode-gate-2026-06-07.md) — Auth signInWithPopup catch must gate reload-recovery on e.code (network/hang only); rename handler when triggers expand
 - [[sources/2026-06-07-competing-pr-subsumption-close-subset]] — two OPEN PRs overlap same prod files + one strict superset → close subset subsumed, migrate follow-ups to superset, never merge subset alone (#7330→#7280)
 - [[sources/2026-06-07-grep-beads-false-positive-pr-verification]] — grep on `gh pr diff` false-positives via .beads/issues.jsonl prose; hunk-isolate the source file (bead rev-15x97)
@@ -6455,6 +6463,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Wafer SSE input_tokens:0 Autocompact Thrashing Fix](sources/wafer-sse-input-tokens-zero-fix-2026-05-14.md) — GLM-5.1 always returns input_tokens:0 in message_start; WaferFixPatcher in llm-inspector patches to estimated count (bodyBytes/4), stopping autocompact thrash (2026-05-14)
 ## Sources
 - [tsup/esbuild silently passes TypeScript scope bugs (2026-05-15)](sources/tsup-hides-scope-bugs.md) — tsup builds pass with out-of-scope vars; tsc --noEmit catches TS2304; llm-inspector commit 0d3efa0
+- [Hermes Gateway bootout Outage Root Cause (2026-06-09)](sources/hermes-gateway-bootout-outage-2026-06-09.md) — hermes gateway stop = permanent bootout; KeepAlive evicted; correct restart = kickstart -k via hermes gateway restart
 - [br CLI Bead Access Pattern (2026-05-14)](sources/br-cli-bead-access-pattern-2026-05-14.md) — use br show/search/list; beads.left.jsonl=5MB; compaction blocked by full DB re-export
 - [Export Filter Artifacts - Double PROJECT_ROOT Bug](sources/export_filter_artifacts.md) — 2026-05-13
 - [Hermes Launchd Meta-Pattern](sources/hermes-launchd-meta-pattern.md) — All recurring Hermes gateway failures trace to launchd violating shell-session assumptions; Liveness≠Functionality pattern
@@ -6470,10 +6479,12 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [llm_inspector integrate no script (2026-05-14)](sources/llm-inspector-integrate-no-script-2026-05-14.md) — llm_inspector has no integrate.sh; manual: checkout main, pull, git branch -D old, checkout -b new, set-upstream-to=origin/main
 - [Automatic Merge Bypass in AO Reactions (2026-05-31)](sources/ao_reactions_auto_merge_bypass.md) — Custom approved-and-green actions (like send-to-agent) bypass daemon-side auto-merge overrides, creating deadlocks with agentRules merge restrictions.
 - [Automatic Workspace Trust Injection in Antigravity CLI (2026-05-31)](sources/antigravity_auto_trust_workspaces.md) — Inject launch project paths into trustedFolders.json inside session configs to prevent interactive trust prompts in background workers.
+- [Browser Auto-Open Suppression and Port Conflict Resolution (2026-06-10)](sources/anti-pattern_2026-06-10_browser-suppression-configs.md) — Gating browser opening on multi-port environments and ensuring workspace configs disable openBrowser.
 
 
 
 ## Entities
+
 
 - [[WorldArchitectAI]] — Production D&D 5e AI GM platform (14 agents, Gemini, FastEmbed)
 - [[DiceIntegrity]] — Anti-fabrication: LLM requests rolls, sandbox resolves them
@@ -6613,8 +6624,15 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [AO launchd respawners cause load-486 storm](sources/ao-launchd-load-storm.md)
 - [macOS "Keychain Not Found" popups — multi-source RCA](sources/keychain-not-found-multi-source-rca-2026-06-04.md) — 2026-06-04, 3 headless sources (AO agy workers, GHA self-hosted runner, cmux loop); measure SecurityAgent dialogs not securityd -25294 noise
 
+## Agent Orchestrator Operations & Fragility (2026-06)
+
+- [Agent Orchestrator Fragility Audit (2026-06-10)](sources/agent-orchestrator-fragility-2026-06-10.md) — 4-agent discovery fanout; 11 fragility categories, 17 unmonitored signals, 9 missing alerting channels; silent-failure pattern dominates (8/11); proposed 3-tier watchdog-of-watchdogs arch (health + health-guardian + runner-watchdog); restores broken `ai.hermes-watchdog` Slack alerting path
+- [PR #672 doctor.sh v2 — MERGED 2026-06-10](sources/agent-orchestrator-pr-672-merge-2026-06-10.md) — admin-merge at 37ff31cda overriding unfulfilled Skeptic+CodeRabbit-formal; Green Gate PASS (run 27273284215) was the deterministic 6-green merge signal; local skeptic-cron 5+ consecutive FAIL on codex model; SHA-lock + auto-dismiss creates Sisyphean loop; 13 files +1345/-4; tilde expansion remains unfixed
+
 ## Campaigns (batch ingest)
 
 
 - [level_up_available Schema Ban](sources/level-up-available-schema-banned.md) — Anti-Pattern: backend-derived field; use target_level>current_level
 - [ao-codex-worker-blockers-2026-06-05](sources/ao-codex-worker-blockers-2026-06-05.md) — codex --full-auto removed; running.json required by ao spawn; openBrowser:false config added
+
+- [Stale-bead hygiene is load-bearing (2026-06-10)](sources/feedback_2026-06-10_stale_bead_hygiene_load_bearing.md) — 4 P0 beads (`bd-hbif`/`bd-9339`/`bd-0ocg`/`bd-rgk0`) sat open 1-2.5 months after PR #260/#661 merged; closed 2026-06-10; PR-merge does NOT auto-close linked beads; audit `br list --status open --priority 0` for "Fixed in PR #N" in description before any priority-sort
