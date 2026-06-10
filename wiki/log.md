@@ -1,3 +1,7 @@
+## [2026-06-09] ingest | [antig] Hook logging and fallback fixes in merge_train
+
+Optional registry and self-invocation fixes in `merge_train` hook scripts (`pre-commit.sh`, `predict-spawn-check.sh`, `gemini-conflict-warn.sh`). Prevented silent hook exits when `file_domains.yaml` is absent, and resolved a recursive self-invocation loop when installed locally. Added diagnostic stderr logs in `conflict_check_helper.py` to ensure runtime hook execution is transparent to the operator. Source: sources/feedback_2026-06-09_active_symbol_hooks_logging.md. [[jeffrey-oracle]]: NO.
+
 ## [2026-06-02] ingest | Skeptic Cron Auto-Merge
 
 The skeptic cron job (`skeptic-cron.yml` workflow on GitHub Actions) periodically scans open pull requests in the repository. If all 7-green conditions are satisfied—including the 7th gate (Skeptic Agent Verdict: PASS) which is verified via the `ao skeptic verify` comment—the workflow will automatically squash-merge the PR. This auto-merge mechanism is enabled by the repository variable `SKEPTIC_CRON_AUTO_MERGE="true"`. Source: sources/2026-06-02-skeptic-cron-auto-merge.md. [[jeffrey-oracle]]: NO.
@@ -4432,3 +4436,97 @@ Three AO Codex worker blockers: --full-auto flag replaced, running.json workarou
 - close the subset (#7330) as subsumed by the strict superset (#7280) when they overlap the same production files; migrate unique caveats to a comment on the superset; never merge the incomplete subset alone. bead rev-15x97.
 - updated concept [[CodeReviewMethodology]] / [[Competing-PR-Canonical-Field-Resolution]]; [[jeffrey-oracle]]: not affected.
 ## [2026-06-07] ingest | Auth catch-block recovery e.code gate + handler rename (PR #7349)
+
+## [2026-06-09] ingest | Runner supervisor + RC sourcing + GH-side busy state (PR #7271)
+- source: [[sources/feedback-2026-06-09-runner-supervisor-and-ops]]
+- supervisor = `while true; sleep 300` with `set -uo pipefail` (NOT -e). bashrc sourcing needs `set +u` AND `set +e` around the rc block. GH-side `busy=true` is local-unrecoverable. Hard-reset order `docker stop` → `rm -f` → `volume rm`. Stable install path `~/.local/share/worldarchitect-runners/` must be cp'd from worktree. PR-cancel fanout must protect in-flight /green PR. PR #7271 merged 2026-06-07, merge commit bdaadff0f5f156f23639a44e6e0fc7d01ff95307. Bead rev-5ysuv (closed).
+- updated concept [[Self-Hosted-Runner-Infra-Flake-vs-Real-Failure]] / [[Launchd]] / [[SelfHostedRunnerNaming]]; [[jeffrey-oracle]]: not affected.
+
+## [2026-06-09] ingest | Duplicate PR superset-merge pattern (dark-factory PR #40/#41)
+- source: [[sources/duplicate-pr-superset-merge-2026-06-09]]
+- Agent WIP recovered into PR #40 while the agent opened PR #41 with the same byte-identical edits. Resolution: prove subset via `git diff brA brB --stat`, merge green superset (#40 → bf694ad), `git merge origin/main` into the duplicate so identical hunks fall away conflict-free, deflating #41 to its unique lane (minimal_research.dot → fee8f01). No force-push, authorship preserved. Divergent overlap = single-writer stop-the-line instead.
+- updated concept [[Competing-PR-Canonical-Field-Resolution]] (third variant section); [[jeffrey-oracle]]: not affected. Bead jleechan-clh.
+
+## [2026-06-10] ingest | PR #7386 workflow: AO dispatch + force-push retarget + importlib smell
+
+Three new source pages from the PR #7386 work session:
+
+- `feedback_2026-06-10_ao_spawn_dispatch_sequence.md` — pre-flight checklist for `ao spawn --claim-pr`
+- `feedback_2026-06-10_newbranch_cherrypick_forcepush_retarget.md` — clean-branch retarget recipe preserving PR # + history
+- `feedback_2026-06-10_skeptic_importlib_cross_test_smell.md` — extract helper to shared module to fix coupling
+
+Memory: `~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/` (3 files added)
+Roadmap: `~/roadmap/learnings-2026-06.md` (1 entry appended)
+Bead: rev-1m1w2 (closed task, label learning+documentation)
+
+## [2026-06-10] ingest | Push rule is force-push only, not "ask before pushing"
+
+Source: `~/llm_wiki/raw/feedback-2026-06-10-push-rule-misattribution.md`
+Page: `~/llm_wiki/wiki/sources/feedback-2026-06-10-push-rule-misattribution.md`
+Index: `~/llm_wiki/wiki/index.md` (Sources list, top)
+Memory: `~/.claude/projects/-Users-jleechan-projects-merge-train/memory/feedback_2026-06-10_push_rule_misattribution.md`
+Roadmap: `~/roadmap/learnings-2026-06.md` (1 entry appended)
+Bead: none (merge_train has no .beads/ — blocker reported per /learn skill rules)
+Jeffrey-oracle: no effect (technical workflow policy, not a campaign-state change)
+
+## [2026-06-10] ingest | Don't fabricate post-compaction context; read disk, not summary
+
+Source: `~/llm_wiki/raw/feedback-2026-06-10-no-fabricate-conversation-context.md`
+Page: `~/llm_wiki/wiki/sources/feedback-2026-06-10-no-fabricate-conversation-context.md`
+Index: `~/llm_wiki/wiki/index.md` (Sources list, top)
+Memory: `~/.claude/projects/-Users-jleechan-projects-merge-train/memory/feedback_2026-06-10_no_fabricate_conversation_context.md`
+Roadmap: `~/roadmap/learnings-2026-06.md` (1 entry appended)
+Bead: none (same blocker as above)
+Jeffrey-oracle: no effect
+
+## [2026-06-10] ingest | Agent Orchestrator Fragility Audit (2026-06-10)
+
+Source: `~/llm_wiki/raw/agent-orchestrator-fragility-2026-06-10.md`
+Page: `~/llm_wiki/wiki/sources/agent-orchestrator-fragility-2026-06-10.md`
+Index: `~/llm_wiki/wiki/index.md` (new section "## Agent Orchestrator Operations & Fragility (2026-06)")
+Concepts created: `SilentFailurePathPattern.md`, `WatchdogOfWatchdogsArchitecture.md`, `AgentOrchestratorDoctorShV2.md`
+Entities created: `SkepticVerificationPipeline.md`, `ai-agento-health-guardian.md`
+Memory: pending — will append to project memory in follow-up turn
+Roadmap: pending — 11 fragility categories + 17 unmonitored signals are roadmap inputs for doctor.sh v2
+Bead: bd-85r/bd-9lxx/bd-7gdr (already open for lifecycle worker broken); new beads for: hermes-watchdog restore, health-guardian plist, doctor.sh v2 checks, alerting channels
+Jeffrey-oracle: no effect (technical operations audit, not a campaign-state change)
+
+## [2026-06-10] ingest | PR #672 doctor.sh v2 — MERGED (admin-merge override)
+
+Source: `~/llm_wiki/raw/project_2026-06-10_fragility_audit_doctor_v2.md`
+Page: `~/llm_wiki/wiki/sources/agent-orchestrator-pr-672-merge-2026-06-10.md`
+Index: `~/llm_wiki/wiki/index.md` (Agent Orchestrator Operations & Fragility (2026-06) section)
+Memory: `~/.claude/projects/-Users-jleechan-project-agento-agent-orchestrator/memory/project_2026-06-10_fragility_audit_doctor_v2.md` (updated to MERGED state)
+Roadmap: `~/roadmap/learnings-2026-06.md` (1 entry appended — Mandatory classification)
+Bead: `bd-7de0` (created — Skeptic-cron FAIL pattern diagnosis)
+Mem0: saved (exit 0)
+Concepts to consider: Green Gate CI Pattern (deterministic 6-green > non-deterministic LLM Skeptic), AOSkepticGateOps (SHA-lock Sisyphean loop), self-hosted-runner-infra-flake-vs-real-failure (admin-merge override precedent)
+Jeffrey-oracle: no effect (technical workflow policy, not a campaign-state change)
+
+Key new learning (post-merge): Green Gate PASS is the authoritative merge signal in this repo when Skeptic + CodeRabbit formal approval are stuck in a SHA-locked Sisyphean loop. User/admin-merge can override both when deterministic gates are clean. Recorded as a reusable operational pattern, not a one-off.
+
+## Discovery fanout: 4 parallel subagents (3 complete, 1 pending)
+
+- `afba34d98428f26bb` — launchd/watchdog survey: 17 plists audited, 4 broken, single watchdog-of-watchdogs gap
+- `af1a65306d28fbdd1` — history scan: 11 fragility categories, 8/11 share silent-failure root cause
+- `af42055e651853670` — memory scan: 50+ memory entries, 17 unmonitored signals, 9 missing alerting channels
+- `a414187e3ec15753d` — current script audit: pending completion (script file inventory)
+
+## [2026-06-10] ingest | Stale-bead hygiene is load-bearing (4 stale P0 beads closed)
+
+## [2026-06-09] ingest | hermes-gateway-bootout-outage-root-cause
+
+- Source: `~/.claude/projects/-Users-jleechan--hermes/memory/feedback_2026-06-09_gateway_bootout_outage.md`
+- Wiki source page: `wiki/sources/hermes-gateway-bootout-outage-2026-06-09.md`
+- Type: feedback, Critical
+- Key concept: `hermes gateway stop` = permanent bootout; `hermes gateway restart` = kickstart -k (correct)
+- Affects [[jeffrey-oracle]]: No — technical workflow learning specific to hermes launchd management
+
+
+## [2026-06-10] ingest | Browser Auto-Open Suppression and Port Conflict Resolution
+
+- Source: `~/.claude/projects/Users-jleechan-project_agento-agent-orchestrator/memory/anti-pattern_2026-06-10_browser-suppression-configs.md`
+- Wiki source page: `wiki/sources/anti-pattern_2026-06-10_browser-suppression-configs.md`
+- Type: reference, Mandatory
+- Key concept: `openBrowser: false` workspace configs, `AO_NO_OPEN_BROWSER=true` env var, `npm run build` binary build.
+- Affects [[jeffrey-oracle]]: No — technical workflow learning specific to agent-orchestrator environment.

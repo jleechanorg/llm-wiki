@@ -27,3 +27,4 @@ real_fails=$(gh api "repos/X/Y/commits/$head/check-runs" --paginate | \
 
 ## Source
 - ~/.claude/projects/-Users-jleechan-projects-worktree-location-centralize/memory/feedback_2026-05-24_distinguish_runner_infra_flake_from_real_failure.md
+- [[feedback-2026-06-09-runner-supervisor-and-ops]] — GH-side `busy=true` corruption on all org-runners (post-cancellation storm) is local-unrecoverable; wait ~1h for GH session-timeout or admin DELETE via `gh api -X DELETE /repos/{owner}/{repo}/actions/runners/{id}`. See also [[SelfHostedRunnerNaming]] for the stable-install path requirement.

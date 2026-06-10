@@ -68,3 +68,54 @@ _extract_bashrc_var() {
 Every plist in `~/Library/LaunchAgents/` must have a corresponding `.plist.template` in `~/.hermes/launchd/` and be listed in `setup-launchd.sh` CORE_PLISTS or SCHEDULE_PLISTS. Orphans can't be re-installed by automation.
 
 See: [[plist-template-drift-2026-05-19]] (bead orch-oxdm, PR #584)
+
+## RC sourcing isolation (2026-06-09)
+
+When a launchd-supervised bash script needs login/interactive env (DOCKER_HOST,
+NVM, PATH, GOPATH, etc.) it must `source ~/.bash_profile ~/.zprofile ~/.bashrc ~/.zshrc`.
+**Two shell options must be relaxed around the sourcing block** — they are independent
+failure modes:
+
+1. **`set +u` around the rc block** — `cmux-bash-integration.bash` and similar dotfiles
+   touch `$PROMPT_COMMAND` (a var the launchd shell doesn't have). A `set -u` parent
+   aborts on first access. Restore `set -u` after the block.
+2. **`set +e` around the rc block, do NOT restore** — many user dotfiles run
+   `set -o errexit`. A `set -e` parent re-enables errexit for the rest of the
+   script, which is exactly what a self-healing supervisor design wants to avoid.
+   The script's design intent IS that heal-cycle failures are logged, not fatal —
+   leave errexit off for the rest of the supervisor.
+
+```bash
+set +u
+set +e
+for _rc in "$HOME/.bash_profile" "$HOME/.zprofile" "$HOME/.bashrc" "$HOME/.zshrc"; do
+  if [ -r "$_rc" ]; then
+    # shellcheck disable=SC1090
+    . "$_rc" >/dev/null 2>&1 || true
+  fi
+done
+set -u
+unset _rc
+```
+
+See: [[feedback-2026-06-09-runner-supervisor-and-ops]] (PR #7271, bead rev-5ysuv)
+
+## bootout vs kickstart-k (2026-06-09 hermes outage)
+
+`launchctl bootout` **permanently removes the service from the bootstrap domain**.
+`KeepAlive` cannot restart a service that is no longer registered.
+
+`launchctl kickstart -k` kills and restarts the process while keeping it registered —
+KeepAlive remains active.
+
+`hermes gateway stop` calls `bootout`. **Never call it without a follow-up `hermes gateway start`.**
+`hermes gateway restart` internally calls `kickstart -k` — this is the correct command for
+normal restarts (no plist change).
+
+Recovery after bootout:
+```bash
+launchctl bootstrap "gui/$(id -u)" ~/Library/LaunchAgents/ai.hermes.prod.plist
+launchctl kickstart "gui/$(id -u)/ai.hermes.prod"
+```
+
+See: [[hermes-gateway-bootout-outage-root-cause]] (bead jleechan-26bt, PR #473)

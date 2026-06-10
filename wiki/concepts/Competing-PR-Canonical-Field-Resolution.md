@@ -38,3 +38,24 @@ not a raw `gh pr diff | grep` (see [[CodeReviewMethodology]] §Grep-on-PR-diff).
 Incident: PR #7330 (tool-attach only, gate never fires) subsumed by PR #7280
 (attaches tool + sets `code_execution_used` + new audit module).
 Source: [[sources/2026-06-07-competing-pr-subsumption-close-subset]] · bead rev-15x97.
+
+## Superset-merge + deflate — byte-identical duplicate streams (2026-06-09)
+
+Third variant: when the overlap is **byte-identical** (same agent's edits
+recovered into one PR while the agent opened its own PR of the same content),
+neither close-the-subset nor THEIRS-resolution is needed:
+
+1. Prove subset vs divergence first: `git diff brA brB --stat` between the two
+   heads — decide from bytes, not PR descriptions.
+2. Merge the green superset (`gh pr merge --squash --admin`).
+3. In the duplicate's branch, `git merge origin/main --no-edit` — identical
+   hunks become no-ops, the merge is conflict-free, and the PR diff deflates
+   automatically to its unique contribution (verify via `gh pr view N --json files`).
+4. Fix the unique remnant per review, then merge the deflated PR normally.
+
+This keeps the worker's authorship, needs no force-push approval, and skips
+rebase conflict churn. **Divergent** (non-identical) overlap is instead the
+stacked-PR single-writer stop-the-line case.
+Incident: dark-factory PR #40 (`bf694ad`, superset) / PR #41 (`fee8f01`,
+deflated to `minimal_research.dot` lane).
+Source: [[sources/duplicate-pr-superset-merge-2026-06-09]] · bead jleechan-clh.
