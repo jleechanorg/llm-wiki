@@ -1,3 +1,83 @@
+## [2026-06-11] ingest | Stale background daemon processes bypass codebase/configuration updates
+
+Deploying codebase fixes (like browser auto-open suppression) and updating config files (setting ) will be completely bypassed if background daemons (such as the 16 legacy  processes) are still running outdated binaries from prior sessions. Identifying and terminating stale daemon processes via Agent Orchestrator Doctor
+
+PASS node resolves to /Users/jleechan/.nvm/versions/node/v22.22.0/bin/node
+PASS Node.js version v22.22.0 is supported
+PASS git resolves to /usr/bin/git
+PASS git version 2.39.5 supports worktrees
+PASS pnpm resolves to /Users/jleechan/.nvm/versions/node/v22.22.0/bin/pnpm
+PASS pnpm version 9.15.9 is available
+PASS ao launcher resolves to /Users/jleechan/bin/ao
+PASS tmux is installed and the server can start
+PASS gh is installed and authenticated
+PASS config found at /Users/jleechan/.hermes/agent-orchestrator.yaml
+PASS metadata directory exists at /Users/jleechan/.agent-orchestrator
+PASS worktree directory exists at /Users/jleechan/.worktrees/agent-orchestrator-main
+PASS managed staging/prod config topology is split correctly
+PASS no stale temp files were detected under /var/folders/j0/byd1z6px50v88lf679bgt0h00000gn/T//agent-orchestrator
+PASS dependencies are installed at /Users/jleechan/project_agento/agent-orchestrator/packages/cli/node_modules
+PASS core package is built
+PASS CLI package is built
+PASS launcher runtime sanity check passed (ao --version)
+PASS running ao version (0.1.3) matches published npm version
+WARN non-canonical lifecycle-worker binary detected: PID=99940 binary contains: unknown
+WARN non-canonical lifecycle-worker binary detected: PID=15926 binary contains: unknown
+WARN non-canonical lifecycle-worker binary detected: PID=14880 binary contains: unknown
+WARN non-canonical lifecycle-worker binary detected: PID=13468 binary contains: unknown
+WARN non-canonical lifecycle-worker binary detected: PID=11686 binary contains: unknown
+WARN non-canonical lifecycle-worker binary detected: PID=10792 binary contains: unknown
+WARN non-canonical lifecycle-worker binary detected: PID=9586 binary contains: unknown
+WARN non-canonical lifecycle-worker binary detected: PID=8197 binary contains: unknown
+WARN non-canonical lifecycle-worker binary detected: PID=7228 binary contains: unknown
+WARN non-canonical lifecycle-worker binary detected: PID=5875 binary contains: unknown
+WARN non-canonical lifecycle-worker binary detected: PID=5064 binary contains: unknown
+WARN non-canonical lifecycle-worker binary detected: PID=3817 binary contains: unknown
+WARN non-canonical lifecycle-worker binary detected: PID=2723 binary contains: unknown
+WARN non-canonical lifecycle-worker binary detected: PID=1836 binary contains: unknown
+WARN non-canonical lifecycle-worker binary detected: PID=1250 binary contains: unknown
+WARN non-canonical lifecycle-worker binary detected: PID=493 binary contains: unknown
+FIXED killed non-canonical lifecycle-worker PID=99940
+FIXED killed non-canonical lifecycle-worker PID=15926
+FIXED killed non-canonical lifecycle-worker PID=14880
+FIXED killed non-canonical lifecycle-worker PID=13468
+FIXED killed non-canonical lifecycle-worker PID=11686
+FIXED killed non-canonical lifecycle-worker PID=10792
+FIXED killed non-canonical lifecycle-worker PID=9586
+FIXED killed non-canonical lifecycle-worker PID=8197
+FIXED killed non-canonical lifecycle-worker PID=7228
+FIXED killed non-canonical lifecycle-worker PID=5875
+FIXED killed non-canonical lifecycle-worker PID=5064
+FIXED killed non-canonical lifecycle-worker PID=3817
+FIXED killed non-canonical lifecycle-worker PID=2723
+FIXED killed non-canonical lifecycle-worker PID=1836
+FIXED killed non-canonical lifecycle-worker PID=1250
+FIXED killed non-canonical lifecycle-worker PID=493
+PASS total lifecycle-worker count is 16 (within normal range ≤20)
+PASS lifecycle-worker for project 'agent-orchestrator' is running normally (count=1)
+PASS lifecycle-worker for project 'agf-api' is running normally (count=1)
+PASS lifecycle-worker for project 'agf-lambda' is running normally (count=1)
+WARN no lifecycle-worker process found for project 'claude-commands'
+WARN no lifecycle-worker process found for project 'cmux'
+WARN no lifecycle-worker process found for project 'dark-factory'
+WARN no lifecycle-worker process found for project 'heretic-lab'
+WARN no lifecycle-worker process found for project 'jleechanclaw'
+WARN no lifecycle-worker process found for project 'mcp-mail'
+WARN no lifecycle-worker process found for project 'mctrl-test'
+WARN no lifecycle-worker process found for project 'merge_train'
+WARN no lifecycle-worker process found for project 'openclaw-sso'
+WARN no lifecycle-worker process found for project 'ralph'
+WARN no lifecycle-worker process found for project 'smartclaw'
+WARN no lifecycle-worker process found for project 'worldai-claw'
+WARN no lifecycle-worker process found for project 'worldarchitect'
+
+Results: 23 PASS, 29 WARN, 0 FAIL, 16 FIXED
+Environment looks healthy enough to run Agent Orchestrator. (with explicit human authorization ) and canonically restarting them is required to ensure behavioral changes are active. Source: sources/feedback_2026-06-11_stale-workers-binary-suppression.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-11] ingest | Stale background daemon processes bypass codebase/configuration updates
+
+Deploying codebase fixes (like browser auto-open suppression) and updating config files (setting `openBrowser: false`) will be completely bypassed if background daemons (such as the 16 legacy `lifecycle-worker` processes) are still running outdated binaries from prior sessions. Identifying and terminating stale daemon processes via `ao doctor --fix` (with explicit human authorization `PROCESS KILL APPROVED`) and canonically restarting them is required to ensure behavioral changes are active. Source: sources/feedback_2026-06-11_stale-workers-binary-suppression.md. [[jeffrey-oracle]]: NO.
+
 ## [2026-06-09] ingest | [antig] Hook logging and fallback fixes in merge_train
 
 Optional registry and self-invocation fixes in `merge_train` hook scripts (`pre-commit.sh`, `predict-spawn-check.sh`, `gemini-conflict-warn.sh`). Prevented silent hook exits when `file_domains.yaml` is absent, and resolved a recursive self-invocation loop when installed locally. Added diagnostic stderr logs in `conflict_check_helper.py` to ensure runtime hook execution is transparent to the operator. Source: sources/feedback_2026-06-09_active_symbol_hooks_logging.md. [[jeffrey-oracle]]: NO.
