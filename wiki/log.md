@@ -4531,3 +4531,4 @@ Key new learning (post-merge): Green Gate PASS is the authoritative merge signal
 - Key concept: `openBrowser: false` workspace configs, `AO_NO_OPEN_BROWSER=true` env var, `npm run build` binary build.
 - Affects [[jeffrey-oracle]]: No — technical workflow learning specific to agent-orchestrator environment.
 ## [2026-06-10] ingest | launchd template orphan prevention (feedback)
+## [2026-06-10] ingest | Slack wrong-thread root cause (hermes watchdog + ao-progress-reporter)
