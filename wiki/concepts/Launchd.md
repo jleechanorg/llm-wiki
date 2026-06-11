@@ -119,3 +119,21 @@ launchctl kickstart "gui/$(id -u)/ai.hermes.prod"
 ```
 
 See: [[hermes-gateway-bootout-outage-root-cause]] (bead jleechan-26bt, PR #473)
+
+## template-commit-prevents-orphan (2026-06-10 dual-gateway incident)
+
+`install-launchagents.sh` gates orphan-plist cleanup on the repo template existing:
+```bash
+[[ -f "$REPO_DIR/launchd/$label.plist" ]] || continue  # silently skips cleanup
+```
+
+When `launchd/ai.hermes.prod.plist` was never committed, cleanup skipped removing
+`ai.hermes.gateway.plist` (orphan) on every deploy — two gateways ran for months.
+
+**Rule**: commit the `@HOME@`-placeholder template to the owning repo **before** `launchctl bootstrap`.
+`/launchd` skill Step 4 is mandatory.
+
+`deploy.sh` Stage 1b adds belt-and-suspenders: unconditionally removes `ai.hermes.gateway`
+and `com.hermes.gateway` regardless of installer state.
+
+See: [[launchd-template-orphan-prevention]] (bead jleechan-xty2, commit `ae17c1bb28`)
