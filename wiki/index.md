@@ -6637,3 +6637,4 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [ao-codex-worker-blockers-2026-06-05](sources/ao-codex-worker-blockers-2026-06-05.md) — codex --full-auto removed; running.json required by ao spawn; openBrowser:false config added
 
 - [Stale-bead hygiene is load-bearing (2026-06-10)](sources/feedback_2026-06-10_stale_bead_hygiene_load_bearing.md) — 4 P0 beads (`bd-hbif`/`bd-9339`/`bd-0ocg`/`bd-rgk0`) sat open 1-2.5 months after PR #260/#661 merged; closed 2026-06-10; PR-merge does NOT auto-close linked beads; audit `br list --status open --priority 0` for "Fixed in PR #N" in description before any priority-sort
+- [slack-wrong-thread-root-cause](sources/slack-wrong-thread-root-cause.md) — 4 Hermes/AO paths that post without thread_ts; watchdog floods #all-jleechan-ai; 2026-06-10
