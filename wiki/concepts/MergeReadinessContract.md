@@ -1,13 +1,22 @@
 ---
 title: "Merge Readiness Contract"
 type: concept
-tags: [merge-readiness, merge-gate, ci-green, no-conflicts, no-serious-comments, evidence-reviewed, openclaw-approved]
-last_updated: 2026-03-15
+tags: [merge-readiness, merge-gate, ci-green, no-conflicts, no-serious-comments, evidence-reviewed, openclaw-approved, pr-readiness-6-gate, live-head, multi-writer-pr]
+last_updated: 2026-06-12
+sources: [jleechanclaw-orchestration-system-design, feedback-2026-06-12-pr-readiness-minimum-gates]
 sources: [jleechanclaw-orchestration-system-design]
 ---
 
 ## Summary
 A PR is considered merge-ready only when all five gates are true simultaneously: CI green, no conflicts, no serious review comments, evidence reviewed, and OpenClaw approved. The developer only needs to hit the merge button — the system tells them when.
+
+**User-superseded 6-gate manual contract (2026-06-12, PR #7467 review):** For manual merges on multi-writer PRs, the user's "Minimum before merge" list is the canonical gate superset (see `feedback-2026-06-12-pr-readiness-minimum-gates.md`, bead `rev-1ver0`). The 6 gates:
+1. **Live head SHA matches PR body evidence.** `git fetch origin && git rev-parse origin/<branch>` must equal the SHA cited in the PR description.
+2. **CI green at current head.** No "queued/running" lingering. `gh pr checks` or statusCheckRollup all SUCCESS.
+3. **All review threads resolved.** `gh pr view <N> --json comments` — every thread body shows "✅ Addressed" or explicit dismissal. Stale CR "X open" summaries are unreliable.
+4. **CodeRabbit enabled + reviewDecision APPROVED.** Not skipped, not paused. `reviewDecision ∈ {"", "APPROVED", "CHANGES_REQUESTED", "REVIEW_REQUIRED"}`; only `APPROVED` is mergeable.
+5. **Real-LLM test re-run at live head passes.** If the test was run at an older local head, re-run at the live head. A passing result on an older SHA is not proof for the current PR.
+6. **Skeptic verdict matches live head.** Skeptic gate's "VERDICT: PASS" must cite the live head SHA, not an earlier SHA.
 
 ## The Five Gates
 

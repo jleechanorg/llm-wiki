@@ -4634,3 +4634,15 @@ Key new learning (post-merge): Green Gate PASS is the authoritative merge signal
 - type: feedback (Best Practice)
 - related bead: rev-drhbu (closed)
 - durable skill: /Users/jleechan/.claude/skills/bead-followup-templates/SKILL.md
+
+## [2026-06-12] ingest | PR 7467 review — generic prompt fixes + live PR head + readiness gates
+
+- source: feedback_2026-06-12_pr_7467_prompt_and_readiness.md (composite of 3 memories)
+- wiki source page: wiki/sources/feedback-2026-06-12-pr-7467-prompt-and-readiness.md
+- raw sources: ~/llm_wiki/raw/feedback-2026-06-12-{generic-prompt-fixes,live-pr-head-staleness,pr-readiness-minimum-gates}.md
+- type: feedback (Critical)
+- related beads: rev-4nu0j (rework 7610402 prompt fix), rev-1ver0 (PR 7467 readiness audit)
+- memory files: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-12_{generic_prompt_fixes,live_pr_head_staleness,pr_readiness_minimum_gates}.md
+- roadmap log: ~/roadmap/learnings-2026-06.md (entry 2026-06-12 — PR #7467 review)
+- concept pages updated: [[Prompt Engineering]] (generic-rule discipline), [[Merge Readiness Contract]] (5-gate → 6-gate superset)
+- jeffrey-oracle impact: none (technical workflow learning)
