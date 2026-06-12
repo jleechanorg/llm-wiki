@@ -24,3 +24,7 @@ Agent Skills externalize governance — tool permissions and constraints are not
 - [[MongoDB]]
 - [[GovernanceLayer]]
 - [[PerTenantIsolation]]
+
+## Local Skill Pattern: Bead Follow-up Templates
+
+`/Users/jleechan/.claude/skills/bead-followup-templates/SKILL.md` standardizes how agents create executable PR/code-review follow-up beads. Codex exposes it through `/Users/jleechan/.codex/skills/bead-followup-templates`. The skill requires live-code signatures, source SHA, file/line evidence, acceptance criteria, and staleness notes.

@@ -4627,3 +4627,10 @@ Key new learning (post-merge): Green Gate PASS is the authoritative merge signal
 - hook: ~/.claude/hooks/block-noop-commit.sh (PreToolUse:Bash, 5s timeout)
 - 8 SHAs catalogued: e5011d1dad17, ecec1e304604, 09dacaecce3e, 017a4050c739, 1da851be931d, c179cc9c41be, c9f8a4e31d34, 91451ab85865
 - offender PID 50983 killed (SIGKILL); .ci-retrigger flipped trigger→idle
+
+## [2026-06-12] ingest | Standard bead follow-up templates for executable review handoff
+- source: feedback_2026-06-12_bead_followup_templates.md
+- wiki source page: wiki/sources/bead-followup-templates-2026-06-12.md
+- type: feedback (Best Practice)
+- related bead: rev-drhbu (closed)
+- durable skill: /Users/jleechan/.claude/skills/bead-followup-templates/SKILL.md
