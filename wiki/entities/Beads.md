@@ -3,7 +3,7 @@ title: "Beads"
 type: entity
 tags: [issue-tracking, evaluation-feedback, game-state]
 sources: [manual-beads-creation-guide]
-last_updated: 2026-04-07
+last_updated: 2026-06-12
 ---
 
 ## Overview
@@ -20,3 +20,7 @@ Beads is an issue tracking system used for managing evaluation feedback and game
 - [[GameStateManagement]] — overall game state handling
 - [[PromptEngineering]] — reducing hallucinations via prompts
 - [[CampaignCoherence]] — maintaining narrative consistency
+
+## Operational Pattern: Executable Follow-up Beads
+
+As of 2026-06-12, PR/code-review follow-up beads should include exact source context, current SHA, file/line evidence, actual API/function signatures copied from live code, call-site examples, standards constraints, verification commands, and a staleness note. The reusable skill is `/Users/jleechan/.claude/skills/bead-followup-templates/SKILL.md`.
