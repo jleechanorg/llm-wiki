@@ -1,8 +1,8 @@
 ---
 title: "Prompt Engineering"
 type: concept
-tags: [prompting, few-shot, chain-of-thought, system-prompts]
-sources: [external-ai-knowledge-sources]
+tags: [prompting, few-shot, chain-of-thought, system-prompts, generic-rule-vs-enumeration, zfc]
+sources: [external-ai-knowledge-sources, feedback-2026-06-12-generic-prompt-fixes]
 last_updated: 2026-04-14
 ---
 
