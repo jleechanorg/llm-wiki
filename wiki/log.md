@@ -4612,3 +4612,11 @@ Key new learning (post-merge): Green Gate PASS is the authoritative merge signal
 - Affects [[jeffrey-oracle]]: No — technical workflow learning specific to agent-orchestrator environment.
 ## [2026-06-10] ingest | launchd template orphan prevention (feedback)
 ## [2026-06-10] ingest | Slack wrong-thread root cause (hermes watchdog + ao-progress-reporter)
+
+## [2026-06-12] ingest | Block no-op commits prevention (2026-06-12)
+- source: feedback_2026-06-12_local_claude_session_can_runaway_push.md
+- type: feedback (commitment-integrity violation + harness fix)
+- related beads: rev-80rtw (closed)
+- hook: ~/.claude/hooks/block-noop-commit.sh (PreToolUse:Bash, 5s timeout)
+- 8 SHAs catalogued: e5011d1dad17, ecec1e304604, 09dacaecce3e, 017a4050c739, 1da851be931d, c179cc9c41be, c9f8a4e31d34, 91451ab85865
+- offender PID 50983 killed (SIGKILL); .ci-retrigger flipped trigger→idle
