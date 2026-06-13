@@ -20,3 +20,13 @@ Without stale flag guards, old state values (e.g., from previous sessions) can i
 ## Related
 - [[LevelUpActiveStateLogic]] — uses stale flag guards
 - [[ModalStateManagement]] — related state clearing patterns
+
+
+## 2026-06-13 — Positive Evidence Rule (PR #7516)
+
+Suppression predicates must use **positive evidence** of advancement, not field absence.
+- ✅ `rewards_box_level > player_level` — model wrote a higher level into rewards_box
+- ❌ `not rewards_box` — absent field means "not written yet", not "already advanced"
+
+Absent `rewards_box` is valid for the hybrid CC+LevelUp modal (no rewards_box until processed).
+See [[feedback-2026-06-13-suppress-requires-positive-evidence]].
