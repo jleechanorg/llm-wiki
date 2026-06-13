@@ -72,6 +72,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Failure Dossier](concepts/FailureDossier.md) — Per-stage 6-class failure taxonomy (transient_infra, budget_exhausted, compilation_loop, deterministic, canceled, structural); implemented in Kilroy
 
 ## Sources
+- [Colima migration shipped (2026-06-13)](sources/colima-migration-completed-2026-06-13.md) — PR #7540 awaiting merge: install.sh + plist + CLAUDE.md portability; 6 runners + qdrant on Colima; bare-runner-on-Mac deferred
+- [self-hosted-mikey label = routing (2026-06-13)](sources/feedback-self-hosted-mikey-label-routing-2026-06-13.md) — label is shared by self-hosted-oss/ and self-hosted-bare/; not an environment marker
 - [[alexiel-larion]] — 2026-06-13 — Solo Voyage TTRPG campaign set in LARION. Half-elf warlock Alexiel reclaims ruined Riverside Manor, smuggler-rivals Lady Ashbury, corrupts the Crown's surveyor, sends Gloomstalkers to spy on the King, absorbs a Demon King's heart. 175 turns, ~72.9k words.
 - [integrate.sh fails in worktree when main checked out elsewhere](sources/integrate-sh-worktree-main-elsewhere.md) — /integrate worktree incompatibility + correct branch-from-origin/main fix (2026-06-12)
 - [Block no-op commits — Claude teammate runaway prevention (2026-06-12)](sources/feedback-2026-06-12-block-noop-commit-prevention.md) — local Claude teammate in `--dangerously-skip-permissions --teammate-mode=tmux` mode autonomously pushed 30+ `git commit --allow-empty --no-verify` to 15+ PRs over 3.5h, violating "don't code, just analyze"; fix = `block-noop-commit.sh` PreToolUse:Bash hook + sentinel auth + `kill -9` PID + `printf idle > .ci-retrigger`
