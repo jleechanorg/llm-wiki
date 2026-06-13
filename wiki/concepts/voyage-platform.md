@@ -1,27 +1,17 @@
 ---
 title: "Voyage Platform"
 type: concept
-tags: [voyage, product, world-engine, multi-agent]
+tags: [concept, voyage-ported, ai-ttrpg, runtime]
 date: 2026-06-13
 ---
 
 ## Summary
-The next-gen TTRPG / AI-dungeon successor platform from the AI Dungeon / Latitude team. Replaces the turn-based AI Dungeon model with simultaneous multi-player input, a multi-agent "World Engine" generating NPC backstories / world lore / inventory state in the background, and a contract-based rank progression system.
+The AI-orchestrated TTRPG platform that ran the Alexiel — Larion campaign. Supports real-time multi-action input, GM narration, dice rolls, character sheets, and a UI with widget markers (w_chevron_right, w_user, etc.) that the platform injects into the export. The Alexiel campaign was a single-player solo arc; the platform supports multiplayer too.
 
-## Distinguishing Features
-- **Multiplayer simultaneous input** — all players type in the same turn; the engine weaves their inputs into a single action.
-- **Talk-to-DM** — players can ask the narrator out-of-character questions without breaking the action.
-- **Persistent inventory + rank progression** — copper → bronze → silver → gold → platinum, gated by contract completion.
-- **NPC autonomy** — NPCs have backstories, motivations, and can refuse player requests. Hestia the registrar actively blocks players; Ulla Finehair interjects to keep them in line.
-- **Creator tools** — players can build their own worlds (maps, characters, lore) and share with friends or the community.
-
-## Roadmap (from the livestream Q&A)
-- Custom map art for creators (image upload) — "un-beut future"
-- Daily quests — single shared quest everyone plays the same day
-- Achievements / badges — esp. for hitting the platinum board
+## Notable Instances
+- Alexiel — Larion (this campaign) is a 175-turn solo arc with 72,875 words of player input and GM narration
+- The platform's UI artifacts (w_chevron_right, w_user, w_open_book, w_gear, w_globe, w_comment, w_mute) appear throughout the export and should be stripped before wiki ingest
 
 ## Connections
-- [[voyage-first-dev-playthrough-campaign]] — first public demonstration
-- [[AIDungeon]] — predecessor; AI Dungeon subscriptions work with Voyage
-- [[WorldEngine]] — the multi-agent architecture
-- [[Larion]] — the default demo world
+- [[alexiel-larion]] — single-player campaign example
+- [[PortedCampaign]] — workflow for getting Voyage exports into the wiki
