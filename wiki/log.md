@@ -1,3 +1,9 @@
+## [2026-06-13] ingest | Don't second-guess working bashrc wrappers on a TUI error
+
+I changed `claudem` in `~/.bashrc` from `MiniMax-M3` → `MiniMax-M2.5` (then M2.7) on the strength of a TUI "model may not exist" error. The error was the **Claude Max session-limit** (resets ~3:40pm), NOT model validation. M3 is real (verified at `https://api.minimax.io/v1/models`). Same error fired for `claudew` with `GLM-5.1` (different backend) — proving rejection is not name-specific.
+
+**Fixes applied:** `claudem` restored byte-identical from `/tmp/bashrc.bak.1781389720`; `claudew` function deleted per user request; `~/.claude/CLAUDE.md` got a "Bashrc wrappers are user-owned config" rule; `~/.claude/skills/_archive/minimax-cli-fix.md` got a ⚠️ STALE banner. **Forward path:** use the AO `agent-minimax` plugin via `ao spawn --agent minimax "<task>"`.
+
 ## [2026-06-11] ingest | Stale background daemon processes bypass codebase/configuration updates
 
 Deploying codebase fixes (like browser auto-open suppression) and updating config files (setting ) will be completely bypassed if background daemons (such as the 16 legacy  processes) are still running outdated binaries from prior sessions. Identifying and terminating stale daemon processes via Agent Orchestrator Doctor
@@ -4665,3 +4671,5 @@ PR #7540 awaiting merge; bare-runner-on-Mac verdict=defer.
 ## [2026-06-13] ingest | self-hosted-mikey-label-routing
 
 Disambiguation: label = routing tag, not execution env.
+
+## [2026-06-13] venv sharing | PR #7522 merged
