@@ -4649,3 +4649,10 @@ Key new learning (post-merge): Green Gate PASS is the authoritative merge signal
 
 ## [2026-06-12] ingest | integrate.sh fails in worktree when main is checked out elsewhere
 - source: sources/integrate-sh-worktree-main-elsewhere.md (bead rev-d6qgj); updated concept GitWorkflow.md
+
+## [2026-06-13] ingest | Voyage — First Dev Playthrough Livestream (Larion)
+- Source: `~/voyage-campaign-summary.md` (~13.7k words formatted from 12.5k-word transcript)
+- Type: source (tagged `ported-campaign`)
+- Entities created: Hestia (Registrar), Ulla Finehair, Kragroff, First Dev Playthrough Party
+- Concepts created: Voyage Platform, Vermin Commander, Ported Campaign
+- Notes: Inaugural `ported-campaign` ingest. All original text preserved.
