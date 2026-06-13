@@ -4657,3 +4657,11 @@ Key new learning (post-merge): Green Gate PASS is the authoritative merge signal
 - Entities created: alexiel, barnaby, daran, lady-ashbury, hobb-the-miller, first-ashbury-party
 - Concepts created: voyage-platform, gloomstalker, lifestone, silverflow
 - Notes: 175-turn single-player TTRPG campaign log from the Voyage platform, 72,875 words source → 77,606 words formatted output (header/footer added; all original prose preserved)
+
+## [2026-06-13] ingest | colima-migration-completed
+
+PR #7540 awaiting merge; bare-runner-on-Mac verdict=defer.
+
+## [2026-06-13] ingest | self-hosted-mikey-label-routing
+
+Disambiguation: label = routing tag, not execution env.
