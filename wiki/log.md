@@ -4646,3 +4646,6 @@ Key new learning (post-merge): Green Gate PASS is the authoritative merge signal
 - roadmap log: ~/roadmap/learnings-2026-06.md (entry 2026-06-12 — PR #7467 review)
 - concept pages updated: [[Prompt Engineering]] (generic-rule discipline), [[Merge Readiness Contract]] (5-gate → 6-gate superset)
 - jeffrey-oracle impact: none (technical workflow learning)
+
+## [2026-06-12] ingest | integrate.sh fails in worktree when main is checked out elsewhere
+- source: sources/integrate-sh-worktree-main-elsewhere.md (bead rev-d6qgj); updated concept GitWorkflow.md
