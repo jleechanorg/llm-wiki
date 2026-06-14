@@ -5707,3 +5707,14 @@ Runner pool grew 6→15 (launchd supervisor re-spun 5 offline `bare-org-runner-N
 - key fix: wiki path includes `campaign_id[:8]` suffix to prevent slug collisions when 11 copies of "Vespera Thul (copy)" share the same slug
 - resolver entry added with 15 trigger phrases (download campaign, pull from firestore, last 2 weeks, etc.)
 ## [2026-06-13] ingest | Repo runner label variable can silently break CI dispatch (PR #7548) — feedback type; memory: ~/.claude/projects/.../memory/feedback_2026-06-13_repo_runner_label_variable_silent_drift.md; source: sources/feedback-2026-06-13-repo-runner-label-variable-silent-drift.md; bead: rev-z3881
+## [2026-06-14] ingest | AO duplicate project ID config bug blocks live ao spawn — feedback type; memory: ~/.claude/projects/-Users-jleechan-project-agento-agent-orchestrator/memory/feedback_2026-06-14_ao_duplicate_project_id_config_bug.md; source: sources/feedback-2026-06-14-ao-duplicate-project-id-config-bug.md; bead: bd-r0fb (closed, tracking-only)
+## [2026-06-14] ingest | /er verdict PARTIAL = PR body overclaim, not evidence gap — feedback type; memory: ~/.claude/projects/-Users-jleechan-project-agento-agent-orchestrator/memory/feedback_2026-06-14_er_verdict_sub100loc_unit_acceptance.md; source: sources/feedback-2026-06-14-er-verdict-sub100loc-unit-acceptance.md
+
+## [2026-06-14] ingest | Three-tier disk cleanup playbook
+- 15.5GB reclaimed across three cleanup classes the auto-clean paths missed
+- New cleanup_supervisor_logs.sh automated (Tier A: 1.7GB launchd log rot, 7d retention)
+- Tiers B and C (wa-* AO sessions + /tmp scratch worktrees) require explicit user approval per 14d mtime safety rule
+- Includes the 2.7GB wa-2327/.colima bootstrap artifact the PR #686 prevention pattern now makes safe to clean
+- Repo: jleechanorg/disk_magician, commit 5b3e3a6 on dev1781402943
+
+## [2026-06-13] ingest | BQ truly raw logging still vulnerable to 1 MB streaming-insert row limit

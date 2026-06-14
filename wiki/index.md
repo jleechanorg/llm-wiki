@@ -29,6 +29,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 
+- [AO Config Duplicate Basename Collision](concepts/AOConfigDuplicateBasenameCollision.md) — `~/agent-orchestrator.yaml` symlink + `~/.hermes/agent-orchestrator.yaml` triggers `findRepoLocalConfigOverlay` merge collision; live `ao spawn` fails with "Duplicate project ID detected"; workaround = direct plugin invocation for env-var verification
 - [AO Skeptic Gate — Operational Lessons](concepts/AOSkepticGateOps.md) — killing AO workers breaks the Skeptic Gate (no verdict-poster → 20-min timeout) and regresses the agent-antigravity dist (rebuilds from checked-out branch); durable fix = merge to main; post verdicts manually via `ao skeptic verify -n <PR> -m claude --trigger-sha <sha> --request-id <id>` (`--dry-run`/`--prompt`); don't commit evidence .md — use gists
 - [GeminiCostApportionment](concepts/GeminiCostApportionment.md) — split Gemini cost real-vs-test by story-entry count (proxy $0.07/entry); worldarchitect.ai = 10.6% real / 89.4% test/CI; ratio robust, $ illustrative; test path ~9× real volume is the dominant lever
 - [FirestoreOrphanTenants](concepts/FirestoreOrphanTenants.md) — `users/{uid}` paths with subcollections but no Auth account; `list_documents()` − `auth.list_users()`; classify real-vs-synthetic by UID shape (`^[A-Za-z0-9]{28}$` = real hash); primary TTL/cleanup target
@@ -73,6 +74,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Failure Dossier](concepts/FailureDossier.md) — Per-stage 6-class failure taxonomy (transient_infra, budget_exhausted, compilation_loop, deterministic, canceled, structural); implemented in Kilroy
 
 ## Sources
+- [/er verdict PARTIAL = PR body overclaim, not evidence gap (2026-06-14)](sources/feedback-2026-06-14-er-verdict-sub100loc-unit-acceptance.md) — for sub-100-LOC production fixes, `unit` claim class is the floor; PARTIAL often fixed by rewriting body to match actual evidence, not by adding tests
+- [AO duplicate project ID config bug blocks live ao spawn (2026-06-14)](sources/feedback-2026-06-14-ao-duplicate-project-id-config-bug.md) — `~/agent-orchestrator.yaml` symlink + `~/.hermes/agent-orchestrator.yaml` triggers `findRepoLocalConfigOverlay` merge collision; workaround = direct plugin invocation for env-var verification; pre-existing, not PR #686
 - [Repo runner label variable can silently break CI dispatch (2026-06-13)](sources/feedback-2026-06-13-repo-runner-label-variable-silent-drift.md) — SELF_HOSTED_RUNNER_LABELS out-of-band drift to [self-hosted-mikey,ARM64] excluded 10 X64 Colima runners; 5-step reusable fix; PR #7548 MERGED; bead rev-z3881
 - [Hermes 60-iteration cap: commit uncommitted work directly (2026-06-13)](sources/feedback-2026-06-13-hermes-iteration-cap-commit-recovery.md) - memory file from AO/Codex worker session - do not respawn AO worker when diff is correct
 - [world_logic.py:3594-3612 server synthesis path violates CLAUDE.md (2026-06-13)](sources/project-2026-06-13-synthesis-path-scope-drift.md) - memory file from AO/Codex worker session - PR #7064 narrow-scope drift, bead rev-sls86
@@ -6153,6 +6156,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [[DiskMagicianDiscover]] — `discover` subcommand contract: scan `~/$HOME` for >5GB dirs; report each as **tracked** (in `monitored_dirs` OR matched by a glob in `monitored_globs` / `monitored_file_globs`) or **UNTRACKED**.
 - [[SubshellLocalBug]] — Bash anti-pattern: `local` inside a `printf | while read` pipeline body is illegal (subshell scope) and silently aborts the subshell. Use process substitution or `mapfile`.
 - [[MonitoredPathsAssociativeArray]] — `declare -A MONITORED_PATHS` populated from `monitored_dirs` + expanded `monitored_globs` + expanded `monitored_file_globs`. Discover and snapshot must agree on this set.
+- [[ThreeTierCleanupClassification]] — Tier A (always-safe-to-automate launchd log rot) + Tier B (wa-* AO sessions, needs WORKTREE APPROVED) + Tier C (/private/tmp scratch worktrees, lower-risk); reclaimed 15.5GB on 2026-06-14
 
 - [AutorPR](concepts/AutorPR.md) — AI-generated PRs that recreate merged PRs using SelfRefine/ET/PRM; 6-dim rubric scoring; Phase 3 held-out validation: all 3 techniques converge ~80-87
 - [Phase4FinalSynthesis](concepts/Phase4FinalSynthesis.md) — All 3 techniques converge ~80-87 (no winner); 87 ceiling is rubric artifact; PRM advantages on complex PRs; recommendation: problem decomposition over technique ranking
@@ -6882,3 +6886,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [ao-update.sh fails on untracked tsc artifacts (2026-06-13)](sources/feedback-2026-06-13-ao-update-untracked-tsc-artifacts-block.md) — scripts/ao-update.sh ensure_repo_clean fails on untracked tsc .js/.d.ts in src/; manual deploy: rebuild + pkill + start-all.sh; add patterns to .gitignore
 - [Rebase before admin-merge batch of 3 (skeptic cooldown PRs) (2026-06-13)](sources/feedback-2026-06-13-rebase-before-admin-merge-3pr-batch.md) — For 7-green PRs BEHIND main, rebase onto origin/main then admin-merge; works for 3 PRs touching same module (skeptic); #683 → #681 → #679 in 8 min
 - [Hermes mem0 tp_new crash = protobuf 4.x on py3.14 + never persisted (2026-06-12)](sources/feedback-2026-06-12-mem0-tpnew-protobuf-py314.md) — Layer 1: protobuf 4.x tp_new crash on py3.14 → upgrade to 6.33.6 + kickstart; Layer 2: mem0 never persisted (cloud placeholder key + dead Qdrant); PR #28 merged self-hosted
+
+- [Three-tier disk cleanup playbook (2026-06-14)](sources/feedback-2026-06-14-disk-cleanup-three-tier.md) — 15.5GB reclaimed across supervisor launchd logs (1.7GB, automated) + ~/.ao-sessions/wa-* (9.8GB) + /private/tmp/wt-*/wa-* (4GB); safety filters + 14d mtime rule; new cleanup_supervisor_logs.sh wired into disk_audit
+
+- [BQ truly raw logging still vulnerable to 1 MB streaming-insert row limit — 2026-06-13](sources/feedback-2026-06-13-bq-truly-raw-1mb-row-limit.md) — PR #7549 strips multimodal but pure-text request_json > 1 MB still 413s streaming-insert + fail-softs to disk silently; heavy combat state with file_data URIs can hit 1-1.2 MB; fix = pre-check in log_llm_payload, drop column with warning; bead rev-szamx
