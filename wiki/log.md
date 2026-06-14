@@ -5682,3 +5682,28 @@ Runner pool grew 6→15 (launchd supervisor re-spun 5 offline `bare-org-runner-N
 - source: sources/feedback-2026-06-12-pr7467-post-rework-codex-fail.md
 - Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-12_pr7467_post_rework_codex_fail.md
 - Real-LLM runtime PASS at head `d1873d2dc7` (post V6 prompt rework) but Codex leveling review FAILed on 2 pre-existing backend blockers: auto-selection gap (no `pending_level_up_selections` pre-population) and spell-count clamp (drops 2 of 6 Paladin prepared spells). Both independent of the V6 rework; recommended path is Option A (ship prompt + file follow-up beads).
+
+## [2026-06-13] ingest | Gemini Gem: Vespera Thul (2) Ascendant Difficulty Restart
+- source: sources/vespera-thul-2-ascendant-difficulty-gem-worldai.md
+- raw: raw/gemini-shares/vespera-thul-2-ascendant-difficulty-gem-worldai.txt
+- URL: https://gemini.google.com/share/87e14ec4d412
+- 25 user turns + 25 assistant turns (50 segments) parsed from headless Chrome fetch
+- World AI (custom Gem) analyses prior Vespera Thul BG3 run, identifies 4 root causes (paper-tiger NPCs, social-mechanics inflation, uncapped FP+resources), and runs the Ascendant Difficulty Protocol restart. End-of-conversation: Lord Rivington contract planning block with 3 options (Debt-Trap, Sovereign Marriage, Gala Ultimatum).
+- 156K chars of body text, 164K-char wiki page with TOC + key claims + key quotes + connections
+
+## [2026-06-13] ingest | 63 WA campaigns (last 2 weeks, ≥50 entries)
+- batch: 2026-06-13-last-2-weeks-50plus-scenes
+- 63 campaigns ingested, 0 errors
+- 51.9 MB total story text added to wiki
+- top campaigns: Itachi V3.1 (1547), Vespera Thul (1528), Itachi V3.1 copy-test (1511), 3× Vespera Thul (copy) at 1400/1400/1296
+- raw archives at /tmp/campaign_downloads_2026_06_13/<cid8>/<title>_<id8>.txt
+- wiki pages at ~/llm_wiki/wiki/sources/<slug>-<id8>.md (id8 suffix prevents slug collision for 30+ duplicate titles)
+
+## [2026-06-13] skill | download-campaign
+- location: ~/.hermes_prod/skills/download-campaign/
+- 13/13 tests pass (7 unit + 6 resolver trigger)
+- E2E verified on Vespera Thul vNU3AAXHd9N7adqWSM2p: 2,156,796 chars downloaded, 98.8K wiki page written
+- supersedes ad-hoc subprocess approach that hit gRPC FD inheritance bug
+- key fix: wiki path includes `campaign_id[:8]` suffix to prevent slug collisions when 11 copies of "Vespera Thul (copy)" share the same slug
+- resolver entry added with 15 trigger phrases (download campaign, pull from firestore, last 2 weeks, etc.)
+## [2026-06-13] ingest | Repo runner label variable can silently break CI dispatch (PR #7548) — feedback type; memory: ~/.claude/projects/.../memory/feedback_2026-06-13_repo_runner_label_variable_silent_drift.md; source: sources/feedback-2026-06-13-repo-runner-label-variable-silent-drift.md; bead: rev-z3881

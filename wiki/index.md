@@ -73,6 +73,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Failure Dossier](concepts/FailureDossier.md) — Per-stage 6-class failure taxonomy (transient_infra, budget_exhausted, compilation_loop, deterministic, canceled, structural); implemented in Kilroy
 
 ## Sources
+- [Repo runner label variable can silently break CI dispatch (2026-06-13)](sources/feedback-2026-06-13-repo-runner-label-variable-silent-drift.md) — SELF_HOSTED_RUNNER_LABELS out-of-band drift to [self-hosted-mikey,ARM64] excluded 10 X64 Colima runners; 5-step reusable fix; PR #7548 MERGED; bead rev-z3881
 - [Hermes 60-iteration cap: commit uncommitted work directly (2026-06-13)](sources/feedback-2026-06-13-hermes-iteration-cap-commit-recovery.md) - memory file from AO/Codex worker session - do not respawn AO worker when diff is correct
 - [world_logic.py:3594-3612 server synthesis path violates CLAUDE.md (2026-06-13)](sources/project-2026-06-13-synthesis-path-scope-drift.md) - memory file from AO/Codex worker session - PR #7064 narrow-scope drift, bead rev-sls86
 - [BQ log_llm_payload() must always pass explicit event_type= (2026-06-13)](sources/feedback-2026-06-13-bq-event-type-always-explicit.md) - memory file from AO/Codex worker session - default "llm_payload" is unqueryable
