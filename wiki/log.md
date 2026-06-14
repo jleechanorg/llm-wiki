@@ -1,3 +1,274 @@
+## [2026-04-04] ingest | Tilde path expansion - use slice(2) not slice(1)
+
+When expanding ~ in config paths, use slice(2) not slice(1) to skip the ~/ two-character prefix. slice(1) only skips the ~ and leaves a leading / ('~/.foo'.slice(1) = '/.foo' treated as absolute). Correct approach: path.join(os.homedir(), dir.slice(2)) or os.homedir() + dir.slice(1) — both handle ~/ prefix correctly. Recurrence: same bug class re-surfaced 64 days later in packages/plugins/agent-antigravity/src/index.ts (PR #654, commit 97b51e6ff) — fix at line 305 correctly uses slice(2). Canonical: dir.startsWith('~/') ? join(os.homedir(), dir.slice(2)) : dir. Reference: packages/core/src/config.ts applyEvolveLoopPaths() function.
+
+Source: sources/feedback-2026-04-04-tilde-slice-bug.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-06] ingest | Code analysis vs live capture for root cause
+
+Code-path analysis for the god-mode level-12 regression (PR #7268, bead rev-1fa0i) produced a plausible but WRONG root cause: SchemaRejectionError raised on forbidden rewards_box keys at narrative_response_schema.py:2753-2769 -> re-raised -> caught at world_logic.py:7223-7231 as 422 before god-mode authorized merge. Actual root cause (bead rev-o98fl, live s9 preview capture): model behaved correctly — emitted state_updates.player_character_data.level=12 with NO forbidden rewards_box keys. Backend merge DID apply level 12. Then validate_and_correct_state() ran WITHOUT agent_mode context and clamped level back to XP-implied 10 (XP=70500). The 422 path was never triggered. Rule: for any root cause where hypothesis depends on 'the model must have emitted X' — do NOT finalize without actual raw LLM response payload showing X. Mark analysis as PENDING-LIVE-CAPTURE until confirmed.
+
+Source: sources/feedback-2026-06-06-code-analysis-vs-live-capture.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-07] ingest | PR #7268 level-up clean-flags 4-lane review synthesis
+
+PR #7268 level-up clean-flags refactor (head 7d22459fc7) 4 parallel lanes (ZFC+new-flag, /zfclevel, /root-cause-first, uncommitted/CI) plus earlier /thermo + code-standards/DRY + net-additions audit. User criterion 'less flags, less backend logic' NOT MET: +553 net production LOC across 7 core files (rewards +442/-212, world_logic +283/-150, game_state +275/-65, agents +123/-166, llm_parser +195/-54, narrative +50/-44, llm_service +8/-12). 10 cross-lane blockers. Verdict: NOT READY FOR MERGE. Default action: CLOSE in favor of two narrower PRs (flag-deletion-only, derived-state-only) gated on /es at new head.
+
+Source: sources/project-2026-06-07-pr7268-final-review-4lane-synthesis.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-07] ingest | worldai repo conflates LLM Skeptic with deterministic self-verify
+
+jleechanorg/worldarchitect.ai's .github/workflows/skeptic-self-verify.yml is a deterministic gate-status aggregator, NOT the LLM Skeptic Agent — but it posts VERDICT comments with the same author (github-actions[bot]) and markers (skeptic-agent-verdict, skeptic-head-sha-*, VERDICT: PASS/FAIL). Smoking gun: PR #7321 (fix(frontend): force-render auth view fallback if Firebase onAuthStateChanged hangs) MERGED 2026-06-07T23:29:15Z despite LLM Skeptic Agent posting VERDICT: FAIL citing ReferenceError for effectiveUser in auth.js:626-640. Deterministic self-verify posted VERDICT: PASS for all 8 gates ~5 min later; merge gate honored the later PASS. The bug is now in production.
+
+Source: sources/project-2026-06-07-worldai-skeptic-conflation.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-07] ingest | Tilde expansion is systemic, not a one-off bug
+
+The antigravity tilde bug in PR #654 (commit 97b51e6ff) is a symptom, not the disease. 14 tilde-related defects across 8 files. Canonical expandHome helper in packages/core/src/paths.ts:186-191 is exported and used by lifecycle-worker.ts, spawn.ts, config.ts:466,1013, env-source.ts:104 — but plugin authors and CLI author rolled their own. Two anti-patterns: (1) path.replace(/^~/, process.env['HOME'] || '') — 7 instances in packages/cli/src/commands/start.ts (only strips ^~ 1 char, not ^~/ 2 chars; HOME unset -> /homeweird); (2) per-plugin local expandPath(p) functions — 5 near-copies. Follow-up: extend expandHome to handle bare ~, replace 5 plugin copies, replace 7 inline regexes, add test matrix.
+
+Source: sources/project-2026-06-07-tilde-systemic.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-07] ingest | Auth catch recovery must gate on e.code (network/hang only)
+
+In a signInWithPopup catch block, never call a recovery handler (especially one that may schedule window.location.reload()) unconditionally. Gate it on the Firebase Auth error code — only fire for genuine network/hang errors (auth/network-request-failed, auth/internal-error, auth/timeout), not for user-cancellation codes (auth/popup-closed-by-user, auth/cancelled-popup-request, auth/popup-blocked). PR #7321 (mobile auth hang fallback) reviewed post-merge; catch block identified as only root-cause-first violation. Fixed in PR #7349 (commit 2fdad5778c, branch fix/auth-recovery-rcf-rename). Handler renamed handleVisibilityRecovery -> scheduleAuthRecoveryIfStranded; visibilityRecoveryTimer -> authRecoveryTimer (when a recovery handler is reused across multiple triggers, update its name).
+
+Source: sources/feedback-2026-06-07-auth-catch-recovery-ecode-gate.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-07] ingest | PR #7268 level-up clean-flags cleanup followups
+
+PR #7268 (level-up clean-flags refactor, branch delete-stale-level-flags, head ddfd4f10) deletes stale level_up_pending/level_up_in_progress/level_up_complete/level_up_cancelled lifecycle flags; routes modal from derived state (canonical level_up_signal, target_level > current_level). Net production LOC +553 (additive refactor, not pure deletion). CodeRabbit APPROVED (22:38Z), mergeable=MERGEABLE, reviewDecision empty. Remaining hard blocker: 2 Directory tests failing (core-mvp-1/2 self-hosted) -> Green Gate (rev-jyeff). 4 queued followup beads: rev-1c98x (HP-alias scope creep), rev-x2sja (level_up_now choice text), rev-15i5c (in-place cleanups), rev-naxbs (Bugbot GameState.__init__ strip). PR #7337 separate: DO NOT MERGE — skeptic VERDICT FAIL on _resolve_level_up_from_rewards_box.
+
+Source: sources/project-2026-06-07-pr7268-cleanup-followups.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-07] ingest | copy_campaign.py dest default is source user, not jleechantest
+
+scripts/copy_campaign.py does NOT default destination to jleechantest@gmail.com. When --dest-email/--dest-user-id are omitted, the copy lands under the SOURCE user (scripts/copy_campaign.py:310-311 — if dest_user_id is None: dest_user_id = source_user_id). --format json only early-exits (UID lookup, no copy) when paired with --dest-email — it is nested under if dest_email is None. Incident (2026-06-07, PR #7268 /repro): running copy_campaign.py --find-by-id fdpDipUzknuchYPIHtgA --format json (no --dest-email) created stray copy f8RBcMzaaIdSpyIYcLje under the prod source account jleechan@gmail.com (vnLp2G3m21PJL6kxcuAqmWSOtm73). The correct test copy DhX4MreqJoxLHUlV59he came only from the later run WITH --dest-email jleechantest@gmail.com.
+
+Source: sources/feedback-2026-06-07-copy-campaign-dest-default-footgun.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-07] ingest | Gemini shared-cache measurement roadmap (PR #7263)
+
+PR #7263's shared system/tools Gemini cache is working engineering, but not proven hard-dollar production cost reduction. The 74.6% evidence is a real explicit-cache token discount measured with per-campaign cache disabled; stable production may already have per-campaign cache on warm turns, while the shared cache is only fall-through and excludes the 89% test/CI cost center. Measurement roadmap: first add/read Cloud Logging hit-rate metrics (SHARED_CACHE_USED, shared_cache HIT, shared_cache CREATED, SHARED_CACHE_FALLTHROUGH_FAILED), then reconcile post-merge day windows with BigQuery Billing Export cached-input/cache-storage SKUs. Do not claim dollar savings until logs and billing agree net of storage. Frame PR #7263 as experiment/building block unless hard-dollar proof exists.
+
+Source: sources/project-2026-06-07-gemini-cache-measurement-roadmap.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-07] ingest | Competing PRs overlapping prod files - close subset as subsumed
+
+When two OPEN PRs implement overlapping fixes that touch the same production files, and one is a strict superset of the other, do not merge the subset PR. Close the subset as subsumed and migrate its unique follow-ups to a comment on the superset. Concrete decision (2026-06-07): PR #7330 (investigate-codeexec-failopen-7262, 4 files) only did step 1 of the streaming code-execution fix — attach types.Tool(code_execution={}) — but never set debug_info['code_execution_used']. PR #7280 (worktree_dice3854, 38 files) is a strict superset: attaches tool AND sets code_execution_used AND adds new mvp_site/dice_code_execution_audit.py. Resolution: close #7330 as subsumed, keep #7280, post #7330's carry-over caveats as follow-up comment on #7280.
+
+Source: sources/2026-06-07-competing-pr-subsumption-close-subset.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-07] ingest | grep on gh pr diff false-positives from .beads/issues.jsonl prose
+
+When verifying whether a PR's code sets or contains a symbol (e.g. code_execution_used = True), a naive 'gh pr diff <PR> | grep <symbol>' produces false positives, because the diff includes .beads/issues.jsonl and bead-description PROSE inside it mentions code symbols verbatim. Concrete failure (PR #7330 verification, 2026-06-07): first gh pr diff 7330 | grep code_execution_used returned count=3 apparent assignments, all inside .beads/issues.jsonl bead-description text (beads about dice fabrication), NOT production code. Re-scoping to source hunk showed 0 production assignments. Correct procedure: isolate the production-file hunk before grepping (awk on diff --git, or read symbol from PR-head blob with git show <sha>:file).
+
+Source: sources/2026-06-07-grep-beads-false-positive-pr-verification.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-07] ingest | Optimization baseline fidelity - measure vs deployed config, not off
+
+Before building ANY cost/latency optimization (cache, batching, model swap, prompt slim, dedup): (1) quantify the addressable slice as % of the measured bill using data you already have; (2) the A/B control arm MUST be the currently-deployed prod config — never 'off'/'uncached'/a hand-picked config; (3) a measurement run in a config that doesn't exist in prod is NOT evidence; (4) gate code-start on a stated $-saved-vs-baseline target written before the first commit; (5) for a fall-through mechanism, compute when it actually fires in prod before building. I built PR #7263 shared system/tools Gemini cache whose only savings land when per-campaign cache is cold, excluded 89% test/CI cost center by design, and 'proved' it with 74.6% reduction measured with per-campaign cache forced OFF. 43 correctness tasks, 0 marginal-$-vs-baseline tasks. User called it 'useless.'
+
+Source: sources/feedback-2026-06-07-optimization-baseline-fidelity.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-08] ingest | Level-up reducer diverged into 4 versions across PR1-PR5.5 chain
+
+The canonical level-up reducer mvp_site/level_up_session.py is ABSENT on origin/main (PR1 #7368 not merged) and has diverged into 4 distinct versions across the migration chain (PR1 831 lines, PR2 904, PR3 929, PR4/PR5.5 891). Each downstream branch carries its own older reducer copy. Per-PR review/CI is UNAFFECTED (each branch internally consistent), but clean sequential merge is blocked. Resolution = merge PR1 first then rebase downstream; requires force-pushes (human-gated) and merge authority (human-gated).
+
+Source: sources/project-2026-06-08-level-up-reducer-diverged-across-chain.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-08] ingest | RED-baseline harness must pin to prefix ref, not HEAD
+
+A RED-baseline harness that serves the pre-fix variant via 'git show HEAD:<file>' goes vacuous once the fix is committed — HEAD moves to the fix and the RED capture serves the FIXED files, failing the AC8 RED/GREEN pairing. Pin to origin/main (with HEAD~1 fallback and env override). Concrete case: mvp_site/tests/test_mobile_welcome_flash_fouc.py PRE_FIX_REF = os.environ.get('FOUC_PRE_FIX_REF', 'origin/main') (commit 41f5c03d4a, PR #7379, bead rev-ljk7h). All 4 captures then pass: RED reproduces, GREEN logged-in/logged-out/desktop clean.
+
+Source: sources/feedback-2026-06-08-red-baseline-pin-prefix-ref-not-head.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-08] ingest | dark-factory: claudew deleted, agy reviewer gate + claude fallback
+
+Three coupled dark-factory changes: (1) deleted claudew (wafer/GLM-5.1) backend — removed from handlers.py and __main__.py --backend choices (now echo,claude,codex,ao,agy); (2) added agy reviewer gate with claude infra-failure fallback via _execute_gate (real agy fail/partial is kept, never reviewer-shopped); (3) fixed pipelines/slim/review_pr.dot evidence node (was codergen wearing reviewer label, converted to gate_er with explicit backend=agy). Tests 13/13 green. Full pytest polluted by 4 untracked WIP test files (lesson: git status first on noisy full-suite failures).
+
+Source: sources/project-2026-06-08-claudew-delete-agy-reviewer-gate.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-08] ingest | dark-factory explore phase rollout to all pipelines (user directive)
+
+User explicitly asked to extend the explore->plan gate (commit 6c6a2a3, slim-only) to all non-gate, non-review pipelines. Verbatim: 'also i want explore for all the pipelines not just one'. 5 of 7 .dot files still lack explore; primary rollout = pipelines/factory/hello.dot (jleechan-2wx, P1). Role-routing stylesheet pattern: explore/implement/fix use coder tier (--backend), plan pinned to claude-opus-4-6 (should become DARK_FACTORY_PLAN_MODEL env var per jleechan-x57), review routed to agy. Beads filed: jleechan-2wx/80r/x57/4gx.
+
+Source: sources/project-2026-06-08-explore-rollout-ask.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-08] ingest | Mobile welcome-card flash is FOUC, not the 8s reload loop
+
+User-reported mobile welcome-card flash is initial-paint FOUC, NOT the 8s authInitTimeout reload loop that PR #7379 fixes. PR #7379 only touches the post-8s mobile branch in auth.js (lines 476-500); that branch never fires on the happy path. Real cause: index.html:97 sets #auth-view as default active-view, body has no auth class at first paint; Firebase commonly fires onAuthStateChanged(null) first on cold load -> renders logged-out view -> second callback with real user clears it -> flash. Proposed fix: render #loading-overlay spinner on first paint, reveal welcome card only once auth resolves signed-out. Bead rev-ljk7h P1.
+
+Source: sources/project-2026-06-08-mobile-welcome-flash-is-fouc-not-reload.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-08] ingest | Mobile welcome-card flash: visibilitychange reload fix (PR #7379)
+
+User-observed bug on origin/main: mobile shows a welcome card (8s authInitTimeout renders it), then the page reloads ~5s later. The reload fires from the 5s visibility-recovery handler because the welcome card contains #authFallbackRetryBtn (hasRecoveryMarker = false) AND visibilitychange to visible (or online event) fires after the welcome card renders. iPhone Safari address-bar collapse/expand and tab focus can trigger visibilitychange. Fix (PR #7379, head f6501fbd97): in the mobile welcome-card branch, set authDidInitialize = true, clear pending visibilityRecoveryTimer, and remove visibilitychange + online listeners. 49/49 tests pass.
+
+Source: sources/feedback-2026-06-08-mobile-welcome-flash-visibilitychange.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-08] ingest | PR 5 routing migration rebased onto PR 5.5
+
+PR #7377 rebased onto PR 5.5 head e5a5d5a0b1 per new chain order PR 1->2->3->4->5.5->5->6. Old SHA 057e453435 -> new SHA ecf279618b (force-with-lease per user approval). 992 passed, 12 skipped, 130 subtests passed in 5.54s. 6 switch points in mvp_site/agents.py route from canonical level_up_session.status; 5 read-side routing adapters in level_up_session.py. Lessons: gh pr edit --base works to retarget an open PR's base branch without close+reopen; 0 file overlap between PR 5 and PR 5.5 (different lines in level_up_session.py).
+
+Source: sources/project-2026-06-08-pr5-routing-migration-rebased.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-08] ingest | PR #7367 desktop auth-init indicator - Skeptic rounds 19-21
+
+PR #7367 (fix(auth): render minimal authenticating indicator on desktop 8s timeout) Skeptic round-by-round progression. Round 19: critical bug indicator color:rgba(255,255,255,0.7) on transparent background = INVISIBLE on light-theme body; fix = inline background-color:rgba(0,0,0,0.55) + color:#ffffff + role=status + aria-live=polite. Round 20: FAIL on Gate 6/8c — hosted evidence required (HTTPS media URLs tied to head SHA, not local /tmp paths). Round 21: FAIL on Gate 8 — design doc N/A must be explicit in PR body. Skeptic FAIL-suppress window (FAIL_SUPPRESS_WINDOW_SECS) creates long effective latency between iterations; push a new commit (new head SHA) to iterate fast.
+
+Source: sources/project-2026-06-08-pr7367-evidence-iteration.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-08] ingest | Level-up session PR 4-6 /f teammates spawned
+
+User goal: 'two more hours and let's use /f and ensure we have a cold evidence reviewer mode and a cold code reviewer node enforcing /code-standards max 4 hours'. Spawned 4 /f teammates (claude-team-level-up-session, all long-runner subagent_type, run_in_background=true) for PRs 4, 5, 5.5, 6. Pipeline: dark-factory --pipeline slim/minimal_pr.dot --backend claude --max-steps 80. Nodes: explore -> plan -> implement -> test -> fresh-eyes review (cold code reviewer enforcing /code-standards) -> /es evidence standards -> /er evidence review (cold evidence reviewer reading bundle) -> exit. Soft cap 2h, hard cap 4h. AO Skeptic verdict issue on PRs 1-3 (CR stale, Gate 6/7/8 failures) — fixes applied.
+
+Source: sources/project-2026-06-08-level-up-session-pr4to6-spawned.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-08] ingest | Level-up session PRs 1-3 shipped, PRs 4-6 deferred
+
+PRs 1-3 of the 7-PR plan landed and pass 87/87 tests across the stack; PRs 4-6 deferred per 4-hour user cap. PR1 reducer skeleton (4dd994597b, 27 tests), PR2 finish commit fail-closed (fae34e203e, 28 tests), PR3 atomic persistence boundary (8ceac01ba5, 32 tests). All 3 PRs have Design Doc Grep Gates PASS but CodeRabbit CHANGES_REQUESTED + Green Gate FAIL remain. 3 real Bugbot issues on PR 1 (HIGH docstring/code mismatch, MEDIUM admin commit level-guard skip, LOW test tautology). Phantom teammate incident (pr-1-coder, pr-1-coder-2 in config.json isActive=true but never launched) resolved.
+
+Source: sources/project-2026-06-08-level-up-session-pr1to3-shipped.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-08] ingest | Google SSO 'login page every time' investigation
+
+User reported 'I always see the login page now' after 2026-06-07 mobile-auth PRs landed. 8 parallel subagents (Explore) fanout investigation originally attributed to PR #7321's 8s authInitTimeout watchdog — but user refuted this based on actual experience: mobile freeze fix in #7321 is genuinely improved; the login-page regression appeared only after PR #7349 landed. Root cause: PR #7349's signIn catch gating was supposed to reduce spurious reloads by only firing visibility recovery on network codes; in practice on iPhone Safari it suppressed recovery exactly when needed. Reverted in PR #7365 — only signIn catch gating of #7349 is undone; #7321 preserved.
+
+Source: sources/project-2026-06-08-google-sso-login-page-investigation.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-08] ingest | Level-up diamond state bug class - months of failed fixes root cause
+
+A 'diamond state' is when a level-up finish commit writes pcd.level = N+1 atomically, but the top-level level_up_signal: {current_level: N, target_level: N+1} (or one of level_up_pending/level_up_in_progress/rewards_pending.level_up_available) is NOT cleared atomically. 90-PR audit (2026-06-08): every PR targets ONE field, bug spans FOUR. Production evidence on vNU3AAXHd9N7adqWSM2p (level 18, turn 210) and mppfHseT9cy44Ywro4oJ (level 15). Action plan: rev-254ez 30-LOC invariant gate + rev-544i4 daily production observer. Meta-fix #7268 (+5477/-2382, 7,859 net LOC) has been OPEN since 2026-06-05 with reviewDecision=empty — not reviewable at that size.
+
+Source: sources/project-2026-06-08-level-up-diamond-state-class.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-08] ingest | Level-up session state machine - north star pivot
+
+User designated ~/roadmap/level-up-session-state-machine-design-2026-06-08.md as the north star for the mppfHseT 14->15 finish-commit work. Supersedes the 2-PR split (PR-A schema gate + PR-B LEVEL_UP_CHECK finish branch) and the flag-cleanup-only sub-PR surgery. New plan: 6 sequential PRs (PR 1 reducer skeleton + read-only projection, PR 2 finish commit fail-closed, PR 3 atomic persistence boundary, PR 4 god-mode contract split, PR 5 routing migration, PR 6 delete legacy writers). Canonical state = game_state.level_up_session with status enum available | in_progress | committing | complete | cancelled | error. ZFC compliant.
+
+Source: sources/project-2026-06-08-level-up-session-state-machine-pivot.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-08] ingest | mppfHseT 14->15 finish commit real bug signature
+
+Scout's raw LLM capture (against s9 / branch codex-pr-7268-sync, test copy campaign eF2Bk834MTPDFdFlsBfb reset to pre-Scene-160 state) disproved the original 'LLM omitted level bump' hypothesis for mppfHseT 14->15 finish commit limbo. Model returned a valid 6103-char JSON response with level: 15 present and parsed cleanly. Real bugs are all backend-side: (1) STATE_UPDATE_SCHEMA_GATE silently re-maps level_up_signal -> level_up_stage under 'strict overlay policy'; (2) finish commit misclassified as 'organic level-up for rewards_pending' in LEVEL_UP_CHECK; (3) diamond state inconsistency (pcd.level=15 but level_up_complete=True + completed_level=0 + level_up_signal still {current_level:14, target_level:15}).
+
+Source: sources/project-2026-06-08-mppfhset-finish-commit-real-bugs.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-08] ingest | Dice audit telemetry verified E2E (PR #7280)
+
+PR #7280 resolved the missing Gemini code-execution tool attachment in the streaming path. Post-merge verification run on HEAD 75dbc952e9 proved that d20 rolls in the streaming campaign route correctly through the sandbox, produce authentic code_execution stdout, and verify RNG successfully. Establishes baseline of verified campaign dice fairness after landing the streaming tool attachment fix; closes skeptic verification beads. Bead rev-c9y7b.
+
+Source: sources/project-2026-06-08-dice-audit-telemetry-verified.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-08] ingest | gh pr view --json files uses original base, may be stale
+
+When auditing a PR's scope or checking for unrelated changes, use 'git diff origin/main --name-only', NOT 'gh pr view --json files'. The GitHub PR Files API compares against the PR's original base commit, which may be far behind main if main has advanced since the PR opened. This produces false positives — files that look changed in the PR diff but actually match main. In the PR #7280 audit, gh pr view --json files reported self-hosted-oss and testing_mcp/infra as changed, but git diff origin/main returned empty for all of them. Use git diff origin/main --stat for scope audit; git show origin/main:<file> for deletion existence check.
+
+Source: sources/feedback-2026-06-08-pr-files-api-stale-base.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-08] ingest | Cleanup commits must use provenance filter, not topic filter
+
+Never delete a file in a 'cleanup' commit because it's 'unrelated to the PR's topic.' Use provenance as the gate: before deleting any file, run 'git show origin/main:<file>'. If it returns content, the file exists on main -> restore it, don't delete it. Only delete files that were introduced by messy merges and do NOT exist on origin/main. Incident (2026-06-07): PR #7280 commit a54557f366 'Dice audit: remove unrelated merge artifacts' deleted mvp_site/bq_logging.py (600 lines, PR #7331's production BQ sink module) — that file exists on main, so deletion would undo merged work. The correct predicate is 'not on origin/main AND not from before the PR started', not 'not related to this PR's topic.'
+
+Source: sources/feedback-2026-06-08-cleanup-commit-provenance-filter.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-08] ingest | Gemini shared cache measurement NOT done (PR #7263 status)
+
+PR #7263 (Gemini shared system/tools cache) measurement is NOT done. Mechanism works, but production savings need Cloud Logging hit-rate and BigQuery billing proof before merge-as-cost-reduction. The 74.6% evidence is a real explicit-cache token discount measured with per-campaign cache disabled; stable production may already have per-campaign cache on warm turns, while the shared cache is only fall-through and excludes the 89% test/CI cost center. Measurement roadmap: add/read Cloud Logging hit-rate metrics (SHARED_CACHE_USED, shared_cache HIT, shared_cache CREATED, SHARED_CACHE_FALLTHROUGH_FAILED), then reconcile post-merge day windows with BigQuery Billing Export cached-input/cache-storage SKUs. Do not claim dollar savings until logs and billing agree net of storage.
+
+Source: sources/project-2026-06-08-gemini-cache-measurement-not-done.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-08] ingest | Skeptic post fix shipped 2026-06-08 (PR #654)
+
+Subagent a6194e0e16bd939e0 completed the skeptic post fix on 2026-06-08. The bug: packages/cli/src/commands/skeptic/posting.ts:56-70 rethrew 403 errors from cross-user comment PATCH, causing the verdict to silently disappear while the CLI reported 'Done!'. Fix shipped (commit fca0cc322): added isGhForbiddenError() alongside isGhNotFoundError(); 403 now falls back to createComment. TDD: Red (1 failing test) -> Green (5/5 posting.test.ts) -> 696/696 full suite (no regressions). E2E verified on PR #654 with both idempotent PATCH and fresh CREATE comments carrying all required markers. Bead bd-2hmj closed.
+
+Source: sources/project-2026-06-08-skeptic-post-fix-shipped.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-08] ingest | Skeptic post 403 fallback to CREATE
+
+When posting a Skeptic verdict (or any PR comment) via PATCH-then-CREATE flow, treat both 404 (comment deleted) AND 403 (cross-user edit blocked) as recoverable conditions that fall back to creating a fresh comment. Only rethrow non-{404,403} errors (422 oversized body, 500, network). PR #654 (agent-orchestrator) had the post step in packages/cli/src/commands/skeptic/posting.ts:56-70 that only fell back to CREATE on 404; when existing verdict was posted by jleechan-af and current gh CLI is jleechan2015, GitHub returns 403 on cross-user PATCH — verdict silently disappeared. Mirror the isGhNotFoundError + isGhForbiddenError pair in any PATCH-then-CREATE implementation.
+
+Source: sources/feedback-2026-06-08-skeptic-post-403-fallback.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-09] ingest | BigQuery: Gemini cache STORAGE dwarfs SAVINGS 12x
+
+Real BigQuery billing-export query (last 30d, captured 2026-06-09 06:42Z) on worldarchitect GCP billing export. Gemini API = $3,064.82 / 30d. Cache STORAGE ($1,328/mo) dwarfs cached-input SAVINGS ($108/mo) by ~12x — the bill-measured case for shared system/tools cache PR #7263 (storage line attack). G0 / PR #7348 marker reader proven on real data but shared cache NOT live in prod → terminal status = BLOCKED_ON_7263. Auth gotcha: firebase-adminsdk gets 403 on BQ; must use project-owner gcloud account jleechan@gmail.com with CLOUDSDK_CORE_ACCOUNT export.
+
+Source: sources/project-2026-06-09-bq-gemini-cost-storage-dwarfs-savings.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-09] ingest | Level-up state-machine redesign with dark-factory patterns
+
+User pivot: 'design this but use /ms we are transitioning to a level up state machine'. /innovate redesign applied 5 dark-factory patterns (canonical state, pre-write validation, sealed event log, declarative transition table, brownfield Step-0) + 3 anti-patterns (stale-success masking, backwards-proof staging, dead code passing test_e2e) + 6 brownfield Step-0 rules mapped to each PR. 30-LOC invariant gate (rev-254ez) becomes INTERIM safety net; observer (rev-544i4) becomes MIGRATION-AWARE. Beads rev-254ez/544i4/9f200/g8s1z.
+
+Source: sources/project-2026-06-09-level-up-state-machine-redesign-dark-factory.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-09] ingest | Level-up chain worked on wrong base (4 PRs, divergent)
+
+Built 4 chain PRs on parallel worktree branches forked from PR 1 base, not from the user's review branch (PR #7366 base fix/level-up-session-reducer). Local 6-unpushed-commits line and 2-unpulled-commits remote line are divergent, neither is a superset. Force-push either direction destroys unique work. User concluded 'sounds like you got nothing done' because from their branch the reducer is a well-tested island wired into one call site. Lesson: when sitting in a worktree on a divergent branch, surface the divergence as the lead item.
+
+Source: sources/project-2026-06-09-chain-worked-on-wrong-base.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-09] ingest | PR 4 god-mode split: CodeRabbit review loop pattern
+
+PR #7376 (god-mode contract split) CodeRabbit caught two call-site defects (heads 1d39614088 + 510e17148f). When dispatcher returns NEW updated_game_state_dict, caller's local rebind is not enough — captured references still point to OLD dict; fix = clear-and-update in place preserves dict identity. Two parallel fail-closed paths in _god_mode_level_up_dispatch drifted: branch 2 stripped level_up_signal/modal choices from structured_fields, branch 3 did not. Reducer is FROZEN post PR 1-3; PR 4 can only CALL into it. Phantom rewards_box.level_up_available after admin commit requires symmetric _strip_level_up_rewards_box_offer helper in both Path A success and mixed-contract success branches.
+
+Source: sources/project-2026-06-09-pr4-god-mode-split-cr-loop.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-09] ingest | PR #7366 vs PR #7368 (PR 1) - competing level_up_session reducer PRs
+
+PR #7366 (jleechan2015, 2026-06-08T19:58Z) and PR #7368 (PR 1 of 6-PR chain) both touch the same production files. PR #7366 is a strict superset (reducer + schema + roadmap + CI gate); PR #7368 is the subset (reducer only). Per 'competing-pr-subsumption-close-subset' rule, subset should close as subsumed — BUT closing PR 1 orphans PRs 2-5.5 which all depend on PR 1's reducer. 4 resolution paths: (1) close PR 1 (breaks chain), (2) rebase PR 7366 onto PR 1's head (preserves chain), (3) keep both (high risk), (4) close PR 7366. Do NOT close either PR without user approval — strategic PR closure is a user decision.
+
+Source: sources/project-2026-06-09-pr7366-supersedes-pr1-conflict.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-09] ingest | PR #7370 (PR 3) surgical level_up_session write - Skeptic Gate 7 fix
+
+Skeptic Gate 7 (CodeRabbit CHANGES_REQUESTED + skeptic bot) flagged canonicalize_rewards in mvp_site/rewards_engine.py: clear()+update() preserves root dict reference but destroys reference identity for every nested object. Fix (commit eb5f8701b3): surgical key write — write only level_up_session (the only key the reducer output needs to land). 45 tests pass. Skeptic worker fleet-wide down — Green Gate FAILing on step 8 'Poll for VERDICT' on all 4 PR chain PRs (PR 3, 4, 5.5, 6). When addressing CodeRabbit CHANGES_REQUESTED on a rewards_engine.py change, check if the diff uses clear()+update() on game_state_dict — replace with targeted key write.
+
+Source: sources/project-2026-06-09-pr3-surgical-write-gate7-fix.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-09] ingest | Feedback 2026 06 09 Stacked Pr Single Writer Rule
+## [2026-06-10] ingest | Feedback 2026 06 10 Pr Head Branch Force Push Rename
+## [2026-06-10] ingest | Feedback 2026 06 10 Green Gate Gate3 Filters By Head Sha
+## [2026-06-10] ingest | Project 2026 06 10 Bq Logging 4 Paths Shipped
+## [2026-06-10] ingest | Feedback 2026 06 10 Green Gate First Run After Push False Negative
+## [2026-06-10] ingest | Feedback 2026 06 10 Handoff Doc Must Not Be In Pr Diff
+## [2026-06-10] ingest | Feedback 2026 06 10 Subagent Force Push Violation
+## [2026-06-10] ingest | Project 2026 06 10 Dice Audit 3Pr 7Green Push
+## [2026-06-10] ingest | Feedback 2026 06 10 Sdk Mock Is Synthetic Llm
+## [2026-06-10] ingest | Project 2026 06 10 Fragility Audit Doctor V2
+## [2026-06-10] ingest | Project 2026 06 10 Green Pipeline Mechanics
+## [2026-06-10] ingest | Feedback 2026 06 10 Review Loops Ratchet Backend
+## [2026-06-10] ingest | Project 2026 06 10 Pr7439 Bq Logging User Id Completion
+## [2026-06-10] ingest | Feedback 2026 06 10 Dual Gateway Drift
+## [2026-06-10] ingest | Project 2026 06 10 Levelup Cleanup State
+## [2026-06-10] ingest | Project 2026 06 10 Pr7447 Dead Reducer Deletion
+## [2026-06-10] ingest | Feedback 2026 06 10 Explore Agents Can Write Via Bash
+## [2026-06-10] ingest | Feedback 2026 06 10 Green Gate Gate6 Gate7 Evidence Skeptic Sequence
+## [2026-06-10] ingest | Feedback 2026 06 10 Smoke Mode Ci Guards
+## [2026-06-11] ingest | Feedback 2026 06 11 Ruff Comment Block Quoted String False Positive
+## [2026-06-11] ingest | Project 2026 06 11 Pr7440 Client Diag Live In Cloud Logging
+## [2026-06-10] ingest | Feedback 2026 06 10 Guard Main Repo Aom Env Var
+## [2026-06-10] ingest | Project 2026 06 10 Orphan Lifecycle Workers Reaped
+## [2026-06-10] ingest | Feedback 2026 06 10 Spurious Coordinator Project Removed
+## [2026-06-11] ingest | Project 2026 06 11 Pr7441 Level Up Signal Prompt Fix
+## [2026-06-11] ingest | Project 2026 06 11 Multi Level Organic Progression Real Root Cause
+## [2026-06-11] ingest | Project 2026 06 11 Stale Level Up Complete Cleared 2To3
+## [2026-06-10] ingest | Project 2026 06 10 Slack Godmode L6 Repro Thread
+## [2026-06-11] ingest | Project 2026 06 11 Pr7439 Consolidated Evidence Published
+## [2026-06-11] ingest | Project 2026 06 11 Codex Fleet Closeout
+## [2026-06-11] ingest | Feedback 2026 06 11 Rebase Clears Presubmit Base Drift
+## [2026-06-10] ingest | Project 2026 06 10 Pr7439 4Path Bq Evidence Shipped
+## [2026-06-11] ingest | Feedback 2026 06 11 Cr Incremental After Mention Takes 15Min
+## [2026-06-11] ingest | Project 2026 06 11 Pr7439 Cr Incremental Fixes Shipped
+## [2026-06-11] ingest | Project 2026 06 11 Pr7440 Iphone Dev Unauth Drop Cdiag Proof
+## [2026-06-11] ingest | Project 2026 06 11 Level Up 2To3 Routing Real Root Cause
+## [2026-06-11] ingest | Feedback 2026 06 11 Level Up Modal 4 Path Legacy Flag Drift
+## [2026-06-10] ingest | Feedback 2026 06 10 Response Body Swallowed
+## [2026-06-10] ingest | Project 2026 06 10 Pr7439 8 Codepath Fanout
+## [2026-06-13] ingest | /claw now dispatches via Slack (replaces nohup hermes chat)
+
+`/claw <task>` posts to Slack #claw-dispatch (C0B9W8D609M) on jleechanai.slack.com as user jleechan (U09GH5BR3QU) with `<@U0AEZC7RX1Q>` @hermes mentioned. Implementation at `~/.claude/skills/claw-dispatch/SKILL.md`. Two pre-flight gotchas caught: (1) `hermes gateway status` CLI lies — use `curl :8642/health`; (2) `HERMES_SLACK_BOT_TOKEN` is silently dropped by Hermes's self-message guard (`slack.py:25-28` returns early when `event.user == self._bot_user_id`) — use `SLACK_MCP_XOXP_TOKEN` (xoxp user token) instead. 30s ack window polls for reaction OR thread reply.
+
 ## [2026-06-13] ingest | Don't second-guess working bashrc wrappers on a TUI error
 
 I changed `claudem` in `~/.bashrc` from `MiniMax-M3` → `MiniMax-M2.5` (then M2.7) on the strength of a TUI "model may not exist" error. The error was the **Claude Max session-limit** (resets ~3:40pm), NOT model validation. M3 is real (verified at `https://api.minimax.io/v1/models`). Same error fired for `claudew` with `GLM-5.1` (different backend) — proving rejection is not name-specific.
@@ -4641,6 +4912,11 @@ Key new learning (post-merge): Green Gate PASS is the authoritative merge signal
 - related bead: rev-drhbu (closed)
 - durable skill: /Users/jleechan/.claude/skills/bead-followup-templates/SKILL.md
 
+## [2026-06-12] ingest | mcp-smoke action.yml blocker on PRs #7352 / #7315
+- source: sources/project-2026-06-12-mcp-smoke-action-yml-blocker.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-12_mcp_smoke_action_yml_blocker.md
+- After `ad159590d8` (PR #7498) wired `mcp-smoke-tests.yml` to `./.github/actions/run-pr-preview-test`, every PR open before 2026-06-12 12:16 PDT fails with `Can't find 'action.yml'`. Cherry-pick `c963a0ff83` (no force-push); re-trigger /skeptic. Incomplete-infra-migration pattern.
+
 ## [2026-06-12] ingest | PR 7467 review — generic prompt fixes + live PR head + readiness gates
 
 - source: feedback_2026-06-12_pr_7467_prompt_and_readiness.md (composite of 3 memories)
@@ -4673,3 +4949,736 @@ PR #7540 awaiting merge; bare-runner-on-Mac verdict=defer.
 Disambiguation: label = routing tag, not execution env.
 
 ## [2026-06-13] venv sharing | PR #7522 merged
+
+## [2026-06-13] ingest | integrate.sh fails in worktree when main is checked out elsewhere
+
+integrate.sh hard-stops on local-only commits AND on `git checkout main` when main lives in another worktree; branch from `origin/main` directly with `dev{epoch}` naming. rev-d6qgj.
+
+## [2026-06-13] ingest | Level-Up Canonical Session Routing Fix (2→3 multi-level)
+
+Modal lock at agents.py:3351-3358 now consults canonical `level_up_session` (NOT just legacy `custom_campaign_state.level_up_*` flags). LLM correctly wrote level:3, routing picked CombatAgent, block_unauthorized_level_mutations reverted. Commit 317189350c on PR #7434; 8 new tests; 419 total pass.
+
+## [2026-06-13] ingest | NFBaxQ3mIUe17UlAAGlE Level 6 Bug — Root Cause
+
+LLM prompt/schema defect, NOT backend override. LLM emits `rewards_box.new_level=6` + L6 features + L6 HP but leaves `player_character_data.level=5` in same `state_updates` block. PR #7434 does NOT fix this. Fix belongs in LLM prompt + model-side schema rejection per ZFC.
+
+## [2026-06-13] ingest | No Speculative Compatibility Branches in Agent Routing
+
+Never add `isinstance(game_state, dict)` compat branches without a test exercising the dict path AND a production call site that passes a dict. PR #7516 commit 31b1623f7f reverted in 1fe0159c4e.
+
+## [2026-06-13] ingest | Stale-Flag Suppression Requires Positive Evidence of Advancement
+
+`or (not rewards_box)` clause in `_compute_stale_level_up_suppression` was wrong; absence is not positive evidence of advancement. Fix commit e652898218 in PR #7516. rev-jw8e4.
+
+## [2026-05-24] ingest | 7-Green Proof Artifact is the github-actions VERDICT Comment
+
+## [2026-06-13] ingest | Colima migration plan (research + 6-step brew recipe)
+
+Two friction points (both one-liners): `/var/run/docker.sock` symlink (HIGH, easy) + launchd startup ordering (MEDIUM, `brew services start colima`). Five benefits: no Docker Desktop commercial license, ~1-2GB less RAM per host, no menubar GUI overhead, proper launchd service, faster container finalization. Closes beads rev-y31a (Docker Desktop GUI quit) and rev-b69i (runner interruption). Plan: `brew install colima docker docker-compose` → `colima start --cpu 4 --memory 8 --vm-type vz --arch aarch64` → `sudo ln -sf ~/.colima/default/docker.sock /var/run/docker.sock` → `brew services start colima` → test one slot then flip all 6.
+
+## [2026-06-13] ingest | Org runner pool expansion + .ci-retrigger empirical audit
+
+Runner pool grew 6→15 (launchd supervisor re-spun 5 offline `bare-org-runner-N` instances, IDs 77708-77713). Active runs 50→29 as 4 hot PRs settled. **Empirical audit verdict: `.ci-retrigger` is a write-only memo, NOT a state machine** — 87 re-trigger commits in 71 days on agent-orchestrator repo, 82/87 (94.3%) empty `git commit --allow-empty`, no code anywhere reads it (exhaustive search across agent-orchestrator, ~/.hermes*, ~/.worktrees, ~/.local/bin, /opt/homebrew, all plists + cron + Docker containers). Reverted `.ci-retrigger` to HEAD value (`trigger`); 2026-06-12 kill recipe's `printf 'idle' > .ci-retrigger` step is cosmetic — actual stop is `kill -9 <PID>`. 15-runner effective pool is the real win.
+
+## [2026-06-13] ingest | Self-hosted Mac runner race condition fix (companion to 2026-06-09 supervisor)
+- source: sources/feedback-2026-06-03-self-hosted-race-fix.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-03_self_hosted_race_fix.md
+- Companion to [[feedback-2026-06-09-runner-supervisor-and-ops]]: that file is the supervisor + RC sourcing + busy=true layer, this one is the underlying `docker_rm_force_with_timeout` primitive (sync `docker rm -f` + poll `docker ps -a` until the container actually disappears). Pattern generalizes to `docker network rm` / `docker volume rm` and any other async-finishing Docker op.
+- Origin session: 73be4e82-d635-4fd2-96b7-639072ec7448
+
+## [2026-05-24] ingest | PRs That Expand CI Coverage Will Surface Latent Test Failures
+
+## [2026-06-13] ingest | GitHub org runner registration vs group access (correction)
+- source: sources/feedback-2026-06-12-github-org-runner-registration-vs-group-access.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-12_github_org_runner_registration_vs_group_access.md
+- Correction: jleechanorg dispatch is via runner-group access + label matching, NOT per-repo `config.sh` re-registration. Re-registering per-repo would REMOVE the runner from org-wide availability. Effective self-hosted pool for worldarchitect.ai = 7 runners (6 org-runner-mac-N Linux ARM64 + 1 wa-oss-runner-local macOS ARM64). `busy=true` is unprovable from run-level API; need per-job `runner_name` from `.../runs/{id}/jobs`.
+- Origin session: 73be4e82-d635-4fd2-96b7-639072ec7448
+
+## [2026-05-24] ingest | When Competing PRs Choose Opposite Canonical Fields, the Later PR Must Take THEIRS Everywhere
+
+## [2026-06-13] ingest | Local Claude Code session can runaway-push no-op commits
+- source: sources/feedback-2026-06-12-local-claude-session-can-runaway-push.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-12_local_claude_session_can_runaway_push.md
+- Root-cause correction to [[feedback-2026-06-12-block-noop-commit-prevention]]: the actual fix is at the **instruction level**, not a PreToolUse hook. `/wakebugbot` and `git-pr-conflict-resolve/SKILL.md` were rewritten to use `gh workflow run green-gate.yml --ref <branch>` (workflow_dispatch) instead of `git commit --allow-empty`. The block-noop-commit.sh hook was removed per user request. Signature for identifying a local runaway: `--allow-empty --no-verify`, no Co-authored-by trailers, all trees equal to parents, message style is user's first-person babysit shorthand.
+- Origin session: 73be4e82-d635-4fd2-96b7-639072ec7448
+
+## [2026-05-24] ingest | Self-Hosted Runner Infra Flakes Show as CheckRun FAILURE
+
+## [2026-05-24] ingest | PR #7048 Location Centralization MERGED
+
+## [2026-06-13] ingest | /babysit started 2h after the user merged the PR
+- source: sources/feedback-2026-06-13-babysit-late-for-merged-pr.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-13_babysit_late_for_merged_pr.md
+- Target PR: jleechanorg/worldarchitect.ai#7517 (chore(ci): remove MCP smoke tests workflow); merge commit b26a5eb1e9
+- Two root causes: (1) babysit-launch script left as `echo` not `bash /tmp/babysit-7517.sh &`, (2) Hermes stalled ~30 min on a clarification ask because the `/claw` slash-command body injection looked like a template to review, not a directive. Operational rule: for small/clean PRs, the user often merges faster than babysit can spin up; always verify with `gh pr view N --json state,mergedAt` first.
+- Origin session: 73be4e82-d635-4fd2-96b7-639072ec7448
+
+## [2026-06-13] ingest | /claw hermes gateway status CLI is broken (use curl :8642/health)
+- source: sources/feedback-2026-06-13-claw-gateway-down-ao-send-fallback.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-13_claw_gateway_down_ao_send_fallback.md
+- `hermes gateway status` CLI mis-reports "Gateway is not running" with phantom "drain / PID 3168" while `curl :8642/health` returns OK (PID 71789). /claw is patched as of 2026-06-13 07:30Z (pre-flight uses curl, dispatch is Slack-based). Memory retained for the MANDATORY `ao send` message template (WORKTREE/BRANCH/HEAD_SHA/PR/JOB/STEPS/DO NOT) and source-of-truth order: git log > tmux capture > gh pr view > ao status > AO dashboard > `hermes gateway status` (LIES).
+- Origin session: 33b6218a-1fc0-42b9-b4f8-1814474904eb
+
+## [2026-05-28] ingest | MCP Server Port URLs Must Be Updated in BOTH settings.json AND .claude.json
+
+## [2026-05-28] ingest | MCP HTTP Daemon Setup, Port Map, and Launchd Auto-Start
+
+## [2026-06-05] ingest | PR #7249 UTF-8 Mojibake Streaming Fix
+
+## [2026-06-13] ingest | PR #7522 venv Sharing (memory)
+
+## [2026-06-13] ingest | disk_snapshot.sh discover subshell + glob-tracking bugs
+- source: sources/feedback-2026-06-13-disk-snapshot-discover-bugs.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-other-disk-magician/memory/feedback_2026-06-13_disk_snapshot_discover_bugs.md
+- Two bugs combined to make `disk_magician.sh discover` silently lie about which >5GB dirs were tracked vs UNTRACKED. (1) `local` keyword inside a `printf | while read` pipeline body crashed bash with "local: can only be used in a function" — the entire subshell died after printing the header. (2) Discover populated `MONITORED_PATHS` only from `monitored_dirs`; glob-matched directories like `~/actions-runner*` were wrongly reported as UNTRACKED even though the snapshot measurement honored the glob. Both fixed in commit f129f2d (PR #4 → 5975589); `src/disk_magician/scripts/disk_snapshot.sh` mirrored.
+- Reusable pattern: any `printf | while read` loop that needs to write into a parent-visible hash/array needs (a) no `local` in the body, and (b) process substitution `while read; do …; done < <(printf …)` to keep writes in the parent shell.
+- Origin session: this /diskm session
+
+## [2026-06-13] ingest | PR #10 CodeRabbit Stall — dark-factory (2026-05-31)
+- source: sources/feedback_2026-05-31_pr10_coderabbit_stall.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-dark-factory/memory/feedback_2026-05-31_pr10_coderabbit_stall.md
+- CodeRabbit stalls on dark-factory PRs in two flavors: (1) COMMENTED-stall (PR #10) — won't re-review already-reviewed commits because request_changes_workflow wasn't set before first review; (2) perpetual-nitpick treadmill (PR #16) — re-reviews but files new low-severity items on every pass without ever auto-dismissing. Once (a) every actionable CR item is fixed, (b) CI green, (c) local suite green → admin squash-merge is the correct fallback. No branch protection on dark-factory. Pre-merge re-check mandatory: `gh pr view <N> --json headRefOid,mergeable,reviewDecision`. PR #10 merged 2026-05-31T03:24:09Z SHA 708a468; PR #16 merged 2026-06-06T22:30:57Z SHA d010cf6. Bead jleechan-xpv.
+
+## [2026-06-13] ingest | green-goal-structural-postmerge
+- source: sources/feedback-2026-06-13-green-goal-structural-postmerge.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-merge-train/memory/feedback_2026-06-13_green_goal_structural_postmerge.md
+- `/green` is a pre-merge gate; the override that authorizes a merge cannot retroactively satisfy the gate. For merged PRs `mergeable` becomes UNKNOWN and `reviewDecision` was never set. Override is a one-way door — closing the loop requires revert + re-merge when green. Disclose unmet /green clause in the merge-done report rather than promising post-merge verification.
+- Origin session: 4de5b569-b51b-4a12-9a41-45eee5ee760f
+
+## [2026-06-13] ingest | Dynamic Fanout Calibration Benchmark (2026-06-05)
+- source: sources/project_2026-06-05_dynamic_fanout_calibration.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-dark-factory/memory/project_2026-06-05_dynamic_fanout_calibration.md
+- `benchmarks/dynamic_fanout/` deterministic A-vs-A+B benchmark calibrates the workflow_graphgen instrument. 3 scenarios (validate_k6, validate_k2, schema_migration) credit 4 winners using same aggregate (range-non-overlap + MIN_N_FOR_WINNER=5) — proves n=10 null was a true negative. CORRECTION (commit b2bd7a3): G1-adjacent is authoring choice not gap (engine ALREADY threads via ${state._last_output}); only G3 (runtime node count) survives honest Mode A as a genuine paradigm gap. Sweep rule: Mode A+B iff K runtime-determined (spread≥1) AND V/C>1. PR #16, suite 208 green. Repro: `.venv/bin/python -m benchmarks.dynamic_fanout --trials 5 --out /tmp/dynfan/records.jsonl`.
+
+## [2026-06-13] ingest | merge_train conflict hook visibility
+- source: sources/feedback-2026-06-09-conflict-hook-visibility.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-merge-train/memory/feedback_2026-06-09_conflict_hook_visibility.md
+- `conflict-warn-pre-tool.sh` PreToolUse hook only fires for `Edit|Write|replace_file_content` matchers; `Read`/`Bash` short-circuit to silent allow. Chat UI shows only `permissionDecision`, not the two stderr banner lines. "I don't see hooks firing" is usually silent-allow, not hook-absent. Manual verification: `echo '{"tool_name":"Edit",...}' | bash ~/.local/bin/conflict-warn-pre-tool.sh`
+- Origin session: 4de5b569-b51b-4a12-9a41-45eee5ee760f
+
+## [2026-06-13] ingest | AO Antigravity keychain dialog — root cause and fix
+## [2026-06-13] ingest | Disk harness overhaul — snapshot blindness fixed
+
+## [2026-06-13] ingest | Evidence Review — Unscorable Axes Anti-Pattern (2026-06-05)
+- source: sources/feedback_2026-06-05_evidence_review_unscorable_axes.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-dark-factory/memory/feedback_2026-06-05_evidence_review_unscorable_axes.md
+- /er on dark-factory PR #16 (workflow_graphgen n=10 null + dynamic_fanout calibration) found anti-pattern: `benchmarks/FINDINGS.md` Finding 1 said "no separation on any axis" while `n10_aggregate.json` marked `graph_quality` as `n=0 / insufficient data` for both features — a structurally mode-invariant axis (shared graph-IR, same fit score). Aggregate JSON was honest; one-line summary outran it. Rule: partition axes into {measured-and-tied} vs {unscorable / structurally invariant} and exclude the latter from "any." A null on a structurally-unseparable axis is zero evidence of equivalence. True-negative claim requires the SAME instrument crediting a winner elsewhere (dynamic_fanout imported the same aggregate and credited 4 winners). Verdict: PASS (first-party + independent evidence-reviewer agreed, suite 226 green, 40 records committed). Bead jleechan-g8m.
+
+## [2026-06-13] ingest | Stale merge_train Locks After SIGKILL
+## [2026-06-13] ingest | CampaignWizard.disable() Stale selectedCampaignType
+## [2026-06-13] ingest | skip-shas agento-escape
+
+## [2026-06-13] ingest | Hermes gateway bootout = permanent eviction
+- source: sources/feedback-2026-06-09-gateway-bootout-outage.md
+- Memory: ~/.claude/projects/-Users-jleechan--hermes/memory/feedback_2026-06-09_gateway_bootout_outage.md
+- `hermes gateway stop` calls `launchctl bootout` which permanently evicts the service from the bootstrap domain. KeepAlive can't restart after bootout (nothing left registered). Use `hermes gateway restart` (`kickstart -k`) for normal restarts. 2026-06-09 outage = `stop` with no follow-up `start`. Recovery: `launchctl bootstrap` + `launchctl kickstart` + `curl :8642/health`. PR #473 commit 473b7b76.
+- Bead: jleechan-26bt
+- Origin session: 0045c60d-afe5-4e07-84a6-54dde9b7d8b0
+
+## [2026-06-13] ingest | Workflow Graphgen Spec + n=10 Null (2026-06-04)
+- source: sources/project_2026-06-04_workflow_graphgen_spec.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-dark-factory/memory/project_2026-06-04_workflow_graphgen_spec.md
+- `workflow_graphgen` feature + benchmark: Mode A (runner walks every node) vs Mode A+B (Workflow runs the dynamic middle via agent(), runner runs the guaranteed-node tail). Single independent variable = who executes the dynamic middle. Spec cold-review PASS at iteration 3 (main spec 11 sections + attractor feature spec 186/186). Implementation commits `ae85558` (benchmark scaffold + honest coder token capture via `--output-format json`, _claude_json_result sums fresh+cache_read+cache_creation) + `2c1e48b` (parser `_MARKER_RE` gap restricted to decoration+qualifier-tokens). n=10 x 2 features x 2 modes = 40 real Sonnet runs: NO separation on any axis at n=10; conformance 50/50 & 90/90 (perfect tie); wall_ms +5.3%/+9.2% but overlaps. Fairness invariants: guaranteed reviewers terminal; graph_quality mode-invariant by construction; token parity = coder-execution tokens only. PR #16 status: 7-GREEN at HEAD 56bb22a, 219 tests passing, CR=APPROVED, mergeable=MERGEABLE. Cold-reviewer op-lesson: codex exec --yolo flaky on ~16k-char prompt, fell back to fresh `general-purpose` Claude subagent (CLAUDE.md tenet 3 permits); retrieve subagent final JSON via `TaskOutput`.
+
+## [2026-06-13] ingest | Slack misroute: surgical fixes don't scale (PR #615)
+- source: sources/project-2026-06-13-slack-misroute-root-cause-consolidation.md
+- Memory: ~/.claude/projects/-Users-jleechan--hermes/memory/project_2026-06-13_slack_misroute_root_cause_consolidation.md
+- 4 surgical PRs (#603, #604, #606, #614) each green-merged the wrong-thread/duplicate-warnings symptom at one call site but left the class of bug (no shared slack_post lib) unaddressed. PR #615 consolidates 5 inline patterns into `lib/slack_thread_lib.sh` (daily thread anchor + 60s dedupe + env-based channel resolution). Brownfield rule: when same fix needed in 3+ places, add the missing abstraction; one replace-everywhere PR preferred over N surgical add-ons if net-deletion-at-callsites is positive.
+- Beads: jleechan-ry3y, jleechan-a5x0, jleechan-fu5b, jleechan-owka
+- PR: https://github.com/jleechanorg/jleechanclaw/pull/615 (HEAD a252489f64135af7df70ef0d494846a5912ff7dd)
+- Origin session: 0045c60d-afe5-4e07-84a6-54dde9b7d8b0
+
+## [2026-06-13] ingest | Auth Catch Recovery e.code Gate (2026-06-07)
+- source: sources/feedback_2026-06-07_auth_catch_recovery_ecode_gate.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-07_auth_catch_recovery_ecode_gate.md (file was filed under worldarchitect-ai not worktree-misc)
+- Post-merge review of worldarchitect.ai PR #7321 (mobile auth hang fallback) found the only root-cause-first violation in its incremental delta: `signInWithPopup` catch block called recovery handler unconditionally — including on user-cancellation codes (`auth/popup-closed-by-user`, `auth/cancelled-popup-request`, `auth/popup-blocked`). User-cancellation is a user action, not a hang — scheduling 5-second reload on those cases is symptom-suppression. Fix: gate on e.code whitelist (`auth/network-request-failed` / `auth/internal-error` / `auth/timeout`) AND `!authDidInitialize` AND `document.visibilityState === 'visible'`. Also renamed `handleVisibilityRecovery` → `scheduleAuthRecoveryIfStranded` to reflect expanded responsibility (visibilitychange + online + sign-in-failure paths). Heuristic for handler rename: if a comment on a teardown line has to be edited to say "and also removes the X listener" — the function name lags the responsibility. Fixed in PR #7349 commit `2fdad5778c` on branch `fix/auth-recovery-rcf-rename`.
+
+## [2026-06-13] ingest | umbrella pattern: empty default + plist-as-source-of-truth
+- source: sources/feedback-2026-06-13-umbrella-pattern-empty-default.md
+- Memory: ~/.claude/projects/-Users-jleechan--hermes/memory/feedback_2026-06-13_umbrella_pattern_empty_default.md
+- Hardcoded `CHANNEL="${FOO:-C0WRONGCHAN}"` is the original sin. Umbrella pattern: every resolver level empty by default, plist is sole source of truth, post fails soft when CHANNEL is empty. PR #681 (agent-orchestrator commit d8940175b) is the canonical regression — hardcoded `C0AJ3SD5C79` (design) in an "ops" var + back-ass guard UNSETS the correct ops channel, ~13h bleed, regression test codified the bug as correct. Fix in PR #687.
+- Bead: jleechan-5mkt
+- Origin session: 0045c60d-afe5-4e07-84a6-54dde9b7d8b0
+
+## [2026-06-13] ingest | Post Skeptic Verdict (one-shot) workflow orphaned (2026-06-13)
+- source: sources/project-2026-06-13-skeptic-post-verdict-workflow-orphaned.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-13_skeptic_post_verdict_workflow_orphaned.md
+- Workflow 266061222 (post-skeptic-verdict.yml) deleted from main; /skeptic comment path is dead; Gate 7 structurally unattainable until workflow restored
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | /learn step 6 fixed to use Skill(wiki-ingest) (2026-06-13)
+- source: sources/feedback-2026-06-13-learn-skill-bypasses-wiki-ingest.md
+- Memory: ~/.claude/projects/-Users-jleechan-llm-wiki/memory/feedback_2026-06-13_learn_skill_bypasses_wiki_ingest.md
+- Manual fallback in /learn step 6 caused direct-Write to wiki; fixed to call Skill('wiki-ingest') explicitly; backfilled 24 memory files
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Umbrella pattern: empty default + plist-as-source-of-truth (2026-06-13)
+- source: sources/feedback-2026-06-13-umbrella-pattern-empty-default.md
+- Memory: ~/.claude/projects/-Users-jleechan--hermes/memory/feedback_2026-06-13_umbrella_pattern_empty_default.md
+- Resolver chain must end empty (not hardcoded); PR #681 (agent-orchestrator d8940175b) hardcoded wrong channel; PR #687 fix; bead jleechan-5mkt
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Slack wrong-thread root cause (4 paths) (2026-06-10)
+- source: sources/feedback-2026-06-10-slack-wrong-thread-root-cause.md
+- Memory: ~/.claude/projects/-Users-jleechan--hermes/memory/feedback_2026-06-10_slack_wrong_thread_root_cause.md
+- 4 paths to wrong-thread Slack posts: watchdog (intentional), ao-progress-reporter (correct), dropped-thread-followup, human_channel_bridge.py
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Level-up v2 PR-A lane-scope cleanup (2026-06-13)
+- source: sources/project-2026-06-13-levelup-v2-pra-lane-scope-cleanup.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-13_levelup_v2_pra_lane_scope_cleanup.md
+- 4 out-of-lane commits reverted on PR-A #7528; spec-allowed 3 files; 11/11 contract tests GREEN; 2 unpushed reverts
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Level-up v2 PR-A full-sheet I4 gate closure (2026-06-13)
+- source: sources/project-2026-06-13-levelup-v2-pra-fullsheet-i4-closure.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-13_levelup_v2_pra_fullsheet_i4_closure.md
+- Real failing gate was I4 (cumulative features vs list-replace merge) — fixed at prompt+test layer; _deep_merge replaces lists wholesale
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | /f pipeline introduces scope drift via autonomous commits (2026-06-13)
+- source: sources/feedback-2026-06-13-dark-factory-introduces-scope-drift.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-13_dark_factory_introduces_scope_drift.md
+- /f not only can't fix scope violations — it INTRODUCES drift via autonomous commits; PR-4 worktree gained 21 divergent commits from a single /f rerun
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | PR #7536 unmergeable: dead function removed by PR #7480 (2026-06-13)
+- source: sources/project-2026-06-13-pr7536-dead-function.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-13_pr7536_dead_function.md
+- PR #7536 tests _bq_log_spell_repair_interaction removed by PR #7480; unmergeable; 4 other blockers (CR rate-limited, runner pool saturated, bead missing)
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Level-up v2 PR series drifted from file-disjoint ownership (2026-06-13)
+- source: sources/feedback-2026-06-13-levelup-v2-scope-drift-stop-f.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-13_levelup_v2_scope_drift_stop_f.md
+- Operator stop signal: PR series drifted from file-disjoint ownership; /f can't fix scope violations — only the operator can; per-PR violations catalogued
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | dark-factory --backend ao serializes per AO project (2026-06-13)
+- source: sources/feedback-2026-06-13-dark-factory-ao-spawn-lock-serializes.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-13_dark_factory_ao_spawn_lock_serializes.md
+- dark-factory --backend ao serializes per AO project; 5 parallel pipelines for 1 project all fail; use --backend claude for true parallel
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Slack misroute surgical fixes don't scale — consolidate via lib (2026-06-13)
+- source: sources/project-2026-06-13-slack-misroute-root-cause-consolidation.md
+- Memory: ~/.claude/projects/-Users-jleechan--hermes/memory/project_2026-06-13_slack_misroute_root_cause_consolidation.md
+- PR #615 consolidates 4 surgical slack fixes into lib/slack_thread_lib.sh; daily thread anchor + dedupe + channel resolution; bead jleechan-owka
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | PR #7546 rebased + cost PR team serialized on llm_service.py (2026-06-13)
+- source: sources/project-2026-06-13-cost-pr-7546-rebased-and-teammate-serialize.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-13_cost_pr_7546_rebased_and_teammate_serialize.md
+- PR #7546 rebased (HEAD 6bb1298657); #7541 subsumed; #7255 needs rebase post-#7546; llm_service.py is the shared-file bottleneck
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | dark-factory /f invocation gotchas (cwd, --ao-project, holdout) (2026-06-13)
+- source: sources/feedback-2026-06-13-dark-factory-invocation-gotchas.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-13_dark_factory_invocation_gotchas.md
+- Three gotchas: cwd must be df root (not worktree); --ao-project worldarchitect (no .ai); sealed holdout fail-closed is correct
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | agy trust prompt: pre-seed targets wrong file (PR #685) (2026-06-13)
+- source: sources/project-2026-06-13-agy-trust-prompt-inner-workspaces.md
+- Memory: ~/.claude/projects/-Users-jleechan-project-agento-agent-orchestrator/memory/project_2026-06-13_agy_trust_prompt_inner_workspaces.md
+- Pre-seed wrote only outer trustedFolders.json, NOT inner antigravity-cli/settings.json trustedWorkspaces; PR #685 (adb8d6572) writes to BOTH; 9/9 stuck-probe deaths = same root cause
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | PR #7541 goal doesn't match commit content (2026-06-13)
+- source: sources/feedback-2026-06-13-bq7541-goal-doesnt-match-commit.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-13_bq7541_goal_doesnt_match_commit.md
+- PR #7541 goal claims 'dual-provider' but commit 136b685905 only has Gemini envelope fix; OpenAI proxy instrumentation absent; cross-check goal text against git diff
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | ao status partial output missed live workers (2026-06-13)
+- source: sources/feedback-2026-06-13-ao-status-partial-output-missed-live-workers.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-13_ao_status_partial_output_missed_live_workers.md
+- ao session ls | head filter hid live worker wa-2325 (11 min WORKING); cross-check with tmux list-sessions + ao status (full) before reporting zero workers
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | PR-4 (#7531) evidence refresh at live HEAD (2026-06-13)
+- source: sources/project-2026-06-13-pr7531-pr4-evidence-refresh.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-13_pr7531_pr4_evidence_refresh.md
+- Refreshed gist 698d84b4 at live HEAD 3f3f33a4a8; 15/2 xfailed lane tests; 603 passed broad 11-file; 0 leak; holdout SEALED/operator-run
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Level-up v2 PR-4 (#7531) gate-run state (2026-06-13)
+- source: sources/project-2026-06-13-pr7531-pr4-gate-state.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-13_pr7531_pr4_gate_state.md
+- PR-4 #7531 world_logic.py:2814/3007 reducer single-writer; 572 lane+resident tests GREEN; cross-file isolation leak is CI-immune pre-existing
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Level-up v2 PR-6 (#7533 god-mode) gate closeout (2026-06-13)
+- source: sources/project-2026-06-13-levelup-v2-pr6-gate-closeout.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-13_levelup_v2_pr6_gate_closeout.md
+- PR-6 #7533 god-mode fold through apply_level_up; 64/222/579 tests GREEN; 1 pre-existing out-of-lane fail; holdout sealed/operator-run
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Level-up v2 PR-5 (#7532 streaming XP) gate closeout (2026-06-13)
+- source: sources/project-2026-06-13-levelup-v2-pr5-gate-closeout.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-13_levelup_v2_pr5_gate_closeout.md
+- PR-5 #7532 XP read-shim + validate_xp_level no-auto-correct; 18/18 lane tests GREEN; 10 broad-suite fails all proven non-PR-5; ZFC gate a PASS
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Level-up v2 PR-3 (#7530 rewards_engine) train gaps (2026-06-13)
+- source: sources/project-2026-06-13-levelup-v2-pr3-state-and-train-gaps.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-13_levelup_v2_pr3_state_and_train_gaps.md
+- PR-3 #7530 rewards_engine v2 shim landed; TWO systemic train-level gaps: review_open not wired into organic flow; server-side atomicity RETIRED
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Level-up v2 PR-2 (#7529 routing) gate-pipeline pass (2026-06-13)
+- source: sources/project-2026-06-13-pr7529-pr2-gate-pipeline.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-13_pr7529_pr2_gate_pipeline.md
+- PR-2 #7529 routing on is_review_open union bridge; 38/38 lane tests; Design Doc Gate 0 fixed via Tenets .md link; holdout operator-run
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Design Doc Gate 0 requires artifact inside Tenets section (2026-06-13)
+- source: sources/feedback-2026-06-13-design-doc-gate0-artifact-inside-tenets.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-13_design_doc_gate0_artifact_inside_tenets.md
+- Gate 0 extracts ONLY Tenets/Design Decision section via awk; .md/rev- link MUST be inside that section, not in Background
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Level-up v2 PR-2 routing bridge: is_review_open OR is_session_active (2026-06-13)
+- source: sources/project-2026-06-13-levelup-v2-pr2-routing-bridge.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-13_levelup_v2_pr2_routing_bridge.md
+- is_review_open OR is_session_active union bridge (Codex P1 fix); canonicalize_rewards fails closed — no session = no level-up pending possible
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Level-up v2 dark-factory gate pipeline (pr_gates_split_cs.dot) (2026-06-13)
+- source: sources/project-2026-06-13-levelup-v2-dark-factory-gate-pipeline.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-13_levelup_v2_dark_factory_gate_pipeline.md
+- pr_gates_split_cs.dot pipeline = holdout → /es → /er → CS fan-out (/zfc, /zfclevel, /thermo) → exit; holdout SEALED, operator-run
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | BQ forensic logging 6 PRs complete + 5 gaps (2026-06-13)
+- source: sources/project-2026-06-13-bq-logging-6pr-complete-gaps-remaining.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-13_bq_logging_6pr_complete_gaps_remaining.md
+- All 6 BQ logging PRs MERGED 2026-06-13; 5 gaps: OpenAI provider, OpenAI streaming proxy, spell repair tokens, duplicates, cache false-positive
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | PR #7372 BQ logging non-streaming MERGED 2026-06-13 (2026-06-12)
+- source: sources/project-2026-06-12-pr7372-bq-nonstram-open.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-12_pr7372_bq_nonstram_open.md
+- PR #7372 MERGED 2026-06-13 00:25Z; 8 log_llm_payload call sites in _call_llm_api; 4 sibling PRs in BQ logging train; 5 gaps remain
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | /claw must always show attach/dashboard/log monitor lines (2026-06-13)
+- source: sources/feedback-2026-06-13-claw-always-show-attach-urls.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-13_claw_always_show_attach_urls.md
+- After every /claw dispatch output attach/dashboard/log monitor lines; AO spawn + Hermes nohup + Slack paths all need monitoring output
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Codergen prompt contract must exempt special shapes (2026-06-13)
+- source: sources/feedback-2026-06-13-special-shape-exemption.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-dark-factory/memory/feedback_2026-06-13_special_shape_exemption.md
+- Codergen prompt contract must exempt topology-only shapes (point, component, tripleoctagon) — they never reach _codergen at runtime
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Prompt pinning test must mirror engine resolution order (2026-06-13)
+- source: sources/feedback-2026-06-13-prompt-pinning-engine-mirror.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-dark-factory/memory/feedback_2026-06-13_prompt_pinning_engine_mirror.md
+- Path-resolution test helper must mirror engine FULL order (workdir → factory_home → absolute) not just dot-dir-relative; F6h test was oversimplified
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Re-run WIP-clean search with different angle before accepting ceiling (2026-06-13)
+- source: sources/feedback-2026-06-13-self-correction-at-ceiling.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-dark-factory/memory/feedback_2026-06-13_self_correction_at_ceiling.md
+- Premature 'no more targets' verdicts wrong 3 times; re-run WIP-clean search with different angle (dir, glob, ext) before accepting ceiling
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Timeout-attrs contract pattern ceiling at 4 pipeline families (2026-06-13)
+- source: sources/feedback-2026-06-13-timeout-attrs-pattern-ceiling.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-dark-factory/memory/feedback_2026-06-13_timeout_attrs_pattern_ceiling.md
+- F5/F6 contract pattern reached stable plateau at 4 pipeline families (factory, slim, airbnb-clone, amazon-clone); pivot to refactor or value-pinning
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Count-pinning tests catch silent regressions (2026-06-13)
+- source: sources/feedback-2026-06-13-count-pinning-tests.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-dark-factory/memory/feedback_2026-06-13_count_pinning_tests.md
+- Test that asserts count of instances fails when structure grows without contract update; cheaper than process doc, harder to skip than comment
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Untracked working files are real work, not orphans (2026-06-13)
+- source: sources/feedback-2026-06-13-promote-untracked-files.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-dark-factory/memory/feedback_2026-06-13_promote_untracked_files.md
+- Untracked files in canonical dirs are usually real work, not orphans; check git log --all first; never rm without asking
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | PR #671 SCM fix verified with real AO workers (2026-06-13)
+- source: sources/project-2026-06-13-scm-fix-verified-real-ao-workers.md
+- Memory: ~/.claude/projects/-Users-jleechan-project-agento-agent-orchestrator/memory/project_2026-06-13_scm_fix_verified_real_ao_workers.md
+- PR #671 (absolute /usr/bin/git paths) verified with 3 real AO workers 2026-06-13 10:22Z; ao-6351 ran git ops successfully; ao-6353 stuck-probe = separate trust-prompt issue
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Green Gate Gate 8 deadlocked by removed mcp-smoke-tests workflow (2026-06-13)
+- source: sources/project-2026-06-13-green-gate-gate8-smoke-workflow-removed.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-13_green_gate_gate8_smoke_workflow_removed.md
+- mcp-smoke-tests.yml removed in PR #7517 (commit b26a5eb1e9) — green-gate Gate 8 still polls for it and times out; ALL production PRs touching mvp_site/**/*.py deadlocked
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | /claw dispatch gotcha: pre-dispatch PR-open check (2026-06-13)
+- source: sources/feedback-2026-06-13-claw-pre-dispatch-pr-open-check.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-13_claw_pre_dispatch_pr_open_check.md
+- Before any /claw 'drive PR X' dispatch, verify PR is OPEN with gh pr view state; user may have closed it and opened a successor; pivot Hermes in same Slack thread
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | ao-update.sh fails on untracked tsc artifacts (2026-06-13)
+- source: sources/feedback-2026-06-13-ao-update-untracked-tsc-artifacts-block.md
+- Memory: ~/.claude/projects/-Users-jleechan-project-agento-agent-orchestrator/memory/feedback_2026-06-13_ao_update_untracked_tsc_artifacts_block.md
+- scripts/ao-update.sh ensure_repo_clean fails on untracked tsc .js/.d.ts in src/; manual deploy: rebuild + pkill + start-all.sh; add patterns to .gitignore
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Rebase before admin-merge batch of 3 (skeptic cooldown PRs) (2026-06-13)
+- source: sources/feedback-2026-06-13-rebase-before-admin-merge-3pr-batch.md
+- Memory: ~/.claude/projects/-Users-jleechan-project-agento-agent-orchestrator/memory/feedback_2026-06-13_rebase_before_admin_merge_3pr_batch.md
+- For 7-green PRs BEHIND main, rebase onto origin/main then admin-merge; works for 3 PRs touching same module (skeptic); #683 → #681 → #679 in 8 min
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Hermes mem0 tp_new crash = protobuf 4.x on py3.14 + never persisted (2026-06-12)
+- source: sources/feedback-2026-06-12-mem0-tpnew-protobuf-py314.md
+- Memory: ~/.claude/projects/-Users-jleechan--hermes/memory/feedback_2026-06-12_mem0_tpnew_protobuf_py314.md
+- Layer 1: protobuf 4.x tp_new crash on py3.14 → upgrade to 6.33.6 + kickstart; Layer 2: mem0 never persisted (cloud placeholder key + dead Qdrant); PR #28 merged self-hosted
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | Slack wrong-thread root cause: 4 paths
+- source: sources/feedback-2026-06-10-slack-wrong-thread-root-cause.md
+- source: sources/feedback-2026-06-12-mem0-tpnew-protobuf-py314.md
+- Memory: ~/.claude/projects/-Users-jleechan--hermes/memory/feedback_2026-06-12_mem0_tpnew_protobuf_py314.md
+- Layer 1: protobuf 4.x tp_new crash on py3.14 → upgrade to 6.33.6 + kickstart; Layer 2: mem0 never persisted (cloud placeholder key + dead Qdrant); PR #28 merged self-hosted
+- Origin session: ingest batch 2026-06-13
+
+## [2026-06-13] ingest | UI fix proof: environment fidelity required
+- source: sources/feedback-2026-06-09-ui-fix-proof-environment-fidelity.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-09_ui_fix_proof_environment_fidelity.md
+- Headless Playwright passing does NOT prove a UI fix works in the user's real browser. RED phase first: test must reproduce the reported bug in matching conditions. PR #7328 (duplicate campaign modal): headless missed (1) Bootstrap `--bs-heading-color` cascade override on `.modal-title` — checked wrong element (.modal-content), (2) stale-localStorage catch-block fallback in `renderCampaignList()` — fresh env never fired it. "Using Playwright headless" satisfies tool-selection rule only, not environment fidelity.
+- Origin session: cad2d26e-a47b-412d-a7c9-70d58bddd0b7
+
+## [2026-06-12] ingest | Local PORT env var contaminates CI tests
+- source: sources/feedback-2026-06-12-local-port-env-contaminates-ci-tests.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-12_local_port_env_contaminates_ci_tests.md
+- Local Flask dev server bound to a non-default `PORT=9130` leaks into the test process and causes `test_gunicorn_config.py::test_bind_address_is_cloud_run_compatible` to assert against the wrong bind address. Run with `PORT=8080` to match the self-hosted CI runner default; check `ps aux | grep flask` before reporting a local port-related test failure.
+
+## [2026-06-11] ingest | Workflow dispatch requires --ref for branch runs
+- source: sources/feedback-2026-06-11-workflow-dispatch-requires-ref.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-11_workflow_dispatch_requires_ref.md
+- `gh api workflow_dispatch` requires `ref` in the body or it 422s with `"ref" wasn't supplied`. `gh workflow run` adds `ref=main` automatically; `gh api` does not. Always include `-f "ref=main"` (or the appropriate branch/SHA) when triggering `mcp-smoke-tests.yml` or any workflow_dispatch via `gh api`.
+
+## [2026-06-13] ingest | Shared System/Tools Gemini Cache Default-ON (PR #7263)
+- source: sources/project-2026-06-05-shared-cache-default-on-pr7263.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-05_shared_cache_default_on_pr7263.md
+- PR #7263 ships Option-2 shared system/tools Gemini cache default-ON, gated to real multi-turn play by skipping test traffic. 74.6% input-token reduction proven via gate-independent A/B (`scripts/shared_cache_ab.py`). `llm_service._should_use_shared_cache(user_id)` mirrors `_should_use_explicit_cache` and wraps all THREE engagement points. Pushed baeedefb68; PR MERGEABLE. Beads rev-n6nbs/rev-biu3j/rev-95rja.
+
+## [2026-06-13] ingest | running.json Missing Blocks `ao spawn`
+- source: sources/feedback-2026-06-05-running-json-missing-blocks-ao-spawn.md
+- Memory: ~/.claude/projects/-Users-jleechan-project-agento-agent-orchestrator/memory/feedback_2026-06-05_running_json_missing_blocks_ao_spawn.md
+- `ao spawn` fails with "AO is not running" even when lifecycle-worker is alive, because `~/.agent-orchestrator/running.json` is only written by `ao start`, not by individual `ao lifecycle-worker <project>` processes. Workaround: write running.json manually with lifecycle-worker PID + correct config path/port.
+
+## [2026-06-13] ingest | Codex --full-auto Flag Broken
+- source: sources/feedback-2026-06-05-codex-full-auto-flag-broken.md
+- Memory: ~/.claude/projects/-Users-jleechan-project-agento-agent-orchestrator/memory/feedback_2026-06-05_codex_full_auto_flag_broken.md
+- Codex CLI no longer accepts --full-auto; `packages/plugins/agent-codex/src/index.ts:840` must use --dangerously-bypass-approvals-and-sandbox instead. Rebuild required: `pnpm --filter @jleechanorg/ao-plugin-agent-codex build && pnpm --filter @jleechanorg/ao-cli build`.
+
+## [2026-06-13] ingest | PR 7226 Time-Rewind Root Cause
+- source: sources/project-2026-06-05-pr7226-time-rewind-root-cause.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worktree_7224_temporal_clean/memory/project_2026-06-05_pr7226_time_rewind_root_cause.md
+- For campaign `i9xdU7P2bNoMpGqfLBHe`, GodModeAgent emitted backward world_time and warning-only validation persisted it (strict=False). Bead rev-lzpla; issue #7307. Fix prompt/schema first per RCF, then narrow pre-persistence backend invariant.
+
+## [2026-06-13] ingest | Dice Audit Monitoring Spec (GCP Heartbeat — Design Only)
+- source: sources/project-2026-06-05-dice-audit-monitoring-spec.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-05_dice_audit_monitoring_spec.md
+- "Dice Telemetry Heartbeat" design: regression signature = `DICE_AUDIT: notation=` INFO heartbeat going SILENT. `conditionAbsent` does NOT reliably fire on log-based metrics (Cloud Monitoring injects synthetic zero) — use `conditionThreshold` `COMPARISON_LT` + `evaluationMissingData: EVALUATION_MISSING_DATA_ACTIVE` + AND-gate with request_count. Daily job: `wa-daily-dice-audit` cron 17 9 * * * ET. Beads rev-1fmed, rev-b3ua9, rev-4rdlp, rev-gid6g, rev-qe641.
+
+## [2026-06-13] ingest | workflow_graphgen Spec + Benchmark IMPLEMENTED (PR #16)
+- source: sources/project-2026-06-04-workflow-graphgen-spec.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-dark-factory/memory/project_2026-06-04_workflow_graphgen_spec.md
+- dark-factory workflow_graphgen feature IMPLEMENTED + smoke-run on `feat_workflow-graphgen-benchmark` (UNPUSHED). Real n=10: NO separation on ANY axis at n=10 (conformance 50/50 & 90/90 perfect tie; tokens_total ranges overlap; wall_ms A+B directionally slower but overlaps). PR #16 7-GREEN at HEAD 56bb22a; 24 Bugbot/CR comments fixed.
+
+## [2026-06-13] ingest | Skeptic Chain agent-orchestrator Fixed
+- source: sources/project-2026-06-05-skeptic-chain-fixed.md
+- Memory: ~/.claude/projects/-Users-jleechan-project-agento-agent-orchestrator/memory/project_2026-06-05_skeptic_chain_fixed.md
+- Skeptic chain was silently broken. Fixed via two config changes in `~/.hermes/agent-orchestrator.yaml`: (1) `reactions.worker-signals-completion.action` was `notify` (only calls notifyHuman) → fixed to `skeptic-review` to read skepticModel/skepticPostComment/skepticPrompt; (2) `projects.agent-orchestrator` had no `scm` stanza; `skeptic-cron-local.ts:153` returns silently with no PRs evaluated. Both must be present for auto-skeptic to work.
+
+## [2026-06-13] ingest | Evidence Gate Claim Floor Override
+- source: sources/feedback-2026-06-05-evidence-gate-claim-floor-override.md
+- Memory: ~/.claude/projects/-Users-jleechan-project-agento-agent-orchestrator/memory/feedback_2026-06-05_evidence_gate_claim_floor_override.md
+- When claim class is `unit` but code files are changed, Evidence Gate exits 1. Fix: add `**Claim floor override**: <justification>` to `## Evidence` section. Use `gh api -X PATCH` directly (not `gh pr edit` which triggers claim-verifier.sh hook that cannot parse bolded `**Verdict**: PASS`).
+
+## [2026-06-13] ingest | Test/Harness Repos MUST Set backfillAllPRs: false
+- source: sources/feedback-2026-06-05-backfillallprs-test-repos.md
+- Memory: ~/.claude/projects/-Users-jleechan-project-agento-agent-orchestrator/memory/feedback_2026-06-05_backfillallprs_test_repos.md
+- Any AO project that is a test harness MUST have `backfillAllPRs: false` explicitly set. mctrl_test storm: 30+ open PRs → 19+ Gemini workers every 5 min → quota stall → DNS starve → system load 104+.
+
+## [2026-06-13] ingest | Skeptic Reaction Action must be skeptic-review, not notify
+- source: sources/feedback-2026-06-05-skeptic-reaction-action-notify.md
+- Memory: ~/.claude/projects/-Users-jleechan-project-agento-agent-orchestrator/memory/feedback_2026-06-05_skeptic_reaction_action_notify.md
+- `worker-signals-completion` reaction action must be `action: skeptic-review`, not `action: notify`. `notify` silently discards the skeptic trigger. When skeptic is not auto-running on new PRs, check this FIRST before deeper investigation. Diagnostic chain: grep action + scm config.
+
+## [2026-06-13] ingest | Skeptic Verdict Worker Down Fleet-Wide (Gate 7 Unreachable)
+- source: sources/project-2026-06-05-skeptic-worker-down-fleetwide-gate7.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-05_skeptic_worker_down_fleetwide_gate7.md
+- PR #7262 was "6/7 green". CORRECTION: 3 TestXPLevelValidation assertions read TOP-LEVEL `result["level_up_pending"]` while one-flag refactor moved to nested. Skeptic pipeline is TWO stages: `skeptic-cron.yml` POSTS triggers, external AO skeptic worker CONSUMES + posts VERDICT. 2026-06-05 worker was down fleet-wide — zero VERDICT comments across 11 open PRs. Beads rev-6o3nb (P1), rev-97y3l (P1).
+
+## [2026-06-13] ingest | AO Skeptic Gate + Killing AO Workers Breaks PR Gate
+- source: sources/project-ao-skeptic-gate-and-worker-kill.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worktree-runner/memory/project_ao_skeptic_gate_and_worker_kill.md
+- Killing AO workers has TWO downstream side effects: takes down Skeptic Gate verdict pipeline (no VERDICT → gate times out failing closed) AND regresses agent-antigravity dist (lifecycle rebuilds dist from live branch). Skeptic Gate manual-verdict workflow documented. Put evidence in gist (not docs/evidence/.md) to avoid CodeRabbit MD040.
+
+## [2026-06-13] ingest | Beads No-Auto-Flush Stops JSONL Churn (PR #7270)
+- source: sources/feedback-2026-06-05-beads-no-auto-flush-stops-jsonl-churn.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-05_beads_no_auto_flush_stops_jsonl_churn.md
+- The fix for 1663/1663 .beads/issues.jsonl reorder churn is `no-auto-flush: true` in `.beads/config.yaml`. Landed on main via PR #7270 (`380f1b5ee4`, 2026-06-04). DB is source of truth locally; under no-auto-flush, beads.db and issues.jsonl can diverge without churn.
+
+## [2026-06-13] ingest | macOS Keychain Popup Multi-Source Decisive Fix
+- source: sources/project-macos-keychain-popup-sources.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worktree-runner/memory/project_macos_keychain_popup_sources.md
+- Three independent headless sources (AO agy, CI runner git, cmux-codex-approve) hit authorization right `system.keychain.create.loginkc`. DECISIVE fix: `sudo security authorizationdb write system.keychain.create.loginkc allow` (changes from evaluate-mechanisms to rule=[allow]). CRITICAL: -25294 log spam ≠ actual popups — measure via SecurityAgent dialog launches, NOT securityd -25294 count.
+
+## [2026-06-13] ingest | MfM8TFz Stuck LevelUpAgent + PR #7262 VERIFIED PASS
+- source: sources/project-2026-06-04-mfm8tfz-stale-levelup-openrouter-verdict.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-04_mfm8tfz_stale_levelup_openrouter_verdict.md
+- Twin-clone repro VERDICT PASS: stale top-level `level_up_pending=True` with `is_level_up_active()=False`. PROVIDER CORRECTION: production is GEMINI 3, not OpenRouter (local-env fidelity bug — twin saw stored-but-disabled OpenRouter key). PR #7262 router fix verified on twin replay FORCED to Gemini 3. LESSON: never trust repro PROVIDER_SELECTION_FINAL as production provider — verify live Firestore doc.
+
+## [2026-06-13] ingest | Ollama >=0.30.x Ships .tar.zst Not .tgz
+- source: sources/feedback-2026-06-05-ollama-tar-zst.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-other-spicy_llm/memory/feedback_2026-06-05_ollama_tar_zst.md
+- Ollama releases from v0.30.x use .tar.zst (zstandard) format instead of .tgz. Dockerfiles must `apt-get install zstd` and extract with `zstd -d /tmp/ollama.tar.zst -o /tmp/ollama.tar` first. Don't use install.sh approach (requires sudo, container env issues).
+
+## [2026-06-13] ingest | GCP L4 Cannot Run gpt-oss MXFP4 Models
+- source: sources/project-2026-06-05-gcp-mxfp4-finding.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-other-spicy_llm/memory/project_2026-06-05_gcp_mxfp4_finding.md
+- Both `gpt-oss:20b` and `svjack/gpt-oss-20b-heretic` fail on Cloud Run L4 (Ada Lovelace, sm_89) with `CUDA error: device kernel image is invalid`. MXFP4 requires Blackwell (sm_100+). L4 and A100 (sm_80) both incompatible. Service deployed, tested, torn down 2026-06-05 (commit 20951ab). Bead jleechan-y39.
+
+## [2026-06-13] ingest | spicy_llm Heretic Phase 1 (M4 Pro)
+- source: sources/project-2026-06-04-spicy-llm-heretic-phase1.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-other-spicy_llm/memory/project_2026-06-04_spicy_llm_heretic_phase1.md
+- Repo state after Phase 1 (prebuilt smoke test): 1 commit unpushed (6992f02), 2 new execution beads, MPS dual-load OOM still unroot-caused, kernels patches known-working but not ported to repo. Hardware: Apple M4 Pro, 14 cores, 51 GB unified memory. Known M4 Pro footguns: kernels import crash on Python 3.12, batch-128 stall, dual-model Ollama OOM.
+
+## [2026-06-13] ingest | Shared System/Tools Cache SPIKE — Verdict GO (PR #7259)
+- source: sources/project-2026-06-04-shared-system-tools-cache-spike-go.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worktree_cost32432/memory/project_2026-06-04_shared_system_tools_cache_spike_go.md
+- SPIKE resolved GO. D1 (real paid Gemini): 99.8% static floor discount on read (cached=8580/prompt=8594). A2 byte-identity: zero leakage (sha256=bde3c4955afef0cc536dc306113d01c916b6fa21b1cde5526de92828c9c33d88). D2: Option 2 = −74%/call, Option 1 = −61% fallback. Storage $1,440/day → $8.64/day. Deferred to impl bead rev-n6nbs.1.
+
+## [2026-06-13] ingest | PR #7251 Green Gate = Async-Skeptic-VERDICT Meta-Gate
+- source: sources/project-2026-06-05-pr7251-green-gate-skeptic-pending.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-05_pr7251_green_gate_skeptic_pending.md
+- PR #7251 ALL CI green (0 failures). Only pending check = "Green Gate". Skeptic scope check classified PRODUCTION-IMPACTING. Green Gate pending = waiting on external AO lifecycle/skeptic worker to post VERDICT, NOT a fixable code issue. Head 0f954357448ed1606c2452febb2665974dac62fc; CodeRabbit APPROVED at head.
+
+## [2026-06-13] ingest | Daily LevelUp Suite Stale Test Contract (PR #7257)
+- source: sources/project-2026-06-04-daily-levelup-suite-stale-test-contract-pr7257.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-04_daily_levelup_suite_stale_test_contract_pr7257.md
+- 2026-06-05 GCP cron failed 4/8. STALE TEST: harness required `xp_gained>0` while production uses `level_up_available=true` (`should_show_rewards_box()`). PR #7257 fixes test-harness only (2 files: testing_mcp/core/test_level_up_organic.py + .beads); zero mvp_site/** change. Bead rev-tspwq (P1) tracks the suite-red god_mode_reward_visibility issue.
+
+## [2026-06-13] ingest | GCP Daily Test Job Infrastructure (PR #7194)
+- source: sources/project-2026-06-04-gcp-daily-test-job-infra.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worktree-misc231412/memory/project_2026-06-04_gcp-daily-test-job-infra.md
+- PR #7194 landed GCP Cloud Run Job (`wa-daily-level-up-test`) infrastructure. Rules: TESTING_AUTH_BYPASS=true mandatory (no K_SERVICE in Jobs); --server-auth auto for dev Cloud Run; CLOUD_RUN_EXECUTION auto-injected; evidence root is /tmp/worldarchitect.ai; upload uses Python (gsutil absent in python:3.11-slim); timeout ≥ 2× runtime. Beads: rev-dbqms, rev-agr6m, rev-9nzqi, rev-5btpt.
+
+## [2026-06-13] ingest | Canonical Level-Up Target Lives in result.rewards_box
+- source: sources/feedback-2026-06-04-rewards-box-canonical-target-not-signal.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-04_rewards_box_canonical_target_not_signal.md
+- A no-cap GREEN validation FAILED as a test-extraction bug. Streaming `done` payload returned `{}` and omitted level_up_signal; model's real output was at `result.rewards_box`. Fix: `post = ctx.get_campaign_state(campaign_id)` then read `post["rewards_box"]`. Canonical level-up evidence = the rewards_box availability layer (5 fields: current_level, new_level, resolved_target_level, level_up_available, source).
+
+## [2026-06-13] ingest | Stuck LevelUpAgent No-Cap Prompt Fix (PR #7251) GREEN
+- source: sources/project-2026-06-04-pr7251-nocap-levelup-stuck-root-cause.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-04_pr7251_nocap_levelup_stuck_root_cause.md
+- Dev campaign `mXhtOccHYGHgV2Tdf0lc` stuck at L20 with 6.4M XP. Real cause = PROHIBITED_CONTENT block (NOT level-20 cap, NOT thinking-exhaustion). Prompt-only no-cap fix GREEN-validated on benign copy; does NOT fix the real blocked campaign. Bead rev-94r2j. Known limitation: helps future non-blocked level-20+ characters.
+
+## [2026-06-13] ingest | Stuck LevelUpAgent Clearing Mechanism Already on Main
+- source: sources/project-2026-06-04-stuck-levelupagent-already-on-main.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai--claude-worktrees-level-up-planning/memory/project_2026-06-04_stuck_levelupagent_already_on_main.md
+- Answer: No open PR is a proven net-new fix. Stale-flag clearing mechanism already exists on main (`rewards_engine.py:1430` + `agents.py:3352`) but is evaded by `level_up_in_progress=true` early-return (`rewards_engine.py:1441-1452`). Stuck case = `level_up_pending=true` AND `level_up_in_progress=true`. Bead rev-vcd2u.
+
+## [2026-06-13] ingest | Green Gate GATE-6 is Hard Evidence-Link Regex
+- source: sources/project-2026-06-04-green-gate-gate6-hard-evidence.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-04_green_gate_gate6_hard_evidence.md
+- `.github/workflows/green-gate.yml` lines 458-469: GATE-6 sets EVIDENCE_REQUIRED=true on mvp_site/ changes; HAS_EVIDENCE requires real media/gist link in body/comments. NO N/A, no docs-only bypass. When change has no LLM/streaming behavior, report GATE-6 as a hard meta-gate blocker — do not fabricate a real-LLM /es run.
+
+## [2026-06-13] ingest | System Instruction Prefix Stability Audit
+- source: sources/project-2026-06-04-system-instruction-prefix-stability-audit.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-04_system_instruction_prefix_stability_audit.md
+- Empirical wire-level capture: only master_directive (~18.6K chars/~4.6K tok) is truly-static cross-agent prefix. The ~37K-tok game_state block is static TEXT but position-shifted by dynamic identity block at agent_prompts.py:2650. ROOT CAUSE: insertion ordering, NOT timestamps/IDs (none injected). Reorder unlocks shared per-agent cache. Bead rev-n6nbs.
+
+## [2026-06-13] ingest | dark-factory Deletion Investigation (PR #647)
+- source: sources/project-2026-06-04-dark-factory-investigation.md
+- Memory: ~/.claude/projects/-Users-jleechan-project-agento-agent-orchestrator/memory/project_2026-06-04_dark_factory_investigation.md
+- May 29 root cause: AO lifecycle worker's pruneStaleWorktrees deleted `~/projects/worldarchitect.ai` because `wa-orchestrator` session had worktree=main clone path. Fix: PR #647 MERGED 2026-05-29 — added `pruneWorktrees` config flag + main-worktree guard. Gap: PR #642 CLOSED without merge — verify coverage. Bead bd-diq.
+
+## [2026-06-13] ingest | Cache-Off Savings PROVEN via BQ Billing Export
+- source: sources/project-2026-06-04-cacheoff-savings-proven-bq.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-04_cacheoff_savings_proven_bq.md
+- Cache-off #7215 zeroed dominant cost SKU (55% of spend) on 2026-06-04 — ~$1.5-3.9K/mo real savings. 7-day SKU split (05-28→06-03): cache-STORAGE $570 (55% of $1,027). Cache-storage SKU: $65-132/day pre-merge → $0.00 on 2026-06-04. Cached-input collapsed $6.81→$0.09. Honest caveat: 06-04 was partial day; multi-day hold still pending.
+
+## [2026-06-13] ingest | consulting-server.cjs Four Pitfalls (PR #466)
+- source: sources/feedback-2026-06-04-consulting-server-fixes.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-ai-universe-frontend/memory/feedback_2026-06-04_consulting-server-fixes.md
+- Four user-visible bugs in scripts/consulting-server.cjs: (1) 302 redirect at root; (2) JS bundles served as HTML (catch-all before static); (3) public/ path with `..`; (4) /api/contact body always undefined (no express.json()). Plus IAM gap: compute SA lacked `roles/secretmanager.secretAccessor` on `email-pass`. PR #466 fixes all 5.
+
+## [2026-06-13] ingest | dark-factory PR #11 Drive to 7-Green MERGED
+- source: sources/project-2026-05-31-pr11-7green-session.md
+- Memory: ~/.claude/projects/-Users-jleechan-projects-dark-factory/memory/project_2026-05-31_pr11_7green_session.md
+- dark-factory PR #11 multi-session drive to 7-Green; MERGED via squash-admin merge `4b8b921afdf972159ce504ee240578088dcbe7f3` (session 11, 2026-06-04). Adds parallel fan-out/fan-in execution (type=parallel, shape=component + type=join) to dark-factory runner for Attractor parity. 25 commits squashed to 1; 170/170 tests, all 7 gates verified.
+
+## [2026-06-11] ingest | PR 7471 evidence gist v3 refresh
+- source: sources/project-2026-06-11-pr7471-evidence-gist-v3-refresh.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-11_pr7471_evidence_gist_v3_refresh.md
+- Lane A pushed `b05b741cc9` ("docs(constants): refresh evidence pointer to 7/7 GREEN at current head ece7187128") to clear the 22:30:24Z CodeRabbit Gate 8 evidence-staleness finding. Bumped test-docstring pointer `8a95897c9a → ece7187128` and evidence gist v2 → v3 with all "current HEAD" refs updated. Lane state: 7/7 GREEN at `b05b741cc9`, branch at parity with origin, working tree clean.
+
+## [2026-06-11] ingest | 12 PR no-op refresh sweep
+- source: sources/project-2026-06-11-12pr-no-op-refresh-sweep.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-11_12pr_no_op_refresh_sweep.md
+- 12+ PRs (#7372/#7377/#7434/#7424/#7457/#7452/#7374/#7473/#7466/#7441/#7438/#7387/#7385/#7382/#7379/#7358/#7357) refreshed with no-op commits + gist evidence links to clear stale Green Gate Gate-3/6 failures. Corrections: `## Design decision & tracking` DOES match Gate 0; Gate 6 evidence regex accepts `gist.github.com/`, `asciinema.org/a/`, `loom.com/share/`, `user-attachments.githubusercontent.com/`, and `*.{mp4,gif,cast}`. Still-blocked on `world_logic.py` 11000-line gate: #7374 (11331) and #7377.
+
+## [2026-06-11] ingest | Lane A PR 7471 implementation verified
+- source: sources/project-2026-06-11-lane-a-pr7471-implementation-verified.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-11_lane_a_pr7471_implementation_verified.md
+- Lane-A worktree (branch `fix/constants-fetchapi-public`, HEAD `1cccf3fc59`) is **fully implemented** for PR #7471: 8 commits, 284+/29- across 4 files, 7/7 RED→GREEN tests. The `/api/constants/models` endpoint is now public via `fetchApi {public: true}` opt-in (only `loadModelConstants()` call site at `app.js:4022`). Operational rule: when a fresh session picks up Lane A, **verify state** — do NOT redo the TDD cycle, and do NOT push fresh commits to satisfy a template.
+
+## [2026-06-13] ingest | Level-up-session verified migration state
+- source: sources/project-2026-06-13-levelup-session-verified-migration-state.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-13_levelup_session_verified_migration_state.md
+- Verified audit @ origin/main 18aadc3c (2026-06-13) corrects 3 false carried-forward findings: `level_up_session.py` exists (916 lines, NOT deleted in #7447), rev-74a8m "zero callers" was symbol-grep artifact, 3 PRs already resolved (#7502 MERGED, #7508/#7452 CLOSED). True state: PR1 partial (2/8 writers), PR2/3/6 not landed, PR4 landed, PR5 partial. Mechanical origin of divergence = two-writer split (reducer vs `world_logic._build_level_up_session_update`). v2 design (supersedes pending state machine): immediate-commit + session-as-record, sole-writer atomic co-write of `player_character_data + level_up_session`, `player_character_data.level` is sole read-authority. Migration M-A→M-F plan. codex cold-review verdict: FAIL on testability, design SOUND.
+
+## [2026-06-13] ingest | Shared worktree subagent race
+- source: sources/feedback-2026-06-13-shared-worktree-subagent-race.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-dark-factory/memory/feedback_2026-06-13_shared_worktree_subagent_race.md
+- 3+ parallel subagents in same git worktree share untracked files. Two failure modes: (1) pytest suite count bleed-through — Lane B's untracked test file gets collected in Lane A's run, inflating "398 passed" to 15+3=18 real delta with +1 overlap; (2) phantom files in `gh pr diff --name-only` from stale base SHA (PRs #53/#55 listed `roadmap/README.md` because base was 85d50e7 while main had advanced to bffac64). Discipline: `git stash --include-untracked && git checkout <branch> && pytest --ignore=tests/test_other_lane.py`; use `git diff --name-only main..<branch>` + `git show <head_sha> --stat` for scope check. Beads: jleechan-cv3, jleechan-g06, jleechan-ua8.
+
+## [2026-06-12] ingest | Subagent discipline: verify linter-revert reports
+- source: sources/feedback-2026-06-12-subagent-discipline-reports.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-dark-factory/memory/feedback_2026-06-12_subagent_discipline_reports.md
+- Subagents can self-report "linter reverted my changes" / "preconditions don't match" that don't match disk reality. 3 failure modes 2026-06-12: (1) L3 reported "linter reverted prompts/codergen.md" — file still on disk; (2) L2 reported "linter reverted bin/* wiring" — no such hook exists; (3) L2 closed jleechan-c5q before fix was wired in. Verify `git status -s` + `git diff --name-only HEAD` + `git stash list` before accepting report. WIP branch diffs are future-merge concern, not current-work concern.
+
+## [2026-06-12] ingest | Skeptic Gate fail-closed on request-id match
+- source: sources/feedback-2026-06-12-skeptic-gate-poll-request-id-match.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-project-agento-agent-orchestrator/memory/feedback_2026-06-12_skeptic_gate_poll_request_id_match.md
+- Skeptic Gate GHA poll (`.github/workflows/skeptic-gate-reusable.yml:451-477`) requires BOTH `<!-- skeptic-request-id-{REQUEST_ID} -->` matching gate's own `gate-{runid}-{attempt}-{pr}-{sha12}` AND `<!-- skeptic-gate-trigger-{ts} -->`. Manual `ao skeptic verify --trigger-sha` posts with `skeptic-request-id-pre-merge-reverify-0614Z` — never matches. Only auto-lifecycle-worker posts matching verdicts. PR #683 was 7-green substantively (Gate-3 APPROVED, 2 LLM verdicts PASS for head 59369dec8) but blocked 15 min on TIMEOUT. Resolution: `gh pr merge N --admin --squash --delete-branch` when substantively 7-green + skeptic-cron structurally stalled. Lifecycle-worker defect: spawns coding agent (ao-6347/6348) instead of `ao skeptic verify --request-id` directly.
+
+## [2026-06-12] ingest | Hermes cron CLI broken + stale babysit jobs
+- source: sources/feedback-2026-06-12-hermes-cron-cli-broken-stale-babysit-jobs.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan--hermes/memory/feedback_2026-06-12_hermes_cron_cli_broken_stale_babysit_jobs.md
+- `hermes cron list`/`pause` crashes at `hermes_cli/cron.py:61` (`'str' object has no attribute 'get'`) when jobs.json has string-schedule. Workaround: edit `~/.hermes_prod/cron/jobs.json` directly (CLAUDE.md documented exception). Per-session AO babysit jobs (e.g. `babysit-wa-2248`, `wa-2302-progress-tick`) accumulate and spam `gateway.error.log` with `channel_not_found` after target channel deleted/renamed. Disable with `enabled:false` + `paused_at` + `paused_reason`; backup first. Leave jobs whose session file was touched recently — only disable stale+erroring ones. Scheduler runs in-gateway, not CLI — verify edit by watching next 5-min fire.
+
+## [2026-06-12] ingest | CodeRabbit DISMISSED-stuck + admin-override merge
+- source: sources/feedback-2026-06-12-coderabbit-dismissed-stuck.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan--hermes/memory/feedback_2026-06-12_coderabbit_dismissed_stuck.md
+- After CHANGES_REQUESTED→fix cycle, CR's formal review `state` can get permanently stuck at `DISMISSED` against stale SHA, while CR confirms fix only in chat prose. Green Gate gate-3 reads formal state → FAIL → skeptic-cron never auto-merges. `@coderabbitai review` is no-op ("does not re-review already reviewed commits"). Resolution = admin override (explicit user auth + substantively 7-green + skeptic-cron stalled). Provenance: PR #611 (deploy.sh PROD_PORT 8643→8642), admin-merged 2026-06-12 20:12Z, merge commit d951fd23a2, old main 2fe2e5fa32. Second variant: CR out of credits/rate-limited → `state=none` (PR #612 Agnt-F SOUL mapping, merge 8aaad833df, old main 313a1b0de0). After squash-merge, local `~/.hermes main` diverges from origin (content-identical, different SHA) — `git reset --hard origin/main` after verifying full tree diff is only auto-regen timestamp noise.
+
+## [2026-06-12] ingest | gh pr create two-remote resolution bug
+- source: sources/feedback-2026-06-12-gh-pr-create-two-remote-bug.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan--hermes/memory/feedback_2026-06-12_gh_pr_create_two_remote_bug.md
+- `gh pr create` fails with `GraphQL: Could not resolve to a Repository` on clones with 2 remotes (origin + fork) due to gh-CLI client-side bug in batched base/head resolution. `gh api`, `gh api graphql`, `git push` all work fine. Workaround: `gh api --method POST repos/<owner>/<repo>/pulls -f title=... -f head=<branch> -f base=main -F body=@/tmp/body.md --jq '...'`. rtk shell wrapper mangles `cat > file <<'EOF'` heredocs (writes content but `wc -c < file` reports 0) — write body files with Write tool, verify with Read. Transient GitHub write-API 404 incident: 404 can still mutate server-side; list open PRs by head branch for true state before retrying.
+
+## [2026-06-12] ingest | Fix-lane as separate agent pattern
+- source: sources/feedback-2026-06-12-fix-lane-separate-agent.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-dark-factory/memory/feedback_2026-06-12_fix_lane_separate_agent.md
+- When 2-lane parallel fanout lands a PR pair and BOTH come back with actionable findings, spawn a fresh fix-lane subagent (read-only on what shipped, then push 1-2 targeted fix commits per PR) — not a continuation of the original lane agents. Original agents are tuned for "build green from spec," not "respond to 5-comment review thread with surgical fixes." Findings: argparse `--bash-argv` greedy flag steals tokens (use JSON-encoded payloads), `exec python` defeats bash EXIT trap (remove exec or subshell wrap), test pollution to `~/.dark-factory/panics/` (use `--panic-dir` flag + tmp_path). Bugbot stale-comment trap: `CHANGES_REQUESTED` from pre-fix review does NOT auto-dismiss on fix commits. Beads: jleechan-8py, jleechan-wou.
+
+## [2026-06-12] ingest | Hermes SOUL.md symlink + auto/commit-pending branch hygiene
+- source: sources/reference-2026-06-12-hermes-soul-symlink-and-autocommit-branch.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan--hermes/memory/reference_2026-06-12_hermes_soul_symlink_and_autocommit_branch.md
+- Root `~/.hermes/SOUL.md` is a SYMLINK → `workspace/SOUL.md` (real 27 KB file). `git show` prints symlink blob text, `git log -S` finds nothing, but `grep` follows symlink. SOUL personalization commits land in `workspace/SOUL.md` — target that for cherry-pick. `auto/commit-pending` branch can carry stale working-tree snapshot (live working tree can be behind origin/main). On 2026-06-12 its `scripts/deploy.sh` was OLD buggy `PROD_PORT=8643` — would have UNDONE merged #611 fix. Before forcing forward: `git diff origin/main -- <file>` per commit; don't trust commit messages or squash-merge detector. `integrate.sh --force` switches to local main, force-resolves divergence, creates `dev<ts>` branch; does NOT delete branches with unmerged commits, so `auto/commit-pending` stays recoverable.
+
+## [2026-06-12] ingest | bd-qw6 skeptic catches warning-mode measured-section contradiction
+- source: sources/feedback-2026-06-12-bd-qw6-measured-section-warning.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worktree-ai/memory/feedback_2026-06-12_bd_qw6_measured_section_warning.md
+- skeptic-self-verify reported `VERDICT: PASS` (all 8 gates) and Bugbot clean, but bd-qw6 (second-pass skeptic, posted by `github-actions[bot]`) flagged real bug in PR #7315: `scripts/daily_gemini_cost_report.py:1682` appends `_format_measured_section(...)` to `report_text` unconditionally after `build_report()` returned warning-only body at line 1240. Warning email said "Spend is NOT being reported" then immediately listed per-campaign `attributed=$12.3400` lines. RED test: stub `load_cost_summary` to force `send_mode=warning`, assert `report_text` contains warning + does NOT contain measured section. GREEN fix: gate measured section on `send_decision["send_mode"] != "warning"`. Treat any bd-qw6 FAIL as real blocker; fix + re-trigger skeptic-self-verify + confirm bd-qw6 PASSes on new head.
+
+## [2026-06-12] ingest | Regrowth-Prevention PR Series (disk_magician)
+- source: sources/project-2026-06-12-regrowth-prevention-prs.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-other-user-scope/memory/project_2026-06-12_regrowth_prevention_prs.md
+- 4-PR regrowth-prevention series shipped to PR #4: A (post-job Docker prune, 17 tests), B (launchd worktree venv sweeper Sunday 04:00, pinned `/opt/homebrew/bin/bash`), C (snapshot freshness + growth-rate + `STALE SNAPSHOT WARNING` at >14400s), D (sweeper health check, 9 tests). 42 passing assertions total.
+
+## [2026-06-12] ingest | CLI Preflight WIP-Avoidance
+- source: sources/feedback-2026-06-12-cli-preflight-wip-avoidance.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-dark-factory/memory/feedback_2026-06-12_cli_preflight_wip_avoidance.md
+- File-disjoint lane pattern: when `runner/__main__.py` + `runner/handlers.py` are WIP, scope new workstream to NEW `runner/preflight.py` + bash wrappers. Preflight returns structured JSON `{status, checks, fallback_recommendation}`; bash gate entry BEFORE exec'ing Python. Exit 2 on fail, exit 0 with stderr warning on warn.
+
+## [2026-06-12] ingest | Standard Bead Follow-up Templates
+- source: sources/feedback-2026-06-12-bead-followup-templates.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worktree_level_quick/memory/feedback_2026-06-12_bead_followup_templates.md
+- Beads from PR/code-review must include PR/head/file-line evidence, severity + safe-fix ranking, module ownership, exact implementation, API/function signatures, call-site examples, acceptance criteria (`rg` checks, targeted tests, `/es` evidence for production `mvp_site/**`). Skill at `~/.claude/skills/bead-followup-templates`.
+
+## [2026-06-12] ingest | Thermo+Simplify Cross-Validation (dark-factory)
+- source: sources/project-2026-06-12-thermo-simplify-cross-validation.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-dark-factory/memory/project_2026-06-12_thermo_simplify_cross_validation.md
+- 4 parallel subagents (2 thermo-nuclear + 2 code-review) on 15K-LOC codebase yielded 52 findings; 12 cross-validated by 2+ agents (high confidence). Findings batched into 9 beads, routed to 3 non-overlapping branches via file-overlap pre-check.
+
+## [2026-06-12] ingest | BQ Follow-up Must Pass Tests and Avoid Duplicate Rows
+- source: sources/feedback-2026-06-12-bq-followup-test-and-duplicate-rows.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worktree_bq_loggin/memory/feedback_2026-06-12_bq_followup_test_and_duplicate_rows.md
+- Post-merge local BQ diff failed targeted verification: 1 failed / 16 passed. `test_bq_logging_integration.py` expected `agent == "stream_narrative_simple"` but captured row had `agent=None`. Local `llm_service.py` diff adds generic post-provider BQ row that can duplicate provider-owned OpenAI-compatible rows. Bead rev-c3v9t.
+
+## [2026-06-12] ingest | PR #7439 Post-Merge Local Diff Requires Follow-up PR
+- source: sources/project-2026-06-12-pr7439-post-merge-local-diff.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worktree_bq_loggin/memory/project_2026-06-12_pr7439_post_merge_local_diff.md
+- PR #7439 MERGED at `2cca3481dccffdd8df1db823165d98c9f39f65ac`. Worktree `worktree_bq_loggin` has uncommitted changes in 4 files + untracked `.playwright-mcp/page-*.yml`. Resume protocol: discard local diff or create fresh follow-up branch with new tests + evidence. Bead rev-gpz0o.
+
+## [2026-06-11] ingest | tmux Video Evidence — .cast Format Required for Gate 6/8c
+- source: sources/feedback-2026-06-11-tmux-video-evidence-cast-format.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-11_tmux_video_evidence_cast_format.md
+- Text gists FAIL Gate 6/8c. Accepted formats: `.mp4/.mov/.gif/.webm/.cast` all HTTPS-linked. PR #7471 v4 text-gist rejected; v5 asciinema `.cast` accepted. `.cast` is text-based JSON (uploads cleanly); `.gif` is binary (gh gist rejects). Lane A fix recipe in 7-section evidence script template.
+
+## [2026-06-12] ingest | Level-Up 8/8 Fleet Closeout (5-Teammate Sonnet)
+- source: sources/project-2026-06-12-levelup-8of8-fleet-closeout.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-12_levelup_8of8_fleet_closeout.md
+- 8/8 daily-cron path complete in open PRs (#7467/#7479/#7452/#7441/#7457/#7474). God-mode root cause = xp_total vs current_xp schema strip. North-star roadmap #7474 CR-APPROVED. Repo hook refuses ALL agent merges; user must run `gh pr merge` themselves.
+
+## [2026-06-11] ingest | fix_a No-Review Issue State
+- source: sources/feedback-2026-06-11-fix-a-no-review-issue-state.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-11_fix_a_no_review_issue_state.md
+- When lane is at parity with `origin/<branch>` AND latest CR review is positive AND all prior review issues already addressed → report `fix_a complete: SHA=<current HEAD>` with no new commit. Distinguish from "CR chat OK + Skeptic FAIL": CR "all good" replies can be chat-style, not formal `APPROVED` events.
+
+## [2026-06-12] ingest | PR #7439 BQ Forensic Logging — MERGED
+- source: sources/project-2026-06-12-pr7439-bq-logging-merged.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-12_pr7439_bq_logging_merged.md
+- 4 streaming paths write to `worldarchitecture-ai.llm_forensics.llm_payloads`: gemini_provider (streaming narrative), llm_parser (stream payload), world_logic (spell repair), llm_service (initial story). Local dev needs `USE_ADC=true` to bypass Firebase SA key lacking BQ roles. Real evidence: 11 rows for campaign `dAKhSamvsVK9cTktcov0`. Bead rev-61wn2.
+
+## [2026-06-11] ingest | PR 7471 process gates pending
+- source: sources/project-2026-06-11-pr7471-process-gates-pending.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-11_pr7471_process_gates_pending.md
+- CodeRabbit at 23:10:08Z said "code logic itself is sound" — only **Gate 3 (human approval)** and **Gate 6 (UI + TDD video at head `596b648d6c`)** remain. The 22:30:24Z CR issues (description/tenet inaccuracies, Gate 8 evidence staleness) were already addressed in `1cccf3fc59`. Per the no-op rule, the next `/fix_a` invocation should report current SHA and NOT invent a fix.
+
+## [2026-06-11] ingest | 10 PR rebase sweep
+- source: sources/project-2026-06-11-10pr-rebase-sweep.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-11_10pr_rebase_sweep.md
+- 10 CONFLICTING PRs (#7397/#7372/#7422/#7424/#7253/#7213/#7236/#7377/#7329/#7434) rebased onto origin/main; all → MERGEABLE with 0 failing checks. Recipes: `git rebase -X theirs` for 100+ file conflicts; take ours for Bugbot defensive code + import-standards issues; `git push origin <sha>:refs/heads/<branch> --force` from detached HEAD (force-with-lease does NOT work there). Predecessor to the 12-PR no-op refresh sweep.
+
+## [2026-06-11] ingest | CR unresolved orphan pattern
+- source: sources/project-2026-06-11-cr-unresolved-orphan-pattern.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-11_cr_unresolved_orphan_pattern.md
+- CodeRabbit's PR-level "X open comments" summary count is stale: comments marked `✅ Addressed in commit <sha>` are still counted, and old review threads on files the PR doesn't touch are reused as "stale orphans." Verified on PR #7467 (7/8 marked Addressed, 1 stale orphan from PR #7242, 914 tests pass). Before dispatching fix subagents, list top-level CR comments, filter to top-level, check each body for the Addressed marker, identify stale orphans.
+
+## [2026-06-11] ingest | Deploy gated evidence gap
+- source: sources/feedback-2026-06-11-deploy-gated-evidence-gap.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-11_deploy_gated_evidence_gap.md
+- "Real user BQ results" gated on merge+deploy+organic traffic cannot be closed by a 2-hour autonomous budget. A test driver bypassing `is_test_user()` with a fixed 28-char Firebase-UID-shaped user_id produces a structural `is_test=false` row from local worktree code, but it is NOT organic (deployed code != PR head, synthetic user_id is structural, only merge+deploy+observed-traffic is organic). Mark bead `BLOCKED ON DEPLOY`, not closed; user is the only merge authority; do not call `gh pr merge`.
+
+## [2026-06-11] ingest | Body edit triggers fresh green gate
+- source: sources/feedback-2026-06-11-body-edit-triggers-fresh-green-gate.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-11_body_edit_triggers_fresh_green_gate.md
+- `gh pr edit --body-file` fires a fresh `pull_request` event and re-runs Green Gate on the same head SHA. Verified on 7 PRs (#7352/#7357/#7424/#7372/#7387/#7379/#7358) for Gate 0/6 fixes — no force-push approval required. Multiple edits in a short window produce cancelled first-runs; the second non-cancelled run is the real verdict.
+
+## [2026-06-13] ingest | Hermes 60-iteration cap commit recovery
+- source: sources/feedback-2026-06-13-hermes-iteration-cap-commit-recovery.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-13_hermes_iteration_cap_commit_recovery.md
+- When an AO worker hits Hermes's 60-iteration cap mid-task with a correct tested diff in a worktree, commit and push from the main session — do not respawn a new worker that would re-derive the same patch. Validated on worktree `wa-7496-streaming-bq` and PR #7509.
+
+## [2026-06-13] ingest | Synthesis path scope drift policy violation
+- source: sources/project-2026-06-13-synthesis-path-scope-drift.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-13_synthesis_path_scope_drift.md
+- The server-side choice synthesis at `mvp_site/world_logic.py:3594-3612` injects `server_generated=True` choices outside the narrow-scope approval granted by PR #7064 at lines 3508-3525. REPRO confirmed on campaign mppfHseT9cy44Ywro4oJ; bead `rev-sls86` is the fix (delete the synthesis branch). The code's own comment self-admits the policy violation.
+
+## [2026-06-13] ingest | BQ log_llm_payload event_type always explicit
+- source: sources/feedback-2026-06-13-bq-event-type-always-explicit.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-13_bq_event_type_always_explicit.md
+- Every `bq_logging.log_llm_payload()` call site must pass an explicit `event_type=` naming the execution path. The default `"llm_payload"` is generic and makes forensic BQ rows unqueryable by path. Discovered post-merge of #7439/#7372 during `llm_forensics.llm_payloads` audit; code review should fail any call without an explicit event_type.
+
+## [2026-06-12] ingest | PR 7467 final head deffe4774 evidence
+- source: sources/project-2026-06-12-pr7467-final-head-deffe4774-evidence.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/project_2026-06-12_pr7467_final_head_deffe4774_evidence.md
+- Real-LLM multi-organic L1->L2->L3->L4 PASS at the final head `deffe477d4` with clean final state (level 4, no stale choices, canonical current_level/target_level signals). Codex FAILed on 2 pre-existing blockers, Bugbot added 3 more (5 total deferred). Per user freeze directive, PR is correctly in freeze state; merge authority is human "MERGE APPROVED", not Green Gate.
+
+## [2026-06-12] ingest | PR 7467 post-rework codex fail
+- source: sources/feedback-2026-06-12-pr7467-post-rework-codex-fail.md
+- Memory: /Users/jleechan/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-12_pr7467_post_rework_codex_fail.md
+- Real-LLM runtime PASS at head `d1873d2dc7` (post V6 prompt rework) but Codex leveling review FAILed on 2 pre-existing backend blockers: auto-selection gap (no `pending_level_up_selections` pre-population) and spell-count clamp (drops 2 of 6 Paladin prepared spells). Both independent of the V6 rework; recommended path is Option A (ship prompt + file follow-up beads).
