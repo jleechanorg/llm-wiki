@@ -389,6 +389,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [SWE-Shepherd Paper](sources/swe-shepherd-paper.md) — PRMs providing step-level supervision for repository-level code agents; arXiv:2604.10493
 - [FM-Agent Paper](sources/fm-agent-paper.md) — LLM-based Hoare-style reasoning for automated specification generation; 522 bugs in 143k LOC; arXiv:2604.11556
 - [OpenClaw Self-Refine Experiment — Cycle 1](sources/openclaw-self-refine-experiment.md) — Self-refine vs baseline on TEST-PR-001; ABANDONED for deterministic fixes; key finding: Context > Self-Critique; token cap hit before convergence
+- [GraphQL resolveReviewThread is the only way to satisfy Green Gate gate 5 (2026-06-14)](sources/feedback-2026-06-14-green-gate-gate5-resolvereviewthread.md) — gate 5 reads GraphQL `isResolved`, not REST comment count; codex-connector threads don't auto-resolve on fix; only GraphQL `resolveReviewThread` mutation per thread satisfies it. Provenance: PR #621, bead jleechan-5xho
+- [Skeptic-cron 93-min gap: 6 online runners busy=true ≠ runner stuck (2026-06-14)](sources/feedback-2026-06-14-skeptic-cron-busy-not-stuck.md) — capacity-saturation failure mode distinct from 0-runner-offline; per-runner busy=true is normal under load; wait 90-120 min before treating as stall. Refines 30-day-old skeptic-cron-runner-offline memory
+- [24h Slack misroute drive final outcome (2026-06-14)](sources/project-2026-06-14-24h-drive-complete.md) — 5/5 misroute classes closed in prod; 7-PR drive (#615-#622) plus 2 recovery PRs (#621, #622); 60min post-deploy Slack scan 0/0/0 across all 5 channels; deploy SHA 91a09d3e15. Bead jleechan-owka closed
 
 ### Agent Improvement & Memory (Layer 1)
 - [Mem²Evolve Paper](sources/mem2evolve-paper.md) — Co-evolutionary framework: experience memory + asset memory, 18.53% improvement; ACL 2026
@@ -6890,3 +6893,8 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Three-tier disk cleanup playbook (2026-06-14)](sources/feedback-2026-06-14-disk-cleanup-three-tier.md) — 15.5GB reclaimed across supervisor launchd logs (1.7GB, automated) + ~/.ao-sessions/wa-* (9.8GB) + /private/tmp/wt-*/wa-* (4GB); safety filters + 14d mtime rule; new cleanup_supervisor_logs.sh wired into disk_audit
 
 - [BQ truly raw logging still vulnerable to 1 MB streaming-insert row limit — 2026-06-13](sources/feedback-2026-06-13-bq-truly-raw-1mb-row-limit.md) — PR #7549 strips multimodal but pure-text request_json > 1 MB still 413s streaming-insert + fail-softs to disk silently; heavy combat state with file_data URIs can hit 1-1.2 MB; fix = pre-check in log_llm_payload, drop column with warning; bead rev-szamx
+- [Pre-push diff check catches phantom reverts of post-merge cleanup work (2026-06-14)](sources/feedback-2026-06-14-pre-push-diff-check-phantom-revert.md) — branch's work merged via PR X can be a REVERT of subsequent main cleanups; always `git diff origin/main..HEAD --stat` before pushing any "looks merged" branch; recovered 2026-06-14 on chore/disable-block-merge-hook (would have re-added 9 dead tests + 1 dead no-op `echo` removed by PR #7563); see [[PhantomRevert]]
+
+## Concepts
+
+- [[PhantomRevert]] — local feature branch whose diff against `origin/main` re-introduces code that a later main commit has explicitly removed. Branch's own gates (CodeRabbit, Green Gate, Skeptic) all evaluate only the branch's own diff and pass cleanly. Supersede relationship is only visible in `git diff origin/main..HEAD`. Detection workflow + recovery pattern documented.

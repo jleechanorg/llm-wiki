@@ -5718,3 +5718,15 @@ Runner pool grew 6→15 (launchd supervisor re-spun 5 offline `bare-org-runner-N
 - Repo: jleechanorg/disk_magician, commit 5b3e3a6 on dev1781402943
 
 ## [2026-06-13] ingest | BQ truly raw logging still vulnerable to 1 MB streaming-insert row limit
+
+## [2026-06-14] ingest | GraphQL resolveReviewThread is the only way to satisfy Green Gate gate 5
+- feedback type; memory: ~/.claude/projects/.../memory/feedback_2026-06-14_green_gate_gate5_resolveReviewThread.md; source: sources/feedback-2026-06-14-green-gate-gate5-resolvereviewthread.md; bead: jleechan-5xho
+
+## [2026-06-14] ingest | Skeptic-cron 93-min gap: 6 online runners busy=true ≠ runner stuck
+- feedback type; memory: ~/.claude/projects/.../memory/feedback_2026-06-14_skeptic_cron_busy_not_stuck.md; source: sources/feedback-2026-06-14-skeptic-cron-busy-not-stuck.md; bead: jleechan-5xho (refines skeptic-cron-runner-offline)
+
+## [2026-06-14] ingest | 24h Slack misroute drive final outcome
+- project type; memory: ~/.claude/projects/.../memory/project_2026-06-14_24h_drive_complete.md; source: sources/project-2026-06-14-24h-drive-complete.md; bead: jleechan-owka (closed)
+
+## [2026-06-14] ingest | Pre-push diff check catches phantom reverts of post-merge cleanup work
+- feedback type; memory: ~/.claude/projects/.../memory/feedback_2026-06-14_pre_push_diff_check_phantom_revert.md; source: sources/feedback-2026-06-14-pre-push-diff-check-phantom-revert.md; bead: none (br sync conflict on feature branch dev1781426388). Companion concept: concepts/PhantomRevert.md
