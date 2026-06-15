@@ -6899,5 +6899,6 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 
 - [[PhantomRevert]] — local feature branch whose diff against `origin/main` re-introduces code that a later main commit has explicitly removed. Branch's own gates (CodeRabbit, Green Gate, Skeptic) all evaluate only the branch's own diff and pass cleanly. Supersede relationship is only visible in `git diff origin/main..HEAD`. Detection workflow + recovery pattern documented.
 
-- [/claw Slack dispatch independent of :8642 (2026-06-15)](sources/feedback-2026-06-15-claw-slack-vs-gateway-dispatch.md)
-- [GG cascade from AO worker PR comments (2026-06-15)](sources/feedback-2026-06-15-gg-cascade-from-pr-comments.md)
+- [/claw Slack dispatch independent of :8642 (2026-06-15)](sources/feedback_2026-06-15_claw_slack_vs_gateway_dispatch.md)
+- [GG cascade from AO worker PR comments (2026-06-15)](sources/feedback_2026-06-15-gg-cascade-from-pr-comments.md)
+- [Inline 7-green drive beats subagent fanout (2026-06-15)](sources/project_2026-06-15_pr7564_7565_merged_after_review.md) — subagent fanout for "drive PRs to 7-green" over-dispatches smoke/GG runs and wastes CI; SKEPTIC_GATE_TRIGGER comment alone does NOT auto-trigger skeptic-self-verify.yml — must use `gh workflow run skeptic-self-verify.yml -f pr_number=N`; `gh pr view --json statusCheckRollup` shows STALE entries from old SHAs — use `gh api .../commits/<sha>/check-runs` for authoritative per-SHA view; for BQ-logging PRs preempt adversarial review with code-review agent classification (LOGGING_ONLY / LOGGING_INFRASTRUCTURE / TEST_ONLY / PROD_BEHAVIOR_CHANGE / NEEDS_HUMAN); bead rev-6wtuj
