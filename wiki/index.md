@@ -6898,3 +6898,6 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 ## Concepts
 
 - [[PhantomRevert]] — local feature branch whose diff against `origin/main` re-introduces code that a later main commit has explicitly removed. Branch's own gates (CodeRabbit, Green Gate, Skeptic) all evaluate only the branch's own diff and pass cleanly. Supersede relationship is only visible in `git diff origin/main..HEAD`. Detection workflow + recovery pattern documented.
+
+- [/claw Slack dispatch independent of :8642 (2026-06-15)](sources/feedback-2026-06-15-claw-slack-vs-gateway-dispatch.md)
+- [GG cascade from AO worker PR comments (2026-06-15)](sources/feedback-2026-06-15-gg-cascade-from-pr-comments.md)
