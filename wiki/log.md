@@ -5730,3 +5730,6 @@ Runner pool grew 6→15 (launchd supervisor re-spun 5 offline `bare-org-runner-N
 
 ## [2026-06-14] ingest | Pre-push diff check catches phantom reverts of post-merge cleanup work
 - feedback type; memory: ~/.claude/projects/.../memory/feedback_2026-06-14_pre_push_diff_check_phantom_revert.md; source: sources/feedback-2026-06-14-pre-push-diff-check-phantom-revert.md; bead: none (br sync conflict on feature branch dev1781426388). Companion concept: concepts/PhantomRevert.md
+
+## [2026-06-15] ingest | /claw Slack dispatch independent of :8642 gateway HTTP
+## [2026-06-15] ingest | Green Gate cancellation cascade from AO worker PR comments
