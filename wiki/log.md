@@ -5733,3 +5733,5 @@ Runner pool grew 6→15 (launchd supervisor re-spun 5 offline `bare-org-runner-N
 
 ## [2026-06-15] ingest | /claw Slack dispatch independent of :8642 gateway HTTP
 ## [2026-06-15] ingest | Green Gate cancellation cascade from AO worker PR comments
+## [2026-06-15] ingest | Inline 7-green drive beats subagent fanout (PRs #7564 + #7565)
+- project type; memory: ~/.claude/projects/.../memory/project_2026-06-15_pr7564_7565_merged_after_review.md; source: sources/project_2026-06-15_pr7564_7565_merged_after_review.md; bead: rev-6wtuj (closed)
