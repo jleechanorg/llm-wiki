@@ -5735,3 +5735,9 @@ Runner pool grew 6→15 (launchd supervisor re-spun 5 offline `bare-org-runner-N
 ## [2026-06-15] ingest | Green Gate cancellation cascade from AO worker PR comments
 ## [2026-06-15] ingest | Inline 7-green drive beats subagent fanout (PRs #7564 + #7565)
 - project type; memory: ~/.claude/projects/.../memory/project_2026-06-15_pr7564_7565_merged_after_review.md; source: sources/project_2026-06-15_pr7564_7565_merged_after_review.md; bead: rev-6wtuj (closed)
+
+## [2026-06-16] ingest | git reset --hard on wrong branch orphans commits (recurrence #2)
+- feedback type; memory: ~/.claude/projects/-Users-jleechan-projects-other-user-scope/memory/feedback_2026-06-16_git_reset_wrong_branch.md; source: sources/feedback-2026-06-16-git-reset-wrong-branch.md; bead: none (br CLI broken on this machine). Companion concept: concepts/IntegrateScriptResetGuard.md (to be created). Related: sources/feedback-2026-05-05-integrate-reset-lost-pr-work.md (first occurrence).
+
+## [2026-06-16] ingest | Drive 2 PRs to /green + merge in 2h (admin override 3rd field instance)
+- project type; memory: ~/.claude/projects/-Users-jleechan--hermes/memory/project_2026-06-16_drive_to_merge_2h.md; source: sources/project-2026-06-16-drive-to-merge-2h.md; bead: jleechan-62kh (closed). PRs #624 (5b anti-misroute rule, 9b024bf0ca) + #625 (umbrella pattern, eabaa385c9) merged 2026-06-16T20:04Z under user `/goal` "drive PRs to /green and merge max 2 hours and we dont need skeptic". Admin override field-proven 3rd time after CR incremental-review-system bug. Post-merge propagation sequence: cp CLAUDE.md to ~/.hermes_prod + re-render installed plist from template + launchctl bootstrap + kickstart + re-run tests.
