@@ -5741,3 +5741,6 @@ Runner pool grew 6→15 (launchd supervisor re-spun 5 offline `bare-org-runner-N
 
 ## [2026-06-16] ingest | Drive 2 PRs to /green + merge in 2h (admin override 3rd field instance)
 - project type; memory: ~/.claude/projects/-Users-jleechan--hermes/memory/project_2026-06-16_drive_to_merge_2h.md; source: sources/project-2026-06-16-drive-to-merge-2h.md; bead: jleechan-62kh (closed). PRs #624 (5b anti-misroute rule, 9b024bf0ca) + #625 (umbrella pattern, eabaa385c9) merged 2026-06-16T20:04Z under user `/goal` "drive PRs to /green and merge max 2 hours and we dont need skeptic". Admin override field-proven 3rd time after CR incremental-review-system bug. Post-merge propagation sequence: cp CLAUDE.md to ~/.hermes_prod + re-render installed plist from template + launchctl bootstrap + kickstart + re-run tests.
+
+## [2026-06-18] ingest | Jeff-Ubuntu CFS leaf_cfs_rq UAF root cause + mitigation
+Hard-freeze root cause confirmed: CFS task_group/leaf_cfs_rq use-after-free in 6.17.x HWE from runner/container cgroup churn, detonated by idle-CPU __update_blocked_fair. New [[concepts/cfs-leaf-cfs-rq-uaf]]. Does not affect [[jeffrey-oracle]].
