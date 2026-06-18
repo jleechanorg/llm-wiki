@@ -6908,3 +6908,4 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 
 - [[CFS leaf_cfs_rq Use-After-Free|concepts/cfs-leaf-cfs-rq-uaf]] — 6.17.x kernel scheduler UAF from cgroup churn; mitigations
 - [[Jeff-Ubuntu CFS leaf_cfs_rq UAF|sources/jeff-ubuntu-cfs-uaf-2026-06-18]] — root cause + mitigation of the hard-freeze saga
+- [PR #7593 RAG Prompt Seam MERGED — original/rag/shadow modes live (2026-06-18)](sources/project-2026-06-18-pr7593-rag-seam-merged.md) — 43.9% token savings confirmed BQ; MEDIA_URL_RE gate bug (missing MULTILINE); Skeptic-smoke timing race documented
