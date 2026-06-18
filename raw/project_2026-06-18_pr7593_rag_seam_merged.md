@@ -1,7 +1,7 @@
 ---
 name: pr7593-rag-seam-merged
 description: PR
-metadata: 
+metadata:
   node_type: memory
   type: project
   bead: none
