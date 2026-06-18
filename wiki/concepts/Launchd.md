@@ -137,3 +137,15 @@ When `launchd/ai.hermes.prod.plist` was never committed, cleanup skipped removin
 and `com.hermes.gateway` regardless of installer state.
 
 See: [[launchd-template-orphan-prevention]] (bead jleechan-xty2, commit `ae17c1bb28`)
+
+## StartInterval silent death (2026-06-17)
+
+Plists using `StartInterval=N` (with `RunAtLoad=true`, `KeepAlive=false`) can silently enter `state = not running, active count = 0` — the schedule stops firing with no error in any log. This was diagnosed via `launchctl print "gui/$(id -u)/<label>"` for `com.jleechan.mcp-daemon` on 2026-06-17, after 5+ minutes had passed without the expected re-fire.
+
+**Recovery:** `launchctl unload <plist> && launchctl load -w <plist>` re-triggers `RunAtLoad`. The `load -w` flag persists the override.
+
+**Durable prevention:** add `KeepAlive` (respawns on crash) or pair `StartInterval` with an external watchdog that runs `launchctl kickstart -k` if the script's last-log timestamp is too old. `StartInterval` alone is fragile because launchd can throttle or stop scheduling the job without surfacing an error.
+
+**Diagnostic tell:** the daemon script's log (`StandardOutPath`/`StandardErrorPath`) shows the last successful run's `[ready]` line, but no subsequent `[starting ... v2]` line at the expected `StartInterval` boundary. There is no other log entry to indicate failure.
+
+See: `sources/feedback-2026-06-17-mcp-daemon-diagnosis-fixes.md` (bead rev-gu8bi, closed) for the full incident writeup.

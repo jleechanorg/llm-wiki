@@ -5746,3 +5746,9 @@ Runner pool grew 6→15 (launchd supervisor re-spun 5 offline `bare-org-runner-N
 Hard-freeze root cause confirmed: CFS task_group/leaf_cfs_rq use-after-free in 6.17.x HWE from runner/container cgroup churn, detonated by idle-CPU __update_blocked_fair. New [[concepts/cfs-leaf-cfs-rq-uaf]]. Does not affect [[jeffrey-oracle]].
 
 ## [2026-06-18] ingest | PR #7593 RAG Prompt Seam MERGED
+
+## [2026-06-18] ingest | MCP daemon: start_stdio_server env drop + launchd silent death
+
+Two latent bugs in `~/.config/mcp-daemon/start-mcp-daemons.sh` broke both worldarchitect and google-docs MCP simultaneously. Bug 1: `start_stdio_server` function signature was `(name, cmd, port)`, missing the `envstr` argument — every stdio server (worldarchitect/context7/gemini-cli/playwright/perplexity/sequential-thinking/memory/ddg/filesystem) had its declared env vars silently dropped at runtime. Bug 2: launchd `StartInterval=300` job `com.jleechan.mcp-daemon` entered `state=not running, active count=0` with no log error, leaving crashed supergateway processes unrespawned. Diagnosis: `launchctl print "gui/$(id -u)/com.jleechan.mcp-daemon"` revealed the dead supervisor. Recovery: `launchctl unload && load -w` re-triggers `RunAtLoad`. Fixes: (a) `start_stdio_server` now takes `${envstr:-}` and applies via the same `IFS=';'` loop as `start_http_server`; (b) worldarchitect SERVERS entry now includes `PYTHONPATH=/Users/jleechan/worldarchitect.ai` to override the dead-worktree path in the uv-tool editable install. Verified: 11/11 servers UP, `curl initialize` returns `serverInfo.name: "worldai-mcp-stdio"`. Bead: rev-gu8bi (closed). Durable follow-up: add `KeepAlive` or external watchdog to com.jleechan.mcp-daemon.plist.
+
+Source: sources/feedback-2026-06-17-mcp-daemon-diagnosis-fixes.md. [[jeffrey-oracle]]: NO.
