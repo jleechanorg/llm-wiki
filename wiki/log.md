@@ -5744,3 +5744,5 @@ Runner pool grew 6→15 (launchd supervisor re-spun 5 offline `bare-org-runner-N
 
 ## [2026-06-18] ingest | Jeff-Ubuntu CFS leaf_cfs_rq UAF root cause + mitigation
 Hard-freeze root cause confirmed: CFS task_group/leaf_cfs_rq use-after-free in 6.17.x HWE from runner/container cgroup churn, detonated by idle-CPU __update_blocked_fair. New [[concepts/cfs-leaf-cfs-rq-uaf]]. Does not affect [[jeffrey-oracle]].
+
+## [2026-06-18] ingest | PR #7593 RAG Prompt Seam MERGED
