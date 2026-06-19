@@ -5790,3 +5790,9 @@ Source: sources/feedback-2026-06-19-integrate-hard-stop-uncommitted-state.md. [[
 PR #7588 (dice-audit refactor). `python3 -c "..." VAR="$VALUE"` — subprocess never gets the variable; KeyError → empty stdout → `gh pr edit --body ""` wipes entire PR body silently. Gate-6 evidence check requires gist/media URL; Gate-6b requires triple-backtick fenced code block (not inline backtick). Fixed by creating a gist and using heredoc to reconstruct body. Green Gate run 27519652330 PASS. Bead rev-18glq.
 
 Source: sources/feedback-2026-06-19-pr-body-wipe-and-gate6-anchor.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-19] ingest | Mobile auth repro fidelity: boundary evidence is not the exact iOS Chrome symptom
+
+WorldArchitect mobile Firebase auth repro lesson. Exact repro requires post-Google-return logged-out welcome UI; Simulator Safari normal/private authenticated successfully and are NON-REPRO. PR #7698 Chromium/WebKit lanes prove the redirect boundary and silent-null storage-eviction mechanism, but remain RELATED evidence until a physical Chrome iOS Incognito or real-device cloud run shows the same user-visible symptom. Bead rev-g7mp3.
+
+Source: sources/project-2026-06-19-mobile-auth-repro-fidelity.md. [[jeffrey-oracle]]: NO.

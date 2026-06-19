@@ -3,7 +3,7 @@ title: "Minimal Repro Ladder"
 type: concept
 tags: [TDD, testing, AI-agents, bug-fixing]
 sources: [openclaw-workshop-notes]
-last_updated: 2026-04-08
+last_updated: 2026-06-19
 ---
 
 ## Definition
@@ -46,3 +46,13 @@ A strict Test-Driven Development philosophy designed specifically for AI generat
 - [[TDD]] - Traditional TDD principles
 - [[HarnessEngineering]] - Part of the harness
 - [[ProofOfWork]] - Test as proof of work
+
+## Same-Symptom Verdict Table
+
+When the faithful surface is unavailable, add an explicit verdict table before accepting lower-level repros:
+
+- `REPRO`: same user-visible symptom on a faithful or explicitly accepted surface.
+- `RELATED`: root-cause mechanism, boundary, or lower-fidelity engine evidence.
+- `NON-REPRO`: the tested path succeeds or fails differently.
+
+The mobile auth repro lesson on 2026-06-19 used this to avoid overstating Chromium/WebKit storage-eviction evidence as physical Chrome iOS Incognito proof. Source: [[project-2026-06-19-mobile-auth-repro-fidelity]].
