@@ -5778,3 +5778,15 @@ The live MiniMax key in `~/.bashrc` (`sk-cp-Rg64V...ULgs1I`) **works** (HTTP 200
 Two reusable verification protocols from one session on 2026-06-19. (1) **Hermes liveness** — 6-check parallel battery (curl /health, pgrep single-instance MUST==1, launchctl state, gateway.log real responses, canary ack, gateway.err.log empty). Trust behavioral evidence over auth-profiles.json path check — false positive in this build; LLM streaming proves auth works. (2) **Merge-readiness** — 5-gate checklist (git status --short empty, commits ahead of main match branch scope, exactly 1 PR exists, reviewDecision=APPROVED+mergeable=true+Skeptic PASS, literal `MERGE APPROVED` in conversation). Also require `scripts/staging-canary.sh` passed (CLAUDE.md Worktree Isolation). Verified on `fix/mcp-daemon-keepalive` (5/5 gates failed: 11 M + 7 ?? uncommitted, no PR, scope creep across mcp-daemon + 5e-detector + launchd-drift-audit + skills/worldarchitect + browserclaw spec). PID 28443 stable 4h+; canary acks 5.5s/7.4s.
 
 Source: sources/feedback-2026-06-19-hermes-liveness-and-merge-readiness.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-19] ingest | integrate.sh hard-stop on uncommitted state — 4-option decision matrix
+
+Second `/learn` of the 2026-06-19 session. `integrate.sh` correctly hard-stopped on `fix/mcp-daemon-keepalive` with 11 uncommitted `M` files plus 7 `??` untracked. The hard-stop is a FEATURE, not a bug — it prevents silent data loss from `git reset --hard origin/main` on a feature branch. Work the 4-option decision matrix in order: (1) split uncommitted changes into scoped PRs, (2) `git add <specific files> && git commit -m "..."` as-is with conventional message, (3) `git stash push -u -m "..."` for later, (4) `git restore` / `git clean` to discard — NEVER `git reset --hard` without explicit in-thread human approval (analog to push-safety rule). Special warning: `workspace/SOUL.md` is a live symlink → `~/.hermes/workspace/SOUL.md`; discarding its `M` silently reverts live policy without warning. Recoverable from reflog within 14-day window via `git branch -f <branch> <sha>`. Companion concepts: [[IntegrateHardStopPattern]] + [[UncommittedStateDecisionMatrix]]. Same-day companion to Hermes liveness + merge-readiness verification (5/5 gates failed on this branch).
+
+Source: sources/feedback-2026-06-19-integrate-hard-stop-uncommitted-state.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-19] ingest | PR body wipe by Python env var error + Green Gate evidence anchor rules
+
+PR #7588 (dice-audit refactor). `python3 -c "..." VAR="$VALUE"` — subprocess never gets the variable; KeyError → empty stdout → `gh pr edit --body ""` wipes entire PR body silently. Gate-6 evidence check requires gist/media URL; Gate-6b requires triple-backtick fenced code block (not inline backtick). Fixed by creating a gist and using heredoc to reconstruct body. Green Gate run 27519652330 PASS. Bead rev-18glq.
+
+Source: sources/feedback-2026-06-19-pr-body-wipe-and-gate6-anchor.md. [[jeffrey-oracle]]: NO.
