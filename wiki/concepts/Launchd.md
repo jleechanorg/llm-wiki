@@ -2,8 +2,8 @@
 title: "launchd"
 type: concept
 tags: [macos, daemon, service-manager]
-sources: [openclaw-tailscale-tunnel-script]
-last_updated: 2026-04-08
+sources: [openclaw-tailscale-tunnel-script, feedback-2026-06-10-launchd-template-orphan-prevention, feedback-2026-06-17-mcp-daemon-diagnosis-fixes, feedback-2026-06-18-launchd-plist-drift, feedback-2026-06-18-user-scope-stack-consolidation]
+last_updated: 2026-06-18
 ---
 
 ## Description
@@ -149,3 +149,26 @@ Plists using `StartInterval=N` (with `RunAtLoad=true`, `KeepAlive=false`) can si
 **Diagnostic tell:** the daemon script's log (`StandardOutPath`/`StandardErrorPath`) shows the last successful run's `[ready]` line, but no subsequent `[starting ... v2]` line at the expected `StartInterval` boundary. There is no other log entry to indicate failure.
 
 See: `sources/feedback-2026-06-17-mcp-daemon-diagnosis-fixes.md` (bead rev-gu8bi, closed) for the full incident writeup.
+
+## Plist drift detection (script-moved-not-plist-orphaned) — 2026-06-18
+
+Distinct from [[template-commit-prevents-orphan]] (which is about plists missing their template). This is the **complementary** failure mode: template exists, plist was bootstrapped correctly — but the script referenced by the plist gets moved or deleted during a later refactor. The plist still points at the old path; launchd retries every 10s (`ThrottleInterval`); exit 127 accumulates silently.
+
+**Diagnostic order:**
+1. `launchctl list | awk '$2=="127" {print $3}'` — list broken plists
+2. For each: `plutil -p ~/Library/LaunchAgents/<label>.plist | grep ProgramArguments` — extract script path
+3. `ls -la <script-path>` — confirm missing
+4. `find ~/.hermes/.claude/worktrees ~/.hermes/.worktrees -name <script-name>` — most "missing" scripts are in old worktrees from prior refactors
+5. Restore per [[launchd-plist-template-rule]] — `cp <worktree>/scripts/<script> ~/.hermes/scripts/ && chmod +x`, then `launchctl kickstart -k gui/$(id -u)/<label>`
+
+**Why this is structurally different from orphan prevention:**
+- Orphan prevention catches plists with no repo template (deploy.sh stage 1b)
+- Drift detection catches scripts that disappear AFTER the plist was installed correctly
+- Both are required for full coverage. The [[launchd-plist-template-rule]] covers install-time. Drift detection covers the multi-month tail.
+
+**Permanent fix (proposed):** nightly audit cron at `~/.hermes/scripts/audit-launchd-drift.sh` that runs the diagnostic above + auto-restores from worktree backups + alerts via `HERMES_OPS_SLACK_CHANNEL`. Bead: [[jleechan-vuh]] (GH issue #709 on jleechanorg/agent-orchestrator).
+
+**Audit snapshot 2026-06-18:** 13 plists at exit 127 (gateway, sync, qdrant wrong-container-name, 10 others), 11 at exit 1, 6 at exit 78, 109 at exit -9 (historical SIGKILL), 248 working. Single host, single day. Without the audit cron this would have been 4-6 weeks of intermittent breakage before someone noticed.
+
+See: `sources/feedback-2026-06-18-launchd-plist-drift.md` (bead jleechan-vuh, GH #709).
+
