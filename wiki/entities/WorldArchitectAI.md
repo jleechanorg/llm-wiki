@@ -1,26 +1,22 @@
 ---
-title: WorldArchitect.AI
+title: "WorldArchitect.AI"
 type: entity
-tags: [project, dnd, ai-gm, game-engine]
-date: 2026-05-16
+tags: [platform, ai-agent, worldbuilding]
+sources: [waitlist-gating-account-switching-flow]
+last_updated: 2026-06-20
 ---
 
-## Summary
-Production D&D 5e AI Game Master platform. Flask + MCP backend, Gemini AI engine with 14 specialized agents, FastEmbed semantic routing, deterministic token budget, dice anti-fabrication, and living world factions. Deployed on Google Cloud Run.
+## Overview
 
-## Key Metrics
-- 14 specialized agents ([agents.py](https://github.com/jleechanorg/worldarchitect.ai/blob/main/mvp_site/agents.py))
-- 30 prompt files, 17,369 lines ([prompts/](https://github.com/jleechanorg/worldarchitect.ai/blob/main/mvp_site/prompts/))
-- 12 living world factions ([faction/](https://github.com/jleechanorg/worldarchitect.ai/blob/main/mvp_site/faction/))
-- 370 test files
-- 684 tracked files in mvp_site/
+WorldArchitect.AI is an AI-powered collaborative worldbuilding platform that enables users to create and share interactive fictional worlds with AI-generated narratives and characters.
 
-## Architecture
-See [[WorldArchitect System Architecture v3.0]] for full deep-dive.
+## Key Systems
 
-## Connections
-- [GeminiAPI](GeminiAPI.md) — primary LLM
-- [FastEmbed](FastEmbed.md) — semantic routing
-- [DiceIntegrity](DiceIntegrity.md) — anti-fabrication
-- [TokenBudget](TokenBudget.md) — token allocation
-- [FactionSystem](FactionSystem.md) — living world
+- **Waitlist Gating** — restricts access to authorized users when `WAITLIST_MODE_ENABLED` is true
+- **Firebase Auth** — primary authentication backend
+- **SPA Routing** — client-side route handling with auth state listeners
+
+## References
+- [[WaitlistGatingMode]] — access control mechanism
+- [[FirebaseAuth]] — authentication system
+- [[PR7705]] — waitlist/auth fix PR

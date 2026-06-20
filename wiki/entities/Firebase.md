@@ -1,18 +1,21 @@
 ---
 title: "Firebase"
 type: entity
-tags: [service, backend, database, google]
-sources: [unified-api-implementation]
-last_updated: 2026-04-08
+tags: [backend, auth, database]
+sources: [waitlist-gating-account-switching-flow]
+last_updated: 2026-06-20
 ---
 
-## Description
-Google's mobile and web application development platform providing Firestore database for WorldArchitect.AI campaign data persistence. Requires service account credentials and clock skew patch handling.
+## Overview
 
-## Key Features
-- **Firestore**: NoSQL database for campaign and game state storage
-- **Service Account Credentials**: File-based or environment variable authentication
-- **Clock Skew Patch**: Custom handling for time-ahead credential issues
+Firebase is Google's mobile and web application development platform. WorldArchitect.AI uses Firebase Authentication for user identity management and Firestore for data persistence.
 
-## Connections
-- [WorldArchitect.AI](WorldArchitect.AI.md) — uses Firebase for data persistence
+## Usage in WorldArchitect.AI
+
+- **Firebase Auth** — `onAuthStateChanged` listener for auth state changes
+- **Google Auth Provider** — `setCustomParameters({ prompt: 'select_account' })` for forced account chooser
+- **Firestore** — `is_waitlist_mode_enabled()` and `get_waitlist_access_status()` for waitlist checks
+
+## References
+- [[WaitlistGatingMode]] — access control mechanism
+- [[OAuthGoogleFlow]] — Google OAuth integration
