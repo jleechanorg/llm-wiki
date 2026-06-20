@@ -1,21 +1,16 @@
 ---
 title: "jleechan"
 type: entity
-tags: [user, preferences]
-sources: [user-preferences-patterns-learnings]
-last_updated: 2026-04-07
+tags: [developer, worldarchitect, firebase-auth, mobile]
+sources: [pr7720-ios-webkit-indexeddb-persistence-deadlock]
+last_updated: 2026-06-20
 ---
 
-User profile based on OpenClaw session analysis:
-- **Identity**: Genesis Coder
-- **Timezone**: America/Los_Angeles
-- **Communication**: WhatsApp primary, Slack secondary
-- **Tone**: Straight to business, direct and practical
-- **Response style**: Terse by default
-- **Signature**: 🦾
+# jleechan
 
-Technical context:
-- Works on jleechanorg/worldarchitect.ai and jleechanorg/jleechanclaw
-- Active PR workflow (5500+ range)
-- Recent focus: BYOK implementation, MCP smoke tests
-- Uses cron jobs for recurring reminders
+GitHub: https://github.com/jleechan2015
+Org page: https://github.com/jleechanorg
+
+Developer on worldarchitect.ai. Author of PR #7720 (iOS WebKit IndexedDB persistence deadlock fix). Also author of [[PR7620]] (predecessor attempt via `setPersistence(LOCAL)`) and the broader Firebase Auth integration in `mvp_site/frontend_v1/auth.js`.
+
+See [[WorldArchitectAI]] for the project context.

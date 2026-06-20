@@ -1,22 +1,19 @@
 ---
 title: "WorldArchitect.AI"
 type: entity
-tags: [platform, ai-agent, worldbuilding]
-sources: [waitlist-gating-account-switching-flow]
+tags: [worldarchitect, mvp-site, firebase-auth, frontend, ios, webkit]
+sources: [pr7720-ios-webkit-indexeddb-persistence-deadlock]
 last_updated: 2026-06-20
 ---
 
-## Overview
+# WorldArchitect.AI
 
-WorldArchitect.AI is an AI-powered collaborative worldbuilding platform that enables users to create and share interactive fictional worlds with AI-generated narratives and characters.
+**Repo:** https://github.com/jleechanorg/worldarchitect.ai
+**Org:** jleechanorg
+**Component touched by [[PR7720]]:** `mvp_site/frontend_v1/auth.js`
 
-## Key Systems
+AI-driven worldbuilding platform with Firebase Auth, multiplayer world state, and dice-integrity systems. Mobile clients use Firebase Auth compat SDK 9.6.1, which historically resolves `Persistence.LOCAL` to `indexedDBLocalPersistence` on iOS WebKit, triggering firebase-js-sdk #8019.
 
-- **Waitlist Gating** — restricts access to authorized users when `WAITLIST_MODE_ENABLED` is true
-- **Firebase Auth** — primary authentication backend
-- **SPA Routing** — client-side route handling with auth state listeners
+The iOS WebKit IndexedDB deadlock (blank game page until cold restart) was debugged ~1 week before [[PR7720]] fixed it via `Object.defineProperty(window, 'indexedDB', {configurable: false, value: undefined})` placed before the first `firebase.auth()` call.
 
-## References
-- [[WaitlistGatingMode]] — access control mechanism
-- [[FirebaseAuth]] — authentication system
-- [[PR7705]] — waitlist/auth fix PR
+Related: [[FirebaseJSSDK]], [[PR7620]], [[PR7697]].
