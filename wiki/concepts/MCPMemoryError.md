@@ -18,4 +18,4 @@ Raised in the following scenarios:
 
 ## Related Concepts
 - [[Exception Handling]] — Python exception patterns
-- [[FAIL-FAST Design]] — error handling philosophy
+- [FAIL-FAST Design](FAIL-FAST Design.md) — error handling philosophy

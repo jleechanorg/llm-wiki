@@ -17,5 +17,5 @@ Game master instructions that override normal game state, typically used to corr
 - Auto-reshot if acknowledgement omitted
 
 ## References
-- [[GameState]] — stores pending_god_mode flag
-- [[LLMService]] — continues story prompt preparation
+- [GameState](GameState.md) — stores pending_god_mode flag
+- [LLMService](LLMService.md) — continues story prompt preparation

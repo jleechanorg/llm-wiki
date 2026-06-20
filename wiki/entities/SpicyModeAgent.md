@@ -9,6 +9,6 @@ last_updated: 2026-04-08
 SpicyModeAgent handles adult content in WorldArchitect. Selected based on user input flags or configuration for literary intimate content mode. Integrates with the same PromptBuilder infrastructure as other agents.
 
 ## Related
-- [[StoryModeAgent]] — standard narrative mode
-- [[GodModeAgent]] — administrative mode
+- [StoryModeAgent](StoryModeAgent.md) — standard narrative mode
+- [GodModeAgent](GodModeAgent.md) — administrative mode
 - [[SpicyModeLiteraryIntimateContentSystemInstruction]] — system instruction source

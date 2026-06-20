@@ -18,9 +18,9 @@ Partnership on AI (PAI) is a multi-stakeholder AI governance organization with m
 
 ## Connections
 
-- [[GovernanceLayer]] — PAI is a multi-stakeholder governance body
-- [[ScalableOversight]] — PAI's Safety-Critical AI Program relates to scalable oversight
+- [GovernanceLayer](../concepts/GovernanceLayer.md) — PAI is a multi-stakeholder governance body
+- [ScalableOversight](../concepts/ScalableOversight.md) — PAI's Safety-Critical AI Program relates to scalable oversight
 - [[FeedbackLoops]] — PAI establishes best practices that create feedback loops in AI development
 
 ## See Also
-- [[GovernanceLayer]]
+- [GovernanceLayer](../concepts/GovernanceLayer.md)

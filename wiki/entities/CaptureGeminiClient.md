@@ -14,6 +14,6 @@ Specialized capture client for Google Gemini API operations. Records generateCon
 - `gemini.embed` — embedding generation
 
 ## Related
-- [[CaptureManager]] — parent orchestrator
-- [[CaptureFirestoreClient]] — parallel client for Firestore
-- [[CaptureAnalyzer]] — operation analysis
+- [CaptureManager](CaptureManager.md) — parent orchestrator
+- [CaptureFirestoreClient](CaptureFirestoreClient.md) — parallel client for Firestore
+- [CaptureAnalyzer](CaptureAnalyzer.md) — operation analysis

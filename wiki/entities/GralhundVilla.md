@@ -11,16 +11,16 @@ The Gralhund Villa is the mansion of the Cassalanter Family in Baldur's Gate. In
 
 ## Key Details
 - **Category:** Location
-- **Campaign(s):** [[nocturne-bg3-v4]], [[nocturne-bg3-v5-fixed-v2]]
+- **Campaign(s):** [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md), [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md)
 - **Setting:** Baldur's Gate Upper City
 - **Owners:** Cassalanter Family
 
 ## Connections
-- [[CassalanterFamily]] — owners of the villa
-- [[NocturneSosuke]] — infiltrates the villa for revenge
+- [CassalanterFamily](CassalanterFamily.md) — owners of the villa
+- [NocturneSosuke](NocturneSosuke.md) — infiltrates the villa for revenge
 - [[SoulCoin]] — the Villa houses the family's soul coin collection
 - [[AscensionGala]] — event held at the villa
 
 ## Appearances
-- [[nocturne-bg3-v4]] — Scene 10-20, infiltration target
-- [[nocturne-bg3-v5-fixed-v2]] — referenced as Cassalanter stronghold
+- [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md) — Scene 10-20, infiltration target
+- [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md) — referenced as Cassalanter stronghold

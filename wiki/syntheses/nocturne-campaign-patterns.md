@@ -63,10 +63,10 @@ Companions provide moral mirrors and mechanical combat options, but Nocturne's m
 
 ## Connections
 
-- [[NocturneSosuke]] — the character entity across all campaigns
+- [NocturneSosuke](../entities/NocturneSosuke.md) — the character entity across all campaigns
 - [[ThirdOption]] — the core cognitive move
 - [[PsychologicalProfile]] — childhood formation, conditional belonging
-- [[SocialHP]] — the mechanical system for social encounters
+- [SocialHP](../concepts/SocialHP.md) — the mechanical system for social encounters
 - [[CassalanterCult]] — recurring faction
-- [[MalcanthetPatron]] — V5 succubus patron contract
+- [MalcanthetPatron](../concepts/MalcanthetPatron.md) — V5 succubus patron contract
 - [[ScaleEscalationFramework]] — why scale escalation works

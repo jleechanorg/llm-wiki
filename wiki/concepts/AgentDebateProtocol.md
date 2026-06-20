@@ -8,7 +8,7 @@ last_updated: 2026-04-14
 
 ## Summary
 
-Agent Debate Protocol is a multi-agent pattern where two or more coding agents argue opposing positions on code correctness, design, or approach — then a judge (another agent or a formal verifier) resolves the disagreement. [[SelfRefine]] showed that self-critique improves code by ~20%; Agent Debate amplifies this by making critique external and adversarial, surfacing blind spots that a single agent's self-critique misses.
+Agent Debate Protocol is a multi-agent pattern where two or more coding agents argue opposing positions on code correctness, design, or approach — then a judge (another agent or a formal verifier) resolves the disagreement. [SelfRefine](SelfRefine.md) showed that self-critique improves code by ~20%; Agent Debate amplifies this by making critique external and adversarial, surfacing blind spots that a single agent's self-critique misses.
 
 ## Key Claims
 
@@ -28,7 +28,7 @@ Judge (Agent C or Formal Verifier): Evaluates arguments, rules on correctness
 → Resolution: Fix issues identified by B, or defend against B's objections
 ```
 
-### Debate as a Form of [[AdversarialTesting]]
+### Debate as a Form of [AdversarialTesting](AdversarialTesting.md)
 
 | Approach | Adversarial Pressure Source | Coverage |
 |----------|----------------------------|----------|
@@ -39,19 +39,19 @@ Judge (Agent C or Formal Verifier): Evaluates arguments, rules on correctness
 
 Agent debate is faster than human review and covers more ground than single-agent self-critique.
 
-### Connection to [[SelfRefine]]
+### Connection to [SelfRefine](SelfRefine.md)
 
-[[SelfRefine]] established that iterative self-critique + revision improves code:
+[SelfRefine](SelfRefine.md) established that iterative self-critique + revision improves code:
 > "Models can identify their own mistakes when given the right critique framework."
 
 Agent Debate externalizes this critique:
 - Instead of Model A criticizing Model A → Model B criticizes Model A
 - Model B brings different framing, different assumptions, different blind spots
-- [[SWE-bench]] problems where self-critique fails are often resolved by adversarial debate
+- [SWE-bench](SWE-bench.md) problems where self-critique fails are often resolved by adversarial debate
 
-### Application to [[VerificationLoop]]
+### Application to [VerificationLoop](VerificationLoop.md)
 
-Debate can be the verification step in [[VerificationLoop]]:
+Debate can be the verification step in [VerificationLoop](VerificationLoop.md):
 ```
 Code Generated → Agent B attacks →
 If attack succeeds: Fix → Agent C judges →
@@ -60,15 +60,15 @@ If defense holds: Pass gate
 
 ## Connections
 
-- [[SelfCritique]] — foundational; Agent Debate externalizes and adversarializes it
-- [[SelfRefine]] — the single-agent precursor; Agent Debate multiplies its effect
-- [[AdversarialTesting]] — debate is a structured form of adversarial challenge
-- [[VerificationLoop]] — debate can serve as the verification step
+- [SelfCritique](SelfCritique.md) — foundational; Agent Debate externalizes and adversarializes it
+- [SelfRefine](SelfRefine.md) — the single-agent precursor; Agent Debate multiplies its effect
+- [AdversarialTesting](AdversarialTesting.md) — debate is a structured form of adversarial challenge
+- [VerificationLoop](VerificationLoop.md) — debate can serve as the verification step
 - [[SkepticAgent]] — the judge in Agent Debate could be a skeptic
-- [[SWE-bench]] — Agent Debate improves SWE-bench pass rates on hard problems
+- [SWE-bench](SWE-bench.md) — Agent Debate improves SWE-bench pass rates on hard problems
 
 ## See Also
 
-- [[SelfCritique]] — single-agent critique
-- [[VerificationLoop]] — where debate fits in the pipeline
-- [[AdversarialTesting]] — broader concept of adversarial challenge
+- [SelfCritique](SelfCritique.md) — single-agent critique
+- [VerificationLoop](VerificationLoop.md) — where debate fits in the pipeline
+- [AdversarialTesting](AdversarialTesting.md) — broader concept of adversarial challenge

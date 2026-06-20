@@ -40,7 +40,7 @@ The Aizen Bg3 campaigns are dark psychological noir campaigns set in post-war Ba
 
 ## Connections
 
-- [[SosukeAizen]] — player character
-- [[TheWhiteGarden]] — base of operations
-- [[BaldursGate]] — setting
-- [[HouseSosuke]] — noble house
+- [SosukeAizen](../entities/SosukeAizen.md) — player character
+- [TheWhiteGarden](../entities/TheWhiteGarden.md) — base of operations
+- [BaldursGate](../entities/BaldursGate.md) — setting
+- [HouseSosuke](../entities/HouseSosuke.md) — noble house

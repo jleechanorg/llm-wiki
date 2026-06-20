@@ -34,6 +34,6 @@ Gaia Julia V5 presents the aftermath - Gaia stripped of her divine right and "ca
 
 - [[Gaia Julia V4 Campaign]] — source campaign (V4)
 - [[Gaia Julia V5 Campaign]] — source campaign (V5)
-- [[Spartacus]] — rebel leader
-- [[Crixus]] — rebel commander
+- [Spartacus](../entities/Spartacus.md) — rebel leader
+- [Crixus](../entities/Crixus.md) — rebel commander
 - [[Gaia Julia Caesar]] — the hidden imperial daughter

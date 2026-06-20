@@ -10,4 +10,4 @@ Module in mvp_site.faction.rankings that calculates faction rankings and progres
 
 ## Connections
 - [[FactionToolDefinitions]] — exposed via tool definition
-- [[FactionCombat]] — related power calculations
+- [FactionCombat](FactionCombat.md) — related power calculations

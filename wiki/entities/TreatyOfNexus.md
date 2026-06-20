@@ -7,7 +7,7 @@ last_updated: 2026-04-08
 ---
 
 ## Overview
-The Treaty of Nexus ended the bipolar conflict between the [[CelestialImperium]] and [[ShatteredHost]], creating the current multi-polar world.
+The Treaty of Nexus ended the bipolar conflict between the [CelestialImperium](CelestialImperium.md) and [ShatteredHost](ShatteredHost.md), creating the current multi-polar world.
 
 ## Key Facts
 - Status: Ended major war

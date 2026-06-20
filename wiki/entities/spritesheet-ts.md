@@ -38,7 +38,7 @@ SpriteSheet.ts is the client-side sprite rendering system in the WorldAI Claw ga
 
 ## Relationship to Other Systems
 
-- Complements [[sprite-generator-service]] as the procedural alternative
+- Complements [sprite-generator-service](sprite-generator-service.md) as the procedural alternative
 - Both feed into the [[SpriteGenerationSystem]]
 - Produces sprites in [[16BitSNESStyleSpriteRendering]] format
 - Aligned with [[ChronoTriggerStyleSpriteSheets]] aesthetic

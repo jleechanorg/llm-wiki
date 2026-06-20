@@ -10,13 +10,13 @@ total_scenes: 277
 
 ## Overview
 
-** Masters' Quarters, Great Pyramid of Astapor appears in 14 scenes across the [[visenya-v2]] campaign.
+** Masters' Quarters, Great Pyramid of Astapor appears in 14 scenes across the [visenya-v2](../sources/visenya-v2.md) campaign.
 
 ## Description
 
 ** Masters' Quarters, Great Pyramid of Astapor is an entity from the visenya-v2 campaign.
 
 ## References
-- [[visenya-v2]] — campaign overview
+- [visenya-v2](../sources/visenya-v2.md) — campaign overview
 - [[visenya-v2-campaign]]
 

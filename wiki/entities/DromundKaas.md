@@ -14,5 +14,5 @@ The Imperial capital where Emperor Vitiate rules and where Nocturne's story unfo
 
 ## Connections
 - [[SithEmpire]] — Controlling faction
-- [[CitadelOfStorms]] — Primary location
+- [CitadelOfStorms](CitadelOfStorms.md) — Primary location
 - [[EmperorVitiate]] — Ruler

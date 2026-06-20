@@ -7,17 +7,17 @@ last_updated: 2026-04-08
 ---
 
 ## Overview
-The Starfall Command is the military faction of the [[CelestialImperium]], organized around the legacy of [[Alexiel]] and believing in martial strength over deliberation.
+The Starfall Command is the military faction of the [CelestialImperium](CelestialImperium.md), organized around the legacy of [Alexiel](Alexiel.md) and believing in martial strength over deliberation.
 
 ## Leadership
 - Led by: Twin princes Cassian and Valerius
 
 ## Key Facts
 - Type: Military faction
-- Parent: [[CelestialImperium]]
+- Parent: [CelestialImperium](CelestialImperium.md)
 - Philosophy: Martial strength over deliberation
-- Legacy: [[Alexiel]]'s memory
+- Legacy: [Alexiel](Alexiel.md)'s memory
 
 ## Relationships
-- Part of: [[CelestialImperium]]
-- Organized around: [[Alexiel]]
+- Part of: [CelestialImperium](CelestialImperium.md)
+- Organized around: [Alexiel](Alexiel.md)

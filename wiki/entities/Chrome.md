@@ -15,6 +15,6 @@ Google Chrome is a web browser used for automated testing via Selenium WebDriver
 - **WebDriver**: ChromeDriver provides WebDriver protocol implementation
 
 ## Connections
-- [[Selenium]] — automation framework
+- [Selenium](Selenium.md) — automation framework
 - [[ChromeWebDriver]] — driver for Chrome control
-- [[BrowserAutomation]] — testing concept
+- [BrowserAutomation](../concepts/BrowserAutomation.md) — testing concept

@@ -8,7 +8,7 @@ last_updated: 2026-04-14
 
 ## Definition
 
-A personal Product Taste Oracle skill that evaluates every PR against codified personal product judgement from the [[ProductTasteLayer]] wiki. Before approving any PR, the Product Judge scores it across 5 dimensions and references specific wiki pages. This ensures PRs match what you actually want — not just technically correct code.
+A personal Product Taste Oracle skill that evaluates every PR against codified personal product judgement from the [ProductTasteLayer](ProductTasteLayer.md) wiki. Before approving any PR, the Product Judge scores it across 5 dimensions and references specific wiki pages. This ensures PRs match what you actually want — not just technically correct code.
 
 ## Product Judgement Rubric (score each 0–100)
 
@@ -31,19 +31,19 @@ Concrete changes to better match my taste
 ## Key Design Choices
 
 - **5-dimension rubric**: Strategic, UX, Simplicity, Maintainability, Business nuance — covers the gap between "correct code" and "right code"
-- **Wiki-grounded judgement**: References [[ProductTasteLayer]] pages (principles, good-bad-examples, taste-rubric) so every verdict is traceable
+- **Wiki-grounded judgement**: References [ProductTasteLayer](ProductTasteLayer.md) pages (principles, good-bad-examples, taste-rubric) so every verdict is traceable
 - **4-tier verdict**: Approve / Minor Changes / Major Changes / Reject — forces a decision
-- **Verdict-dependent on [[TasteLearningLoop]]**: The taste wiki grows over time as you manually correct the agent
+- **Verdict-dependent on [TasteLearningLoop](TasteLearningLoop.md)**: The taste wiki grows over time as you manually correct the agent
 
 ## Integration Points
 
-- Invoked at end of [[AutoResearchLoop]] Phase 3 alongside [[CanonicalCodeScorer]]
-- Uses [[ProductTasteLayer]] wiki pages for judgement references
-- [[TasteLearningLoop]] feeds new examples back into the taste wiki after manual corrections
+- Invoked at end of [AutoResearchLoop](AutoResearchLoop.md) Phase 3 alongside [CanonicalCodeScorer](CanonicalCodeScorer.md)
+- Uses [ProductTasteLayer](ProductTasteLayer.md) wiki pages for judgement references
+- [TasteLearningLoop](TasteLearningLoop.md) feeds new examples back into the taste wiki after manual corrections
 
 ## Related Concepts
 
-- [[ProductTasteLayer]] — the full product taste subsystem this skill is part of
-- [[TasteLearningLoop]] — the loop that updates the taste wiki after manual corrections
-- [[CanonicalCodeScorer]] — runs alongside ProductJudge in the evaluation phase
-- [[AutoResearchLoop]] — invokes ProductJudge as part of its evaluation phase
+- [ProductTasteLayer](ProductTasteLayer.md) — the full product taste subsystem this skill is part of
+- [TasteLearningLoop](TasteLearningLoop.md) — the loop that updates the taste wiki after manual corrections
+- [CanonicalCodeScorer](CanonicalCodeScorer.md) — runs alongside ProductJudge in the evaluation phase
+- [AutoResearchLoop](AutoResearchLoop.md) — invokes ProductJudge as part of its evaluation phase

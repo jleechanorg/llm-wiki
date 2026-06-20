@@ -12,4 +12,4 @@ Step 0 catches three distinct failure modes: lies about what changed (e.g., clai
 
 The oracle has caught Step 0 failures across multiple batches: PR #6130 framed a 225-line test addition as "tooling only," PR #6187 described a new 465-line script as removing a redirect from existing code, PR #6186 modified `settings.json` without listing it in production code changes, and PR #6183 claimed a `>` to `>=` change that the diff showed as unchanged — the second occurrence of that lie on the same PR.
 
-The correct behavior is to describe every file that changes and nothing more. [[jeffrey-oracle]]
+The correct behavior is to describe every file that changes and nothing more. [jeffrey-oracle](../syntheses/jeffrey-oracle.md)

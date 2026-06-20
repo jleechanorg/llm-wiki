@@ -19,5 +19,5 @@ Lord Kaito is the public leader of House Sosuke in Baldur's Gate. He appears to 
 
 ## Connections
 
-- [[HouseSosuke]] — his house
-- [[SosukeAizen]] — his son, true leader
+- [HouseSosuke](HouseSosuke.md) — his house
+- [SosukeAizen](SosukeAizen.md) — his son, true leader

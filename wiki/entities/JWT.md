@@ -10,5 +10,5 @@ last_updated: 2026-04-08
 JSON Web Token authentication system used in WorldArchitect.AI. Vulnerable to clock skew errors when client time differs from server time, causing "Token used too early" errors.
 
 ## Related Concepts
-- [[AuthenticationResilience]] — handling JWT failures gracefully
-- [[ClockSkewHandling]] — detecting and correcting time mismatches
+- [AuthenticationResilience](../concepts/AuthenticationResilience.md) — handling JWT failures gracefully
+- [ClockSkewHandling](../concepts/ClockSkewHandling.md) — detecting and correcting time mismatches

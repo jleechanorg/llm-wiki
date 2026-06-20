@@ -10,13 +10,13 @@ total_scenes: 474
 
 ## Overview
 
-** Training Pits, House of Batiatus (Capua) appears in 3 scenes across the [[rome-pax-julia]] campaign.
+** Training Pits, House of Batiatus (Capua) appears in 3 scenes across the [rome-pax-julia](../sources/rome-pax-julia.md) campaign.
 
 ## Description
 
 ** Training Pits, House of Batiatus (Capua) is an entity from the rome-pax-julia campaign.
 
 ## References
-- [[rome-pax-julia]] — campaign overview
-- [[rome-pax-julia-campaign]]
+- [rome-pax-julia](../sources/rome-pax-julia.md) — campaign overview
+- [rome-pax-julia-campaign](../sources/rome-pax-julia-campaign.md)
 

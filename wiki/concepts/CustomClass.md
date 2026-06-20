@@ -17,6 +17,6 @@ Homebrew character class creation method allowing players to design custom class
 - Balance against standard classes
 
 ## Related Concepts
-- [[AIGenerated]] — AI-assisted creation
-- [[StandardDND]] — manual creation
-- [[Attunement]] — configurable magical item slots
+- [AIGenerated](AIGenerated.md) — AI-assisted creation
+- [StandardDND](StandardDND.md) — manual creation
+- [Attunement](Attunement.md) — configurable magical item slots

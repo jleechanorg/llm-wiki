@@ -18,6 +18,6 @@ The Divine Scion is a prestige class combining elements of a Siren and another d
 The signature ability of the Divine Scion — a soul conversion mechanic that allows the character to transform others through divine power.
 
 ## Connections
-- [[NocturneBg3V7]] — Practitioner
-- [[MothersMercy]] — Key ability
-- [[ThrallSystem]] — Companion mechanics
+- [NocturneBg3V7](../entities/NocturneBg3V7.md) — Practitioner
+- [MothersMercy](MothersMercy.md) — Key ability
+- [ThrallSystem](ThrallSystem.md) — Companion mechanics

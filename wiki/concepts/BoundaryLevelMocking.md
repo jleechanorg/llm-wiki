@@ -19,5 +19,5 @@ This pattern enables full-stack testing while maintaining test reliability. By m
 This is contrasted with mocking entire service modules, which masks internal bugs.
 
 ## Related
-- [[empty-phase2-streaming-response-e2e-tests]]
-- [[streaming-sse-contract-e2e-tests]]
+- [empty-phase2-streaming-response-e2e-tests](../sources/empty-phase2-streaming-response-e2e-tests.md)
+- [streaming-sse-contract-e2e-tests](../sources/streaming-sse-contract-e2e-tests.md)

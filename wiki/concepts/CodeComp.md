@@ -33,5 +33,5 @@ Attention-only KV cache compression drops structurally important tokens (functio
 
 - [[KVCacheCompression]] — CodeComp is a specific technique within this category
 - [[CodePropertyGraph]] — the static analysis structure that drives compression decisions
-- [[AgentArchitecture]] — addresses memory/architecture constraints for coding agents
-- [[StaticAnalysis]] — Joern/CPG-based static analysis is the compression signal
+- [AgentArchitecture](AgentArchitecture.md) — addresses memory/architecture constraints for coding agents
+- [StaticAnalysis](StaticAnalysis.md) — Joern/CPG-based static analysis is the compression signal

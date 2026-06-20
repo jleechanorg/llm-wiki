@@ -21,5 +21,5 @@ The merge conflict in base_test.py involved console output capture:
 - Better integration with logging infrastructure
 
 ## Related Concepts
-- [[MergeConflictResolution]] — Where this decision was made
+- [MergeConflictResolution](MergeConflictResolution.md) — Where this decision was made
 - [[ConsoleOutputCapture]] — Specific use case in testing

@@ -24,7 +24,7 @@ The Nautiloid is a mind flayer vessel — a colossal organic ship crewed and con
 The bg3-astarion campaign opens on the Nautiloid where Astarion and other potential companions (Shadowheart, Lae'zel, Gale, Wyll, Karlach, Halsin) are held as captives with illithid tadpoles. The escape from this vessel forms the opening sequence and establishes the immediate threat (tadpole ceremorphosis) that drives the party's cooperation.
 
 ## Connections
-- [[AstarionAncunin]] — player character
-- [[bg3-astarion-campaign]] — source campaign
+- [AstarionAncunin](../entities/AstarionAncunin.md) — player character
+- [bg3-astarion-campaign](../sources/bg3-astarion-campaign.md) — source campaign
 - [[MindFlayer]] — species that commands the ship
 - [[IllithidTadpole]] — threat to all captives

@@ -22,7 +22,7 @@ gh pr view <N> --json comments --jq \
 Empty output = 7-green NOT proven for this HEAD.
 
 ## Related
-- [[pr7048-location-centralization-merged]]
+- [pr7048-location-centralization-merged](../sources/pr7048-location-centralization-merged.md)
 - [[Green-Gate-Timing]]
 
 ## Source

@@ -15,5 +15,5 @@ UI pattern for multi-step processes (like campaign creation) where a wizard comp
 - Navigation handlers must call enable() after route changes
 
 ## Connections
-- [[CampaignWizard]] — implementation of wizard pattern
-- [[NavigationHandler]] — must coordinate with wizard state
+- [CampaignWizard](CampaignWizard.md) — implementation of wizard pattern
+- [NavigationHandler](NavigationHandler.md) — must coordinate with wizard state

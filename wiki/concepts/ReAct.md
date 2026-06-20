@@ -29,5 +29,5 @@ Reasoning traces help the model:
 
 - Foundation for [[Chain-of-Thought]] prompting research
 - Precursor to [[Tool-Use]] agent frameworks
-- Extended by [[SelfRefine]] — adds critique step to the loop
+- Extended by [SelfRefine](SelfRefine.md) — adds critique step to the loop
 - [[E3-TIR]] extends tool-integrated reasoning

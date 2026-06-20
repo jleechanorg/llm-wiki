@@ -13,4 +13,4 @@ Cassian is the player-referenced NPC in entity instruction tests. Marked as mand
 - Mandatory entity instruction type with priority=1
 - "The player specifically mentioned Cassian" triggers mandatory requirement
 
-**Related concepts:** [[EntityInstructionGenerator]], [[EntityEnforcementChecker]]
+**Related concepts:** [EntityInstructionGenerator](EntityInstructionGenerator.md), [EntityEnforcementChecker](../concepts/EntityEnforcementChecker.md)

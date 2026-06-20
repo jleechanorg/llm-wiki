@@ -25,6 +25,6 @@ Aegon serves under Ser Gregor Clegane ("The Mountain") as an audition for his me
 
 ## Connections
 
-- [[SerGregorClegane]] — commander of the mercenary company Aegon serves under
+- [SerGregorClegane](SerGregorClegane.md) — commander of the mercenary company Aegon serves under
 - [[Gregor'sMountainMen]] — the mercenary company
-- [[AemonGameOfThrones]] — the parent campaign
+- [AemonGameOfThrones](../concepts/AemonGameOfThrones.md) — the parent campaign

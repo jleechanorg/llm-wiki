@@ -20,9 +20,9 @@ The Elfsong Tavern serves as a liminal space — a place where different social 
 
 ## Connections
 
-- [[Gladius]] — Player character
+- [Gladius](Gladius.md) — Player character
 - [[MercSoloBruteGladiusCampaign]] — Campaign
 - [[LowerCityBaldursGate]] — City district
-- [[BaldursGate]] — City
+- [BaldursGate](BaldursGate.md) — City
 - [[LordSilvanus]] — Initial quest giver
-- [[NocturnePostBg3Zhent]] — Base location
+- [NocturnePostBg3Zhent](NocturnePostBg3Zhent.md) — Base location

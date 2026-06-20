@@ -27,8 +27,8 @@ Three separate PRs (#6844, #6842, #6825) independently discovered stale-flag bug
 
 ## Related
 
-- [[AdministrativeStatePoisoning]] — the disease this pattern fixes
-- [[StaleFlag]] — the symptom
-- [[ModalIntersection]] — intersection of concurrent modal systems
-- [[ZeroFrameworkCognition]] — admin overrides violate server-ownership boundary
-- [[WorldLogicStrip]] — where overrides live
+- [AdministrativeStatePoisoning](AdministrativeStatePoisoning.md) — the disease this pattern fixes
+- [StaleFlag](StaleFlag.md) — the symptom
+- [ModalIntersection](ModalIntersection.md) — intersection of concurrent modal systems
+- [ZeroFrameworkCognition](ZeroFrameworkCognition.md) — admin overrides violate server-ownership boundary
+- [WorldLogicStrip](WorldLogicStrip.md) — where overrides live

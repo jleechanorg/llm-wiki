@@ -12,4 +12,4 @@ The maximum number of tokens allowed for model input, determined by the model's 
 ## Connections
 - [[Token Estimation]] — measures content against budget
 - [[Adaptive Context Truncation]] — responds to budget constraints
-- [[Cerebras]] — example model with 131K context limit
+- [Cerebras](../entities/Cerebras.md) — example model with 131K context limit

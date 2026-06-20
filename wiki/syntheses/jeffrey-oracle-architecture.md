@@ -53,4 +53,4 @@ Before approving architectural work, ask:
 - Factory pattern with untested fallback/default path
 
 ## Parent Oracle
-[[jeffrey-oracle]] — the full decision framework
+[jeffrey-oracle](jeffrey-oracle.md) — the full decision framework

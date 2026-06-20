@@ -26,5 +26,5 @@ The process of validating that code was actually executed by examining tool resu
 - Includes tool execution status and code analysis results
 
 ## Related Concepts
-- [[DiceFabricationDetection]] — uses verification results
+- [DiceFabricationDetection](DiceFabricationDetection.md) — uses verification results
 - [[ToolResultValidation]] — validating tool execution output

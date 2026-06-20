@@ -14,5 +14,5 @@ Easing functions define how animation values change over time, creating natural-
 - Ease-out: `cubic-bezier(0, 0, 0.2, 1)` — decelerate to stop
 
 ## Related Concepts
-- [[AnimationSystem]] — uses easing functions
+- [AnimationSystem](AnimationSystem.md) — uses easing functions
 - [[KeyframeAnimations]] — often paired with easing

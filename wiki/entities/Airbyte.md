@@ -22,10 +22,10 @@ Airbyte is an open-source data integration platform that also provides an Agent 
 
 ## Connections
 
-- [[ModelContextProtocol]] — Airbyte implements MCP for agent-data source interaction
-- [[WorkflowEngine]] — Airbyte Agent Engine orchestrates data pipelines for agents
+- [ModelContextProtocol](../concepts/ModelContextProtocol.md) — Airbyte implements MCP for agent-data source interaction
+- [WorkflowEngine](../concepts/WorkflowEngine.md) — Airbyte Agent Engine orchestrates data pipelines for agents
 - [[Temporal]] — competing workflow engine with durable execution
 
 ## See Also
-- [[ModelContextProtocol]]
-- [[WorkflowEngine]]
+- [ModelContextProtocol](../concepts/ModelContextProtocol.md)
+- [WorkflowEngine](../concepts/WorkflowEngine.md)

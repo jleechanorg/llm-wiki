@@ -15,8 +15,8 @@ JavaScript class providing enhanced search functionality in the WorldArchitect f
 - generateSearchHTML — generates search results display
 
 ## Related Components
-- [[InterfaceManager]] — integrates with interface system
-- [[CampaignWizard]] — complementary Milestone 4 feature
+- [InterfaceManager](InterfaceManager.md) — integrates with interface system
+- [CampaignWizard](CampaignWizard.md) — complementary Milestone 4 feature
 
 ## Source Reference
 Validated by [[Milestone 4 Interactive Features Tests]]

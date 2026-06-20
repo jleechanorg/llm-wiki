@@ -10,13 +10,13 @@ total_scenes: 108
 
 ## Overview
 
-** Vesuvius Foothills (Rebel Encirclement) appears in 7 scenes across the [[aurelius-caesar-v3]] campaign.
+** Vesuvius Foothills (Rebel Encirclement) appears in 7 scenes across the [aurelius-caesar-v3](../sources/aurelius-caesar-v3.md) campaign.
 
 ## Description
 
 ** Vesuvius Foothills (Rebel Encirclement) is an entity from the aurelius-caesar-v3 campaign.
 
 ## References
-- [[aurelius-caesar-v3]] — campaign overview
-- [[aurelius-caesar-v3-campaign]]
+- [aurelius-caesar-v3](../sources/aurelius-caesar-v3.md) — campaign overview
+- [aurelius-caesar-v3-campaign](../sources/aurelius-caesar-v3-campaign.md)
 

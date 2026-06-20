@@ -27,6 +27,6 @@ Agents in **coding and testing phases** pose the highest security risk — they 
 
 ## Connections
 
-- Related to [[MetaGPT]] — same frameworks studied
-- [[VibeCodingSafe]] — security implications of agent adoption
-- [[ZeroFrameworkCognition]] — safety considerations
+- Related to [MetaGPT](MetaGPT.md) — same frameworks studied
+- [VibeCodingSafe](VibeCodingSafe.md) — security implications of agent adoption
+- [ZeroFrameworkCognition](ZeroFrameworkCognition.md) — safety considerations

@@ -23,6 +23,6 @@ Debug tags detection is the process of automatically identifying and extracting 
 - Preserving resource tracking (HD, Spells) in structured form
 
 ## Related Concepts
-- [[LLMResponse]] — class that implements debug tags detection
+- [LLMResponse](LLMResponse.md) — class that implements debug tags detection
 - [[State Updates Extraction]] — complementary extraction of game state changes
 - [[Entities Mentioned Detection]] — extraction of named entities from narrative

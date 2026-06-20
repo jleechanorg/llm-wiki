@@ -37,6 +37,6 @@ JSON config (`config.json` or `config.json.template`).
 - `cleanup_thresholds` — age/usage thresholds for `clean` candidates
 
 ## See also
-- [[DiskMagicianDiscover]] — the subcommand with the documented latent bugs
+- [DiskMagicianDiscover](../concepts/DiskMagicianDiscover.md) — the subcommand with the documented latent bugs
 - [[RegrowthPrevention]] — the broader workflow that depends on accurate snapshots
-- [[feedback-2026-06-13-disk-snapshot-discover-bugs]] — the bug-fix memory
+- [feedback-2026-06-13-disk-snapshot-discover-bugs](../sources/feedback-2026-06-13-disk-snapshot-discover-bugs.md) — the bug-fix memory

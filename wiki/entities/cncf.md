@@ -16,13 +16,13 @@ The CNCF is the Linux Foundation organization that hosts cloud-native open-sourc
 - **Governance**: CNCF provides legal, operational, and marketing support for member projects
 
 ## Connections
-- [[OPA]] — CNCF graduated project; OPA's policy decoupling is the foundational pattern
-- [[ArgoCD]] — CNCF project; GitOps policy enforcement partner
+- [OPA](OPA.md) — CNCF graduated project; OPA's policy decoupling is the foundational pattern
+- [ArgoCD](ArgoCD.md) — CNCF project; GitOps policy enforcement partner
 - [[Envoy-Istio]] — CNCF project; service mesh with OPA integration points
-- [[OPA-Gatekeeper]] — CNCF project; Kubernetes admission control for OPA
+- [OPA-Gatekeeper](OPA-Gatekeeper.md) — CNCF project; Kubernetes admission control for OPA
 
 ## See Also
-- [[OPA]]
-- [[OPA-Gatekeeper]]
-- [[GitOps]]
+- [OPA](OPA.md)
+- [OPA-Gatekeeper](OPA-Gatekeeper.md)
+- [GitOps](../concepts/GitOps.md)
 - [[Policy-as-Code]]

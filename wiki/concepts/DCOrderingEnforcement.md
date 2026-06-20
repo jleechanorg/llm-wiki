@@ -32,5 +32,5 @@ dc = 15                   # Set after roll
 ```
 
 ## Related Concepts
-- [[DiceRollingProtocol]] — enforced by dice protocol
-- [[CodeExecutionMode]] — inspection happens in this mode
+- [DiceRollingProtocol](DiceRollingProtocol.md) — enforced by dice protocol
+- [CodeExecutionMode](CodeExecutionMode.md) — inspection happens in this mode

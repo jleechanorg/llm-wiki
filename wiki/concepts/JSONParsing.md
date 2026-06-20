@@ -18,6 +18,6 @@ Previous implementation used markdown blocks like [STATE_UPDATES_PROPOSED] which
 - JSON mode takes precedence over markdown blocks
 
 ## Connections
-- [[StateUpdates]] — the data being parsed
-- [[ParseStructuredResponse]] — the function that performs parsing
+- [StateUpdates](StateUpdates.md) — the data being parsed
+- [ParseStructuredResponse](ParseStructuredResponse.md) — the function that performs parsing
 - [[StateUpdateIntegrationTests]] — tests this concept

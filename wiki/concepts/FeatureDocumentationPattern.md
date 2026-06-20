@@ -26,6 +26,6 @@ feature_name_evidence/
 - Enables feature comparison and analysis
 
 ## Related Concepts
-- [[DocumentationStandards]]
+- [DocumentationStandards](DocumentationStandards.md)
 - [[TechnicalSpecifications]]
 - [[EvidenceStandards]]

@@ -20,6 +20,6 @@ Internal counter tracking all story entries (user inputs + AI responses). Used f
 - Turn counter preserves full history; scene number shows progression
 
 ## Related Concepts
-- [[SceneNumbering]] - User-facing display
+- [SceneNumbering](SceneNumbering.md) - User-facing display
 - [[SequenceID]] - Absolute array position
 - [[StoryEntry]] - Individual entry record

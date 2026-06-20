@@ -63,7 +63,7 @@ Agents post classification notes, audit comments, and proof observations as prog
 
 ## Related Concepts
 
-- [[ZeroFrameworkCognition]] — The design principle agents keep violating
-- [[AgentDrift]] — The broader category this pattern belongs to
-- [[Harness5LayerModel]] — Machine enforcement is L1; skill context is L2
-- [[ScopeDrift]] — The PR-level manifestation of uncontrolled scope
+- [ZeroFrameworkCognition](ZeroFrameworkCognition.md) — The design principle agents keep violating
+- [AgentDrift](AgentDrift.md) — The broader category this pattern belongs to
+- [Harness5LayerModel](Harness5LayerModel.md) — Machine enforcement is L1; skill context is L2
+- [ScopeDrift](ScopeDrift.md) — The PR-level manifestation of uncontrolled scope

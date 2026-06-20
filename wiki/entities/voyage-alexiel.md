@@ -9,7 +9,7 @@ campaign_note: "**SAME CHARACTER across all Assiah campaigns** — Lucifer's cre
 
 ## Early Career (Year 61–78 DR)
 
-Alexiel was created by **[[Lucifer]]** as the ultimate weapon of the Unchained Host. Born in Year 61 DR, she was a biological construct — a peerless warrior and secret sorcerer, a prodigy whose true nature was hidden even from her creator. For sixteen years she served as the Host's "Prodigal Sword," all the while cultivating the persona of the "Reluctant Champion" — a dutiful warrior who hated the violence she excelled at.
+Alexiel was created by **[Lucifer](Lucifer.md)** as the ultimate weapon of the Unchained Host. Born in Year 61 DR, she was a biological construct — a peerless warrior and secret sorcerer, a prodigy whose true nature was hidden even from her creator. For sixteen years she served as the Host's "Prodigal Sword," all the while cultivating the persona of the "Reluctant Champion" — a dutiful warrior who hated the violence she excelled at.
 
 The breaking point came at the **Sacking of Silverwood (Year 4 B.G.)** when, at Lucifer's command, Host forces slaughtered innocent children. This violated Alexiel's one unbreakable moral line. She defected to the Imperial side.
 
@@ -31,15 +31,15 @@ At age 15, her daughter **[[Sariel Arcanus]]** was kidnapped by the warlord **Mo
 
 - [[Alexiel Arcanus]] — her post-marriage identity (same character)
 - [[Sariel Arcanus]] — her daughter who survived the trap
-- [[Lucifer]] — her creator (Unchained Host)
+- [Lucifer](Lucifer.md) — her creator (Unchained Host)
 - [[Prince Artorius]] — her husband (deceased)
-- [[Raziel]] — her father-in-law
+- [Raziel](Raziel.md) — her father-in-law
 - [[Nullification Field]] — her signature hidden power
 - [[Battle of the Sacrifice Fields]] — site of her death
-- [[Silverwood]] — site of the massacre that triggered her defection
+- [Silverwood](Silverwood.md) — site of the massacre that triggered her defection
 
 **Connections:**
-- [[Assiah]] — home world
-- [[Lucifer]] — father
-- [[NullificationField]] — primary ability
-- [[ThreeMasksSystem]] — class progression
+- [Assiah](Assiah.md) — home world
+- [Lucifer](Lucifer.md) — father
+- [NullificationField](../concepts/NullificationField.md) — primary ability
+- [ThreeMasksSystem](../concepts/ThreeMasksSystem.md) — class progression

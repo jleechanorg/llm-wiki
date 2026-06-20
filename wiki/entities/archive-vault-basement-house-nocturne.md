@@ -10,13 +10,13 @@ total_scenes: 1002
 
 ## Overview
 
-** Archive Vault Basement - House Nocturne appears in 3 scenes across the [[nocturne-post-bg3-zhent]] campaign.
+** Archive Vault Basement - House Nocturne appears in 3 scenes across the [nocturne-post-bg3-zhent](../sources/nocturne-post-bg3-zhent.md) campaign.
 
 ## Description
 
 ** Archive Vault Basement - House Nocturne is an entity from the nocturne-post-bg3-zhent campaign.
 
 ## References
-- [[nocturne-post-bg3-zhent]] — campaign overview
-- [[nocturne-post-bg3-zhent-campaign]]
+- [nocturne-post-bg3-zhent](../sources/nocturne-post-bg3-zhent.md) — campaign overview
+- [nocturne-post-bg3-zhent-campaign](../sources/nocturne-post-bg3-zhent-campaign.md)
 

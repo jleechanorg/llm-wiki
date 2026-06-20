@@ -27,6 +27,6 @@ A multi-step form interface for guided campaign setup in WorldArchitect.AI. Impl
 5. Campaign created and user redirected to game view
 
 ## Related Concepts
-- [[WorldArchitect]] - Host application
+- [WorldArchitect](../entities/WorldArchitect.md) - Host application
 - [[Single Page Application]] - Enables wizard without page navigation
 - [[API Communication]] - api.js handles campaign creation POST

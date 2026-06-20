@@ -16,5 +16,5 @@ Sample NPC wizard companion used in end-to-end test mock data. Present in the pa
 - Conscious: true
 
 ## Related
-- [[EpicDragonQuest]] - campaign containing this NPC
-- [[GameState]] - data structure containing this NPC
+- [EpicDragonQuest](EpicDragonQuest.md) - campaign containing this NPC
+- [GameState](GameState.md) - data structure containing this NPC

@@ -30,5 +30,5 @@ When determining NPC response:
 - UPDATE trust and reputation AFTER significant player actions (good or bad deeds witnessed)
 
 ## Related Concepts
-- [[SocialHPSkillChallenge]] — social interaction mechanics
-- [[ActionResolutionProtocol]] — action resolution that may trigger reputation updates
+- [SocialHPSkillChallenge](SocialHPSkillChallenge.md) — social interaction mechanics
+- [ActionResolutionProtocol](ActionResolutionProtocol.md) — action resolution that may trigger reputation updates

@@ -25,6 +25,6 @@ Persistent learning system using Memory MCP integration that maintains knowledge
 9/10 - HIGHLY NOVEL
 
 ## Related Pages
-- [[ClaudeCode]]
-- [[MCP]]
+- [ClaudeCode](../entities/ClaudeCode.md)
+- [MCP](MCP.md)
 - [[PersistentIntelligence]]

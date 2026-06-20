@@ -10,13 +10,13 @@ total_scenes: 78
 
 ## Overview
 
-House Vanthampur appears in 8 scenes across the [[aizen-godhood-continued]] campaign.
+House Vanthampur appears in 8 scenes across the [aizen-godhood-continued](../sources/aizen-godhood-continued.md) campaign.
 
 ## Description
 
 House Vanthampur is an entity from the aizen-godhood-continued campaign.
 
 ## References
-- [[aizen-godhood-continued]] — campaign overview
-- [[aizen-godhood-continued-campaign]]
+- [aizen-godhood-continued](../sources/aizen-godhood-continued.md) — campaign overview
+- [aizen-godhood-continued-campaign](../sources/aizen-godhood-continued-campaign.md)
 

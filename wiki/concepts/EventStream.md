@@ -27,6 +27,6 @@ The SSE (Server-Sent Events) mechanism used in WorldArchitect.AI to deliver real
 
 ## Connections
 
-- [[StreamingResponse]] — real-time incremental delivery
-- [[StreamingParity]] — chunk ordering and completeness guarantee
-- [[mvp-site-streaming-orchestrator]] — implementation of EventStream for WorldAI
+- [StreamingResponse](StreamingResponse.md) — real-time incremental delivery
+- [StreamingParity](StreamingParity.md) — chunk ordering and completeness guarantee
+- [mvp-site-streaming-orchestrator](../sources/mvp-site-streaming-orchestrator.md) — implementation of EventStream for WorldAI

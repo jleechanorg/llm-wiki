@@ -13,4 +13,4 @@ Called via faction_intel_operation tool with spies deployed, target's shadow net
 
 ## Connections
 - [[FactionToolDefinitions]] — exposed via tool definition
-- [[FactionRankings]] — related faction operations
+- [FactionRankings](FactionRankings.md) — related faction operations

@@ -23,13 +23,13 @@ Voyager is a Minecraft agent (Guanzhi Wang et al., arXiv:2305.16291) with a thre
 
 ## Connections
 
-- [[SelfDebugging]] — Voyager uses GPT-4 as a critic for self-verification
+- [SelfDebugging](../concepts/SelfDebugging.md) — Voyager uses GPT-4 as a critic for self-verification
 - [[SkillLibrary]] — skill library retrieval pattern (embedding-based code retrieval)
 - [[IterativePrompting]] — iterative prompting with multiple feedback types
-- [[MetaGPT]] — cited together in research; both use GPT-4 for criticism
-- [[OpenHands]] — both use skill library retrieval patterns
+- [MetaGPT](MetaGPT.md) — cited together in research; both use GPT-4 for criticism
+- [OpenHands](OpenHands.md) — both use skill library retrieval patterns
 
 ## See Also
-- [[SelfDebugging]]
+- [SelfDebugging](../concepts/SelfDebugging.md)
 - [[SkillLibrary]]
 - [[IterativePrompting]]

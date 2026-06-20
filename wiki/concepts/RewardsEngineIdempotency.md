@@ -12,7 +12,7 @@ last_updated: 2026-04-14
 
 ## Why Idempotency Matters
 
-This requirement is critical because [[DeferredRewardsProtocol]] calls `rewards_engine` every 10 player turns (`turn_number % 10 == 0`) to fill in missed rewards. If the engine were not idempotent, successive calls would compound rewards or corrupt state.
+This requirement is critical because [DeferredRewardsProtocol](DeferredRewardsProtocol.md) calls `rewards_engine` every 10 player turns (`turn_number % 10 == 0`) to fill in missed rewards. If the engine were not idempotent, successive calls would compound rewards or corrupt state.
 
 ### The Idempotency Invariant
 
@@ -48,7 +48,7 @@ The v4 design achieves idempotency through:
 
 ## Related Concepts
 
-- [[DeferredRewardsProtocol]] — calls rewards_engine every 10 turns, requires idempotency
-- [[SingleResponsibilityPipeline]] — the pipeline that calls rewards_engine exactly once
-- [[RewardsBoxAtomicity]] — atomic pair enforcement within the idempotent scope
-- [[DefensiveNumericConversion]] — pure type normalization (inherently idempotent)
+- [DeferredRewardsProtocol](DeferredRewardsProtocol.md) — calls rewards_engine every 10 turns, requires idempotency
+- [SingleResponsibilityPipeline](SingleResponsibilityPipeline.md) — the pipeline that calls rewards_engine exactly once
+- [RewardsBoxAtomicity](RewardsBoxAtomicity.md) — atomic pair enforcement within the idempotent scope
+- [DefensiveNumericConversion](DefensiveNumericConversion.md) — pure type normalization (inherently idempotent)

@@ -27,6 +27,6 @@ A dismissal gap pattern where one signal in a pair has a clearance mechanism but
 The pattern is: when a signal's active condition becomes false, the signal should be cleared. For `level_up_available`, this is handled by the SIM102 block at `_canonicalize_core:1499-1506`. For `xp_gained` in the non-level-up path, there is no equivalent guard — the value persists until a new XP award overwrites it.
 
 ## See Also
-- [[RewardsBoxDismissalGap]]
-- [[RewardsEngine]]
-- [[RewardsBoxAtomicity]]
+- [RewardsBoxDismissalGap](RewardsBoxDismissalGap.md)
+- [RewardsEngine](RewardsEngine.md)
+- [RewardsBoxAtomicity](RewardsBoxAtomicity.md)

@@ -42,6 +42,6 @@ Current confidence rate: 60-70% autonomous merge decisions
 
 ## Connections
 
-- [[HarnessEngineering]] - Part of the harness
-- [[CodeRabbit]] - AI review tool
-- [[ProofOfWork]] - Evidence-based validation
+- [HarnessEngineering](HarnessEngineering.md) - Part of the harness
+- [CodeRabbit](../entities/CodeRabbit.md) - AI review tool
+- [ProofOfWork](ProofOfWork.md) - Evidence-based validation

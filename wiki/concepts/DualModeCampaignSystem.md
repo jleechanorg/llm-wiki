@@ -14,9 +14,9 @@ A game system that alternates between personal D&D adventure gameplay and strate
 - **Strategic Mode**: Days/weeks — 1 strategic turn equals 7 in-game days
 
 ## Core Components
-- [[CampaignMode]] — ADVENTURE or FACTION focus
-- [[AttentionTriggers]] — system for crises and neglect warnings
-- [[StrategicTurn]] — time unit for faction mode
+- [CampaignMode](CampaignMode.md) — ADVENTURE or FACTION focus
+- [AttentionTriggers](AttentionTriggers.md) — system for crises and neglect warnings
+- [StrategicTurn](StrategicTurn.md) — time unit for faction mode
 
 ## Usage
 Players use /adventure to enter personal mode (direct character control) or /faction to enter strategic mode (kingdom/organization management). The system tracks time differently in each mode and generates attention triggers when switching between modes.
@@ -24,4 +24,4 @@ Players use /adventure to enter personal mode (direct character control) or /fac
 ## Related Concepts
 - [[DungeonsAndDragons]] — base rules for adventure mode
 - [[CombatSystemProtocol]] — initiative and turn structure
-- [[DeferredRewardsProtocol]] — turn-based reward tracking
+- [DeferredRewardsProtocol](DeferredRewardsProtocol.md) — turn-based reward tracking

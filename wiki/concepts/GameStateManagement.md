@@ -16,7 +16,7 @@ Game State Management in WorldArchitect.AI refers to the protocol for maintainin
 - Entity ID system (type_name_### format)
 
 **Related Concepts**:
-- [[JSONSchema]] — defines valid response structure
-- [[SessionHeader]] — required prefix for responses
+- [JSONSchema](JSONSchema.md) — defines valid response structure
+- [SessionHeader](SessionHeader.md) — required prefix for responses
 - [[EntityTrackingSystem]] — entity ID management
-- [[TurnVsScene]] — numbering distinction
+- [TurnVsScene](TurnVsScene.md) — numbering distinction

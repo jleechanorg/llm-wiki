@@ -21,21 +21,21 @@ The Evidence Review Pipeline is a two-stage verification system that evaluates c
 
 ## Connections
 
-- [[SelfCritique]] — self-critique is the first automated review stage in the pipeline
-- [[VerificationLoop]] — the evidence review pipeline is the production deployment of the verification loop concept
-- [[TwoStageEvidencePipeline]] — the specific implementation pattern for independent review
-- [[SkepticGate]] — the evidence review pipeline is the skeptic gate enforcement mechanism
-- [[EvidenceSkepticalReview]] — the skeptic's review criteria and consistency checks
-- [[CI-Gates]] — evidence review is a specific CI gate in the pipeline
-- [[AdversarialTesting]] — adversarial testing results are inputs to evidence review
-- [[FormalVerification]] — formal verification proof artifacts are evidence inputs
+- [SelfCritique](SelfCritique.md) — self-critique is the first automated review stage in the pipeline
+- [VerificationLoop](VerificationLoop.md) — the evidence review pipeline is the production deployment of the verification loop concept
+- [TwoStageEvidencePipeline](TwoStageEvidencePipeline.md) — the specific implementation pattern for independent review
+- [SkepticGate](SkepticGate.md) — the evidence review pipeline is the skeptic gate enforcement mechanism
+- [EvidenceSkepticalReview](EvidenceSkepticalReview.md) — the skeptic's review criteria and consistency checks
+- [CI-Gates](CI-Gates.md) — evidence review is a specific CI gate in the pipeline
+- [AdversarialTesting](AdversarialTesting.md) — adversarial testing results are inputs to evidence review
+- [FormalVerification](FormalVerification.md) — formal verification proof artifacts are evidence inputs
 
 ## Relationships to Other Concepts
 
-The evidence review pipeline is what turns the abstract [[VerificationLoop]] into a concrete, enforceable quality gate in a CI/CD context. Without a formal pipeline, verification remains aspirational; with it, verification becomes a precondition for deployment. The pipeline is the bridge between "we verify code" (VerificationLoop) and "code cannot merge without verification" (CI-Gates).
+The evidence review pipeline is what turns the abstract [VerificationLoop](VerificationLoop.md) into a concrete, enforceable quality gate in a CI/CD context. Without a formal pipeline, verification remains aspirational; with it, verification becomes a precondition for deployment. The pipeline is the bridge between "we verify code" (VerificationLoop) and "code cannot merge without verification" (CI-Gates).
 
 ## See Also
-- [[TwoStageEvidencePipeline]]
-- [[CI-Gates]]
-- [[ContinuousVerification]]
-- [[SkepticGate]]
+- [TwoStageEvidencePipeline](TwoStageEvidencePipeline.md)
+- [CI-Gates](CI-Gates.md)
+- [ContinuousVerification](ContinuousVerification.md)
+- [SkepticGate](SkepticGate.md)

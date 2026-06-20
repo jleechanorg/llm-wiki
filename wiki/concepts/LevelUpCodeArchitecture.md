@@ -295,7 +295,7 @@ Path C (MCP Polling):   llm_parser.py → rewards_engine.project_level_up_ui()
 ```
 
 ### Path A: Streaming (Primary — SSE Push)
-Frontend POSTs to `/interaction/stream` → receives story chunks via SSE → `done` event contains `rewards_box` inline. **No polling**. See [[LevelUpPolling]] for details.
+Frontend POSTs to `/interaction/stream` → receives story chunks via SSE → `done` event contains `rewards_box` inline. **No polling**. See [LevelUpPolling](LevelUpPolling.md) for details.
 
 ### Path B: HTTP GET — Page Load Only
 GET `/api/campaigns/<id>` → `get_campaign_state_unified` → returns full campaign state. **Initial page load only**. After page load, SSE takes over. Source: `world_logic.py:get_campaign_state_unified` lines 7454-7596.

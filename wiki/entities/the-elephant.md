@@ -10,13 +10,13 @@ total_scenes: 417
 
 ## Overview
 
-The Elephant appears in 4 scenes across the [[visenya-v4]] campaign.
+The Elephant appears in 4 scenes across the [visenya-v4](../sources/visenya-v4.md) campaign.
 
 ## Description
 
 The Elephant is an entity from the visenya-v4 campaign.
 
 ## References
-- [[visenya-v4]] — campaign overview
+- [visenya-v4](../sources/visenya-v4.md) — campaign overview
 - [[visenya-v4-campaign]]
 

@@ -19,6 +19,6 @@ Guard behavior that prevents stale persisted level-up flags from reactivating mo
 
 ## Related
 
-- [[PR6339]]
-- [[LevelUpVerificationStatus]]
-- [[RewardsEngine]]
+- [PR6339](../entities/PR6339.md)
+- [LevelUpVerificationStatus](LevelUpVerificationStatus.md)
+- [RewardsEngine](RewardsEngine.md)

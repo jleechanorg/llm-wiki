@@ -14,5 +14,5 @@ Created by gemini_provider.get_client when:
 - API key starts with "test-"
 
 ## Related
-- [[GeminiProvider]] — creates TestClient instances
-- [[BYOK]] — authentication pattern this supports
+- [GeminiProvider](GeminiProvider.md) — creates TestClient instances
+- [BYOK](../concepts/BYOK.md) — authentication pattern this supports

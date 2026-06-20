@@ -14,5 +14,5 @@ Email author (@eRvissun) who documented the ZOE/OpenClaw agent swarm architectur
 - Specified three-model code review pipeline (Codex, Gemini, Claude Code)
 
 ## Connections
-- [[ZOE]] — authored the reference document
-- [[OpenClaw]] — platform being configured as orchestrator
+- [ZOE](ZOE.md) — authored the reference document
+- [OpenClaw](OpenClaw.md) — platform being configured as orchestrator

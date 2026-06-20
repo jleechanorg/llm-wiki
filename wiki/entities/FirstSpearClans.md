@@ -20,4 +20,4 @@ The First-Spear Clans are former slaves who forged an independent nation through
 - Leader: War-Chief Vorlag
 
 ## Relationships
-- Independent from: [[CelestialImperium]], [[ShatteredHost]]
+- Independent from: [CelestialImperium](CelestialImperium.md), [ShatteredHost](ShatteredHost.md)

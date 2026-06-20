@@ -15,6 +15,6 @@ Psychological model describing five major dimensions of personality: Openness, C
 - Alternative to MBTI for character development
 
 ## Related Concepts
-- [[MBTI]] — alternative personality framework
+- [MBTI](MBTI.md) — alternative personality framework
 - [[Defenses]] — coping mechanisms complementing Big Five
 - [[AttachmentStyle]] — relationship patterns

@@ -13,5 +13,5 @@ Called via faction_simulate_battle tool with attacker/defender soldier and elite
 
 ## Connections
 - [[FactionToolDefinitions]] — exposed via tool definition
-- [[FactionCombat]] — related combat calculations
-- [[SRDUnits]] — unit definitions used in battle
+- [FactionCombat](FactionCombat.md) — related combat calculations
+- [SRDUnits](SRDUnits.md) — unit definitions used in battle

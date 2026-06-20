@@ -18,6 +18,6 @@ Campaign creation template in the game system that includes pre-defined characte
 Validates invariant: users creating campaigns from templates must review their character via CharacterCreationAgent before story mode starts.
 
 ## See Also
-- [[CharacterCreationAgent]]
-- [[CampaignCreation]]
+- [CharacterCreationAgent](CharacterCreationAgent.md)
+- [CampaignCreation](../concepts/CampaignCreation.md)
 - [[WorldOfAssiah]]

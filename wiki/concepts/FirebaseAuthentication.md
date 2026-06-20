@@ -15,9 +15,9 @@ Firebase's authentication service providing identity management. Supports email/
 - **Current User**: `firebase.auth().currentUser` returns authenticated user
 
 ## Connections
-- [[Firebase]] — Service provider
-- [[TokenRefresh]] — Token refresh scheduling mechanism
-- [[TestModeAuthentication]] — Development bypass alternative
+- [Firebase](Firebase.md) — Service provider
+- [TokenRefresh](TokenRefresh.md) — Token refresh scheduling mechanism
+- [TestModeAuthentication](TestModeAuthentication.md) — Development bypass alternative
 
 ## Mobile Redirect Repro Fidelity
 
@@ -28,4 +28,4 @@ For Firebase Google `signInWithRedirect` mobile bugs, distinguish mechanism evid
 - The exact repro requires return to the app still logged out on the welcome/login UI.
 - Simulator Safari normal/private returning authenticated is a `NON-REPRO`, even if the suspected root cause remains plausible for Chrome iOS Incognito.
 
-Source: [[project-2026-06-19-mobile-auth-repro-fidelity]].
+Source: [project-2026-06-19-mobile-auth-repro-fidelity](../sources/project-2026-06-19-mobile-auth-repro-fidelity.md).

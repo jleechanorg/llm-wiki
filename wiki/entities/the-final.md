@@ -10,13 +10,13 @@ total_scenes: 78
 
 ## Overview
 
-The Final appears in 19 scenes across the [[aizen-godhood-continued]] campaign.
+The Final appears in 19 scenes across the [aizen-godhood-continued](../sources/aizen-godhood-continued.md) campaign.
 
 ## Description
 
 The Final is an entity from the aizen-godhood-continued campaign.
 
 ## References
-- [[aizen-godhood-continued]] — campaign overview
-- [[aizen-godhood-continued-campaign]]
+- [aizen-godhood-continued](../sources/aizen-godhood-continued.md) — campaign overview
+- [aizen-godhood-continued-campaign](../sources/aizen-godhood-continued-campaign.md)
 

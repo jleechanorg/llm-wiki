@@ -10,13 +10,13 @@ total_scenes: 417
 
 ## Overview
 
-** King Daeron's Private Solar, The Red Keep appears in 5 scenes across the [[visenya-v4]] campaign.
+** King Daeron's Private Solar, The Red Keep appears in 5 scenes across the [visenya-v4](../sources/visenya-v4.md) campaign.
 
 ## Description
 
 ** King Daeron's Private Solar, The Red Keep is an entity from the visenya-v4 campaign.
 
 ## References
-- [[visenya-v4]] — campaign overview
+- [visenya-v4](../sources/visenya-v4.md) — campaign overview
 - [[visenya-v4-campaign]]
 

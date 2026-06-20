@@ -21,5 +21,5 @@ The mechanism by which the game system injects special choices (like "finish lev
 The injection function did not check `level_up_in_progress` or `level_up_pending` stale flags, causing finish choices to be injected even when the level-up flow was explicitly cleared.
 
 ## Related
-- [[LevelUpActiveStateLogic]] — determines when injection is needed
-- [[PlanningBlock]] — the structure being modified by injection
+- [LevelUpActiveStateLogic](LevelUpActiveStateLogic.md) — determines when injection is needed
+- [PlanningBlock](PlanningBlock.md) — the structure being modified by injection

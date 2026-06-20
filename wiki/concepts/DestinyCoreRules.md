@@ -23,6 +23,6 @@ The Destiny Core Rules is a custom tabletop role-playing game system used for th
 Daemon's brute-strength knight build would be defined through Aptitudes and Personality Traits that emphasize his physical power and ambition toward kingship. The system supports an evil protagonist's journey toward dominion.
 
 ## Connections
-- [[Daemon]] — the player character
-- [[daemon-conquers-campaign]] — source campaign
+- [Daemon](../entities/Daemon.md) — the player character
+- [daemon-conquers-campaign](../sources/daemon-conquers-campaign.md) — source campaign
 - [[Knights]] — character class

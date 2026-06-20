@@ -16,5 +16,5 @@ Testing pattern that provides a mock implementation of an LLM service with ident
 - **Interface Parity**: Same function signatures allow seamless swapping
 
 ## Related Concepts
-- [[StructuredFieldsFixtures]] — predefined test response data
-- [[DualModeTesting]] — pattern for switching between mock and real backends
+- [StructuredFieldsFixtures](StructuredFieldsFixtures.md) — predefined test response data
+- [DualModeTesting](DualModeTesting.md) — pattern for switching between mock and real backends

@@ -18,5 +18,5 @@ In the OpenClaw game server, tool_requests are embedded in the JSON response fro
 When tool_requests are present, Phase 2 streaming is triggered to execute the tools and continue the narrative.
 
 ## Related
-- [[Phase2Streaming]]
+- [Phase2Streaming](Phase2Streaming.md)
 - [[continue_story_streaming]]

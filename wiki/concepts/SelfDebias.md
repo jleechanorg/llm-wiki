@@ -33,8 +33,8 @@ Social biases cascade through Chain-of-Thought reasoning:
 
 ## Related Concepts
 
-- [[SelfRefine]] — general self-correction framework
-- [[ChainOfThought]] — the reasoning framework within which bias propagates
+- [SelfRefine](SelfRefine.md) — general self-correction framework
+- [ChainOfThought](ChainOfThought.md) — the reasoning framework within which bias propagates
 - [[TrajectoryOptimization]] — optimization methodology for reasoning traces
-- [[ThinkTwice]] — joint reasoning + refinement via GRPO
-- [[RefineRL]] — RL-based self-refinement for programming
+- [ThinkTwice](ThinkTwice.md) — joint reasoning + refinement via GRPO
+- [RefineRL](RefineRL.md) — RL-based self-refinement for programming

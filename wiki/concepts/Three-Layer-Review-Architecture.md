@@ -14,6 +14,6 @@ Composio's review system breakdown:
 Provides layered quality assurance with most issues caught by automated systems.
 
 ## See Also
-- [[Composio]] — implementation reference
+- [Composio](../entities/Composio.md) — implementation reference
 - [[LLM-as-Judge Pattern]]
 - [[Orchestration Architecture Research]]

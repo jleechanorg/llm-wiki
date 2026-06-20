@@ -21,5 +21,5 @@ Framework for evaluating documentation completeness, accuracy, and maintainabili
 - **Weaknesses**: Data validation failures, security implementation gaps, documentation sprawl (188 files)
 
 ## Related Concepts
-- [[DataIntegrityAnalysis]]
-- [[SecurityAnalysis]]
+- [DataIntegrityAnalysis](DataIntegrityAnalysis.md)
+- [SecurityAnalysis](SecurityAnalysis.md)

@@ -10,13 +10,13 @@ total_scenes: 258
 
 ## Overview
 
-** The Maidenvault, Red Keep appears in 6 scenes across the [[visenya-v5]] campaign.
+** The Maidenvault, Red Keep appears in 6 scenes across the [visenya-v5](../sources/visenya-v5.md) campaign.
 
 ## Description
 
 ** The Maidenvault, Red Keep is an entity from the visenya-v5 campaign.
 
 ## References
-- [[visenya-v5]] — campaign overview
+- [visenya-v5](../sources/visenya-v5.md) — campaign overview
 - [[visenya-v5-campaign]]
 

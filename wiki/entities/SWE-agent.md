@@ -17,10 +17,10 @@ SWE-agent is an open-source coding agent evaluated on SWE-bench. Related tools i
 
 ## Connections
 
-- [[SWE-bench]] — SWE-agent is evaluated on SWE-bench
-- [[OpenHands]] — competing open-source coding agent
-- [[CodingAgent]] — SWE-agent is a coding agent
+- [SWE-bench](../concepts/SWE-bench.md) — SWE-agent is evaluated on SWE-bench
+- [OpenHands](OpenHands.md) — competing open-source coding agent
+- [CodingAgent](../concepts/CodingAgent.md) — SWE-agent is a coding agent
 
 ## See Also
-- [[SWE-bench]]
-- [[OpenHands]]
+- [SWE-bench](../concepts/SWE-bench.md)
+- [OpenHands](OpenHands.md)

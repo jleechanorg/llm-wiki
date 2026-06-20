@@ -16,5 +16,5 @@ When rolling with advantage or disadvantage, the AI must:
 - Clearly state "Advantage: taking higher" or "Disadvantage: taking lower"
 
 ## Connection to Other Concepts
-- Used in [[ToolRequests]] for roll_dice and roll_skill_check
+- Used in [ToolRequests](ToolRequests.md) for roll_dice and roll_skill_check
 - Part of [[CombatSystemProtocol]] for attack rolls

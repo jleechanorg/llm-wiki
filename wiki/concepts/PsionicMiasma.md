@@ -34,4 +34,4 @@ In Gaia Julia V3:
 - [[Gaia Julia V3 Campaign]] — source campaign
 - [[Gaia Julia Caesar]] — the psionic wielder
 - [[Lotus Ten]] — her cult following
-- [[Miasma]] — the broader concept of divine blood
+- [Miasma](Miasma.md) — the broader concept of divine blood

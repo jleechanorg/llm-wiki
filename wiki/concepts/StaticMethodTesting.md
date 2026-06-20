@@ -19,6 +19,6 @@ Testing approach for class static methods that don't require class instantiation
 This test suite targets improving coverage from 61% to 70% for the MissionHandler class.
 
 ## Related
-- [[MissionHandler]] — the class being tested
+- [MissionHandler](../entities/MissionHandler.md) — the class being tested
 - [[Unit Testing]] — broader testing concept
-- [[FirestoreService]] — module containing the tested class
+- [FirestoreService](../entities/FirestoreService.md) — module containing the tested class

@@ -27,6 +27,6 @@ v2.1.92 has GrowthBook experiment capping autocompact to 400K + SDK 100K thresho
 
 ## Connections
 
-- [[Compaction]] — existing compaction concept
-- [[ContextCompaction]] — Claude Code compaction patterns
+- [Compaction](Compaction.md) — existing compaction concept
+- [ContextCompaction](ContextCompaction.md) — Claude Code compaction patterns
 - [[ClaudeCodeAnalysis]] — Claude Code session analysis

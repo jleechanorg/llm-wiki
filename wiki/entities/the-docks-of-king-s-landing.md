@@ -10,13 +10,13 @@ total_scenes: 417
 
 ## Overview
 
-** The Docks of King's Landing appears in 7 scenes across the [[visenya-v4]] campaign.
+** The Docks of King's Landing appears in 7 scenes across the [visenya-v4](../sources/visenya-v4.md) campaign.
 
 ## Description
 
 ** The Docks of King's Landing is an entity from the visenya-v4 campaign.
 
 ## References
-- [[visenya-v4]] — campaign overview
+- [visenya-v4](../sources/visenya-v4.md) — campaign overview
 - [[visenya-v4-campaign]]
 

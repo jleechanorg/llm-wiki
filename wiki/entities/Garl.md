@@ -11,14 +11,14 @@ Garl is a half-orc tavern keeper encountered during the V5 campaigns. He provide
 
 ## Key Details
 - **Category:** Person
-- **Campaign(s):** [[nocturne-bg3-v5]], [[nocturne-bg3-v5-fixed-v2]], [[nocturne-bg3-v5-succubus]]
+- **Campaign(s):** [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md), [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md), [nocturne-bg3-v5-succubus](../sources/nocturne-bg3-v5-succubus.md)
 - **Role:** Early-game contact, information source
 
 ## Connections
-- [[NocturneSosuke]] -- player character, early interaction
-- [[RavagedBeach]] -- location where Garl is encountered
-- [[EmeraldGrove]] -- destination after meeting Garl
+- [NocturneSosuke](NocturneSosuke.md) -- player character, early interaction
+- [RavagedBeach](RavagedBeach.md) -- location where Garl is encountered
+- [EmeraldGrove](EmeraldGrove.md) -- destination after meeting Garl
 
 ## Appearances
-- [[nocturne-bg3-v5]] -- early survival scenes
-- [[nocturne-bg3-v5-fixed-v2]] -- same appearances
+- [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md) -- early survival scenes
+- [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md) -- same appearances

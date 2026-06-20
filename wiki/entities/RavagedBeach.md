@@ -11,18 +11,18 @@ The Ravaged Beach is the site of the crashed Nautiloid in Baldur's Gate 3, where
 
 ## Key Details
 - **Category:** Location
-- **Campaign(s):** [[nocturne-bg3-v5]], [[nocturne-bg3-v5-fixed-v2]], [[nocturne-bg3-v5-succubus]], [[nocturne-bg3-v6-bug-repro-test]]
+- **Campaign(s):** [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md), [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md), [nocturne-bg3-v5-succubus](../sources/nocturne-bg3-v5-succubus.md), [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md)
 - **Setting:** Baldur's Gate coastal area
 - **Key Feature:** Site of Nautiloid crash, Intellect Devourer combat
 
 ## Connections
-- [[NocturneSosuke]] — starts here in V5 campaigns
-- [[Shadowheart]] — BG3 companion encountered at the beach
-- [[EmeraldGrove]] — next destination after beach
-- [[GoblinCamp]] — goblin-controlled area near the beach
+- [NocturneSosuke](NocturneSosuke.md) — starts here in V5 campaigns
+- [Shadowheart](Shadowheart.md) — BG3 companion encountered at the beach
+- [EmeraldGrove](EmeraldGrove.md) — next destination after beach
+- [GoblinCamp](GoblinCamp.md) — goblin-controlled area near the beach
 - [[IntellectDevourer]] — enemy encounter at crash site
 
 ## Appearances
-- [[nocturne-bg3-v5]] — Scene 1-9, initial combat and encounter
-- [[nocturne-bg3-v5-succubus]] — starting location
-- [[nocturne-bg3-v6-bug-repro-test]] — referenced as prior location
+- [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md) — Scene 1-9, initial combat and encounter
+- [nocturne-bg3-v5-succubus](../sources/nocturne-bg3-v5-succubus.md) — starting location
+- [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md) — referenced as prior location

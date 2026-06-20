@@ -10,5 +10,5 @@ last_updated: 2026-04-08
 Python library for validating JSON instances against JSON Schema. Used by validate_game_state() for real game state validation.
 
 ## Related
-- Validates: [[GameState]]
+- Validates: [GameState](GameState.md)
 - Called by: validate_game_state() function

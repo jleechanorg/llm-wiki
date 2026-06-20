@@ -18,4 +18,4 @@ max_input = safe_context - output_reserve  # = 80% of safe context
 
 ## Connection
 - [[OutputTokenBudgetRegressionTests]] — core concept being tested
-- [[ContextWindowSafetyRatio]] — related ratio concept
+- [ContextWindowSafetyRatio](ContextWindowSafetyRatio.md) — related ratio concept

@@ -22,4 +22,4 @@ Visual component showing progress through multi-step flows. Step indicators cons
 - Smooth 0.3s transitions between states
 
 ## Usage
-Used in [[CampaignWizard]] and other multi-step interfaces.
+Used in [CampaignWizard](CampaignWizard.md) and other multi-step interfaces.

@@ -13,5 +13,5 @@ BGE-small-en-v1.5 is a sentence embedding model from BAAI (Beijing Academy of Ar
 - Size: ~133MB
 - Source: HuggingFace Hub (BAAI/bge-small-en-v1.5)
 ## Connections
-- [[FastEmbed]] — library wrapping this model
-- [[BAAI]] — model creator
+- [FastEmbed](FastEmbed.md) — library wrapping this model
+- [BAAI](BAAI.md) — model creator

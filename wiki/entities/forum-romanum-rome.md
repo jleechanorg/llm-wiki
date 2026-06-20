@@ -10,13 +10,13 @@ total_scenes: 521
 
 ## Overview
 
-** Forum Romanum, Rome appears in 5 scenes across the [[gaia-julia-v2]] campaign.
+** Forum Romanum, Rome appears in 5 scenes across the [gaia-julia-v2](../sources/gaia-julia-v2.md) campaign.
 
 ## Description
 
 ** Forum Romanum, Rome is an entity from the gaia-julia-v2 campaign.
 
 ## References
-- [[gaia-julia-v2]] — campaign overview
-- [[gaia-julia-v2-campaign]]
+- [gaia-julia-v2](../sources/gaia-julia-v2.md) — campaign overview
+- [gaia-julia-v2-campaign](../sources/gaia-julia-v2-campaign.md)
 

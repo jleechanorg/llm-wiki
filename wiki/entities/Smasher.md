@@ -14,10 +14,10 @@ Smasher is 2389 Research's Rust DOT-based pipeline runner with an HTMX web dashb
 - **Architecture**: smasher-llm (streaming, retries, provider quirks), smasher-agent (6 tools, steering, subagents), smasher-attractor (winnow parser, tokio broadcast)
 
 ## Connections
-- [[2389Research]] — 2389 Research built Smasher
-- [[Mammoth]] — Mammoth is 2389's Go alternative (larger, more features)
-- [[AttractorPattern]] — Smasher converges on the three-layer attractor architecture
+- [2389Research](2389Research.md) — 2389 Research built Smasher
+- [Mammoth](Mammoth.md) — Mammoth is 2389's Go alternative (larger, more features)
+- [AttractorPattern](../concepts/AttractorPattern.md) — Smasher converges on the three-layer attractor architecture
 
 ## See Also
-- [[2389Research]]
-- [[Mammoth]]
+- [2389Research](2389Research.md)
+- [Mammoth](Mammoth.md)

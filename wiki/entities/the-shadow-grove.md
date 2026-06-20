@@ -10,13 +10,13 @@ total_scenes: 107
 
 ## Overview
 
-** The Shadow Grove appears in 10 scenes across the [[nocturne-bg3-v7]] campaign.
+** The Shadow Grove appears in 10 scenes across the [nocturne-bg3-v7](../sources/nocturne-bg3-v7.md) campaign.
 
 ## Description
 
 ** The Shadow Grove is an entity from the nocturne-bg3-v7 campaign.
 
 ## References
-- [[nocturne-bg3-v7]] — campaign overview
-- [[nocturne-bg3-v7-campaign]]
+- [nocturne-bg3-v7](../sources/nocturne-bg3-v7.md) — campaign overview
+- [nocturne-bg3-v7-campaign](../sources/nocturne-bg3-v7-campaign.md)
 

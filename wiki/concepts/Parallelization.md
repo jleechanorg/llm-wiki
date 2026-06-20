@@ -40,7 +40,7 @@ git worktree add ../feature-b feature-branch
 ```
 
 ### CMUX Integration
-[[CMUX]] provides programmatic access to multiple terminal tabs:
+[CMUX](../entities/CMUX.md) provides programmatic access to multiple terminal tabs:
 - One tab can write to another tab
 - Agents can coordinate between worktrees
 - Notification rings show status
@@ -51,6 +51,6 @@ Autonomous scanning, bug hunting, code review - all running in parallel across r
 
 ## Connections
 
-- [[CMUX]] - Terminal management for parallel agents
-- [[ModelRouting]] - Different models for different tasks
-- [[AgentOrchestrator]] - Managing fleets of parallel agents
+- [CMUX](../entities/CMUX.md) - Terminal management for parallel agents
+- [ModelRouting](ModelRouting.md) - Different models for different tasks
+- [AgentOrchestrator](../entities/AgentOrchestrator.md) - Managing fleets of parallel agents

@@ -18,5 +18,5 @@ A templating system using `{{SCHEMA:TypeName}}` syntax that generates type docum
 Does not generate example JSON — only type documentation. This leaves a gap for prompts that need example output format.
 
 ## Related Concepts
-- [[Schema-PromptDrift]] — the problem runtime injection could solve if extended
+- [Schema-PromptDrift](Schema-PromptDrift.md) — the problem runtime injection could solve if extended
 - [[JSON Schema Validation]] — what the generated docs feed into

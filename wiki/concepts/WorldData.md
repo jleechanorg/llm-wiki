@@ -26,5 +26,5 @@ def _get_world_data(game_state):
 - world_time — dict with year, month, day, hour, minute, second
 
 ## Related Concepts
-- [[GameState]] — parent structure
-- [[SessionHeader]] — uses timestamp from world data
+- [GameState](GameState.md) — parent structure
+- [SessionHeader](SessionHeader.md) — uses timestamp from world data

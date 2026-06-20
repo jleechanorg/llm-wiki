@@ -10,13 +10,13 @@ total_scenes: 685
 
 ## Overview
 
-** Underground Maintenance Tunnels - 1127 Riverside Drive appears in 30 scenes across the [[sariel-killer]] campaign.
+** Underground Maintenance Tunnels - 1127 Riverside Drive appears in 30 scenes across the [sariel-killer](../sources/sariel-killer.md) campaign.
 
 ## Description
 
 ** Underground Maintenance Tunnels - 1127 Riverside Drive is an entity from the sariel-killer campaign.
 
 ## References
-- [[sariel-killer]] — campaign overview
-- [[sariel-killer-campaign]]
+- [sariel-killer](../sources/sariel-killer.md) — campaign overview
+- [sariel-killer-campaign](../sources/sariel-killer-campaign.md)
 

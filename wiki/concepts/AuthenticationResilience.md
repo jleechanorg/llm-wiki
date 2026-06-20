@@ -10,11 +10,11 @@ last_updated: 2026-04-08
 System design pattern for handling authentication failures gracefully. In WorldArchitect.AI, this includes automatic retry for clock skew errors and user-friendly error messaging.
 
 ## Key Components
-- [[AutoRetryMechanism]] — automatic retry with fresh tokens
-- [[UserFriendlyErrorMessages]] — clear error communication
-- [[OfflineCampaignCaching]] — offline data access
+- [AutoRetryMechanism](AutoRetryMechanism.md) — automatic retry with fresh tokens
+- [UserFriendlyErrorMessages](UserFriendlyErrorMessages.md) — clear error communication
+- [OfflineCampaignCaching](OfflineCampaignCaching.md) — offline data access
 
 ## Related Entities
-- [[JWT]] — token system being made resilient
-- [[ApiJs]] — implements retry logic
-- [[AppJs]] — displays user-facing errors
+- [JWT](../entities/JWT.md) — token system being made resilient
+- [ApiJs](../entities/ApiJs.md) — implements retry logic
+- [AppJs](../entities/AppJs.md) — displays user-facing errors

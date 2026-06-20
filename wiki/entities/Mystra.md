@@ -19,5 +19,5 @@ Mystra is the goddess of magic in the Forgotten Realms campaign setting and the 
 
 ## Connections
 
-- [[SosukeAizen]] — observes her actions from his Cosmic Throne
+- [SosukeAizen](SosukeAizen.md) — observes her actions from his Cosmic Throne
 - [[TheChurchOfTyr]] — institution she is manipulating

@@ -30,5 +30,5 @@ Mixture-of-Experts coding model: 236B total parameters, 21B activated per token.
 
 ## Connections
 
-- Key model for [[LargeLanguageMonkeys]] scaling study
+- Key model for [LargeLanguageMonkeys](LargeLanguageMonkeys.md) scaling study
 - Related to [[DeepSeek-V2]] base architecture

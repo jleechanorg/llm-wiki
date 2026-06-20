@@ -35,5 +35,5 @@ Nullification Field is Alexiel's signature special ability in the Alexiel Assiah
 
 ## Connections
 
-- [[AlexielAssiah]] — the wielder
-- [[CelestialImperiumAssiah]] — primary target of the ability
+- [AlexielAssiah](AlexielAssiah.md) — the wielder
+- [CelestialImperiumAssiah](../entities/CelestialImperiumAssiah.md) — primary target of the ability

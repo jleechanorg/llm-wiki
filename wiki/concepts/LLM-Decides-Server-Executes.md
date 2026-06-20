@@ -9,6 +9,6 @@ date: 2026-05-16
 Core architecture pattern: LLM proposes state changes, server validates and persists them. Prevents LLM from directly writing to Firestore — all proposals go through `world_logic.py` validation. This ensures mechanical integrity (dice, stats, rules) while preserving narrative immersion.
 
 ## Connections
-- [[WorldArchitectAI]] — core pattern
-- [[DiceIntegrity]] — enforces this for dice
-- [[TokenBudget]] — enforces this for prompt assembly
+- [WorldArchitectAI](../entities/WorldArchitectAI.md) — core pattern
+- [DiceIntegrity](DiceIntegrity.md) — enforces this for dice
+- [TokenBudget](../entities/TokenBudget.md) — enforces this for prompt assembly

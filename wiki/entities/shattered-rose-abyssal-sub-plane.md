@@ -10,13 +10,13 @@ total_scenes: 669
 
 ## Overview
 
-** Shattered Rose (Abyssal Sub-Plane) appears in 9 scenes across the [[nocturne-bg3-v5-succubus-fixed-v1]] campaign.
+** Shattered Rose (Abyssal Sub-Plane) appears in 9 scenes across the [nocturne-bg3-v5-succubus-fixed-v1](../sources/nocturne-bg3-v5-succubus-fixed-v1.md) campaign.
 
 ## Description
 
 ** Shattered Rose (Abyssal Sub-Plane) is an entity from the nocturne-bg3-v5-succubus-fixed-v1 campaign.
 
 ## References
-- [[nocturne-bg3-v5-succubus-fixed-v1]] — campaign overview
-- [[nocturne-bg3-v5-succubus-fixed-v1-campaign]]
+- [nocturne-bg3-v5-succubus-fixed-v1](../sources/nocturne-bg3-v5-succubus-fixed-v1.md) — campaign overview
+- [nocturne-bg3-v5-succubus-fixed-v1-campaign](../sources/nocturne-bg3-v5-succubus-fixed-v1-campaign.md)
 

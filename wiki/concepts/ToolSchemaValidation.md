@@ -13,5 +13,5 @@ A testing pattern that verifies JSON tool schemas conform to the expected struct
 In this test suite, schema validation confirms that faction tools declare correct required parameters (e.g., soldiers, spies, elites for power calculation) and have properly structured parameter objects.
 
 ## Related Concepts
-- [[MockPatching]] — isolation technique used in these tests
+- [MockPatching](MockPatching.md) — isolation technique used in these tests
 - [[ToolExecutionMapping]] — linking tool names to handler functions

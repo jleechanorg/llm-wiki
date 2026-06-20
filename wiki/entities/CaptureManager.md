@@ -25,6 +25,6 @@ Main orchestration class for the capture framework that manages recording of ser
 - `get_summary()` — return statistics by service/operation
 
 ## Related
-- [[CaptureFirestoreClient]] — Firestore-specific capture
-- [[CaptureGeminiClient]] — Gemini-specific capture
-- [[CaptureAnalyzer]] — session analysis
+- [CaptureFirestoreClient](CaptureFirestoreClient.md) — Firestore-specific capture
+- [CaptureGeminiClient](CaptureGeminiClient.md) — Gemini-specific capture
+- [CaptureAnalyzer](CaptureAnalyzer.md) — session analysis

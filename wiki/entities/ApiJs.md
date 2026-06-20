@@ -16,5 +16,5 @@ Frontend JavaScript module in frontend_v1/ that handles API calls. Implements au
 - Recursive retry logic: fetchApi(path, options, retryCount + 1)
 
 ## Related Concepts
-- [[AutoRetryMechanism]] — the retry logic implementation
-- [[AuthenticationResilience]] — overall error handling strategy
+- [AutoRetryMechanism](../concepts/AutoRetryMechanism.md) — the retry logic implementation
+- [AuthenticationResilience](../concepts/AuthenticationResilience.md) — overall error handling strategy

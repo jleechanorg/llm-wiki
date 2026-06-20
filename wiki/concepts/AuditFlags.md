@@ -18,5 +18,5 @@ An array field in action_resolution that tracks metadata about the action proces
 - "player_declared_outcome" — player explicitly stated expected result
 
 ## Related Concepts
-- [[ActionResolution]] — parent field
-- [[ReinterpretedField]] — related flag for reinterpretation tracking
+- [ActionResolution](ActionResolution.md) — parent field
+- [ReinterpretedField](ReinterpretedField.md) — related flag for reinterpretation tracking

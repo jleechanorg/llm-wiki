@@ -28,7 +28,7 @@ Events that trigger specific scenes in the campaign, such as companion requests,
 ```
 
 ## Connections
-- [[LivingWorld]] — generates scene events
+- [LivingWorld](LivingWorld.md) — generates scene events
 - [[CompanionSystem]] — companion request mechanics
-- [[DebugEventsExport]] — exports scene events
-- [[Shadowheart]] — example companion
+- [DebugEventsExport](DebugEventsExport.md) — exports scene events
+- [Shadowheart](../entities/Shadowheart.md) — example companion

@@ -11,7 +11,7 @@ Threading in Gunicorn allows handling multiple concurrent requests within a sing
 
 ## In This Wiki
 - [[GunicornConfigurationTddTests]] — tests thread configuration
-- [[WorkerConfiguration]] — broader configuration context
+- [WorkerConfiguration](WorkerConfiguration.md) — broader configuration context
 
 ## Key Properties
 

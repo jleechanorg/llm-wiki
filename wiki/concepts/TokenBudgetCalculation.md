@@ -16,6 +16,6 @@ Process of calculating token budgets for different components of LLM request con
 
 
 ## Related
-- [[SequenceIDBudgetEnforcement]]
-- [[ContextTruncation]]
+- [SequenceIDBudgetEnforcement](SequenceIDBudgetEnforcement.md)
+- [ContextTruncation](ContextTruncation.md)
 - [[token_utils]]

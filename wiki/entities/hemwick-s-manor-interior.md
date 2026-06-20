@@ -10,13 +10,13 @@ total_scenes: 128
 
 ## Overview
 
-** Hemwick's Manor Interior appears in 9 scenes across the [[witcher-strat]] campaign.
+** Hemwick's Manor Interior appears in 9 scenes across the [witcher-strat](../sources/witcher-strat.md) campaign.
 
 ## Description
 
 ** Hemwick's Manor Interior is an entity from the witcher-strat campaign.
 
 ## References
-- [[witcher-strat]] — campaign overview
+- [witcher-strat](../sources/witcher-strat.md) — campaign overview
 - [[witcher-strat-campaign]]
 

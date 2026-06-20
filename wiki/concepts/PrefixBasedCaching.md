@@ -20,5 +20,5 @@ Prefix-based caching is a Gemini API caching strategy where the first part of a 
 
 ## Related
 - [[CachePromptStructureEquivalenceTests]] — validates the implementation
-- [[ExplicitCaching]] — explicit splitting approach
-- [[ImplicitCaching]] — single-JSON-blob approach
+- [ExplicitCaching](ExplicitCaching.md) — explicit splitting approach
+- [ImplicitCaching](ImplicitCaching.md) — single-JSON-blob approach

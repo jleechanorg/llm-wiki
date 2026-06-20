@@ -27,8 +27,8 @@ The title "The Gilded Trap" captures her predicament:
 
 ## Connections
 
-- [[gaia-julia-v5-campaign]] -- Campaign
-- [[SirenArchetype]] -- Dormant power source
-- [[ThirdServileWar]] -- Historical setting
+- [gaia-julia-v5-campaign](../sources/gaia-julia-v5-campaign.md) -- Campaign
+- [SirenArchetype](SirenArchetype.md) -- Dormant power source
+- [ThirdServileWar](ThirdServileWar.md) -- Historical setting
 - [[SurvivalHorrorTTRPG]] -- Tone
-- [[GaiaJuliaCaesar]] -- Character
+- [GaiaJuliaCaesar](../entities/GaiaJuliaCaesar.md) -- Character

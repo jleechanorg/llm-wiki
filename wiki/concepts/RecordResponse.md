@@ -19,5 +19,5 @@ Method for capturing response data after an interaction completes. Records respo
 - Marks status as "success"
 
 ## Related
-- [[CaptureInteraction]] — pair for complete recording
+- [CaptureInteraction](CaptureInteraction.md) — pair for complete recording
 - [[ErrorTracking]] — failure case handling

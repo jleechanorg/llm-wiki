@@ -10,13 +10,13 @@ total_scenes: 1002
 
 ## Overview
 
-** The New Strata (The Sovereign's Garden) appears in 5 scenes across the [[nocturne-post-bg3-zhent]] campaign.
+** The New Strata (The Sovereign's Garden) appears in 5 scenes across the [nocturne-post-bg3-zhent](../sources/nocturne-post-bg3-zhent.md) campaign.
 
 ## Description
 
 ** The New Strata (The Sovereign's Garden) is an entity from the nocturne-post-bg3-zhent campaign.
 
 ## References
-- [[nocturne-post-bg3-zhent]] — campaign overview
-- [[nocturne-post-bg3-zhent-campaign]]
+- [nocturne-post-bg3-zhent](../sources/nocturne-post-bg3-zhent.md) — campaign overview
+- [nocturne-post-bg3-zhent-campaign](../sources/nocturne-post-bg3-zhent-campaign.md)
 

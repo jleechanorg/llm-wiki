@@ -20,6 +20,6 @@ The test file demonstrates comprehensive mocking of:
 This allows testing world_logic.py without requiring actual Firebase or external service connections.
 
 ## Related Concepts
-- [[UnitTesting]] — testing methodology
-- [[TestDrivenDevelopment]] — development approach
-- [[Firebase]] — mocked service
+- [UnitTesting](UnitTesting.md) — testing methodology
+- [TestDrivenDevelopment](TestDrivenDevelopment.md) — development approach
+- [Firebase](Firebase.md) — mocked service

@@ -16,4 +16,4 @@ Measurement of entity tracking accuracy drift across campaign interactions. Desy
 
 ## Connections
 - [[StatisticalValidation]] — Requires 10+ replays for significance
-- [[IntegrationTesting]] — Test methodology used
+- [IntegrationTesting](IntegrationTesting.md) — Test methodology used

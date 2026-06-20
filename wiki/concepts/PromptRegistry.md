@@ -22,5 +22,5 @@ A Prompt Registry externalizes prompt versioning outside the codebase, enabling 
 Prompt Registry provides governance for LLM interactions — who can modify prompts, what versions are in production, audit trail for changes. Relevant to PR #452's GOVERNANCE.md concept.
 
 ## See Also
-- [[PromptLayer]]
-- [[GovernanceLayer]]
+- [PromptLayer](../entities/PromptLayer.md)
+- [GovernanceLayer](GovernanceLayer.md)

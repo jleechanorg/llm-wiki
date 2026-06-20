@@ -14,8 +14,8 @@ The named recurring NPC council that supports Alexiel's rise: Barnaby (steward/c
 > "A dead surveyor on Tethlar land brings an army of investigators, my lady. It is better to be subtle. A bridge collapse on the coast road could force his party onto the inland tracks." — Hilliard, recommending the broken-road plan (Turn 87)
 
 ## Connections
-- [[alexiel-larion]] — primary campaign source
-- [[voyage-barnaby]] — steward
+- [alexiel-larion](../sources/alexiel-larion.md) — primary campaign source
+- [voyage-barnaby](voyage-barnaby.md) — steward
 - [[Hilliard]] — bodyguard
-- [[voyage-lady-ashbury]] — ally
-- [[voyage-hobb]] — proxy
+- [voyage-lady-ashbury](voyage-lady-ashbury.md) — ally
+- [voyage-hobb](voyage-hobb.md) — proxy

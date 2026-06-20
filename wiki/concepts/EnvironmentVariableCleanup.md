@@ -19,4 +19,4 @@ Critical security and configuration practice in multi-provider orchestration. Wh
 ]
 ```
 
-**Related:** [[Orchestration]], [[Authentication]]
+**Related:** [Orchestration](Orchestration.md), [Authentication](Authentication.md)

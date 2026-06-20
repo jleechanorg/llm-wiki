@@ -47,9 +47,9 @@ Evidence bundles created for PRs:
 
 ## Skeptic Gate Integration
 
-The Evidence Pipeline feeds directly into [[SkepticGate]] for automated PR quality gates.
+The Evidence Pipeline feeds directly into [SkepticGate](SkepticGate.md) for automated PR quality gates.
 
 ## Connections
-- [[VideoEvidenceGate]] — Video-specific evidence gate
-- [[EvidenceBundles]] — Bundle format specification
-- [[TwoStageEvidencePipeline]] — The two-stage variant
+- [VideoEvidenceGate](VideoEvidenceGate.md) — Video-specific evidence gate
+- [EvidenceBundles](EvidenceBundles.md) — Bundle format specification
+- [TwoStageEvidencePipeline](TwoStageEvidencePipeline.md) — The two-stage variant

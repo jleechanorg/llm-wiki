@@ -25,7 +25,7 @@ The path represents the culmination of Shadowheart's journey as a Chosen of Shar
 
 ## Connections
 
-- [[Shadowheart]] — The Death Cleric wielding Soul Harvest powers
+- [Shadowheart](../entities/Shadowheart.md) — The Death Cleric wielding Soul Harvest powers
 - [[Death Cleric]] — The custom class this power enhances
 - [[Shar]] — The divine source of this power
 - [[Shadow Heart Campaign]] — The campaign featuring this power

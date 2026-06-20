@@ -14,8 +14,8 @@ Container Image Tagging is the practice of labeling container images with versio
 - Example: `gcr.io/worldarchitecture-ai/mvp-site-app:dev-a1b2c3d`
 
 ## Related Concepts
-- [[ContainerRegistry]] — image storage
-- [[CloudRun]] — deployment target
+- [ContainerRegistry](../entities/ContainerRegistry.md) — image storage
+- [CloudRun](../entities/CloudRun.md) — deployment target
 
 ## Wiki Connections
 - Primary method in: [[Cloud Run Commit SHA Tracking]]

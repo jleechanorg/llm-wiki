@@ -17,5 +17,5 @@ System for determining combatant turn sequence in D&D 5e encounters. Players rol
 
 ## Related Concepts
 - [[CombatSystemProtocol]] — parent protocol
-- [[ReactionWindowProtocol]] — triggered during initiative turns
-- [[CombatVictoryProtocol]] — executes when combat ends in initiative sequence
+- [ReactionWindowProtocol](ReactionWindowProtocol.md) — triggered during initiative turns
+- [CombatVictoryProtocol](CombatVictoryProtocol.md) — executes when combat ends in initiative sequence

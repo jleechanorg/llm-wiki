@@ -10,13 +10,13 @@ total_scenes: 500
 
 ## Overview
 
-** Threshold Core - Void-Marrow appears in 7 scenes across the [[dragon-knight-evil]] campaign.
+** Threshold Core - Void-Marrow appears in 7 scenes across the [dragon-knight-evil](../sources/dragon-knight-evil.md) campaign.
 
 ## Description
 
 ** Threshold Core - Void-Marrow is an entity from the dragon-knight-evil campaign.
 
 ## References
-- [[dragon-knight-evil]] — campaign overview
-- [[dragon-knight-evil-campaign]]
+- [dragon-knight-evil](../sources/dragon-knight-evil.md) — campaign overview
+- [dragon-knight-evil-campaign](../sources/dragon-knight-evil-campaign.md)
 

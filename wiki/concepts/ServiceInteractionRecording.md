@@ -16,6 +16,6 @@ The practice of capturing real API calls and responses during test execution to 
 4. **JSON Persistence**: Saves complete interaction history for later analysis
 
 ## Related Concepts
-- [[MockValidation]] — comparing recorded interactions against mocks
-- [[CaptureManager]] — the class implementing this pattern
-- [[RealModeTesting]] — testing paradigm that uses interaction recording
+- [MockValidation](MockValidation.md) — comparing recorded interactions against mocks
+- [CaptureManager](../entities/CaptureManager.md) — the class implementing this pattern
+- [RealModeTesting](RealModeTesting.md) — testing paradigm that uses interaction recording

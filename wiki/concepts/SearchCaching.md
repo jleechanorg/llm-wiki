@@ -20,5 +20,5 @@ In-memory caching pattern that stores MCP search results to avoid redundant API 
 - Improves response latency for repeated queries
 
 ## Related Concepts
-- [[MemoryIntegration]]
+- [MemoryIntegration](MemoryIntegration.md)
 - [[Metrics Tracking]]

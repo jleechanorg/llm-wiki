@@ -20,4 +20,4 @@ Process of converting Python objects to/from JSON for Firestore storage, handlin
 
 ## Connections
 - [[Firestore Service]] — uses serialization for all database writes
-- [[GameState]] — serializes state for persistence
+- [GameState](GameState.md) — serializes state for persistence

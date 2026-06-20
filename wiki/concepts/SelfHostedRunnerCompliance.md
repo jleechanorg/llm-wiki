@@ -31,6 +31,6 @@ To prevent future policy drift, a daily compliance scanner is installed as a mac
 
 ## Related
 
-- [[SelfHostedRunnerNaming]] — name prefix matching Docker container names
-- [[InstallScriptIdempotency]] — making installer scripts idempotent for `.env` files
+- [SelfHostedRunnerNaming](SelfHostedRunnerNaming.md) — name prefix matching Docker container names
+- [InstallScriptIdempotency](InstallScriptIdempotency.md) — making installer scripts idempotent for `.env` files
 - [[GitHubActionsMeteredCost]] — metered billing cost drivers

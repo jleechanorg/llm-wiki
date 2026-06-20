@@ -19,16 +19,16 @@ Stage-0-Execution-Drift occurs when a migration phase meant to delete/quarantine
 
 | System | Type | Relevance |
 |--------|------|-----------|
-| [[ZFC-Level-Up-Architecture]] | Concept | The architecture that requires deletion-first before compliance evidence |
-| [[ZFC-Level-Up-Implementation-Stages]] | Concept | Defines M0 as 0% complete when legacy paths still alive |
-| [[Net-Negative-Deletion-Is-Ok]] | Concept | The principle violated — net production LOC must decrease, not increase |
-| [[BatchDeletion]] | Concept | Technique for safely removing legacy code paths |
-| [[LevelUpCentralTracker]] | Wiki | Tracks PR stack and merge order |
+| [ZFC-Level-Up-Architecture](ZFC-Level-Up-Architecture.md) | Concept | The architecture that requires deletion-first before compliance evidence |
+| [ZFC-Level-Up-Implementation-Stages](ZFC-Level-Up-Implementation-Stages.md) | Concept | Defines M0 as 0% complete when legacy paths still alive |
+| [Net-Negative-Deletion-Is-Ok](Net-Negative-Deletion-Is-Ok.md) | Concept | The principle violated — net production LOC must decrease, not increase |
+| [BatchDeletion](BatchDeletion.md) | Concept | Technique for safely removing legacy code paths |
+| [LevelUpCentralTracker](LevelUpCentralTracker.md) | Wiki | Tracks PR stack and merge order |
 | PR #6408 | Source | The PR that added code without deleting legacy |
 
 ## Connection to ZFC Level-Up Architecture
 
-The [[ZFC-Level-Up-Architecture]] explicitly states (line 759-765):
+The [ZFC-Level-Up-Architecture](ZFC-Level-Up-Architecture.md) explicitly states (line 759-765):
 > "The failure mode in the older stack was adding new centralization layers while old recovery paths stayed alive. That made every test failure ambiguous... Stage 0 removes that ambiguity before the MVP asks the model to prove compliance."
 
 Stage-0-Execution-Drift is the specific failure where this principle is violated — new formatter code is added while legacy `resolve_level_up_signal()`, `project_level_up_ui()`, and `_canonicalize_core()` fallback branches remain active and reachable in the production path.
@@ -44,7 +44,7 @@ The migration success criterion (roadmap line 244): "The migration is **not succ
 
 ## See Also
 
-- [[ZFC-Level-Up-Implementation-Stages]]
-- [[Net-Negative-Deletion-Is-Ok]]
-- [[BatchDeletion]]
-- [[ZFCNorthStar]]
+- [ZFC-Level-Up-Implementation-Stages](ZFC-Level-Up-Implementation-Stages.md)
+- [Net-Negative-Deletion-Is-Ok](Net-Negative-Deletion-Is-Ok.md)
+- [BatchDeletion](BatchDeletion.md)
+- [ZFCNorthStar](ZFCNorthStar.md)

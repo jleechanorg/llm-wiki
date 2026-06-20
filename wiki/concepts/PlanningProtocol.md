@@ -16,6 +16,6 @@ Provides the formal schema for:
 - Choice format (pros, cons, confidence)
 
 ## Related Concepts
-- [[ThinkMode]] — the system that uses this protocol
-- [[PlanQuality]] — affects how detailed the planning_block becomes
-- [[DifficultyClass]] — determines baseline complexity of the plan
+- [ThinkMode](ThinkMode.md) — the system that uses this protocol
+- [PlanQuality](PlanQuality.md) — affects how detailed the planning_block becomes
+- [DifficultyClass](DifficultyClass.md) — determines baseline complexity of the plan

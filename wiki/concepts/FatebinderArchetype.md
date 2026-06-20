@@ -11,7 +11,7 @@ The Fatebinder is the player archetype in the Tyranny campaign. Nocturne present
 
 ## Key Details
 - **Category:** GameMechanic / Player Archetype
-- **Campaign(s):** [[tyranny-campaign]]
+- **Campaign(s):** [tyranny-campaign](../sources/tyranny-campaign.md)
 - **Character:** Nocturne (Fatebinder / Ascendant Architect / Ghost in the Machine)
 - **Level:** 16+ (initially requested Level 1, then set to Level 6+)
 - **System:** D&D 5e
@@ -26,6 +26,6 @@ The Fatebinder is the player archetype in the Tyranny campaign. Nocturne present
 - **The Refactoring of Reality:** Seeks forbidden knowledge to "patch" the universe — Terratus is "full of bad code."
 
 ## Connections
-- [[tyranny]] — the campaign
-- [[Verse]] — key NPC, target of the "Itachi Experiment"
-- [[EdictOfExecution]] — the laws of Terratus the Fatebinder navigates
+- [tyranny](../sources/tyranny.md) — the campaign
+- [Verse](../entities/Verse.md) — key NPC, target of the "Itachi Experiment"
+- [EdictOfExecution](EdictOfExecution.md) — the laws of Terratus the Fatebinder navigates

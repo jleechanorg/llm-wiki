@@ -10,13 +10,13 @@ total_scenes: 822
 
 ## Overview
 
-** Coruscant - Senate Spire appears in 3 scenes across the [[alexiel-swtor]] campaign.
+** Coruscant - Senate Spire appears in 3 scenes across the [alexiel-swtor](../sources/alexiel-swtor.md) campaign.
 
 ## Description
 
 ** Coruscant - Senate Spire is an entity from the alexiel-swtor campaign.
 
 ## References
-- [[alexiel-swtor]] — campaign overview
-- [[alexiel-swtor-campaign]]
+- [alexiel-swtor](../sources/alexiel-swtor.md) — campaign overview
+- [alexiel-swtor-campaign](../sources/alexiel-swtor-campaign.md)
 

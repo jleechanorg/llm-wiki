@@ -17,6 +17,6 @@ Lee-Chan Consulting D/B/A WorldAI — the company operating worldarchitect.ai an
 - **Last Updated**: February 28, 2026 (Terms of Use)
 
 ## Connections
-- Operates [[worldarchitect.ai]] — AI-powered TTRPG campaign generator
-- Owned by [[Lee-Chan Consulting]] — the legal business entity
+- Operates [worldarchitect.ai](worldarchitect.ai.md) — AI-powered TTRPG campaign generator
+- Owned by [Lee-Chan Consulting](Lee-Chan Consulting.md) — the legal business entity
 - Governed by [[Terms of Use - WorldAI]]

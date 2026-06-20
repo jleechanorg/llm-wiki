@@ -23,7 +23,7 @@ The orchestrator agent built on OpenClaw that manages the fleet of coding agents
 | Gemini | UI design — generates HTML/CSS specs for Claude to implement |
 
 ## Connections
-- [[OpenClaw]] — platform running ZOE
-- [[Codex]] — primary coding agent (90% of tasks)
+- [OpenClaw](OpenClaw.md) — platform running ZOE
+- [Codex](Codex.md) — primary coding agent (90% of tasks)
 - [[Claude Code]] — secondary coding agent
-- [[Gemini]] — UI design agent
+- [Gemini](Gemini.md) — UI design agent

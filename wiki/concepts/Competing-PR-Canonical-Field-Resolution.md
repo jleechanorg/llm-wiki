@@ -21,7 +21,7 @@ inline `resolve_location`). #6896 merged first. #7048 took THEIRS on
 kept `location_util.py` as additive scaffolding.
 
 ## Related
-- [[pr7048-location-centralization-merged]]
+- [pr7048-location-centralization-merged](../sources/pr7048-location-centralization-merged.md)
 
 ## Source
 - ~/.claude/projects/-Users-jleechan-projects-worktree-location-centralize/memory/feedback_2026-05-24_competing_pr_canonical_field_resolution.md
@@ -34,10 +34,10 @@ the subset PR as subsumed and migrate its unique follow-ups/caveats to a comment
 on the superset before closing. Merging the incomplete subset first guarantees
 conflicts against the superset on the shared files and can land an inert half-fix
 that looks done. Confirm the superset relation by reading the production hunks,
-not a raw `gh pr diff | grep` (see [[CodeReviewMethodology]] §Grep-on-PR-diff).
+not a raw `gh pr diff | grep` (see [CodeReviewMethodology](CodeReviewMethodology.md) §Grep-on-PR-diff).
 Incident: PR #7330 (tool-attach only, gate never fires) subsumed by PR #7280
 (attaches tool + sets `code_execution_used` + new audit module).
-Source: [[sources/2026-06-07-competing-pr-subsumption-close-subset]] · bead rev-15x97.
+Source: [2026-06-07-competing-pr-subsumption-close-subset](../sources/2026-06-07-competing-pr-subsumption-close-subset.md) · bead rev-15x97.
 
 ## Superset-merge + deflate — byte-identical duplicate streams (2026-06-09)
 
@@ -58,4 +58,4 @@ rebase conflict churn. **Divergent** (non-identical) overlap is instead the
 stacked-PR single-writer stop-the-line case.
 Incident: dark-factory PR #40 (`bf694ad`, superset) / PR #41 (`fee8f01`,
 deflated to `minimal_research.dot` lane).
-Source: [[sources/duplicate-pr-superset-merge-2026-06-09]] · bead jleechan-clh.
+Source: [duplicate-pr-superset-merge-2026-06-09](../sources/duplicate-pr-superset-merge-2026-06-09.md) · bead jleechan-clh.

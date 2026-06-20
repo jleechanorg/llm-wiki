@@ -20,25 +20,25 @@ The Verification Loop is the closed-cycle pipeline that takes a generated code a
 
 ## Connections
 
-- [[SelfDebugging]] — the "fix" component of the loop, which produces corrected code for re-verification
-- [[AdversarialTesting]] — the "attack" phase of the loop, which attempts to find bugs the verifier missed
-- [[SelfCritique]] — the "evaluate" phase that informs which fixes are most critical
-- [[FormalVerification]] — one possible verification implementation within the loop
-- [[TwoStageEvidencePipeline]] — the verification loop extends the two-stage evidence pipeline into a multi-pass iterative loop
-- [[HarnessEngineering]] — a well-designed harness implements the verification loop as a first-class pipeline abstraction
-- [[SkepticGate]] — skeptic gates can serve as loop termination enforcers: if a skeptic gate fails, the loop continues fixing
-- [[ExtendedThinking]] — extended thinking enables more thorough verification at each loop stage
-- [[ReasoningBudget]] — reasoning budgets can be allocated per loop iteration based on remaining budget and problem difficulty
-- [[SelfCritiqueVerificationLoop]] — specific 3-iteration-cap implementation combining ReVeal test-generation with self-correction refinement, used in [[AutoResearchLoop]] Phase 2
-- [[SelfRefine]] — self-refine is the iterative revision mechanism within the loop: generate → critique → revise → repeat
-- [[DeterministicFeedbackLoops]] — deterministic fast-fail checks are the early-stage feedback before expensive LLM-judged loop stages
-- [[SelfGeneratedTestGeneration]] — self-generated tests fill coverage gaps where no existing test suite exists
+- [SelfDebugging](SelfDebugging.md) — the "fix" component of the loop, which produces corrected code for re-verification
+- [AdversarialTesting](AdversarialTesting.md) — the "attack" phase of the loop, which attempts to find bugs the verifier missed
+- [SelfCritique](SelfCritique.md) — the "evaluate" phase that informs which fixes are most critical
+- [FormalVerification](FormalVerification.md) — one possible verification implementation within the loop
+- [TwoStageEvidencePipeline](TwoStageEvidencePipeline.md) — the verification loop extends the two-stage evidence pipeline into a multi-pass iterative loop
+- [HarnessEngineering](HarnessEngineering.md) — a well-designed harness implements the verification loop as a first-class pipeline abstraction
+- [SkepticGate](SkepticGate.md) — skeptic gates can serve as loop termination enforcers: if a skeptic gate fails, the loop continues fixing
+- [ExtendedThinking](ExtendedThinking.md) — extended thinking enables more thorough verification at each loop stage
+- [ReasoningBudget](ReasoningBudget.md) — reasoning budgets can be allocated per loop iteration based on remaining budget and problem difficulty
+- [SelfCritiqueVerificationLoop](SelfCritiqueVerificationLoop.md) — specific 3-iteration-cap implementation combining ReVeal test-generation with self-correction refinement, used in [AutoResearchLoop](AutoResearchLoop.md) Phase 2
+- [SelfRefine](SelfRefine.md) — self-refine is the iterative revision mechanism within the loop: generate → critique → revise → repeat
+- [DeterministicFeedbackLoops](DeterministicFeedbackLoops.md) — deterministic fast-fail checks are the early-stage feedback before expensive LLM-judged loop stages
+- [SelfGeneratedTestGeneration](SelfGeneratedTestGeneration.md) — self-generated tests fill coverage gaps where no existing test suite exists
 
 ## Relationships to Other Concepts
 
-The verification loop is the macro-level pattern that unifies [[ExtendedThinking]], [[ReasoningBudget]], [[SelfCritique]], [[AdversarialTesting]], [[SelfDebugging]], and [[FormalVerification]] into a coherent pipeline. A harness implementing all of these concepts together has a complete autonomous code quality system.
+The verification loop is the macro-level pattern that unifies [ExtendedThinking](ExtendedThinking.md), [ReasoningBudget](ReasoningBudget.md), [SelfCritique](SelfCritique.md), [AdversarialTesting](AdversarialTesting.md), [SelfDebugging](SelfDebugging.md), and [FormalVerification](FormalVerification.md) into a coherent pipeline. A harness implementing all of these concepts together has a complete autonomous code quality system.
 
 ## See Also
-- [[ContinuousVerification]]
-- [[CI-Gates]]
-- [[LLM-as-Judge-Pattern]]
+- [ContinuousVerification](ContinuousVerification.md)
+- [CI-Gates](CI-Gates.md)
+- [LLM-as-Judge-Pattern](LLM-as-Judge-Pattern.md)

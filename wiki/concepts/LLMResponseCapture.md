@@ -14,5 +14,5 @@ Technique for capturing and preserving actual LLM outputs during testing. Used t
 - **JSON Serialization** — Store responses with metadata for analysis
 
 ## Related Concepts
-- [[IntegrationTesting]]
-- [[FlaskTestClient]]
+- [IntegrationTesting](IntegrationTesting.md)
+- [FlaskTestClient](FlaskTestClient.md)

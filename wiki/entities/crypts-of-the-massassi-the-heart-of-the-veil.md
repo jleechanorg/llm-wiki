@@ -10,13 +10,13 @@ total_scenes: 396
 
 ## Overview
 
-** Crypts of the Massassi - The Heart of the Veil appears in 19 scenes across the [[nocturne-old-republic]] campaign.
+** Crypts of the Massassi - The Heart of the Veil appears in 19 scenes across the [nocturne-old-republic](../sources/nocturne-old-republic.md) campaign.
 
 ## Description
 
 ** Crypts of the Massassi - The Heart of the Veil is an entity from the nocturne-old-republic campaign.
 
 ## References
-- [[nocturne-old-republic]] — campaign overview
-- [[nocturne-old-republic-campaign]]
+- [nocturne-old-republic](../sources/nocturne-old-republic.md) — campaign overview
+- [nocturne-old-republic-campaign](../sources/nocturne-old-republic-campaign.md)
 

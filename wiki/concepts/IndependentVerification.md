@@ -60,6 +60,6 @@ Stage 1 self-review is valuable because:
 Without stage 1, every failure would go to stage 2, creating unnecessary independent review overhead for fixable issues.
 
 ## Related Concepts
-- [[TwoStageEvidencePipeline]]
-- [[MergeReadinessContract]]
-- [[AutonomousAgentLoop]]
+- [TwoStageEvidencePipeline](TwoStageEvidencePipeline.md)
+- [MergeReadinessContract](MergeReadinessContract.md)
+- [AutonomousAgentLoop](AutonomousAgentLoop.md)

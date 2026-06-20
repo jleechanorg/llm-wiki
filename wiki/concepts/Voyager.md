@@ -30,12 +30,12 @@ Automatic Curriculum → Skill Library ←→ Iterative Prompting (GPT-4)
 
 ## Connections
 
-- Pioneer of [[SelfRefine]] pattern — iterative prompting with self-verification
+- Pioneer of [SelfRefine](SelfRefine.md) pattern — iterative prompting with self-verification
 - Skill library pattern adopted by later frameworks
-- [[AgentMentor]] extends self-verification as corrective instruction
-- [[Mem2Evolve]] extends memory evolution from Voyager's skill library concept
+- [AgentMentor](AgentMentor.md) extends self-verification as corrective instruction
+- [Mem2Evolve](Mem2Evolve.md) extends memory evolution from Voyager's skill library concept
 
 ## See Also
-- [[SelfRefine]] — Madaan 2023 iterative refinement
-- [[AgentMentor]] — execution log monitoring for corrective instructions
-- [[SWE-Shepherd]] — PRM-based step-level guidance
+- [SelfRefine](SelfRefine.md) — Madaan 2023 iterative refinement
+- [AgentMentor](AgentMentor.md) — execution log monitoring for corrective instructions
+- [SWE-Shepherd](SWE-Shepherd.md) — PRM-based step-level guidance

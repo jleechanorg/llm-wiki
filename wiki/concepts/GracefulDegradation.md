@@ -13,6 +13,6 @@ Graceful degradation is a design pattern where a system continues functioning (a
 When checkpoint_block or sequence_id exceeds allocated budget, the system reduces story_context allocation instead of throwing ValueError. This preserves fixed-size components while allowing the request to proceed with smaller story context.
 
 ## Related Concepts
-- [[BudgetAllocation]]
-- [[TestDrivenDevelopment]]
+- [BudgetAllocation](BudgetAllocation.md)
+- [TestDrivenDevelopment](TestDrivenDevelopment.md)
 - [[ErrorRecovery]]

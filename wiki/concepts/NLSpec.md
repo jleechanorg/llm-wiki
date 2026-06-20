@@ -16,14 +16,14 @@ NLSpec (Natural Language Specification) is a detailed prose specification that d
 ## Related Systems
 | System | Type | Relevance |
 |--------|------|-----------|
-| [[AttractorBench]] | Benchmark | Tests NLSpec-following ability |
-| [[AttractorPattern]] | Pattern | NLSpecs are the core artifact |
+| [AttractorBench](../entities/AttractorBench.md) | Benchmark | Tests NLSpec-following ability |
+| [AttractorPattern](AttractorPattern.md) | Pattern | NLSpecs are the core artifact |
 | [[Attractor]] | Repo | strongdm/attractor hosts the upstream NLSpecs |
 
 ## Connection to Attractor Pattern
 NLSpecs ARE the Attractor pattern's primary deliverable. The bet is that well-written NLSpecs act as attractors in design space, pulling implementations toward a common architecture.
 
 ## See Also
-- [[AttractorPattern]]
-- [[DOTAsArtifact]]
-- [[Dorodango]]
+- [AttractorPattern](AttractorPattern.md)
+- [DOTAsArtifact](DOTAsArtifact.md)
+- [Dorodango](Dorodango.md)

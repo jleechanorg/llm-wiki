@@ -19,5 +19,5 @@ Algorithm that identifies when two or more DOM elements occupy the same screen s
 Overlapping elements cause usability issues: buttons that can't be clicked, text that can't be read, modal overlays that don't properly cover content.
 
 ## Related Concepts
-- [[VisualValidation]] — broader testing category
+- [VisualValidation](VisualValidation.md) — broader testing category
 - [[ZIndexManagement]] — CSS property that often causes overlap issues

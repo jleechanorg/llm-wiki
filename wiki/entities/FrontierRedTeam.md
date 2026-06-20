@@ -17,10 +17,10 @@ Anthropic's Frontier Red Team analyzes cybersecurity, biosecurity, and autonomou
 
 ## Connections
 
-- [[AnthropicAlignment]] — Frontier Red Team is part of Anthropic's alignment research
-- [[AdversarialTesting]] — red teaming is a form of adversarial testing
-- [[GovernanceLayer]] — red teaming insights can inform governance constraint design
+- [AnthropicAlignment](AnthropicAlignment.md) — Frontier Red Team is part of Anthropic's alignment research
+- [AdversarialTesting](../concepts/AdversarialTesting.md) — red teaming is a form of adversarial testing
+- [GovernanceLayer](../concepts/GovernanceLayer.md) — red teaming insights can inform governance constraint design
 
 ## See Also
-- [[AnthropicAlignment]]
-- [[AdversarialTesting]]
+- [AnthropicAlignment](AnthropicAlignment.md)
+- [AdversarialTesting](../concepts/AdversarialTesting.md)

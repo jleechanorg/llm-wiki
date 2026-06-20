@@ -33,5 +33,5 @@ The `download_campaign.py` script uses `WORLDAI_DEV_MODE=true` which:
 
 ## Related
 
-- [[CampaignDownloadMethodology]] — Working pattern for downloading campaigns
+- [CampaignDownloadMethodology](CampaignDownloadMethodology.md) — Working pattern for downloading campaigns
 - [[FirebaseAdminSDK]] — Python SDK pattern

@@ -18,5 +18,5 @@ An API interface that replicates the OpenAI chat completions format, allowing co
 The OpenClaw proxy implementation at mvp_site.llm_providers.openai_proxy_provider provides an OpenAI-compatible interface that forwards requests to a configurable gateway URL, enabling use of alternative LLM providers while maintaining OpenAI client compatibility.
 
 ## Related Concepts
-- [[ChatCompletions]] — the specific endpoint for conversational text generation
+- [ChatCompletions](ChatCompletions.md) — the specific endpoint for conversational text generation
 - [[GatewayForwarding]] — pattern of routing requests through a proxy layer

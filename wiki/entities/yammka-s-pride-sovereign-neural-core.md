@@ -10,13 +10,13 @@ total_scenes: 396
 
 ## Overview
 
-** Yammka's Pride - Sovereign Neural Core appears in 8 scenes across the [[nocturne-old-republic]] campaign.
+** Yammka's Pride - Sovereign Neural Core appears in 8 scenes across the [nocturne-old-republic](../sources/nocturne-old-republic.md) campaign.
 
 ## Description
 
 ** Yammka's Pride - Sovereign Neural Core is an entity from the nocturne-old-republic campaign.
 
 ## References
-- [[nocturne-old-republic]] — campaign overview
-- [[nocturne-old-republic-campaign]]
+- [nocturne-old-republic](../sources/nocturne-old-republic.md) — campaign overview
+- [nocturne-old-republic-campaign](../sources/nocturne-old-republic-campaign.md)
 

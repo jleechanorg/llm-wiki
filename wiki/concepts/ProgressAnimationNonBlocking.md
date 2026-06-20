@@ -19,5 +19,5 @@ A design pattern where visual progress indicators run independently of actual ba
 - [[Campaign Wizard Timing Tests]] — validates non-blocking progress animation behavior
 
 ## Connections
-- [[ZeroArtificialDelays]] — part of the zero-delay principle
+- [ZeroArtificialDelays](ZeroArtificialDelays.md) — part of the zero-delay principle
 - [[AsyncUI]] — handles async completion patterns

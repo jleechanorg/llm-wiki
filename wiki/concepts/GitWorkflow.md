@@ -43,5 +43,5 @@ checkout conflict. Source: `sources/integrate-sh-worktree-main-elsewhere.md`
 ## Related
 
 - [[WorktreeDiscipline]] — worktree-specific operational rules
-- [[NoWorktreeIsolation]] — worktree ref-exclusivity constraint
+- [NoWorktreeIsolation](NoWorktreeIsolation.md) — worktree ref-exclusivity constraint
 - [[BranchUpstreamTracking]] — source learning page

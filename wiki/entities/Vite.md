@@ -15,8 +15,8 @@ Next-generation front-end build tool used for AI Universe frontend. Version 7.1.
 - **TypeScript**: tsc --project tsconfig.prod.json
 
 ## Connections
-- [[AIUniverseFrontendFinal]] — built with Vite
-- [[React]] — framework being bundled
+- [AIUniverseFrontendFinal](AIUniverseFrontendFinal.md) — built with Vite
+- [React](../concepts/React.md) — framework being bundled
 
 ## Source
 [[AI Universe Frontend Testing Report]]

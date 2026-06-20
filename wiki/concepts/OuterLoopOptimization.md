@@ -20,6 +20,6 @@ Outer Loop Optimization refers to the distinction between optimizing the harness
 
 ## Connections
 
-- [[MetaHarness]] — the system that automates outer loop optimization
-- [[HarnessEngineering]] — the practice of outer loop changes
-- [[InnerLoop]] — the LLM inference step that outer loop changes affect
+- [MetaHarness](MetaHarness.md) — the system that automates outer loop optimization
+- [HarnessEngineering](HarnessEngineering.md) — the practice of outer loop changes
+- [InnerLoop](InnerLoop.md) — the LLM inference step that outer loop changes affect

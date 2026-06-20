@@ -30,6 +30,6 @@ if agent == last_agent and consecutive_count >= MAX_CONSECUTIVE_SAME_AGENT:
 ```
 
 ## Connections
-- [[DeterministicFeedbackLoops]] — related: feedback loop without termination
-- [[LLM-as-Judge-Pattern]] — monitoring layer that should detect this
-- [[Compound-Loops]] — related: nested retry loops without exit condition
+- [DeterministicFeedbackLoops](DeterministicFeedbackLoops.md) — related: feedback loop without termination
+- [LLM-as-Judge-Pattern](LLM-as-Judge-Pattern.md) — monitoring layer that should detect this
+- [Compound-Loops](Compound-Loops.md) — related: nested retry loops without exit condition

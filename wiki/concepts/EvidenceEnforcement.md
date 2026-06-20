@@ -23,8 +23,8 @@ Evidence enforcement is "not fully enforced" because:
 3. No required check on main branch
 
 ## Connections
-- [[WorldArchitect.AI]] — primary repo enforcing evidence
-- [[AgentOrchestrator]] — cross-repo evidence alignment (bd-f6uh)
+- [WorldArchitect.AI](../entities/WorldArchitect.AI.md) — primary repo enforcing evidence
+- [AgentOrchestrator](../entities/AgentOrchestrator.md) — cross-repo evidence alignment (bd-f6uh)
 - [[FakeCodeDetection]] — complementary: enforces real implementations vs real evidence
-- [[Beads]] — rev-b8a0 (branch protection), rev-3oon (bundle CI), rev-owc1 (gate triggers)
+- [Beads](../entities/Beads.md) — rev-b8a0 (branch protection), rev-3oon (bundle CI), rev-owc1 (gate triggers)
 - [[CIgate]] — evidence-gate.yml as CI gate pattern

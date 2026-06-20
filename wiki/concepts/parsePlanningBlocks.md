@@ -16,5 +16,5 @@ JavaScript function that parses planning block JSON data from the server and ren
 - Preserves special characters without HTML escaping
 
 ## Related
-- [[PlanningBlock]] — the data structure being parsed
+- [PlanningBlock](PlanningBlock.md) — the data structure being parsed
 - [[Frontend JSON Planning Block Tests]] — TDD tests for this function

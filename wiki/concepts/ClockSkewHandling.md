@@ -15,5 +15,5 @@ Detection and handling of JWT "Token used too early" errors that occur when clie
 - Initiates recursive retry with incremented retryCount
 
 ## Related Concepts
-- [[AutoRetryMechanism]] — retry logic triggered by clock skew
-- [[JWT]] — token system experiencing skew
+- [AutoRetryMechanism](AutoRetryMechanism.md) — retry logic triggered by clock skew
+- [JWT](../entities/JWT.md) — token system experiencing skew

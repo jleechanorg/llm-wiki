@@ -10,13 +10,13 @@ total_scenes: 417
 
 ## Overview
 
-** Lady Rohanne's Solar, Coldmoat appears in 18 scenes across the [[visenya-v4]] campaign.
+** Lady Rohanne's Solar, Coldmoat appears in 18 scenes across the [visenya-v4](../sources/visenya-v4.md) campaign.
 
 ## Description
 
 ** Lady Rohanne's Solar, Coldmoat is an entity from the visenya-v4 campaign.
 
 ## References
-- [[visenya-v4]] — campaign overview
+- [visenya-v4](../sources/visenya-v4.md) — campaign overview
 - [[visenya-v4-campaign]]
 

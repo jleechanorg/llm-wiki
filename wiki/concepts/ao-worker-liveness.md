@@ -25,5 +25,5 @@ Misinterpreting between-turn idle as "frozen" or "stuck" leads to:
 
 ## Related
 
-- [[hermes-launchd-meta-pattern]] — Liveness ≠ Functionality applies broadly
+- [hermes-launchd-meta-pattern](../sources/hermes-launchd-meta-pattern.md) — Liveness ≠ Functionality applies broadly
 - Source: `sources/ao-worker-tmux-reading.md`

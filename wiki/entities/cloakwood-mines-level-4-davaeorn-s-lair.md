@@ -10,13 +10,13 @@ total_scenes: 253
 
 ## Overview
 
-** Cloakwood Mines, Level 4 (Davaeorn's Lair) appears in 3 scenes across the [[bg1-nocturne]] campaign.
+** Cloakwood Mines, Level 4 (Davaeorn's Lair) appears in 3 scenes across the [bg1-nocturne](../sources/bg1-nocturne.md) campaign.
 
 ## Description
 
 ** Cloakwood Mines, Level 4 (Davaeorn's Lair) is an entity from the bg1-nocturne campaign.
 
 ## References
-- [[bg1-nocturne]] — campaign overview
-- [[bg1-nocturne-campaign]]
+- [bg1-nocturne](../sources/bg1-nocturne.md) — campaign overview
+- [bg1-nocturne-campaign](../sources/bg1-nocturne-campaign.md)
 

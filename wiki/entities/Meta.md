@@ -14,5 +14,5 @@ Meta is Facebook's parent company and creator of the Llama open-source language 
 
 ## Related
 - [[Llama]] — Meta's open-source LLM series
-- [[OpenRouter]] — Distributes Meta models
-- [[OpenClaw]] — Can run Llama locally
+- [OpenRouter](OpenRouter.md) — Distributes Meta models
+- [OpenClaw](OpenClaw.md) — Can run Llama locally

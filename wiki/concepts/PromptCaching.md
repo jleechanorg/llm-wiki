@@ -37,8 +37,8 @@ The prompt caching system in WorldAI that separates cacheable (static) from unca
 
 ## Connections
 
-- [[PromptEngineering]] — prompt building and optimization
-- [[AgentPrompts]] — centralized prompt manipulation
-- [[SchemaValidation]] — schema loading and caching
-- [[mvp-site-agent-prompts]] — implementation source
-- [[mvp-site-prompt-loader]] — prompt variant loading with caching
+- [PromptEngineering](PromptEngineering.md) — prompt building and optimization
+- [AgentPrompts](../entities/AgentPrompts.md) — centralized prompt manipulation
+- [SchemaValidation](SchemaValidation.md) — schema loading and caching
+- [mvp-site-agent-prompts](../sources/mvp-site-agent-prompts.md) — implementation source
+- [mvp-site-prompt-loader](../sources/mvp-site-prompt-loader.md) — prompt variant loading with caching

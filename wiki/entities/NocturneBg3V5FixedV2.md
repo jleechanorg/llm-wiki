@@ -49,8 +49,8 @@ The terminal scene (925) is Level 242 Overgod in the Shattered Citadel on Layer 
 
 ## Connections
 
-- [[NocturneSosuke]] — the recurring Nocturne character archetype
-- [[MalcanthetPatron]] — demon patron (inverted)
+- [NocturneSosuke](NocturneSosuke.md) — the recurring Nocturne character archetype
+- [MalcanthetPatron](../concepts/MalcanthetPatron.md) — demon patron (inverted)
 - [[Githyanki]] — major faction integration
 - [[Stygia]] — Fourth Layer of the Nine Hells (Tomb of Levistus)
 - [[TheAbyss]] — terminal location (Layer 666)

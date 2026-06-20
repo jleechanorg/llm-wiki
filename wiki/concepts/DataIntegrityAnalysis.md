@@ -19,6 +19,6 @@ Analysis methodology for verifying consistency between raw data and reported con
 The analysis identified that performance evaluation data showed 100% test failures (all 45 tests failed with "unknown option '--new-conversation'"), but the summary documentation claimed 16-18x speed improvements. This discrepancy triggered a BLOCK MERGE recommendation.
 
 ## Related Concepts
-- [[DocumentationQualityAssessment]]
-- [[SecurityAnalysis]]
-- [[CodeReviewMethodology]]
+- [DocumentationQualityAssessment](DocumentationQualityAssessment.md)
+- [SecurityAnalysis](SecurityAnalysis.md)
+- [CodeReviewMethodology](CodeReviewMethodology.md)

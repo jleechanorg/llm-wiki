@@ -19,5 +19,5 @@ Technical capability enabling LLM to execute code AND return structured JSON in 
 - Combined tool use with JSON responses
 
 ## Related
-- [[Gemini]] — only provider with this capability
+- [Gemini](../entities/Gemini.md) — only provider with this capability
 - [[Shared Constants Configuration]] — defines MODELS_WITH_CODE_EXECUTION set

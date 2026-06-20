@@ -18,6 +18,6 @@ Pydantic model representing a scene's extracted entities from game state. Contai
 Created via `entity_tracking.create_from_game_state()` which validates input game_state dict and returns typed SceneManifest.
 
 ## Related Concepts
-- [[Pydantic]] — validation framework
-- [[entity_tracking]] — module that creates manifests
+- [Pydantic](Pydantic.md) — validation framework
+- [entity_tracking](../entities/entity_tracking.md) — module that creates manifests
 - DefensiveNumericConverter — handles type coercion during creation

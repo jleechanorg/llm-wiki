@@ -10,13 +10,13 @@ total_scenes: 211
 
 ## Overview
 
-** Limestone Ridge, Red Fork River-bend appears in 8 scenes across the [[aemon-game-of-thrones]] campaign.
+** Limestone Ridge, Red Fork River-bend appears in 8 scenes across the [aemon-game-of-thrones](../sources/aemon-game-of-thrones.md) campaign.
 
 ## Description
 
 ** Limestone Ridge, Red Fork River-bend is an entity from the aemon-game-of-thrones campaign.
 
 ## References
-- [[aemon-game-of-thrones]] — campaign overview
-- [[aemon-game-of-thrones-campaign]]
+- [aemon-game-of-thrones](../sources/aemon-game-of-thrones.md) — campaign overview
+- [aemon-game-of-thrones-campaign](../sources/aemon-game-of-thrones-campaign.md)
 

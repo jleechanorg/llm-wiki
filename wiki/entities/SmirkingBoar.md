@@ -13,6 +13,6 @@ The Smirking Boar is a tavern in Baldur's Gate serving as the operations base fo
 This location represents the noir underside of Baldur's Gate — where criminals gather away from official eyes and where the kidnapping contract originates.
 
 ## Connections
-- [[OldNocturneMercBg3]] — Operative base
-- [[TheGuild]] — Controlling faction
-- [[SmileyArvax]] — Lieutenant contact
+- [OldNocturneMercBg3](OldNocturneMercBg3.md) — Operative base
+- [TheGuild](TheGuild.md) — Controlling faction
+- [SmileyArvax](SmileyArvax.md) — Lieutenant contact

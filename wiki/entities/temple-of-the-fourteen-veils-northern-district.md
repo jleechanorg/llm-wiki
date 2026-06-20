@@ -10,13 +10,13 @@ total_scenes: 277
 
 ## Overview
 
-** Temple of the Fourteen Veils (Northern District) appears in 5 scenes across the [[visenya-v2]] campaign.
+** Temple of the Fourteen Veils (Northern District) appears in 5 scenes across the [visenya-v2](../sources/visenya-v2.md) campaign.
 
 ## Description
 
 ** Temple of the Fourteen Veils (Northern District) is an entity from the visenya-v2 campaign.
 
 ## References
-- [[visenya-v2]] — campaign overview
+- [visenya-v2](../sources/visenya-v2.md) — campaign overview
 - [[visenya-v2-campaign]]
 

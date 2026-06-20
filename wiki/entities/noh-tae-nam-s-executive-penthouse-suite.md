@@ -10,13 +10,13 @@ total_scenes: 136
 
 ## Overview
 
-** Noh Tae-nam's Executive Penthouse Suite appears in 5 scenes across the [[doberman]] campaign.
+** Noh Tae-nam's Executive Penthouse Suite appears in 5 scenes across the [doberman](../sources/doberman.md) campaign.
 
 ## Description
 
 ** Noh Tae-nam's Executive Penthouse Suite is an entity from the doberman campaign.
 
 ## References
-- [[doberman]] — campaign overview
-- [[doberman-campaign]]
+- [doberman](../sources/doberman.md) — campaign overview
+- [doberman-campaign](../sources/doberman-campaign.md)
 

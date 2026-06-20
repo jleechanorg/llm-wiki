@@ -20,7 +20,7 @@ Structured markers embedded in LLM output to separate debug information from nar
 - More machine-parseable, better for testing
 
 ## Used In
-- [[hybrid-debug-content-system]] — handles both old and new formats for backward compatibility
+- [hybrid-debug-content-system](../sources/hybrid-debug-content-system.md) — handles both old and new formats for backward compatibility
 - [[llm-response]] — shares pattern definitions
 - [[narrative-response-schema]] — JSON cleanup patterns
 

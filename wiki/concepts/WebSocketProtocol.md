@@ -34,7 +34,7 @@ Client → WebSocket Handshake (HTTP) → Persistent Connection → Bidirectiona
 - **Real-time**: Immediate message delivery
 
 ## Related Concepts
-- [[BrowserAutomation]]
-- [[ChromeDevToolsProtocol]]
-- [[Playwright]]
-- [[SuperpowersChrome]]
+- [BrowserAutomation](BrowserAutomation.md)
+- [ChromeDevToolsProtocol](ChromeDevToolsProtocol.md)
+- [Playwright](Playwright.md)
+- [SuperpowersChrome](../entities/SuperpowersChrome.md)

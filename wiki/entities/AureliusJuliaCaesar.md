@@ -12,8 +12,8 @@ Aurelius Julia Caesar is the "Sun of Rome" — the youngest and most ambitious s
 
 ## Appears In
 
-- [[aurelius-julius-caesar-v1]] — 980 entries; primary campaign
-- [[aurelius-caesar-v2]] — Continuation/variant
+- [aurelius-julius-caesar-v1](../sources/aurelius-julius-caesar-v1.md) — 980 entries; primary campaign
+- [aurelius-caesar-v2](../sources/aurelius-caesar-v2.md) — Continuation/variant
 
 ## Key Traits
 
@@ -28,6 +28,6 @@ Aurelius Julia Caesar is the "Sun of Rome" — the youngest and most ambitious s
 
 ## Relationships Across Campaigns
 
-- [[GaiaJuliaCaesar]] — Sister variant; same alternate Rome, same Auctoritas/Miasma mechanics
-- [[AizenSosuke]] — Parallel (polarizing beauty, core compulsion, two masks, hedonistic urge)
-- [[NocturneSosuke]] — Parallel (Singularity, domination, Charisma-as-force)
+- [GaiaJuliaCaesar](GaiaJuliaCaesar.md) — Sister variant; same alternate Rome, same Auctoritas/Miasma mechanics
+- [AizenSosuke](AizenSosuke.md) — Parallel (polarizing beauty, core compulsion, two masks, hedonistic urge)
+- [NocturneSosuke](NocturneSosuke.md) — Parallel (Singularity, domination, Charisma-as-force)

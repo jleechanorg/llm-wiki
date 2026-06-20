@@ -24,8 +24,8 @@ sse = event.to_sse()  # "data: {\"type\": \"chunk\", ...}\n\n"
 ```
 
 ## Related Concepts
-- [[StreamingOrchestrator]] — Module that creates StreamEvent instances
-- [[ServerSentEvents]] — Protocol for transmitting events
+- [StreamingOrchestrator](StreamingOrchestrator.md) — Module that creates StreamEvent instances
+- [ServerSentEvents](ServerSentEvents.md) — Protocol for transmitting events
 
 ## Connections
 - Tested by [[StreamingOrchestratorModuleTests]]

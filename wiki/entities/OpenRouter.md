@@ -15,6 +15,6 @@ An LLM aggregation provider that serves multiple models including Grok. Used by 
 - Alternative to Gemini and Cerebras providers
 
 ## Related
-- [[spicy-mode-toggle-e2e-tests]] — tests using OpenRouter
+- [spicy-mode-toggle-e2e-tests](../sources/spicy-mode-toggle-e2e-tests.md) — tests using OpenRouter
 - [[spicy-mode]] — feature that uses OpenRouter for Grok
-- [[grok]] — model served via OpenRouter
+- [grok](grok.md) — model served via OpenRouter

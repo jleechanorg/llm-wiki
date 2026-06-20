@@ -10,6 +10,6 @@ last_updated: 2026-04-08
 Bootstrap 5 component for displaying hover text on UI elements. Initialized via data-bs-toggle="tooltip" attributes and JavaScript Tooltip.getOrCreateInstance() calls on mode selection buttons.
 
 ## Related Concepts
-- [[Bootstrap]]
+- [Bootstrap](../entities/Bootstrap.md)
 - [[Accessibility]]
-- [[MicroInteractions]]
+- [MicroInteractions](MicroInteractions.md)

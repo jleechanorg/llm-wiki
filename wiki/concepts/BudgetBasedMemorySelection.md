@@ -21,5 +21,5 @@ Algorithm for selecting which memories to include when token budget is exceeded.
 - `min_recent` — minimum recent memories to always preserve
 
 ## Connected To
-- [[MemoryUtils]] — implements select_memories_by_budget()
+- [MemoryUtils](../entities/MemoryUtils.md) — implements select_memories_by_budget()
 - [[Memory Budget Alignment]] — ensures budget selection respects BUDGET_CORE_MEMORIES_MIN/MAX bounds

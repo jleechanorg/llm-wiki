@@ -13,7 +13,7 @@ User-facing modes are agent modes that CAN be explicitly requested via the API '
 ## Examples
 
 - **MODE_THINK** — triggers [[PlanningAgent]] for structured reasoning
-- **MODE_GOD** — triggers [[GodModeAgent]] for narrative generation
+- **MODE_GOD** — triggers [GodModeAgent](../entities/GodModeAgent.md) for narrative generation
 
 ## Usage
 
@@ -31,6 +31,6 @@ agent, _ = get_agent_for_input("fix the story", mock_state, mode=constants.MODE_
 
 ## Related
 
-- [[InternalModes]] — modes that cannot be explicitly requested
+- [InternalModes](InternalModes.md) — modes that cannot be explicitly requested
 - [[PlanningAgent]] — handles think mode
-- [[GodModeAgent]] — handles god mode
+- [GodModeAgent](../entities/GodModeAgent.md) — handles god mode

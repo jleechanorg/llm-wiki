@@ -19,6 +19,6 @@ AI Dungeon is a pioneering AI text adventure platform and first-mover in the AI 
 AI Dungeon represents a cautionary tale: first-mover advantage is insufficient without solving core technical problems like memory consistency. WorldArchitect.AI positions itself as the successor that solves these fundamental issues.
 
 ## See Also
-- [[WorldArchitectAI]] — competitor solving memory issues
+- [WorldArchitectAI](WorldArchitectAI.md) — competitor solving memory issues
 - [[Character.AI]] — another competitor with memory degradation
-- [[NovelAI]] — technically superior competitor
+- [NovelAI](NovelAI.md) — technically superior competitor

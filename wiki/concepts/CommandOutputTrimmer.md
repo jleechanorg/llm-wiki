@@ -20,6 +20,6 @@ A smart compression system that intercepts verbose CLI command outputs and appli
 - **Limit**: Maximum N lines of specific content types
 
 ## Related Concepts
-- [[PostToolUseHook]] — the Claude Code hook mechanism used for integration
+- [PostToolUseHook](PostToolUseHook.md) — the Claude Code hook mechanism used for integration
 - [[ContextWindowOptimization]] — similar goal of managing context consumption
 - [[OutputParsing]] — related to extracting structured data from command outputs

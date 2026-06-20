@@ -10,13 +10,13 @@ total_scenes: 669
 
 ## Overview
 
-** Grymforge - The Adamantine Forge appears in 17 scenes across the [[nocturne-bg3-v5-succubus-fixed-v1]] campaign.
+** Grymforge - The Adamantine Forge appears in 17 scenes across the [nocturne-bg3-v5-succubus-fixed-v1](../sources/nocturne-bg3-v5-succubus-fixed-v1.md) campaign.
 
 ## Description
 
 ** Grymforge - The Adamantine Forge is an entity from the nocturne-bg3-v5-succubus-fixed-v1 campaign.
 
 ## References
-- [[nocturne-bg3-v5-succubus-fixed-v1]] — campaign overview
-- [[nocturne-bg3-v5-succubus-fixed-v1-campaign]]
+- [nocturne-bg3-v5-succubus-fixed-v1](../sources/nocturne-bg3-v5-succubus-fixed-v1.md) — campaign overview
+- [nocturne-bg3-v5-succubus-fixed-v1-campaign](../sources/nocturne-bg3-v5-succubus-fixed-v1-campaign.md)
 

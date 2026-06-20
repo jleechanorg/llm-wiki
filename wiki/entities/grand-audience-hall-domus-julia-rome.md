@@ -10,13 +10,13 @@ total_scenes: 521
 
 ## Overview
 
-** Grand Audience Hall, Domus Julia, Rome appears in 23 scenes across the [[gaia-julia-v2]] campaign.
+** Grand Audience Hall, Domus Julia, Rome appears in 23 scenes across the [gaia-julia-v2](../sources/gaia-julia-v2.md) campaign.
 
 ## Description
 
 ** Grand Audience Hall, Domus Julia, Rome is an entity from the gaia-julia-v2 campaign.
 
 ## References
-- [[gaia-julia-v2]] — campaign overview
-- [[gaia-julia-v2-campaign]]
+- [gaia-julia-v2](../sources/gaia-julia-v2.md) — campaign overview
+- [gaia-julia-v2-campaign](../sources/gaia-julia-v2-campaign.md)
 

@@ -10,10 +10,10 @@ last_updated: 2026-04-08
 Test doubles that simulate external dependencies (databases, APIs, services) allowing tests to run in isolation without network calls or external dependencies.
 
 ## Key Mock Classes in This Project
-- [[FakeFirestoreClient]] — mocks Firestore database
-- [[FakeLLMResponse]] — mocks LLM provider responses
+- [FakeFirestoreClient](../entities/FakeFirestoreClient.md) — mocks Firestore database
+- [FakeLLMResponse](../entities/FakeLLMResponse.md) — mocks LLM provider responses
 
 ## Related Patterns
 - [[StubObjects]]
 - [[FakeObjects]]
-- [[TestIsolation]]
+- [TestIsolation](TestIsolation.md)

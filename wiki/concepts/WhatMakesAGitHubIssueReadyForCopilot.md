@@ -29,5 +29,5 @@ Organized into interpretable ML model categories:
 
 ## Connections
 
-- [[AgenticMuch]] — adoption implications
-- [[HarnessEngineering]] — issue quality as input harness
+- [AgenticMuch](AgenticMuch.md) — adoption implications
+- [HarnessEngineering](HarnessEngineering.md) — issue quality as input harness

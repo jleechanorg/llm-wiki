@@ -10,13 +10,13 @@ total_scenes: 141
 
 ## Overview
 
-** Pier 4 - Secondary Cooling Chamber appears in 3 scenes across the [[hunting-party-sariel]] campaign.
+** Pier 4 - Secondary Cooling Chamber appears in 3 scenes across the [hunting-party-sariel](../sources/hunting-party-sariel.md) campaign.
 
 ## Description
 
 ** Pier 4 - Secondary Cooling Chamber is an entity from the hunting-party-sariel campaign.
 
 ## References
-- [[hunting-party-sariel]] — campaign overview
-- [[hunting-party-sariel-campaign]]
+- [hunting-party-sariel](../sources/hunting-party-sariel.md) — campaign overview
+- [hunting-party-sariel-campaign](../sources/hunting-party-sariel-campaign.md)
 

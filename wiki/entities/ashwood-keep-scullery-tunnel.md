@@ -10,13 +10,13 @@ total_scenes: 500
 
 ## Overview
 
-** Ashwood Keep - Scullery Tunnel appears in 5 scenes across the [[dragon-knight-evil]] campaign.
+** Ashwood Keep - Scullery Tunnel appears in 5 scenes across the [dragon-knight-evil](../sources/dragon-knight-evil.md) campaign.
 
 ## Description
 
 ** Ashwood Keep - Scullery Tunnel is an entity from the dragon-knight-evil campaign.
 
 ## References
-- [[dragon-knight-evil]] — campaign overview
-- [[dragon-knight-evil-campaign]]
+- [dragon-knight-evil](../sources/dragon-knight-evil.md) — campaign overview
+- [dragon-knight-evil-campaign](../sources/dragon-knight-evil-campaign.md)
 

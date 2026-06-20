@@ -6,13 +6,13 @@ sources: [dragon-knight-description-length-tests]
 last_updated: 2026-04-08
 ---
 
-Text processing technique that shortens long content for display while indicating there is more. Implemented in [[CampaignWizard]]'s `_formatDescription()` method.
+Text processing technique that shortens long content for display while indicating there is more. Implemented in [CampaignWizard](CampaignWizard.md)'s `_formatDescription()` method.
 
 ## Specification
 - Truncates to 50 characters
 - Appends "..." to indicate continuation
-- Used for [[CampaignDescription]] previews
+- Used for [CampaignDescription](CampaignDescription.md) previews
 
 ## Related Pages
-- [[CampaignWizard]] - implements truncation
-- [[CampaignDescription]] - content being truncated
+- [CampaignWizard](CampaignWizard.md) - implements truncation
+- [CampaignDescription](CampaignDescription.md) - content being truncated

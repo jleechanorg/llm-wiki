@@ -21,5 +21,5 @@ A design pattern where module loading is deferred until first use. In Python, `i
 
 ## Wiki Connections
 - Tested by [[StartupImportLazyLoadingTests]]
-- Related to [[ColdStartOptimization]]
+- Related to [ColdStartOptimization](ColdStartOptimization.md)
 - Enables [[ImportPerformance]] improvements

@@ -10,13 +10,13 @@ total_scenes: 189
 
 ## Overview
 
-House Stark appears in 3 scenes across the [[ramsay-v1]] campaign.
+House Stark appears in 3 scenes across the [ramsay-v1](../sources/ramsay-v1.md) campaign.
 
 ## Description
 
 House Stark is an entity from the ramsay-v1 campaign.
 
 ## References
-- [[ramsay-v1]] — campaign overview
-- [[ramsay-v1-campaign]]
+- [ramsay-v1](../sources/ramsay-v1.md) — campaign overview
+- [ramsay-v1-campaign](../sources/ramsay-v1-campaign.md)
 

@@ -10,13 +10,13 @@ total_scenes: 437
 
 ## Overview
 
-** Fortress Vigil - Western Spillway Training Grounds appears in 4 scenes across the [[alexiel-assiah]] campaign.
+** Fortress Vigil - Western Spillway Training Grounds appears in 4 scenes across the [alexiel-assiah](../sources/alexiel-assiah.md) campaign.
 
 ## Description
 
 ** Fortress Vigil - Western Spillway Training Grounds is an entity from the alexiel-assiah campaign.
 
 ## References
-- [[alexiel-assiah]] — campaign overview
-- [[alexiel-assiah-campaign]]
+- [alexiel-assiah](../sources/alexiel-assiah.md) — campaign overview
+- [alexiel-assiah-campaign](../sources/alexiel-assiah-campaign.md)
 

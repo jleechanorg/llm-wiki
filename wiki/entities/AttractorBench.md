@@ -16,13 +16,13 @@ AttractorBench is StrongDM's benchmark for measuring how well coding agents impl
 - **Contamination protection**: Conformance tests generated locally, excluded from repo; specs are intentionally public
 
 ## Connections
-- [[StrongDM]] — StrongDM created AttractorBench
-- [[Harbor]] — AttractorBench runs through Harbor's concurrent benchmark runner
-- [[NLSpec]] — AttractorBench tests NLSpec-following ability
-- [[MockLLMTesting]] — AttractorBench uses a mock LLM server for deterministic verification
-- [[AttractorPattern]] — AttractorBench is the benchmark arm of the Attractor pattern
+- [StrongDM](StrongDM.md) — StrongDM created AttractorBench
+- [Harbor](Harbor.md) — AttractorBench runs through Harbor's concurrent benchmark runner
+- [NLSpec](../concepts/NLSpec.md) — AttractorBench tests NLSpec-following ability
+- [MockLLMTesting](../concepts/MockLLMTesting.md) — AttractorBench uses a mock LLM server for deterministic verification
+- [AttractorPattern](../concepts/AttractorPattern.md) — AttractorBench is the benchmark arm of the Attractor pattern
 
 ## See Also
-- [[StrongDM]]
-- [[NLSpec]]
-- [[MockLLMTesting]]
+- [StrongDM](StrongDM.md)
+- [NLSpec](../concepts/NLSpec.md)
+- [MockLLMTesting](../concepts/MockLLMTesting.md)

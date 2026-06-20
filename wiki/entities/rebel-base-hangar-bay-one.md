@@ -10,13 +10,13 @@ total_scenes: 133
 
 ## Overview
 
-** Rebel Base, Hangar Bay One appears in 4 scenes across the [[luke-v2]] campaign.
+** Rebel Base, Hangar Bay One appears in 4 scenes across the [luke-v2](../sources/luke-v2.md) campaign.
 
 ## Description
 
 ** Rebel Base, Hangar Bay One is an entity from the luke-v2 campaign.
 
 ## References
-- [[luke-v2]] — campaign overview
-- [[luke-v2-campaign]]
+- [luke-v2](../sources/luke-v2.md) — campaign overview
+- [luke-v2-campaign](../sources/luke-v2-campaign.md)
 

@@ -16,5 +16,5 @@ Structured fields parsing refers to the process of extracting typed fields from 
 - **Choice normalization**: _choices_by_id helper handles both dict and list choice formats
 
 ## Related Pages
-- [[LLMResponse]] — implements structured parsing
-- [[NarrativeResponse]] — schema definition
+- [LLMResponse](LLMResponse.md) — implements structured parsing
+- [NarrativeResponse](NarrativeResponse.md) — schema definition

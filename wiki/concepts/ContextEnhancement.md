@@ -28,7 +28,7 @@ The process of augmenting LLM prompts with relevant historical memories to impro
 
 ## Connections
 
-- [[MemoryManagement]] — broader memory selection and formatting system
-- [[MemoryIntegration]] — MCP integration pattern and its limitations
-- [[ContextCompaction]] — token budget management for memory integration
-- [[mvp-site-memory-utils]] — implementation of context enhancement utilities
+- [MemoryManagement](MemoryManagement.md) — broader memory selection and formatting system
+- [MemoryIntegration](MemoryIntegration.md) — MCP integration pattern and its limitations
+- [ContextCompaction](ContextCompaction.md) — token budget management for memory integration
+- [mvp-site-memory-utils](../sources/mvp-site-memory-utils.md) — implementation of context enhancement utilities

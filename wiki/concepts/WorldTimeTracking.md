@@ -16,5 +16,5 @@ When world_time is missing from state, defaults to midday (hour=12, minute=0, ti
 World time is preserved across turns unless explicitly updated by the LLM. Tests verify that time data survives through enforce_preventive_guards even when the model doesn't emit it.
 
 ## Related
-- [[PreventiveGuards]] manages time fallback and preservation
+- [PreventiveGuards](../entities/PreventiveGuards.md) manages time fallback and preservation
 - [[LocationTracking]] is another state preservation mechanism

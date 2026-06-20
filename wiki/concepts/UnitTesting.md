@@ -13,6 +13,6 @@ Unit testing is a software testing method where individual components are tested
 The test file uses Python's unittest framework to create unit tests that validate world_logic.py module structure without external dependencies. Uses mocking to isolate the module under test.
 
 ## Related Concepts
-- [[TestDrivenDevelopment]] — development methodology
-- [[Mocking]] — replacing dependencies
+- [TestDrivenDevelopment](TestDrivenDevelopment.md) — development methodology
+- [Mocking](Mocking.md) — replacing dependencies
 - [[TestFixture]] — test data setup

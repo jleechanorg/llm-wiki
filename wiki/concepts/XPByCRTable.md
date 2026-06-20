@@ -28,5 +28,5 @@ Experience point awards based on creature Challenge Rating, used for awarding XP
 - DM Reward Check: If roll ≥ DC → award XP (Skill=50-200, Trap=100-300, Knowledge=100-500, Persuasion=100-500). If roll < DC → award 0 XP.
 
 ## Related Concepts
-- [[MilestoneLeveling]] — level advancement method
-- [[MassCombat]] — large-scale combat system
+- [MilestoneLeveling](MilestoneLeveling.md) — level advancement method
+- [MassCombat](MassCombat.md) — large-scale combat system

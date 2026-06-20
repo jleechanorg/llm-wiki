@@ -10,7 +10,7 @@ Python testing infrastructure for WorldArchitect.AI located in testing_framework
 
 ## Components
 - [[CaptureFramework]] — API call recording and playback
-- [[CaptureAnalyzer]] — service interaction analysis
+- [CaptureAnalyzer](../entities/CaptureAnalyzer.md) — service interaction analysis
 - Mock providers for Firestore and Gemini services
 - Integration test utilities
 

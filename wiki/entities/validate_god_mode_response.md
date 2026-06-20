@@ -15,4 +15,4 @@ Validation function for god mode responses. Ensures response contains required f
 
 ## Connections
 - [[GOD MODE]] — validates god mode outputs
-- [[NarrativeResponse]] — response schema
+- [NarrativeResponse](NarrativeResponse.md) — response schema

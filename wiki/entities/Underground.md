@@ -31,7 +31,7 @@ Frisk begins their journey in the Underground after falling into Mt. Ebott. The 
 
 ## Connections
 
-- [[Frisk]] — The player character who fell into the Underground
+- [Frisk](Frisk.md) — The player character who fell into the Underground
 - [[Mt. Ebott]] — The mountain containing the entrance
 - [[Ruins]] — The starting area of the Underground
 - [[Undertale Campaign]] — The campaign setting

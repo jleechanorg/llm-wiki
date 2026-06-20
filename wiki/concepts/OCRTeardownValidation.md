@@ -75,8 +75,8 @@ Single-frame validation (e.g., only final frame) can miss issues where:
 4. **Expected scene list**: Define what content should appear in a passing test
 
 ## Connections
-- [[Harness5LayerModel]] — this is an L4 (Verification) failure: duration-only checks don't verify meaningful content
-- [[CanvasOverlayZIndexIssue]] — the L3 execution issue that caused the capture problems; OCR validation is the L4 complement to fix the verification gap
+- [Harness5LayerModel](Harness5LayerModel.md) — this is an L4 (Verification) failure: duration-only checks don't verify meaningful content
+- [CanvasOverlayZIndexIssue](CanvasOverlayZIndexIssue.md) — the L3 execution issue that caused the capture problems; OCR validation is the L4 complement to fix the verification gap
 
 ## Sources
 - test_full_lifecycle_video.py

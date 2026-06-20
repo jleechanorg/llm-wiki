@@ -19,11 +19,11 @@ Masked Power (also called "Smurfing") is the most ubiquitous mechanical concept 
 
 ## Examples Across Campaigns
 
-- [[Nocticula]] — Mana Veil: at level N, has spell slots as level N+2; can mask as any level ≤ current; using masked slots reveals true mana to detection
-- [[SarielCrossCampaign]] (Hunting Party) — True Level 9 / Masked Level 1; narrative treats her as a prodigy novice
-- [[Alexiel]] — Publicly a "Null" (no magic); secretly a magical prodigy with a Nullification Field
-- [[AizenSosuke]] — The Polite Prodigy (public) vs. the Absolute Sovereign (true); maintains the "harmless student" facade
-- [[VisenyaBelaerys]] — The Silver Persona; appears as a "lucky peasant" while being an Apex Monarch
+- [Nocticula](../entities/Nocticula.md) — Mana Veil: at level N, has spell slots as level N+2; can mask as any level ≤ current; using masked slots reveals true mana to detection
+- [SarielCrossCampaign](../entities/SarielCrossCampaign.md) (Hunting Party) — True Level 9 / Masked Level 1; narrative treats her as a prodigy novice
+- [Alexiel](../entities/Alexiel.md) — Publicly a "Null" (no magic); secretly a magical prodigy with a Nullification Field
+- [AizenSosuke](../entities/AizenSosuke.md) — The Polite Prodigy (public) vs. the Absolute Sovereign (true); maintains the "harmless student" facade
+- [VisenyaBelaerys](../entities/VisenyaBelaerys.md) — The Silver Persona; appears as a "lucky peasant" while being an Apex Monarch
 
 ## Why It Recurs
 
@@ -31,6 +31,6 @@ Masked Power solves a fundamental design problem: the player wants to feel overp
 
 ## Related Concepts
 
-- [[TheSingularity]] — The endpoint of masked power: characters who can no longer hide
-- [[AscensionMeter]] — Quantified version of the reveal consequence
+- [TheSingularity](TheSingularity.md) — The endpoint of masked power: characters who can no longer hide
+- [AscensionMeter](AscensionMeter.md) — Quantified version of the reveal consequence
 - [[PolarizingBeauty]] — The physical manifestation of "too powerful to ignore"

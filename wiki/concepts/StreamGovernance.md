@@ -21,5 +21,5 @@ Stream Governance (Confluent) has three pillars: Stream Lineage (graphical UI fo
 Stream governance is directly relevant to AO's governance layer — it shows how to provide observability (lineage), organization (catalog), and enforcement (quality) for data flows. Apply the same three-pillar model to PR governance.
 
 ## See Also
-- [[Confluent]]
-- [[GovernanceLayer]]
+- [Confluent](../entities/Confluent.md)
+- [GovernanceLayer](GovernanceLayer.md)

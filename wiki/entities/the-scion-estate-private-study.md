@@ -10,13 +10,13 @@ total_scenes: 685
 
 ## Overview
 
-** The Scion Estate - Private Study appears in 3 scenes across the [[sariel-killer]] campaign.
+** The Scion Estate - Private Study appears in 3 scenes across the [sariel-killer](../sources/sariel-killer.md) campaign.
 
 ## Description
 
 ** The Scion Estate - Private Study is an entity from the sariel-killer campaign.
 
 ## References
-- [[sariel-killer]] — campaign overview
-- [[sariel-killer-campaign]]
+- [sariel-killer](../sources/sariel-killer.md) — campaign overview
+- [sariel-killer-campaign](../sources/sariel-killer-campaign.md)
 

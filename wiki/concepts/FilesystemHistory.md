@@ -21,5 +21,5 @@ Filesystem History is a storage pattern used by Meta-Harness where prior candida
 
 ## Connections
 
-- [[AgenticProposer]] — the agent that reads from filesystem history to make decisions
-- [[MetaHarness]] — the system that uses filesystem history as its memory model
+- [AgenticProposer](AgenticProposer.md) — the agent that reads from filesystem history to make decisions
+- [MetaHarness](MetaHarness.md) — the system that uses filesystem history as its memory model

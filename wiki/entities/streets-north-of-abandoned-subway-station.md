@@ -10,13 +10,13 @@ total_scenes: 685
 
 ## Overview
 
-** Streets North of Abandoned Subway Station appears in 7 scenes across the [[sariel-killer]] campaign.
+** Streets North of Abandoned Subway Station appears in 7 scenes across the [sariel-killer](../sources/sariel-killer.md) campaign.
 
 ## Description
 
 ** Streets North of Abandoned Subway Station is an entity from the sariel-killer campaign.
 
 ## References
-- [[sariel-killer]] — campaign overview
-- [[sariel-killer-campaign]]
+- [sariel-killer](../sources/sariel-killer.md) — campaign overview
+- [sariel-killer-campaign](../sources/sariel-killer-campaign.md)
 

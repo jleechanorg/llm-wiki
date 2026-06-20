@@ -10,13 +10,13 @@ total_scenes: 437
 
 ## Overview
 
-** Eye of the Sundering - The Sunless Throne appears in 7 scenes across the [[alexiel-assiah]] campaign.
+** Eye of the Sundering - The Sunless Throne appears in 7 scenes across the [alexiel-assiah](../sources/alexiel-assiah.md) campaign.
 
 ## Description
 
 ** Eye of the Sundering - The Sunless Throne is an entity from the alexiel-assiah campaign.
 
 ## References
-- [[alexiel-assiah]] — campaign overview
-- [[alexiel-assiah-campaign]]
+- [alexiel-assiah](../sources/alexiel-assiah.md) — campaign overview
+- [alexiel-assiah-campaign](../sources/alexiel-assiah-campaign.md)
 

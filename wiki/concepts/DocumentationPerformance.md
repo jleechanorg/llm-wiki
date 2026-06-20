@@ -17,5 +17,5 @@ Documentation performance is the practice of keeping documentation files within 
 
 ## Related Practices
 - [[DocumentationSizeMonitor]] — automated scripts that validate file sizes
-- [[APITimeoutPrevention]] — broader category of keeping artifacts within processing limits
+- [APITimeoutPrevention](APITimeoutPrevention.md) — broader category of keeping artifacts within processing limits
 - [[CursorRules]] — documentation files that benefit from size management

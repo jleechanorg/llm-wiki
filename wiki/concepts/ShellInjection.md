@@ -18,5 +18,5 @@ With shell=True, input like "123; rm -rf /" would execute both the intended comm
 - Validate and sanitize all user input
 
 ## Related
-- [[GitCommands]]
-- [[SubprocessSecurity]]
+- [GitCommands](../entities/GitCommands.md)
+- [SubprocessSecurity](SubprocessSecurity.md)

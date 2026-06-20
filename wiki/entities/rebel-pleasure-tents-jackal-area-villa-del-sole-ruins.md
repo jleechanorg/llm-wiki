@@ -10,13 +10,13 @@ total_scenes: 78
 
 ## Overview
 
-** Rebel Pleasure Tents - Jackal Area, Villa del Sole Ruins appears in 5 scenes across the [[gaia-julia-v5]] campaign.
+** Rebel Pleasure Tents - Jackal Area, Villa del Sole Ruins appears in 5 scenes across the [gaia-julia-v5](../sources/gaia-julia-v5.md) campaign.
 
 ## Description
 
 ** Rebel Pleasure Tents - Jackal Area, Villa del Sole Ruins is an entity from the gaia-julia-v5 campaign.
 
 ## References
-- [[gaia-julia-v5]] — campaign overview
-- [[gaia-julia-v5-campaign]]
+- [gaia-julia-v5](../sources/gaia-julia-v5.md) — campaign overview
+- [gaia-julia-v5-campaign](../sources/gaia-julia-v5-campaign.md)
 

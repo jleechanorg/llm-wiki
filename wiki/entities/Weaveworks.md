@@ -18,8 +18,8 @@ Weaveworks is a GitOps platform for Kubernetes deployment and policy management.
 
 ## Connections
 
-- [[GitOps]] — Weaveworks pioneered GitOps methodology
-- [[GovernanceLayer]] — GitOps provides governance for deployment pipelines
+- [GitOps](../concepts/GitOps.md) — Weaveworks pioneered GitOps methodology
+- [GovernanceLayer](../concepts/GovernanceLayer.md) — GitOps provides governance for deployment pipelines
 
 ## See Also
-- [[GitOps]]
+- [GitOps](../concepts/GitOps.md)

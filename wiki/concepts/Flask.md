@@ -21,6 +21,6 @@ Flask is a lightweight WSGI web application framework in Python. It is designed 
 - `create_app()` → Factory function pattern for app creation (often used in larger applications)
 
 ## Connections
-- [[TestDrivenDevelopment]] — Flask apps commonly tested using TDD
-- [[FactoryPattern]] — create_app is a factory function pattern
+- [TestDrivenDevelopment](TestDrivenDevelopment.md) — Flask apps commonly tested using TDD
+- [FactoryPattern](FactoryPattern.md) — create_app is a factory function pattern
 - [[WebApplication]] — Flask is a web application framework

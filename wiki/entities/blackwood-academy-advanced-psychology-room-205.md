@@ -10,13 +10,13 @@ total_scenes: 685
 
 ## Overview
 
-** Blackwood Academy - Advanced Psychology, Room 205 appears in 9 scenes across the [[sariel-killer]] campaign.
+** Blackwood Academy - Advanced Psychology, Room 205 appears in 9 scenes across the [sariel-killer](../sources/sariel-killer.md) campaign.
 
 ## Description
 
 ** Blackwood Academy - Advanced Psychology, Room 205 is an entity from the sariel-killer campaign.
 
 ## References
-- [[sariel-killer]] — campaign overview
-- [[sariel-killer-campaign]]
+- [sariel-killer](../sources/sariel-killer.md) — campaign overview
+- [sariel-killer-campaign](../sources/sariel-killer-campaign.md)
 

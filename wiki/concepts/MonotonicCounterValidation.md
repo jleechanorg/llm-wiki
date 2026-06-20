@@ -19,5 +19,5 @@ Add server-side validation that:
 3. Returns error for monotonic violations instead of applying delta
 
 ## Related Concepts
-- [[GameStateManagement]] — overall state handling
-- [[CampaignCoherence]] — maintaining consistent player progress
+- [GameStateManagement](GameStateManagement.md) — overall state handling
+- [CampaignCoherence](CampaignCoherence.md) — maintaining consistent player progress

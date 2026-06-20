@@ -15,4 +15,4 @@ Software testing technique that provides random/invalid input to discover bugs a
 - Validate that error messages/corrections are returned, not exceptions raised
 
 ## Related Tests
-- [[GameState]] fuzz tests validate defensive defaults
+- [GameState](GameState.md) fuzz tests validate defensive defaults

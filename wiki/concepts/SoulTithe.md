@@ -27,8 +27,8 @@ In the Faction Nocturne BG3 V3 campaign, Nocturne hijacked the Cassalanter soul-
 
 ## Connections
 
-- [[NocturneBg3V3]] -- Character who exploited the mechanism
-- [[CassalanterFamily]] -- Original operators (now destroyed)
-- [[SunderStoneVilla]] -- Site of the ritual
+- [NocturneBg3V3](../entities/NocturneBg3V3.md) -- Character who exploited the mechanism
+- [CassalanterFamily](../entities/CassalanterFamily.md) -- Original operators (now destroyed)
+- [SunderStoneVilla](../entities/SunderStoneVilla.md) -- Site of the ritual
 - [[Zariel]] -- Archdevil receiving the tithe
-- [[faction-nocturne-bg3-v3-campaign]] -- Campaign
+- [faction-nocturne-bg3-v3-campaign](../sources/faction-nocturne-bg3-v3-campaign.md) -- Campaign

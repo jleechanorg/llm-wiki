@@ -6,7 +6,7 @@ sources: ["input-field-translation-validation-tests"]
 last_updated: 2026-04-08
 ---
 
-MCP protocol handler that receives translated requests from [[main.py]]. Uses `KEY_USER_INPUT = "user_input"` to extract user input from MCP-formatted requests. Part of the backend stack that processes game logic and AI responses.
+MCP protocol handler that receives translated requests from [main.py](main.py.md). Uses `KEY_USER_INPUT = "user_input"` to extract user input from MCP-formatted requests. Part of the backend stack that processes game logic and AI responses.
 
 ## Key Responsibilities
 - Receive MCP-formatted requests with `user_input` field

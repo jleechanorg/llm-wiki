@@ -10,13 +10,13 @@ total_scenes: 669
 
 ## Overview
 
-** Emerald Grove - Interior Gate appears in 8 scenes across the [[nocturne-bg3-v5-succubus-fixed-v1]] campaign.
+** Emerald Grove - Interior Gate appears in 8 scenes across the [nocturne-bg3-v5-succubus-fixed-v1](../sources/nocturne-bg3-v5-succubus-fixed-v1.md) campaign.
 
 ## Description
 
 ** Emerald Grove - Interior Gate is an entity from the nocturne-bg3-v5-succubus-fixed-v1 campaign.
 
 ## References
-- [[nocturne-bg3-v5-succubus-fixed-v1]] — campaign overview
-- [[nocturne-bg3-v5-succubus-fixed-v1-campaign]]
+- [nocturne-bg3-v5-succubus-fixed-v1](../sources/nocturne-bg3-v5-succubus-fixed-v1.md) — campaign overview
+- [nocturne-bg3-v5-succubus-fixed-v1-campaign](../sources/nocturne-bg3-v5-succubus-fixed-v1-campaign.md)
 

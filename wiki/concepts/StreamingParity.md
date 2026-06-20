@@ -28,7 +28,7 @@ The requirement that streamed LLM responses arrive with complete fidelity — ea
 
 ## Connections
 
-- [[StreamingResponse]] — incremental token delivery pattern
-- [[mvp-site-streaming-orchestrator]] — SSE streaming orchestration
-- [[mvp-site-streaming-chunk-logger]] — chunk timing evidence logger
-- [[LLMIntegration]] — streaming orchestration integrated with AI service
+- [StreamingResponse](StreamingResponse.md) — incremental token delivery pattern
+- [mvp-site-streaming-orchestrator](../sources/mvp-site-streaming-orchestrator.md) — SSE streaming orchestration
+- [mvp-site-streaming-chunk-logger](../sources/mvp-site-streaming-chunk-logger.md) — chunk timing evidence logger
+- [LLMIntegration](LLMIntegration.md) — streaming orchestration integrated with AI service

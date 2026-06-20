@@ -16,7 +16,7 @@ Wealthy neighbor of Riverside Manor, initially a rival trying to buy the Tethlar
 > "A private weapons contract is a far sweeter fruit than a pittance of river tax." — Lady Ashbury, on the King-supply plan (Turn 88)
 
 ## Connections
-- [[alexiel-larion]] — primary campaign source
-- [[voyage-alexiel]] — rival-turned-ally/lover
-- [[voyage-daran]] — fellow regional power-broker
+- [alexiel-larion](../sources/alexiel-larion.md) — primary campaign source
+- [voyage-alexiel](voyage-alexiel.md) — rival-turned-ally/lover
+- [voyage-daran](voyage-daran.md) — fellow regional power-broker
 - [[Highvale]] — her estate and political base

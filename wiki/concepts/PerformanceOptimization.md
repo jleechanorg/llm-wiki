@@ -28,5 +28,5 @@ The `will-change` CSS property hints to the browser which properties are expecte
 
 ## Related
 
-- [[CSSAnimations]] — applies performance optimization techniques
-- [[ReducedMotionAccessibility]] — accessibility considerations in performance
+- [CSSAnimations](CSSAnimations.md) — applies performance optimization techniques
+- [ReducedMotionAccessibility](ReducedMotionAccessibility.md) — accessibility considerations in performance

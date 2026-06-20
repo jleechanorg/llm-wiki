@@ -18,5 +18,5 @@ Python class that wraps LLM responses, containing both narrative text and struct
 Used in main.py to process AI responses and extract state changes for game state application.
 
 ## Connections
-- [[NarrativeResponse]] — contains the structured response data
+- [NarrativeResponse](NarrativeResponse.md) — contains the structured response data
 - [[StateUpdateIntegrationTests]] — tests this class's behavior

@@ -13,9 +13,9 @@ The Silent Throne is the absolute government of Empress Sariel in the world of A
 The Silent Throne controls all aspects of life in Assiah, with dissent being thought-crime. It enforces the Stability Mandate, which views refugees and dissidents as threats to be eliminated. Ser Arion serves this throne as a knight of the Argent Eaglets.
 
 ## Connections
-- [[dragon-knight-evil-campaign]] — source campaign
-- [[SerArionValerion]] — serves this throne
-- [[SilentPeace]] — the policy it maintains
-- [[EmpressSariel]] — the ruler
-- [[ArgentEaglets]] — knight order
-- [[PrefectGratian]] — enforcer
+- [dragon-knight-evil-campaign](../sources/dragon-knight-evil-campaign.md) — source campaign
+- [SerArionValerion](SerArionValerion.md) — serves this throne
+- [SilentPeace](../concepts/SilentPeace.md) — the policy it maintains
+- [EmpressSariel](EmpressSariel.md) — the ruler
+- [ArgentEaglets](ArgentEaglets.md) — knight order
+- [PrefectGratian](PrefectGratian.md) — enforcer

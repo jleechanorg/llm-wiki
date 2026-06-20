@@ -8,7 +8,7 @@ last_updated: 2026-04-14
 
 ## Overview
 
-This page documents hypotheses generated during the 18-cycle [[AutoResearchExperiment]] (2026-04-14), their validation status, supporting evidence, and prioritized next experiments.
+This page documents hypotheses generated during the 18-cycle [AutoResearchExperiment](AutoResearchExperiment.md) (2026-04-14), their validation status, supporting evidence, and prioritized next experiments.
 
 ---
 
@@ -192,7 +192,7 @@ These patterns appeared across multiple cycles but have not yet been formalized 
 
 **Key finding from Cycle 19:** PR #6276 added 7 new wiring tests (7/7 PASS) demonstrating the new architecture, but failed to update existing regression tests. The new tests are valuable; the missing test updates are the gap.
 
-**Deeper pattern:** C5 covers stale level-up choices. C6 covers deleted function call sites. Both are regression types from [[Layer3CleanRefactor]] architectural changes.
+**Deeper pattern:** C5 covers stale level-up choices. C6 covers deleted function call sites. Both are regression types from [Layer3CleanRefactor](Layer3CleanRefactor.md) architectural changes.
 
 **Suggested hypothesis:** H10: Centralization Deletion Protocol — any PR that deletes a function must also update all test files that call it, with test pass count required to not decrease.
 
@@ -261,7 +261,7 @@ These patterns appeared across multiple cycles but have not yet been formalized 
 
 ## Related Concepts
 
-- [[AutoResearchExperiment]] — the 18-cycle experiment (expanded to 19 in follow-up run) that generated these hypotheses
-- [[CanonicalCodeScorer]] — the scoring rubric used (30% Type Safety, 70% dimensional weighting)
-- [[Layer3CleanRefactor]] — architectural pattern underlying H2, H3, C5, C6 (centralization of rewards logic into rewards_engine)
-- [[SelfCritiqueVerificationLoop]] — the self-critique phase that feeds into scoring
+- [AutoResearchExperiment](AutoResearchExperiment.md) — the 18-cycle experiment (expanded to 19 in follow-up run) that generated these hypotheses
+- [CanonicalCodeScorer](CanonicalCodeScorer.md) — the scoring rubric used (30% Type Safety, 70% dimensional weighting)
+- [Layer3CleanRefactor](Layer3CleanRefactor.md) — architectural pattern underlying H2, H3, C5, C6 (centralization of rewards logic into rewards_engine)
+- [SelfCritiqueVerificationLoop](SelfCritiqueVerificationLoop.md) — the self-critique phase that feeds into scoring

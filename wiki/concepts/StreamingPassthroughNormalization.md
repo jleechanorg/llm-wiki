@@ -41,7 +41,7 @@ else:
 3. **Consistency** — Both paths produce identical output shape
 
 ## Connections
-- [[RewardsBoxSchema]] — Schema definition
-- [[CentralizedNumericExtraction]] — Numeric extraction
-- [[RewardsBoxObservability]] — Observability for normalized data
-- [[StreamingResponseParsing]] — Streaming response parsing
+- [RewardsBoxSchema](RewardsBoxSchema.md) — Schema definition
+- [CentralizedNumericExtraction](CentralizedNumericExtraction.md) — Numeric extraction
+- [RewardsBoxObservability](RewardsBoxObservability.md) — Observability for normalized data
+- [StreamingResponseParsing](StreamingResponseParsing.md) — Streaming response parsing

@@ -10,13 +10,13 @@ total_scenes: 258
 
 ## Overview
 
-** Guildhall of the Alchemists appears in 4 scenes across the [[visenya-v5]] campaign.
+** Guildhall of the Alchemists appears in 4 scenes across the [visenya-v5](../sources/visenya-v5.md) campaign.
 
 ## Description
 
 ** Guildhall of the Alchemists is an entity from the visenya-v5 campaign.
 
 ## References
-- [[visenya-v5]] — campaign overview
+- [visenya-v5](../sources/visenya-v5.md) — campaign overview
 - [[visenya-v5-campaign]]
 

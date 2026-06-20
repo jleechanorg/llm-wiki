@@ -15,5 +15,5 @@ Design pattern for providing contextual feedback during async operations. Instea
 - **Consistent integration**: Global window.loadingMessages object for all components
 
 ## Related Patterns
-- [[LoadingMessages]] — specific implementation for contextual messages
-- [[TASK-005b]] — task that implemented this pattern
+- [LoadingMessages](LoadingMessages.md) — specific implementation for contextual messages
+- [TASK-005b](../entities/TASK-005b.md) — task that implemented this pattern

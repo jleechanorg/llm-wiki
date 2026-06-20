@@ -12,5 +12,5 @@ System behavior where the application falls back to alternate LLM providers when
 The system checks for available API keys and gracefully switches providers rather than hard failing.
 
 ## Related Concepts
-- [[Gemini]] — default provider
-- [[Cerebras]] — fallback provider
+- [Gemini](../entities/Gemini.md) — default provider
+- [Cerebras](../entities/Cerebras.md) — fallback provider

@@ -9,7 +9,7 @@ campaign_note: "Future version of [[Sariel Arcanus]] — same character, ~40 yea
 
 ## Overview
 
-Ruler of the [[Celestial Imperium]] in the [[DragonKnight]] campaign. She tasks [[Ser Arion]] with defending the realm against the Void Dragon threat.
+Ruler of the [[Celestial Imperium]] in the [DragonKnight](DragonKnight.md) campaign. She tasks [[Ser Arion]] with defending the realm against the Void Dragon threat.
 
 **IMPORTANT — Same Character:** Empress Sariel IS [[Sariel Arcanus]] from the [[Sariel V2 Campaign]]. She is the future version of the 15-year-old grieving scholar who survived her mother's sacrifice. Decades later, she has become the psychic ruler who established the "Silent Peace" — an authoritarian regime maintained through telepathic dominance.
 
@@ -19,10 +19,10 @@ Ruler of the [[Celestial Imperium]] in the [[DragonKnight]] campaign. She tasks 
 - **Future (Age ~55):** Becomes Empress Sariel, absolute ruler of Assiah via "War of Whispers" psychic mastery, establishes the Silent Peace
 
 ## Connections
-- [[DragonKnight]] — the campaign featuring this character
-- [[SerArion]] — her champion
-- [[CelestialImperium]] — her empire
+- [DragonKnight](DragonKnight.md) — the campaign featuring this character
+- [SerArion](SerArion.md) — her champion
+- [CelestialImperium](CelestialImperium.md) — her empire
 - [[Sariel Arcanus]] — her younger self (same character, 40 years earlier)
-- [[Alexiel]] — her mother (the Mortal Queen who died at Battle of Sacrifice Fields)
-- [[SilentPeace]] — the political system she created
-- [[SilentThrone]] — her government
+- [Alexiel](Alexiel.md) — her mother (the Mortal Queen who died at Battle of Sacrifice Fields)
+- [SilentPeace](../concepts/SilentPeace.md) — the political system she created
+- [SilentThrone](SilentThrone.md) — her government

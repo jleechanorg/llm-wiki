@@ -14,14 +14,14 @@ Canonical code patterns are the defining architectural and stylistic choices mad
 
 | Repo | Primary Strength | Key Pattern |
 |------|-----------------|-------------|
-| [[FastAPIErrorHandling]] | Exception hierarchy | Typed HTTP exceptions with docstrings |
-| [[RequestsAPIDesign]] | API simplicity | Flat request functions, session composition |
-| [[PydanticPatterns]] | Type validation | BaseModel, Field(), ValidationError, discriminated unions |
-| [[SQLAlchemyPatterns]] | ORM patterns | sessionmaker, DeclarativeBase, select(), object state machine |
-| [[CeleryPatterns]] | Task queue | bind=True tasks, autoretry/backoff, canvas primitives |
-| [[tRPCTypeSafety]] | End-to-end types | Procedure generics, input/output inference |
-| [[TanStackQueryState]] | State caching | Observer pattern, query key hashing |
-| [[AxumAsyncPatterns]] | Composable handlers | Layered middleware, From extraction |
+| [FastAPIErrorHandling](FastAPIErrorHandling.md) | Exception hierarchy | Typed HTTP exceptions with docstrings |
+| [RequestsAPIDesign](RequestsAPIDesign.md) | API simplicity | Flat request functions, session composition |
+| [PydanticPatterns](PydanticPatterns.md) | Type validation | BaseModel, Field(), ValidationError, discriminated unions |
+| [SQLAlchemyPatterns](SQLAlchemyPatterns.md) | ORM patterns | sessionmaker, DeclarativeBase, select(), object state machine |
+| [CeleryPatterns](CeleryPatterns.md) | Task queue | bind=True tasks, autoretry/backoff, canvas primitives |
+| [tRPCTypeSafety](tRPCTypeSafety.md) | End-to-end types | Procedure generics, input/output inference |
+| [TanStackQueryState](TanStackQueryState.md) | State caching | Observer pattern, query key hashing |
+| [AxumAsyncPatterns](AxumAsyncPatterns.md) | Composable handlers | Layered middleware, From extraction |
 
 ## How to Use
 
@@ -29,9 +29,9 @@ See the `canonical_code_scorer` skill for scoring any generated code against the
 
 ## Connections
 
-- [[FastAPIErrorHandling]] — Python async, typed errors
-- [[RequestsAPIDesign]] — Simple & correct API design
-- [[tRPCTypeSafety]] — TypeScript end-to-end types
-- [[TanStackQueryState]] — React Query state management
-- [[AxumAsyncPatterns]] — Rust async composable handlers
-- [[CanonicalCodeScorer]] — Quantitative scoring engine that evaluates generated code against these canonical repos using a 6-dimension rubric (70%) + token-level diff similarity (30%)
+- [FastAPIErrorHandling](FastAPIErrorHandling.md) — Python async, typed errors
+- [RequestsAPIDesign](RequestsAPIDesign.md) — Simple & correct API design
+- [tRPCTypeSafety](tRPCTypeSafety.md) — TypeScript end-to-end types
+- [TanStackQueryState](TanStackQueryState.md) — React Query state management
+- [AxumAsyncPatterns](AxumAsyncPatterns.md) — Rust async composable handlers
+- [CanonicalCodeScorer](CanonicalCodeScorer.md) — Quantitative scoring engine that evaluates generated code against these canonical repos using a 6-dimension rubric (70%) + token-level diff similarity (30%)

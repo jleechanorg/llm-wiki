@@ -10,13 +10,13 @@ total_scenes: 258
 
 ## Overview
 
-** Servant's Conduit, Maegor's Holdfast appears in 5 scenes across the [[visenya-v5]] campaign.
+** Servant's Conduit, Maegor's Holdfast appears in 5 scenes across the [visenya-v5](../sources/visenya-v5.md) campaign.
 
 ## Description
 
 ** Servant's Conduit, Maegor's Holdfast is an entity from the visenya-v5 campaign.
 
 ## References
-- [[visenya-v5]] — campaign overview
+- [visenya-v5](../sources/visenya-v5.md) — campaign overview
 - [[visenya-v5-campaign]]
 

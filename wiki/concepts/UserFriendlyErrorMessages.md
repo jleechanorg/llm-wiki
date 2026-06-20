@@ -16,5 +16,5 @@ Frontend approach to displaying clear, actionable error messages instead of tech
 - "Authentication issue" — for auth failures
 
 ## Related Entities
-- [[AppJs]] — displays the messages
-- [[AuthenticationResilience]] — overall error strategy
+- [AppJs](../entities/AppJs.md) — displays the messages
+- [AuthenticationResilience](AuthenticationResilience.md) — overall error strategy

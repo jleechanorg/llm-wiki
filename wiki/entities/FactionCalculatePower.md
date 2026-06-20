@@ -6,7 +6,7 @@ sources: [faction-ranking-recompute-tests, faction-combat-power-calculation-test
 last_updated: 2026-04-08
 ---
 
-Faction combat tool that calculates the player's faction power based on units, territory, and buildings. Must be executed before [[FactionCalculateRanking]] to ensure accurate ranking values.
+Faction combat tool that calculates the player's faction power based on units, territory, and buildings. Must be executed before [FactionCalculateRanking](FactionCalculateRanking.md) to ensure accurate ranking values.
 
 ## Power Formula
 - Soldiers: 1.0x FP multiplier each

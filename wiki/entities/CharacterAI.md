@@ -18,6 +18,6 @@ Character.AI is an AI chatbot platform that allows users to create and interact 
 Character.AI demonstrates the industry-wide problem of memory consistency that WorldArchitect.AI aims to solve. Despite significant user interest (78% of gamers want AI-powered personalized experiences), memory issues limit practical utility.
 
 ## See Also
-- [[WorldArchitectAI]] — competitor solving memory issues
+- [WorldArchitectAI](WorldArchitectAI.md) — competitor solving memory issues
 - [[AI Dungeon]] — first-mover with memory problems
-- [[NovelAI]] — technically superior alternative
+- [NovelAI](NovelAI.md) — technically superior alternative

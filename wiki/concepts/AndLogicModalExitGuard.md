@@ -20,6 +20,6 @@ When writing modal exit guards:
 
 ## Related
 
-- [[ModalAgentConstraint]] — modal entry/exit constraints
-- [[AdminOverrideContract]] — admin overrides are common trigger for guard logic
-- [[StaleFlag]] — the symptom when guards fail
+- [ModalAgentConstraint](ModalAgentConstraint.md) — modal entry/exit constraints
+- [AdminOverrideContract](AdminOverrideContract.md) — admin overrides are common trigger for guard logic
+- [StaleFlag](StaleFlag.md) — the symptom when guards fail

@@ -16,6 +16,6 @@ Non-Player Character. A game entity schema that represents characters controlled
 - **role**: The NPC's role (e.g., "Jedi Master")
 
 ## Related
-- [[HealthStatus]] — tracks NPC hit points
-- [[Pydantic]] — validation library used for schema enforcement
+- [HealthStatus](HealthStatus.md) — tracks NPC hit points
+- [Pydantic](Pydantic.md) — validation library used for schema enforcement
 - [[NarrativeGeneration]] — system that must read gender field to produce consistent pronouns

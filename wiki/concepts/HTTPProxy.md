@@ -17,5 +17,5 @@ Method of intercepting API requests by routing traffic through a custom proxy se
 - [[Claude Code System Prompt Capture - Method Comparison]]
 
 ## See Also
-- [[SystemPrompt]]
-- [[DebugMode]]
+- [SystemPrompt](SystemPrompt.md)
+- [DebugMode](DebugMode.md)

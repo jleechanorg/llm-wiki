@@ -21,6 +21,6 @@ The hole at the top of Mt. Ebott is the entry point to the Underground. Frisk fa
 
 ## Connections
 
-- [[Frisk]] — Fell through the hole on Mt. Ebott
-- [[Underground]] — The realm beneath the mountain
+- [Frisk](Frisk.md) — Fell through the hole on Mt. Ebott
+- [Underground](Underground.md) — The realm beneath the mountain
 - [[Undertale Campaign]] — Entry point

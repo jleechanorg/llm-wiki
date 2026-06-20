@@ -16,5 +16,5 @@ Gradual typing is WorldArchitect.AI's approach to adding types incrementally: st
 
 ## Related
 - [[PythonTypingGuide]] — full guide
-- [[TypeHints]] — PEP 484 standard
-- [[mypy]] — type checker
+- [TypeHints](TypeHints.md) — PEP 484 standard
+- [mypy](../entities/mypy.md) — type checker

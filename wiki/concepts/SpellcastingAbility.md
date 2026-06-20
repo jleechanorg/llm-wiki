@@ -15,5 +15,5 @@ The ability score used for spellcasting attacks and saving throws. Determined by
 - Subclasses like Eldritch Knight and Blood Hunter also use INT
 
 ## Related
-- [[Multi-classing]]
+- [Multi-classing](Multi-classing.md)
 - [[stats_display]]

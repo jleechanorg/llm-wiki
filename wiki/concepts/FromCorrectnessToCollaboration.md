@@ -24,6 +24,6 @@ Context-Adaptive Behavior (CAB) Framework:
 
 ## Connections
 
-- [[AgenticMuch]] — empirical adoption study
-- [[ProductTasteLayer]] — human judgment gate
-- [[TasteLearningLoop]] — extracting human preferences
+- [AgenticMuch](AgenticMuch.md) — empirical adoption study
+- [ProductTasteLayer](ProductTasteLayer.md) — human judgment gate
+- [TasteLearningLoop](TasteLearningLoop.md) — extracting human preferences

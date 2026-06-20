@@ -23,5 +23,5 @@ When the AI proposes changes to npc_data with string values (a common AI mistake
 ```
 
 ## Related Patterns
-- [[DeleteTokenPattern]] — __DELETE__ token for NPC removal
+- [DeleteTokenPattern](DeleteTokenPattern.md) — __DELETE__ token for NPC removal
 - [[ListPayloadCoercion]] — converting list-based payloads to dict updates

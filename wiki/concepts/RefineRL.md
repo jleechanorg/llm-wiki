@@ -32,8 +32,8 @@ RefineRL combines a Skeptical-Agent with RL training to enable effective self-re
 
 ## Related Concepts
 
-- [[SelfRefine]] — general self-refinement framework
-- [[ThinkTwice]] — joint reasoning + refinement via GRPO
-- [[SelfDebias]] — self-correction for debiasing CoT
-- [[AdversarialMCTS]] — adversarial approach to combat pseudo-correctness
+- [SelfRefine](SelfRefine.md) — general self-refinement framework
+- [ThinkTwice](ThinkTwice.md) — joint reasoning + refinement via GRPO
+- [SelfDebias](SelfDebias.md) — self-correction for debiasing CoT
+- [AdversarialMCTS](AdversarialMCTS.md) — adversarial approach to combat pseudo-correctness
 - [[ReinforcementLearning]] — RL training methodology

@@ -18,8 +18,8 @@ Flux is a CNCF-owned GitOps tool for Kubernetes cluster configuration management
 
 ## Connections
 
-- [[GitOps]] — Flux is a GitOps tool
-- [[GovernanceLayer]] — GitOps provides deployment governance
+- [GitOps](../concepts/GitOps.md) — Flux is a GitOps tool
+- [GovernanceLayer](../concepts/GovernanceLayer.md) — GitOps provides deployment governance
 
 ## See Also
-- [[GitOps]]
+- [GitOps](../concepts/GitOps.md)

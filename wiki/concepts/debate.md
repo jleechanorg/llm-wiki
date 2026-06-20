@@ -26,7 +26,7 @@ AI Debate is an alignment technique where two competing AI systems argue for dif
 Debate's principle — an honest agent can defend its choices under adversarial scrutiny — maps to why model-computed `level_up_signal` is more trustworthy than backend inference: the model's explicit structured output survives the formatter's fail-closed validation because it was explicitly computed and can be traced back to the model's reasoning.
 
 ## See Also
-- [[Scalable-Oversight]]
-- [[RLAIF]]
+- [Scalable-Oversight](Scalable-Oversight.md)
+- [RLAIF](RLAIF.md)
 - [[Constitutional-AI]]
-- [[ZFC-Level-Up-Architecture]]
+- [ZFC-Level-Up-Architecture](ZFC-Level-Up-Architecture.md)

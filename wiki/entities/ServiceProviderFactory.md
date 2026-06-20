@@ -10,7 +10,7 @@ last_updated: 2026-04-08
 Factory class in the testing framework that manages instantiation of service providers. Uses `_use_full_mocks` flag to determine which mock class to use.
 
 ## Related
-- [[MockServiceProvider]]
-- [[SimpleMockServiceProvider]]
-- [[RealServiceProvider]]
+- [MockServiceProvider](MockServiceProvider.md)
+- [SimpleMockServiceProvider](SimpleMockServiceProvider.md)
+- [RealServiceProvider](RealServiceProvider.md)
 - [[ServiceProviderFactoryUnitTests]]

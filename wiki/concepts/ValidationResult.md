@@ -23,6 +23,6 @@ Structured dataclass containing the outcome of narrative validation, including f
 Provides comprehensive validation feedback to narrative generation systems, enabling informed decisions about whether to accept or regenerate narrative content.
 
 ## Related Concepts
-- [[EntityValidator]] — produces ValidationResult instances
-- [[NarrativeSyncValidator]] — wraps EntityValidator results with narrative-specific additions
+- [EntityValidator](EntityValidator.md) — produces ValidationResult instances
+- [NarrativeSyncValidator](NarrativeSyncValidator.md) — wraps EntityValidator results with narrative-specific additions
 - [[ConfidenceScoring]] — used to determine acceptance thresholds

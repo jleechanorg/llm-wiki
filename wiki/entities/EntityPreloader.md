@@ -15,6 +15,6 @@ Class responsible for generating entity manifests from game state and creating e
 - `get_entity_count(game_state, session_idx, story_idx)` — Returns entity counts dict
 
 ## Relationships
-- Uses [[EntityManifest]] from entity_instructions module
+- Uses [EntityManifest](../concepts/EntityManifest.md) from entity_instructions module
 - Called by story continuation pipeline to inject entity context
-- Works with [[LocationEntityEnforcer]] for location-specific rules
+- Works with [LocationEntityEnforcer](LocationEntityEnforcer.md) for location-specific rules

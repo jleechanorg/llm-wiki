@@ -27,7 +27,7 @@ ZFC's fail-closed pattern is a data-level form of corrigibility: when the model 
 
 ## See Also
 - [[CIRL]]
-- [[Value-Alignment]]
+- [Value-Alignment](Value-Alignment.md)
 - [[Human-Compatible-AI]]
 - [[Fail-Closed]]
-- [[ZFC-Level-Up-Architecture]]
+- [ZFC-Level-Up-Architecture](ZFC-Level-Up-Architecture.md)

@@ -15,5 +15,5 @@ Part of the requests library. Provides HTTP connection pooling and retry logic f
 - **max_retries**: Retry configuration object
 
 ## Connections
-- [[MCPClient]] — uses HTTPAdapter for connection pooling
-- [[ConnectionPooling]] — concept implemented by this adapter
+- [MCPClient](MCPClient.md) — uses HTTPAdapter for connection pooling
+- [ConnectionPooling](../concepts/ConnectionPooling.md) — concept implemented by this adapter

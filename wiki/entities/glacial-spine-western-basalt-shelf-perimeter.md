@@ -10,13 +10,13 @@ total_scenes: 500
 
 ## Overview
 
-** Glacial Spine - Western Basalt Shelf Perimeter appears in 4 scenes across the [[dragon-knight-evil]] campaign.
+** Glacial Spine - Western Basalt Shelf Perimeter appears in 4 scenes across the [dragon-knight-evil](../sources/dragon-knight-evil.md) campaign.
 
 ## Description
 
 ** Glacial Spine - Western Basalt Shelf Perimeter is an entity from the dragon-knight-evil campaign.
 
 ## References
-- [[dragon-knight-evil]] — campaign overview
-- [[dragon-knight-evil-campaign]]
+- [dragon-knight-evil](../sources/dragon-knight-evil.md) — campaign overview
+- [dragon-knight-evil-campaign](../sources/dragon-knight-evil-campaign.md)
 

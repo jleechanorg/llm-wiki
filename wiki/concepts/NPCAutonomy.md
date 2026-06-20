@@ -17,6 +17,6 @@ Design principle where NPCs operate as independent agents with their own goals, 
 - **Refusal/Betrayal**: NPCs may reject requests or act against player
 
 ## Related Concepts
-- [[LivingWorldProtocol]]
-- [[TrustLevel]]
+- [LivingWorldProtocol](LivingWorldProtocol.md)
+- [TrustLevel](TrustLevel.md)
 - [[NPCHardLimits]]

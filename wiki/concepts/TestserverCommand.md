@@ -26,5 +26,5 @@ A CLI command for managing test servers on different git branches. Provides star
 - Delegation to test_server_manager.sh for core operations
 
 ## Related Concepts
-- [[ProcessManagement]] — underlying system for managing server processes
+- [ProcessManagement](ProcessManagement.md) — underlying system for managing server processes
 - [[PortAllocation]] — dynamic port assignment for test servers

@@ -23,6 +23,6 @@ The player character Aegon Targaryen joined this mercenary company as his cover 
 
 ## Connections
 
-- [[SerGregorClegane]] — leader of the company
-- [[AegonTargaryen]] — player character serving under Gregor
-- [[AemonGameOfThrones]] — the campaign
+- [SerGregorClegane](SerGregorClegane.md) — leader of the company
+- [AegonTargaryen](AegonTargaryen.md) — player character serving under Gregor
+- [AemonGameOfThrones](../concepts/AemonGameOfThrones.md) — the campaign

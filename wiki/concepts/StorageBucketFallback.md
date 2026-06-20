@@ -27,6 +27,6 @@ Storage bucket fallback is a resilience pattern in WorldArchitect.AI that handle
 Firebase sometimes returns `.firebasestorage.app` URLs which don't work for direct GCS access. The fallback ensures avatars remain accessible by converting to the working bucket format.
 
 ## Connections
-- [[Firebase]] — Source of the .firebasestorage.app URL format
+- [Firebase](Firebase.md) — Source of the .firebasestorage.app URL format
 - [[Avatar API]] — Consumer of bucket configuration
 - [[Environment Variable Configuration]] — How bucket is configured

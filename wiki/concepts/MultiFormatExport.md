@@ -22,7 +22,7 @@ The campaign document generation system in WorldAI that exports story logs into 
 ### Formatting Features
 - Scene numbers and session headers
 - Resource tracking display
-- Dice roll formatting (via [[mvp-site-dice]])
+- Dice roll formatting (via [mvp-site-dice](../sources/mvp-site-dice.md))
 - Choice detection: freeform vs predefined action classification
 - Living world events: faction updates, rumors, complications
 
@@ -36,8 +36,8 @@ The campaign document generation system in WorldAI that exports story logs into 
 
 ## Connections
 
-- [[mvp-site-document-generator]] — implementation source
+- [mvp-site-document-generator](../sources/mvp-site-document-generator.md) — implementation source
 - [[mvp-site-firestorm-service]] — story log retrieval
-- [[mvp-site-dice]] — dice roll formatting in exports
-- [[PDFGeneration]] — PDF-specific generation details
-- [[DOCXGeneration]] — DOCX-specific generation details
+- [mvp-site-dice](../sources/mvp-site-dice.md) — dice roll formatting in exports
+- [PDFGeneration](PDFGeneration.md) — PDF-specific generation details
+- [DOCXGeneration](DOCXGeneration.md) — DOCX-specific generation details

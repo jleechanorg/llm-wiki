@@ -10,13 +10,13 @@ total_scenes: 521
 
 ## Overview
 
-** Abandoned Shrine to Mars Ultor, Rome appears in 3 scenes across the [[gaia-julia-v2]] campaign.
+** Abandoned Shrine to Mars Ultor, Rome appears in 3 scenes across the [gaia-julia-v2](../sources/gaia-julia-v2.md) campaign.
 
 ## Description
 
 ** Abandoned Shrine to Mars Ultor, Rome is an entity from the gaia-julia-v2 campaign.
 
 ## References
-- [[gaia-julia-v2]] — campaign overview
-- [[gaia-julia-v2-campaign]]
+- [gaia-julia-v2](../sources/gaia-julia-v2.md) — campaign overview
+- [gaia-julia-v2-campaign](../sources/gaia-julia-v2-campaign.md)
 

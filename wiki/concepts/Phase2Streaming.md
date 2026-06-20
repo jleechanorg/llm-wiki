@@ -16,6 +16,6 @@ The second phase of the two-phase story generation flow. After Phase 1 executes 
 - **Recovery**: System must detect empty and yield error event, not done event
 
 ## Related Concepts
-- [[StreamingOrchestrator]] — manages phase transitions
-- [[ValidationFailure]] — occurs when response validation fails
+- [StreamingOrchestrator](StreamingOrchestrator.md) — manages phase transitions
+- [ValidationFailure](ValidationFailure.md) — occurs when response validation fails
 - [[ToolExecution]] — Phase 1 executes tools before Phase 2 begins

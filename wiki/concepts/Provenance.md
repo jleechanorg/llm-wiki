@@ -14,4 +14,4 @@ Provenance in testing refers to metadata that traces the origin of test results,
 - Often captured via capture_provenance() function
 
 ## Related
-- [[EvidenceUtils]] provides capture_provenance and validate_provenance functions
+- [EvidenceUtils](../entities/EvidenceUtils.md) provides capture_provenance and validate_provenance functions

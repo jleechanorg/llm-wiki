@@ -20,7 +20,7 @@ Director of Engineering, AI Infrastructure and Data Platform at [[SnorkelAI]]. D
 
 ## Collaboration
 
-Part of a three-person AI Leadership collaboration with [[LarryJacobson]] and [[Jeff]] to establish thought leadership on AI strategy and leadership for tech executives.
+Part of a three-person AI Leadership collaboration with [LarryJacobson](LarryJacobson.md) and [[Jeff]] to establish thought leadership on AI strategy and leadership for tech executives.
 
 ## Key Contributions
 

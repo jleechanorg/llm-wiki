@@ -15,6 +15,6 @@ Google Firestore NoSQL database used for persisting game state. The system uses 
 - Debug information available via validation logs
 
 ## Related
-- [[GameState]] — object persisted to Firestore
-- [[SchemaValidation]] — applied before persistence
-- [[REV-9zs]] — implements non-blocking behavior
+- [GameState](GameState.md) — object persisted to Firestore
+- [SchemaValidation](SchemaValidation.md) — applied before persistence
+- [REV-9zs](../entities/REV-9zs.md) — implements non-blocking behavior

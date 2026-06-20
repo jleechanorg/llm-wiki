@@ -8,7 +8,7 @@ last_updated: 2026-04-14
 
 ## Definition
 
-A quantitative code quality scoring engine that combines a 6-dimension rubric (Pass/Fail) with a diff similarity metric. Used in [[AutoResearchLoop]] Phase 3 to evaluate baseline vs. improved code versions.
+A quantitative code quality scoring engine that combines a 6-dimension rubric (Pass/Fail) with a diff similarity metric. Used in [AutoResearchLoop](AutoResearchLoop.md) Phase 3 to evaluate baseline vs. improved code versions.
 
 ## Rubric Dimensions (Pass/Fail each)
 
@@ -45,13 +45,13 @@ Improvement suggestions (reference concrete wiki pages)
 
 ## Integration Points
 
-- Called by [[AutoResearchLoop]] Phase 3 (Evaluation)
+- Called by [AutoResearchLoop](AutoResearchLoop.md) Phase 3 (Evaluation)
 - Canonical patterns sourced from ingested repos: FastAPI, tRPC, Requests, Axum
 - Results feed back into the wiki "Results on My Codebase" section
 
 ## Related Concepts
 
-- [[AutoResearchLoop]] — the outer loop that invokes the scorer
-- [[SelfCritiqueVerificationLoop]] — the loop that produces the code being scored
+- [AutoResearchLoop](AutoResearchLoop.md) — the outer loop that invokes the scorer
+- [SelfCritiqueVerificationLoop](SelfCritiqueVerificationLoop.md) — the loop that produces the code being scored
 - [[ReVeal2026]] — the test execution framework the scorer evaluates against
 - [[EvidenceStandards]] — the evidence-standard dimension referenced in the rubric

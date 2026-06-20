@@ -24,6 +24,6 @@ chrome_options.add_argument("--disable-dev-shm-usage")
 ```
 
 ## Related Concepts
-- [[Selenium]]
+- [Selenium](Selenium.md)
 - [[Browser Automation]]
 - [[Screenshot Capture]]

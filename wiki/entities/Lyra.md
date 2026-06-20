@@ -21,6 +21,6 @@ Lyra's young age makes her the most innocent casualty of the Cassalanter's preda
 
 - [[Faction Nocturne BG3 V3 Campaign]] — source campaign
 - [[Nocturne Sosuke]] — sister
-- [[Elara]] — older sister
+- [Elara](Elara.md) — older sister
 - [[Sunder-Stone Villa]] — where she was held captive
 - [[Cassalanter Family]] — former captors

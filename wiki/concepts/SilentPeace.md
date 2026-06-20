@@ -9,7 +9,7 @@ The Silent Peace is the name given to Empress Sariel's rule over Assiah—a poli
 
 **Important — Same Character:** Empress Sariel is the future version of [[Sariel Arcanus]] (daughter of Alexiel, age 15 in the Sariel V2 campaign). After decades following her mother's sacrifice, the grieving scholar grows into a psychic autocrat who establishes the Silent Peace through the "War of Whispers."
 
-The regime justifies its harsh logic through results: millions live in peace because the few are sacrificed. Her daughter is [[Alexiel]], suggesting the psychic power is hereditary.
+The regime justifies its harsh logic through results: millions live in peace because the few are sacrificed. Her daughter is [Alexiel](../entities/Alexiel.md), suggesting the psychic power is hereditary.
 
 ## Political Mechanics
 
@@ -25,7 +25,7 @@ However, this security comes at a dark price: anyone deemed a "threat to the Imp
 
 The Silent Peace presents a profound moral dilemma for characters like [[Ser Arion val Valerion]]. The system produces tangible results—prosperity, safety, order—but achieves them through tyranny. The question becomes: is a peaceful tyranny preferable to a chaotic freedom?
 
-The Empress's daughter is [[Alexiel]], suggesting the psychic power is hereditary. The regime justifies its harsh logic through results: millions live in peace because the few are sacrificed.
+The Empress's daughter is [Alexiel](../entities/Alexiel.md), suggesting the psychic power is hereditary. The regime justifies its harsh logic through results: millions live in peace because the few are sacrificed.
 
 ## In the Campaign
 

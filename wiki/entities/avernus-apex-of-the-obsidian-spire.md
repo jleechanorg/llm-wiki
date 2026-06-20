@@ -10,13 +10,13 @@ total_scenes: 606
 
 ## Overview
 
-** Avernus / Apex of the Obsidian Spire appears in 22 scenes across the [[faction-nocturne-bg3-v3]] campaign.
+** Avernus / Apex of the Obsidian Spire appears in 22 scenes across the [faction-nocturne-bg3-v3](../sources/faction-nocturne-bg3-v3.md) campaign.
 
 ## Description
 
 ** Avernus / Apex of the Obsidian Spire is an entity from the faction-nocturne-bg3-v3 campaign.
 
 ## References
-- [[faction-nocturne-bg3-v3]] — campaign overview
-- [[faction-nocturne-bg3-v3-campaign]]
+- [faction-nocturne-bg3-v3](../sources/faction-nocturne-bg3-v3.md) — campaign overview
+- [faction-nocturne-bg3-v3-campaign](../sources/faction-nocturne-bg3-v3-campaign.md)
 

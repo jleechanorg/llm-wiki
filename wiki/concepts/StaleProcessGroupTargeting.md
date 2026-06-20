@@ -36,5 +36,5 @@ except ProcessLookupError:
 Also: check if PGID is 0 or missing before attempting kill — skip killpg if unknown.
 
 ## Connections
-- [[TmuxBasedAgentOrchestration]] — tmux session management for agent restarts
-- [[DeterministicFeedbackLoops]] — restart loop without stale state
+- [TmuxBasedAgentOrchestration](TmuxBasedAgentOrchestration.md) — tmux session management for agent restarts
+- [DeterministicFeedbackLoops](DeterministicFeedbackLoops.md) — restart loop without stale state

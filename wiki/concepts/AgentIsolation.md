@@ -16,14 +16,14 @@ Agent isolation is the Attractor pattern's core security constraint: the impleme
 ## Related Systems
 | System | Type | Relevance |
 |--------|------|-----------|
-| [[AttractorBench]] | Benchmark | Conformance tests generated locally, excluded from repo |
-| [[DarkFactory]] | Repo | Implements agent isolation via sandbox-exec and env stripping |
-| [[AdversarialEvaluation]] | Concept | Agent isolation is a form of adversarial evaluation |
+| [AttractorBench](../entities/AttractorBench.md) | Benchmark | Conformance tests generated locally, excluded from repo |
+| [DarkFactory](DarkFactory.md) | Repo | Implements agent isolation via sandbox-exec and env stripping |
+| [AdversarialEvaluation](AdversarialEvaluation.md) | Concept | Agent isolation is a form of adversarial evaluation |
 
 ## Connection to Attractor Pattern
 Agent isolation is the Attractor pattern's adversarial guarantee. The whole point of separating specs from evaluators is that the implementing agent proves its work against unknown tests — just like a student taking an exam doesn't get to see the answer key.
 
 ## See Also
-- [[AttractorBench]]
-- [[AdversarialEvaluation]]
-- [[DarkFactory]]
+- [AttractorBench](../entities/AttractorBench.md)
+- [AdversarialEvaluation](AdversarialEvaluation.md)
+- [DarkFactory](DarkFactory.md)

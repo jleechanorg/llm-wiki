@@ -18,4 +18,4 @@ The POSIX Basic Regular Expression syntax used by sed and grep by default. In BR
 The pattern `s/ (#[0-9]*)$//` in sed uses BRE where `*` matches zero or more. This causes `(#)` to incorrectly match and strip, resulting in empty strings. The fix requires `[0-9][0-9]*` to ensure at least one digit is present.
 
 ## Related
-- [[squash-merge-detection-tests]] — tests that validate BRE behavior
+- [squash-merge-detection-tests](../sources/squash-merge-detection-tests.md) — tests that validate BRE behavior

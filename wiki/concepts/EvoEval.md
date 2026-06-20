@@ -26,5 +26,5 @@ Benchmark saturation and potential data contamination are real concerns. Instruc
 ## Connections
 
 - Evidence for benchmark integrity concerns
-- Related to [[AgentBench]] evaluation methodology
+- Related to [AgentBench](AgentBench.md) evaluation methodology
 - Supports need for diverse, evolving test suites

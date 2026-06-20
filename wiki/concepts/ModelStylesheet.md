@@ -7,7 +7,7 @@ date: 2026-05-24
 
 ## Overview
 
-A CSS-like model routing system for DOT pipeline files, implemented in [[Kilroy]]. Allows per-node LLM provider and model configuration using CSS specificity rules, replacing hardcoded backend selection with declarative routing.
+A CSS-like model routing system for DOT pipeline files, implemented in [Kilroy](../entities/Kilroy.md). Allows per-node LLM provider and model configuration using CSS specificity rules, replacing hardcoded backend selection with declarative routing.
 
 ## Syntax
 
@@ -41,11 +41,11 @@ Higher specificity wins. Ties resolved by last declaration (cascade order).
 
 | Approach | Used By | Flexibility |
 |---|---|---|
-| Model stylesheet (CSS-like) | [[Kilroy]] | Per-node, specificity-based, cascade |
+| Model stylesheet (CSS-like) | [Kilroy](../entities/Kilroy.md) | Per-node, specificity-based, cascade |
 | `--backend` flag | dark-factory | Per-run only, single backend |
-| Provider catalog | [[Smasher]] | Per-pipeline, programmatic selection |
+| Provider catalog | [Smasher](../entities/Smasher.md) | Per-pipeline, programmatic selection |
 
 ## Connections
 
-- [[Kilroy]] — Implementation
-- [[AttractorPattern]] — The pattern that uses model routing
+- [Kilroy](../entities/Kilroy.md) — Implementation
+- [AttractorPattern](AttractorPattern.md) — The pattern that uses model routing

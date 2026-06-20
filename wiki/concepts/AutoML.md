@@ -29,7 +29,7 @@ AutoML (Automated Machine Learning) is the broader field of automating machine l
 
 ## Connections
 
-- [[ArchitectureSearch]] — component of AutoML related to Meta-Harness
-- [[HyperparameterOptimization]] — another AutoML component
-- [[MetaHarness]] — extends AutoML principles to harness code
-- [[OuterLoopOptimization]] — the paradigm both AutoML and Meta-Harness operate in
+- [ArchitectureSearch](ArchitectureSearch.md) — component of AutoML related to Meta-Harness
+- [HyperparameterOptimization](HyperparameterOptimization.md) — another AutoML component
+- [MetaHarness](MetaHarness.md) — extends AutoML principles to harness code
+- [OuterLoopOptimization](OuterLoopOptimization.md) — the paradigm both AutoML and Meta-Harness operate in

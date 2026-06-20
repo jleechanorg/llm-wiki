@@ -16,5 +16,5 @@ Pydantic schema for structured LLM responses containing narrative, entities, loc
 - `state_updates`: Dict containing player_character_data and npc_data
 
 ## Connections
-- [[LLMResponse]] — wraps this schema
+- [LLMResponse](LLMResponse.md) — wraps this schema
 - [[StateUpdateIntegrationTests]] — tests this schema's usage

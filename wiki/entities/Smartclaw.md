@@ -10,8 +10,8 @@ last_updated: 2026-04-07
 Target repository for the delegation flow that experienced routing failures in March 2026. The delegation intended to produce work in smartclaw but initially created work in worldarchitect.ai due to missing repo contract in the dispatch prompt.
 
 ## Related Entities
-- [[jleechanclaw]] — source repository for delegation
-- [[Worldarchitect.ai]] — repository where incorrect work was initially performed
+- [jleechanclaw](jleechanclaw.md) — source repository for delegation
+- [Worldarchitect.ai](Worldarchitect.ai.md) — repository where incorrect work was initially performed
 
 ## Events
 - 2026-03-19: Delegation routing failure postmortem conducted

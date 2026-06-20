@@ -55,6 +55,6 @@ Show side-by-side examples of correct vs incorrect outputs so the model has patt
 Split into Phase A (state preparation) and Phase B (tool calls) with chain-of-thought ordering.
 
 ## Connections
-- [[LLMDrift]] — related: consistency over long sequences
-- [[Schema-PromptDrift]] — schema vs prompt alignment
-- [[LLM-as-Judge-Pattern]] — self-validation checkpoints
+- [LLMDrift](LLMDrift.md) — related: consistency over long sequences
+- [Schema-PromptDrift](Schema-PromptDrift.md) — schema vs prompt alignment
+- [LLM-as-Judge-Pattern](LLM-as-Judge-Pattern.md) — self-validation checkpoints

@@ -12,4 +12,4 @@ AI company behind Claude and Claude Code. Provides the API that Claude Code's sy
 - [[Claude Code System Prompt Capture - Method Comparison]]
 
 ## See Also
-- [[ClaudeCode]]
+- [ClaudeCode](ClaudeCode.md)

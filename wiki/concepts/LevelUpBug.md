@@ -69,8 +69,8 @@ normalize_rewards_box_for_ui({"progress_percent": 50})  # returns normalized dic
 
 ## Connections
 
-- [[StructureDriftPattern]] — Root cause of field nesting
-- [[LevelUp]] — Level-up modal and flag management
-- [[RewardsBox]] — rewards_box JSON structure
-- [[RewardsBoxAtomicity]] — Atomicity helper function
-- [[dice_rolls]] — Dice roll display (still investigating regression)
+- [StructureDriftPattern](StructureDriftPattern.md) — Root cause of field nesting
+- [LevelUp](LevelUp.md) — Level-up modal and flag management
+- [RewardsBox](RewardsBox.md) — rewards_box JSON structure
+- [RewardsBoxAtomicity](RewardsBoxAtomicity.md) — Atomicity helper function
+- [dice_rolls](dice_rolls.md) — Dice roll display (still investigating regression)

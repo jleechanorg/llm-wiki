@@ -10,4 +10,4 @@ last_updated: 2026-04-08
 In-memory cache with 5-minute TTL for frequently accessed memory data. Part of multi-tier caching strategy in MemoryIntegration.
 
 ## Source
-[[memory-mcp-integration]]
+[memory-mcp-integration](../sources/memory-mcp-integration.md)

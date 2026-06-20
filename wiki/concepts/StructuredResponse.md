@@ -19,6 +19,6 @@ A schema-defined response format from the LLM that includes both narrative text 
 - No leakage into story output
 
 ## Connections
-- [[NarrativeResponse]] — the schema
-- [[JSONParsing]] — how to extract from it
-- [[LLMResponse]] — wraps it
+- [NarrativeResponse](NarrativeResponse.md) — the schema
+- [JSONParsing](JSONParsing.md) — how to extract from it
+- [LLMResponse](LLMResponse.md) — wraps it

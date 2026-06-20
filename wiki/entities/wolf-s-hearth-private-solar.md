@@ -10,13 +10,13 @@ total_scenes: 140
 
 ## Overview
 
-** Wolf's Hearth - Private Solar appears in 11 scenes across the [[arthur-dayne]] campaign.
+** Wolf's Hearth - Private Solar appears in 11 scenes across the [arthur-dayne](../sources/arthur-dayne.md) campaign.
 
 ## Description
 
 ** Wolf's Hearth - Private Solar is an entity from the arthur-dayne campaign.
 
 ## References
-- [[arthur-dayne]] — campaign overview
-- [[arthur-dayne-campaign]]
+- [arthur-dayne](../sources/arthur-dayne.md) — campaign overview
+- [arthur-dayne-campaign](../sources/arthur-dayne-campaign.md)
 

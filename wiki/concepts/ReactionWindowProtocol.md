@@ -28,5 +28,5 @@ Mandatory pauses in combat flow allowing players to use reactions at specific tr
 4. Then resolve hit/miss/damage
 
 ## Related Concepts
-- [[InitiativeOrder]] — where reaction windows occur
+- [InitiativeOrder](InitiativeOrder.md) — where reaction windows occur
 - [[CombatSystemProtocol]] — parent protocol

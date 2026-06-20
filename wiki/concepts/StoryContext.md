@@ -22,5 +22,5 @@ The chronological history of player actions and GM responses in a campaign. Stor
 - Timeline_log budgeting ensures memory-efficient handling
 
 ## Connections
-- [[GameState]] — contains story_context field
+- [GameState](GameState.md) — contains story_context field
 - [[Timeline Log Budget Guardrails]] — manages context size

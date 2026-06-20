@@ -16,4 +16,4 @@ Pattern where LLM calls backend Python functions instead of manually applying fo
 ## Related Patterns
 - [[DicePy]] — similar pattern for dice rolling
 - [[FactionToolDefinitions]] — faction-specific tools
-- [[GeminiAPI]] — underlying API for function calling
+- [GeminiAPI](../entities/GeminiAPI.md) — underlying API for function calling

@@ -18,6 +18,6 @@ Mother's Mercy is the signature soul-conversion ability of the Divine Scion clas
 As Nocturne wields this power through her Malcanthet lineage, it represents the "mercy" of transformation — liberation from one's former self in favor of devoted service.
 
 ## Connections
-- [[NocturneBg3V7]] — Wielder
-- [[DivineScion]] — Source class
-- [[ThrallSystem]] — Result of conversion
+- [NocturneBg3V7](../entities/NocturneBg3V7.md) — Wielder
+- [DivineScion](DivineScion.md) — Source class
+- [ThrallSystem](ThrallSystem.md) — Result of conversion

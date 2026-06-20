@@ -10,13 +10,13 @@ total_scenes: 133
 
 ## Overview
 
-** Imperial Installation appears in 69 scenes across the [[luke-v2]] campaign.
+** Imperial Installation appears in 69 scenes across the [luke-v2](../sources/luke-v2.md) campaign.
 
 ## Description
 
 ** Imperial Installation is an entity from the luke-v2 campaign.
 
 ## References
-- [[luke-v2]] — campaign overview
-- [[luke-v2-campaign]]
+- [luke-v2](../sources/luke-v2.md) — campaign overview
+- [luke-v2-campaign](../sources/luke-v2-campaign.md)
 

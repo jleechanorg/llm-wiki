@@ -10,13 +10,13 @@ total_scenes: 252
 
 ## Overview
 
-** Small Study, Great Archives, Zenith Spire, Aeterna. appears in 85 scenes across the [[sariel-v2]] campaign.
+** Small Study, Great Archives, Zenith Spire, Aeterna. appears in 85 scenes across the [sariel-v2](../sources/sariel-v2.md) campaign.
 
 ## Description
 
 ** Small Study, Great Archives, Zenith Spire, Aeterna. is an entity from the sariel-v2 campaign.
 
 ## References
-- [[sariel-v2]] — campaign overview
-- [[sariel-v2-campaign]]
+- [sariel-v2](../sources/sariel-v2.md) — campaign overview
+- [sariel-v2-campaign](../sources/sariel-v2-campaign.md)
 

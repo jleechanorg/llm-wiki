@@ -58,6 +58,6 @@ def is_stale(flag: StateFlag) -> bool:
 | `rewards_processed` | Rewards computed | Never stale |
 
 ## Connections
-- [[StateTransitions]] — State transition patterns
-- [[LevelUpArchitecture]] — Level-up state machine
-- [[StateModification]] — State mutation patterns
+- [StateTransitions](StateTransitions.md) — State transition patterns
+- [LevelUpArchitecture](LevelUpArchitecture.md) — Level-up state machine
+- [StateModification](StateModification.md) — State mutation patterns

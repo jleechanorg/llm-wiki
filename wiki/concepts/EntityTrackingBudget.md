@@ -19,6 +19,6 @@ The ENTITY_TRACKING_TOKEN_RESERVE constant (~10,500 tokens) is added to scaffold
 Original bug: entity tracking was added AFTER truncation, causing final prompt to exceed context window. For qwen-3-235b-a22b-instruct-2507, this resulted in 97,923 tokens used when max was 94,372 — a ~3,500 token overage.
 
 ## Related Concepts
-- [[ScaffoldCalculation]] — where the budget is applied
+- [ScaffoldCalculation](ScaffoldCalculation.md) — where the budget is applied
 - [[ContextBudgeting]] — broader token allocation system
-- [[TokenEstimation]] — used to calculate overhead
+- [TokenEstimation](TokenEstimation.md) — used to calculate overhead

@@ -15,5 +15,5 @@ Design principle requiring systems to work with any input, not just specific kno
 - Player character detection uses runtime data, not static lists
 
 ## Related Concepts
-- [[GenericDesign]] vs [[HardcodedCampaignData]]
+- [GenericDesign](GenericDesign.md) vs [HardcodedCampaignData](HardcodedCampaignData.md)
 - [[SemanticUnderstanding]] approach over pattern matching

@@ -21,5 +21,5 @@ Tests three API endpoints:
 - Auth headers: X-Test-Bypass-Auth, X-Test-User-ID
 
 ## Connections
-- [[FlaskTesting]] — uses test client
-- [[AuthenticationBypass]] — test authentication patterns
+- [FlaskTesting](FlaskTesting.md) — uses test client
+- [AuthenticationBypass](AuthenticationBypass.md) — test authentication patterns

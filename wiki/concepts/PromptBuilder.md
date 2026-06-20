@@ -16,4 +16,4 @@ A class in agent_prompts.py responsible for building system instructions for LLM
 
 ## Relevant to
 - [[CampaignSettingsTests]] — Tests validate correct behavior of PromptBuilder methods
-- [[GameState]] — Provides custom_campaign_state to PromptBuilder
+- [GameState](GameState.md) — Provides custom_campaign_state to PromptBuilder

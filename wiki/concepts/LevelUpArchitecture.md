@@ -40,10 +40,10 @@ Coordinates between RewardsEngine, LevelUpDetection, and LevelUpUI.
 - `LevelUpDetection` — signal detection
 - `LevelUpUI` — modal presentation/interaction
 
-**Passthrough Normalization**: The streaming path must normalize rewards boxes before persisting — see [[StreamingPassthroughNormalization]].
+**Passthrough Normalization**: The streaming path must normalize rewards boxes before persisting — see [StreamingPassthroughNormalization](StreamingPassthroughNormalization.md).
 
 ## Connections
-- [[LevelUpBug]] — Known bugs and fixes
-- [[LevelUpStateManagement]] — State management patterns
-- [[LevelUpPolling]] — Polling vs. push-based detection
-- [[StreamingPassthroughNormalization]] — Normalization in streaming path
+- [LevelUpBug](LevelUpBug.md) — Known bugs and fixes
+- [LevelUpStateManagement](LevelUpStateManagement.md) — State management patterns
+- [LevelUpPolling](LevelUpPolling.md) — Polling vs. push-based detection
+- [StreamingPassthroughNormalization](StreamingPassthroughNormalization.md) — Normalization in streaming path

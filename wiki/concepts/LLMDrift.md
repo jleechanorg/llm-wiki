@@ -27,5 +27,5 @@ Context window pressure over 15+ scenes causes LLM to lose focus on injected rul
 
 ## Connections
 - [[20TurnTestImprovementSummary]] — observed at Scene 24→25
-- [[ContextManagement]] — solution approach
-- [[TimestampProgression]] — also affected by drift
+- [ContextManagement](ContextManagement.md) — solution approach
+- [TimestampProgression](TimestampProgression.md) — also affected by drift

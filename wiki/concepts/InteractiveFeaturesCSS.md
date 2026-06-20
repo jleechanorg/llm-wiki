@@ -16,9 +16,9 @@ CSS styling for the Milestone 4 interactive features including campaign wizard, 
 - .modern-mode — modern interface mode styling
 
 ## Related Components
-- [[InterfaceManager]] — applies these styles
-- [[CampaignWizard]] — uses campaign-wizard class
-- [[EnhancedSearch]] — uses search-filter-container class
+- [InterfaceManager](../entities/InterfaceManager.md) — applies these styles
+- [CampaignWizard](CampaignWizard.md) — uses campaign-wizard class
+- [EnhancedSearch](EnhancedSearch.md) — uses search-filter-container class
 
 ## Source Reference
 Validated by [[Milestone 4 Interactive Features Tests]]

@@ -20,6 +20,6 @@ Example character from the "My Epic Adventure" campaign template used in end-to-
 Used in E2E tests to validate that CharacterCreationAgent activates even when God Mode provides complete character data.
 
 ## See Also
-- [[CharacterCreationAgent]]
+- [CharacterCreationAgent](CharacterCreationAgent.md)
 - [[Paladin]]
-- [[MyEpicAdventureTemplate]]
+- [MyEpicAdventureTemplate](MyEpicAdventureTemplate.md)

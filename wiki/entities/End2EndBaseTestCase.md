@@ -13,5 +13,5 @@ Base test case class in tests.test_end2end module providing common setup for end
 Inherited by specific test classes like TestVisitCampaignEnd2End to provide consistent test infrastructure.
 
 ## Related
-- [[TestVisitCampaignEnd2End]] - test class inheriting from this
-- [[FakeFirestoreClient]] - mock Firestore client used in tests
+- [TestVisitCampaignEnd2End](TestVisitCampaignEnd2End.md) - test class inheriting from this
+- [FakeFirestoreClient](FakeFirestoreClient.md) - mock Firestore client used in tests

@@ -10,13 +10,13 @@ total_scenes: 173
 
 ## Overview
 
-** Sea-Caves, Whispering Cliffs appears in 9 scenes across the [[visenya-v3]] campaign.
+** Sea-Caves, Whispering Cliffs appears in 9 scenes across the [visenya-v3](../sources/visenya-v3.md) campaign.
 
 ## Description
 
 ** Sea-Caves, Whispering Cliffs is an entity from the visenya-v3 campaign.
 
 ## References
-- [[visenya-v3]] — campaign overview
+- [visenya-v3](../sources/visenya-v3.md) — campaign overview
 - [[visenya-v3-campaign]]
 

@@ -26,6 +26,6 @@ The mechanics sub-structure within action_resolution that contains dice roll dat
 - With DC: "notation = total vs DC {dc} - Success/Failure (purpose)"
 
 ## Related Concepts
-- [[ActionResolution]] — parent data structure
-- [[DifficultyClass]] — DC tracking
+- [ActionResolution](ActionResolution.md) — parent data structure
+- [DifficultyClass](DifficultyClass.md) — DC tracking
 - [[DiceAuditEvents]] — telemetry extraction

@@ -16,5 +16,5 @@ Model Context Protocol — a standard interface for async tool invocation in tes
 - Protocol-agnostic implementation
 
 ## Related Concepts
-- [[CursorBasedPagination]] — pagination technique
-- [[EvidenceBundles]] — evidence capture
+- [CursorBasedPagination](CursorBasedPagination.md) — pagination technique
+- [EvidenceBundles](EvidenceBundles.md) — evidence capture

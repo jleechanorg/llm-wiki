@@ -29,8 +29,8 @@ Experience replay is a technique from reinforcement learning where the agent sto
 
 ## Connections
 
-- [[FilesystemHistory]] — Meta-Harness implements experience replay for code
-- [[FeedbackLoop]] — experience replay enables improved feedback
-- [[AgenticProposer]] — uses experience replay to make decisions
-- [[MetaHarness]] — implements experience replay at scale
-- [[SelfImproving]] — experience replay enables self-improvement
+- [FilesystemHistory](FilesystemHistory.md) — Meta-Harness implements experience replay for code
+- [FeedbackLoop](FeedbackLoop.md) — experience replay enables improved feedback
+- [AgenticProposer](AgenticProposer.md) — uses experience replay to make decisions
+- [MetaHarness](MetaHarness.md) — implements experience replay at scale
+- [SelfImproving](SelfImproving.md) — experience replay enables self-improvement

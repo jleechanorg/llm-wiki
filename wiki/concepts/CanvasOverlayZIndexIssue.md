@@ -52,8 +52,8 @@ Two equivalent options:
 Option A is simpler and guaranteed to work. Option B maintains visual position but allows clicks through.
 
 ## Connections
-- [[Harness5LayerModel]] — this is an L3 (Execution) failure: the harness cannot execute clean video capture due to DOM configuration
-- [[OCRTeardownValidation]] — the L4 verification workaround for duration-only validation that passed despite the broken capture
+- [Harness5LayerModel](Harness5LayerModel.md) — this is an L3 (Execution) failure: the harness cannot execute clean video capture due to DOM configuration
+- [OCRTeardownValidation](OCRTeardownValidation.md) — the L4 verification workaround for duration-only validation that passed despite the broken capture
 
 ## Sources
 - worldarchitect.ai E2E testing infrastructure

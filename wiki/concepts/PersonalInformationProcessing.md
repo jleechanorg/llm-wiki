@@ -19,5 +19,5 @@ Personal information processing refers to how WorldAI accesses, collects, stores
 
 ## Connections
 - [[WorldAIPrivacyPolicy]] — governing policy
-- [[DataProtection]] — broader concept
-- [[PrivacyRights]] — user rights regarding their data
+- [DataProtection](DataProtection.md) — broader concept
+- [PrivacyRights](PrivacyRights.md) — user rights regarding their data

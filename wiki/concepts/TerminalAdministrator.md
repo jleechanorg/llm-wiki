@@ -22,6 +22,6 @@ The PC's role in [[Sovereign Protocol]] — a God-Tier Entity commanding a porti
 4. Entropy Reversal: Rewrite thermodynamic laws
 
 ## Related
-- [[SovereignProtocol]] — The system this role operates in
+- [SovereignProtocol](../entities/SovereignProtocol.md) — The system this role operates in
 - [[SovereignAscensionCeremony]] — How this role is achieved
-- [[PanSubstrate]] — The environment being administered
+- [PanSubstrate](../entities/PanSubstrate.md) — The environment being administered

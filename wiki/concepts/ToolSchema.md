@@ -18,4 +18,4 @@ The schema specifies:
 ## Related Concepts
 - [[JSONSchemaDocumentationGenerator]] — utility for generating schema documentation
 - [[MCPClientLibraryforWorldArchitectAI]] — parses tool call responses using schema
-- [[ContractManifest]] — tracks tool schema versions
+- [ContractManifest](ContractManifest.md) — tracks tool schema versions

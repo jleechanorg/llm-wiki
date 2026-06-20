@@ -11,17 +11,17 @@ The Bloom Shadow is an Upper City brothel in Baldur's Gate run by Madam Zylra. I
 
 ## Key Details
 - **Category:** Location
-- **Campaign(s):** [[nocturne-bg3-v4]], [[nocturne-bg3-v5]], [[nocturne-bg3-v5-fixed-v2]]
+- **Campaign(s):** [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md), [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md), [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md)
 - **Setting:** Baldur's Gate Upper City
 - **Proprietor:** Madam Zylra
 
 ## Connections
-- [[NocturneSosuke]] — held here as the "Black Diamond"
+- [NocturneSosuke](NocturneSosuke.md) — held here as the "Black Diamond"
 - [[MadamZylra]] — proprietress of the establishment
-- [[HorgusGwent]] — regular client, catalyst for the revenge plot
-- [[CassalanterFamily]] — sold Nocturne here after destroying her family
+- [HorgusGwent](HorgusGwent.md) — regular client, catalyst for the revenge plot
+- [CassalanterFamily](CassalanterFamily.md) — sold Nocturne here after destroying her family
 
 ## Appearances
-- [[nocturne-bg3-v4]] — primary setting, Scenes 1-20
-- [[nocturne-bg3-v5]] — referenced as prior location before Nautiloid crash
-- [[nocturne-bg3-v5-fixed-v2]] — brothel infiltration scenario
+- [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md) — primary setting, Scenes 1-20
+- [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md) — referenced as prior location before Nautiloid crash
+- [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md) — brothel infiltration scenario

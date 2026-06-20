@@ -51,19 +51,26 @@ source_file: <relative path>
 > "Quote here" — context
 
 ## Connections
-- [[EntityName]] — how they relate
-- [[ConceptName]] — how it connects
+- [EntityName](../entities/EntityName.md) — how they relate
+- [ConceptName](../concepts/ConceptName.md) — how it connects
 ```
 
+**GitHub link rule**: Always use `[Name](../dir/Name.md)` markdown links — NEVER `[[wikilinks]]`.
+`[[wikilinks]]` render as plain text on github.com; only standard markdown links are clickable.
+- From `sources/`: use `../entities/Name.md` or `../concepts/Name.md`
+- From `entities/` or `concepts/`: use `../concepts/Name.md`, `../entities/Name.md`, or `Name.md` (same dir)
+- From `wiki/index.md`: use `entities/Name.md` or `concepts/Name.md`
+
 ### Phase 5: Update index
-Add entry to `wiki/index.md` under Sources section.
+Add entry to `wiki/index.md` under Sources section. Use `[Title](sources/slug.md)` markdown link.
 
 ### Phase 6: Oracle impact check
-Check if new content affects [[jeffrey-oracle]]. If so, append to `wiki/log.md`.
+Check if new content affects [jeffrey-oracle](../syntheses/jeffrey-oracle.md). If so, append to `wiki/log.md`.
 
 ### Phase 7: Entity & concept extraction
 Create entity pages for key people, companies, projects.
 Create concept pages for key ideas, frameworks, methods.
+Use `[Name](../dir/Name.md)` links in all new pages — never `[[wikilinks]]`.
 
 ### Phase 8: Log
 Append to `wiki/log.md`: `## [YYYY-MM-DD] ingest | <Title>`

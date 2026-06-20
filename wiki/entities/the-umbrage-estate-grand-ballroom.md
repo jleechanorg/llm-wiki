@@ -10,13 +10,13 @@ total_scenes: 179
 
 ## Overview
 
-** The Umbrage Estate, Grand Ballroom appears in 8 scenes across the [[nocturne-bg3-continued]] campaign.
+** The Umbrage Estate, Grand Ballroom appears in 8 scenes across the [nocturne-bg3-continued](../sources/nocturne-bg3-continued.md) campaign.
 
 ## Description
 
 ** The Umbrage Estate, Grand Ballroom is an entity from the nocturne-bg3-continued campaign.
 
 ## References
-- [[nocturne-bg3-continued]] — campaign overview
-- [[nocturne-bg3-continued-campaign]]
+- [nocturne-bg3-continued](../sources/nocturne-bg3-continued.md) — campaign overview
+- [nocturne-bg3-continued-campaign](../sources/nocturne-bg3-continued-campaign.md)
 

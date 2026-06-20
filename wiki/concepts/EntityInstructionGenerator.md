@@ -20,4 +20,4 @@ EntityInstructionGenerator creates mandatory entity requirements for LLM prompts
 - Location owners marked as background entities
 - Output includes "=== MANDATORY ENTITY REQUIREMENTS ===" and enforcement clauses
 
-**Related concepts:** [[EntityInstruction]], [[EntityEnforcementChecker]]
+**Related concepts:** [EntityInstruction](EntityInstruction.md), [EntityEnforcementChecker](EntityEnforcementChecker.md)

@@ -10,5 +10,5 @@ last_updated: 2026-04-08
 A campaign in the game system that exposed a gender consistency bug in narrative generation. The Jedi Master NPC was created as a "young woman" but later narrative referenced her with male pronouns ("he/him") and male name ("Eldrin").
 
 ## Related
-- [[NPC]] — entity schema that now includes gender field to prevent this bug
-- [[JediMaster]] — the specific NPC role that had the consistency issue
+- [NPC](NPC.md) — entity schema that now includes gender field to prevent this bug
+- [JediMaster](JediMaster.md) — the specific NPC role that had the consistency issue

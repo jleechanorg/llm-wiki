@@ -15,9 +15,9 @@ Isabelle is a generic proof assistant developed at the University of Cambridge. 
 - **Isabelle/HOL**: The most widely used instantiation of Isabelle
 
 ## Connections
-- [[ProofAssistant]] — Isabelle is a specific proof assistant
-- [[FormalVerification]] — Isabelle's primary use case
+- [ProofAssistant](ProofAssistant.md) — Isabelle is a specific proof assistant
+- [FormalVerification](FormalVerification.md) — Isabelle's primary use case
 
 ## See Also
-- [[ProofAssistant]]
-- [[FormalVerification]]
+- [ProofAssistant](ProofAssistant.md)
+- [FormalVerification](FormalVerification.md)

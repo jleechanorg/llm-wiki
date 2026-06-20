@@ -11,4 +11,4 @@ Cloud Run server where JSON parsing errors occurred for campaign `yxU6r6UuGFthtD
 
 ## Related
 - [[CodeExecutionJSONParsingFixVerification]] — server where fix was verified
-- [[CloudRun]] — deployment platform
+- [CloudRun](CloudRun.md) — deployment platform

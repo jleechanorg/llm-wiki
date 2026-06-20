@@ -7,7 +7,7 @@ last_updated: 2026-04-08
 ---
 
 ## Description
-Authentication context class holding user identity and roles. Used by [[WorldAIToolsProxy]] to authorize tool access. Roles determine which tools a user can execute.
+Authentication context class holding user identity and roles. Used by [WorldAIToolsProxy](WorldAIToolsProxy.md) to authorize tool access. Roles determine which tools a user can execute.
 
 ## Attributes
 - actor_user_id: Unique user identifier

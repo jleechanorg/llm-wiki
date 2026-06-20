@@ -18,9 +18,9 @@ NVIDIA published work on fail-safe guardrails for LLM agent deployments, specifi
 ## Connections
 - [[AI-Agent-Fail-Safe-Guardrails]] — concept directly from NVIDIA's published work
 - [[Fail-Closed]] — guardrails use deny-by-default enforcement pattern
-- [[OPA]] — architectural parallel: policy decision (guardrails) separated from enforcement
+- [OPA](OPA.md) — architectural parallel: policy decision (guardrails) separated from enforcement
 
 ## See Also
 - [[AI-Agent-Fail-Safe-Guardrails]]
 - [[Fail-Closed]]
-- [[OPA]]
+- [OPA](OPA.md)

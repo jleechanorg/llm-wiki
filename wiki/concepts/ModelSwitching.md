@@ -15,5 +15,5 @@ The ability to dynamically change between different LLM providers and models at 
 - Model selection per provider persists to Firestore
 
 ## Related
-- [[spicy-mode-toggle-e2e-tests]] — tests model switching
+- [spicy-mode-toggle-e2e-tests](../sources/spicy-mode-toggle-e2e-tests.md) — tests model switching
 - [[spicy-mode]] — applies model switching for creative mode

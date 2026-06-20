@@ -11,11 +11,11 @@ The Githyanki Raiders are githyanki pirates who operate the Nautiloid that crash
 
 ## Key Details
 - **Category:** Faction
-- **Campaign(s):** [[nocturne-bg3-v5-fixed-v2]]
+- **Campaign(s):** [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md)
 
 ## Connections
-- [[GithyankiShipwreck]] — their crashed ship
-- [[RavagedBeach]] — crash site
+- [GithyankiShipwreck](GithyankiShipwreck.md) — their crashed ship
+- [RavagedBeach](RavagedBeach.md) — crash site
 
 ## Appearances
-- [[nocturne-bg3-v5-fixed-v2]] — Nautiloid crash encounter
+- [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md) — Nautiloid crash encounter

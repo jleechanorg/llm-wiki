@@ -17,4 +17,4 @@ isFeatureEnabled() {
 ```
 
 ## Related Entities
-- [[ComponentEnhancer]]
+- [ComponentEnhancer](../entities/ComponentEnhancer.md)

@@ -11,17 +11,17 @@ The Emerald Grove is a druid sacred site in Baldur's Gate, home to the tiefling 
 
 ## Key Details
 - **Category:** Location
-- **Campaign(s):** [[nocturne-bg3-v5]], [[nocturne-bg3-v5-fixed-v2]], [[nocturne-bg3-v5-succubus]], [[nocturne-bg3-v6-bug-repro-test]]
+- **Campaign(s):** [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md), [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md), [nocturne-bg3-v5-succubus](../sources/nocturne-bg3-v5-succubus.md), [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md)
 - **Setting:** Baldur's Gate wilderness
 - **Inhabitants:** Emerald Circle druids, tiefling refugees
 
 ## Connections
-- [[NocturneSosuke]] — infiltrates the Grove
-- [[RiteOfThorns]] — key druidic ritual targeted for subversion
-- [[TrueSouls]] — Absolute-affiliated goblins assaulting the Grove
-- [[ShadowDruids]] — radical faction within the druids
-- [[Zevlor]] — druid leader at the Grove gates
+- [NocturneSosuke](NocturneSosuke.md) — infiltrates the Grove
+- [RiteOfThorns](../concepts/RiteOfThorns.md) — key druidic ritual targeted for subversion
+- [TrueSouls](TrueSouls.md) — Absolute-affiliated goblins assaulting the Grove
+- [ShadowDruids](ShadowDruids.md) — radical faction within the druids
+- [Zevlor](Zevlor.md) — druid leader at the Grove gates
 
 ## Appearances
-- [[nocturne-bg3-v5]] — destination after beach
-- [[nocturne-bg3-v6-bug-repro-test]] — infiltration and Rite of Thorns subversion
+- [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md) — destination after beach
+- [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md) — infiltration and Rite of Thorns subversion

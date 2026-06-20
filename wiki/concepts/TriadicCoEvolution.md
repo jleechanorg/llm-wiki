@@ -18,5 +18,5 @@ A self-improvement mechanism where three elements co-evolve: agent roles, commun
 
 ## Connections
 
-- [[ProjectChimera]] uses triadic co-evolution as its self-improvement mechanism
-- Related to [[CollectiveIntelligence]] — co-evolution is the mechanism that enables emergent group reasoning
+- [ProjectChimera](../entities/ProjectChimera.md) uses triadic co-evolution as its self-improvement mechanism
+- Related to [CollectiveIntelligence](CollectiveIntelligence.md) — co-evolution is the mechanism that enables emergent group reasoning

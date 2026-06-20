@@ -24,7 +24,7 @@ Alexiel, known as "The Mortal Star," is the player character of the Alexiel Assi
 
 ## Connections
 
-- [[LuciferAssiah]] — biological "father"
-- [[UnchainedHost]] — former employer
-- [[Silverwood]] — site of massacre causing defection
-- [[AlexielAssiah]] — the campaign
+- [LuciferAssiah](LuciferAssiah.md) — biological "father"
+- [UnchainedHost](../concepts/UnchainedHost.md) — former employer
+- [Silverwood](Silverwood.md) — site of massacre causing defection
+- [AlexielAssiah](AlexielAssiah.md) — the campaign

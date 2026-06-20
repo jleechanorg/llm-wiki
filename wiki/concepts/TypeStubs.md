@@ -15,5 +15,5 @@ Listed in requirements.txt:
 
 ## Related
 - [[PythonTypingGuide]] — requirements
-- [[mypy]] — type checker using stubs
-- [[Flask]] — requires type stubs
+- [mypy](../entities/mypy.md) — type checker using stubs
+- [Flask](Flask.md) — requires type stubs

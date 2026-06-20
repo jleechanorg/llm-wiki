@@ -20,5 +20,5 @@ Zero rejections - always process and resolve player-declared outcomes.
 
 ## Related Concepts
 - [[Tabletop DM Test]]
-- [[SocialHP]]
+- [SocialHP](SocialHP.md)
 - [[CombatMechanics]]

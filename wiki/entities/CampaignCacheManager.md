@@ -17,4 +17,4 @@ Python class managing Gemini cache lifecycle for campaign story entries. Handles
 
 ## Related
 - [[N-1 Cache Promotion]] — Core logic pattern
-- [[GeminiCacheManager]] — Module containing this class
+- [GeminiCacheManager](GeminiCacheManager.md) — Module containing this class

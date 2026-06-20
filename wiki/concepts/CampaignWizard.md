@@ -19,9 +19,9 @@ Campaign wizard is a multi-step form UI component for creating new game campaign
 
 ## Connections
 
-- Part of [[CampaignCreation]] workflow
+- Part of [CampaignCreation](CampaignCreation.md) workflow
 - Uses [[FormInputHandling]] concepts
-- Tested by [[FunctionalValidationTesting]]
+- Tested by [FunctionalValidationTesting](FunctionalValidationTesting.md)
 
 ## State Management Gotcha (2026-05-30)
 

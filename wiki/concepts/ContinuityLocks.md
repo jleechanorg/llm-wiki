@@ -12,9 +12,9 @@ Mechanism to prevent scene rewinds by tracking continuity fingerprints after eac
 ## Implementation
 - Track `last_scene_id`, `last_location`, active entities in `custom_campaign_state`
 - Include fingerprint in next prompt
-- [[NarrativeSyncValidator]] auto-adjusts minor regressions by merging prior state
+- [NarrativeSyncValidator](NarrativeSyncValidator.md) auto-adjusts minor regressions by merging prior state
 - Severe conflicts trigger internal reshot with forward-only reminder
 
 ## References
-- [[GameState]] — stores continuity fingerprints
-- [[NarrativeSyncValidator]] — enforces forward-only narrative flow
+- [GameState](GameState.md) — stores continuity fingerprints
+- [NarrativeSyncValidator](NarrativeSyncValidator.md) — enforces forward-only narrative flow

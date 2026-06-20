@@ -10,13 +10,13 @@ total_scenes: 117
 
 ## Overview
 
-** Capua, Ludus of Batiatus (Dining Hall) appears in 31 scenes across the [[gaia-julia-v3]] campaign.
+** Capua, Ludus of Batiatus (Dining Hall) appears in 31 scenes across the [gaia-julia-v3](../sources/gaia-julia-v3.md) campaign.
 
 ## Description
 
 ** Capua, Ludus of Batiatus (Dining Hall) is an entity from the gaia-julia-v3 campaign.
 
 ## References
-- [[gaia-julia-v3]] — campaign overview
-- [[gaia-julia-v3-campaign]]
+- [gaia-julia-v3](../sources/gaia-julia-v3.md) — campaign overview
+- [gaia-julia-v3-campaign](../sources/gaia-julia-v3-campaign.md)
 

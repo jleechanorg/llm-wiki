@@ -11,4 +11,4 @@ Concurrency control mechanism where the webhook worker acquires per-PR SQLite ad
 
 ## Connections
 - Used by [[WebhookPipelineOperatorRunbook]] for worker coordination
-- Related to [[DeterministicFeedbackLoops]] for fail-closed error handling
+- Related to [DeterministicFeedbackLoops](DeterministicFeedbackLoops.md) for fail-closed error handling

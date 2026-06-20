@@ -10,13 +10,13 @@ total_scenes: 315
 
 ## Overview
 
-** Lower City - Grey Harbor (The Silent Wave) appears in 5 scenes across the [[old-noctune-merc-bg3]] campaign.
+** Lower City - Grey Harbor (The Silent Wave) appears in 5 scenes across the [old-noctune-merc-bg3](../sources/old-noctune-merc-bg3.md) campaign.
 
 ## Description
 
 ** Lower City - Grey Harbor (The Silent Wave) is an entity from the old-noctune-merc-bg3 campaign.
 
 ## References
-- [[old-noctune-merc-bg3]] — campaign overview
+- [old-noctune-merc-bg3](../sources/old-noctune-merc-bg3.md) — campaign overview
 - [[old-noctune-merc-bg3-campaign]]
 

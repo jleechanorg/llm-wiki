@@ -16,9 +16,9 @@ Centralized entity validation component in WorldArchitect.AI that serves as the 
 - Provide confidence scores for validation results
 
 ## Related Concepts
-- [[NarrativeSyncValidator]] — delegates to EntityValidator
-- [[EntityContext]] — provides contextual data for validation
-- [[ValidationResult]] — structured output format
+- [NarrativeSyncValidator](NarrativeSyncValidator.md) — delegates to EntityValidator
+- [EntityContext](EntityContext.md) — provides contextual data for validation
+- [ValidationResult](ValidationResult.md) — structured output format
 
 ## Usage
 Used by llm_service.py and other narrative generation components to ensure characters, locations, and objects are properly tracked throughout a game session.

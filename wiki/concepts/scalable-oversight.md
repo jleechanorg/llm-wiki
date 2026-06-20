@@ -27,8 +27,8 @@ Scalable oversight is the research direction focused on enabling humans to super
 ZFC Level-Up's core question — should backend code or the model decide level-up facts — is a practical scalable oversight problem. The model is the "AI assistant" that can evaluate the game state; the backend is the "overseer" that receives the model's judgment and enforces it fail-closed. The model-as-judge pattern (RLAIF/CAI) is the pattern ZFC formalizes.
 
 ## See Also
-- [[RLAIF]]
+- [RLAIF](RLAIF.md)
 - [[Constitutional-AI]]
-- [[Debate]]
-- [[Recursive-Reward-Modeling]]
-- [[ZFC-Level-Up-Architecture]]
+- [Debate](Debate.md)
+- [Recursive-Reward-Modeling](Recursive-Reward-Modeling.md)
+- [ZFC-Level-Up-Architecture](ZFC-Level-Up-Architecture.md)

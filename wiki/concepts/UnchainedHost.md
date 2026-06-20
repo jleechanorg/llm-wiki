@@ -20,6 +20,6 @@ The Unchained Host is the western rebellion army in the world of Assiah, led by 
 
 ## Connections
 
-- [[LuciferAssiah]] — leader
-- [[AlexielAssiah]] — former Sword, defected
-- [[CelestialImperiumAssiah]] — opposing faction
+- [LuciferAssiah](../entities/LuciferAssiah.md) — leader
+- [AlexielAssiah](AlexielAssiah.md) — former Sword, defected
+- [CelestialImperiumAssiah](../entities/CelestialImperiumAssiah.md) — opposing faction

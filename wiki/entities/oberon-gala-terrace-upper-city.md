@@ -10,13 +10,13 @@ total_scenes: 1027
 
 ## Overview
 
-** Oberon Gala Terrace (Upper City) appears in 5 scenes across the [[nocturne-bg3-after]] campaign.
+** Oberon Gala Terrace (Upper City) appears in 5 scenes across the [nocturne-bg3-after](../sources/nocturne-bg3-after.md) campaign.
 
 ## Description
 
 ** Oberon Gala Terrace (Upper City) is an entity from the nocturne-bg3-after campaign.
 
 ## References
-- [[nocturne-bg3-after]] — campaign overview
-- [[nocturne-bg3-after-campaign]]
+- [nocturne-bg3-after](../sources/nocturne-bg3-after.md) — campaign overview
+- [nocturne-bg3-after-campaign](../sources/nocturne-bg3-after-campaign.md)
 

@@ -29,6 +29,6 @@ ACE (Agentic Context Engineering, or Adaptive Context Embedding) is a text optim
 
 ## Connections
 
-- [[MetaHarness]] — outperforms ACE by using richer access to prior experience
-- [[OpenEvolve]] — another text optimizer compared against in the paper
+- [MetaHarness](MetaHarness.md) — outperforms ACE by using richer access to prior experience
+- [OpenEvolve](OpenEvolve.md) — another text optimizer compared against in the paper
 - [[TextOptimizer]] — broader class of optimizers that ACE represents

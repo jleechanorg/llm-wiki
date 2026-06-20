@@ -10,13 +10,13 @@ total_scenes: 396
 
 ## Overview
 
-** Shattered Oubliette - The Second Heart appears in 4 scenes across the [[nocturne-old-republic]] campaign.
+** Shattered Oubliette - The Second Heart appears in 4 scenes across the [nocturne-old-republic](../sources/nocturne-old-republic.md) campaign.
 
 ## Description
 
 ** Shattered Oubliette - The Second Heart is an entity from the nocturne-old-republic campaign.
 
 ## References
-- [[nocturne-old-republic]] — campaign overview
-- [[nocturne-old-republic-campaign]]
+- [nocturne-old-republic](../sources/nocturne-old-republic.md) — campaign overview
+- [nocturne-old-republic-campaign](../sources/nocturne-old-republic-campaign.md)
 

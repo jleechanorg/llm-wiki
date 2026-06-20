@@ -22,6 +22,6 @@ PR #6841 — `mvp_site/frontend_v1/js/inline-editor.js`
 
 ## Related
 
-- [[InlineEditing]] — where discovered
-- [[FrontendV1]] — affected codebase
-- [[DOMManipulation]] — broader DOM event patterns
+- [InlineEditing](InlineEditing.md) — where discovered
+- [FrontendV1](../entities/FrontendV1.md) — affected codebase
+- [DOMManipulation](DOMManipulation.md) — broader DOM event patterns

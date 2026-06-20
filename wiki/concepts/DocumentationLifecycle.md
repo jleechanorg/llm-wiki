@@ -22,6 +22,6 @@ The lifecycle stages documentation goes through from creation to archival, ensur
 - Consolidate redundant documentation
 
 ## Related Concepts
-- [[DocumentationStandards]]
+- [DocumentationStandards](DocumentationStandards.md)
 - [[QualityAssurance]]
 - [[ArchiveManagement]]

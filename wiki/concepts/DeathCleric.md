@@ -31,7 +31,7 @@ As a Chosen of Shar, Shadowheart's Death Cleric abilities are granted through di
 
 ## Connections
 
-- [[Shadowheart]] — The Death Cleric who wields these powers
+- [Shadowheart](../entities/Shadowheart.md) — The Death Cleric who wields these powers
 - [[Shar]] — The goddess granting the power
 - [[Soul Harvest]] — The specific power path chosen
 - [[Shadow Heart Campaign]] — The campaign where this class was designed

@@ -14,9 +14,9 @@ Minthara is a Drow Paladin commander who serves as the leader of the goblin camp
 - Class: Paladin (Commander)
 - Role: Faction leader, military commander
 - Social HP: 30 (tracked as resolve)
-- Campaign appearances: [[nocrune-bg3-v6-campaign]], [[noctune-bg3-v6-campaign]], [[nocturne-bg3-v6-bug-repro-test-campaign]]
+- Campaign appearances: [nocrune-bg3-v6-campaign](../sources/nocrune-bg3-v6-campaign.md), [noctune-bg3-v6-campaign](../sources/noctune-bg3-v6-campaign.md), [nocturne-bg3-v6-bug-repro-test-campaign](../sources/nocturne-bg3-v6-bug-repro-test-campaign.md)
 
 ## Connections
-- [[NocturneSosuke]] — awaiting submission for Emerald Grove raid
-- [[ShatteredSanctum]] — commands from the War Room
-- [[CollegeOfTheAbyssalSiren]] — Siren's Gaze is primary tool for breaking Minthara's resistance
+- [NocturneSosuke](NocturneSosuke.md) — awaiting submission for Emerald Grove raid
+- [ShatteredSanctum](ShatteredSanctum.md) — commands from the War Room
+- [CollegeOfTheAbyssalSiren](../concepts/CollegeOfTheAbyssalSiren.md) — Siren's Gaze is primary tool for breaking Minthara's resistance

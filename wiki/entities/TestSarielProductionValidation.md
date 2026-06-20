@@ -20,5 +20,5 @@ Test file with detailed field-level validation and counts. Makes 8 API calls: 1 
 - Focuses on state evolution tracking
 
 ## Connections
-- [[TestSarielConsolidated]] — replacement test
+- [TestSarielConsolidated](TestSarielConsolidated.md) — replacement test
 - [[SarielTestFilesAnalysis]] — source analysis

@@ -40,6 +40,6 @@ Regression detected → Identify root cause → Implement fix → Verify with te
 - Breaking backward compatibility in API responses
 
 ## Connections
-- [[SkepticGateCodeRabbit]] — CodeRabbit integration for review
+- [SkepticGateCodeRabbit](SkepticGateCodeRabbit.md) — CodeRabbit integration for review
 - [[MergeGate]] — Merge prevention for regressions
-- [[RepoLevelMergeGuard]] — Repository-level merge guards
+- [RepoLevelMergeGuard](RepoLevelMergeGuard.md) — Repository-level merge guards

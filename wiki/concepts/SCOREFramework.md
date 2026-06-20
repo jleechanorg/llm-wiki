@@ -24,6 +24,6 @@ The framework addresses fundamental memory issues in AI systems that cause:
 WorldArchitect.AI integrates the SCORE Framework as its technical foundation for achieving 0% desynchronization—solving the memory problems that plague competitors like Character.AI and AI Dungeon.
 
 ## See Also
-- [[WorldArchitectAI]] — platform using SCORE for state consistency
-- [[RAG]] — complementary memory architecture
+- [WorldArchitectAI](../entities/WorldArchitectAI.md) — platform using SCORE for state consistency
+- [RAG](RAG.md) — complementary memory architecture
 - [[Character.AI]] — competitor without SCORE

@@ -11,7 +11,7 @@ Faction combat tool that calculates the player's faction ranking based on their 
 ## Usage Pattern
 - Input: player_faction_power (int), turn_number (int)
 - Output: ranking (int), total_factions (int)
-- Dependencies: Must be called after [[FactionCalculatePower]] with accurate power values
+- Dependencies: Must be called after [FactionCalculatePower](FactionCalculatePower.md) with accurate power values
 
 ## Known Issues
 - Previously could be called with placeholder FP=0 when LLM forgot to emit power tool

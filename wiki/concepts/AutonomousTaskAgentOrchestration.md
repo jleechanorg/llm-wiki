@@ -27,6 +27,6 @@ Coordination of multiple AI task agents working in parallel through tmux-based a
 ## Related Concepts
 
 
-- [[IntelligentCommandOrchestration]] — command-based coordination
+- [IntelligentCommandOrchestration](IntelligentCommandOrchestration.md) — command-based coordination
 - [[GenesisPersistentOrchestrationLayer]] — implementation layer
 - [[HarnessEngineeringPhilosophy]] — reliability architecture

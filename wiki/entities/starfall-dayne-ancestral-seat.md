@@ -10,13 +10,13 @@ total_scenes: 140
 
 ## Overview
 
-** Starfall - Dayne Ancestral Seat appears in 4 scenes across the [[arthur-dayne]] campaign.
+** Starfall - Dayne Ancestral Seat appears in 4 scenes across the [arthur-dayne](../sources/arthur-dayne.md) campaign.
 
 ## Description
 
 ** Starfall - Dayne Ancestral Seat is an entity from the arthur-dayne campaign.
 
 ## References
-- [[arthur-dayne]] — campaign overview
-- [[arthur-dayne-campaign]]
+- [arthur-dayne](../sources/arthur-dayne.md) — campaign overview
+- [arthur-dayne-campaign](../sources/arthur-dayne-campaign.md)
 

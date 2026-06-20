@@ -19,5 +19,5 @@ The log_with_tokens() function wraps logging_util to automatically include chara
 
 ## Related Concepts
 - [[TokenCountingUtilities]] — the specific implementation
-- [[LoggingUtil]] — the underlying logging module
-- [[TokenEstimation]] — the metrics being logged
+- [LoggingUtil](../entities/LoggingUtil.md) — the underlying logging module
+- [TokenEstimation](TokenEstimation.md) — the metrics being logged

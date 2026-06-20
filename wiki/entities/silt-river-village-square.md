@@ -10,13 +10,13 @@ total_scenes: 129
 
 ## Overview
 
-** Silt-River Village Square appears in 12 scenes across the [[aizen-thay-v1]] campaign.
+** Silt-River Village Square appears in 12 scenes across the [aizen-thay-v1](../sources/aizen-thay-v1.md) campaign.
 
 ## Description
 
 ** Silt-River Village Square is an entity from the aizen-thay-v1 campaign.
 
 ## References
-- [[aizen-thay-v1]] — campaign overview
-- [[aizen-thay-v1-campaign]]
+- [aizen-thay-v1](../sources/aizen-thay-v1.md) — campaign overview
+- [aizen-thay-v1-campaign](../sources/aizen-thay-v1-campaign.md)
 

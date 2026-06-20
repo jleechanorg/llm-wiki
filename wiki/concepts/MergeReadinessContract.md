@@ -61,7 +61,7 @@ Jeffrey reviews a Slack message that says "PR #173 is merge-ready" and hits merg
 | Hours to days | Minutes to hours |
 
 ## Related Concepts
-- [[AutonomousAgentLoop]]
-- [[EscalationRouter]]
-- [[TwoStageEvidencePipeline]]
-- [[HarnessEngineering]]
+- [AutonomousAgentLoop](AutonomousAgentLoop.md)
+- [EscalationRouter](EscalationRouter.md)
+- [TwoStageEvidencePipeline](TwoStageEvidencePipeline.md)
+- [HarnessEngineering](HarnessEngineering.md)

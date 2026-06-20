@@ -10,13 +10,13 @@ total_scenes: 211
 
 ## Overview
 
-** The Iron Gate, King's Landing appears in 5 scenes across the [[aemon-game-of-thrones]] campaign.
+** The Iron Gate, King's Landing appears in 5 scenes across the [aemon-game-of-thrones](../sources/aemon-game-of-thrones.md) campaign.
 
 ## Description
 
 ** The Iron Gate, King's Landing is an entity from the aemon-game-of-thrones campaign.
 
 ## References
-- [[aemon-game-of-thrones]] — campaign overview
-- [[aemon-game-of-thrones-campaign]]
+- [aemon-game-of-thrones](../sources/aemon-game-of-thrones.md) — campaign overview
+- [aemon-game-of-thrones-campaign](../sources/aemon-game-of-thrones-campaign.md)
 

@@ -20,23 +20,23 @@ Formal Verification is the use of mathematical proof systems — such as Lean, C
 
 ## Connections
 
-- [[jeffrey-oracle]] — oracle tracks verification completeness and formal proof standards
-- [[AdversarialTesting]] — complementary to formal verification: adversarial testing finds bugs that the formal specification did not cover
-- [[VerificationLoop]] — formal verification is one possible verification stage within a broader verification pipeline
-- [[SelfDebugging]] — verified code is a prerequisite for reliable self-debugging; a model debugging verified code can rely on the specification
-- [[Lean]] — specific proof assistant increasingly used in AI-assisted verification contexts
-- [[HarnessEngineering]] — a harness can route safety-critical code to a formal verification stage before deployment
-- [[CompilerVerification]] — verified compilers (CompCert, CakeML) provide end-to-end guarantees for the compilation chain
-- [[ProofAssistant]] — formal verification uses proof assistants (Lean, Coq, Isabelle) as the toolchain for building proofs
+- [jeffrey-oracle](../syntheses/jeffrey-oracle.md) — oracle tracks verification completeness and formal proof standards
+- [AdversarialTesting](AdversarialTesting.md) — complementary to formal verification: adversarial testing finds bugs that the formal specification did not cover
+- [VerificationLoop](VerificationLoop.md) — formal verification is one possible verification stage within a broader verification pipeline
+- [SelfDebugging](SelfDebugging.md) — verified code is a prerequisite for reliable self-debugging; a model debugging verified code can rely on the specification
+- [Lean](Lean.md) — specific proof assistant increasingly used in AI-assisted verification contexts
+- [HarnessEngineering](HarnessEngineering.md) — a harness can route safety-critical code to a formal verification stage before deployment
+- [CompilerVerification](CompilerVerification.md) — verified compilers (CompCert, CakeML) provide end-to-end guarantees for the compilation chain
+- [ProofAssistant](ProofAssistant.md) — formal verification uses proof assistants (Lean, Coq, Isabelle) as the toolchain for building proofs
 
 ## Relationships to Other Concepts
 
 Formal verification represents the highest assurance level in the spectrum from "tested" to "verified." For a coding harness, formal verification is the ultimate skeptic gate for code that must not fail. The tradeoff is speed: formal verification is orders of magnitude slower than compilation.
 
 ## See Also
-- [[ProofAssistant]]
-- [[Lean]]
-- [[Coq]]
-- [[Isabelle]]
-- [[Fuzzing]]
-- [[PropertyBasedTesting]]
+- [ProofAssistant](ProofAssistant.md)
+- [Lean](Lean.md)
+- [Coq](Coq.md)
+- [Isabelle](Isabelle.md)
+- [Fuzzing](Fuzzing.md)
+- [PropertyBasedTesting](PropertyBasedTesting.md)

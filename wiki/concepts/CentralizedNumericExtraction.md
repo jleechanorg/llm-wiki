@@ -44,6 +44,6 @@ def validate_rewards_box(numeric_value: float, context: dict) -> bool:
 ```
 
 ## Connections
-- [[CanonicalCodePatterns]] — Parent canonical pattern
-- [[RewardsBoxSchema]] — Rewards-specific schema
-- [[StreamingPassthroughNormalization]] — Normalization in streaming path
+- [CanonicalCodePatterns](CanonicalCodePatterns.md) — Parent canonical pattern
+- [RewardsBoxSchema](RewardsBoxSchema.md) — Rewards-specific schema
+- [StreamingPassthroughNormalization](StreamingPassthroughNormalization.md) — Normalization in streaming path

@@ -64,8 +64,8 @@ Manual: Write code → open PR → wait for CI → fix CI → wait for review �
 Autonomous: Developer opens PR → system handles everything until "ready to merge" Slack → developer hits merge. The debugging never touches developer attention.
 
 ## Related Concepts
-- [[HarnessEngineering]]
-- [[MemoryTierArchitecture]]
-- [[EscalationRouter]]
-- [[MergeReadinessContract]]
-- [[DailyBugHunt]]
+- [HarnessEngineering](HarnessEngineering.md)
+- [MemoryTierArchitecture](MemoryTierArchitecture.md)
+- [EscalationRouter](EscalationRouter.md)
+- [MergeReadinessContract](MergeReadinessContract.md)
+- [DailyBugHunt](DailyBugHunt.md)

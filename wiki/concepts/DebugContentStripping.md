@@ -21,6 +21,6 @@ A text processing technique that detects and removes debug metadata (typically s
 - Sanitizing logs that mix structured data with debugging hooks
 
 ## Related Concepts
-- [[JSONParsing]] — underlying structure recognition
+- [JSONParsing](JSONParsing.md) — underlying structure recognition
 - [[ContentFiltering]] — broader category of output sanitization
 - [[DebugHybridSystem]] — specific implementation in this codebase

@@ -18,10 +18,10 @@ Unit upkeep is the recurring cost in gold pieces (gp) that factions pay to maint
 
 ## Gameplay Significance
 - Factors into faction resource management
-- Influences strategic decisions in [[ThinkMode]]
+- Influences strategic decisions in [ThinkMode](ThinkMode.md)
 - Enables balance between military strength and economic sustainability
 
 ## Connections
 - Related to [[GoldPiece]] currency system
 - Related to [[FactionToolDefinitions]] for tool interface
-- Used in [[WorldAIFactionManagement]] system
+- Used in [WorldAIFactionManagement](../entities/WorldAIFactionManagement.md) system

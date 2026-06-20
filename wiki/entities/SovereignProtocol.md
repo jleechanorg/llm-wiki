@@ -17,11 +17,11 @@ The competitive infinite landscape simulation where the PC is a Terminal Adminis
 - **Ultimate Goal:** Entropy Reversal
 
 ## Core Systems
-- [[SubstratePoints]] — Currency and health
-- [[LogicSiege]] — Combat system
-- [[AggroMeter]] — Threat tracking
-- [[SubDeityPortfolios]] — NPC delegation
+- [SubstratePoints](../concepts/SubstratePoints.md) — Currency and health
+- [LogicSiege](LogicSiege.md) — Combat system
+- [AggroMeter](AggroMeter.md) — Threat tracking
+- [SubDeityPortfolios](../concepts/SubDeityPortfolios.md) — NPC delegation
 
 ## Related
 - [[Pan-Substrate]] — The multiverse environment
-- [[RivalSystem]] — Primary rival mechanics
+- [RivalSystem](../concepts/RivalSystem.md) — Primary rival mechanics

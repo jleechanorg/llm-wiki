@@ -15,5 +15,5 @@ Pattern where LLM APIs return JSON-structured responses that must be parsed from
 - Error recovery for malformed JSON prefixes
 
 ## Related
-- [[CodeExecutionMode]] — produces artifacts requiring this parsing
-- [[parse_structured_response]] — implementation in mvp_site.narrative_response_schema
+- [CodeExecutionMode](CodeExecutionMode.md) — produces artifacts requiring this parsing
+- [parse_structured_response](../entities/parse_structured_response.md) — implementation in mvp_site.narrative_response_schema

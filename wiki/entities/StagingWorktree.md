@@ -23,6 +23,6 @@ git rev-list staging..main --count
 If non-zero, fast-forward staging: `git checkout staging && git merge --ff-only origin/main && git push origin staging`
 
 ## Connections
-- [[Smartclaw]] — parent project
+- [Smartclaw](Smartclaw.md) — parent project
 - [[StagingPipeline]] — 3-stage pipeline using this worktree
 - [[GitWorktreePruning]] — worktree lifecycle management

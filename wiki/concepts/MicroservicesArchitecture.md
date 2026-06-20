@@ -23,4 +23,4 @@ Decomposing applications into independently deployable services that communicate
 ## Connections
 - [[DistributedSystems]] — underlying distributed theory
 - [[ServiceDiscovery]] — how services find each other
-- [[GitHubStadium]] — real-world microservices case study
+- [GitHubStadium](../entities/GitHubStadium.md) — real-world microservices case study

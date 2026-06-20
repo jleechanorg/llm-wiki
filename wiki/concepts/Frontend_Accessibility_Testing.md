@@ -14,6 +14,6 @@ Frontend accessibility testing validates that web applications are reachable and
 - Contains "worldai" or "world" (branding detection)
 
 ## Connections
-- [[React]] — frontend framework being tested
-- [[Vite]] — build tool being detected
+- [React](React.md) — frontend framework being tested
+- [Vite](../entities/Vite.md) — build tool being detected
 - [[Server Connectivity]] — complementary infrastructure test

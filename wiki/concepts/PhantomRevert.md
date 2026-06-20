@@ -45,10 +45,10 @@ Pushing the branch and opening a PR before checking the diff against current mai
 
 ## Related Concepts
 
-- [[PostMergeFollowupWorkflow]] — inverse pattern: a follow-up branch starting from a *stale* view of main, rather than a pre-merge branch lagging behind current main.
-- [[MergeReadinessContract]] — phantom reverts bypass merge-readiness checks because the local branch's *own* diff appears clean to its own gates.
-- [[agent-pr-sprawl]] — branch sprawl includes zombie branches that linger after their work is superseded by main cleanups.
-- [[StaleFlag]] — a different kind of "stale state" (boolean flag, not git branch), but the same root cause: state that was correct in an older snapshot but stale in the current one.
+- [PostMergeFollowupWorkflow](PostMergeFollowupWorkflow.md) — inverse pattern: a follow-up branch starting from a *stale* view of main, rather than a pre-merge branch lagging behind current main.
+- [MergeReadinessContract](MergeReadinessContract.md) — phantom reverts bypass merge-readiness checks because the local branch's *own* diff appears clean to its own gates.
+- [agent-pr-sprawl](agent-pr-sprawl.md) — branch sprawl includes zombie branches that linger after their work is superseded by main cleanups.
+- [StaleFlag](StaleFlag.md) — a different kind of "stale state" (boolean flag, not git branch), but the same root cause: state that was correct in an older snapshot but stale in the current one.
 
 ## Concrete Example (2026-06-14)
 

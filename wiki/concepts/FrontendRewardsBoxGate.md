@@ -46,7 +46,7 @@ Backend is now the **single source of truth**. Frontend double-gate would suppre
 
 ## Related
 
-- [[LevelUpBugInvestigation]] — file:line references, sentinel contracts
-- [[StructureDriftPattern]] — root cause: structure drift from checkpoint PR #2162
-- [[LevelUpStateManagement]] — stale flag management
-- [[RewardsBoxAtomicity]] — rewards_box atomicity invariants
+- [LevelUpBugInvestigation](LevelUpBugInvestigation.md) — file:line references, sentinel contracts
+- [StructureDriftPattern](StructureDriftPattern.md) — root cause: structure drift from checkpoint PR #2162
+- [LevelUpStateManagement](LevelUpStateManagement.md) — stale flag management
+- [RewardsBoxAtomicity](RewardsBoxAtomicity.md) — rewards_box atomicity invariants

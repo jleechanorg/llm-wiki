@@ -31,8 +31,8 @@ The end-to-end pipeline for processing player actions in WorldAI combat and worl
 
 ## Connections
 
-- [[TurnResolution]] — turn-level action processing
-- [[ActionResolution]] — field-level action resolution
-- [[DiceAuthenticity]] — dice must be genuine executed rolls
-- [[UpkeepPhase]] — post-combat upkeep deduction
-- [[mvp-site-action-resolution-utils]] — implementation utilities
+- [TurnResolution](TurnResolution.md) — turn-level action processing
+- [ActionResolution](ActionResolution.md) — field-level action resolution
+- [DiceAuthenticity](DiceAuthenticity.md) — dice must be genuine executed rolls
+- [UpkeepPhase](UpkeepPhase.md) — post-combat upkeep deduction
+- [mvp-site-action-resolution-utils](../sources/mvp-site-action-resolution-utils.md) — implementation utilities

@@ -20,8 +20,8 @@ The revolt began in 73 BCE when around 70 gladiators escaped from the School of 
 
 ## Connections
 
-- [[GaiaJuliaCaesar]] — Imperial agent
+- [GaiaJuliaCaesar](../entities/GaiaJuliaCaesar.md) — Imperial agent
 - [[GaiaJuliaV6Campaign]] — Campaign
-- [[Capua]] — Starting location
+- [Capua](../entities/Capua.md) — Starting location
 - [[RomanEmpire]] — Faction
-- [[PraetorianHand]] — Guard faction
+- [PraetorianHand](../entities/PraetorianHand.md) — Guard faction

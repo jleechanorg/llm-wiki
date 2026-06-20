@@ -19,7 +19,7 @@ The Westerlands is a region in the western part of Westeros, ruled by House Lann
 
 ## Connections
 
-- [[SerGregorClegane]] — operates here with his men
+- [SerGregorClegane](SerGregorClegane.md) — operates here with his men
 - [[Gregor'sMountainMen]] — mercenary company based at Mountain's Warcamp
-- [[Westeros]] — the continent containing the Westerlands
-- [[AemonGameOfThrones]] — the campaign
+- [Westeros](Westeros.md) — the continent containing the Westerlands
+- [AemonGameOfThrones](../concepts/AemonGameOfThrones.md) — the campaign

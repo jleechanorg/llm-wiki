@@ -43,5 +43,5 @@ fi
 
 ## Connected Concepts
 
-- [[SelfHostedRunnerNaming]] — naming must stay consistent across re-runs
-- [[Launchd]] — launchd plist installation
+- [SelfHostedRunnerNaming](SelfHostedRunnerNaming.md) — naming must stay consistent across re-runs
+- [Launchd](Launchd.md) — launchd plist installation

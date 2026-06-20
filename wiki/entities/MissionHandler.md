@@ -18,5 +18,5 @@ Static class in firestore_service.py that handles mission-related operations inc
 Tests cover edge cases: missing keys, non-list values, empty lists, invalid mission objects, and mission_id lookup.
 
 ## Related
-- [[FirestoreService]] — parent module
+- [FirestoreService](FirestoreService.md) — parent module
 - [[Firestore Service Inventory Deduplication Tests]] — related test coverage

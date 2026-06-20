@@ -55,10 +55,10 @@ Protocol when quality issues occur with opencode-go active:
 2. Offer to revert to wafer/GLM-5.1 as baseline test
 3. Wait for explicit Jeffrey approval before touching config
 
-Source: [[opencode-go-provider-quality-2026-05-29]]
+Source: [opencode-go-provider-quality-2026-05-29](../sources/opencode-go-provider-quality-2026-05-29.md)
 
 ## Related
 
-- [[OpenCodeTUIWrapper]] — opencode-go TUI integration patterns
-- [[WaferFixSSEPatcher]] — wafer SSE stream patching (lean-body token estimation)
+- [OpenCodeTUIWrapper](OpenCodeTUIWrapper.md) — opencode-go TUI integration patterns
+- [WaferFixSSEPatcher](WaferFixSSEPatcher.md) — wafer SSE stream patching (lean-body token estimation)
 - `~/.hermes_prod/config.yaml` — live provider config

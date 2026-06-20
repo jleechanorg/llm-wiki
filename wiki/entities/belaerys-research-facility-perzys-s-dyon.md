@@ -10,13 +10,13 @@ total_scenes: 1065
 
 ## Overview
 
-** Belaerys Research Facility, Perzys Sōdyon appears in 7 scenes across the [[visenya-v1-dunk-and-egg]] campaign.
+** Belaerys Research Facility, Perzys Sōdyon appears in 7 scenes across the [visenya-v1-dunk-and-egg](../sources/visenya-v1-dunk-and-egg.md) campaign.
 
 ## Description
 
 ** Belaerys Research Facility, Perzys Sōdyon is an entity from the visenya-v1-dunk-and-egg campaign.
 
 ## References
-- [[visenya-v1-dunk-and-egg]] — campaign overview
-- [[visenya-v1-dunk-and-egg-campaign]]
+- [visenya-v1-dunk-and-egg](../sources/visenya-v1-dunk-and-egg.md) — campaign overview
+- [visenya-v1-dunk-and-egg-campaign](../sources/visenya-v1-dunk-and-egg-campaign.md)
 

@@ -16,12 +16,12 @@ Tracker is 2389 Research's Go pipeline orchestration engine for multi-agent LLM 
 - **Provider support**: Anthropic, OpenAI, Gemini, OpenAI-compat
 
 ## Connections
-- [[2389Research]] — 2389 Research built Tracker
-- [[Mammoth]] — Mammoth uses Tracker for pipeline execution
-- [[AttractorPattern]] — Tracker converges on the attractor architecture
+- [2389Research](2389Research.md) — 2389 Research built Tracker
+- [Mammoth](Mammoth.md) — Mammoth uses Tracker for pipeline execution
+- [AttractorPattern](../concepts/AttractorPattern.md) — Tracker converges on the attractor architecture
 - [[DippinLanguage]] — Tracker pipelines are defined in the Dippin language
 
 ## See Also
-- [[2389Research]]
-- [[Mammoth]]
-- [[AttractorPattern]]
+- [2389Research](2389Research.md)
+- [Mammoth](Mammoth.md)
+- [AttractorPattern](../concepts/AttractorPattern.md)

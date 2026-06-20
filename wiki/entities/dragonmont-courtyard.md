@@ -10,13 +10,13 @@ total_scenes: 173
 
 ## Overview
 
-** Dragonmont Courtyard appears in 4 scenes across the [[visenya-v3]] campaign.
+** Dragonmont Courtyard appears in 4 scenes across the [visenya-v3](../sources/visenya-v3.md) campaign.
 
 ## Description
 
 ** Dragonmont Courtyard is an entity from the visenya-v3 campaign.
 
 ## References
-- [[visenya-v3]] — campaign overview
+- [visenya-v3](../sources/visenya-v3.md) — campaign overview
 - [[visenya-v3-campaign]]
 

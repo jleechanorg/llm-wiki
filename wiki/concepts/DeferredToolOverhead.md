@@ -20,7 +20,7 @@ Deferred tool registration is the persistent per-turn context cost from MCP serv
 Per-turn overhead is the primary driver of compaction frequency. The main session (229 user messages, 54 compactions) had massive overhead, while test sessions (86 messages, 0 compactions) lacked it and never hit the threshold.
 
 ## Connections
-- [[MCPServerInstructions]] — deferred tool listing in MCP config
+- [MCPServerInstructions](MCPServerInstructions.md) — deferred tool listing in MCP config
 - [[ContextBloat]] — deferred tool overhead part of per-turn context cost
-- [[Compaction]] — overhead driver of compaction frequency
-- [[ClaudeCode]] — where deferred tools appear in system reminders
+- [Compaction](Compaction.md) — overhead driver of compaction frequency
+- [ClaudeCode](../entities/ClaudeCode.md) — where deferred tools appear in system reminders

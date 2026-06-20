@@ -19,6 +19,6 @@ TTRPG campaign using the Frieren setting on WorldArchitect.AI. The primary campa
 
 ## Connections
 
-- [[RewardsBoxDismissalGap]] — this campaign is the repro subject
+- [RewardsBoxDismissalGap](../concepts/RewardsBoxDismissalGap.md) — this campaign is the repro subject
 - [[Frieren]] — campaign setting
-- [[CampaignUpgrade]] — related WorldArchitect campaign system
+- [CampaignUpgrade](CampaignUpgrade.md) — related WorldArchitect campaign system

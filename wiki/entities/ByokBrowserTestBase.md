@@ -13,5 +13,5 @@ Test base class in testing_ui.lib.byok_browser_base for browser testing with BYO
 - test_user_email — resolved from MCP_TEST_USER_EMAIL or TEST_EMAIL env vars
 
 ## Related
-- [[GeminiProvider]] — provider being tested
-- [[Playwright]] — browser automation framework
+- [GeminiProvider](GeminiProvider.md) — provider being tested
+- [Playwright](Playwright.md) — browser automation framework

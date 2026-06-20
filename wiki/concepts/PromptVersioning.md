@@ -16,4 +16,4 @@ The Prompt Contract Manifest tracks 6 prompts with versions ranging from 1.0.0 t
 
 ## Related Concepts
 - [[PromptVariantLoadingSystem]] — loads different prompt versions based on strategy
-- [[ContractManifest]] — centralized tracking of versioned assets
+- [ContractManifest](ContractManifest.md) — centralized tracking of versioned assets

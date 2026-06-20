@@ -59,6 +59,6 @@ If the goal is:
 New Python in `src/orchestration/` is only justified for capabilities that genuinely don't exist in openclaw's config surface.
 
 ## Related Concepts
-- [[HarnessEngineering]]
-- [[GatewayRestartSafety]]
-- [[AutonomousAgentLoop]]
+- [HarnessEngineering](HarnessEngineering.md)
+- [GatewayRestartSafety](GatewayRestartSafety.md)
+- [AutonomousAgentLoop](AutonomousAgentLoop.md)

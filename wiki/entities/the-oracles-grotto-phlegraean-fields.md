@@ -10,13 +10,13 @@ total_scenes: 162
 
 ## Overview
 
-** The Oracles' Grotto - Phlegraean Fields appears in 8 scenes across the [[gaia-julia-v4]] campaign.
+** The Oracles' Grotto - Phlegraean Fields appears in 8 scenes across the [gaia-julia-v4](../sources/gaia-julia-v4.md) campaign.
 
 ## Description
 
 ** The Oracles' Grotto - Phlegraean Fields is an entity from the gaia-julia-v4 campaign.
 
 ## References
-- [[gaia-julia-v4]] — campaign overview
-- [[gaia-julia-v4-campaign]]
+- [gaia-julia-v4](../sources/gaia-julia-v4.md) — campaign overview
+- [gaia-julia-v4-campaign](../sources/gaia-julia-v4-campaign.md)
 

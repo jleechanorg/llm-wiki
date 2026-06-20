@@ -8,4 +8,4 @@ last_updated: 2026-04-08
 
 Prompt file for game mechanics system. Contains planning block references in context of JSON field usage. No cleanup needed - already appropriate.
 
-**Related:** [[GameStateInstruction]], [[NarrativeSystemInstruction]]
+**Related:** [GameStateInstruction](GameStateInstruction.md), [NarrativeSystemInstruction](NarrativeSystemInstruction.md)

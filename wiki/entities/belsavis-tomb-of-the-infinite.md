@@ -10,13 +10,13 @@ total_scenes: 396
 
 ## Overview
 
-** Belsavis - Tomb of the Infinite appears in 17 scenes across the [[nocturne-old-republic]] campaign.
+** Belsavis - Tomb of the Infinite appears in 17 scenes across the [nocturne-old-republic](../sources/nocturne-old-republic.md) campaign.
 
 ## Description
 
 ** Belsavis - Tomb of the Infinite is an entity from the nocturne-old-republic campaign.
 
 ## References
-- [[nocturne-old-republic]] — campaign overview
-- [[nocturne-old-republic-campaign]]
+- [nocturne-old-republic](../sources/nocturne-old-republic.md) — campaign overview
+- [nocturne-old-republic-campaign](../sources/nocturne-old-republic-campaign.md)
 

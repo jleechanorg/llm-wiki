@@ -24,6 +24,6 @@ else:
 - Debugging dice-related issues with known roll sequences
 
 ## Related Concepts
-- [[DiceRollResult]] — the data structure for roll results
+- [DiceRollResult](DiceRollResult.md) — the data structure for roll results
 - [[Data Capture Framework]] — test evidence capture system
-- [[Real-Mode Testing]] — testing with real service interactions
+- [Real-Mode Testing](Real-Mode Testing.md) — testing with real service interactions

@@ -30,6 +30,6 @@ A Flask route that provides health check functionality for the worldarchitect-ai
 ```
 
 ## Related Concepts
-- [[TestDrivenDevelopment]] — tests validate endpoint behavior
-- [[GunicornConfiguration]] — provides worker/thread configuration
+- [TestDrivenDevelopment](TestDrivenDevelopment.md) — tests validate endpoint behavior
+- [GunicornConfiguration](GunicornConfiguration.md) — provides worker/thread configuration
 - [[RateLimitingExemption]] — health endpoint bypasses rate limits

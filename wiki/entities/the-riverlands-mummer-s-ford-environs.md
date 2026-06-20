@@ -10,13 +10,13 @@ total_scenes: 211
 
 ## Overview
 
-** The Riverlands, Mummer's Ford Environs appears in 11 scenes across the [[aemon-game-of-thrones]] campaign.
+** The Riverlands, Mummer's Ford Environs appears in 11 scenes across the [aemon-game-of-thrones](../sources/aemon-game-of-thrones.md) campaign.
 
 ## Description
 
 ** The Riverlands, Mummer's Ford Environs is an entity from the aemon-game-of-thrones campaign.
 
 ## References
-- [[aemon-game-of-thrones]] — campaign overview
-- [[aemon-game-of-thrones-campaign]]
+- [aemon-game-of-thrones](../sources/aemon-game-of-thrones.md) — campaign overview
+- [aemon-game-of-thrones-campaign](../sources/aemon-game-of-thrones-campaign.md)
 

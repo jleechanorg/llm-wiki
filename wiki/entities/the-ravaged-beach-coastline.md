@@ -10,13 +10,13 @@ total_scenes: 669
 
 ## Overview
 
-** The Ravaged Beach (Coastline) appears in 4 scenes across the [[nocturne-bg3-v5-succubus-fixed-v1]] campaign.
+** The Ravaged Beach (Coastline) appears in 4 scenes across the [nocturne-bg3-v5-succubus-fixed-v1](../sources/nocturne-bg3-v5-succubus-fixed-v1.md) campaign.
 
 ## Description
 
 ** The Ravaged Beach (Coastline) is an entity from the nocturne-bg3-v5-succubus-fixed-v1 campaign.
 
 ## References
-- [[nocturne-bg3-v5-succubus-fixed-v1]] — campaign overview
-- [[nocturne-bg3-v5-succubus-fixed-v1-campaign]]
+- [nocturne-bg3-v5-succubus-fixed-v1](../sources/nocturne-bg3-v5-succubus-fixed-v1.md) — campaign overview
+- [nocturne-bg3-v5-succubus-fixed-v1-campaign](../sources/nocturne-bg3-v5-succubus-fixed-v1-campaign.md)
 

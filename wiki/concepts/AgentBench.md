@@ -24,6 +24,6 @@ Multi-dimensional benchmark with 8 distinct environments for assessing LLM-as-Ag
 
 ## Connections
 
-- Related to [[EvoEval]] — benchmark integrity concerns
-- Related to [[OpenHands]] — evaluation platform
+- Related to [EvoEval](EvoEval.md) — benchmark integrity concerns
+- Related to [OpenHands](OpenHands.md) — evaluation platform
 - Evidence for coding agent capability gaps

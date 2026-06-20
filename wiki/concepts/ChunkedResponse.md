@@ -27,7 +27,7 @@ The incremental text delivery pattern used by WorldAI's streaming system. Each c
 
 ## Connections
 
-- [[StreamingResponse]] — real-time token delivery
-- [[StreamingParity]] — chunk ordering and completeness
-- [[EventStream]] — SSE delivery mechanism
-- [[mvp-site-streaming-orchestrator]] — chunk generation implementation
+- [StreamingResponse](StreamingResponse.md) — real-time token delivery
+- [StreamingParity](StreamingParity.md) — chunk ordering and completeness
+- [EventStream](EventStream.md) — SSE delivery mechanism
+- [mvp-site-streaming-orchestrator](../sources/mvp-site-streaming-orchestrator.md) — chunk generation implementation

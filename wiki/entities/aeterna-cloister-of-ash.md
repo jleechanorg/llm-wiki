@@ -10,13 +10,13 @@ total_scenes: 500
 
 ## Overview
 
-** Aeterna - Cloister of Ash appears in 4 scenes across the [[dragon-knight-evil]] campaign.
+** Aeterna - Cloister of Ash appears in 4 scenes across the [dragon-knight-evil](../sources/dragon-knight-evil.md) campaign.
 
 ## Description
 
 ** Aeterna - Cloister of Ash is an entity from the dragon-knight-evil campaign.
 
 ## References
-- [[dragon-knight-evil]] — campaign overview
-- [[dragon-knight-evil-campaign]]
+- [dragon-knight-evil](../sources/dragon-knight-evil.md) — campaign overview
+- [dragon-knight-evil-campaign](../sources/dragon-knight-evil-campaign.md)
 

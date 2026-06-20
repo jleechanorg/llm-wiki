@@ -17,11 +17,11 @@ Anthropic's Alignment team focuses on "understanding risks of AI models and deve
 
 ## Connections
 
-- [[ConstitutionalAI]] — developed by Anthropic Alignment team
-- [[ConstitutionalClassifiers]] — production deployment of alignment research
-- [[FrontierRedTeam]] — part of Anthropic's alignment and safety research
-- [[RLAIF]] — RLAIF is part of alignment research
+- [ConstitutionalAI](ConstitutionalAI.md) — developed by Anthropic Alignment team
+- [ConstitutionalClassifiers](ConstitutionalClassifiers.md) — production deployment of alignment research
+- [FrontierRedTeam](FrontierRedTeam.md) — part of Anthropic's alignment and safety research
+- [RLAIF](RLAIF.md) — RLAIF is part of alignment research
 
 ## See Also
-- [[ConstitutionalAI]]
-- [[FrontierRedTeam]]
+- [ConstitutionalAI](ConstitutionalAI.md)
+- [FrontierRedTeam](FrontierRedTeam.md)

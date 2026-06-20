@@ -15,5 +15,5 @@ Local Inference refers to running AI models on local hardware rather than callin
 - Requires compatible hardware
 
 ## Related
-- [[OpenClaw]] — Local inference gateway
+- [OpenClaw](../entities/OpenClaw.md) — Local inference gateway
 - [[Settings Page - AI Provider Selection]] — UI for local gateway config

@@ -46,6 +46,6 @@ The campaign's core distinction is between the Mercy path (using Persuasion/Insi
 
 - [[Undertale Campaign]] — The campaign they star in
 - [[Determination Adept]] — Their custom class
-- [[Underground]] — The monster realm they navigate
+- [Underground](Underground.md) — The monster realm they navigate
 - [[Mt. Ebott]] — The mountain they fell through
 - [[Mercy Path]] — Their optimized resolution approach

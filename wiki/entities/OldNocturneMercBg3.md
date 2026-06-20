@@ -21,6 +21,6 @@ Old Nocturne Merc BG3 is the player character in the Old Nocturne Merc BG3 campa
 This character represents philosophical evil — committing dark acts with deliberate purpose rather than chaotic cruelty.
 
 ## Connections
-- [[SmileyArvax]] — Guild contact
-- [[SmirkingBoar]] — Operations base
-- [[CollegeOfSwords]] — Class
+- [SmileyArvax](SmileyArvax.md) — Guild contact
+- [SmirkingBoar](SmirkingBoar.md) — Operations base
+- [CollegeOfSwords](../concepts/CollegeOfSwords.md) — Class

@@ -17,5 +17,5 @@ Software design philosophy where failures are detected early and propagate immed
 
 ## Related Concepts
 - [[Exception Handling]] — Python patterns for error management
-- [[MCPMemoryClient]] — class implementing this pattern
-- [[MCPMemoryError]] — exception raised under this pattern
+- [MCPMemoryClient](MCPMemoryClient.md) — class implementing this pattern
+- [MCPMemoryError](MCPMemoryError.md) — exception raised under this pattern

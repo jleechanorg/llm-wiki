@@ -10,13 +10,13 @@ total_scenes: 78
 
 ## Overview
 
-** Rebel Camp - Women's Lines appears in 5 scenes across the [[gaia-julia-v5]] campaign.
+** Rebel Camp - Women's Lines appears in 5 scenes across the [gaia-julia-v5](../sources/gaia-julia-v5.md) campaign.
 
 ## Description
 
 ** Rebel Camp - Women's Lines is an entity from the gaia-julia-v5 campaign.
 
 ## References
-- [[gaia-julia-v5]] — campaign overview
-- [[gaia-julia-v5-campaign]]
+- [gaia-julia-v5](../sources/gaia-julia-v5.md) — campaign overview
+- [gaia-julia-v5-campaign](../sources/gaia-julia-v5-campaign.md)
 

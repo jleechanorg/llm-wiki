@@ -16,9 +16,9 @@ Post-generation validation step that checks if LLM mentioned all expected visibl
 - Integration with NarrativeSyncValidator
 
 ## Related Concepts
-- [[StructuredGeneration]] — generation step
-- [[NarrativeSyncValidator]] — validator implementation
-- [[LLM-FirstStateManagement]] — broader pattern
+- [StructuredGeneration](StructuredGeneration.md) — generation step
+- [NarrativeSyncValidator](NarrativeSyncValidator.md) — validator implementation
+- [LLM-FirstStateManagement](LLM-FirstStateManagement.md) — broader pattern
 
 ## Test Coverage
 - test_step3_entity_coverage_validation validates the logic

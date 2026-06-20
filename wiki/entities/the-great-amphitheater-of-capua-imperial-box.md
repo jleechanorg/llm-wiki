@@ -10,13 +10,13 @@ total_scenes: 474
 
 ## Overview
 
-** The Great Amphitheater of Capua - Imperial Box appears in 7 scenes across the [[rome-pax-julia]] campaign.
+** The Great Amphitheater of Capua - Imperial Box appears in 7 scenes across the [rome-pax-julia](../sources/rome-pax-julia.md) campaign.
 
 ## Description
 
 ** The Great Amphitheater of Capua - Imperial Box is an entity from the rome-pax-julia campaign.
 
 ## References
-- [[rome-pax-julia]] — campaign overview
-- [[rome-pax-julia-campaign]]
+- [rome-pax-julia](../sources/rome-pax-julia.md) — campaign overview
+- [rome-pax-julia-campaign](../sources/rome-pax-julia-campaign.md)
 

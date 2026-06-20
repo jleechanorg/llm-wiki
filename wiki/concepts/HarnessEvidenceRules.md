@@ -44,6 +44,6 @@ Evidence is rejected if:
 - Timestamps are in the future or pre-date source changes
 
 ## Connections
-- [[HarnessEngineering]] — Harness system architecture
-- [[EvidenceGateVsCompileCI]] — Evidence gates vs. traditional CI
-- [[StreamingEvidenceValidation]] — Validation in streaming context
+- [HarnessEngineering](HarnessEngineering.md) — Harness system architecture
+- [EvidenceGateVsCompileCI](EvidenceGateVsCompileCI.md) — Evidence gates vs. traditional CI
+- [StreamingEvidenceValidation](StreamingEvidenceValidation.md) — Validation in streaming context

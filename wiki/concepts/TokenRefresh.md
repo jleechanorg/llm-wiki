@@ -20,5 +20,5 @@ Mechanism for maintaining authenticated sessions by refreshing JWT tokens before
 - Called automatically when user authenticates
 
 ## Connections
-- [[FirebaseAuthentication]] — Uses token refresh for session maintenance
-- [[JWT]] — Token type being refreshed
+- [FirebaseAuthentication](FirebaseAuthentication.md) — Uses token refresh for session maintenance
+- [JWT](../entities/JWT.md) — Token type being refreshed

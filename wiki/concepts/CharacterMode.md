@@ -12,5 +12,5 @@ Character mode is a narrative mode where the LLM responds as a game character, h
 Used for interactions 1-4 in the Sariel campaign, where players make choices and receive character-driven responses.
 
 ## Related
-- [[GodMode]] — opposite narrative mode
+- [GodMode](GodMode.md) — opposite narrative mode
 - [[NarrativeDirectives]] — governs narrative output style

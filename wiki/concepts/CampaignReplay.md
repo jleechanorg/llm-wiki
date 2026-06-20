@@ -26,5 +26,5 @@ From the test script:
 The "Cassian problem" is documented as a known edge case in campaign replay testing — indicating that certain entity tracking scenarios require special handling.
 
 ## Related
-- [[DesyncMeasurement]] — The measurement approach
+- [DesyncMeasurement](DesyncMeasurement.md) — The measurement approach
 - [[IntegrationTest]] — Broader testing category

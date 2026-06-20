@@ -54,4 +54,4 @@ Fixed in `~/.claude/skills/memory-search/SKILL.md` 2026-05-14. See [[conflict-re
 
 ## Related Concepts
 - [[Memory System]] — underlying storage mechanism
-- [[Compaction]] — memory management before context limit
+- [Compaction](Compaction.md) — memory management before context limit

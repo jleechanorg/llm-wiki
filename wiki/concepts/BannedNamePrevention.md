@@ -16,6 +16,6 @@ System for preventing overused/banned character names in AI-generated content. I
 4. **Enforcement Directive**: Section emphasizing compliance requirements
 
 ## Related Concepts
-- [[PromptEngineering]] — how the banned names are integrated into system instructions
+- [PromptEngineering](PromptEngineering.md) — how the banned names are integrated into system instructions
 - [[CharacterGeneration]] — the process being protected by name prevention
-- [[WorldLoader]] — module that loads the banned names for use
+- [WorldLoader](../entities/WorldLoader.md) — module that loads the banned names for use

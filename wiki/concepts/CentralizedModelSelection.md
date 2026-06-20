@@ -23,6 +23,6 @@ Pattern where LLM model selection is handled by a single function (e.g., `_selec
 All must be disabled for user preferences to be respected.
 
 ## Related
-- [[mvp_site.llm_service]] — implementation module
-- [[DEFAULT_MODEL]] — fallback constant
+- [mvp_site.llm_service](../entities/mvp_site.llm_service.md) — implementation module
+- [DEFAULT_MODEL](../entities/DEFAULT_MODEL.md) — fallback constant
 - [[TDD Tests for Centralized Model Selection]] — validation tests

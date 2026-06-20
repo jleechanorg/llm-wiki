@@ -21,4 +21,4 @@ Types of JSON malformation that can occur in AI-generated responses:
 All malformed JSON should return standardized error message, never raw JSON structure.
 
 ## Related Concepts
-- [[ParseStructuredResponse]] — handles malformed JSON gracefully
+- [ParseStructuredResponse](ParseStructuredResponse.md) — handles malformed JSON gracefully

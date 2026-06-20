@@ -17,7 +17,7 @@ Pattern for managing modal states (Character Creation, Level-Up, Campaign Upgrad
 - **Modal mutual exclusion**: Only one modal active at a time
 
 ## Connections
-- [[LevelUpAgent]] — implements modal pattern
-- [[CharacterCreationAgent]] — implements modal pattern
-- [[CampaignUpgrade]] — third modal type
+- [LevelUpAgent](../entities/LevelUpAgent.md) — implements modal pattern
+- [CharacterCreationAgent](../entities/CharacterCreationAgent.md) — implements modal pattern
+- [CampaignUpgrade](../entities/CampaignUpgrade.md) — third modal type
 - [[Integration Tests for Modal State Management]] — validates cross-modal behavior

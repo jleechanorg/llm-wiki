@@ -10,13 +10,13 @@ total_scenes: 107
 
 ## Overview
 
-** Hidden Chamber, Rosymorn Monastery appears in 8 scenes across the [[nocturne-bg3-v7]] campaign.
+** Hidden Chamber, Rosymorn Monastery appears in 8 scenes across the [nocturne-bg3-v7](../sources/nocturne-bg3-v7.md) campaign.
 
 ## Description
 
 ** Hidden Chamber, Rosymorn Monastery is an entity from the nocturne-bg3-v7 campaign.
 
 ## References
-- [[nocturne-bg3-v7]] — campaign overview
-- [[nocturne-bg3-v7-campaign]]
+- [nocturne-bg3-v7](../sources/nocturne-bg3-v7.md) — campaign overview
+- [nocturne-bg3-v7-campaign](../sources/nocturne-bg3-v7-campaign.md)
 

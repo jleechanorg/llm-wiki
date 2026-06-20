@@ -22,7 +22,7 @@ When a character gains a level:
 - Wizard: d6 (at first level), d4 thereafter
 
 ## Related Concepts
-- [[LevelUpMechanics]] — where HP is calculated
+- [LevelUpMechanics](LevelUpMechanics.md) — where HP is calculated
 - [[Constitution]] — ability score affecting HP
 - [[HitDie]] — die rolled for HP
-- [[DungeonsAndDragons5e]] — governing ruleset
+- [DungeonsAndDragons5e](DungeonsAndDragons5e.md) — governing ruleset

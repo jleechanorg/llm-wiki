@@ -16,7 +16,7 @@ A UI pattern that allows users to expand or collapse content sections, typically
 - Graceful handling when target elements are missing
 
 ## Connections
-- [[UIUtils]] — provides setupCollapsibleDescription() utility function
+- [UIUtils](../entities/UIUtils.md) — provides setupCollapsibleDescription() utility function
 - [[Campaign Wizard]] — uses collapsible descriptions for campaign setup forms
 
 ## Related Patterns

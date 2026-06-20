@@ -15,6 +15,6 @@ Search pattern that updates results immediately as the user types, with debounci
 - Combined with additional filters (sort, theme, status)
 
 ## Related Concepts
-- [[Debouncing]] — performance optimization technique
+- [Debouncing](Debouncing.md) — performance optimization technique
 - [[Filtering]] — criteria-based result refinement
 - [[Sorting]] — result ordering

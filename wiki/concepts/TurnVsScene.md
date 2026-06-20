@@ -16,5 +16,5 @@ Turn vs Scene distinction defines how numbering works in WorldArchitect.AI for u
 **Approximation**: When conversation alternates perfectly, `user_scene_number` ≈ `turn_number / 2`
 
 **Related Concepts**:
-- [[GameStateManagement]] — overall state protocol
-- [[VisibilityRule]] — what players see
+- [GameStateManagement](GameStateManagement.md) — overall state protocol
+- [VisibilityRule](VisibilityRule.md) — what players see

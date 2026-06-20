@@ -21,5 +21,5 @@ The Serpent King approach to evil is purposeful:
 This backstory adds moral complexity to the campaign. Rather than a chaotic villain, Nocturne operates with a code — dark, but comprehensible.
 
 ## Connections
-- [[OldNocturneMercBg3]] — Bearer of this identity
-- [[CollegeOfSwords]] — Combat expression of the identity
+- [OldNocturneMercBg3](../entities/OldNocturneMercBg3.md) — Bearer of this identity
+- [CollegeOfSwords](CollegeOfSwords.md) — Combat expression of the identity

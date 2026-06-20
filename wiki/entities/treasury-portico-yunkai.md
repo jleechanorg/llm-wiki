@@ -10,13 +10,13 @@ total_scenes: 277
 
 ## Overview
 
-** Treasury Portico, Yunkai appears in 23 scenes across the [[visenya-v2]] campaign.
+** Treasury Portico, Yunkai appears in 23 scenes across the [visenya-v2](../sources/visenya-v2.md) campaign.
 
 ## Description
 
 ** Treasury Portico, Yunkai is an entity from the visenya-v2 campaign.
 
 ## References
-- [[visenya-v2]] — campaign overview
+- [visenya-v2](../sources/visenya-v2.md) — campaign overview
 - [[visenya-v2-campaign]]
 

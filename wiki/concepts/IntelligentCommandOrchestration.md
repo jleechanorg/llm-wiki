@@ -26,6 +26,6 @@ A sophisticated slash command architecture that enables 10-15x velocity improvem
 
 ## Related Concepts
 
-- [[AutonomousTaskAgentOrchestration]] — parallel agent coordination
-- [[MemoryEnhancedDecisionMaking]] — persistent learning patterns
-- [[OrchestrationSystemFragility]] — failure rate issues
+- [AutonomousTaskAgentOrchestration](AutonomousTaskAgentOrchestration.md) — parallel agent coordination
+- [MemoryEnhancedDecisionMaking](MemoryEnhancedDecisionMaking.md) — persistent learning patterns
+- [OrchestrationSystemFragility](OrchestrationSystemFragility.md) — failure rate issues

@@ -20,6 +20,6 @@ Failure condition in streaming_orchestrator when response validation fails. Occu
 System must detect empty Phase 2 response before validation, yield error event instead of done event, and handle gracefully through full application stack.
 
 ## Related Concepts
-- [[Phase2Streaming]] — where failures occur
-- [[ParseStructuredResponse]] — provides fallback but can't fix empty raw text
-- [[FirestorePersistence]] — where data loss manifests
+- [Phase2Streaming](Phase2Streaming.md) — where failures occur
+- [ParseStructuredResponse](ParseStructuredResponse.md) — provides fallback but can't fix empty raw text
+- [FirestorePersistence](FirestorePersistence.md) — where data loss manifests

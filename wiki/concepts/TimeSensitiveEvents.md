@@ -33,5 +33,5 @@ Time-sensitive events are events in the game that have deadlines — specific po
 - **critical**: Immediate threat (e.g., deadline already passed)
 
 ## Related Concepts
-- [[NPCAgendas]] — related NPC decision-making that affects event outcomes
-- [[WarningGeneration]] — system for alerting players to approaching deadlines
+- [NPCAgendas](NPCAgendas.md) — related NPC decision-making that affects event outcomes
+- [WarningGeneration](WarningGeneration.md) — system for alerting players to approaching deadlines

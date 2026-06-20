@@ -23,4 +23,4 @@ D&D 5e method for generating ability scores using 27 points distributed across s
 - Total cost must not exceed 27 points
 
 ## Usage in Character Creation
-Used in [[CharacterCreationLevelUpMode]] as one of three ability score generation options alongside [[StandardArray]] and custom assignment.
+Used in [[CharacterCreationLevelUpMode]] as one of three ability score generation options alongside [StandardArray](StandardArray.md) and custom assignment.

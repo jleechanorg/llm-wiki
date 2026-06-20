@@ -14,6 +14,6 @@ MvpSite is the Python package containing core functionality for WorldArchitect.A
 - `world`: Directory containing world content files (world_assiah_compressed.md, banned_names.md)
 
 ## Related Components
-- [[WorldArchitect]] - the parent project
+- [WorldArchitect](WorldArchitect.md) - the parent project
 - [[WorldContentLoader]] - world loading module within mvp_site
-- [[FileCache]] - file reading with caching
+- [FileCache](FileCache.md) - file reading with caching

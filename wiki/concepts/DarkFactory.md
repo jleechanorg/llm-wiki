@@ -54,13 +54,13 @@ Cole is honest about limits on stream, but framing (dark factory, no steering wh
 | Independent verification | Holdout pattern | Skeptic LLM |
 | Failure recovery | Implicit retry hooks | Explicit: stuck-worker-detector, stalled-worker-auditor, parallel-retry |
 
-See [[Archon]], [[jleechanorg/agent-orchestrator]], [[slack-c09grlxf9gr-archon-analysis-2026-04-15]].
+See [Archon](../entities/Archon.md), [[jleechanorg/agent-orchestrator]], [slack-c09grlxf9gr-archon-analysis-2026-04-15](../sources/slack-c09grlxf9gr-archon-analysis-2026-04-15.md).
 
 ## vs Four Canonical Attractor Implementations
 
 The dark-factory (Python) is one of five Attractor pattern implementations. Four independent implementations converged on the same three-layer architecture (LLM client → Agent loop → Pipeline engine), confirming structural correctness.
 
-| Dimension | dark-factory | [[AttractorBench]] | [[Kilroy]] | [[Smasher]] | [[Mammoth]] |
+| Dimension | dark-factory | [AttractorBench](../entities/AttractorBench.md) | [Kilroy](../entities/Kilroy.md) | [Smasher](../entities/Smasher.md) | [Mammoth](../entities/Mammoth.md) |
 |---|---|---|---|---|---|
 | Language | Python | Python | Go | Rust | TypeScript |
 | Parallel | No | Yes (Harbor) | Yes (4 join policies) | Yes (bounded) | TBD |
@@ -76,13 +76,13 @@ The dark-factory (Python) is one of five Attractor pattern implementations. Four
 
 For the full feature-by-feature gap analysis, see source page `attractor-four-implementation-gap-analysis-2026-05-24`.
 
-See [[AttractorPattern]], [[ModelStylesheet]], [[AttractorParallelExecution]], [[FailureDossier]].
+See [AttractorPattern](AttractorPattern.md), [ModelStylesheet](ModelStylesheet.md), [AttractorParallelExecution](AttractorParallelExecution.md), [FailureDossier](FailureDossier.md).
 
-## Update 2026-05-30 — holdout & prompt-path facts (see [[sources/conclude-finalize-zfc-darkfactory-2026-05-30]])
+## Update 2026-05-30 — holdout & prompt-path facts (see [conclude-finalize-zfc-darkfactory-2026-05-30](../sources/conclude-finalize-zfc-darkfactory-2026-05-30.md))
 - The adversarial **holdout guarantee is about the CODER** (runner `claude --print` codergen subprocess), NOT the orchestrator. The orchestrator may author `holdouts/<feature>/scenarios.yaml` (SKILL.md:106-114); the coder stays blind. Evaluator (`dark-factory-holdouts/evaluator/run.py`) kinds: `python_call`/`python_call_signature`/`python_module_attr`, exact-repr match, module imported from impl_root.
 - **@prompts false-PASS**: `runner/handlers.py:550 _path_attr` joins a relative prompt path to `ctx.workdir` (target repo) → codergen stub scores success. Use ABSOLUTE prompt paths in the `.dot`; verify with `--backend echo --max-steps 3`.
 
-## Update 2026-05-30 — brownfield-vs-greenfield + timeout false-success (see [[sources/feedback-2026-05-30-dark-factory-brownfield-flaws]])
+## Update 2026-05-30 — brownfield-vs-greenfield + timeout false-success (see [feedback-2026-05-30-dark-factory-brownfield-flaws](../sources/feedback-2026-05-30-dark-factory-brownfield-flaws.md))
 - **Greenfield pipelines cannot delete.** Running a brownfield refactor/replace/DELETE task through the additive greenfield pipeline orphaned the deletion: it was staged as a conditional "after proof, delete X" with NO executor node, and the resume pipeline had no `implement` node at all. Net diff +2507/−54 with ZERO deletion. Proof was also BACKWARDS (old override present during the real-LLM proof, so green proved nothing), and DEAD CODE (a Pydantic `ConcludeSnapshot` defined-but-unwired to any runtime call site) still passed `test_e2e`.
 - **Fix:** `~/.claude/skills/factory-spec/SKILL.md` Step 0 now mandates Brownfield-vs-Greenfield classification with 6 brownfield rules — DELETE-FIRST ordering, deletion needs an executor node (not a conditional), net-LOC ≤ 0 guard, dead-code gate, replace at the same call site, prove against the post-deletion tree. Quick test: "if this milestone succeeds, should git diff show deletions?" → yes → brownfield.
 - **Timeout false-success:** `_tool` handler `timeout = int(node.attrs.get("timeout","300"))` (`runner/handlers.py:577`; `subprocess.run` :597) crashes real-LLM nodes >300s with `TimeoutExpired`, and `runs.final` stayed `'success'` on crash. Set `timeout="2400"`+ on long real-LLM nodes; a monitor must declare DONE only when the `exit` node is in the `steps` table, never from `runs.final`.

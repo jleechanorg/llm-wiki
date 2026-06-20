@@ -4,7 +4,7 @@ type: entity
 tags: [character, sariel-v2, assiah, deceased, demigod, married-name]
 sources: [sariel-v2-campaign, sariel-v2-entry-003, dragon-knight-evil-campaign, dragon-knight-good-campaign]
 last_updated: 2026-04-12
-campaign_note: "**Same character as [[Alexiel]], post-marriage identity.** [[Alexiel]] covers her early career as Lucifer's Prodigal Sword (Year 61-78 DR). This page covers her later life as Alexiel Arcanus, Mortal Queen of House Arcanus, wife of Prince Artorius, mother of Sariel, who died at the Battle of Sacrifice Fields."
+campaign_note: "**Same character as [Alexiel](Alexiel.md), post-marriage identity.** [Alexiel](Alexiel.md) covers her early career as Lucifer's Prodigal Sword (Year 61-78 DR). This page covers her later life as Alexiel Arcanus, Mortal Queen of House Arcanus, wife of Prince Artorius, mother of Sariel, who died at the Battle of Sacrifice Fields."
 ---
 
 ## Profile

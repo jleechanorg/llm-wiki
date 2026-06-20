@@ -26,6 +26,6 @@ CSS Animations support the `prefers-reduced-motion` media query to respect user 
 
 ## Related
 
-- [[JavaScriptAnimation]] — complementary JavaScript animation techniques
-- [[PerformanceOptimization]] — frontend performance best practices
-- [[ReducedMotionAccessibility]] — accessibility support for motion-sensitive users
+- [JavaScriptAnimation](JavaScriptAnimation.md) — complementary JavaScript animation techniques
+- [PerformanceOptimization](PerformanceOptimization.md) — frontend performance best practices
+- [ReducedMotionAccessibility](ReducedMotionAccessibility.md) — accessibility support for motion-sensitive users

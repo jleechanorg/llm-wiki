@@ -15,5 +15,5 @@ Google Cloud managed compute service used as primary deployment platform for Wor
 - **Environment Variables**: Supports GUNICORN_WORKERS, GUNICORN_THREADS
 
 ## Connections
-- [[WorldArchitectAI]] — deployed to Cloud Run
-- [[Gunicorn]] — runs within Cloud Run containers
+- [WorldArchitectAI](WorldArchitectAI.md) — deployed to Cloud Run
+- [Gunicorn](Gunicorn.md) — runs within Cloud Run containers

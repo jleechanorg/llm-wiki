@@ -18,10 +18,10 @@ Apache Kafka is an event streaming platform with broker-side schema validation. 
 
 ## Connections
 
-- [[SchemaIDValidation]] — Kafka broker-side schema ID verification
-- [[FailClosedValidation]] — Kafka/Confluent fail-closed batch discard pattern
-- [[Confluent]] — Confluent Schema Registry extends Kafka
+- [SchemaIDValidation](../concepts/SchemaIDValidation.md) — Kafka broker-side schema ID verification
+- [FailClosedValidation](../concepts/FailClosedValidation.md) — Kafka/Confluent fail-closed batch discard pattern
+- [Confluent](Confluent.md) — Confluent Schema Registry extends Kafka
 
 ## See Also
-- [[SchemaIDValidation]]
-- [[FailClosedValidation]]
+- [SchemaIDValidation](../concepts/SchemaIDValidation.md)
+- [FailClosedValidation](../concepts/FailClosedValidation.md)

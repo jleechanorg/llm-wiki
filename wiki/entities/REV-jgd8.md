@@ -18,4 +18,4 @@ Pull request introducing dedicated end-to-end tests for schema enforcement in th
 
 ## Related
 - [[SchemaEnforcementEnd2EndTests]] — source page for test implementation
-- [[GameState]] — entity being validated
+- [GameState](GameState.md) — entity being validated

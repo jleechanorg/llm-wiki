@@ -13,6 +13,6 @@ The Crimson Kiss is an emerging cult faction centered around Nocturne, formed in
 As Nocturne solidified her power over the Shadow Grove and the Absolute remnants scattered, followers began to gather around her — attracted by promises of transformation and liberation from the old order.
 
 ## Connections
-- [[NocturneBg3V7]] — Cult leader
-- [[Malcanthet]] — Divine patron (demonic aspect)
+- [NocturneBg3V7](NocturneBg3V7.md) — Cult leader
+- [Malcanthet](Malcanthet.md) — Divine patron (demonic aspect)
 - [[Bhaal]] — Divine patron (murder aspect)

@@ -20,6 +20,6 @@ Regression testing is a type of software testing that ensures new changes do not
 - **Layout shifts**: CSS changes cause elements to reflow unexpectedly
 
 ## Related Concepts
-- [[CSSCustomProperties]] — common source of regression when undefined
-- [[UnitTesting]] — granular tests that catch specific regression scenarios
+- [CSSCustomProperties](CSSCustomProperties.md) — common source of regression when undefined
+- [UnitTesting](UnitTesting.md) — granular tests that catch specific regression scenarios
 - [[AutomatedTesting]] — CI-based regression guards that run on every change

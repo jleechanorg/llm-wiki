@@ -16,8 +16,8 @@ When prompts contain repeated content, Gemini can reuse cached tokens instead of
 
 ## Related Pages
 - [[GeminiUsageMetadataLoggingTests]] — tests for logging this metadata
-- [[GeminiAPI]] — provider with implicit caching support
+- [GeminiAPI](../entities/GeminiAPI.md) — provider with implicit caching support
 
 ## Connections
-- [[GeminiAPI]] — provides implicit caching
-- [[UsageMetadata]] — the metadata that enables verification
+- [GeminiAPI](../entities/GeminiAPI.md) — provides implicit caching
+- [UsageMetadata](UsageMetadata.md) — the metadata that enables verification

@@ -26,6 +26,6 @@ DOCX document generation for WorldAI campaign exports using python-docx library.
 
 ## Connections
 
-- [[MultiFormatExport]] — broader export system with DOCX as one format
-- [[mvp-site-document-generator]] — implementation source
-- [[PDFGeneration]] — alternative document format
+- [MultiFormatExport](MultiFormatExport.md) — broader export system with DOCX as one format
+- [mvp-site-document-generator](../sources/mvp-site-document-generator.md) — implementation source
+- [PDFGeneration](PDFGeneration.md) — alternative document format

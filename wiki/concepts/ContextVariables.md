@@ -18,6 +18,6 @@ Python's `contextvars` module provides context variables that are specific to a 
 The logging utility imports `contextvars` for potential async-aware logger context preservation, allowing logging to maintain request-specific context across async boundaries.
 
 ## Connections
-- [[PythonLogging]] — used with contextvars for async-aware logging
-- [[AsyncIO]] — async framework that benefits from context variable usage
-- [[LLMService]] — async service that could use context variables for request tracking
+- [PythonLogging](PythonLogging.md) — used with contextvars for async-aware logging
+- [AsyncIO](AsyncIO.md) — async framework that benefits from context variable usage
+- [LLMService](LLMService.md) — async service that could use context variables for request tracking

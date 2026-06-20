@@ -13,6 +13,6 @@ Revision identifier for making validation failures surface in corrections as non
 Ensures schema validation failures don't raise exceptions that block gameplay. Instead, they generate GCP log warnings and correction warnings that developers can review without impacting player experience.
 
 ## Related
-- [[PR4534]] — Parent PR
-- [[NonBlockingWarnings]] — The design pattern implemented
-- [[SchemaValidation]] — The validation system being modified
+- [PR4534](PR4534.md) — Parent PR
+- [NonBlockingWarnings](../concepts/NonBlockingWarnings.md) — The design pattern implemented
+- [SchemaValidation](../concepts/SchemaValidation.md) — The validation system being modified

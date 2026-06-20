@@ -10,13 +10,13 @@ total_scenes: 140
 
 ## Overview
 
-** Rome - The Great Arena (Imperial Box) appears in 6 scenes across the [[gaia-julia-v6]] campaign.
+** Rome - The Great Arena (Imperial Box) appears in 6 scenes across the [gaia-julia-v6](../sources/gaia-julia-v6.md) campaign.
 
 ## Description
 
 ** Rome - The Great Arena (Imperial Box) is an entity from the gaia-julia-v6 campaign.
 
 ## References
-- [[gaia-julia-v6]] — campaign overview
-- [[gaia-julia-v6-campaign]]
+- [gaia-julia-v6](../sources/gaia-julia-v6.md) — campaign overview
+- [gaia-julia-v6-campaign](../sources/gaia-julia-v6-campaign.md)
 

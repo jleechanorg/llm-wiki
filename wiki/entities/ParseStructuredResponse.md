@@ -13,5 +13,5 @@ Function that extracts structured response data from LLM JSON outputs, separatin
 Critical for Bug 1 fix: ensures the LLM respects character actions by properly extracting state_updates from JSON responses rather than treating them as narrative.
 
 ## Connections
-- [[LLMResponse]] — uses this to populate structured_response
+- [LLMResponse](LLMResponse.md) — uses this to populate structured_response
 - [[StateUpdateIntegrationTests]] — validates this function's behavior

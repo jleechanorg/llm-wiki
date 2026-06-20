@@ -25,4 +25,4 @@ Real browser proof must match the reported browser surface. For mobile auth:
 - BrowserStack/Sauce/Appium real-device credentials are required for an autonomous physical Chrome iOS lane.
 - A passing/failing lower-fidelity browser harness should be labeled `RELATED` unless it shows the exact user-visible phenotype.
 
-Source: [[project-2026-06-19-mobile-auth-repro-fidelity]].
+Source: [project-2026-06-19-mobile-auth-repro-fidelity](../sources/project-2026-06-19-mobile-auth-repro-fidelity.md).

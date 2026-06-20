@@ -16,6 +16,6 @@ A bug that occurs when code behavior depends on the relative timing of concurren
 - Prevented with locking
 
 ## Connections
-- [[ThreadSafety]] — the solution to race conditions
-- [[LazyLoading]] — context where race conditions occur
-- [[MvpSite]] — the module being tested for race conditions
+- [ThreadSafety](ThreadSafety.md) — the solution to race conditions
+- [LazyLoading](LazyLoading.md) — context where race conditions occur
+- [MvpSite](../entities/MvpSite.md) — the module being tested for race conditions

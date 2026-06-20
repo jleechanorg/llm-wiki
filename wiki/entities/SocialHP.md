@@ -15,6 +15,6 @@ Social HP is a game mechanic representing an NPC's resistance to social interact
 - **Silent Integrity** — Social HP integrity enforcement operates silently - users never see corrections
 
 ## Related Concepts
-- [[ContinuitySafeguards]] — The system that protects Social HP integrity
-- [[AntiBlitzProtection]] — Protection mechanism against social interaction spam
+- [ContinuitySafeguards](../concepts/ContinuitySafeguards.md) — The system that protects Social HP integrity
+- [AntiBlitzProtection](../concepts/AntiBlitzProtection.md) — Protection mechanism against social interaction spam
 - [[GameMechanicsProtocol]] — The broader game mechanics this mechanic belongs to

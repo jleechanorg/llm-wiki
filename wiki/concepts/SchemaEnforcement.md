@@ -15,5 +15,5 @@ Practice of ensuring all data written to the system conforms to a defined schema
 - **Legacy Backfill**: Old field locations automatically migrate to canonical form
 
 ## Related
-- [[GameState]] — enforces schema on each turn
-- [[REV-jgd8]] — E2E tests for schema enforcement
+- [GameState](GameState.md) — enforces schema on each turn
+- [REV-jgd8](../entities/REV-jgd8.md) — E2E tests for schema enforcement

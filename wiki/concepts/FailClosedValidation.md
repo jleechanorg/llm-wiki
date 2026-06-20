@@ -21,6 +21,6 @@ Fail-Closed Validation is a validation semantics where the entire batch is disca
 Fail-closed validation is the model for PR #453's fail-closed merge semantics — if evidence is missing or Skeptic is SKIPPED, the PR fails closed (not merged with a warning). The validation gate rejects the entire PR, not just the failing check.
 
 ## See Also
-- [[Confluent]]
-- [[SchemaIDValidation]]
-- [[SkepticGate]]
+- [Confluent](../entities/Confluent.md)
+- [SchemaIDValidation](SchemaIDValidation.md)
+- [SkepticGate](SkepticGate.md)

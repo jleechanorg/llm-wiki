@@ -10,13 +10,13 @@ total_scenes: 490
 
 ## Overview
 
-** Capua, The Market Square appears in 11 scenes across the [[aurelius-julius-caesar-v1]] campaign.
+** Capua, The Market Square appears in 11 scenes across the [aurelius-julius-caesar-v1](../sources/aurelius-julius-caesar-v1.md) campaign.
 
 ## Description
 
 ** Capua, The Market Square is an entity from the aurelius-julius-caesar-v1 campaign.
 
 ## References
-- [[aurelius-julius-caesar-v1]] — campaign overview
-- [[aurelius-julius-caesar-v1-campaign]]
+- [aurelius-julius-caesar-v1](../sources/aurelius-julius-caesar-v1.md) — campaign overview
+- [aurelius-julius-caesar-v1-campaign](../sources/aurelius-julius-caesar-v1-campaign.md)
 

@@ -21,6 +21,6 @@ Claude Code hooks are designed for interactive sessions. When Claude Code is dri
 
 ## Connections
 - [[HookSystem]] — Claude Code hook system
-- [[Compaction]] — PreCompact hook bypass means ~98% of compactions aren't intercepted
-- [[ClaudeCode]] — hook bypass in programmatic contexts
-- [[AgentOrchestrator]] — AO workers run in tmux, bypass hooks
+- [Compaction](Compaction.md) — PreCompact hook bypass means ~98% of compactions aren't intercepted
+- [ClaudeCode](../entities/ClaudeCode.md) — hook bypass in programmatic contexts
+- [AgentOrchestrator](../entities/AgentOrchestrator.md) — AO workers run in tmux, bypass hooks

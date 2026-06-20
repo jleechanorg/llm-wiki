@@ -24,7 +24,7 @@ Jon Snow (Level 3 Paladin/Fighter → Level 8 by late campaign) is the legitimiz
 - **Key Items**: Crown of Roses, Longclaw (bastard sword)
 
 ## Connections
-- [[VisenyaTargaryen]] — his queen and manipulator
-- [[EddardStark]] — the father he killed at Visenya's command
-- [[RobbStark]] — the brother he now rivals for Visenya's favor
-- [[RhaegarTargaryen]] — his true father; Lyanna Stark's secret
+- [VisenyaTargaryen](VisenyaTargaryen.md) — his queen and manipulator
+- [EddardStark](EddardStark.md) — the father he killed at Visenya's command
+- [RobbStark](RobbStark.md) — the brother he now rivals for Visenya's favor
+- [RhaegarTargaryen](RhaegarTargaryen.md) — his true father; Lyanna Stark's secret

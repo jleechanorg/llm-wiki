@@ -15,4 +15,4 @@ Traditional unit testing approach where all external dependencies are mocked via
 - Requires manual maintenance as APIs evolve
 
 ## Migration Path
-Upgrade to [[DualModeTesting]] using [[ServiceProviderPattern]] to enable both mock and real service testing from same test code.
+Upgrade to [DualModeTesting](DualModeTesting.md) using [ServiceProviderPattern](ServiceProviderPattern.md) to enable both mock and real service testing from same test code.

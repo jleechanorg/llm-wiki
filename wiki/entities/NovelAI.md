@@ -19,6 +19,6 @@ NovelAI is an AI-powered storytelling platform that offers technically superior 
 NovelAI represents the technical benchmark but lacks the game-focused approach that WorldArchitect.AI provides. Its creative writing focus leaves a gap for players seeking authentic tabletop RPG experiences with AI.
 
 ## See Also
-- [[WorldArchitectAI]] — platform combining technical superiority with RPG focus
+- [WorldArchitectAI](WorldArchitectAI.md) — platform combining technical superiority with RPG focus
 - [[AI Dungeon]] — first-mover with memory issues
 - [[Character.AI]] — memory degradation issues

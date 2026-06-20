@@ -10,13 +10,13 @@ total_scenes: 211
 
 ## Overview
 
-** Kingspyre Tower solar, Harrenhal appears in 17 scenes across the [[aemon-game-of-thrones]] campaign.
+** Kingspyre Tower solar, Harrenhal appears in 17 scenes across the [aemon-game-of-thrones](../sources/aemon-game-of-thrones.md) campaign.
 
 ## Description
 
 ** Kingspyre Tower solar, Harrenhal is an entity from the aemon-game-of-thrones campaign.
 
 ## References
-- [[aemon-game-of-thrones]] — campaign overview
-- [[aemon-game-of-thrones-campaign]]
+- [aemon-game-of-thrones](../sources/aemon-game-of-thrones.md) — campaign overview
+- [aemon-game-of-thrones-campaign](../sources/aemon-game-of-thrones-campaign.md)
 

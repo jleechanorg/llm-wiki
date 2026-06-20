@@ -28,5 +28,5 @@ Strategic combat system for battles involving 20+ forces (armies, warbands, larg
 - Daily resource tracking required
 
 ## Related Concepts
-- [[XPByCRTable]] — XP awards for combat
-- [[HighMagicBalance]] — encounter difficulty scaling
+- [XPByCRTable](XPByCRTable.md) — XP awards for combat
+- [HighMagicBalance](HighMagicBalance.md) — encounter difficulty scaling

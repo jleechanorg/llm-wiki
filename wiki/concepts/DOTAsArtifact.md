@@ -16,15 +16,15 @@ The DOT-as-artifact pattern treats Graphviz DOT pipeline files as the durable, v
 ## Related Systems
 | System | Type | Relevance |
 |--------|------|-----------|
-| [[Kilroy]] | Runner | Generates DOT from English via `attractor ingest` |
-| [[Mammoth]] | Runner | 21-rule DOT linter, 5-phase lifecycle |
-| [[Tracker]] | Runner | Uses Dippin language (.dip) instead of raw DOT |
-| [[DarkFactory]] | Repo | dark-factory runner parses DOT via pydot |
+| [Kilroy](../entities/Kilroy.md) | Runner | Generates DOT from English via `attractor ingest` |
+| [Mammoth](../entities/Mammoth.md) | Runner | 21-rule DOT linter, 5-phase lifecycle |
+| [Tracker](../entities/Tracker.md) | Runner | Uses Dippin language (.dip) instead of raw DOT |
+| [DarkFactory](DarkFactory.md) | Repo | dark-factory runner parses DOT via pydot |
 
 ## Connection to Attractor Pattern
 DOT files are the Attractor pattern's primary artifact. The question isn't how to build the factory anymore — it's what to build with it. Share your .dot files: "What does your 'audit a Rails app' pipeline look like?"
 
 ## See Also
-- [[AttractorPattern]]
-- [[Dorodango]]
-- [[WorkflowEngine]]
+- [AttractorPattern](AttractorPattern.md)
+- [Dorodango](Dorodango.md)
+- [WorkflowEngine](WorkflowEngine.md)

@@ -16,6 +16,6 @@ Prompt mode used for all player interactions in the Sariel v2 campaign after ini
 
 ## Related Pages
 - [[SarielV2CampaignPromptsJune2025]] — Source document
-- [[GodMode]] — Opposite mode for initial setup
+- [GodMode](GodMode.md) — Opposite mode for initial setup
 - [[PromptMode]] — General concept
-- [[EntityTracking]] — Core mechanic in this mode
+- [EntityTracking](EntityTracking.md) — Core mechanic in this mode

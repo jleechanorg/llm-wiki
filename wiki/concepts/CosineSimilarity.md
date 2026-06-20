@@ -23,6 +23,6 @@ cosine_similarity(A, B) = (A · B) / (||A|| × ||B||)
 - Below threshold → defaults to MODE_CHARACTER
 
 ## Connections
-- [[SemanticIntentClassification]] — uses cosine similarity
-- [[L2Normalization]] — preprocessing step
-- [[EmbeddingVector]] — inputs to similarity calculation
+- [SemanticIntentClassification](SemanticIntentClassification.md) — uses cosine similarity
+- [L2Normalization](L2Normalization.md) — preprocessing step
+- [EmbeddingVector](EmbeddingVector.md) — inputs to similarity calculation

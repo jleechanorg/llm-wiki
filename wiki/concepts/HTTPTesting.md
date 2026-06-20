@@ -22,5 +22,5 @@ assert b"Settings" in response.content
 ```
 
 ## Connection
-- Alternative to [[BrowserAutomationTesting]] and [[UnitTesting]]
+- Alternative to [[BrowserAutomationTesting]] and [UnitTesting](UnitTesting.md)
 - Used in [[TDD HTTP Tests for Settings Page UI]]

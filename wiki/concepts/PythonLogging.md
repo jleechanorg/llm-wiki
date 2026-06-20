@@ -23,6 +23,6 @@ The centralized logging utility wraps Python logging with:
 - Thread-safe initialization guard to prevent duplicate handlers
 
 ## Connections
-- [[ContextVariables]] — contextvars for async-aware logging context
-- [[CloudLogging]] — production logging destination for deployed applications
+- [ContextVariables](ContextVariables.md) — contextvars for async-aware logging context
+- [CloudLogging](CloudLogging.md) — production logging destination for deployed applications
 - [[FileLogging]] — local file output for development and debugging

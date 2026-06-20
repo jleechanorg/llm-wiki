@@ -9,7 +9,7 @@ last_updated: 2026-04-08
 Real service provider implementation that creates actual Google Cloud clients for Firestore and Gemini, as opposed to mocked test providers.
 
 ## Test Coverage
-- Interface implementation via [[TestServiceProvider]]
+- Interface implementation via [TestServiceProvider](TestServiceProvider.md)
 - Real service flag (is_real_service = True)
 - Capture mode support for test data recording
 - Firestore client creation with auth handling
@@ -17,5 +17,5 @@ Real service provider implementation that creates actual Google Cloud clients fo
 - Test collection tracking and cleanup
 
 ## Related
-- [[TestServiceProvider]] — test interface
+- [TestServiceProvider](TestServiceProvider.md) — test interface
 - [[RealServiceProviderTests]] — unit tests for this class

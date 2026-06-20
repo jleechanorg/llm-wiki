@@ -10,13 +10,13 @@ total_scenes: 277
 
 ## Overview
 
-House Entrance appears in 3 scenes across the [[visenya-v2]] campaign.
+House Entrance appears in 3 scenes across the [visenya-v2](../sources/visenya-v2.md) campaign.
 
 ## Description
 
 House Entrance is an entity from the visenya-v2 campaign.
 
 ## References
-- [[visenya-v2]] — campaign overview
+- [visenya-v2](../sources/visenya-v2.md) — campaign overview
 - [[visenya-v2-campaign]]
 

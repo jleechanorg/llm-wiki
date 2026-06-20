@@ -15,4 +15,4 @@ Testing technique where mock objects simulate real dependencies. Enables isolate
 
 ## Related Concepts
 - [[Service Provider Pattern]] — dependency injection for services
-- [[Test Fixture]] — setup code for tests
+- [Test Fixture](Test Fixture.md) — setup code for tests

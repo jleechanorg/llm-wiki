@@ -17,4 +17,4 @@ Task identifier for the loading spinner messages feature. Tests validate CSS/JS 
 
 ## Connections
 - [[LoadingSpinnerMessagesTests]] — test suite for this task
-- [[LoadingMessages]] — feature implemented in this task
+- [LoadingMessages](../concepts/LoadingMessages.md) — feature implemented in this task

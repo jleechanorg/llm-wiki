@@ -20,12 +20,12 @@ Compiler Verification is the application of formal verification techniques to pr
 
 ## Connections
 
-- [[FormalVerification]] — compiler verification is a specific application domain of formal verification
-- [[ProofAssistant]] — Coq and Isabelle are the primary tools for compiler verification
-- [[Coq]] — CompCert is built in Coq
-- [[Lean]] — emerging compiler verification work in Lean 4
-- [[Autoformalization]] — autoformalization could enable AI-assisted proof generation for compiler verification
-- [[SelfDebugging]] — verified compilation means debugging can focus on source-level issues
+- [FormalVerification](FormalVerification.md) — compiler verification is a specific application domain of formal verification
+- [ProofAssistant](ProofAssistant.md) — Coq and Isabelle are the primary tools for compiler verification
+- [Coq](Coq.md) — CompCert is built in Coq
+- [Lean](Lean.md) — emerging compiler verification work in Lean 4
+- [Autoformalization](Autoformalization.md) — autoformalization could enable AI-assisted proof generation for compiler verification
+- [SelfDebugging](SelfDebugging.md) — verified compilation means debugging can focus on source-level issues
 
 ## Key Verified Compilers
 
@@ -36,7 +36,7 @@ Compiler Verification is the application of formal verification techniques to pr
 | Isabelle/Refinement | Various | Isabelle | Research |
 
 ## See Also
-- [[FormalVerification]]
-- [[ProofAssistant]]
-- [[Coq]]
-- [[Lean]]
+- [FormalVerification](FormalVerification.md)
+- [ProofAssistant](ProofAssistant.md)
+- [Coq](Coq.md)
+- [Lean](Lean.md)

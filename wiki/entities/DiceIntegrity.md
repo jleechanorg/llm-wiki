@@ -16,5 +16,5 @@ Anti-fabrication system that enforces LLM never fabricates dice roll results. LL
 5. Warns on fabrication — never hard-blocks
 
 ## Connections
-- [[WorldArchitectAI]] — uses this system
+- [WorldArchitectAI](WorldArchitectAI.md) — uses this system
 - [[WorldArchitect System Architecture v3.0]] — §4.4

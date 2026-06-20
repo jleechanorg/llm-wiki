@@ -16,5 +16,5 @@ Pydantic is a Python data validation library using Python type annotations to de
 - **Range Clamping**: Numeric values clamped to min/max bounds
 
 ## Related Concepts
-- [[DefensiveNumericConverter]] — handles unknown value conversion
+- [DefensiveNumericConverter](DefensiveNumericConverter.md) — handles unknown value conversion
 - [[EntitySchemas]] — concrete entity models using Pydantic

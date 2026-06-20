@@ -10,13 +10,13 @@ total_scenes: 1065
 
 ## Overview
 
-** Ashford Meadow - Main Gate appears in 4 scenes across the [[visenya-v1-dunk-and-egg]] campaign.
+** Ashford Meadow - Main Gate appears in 4 scenes across the [visenya-v1-dunk-and-egg](../sources/visenya-v1-dunk-and-egg.md) campaign.
 
 ## Description
 
 ** Ashford Meadow - Main Gate is an entity from the visenya-v1-dunk-and-egg campaign.
 
 ## References
-- [[visenya-v1-dunk-and-egg]] — campaign overview
-- [[visenya-v1-dunk-and-egg-campaign]]
+- [visenya-v1-dunk-and-egg](../sources/visenya-v1-dunk-and-egg.md) — campaign overview
+- [visenya-v1-dunk-and-egg-campaign](../sources/visenya-v1-dunk-and-egg-campaign.md)
 

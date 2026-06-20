@@ -10,13 +10,13 @@ total_scenes: 606
 
 ## Overview
 
-** The Basalt Throne, Avernus appears in 6 scenes across the [[faction-nocturne-bg3-v3]] campaign.
+** The Basalt Throne, Avernus appears in 6 scenes across the [faction-nocturne-bg3-v3](../sources/faction-nocturne-bg3-v3.md) campaign.
 
 ## Description
 
 ** The Basalt Throne, Avernus is an entity from the faction-nocturne-bg3-v3 campaign.
 
 ## References
-- [[faction-nocturne-bg3-v3]] — campaign overview
-- [[faction-nocturne-bg3-v3-campaign]]
+- [faction-nocturne-bg3-v3](../sources/faction-nocturne-bg3-v3.md) — campaign overview
+- [faction-nocturne-bg3-v3-campaign](../sources/faction-nocturne-bg3-v3-campaign.md)
 

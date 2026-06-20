@@ -10,13 +10,13 @@ total_scenes: 363
 
 ## Overview
 
-** Aeterna: Tier 5 Sovereign Seat appears in 23 scenes across the [[alexiel-assiah-v2]] campaign.
+** Aeterna: Tier 5 Sovereign Seat appears in 23 scenes across the [alexiel-assiah-v2](../sources/alexiel-assiah-v2.md) campaign.
 
 ## Description
 
 ** Aeterna: Tier 5 Sovereign Seat is an entity from the alexiel-assiah-v2 campaign.
 
 ## References
-- [[alexiel-assiah-v2]] — campaign overview
-- [[alexiel-assiah-v2-campaign]]
+- [alexiel-assiah-v2](../sources/alexiel-assiah-v2.md) — campaign overview
+- [alexiel-assiah-v2-campaign](../sources/alexiel-assiah-v2-campaign.md)
 

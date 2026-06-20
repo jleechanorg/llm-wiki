@@ -11,13 +11,13 @@ Gwent Manor is the estate of the Gwent family in Baldur's Gate Upper City. Horgu
 
 ## Key Details
 - **Category:** Location
-- **Campaign(s):** [[nocturne-bg3-v4]], [[nocturne-bg3-v5-fixed-v2]]
+- **Campaign(s):** [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md), [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md)
 - **Setting:** Baldur's Gate Upper City
 
 ## Connections
-- [[HorgusGwent]] — owner/resident
-- [[CassalanterFamily]] — business associates
-- [[GralhundVilla]] — nearby noble estate
+- [HorgusGwent](HorgusGwent.md) — owner/resident
+- [CassalanterFamily](CassalanterFamily.md) — business associates
+- [GralhundVilla](GralhundVilla.md) — nearby noble estate
 
 ## Appearances
-- [[nocturne-bg3-v4]] — referenced as Horgus's home
+- [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md) — referenced as Horgus's home

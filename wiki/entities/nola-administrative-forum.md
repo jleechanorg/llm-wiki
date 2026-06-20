@@ -10,13 +10,13 @@ total_scenes: 162
 
 ## Overview
 
-** Nola - Administrative Forum appears in 5 scenes across the [[gaia-julia-v4]] campaign.
+** Nola - Administrative Forum appears in 5 scenes across the [gaia-julia-v4](../sources/gaia-julia-v4.md) campaign.
 
 ## Description
 
 ** Nola - Administrative Forum is an entity from the gaia-julia-v4 campaign.
 
 ## References
-- [[gaia-julia-v4]] — campaign overview
-- [[gaia-julia-v4-campaign]]
+- [gaia-julia-v4](../sources/gaia-julia-v4.md) — campaign overview
+- [gaia-julia-v4-campaign](../sources/gaia-julia-v4-campaign.md)
 

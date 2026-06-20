@@ -20,6 +20,6 @@ Visibility Rule defines what players can and cannot see in WorldArchitect.AI. Pl
 **Consequence**: XP awards and level-ups MUST be stated explicitly in narrative text, not just recorded in state
 
 **Related Concepts**:
-- [[LevelProgression]] — XP in narrative requirement
-- [[GameStateManagement]] — state update format
-- [[SessionHeader]] — visible status information
+- [LevelProgression](LevelProgression.md) — XP in narrative requirement
+- [GameStateManagement](GameStateManagement.md) — state update format
+- [SessionHeader](SessionHeader.md) — visible status information

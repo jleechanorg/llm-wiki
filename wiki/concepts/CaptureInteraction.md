@@ -22,5 +22,5 @@ with capture_manager.capture_interaction("firestore", "get", {"collection": "use
 ```
 
 ## Related
-- [[RecordResponse]] — companion method for capturing response data
-- [[DataSanitization]] — automatic credential redaction
+- [RecordResponse](RecordResponse.md) — companion method for capturing response data
+- [DataSanitization](DataSanitization.md) — automatic credential redaction

@@ -19,7 +19,7 @@ Anthropic-compatible gateway, not OpenAI, so the mem0 openai embedder rejected i
 and fact-extraction/embedding silently failed. Compounding it, the intended override
 in `~/.hermes/config.yaml` never applied because the loader parsed YAML with
 `json.loads()` and swallowed the resulting exception — a silent no-op. See
-[[mem0-embedder-wafer-ollama-2026-06-06]].
+[mem0-embedder-wafer-ollama-2026-06-06](../sources/mem0-embedder-wafer-ollama-2026-06-06.md).
 
 Rules:
 - Never store a provider-A token in a provider-B env var. Validate the token *prefix*

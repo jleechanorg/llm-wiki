@@ -10,13 +10,13 @@ total_scenes: 145
 
 ## Overview
 
-** Toriel's Home - Bedroom appears in 9 scenes across the [[undertale]] campaign.
+** Toriel's Home - Bedroom appears in 9 scenes across the [undertale](../sources/undertale.md) campaign.
 
 ## Description
 
 ** Toriel's Home - Bedroom is an entity from the undertale campaign.
 
 ## References
-- [[undertale]] — campaign overview
-- [[undertale-campaign]]
+- [undertale](../sources/undertale.md) — campaign overview
+- [undertale-campaign](../sources/undertale-campaign.md)
 

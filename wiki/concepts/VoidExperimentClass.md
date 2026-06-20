@@ -11,7 +11,7 @@ The Void Experiment is the narrative framework of Itachi Evil Campaign 2, where 
 
 ## Key Details
 - **Category:** Campaign Framework / Character Arc
-- **Campaign(s):** [[itachi-evil-campaign-2]]
+- **Campaign(s):** [itachi-evil-campaign-2](../sources/itachi-evil-campaign-2.md)
 - **Character:** Itachi Uchiha (Age 13, Evil alignment, not secretly good)
 - **Ruleset:** Destiny (custom D&D adaptation for Naruto)
 
@@ -30,7 +30,7 @@ The Void Experiment is the narrative framework of Itachi Evil Campaign 2, where 
 > "The Uchiha clan, in Itachi's cold, calculating view, is a cancer upon the Shinobi world... He sees himself as a surgeon, performing a necessary, brutal excision for the 'greater good' — his own meticulously planned, absolute, and unyielding order."
 
 ## Connections
-- [[ItachiUchiha]] — the protagonist
-- [[UchihaMassacre]] — the foundational act of the experiment
-- [[Sharingan]] — visual prowess ability enabling the experiment
-- [[MangekyoSharingan]] — evolved form, Tsukuyomi as primary weapon
+- [ItachiUchiha](../entities/ItachiUchiha.md) — the protagonist
+- [UchihaMassacre](UchihaMassacre.md) — the foundational act of the experiment
+- [Sharingan](Sharingan.md) — visual prowess ability enabling the experiment
+- [MangekyoSharingan](MangekyoSharingan.md) — evolved form, Tsukuyomi as primary weapon

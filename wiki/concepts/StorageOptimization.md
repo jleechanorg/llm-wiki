@@ -23,6 +23,6 @@ The debug_info trimming initiative demonstrates storage optimization by:
 - Enables accurate debugging without storing massive raw payloads
 
 ## Related Concepts
-- [[DebugInfo]] — the specific field being optimized
+- [DebugInfo](DebugInfo.md) — the specific field being optimized
 - [[LoggingBestPractices]] — conditional truncation patterns
 - [[CostOptimization]] — broader category of resource reduction

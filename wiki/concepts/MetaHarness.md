@@ -22,7 +22,7 @@ Meta-Harness is an outer-loop system that searches over harness code for LLM app
 
 ## Connections
 
-- [[HarnessEngineering]] — the practice of refining code around an LLM that Meta-Harness automates
-- [[AgenticProposer]] — the coding agent that searches the harness code space
-- [[FilesystemHistory]] — the full history storage pattern enabling selective diagnosis
-- [[OuterLoopOptimization]] — the outer-loop vs inner-loop distinction that defines what Meta-Harness optimizes
+- [HarnessEngineering](HarnessEngineering.md) — the practice of refining code around an LLM that Meta-Harness automates
+- [AgenticProposer](AgenticProposer.md) — the coding agent that searches the harness code space
+- [FilesystemHistory](FilesystemHistory.md) — the full history storage pattern enabling selective diagnosis
+- [OuterLoopOptimization](OuterLoopOptimization.md) — the outer-loop vs inner-loop distinction that defines what Meta-Harness optimizes

@@ -16,7 +16,7 @@ A technique for retrieving large sets of campaign data in manageable chunks usin
 - **Total Count Optimization**: Calculates total_count only on first page
 
 ## Related Concepts
-- [[CursorBasedPagination]] — technical implementation
+- [CursorBasedPagination](CursorBasedPagination.md) — technical implementation
 - [[FirestoreQueryOptimization]] — backend efficiency patterns
 
 ## Used In

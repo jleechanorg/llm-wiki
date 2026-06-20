@@ -3,7 +3,7 @@ title: "Generator Evaluator Separation"
 type: concept
 tags: [generator, evaluator, harness, quality-gate, GAN]
 date: 2026-03-24
-source: [[anthropic-harness-design-long-running-apps]]
+source: [anthropic-harness-design-long-running-apps](../sources/anthropic-harness-design-long-running-apps.md)
 ---
 
 ## Definition
@@ -25,7 +25,7 @@ A generator/evaluator split produces skeptical external feedback. The evaluator 
 4. Generator and Evaluator are separate agent sessions
 
 ## Connections
-- [[Harness5LayerModel]] — L4 verification layer
-- [[CanonicalCodeScorer]] — the Evaluator's scoring engine
-- [[SelfCritiqueVerificationLoop]] — Evaluator's inner iteration loop
+- [Harness5LayerModel](Harness5LayerModel.md) — L4 verification layer
+- [CanonicalCodeScorer](CanonicalCodeScorer.md) — the Evaluator's scoring engine
+- [SelfCritiqueVerificationLoop](SelfCritiqueVerificationLoop.md) — Evaluator's inner iteration loop
 - [[DualVerdict]] — EVIDENCE + QUALITY dual verdict architecture

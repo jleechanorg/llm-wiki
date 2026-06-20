@@ -10,13 +10,13 @@ total_scenes: 54
 
 ## Overview
 
-** Baldur's Gate, Sorcerous Sundries appears in 4 scenes across the [[bg1-nocturne-continued]] campaign.
+** Baldur's Gate, Sorcerous Sundries appears in 4 scenes across the [bg1-nocturne-continued](../sources/bg1-nocturne-continued.md) campaign.
 
 ## Description
 
 ** Baldur's Gate, Sorcerous Sundries is an entity from the bg1-nocturne-continued campaign.
 
 ## References
-- [[bg1-nocturne-continued]] — campaign overview
-- [[bg1-nocturne-continued-campaign]]
+- [bg1-nocturne-continued](../sources/bg1-nocturne-continued.md) — campaign overview
+- [bg1-nocturne-continued-campaign](../sources/bg1-nocturne-continued-campaign.md)
 

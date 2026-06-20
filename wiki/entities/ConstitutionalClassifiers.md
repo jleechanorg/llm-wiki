@@ -18,10 +18,10 @@ Constitutional Classifiers is Anthropic's production deployment of Constitutiona
 
 ## Connections
 
-- [[ConstitutionalAI]] — Constitutional Classifiers is the production deployment of Constitutional AI
-- [[AnthropicAlignment]] — part of Anthropic's alignment research
-- [[GovernanceLayer]] — principle-based output filtering could inform governance constraint enforcement
+- [ConstitutionalAI](ConstitutionalAI.md) — Constitutional Classifiers is the production deployment of Constitutional AI
+- [AnthropicAlignment](AnthropicAlignment.md) — part of Anthropic's alignment research
+- [GovernanceLayer](../concepts/GovernanceLayer.md) — principle-based output filtering could inform governance constraint enforcement
 
 ## See Also
-- [[ConstitutionalAI]]
-- [[AnthropicAlignment]]
+- [ConstitutionalAI](ConstitutionalAI.md)
+- [AnthropicAlignment](AnthropicAlignment.md)

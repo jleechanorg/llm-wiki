@@ -10,13 +10,13 @@ total_scenes: 685
 
 ## Overview
 
-** The Foundry - Server Heart appears in 25 scenes across the [[sariel-killer]] campaign.
+** The Foundry - Server Heart appears in 25 scenes across the [sariel-killer](../sources/sariel-killer.md) campaign.
 
 ## Description
 
 ** The Foundry - Server Heart is an entity from the sariel-killer campaign.
 
 ## References
-- [[sariel-killer]] — campaign overview
-- [[sariel-killer-campaign]]
+- [sariel-killer](../sources/sariel-killer.md) — campaign overview
+- [sariel-killer-campaign](../sources/sariel-killer-campaign.md)
 

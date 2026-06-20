@@ -11,14 +11,14 @@ Malcanthet is the Queen of Succubi and demoness of the Abyss. In the Nocturne V5
 
 ## Key Details
 - **Category:** Person / Demon Lord
-- **Campaign(s):** [[nocturne-bg3-v5-succubus]], [[nocturne-bg3-v5-succubus-copy]], [[nocturne-bg3-v5-fixed-v2]]
+- **Campaign(s):** [nocturne-bg3-v5-succubus](../sources/nocturne-bg3-v5-succubus.md), [nocturne-bg3-v5-succubus-copy](../sources/nocturne-bg3-v5-succubus-copy.md), [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md)
 - **Title:** Queen of Succubi
 
 ## Connections
-- [[NocturneSosuke]] — her patron (after Zariel)
-- [[MalcanthetsCourt]] — her demonic court
-- [[MalcanthetsDomain]] — her realm in the Abyss
+- [NocturneSosuke](NocturneSosuke.md) — her patron (after Zariel)
+- [MalcanthetsCourt](MalcanthetsCourt.md) — her demonic court
+- [MalcanthetsDomain](MalcanthetsDomain.md) — her realm in the Abyss
 - [[Zariel]] — predecessor as patron
 
 ## Appearances
-- [[nocturne-bg3-v5-succubus]] — patron in succubus variant
+- [nocturne-bg3-v5-succubus](../sources/nocturne-bg3-v5-succubus.md) — patron in succubus variant

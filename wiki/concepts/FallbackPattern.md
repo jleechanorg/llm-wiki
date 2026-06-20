@@ -15,4 +15,4 @@ Software design pattern where a secondary value is used when the primary value i
 
 ## Related
 - [[Centralized Model Selection]] — uses this pattern
-- [[DEFAULT_MODEL]] — fallback value
+- [DEFAULT_MODEL](../entities/DEFAULT_MODEL.md) — fallback value

@@ -12,7 +12,7 @@ total_scenes: 315
 ## Overview
 
 House Foyer
-Status appears in 8 scenes across the [[old-noctune-merc-bg3]] campaign.
+Status appears in 8 scenes across the [old-noctune-merc-bg3](../sources/old-noctune-merc-bg3.md) campaign.
 
 ## Description
 
@@ -20,6 +20,6 @@ House Foyer
 Status is an entity from the old-noctune-merc-bg3 campaign.
 
 ## References
-- [[old-noctune-merc-bg3]] — campaign overview
+- [old-noctune-merc-bg3](../sources/old-noctune-merc-bg3.md) — campaign overview
 - [[old-noctune-merc-bg3-campaign]]
 

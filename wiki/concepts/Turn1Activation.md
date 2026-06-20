@@ -18,6 +18,6 @@ E2E tests validate that CharacterCreationAgent activates on Turn 1 even when:
 2. God Mode includes minimal character data (just name and setting)
 
 ## See Also
-- [[CharacterCreationAgent]]
-- [[GodMode]]
-- [[CampaignCreation]]
+- [CharacterCreationAgent](../entities/CharacterCreationAgent.md)
+- [GodMode](GodMode.md)
+- [CampaignCreation](CampaignCreation.md)

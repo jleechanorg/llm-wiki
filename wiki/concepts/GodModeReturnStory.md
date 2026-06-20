@@ -18,8 +18,8 @@ Mandatory choice in every God mode planning block that allows players to exit Go
 When selected, transitions the game from God mode back to story/character mode.
 
 ## Related Concepts
-- [[ChoiceIdPrefix]] — Naming requirement
-- [[PlanningBlock]] — Container structure
+- [ChoiceIdPrefix](ChoiceIdPrefix.md) — Naming requirement
+- [PlanningBlock](PlanningBlock.md) — Container structure
 - [[God Mode]] — Parent mode
 
 ## Source

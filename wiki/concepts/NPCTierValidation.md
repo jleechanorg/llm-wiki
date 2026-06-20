@@ -36,5 +36,5 @@ The `_validate_social_hp_challenge()` function performs these checks and logs wa
 - social_hp_max outside tier range (too high or too low)
 
 ## Related
-- [[SocialHPChallenge]] — the feature being validated
-- [[NarrativeResponse]] — schema containing the challenge
+- [SocialHPChallenge](SocialHPChallenge.md) — the feature being validated
+- [NarrativeResponse](NarrativeResponse.md) — schema containing the challenge

@@ -15,13 +15,13 @@ date: 2026-05-24
 - **Products**: Mammoth (Go pipeline runner), Smasher (Rust pipeline runner), Tracker (Go orchestration engine), dotpowers, Coven
 
 ## Connections
-- [[Mammoth]] — 2389's Go DOT-based pipeline runner
-- [[Smasher]] — 2389's Rust pipeline runner with web dashboard
-- [[Tracker]] — 2389's Go pipeline orchestration engine
-- [[AttractorPattern]] — All three 2389 implementations converge on the attractor architecture
-- [[DOTAsArtifact]] — 2389 advocates sharing pipeline .dot files as the durable artifact
+- [Mammoth](Mammoth.md) — 2389's Go DOT-based pipeline runner
+- [Smasher](Smasher.md) — 2389's Rust pipeline runner with web dashboard
+- [Tracker](Tracker.md) — 2389's Go pipeline orchestration engine
+- [AttractorPattern](../concepts/AttractorPattern.md) — All three 2389 implementations converge on the attractor architecture
+- [DOTAsArtifact](../concepts/DOTAsArtifact.md) — 2389 advocates sharing pipeline .dot files as the durable artifact
 
 ## See Also
-- [[Mammoth]]
-- [[Tracker]]
-- [[AttractorPattern]]
+- [Mammoth](Mammoth.md)
+- [Tracker](Tracker.md)
+- [AttractorPattern](../concepts/AttractorPattern.md)

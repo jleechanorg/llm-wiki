@@ -23,4 +23,4 @@ def test_something(service_provider):
 
 ## Related
 - [[Pytest Integration]] — pytest-specific fixture system
-- [[TestServiceProvider]] — underlying abstraction
+- [TestServiceProvider](TestServiceProvider.md) — underlying abstraction

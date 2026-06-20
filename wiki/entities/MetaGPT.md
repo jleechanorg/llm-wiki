@@ -19,11 +19,11 @@ MetaGPT is a meta-programming framework (Hong et al., 2023) that encodes Standar
 
 ## Connections
 
-- [[MultiAgentOrchestration]] — MetaGPT is a multi-agent framework with role-based collaboration
-- [[SOPEncoding]] — encodes Standardized Operating Procedures as agent prompts
-- [[Voyager]] — also cited in the Voyager paper; both are Minecraft agents
-- [[SelfDebugging]] — reduces hallucinations via role-based verification
+- [MultiAgentOrchestration](../concepts/MultiAgentOrchestration.md) — MetaGPT is a multi-agent framework with role-based collaboration
+- [SOPEncoding](../concepts/SOPEncoding.md) — encodes Standardized Operating Procedures as agent prompts
+- [Voyager](Voyager.md) — also cited in the Voyager paper; both are Minecraft agents
+- [SelfDebugging](../concepts/SelfDebugging.md) — reduces hallucinations via role-based verification
 
 ## See Also
-- [[MultiAgentOrchestration]]
-- [[SOPEncoding]]
+- [MultiAgentOrchestration](../concepts/MultiAgentOrchestration.md)
+- [SOPEncoding](../concepts/SOPEncoding.md)

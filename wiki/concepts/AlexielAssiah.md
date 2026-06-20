@@ -44,7 +44,7 @@ Alexiel Assiah is a high-stakes D&D 5e campaign set in the world of Assiah durin
 
 ## Connections
 
-- [[AlexielAssiah]] — player character
-- [[LuciferAssiah]] — creator/father
-- [[CelestialImperiumAssiah]] — opposing faction
-- [[UnchainedHost]] — former faction
+- [AlexielAssiah](AlexielAssiah.md) — player character
+- [LuciferAssiah](../entities/LuciferAssiah.md) — creator/father
+- [CelestialImperiumAssiah](../entities/CelestialImperiumAssiah.md) — opposing faction
+- [UnchainedHost](UnchainedHost.md) — former faction

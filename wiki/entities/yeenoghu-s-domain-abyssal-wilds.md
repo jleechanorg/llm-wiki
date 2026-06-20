@@ -10,13 +10,13 @@ total_scenes: 1207
 
 ## Overview
 
-** Yeenoghu's domain (Abyssal wilds) appears in 3 scenes across the [[nocturne-bg3-v4]] campaign.
+** Yeenoghu's domain (Abyssal wilds) appears in 3 scenes across the [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md) campaign.
 
 ## Description
 
 ** Yeenoghu's domain (Abyssal wilds) is an entity from the nocturne-bg3-v4 campaign.
 
 ## References
-- [[nocturne-bg3-v4]] — campaign overview
-- [[nocturne-bg3-v4-campaign]]
+- [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md) — campaign overview
+- [nocturne-bg3-v4-campaign](../sources/nocturne-bg3-v4-campaign.md)
 

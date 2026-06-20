@@ -13,10 +13,10 @@ Jesse Vincent coined the dorodango framing for codegen software — the Japanese
 - **Key insight**: "Software is cheap now. Specs are the expensive part."
 
 ## Connections
-- [[Dorodango]] — Vincent coined the dorodango metaphor for codegen
-- [[DOTAsArtifact]] — The dorodango concept supports DOT-as-artifact: specs are durable, code is disposable
-- [[AttractorPattern]] — Dorodango is a key mental model for the Attractor pattern
+- [Dorodango](../concepts/Dorodango.md) — Vincent coined the dorodango metaphor for codegen
+- [DOTAsArtifact](../concepts/DOTAsArtifact.md) — The dorodango concept supports DOT-as-artifact: specs are durable, code is disposable
+- [AttractorPattern](../concepts/AttractorPattern.md) — Dorodango is a key mental model for the Attractor pattern
 
 ## See Also
-- [[Dorodango]]
-- [[AttractorPattern]]
+- [Dorodango](../concepts/Dorodango.md)
+- [AttractorPattern](../concepts/AttractorPattern.md)

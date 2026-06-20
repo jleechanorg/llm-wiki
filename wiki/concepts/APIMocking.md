@@ -24,6 +24,6 @@ Testing technique that replaces real API clients with mock implementations that 
 - **Recording/Playback**: Record real responses and replay in tests
 
 ## Related Concepts
-- [[MockLLMService]] — LLM-specific API mocking
-- [[ServiceWrapper]] — wrapper pattern for dual-mode operation
-- [[DualModeTesting]] — switching between mock and real backends
+- [MockLLMService](MockLLMService.md) — LLM-specific API mocking
+- [ServiceWrapper](ServiceWrapper.md) — wrapper pattern for dual-mode operation
+- [DualModeTesting](DualModeTesting.md) — switching between mock and real backends

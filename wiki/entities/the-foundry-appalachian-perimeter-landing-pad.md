@@ -10,13 +10,13 @@ total_scenes: 685
 
 ## Overview
 
-** The Foundry (Appalachian Perimeter) - Landing Pad appears in 5 scenes across the [[sariel-killer]] campaign.
+** The Foundry (Appalachian Perimeter) - Landing Pad appears in 5 scenes across the [sariel-killer](../sources/sariel-killer.md) campaign.
 
 ## Description
 
 ** The Foundry (Appalachian Perimeter) - Landing Pad is an entity from the sariel-killer campaign.
 
 ## References
-- [[sariel-killer]] — campaign overview
-- [[sariel-killer-campaign]]
+- [sariel-killer](../sources/sariel-killer.md) — campaign overview
+- [sariel-killer-campaign](../sources/sariel-killer-campaign.md)
 

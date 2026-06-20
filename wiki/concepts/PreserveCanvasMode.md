@@ -6,7 +6,7 @@ sources: []
 last_updated: 2026-05-01
 ---
 
-A critical setting in the [[SpriteSheetPipeline]] animation_pipeline.py script. Instead of cropping/recenter each frame individually, it scales the **entire fixed video camera canvas** into each 256×256 cell.
+A critical setting in the [SpriteSheetPipeline](SpriteSheetPipeline.md) animation_pipeline.py script. Instead of cropping/recenter each frame individually, it scales the **entire fixed video camera canvas** into each 256×256 cell.
 
 ## Why It Matters
 
@@ -23,4 +23,4 @@ If the source video drifts (character not centered in some frames), fix the vide
 
 ## Related
 
-[[SpriteSheetPipeline]], [[ChromaKeyBackground]], [[Kling]]
+[SpriteSheetPipeline](SpriteSheetPipeline.md), [ChromaKeyBackground](ChromaKeyBackground.md), [Kling](../entities/Kling.md)

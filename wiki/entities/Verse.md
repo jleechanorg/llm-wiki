@@ -26,7 +26,7 @@ Verse is the subject of Nocturne's pathological need to stress-test raw talent. 
 
 ## Connections
 
-- [[Nocturne]] — The player character conducting the "Itachi Experiment"
+- [Nocturne](Nocturne.md) — The player character conducting the "Itachi Experiment"
 - [[Scarlet Chorus]] — The faction she belongs to
 - [[Edgering Ruins]] — Where she first appears
 - [[Tyranny Campaign]] — The campaign she appears in

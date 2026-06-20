@@ -30,7 +30,7 @@ Plan Quality determines the depth and accuracy of the strategic analysis output 
 Margin is signed: `roll - DC`. Positive means success, negative means failure.
 
 ## Related Concepts
-- [[DifficultyClass]] — the target the roll is compared against
-- [[IntelligenceCheck]] — one way to generate plan quality
-- [[WisdomCheck]] — alternative way to generate plan quality
-- [[ThinkMode]] — the system this operates within
+- [DifficultyClass](DifficultyClass.md) — the target the roll is compared against
+- [IntelligenceCheck](IntelligenceCheck.md) — one way to generate plan quality
+- [WisdomCheck](WisdomCheck.md) — alternative way to generate plan quality
+- [ThinkMode](ThinkMode.md) — the system this operates within

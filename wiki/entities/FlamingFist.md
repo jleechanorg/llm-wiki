@@ -17,10 +17,10 @@ The Flaming Fist is one of the major factions in the post-Absolute Baldur's Gate
 ## Connections
 
 - [[MercSoloBruteGladiusCampaign]] — Campaign
-- [[Gladius]] — Player character
-- [[CouncilOfFour]] — Competing authority
-- [[TheGuild]] — Criminal competition
-- [[BaldursGate]] — City
-- [[Nocturne]] — encountered in Iron Crisis era
-- [[bg1-nocturne-campaign]] — source campaign
-- [[bg1-nocturne-continued-campaign]] — purge list target
+- [Gladius](Gladius.md) — Player character
+- [CouncilOfFour](CouncilOfFour.md) — Competing authority
+- [TheGuild](TheGuild.md) — Criminal competition
+- [BaldursGate](BaldursGate.md) — City
+- [Nocturne](Nocturne.md) — encountered in Iron Crisis era
+- [bg1-nocturne-campaign](../sources/bg1-nocturne-campaign.md) — source campaign
+- [bg1-nocturne-continued-campaign](../sources/bg1-nocturne-continued-campaign.md) — purge list target

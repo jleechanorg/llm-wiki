@@ -10,13 +10,13 @@ total_scenes: 417
 
 ## Overview
 
-House Webber appears in 4 scenes across the [[visenya-v4]] campaign.
+House Webber appears in 4 scenes across the [visenya-v4](../sources/visenya-v4.md) campaign.
 
 ## Description
 
 House Webber is an entity from the visenya-v4 campaign.
 
 ## References
-- [[visenya-v4]] — campaign overview
+- [visenya-v4](../sources/visenya-v4.md) — campaign overview
 - [[visenya-v4-campaign]]
 

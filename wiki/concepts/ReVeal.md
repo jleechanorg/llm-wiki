@@ -50,6 +50,6 @@ rules:
 ```
 
 ## Connections
-- [[SkepticGate]] — Parent gate system
-- [[EvidencePipeline]] — Evidence collection
-- [[VideoEvidenceGate]] — Video-specific verification
+- [SkepticGate](SkepticGate.md) — Parent gate system
+- [EvidencePipeline](EvidencePipeline.md) — Evidence collection
+- [VideoEvidenceGate](VideoEvidenceGate.md) — Video-specific verification

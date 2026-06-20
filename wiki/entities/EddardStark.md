@@ -25,7 +25,7 @@ Eddard Stark (Level 12) is the Warden of the North. Known as "the Stone," his ri
 - **Weapon**: Ice (Valyrian greatsword)
 
 ## Connections
-- [[VisenyaTargaryen]] — the architect of his destruction
-- [[HouseStark]] — the house he ruled and lost
-- [[JonSnow]] — his secret son, weaponized against him
-- [[RobbStark]] — his heir, corrupted into the instrument of his death
+- [VisenyaTargaryen](VisenyaTargaryen.md) — the architect of his destruction
+- [HouseStark](HouseStark.md) — the house he ruled and lost
+- [JonSnow](JonSnow.md) — his secret son, weaponized against him
+- [RobbStark](RobbStark.md) — his heir, corrupted into the instrument of his death

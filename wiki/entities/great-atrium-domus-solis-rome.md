@@ -10,13 +10,13 @@ total_scenes: 490
 
 ## Overview
 
-** Great Atrium, Domus Solis, Rome appears in 15 scenes across the [[aurelius-julius-caesar-v1]] campaign.
+** Great Atrium, Domus Solis, Rome appears in 15 scenes across the [aurelius-julius-caesar-v1](../sources/aurelius-julius-caesar-v1.md) campaign.
 
 ## Description
 
 ** Great Atrium, Domus Solis, Rome is an entity from the aurelius-julius-caesar-v1 campaign.
 
 ## References
-- [[aurelius-julius-caesar-v1]] — campaign overview
-- [[aurelius-julius-caesar-v1-campaign]]
+- [aurelius-julius-caesar-v1](../sources/aurelius-julius-caesar-v1.md) — campaign overview
+- [aurelius-julius-caesar-v1-campaign](../sources/aurelius-julius-caesar-v1-campaign.md)
 

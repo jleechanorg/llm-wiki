@@ -10,13 +10,13 @@ total_scenes: 236
 
 ## Overview
 
-** The Cragged Peaks, Edge of Whispering Gorge appears in 3 scenes across the [[daemon-conquers]] campaign.
+** The Cragged Peaks, Edge of Whispering Gorge appears in 3 scenes across the [daemon-conquers](../sources/daemon-conquers.md) campaign.
 
 ## Description
 
 ** The Cragged Peaks, Edge of Whispering Gorge is an entity from the daemon-conquers campaign.
 
 ## References
-- [[daemon-conquers]] — campaign overview
-- [[daemon-conquers-campaign]]
+- [daemon-conquers](../sources/daemon-conquers.md) — campaign overview
+- [daemon-conquers-campaign](../sources/daemon-conquers-campaign.md)
 

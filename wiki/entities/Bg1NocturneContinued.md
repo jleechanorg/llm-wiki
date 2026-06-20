@@ -29,6 +29,6 @@ The campaign uses standard BG1 D&D 5e mechanics with the Gloom Stalker subclass 
 ## Connections
 
 - [[Bg1Nocturne]] — the main BG1 campaign this continues from
-- [[GloomStalkerRanger]] — the class archetype for this continuation
-- [[BaldursGate]] — primary setting
-- [[SevenSunsCoster]] — operational base
+- [GloomStalkerRanger](GloomStalkerRanger.md) — the class archetype for this continuation
+- [BaldursGate](BaldursGate.md) — primary setting
+- [SevenSunsCoster](SevenSunsCoster.md) — operational base

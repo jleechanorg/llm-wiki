@@ -27,5 +27,5 @@ Implements standard D&D spell slot mechanics:
 
 ## Connections
 - [[DNDSRD]] — core spellcasting rules
-- [[GameStateSchema]] — spell slot tracking in character data
+- [GameStateSchema](GameStateSchema.md) — spell slot tracking in character data
 - [[GameStateExamples]] — spell validation examples

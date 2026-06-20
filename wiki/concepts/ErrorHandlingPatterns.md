@@ -22,9 +22,9 @@ Error handling patterns are structured approaches to managing unexpected conditi
 - Distinguish between "field absent" (None) and "field invalid" (wrong type)
 
 ## Related Concepts
-- [[TypeSafety]] — preventing errors through type checking
-- [[TypeGuards]] — implementation mechanism for error prevention
-- [[APIResponseValidation]] — specific application to API responses
+- [TypeSafety](TypeSafety.md) — preventing errors through type checking
+- [TypeGuards](TypeGuards.md) — implementation mechanism for error prevention
+- [APIResponseValidation](APIResponseValidation.md) — specific application to API responses
 
 ## Sources
 - [[Type Safety Foundation Tests]] — test suite demonstrating error handling patterns

@@ -13,6 +13,6 @@ Test-Driven Development is a software development methodology where tests are wr
 The test file demonstrates TDD principles by creating comprehensive unit tests for world_logic.py before or alongside implementation, validating module structure and behavior in isolation.
 
 ## Related Concepts
-- [[UnitTesting]] — individual component testing
-- [[Mocking]] — test double creation
-- [[RedGreenTesting]] — test phase naming (Red = failing, Green = passing)
+- [UnitTesting](UnitTesting.md) — individual component testing
+- [Mocking](Mocking.md) — test double creation
+- [RedGreenTesting](RedGreenTesting.md) — test phase naming (Red = failing, Green = passing)

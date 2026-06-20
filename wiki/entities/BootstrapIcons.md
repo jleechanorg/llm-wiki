@@ -17,4 +17,4 @@ Icon library companion to Bootstrap, providing 1,400+ icons in SVG format.
 - Dice icon for brand identity
 
 ## Connections
-- [[Bootstrap]] — companion icon library
+- [Bootstrap](Bootstrap.md) — companion icon library

@@ -21,5 +21,5 @@ In the campaign creation tests, mocking is done via:
 - Can simulate error conditions
 
 ## Related
-- [[TestFixtures]] — reusable test data and helpers
+- [TestFixtures](TestFixtures.md) — reusable test data and helpers
 - [[ServiceLayerTesting]] — testing service integration points

@@ -17,5 +17,5 @@ Visual and interactive improvements to card components including hover lift anim
 
 ## Connections
 - [[EnhancedComponentsCSS]] — defines enhanced card styles
-- [[GlassMorphism]] — visual effect applied
-- [[Bootstrap]] — base card framework
+- [GlassMorphism](GlassMorphism.md) — visual effect applied
+- [Bootstrap](../entities/Bootstrap.md) — base card framework

@@ -18,5 +18,5 @@ Automatic redaction of sensitive fields in captured data. Protects credentials, 
 Recursively traverses data structure, redacting matching keys while preserving non-sensitive data.
 
 ## Related
-- [[CaptureInteraction]] — where sanitization applies
+- [CaptureInteraction](CaptureInteraction.md) — where sanitization applies
 - [[SessionPersistence]] — export with sanitized data

@@ -22,6 +22,6 @@ A testing mode that records all service interactions (API calls, responses, timi
 - Capture files named: capture_{session_id}_{timestamp}.json
 
 ## Related Concepts
-- [[MockValidation]] — comparing captures against mock responses
-- [[ServiceProviderPattern]] — factory for creating providers in different modes
-- [[IntegrationTesting]] — using captures for end-to-end test validation
+- [MockValidation](MockValidation.md) — comparing captures against mock responses
+- [ServiceProviderPattern](ServiceProviderPattern.md) — factory for creating providers in different modes
+- [IntegrationTesting](IntegrationTesting.md) — using captures for end-to-end test validation

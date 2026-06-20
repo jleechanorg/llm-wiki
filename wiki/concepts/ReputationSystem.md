@@ -19,6 +19,6 @@ CHECK before interacting with new NPCs, UPDATE after witnessed deeds.
 Private reputation beats public (direct experience > hearsay).
 
 ## Related Concepts
-- [[TrustLevel]]
-- [[NPCAutonomy]]
+- [TrustLevel](TrustLevel.md)
+- [NPCAutonomy](NPCAutonomy.md)
 - [[FactionDuties]]

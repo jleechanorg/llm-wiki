@@ -10,13 +10,13 @@ total_scenes: 396
 
 ## Overview
 
-** Archive of the Unbound - Coruscant (Great Hall) appears in 3 scenes across the [[nocturne-old-republic]] campaign.
+** Archive of the Unbound - Coruscant (Great Hall) appears in 3 scenes across the [nocturne-old-republic](../sources/nocturne-old-republic.md) campaign.
 
 ## Description
 
 ** Archive of the Unbound - Coruscant (Great Hall) is an entity from the nocturne-old-republic campaign.
 
 ## References
-- [[nocturne-old-republic]] — campaign overview
-- [[nocturne-old-republic-campaign]]
+- [nocturne-old-republic](../sources/nocturne-old-republic.md) — campaign overview
+- [nocturne-old-republic-campaign](../sources/nocturne-old-republic-campaign.md)
 

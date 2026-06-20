@@ -27,6 +27,6 @@ Patch-level apply checks only verify if a diff applies cleanly — they don't ve
 
 ## Connections
 
-- [[AO-Claim-Fail-Closed]] — AO claim verification
-- [[AO-Blocker-Matrix]] — PR blocker triage
-- [[GitHubHandles]] — GitHub handles and PR patterns
+- [AO-Claim-Fail-Closed](AO-Claim-Fail-Closed.md) — AO claim verification
+- [AO-Blocker-Matrix](AO-Blocker-Matrix.md) — PR blocker triage
+- [GitHubHandles](GitHubHandles.md) — GitHub handles and PR patterns

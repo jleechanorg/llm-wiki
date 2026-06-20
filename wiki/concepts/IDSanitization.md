@@ -10,5 +10,5 @@ last_updated: 2026-04-08
 The practice of transforming arbitrary strings into valid identifier format. Prevents injection attacks, ensures database compatibility, and maintains consistent naming conventions.
 
 ## Related Concepts
-- [[EntityNameSanitization]] — specific implementation for entity names
-- [[LlMService]] — module providing this functionality
+- [EntityNameSanitization](EntityNameSanitization.md) — specific implementation for entity names
+- [LlMService](LlMService.md) — module providing this functionality

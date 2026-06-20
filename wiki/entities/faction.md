@@ -10,13 +10,13 @@ total_scenes: 58
 
 ## Overview
 
-Faction appears in 4 scenes across the [[sariel-assiah]] campaign.
+Faction appears in 4 scenes across the [sariel-assiah](../sources/sariel-assiah.md) campaign.
 
 ## Description
 
 Faction is an entity from the sariel-assiah campaign.
 
 ## References
-- [[sariel-assiah]] — campaign overview
-- [[sariel-assiah-campaign]]
+- [sariel-assiah](../sources/sariel-assiah.md) — campaign overview
+- [sariel-assiah-campaign](../sources/sariel-assiah-campaign.md)
 

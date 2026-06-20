@@ -20,10 +20,10 @@ A Singularity is defined by:
 
 ## Examples Across Campaigns
 
-- [[NocturneSosuke]] — The original Singularity; conquered Sword Coast + Hells + Abyss in one year at age 16; Ao sealed her because she was "deleting the board"
-- [[GaiaJuliaCaesar]] — Described explicitly as a "Singularity" in her campaign bible; the daughter whose power dwarfs her siblings'
-- [[AizenSosuke]] — "A force that would either ascend to godhood or drag the entire House into the Abyss"
-- [[VisenyaBelaerys]] — The Apex Bloodline; if she shines too bright, the Architects of Silence awaken
+- [NocturneSosuke](../entities/NocturneSosuke.md) — The original Singularity; conquered Sword Coast + Hells + Abyss in one year at age 16; Ao sealed her because she was "deleting the board"
+- [GaiaJuliaCaesar](../entities/GaiaJuliaCaesar.md) — Described explicitly as a "Singularity" in her campaign bible; the daughter whose power dwarfs her siblings'
+- [AizenSosuke](../entities/AizenSosuke.md) — "A force that would either ascend to godhood or drag the entire House into the Abyss"
+- [VisenyaBelaerys](../entities/VisenyaBelaerys.md) — The Apex Bloodline; if she shines too bright, the Architects of Silence awaken
 - [[AureliusJuliusCaesar]] — "The Devouring Maw; a singularity of Appetite"
 
 ## Narrative Function
@@ -32,6 +32,6 @@ The Singularity serves as the campaign's central escalation mechanic: the PC sta
 
 ## Related Concepts
 
-- [[MaskedPowerSmurfing]] — The mechanic Singularities use to survive before they're strong enough
-- [[AscensionMeter]] — The tracker for how close a Singularity is to triggering cosmic response
+- [MaskedPowerSmurfing](MaskedPowerSmurfing.md) — The mechanic Singularities use to survive before they're strong enough
+- [AscensionMeter](AscensionMeter.md) — The tracker for how close a Singularity is to triggering cosmic response
 - [[TieredCampaignProgression]] — The 5-tier system that frames Singularity development

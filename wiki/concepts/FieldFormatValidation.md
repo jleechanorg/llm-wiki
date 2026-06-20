@@ -15,5 +15,5 @@ Testing approach ensuring consistent field formats between data producers and co
 - **Field Mismatch Symptoms**: Wrong field names result in empty/null data despite valid data existing under different field names
 
 ## Related Patterns
-- [[RedGreenTesting]] — test-first approach to validation
-- [[TranslationLayer]] — data transformation between layers
+- [RedGreenTesting](RedGreenTesting.md) — test-first approach to validation
+- [TranslationLayer](TranslationLayer.md) — data transformation between layers

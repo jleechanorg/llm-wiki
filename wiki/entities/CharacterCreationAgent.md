@@ -16,7 +16,7 @@ Modal agent responsible for character creation flow. Manages character creation 
 - **Modal priority**: Ensures only one modal is active at a time
 
 ## Connections
-- [[LevelUpAgent]] — similar modal agent pattern
-- [[CampaignUpgrade]] — third modal type
+- [LevelUpAgent](LevelUpAgent.md) — similar modal agent pattern
+- [CampaignUpgrade](CampaignUpgrade.md) — third modal type
 - [[Modal State Lifecycle Tests]] — test suite
 - [[Integration Tests for Modal State Management]] — cross-modal tests

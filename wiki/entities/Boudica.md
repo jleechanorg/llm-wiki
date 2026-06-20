@@ -53,5 +53,5 @@ Boudica draws upon ancient druidic pacts and the fury of her people, forging a p
 
 ## Connections
 - [[Boudica's Uprising Campaign]] — campaign
-- [[Iceni]] — tribe
+- [Iceni](Iceni.md) — tribe
 - [[Roman Empire]] — enemy

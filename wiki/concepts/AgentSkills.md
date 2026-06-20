@@ -21,8 +21,8 @@ Agent Skills is MongoDB's concept for externalizing agent tool configurations an
 Agent Skills externalize governance — tool permissions and constraints are not hardcoded but configured per-tenant. This directly addresses the PR #452 goal of filesystem-based editable governance.
 
 ## See Also
-- [[MongoDB]]
-- [[GovernanceLayer]]
+- [MongoDB](../entities/MongoDB.md)
+- [GovernanceLayer](GovernanceLayer.md)
 - [[PerTenantIsolation]]
 
 ## Local Skill Pattern: Bead Follow-up Templates

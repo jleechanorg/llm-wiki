@@ -23,8 +23,8 @@ The tracker creates:
 
 ## Connections
 
-- [[LukeSkywalker]] — Character
+- [LukeSkywalker](../entities/LukeSkywalker.md) — Character
 - [[LukeV2Campaign]] — Campaign
-- [[ForceUserClass]] — Class
+- [ForceUserClass](ForceUserClass.md) — Class
 - [[LightSideAdept]] — Light path
 - [[DarkSideCorruptor]] — Dark path

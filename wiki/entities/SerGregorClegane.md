@@ -21,5 +21,5 @@ Ser Gregor Clegane, known as "The Mountain," is one of the most feared men in We
 ## Connections
 
 - [[Gregor'sMountainMen]] — his mercenary company
-- [[AegonTargaryen]] — the player character being auditioned
-- [[AemonGameOfThrones]] — the campaign
+- [AegonTargaryen](AegonTargaryen.md) — the player character being auditioned
+- [AemonGameOfThrones](../concepts/AemonGameOfThrones.md) — the campaign

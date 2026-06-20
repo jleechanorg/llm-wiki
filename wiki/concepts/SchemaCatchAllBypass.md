@@ -19,6 +19,6 @@ This allows `{"garbage": true, "not_a_valid_field": "should fail"}` to pass when
 Remove catch-all branches and enforce strict type definitions for player_character_data.
 
 ## Related
-- [[REVdiq9]] — Revision fixing this vulnerability
-- [[SchemaValidation]] — System this vulnerability existed in
-- [[JSONSchemaValidation]] — The validation standard affected
+- [REVdiq9](../entities/REVdiq9.md) — Revision fixing this vulnerability
+- [SchemaValidation](SchemaValidation.md) — System this vulnerability existed in
+- [JSONSchemaValidation](JSONSchemaValidation.md) — The validation standard affected

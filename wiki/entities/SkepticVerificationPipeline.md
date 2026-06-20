@@ -50,11 +50,11 @@ Currently NO real-time monitoring of the pipeline. Detection is reactive (operat
 
 ## Related
 
-- [[jleechanorg-agent-orchestrator]] — the project
-- [[ai-agento-health-guardian]] — proposed Tier 2 watchdog
-- [[SilentFailurePathPattern]] — the cross-cutting root cause
-- [[WatchdogOfWatchdogsArchitecture]] — the architecture that bounds blindness
-- [[AgentOrchestratorDoctorShV2]] — the doctor.sh design
+- [jleechanorg-agent-orchestrator](jleechanorg-agent-orchestrator.md) — the project
+- [ai-agento-health-guardian](ai-agento-health-guardian.md) — proposed Tier 2 watchdog
+- [SilentFailurePathPattern](../concepts/SilentFailurePathPattern.md) — the cross-cutting root cause
+- [WatchdogOfWatchdogsArchitecture](../concepts/WatchdogOfWatchdogsArchitecture.md) — the architecture that bounds blindness
+- [AgentOrchestratorDoctorShV2](../concepts/AgentOrchestratorDoctorShV2.md) — the doctor.sh design
 
 ## Memory
 

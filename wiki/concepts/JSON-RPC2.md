@@ -12,4 +12,4 @@ JSON-RPC 2.0 is a stateless, lightweight remote procedure call protocol. The Wor
 - Error code propagation
 
 ## Related
-- [[MCP]]
+- [MCP](MCP.md)

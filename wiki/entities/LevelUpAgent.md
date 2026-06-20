@@ -16,4 +16,4 @@ Agent responsible for handling level-up modal flow in the game. Receives routing
 ## Connections
 - [[REV-439p]] — PR that fixed modal lock activation
 - [[REV-0g1y]] — related stale flag issue
-- [[ModalLock]] — mechanism that triggers routing to this agent
+- [ModalLock](../concepts/ModalLock.md) — mechanism that triggers routing to this agent

@@ -21,6 +21,6 @@ Tree of Thoughts (ToT) is a deliberate problem-solving framework where an agent 
 ToT-style self-evaluation is relevant to governance evidence verification — an agent can evaluate multiple pieces of evidence and select the most credible path. Also relevant to Skeptic gate's semantic evaluation.
 
 ## See Also
-- [[SelfCritique]]
-- [[SkepticGate]]
-- [[EvidenceBundles]]
+- [SelfCritique](SelfCritique.md)
+- [SkepticGate](SkepticGate.md)
+- [EvidenceBundles](EvidenceBundles.md)

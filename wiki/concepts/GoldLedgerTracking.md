@@ -20,5 +20,5 @@ Add ledger block in game state showing:
 - Net change per period
 
 ## Related Concepts
-- [[FPCalculationTransparency]] — similar transparency for FP
-- [[GameStateManagement]] — economic state
+- [FPCalculationTransparency](FPCalculationTransparency.md) — similar transparency for FP
+- [GameStateManagement](GameStateManagement.md) — economic state

@@ -10,13 +10,13 @@ total_scenes: 140
 
 ## Overview
 
-** Maegor's Holdfast, Red Keep appears in 8 scenes across the [[arthur-dayne]] campaign.
+** Maegor's Holdfast, Red Keep appears in 8 scenes across the [arthur-dayne](../sources/arthur-dayne.md) campaign.
 
 ## Description
 
 ** Maegor's Holdfast, Red Keep is an entity from the arthur-dayne campaign.
 
 ## References
-- [[arthur-dayne]] — campaign overview
-- [[arthur-dayne-campaign]]
+- [arthur-dayne](../sources/arthur-dayne.md) — campaign overview
+- [arthur-dayne-campaign](../sources/arthur-dayne-campaign.md)
 

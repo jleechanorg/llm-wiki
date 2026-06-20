@@ -10,13 +10,13 @@ total_scenes: 490
 
 ## Overview
 
-** Command Tent, Camp of Legio IX Hispana appears in 3 scenes across the [[aurelius-julius-caesar-v1]] campaign.
+** Command Tent, Camp of Legio IX Hispana appears in 3 scenes across the [aurelius-julius-caesar-v1](../sources/aurelius-julius-caesar-v1.md) campaign.
 
 ## Description
 
 ** Command Tent, Camp of Legio IX Hispana is an entity from the aurelius-julius-caesar-v1 campaign.
 
 ## References
-- [[aurelius-julius-caesar-v1]] — campaign overview
-- [[aurelius-julius-caesar-v1-campaign]]
+- [aurelius-julius-caesar-v1](../sources/aurelius-julius-caesar-v1.md) — campaign overview
+- [aurelius-julius-caesar-v1-campaign](../sources/aurelius-julius-caesar-v1-campaign.md)
 

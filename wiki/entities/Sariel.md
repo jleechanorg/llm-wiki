@@ -13,7 +13,7 @@ Sariel appears in entity instruction generation tests as a test entity used to v
 - Basic entity instruction generation with entities = ["Sariel", "Cassian"]
 - Player character entity instruction creation
 
-**Related concepts:** [[EntityInstructionGenerator]], [[EntityInstruction]]
+**Related concepts:** [EntityInstructionGenerator](EntityInstructionGenerator.md), [EntityInstruction](../concepts/EntityInstruction.md)
 
 ---
 
@@ -42,9 +42,9 @@ Sariel appears as **completely different characters** across campaigns — no sh
 
 - [[HuntingPartySarielCampaign]] — Original campaign
 - [[HuntingPartySarielV2Campaign]] — V2 campaign
-- [[BloodDragon]] — Former military identity
+- [BloodDragon](../concepts/BloodDragon.md) — Former military identity
 - [[FBI]] — Former/current employer
-- [[NeonDragonCasino]] — Current employer (v1)
-- [[Cheyenne]] — Primary location (v2)
-- [[ThePit]] — Tactical setting (v2)
-- [[GloomstalkerRanger]] — Character class
+- [NeonDragonCasino](NeonDragonCasino.md) — Current employer (v1)
+- [Cheyenne](Cheyenne.md) — Primary location (v2)
+- [ThePit](ThePit.md) — Tactical setting (v2)
+- [GloomstalkerRanger](GloomstalkerRanger.md) — Character class

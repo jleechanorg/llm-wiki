@@ -12,9 +12,9 @@ WorldAI Faction Management is the module/system within WorldArchitect.AI that ha
 ## Key Components
 - Unit upkeep calculation (soldiers, spies, elites)
 - Resource budgeting for faction activities
-- Integration with [[GameState]] for persistent faction data
+- Integration with [GameState](GameState.md) for persistent faction data
 
 ## Connections
-- Related to [[GameState]] for faction state storage
+- Related to [GameState](GameState.md) for faction state storage
 - Related to [[FactionToolDefinitions]] for LLM function calling interface
-- Used in [[ThinkMode]] for strategic planning
+- Used in [ThinkMode](../concepts/ThinkMode.md) for strategic planning

@@ -23,5 +23,5 @@ Testing pattern using service provider abstraction to switch between real and mo
 - Graceful auth failure handling
 
 ## Related
-- [[TestServiceProvider]] — interface definition
-- [[RealServiceProvider]] — implementation
+- [TestServiceProvider](TestServiceProvider.md) — interface definition
+- [RealServiceProvider](../entities/RealServiceProvider.md) — implementation

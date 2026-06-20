@@ -13,4 +13,4 @@ EntityEnforcementChecker validates that generated content includes required enti
 - Ensures player-referenced NPCs appear in output
 - Validates location owners are acknowledged in their spaces
 
-**Related concepts:** [[EntityInstructionGenerator]], [[EntityInstruction]]
+**Related concepts:** [EntityInstructionGenerator](EntityInstructionGenerator.md), [EntityInstruction](EntityInstruction.md)

@@ -26,6 +26,6 @@ Total: 2-5 seconds (50% improvement)
 ```
 
 ## Related Concepts
-- [[EntityInjection]] — Pass 2 process of injecting missing entities
-- [[LatencyOptimization]] — techniques for reducing perceived wait time
-- [[ParallelProcessing]] — concurrent execution of independent tasks
+- [EntityInjection](EntityInjection.md) — Pass 2 process of injecting missing entities
+- [LatencyOptimization](LatencyOptimization.md) — techniques for reducing perceived wait time
+- [ParallelProcessing](ParallelProcessing.md) — concurrent execution of independent tasks

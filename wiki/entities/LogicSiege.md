@@ -26,6 +26,6 @@ The primary combat system in [[Sovereign Protocol]]. Conflict between Sovereigns
 - **Failure:** Attacker loses SP (Logic Rot)
 
 ## Related
-- [[GodPower]] — Determines GP modifier
-- [[SubstratePoints]] — Expenditure and loss stakes
-- [[SubDeityPortfolios]] — War portfolio adds GP to siege
+- [GodPower](../concepts/GodPower.md) — Determines GP modifier
+- [SubstratePoints](../concepts/SubstratePoints.md) — Expenditure and loss stakes
+- [SubDeityPortfolios](../concepts/SubDeityPortfolios.md) — War portfolio adds GP to siege

@@ -10,13 +10,13 @@ total_scenes: 821
 
 ## Overview
 
-** High Hall Deep Archive appears in 16 scenes across the [[nocturne-bg3-v4-copy]] campaign.
+** High Hall Deep Archive appears in 16 scenes across the [nocturne-bg3-v4-copy](../sources/nocturne-bg3-v4-copy.md) campaign.
 
 ## Description
 
 ** High Hall Deep Archive is an entity from the nocturne-bg3-v4-copy campaign.
 
 ## References
-- [[nocturne-bg3-v4-copy]] — campaign overview
-- [[nocturne-bg3-v4-copy-campaign]]
+- [nocturne-bg3-v4-copy](../sources/nocturne-bg3-v4-copy.md) — campaign overview
+- [nocturne-bg3-v4-copy-campaign](../sources/nocturne-bg3-v4-copy-campaign.md)
 

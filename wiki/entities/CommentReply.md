@@ -10,7 +10,7 @@ last_updated: 2026-04-07
 Claude Code slash command for posting intelligent responses to PR comments. Part of the `/commentreply` system that provides systematic PR comment processing with GitHub API threading.
 
 ## Related Commands
-- [[CommentFetch]] — fetches PR comments before processing
+- [CommentFetch](CommentFetch.md) — fetches PR comments before processing
 
 ## Technical Details
 - Uses secure tempfile approach (`gh --input`) to prevent shell injection

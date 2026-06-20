@@ -12,5 +12,5 @@ Custom patch applied before Firebase initialization to handle time-ahead issues 
 ## Implementation
 Applied via `mvp_site.clock_skew_credentials.apply_clock_skew_patch()` before importing Firebase.
 
-## Connection to [[Firebase]]
+## Connection to [Firebase](Firebase.md)
 Required for reliable Firebase credential validation in certain deployment environments.

@@ -22,7 +22,7 @@ date: 2026-04-22
 |--------|------|-----------|
 | [[skeptic-gate]] | Workflow | Skeptic runs via AO worker locally, not in GHA |
 | [[lifecycle-manager]] | Core file | Source of ~500 LOC that this plugin extracts |
-| [[fork-skeptic-extension]] | Fork module | Existing fork implementation that becomes plugin internals |
+| [fork-skeptic-extension](../sources/fork-skeptic-extension.md) | Fork module | Existing fork implementation that becomes plugin internals |
 | [[agent-orchestrator-fork]] | Repo | The fork this plugin lives in |
 
 ## Connection to Upstream Integration
@@ -31,7 +31,7 @@ This plugin, when extracted, enables clean upstream import. Upstream changes to 
 
 ## See Also
 
-- [[lifecycle-ao-action-log]] — Phase 2 plugin extraction
-- [[scm-github-graphql]] — Phase 3 SCM plugin
-- [[spawn-queue]] — Phase 4 spawn plugin
-- [[fork-plugin-refactor-design]] — Full design document
+- [lifecycle-ao-action-log](lifecycle-ao-action-log.md) — Phase 2 plugin extraction
+- [scm-github-graphql](scm-github-graphql.md) — Phase 3 SCM plugin
+- [spawn-queue](spawn-queue.md) — Phase 4 spawn plugin
+- [fork-plugin-refactor-design](../sources/fork-plugin-refactor-design.md) — Full design document

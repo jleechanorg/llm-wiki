@@ -16,5 +16,5 @@ ISO 8601 parsing converts timestamp strings like "2025-03-15T10:45:30.123456Z" i
 - **Z suffix**: Indicates UTC timezone
 
 ## Related Concepts
-- [[WorldTime]] — uses ISO 8601 parsing for LLM-generated timestamps
-- [[TemporalCorrection]] — compares parsed timestamps for consistency
+- [WorldTime](WorldTime.md) — uses ISO 8601 parsing for LLM-generated timestamps
+- [TemporalCorrection](TemporalCorrection.md) — compares parsed timestamps for consistency

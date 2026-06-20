@@ -3,7 +3,7 @@ title: "Structure Drift Pattern"
 type: concept
 tags: [agent-patterns, code-quality, worldarchitect-ai, harness-l1]
 sources: []
-related_concepts: [[Harness5LayerModel]]
+related_concepts: [Harness5LayerModel](Harness5LayerModel.md)
 last_updated: 2026-04-11
 ---
 

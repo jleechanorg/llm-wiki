@@ -59,9 +59,9 @@ Frontend `app.js:924` had its own redundant gate (`xp_gained > 0`) that became w
 
 ## Connections
 
-- [[FrontendRewardsBoxGate]] — the specific frontend gate that became redundant after #6254
-- [[StreamingParity]] — the overarching theme: streaming path lacks postcondition enforcement
-- [[RewardsBoxAtomicity]] — 6 atomicity violations in rewards_box/planning_block
-- [[DiceRollDebugRegression]] — same pattern, different field
-- [[StructureDriftPattern]] — root cause of field nesting from checkpoint PR #2162
-- [[LevelUpStateManagement]] — stale flags: `level_up_in_progress`, `rewards_pending`
+- [FrontendRewardsBoxGate](../concepts/FrontendRewardsBoxGate.md) — the specific frontend gate that became redundant after #6254
+- [StreamingParity](../concepts/StreamingParity.md) — the overarching theme: streaming path lacks postcondition enforcement
+- [RewardsBoxAtomicity](../concepts/RewardsBoxAtomicity.md) — 6 atomicity violations in rewards_box/planning_block
+- [DiceRollDebugRegression](../concepts/DiceRollDebugRegression.md) — same pattern, different field
+- [StructureDriftPattern](../concepts/StructureDriftPattern.md) — root cause of field nesting from checkpoint PR #2162
+- [LevelUpStateManagement](../concepts/LevelUpStateManagement.md) — stale flags: `level_up_in_progress`, `rewards_pending`

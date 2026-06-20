@@ -18,5 +18,5 @@ Two bypass mechanisms:
 Tests set `os.environ["TESTING_AUTH_BYPASS"] = "true"` before importing app modules.
 
 ## Connections
-- [[APIEndpointTesting]] — validates auth requirements
-- [[MVPSiteMain]] — implements bypass logic
+- [APIEndpointTesting](APIEndpointTesting.md) — validates auth requirements
+- [MVPSiteMain](../entities/MVPSiteMain.md) — implements bypass logic

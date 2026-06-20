@@ -25,6 +25,6 @@ Current red/green verification state for the WorldArchitect.AI level-up bug-fix 
 
 ## Related
 
-- [[PR6339]]
-- [[RewardsEngine]]
-- [[LevelUpCodeArchitecture]]
+- [PR6339](../entities/PR6339.md)
+- [RewardsEngine](RewardsEngine.md)
+- [LevelUpCodeArchitecture](LevelUpCodeArchitecture.md)

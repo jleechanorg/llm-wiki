@@ -16,5 +16,5 @@ Permissive open-source license family that allows redistribution of source and b
 - No copyleft requirement (unlike GPL)
 
 ## Related Concepts
-- [[OpenSourceLicensing]] — umbrella concept
+- [OpenSourceLicensing](OpenSourceLicensing.md) — umbrella concept
 - [[Copyleft]] — contrast with permissive licenses

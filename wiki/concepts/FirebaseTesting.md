@@ -23,6 +23,6 @@ Testing strategies for Firebase-based applications, specifically using fake impl
 - Ensure JSON-serializable output for downstream compatibility
 
 ## Connected To
-- [[FakeFirestoreClient]] — test implementation
-- [[FakeFirebaseAuth]] — test implementation
+- [FakeFirestoreClient](../entities/FakeFirestoreClient.md) — test implementation
+- [FakeFirebaseAuth](../entities/FakeFirebaseAuth.md) — test implementation
 - [[GoogleCloudPlatform]] — underlying cloud provider

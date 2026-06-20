@@ -16,6 +16,6 @@ Recorded when dice_rolls are present in the response, even without explicit stat
 Entries are strings (not structured objects) stored in custom_campaign_state.core_memories list. Each entry captures a narrative snippet like "sprint across the deck as arrows fly."
 
 ## Related
-- [[PreventiveGuards]] records memories from dice rolls
-- [[MemoryUtils]] provides similarity detection and budget-based selection
-- [[MemoryBudgetAlignment]] ensures MAX_CORE_MEMORY_TOKENS stays within bounds
+- [PreventiveGuards](../entities/PreventiveGuards.md) records memories from dice rolls
+- [MemoryUtils](../entities/MemoryUtils.md) provides similarity detection and budget-based selection
+- [MemoryBudgetAlignment](MemoryBudgetAlignment.md) ensures MAX_CORE_MEMORY_TOKENS stays within bounds

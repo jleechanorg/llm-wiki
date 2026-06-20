@@ -10,5 +10,5 @@ last_updated: 2026-04-08
 Python library for data validation and settings management using Python type annotations. Used in WorldArchitect.AI for dynamic model generation from JSON Schema.
 
 ## Related
-- Used by: [[GameState]]
+- Used by: [GameState](GameState.md)
 - Alternative: static code generation (deprecated)

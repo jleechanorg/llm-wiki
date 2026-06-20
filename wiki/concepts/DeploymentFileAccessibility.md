@@ -15,5 +15,5 @@ The challenge of ensuring files are accessible in deployment environments where 
 - **Early Testing**: Unit tests can simulate Docker build context to catch issues before deployment
 
 ## Related
-- [[DockerBuildContext]] — where file accessibility must be validated
-- [[DeploySh]] — the mechanism that makes files accessible
+- [DockerBuildContext](DockerBuildContext.md) — where file accessibility must be validated
+- [DeploySh](../entities/DeploySh.md) — the mechanism that makes files accessible

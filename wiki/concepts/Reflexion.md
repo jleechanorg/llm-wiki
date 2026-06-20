@@ -6,7 +6,7 @@ sources: []
 last_updated: 2026-04-14
 ---
 
-Reflexion (Shinn et al., 2023) is a framework that formalizes self-critique with verbal reinforcement learning. It extends basic [[SelfCritique]] by maintaining a memory of past critique experiences, allowing the model to learn from its mistakes over multiple iterations.
+Reflexion (Shinn et al., 2023) is a framework that formalizes self-critique with verbal reinforcement learning. It extends basic [SelfCritique](SelfCritique.md) by maintaining a memory of past critique experiences, allowing the model to learn from its mistakes over multiple iterations.
 
 ## Key Properties
 - **Memory of failures**: Stores verbal reflections on past errors in a memory store
@@ -15,11 +15,11 @@ Reflexion (Shinn et al., 2023) is a framework that formalizes self-critique with
 - **State-of-the-art on code generation**: Achieves state-of-the-art results on HumanEval and MBPP when combined with code agents
 
 ## Connections
-- [[SelfCritique]] — the foundational capability Reflexion builds upon
-- [[SelfReflection]] — the meta-cognitive process of reflecting on one's own reasoning
-- [[SelfDebugging]] — Reflexion is particularly effective for self-debugging agents
-- [[ExtendedThinking]] — Reflexion can be applied within extended thinking traces
+- [SelfCritique](SelfCritique.md) — the foundational capability Reflexion builds upon
+- [SelfReflection](SelfReflection.md) — the meta-cognitive process of reflecting on one's own reasoning
+- [SelfDebugging](SelfDebugging.md) — Reflexion is particularly effective for self-debugging agents
+- [ExtendedThinking](ExtendedThinking.md) — Reflexion can be applied within extended thinking traces
 
 ## See Also
-- [[SelfCritique]]
-- [[SelfDebugging]]
+- [SelfCritique](SelfCritique.md)
+- [SelfDebugging](SelfDebugging.md)

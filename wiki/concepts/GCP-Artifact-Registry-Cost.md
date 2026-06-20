@@ -30,5 +30,5 @@ Legacy `mvp-site-app-pr-*` Cloud Run services persisted outside rotating pool cl
 
 ## Connections
 
-- [[CronJobAutomation]] — scheduled janitor automation
+- [CronJobAutomation](CronJobAutomation.md) — scheduled janitor automation
 - [[GreenGate]] — CI pipeline that builds images

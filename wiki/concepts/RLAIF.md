@@ -24,6 +24,6 @@ RLAIF-like feedback loops could inform governance rule improvement:
 - A RLAIF-inspired system could learn which constraints are too strict or too loose
 
 ## See Also
-- [[ConstitutionalAI]]
-- [[GovernanceLayer]]
-- [[AnthropicAlignment]]
+- [ConstitutionalAI](ConstitutionalAI.md)
+- [GovernanceLayer](GovernanceLayer.md)
+- [AnthropicAlignment](../entities/AnthropicAlignment.md)

@@ -29,6 +29,6 @@ Orchestrator (MAB)
 
 ## Connections
 
-- Related to [[MetaGPT]] — multi-agent role assignment
-- [[AgentMentor]] — specialized sub-agent guidance
-- [[RepoNavigator]] — single-tool vs multi-agent tradeoffs
+- Related to [MetaGPT](MetaGPT.md) — multi-agent role assignment
+- [AgentMentor](AgentMentor.md) — specialized sub-agent guidance
+- [RepoNavigator](RepoNavigator.md) — single-tool vs multi-agent tradeoffs

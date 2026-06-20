@@ -37,7 +37,7 @@ The Skeptic gate runs via AO worker with local API keys — never in GHA. Adding
 | `ao skeptic verify` | CLI that runs LLM evaluation | Local machine (has API keys) |
 | lifecycle-worker | Detects trigger comments, dispatches verify | Local machine (launchd plist) |
 
-See [[SkepticGate]] for full detail.
+See [SkepticGate](SkepticGate.md) for full detail.
 
 ## 7-Green Merge Gates
 
@@ -105,7 +105,7 @@ The fork has investigated Claude Code's context compaction behavior extensively:
 
 ## Connections
 
-- [[AgentOrchestrator]] — base system this fork extends
-- [[SkepticGate]] — 7th merge gate owned by this fork
-- [[WorldArchitectAI]] — primary target repository for dogfooding
+- [AgentOrchestrator](AgentOrchestrator.md) — base system this fork extends
+- [SkepticGate](SkepticGate.md) — 7th merge gate owned by this fork
+- [WorldArchitectAI](WorldArchitectAI.md) — primary target repository for dogfooding
 - [[BeadsTracker]] — `.beads/issues.jsonl` issue system

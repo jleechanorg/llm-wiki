@@ -25,6 +25,6 @@ PR body must contain `## Evidence` section. If absent, Evidence Gate fails.
 
 ## Connections
 
-- [[EvidenceTheater]] — workers never produce real evidence
-- [[SkepticGate]] — skeptic gate
+- [EvidenceTheater](EvidenceTheater.md) — workers never produce real evidence
+- [SkepticGate](SkepticGate.md) — skeptic gate
 - [[GreenGate]] — green gate CI

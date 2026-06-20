@@ -23,6 +23,6 @@ Guidelines and best practices for creating, maintaining, and managing project do
 - Validate all links and references
 
 ## Related Concepts
-- [[DocumentationLifecycle]]
+- [DocumentationLifecycle](DocumentationLifecycle.md)
 - [[QualityAssurance]]
-- [[FeatureDocumentationPattern]]
+- [FeatureDocumentationPattern](FeatureDocumentationPattern.md)

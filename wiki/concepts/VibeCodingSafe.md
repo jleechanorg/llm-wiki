@@ -28,6 +28,6 @@ Vibe coding = human engineers instruct LLM agents to complete coding tasks with 
 
 ## Connections
 
-- Evidence for [[AgenticMuch]] adoption concerns — 22-28% using agents but only 10.5% secure
-- [[ShadowsInTheCode]] — multi-agent security vulnerabilities
-- [[ZeroFrameworkCognition]] — safety implications
+- Evidence for [AgenticMuch](AgenticMuch.md) adoption concerns — 22-28% using agents but only 10.5% secure
+- [ShadowsInTheCode](ShadowsInTheCode.md) — multi-agent security vulnerabilities
+- [ZeroFrameworkCognition](ZeroFrameworkCognition.md) — safety implications

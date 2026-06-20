@@ -12,10 +12,10 @@ House Sosuke is the accursed noble house that recurs across multiple campaigns a
 
 ## Appears In
 
-- [[aizen-bg3]] — House Sosuke as Baldur's Gate nobility; Aizen adopted into it
+- [aizen-bg3](../sources/aizen-bg3.md) — House Sosuke as Baldur's Gate nobility; Aizen adopted into it
 - [[aizen-thay]] — House Vane (secretly Sosuke) in Bezantur, Thay; five Great Houses as rivals
 - [[nocturne-bg3]] — Nocturne as scion; House Valerius variant
-- [[aizen-godhood-continued]] — Continuation of the Sosuke bloodline's ascent
+- [aizen-godhood-continued](../sources/aizen-godhood-continued.md) — Continuation of the Sosuke bloodline's ascent
 
 ## Key Traits
 
@@ -28,5 +28,5 @@ House Sosuke is the accursed noble house that recurs across multiple campaigns a
 
 ## Relationships Across Campaigns
 
-- [[NocturneSosuke]] — The ascended ancestor; Sovereign of the Shattered Rose
-- [[AizenSosuke]] — The descendant; "Genetic Echo" carrying her potential
+- [NocturneSosuke](NocturneSosuke.md) — The ascended ancestor; Sovereign of the Shattered Rose
+- [AizenSosuke](AizenSosuke.md) — The descendant; "Genetic Echo" carrying her potential

@@ -7,14 +7,14 @@ date: 2026-05-24
 
 ## Overview
 
-Fan-out/fan-in parallel execution pattern for Attractor pipeline DOT graphs. Implemented in [[Kilroy]] and [[Smasher]]; notably absent from dark-factory, making it the only implementation without parallel execution.
+Fan-out/fan-in parallel execution pattern for Attractor pipeline DOT graphs. Implemented in [Kilroy](../entities/Kilroy.md) and [Smasher](../entities/Smasher.md); notably absent from dark-factory, making it the only implementation without parallel execution.
 
 ## DOT Shapes
 
 | Shape | Role | Used By |
 |---|---|---|
-| `component` | Fan-out — spawns parallel branches | [[Kilroy]] |
-| `tripleoctagon` | Fan-in — waits for parallel branches and joins results | [[Kilroy]] |
+| `component` | Fan-out — spawns parallel branches | [Kilroy](../entities/Kilroy.md) |
+| `tripleoctagon` | Fan-in — waits for parallel branches and joins results | [Kilroy](../entities/Kilroy.md) |
 
 Smasher uses `futures::stream::buffer_unordered` with bounded concurrency instead of explicit fan-out/fan-in shapes.
 
@@ -45,6 +45,6 @@ dark-factory's engine (`runner/engine.py`) walks a single path from `start` to `
 
 ## Connections
 
-- [[Kilroy]] — Go implementation with full fan-out/fan-in
-- [[Smasher]] — Rust implementation with bounded parallel concurrency
-- [[AttractorPattern]] — The pattern this extends
+- [Kilroy](../entities/Kilroy.md) — Go implementation with full fan-out/fan-in
+- [Smasher](../entities/Smasher.md) — Rust implementation with bounded parallel concurrency
+- [AttractorPattern](AttractorPattern.md) — The pattern this extends

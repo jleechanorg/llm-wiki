@@ -20,6 +20,6 @@ The Entropy Toll is the core class mechanic of the Apex Weaver (Bard/Mastermind 
 - **The Branding (Entry 010)**: Robb fails to kill Catelyn — the Static does not purr; this represents a partial failure of the compulsion system
 
 ## Connections
-- [[VisenyaTargaryen]] — the class that generates the Entropy Toll
-- [[ApexWeaver]] — the class with this mechanic
-- [[ObsessionParadox]] — the result of successful Entropy Toll application
+- [VisenyaTargaryen](../entities/VisenyaTargaryen.md) — the class that generates the Entropy Toll
+- [ApexWeaver](ApexWeaver.md) — the class with this mechanic
+- [ObsessionParadox](ObsessionParadox.md) — the result of successful Entropy Toll application

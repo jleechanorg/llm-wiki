@@ -20,18 +20,18 @@ Adversarial Testing is the practice of an AI model actively generating inputs de
 
 ## Connections
 
-- [[SelfDebugging]] — adversarial testing feeds into self-debugging: finding bugs is the prerequisite for fixing them
-- [[FormalVerification]] — adversarial testing finds gaps in formal specifications that verification cannot catch
-- [[VerificationLoop]] — adversarial testing is the "attack" phase within the broader verification loop
-- [[SelfCritique]] — the model's critique of its own code informs which adversarial inputs to generate
-- [[TwoStageEvidencePipeline]] — adversarial testing can be the second stage of a two-pass evidence pipeline after basic critique
-- [[HarnessEngineering]] — harnesses can implement adversarial testing as an automated stage in the pipeline
+- [SelfDebugging](SelfDebugging.md) — adversarial testing feeds into self-debugging: finding bugs is the prerequisite for fixing them
+- [FormalVerification](FormalVerification.md) — adversarial testing finds gaps in formal specifications that verification cannot catch
+- [VerificationLoop](VerificationLoop.md) — adversarial testing is the "attack" phase within the broader verification loop
+- [SelfCritique](SelfCritique.md) — the model's critique of its own code informs which adversarial inputs to generate
+- [TwoStageEvidencePipeline](TwoStageEvidencePipeline.md) — adversarial testing can be the second stage of a two-pass evidence pipeline after basic critique
+- [HarnessEngineering](HarnessEngineering.md) — harnesses can implement adversarial testing as an automated stage in the pipeline
 
 ## Relationships to Other Concepts
 
-A harness that incorporates adversarial testing as a stage would benefit from [[ReasoningBudget]] to allow the model enough compute to think deeply about which edge cases to probe. High-budget thinking enables more creative adversarial input generation.
+A harness that incorporates adversarial testing as a stage would benefit from [ReasoningBudget](ReasoningBudget.md) to allow the model enough compute to think deeply about which edge cases to probe. High-budget thinking enables more creative adversarial input generation.
 
 ## See Also
-- [[Fuzzing]]
-- [[PropertyBasedTesting]]
-- [[SWE-bench]]
+- [Fuzzing](Fuzzing.md)
+- [PropertyBasedTesting](PropertyBasedTesting.md)
+- [SWE-bench](SWE-bench.md)

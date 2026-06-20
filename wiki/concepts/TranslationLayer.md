@@ -15,4 +15,4 @@ Architecture pattern where an intermediate layer transforms data between produce
 - **Mismatch Risk**: Producer fields must match translator expectations
 
 ## Related Patterns
-- [[FieldFormatValidation]] — testing approach for translation correctness
+- [FieldFormatValidation](FieldFormatValidation.md) — testing approach for translation correctness

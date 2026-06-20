@@ -10,6 +10,6 @@ last_updated: 2026-04-08
 MCP (Model Context Protocol) API layer in WorldArchitect.AI. Handles protocol-level field translations and ensures consistency with world_logic.py field expectations.
 
 ## Connections
-- [[world_logic.py]] — business logic layer
-- [[main.py]] — API gateway
+- [world_logic.py](world_logic.py.md) — business logic layer
+- [main.py](main.py.md) — API gateway
 - [[ArchitecturalBoundaryFieldFormatValidation]] — source for field constants

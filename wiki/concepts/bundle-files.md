@@ -27,7 +27,7 @@ OPA bundle files are `.tar.gz` archives containing `.rego` policy files and `.js
 Bundle files are the deployment mechanism for policy-as-code — analogous to how the ZFC design doc specifies that prompt files are the model contract that must be deployed together with the formatter code. Separating policy (prompts) from enforcement (formatter) and versioning them as a unit is the bundle pattern.
 
 ## See Also
-- [[OPA]]
-- [[Digital-Signatures]]
+- [OPA](../entities/OPA.md)
+- [Digital-Signatures](Digital-Signatures.md)
 - [[Policy-as-Code]]
-- [[OPA-Bundle-Signing]]
+- [OPA-Bundle-Signing](OPA-Bundle-Signing.md)

@@ -28,7 +28,7 @@ System for advancing a D&D 5e character from one level to the next with mandator
 - All classes: 4, 8, 12, 16, 19
 - Fighter extra: **level 6** (not level 4)
 - Rogue extra: **level 10** (not level 8)
-- See [[LevelUpCodeArchitecture]] v3 for implementation
+- See [LevelUpCodeArchitecture](LevelUpCodeArchitecture.md) v3 for implementation
 - **Multiclass rule**: when gaining a level in any class, check **total character level** (sum of all class levels) against each class's ASI schedule independently. If two classes have an ASI at the same total level, player receives ONE ASI, not two.
 
 ## Critical Guards
@@ -37,10 +37,10 @@ System for advancing a D&D 5e character from one level to the next with mandator
 - **Overflow XP retained**: e.g., 2,900 + 400 = 3,300 → still level 3, with 400 XP toward level 4. Never discard overflow XP.
 
 ## Related Concepts
-- [[HitPoints]] — character health
-- [[ProficiencyBonus]] — level-based bonus
+- [HitPoints](HitPoints.md) — character health
+- [ProficiencyBonus](ProficiencyBonus.md) — level-based bonus
 - [[ClassFeatures]] — abilities gained from class levels
-- [[Spellcasting]] — magic progression
-- [[AbilityScoreImprovement]] — stat increases
-- [[Feat]] — optional power gains
-- [[LevelUpCodeArchitecture]] — v3: class-specific ASI levels enforced in rewards_engine._is_asi_level()
+- [Spellcasting](Spellcasting.md) — magic progression
+- [AbilityScoreImprovement](AbilityScoreImprovement.md) — stat increases
+- [Feat](Feat.md) — optional power gains
+- [LevelUpCodeArchitecture](LevelUpCodeArchitecture.md) — v3: class-specific ASI levels enforced in rewards_engine._is_asi_level()

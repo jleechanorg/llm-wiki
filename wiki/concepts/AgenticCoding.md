@@ -29,9 +29,9 @@ Agentic Coding is the practice of using AI agents to autonomously perform softwa
 
 ## Connections
 
-- [[AgenticProposer]] — the specific agentic coder used in Meta-Harness
-- [[CodingAgent]] — broader concept of agents that write code
-- [[SelfImproving]] — agentic systems that improve through feedback
-- [[MetaHarness]] — uses agentic coding to search over harness configurations
-- [[ModelRouting]] — agentic coding systems benefit from routing tasks to appropriate models based on complexity
-- [[SelfGeneratedTestGeneration]] — agentic coders can generate their own test cases as part of the verification workflow
+- [AgenticProposer](AgenticProposer.md) — the specific agentic coder used in Meta-Harness
+- [CodingAgent](CodingAgent.md) — broader concept of agents that write code
+- [SelfImproving](SelfImproving.md) — agentic systems that improve through feedback
+- [MetaHarness](MetaHarness.md) — uses agentic coding to search over harness configurations
+- [ModelRouting](ModelRouting.md) — agentic coding systems benefit from routing tasks to appropriate models based on complexity
+- [SelfGeneratedTestGeneration](SelfGeneratedTestGeneration.md) — agentic coders can generate their own test cases as part of the verification workflow

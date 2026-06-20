@@ -23,5 +23,5 @@ score = calculate_relevance_score(entity, query):
 ```
 
 ## Related Concepts
-- [[MemoryIntegration]]
+- [MemoryIntegration](MemoryIntegration.md)
 - [[Search Caching]]

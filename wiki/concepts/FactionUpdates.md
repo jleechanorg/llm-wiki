@@ -26,7 +26,7 @@ Tracking system for faction progress in the Living World. Each faction update in
 ```
 
 ## Connections
-- [[LivingWorld]] — manages faction updates
-- [[Zhentarim]] — example faction with updates
-- [[DebugEventsExport]] — exports faction updates
+- [LivingWorld](LivingWorld.md) — manages faction updates
+- [Zhentarim](../entities/Zhentarim.md) — example faction with updates
+- [DebugEventsExport](DebugEventsExport.md) — exports faction updates
 - [[ResourceTracking]] — resource change mechanics

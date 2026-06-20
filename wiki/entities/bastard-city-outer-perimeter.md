@@ -10,13 +10,13 @@ total_scenes: 291
 
 ## Overview
 
-** Bastard City - Outer Perimeter appears in 3 scenes across the [[tyranny]] campaign.
+** Bastard City - Outer Perimeter appears in 3 scenes across the [tyranny](../sources/tyranny.md) campaign.
 
 ## Description
 
 ** Bastard City - Outer Perimeter is an entity from the tyranny campaign.
 
 ## References
-- [[tyranny]] — campaign overview
-- [[tyranny-campaign]]
+- [tyranny](../sources/tyranny.md) — campaign overview
+- [tyranny-campaign](../sources/tyranny-campaign.md)
 

@@ -28,6 +28,6 @@ Gateway tools returning 404 because config used `gateway.tools.allow` instead of
 
 ## Connections
 
-- [[MCProtocol]] — MCP protocol documentation
-- [[MCPServerInstructions]] — MCP server setup
-- [[MemoryMCP]] — memory MCP server
+- [MCProtocol](MCProtocol.md) — MCP protocol documentation
+- [MCPServerInstructions](MCPServerInstructions.md) — MCP server setup
+- [MemoryMCP](MemoryMCP.md) — memory MCP server

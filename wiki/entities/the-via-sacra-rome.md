@@ -10,13 +10,13 @@ total_scenes: 490
 
 ## Overview
 
-** The Via Sacra, Rome appears in 6 scenes across the [[aurelius-julius-caesar-v1]] campaign.
+** The Via Sacra, Rome appears in 6 scenes across the [aurelius-julius-caesar-v1](../sources/aurelius-julius-caesar-v1.md) campaign.
 
 ## Description
 
 ** The Via Sacra, Rome is an entity from the aurelius-julius-caesar-v1 campaign.
 
 ## References
-- [[aurelius-julius-caesar-v1]] — campaign overview
-- [[aurelius-julius-caesar-v1-campaign]]
+- [aurelius-julius-caesar-v1](../sources/aurelius-julius-caesar-v1.md) — campaign overview
+- [aurelius-julius-caesar-v1-campaign](../sources/aurelius-julius-caesar-v1-campaign.md)
 

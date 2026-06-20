@@ -48,6 +48,6 @@ The workspace already has your prior work. DO NOT start from scratch.
 ```
 
 ## Connections
-- [[Nested-Agent-Loops]] — retry loop pattern
-- [[Compound-Loops]] — retry + restart = two recovery axes
-- [[DeterministicFeedbackLoops]] — feedback must be actionable
+- [Nested-Agent-Loops](Nested-Agent-Loops.md) — retry loop pattern
+- [Compound-Loops](Compound-Loops.md) — retry + restart = two recovery axes
+- [DeterministicFeedbackLoops](DeterministicFeedbackLoops.md) — feedback must be actionable

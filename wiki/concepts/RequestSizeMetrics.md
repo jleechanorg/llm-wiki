@@ -16,6 +16,6 @@ Metrics: characters, tokens, bytes
 ```
 
 ## Connections
-- [[GeminiProvider]] — logs these metrics
+- [GeminiProvider](../entities/GeminiProvider.md) — logs these metrics
 - [[TokenLimit]] — related to max token monitoring
 - [[RequestLogging]] — broader logging concept

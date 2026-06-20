@@ -11,14 +11,14 @@ Succubus Corruption is the mechanics framework in the V5-succubus campaigns repr
 
 ## Key Details
 - **Category:** GameMechanic
-- **Campaign(s):** [[nocturne-bg3-v5-succubus]], [[nocturne-bg3-v5-succubus-copy]]
+- **Campaign(s):** [nocturne-bg3-v5-succubus](../sources/nocturne-bg3-v5-succubus.md), [nocturne-bg3-v5-succubus-copy](../sources/nocturne-bg3-v5-succubus-copy.md)
 
 ## Related Concepts
 - [[ThrallMechanics]] — controlled followers
 - [[PheromoneSpike]] — bonus action command
 - [[AbyssalTransformation]] — progression effect
-- [[MalcanthetPatron]] — power source
+- [MalcanthetPatron](MalcanthetPatron.md) — power source
 
 ## Related Entities
-- [[NocturneSosuke]] — corrupted entity
-- [[Malcanthet]] — corrupting Patron
+- [NocturneSosuke](../entities/NocturneSosuke.md) — corrupted entity
+- [Malcanthet](../entities/Malcanthet.md) — corrupting Patron

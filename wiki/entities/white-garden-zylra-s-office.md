@@ -10,13 +10,13 @@ total_scenes: 468
 
 ## Overview
 
-** White Garden - Zylra's Office appears in 10 scenes across the [[aizen-bg3-v2]] campaign.
+** White Garden - Zylra's Office appears in 10 scenes across the [aizen-bg3-v2](../sources/aizen-bg3-v2.md) campaign.
 
 ## Description
 
 ** White Garden - Zylra's Office is an entity from the aizen-bg3-v2 campaign.
 
 ## References
-- [[aizen-bg3-v2]] — campaign overview
-- [[aizen-bg3-v2-campaign]]
+- [aizen-bg3-v2](../sources/aizen-bg3-v2.md) — campaign overview
+- [aizen-bg3-v2-campaign](../sources/aizen-bg3-v2-campaign.md)
 

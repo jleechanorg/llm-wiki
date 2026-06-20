@@ -11,15 +11,15 @@ The Absolute War Band is the military force of the Absolute, primarily composed 
 
 ## Key Details
 - **Category:** Faction
-- **Campaign(s):** [[nocturne-bg3-v6-bug-repro-test]]
+- **Campaign(s):** [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md)
 - **Commander:** Minthara
 
 ## Connections
-- [[TheAbsolute]] — parent organization
-- [[TrueSouls]] — soldiers
-- [[Minthara]] — commander
-- [[GoblinCamp]] — base
-- [[EmeraldGrove]] — target
+- [TheAbsolute](TheAbsolute.md) — parent organization
+- [TrueSouls](TrueSouls.md) — soldiers
+- [Minthara](Minthara.md) — commander
+- [GoblinCamp](GoblinCamp.md) — base
+- [EmeraldGrove](EmeraldGrove.md) — target
 
 ## Appearances
-- [[nocturne-bg3-v6-bug-repro-test]] — military assault force
+- [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md) — military assault force

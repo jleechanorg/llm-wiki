@@ -20,11 +20,11 @@ A 669-scene companion to the V5 Succubus Fixed Copy campaign, also ending at Sce
 
 ## Story
 
-See [[NocturneBg3V5SuccubusFixedCopy]] for the extended narrative arc. Fixed V1 and Fixed Copy are parallel recordings of the same campaign run; the V1 version contains the fuller terminal scene text.
+See [NocturneBg3V5SuccubusFixedCopy](NocturneBg3V5SuccubusFixedCopy.md) for the extended narrative arc. Fixed V1 and Fixed Copy are parallel recordings of the same campaign run; the V1 version contains the fuller terminal scene text.
 
 ## Connections
 
-- [[NocturneBg3V5SuccubusFixedCopy]] — parallel 669-scene campaign
-- [[MalcanthetPatron]] — demon patron (inverted)
-- [[ShatteredRose]] — sanctuary location
+- [NocturneBg3V5SuccubusFixedCopy](NocturneBg3V5SuccubusFixedCopy.md) — parallel 669-scene campaign
+- [MalcanthetPatron](../concepts/MalcanthetPatron.md) — demon patron (inverted)
+- [ShatteredRose](ShatteredRose.md) — sanctuary location
 - [[Stygia]] — terminal arc location

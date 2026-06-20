@@ -31,5 +31,5 @@ NPC agendas track the goals, progress, and milestones of non-player characters i
 - **completed_milestones**: History of achieved objectives
 
 ## Related Concepts
-- [[TimeSensitiveEvents]] — events often tied to NPC goals
+- [TimeSensitiveEvents](TimeSensitiveEvents.md) — events often tied to NPC goals
 - [[ConsequenceTriggers]] — outcomes when NPCs achieve their goals

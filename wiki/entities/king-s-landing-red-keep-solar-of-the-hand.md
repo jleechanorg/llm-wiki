@@ -10,13 +10,13 @@ total_scenes: 417
 
 ## Overview
 
-** King's Landing - Red Keep (Solar of the Hand) appears in 5 scenes across the [[visenya-v4]] campaign.
+** King's Landing - Red Keep (Solar of the Hand) appears in 5 scenes across the [visenya-v4](../sources/visenya-v4.md) campaign.
 
 ## Description
 
 ** King's Landing - Red Keep (Solar of the Hand) is an entity from the visenya-v4 campaign.
 
 ## References
-- [[visenya-v4]] — campaign overview
+- [visenya-v4](../sources/visenya-v4.md) — campaign overview
 - [[visenya-v4-campaign]]
 

@@ -10,13 +10,13 @@ total_scenes: 474
 
 ## Overview
 
-** House of Batiatus - Private Solar appears in 13 scenes across the [[rome-pax-julia]] campaign.
+** House of Batiatus - Private Solar appears in 13 scenes across the [rome-pax-julia](../sources/rome-pax-julia.md) campaign.
 
 ## Description
 
 ** House of Batiatus - Private Solar is an entity from the rome-pax-julia campaign.
 
 ## References
-- [[rome-pax-julia]] — campaign overview
-- [[rome-pax-julia-campaign]]
+- [rome-pax-julia](../sources/rome-pax-julia.md) — campaign overview
+- [rome-pax-julia-campaign](../sources/rome-pax-julia-campaign.md)
 

@@ -70,6 +70,6 @@ The MCP server for worldai connects to `ai-universe-b3551` Firestore project. Th
 
 ## Related
 
-- [[FirestoreProjectMismatch]] — MCP connects to wrong project
+- [FirestoreProjectMismatch](FirestoreProjectMismatch.md) — MCP connects to wrong project
 - [[FirebaseAdminSDK]] — Python SDK for Firebase operations
 - [[CampaignIngestion]] — Ingesting campaigns into wiki

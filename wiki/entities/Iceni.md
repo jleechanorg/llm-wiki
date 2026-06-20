@@ -22,6 +22,6 @@ The player's tribe and people. Boudica was the queen of the Iceni before and dur
 The Iceni people follow Boudica in her rebellion against Roman forces. Their lands were invaded and their royal family humiliated by Roman occupiers, sparking the uprising.
 
 ## Connections
-- [[Boudica]] — queen and leader
+- [Boudica](Boudica.md) — queen and leader
 - [[Roman Empire]] — occupying force and enemy
 - [[Boudica's Uprising Campaign]] — campaign

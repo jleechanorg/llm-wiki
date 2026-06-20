@@ -21,6 +21,6 @@ The Agentic Proposer is the coding agent within Meta-Harness responsible for sea
 
 ## Connections
 
-- [[MetaHarness]] — the system within which the agentic proposer operates
-- [[FilesystemHistory]] — the storage pattern that enables the proposer to access prior candidates
-- [[AgenticCoding]] — the broader practice of using coding agents for software development tasks
+- [MetaHarness](MetaHarness.md) — the system within which the agentic proposer operates
+- [FilesystemHistory](FilesystemHistory.md) — the storage pattern that enables the proposer to access prior candidates
+- [AgenticCoding](AgenticCoding.md) — the broader practice of using coding agents for software development tasks

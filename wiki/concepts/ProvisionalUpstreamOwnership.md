@@ -39,6 +39,6 @@ Without this rule, agents can substitute diagnosis for delivery. A production PR
 
 ## Connections
 
-- [[Harness5LayerModel]]
-- [[AutonomousAgentLoop]]
-- [[AgentDrift]]
+- [Harness5LayerModel](Harness5LayerModel.md)
+- [AutonomousAgentLoop](AutonomousAgentLoop.md)
+- [AgentDrift](AgentDrift.md)

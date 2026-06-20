@@ -10,13 +10,13 @@ total_scenes: 363
 
 ## Overview
 
-** Glimmering Vale - Caravan Site appears in 5 scenes across the [[alexiel-assiah-v2]] campaign.
+** Glimmering Vale - Caravan Site appears in 5 scenes across the [alexiel-assiah-v2](../sources/alexiel-assiah-v2.md) campaign.
 
 ## Description
 
 ** Glimmering Vale - Caravan Site is an entity from the alexiel-assiah-v2 campaign.
 
 ## References
-- [[alexiel-assiah-v2]] — campaign overview
-- [[alexiel-assiah-v2-campaign]]
+- [alexiel-assiah-v2](../sources/alexiel-assiah-v2.md) — campaign overview
+- [alexiel-assiah-v2-campaign](../sources/alexiel-assiah-v2-campaign.md)
 

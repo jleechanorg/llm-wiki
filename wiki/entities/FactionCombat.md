@@ -10,5 +10,5 @@ Module in mvp_site.faction.combat that calculates faction power. Used by the fac
 
 ## Connections
 - [[FactionToolDefinitions]] — exposed via tool definition
-- [[FactionBattleSim]] — battle calculations
-- [[SRDUnits]] — unit power values
+- [FactionBattleSim](FactionBattleSim.md) — battle calculations
+- [SRDUnits](SRDUnits.md) — unit power values

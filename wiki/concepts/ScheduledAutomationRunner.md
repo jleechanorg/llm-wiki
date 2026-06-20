@@ -27,7 +27,7 @@ Automation completion needs explicit job/session correlation plus lifecycle call
 
 ## Connections
 
-- [[CronJobAutomation]] — cron job automation patterns
-- [[AO-Claim-Fail-Closed]] — AO claim verification
-- [[AO-Blocker-Matrix]] — PR blocker triage
-- [[DaemonBootstrap]] — daemon bootstrap patterns
+- [CronJobAutomation](CronJobAutomation.md) — cron job automation patterns
+- [AO-Claim-Fail-Closed](AO-Claim-Fail-Closed.md) — AO claim verification
+- [AO-Blocker-Matrix](AO-Blocker-Matrix.md) — PR blocker triage
+- [DaemonBootstrap](DaemonBootstrap.md) — daemon bootstrap patterns

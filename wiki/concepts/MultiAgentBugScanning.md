@@ -62,6 +62,6 @@ Each bug report includes:
 - False positives are possible and require human triage
 
 ## Related Concepts
-- [[DailyBugHunt]]
-- [[AutonomousAgentLoop]]
-- [[IndependentVerification]]
+- [DailyBugHunt](DailyBugHunt.md)
+- [AutonomousAgentLoop](AutonomousAgentLoop.md)
+- [IndependentVerification](IndependentVerification.md)

@@ -11,11 +11,11 @@ Basilisk Gate is a major entrance to Baldur's Gate, connecting the city to surro
 
 ## Key Details
 - **Category:** Location
-- **Campaign(s):** [[nocturne-bg3-v4]]
+- **Campaign(s):** [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md)
 
 ## Connections
-- [[NocturneSosuke]] — potential escape route
-- [[BloomShadow]] — Upper City location connected to gate
+- [NocturneSosuke](NocturneSosuke.md) — potential escape route
+- [BloomShadow](BloomShadow.md) — Upper City location connected to gate
 
 ## Appearances
-- [[nocturne-bg3-v4]] — referenced as escape route
+- [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md) — referenced as escape route

@@ -10,13 +10,13 @@ total_scenes: 1207
 
 ## Overview
 
-** Jovar (The Sixth Heaven) appears in 7 scenes across the [[nocturne-bg3-v4]] campaign.
+** Jovar (The Sixth Heaven) appears in 7 scenes across the [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md) campaign.
 
 ## Description
 
 ** Jovar (The Sixth Heaven) is an entity from the nocturne-bg3-v4 campaign.
 
 ## References
-- [[nocturne-bg3-v4]] — campaign overview
-- [[nocturne-bg3-v4-campaign]]
+- [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md) — campaign overview
+- [nocturne-bg3-v4-campaign](../sources/nocturne-bg3-v4-campaign.md)
 

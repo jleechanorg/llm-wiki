@@ -6,11 +6,11 @@ sources: [stream-event-type]
 last_updated: 2026-04-14
 ---
 
-Part of the `mvp_site` project. Defines streaming flows and uses the `StreamEvent` type for Server-Sent Events. Must import from a separate module to avoid circular dependencies with [[LlmService]].
+Part of the `mvp_site` project. Defines streaming flows and uses the `StreamEvent` type for Server-Sent Events. Must import from a separate module to avoid circular dependencies with [LlmService](LlmService.md).
 
 **Related:**
 - [[StreamEventType]] — the shared type it imports
-- [[LlmService]] — shares StreamEvent dependency
+- [LlmService](LlmService.md) — shares StreamEvent dependency
 
 ## Streaming Passthrough Normalization Bug (jleechan-ajww)
 

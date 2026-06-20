@@ -24,9 +24,9 @@ Agent Architecture in WorldArchitect refers to the system of specialized agents 
 6. Agent integrates with LLM service for response generation
 
 ## Related Concepts
-- [[AgentSelection]] — the decision process for choosing agents
-- [[ModeDetection]] — detecting user intent from input patterns
-- [[LLMIntegration]] — service layer all agents use
+- [AgentSelection](AgentSelection.md) — the decision process for choosing agents
+- [ModeDetection](ModeDetection.md) — detecting user intent from input patterns
+- [LLMIntegration](LLMIntegration.md) — service layer all agents use
 
 ## Source References
 - [[Agent Architecture End-to-End Integration Test]] — validates full stack agent selection and behavior

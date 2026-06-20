@@ -20,6 +20,6 @@ Before removing any fallback path in `preventive_guards.py` or similar guards:
 
 ## Related
 
-- [[AdminOverrideContract]] — admin overrides that skip guards
-- [[SchemaValidation]] — strict validation patterns
-- [[ZeroFrameworkCognition]] — LLM decides, server executes; don't assume LLM compliance
+- [AdminOverrideContract](AdminOverrideContract.md) — admin overrides that skip guards
+- [SchemaValidation](SchemaValidation.md) — strict validation patterns
+- [ZeroFrameworkCognition](ZeroFrameworkCognition.md) — LLM decides, server executes; don't assume LLM compliance

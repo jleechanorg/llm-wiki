@@ -15,6 +15,6 @@ Level Progression in WorldArchitect.AI requires displaying character levels in n
 - Never skip levels in progression (Level 1 → Level 2 → Level 3)
 
 **Related Concepts**:
-- [[DeferredRewardsProtocol]] — catch missed XP/loot
-- [[VisibilityRule]] — XP in narrative, not just state
-- [[EntityIDSchema]] — character entity format
+- [DeferredRewardsProtocol](DeferredRewardsProtocol.md) — catch missed XP/loot
+- [VisibilityRule](VisibilityRule.md) — XP in narrative, not just state
+- [EntityIDSchema](EntityIDSchema.md) — character entity format

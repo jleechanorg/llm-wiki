@@ -25,8 +25,8 @@ The Gloomstalker subclass represents Sariel's identity as an operative who works
 
 ## Connections
 
-- [[Sariel]] — Character
+- [Sariel](../entities/Sariel.md) — Character
 - [[HuntingPartySarielCampaign]] — Original campaign
 - [[HuntingPartySarielV2Campaign]] — V2 campaign
 - [[Ranger]] — Base class
-- [[BloodDragon]] — Identity
+- [BloodDragon](BloodDragon.md) — Identity

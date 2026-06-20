@@ -15,5 +15,5 @@ Security trimming in logging refers to the practice of sanitizing sensitive data
 This prevents credential leakage, PII exposure, and other security vulnerabilities from logs.
 
 ## Related Patterns
-- [[DecoratorPattern]] — where trimming is applied
-- [[LoggingUtil]] — log output destination
+- [DecoratorPattern](DecoratorPattern.md) — where trimming is applied
+- [LoggingUtil](../entities/LoggingUtil.md) — log output destination

@@ -41,6 +41,6 @@ See: `sources/wafer-fix-lean-body-underestimate.md`
 
 ## Connections
 
-- [[ClaudeCodeSLO]] — Claude Code SLO and GrowthBook experiments
-- [[ClaudeCodeFSCache]] — Claude Code FSCache bug
-- [[ContextCompaction]] — existing compaction concept
+- [ClaudeCodeSLO](ClaudeCodeSLO.md) — Claude Code SLO and GrowthBook experiments
+- [ClaudeCodeFSCache](ClaudeCodeFSCache.md) — Claude Code FSCache bug
+- [ContextCompaction](ContextCompaction.md) — existing compaction concept

@@ -8,7 +8,7 @@ last_updated: 2026-04-11
 
 ## Summary
 
-The Skeptic Gate is the 7th and final merge gate in the [[AgentOrchestratorFork]] pipeline. It is an LLM-based PR verifier that independently evaluates whether a PR is ready to merge, providing a check that is orthogonal to CI, CodeRabbit, and human review. A PR must receive a `VERDICT:PASS` comment (not `SKIPPED`) for the gate to clear.
+The Skeptic Gate is the 7th and final merge gate in the [AgentOrchestratorFork](AgentOrchestratorFork.md) pipeline. It is an LLM-based PR verifier that independently evaluates whether a PR is ready to merge, providing a check that is orthogonal to CI, CodeRabbit, and human review. A PR must receive a `VERDICT:PASS` comment (not `SKIPPED`) for the gate to clear.
 
 ## What It Does
 
@@ -66,6 +66,6 @@ Skeptic is gate #7 in the 7-Green checklist. The other six are: CI green, mergea
 
 ## Connections
 
-- [[AgentOrchestratorFork]] — the system that owns Skeptic
-- [[AgentOrchestrator]] — base AO system
+- [AgentOrchestratorFork](AgentOrchestratorFork.md) — the system that owns Skeptic
+- [AgentOrchestrator](AgentOrchestrator.md) — base AO system
 - [[EvolveLoop]] — the evolve loop polls Skeptic status as part of merge readiness

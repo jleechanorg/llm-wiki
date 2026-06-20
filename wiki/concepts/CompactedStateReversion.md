@@ -44,5 +44,5 @@ def compact_json_structured(data, max_chars):
 Or: validate after truncation and provide a minimal fallback structure.
 
 ## Connections
-- [[Compaction]] — context compaction system
-- [[Context-Bloat]] — root cause: excessive context
+- [Compaction](Compaction.md) — context compaction system
+- [Context-Bloat](Context-Bloat.md) — root cause: excessive context

@@ -15,5 +15,5 @@ Software testing metric measuring the percentage of code statements executed dur
 - **Path coverage**: Which execution paths are traversed
 
 ## Related
-- [[TestingFramework]] — testing infrastructure present but not integrated
-- [[Pytest]] — test runner not executing against mvp_site
+- [TestingFramework](TestingFramework.md) — testing infrastructure present but not integrated
+- [Pytest](Pytest.md) — test runner not executing against mvp_site

@@ -71,10 +71,10 @@ git log --oneline origin/main --ancestry-path refs/pull/<N>/head..origin/main | 
 ## Agent Team
 
 - [[AgentTeam-PrRecreate]] — selector, recreator, comparer, recorder roles
-- [[SelfRefine]] — technique for recreate step
-- [[ProcessRewardModel]] — technique for recreate step
-- [[SWE-bench]] — inspiration for approach
-- [[CanonicalCodeScorer]] — scoring rubric
+- [SelfRefine](SelfRefine.md) — technique for recreate step
+- [ProcessRewardModel](ProcessRewardModel.md) — technique for recreate step
+- [SWE-bench](SWE-bench.md) — inspiration for approach
+- [CanonicalCodeScorer](CanonicalCodeScorer.md) — scoring rubric
 
 ## Status
 

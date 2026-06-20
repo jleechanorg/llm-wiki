@@ -16,15 +16,15 @@ The Healer is an automated diagnosis and fix agent in the Attractor/Dark Factory
 ## Related Systems
 | System | Type | Relevance |
 |--------|------|-----------|
-| [[CXDB]] | Database | Healer reads CXDB to identify failure clusters |
-| [[DarkFactory]] | Pattern | Healer enables lights-off autonomous operation |
-| [[StrongDM]] | Company | Built CXDB on Monday, Healer on Tuesday |
+| [CXDB](CXDB.md) | Database | Healer reads CXDB to identify failure clusters |
+| [DarkFactory](DarkFactory.md) | Pattern | Healer enables lights-off autonomous operation |
+| [StrongDM](../entities/StrongDM.md) | Company | Built CXDB on Monday, Healer on Tuesday |
 
 ## Connection to Attractor Pattern
 The Healer is what makes the dark factory viable at Level 5. Without automated failure diagnosis and fix, the human operator becomes the bottleneck reviewing agent outputs — exactly what the Attractor pattern is designed to eliminate.
 
 ## See Also
-- [[CXDB]]
-- [[AttractorPattern]]
-- [[DarkFactory]]
-- [[FiveLevelAutomation]]
+- [CXDB](CXDB.md)
+- [AttractorPattern](AttractorPattern.md)
+- [DarkFactory](DarkFactory.md)
+- [FiveLevelAutomation](FiveLevelAutomation.md)

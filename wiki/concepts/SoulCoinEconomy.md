@@ -11,14 +11,14 @@ The Soul Coin Economy is the system of soul-powered currency in Baldur's Gate, p
 
 ## Key Details
 - **Category:** GameMechanic / Economy
-- **Campaign(s):** [[nocturne-bg3-v4]], [[nocturne-bg3-v5]], [[nocturne-bg3-v5-fixed-v2]]
+- **Campaign(s):** [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md), [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md), [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md)
 
 ## Related Concepts
 - [[SoulCoin]] — the currency unit
-- [[CassalanterFamily]] — primary users
+- [CassalanterFamily](../entities/CassalanterFamily.md) — primary users
 - [[InfernalPact]] — the source of soul harvesting
 - [[Zariel]] — archdevil receiving the souls
 
 ## Related Entities
-- [[HorgusGwent]] — possesses Soul Coins
-- [[GralhundVilla]] — stores Soul Coins
+- [HorgusGwent](../entities/HorgusGwent.md) — possesses Soul Coins
+- [GralhundVilla](../entities/GralhundVilla.md) — stores Soul Coins

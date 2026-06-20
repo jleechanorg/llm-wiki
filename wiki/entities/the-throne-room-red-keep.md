@@ -10,13 +10,13 @@ total_scenes: 153
 
 ## Overview
 
-** The Throne Room, Red Keep appears in 4 scenes across the [[visenya-v6]] campaign.
+** The Throne Room, Red Keep appears in 4 scenes across the [visenya-v6](../sources/visenya-v6.md) campaign.
 
 ## Description
 
 ** The Throne Room, Red Keep is an entity from the visenya-v6 campaign.
 
 ## References
-- [[visenya-v6]] — campaign overview
-- [[visenya-v6-campaign]]
+- [visenya-v6](../sources/visenya-v6.md) — campaign overview
+- [visenya-v6-campaign](../sources/visenya-v6-campaign.md)
 

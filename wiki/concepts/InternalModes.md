@@ -30,6 +30,6 @@ Allowing users to force these modes could bypass intended game mechanics and cre
 
 ## Related
 
-- [[UserFacingModes]] — modes that CAN be explicitly requested
-- [[StoryModeAgent]] — fallback when internal modes are rejected
+- [UserFacingModes](UserFacingModes.md) — modes that CAN be explicitly requested
+- [StoryModeAgent](../entities/StoryModeAgent.md) — fallback when internal modes are rejected
 - [[get_agent_for_input]] — function that enforces mode restrictions

@@ -10,13 +10,13 @@ total_scenes: 277
 
 ## Overview
 
-** Servant Tunnels, Yunkai appears in 4 scenes across the [[visenya-v2]] campaign.
+** Servant Tunnels, Yunkai appears in 4 scenes across the [visenya-v2](../sources/visenya-v2.md) campaign.
 
 ## Description
 
 ** Servant Tunnels, Yunkai is an entity from the visenya-v2 campaign.
 
 ## References
-- [[visenya-v2]] — campaign overview
+- [visenya-v2](../sources/visenya-v2.md) — campaign overview
 - [[visenya-v2-campaign]]
 

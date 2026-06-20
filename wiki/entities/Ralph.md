@@ -6,7 +6,7 @@ sources: []
 last_updated: 2026-04-07
 ---
 
-Ralph is an orchestrator system tested in the September 2025 benchmark against [[Genesis]]. It uses background process execution with logging and required a Claude fallback due to incomplete codex adapter configuration.
+Ralph is an orchestrator system tested in the September 2025 benchmark against [Genesis](Genesis.md). It uses background process execution with logging and required a Claude fallback due to incomplete codex adapter configuration.
 
 ## Benchmark Results
 - **Project 1 (CLI File Processor)**: ❌ Failed (KeyError: 'codex')
@@ -23,5 +23,5 @@ Ralph is an orchestrator system tested in the September 2025 benchmark against [
 - Codex adapter created but not properly registered in agent mapping
 
 ## Connections
-- Compared to [[Genesis]] in benchmark
-- Uses [[Claude]] as fallback agent
+- Compared to [Genesis](Genesis.md) in benchmark
+- Uses [Claude](Claude.md) as fallback agent

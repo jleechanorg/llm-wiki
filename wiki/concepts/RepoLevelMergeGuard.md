@@ -47,5 +47,5 @@ gh api repos/{owner}/{repo}/branches/main/protection \
 
 ## Connections
 - [[MergeGate]] — Merge gate logic
-- [[SkepticGate]] — Skeptic gate system
-- [[PRRegressionResolution]] — Regression handling
+- [SkepticGate](SkepticGate.md) — Skeptic gate system
+- [PRRegressionResolution](PRRegressionResolution.md) — Regression handling

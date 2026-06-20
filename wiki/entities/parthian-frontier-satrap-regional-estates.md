@@ -10,13 +10,13 @@ total_scenes: 490
 
 ## Overview
 
-** Parthian Frontier - Satrap Regional Estates appears in 4 scenes across the [[aurelius-julius-caesar-v1]] campaign.
+** Parthian Frontier - Satrap Regional Estates appears in 4 scenes across the [aurelius-julius-caesar-v1](../sources/aurelius-julius-caesar-v1.md) campaign.
 
 ## Description
 
 ** Parthian Frontier - Satrap Regional Estates is an entity from the aurelius-julius-caesar-v1 campaign.
 
 ## References
-- [[aurelius-julius-caesar-v1]] — campaign overview
-- [[aurelius-julius-caesar-v1-campaign]]
+- [aurelius-julius-caesar-v1](../sources/aurelius-julius-caesar-v1.md) — campaign overview
+- [aurelius-julius-caesar-v1-campaign](../sources/aurelius-julius-caesar-v1-campaign.md)
 

@@ -50,6 +50,6 @@ Stop ranking techniques. Instead:
 
 ## Connections
 - [[ThompsonSamplingBandit]] — bandit that tracked technique posterior
-- [[AutorPR]] — AI-generated PRs evaluated in Phase 3/4
-- [[SelfRefine]], [[ExtendedThinking]], [[ProcessRewardModel]] — techniques studied
+- [AutorPR](AutorPR.md) — AI-generated PRs evaluated in Phase 3/4
+- [SelfRefine](SelfRefine.md), [ExtendedThinking](ExtendedThinking.md), [ProcessRewardModel](ProcessRewardModel.md) — techniques studied
 - [[Phase3HeldOutValidation]] — held-out methodology that corrected Phase 2 bias

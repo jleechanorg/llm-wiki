@@ -10,13 +10,13 @@ total_scenes: 315
 
 ## Overview
 
-** The Coiled Serpent Tavern - Safe House (Cellar) appears in 8 scenes across the [[old-noctune-merc-bg3]] campaign.
+** The Coiled Serpent Tavern - Safe House (Cellar) appears in 8 scenes across the [old-noctune-merc-bg3](../sources/old-noctune-merc-bg3.md) campaign.
 
 ## Description
 
 ** The Coiled Serpent Tavern - Safe House (Cellar) is an entity from the old-noctune-merc-bg3 campaign.
 
 ## References
-- [[old-noctune-merc-bg3]] — campaign overview
+- [old-noctune-merc-bg3](../sources/old-noctune-merc-bg3.md) — campaign overview
 - [[old-noctune-merc-bg3-campaign]]
 

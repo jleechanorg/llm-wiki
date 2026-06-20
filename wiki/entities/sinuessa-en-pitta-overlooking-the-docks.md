@@ -10,13 +10,13 @@ total_scenes: 79
 
 ## Overview
 
-** Sinuessa en Pitta - Overlooking the Docks appears in 4 scenes across the [[spartacus-tiberius]] campaign.
+** Sinuessa en Pitta - Overlooking the Docks appears in 4 scenes across the [spartacus-tiberius](../sources/spartacus-tiberius.md) campaign.
 
 ## Description
 
 ** Sinuessa en Pitta - Overlooking the Docks is an entity from the spartacus-tiberius campaign.
 
 ## References
-- [[spartacus-tiberius]] — campaign overview
-- [[spartacus-tiberius-campaign]]
+- [spartacus-tiberius](../sources/spartacus-tiberius.md) — campaign overview
+- [spartacus-tiberius-campaign](../sources/spartacus-tiberius-campaign.md)
 

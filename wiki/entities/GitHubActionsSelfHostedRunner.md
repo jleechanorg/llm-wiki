@@ -41,6 +41,6 @@ This disables osxkeychain for CI only. Interactive git (which uses the unmodifie
 unaffected.
 
 ## Connections
-- [[macOSKeychain]] — the store the credential helper fails to reach under launchd.
-- [[securityd]] — emits the SecurityAgent dialog when the helper probes the keychain.
-- [[AgentOrchestrator]] — a separate (source #1) keychain popup origin with its own symlink fix.
+- [macOSKeychain](../concepts/macOSKeychain.md) — the store the credential helper fails to reach under launchd.
+- [securityd](../concepts/securityd.md) — emits the SecurityAgent dialog when the helper probes the keychain.
+- [AgentOrchestrator](AgentOrchestrator.md) — a separate (source #1) keychain popup origin with its own symlink fix.

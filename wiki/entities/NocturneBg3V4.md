@@ -20,7 +20,7 @@ Nocturne BG3 V4 is the longest-running Nocturne campaign, spanning 1,207 scenes 
 - **Title progression:** Brothel captive → Gwent bride → Grand Duke → Archdevil of Souls → Nascent Overgod
 - **Starting stats:** STR 8, DEX 14, CON 8, INT 16, WIS 10, CHA 16
 - **Signature trait:** Siren's Leverage (+2 CHA checks vs humanoids sexually/romantically attracted to females)
-- **Campaign appearances:** [[nocturne-bg3-v4-campaign]]
+- **Campaign appearances:** [nocturne-bg3-v4-campaign](../sources/nocturne-bg3-v4-campaign.md)
 
 ## Story
 
@@ -50,10 +50,10 @@ The final arc is the Sovereign Citadel: Scene 1200 places her on the obsidian th
 
 ## Connections
 
-- [[NocturneSosuke]] — the recurring Nocturne character archetype
-- [[CassalanterFamily]] — antagonists, infernal pact-makers harvesting noble souls
-- [[HouseSosuke]] — Nocturne's destroyed noble house
-- [[HorgusGwent]] — husband and financial substrate
+- [NocturneSosuke](NocturneSosuke.md) — the recurring Nocturne character archetype
+- [CassalanterFamily](CassalanterFamily.md) — antagonists, infernal pact-makers harvesting noble souls
+- [HouseSosuke](HouseSosuke.md) — Nocturne's destroyed noble house
+- [HorgusGwent](HorgusGwent.md) — husband and financial substrate
 - [[TheBloomShadow]] — the Upper City brothel that opens the campaign
 - [[KethericThorm]] — converted to Strike Team loyalty
 - [[SovereignCitadelOfChronias]] — final campaign location

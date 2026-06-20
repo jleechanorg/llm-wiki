@@ -16,4 +16,4 @@ Architecture pattern requiring LLM responses to include structured JSON data fir
 
 **Implementation:** Prompt templates now enforce JSON planning_block field requirement.
 
-**Related:** [[PlanningBlock]], [[TestPlanningBlockJsonFirstFix]]
+**Related:** [PlanningBlock](PlanningBlock.md), [TestPlanningBlockJsonFirstFix](../entities/TestPlanningBlockJsonFirstFix.md)

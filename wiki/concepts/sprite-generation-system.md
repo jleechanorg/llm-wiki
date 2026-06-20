@@ -1,15 +1,15 @@
 # Sprite Generation System
 
 **Type:** Game Asset Generation  
-**Components:** [[spritesheet-ts]], [[sprite-generator-service]]  
+**Components:** [spritesheet-ts](../entities/spritesheet-ts.md), [sprite-generator-service](../entities/sprite-generator-service.md)  
 **Style Target:** [[ChronoTriggerStyleSpriteSheets]], [[16BitSNESStyleSpriteRendering]]
 
 ## Overview
 
 The WorldAI Claw sprite generation system is a dual-approach architecture that provides two methods for generating game sprites:
 
-1. **LLM-Based Generation** (primary) - [[sprite-generator-service]] uses Grok image API
-2. **Procedural Generation** (fallback) - [[spritesheet-ts]] creates sprites programmatically
+1. **LLM-Based Generation** (primary) - [sprite-generator-service](../entities/sprite-generator-service.md) uses Grok image API
+2. **Procedural Generation** (fallback) - [spritesheet-ts](../entities/spritesheet-ts.md) creates sprites programmatically
 
 ## Architecture
 
@@ -32,11 +32,11 @@ The WorldAI Claw sprite generation system is a dual-approach architecture that p
 
 | Scenario | Recommended System |
 |----------|-------------------|
-| Character sprites with unique designs | [[sprite-generator-service]] |
-| Environment tiles, simple objects | [[sprite-generator-service]] |
-| API unavailable / offline | [[spritesheet-ts]] |
-| Development without credentials | [[spritesheet-ts]] |
-| Quick prototyping | [[spritesheet-ts]] |
+| Character sprites with unique designs | [sprite-generator-service](../entities/sprite-generator-service.md) |
+| Environment tiles, simple objects | [sprite-generator-service](../entities/sprite-generator-service.md) |
+| API unavailable / offline | [spritesheet-ts](../entities/spritesheet-ts.md) |
+| Development without credentials | [spritesheet-ts](../entities/spritesheet-ts.md) |
+| Quick prototyping | [spritesheet-ts](../entities/spritesheet-ts.md) |
 
 ## Key Differences
 

@@ -10,5 +10,5 @@ last_updated: 2026-04-08
 Lightweight mock service provider implementation used when `_use_full_mocks` is False. Provides basic mocking capabilities for testing.
 
 ## Related
-- [[ServiceProviderFactory]]
-- [[MockServiceProvider]]
+- [ServiceProviderFactory](ServiceProviderFactory.md)
+- [MockServiceProvider](MockServiceProvider.md)

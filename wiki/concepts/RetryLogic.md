@@ -29,5 +29,5 @@ Source: PR #7074 commit `c02561c7b1`, `testing_mcp/lib/base_test.py`.
 
 ## Connections
 - [[GeminiLLMService]] — implements retry logic
-- [[PR4099]] — introduced retry logic
+- [PR4099](../entities/PR4099.md) — introduced retry logic
 - [[ErrorClassification]] — determines retry eligibility

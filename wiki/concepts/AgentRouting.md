@@ -19,4 +19,4 @@ Agent routing is the architecture pattern used in WorldArchitect where different
 
 ## Related
 - [[get_agent_for_input]]
-- [[BaseAgent]]
+- [BaseAgent](../entities/BaseAgent.md)

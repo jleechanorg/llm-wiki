@@ -21,10 +21,10 @@ date: 2026-04-22
 | System | Type | Relevance |
 |--------|------|-----------|
 | [[lifecycle-manager]] | Core file | Source of ~200 LOC logAoAction calls this plugin extracts |
-| [[lifecycle-skeptic]] | Plugin | Phase 1 companion — extract skeptic before action-log |
+| [lifecycle-skeptic](lifecycle-skeptic.md) | Plugin | Phase 1 companion — extract skeptic before action-log |
 | [[agent-orchestrator-fork]] | Repo | The fork this plugin lives in |
 
 ## See Also
 
-- [[lifecycle-skeptic]] — Phase 1 (higher priority)
-- [[fork-plugin-refactor-design]] — Full design document
+- [lifecycle-skeptic](lifecycle-skeptic.md) — Phase 1 (higher priority)
+- [fork-plugin-refactor-design](../sources/fork-plugin-refactor-design.md) — Full design document

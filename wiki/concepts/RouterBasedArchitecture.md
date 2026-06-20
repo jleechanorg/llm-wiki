@@ -21,5 +21,5 @@ Router-based architectures use a central decision component to select which agen
 Router-based architectures are relevant to governance gate enforcement — a router could evaluate whether a PR meets governance criteria and route accordingly (to merge gate, to escalation, etc.).
 
 ## See Also
-- [[AgentBench]]
-- [[GovernanceLayer]]
+- [AgentBench](AgentBench.md)
+- [GovernanceLayer](GovernanceLayer.md)

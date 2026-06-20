@@ -13,5 +13,5 @@ Process of cleaning up deprecated fields from game state data structures while m
 `_cleanup_legacy_state(state_dict)` removes deprecated fields and returns cleanup statistics.
 
 ## Related Concepts
-- [[GameState]]
+- [GameState](GameState.md)
 - [[DataMigration]]

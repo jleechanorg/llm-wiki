@@ -16,5 +16,5 @@ Gemini's code execution sandbox (used for provably-fair dice in WorldArchitect.A
 
 ## Related
 
-- [[CachedSystemInstructionTokens]] — larger lever than sandbox overhead
-- [[GeminiApiVariance]] — API variance can exceed sandbox overhead
+- [CachedSystemInstructionTokens](CachedSystemInstructionTokens.md) — larger lever than sandbox overhead
+- [GeminiApiVariance](GeminiApiVariance.md) — API variance can exceed sandbox overhead

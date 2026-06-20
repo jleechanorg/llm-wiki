@@ -31,6 +31,6 @@ The Post-Absolute setting creates:
 ## Connections
 
 - [[MercSoloBruteGladiusCampaign]] — Campaign
-- [[Gladius]] — Character
-- [[ElfsongTavern]] — Location
-- [[CouncilOfFour]] — Reform faction
+- [Gladius](../entities/Gladius.md) — Character
+- [ElfsongTavern](../entities/ElfsongTavern.md) — Location
+- [CouncilOfFour](../entities/CouncilOfFour.md) — Reform faction

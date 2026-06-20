@@ -14,4 +14,4 @@ Testing technique that validates Document Object Model changes in response to us
 - Step navigation visibility
 
 ## Application
-Used in [[CampaignWizard]] testing to verify form elements (campaign-title, campaign-prompt) are properly created, displayed, and cleaned up during state transitions.
+Used in [CampaignWizard](CampaignWizard.md) testing to verify form elements (campaign-title, campaign-prompt) are properly created, displayed, and cleaned up during state transitions.

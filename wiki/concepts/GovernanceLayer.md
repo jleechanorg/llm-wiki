@@ -51,7 +51,7 @@ A governance layer encodes what an AI system should and should not do — its pu
 2. **Event-driven reactions** — human doesn't need to manually restart
 3. **Evidence artifacts** — markdown bundles for human audit without querying JSON store
 
-See [[DarkFactory]], [[Archon]], [[jleechanorg/agent-orchestrator]], [[slack-c09grlxf9gr-archon-analysis-2026-04-15]].
+See [DarkFactory](DarkFactory.md), [Archon](../entities/Archon.md), [[jleechanorg/agent-orchestrator]], [slack-c09grlxf9gr-archon-analysis-2026-04-15](../sources/slack-c09grlxf9gr-archon-analysis-2026-04-15.md).
 =======
 A governance layer defines what an autonomous agent system should and should not do — its constraints, quality standards, and escalation paths — as explicit files consulted at runtime rather than hardcoded in application logic.
 
@@ -105,7 +105,7 @@ Optional human review available, not required:
 
 - [[PR #452/453 Governance Layer]] — PRs #452 (runtime governance) and #453 (gate enforcement)
 - [[EvolveLoop]] — the 8-phase loop that reads GOVERNANCE.md at startup
-- [[DarkFactory]] — Archon's mission.md + factory-rules.md governance pattern
-- [[Skeptic]] — existing Skeptic gate; SKIPPED treated as FAIL (bd-0cfv fix)
+- [DarkFactory](DarkFactory.md) — Archon's mission.md + factory-rules.md governance pattern
+- [Skeptic](../entities/Skeptic.md) — existing Skeptic gate; SKIPPED treated as FAIL (bd-0cfv fix)
 - [[EvidenceGate]] — existing evidence infrastructure
 >>>>>>> origin/fix/br-4bk-green-gate-design-doc-v2

@@ -14,7 +14,7 @@ The principle that game time in WorldAI campaigns always moves forward — never
 
 ### Auto-Correction Pattern
 - `validate_xp_level(strict=False)` corrects stored_level when it exceeds expected_level from XP
-- Validator **always wins** over canonicalizer in the same persistence path (see [[LevelUpBug]] chain)
+- Validator **always wins** over canonicalizer in the same persistence path (see [LevelUpBug](LevelUpBug.md) chain)
 - `_canonicalize_level_from_xp_in_place` runs first, then `validate_and_correct_state` in same path
 
 ### XP → Level Mapping (D&D 5e Official)
@@ -30,7 +30,7 @@ The principle that game time in WorldAI campaigns always moves forward — never
 
 ## Connections
 
-- [[LevelUpMechanics]] — level progression with monotonic XP thresholds
-- [[mvp-site-game-state]] — game state management with time validation
-- [[LevelUpBug]] — canonicalizer self-undo pattern affecting monotonicity
-- [[SchemaMigration]] — legacy campaign temporal integrity preservation
+- [LevelUpMechanics](LevelUpMechanics.md) — level progression with monotonic XP thresholds
+- [mvp-site-game-state](../sources/mvp-site-game-state.md) — game state management with time validation
+- [LevelUpBug](LevelUpBug.md) — canonicalizer self-undo pattern affecting monotonicity
+- [SchemaMigration](SchemaMigration.md) — legacy campaign temporal integrity preservation

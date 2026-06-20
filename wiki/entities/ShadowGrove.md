@@ -13,6 +13,6 @@ The Shadow Grove is a druidic grove in the Shadowfell,formerly the Emerald Grove
 Originally known as the Emerald Grove, the location was tied to the Rite of Thorns — a ritual that protected the natural world. Nocturne's inversion of this rite claimed the grove as her own, transforming its essence.
 
 ## Connections
-- [[NocturneBg3V7]] — Arch-Druid and owner
-- [[DivineScion]] — Source of power over the grove
-- [[RiteOfThorns]] — The ritual that was inverted
+- [NocturneBg3V7](NocturneBg3V7.md) — Arch-Druid and owner
+- [DivineScion](../concepts/DivineScion.md) — Source of power over the grove
+- [RiteOfThorns](../concepts/RiteOfThorns.md) — The ritual that was inverted

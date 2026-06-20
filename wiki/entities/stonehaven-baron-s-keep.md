@@ -10,13 +10,13 @@ total_scenes: 236
 
 ## Overview
 
-** Stonehaven, Baron's Keep appears in 3 scenes across the [[daemon-conquers]] campaign.
+** Stonehaven, Baron's Keep appears in 3 scenes across the [daemon-conquers](../sources/daemon-conquers.md) campaign.
 
 ## Description
 
 ** Stonehaven, Baron's Keep is an entity from the daemon-conquers campaign.
 
 ## References
-- [[daemon-conquers]] — campaign overview
-- [[daemon-conquers-campaign]]
+- [daemon-conquers](../sources/daemon-conquers.md) — campaign overview
+- [daemon-conquers-campaign](../sources/daemon-conquers-campaign.md)
 

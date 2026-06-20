@@ -10,13 +10,13 @@ total_scenes: 258
 
 ## Overview
 
-** Maegor's Holdfast Gardens, King's Landing appears in 10 scenes across the [[visenya-v5]] campaign.
+** Maegor's Holdfast Gardens, King's Landing appears in 10 scenes across the [visenya-v5](../sources/visenya-v5.md) campaign.
 
 ## Description
 
 ** Maegor's Holdfast Gardens, King's Landing is an entity from the visenya-v5 campaign.
 
 ## References
-- [[visenya-v5]] — campaign overview
+- [visenya-v5](../sources/visenya-v5.md) — campaign overview
 - [[visenya-v5-campaign]]
 

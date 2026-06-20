@@ -15,6 +15,6 @@ HTTP retry mechanism that automatically re-requests failed operations. Configure
 - **status_forcelist**: HTTP status codes triggering retry
 
 ## Connections
-- [[HTTPAdapter]] — implements retry logic
-- [[MCPClient]] — configures retry with max_retries=3
-- [[ConnectionPooling]] — often paired with retry for robust HTTP
+- [HTTPAdapter](../entities/HTTPAdapter.md) — implements retry logic
+- [MCPClient](../entities/MCPClient.md) — configures retry with max_retries=3
+- [ConnectionPooling](ConnectionPooling.md) — often paired with retry for robust HTTP

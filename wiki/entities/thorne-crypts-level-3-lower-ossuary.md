@@ -10,13 +10,13 @@ total_scenes: 500
 
 ## Overview
 
-** Thorne Crypts - Level 3 (Lower Ossuary) appears in 9 scenes across the [[dragon-knight-evil]] campaign.
+** Thorne Crypts - Level 3 (Lower Ossuary) appears in 9 scenes across the [dragon-knight-evil](../sources/dragon-knight-evil.md) campaign.
 
 ## Description
 
 ** Thorne Crypts - Level 3 (Lower Ossuary) is an entity from the dragon-knight-evil campaign.
 
 ## References
-- [[dragon-knight-evil]] — campaign overview
-- [[dragon-knight-evil-campaign]]
+- [dragon-knight-evil](../sources/dragon-knight-evil.md) — campaign overview
+- [dragon-knight-evil-campaign](../sources/dragon-knight-evil-campaign.md)
 

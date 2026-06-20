@@ -20,5 +20,5 @@ Used for end-to-end browser testing of the Campaign Wizard component, including 
 
 ## Connections
 - [[ChromeWebDriver]] — Chrome-specific WebDriver implementation
-- [[BrowserAutomation]] — broader testing concept
-- [[CampaignWizard]] — component being tested
+- [BrowserAutomation](../concepts/BrowserAutomation.md) — broader testing concept
+- [CampaignWizard](CampaignWizard.md) — component being tested

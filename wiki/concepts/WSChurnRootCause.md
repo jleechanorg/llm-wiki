@@ -50,5 +50,5 @@ The WebSocket ping/pong mechanism has a budget of 5000ms. If the gateway cannot 
 Even when `maxConcurrent=3` for the main gateway, subagents launched within sessions can have their own concurrency. If a subagent launches with `maxConcurrent=8`, it can saturate the gateway event loop from within — the gateway's own concurrency limit doesn't protect it from its own subprocesses' behavior.
 
 ## Related Concepts
-- [[GatewayRestartSafety]]
-- [[ConfigFirstPrinciple]]
+- [GatewayRestartSafety](GatewayRestartSafety.md)
+- [ConfigFirstPrinciple](ConfigFirstPrinciple.md)

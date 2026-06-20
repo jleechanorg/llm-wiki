@@ -10,13 +10,13 @@ total_scenes: 145
 
 ## Overview
 
-** The Ruins - Entrance Hall appears in 3 scenes across the [[undertale]] campaign.
+** The Ruins - Entrance Hall appears in 3 scenes across the [undertale](../sources/undertale.md) campaign.
 
 ## Description
 
 ** The Ruins - Entrance Hall is an entity from the undertale campaign.
 
 ## References
-- [[undertale]] — campaign overview
-- [[undertale-campaign]]
+- [undertale](../sources/undertale.md) — campaign overview
+- [undertale-campaign](../sources/undertale-campaign.md)
 

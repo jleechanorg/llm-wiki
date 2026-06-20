@@ -18,6 +18,6 @@ Enables isolated testing of Firebase Auth-dependent code without connecting to a
 - JSON-serializable user dictionaries
 
 ## Connected To
-- [[FakeFirestoreClient]] — often used together
-- [[FakeLLMClient]] — complete fake backend stack
-- [[FirebaseTesting]] — testing patterns
+- [FakeFirestoreClient](FakeFirestoreClient.md) — often used together
+- [FakeLLMClient](FakeLLMClient.md) — complete fake backend stack
+- [FirebaseTesting](../concepts/FirebaseTesting.md) — testing patterns

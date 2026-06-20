@@ -32,5 +32,5 @@ return response  # raw object, no to_dict()
 Call `response.to_dict()` in the API serialization path, or add `warnings_count` and `budget_warnings` fields directly to the API response object.
 
 ## Connections
-- [[Compaction]] — budget warnings are generated during compaction
-- [[Context-Bloat]] — budget warnings exist to detect context overflow
+- [Compaction](Compaction.md) — budget warnings are generated during compaction
+- [Context-Bloat](Context-Bloat.md) — budget warnings exist to detect context overflow

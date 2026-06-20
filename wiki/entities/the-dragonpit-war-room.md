@@ -10,13 +10,13 @@ total_scenes: 258
 
 ## Overview
 
-** The Dragonpit / War Room appears in 5 scenes across the [[visenya-v5]] campaign.
+** The Dragonpit / War Room appears in 5 scenes across the [visenya-v5](../sources/visenya-v5.md) campaign.
 
 ## Description
 
 ** The Dragonpit / War Room is an entity from the visenya-v5 campaign.
 
 ## References
-- [[visenya-v5]] — campaign overview
+- [visenya-v5](../sources/visenya-v5.md) — campaign overview
 - [[visenya-v5-campaign]]
 

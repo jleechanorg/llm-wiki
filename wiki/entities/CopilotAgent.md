@@ -20,5 +20,5 @@ AI agent used for code review and analysis in the WorldArchitect.AI project. Per
 - Root: /Users/jleechan/projects/worldarchitect.ai/.worktrees
 
 ## Related
-- [[PR1440]] — analyzed by this agent
-- [[WorldArchitect]] — project analyzed
+- [PR1440](PR1440.md) — analyzed by this agent
+- [WorldArchitect](WorldArchitect.md) — project analyzed

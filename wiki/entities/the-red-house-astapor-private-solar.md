@@ -10,13 +10,13 @@ total_scenes: 277
 
 ## Overview
 
-** The Red House, Astapor (Private Solar) appears in 7 scenes across the [[visenya-v2]] campaign.
+** The Red House, Astapor (Private Solar) appears in 7 scenes across the [visenya-v2](../sources/visenya-v2.md) campaign.
 
 ## Description
 
 ** The Red House, Astapor (Private Solar) is an entity from the visenya-v2 campaign.
 
 ## References
-- [[visenya-v2]] — campaign overview
+- [visenya-v2](../sources/visenya-v2.md) — campaign overview
 - [[visenya-v2-campaign]]
 

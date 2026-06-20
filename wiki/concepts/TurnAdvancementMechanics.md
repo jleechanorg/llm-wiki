@@ -20,5 +20,5 @@ Define in prompts:
 - Advance turn counter when all actions exhausted
 
 ## Related Concepts
-- [[TimestampProgression]] — time tracking in game
-- [[GameStateManagement]] — strategic state
+- [TimestampProgression](TimestampProgression.md) — time tracking in game
+- [GameStateManagement](GameStateManagement.md) — strategic state

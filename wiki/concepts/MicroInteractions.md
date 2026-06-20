@@ -22,5 +22,5 @@ Micro-interactions are small, focused moments of animation that provide feedback
 - Non-blocking to main functionality
 
 ## Related Concepts
-- [[AnimationSystem]] — system providing micro-interactions
+- [AnimationSystem](AnimationSystem.md) — system providing micro-interactions
 - [[UserFeedback]] — broader feedback category

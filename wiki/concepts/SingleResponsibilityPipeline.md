@@ -40,11 +40,11 @@ Each file has ONE job and MUST NOT do the job of other files:
 
 ## Contrast with Prior Art (v3)
 
-The v3 architecture had TWO orchestration roots: `streaming_orchestrator.py` (streaming) and `world_logic.process_action_unified()` (non-streaming). Both called rewards normalization twice — once for Firestore persistence and once for the response. This double-touch pattern caused [[RewardsBoxAtomicity]] violations and type inconsistencies between streaming and non-streaming paths.
+The v3 architecture had TWO orchestration roots: `streaming_orchestrator.py` (streaming) and `world_logic.process_action_unified()` (non-streaming). Both called rewards normalization twice — once for Firestore persistence and once for the response. This double-touch pattern caused [RewardsBoxAtomicity](RewardsBoxAtomicity.md) violations and type inconsistencies between streaming and non-streaming paths.
 
 ## Related Concepts
 
-- [[RewardsEngineIdempotency]] — pipeline function must be safe to call once per request (idempotent)
-- [[RewardsBoxAtomicity]] — `rewards_box` + `planning_block` must be treated as an atomic pair throughout the pipeline
-- [[LevelUpModalRouting]] — Stage 5 modal injection constraints
-- [[DefensiveNumericConversion]] — Stage 4 type normalization
+- [RewardsEngineIdempotency](RewardsEngineIdempotency.md) — pipeline function must be safe to call once per request (idempotent)
+- [RewardsBoxAtomicity](RewardsBoxAtomicity.md) — `rewards_box` + `planning_block` must be treated as an atomic pair throughout the pipeline
+- [LevelUpModalRouting](LevelUpModalRouting.md) — Stage 5 modal injection constraints
+- [DefensiveNumericConversion](DefensiveNumericConversion.md) — Stage 4 type normalization

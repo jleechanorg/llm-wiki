@@ -77,10 +77,10 @@ fi
 
 ## Related Concepts
 
-- [[Launchd]] (the underlying mechanism)
-- [[AgentOrchestratorDoctorShV2]] (the doctor.sh design that complements this)
-- [[SilentFailurePathPattern]]
-- [[SLOAlerting]] (SLA/SLO-driven alerting pattern)
+- [Launchd](Launchd.md) (the underlying mechanism)
+- [AgentOrchestratorDoctorShV2](AgentOrchestratorDoctorShV2.md) (the doctor.sh design that complements this)
+- [SilentFailurePathPattern](SilentFailurePathPattern.md)
+- [SLOAlerting](SLOAlerting.md) (SLA/SLO-driven alerting pattern)
 - [[lifecycle-worker]] (the workload being watched)
 
 ## Failure Mode: Watchdog-of-Watchdogs Itself Dies

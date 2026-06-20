@@ -19,9 +19,9 @@ AI Incident Database provides real-time failure detection logging for AI agents 
 ## Connections
 
 - [[FeedbackLoops]] — AI Incident Database enables feedback from failures
-- [[DriftDetection]] — incident detection is related to drift detection
-- [[GovernanceLayer]] — incidents inform governance rule improvements
+- [DriftDetection](../concepts/DriftDetection.md) — incident detection is related to drift detection
+- [GovernanceLayer](../concepts/GovernanceLayer.md) — incidents inform governance rule improvements
 
 ## See Also
 - [[FeedbackLoops]]
-- [[GovernanceLayer]]
+- [GovernanceLayer](../concepts/GovernanceLayer.md)

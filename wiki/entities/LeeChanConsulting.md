@@ -13,5 +13,5 @@ Consulting company doing business as WorldAI, the AI-powered RPG engine and plat
 Lee-Chan Consulting operates WorldAI, an AI-powered RPG engine and platform that enables users to create, explore, and interact with immersive narrative-driven game worlds powered by large language models.
 
 ## Connections
-- [[WorldAI]] — operating name/dba
+- [WorldAI](WorldAI.md) — operating name/dba
 - [[WorldAIPrivacyPolicy]] — governs data processing for services

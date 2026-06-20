@@ -12,6 +12,6 @@ Ser Gideon Vance is an ally character in the Sariel campaign, appearing in the f
 - [[Sariel Exact Production Campaign Example]] — interaction_1 expected entities
 
 ## Connections
-- [[Sariel]] — protagonist/ally relationship
+- [Sariel](Sariel.md) — protagonist/ally relationship
 - [[Lady Cressida Valeriana]] — fellow ally
 - [[Rowan Thorne]] — fellow ally

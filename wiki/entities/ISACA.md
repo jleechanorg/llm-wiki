@@ -17,8 +17,8 @@ ISACA is a professional body for IT governance, offering certifications includin
 
 ## Connections
 
-- [[GovernanceLayer]] — ISACA provides AI governance certifications and frameworks
+- [GovernanceLayer](../concepts/GovernanceLayer.md) — ISACA provides AI governance certifications and frameworks
 - [[DataGovernance]] — ISACA's DMBoK is the Data Management Body of Knowledge
 
 ## See Also
-- [[GovernanceLayer]]
+- [GovernanceLayer](../concepts/GovernanceLayer.md)

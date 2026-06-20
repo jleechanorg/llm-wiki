@@ -32,4 +32,4 @@ A latency optimization technique that splits response processing into two parall
 ## Connections
 - [[Entity Enhancement]] — What Pass 2 adds to the response
 - [[Graceful Degradation]] — Fallback behavior on enhancement failure
-- [[TASK-019]] — The specific task implementing this optimization
+- [TASK-019](../entities/TASK-019.md) — The specific task implementing this optimization

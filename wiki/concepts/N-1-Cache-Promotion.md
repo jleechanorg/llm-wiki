@@ -19,5 +19,5 @@ Cache promotion strategy where when a cache rebuild occurs, the NEW cache has Ge
 Without N-1 deferral, users would experience ~30-60s of cache misses while Gemini propagates the new cache. This pattern ensures zero perceived downtime during cache rebuilds.
 
 ## Related
-- [[CampaignCacheManager]] — Implements this pattern
-- [[GeminiCacheManager]] — Module providing cache management
+- [CampaignCacheManager](../entities/CampaignCacheManager.md) — Implements this pattern
+- [GeminiCacheManager](../entities/GeminiCacheManager.md) — Module providing cache management

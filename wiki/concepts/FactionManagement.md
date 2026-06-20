@@ -20,4 +20,4 @@ Strategic game system in WorldAI where players manage factions with resources in
 - [[Real Service Provider Implementation]] — backend implementation
 
 ## Related Entities
-- [[WorldArchitect]] — platform hosting this faction system
+- [WorldArchitect](../entities/WorldArchitect.md) — platform hosting this faction system

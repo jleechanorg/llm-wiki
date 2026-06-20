@@ -25,5 +25,5 @@ Revolutionary isolated agent coordination using individual tmux sessions with gi
 10/10 - WORLD FIRST implementation
 
 ## Related Pages
-- [[ClaudeCode]]
+- [ClaudeCode](../entities/ClaudeCode.md)
 - [[GitWorktreeIsolation]]

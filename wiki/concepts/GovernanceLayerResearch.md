@@ -15,7 +15,7 @@ Research synthesis on governance layer patterns for autonomous coding agents. Co
 - CI gate requiring per-check artifacts with timestamps (tool name, verdict, duration)
 - Fails closed if evidence missing or stale
 - Renamed from skeptic-gate → green-gate in PR #6189 (naming was misleading)
-- Part of the [[AutonomousAgentLoop]] Five Gates: CI green, no conflicts, no serious comments, evidence reviewed, OpenClaw approved
+- Part of the [AutonomousAgentLoop](AutonomousAgentLoop.md) Five Gates: CI green, no conflicts, no serious comments, evidence reviewed, OpenClaw approved
 
 ### AutonomousAgentLoop (Existing AO)
 The existing 5-gate merge-readiness model:
@@ -107,9 +107,9 @@ PR #453 says "fail-closed" but also has "escalation paths." If escalation blocks
 
 ## Related Concepts
 
-- [[GovernanceLayer]] — The governance layer concept page
-- [[SkepticGate]] — Existing Skeptic gate infrastructure
-- [[AutonomousAgentLoop]] — The 5-gate merge-readiness model
-- [[EvidenceBundles]] — Evidence capture standard
+- [GovernanceLayer](GovernanceLayer.md) — The governance layer concept page
+- [SkepticGate](SkepticGate.md) — Existing Skeptic gate infrastructure
+- [AutonomousAgentLoop](AutonomousAgentLoop.md) — The 5-gate merge-readiness model
+- [EvidenceBundles](EvidenceBundles.md) — Evidence capture standard
 - [[PR #452/453 Governance Layer]] — The design PRs being critiqued
-- [[DarkFactory]] — External reference: Archon's governance approach
+- [DarkFactory](DarkFactory.md) — External reference: Archon's governance approach

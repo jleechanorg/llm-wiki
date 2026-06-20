@@ -22,8 +22,8 @@ Agent Selection is the process by which WorldArchitect determines which agent (S
 - **State Management**: Different agents manage different state update patterns
 
 ## Related Concepts
-- [[AgentArchitecture]] — overall system design
-- [[ModeDetection]] — specific detection of god mode prefix
+- [AgentArchitecture](AgentArchitecture.md) — overall system design
+- [ModeDetection](ModeDetection.md) — specific detection of god mode prefix
 - [[UserSettings]] — configuration affecting selection (spicy_mode)
 
 ## Source References

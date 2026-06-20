@@ -13,6 +13,6 @@ MagicMock is a Python unittest.mock class that creates flexible mock objects tha
 Isolating unit tests from external dependencies like databases, APIs, or file systems by providing controlled mock objects that return predictable values.
 
 ## Related
-- [[UnitTesting]]
-- [[FirestoreMocking]]
+- [UnitTesting](UnitTesting.md)
+- [FirestoreMocking](FirestoreMocking.md)
 - [[PythonUnittest]]

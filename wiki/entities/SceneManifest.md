@@ -10,6 +10,6 @@ last_updated: 2026-04-08
 Game state structure containing all entities present in a scene. Produced by entity preloading/tracking system and passed to AI service for entity-aware story generation.
 
 ## Related
-- [[EntityTracking]] — module defining this class
-- [[EntityPreloader]] — produces manifests
+- [EntityTracking](EntityTracking.md) — module defining this class
+- [EntityPreloader](EntityPreloader.md) — produces manifests
 - [[CreateFromGameState]] — factory function

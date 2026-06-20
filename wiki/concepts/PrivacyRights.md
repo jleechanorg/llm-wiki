@@ -20,6 +20,6 @@ Depending on where users are located geographically, applicable privacy law may 
 - Right to data portability
 
 ## Connections
-- [[PersonalInformationProcessing]] — relates to processing
+- [PersonalInformationProcessing](PersonalInformationProcessing.md) — relates to processing
 - [[WorldAIPrivacyPolicy]] — defines specific rights
-- [[DataProtection]] — legal framework
+- [DataProtection](DataProtection.md) — legal framework

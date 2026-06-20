@@ -72,6 +72,6 @@ Must be different model family than stage 1:
 - Stage 2 reviewer cannot see the coding agent's session — it's a different context
 
 ## Related Concepts
-- [[IndependentVerification]]
-- [[MergeReadinessContract]]
-- [[AutonomousAgentLoop]]
+- [IndependentVerification](IndependentVerification.md)
+- [MergeReadinessContract](MergeReadinessContract.md)
+- [AutonomousAgentLoop](AutonomousAgentLoop.md)

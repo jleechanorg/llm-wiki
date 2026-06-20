@@ -30,8 +30,8 @@ Execution traces are records of program execution — the sequence of function c
 
 ## Connections
 
-- [[FilesystemHistory]] — traces are stored as files in Meta-Harness history
-- [[AgenticProposer]] — uses traces to diagnose failures
-- [[FeedbackLoop]] — traces provide rich feedback for the loop
-- [[MetaHarness]] — enables access to full execution traces
-- [[AlphaEvolv]] — contrast: AlphaEvolv uses only scalar scores
+- [FilesystemHistory](FilesystemHistory.md) — traces are stored as files in Meta-Harness history
+- [AgenticProposer](AgenticProposer.md) — uses traces to diagnose failures
+- [FeedbackLoop](FeedbackLoop.md) — traces provide rich feedback for the loop
+- [MetaHarness](MetaHarness.md) — enables access to full execution traces
+- [AlphaEvolv](AlphaEvolv.md) — contrast: AlphaEvolv uses only scalar scores

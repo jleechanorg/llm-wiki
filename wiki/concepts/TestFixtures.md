@@ -24,5 +24,5 @@ def client():
 ```
 
 ## Connections
-- [[FlaskTesting]] — uses client fixture
-- [[Mocking]] — reset_mcp_client fixture for cleanup
+- [FlaskTesting](FlaskTesting.md) — uses client fixture
+- [Mocking](Mocking.md) — reset_mcp_client fixture for cleanup

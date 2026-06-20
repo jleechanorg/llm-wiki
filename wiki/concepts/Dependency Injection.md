@@ -16,5 +16,5 @@ Software design pattern where dependencies are provided to a class rather than b
 - Supports both real MCP and test doubles
 
 ## Related Concepts
-- [[MCPMemoryClient]] — class using this pattern
+- [MCPMemoryClient](MCPMemoryClient.md) — class using this pattern
 - [[TestServiceProvider Implementation]] — related test infrastructure

@@ -10,13 +10,13 @@ total_scenes: 236
 
 ## Overview
 
-** Blackwood Keep, Great Hall appears in 3 scenes across the [[daemon-conquers]] campaign.
+** Blackwood Keep, Great Hall appears in 3 scenes across the [daemon-conquers](../sources/daemon-conquers.md) campaign.
 
 ## Description
 
 ** Blackwood Keep, Great Hall is an entity from the daemon-conquers campaign.
 
 ## References
-- [[daemon-conquers]] — campaign overview
-- [[daemon-conquers-campaign]]
+- [daemon-conquers](../sources/daemon-conquers.md) — campaign overview
+- [daemon-conquers-campaign](../sources/daemon-conquers-campaign.md)
 

@@ -15,5 +15,5 @@ Used for validating wizard reset functionality where:
 - Green: Test passes after forceCleanRecreation and replaceOriginalForm are properly implemented
 
 ## Related Concepts
-- [[TestDrivenDevelopment]] — broader methodology
-- [[DOMManipulation]] — testing technique used
+- [TestDrivenDevelopment](TestDrivenDevelopment.md) — broader methodology
+- [DOMManipulation](DOMManipulation.md) — testing technique used

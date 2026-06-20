@@ -20,7 +20,7 @@ Provider Selection is the logic that determines which LLM provider (Gemini, Open
 - `user_id=None` returns defaults
 
 ## Connections
-- [[Gemini]] — default provider
-- [[OpenRouter]] — configurable alternative
-- [[Cerebras]] — configurable alternative
-- [[LLMService]] — implements selection logic
+- [Gemini](../entities/Gemini.md) — default provider
+- [OpenRouter](../entities/OpenRouter.md) — configurable alternative
+- [Cerebras](../entities/Cerebras.md) — configurable alternative
+- [LLMService](LLMService.md) — implements selection logic

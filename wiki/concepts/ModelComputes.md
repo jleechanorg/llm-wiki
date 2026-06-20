@@ -42,7 +42,7 @@ Backend validates and formats this output for UI.
 
 ## Connections
 
-- [[ZFCNorthStar]] — architectural principle
-- [[BackendFormats]] — complementary pattern
-- [[RewardsBox]] — UI structure for rewards display
-- [[PlanningBlock]] — UI structure for choice planning
+- [ZFCNorthStar](ZFCNorthStar.md) — architectural principle
+- [BackendFormats](BackendFormats.md) — complementary pattern
+- [RewardsBox](RewardsBox.md) — UI structure for rewards display
+- [PlanningBlock](PlanningBlock.md) — UI structure for choice planning

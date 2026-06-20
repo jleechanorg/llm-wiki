@@ -26,7 +26,7 @@ The Mangekyō represents Itachi's willingness to pay any price for power. His ev
 
 ## Connections
 
-- [[ItachiUchiha]] — Wielder
+- [ItachiUchiha](../entities/ItachiUchiha.md) — Wielder
 - [[ItachiEvilCampaign2Campaign]] — Campaign
-- [[Sharingan]] — Base form
-- [[Tsukuyomi]] — Specific ability
+- [Sharingan](Sharingan.md) — Base form
+- [Tsukuyomi](Tsukuyomi.md) — Specific ability

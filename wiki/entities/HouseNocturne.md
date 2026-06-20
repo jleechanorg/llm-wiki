@@ -14,13 +14,13 @@ House Nocturne is a fallen noble house in Baldur's Gate that was destroyed durin
 - Status: Destroyed/Fallen
 - Former Influence: Upper City (implied)
 - Fate: Bankrupted during Absolute crisis, members sold as debt payment
-- Campaign appearances: [[nocturne-bg3-after-campaign]]
+- Campaign appearances: [nocturne-bg3-after-campaign](../sources/nocturne-bg3-after-campaign.md)
 
 ## Story Context
 The economic ripples of the Absolute's conflict devastated many noble houses whose investments were tied to ruined trade routes and devastated estates. House Nocturne was among these — its name erased by rivals who struck while the city was distracted by survival.
 
 ## Connections
-- [[NocturneBg3After]] — member of the house
-- [[TheBloomAndShadow]] — where members were sold
-- [[NobleHouseFall]] — thematic concept of the family's downfall
-- [[BaldursGatePostAbsolute]] — setting context for the fall
+- [NocturneBg3After](NocturneBg3After.md) — member of the house
+- [TheBloomAndShadow](TheBloomAndShadow.md) — where members were sold
+- [NobleHouseFall](../concepts/NobleHouseFall.md) — thematic concept of the family's downfall
+- [BaldursGatePostAbsolute](../concepts/BaldursGatePostAbsolute.md) — setting context for the fall

@@ -17,7 +17,7 @@ The independent goals and motivations that NPCs pursue in the Living World syste
 - Enemy NPCs prepare, scheme, or move against the player
 
 ## Implementation
-NPC agendas are expressed through [[BackgroundEvent]] entries where:
+NPC agendas are expressed through [BackgroundEvent](BackgroundEvent.md) entries where:
 - `actor` is the NPC name
 - `action` describes what they did to pursue their goal
 - `outcome` shows the result (success, failure, or ongoing)

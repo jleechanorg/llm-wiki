@@ -11,13 +11,13 @@ The Companion Asset Framework is a mechanic in the V6 campaign that frames BG3 c
 
 ## Key Details
 - **Category:** GameMechanic / Companion System
-- **Campaign(s):** [[nocturne-bg3-v6-bug-repro-test]]
+- **Campaign(s):** [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md)
 
 ## Related Concepts
-- [[SocialHP]] — companion health tracking
-- [[GildedTether]] — thrall-bond system
+- [SocialHP](SocialHP.md) — companion health tracking
+- [GildedTether](GildedTether.md) — thrall-bond system
 - [[ApprovalTracking]] — companion relationship
 
 ## Related Entities
-- [[NocturneSosuke]] — primary user
+- [NocturneSosuke](../entities/NocturneSosuke.md) — primary user
 - [[BG3Companions]] — assets tracked

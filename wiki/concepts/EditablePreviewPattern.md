@@ -21,5 +21,5 @@ A UI pattern where inline elements display a preview of content and transform in
 - Inline metadata editing
 
 ## Related Patterns
-- [[ClickOutsideDetection]]
+- [ClickOutsideDetection](ClickOutsideDetection.md)
 - [[FormStateSynchronization]]

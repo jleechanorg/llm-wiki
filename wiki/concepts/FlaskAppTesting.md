@@ -15,5 +15,5 @@ Testing methodology using Flask's test_client() for HTTP endpoint testing withou
 - **JSON Data**: json.dumps() for request body serialization
 
 ## Connections
-- [[IntegrationTesting]] — Broader testing methodology
-- [[SarielCampaign]] — Campaign being tested
+- [IntegrationTesting](IntegrationTesting.md) — Broader testing methodology
+- [SarielCampaign](../entities/SarielCampaign.md) — Campaign being tested

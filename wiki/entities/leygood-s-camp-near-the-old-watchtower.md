@@ -10,13 +10,13 @@ total_scenes: 417
 
 ## Overview
 
-** Leygood's Camp near the Old Watchtower appears in 7 scenes across the [[visenya-v4]] campaign.
+** Leygood's Camp near the Old Watchtower appears in 7 scenes across the [visenya-v4](../sources/visenya-v4.md) campaign.
 
 ## Description
 
 ** Leygood's Camp near the Old Watchtower is an entity from the visenya-v4 campaign.
 
 ## References
-- [[visenya-v4]] — campaign overview
+- [visenya-v4](../sources/visenya-v4.md) — campaign overview
 - [[visenya-v4-campaign]]
 

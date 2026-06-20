@@ -17,4 +17,4 @@ Used by llm_service.py for prefix-based caching with Gemini API. The to_explicit
 
 ## Related
 - [[CachePromptStructureEquivalenceTests]] — validates equivalence between implicit and explicit cache approaches
-- [[PrefixBasedCaching]] — the caching strategy using this class
+- [PrefixBasedCaching](../concepts/PrefixBasedCaching.md) — the caching strategy using this class

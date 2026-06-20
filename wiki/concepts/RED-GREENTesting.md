@@ -17,4 +17,4 @@ In the architectural boundary field format validation, RED-GREEN tests confirm:
 
 ## Connections
 - [[ArchitecturalBoundaryFieldFormatValidation]] — example RED-GREEN test
-- [[FieldFormatValidation]] — related concept
+- [FieldFormatValidation](FieldFormatValidation.md) — related concept

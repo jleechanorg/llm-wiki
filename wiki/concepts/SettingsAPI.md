@@ -26,6 +26,6 @@ REST API endpoints for managing user settings in the application. Includes GET /
 - Provider-specific settings persistence
 
 ## Connections
-- [[MCP]] — architecture context
-- [[Firebase]] — authentication
-- [[Firestore]] — storage backend
+- [MCP](MCP.md) — architecture context
+- [Firebase](Firebase.md) — authentication
+- [Firestore](Firestore.md) — storage backend

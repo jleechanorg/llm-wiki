@@ -31,5 +31,5 @@ ENTITY_TRACKING_VALIDATION: Narrative failed entity validation
 3. Distinguish between "present" (mentioned this turn) and "active" (needed for next turn)
 
 ## Connections
-- [[Context-Bloat]] — root cause: entity tracking competes with other context
-- [[LLMDrift]] — related: LLM losing track of state over time
+- [Context-Bloat](Context-Bloat.md) — root cause: entity tracking competes with other context
+- [LLMDrift](LLMDrift.md) — related: LLM losing track of state over time

@@ -8,4 +8,4 @@ last_updated: 2026-04-08
 
 Prompt file defining narrative authority and high-level game directives. References planning blocks as part of narrative authority structure. No cleanup needed - already references JSON fields appropriately.
 
-**Related:** [[GameStateInstruction]], [[NarrativeSystemInstruction]]
+**Related:** [GameStateInstruction](GameStateInstruction.md), [NarrativeSystemInstruction](NarrativeSystemInstruction.md)

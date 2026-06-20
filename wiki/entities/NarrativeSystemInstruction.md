@@ -8,4 +8,4 @@ last_updated: 2026-04-08
 
 Prompt file for narrative system. References that planning block protocols are defined in game_state_instruction.md. No cleanup needed.
 
-**Related:** [[GameStateInstruction]], [[MasterDirective]]
+**Related:** [GameStateInstruction](GameStateInstruction.md), [MasterDirective](MasterDirective.md)

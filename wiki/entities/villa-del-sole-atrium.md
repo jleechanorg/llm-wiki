@@ -10,13 +10,13 @@ total_scenes: 162
 
 ## Overview
 
-** Villa del Sole - Atrium appears in 7 scenes across the [[gaia-julia-v4]] campaign.
+** Villa del Sole - Atrium appears in 7 scenes across the [gaia-julia-v4](../sources/gaia-julia-v4.md) campaign.
 
 ## Description
 
 ** Villa del Sole - Atrium is an entity from the gaia-julia-v4 campaign.
 
 ## References
-- [[gaia-julia-v4]] — campaign overview
-- [[gaia-julia-v4-campaign]]
+- [gaia-julia-v4](../sources/gaia-julia-v4.md) — campaign overview
+- [gaia-julia-v4-campaign](../sources/gaia-julia-v4-campaign.md)
 

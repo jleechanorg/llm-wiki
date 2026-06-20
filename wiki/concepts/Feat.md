@@ -22,6 +22,6 @@ At levels 4, 8, 12, 16, 19, players choose between:
 
 
 ## Related Concepts
-- [[AbilityScoreImprovement]] — alternative progression choice
-- [[LevelUpMechanics]] — where feats are chosen
-- [[DungeonsAndDragons5e]] — governing ruleset
+- [AbilityScoreImprovement](AbilityScoreImprovement.md) — alternative progression choice
+- [LevelUpMechanics](LevelUpMechanics.md) — where feats are chosen
+- [DungeonsAndDragons5e](DungeonsAndDragons5e.md) — governing ruleset

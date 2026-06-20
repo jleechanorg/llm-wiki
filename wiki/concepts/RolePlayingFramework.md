@@ -21,6 +21,6 @@ Role-playing frameworks in multi-agent systems assign specific roles to agents t
 Role-playing frameworks provide implicit governance — each role has expectations and constraints. MetaGPT's SOP encoding is a more structured form of role-playing framework.
 
 ## See Also
-- [[CAMEL]]
-- [[MetaGPT]]
-- [[SOPEncoding]]
+- [CAMEL](../entities/CAMEL.md)
+- [MetaGPT](MetaGPT.md)
+- [SOPEncoding](SOPEncoding.md)

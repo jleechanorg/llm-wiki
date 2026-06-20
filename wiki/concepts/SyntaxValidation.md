@@ -10,5 +10,5 @@ Syntax validation is the practice of checking code for syntactic correctness bef
 
 
 ## Related Concepts
-- [[AST]] — the technique used for validation
+- [AST](AST.md) — the technique used for validation
 - [[ImportTesting]] — related testing practice

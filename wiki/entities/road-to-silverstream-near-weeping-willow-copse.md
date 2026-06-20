@@ -10,13 +10,13 @@ total_scenes: 128
 
 ## Overview
 
-** Road to Silverstream (near Weeping Willow copse) appears in 5 scenes across the [[witcher-strat]] campaign.
+** Road to Silverstream (near Weeping Willow copse) appears in 5 scenes across the [witcher-strat](../sources/witcher-strat.md) campaign.
 
 ## Description
 
 ** Road to Silverstream (near Weeping Willow copse) is an entity from the witcher-strat campaign.
 
 ## References
-- [[witcher-strat]] — campaign overview
+- [witcher-strat](../sources/witcher-strat.md) — campaign overview
 - [[witcher-strat-campaign]]
 

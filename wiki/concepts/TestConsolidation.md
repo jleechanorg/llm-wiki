@@ -22,6 +22,6 @@ Test consolidation is the practice of merging redundant, overlapping test files 
 - Clearer test intent for new contributors
 
 ## Related Concepts
-- [[APICallOptimization]] — reducing the number of external API calls in tests
+- [APICallOptimization](APICallOptimization.md) — reducing the number of external API calls in tests
 - [[EnvironmentDrivenTesting]] — using env vars to configure test behavior
-- [[DualModeTesting]] — running tests against mock or real backends
+- [DualModeTesting](DualModeTesting.md) — running tests against mock or real backends

@@ -20,8 +20,8 @@ The 16-year-old version of Sariel operates in Cheyenne alongside her team of com
 
 ## Connections
 
-- [[Sariel]] — Primary operative
+- [Sariel](Sariel.md) — Primary operative
 - [[HuntingPartySarielV2Campaign]] — Campaign
-- [[ThePit]] — Specific location
+- [ThePit](ThePit.md) — Specific location
 - [[BexHenderson]], [[OliverOdell]], [[JacobHassani]], [[JenniferMorales]], [[ShaneFlorence]] — Team members
-- [[VigilanteJustice]] — Campaign theme
+- [VigilanteJustice](../concepts/VigilanteJustice.md) — Campaign theme

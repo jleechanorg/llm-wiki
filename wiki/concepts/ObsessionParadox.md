@@ -20,6 +20,6 @@ The Obsession Paradox is a core mechanic of the Apex Weaver class in the Visenya
 - **Shadow Knights**: A unified force of fanatically devoted knights (Robb + Jon) who move in synchronization
 
 ## Connections
-- [[VisenyaTargaryen]] — the architect of the Paradox
-- [[ApexWeaver]] — the class that generates the Obsession Paradox
-- [[EntropyToll]] — related mechanic; failure to manipulate triggers Exhaustion
+- [VisenyaTargaryen](../entities/VisenyaTargaryen.md) — the architect of the Paradox
+- [ApexWeaver](ApexWeaver.md) — the class that generates the Obsession Paradox
+- [EntropyToll](EntropyToll.md) — related mechanic; failure to manipulate triggers Exhaustion

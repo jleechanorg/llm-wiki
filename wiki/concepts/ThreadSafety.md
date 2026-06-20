@@ -16,6 +16,6 @@ A property of code that ensures correct behavior when accessed concurrently by m
 - Validated via concurrency tests
 
 ## Connections
-- [[LazyLoading]] — often requires thread safety when lazily loaded modules are accessed concurrently
-- [[RaceCondition]] — the bug thread safety prevents
-- [[Idempotent]] — thread-safe operations should be idempotent
+- [LazyLoading](LazyLoading.md) — often requires thread safety when lazily loaded modules are accessed concurrently
+- [RaceCondition](RaceCondition.md) — the bug thread safety prevents
+- [Idempotent](Idempotent.md) — thread-safe operations should be idempotent

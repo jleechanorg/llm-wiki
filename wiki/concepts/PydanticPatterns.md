@@ -155,9 +155,9 @@ config.host = "other.example.com"  # raises ValidationError: frozen_instance
 
 ## Connections
 
-- [[FastAPIErrorHandling]] — FastAPI uses Pydantic's `BaseModel` and `ValidationError` as its input/output backbone. `RequestValidationError` is a FastAPI wrapper around Pydantic's `ValidationError`.
-- [[RequestsAPIDesign]] — Both Pydantic and Requests share the "explicit params, clear contracts" philosophy. Pydantic makes those contracts machine-checkable.
-- [[APIResponseValidation]] — Pydantic's `model_validate()` is the canonical pattern for validating API responses.
+- [FastAPIErrorHandling](FastAPIErrorHandling.md) — FastAPI uses Pydantic's `BaseModel` and `ValidationError` as its input/output backbone. `RequestValidationError` is a FastAPI wrapper around Pydantic's `ValidationError`.
+- [RequestsAPIDesign](RequestsAPIDesign.md) — Both Pydantic and Requests share the "explicit params, clear contracts" philosophy. Pydantic makes those contracts machine-checkable.
+- [APIResponseValidation](APIResponseValidation.md) — Pydantic's `model_validate()` is the canonical pattern for validating API responses.
 
 ## What This Means for Code Generation
 

@@ -13,8 +13,8 @@ Security operation that generates a new API key hash for a user while invalidati
 - **Revoke**: Clear stored hash, invalidate key
 
 ## Implementation Requirement
-Both operations must use [[DotNotationTransactionUpdate]] with `transaction.update()` and dot-notation keys to ensure settings preservation. Fix commit eea7c67cba ensured this behavior.
+Both operations must use [DotNotationTransactionUpdate](DotNotationTransactionUpdate.md) with `transaction.update()` and dot-notation keys to ensure settings preservation. Fix commit eea7c67cba ensured this behavior.
 
 ## Related
-- [[FirestoreService]] — implements rotation functions
-- [[APIRotationRegressionTests]] — validates the fix
+- [FirestoreService](../entities/FirestoreService.md) — implements rotation functions
+- [APIRotationRegressionTests](../entities/APIRotationRegressionTests.md) — validates the fix

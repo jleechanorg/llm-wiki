@@ -16,4 +16,4 @@ Pattern for detecting and responding to interface mode changes (modern vs legacy
 
 ## Related Concepts
 - [[ModernComponentStylesWithBootstrapCompatibility]] — modern mode styling
-- [[FeatureFlag]] — control mechanism for optional features
+- [FeatureFlag](FeatureFlag.md) — control mechanism for optional features

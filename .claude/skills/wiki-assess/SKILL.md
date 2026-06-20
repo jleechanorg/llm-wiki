@@ -37,10 +37,21 @@ CONCEPTS=$(ls $WIKI/concepts/*.md 2>/dev/null | wc -l)
 ### Phase 5: Check oracle backlink density
 ```bash
 ORACLE="$WIKI/syntheses/jeffrey-oracle.md"
-OUTBOUND=$(grep -oE '\[\[[^]]+\]\]' "$ORACLE" 2>/dev/null | grep -v '|' | sort -u | wc -l)
-INBOUND=$(grep -l 'jeffrey-oracle' "$WIKI"/**/*.md 2>/dev/null | wc -l)
+# Count outbound links — both MD links [text](path.md) and legacy [[wikilinks]]
+OUTBOUND_MD=$(grep -oE '\[[^\]]+\]\([^)]+\.md\)' "$ORACLE" 2>/dev/null | sort -u | wc -l)
+OUTBOUND_WIKI=$(grep -oE '\[\[[^]]+\]\]' "$ORACLE" 2>/dev/null | grep -v '|' | sort -u | wc -l)
+OUTBOUND=$((OUTBOUND_MD + OUTBOUND_WIKI))
+INBOUND=$(grep -rl 'jeffrey-oracle' "$WIKI"/**/*.md 2>/dev/null | wc -l)
 ```
 Target: outbound ≥15, inbound ≥10.
+
+### Phase 5b: Check for unconverted wikilinks (GitHub link health)
+```bash
+# Count raw [[wikilinks]] in concepts/ and entities/ (outside code fences)
+WIKILINKS=$(grep -rh '\[\[' "$WIKI/concepts" "$WIKI/entities" 2>/dev/null | \
+  grep -v '^\s*```' | grep -c '\[\[' || true)
+```
+Target: 0. Any `[[wikilinks]]` outside code blocks are invisible on github.com.
 
 ### Phase 6: Output assessment
 
@@ -63,8 +74,13 @@ Target: outbound ≥15, inbound ≥10.
 ### Oracle Backlink Density:
 | Metric | Value | Target | Status |
 |--------|-------|--------|--------|
-| Outbound wikilinks from oracle | N | ≥15 | ✅/❌ |
+| Outbound links from oracle (MD + wikilinks) | N | ≥15 | ✅/❌ |
 | Inbound links to oracle | N | ≥10 | ✅/❌ |
+
+### GitHub Link Health:
+| Metric | Value | Target | Status |
+|--------|-------|--------|--------|
+| Raw [[wikilinks]] in concepts+entities | N | 0 | ✅/❌ |
 
 ### Verdict: COMPLIANT / NON-COMPLIANT
 ```

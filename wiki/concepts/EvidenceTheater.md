@@ -26,5 +26,5 @@ In 40 merged PRs, no real tmux video, UI GIF, or local server evidence was ever 
 ## Connections
 
 - [[EvidenceGate]] — CI gate that checks for ## Evidence section
-- [[SkepticGate]] — skeptic-gate workflow
-- [[VideoEvidenceFailure]] — specific video evidence failure patterns
+- [SkepticGate](SkepticGate.md) — skeptic-gate workflow
+- [VideoEvidenceFailure](VideoEvidenceFailure.md) — specific video evidence failure patterns

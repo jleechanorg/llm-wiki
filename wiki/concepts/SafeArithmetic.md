@@ -38,5 +38,5 @@ math.isclose(0.1 + 0.2, 0.3, rel_tol=1e-9, abs_tol=1e-12)
 ```
 
 ## Related Concepts
-- [[StatusCodeNormalization]] — similar defensive utility pattern
-- [[DefensiveProgramming]] — overarching design philosophy
+- [StatusCodeNormalization](StatusCodeNormalization.md) — similar defensive utility pattern
+- [DefensiveProgramming](DefensiveProgramming.md) — overarching design philosophy

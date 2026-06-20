@@ -12,9 +12,9 @@ Sariel is a recurring character who appears in radically different settings — 
 
 ## Appears In
 
-- [[sariel-assiah]] — Sariel Arcanus, Level 1 Wizard; "The Echo of Starlight"; INTP; daughter of Alexiel; navigating Assiah during Lucifer's Thousand Year War
-- [[hunting-party-sariel]] — Sariel, Level 9 Rogue/Ranger (Masked: Level 1); FBI prodigy who has secretly executed 100 criminals; The Pit setting
-- [[sariel-killer]] — Killer variant iteration
+- [sariel-assiah](../sources/sariel-assiah.md) — Sariel Arcanus, Level 1 Wizard; "The Echo of Starlight"; INTP; daughter of Alexiel; navigating Assiah during Lucifer's Thousand Year War
+- [hunting-party-sariel](../sources/hunting-party-sariel.md) — Sariel, Level 9 Rogue/Ranger (Masked: Level 1); FBI prodigy who has secretly executed 100 criminals; The Pit setting
+- [sariel-killer](../sources/sariel-killer.md) — Killer variant iteration
 
 ## Key Traits
 
@@ -27,6 +27,6 @@ Sariel is a recurring character who appears in radically different settings — 
 
 ## Relationships Across Campaigns
 
-- [[Alexiel]] — Mother in Assiah continuity
-- [[Nocticula]] — Parallel archetype (masked power, demon heritage, young prodigy)
-- [[VisenyaBelaerys]] — Parallel archetype (CHA-based prodigy hiding true lineage)
+- [Alexiel](Alexiel.md) — Mother in Assiah continuity
+- [Nocticula](Nocticula.md) — Parallel archetype (masked power, demon heritage, young prodigy)
+- [VisenyaBelaerys](VisenyaBelaerys.md) — Parallel archetype (CHA-based prodigy hiding true lineage)

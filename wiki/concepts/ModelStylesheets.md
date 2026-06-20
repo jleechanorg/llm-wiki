@@ -16,14 +16,14 @@ Model stylesheets are a CSS-like configuration system that maps node classes to 
 ## Related Systems
 | System | Type | Relevance |
 |--------|------|-----------|
-| [[Mammoth]] | Runner | Introduced model stylesheets in build_pong.dot |
-| [[Kilroy]] | Runner | Uses run.yaml provider config with per-node model attributes |
-| [[AttractorPattern]] | Pattern | Backends are swappable per run; never hardcode in .dot |
+| [Mammoth](../entities/Mammoth.md) | Runner | Introduced model stylesheets in build_pong.dot |
+| [Kilroy](../entities/Kilroy.md) | Runner | Uses run.yaml provider config with per-node model attributes |
+| [AttractorPattern](AttractorPattern.md) | Pattern | Backends are swappable per run; never hardcode in .dot |
 
 ## Connection to Attractor Pattern
 Model stylesheets embody the Attractor pattern's principle that backends must be swappable per run and never hardcoded in DOT files or handlers. The stylesheet is configuration, not logic — separation of concerns at the model selection level.
 
 ## See Also
-- [[DOTAsArtifact]]
-- [[AttractorPattern]]
-- [[Mammoth]]
+- [DOTAsArtifact](DOTAsArtifact.md)
+- [AttractorPattern](AttractorPattern.md)
+- [Mammoth](../entities/Mammoth.md)

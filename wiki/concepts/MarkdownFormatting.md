@@ -33,5 +33,5 @@ Using markdown tables for structured data instead of verbose prose descriptions.
 Using → to reference external files instead of inlining content.
 
 ## Related Concepts
-- [[ContentCompression]]
-- [[DocumentationOptimization]]
+- [ContentCompression](ContentCompression.md)
+- [DocumentationOptimization](DocumentationOptimization.md)

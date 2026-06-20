@@ -11,5 +11,5 @@ Sanctuary Mode is an AUTONOMOUS detection system that activates when a quest/mis
 **Activation**: Contextual evaluation of quest/arc completion
 
 **Related Concepts**:
-- [[GameStateManagement]] — state context for evaluation
-- [[VisibilityRule]] — what players experience
+- [GameStateManagement](GameStateManagement.md) — state context for evaluation
+- [VisibilityRule](VisibilityRule.md) — what players experience

@@ -11,10 +11,10 @@ Master Ogan De is a Jedi Master appearing in the Alexiel SW:TOR campaign alongsi
 
 ## Key Details
 - **Category:** Person / NPC / Jedi Master
-- **Campaign(s):** [[alexiel-swtor-campaign]]
+- **Campaign(s):** [alexiel-swtor-campaign](../sources/alexiel-swtor-campaign.md)
 - **Title:** Master
 - **Role:** Represents the Jedi Order alongside Satele Shan in the campaign's Force-ghost gallery
 
 ## Connections
-- [[SateleShan]] — fellow Jedi Master appearing with him
-- [[Alexiel]] — campaign protagonist who interacts with him
+- [SateleShan](SateleShan.md) — fellow Jedi Master appearing with him
+- [Alexiel](Alexiel.md) — campaign protagonist who interacts with him

@@ -24,7 +24,7 @@ A bug pattern where the LLM presents the same or similar planning block choices 
 User selected variants of "Press Logical Argument" 6+ times (Scenes 257-264) without resolution.
 
 ## Connections
-- [[AntiLoopRule]] — solution to break the loop
-- [[SocialEncounter]] — where this bug manifests
-- [[ActionExecutionRule]] — rule that should prevent this behavior
-- [[DiceRoll]] — missing component that would break the loop
+- [AntiLoopRule](AntiLoopRule.md) — solution to break the loop
+- [SocialEncounter](SocialEncounter.md) — where this bug manifests
+- [ActionExecutionRule](../entities/ActionExecutionRule.md) — rule that should prevent this behavior
+- [DiceRoll](DiceRoll.md) — missing component that would break the loop

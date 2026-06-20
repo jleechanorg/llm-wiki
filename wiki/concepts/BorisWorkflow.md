@@ -3,7 +3,7 @@ title: "Boris Workflow"
 type: concept
 tags: [boris, research-first, plan-in-markdown, annotation-cycle, implementation-directive]
 date: 2026-02-01
-source: [[boris-tan-how-i-use-claude-code]]
+source: [boris-tan-how-i-use-claude-code](../sources/boris-tan-how-i-use-claude-code.md)
 ---
 
 ## Definition

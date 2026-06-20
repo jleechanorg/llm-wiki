@@ -10,13 +10,13 @@ total_scenes: 685
 
 ## Overview
 
-** Private Hub - Command Sanctum appears in 10 scenes across the [[sariel-killer]] campaign.
+** Private Hub - Command Sanctum appears in 10 scenes across the [sariel-killer](../sources/sariel-killer.md) campaign.
 
 ## Description
 
 ** Private Hub - Command Sanctum is an entity from the sariel-killer campaign.
 
 ## References
-- [[sariel-killer]] — campaign overview
-- [[sariel-killer-campaign]]
+- [sariel-killer](../sources/sariel-killer.md) — campaign overview
+- [sariel-killer-campaign](../sources/sariel-killer-campaign.md)
 

@@ -22,6 +22,6 @@ A simplified approach to character creation where character strings are passed d
 4. **LLM Intelligence**: Leverages LLM's language understanding
 
 ## Related Concepts
-- [[GodMode]] - pre-defined character data from templates
-- [[CharacterCreationAgent]] - agent handling character creation flow
+- [GodMode](GodMode.md) - pre-defined character data from templates
+- [CharacterCreationAgent](../entities/CharacterCreationAgent.md) - agent handling character creation flow
 - [[NaturalLanguageProcessing]] - LLM's ability to interpret descriptions

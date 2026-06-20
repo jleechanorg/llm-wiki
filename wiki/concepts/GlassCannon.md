@@ -20,7 +20,7 @@ The Glass Cannon archetype defines Gaia's playstyle — she must rely on her Pra
 
 ## Connections
 
-- [[GaiaJuliaCaesar]] — Character
+- [GaiaJuliaCaesar](../entities/GaiaJuliaCaesar.md) — Character
 - [[GaiaJuliaV6Campaign]] — Campaign
-- [[CollegeOfSwordsBard]] — Class
-- [[PraetorianHand]] — Protection
+- [CollegeOfSwordsBard](CollegeOfSwordsBard.md) — Class
+- [PraetorianHand](../entities/PraetorianHand.md) — Protection

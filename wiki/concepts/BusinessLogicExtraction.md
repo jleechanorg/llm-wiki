@@ -21,6 +21,6 @@ Unified API extracts game state preparation, debug command handling, campaign pr
 - get_campaigns_list_unified()
 
 ## Related Concepts
-- [[UnifiedAPIPattern]]
+- [UnifiedAPIPattern](UnifiedAPIPattern.md)
 - [[DRYPrinciple]]
 - [[SingleSourceOfTruth]]

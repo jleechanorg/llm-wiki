@@ -16,6 +16,6 @@ Game system for managing factions in WorldAI: battle simulation, intel operation
 - Power calculation for faction strength
 
 ## Connections
-- [[LLMFunctionCalling]] — execution mechanism
+- [LLMFunctionCalling](LLMFunctionCalling.md) — execution mechanism
 - [[FactionToolDefinitions]] — tool definitions
-- [[ThinkMode]] — strategic planning integration
+- [ThinkMode](ThinkMode.md) — strategic planning integration

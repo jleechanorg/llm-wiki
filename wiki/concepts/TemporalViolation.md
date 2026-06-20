@@ -16,5 +16,5 @@ A flag indicating the LLM generated a backward time jump in the game world. Occu
 - **None values**: NOT flagged (graceful handling of missing data)
 
 ## Related
-- [[TemporalCorrection]] — handles violation response
-- [[WorldTime]] — time tracking module
+- [TemporalCorrection](TemporalCorrection.md) — handles violation response
+- [WorldTime](WorldTime.md) — time tracking module

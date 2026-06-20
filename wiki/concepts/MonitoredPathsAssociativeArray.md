@@ -82,6 +82,6 @@ loop but reported as UNTRACKED by the consumer, inflating the
 regrowth-prevention audit backlog with phantom gaps.
 
 ## See also
-- [[SubshellLocalBug]] — the other bug that hid this one's impact
-- [[DiskMagicianDiscover]] — the subcommand that uses this array
-- [[feedback-2026-06-13-disk-snapshot-discover-bugs]] — original incident
+- [SubshellLocalBug](SubshellLocalBug.md) — the other bug that hid this one's impact
+- [DiskMagicianDiscover](DiskMagicianDiscover.md) — the subcommand that uses this array
+- [feedback-2026-06-13-disk-snapshot-discover-bugs](../sources/feedback-2026-06-13-disk-snapshot-discover-bugs.md) — original incident

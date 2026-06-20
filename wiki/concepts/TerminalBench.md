@@ -29,7 +29,7 @@ TerminalBench typically includes:
 
 ## Connections
 
-- [[TerminalBench-2]] — the specific benchmark version where Meta-Harness achieved #1
-- [[MetaHarness]] — achieved #1 ranking through outer loop optimization
-- [[CodingAgent]] — the type of agent evaluated by TerminalBench
-- [[AgenticCoding]] — the practice being benchmarked
+- [TerminalBench-2](TerminalBench-2.md) — the specific benchmark version where Meta-Harness achieved #1
+- [MetaHarness](MetaHarness.md) — achieved #1 ranking through outer loop optimization
+- [CodingAgent](CodingAgent.md) — the type of agent evaluated by TerminalBench
+- [AgenticCoding](AgenticCoding.md) — the practice being benchmarked

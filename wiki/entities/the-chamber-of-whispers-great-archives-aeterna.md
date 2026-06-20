@@ -10,13 +10,13 @@ total_scenes: 58
 
 ## Overview
 
-** The Chamber of Whispers, Great Archives, Aeterna. appears in 9 scenes across the [[sariel-assiah]] campaign.
+** The Chamber of Whispers, Great Archives, Aeterna. appears in 9 scenes across the [sariel-assiah](../sources/sariel-assiah.md) campaign.
 
 ## Description
 
 ** The Chamber of Whispers, Great Archives, Aeterna. is an entity from the sariel-assiah campaign.
 
 ## References
-- [[sariel-assiah]] — campaign overview
-- [[sariel-assiah-campaign]]
+- [sariel-assiah](../sources/sariel-assiah.md) — campaign overview
+- [sariel-assiah-campaign](../sources/sariel-assiah-campaign.md)
 

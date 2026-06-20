@@ -16,7 +16,7 @@ A user-facing counter that displays the current scene number to players. In Open
 - Approximate relationship: user_scene_number ≈ turn_number / 2
 
 ## Related Concepts
-- [[TurnCounter]] - Internal counter for all story entries
+- [TurnCounter](TurnCounter.md) - Internal counter for all story entries
 - [[SequenceID]] - Absolute position in story array
 - [[StoryEntry]] - Individual entries in story history
 

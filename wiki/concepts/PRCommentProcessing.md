@@ -10,9 +10,9 @@ last_updated: 2026-04-07
 Systematic workflow for processing PR comments to prevent the common bug where comments are silently missed while claiming 100% coverage. Uses a 3-step process: fetch, analyze/fix, and post responses.
 
 ## Process Steps
-1. **Fetch** — Use [[CommentFetch]] to gather all PR comments with metadata
+1. **Fetch** — Use [CommentFetch](../entities/CommentFetch.md) to gather all PR comments with metadata
 2. **Analyze & Fix** — Claude reads comments, implements fixes, generates technical responses
-3. **Post** — Use [[CommentReply]] to post responses via GitHub API with proper [[CommentThreading]]
+3. **Post** — Use [CommentReply](../entities/CommentReply.md) to post responses via GitHub API with proper [CommentThreading](CommentThreading.md)
 
 ## Anti-Bug Mechanisms
 - Explicit coverage validation re-fetches comments after processing
@@ -21,5 +21,5 @@ Systematic workflow for processing PR comments to prevent the common bug where c
 - Atomic operations ensure clear error reporting on failure
 
 ## Related Concepts
-- [[CommentThreading]] — GitHub API threading concept
+- [CommentThreading](CommentThreading.md) — GitHub API threading concept
 - [[ShellInjectionPrevention]] — security feature in the workflow

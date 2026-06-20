@@ -11,7 +11,7 @@ last_updated: 2026-04-12
 
 ## Key Details
 - **Category:** Theme
-- **Campaign(s):** [[nocturne-bg3-v4]], [[nocturne-bg3-v5]], [[nocturne-bg3-v5-fixed-v2]]
+- **Campaign(s):** [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md), [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md), [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md)
 
 ## Thematic Elements
 - **730 Days of Endurance:** Nocturne survived 2 years as the "Black Diamond" while planning revenge
@@ -20,15 +20,15 @@ last_updated: 2026-04-12
 - **Queen in Exile:** Self-identification as exiled royalty awaiting restoration
 
 ## Related Concepts
-- [[NocturneSosuke]] — embodies the Long Defeat
-- [[CassalanterFamily]] — the oppressors being endured
-- [[BloomShadow]] — the prison of the Long Defeat
-- [[SovereignHub]] — the eventual triumph and transformation
+- [NocturneSosuke](../entities/NocturneSosuke.md) — embodies the Long Defeat
+- [CassalanterFamily](../entities/CassalanterFamily.md) — the oppressors being endured
+- [BloomShadow](../entities/BloomShadow.md) — the prison of the Long Defeat
+- [SovereignHub](SovereignHub.md) — the eventual triumph and transformation
 
 ## Related Entities
-- [[HorgusGwent]] — the "wallet" that unknowingly funds the Long Defeat
+- [HorgusGwent](../entities/HorgusGwent.md) — the "wallet" that unknowingly funds the Long Defeat
 - [[MadamZylra]] — jailer of the Long Defeat
 
 ## Appearances
-- [[nocturne-bg3-v4]] — explicit framing, 730 days of endurance
-- [[nocturne-bg3-v5]] — "The Long Defeat is over" quoted in Scene 1
+- [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md) — explicit framing, 730 days of endurance
+- [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md) — "The Long Defeat is over" quoted in Scene 1

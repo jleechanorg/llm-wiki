@@ -10,13 +10,13 @@ total_scenes: 1027
 
 ## Overview
 
-** Athkatla - Shadow Council Spire Inner Sanctum appears in 41 scenes across the [[nocturne-bg3-after]] campaign.
+** Athkatla - Shadow Council Spire Inner Sanctum appears in 41 scenes across the [nocturne-bg3-after](../sources/nocturne-bg3-after.md) campaign.
 
 ## Description
 
 ** Athkatla - Shadow Council Spire Inner Sanctum is an entity from the nocturne-bg3-after campaign.
 
 ## References
-- [[nocturne-bg3-after]] — campaign overview
-- [[nocturne-bg3-after-campaign]]
+- [nocturne-bg3-after](../sources/nocturne-bg3-after.md) — campaign overview
+- [nocturne-bg3-after-campaign](../sources/nocturne-bg3-after-campaign.md)
 

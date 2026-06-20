@@ -10,7 +10,7 @@ last_updated: 2026-04-08
 Software architecture pattern where a single business logic layer serves multiple interface layers (e.g., REST API, MCP tools, CLI). Centralizes core functionality while exposing multiple access points.
 
 ## Application
-In WorldArchitect.AI, the [[UnifiedApiPy]] module serves both [[Flask]] routes and [[MCPServer]] tools, eliminating duplicated business logic.
+In WorldArchitect.AI, the [UnifiedApiPy](../entities/UnifiedApiPy.md) module serves both [Flask](Flask.md) routes and [MCPServer](../entities/MCPServer.md) tools, eliminating duplicated business logic.
 
 ## Benefits
 - Code reuse: business logic implemented once
@@ -19,6 +19,6 @@ In WorldArchitect.AI, the [[UnifiedApiPy]] module serves both [[Flask]] routes a
 - Testability: test business logic once
 
 ## Related Concepts
-- [[BusinessLogicExtraction]]
-- [[JSONSchemaStandardization]]
+- [BusinessLogicExtraction](BusinessLogicExtraction.md)
+- [JSONSchemaStandardization](JSONSchemaStandardization.md)
 - [[InterfaceSegregation]]

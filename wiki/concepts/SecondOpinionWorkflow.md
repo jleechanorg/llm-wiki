@@ -28,5 +28,5 @@ A quality assurance workflow that runs the same prompt through multiple AI model
 ## Related Concepts
 
 - [[Campaign Coherence]] — the property being validated
-- [[StructuredResponse]] — common output format requirement
-- [[JSONParsingFallback]] — handling model output variability
+- [StructuredResponse](StructuredResponse.md) — common output format requirement
+- [JSONParsingFallback](JSONParsingFallback.md) — handling model output variability

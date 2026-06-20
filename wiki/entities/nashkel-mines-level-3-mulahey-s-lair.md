@@ -10,13 +10,13 @@ total_scenes: 253
 
 ## Overview
 
-** Nashkel Mines, Level 3 (Mulahey's Lair) appears in 8 scenes across the [[bg1-nocturne]] campaign.
+** Nashkel Mines, Level 3 (Mulahey's Lair) appears in 8 scenes across the [bg1-nocturne](../sources/bg1-nocturne.md) campaign.
 
 ## Description
 
 ** Nashkel Mines, Level 3 (Mulahey's Lair) is an entity from the bg1-nocturne campaign.
 
 ## References
-- [[bg1-nocturne]] — campaign overview
-- [[bg1-nocturne-campaign]]
+- [bg1-nocturne](../sources/bg1-nocturne.md) — campaign overview
+- [bg1-nocturne-campaign](../sources/bg1-nocturne-campaign.md)
 

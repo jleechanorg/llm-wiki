@@ -11,24 +11,24 @@ The Sovereign Hub is the mechanical system in the V4 campaign representing Noctu
 
 ## Key Details
 - **Category:** GameMechanic / Power Structure
-- **Campaign(s):** [[nocturne-bg3-v4]]
+- **Campaign(s):** [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md)
 - **Level Range:** Level 11+ (Grand Duke) to Level 48 (Archdevil)
 
 ## Mechanical Elements
-- **Signatories:** 17 active signatories at Level 11 (from [[nocturne-bg3-v4-entry-600]])
+- **Signatories:** 17 active signatories at Level 11 (from [nocturne-bg3-v4-entry-600](../sources/nocturne-bg3-v4-entry-600.md))
 - **Personnel Tracking:** At Level 11, Nocturne commands 1,624 total personnel including Steel Watchers (100), 15 Level 9 'Sosuke Guard' Elites, 120 Elite Sosuke Specialists, 100 Elite Sosuke Rangers, 1,000 Private Soldiers, 25 Personal Strike Specialists, 185 Absolute Vanguard units, 79 Sosuke Support Specialists, and 25 Passive Prisoner Signatories
 - **Heartbeat Harvest:** Refinement of noble heartbeats into ledger entries through the Gilded Relay
 - **Static-Veil:** Planar masking system to suppress Divine Scrutiny (at 10/100 at Level 18)
 - **Sovereign Citadel Avernus:** Infernal seat of power at Level 48
 
 ## Related Concepts
-- [[SoulCoinEconomy]] — inherits and transforms the soul coin system
-- [[TheLongDefeat]] — the thematic arc leading to Sovereign power
-- [[GildedTether]] — thrall system supporting the Hub
-- [[SirensLeverage]] — social combat mechanic enabling power acquisition
+- [SoulCoinEconomy](SoulCoinEconomy.md) — inherits and transforms the soul coin system
+- [TheLongDefeat](TheLongDefeat.md) — the thematic arc leading to Sovereign power
+- [GildedTether](GildedTether.md) — thrall system supporting the Hub
+- [SirensLeverage](SirensLeverage.md) — social combat mechanic enabling power acquisition
 
 ## Related Entities
-- [[NocturneSosuke]] — builds and operates the Hub
+- [NocturneSosuke](../entities/NocturneSosuke.md) — builds and operates the Hub
 - [[HouseGwent]] — the political vehicle for power acquisition
-- [[GralhundVilla]] — annexed sanctum for Hub infrastructure
-- [[SovereignCitadelAvernus]] — the infernal seat
+- [GralhundVilla](../entities/GralhundVilla.md) — annexed sanctum for Hub infrastructure
+- [SovereignCitadelAvernus](../entities/SovereignCitadelAvernus.md) — the infernal seat

@@ -47,7 +47,7 @@ The terminal scene (179) shows Nocturne as Divine Rank 2 Demigod in the High Hal
 
 ## Connections
 
-- [[NocturneSosuke]] — the recurring Nocturne character archetype
+- [NocturneSosuke](NocturneSosuke.md) — the recurring Nocturne character archetype
 - [[TheShadowMonarch]] — campaign identity
 - [[HighHall]] — terminal location
 - [[ElderBrain]] — major faction in this run

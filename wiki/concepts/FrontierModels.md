@@ -15,7 +15,7 @@ Frontier Models refer to the latest generation of large language models from lea
 - Optimized for creative storytelling
 
 ## Related
-- [[OpenRouter]] — Distributes frontier models
+- [OpenRouter](../entities/OpenRouter.md) — Distributes frontier models
 - [[Llama]] — Meta's frontier model
-- [[Grok]] — xAI's frontier model
+- [Grok](../entities/Grok.md) — xAI's frontier model
 - [[GLM]] — Z-AI's frontier model

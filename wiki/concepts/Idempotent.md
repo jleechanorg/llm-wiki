@@ -16,5 +16,5 @@ A property of an operation where multiple identical requests have the same effec
 - Important for thread-safe code
 
 ## Connections
-- [[LazyLoading]] — _load_real_module should be idempotent
-- [[ThreadSafety]] — idempotent operations are easier to make thread-safe
+- [LazyLoading](LazyLoading.md) — _load_real_module should be idempotent
+- [ThreadSafety](ThreadSafety.md) — idempotent operations are easier to make thread-safe

@@ -16,15 +16,15 @@ Event sourcing for agents applies the event sourcing pattern (storing every stat
 ## Related Systems
 | System | Type | Relevance |
 |--------|------|-----------|
-| [[CXDB]] | Database | The canonical agent event sourcing implementation |
-| [[DurableExecution]] | Concept | Temporal's event sourcing model for workflow state |
-| [[HealerAgent]] | Agent | Reads event-sourced CXDB data to cluster failures |
+| [CXDB](CXDB.md) | Database | The canonical agent event sourcing implementation |
+| [DurableExecution](DurableExecution.md) | Concept | Temporal's event sourcing model for workflow state |
+| [HealerAgent](HealerAgent.md) | Agent | Reads event-sourced CXDB data to cluster failures |
 | [[Temporal]] | System | Traditional event sourcing for durable workflows |
 
 ## Connection to Attractor Pattern
 Event sourcing (via CXDB) is what makes the Attractor pattern's Healer possible. Without a complete event history, you can't cluster failures, diagnose root causes, or resume interrupted runs — all essential for autonomous dark factory operation.
 
 ## See Also
-- [[CXDB]]
-- [[DurableExecution]]
-- [[HealerAgent]]
+- [CXDB](CXDB.md)
+- [DurableExecution](DurableExecution.md)
+- [HealerAgent](HealerAgent.md)

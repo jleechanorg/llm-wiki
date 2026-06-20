@@ -18,6 +18,6 @@ The keyword parsing refactor ensures all character mode inputs use the same prom
 - **Content**: "Continue the story" instruction
 
 ## Related Concepts
-- [[KeywordDetection]] — the pattern this replaces
+- [KeywordDetection](KeywordDetection.md) — the pattern this replaces
 - [[SystemInstructions]] — LLM guidance for intent interpretation
-- [[CharacterMode]] — one of the prompt modes
+- [CharacterMode](CharacterMode.md) — one of the prompt modes

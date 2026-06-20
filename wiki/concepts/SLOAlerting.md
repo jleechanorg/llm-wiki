@@ -11,4 +11,4 @@ Service Level Objective alerting in the webhook pipeline. Alerts trigger when di
 
 ## Connections
 - Implemented by [[WebhookPipelineOperatorRunbook]] via check_slo_alerts
-- Related to [[E2ETesting]] for verifying pipeline health
+- Related to [E2ETesting](E2ETesting.md) for verifying pipeline health

@@ -19,7 +19,7 @@ Members of the Argent Eaglets undergo rigorous training in both combat and polit
 - **Ser Arion val Valerion** — current member of the order
 
 ## Connections
-- [[dragon-knight-evil-campaign]] — source campaign
-- [[SilentThrone]] — their sovereign
-- [[EmpressSariel]] — the ruler they serve
-- [[SerArionValerion]] — notable member
+- [dragon-knight-evil-campaign](../sources/dragon-knight-evil-campaign.md) — source campaign
+- [SilentThrone](SilentThrone.md) — their sovereign
+- [EmpressSariel](EmpressSariel.md) — the ruler they serve
+- [SerArionValerion](SerArionValerion.md) — notable member

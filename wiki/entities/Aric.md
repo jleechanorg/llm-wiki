@@ -6,7 +6,7 @@ last_updated: 2026-02-22
 sources: ["2026-02-17-openclaw-e2e-test", "2026-02-18-openclaw-e2e-test", "2026-02-22-current-session"]
 ---
 
-Test character in [[OpenClaw]], Level 1 Fighter.
+Test character in [OpenClaw](OpenClaw.md), Level 1 Fighter.
 
 ## Character Details
 - Class: Fighter

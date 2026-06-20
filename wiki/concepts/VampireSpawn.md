@@ -25,7 +25,7 @@ Vampire Spawn are the thralls of true vampires, bound to serve until they either
 Astarion is a Vampire Spawn created by Cazador Szarr. Unlike most spawn, he never fed on sentient blood during his 200 years of servitude, maintaining some measure of his former self. The BG3 campaign follows his journey toward freedom from Cazador's potential return.
 
 ## Connections
-- [[AstarionAncunin]] — the player character
-- [[bg3-astarion-campaign]] — source campaign
-- [[CazadorSzarr]] — his creator/master
+- [AstarionAncunin](../entities/AstarionAncunin.md) — the player character
+- [bg3-astarion-campaign](../sources/bg3-astarion-campaign.md) — source campaign
+- [CazadorSzarr](../entities/CazadorSzarr.md) — his creator/master
 - [[Vampire]] — true vampire (parent type)

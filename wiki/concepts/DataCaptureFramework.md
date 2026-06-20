@@ -28,6 +28,6 @@ A testing infrastructure that transparently records real service interactions (F
 4. Analyze service performance patterns
 
 ## Related Concepts
-- [[MockValidation]] — comparing captured data against mock responses
-- [[ServiceInteractionRecording]] — capturing Firestore/Gemini/Auth operations
-- [[RealModeTesting]] — testing framework mode using real services with capture
+- [MockValidation](MockValidation.md) — comparing captured data against mock responses
+- [ServiceInteractionRecording](ServiceInteractionRecording.md) — capturing Firestore/Gemini/Auth operations
+- [RealModeTesting](RealModeTesting.md) — testing framework mode using real services with capture

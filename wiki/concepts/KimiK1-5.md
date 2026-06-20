@@ -26,5 +26,5 @@ Distilling long-CoT reasoning quality into short-CoT models:
 ## Connections
 
 - Evidence for RLVR (Reinforcement Learning with Verifiable Rewards)
-- Related to [[RefineRL]] — RL-based refinement
+- Related to [RefineRL](RefineRL.md) — RL-based refinement
 - Long context scaling relevant to [[DeepSeek-Coder-V2]] approach

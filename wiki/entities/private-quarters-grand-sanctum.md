@@ -10,13 +10,13 @@ total_scenes: 1207
 
 ## Overview
 
-** Private Quarters, Grand Sanctum appears in 4 scenes across the [[nocturne-bg3-v4]] campaign.
+** Private Quarters, Grand Sanctum appears in 4 scenes across the [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md) campaign.
 
 ## Description
 
 ** Private Quarters, Grand Sanctum is an entity from the nocturne-bg3-v4 campaign.
 
 ## References
-- [[nocturne-bg3-v4]] — campaign overview
-- [[nocturne-bg3-v4-campaign]]
+- [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md) — campaign overview
+- [nocturne-bg3-v4-campaign](../sources/nocturne-bg3-v4-campaign.md)
 

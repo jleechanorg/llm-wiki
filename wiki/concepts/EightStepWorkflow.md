@@ -35,7 +35,7 @@ Telegram notification: "PR #341 ready for review." 5-10 min review, often merge 
 Daily cron cleans up orphaned worktrees and task registry
 
 ## Connections
-- [[ZOE]] — orchestrator for steps 1-3, 7
+- [ZOE](../entities/ZOE.md) — orchestrator for steps 1-3, 7
 - [[AgentSpawning]] — step 2
 - [[CronMonitoring]] — step 3
 - [[AutomatedCodeReview]] — step 5

@@ -29,4 +29,4 @@ serialized = json_default_serializer(obj)
 
 ## Related Concepts
 - [[JSON Serialization]]
-- [[NarrativeResponse]]
+- [NarrativeResponse](NarrativeResponse.md)

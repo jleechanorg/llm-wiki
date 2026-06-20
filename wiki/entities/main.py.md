@@ -6,7 +6,7 @@ sources: ["input-field-translation-validation-tests"]
 last_updated: 2026-04-08
 ---
 
-Flask application entry point that handles HTTP request translation between frontend and MCP protocol. Acts as the translation layer that converts frontend field names (`input`) to MCP field names (`user_input`) before forwarding to [[world_logic.py]].
+Flask application entry point that handles HTTP request translation between frontend and MCP protocol. Acts as the translation layer that converts frontend field names (`input`) to MCP field names (`user_input`) before forwarding to [world_logic.py](world_logic.py.md).
 
 ## Key Responsibilities
 - Extract user input from frontend requests via `data.get("input")`

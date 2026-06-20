@@ -16,4 +16,4 @@ Multi-layer caching approaches to reduce latency and backend load. Covers CDN ca
 - Event-driven invalidation
 
 ## Connections
-- [[GitHubStadium]] — Redis pub/sub for real-time caching
+- [GitHubStadium](../entities/GitHubStadium.md) — Redis pub/sub for real-time caching

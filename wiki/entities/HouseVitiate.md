@@ -13,7 +13,7 @@ House Vitiate is the ruling noble house of the Sith Empire, led by Emperor Vitia
 Nocturne serves as "Siren" of this house, a position of honor and danger within the dynasty. The house's goals center on Project Apotheosis and the Golden Lineage continuation.
 
 ## Connections
-- [[NocturneOldRepublic]] — Member
+- [NocturneOldRepublic](NocturneOldRepublic.md) — Member
 - [[EmperorVitiate]] — House lord
 - [[SithEmpire]] — Ruling faction
-- [[ProjectApotheosis]] — House project
+- [ProjectApotheosis](../concepts/ProjectApotheosis.md) — House project

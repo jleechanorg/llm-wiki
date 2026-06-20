@@ -30,5 +30,5 @@ for entry in story_context:
 
 ## Related Concepts
 - [[FirestoreDataHandling]] — handling NoSQL document storage
-- [[ContextCompaction]] — budget allocation for LLM context
-- [[DefensiveProgramming]] — programming philosophy
+- [ContextCompaction](ContextCompaction.md) — budget allocation for LLM context
+- [DefensiveProgramming](DefensiveProgramming.md) — programming philosophy

@@ -10,13 +10,13 @@ total_scenes: 291
 
 ## Overview
 
-** Oldwalls - Eastern Breach appears in 8 scenes across the [[tyranny]] campaign.
+** Oldwalls - Eastern Breach appears in 8 scenes across the [tyranny](../sources/tyranny.md) campaign.
 
 ## Description
 
 ** Oldwalls - Eastern Breach is an entity from the tyranny campaign.
 
 ## References
-- [[tyranny]] — campaign overview
-- [[tyranny-campaign]]
+- [tyranny](../sources/tyranny.md) — campaign overview
+- [tyranny-campaign](../sources/tyranny-campaign.md)
 

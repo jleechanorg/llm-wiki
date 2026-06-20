@@ -10,13 +10,13 @@ total_scenes: 474
 
 ## Overview
 
-** House of Batiatus - Upper Gallery appears in 5 scenes across the [[rome-pax-julia]] campaign.
+** House of Batiatus - Upper Gallery appears in 5 scenes across the [rome-pax-julia](../sources/rome-pax-julia.md) campaign.
 
 ## Description
 
 ** House of Batiatus - Upper Gallery is an entity from the rome-pax-julia campaign.
 
 ## References
-- [[rome-pax-julia]] — campaign overview
-- [[rome-pax-julia-campaign]]
+- [rome-pax-julia](../sources/rome-pax-julia.md) — campaign overview
+- [rome-pax-julia-campaign](../sources/rome-pax-julia-campaign.md)
 

@@ -63,8 +63,8 @@ The pipeline generates the training signal; the oracle uses it to select techniq
 
 ## See Also
 
-- [[SelfRefine]] — technique
-- [[ExtendedThinking]] — technique
-- [[ProcessRewardModels]] — technique
-- [[PRRecreatePipeline]] — experiment methodology
-- [[AutoResearchLoop]] — the broader research loop
+- [SelfRefine](SelfRefine.md) — technique
+- [ExtendedThinking](ExtendedThinking.md) — technique
+- [ProcessRewardModels](ProcessRewardModels.md) — technique
+- [PRRecreatePipeline](PRRecreatePipeline.md) — experiment methodology
+- [AutoResearchLoop](AutoResearchLoop.md) — the broader research loop

@@ -10,13 +10,13 @@ total_scenes: 122
 
 ## Overview
 
-** Aboard the Nautiloid, Infernal Engine Room appears in 32 scenes across the [[bg3-astarion]] campaign.
+** Aboard the Nautiloid, Infernal Engine Room appears in 32 scenes across the [bg3-astarion](../sources/bg3-astarion.md) campaign.
 
 ## Description
 
 ** Aboard the Nautiloid, Infernal Engine Room is an entity from the bg3-astarion campaign.
 
 ## References
-- [[bg3-astarion]] — campaign overview
-- [[bg3-astarion-campaign]]
+- [bg3-astarion](../sources/bg3-astarion.md) — campaign overview
+- [bg3-astarion-campaign](../sources/bg3-astarion-campaign.md)
 

@@ -38,5 +38,5 @@ Which creates nested structure:
 ```
 
 ## Related
-- [[FirestoreService]] — parent module
-- [[DotNotationPathUpdates]] — concept being implemented
+- [FirestoreService](FirestoreService.md) — parent module
+- [DotNotationPathUpdates](../concepts/DotNotationPathUpdates.md) — concept being implemented

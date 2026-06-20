@@ -25,5 +25,5 @@ The six core ability scores used in D&D 5E character creation and mechanics.
 - **Validation**: Defensive integer handling for robustness
 
 ## Related Concepts
-- [[ProficiencyBonus]] — Derived from level
-- [[HealthStatus]] — HP based on CON modifier
+- [ProficiencyBonus](ProficiencyBonus.md) — Derived from level
+- [HealthStatus](HealthStatus.md) — HP based on CON modifier

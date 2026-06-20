@@ -18,6 +18,6 @@ Modernization of standard button components with gradient backgrounds, shadow ef
 
 ## Connections
 - [[EnhancedComponentsCSS]] — defines enhanced button styles
-- [[Bootstrap]] — base button framework being enhanced
-- [[RippleEffect]] — click feedback mechanism
-- [[LoadingState]] — processing state indicator
+- [Bootstrap](../entities/Bootstrap.md) — base button framework being enhanced
+- [RippleEffect](RippleEffect.md) — click feedback mechanism
+- [LoadingState](LoadingState.md) — processing state indicator

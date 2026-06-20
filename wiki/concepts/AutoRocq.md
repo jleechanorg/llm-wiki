@@ -20,6 +20,6 @@ LLM Agent → Rocq Prover → Feedback → LLM Agent → ...
 
 ## Connections
 
-- Related to [[CompilerVerification]] — CompCert, CakeML proofs
-- [[SelfDebugging]] — extends self-correction to correctness
-- [[AgentMentor]] — execution feedback for improvement
+- Related to [CompilerVerification](CompilerVerification.md) — CompCert, CakeML proofs
+- [SelfDebugging](SelfDebugging.md) — extends self-correction to correctness
+- [AgentMentor](AgentMentor.md) — execution feedback for improvement

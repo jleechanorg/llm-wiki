@@ -19,6 +19,6 @@ Exception raised when field validation fails in LLMRequest. Indicates invalid in
 - String exceeding MAX_STRING_LENGTH
 
 ## Related Concepts
-- [[LLMRequest]] — class that raises this error
-- [[PayloadTooLargeError]] — related exception for size limits
+- [LLMRequest](LLMRequest.md) — class that raises this error
+- [PayloadTooLargeError](PayloadTooLargeError.md) — related exception for size limits
 - [[Type Safety]] — concept being enforced

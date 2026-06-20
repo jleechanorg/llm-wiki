@@ -14,4 +14,4 @@ Imported via `from scripts.cache_busting import DEFAULT_HASH_LENGTH, apply_cache
 
 ## Connections
 - [[FlaskAppImportEndpointTests]] — imports CACHE_BUST_HASH_LENGTH
-- [[MVPSiteMain]] — integrates cache busting for static assets
+- [MVPSiteMain](MVPSiteMain.md) — integrates cache busting for static assets

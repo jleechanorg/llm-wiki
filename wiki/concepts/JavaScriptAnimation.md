@@ -23,5 +23,5 @@ DOMContentLoaded event initializes animations
 
 ## Related
 
-- [[CSSAnimations]] — CSS-based animation techniques
+- [CSSAnimations](CSSAnimations.md) — CSS-based animation techniques
 - [[StreamingClientForRealTimeLLMResponses]] — real-time content updates that may benefit from animations

@@ -18,6 +18,6 @@ Post-War Reconstruction is the central theme of the Nocturne Post BG3 Zhent camp
 The campaign uses this theme to explore noir elements — moral ambiguity, opportunistic crime, and survival in a city that "won" the war but still suffers.
 
 ## Connections
-- [[NocturnePostBg3Zhent]] — Protagonist
-- [[TheGuild]] — Exploiting faction
-- [[Zhentarim]] — Expanding faction
+- [NocturnePostBg3Zhent](../entities/NocturnePostBg3Zhent.md) — Protagonist
+- [TheGuild](../entities/TheGuild.md) — Exploiting faction
+- [Zhentarim](../entities/Zhentarim.md) — Expanding faction

@@ -10,13 +10,13 @@ total_scenes: 283
 
 ## Overview
 
-** Sacred Grove Sanctuary appears in 7 scenes across the [[aurelius-caesar-v2]] campaign.
+** Sacred Grove Sanctuary appears in 7 scenes across the [aurelius-caesar-v2](../sources/aurelius-caesar-v2.md) campaign.
 
 ## Description
 
 ** Sacred Grove Sanctuary is an entity from the aurelius-caesar-v2 campaign.
 
 ## References
-- [[aurelius-caesar-v2]] — campaign overview
-- [[aurelius-caesar-v2-campaign]]
+- [aurelius-caesar-v2](../sources/aurelius-caesar-v2.md) — campaign overview
+- [aurelius-caesar-v2-campaign](../sources/aurelius-caesar-v2-campaign.md)
 

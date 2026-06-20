@@ -15,4 +15,4 @@ EntityValidator is a class in `mvp_site` that validates expected entities are pr
 - Returns missing entities list and retry flag
 
 ## Related
-- [[EntityValidation]] — the concept being validated
+- [EntityValidation](../concepts/EntityValidation.md) — the concept being validated

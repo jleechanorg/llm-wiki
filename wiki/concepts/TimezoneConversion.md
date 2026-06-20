@@ -16,5 +16,5 @@ The world_time module converts timestamps with explicit timezone offsets (e.g., 
 "2026-12-01T08:00:00+02:00" converts to "2026-12-01T06:00:00Z" (08:00 - 02:00 = 06:00 UTC)
 
 ## Connected Entities
-- [[ISO8601]] — format that includes timezone information
+- [ISO8601](ISO8601.md) — format that includes timezone information
 - [[WorldTimeModule]] — performs timezone conversion

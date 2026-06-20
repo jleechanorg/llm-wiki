@@ -10,13 +10,13 @@ total_scenes: 204
 
 ## Overview
 
-** FBI Cheyenne Field Office - Interrogation Suite appears in 5 scenes across the [[hunting-party-sariel-v2]] campaign.
+** FBI Cheyenne Field Office - Interrogation Suite appears in 5 scenes across the [hunting-party-sariel-v2](../sources/hunting-party-sariel-v2.md) campaign.
 
 ## Description
 
 ** FBI Cheyenne Field Office - Interrogation Suite is an entity from the hunting-party-sariel-v2 campaign.
 
 ## References
-- [[hunting-party-sariel-v2]] — campaign overview
-- [[hunting-party-sariel-v2-campaign]]
+- [hunting-party-sariel-v2](../sources/hunting-party-sariel-v2.md) — campaign overview
+- [hunting-party-sariel-v2-campaign](../sources/hunting-party-sariel-v2-campaign.md)
 

@@ -17,7 +17,7 @@ MLCommons is an industry consortium running AI safety preparedness benchmarks. T
 
 ## Connections
 
-- [[AgentBench]] — MLCommons-related benchmark (AgentBench uses similar evaluation approach)
+- [AgentBench](AgentBench.md) — MLCommons-related benchmark (AgentBench uses similar evaluation approach)
 - [[LLMEvaluation]] — MLCommons benchmarks for AI safety evaluation
 
 ## See Also

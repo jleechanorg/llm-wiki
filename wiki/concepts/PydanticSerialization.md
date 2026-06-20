@@ -18,5 +18,5 @@ Pydantic serialization is the process of converting Pydantic BaseModel objects t
 The LLMResponse.to_dict() method uses model_dump(mode="json") to ensure structured_response containing Pydantic models is properly serialized for API responses.
 
 ## Related Concepts
-- [[JSONSerialization]] — JSON encoding after dict conversion
-- [[LLMResponse]] — class using Pydantic serialization
+- [JSONSerialization](JSONSerialization.md) — JSON encoding after dict conversion
+- [LLMResponse](LLMResponse.md) — class using Pydantic serialization

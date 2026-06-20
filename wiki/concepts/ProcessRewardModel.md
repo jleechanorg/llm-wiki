@@ -8,7 +8,7 @@ last_updated: 2026-04-15
 
 ## Summary
 
-Process Reward Model (PRM) breaks fix generation into step-level evaluation, scoring each step 1-10 before proceeding. Unlike [[SelfRefine]] which critiques the full output, PRM guides generation by rewarding individual steps — catching misdiagnosis early before wasting compute on wrong approaches.
+Process Reward Model (PRM) breaks fix generation into step-level evaluation, scoring each step 1-10 before proceeding. Unlike [SelfRefine](SelfRefine.md) which critiques the full output, PRM guides generation by rewarding individual steps — catching misdiagnosis early before wasting compute on wrong approaches.
 
 ## How It Works
 
@@ -57,7 +57,7 @@ Requires good step decomposition. For poorly-understood bugs, scoring steps is a
 
 ## Comparison with Other Techniques
 
-| Aspect | PRM | [[SelfRefine]] | [[ExtendedThinking]] | [[SWE-bench]] |
+| Aspect | PRM | [SelfRefine](SelfRefine.md) | [ExtendedThinking](ExtendedThinking.md) | [SWE-bench](SWE-bench.md) |
 |--------|-----|----------------|---------------------|--------------|
 | Granularity | Step-level | Full output | Full reasoning | Test-level |
 | Feedback timing | During generation | After generation | Before generation | After test |
@@ -79,8 +79,8 @@ Requires good step decomposition. For poorly-understood bugs, scoring steps is a
 
 ## Related Concepts
 
-- [[SelfRefine]] — iterative refinement after full output — PRM is more granular
-- [[ExtendedThinking]] — pre-hoc reasoning without step rewards
-- [[ChainOfThought]] — reasoning traces without process rewards
-- [[BeamSearchOverReasoning]] — PRM-guided search over reasoning paths
-- [[SelfCritique]] — PRM step feedback resembles critique, but during generation not after
+- [SelfRefine](SelfRefine.md) — iterative refinement after full output — PRM is more granular
+- [ExtendedThinking](ExtendedThinking.md) — pre-hoc reasoning without step rewards
+- [ChainOfThought](ChainOfThought.md) — reasoning traces without process rewards
+- [BeamSearchOverReasoning](BeamSearchOverReasoning.md) — PRM-guided search over reasoning paths
+- [SelfCritique](SelfCritique.md) — PRM step feedback resembles critique, but during generation not after

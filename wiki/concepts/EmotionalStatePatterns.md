@@ -19,6 +19,6 @@ Dictionary in NarrativeSyncValidator mapping emotional states to keyword pattern
 Enables narrative generation systems to detect and track character emotional states, supporting more emotionally consistent storytelling and enabling emotional arcs to develop naturally.
 
 ## Related Concepts
-- [[EntityContext]] — stores emotional_state field
-- [[NarrativeSyncValidator]] — maintains the patterns dictionary
-- [[DialogAgent]] — uses emotional tracking for narrative consistency
+- [EntityContext](EntityContext.md) — stores emotional_state field
+- [NarrativeSyncValidator](NarrativeSyncValidator.md) — maintains the patterns dictionary
+- [DialogAgent](../entities/DialogAgent.md) — uses emotional tracking for narrative consistency

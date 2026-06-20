@@ -13,6 +13,6 @@ The layer of an application responsible for reading from and writing to persiste
 `NumericFieldConverter` is designed specifically for Firestore data layer operations where simple type conversion is needed without smart defaults or complex fallbacks.
 
 ## Related Concepts
-- [[Firestore]] — Google Cloud Firestore NoSQL database
+- [Firestore](Firestore.md) — Google Cloud Firestore NoSQL database
 - [[Document Schema]] — structured data in Firestore collections
 - [[Type Coercion]] — converting string values from JSON to proper types

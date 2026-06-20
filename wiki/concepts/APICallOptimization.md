@@ -23,5 +23,5 @@ Reducing the number of API calls in test files through consolidation while maint
 -limiting interaction count for fast tests
 
 ## Connections
-- [[TestSarielConsolidated]] — implementation
+- [TestSarielConsolidated](../entities/TestSarielConsolidated.md) — implementation
 - [[SarielTestSuiteConsolidation]] — prior work

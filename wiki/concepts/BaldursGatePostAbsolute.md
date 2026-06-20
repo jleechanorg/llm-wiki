@@ -10,8 +10,8 @@ last_updated: 2026-04-12
 Baldur's Gate Post-Absolute refers to the setting of Baldur's Gate shortly after the events of Baldur's Gate 3, when the Absolute cult has been defeated and the city is in a state of recovery. The year is 1492 DR, and while heroes celebrated in the upper reaches of the city, the economic ripples of the conflict devastated many noble houses whose investments were tied to now-ruined trade routes and devastated estates.
 
 ## How It Appears in the Campaigns
-- [[nocturne-apex-paladin-campaign]]: The campaign uses this setting; the city is in flux after the Absolute crisis, creating a perfect environment for an ambitious individual to rise
-- [[nocturne-bg3-after-campaign]]: Set in 1492 DR, the city still bears scars from the Netherbrain crisis
+- [nocturne-apex-paladin-campaign](../sources/nocturne-apex-paladin-campaign.md): The campaign uses this setting; the city is in flux after the Absolute crisis, creating a perfect environment for an ambitious individual to rise
+- [nocturne-bg3-after-campaign](../sources/nocturne-bg3-after-campaign.md): Set in 1492 DR, the city still bears scars from the Netherbrain crisis
 
 ## Key Characteristics
 - Economic devastation: Many noble houses collapsed during the conflict
@@ -20,6 +20,6 @@ Baldur's Gate Post-Absolute refers to the setting of Baldur's Gate shortly after
 - Lower City focus: Establishments like The Bloom & Shadow thrive as people seek distraction
 
 ## Connections
-- [[NocturneApexPaladin]] — character navigating this setting
-- [[HouseValerius]] — example of a fallen noble house
-- [[nocturne-bg3-after-campaign]] — another campaign in this setting
+- [NocturneApexPaladin](../entities/NocturneApexPaladin.md) — character navigating this setting
+- [HouseValerius](../entities/HouseValerius.md) — example of a fallen noble house
+- [nocturne-bg3-after-campaign](../sources/nocturne-bg3-after-campaign.md) — another campaign in this setting

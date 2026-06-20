@@ -18,10 +18,10 @@ Mode Detection in WorldArchitect is the mechanism for identifying the type of in
 Mode detection operates at the input parsing stage, before the LLM is invoked. This allows the correct agent to be selected early in the request pipeline, ensuring appropriate system instructions are built from the start.
 
 ## Related Concepts
-- [[AgentSelection]] — uses mode detection for routing
-- [[GodModeAgent]] — activated by mode detection
-- [[SpicyModeAgent]] — activated by mode detection
-- [[StoryModeAgent]] — default mode when no detection matches
+- [AgentSelection](AgentSelection.md) — uses mode detection for routing
+- [GodModeAgent](../entities/GodModeAgent.md) — activated by mode detection
+- [SpicyModeAgent](../entities/SpicyModeAgent.md) — activated by mode detection
+- [StoryModeAgent](../entities/StoryModeAgent.md) — default mode when no detection matches
 
 ## Source References
 - [[Agent Architecture End-to-End Integration Test]] — validates end-to-end mode detection

@@ -10,13 +10,13 @@ total_scenes: 685
 
 ## Overview
 
-** 1127 Riverside Drive, Warehouse District appears in 11 scenes across the [[sariel-killer]] campaign.
+** 1127 Riverside Drive, Warehouse District appears in 11 scenes across the [sariel-killer](../sources/sariel-killer.md) campaign.
 
 ## Description
 
 ** 1127 Riverside Drive, Warehouse District is an entity from the sariel-killer campaign.
 
 ## References
-- [[sariel-killer]] — campaign overview
-- [[sariel-killer-campaign]]
+- [sariel-killer](../sources/sariel-killer.md) — campaign overview
+- [sariel-killer-campaign](../sources/sariel-killer-campaign.md)
 

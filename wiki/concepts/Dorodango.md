@@ -16,14 +16,14 @@ Dorodango is the Japanese art of polishing a ball of mud into a high-gloss spher
 ## Related Systems
 | System | Type | Relevance |
 |--------|------|-----------|
-| [[JesseVincent]] | Person | Coined the dorodango framing |
-| [[AttractorPattern]] | Pattern | Dorodango is the key mental model |
-| [[DOTAsArtifact]] | Pattern | DOT files are the spec; code is dorodango |
+| [JesseVincent](../entities/JesseVincent.md) | Person | Coined the dorodango framing |
+| [AttractorPattern](AttractorPattern.md) | Pattern | Dorodango is the key mental model |
+| [DOTAsArtifact](DOTAsArtifact.md) | Pattern | DOT files are the spec; code is dorodango |
 
 ## Connection to Attractor Pattern
 Dorodango is the economic foundation of the Attractor pattern. If code is disposable and specs are durable, then: (1) you can build multiple implementations cheaply, (2) convergence proves the spec is an attractor, (3) the pipeline .dot files are the product, not the runner code.
 
 ## See Also
-- [[JesseVincent]]
-- [[AttractorPattern]]
-- [[DOTAsArtifact]]
+- [JesseVincent](../entities/JesseVincent.md)
+- [AttractorPattern](AttractorPattern.md)
+- [DOTAsArtifact](DOTAsArtifact.md)

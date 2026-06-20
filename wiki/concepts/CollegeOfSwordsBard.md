@@ -8,7 +8,7 @@ last_updated: 2026-04-12
 
 ## Overview
 
-The College of Swords is a Bard subclass in D&D 5e that serves as [[Nocturne]]'s mechanical framework in the [[Tyranny Campaign]]. It reimages the Bard as a magical warrior using performance to enhance combat—flavored as Nocturne reciting mathematical proofs that force reality to correct itself.
+The College of Swords is a Bard subclass in D&D 5e that serves as [Nocturne](../entities/Nocturne.md)'s mechanical framework in the [[Tyranny Campaign]]. It reimages the Bard as a magical warrior using performance to enhance combat—flavored as Nocturne reciting mathematical proofs that force reality to correct itself.
 
 ## Mechanical Framework
 
@@ -20,7 +20,7 @@ Nocturne is mechanically a College of Swords Bard but thematically a Wizard of t
 
 ## Connections
 
-- [[Nocturne]] — The College of Swords Bard in the Tyranny campaign
+- [Nocturne](../entities/Nocturne.md) — The College of Swords Bard in the Tyranny campaign
 - [[Discordia]] — Nocturne's blade focus
 - [[Tyranny Campaign]] — Where this class appears
 
@@ -40,10 +40,10 @@ Gaia Julia is a Level 4 College of Swords Bard. This subclass fits her "Glass Ca
 
 ## Connections
 
-- [[GaiaJuliaCaesar]] — Wielder
+- [GaiaJuliaCaesar](../entities/GaiaJuliaCaesar.md) — Wielder
 - [[GaiaJuliaV6Campaign]] — Campaign
-- [[SarielDoberman]] — Wielder in doberman campaign
-- [[doberman-campaign]] — source campaign
+- [SarielDoberman](../entities/SarielDoberman.md) — Wielder in doberman campaign
+- [doberman-campaign](../sources/doberman-campaign.md) — source campaign
 - [[Bard]] — Base class
-- [[GlassCannon]] — Character archetype
-- [[CollegeOfSwords]] — Subclass
+- [GlassCannon](GlassCannon.md) — Character archetype
+- [CollegeOfSwords](CollegeOfSwords.md) — Subclass

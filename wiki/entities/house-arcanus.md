@@ -10,13 +10,13 @@ total_scenes: 252
 
 ## Overview
 
-House Arcanus appears in 20 scenes across the [[sariel-v2]] campaign.
+House Arcanus appears in 20 scenes across the [sariel-v2](../sources/sariel-v2.md) campaign.
 
 ## Description
 
 House Arcanus is an entity from the sariel-v2 campaign.
 
 ## References
-- [[sariel-v2]] — campaign overview
-- [[sariel-v2-campaign]]
+- [sariel-v2](../sources/sariel-v2.md) — campaign overview
+- [sariel-v2-campaign](../sources/sariel-v2-campaign.md)
 

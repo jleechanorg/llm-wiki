@@ -12,6 +12,6 @@ A faction-based minigame system within the campaign framework. The faction_minig
 - Data wrapper: `game_state.data.game_state.custom_campaign_state.faction_minigame`
 
 ## Related Concepts
-- [[FactionStateUtil]] — utility module for accessing faction minigame state
+- [FactionStateUtil](../entities/FactionStateUtil.md) — utility module for accessing faction minigame state
 - [[FactionSettingsPersistence]] — settings system that persists faction minigame preferences
 - [[FactionRankingCalculation]] — ranking system that calculates faction combat power

@@ -16,6 +16,6 @@ Pattern where invalid or unknown input values are converted to safe defaults rat
 - **HP Clamping**: hp > hp_max → hp_max
 
 ## Related Concepts
-- [[PydanticValidation]] — underlying validation framework
+- [PydanticValidation](PydanticValidation.md) — underlying validation framework
 - [[Stats]] — entity using defensive conversion
-- [[HealthStatus]] — entity using defensive conversion
+- [HealthStatus](HealthStatus.md) — entity using defensive conversion

@@ -13,7 +13,7 @@ Winter-Mourn is a province in the world of Assiah, located on the edge of the Fr
 The province represents the frontier of Empress Sariel's Silent Peace — a region where the Stability Mandate is enforced but where the costs of that stability are visible in the refugees that Lady Annalise shelters.
 
 ## Connections
-- [[dragon-knight-evil-campaign]] — source campaign
-- [[AshwoodKeep]] — location in this province
-- [[FrostVeilForest]] — adjacent forest
-- [[SilentThrone]] — ruling authority
+- [dragon-knight-evil-campaign](../sources/dragon-knight-evil-campaign.md) — source campaign
+- [AshwoodKeep](AshwoodKeep.md) — location in this province
+- [FrostVeilForest](FrostVeilForest.md) — adjacent forest
+- [SilentThrone](SilentThrone.md) — ruling authority

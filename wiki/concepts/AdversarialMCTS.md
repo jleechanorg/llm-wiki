@@ -44,9 +44,9 @@ AdverMCTS is a form of adversarial self-refinement:
 
 ## Related Concepts
 
-- [[SelfRefine]] — general self-refinement framework
+- [SelfRefine](SelfRefine.md) — general self-refinement framework
 - [[MonteCarloTreeSearch]] — the core search algorithm
-- [[RefineRL]] — RL-based self-refinement for programming
-- [[ThinkTwice]] — joint reasoning + refinement
-- [[AdversarialTesting]] — adversarial evaluation methodology
+- [RefineRL](RefineRL.md) — RL-based self-refinement for programming
+- [ThinkTwice](ThinkTwice.md) — joint reasoning + refinement
+- [AdversarialTesting](AdversarialTesting.md) — adversarial evaluation methodology
 - [[PseudoCorrectness]] — the specific problem being solved

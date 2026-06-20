@@ -14,4 +14,4 @@ Feature that tracks the world's state across turns, including the turn number an
 - `last_living_world_time` — dict with day, hour, minute, second, microsecond, time_of_day, season
 
 ## Related Bug
-- [[REVa73]] — data loss bug where these fields were lost in serialization
+- [REVa73](../entities/REVa73.md) — data loss bug where these fields were lost in serialization

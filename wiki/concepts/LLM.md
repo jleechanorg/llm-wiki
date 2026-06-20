@@ -21,9 +21,9 @@ A Large Language Model (LLM) is an AI model trained on vast amounts of text data
 - Some offer larger context for long campaigns
 
 ## Related
-- [[Gemini]] — LLM with strong structured output
-- [[OpenRouter]] — Aggregates multiple LLMs
-- [[Cerebras]] — Low-latency LLM inference
+- [Gemini](../entities/Gemini.md) — LLM with strong structured output
+- [OpenRouter](../entities/OpenRouter.md) — Aggregates multiple LLMs
+- [Cerebras](../entities/Cerebras.md) — Low-latency LLM inference
 - [[Llama]] — Open-source LLM
 - [[GLM]] — LLM with large context
-- [[Grok]] — LLM with 2M context
+- [Grok](../entities/Grok.md) — LLM with 2M context

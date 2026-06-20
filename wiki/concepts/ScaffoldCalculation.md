@@ -27,6 +27,6 @@ narrative_budget = available_tokens - game_state_tokens
 The ENTITY_TRACKING_TOKEN_RESERVE is subtracted BEFORE narrative allocation, ensuring entity overhead never causes overflow.
 
 ## Related Concepts
-- [[EntityTrackingBudget]] — the reserved portion
+- [EntityTrackingBudget](EntityTrackingBudget.md) — the reserved portion
 - [[ContextBudgeting]] — overall token management
-- [[TokenEstimation]] — measurement method
+- [TokenEstimation](TokenEstimation.md) — measurement method

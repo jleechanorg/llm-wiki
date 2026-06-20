@@ -24,7 +24,7 @@ These five elite veterans operate as Gaia's personal guard and field operatives.
 
 ## Connections
 
-- [[GaiaJuliaCaesar]] — Their charge
+- [GaiaJuliaCaesar](GaiaJuliaCaesar.md) — Their charge
 - [[GaiaJuliaV6Campaign]] — Campaign
 - [[RomanEmpire]] — Their ultimate allegiance
-- [[SpartacusRevolt]] — Current mission context
+- [SpartacusRevolt](../concepts/SpartacusRevolt.md) — Current mission context

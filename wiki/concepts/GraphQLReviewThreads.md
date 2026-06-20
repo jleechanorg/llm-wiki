@@ -10,4 +10,4 @@ GitHub's GraphQL API provides access to `pullRequest.reviewThreads` which expose
 
 This is necessary for the unresolved-thread merge gate, which requires knowing whether review comments have been resolved before allowing merge.
 
-See: [[gh_integration.py]], [[GitHub]]
+See: [gh_integration.py](../entities/gh_integration.py.md), [GitHub](../entities/GitHub.md)

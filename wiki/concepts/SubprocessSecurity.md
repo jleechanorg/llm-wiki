@@ -22,5 +22,5 @@ Security tests should verify:
 - Malicious input cannot be injected
 
 ## Related
-- [[ShellInjection]]
-- [[GitCommands]]
+- [ShellInjection](ShellInjection.md)
+- [GitCommands](../entities/GitCommands.md)

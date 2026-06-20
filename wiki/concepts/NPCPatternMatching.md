@@ -18,6 +18,6 @@ Technique for extracting Non-Player Character (NPC) names from LLM prompt output
 - Filters out common words (and, or, the, a, an)
 
 ## Connections
-- [[Regex]] — underlying pattern technology
-- [[CharacterCreationAgent]] — consumes NPC extraction for character setup
-- [[Elena]], [[Marcus]], [[Gandalf]] — example extracted NPCs
+- [Regex](Regex.md) — underlying pattern technology
+- [CharacterCreationAgent](../entities/CharacterCreationAgent.md) — consumes NPC extraction for character setup
+- [Elena](../entities/Elena.md), [Marcus](../entities/Marcus.md), [Gandalf](../entities/Gandalf.md) — example extracted NPCs

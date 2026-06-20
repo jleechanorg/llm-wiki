@@ -37,6 +37,6 @@ class TasteExemplar:
 ```
 
 ## Connections
-- [[TasteLearningLoop]] — The broader taste learning system
-- [[ProductTasteLayer]] — Product-specific taste considerations
-- [[ClaudeHistoryTasteIngestor]] — Self-reference for deep dive
+- [TasteLearningLoop](TasteLearningLoop.md) — The broader taste learning system
+- [ProductTasteLayer](ProductTasteLayer.md) — Product-specific taste considerations
+- [ClaudeHistoryTasteIngestor](ClaudeHistoryTasteIngestor.md) — Self-reference for deep dive

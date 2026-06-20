@@ -13,6 +13,6 @@ The Nautiloid is a mind flayer ship — a colossal organic vesselcrew by illithi
 The Nautiloid represents Astarion's transition from Cazador's servitude to a new kind of danger. It's where he first encounters other potential companions (Shadowheart, Lae'zel, Gale, Wyll, Karlach, Halsin) and begins his journey toward freedom and power.
 
 ## Connections
-- [[bg3-astarion-campaign]] — source campaign
-- [[AstarionAncunin]] — player character starts here
+- [bg3-astarion-campaign](../sources/bg3-astarion-campaign.md) — source campaign
+- [AstarionAncunin](AstarionAncunin.md) — player character starts here
 - [[MindFlayer]] — species that commands the ship

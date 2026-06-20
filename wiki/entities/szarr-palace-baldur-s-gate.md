@@ -10,13 +10,13 @@ total_scenes: 151
 
 ## Overview
 
-** Szarr Palace, Baldur's Gate appears in 7 scenes across the [[astarion-ascended]] campaign.
+** Szarr Palace, Baldur's Gate appears in 7 scenes across the [astarion-ascended](../sources/astarion-ascended.md) campaign.
 
 ## Description
 
 ** Szarr Palace, Baldur's Gate is an entity from the astarion-ascended campaign.
 
 ## References
-- [[astarion-ascended]] — campaign overview
-- [[astarion-ascended-campaign]]
+- [astarion-ascended](../sources/astarion-ascended.md) — campaign overview
+- [astarion-ascended-campaign](../sources/astarion-ascended-campaign.md)
 

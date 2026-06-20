@@ -19,6 +19,6 @@ A spinner issue refers to a UI bug where a loading indicator remains visible ind
 The Campaign Wizard experiences a persistent spinner issue where after creating a campaign and navigating away, returning to start a new campaign shows a stuck spinner instead of the clean wizard form.
 
 ## Connections
-- [[CampaignWizard]] — component affected
+- [CampaignWizard](CampaignWizard.md) — component affected
 - [[CampaignWizardResetIssueReproductionTest]] — test that reproduces this specific issue
-- [[BrowserAutomation]] — how the issue is detected and validated
+- [BrowserAutomation](BrowserAutomation.md) — how the issue is detected and validated

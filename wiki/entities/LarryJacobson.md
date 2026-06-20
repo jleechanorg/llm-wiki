@@ -19,7 +19,7 @@ Executive and leadership coach to people in tech. Has a long career as a tech le
 
 ## Collaboration
 
-Part of a three-person AI Leadership collaboration with [[KartikMathur]] and [[Jeff]] to establish thought leadership on AI strategy and leadership for tech executives.
+Part of a three-person AI Leadership collaboration with [KartikMathur](KartikMathur.md) and [[Jeff]] to establish thought leadership on AI strategy and leadership for tech executives.
 
 ## Key Observations
 

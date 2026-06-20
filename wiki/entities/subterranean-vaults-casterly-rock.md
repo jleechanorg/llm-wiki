@@ -10,13 +10,13 @@ total_scenes: 140
 
 ## Overview
 
-** Subterranean Vaults, Casterly Rock appears in 7 scenes across the [[arthur-dayne]] campaign.
+** Subterranean Vaults, Casterly Rock appears in 7 scenes across the [arthur-dayne](../sources/arthur-dayne.md) campaign.
 
 ## Description
 
 ** Subterranean Vaults, Casterly Rock is an entity from the arthur-dayne campaign.
 
 ## References
-- [[arthur-dayne]] — campaign overview
-- [[arthur-dayne-campaign]]
+- [arthur-dayne](../sources/arthur-dayne.md) — campaign overview
+- [arthur-dayne-campaign](../sources/arthur-dayne-campaign.md)
 

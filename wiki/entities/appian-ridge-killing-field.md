@@ -10,13 +10,13 @@ total_scenes: 474
 
 ## Overview
 
-** Appian Ridge Killing Field appears in 22 scenes across the [[rome-pax-julia]] campaign.
+** Appian Ridge Killing Field appears in 22 scenes across the [rome-pax-julia](../sources/rome-pax-julia.md) campaign.
 
 ## Description
 
 ** Appian Ridge Killing Field is an entity from the rome-pax-julia campaign.
 
 ## References
-- [[rome-pax-julia]] — campaign overview
-- [[rome-pax-julia-campaign]]
+- [rome-pax-julia](../sources/rome-pax-julia.md) — campaign overview
+- [rome-pax-julia-campaign](../sources/rome-pax-julia-campaign.md)
 

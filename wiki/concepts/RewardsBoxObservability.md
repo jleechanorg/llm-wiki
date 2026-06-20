@@ -53,6 +53,6 @@ Alert on:
 - Processing latency p99 > 5s
 
 ## Connections
-- [[RewardsBoxSchema]] — Schema definition
-- [[RewardsBoxAtomicity]] — Atomic update semantics
-- [[StreamingPassthroughNormalization]] — Normalization pipeline
+- [RewardsBoxSchema](RewardsBoxSchema.md) — Schema definition
+- [RewardsBoxAtomicity](RewardsBoxAtomicity.md) — Atomic update semantics
+- [StreamingPassthroughNormalization](StreamingPassthroughNormalization.md) — Normalization pipeline

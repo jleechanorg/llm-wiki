@@ -16,6 +16,6 @@ Design pattern where validation errors generate warnings instead of blocking exc
 - Player experience remains uninterrupted while issues are logged
 
 ## Related
-- [[SchemaValidation]] — System this pattern applies to
-- [[REVrrom]] — Revision implementing this pattern in PR #4534
+- [SchemaValidation](SchemaValidation.md) — System this pattern applies to
+- [REVrrom](../entities/REVrrom.md) — Revision implementing this pattern in PR #4534
 - [[ProductionSafety]] — The safety goal this pattern achieves

@@ -24,6 +24,6 @@ At higher levels, the subclass gains abilities to become more shadow-like, inclu
 Nocturne uses the Gloom Stalker Ranger class in the bg1-nocturne campaign, combining the subclass with her Lawful Evil "Serpent Queen" persona for maximum predatory effectiveness.
 
 ## Connections
-- [[bg1-nocturne-campaign]] — source campaign
-- [[bg1-nocturne-continued-campaign]] — continued campaign
-- [[NocturneBg1]] — notable practitioner
+- [bg1-nocturne-campaign](../sources/bg1-nocturne-campaign.md) — source campaign
+- [bg1-nocturne-continued-campaign](../sources/bg1-nocturne-continued-campaign.md) — continued campaign
+- [NocturneBg1](NocturneBg1.md) — notable practitioner

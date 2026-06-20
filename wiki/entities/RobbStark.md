@@ -25,7 +25,7 @@ Robb Stark (Level 2 Fighter → Level 8 by late campaign) is the heir of Winterf
 - **Key Items**: Ice (Valyrian greatsword), Shadow-Stitch (carried)
 
 ## Connections
-- [[VisenyaTargaryen]] — his queen and manipulator
-- [[EddardStark]] — the father he killed
-- [[JonSnow]] — the brother he now rivals
-- [[CatelynStark]] — the mother he branded
+- [VisenyaTargaryen](VisenyaTargaryen.md) — his queen and manipulator
+- [EddardStark](EddardStark.md) — the father he killed
+- [JonSnow](JonSnow.md) — the brother he now rivals
+- [CatelynStark](CatelynStark.md) — the mother he branded

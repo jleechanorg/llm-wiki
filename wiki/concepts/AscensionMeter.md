@@ -20,10 +20,10 @@ The Ascension Meter (also called Threat Gauge, Mana Reveal, Favor Tracker) is a 
 
 ## Examples Across Campaigns
 
-- [[VisenyaBelaerys]] — **Ascension Meter (0/100):** Using Apex Aura raises the meter; high meter attracts Architects of Silence and triggers Rhaenyra's paranoia. Each major power use adds +2 to +15.
-- [[Nocticula]] — **Mana Reveal:** Binary — using masked spell slots shatters Mana Veil temporarily, alerting all magical detection in the region to her true power level.
-- [[AizenSosuke]] (Thay) — **Obsidian Mirror Favor:** Performing well = Court rewards (boons, buffs); performing poorly = Court mocks, psychic backlash, Exhaustion.
-- [[Alexiel]] — **Nullification Field Use:** Activating the Field is a dramatic reveal that permanently changes how allies and enemies perceive her.
+- [VisenyaBelaerys](../entities/VisenyaBelaerys.md) — **Ascension Meter (0/100):** Using Apex Aura raises the meter; high meter attracts Architects of Silence and triggers Rhaenyra's paranoia. Each major power use adds +2 to +15.
+- [Nocticula](../entities/Nocticula.md) — **Mana Reveal:** Binary — using masked spell slots shatters Mana Veil temporarily, alerting all magical detection in the region to her true power level.
+- [AizenSosuke](../entities/AizenSosuke.md) (Thay) — **Obsidian Mirror Favor:** Performing well = Court rewards (boons, buffs); performing poorly = Court mocks, psychic backlash, Exhaustion.
+- [Alexiel](../entities/Alexiel.md) — **Nullification Field Use:** Activating the Field is a dramatic reveal that permanently changes how allies and enemies perceive her.
 
 ## Why It Recurs
 
@@ -31,6 +31,6 @@ The Ascension Meter solves the "overpowered PC" problem not by nerfing the playe
 
 ## Related Concepts
 
-- [[MaskedPowerSmurfing]] — The behavior the Ascension Meter governs
-- [[TheSingularity]] — Characters who max out the Ascension Meter become Singularities
-- [[CustomCHABasedMartialClasses]] — Many custom classes include an ascension mechanic
+- [MaskedPowerSmurfing](MaskedPowerSmurfing.md) — The behavior the Ascension Meter governs
+- [TheSingularity](TheSingularity.md) — Characters who max out the Ascension Meter become Singularities
+- [CustomCHABasedMartialClasses](CustomCHABasedMartialClasses.md) — Many custom classes include an ascension mechanic

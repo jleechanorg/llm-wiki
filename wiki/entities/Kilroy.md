@@ -16,13 +16,13 @@ Kilroy is a local-first Go CLI for running StrongDM-style Attractor pipelines, b
 - **HTTP mode**: Experimental REST API with SSE for real-time progress
 
 ## Connections
-- [[DanShapiro]] — Shapiro built Kilroy
-- [[CXDB]] — Kilroy uses CXDB for run history and checkpoint recovery
-- [[AttractorPattern]] — Kilroy implements the Attractor spec
-- [[DarkFactory]] — Kilroy is a dark factory implementation
+- [DanShapiro](DanShapiro.md) — Shapiro built Kilroy
+- [CXDB](../concepts/CXDB.md) — Kilroy uses CXDB for run history and checkpoint recovery
+- [AttractorPattern](../concepts/AttractorPattern.md) — Kilroy implements the Attractor spec
+- [DarkFactory](../concepts/DarkFactory.md) — Kilroy is a dark factory implementation
 
 ## See Also
-- [[DanShapiro]]
-- [[Mammoth]]
-- [[Tracker]]
-- [[AttractorPattern]]
+- [DanShapiro](DanShapiro.md)
+- [Mammoth](Mammoth.md)
+- [Tracker](Tracker.md)
+- [AttractorPattern](../concepts/AttractorPattern.md)

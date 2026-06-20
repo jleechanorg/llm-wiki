@@ -29,6 +29,6 @@ To silence: `ao stop <project>` or `ao session kill <sessionId>` before a manual
 See: `sources/ao-ralph-lifecycle-worker-respawn-2026-05-21.md` (2026-05-21), bead rev-3ey45.
 
 ## Connections
-- [[AgentOrchestrator]] — reference
-- [[jleechanclaw]] — existing implementation
-- [[Ralph-Loop-Method]] — do not confuse AO lifecycle-worker ralph with ralph-wiggum plugin
+- [AgentOrchestrator](../entities/AgentOrchestrator.md) — reference
+- [jleechanclaw](../entities/jleechanclaw.md) — existing implementation
+- [Ralph-Loop-Method](Ralph-Loop-Method.md) — do not confuse AO lifecycle-worker ralph with ralph-wiggum plugin

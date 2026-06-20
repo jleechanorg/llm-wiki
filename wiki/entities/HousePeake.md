@@ -27,5 +27,5 @@ House Peake is the primary antagonist force in the Marches campaign arc. Led by 
 - 7 officers captured (1 Captain, 6 Sergeants)
 
 ## Connections
-- [[Aegon]] — the dragon who waged war against House Peake
-- [[TheGreySentinel]] — site of decisive ambush
+- [Aegon](Aegon.md) — the dragon who waged war against House Peake
+- [TheGreySentinel](TheGreySentinel.md) — site of decisive ambush

@@ -10,13 +10,13 @@ total_scenes: 1002
 
 ## Overview
 
-** The Black Basin - Stitcher's Workshop appears in 58 scenes across the [[nocturne-post-bg3-zhent]] campaign.
+** The Black Basin - Stitcher's Workshop appears in 58 scenes across the [nocturne-post-bg3-zhent](../sources/nocturne-post-bg3-zhent.md) campaign.
 
 ## Description
 
 ** The Black Basin - Stitcher's Workshop is an entity from the nocturne-post-bg3-zhent campaign.
 
 ## References
-- [[nocturne-post-bg3-zhent]] — campaign overview
-- [[nocturne-post-bg3-zhent-campaign]]
+- [nocturne-post-bg3-zhent](../sources/nocturne-post-bg3-zhent.md) — campaign overview
+- [nocturne-post-bg3-zhent-campaign](../sources/nocturne-post-bg3-zhent-campaign.md)
 

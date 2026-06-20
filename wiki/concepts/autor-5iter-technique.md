@@ -44,6 +44,6 @@ SR-5iter is not in the `--technique` choices for `run_autor_experiment.py`. It e
 
 ## See also
 
-- [[autor-router-prerequisite-gate]]
-- [[autor-sr-adversarial-design-2026-05-13]]
+- [autor-router-prerequisite-gate](autor-router-prerequisite-gate.md)
+- [autor-sr-adversarial-design-2026-05-13](../sources/autor-sr-adversarial-design-2026-05-13.md)
 - [[validate_router_prereqs.py]]

@@ -10,13 +10,13 @@ total_scenes: 521
 
 ## Overview
 
-** Subterranean Currents, Near Volcanic Vents appears in 3 scenes across the [[gaia-julia-v2]] campaign.
+** Subterranean Currents, Near Volcanic Vents appears in 3 scenes across the [gaia-julia-v2](../sources/gaia-julia-v2.md) campaign.
 
 ## Description
 
 ** Subterranean Currents, Near Volcanic Vents is an entity from the gaia-julia-v2 campaign.
 
 ## References
-- [[gaia-julia-v2]] — campaign overview
-- [[gaia-julia-v2-campaign]]
+- [gaia-julia-v2](../sources/gaia-julia-v2.md) — campaign overview
+- [gaia-julia-v2-campaign](../sources/gaia-julia-v2-campaign.md)
 

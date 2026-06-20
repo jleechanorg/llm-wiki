@@ -19,5 +19,5 @@ Current stack: no equivalent typed runtime registry in Python orchestration.
 Bead ORCH-ozi: AO-lite plugin kernel with typed contracts + runtime plugin loader.
 
 ## Connections
-- [[AgentOrchestrator]] — reference
-- [[mctrl]] — implementation target
+- [AgentOrchestrator](../entities/AgentOrchestrator.md) — reference
+- [mctrl](../entities/mctrl.md) — implementation target

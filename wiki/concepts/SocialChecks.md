@@ -16,5 +16,5 @@ Skill checks for interacting with NPCs — persuasion, deception, intimidation. 
 - **Social Norms**: Consider in-world social conventions and context
 
 ## Connection to Other Concepts
-- Uses [[ToolRequests]] with roll_skill_check
-- Related to [[OpposedChecks]] for Deception vs Insight
+- Uses [ToolRequests](ToolRequests.md) with roll_skill_check
+- Related to [OpposedChecks](OpposedChecks.md) for Deception vs Insight

@@ -22,6 +22,6 @@ Browser automation is a testing technique that uses software to control a web br
 - Performance testing with real browser rendering
 
 ## Related Tools
-- [[Selenium]] — popular browser automation framework
+- [Selenium](Selenium.md) — popular browser automation framework
 - [[ChromeWebDriver]] — Chrome-specific driver
-- [[Playwright]] — newer alternative with modern API
+- [Playwright](Playwright.md) — newer alternative with modern API

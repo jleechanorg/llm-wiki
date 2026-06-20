@@ -10,13 +10,13 @@ total_scenes: 140
 
 ## Overview
 
-** The Great Sept of Baelor, King's Landing appears in 5 scenes across the [[arthur-dayne]] campaign.
+** The Great Sept of Baelor, King's Landing appears in 5 scenes across the [arthur-dayne](../sources/arthur-dayne.md) campaign.
 
 ## Description
 
 ** The Great Sept of Baelor, King's Landing is an entity from the arthur-dayne campaign.
 
 ## References
-- [[arthur-dayne]] — campaign overview
-- [[arthur-dayne-campaign]]
+- [arthur-dayne](../sources/arthur-dayne.md) — campaign overview
+- [arthur-dayne-campaign](../sources/arthur-dayne-campaign.md)
 

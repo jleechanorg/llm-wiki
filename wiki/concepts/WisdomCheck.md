@@ -23,4 +23,4 @@ Use Wisdom when the plan relies on intuition, social dynamics, or perception. Us
 ## Related Concepts
 - [[Difficulty Class]] — set BEFORE rolling, based on planning complexity
 - [[Plan Quality]] — determined by margin between roll and DC
-- [[ThinkMode]] — the system this check operates within
+- [ThinkMode](ThinkMode.md) — the system this check operates within

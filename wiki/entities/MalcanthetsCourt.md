@@ -11,12 +11,12 @@ Malcanthet's Court is the demonic court of the Queen of Succubi in the Abyss. In
 
 ## Key Details
 - **Category:** Faction
-- **Campaign(s):** [[nocturne-bg3-v5-succubus]], [[nocturne-bg3-v5-succubus-copy]]
+- **Campaign(s):** [nocturne-bg3-v5-succubus](../sources/nocturne-bg3-v5-succubus.md), [nocturne-bg3-v5-succubus-copy](../sources/nocturne-bg3-v5-succubus-copy.md)
 
 ## Connections
-- [[Malcanthet]] — queen of the court
-- [[MalcanthetsDomain]] — location
-- [[NocturneSosuke]] — operates through this court
+- [Malcanthet](Malcanthet.md) — queen of the court
+- [MalcanthetsDomain](MalcanthetsDomain.md) — location
+- [NocturneSosuke](NocturneSosuke.md) — operates through this court
 
 ## Appearances
-- [[nocturne-bg3-v5-succubus]] — infernal politics dimension
+- [nocturne-bg3-v5-succubus](../sources/nocturne-bg3-v5-succubus.md) — infernal politics dimension

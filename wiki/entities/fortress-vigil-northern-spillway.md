@@ -10,13 +10,13 @@ total_scenes: 437
 
 ## Overview
 
-** Fortress Vigil - Northern Spillway appears in 5 scenes across the [[alexiel-assiah]] campaign.
+** Fortress Vigil - Northern Spillway appears in 5 scenes across the [alexiel-assiah](../sources/alexiel-assiah.md) campaign.
 
 ## Description
 
 ** Fortress Vigil - Northern Spillway is an entity from the alexiel-assiah campaign.
 
 ## References
-- [[alexiel-assiah]] — campaign overview
-- [[alexiel-assiah-campaign]]
+- [alexiel-assiah](../sources/alexiel-assiah.md) — campaign overview
+- [alexiel-assiah-campaign](../sources/alexiel-assiah-campaign.md)
 

@@ -14,4 +14,4 @@ Z-AI is the company behind the GLM (General Language Model) series. GLM-4.6 offe
 
 ## Related
 - [[Settings Page - AI Provider Selection]] — Where GLM is offered
-- [[OpenRouter]] — Distributes GLM models
+- [OpenRouter](OpenRouter.md) — Distributes GLM models

@@ -36,7 +36,7 @@ For PR #6825, faction routing should remain a separate follow-up unless the 20-t
 
 ## Related
 
-- [[AgentRouting]]
-- [[AgentSelection]]
-- [[ZeroFrameworkCognition]]
-- [[WorldArchitectAI]]
+- [AgentRouting](AgentRouting.md)
+- [AgentSelection](AgentSelection.md)
+- [ZeroFrameworkCognition](ZeroFrameworkCognition.md)
+- [WorldArchitectAI](../entities/WorldArchitectAI.md)

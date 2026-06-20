@@ -15,6 +15,6 @@ Validation pattern where errors generate warnings but do NOT halt execution. Use
 - Debug logging for invalid data without blocking user experience
 
 ## Related
-- [[SchemaValidation]] — implemented as non-blocking
-- [[FirestorePersistence]] — applies non-blocking validation
-- [[GameState]] — validates non-blocking
+- [SchemaValidation](SchemaValidation.md) — implemented as non-blocking
+- [FirestorePersistence](FirestorePersistence.md) — applies non-blocking validation
+- [GameState](GameState.md) — validates non-blocking

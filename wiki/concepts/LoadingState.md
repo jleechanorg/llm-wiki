@@ -17,4 +17,4 @@ UI state indicating an operation is in progress. Implemented with spinning anima
 
 ## Connections
 - [[EnhancedComponentsCSS]] — implements loading state for enhanced buttons
-- [[RippleEffect]] — related interactive feedback mechanism
+- [RippleEffect](RippleEffect.md) — related interactive feedback mechanism

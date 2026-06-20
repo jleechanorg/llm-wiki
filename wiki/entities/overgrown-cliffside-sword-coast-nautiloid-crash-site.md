@@ -10,13 +10,13 @@ total_scenes: 122
 
 ## Overview
 
-** Overgrown Cliffside, Sword Coast (Nautiloid Crash Site) appears in 7 scenes across the [[bg3-astarion]] campaign.
+** Overgrown Cliffside, Sword Coast (Nautiloid Crash Site) appears in 7 scenes across the [bg3-astarion](../sources/bg3-astarion.md) campaign.
 
 ## Description
 
 ** Overgrown Cliffside, Sword Coast (Nautiloid Crash Site) is an entity from the bg3-astarion campaign.
 
 ## References
-- [[bg3-astarion]] — campaign overview
-- [[bg3-astarion-campaign]]
+- [bg3-astarion](../sources/bg3-astarion.md) — campaign overview
+- [bg3-astarion-campaign](../sources/bg3-astarion-campaign.md)
 

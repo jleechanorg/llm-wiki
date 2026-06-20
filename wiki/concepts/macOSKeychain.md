@@ -22,7 +22,7 @@ session. macOS then surfaces a modal asking the user to create/locate a keychain
 
 ## Observed Trigger Sources
 
-See [[AgentOrchestrator]], [[GitHubActionsSelfHostedRunner]], and the
+See [AgentOrchestrator](../entities/AgentOrchestrator.md), [GitHubActionsSelfHostedRunner](../entities/GitHubActionsSelfHostedRunner.md), and the
 `com.jleechan.cmux-codex-approve` launchd loop — three independent headless processes documented in
 the 2026-06-04 multi-source RCA.
 
@@ -46,7 +46,7 @@ sudo security authorizationdb write system.keychain.create.loginkc allow
 
 - **Measure real popups, not probe noise.** securityd `MacOS error: -25294` (`errSecNoSuchKeychain`)
   is constant internal probing — 863 occurrences produced **0** GUI dialogs. Count actual
-  [[securityd]] SecurityAgent dialog launches instead:
+  [securityd](securityd.md) SecurityAgent dialog launches instead:
   `log show --predicate 'process == "SecurityAgent"'`.
 - **Never click "Reset To Defaults"** on the popup.
 - **Check the worker's actual `$HOME`**, not your shell's — the failing process usually has a
@@ -63,7 +63,7 @@ sudo security authorizationdb write system.keychain.create.loginkc allow
   jleechanclaw PR #592 (the same PR also added qdrant `--restart unless-stopped`).
 
 ## Connections
-- [[securityd]] — the daemon that emits `-25294` probe noise and launches SecurityAgent dialogs.
-- [[AgentOrchestrator]] — source #1 of the popup.
-- [[GitHubActionsSelfHostedRunner]] — source #2 of the popup.
-- [[ZeroFrameworkCognition]] — env-sniffing to detect headless mode is a ZFC violation.
+- [securityd](securityd.md) — the daemon that emits `-25294` probe noise and launches SecurityAgent dialogs.
+- [AgentOrchestrator](../entities/AgentOrchestrator.md) — source #1 of the popup.
+- [GitHubActionsSelfHostedRunner](../entities/GitHubActionsSelfHostedRunner.md) — source #2 of the popup.
+- [ZeroFrameworkCognition](ZeroFrameworkCognition.md) — env-sniffing to detect headless mode is a ZFC violation.

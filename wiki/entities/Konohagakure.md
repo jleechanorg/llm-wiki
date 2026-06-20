@@ -20,7 +20,7 @@ Konohagakure represents the "system" that Itachi seeks to control rather than de
 
 ## Connections
 
-- [[ItachiUchiha]] — Primary character
+- [ItachiUchiha](ItachiUchiha.md) — Primary character
 - [[ItachiEvilCampaign2Campaign]] — Campaign
-- [[UchihaCompound]] — Starting location
-- [[UchihaClan]] — Eliminated clan
+- [UchihaCompound](UchihaCompound.md) — Starting location
+- [UchihaClan](UchihaClan.md) — Eliminated clan

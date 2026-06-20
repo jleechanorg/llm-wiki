@@ -30,6 +30,6 @@ The process of extracting structured audit events from action_resolution.mechani
 ```
 
 ## Related Concepts
-- [[DiceRollMechanics]] — source of roll data
+- [DiceRollMechanics](DiceRollMechanics.md) — source of roll data
 - [[DiceTelemetry]] — system consuming audit events
-- [[ActionResolution]] — parent structure
+- [ActionResolution](ActionResolution.md) — parent structure

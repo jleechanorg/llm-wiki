@@ -10,13 +10,13 @@ total_scenes: 230
 
 ## Overview
 
-** Ice-Fall Tunnel (Western Ridge) appears in 3 scenes across the [[dragon-knight-good]] campaign.
+** Ice-Fall Tunnel (Western Ridge) appears in 3 scenes across the [dragon-knight-good](../sources/dragon-knight-good.md) campaign.
 
 ## Description
 
 ** Ice-Fall Tunnel (Western Ridge) is an entity from the dragon-knight-good campaign.
 
 ## References
-- [[dragon-knight-good]] — campaign overview
-- [[dragon-knight-good-campaign]]
+- [dragon-knight-good](../sources/dragon-knight-good.md) — campaign overview
+- [dragon-knight-good-campaign](../sources/dragon-knight-good-campaign.md)
 

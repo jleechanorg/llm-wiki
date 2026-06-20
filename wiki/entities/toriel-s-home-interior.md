@@ -10,13 +10,13 @@ total_scenes: 145
 
 ## Overview
 
-** Toriel's Home - Interior appears in 7 scenes across the [[undertale]] campaign.
+** Toriel's Home - Interior appears in 7 scenes across the [undertale](../sources/undertale.md) campaign.
 
 ## Description
 
 ** Toriel's Home - Interior is an entity from the undertale campaign.
 
 ## References
-- [[undertale]] — campaign overview
-- [[undertale-campaign]]
+- [undertale](../sources/undertale.md) — campaign overview
+- [undertale-campaign](../sources/undertale-campaign.md)
 

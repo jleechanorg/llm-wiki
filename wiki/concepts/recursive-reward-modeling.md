@@ -26,7 +26,7 @@ Recursive Reward Modeling (RRM) is a scalable oversight technique where an AI sy
 The ZFC model-computes pattern is a simplified one-step version of RRM: the model (LLM) makes the level-up judgment; the backend (rewards_engine) flags malformed outputs for fail-closed rejection. RRM's multi-layer evaluation is analogous to the ZFC pipeline: model output → formatter validation → persistence check → UI render.
 
 ## See Also
-- [[Scalable-Oversight]]
-- [[RLHF]]
-- [[RLAIF]]
-- [[ZFC-Level-Up-Architecture]]
+- [Scalable-Oversight](Scalable-Oversight.md)
+- [RLHF](RLHF.md)
+- [RLAIF](RLAIF.md)
+- [ZFC-Level-Up-Architecture](ZFC-Level-Up-Architecture.md)

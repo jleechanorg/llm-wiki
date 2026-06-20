@@ -16,7 +16,7 @@ Small, jittery miller at the old stone bridge over the Silverflow. Houses the Gu
 > "Mind the grain! If they tear, I'm ruined — watch your feet, they're everywhere!" — Hobb, panicked during the rat fight (Turn 9)
 
 ## Connections
-- [[alexiel-larion]] — primary campaign source
-- [[voyage-daran]] — his Guild handler
-- [[Lifestone]] — the contraband he stores
-- [[Silverflow]] — the river his mill sits on
+- [alexiel-larion](../sources/alexiel-larion.md) — primary campaign source
+- [voyage-daran](voyage-daran.md) — his Guild handler
+- [Lifestone](../concepts/Lifestone.md) — the contraband he stores
+- [Silverflow](../concepts/Silverflow.md) — the river his mill sits on

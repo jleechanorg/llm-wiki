@@ -13,6 +13,6 @@ The Guild is the primary criminal organization in Baldur's Gate, operating in th
 In the post-war landscape, The Guild seeks to expand its influence. Nocturne navigates this space, potentially working with or against The Guild to build their criminal enterprise.
 
 ## Connections
-- [[NocturnePostBg3Zhent]] — Potential operative
-- [[Zhentarim]] — Rival organization
-- [[BaldursGate]] — Territory
+- [NocturnePostBg3Zhent](NocturnePostBg3Zhent.md) — Potential operative
+- [Zhentarim](Zhentarim.md) — Rival organization
+- [BaldursGate](BaldursGate.md) — Territory

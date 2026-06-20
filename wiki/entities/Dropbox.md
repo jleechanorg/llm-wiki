@@ -22,4 +22,4 @@ File synchronization service using distributed hash tables (DHT) for peer-to-pee
 - CRDTs for conflict-free concurrent edits
 
 ## Connections
-- [[DistributedHashTable]] — core DHT technology
+- [DistributedHashTable](../concepts/DistributedHashTable.md) — core DHT technology

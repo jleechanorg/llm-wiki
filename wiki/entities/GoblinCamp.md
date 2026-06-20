@@ -11,17 +11,17 @@ The Goblin Camp is occupied by the Absolute's goblin forces under Minthara's com
 
 ## Key Details
 - **Category:** Location
-- **Campaign(s):** [[nocturne-bg3-v5]], [[nocturne-bg3-v5-fixed-v2]], [[nocturne-bg3-v5-succubus]], [[nocturne-bg3-v6-bug-repro-test]]
+- **Campaign(s):** [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md), [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md), [nocturne-bg3-v5-succubus](../sources/nocturne-bg3-v5-succubus.md), [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md)
 - **Setting:** Baldur's Gate wilderness
 - **Commander:** Minthara
 
 ## Connections
-- [[NocturneSosuke]] — held here as "True Soul" in V6
-- [[Minthara]] — commander of the goblin forces
-- [[TrueSouls]] — Absolute-affiliated goblin warriors
-- [[ShatteredSanctum]] — Minthara's war room in V6
-- [[EmeraldGrove]] — target of goblin assault
+- [NocturneSosuke](NocturneSosuke.md) — held here as "True Soul" in V6
+- [Minthara](Minthara.md) — commander of the goblin forces
+- [TrueSouls](TrueSouls.md) — Absolute-affiliated goblin warriors
+- [ShatteredSanctum](ShatteredSanctum.md) — Minthara's war room in V6
+- [EmeraldGrove](EmeraldGrove.md) — target of goblin assault
 
 ## Appearances
-- [[nocturne-bg3-v6-bug-repro-test]] — primary setting, Nocturne held as prisoner
-- [[nocturne-bg3-v5]] — referenced as goblin-controlled area
+- [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md) — primary setting, Nocturne held as prisoner
+- [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md) — referenced as goblin-controlled area

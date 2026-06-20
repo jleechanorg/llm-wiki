@@ -10,13 +10,13 @@ total_scenes: 151
 
 ## Overview
 
-** Lower City, Dockside Warehouse appears in 10 scenes across the [[astarion-ascended]] campaign.
+** Lower City, Dockside Warehouse appears in 10 scenes across the [astarion-ascended](../sources/astarion-ascended.md) campaign.
 
 ## Description
 
 ** Lower City, Dockside Warehouse is an entity from the astarion-ascended campaign.
 
 ## References
-- [[astarion-ascended]] — campaign overview
-- [[astarion-ascended-campaign]]
+- [astarion-ascended](../sources/astarion-ascended.md) — campaign overview
+- [astarion-ascended-campaign](../sources/astarion-ascended-campaign.md)
 

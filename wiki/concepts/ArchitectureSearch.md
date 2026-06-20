@@ -29,7 +29,7 @@ Architecture Search is the broader field of automated search over neural network
 
 ## Connections
 
-- [[AutoML]] — the broader field that includes architecture search
-- [[HyperparameterOptimization]] — related automated optimization
-- [[MetaHarness]] — applies architecture search to harness code
-- [[OuterLoopOptimization]] — the paradigm Meta-Harness operates in
+- [AutoML](AutoML.md) — the broader field that includes architecture search
+- [HyperparameterOptimization](HyperparameterOptimization.md) — related automated optimization
+- [MetaHarness](MetaHarness.md) — applies architecture search to harness code
+- [OuterLoopOptimization](OuterLoopOptimization.md) — the paradigm Meta-Harness operates in

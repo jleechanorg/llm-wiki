@@ -13,5 +13,5 @@ Fictional innkeeper character appearing in the Mock Gemini Service fallback narr
 Provides story hooks and quest hooks for the player character (Sir Kaelan the Adamant) during campaign initialization.
 
 ## Connections
-- [[SirKaelanTheAdamant]] — customer at the tavern seeking the Lost Crown
+- [SirKaelanTheAdamant](SirKaelanTheAdamant.md) — customer at the tavern seeking the Lost Crown
 - [[MockGeminiServiceWrapper]] — source of this character in test fixtures

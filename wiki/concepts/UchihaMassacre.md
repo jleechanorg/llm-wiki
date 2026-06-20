@@ -26,8 +26,8 @@ The Uchiha Massacre serves as:
 
 ## Connections
 
-- [[ItachiUchiha]] — Perpetrator
+- [ItachiUchiha](../entities/ItachiUchiha.md) — Perpetrator
 - [[ItachiEvilCampaign2Campaign]] — Campaign
-- [[UchihaClan]] — Victims
-- [[UchihaCompound]] — Location
-- [[MangekyoSharingan]] — Power gained
+- [UchihaClan](../entities/UchihaClan.md) — Victims
+- [UchihaCompound](../entities/UchihaCompound.md) — Location
+- [MangekyoSharingan](MangekyoSharingan.md) — Power gained

@@ -27,6 +27,6 @@ A validation system that detects when an LLM claims dice were rolled but provide
 - **Warning**: Fabrication violations detected (always logged)
 
 ## Related Concepts
-- [[CodeExecutionVerification]] — verifying actual code execution
-- [[NarrativeDiceDetection]] — detecting dice in narrative text
+- [CodeExecutionVerification](CodeExecutionVerification.md) — verifying actual code execution
+- [NarrativeDiceDetection](NarrativeDiceDetection.md) — detecting dice in narrative text
 - [[DiceIntegrityModule]] — broader dice validation system

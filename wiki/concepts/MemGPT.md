@@ -28,7 +28,7 @@ MemGPT is a memory-augmented large language model that uses a hierarchical memor
 
 ## Connections
 
-- [[MetaHarness]] — related by shared goal of managing context effectively
+- [MetaHarness](MetaHarness.md) — related by shared goal of managing context effectively
 - [[MemoryAugmentedLLM]] — broader concept that MemGPT exemplifies
-- [[ContextManagement]] — both MemGPT and Meta-Harness address context challenges
-- [[FilesystemHistory]] — Meta-Harness uses filesystem rather than hierarchical memory
+- [ContextManagement](ContextManagement.md) — both MemGPT and Meta-Harness address context challenges
+- [FilesystemHistory](FilesystemHistory.md) — Meta-Harness uses filesystem rather than hierarchical memory

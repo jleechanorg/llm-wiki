@@ -10,13 +10,13 @@ total_scenes: 822
 
 ## Overview
 
-** High Security Wing - Secluded Balcony appears in 3 scenes across the [[alexiel-swtor]] campaign.
+** High Security Wing - Secluded Balcony appears in 3 scenes across the [alexiel-swtor](../sources/alexiel-swtor.md) campaign.
 
 ## Description
 
 ** High Security Wing - Secluded Balcony is an entity from the alexiel-swtor campaign.
 
 ## References
-- [[alexiel-swtor]] — campaign overview
-- [[alexiel-swtor-campaign]]
+- [alexiel-swtor](../sources/alexiel-swtor.md) — campaign overview
+- [alexiel-swtor-campaign](../sources/alexiel-swtor-campaign.md)
 

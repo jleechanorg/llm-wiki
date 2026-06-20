@@ -10,13 +10,13 @@ total_scenes: 253
 
 ## Overview
 
-** The Coast Way, Bridge Crossing appears in 9 scenes across the [[bg1-nocturne]] campaign.
+** The Coast Way, Bridge Crossing appears in 9 scenes across the [bg1-nocturne](../sources/bg1-nocturne.md) campaign.
 
 ## Description
 
 ** The Coast Way, Bridge Crossing is an entity from the bg1-nocturne campaign.
 
 ## References
-- [[bg1-nocturne]] — campaign overview
-- [[bg1-nocturne-campaign]]
+- [bg1-nocturne](../sources/bg1-nocturne.md) — campaign overview
+- [bg1-nocturne-campaign](../sources/bg1-nocturne-campaign.md)
 

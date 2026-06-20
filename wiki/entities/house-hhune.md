@@ -10,13 +10,13 @@ total_scenes: 315
 
 ## Overview
 
-House Hhune appears in 5 scenes across the [[old-noctune-merc-bg3]] campaign.
+House Hhune appears in 5 scenes across the [old-noctune-merc-bg3](../sources/old-noctune-merc-bg3.md) campaign.
 
 ## Description
 
 House Hhune is an entity from the old-noctune-merc-bg3 campaign.
 
 ## References
-- [[old-noctune-merc-bg3]] — campaign overview
+- [old-noctune-merc-bg3](../sources/old-noctune-merc-bg3.md) — campaign overview
 - [[old-noctune-merc-bg3-campaign]]
 

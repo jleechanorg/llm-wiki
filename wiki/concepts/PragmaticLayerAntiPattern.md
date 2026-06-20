@@ -41,9 +41,9 @@ When a design gate cannot be met:
 
 ## Connections
 
-- [[DesignDocGateVerification]] — the correct pattern: verify gates independently
+- [DesignDocGateVerification](DesignDocGateVerification.md) — the correct pattern: verify gates independently
 - [[DesignDocAsContract]] — treat design docs as checkable, not optional
-- [[StructureDriftPattern]] — pattern of design doc vs code divergence over time
+- [StructureDriftPattern](StructureDriftPattern.md) — pattern of design doc vs code divergence over time
 - [[PRWatchdog]] — monitor for pragmatic-layer admissions in PR bodies
 
 ## Related Anti-Pattern

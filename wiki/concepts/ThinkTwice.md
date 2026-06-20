@@ -33,8 +33,8 @@ ThinkTwice is a two-phase GRPO-based framework for jointly optimizing LLMs on re
 
 ## Related Concepts
 
-- [[SelfRefine]] — general self-refinement concept
+- [SelfRefine](SelfRefine.md) — general self-refinement concept
 - [[GroupRelativePolicyOptimization]] — GRPO algorithm
-- [[RefineRL]] — RL-based self-refinement for programming
-- [[SelfDebias]] — self-correction for debiasing
-- [[ChainOfThought]] — reasoning traces being refined
+- [RefineRL](RefineRL.md) — RL-based self-refinement for programming
+- [SelfDebias](SelfDebias.md) — self-correction for debiasing
+- [ChainOfThought](ChainOfThought.md) — reasoning traces being refined

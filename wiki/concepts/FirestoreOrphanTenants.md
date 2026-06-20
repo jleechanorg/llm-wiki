@@ -25,7 +25,7 @@ orphan = [d.id for d in db.collection("users").list_documents()
 
 ## Why they matter
 
-Orphan tenants accumulate billed storage/compute (and Gemini cost when their campaigns are replayed in CI) with no real user behind them. They are the primary target for **TTL/cleanup** automation. See [[GeminiCostApportionment]].
+Orphan tenants accumulate billed storage/compute (and Gemini cost when their campaigns are replayed in CI) with no real user behind them. They are the primary target for **TTL/cleanup** automation. See [GeminiCostApportionment](GeminiCostApportionment.md).
 
 ## Classification rule (reusable)
 

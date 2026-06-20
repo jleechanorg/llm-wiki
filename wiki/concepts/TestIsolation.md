@@ -10,5 +10,5 @@ Testing practice ensuring tests don't affect each other. RealServiceProvider imp
 
 ## Related Pages
 - [[RealServiceProviderImplementation]] — Implements isolation via collection tracking and cleanup
-- [[PreventiveGuards]] — Guards against LLM hallucinations breaking game state
+- [PreventiveGuards](../entities/PreventiveGuards.md) — Guards against LLM hallucinations breaking game state
 - [[NarrativeSynchronizationValidator]] — Validates continuity with isolation checking

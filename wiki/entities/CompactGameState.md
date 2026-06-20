@@ -19,5 +19,5 @@ When compaction would exceed budget, return original game_state instead of trunc
 
 
 ## Related
-- [[JSONTruncation]] — the bug pattern
-- [[ContextCompaction]] — parent module
+- [JSONTruncation](../concepts/JSONTruncation.md) — the bug pattern
+- [ContextCompaction](ContextCompaction.md) — parent module

@@ -11,5 +11,5 @@ A game state field that tracks missions the player has finished. Works alongside
 
 ## Related Concepts
 - [[ActiveMissions]] — missions currently in progress
-- [[StateMigration]] — auto-initialization for older campaigns
+- [StateMigration](StateMigration.md) — auto-initialization for older campaigns
 - [[CampaignData]] — parent game state structure

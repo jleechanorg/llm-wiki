@@ -11,16 +11,16 @@ The Emerald Grove Druids are members of the Emerald Circle, protecting the sacre
 
 ## Key Details
 - **Category:** Faction
-- **Campaign(s):** [[nocturne-bg3-v5]], [[nocturne-bg3-v5-fixed-v2]], [[nocturne-bg3-v6-bug-repro-test]]
+- **Campaign(s):** [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md), [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md), [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md)
 
 ## Connections
-- [[EmeraldGrove]] — protected site
-- [[RiteOfThorns]] — their sacred ritual
-- [[ShadowDruids]] — radical faction
-- [[Zevlor]] — leader
-- [[Kagha]] — potential radical leader
-- [[TrueSouls]] — attackers
+- [EmeraldGrove](EmeraldGrove.md) — protected site
+- [RiteOfThorns](../concepts/RiteOfThorns.md) — their sacred ritual
+- [ShadowDruids](ShadowDruids.md) — radical faction
+- [Zevlor](Zevlor.md) — leader
+- [Kagha](Kagha.md) — potential radical leader
+- [TrueSouls](TrueSouls.md) — attackers
 
 ## Appearances
-- [[nocturne-bg3-v6-bug-repro-test]] — under assault
-- [[nocturne-bg3-v5]] — safe haven
+- [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md) — under assault
+- [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md) — safe haven

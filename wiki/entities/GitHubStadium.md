@@ -15,5 +15,5 @@ GitHub's real-time infrastructure handling thousands of concurrent SSH connectio
 - Handles peak traffic during major OSS events
 
 ## Connections
-- [[MicroservicesArchitecture]] — architectural pattern used
-- [[CachingStrategies]] — Redis caching layer
+- [MicroservicesArchitecture](../concepts/MicroservicesArchitecture.md) — architectural pattern used
+- [CachingStrategies](../concepts/CachingStrategies.md) — Redis caching layer

@@ -21,9 +21,9 @@ The Council of Four represents the "legitimate" power structure that Gladius res
 ## Connections
 
 - [[MercSoloBruteGladiusCampaign]] — Campaign
-- [[Gladius]] — Player character
-- [[BaldursGate]] — City
+- [Gladius](Gladius.md) — Player character
+- [BaldursGate](BaldursGate.md) — City
 - [[FlamingFistMercenaryCompany]] — Competing faction
-- [[TheGuild]] — Underground faction
+- [TheGuild](TheGuild.md) — Underground faction
 - [[HouseGralhund]] — Noble faction
 - [[TheSilkenVeil]] — Information faction

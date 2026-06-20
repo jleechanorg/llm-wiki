@@ -10,13 +10,13 @@ total_scenes: 500
 
 ## Overview
 
-** Stone-Anvil Flagship 'Adjudicator' - Command Bridge appears in 5 scenes across the [[dragon-knight-evil]] campaign.
+** Stone-Anvil Flagship 'Adjudicator' - Command Bridge appears in 5 scenes across the [dragon-knight-evil](../sources/dragon-knight-evil.md) campaign.
 
 ## Description
 
 ** Stone-Anvil Flagship 'Adjudicator' - Command Bridge is an entity from the dragon-knight-evil campaign.
 
 ## References
-- [[dragon-knight-evil]] — campaign overview
-- [[dragon-knight-evil-campaign]]
+- [dragon-knight-evil](../sources/dragon-knight-evil.md) — campaign overview
+- [dragon-knight-evil-campaign](../sources/dragon-knight-evil-campaign.md)
 

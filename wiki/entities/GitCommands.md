@@ -18,5 +18,5 @@ Module in copilot utils that provides git operations (check_merge_tree, get_curr
 Fixed by replacing shell=True with list-based arguments and shell=False in all subprocess.run calls.
 
 ## Related
-- [[ShellInjection]]
-- [[SubprocessSecurity]]
+- [ShellInjection](../concepts/ShellInjection.md)
+- [SubprocessSecurity](../concepts/SubprocessSecurity.md)

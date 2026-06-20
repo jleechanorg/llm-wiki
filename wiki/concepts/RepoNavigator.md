@@ -22,6 +22,6 @@ SOTA repository-level coding agent using single execution-aware tool with end-to
 
 ## Connections
 
-- Related to [[SWE-Shepherd]] — RL-based step guidance
-- [[LargeLanguageMonkeys]] — scaling via repeated sampling
+- Related to [SWE-Shepherd](SWE-Shepherd.md) — RL-based step guidance
+- [LargeLanguageMonkeys](LargeLanguageMonkeys.md) — scaling via repeated sampling
 - [[E3-TIR]] — tool-integrated reasoning

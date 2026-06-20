@@ -10,13 +10,13 @@ total_scenes: 417
 
 ## Overview
 
-House Reyne appears in 10 scenes across the [[visenya-v4]] campaign.
+House Reyne appears in 10 scenes across the [visenya-v4](../sources/visenya-v4.md) campaign.
 
 ## Description
 
 House Reyne is an entity from the visenya-v4 campaign.
 
 ## References
-- [[visenya-v4]] — campaign overview
+- [visenya-v4](../sources/visenya-v4.md) — campaign overview
 - [[visenya-v4-campaign]]
 

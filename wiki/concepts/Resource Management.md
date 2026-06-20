@@ -24,5 +24,5 @@ def test_expensive_operation(self):
 ```
 
 ## Related
-- [[Real-Mode Testing]] — where resource management is critical
-- [[TestServiceProvider]] — provides cleanup interface
+- [Real-Mode Testing](Real-Mode Testing.md) — where resource management is critical
+- [TestServiceProvider](TestServiceProvider.md) — provides cleanup interface

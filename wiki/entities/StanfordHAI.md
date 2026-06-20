@@ -17,8 +17,8 @@ Stanford HAI (Institute for Human-Centered AI) runs the Foundation Model Governa
 
 ## Connections
 
-- [[GovernanceLayer]] — Stanford HAI's Foundation Model Governance Initiative
-- [[AnthropicAlignment]] — both focus on AI safety and governance
+- [GovernanceLayer](../concepts/GovernanceLayer.md) — Stanford HAI's Foundation Model Governance Initiative
+- [AnthropicAlignment](AnthropicAlignment.md) — both focus on AI safety and governance
 
 ## See Also
-- [[GovernanceLayer]]
+- [GovernanceLayer](../concepts/GovernanceLayer.md)

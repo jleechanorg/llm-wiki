@@ -16,5 +16,5 @@ Python client class that handles communication with the Model Context Protocol (
 
 ## Related Pages
 - [[MCPErrorHandlingE2E]] — tests error translation through MCPClient
-- [[Flask]] — HTTP response layer receiving translated errors
+- [Flask](Flask.md) — HTTP response layer receiving translated errors
 - [[world_logic]] — source of errors that flow through MCPClient

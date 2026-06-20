@@ -9,7 +9,7 @@ last_updated: 2026-04-14
 ## Description
 Systematic approach to reviewing code changes, documentation, and project artifacts for quality, security, and compliance.
 
-See also: [[jeffrey-oracle]] — operationalizes this methodology into automated PR verdicts.
+See also: [jeffrey-oracle](../syntheses/jeffrey-oracle.md) — operationalizes this methodology into automated PR verdicts.
 
 ## PR #1440 Analysis Framework
 1. **Data Integrity Check**: Verify raw data matches reported conclusions
@@ -24,9 +24,9 @@ PR #1440 received 45/100 - MAJOR REVISION REQUIRED due to:
 - Documentation sprawl concerns
 
 ## Related Concepts
-- [[DataIntegrityAnalysis]]
-- [[SecurityAnalysis]]
-- [[DocumentationQualityAssessment]]
+- [DataIntegrityAnalysis](DataIntegrityAnalysis.md)
+- [SecurityAnalysis](SecurityAnalysis.md)
+- [DocumentationQualityAssessment](DocumentationQualityAssessment.md)
 
 ## Grep-on-PR-diff false positives (beads-tracked repos) — 2026-06-07
 
@@ -40,4 +40,4 @@ PR-head blob directly (`git show <sha>:file | grep`). Verify gate/consumer sides
 by reading the file, not the diff. Same error class as `gh pr checks | grep -c
 fail` (matches check names, not statuses). Incident: PR #7330 verification —
 3 apparent `code_execution_used` matches, all in beads JSON, 0 in production.
-Source: [[sources/2026-06-07-grep-beads-false-positive-pr-verification]] · bead rev-15x97.
+Source: [2026-06-07-grep-beads-false-positive-pr-verification](../sources/2026-06-07-grep-beads-false-positive-pr-verification.md) · bead rev-15x97.

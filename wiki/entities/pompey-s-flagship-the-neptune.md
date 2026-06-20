@@ -10,13 +10,13 @@ total_scenes: 162
 
 ## Overview
 
-** Pompey's Flagship - 'The Neptune' appears in 8 scenes across the [[gaia-julia-v4]] campaign.
+** Pompey's Flagship - 'The Neptune' appears in 8 scenes across the [gaia-julia-v4](../sources/gaia-julia-v4.md) campaign.
 
 ## Description
 
 ** Pompey's Flagship - 'The Neptune' is an entity from the gaia-julia-v4 campaign.
 
 ## References
-- [[gaia-julia-v4]] — campaign overview
-- [[gaia-julia-v4-campaign]]
+- [gaia-julia-v4](../sources/gaia-julia-v4.md) — campaign overview
+- [gaia-julia-v4-campaign](../sources/gaia-julia-v4-campaign.md)
 

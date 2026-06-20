@@ -10,13 +10,13 @@ total_scenes: 363
 
 ## Overview
 
-** Cistern-Prime, Nexus appears in 23 scenes across the [[alexiel-assiah-v2]] campaign.
+** Cistern-Prime, Nexus appears in 23 scenes across the [alexiel-assiah-v2](../sources/alexiel-assiah-v2.md) campaign.
 
 ## Description
 
 ** Cistern-Prime, Nexus is an entity from the alexiel-assiah-v2 campaign.
 
 ## References
-- [[alexiel-assiah-v2]] — campaign overview
-- [[alexiel-assiah-v2-campaign]]
+- [alexiel-assiah-v2](../sources/alexiel-assiah-v2.md) — campaign overview
+- [alexiel-assiah-v2-campaign](../sources/alexiel-assiah-v2-campaign.md)
 

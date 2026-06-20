@@ -21,5 +21,5 @@ A truncation strategy introduced in PR #2311 that dynamically adjusts how conver
 
 ## Related Pages
 - [[TestContextTruncation]] — validates adaptive truncation behavior
-- [[ContextTruncation]] — the function implementing this strategy
+- [ContextTruncation](ContextTruncation.md) — the function implementing this strategy
 - [[CharacterLimit]] — the constraint being managed

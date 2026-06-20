@@ -16,6 +16,6 @@ Psychological framework categorizing personality into 16 types based on four dic
 
 
 ## Related Concepts
-- [[BigFive]] — alternative personality model
-- [[Alignment]] — D&D moral framework (also internal-only)
-- [[CharacterArchetype]] — dramatic role patterns
+- [BigFive](BigFive.md) — alternative personality model
+- [Alignment](Alignment.md) — D&D moral framework (also internal-only)
+- [CharacterArchetype](CharacterArchetype.md) — dramatic role patterns

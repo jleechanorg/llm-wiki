@@ -10,13 +10,13 @@ total_scenes: 252
 
 ## Overview
 
-Host appears in 8 scenes across the [[sariel-v2]] campaign.
+Host appears in 8 scenes across the [sariel-v2](../sources/sariel-v2.md) campaign.
 
 ## Description
 
 Host is an entity from the sariel-v2 campaign.
 
 ## References
-- [[sariel-v2]] — campaign overview
-- [[sariel-v2-campaign]]
+- [sariel-v2](../sources/sariel-v2.md) — campaign overview
+- [sariel-v2-campaign](../sources/sariel-v2-campaign.md)
 

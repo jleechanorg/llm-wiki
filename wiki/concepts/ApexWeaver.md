@@ -30,5 +30,5 @@ If the Apex Weaver witnesses a high-status NPC lie or assert false dominance and
 | 5 | 21-30 | The World Eater | Double Concentration, Avatar of Sadism, Titan expansion |
 
 ## Connections
-- [[VisenyaTargaryen]] — Primary wielder of this class
-- [[EntropyToll]] — Named mechanic, subset of class features
+- [VisenyaTargaryen](../entities/VisenyaTargaryen.md) — Primary wielder of this class
+- [EntropyToll](EntropyToll.md) — Named mechanic, subset of class features

@@ -10,13 +10,13 @@ total_scenes: 291
 
 ## Overview
 
-** Edgering Ruins appears in 37 scenes across the [[tyranny]] campaign.
+** Edgering Ruins appears in 37 scenes across the [tyranny](../sources/tyranny.md) campaign.
 
 ## Description
 
 ** Edgering Ruins is an entity from the tyranny campaign.
 
 ## References
-- [[tyranny]] — campaign overview
-- [[tyranny-campaign]]
+- [tyranny](../sources/tyranny.md) — campaign overview
+- [tyranny-campaign](../sources/tyranny-campaign.md)
 

@@ -44,5 +44,5 @@ for attempt in range(3):
 - Test environment having lower budget limits than prod
 
 ## Connections
-- [[BudgetAllocation]] — Budget management patterns
-- [[TokenBudgetCalculation]] — Token budget formulas
+- [BudgetAllocation](BudgetAllocation.md) — Budget management patterns
+- [TokenBudgetCalculation](TokenBudgetCalculation.md) — Token budget formulas

@@ -30,7 +30,7 @@ Hyperparameter Optimization (HPO) is the process of automatically searching for 
 
 ## Connections
 
-- [[AutoML]] — hyperparameter optimization is a core AutoML component
-- [[ArchitectureSearch]] — related AutoML component
-- [[MetaHarness]] — applies optimization principles to harness code
-- [[OuterLoopOptimization]] — harness hyperparameter optimization is outer loop
+- [AutoML](AutoML.md) — hyperparameter optimization is a core AutoML component
+- [ArchitectureSearch](ArchitectureSearch.md) — related AutoML component
+- [MetaHarness](MetaHarness.md) — applies optimization principles to harness code
+- [OuterLoopOptimization](OuterLoopOptimization.md) — harness hyperparameter optimization is outer loop

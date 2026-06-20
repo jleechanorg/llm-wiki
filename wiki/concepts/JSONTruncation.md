@@ -18,5 +18,5 @@ Truncating JSON mid-object breaks parseability:
 When budget exceeded, return original JSON instead of producing invalid output.
 
 ## Related
-- [[CompactGameState]] — function with this bug
-- [[BudgetHandling]] — correct pattern
+- [CompactGameState](../entities/CompactGameState.md) — function with this bug
+- [BudgetHandling](BudgetHandling.md) — correct pattern

@@ -32,6 +32,6 @@ The Aemon Game Of Thrones campaign is a dark, morally corrupt D&D 5e adaptation 
 
 ## Connections
 
-- [[AegonTargaryen]] — player character
-- [[Gloomstalker]] — ranger subclass
-- [[SerGregorClegane]] — NPC commander
+- [AegonTargaryen](../entities/AegonTargaryen.md) — player character
+- [Gloomstalker](Gloomstalker.md) — ranger subclass
+- [SerGregorClegane](../entities/SerGregorClegane.md) — NPC commander

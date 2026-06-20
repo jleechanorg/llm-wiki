@@ -19,5 +19,5 @@ Development-only authentication bypass allowing local testing without real Fireb
 - Console warnings when test mode requested but environment disallowed
 
 ## Connections
-- [[FirebaseAuthentication]] — Production alternative
-- [[WorldArchitectAI]] — Application using test mode
+- [FirebaseAuthentication](FirebaseAuthentication.md) — Production alternative
+- [WorldArchitectAI](../entities/WorldArchitectAI.md) — Application using test mode

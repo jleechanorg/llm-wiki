@@ -23,6 +23,6 @@ MCP Memory client class with dependency injection support. Provides FAIL-FAST er
 - `read_graph()`: Calls MCP read_graph, raises on failure
 
 ## Related Concepts
-- [[Dependency Injection]] — pattern used for testability
-- [[FAIL-FAST Design]] — error handling philosophy
+- [Dependency Injection](Dependency Injection.md) — pattern used for testability
+- [FAIL-FAST Design](FAIL-FAST Design.md) — error handling philosophy
 - [[MCP (Model Context Protocol)]] — underlying protocol

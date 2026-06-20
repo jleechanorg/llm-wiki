@@ -28,7 +28,7 @@ TerminalBench-2 is the benchmark on which Meta-Harness achieved #1 ranking among
 
 ## Connections
 
-- [[TerminalBench]] — the broader benchmark family
-- [[MetaHarness]] — the system that achieved #1 ranking
-- [[CodingAgent]] — the type of agent being evaluated
-- [[AgenticCoding]] — the practice improved by Meta-Harness
+- [TerminalBench](TerminalBench.md) — the broader benchmark family
+- [MetaHarness](MetaHarness.md) — the system that achieved #1 ranking
+- [CodingAgent](CodingAgent.md) — the type of agent being evaluated
+- [AgenticCoding](AgenticCoding.md) — the practice improved by Meta-Harness

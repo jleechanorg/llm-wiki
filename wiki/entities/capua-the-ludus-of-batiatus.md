@@ -10,13 +10,13 @@ total_scenes: 474
 
 ## Overview
 
-** Capua (The Ludus of Batiatus) appears in 52 scenes across the [[rome-pax-julia]] campaign.
+** Capua (The Ludus of Batiatus) appears in 52 scenes across the [rome-pax-julia](../sources/rome-pax-julia.md) campaign.
 
 ## Description
 
 ** Capua (The Ludus of Batiatus) is an entity from the rome-pax-julia campaign.
 
 ## References
-- [[rome-pax-julia]] — campaign overview
-- [[rome-pax-julia-campaign]]
+- [rome-pax-julia](../sources/rome-pax-julia.md) — campaign overview
+- [rome-pax-julia-campaign](../sources/rome-pax-julia-campaign.md)
 

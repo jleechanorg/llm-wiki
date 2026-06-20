@@ -27,5 +27,5 @@ selected = select_memories_by_budget(
 ```
 
 ## Related
-- [[Deduplication]] - removes duplicate memories before budgeting
-- [[ContextCompaction]] - provides BUDGET_CORE_MEMORIES_MAX constant
+- [Deduplication](Deduplication.md) - removes duplicate memories before budgeting
+- [ContextCompaction](ContextCompaction.md) - provides BUDGET_CORE_MEMORIES_MAX constant

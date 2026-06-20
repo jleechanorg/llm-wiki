@@ -20,8 +20,8 @@ The Miasma represents the intersection of divine heritage and mortal capability.
 
 ## Connections
 
-- [[GaiaJuliaCaesar]] — Wielder of Miasma
+- [GaiaJuliaCaesar](../entities/GaiaJuliaCaesar.md) — Wielder of Miasma
 - [[GaiaJuliaV6Campaign]] — Campaign
 - [[Venus]] — Divine source
-- [[CollegeOfSwordsBard]] — Character class
-- [[GlassCannon]] — Character archetype
+- [CollegeOfSwordsBard](CollegeOfSwordsBard.md) — Character class
+- [GlassCannon](GlassCannon.md) — Character archetype

@@ -18,6 +18,6 @@ The Imperator Class is a custom D&D 5e class for the Rome Pax Julia campaign. It
 The Imperator represents Rome's leadership class elevated to heroic status. Combined with the divine parasite, it creates a uniquely Roman heroic framework.
 
 ## Connections
-- [[GaiaJuliaCaesar]] — Practitioner
-- [[FatedMiasma]] — Related metaphysics
+- [GaiaJuliaCaesar](../entities/GaiaJuliaCaesar.md) — Practitioner
+- [FatedMiasma](FatedMiasma.md) — Related metaphysics
 - [[RomePaxJulia]] — Source campaign

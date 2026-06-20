@@ -6,7 +6,7 @@ sources: ["input-field-translation-validation-tests"]
 last_updated: 2026-04-08
 ---
 
-The architectural pattern of translating field names between different protocol layers. In this codebase, the translation layer converts frontend requests (using `input` field) to MCP protocol (using `user_input` field) before forwarding to [[world_logic.py]].
+The architectural pattern of translating field names between different protocol layers. In this codebase, the translation layer converts frontend requests (using `input` field) to MCP protocol (using `user_input` field) before forwarding to [world_logic.py](../entities/world_logic.py.md).
 
 ## Translation Chain
 1. **Frontend** → sends `{"input": "..."}`

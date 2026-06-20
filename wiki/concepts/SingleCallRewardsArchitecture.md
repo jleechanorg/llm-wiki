@@ -44,6 +44,6 @@ async def process_dice_roll(campaign_id: str, player_id: str, roll: DiceRoll) ->
 3. **Rollback simplicity** — Single abort undoes everything
 
 ## Connections
-- [[RewardsBoxAtomicity]] — Atomicity patterns
-- [[RewardsBoxSchema]] — Schema definition
-- [[StateTransitions]] — State management
+- [RewardsBoxAtomicity](RewardsBoxAtomicity.md) — Atomicity patterns
+- [RewardsBoxSchema](RewardsBoxSchema.md) — Schema definition
+- [StateTransitions](StateTransitions.md) — State management

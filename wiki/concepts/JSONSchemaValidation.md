@@ -22,6 +22,6 @@ The validation module is used to:
 3. Provide meaningful error messages for invalid state
 
 ## Related
-- [[GameStateSchema]] — the canonical schema being validated
+- [GameStateSchema](GameStateSchema.md) — the canonical schema being validated
 - [[ValidationModule]] — broader validation context
-- [[ADR0003]] — architectural decision
+- [ADR0003](../entities/ADR0003.md) — architectural decision

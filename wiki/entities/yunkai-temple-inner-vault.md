@@ -10,13 +10,13 @@ total_scenes: 277
 
 ## Overview
 
-** Yunkai (Temple Inner Vault) appears in 9 scenes across the [[visenya-v2]] campaign.
+** Yunkai (Temple Inner Vault) appears in 9 scenes across the [visenya-v2](../sources/visenya-v2.md) campaign.
 
 ## Description
 
 ** Yunkai (Temple Inner Vault) is an entity from the visenya-v2 campaign.
 
 ## References
-- [[visenya-v2]] — campaign overview
+- [visenya-v2](../sources/visenya-v2.md) — campaign overview
 - [[visenya-v2-campaign]]
 

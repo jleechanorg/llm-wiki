@@ -52,8 +52,8 @@ if rewards_pending.get("level_up_available"):
 
 ## Related
 
-- [[LevelUpCodeArchitecture]] — Full architecture including all 3 paths and v4 design
-- [[DeferredRewardsProtocol]] — LLM-driven deferred rewards mechanism
-- [[RewardsBoxAtomicity]] — rewards_box and planning_block consistency
-- [[LevelUpBug]] — Full bug chain context
-- [[StreamingOrchestrator]] — SSE streaming entry point
+- [LevelUpCodeArchitecture](LevelUpCodeArchitecture.md) — Full architecture including all 3 paths and v4 design
+- [DeferredRewardsProtocol](DeferredRewardsProtocol.md) — LLM-driven deferred rewards mechanism
+- [RewardsBoxAtomicity](RewardsBoxAtomicity.md) — rewards_box and planning_block consistency
+- [LevelUpBug](LevelUpBug.md) — Full bug chain context
+- [StreamingOrchestrator](StreamingOrchestrator.md) — SSE streaming entry point

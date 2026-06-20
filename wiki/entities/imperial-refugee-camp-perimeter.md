@@ -10,13 +10,13 @@ total_scenes: 230
 
 ## Overview
 
-** Imperial Refugee Camp - Perimeter appears in 5 scenes across the [[dragon-knight-good]] campaign.
+** Imperial Refugee Camp - Perimeter appears in 5 scenes across the [dragon-knight-good](../sources/dragon-knight-good.md) campaign.
 
 ## Description
 
 ** Imperial Refugee Camp - Perimeter is an entity from the dragon-knight-good campaign.
 
 ## References
-- [[dragon-knight-good]] — campaign overview
-- [[dragon-knight-good-campaign]]
+- [dragon-knight-good](../sources/dragon-knight-good.md) — campaign overview
+- [dragon-knight-good-campaign](../sources/dragon-knight-good-campaign.md)
 

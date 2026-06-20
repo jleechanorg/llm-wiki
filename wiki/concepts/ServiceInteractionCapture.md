@@ -16,6 +16,6 @@ The practice of recording actual HTTP requests/responses or service calls during
 - Files named with pattern `capture_YYYY-MM-DD.json`
 
 ## Related Concepts
-- [[MockValidation]] — comparing captures against mock responses
-- [[IntegrationTesting]] — using captures in test scenarios
-- [[PerformanceAnalysis]] — measuring service operation timing
+- [MockValidation](MockValidation.md) — comparing captures against mock responses
+- [IntegrationTesting](IntegrationTesting.md) — using captures in test scenarios
+- [PerformanceAnalysis](PerformanceAnalysis.md) — measuring service operation timing

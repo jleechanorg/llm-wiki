@@ -30,8 +30,8 @@ Meta-Harness addresses all these by using filesystem history to access full code
 
 ## Connections
 
-- [[MetaHarness]] — outperforms AlphaEvolv through richer feedback access
-- [[ACE]] — another text optimizer comparison
-- [[OpenEvolve]] — related evolutionary optimizer
-- [[FeedbackLoop]] — Meta-Harness uses richer feedback than scalar scores
-- [[ExecutionTraces]] — Meta-Harness accesses traces that AlphaEvolv cannot
+- [MetaHarness](MetaHarness.md) — outperforms AlphaEvolv through richer feedback access
+- [ACE](ACE.md) — another text optimizer comparison
+- [OpenEvolve](OpenEvolve.md) — related evolutionary optimizer
+- [FeedbackLoop](FeedbackLoop.md) — Meta-Harness uses richer feedback than scalar scores
+- [ExecutionTraces](ExecutionTraces.md) — Meta-Harness accesses traces that AlphaEvolv cannot

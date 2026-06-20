@@ -15,7 +15,7 @@ Model Context Protocol server providing tool-based access to WorldArchitect.AI. 
 - **Role**: Tool interface for LLM function calling
 
 ## Connections
-- Tools defined in world_logic.py delegate to [[UnifiedApiPy]]
+- Tools defined in world_logic.py delegate to [UnifiedApiPy](UnifiedApiPy.md)
 - Provides function calling interface for campaign management
 
 ## Status

@@ -25,5 +25,5 @@ Technique used by mock LLM services to determine appropriate response types base
 - **validation_prompt**: Data validation scenarios
 
 ## Related
-- [[MockLLMClient]] — implements pattern matching
+- [MockLLMClient](../entities/MockLLMClient.md) — implements pattern matching
 - [[ForcedResponseMode]] — explicit response forcing

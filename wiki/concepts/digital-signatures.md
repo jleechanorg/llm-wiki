@@ -26,6 +26,6 @@ Digital signatures for policy bundles use JWT tokens containing file hashes to v
 Digital signatures model the principle that the model contract (prompt files + schema) should be integrity-verified before execution — analogous to how OPA refuses to load unsigned bundles. The ZFC design doc's prompt files should be treated as signed policy documents.
 
 ## See Also
-- [[OPA-Bundle-Signing]]
-- [[Policy-Decoupling]]
-- [[ZFC-Level-Up-Architecture]]
+- [OPA-Bundle-Signing](OPA-Bundle-Signing.md)
+- [Policy-Decoupling](Policy-Decoupling.md)
+- [ZFC-Level-Up-Architecture](ZFC-Level-Up-Architecture.md)

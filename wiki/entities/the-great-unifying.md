@@ -10,13 +10,13 @@ total_scenes: 527
 
 ## Overview
 
-The Great Unifying appears in 7 scenes across the [[itachi-evil-campaign-2]] campaign.
+The Great Unifying appears in 7 scenes across the [itachi-evil-campaign-2](../sources/itachi-evil-campaign-2.md) campaign.
 
 ## Description
 
 The Great Unifying is an entity from the itachi-evil-campaign-2 campaign.
 
 ## References
-- [[itachi-evil-campaign-2]] — campaign overview
-- [[itachi-evil-campaign-2-campaign]]
+- [itachi-evil-campaign-2](../sources/itachi-evil-campaign-2.md) — campaign overview
+- [itachi-evil-campaign-2-campaign](../sources/itachi-evil-campaign-2-campaign.md)
 

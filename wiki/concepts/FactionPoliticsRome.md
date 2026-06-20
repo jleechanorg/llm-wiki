@@ -11,7 +11,7 @@ Faction Politics Rome is the factional power landscape of the Aurelius Caesar V2
 
 ## Key Details
 - **Category:** Setting / Faction System
-- **Campaign(s):** [[aurelius-caesar-v2-campaign]]
+- **Campaign(s):** [aurelius-caesar-v2-campaign](../sources/aurelius-caesar-v2-campaign.md)
 - **Setting:** 40 BCE Italy, Roman Republic
 
 ## Key Factions
@@ -20,7 +20,7 @@ Faction Politics Rome is the factional power landscape of the Aurelius Caesar V2
 - **Roman Elite:** Benefited by slavery, hostile to Aurelius's crusade.
 
 ## Connections
-- [[AureliusJuliaCaesarV2]] — protagonist, anti-slavery Paladin navigating Roman faction politics
-- [[SpartacusRebels]] — slave army faction
-- [[RomanRepublic]] — the establishment Aurelius opposes
-- [[Aurelia]] — Aurelius's wife, a former slave whose rescue fueled his anti-slavery crusade
+- [AureliusJuliaCaesarV2](../entities/AureliusJuliaCaesarV2.md) — protagonist, anti-slavery Paladin navigating Roman faction politics
+- [SpartacusRebels](../entities/SpartacusRebels.md) — slave army faction
+- [RomanRepublic](../entities/RomanRepublic.md) — the establishment Aurelius opposes
+- [Aurelia](../entities/Aurelia.md) — Aurelius's wife, a former slave whose rescue fueled his anti-slavery crusade

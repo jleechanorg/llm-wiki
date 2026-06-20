@@ -14,12 +14,12 @@ The Bloom & Shadow is a high-end establishment in the Lower City of Baldur's Gat
 - Setting: Baldur's Gate Lower City
 - Type: High-end establishment (brothel)
 - Proprietor: Madam Zylra (implied)
-- Campaign appearances: [[nocturne-bg3-after-campaign]]
+- Campaign appearances: [nocturne-bg3-after-campaign](../sources/nocturne-bg3-after-campaign.md)
 
 ## Story Context
 In the aftermath of the Absolute's fall, the city is hungry for distraction, and The Bloom & Shadow is only too happy to provide it. The "special guests" include merchants with ties to the very rivals who ruined families — providing opportunities for vengeance or further degradation.
 
 ## Connections
-- [[NocturneBg3After]] — resident of the establishment
-- [[HouseNocturne]] — the fallen noble house whose members were sold here
-- [[CollegeOfEloquence]] — Nocturne's subclass
+- [NocturneBg3After](NocturneBg3After.md) — resident of the establishment
+- [HouseNocturne](HouseNocturne.md) — the fallen noble house whose members were sold here
+- [CollegeOfEloquence](../concepts/CollegeOfEloquence.md) — Nocturne's subclass

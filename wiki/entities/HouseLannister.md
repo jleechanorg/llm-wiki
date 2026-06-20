@@ -20,4 +20,4 @@ Tywin's obsession with legacy makes him highly susceptible to deals that guarant
 
 ## Connections
 - [[TywinLannister]] — Leader, subject of blackmail
-- [[VisenyaTargaryen]] — Holds "Lion's Pact" blackmail over Tywin
+- [VisenyaTargaryen](VisenyaTargaryen.md) — Holds "Lion's Pact" blackmail over Tywin

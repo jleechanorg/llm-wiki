@@ -52,6 +52,6 @@ The current per-campaign cache stores system+tools redundantly per active campai
 
 ## Related
 
-- [[CachedSystemInstructionTokens]] — system instruction token overhead
-- [[GeminiApiVariance]] — below-threshold prompt variance
-- [[GeminiCostApportionment]] — cost epic this spike feeds (rev-9piwk)
+- [CachedSystemInstructionTokens](CachedSystemInstructionTokens.md) — system instruction token overhead
+- [GeminiApiVariance](GeminiApiVariance.md) — below-threshold prompt variance
+- [GeminiCostApportionment](GeminiCostApportionment.md) — cost epic this spike feeds (rev-9piwk)

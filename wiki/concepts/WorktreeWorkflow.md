@@ -35,9 +35,9 @@ Some worktrees include `./test_server_manager.sh` for stopping/starting per-bran
 
 ## Related concepts
 
-- [[GitWorkflow]]
-- [[NoWorktreeIsolation]]
-- [[GitSHATracking]]
+- [GitWorkflow](GitWorkflow.md)
+- [NoWorktreeIsolation](NoWorktreeIsolation.md)
+- [GitSHATracking](GitSHATracking.md)
 
 ## Sources
 

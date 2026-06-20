@@ -10,13 +10,13 @@ total_scenes: 140
 
 ## Overview
 
-** Road to the Villa of Albinius, Capua appears in 6 scenes across the [[gaia-julia-v6]] campaign.
+** Road to the Villa of Albinius, Capua appears in 6 scenes across the [gaia-julia-v6](../sources/gaia-julia-v6.md) campaign.
 
 ## Description
 
 ** Road to the Villa of Albinius, Capua is an entity from the gaia-julia-v6 campaign.
 
 ## References
-- [[gaia-julia-v6]] — campaign overview
-- [[gaia-julia-v6-campaign]]
+- [gaia-julia-v6](../sources/gaia-julia-v6.md) — campaign overview
+- [gaia-julia-v6-campaign](../sources/gaia-julia-v6-campaign.md)
 

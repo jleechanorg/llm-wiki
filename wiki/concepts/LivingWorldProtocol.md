@@ -16,5 +16,5 @@ Game design principle where NPCs have independent lives, agendas, and agency. NP
 - **Mandatory Visibility**: `state_updates.scene_event` must appear in narrative
 
 ## Related Concepts
-- [[NPCAutonomy]]
-- [[SceneEvents]]
+- [NPCAutonomy](NPCAutonomy.md)
+- [SceneEvents](SceneEvents.md)

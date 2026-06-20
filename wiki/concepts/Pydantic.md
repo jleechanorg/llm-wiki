@@ -16,9 +16,9 @@ Python data validation library using Python type annotations to define schemas. 
 - Nested model support
 
 ## Usage in Wiki
-- [[entity_tracking]] uses Pydantic for SceneManifest validation
+- [entity_tracking](../entities/entity_tracking.md) uses Pydantic for SceneManifest validation
 - VALIDATION_TYPE constant = "Pydantic"
 
 ## Related Concepts
-- [[DefensiveNumericConverter]] — complementary type handling
-- [[SceneManifest]] — Pydantic model using this validation
+- [DefensiveNumericConverter](DefensiveNumericConverter.md) — complementary type handling
+- [SceneManifest](SceneManifest.md) — Pydantic model using this validation

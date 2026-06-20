@@ -43,4 +43,4 @@ The Anthropic Claude API provides access to Claude models via REST and SDKs (Pyt
 ## Connections
 
 - [[Prompt Engineering]] — API usage is how prompt engineering is operationalized
-- [[RLHF]] — RLHF is the training technique behind Claude's helpfulness and harmlessness
+- [RLHF](RLHF.md) — RLHF is the training technique behind Claude's helpfulness and harmlessness

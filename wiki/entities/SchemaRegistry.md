@@ -18,11 +18,11 @@ Schema Registry (Confluent) provides centralized schema management and validatio
 
 ## Connections
 
-- [[Confluent]] — Schema Registry is a Confluent product
-- [[ApacheKafka]] — Schema Registry validates Kafka message schemas
-- [[SchemaIDValidation]] — core validation mechanism
-- [[DataContracts]] — schema registry enforces producer-consumer agreements
+- [Confluent](Confluent.md) — Schema Registry is a Confluent product
+- [ApacheKafka](ApacheKafka.md) — Schema Registry validates Kafka message schemas
+- [SchemaIDValidation](../concepts/SchemaIDValidation.md) — core validation mechanism
+- [DataContracts](../concepts/DataContracts.md) — schema registry enforces producer-consumer agreements
 
 ## See Also
-- [[Confluent]]
-- [[SchemaIDValidation]]
+- [Confluent](Confluent.md)
+- [SchemaIDValidation](../concepts/SchemaIDValidation.md)

@@ -18,4 +18,4 @@ Module containing the centralized model selection logic for the MVP site. Export
 
 ## Related
 - [[TDD Tests for Centralized Model Selection]] — source tests
-- [[Gemini]] — LLM provider
+- [Gemini](Gemini.md) — LLM provider

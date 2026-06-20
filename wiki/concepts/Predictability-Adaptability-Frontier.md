@@ -13,7 +13,7 @@ Concept from Microsoft Agent Framework describing the fundamental trade-off in o
 The orchestrator's design implements this trade-off by choosing when to use deterministic vs LLM-driven approaches.
 
 ## See Also
-- [[Microsoft]]
+- [Microsoft](../entities/Microsoft.md)
 - [[Hybrid Orchestration]]
 - [[LLM-Driven Orchestration]]
 - [[Deterministic Orchestration]]

@@ -33,10 +33,10 @@ R'hllor is a Tier 1 Primordial deity — the Lord of Light, god of fire and shad
 > "You build a hearth in the heart of the Void, Star-Eater. It is an efficient use of my fire."
 
 ## Relationships
-- **[[Aegon]]**: The "Star-Eater" — the one who built the lens for his fire
-- **[[PrinceDaemon]]**: The vessel who received the Fire of Prophecy
+- **[Aegon](Aegon.md)**: The "Star-Eater" — the one who built the lens for his fire
+- **[PrinceDaemon](PrinceDaemon.md)**: The vessel who received the Fire of Prophecy
 - **[[TheGreatOther]]**: The enemy — the Void that R'hllor's heat fights
 
 ## Connections
-- [[Aegon]] — Star-Eater, the lens builder
-- [[PrinceDaemon]] — prophetic vessel
+- [Aegon](Aegon.md) — Star-Eater, the lens builder
+- [PrinceDaemon](PrinceDaemon.md) — prophetic vessel

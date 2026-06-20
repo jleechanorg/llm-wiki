@@ -22,6 +22,6 @@ A game event that MUST be rendered in the player narrative the same turn it is g
 Scene events are never "off-screen bookkeeping" - they represent the living world's direct interface with the player. They must be rendered faithfully with available dialog, action, or speaker details.
 
 ## Relationship to Other Concepts
-- [[LivingWorld]]: The broader system that generates scene events
+- [LivingWorld](LivingWorld.md): The broader system that generates scene events
 - [[WorldEvent]]: Container structure that may include scene events
-- [[BackgroundEvent]]: Events not directly player-facing
+- [BackgroundEvent](BackgroundEvent.md): Events not directly player-facing

@@ -2,7 +2,7 @@
 
 **Type:** API Integration  
 **Provider:** x.ai (Grok)  
-**Implementation:** [[sprite-generator-service]]
+**Implementation:** [sprite-generator-service](../entities/sprite-generator-service.md)
 
 ## Overview
 
@@ -115,11 +115,11 @@ Results are cached to minimize API calls:
 
 ## Fallback
 
-When Grok API is unavailable, [[spritesheet-ts]] provides procedural sprite generation as a fallback.
+When Grok API is unavailable, [spritesheet-ts](../entities/spritesheet-ts.md) provides procedural sprite generation as a fallback.
 
 ## Relationship to Other Concepts
 
-- [[sprite-generator-service]] - Main implementation
+- [sprite-generator-service](../entities/sprite-generator-service.md) - Main implementation
 - [[SpriteGenerationSystem]] - System context
 - [[ChronoTriggerStyleSpriteSheets]] - Target style
 - [[16BitSNESStyleSpriteRendering]] - Technical style

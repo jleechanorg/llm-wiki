@@ -13,7 +13,7 @@ Core game state object in mvp_site.game_state module that tracks player characte
 Used in end-to-end tests to verify game state persists correctly through the full application stack from API endpoint to Firestore storage.
 
 ## Related
-- [[End2EndBaseTestCase]] - test base class
-- [[FirestoreService]] - persistence layer
-- [[ThorinTheBold]] - sample player character
-- [[Gandalf]] - sample NPC companion
+- [End2EndBaseTestCase](End2EndBaseTestCase.md) - test base class
+- [FirestoreService](FirestoreService.md) - persistence layer
+- [ThorinTheBold](ThorinTheBold.md) - sample player character
+- [Gandalf](Gandalf.md) - sample NPC companion

@@ -19,8 +19,8 @@ Production D&D 5e AI Game Master platform. Flask + MCP backend, Gemini AI engine
 See [[WorldArchitect System Architecture v3.0]] for full deep-dive.
 
 ## Connections
-- [[GeminiAPI]] — primary LLM
-- [[FastEmbed]] — semantic routing
-- [[DiceIntegrity]] — anti-fabrication
-- [[TokenBudget]] — token allocation
-- [[FactionSystem]] — living world
+- [GeminiAPI](GeminiAPI.md) — primary LLM
+- [FastEmbed](FastEmbed.md) — semantic routing
+- [DiceIntegrity](DiceIntegrity.md) — anti-fabrication
+- [TokenBudget](TokenBudget.md) — token allocation
+- [FactionSystem](FactionSystem.md) — living world

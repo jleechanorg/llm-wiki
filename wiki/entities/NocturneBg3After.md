@@ -16,13 +16,13 @@ Nocturne in the BG3 After campaign is a sixteen-year-old Half-Elf Bard (College 
 - Stats: STR 10 (+0), DEX 16 (+3), CON 9 (-1), INT 12 (+1), WIS 11 (+0), CHA 16 (+3)
 - HP: 7 | AC: 11 (Leather Armor)
 - Skills: Persuasion +7, Deception +5, Performance +5, Insight +2
-- Campaign appearances: [[nocturne-bg3-after-campaign]]
+- Campaign appearances: [nocturne-bg3-after-campaign](../sources/nocturne-bg3-after-campaign.md)
 
 ## Story
 Her family's bankruptcy didn't just strip her of her title; it stripped her of her agency. In a city recovering from a mind-flayer invasion, many seek to forget in the arms of those the city has forgotten. Tonight, a "special guest" — a merchant with ties to the rivals who ruined her family — has requested her company.
 
 ## Connections
-- [[TheBloomAndShadow]] — where she is currently held
-- [[HouseNocturne]] — her fallen noble house
-- [[CollegeOfEloquence]] — Bard subclass
-- [[NobleHouseFall]] — theme of family's downfall
+- [TheBloomAndShadow](TheBloomAndShadow.md) — where she is currently held
+- [HouseNocturne](HouseNocturne.md) — her fallen noble house
+- [CollegeOfEloquence](../concepts/CollegeOfEloquence.md) — Bard subclass
+- [NobleHouseFall](../concepts/NobleHouseFall.md) — theme of family's downfall

@@ -26,6 +26,6 @@ Coverage ∝ log(N_samples)^k  (over 4 orders of magnitude)
 ## Connections
 
 - Evidence for harness design importance — verifier quality determines ceiling
-- Related to [[SelfRefine]] — repeated attempt and selection
+- Related to [SelfRefine](SelfRefine.md) — repeated attempt and selection
 - Used by [[DeepSeek-Coder-V2]] for SWE-bench evaluation
-- [[RefineRL]] extends this with RL-based selection
+- [RefineRL](RefineRL.md) extends this with RL-based selection

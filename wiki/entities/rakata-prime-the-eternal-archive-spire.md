@@ -10,13 +10,13 @@ total_scenes: 822
 
 ## Overview
 
-** Rakata Prime - The Eternal Archive Spire appears in 8 scenes across the [[alexiel-swtor]] campaign.
+** Rakata Prime - The Eternal Archive Spire appears in 8 scenes across the [alexiel-swtor](../sources/alexiel-swtor.md) campaign.
 
 ## Description
 
 ** Rakata Prime - The Eternal Archive Spire is an entity from the alexiel-swtor campaign.
 
 ## References
-- [[alexiel-swtor]] — campaign overview
-- [[alexiel-swtor-campaign]]
+- [alexiel-swtor](../sources/alexiel-swtor.md) — campaign overview
+- [alexiel-swtor-campaign](../sources/alexiel-swtor-campaign.md)
 

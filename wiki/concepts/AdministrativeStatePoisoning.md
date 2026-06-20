@@ -22,7 +22,7 @@ Developers focus on making the shortcut work (heal the player, skip character cr
 
 ## Fix: Declarative Contracts
 
-Every admin shortcut must declare what it `resets`, `sets`, `preserves`, and `requires_clean` — see [[AdminOverrideContract]]. Runtime enforcement via `_ensure_modal_exclusivity()` catches any remaining violations.
+Every admin shortcut must declare what it `resets`, `sets`, `preserves`, and `requires_clean` — see [AdminOverrideContract](AdminOverrideContract.md). Runtime enforcement via `_ensure_modal_exclusivity()` catches any remaining violations.
 
 ## Discovered In
 
@@ -32,7 +32,7 @@ Every admin shortcut must declare what it `resets`, `sets`, `preserves`, and `re
 
 ## Related
 
-- [[AdminOverrideContract]] — the fix pattern (declarative cleanup manifests)
-- [[ModalIntersection]] — concurrent modal corruption (the broader category)
-- [[StaleFlag]] — the symptom
-- [[DuplicatedConstantLists]] — a co-discovered anti-pattern from the same analysis
+- [AdminOverrideContract](AdminOverrideContract.md) — the fix pattern (declarative cleanup manifests)
+- [ModalIntersection](ModalIntersection.md) — concurrent modal corruption (the broader category)
+- [StaleFlag](StaleFlag.md) — the symptom
+- [DuplicatedConstantLists](DuplicatedConstantLists.md) — a co-discovered anti-pattern from the same analysis

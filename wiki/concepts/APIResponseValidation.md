@@ -30,9 +30,9 @@ def _validate_api_response(response):
 ```
 
 ## Related Concepts
-- [[TypeGuards]] — underlying validation mechanism
-- [[ErrorHandlingPatterns]] — handling validation failures
-- [[TypeSafety]] — the property being enforced
+- [TypeGuards](TypeGuards.md) — underlying validation mechanism
+- [ErrorHandlingPatterns](ErrorHandlingPatterns.md) — handling validation failures
+- [TypeSafety](TypeSafety.md) — the property being enforced
 
 ## Sources
 - [[Type Safety Foundation Tests]] — test suite for API response validation

@@ -22,6 +22,6 @@ The Hunger is a unique mechanical system specific to the bg1-nocturne campaign. 
 The Hunger adds survivalist tension to the campaign. Nocturne must balance resources and ensure she remains satiated for peak performance, while withdrawal creates vulnerability at critical moments. This mechanic reinforces the "Serpent Queen" survivalist theme and creates practical decision points beyond combat.
 
 ## Connections
-- [[Nocturne]] — affected character
-- [[bg1-nocturne-campaign]] — source campaign
-- [[bg1-nocturne-continued-campaign]] — continues with mechanic
+- [Nocturne](../entities/Nocturne.md) — affected character
+- [bg1-nocturne-campaign](../sources/bg1-nocturne-campaign.md) — source campaign
+- [bg1-nocturne-continued-campaign](../sources/bg1-nocturne-continued-campaign.md) — continues with mechanic

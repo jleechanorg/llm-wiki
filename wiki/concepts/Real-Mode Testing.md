@@ -21,5 +21,5 @@ Testing approach where tests execute against actual external services (Firebase 
 - Call count limits for cost protection
 
 ## Related
-- [[Mock-Mode Testing]] — opposite mode
-- [[Dual-Mode Testing]] — framework supporting both
+- [Mock-Mode Testing](Mock-Mode Testing.md) — opposite mode
+- [Dual-Mode Testing](Dual-Mode Testing.md) — framework supporting both

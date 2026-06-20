@@ -20,6 +20,6 @@ The process of reconciling divergent changes between git branches during a merge
 3. No forced choices when concatenation works
 
 ## Related Concepts
-- [[ContextManagers]] — Python pattern used for resource management
-- [[EvidencePreservation]] — Cross-process test evidence strategy
+- [ContextManagers](ContextManagers.md) — Python pattern used for resource management
+- [EvidencePreservation](EvidencePreservation.md) — Cross-process test evidence strategy
 - [[GitBranch]] — Branching strategy and merge workflows

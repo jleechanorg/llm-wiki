@@ -18,5 +18,5 @@ System limiting the number of magical items a character can actively use. Config
 High-magic campaigns balance via encounter design + enemy parity rather than strict attunement limits.
 
 ## Related Concepts
-- [[HighMagicBalance]] — encounter difficulty scaling
-- [[StandardDND]] — core rules reference
+- [HighMagicBalance](HighMagicBalance.md) — encounter difficulty scaling
+- [StandardDND](StandardDND.md) — core rules reference

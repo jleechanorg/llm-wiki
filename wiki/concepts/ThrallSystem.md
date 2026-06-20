@@ -18,6 +18,6 @@ The Thrall System is a companion mechanic in the Nocturne BG3 V7 campaign. It re
 The thrall system integrates with the Divine Scion's conversion abilities and represents Nocturne's growing power base as she builds her cult and influence.
 
 ## Connections
-- [[NocturneBg3V7]] — User of the system
-- [[MothersMercy]] — Ability that creates thralls
-- [[DivineScion]] — Source class
+- [NocturneBg3V7](../entities/NocturneBg3V7.md) — User of the system
+- [MothersMercy](MothersMercy.md) — Ability that creates thralls
+- [DivineScion](DivineScion.md) — Source class

@@ -16,9 +16,9 @@ LLM prompting technique that embeds structured entity manifest into generation p
 - JSON format instructions for structured output
 
 ## Related Concepts
-- [[StructuredResponse]] — output format from structured generation
-- [[EntityTracking]] — entity manifest creation
-- [[JSONSchemaValidation]] — response validation
+- [StructuredResponse](StructuredResponse.md) — output format from structured generation
+- [EntityTracking](EntityTracking.md) — entity manifest creation
+- [JSONSchemaValidation](JSONSchemaValidation.md) — response validation
 
 ## Test Coverage
 - test_step1_structured_generation_prompt_creation validates prompt creation

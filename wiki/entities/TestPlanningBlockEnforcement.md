@@ -8,4 +8,4 @@ last_updated: 2026-04-08
 
 Comprehensive test file (757 lines) for planning block validation and enforcement in story continuation. Tests JSON responses, block placement, whitespace handling, character creation, API failure fallback, god mode switching, DM mode detection, and structured response updates.
 
-**Related:** [[TestPlanningBlockJsonCorruptionFix]], [[TestPlanningBlockJsonFirstFix]], [[TestPlanningBlockSimplified]]
+**Related:** [TestPlanningBlockJsonCorruptionFix](TestPlanningBlockJsonCorruptionFix.md), [TestPlanningBlockJsonFirstFix](TestPlanningBlockJsonFirstFix.md), [TestPlanningBlockSimplified](TestPlanningBlockSimplified.md)

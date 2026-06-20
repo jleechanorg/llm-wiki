@@ -21,6 +21,6 @@ A concurrency pattern where independent operations execute simultaneously to red
 - Improved user experience without additional resources
 
 ## Related Concepts
-- [[DualPassVerification]] — the system being optimized
-- [[LatencyOptimization]] — the goal of the optimization
-- [[GracefulDegradation]] — fallback when parallel processing fails
+- [DualPassVerification](DualPassVerification.md) — the system being optimized
+- [LatencyOptimization](LatencyOptimization.md) — the goal of the optimization
+- [GracefulDegradation](GracefulDegradation.md) — fallback when parallel processing fails

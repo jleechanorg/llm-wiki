@@ -25,6 +25,6 @@ if reduction > 0:
 ```
 
 ## Related Concepts
-- [[TypeSafetyGuards]] — defensive checks before logging
-- [[ContextCompaction]] — uses warning logic for token budget reporting
+- [TypeSafetyGuards](TypeSafetyGuards.md) — defensive checks before logging
+- [ContextCompaction](ContextCompaction.md) — uses warning logic for token budget reporting
 - [[LoggingBestPractices]] — structured logging patterns

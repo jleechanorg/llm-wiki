@@ -22,5 +22,5 @@ Environment Variable Overrides allow runtime configuration to take precedence ov
 - This was a behavioral change from earlier implementations
 
 ## Connections
-- [[ProviderSelection]] — affected by env var overrides
-- [[LLMService]] — reads environment variables
+- [ProviderSelection](ProviderSelection.md) — affected by env var overrides
+- [LLMService](LLMService.md) — reads environment variables

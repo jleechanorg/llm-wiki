@@ -29,5 +29,5 @@ Backward compatibility in API design means new versions of the service continue 
 - Changing response types (array to object or vice versa)
 
 ## Related Concepts
-- [[APIResponseFormatConsistency]] — maintaining format standards
-- [[APITesting]] — validating API contracts
+- [APIResponseFormatConsistency](APIResponseFormatConsistency.md) — maintaining format standards
+- [APITesting](APITesting.md) — validating API contracts

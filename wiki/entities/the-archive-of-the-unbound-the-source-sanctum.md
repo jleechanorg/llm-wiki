@@ -10,13 +10,13 @@ total_scenes: 396
 
 ## Overview
 
-** The Archive of the Unbound - The Source Sanctum appears in 10 scenes across the [[nocturne-old-republic]] campaign.
+** The Archive of the Unbound - The Source Sanctum appears in 10 scenes across the [nocturne-old-republic](../sources/nocturne-old-republic.md) campaign.
 
 ## Description
 
 ** The Archive of the Unbound - The Source Sanctum is an entity from the nocturne-old-republic campaign.
 
 ## References
-- [[nocturne-old-republic]] — campaign overview
-- [[nocturne-old-republic-campaign]]
+- [nocturne-old-republic](../sources/nocturne-old-republic.md) — campaign overview
+- [nocturne-old-republic-campaign](../sources/nocturne-old-republic-campaign.md)
 

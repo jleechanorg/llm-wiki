@@ -26,6 +26,6 @@ The practice of ensuring memory_utils and context_compaction use compatible budg
 
 ## Related Concepts
 
-- [[ContextCompaction]] — the mechanism that enforces budget constraints
-- [[CoreMemories]] — the content being budgeted
-- [[REDGreenTDD]] — development methodology used in these tests
+- [ContextCompaction](ContextCompaction.md) — the mechanism that enforces budget constraints
+- [CoreMemories](CoreMemories.md) — the content being budgeted
+- [REDGreenTDD](REDGreenTDD.md) — development methodology used in these tests

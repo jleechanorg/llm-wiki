@@ -23,6 +23,6 @@ Catelyn Stark (Level 4) is the wife of Eddard Stark and mother to Robb, Sansa, a
 - **House**: Tully by birth, Stark by marriage
 
 ## Connections
-- [[EddardStark]] — husband, killed by their sons
-- [[RobbStark]] — son who branded her
-- [[JonSnow]] — the bastard she hates
+- [EddardStark](EddardStark.md) — husband, killed by their sons
+- [RobbStark](RobbStark.md) — son who branded her
+- [JonSnow](JonSnow.md) — the bastard she hates

@@ -21,6 +21,6 @@ Scalable Oversight is the challenge of verifying AI behavior at scale when human
 Scalable oversight is the core challenge for AO's governance layer — how to maintain governance over thousands of PRs without human review of each one. Escalation paths and drift detection are mechanisms for scalable oversight.
 
 ## See Also
-- [[GovernanceLayer]]
-- [[DriftDetection]]
-- [[EscalationRouter]]
+- [GovernanceLayer](GovernanceLayer.md)
+- [DriftDetection](DriftDetection.md)
+- [EscalationRouter](EscalationRouter.md)

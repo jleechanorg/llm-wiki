@@ -97,5 +97,5 @@ This pattern's PR (#6272) introduced an anti-pattern: **unresolved git merge con
 - [[dice-authenticity-standards]] — test determinism is a form of authenticity guarantee
 - [[streaming-evidence-standards]] — video evidence gate; related to test stability
 - [[PRWatchdog]] — monitors PR review state
-- [[CanonicalCodePatterns]] — Python error handling patterns (try/except MCP server stop)
+- [CanonicalCodePatterns](CanonicalCodePatterns.md) — Python error handling patterns (try/except MCP server stop)
 - [[Normalization Bypass via Streaming Passthrough]] — [[normalize_rewards_box_for_ui]] normalization atomicity; `_coerce_first_valid` prevents normalization bypass via zero-like strings

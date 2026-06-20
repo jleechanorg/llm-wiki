@@ -40,6 +40,6 @@ The Anthropic Claude API supports system prompts, multi-turn conversation, and s
 ## Connections
 
 - [[Claude API Best Practices]] — the API itself is how prompt engineering is operationalized
-- [[RAG]] — prompts for RAG must instruct the model to cite and attribute retrieved context
+- [RAG](RAG.md) — prompts for RAG must instruct the model to cite and attribute retrieved context
 - [[LLM Fine-Tuning]] — fine-tuning is often pursued when prompt engineering hits ceiling
-- [[MetaHarness]] — Meta-Harness optimizes the harness code that includes prompts, demonstrating that infrastructure-level changes outperform prompt tuning alone
+- [MetaHarness](MetaHarness.md) — Meta-Harness optimizes the harness code that includes prompts, demonstrating that infrastructure-level changes outperform prompt tuning alone

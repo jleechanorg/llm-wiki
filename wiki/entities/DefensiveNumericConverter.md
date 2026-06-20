@@ -25,4 +25,4 @@ Defensive numeric conversion schema class that safely handles unknown/invalid va
 - `convert_dict(data)` — recursively processes dictionaries, preserving non-numeric fields
 
 ## Used By
-- [[EntitiesPydantic]] — Character and NPC schema validation
+- [EntitiesPydantic](EntitiesPydantic.md) — Character and NPC schema validation

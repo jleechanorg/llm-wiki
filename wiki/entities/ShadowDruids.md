@@ -11,13 +11,13 @@ The Shadow Druids are a radical faction within the Emerald Grove druids who advo
 
 ## Key Details
 - **Category:** Faction
-- **Campaign(s):** [[nocturne-bg3-v6-bug-repro-test]]
+- **Campaign(s):** [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md)
 
 ## Connections
-- [[EmeraldGroveDruids]] — parent faction
-- [[Kagha]] — potential leader
-- [[EmeraldGrove]] — base
-- [[TrueSouls]] — external threat
+- [EmeraldGroveDruids](EmeraldGroveDruids.md) — parent faction
+- [Kagha](Kagha.md) — potential leader
+- [EmeraldGrove](EmeraldGrove.md) — base
+- [TrueSouls](TrueSouls.md) — external threat
 
 ## Appearances
-- [[nocturne-bg3-v6-bug-repro-test]] — internal political tension
+- [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md) — internal political tension

@@ -10,13 +10,13 @@ total_scenes: 291
 
 ## Overview
 
-** Ocean Spire (Apex) appears in 12 scenes across the [[tyranny]] campaign.
+** Ocean Spire (Apex) appears in 12 scenes across the [tyranny](../sources/tyranny.md) campaign.
 
 ## Description
 
 ** Ocean Spire (Apex) is an entity from the tyranny campaign.
 
 ## References
-- [[tyranny]] — campaign overview
-- [[tyranny-campaign]]
+- [tyranny](../sources/tyranny.md) — campaign overview
+- [tyranny-campaign](../sources/tyranny-campaign.md)
 

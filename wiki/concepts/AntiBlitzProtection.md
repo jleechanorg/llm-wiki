@@ -19,6 +19,6 @@ The `_ensure_social_hp_integrity` function:
 Unlike prompt-based restrictions, server-enforced cooldown blocking operates at the code level after LLM response generation, making it impossible to bypass through prompt engineering.
 
 ## Related Concepts
-- [[SocialHP]] — The mechanic being protected
-- [[ContinuitySafeguards]] — The broader safeguard system
-- [[PreventiveGuards]] — The module implementing this protection
+- [SocialHP](SocialHP.md) — The mechanic being protected
+- [ContinuitySafeguards](ContinuitySafeguards.md) — The broader safeguard system
+- [PreventiveGuards](../entities/PreventiveGuards.md) — The module implementing this protection

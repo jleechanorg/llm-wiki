@@ -54,5 +54,5 @@ PUT /api/campaign/{id}/launch  # Idempotent PUT
 - Success confirmation within 30s (with timeout error if exceeded)
 
 ## Connections
-- [[StateTransitions]] — State machine for UI states
-- [[RewardsBoxAtomicity]] — Rewards box update atomicity
+- [StateTransitions](StateTransitions.md) — State machine for UI states
+- [RewardsBoxAtomicity](RewardsBoxAtomicity.md) — Rewards box update atomicity

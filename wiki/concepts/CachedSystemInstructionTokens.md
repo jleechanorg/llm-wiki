@@ -21,6 +21,6 @@ TTL extension (1hr→4hr, PR #7074) helps returning players (idle 1–4hr) but h
 
 ## Related
 
-- [[GeminiApiVariance]] — below 78K prompt tokens, API variance dominates
-- [[CodeExecutionSandboxOverhead]] — additional ~6s when sandbox fires
+- [GeminiApiVariance](GeminiApiVariance.md) — below 78K prompt tokens, API variance dominates
+- [CodeExecutionSandboxOverhead](CodeExecutionSandboxOverhead.md) — additional ~6s when sandbox fires
 - [pr7074-cache-ttl-stream-retry](../sources/pr7074-cache-ttl-stream-retry.md) — TTL findings and stream retry fix

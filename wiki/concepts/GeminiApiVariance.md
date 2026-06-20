@@ -16,5 +16,5 @@ Within the 65K-78K prompt token range, Gemini TTFC is dominated by API-level var
 
 ## Related
 
-- [[CachedSystemInstructionTokens]] — the lever that gets you below 78K
-- [[CodeExecutionSandboxOverhead]] — deterministic ~6s overhead when sandbox fires
+- [CachedSystemInstructionTokens](CachedSystemInstructionTokens.md) — the lever that gets you below 78K
+- [CodeExecutionSandboxOverhead](CodeExecutionSandboxOverhead.md) — deterministic ~6s overhead when sandbox fires

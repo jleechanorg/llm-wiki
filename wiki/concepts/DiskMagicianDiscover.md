@@ -43,5 +43,5 @@ DISK_MAGICIAN_CONFIG=$PWD/config.json.template ./disk_magician.sh discover
 
 ## References
 - PR: https://github.com/jleechanorg/disk_magician/pull/4 (merged as 5975589)
-- Memory: [[feedback-2026-06-13-disk-snapshot-discover-bugs]]
-- Source: [[sources/feedback-2026-06-13-disk-snapshot-discover-bugs]]
+- Memory: [feedback-2026-06-13-disk-snapshot-discover-bugs](../sources/feedback-2026-06-13-disk-snapshot-discover-bugs.md)
+- Source: [feedback-2026-06-13-disk-snapshot-discover-bugs](../sources/feedback-2026-06-13-disk-snapshot-discover-bugs.md)

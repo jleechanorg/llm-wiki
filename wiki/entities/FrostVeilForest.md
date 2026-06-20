@@ -19,6 +19,6 @@ The Frost-Veil Forest spans the boundary between more temperate regions and the 
 The forest serves as a natural boundary and buffer zone. Its treacherous nature makes it an effective barrier against military incursions from the north.
 
 ## Connections
-- [[dragon-knight-evil-campaign]] — source campaign
-- [[WinterMourn]] — neighboring province
-- [[AshwoodKeep]] — fortress at its edge
+- [dragon-knight-evil-campaign](../sources/dragon-knight-evil-campaign.md) — source campaign
+- [WinterMourn](WinterMourn.md) — neighboring province
+- [AshwoodKeep](AshwoodKeep.md) — fortress at its edge

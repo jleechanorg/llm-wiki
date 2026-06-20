@@ -21,6 +21,6 @@ Dataclass storing comprehensive contextual information about an entity in the na
 Maintains state continuity for entities across narrative generations, enabling the validator to detect when physical markers or emotional states change without explanation.
 
 ## Related Concepts
-- [[EntityPresenceType]] — presence classification
-- [[ContinuityChecking]] — validates physical marker consistency
-- [[EmotionalStatePatterns]] — detects emotional states in narrative
+- [EntityPresenceType](EntityPresenceType.md) — presence classification
+- [ContinuityChecking](ContinuityChecking.md) — validates physical marker consistency
+- [EmotionalStatePatterns](EmotionalStatePatterns.md) — detects emotional states in narrative

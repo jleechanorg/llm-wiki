@@ -16,4 +16,4 @@ Pattern for handling long campaign descriptions in the campaign wizard UI. Inclu
 - **Population**: Form populator correctly sets textarea values from data objects
 
 ## Connections
-- [[CampaignWizard]] — class implementing this pattern
+- [CampaignWizard](CampaignWizard.md) — class implementing this pattern

@@ -41,6 +41,6 @@ Branch on `origin` (jleechanorg/jleechanclaw). Intent: add KeepAlive + template 
 
 ## Sources
 
-- [[feedback-2026-06-19-hermes-liveness-and-merge-readiness]] — the 5-gate verification that flagged 5/5 failures on this branch
+- [feedback-2026-06-19-hermes-liveness-and-merge-readiness](../sources/feedback-2026-06-19-hermes-liveness-and-merge-readiness.md) — the 5-gate verification that flagged 5/5 failures on this branch
 - [[WorktreeIsolation]] — the rule this branch violates (direct edits to `~/.hermes/` not via PR)
-- [[MergeReadinessGate]] — the 5-gate protocol
+- [MergeReadinessGate](../concepts/MergeReadinessGate.md) — the 5-gate protocol

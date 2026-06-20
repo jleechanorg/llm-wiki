@@ -24,7 +24,7 @@ The Sharingan is Itachi's primary tool for achieving his goals. Combined with hi
 
 ## Connections
 
-- [[ItachiUchiha]] — Wielder
+- [ItachiUchiha](../entities/ItachiUchiha.md) — Wielder
 - [[ItachiEvilCampaign2Campaign]] — Campaign
-- [[MangekyoSharingan]] — Evolution
-- [[UchihaClan]] — Bloodline source
+- [MangekyoSharingan](MangekyoSharingan.md) — Evolution
+- [UchihaClan](../entities/UchihaClan.md) — Bloodline source

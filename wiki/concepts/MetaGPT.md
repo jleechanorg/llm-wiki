@@ -32,6 +32,6 @@ Structured Output Artifacts
 
 ## Connections
 
-- Related to [[Voyager]] — structured collaboration vs. single-agent iteration
+- Related to [Voyager](Voyager.md) — structured collaboration vs. single-agent iteration
 - Related to [[Multi-Agent Coordination]] concepts
-- [[AgentMentor]] extends verification into corrective instruction loops
+- [AgentMentor](AgentMentor.md) extends verification into corrective instruction loops

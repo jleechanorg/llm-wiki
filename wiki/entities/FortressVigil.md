@@ -19,5 +19,5 @@ Fortress Vigil is an imperial fortress that lies in the Dragon's Tooth Foothills
 
 ## Connections
 
-- [[Alexiel]] — currently nearby, being hunted
-- [[CelestialImperium]] — faction controlling fortress
+- [Alexiel](Alexiel.md) — currently nearby, being hunted
+- [CelestialImperium](CelestialImperium.md) — faction controlling fortress

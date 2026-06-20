@@ -22,5 +22,5 @@ Threat tracking system (0-10) measuring how noticed the Sovereign is by other po
 New Sovereigns start at **Aggro 8 (Lethal)** — immediately targeted for Logic Sieges.
 
 ## Related
-- [[SovereignProtocol]] — System using this meter
-- [[RivalSystem]] — Can increase aggro on failure
+- [SovereignProtocol](SovereignProtocol.md) — System using this meter
+- [RivalSystem](../concepts/RivalSystem.md) — Can increase aggro on failure

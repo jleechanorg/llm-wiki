@@ -15,7 +15,7 @@ House Valerius is a noble house in Baldur's Gate with a sigil of a coiled serpen
 - Influence Area: Upper City and Parliament of Peers
 - Public Perception: Respected and feared, known for keen intellect and sharp business dealings
 - Key Figurehead: Lord Cassian Valerius (Age 55), Nocturne's father who orchestrated her exile
-- Campaign appearances: [[nocturne-apex-paladin-campaign]]
+- Campaign appearances: [nocturne-apex-paladin-campaign](../sources/nocturne-apex-paladin-campaign.md)
 
 ## Relations
 - Alliance: Ironhand Mercantile Conglomerate (discreet)
@@ -23,6 +23,6 @@ House Valerius is a noble house in Baldur's Gate with a sigil of a coiled serpen
 - Neutral/Complex: Parliament of Peers (strained diplomacy)
 
 ## Connections
-- [[NocturneApexPaladin]] — member of the house, exiled daughter
-- [[DestinyRuleset]] — campaign ruleset used
-- [[BaldursGatePostAbsolute]] — setting where house operates
+- [NocturneApexPaladin](NocturneApexPaladin.md) — member of the house, exiled daughter
+- [DestinyRuleset](../concepts/DestinyRuleset.md) — campaign ruleset used
+- [BaldursGatePostAbsolute](../concepts/BaldursGatePostAbsolute.md) — setting where house operates

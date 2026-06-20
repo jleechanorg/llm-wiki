@@ -10,13 +10,13 @@ total_scenes: 110
 
 ## Overview
 
-** Stonehand Dwelling, Greenmeadow Village` appears in 22 scenes across the [[merc-solo-brute-gladius]] campaign.
+** Stonehand Dwelling, Greenmeadow Village` appears in 22 scenes across the [merc-solo-brute-gladius](../sources/merc-solo-brute-gladius.md) campaign.
 
 ## Description
 
 ** Stonehand Dwelling, Greenmeadow Village` is an entity from the merc-solo-brute-gladius campaign.
 
 ## References
-- [[merc-solo-brute-gladius]] — campaign overview
-- [[merc-solo-brute-gladius-campaign]]
+- [merc-solo-brute-gladius](../sources/merc-solo-brute-gladius.md) — campaign overview
+- [merc-solo-brute-gladius-campaign](../sources/merc-solo-brute-gladius-campaign.md)
 

@@ -12,11 +12,11 @@ Software Engineering Manager at Snap with prior experience as Staff Software Eng
 
 ## Key Projects
 
-- [[WorldAI]] - AI role playing game
-- [[WorldArchitect]] - AI RPG platform (worldarchitect.ai)
+- [WorldAI](WorldAI.md) - AI role playing game
+- [WorldArchitect](WorldArchitect.md) - AI RPG platform (worldarchitect.ai)
 - AI Research Tool - Takes multiple AI answers and coalesces into 1
 - Custom Code Review Agent
-- [[OpenClaw]] Customization
+- [OpenClaw](OpenClaw.md) Customization
 
 ## Background
 
@@ -27,10 +27,10 @@ Software Engineering Manager at Snap with prior experience as Staff Software Eng
 
 ## Connections
 
-- [[LarryJacobson]] - Co-founder of AI Leadership collaboration
-- [[KartikMathur]] - Co-founder of AI Leadership collaboration
+- [LarryJacobson](LarryJacobson.md) - Co-founder of AI Leadership collaboration
+- [KartikMathur](KartikMathur.md) - Co-founder of AI Leadership collaboration
 - [[AgentLoop]] - Demonstrated and discussed workflow
-- [[CMUX]] - Primary terminal setup for AI workflows
+- [CMUX](CMUX.md) - Primary terminal setup for AI workflows
 
 ## Key Insights
 

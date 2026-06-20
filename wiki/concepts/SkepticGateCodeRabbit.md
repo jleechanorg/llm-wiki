@@ -46,6 +46,6 @@ skeptic_gate:
 ```
 
 ## Connections
-- [[SkepticGate]] — General Skeptic gate system
+- [SkepticGate](SkepticGate.md) — General Skeptic gate system
 - [[MergeGate]] — Merge gate logic
-- [[RepoLevelMergeGuard]] — Repository-level protection
+- [RepoLevelMergeGuard](RepoLevelMergeGuard.md) — Repository-level protection

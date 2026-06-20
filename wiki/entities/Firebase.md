@@ -15,4 +15,4 @@ Google's mobile and web application development platform providing Firestore dat
 - **Clock Skew Patch**: Custom handling for time-ahead credential issues
 
 ## Connections
-- [[WorldArchitect.AI]] — uses Firebase for data persistence
+- [WorldArchitect.AI](WorldArchitect.AI.md) — uses Firebase for data persistence

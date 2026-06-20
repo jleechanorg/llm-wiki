@@ -11,15 +11,15 @@ Abyssal Siren is the advanced form of the College of Perdition, representing Noc
 
 ## Key Details
 - **Category:** GameMechanic / Subclass Evolution
-- **Campaign(s):** [[nocturne-bg3-v5-succubus]], [[nocturne-bg3-v5-succubus-copy]], [[nocturne-bg3-v6-bug-repro-test]]
+- **Campaign(s):** [nocturne-bg3-v5-succubus](../sources/nocturne-bg3-v5-succubus.md), [nocturne-bg3-v5-succubus-copy](../sources/nocturne-bg3-v5-succubus-copy.md), [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md)
 
 ## Related Concepts
-- [[CollegeOfPerdition]] — precursor college
+- [CollegeOfPerdition](CollegeOfPerdition.md) — precursor college
 - [[ThrallMechanics]] — core ability
 - [[SoulThiefProgression]] — advancement system
 - [[PheromoneSpike]] — bonus action ability
-- [[MalcanthetPatron]] — power connection
+- [MalcanthetPatron](MalcanthetPatron.md) — power connection
 
 ## Related Entities
-- [[NocturneSosuke]] — primary user
-- [[Malcanthet]] — patron
+- [NocturneSosuke](../entities/NocturneSosuke.md) — primary user
+- [Malcanthet](../entities/Malcanthet.md) — patron

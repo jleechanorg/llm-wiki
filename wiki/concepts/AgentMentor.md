@@ -31,7 +31,7 @@ Agent failures often stem from imprecise natural language prompt formulations, n
 
 ## Related Concepts
 
-- [[Mem2Evolve]] — internal co-evolution of experience+tools vs Agent Mentor's external behavioral monitoring
-- [[SelfCritiqueVerificationLoop]] — internal correction loop vs external mentor observation
+- [Mem2Evolve](Mem2Evolve.md) — internal co-evolution of experience+tools vs Agent Mentor's external behavioral monitoring
+- [SelfCritiqueVerificationLoop](SelfCritiqueVerificationLoop.md) — internal correction loop vs external mentor observation
 - [[AgenticGovernance]] — Agent Mentor explicitly frames as governance building block
 - [[SpecAmbiguity]] — core problem it addresses

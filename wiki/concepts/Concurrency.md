@@ -20,6 +20,6 @@ Capacity to handle multiple simultaneous requests. In Gunicorn, calculated as wo
 - **4 CPU**: 9 workers × 4 threads = 36 concurrent requests
 
 ## Connections
-- [[Gunicorn]] — implements concurrency via workers/threads
-- [[WorkerProcess]] — parallel request handler
-- [[Threading]] — enables concurrent I/O
+- [Gunicorn](Gunicorn.md) — implements concurrency via workers/threads
+- [WorkerProcess](WorkerProcess.md) — parallel request handler
+- [Threading](Threading.md) — enables concurrent I/O

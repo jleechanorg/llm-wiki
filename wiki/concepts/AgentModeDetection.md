@@ -14,5 +14,5 @@ Agent mode detection is the process of selecting the appropriate agent (StoryMod
 This allows both natural language routing (via classifier) and direct commands (via prefix).
 
 ## Related
-- [[IntentClassifier]]
+- [IntentClassifier](../entities/IntentClassifier.md)
 - [[get_agent_for_input]]

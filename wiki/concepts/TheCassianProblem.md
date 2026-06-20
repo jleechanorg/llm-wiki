@@ -25,10 +25,10 @@ The LLM fails to maintain NPC presence when:
 This is a critical game-breaking bug - players cannot have meaningful interactions with referenced NPCs because those NPCs disappear from the narrative entirely.
 
 ## Related Concepts
-- [[EntityTracking]] - broader tracking system
+- [EntityTracking](EntityTracking.md) - broader tracking system
 - [[NPCDisappearancePattern]] - related failure mode
 
 
 ## Related Entities
-- [[Cassian]] - affected NPC
-- [[Sariel]] - player character
+- [Cassian](../entities/Cassian.md) - affected NPC
+- [Sariel](../entities/Sariel.md) - player character

@@ -18,5 +18,5 @@ When updating deeply nested fields in NoSQL databases like Firestore, dot-notati
 - Common bug: literal key creation instead of nested expansion
 
 ## Related
-- [[UpdateCampaign]] — function implementing this pattern
-- [[FirestoreService]] — module containing the implementation
+- [UpdateCampaign](../entities/UpdateCampaign.md) — function implementing this pattern
+- [FirestoreService](../entities/FirestoreService.md) — module containing the implementation

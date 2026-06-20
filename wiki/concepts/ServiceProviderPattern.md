@@ -16,4 +16,4 @@ Design pattern providing a way to obtain service instances. Allows swapping betw
 
 ## Related Concepts
 - [[Mock Pattern]] — using mocks for testing
-- [[Dependency Injection]] — broader inversion of control pattern
+- [Dependency Injection](Dependency Injection.md) — broader inversion of control pattern

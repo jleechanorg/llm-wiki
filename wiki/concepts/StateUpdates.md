@@ -24,7 +24,7 @@ state_updates = {
 - **Field Updates**: Specific fields to update (e.g., hp_current)
 
 ## Related Concepts
-- [[StructuredResponseSchema]] — parent schema containing state_updates
+- [StructuredResponseSchema](StructuredResponseSchema.md) — parent schema containing state_updates
 - [[NPCData]] — NPC state container
 - [[GameStatePersistence]] — Firestore storage of state
 

@@ -15,5 +15,5 @@ API testing validates that external service integrations work correctly. WorldAr
 
 ## Connections
 - [[IntegrationTestRunnerRealApiCalls]] — Bash script for API testing
-- [[GoogleGemini]] — AI API being tested
-- [[FirebaseFirestore]] — Database API being tested
+- [GoogleGemini](../entities/GoogleGemini.md) — AI API being tested
+- [FirebaseFirestore](../entities/FirebaseFirestore.md) — Database API being tested

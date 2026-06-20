@@ -7,7 +7,7 @@ last_updated: 2026-04-14
 
 ## Summary
 
-The RewardsBox schema defines the canonical structure for storing player rewards state. It must be normalized before persistence — see [[StreamingPassthroughNormalization]].
+The RewardsBox schema defines the canonical structure for storing player rewards state. It must be normalized before persistence — see [StreamingPassthroughNormalization](StreamingPassthroughNormalization.md).
 
 ## Schema Definition
 
@@ -49,10 +49,10 @@ Before persisting to Firestore, all RewardsBox instances must pass through `norm
 4. Sort `rewards_history` by timestamp ascending
 
 ## Connections
-- [[RewardsBoxAtomicity]] — Atomic update semantics
-- [[RewardsBoxObservability]] — Observability patterns
-- [[StreamingPassthroughNormalization]] — Normalization in streaming path
-- [[CentralizedNumericExtraction]] — Numeric extraction from LLM
+- [RewardsBoxAtomicity](RewardsBoxAtomicity.md) — Atomic update semantics
+- [RewardsBoxObservability](RewardsBoxObservability.md) — Observability patterns
+- [StreamingPassthroughNormalization](StreamingPassthroughNormalization.md) — Normalization in streaming path
+- [CentralizedNumericExtraction](CentralizedNumericExtraction.md) — Numeric extraction from LLM
 
 ## ⚠️ Banned Schema Field (2026-06-02)
 

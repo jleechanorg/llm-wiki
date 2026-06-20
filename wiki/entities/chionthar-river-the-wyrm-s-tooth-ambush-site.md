@@ -10,13 +10,13 @@ total_scenes: 315
 
 ## Overview
 
-** Chionthar River - The Wyrm's Tooth (Ambush Site) appears in 3 scenes across the [[old-noctune-merc-bg3]] campaign.
+** Chionthar River - The Wyrm's Tooth (Ambush Site) appears in 3 scenes across the [old-noctune-merc-bg3](../sources/old-noctune-merc-bg3.md) campaign.
 
 ## Description
 
 ** Chionthar River - The Wyrm's Tooth (Ambush Site) is an entity from the old-noctune-merc-bg3 campaign.
 
 ## References
-- [[old-noctune-merc-bg3]] — campaign overview
+- [old-noctune-merc-bg3](../sources/old-noctune-merc-bg3.md) — campaign overview
 - [[old-noctune-merc-bg3-campaign]]
 

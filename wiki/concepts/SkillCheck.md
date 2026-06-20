@@ -32,5 +32,5 @@ Skill Check = d20 + Ability Modifier + Proficiency Bonus (if proficient)
 
 ## Related
 - [[Proficiency Bonus]] — added when proficient
-- [[Expertise]] — doubled proficiency for certain skills
+- [Expertise](Expertise.md) — doubled proficiency for certain skills
 - [[Ability Scores]] — provides the base modifier

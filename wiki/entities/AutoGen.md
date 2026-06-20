@@ -19,11 +19,11 @@ AutoGen is a Microsoft Research framework for building multi-agent applications.
 
 ## Connections
 
-- [[MultiAgentOrchestration]] — AutoGen is a Microsoft Research multi-agent orchestration framework
-- [[MicrosoftAgentFramework]] — successor framework recommended for new projects
-- [[AgentBench]] — benchmarking tool for evaluating LLM agents
+- [MultiAgentOrchestration](../concepts/MultiAgentOrchestration.md) — AutoGen is a Microsoft Research multi-agent orchestration framework
+- [MicrosoftAgentFramework](MicrosoftAgentFramework.md) — successor framework recommended for new projects
+- [AgentBench](AgentBench.md) — benchmarking tool for evaluating LLM agents
 
 ## See Also
-- [[MultiAgentOrchestration]]
-- [[MicrosoftAgentFramework]]
-- [[AgentBench]]
+- [MultiAgentOrchestration](../concepts/MultiAgentOrchestration.md)
+- [MicrosoftAgentFramework](MicrosoftAgentFramework.md)
+- [AgentBench](AgentBench.md)

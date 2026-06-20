@@ -20,6 +20,6 @@ When a user updates their model via settings without explicitly setting the prov
 
 ## Related Concepts
 
-- [[ModelSelection]] — frontend workflow for choosing models
+- [ModelSelection](ModelSelection.md) — frontend workflow for choosing models
 - [[LLMProviderConstants]] — constants defining provider types
-- [[PromptLoading]] — how prompts are loaded for different providers
+- [PromptLoading](PromptLoading.md) — how prompts are loaded for different providers

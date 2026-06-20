@@ -25,6 +25,6 @@ A metadata-updater hook script emits 2 error lines per Bash tool call, even when
 4. Fix the root cause of hook errors (usually missing state files)
 
 ## Connections
-- [[Context-Bloat]] — broader context pressure problem
+- [Context-Bloat](Context-Bloat.md) — broader context pressure problem
 - [[Hooks]] — hook system that triggers this
 - [[ContextMCP]] — context management tools

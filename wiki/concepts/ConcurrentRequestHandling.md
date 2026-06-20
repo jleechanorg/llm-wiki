@@ -23,8 +23,8 @@ A web application's ability to process multiple simultaneous HTTP requests witho
 - Stress: high concurrency (50-100) maintains stability
 
 ## Related Concepts
-- [[Gunicorn]] — WSGI server with worker/thread model
+- [Gunicorn](Gunicorn.md) — WSGI server with worker/thread model
 - [[ThreadPoolExecutor]] — Python concurrent.futures for parallel execution
-- [[RaceCondition]] — bug when execution order affects correctness
-- [[ConnectionPooling]] — reused connections vs creating new per request
-- [[IntegrationTests]] — end-to-end verification of full stack
+- [RaceCondition](RaceCondition.md) — bug when execution order affects correctness
+- [ConnectionPooling](ConnectionPooling.md) — reused connections vs creating new per request
+- [IntegrationTests](IntegrationTests.md) — end-to-end verification of full stack

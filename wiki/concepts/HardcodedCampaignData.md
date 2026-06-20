@@ -14,6 +14,6 @@ Anti-pattern where system contains fixed references to specific campaigns or con
 - Requires code changes to support new campaigns
 
 ## Solution
-- [[GenericDesign]] approach with dynamic detection
+- [GenericDesign](GenericDesign.md) approach with dynamic detection
 - Remove hardcoded entity/location mappings
 - Rely on runtime game state data

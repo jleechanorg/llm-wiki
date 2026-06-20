@@ -10,13 +10,13 @@ total_scenes: 417
 
 ## Overview
 
-** Visenya's King's Landing Estate - Private Vaults appears in 7 scenes across the [[visenya-v4]] campaign.
+** Visenya's King's Landing Estate - Private Vaults appears in 7 scenes across the [visenya-v4](../sources/visenya-v4.md) campaign.
 
 ## Description
 
 ** Visenya's King's Landing Estate - Private Vaults is an entity from the visenya-v4 campaign.
 
 ## References
-- [[visenya-v4]] — campaign overview
+- [visenya-v4](../sources/visenya-v4.md) — campaign overview
 - [[visenya-v4-campaign]]
 

@@ -25,8 +25,8 @@ The Edgering Ruins scene establishes Nocturne's character through action: the qu
 
 ## Connections
 
-- [[Nocturne]] — The player character who asserts dominance here
-- [[Verse]] — Emerges from the ruins' shadows to observe
+- [Nocturne](Nocturne.md) — The player character who asserts dominance here
+- [Verse](Verse.md) — Emerges from the ruins' shadows to observe
 - [[Disfavored]] — Officer Drastus present
 - [[Scarlet Chorus]] — Officer Krimp present
 - [[Tyranny Campaign]] — Opening campaign location

@@ -10,13 +10,13 @@ total_scenes: 107
 
 ## Overview
 
-** Crèche Y'llek - Central Bridge appears in 7 scenes across the [[nocturne-bg3-v7]] campaign.
+** Crèche Y'llek - Central Bridge appears in 7 scenes across the [nocturne-bg3-v7](../sources/nocturne-bg3-v7.md) campaign.
 
 ## Description
 
 ** Crèche Y'llek - Central Bridge is an entity from the nocturne-bg3-v7 campaign.
 
 ## References
-- [[nocturne-bg3-v7]] — campaign overview
-- [[nocturne-bg3-v7-campaign]]
+- [nocturne-bg3-v7](../sources/nocturne-bg3-v7.md) — campaign overview
+- [nocturne-bg3-v7-campaign](../sources/nocturne-bg3-v7-campaign.md)
 

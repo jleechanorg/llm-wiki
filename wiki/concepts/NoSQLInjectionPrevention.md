@@ -15,5 +15,5 @@ Security measure to prevent NoSQL injection attacks where MongoDB-style operator
 - JS injection patterns are handled safely
 
 ## Related Concepts
-- [[SQLInjectionPrevention]]
-- [[InputValidation]]
+- [SQLInjectionPrevention](SQLInjectionPrevention.md)
+- [InputValidation](InputValidation.md)

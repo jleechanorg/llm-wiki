@@ -11,16 +11,16 @@ Zevlor is a druid leader at the Emerald Grove gates in the V6 campaign. He serve
 
 ## Key Details
 - **Category:** Person
-- **Campaign(s):** [[nocturne-bg3-v6-bug-repro-test]]
+- **Campaign(s):** [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md)
 - **Role:** Emerald Grove gate guardian and intelligence source
 - **Trait:** Openly discusses Kagha's radicalization (creates lore discrepancy with secret Shadow Druid concept)
 
 ## Connections
-- [[EmeraldGrove]] -- his station at the Grove gates
-- [[ShadowDruids]] -- openly discusses their existence
-- [[Kagha]] -- mentions her radicalization
+- [EmeraldGrove](EmeraldGrove.md) -- his station at the Grove gates
+- [ShadowDruids](ShadowDruids.md) -- openly discusses their existence
+- [Kagha](Kagha.md) -- mentions her radicalization
 - [[SacredPool]] -- directs Nocturne to this location
-- [[NocturneSosuke]] -- grants entry to the Grove
+- [NocturneSosuke](NocturneSosuke.md) -- grants entry to the Grove
 
 ## Appearances
-- [[nocturne-bg3-v6-bug-repro-test]] -- Scenes 12-17, gate encounter and intel sharing
+- [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md) -- Scenes 12-17, gate encounter and intel sharing

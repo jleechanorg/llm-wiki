@@ -18,5 +18,5 @@ class UserData(TypedDict):
 
 ## Related
 - [[PythonTypingGuide]] — usage guide
-- [[Firebase]] — Firestore data operations
-- [[TypeAliases]] — custom type aliases
+- [Firebase](Firebase.md) — Firestore data operations
+- [TypeAliases](TypeAliases.md) — custom type aliases
