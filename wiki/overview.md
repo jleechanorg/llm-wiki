@@ -30,18 +30,18 @@ A master AI research system combining LLM wiki + self-discovering meta-research 
 The system runs autonomous coding improvement cycles against real historical PRs:
 
 1. **Hypothesis Generation** — Analyze PR patterns in `test-prs/`, generate novel falsifiable hypotheses
-2. **Implementation** — Run [[SelfCritiqueVerificationLoop]] (prompt chain + generation + sandboxed tests + self-critique, max 3 iterations)
-3. **Evaluation** — Score baseline vs technique output using [[CanonicalCodeScorer]] (6-dimension rubric 70% + diff similarity 30%)
+2. **Implementation** — Run [SelfCritiqueVerificationLoop](concepts/SelfCritiqueVerificationLoop.md) (prompt chain + generation + sandboxed tests + self-critique, max 3 iterations)
+3. **Evaluation** — Score baseline vs technique output using [CanonicalCodeScorer](concepts/CanonicalCodeScorer.md) (6-dimension rubric 70% + diff similarity 30%)
 4. **Update** — Record results in wiki + create bead for every run
 
 ### Key Components
 
 | Component | Role |
 |---|---|
-| [[AutoResearchLoop]] | Master 4-phase orchestration |
-| [[SelfCritiqueVerificationLoop]] | Inner loop: generation + test + critique |
-| [[CanonicalCodeScorer]] | Hybrid scoring: rubric + diff similarity |
-| [[AutoResearchExperiment]] | Top-level concept page |
+| [AutoResearchLoop](concepts/AutoResearchLoop.md) | Master 4-phase orchestration |
+| [SelfCritiqueVerificationLoop](concepts/SelfCritiqueVerificationLoop.md) | Inner loop: generation + test + critique |
+| [CanonicalCodeScorer](concepts/CanonicalCodeScorer.md) | Hybrid scoring: rubric + diff similarity |
+| [AutoResearchExperiment](concepts/AutoResearchExperiment.md) | Top-level concept page |
 
 ### Directory Structure
 
@@ -64,7 +64,7 @@ llm_wiki/
 - **Type Safety** — systematically FAIL across all cycles (pervasive `Any` types, `ignore-errors` pragmas)
 - **Highest:** Shell CI scripts at 86/100
 - **Pattern:** Iterations that pass tests but still score mid-range due to type safety and documentation gaps
-- See [[AutoResearchExperiment]] for full 18-cycle breakdown
+- See [AutoResearchExperiment](concepts/AutoResearchExperiment.md) for full 18-cycle breakdown
 
 ### Pivot: PR Recreate Pipeline (2026-04-15)
 
@@ -81,17 +81,17 @@ llm_wiki/
 
 **This is production mode, not benchmark mode.** The goal is real PRs, not good predictions.
 
-See [[PRRecreatePipeline]] and [[BenchmarkMode]] concept pages.
+See [PRRecreatePipeline](concepts/PRRecreatePipeline.md) and [BenchmarkMode](concepts/BenchmarkMode.md) concept pages.
 
 ---
 
 ## Cross-Cutting Themes
 
-- **[[ZeroFrameworkCognition]]** — Delegate all reasoning to AI; forbidden patterns (keyword routing, heuristic scoring, regex intent detection)
-- **[[LowConfidenceRoutingDisclosure]]** — For weak specialized-agent classifier matches, disclose top-N scores/margins/context influence to the selected LLM instead of adding keyword routing or suppressing context by heuristic
-- **[[Harness5LayerModel]]** — L1 Constraint, L2 Context, L3 Execution, L4 Verification, L5 Lifecycle
+- **[ZeroFrameworkCognition](concepts/ZeroFrameworkCognition.md)** — Delegate all reasoning to AI; forbidden patterns (keyword routing, heuristic scoring, regex intent detection)
+- **[LowConfidenceRoutingDisclosure](concepts/LowConfidenceRoutingDisclosure.md)** — For weak specialized-agent classifier matches, disclose top-N scores/margins/context influence to the selected LLM instead of adding keyword routing or suppressing context by heuristic
+- **[Harness5LayerModel](concepts/Harness5LayerModel.md)** — L1 Constraint, L2 Context, L3 Execution, L4 Verification, L5 Lifecycle
 - **[[Level-Up Systemic Fix]]** — game_state.py canonicalizer self-undo bug, computed @property level
 - **[[Normalization Atomicity]]** — All Firestore-persisted rewards_box must canonicalize; passthrough path name does not mean skip normalization
-- **[[autor-router-prerequisite-gate]]** — Structural gate (2026-05-13): requires ≥5 matched PRs scored by ALL techniques AND ≥2 ranking reversals before router work can proceed; `observations` → `scores` key fix in validate_router_prereqs.py
-- **[[autor-5iter-technique]]** — 5-round self-refinement in batch_sr5iter.py; targets PRs needing runs to reach n=3
-- **[[autor-sr-adversarial-design-2026-05-13]]** — SR-adversarial (Solver+Attacker) added to run_autor_experiment.py; 2026-05-13 merge conflict resolution
+- **[autor-router-prerequisite-gate](concepts/autor-router-prerequisite-gate.md)** — Structural gate (2026-05-13): requires ≥5 matched PRs scored by ALL techniques AND ≥2 ranking reversals before router work can proceed; `observations` → `scores` key fix in validate_router_prereqs.py
+- **[autor-5iter-technique](concepts/autor-5iter-technique.md)** — 5-round self-refinement in batch_sr5iter.py; targets PRs needing runs to reach n=3
+- **[autor-sr-adversarial-design-2026-05-13](sources/autor-sr-adversarial-design-2026-05-13.md)** — SR-adversarial (Solver+Attacker) added to run_autor_experiment.py; 2026-05-13 merge conflict resolution
