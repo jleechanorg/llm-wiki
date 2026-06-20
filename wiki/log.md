@@ -1,3 +1,21 @@
+## [2026-06-20] ingest | iOS WebKit IndexedDB Persistence Deadlock — PR #7720
+
+**Key claims:**
+- iOS WebKit IndexedDB hang (firebase-js-sdk #8019) renders worldarchitect.ai game page blank until cold browser restart
+- Fix is a single `Object.defineProperty(window, 'indexedDB', {configurable: false, value: undefined})` line BEFORE first `firebase.auth()` call, forcing `Persistence.LOCAL` to fall back from `indexedDBLocalPersistence` to `browserLocalPersistence`
+- `configurable: false` locks the override; idempotent `typeof` guard prevents re-application harm
+- Verified RED→GREEN on Playwright WebKit (6 checks), real shipped auth.js in WebKit with IndexedDB stubbed-hung, real iOS 18.6 Simulator (MobileSafari) with captioned GIF
+- Mechanism correction: #8019's "Web-Locks" title is misleading on 9.6.1 — verified zero `navigator.locks` references in the live 123 KB compat bundle (bare curl returns 598 B stub and false-counts); the actual wedge is IndexedDB open/read never settling
+- Honest limitation: 3-lane organic repro (no stub) failed — hang is device-level OS-process-suspension, unreachable off a real device from page JS
+- Process learning: GitHub "Update branch" mid-review merge can orphan later nit-fix commits if based on stale pre-fix HEAD; verify `git merge-base --is-ancestor` after any external push; recover via cherry-pick
+- Process learning: Green Gate keys off Skeptic Self-Verify VERDICT; smoke is not the true blocker (Gate 8 skips when workflow not found); CI-green + resolved threads + Bugbot-NEUTRAL are
+- PR #7620 (predecessor `setPersistence(LOCAL)`) did NOT move off IndexedDB — fix must pre-empt the SDK's first `_isAvailable()` probe
+- PR #7697 is a DIFFERENT bug (Chrome-incognito SIGN-IN failure, cross-origin authDomain + third-party-storage blocking); not confused with #7720's session-RESTORE deadlock
+- Trade-off: clients with existing IndexedDB-stored sessions re-log-in once after deploy (self-healing, no cold restart)
+
+**Entities created:** PR7720, FirebaseJSSDK, JLeechan, WorldArchitectAI
+**Concepts created:** IndexedDBNeutralizationPattern, WebKitIndexedDBHangDeadlock, FirebaseAuthPersistenceFallback, PRMidReviewMergeAncestryCheck, GreenGateWorkflow
+
 ## [2026-06-20] ingest | Waitlist Gating and Account Switching Flow
 
 Key claims: Waitlist mode restricts access via WAITLIST_MODE_ENABLED env var; "Use a different account" triggers sessionStorage flag + GoogleAuthProvider.setCustomParameters({ prompt: 'select_account' }); worldai-auth-ready event wakes SPA router; callbackSeq prevents race conditions in async auth callbacks.
