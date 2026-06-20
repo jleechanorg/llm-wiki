@@ -1,3 +1,9 @@
+## [2026-06-20] ingest | gh pr checks reports cancelled jobs as "fail" — PR #7720 drive-to-green triage
+
+**Key claims:** `gh pr checks` collapses a `cancelled` job (mypy) into the "fail" column — confirm real conclusion via `gh run view <id> --json conclusion,jobs` before debugging code (`cancelled` ≠ `failure`). deploy-preview rotating-pool flake (fails after "Assign server from pool", logs `BlobNotFound`) fixed by `gh run rerun --failed`. `queued` gates + 10/10 `online busy=true` runners = saturation, not a zero-runner outage. PR #7720 reached 27/0 green, MERGEABLE/CLEAN, 0 unresolved threads; merged `21cf81df85`. Open: merged auth.js uses `configurable: true`; earlier wiki page says `false` — reconcile. Updated concept [[Self-Hosted-Runner-Infra-Flake-vs-Real-Failure]]. Bead rev-utdct. [[jeffrey-oracle]]: NO.
+
+---
+
 ## [2026-06-20] ingest | iOS WebKit IndexedDB Persistence Deadlock — PR #7720
 
 **Key claims:**
@@ -5818,3 +5824,9 @@ Source: sources/feedback-2026-06-19-pr-body-wipe-and-gate6-anchor.md. [[jeffrey-
 WorldArchitect mobile Firebase auth repro lesson. Exact repro requires post-Google-return logged-out welcome UI; Simulator Safari normal/private authenticated successfully and are NON-REPRO. PR #7698 Chromium/WebKit lanes prove the redirect boundary and silent-null storage-eviction mechanism, but remain RELATED evidence until a physical Chrome iOS Incognito or real-device cloud run shows the same user-visible symptom. Bead rev-g7mp3.
 
 Source: sources/project-2026-06-19-mobile-auth-repro-fidelity.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-20] ingest | PR 7720 live review loop: current-head gates before merge-ready claims
+
+Repeated `review again` / `check again` on PR #7720 required recomputing live current-head state each time. A workflow_dispatch Green Gate success did not supersede queued or pending PR-context Green Gate state, cancelled checks stayed blockers until a newer same-name current-head run superseded them, and evidence had to be scoped to the SHA/served bytes it actually proved. Closeout was only after live GitHub state reported MERGED at 2026-06-20T23:27:01Z with merge commit 21cf81df853ca958601a2a0cb33302223c90dddc. Bead rev-hygyj.
+
+Source: sources/project-2026-06-20-pr7720-live-review-loop.md. [[jeffrey-oracle]]: NO.
