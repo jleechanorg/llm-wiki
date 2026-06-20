@@ -13,4 +13,4 @@ A DOM API that allows monitoring changes to the document tree. Used when working
 Automatically applies enhancements to components that are dynamically added to the page after initial load, ensuring consistent user experience for Single Page Applications.
 
 ## Related Entities
-- [[ComponentEnhancer]]
+- [ComponentEnhancer](../entities/ComponentEnhancer.md)

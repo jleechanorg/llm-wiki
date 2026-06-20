@@ -11,16 +11,16 @@ Kagha is a Shadow Druid leader within the Emerald Grove, representing the radica
 
 ## Key Details
 - **Category:** Person
-- **Campaign(s):** [[nocturne-bg3-v6-bug-repro-test]]
+- **Campaign(s):** [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md)
 - **Role:** Shadow Druid contact, Inner Sanctum presence
 - **Status:** In contact with Olodan, plan to deliver Grove is in final phase
 
 ## Connections
-- [[ShadowDruids]] -- her faction
-- [[EmeraldGrove]] -- Inner Sanctum location
+- [ShadowDruids](ShadowDruids.md) -- her faction
+- [EmeraldGrove](EmeraldGrove.md) -- Inner Sanctum location
 - [[Olodan]] -- Shadow Druid Envoy who contacted her
 - [[SacredPool]] -- her domain within the Inner Sanctum
-- [[RiteOfThorns]] -- associated ritual she controls
+- [RiteOfThorns](../concepts/RiteOfThorns.md) -- associated ritual she controls
 
 ## Appearances
-- [[nocturne-bg3-v6-bug-repro-test]] -- mentioned in Scene 100 as in contact with Olodan; appears in Scene 18+
+- [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md) -- mentioned in Scene 100 as in contact with Olodan; appears in Scene 18+

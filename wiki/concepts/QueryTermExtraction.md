@@ -15,4 +15,4 @@ Process of extracting key terms from user input for memory searches. Identifies:
 Limits to top 5 unique terms for focused search.
 
 ## Source
-[[memory-mcp-integration]]
+[memory-mcp-integration](../sources/memory-mcp-integration.md)

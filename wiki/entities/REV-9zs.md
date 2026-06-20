@@ -18,5 +18,5 @@ Implements non-blocking schema validation warnings in production. Schema validat
 VERIFIED — Tests confirm non-blocking behavior in production
 
 ## Related
-- [[SchemaValidation]] — the concept being implemented
-- [[FirestorePersistence]] — where non-blocking validation applies
+- [SchemaValidation](../concepts/SchemaValidation.md) — the concept being implemented
+- [FirestorePersistence](../concepts/FirestorePersistence.md) — where non-blocking validation applies

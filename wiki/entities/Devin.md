@@ -18,10 +18,10 @@ Devin is Cognition AI's "AI software engineer" — an AI coding agent positioned
 
 ## Connections
 
-- [[OpenHands]] — competing AI coding agent
-- [[SWE-bench]] — Devin was evaluated on SWE-bench-like benchmarks
-- [[CodingAgent]] — Devin is an AI coding agent
+- [OpenHands](OpenHands.md) — competing AI coding agent
+- [SWE-bench](../concepts/SWE-bench.md) — Devin was evaluated on SWE-bench-like benchmarks
+- [CodingAgent](../concepts/CodingAgent.md) — Devin is an AI coding agent
 
 ## See Also
-- [[OpenHands]]
-- [[CodingAgent]]
+- [OpenHands](OpenHands.md)
+- [CodingAgent](../concepts/CodingAgent.md)

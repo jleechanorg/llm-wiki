@@ -10,14 +10,14 @@ last_updated: 2026-04-11
 
 Agent Orchestrator (AO) is a system that manages fleets of AI coding agents working in parallel on a codebase. Each agent gets its own git worktree, its own branch, and its own PR. When CI fails, the agent fixes it. When reviewers leave comments, the agent addresses them. AO is agent-agnostic, runtime-agnostic, and tracker-agnostic.
 
-There are two distinct variants: the upstream **ComposioHQ/agent-orchestrator** (general-purpose CI tool) and the **jleechanorg/agent-orchestrator** fork (autonomous zero-touch PR merging pipeline). See [[AgentOrchestratorFork]] for fork-specific detail.
+There are two distinct variants: the upstream **ComposioHQ/agent-orchestrator** (general-purpose CI tool) and the **jleechanorg/agent-orchestrator** fork (autonomous zero-touch PR merging pipeline). See [AgentOrchestratorFork](AgentOrchestratorFork.md) for fork-specific detail.
 
 ## Key Capabilities
 
 - Spawns isolated git worktrees for each agent task
 - Coordinates parallel agent execution
 - Monitors via cron-based polling and a lifecycle worker
-- Integrates with [[SkepticGate]] for automated LLM verification (fork only)
+- Integrates with [SkepticGate](SkepticGate.md) for automated LLM verification (fork only)
 - Supports reactions, agentRules, and per-project config via `agent-orchestrator.yaml`
 - Evolve loop continuously drives open PRs toward merge (fork only)
 
@@ -61,7 +61,7 @@ When working in the fork, always dispatch an AO worker for non-trivial tasks rat
 
 ## Zero-Framework Cognition (ZFC)
 
-AO enforces ZFC: no keyword routing, heuristic scoring, or semantic classification in application code. All such judgment must be delegated to model API calls. See [[AgentOrchestratorFork]] for enforcement details.
+AO enforces ZFC: no keyword routing, heuristic scoring, or semantic classification in application code. All such judgment must be delegated to model API calls. See [AgentOrchestratorFork](AgentOrchestratorFork.md) for enforcement details.
 
 ## 7-Green Merge Gates (fork)
 
@@ -80,9 +80,9 @@ Fork-specific issues live in `.beads/issues.jsonl`. Use the `br` CLI to create, 
 
 ## Connections
 
-- [[AgentOrchestratorFork]] — fork-specific autonomous pipeline details
-- [[SkepticGate]] — 7th merge gate, LLM-based PR verifier
-- [[Cursor]] — primary worker agent
-- [[WorldArchitectAI]] — target repository for fork dogfooding
-- [[ZeroFrameworkCognition]] — ZFC design principle enforced in this repo
-- [[StellarWorkPodcast]] — EP57: Jeff Lee-Chan highlighted an AO contributor as exemplar of AI-era career success; praised the contributor's PR review and code contributions as more valuable than most entry-level jobs
+- [AgentOrchestratorFork](AgentOrchestratorFork.md) — fork-specific autonomous pipeline details
+- [SkepticGate](SkepticGate.md) — 7th merge gate, LLM-based PR verifier
+- [Cursor](Cursor.md) — primary worker agent
+- [WorldArchitectAI](WorldArchitectAI.md) — target repository for fork dogfooding
+- [ZeroFrameworkCognition](../concepts/ZeroFrameworkCognition.md) — ZFC design principle enforced in this repo
+- [StellarWorkPodcast](StellarWorkPodcast.md) — EP57: Jeff Lee-Chan highlighted an AO contributor as exemplar of AI-era career success; praised the contributor's PR review and code contributions as more valuable than most entry-level jobs

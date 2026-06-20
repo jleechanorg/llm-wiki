@@ -16,5 +16,5 @@ The Docker build context determines what files are available during image constr
 - World files at project root need to be copied to mvp_site/world during deploy.sh
 
 ## Related
-- [[WorldLoader]] — uses __file__-relative paths that require files to be in Docker context
-- [[DeploySh]] — copies files into Docker build context before image creation
+- [WorldLoader](../entities/WorldLoader.md) — uses __file__-relative paths that require files to be in Docker context
+- [DeploySh](../entities/DeploySh.md) — copies files into Docker build context before image creation

@@ -13,9 +13,9 @@ Ashwood Keep is a fortress on the edge of the Frost-Veil Forest in the Winter-Mo
 For Arion, Ashwood Keep represents the collision between the perfect world he was raised in and the imperfect reality he now faces. The keep is where his understanding of loyalty, duty, and conscience will be tested.
 
 ## Connections
-- [[dragon-knight-evil-campaign]] — source campaign
-- [[SerArionValerion]] — assigned here
-- [[WinterMourn]] — province
-- [[FrostVeilForest]] — adjacent forest
-- [[LadyAnnaliseAshwood]] — owner, shelters refugees
-- [[PrefectGratian]] — commanding officer
+- [dragon-knight-evil-campaign](../sources/dragon-knight-evil-campaign.md) — source campaign
+- [SerArionValerion](SerArionValerion.md) — assigned here
+- [WinterMourn](WinterMourn.md) — province
+- [FrostVeilForest](FrostVeilForest.md) — adjacent forest
+- [LadyAnnaliseAshwood](LadyAnnaliseAshwood.md) — owner, shelters refugees
+- [PrefectGratian](PrefectGratian.md) — commanding officer

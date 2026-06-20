@@ -19,6 +19,6 @@ def test_firestore_operations(self, mock_get_db):
 ```
 
 ## Related
-- [[MagicMock]]
-- [[FirestoreService]]
-- [[UnitTesting]]
+- [MagicMock](MagicMock.md)
+- [FirestoreService](../entities/FirestoreService.md)
+- [UnitTesting](UnitTesting.md)

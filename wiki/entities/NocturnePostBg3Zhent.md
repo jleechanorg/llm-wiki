@@ -19,6 +19,6 @@ Nocturne is the player character in the Nocturne Post BG3 Zhent campaign. A Leve
 Operating from the Elfsong Tavern Penthouse in Baldur's Gate's Upper City, Nocturne navigates the power vacuum left by the Absolute's defeat.
 
 ## Connections
-- [[ElfsongTavern]] — Base
-- [[Zarys]] — Contact
-- [[Zhentarim]] — Potential affiliation
+- [ElfsongTavern](ElfsongTavern.md) — Base
+- [Zarys](Zarys.md) — Contact
+- [Zhentarim](Zhentarim.md) — Potential affiliation

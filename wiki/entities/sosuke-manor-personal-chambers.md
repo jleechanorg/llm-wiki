@@ -10,13 +10,13 @@ total_scenes: 596
 
 ## Overview
 
-** Sosuke Manor - Personal Chambers appears in 21 scenes across the [[aizen-bg3]] campaign.
+** Sosuke Manor - Personal Chambers appears in 21 scenes across the [aizen-bg3](../sources/aizen-bg3.md) campaign.
 
 ## Description
 
 ** Sosuke Manor - Personal Chambers is an entity from the aizen-bg3 campaign.
 
 ## References
-- [[aizen-bg3]] — campaign overview
-- [[aizen-bg3-campaign]]
+- [aizen-bg3](../sources/aizen-bg3.md) — campaign overview
+- [aizen-bg3-campaign](../sources/aizen-bg3-campaign.md)
 

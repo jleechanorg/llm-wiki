@@ -15,7 +15,7 @@ For Nocturne, Candlekeep represents both home and formative influence. The fortr
 The Iron Crisis and the tensions between Baldur's Gate and Amn eventually draw Nocturne out of Candlekeep and onto the road toward Baldur's Gate.
 
 ## Connections
-- [[bg1-nocturne-campaign]] — source campaign
-- [[Nocturne]] — raised here
+- [bg1-nocturne-campaign](../sources/bg1-nocturne-campaign.md) — source campaign
+- [Nocturne](Nocturne.md) — raised here
 - [[Gorion]] — mentor figure
-- [[BaldursGate]] — destination
+- [BaldursGate](BaldursGate.md) — destination

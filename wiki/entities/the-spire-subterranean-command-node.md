@@ -10,13 +10,13 @@ total_scenes: 685
 
 ## Overview
 
-** The Spire - Subterranean Command Node appears in 7 scenes across the [[sariel-killer]] campaign.
+** The Spire - Subterranean Command Node appears in 7 scenes across the [sariel-killer](../sources/sariel-killer.md) campaign.
 
 ## Description
 
 ** The Spire - Subterranean Command Node is an entity from the sariel-killer campaign.
 
 ## References
-- [[sariel-killer]] — campaign overview
-- [[sariel-killer-campaign]]
+- [sariel-killer](../sources/sariel-killer.md) — campaign overview
+- [sariel-killer-campaign](../sources/sariel-killer-campaign.md)
 

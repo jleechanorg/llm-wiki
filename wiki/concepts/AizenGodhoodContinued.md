@@ -32,7 +32,7 @@ Aizen Godhood Continued is a cosmic-scale campaign where Aizen has achieved godl
 
 ## Connections
 
-- [[SosukeAizen]] — now godlike
-- [[Mystra]] — new villain
+- [SosukeAizen](../entities/SosukeAizen.md) — now godlike
+- [Mystra](../entities/Mystra.md) — new villain
 - [[TheChurchOfTyr]] — being manipulated
 - [[TheTriumvirate]] — alliance under pressure

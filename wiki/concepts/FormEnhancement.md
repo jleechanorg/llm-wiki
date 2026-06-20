@@ -17,5 +17,5 @@ Improvements to form input controls including glass morphism backgrounds, focus 
 
 ## Connections
 - [[EnhancedComponentsCSS]] — defines enhanced form styles
-- [[GlassMorphism]] — visual effect applied
-- [[Bootstrap]] — base form control framework
+- [GlassMorphism](GlassMorphism.md) — visual effect applied
+- [Bootstrap](../entities/Bootstrap.md) — base form control framework

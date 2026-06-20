@@ -16,6 +16,6 @@ NPC gender field with explicit values ("female", "male", "non-binary", or creati
 - non-binary/other → they/them/their
 
 ## Related
-- [[NPC]] — stores gender field
+- [NPC](NPC.md) — stores gender field
 - [[NarrativeGeneration]] — must read gender field for pronoun consistency
-- [[PronounMapping]] — concept mapping gender to pronouns
+- [PronounMapping](PronounMapping.md) — concept mapping gender to pronouns

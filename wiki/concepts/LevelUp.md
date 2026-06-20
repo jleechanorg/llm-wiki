@@ -15,5 +15,5 @@ Level-up is a character progression mechanic where characters gain levels and ne
 - **Exit Choice**: User can choose to exit level-up and return to game
 
 ## Related
-- [[ModalLock]] — locks character creation during level-up
-- [[PR5282]] — implements level-up modal lock
+- [ModalLock](ModalLock.md) — locks character creation during level-up
+- [PR5282](../entities/PR5282.md) — implements level-up modal lock

@@ -10,13 +10,13 @@ total_scenes: 277
 
 ## Overview
 
-** Limestone Wadi, Outside Yunkai appears in 12 scenes across the [[visenya-v2]] campaign.
+** Limestone Wadi, Outside Yunkai appears in 12 scenes across the [visenya-v2](../sources/visenya-v2.md) campaign.
 
 ## Description
 
 ** Limestone Wadi, Outside Yunkai is an entity from the visenya-v2 campaign.
 
 ## References
-- [[visenya-v2]] — campaign overview
+- [visenya-v2](../sources/visenya-v2.md) — campaign overview
 - [[visenya-v2-campaign]]
 

@@ -20,6 +20,6 @@ Validation technique that recursively counts all fields in each entity type to t
 - Compares counts before/after interactions
 
 ## Connections
-- [[TestSarielProductionValidation]] — primary user
-- [[TestSarielExactProduction]] — also uses it
-- [[GameStateValidation]] — broader concept
+- [TestSarielProductionValidation](../entities/TestSarielProductionValidation.md) — primary user
+- [TestSarielExactProduction](../entities/TestSarielExactProduction.md) — also uses it
+- [GameStateValidation](GameStateValidation.md) — broader concept

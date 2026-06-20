@@ -17,4 +17,4 @@ Cursor-based pagination is a technique where each page of results is fetched usi
 ## Implementation
 - Uses `start_after` parameter with last document's cursor
 - Returns `has_more` flag and `next_cursor` for client-side pagination
-- [[FirestoreService]] implements this for campaign lists
+- [FirestoreService](../entities/FirestoreService.md) implements this for campaign lists

@@ -15,10 +15,10 @@ Lean is Microsoft's interactive theorem prover and programming language. It comb
 - **Fast evaluation**: Lean's tactic framework enables both interactive and automated proof search
 
 ## Connections
-- [[ProofAssistant]] — Lean is a specific proof assistant
-- [[FormalVerification]] — Lean's primary use case
-- [[Coq]] — Another major proof assistant, comparison point
+- [ProofAssistant](ProofAssistant.md) — Lean is a specific proof assistant
+- [FormalVerification](FormalVerification.md) — Lean's primary use case
+- [Coq](Coq.md) — Another major proof assistant, comparison point
 
 ## See Also
-- [[ProofAssistant]]
-- [[FormalVerification]]
+- [ProofAssistant](ProofAssistant.md)
+- [FormalVerification](FormalVerification.md)

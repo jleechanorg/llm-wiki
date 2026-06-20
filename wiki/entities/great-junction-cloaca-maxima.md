@@ -10,13 +10,13 @@ total_scenes: 474
 
 ## Overview
 
-** Great Junction, Cloaca Maxima appears in 8 scenes across the [[rome-pax-julia]] campaign.
+** Great Junction, Cloaca Maxima appears in 8 scenes across the [rome-pax-julia](../sources/rome-pax-julia.md) campaign.
 
 ## Description
 
 ** Great Junction, Cloaca Maxima is an entity from the rome-pax-julia campaign.
 
 ## References
-- [[rome-pax-julia]] — campaign overview
-- [[rome-pax-julia-campaign]]
+- [rome-pax-julia](../sources/rome-pax-julia.md) — campaign overview
+- [rome-pax-julia-campaign](../sources/rome-pax-julia-campaign.md)
 

@@ -34,6 +34,6 @@ State updates extraction is the process of pulling structured state change data 
 - Managing location changes or world state
 
 ## Related Concepts
-- [[LLMResponse]] — class that exposes state_updates property
-- [[GameState]] — the object being updated with extracted state
+- [LLMResponse](LLMResponse.md) — class that exposes state_updates property
+- [GameState](GameState.md) — the object being updated with extracted state
 - [[Debug Tags Detection]] — another extraction concern from same responses

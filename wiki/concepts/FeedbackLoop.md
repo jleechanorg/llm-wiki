@@ -29,8 +29,8 @@ A feedback loop is the iterative process where system outputs are fed back as in
 
 ## Connections
 
-- [[MetaHarness]] — uses the richest feedback loop in harness optimization
-- [[DeterministicFeedbackLoops]] — deterministic responses in agent-orchestrator
-- [[FilesystemHistory]] — enables rich feedback storage and retrieval
-- [[ExecutionTraces]] — component of Meta-Harness feedback
-- [[ExperienceReplay]] — similar concept in reinforcement learning
+- [MetaHarness](MetaHarness.md) — uses the richest feedback loop in harness optimization
+- [DeterministicFeedbackLoops](DeterministicFeedbackLoops.md) — deterministic responses in agent-orchestrator
+- [FilesystemHistory](FilesystemHistory.md) — enables rich feedback storage and retrieval
+- [ExecutionTraces](ExecutionTraces.md) — component of Meta-Harness feedback
+- [ExperienceReplay](ExperienceReplay.md) — similar concept in reinforcement learning

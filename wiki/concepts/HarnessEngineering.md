@@ -56,11 +56,11 @@ Ryan emphasizes codifying tribal knowledge into markdown files:
 3. **Nucleation points** - Create islands of efficiency that expand outward
 
 ## Related Concepts
-- [[DualAgentArchitecture]] - Generator and Reviewer separation
-- [[ProofOfWork]] - Mandatory PR evidence requirements
-- [[MinimalReproLadder]] - TDD for AI agents
-- [[ContextManagement]] - Attention vs. context exhaustion
-- [[MetaHarness]] - The system that automates harness engineering
-- [[OuterLoopOptimization]] - Harness changes are the outer loop
-- [[HarnessVsPrompt]] - Harness is the code layer; prompt is just text
-- [[CanonicalCodeScorer]] - Quantitative scoring engine (6-dimension rubric + diff similarity) used to evaluate harness outputs against canonical patterns
+- [DualAgentArchitecture](DualAgentArchitecture.md) - Generator and Reviewer separation
+- [ProofOfWork](ProofOfWork.md) - Mandatory PR evidence requirements
+- [MinimalReproLadder](MinimalReproLadder.md) - TDD for AI agents
+- [ContextManagement](ContextManagement.md) - Attention vs. context exhaustion
+- [MetaHarness](MetaHarness.md) - The system that automates harness engineering
+- [OuterLoopOptimization](OuterLoopOptimization.md) - Harness changes are the outer loop
+- [HarnessVsPrompt](HarnessVsPrompt.md) - Harness is the code layer; prompt is just text
+- [CanonicalCodeScorer](CanonicalCodeScorer.md) - Quantitative scoring engine (6-dimension rubric + diff similarity) used to evaluate harness outputs against canonical patterns

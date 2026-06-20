@@ -21,5 +21,5 @@ Aizen Vane is the player character in the Aizen Thay V1 campaign. He is the Abys
 ## Connections
 
 - [[ObsidianZiggurat]] — operating base
-- [[ShatteredRose]] — faction connected via Obsidian Mirror
+- [ShatteredRose](ShatteredRose.md) — faction connected via Obsidian Mirror
 - [[Thay]] — setting nation

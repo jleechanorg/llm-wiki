@@ -14,5 +14,5 @@ An evidence bundle is a structured collection of test output artifacts generated
 - Test results — formatted scenarios with success/error details
 
 ## Related
-- [[EvidenceUtils]] generates evidence bundles
-- [[TestingMcp]] framework uses evidence bundles
+- [EvidenceUtils](../entities/EvidenceUtils.md) generates evidence bundles
+- [TestingMcp](../entities/TestingMcp.md) framework uses evidence bundles

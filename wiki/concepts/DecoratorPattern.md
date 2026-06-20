@@ -15,5 +15,5 @@ The decorator pattern in Python allows extending function behavior without modif
 - Can trim sensitive arguments for security (count instead of content, keys instead of values)
 
 ## Related Concepts
-- [[LoggingUtil]] — centralized logging configuration
+- [LoggingUtil](../entities/LoggingUtil.md) — centralized logging configuration
 - [[ExceptionHandling]] — error flow management

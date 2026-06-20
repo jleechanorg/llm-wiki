@@ -14,5 +14,5 @@ Referenced in test file as `mvp_site.main` module. Exports Flask app instance an
 
 ## Connections
 - [[FlaskAppImportEndpointTests]] — tested for import and initialization
-- [[CacheBusting]] — exports CACHE_BUST_HASH_LENGTH through main module
-- [[MCPClient]] — used for campaign management via MCP infrastructure
+- [CacheBusting](CacheBusting.md) — exports CACHE_BUST_HASH_LENGTH through main module
+- [MCPClient](MCPClient.md) — used for campaign management via MCP infrastructure

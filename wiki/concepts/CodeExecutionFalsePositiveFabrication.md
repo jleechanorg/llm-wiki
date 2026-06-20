@@ -27,5 +27,5 @@ Campaign OZTbL5nJ4tDWqAAVQmPr — dice distribution shows:
 Update fabrication detection to also check for `code_execution` in `tool_requests` type, or add `gemini_code_execution_used` flag alongside `code_exec_used`.
 
 ## Connections
-- [[HitDiceTracking]] — dice rolls use this detection
-- [[LLM-as-Judge-Pattern]] — fabrication detection is a judge pattern
+- [HitDiceTracking](HitDiceTracking.md) — dice rolls use this detection
+- [LLM-as-Judge-Pattern](LLM-as-Judge-Pattern.md) — fabrication detection is a judge pattern

@@ -11,7 +11,7 @@ launchd is the service management framework on macOS that handles daemon and age
 
 ## Connections
 - [[OpenClawTailscaleTunnelScript]] — mentions launchd PATH limitations
-- [[Tailscale]] — tailscaled daemon runs via launchd on macOS
+- [Tailscale](../entities/Tailscale.md) — tailscaled daemon runs via launchd on macOS
 
 ## Dry-run safety pattern for install scripts
 
@@ -23,7 +23,7 @@ if $DRY_RUN; then dry "would install: ..."; return; fi
 sed -e "s|@HOME@|$HOME|g" "$src" > "$dest.tmp" && mv "$dest.tmp" "$dest"
 ```
 
-See: [[setup-launchd-dryrun-2026-05-19]] (bead orch-ud0d, commit ab684908be)
+See: [setup-launchd-dryrun-2026-05-19](../sources/setup-launchd-dryrun-2026-05-19.md) (bead orch-ud0d, commit ab684908be)
 
 ## References
 - Socket path on macOS: /var/run/tailscale/tailscaled.sock
@@ -98,7 +98,7 @@ set -u
 unset _rc
 ```
 
-See: [[feedback-2026-06-09-runner-supervisor-and-ops]] (PR #7271, bead rev-5ysuv)
+See: [feedback-2026-06-09-runner-supervisor-and-ops](../sources/feedback-2026-06-09-runner-supervisor-and-ops.md) (PR #7271, bead rev-5ysuv)
 
 ## bootout vs kickstart-k (2026-06-09 hermes outage)
 

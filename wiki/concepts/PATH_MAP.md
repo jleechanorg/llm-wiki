@@ -6,7 +6,7 @@ sources: ["test-prompt-loading-via-service"]
 last_updated: 2026-04-08
 ---
 
-Constant in [[AgentPrompts]] that maps prompt type keys (e.g., "narrative", "character") to file paths (e.g., "prompts/narrative.md").
+Constant in [AgentPrompts](../entities/AgentPrompts.md) that maps prompt type keys (e.g., "narrative", "character") to file paths (e.g., "prompts/narrative.md").
 
 ## Purpose
 - Registers all prompt files to prevent orphaned prompts

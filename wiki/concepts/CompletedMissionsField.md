@@ -25,6 +25,6 @@ The completed_missions field is a campaign state field that tracks missions the 
 The field is automatically initialized as an empty list when active_missions exists but completed_missions is missing. This ensures backward compatibility with older campaign states.
 
 ## Related
-- [[MissionAutoCompletion]]
-- [[ActiveMissionsField]]
-- [[CampaignStateMigration]]
+- [MissionAutoCompletion](MissionAutoCompletion.md)
+- [ActiveMissionsField](ActiveMissionsField.md)
+- [CampaignStateMigration](CampaignStateMigration.md)

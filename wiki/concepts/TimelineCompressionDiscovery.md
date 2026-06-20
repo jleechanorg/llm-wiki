@@ -33,6 +33,6 @@ Most teams adopt AI tools haphazardly ("let's pause all work and experiment"). T
 
 ## Connections
 
-- [[JeffreyChan]] — source of the technique
-- [[AIAdoptionSpectrum]] — compression reveals whether managers even understand where AI fits
-- [[HarnessEvidenceRules]] — related: evidence-based decision making for AI tool ROI
+- [JeffreyChan](../entities/JeffreyChan.md) — source of the technique
+- [AIAdoptionSpectrum](AIAdoptionSpectrum.md) — compression reveals whether managers even understand where AI fits
+- [HarnessEvidenceRules](HarnessEvidenceRules.md) — related: evidence-based decision making for AI tool ROI

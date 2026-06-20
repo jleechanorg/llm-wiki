@@ -57,7 +57,7 @@ Enabled via `--tool-mode lean,wafer-fix` in the wafer launchd plist. Part of the
 
 ## Related
 
-- [[SSEStreaming]] — SSE event boundary structure
-- [[Compaction]] — autocompact thrash mechanism
-- [[TokenEstimation]] — byte/4 approximation pattern
-- [[wafer-sse-input-tokens-zero-fix-2026-05-14]] — source / full context
+- [SSEStreaming](SSEStreaming.md) — SSE event boundary structure
+- [Compaction](Compaction.md) — autocompact thrash mechanism
+- [TokenEstimation](TokenEstimation.md) — byte/4 approximation pattern
+- [wafer-sse-input-tokens-zero-fix-2026-05-14](../sources/wafer-sse-input-tokens-zero-fix-2026-05-14.md) — source / full context

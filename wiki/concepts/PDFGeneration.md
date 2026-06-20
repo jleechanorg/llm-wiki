@@ -24,6 +24,6 @@ PDF document generation for WorldAI campaign exports using FPDF library. Support
 
 ## Connections
 
-- [[MultiFormatExport]] — broader export system with PDF as one format
-- [[mvp-site-document-generator]] — implementation source
-- [[DOCXGeneration]] — alternative document format
+- [MultiFormatExport](MultiFormatExport.md) — broader export system with PDF as one format
+- [mvp-site-document-generator](../sources/mvp-site-document-generator.md) — implementation source
+- [DOCXGeneration](DOCXGeneration.md) — alternative document format

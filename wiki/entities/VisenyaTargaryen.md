@@ -28,7 +28,7 @@ Princess of the Blood, Level 6 Apex Weaver (Bard/Mastermind Gestalt), operating 
 > "They think I am a guest. I am the architect of their winter."
 
 ## Connections
-- [[RhaegarTargaryen]] — Father, fears her as "the Apex"
+- [RhaegarTargaryen](RhaegarTargaryen.md) — Father, fears her as "the Apex"
 - [[DaenerysTargaryen]] — Aunt, moral buffer, fanatically loyal
-- [[JonSnow]] — Sibling/rival, only one whose emotions are shielded from her
-- [[ApexWeaver]] — Her class/concept
+- [JonSnow](JonSnow.md) — Sibling/rival, only one whose emotions are shielded from her
+- [ApexWeaver](../concepts/ApexWeaver.md) — Her class/concept

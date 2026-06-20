@@ -15,5 +15,5 @@ User interface for configuring AI model preferences and other settings. Renders 
 - Save message display after settings update
 
 ## Connection
-- Consumes [[SettingsAPI]] for persistence
+- Consumes [SettingsAPI](SettingsAPI.md) for persistence
 - Tested via HTTP in [[TDD HTTP Tests for Settings Page UI Functionality]]

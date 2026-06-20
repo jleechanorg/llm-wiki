@@ -10,6 +10,6 @@ last_updated: 2026-04-08
 Faction in the Living World system. Zhentarim Inner Circle replaced a regional commander as a background event. Faction updates include current_objective (control trade routes), progress (50% complete), and resource_change (+500 gold).
 
 ## Connections
-- [[LivingWorld]] — major faction with long-term objectives
-- [[DebugEventsExport]] — exports faction updates in campaign exports
+- [LivingWorld](../concepts/LivingWorld.md) — major faction with long-term objectives
+- [DebugEventsExport](../concepts/DebugEventsExport.md) — exports faction updates in campaign exports
 - [[FactionUpdateMechanics]] — related to faction progress tracking

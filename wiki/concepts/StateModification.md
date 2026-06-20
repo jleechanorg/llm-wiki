@@ -17,5 +17,5 @@ GOD MODE allows direct modification of campaign state including player character
 
 ## Related Concepts
 - [[GOD MODE]]
-- [[FirestorePersistence]]
+- [FirestorePersistence](FirestorePersistence.md)
 - [[StateValidation]]

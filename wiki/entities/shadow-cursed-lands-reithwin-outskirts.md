@@ -10,13 +10,13 @@ total_scenes: 386
 
 ## Overview
 
-** Shadow-Cursed Lands - Reithwin Outskirts appears in 4 scenes across the [[noctune-bg3-v6]] campaign.
+** Shadow-Cursed Lands - Reithwin Outskirts appears in 4 scenes across the [noctune-bg3-v6](../sources/noctune-bg3-v6.md) campaign.
 
 ## Description
 
 ** Shadow-Cursed Lands - Reithwin Outskirts is an entity from the noctune-bg3-v6 campaign.
 
 ## References
-- [[noctune-bg3-v6]] — campaign overview
-- [[noctune-bg3-v6-campaign]]
+- [noctune-bg3-v6](../sources/noctune-bg3-v6.md) — campaign overview
+- [noctune-bg3-v6-campaign](../sources/noctune-bg3-v6-campaign.md)
 

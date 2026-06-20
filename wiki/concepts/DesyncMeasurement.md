@@ -31,5 +31,5 @@ Quantitative approach to measuring entity tracking accuracy by comparing expecte
 | Recovery Rate | 33% (1/3 recovered) |
 
 ## Related
-- [[EntityTracking]] — What is being measured
-- [[CampaignReplay]] — Testing approach
+- [EntityTracking](EntityTracking.md) — What is being measured
+- [CampaignReplay](CampaignReplay.md) — Testing approach

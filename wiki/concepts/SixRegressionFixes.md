@@ -36,6 +36,6 @@ Six Regression Fixes documents the six targeted bug fixes applied to resolve spe
 **Fix**: Added `test_level_up_stale_flags.py` with specific stale-suppression cases.
 
 ## Connections
-- [[PRRegressionResolution]] — General regression resolution
-- [[LevelUpBug]] — Level-up specific bugs
+- [PRRegressionResolution](PRRegressionResolution.md) — General regression resolution
+- [LevelUpBug](LevelUpBug.md) — Level-up specific bugs
 - [[LevelUpRegressionFix]] — Regression fix documentation

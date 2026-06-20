@@ -55,6 +55,6 @@ A stateless agent is permanently dumb. Without the outcome ledger, the system bu
 The memory system makes the "Replace Yourself" north star achievable — the system gets smarter over time instead of staying permanently dumb.
 
 ## Related Concepts
-- [[AutonomousAgentLoop]]
-- [[HarnessEngineering]]
-- [[EscalationRouter]]
+- [AutonomousAgentLoop](AutonomousAgentLoop.md)
+- [HarnessEngineering](HarnessEngineering.md)
+- [EscalationRouter](EscalationRouter.md)

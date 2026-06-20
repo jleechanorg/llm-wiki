@@ -14,7 +14,7 @@ STATE_UPDATES_PROPOSED was a marker used in character design narrative to instru
 - **New pattern**: State updates in JSON field, not narrative
 
 ## Related Concepts
-- [[JSONMode]] — the new approach replacing this pattern
+- [JSONMode](JSONMode.md) — the new approach replacing this pattern
 - [[CharacterDesignReminder]] — constant that was updated
 
 ## Transition

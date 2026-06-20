@@ -10,13 +10,13 @@ total_scenes: 151
 
 ## Overview
 
-** Astarion's New Lair, Underneath Baldur's Gate appears in 10 scenes across the [[astarion-ascended]] campaign.
+** Astarion's New Lair, Underneath Baldur's Gate appears in 10 scenes across the [astarion-ascended](../sources/astarion-ascended.md) campaign.
 
 ## Description
 
 ** Astarion's New Lair, Underneath Baldur's Gate is an entity from the astarion-ascended campaign.
 
 ## References
-- [[astarion-ascended]] — campaign overview
-- [[astarion-ascended-campaign]]
+- [astarion-ascended](../sources/astarion-ascended.md) — campaign overview
+- [astarion-ascended-campaign](../sources/astarion-ascended-campaign.md)
 

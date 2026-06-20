@@ -15,6 +15,6 @@ Validation of game state objects in the mvp_site system. Uses is_valid_game_stat
 - get_common_field_paths(): Identify shared field paths
 
 ## Related Concepts
-- [[JSONSchemaValidation]] — underlying validation mechanism
-- [[SchemaValidation]] — general validation concept
+- [JSONSchemaValidation](JSONSchemaValidation.md) — underlying validation mechanism
+- [SchemaValidation](SchemaValidation.md) — general validation concept
 - [[FirestoreDataValidation]] — persistence layer validation

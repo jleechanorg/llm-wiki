@@ -16,4 +16,4 @@ A decentralized distributed system that provides a lookup service similar to a h
 
 ## Connections
 - [[DistributedSystems]] — underlying theory
-- [[Dropbox]] — uses DHT for peer sync
+- [Dropbox](../entities/Dropbox.md) — uses DHT for peer sync

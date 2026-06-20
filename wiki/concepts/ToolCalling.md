@@ -11,4 +11,4 @@ Tool Calling (also called Function Calling) allows LLMs to invoke defined functi
 ## Connections
 - [[OpenAI-Compatible Chat Completions Shared Core]] — extracts tool calls from responses
 - [[Chat Completions]] — the base API that supports tool calling
-- [[openai-chat-completions-shared-helpers.md]] — handles tool definitions
+- [openai-chat-completions-shared-helpers.md](../sources/openai-chat-completions-shared-helpers.md) — handles tool definitions

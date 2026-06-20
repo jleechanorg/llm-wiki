@@ -11,9 +11,9 @@ The Shadow Empire is the collection of assets and operations controlled by the S
 
 ## Key Details
 - Category: Faction / Criminal Empire
-- Leader: [[ShadowMonarch]]
+- Leader: [ShadowMonarch](ShadowMonarch.md)
 - Status: Growing/Active
-- Campaign appearances: [[nocturne-bg3-continued-campaign]]
+- Campaign appearances: [nocturne-bg3-continued-campaign](../sources/nocturne-bg3-continued-campaign.md)
 
 ## Assets
 
@@ -38,7 +38,7 @@ The Shadow Empire is the collection of assets and operations controlled by the S
 - Strategic control over "the city's salvation" through the Manifest of Souls
 
 ## Connections
-- [[ShadowMonarch]] — leader
-- [[MoonriseShip]] — captured asset
-- [[OmniAttunement]] — mechanic enabling the empire's power
-- [[TheHungerMechanic]] — provides Nocturne with enhanced stats to maintain the empire
+- [ShadowMonarch](ShadowMonarch.md) — leader
+- [MoonriseShip](MoonriseShip.md) — captured asset
+- [OmniAttunement](../concepts/OmniAttunement.md) — mechanic enabling the empire's power
+- [TheHungerMechanic](../concepts/TheHungerMechanic.md) — provides Nocturne with enhanced stats to maintain the empire

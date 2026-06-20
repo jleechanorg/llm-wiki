@@ -10,13 +10,13 @@ total_scenes: 685
 
 ## Overview
 
-** Site Alpha - Sub-Level 0 Vault appears in 4 scenes across the [[sariel-killer]] campaign.
+** Site Alpha - Sub-Level 0 Vault appears in 4 scenes across the [sariel-killer](../sources/sariel-killer.md) campaign.
 
 ## Description
 
 ** Site Alpha - Sub-Level 0 Vault is an entity from the sariel-killer campaign.
 
 ## References
-- [[sariel-killer]] — campaign overview
-- [[sariel-killer-campaign]]
+- [sariel-killer](../sources/sariel-killer.md) — campaign overview
+- [sariel-killer-campaign](../sources/sariel-killer-campaign.md)
 

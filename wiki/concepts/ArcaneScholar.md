@@ -19,6 +19,6 @@ Arcane Scholar is the fantasy theme for the application, featuring a deep navy-p
 The `[data-theme='fantasy']` selector activates this theme, overriding all color tokens while preserving the design token structure.
 
 ## Related concepts
-- [[Theming]] — how the theme is applied
+- [Theming](Theming.md) — how the theme is applied
 - [[FantasyThemeCSSVariables]] — previous implementation
 - [[EmberParticleBackground]] — gated on this theme

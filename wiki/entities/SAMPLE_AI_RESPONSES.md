@@ -10,5 +10,5 @@ last_updated: 2026-04-08
 Sample AI response fixtures used for test data. Imported from data_fixtures module to provide consistent test responses.
 
 ## Related
-- [[MockLLMClient]] — uses these fixtures
-- [[StructuredFieldsFixtures]] — alternative fixture source
+- [MockLLMClient](MockLLMClient.md) — uses these fixtures
+- [StructuredFieldsFixtures](../concepts/StructuredFieldsFixtures.md) — alternative fixture source

@@ -11,15 +11,15 @@ SWE-bench (Software Engineering Benchmark) is a benchmark for evaluating LLMs on
 ## Key Properties
 - **Real-world tasks**: Based on actual GitHub issues and pull requests from popular repositories
 - **Adversarial test cases**: The test cases are the ones that failed before the fix and passed after — adversarially selected by the bug existing in the wild
-- **Measures [[SelfDebugging]]**: Evaluates whether models can understand the issue, write code, and get tests to pass
+- **Measures [SelfDebugging](SelfDebugging.md)**: Evaluates whether models can understand the issue, write code, and get tests to pass
 - **Challenging**: Even frontier models struggle with many SWE-bench tasks
 
 ## Connections
-- [[AdversarialTesting]] — SWE-bench uses adversarial test cases from real bugs
-- [[SelfDebugging]] — SWE-bench is a benchmark for self-debugging capability
-- [[VerificationLoop]] — SWE-bench evaluates whether a model can complete the verification loop autonomously
-- [[SelfGeneratedTestGeneration]] — SWE-bench's test cases are the ground truth; self-generated tests extend evaluation to code without pre-existing coverage
+- [AdversarialTesting](AdversarialTesting.md) — SWE-bench uses adversarial test cases from real bugs
+- [SelfDebugging](SelfDebugging.md) — SWE-bench is a benchmark for self-debugging capability
+- [VerificationLoop](VerificationLoop.md) — SWE-bench evaluates whether a model can complete the verification loop autonomously
+- [SelfGeneratedTestGeneration](SelfGeneratedTestGeneration.md) — SWE-bench's test cases are the ground truth; self-generated tests extend evaluation to code without pre-existing coverage
 
 ## See Also
-- [[AdversarialTesting]]
-- [[SelfDebugging]]
+- [AdversarialTesting](AdversarialTesting.md)
+- [SelfDebugging](SelfDebugging.md)

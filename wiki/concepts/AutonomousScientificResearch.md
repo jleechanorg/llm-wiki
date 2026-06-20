@@ -24,6 +24,6 @@ Plan → Execute → Verify → Iterate
 ## Connections
 
 - Pioneer work on multi-LLM agent coordination
-- Related to [[AgentMentor]] — execution log monitoring for corrective instructions
-- Related to [[MetaGPT]] — multi-agent collaboration with structured roles
-- Safety considerations relevant to [[ZeroFrameworkCognition]]
+- Related to [AgentMentor](AgentMentor.md) — execution log monitoring for corrective instructions
+- Related to [MetaGPT](MetaGPT.md) — multi-agent collaboration with structured roles
+- Safety considerations relevant to [ZeroFrameworkCognition](ZeroFrameworkCognition.md)

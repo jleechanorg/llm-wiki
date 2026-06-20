@@ -24,10 +24,10 @@ Aegon (called "Egg") is a 10-year-old Targaryen princess disguised as a boy, ser
 5. **Godhood**: Marries Daemon II Blackfyre; industrializes the Shivering Wastes; rewrites the laws of the North
 
 ## Relationships
-- **[[SerDuncanTheTall]]**: Hedge knight and protector. The "Ditchbond" — Dunk's simple loyalty anchors Aegon to mortality even at godhood. Aegon offers Dunk dried apple in a pivotal scene; he is the one man who knew her when she was just soot and straw.
-- **[[PrinceDaemon]]**: Targaryen ally who becomes her husband. Elevated to "Prince Who Was Promised" by R'hllor's spark; Tier 3 Divine Vessel at Lvl 30.
-- **[[Rhhllor]]**: Primordial deity who becomes ally after the "Solar Eclipse" negotiation. Provides raw heat; Aegon provides geometric architecture.
-- **[[HousePeake]]**: Primary antagonist in the Marches arc. 200-man pincer, later hunted by the swarm.
+- **[SerDuncanTheTall](SerDuncanTheTall.md)**: Hedge knight and protector. The "Ditchbond" — Dunk's simple loyalty anchors Aegon to mortality even at godhood. Aegon offers Dunk dried apple in a pivotal scene; he is the one man who knew her when she was just soot and straw.
+- **[PrinceDaemon](PrinceDaemon.md)**: Targaryen ally who becomes her husband. Elevated to "Prince Who Was Promised" by R'hllor's spark; Tier 3 Divine Vessel at Lvl 30.
+- **[Rhhllor](Rhhllor.md)**: Primordial deity who becomes ally after the "Solar Eclipse" negotiation. Provides raw heat; Aegon provides geometric architecture.
+- **[HousePeake](HousePeake.md)**: Primary antagonist in the Marches arc. 200-man pincer, later hunted by the swarm.
 
 ## Notable Quotes
 > "The muddle of the old prophecies is scoured. Today, we conduct the Song of Ice, Fire, and Starlight."

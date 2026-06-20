@@ -10,13 +10,13 @@ total_scenes: 596
 
 ## Overview
 
-** Aethelgard Academy, AP Arcana Seminar appears in 4 scenes across the [[aizen-bg3]] campaign.
+** Aethelgard Academy, AP Arcana Seminar appears in 4 scenes across the [aizen-bg3](../sources/aizen-bg3.md) campaign.
 
 ## Description
 
 ** Aethelgard Academy, AP Arcana Seminar is an entity from the aizen-bg3 campaign.
 
 ## References
-- [[aizen-bg3]] — campaign overview
-- [[aizen-bg3-campaign]]
+- [aizen-bg3](../sources/aizen-bg3.md) — campaign overview
+- [aizen-bg3-campaign](../sources/aizen-bg3-campaign.md)
 

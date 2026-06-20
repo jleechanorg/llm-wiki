@@ -32,7 +32,7 @@ Pydantic-based schema system for entity tracking in WorldAI campaigns. Defines e
 
 ## Connections
 
-- [[EntityTracking]] — entity lifecycle management
-- [[SceneManifest]] — scene-level entity tracking
+- [EntityTracking](EntityTracking.md) — entity lifecycle management
+- [SceneManifest](SceneManifest.md) — scene-level entity tracking
 - [[CombatSystem]] — combat disposition applied during encounters
-- [[mvp-site-entities-pydantic]] — Pydantic model implementation
+- [mvp-site-entities-pydantic](../sources/mvp-site-entities-pydantic.md) — Pydantic model implementation

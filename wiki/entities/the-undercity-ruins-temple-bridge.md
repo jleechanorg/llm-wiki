@@ -10,13 +10,13 @@ total_scenes: 179
 
 ## Overview
 
-** The Undercity Ruins (Temple Bridge) appears in 5 scenes across the [[nocturne-bg3-continued]] campaign.
+** The Undercity Ruins (Temple Bridge) appears in 5 scenes across the [nocturne-bg3-continued](../sources/nocturne-bg3-continued.md) campaign.
 
 ## Description
 
 ** The Undercity Ruins (Temple Bridge) is an entity from the nocturne-bg3-continued campaign.
 
 ## References
-- [[nocturne-bg3-continued]] — campaign overview
-- [[nocturne-bg3-continued-campaign]]
+- [nocturne-bg3-continued](../sources/nocturne-bg3-continued.md) — campaign overview
+- [nocturne-bg3-continued-campaign](../sources/nocturne-bg3-continued-campaign.md)
 

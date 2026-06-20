@@ -14,5 +14,5 @@ JSON file format for storing service interactions during testing. Follows `captu
 - Default: `{tempfile.gettempdir()}/test_captures`
 
 ## Related Concepts
-- [[CaptureAnalyzer]] — analyzes capture files
+- [CaptureAnalyzer](../entities/CaptureAnalyzer.md) — analyzes capture files
 - [[Cleanup Old Captures]] — removes stale capture files

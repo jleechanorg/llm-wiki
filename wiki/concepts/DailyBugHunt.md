@@ -71,6 +71,6 @@ Different agents catch different bug patterns. Running 4 in parallel:
 - The `fix(bug-hunt)` PRs show the system has been iteratively improved (jq fail-closed, @openclaw escalation gating on positive bug count)
 
 ## Related Concepts
-- [[MultiAgentBugScanning]]
-- [[AutonomousAgentLoop]]
-- [[ProactiveSessionRecovery]]
+- [MultiAgentBugScanning](MultiAgentBugScanning.md)
+- [AutonomousAgentLoop](AutonomousAgentLoop.md)
+- [ProactiveSessionRecovery](ProactiveSessionRecovery.md)

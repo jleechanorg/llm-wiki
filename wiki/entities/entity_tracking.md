@@ -14,7 +14,7 @@ Module within mvp_site that handles entity extraction from game state using Pyda
 - `get_validation_info()` — returns validation type and Pydantic availability
 
 ## Data Structures
-- [[SceneManifest]] — main output model
+- [SceneManifest](SceneManifest.md) — main output model
 - PlayerCharacter — validated player data
 - NPC — validated NPC data
 
@@ -22,5 +22,5 @@ Module within mvp_site that handles entity extraction from game state using Pyda
 ~333 ops/sec for 100 iterations with full validation pipeline
 
 ## Connections
-- Uses: [[Pydantic]] for validation
-- Related: [[DefensiveNumericConverter]]
+- Uses: [Pydantic](Pydantic.md) for validation
+- Related: [DefensiveNumericConverter](DefensiveNumericConverter.md)

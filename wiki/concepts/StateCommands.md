@@ -10,5 +10,5 @@ State commands are tokens that trigger specific game state modifications or quer
 
 ## Related Patterns
 - Implemented via [[GameStateInstructionTokens]]
-- Often contain [[JSONFragments]] for structured data
-- Part of the broader token system including [[DeletionTokens]] and [[MarkupTokens]]
+- Often contain [JSONFragments](JSONFragments.md) for structured data
+- Part of the broader token system including [DeletionTokens](DeletionTokens.md) and [MarkupTokens](MarkupTokens.md)

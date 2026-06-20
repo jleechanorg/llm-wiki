@@ -20,4 +20,4 @@ Testing pattern that provides in-memory simulation of Firestore database operati
 
 ## Related
 - [[Test Fixtures]] — sample data (SAMPLE_CAMPAIGN, SAMPLE_GAME_STATE) used with mocks
-- [[Dual-Mode Testing]] — switching between mock and real backends
+- [Dual-Mode Testing](Dual-Mode Testing.md) — switching between mock and real backends

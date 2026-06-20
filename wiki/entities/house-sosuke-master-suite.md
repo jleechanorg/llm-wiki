@@ -10,13 +10,13 @@ total_scenes: 606
 
 ## Overview
 
-** House Sosuke - Master Suite appears in 9 scenes across the [[faction-nocturne-bg3-v3]] campaign.
+** House Sosuke - Master Suite appears in 9 scenes across the [faction-nocturne-bg3-v3](../sources/faction-nocturne-bg3-v3.md) campaign.
 
 ## Description
 
 ** House Sosuke - Master Suite is an entity from the faction-nocturne-bg3-v3 campaign.
 
 ## References
-- [[faction-nocturne-bg3-v3]] — campaign overview
-- [[faction-nocturne-bg3-v3-campaign]]
+- [faction-nocturne-bg3-v3](../sources/faction-nocturne-bg3-v3.md) — campaign overview
+- [faction-nocturne-bg3-v3-campaign](../sources/faction-nocturne-bg3-v3-campaign.md)
 

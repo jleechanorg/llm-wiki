@@ -11,7 +11,7 @@ Tadpole Containment is the mechanic in the V5-V6 campaigns where the tadpole fro
 
 ## Key Details
 - **Category:** GameMechanic
-- **Campaign(s):** [[nocturne-bg3-v5]], [[nocturne-bg3-v5-succubus]], [[nocturne-bg3-v6-bug-repro-test]]
+- **Campaign(s):** [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md), [nocturne-bg3-v5-succubus](../sources/nocturne-bg3-v5-succubus.md), [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md)
 
 ## Related Concepts
 - [[LevelUpLeak]] — concept of containment failing
@@ -19,5 +19,5 @@ Tadpole Containment is the mechanic in the V5-V6 campaigns where the tadpole fro
 - [[PowerSuppression]] — mechanical effect
 
 ## Related Entities
-- [[NocturneSosuke]] — contained entity
-- [[TheAbsolute]] — tadpole source
+- [NocturneSosuke](../entities/NocturneSosuke.md) — contained entity
+- [TheAbsolute](../entities/TheAbsolute.md) — tadpole source

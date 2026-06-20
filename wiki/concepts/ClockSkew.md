@@ -17,7 +17,7 @@ Clock skew compensation adjusts system time to match external server time for JW
 - The patch detects K_SERVICE env var for Cloud Run detection
 
 ## Related
-- [[JWT]] — tokens that require time validation
+- [JWT](../entities/JWT.md) — tokens that require time validation
 - [[GoogleAuth]] — library being patched
 - [[ClockSkewCredentialsPatch]] — implementation using monkey-patching
 - [[ClockSkewDetection]] — complementary client-side detection system

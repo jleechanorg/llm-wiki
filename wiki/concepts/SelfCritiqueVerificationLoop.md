@@ -51,19 +51,19 @@ Final verified code only
 
 ## Integration Points
 
-- Used by [[AutoResearchLoop]] in Phase 2 (Implementation)
-- Outputs feed into [[CanonicalCodeScorer]] for quantitative evaluation
+- Used by [AutoResearchLoop](AutoResearchLoop.md) in Phase 2 (Implementation)
+- Outputs feed into [CanonicalCodeScorer](CanonicalCodeScorer.md) for quantitative evaluation
 - Canonical patterns sourced from [[AutoProductMasterSystem]] wiki pages
 
 ## Evidence: OpenClaw Self-Refine Experiment (Cycle 1)
 
 **Finding**: Self-refine WITHOUT file context hits token cap (4,096 tokens, 45s) and still fails to match ground truth. Context > Self-Critique for deterministic fixes.
 
-Key insight from [[openclaw-self-refine-experiment]] — self-critique cannot compensate for missing context. The [[SelfCritiqueVerificationLoop]] provides context via canonical pattern prompt chaining, which addresses this failure mode.
+Key insight from [openclaw-self-refine-experiment](../sources/openclaw-self-refine-experiment.md) — self-critique cannot compensate for missing context. The [SelfCritiqueVerificationLoop](SelfCritiqueVerificationLoop.md) provides context via canonical pattern prompt chaining, which addresses this failure mode.
 
 ## Related Concepts
 
-- [[AutoResearchLoop]] — the outer loop that calls this as a subroutine
-- [[CanonicalCodeScorer]] — scores the final verified output
+- [AutoResearchLoop](AutoResearchLoop.md) — the outer loop that calls this as a subroutine
+- [CanonicalCodeScorer](CanonicalCodeScorer.md) — scores the final verified output
 - [[SelfCorrection2025]] — the self-correction component of the loop
 - [[ReVeal2026]] — the test-generation-and-execution component

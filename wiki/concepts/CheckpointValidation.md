@@ -16,6 +16,6 @@ Process of validating save state consistency in game systems. The GameState.vali
 - Graceful handling of None values
 
 ## Connections
-- [[GameState]] — class that performs checkpoint validation
+- [GameState](GameState.md) — class that performs checkpoint validation
 - [[Character Creation]] — game phase where validation is skipped
-- [[DivisionByZero]] — error that validation guards against
+- [DivisionByZero](DivisionByZero.md) — error that validation guards against

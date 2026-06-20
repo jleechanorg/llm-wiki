@@ -10,13 +10,13 @@ total_scenes: 258
 
 ## Overview
 
-** Visenya's Chambers appears in 23 scenes across the [[visenya-v5]] campaign.
+** Visenya's Chambers appears in 23 scenes across the [visenya-v5](../sources/visenya-v5.md) campaign.
 
 ## Description
 
 ** Visenya's Chambers is an entity from the visenya-v5 campaign.
 
 ## References
-- [[visenya-v5]] — campaign overview
+- [visenya-v5](../sources/visenya-v5.md) — campaign overview
 - [[visenya-v5-campaign]]
 

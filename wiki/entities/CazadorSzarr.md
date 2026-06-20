@@ -26,6 +26,6 @@ As a vampire lord, Cazador possesses:
 Primary antagonist and source of Astarion's traumatic past in the bg3-astarion campaign.
 
 ## Connections
-- [[bg3-astarion-campaign]] — source campaign
-- [[Astarion]] — his former spawn and current target
-- [[BaldursGate]] — his former lair
+- [bg3-astarion-campaign](../sources/bg3-astarion-campaign.md) — source campaign
+- [Astarion](Astarion.md) — his former spawn and current target
+- [BaldursGate](BaldursGate.md) — his former lair

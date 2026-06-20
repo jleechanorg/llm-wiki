@@ -28,10 +28,10 @@ The Abyssal Siren Mechanics are the specific abilities and balance systems that 
 - Can be used to enhance Charisma checks or debilitate enemies
 
 ## How It Appears in the Campaigns
-- [[nocrune-bg3-v6-campaign]]: Minthara's Social HP tracked at 30; Thrall limit confirmed at 3
-- [[noctune-bg3-v6-campaign]]: Balance systems confirmed; companions in "Asset" mode with fluctuating approval
+- [nocrune-bg3-v6-campaign](../sources/nocrune-bg3-v6-campaign.md): Minthara's Social HP tracked at 30; Thrall limit confirmed at 3
+- [noctune-bg3-v6-campaign](../sources/noctune-bg3-v6-campaign.md): Balance systems confirmed; companions in "Asset" mode with fluctuating approval
 
 ## Connections
-- [[CollegeOfTheAbyssalSiren]] — parent subclass containing these mechanics
-- [[NocturneSosuke]] — user of these mechanics
-- [[Minthara]] — primary target of Siren's Gaze
+- [CollegeOfTheAbyssalSiren](CollegeOfTheAbyssalSiren.md) — parent subclass containing these mechanics
+- [NocturneSosuke](../entities/NocturneSosuke.md) — user of these mechanics
+- [Minthara](../entities/Minthara.md) — primary target of Siren's Gaze

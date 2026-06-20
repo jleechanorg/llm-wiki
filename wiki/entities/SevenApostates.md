@@ -20,5 +20,5 @@ The Seven Apostates are Lucifer's seven generals who led the divine rebellion du
 
 ## Key Facts
 - Role: Generals of the divine rebellion
-- Affiliation: [[ShatteredHost]]
+- Affiliation: [ShatteredHost](ShatteredHost.md)
 - Era: Celestial Wars

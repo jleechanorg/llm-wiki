@@ -20,7 +20,7 @@ This premise establishes the moral and legal ambiguity that defines the campaign
 
 ## Connections
 
-- [[Sariel]] — Hunter
+- [Sariel](../entities/Sariel.md) — Hunter
 - [[HuntingPartySarielCampaign]] — Campaign
 - [[FBI]] — Official employer (unofficial)
-- [[BloodDragon]] — Identity enabling this role
+- [BloodDragon](BloodDragon.md) — Identity enabling this role

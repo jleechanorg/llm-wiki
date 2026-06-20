@@ -15,6 +15,6 @@ Process of reducing LLM request context to fit within token limits. When truncat
 - Apply budget caps AFTER measurement on same context used for construction
 
 ## Related
-- [[SequenceIDBudgetEnforcement]]
-- [[TokenBudgetCalculation]]
+- [SequenceIDBudgetEnforcement](SequenceIDBudgetEnforcement.md)
+- [TokenBudgetCalculation](TokenBudgetCalculation.md)
 - [[LLMRequestContext]]

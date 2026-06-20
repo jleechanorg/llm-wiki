@@ -20,6 +20,6 @@ provider = get_service_provider('capture') # Capture mode
 ```
 
 ## Related
-- [[TestServiceProvider]] — produced abstract type
-- [[MockServiceProvider]] — mock product
-- [[RealServiceProvider]] — real product
+- [TestServiceProvider](TestServiceProvider.md) — produced abstract type
+- [MockServiceProvider](../entities/MockServiceProvider.md) — mock product
+- [RealServiceProvider](../entities/RealServiceProvider.md) — real product

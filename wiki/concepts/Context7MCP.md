@@ -13,6 +13,6 @@ Revolutionary real-time documentation lookup during development, automatically r
 8/10 - VERY INNOVATIVE
 
 ## Related Pages
-- [[ClaudeCode]]
-- [[MCP]]
+- [ClaudeCode](../entities/ClaudeCode.md)
+- [MCP](MCP.md)
 - [[DocumentationIntegration]]

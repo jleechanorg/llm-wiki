@@ -20,6 +20,6 @@ In Gaia Julia V4, Gaia Julia Caesar (playing the role of "Livia of Capua," a Lev
 ## Connections
 
 - [[Gaia Julia V4 Campaign]] — source campaign
-- [[Spartacus]] — fellow rebel leader
+- [Spartacus](Spartacus.md) — fellow rebel leader
 - [[Gaia Julia Caesar]] — the "captive" with hidden power
 - [[Lotus Ten]] — Gaia's loyal cult

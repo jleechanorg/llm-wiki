@@ -15,6 +15,6 @@ The task of determining the intent or goal behind user input. Implemented using 
 3. Return the mode with highest similarity
 
 ## Related Concepts
-- [[TextEmbedding]] — converting text to vectors
-- [[LocalIntentClassifier]] — implementation using embeddings
-- [[ContextTruncation]] — limiting context length for performance
+- [TextEmbedding](../entities/TextEmbedding.md) — converting text to vectors
+- [LocalIntentClassifier](../entities/LocalIntentClassifier.md) — implementation using embeddings
+- [ContextTruncation](ContextTruncation.md) — limiting context length for performance

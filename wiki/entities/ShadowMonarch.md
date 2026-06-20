@@ -15,7 +15,7 @@ The Shadow Monarch is Nocturne at Level 8 Bard (College of Swords) with Neutral 
 - HP: 52 | AC: 18 | DC: 20
 - Stats (Hunger Sated +2 Active): STR 12 (+1), DEX 20 (+5), CON 16 (+3), INT 18 (+4), WIS 16 (+3), CHA 24 (+7)
 - Equipment (5/5 Attuned): Canaith Mandolin, Cloak of Displacement, Ring of Protection, Boots of the Zephyr, Drum of the Dark Heart
-- Campaign appearances: [[nocturne-bg3-continued-campaign]]
+- Campaign appearances: [nocturne-bg3-continued-campaign](../sources/nocturne-bg3-continued-campaign.md)
 
 ## Empire Assets
 - **Shadow Bank:** Manager Vessic (Little Calimshan)
@@ -24,8 +24,8 @@ The Shadow Monarch is Nocturne at Level 8 Bard (College of Swords) with Neutral 
 - **Forces:** Black Lotus Squad (Vesper, Gant, Silas, Nyx)
 
 ## Connections
-- [[MoonriseShip]] — current location
-- [[ShadowEmpire]] — her empire assets
-- [[CollegeOfSwords]] — Bard subclass
-- [[OmniAttunement]] — active mechanic
-- [[TheHungerMechanic]] — provides +2 stat bonus when sated
+- [MoonriseShip](MoonriseShip.md) — current location
+- [ShadowEmpire](ShadowEmpire.md) — her empire assets
+- [CollegeOfSwords](../concepts/CollegeOfSwords.md) — Bard subclass
+- [OmniAttunement](../concepts/OmniAttunement.md) — active mechanic
+- [TheHungerMechanic](../concepts/TheHungerMechanic.md) — provides +2 stat bonus when sated

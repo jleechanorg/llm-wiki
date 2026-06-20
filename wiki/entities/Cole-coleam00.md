@@ -37,4 +37,4 @@ On his own stream he says:
 - Premature as a production system (2h live stream proof-of-concept)
 - Level 4 system with level 5 branding
 
-See [[slack-c09grlxf9gr-archon-analysis-2026-04-15]].
+See [slack-c09grlxf9gr-archon-analysis-2026-04-15](../sources/slack-c09grlxf9gr-archon-analysis-2026-04-15.md).

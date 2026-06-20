@@ -20,5 +20,5 @@ World simulation system that tracks player_turn counters, generates world_events
 - [[Living World Round-trip Tests]] — validates serialization preservation
 
 ## Connections
-- [[GameState]] — serializes living world data
+- [GameState](GameState.md) — serializes living world data
 - [[God Mode]] — does not increment player_turn

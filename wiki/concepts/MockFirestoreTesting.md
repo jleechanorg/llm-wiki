@@ -21,5 +21,5 @@ Testing pattern using Firestore's mock client (`MOCK_SERVICES_MODE=true`) to run
 - Full Firestore API coverage
 
 ## Related
-- [[FirestoreService]] — module being tested
-- [[UpdateCampaign]] — function tested with mocks
+- [FirestoreService](../entities/FirestoreService.md) — module being tested
+- [UpdateCampaign](../entities/UpdateCampaign.md) — function tested with mocks

@@ -17,5 +17,5 @@ Deadline consequences are narrative and mechanical outcomes that trigger when a 
 Consequences are checked by comparing current game time (world_time.day) against deadline time (deadline.day). If current_day > deadline_day, the consequence triggers.
 
 ## Related Concepts
-- [[TimeSensitiveEvents]] — the mechanism that triggers consequences
+- [TimeSensitiveEvents](TimeSensitiveEvents.md) — the mechanism that triggers consequences
 - [[UrgencyLevels]] — determines severity and warning timing

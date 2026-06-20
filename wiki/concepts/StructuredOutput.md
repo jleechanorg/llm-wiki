@@ -14,5 +14,5 @@ Structured Output refers to AI models that can reliably generate JSON or other s
 - Must use models that can reliably follow JSON schemas
 
 ## Related
-- [[Gemini]] — Known for structured output
+- [Gemini](../entities/Gemini.md) — Known for structured output
 - [[Settings Page - AI Provider Selection]] — Provider selection UI

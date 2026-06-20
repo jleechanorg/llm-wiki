@@ -19,6 +19,6 @@ LLM Judgment is the layer in harness engineering where an LLM (OpenClaw) makes d
 "Deterministic first, LLM for judgment" — don't use an LLM when a rule will do. The LLM is called only for the 20% requiring genuine judgment.
 
 ## Related Concepts
-- [[OpenClaw]] — provides LLM judgment capability
+- [OpenClaw](../entities/OpenClaw.md) — provides LLM judgment capability
 - [[Deterministic Feedback Loops]] — handles the predictable 80%
 - [[Harness Engineering]] — overall framework

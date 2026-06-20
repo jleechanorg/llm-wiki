@@ -25,6 +25,6 @@ OpenHands provides:
 
 ## Connections
 
-- Core platform for [[AgentBench]]-style evaluation
-- Alternative to [[SWE-Agent]] single-agent approach
+- Core platform for [AgentBench](AgentBench.md)-style evaluation
+- Alternative to [SWE-Agent](SWE-Agent.md) single-agent approach
 - Used in [[PRWatchdog]] for automated agent evaluation

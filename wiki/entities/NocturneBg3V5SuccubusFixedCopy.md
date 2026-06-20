@@ -27,7 +27,7 @@ The "Stygian Ingress" of the final scene title places the campaign's terminus at
 
 ## Connections
 
-- [[NocturneBg3V5Succubus]] — the shorter source campaign (278 scenes)
-- [[MalcanthetPatron]] — demon patron (inverted)
-- [[ShatteredRose]] — sanctuary location
+- [NocturneBg3V5Succubus](NocturneBg3V5Succubus.md) — the shorter source campaign (278 scenes)
+- [MalcanthetPatron](../concepts/MalcanthetPatron.md) — demon patron (inverted)
+- [ShatteredRose](ShatteredRose.md) — sanctuary location
 - [[Stygia]] — Fourth Layer of the Nine Hells (terminal arc)

@@ -42,4 +42,4 @@ The "Gilded Trap" concept captures several interconnected themes:
 - [[Gaia Julia V5 Campaign]] — source campaign
 - [[Gaia Julia Caesar]] — the fallen heir
 - [[Third Servile War]] — the setting
-- [[Spartacus]] — the rebellion she now serves (unwillingly)
+- [Spartacus](../entities/Spartacus.md) — the rebellion she now serves (unwillingly)

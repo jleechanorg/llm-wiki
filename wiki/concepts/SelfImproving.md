@@ -38,8 +38,8 @@ Self-improving systems are AI systems that autonomously improve their performanc
 
 ## Connections
 
-- [[MetaHarness]] — the self-improving system for harness engineering
-- [[AgenticProposer]] — the agent that drives self-improvement
-- [[ExperienceReplay]] — enables self-improvement through past experience
-- [[FeedbackLoop]] — self-improvement requires effective feedback
-- [[AgenticCoding]] — the broader practice of self-improving coding agents
+- [MetaHarness](MetaHarness.md) — the self-improving system for harness engineering
+- [AgenticProposer](AgenticProposer.md) — the agent that drives self-improvement
+- [ExperienceReplay](ExperienceReplay.md) — enables self-improvement through past experience
+- [FeedbackLoop](FeedbackLoop.md) — self-improvement requires effective feedback
+- [AgenticCoding](AgenticCoding.md) — the broader practice of self-improving coding agents

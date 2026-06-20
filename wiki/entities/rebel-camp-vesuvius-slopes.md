@@ -10,13 +10,13 @@ total_scenes: 490
 
 ## Overview
 
-** Rebel Camp, Vesuvius Slopes appears in 11 scenes across the [[aurelius-julius-caesar-v1]] campaign.
+** Rebel Camp, Vesuvius Slopes appears in 11 scenes across the [aurelius-julius-caesar-v1](../sources/aurelius-julius-caesar-v1.md) campaign.
 
 ## Description
 
 ** Rebel Camp, Vesuvius Slopes is an entity from the aurelius-julius-caesar-v1 campaign.
 
 ## References
-- [[aurelius-julius-caesar-v1]] — campaign overview
-- [[aurelius-julius-caesar-v1-campaign]]
+- [aurelius-julius-caesar-v1](../sources/aurelius-julius-caesar-v1.md) — campaign overview
+- [aurelius-julius-caesar-v1-campaign](../sources/aurelius-julius-caesar-v1-campaign.md)
 

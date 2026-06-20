@@ -35,7 +35,7 @@ A dismissal gap in the `rewards_engine` where non-level-up `xp_gained` has no cl
 The fix requires adding a dismissal guard: when no new XP award is present on a non-level-up turn, clear `xp_gained` from the merged rewards_box before normalizing.
 
 ## See Also
-- [[RewardsEngine]]
-- [[RewardsBoxAtomicity]]
+- [RewardsEngine](RewardsEngine.md)
+- [RewardsBoxAtomicity](RewardsBoxAtomicity.md)
 - [[NormalizationAtomicity]]
 - [[Level-Up-Signal-Dismissal-Gap]]

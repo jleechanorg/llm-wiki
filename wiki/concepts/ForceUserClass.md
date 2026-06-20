@@ -28,8 +28,8 @@ The Force-User class would include:
 
 ## Connections
 
-- [[LukeSkywalker]] — Wielder
+- [LukeSkywalker](../entities/LukeSkywalker.md) — Wielder
 - [[LukeV2Campaign]] — Campaign
-- [[ForceAlignmentTracker]] — Core mechanic
+- [ForceAlignmentTracker](ForceAlignmentTracker.md) — Core mechanic
 - [[LightSideAdept]] — Subclass
 - [[DarkSideCorruptor]] — Subclass

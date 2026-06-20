@@ -10,13 +10,13 @@ total_scenes: 1002
 
 ## Overview
 
-** Lady Selene's Sanctum (Undermountain) appears in 9 scenes across the [[nocturne-post-bg3-zhent]] campaign.
+** Lady Selene's Sanctum (Undermountain) appears in 9 scenes across the [nocturne-post-bg3-zhent](../sources/nocturne-post-bg3-zhent.md) campaign.
 
 ## Description
 
 ** Lady Selene's Sanctum (Undermountain) is an entity from the nocturne-post-bg3-zhent campaign.
 
 ## References
-- [[nocturne-post-bg3-zhent]] — campaign overview
-- [[nocturne-post-bg3-zhent-campaign]]
+- [nocturne-post-bg3-zhent](../sources/nocturne-post-bg3-zhent.md) — campaign overview
+- [nocturne-post-bg3-zhent-campaign](../sources/nocturne-post-bg3-zhent-campaign.md)
 

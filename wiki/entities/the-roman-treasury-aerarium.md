@@ -10,13 +10,13 @@ total_scenes: 521
 
 ## Overview
 
-** The Roman Treasury (Aerarium) appears in 3 scenes across the [[gaia-julia-v2]] campaign.
+** The Roman Treasury (Aerarium) appears in 3 scenes across the [gaia-julia-v2](../sources/gaia-julia-v2.md) campaign.
 
 ## Description
 
 ** The Roman Treasury (Aerarium) is an entity from the gaia-julia-v2 campaign.
 
 ## References
-- [[gaia-julia-v2]] — campaign overview
-- [[gaia-julia-v2-campaign]]
+- [gaia-julia-v2](../sources/gaia-julia-v2.md) — campaign overview
+- [gaia-julia-v2-campaign](../sources/gaia-julia-v2-campaign.md)
 

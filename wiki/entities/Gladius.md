@@ -29,9 +29,9 @@ His core motivation is **domination** — not merely physical superiority, but p
 ## Connections
 
 - [[MercSoloBruteGladiusCampaign]] — Campaign overview
-- [[ApexPaladin]] — Character class
-- [[ElfsongTavern]] — Starting location
+- [ApexPaladin](../concepts/ApexPaladin.md) — Character class
+- [ElfsongTavern](ElfsongTavern.md) — Starting location
 - [[HouseAlVeri]] — Hidden noble lineage
 - [[TheHammer]] — Mercenary reputation
-- [[DestinyRuleset]] — Game ruleset
+- [DestinyRuleset](../concepts/DestinyRuleset.md) — Game ruleset
 - [[LowerCityBaldursGate]] — Primary region

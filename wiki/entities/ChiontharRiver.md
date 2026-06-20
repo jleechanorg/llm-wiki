@@ -11,14 +11,14 @@ The Chionthar River is a major waterway in Baldur's Gate where the Nautiloid cra
 
 ## Key Details
 - **Category:** Location
-- **Campaign(s):** [[nocturne-bg3-v5]], [[nocturne-bg3-v5-fixed-v2]], [[nocturne-bg3-v5-succubus]]
+- **Campaign(s):** [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md), [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md), [nocturne-bg3-v5-succubus](../sources/nocturne-bg3-v5-succubus.md)
 - **Setting:** Baldur's Gate region, major river
 
 ## Connections
-- [[RavagedBeach]] -- adjacent shore where Nocturne lands
-- [[Nautiloid]] -- crashed across the river
-- [[NocturneSosuke]] -- washes up on nearby beach after crash
+- [RavagedBeach](RavagedBeach.md) -- adjacent shore where Nocturne lands
+- [Nautiloid](Nautiloid.md) -- crashed across the river
+- [NocturneSosuke](NocturneSosuke.md) -- washes up on nearby beach after crash
 
 ## Appearances
-- [[nocturne-bg3-v5]] -- referenced in background, Nautiloid wreckage across the river
-- [[nocturne-bg3-v5-fixed-v2]] -- same reference
+- [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md) -- referenced in background, Nautiloid wreckage across the river
+- [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md) -- same reference

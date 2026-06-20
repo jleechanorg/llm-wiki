@@ -16,5 +16,5 @@ Automatic retry logic in api.js that handles transient failures by retrying fail
 - forceRefresh obtains new JWT token before retry
 
 ## Related Entities
-- [[ApiJs]] — implements the mechanism
-- [[JWT]] — token refreshed on retry
+- [ApiJs](../entities/ApiJs.md) — implements the mechanism
+- [JWT](../entities/JWT.md) — token refreshed on retry

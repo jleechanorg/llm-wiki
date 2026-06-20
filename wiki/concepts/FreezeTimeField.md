@@ -22,6 +22,6 @@ The freeze_time field is an optional boolean property on planning block choices 
 | missing | Normal advancement (default) |
 
 ## Related Concepts
-- [[PlanningBlock]] — container for freeze_time field
-- [[TurnAdvancementMechanics]] — how time progresses in normal gameplay
+- [PlanningBlock](PlanningBlock.md) — container for freeze_time field
+- [TurnAdvancementMechanics](TurnAdvancementMechanics.md) — how time progresses in normal gameplay
 - Think Mode — another mechanism for minimal time advancement

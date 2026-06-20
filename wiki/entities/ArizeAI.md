@@ -20,10 +20,10 @@ Arize AI is an ML/AI observability platform with drift detection. It provides re
 
 ## Connections
 
-- [[DriftDetection]] — Arize provides drift detection for production ML
+- [DriftDetection](../concepts/DriftDetection.md) — Arize provides drift detection for production ML
 - [[FeedbackLoops]] — drift detection enables feedback for model governance
-- [[ScalableOversight]] — observability enables scalable oversight of deployed models
+- [ScalableOversight](../concepts/ScalableOversight.md) — observability enables scalable oversight of deployed models
 
 ## See Also
-- [[DriftDetection]]
+- [DriftDetection](../concepts/DriftDetection.md)
 - [[FeedbackLoops]]

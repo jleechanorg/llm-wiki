@@ -10,13 +10,13 @@ total_scenes: 133
 
 ## Overview
 
-** Hyperspace Travel appears in 3 scenes across the [[luke-v2]] campaign.
+** Hyperspace Travel appears in 3 scenes across the [luke-v2](../sources/luke-v2.md) campaign.
 
 ## Description
 
 ** Hyperspace Travel is an entity from the luke-v2 campaign.
 
 ## References
-- [[luke-v2]] — campaign overview
-- [[luke-v2-campaign]]
+- [luke-v2](../sources/luke-v2.md) — campaign overview
+- [luke-v2-campaign](../sources/luke-v2-campaign.md)
 

@@ -10,13 +10,13 @@ total_scenes: 925
 
 ## Overview
 
-** Void-Cage Ward (The Necrotic Rime) appears in 6 scenes across the [[nocturne-bg3-v5-fixed-v2]] campaign.
+** Void-Cage Ward (The Necrotic Rime) appears in 6 scenes across the [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md) campaign.
 
 ## Description
 
 ** Void-Cage Ward (The Necrotic Rime) is an entity from the nocturne-bg3-v5-fixed-v2 campaign.
 
 ## References
-- [[nocturne-bg3-v5-fixed-v2]] — campaign overview
-- [[nocturne-bg3-v5-fixed-v2-campaign]]
+- [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md) — campaign overview
+- [nocturne-bg3-v5-fixed-v2-campaign](../sources/nocturne-bg3-v5-fixed-v2-campaign.md)
 

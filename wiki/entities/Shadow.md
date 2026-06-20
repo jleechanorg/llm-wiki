@@ -20,10 +20,10 @@ Shadow is a player character in the WorldArchitect AI RPG system. Mentioned in T
 
 ## Related Entities
 
-- [[DungeonEntrance]] — location mentioned in test scenario
+- [DungeonEntrance](DungeonEntrance.md) — location mentioned in test scenario
 - [[Mirtul]] — month in the game's calendar system
 
 ## Related Concepts
 
-- [[ThinkMode]] — game mode where this character was referenced
-- [[SessionHeader]] — session state containing character stats
+- [ThinkMode](../concepts/ThinkMode.md) — game mode where this character was referenced
+- [SessionHeader](../concepts/SessionHeader.md) — session state containing character stats

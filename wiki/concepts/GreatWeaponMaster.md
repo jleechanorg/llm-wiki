@@ -25,6 +25,6 @@ Great Weapon Master fits Gladius's "The Hammer" identity — he's not subtle in 
 
 ## Connections
 
-- [[Gladius]] — Wielder
+- [Gladius](../entities/Gladius.md) — Wielder
 - [[MercSoloBruteGladiusCampaign]] — Campaign
-- [[ApexPaladin]] — Class
+- [ApexPaladin](ApexPaladin.md) — Class

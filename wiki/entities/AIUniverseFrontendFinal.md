@@ -28,11 +28,11 @@ Live React-based single-page application for AI Universe, deployed on Render at 
 - **CORS Handling**: proxy-server.cjs
 
 ## Connections
-- [[Render]] — hosting platform
-- [[Vite]] — build tool
-- [[React]] — frontend framework
-- [[AIUniverseBackendDev]] — backend API
-- [[CORSProxy]] — proxy handling cross-origin requests
+- [Render](Render.md) — hosting platform
+- [Vite](Vite.md) — build tool
+- [React](../concepts/React.md) — frontend framework
+- [AIUniverseBackendDev](AIUniverseBackendDev.md) — backend API
+- [CORSProxy](../concepts/CORSProxy.md) — proxy handling cross-origin requests
 
 ## Source
 [[AI Universe Frontend Testing Report]]

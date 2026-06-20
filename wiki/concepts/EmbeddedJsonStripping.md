@@ -30,5 +30,5 @@ The stripping function removes the raw JSON from narrative to prevent users from
 - Preserves non-JSON narrative content
 
 ## Related Concepts
-- [[PlanningBlock]] — the data that should be isolated
-- [[NarrativeResponseSchema]] — the module containing the stripping function
+- [PlanningBlock](PlanningBlock.md) — the data that should be isolated
+- [NarrativeResponseSchema](NarrativeResponseSchema.md) — the module containing the stripping function

@@ -43,10 +43,10 @@ SkepticGate was renamed `green-gate.yml` in PR #6189 because "skeptic" was misle
 - [[PR-6184]] — fix: check only header section for VERDICT
 
 ## Connections
-- [[EvidenceBundle]] — what SkepticGate requires per check
-- [[CICDWorkflows]] — where SkepticGate fits in the CI pipeline
-- [[FailClosedErrorHandling]] — SkepticGate fails closed, not open
-- [[jeffrey-oracle]] — would ask "where is the evidence?" for any PR without SkepticGate artifacts
+- [EvidenceBundle](EvidenceBundle.md) — what SkepticGate requires per check
+- [CICDWorkflows](CICDWorkflows.md) — where SkepticGate fits in the CI pipeline
+- [FailClosedErrorHandling](FailClosedErrorHandling.md) — SkepticGate fails closed, not open
+- [jeffrey-oracle](../syntheses/jeffrey-oracle.md) — would ask "where is the evidence?" for any PR without SkepticGate artifacts
 
 ## 2026-05-05 Update — ENOBUFS / maxBuffer
 
@@ -60,7 +60,7 @@ Skeptic LLM can hallucinate code behavior (inventing function calls or execution
 3. Re-run skeptic with `--prompt` hint pointing to the test
 4. PR body should explicitly state the hallucination is false
 
-Case study: PR #552 skeptic claimed 3x that line 229 calls `updateSessionMetadataHelper()` after spawn — this was false. Fixed with ghost session prevention comment + ordering test. See [[skeptic-hallucination-defense]].
+Case study: PR #552 skeptic claimed 3x that line 229 calls `updateSessionMetadataHelper()` after spawn — this was false. Fixed with ghost session prevention comment + ordering test. See [skeptic-hallucination-defense](../sources/skeptic-hallucination-defense.md).
 
 ## 2026-05-23 Update — Trigger Marker Protocol
 

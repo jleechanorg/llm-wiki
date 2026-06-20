@@ -20,17 +20,17 @@ Reasoning Budget is the practice of allocating a variable number of thinking tok
 
 ## Connections
 
-- [[ExtendedThinking]] — the underlying capability that reasoning budgets allocate
-- [[TestTimeCompute]] — the research field studying how inference-time compute improves outputs
-- [[AdaptiveContextTruncation]] — similar adaptive spirit applied to context window management rather than token budgets
-- [[AgentPriorityOrdering]] — harness priority ordering can drive reasoning budget tier selection
-- [[HarnessEngineering]] — a harness can implement reasoning budget routing as part of its worker dispatch logic
+- [ExtendedThinking](ExtendedThinking.md) — the underlying capability that reasoning budgets allocate
+- [TestTimeCompute](TestTimeCompute.md) — the research field studying how inference-time compute improves outputs
+- [AdaptiveContextTruncation](AdaptiveContextTruncation.md) — similar adaptive spirit applied to context window management rather than token budgets
+- [AgentPriorityOrdering](AgentPriorityOrdering.md) — harness priority ordering can drive reasoning budget tier selection
+- [HarnessEngineering](HarnessEngineering.md) — a harness can implement reasoning budget routing as part of its worker dispatch logic
 
 ## Relationships to Other Concepts
 
 A well-engineered harness should route tasks not only to the right agent model but also assign an appropriate reasoning budget. Low-stakes linting tasks get minimal budgets; complex multi-file refactors get high budgets with extended thinking enabled.
 
 ## See Also
-- [[AdaptiveComputation]]
-- [[TestTimeCompute]]
-- [[ScalingLaws]]
+- [AdaptiveComputation](AdaptiveComputation.md)
+- [TestTimeCompute](TestTimeCompute.md)
+- [ScalingLaws](ScalingLaws.md)

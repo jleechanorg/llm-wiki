@@ -29,5 +29,5 @@ def normalize_status_code(value, default=200):
 ```
 
 ## Related Concepts
-- [[SafeArithmetic]] — similar defensive pattern for numeric operations
-- [[DefensiveProgramming]] — overarching design philosophy
+- [SafeArithmetic](SafeArithmetic.md) — similar defensive pattern for numeric operations
+- [DefensiveProgramming](DefensiveProgramming.md) — overarching design philosophy

@@ -19,5 +19,5 @@ UI pattern where structured data fields (session-header, planning-block, dice-ro
 Playwright tests verify these blocks are present in rendered HTML by checking for CSS class or ID selectors within .story-entry elements.
 
 ## Related
-- [[Playwright]]
+- [Playwright](Playwright.md)
 - [[StoryEntryRendering]]

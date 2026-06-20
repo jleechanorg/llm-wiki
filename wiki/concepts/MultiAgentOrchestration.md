@@ -24,23 +24,23 @@ Multi-agent orchestration refers to frameworks and platforms that coordinate mul
 
 | Framework | Type | Key Feature |
 |-----------|------|-------------|
-| [[LangGraph]] | Framework | Graph-based state machines |
-| [[AutoGen]] | Framework | Two-agent/group chats |
-| [[CrewAI]] | Platform | Enterprise crew orchestration |
-| [[MetaGPT]] | Framework | SOP-encoding assembly line |
+| [LangGraph](../entities/LangGraph.md) | Framework | Graph-based state machines |
+| [AutoGen](../entities/AutoGen.md) | Framework | Two-agent/group chats |
+| [CrewAI](../entities/CrewAI.md) | Platform | Enterprise crew orchestration |
+| [MetaGPT](MetaGPT.md) | Framework | SOP-encoding assembly line |
 | [[Microsoft Copilot Studio]] | Platform | Enterprise copilots |
 | [[Microsoft Agent Framework]] | Framework | AutoGen successor |
-| [[AgentBench]] | Benchmark | Multi-domain LLM evaluation |
-| [[ProjectChimera]] | System | GNN-learned dynamic topology for 22-agent swarm |
+| [AgentBench](AgentBench.md) | Benchmark | Multi-domain LLM evaluation |
+| [ProjectChimera](../entities/ProjectChimera.md) | System | GNN-learned dynamic topology for 22-agent swarm |
 
 ## Relation to AO
 
 AO's evolve loop is a single-agent 8-phase loop, not a multi-agent orchestration system. Governance layer proposals (PR #452/#453) do not add multi-agent coordination — they add governance constraints to AO's existing loop.
 
 ## See Also
-- [[LangGraph]]
-- [[AutoGen]]
-- [[CrewAI]]
-- [[MetaGPT]]
-- [[WorkflowEngine]]
-- [[ProjectChimera]]
+- [LangGraph](../entities/LangGraph.md)
+- [AutoGen](../entities/AutoGen.md)
+- [CrewAI](../entities/CrewAI.md)
+- [MetaGPT](MetaGPT.md)
+- [WorkflowEngine](WorkflowEngine.md)
+- [ProjectChimera](../entities/ProjectChimera.md)

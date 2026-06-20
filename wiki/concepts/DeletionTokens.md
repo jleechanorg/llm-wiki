@@ -9,5 +9,5 @@ last_updated: 2026-04-08
 Deletion tokens are special markers in prompt engineering that signal the removal or exclusion of certain content from the generated output. In the context of WorldArchitect.AI's narrative systems, these tokens are used to control what content gets omitted from game state updates.
 
 ## Related Patterns
-- Related to [[MarkupTokens]] and [[StateCommands]] as part of the 6-pattern token analysis framework
+- Related to [MarkupTokens](MarkupTokens.md) and [StateCommands](StateCommands.md) as part of the 6-pattern token analysis framework
 - Used in conjunction with [[GameStateInstructionTokens]] for content filtering

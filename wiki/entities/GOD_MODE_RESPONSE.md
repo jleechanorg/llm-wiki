@@ -10,5 +10,5 @@ last_updated: 2026-04-08
 God mode response fixture used for testing elevated permission scenarios. Imported from structured_fields_fixtures module.
 
 ## Related
-- [[FULL_STRUCTURED_RESPONSE]] — standard structured response variant
-- [[MockLLMClient]] — uses these fixtures
+- [FULL_STRUCTURED_RESPONSE](FULL_STRUCTURED_RESPONSE.md) — standard structured response variant
+- [MockLLMClient](MockLLMClient.md) — uses these fixtures

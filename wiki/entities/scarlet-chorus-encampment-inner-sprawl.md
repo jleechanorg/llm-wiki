@@ -10,13 +10,13 @@ total_scenes: 291
 
 ## Overview
 
-** Scarlet Chorus Encampment - Inner Sprawl appears in 24 scenes across the [[tyranny]] campaign.
+** Scarlet Chorus Encampment - Inner Sprawl appears in 24 scenes across the [tyranny](../sources/tyranny.md) campaign.
 
 ## Description
 
 ** Scarlet Chorus Encampment - Inner Sprawl is an entity from the tyranny campaign.
 
 ## References
-- [[tyranny]] — campaign overview
-- [[tyranny-campaign]]
+- [tyranny](../sources/tyranny.md) — campaign overview
+- [tyranny-campaign](../sources/tyranny-campaign.md)
 

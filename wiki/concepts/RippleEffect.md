@@ -17,4 +17,4 @@ Visual feedback animation where a circular wave expands from the click point acr
 
 ## Connections
 - [[EnhancedComponentsCSS]] — implements ripple effect for `.btn-enhanced`
-- [[LoadingState]] — related button state animation
+- [LoadingState](LoadingState.md) — related button state animation

@@ -18,7 +18,7 @@ Enables isolated testing of LLM-dependent code without calling actual API endpoi
 - Matches Gemini model API surface
 
 ## Connected To
-- [[FakeFirestoreClient]] — stores generated content
-- [[FakeFirebaseAuth]] — provides user context
-- [[FakeServicesPattern]] — testing methodology
-- [[GeminiAPI]] — real API being mocked
+- [FakeFirestoreClient](FakeFirestoreClient.md) — stores generated content
+- [FakeFirebaseAuth](FakeFirebaseAuth.md) — provides user context
+- [FakeServicesPattern](../concepts/FakeServicesPattern.md) — testing methodology
+- [GeminiAPI](GeminiAPI.md) — real API being mocked

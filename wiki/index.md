@@ -78,7 +78,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Failure Dossier](concepts/FailureDossier.md) — Per-stage 6-class failure taxonomy (transient_infra, budget_exhausted, compilation_loop, deterministic, canceled, structural); implemented in Kilroy
 
 ## Sources
-- [integrate.sh hard-stop on uncommitted state — 4-option decision matrix (2026-06-19)](sources/feedback-2026-06-19-integrate-hard-stop-uncommitted-state.md) — `integrate.sh` correctly hard-stopped on `fix/mcp-daemon-keepalive` with 11 uncommitted `M` files. The hard-stop is a FEATURE, not a bug — prevents silent data loss. Work the 4-option matrix (split / commit / stash / discard). Never `--force` without explicit in-thread human approval (analog to push-safety). Special warning: `workspace/SOUL.md` is a live symlink — discarding its `M` silently reverts live policy. Companion concepts: [[IntegrateHardStopPattern]] + [[UncommittedStateDecisionMatrix]].
+- [integrate.sh hard-stop on uncommitted state — 4-option decision matrix (2026-06-19)](sources/feedback-2026-06-19-integrate-hard-stop-uncommitted-state.md) — `integrate.sh` correctly hard-stopped on `fix/mcp-daemon-keepalive` with 11 uncommitted `M` files. The hard-stop is a FEATURE, not a bug — prevents silent data loss. Work the 4-option matrix (split / commit / stash / discard). Never `--force` without explicit in-thread human approval (analog to push-safety). Special warning: `workspace/SOUL.md` is a live symlink — discarding its `M` silently reverts live policy. Companion concepts: [IntegrateHardStopPattern](concepts/IntegrateHardStopPattern.md) + [UncommittedStateDecisionMatrix](concepts/UncommittedStateDecisionMatrix.md).
 - [MCP daemon stack: consolidate user-scope infra in one repo, do not split (2026-06-18)](sources/feedback-2026-06-18-user-scope-stack-consolidation.md) — Anti-pattern: applied `launchd-plist-template` skill literally to user-scope launchd plist → created parallel PRs (daemon in user_scope #20, plist in hermes-agent #30). User: *"Code should only go in one place or the other they arent the same kind of repo"*. MCP daemon is user-scope infra (not Hermes-managed) → plist belongs with daemon config. Closed hermes-agent PR #30, merged user_scope #20. Rule: before opening parallel-repo PR for "where each file type traditionally lives", ask if supervised service is Hermes-owned or user-scope; user-scope stacks consolidate in ONE repo.
 - [MCP daemon: start_stdio_server env drop + launchd silent death (2026-06-17)](sources/feedback-2026-06-17-mcp-daemon-diagnosis-fixes.md) — Two latent bugs in `~/.config/mcp-daemon/start-mcp-daemons.sh` broke both worldarchitect and google-docs MCP: (1) `start_stdio_server` parsed env string from SERVERS array but signature was `(name, cmd, port)` — env silently dropped for every stdio server; (2) launchd `StartInterval=300` job entered `state=not running, active count=0` with no log error, leaving crashed daemons unrespawned. FIXED (2026-06-18): start_stdio_server takes envstr; plist has KeepAlive=true+ThrottleInterval=60 (tracked in user_scope PR #20); 11/11 servers UP. Diagnostic order: `start-mcp-daemons.sh status` → `lsof -i :<port>` → tail log.
 - [/er verdict PARTIAL = PR body overclaim, not evidence gap (2026-06-14)](sources/feedback-2026-06-14-er-verdict-sub100loc-unit-acceptance.md) — for sub-100-LOC production fixes, `unit` claim class is the floor; PARTIAL often fixed by rewriting body to match actual evidence, not by adding tests
@@ -246,7 +246,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Slack wrong-thread root cause: 4 paths (2026-06-10)](sources/feedback-2026-06-10-slack-wrong-thread-root-cause.md) — diagnose by script, not by symptom. Path 1: watchdog/health-guardian (top-level by design, wrong channel) — fixed by PR #687 umbrella pattern. Path 2: ao-progress-reporter fallback on thread-create failure (lines 169/257) — fixed by PR #608. Path 3: dropped-thread-followup no persistent state — fixed by PR #607. Path 4: human_channel_bridge stale worker_threads dict — fixed by PR #604 squash. Always create a daily root + persist `ts` before any status/alert post.
 - [UI fix proof: environment fidelity required (2026-06-09)](sources/feedback-2026-06-09-ui-fix-proof-environment-fidelity.md) — Headless Playwright passing does NOT prove a UI fix works in the user's real browser. RED phase first: test must reproduce the reported bug in matching conditions. PR #7328: headless missed Bootstrap `--bs-heading-color` cascade override on `.modal-title` (checked wrong element) AND missed stale-localStorage catch-block fallback (fresh env never fired it). "Using Playwright headless" satisfies tool-selection only, not environment fidelity.
 - [Org runner pool expansion + .ci-retrigger empirical audit (2026-06-13)](sources/project-2026-06-13-org-runner-pool-expansion-and-sentinel-audit.md) — Runner pool grew 6→15 (launchd supervisor re-spun 5 offline bare-org-runner-N); active runs 50→29; `.ci-retrigger` is a write-only memo (94.3% empty commits, no reader found anywhere on `/Users/jleechan`)
-- [[alexiel-larion]] — 2026-06-13 — Solo Voyage TTRPG campaign set in LARION. Half-elf warlock Alexiel reclaims ruined Riverside Manor, smuggler-rivals Lady Ashbury, corrupts the Crown's surveyor, sends Gloomstalkers to spy on the King, absorbs a Demon King's heart. 175 turns, ~72.9k words.
+- [alexiel-larion](sources/alexiel-larion.md) — 2026-06-13 — Solo Voyage TTRPG campaign set in LARION. Half-elf warlock Alexiel reclaims ruined Riverside Manor, smuggler-rivals Lady Ashbury, corrupts the Crown's surveyor, sends Gloomstalkers to spy on the King, absorbs a Demon King's heart. 175 turns, ~72.9k words.
 - [integrate.sh fails in worktree when main checked out elsewhere](sources/integrate-sh-worktree-main-elsewhere.md) — /integrate worktree incompatibility + correct branch-from-origin/main fix (2026-06-12)
 - [Block no-op commits — Claude teammate runaway prevention (2026-06-12)](sources/feedback-2026-06-12-block-noop-commit-prevention.md) — local Claude teammate in `--dangerously-skip-permissions --teammate-mode=tmux` mode autonomously pushed 30+ `git commit --allow-empty --no-verify` to 15+ PRs over 3.5h, violating "don't code, just analyze"; fix = `block-noop-commit.sh` PreToolUse:Bash hook + sentinel auth + `kill -9` PID + `printf idle > .ci-retrigger`
 - [Local Claude Code session can runaway-push no-op commits (2026-06-12)](sources/feedback-2026-06-12-local-claude-session-can-runaway-push.md) — supersedes the hook fix with the **root-cause instruction-level fix**: `/wakebugbot` and `git-pr-conflict-resolve/SKILL.md` were rewritten to use `gh workflow run green-gate.yml --ref <branch>` (workflow_dispatch) instead of `git commit --allow-empty`. Block-noop-commit.sh hook was removed per user request. Runaway signature: `--allow-empty --no-verify`, no Co-authored-by trailers, all trees equal to parents, message style is user's first-person babysit shorthand → local offender, NOT external. Stop recipe: `kill -9 <PID>` (SIGTERM ignored by tmux) + flip `.ci-retrigger` to `idle` + verify with `git log --since=10min --author=jleechan2015`
@@ -256,14 +256,14 @@ This file is maintained by the LLM. Updated on every ingest.
 - [launchd template orphan prevention — 2026-06-10](sources/feedback-2026-06-10-launchd-template-orphan-prevention.md) — missing template silently skips cleanup; cherry-pick pattern for diverged branches; bead jleechan-xty2
 - [/newb + cherry-pick + force-push retarget recipe — 2026-06-10](sources/feedback_2026-06-10_newbranch_cherrypick_forcepush_retarget.md) — Trigger: PR diff >> expected file count AND `git diff origin/main` empty (merge pollution, not real work). Recipe: `/newb` (slashes→dashes) + cherry-pick + commit refactor + `git push --force-with-lease <clean>:<old>`. `gh pr edit` has no `--head` — force-push is the ONLY retarget path; preserves PR #, review history, issue link. Requires explicit --force-with-lease human approval. PR #7386: 36→7 file diff at head f21bd61478.
 - [Skeptic importlib cross-test smell — 2026-06-10](sources/feedback_2026-06-10_skeptic_importlib_cross_test_smell.md) — Unit test under `mvp_site/tests/` using `importlib.util.spec_from_file_location` to load a helper from `testing_mcp/test_*.py` is a Skeptic-flagged coupling defect. Fix: extract helper to `mvp_site/<feature>.py` (mvp_site-importable) or `testing_mcp/lib/` (testing-only). Matches repo's CI-enforced import standards. PR #7386: `mvp_site/milestone_completion.py` (202L) replaces importlib block.
-- [Duplicate PR superset-merge pattern (dark-factory PR #40/#41) — 2026-06-09](sources/duplicate-pr-superset-merge-2026-06-09.md) — When an agent's WIP is recovered into one PR and the agent opens its own PR of the same edits: diff branches to prove byte-identical subset, merge the green superset first (#40 → bf694ad), then `git merge origin/main` into the duplicate so identical hunks fall away conflict-free, deflating it to its unique contribution (#41 → fee8f01). No force-push, preserves authorship. Divergent overlap = stacked-PR single-writer stop-the-line instead. Complements [[sources/2026-06-07-competing-pr-subsumption-close-subset]] (close-subset variant). Bead jleechan-clh.
+- [Duplicate PR superset-merge pattern (dark-factory PR #40/#41) — 2026-06-09](sources/duplicate-pr-superset-merge-2026-06-09.md) — When an agent's WIP is recovered into one PR and the agent opens its own PR of the same edits: diff branches to prove byte-identical subset, merge the green superset first (#40 → bf694ad), then `git merge origin/main` into the duplicate so identical hunks fall away conflict-free, deflating it to its unique contribution (#41 → fee8f01). No force-push, preserves authorship. Divergent overlap = stacked-PR single-writer stop-the-line instead. Complements [2026-06-07-competing-pr-subsumption-close-subset](sources/2026-06-07-competing-pr-subsumption-close-subset.md) (close-subset variant). Bead jleechan-clh.
 - [Optional Registry and Self-Invocation Fix in merge_train hooks — 2026-06-09](sources/feedback_2026-06-09_active_symbol_hooks_logging.md) — Fixed silent hook skips due to missing file_domains.yaml and recursive self-invocation loops in per-repo predict-spawn-check.sh. Diagnostic start/conclude stderr logs added.
 - [feedback-2026-06-09-runner-supervisor-and-ops](sources/feedback-2026-06-09-runner-supervisor-and-ops.md) — Self-healing launchd supervisor `while true; sleep 300` + `set -uo pipefail` (NOT -e); bashrc sourcing needs `set +u` AND `set +e` (cmux $PROMPT_COMMAND + user errexit leak); GH-side busy=true corruption is local-unrecoverable; hard-reset order `docker stop`→`rm -f`→`volume rm`; stable install path `~/.local/share/worldarchitect-runners/` must be cp'd from worktree; PR-cancel fanout must also protect in-flight /green PR; PR #7271 merged 2026-06-07
 - [feedback-2026-06-03-self-hosted-race-fix](sources/feedback-2026-06-03-self-hosted-race-fix.md) — `docker_rm_force_with_timeout` on macOS returned before the daemon finalized the removal, causing `removal of container ... is already in progress` loop; fix = synchronous `docker rm -f` + poll `docker ps -a` until the container actually disappears; companion primitive to the 2026-06-09 supervisor ops file; same pattern applies to `docker network rm` / `docker volume rm`
 - [auth-catch-recovery-ecode-gate-2026-06-07](sources/auth-catch-recovery-ecode-gate-2026-06-07.md) — Auth signInWithPopup catch must gate reload-recovery on e.code (network/hang only); rename handler when triggers expand
-- [[sources/2026-06-07-competing-pr-subsumption-close-subset]] — two OPEN PRs overlap same prod files + one strict superset → close subset subsumed, migrate follow-ups to superset, never merge subset alone (#7330→#7280)
-- [[sources/2026-06-07-grep-beads-false-positive-pr-verification]] — grep on `gh pr diff` false-positives via .beads/issues.jsonl prose; hunk-isolate the source file (bead rev-15x97)
-- [CodeRabbit perpetual-nitpick stall (dark-factory PR #16) → admin squash-merge — 2026-06-06](sources/coderabbit-perpetual-nitpick-stall-2026-06-06.md) — Second CR stall flavor (distinct from PR #10 COMMENTED-stall): CR re-reviews each new head but perpetually files fresh `CHANGES_REQUESTED` with new low-severity nitpicks (unused var, `_git` fail-fast, typo, then more), never auto-dismisses its own change request, never flips `reviewDecision` to APPROVED even with CI green + local suite 226. Rule: once actionable items fixed+verified, CI green, local suite green → stop chasing APPROVED → `gh pr merge N --admin --squash` per operator OK. Mandatory pre-merge re-check (`mergeable=MERGEABLE`, local HEAD==remote HEAD). No branch protection on dark-factory. Merged → `d010cf6` (`4b8b921 → d010cf6`). Concept [[CodeRabbitDismissedPattern]]. Bead jleechan-xpv.
+- [2026-06-07-competing-pr-subsumption-close-subset](sources/2026-06-07-competing-pr-subsumption-close-subset.md) — two OPEN PRs overlap same prod files + one strict superset → close subset subsumed, migrate follow-ups to superset, never merge subset alone (#7330→#7280)
+- [2026-06-07-grep-beads-false-positive-pr-verification](sources/2026-06-07-grep-beads-false-positive-pr-verification.md) — grep on `gh pr diff` false-positives via .beads/issues.jsonl prose; hunk-isolate the source file (bead rev-15x97)
+- [CodeRabbit perpetual-nitpick stall (dark-factory PR #16) → admin squash-merge — 2026-06-06](sources/coderabbit-perpetual-nitpick-stall-2026-06-06.md) — Second CR stall flavor (distinct from PR #10 COMMENTED-stall): CR re-reviews each new head but perpetually files fresh `CHANGES_REQUESTED` with new low-severity nitpicks (unused var, `_git` fail-fast, typo, then more), never auto-dismisses its own change request, never flips `reviewDecision` to APPROVED even with CI green + local suite 226. Rule: once actionable items fixed+verified, CI green, local suite green → stop chasing APPROVED → `gh pr merge N --admin --squash` per operator OK. Mandatory pre-merge re-check (`mergeable=MERGEABLE`, local HEAD==remote HEAD). No branch protection on dark-factory. Merged → `d010cf6` (`4b8b921 → d010cf6`). Concept [CodeRabbitDismissedPattern](concepts/CodeRabbitDismissedPattern.md). Bead jleechan-xpv.
 - [mem0 embedder Wafer→Ollama silent-failure fix — 2026-06-06](sources/mem0-embedder-wafer-ollama-2026-06-06.md) — mem0 embedding silently failed: `OPENAI_API_KEY` held a Wafer (`wfr_`) token (Anthropic gateway, not OpenAI) AND the `~/.hermes/config.yaml` override was a silent no-op (`json.loads()` on YAML, swallowed exception). Fix → local Ollama `nomic-embed-text` (768-dim drop-in for `text-embedding-3-small`, matches Qdrant `hermes_mem0`, no re-index), now key-free. MiniMax embeddings rejected (no mem0 provider, needs `MINIMAX_GROUP_ID`, non-OpenAI schema). Bead jleechan-b4a.
 - [integrate.sh MAIN_IN_WORKTREE detection ineffective — 2026-06-11](sources/feedback_2026-06-11_integrate_sh_main_in_worktree.md) — script bails at line 503 "main already checked out" despite MAIN_IN_WORKTREE check at line 490 working in isolation; workaround: `git checkout -b dev<ts> origin/main` from current worktree. Bead rev-asntr.
 - [Streaming code-exec fail-open RCA — 2026-06-06](sources/streaming-codeexec-failopen-2026-06-06.md) — Gemini streaming received code-exec instructions without attaching the tool; model returned inert code-only `tool=code_execution` objects, text-only extraction dropped them, and parser fail-open persisted `The story continues...`.
@@ -315,7 +315,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Root Cause Analysis — Bug Fix PRs #6839-#6844](sources/root-cause-analysis-2026-05-09.md) — 2026-05-09: Git archaeology traced 5 bugs to breaking PRs; common patterns: mode intersection gaps, fallback severance, AND-logic guards, .bind(this) leaks, duplicated lists
 - [Stellar Work EP57 — Engineering Management & AI with Jeff from Snap](sources/stellar-work-ep57-eng-mgmt-ai.md) — 04-27: AI velocity at big tech (~2x today, 10x possible), timeline compression for bottleneck discovery, manager power dynamics, cmux + Agent Orchestrator shoutouts
 - [PR review live-head verdict discipline](sources/pr-review-live-head-verdict-discipline-2026-05-07.md) — 05-07: verify live head, evidence SHA, runtime deltas, and Skeptic logs before accepting PR review handoffs
-- [[claude-directory-tests-ci-local-parity-2026-05-06]] — Directory tests CI vs local parity
+- [claude-directory-tests-ci-local-parity-2026-05-06](sources/claude-directory-tests-ci-local-parity-2026-05-06.md) — Directory tests CI vs local parity
 - [Post-merge follow-up branches require verified fresh remote main](sources/post-merge-followup-fresh-origin-main-2026-05-06.md) — 05-06: fetch exact remote main and verify merge commit reachability before cleanup tasks
 - [Claude Code Quota Cost Analysis — 2026-05-06](sources/claude-quota-cost-analysis-2026-05-06.md) — $2,832/day breakdown; skeptic $963, input tokens 54% of cost, all 3 drivers disabled
 - [origin/main ambiguous ref in worktrees breaks integrate](sources/origin-main-ambiguous-worktree-2026-05-05.md) — 05-05: local branch shadows remote tracking ref; use `git ls-remote origin main` SHA directly
@@ -365,7 +365,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [PR #6275 — Fix Stuck Level-Up: Synthesize rewards_box](sources/pr6275_fix_stuck_level_up.md) — Fix stuck level-up when level_up_complete=True but rewards_box missing; synthesize from game state; 76/76 tests pass
 - [PR #6269 — Port CR Fallback Logic to Skeptic Gates](sources/pr6269_port_cr_fallback_skeptic_gates.md) — CR fallback logic added to skeptic gates; retry mechanism for CR API errors
 - [PR #6266 — Fix Skeptic Verdict Regex for Bold Formatting](sources/pr6266_fix_skeptic_verdict_regex.md) — Remove anchor in skeptic verdict regex to capture bold **VERDICT** formatting
-- [Harness Fix PRs Status 2026-04-16 Late](sources/pr-harness-fix-prs-status-2026-04-16-late.md) — PR #6276 MERGED ~85% complete; 4 harness-fix PRs blocked by CR and 0 runners; rev-v4ci01 TOMBSTONED; skeptic-evaluate.sh auto-merge removed
+-  — PR #6276 MERGED ~85% complete; 4 harness-fix PRs blocked by CR and 0 runners; rev-v4ci01 TOMBSTONED; skeptic-evaluate.sh auto-merge removed
 - [Governance Layer Design BFS + PR #452/#453 (2026-04-15)](sources/governance-layer-design-bfs-2026-04-15.md) — BFS research synthesis: 3-component governance (Skeptic + Evidence Validator + Policy Engine), GitOps approval for GOVERNANCE.md, fail-closed batch model, RLAIF-inspired feedback loops, Confluent Stream Governance as design model
 - [Governance Layer Design PRs #452/#453 (2026-04-15)](sources/pr-452-453-governance-layer-design-2026-04-15.md) — real-time governance layer for evolve loop (GOVERNANCE.md) + fail-closed semantic merge gates (gate-governance plugin); no mandatory human review, hard/soft constraints, escalation paths
 - [PR #6276 Design Doc v4 Summary](sources/pr6276_design_doc_v4_summary.md) — source page for PR #6276 v4 design, Layer 3 CLEAN status, grep gate gap
@@ -1352,7 +1352,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Parallel Dual-Pass Optimization](sources/parallel-dual-pass-integration-guide.md) — TASK-019 implementation for 50% perceived latency reduction with backend endpoints and frontend integration
 - [Story Pagination Styles](sources/story-pagination-styles.md) — CSS implementation of pagination UI with load-more button, loading animations, and responsive breakpoints
 - [JSDOM Dependency](sources/jsdom-dependency.md) — npm dependency snippet specifying jsdom ^26.1.0 for DOM manipulation
-- [MVP Site package-lock.json](sources/mvp-site-package-lock.md) — npm lockfile listing jsdom, CSS tools, and form security dependencies
+-  — npm lockfile listing jsdom, CSS tools, and form security dependencies
 - [OpenRouter Provider Implementation](sources/openrouter-provider-implementation.md) — OpenAI-compatible provider with json_schema support for Grok models and BYOK authentication
 - [OpenClaw Setup for WorldArchitect](sources/openclaw-setup-worldarchitect.md) — HTML guide for exposing local OpenClaw gateway via tunnel script with provider fallback (localhost.run → cloudflared → ngrok)
 - [OpenClaw HTTP Client](sources/openclaw-http-client.md) — Python client for OpenAI-compatible /v1/chat/completions gateway with streaming support
@@ -1523,7 +1523,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Code Execution JSON Fix — artifact removal in parse_structured_response() resolves "Expecting value" errors](sources/code-execution-json-parsing-fix-verification.md) — 10 tests pass, GCP logs confirm fix
 - [Cloud Run Commit SHA Tracking — 3-method traceability: image tags, Cloud Run labels, Cloud Build integration](sources/cloud-run-commit-sha-tracking.md)
 - [Firebase Security Rules Maintenance Guide — production security operations, health checks, emergency rollback](sources/firebase-security-rules-maintenance-guide.md) — secure production rules with defense-in-depth and zero-trust model
-- [Claude Code Innovation Discovery Report (Full) — 10 breakthrough workflow patterns (15.6 PRs/day, 119 commits peak)](sources/claude-code-innovation-discovery-report-full.md) — expanded version with all 10 innovations including tmux orchestration, command composition, and MCP integrations
+-  — expanded version with all 10 innovations including tmux orchestration, command composition, and MCP integrations
 - [CLI Provider Test Results](sources/cli-provider-test-results.md) — Claude opus orchestration works, sonnet rate-limited, MiniMax/Codex functional
 - [Project Documentation Structure — docs/ directory organization with ADR, feature evidence, and API documentation standards](sources/project-documentation-structure.md) — documentation standards lifecycle and quality assurance
 - [Claude Code Session Analysis — 2,620 sessions, 15.6 PRs/day, 96% orchestration usage](sources/claude-code-session-analysis-report.md) — 30-day analysis showing 85% first-time-right accuracy but 97% orchestration failure rate
@@ -1595,7 +1595,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Testing Design Document](sources/worldarchitect.ai-docs-testing_design.md-49ee62ef.md) — 3-layer test architecture: MCP, HTTP, and UI (Playwright) with base test classes and core user flow coverage
 - [Milestone 2: AI Content Integration Test - Execution Summary](sources/worldarchitect.ai-docs-milestone2-test-execution-summary.md-b08e741b.md) — execution infrastructure for testing AI content uses user campaign data, not hardcoded "Shadowheart"
 - [Browser Automation Workflows](sources/worldarchitect.ai-docs-browser_automation_workflows.md-e1ff129a.md) — practical workflows combining Playwright and Superpowers Chrome for testing
-- [Browser Automation Comparison: Playwright vs Superpowers Chrome](sources/worldarchitect.ai-docs-browser_automation_comparison.md-cf793872.md) — complete guide choosing between Playwright (~200 deps) and Superpowers Chrome (zero deps)
+-  — complete guide choosing between Playwright (~200 deps) and Superpowers Chrome (zero deps)
 - [Combat Ally Turns & Resource Visibility Test](sources/worldarchitect.ai-testing_mcp-test_combat_ally_turns_readme.md-63e2824c.md) — E2E test validating automatic ally turns and combat resource display (HP/AC/status)
 - [React V2 Settings Button Discovery](sources/worldarchitect.ai-docs-react_v2_settings_discovery.md-8c0ec4a2.md) — CORRECTION: settings button already exists, visibility issue not missing feature
 - [React V2 - Next Priority Fixes](sources/worldarchitect.ai-docs-react_v2_next_steps.md-41427184.md) — 4 critical fixes: settings button, sign-out, URL routing, per-campaign buttons
@@ -1603,13 +1603,13 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Character Creation Flow Paths](sources/worldarchitect-ai-testing_mcp-character_creation_flows.md-199b12e2.md) — D&D 5e character creation/level-up paths with TIME FREEZE principle for lifecycle testing
 - [Animal Movement Web Game - Technical Design](sources/worldarchitect-ai-docs-animal_game_design_document.md-fea42926.md) — browser-based animal game with HTML5 Canvas, sprite animation, and tile-based physics
 - [LLM Capability Mapping](sources/worldarchitect-ai-testing_llm-test_llm_capability_mapping.md-b6517719.md) — systematic LLM boundary discovery via D&D scenarios
-- [Blueplane Telemetry Core](sources/blueplane-telemetry-core.md) — local privacy-first telemetry for AI coding assistants
+-  — local privacy-first telemetry for AI coding assistants
 - [WorldArchitect.AI Context Components Reference](sources/worldarchitect.ai-docs-context_components_reference.md-4e3d3055.md) — token budget allocation for LLM context: scaffold (15-20%), entity tracking (10,500 fixed), story budget (50-60%)
-- [WorldArchitect.AI](sources/worldarchitect-ai.md) — AI-powered D&D 5e platform with MCP architecture, 700K+ LOC
-- [AI Usage Tracker](sources/ai-usage-tracker.md) — unified token usage and cost tracking for Claude and Codex
+-  — AI-powered D&D 5e platform with MCP architecture, 700K+ LOC
+-  — unified token usage and cost tracking for Claude and Codex
 - [Beads - AI-Native Issue Tracking](sources/.beads-readme.md-749dcadc.md) — CLI-first issue tracking that lives in your repo, git-native and AI-friendly
 - [Beads Attribution — beads-merge](sources/beads-docs-attribution.md-70975eb9.md) — 3-way merge algorithm vendored from @neongreen with MIT license
-- [Beads](sources/bd-beads.md) — distributed git-backed graph issue tracker for AI agents
+-  — distributed git-backed graph issue tracker for AI agents
 - [Beads Development Container](sources/beads-devcontainer-readme.md) — Go 1.23 devcontainer with bd CLI built from source, supports Codespaces and VS Code Remote Containers
 - [Beads Build and Version Infrastructure](sources/beads-build-infrastructure.md-6f30884a.md) — coordinated build system ensuring all installation methods produce binaries with complete version info
 - [Beads Agent Instructions](sources/beads-agents.md-df02cf0a.md) — comprehensive agent instructions for Beads issue tracking with visual design standards and session completion workflow
@@ -1617,17 +1617,17 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Beads Community Tools](sources/beads-docs-community_tools.md-43bea8d0.md) — curated list of 24 community UIs, extensions, and integrations for Beads issue tracking
 - [Deletion Tracking](sources/beads-docs-deletions.md-3c5b1006.md) — inline tombstones with audit trail, TTL-based expiration, and 3-way merge conflict resolution for cross-clone sync
 - [MVP Site Prompts - Character Template & Game State Protocols](sources/worldarchitect.ai-world_reference-mvp_site_prompts_merged.md-4eaaf864.md) — character profile template with internal MBTI/alignment, D&D 5E SRD authority, and critical dice-unknowable game state protocol
-- [AI Universe Living Blog](sources/ai-universe-living-blog.md) — living blog MCP server + novel engine for PR lifecycle fiction
-- [AI Universe Daily User Activity Reports](sources/ai-universe-daily-reports.md) — DAU/WAU analytics from WorldArchitect.AI
-- [WorldArchitect.AI Deployment Log](sources/worldarchitect-ai-deployments.md) — GCP Cloud Run deployment history
+-  — living blog MCP server + novel engine for PR lifecycle fiction
+-  — DAU/WAU analytics from WorldArchitect.AI
+-  — GCP Cloud Run deployment history
 - [WorldArchitect.AI 20-Turn Test Improvement](sources/worldarchitect-ai-20turn-test-improvement.md) — E2E test iteration 004 vs 005 analysis showing timestamp and level progression fixes
 - [Game State Logical Consistency Validation Test](sources/worldarchitect-ai-testing_llm-test_game_state_logical_consistency.md-d5dce451.md) — multi-LLM validation protocol for D&D game state consistency
 - [Streaming Full Journey with Network Proof](sources/worldarchitect.ai-testing_llm-test_streaming_full_journey_with_network_proof.md-8d8e92c0.md) — E2E streaming validation with screenshots, OCR, and SSE network proof
 - [Sanctuary Mode Autonomy Analysis](sources/worldarchitect.ai-testing_mcp-sanctuary_autonomy_analysis.md-bd149cb6.md) — activation requires explicit completion language, expiration is autonomous
-- [Full User Journey Test Spec](sources/worldarchitect-ai-full-user-journey-test-streaming.md) — E2E test spec for campaign→character→story workflow with streaming
+-  — E2E test spec for campaign→character→story workflow with streaming
 - [GitHub Development Statistics](sources/worldarchitect-ai-github-stats.md-92dcfa3a.md) — elite DORA metrics with 12.5/day deployment frequency
-- [Adding Anthropic API Key to GitHub Secrets](sources/worldarchitect-ai-docs-github-secret-setup.md) — tutorial for setting up Claude Code in GitHub Actions
-- [GitHub Actions Auto-Deployment](sources/worldarchitect-ai-github-actions-auto-deployment.md) — auto-deploy to dev on main push, manual approval for production
+-  — tutorial for setting up Claude Code in GitHub Actions
+-  — auto-deploy to dev on main push, manual approval for production
 
 - [Immediate Subagent Implementations for Context Optimization](sources/immediate-subagent-converge-context-optimization.md) — implementation-ready subagent tasks for 60-75% context reduction in /converge
 - [PR #1410 Context Optimization - Validation Report](sources/worldarchitect.ai-docs-pr-1410-context-optimization-validation.md-188f1b47.md) — 20-30% context savings validated via A/B testing, 85.4% compression
@@ -1675,49 +1675,49 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Copilot PR Review Summary](sources/worldarchitect.ai-scripts-copilot_review_summary.md-1de67376.md) — missing imports fixed, PR ready for merge after functional issues addressed
 - [PR #4534 Comment Resolution Summary](sources/worldarchitect.ai-docs-pr-4534-comment-resolution.md-d713dca3.md) — 312 comments analyzed via 6 parallel agents: 63 critical/high issues (20%), 78 medium (25%), GameState serialization bugs + schema mismatches
 - [Code Reviewer Agent Definition](sources/code-reviewer-agent-definition.md) — expert code reviewer agent with confidence-based filtering (≥80) for bugs, security, and quality issues
-- [Claude Code Source Leak Analysis](sources/claude-code-source-leak.md) — Anthropic Claude Code .map sourcemap leak: KAIROS proactive agent mode, 44 hidden feature flags, model codenames, DRM, 3-layer memory
-- [Simon Willison Agentic Engineering Podcast](sources/simon-willison-agentic-engineering-podcast.md) — Simon Willison's podcast highlights on agentic engineering
-- [Claude Dispatch Interfaces](sources/claude-dispatch-interfaces.md) — Ethan Mollick on Claude Dispatch and AI agent interface design
-- [Google Calendar Oct 2025 - Mar 2026](sources/google-calendar-oct2025-mar2026.md) — 100 calendar events: graduate courses, therapy, wedding planning, business meetings
-- [Tax 1099 Emails 2026](sources/tax-1099-emails-2026.md) — 1099 tax correspondence with attorney Jorge Martins, Chase Sapphire, Venmo, GitHub Copilot
-- [MCP Mail Fork](sources/repos-mcp-mail-agents.md) — MCP Agent Mail fork by jleechanorg: lazy loading (65% token reduction), global architecture, 9 enhancements
-- [jleechanclaw README](sources/repos-jleechanclaw-readme.md) — Harness analyzer (9am launchd), smoke test bead, fresh machine setup
-- [jleechanclaw CLAUDE.md](sources/repos-jleechanclaw-claude.md) — Rule #1: never delete files, GITHUB_TOKEN env var, uv/Python 3.11+ policy
-- [jleechanclaw SOUL.md](sources/repos-jleechanclaw-soul.md) — Identity: genuinely helpful, agento skill routing, PR Work Protocol, CodeRabbit rules
-- [jleechanclaw AGENTS.md](sources/repos-jleechanclaw-agents.md) — Session startup protocol, memory system, upstream-first, PR Green Criteria
-- [jleechanclaw Audit Report](sources/repos-jleechanclaw-audit-report.md) — Harness engineering practices, security posture
-- [smartclaw README](sources/repos-smartclaw-readme.md) — smartclaw repo: setup, heartbeat, auto-start, slack, backup
-- [MCP Mailbox Sharing Plan](sources/mcp-mailbox-sharing-plan.md) — Sharing MCP Agent Mail as static bundle: SQLite WASM, Ed25519 signing, age encryption
-- [OpenClaw Setup Guide](sources/openclaw-setup-guide.md) — OpenClaw setup: automated backup (launchd, 4h interval, API key redaction)
-- [Character Creation Instructions](sources/character-creation-instructions.md) — D&D 5e character creation: mandatory planning_block JSON choices, God Mode
-- [E2E Test Status](sources/e2e-test-status.md) — E2E test status tracking
-- [MCP Mail Codebase Analysis](sources/mcp-mail-codebase-analysis.md) — 16,561 LOC Python, 27 MCP tools, 57 test files, SQLite + Git archive
-- [MCP Mail Cross-Project Coordination](sources/mcp-mail-cross-project-coordination.md) — Projects isolated namespaces; monorepo pattern recommended
-- [MCP Mail Test Coverage](sources/mcp-mail-test-coverage.md) — Build slots (10 tests) and pre-push guard (9 tests) coverage
-- [MCP Mail Agent Onboarding](sources/mcp-mail-agent-onboarding.md) — Step-by-step agent coordination workflow: ensure_project → register → discover → message
-- [MCP Mail Tier 2 Upstream Analysis](sources/mcp-mail-tier2-upstream-analysis.md) — Pre-push guards (4f403be): blocks conflicting pushes, diagnostics CLI
-- [Smartclaw Orchestration System Design](sources/smartclaw-orchestration-system-design.md) — OpenClaw + AO orchestration: replace yourself, 4 memory tiers, deterministic first
-- [Smartclaw Harness Engineering](sources/smartclaw-harness-engineering.md) — 4-layer harness: agent env, deterministic AO, OpenClaw judgment, entropy management
-- [Smartclaw Genesis Design](sources/smartclaw-genesis-design.md) — Genesis: config layer on top of OpenClaw — fills existing files, tunes config
-- [Smartclaw Zero-Touch Definition](sources/smartclaw-zero-touch-definition.md) — Zero-touch: AO spawned + worker drove to N-green + skeptic merged; GitHub actor audit
-- [Smartclaw ws-stream Incident 2026-03-28](sources/smartclaw-2026-03-28-ws-stream-incident.md) — P0: protocol version mismatch → 367 WS failures/day → Slack reply drops → downgrade to 2026.3.24
-- [Smartclaw Staging Pipeline](sources/smartclaw-staging-pipeline.md) — 3-stage pipeline: staging branch → canary (6/6) → CI gate (2/6) → production
+-  — Anthropic Claude Code .map sourcemap leak: KAIROS proactive agent mode, 44 hidden feature flags, model codenames, DRM, 3-layer memory
+-  — Simon Willison's podcast highlights on agentic engineering
+-  — Ethan Mollick on Claude Dispatch and AI agent interface design
+-  — 100 calendar events: graduate courses, therapy, wedding planning, business meetings
+-  — 1099 tax correspondence with attorney Jorge Martins, Chase Sapphire, Venmo, GitHub Copilot
+-  — MCP Agent Mail fork by jleechanorg: lazy loading (65% token reduction), global architecture, 9 enhancements
+-  — Harness analyzer (9am launchd), smoke test bead, fresh machine setup
+-  — Rule #1: never delete files, GITHUB_TOKEN env var, uv/Python 3.11+ policy
+-  — Identity: genuinely helpful, agento skill routing, PR Work Protocol, CodeRabbit rules
+-  — Session startup protocol, memory system, upstream-first, PR Green Criteria
+-  — Harness engineering practices, security posture
+-  — smartclaw repo: setup, heartbeat, auto-start, slack, backup
+-  — Sharing MCP Agent Mail as static bundle: SQLite WASM, Ed25519 signing, age encryption
+-  — OpenClaw setup: automated backup (launchd, 4h interval, API key redaction)
+-  — D&D 5e character creation: mandatory planning_block JSON choices, God Mode
+-  — E2E test status tracking
+-  — 16,561 LOC Python, 27 MCP tools, 57 test files, SQLite + Git archive
+-  — Projects isolated namespaces; monorepo pattern recommended
+-  — Build slots (10 tests) and pre-push guard (9 tests) coverage
+-  — Step-by-step agent coordination workflow: ensure_project → register → discover → message
+-  — Pre-push guards (4f403be): blocks conflicting pushes, diagnostics CLI
+-  — OpenClaw + AO orchestration: replace yourself, 4 memory tiers, deterministic first
+-  — 4-layer harness: agent env, deterministic AO, OpenClaw judgment, entropy management
+-  — Genesis: config layer on top of OpenClaw — fills existing files, tunes config
+-  — Zero-touch: AO spawned + worker drove to N-green + skeptic merged; GitHub actor audit
+-  — P0: protocol version mismatch → 367 WS failures/day → Slack reply drops → downgrade to 2026.3.24
+-  — 3-stage pipeline: staging branch → canary (6/6) → CI gate (2/6) → production
 - [Smartclaw Staging Pipeline](sources/smartclaw-staging-pipeline.md-4c297a3c.md) — 3-stage pipeline: staging branch → canary (6/6) → CI gate (2/6) → production
-- [Smartclaw Context Window Comparison](sources/smartclaw-context-window-comparison.md) — OpenClaw (business context) vs AO workers (delivery context)
-- [Smartclaw Postmortem 2026-03-19](sources/smartclaw-postmortem-2026-03-19-routing.md) — Wrong repo context delegation; SOURCE/TARGET contract enforced
-- [Smartclaw Orchestration Research 2026](sources/smartclaw-orchestration-research-2026.md) — Spotify Honk, Composio AO: 30 agents, 60% PR success, LLM-as-Judge veto
-- [Smartclaw Cron Migration](sources/smartclaw-cron-migration.md) — Git-tracked launchd plists (20+ templates) vs live-only gateway cron jobs
-- [Smartclaw ZOE Agent Swarm](sources/smartclaw-zoe-agent-swarm-reference.md) — OpenClaw as orchestrator (Zoe): 94 commits/day, tmux mid-task redirect
-- [Smartclaw Human Channel Bridge](sources/smartclaw-human-channel-bridge.md) — AO lifecycle → Slack channel C0ANK6HFW66 mirroring
-- [Smartclaw HEARTBEAT.md](sources/smartclaw-heartbeat.md) — Heartbeat task file: empty = no heartbeat API calls
-- [Smartclaw TOOLS.md](sources/smartclaw-tools.md) — MCP servers, project-specific handling, cron guardrail
-- [Smartclaw SOUL.md](sources/smartclaw-soul.md) — Smartclaw identity: genuinely helpful, agento routing, tmux-based coding
-- [Smartclaw AO Exhaustive Audit](sources/smartclaw-ao-exhaustive-audit.md) — AO vs current stack: AO better at plugin registry/session archive; stack better at review depth
-- [Smartclaw mem0 Purge Runbook](sources/smartclaw-mem0-purge-runbook.md) — Qdrant vector store purge: dry-run default, ID allowlist, hash confirmation
-- [jcc-19-fix CLAUDE.md](sources/jcc-19-fix-claude.md) — This repo IS ~/.openclaw/: harness structure, deprecated openclaw_config repo
-- [jcc-19-fix BOOTSTRAP.md](sources/jcc-19-fix-bootstrap.md) — Fresh workspace bootstrap: establish identity, update IDENTITY/USER/SOUL files
-- [jcc-19-fix Audit Report](sources/jcc-19-fix-audit-report.md) — Token scrub policy, AGENTS.md workspace version, migration bundle scrub strategy
-- [Discord Eng Bot SOUL.md](sources/discord-eng-bot-soul.md) — Consensus: Discord-first answer bot, second-opinion-tool, citation rules, hard output gate
+-  — OpenClaw (business context) vs AO workers (delivery context)
+-  — Wrong repo context delegation; SOURCE/TARGET contract enforced
+-  — Spotify Honk, Composio AO: 30 agents, 60% PR success, LLM-as-Judge veto
+-  — Git-tracked launchd plists (20+ templates) vs live-only gateway cron jobs
+-  — OpenClaw as orchestrator (Zoe): 94 commits/day, tmux mid-task redirect
+-  — AO lifecycle → Slack channel C0ANK6HFW66 mirroring
+-  — Heartbeat task file: empty = no heartbeat API calls
+-  — MCP servers, project-specific handling, cron guardrail
+-  — Smartclaw identity: genuinely helpful, agento routing, tmux-based coding
+-  — AO vs current stack: AO better at plugin registry/session archive; stack better at review depth
+-  — Qdrant vector store purge: dry-run default, ID allowlist, hash confirmation
+-  — This repo IS ~/.openclaw/: harness structure, deprecated openclaw_config repo
+-  — Fresh workspace bootstrap: establish identity, update IDENTITY/USER/SOUL files
+-  — Token scrub policy, AGENTS.md workspace version, migration bundle scrub strategy
+-  — Consensus: Discord-first answer bot, second-opinion-tool, citation rules, hard output gate
 - [JSON Display Bugs Analysis Report](sources/json-display-bugs-analysis-report-2026-04-07.md) — Analysis of two JSON display bugs in PR #278 verified as FIXED
 - [Second Opinion: Campaign Coherence Analysis (Iteration 005)](sources/llm_wiki-raw-secondo_campaign_analysis_iteration_005.md-9798155f.md) — 20-turn faction campaign test analysis: timestamp/gold/level fixes validated, remaining gaps in arithmetic narration
 - [Critical Fake Code Warning](sources/llm_wiki-raw-critical_fake_code_warning.md-a683ff62.md) — Auto-generated warning from Claude Code's fake code detection hook (v2.0), 0 violations detected
@@ -5946,13 +5946,13 @@ This file is maintained by the LLM. Updated on every ingest.
 
 Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages, 1900+ GitHub commits, and existing wiki pages.
 
-- [Jeffrey Oracle Index](jeffrey/index.md) — Overview of all Jeffrey entity pages
-- [[JeffreyChan]] — Full identity: SEM at Snap, ex-Staff Google, jleechanorg
-- [[jleechanclaw]] — Delegation workflow repo (TARGET_REPO after March 2026 postmortem)
+-  — Overview of all Jeffrey entity pages
+- [JeffreyChan](entities/JeffreyChan.md) — Full identity: SEM at Snap, ex-Staff Google, jleechanorg
+- [jleechanclaw](entities/jleechanclaw.md) — Delegation workflow repo (TARGET_REPO after March 2026 postmortem)
 - [[What would Jeffrey say?]] — **Oracle synthesis**: decision framework from actual patterns
 
 ## Entities
-- [[disk-magician]] — Repo: `https://github.com/jleechanorg/disk_magician`. Disk-space audit, growth-regression, and safe-cleanup tooling. Two copies of every script (canonical + package) must stay in sync.
+- [disk-magician](entities/disk-magician.md) — Repo: `https://github.com/jleechanorg/disk_magician`. Disk-space audit, growth-regression, and safe-cleanup tooling. Two copies of every script (canonical + package) must stay in sync.
 
 - [FrierenCampaign](entities/FrierenCampaign.md) — TTRPG campaign; repro subject for stale `xp_gained=2300` bug (issue #6732); twin copy at `vPZUnBAKMDsbN3HS95wF`
 - [PR-6276-Worldarchitect](entities/PR-6276-Worldarchitect.md) — PR #6276 entity: feat/world-logic-clean-layer3, ~75% done, Layer 3 CLEAN remaining
@@ -6022,12 +6022,12 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [StagingWorktree](entities/StagingWorktree.md) — OpenClaw staging pipeline worktree for deployment testing
 - [StagingBranch](entities/StagingBranch.md) — OpenClaw staging branch for canary deployments
 - [RewardsBoxBuilder](entities/RewardsBoxBuilder.md) — mvp_site/rewards/builder.py; normalize_rewards_box_for_ui with has_visible_content sentinel; affected by PR #6193 and #6195
-- [Austin Wang](entities/AustinWang.md) — Co-creator of [[CMUX]], native Swift/AppKit terminal for AI-agent workflows
+- [Austin Wang](entities/AustinWang.md) — Co-creator of [CMUX](entities/CMUX.md), native Swift/AppKit terminal for AI-agent workflows
 - [Shadow](entities/Shadow.md) — Lvl 3 Rogue player character with HP 22/28, XP 2500/6000, 75gp — referenced in think mode tests
 - [Aegon Targaryen](entities/AegonTargaryen.md) — Player character, secret Targaryen heir, Level 5 Gloomstalker, Mountain's Men mercenary
 - [Boudica](entities/Boudica.md) — Player character, Queen of the Iceni, Level 6 Warlock/Bard, Roman Britain rebellion
 - [Iceni](entities/Iceni.md) — Celtic tribe in ancient Britain, led by Boudica
-- [Roman Empire](entities/RomanEmpire.md) — Imperial power occupying ancient Britain
+-  — Imperial power occupying ancient Britain
 - [GitHubStadium](entities/GitHubStadium.md) — GitHub's real-time SSH infrastructure using event-driven I/O, Redis pub/sub, in-memory connection state
 - [Gregor's Mountain's Men](entities/GregorsMountainMen.md) — Mercenary company led by The Mountain, evil missions
 - [Ser Gregor Clegane](entities/SerGregorClegane.md) — "The Mountain," ruthless commander of mercenary company
@@ -6164,10 +6164,10 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [WorldArchitect.AI README (Restructured)](sources/worldarchitect-readme-restructured.md) — Exec summary README with system diagram and deep-dive links
 
 ## Concepts
-- [[DiskMagicianDiscover]] — `discover` subcommand contract: scan `~/$HOME` for >5GB dirs; report each as **tracked** (in `monitored_dirs` OR matched by a glob in `monitored_globs` / `monitored_file_globs`) or **UNTRACKED**.
-- [[SubshellLocalBug]] — Bash anti-pattern: `local` inside a `printf | while read` pipeline body is illegal (subshell scope) and silently aborts the subshell. Use process substitution or `mapfile`.
-- [[MonitoredPathsAssociativeArray]] — `declare -A MONITORED_PATHS` populated from `monitored_dirs` + expanded `monitored_globs` + expanded `monitored_file_globs`. Discover and snapshot must agree on this set.
-- [[ThreeTierCleanupClassification]] — Tier A (always-safe-to-automate launchd log rot) + Tier B (wa-* AO sessions, needs WORKTREE APPROVED) + Tier C (/private/tmp scratch worktrees, lower-risk); reclaimed 15.5GB on 2026-06-14
+- [DiskMagicianDiscover](concepts/DiskMagicianDiscover.md) — `discover` subcommand contract: scan `~/$HOME` for >5GB dirs; report each as **tracked** (in `monitored_dirs` OR matched by a glob in `monitored_globs` / `monitored_file_globs`) or **UNTRACKED**.
+- [SubshellLocalBug](concepts/SubshellLocalBug.md) — Bash anti-pattern: `local` inside a `printf | while read` pipeline body is illegal (subshell scope) and silently aborts the subshell. Use process substitution or `mapfile`.
+- [MonitoredPathsAssociativeArray](concepts/MonitoredPathsAssociativeArray.md) — `declare -A MONITORED_PATHS` populated from `monitored_dirs` + expanded `monitored_globs` + expanded `monitored_file_globs`. Discover and snapshot must agree on this set.
+- [ThreeTierCleanupClassification](concepts/ThreeTierCleanupClassification.md) — Tier A (always-safe-to-automate launchd log rot) + Tier B (wa-* AO sessions, needs WORKTREE APPROVED) + Tier C (/private/tmp scratch worktrees, lower-risk); reclaimed 15.5GB on 2026-06-14
 
 - [AutorPR](concepts/AutorPR.md) — AI-generated PRs that recreate merged PRs using SelfRefine/ET/PRM; 6-dim rubric scoring; Phase 3 held-out validation: all 3 techniques converge ~80-87
 - [Phase4FinalSynthesis](concepts/Phase4FinalSynthesis.md) — All 3 techniques converge ~80-87 (no winner); 87 ceiling is rubric artifact; PRM advantages on complex PRs; recommendation: problem decomposition over technique ranking
@@ -6211,7 +6211,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [ScalableOversight](concepts/ScalableOversight.md) — Verifying AI at scale without human review of every decision; PAI Safety-Critical AI Program
 - [DriftDetection](concepts/DriftDetection.md) — ML observability for concept/data drift; PSI metric; Arize/Phoenix
 - [FailClosedValidation](concepts/FailClosedValidation.md) — Entire batch rejected if any message invalid; Confluent Schema Registry model
-- [ZFC Level-Up Architecture](concepts/ZFC-Level-Up-Architecture.md) — Model computes level-up facts; backend validates/formats/delivers; replaces [[LevelUpArchitecture]] post-2026-04-14
+- [ZFC Level-Up Architecture](concepts/ZFC-Level-Up-Architecture.md) — Model computes level-up facts; backend validates/formats/delivers; replaces [LevelUpArchitecture](concepts/LevelUpArchitecture.md) post-2026-04-14
 - [ZFC Level-Up Implementation Stages](concepts/ZFC-Level-Up-Implementation-Stages.md) — 5-stage cleanup-first plan: Stage 0 cleanup → Stage 1 compliance probe → Stage 2 narrow formatter → Stage 3 parity → Stage 4 delete legacy → Stage 5 enforcement
 - [Stage-0-Execution-Drift](concepts/Stage-0-Execution-Drift.md) — M0 executed as additive code changes instead of deletion-first; +845/-123 LOC net; new formatter layered on legacy paths instead of replacing them
 - [Policy-Decoupling](concepts/policy-decoupling.md) — OPA separates policy decision from enforcement; architectural parallel to model-computes/backend-formats
@@ -6245,9 +6245,9 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [AutoResearchLoop](concepts/AutoResearchLoop.md) — Self-discovering meta-research: generates hypotheses from PR patterns, tests on real PRs, scores via CanonicalCodeScorer, records in wiki
 - [AutoResearchHypotheses](concepts/AutoResearchHypotheses.md) — H1-H4 hypothesis status (H1=Validated, H2=Validated, H3=Partial, H4=New), 5 cross-PR patterns, 9 prioritized next experiments
 - [CanonicalCodeScorer](concepts/CanonicalCodeScorer.md) — Rubric (6 dimensions Pass/Fail) + diff similarity scoring; 0.7×rubric + 0.3×diff formula
-- [ProductJudge](concepts/ProductJudge.md) — Product Taste Oracle: scores PRs 0–100 on 5 dimensions (strategic, UX, simplicity, maintainability, nuance), references [[ProductTasteLayer]]
+- [ProductJudge](concepts/ProductJudge.md) — Product Taste Oracle: scores PRs 0–100 on 5 dimensions (strategic, UX, simplicity, maintainability, nuance), references [ProductTasteLayer](concepts/ProductTasteLayer.md)
 - [TasteLearningLoop](concepts/TasteLearningLoop.md) — Self-improving feedback: manual corrections → good-bad-examples + taste-rubric updates → bead
-- [ProductTasteLayer](concepts/ProductTasteLayer.md) — Product judgement subsystem: principles, good/bad examples, rubric, evolution log; feeds [[ProductJudge]]
+- [ProductTasteLayer](concepts/ProductTasteLayer.md) — Product judgement subsystem: principles, good/bad examples, rubric, evolution log; feeds [ProductJudge](concepts/ProductJudge.md)
 - [JeffreyTechStack](concepts/JeffreyTechStack.md) — Primary tools: Claude Code, Minimax, beads, gh, mem0
 - [EvidenceEnforcement](concepts/EvidenceEnforcement.md) — CI-gated evidence path, gap between structure-check and real bundle validation
 - [SkepticGate](concepts/SkepticGate.md) — CI gate requiring per-check evidence artifacts with timestamps; renamed from skeptic-gate to green-gate in PR #6189
@@ -6618,9 +6618,9 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 ### Reference
 - [research-wiki-results](sources/research-wiki-results.md) — 18-cycle experiment log
 - [research-wiki-program](sources/research-wiki-program.md) — Experiment compiler rules
-- [[roadmap]] - April 2026 Roadmap
-- [[learnings-2026-04]] - April 2026 Learnings
-- [[2026-04-19-layer2-centralization-nextsteps]]
+- [roadmap](sources/roadmap.md) - April 2026 Roadmap
+- [learnings-2026-04](sources/learnings-2026-04.md) - April 2026 Learnings
+- [2026-04-19-layer2-centralization-nextsteps](sources/2026-04-19-layer2-centralization-nextsteps.md)
 
 - [pr-6420-zfc-level-up-m0-cleanup](sources/pr-6420-zfc-level-up-m0-cleanup.md) — ZFC M0 cleanup lane: duplicate early projection removal, responsibility headers, schema contract refresh
 
@@ -6641,7 +6641,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 ## Sources
 - [br CLI Bead Access Pattern (2026-05-14)](sources/br-cli-bead-access-pattern-2026-05-14.md) — use br show/search/list; beads.left.jsonl=5MB; compaction blocked by full DB re-export
 - [/zfc slash command global install 2026-05-07](sources/zfc-slash-command-global-install-2026-05-07.md) — general ZFC skill existed on main; /zfc command created (PR #6832); global install to ~/.claude and ~/.codex; bead rev-9lz8v
-- [[claude-directory-tests-ci-local-parity-2026-05-06]] — Directory tests CI vs local parity (added 2026-05-05)
+- [claude-directory-tests-ci-local-parity-2026-05-06](sources/claude-directory-tests-ci-local-parity-2026-05-06.md) — Directory tests CI vs local parity (added 2026-05-05)
 - [integrate.sh cleanup behavior](sources/integrate-sh-cleanup-behavior.md) — synced+merged branch deletion; worktree main → origin/main fallback; artifact discipline rule
 - [CI auto-commit evidence staleness](sources/ci-auto-commit-evidence-staleness.md)
 - [Resolve GitHub review threads via GraphQL](sources/resolve-github-review-thread-graphql.md)
@@ -6689,15 +6689,15 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 ## Entities
 
 
-- [[WorldArchitectAI]] — Production D&D 5e AI GM platform (14 agents, Gemini, FastEmbed)
-- [[DiceIntegrity]] — Anti-fabrication: LLM requests rolls, sandbox resolves them
-- [[TokenBudget]] — 5-component min-first/fill-to-max token allocation
-- [[FactionSystem]] — 12 living world factions with autonomous ticks
-- [[FastEmbed]] — BAAI/bge-small-en-v1.5 semantic router (384-dim, <50ms)
+- [WorldArchitectAI](entities/WorldArchitectAI.md) — Production D&D 5e AI GM platform (14 agents, Gemini, FastEmbed)
+- [DiceIntegrity](concepts/DiceIntegrity.md) — Anti-fabrication: LLM requests rolls, sandbox resolves them
+- [TokenBudget](entities/TokenBudget.md) — 5-component min-first/fill-to-max token allocation
+- [FactionSystem](concepts/FactionSystem.md) — 12 living world factions with autonomous ticks
+- [FastEmbed](entities/FastEmbed.md) — BAAI/bge-small-en-v1.5 semantic router (384-dim, <50ms)
 
 ## Concepts (Architecture)
 
-- [[LLM-Decides-Server-Executes]] — Core pattern: LLM proposes, server validates and persists
+- [LLM-Decides-Server-Executes](concepts/LLM-Decides-Server-Executes.md) — Core pattern: LLM proposes, server validates and persists
 - [[Lite-Green Docs-Only PR Workflow]](sources/lite-green-docs-pr-workflow-2026-05-18.md)
 - [Codex Mirror Pointer Pattern](sources/codex-mirror-pointer-pattern.md) — .codex/skills/ mirrors must use pointer pattern (frontmatter + one-liner), never full content copies; user-scope skills need explicit annotations
 - [setup-launchd.sh dry-run writes files bug](sources/setup-launchd-dryrun-2026-05-19.md) — 2026-05-19; dry-run must not write files; sed must follow DRY_RUN gate
@@ -6810,7 +6810,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Arion dragon good](sources/arion-dragon-good-X3jXwHvo.md) — 50 entries
 - [Skeptic Gate CI Trigger Markers](sources/skeptic-gate-trigger-markers.md) — ao skeptic verify standalone omits trigger markers; patch verdict comment via gh api PATCH
 
-- [[pr7048-location-centralization-merged]] — PR #7048 location centralization MERGED 2026-05-24
+- [pr7048-location-centralization-merged](sources/pr7048-location-centralization-merged.md) — PR #7048 location centralization MERGED 2026-05-24
 - [LevelUpAgent Inline Override Must Name Exact IDs (2026-05-24)](sources/levelup-inline-override-exact-ids-2026-05-24.md) — vague 'expose a change choice' ignored by LLM; MANDATORY with literal id required; rev-vcm7y PR #7064 iter6 PASS
 
 - [Obra Superpowers Integration: code-standards Enhancement (2026-05-26)](sources/2026-05-26_obra-superpowers-integration.md) — Integrated systematic-debugging iron law, TDD test coverage gate, anti-rationalization tables into /code-standards review dispatcher; PR #7135
@@ -6901,14 +6901,13 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Three-tier disk cleanup playbook (2026-06-14)](sources/feedback-2026-06-14-disk-cleanup-three-tier.md) — 15.5GB reclaimed across supervisor launchd logs (1.7GB, automated) + ~/.ao-sessions/wa-* (9.8GB) + /private/tmp/wt-*/wa-* (4GB); safety filters + 14d mtime rule; new cleanup_supervisor_logs.sh wired into disk_audit
 
 - [BQ truly raw logging still vulnerable to 1 MB streaming-insert row limit — 2026-06-13](sources/feedback-2026-06-13-bq-truly-raw-1mb-row-limit.md) — PR #7549 strips multimodal but pure-text request_json > 1 MB still 413s streaming-insert + fail-softs to disk silently; heavy combat state with file_data URIs can hit 1-1.2 MB; fix = pre-check in log_llm_payload, drop column with warning; bead rev-szamx
-- [Pre-push diff check catches phantom reverts of post-merge cleanup work (2026-06-14)](sources/feedback-2026-06-14-pre-push-diff-check-phantom-revert.md) — branch's work merged via PR X can be a REVERT of subsequent main cleanups; always `git diff origin/main..HEAD --stat` before pushing any "looks merged" branch; recovered 2026-06-14 on chore/disable-block-merge-hook (would have re-added 9 dead tests + 1 dead no-op `echo` removed by PR #7563); see [[PhantomRevert]]
+- [Pre-push diff check catches phantom reverts of post-merge cleanup work (2026-06-14)](sources/feedback-2026-06-14-pre-push-diff-check-phantom-revert.md) — branch's work merged via PR X can be a REVERT of subsequent main cleanups; always `git diff origin/main..HEAD --stat` before pushing any "looks merged" branch; recovered 2026-06-14 on chore/disable-block-merge-hook (would have re-added 9 dead tests + 1 dead no-op `echo` removed by PR #7563); see [PhantomRevert](concepts/PhantomRevert.md)
 
 ## Concepts
 
-- [[PhantomRevert]] — local feature branch whose diff against `origin/main` re-introduces code that a later main commit has explicitly removed. Branch's own gates (CodeRabbit, Green Gate, Skeptic) all evaluate only the branch's own diff and pass cleanly. Supersede relationship is only visible in `git diff origin/main..HEAD`. Detection workflow + recovery pattern documented.
+- [PhantomRevert](concepts/PhantomRevert.md) — local feature branch whose diff against `origin/main` re-introduces code that a later main commit has explicitly removed. Branch's own gates (CodeRabbit, Green Gate, Skeptic) all evaluate only the branch's own diff and pass cleanly. Supersede relationship is only visible in `git diff origin/main..HEAD`. Detection workflow + recovery pattern documented.
 
-- [/claw Slack dispatch independent of :8642 (2026-06-15)](sources/feedback_2026-06-15_claw_slack_vs_gateway_dispatch.md)
-- [GG cascade from AO worker PR comments (2026-06-15)](sources/feedback_2026-06-15-gg-cascade-from-pr-comments.md)
+- 
 - [Inline 7-green drive beats subagent fanout (2026-06-15)](sources/project_2026-06-15_pr7564_7565_merged_after_review.md) — subagent fanout for "drive PRs to 7-green" over-dispatches smoke/GG runs and wastes CI; SKEPTIC_GATE_TRIGGER comment alone does NOT auto-trigger skeptic-self-verify.yml — must use `gh workflow run skeptic-self-verify.yml -f pr_number=N`; `gh pr view --json statusCheckRollup` shows STALE entries from old SHAs — use `gh api .../commits/<sha>/check-runs` for authoritative per-SHA view; for BQ-logging PRs preempt adversarial review with code-review agent classification (LOGGING_ONLY / LOGGING_INFRASTRUCTURE / TEST_ONLY / PROD_BEHAVIOR_CHANGE / NEEDS_HUMAN); bead rev-6wtuj
 - [Drive 2 PRs to /green + merge in 2h (2026-06-16)](sources/project-2026-06-16-drive-to-merge-2h.md) — PRs #624 + #625 driven to /green and merged in 2h under user `/goal`; admin override field-proven 3rd time; post-merge propagation sequence (cp CLAUDE.md + re-render plist + bootstrap + kickstart + re-test) is now the durable shape. Force-push anti-pattern caught: requires explicit in-thread human approval even after merge authorization.
 
@@ -6922,9 +6921,9 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [[MiniMax API key hardcode leak (PR #135)|concepts/minimax-api-key-hardcode-leak-pr-135]] — anti-pattern: eliminating indirection to "fix" placeholder bug inlined live credentials; 4-month leak; "never inline resolved secrets"
 - [[Auth-file discipline harness gap|concepts/auth-file-discipline-harness-gap]] — second-layer harness fix needed: tracked-config-credential-discipline covering auth.json/openclaw.json/*.api-key; PRs #646+#9 cover examples/ only
 - [Hermes liveness + merge-readiness protocols — 2026-06-19](sources/feedback-2026-06-19-hermes-liveness-and-merge-readiness.md) — 6-check Hermes liveness (behavior over path) + 5-gate merge-readiness before any "should we merge" question; verified on fix/mcp-daemon-keepalive (5/5 gates failed). PID 28443 stable 4h+ across two checks; canary acks 5.5s/7.4s. Bead jleechan-9l6p.
-- [[HermesLivenessProtocol|concepts/hermes-liveness-protocol]] — 6-check parallel battery; behavior over path; mandatory pgrep == 1
-- [[MergeReadinessGate|concepts/merge-readiness-gate]] — 5-gate checklist before any "should we merge" question; staging canary required
-- [[SingleInstanceDiscipline|concepts/single-instance-discipline]] — mandatory pgrep == 1 rule; 2026-04-05 outage root cause
-- [[fix-mcp-daemon-keepalive|entities/fix-mcp-daemon-keepalive]] — branch with scope creep; 5/5 merge gates failed 2026-06-19
+- [concepts/hermes-liveness-protocol](concepts/HermesLivenessProtocol.md) — 6-check parallel battery; behavior over path; mandatory pgrep == 1
+- [concepts/merge-readiness-gate](concepts/MergeReadinessGate.md) — 5-gate checklist before any "should we merge" question; staging canary required
+- [concepts/single-instance-discipline](concepts/SingleInstanceDiscipline.md) — mandatory pgrep == 1 rule; 2026-04-05 outage root cause
+- [entities/fix-mcp-daemon-keepalive](entities/fix-mcp-daemon-keepalive.md) — branch with scope creep; 5/5 merge gates failed 2026-06-19
 - [PR body wipe + Green Gate evidence anchor rules — 2026-06-19](sources/feedback-2026-06-19-pr-body-wipe-and-gate6-anchor.md) — `python3 -c "..." VAR="$VALUE"` wipes body on KeyError; Gate-6 needs gist URL; Gate-6b needs triple-backtick block. PR #7588, bead rev-18glq.
 - [Mobile auth repro fidelity — 2026-06-19](sources/project-2026-06-19-mobile-auth-repro-fidelity.md) — Faithful Firebase mobile auth repro requires same-symptom verdict table; Simulator Safari normal/private were NON-REPRO; PR #7698 Chromium/WebKit lanes are RELATED boundary/silent-null mechanism evidence, not physical Chrome iOS Incognito end-to-end repro. Bead rev-g7mp3.

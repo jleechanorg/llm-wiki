@@ -16,5 +16,5 @@ Python Protocol class defining the interface for agents in the system. Uses @run
 Agents implementing this protocol can be used with the prompt_generator module for standardized prompt construction.
 
 ## Related
-- [[PromptGenerator]]
+- [PromptGenerator](PromptGenerator.md)
 - [[AgentProtocol]]

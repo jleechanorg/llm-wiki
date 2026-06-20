@@ -14,12 +14,12 @@ Dan Shapiro is CEO of Glowforge, Wharton Research Fellow, and the author who doc
 - **Project**: Kilroy (https://github.com/danshapiro/kilroy) — Go CLI for Attractor pipelines
 
 ## Connections
-- [[StrongDM]] — Shapiro documented Justin McCarthy's Dark Factory work
-- [[Kilroy]] — Shapiro's Attractor pipeline implementation in Go
-- [[DarkFactory]] — Shapiro coined the software "dark factory" concept from manufacturing
-- [[FiveLevelAutomation]] — Shapiro's automation ladder from Level 0 (vi) to Level 5 (dark factory)
+- [StrongDM](StrongDM.md) — Shapiro documented Justin McCarthy's Dark Factory work
+- [Kilroy](Kilroy.md) — Shapiro's Attractor pipeline implementation in Go
+- [DarkFactory](../concepts/DarkFactory.md) — Shapiro coined the software "dark factory" concept from manufacturing
+- [FiveLevelAutomation](../concepts/FiveLevelAutomation.md) — Shapiro's automation ladder from Level 0 (vi) to Level 5 (dark factory)
 
 ## See Also
-- [[Kilroy]]
-- [[DarkFactory]]
-- [[FiveLevelAutomation]]
+- [Kilroy](Kilroy.md)
+- [DarkFactory](../concepts/DarkFactory.md)
+- [FiveLevelAutomation](../concepts/FiveLevelAutomation.md)

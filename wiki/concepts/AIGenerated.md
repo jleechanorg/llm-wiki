@@ -16,6 +16,6 @@ Character creation method where the LLM generates a complete character sheet wit
 - End with approval triad (PlayCharacter / MakeChanges / StartOver)
 
 ## Related Concepts
-- [[StandardDND]] — manual character creation method
-- [[CustomClass]] — homebrew class creation
-- [[MilestoneLeveling]] — level advancement system
+- [StandardDND](StandardDND.md) — manual character creation method
+- [CustomClass](CustomClass.md) — homebrew class creation
+- [MilestoneLeveling](MilestoneLeveling.md) — level advancement system

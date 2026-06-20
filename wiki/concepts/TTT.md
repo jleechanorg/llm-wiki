@@ -29,7 +29,7 @@ TTT (Test-Time Training) is an approach mentioned in the Meta-Harness paper as p
 
 ## Connections
 
-- [[MetaHarness]] — demonstrates superior approach to TTT for harness engineering
-- [[OpenEvolve]] — text optimizer also compared in the paper
-- [[AlphaEvolv]] — related optimization approach
-- [[InnerLoop]] — TTT is an inner loop optimization technique
+- [MetaHarness](MetaHarness.md) — demonstrates superior approach to TTT for harness engineering
+- [OpenEvolve](OpenEvolve.md) — text optimizer also compared in the paper
+- [AlphaEvolv](AlphaEvolv.md) — related optimization approach
+- [InnerLoop](InnerLoop.md) — TTT is an inner loop optimization technique

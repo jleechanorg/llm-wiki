@@ -18,6 +18,6 @@ Long-lived git branch for the OpenClaw staging pipeline. All config changes land
 A bug in initial implementation created staging from a stale Saturday commit instead of current main. This caused 3 days of staging lag. After any staging branch creation or reset, must verify staging is at or ahead of main.
 
 ## Connections
-- [[Smartclaw]] — parent project
-- [[StagingWorktree]] — worktree checked out to this branch
+- [Smartclaw](Smartclaw.md) — parent project
+- [StagingWorktree](StagingWorktree.md) — worktree checked out to this branch
 - [[StagingPipeline]] — pipeline that uses this branch

@@ -16,5 +16,5 @@ Independent Unix process that handles HTTP requests in Gunicorn. Each worker run
 - **Restart Overhead**: +1 provides buffer during restarts
 
 ## Connections
-- [[Gunicorn]] — spawns worker processes
-- [[Concurrency]] — determinined by worker count
+- [Gunicorn](Gunicorn.md) — spawns worker processes
+- [Concurrency](Concurrency.md) — determinined by worker count

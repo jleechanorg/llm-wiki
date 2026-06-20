@@ -16,5 +16,5 @@ The project uses mypy with configurable strictness:
 - check_untyped_defs = True: Checks functions without annotations
 
 ## Related Concepts
-- [[GradualTyping]] — mixing typed and untyped code
+- [GradualTyping](GradualTyping.md) — mixing typed and untyped code
 - [[MypyConfiguration]] — the specific config file being documented

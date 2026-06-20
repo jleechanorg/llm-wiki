@@ -20,5 +20,5 @@ cache = TTLCache(maxsize=1000, ttl=3600)
 ```
 
 ## Related Concepts
-- [[FileCaching]] — primary use case
+- [FileCaching](FileCaching.md) — primary use case
 - [[LRUCache]] — alternative eviction policy

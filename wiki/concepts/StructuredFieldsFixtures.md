@@ -14,4 +14,4 @@ Enables tests to use consistent, known responses rather than relying on mock ran
 
 ## Connections
 - [[MockGeminiServiceWrapper]] — imports and uses these fixtures
-- [[MockLLMClient]] — may use fixtures for response generation
+- [MockLLMClient](../entities/MockLLMClient.md) — may use fixtures for response generation

@@ -30,5 +30,5 @@ Validation logic that distinguishes between placeholder content (which should be
 Uses `startswith()` check to detect embedded placeholders within prose text, ensuring content like "Status: You fight the dragon" triggers warning.
 
 ## Related
-- [[NarrativeResponseSchema]] — response schema
-- [[GODMode]] — god mode functionality
+- [NarrativeResponseSchema](NarrativeResponseSchema.md) — response schema
+- [GODMode](GODMode.md) — god mode functionality

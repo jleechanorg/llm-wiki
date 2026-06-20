@@ -10,13 +10,13 @@ total_scenes: 189
 
 ## Overview
 
-** The Ruby Ford, Riverlands appears in 4 scenes across the [[ramsay-v1]] campaign.
+** The Ruby Ford, Riverlands appears in 4 scenes across the [ramsay-v1](../sources/ramsay-v1.md) campaign.
 
 ## Description
 
 ** The Ruby Ford, Riverlands is an entity from the ramsay-v1 campaign.
 
 ## References
-- [[ramsay-v1]] — campaign overview
-- [[ramsay-v1-campaign]]
+- [ramsay-v1](../sources/ramsay-v1.md) — campaign overview
+- [ramsay-v1-campaign](../sources/ramsay-v1-campaign.md)
 

@@ -17,9 +17,9 @@ Microsoft Agent Framework is Microsoft's recommended multi-agent framework for n
 
 ## Connections
 
-- [[AutoGen]] — Microsoft Agent Framework is the successor to AutoGen
-- [[MultiAgentOrchestration]] — Microsoft Agent Framework is a multi-agent orchestration framework
+- [AutoGen](AutoGen.md) — Microsoft Agent Framework is the successor to AutoGen
+- [MultiAgentOrchestration](../concepts/MultiAgentOrchestration.md) — Microsoft Agent Framework is a multi-agent orchestration framework
 
 ## See Also
-- [[AutoGen]]
-- [[MultiAgentOrchestration]]
+- [AutoGen](AutoGen.md)
+- [MultiAgentOrchestration](../concepts/MultiAgentOrchestration.md)

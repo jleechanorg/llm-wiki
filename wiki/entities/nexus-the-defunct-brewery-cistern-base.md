@@ -10,13 +10,13 @@ total_scenes: 363
 
 ## Overview
 
-** Nexus - The Defunct Brewery (Cistern Base) appears in 31 scenes across the [[alexiel-assiah-v2]] campaign.
+** Nexus - The Defunct Brewery (Cistern Base) appears in 31 scenes across the [alexiel-assiah-v2](../sources/alexiel-assiah-v2.md) campaign.
 
 ## Description
 
 ** Nexus - The Defunct Brewery (Cistern Base) is an entity from the alexiel-assiah-v2 campaign.
 
 ## References
-- [[alexiel-assiah-v2]] — campaign overview
-- [[alexiel-assiah-v2-campaign]]
+- [alexiel-assiah-v2](../sources/alexiel-assiah-v2.md) — campaign overview
+- [alexiel-assiah-v2-campaign](../sources/alexiel-assiah-v2-campaign.md)
 

@@ -36,6 +36,6 @@ Game events requiring player response, generated when switching between campaign
 - [[ResearchComplete]] — study finished
 
 ## Related Concepts
-- [[CampaignMode]] — mode that generates triggers
-- [[DualModeCampaignSystem]] — parent system
-- [[StrategicTurn]] — turn counting for thresholds
+- [CampaignMode](CampaignMode.md) — mode that generates triggers
+- [DualModeCampaignSystem](DualModeCampaignSystem.md) — parent system
+- [StrategicTurn](StrategicTurn.md) — turn counting for thresholds

@@ -15,5 +15,5 @@ A workflow pattern where work is delegated to an AI agent for execution in a spe
 - **Proof Bundle**: Required evidence before declaring work complete (file paths, commit URL, PR URL)
 
 ## Related Concepts
-- [[CrossRepoDelegation]] — delegating work across different repositories
-- [[RepoIdentityCheck]] — validating repository context before operations
+- [CrossRepoDelegation](CrossRepoDelegation.md) — delegating work across different repositories
+- [RepoIdentityCheck](RepoIdentityCheck.md) — validating repository context before operations

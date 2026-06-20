@@ -21,10 +21,10 @@ date: 2026-04-22
 | System | Type | Relevance |
 |--------|------|-----------|
 | [[scm-github]] | SCM file | Source of ~400 LOC GraphQL code this plugin extracts |
-| [[fork-skeptic-extension]] | Fork module | Skeptic comment retrieval also in scm-github — separate plugin |
+| [fork-skeptic-extension](../sources/fork-skeptic-extension.md) | Fork module | Skeptic comment retrieval also in scm-github — separate plugin |
 | [[agent-orchestrator-fork]] | Repo | The fork this plugin lives in |
 
 ## See Also
 
-- [[lifecycle-skeptic]] — Phase 1 (extract first before SCM changes)
-- [[fork-plugin-refactor-design]] — Full design document
+- [lifecycle-skeptic](lifecycle-skeptic.md) — Phase 1 (extract first before SCM changes)
+- [fork-plugin-refactor-design](../sources/fork-plugin-refactor-design.md) — Full design document

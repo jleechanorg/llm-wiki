@@ -10,13 +10,13 @@ total_scenes: 291
 
 ## Overview
 
-** Final Capstone Spire (Apex Node) appears in 17 scenes across the [[tyranny]] campaign.
+** Final Capstone Spire (Apex Node) appears in 17 scenes across the [tyranny](../sources/tyranny.md) campaign.
 
 ## Description
 
 ** Final Capstone Spire (Apex Node) is an entity from the tyranny campaign.
 
 ## References
-- [[tyranny]] — campaign overview
-- [[tyranny-campaign]]
+- [tyranny](../sources/tyranny.md) — campaign overview
+- [tyranny-campaign](../sources/tyranny-campaign.md)
 

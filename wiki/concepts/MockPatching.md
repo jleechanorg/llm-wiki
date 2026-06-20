@@ -13,5 +13,5 @@ A unittest technique using `unittest.mock.patch` to replace backend functions wi
 Tests patch functions like `calculate_faction_power` and `calculate_ranking` to return controlled values, verifying the tool execution layer correctly passes parameters and returns results.
 
 ## Related Concepts
-- [[ToolSchemaValidation]] — what these tests validate
+- [ToolSchemaValidation](ToolSchemaValidation.md) — what these tests validate
 - [[ToolExecutionMapping]] — what mock patches enable testing

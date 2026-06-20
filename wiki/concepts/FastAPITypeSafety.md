@@ -53,6 +53,6 @@ async def get_campaign(campaign_id: str) -> Campaign:
 4. **Refactoring safety** — Type errors caught at edit time
 
 ## Connections
-- [[APIDesign]] — General API design principles
-- [[FastAPIErrorHandling]] — Error handling in FastAPI
-- [[tRPCTypeSafety]] — Type-safe API alternative (TypeScript)
+- [APIDesign](APIDesign.md) — General API design principles
+- [FastAPIErrorHandling](FastAPIErrorHandling.md) — Error handling in FastAPI
+- [tRPCTypeSafety](tRPCTypeSafety.md) — Type-safe API alternative (TypeScript)

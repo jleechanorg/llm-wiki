@@ -17,6 +17,6 @@ The `capture_interaction()` method wraps service calls in a context manager that
 4. Guarantees cleanup even if exceptions occur
 
 ## Related Concepts
-- [[DataSanitization]] — automatic redaction of sensitive fields
-- [[ServiceInteractionRecording]] — capturing API calls and responses
-- [[JSONSerialization]] — storing captured interactions
+- [DataSanitization](DataSanitization.md) — automatic redaction of sensitive fields
+- [ServiceInteractionRecording](ServiceInteractionRecording.md) — capturing API calls and responses
+- [JSONSerialization](JSONSerialization.md) — storing captured interactions

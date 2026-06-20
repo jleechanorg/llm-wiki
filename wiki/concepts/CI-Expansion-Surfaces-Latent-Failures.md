@@ -20,7 +20,7 @@ tests) and `e7ef154c2` (run mvp end2end in self-hosted shards) surfaced
 9 pre-existing test failures. All fixed in same PR.
 
 ## Related
-- [[pr7048-location-centralization-merged]]
+- [pr7048-location-centralization-merged](../sources/pr7048-location-centralization-merged.md)
 
 ## Source
 - ~/.claude/projects/-Users-jleechan-projects-worktree-location-centralize/memory/feedback_2026-05-24_ci_expansion_surfaces_latent_failures.md

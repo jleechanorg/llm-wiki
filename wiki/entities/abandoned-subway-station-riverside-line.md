@@ -10,13 +10,13 @@ total_scenes: 685
 
 ## Overview
 
-** Abandoned Subway Station - Riverside Line appears in 13 scenes across the [[sariel-killer]] campaign.
+** Abandoned Subway Station - Riverside Line appears in 13 scenes across the [sariel-killer](../sources/sariel-killer.md) campaign.
 
 ## Description
 
 ** Abandoned Subway Station - Riverside Line is an entity from the sariel-killer campaign.
 
 ## References
-- [[sariel-killer]] — campaign overview
-- [[sariel-killer-campaign]]
+- [sariel-killer](../sources/sariel-killer.md) — campaign overview
+- [sariel-killer-campaign](../sources/sariel-killer-campaign.md)
 

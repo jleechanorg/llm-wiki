@@ -10,13 +10,13 @@ total_scenes: 151
 
 ## Overview
 
-** Waterfront Townhouse, Subterranean Chamber appears in 20 scenes across the [[astarion-ascended]] campaign.
+** Waterfront Townhouse, Subterranean Chamber appears in 20 scenes across the [astarion-ascended](../sources/astarion-ascended.md) campaign.
 
 ## Description
 
 ** Waterfront Townhouse, Subterranean Chamber is an entity from the astarion-ascended campaign.
 
 ## References
-- [[astarion-ascended]] — campaign overview
-- [[astarion-ascended-campaign]]
+- [astarion-ascended](../sources/astarion-ascended.md) — campaign overview
+- [astarion-ascended-campaign](../sources/astarion-ascended-campaign.md)
 

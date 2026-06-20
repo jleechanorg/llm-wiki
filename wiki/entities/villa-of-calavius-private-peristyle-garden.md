@@ -10,13 +10,13 @@ total_scenes: 521
 
 ## Overview
 
-** Villa of Calavius, Private Peristyle Garden appears in 68 scenes across the [[gaia-julia-v2]] campaign.
+** Villa of Calavius, Private Peristyle Garden appears in 68 scenes across the [gaia-julia-v2](../sources/gaia-julia-v2.md) campaign.
 
 ## Description
 
 ** Villa of Calavius, Private Peristyle Garden is an entity from the gaia-julia-v2 campaign.
 
 ## References
-- [[gaia-julia-v2]] — campaign overview
-- [[gaia-julia-v2-campaign]]
+- [gaia-julia-v2](../sources/gaia-julia-v2.md) — campaign overview
+- [gaia-julia-v2-campaign](../sources/gaia-julia-v2-campaign.md)
 

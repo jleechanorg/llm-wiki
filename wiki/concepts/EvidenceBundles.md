@@ -17,5 +17,5 @@ Evidence capture standard requiring request/response pairs with timestamps and p
 - Standards-compliant format per evidence-standards.md
 
 ## Related Concepts
-- [[MCProtocol]] — tool invocation
-- [[Firestore]] — backend storage
+- [MCProtocol](MCProtocol.md) — tool invocation
+- [Firestore](Firestore.md) — backend storage

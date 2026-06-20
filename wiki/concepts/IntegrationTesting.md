@@ -16,5 +16,5 @@ A testing approach that validates the complete flow of functions including all c
 - Verifies state changes on structured response objects
 
 ## Connections
-- Different from [[UnitTesting]] which tests individual functions in isolation
+- Different from [UnitTesting](UnitTesting.md) which tests individual functions in isolation
 - Used in [[MCPErrorHandlingE2E]] and [[MissionAutoCompletionE2E]] workflows

@@ -15,4 +15,4 @@ python -m mypy mvp_site --config-file mvp_site/mypy.ini
 
 ## Related
 - [[PythonTypingGuide]] — typing guide documentation
-- [[TypeStubs]] — required type stubs for Flask and Requests
+- [TypeStubs](../concepts/TypeStubs.md) — required type stubs for Flask and Requests

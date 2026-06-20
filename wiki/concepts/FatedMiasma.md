@@ -18,6 +18,6 @@ Fated Miasma is a metaphysical concept in the Rome Pax Julia campaign. It repres
 In an alternate history where the Republic doesn't fall, Fated Miasma provides the mechanism by which Julia's rise changes the historical arc. Fate is not fixed — it can be worked.
 
 ## Connections
-- [[GaiaJuliaCaesar]] — Wielder of miasma
-- [[ImperatorClass]] — Class that channels miasma
+- [GaiaJuliaCaesar](../entities/GaiaJuliaCaesar.md) — Wielder of miasma
+- [ImperatorClass](ImperatorClass.md) — Class that channels miasma
 - [[RomePaxJulia]] — Source campaign

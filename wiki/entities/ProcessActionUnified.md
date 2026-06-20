@@ -16,4 +16,4 @@ Unified async function in mvp_site.world_logic that processes player actions acr
 
 ## Key Connections
 - Called by: API endpoints processing player actions
-- Validates: [[LLMRequest]] parameter types including mode field
+- Validates: [LLMRequest](LLMRequest.md) parameter types including mode field

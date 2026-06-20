@@ -10,13 +10,13 @@ total_scenes: 128
 
 ## Overview
 
-** Ruined Barn, Northern Kingdoms appears in 60 scenes across the [[witcher-strat]] campaign.
+** Ruined Barn, Northern Kingdoms appears in 60 scenes across the [witcher-strat](../sources/witcher-strat.md) campaign.
 
 ## Description
 
 ** Ruined Barn, Northern Kingdoms is an entity from the witcher-strat campaign.
 
 ## References
-- [[witcher-strat]] — campaign overview
+- [witcher-strat](../sources/witcher-strat.md) — campaign overview
 - [[witcher-strat-campaign]]
 

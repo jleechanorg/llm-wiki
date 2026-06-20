@@ -21,4 +21,4 @@ Provides a single source of truth for prompt construction, allowing llm_service 
 ## Related
 - [[llm-service]]
 - [[world-logic]]
-- [[SystemInstruction]]
+- [SystemInstruction](../concepts/SystemInstruction.md)

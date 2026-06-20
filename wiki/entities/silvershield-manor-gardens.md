@@ -10,13 +10,13 @@ total_scenes: 1002
 
 ## Overview
 
-** Silvershield Manor Gardens appears in 7 scenes across the [[nocturne-post-bg3-zhent]] campaign.
+** Silvershield Manor Gardens appears in 7 scenes across the [nocturne-post-bg3-zhent](../sources/nocturne-post-bg3-zhent.md) campaign.
 
 ## Description
 
 ** Silvershield Manor Gardens is an entity from the nocturne-post-bg3-zhent campaign.
 
 ## References
-- [[nocturne-post-bg3-zhent]] — campaign overview
-- [[nocturne-post-bg3-zhent-campaign]]
+- [nocturne-post-bg3-zhent](../sources/nocturne-post-bg3-zhent.md) — campaign overview
+- [nocturne-post-bg3-zhent-campaign](../sources/nocturne-post-bg3-zhent-campaign.md)
 

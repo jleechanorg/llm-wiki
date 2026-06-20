@@ -10,13 +10,13 @@ total_scenes: 153
 
 ## Overview
 
-** Solar Antechamber, Red Keep appears in 6 scenes across the [[visenya-v6]] campaign.
+** Solar Antechamber, Red Keep appears in 6 scenes across the [visenya-v6](../sources/visenya-v6.md) campaign.
 
 ## Description
 
 ** Solar Antechamber, Red Keep is an entity from the visenya-v6 campaign.
 
 ## References
-- [[visenya-v6]] — campaign overview
-- [[visenya-v6-campaign]]
+- [visenya-v6](../sources/visenya-v6.md) — campaign overview
+- [visenya-v6-campaign](../sources/visenya-v6-campaign.md)
 

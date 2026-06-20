@@ -22,6 +22,6 @@ The antagonist faction of the Boudica campaign. Roman forces invaded the Iceni's
 The Roman legions are the occupying force that the player character (Boudica) seeks to overthrow. Their cruelty and oppression serve as the catalyst for the rebellion.
 
 ## Connections
-- [[Boudica]] — rebel leader
-- [[Iceni]] — subjugated tribe
+- [Boudica](Boudica.md) — rebel leader
+- [Iceni](Iceni.md) — subjugated tribe
 - [[Boudica's Uprising Campaign]] — campaign

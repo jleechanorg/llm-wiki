@@ -25,8 +25,8 @@ choice semantics should move to explicit schema fields and selected-choice
 resolver output rather than correction scrubbers reading prefixes.
 
 ## Related Concepts
-- [[PlanningBlock]] — Container for choices
-- [[OpaqueChoiceIdContract]] — newer boundary for opaque planning choice IDs
+- [PlanningBlock](PlanningBlock.md) — Container for choices
+- [OpaqueChoiceIdContract](OpaqueChoiceIdContract.md) — newer boundary for opaque planning choice IDs
 - [[God Mode Return Story]] — Mandatory choice for exiting God mode
 
 ## Source

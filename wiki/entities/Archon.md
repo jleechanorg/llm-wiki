@@ -26,13 +26,13 @@ Archon (coleam00/Archon) is a workflow engine for AI coding — "What Dockerfile
 
 ## Connections
 
-- [[DarkFactory]] — Archon uses DarkFactory governance pattern (mission.md + factory-rules.md)
-- [[WorkflowEngine]] — Archon encodes workflows as YAML DAGs
-- [[GovernanceLayer]] — Archon's governance is coupled (consulted on every decision) vs AO's decoupled constraint model
+- [DarkFactory](../concepts/DarkFactory.md) — Archon uses DarkFactory governance pattern (mission.md + factory-rules.md)
+- [WorkflowEngine](../concepts/WorkflowEngine.md) — Archon encodes workflows as YAML DAGs
+- [GovernanceLayer](../concepts/GovernanceLayer.md) — Archon's governance is coupled (consulted on every decision) vs AO's decoupled constraint model
 - [[YAMLWorkflow]] — Archon's YAML workflow definition pattern
 - [[GitWorktreeIsolation]] — Archon uses git worktrees for run isolation
 
 ## See Also
-- [[DarkFactory]]
-- [[WorkflowEngine]]
-- [[GovernanceLayer]]
+- [DarkFactory](../concepts/DarkFactory.md)
+- [WorkflowEngine](../concepts/WorkflowEngine.md)
+- [GovernanceLayer](../concepts/GovernanceLayer.md)

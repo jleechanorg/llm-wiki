@@ -21,6 +21,6 @@ Schema ID Validation is Kafka's broker-side verification of schema IDs in wire f
 Schema ID Validation is a model for fail-closed governance gates — the broker (gate) rejects the entire batch if any message fails validation. This is the fail-closed semantic that PR #453 proposes for merge gates.
 
 ## See Also
-- [[Confluent]]
-- [[ApacheKafka]]
-- [[FailClosedValidation]]
+- [Confluent](../entities/Confluent.md)
+- [ApacheKafka](../entities/ApacheKafka.md)
+- [FailClosedValidation](FailClosedValidation.md)

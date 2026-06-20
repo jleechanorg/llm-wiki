@@ -29,8 +29,8 @@ This campaign is primarily infrastructure for testing campaign continuity and ch
 
 ## Connections
 
-- [[NocturneSosuke]] — the recurring Nocturne character archetype
-- [[Minthara]] — key companion in this run
-- [[ShatteredSanctum]] — headquarters location
-- [[EmeraldGrove]] — infiltration target
+- [NocturneSosuke](NocturneSosuke.md) — the recurring Nocturne character archetype
+- [Minthara](Minthara.md) — key companion in this run
+- [ShatteredSanctum](ShatteredSanctum.md) — headquarters location
+- [EmeraldGrove](EmeraldGrove.md) — infiltration target
 - [[TheBloomShadow]] — character origin reference

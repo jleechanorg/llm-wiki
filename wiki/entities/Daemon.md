@@ -24,5 +24,5 @@ Daemon is ambitious, commanding, and physically dominant. He relies on raw power
 Protagonist of the daemon-conquers campaign, set in "a land of dragons."
 
 ## Connections
-- [[daemon-conquers-campaign]] — source campaign
-- [[DestinyCoreRules]] — game system
+- [daemon-conquers-campaign](../sources/daemon-conquers-campaign.md) — source campaign
+- [DestinyCoreRules](../concepts/DestinyCoreRules.md) — game system

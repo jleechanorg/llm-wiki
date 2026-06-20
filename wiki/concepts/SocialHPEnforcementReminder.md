@@ -19,6 +19,6 @@ A prompt reminder constant (`SOCIAL_HP_ENFORCEMENT_REMINDER`) in the mvp_site.ag
 Injected into prompts to remind the LLM to enforce social HP rules, track request severity levels, and monitor resistance shown during encounters.
 
 ## Related Concepts
-- [[RequestSeverity]] — the severity field it references
-- [[ResistanceShown]] — the resistance field it references
-- [[SocialHPChallenge]] — the broader system this reminder enforces
+- [RequestSeverity](RequestSeverity.md) — the severity field it references
+- [ResistanceShown](ResistanceShown.md) — the resistance field it references
+- [SocialHPChallenge](SocialHPChallenge.md) — the broader system this reminder enforces

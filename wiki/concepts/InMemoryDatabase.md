@@ -21,5 +21,5 @@ Testing technique that uses in-memory data structures (dictionaries, lists) to s
 - Easy state reset between tests
 
 ## Related
-- [[MockFirestore]] — specific implementation for Firestore
+- [MockFirestore](MockFirestore.md) — specific implementation for Firestore
 - [[Test Fixtures]] — SAMPLE_CAMPAIGN, SAMPLE_GAME_STATE constants

@@ -10,13 +10,13 @@ total_scenes: 474
 
 ## Overview
 
-** Vultur Ridge (Secondary Vault) appears in 8 scenes across the [[rome-pax-julia]] campaign.
+** Vultur Ridge (Secondary Vault) appears in 8 scenes across the [rome-pax-julia](../sources/rome-pax-julia.md) campaign.
 
 ## Description
 
 ** Vultur Ridge (Secondary Vault) is an entity from the rome-pax-julia campaign.
 
 ## References
-- [[rome-pax-julia]] — campaign overview
-- [[rome-pax-julia-campaign]]
+- [rome-pax-julia](../sources/rome-pax-julia.md) — campaign overview
+- [rome-pax-julia-campaign](../sources/rome-pax-julia-campaign.md)
 

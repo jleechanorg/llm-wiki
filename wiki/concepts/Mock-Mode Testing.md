@@ -15,5 +15,5 @@ Traditional testing approach using mock implementations (Fake Firestore, Fake LL
 - Default when TEST_MODE is not set to 'real'
 
 ## Related
-- [[Real-Mode Testing]] — alternative mode
-- [[Dual-Mode Testing]] — framework supporting both
+- [Real-Mode Testing](Real-Mode Testing.md) — alternative mode
+- [Dual-Mode Testing](Dual-Mode Testing.md) — framework supporting both

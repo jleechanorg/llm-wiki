@@ -10,13 +10,13 @@ total_scenes: 236
 
 ## Overview
 
-** Silverport, Mayor's Estate, Private Chambers appears in 7 scenes across the [[daemon-conquers]] campaign.
+** Silverport, Mayor's Estate, Private Chambers appears in 7 scenes across the [daemon-conquers](../sources/daemon-conquers.md) campaign.
 
 ## Description
 
 ** Silverport, Mayor's Estate, Private Chambers is an entity from the daemon-conquers campaign.
 
 ## References
-- [[daemon-conquers]] — campaign overview
-- [[daemon-conquers-campaign]]
+- [daemon-conquers](../sources/daemon-conquers.md) — campaign overview
+- [daemon-conquers-campaign](../sources/daemon-conquers-campaign.md)
 

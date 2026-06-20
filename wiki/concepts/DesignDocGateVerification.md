@@ -44,8 +44,8 @@ GATE 4: grep -r 'def _is_state_flag_true' mvp_site/
 ## Connections
 
 - [[DesignDocAsContract]] — skill for treating design docs as checkable contracts
-- [[Harness5LayerModel]] — L1 constraint (design doc) + L4 verification
-- [[LevelUpCodeArchitecture]] — v4 architecture this pattern is applied to
+- [Harness5LayerModel](Harness5LayerModel.md) — L1 constraint (design doc) + L4 verification
+- [LevelUpCodeArchitecture](LevelUpCodeArchitecture.md) — v4 architecture this pattern is applied to
 - [[PRWatchdog]] — cron job for monitoring PR review state
 
 ## Anti-Pattern: "Pragmatic Layer N"

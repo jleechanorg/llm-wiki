@@ -15,6 +15,6 @@ The wide, fast river that cuts through the emerald fields of Highvale. Defines t
 - Turn 130: 'Silverflow guards' become the target of Alexiel's corruption operation
 
 ## Connections
-- [[alexiel-larion]] — primary source
+- [alexiel-larion](../sources/alexiel-larion.md) — primary source
 - [[Highvale]] — the region the river defines
-- [[Lifestone]] — what flows along it
+- [Lifestone](Lifestone.md) — what flows along it

@@ -29,6 +29,6 @@ app = create_app(config_name="testing")
 ```
 
 ## Connections
-- [[Flask]] — commonly uses factory pattern for app creation
-- [[TestDrivenDevelopment]] — factories are easily testable with mocking
+- [Flask](Flask.md) — commonly uses factory pattern for app creation
+- [TestDrivenDevelopment](TestDrivenDevelopment.md) — factories are easily testable with mocking
 - [[SoftwareDesignPatterns]] — one of the classic creational patterns

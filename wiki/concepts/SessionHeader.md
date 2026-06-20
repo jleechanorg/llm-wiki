@@ -28,8 +28,8 @@ Conditions: None | Exhaustion: 0 | Inspiration: No | Potions: 1
 - **Conditions**: Active conditions, exhaustion level, inspiration, potions
 
 ## Related Concepts
-- [[StructuredResponseSchema]] — parent schema containing session header
-- [[PlanningBlock]] — companion block for player decisions
+- [StructuredResponseSchema](StructuredResponseSchema.md) — parent schema containing session header
+- [PlanningBlock](PlanningBlock.md) — companion block for player decisions
 - [[CharacterState]] — the underlying state being displayed
 
 ## Usage

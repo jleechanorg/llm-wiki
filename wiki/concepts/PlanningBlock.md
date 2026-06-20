@@ -26,8 +26,8 @@ What would you like to do next?
 - **Other Option**: Final catch-all for custom actions
 
 ## Related Concepts
-- [[StructuredResponseSchema]] — parent schema containing planning block
-- [[SessionHeader]] — companion block showing character state
+- [StructuredResponseSchema](StructuredResponseSchema.md) — parent schema containing planning block
+- [SessionHeader](SessionHeader.md) — companion block showing character state
 - [[PlayerDecision]] — the decision being prompted
 
 ## Usage

@@ -18,7 +18,7 @@ Auto-initialization of completed_missions field when:
 3. A state change is applied that affects missions
 
 ## Related
-- [[ActiveMissionsField]] — source field for active missions
-- [[CompletedMissionsField]] — destination field for completed missions
-- [[CampaignStateMigration]] — transparent state migration
-- [[Nocturne]] — production campaign affected by this bug
+- [ActiveMissionsField](ActiveMissionsField.md) — source field for active missions
+- [CompletedMissionsField](CompletedMissionsField.md) — destination field for completed missions
+- [CampaignStateMigration](CampaignStateMigration.md) — transparent state migration
+- [Nocturne](../entities/Nocturne.md) — production campaign affected by this bug

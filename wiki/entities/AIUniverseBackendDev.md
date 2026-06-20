@@ -16,8 +16,8 @@ Google Cloud Run backend service for AI Universe application, deployed at us-cen
 - **Auth**: Required (returns 401 on /api/health without credentials)
 
 ## Connections
-- [[AIUniverseFrontendFinal]] — frontend consuming this backend
-- [[GoogleCloudRun]] — hosting platform
+- [AIUniverseFrontendFinal](AIUniverseFrontendFinal.md) — frontend consuming this backend
+- [GoogleCloudRun](GoogleCloudRun.md) — hosting platform
 
 ## Source
 [[AI Universe Frontend Testing Report]]

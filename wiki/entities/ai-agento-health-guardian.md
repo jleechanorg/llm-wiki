@@ -78,9 +78,9 @@ The 2026-06-10 fragility audit identified that `ai.agento.health` is the SOLE wa
 
 ## Related
 
-- [[SkepticVerificationPipeline]] — the workload being protected
+- [SkepticVerificationPipeline](SkepticVerificationPipeline.md) — the workload being protected
 - [[ai-agento-health]] — the Tier 1 watchdog
 - [[com-ao-runner-watchdog]] — the Tier 3 watchdog
-- [[WatchdogOfWatchdogsArchitecture]] — concept page
-- [[AgentOrchestratorDoctorShV2]] — the broader design
-- [[Launchd]] — the underlying mechanism
+- [WatchdogOfWatchdogsArchitecture](../concepts/WatchdogOfWatchdogsArchitecture.md) — concept page
+- [AgentOrchestratorDoctorShV2](../concepts/AgentOrchestratorDoctorShV2.md) — the broader design
+- [Launchd](../concepts/Launchd.md) — the underlying mechanism

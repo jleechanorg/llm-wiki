@@ -16,6 +16,6 @@ Structured fields are UI elements that display AI response metadata: session hea
 - `.system-warnings` — warnings and alerts
 
 ## Connections
-- [[DebugMode]] — enables visibility
+- [DebugMode](DebugMode.md) — enables visibility
 - [[UIVerificationScreenshotsTest]] — verifies display
 - [[StateUpdateFlow]] — data source for fields

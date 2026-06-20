@@ -14,4 +14,4 @@ xAI is Elon Musk's AI company behind Grok. Grok 4.1 Fast is their flagship model
 
 ## Related
 - [[Settings Page - AI Provider Selection]] — Where Grok is offered
-- [[OpenRouter]] — Distributes Grok models
+- [OpenRouter](OpenRouter.md) — Distributes Grok models

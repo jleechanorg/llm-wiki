@@ -17,6 +17,6 @@ Bug fix pattern where stale level_up_in_progress=False should be REMOVED from st
 
 ## Connections
 - [[Flag Clearing]] — broader clearing mechanism
-- [[LevelUpAgent]] — affected by stale flags
+- [LevelUpAgent](../entities/LevelUpAgent.md) — affected by stale flags
 - [[State Transitions]] — transitions must handle stale flags
 - [[Level-up stale flag clearing]] — related bug fix tests

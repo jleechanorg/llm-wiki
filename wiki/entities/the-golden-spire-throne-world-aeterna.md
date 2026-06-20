@@ -10,13 +10,13 @@ total_scenes: 106
 
 ## Overview
 
-** The Golden Spire, Throne World Aeterna appears in 9 scenes across the [[stellaris-nocturne-v1-repro-test]] campaign.
+** The Golden Spire, Throne World Aeterna appears in 9 scenes across the [stellaris-nocturne-v1-repro-test](../sources/stellaris-nocturne-v1-repro-test.md) campaign.
 
 ## Description
 
 ** The Golden Spire, Throne World Aeterna is an entity from the stellaris-nocturne-v1-repro-test campaign.
 
 ## References
-- [[stellaris-nocturne-v1-repro-test]] — campaign overview
-- [[stellaris-nocturne-v1-repro-test-campaign]]
+- [stellaris-nocturne-v1-repro-test](../sources/stellaris-nocturne-v1-repro-test.md) — campaign overview
+- [stellaris-nocturne-v1-repro-test-campaign](../sources/stellaris-nocturne-v1-repro-test-campaign.md)
 

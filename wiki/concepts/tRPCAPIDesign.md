@@ -54,6 +54,6 @@ await client.campaign.launch.mutate({ campaignId: '123' });
 For the WorldAI UI, tRPC provides type-safe RPC between the frontend and Flask backend, eliminating the category of "API response shape doesn't match what frontend expects" bugs.
 
 ## Connections
-- [[tRPCTypeSafety]] — tRPC type safety deep dive
-- [[APIDesign]] — General API design
+- [tRPCTypeSafety](tRPCTypeSafety.md) — tRPC type safety deep dive
+- [APIDesign](APIDesign.md) — General API design
 - [[TypeScriptBestPractices]] — TypeScript patterns

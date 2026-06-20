@@ -21,7 +21,7 @@ A container within the structured response schema that holds debug metadata incl
 - DM Tools: Provide DM with insight into AI reasoning
 
 ## Related Concepts
-- [[StructuredResponseSchema]] — parent schema containing debug_info
+- [StructuredResponseSchema](StructuredResponseSchema.md) — parent schema containing debug_info
 - [[DiceRolls]] — individual dice roll records
 - [[StateRationale]] — explanation of state mutations
 

@@ -24,5 +24,5 @@ The full multiverse — an infinite competitive landscape containing 1,000 ranke
 - **Administrator (Rank 101-1000):** 100-9,999 SP — PC starts here
 
 ## Related
-- [[SovereignProtocol]] — The system running on this substrate
-- [[LogicSiege]] — Conflict resolution mechanism
+- [SovereignProtocol](SovereignProtocol.md) — The system running on this substrate
+- [LogicSiege](LogicSiege.md) — Conflict resolution mechanism

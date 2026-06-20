@@ -19,5 +19,5 @@ Data protection refers to the measures WorldAI implements to keep personal infor
 
 ## Connections
 - [[WorldAIPrivacyPolicy]] — governing policy
-- [[PrivacyRights]] — user rights related to data
-- [[PersonalInformationProcessing]] — what is being protected
+- [PrivacyRights](PrivacyRights.md) — user rights related to data
+- [PersonalInformationProcessing](PersonalInformationProcessing.md) — what is being protected

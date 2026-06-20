@@ -19,4 +19,4 @@ The principle that the orchestration layer should be thin and replaceable so tha
 ## Related Concepts
 - [[Harness Engineering]] — overall discipline
 - [[Agent Orchestrator]] — the orchestration layer
-- [[OpenClaw]] — could subsume some AO functionality
+- [OpenClaw](../entities/OpenClaw.md) — could subsume some AO functionality

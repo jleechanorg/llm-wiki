@@ -28,6 +28,6 @@ The current focus state of a campaign, determining how time passes and what play
 Commands: /adventure enters personal mode, /faction enters strategic mode. Switching generates attention triggers if player has neglected one mode while focusing on the other.
 
 ## Related Concepts
-- [[DualModeCampaignSystem]] — parent system
-- [[AttentionTriggers]] — alerts when switching modes
-- [[StrategicTurn]] — time unit in faction mode
+- [DualModeCampaignSystem](DualModeCampaignSystem.md) — parent system
+- [AttentionTriggers](AttentionTriggers.md) — alerts when switching modes
+- [StrategicTurn](StrategicTurn.md) — time unit in faction mode

@@ -17,10 +17,10 @@ AgentBench (arXiv:2308.03688) evaluates LLMs as agents across 8 different benchm
 
 ## Connections
 
-- [[SWE-bench]] — one of the 8 benchmarks AgentBench evaluates
-- [[AutoGen]] — AutoGen Bench is a related benchmarking tool for AutoGen
+- [SWE-bench](../concepts/SWE-bench.md) — one of the 8 benchmarks AgentBench evaluates
+- [AutoGen](AutoGen.md) — AutoGen Bench is a related benchmarking tool for AutoGen
 - [[LLM Evaluation]] — AgentBench is an LLM evaluation framework
 
 ## See Also
-- [[SWE-bench]]
+- [SWE-bench](../concepts/SWE-bench.md)
 - [[LLM Evaluation]]

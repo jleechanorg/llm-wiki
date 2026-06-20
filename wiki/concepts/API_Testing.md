@@ -14,5 +14,5 @@ API testing involves validating API endpoints for correct behavior, authenticati
 - POST /api/campaigns — create new campaign
 
 ## Connections
-- [[Authentication]] — tests whether endpoints require auth
+- [Authentication](Authentication.md) — tests whether endpoints require auth
 - [[Server Connectivity]] — basic endpoint availability

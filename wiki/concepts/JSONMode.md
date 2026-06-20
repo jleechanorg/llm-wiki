@@ -15,4 +15,4 @@ JSON mode is a provider feature that instructs the LLM to output valid JSON inst
 
 ## Related Pages
 - [[OpenRouterProviderTests]] — tests response_format construction
-- [[LLMResponse]] — structured response object concept
+- [LLMResponse](LLMResponse.md) — structured response object concept

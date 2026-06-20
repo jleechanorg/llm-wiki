@@ -13,4 +13,4 @@ Valerius appears in entity instruction tests as both an NPC and location owner. 
 - Background entity instruction type with priority=3
 - Tests that location owners should be acknowledged in their space
 
-**Related concepts:** [[EntityInstructionGenerator]], [[EntityInstruction]]
+**Related concepts:** [EntityInstructionGenerator](EntityInstructionGenerator.md), [EntityInstruction](../concepts/EntityInstruction.md)

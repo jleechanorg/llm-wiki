@@ -20,8 +20,8 @@ The Uchiha Compound was home to one of the most powerful clans in the shinobi wo
 
 ## Connections
 
-- [[ItachiUchiha]] — Protagonist/antagonist
+- [ItachiUchiha](ItachiUchiha.md) — Protagonist/antagonist
 - [[ItachiEvilCampaign2Campaign]] — Campaign
-- [[UchihaClan]] — The clan
-- [[Konohagakure]] — Home village
-- [[UchihaMassacre]] — Campaign starting point
+- [UchihaClan](UchihaClan.md) — The clan
+- [Konohagakure](Konohagakure.md) — Home village
+- [UchihaMassacre](../concepts/UchihaMassacre.md) — Campaign starting point

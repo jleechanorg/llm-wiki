@@ -19,5 +19,5 @@ txn.set(user_ref, {"settings": {"personal_api_key_hash": new_hash}})
 ```
 
 ## Related
-- [[FirestoreService]] — uses this pattern for API key rotation
-- [[APIKeyRotation]] — operation that requires settings preservation
+- [FirestoreService](../entities/FirestoreService.md) — uses this pattern for API key rotation
+- [APIKeyRotation](APIKeyRotation.md) — operation that requires settings preservation

@@ -39,12 +39,12 @@ Using the BQ forensic table (`llm_forensics.llm_payloads`, `is_test` column) joi
 
 1. **Denominator**: `db.collection_group("story").count().get()[0][0].value` — server-side aggregation, no doc downloads.
 2. **Real-account bucket**: count entries for the UIDs returned by `auth.list_users().iterate_all()` (107 accounts → 254,787 entries, 39%).
-3. **Orphan bucket**: `db.collection("users").list_documents()` − auth UIDs = tenants with campaigns but no auth account (21,656 UIDs → 400,250 entries, 61%). See [[FirestoreOrphanTenants]].
+3. **Orphan bucket**: `db.collection("users").list_documents()` − auth UIDs = tenants with campaigns but no auth account (21,656 UIDs → 400,250 entries, 61%). See [FirestoreOrphanTenants](FirestoreOrphanTenants.md).
 4. **Real-vs-synthetic split**: classify orphan UIDs by **shape** — real Firebase Auth/anonymous UIDs match `^[A-Za-z0-9]{28}$`; synthetic fixtures are human-readable slugs. Here **0** orphans were hash-shaped → no anonymous-real traffic, entire orphan bucket is test/CI.
 
 ## Hard-dollar truth (2026-06-01, supersedes the proxy)
 
-The GCP Billing Console daily export ([[gcp-billing-2026-h1-hard-dollar]], raw `~/llm_wiki/raw/gcp_billing_2026-01-01_to_2026-06-01.csv`) now gives **authoritative** figures — broader and fresher than the BigQuery export (which stalled at 2026-05-13, `rev-wj9mo.1`):
+The GCP Billing Console daily export ([gcp-billing-2026-h1-hard-dollar](../sources/gcp-billing-2026-h1-hard-dollar.md), raw `~/llm_wiki/raw/gcp_billing_2026-01-01_to_2026-06-01.csv`) now gives **authoritative** figures — broader and fresher than the BigQuery export (which stalled at 2026-05-13, `rev-wj9mo.1`):
 
 - **Gemini API YTD (Jan 1 – Jun 1 2026) = $9,210.88 = 78.8% of all $11,689 GCP spend.**
 - Monthly: Jan $2,127 / Feb $837 / Mar $745 / Apr $2,122 / **May $3,331 (peak)** / Jun(1d) $48.
@@ -58,5 +58,5 @@ The GCP Billing Console daily export ([[gcp-billing-2026-h1-hard-dollar]], raw `
 
 ## Related
 
-- [[GeminiContextCacheTTL]] — storage-cost lever (TTL tuning)
-- [[FirestoreOrphanTenants]] — how orphan tenants arise and are classified
+- [GeminiContextCacheTTL](GeminiContextCacheTTL.md) — storage-cost lever (TTL tuning)
+- [FirestoreOrphanTenants](FirestoreOrphanTenants.md) — how orphan tenants arise and are classified

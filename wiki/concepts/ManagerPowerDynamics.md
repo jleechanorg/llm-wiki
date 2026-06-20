@@ -14,7 +14,7 @@ Every interaction between a manager and a report carries implicit authority weig
 
 ## Key Insight
 
-Jeff Lee-Chan ([[JeffreyChan]]) identifies this as his biggest early management mistake: being so technically engaged that every comment implicitly felt like micromanagement to reports. The content of his observations was usually valuable, but the emotional impact was net negative because he wasn't weighing the authority asymmetry.
+Jeff Lee-Chan ([JeffreyChan](../entities/JeffreyChan.md)) identifies this as his biggest early management mistake: being so technically engaged that every comment implicitly felt like micromanagement to reports. The content of his observations was usually valuable, but the emotional impact was net negative because he wasn't weighing the authority asymmetry.
 
 ## Manifestations
 
@@ -32,5 +32,5 @@ Jeff Lee-Chan ([[JeffreyChan]]) identifies this as his biggest early management 
 
 ## Connections
 
-- [[JeffreyChan]] — source of the insight
-- [[AIAdoptionSpectrum]] — managers who micromanage AI tool usage (mandating token counts) miss the power dynamics lesson
+- [JeffreyChan](../entities/JeffreyChan.md) — source of the insight
+- [AIAdoptionSpectrum](AIAdoptionSpectrum.md) — managers who micromanage AI tool usage (mandating token counts) miss the power dynamics lesson

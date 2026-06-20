@@ -19,6 +19,6 @@ Enum defining four distinct states of entity presence in narrative text for the 
 Enables precise tracking of entity states for narrative consistency, allowing the system to distinguish between entities that are actively in play versus those referenced in dialogue or absent from the scene.
 
 ## Related Concepts
-- [[EntityContext]] — carries presence_type in entity metadata
-- [[NarrativeSyncValidator]] — uses presence types for validation
-- [[ContinuityChecking]] — monitors presence type changes across turns
+- [EntityContext](EntityContext.md) — carries presence_type in entity metadata
+- [NarrativeSyncValidator](NarrativeSyncValidator.md) — uses presence types for validation
+- [ContinuityChecking](ContinuityChecking.md) — monitors presence type changes across turns

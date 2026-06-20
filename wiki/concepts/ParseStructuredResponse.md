@@ -13,5 +13,5 @@ Function in `mvp_site.narrative_response_schema` that parses AI responses and ex
 - Invalid JSON: Returns standardized "invalid json response" message, never exposes raw JSON keys
 
 ## Related Concepts
-- [[NarrativeResponseSchema]] — the schema this function implements
-- [[GodMode]] — game mode where this function handles god_mode_response field
+- [NarrativeResponseSchema](NarrativeResponseSchema.md) — the schema this function implements
+- [GodMode](GodMode.md) — game mode where this function handles god_mode_response field

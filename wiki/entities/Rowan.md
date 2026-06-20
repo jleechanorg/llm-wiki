@@ -9,9 +9,9 @@ last_updated: 2026-04-08
 NPC ally with 22/40 HP, present and conscious in Silver Stag Tavern scene.
 
 ## Connections
-- [[Gideon]] — player character
-- [[Sariel]] — ally in scene
-- [[SilverStagTavern]] — current location
+- [Gideon](Gideon.md) — player character
+- [Sariel](Sariel.md) — ally in scene
+- [SilverStagTavern](SilverStagTavern.md) — current location
 
 ## Test Coverage
 - Expected entity in manifest

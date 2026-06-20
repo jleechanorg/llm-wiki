@@ -23,6 +23,6 @@ The security validation report claimed "All P0 vulnerabilities resolved" but the
 - Claims of "production-grade security" without supporting evidence
 
 ## Related Concepts
-- [[DataIntegrityAnalysis]]
-- [[DocumentationQualityAssessment]]
-- [[CodeReviewMethodology]]
+- [DataIntegrityAnalysis](DataIntegrityAnalysis.md)
+- [DocumentationQualityAssessment](DocumentationQualityAssessment.md)
+- [CodeReviewMethodology](CodeReviewMethodology.md)

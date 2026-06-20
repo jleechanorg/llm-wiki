@@ -10,13 +10,13 @@ total_scenes: 54
 
 ## Overview
 
-** Baldur's Gate, Fist Safehouse appears in 3 scenes across the [[bg1-nocturne-continued]] campaign.
+** Baldur's Gate, Fist Safehouse appears in 3 scenes across the [bg1-nocturne-continued](../sources/bg1-nocturne-continued.md) campaign.
 
 ## Description
 
 ** Baldur's Gate, Fist Safehouse is an entity from the bg1-nocturne-continued campaign.
 
 ## References
-- [[bg1-nocturne-continued]] — campaign overview
-- [[bg1-nocturne-continued-campaign]]
+- [bg1-nocturne-continued](../sources/bg1-nocturne-continued.md) — campaign overview
+- [bg1-nocturne-continued-campaign](../sources/bg1-nocturne-continued-campaign.md)
 

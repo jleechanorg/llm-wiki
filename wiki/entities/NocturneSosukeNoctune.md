@@ -16,9 +16,9 @@ Nocturne Sosuke, also known as the "Black Diamond," is a sixteen-year-old Half-E
 - HP: 33 | Speed: 30 ft
 - Stats: STR 8 (-1), DEX 14 (+2), CON 10 (+0), INT 16 (+3), WIS 10 (+0), CHA 20 (+5)
 - Expertise: Deception +11, Persuasion +11
-- Campaign appearances: [[noctune-bg3-v6-campaign]]
+- Campaign appearances: [noctune-bg3-v6-campaign](../sources/noctune-bg3-v6-campaign.md)
 
 ## Connections
-- [[BloomShadow]] — the establishment where Nocturne has previous history
-- [[Minthara]] — Drow Paladin commander in the goblin camp
-- [[CollegeOfTheAbyssalSiren]] — Bard subclass
+- [BloomShadow](BloomShadow.md) — the establishment where Nocturne has previous history
+- [Minthara](Minthara.md) — Drow Paladin commander in the goblin camp
+- [CollegeOfTheAbyssalSiren](../concepts/CollegeOfTheAbyssalSiren.md) — Bard subclass

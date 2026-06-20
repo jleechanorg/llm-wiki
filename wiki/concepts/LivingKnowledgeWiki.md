@@ -20,6 +20,6 @@ A self-updating, multi-perspective encyclopedia maintained by dedicated agent sw
 
 ## Connections
 
-- [[ProjectChimera]] proposes the Living Knowledge Wiki as its primary application
-- [[CollectiveIntelligence]] enables the wiki's self-improvement
+- [ProjectChimera](../entities/ProjectChimera.md) proposes the Living Knowledge Wiki as its primary application
+- [CollectiveIntelligence](CollectiveIntelligence.md) enables the wiki's self-improvement
 - Related to [[KnowledgeGraph]] as the underlying storage mechanism

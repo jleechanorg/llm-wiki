@@ -30,4 +30,4 @@ Evidence: PR [#6797](https://github.com/jleechanorg/worldarchitect.ai/pull/6797)
 
 ## Related
 - [[integrate-sh]] — script implementing detection
-- [[squash-merge-detection-tests]] — tests for the detection logic
+- [squash-merge-detection-tests](../sources/squash-merge-detection-tests.md) — tests for the detection logic

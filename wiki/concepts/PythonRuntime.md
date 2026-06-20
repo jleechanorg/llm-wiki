@@ -16,5 +16,5 @@ The Python runtime environment where application code executes. It cannot access
 - Workaround: delegate MCP operations to Claude via prompts
 
 ## Related Concepts
-- [[MCP]] — tools Python cannot access
+- [MCP](MCP.md) — tools Python cannot access
 - [[Memory MCP Integration - Architectural Limitation]] — documents this limitation

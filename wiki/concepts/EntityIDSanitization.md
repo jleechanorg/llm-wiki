@@ -18,4 +18,4 @@ Process of converting entity display names to valid entity_id strings by removin
 
 ## Related
 - [[EntityIDValidation]] — the validation that IDs must match patterns
-- [[PydanticValidation]] — the schema validation framework used
+- [PydanticValidation](PydanticValidation.md) — the schema validation framework used

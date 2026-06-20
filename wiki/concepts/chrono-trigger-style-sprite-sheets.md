@@ -1,12 +1,12 @@
 # Chrono Trigger Style Sprite Sheets
 
 **Type:** Art Style  
-**Source:** [[sprite-generator-service]]  
+**Source:** [sprite-generator-service](../entities/sprite-generator-service.md)  
 **Inspiration:** Chrono Trigger (1995 SNES RPG)
 
 ## Overview
 
-Chrono Trigger-style sprite sheets refer to pixel art created in the aesthetic of Square's classic 1995 SNES RPG. This style is the target for both the LLM-based [[sprite-generator-service]] and serves as inspiration for the [[spritesheet-ts]] procedural generation.
+Chrono Trigger-style sprite sheets refer to pixel art created in the aesthetic of Square's classic 1995 SNES RPG. This style is the target for both the LLM-based [sprite-generator-service](../entities/sprite-generator-service.md) and serves as inspiration for the [spritesheet-ts](../entities/spritesheet-ts.md) procedural generation.
 
 ## Visual Characteristics
 
@@ -32,7 +32,7 @@ Animation types:
 
 ### Color Usage
 
-Pre-defined palettes in [[sprite-generator-service]]:
+Pre-defined palettes in [sprite-generator-service](../entities/sprite-generator-service.md):
 
 | Class | Primary Colors | Special |
 |-------|---------------|---------|
@@ -66,7 +66,7 @@ Pre-defined palettes in [[sprite-generator-service]]:
 
 ## System Prompt for LLM Generation
 
-The [[sprite-generator-service]] uses detailed prompts:
+The [sprite-generator-service](../entities/sprite-generator-service.md) uses detailed prompts:
 
 > "CHRONO TRIGGER PIXEL ART STYLE (SNES 16-bit era):
 > - Sharp pixel edges, NO anti-aliasing or smoothing
@@ -79,7 +79,7 @@ The [[sprite-generator-service]] uses detailed prompts:
 
 - [[16BitSNESStyleSpriteRendering]] - Technical rendering
 - [[SpriteGenerationSystem]] - Production system
-- [[spritesheet-ts]] - Procedural fallback
+- [spritesheet-ts](../entities/spritesheet-ts.md) - Procedural fallback
 - [[GrokImageAPIIntegrationForGameAssets]] - API used for generation
 
 ## Tag

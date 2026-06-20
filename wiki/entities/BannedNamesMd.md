@@ -16,5 +16,5 @@ Markdown file containing the list of banned/overused names for AI character gene
 - **NO EXCEPTIONS**: Policy emphasizing absolute prohibition with no workarounds
 
 ## Related Entities
-- [[WorldLoader]] — module that loads this file
-- [[BannedNamePrevention]] — system instruction using these banned names
+- [WorldLoader](WorldLoader.md) — module that loads this file
+- [BannedNamePrevention](../concepts/BannedNamePrevention.md) — system instruction using these banned names

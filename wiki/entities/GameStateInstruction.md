@@ -13,4 +13,4 @@ Core prompt file defining game state handling and planning block requirements. U
 - story_mode: Player-facing narrative
 - god_mode: DM-facing instructions
 
-**Related:** [[MechanicsSystemInstruction]], [[NarrativeSystemInstruction]], [[MasterDirective]]
+**Related:** [MechanicsSystemInstruction](MechanicsSystemInstruction.md), [NarrativeSystemInstruction](NarrativeSystemInstruction.md), [MasterDirective](MasterDirective.md)

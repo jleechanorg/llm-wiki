@@ -33,4 +33,4 @@ See: `sources/ao-ralph-lifecycle-worker-respawn-2026-05-21.md`, bead rev-3ey45 (
 - [[Nested Agent Loops]]
 - [[Self-Improving Coding Agents]]
 - [[Orchestration Architecture Research]]
-- [[LifecycleReactions]]
+- [LifecycleReactions](LifecycleReactions.md)

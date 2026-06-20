@@ -10,13 +10,13 @@ total_scenes: 162
 
 ## Overview
 
-** Silarus Valley - Northern Ridge appears in 4 scenes across the [[gaia-julia-v4]] campaign.
+** Silarus Valley - Northern Ridge appears in 4 scenes across the [gaia-julia-v4](../sources/gaia-julia-v4.md) campaign.
 
 ## Description
 
 ** Silarus Valley - Northern Ridge is an entity from the gaia-julia-v4 campaign.
 
 ## References
-- [[gaia-julia-v4]] — campaign overview
-- [[gaia-julia-v4-campaign]]
+- [gaia-julia-v4](../sources/gaia-julia-v4.md) — campaign overview
+- [gaia-julia-v4-campaign](../sources/gaia-julia-v4-campaign.md)
 

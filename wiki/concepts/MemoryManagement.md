@@ -28,7 +28,7 @@ Utility system for memory selection, deduplication, and formatting in WorldAI's 
 
 ## Connections
 
-- [[ContextCompaction]] — memory selection integrated with token budget management
-- [[MemoryIntegration]] — broader memory integration pattern
-- [[mvp-site-memory-utils]] — Python utility functions
-- [[mvp-site-memory-mcp-real]] — architectural limitation documentation
+- [ContextCompaction](ContextCompaction.md) — memory selection integrated with token budget management
+- [MemoryIntegration](MemoryIntegration.md) — broader memory integration pattern
+- [mvp-site-memory-utils](../sources/mvp-site-memory-utils.md) — Python utility functions
+- [mvp-site-memory-mcp-real](../sources/mvp-site-memory-mcp-real.md) — architectural limitation documentation

@@ -29,5 +29,5 @@ A Graph Neural Network that operates on graph-structured data. In Project Chimer
 
 ## Connections
 
-- [[ProjectChimera]] uses GNN as its "neural" core for dynamic topology generation
-- Related to [[CollectiveIntelligence]] — the learned topology enables emergent group reasoning
+- [ProjectChimera](../entities/ProjectChimera.md) uses GNN as its "neural" core for dynamic topology generation
+- Related to [CollectiveIntelligence](CollectiveIntelligence.md) — the learned topology enables emergent group reasoning

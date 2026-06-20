@@ -16,14 +16,14 @@ StrongDM's digital twin universe is a set of faithful replicas of enterprise Saa
 ## Related Systems
 | System | Type | Relevance |
 |--------|------|-----------|
-| [[StrongDM]] | Company | Built the digital twin universe |
-| [[DarkFactory]] | Concept | The factory was used to build the digital twins |
-| [[MockLLMTesting]] | Concept | Mock LLM is the analog for LLM API testing |
+| [StrongDM](../entities/StrongDM.md) | Company | Built the digital twin universe |
+| [DarkFactory](DarkFactory.md) | Concept | The factory was used to build the digital twins |
+| [MockLLMTesting](MockLLMTesting.md) | Concept | Mock LLM is the analog for LLM API testing |
 
 ## Connection to Attractor Pattern
 The digital twin universe extends the Attractor pattern's isolation principle. Just as the mock LLM server lets you test agent behavior without real API calls, the digital twin universe lets you test agent integrations without real SaaS backends. Both are faithful replicas for externally observable behavior.
 
 ## See Also
-- [[StrongDM]]
-- [[MockLLMTesting]]
-- [[DarkFactory]]
+- [StrongDM](../entities/StrongDM.md)
+- [MockLLMTesting](MockLLMTesting.md)
+- [DarkFactory](DarkFactory.md)

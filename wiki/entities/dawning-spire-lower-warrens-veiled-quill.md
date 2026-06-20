@@ -10,13 +10,13 @@ total_scenes: 291
 
 ## Overview
 
-** Dawning Spire (Lower Warrens - Veiled Quill) appears in 11 scenes across the [[tyranny]] campaign.
+** Dawning Spire (Lower Warrens - Veiled Quill) appears in 11 scenes across the [tyranny](../sources/tyranny.md) campaign.
 
 ## Description
 
 ** Dawning Spire (Lower Warrens - Veiled Quill) is an entity from the tyranny campaign.
 
 ## References
-- [[tyranny]] — campaign overview
-- [[tyranny-campaign]]
+- [tyranny](../sources/tyranny.md) — campaign overview
+- [tyranny-campaign](../sources/tyranny-campaign.md)
 

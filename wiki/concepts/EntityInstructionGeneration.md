@@ -25,6 +25,6 @@ A prompt engineering technique that generates explicit instructions for AI model
 | background | "{entity} should be acknowledged as present" | Atmosphere |
 
 ## Relationship to Other Concepts
-- Part of [[PromptEngineering]] methodology
-- Integrates with [[EntityTracking]] for game state awareness
+- Part of [PromptEngineering](PromptEngineering.md) methodology
+- Integrates with [EntityTracking](EntityTracking.md) for game state awareness
 - Supports [[GameNarrativeGeneration]] by ensuring character presence

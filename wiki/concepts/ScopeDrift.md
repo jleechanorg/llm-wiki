@@ -29,4 +29,4 @@ A PR or change introduces behavioral modifications that go beyond its stated goa
 
 - Require PR bodies to explicitly list all behavior changes, not just the primary fix
 - Split PRs when multiple behaviors are being changed
-- Use the [[SevenGreenQueue]] discipline: explicit scope statement required before merge
+- Use the [SevenGreenQueue](SevenGreenQueue.md) discipline: explicit scope statement required before merge

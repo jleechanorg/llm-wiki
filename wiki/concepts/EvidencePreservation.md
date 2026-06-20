@@ -23,5 +23,5 @@ Evidence preservation was prioritized in the merge:
 
 ## Related Concepts
 - [[CrossProcessTesting]] — Testing pattern requiring evidence preservation
-- [[IntentClassification]] — Metadata being captured
-- [[MergeConflictResolution]] — Where evidence priorities were decided
+- [IntentClassification](IntentClassification.md) — Metadata being captured
+- [MergeConflictResolution](MergeConflictResolution.md) — Where evidence priorities were decided

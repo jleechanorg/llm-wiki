@@ -22,12 +22,12 @@ The test validates detection by:
 4. When count >= 2, marking loop as detected
 
 ## Connection to Action Execution Rule
-The Anti-Loop Rule is part of the broader [[ActionExecutionRule]] which states:
+The Anti-Loop Rule is part of the broader [ActionExecutionRule](../entities/ActionExecutionRule.md) which states:
 - Execute chosen action with dice rolls
 - Do NOT present more sub-options
 
 ## Connections
-- [[PlanningLoopDetection]] — bug this rule prevents
-- [[ActionExecutionRule]] — parent rule
-- [[DiceRoll]] — required outcome when rule triggers
-- [[ConversationHistory]] — mechanism for detection
+- [PlanningLoopDetection](PlanningLoopDetection.md) — bug this rule prevents
+- [ActionExecutionRule](../entities/ActionExecutionRule.md) — parent rule
+- [DiceRoll](DiceRoll.md) — required outcome when rule triggers
+- [ConversationHistory](ConversationHistory.md) — mechanism for detection

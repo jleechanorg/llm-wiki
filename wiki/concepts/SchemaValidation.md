@@ -21,6 +21,6 @@ Process of validating data structures against a defined schema to ensure they co
 
 
 ## Related Concepts
-- [[TypedDict]] — type definition mechanism
-- [[TypeGuards]] — runtime type checking
-- [[PydanticValidation]] — alternative validation approach
+- [TypedDict](TypedDict.md) — type definition mechanism
+- [TypeGuards](TypeGuards.md) — runtime type checking
+- [PydanticValidation](PydanticValidation.md) — alternative validation approach

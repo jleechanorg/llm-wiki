@@ -58,6 +58,6 @@ The `scores` list is the per-run totals maintained at the technique level. `obse
 
 ## See also
 
-- [[autor-5iter-technique]]
-- [[autor-sr-adversarial-design-2026-05-13]]
+- [autor-5iter-technique](autor-5iter-technique.md)
+- [autor-sr-adversarial-design-2026-05-13](../sources/autor-sr-adversarial-design-2026-05-13.md)
 - [[validate_router_prereqs.py]]

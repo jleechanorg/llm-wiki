@@ -46,5 +46,5 @@ FastEmbed in `intent_classifier.py` uses a local embedding model (~133MB) for la
 User guidance: FastEmbed is acceptable for latency if the anchor phrases are regularly updated and the similarity threshold is tuned. The risk is drift — anchor phrases trained today may not match user inputs next month.
 
 ## Related
-- [[ZeroFrameworkCognition]] — full ZFC framework
-- [[StructureDriftPattern]] — fields accidentally nested inside wrong conditional blocks (a type of mechanical judgment leakage)
+- [ZeroFrameworkCognition](ZeroFrameworkCognition.md) — full ZFC framework
+- [StructureDriftPattern](StructureDriftPattern.md) — fields accidentally nested inside wrong conditional blocks (a type of mechanical judgment leakage)

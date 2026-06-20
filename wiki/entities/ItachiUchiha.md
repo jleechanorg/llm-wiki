@@ -31,9 +31,9 @@ Itachi possesses both the Sharingan and Mangekyō Sharingan from the start, alon
 ## Connections
 
 - [[ItachiEvilCampaign2Campaign]] — Campaign overview
-- [[UchihaClan]] — Target of genocide
-- [[Konohagakure]] — Home village
-- [[Sharingan]] — Active ability
-- [[MangekyoSharingan]] — Active ability
-- [[NinjaClass]] — Custom character class
-- [[DestinyRuleset]] — Game ruleset
+- [UchihaClan](UchihaClan.md) — Target of genocide
+- [Konohagakure](Konohagakure.md) — Home village
+- [Sharingan](../concepts/Sharingan.md) — Active ability
+- [MangekyoSharingan](../concepts/MangekyoSharingan.md) — Active ability
+- [NinjaClass](../concepts/NinjaClass.md) — Custom character class
+- [DestinyRuleset](../concepts/DestinyRuleset.md) — Game ruleset

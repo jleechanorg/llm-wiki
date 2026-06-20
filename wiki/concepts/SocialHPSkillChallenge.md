@@ -33,5 +33,5 @@ Every interaction with active Social HP challenge MUST show `[SOCIAL SKILL CHALL
 **DO NOT OMIT** the box on continuation turns — show it EVERY time.
 
 ## Related Concepts
-- [[ActionResolutionProtocol]] — underlying resolution system
-- [[RelationshipReputationSystem]] — trust and reputation tracking
+- [ActionResolutionProtocol](ActionResolutionProtocol.md) — underlying resolution system
+- [RelationshipReputationSystem](RelationshipReputationSystem.md) — trust and reputation tracking

@@ -10,13 +10,13 @@ total_scenes: 211
 
 ## Overview
 
-** North Woods (Near the Red Fork) appears in 6 scenes across the [[aemon-game-of-thrones]] campaign.
+** North Woods (Near the Red Fork) appears in 6 scenes across the [aemon-game-of-thrones](../sources/aemon-game-of-thrones.md) campaign.
 
 ## Description
 
 ** North Woods (Near the Red Fork) is an entity from the aemon-game-of-thrones campaign.
 
 ## References
-- [[aemon-game-of-thrones]] — campaign overview
-- [[aemon-game-of-thrones-campaign]]
+- [aemon-game-of-thrones](../sources/aemon-game-of-thrones.md) — campaign overview
+- [aemon-game-of-thrones-campaign](../sources/aemon-game-of-thrones-campaign.md)
 

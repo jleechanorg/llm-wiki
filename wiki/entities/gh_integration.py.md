@@ -13,4 +13,4 @@ A thin Python wrapper around the `gh` CLI that provides type-safe orchestration 
 3. **GraphQL support**: Unresolved thread detection via `pullRequest.reviewThreads`
 4. **Testability**: Function-level mocking via `unittest.mock.patch`
 
-Related: [[GitHub]], [[MergeReadiness]]
+Related: [GitHub](GitHub.md), [MergeReadiness](../concepts/MergeReadiness.md)

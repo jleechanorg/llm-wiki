@@ -12,7 +12,7 @@ Visenya "Silver" Belaerys is a recurring character across 5+ campaign versions, 
 
 ## Appears In
 
-- [[visenya-v2]] through [[visenya-v6]] — Multiple iterations (346+ entries in v3 alone), each refining the concept
+- [visenya-v2](../sources/visenya-v2.md) through [visenya-v6](../sources/visenya-v6.md) — Multiple iterations (346+ entries in v3 alone), each refining the concept
 
 ## Key Traits
 
@@ -26,6 +26,6 @@ Visenya "Silver" Belaerys is a recurring character across 5+ campaign versions, 
 
 ## Relationships Across Campaigns
 
-- [[SarielCrossCampaign]] — Parallel (masked power, hiding true lineage)
-- [[Nocticula]] — Parallel (Ascension Meter ≈ Mana Reveal mechanic)
-- [[NocturneSosuke]] — Parallel (Apex lineage concept; Singularity-tier potential)
+- [SarielCrossCampaign](SarielCrossCampaign.md) — Parallel (masked power, hiding true lineage)
+- [Nocticula](Nocticula.md) — Parallel (Ascension Meter ≈ Mana Reveal mechanic)
+- [NocturneSosuke](NocturneSosuke.md) — Parallel (Apex lineage concept; Singularity-tier potential)

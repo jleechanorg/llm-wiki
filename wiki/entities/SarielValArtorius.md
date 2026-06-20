@@ -14,17 +14,17 @@ Sariel val Artorius is a 15-year-old character (was 14 when taken hostage at Bat
 - Age: 15 years old (at campaign start)
 - Age at time of incident: 14 years old
 - Incident: Was taken hostage at Battle of Sacrifice Fields
-- Saved by: [[Alexiel]] (who died in the process)
+- Saved by: [Alexiel](Alexiel.md) (who died in the process)
 
 ## Companions
 - [[GarethAshfeld]] (age 16)
-- [[Gideon]] (age 16)
+- [Gideon](Gideon.md) (age 16)
 - [[Cressida]] (age 16)
 
 ## Family
-- Siblings: [[CassianValArtorius]], [[DariusValArtorius]] (twins, age 18)
+- Siblings: [CassianValArtorius](CassianValArtorius.md), [DariusValArtorius](DariusValArtorius.md) (twins, age 18)
 
 ## Relationships
-- Saved by: [[Alexiel]]
+- Saved by: [Alexiel](Alexiel.md)
 - Companions: Gareth Ashfeld, Gideon, Cressida
 - Siblings: Cassian and Darius val Artorius

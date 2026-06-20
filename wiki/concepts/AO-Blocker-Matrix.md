@@ -26,7 +26,7 @@ Before trying to make open bug-fix PRs "7-green," classify each into CI failure 
 
 ## Connections
 
-- [[AO-Claim-Fail-Closed]] — AO claim fail-closed execution
-- [[AO-Split-Brain]] — AO split-brain with duplicate workers
-- [[AO-Daemon-Incident]] — AO daemon incidents masking blockers
-- [[MergeReadiness]] — merge readiness criteria
+- [AO-Claim-Fail-Closed](AO-Claim-Fail-Closed.md) — AO claim fail-closed execution
+- [AO-Split-Brain](AO-Split-Brain.md) — AO split-brain with duplicate workers
+- [AO-Daemon-Incident](AO-Daemon-Incident.md) — AO daemon incidents masking blockers
+- [MergeReadiness](MergeReadiness.md) — merge readiness criteria

@@ -9,5 +9,5 @@ last_updated: 2026-04-08
 Shared HTTP client module used by multiple LLM providers for making requests to inference APIs.
 
 ## Used By
-- [[OpenRouter]] provider
+- [OpenRouter](OpenRouter.md) provider
 - Other OpenAI-compatible providers

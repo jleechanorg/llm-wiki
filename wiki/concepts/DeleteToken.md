@@ -26,6 +26,6 @@ The `__DELETE__` marker is a sentinel value used in state updates to indicate th
 
 ## Related
 
-- [[FirestoreService]] — the service containing `update_state_with_changes`
+- [FirestoreService](../entities/FirestoreService.md) — the service containing `update_state_with_changes`
 - [[StateManagement]] — broader state handling patterns
-- [[delete-token-processing-tests]] — test validation
+- [delete-token-processing-tests](../sources/delete-token-processing-tests.md) — test validation

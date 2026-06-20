@@ -19,7 +19,7 @@ Gate 8 is the high-level alignment requirement. It is enforced by:
 
 ## See Also
 
-- [[skeptic-gate-7]] — Technical review gate
-- [[skeptic-rule-12]] — Goals verification rule
-- [[tenets-gap]] — The tenets/scope parser gap
+- [skeptic-gate-7](skeptic-gate-7.md) — Technical review gate
+- [skeptic-rule-12](skeptic-rule-12.md) — Goals verification rule
+- [tenets-gap](tenets-gap.md) — The tenets/scope parser gap
 - [[skeptic-agent]]

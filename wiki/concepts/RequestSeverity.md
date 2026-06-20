@@ -13,6 +13,6 @@ A field in the game state that tracks the severity level of a social encounter r
 Used by the SOCIAL_HP_ENFORCEMENT_REMINDER to dynamically insert the request severity value when prompting the LLM about social HP challenges.
 
 ## Related Concepts
-- [[SocialHPChallenge]] — the broader social HP challenge system
-- [[ResistanceShown]] — companion field tracking resistance display
-- [[GameStateInstruction]] — prompt file that documents these fields
+- [SocialHPChallenge](SocialHPChallenge.md) — the broader social HP challenge system
+- [ResistanceShown](ResistanceShown.md) — companion field tracking resistance display
+- [GameStateInstruction](../entities/GameStateInstruction.md) — prompt file that documents these fields

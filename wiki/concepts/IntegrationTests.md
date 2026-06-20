@@ -23,7 +23,7 @@ The concurrent request handling tests are integration tests because they verify:
 4. All components working together under load
 
 ## Related Concepts
-- [[ConcurrentRequestHandling]] — what these tests verify
-- [[Gunicorn]] — part of stack under test
-- [[Flask]] — web framework under test
+- [ConcurrentRequestHandling](ConcurrentRequestHandling.md) — what these tests verify
+- [Gunicorn](Gunicorn.md) — part of stack under test
+- [Flask](Flask.md) — web framework under test
 - [[ThreadPoolExecutor]] — test execution mechanism

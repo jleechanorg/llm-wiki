@@ -16,5 +16,5 @@ Consulting company D/B/A WorldAI — the legal business entity operating worldar
 - **Legal Terms**: Last updated February 28, 2026
 
 ## Connections
-- Operates [[WorldAI]] — the brand for services
-- Provider of [[worldarchitect.ai]]
+- Operates [WorldAI](WorldAI.md) — the brand for services
+- Provider of [worldarchitect.ai](worldarchitect.ai.md)

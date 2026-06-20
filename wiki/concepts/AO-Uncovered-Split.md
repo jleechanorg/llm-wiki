@@ -26,6 +26,6 @@ PRs #389, #394, and #396 were all `UNCOVERED` but actually blocked by workspace 
 
 ## Connections
 
-- [[AO-Claim-Fail-Closed]] — AO claim fail-closed
-- [[AO-Blocker-Matrix]] — PR blocker triage
-- [[AO-Split-Brain]] — AO split-brain
+- [AO-Claim-Fail-Closed](AO-Claim-Fail-Closed.md) — AO claim fail-closed
+- [AO-Blocker-Matrix](AO-Blocker-Matrix.md) — PR blocker triage
+- [AO-Split-Brain](AO-Split-Brain.md) — AO split-brain

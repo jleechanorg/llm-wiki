@@ -18,11 +18,11 @@ LangGraph is a framework for building reliable agents with low-level control, bu
 
 ## Connections
 
-- [[MultiAgentOrchestration]] — LangGraph is a multi-agent orchestration framework
-- [[WorkflowEngine]] — LangGraph encodes workflows as directed graphs
+- [MultiAgentOrchestration](../concepts/MultiAgentOrchestration.md) — LangGraph is a multi-agent orchestration framework
+- [WorkflowEngine](../concepts/WorkflowEngine.md) — LangGraph encodes workflows as directed graphs
 - [[LangChain]] — parent project
-- [[AutoGen]] — alternative multi-agent framework (Microsoft)
+- [AutoGen](AutoGen.md) — alternative multi-agent framework (Microsoft)
 
 ## See Also
-- [[MultiAgentOrchestration]]
-- [[WorkflowEngine]]
+- [MultiAgentOrchestration](../concepts/MultiAgentOrchestration.md)
+- [WorkflowEngine](../concepts/WorkflowEngine.md)

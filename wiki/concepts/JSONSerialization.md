@@ -18,5 +18,5 @@ JSON serialization in Python converts Python objects to JSON-compatible string r
 The mvp_site.serialization module provides json_default_serializer for handling datetime and other complex types during JSON encoding.
 
 ## Related Concepts
-- [[PydanticSerialization]] — dict conversion before JSON encoding
-- [[LLMResponse]] — response object requiring JSON serialization
+- [PydanticSerialization](PydanticSerialization.md) — dict conversion before JSON encoding
+- [LLMResponse](LLMResponse.md) — response object requiring JSON serialization

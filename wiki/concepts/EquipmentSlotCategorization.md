@@ -20,7 +20,7 @@ System for categorizing equipment slots into logical groups for display in game 
 - **Other**: unknown or uncategorized slots
 
 ## Usage
-Used by [[EquipmentDisplayModule]] to organize equipment for UI display, ensuring consistent categorization across different equipment naming conventions.
+Used by [EquipmentDisplayModule](../entities/EquipmentDisplayModule.md) to organize equipment for UI display, ensuring consistent categorization across different equipment naming conventions.
 
 ## Related Concepts
 - [[InventoryManagement]]

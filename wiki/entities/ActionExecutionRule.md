@@ -22,6 +22,6 @@ The RED test reproduces a violation of this rule where:
 4. Loop repeats indefinitely
 
 ## Connections
-- [[AntiLoopRule]] — enforcement mechanism for this rule
-- [[PlanningLoopDetection]] — test that validates this rule is enforced
-- [[GameStateInstruction]] — source document for this rule
+- [AntiLoopRule](../concepts/AntiLoopRule.md) — enforcement mechanism for this rule
+- [PlanningLoopDetection](../concepts/PlanningLoopDetection.md) — test that validates this rule is enforced
+- [GameStateInstruction](GameStateInstruction.md) — source document for this rule

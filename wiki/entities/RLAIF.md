@@ -17,10 +17,10 @@ RLAIF (Reinforcement Learning from AI Feedback) is a training method where AI sy
 
 ## Connections
 
-- [[ConstitutionalAI]] — RLAIF is used in Constitutional AI's RL phase
-- [[AnthropicAlignment]] — RLAIF is part of Anthropic's alignment research
-- [[GovernanceLayer]] — RLAIF-like feedback loops could inform governance rule improvement
+- [ConstitutionalAI](ConstitutionalAI.md) — RLAIF is used in Constitutional AI's RL phase
+- [AnthropicAlignment](AnthropicAlignment.md) — RLAIF is part of Anthropic's alignment research
+- [GovernanceLayer](../concepts/GovernanceLayer.md) — RLAIF-like feedback loops could inform governance rule improvement
 
 ## See Also
-- [[ConstitutionalAI]]
-- [[AnthropicAlignment]]
+- [ConstitutionalAI](ConstitutionalAI.md)
+- [AnthropicAlignment](AnthropicAlignment.md)

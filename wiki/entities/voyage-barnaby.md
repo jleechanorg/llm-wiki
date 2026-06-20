@@ -16,6 +16,6 @@ The old steward of Riverside Manor who kept the Tethlar estate from collapsing d
 > "The first lords would have wept with pride to see this. My head is already spinning with the numbers — iron, grain, salted beef." — Barnaby, after seeing the Gloomstalker summoning (Turn 89)
 
 ## Connections
-- [[alexiel-larion]] — primary campaign source
+- [alexiel-larion](../sources/alexiel-larion.md) — primary campaign source
 - [[HouseTethlar]] — the family he serves
 - [[RiversideManor]] — the estate he maintained

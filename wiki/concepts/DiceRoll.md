@@ -28,7 +28,7 @@ Social encounters (persuasion, intimidation, deception) require dice rolls to pr
 The planning loop bug occurs because LLM omits dice_rolls for social actions, causing the loop.
 
 ## Connections
-- [[SocialEncounter]] — requires dice rolls
-- [[PlanningLoopDetection]] — bug where dice rolls are missing
-- [[AntiLoopRule]] — forces dice roll on second similar action
-- [[SkillCheck]] — paired with dice roll for resolution
+- [SocialEncounter](SocialEncounter.md) — requires dice rolls
+- [PlanningLoopDetection](PlanningLoopDetection.md) — bug where dice rolls are missing
+- [AntiLoopRule](AntiLoopRule.md) — forces dice roll on second similar action
+- [SkillCheck](SkillCheck.md) — paired with dice roll for resolution

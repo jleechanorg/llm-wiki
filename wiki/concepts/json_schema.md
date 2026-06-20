@@ -21,5 +21,5 @@ json_schema is a structured output format for LLM API calls that allows develope
 
 ## Connections
 - [[json_object]] — legacy format without schema validation
-- [[NarrativeResponse]] — specific schema for narrative generation
-- [[CerebrasProvider]] — provider supporting json_schema format
+- [NarrativeResponse](NarrativeResponse.md) — specific schema for narrative generation
+- [CerebrasProvider](../entities/CerebrasProvider.md) — provider supporting json_schema format

@@ -23,5 +23,5 @@ The process of determining whether raw text output from an LLM should be used as
 | Malformed JSON ({ or [) | False | Prevents raw JSON being stored as story |
 
 ## Related Concepts
-- [[JSONParseFallbackMarker]] — marker for fallback responses
+- [JSONParseFallbackMarker](../entities/JSONParseFallbackMarker.md) — marker for fallback responses
 - [[StreamingFallback]] — when LLM JSON parsing fails, use raw text

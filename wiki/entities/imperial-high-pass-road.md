@@ -10,13 +10,13 @@ total_scenes: 437
 
 ## Overview
 
-** Imperial High Pass Road appears in 30 scenes across the [[alexiel-assiah]] campaign.
+** Imperial High Pass Road appears in 30 scenes across the [alexiel-assiah](../sources/alexiel-assiah.md) campaign.
 
 ## Description
 
 ** Imperial High Pass Road is an entity from the alexiel-assiah campaign.
 
 ## References
-- [[alexiel-assiah]] — campaign overview
-- [[alexiel-assiah-campaign]]
+- [alexiel-assiah](../sources/alexiel-assiah.md) — campaign overview
+- [alexiel-assiah-campaign](../sources/alexiel-assiah-campaign.md)
 

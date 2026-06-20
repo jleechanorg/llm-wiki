@@ -13,4 +13,4 @@ Python module responsible for loading prompt files from disk. Provides `_load_in
 - `_loaded_instructions_cache` — in-memory cache for loaded prompts
 
 ## Usage
-Used by [[PromptBuilder]] to construct prompts for LLM calls.
+Used by [PromptBuilder](PromptBuilder.md) to construct prompts for LLM calls.

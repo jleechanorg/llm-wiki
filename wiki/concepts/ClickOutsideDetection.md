@@ -20,5 +20,5 @@ A UI behavior pattern where clicking outside an active element triggers an actio
 - Checkbox/radio change events may not fire on click-outside
 
 ## Related Concepts
-- [[EditablePreviewPattern]]
+- [EditablePreviewPattern](EditablePreviewPattern.md)
 - [[FormStateSynchronization]]

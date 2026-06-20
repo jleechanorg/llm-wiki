@@ -16,4 +16,4 @@ The pattern of saving user settings to Firestore and retrieving them across sess
 - spicy_mode: feature flag
 
 ## Related Tests
-- [[spicy-mode-toggle-e2e-tests]] — validates persistence
+- [spicy-mode-toggle-e2e-tests](../sources/spicy-mode-toggle-e2e-tests.md) — validates persistence

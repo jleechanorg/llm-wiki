@@ -18,6 +18,6 @@ Token estimation is the process of approximating the number of tokens (word piec
 The estimate_tokens() function divides character count by CHARS_PER_TOKEN (4) to produce an estimated token count. This is simpler than calling the Gemini count_tokens API method but provides a reasonable approximation for logging and monitoring purposes.
 
 ## Related Concepts
-- [[CharacterCounting]] — the inverse operation, counting characters before token estimation
-- [[GeminiAPI]] — the target API these tokens are estimated for
+- [CharacterCounting](CharacterCounting.md) — the inverse operation, counting characters before token estimation
+- [GeminiAPI](../entities/GeminiAPI.md) — the target API these tokens are estimated for
 - [[TokenCountingUtilities]] — the specific implementation in WorldAI

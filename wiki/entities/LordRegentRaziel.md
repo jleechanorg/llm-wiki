@@ -19,6 +19,6 @@ Lord Regent Raziel is the ancient ruler of the Celestial Imperium, a bastion of 
 
 ## Connections
 
-- [[CelestialImperium]] — his domain
-- [[Lucifer]] — opposite leader
-- [[Alexiel]] — potential defector at his border
+- [CelestialImperium](CelestialImperium.md) — his domain
+- [Lucifer](Lucifer.md) — opposite leader
+- [Alexiel](Alexiel.md) — potential defector at his border

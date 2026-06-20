@@ -10,4 +10,4 @@ last_updated: 2026-04-08
 In-memory cache with 30-minute TTL for moderately accessed memory data. Middle tier in multi-tier caching strategy.
 
 ## Source
-[[memory-mcp-integration]]
+[memory-mcp-integration](../sources/memory-mcp-integration.md)

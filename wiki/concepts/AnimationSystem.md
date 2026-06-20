@@ -15,6 +15,6 @@ An animation system controls visual transitions and motion effects in a frontend
 - **State transitions**: Animated class changes
 
 ## Related Concepts
-- [[ViewTransitions]] — page/view switching animations
-- [[MicroInteractions]] — small feedback animations
-- [[LoadingStates]] — async operation feedback
+- [ViewTransitions](ViewTransitions.md) — page/view switching animations
+- [MicroInteractions](MicroInteractions.md) — small feedback animations
+- [LoadingStates](LoadingStates.md) — async operation feedback

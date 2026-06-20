@@ -21,13 +21,13 @@ A workflow engine orchestrates multi-step processes, often encoded as YAML DAGs,
 
 | System | Type | Key Distinction |
 |--------|------|----------------|
-| [[Archon]] | YAML DAGs | mission.md governance, git worktree isolation |
-| [[Kilroy]] | DOT graphs | CXDB checkpoints, English-to-DOT ingestion |
-| [[Mammoth]] | DOT graphs | 21-rule linter, fan-in, verification nodes |
-| [[Tracker]] | Dippin language | .dipx bundles, interview-mode human gates |
+| [Archon](../entities/Archon.md) | YAML DAGs | mission.md governance, git worktree isolation |
+| [Kilroy](../entities/Kilroy.md) | DOT graphs | CXDB checkpoints, English-to-DOT ingestion |
+| [Mammoth](../entities/Mammoth.md) | DOT graphs | 21-rule linter, fan-in, verification nodes |
+| [Tracker](../entities/Tracker.md) | Dippin language | .dipx bundles, interview-mode human gates |
 | [[Temporal]] | Durable execution | Event sourcing, crash recovery |
 | [[Prefect]] | Python-first | Single decorator turns functions into workflows |
-| [[Airbyte]] | Data integration | MCP Server for agent data access |
+| [Airbyte](../entities/Airbyte.md) | Data integration | MCP Server for agent data access |
 
 ## Attractor Pattern Implementations
 
@@ -41,12 +41,12 @@ Four independent Attractor implementations (Kilroy, Mammoth, Smasher, Tracker) c
 Workflow engines define *how* tasks run. Governance layers define *what* constraints apply. Archon conflates the two (governance is consulted on every decision). AO's proposed governance layer keeps them separate.
 
 ## See Also
-- [[Archon]]
-- [[Kilroy]]
-- [[Mammoth]]
-- [[Tracker]]
+- [Archon](../entities/Archon.md)
+- [Kilroy](../entities/Kilroy.md)
+- [Mammoth](../entities/Mammoth.md)
+- [Tracker](../entities/Tracker.md)
 - [[Temporal]]
 - [[Prefect]]
-- [[Airbyte]]
-- [[DurableExecution]]
-- [[AttractorPattern]]
+- [Airbyte](../entities/Airbyte.md)
+- [DurableExecution](DurableExecution.md)
+- [AttractorPattern](AttractorPattern.md)

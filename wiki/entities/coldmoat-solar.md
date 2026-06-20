@@ -10,13 +10,13 @@ total_scenes: 417
 
 ## Overview
 
-** Coldmoat Solar appears in 8 scenes across the [[visenya-v4]] campaign.
+** Coldmoat Solar appears in 8 scenes across the [visenya-v4](../sources/visenya-v4.md) campaign.
 
 ## Description
 
 ** Coldmoat Solar is an entity from the visenya-v4 campaign.
 
 ## References
-- [[visenya-v4]] — campaign overview
+- [visenya-v4](../sources/visenya-v4.md) — campaign overview
 - [[visenya-v4-campaign]]
 

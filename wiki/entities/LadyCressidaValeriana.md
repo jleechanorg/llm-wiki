@@ -20,5 +20,5 @@ Location-based NPC tracked in Lady Cressida's Chambers. Used as a test case for 
 
 ## Related
 - [[SarielCampaignIntegrationTestExecution]] — tests location-based entity tracking
-- [[Valerius]] — domain owner with different tracking pattern
-- [[EntityTracking]] — the tracking mechanism being tested
+- [Valerius](Valerius.md) — domain owner with different tracking pattern
+- [EntityTracking](EntityTracking.md) — the tracking mechanism being tested

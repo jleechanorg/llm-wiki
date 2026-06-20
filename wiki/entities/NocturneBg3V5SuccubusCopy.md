@@ -19,12 +19,12 @@ An exact duplicate run of the V5 Succubus campaign, also 278 scenes, also termin
 
 ## Story
 
-See [[NocturneBg3V5Succubus]] for the full narrative arc. The V5 Succubus Copy follows the same trajectory: Ravaged Beach → Emerald Grove infiltration → Kagha's submission → Blighted Village Windmill → Shattered Sanctum Main Hall as Nascent Demon Lord.
+See [NocturneBg3V5Succubus](NocturneBg3V5Succubus.md) for the full narrative arc. The V5 Succubus Copy follows the same trajectory: Ravaged Beach → Emerald Grove infiltration → Kagha's submission → Blighted Village Windmill → Shattered Sanctum Main Hall as Nascent Demon Lord.
 
 The terminal scene is identical in stats and dice rolls to V5 Succubus, suggesting the Copy is either a backup recording or a session replay.
 
 ## Connections
 
-- [[NocturneBg3V5Succubus]] — the source campaign this Copy mirrors
-- [[MalcanthetPatron]] — demon patron (inverted)
-- [[ShatteredSanctum]] — terminal location
+- [NocturneBg3V5Succubus](NocturneBg3V5Succubus.md) — the source campaign this Copy mirrors
+- [MalcanthetPatron](../concepts/MalcanthetPatron.md) — demon patron (inverted)
+- [ShatteredSanctum](ShatteredSanctum.md) — terminal location

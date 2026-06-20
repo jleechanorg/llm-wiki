@@ -15,4 +15,4 @@ Standard Reference Units module (mvp_site.faction.srd_units) providing unit grou
 
 ## Connections
 - [[FactionToolDefinitions]] — used in battle and combat calculations
-- [[FactionBattleSim]] — unit instantiation
+- [FactionBattleSim](FactionBattleSim.md) — unit instantiation

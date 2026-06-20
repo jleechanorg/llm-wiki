@@ -10,13 +10,13 @@ total_scenes: 179
 
 ## Overview
 
-** Deck of the Captured Moonrise Ship, Wyrm's Tooth appears in 4 scenes across the [[nocturne-bg3-continued]] campaign.
+** Deck of the Captured Moonrise Ship, Wyrm's Tooth appears in 4 scenes across the [nocturne-bg3-continued](../sources/nocturne-bg3-continued.md) campaign.
 
 ## Description
 
 ** Deck of the Captured Moonrise Ship, Wyrm's Tooth is an entity from the nocturne-bg3-continued campaign.
 
 ## References
-- [[nocturne-bg3-continued]] — campaign overview
-- [[nocturne-bg3-continued-campaign]]
+- [nocturne-bg3-continued](../sources/nocturne-bg3-continued.md) — campaign overview
+- [nocturne-bg3-continued-campaign](../sources/nocturne-bg3-continued-campaign.md)
 

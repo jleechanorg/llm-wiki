@@ -24,6 +24,6 @@ Dice rolling protocol requiring all dice values to be obtained through code exec
 - Opposed: Both sides roll, higher total wins
 
 ## Related Concepts
-- [[CodeExecutionMode]] — Gemini code execution environment
+- [CodeExecutionMode](CodeExecutionMode.md) — Gemini code execution environment
 - [[ProvablyFairDiceRolls]] — cryptographic commitment for verifiable rolls
-- [[DCOrderingEnforcement]] — ensures fair DC assignment before rolling
+- [DCOrderingEnforcement](DCOrderingEnforcement.md) — ensures fair DC assignment before rolling

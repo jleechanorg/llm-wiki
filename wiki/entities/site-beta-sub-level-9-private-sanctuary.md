@@ -10,13 +10,13 @@ total_scenes: 685
 
 ## Overview
 
-** Site Beta - Sub-Level 9 Private Sanctuary appears in 4 scenes across the [[sariel-killer]] campaign.
+** Site Beta - Sub-Level 9 Private Sanctuary appears in 4 scenes across the [sariel-killer](../sources/sariel-killer.md) campaign.
 
 ## Description
 
 ** Site Beta - Sub-Level 9 Private Sanctuary is an entity from the sariel-killer campaign.
 
 ## References
-- [[sariel-killer]] — campaign overview
-- [[sariel-killer-campaign]]
+- [sariel-killer](../sources/sariel-killer.md) — campaign overview
+- [sariel-killer-campaign](../sources/sariel-killer-campaign.md)
 

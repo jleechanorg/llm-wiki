@@ -10,13 +10,13 @@ total_scenes: 1027
 
 ## Overview
 
-** High Hall District - Gilded Ateliers appears in 13 scenes across the [[nocturne-bg3-after]] campaign.
+** High Hall District - Gilded Ateliers appears in 13 scenes across the [nocturne-bg3-after](../sources/nocturne-bg3-after.md) campaign.
 
 ## Description
 
 ** High Hall District - Gilded Ateliers is an entity from the nocturne-bg3-after campaign.
 
 ## References
-- [[nocturne-bg3-after]] — campaign overview
-- [[nocturne-bg3-after-campaign]]
+- [nocturne-bg3-after](../sources/nocturne-bg3-after.md) — campaign overview
+- [nocturne-bg3-after-campaign](../sources/nocturne-bg3-after-campaign.md)
 

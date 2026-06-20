@@ -23,5 +23,5 @@ Encounter difficulty scaling system for high-magic campaigns where players have 
 - Consider exhaustion for forced marches
 
 ## Related Concepts
-- [[Attunement]] — item slot configuration
-- [[MassCombat]] — large-scale combat
+- [Attunement](Attunement.md) — item slot configuration
+- [MassCombat](MassCombat.md) — large-scale combat

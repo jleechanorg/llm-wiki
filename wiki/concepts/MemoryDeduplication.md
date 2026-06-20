@@ -20,5 +20,5 @@ Uses sliding window approach (DEDUPE_WINDOW_SIZE, default 20) to check only rece
 - Supporting long-running campaigns (800+ memories)
 
 ## Connected To
-- [[MemoryUtils]] — implements deduplication functions
+- [MemoryUtils](../entities/MemoryUtils.md) — implements deduplication functions
 - [[Memory Budget Alignment]] — deduplication works within token budget constraints

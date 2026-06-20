@@ -24,7 +24,7 @@ High merge velocity without corresponding test/coverage increase.
 
 ## Connections
 
-- [[RewardsBoxAtomicity]] — rewards_box atomicity bugs in world_logic.py
-- [[StructureDriftPattern]] — structural drift in world_logic.py response assembly
-- [[LevelUpBug]] — level-up bug chain
-- [[MergeReadiness]] — merge readiness criteria
+- [RewardsBoxAtomicity](RewardsBoxAtomicity.md) — rewards_box atomicity bugs in world_logic.py
+- [StructureDriftPattern](StructureDriftPattern.md) — structural drift in world_logic.py response assembly
+- [LevelUpBug](LevelUpBug.md) — level-up bug chain
+- [MergeReadiness](MergeReadiness.md) — merge readiness criteria

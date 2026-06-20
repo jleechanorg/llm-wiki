@@ -13,5 +13,5 @@ Legal framework governing redistribution and modification of open-source softwar
 - Copyleft: GPL, LGPL, MPL
 
 ## Related Concepts
-- [[BSDLicense]] — permissive license used in Chromium
+- [BSDLicense](BSDLicense.md) — permissive license used in Chromium
 - [[Copyright]] — legal foundation for licensing

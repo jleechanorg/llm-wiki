@@ -11,11 +11,11 @@ Grand Master Satele Shan is a major Force-using NPC in the Alexiel SW:TOR campai
 
 ## Key Details
 - **Category:** Person / NPC / Force User / Jedi Grand Master
-- **Campaign(s):** [[alexiel-swtor-campaign]]
+- **Campaign(s):** [alexiel-swtor-campaign](../sources/alexiel-swtor-campaign.md)
 - **Title:** Grand Master
 - **Physical Description:** Golden aura, described as a "steady, observational beacon"
 - **Role:** Represents the Jedi Order's wisdom and authority in the campaign; appears alongside Master Ogan De as a gallery of Force ghosts
 
 ## Connections
-- [[MasterOganDe]] — fellow Jedi Master appearing with her in the campaign
-- [[Alexiel]] — campaign protagonist who interacts with her
+- [MasterOganDe](MasterOganDe.md) — fellow Jedi Master appearing with her in the campaign
+- [Alexiel](Alexiel.md) — campaign protagonist who interacts with her

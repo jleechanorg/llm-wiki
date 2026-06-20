@@ -45,24 +45,24 @@ This page maps all known evidence sources related to the level-up bug chain: bea
 ## Existing Wiki Coverage
 
 ### Core Bug Chain Pages (complete)
-- [[LevelUpBug.md]] — 8+ PR chain: #6161→#6179→#6193→#6195→#6196→#6204→#6165
-- [[RewardsBoxAtomicity.md]] — 6 atomicity violations in rewards_box/planning_block
-- [[DiceRollDebugRegression.md]] — 3-week regression window, backend payload emission hypothesis
-- [[StructureDriftPattern.md]] — 5 fields nested inside rewards_box block, checkpoint PR #2162 root cause
+- [LevelUpBug.md](LevelUpBug.md) — 8+ PR chain: #6161→#6179→#6193→#6195→#6196→#6204→#6165
+- [RewardsBoxAtomicity.md](RewardsBoxAtomicity.md) — 6 atomicity violations in rewards_box/planning_block
+- [DiceRollDebugRegression.md](DiceRollDebugRegression.md) — 3-week regression window, backend payload emission hypothesis
+- [StructureDriftPattern.md](StructureDriftPattern.md) — 5 fields nested inside rewards_box block, checkpoint PR #2162 root cause
 
 ### Supporting Concept Pages
-- [[LevelUpStateManagement.md]] — stale flags: `level_up_in_progress`, `rewards_pending`
-- [[LevelUpActiveStateLogic.md]] — REV-0g1y routing vs injection inconsistency
-- [[LevelUpModalRouting.md]] — state machine routing with explicit False blocking
-- [[LevelUpDetection.md]] — XP threshold trigger logic
-- [[DiceRollingProtocol.md]] — code execution with random.randint(), DC before roll
-- [[DiceRollsNormalization.md]] — legacy dice_rolls → mechanics.rolls migration
-- [[RewardsBox.md]] — rewards_box JSON structure
-- [[RewardsProcessedFlag.md]] — deferred rewards processing
+- [LevelUpStateManagement.md](LevelUpStateManagement.md) — stale flags: `level_up_in_progress`, `rewards_pending`
+- [LevelUpActiveStateLogic.md](LevelUpActiveStateLogic.md) — REV-0g1y routing vs injection inconsistency
+- [LevelUpModalRouting.md](LevelUpModalRouting.md) — state machine routing with explicit False blocking
+- [LevelUpDetection.md](LevelUpDetection.md) — XP threshold trigger logic
+- [DiceRollingProtocol.md](DiceRollingProtocol.md) — code execution with random.randint(), DC before roll
+- [DiceRollsNormalization.md](DiceRollsNormalization.md) — legacy dice_rolls → mechanics.rolls migration
+- [RewardsBox.md](RewardsBox.md) — rewards_box JSON structure
+- [RewardsProcessedFlag.md](RewardsProcessedFlag.md) — deferred rewards processing
 
 ### Entity Pages
-- [[RewardsBoxBuilder.md]] — normalize_rewards_box_for_ui with has_visible_content sentinel
-- [[LevelUpAgent.md]] — modal routing agent (REV-439p, REV-0g1y)
+- [RewardsBoxBuilder.md](../entities/RewardsBoxBuilder.md) — normalize_rewards_box_for_ui with has_visible_content sentinel
+- [LevelUpAgent.md](../entities/LevelUpAgent.md) — modal routing agent (REV-439p, REV-0g1y)
 
 ### Source Pages (PR coverage)
 All key PRs have source pages: #6161, #6179, #6193, #6194, #6195, #6196, #6197, #6204, #6165
@@ -73,11 +73,11 @@ These findings from beads/memory/roadmap have NO wiki page yet:
 
 | Finding | Status | Gap |
 |---------|--------|-----|
-| Level-up polling from canonical `rewards_pending` (rev-ldfd) | Not in wiki | Missing [[LevelUpPolling]] concept page |
-| Flash-lite model excluded from MODELS_WITH_CODE_EXECUTION (rev-xxsx) | Not in wiki | Missing [[DiceProviderFallback]] concept page |
-| Frontend `app.js:924` rewards gate `xp_gained > 0` (rev-qcax) | Not in wiki | Missing [[FrontendRewardsBoxGate]] concept page |
+| Level-up polling from canonical `rewards_pending` (rev-ldfd) | Not in wiki | Missing [LevelUpPolling](LevelUpPolling.md) concept page |
+| Flash-lite model excluded from MODELS_WITH_CODE_EXECUTION (rev-xxsx) | Not in wiki | Missing [DiceProviderFallback](DiceProviderFallback.md) concept page |
+| Frontend `app.js:924` rewards gate `xp_gained > 0` (rev-qcax) | Not in wiki | Missing [FrontendRewardsBoxGate](FrontendRewardsBoxGate.md) concept page |
 | Green-gate `--jq`/`--paginate` pagination bug (930ed371d6) | Not in wiki | Mentioned in PR #6161 bug hunt source, not a standalone page |
-| System messages are separate from rewards_box (jleechan-orke) | Not in wiki | Missing [[SystemMessageEmissionPath]] concept page |
+| System messages are separate from rewards_box (jleechan-orke) | Not in wiki | Missing [SystemMessageEmissionPath](SystemMessageEmissionPath.md) concept page |
 
 ## Key Sentinel Contract
 
@@ -101,8 +101,8 @@ If empty dict returns non-None → `_process_rewards_followup` silently skips al
 
 ## Connections
 
-- [[LevelUpBug]] — core bug chain page
-- [[RewardsBoxAtomicity]] — atomicity invariant
-- [[StructureDriftPattern]] — root cause of field nesting
-- [[LevelUpStateManagement]] — stale flag bugs
-- [[DiceRollDebugRegression]] — dice regression investigation
+- [LevelUpBug](LevelUpBug.md) — core bug chain page
+- [RewardsBoxAtomicity](RewardsBoxAtomicity.md) — atomicity invariant
+- [StructureDriftPattern](StructureDriftPattern.md) — root cause of field nesting
+- [LevelUpStateManagement](LevelUpStateManagement.md) — stale flag bugs
+- [DiceRollDebugRegression](DiceRollDebugRegression.md) — dice regression investigation

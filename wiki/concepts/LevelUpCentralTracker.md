@@ -15,7 +15,7 @@ branch-local handoff.
 
 ### 2026-04-19 stack update (split PRs + migration)
 
-The **split stack** superseded the single “#6358 vs #6361” landing framing: **#6372** and **#6373** merged; **#6370** (split A) remains the production canonicalization path to `main`. **#6379** (contract/gate) targets **`test/level-up-centralization-migration`**; **#6387** brings migration to **`main`** — see wiki source [[worldarchitect-level-up-session-2026-04-19]]. Re-verify PR state with GitHub before planning merges.
+The **split stack** superseded the single “#6358 vs #6361” landing framing: **#6372** and **#6373** merged; **#6370** (split A) remains the production canonicalization path to `main`. **#6379** (contract/gate) targets **`test/level-up-centralization-migration`**; **#6387** brings migration to **`main`** — see wiki source [worldarchitect-level-up-session-2026-04-19](../sources/worldarchitect-level-up-session-2026-04-19.md). Re-verify PR state with GitHub before planning merges.
 
 ## Current Landing Rule
 
@@ -35,7 +35,7 @@ track instead of becoming competing landing targets.
 
 ## Connections
 
-- [[RewardsBoxAtomicity]] - rewards_box and planning_block must stay consistent.
-- [[StreamingPassthroughNormalization]] - streaming canonicalization must not bypass normalization.
-- [[LevelUpBugInvestigation]] - broader history of level-up regressions and root causes.
-- [[MinimalReproLadder]] - evidence structure for keeping fixes testable.
+- [RewardsBoxAtomicity](RewardsBoxAtomicity.md) - rewards_box and planning_block must stay consistent.
+- [StreamingPassthroughNormalization](StreamingPassthroughNormalization.md) - streaming canonicalization must not bypass normalization.
+- [LevelUpBugInvestigation](LevelUpBugInvestigation.md) - broader history of level-up regressions and root causes.
+- [MinimalReproLadder](MinimalReproLadder.md) - evidence structure for keeping fixes testable.

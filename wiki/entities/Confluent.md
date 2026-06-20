@@ -19,11 +19,11 @@ Confluent provides stream governance via Schema Registry and Control Center. It 
 
 ## Connections
 
-- [[StreamGovernance]] — Confluent's core governance concept
-- [[SchemaIDValidation]] — broker-side schema ID verification
-- [[DataContracts]] — producer-consumer schema agreements
-- [[FailClosedValidation]] — Confluent's fail-closed batch discard pattern
+- [StreamGovernance](../concepts/StreamGovernance.md) — Confluent's core governance concept
+- [SchemaIDValidation](../concepts/SchemaIDValidation.md) — broker-side schema ID verification
+- [DataContracts](../concepts/DataContracts.md) — producer-consumer schema agreements
+- [FailClosedValidation](../concepts/FailClosedValidation.md) — Confluent's fail-closed batch discard pattern
 
 ## See Also
-- [[StreamGovernance]]
-- [[FailClosedValidation]]
+- [StreamGovernance](../concepts/StreamGovernance.md)
+- [FailClosedValidation](../concepts/FailClosedValidation.md)

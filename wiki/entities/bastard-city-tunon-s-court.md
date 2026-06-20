@@ -10,13 +10,13 @@ total_scenes: 291
 
 ## Overview
 
-** Bastard City - Tunon's Court appears in 20 scenes across the [[tyranny]] campaign.
+** Bastard City - Tunon's Court appears in 20 scenes across the [tyranny](../sources/tyranny.md) campaign.
 
 ## Description
 
 ** Bastard City - Tunon's Court is an entity from the tyranny campaign.
 
 ## References
-- [[tyranny]] — campaign overview
-- [[tyranny-campaign]]
+- [tyranny](../sources/tyranny.md) — campaign overview
+- [tyranny-campaign](../sources/tyranny-campaign.md)
 

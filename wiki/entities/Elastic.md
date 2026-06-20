@@ -18,7 +18,7 @@ Elastic (Elasticsearch) provides Search AI Lake with hybrid search capabilities 
 ## Connections
 
 - [[Observability]] — Elastic provides search and observability infrastructure
-- [[DriftDetection]] — could be used for ML observability
+- [DriftDetection](../concepts/DriftDetection.md) — could be used for ML observability
 
 ## See Also
 - [[Observability]]

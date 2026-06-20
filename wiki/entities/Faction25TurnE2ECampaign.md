@@ -14,6 +14,6 @@ End-to-end test campaign used for validating timestamp progression, level progre
 - **Iteration 005**: After 5 prompt clarifications, resolved most issues
 
 ## Connections
-- [[TimestampProgression]] — tested for forward progression
-- [[LevelProgression]] — tested for incremental advancement
-- [[GoldTracking]] — tested for dual pool tracking
+- [TimestampProgression](../concepts/TimestampProgression.md) — tested for forward progression
+- [LevelProgression](../concepts/LevelProgression.md) — tested for incremental advancement
+- [GoldTracking](../concepts/GoldTracking.md) — tested for dual pool tracking

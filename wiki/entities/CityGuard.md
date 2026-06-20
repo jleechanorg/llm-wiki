@@ -10,5 +10,5 @@ last_updated: 2026-04-08
 Faction in the Living World system. City Guard Captain doubles patrols in the market district as a background event.
 
 ## Connections
-- [[LivingWorld]] — provides background events for the campaign
-- [[DebugEventsExport]] — exports guard activities in campaign exports
+- [LivingWorld](../concepts/LivingWorld.md) — provides background events for the campaign
+- [DebugEventsExport](../concepts/DebugEventsExport.md) — exports guard activities in campaign exports

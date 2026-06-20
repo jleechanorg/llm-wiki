@@ -19,10 +19,10 @@ Auctoritas (Latin: "authority, command, prestige") is a recurring metaphysical c
 
 ## Examples Across Campaigns
 
-- [[GaiaJuliaCaesar]] — "Auctoritas (Spellcasting)" — casts spells by asserting will; Command = triggering primal obedience reflex; Shield = bending Fate
+- [GaiaJuliaCaesar](../entities/GaiaJuliaCaesar.md) — "Auctoritas (Spellcasting)" — casts spells by asserting will; Command = triggering primal obedience reflex; Shield = bending Fate
 - [[AureliusJuliusCaesar]] — "Auctoritas (The Golden Gravity)" — CHA replaces STR; The Miasma = allies gain temp HP, enemies can't look directly; Aura of Gravity makes the area around him difficult terrain
-- [[NocturneSosuke]] — "Her whispers rewrite the laws of physics"; presence alone shapes the battlefield
-- [[VisenyaBelaerys]] — "The Noblest Dialect" — CHA checks on dragons/Valyrians have Advantage; a word in High Valyrian stops a dragon's rage
+- [NocturneSosuke](../entities/NocturneSosuke.md) — "Her whispers rewrite the laws of physics"; presence alone shapes the battlefield
+- [VisenyaBelaerys](../entities/VisenyaBelaerys.md) — "The Noblest Dialect" — CHA checks on dragons/Valyrians have Advantage; a word in High Valyrian stops a dragon's rage
 
 ## Variants
 
@@ -35,6 +35,6 @@ Auctoritas (Latin: "authority, command, prestige") is a recurring metaphysical c
 
 ## Related Concepts
 
-- [[TheSingularity]] — Auctoritas is the mechanic through which Singularities dominate
-- [[CustomCHABasedMartialClasses]] — The class structures that formalize Auctoritas
+- [TheSingularity](TheSingularity.md) — Auctoritas is the mechanic through which Singularities dominate
+- [CustomCHABasedMartialClasses](CustomCHABasedMartialClasses.md) — The class structures that formalize Auctoritas
 - [[TieredCampaignProgression]] — Auctoritas scales through tiers, from social bonus to reality warping

@@ -16,8 +16,8 @@ Qwen is a large language model family developed by Alibaba Cloud, available via 
 - **Performance**: Fast generation times (500ms benchmarked)
 
 ## Connections
-- [[Cerebras]] — Primary deployment platform
+- [Cerebras](Cerebras.md) — Primary deployment platform
 - [[AlibabaCloud]] — Model developer
 
 ## In Wiki
-- Source: [[cerebras-qwen-command-matrix-tdd-tests]]
+- Source: [cerebras-qwen-command-matrix-tdd-tests](../sources/cerebras-qwen-command-matrix-tdd-tests.md)

@@ -20,4 +20,4 @@ Visual validation differs from functional testing by focusing on how elements ap
 ## Related Concepts
 - [[AccessibilityTesting]] — focuses on WCAG compliance
 - [[AutomatedUITesting]] — broader category including visual checks
-- [[Playwright]] — full-stack testing framework with visual regression capabilities
+- [Playwright](Playwright.md) — full-stack testing framework with visual regression capabilities

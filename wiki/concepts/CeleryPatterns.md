@@ -176,9 +176,9 @@ def sensitive_task(self, data: dict):
 
 ## Connections
 
-- [[FastAPIErrorHandling]] — Celery's task error handling pairs well with FastAPI. FastAPI endpoints dispatch Celery tasks and return a `task_id`; clients poll or use WebSocket for result updates.
-- [[AsyncioOrchestrationMigration]] — Celery predates async/await in Python. Modern code may replace Celery's blocking `.get()` with async wrappers (`celery.asyncio`).
-- [[AutoRetryMechanism]] — Celery's retry decorator is the canonical implementation of exponential backoff with jitter — the same pattern referenced for API client retry logic.
+- [FastAPIErrorHandling](FastAPIErrorHandling.md) — Celery's task error handling pairs well with FastAPI. FastAPI endpoints dispatch Celery tasks and return a `task_id`; clients poll or use WebSocket for result updates.
+- [AsyncioOrchestrationMigration](AsyncioOrchestrationMigration.md) — Celery predates async/await in Python. Modern code may replace Celery's blocking `.get()` with async wrappers (`celery.asyncio`).
+- [AutoRetryMechanism](AutoRetryMechanism.md) — Celery's retry decorator is the canonical implementation of exponential backoff with jitter — the same pattern referenced for API client retry logic.
 
 ## What This Means for Code Generation
 

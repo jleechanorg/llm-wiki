@@ -30,20 +30,20 @@ Nocturne was never meant to be a hero -- she was meant to be merchandise. Born i
 
 ## Key Relationships
 
-- **[[Elara]]** -- Eldest sister, rescued from Cassalanter ritual, noble poise shattered
-- **[[Lyra]]** -- Younger sister, rescued from Cassalanter ritual, hollow and traumatized
-- **[[Vaximus]]** -- Henchman, retrieved family ledgers and Cassalanter soul coins
+- **[Elara](Elara.md)** -- Eldest sister, rescued from Cassalanter ritual, noble poise shattered
+- **[Lyra](Lyra.md)** -- Younger sister, rescued from Cassalanter ritual, hollow and traumatized
+- **[Vaximus](Vaximus.md)** -- Henchman, retrieved family ledgers and Cassalanter soul coins
 - **[[TheBloomShadow]]** -- Brothel/organization that enslaved her family
-- **[[CassalanterFamily]]** -- Noble house that created the debt and ran the soul-tithe ritual
+- **[CassalanterFamily](CassalanterFamily.md)** -- Noble house that created the debt and ran the soul-tithe ritual
 - **[[Zariel]]** -- Archdevil of Avernus, Nocturne now serves as proxy
 
 ## Campaign Appearance
 
-First appearance: [[faction-nocturne-bg3-v3-entry-001]] -- Scene 1, Timestamp: 1492 DR, Mirtul 22, 02:15, Location: Sunder-Stone Villa (Whispering Cellar). Nocturne stands at the center of a redirected ritual nexus, palms ember-glowing, sisters stumbling free of crystalline cages.
+First appearance: [faction-nocturne-bg3-v3-entry-001](../sources/faction-nocturne-bg3-v3-entry-001.md) -- Scene 1, Timestamp: 1492 DR, Mirtul 22, 02:15, Location: Sunder-Stone Villa (Whispering Cellar). Nocturne stands at the center of a redirected ritual nexus, palms ember-glowing, sisters stumbling free of crystalline cages.
 
 ## Connections
 
-- [[faction-nocturne-bg3-v3-campaign]] -- Campaign overview
-- [[CollegeOfPerdition]] -- Her bard college
-- [[SoulTithe]] -- The mechanic she exploited
-- [[SunderStoneVilla]] -- Setting location
+- [faction-nocturne-bg3-v3-campaign](../sources/faction-nocturne-bg3-v3-campaign.md) -- Campaign overview
+- [CollegeOfPerdition](../concepts/CollegeOfPerdition.md) -- Her bard college
+- [SoulTithe](../concepts/SoulTithe.md) -- The mechanic she exploited
+- [SunderStoneVilla](SunderStoneVilla.md) -- Setting location

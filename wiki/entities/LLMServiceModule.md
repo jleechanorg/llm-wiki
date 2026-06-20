@@ -11,4 +11,4 @@ last_updated: 2026-04-08
 
 ## Related Pages
 - [[TDDTestsClassifyRawNarrativeHelper]] — test suite defining the helper's contract
-- [[NarrativeResponseSchema]] — defines `JSON_PARSE_FALLBACK_MARKER` constant
+- [NarrativeResponseSchema](NarrativeResponseSchema.md) — defines `JSON_PARSE_FALLBACK_MARKER` constant

@@ -24,5 +24,5 @@ The OpenAI proxy tests validate:
 - Gateway unreachable: 502 Bad Gateway
 
 ## Related Concepts
-- [[APIKeyValidation]] — the specific validation logic
-- [[ErrorHandling]] — response codes for auth failures
+- [APIKeyValidation](APIKeyValidation.md) — the specific validation logic
+- [ErrorHandling](ErrorHandling.md) — response codes for auth failures

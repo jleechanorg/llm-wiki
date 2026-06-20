@@ -26,5 +26,5 @@ Python module responsible for loading GCP service account credentials from files
 - Comprehensive error messages
 
 ## Connected Pages
-- [[CredentialLoading]] — loading mechanism
-- [[CredentialValidation]] — validation logic
+- [CredentialLoading](../concepts/CredentialLoading.md) — loading mechanism
+- [CredentialValidation](../concepts/CredentialValidation.md) — validation logic

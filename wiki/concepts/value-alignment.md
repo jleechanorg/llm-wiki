@@ -28,5 +28,5 @@ The ZFC design doc's fail-closed rules enforce that malformed model signals are 
 ## See Also
 - [[CIRL]]
 - [[Human-Compatible-AI]]
-- [[Corrigibility]]
-- [[ZFC-Level-Up-Architecture]]
+- [Corrigibility](Corrigibility.md)
+- [ZFC-Level-Up-Architecture](ZFC-Level-Up-Architecture.md)

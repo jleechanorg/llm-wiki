@@ -54,7 +54,7 @@ Pre-defined palettes inspired by Chrono Trigger SNES sprites:
 
 ## Relationship to Other Systems
 
-- Provides LLM-generated sprites vs [[spritesheet-ts]] procedural fallback
+- Provides LLM-generated sprites vs [spritesheet-ts](spritesheet-ts.md) procedural fallback
 - Part of [[SpriteGenerationSystem]] dual approach
 - Produces [[ChronoTriggerStyleSpriteSheets]] output
 - Uses [[GrokImageAPIIntegrationForGameAssets]] for API calls

@@ -10,13 +10,13 @@ total_scenes: 685
 
 ## Overview
 
-** Blackwood Academy - Hallway appears in 6 scenes across the [[sariel-killer]] campaign.
+** Blackwood Academy - Hallway appears in 6 scenes across the [sariel-killer](../sources/sariel-killer.md) campaign.
 
 ## Description
 
 ** Blackwood Academy - Hallway is an entity from the sariel-killer campaign.
 
 ## References
-- [[sariel-killer]] — campaign overview
-- [[sariel-killer-campaign]]
+- [sariel-killer](../sources/sariel-killer.md) — campaign overview
+- [sariel-killer-campaign](../sources/sariel-killer-campaign.md)
 

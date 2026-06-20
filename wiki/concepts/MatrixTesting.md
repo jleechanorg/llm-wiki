@@ -20,6 +20,6 @@ The test file organizes tests into matrices:
 - Matrix 2: Command Input Variations (Prompt × Flags × Context)
 
 ## Connections
-- [[TestDrivenDevelopment]] — Often combined with matrix testing
+- [TestDrivenDevelopment](TestDrivenDevelopment.md) — Often combined with matrix testing
 - [[CombinatorialTesting]] — Broader category
 - [[BoundaryValueAnalysis]] — Related technique

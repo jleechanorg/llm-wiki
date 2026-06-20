@@ -15,5 +15,5 @@ Deployment shell script that copies world content files to the mvp_site director
 - Failure to copy results in FileNotFoundError at runtime when world content is loaded
 
 ## Related
-- [[WorldLoader]] — depends on world files being copied by deploy.sh
-- [[DockerBuildContext]] — the target environment where files must be accessible
+- [WorldLoader](WorldLoader.md) — depends on world files being copied by deploy.sh
+- [DockerBuildContext](../concepts/DockerBuildContext.md) — the target environment where files must be accessible

@@ -19,9 +19,9 @@ OpenAI's /v1/chat/completions API specification that has become a de facto stand
 - [[OpenAI-Compatible Chat Completions Shared Core]] — shared implementation
 
 ## Provider Implementations
-- [[OpenRouter]]
-- [[Cerebras]]
-- [[OpenClaw]]
+- [OpenRouter](../entities/OpenRouter.md)
+- [Cerebras](../entities/Cerebras.md)
+- [OpenClaw](../entities/OpenClaw.md)
 
 ## Related Concepts
 - [[Tool Calling]] — function calling extension

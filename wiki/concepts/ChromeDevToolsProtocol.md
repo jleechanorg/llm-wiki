@@ -43,7 +43,7 @@ Your Code/CLI → chrome-ws → Native WebSocket → CDP
 - Visual regression
 
 ## Related Concepts
-- [[BrowserAutomation]]
-- [[WebSocketProtocol]]
-- [[Playwright]]
-- [[SuperpowersChrome]]
+- [BrowserAutomation](BrowserAutomation.md)
+- [WebSocketProtocol](WebSocketProtocol.md)
+- [Playwright](Playwright.md)
+- [SuperpowersChrome](../entities/SuperpowersChrome.md)

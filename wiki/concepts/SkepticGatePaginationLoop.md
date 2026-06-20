@@ -30,6 +30,6 @@ green-gate pagination bug `930ed371d6` — `--jq` incompatible with `--paginate`
 
 ## Connections
 
-- [[SkepticGate]] — skeptic-gate workflow
+- [SkepticGate](SkepticGate.md) — skeptic-gate workflow
 - [[GreenGate]] — green-gate CI
 - [[EvidenceGate]] — evidence-gate workflow

@@ -10,13 +10,13 @@ total_scenes: 253
 
 ## Overview
 
-** Wilderness, South of Beregost appears in 4 scenes across the [[bg1-nocturne]] campaign.
+** Wilderness, South of Beregost appears in 4 scenes across the [bg1-nocturne](../sources/bg1-nocturne.md) campaign.
 
 ## Description
 
 ** Wilderness, South of Beregost is an entity from the bg1-nocturne campaign.
 
 ## References
-- [[bg1-nocturne]] — campaign overview
-- [[bg1-nocturne-campaign]]
+- [bg1-nocturne](../sources/bg1-nocturne.md) — campaign overview
+- [bg1-nocturne-campaign](../sources/bg1-nocturne-campaign.md)
 

@@ -15,11 +15,11 @@ Import tests are unit tests that verify module dependencies are available and pr
 - Serve as a smoke test for the application stack
 
 ## Test Coverage
-- [[FirestoreService]] — add_story_entry, create_campaign
-- [[LLMService]] — continue_story
+- [FirestoreService](FirestoreService.md) — add_story_entry, create_campaign
+- [LLMService](LLMService.md) — continue_story
 - [[Main]] — create_app (Flask factory)
-- [[GameState]] — GameState class
-- [[Constants]] — structured field constants
-- [[StructuredFieldsUtils]] — extract_structured_fields
-- [[NarrativeResponseSchema]] — NarrativeResponse
-- [[LLMResponse]] — LLMResponse
+- [GameState](GameState.md) — GameState class
+- [Constants](Constants.md) — structured field constants
+- [StructuredFieldsUtils](StructuredFieldsUtils.md) — extract_structured_fields
+- [NarrativeResponseSchema](NarrativeResponseSchema.md) — NarrativeResponse
+- [LLMResponse](LLMResponse.md) — LLMResponse

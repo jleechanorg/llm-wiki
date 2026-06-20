@@ -17,8 +17,8 @@ Snowflake is an enterprise data warehouse with Cortex AI for governance-aware AI
 
 ## Connections
 
-- [[GovernanceLayer]] — Snowflake's Cortex AI provides governance-aware AI
+- [GovernanceLayer](../concepts/GovernanceLayer.md) — Snowflake's Cortex AI provides governance-aware AI
 - [[DataGovernance]] — Snowflake has built-in data governance
 
 ## See Also
-- [[GovernanceLayer]]
+- [GovernanceLayer](../concepts/GovernanceLayer.md)

@@ -15,5 +15,5 @@ Testing practice of verifying code paths exercise all schema-defined fields. The
 4. Fail if --fail-under threshold not met
 
 ## Related
-- [[CheckSchemaCoverage]] — script that performs coverage validation
-- [[SchemaStrictness]] — what coverage validates
+- [CheckSchemaCoverage](../entities/CheckSchemaCoverage.md) — script that performs coverage validation
+- [SchemaStrictness](SchemaStrictness.md) — what coverage validates

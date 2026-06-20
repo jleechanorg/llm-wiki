@@ -25,6 +25,6 @@ Delegation system allowing Sovereigns to assign NPCs to specialized domains for 
 - Portfolio success affects Sovereign's domain
 
 ## Related
-- [[SovereignProtocol]] — System using portfolios
-- [[LogicSiege]] — War portfolio enhances combat
+- [SovereignProtocol](../entities/SovereignProtocol.md) — System using portfolios
+- [LogicSiege](../entities/LogicSiege.md) — War portfolio enhances combat
 - [[SovereignAscensionCeremony]] — How Sub-Deities are created

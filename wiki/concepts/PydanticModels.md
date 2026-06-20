@@ -19,5 +19,5 @@ Pydantic is a Python library for data validation and settings management using P
 The entity schema uses Pydantic to enforce D&D stat ranges (1-30), convert defensive numeric values, and provide type-safe enums for entity classification.
 
 ## Related
-- [[DefensiveNumericConverter]] — defensive value conversion for edge cases
+- [DefensiveNumericConverter](DefensiveNumericConverter.md) — defensive value conversion for edge cases
 - [[EntityTrackingSchema]] — application of Pydantic models to entity tracking

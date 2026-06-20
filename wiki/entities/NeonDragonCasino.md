@@ -20,8 +20,8 @@ The casino serves as a neutral ground where law enforcement and criminal element
 
 ## Connections
 
-- [[Sariel]] — Employee
+- [Sariel](Sariel.md) — Employee
 - [[HuntingPartySarielCampaign]] — Campaign
 - [[FBI]] — Unofficial employer
-- [[BloodDragon]] — Sariel's past identity
-- [[SerialKillerExtraction]] — Campaign premise
+- [BloodDragon](../concepts/BloodDragon.md) — Sariel's past identity
+- [SerialKillerExtraction](../concepts/SerialKillerExtraction.md) — Campaign premise

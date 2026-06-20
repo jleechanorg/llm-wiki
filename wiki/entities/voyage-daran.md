@@ -16,7 +16,7 @@ The Thieves' Guild's Hand (regional boss) for the Silverflow river trade. Sharp,
 > "You are a dangerous woman, Alexiel. Most people in my line of work prefer to stay in the shadows where it's safe." — Daran, after signing the lease (Turn 33)
 
 ## Connections
-- [[alexiel-larion]] — primary campaign source
-- [[Lifestone]] — the contraband he smuggles
+- [alexiel-larion](../sources/alexiel-larion.md) — primary campaign source
+- [Lifestone](../concepts/Lifestone.md) — the contraband he smuggles
 - [[ThievesGuild]] — the organization he represents
-- [[voyage-lady-ashbury]] — fellow regional power-broker Alexiel also courts
+- [voyage-lady-ashbury](voyage-lady-ashbury.md) — fellow regional power-broker Alexiel also courts

@@ -10,13 +10,13 @@ total_scenes: 1065
 
 ## Overview
 
-** Ashford Royal Pavilion (Grand Dining Tent) appears in 11 scenes across the [[visenya-v1-dunk-and-egg]] campaign.
+** Ashford Royal Pavilion (Grand Dining Tent) appears in 11 scenes across the [visenya-v1-dunk-and-egg](../sources/visenya-v1-dunk-and-egg.md) campaign.
 
 ## Description
 
 ** Ashford Royal Pavilion (Grand Dining Tent) is an entity from the visenya-v1-dunk-and-egg campaign.
 
 ## References
-- [[visenya-v1-dunk-and-egg]] — campaign overview
-- [[visenya-v1-dunk-and-egg-campaign]]
+- [visenya-v1-dunk-and-egg](../sources/visenya-v1-dunk-and-egg.md) — campaign overview
+- [visenya-v1-dunk-and-egg-campaign](../sources/visenya-v1-dunk-and-egg-campaign.md)
 

@@ -16,5 +16,5 @@ def test_method(self):
 ```
 
 ## Related
-- [[DualModeTestMixin]] — often used together
-- [[MockServiceProvider]] — default mock provider
+- [DualModeTestMixin](DualModeTestMixin.md) — often used together
+- [MockServiceProvider](MockServiceProvider.md) — default mock provider

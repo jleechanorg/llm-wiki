@@ -10,13 +10,13 @@ total_scenes: 468
 
 ## Overview
 
-** Undercity - Zhentarim Primary Hub appears in 7 scenes across the [[aizen-bg3-v2]] campaign.
+** Undercity - Zhentarim Primary Hub appears in 7 scenes across the [aizen-bg3-v2](../sources/aizen-bg3-v2.md) campaign.
 
 ## Description
 
 ** Undercity - Zhentarim Primary Hub is an entity from the aizen-bg3-v2 campaign.
 
 ## References
-- [[aizen-bg3-v2]] — campaign overview
-- [[aizen-bg3-v2-campaign]]
+- [aizen-bg3-v2](../sources/aizen-bg3-v2.md) — campaign overview
+- [aizen-bg3-v2-campaign](../sources/aizen-bg3-v2-campaign.md)
 

@@ -10,13 +10,13 @@ total_scenes: 129
 
 ## Overview
 
-** Basalt Ridge (Southern Silt-Dunes) appears in 19 scenes across the [[aizen-thay-v1]] campaign.
+** Basalt Ridge (Southern Silt-Dunes) appears in 19 scenes across the [aizen-thay-v1](../sources/aizen-thay-v1.md) campaign.
 
 ## Description
 
 ** Basalt Ridge (Southern Silt-Dunes) is an entity from the aizen-thay-v1 campaign.
 
 ## References
-- [[aizen-thay-v1]] — campaign overview
-- [[aizen-thay-v1-campaign]]
+- [aizen-thay-v1](../sources/aizen-thay-v1.md) — campaign overview
+- [aizen-thay-v1-campaign](../sources/aizen-thay-v1-campaign.md)
 

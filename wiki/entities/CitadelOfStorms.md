@@ -13,6 +13,6 @@ The Citadel of Storms is the penthouse fortress of Emperor Vitiate on Dromund Ka
 This is where Nocturne's training and missions originate. The Citadel contains the Emperor's presence and the resources of Project Apotheosis.
 
 ## Connections
-- [[DromundKaas]] — Planet location
-- [[HouseVitiate]] — Controlling house
+- [DromundKaas](DromundKaas.md) — Planet location
+- [HouseVitiate](HouseVitiate.md) — Controlling house
 - [[EmperorVitiate]] — Ruler

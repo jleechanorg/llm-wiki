@@ -47,5 +47,5 @@ Result: Agents skip everything and rely on training data priors, which are often
 ## Related Concepts
 
 - [[Agent PR Sprawl]] — The problem this pattern helps solve
-- [[Harness5LayerModel]] — Skill consolidation addresses L2 (Context layer)
-- [[ZeroFrameworkCognition]] — The architectural principles being consolidated
+- [Harness5LayerModel](Harness5LayerModel.md) — Skill consolidation addresses L2 (Context layer)
+- [ZeroFrameworkCognition](ZeroFrameworkCognition.md) — The architectural principles being consolidated

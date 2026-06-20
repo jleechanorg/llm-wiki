@@ -26,11 +26,11 @@ Layer 1 — LLM Wiki (knowledge base — papers + canonical patterns + results)
 
 ## Key Components
 
-### [[AutoResearchLoop]] — Self-Discovering Meta-Research Loop
+### [AutoResearchLoop](AutoResearchLoop.md) — Self-Discovering Meta-Research Loop
 
 4-phase loop that analyzes PR history, generates novel hypotheses, implements via self-critique, scores via canonical scorer, and writes results to wiki + beads.
 
-### [[SelfCritiqueVerificationLoop]] — Self-Critique + Verification Loop
+### [SelfCritiqueVerificationLoop](SelfCritiqueVerificationLoop.md) — Self-Critique + Verification Loop
 
 3-iteration-cap verification combining ReVeal (2026) + Self-Correction (2025):
 - Phase 0: Chain canonical pattern prompt from wiki
@@ -38,12 +38,12 @@ Layer 1 — LLM Wiki (knowledge base — papers + canonical patterns + results)
 - Phase 2: Full test suite + sandboxed execution
 - Phase 3: Critique against test results; iterate if needed (max 3)
 
-### [[CanonicalCodeScorer]] — Rubric + Diff Scoring
+### [CanonicalCodeScorer](CanonicalCodeScorer.md) — Rubric + Diff Scoring
 
 Hybrid: 6-dimension weighted Pass/Fail rubric (70%) + token-level diff similarity (30%).
 Dimensions: Naming, Error Handling, Type Safety (30% weight), Test Coverage, Documentation, Evidence Standards.
 
-### [[ProductJudge]] — Product Taste Oracle
+### [ProductJudge](ProductJudge.md) — Product Taste Oracle
 
 Runs in completely isolated session. Scores 5 dimensions (0–100):
 - Strategic Alignment
@@ -54,7 +54,7 @@ Runs in completely isolated session. Scores 5 dimensions (0–100):
 
 Output: Approve / Minor Changes / Major Changes / Reject + concrete changes.
 
-### [[TasteLearningLoop]] — Taste Refinement Loop
+### [TasteLearningLoop](TasteLearningLoop.md) — Taste Refinement Loop
 
 Triggered on manual rejection/editing. 4 steps:
 1. Extract feedback + original PR
@@ -78,13 +78,13 @@ Triggered on manual rejection/editing. 4 steps:
 - **Continuous learning**: Every manual correction becomes permanent institutional knowledge via beads
 
 ## See Also
-- [[SelfCritiqueVerificationLoop]]
-- [[AutoResearchLoop]]
-- [[CanonicalCodeScorer]]
-- [[ProductJudge]]
-- [[TasteLearningLoop]]
-- [[ProductTasteLayer]]
-- [[auto-product-master-system]] — full master system source page
-- [[auto-research-experiment-v21]] — streamlined v2.1 source page
+- [SelfCritiqueVerificationLoop](SelfCritiqueVerificationLoop.md)
+- [AutoResearchLoop](AutoResearchLoop.md)
+- [CanonicalCodeScorer](CanonicalCodeScorer.md)
+- [ProductJudge](ProductJudge.md)
+- [TasteLearningLoop](TasteLearningLoop.md)
+- [ProductTasteLayer](ProductTasteLayer.md)
+- [auto-product-master-system](../sources/auto-product-master-system.md) — full master system source page
+- [auto-research-experiment-v21](../sources/auto-research-experiment-v21.md) — streamlined v2.1 source page
 - [[Self-Improving Coding Agents]]
 - [[LLM-as-Judge Pattern]]

@@ -19,5 +19,5 @@ Test file demonstrates Flask testing with test client fixture. Sets app.config["
 - Headers: {"X-Test-Bypass-Auth": "true"}
 
 ## Connections
-- [[TestFixtures]] — client fixture pattern
-- [[APIEndpointTesting]] — /api endpoints validation
+- [TestFixtures](TestFixtures.md) — client fixture pattern
+- [APIEndpointTesting](APIEndpointTesting.md) — /api endpoints validation

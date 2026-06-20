@@ -34,6 +34,6 @@ New Sovereigns start at **8/10 (LETHAL VELOCITY)** because:
 - Nearby Conductors may refuse engagement until Aggro is reduced
 
 ## Related Concepts
-- [[PanSubstrate]] — where Aggro Meter is tracked
-- [[SovereignLogic]] — can trigger high Aggro based on nature
-- [[Hegemony]] — faction whose actions affect Aggro
+- [PanSubstrate](../entities/PanSubstrate.md) — where Aggro Meter is tracked
+- [SovereignLogic](SovereignLogic.md) — can trigger high Aggro based on nature
+- [Hegemony](../entities/Hegemony.md) — faction whose actions affect Aggro

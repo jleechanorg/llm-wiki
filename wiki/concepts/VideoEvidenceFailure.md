@@ -10,7 +10,7 @@ last_updated: 2026-04-11
 
 Video evidence capture for UI/agent verification has been attempted extensively across the worldai-claw, worldarchitect.ai, and agent-orchestrator repos. Every attempt has either produced misleading evidence, failed to produce evidence at all, or required significant workarounds.
 
-Related: [[Harness5LayerModel]] — this failure spans L3 (execution: recording infrastructure) and L4 (verification: what the evidence actually proves).
+Related: [Harness5LayerModel](Harness5LayerModel.md) — this failure spans L3 (execution: recording infrastructure) and L4 (verification: what the evidence actually proves).
 
 ## What Was Tried
 
@@ -123,7 +123,7 @@ Line 673 in `test_full_lifecycle_video.py` asserts `video_frame_count >= 20` (fr
 
 ## Common Failure Pattern
 
-The failures share a common root cause across [[Harness5LayerModel]]:
+The failures share a common root cause across [Harness5LayerModel](Harness5LayerModel.md):
 
 **L3 (Execution) failures:**
 - Playwright video captures the DOM as rendered — includes the overlay canvas

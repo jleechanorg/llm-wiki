@@ -10,13 +10,13 @@ total_scenes: 277
 
 ## Overview
 
-** Yunkai (Upper Gardens) appears in 4 scenes across the [[visenya-v2]] campaign.
+** Yunkai (Upper Gardens) appears in 4 scenes across the [visenya-v2](../sources/visenya-v2.md) campaign.
 
 ## Description
 
 ** Yunkai (Upper Gardens) is an entity from the visenya-v2 campaign.
 
 ## References
-- [[visenya-v2]] — campaign overview
+- [visenya-v2](../sources/visenya-v2.md) — campaign overview
 - [[visenya-v2-campaign]]
 

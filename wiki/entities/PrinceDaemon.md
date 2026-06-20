@@ -28,11 +28,11 @@ Daemon II Blackfyre is the Targaryen prince who becomes Aegon's husband and is s
 > "The prophecy was a leash, Lord R'hllor, but Visenya has mended the leash into a conduit."
 
 ## Relationships
-- **[[Aegon]]**: Wife and sovereign; the one who mended his iron
-- **[[Rhhllor]]**: The deity who bestowed his prophetic fire
+- **[Aegon](Aegon.md)**: Wife and sovereign; the one who mended his iron
+- **[Rhhllor](Rhhllor.md)**: The deity who bestowed his prophetic fire
 - **[[KingDaeronII]]**: King of Westeros; present at the god-marriage ceremony, weeping with joy
 
 ## Connections
-- [[Aegon]] — wife
-- [[Rhhllor]] — divine patron
+- [Aegon](Aegon.md) — wife
+- [Rhhllor](Rhhllor.md) — divine patron
 - [[KingDaeronII]] — king of Westeros

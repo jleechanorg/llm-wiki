@@ -6,7 +6,7 @@ sources: []
 last_updated: 2026-04-08
 ---
 
-The active_missions field is a campaign state field that tracks missions currently in progress. When the LLM narrative indicates a mission is complete, it is moved from active_missions to [[CompletedMissionsField]].
+The active_missions field is a campaign state field that tracks missions currently in progress. When the LLM narrative indicates a mission is complete, it is moved from active_missions to [CompletedMissionsField](CompletedMissionsField.md).
 
 ## Schema
 ```json
@@ -28,5 +28,5 @@ The active_missions field is a campaign state field that tracks missions current
 3. Mission completed → moved to completed_missions, removed from active_missions
 
 ## Related
-- [[MissionAutoCompletion]]
-- [[CompletedMissionsField]]
+- [MissionAutoCompletion](MissionAutoCompletion.md)
+- [CompletedMissionsField](CompletedMissionsField.md)

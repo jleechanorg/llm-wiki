@@ -38,14 +38,14 @@ A PID unchanged across hours = no restart storm, no memory leak forcing recycle.
 
 ## Sources
 
-- [[feedback-2026-06-19-hermes-liveness-and-merge-readiness]] — primary source
+- [feedback-2026-06-19-hermes-liveness-and-merge-readiness](../sources/feedback-2026-06-19-hermes-liveness-and-merge-readiness.md) — primary source
 - CLAUDE.md "Gateway restart — single-instance mandatory" + "Liveness ≠ Functional (CRITICAL)" caveats
 
 ## Connections
 
 - [[HermesGateway]] — the operational surface being verified
-- [[SingleInstanceDiscipline]] — the mandatory sub-rule
+- [SingleInstanceDiscipline](SingleInstanceDiscipline.md) — the mandatory sub-rule
 - [[LivenessVsFunctionality]] — the underlying principle
-- [[MergeReadinessGate]] — companion protocol for "should we merge" questions
+- [MergeReadinessGate](MergeReadinessGate.md) — companion protocol for "should we merge" questions
 - [[WorktreeIsolation]] — context: editing `~/.hermes/` directly bypasses the canary gate that should run alongside this check
 - [[CanaryAck]] — check #5 specifically

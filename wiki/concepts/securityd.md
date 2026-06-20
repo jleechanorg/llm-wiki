@@ -30,6 +30,6 @@ log show --predicate 'process == "SecurityAgent"'
 A SecurityAgent launch corresponds to a real modal the user sees; a `-25294` does not.
 
 ## Connections
-- [[macOSKeychain]] — the store whose access these processes mediate.
-- [[GitHubActionsSelfHostedRunner]] — CI git invokes the credential helper that reaches securityd.
-- [[AgentOrchestrator]] — AO workers under a keychain-less `$HOME` trip SecurityAgent dialogs.
+- [macOSKeychain](macOSKeychain.md) — the store whose access these processes mediate.
+- [GitHubActionsSelfHostedRunner](../entities/GitHubActionsSelfHostedRunner.md) — CI git invokes the credential helper that reaches securityd.
+- [AgentOrchestrator](../entities/AgentOrchestrator.md) — AO workers under a keychain-less `$HOME` trip SecurityAgent dialogs.

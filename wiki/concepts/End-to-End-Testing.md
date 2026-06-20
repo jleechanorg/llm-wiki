@@ -16,6 +16,6 @@ Testing methodology that validates the entire application stack from user interf
 - Uses unittest framework with patch decorators
 
 ## Related
-- [[FakeFirestoreClient]] - mocking strategy
-- [[TestVisitCampaignEnd2End]] - example test
-- [[IntegrationTesting]] - related concept
+- [FakeFirestoreClient](../entities/FakeFirestoreClient.md) - mocking strategy
+- [TestVisitCampaignEnd2End](../entities/TestVisitCampaignEnd2End.md) - example test
+- [IntegrationTesting](IntegrationTesting.md) - related concept

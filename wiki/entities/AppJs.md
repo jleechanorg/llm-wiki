@@ -15,5 +15,5 @@ Main application JavaScript file containing campaign creation and wizard managem
 - Campaign creation flow orchestration
 
 ## Related Pages
-- [[CampaignWizard]] — wizard component managed by app.js
+- [CampaignWizard](CampaignWizard.md) — wizard component managed by app.js
 - [[CampaignWizardResetRedGreenTest]] — tests the reset behavior

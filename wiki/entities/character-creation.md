@@ -10,13 +10,13 @@ total_scenes: 49
 
 ## Overview
 
-** Character Creation appears in 4 scenes across the [[shadow-heart]] campaign.
+** Character Creation appears in 4 scenes across the [shadow-heart](../sources/shadow-heart.md) campaign.
 
 ## Description
 
 ** Character Creation is an entity from the shadow-heart campaign.
 
 ## References
-- [[shadow-heart]] — campaign overview
-- [[shadow-heart-campaign]]
+- [shadow-heart](../sources/shadow-heart.md) — campaign overview
+- [shadow-heart-campaign](../sources/shadow-heart-campaign.md)
 

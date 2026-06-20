@@ -22,4 +22,4 @@ System for Create, Read, Update, Delete operations on campaign data in Firestore
 
 ## Connections
 - [[Firestore Service]] — implements campaign CRUD
-- [[GameState]] — manages campaign state object
+- [GameState](GameState.md) — manages campaign state object

@@ -13,5 +13,5 @@ A text embedding model class that converts text strings into numerical vector re
 Used by LocalIntentClassifier to generate embeddings for classification. The `embed()` method returns an iterator of embedding arrays.
 
 ## Connections
-- [[LocalIntentClassifier]] — uses this for embedding generation
-- [[TextEmbedding]] — concept of text embedding
+- [LocalIntentClassifier](LocalIntentClassifier.md) — uses this for embedding generation
+- [TextEmbedding](TextEmbedding.md) — concept of text embedding

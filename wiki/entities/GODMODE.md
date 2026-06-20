@@ -16,6 +16,6 @@ Admin functionality for correcting mistakes and modifying campaign state. Uses a
 - narrative_response_schema.py
 
 ## Connections
-- [[PromptBuilder]] — builds god mode prompts
-- [[validate_god_mode_response]] — validates responses
-- [[FakeFirestoreClient]] — stores state changes
+- [PromptBuilder](PromptBuilder.md) — builds god mode prompts
+- [validate_god_mode_response](validate_god_mode_response.md) — validates responses
+- [FakeFirestoreClient](FakeFirestoreClient.md) — stores state changes

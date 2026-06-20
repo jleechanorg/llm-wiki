@@ -29,5 +29,5 @@ API Response Format Consistency refers to the practice of maintaining uniform re
 3. Mock Firebase/Auth dependencies to isolate API layer testing
 
 ## Related Concepts
-- [[BackwardCompatibility]] — maintaining API contract across versions
+- [BackwardCompatibility](BackwardCompatibility.md) — maintaining API contract across versions
 - [[APIResponseFormat]] — JSON structure conventions

@@ -61,11 +61,11 @@ Exempt when:
 2. Comparison set is a canonical enum of known values
 3. Output drives schema branching (not LLM routing / model behavior selection)
 
-Source: [[zfc-exempt-structural-class-parsing-magic-number]], bead rev-h9hrm
+Source: [zfc-exempt-structural-class-parsing-magic-number](../sources/zfc-exempt-structural-class-parsing-magic-number.md), bead rev-h9hrm
 
 ## Connections
 
-- [[ZeroFrameworkCognition]] — governing principle
-- [[ModelComputes]] — technical implementation pattern
-- [[BackendFormats]] — backend responsibility
+- [ZeroFrameworkCognition](ZeroFrameworkCognition.md) — governing principle
+- [ModelComputes](ModelComputes.md) — technical implementation pattern
+- [BackendFormats](BackendFormats.md) — backend responsibility
 - [[RewardsEngineArchitecture]] — rewards_engine.py role

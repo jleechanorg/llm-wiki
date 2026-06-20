@@ -10,13 +10,13 @@ total_scenes: 490
 
 ## Overview
 
-** Rome, The Aventine Hill (Private Julian Townhouse) appears in 3 scenes across the [[aurelius-julius-caesar-v1]] campaign.
+** Rome, The Aventine Hill (Private Julian Townhouse) appears in 3 scenes across the [aurelius-julius-caesar-v1](../sources/aurelius-julius-caesar-v1.md) campaign.
 
 ## Description
 
 ** Rome, The Aventine Hill (Private Julian Townhouse) is an entity from the aurelius-julius-caesar-v1 campaign.
 
 ## References
-- [[aurelius-julius-caesar-v1]] — campaign overview
-- [[aurelius-julius-caesar-v1-campaign]]
+- [aurelius-julius-caesar-v1](../sources/aurelius-julius-caesar-v1.md) — campaign overview
+- [aurelius-julius-caesar-v1-campaign](../sources/aurelius-julius-caesar-v1-campaign.md)
 

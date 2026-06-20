@@ -10,13 +10,13 @@ total_scenes: 236
 
 ## Overview
 
-** Blackwood Keep, Private Study appears in 7 scenes across the [[daemon-conquers]] campaign.
+** Blackwood Keep, Private Study appears in 7 scenes across the [daemon-conquers](../sources/daemon-conquers.md) campaign.
 
 ## Description
 
 ** Blackwood Keep, Private Study is an entity from the daemon-conquers campaign.
 
 ## References
-- [[daemon-conquers]] — campaign overview
-- [[daemon-conquers-campaign]]
+- [daemon-conquers](../sources/daemon-conquers.md) — campaign overview
+- [daemon-conquers-campaign](../sources/daemon-conquers-campaign.md)
 

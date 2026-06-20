@@ -21,4 +21,4 @@ CSS Custom Properties (also known as CSS variables) are user-defined values that
 
 ## Related Concepts
 - [[CSSVariableDefinitionValidation]] — testing for undefined variable usage
-- [[ThemeSystem]] — CSS variables enable theme switching via data-theme attributes
+- [ThemeSystem](ThemeSystem.md) — CSS variables enable theme switching via data-theme attributes

@@ -13,5 +13,5 @@ A CSS conflict pattern where inline styles on HTML elements (e.g., `style="backg
 Theme systems relying on CSS class or attribute selectors can be rendered ineffective if frontend code sets inline styles on the same elements. This is a common regression in theming implementations.
 
 ## Connections
-- [[FantasyTheme]] — theme affected by this conflict
-- [[AppJs]] — source of inline styles causing the conflict
+- [FantasyTheme](FantasyTheme.md) — theme affected by this conflict
+- [AppJs](../entities/AppJs.md) — source of inline styles causing the conflict

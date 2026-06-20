@@ -21,5 +21,5 @@ Data Contracts are producer-consumer schema agreements that define what data get
 Data contracts are a governance pattern — the same concept could apply to PR governance: what constraints must a PR satisfy before being eligible for merge? Data contracts == merge requirements.
 
 ## See Also
-- [[StreamGovernance]]
-- [[GovernanceLayer]]
+- [StreamGovernance](StreamGovernance.md)
+- [GovernanceLayer](GovernanceLayer.md)

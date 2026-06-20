@@ -16,13 +16,13 @@ Mock LLM testing uses a deterministic server that returns canned responses inste
 ## Related Systems
 | System | Type | Relevance |
 |--------|------|-----------|
-| [[AttractorBench]] | Benchmark | Uses mock LLM server for deterministic verification |
-| [[StrongDM]] | Company | Pioneered mock LLM + digital twin approach |
-| [[DigitalTwinUniverse]] | Concept | StrongDM's broader mock approach: clone GSuite, Salesforce, Okta |
+| [AttractorBench](../entities/AttractorBench.md) | Benchmark | Uses mock LLM server for deterministic verification |
+| [StrongDM](../entities/StrongDM.md) | Company | Pioneered mock LLM + digital twin approach |
+| [DigitalTwinUniverse](DigitalTwinUniverse.md) | Concept | StrongDM's broader mock approach: clone GSuite, Salesforce, Okta |
 
 ## Connection to Attractor Pattern
 Mock LLM testing is essential to the Attractor pattern's eval contamination protection. The NLSpec specs are public (training data contamination is fine — analogous to a developer reading the design doc), but the conformance tests, mock server, and scoring harness are sealed (generated locally, excluded from the repo).
 
 ## See Also
-- [[AttractorBench]]
-- [[DigitalTwinUniverse]]
+- [AttractorBench](../entities/AttractorBench.md)
+- [DigitalTwinUniverse](DigitalTwinUniverse.md)

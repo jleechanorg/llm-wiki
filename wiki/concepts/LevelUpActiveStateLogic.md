@@ -24,5 +24,5 @@ Logic that determines whether a character is currently in a level-up flow, used 
 - Stale flags (`level_up_in_progress=False`) not respected by injection logic
 
 ## Related
-- [[ModalInjection]] — the injection mechanism
-- [[StaleFlagGuard]] — pattern for handling stale state
+- [ModalInjection](ModalInjection.md) — the injection mechanism
+- [StaleFlagGuard](StaleFlagGuard.md) — pattern for handling stale state

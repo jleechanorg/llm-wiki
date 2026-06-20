@@ -17,4 +17,4 @@ Test-driven development methodology where tests are written before implementatio
 
 ## Connections
 - [[SophisticatedWizardTestJsdom]] — implements Red/Green TDD
-- [[BrowserBasedTesting]] — broader category this falls under
+- [BrowserBasedTesting](BrowserBasedTesting.md) — broader category this falls under

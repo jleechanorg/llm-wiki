@@ -17,8 +17,8 @@ Tailscale Funnel is a feature that exposes a local service to the public interne
 
 ## Connections
 - [[OpenClawTailscaleTunnelScript]] — uses Funnel to expose OpenClaw gateway
-- [[Tailscale]] — provides the Funnel feature
+- [Tailscale](../entities/Tailscale.md) — provides the Funnel feature
 
 ## Related Concepts
 - [[TailscaleSocket]] — custom socket path for user-space Tailscale
-- [[HealthEndpoint]] — /health endpoint verification for gateway
+- [HealthEndpoint](HealthEndpoint.md) — /health endpoint verification for gateway

@@ -16,6 +16,6 @@ Python module (`session_header_utils.py`) that handles session header generation
 - `generate_session_header_fallback(game_state)` — Generate session header from game state
 
 ## Related
-- [[TypeCoercion]] — pattern used for int conversion
-- [[FallbackGeneration]] — pattern for generating defaults from game state
-- [[PR3746]] — PR that prompted additional test coverage
+- [TypeCoercion](TypeCoercion.md) — pattern used for int conversion
+- [FallbackGeneration](FallbackGeneration.md) — pattern for generating defaults from game state
+- [PR3746](../entities/PR3746.md) — PR that prompted additional test coverage

@@ -10,5 +10,5 @@ last_updated: 2026-04-08
 Python class (likely Pydantic model) that wraps LLM API responses. Used throughout the mock service for consistent response handling.
 
 ## Connections
-- [[NarrativeResponse]] — specific response schema for game narratives
-- [[MockLLMClient]] — produces LLMResponse instances
+- [NarrativeResponse](NarrativeResponse.md) — specific response schema for game narratives
+- [MockLLMClient](../entities/MockLLMClient.md) — produces LLMResponse instances

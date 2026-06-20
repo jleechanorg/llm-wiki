@@ -20,6 +20,6 @@ The keyword detection being removed checked for "think" and "plan" substrings in
 - Keyword matching is a ZFC violation — model should interpret intent
 
 ## Related Concepts
-- [[IntentClassifier]] — semantic routing replaces keyword detection
-- [[PromptTemplate]] — consistent template approach
+- [IntentClassifier](../entities/IntentClassifier.md) — semantic routing replaces keyword detection
+- [PromptTemplate](PromptTemplate.md) — consistent template approach
 - [[ZFC]] — Zero-Framework Cognition principle

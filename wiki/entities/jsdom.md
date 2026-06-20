@@ -17,4 +17,4 @@ JavaScript library that provides a DOM implementation for Node.js, enabling brow
 
 ## Connections
 - [[SophisticatedWizardTestJsdom]] — uses JSDOM for browser simulation
-- [[RedGreenTDD]] — methodology for the test using JSDOM
+- [RedGreenTDD](../concepts/RedGreenTDD.md) — methodology for the test using JSDOM

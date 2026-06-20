@@ -11,9 +11,9 @@ The Stigma Score is a social-reputation mechanic from the Nocturne BG3 V4 campai
 
 ## Key Details
 - **Category:** GameMechanic / Social
-- **Campaign(s):** [[nocturne-bg3-v4]]
-- **Related:** [[SirensCall]] — the thematic framework
+- **Campaign(s):** [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md)
+- **Related:** [SirensCall](SirensCall.md) — the thematic framework
 
 ## Related Concepts
-- [[CollegeOfPerdition]] — the Bard subclass driving social manipulation
-- [[SirensLeverage]] — the complementary offensive mechanic for Charisma checks
+- [CollegeOfPerdition](CollegeOfPerdition.md) — the Bard subclass driving social manipulation
+- [SirensLeverage](SirensLeverage.md) — the complementary offensive mechanic for Charisma checks

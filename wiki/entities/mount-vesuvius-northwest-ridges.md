@@ -10,13 +10,13 @@ total_scenes: 283
 
 ## Overview
 
-** Mount Vesuvius - Northwest Ridges appears in 4 scenes across the [[aurelius-caesar-v2]] campaign.
+** Mount Vesuvius - Northwest Ridges appears in 4 scenes across the [aurelius-caesar-v2](../sources/aurelius-caesar-v2.md) campaign.
 
 ## Description
 
 ** Mount Vesuvius - Northwest Ridges is an entity from the aurelius-caesar-v2 campaign.
 
 ## References
-- [[aurelius-caesar-v2]] — campaign overview
-- [[aurelius-caesar-v2-campaign]]
+- [aurelius-caesar-v2](../sources/aurelius-caesar-v2.md) — campaign overview
+- [aurelius-caesar-v2-campaign](../sources/aurelius-caesar-v2-campaign.md)
 

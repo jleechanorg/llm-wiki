@@ -11,5 +11,5 @@ End-to-end (E2E) testing validates entire application flows from user interface 
 
 ## Related Concepts
 - [[UI Verification Screenshots Test]] — Specific E2E test for structured field display
-- [[Playwright]] — Tool used for E2E testing
+- [Playwright](Playwright.md) — Tool used for E2E testing
 - [[Debug Mode]] — Test mode that exposes structured fields

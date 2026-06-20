@@ -18,6 +18,6 @@ Traditional D&D 5e character creation method where players manually select race,
 6. Final approval
 
 ## Related Concepts
-- [[AIGenerated]] — AI-assisted creation
-- [[CustomClass]] — homebrew class creation
-- [[Attunement]] — magical item slots system
+- [AIGenerated](AIGenerated.md) — AI-assisted creation
+- [CustomClass](CustomClass.md) — homebrew class creation
+- [Attunement](Attunement.md) — magical item slots system

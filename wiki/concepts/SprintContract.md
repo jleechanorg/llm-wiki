@@ -3,7 +3,7 @@ title: "Sprint Contract"
 type: concept
 tags: [sprint, contract, scope-lock, negotiation, planning]
 date: 2026-03-24
-source: [[anthropic-harness-design-long-running-apps]]
+source: [anthropic-harness-design-long-running-apps](../sources/anthropic-harness-design-long-running-apps.md)
 ---
 
 ## Definition
@@ -32,7 +32,7 @@ Max 2 negotiation rounds. Orchestrator arbitrates if no agreement.
 - Each criterion maps to a specific verification method
 
 ## Connections
-- [[GeneratorEvaluatorSeparation]] — the contract is between Generator and Evaluator/Reviewer
-- [[SprintContract]] — negotiated before each build chunk
+- [GeneratorEvaluatorSeparation](GeneratorEvaluatorSeparation.md) — the contract is between Generator and Evaluator/Reviewer
+- [SprintContract](SprintContract.md) — negotiated before each build chunk
 - [[OrchestratorResponsibilities]] — orchestrator arbitrates and enforces contract
-- [[FileBasedHandoffs]] — contract persisted as `sprint_contract.md`
+- [FileBasedHandoffs](FileBasedHandoffs.md) — contract persisted as `sprint_contract.md`

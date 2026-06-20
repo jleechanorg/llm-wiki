@@ -19,5 +19,5 @@ Regular expressions (regex) in Python using the `re` module for pattern matching
 3. Character creation detection: `r"\[CHARACTER CREATION"`
 
 ## Connections
-- [[NPCPatternMatching]] — application of regex for NPC extraction
-- [[llm_service]] — uses regex for character detection
+- [NPCPatternMatching](NPCPatternMatching.md) — application of regex for NPC extraction
+- [llm_service](../entities/llm_service.md) — uses regex for character detection

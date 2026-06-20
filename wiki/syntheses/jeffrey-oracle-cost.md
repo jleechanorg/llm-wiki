@@ -20,7 +20,7 @@ Specialized oracle for cost consciousness: model selection, API spending, token 
 | New API call in hot path | Token budget impact? Context compaction needed? |
 | New automation script | Minimax for the script invocation itself |
 | Anthropic call without justification | "Is this necessary? Can minimax handle it?" |
-| Preview model to production set | Conditional — [[Preview-Model-Risk]] — flag medium risk |
+| Preview model to production set | Conditional — [Preview-Model-Risk](../concepts/Preview-Model-Risk.md) — flag medium risk |
 | Budget-based feature decision | Budget allocation before adding features |
 | Cost spike without explanation | Investigate: which model? which task? |
 
@@ -50,4 +50,4 @@ Specialized oracle for cost consciousness: model selection, API spending, token 
 6. Can existing context budget handle it? → Check TokenBudgeting
 
 ## Parent Oracle
-[[jeffrey-oracle]] — the full decision framework
+[jeffrey-oracle](jeffrey-oracle.md) — the full decision framework

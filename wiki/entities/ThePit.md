@@ -23,7 +23,7 @@ The 16-year-old Sariel operates in The Pit alongside her team of companions. The
 
 ## Connections
 
-- [[Sariel]] — Primary operative
+- [Sariel](Sariel.md) — Primary operative
 - [[HuntingPartySarielV2Campaign]] — Campaign
-- [[Cheyenne]] — City location
+- [Cheyenne](Cheyenne.md) — City location
 - [[BexHenderson]], [[OliverOdell]], [[JacobHassani]], [[JenniferMorales]], [[ShaneFlorence]] — Team members

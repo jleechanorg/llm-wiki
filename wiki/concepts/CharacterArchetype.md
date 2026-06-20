@@ -15,7 +15,7 @@ Classic dramatic role pattern for characters (e.g., Cynical Detective, Reluctant
 - Expressed through behavior, not labels
 
 ## Related Concepts
-- [[MBTI]] — personality foundation
-- [[Alignment]] — moral foundation
-- [[PersonalMyth]] — character's self-perception narrative
-- [[BreakPoint]] — what challenges their archetypal role
+- [MBTI](MBTI.md) — personality foundation
+- [Alignment](Alignment.md) — moral foundation
+- [PersonalMyth](PersonalMyth.md) — character's self-perception narrative
+- [BreakPoint](BreakPoint.md) — what challenges their archetypal role

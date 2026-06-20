@@ -15,5 +15,5 @@ Game state objects that control flow between game phases (combat, encounters, re
 - character_creation_completed → exits character creation
 
 ## Related
-- [[GameStateSchema]] — defines routing objects
-- [[SchemaStrictness]] — validates routing object properties
+- [GameStateSchema](GameStateSchema.md) — defines routing objects
+- [SchemaStrictness](SchemaStrictness.md) — validates routing object properties

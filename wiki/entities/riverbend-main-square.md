@@ -10,13 +10,13 @@ total_scenes: 236
 
 ## Overview
 
-** Riverbend, Main Square appears in 4 scenes across the [[daemon-conquers]] campaign.
+** Riverbend, Main Square appears in 4 scenes across the [daemon-conquers](../sources/daemon-conquers.md) campaign.
 
 ## Description
 
 ** Riverbend, Main Square is an entity from the daemon-conquers campaign.
 
 ## References
-- [[daemon-conquers]] — campaign overview
-- [[daemon-conquers-campaign]]
+- [daemon-conquers](../sources/daemon-conquers.md) — campaign overview
+- [daemon-conquers-campaign](../sources/daemon-conquers-campaign.md)
 

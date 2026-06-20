@@ -15,5 +15,5 @@ Testing technique using TESTING_AUTH_BYPASS environment variable to disable auth
 - Used in conjunction with auth patch targeting main.auth.verify_id_token
 
 ## Related
-- [[TestVisitCampaignEnd2End]] - uses this pattern
+- [TestVisitCampaignEnd2End](../entities/TestVisitCampaignEnd2End.md) - uses this pattern
 - [[End-to-End Testing]] - testing methodology

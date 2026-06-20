@@ -13,5 +13,5 @@ The instructions that an LLM receives alongside user input. Claude Code's system
 - [[Claude Code System Prompt Captured via Debug Mode]]
 
 ## Capture Methods
-- [[DebugMode]] - Claude CLI debug flag
-- [[HTTPProxy]] - Custom proxy interception
+- [DebugMode](DebugMode.md) - Claude CLI debug flag
+- [HTTPProxy](HTTPProxy.md) - Custom proxy interception

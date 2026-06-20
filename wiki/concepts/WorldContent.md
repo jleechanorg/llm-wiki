@@ -18,6 +18,6 @@ World content refers to the loaded content from world-building files (like banne
 - Contains enforcement directives for game rules
 
 ## Related Concepts
-- [[SystemInstruction]] — AI instruction content that incorporates world content
-- [[BannedNames]] — Specific world content for naming restrictions
-- [[WorldLoader]] — Module that loads world content
+- [SystemInstruction](SystemInstruction.md) — AI instruction content that incorporates world content
+- [BannedNames](BannedNames.md) — Specific world content for naming restrictions
+- [WorldLoader](../entities/WorldLoader.md) — Module that loads world content

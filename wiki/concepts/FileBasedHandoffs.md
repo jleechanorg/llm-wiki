@@ -3,7 +3,7 @@ title: "File Based Handoffs"
 type: concept
 tags: [file-based, handoff, state-persistence, agent-restart, persistence]
 date: 2026-03-24
-source: [[anthropic-harness-design-long-running-apps]]
+source: [anthropic-harness-design-long-running-apps](../sources/anthropic-harness-design-long-running-apps.md)
 ---
 
 ## Definition
@@ -29,5 +29,5 @@ Communication between agents via files instead of in-memory state. One agent wri
 
 ## Connections
 - [[ContextReset]] — resets use handoff artifacts to restore state
-- [[SprintContract]] — contract persisted as `sprint_contract.md`
+- [SprintContract](SprintContract.md) — contract persisted as `sprint_contract.md`
 - [[OrchestratorResponsibilities]] — orchestrator maintains canonical state

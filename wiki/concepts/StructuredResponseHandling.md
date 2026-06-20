@@ -20,4 +20,4 @@ The LLMResponse class wraps `NarrativeResponse` Pydantic objects, providing type
 
 ## Related Concepts
 - [[Pydantic Model Serialization]]
-- [[NarrativeResponse]]
+- [NarrativeResponse](NarrativeResponse.md)

@@ -42,8 +42,8 @@ The "smartclaw-routing-delegation-failures-postmortem.md" document covers:
 
 ## Related
 
-- [[JeffreyChan]] — Owner
-- [[jleechanorg]] — GitHub organization
-- [[WorldArchitect]] — Primary platform
-- [[OpenClaw]] — Underlying framework
-- [[AgentOrchestrator]] — Orchestration system (AgentLoop)
+- [JeffreyChan](JeffreyChan.md) — Owner
+- [jleechanorg](jleechanorg.md) — GitHub organization
+- [WorldArchitect](WorldArchitect.md) — Primary platform
+- [OpenClaw](OpenClaw.md) — Underlying framework
+- [AgentOrchestrator](AgentOrchestrator.md) — Orchestration system (AgentLoop)

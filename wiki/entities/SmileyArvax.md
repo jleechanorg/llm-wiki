@@ -13,6 +13,6 @@ Smiley Arvax is a Guild lieutenant in the Old Nocturne Merc BG3 campaign. They s
 Despite the name "Smiley," Arvax is a dangerous criminal operator. They represent the Guild's interface with hired muscle and facilitate the kidnapping contract.
 
 ## Connections
-- [[OldNocturneMercBg3]] — Operative
-- [[TheGuild]] — Employer
-- [[SmirkingBoar]] — Meeting location
+- [OldNocturneMercBg3](OldNocturneMercBg3.md) — Operative
+- [TheGuild](TheGuild.md) — Employer
+- [SmirkingBoar](SmirkingBoar.md) — Meeting location

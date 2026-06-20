@@ -39,6 +39,6 @@ All 3 techniques converge to ~80-87 with overlapping CIs. The ~87 ceiling is a *
 
 ## Connections
 - [[ThompsonSamplingBandit]] — bandit for technique selection
-- [[SelfRefine]], [[ExtendedThinking]], [[ProcessRewardModel]] — techniques
+- [SelfRefine](SelfRefine.md), [ExtendedThinking](ExtendedThinking.md), [ProcessRewardModel](ProcessRewardModel.md) — techniques
 - [[CanonicalPatternScoring]] — 6-dim rubric
-- [[Phase4FinalSynthesis]] — Phase 4 synthesis with full results
+- [Phase4FinalSynthesis](Phase4FinalSynthesis.md) — Phase 4 synthesis with full results

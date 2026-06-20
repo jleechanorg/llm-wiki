@@ -40,6 +40,6 @@ Add Rule 12-equivalent for tenets/scope:
 
 ## See Also
 
-- [[skeptic-gate-8]] — The alignment gate containing tenets/scope
-- [[skeptic-rule-12]] — The Goals parser (the model for the fix)
+- [skeptic-gate-8](skeptic-gate-8.md) — The alignment gate containing tenets/scope
+- [skeptic-rule-12](skeptic-rule-12.md) — The Goals parser (the model for the fix)
 - [[skeptic-agent]] — Parent agent

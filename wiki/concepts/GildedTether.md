@@ -11,13 +11,13 @@ Gilded Tether is a mechanic in the College of the Abyssal Siren subclass represe
 
 ## Key Details
 - **Category:** GameMechanic / Companion System
-- **Campaign(s):** [[nocturne-bg3-v5]], [[nocturne-bg3-v5-succubus]], [[nocturne-bg3-v6-bug-repro-test]]
+- **Campaign(s):** [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md), [nocturne-bg3-v5-succubus](../sources/nocturne-bg3-v5-succubus.md), [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md)
 
 ## Related Concepts
 - [[ThrallMechanics]] — core system
-- [[SocialHP]] — related companion tracking
+- [SocialHP](SocialHP.md) — related companion tracking
 - [[SirensGaze]] — ability to maintain tethers
-- [[CompanionAssetFramework]] — BG3 companion system
+- [CompanionAssetFramework](CompanionAssetFramework.md) — BG3 companion system
 
 ## Related Entities
-- [[NocturneSosuke]] — primary user
+- [NocturneSosuke](../entities/NocturneSosuke.md) — primary user

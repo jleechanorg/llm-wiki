@@ -23,4 +23,4 @@ Use Intelligence when the plan involves logic, tactics, and factual recall. Use 
 ## Related Concepts
 - [[Difficulty Class]] — set BEFORE rolling, based on planning complexity
 - [[Plan Quality]] — determined by margin between roll and DC
-- [[ThinkMode]] — the system this check operates within
+- [ThinkMode](ThinkMode.md) — the system this check operates within

@@ -42,6 +42,6 @@ LLM fine-tuning adapts a pre-trained model to specific tasks or domains by conti
 
 ## Connections
 
-- [[RAG]] — fine-tuning and RAG are complementary; fine-tune for how to use context, RAG for what context to retrieve
+- [RAG](RAG.md) — fine-tuning and RAG are complementary; fine-tune for how to use context, RAG for what context to retrieve
 - [[Prompt Engineering]] — prompt engineering often enough; fine-tuning is pursued when prompting hits ceiling
-- [[RLHF]] — RLHF is a specialized fine-tuning technique using human preference data
+- [RLHF](RLHF.md) — RLHF is a specialized fine-tuning technique using human preference data

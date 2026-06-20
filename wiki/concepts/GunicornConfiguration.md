@@ -20,6 +20,6 @@ Max concurrent requests = workers × threads
 For example: 5 workers × 4 threads = 20 max concurrent requests
 
 ## Related Concepts
-- [[FlaskHealthEndpoint]] — exposes configuration via health endpoint
-- [[TestDrivenDevelopment]] — validates configuration exposure
+- [FlaskHealthEndpoint](FlaskHealthEndpoint.md) — exposes configuration via health endpoint
+- [TestDrivenDevelopment](TestDrivenDevelopment.md) — validates configuration exposure
 - [[WSGIServer]] — Gunicorn is a WSGI server implementation

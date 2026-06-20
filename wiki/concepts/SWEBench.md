@@ -36,6 +36,6 @@ result = evaluate(
 
 ## Connections
 
-- [[CanonicalCodeScorer]] — Code scoring systems
-- [[AgentArchitecture]] — Agent design for coding tasks
-- [[AdversarialTesting]] — Testing LLM limits
+- [CanonicalCodeScorer](CanonicalCodeScorer.md) — Code scoring systems
+- [AgentArchitecture](AgentArchitecture.md) — Agent design for coding tasks
+- [AdversarialTesting](AdversarialTesting.md) — Testing LLM limits

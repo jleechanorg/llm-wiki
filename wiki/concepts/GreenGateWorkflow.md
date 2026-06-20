@@ -62,11 +62,11 @@ The 7th gate (LLM Skeptic) is non-deterministic and CAN be overridden by user/ad
 
 **Why this works**: Green Gate evaluates the same head SHA on every push (deterministic); Skeptic verdict SHA-locks and re-dissesses on push. When Skeptic is stuck in a SHA-lock loop, Green Gate is the only signal that doesn't get invalidated by the merge preparation itself.
 
-See [[AOSkepticGateOps]] for the SHA-lock Sisyphean pattern, and [[SelfHostedRunnerInfraFlakeVsRealFailure]] for the broader "deterministic > non-deterministic" merge philosophy.
+See [AOSkepticGateOps](AOSkepticGateOps.md) for the SHA-lock Sisyphean pattern, and [[SelfHostedRunnerInfraFlakeVsRealFailure]] for the broader "deterministic > non-deterministic" merge philosophy.
 
 ## Connections
-- [[SkepticGate]] — runs within green-gate workflow
-- [[DesignDocGate]] — removed gate that was part of the workflow
+- [SkepticGate](SkepticGate.md) — runs within green-gate workflow
+- [DesignDocGate](DesignDocGate.md) — removed gate that was part of the workflow
 - [[AWKCompatibility]] — POSIX grep portability fix
-- [[AOSkepticGateOps]] — SHA-lock Sisyphean loop pattern
+- [AOSkepticGateOps](AOSkepticGateOps.md) — SHA-lock Sisyphean loop pattern
 - [[SelfHostedRunnerInfraFlakeVsRealFailure]] — broader deterministic-gates-first philosophy

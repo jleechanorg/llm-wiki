@@ -15,7 +15,7 @@ Refined, violet-veined crystal of immense arcane value. The contraband that driv
 - The 25-Gloomstalker deployment (Turn 130) is partly justified by the need to protect lifestone shipments
 
 ## Connections
-- [[alexiel-larion]] — primary source
-- [[voyage-daran]] — the Guild Hand who moves the lifestone
+- [alexiel-larion](../sources/alexiel-larion.md) — primary source
+- [voyage-daran](../entities/voyage-daran.md) — the Guild Hand who moves the lifestone
 - [[ThievesGuild]] — the organization behind the smuggling
 - [[SunkenVaults]] — the origin of the refined stone

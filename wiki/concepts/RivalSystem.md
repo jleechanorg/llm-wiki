@@ -24,6 +24,6 @@ Primary Rival mechanics — a Sovereign of similar rank with opposing Logic and 
 - Defeating Rival in Logic Siege reduces threat
 
 ## Related
-- [[SovereignProtocol]] — System using rivals
-- [[LogicSiege]] — Combat with rivals
-- [[AggroMeter]] — Rival actions affect threat level
+- [SovereignProtocol](../entities/SovereignProtocol.md) — System using rivals
+- [LogicSiege](../entities/LogicSiege.md) — Combat with rivals
+- [AggroMeter](AggroMeter.md) — Rival actions affect threat level

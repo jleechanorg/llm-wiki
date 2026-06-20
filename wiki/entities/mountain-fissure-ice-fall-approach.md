@@ -10,13 +10,13 @@ total_scenes: 230
 
 ## Overview
 
-** Mountain Fissure - Ice-Fall Approach appears in 3 scenes across the [[dragon-knight-good]] campaign.
+** Mountain Fissure - Ice-Fall Approach appears in 3 scenes across the [dragon-knight-good](../sources/dragon-knight-good.md) campaign.
 
 ## Description
 
 ** Mountain Fissure - Ice-Fall Approach is an entity from the dragon-knight-good campaign.
 
 ## References
-- [[dragon-knight-good]] — campaign overview
-- [[dragon-knight-good-campaign]]
+- [dragon-knight-good](../sources/dragon-knight-good.md) — campaign overview
+- [dragon-knight-good-campaign](../sources/dragon-knight-good-campaign.md)
 

@@ -16,10 +16,10 @@ Nocturne Sosuke in the bug-repro-test campaign is the same character as in other
 - HP: 33 | Speed: 30 ft
 - Stats: STR 8 (-1), DEX 14 (+2), CON 10 (+0), INT 16 (+3), WIS 10 (+0), CHA 20 (+5)
 - Expertise: Deception +11, Persuasion +11
-- Campaign appearances: [[nocturne-bg3-v6-bug-repro-test-campaign]]
+- Campaign appearances: [nocturne-bg3-v6-bug-repro-test-campaign](../sources/nocturne-bg3-v6-bug-repro-test-campaign.md)
 
 ## Connections
-- [[NocturneSosuke]] — same character, primary entity page
-- [[ShatteredSanctum]] — location
-- [[Minthara]] — Drow Paladin commander
-- [[SystemRestoreMechanic]] — core mechanic being tested
+- [NocturneSosuke](NocturneSosuke.md) — same character, primary entity page
+- [ShatteredSanctum](ShatteredSanctum.md) — location
+- [Minthara](Minthara.md) — Drow Paladin commander
+- [SystemRestoreMechanic](../concepts/SystemRestoreMechanic.md) — core mechanic being tested

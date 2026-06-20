@@ -13,6 +13,6 @@ Rowan Thorne is an ally character in the Sariel campaign, appearing in the frien
 
 
 ## Connections
-- [[Sariel]] — protagonist/ally relationship
+- [Sariel](Sariel.md) — protagonist/ally relationship
 - [[Ser Gideon Vance]] — fellow ally
 - [[Lady Cressida Valeriana]] — fellow ally

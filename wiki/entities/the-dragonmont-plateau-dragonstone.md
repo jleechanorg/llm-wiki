@@ -10,13 +10,13 @@ total_scenes: 173
 
 ## Overview
 
-** The Dragonmont Plateau, Dragonstone appears in 4 scenes across the [[visenya-v3]] campaign.
+** The Dragonmont Plateau, Dragonstone appears in 4 scenes across the [visenya-v3](../sources/visenya-v3.md) campaign.
 
 ## Description
 
 ** The Dragonmont Plateau, Dragonstone is an entity from the visenya-v3 campaign.
 
 ## References
-- [[visenya-v3]] — campaign overview
+- [visenya-v3](../sources/visenya-v3.md) — campaign overview
 - [[visenya-v3-campaign]]
 

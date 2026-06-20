@@ -21,12 +21,12 @@ Sosuke Aizen is the player character across multiple Aizen campaigns set in Bald
 
 ## Key Relationships
 
-- [[LordKaito]] — father, figurehead of House Sosuke
-- [[TheWhiteGarden]] — his secret sanctuary
-- [[HouseSosuke]] — noble house he controls from shadows
+- [LordKaito](LordKaito.md) — father, figurehead of House Sosuke
+- [TheWhiteGarden](TheWhiteGarden.md) — his secret sanctuary
+- [HouseSosuke](HouseSosuke.md) — noble house he controls from shadows
 
 ## Connections
 
-- [[AizenBg3]] — first campaign
+- [AizenBg3](AizenBg3.md) — first campaign
 - [[AizenBg3V2]] — second campaign with expanded network
-- [[AizenGodhoodContinued]] — godlike status campaign
+- [AizenGodhoodContinued](../concepts/AizenGodhoodContinued.md) — godlike status campaign

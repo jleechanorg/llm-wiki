@@ -21,6 +21,6 @@ HarnessVsPrompt is the distinction between harness code and prompt text. The har
 
 ## Connections
 
-- [[HarnessEngineering]] — the practice of modifying harness code
-- [[ContextManagement]] — harness is the implementation of context management
-- [[PromptEngineering]] — prompt engineering is a subset confined to text formatting rather than information access
+- [HarnessEngineering](HarnessEngineering.md) — the practice of modifying harness code
+- [ContextManagement](ContextManagement.md) — harness is the implementation of context management
+- [PromptEngineering](PromptEngineering.md) — prompt engineering is a subset confined to text formatting rather than information access

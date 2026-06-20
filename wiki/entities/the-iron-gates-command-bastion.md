@@ -10,13 +10,13 @@ total_scenes: 500
 
 ## Overview
 
-** The Iron Gates - Command Bastion appears in 11 scenes across the [[dragon-knight-evil]] campaign.
+** The Iron Gates - Command Bastion appears in 11 scenes across the [dragon-knight-evil](../sources/dragon-knight-evil.md) campaign.
 
 ## Description
 
 ** The Iron Gates - Command Bastion is an entity from the dragon-knight-evil campaign.
 
 ## References
-- [[dragon-knight-evil]] — campaign overview
-- [[dragon-knight-evil-campaign]]
+- [dragon-knight-evil](../sources/dragon-knight-evil.md) — campaign overview
+- [dragon-knight-evil-campaign](../sources/dragon-knight-evil-campaign.md)
 

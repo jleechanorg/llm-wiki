@@ -10,13 +10,13 @@ total_scenes: 315
 
 ## Overview
 
-** Upper City - Rathmar's Residence appears in 5 scenes across the [[old-noctune-merc-bg3]] campaign.
+** Upper City - Rathmar's Residence appears in 5 scenes across the [old-noctune-merc-bg3](../sources/old-noctune-merc-bg3.md) campaign.
 
 ## Description
 
 ** Upper City - Rathmar's Residence is an entity from the old-noctune-merc-bg3 campaign.
 
 ## References
-- [[old-noctune-merc-bg3]] — campaign overview
+- [old-noctune-merc-bg3](../sources/old-noctune-merc-bg3.md) — campaign overview
 - [[old-noctune-merc-bg3-campaign]]
 

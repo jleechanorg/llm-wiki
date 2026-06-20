@@ -32,6 +32,6 @@ python -m mvp_site.testing_framework.capture_cli baseline capture.json new_mocks
 - **Performance Analysis**: Tracks slowest/fastest operations
 
 ## Related Concepts
-- [[DataCaptureFramework]] — provides capture infrastructure
-- [[CaptureAnalyzer]] — performs the comparison analysis
+- [DataCaptureFramework](DataCaptureFramework.md) — provides capture infrastructure
+- [CaptureAnalyzer](../entities/CaptureAnalyzer.md) — performs the comparison analysis
 - [[MockBaselineGeneration]] — creating mocks from real data

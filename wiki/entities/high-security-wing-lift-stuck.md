@@ -10,13 +10,13 @@ total_scenes: 822
 
 ## Overview
 
-** High Security Wing - Lift (Stuck) appears in 10 scenes across the [[alexiel-swtor]] campaign.
+** High Security Wing - Lift (Stuck) appears in 10 scenes across the [alexiel-swtor](../sources/alexiel-swtor.md) campaign.
 
 ## Description
 
 ** High Security Wing - Lift (Stuck) is an entity from the alexiel-swtor campaign.
 
 ## References
-- [[alexiel-swtor]] — campaign overview
-- [[alexiel-swtor-campaign]]
+- [alexiel-swtor](../sources/alexiel-swtor.md) — campaign overview
+- [alexiel-swtor-campaign](../sources/alexiel-swtor-campaign.md)
 

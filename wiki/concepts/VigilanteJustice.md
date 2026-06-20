@@ -23,7 +23,7 @@ Vigilante Justice as a theme raises questions about:
 
 ## Connections
 
-- [[Sariel]] — Character
+- [Sariel](../entities/Sariel.md) — Character
 - [[HuntingPartySarielV2Campaign]] — Campaign
-- [[ThePit]] — Operating environment
+- [ThePit](../entities/ThePit.md) — Operating environment
 - [[FBIProdigy]] — Official role

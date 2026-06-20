@@ -10,13 +10,13 @@ total_scenes: 173
 
 ## Overview
 
-** The Southern Shore of the Gullet appears in 6 scenes across the [[visenya-v3]] campaign.
+** The Southern Shore of the Gullet appears in 6 scenes across the [visenya-v3](../sources/visenya-v3.md) campaign.
 
 ## Description
 
 ** The Southern Shore of the Gullet is an entity from the visenya-v3 campaign.
 
 ## References
-- [[visenya-v3]] — campaign overview
+- [visenya-v3](../sources/visenya-v3.md) — campaign overview
 - [[visenya-v3-campaign]]
 

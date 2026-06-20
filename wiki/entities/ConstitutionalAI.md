@@ -23,13 +23,13 @@ Constitutional AI (Anthropic) is a training approach for harmless AI via self-im
 
 ## Connections
 
-- [[RLAIF]] — Constitutional AI uses RLAIF in its RL phase
-- [[ConstitutionalClassifiers]] — production deployment of constitutional AI principles
-- [[AnthropicAlignment]] — Constitutional AI is part of Anthropic's alignment research
-- [[GovernanceLayer]] — Constitutional AI principles can inform governance constraint design
-- [[Anthropic]] — Constitutional AI was developed by Anthropic
+- [RLAIF](RLAIF.md) — Constitutional AI uses RLAIF in its RL phase
+- [ConstitutionalClassifiers](ConstitutionalClassifiers.md) — production deployment of constitutional AI principles
+- [AnthropicAlignment](AnthropicAlignment.md) — Constitutional AI is part of Anthropic's alignment research
+- [GovernanceLayer](../concepts/GovernanceLayer.md) — Constitutional AI principles can inform governance constraint design
+- [Anthropic](Anthropic.md) — Constitutional AI was developed by Anthropic
 
 ## See Also
-- [[RLAIF]]
-- [[ConstitutionalClassifiers]]
-- [[AnthropicAlignment]]
+- [RLAIF](RLAIF.md)
+- [ConstitutionalClassifiers](ConstitutionalClassifiers.md)
+- [AnthropicAlignment](AnthropicAlignment.md)

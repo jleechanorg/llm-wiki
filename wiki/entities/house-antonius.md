@@ -10,13 +10,13 @@ total_scenes: 140
 
 ## Overview
 
-House Antonius appears in 8 scenes across the [[gaia-julia-v6]] campaign.
+House Antonius appears in 8 scenes across the [gaia-julia-v6](../sources/gaia-julia-v6.md) campaign.
 
 ## Description
 
 House Antonius is an entity from the gaia-julia-v6 campaign.
 
 ## References
-- [[gaia-julia-v6]] — campaign overview
-- [[gaia-julia-v6-campaign]]
+- [gaia-julia-v6](../sources/gaia-julia-v6.md) — campaign overview
+- [gaia-julia-v6-campaign](../sources/gaia-julia-v6-campaign.md)
 

@@ -27,6 +27,6 @@ PSI (Population Stability Index) is a statistical measure comparing the distribu
 PSI thresholds could monitor whether the model's `level_up_signal` output distribution shifts — e.g., if `level_up=true` rate suddenly drops from 15% to 5%, PSI would catch it before it becomes a production bug. Stage 5 of the ZFC implementation plan could incorporate PSI monitoring as a production drift indicator.
 
 ## See Also
-- [[Drift-Detection]]
-- [[OPA-Bundle-Signing]]
-- [[ZFC-Level-Up-Architecture]]
+- [Drift-Detection](Drift-Detection.md)
+- [OPA-Bundle-Signing](OPA-Bundle-Signing.md)
+- [ZFC-Level-Up-Architecture](ZFC-Level-Up-Architecture.md)

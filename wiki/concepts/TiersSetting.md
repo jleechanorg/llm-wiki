@@ -33,7 +33,7 @@ Nocturne views Terratus as "full of bad code"—a world full of inefficiencies, 
 
 ## Connections
 
-- [[Nocturne]] — The player character who sees the world as code to be optimized
+- [Nocturne](../entities/Nocturne.md) — The player character who sees the world as code to be optimized
 - [[Kyros]] — The Overlord who imposed the current order
 - [[Disfavored]] / [[Scarlet Chorus]] — The major factions
 - [[Edgering Ruins]] — A location in the Tiers

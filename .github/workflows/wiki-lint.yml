@@ -1,0 +1,53 @@
+name: Wiki link lint
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    # Weekly HTTP check — catches external link rot and stale GitHub blob refs
+    - cron: "0 9 * * 1"
+
+jobs:
+  lint:
+    name: Lint (local link integrity)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Run wikilink linter (concepts + entities + syntheses)
+        # Exits 1 on broken [text](path.md) links — active navigation breakage.
+        # Prints warnings for unresolvable [[wikilinks]] (phantom refs) but
+        # does NOT block the build — those are informational.
+        # sources/ is intentionally excluded (immutable leaf pages).
+        run: python scripts/lint_wikilinks.py
+
+  http-links:
+    name: HTTP link check (push + weekly only)
+    if: github.event_name == 'push' || github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Check internal GitHub blob URLs (wiki/concepts + entities)
+        run: |
+          python scripts/check_http_links.py \
+            --root wiki --dirs concepts entities syntheses \
+            --github-only --workers 4
+
+      - name: Check external HTTP(S) links (informational — never blocks)
+        run: |
+          python scripts/check_http_links.py \
+            --root wiki --dirs concepts entities syntheses \
+            --external-only --workers 8 || true

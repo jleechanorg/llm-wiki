@@ -13,8 +13,8 @@ IM Defense is a powerful corporation/military entity in Seoul that serves as the
 Sariel works for Noh Tae-nam at IM Defense as part of her fall from chaebol grace. The corporation serves as both employer and power structure, providing Sariel with resources and access while she pursues her ultimate goal of gaining ultimate control.
 
 ## Connections
-- [[doberman-campaign]] — source campaign
-- [[SarielDoberman]] — employee
-- [[NohTaenam]] — direct superior
-- [[NohHwayoung]] — supreme leader
-- [[Seoul]] — base of operations
+- [doberman-campaign](../sources/doberman-campaign.md) — source campaign
+- [SarielDoberman](SarielDoberman.md) — employee
+- [NohTaenam](NohTaenam.md) — direct superior
+- [NohHwayoung](NohHwayoung.md) — supreme leader
+- [Seoul](Seoul.md) — base of operations

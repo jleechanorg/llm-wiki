@@ -12,4 +12,4 @@ Robust hook patterns are configuration practices that prevent system lockouts ca
 2. **Skip Auto-Generated Files**: Don't validate auto-generated per-session settings files
 3. **Direct Execution Detection**: Flag fragile patterns like `python3 $ROOT` or `bash $ROOT`
 
-These patterns were formalized in [[PR1410]] to prevent system lockouts when `$ROOT` or other environment variables are undefined.
+These patterns were formalized in [PR1410](../entities/PR1410.md) to prevent system lockouts when `$ROOT` or other environment variables are undefined.

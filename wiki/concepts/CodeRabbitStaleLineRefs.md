@@ -29,5 +29,5 @@ PR #6308: CR said `world_logic.py:1708-1749` — `rewards_box` unused and explic
 - CR was reviewing the pre-refactor diff state
 
 ## Connections
-- [[CodeRabbitDismissedPattern]] — CR DISMISSED also requires understanding diff state
+- [CodeRabbitDismissedPattern](CodeRabbitDismissedPattern.md) — CR DISMISSED also requires understanding diff state
 - [[PR6308]] — affected PR

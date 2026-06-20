@@ -8,7 +8,7 @@ last_updated: 2026-04-14
 
 ## Summary
 
-Evidence-Based Verification is the practice of evaluating AI-generated code against a structured checklist of explicit evidence criteria before accepting it as correct. [[ReVeal]] demonstrated that models generate 55.8% vulnerable code by default, but most errors are caught when verified against evidence standards (correctness, edge cases, security, performance, style). This is the formal foundation for skeptic gates in production agent pipelines.
+Evidence-Based Verification is the practice of evaluating AI-generated code against a structured checklist of explicit evidence criteria before accepting it as correct. [ReVeal](ReVeal.md) demonstrated that models generate 55.8% vulnerable code by default, but most errors are caught when verified against evidence standards (correctness, edge cases, security, performance, style). This is the formal foundation for skeptic gates in production agent pipelines.
 
 ## Key Claims
 
@@ -37,11 +37,11 @@ Skeptic reviews evidence bundle →
 If skeptic approves: Pass gate → PR created
 ```
 
-This maps directly to the [[EvidenceBundles]] and [[EvidenceGateVsCompileCI]] distinction: evidence bundles are comprehensive proof of quality, while compile CI is merely necessary (not sufficient).
+This maps directly to the [EvidenceBundles](EvidenceBundles.md) and [EvidenceGateVsCompileCI](EvidenceGateVsCompileCI.md) distinction: evidence bundles are comprehensive proof of quality, while compile CI is merely necessary (not sufficient).
 
 ### What Evidence Must Include
 
-Per [[EvidenceReviewPipeline]]:
+Per [EvidenceReviewPipeline](EvidenceReviewPipeline.md):
 - Correctness proof (tests pass, edge cases covered)
 - Security review (no OWASP Top 10 violations)
 - Performance validation (p99 latency, memory under load)
@@ -50,18 +50,18 @@ Per [[EvidenceReviewPipeline]]:
 
 ## Connections
 
-- [[ReVeal]] — the source paper establishing evidence standards effectiveness
+- [ReVeal](ReVeal.md) — the source paper establishing evidence standards effectiveness
 - [[SkepticAgent]] — the agent that reviews evidence bundles
-- [[EvidenceReviewPipeline]] — the full pipeline from generation to skeptic approval
-- [[VerificationLoop]] — evidence verification is the core of the loop
-- [[SelfCritique]] — self-critique generates the evidence in the first pass
-- [[AdversarialTesting]] — adversarial tests provide edge case evidence
+- [EvidenceReviewPipeline](EvidenceReviewPipeline.md) — the full pipeline from generation to skeptic approval
+- [VerificationLoop](VerificationLoop.md) — evidence verification is the core of the loop
+- [SelfCritique](SelfCritique.md) — self-critique generates the evidence in the first pass
+- [AdversarialTesting](AdversarialTesting.md) — adversarial tests provide edge case evidence
 
 ## See Also
 
 - [[SkepticAgent]] — the skeptic reviewing evidence
-- [[EvidenceBundles]] — the artifact being reviewed
-- [[VerificationLoop]] — evidence-based verification is the loop's core
+- [EvidenceBundles](EvidenceBundles.md) — the artifact being reviewed
+- [VerificationLoop](VerificationLoop.md) — evidence-based verification is the loop's core
 
 ## SHA Staleness Rule (2026-05-29)
 
@@ -93,4 +93,4 @@ invariant}`; a null on the latter is zero evidence of equivalence. And for a
 on engineered scenarios where it *does* credit winners (the dynamic_fanout
 calibration credited 4 with the identical `scoring.aggregate`).
 
-- Source: `[[evidence-review-unscorable-axes-2026-06-05]]` (dark-factory PR #16, bead jleechan-g8m). Related: [[CalibrationBiasVerification]].
+- Source: `[[evidence-review-unscorable-axes-2026-06-05]]` (dark-factory PR #16, bead jleechan-g8m). Related: [CalibrationBiasVerification](CalibrationBiasVerification.md).

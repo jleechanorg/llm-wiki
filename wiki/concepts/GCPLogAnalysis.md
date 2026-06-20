@@ -11,4 +11,4 @@ Verification method using `gcloud logging read` to query Cloud Run logs. Used to
 
 ## Related
 - [[CodeExecutionJSONParsingFixVerification]] — source analyzed
-- [[MvpSiteAppS6]] — server analyzed
+- [MvpSiteAppS6](../entities/MvpSiteAppS6.md) — server analyzed

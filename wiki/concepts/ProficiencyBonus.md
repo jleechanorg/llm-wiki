@@ -15,5 +15,5 @@ A D&D 5e mechanic where characters receive a bonus to checks for skills and tool
 - The stats_display module calculates it via get_proficiency_bonus with proper coercion and clamping
 
 ## Related
-- [[Multi-classing]]
+- [Multi-classing](Multi-classing.md)
 - [[stats_display]]

@@ -14,6 +14,6 @@ A pre-generation directive is a mandatory instruction embedded in AI prompts tha
 - **Check-based**: Contains explicit validation logic
 
 ## Related Concepts
-- [[BannedNamePrevention]] — the specific prevention being validated
-- [[MasterDirective]] — file containing the directive
-- [[MechanicsSystemInstruction]] — contains Option 2 directive
+- [BannedNamePrevention](BannedNamePrevention.md) — the specific prevention being validated
+- [MasterDirective](../entities/MasterDirective.md) — file containing the directive
+- [MechanicsSystemInstruction](../entities/MechanicsSystemInstruction.md) — contains Option 2 directive

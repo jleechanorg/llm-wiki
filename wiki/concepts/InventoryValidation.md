@@ -17,4 +17,4 @@ Inventory Validation is a mandatory check that ensures players can ONLY use item
 **Related Concepts**:
 - [[GameStateExamples]] — validation rules reference
 - [[EquipmentDisplayUtilities]] — equipment query detection
-- [[VisibilityRule]] — state updates invisible to players
+- [VisibilityRule](VisibilityRule.md) — state updates invisible to players

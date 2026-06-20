@@ -16,6 +16,6 @@ Test class that verifies faction_minigame_enabled and other settings persist cor
 - test_theme_roundtrip — validates theme persists
 
 ## Related
-- [[FakeFirestoreClient]] — test infrastructure
-- [[End2EndBaseTestCase]] — base test class
+- [FakeFirestoreClient](FakeFirestoreClient.md) — test infrastructure
+- [End2EndBaseTestCase](End2EndBaseTestCase.md) — base test class
 - [[FactionRankingCalculationTests]] — related faction tests

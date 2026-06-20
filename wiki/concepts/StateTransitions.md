@@ -17,5 +17,5 @@ Pattern for managing state transitions in modal agents, ensuring proper lifecycl
 
 ## Connections
 - [[Modal State Management]] — higher-level concept
-- [[LevelUpAgent]] — implements transitions
-- [[CharacterCreationAgent]] — implements transitions
+- [LevelUpAgent](../entities/LevelUpAgent.md) — implements transitions
+- [CharacterCreationAgent](../entities/CharacterCreationAgent.md) — implements transitions

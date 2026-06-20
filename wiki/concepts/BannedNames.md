@@ -21,5 +21,5 @@ The [[WorldContentLoader]] module uses `load_banned_names()` to:
 4. Include in system instruction with enforcement rules
 
 ## Related
-- [[SystemInstruction]] - where banned names are enforced
-- [[WorldArchitect]] - the project using this concept
+- [SystemInstruction](SystemInstruction.md) - where banned names are enforced
+- [WorldArchitect](../entities/WorldArchitect.md) - the project using this concept

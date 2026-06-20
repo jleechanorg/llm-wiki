@@ -37,4 +37,4 @@ The Low Magic Roman setting allows players to engage with Roman history through 
 - [[Spartacus Tiberius Campaign]] — The campaign using this setting
 - [[Legions Vindicator Paladin]] — The class designed for this magic level
 - [[Marcus Crassus]] — Political power broker in this setting
-- [[Spartacus]] — The rebel leader challenging Roman power
+- [Spartacus](../entities/Spartacus.md) — The rebel leader challenging Roman power

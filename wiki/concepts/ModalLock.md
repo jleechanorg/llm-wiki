@@ -15,6 +15,6 @@ Modal lock is a state management pattern that prevents certain actions while a m
 - **Protected Flags**: Certain flags preserved during level-up to prevent blocking
 
 ## Related
-- [[LevelUp]] — game mechanic that uses modal lock
+- [LevelUp](LevelUp.md) — game mechanic that uses modal lock
 - [[CharacterCreationModal]] — modal being enforced
-- [[PR5282]] — PR implementing modal lock
+- [PR5282](../entities/PR5282.md) — PR implementing modal lock

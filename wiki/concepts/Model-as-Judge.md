@@ -70,10 +70,10 @@ OPA decides "allow"; Kubernetes enforces. OPA may also generate structured remed
 
 ## See Also
 
-- [[ZFC-Level-Up-Architecture]] — the WorldArchitect implementation of Model-as-Judge for level-up
+- [ZFC-Level-Up-Architecture](ZFC-Level-Up-Architecture.md) — the WorldArchitect implementation of Model-as-Judge for level-up
 - [[Constitutional-AI]] — self-critique as the mechanism for Model-as-Judge alignment
-- [[RLAIF]] — AI preference model as judge in the RLAIF/RLAIF framework
+- [RLAIF](RLAIF.md) — AI preference model as judge in the RLAIF/RLAIF framework
 - [[Fail-Closed]] — formatter enforcement as the "corrector" in Model-as-Judge
-- [[Corrigibility]] — alignment property that allows the system to correct model output
-- [[Self-Critique]] — the mechanism (model critiques its own reasoning)
-- [[OPA]] — infrastructure-level Model-as-Judge: OPA decides, application enforces
+- [Corrigibility](Corrigibility.md) — alignment property that allows the system to correct model output
+- [Self-Critique](Self-Critique.md) — the mechanism (model critiques its own reasoning)
+- [OPA](../entities/OPA.md) — infrastructure-level Model-as-Judge: OPA decides, application enforces

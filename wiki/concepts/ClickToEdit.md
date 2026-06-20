@@ -16,6 +16,6 @@ A user interaction pattern where clickable text elements transform into editable
 4. Save commits changes, cancel reverts to original
 
 ## Related Patterns
-- [[KeyboardShortcuts]] — Enter/Escape for save/cancel
-- [[ValidationAndErrorHandling]] — input validation with visual feedback
+- [KeyboardShortcuts](KeyboardShortcuts.md) — Enter/Escape for save/cancel
+- [ValidationAndErrorHandling](ValidationAndErrorHandling.md) — input validation with visual feedback
 - [[VisualTransitions]] — smooth state changes

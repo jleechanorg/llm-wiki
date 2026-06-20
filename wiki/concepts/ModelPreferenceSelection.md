@@ -16,5 +16,5 @@ System allowing users to specify their preferred LLM model (e.g., Gemini 2.0 Fla
 - **Test mode guard**: In test mode, returns default model — tests must patch to simulate preferences
 
 ## Related Concepts
-- [[StructuredResponse]]
-- [[LLM-FirstStateManagement]]
+- [StructuredResponse](StructuredResponse.md)
+- [LLM-FirstStateManagement](LLM-FirstStateManagement.md)

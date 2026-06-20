@@ -18,4 +18,4 @@ System that automatically removes defeated enemies from combat when their HP rea
 
 ## Related
 - [[HP-BasedDefeatDetection]]
-- [[GameState]]
+- [GameState](GameState.md)

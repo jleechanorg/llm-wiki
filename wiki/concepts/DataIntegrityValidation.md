@@ -26,6 +26,6 @@ In the World AI system, data integrity validation is critical for:
 
 ## Related Concepts
 
-- [[FirestoreService]] — handles state persistence where integrity matters
-- [[GameState]] — domain object requiring integrity guarantees
-- [[RegressionTesting]] — catching integrity bugs before they reach production
+- [FirestoreService](../entities/FirestoreService.md) — handles state persistence where integrity matters
+- [GameState](GameState.md) — domain object requiring integrity guarantees
+- [RegressionTesting](RegressionTesting.md) — catching integrity bugs before they reach production

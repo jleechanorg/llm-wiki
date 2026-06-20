@@ -10,13 +10,13 @@ total_scenes: 153
 
 ## Overview
 
-** Winterfell Courtyard appears in 10 scenes across the [[visenya-v6]] campaign.
+** Winterfell Courtyard appears in 10 scenes across the [visenya-v6](../sources/visenya-v6.md) campaign.
 
 ## Description
 
 ** Winterfell Courtyard is an entity from the visenya-v6 campaign.
 
 ## References
-- [[visenya-v6]] — campaign overview
-- [[visenya-v6-campaign]]
+- [visenya-v6](../sources/visenya-v6.md) — campaign overview
+- [visenya-v6-campaign](../sources/visenya-v6-campaign.md)
 

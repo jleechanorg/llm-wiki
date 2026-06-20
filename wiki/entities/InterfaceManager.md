@@ -10,9 +10,9 @@ last_updated: 2026-04-08
 JavaScript class in the WorldArchitect frontend that manages the interface system. Provides enableModernMode functionality for modern interface styling.
 
 ## Related Components
-- [[CampaignWizard]] — uses InterfaceManager for interface setup
-- [[EnhancedSearch]] — integrates with interface manager
-- [[InteractiveFeaturesCSS]] — provides styling for managed interfaces
+- [CampaignWizard](CampaignWizard.md) — uses InterfaceManager for interface setup
+- [EnhancedSearch](EnhancedSearch.md) — integrates with interface manager
+- [InteractiveFeaturesCSS](../concepts/InteractiveFeaturesCSS.md) — provides styling for managed interfaces
 
 ## Source Reference
 Validated by [[Milestone 4 Interactive Features Tests]]

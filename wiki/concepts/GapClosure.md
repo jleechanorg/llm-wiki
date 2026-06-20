@@ -31,6 +31,6 @@ Systematic program to close capability gaps between current stack and AO referen
 - ORCH-a68.1 blocks ORCH-orl
 
 ## Connections
-- [[AgentOrchestrator]] — gap target
-- [[mctrl]] — implementation target
-- [[jleechanclaw]] — implementation target
+- [AgentOrchestrator](../entities/AgentOrchestrator.md) — gap target
+- [mctrl](../entities/mctrl.md) — implementation target
+- [jleechanclaw](../entities/jleechanclaw.md) — implementation target

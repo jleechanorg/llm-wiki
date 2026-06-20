@@ -25,9 +25,9 @@ The Siren is a biological weapon of social engineering -- a being designed at th
 
 ## Connections
 
-- [[GaiaJuliaCaesar]] -- Character (see specific iteration)
-- [[gaia-julia-v4-campaign]] -- Active Siren campaign
-- [[gaia-julia-v5-campaign]] -- Dormant Siren campaign
-- [[ThirdServileWar]] -- Historical setting
-- [[LotusTen]] -- Devoted protection cult
-- [[StrippedOfPower]] -- V5's core theme
+- [GaiaJuliaCaesar](../entities/GaiaJuliaCaesar.md) -- Character (see specific iteration)
+- [gaia-julia-v4-campaign](../sources/gaia-julia-v4-campaign.md) -- Active Siren campaign
+- [gaia-julia-v5-campaign](../sources/gaia-julia-v5-campaign.md) -- Dormant Siren campaign
+- [ThirdServileWar](ThirdServileWar.md) -- Historical setting
+- [LotusTen](../entities/LotusTen.md) -- Devoted protection cult
+- [StrippedOfPower](StrippedOfPower.md) -- V5's core theme

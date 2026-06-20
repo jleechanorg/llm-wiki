@@ -12,5 +12,5 @@ Test NPC character paired with Alice in validation tests.
 Used alongside Alice in test pattern
 
 ## Connections
-- [[Alice]] — co-mentioned NPC
-- [[NPCPatternMatching]] — extraction method
+- [Alice](Alice.md) — co-mentioned NPC
+- [NPCPatternMatching](../concepts/NPCPatternMatching.md) — extraction method

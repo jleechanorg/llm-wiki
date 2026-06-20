@@ -19,7 +19,7 @@ Audit methodology that compares files at the path level before scoring capabilit
 - worldarchitect.ai: 4,136 tracked files
 
 ## Connections
-- [[mctrl]] — audited
-- [[jleechanclaw]] — audited
-- [[worldarchitect.ai]] — audited
-- [[AgentOrchestrator]] — reference baseline
+- [mctrl](../entities/mctrl.md) — audited
+- [jleechanclaw](../entities/jleechanclaw.md) — audited
+- [worldarchitect.ai](../entities/worldarchitect.ai.md) — audited
+- [AgentOrchestrator](../entities/AgentOrchestrator.md) — reference baseline

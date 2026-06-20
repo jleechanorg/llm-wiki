@@ -14,7 +14,7 @@ last_updated: 2026-05-07
 
 ## Summary
 
-cmux is a terminal application designed for AI-augmented workflows. It features vertical tabs/workspaces, horizontal splitting, and terminal-ready notifications (e.g., "this tab is ready"). Jeff Lee-Chan ([[JeffreyChan]]) gave it a prominent shoutout on Stellar Work EP57, calling it "the best terminal I've ever used, especially for AI."
+cmux is a terminal application designed for AI-augmented workflows. It features vertical tabs/workspaces, horizontal splitting, and terminal-ready notifications (e.g., "this tab is ready"). Jeff Lee-Chan ([JeffreyChan](JeffreyChan.md)) gave it a prominent shoutout on Stellar Work EP57, calling it "the best terminal I've ever used, especially for AI."
 
 ## Key Features
 
@@ -37,6 +37,6 @@ Traditional terminals (Warp, Ghostty, etc.) "didn't exactly hit it" for AI workf
 
 ## Connections
 
-- [[JeffreyChan]] — advocate and early adopter
-- [[StellarWorkPodcast]] — where the shoutout occurred
-- [[AgentOrchestrator]] — mentioned in same podcast segment as another young-builder exemplar
+- [JeffreyChan](JeffreyChan.md) — advocate and early adopter
+- [StellarWorkPodcast](StellarWorkPodcast.md) — where the shoutout occurred
+- [AgentOrchestrator](AgentOrchestrator.md) — mentioned in same podcast segment as another young-builder exemplar

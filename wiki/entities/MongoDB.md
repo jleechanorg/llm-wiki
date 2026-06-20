@@ -18,10 +18,10 @@ MongoDB provides a Vector Search and MCP Server for AI agent governance. Its Age
 
 ## Connections
 
-- [[ModelContextProtocol]] — MongoDB MCP Server implementation
-- [[AgentSkills]] — MongoDB externalizes agent skill configurations
+- [ModelContextProtocol](../concepts/ModelContextProtocol.md) — MongoDB MCP Server implementation
+- [AgentSkills](../concepts/AgentSkills.md) — MongoDB externalizes agent skill configurations
 - [[PerTenantIsolation]] — MongoDB's document model enables per-tenant isolation
 
 ## See Also
-- [[ModelContextProtocol]]
-- [[AgentSkills]]
+- [ModelContextProtocol](../concepts/ModelContextProtocol.md)
+- [AgentSkills](../concepts/AgentSkills.md)

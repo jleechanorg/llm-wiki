@@ -37,6 +37,6 @@ The WorldArchitect player consistently gravitates toward characters who dominate
 
 ## Related Concepts
 
-- [[Auctoritas]] — The narrative/metaphysical concept that CHA-based classes formalize
+- [Auctoritas](Auctoritas.md) — The narrative/metaphysical concept that CHA-based classes formalize
 - [[PolarizingBeauty]] — The physical trait that justifies CHA-based combat
 - [[TieredCampaignProgression]] — The structure these classes use for level 1-30 progression

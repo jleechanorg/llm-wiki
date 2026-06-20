@@ -24,5 +24,5 @@ The Heat System tracks how much attention Visenya's incognito activities are dra
 - **Endgame**: "Regional Heat: Extreme (95)" — the North is in open crisis
 
 ## Connections
-- [[VisenyaTargaryen]] — the agent whose actions generate Heat
-- [[EddardStark]] — the primary sensor of Heat; his assignment of spies tracks the Heat level
+- [VisenyaTargaryen](../entities/VisenyaTargaryen.md) — the agent whose actions generate Heat
+- [EddardStark](../entities/EddardStark.md) — the primary sensor of Heat; his assignment of spies tracks the Heat level

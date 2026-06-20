@@ -8,4 +8,4 @@ last_updated: 2026-04-08
 
 Transparent wrapper classes (CaptureFirestoreClient, CaptureGeminiClient) that wrap existing services without changing test code. Automatically used when RealServiceProvider is in capture mode, enabling interaction recording as a cross-cutting concern.
 
-**Related:** [[CaptureFirestoreClient]], [[CaptureGeminiClient]], [[CaptureManager]]
+**Related:** [CaptureFirestoreClient](../entities/CaptureFirestoreClient.md), [CaptureGeminiClient](../entities/CaptureGeminiClient.md), [CaptureManager](../entities/CaptureManager.md)

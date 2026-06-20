@@ -22,6 +22,6 @@ Gateway sets `X-Request-Id` on completions responses but CORS config has no `exp
 
 ## Connections
 
-- [[EvidenceTheater]] — workers never produce real evidence
-- [[VideoEvidenceFailure]] — video evidence failures
-- [[EvidenceGateVsCompileCI]] — evidence gate vs compile CI
+- [EvidenceTheater](EvidenceTheater.md) — workers never produce real evidence
+- [VideoEvidenceFailure](VideoEvidenceFailure.md) — video evidence failures
+- [EvidenceGateVsCompileCI](EvidenceGateVsCompileCI.md) — evidence gate vs compile CI

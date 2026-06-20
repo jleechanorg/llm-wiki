@@ -35,5 +35,5 @@ Scope workspace to project directory, not home directory.
 
 ## Connections
 
-- [[ClaudeCodeSLO]] — Claude Code SLO and compaction
-- [[ContextCompaction]] — Claude Code compaction
+- [ClaudeCodeSLO](ClaudeCodeSLO.md) — Claude Code SLO and compaction
+- [ContextCompaction](ContextCompaction.md) — Claude Code compaction

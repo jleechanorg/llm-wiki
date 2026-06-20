@@ -34,7 +34,7 @@ This class fits the Spartacus TV series aesthetic: blood-soaked arenas, marching
 
 ## Connections
 
-- [[Tiberius]] — The player character wielding this class
+- [Tiberius](../entities/Tiberius.md) — The player character wielding this class
 - [[Oath Of Rome]] — The oath subclass
 - [[Low Magic Roman]] — The campaign's historical realism theme
 - [[Spartacus Tiberius Campaign]] — Where this class was designed

@@ -27,12 +27,12 @@ Arion is principled but untested. He believes in honor, duty, and loyalty — bu
 Protagonist of the dragon-knight-evil campaign, set 40 A.G. (After Great Vanishing) in the Winter-Mourn Province.
 
 ## Connections
-- [[dragon-knight-evil-campaign]] — source campaign
-- [[AshwoodKeep]] — current location
-- [[WinterMourn]] — province
-- [[SilentThrone]] — ruling faction
-- [[ArgentEaglets]] — knight order
-- [[SilentPeace]] — governing concept
-- [[LadyAnnaliseAshwood]] — key NPC
-- [[PrefectGratian]] — commanding officer
-- [[EmpressSariel]] — absolute ruler
+- [dragon-knight-evil-campaign](../sources/dragon-knight-evil-campaign.md) — source campaign
+- [AshwoodKeep](AshwoodKeep.md) — current location
+- [WinterMourn](WinterMourn.md) — province
+- [SilentThrone](SilentThrone.md) — ruling faction
+- [ArgentEaglets](ArgentEaglets.md) — knight order
+- [SilentPeace](../concepts/SilentPeace.md) — governing concept
+- [LadyAnnaliseAshwood](LadyAnnaliseAshwood.md) — key NPC
+- [PrefectGratian](PrefectGratian.md) — commanding officer
+- [EmpressSariel](EmpressSariel.md) — absolute ruler

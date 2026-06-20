@@ -59,7 +59,7 @@ Many campaigns use a "Nocturne" character sharing the **Two-Masks/Snake-Eyes arc
 ## Connections
 
 - [[Tyranny Campaign]] — The campaign they star in
-- [[Verse]] — The Scarlet Chorus Fury, target of the "Itachi Experiment"
+- [Verse](Verse.md) — The Scarlet Chorus Fury, target of the "Itachi Experiment"
 - [[Discordia]] — Their named blade
 - [[College Of Swords Bard]] — Their class
 - [[Tiers Setting]] — The world of Terratus

@@ -34,9 +34,9 @@ def _validate_campaign_object(campaign):
 - Firestore document type checking
 
 ## Related Concepts
-- [[TypeSafety]] — the broader property type guards enforce
-- [[APIResponseValidation]] — type guards for API responses
-- [[ErrorHandlingPatterns]] — responding to guard failures
+- [TypeSafety](TypeSafety.md) — the broader property type guards enforce
+- [APIResponseValidation](APIResponseValidation.md) — type guards for API responses
+- [ErrorHandlingPatterns](ErrorHandlingPatterns.md) — responding to guard failures
 
 ## Sources
 - [[Type Safety Foundation Tests]] — test suite demonstrating type guard patterns

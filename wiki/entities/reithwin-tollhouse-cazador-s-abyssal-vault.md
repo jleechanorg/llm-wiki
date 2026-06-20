@@ -10,13 +10,13 @@ total_scenes: 386
 
 ## Overview
 
-** Reithwin Tollhouse - Cazador's Abyssal Vault appears in 3 scenes across the [[noctune-bg3-v6]] campaign.
+** Reithwin Tollhouse - Cazador's Abyssal Vault appears in 3 scenes across the [noctune-bg3-v6](../sources/noctune-bg3-v6.md) campaign.
 
 ## Description
 
 ** Reithwin Tollhouse - Cazador's Abyssal Vault is an entity from the noctune-bg3-v6 campaign.
 
 ## References
-- [[noctune-bg3-v6]] — campaign overview
-- [[noctune-bg3-v6-campaign]]
+- [noctune-bg3-v6](../sources/noctune-bg3-v6.md) — campaign overview
+- [noctune-bg3-v6-campaign](../sources/noctune-bg3-v6-campaign.md)
 

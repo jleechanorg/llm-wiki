@@ -11,4 +11,4 @@ Production campaign that exhibited JSON parsing failures when code execution was
 
 ## Related
 - [[CodeExecutionJSONParsingFixVerification]] — source of the bug report
-- [[NarrativeResponseSchema]] — file containing the fix
+- [NarrativeResponseSchema](NarrativeResponseSchema.md) — file containing the fix

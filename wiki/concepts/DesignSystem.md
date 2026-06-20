@@ -17,6 +17,6 @@ The Modern CSS Foundation serves as a design system with:
 - **Utility tokens**: Shadows, transitions, z-index scale
 
 ## Related concepts
-- [[CSSCustomProperties]] — the technical mechanism
+- [CSSCustomProperties](CSSCustomProperties.md) — the technical mechanism
 - [[DesignTokens]] — the specific token values
 - [[Figma]] — design tool that often exports to such systems

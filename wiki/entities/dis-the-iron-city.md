@@ -10,13 +10,13 @@ total_scenes: 606
 
 ## Overview
 
-** Dis (The Iron City) appears in 19 scenes across the [[faction-nocturne-bg3-v3]] campaign.
+** Dis (The Iron City) appears in 19 scenes across the [faction-nocturne-bg3-v3](../sources/faction-nocturne-bg3-v3.md) campaign.
 
 ## Description
 
 ** Dis (The Iron City) is an entity from the faction-nocturne-bg3-v3 campaign.
 
 ## References
-- [[faction-nocturne-bg3-v3]] — campaign overview
-- [[faction-nocturne-bg3-v3-campaign]]
+- [faction-nocturne-bg3-v3](../sources/faction-nocturne-bg3-v3.md) — campaign overview
+- [faction-nocturne-bg3-v3-campaign](../sources/faction-nocturne-bg3-v3-campaign.md)
 

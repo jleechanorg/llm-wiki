@@ -10,13 +10,13 @@ total_scenes: 500
 
 ## Overview
 
-** Great Southern Road - Outskirts of Aeterna appears in 7 scenes across the [[dragon-knight-evil]] campaign.
+** Great Southern Road - Outskirts of Aeterna appears in 7 scenes across the [dragon-knight-evil](../sources/dragon-knight-evil.md) campaign.
 
 ## Description
 
 ** Great Southern Road - Outskirts of Aeterna is an entity from the dragon-knight-evil campaign.
 
 ## References
-- [[dragon-knight-evil]] — campaign overview
-- [[dragon-knight-evil-campaign]]
+- [dragon-knight-evil](../sources/dragon-knight-evil.md) — campaign overview
+- [dragon-knight-evil-campaign](../sources/dragon-knight-evil-campaign.md)
 

@@ -19,5 +19,5 @@ Warning generation is the system that alerts players to approaching deadlines ba
 - **high**: Warnings when deadline is approaching (e.g., within 4 days)
 
 ## Related Concepts
-- [[TimeSensitiveEvents]] — events that generate warnings
-- [[DeadlineConsequences]] — what happens if warnings are ignored
+- [TimeSensitiveEvents](TimeSensitiveEvents.md) — events that generate warnings
+- [DeadlineConsequences](DeadlineConsequences.md) — what happens if warnings are ignored

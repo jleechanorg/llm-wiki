@@ -10,13 +10,13 @@ total_scenes: 117
 
 ## Overview
 
-** Villa of Lord Varro, Capua appears in 10 scenes across the [[gaia-julia-v3]] campaign.
+** Villa of Lord Varro, Capua appears in 10 scenes across the [gaia-julia-v3](../sources/gaia-julia-v3.md) campaign.
 
 ## Description
 
 ** Villa of Lord Varro, Capua is an entity from the gaia-julia-v3 campaign.
 
 ## References
-- [[gaia-julia-v3]] — campaign overview
-- [[gaia-julia-v3-campaign]]
+- [gaia-julia-v3](../sources/gaia-julia-v3.md) — campaign overview
+- [gaia-julia-v3-campaign](../sources/gaia-julia-v3-campaign.md)
 

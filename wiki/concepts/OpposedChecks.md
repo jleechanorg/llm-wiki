@@ -22,5 +22,5 @@ Result: Party A/B wins (higher total)
 ```
 
 ## Connection to Other Concepts
-- Uses [[ToolRequests]] mechanism
-- Related to [[SocialChecks]] for NPC interactions
+- Uses [ToolRequests](ToolRequests.md) mechanism
+- Related to [SocialChecks](SocialChecks.md) for NPC interactions

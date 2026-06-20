@@ -25,5 +25,5 @@ Silent configuration gaps in AO project configs can cause PRs to be silently exc
 
 ## Connections
 
-- [[AO-Blocker-Matrix]] — PR blocker triage
-- [[AO-Claim-Fail-Closed]] — AO claim fail-closed execution
+- [AO-Blocker-Matrix](AO-Blocker-Matrix.md) — PR blocker triage
+- [AO-Claim-Fail-Closed](AO-Claim-Fail-Closed.md) — AO claim fail-closed execution

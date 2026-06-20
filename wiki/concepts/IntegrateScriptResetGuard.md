@@ -75,7 +75,7 @@ All three need the same guard, generalized as a small helper function (`assert_c
 
 ## Related
 
-- [[PostMergeFollowupWorkflow]] — adjacent concept; covers fetching main + verifying merge is ancestor before writing follow-up work
-- [[WorktreeWorkflow]] — the worktree case is the most common trigger for the wrong-branch reset (worktree has feat branch checked out, integrate.sh tries to reset main from inside the worktree)
-- [[feedback-2026-06-16-git-reset-wrong-branch]] — the most recent occurrence
+- [PostMergeFollowupWorkflow](PostMergeFollowupWorkflow.md) — adjacent concept; covers fetching main + verifying merge is ancestor before writing follow-up work
+- [WorktreeWorkflow](WorktreeWorkflow.md) — the worktree case is the most common trigger for the wrong-branch reset (worktree has feat branch checked out, integrate.sh tries to reset main from inside the worktree)
+- [feedback-2026-06-16-git-reset-wrong-branch](../sources/feedback-2026-06-16-git-reset-wrong-branch.md) — the most recent occurrence
 - [[feedback-2026-05-05-integrate-reset-lost-pr-work]] — the prior occurrence (note the "Workaround" framing in the original; this concept page promotes it to a required harness fix)

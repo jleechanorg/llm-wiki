@@ -65,9 +65,9 @@ But the most durable defense is the **doctor.sh loud-WARN pattern** — add `con
 
 ## Related Concepts
 
-- [[OrchestrationSystemFragility]]
-- [[WatchdogOfWatchdogsArchitecture]]
-- [[AgentOrchestratorDoctorShV2]]
+- [OrchestrationSystemFragility](OrchestrationSystemFragility.md)
+- [WatchdogOfWatchdogsArchitecture](WatchdogOfWatchdogsArchitecture.md)
+- [AgentOrchestratorDoctorShV2](AgentOrchestratorDoctorShV2.md)
 - [[LoudFailFastPattern]] (proposed counter-pattern)
 - [[StructuredLoggingContract]]
 

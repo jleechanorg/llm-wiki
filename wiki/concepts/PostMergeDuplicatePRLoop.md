@@ -31,6 +31,6 @@ if pr.review_decision == 'CHANGES_REQUESTED' and not pr.mergeable:
 Also: subscribe workers to `merge` events, not just `review` events, so they know when to stop.
 
 ## Connections
-- [[Compound-Loops]] — related: loop without exit condition detection
+- [Compound-Loops](Compound-Loops.md) — related: loop without exit condition detection
 - [[PRWatchdog]] — PR monitoring; should detect this loop
-- [[CronJobAutomation]] — worker scheduling that triggers these loops
+- [CronJobAutomation](CronJobAutomation.md) — worker scheduling that triggers these loops

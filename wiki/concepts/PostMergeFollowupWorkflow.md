@@ -25,5 +25,5 @@ A stale local `origin/main` can invert the evidence: landed files look absent, f
 
 ## Related
 
-- [[SquashMerge]]
-- [[PRRecreatePipeline]]
+- [SquashMerge](SquashMerge.md)
+- [PRRecreatePipeline](PRRecreatePipeline.md)

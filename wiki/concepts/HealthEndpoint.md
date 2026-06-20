@@ -16,4 +16,4 @@ HTTP health endpoint used to verify that a service is running and responsive. Th
 
 ## Connections
 - [[OpenClawTailscaleTunnelScript]] — verifies gateway health before Funnel configuration
-- [[OpenClaw]] — provides the /health endpoint
+- [OpenClaw](../entities/OpenClaw.md) — provides the /health endpoint

@@ -20,6 +20,6 @@ Project Apotheosis is the central storyline of the Nocturne Old Republic campaig
 - **Galactic Harvest:** Scale operations across the Empire
 
 ## Connections
-- [[NocturneOldRepublic]] — Subject
-- [[HouseVitiate]] — Project lead
-- [[EssenceDevourer]] — Required trait
+- [NocturneOldRepublic](../entities/NocturneOldRepublic.md) — Subject
+- [HouseVitiate](../entities/HouseVitiate.md) — Project lead
+- [EssenceDevourer](EssenceDevourer.md) — Required trait

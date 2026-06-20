@@ -13,4 +13,4 @@ A theme variant for the MVP site that uses CSS selectors like [data-theme='fanta
 When a theme is active (via data-theme attribute on document), CSS rules like `[data-theme='fantasy'] .resources { background-color: ... }` apply. However, if the HTML element itself has `style="background-color: ..."`, that inline style takes precedence and the theme override becomes dead code.
 
 ## Connections
-- [[AppJs]] — contains the inline styles that may block this theme's overrides
+- [AppJs](../entities/AppJs.md) — contains the inline styles that may block this theme's overrides

@@ -10,13 +10,13 @@ total_scenes: 474
 
 ## Overview
 
-** Service Conduits, Villa of the Iron Wheel appears in 3 scenes across the [[rome-pax-julia]] campaign.
+** Service Conduits, Villa of the Iron Wheel appears in 3 scenes across the [rome-pax-julia](../sources/rome-pax-julia.md) campaign.
 
 ## Description
 
 ** Service Conduits, Villa of the Iron Wheel is an entity from the rome-pax-julia campaign.
 
 ## References
-- [[rome-pax-julia]] — campaign overview
-- [[rome-pax-julia-campaign]]
+- [rome-pax-julia](../sources/rome-pax-julia.md) — campaign overview
+- [rome-pax-julia-campaign](../sources/rome-pax-julia-campaign.md)
 

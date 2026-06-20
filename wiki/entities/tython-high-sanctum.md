@@ -10,13 +10,13 @@ total_scenes: 396
 
 ## Overview
 
-** Tython - High Sanctum appears in 8 scenes across the [[nocturne-old-republic]] campaign.
+** Tython - High Sanctum appears in 8 scenes across the [nocturne-old-republic](../sources/nocturne-old-republic.md) campaign.
 
 ## Description
 
 ** Tython - High Sanctum is an entity from the nocturne-old-republic campaign.
 
 ## References
-- [[nocturne-old-republic]] — campaign overview
-- [[nocturne-old-republic-campaign]]
+- [nocturne-old-republic](../sources/nocturne-old-republic.md) — campaign overview
+- [nocturne-old-republic-campaign](../sources/nocturne-old-republic-campaign.md)
 

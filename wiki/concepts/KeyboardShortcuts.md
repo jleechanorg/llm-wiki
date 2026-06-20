@@ -30,5 +30,5 @@ handleKeydown(e) {
 - Reduces time to complete edit workflow
 
 ## Related Concepts
-- [[ClickToEdit]] — the pattern this shortcuts support
+- [ClickToEdit](ClickToEdit.md) — the pattern this shortcuts support
 - [[Accessibility]] — keyboard navigation support

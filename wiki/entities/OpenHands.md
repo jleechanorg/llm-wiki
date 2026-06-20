@@ -20,11 +20,11 @@ OpenHands (All-Hands-AI) is an AI coding agent achieving 77.6% on SWE-bench. It 
 
 ## Connections
 
-- [[SWE-bench]] — OpenHands is evaluated on SWE-bench (77.6% score)
-- [[CodingAgent]] — OpenHands is a coding agent
-- [[Voyager]] — both are agents with skill library retrieval patterns
-- [[Devin]] — competing AI coding agent
+- [SWE-bench](../concepts/SWE-bench.md) — OpenHands is evaluated on SWE-bench (77.6% score)
+- [CodingAgent](../concepts/CodingAgent.md) — OpenHands is a coding agent
+- [Voyager](Voyager.md) — both are agents with skill library retrieval patterns
+- [Devin](Devin.md) — competing AI coding agent
 
 ## See Also
-- [[SWE-bench]]
-- [[CodingAgent]]
+- [SWE-bench](../concepts/SWE-bench.md)
+- [CodingAgent](../concepts/CodingAgent.md)

@@ -50,6 +50,6 @@ rewards_box shown? ─── No ──┬── level_up_pending=False? ── Y
 ## Connections
 
 - [[LevelUpBugFixPostMortem20260418]] — 7 classes required full mapping before fix
-- [[FirestoreSerializationTrap]] — root cause of multiple classes
-- [[TrunkBasedDevelopment]] — one PR per class = small diffs = faster review
-- [[AgentDrift]] — agents spawned without class context drift to wrong fixes
+- [FirestoreSerializationTrap](FirestoreSerializationTrap.md) — root cause of multiple classes
+- [TrunkBasedDevelopment](TrunkBasedDevelopment.md) — one PR per class = small diffs = faster review
+- [AgentDrift](AgentDrift.md) — agents spawned without class context drift to wrong fixes

@@ -18,4 +18,4 @@ AI-generated narrative that continues a story based on user actions and campaign
 
 ## Related Pages
 - [[AI Content Personalization Integration Test]] — tests continuation with campaign data
-- [[LLMRequest]] — builds these requests
+- [LLMRequest](LLMRequest.md) — builds these requests

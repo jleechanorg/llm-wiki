@@ -23,5 +23,5 @@ Sub-Deities are key NPCs elevated to divine status with assigned portfolios:
 
 ## Related Concepts
 - [[SubDeity]] — elevated NPC status within Hegemony
-- [[SovereignProtocol]] — tier that creates Hegemony
-- [[PanSubstrate]] — operating territory for Hegemony
+- [SovereignProtocol](SovereignProtocol.md) — tier that creates Hegemony
+- [PanSubstrate](PanSubstrate.md) — operating territory for Hegemony

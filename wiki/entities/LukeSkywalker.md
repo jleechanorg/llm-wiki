@@ -26,9 +26,9 @@ The campaign combines the Star Wars universe with the post-Baldur's Gate 3 setti
 ## Connections
 
 - [[LukeV2Campaign]] — Campaign overview
-- [[ForceUserClass]] — Custom character class
-- [[ForceAlignmentTracker]] — Core mechanic
+- [ForceUserClass](../concepts/ForceUserClass.md) — Custom character class
+- [ForceAlignmentTracker](../concepts/ForceAlignmentTracker.md) — Core mechanic
 - [[LightSideAdept]] — Subclass concept
 - [[DarkSideCorruptor]] — Possible progression
 - [[GreyJedi]] — Middle path
-- [[BaldursGate]] — Crossover setting
+- [BaldursGate](BaldursGate.md) — Crossover setting

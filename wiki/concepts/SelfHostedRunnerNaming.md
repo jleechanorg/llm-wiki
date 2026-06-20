@@ -28,8 +28,8 @@ gh api orgs/jleechanorg/actions/runners --jq '.runners[] | {name, status}'
 
 ## Connected Concepts
 
-- [[InstallScriptIdempotency]] — install.sh must not corrupt .env with duplicate entries
-- [[Launchd]] — launchd plist management for runner auto-restart
+- [InstallScriptIdempotency](InstallScriptIdempotency.md) — install.sh must not corrupt .env with duplicate entries
+- [Launchd](Launchd.md) — launchd plist management for runner auto-restart
 
 ## Stable install path (2026-06-09)
 
@@ -45,4 +45,4 @@ cp self-hosted-oss/{defaults,launchd-start,heal-runners,start-runner}.sh \
    ~/.local/share/worldarchitect-runners/
 ```
 
-See: [[feedback-2026-06-09-runner-supervisor-and-ops]] (PR #7271, bead rev-5ysuv)
+See: [feedback-2026-06-09-runner-supervisor-and-ops](../sources/feedback-2026-06-09-runner-supervisor-and-ops.md) (PR #7271, bead rev-5ysuv)

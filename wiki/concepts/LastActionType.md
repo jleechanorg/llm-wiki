@@ -13,5 +13,5 @@ Game state attribute that tracks the most recently executed action type (e.g., "
 The current DialogAgent implementation does not properly trigger on "persuasion" as a last_action_type value.
 
 ## Related
-- [[DialogAgent]] should respond to this for dialog continuity
-- [[GameState]] maintains this attribute
+- [DialogAgent](../entities/DialogAgent.md) should respond to this for dialog continuity
+- [GameState](GameState.md) maintains this attribute

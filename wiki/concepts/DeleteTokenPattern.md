@@ -19,5 +19,5 @@ ai_proposed_changes = {"npc_data": {"Bandit_1": "__DELETE__"}}
 ```
 
 ## Related Patterns
-- [[SmartNPCDataHandling]] — string value handling
-- [[FirestoreStateManagement]] — broader state update patterns
+- [SmartNPCDataHandling](SmartNPCDataHandling.md) — string value handling
+- [FirestoreStateManagement](FirestoreStateManagement.md) — broader state update patterns

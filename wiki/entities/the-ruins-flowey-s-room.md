@@ -10,13 +10,13 @@ total_scenes: 145
 
 ## Overview
 
-** The Ruins - Flowey's Room appears in 6 scenes across the [[undertale]] campaign.
+** The Ruins - Flowey's Room appears in 6 scenes across the [undertale](../sources/undertale.md) campaign.
 
 ## Description
 
 ** The Ruins - Flowey's Room is an entity from the undertale campaign.
 
 ## References
-- [[undertale]] — campaign overview
-- [[undertale-campaign]]
+- [undertale](../sources/undertale.md) — campaign overview
+- [undertale-campaign](../sources/undertale-campaign.md)
 

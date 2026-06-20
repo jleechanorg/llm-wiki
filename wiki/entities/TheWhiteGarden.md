@@ -21,7 +21,7 @@ The White Garden is a sanctuary of pristine, broken wills operated by Sosuke Aiz
 
 ## Connections
 
-- [[SosukeAizen]] — owner/operator
+- [SosukeAizen](SosukeAizen.md) — owner/operator
 - [[Vespera]] — "Flower" asset
-- [[BaldursGate]] — city location
-- [[AizenBg3]] — first campaign setting
+- [BaldursGate](BaldursGate.md) — city location
+- [AizenBg3](AizenBg3.md) — first campaign setting

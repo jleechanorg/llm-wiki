@@ -10,13 +10,13 @@ total_scenes: 140
 
 ## Overview
 
-** Partially Collapsed Portico, Capua appears in 9 scenes across the [[gaia-julia-v6]] campaign.
+** Partially Collapsed Portico, Capua appears in 9 scenes across the [gaia-julia-v6](../sources/gaia-julia-v6.md) campaign.
 
 ## Description
 
 ** Partially Collapsed Portico, Capua is an entity from the gaia-julia-v6 campaign.
 
 ## References
-- [[gaia-julia-v6]] — campaign overview
-- [[gaia-julia-v6-campaign]]
+- [gaia-julia-v6](../sources/gaia-julia-v6.md) — campaign overview
+- [gaia-julia-v6-campaign](../sources/gaia-julia-v6-campaign.md)
 

@@ -14,4 +14,4 @@ Used in the testing framework to switch between mock and real service providers 
 
 ## Related Concepts
 - [[SingletonPattern]] — factory maintains global state via `get_current_provider()`
-- [[DependencyInjection]] — providers injected rather than hardcoded
+- [DependencyInjection](DependencyInjection.md) — providers injected rather than hardcoded

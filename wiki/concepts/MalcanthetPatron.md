@@ -11,7 +11,7 @@ Malcanthet Patron is the relationship mechanic where Malcanthet replaced Zariel 
 
 ## Key Details
 - **Category:** GameMechanic / Patron Relationship
-- **Campaign(s):** [[nocturne-bg3-v5-succubus]], [[nocturne-bg3-v5-succubus-copy]], [[nocturne-bg3-v5-fixed-v2]]
+- **Campaign(s):** [nocturne-bg3-v5-succubus](../sources/nocturne-bg3-v5-succubus.md), [nocturne-bg3-v5-succubus-copy](../sources/nocturne-bg3-v5-succubus-copy.md), [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md)
 
 ## Related Concepts
 - [[InfernalPatron]] — general concept
@@ -19,6 +19,6 @@ Malcanthet Patron is the relationship mechanic where Malcanthet replaced Zariel 
 - [[PactInversion]] — how this was achieved
 
 ## Related Entities
-- [[NocturneSosuke]] — patron recipient
-- [[Malcanthet]] — patron
+- [NocturneSosuke](../entities/NocturneSosuke.md) — patron recipient
+- [Malcanthet](../entities/Malcanthet.md) — patron
 - [[Zariel]] — predecessor

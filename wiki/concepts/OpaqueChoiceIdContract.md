@@ -29,11 +29,11 @@ to infer action meaning.
 
 ## Related Concepts
 
-- [[PlanningChoice]]
-- [[PlanningBlock]]
-- [[ArchitecturalBoundaries]]
+- [PlanningChoice](PlanningChoice.md)
+- [PlanningBlock](PlanningBlock.md)
+- [ArchitecturalBoundaries](ArchitecturalBoundaries.md)
 - [[Red-Green-Refactor]]
-- [[ChoiceIdPrefix]]
+- [ChoiceIdPrefix](ChoiceIdPrefix.md)
 ## Scope Boundary From PR6906 (2026-05-17)
 
 Opaque choice-ID migration is staged architecture work, not a tail fix for a level-up guard PR. If an active PR is already retaining backend correction guards or rerunning `/es` for moving-head evidence, do not fold full opaque-ID schema/resolver migration into that same PR. Split it into its own contract PR with RED schema/resolver tests first.

@@ -16,7 +16,7 @@ Noh Hwa-young controls IM Defense with an unforgiving hand. Unlike her weak-will
 Calculating, cruel, and absolutely dedicated to her vision of control, Noh Hwa-young shows no weakness. Her treatment of her own son demonstrates that family bonds mean nothing against her pursuit of power.
 
 ## Connections
-- [[doberman-campaign]] — source campaign
-- [[NohTaenam]] — her son and subordinate
-- [[IMDefense]] — the organization she controls
-- [[Sariel]] — possible rival or superior
+- [doberman-campaign](../sources/doberman-campaign.md) — source campaign
+- [NohTaenam](NohTaenam.md) — her son and subordinate
+- [IMDefense](IMDefense.md) — the organization she controls
+- [Sariel](Sariel.md) — possible rival or superior

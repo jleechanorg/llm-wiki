@@ -14,6 +14,6 @@ Mock service provider implementation used in testing. Provides mock instances of
 - CI/CD test pipelines
 
 ## Related Entities
-- [[MockFirestoreClient]] — mock Firestore implementation
-- [[MockLLMClient]] — mock LLM client
-- [[TestServiceProvider]] — interface being implemented
+- [MockFirestoreClient](MockFirestoreClient.md) — mock Firestore implementation
+- [MockLLMClient](MockLLMClient.md) — mock LLM client
+- [TestServiceProvider](TestServiceProvider.md) — interface being implemented

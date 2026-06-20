@@ -36,8 +36,8 @@ Despite Level 1 classification, her "Singularity" template makes her effectively
 
 ## Connections
 
-- [[GaiaJuliaCaesar]] -- Character using this build
-- [[gaia-julia-v3-campaign]] -- Campaign
-- [[PsionicMiasma]] -- Magical visual system
-- [[LotusTen]] -- Fanatical followers
-- [[GestaltProgression]] -- General gestalt mechanics
+- [GaiaJuliaCaesar](../entities/GaiaJuliaCaesar.md) -- Character using this build
+- [gaia-julia-v3-campaign](../sources/gaia-julia-v3-campaign.md) -- Campaign
+- [PsionicMiasma](PsionicMiasma.md) -- Magical visual system
+- [LotusTen](../entities/LotusTen.md) -- Fanatical followers
+- [GestaltProgression](GestaltProgression.md) -- General gestalt mechanics

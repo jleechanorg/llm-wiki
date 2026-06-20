@@ -10,5 +10,5 @@ last_updated: 2026-04-08
 Feature that caches campaign data locally to enable offline access. Part of authentication resilience strategy allowing users to continue viewing cached data during connectivity issues.
 
 ## Related Concepts
-- [[AuthenticationResilience]] — broader resilience approach
-- [[UserFriendlyErrorMessages]] — fallback messaging for offline users
+- [AuthenticationResilience](AuthenticationResilience.md) — broader resilience approach
+- [UserFriendlyErrorMessages](UserFriendlyErrorMessages.md) — fallback messaging for offline users

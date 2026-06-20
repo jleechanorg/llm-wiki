@@ -241,8 +241,8 @@ Comparing against real originals (not baselines) reveals:
 ---
 
 ## See Also
-- [[CanonicalCodeScorer]] — 6-dim rubric
-- [[SelfRefine]] — technique details
-- [[AutoResearchConvergenceOracle]] — Phase 2 convergence findings
+- [CanonicalCodeScorer](../concepts/CanonicalCodeScorer.md) — 6-dim rubric
+- [SelfRefine](../concepts/SelfRefine.md) — technique details
+- [AutoResearchConvergenceOracle](../concepts/AutoResearchConvergenceOracle.md) — Phase 2 convergence findings
 - `wiki/syntheses/cycle_pr-recreate-v1.md` — Phase 2 results
 - `wiki/syntheses/cycle_phase3_hypothesis.md` — Phase 3 hypotheses

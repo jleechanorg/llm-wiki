@@ -16,4 +16,4 @@ Model Context Protocol — a standard for AI systems to call tools. The stdio ad
 
 ## Connections
 - [[WorldAI MCP STDIO Adapter]] — Implements MCP as stdio-based server
-- [[WorldAIToolsProxy]] — Provides tool implementation backing this MCP server
+- [WorldAIToolsProxy](../entities/WorldAIToolsProxy.md) — Provides tool implementation backing this MCP server

@@ -15,5 +15,5 @@ Backend API endpoint for persisting and retrieving user settings. Exposed at `/a
 - Settings persist across requests with same user ID
 
 ## Connection
-- Part of [[SettingsPageUI]] system
+- Part of [SettingsPageUI](SettingsPageUI.md) system
 - Frontend consumed by [[Settings Page]]

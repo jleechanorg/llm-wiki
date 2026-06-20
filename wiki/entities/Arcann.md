@@ -11,13 +11,13 @@ Arcann is the God-Marshal of the Nocturne dynasty in the Nocturne Old Republic c
 
 ## Key Details
 - **Category:** Person / NPC / Sibling of Nocturne
-- **Campaign(s):** [[nocturne-old-republic]]
+- **Campaign(s):** [nocturne-old-republic](../sources/nocturne-old-republic.md)
 - **Role:** God-Marshal (military commander)
 - **Physical Description:** Obsidian skin
 - **Gift from Nocturne:** The **Aegis-Star** — a moon-sized dreadnought woven from the living bone of the Vong and the gravitational logic of the Second Heart; his mobile throne and the ultimate shield of the Outer Rim
 
 ## Connections
-- [[NocturneOldRepublic]] — Nocturne's sibling, the God-Empress who granted him the Aegis-Star
-- [[HouseVitiate]] — their house
-- [[Thexan]] — sibling, diplomat
-- [[Senya]] — mother
+- [NocturneOldRepublic](NocturneOldRepublic.md) — Nocturne's sibling, the God-Empress who granted him the Aegis-Star
+- [HouseVitiate](HouseVitiate.md) — their house
+- [Thexan](Thexan.md) — sibling, diplomat
+- [Senya](Senya.md) — mother

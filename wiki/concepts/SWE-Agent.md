@@ -19,6 +19,6 @@ Core principles:
 
 ## Connections
 
-- Related to [[OpenHands]] — open platform for coding agents
-- Related to [[SWE-Shepherd]] — PRM-based step-level guidance
-- Related to [[SWE-bench]] — benchmark for software engineering
+- Related to [OpenHands](OpenHands.md) — open platform for coding agents
+- Related to [SWE-Shepherd](SWE-Shepherd.md) — PRM-based step-level guidance
+- Related to [SWE-bench](SWE-bench.md) — benchmark for software engineering

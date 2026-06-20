@@ -10,13 +10,13 @@ total_scenes: 173
 
 ## Overview
 
-** Chamber of the Painted Table, Dragonstone appears in 5 scenes across the [[visenya-v3]] campaign.
+** Chamber of the Painted Table, Dragonstone appears in 5 scenes across the [visenya-v3](../sources/visenya-v3.md) campaign.
 
 ## Description
 
 ** Chamber of the Painted Table, Dragonstone is an entity from the visenya-v3 campaign.
 
 ## References
-- [[visenya-v3]] — campaign overview
+- [visenya-v3](../sources/visenya-v3.md) — campaign overview
 - [[visenya-v3-campaign]]
 

@@ -28,7 +28,7 @@ The JSON schema for LLM responses in WorldArchitect.AI, defining the structure o
 - **Non-Combat**: Standard narrative response with choices
 
 ## Connections
-- [[SessionHeader]] — session_header field specification
+- [SessionHeader](SessionHeader.md) — session_header field specification
 - [[DiceMechanics]] — tool_requests for combat dice
-- [[PlanningBlock]] — player choice framework
+- [PlanningBlock](PlanningBlock.md) — player choice framework
 - [[GameStateExamples]] — primary source for format examples

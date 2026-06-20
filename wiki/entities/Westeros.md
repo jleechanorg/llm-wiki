@@ -19,6 +19,6 @@ Westeros is the continent that serves as the primary setting for the Aemon Game 
 
 ## Connections
 
-- [[AegonTargaryen]] — player character, secret Targaryen heir
-- [[Westerlands]] — starting region
-- [[AemonGameOfThrones]] — the campaign
+- [AegonTargaryen](AegonTargaryen.md) — player character, secret Targaryen heir
+- [Westerlands](Westerlands.md) — starting region
+- [AemonGameOfThrones](../concepts/AemonGameOfThrones.md) — the campaign

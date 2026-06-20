@@ -26,4 +26,4 @@ Replace story entry
 
 ## Connections
 - [[Parallel Dual-Pass Optimization]] — The optimization framework using enhancement
-- [[TASK-019]] — Implementation task for entity enhancement
+- [TASK-019](../entities/TASK-019.md) — Implementation task for entity enhancement

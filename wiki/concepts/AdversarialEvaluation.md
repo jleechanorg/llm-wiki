@@ -15,14 +15,14 @@ Adversarial evaluation methods test AI systems using oppositional or critical ap
 ## Related Systems
 | System | Type | Relevance |
 |--------|------|-----------|
-| [[AttractorBench]] | Benchmark | Sealed evaluator is adversarial — agent doesn't know the tests |
-| [[AgentIsolation]] | Concept | Prevents agent from gaming conformance tests |
-| [[AttractorPattern]] | Pattern | CXDB + Healer is a form of automated adversarial monitoring |
+| [AttractorBench](../entities/AttractorBench.md) | Benchmark | Sealed evaluator is adversarial — agent doesn't know the tests |
+| [AgentIsolation](AgentIsolation.md) | Concept | Prevents agent from gaming conformance tests |
+| [AttractorPattern](AttractorPattern.md) | Pattern | CXDB + Healer is a form of automated adversarial monitoring |
 
 ## Connection to Attractor Pattern
 The Attractor pattern embodies adversarial evaluation at multiple levels: (1) sealed conformance tests the agent can't see, (2) CXDB monitors every step for anomalies, (3) Healer clusters failures adversarially, (4) Tracker's cross-review uses three independent LLM providers critiquing each other.
 
 ## See Also
-- [[AgentIsolation]]
-- [[AttractorBench]]
-- [[CXDB]]
+- [AgentIsolation](AgentIsolation.md)
+- [AttractorBench](../entities/AttractorBench.md)
+- [CXDB](CXDB.md)

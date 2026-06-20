@@ -14,5 +14,5 @@ python scripts/check_schema_coverage.py --report-json --fail-under 0 --required-
 ```
 
 ## Related
-- [[SchemaCoverage]] — concept tested by this script
-- [[GameStateSchema]] — schema being validated
+- [SchemaCoverage](../concepts/SchemaCoverage.md) — concept tested by this script
+- [GameStateSchema](GameStateSchema.md) — schema being validated

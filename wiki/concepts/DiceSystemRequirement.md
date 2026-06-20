@@ -29,4 +29,4 @@ Dice rolls stored in:
 
 ## Related Concepts
 - [[CombatSystemProtocol]] — parent protocol
-- [[InitiativeOrder]] — where dice are rolled during turns
+- [InitiativeOrder](InitiativeOrder.md) — where dice are rolled during turns

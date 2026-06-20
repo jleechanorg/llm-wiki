@@ -15,5 +15,5 @@ A D&D campaign type featuring Ser Arion's quest to defend the [[Celestial Imperi
 - **Ruler**: [[Empress Sariel]]
 
 ## Related Pages
-- [[CampaignWizard]] - handles campaign creation
-- [[CampaignDescription]] - concept for description handling
+- [CampaignWizard](CampaignWizard.md) - handles campaign creation
+- [CampaignDescription](../concepts/CampaignDescription.md) - concept for description handling

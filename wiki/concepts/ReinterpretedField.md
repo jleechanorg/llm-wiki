@@ -17,5 +17,5 @@ A boolean flag in action_resolution indicating whether the LLM reinterpreted the
 Used for audit and transparency — players can see when their input was reinterpreted rather than taken literally.
 
 ## Related Concepts
-- [[ActionResolution]] — parent field
-- [[AuditFlags]] — related audit tracking field
+- [ActionResolution](ActionResolution.md) — parent field
+- [AuditFlags](AuditFlags.md) — related audit tracking field

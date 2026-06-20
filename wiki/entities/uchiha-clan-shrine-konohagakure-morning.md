@@ -10,13 +10,13 @@ total_scenes: 527
 
 ## Overview
 
-** Uchiha Clan Shrine, Konohagakure, Morning appears in 3 scenes across the [[itachi-evil-campaign-2]] campaign.
+** Uchiha Clan Shrine, Konohagakure, Morning appears in 3 scenes across the [itachi-evil-campaign-2](../sources/itachi-evil-campaign-2.md) campaign.
 
 ## Description
 
 ** Uchiha Clan Shrine, Konohagakure, Morning is an entity from the itachi-evil-campaign-2 campaign.
 
 ## References
-- [[itachi-evil-campaign-2]] — campaign overview
-- [[itachi-evil-campaign-2-campaign]]
+- [itachi-evil-campaign-2](../sources/itachi-evil-campaign-2.md) — campaign overview
+- [itachi-evil-campaign-2-campaign](../sources/itachi-evil-campaign-2-campaign.md)
 

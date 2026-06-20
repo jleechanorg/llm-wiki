@@ -25,7 +25,7 @@ Rule 12 is the STRONGEST enforcement in the skeptic prompt because it is determi
 
 ## See Also
 
-- [[skeptic-gate-7]] — Technical review gate
-- [[skeptic-gate-8]] — Alignment gate (Rule 12 is part of Gate 8 enforcement)
-- [[tenets-gap]] — The gap for tenets/scope (no equivalent to Rule 12)
+- [skeptic-gate-7](skeptic-gate-7.md) — Technical review gate
+- [skeptic-gate-8](skeptic-gate-8.md) — Alignment gate (Rule 12 is part of Gate 8 enforcement)
+- [tenets-gap](tenets-gap.md) — The gap for tenets/scope (no equivalent to Rule 12)
 - [[skeptic-agent]]

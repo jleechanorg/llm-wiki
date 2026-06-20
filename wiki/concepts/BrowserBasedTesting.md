@@ -16,6 +16,6 @@ Testing approach that simulates browser environment to test frontend JavaScript 
 - Event simulation (clicks, form submissions)
 
 ## Connections
-- [[jsdom]] — tool enabling browser-based testing
+- [jsdom](../entities/jsdom.md) — tool enabling browser-based testing
 - [[SophisticatedWizardTestJsdom]] — example of browser-based testing
 - [[DOMSimulation]] — related concept

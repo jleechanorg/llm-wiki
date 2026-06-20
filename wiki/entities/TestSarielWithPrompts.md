@@ -19,5 +19,5 @@ Test file running one Sariel campaign with first 10 interactions while logging p
 - Focuses on prompt debugging
 
 ## Connections
-- [[TestSarielConsolidated]] — replacement test
+- [TestSarielConsolidated](TestSarielConsolidated.md) — replacement test
 - [[SarielTestFilesAnalysis]] — source analysis

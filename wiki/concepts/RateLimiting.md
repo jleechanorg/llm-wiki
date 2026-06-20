@@ -16,5 +16,5 @@ Rate limiting controls how many requests a user can make within a time window. T
 - **BYOK users**: Elevated limits for users providing their own API key
 
 ## Related Concepts
-- [[BYOK]] - Bring Your Own Key model
-- [[FirestoreService]] - Database storage for rate limit tracking
+- [BYOK](BYOK.md) - Bring Your Own Key model
+- [FirestoreService](../entities/FirestoreService.md) - Database storage for rate limit tracking

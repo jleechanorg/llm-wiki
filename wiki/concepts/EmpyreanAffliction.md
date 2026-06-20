@@ -7,13 +7,13 @@ last_updated: 2026-04-08
 ---
 
 ## Overview
-The Empyrean Affliction is a condition managed by the [[PrincipateSenate]] in the [[CelestialImperium]], related to divine bloodline consequences.
+The Empyrean Affliction is a condition managed by the [PrincipateSenate](../entities/PrincipateSenate.md) in the [CelestialImperium](CelestialImperium.md), related to divine bloodline consequences.
 
 ## Key Facts
-- Managed by: [[PrincipateSenate]]
+- Managed by: [PrincipateSenate](../entities/PrincipateSenate.md)
 - Affected: Those with divine bloodline
 - Context: Political intrigue management
 
 ## Related Concepts
-- [[DivineBloodlineHierarchy]]
-- [[CelestialImperium]]
+- [DivineBloodlineHierarchy](DivineBloodlineHierarchy.md)
+- [CelestialImperium](CelestialImperium.md)

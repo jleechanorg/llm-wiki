@@ -34,7 +34,7 @@ Aizen Thay V1 is a dark fantasy noir campaign set in Thay during the "Century of
 
 ## Connections
 
-- [[AizenVane]] — player character
+- [AizenVane](../entities/AizenVane.md) — player character
 - [[ObsidianZiggurat]] — operating base
-- [[ShatteredRose]] — faction
+- [ShatteredRose](../entities/ShatteredRose.md) — faction
 - [[Thay]] — setting nation

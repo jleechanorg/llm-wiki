@@ -22,7 +22,7 @@ Step-level feedback solves three core problems in code agents: inefficient explo
 Aligning intermediate rewards with final task success is non-trivial — a locally good action may not lead to a globally correct solution, creating reward hacking risk similar to outcome-supervised approaches.
 
 ## Connections
-- [[ProcessRewardModel]] — the core technique enabling step-level feedback
-- [[SWE-Bench]] — benchmark providing training trajectories and evaluation
+- [ProcessRewardModel](ProcessRewardModel.md) — the core technique enabling step-level feedback
+- [SWE-Bench](SWE-Bench.md) — benchmark providing training trajectories and evaluation
 - [[CodeAgents]] — the target application; long-horizon repository-level tasks
-- [[FM-Agent]] — complementary approach: FM-Agent verifies code post-generation, SWE-Shepherd guides generation in real-time
+- [FM-Agent](FM-Agent.md) — complementary approach: FM-Agent verifies code post-generation, SWE-Shepherd guides generation in real-time

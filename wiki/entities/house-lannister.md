@@ -10,13 +10,13 @@ total_scenes: 140
 
 ## Overview
 
-House Lannister appears in 5 scenes across the [[arthur-dayne]] campaign.
+House Lannister appears in 5 scenes across the [arthur-dayne](../sources/arthur-dayne.md) campaign.
 
 ## Description
 
 House Lannister is an entity from the arthur-dayne campaign.
 
 ## References
-- [[arthur-dayne]] — campaign overview
-- [[arthur-dayne-campaign]]
+- [arthur-dayne](../sources/arthur-dayne.md) — campaign overview
+- [arthur-dayne-campaign](../sources/arthur-dayne-campaign.md)
 

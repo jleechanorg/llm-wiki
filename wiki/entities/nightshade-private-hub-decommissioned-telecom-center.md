@@ -10,13 +10,13 @@ total_scenes: 685
 
 ## Overview
 
-** Nightshade Private Hub (Decommissioned Telecom Center) appears in 16 scenes across the [[sariel-killer]] campaign.
+** Nightshade Private Hub (Decommissioned Telecom Center) appears in 16 scenes across the [sariel-killer](../sources/sariel-killer.md) campaign.
 
 ## Description
 
 ** Nightshade Private Hub (Decommissioned Telecom Center) is an entity from the sariel-killer campaign.
 
 ## References
-- [[sariel-killer]] — campaign overview
-- [[sariel-killer-campaign]]
+- [sariel-killer](../sources/sariel-killer.md) — campaign overview
+- [sariel-killer-campaign](../sources/sariel-killer-campaign.md)
 

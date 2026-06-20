@@ -28,5 +28,5 @@ Persistent learning patterns through Memory MCP integration that enables 85% fir
 ## Related Concepts
 
 
-- [[IntelligentCommandOrchestration]] — workflow commands
+- [IntelligentCommandOrchestration](IntelligentCommandOrchestration.md) — workflow commands
 - [[ClaudeCodeLearningMistakesAnalysisReport]] — learning patterns

@@ -60,7 +60,7 @@ Tests for `_enforce_primary_rewards_box_postcondition` with `level_up_available=
 
 ## Connections
 
-- [[LevelUpBug]] — Full bug chain context
-- [[StructureDriftPattern]] — Related structural issue
-- [[RewardsBox]] — rewards_box JSON structure
-- [[LevelUpStateManagement]] — Level-up flag management
+- [LevelUpBug](LevelUpBug.md) — Full bug chain context
+- [StructureDriftPattern](StructureDriftPattern.md) — Related structural issue
+- [RewardsBox](RewardsBox.md) — rewards_box JSON structure
+- [LevelUpStateManagement](LevelUpStateManagement.md) — Level-up flag management

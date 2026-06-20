@@ -28,6 +28,6 @@ AO claim path has fail-open states:
 
 ## Connections
 
-- [[AO-Blocker-Matrix]] — PR blocker matrix triage
-- [[AO-Split-Brain]] — AO duplicate lifecycle workers
-- [[AO-Daemon-Incident]] — AO daemon incidents masking blockers
+- [AO-Blocker-Matrix](AO-Blocker-Matrix.md) — PR blocker matrix triage
+- [AO-Split-Brain](AO-Split-Brain.md) — AO duplicate lifecycle workers
+- [AO-Daemon-Incident](AO-Daemon-Incident.md) — AO daemon incidents masking blockers

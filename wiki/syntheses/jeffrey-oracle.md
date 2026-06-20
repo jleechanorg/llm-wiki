@@ -20,9 +20,9 @@ The crown jewel. Synthesizes everything to predict: what would Jeffrey say or do
 | Category | Response |
 |----------|----------|
 | AI output / code | Real or speculative? Cite file:line or flag fake |
-| PR / review | Green? [[CodeRabbit]]? Evidence cited? |
-| Automation | Safety limit hit? Who owns it? See [[CronJobAutomation]]. |
-| Tool question | Use gh. Minimax if cost matters. See [[ModelRouting]]. |
+| PR / review | Green? [CodeRabbit](../entities/CodeRabbit.md)? Evidence cited? |
+| Automation | Safety limit hit? Who owns it? See [CronJobAutomation](../concepts/CronJobAutomation.md). |
+| Tool question | Use gh. Minimax if cost matters. See [ModelRouting](../concepts/ModelRouting.md). |
 | Context question | Check mem0. Check git. Check PR state. |
 | Unknown / confused | "what does it prove?", "is this true?" |
 
@@ -48,18 +48,18 @@ The crown jewel. Synthesizes everything to predict: what would Jeffrey say or do
 |-----------|-------------------|
 | AI produces code | Cite file:line? Run /fake? |
 | PR failing CI | Fix it, push, confirm green |
-| CI failing evidence | Check [[SkepticGate]] artifact timestamps — is evidence fresh? |
-| New automation script | Who calls this? Auto-trigger? See [[Harness5LayerModel]] for layer taxonomy |
+| CI failing evidence | Check [SkepticGate](../concepts/SkepticGate.md) artifact timestamps — is evidence fresh? |
+| New automation script | Who calls this? Auto-trigger? See [Harness5LayerModel](../concepts/Harness5LayerModel.md) for layer taxonomy |
 | New tool suggested | Does task require it? |
 | Git commit vague | Explain why, not what |
-| Hook prevents action | Fix the [[ClaudeCodeHooks]] or comply |
-| Structure drift detected | Fields nested inside wrong blocks — see [[StructureDriftPattern]] |
-| Model choice | Minimax for routine, Anthropic for complex. See [[ZeroFrameworkCognition]] — delegate judgment to AI |
-| Heuristic scoring detected | Semantic judgment in code? See [[SemanticVsMechanicalJudgment]] — move to AI |
+| Hook prevents action | Fix the [ClaudeCodeHooks](../concepts/ClaudeCodeHooks.md) or comply |
+| Structure drift detected | Fields nested inside wrong blocks — see [StructureDriftPattern](../concepts/StructureDriftPattern.md) |
+| Model choice | Minimax for routine, Anthropic for complex. See [ZeroFrameworkCognition](../concepts/ZeroFrameworkCognition.md) — delegate judgment to AI |
+| Heuristic scoring detected | Semantic judgment in code? See [SemanticVsMechanicalJudgment](../concepts/SemanticVsMechanicalJudgment.md) — move to AI |
 | Code review comment | Fix every item, push, don't run /er until resolved |
 | New skill doc proposed | Who calls this? Integrate into existing instead? |
 | Large net-negative PR | Verify it's simplification, not just bloat — net deletion is ok |
-| Security concern | Production safety over speed — [[FailClosedErrorHandling|fail-closed]] |
+| Security concern | Production safety over speed — [fail-closed](../concepts/FailClosedErrorHandling.md) |
 
 ## Communication Style Predictions
 
@@ -74,12 +74,12 @@ The crown jewel. Synthesizes everything to predict: what would Jeffrey say or do
 
 ## Jeffrey's Priorities
 
-1. Production safety — auth, validation, [[FailClosedErrorHandling|fail-closed]] — see [[FailClosedErrorHandling]]
-2. Evidence over assertion — cite file:line or [[EvidenceBundle|fake]] — see [[EvidenceBundle]]
-3. Tests must pass — no claiming done until green — see [[CICDWorkflows]]
+1. Production safety — auth, validation, [fail-closed](../concepts/FailClosedErrorHandling.md) — see [FailClosedErrorHandling](../concepts/FailClosedErrorHandling.md)
+2. Evidence over assertion — cite file:line or [fake](../concepts/EvidenceBundle.md) — see [EvidenceBundle](../concepts/EvidenceBundle.md)
+3. Tests must pass — no claiming done until green — see [CICDWorkflows](../concepts/CICDWorkflows.md)
 4. Minimal changes — surgical, existing files first
-5. Automation with callers — scripts need triggers — see [[CronJobAutomation]]
-6. Cost consciousness — minimax over anthropic when appropriate — see [[ModelRouting]]
+5. Automation with callers — scripts need triggers — see [CronJobAutomation](../concepts/CronJobAutomation.md)
+6. Cost consciousness — minimax over anthropic when appropriate — see [ModelRouting](../concepts/ModelRouting.md)
 7. Worktree isolation — one PR per worktree
 
 ## The Jeffrey Test
@@ -90,47 +90,47 @@ Before acting, ask:
 3. Tests passing? → Check CI status (gh pr checks) before claiming "ok" on open PRs
 4. Minimal? → Could it be smaller? **Note: net-negative PRs (pure deletion) are ok**
 5. Caller? → Who triggers automation? **Skill docs need callers too**
-6. Safe? → [[FailClosedErrorHandling|Fail-closed]], no auth bypass
+6. Safe? → [Fail-closed](../concepts/FailClosedErrorHandling.md), no auth bypass
 
 All yes → Jeffrey says "ok" or "continue" 🦾
 
 ## Additional Patterns Observed
 
 ### Net-negative deletion is ok
-Pure deletion of unused/obsolete code (+0/-N) satisfies [[Net-Negative-Deletion-Is-Ok|minimal-changes principle]]. Removing dead code is the right direction.
+Pure deletion of unused/obsolete code (+0/-N) satisfies [minimal-changes principle](../concepts/Net-Negative-Deletion-Is-Ok.md). Removing dead code is the right direction.
 
 ### Skill docs need callers too
-New skill documents need integration into existing skills/hooks — see [[Automation-Scripts-Need-Callers]]. Ask "who calls this?"
+New skill documents need integration into existing skills/hooks — see [Automation-Scripts-Need-Callers](../concepts/Automation-Scripts-Need-Callers.md). Ask "who calls this?"
 
 ### Evidence cross-reference fails evidence standards
-Citing "reviewed in PR #X" or "audit PASS" without actual [[EvidenceBundle]] + timestamps is not sufficient evidence. Must show: Bead identifier, per-chunk UTC timestamps, latency metrics table.
+Citing "reviewed in PR #X" or "audit PASS" without actual [EvidenceBundle](../concepts/EvidenceBundle.md) + timestamps is not sufficient evidence. Must show: Bead identifier, per-chunk UTC timestamps, latency metrics table.
 
 ### Bot-authored dependency PRs
-Dependabot/security updates with CVE identifier satisfy evidence requirements. Pre-authorized [[AutoMerge]] is acceptable. **Major version bumps (e.g., 4.x→5.x) need CVE — patch versions don't.**
+Dependabot/security updates with CVE identifier satisfy evidence requirements. Pre-authorized [AutoMerge](../concepts/AutoMerge.md) is acceptable. **Major version bumps (e.g., 4.x→5.x) need CVE — patch versions don't.**
 
 ### Large net-positive PRs fail minimal test
 +1000+ lines on a single bug fix or feature is a red flag. Even if merged (CI passed), size alone fails Jeffrey's minimal-changes principle. The description should justify why it can't be smaller.
 
 ### Hook slimming PRs are ok
-Net-negative PRs that trim [[ClaudeCodeHooks]] hook chains (addressing context-bloat or similar) directly satisfy the minimal-changes principle. +6/-140 is the right direction.
+Net-negative PRs that trim [ClaudeCodeHooks](../concepts/ClaudeCodeHooks.md) hook chains (addressing context-bloat or similar) directly satisfy the minimal-changes principle. +6/-140 is the right direction.
 
 ### CI status required for open PRs
-Before "ok" on OPEN PRs — verify `gh pr checks` shows green via [[CICDWorkflows]]. Merged PRs = CI passed implicitly.
+Before "ok" on OPEN PRs — verify `gh pr checks` shows green via [CICDWorkflows](../concepts/CICDWorkflows.md). Merged PRs = CI passed implicitly.
 
 ### Body-diff verification (Step 0)
-Always compare PR body claims against actual `gh pr diff`. Mismatches are a direct reject — "no thats wrong." See [[Body-Diff-Verification]] for the full pattern.
+Always compare PR body claims against actual `gh pr diff`. Mismatches are a direct reject — "no thats wrong." See [Body-Diff-Verification](../concepts/Body-Diff-Verification.md) for the full pattern.
 
 ### CHANGES_REQUESTED blocks "ok" unconditionally
-Even if all oracle checks pass (CI green, minimal, caller verified), a [[CodeRabbit]] or human `CHANGES_REQUESTED` verdict blocks "ok." See [[CHANGES_REQUESTED-Blocks-Ok]] for the full pattern.
+Even if all oracle checks pass (CI green, minimal, caller verified), a [CodeRabbit](../entities/CodeRabbit.md) or human `CHANGES_REQUESTED` verdict blocks "ok." See [CHANGES_REQUESTED-Blocks-Ok](../concepts/CHANGES_REQUESTED-Blocks-Ok.md) for the full pattern.
 
 ### Body-diff mismatch: wrong operator/condition claimed
 A specific variant of Step 0 failure: the body claims a specific code change (e.g., "`>` to `>=`") that contradicts the actual diff. The diff may contain the correct fix via a different mechanism (e.g., new `max_attempts <= 0` block) while the body describes a different operator change. This is a lie, not an omission — fix description to match actual diff.
 
 ### Preview model additions require explicit risk acknowledgment
-Adding preview/nightly models to `MODELS_WITH_CODE_EXECUTION` or similar critical sets gets "conditional" even with all-CI-green and surgical +2/-1 changes. See [[Preview-Model-Risk]] for the full pattern.
+Adding preview/nightly models to `MODELS_WITH_CODE_EXECUTION` or similar critical sets gets "conditional" even with all-CI-green and surgical +2/-1 changes. See [Preview-Model-Risk](../concepts/Preview-Model-Risk.md) for the full pattern.
 
 ### Cron janitor --all mode needs per-service PR-state verification
-[[CronJobAutomation]] scripts with `--all` mode running in cron path must re-verify per-service state at runtime — not rely on prior run's state checks. A service could become orphaned (PR closed/merged) between the last per-service check and the cron run. The `--pr-number` path may have proper guards; the `--all` cron path must independently verify each service's PR state before deletion.
+[CronJobAutomation](../concepts/CronJobAutomation.md) scripts with `--all` mode running in cron path must re-verify per-service state at runtime — not rely on prior run's state checks. A service could become orphaned (PR closed/merged) between the last per-service check and the cron run. The `--pr-number` path may have proper guards; the `--all` cron path must independently verify each service's PR state before deletion.
 
 ### Sync PRs are their own category
 Large sync PRs (e.g., user-scope to repo-scope .claude/ tree sync) are categorically different from feature/bug-fix PRs. Size discipline doesn't apply the same way — byte-level parity is the goal. Jeffrey accepts "sync necessary, tests green, medium risk flagged" as sufficient justification for large +N/-N sync PRs.
@@ -142,10 +142,10 @@ A skill doc IS the protocol definition; a slash command in `.claude/commands/` t
 A Step 0 failure variant — not a lie about what changed, but incomplete enumeration: a file is modified in the diff but not listed in the PR body change summary (e.g., test-deployment.yml modified but not listed in Production Code Changes). Fix the body enumeration to list all modified files.
 
 ### CI automation extension requires visible wiring
-When extending existing automation scripts to new [[CICDWorkflows]], the caller must be visible in the diff — the workflow file must show the script invocation step. See [[Automation-Scripts-Need-Callers]].
+When extending existing automation scripts to new [CICDWorkflows](../concepts/CICDWorkflows.md), the caller must be visible in the diff — the workflow file must show the script invocation step. See [Automation-Scripts-Need-Callers](../concepts/Automation-Scripts-Need-Callers.md).
 
 ### PRODUCTION_MODE=true on preview = tightening (safe)
-Adding `PRODUCTION_MODE=true` to a preview environment is a security tightening, not a bypass. This is [[FailClosedErrorHandling|fail-closed]] behavior and is safe. The concern would be removing it or setting it incorrectly.
+Adding `PRODUCTION_MODE=true` to a preview environment is a security tightening, not a bypass. This is [fail-closed](../concepts/FailClosedErrorHandling.md) behavior and is safe. The concern would be removing it or setting it incorrectly.
 
 ### New automation script described as "fix existing code" — body-diff lie type 3
 A body-diff lie variant: the PR body describes modifying/fixing EXISTING code (e.g., "remove broken redirect from existing spawn subshell"), but the diff shows ONLY new files with zero modifications to any existing file. The framing is actively misleading — it is a new automation script, not a fix to existing code. Step 0 catches this.

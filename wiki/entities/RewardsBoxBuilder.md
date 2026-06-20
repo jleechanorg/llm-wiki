@@ -40,6 +40,6 @@ PR #6193 removed the `has_visible_content` gate entirely, breaking the sentinel 
 
 ## Connections
 
-- [[LevelUpBug]] — Full bug chain context
-- [[RewardsBoxAtomicity]] — Atomicity helpers
-- [[RewardsBox]] — rewards_box JSON structure
+- [LevelUpBug](../concepts/LevelUpBug.md) — Full bug chain context
+- [RewardsBoxAtomicity](../concepts/RewardsBoxAtomicity.md) — Atomicity helpers
+- [RewardsBox](../concepts/RewardsBox.md) — rewards_box JSON structure

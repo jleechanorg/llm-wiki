@@ -19,4 +19,4 @@ EntityInstruction is a data class that represents mandatory entity requirements 
 - Test NPC referenced instruction creation (mandatory type, priority=1)
 - Test location owner instruction creation (background type, priority=3)
 
-**Related entities:** [[Sariel]], [[Cassian]], [[Valerius]]
+**Related entities:** [Sariel](../entities/Sariel.md), [Cassian](../entities/Cassian.md), [Valerius](../entities/Valerius.md)

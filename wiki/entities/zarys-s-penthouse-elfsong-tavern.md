@@ -10,13 +10,13 @@ total_scenes: 1002
 
 ## Overview
 
-** Zarys's Penthouse - Elfsong Tavern appears in 22 scenes across the [[nocturne-post-bg3-zhent]] campaign.
+** Zarys's Penthouse - Elfsong Tavern appears in 22 scenes across the [nocturne-post-bg3-zhent](../sources/nocturne-post-bg3-zhent.md) campaign.
 
 ## Description
 
 ** Zarys's Penthouse - Elfsong Tavern is an entity from the nocturne-post-bg3-zhent campaign.
 
 ## References
-- [[nocturne-post-bg3-zhent]] — campaign overview
-- [[nocturne-post-bg3-zhent-campaign]]
+- [nocturne-post-bg3-zhent](../sources/nocturne-post-bg3-zhent.md) — campaign overview
+- [nocturne-post-bg3-zhent-campaign](../sources/nocturne-post-bg3-zhent-campaign.md)
 

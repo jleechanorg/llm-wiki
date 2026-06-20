@@ -10,13 +10,13 @@ total_scenes: 822
 
 ## Overview
 
-** The Heaven Palace (Multiversal Sanctum) appears in 21 scenes across the [[alexiel-swtor]] campaign.
+** The Heaven Palace (Multiversal Sanctum) appears in 21 scenes across the [alexiel-swtor](../sources/alexiel-swtor.md) campaign.
 
 ## Description
 
 ** The Heaven Palace (Multiversal Sanctum) is an entity from the alexiel-swtor campaign.
 
 ## References
-- [[alexiel-swtor]] — campaign overview
-- [[alexiel-swtor-campaign]]
+- [alexiel-swtor](../sources/alexiel-swtor.md) — campaign overview
+- [alexiel-swtor-campaign](../sources/alexiel-swtor-campaign.md)
 

@@ -10,13 +10,13 @@ total_scenes: 189
 
 ## Overview
 
-** North Gatehouse, Moat Cailin appears in 4 scenes across the [[ramsay-v1]] campaign.
+** North Gatehouse, Moat Cailin appears in 4 scenes across the [ramsay-v1](../sources/ramsay-v1.md) campaign.
 
 ## Description
 
 ** North Gatehouse, Moat Cailin is an entity from the ramsay-v1 campaign.
 
 ## References
-- [[ramsay-v1]] — campaign overview
-- [[ramsay-v1-campaign]]
+- [ramsay-v1](../sources/ramsay-v1.md) — campaign overview
+- [ramsay-v1-campaign](../sources/ramsay-v1-campaign.md)
 

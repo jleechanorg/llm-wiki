@@ -10,13 +10,13 @@ total_scenes: 925
 
 ## Overview
 
-** The Sovereign's Nexus, Baldur's Gate / The Abyss appears in 4 scenes across the [[nocturne-bg3-v5-fixed-v2]] campaign.
+** The Sovereign's Nexus, Baldur's Gate / The Abyss appears in 4 scenes across the [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md) campaign.
 
 ## Description
 
 ** The Sovereign's Nexus, Baldur's Gate / The Abyss is an entity from the nocturne-bg3-v5-fixed-v2 campaign.
 
 ## References
-- [[nocturne-bg3-v5-fixed-v2]] — campaign overview
-- [[nocturne-bg3-v5-fixed-v2-campaign]]
+- [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md) — campaign overview
+- [nocturne-bg3-v5-fixed-v2-campaign](../sources/nocturne-bg3-v5-fixed-v2-campaign.md)
 

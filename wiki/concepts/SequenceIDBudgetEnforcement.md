@@ -16,6 +16,6 @@ Previously, `sequence_id_list_string` was measured on `sequence_id_context` (bou
 Cap `final_sequence_ids` to allocated budget measured on the same context used for construction. Keep most recent sequence IDs to maintain relevance to current game state.
 
 ## Related
-- [[TokenBudgetCalculation]]
-- [[ContextTruncation]]
+- [TokenBudgetCalculation](TokenBudgetCalculation.md)
+- [ContextTruncation](ContextTruncation.md)
 - [[LLMRequestContext]]

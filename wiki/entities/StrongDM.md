@@ -14,14 +14,14 @@ StrongDM is an enterprise security company that pioneered the Attractor pattern 
 - **Team size**: 3 people built the entire factory
 
 ## Connections
-- [[AttractorBench]] — StrongDM's benchmark for spec-following ability
-- [[CXDB]] — StrongDM's observability layer for agent execution
-- [[HealerAgent]] — StrongDM's automated diagnosis and fix agent
-- [[DanShapiro]] — Shapiro documented StrongDM's methodology and built Kilroy
-- [[DarkFactory]] — StrongDM's lights-off coding factory concept
+- [AttractorBench](AttractorBench.md) — StrongDM's benchmark for spec-following ability
+- [CXDB](../concepts/CXDB.md) — StrongDM's observability layer for agent execution
+- [HealerAgent](../concepts/HealerAgent.md) — StrongDM's automated diagnosis and fix agent
+- [DanShapiro](DanShapiro.md) — Shapiro documented StrongDM's methodology and built Kilroy
+- [DarkFactory](../concepts/DarkFactory.md) — StrongDM's lights-off coding factory concept
 
 ## See Also
-- [[AttractorBench]]
-- [[CXDB]]
-- [[HealerAgent]]
-- [[AttractorPattern]]
+- [AttractorBench](AttractorBench.md)
+- [CXDB](../concepts/CXDB.md)
+- [HealerAgent](../concepts/HealerAgent.md)
+- [AttractorPattern](../concepts/AttractorPattern.md)

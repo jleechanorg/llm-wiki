@@ -10,13 +10,13 @@ total_scenes: 291
 
 ## Overview
 
-** Edgering Ruins - Scriptorium Vault Entrance appears in 3 scenes across the [[tyranny]] campaign.
+** Edgering Ruins - Scriptorium Vault Entrance appears in 3 scenes across the [tyranny](../sources/tyranny.md) campaign.
 
 ## Description
 
 ** Edgering Ruins - Scriptorium Vault Entrance is an entity from the tyranny campaign.
 
 ## References
-- [[tyranny]] — campaign overview
-- [[tyranny-campaign]]
+- [tyranny](../sources/tyranny.md) — campaign overview
+- [tyranny-campaign](../sources/tyranny-campaign.md)
 

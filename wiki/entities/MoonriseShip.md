@@ -14,7 +14,7 @@ The Moonrise Ship is a black-painted cog from Moonrise that has been captured by
 - Type: Captured Cog
 - Setting: Wyrm's Tooth
 - Status: Captured by Shadow Monarch's forces
-- Campaign appearances: [[nocturne-bg3-continued-campaign]]
+- Campaign appearances: [nocturne-bg3-continued-campaign](../sources/nocturne-bg3-continued-campaign.md)
 
 ## Current State
 - The True Soul Leader is bound in Guild rope on the deck
@@ -23,6 +23,6 @@ The Moonrise Ship is a black-painted cog from Moonrise that has been captured by
 - The Whispering Idol is active at Nocturne's hip
 
 ## Connections
-- [[ShadowMonarch]] — captor of the ship
-- [[ShadowEmpire]] — faction that controls the ship
-- [[TheHungerMechanic]] — context for the current state
+- [ShadowMonarch](ShadowMonarch.md) — captor of the ship
+- [ShadowEmpire](ShadowEmpire.md) — faction that controls the ship
+- [TheHungerMechanic](../concepts/TheHungerMechanic.md) — context for the current state

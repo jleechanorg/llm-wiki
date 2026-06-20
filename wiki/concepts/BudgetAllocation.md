@@ -20,6 +20,6 @@ Budget allocation in the context compaction system divides a maximum token budge
 When total minimums exceed max_input_allowed, the system reduces flexible components (story_context) before reducing fixed-size components. This prevents crashes and allows the request to proceed.
 
 ## Related Concepts
-- [[GracefulDegradation]]
-- [[ContextCompaction]]
+- [GracefulDegradation](GracefulDegradation.md)
+- [ContextCompaction](ContextCompaction.md)
 - [[TokenBudgetManagement]]

@@ -14,6 +14,6 @@ Analyzes captured interaction sessions to identify patterns, errors, and perform
 - Analyzes error rates, response times, and service call distribution
 
 ## Related
-- [[CaptureManager]] — data source
-- [[CaptureFirestoreClient]] — Firestore analysis
-- [[CaptureGeminiClient]] — Gemini analysis
+- [CaptureManager](CaptureManager.md) — data source
+- [CaptureFirestoreClient](CaptureFirestoreClient.md) — Firestore analysis
+- [CaptureGeminiClient](CaptureGeminiClient.md) — Gemini analysis

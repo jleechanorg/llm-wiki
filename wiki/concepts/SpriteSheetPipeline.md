@@ -6,7 +6,7 @@ sources: []
 last_updated: 2026-05-01
 ---
 
-The complete 9-step pipeline for creating game-ready 2D sprite sheets using AI, documented by [[LayrKits]].
+The complete 9-step pipeline for creating game-ready 2D sprite sheets using AI, documented by [LayrKits](../entities/LayrKits.md).
 
 ## Pipeline Steps
 
@@ -24,4 +24,4 @@ The complete 9-step pipeline for creating game-ready 2D sprite sheets using AI, 
 
 Video models understand motion and leg mechanics in a way image models don't. Extract frames from AI-generated video → process into sprite sheets locally.
 
-**Related:** [[LayrKits]], [[Kling]], [[ChromaKeyBackground]], [[PreserveCanvasMode]]
+**Related:** [LayrKits](../entities/LayrKits.md), [Kling](../entities/Kling.md), [ChromaKeyBackground](ChromaKeyBackground.md), [PreserveCanvasMode](PreserveCanvasMode.md)

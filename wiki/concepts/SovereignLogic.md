@@ -30,6 +30,6 @@ The ceremony analyzes the PC's established campaign themes:
 - **Conflict Zones**: Opposing Logics create political friction in Pan-Substrate
 
 ## Related Concepts
-- [[SovereignProtocol]] — tier that grants Sovereign Logic
-- [[PanSubstrate]] — where Logic is enforced
-- [[AggroMeter]] — threat level from other Sovereigns
+- [SovereignProtocol](../entities/SovereignProtocol.md) — tier that grants Sovereign Logic
+- [PanSubstrate](../entities/PanSubstrate.md) — where Logic is enforced
+- [AggroMeter](AggroMeter.md) — threat level from other Sovereigns

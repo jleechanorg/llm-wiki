@@ -22,6 +22,6 @@ Chimera benchmark had 33-93% error rates on MiniMax API. Tenacity-style exponent
 
 ## See Also
 
-- [[MultiAgentOrchestration]] — coordination patterns that need retry logic
-- [[ProjectChimera]] — benchmark with retry implementation
-- [[AgentBench]] — multi-agent evaluation framework
+- [MultiAgentOrchestration](MultiAgentOrchestration.md) — coordination patterns that need retry logic
+- [ProjectChimera](../entities/ProjectChimera.md) — benchmark with retry implementation
+- [AgentBench](AgentBench.md) — multi-agent evaluation framework

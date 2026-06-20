@@ -10,13 +10,13 @@ total_scenes: 133
 
 ## Overview
 
-** Imperial Installation, Interrogation Chamber appears in 9 scenes across the [[luke-v2]] campaign.
+** Imperial Installation, Interrogation Chamber appears in 9 scenes across the [luke-v2](../sources/luke-v2.md) campaign.
 
 ## Description
 
 ** Imperial Installation, Interrogation Chamber is an entity from the luke-v2 campaign.
 
 ## References
-- [[luke-v2]] — campaign overview
-- [[luke-v2-campaign]]
+- [luke-v2](../sources/luke-v2.md) — campaign overview
+- [luke-v2-campaign](../sources/luke-v2-campaign.md)
 

@@ -17,7 +17,7 @@ last_updated: 2026-05-07
 | **Full Name** | Jeff Lee-Chan |
 | **Current Role** | Software Engineering Manager at Snap |
 | **Prior Role** | Staff Software Engineer at Google |
-| **GitHub Org** | [[jleechanorg]] — houses [[worldarchitect.ai]] and [[jleechanclaw]] |
+| **GitHub Org** | [jleechanorg](jleechanorg.md) — houses [worldarchitect.ai](worldarchitect.ai.md) and [jleechanclaw](jleechanclaw.md) |
 | **GitHub Handle** | jleechanorg |
 | **LinkedIn** | Active publisher |
 | **AI Spend** | ~$300/month across Anthropic, Cursor, and Minimax |
@@ -33,10 +33,10 @@ last_updated: 2026-05-07
 
 ## Key Projects
 
-### [[worldarchitect.ai]]
+### [worldarchitect.ai](worldarchitect.ai.md)
 AI RPG platform — ~5500 PRs and climbing. Primary workspace.
 
-### [[jleechanclaw]]
+### [jleechanclaw](jleechanclaw.md)
 Delegation workflow source repo — used as TARGET_REPO after March 2026 postmortem.
 
 ## AI Philosophy
@@ -48,12 +48,12 @@ Delegation workflow source repo — used as TARGET_REPO after March 2026 postmor
 
 ## Podcast Appearances
 
-- **Stellar Work EP57** (2026-04-27): Engineering Management & AI at Big Tech — discussed AI tool adoption, team structure evolution, career path disruption, and gave shoutouts to [[cmux]] and [[AgentOrchestrator]]. See [[stellar-work-ep57-eng-mgmt-ai]].
+- **Stellar Work EP57** (2026-04-27): Engineering Management & AI at Big Tech — discussed AI tool adoption, team structure evolution, career path disruption, and gave shoutouts to [cmux](cmux.md) and [AgentOrchestrator](AgentOrchestrator.md). See [stellar-work-ep57-eng-mgmt-ai](../sources/stellar-work-ep57-eng-mgmt-ai.md).
 
 ## Relationships
 
-- [[jleechanorg]] — GitHub org
-- [[worldarchitect.ai]] — primary project
-- [[jleechanclaw]] — delegation workflow repo
-- [[cmux]] — publicly endorsed as "best terminal for AI" on Stellar Work EP57
-- [[StellarWorkPodcast]] — EP57 guest
+- [jleechanorg](jleechanorg.md) — GitHub org
+- [worldarchitect.ai](worldarchitect.ai.md) — primary project
+- [jleechanclaw](jleechanclaw.md) — delegation workflow repo
+- [cmux](cmux.md) — publicly endorsed as "best terminal for AI" on Stellar Work EP57
+- [StellarWorkPodcast](StellarWorkPodcast.md) — EP57 guest

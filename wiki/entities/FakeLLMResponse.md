@@ -14,5 +14,5 @@ Mock LLM response generator for end-to-end testing. Located at mvp_site.tests.fa
 - [[Spicy Mode Toggle E2E Tests]] — for model switching validation
 
 ## Connections
-- [[FakeFirestoreClient]] — paired mock for Firestore
-- [[End2EndBaseTestCase]] — base class using this mock
+- [FakeFirestoreClient](FakeFirestoreClient.md) — paired mock for Firestore
+- [End2EndBaseTestCase](End2EndBaseTestCase.md) — base class using this mock

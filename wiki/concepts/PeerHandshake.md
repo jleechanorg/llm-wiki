@@ -20,6 +20,6 @@ Mechanic for integrating "Mirrors" — PC variants from other timelines — into
 Failed handshakes increase threat visibility and create adversarial timeline variants.
 
 ## Related
-- [[GodPower]] — Used in resolution check
-- [[AggroMeter]] — Failure increases aggro
-- [[SovereignProtocol]] — System using this mechanic
+- [GodPower](GodPower.md) — Used in resolution check
+- [AggroMeter](AggroMeter.md) — Failure increases aggro
+- [SovereignProtocol](../entities/SovereignProtocol.md) — System using this mechanic

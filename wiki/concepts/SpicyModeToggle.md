@@ -14,9 +14,9 @@ A feature toggle pattern that switches between LLM providers while preserving th
 2. **Disable**: Read saved pre_spicy settings → restore model/provider → set spicy_mode=False
 
 ## Related Tests
-- [[spicy-mode-toggle-e2e-tests]] — validates toggle behavior
+- [spicy-mode-toggle-e2e-tests](../sources/spicy-mode-toggle-e2e-tests.md) — validates toggle behavior
 
 ## Related Entities
-- [[SpicyMode]] — the feature itself
-- [[OpenRouter]] — provider used in spicy mode
-- [[Grok]] — model activated in spicy mode
+- [SpicyMode](SpicyMode.md) — the feature itself
+- [OpenRouter](../entities/OpenRouter.md) — provider used in spicy mode
+- [Grok](../entities/Grok.md) — model activated in spicy mode

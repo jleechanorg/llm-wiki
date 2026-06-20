@@ -12,5 +12,5 @@ Valerius val Artorius is a character related to Cassian in the Sariel campaign, 
 - [[Sariel Exact Production Campaign Example]] — interaction_3, interaction_4, interaction_5 expected entities
 
 ## Connections
-- [[Sariel]] — protagonist relationship
+- [Sariel](Sariel.md) — protagonist relationship
 - [[Cassian val Artorius]] — related character

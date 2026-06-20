@@ -12,4 +12,4 @@ Hooks in Claude Code are event-based triggers configured in `.claude/settings.js
 
 PostToolUse hooks that spawn Claude sessions multiply quota cost: each Write operation fires all `Write` hooks, creating a new Claude session per hook. At 50 Write ops/session with $0.89/hook session = $44.50 overhead per interactive session. Three hooks (`detect_speculation_and_fake_code.sh`, `smart_fake_code_detection.sh`, `post_file_creation_validator.sh`) consumed ~$86/day before being disabled 2026-05-06.
 
-See also: [[HookRobustnessPatterns]] · [[ClaudeCodeQuotaCost]]
+See also: [HookRobustnessPatterns](HookRobustnessPatterns.md) · [ClaudeCodeQuotaCost](ClaudeCodeQuotaCost.md)

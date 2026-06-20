@@ -57,8 +57,8 @@ A paper is **validated** when:
 
 ## See Also
 
-- [[AutoResearchLoop]] — the research loop
-- [[TechniqueSelectionOracle]] — Thompson sampling implementation
-- [[PRRecreatePipeline]] — the experiment methodology
-- [[AutoResearchExperiment]] — experiment framework
-- [[CanonicalCodeScorer]] — scoring rubric
+- [AutoResearchLoop](AutoResearchLoop.md) — the research loop
+- [TechniqueSelectionOracle](TechniqueSelectionOracle.md) — Thompson sampling implementation
+- [PRRecreatePipeline](PRRecreatePipeline.md) — the experiment methodology
+- [AutoResearchExperiment](AutoResearchExperiment.md) — experiment framework
+- [CanonicalCodeScorer](CanonicalCodeScorer.md) — scoring rubric

@@ -27,11 +27,11 @@ Nocturne is patient, observant, and supremely pragmatic. She evaluates every sit
 Protagonist of the bg1-nocturne and bg1-nocturne-continued campaigns.
 
 ## Connections
-- [[bg1-nocturne-campaign]] — first campaign
-- [[bg1-nocturne-continued-campaign]] — continued campaign
-- [[Candlekeep]] — birthplace/raising
-- [[BaldursGate]] — current location
-- [[GloomStalkerRanger]] — class concept
-- [[TheHunger]] — mechanical concept
-- [[FlamingFist]] — faction encountered
-- [[SevenSunsCoster]] — base of operations
+- [bg1-nocturne-campaign](../sources/bg1-nocturne-campaign.md) — first campaign
+- [bg1-nocturne-continued-campaign](../sources/bg1-nocturne-continued-campaign.md) — continued campaign
+- [Candlekeep](Candlekeep.md) — birthplace/raising
+- [BaldursGate](BaldursGate.md) — current location
+- [GloomStalkerRanger](GloomStalkerRanger.md) — class concept
+- [TheHunger](../concepts/TheHunger.md) — mechanical concept
+- [FlamingFist](FlamingFist.md) — faction encountered
+- [SevenSunsCoster](SevenSunsCoster.md) — base of operations

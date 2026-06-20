@@ -20,5 +20,5 @@ HTTP request timeout setting. Must be aligned across all layers (Gunicorn, Cloud
 - **Warning**: Lowering any layer breaks Gemini API calls
 
 ## Connections
-- [[Gunicorn]] — configures timeout in gunicorn.conf.py
-- [[GoogleCloudRun]] — requires matching timeout setting
+- [Gunicorn](Gunicorn.md) — configures timeout in gunicorn.conf.py
+- [GoogleCloudRun](../entities/GoogleCloudRun.md) — requires matching timeout setting

@@ -28,6 +28,6 @@ The Inner Loop refers to the LLM inference step itself — the moment when the m
 
 ## Connections
 
-- [[OuterLoopOptimization]] — the outer loop that Meta-Harness automates
-- [[MetaHarness]] — the system that achieves superior results by optimizing the outer loop
-- [[HarnessEngineering]] — the practice of building harnesses that make outer loop efficient
+- [OuterLoopOptimization](OuterLoopOptimization.md) — the outer loop that Meta-Harness automates
+- [MetaHarness](MetaHarness.md) — the system that achieves superior results by optimizing the outer loop
+- [HarnessEngineering](HarnessEngineering.md) — the practice of building harnesses that make outer loop efficient

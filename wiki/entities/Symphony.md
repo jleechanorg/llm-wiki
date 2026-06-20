@@ -11,5 +11,5 @@ Orchestration system used by OpenClaw for dispatching remediation tasks from the
 
 ## Connections
 - Used by [[WebhookPipelineOperatorRunbook]] for task dispatch
-- [[Genesis]] — persistent orchestration layer that fills blank workspace files
+- [Genesis](Genesis.md) — persistent orchestration layer that fills blank workspace files
 - Referenced in [[SymphonyRuntimeDedupeContract]] for runtime deduplication

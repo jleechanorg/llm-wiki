@@ -29,6 +29,6 @@ A tiered memory caching pattern where memories are classified by access frequenc
 
 ## Connections
 
-- [[MemoryManagement]] — memory selection and deduplication
-- [[ContextCompaction]] — budget allocation for memory tiers
-- [[mvp-site-memory-utils]] — utility functions implementing tiered memory selection
+- [MemoryManagement](MemoryManagement.md) — memory selection and deduplication
+- [ContextCompaction](ContextCompaction.md) — budget allocation for memory tiers
+- [mvp-site-memory-utils](../sources/mvp-site-memory-utils.md) — utility functions implementing tiered memory selection

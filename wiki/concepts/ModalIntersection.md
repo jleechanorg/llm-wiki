@@ -18,8 +18,8 @@ Hypothesis-style parametrized property tests that verify all modal intersection 
 
 ## Related
 
-- [[AdministrativeStatePoisoning]] — admin shortcuts are the most common cause
-- [[AdminOverrideContract]] — admin overrides commonly cause intersection violations
-- [[ModalAgentConstraint]] — individual modal constraints
-- [[StaleFlag]] — the symptom
-- [[Cross-Modal-Interaction]] — existing concept on cross-modal patterns
+- [AdministrativeStatePoisoning](AdministrativeStatePoisoning.md) — admin shortcuts are the most common cause
+- [AdminOverrideContract](AdminOverrideContract.md) — admin overrides commonly cause intersection violations
+- [ModalAgentConstraint](ModalAgentConstraint.md) — individual modal constraints
+- [StaleFlag](StaleFlag.md) — the symptom
+- [Cross-Modal-Interaction](Cross-Modal-Interaction.md) — existing concept on cross-modal patterns

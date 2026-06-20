@@ -51,9 +51,9 @@ Every session is used inside a context manager. No sockets left open.
 
 ## Connections
 
-- [[FastAPIErrorHandling]] — FastAPI follows the same "explicit params, typed exceptions" philosophy
-- [[tRPCTypeSafety]] — tRPC takes the opposite approach (types instead of runtime params) but shares the "minimal surface" tenet
-- [[VerificationLoop]] — the `request()` pattern of "one clear input → one clear output" is verification-friendly
+- [FastAPIErrorHandling](FastAPIErrorHandling.md) — FastAPI follows the same "explicit params, typed exceptions" philosophy
+- [tRPCTypeSafety](tRPCTypeSafety.md) — tRPC takes the opposite approach (types instead of runtime params) but shares the "minimal surface" tenet
+- [VerificationLoop](VerificationLoop.md) — the `request()` pattern of "one clear input → one clear output" is verification-friendly
 
 ## What This Means for Code Generation
 

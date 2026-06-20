@@ -14,7 +14,7 @@ Mechanics for deploying spies in the WorldAI Faction Management system. Includes
 - Intel tiers determined by spy strength vs target defense ratio
 
 ## Related Concepts
-- [[ShadowNetworks]] — target counter-intel capability
-- [[Wards]] — magical detection protection
-- [[Spymaster]] — council position providing intel bonuses
-- [[LineageIntrigue]] — lineage track level for intrigue bonuses
+- [ShadowNetworks](ShadowNetworks.md) — target counter-intel capability
+- [Wards](Wards.md) — magical detection protection
+- [Spymaster](Spymaster.md) — council position providing intel bonuses
+- [LineageIntrigue](LineageIntrigue.md) — lineage track level for intrigue bonuses

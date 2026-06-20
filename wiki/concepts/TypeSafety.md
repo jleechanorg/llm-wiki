@@ -21,9 +21,9 @@ Type safety is a programming language property that ensures variables are only a
 - Optional field preservation: None means absent, empty string is valid
 
 ## Related Concepts
-- [[TypeGuards]] — runtime type checking mechanisms
-- [[APIResponseValidation]] — API-specific validation patterns
-- [[ErrorHandlingPatterns]] — handling validation failures
+- [TypeGuards](TypeGuards.md) — runtime type checking mechanisms
+- [APIResponseValidation](APIResponseValidation.md) — API-specific validation patterns
+- [ErrorHandlingPatterns](ErrorHandlingPatterns.md) — handling validation failures
 
 ## Sources
 - [[Type Safety Foundation Tests]] — test suite validating type safety improvements

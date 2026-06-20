@@ -23,5 +23,5 @@ test_invalid_data_handling verifies that Pydantic validation combined with Defen
 Without crashing the validation pipeline.
 
 ## Related Concepts
-- [[Pydantic]] — works in conjunction with validation
-- [[SceneManifest]] — benefits from defensive conversion
+- [Pydantic](Pydantic.md) — works in conjunction with validation
+- [SceneManifest](SceneManifest.md) — benefits from defensive conversion

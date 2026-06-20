@@ -16,6 +16,6 @@ Test class verifying the full flow of visiting/reading an existing campaign thro
 - Auth bypass via TESTING_AUTH_BYPASS
 
 ## Related
-- [[End2EndBaseTestCase]] - parent test class
-- [[GameState]] - tested object
-- [[EpicDragonQuest]] - sample campaign used in tests
+- [End2EndBaseTestCase](End2EndBaseTestCase.md) - parent test class
+- [GameState](GameState.md) - tested object
+- [EpicDragonQuest](EpicDragonQuest.md) - sample campaign used in tests

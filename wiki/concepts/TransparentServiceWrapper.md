@@ -29,5 +29,5 @@ provider.cleanup()                          # Saves capture data
 - CaptureAuthClient — wraps authentication operations
 
 ## Related Concepts
-- [[DataCaptureFramework]] — the framework this pattern enables
-- [[ContextManagerPattern]] — Python pattern for resource lifecycle
+- [DataCaptureFramework](DataCaptureFramework.md) — the framework this pattern enables
+- [ContextManagerPattern](ContextManagerPattern.md) — Python pattern for resource lifecycle

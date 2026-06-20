@@ -59,7 +59,7 @@ Confidence scores gate LLM judgment calls. If `confidence < 0.6`, the system esc
 The LLM is expensive, slow, and occasionally wrong. CI failed? That's a deterministic reaction. Review comment? Deterministic. The LLM is called only when the deterministic router has no rule — ambiguous reviews, strategy decisions, task decomposition.
 
 ## Related Concepts
-- [[AutonomousAgentLoop]]
-- [[MemoryTierArchitecture]]
-- [[HarnessEngineering]]
-- [[MergeReadinessContract]]
+- [AutonomousAgentLoop](AutonomousAgentLoop.md)
+- [MemoryTierArchitecture](MemoryTierArchitecture.md)
+- [HarnessEngineering](HarnessEngineering.md)
+- [MergeReadinessContract](MergeReadinessContract.md)

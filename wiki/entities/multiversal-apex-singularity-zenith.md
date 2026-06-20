@@ -10,13 +10,13 @@ total_scenes: 685
 
 ## Overview
 
-** Multiversal Apex (Singularity Zenith) appears in 9 scenes across the [[sariel-killer]] campaign.
+** Multiversal Apex (Singularity Zenith) appears in 9 scenes across the [sariel-killer](../sources/sariel-killer.md) campaign.
 
 ## Description
 
 ** Multiversal Apex (Singularity Zenith) is an entity from the sariel-killer campaign.
 
 ## References
-- [[sariel-killer]] — campaign overview
-- [[sariel-killer-campaign]]
+- [sariel-killer](../sources/sariel-killer.md) — campaign overview
+- [sariel-killer-campaign](../sources/sariel-killer-campaign.md)
 

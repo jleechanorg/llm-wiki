@@ -30,6 +30,6 @@ When a character gains a level in **any** class, check the **total character lev
 - Character gains **ONE ASI** at level 16 (player chooses which class benefits)
 
 ## Related Concepts
-- [[Feat]] — alternative to ASI
-- [[LevelUpMechanics]] — where ASI is applied
-- [[DungeonsAndDragons5e]] — governing ruleset
+- [Feat](Feat.md) — alternative to ASI
+- [LevelUpMechanics](LevelUpMechanics.md) — where ASI is applied
+- [DungeonsAndDragons5e](DungeonsAndDragons5e.md) — governing ruleset

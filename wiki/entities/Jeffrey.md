@@ -12,4 +12,4 @@ Author of Project Chimera: A Neural Network of LLM Agents (Version 1.1, April 20
 
 ## Connections
 
-- [[ProjectChimera]] — authored by Jeffrey
+- [ProjectChimera](ProjectChimera.md) — authored by Jeffrey

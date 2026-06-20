@@ -19,5 +19,5 @@ Pattern of generating default values when primary data is unavailable. The `gene
 Provides graceful degradation when Firestore game state is unavailable or malformed, displaying available player information.
 
 ## Related
-- [[SessionHeaderUtils]] — module implementing fallback generation
-- [[DefensiveProgramming]] — broader pattern
+- [SessionHeaderUtils](SessionHeaderUtils.md) — module implementing fallback generation
+- [DefensiveProgramming](DefensiveProgramming.md) — broader pattern

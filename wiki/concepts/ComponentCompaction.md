@@ -23,6 +23,6 @@ The process of reducing oversized LLM request components to fit within allocated
 4. **Low**: completed_quests, quest_history, dialogue_history
 
 ## Related Concepts
-- [[TokenBudgetAllocation]]
-- [[TokenEstimation]]
-- [[ContextManagement]]
+- [TokenBudgetAllocation](TokenBudgetAllocation.md)
+- [TokenEstimation](TokenEstimation.md)
+- [ContextManagement](ContextManagement.md)

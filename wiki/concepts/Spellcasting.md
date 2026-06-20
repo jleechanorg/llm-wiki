@@ -21,7 +21,7 @@ When a spellcasting class levels up:
 - Ritual casting capability may be gained
 
 ## Related Concepts
-- [[LevelUpMechanics]] — progression system
+- [LevelUpMechanics](LevelUpMechanics.md) — progression system
 - [[ClassFeatures]] — spellcasting as class feature
 - [[SpellSlots]] — resource for casting
-- [[DungeonsAndDragons5e]] — governing ruleset
+- [DungeonsAndDragons5e](DungeonsAndDragons5e.md) — governing ruleset

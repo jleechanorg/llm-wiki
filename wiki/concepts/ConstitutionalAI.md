@@ -37,7 +37,7 @@ Constitutional AI's principle-based constraint model is relevant to governance l
 - Constitutional Classifiers demonstrate principle-based filtering at scale
 
 ## See Also
-- [[RLAIF]]
-- [[ConstitutionalClassifiers]]
-- [[AnthropicAlignment]]
-- [[GovernanceLayer]]
+- [RLAIF](RLAIF.md)
+- [ConstitutionalClassifiers](../entities/ConstitutionalClassifiers.md)
+- [AnthropicAlignment](../entities/AnthropicAlignment.md)
+- [GovernanceLayer](GovernanceLayer.md)

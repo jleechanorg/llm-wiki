@@ -12,14 +12,14 @@ Fuzzing is an automated testing technique that generates random or semi-random i
 - **Automated**: No human-written test cases required
 - **Coverage-guided**: LibFuzzer, AFL and similar tools track code coverage to guide input generation
 - **Finds edge cases**: Particularly effective at finding edge cases and security vulnerabilities
-- ** [[PropertyBasedTesting]] sister technique**: Fuzzing focuses on crash/security bugs; property testing focuses on correctness properties
+- ** [PropertyBasedTesting](PropertyBasedTesting.md) sister technique**: Fuzzing focuses on crash/security bugs; property testing focuses on correctness properties
 
 ## Connections
-- [[AdversarialTesting]] — fuzzing is a primary form of adversarial testing
-- [[PropertyBasedTesting]] — related technique focused on property verification
-- [[ErrorDetection]] — fuzzing is a systematic approach to error detection
-- [[SWE-bench]] — SWE-bench uses adversarial test cases somewhat similar to fuzzing inputs
+- [AdversarialTesting](AdversarialTesting.md) — fuzzing is a primary form of adversarial testing
+- [PropertyBasedTesting](PropertyBasedTesting.md) — related technique focused on property verification
+- [ErrorDetection](ErrorDetection.md) — fuzzing is a systematic approach to error detection
+- [SWE-bench](SWE-bench.md) — SWE-bench uses adversarial test cases somewhat similar to fuzzing inputs
 
 ## See Also
-- [[AdversarialTesting]]
-- [[PropertyBasedTesting]]
+- [AdversarialTesting](AdversarialTesting.md)
+- [PropertyBasedTesting](PropertyBasedTesting.md)

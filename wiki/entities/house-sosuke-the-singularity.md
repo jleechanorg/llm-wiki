@@ -10,13 +10,13 @@ total_scenes: 1027
 
 ## Overview
 
-** House Sosuke - The Singularity appears in 10 scenes across the [[nocturne-bg3-after]] campaign.
+** House Sosuke - The Singularity appears in 10 scenes across the [nocturne-bg3-after](../sources/nocturne-bg3-after.md) campaign.
 
 ## Description
 
 ** House Sosuke - The Singularity is an entity from the nocturne-bg3-after campaign.
 
 ## References
-- [[nocturne-bg3-after]] — campaign overview
-- [[nocturne-bg3-after-campaign]]
+- [nocturne-bg3-after](../sources/nocturne-bg3-after.md) — campaign overview
+- [nocturne-bg3-after-campaign](../sources/nocturne-bg3-after-campaign.md)
 

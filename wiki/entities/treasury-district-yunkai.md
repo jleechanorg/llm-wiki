@@ -10,13 +10,13 @@ total_scenes: 277
 
 ## Overview
 
-** Treasury District, Yunkai appears in 6 scenes across the [[visenya-v2]] campaign.
+** Treasury District, Yunkai appears in 6 scenes across the [visenya-v2](../sources/visenya-v2.md) campaign.
 
 ## Description
 
 ** Treasury District, Yunkai is an entity from the visenya-v2 campaign.
 
 ## References
-- [[visenya-v2]] — campaign overview
+- [visenya-v2](../sources/visenya-v2.md) — campaign overview
 - [[visenya-v2-campaign]]
 

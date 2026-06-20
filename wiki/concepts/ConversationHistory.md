@@ -17,9 +17,9 @@ The test tracks conversation history to detect loops:
 4. When count >= 2, loop is detected
 
 ## Why It Matters
-Without conversation history tracking, the system cannot detect when users are stuck in loops and cannot enforce the [[AntiLoopRule]].
+Without conversation history tracking, the system cannot detect when users are stuck in loops and cannot enforce the [AntiLoopRule](AntiLoopRule.md).
 
 ## Connections
-- [[AntiLoopRule]] — uses conversation history to detect loops
-- [[PlanningLoopDetection]] — the bug this detects
+- [AntiLoopRule](AntiLoopRule.md) — uses conversation history to detect loops
+- [PlanningLoopDetection](PlanningLoopDetection.md) — the bug this detects
 - [[UserMessage]] — individual messages being tracked

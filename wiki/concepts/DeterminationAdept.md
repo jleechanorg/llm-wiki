@@ -39,7 +39,7 @@ This distribution prioritizes:
 
 ## Connections
 
-- [[Frisk]] — The Determination Adept wielding this class
+- [Frisk](../entities/Frisk.md) — The Determination Adept wielding this class
 - [[Undertale Campaign]] — The campaign featuring this class
 - [[Mercy Path]] — The gameplay approach this class is optimized for
-- [[Underground]] — The setting where Determination is tested
+- [Underground](../entities/Underground.md) — The setting where Determination is tested

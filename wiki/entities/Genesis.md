@@ -6,7 +6,7 @@ sources: []
 last_updated: 2026-04-07
 ---
 
-Genesis is an orchestrator system tested in the September 2025 benchmark against [[Ralph]]. It uses tmux-based session management for agent execution and works with the [[Codex]] agent by default.
+Genesis is an orchestrator system tested in the September 2025 benchmark against [Ralph](Ralph.md). It uses tmux-based session management for agent execution and works with the [Codex](Codex.md) agent by default.
 
 ## Benchmark Results
 - **Project 1 (CLI File Processor)**: ✅ Running with codex
@@ -20,5 +20,5 @@ Genesis is an orchestrator system tested in the September 2025 benchmark against
 - Reliability: All 3 projects started successfully
 
 ## Connections
-- Compared to [[Ralph]] in benchmark
-- Uses [[Codex]] as primary agent
+- Compared to [Ralph](Ralph.md) in benchmark
+- Uses [Codex](Codex.md) as primary agent

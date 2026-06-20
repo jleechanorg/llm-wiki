@@ -14,5 +14,5 @@ Game mode where the AI responds without advancing the narrative. Unlike normal p
 - Bug fix: malformed JSON now returns standardized error instead of exposing raw JSON keys
 
 ## Related Concepts
-- [[ParseStructuredResponse]] — parses god mode responses
+- [ParseStructuredResponse](ParseStructuredResponse.md) — parses god mode responses
 - [[Main User Scenario Fix — No Raw JSON in God Mode]] — validates error handling

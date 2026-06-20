@@ -10,6 +10,6 @@ last_updated: 2026-04-08
 An NPC role within the Jedi Order faction. In Luke's campaign, a Jedi Master was created with female gender but narrative generation incorrectly used male pronouns and names, exposing the need for explicit gender field storage.
 
 ## Related
-- [[NPC]] — the entity schema that now stores gender
+- [NPC](NPC.md) — the entity schema that now stores gender
 - [[JediOrder]] — the faction this NPC belongs to
-- [[LukeCampaign]] — the campaign where this issue was discovered
+- [LukeCampaign](LukeCampaign.md) — the campaign where this issue was discovered

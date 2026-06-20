@@ -44,6 +44,6 @@ Tiberius navigates the political and military conflict between Rome and Spartacu
 
 - [[Spartacus Tiberius Campaign]] — The campaign he stars in
 - [[Marcus Crassus]] — His father, Roman power broker
-- [[Spartacus]] — The rebel leader opposing Rome
+- [Spartacus](Spartacus.md) — The rebel leader opposing Rome
 - [[Legions Vindicator Paladin]] — His class archetype
 - [[Oath Of Rome]] — His oath subclass

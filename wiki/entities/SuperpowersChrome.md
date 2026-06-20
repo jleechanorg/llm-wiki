@@ -28,6 +28,6 @@ Your Code/CLI → chrome-ws (17 commands) → Native WebSocket → CDP → Chrom
 ```
 
 ## Related Concepts
-- [[ChromeDevToolsProtocol]]
-- [[MCP]]
-- [[WebSocketProtocol]]
+- [ChromeDevToolsProtocol](../concepts/ChromeDevToolsProtocol.md)
+- [MCP](MCP.md)
+- [WebSocketProtocol](../concepts/WebSocketProtocol.md)

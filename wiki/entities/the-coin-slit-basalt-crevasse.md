@@ -10,13 +10,13 @@ total_scenes: 129
 
 ## Overview
 
-** The Coin-Slit (Basalt Crevasse) appears in 5 scenes across the [[aizen-thay-v1]] campaign.
+** The Coin-Slit (Basalt Crevasse) appears in 5 scenes across the [aizen-thay-v1](../sources/aizen-thay-v1.md) campaign.
 
 ## Description
 
 ** The Coin-Slit (Basalt Crevasse) is an entity from the aizen-thay-v1 campaign.
 
 ## References
-- [[aizen-thay-v1]] — campaign overview
-- [[aizen-thay-v1-campaign]]
+- [aizen-thay-v1](../sources/aizen-thay-v1.md) — campaign overview
+- [aizen-thay-v1-campaign](../sources/aizen-thay-v1-campaign.md)
 

@@ -20,6 +20,6 @@ Lucifer, called "The Morning Star," is the charismatic and nihilistic leader of 
 
 ## Connections
 
-- [[AlexielAssiah]] — biological "daughter"
-- [[UnchainedHost]] — his army
-- [[CelestialImperiumAssiah]] — opposing force
+- [AlexielAssiah](AlexielAssiah.md) — biological "daughter"
+- [UnchainedHost](../concepts/UnchainedHost.md) — his army
+- [CelestialImperiumAssiah](CelestialImperiumAssiah.md) — opposing force

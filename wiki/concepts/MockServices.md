@@ -16,8 +16,8 @@ Mock services are test doubles that simulate real service behavior (APIs, databa
 
 ## Related Concepts
 - [[CaptureFrameworkDocumentation]] — framework for capturing real service interactions for mock validation
-- [[RealModeTesting]] — testing pattern using actual services with captured responses
-- [[TestIsolation]] — ensuring tests don't depend on each other or external state
+- [RealModeTesting](RealModeTesting.md) — testing pattern using actual services with captured responses
+- [TestIsolation](TestIsolation.md) — ensuring tests don't depend on each other or external state
 
 ## Usage in WorldArchitect.AI
 The pytest configuration forces mock services to ensure tests run reliably without network dependencies or API key requirements.

@@ -14,8 +14,8 @@ Cloud Build is Google's CI/CD platform that builds, tests, and deploys container
 - Shows: build ID, status, source commit, images
 
 ## Related Concepts
-- [[GoogleCloud]] — hosting platform
-- [[GitHubActions]] — alternative CI/CD
+- [GoogleCloud](../entities/GoogleCloud.md) — hosting platform
+- [GitHubActions](../entities/GitHubActions.md) — alternative CI/CD
 
 ## Wiki Connections
 - Referenced in: [[Cloud Run Commit SHA Tracking]]

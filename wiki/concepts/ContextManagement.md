@@ -51,8 +51,8 @@ LLMs lose consistency after 15+ scenes due to context window pressure. Solutions
 - **Phase 4**: Server-side safeguards (last resort)
 
 ## Connections
-- [[HarnessEngineering]] - Using context files effectively
-- [[DualAgentArchitecture]] - Attention separation
-- [[LLMDrift]] - The problem being solved
-- [[MetaHarness]] — Meta-Harness optimizes the harness code that manages context, demonstrating that harness-level changes produce 6x performance gap over fixed models
+- [HarnessEngineering](HarnessEngineering.md) - Using context files effectively
+- [DualAgentArchitecture](DualAgentArchitecture.md) - Attention separation
+- [LLMDrift](LLMDrift.md) - The problem being solved
+- [MetaHarness](MetaHarness.md) — Meta-Harness optimizes the harness code that manages context, demonstrating that harness-level changes produce 6x performance gap over fixed models
 

@@ -14,10 +14,10 @@ Harbor is a concurrent benchmark runner for AI coding agents. It is the executio
 - **Usage in AttractorBench**: `harbor run --path ./tasks --agent claude-code --model anthropic/claude-sonnet-4-6 --env docker`
 
 ## Connections
-- [[AttractorBench]] — Harbor runs AttractorBench evaluations
-- [[StrongDM]] — Harbor is the execution layer for AttractorBench
+- [AttractorBench](AttractorBench.md) — Harbor runs AttractorBench evaluations
+- [StrongDM](StrongDM.md) — Harbor is the execution layer for AttractorBench
 - [[ATIF]] — Harbor produces ATIF-format agent trajectories
 
 ## See Also
-- [[AttractorBench]]
-- [[StrongDM]]
+- [AttractorBench](AttractorBench.md)
+- [StrongDM](StrongDM.md)

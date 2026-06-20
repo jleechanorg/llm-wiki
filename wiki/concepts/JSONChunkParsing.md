@@ -21,7 +21,7 @@ JSON chunk parsing refers to the challenge of extracting meaningful data from in
 - **Progressive Accumulation**: Append chunks to build complete values over time
 
 ## Related Concepts
-- [[UnitTesting]] — testing parsing functions
+- [UnitTesting](UnitTesting.md) — testing parsing functions
 - [[StreamingProtocol]] — SSE streaming protocols
 
 ## Sources

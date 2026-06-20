@@ -16,13 +16,13 @@ OPA Gatekeeper is a CNCF project that integrates OPA with Kubernetes admission c
 - **Audit**: Periodically evaluates existing resources against policies (not just mutation-time)
 
 ## Connections
-- [[OPA]] — Gatekeeper is a specialized OPA deployment targeting Kubernetes
+- [OPA](OPA.md) — Gatekeeper is a specialized OPA deployment targeting Kubernetes
 - [[Kubernetes-RBAC]] — Gatekeeper complements RBAC with policy-level enforcement beyond identity
-- [[OPA-Constraint-Templates]] — the constraint template pattern Gatekeeper enables
+- [OPA-Constraint-Templates](../concepts/OPA-Constraint-Templates.md) — the constraint template pattern Gatekeeper enables
 - [[Policy-as-Code]] — constraint templates are policy-as-code for K8s workloads
 
 ## See Also
-- [[OPA]]
+- [OPA](OPA.md)
 - [[Kubernetes-RBAC]]
-- [[OPA-Constraint-Templates]]
+- [OPA-Constraint-Templates](../concepts/OPA-Constraint-Templates.md)
 - [[Policy-as-Code]]

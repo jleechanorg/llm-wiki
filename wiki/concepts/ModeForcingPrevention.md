@@ -15,7 +15,7 @@ Mode forcing prevention is a security measure that prevents users from bypassing
 
 
 The `get_agent_for_input()` function in `mvp_site.agents` validates the requested mode:
-1. If mode is an internal mode (combat, rewards, info, etc.), reject and return [[StoryModeAgent]] instead
+1. If mode is an internal mode (combat, rewards, info, etc.), reject and return [StoryModeAgent](../entities/StoryModeAgent.md) instead
 2. If mode is a user-facing mode (think, god), allow it
 3. If mode is not specified, rely on intent classifier
 
@@ -39,6 +39,6 @@ def get_agent_for_input(user_input, state, mode=None):
 
 ## Related
 
-- [[InternalModes]]
-- [[StoryModeAgent]]
+- [InternalModes](InternalModes.md)
+- [StoryModeAgent](../entities/StoryModeAgent.md)
 - [[get_agent_for_input]]

@@ -10,13 +10,13 @@ total_scenes: 315
 
 ## Overview
 
-** The Smirking Boar - Cellar appears in 26 scenes across the [[old-noctune-merc-bg3]] campaign.
+** The Smirking Boar - Cellar appears in 26 scenes across the [old-noctune-merc-bg3](../sources/old-noctune-merc-bg3.md) campaign.
 
 ## Description
 
 ** The Smirking Boar - Cellar is an entity from the old-noctune-merc-bg3 campaign.
 
 ## References
-- [[old-noctune-merc-bg3]] — campaign overview
+- [old-noctune-merc-bg3](../sources/old-noctune-merc-bg3.md) — campaign overview
 - [[old-noctune-merc-bg3-campaign]]
 

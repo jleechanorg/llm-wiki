@@ -20,6 +20,6 @@ State Integrity Enforcement is the practice of hardening LLM-generated state cha
 Skipping safeguards enables: game state inconsistency, exploit development (Social HP blitzing), and time travel bugs.
 
 ## Related Concepts
-- [[ContinuitySafeguards]] — The specific safeguards enforced
-- [[LLMResponse]] — Source of potentially hallucinated state updates
-- [[GameState]] — Target of enforced state changes
+- [ContinuitySafeguards](ContinuitySafeguards.md) — The specific safeguards enforced
+- [LLMResponse](LLMResponse.md) — Source of potentially hallucinated state updates
+- [GameState](GameState.md) — Target of enforced state changes

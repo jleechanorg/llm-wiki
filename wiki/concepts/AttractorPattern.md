@@ -15,11 +15,11 @@ The Attractor pattern is a design philosophy for agentic coding where natural la
 ## Related Systems
 | System | Language | Key Distinction |
 |--------|----------|----------------|
-| [[Kilroy]] | Go | Local-first CLI, CXDB checkpoints, worktree isolation |
-| [[Mammoth]] | Go | 21-rule DOT linter, fan-in, verification nodes, 5-phase lifecycle |
-| [[Smasher]] | Rust | Lean, HTMX dashboard, SSE streaming, smasher chat REPL |
-| [[Tracker]] | Go | Dippin language, .dipx bundles, interview-mode human gates |
-| [[DarkFactory]] | Python | The dark-factory repo's own runner with CXDB + Healer |
+| [Kilroy](../entities/Kilroy.md) | Go | Local-first CLI, CXDB checkpoints, worktree isolation |
+| [Mammoth](../entities/Mammoth.md) | Go | 21-rule DOT linter, fan-in, verification nodes, 5-phase lifecycle |
+| [Smasher](../entities/Smasher.md) | Rust | Lean, HTMX dashboard, SSE streaming, smasher chat REPL |
+| [Tracker](../entities/Tracker.md) | Go | Dippin language, .dipx bundles, interview-mode human gates |
+| [DarkFactory](DarkFactory.md) | Python | The dark-factory repo's own runner with CXDB + Healer |
 
 ## Connection to Attractor Pattern
 This IS the core concept. The Attractor pattern asserts that well-written NLSpecs act as attractors in design space, pulling independent implementations toward a common architecture. The spec is the product; the code is dorodango.
@@ -32,10 +32,10 @@ This IS the core concept. The Attractor pattern asserts that well-written NLSpec
 5. **Dorodango** — polish generated code; when fundamentally wrong, discard and rebuild from spec
 
 ## See Also
-- [[NLSpec]]
-- [[Dorodango]]
-- [[DOTAsArtifact]]
-- [[CXDB]]
-- [[HealerAgent]]
-- [[DarkFactory]]
-- [[FiveLevelAutomation]]
+- [NLSpec](NLSpec.md)
+- [Dorodango](Dorodango.md)
+- [DOTAsArtifact](DOTAsArtifact.md)
+- [CXDB](CXDB.md)
+- [HealerAgent](HealerAgent.md)
+- [DarkFactory](DarkFactory.md)
+- [FiveLevelAutomation](FiveLevelAutomation.md)

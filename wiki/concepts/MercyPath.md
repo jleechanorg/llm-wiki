@@ -33,7 +33,7 @@ The Determination Adept's attribute spread (high CHA/WIS, lower combat stats) is
 
 ## Connections
 
-- [[Frisk]] — The character who can choose Mercy
+- [Frisk](../entities/Frisk.md) — The character who can choose Mercy
 - [[Determination Adept]] — The class optimized for Mercy
 - [[Undertale Campaign]] — Where this choice is central
-- [[Underground]] — The realm where Mercy is tested
+- [Underground](../entities/Underground.md) — The realm where Mercy is tested

@@ -16,4 +16,4 @@ Large-scale data removal operation using batch processing with safety limits. In
 
 ## Wiki Connections
 - [[CampaignDeletion]] — specific application of batch deletion
-- [[Firestore]] — database supporting batch operations
+- [Firestore](Firestore.md) — database supporting batch operations

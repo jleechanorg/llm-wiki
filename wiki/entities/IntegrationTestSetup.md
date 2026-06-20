@@ -10,5 +10,5 @@ last_updated: 2026-04-08
 Test setup utility class providing integration test environment configuration. Provides TEST_SELECTED_PROMPTS constant and create_test_prompts_directory() method for setting up test prompts directory.
 
 ## Connections
-- [[FlaskAppTesting]] — Used with Flask test client
-- [[MvpSite]] — Located in mvp_site/tests/
+- [FlaskAppTesting](../concepts/FlaskAppTesting.md) — Used with Flask test client
+- [MvpSite](MvpSite.md) — Located in mvp_site/tests/

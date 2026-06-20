@@ -15,6 +15,6 @@ Container runtime used to containerize WorldArchitect.AI for deployment. Docker 
 - **Environment Variables**: Passed via environment key
 
 ## Connections
-- [[WorldArchitectAI]] — containerized with Docker
-- [[GoogleCloudRun]] — deploys Docker images
-- [[Kubernetes]] — orchestrates Docker containers
+- [WorldArchitectAI](WorldArchitectAI.md) — containerized with Docker
+- [GoogleCloudRun](GoogleCloudRun.md) — deploys Docker images
+- [Kubernetes](Kubernetes.md) — orchestrates Docker containers

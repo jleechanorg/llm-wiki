@@ -305,10 +305,10 @@ Ran PR Recreate Pipeline across 3 iterations on merged PRs from jleechanorg/worl
 - Bug-type taxonomy: atomicity → PRM, logic → ET, typed-schema → ET
 
 ## See Also
-- [[SelfRefine]] — 3-iteration generate-critique-revise
-- [[ProcessRewardModels]] — step-level feedback scoring
-- [[ExtendedThinking]] — reasoning before generation
-- [[PRRecreatePipeline]] — SWE-bench style pipeline methodology
+- [SelfRefine](../concepts/SelfRefine.md) — 3-iteration generate-critique-revise
+- [ProcessRewardModels](../concepts/ProcessRewardModels.md) — step-level feedback scoring
+- [ExtendedThinking](../concepts/ExtendedThinking.md) — reasoning before generation
+- [PRRecreatePipeline](../concepts/PRRecreatePipeline.md) — SWE-bench style pipeline methodology
 - `wiki/syntheses/cycle_selfrefine_v3.md` — Cycle A results (synthetic PRs)
 - `wiki/syntheses/cycle_prm_v3.md` — Cycle B results (synthetic PRs)
 

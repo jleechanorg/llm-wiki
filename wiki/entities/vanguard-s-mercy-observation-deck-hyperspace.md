@@ -10,13 +10,13 @@ total_scenes: 822
 
 ## Overview
 
-** Vanguard's Mercy - Observation Deck (Hyperspace) appears in 7 scenes across the [[alexiel-swtor]] campaign.
+** Vanguard's Mercy - Observation Deck (Hyperspace) appears in 7 scenes across the [alexiel-swtor](../sources/alexiel-swtor.md) campaign.
 
 ## Description
 
 ** Vanguard's Mercy - Observation Deck (Hyperspace) is an entity from the alexiel-swtor campaign.
 
 ## References
-- [[alexiel-swtor]] — campaign overview
-- [[alexiel-swtor-campaign]]
+- [alexiel-swtor](../sources/alexiel-swtor.md) — campaign overview
+- [alexiel-swtor-campaign](../sources/alexiel-swtor-campaign.md)
 

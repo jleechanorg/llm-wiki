@@ -10,4 +10,4 @@ last_updated: 2026-04-08
 Common English words excluded from query term extraction. Set includes: the, is, at, which, on, and, a, an, as, are, was, were, been, be.
 
 ## Source
-[[memory-mcp-integration]]
+[memory-mcp-integration](../sources/memory-mcp-integration.md)

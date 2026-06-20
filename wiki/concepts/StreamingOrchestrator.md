@@ -22,9 +22,9 @@ A module responsible for managing real-time streaming of LLM responses to client
 - `_warn_if_living_world_missing()` — Validation for Living World state
 
 ## Related Concepts
-- [[ServerSentEvents]] — The protocol used for streaming
-- [[GeminiProvider]] — LLM provider for generating content streams
-- [[StreamEvent]] — The event data structure
+- [ServerSentEvents](ServerSentEvents.md) — The protocol used for streaming
+- [GeminiProvider](../entities/GeminiProvider.md) — LLM provider for generating content streams
+- [StreamEvent](StreamEvent.md) — The event data structure
 
 ## Connections
 - Tested by [[StreamingOrchestratorModuleTests]]

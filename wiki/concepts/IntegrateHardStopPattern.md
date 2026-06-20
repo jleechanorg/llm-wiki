@@ -53,14 +53,14 @@ integrate.sh reports only `M` (modified tracked) files, not `??` (untracked) fil
 
 ## Sources
 
-- [[feedback-2026-06-19-integrate-hard-stop-uncommitted-state]] — primary source
+- [feedback-2026-06-19-integrate-hard-stop-uncommitted-state](../sources/feedback-2026-06-19-integrate-hard-stop-uncommitted-state.md) — primary source
 - [[feedback-2026-06-12-integrate-sh-worktree-main-elsewhere]] — prior integrate.sh hard-stop case (different trigger)
 - CLAUDE.md "Worktree Isolation — Edit Your Copy, Not ~/.hermes/ Directly"
 
 ## Connections
 
-- [[UncommittedStateDecisionMatrix]] — the 4-option matrix to apply after a hard-stop
-- [[MergeReadinessGate]] — sibling protocol that catches the same state pollution pre-merge
-- [[HermesLivenessProtocol]] — companion protocol
+- [UncommittedStateDecisionMatrix](UncommittedStateDecisionMatrix.md) — the 4-option matrix to apply after a hard-stop
+- [MergeReadinessGate](MergeReadinessGate.md) — sibling protocol that catches the same state pollution pre-merge
+- [HermesLivenessProtocol](HermesLivenessProtocol.md) — companion protocol
 - [[WorktreeIsolation]] — context: the `~/.hermes/` editing rule this pattern enforces
-- [[fix-mcp-daemon-keepalive]] — branch that triggered the 2026-06-19 verification
+- [fix-mcp-daemon-keepalive](../entities/fix-mcp-daemon-keepalive.md) — branch that triggered the 2026-06-19 verification

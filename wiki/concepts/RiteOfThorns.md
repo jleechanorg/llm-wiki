@@ -11,7 +11,7 @@ The Rite of Thorns is a sacred druidic ritual performed at the Emerald Grove, pa
 
 ## Key Details
 - **Category:** Setting / Ritual
-- **Campaign(s):** [[nocturne-bg3-v5]], [[nocturne-bg3-v5-fixed-v2]], [[nocturne-bg3-v6-bug-repro-test]]
+- **Campaign(s):** [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md), [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md), [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md)
 
 ## Related Concepts
 - [[PowerSiphon]] — Nocturne's intended use
@@ -19,7 +19,7 @@ The Rite of Thorns is a sacred druidic ritual performed at the Emerald Grove, pa
 - [[SacredPool]] — location
 
 ## Related Entities
-- [[EmeraldGrove]] — ritual location
-- [[ShatteredSanctum]] — Sacred Pool location
-- [[EmeraldGroveDruids]] — performers
-- [[NocturneSosuke]] — attempting to siphon
+- [EmeraldGrove](../entities/EmeraldGrove.md) — ritual location
+- [ShatteredSanctum](../entities/ShatteredSanctum.md) — Sacred Pool location
+- [EmeraldGroveDruids](../entities/EmeraldGroveDruids.md) — performers
+- [NocturneSosuke](../entities/NocturneSosuke.md) — attempting to siphon

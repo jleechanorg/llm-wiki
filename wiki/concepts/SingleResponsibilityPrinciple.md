@@ -16,5 +16,5 @@ Each service focuses on one business domain. Part of SOLID design principles for
 - [[ContentService]] — content generation only
 
 ## Connections
-- [[StatelessOperations]] — complementary service principle
-- [[DependencyInjection]] — enables SRP through testability
+- [StatelessOperations](StatelessOperations.md) — complementary service principle
+- [DependencyInjection](DependencyInjection.md) — enables SRP through testability

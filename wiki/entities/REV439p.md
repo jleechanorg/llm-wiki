@@ -15,5 +15,5 @@ Pull request addressing level-up modal lock bypass vulnerability. The issue allo
 - Related to [[REV-0g1y]] which addressed stale flag handling
 
 ## Connections
-- [[LevelUpAgent]] — agent that receives modal lock routing
+- [LevelUpAgent](LevelUpAgent.md) — agent that receives modal lock routing
 - [[GetAgentForInput]] — function that performs routing logic

@@ -68,4 +68,4 @@ Based on 27,923 user messages and git history from worldarchitect.ai (Jan–Apr 
 - Detailed commit bodies: explain why, not just what
 
 ## See Also
-- [[jeffrey-oracle]] — the decision framework synthesis that operationalizes this working style into PR review predictions
+- [jeffrey-oracle](../syntheses/jeffrey-oracle.md) — the decision framework synthesis that operationalizes this working style into PR review predictions

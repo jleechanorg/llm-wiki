@@ -20,4 +20,4 @@ Dual-currency system tracking character personal wealth separately from faction 
 
 ## Connections
 - [[20TurnTestImprovementSummary]] — validated via 20-turn test
-- [[GameStateManagement]] — requires separate state pools
+- [GameStateManagement](GameStateManagement.md) — requires separate state pools

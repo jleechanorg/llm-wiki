@@ -6,20 +6,20 @@ sources: []
 last_updated: 2026-04-14
 ---
 
-Code Repair is the application of fixes after [[ErrorDetection]] has identified a bug. It is step 2 of the [[SelfDebugging]] pipeline (Detect → Diagnose → Repair).
+Code Repair is the application of fixes after [ErrorDetection](ErrorDetection.md) has identified a bug. It is step 2 of the [SelfDebugging](SelfDebugging.md) pipeline (Detect → Diagnose → Repair).
 
 ## Key Properties
 - **Root cause focused**: Good repairs fix the root cause, not just the symptom
 - **Requires understanding**: Model must understand why the error occurred, not just what the error was
 - **Test-driven repair**: After repair, re-running tests validates the fix
-- **Part of [[VerificationLoop]]**: Repair + verification is the core loop
+- **Part of [VerificationLoop](VerificationLoop.md)**: Repair + verification is the core loop
 
 ## Connections
-- [[SelfDebugging]] — code repair is the repair step in self-debugging
-- [[ErrorDetection]] — error detection feeds the repair process
-- [[VerificationLoop]] — code repair is followed by verification
-- [[Reflexion]] — Reflexion memory helps avoid repeating the same repairs
+- [SelfDebugging](SelfDebugging.md) — code repair is the repair step in self-debugging
+- [ErrorDetection](ErrorDetection.md) — error detection feeds the repair process
+- [VerificationLoop](VerificationLoop.md) — code repair is followed by verification
+- [Reflexion](Reflexion.md) — Reflexion memory helps avoid repeating the same repairs
 
 ## See Also
-- [[SelfDebugging]]
-- [[ErrorDetection]]
+- [SelfDebugging](SelfDebugging.md)
+- [ErrorDetection](ErrorDetection.md)

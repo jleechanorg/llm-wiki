@@ -8,12 +8,12 @@ last_updated: 2026-05-07
 
 # Ben (Stellar Work)
 
-**Role**: Host of [[StellarWorkPodcast]]
+**Role**: Host of [StellarWorkPodcast](StellarWorkPodcast.md)
 **Location**: Europe (recording at 4am local time per EP57)
 
 ## Summary
 
-Ben is the host of the Stellar Work podcast, a show covering engineering management, AI tools, and big tech practices. He interviewed Jeff Lee-Chan ([[JeffreyChan]]) for EP57 after meeting him in San Francisco.
+Ben is the host of the Stellar Work podcast, a show covering engineering management, AI tools, and big tech practices. He interviewed Jeff Lee-Chan ([JeffreyChan](JeffreyChan.md)) for EP57 after meeting him in San Francisco.
 
 ## Interview Style
 
@@ -24,5 +24,5 @@ Ben is the host of the Stellar Work podcast, a show covering engineering managem
 
 ## Connections
 
-- [[StellarWorkPodcast]] — host
-- [[JeffreyChan]] — EP57 guest
+- [StellarWorkPodcast](StellarWorkPodcast.md) — host
+- [JeffreyChan](JeffreyChan.md) — EP57 guest

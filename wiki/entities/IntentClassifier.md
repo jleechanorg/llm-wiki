@@ -10,5 +10,5 @@ IntentClassifier determines user intent for agent routing in WorldArchitect. Ret
 
 ## Related
 - [[get_agent_for_input]] — uses classifier output
-- [[StoryModeAgent]] — selected for MODE_CHARACTER
-- [[GodModeAgent]] — triggered by prefix, not classifier
+- [StoryModeAgent](StoryModeAgent.md) — selected for MODE_CHARACTER
+- [GodModeAgent](GodModeAgent.md) — triggered by prefix, not classifier

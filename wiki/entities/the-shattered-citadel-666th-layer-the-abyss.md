@@ -10,13 +10,13 @@ total_scenes: 925
 
 ## Overview
 
-** The Shattered Citadel, 666th Layer (The Abyss) appears in 81 scenes across the [[nocturne-bg3-v5-fixed-v2]] campaign.
+** The Shattered Citadel, 666th Layer (The Abyss) appears in 81 scenes across the [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md) campaign.
 
 ## Description
 
 ** The Shattered Citadel, 666th Layer (The Abyss) is an entity from the nocturne-bg3-v5-fixed-v2 campaign.
 
 ## References
-- [[nocturne-bg3-v5-fixed-v2]] — campaign overview
-- [[nocturne-bg3-v5-fixed-v2-campaign]]
+- [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md) — campaign overview
+- [nocturne-bg3-v5-fixed-v2-campaign](../sources/nocturne-bg3-v5-fixed-v2-campaign.md)
 

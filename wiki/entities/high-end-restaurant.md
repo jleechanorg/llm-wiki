@@ -10,13 +10,13 @@ total_scenes: 136
 
 ## Overview
 
-** High-end restaurant appears in 72 scenes across the [[doberman]] campaign.
+** High-end restaurant appears in 72 scenes across the [doberman](../sources/doberman.md) campaign.
 
 ## Description
 
 ** High-end restaurant is an entity from the doberman campaign.
 
 ## References
-- [[doberman]] — campaign overview
-- [[doberman-campaign]]
+- [doberman](../sources/doberman.md) — campaign overview
+- [doberman-campaign](../sources/doberman-campaign.md)
 

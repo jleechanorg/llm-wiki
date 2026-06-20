@@ -66,6 +66,6 @@ async def ocr_frames(frames: list[Image]) -> list[str]:
 ```
 
 ## Connections
-- [[VideoEvidenceGate]] — Gate that uses extracted frames
-- [[VideoEvidenceFailure]] — Failure analysis
-- [[EvidencePipeline]] — Evidence collection
+- [VideoEvidenceGate](VideoEvidenceGate.md) — Gate that uses extracted frames
+- [VideoEvidenceFailure](VideoEvidenceFailure.md) — Failure analysis
+- [EvidencePipeline](EvidencePipeline.md) — Evidence collection

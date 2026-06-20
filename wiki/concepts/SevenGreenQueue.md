@@ -19,4 +19,4 @@ The 7-green queue is a quality gate standard requiring all seven automated check
 7. **Final Review** — Human final review (optional)
 
 ## Usage in AO Workflow
-[[AgentOrchestrator]] runs workers until all 7-green conditions are met, then [[Skeptic]] posts the verdict on the current head SHA.
+[AgentOrchestrator](../entities/AgentOrchestrator.md) runs workers until all 7-green conditions are met, then [Skeptic](../entities/Skeptic.md) posts the verdict on the current head SHA.

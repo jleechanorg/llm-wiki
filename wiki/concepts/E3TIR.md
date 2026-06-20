@@ -28,7 +28,7 @@ Training-time experience integration is more data-efficient than training from s
 
 ## Related Concepts
 
-- [[Mem2Evolve]] — Mem²Evolve is runtime tool creation, E3TIR is training-time warm-up; both improve through experience exploitation
-- [[AgentMentor]] — E3TIR trains the model, Agent Mentor corrects at runtime; complementary layers
+- [Mem2Evolve](Mem2Evolve.md) — Mem²Evolve is runtime tool creation, E3TIR is training-time warm-up; both improve through experience exploitation
+- [AgentMentor](AgentMentor.md) — E3TIR trains the model, Agent Mentor corrects at runtime; complementary layers
 - [[ToolIntegratedReasoning]] — E3TIR is a training paradigm specifically for TIR tasks
 - [[SyntheticData]] — E3TIR achieves strong results with <10% synthetic data

@@ -25,6 +25,6 @@ New Sovereigns begin with 1 SP (Administrator tier, Rank 801-1000)
 | Administrator | 100-9,999 |
 
 ## Related
-- [[LogicSiege]] — Can expend SP for combat advantage
-- [[SovereignProtocol]] — Uses SP as core resource
-- [[PanSubstrate]] — SP represents territory in
+- [LogicSiege](../entities/LogicSiege.md) — Can expend SP for combat advantage
+- [SovereignProtocol](../entities/SovereignProtocol.md) — Uses SP as core resource
+- [PanSubstrate](../entities/PanSubstrate.md) — SP represents territory in

@@ -24,13 +24,13 @@ The critical bottleneck in scaling formal methods is specification authorship �
 - Bugs caused system crashes and incorrect execution results
 
 ## Complementary Approaches
-- **vs [[SWE-Shepherd]]**: SWE-Shepherd guides agent *during* code generation (step-level steering); FM-Agent verifies code *after* generation (post-hoc checking). They address different failure modes: generation missteps vs verification gaps.
+- **vs [SWE-Shepherd](SWE-Shepherd.md)**: SWE-Shepherd guides agent *during* code generation (step-level steering); FM-Agent verifies code *after* generation (post-hoc checking). They address different failure modes: generation missteps vs verification gaps.
 - **vs traditional formal methods**: Traditional tools (CBMC, KLEE) require formal specs; FM-Agent generates specs automatically from natural language and caller context.
 - **vs LLM self-verification**: FM-Agent uses structured Hoare-style reasoning rather than unstructured LLM self-critique, providing stronger correctness guarantees.
 
 ## Connections
 - [[HoareLogic]] — formal foundation extended to natural language
-- [[FormalVerification]] — the overarching goal at scale
+- [FormalVerification](FormalVerification.md) — the overarching goal at scale
 - [[CompositionalReasoning]] — key technique for scaling to large systems
 - [[TestCaseGeneration]] — automated bug confirmation
-- [[SWE-Shepherd]] — complementary: guides generation vs verifies output
+- [SWE-Shepherd](SWE-Shepherd.md) — complementary: guides generation vs verifies output

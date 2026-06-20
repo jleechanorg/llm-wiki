@@ -11,4 +11,4 @@ Cryptographic signature validation method used to verify that webhook payloads o
 
 ## Connections
 - Used by [[WebhookPipelineOperatorRunbook]] for ingress security
-- Related to [[FailClosedErrorHandling]] — invalid signatures result in request rejection
+- Related to [FailClosedErrorHandling](FailClosedErrorHandling.md) — invalid signatures result in request rejection

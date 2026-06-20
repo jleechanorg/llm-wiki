@@ -39,16 +39,16 @@ A 5-gate checklist to evaluate BEFORE answering any user question of the form "d
 
 ## Sources
 
-- [[feedback-2026-06-19-hermes-liveness-and-merge-readiness]] — primary source, verification on `fix/mcp-daemon-keepalive`
+- [feedback-2026-06-19-hermes-liveness-and-merge-readiness](../sources/feedback-2026-06-19-hermes-liveness-and-merge-readiness.md) — primary source, verification on `fix/mcp-daemon-keepalive`
 - CLAUDE.md "Worktree Isolation — Edit Your Copy, Not ~/.hermes/ Directly" + "Merge safety — explicit MERGE APPROVED required"
-- [[MergeConflictResolution]] — adjacent concept (how to handle merge conflicts that arise after gates 1-4 pass)
-- [[MergeReadiness]] — existing related concept
-- [[MergeReadinessContract]] — existing related concept (admin override path)
+- [MergeConflictResolution](MergeConflictResolution.md) — adjacent concept (how to handle merge conflicts that arise after gates 1-4 pass)
+- [MergeReadiness](MergeReadiness.md) — existing related concept
+- [MergeReadinessContract](MergeReadinessContract.md) — existing related concept (admin override path)
 
 ## Connections
 
-- [[HermesLivenessProtocol]] — companion protocol; "is Hermes working" is the precondition for "can we merge"
+- [HermesLivenessProtocol](HermesLivenessProtocol.md) — companion protocol; "is Hermes working" is the precondition for "can we merge"
 - [[WorktreeIsolation]] — staging canary gate rule
 - [[MergeApprovedPattern]] — the literal phrase requirement (gate 5)
-- [[PhantomRevert]] — adjacent risk class caught by `git diff origin/main..HEAD` (gate 2)
-- [[fix-mcp-daemon-keepalive]] — branch that triggered the 2026-06-19 verification (5/5 gates failed)
+- [PhantomRevert](PhantomRevert.md) — adjacent risk class caught by `git diff origin/main..HEAD` (gate 2)
+- [fix-mcp-daemon-keepalive](../entities/fix-mcp-daemon-keepalive.md) — branch that triggered the 2026-06-19 verification (5/5 gates failed)

@@ -21,4 +21,4 @@ UI/UX pattern requiring every agent response to include explicit planning_block 
 }
 ```
 
-Used by [[CharacterCreationAgent]] to enforce exit choice availability.
+Used by [CharacterCreationAgent](../entities/CharacterCreationAgent.md) to enforce exit choice availability.

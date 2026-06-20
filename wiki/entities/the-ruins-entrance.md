@@ -10,13 +10,13 @@ total_scenes: 145
 
 ## Overview
 
-** The Ruins - Entrance appears in 5 scenes across the [[undertale]] campaign.
+** The Ruins - Entrance appears in 5 scenes across the [undertale](../sources/undertale.md) campaign.
 
 ## Description
 
 ** The Ruins - Entrance is an entity from the undertale campaign.
 
 ## References
-- [[undertale]] — campaign overview
-- [[undertale-campaign]]
+- [undertale](../sources/undertale.md) — campaign overview
+- [undertale-campaign](../sources/undertale-campaign.md)
 

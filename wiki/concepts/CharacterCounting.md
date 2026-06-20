@@ -15,6 +15,6 @@ Character counting is the fundamental operation of measuring the length of a str
 - Returns 0 for empty/None input to avoid errors
 
 ## Related Concepts
-- [[TokenEstimation]] — uses character count as input
+- [TokenEstimation](TokenEstimation.md) — uses character count as input
 - [[TokenCountingUtilities]] — contains the character counting logic
-- [[LoggingWithMetadata]] — logging that includes character/token counts
+- [LoggingWithMetadata](LoggingWithMetadata.md) — logging that includes character/token counts

@@ -16,6 +16,6 @@ Sample campaign used in end-to-end integration tests. Represents a test fixture 
 - Selected prompts: ["narrative", "mechanics"]
 
 ## Related
-- [[TestVisitCampaignEnd2End]] - test class using this fixture
-- [[ThorinTheBold]] - player character in this campaign
-- [[Gandalf]] - NPC companion in this campaign
+- [TestVisitCampaignEnd2End](TestVisitCampaignEnd2End.md) - test class using this fixture
+- [ThorinTheBold](ThorinTheBold.md) - player character in this campaign
+- [Gandalf](Gandalf.md) - NPC companion in this campaign

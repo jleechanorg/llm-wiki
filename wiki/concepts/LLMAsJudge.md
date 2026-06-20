@@ -22,6 +22,6 @@ Using a separate LLM to evaluate and score outputs from other systems or agents.
 
 ## Connections
 
-- [[ProjectChimera]] uses LLM-as-Judge as its evaluation layer
-- Related to [[CanonicalCodeScorer]] which applies similar rubric-based evaluation in the auto-research context
+- [ProjectChimera](../entities/ProjectChimera.md) uses LLM-as-Judge as its evaluation layer
+- Related to [CanonicalCodeScorer](CanonicalCodeScorer.md) which applies similar rubric-based evaluation in the auto-research context
 - Quality Gate in Chimera is a specific instantiation

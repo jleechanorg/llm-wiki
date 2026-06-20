@@ -49,6 +49,6 @@ ls -la ~/agent-orchestrator.yaml
 ```
 
 ## Related
-- [[AgentOrchestratorConfiguration]] — the layered config model
-- [[ConfigFirstPrinciple]] — config > code principle (this is a config violation, not a code one)
+- [AgentOrchestratorConfiguration](AgentOrchestratorConfiguration.md) — the layered config model
+- [ConfigFirstPrinciple](ConfigFirstPrinciple.md) — config > code principle (this is a config violation, not a code one)
 - [[evidence-review]] — when this bug blocks verification, /er verdict can still PASS if direct-plugin-invocation evidence is documented

@@ -8,7 +8,7 @@ last_updated: 2026-04-08
 
 ## Profile
 
-Co-creator of [[CMUX]], a native macOS terminal application specifically engineered for AI-agent workflows.
+Co-creator of [CMUX](CMUX.md), a native macOS terminal application specifically engineered for AI-agent workflows.
 
 ## Background
 

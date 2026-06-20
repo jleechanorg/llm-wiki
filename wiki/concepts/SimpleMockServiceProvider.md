@@ -21,6 +21,6 @@ firestore = provider.get_firestore()
 ```
 
 ## Related Concepts
-- [[TestServiceProvider]] — Abstract base interface
-- [[RealServiceProvider]] — Production implementation
+- [TestServiceProvider](TestServiceProvider.md) — Abstract base interface
+- [RealServiceProvider](../entities/RealServiceProvider.md) — Production implementation
 - [[MockObject]] — Testing pattern for external dependencies

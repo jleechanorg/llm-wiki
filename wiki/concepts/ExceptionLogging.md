@@ -26,7 +26,7 @@ except Exception as e:
 ```
 
 ## Related Concepts
-- [[DecoratorPattern]] — implementation mechanism used
-- [[LoggingUtil]] — logging utility integration
+- [DecoratorPattern](DecoratorPattern.md) — implementation mechanism used
+- [LoggingUtil](../entities/LoggingUtil.md) — logging utility integration
 - [[StackTrace]] — stack trace handling
 - [[Observability]] — system monitoring and debugging capabilities

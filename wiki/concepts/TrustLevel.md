@@ -19,6 +19,6 @@ Relationship metric for NPC interactions ranging from -10 (hostile) to +10 (alli
 **Principle**: Direct experience beats hearsay.
 
 ## Related Concepts
-- [[ReputationSystem]]
-- [[NPCAutonomy]]
-- [[SocialHP]]
+- [ReputationSystem](ReputationSystem.md)
+- [NPCAutonomy](NPCAutonomy.md)
+- [SocialHP](SocialHP.md)

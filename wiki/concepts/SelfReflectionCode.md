@@ -26,6 +26,6 @@ Dual-LLM Collaboration:
 
 ## Connections
 
-- Precursor to [[SelfRefine]] — iterative refinement
-- [[SelfDebugging]] extends self-reflection to code correctness
-- [[AgentMentor]] applies reflection to execution logs
+- Precursor to [SelfRefine](SelfRefine.md) — iterative refinement
+- [SelfDebugging](SelfDebugging.md) extends self-reflection to code correctness
+- [AgentMentor](AgentMentor.md) applies reflection to execution logs

@@ -53,4 +53,4 @@ The two are complementary: Archon's per-session workflow engine could contribute
 
 Production-minded level 4 system with level 5 (zero-touch) aspirations. Skeptic is deployed and running. Evolve loop is built-in.
 
-See [[slack-c09grlxf9gr-archon-analysis-2026-04-15]] for full comparison.
+See [slack-c09grlxf9gr-archon-analysis-2026-04-15](../sources/slack-c09grlxf9gr-archon-analysis-2026-04-15.md) for full comparison.

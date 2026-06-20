@@ -10,5 +10,5 @@ last_updated: 2026-04-08
 Full structured response fixture used for testing structured output parsing. Imported from structured_fields_fixtures module.
 
 ## Related
-- [[GOD_MODE_RESPONSE]] — variant fixture for god mode testing
-- [[MockLLMClient]] — uses these fixtures
+- [GOD_MODE_RESPONSE](GOD_MODE_RESPONSE.md) — variant fixture for god mode testing
+- [MockLLMClient](MockLLMClient.md) — uses these fixtures

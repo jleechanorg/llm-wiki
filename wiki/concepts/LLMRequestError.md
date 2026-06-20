@@ -13,5 +13,5 @@ Custom exception class for LLM API request failures. Carries HTTP status code an
 - 500 status: Generic provider failures
 
 ## Related Concepts
-- [[ContextTooLargeError]] — converted to this for HTTP standardization
+- [ContextTooLargeError](ContextTooLargeError.md) — converted to this for HTTP standardization
 - [[Provider Fallback]] — graceful degradation when primary provider fails

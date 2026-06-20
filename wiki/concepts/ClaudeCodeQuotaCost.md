@@ -56,5 +56,5 @@ worker-signals-completion:
 
 ## See also
 
-- [[ClaudeCodeHooks]] — hook configuration patterns
-- [[ContextBloatFromMetadataHooks]] — related hook overhead problem
+- [ClaudeCodeHooks](ClaudeCodeHooks.md) — hook configuration patterns
+- [ContextBloatFromMetadataHooks](ContextBloatFromMetadataHooks.md) — related hook overhead problem

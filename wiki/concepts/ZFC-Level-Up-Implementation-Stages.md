@@ -103,5 +103,5 @@ Stage 0 is preparation (removing ambiguity). Stages 1–4 are enforcement. Stage
 
 ## See Also
 - [[ZFC Level-Up Architecture]] — architecture this plan implements
-- [[LevelUpArchitecture]] — pre-ZFC architecture this replaces
-- [[RewardsEngine]] — the single file that owns formatting across all stages
+- [LevelUpArchitecture](LevelUpArchitecture.md) — pre-ZFC architecture this replaces
+- [RewardsEngine](RewardsEngine.md) — the single file that owns formatting across all stages

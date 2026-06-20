@@ -10,5 +10,5 @@ last_updated: 2026-04-08
 Google Gemini API cache management module (mvp_site.gemini_cache_manager). Provides CampaignCacheManager class for managing cached story entries with deferred promotion logic.
 
 ## Related
-- [[CampaignCacheManager]] — Main class in this module
+- [CampaignCacheManager](CampaignCacheManager.md) — Main class in this module
 - [[N-1 Cache Promotion]] — Core caching pattern

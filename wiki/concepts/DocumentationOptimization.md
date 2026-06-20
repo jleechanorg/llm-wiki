@@ -16,11 +16,11 @@ Documentation optimization is the process of reducing documentation file size an
 - Enable faster editing and navigation
 
 ## Techniques
-- [[ContentCompression]] methods
+- [ContentCompression](ContentCompression.md) methods
 - Consistent symbol usage
 - Table-based organization
 - Reference-based example storage
 
 ## Related Concepts
-- [[ContentCompression]]
-- [[MarkdownFormatting]]
+- [ContentCompression](ContentCompression.md)
+- [MarkdownFormatting](MarkdownFormatting.md)

@@ -16,5 +16,5 @@ The process of ensuring Symphony daemon operations avoid duplicating work by mai
 - **Clear boundaries**: No policy expansion at daemon bootstrap time
 
 ## Related Concepts
-- [[DaemonBootstrap]] — where deduplication contract applies
+- [DaemonBootstrap](DaemonBootstrap.md) — where deduplication contract applies
 - [[PluginPayload]] — shaped locally, dispatched via runtime

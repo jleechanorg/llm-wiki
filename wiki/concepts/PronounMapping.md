@@ -18,6 +18,6 @@ A helper concept that maps gender values to appropriate pronouns for narrative t
 | other (default) | they | them | their |
 
 ## Related
-- [[GenderConsistency]] — principle requiring pronoun mapping
-- [[NPC]] — provides gender field that drives mapping
+- [GenderConsistency](GenderConsistency.md) — principle requiring pronoun mapping
+- [NPC](NPC.md) — provides gender field that drives mapping
 - [[NarrativeGeneration]] — applies pronoun mapping to generated text

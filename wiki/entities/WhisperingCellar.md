@@ -27,7 +27,7 @@ After the ritual was subverted, the crystalline cages hiss as they depressurize.
 
 ## Connections
 
-- [[SunderStoneVilla]] -- The villa above
-- [[NocturneBg3V3]] -- Character who took control of this space
-- [[CassalanterFamily]] -- Original owners of the ritual
-- [[faction-nocturne-bg3-v3-campaign]] -- Campaign
+- [SunderStoneVilla](SunderStoneVilla.md) -- The villa above
+- [NocturneBg3V3](NocturneBg3V3.md) -- Character who took control of this space
+- [CassalanterFamily](CassalanterFamily.md) -- Original owners of the ritual
+- [faction-nocturne-bg3-v3-campaign](../sources/faction-nocturne-bg3-v3-campaign.md) -- Campaign

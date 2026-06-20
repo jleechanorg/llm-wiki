@@ -23,7 +23,7 @@ Environment variables that control test behavior, enabling configuration-driven 
 
 ## Related Concepts
 - [[TestConfigurationManagement]] — Python class for managing test configuration
-- [[TestIsolation]] — using environment variables to isolate test execution
+- [TestIsolation](TestIsolation.md) — using environment variables to isolate test execution
 
 ## Best Practices
 1. Use descriptive variable names with TEST_ or MOCK_ prefixes

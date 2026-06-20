@@ -8,7 +8,7 @@ last_updated: 2026-04-14
 
 ## Definition
 
-A self-discovering meta-research loop that runs inside the Karpathy LLM Wiki. The agent analyzes patterns across your historical PRs, generates its own novel falsifiable hypotheses about improving code quality, then tests those hypotheses (and published techniques) against real PRs using the [[SelfCritiqueVerificationLoop]]. Results are recorded in the wiki with full metrics.
+A self-discovering meta-research loop that runs inside the Karpathy LLM Wiki. The agent analyzes patterns across your historical PRs, generates its own novel falsifiable hypotheses about improving code quality, then tests those hypotheses (and published techniques) against real PRs using the [SelfCritiqueVerificationLoop](SelfCritiqueVerificationLoop.md). Results are recorded in the wiki with full metrics.
 
 ## How It Works
 
@@ -30,10 +30,10 @@ Test plan: [how to test on next PR]
 Choose the next historical PR from test-prs/ or test one of the generated hypotheses.
 
 **Phase 2 — Implementation**
-Implement the selected paper's technique OR the generated hypothesis using [[SelfCritiqueVerificationLoop]] (with real sandboxed test execution).
+Implement the selected paper's technique OR the generated hypothesis using [SelfCritiqueVerificationLoop](SelfCritiqueVerificationLoop.md) (with real sandboxed test execution).
 
 **Phase 3 — Evaluation**
-Run baseline (direct generation) and improved version. Score both using [[CanonicalCodeScorer]]. Record full results in the wiki (pass rate, iterations, token usage, rubric breakdown, diff similarity).
+Run baseline (direct generation) and improved version. Score both using [CanonicalCodeScorer](CanonicalCodeScorer.md). Record full results in the wiki (pass rate, iterations, token usage, rubric breakdown, diff similarity).
 
 **Phase 4 — Update**
 Update the relevant wiki page with "Results on My Codebase" section. Create a bead for every experiment run.
@@ -47,14 +47,14 @@ Update the relevant wiki page with "Results on My Codebase" section. Create a be
 
 ## Integration Points
 
-- Calls [[SelfCritiqueVerificationLoop]] in Phase 2
-- Outputs to [[CanonicalCodeScorer]] in Phase 3
+- Calls [SelfCritiqueVerificationLoop](SelfCritiqueVerificationLoop.md) in Phase 2
+- Outputs to [CanonicalCodeScorer](CanonicalCodeScorer.md) in Phase 3
 - Uses [[AutoProductMasterSystem]] directory structure (raw/, canonical-repos/, test-prs/)
 - Creates beads for each experiment run (Phase 4)
 
 ## Related Concepts
 
-- [[SelfCritiqueVerificationLoop]] — the inner verification loop called in Phase 2
-- [[CanonicalCodeScorer]] — the scoring engine used in Phase 3
-- [[ProductTasteLayer]] — the product judgement layer (master system only, not in autocodev2)
+- [SelfCritiqueVerificationLoop](SelfCritiqueVerificationLoop.md) — the inner verification loop called in Phase 2
+- [CanonicalCodeScorer](CanonicalCodeScorer.md) — the scoring engine used in Phase 3
+- [ProductTasteLayer](ProductTasteLayer.md) — the product judgement layer (master system only, not in autocodev2)
 - [[KarpathyLLMWiki]] — the wiki infrastructure this loop runs on top of

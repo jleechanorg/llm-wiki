@@ -48,7 +48,7 @@ At ASI levels (4, 8, 12, 14, 16, 19), injects 6 ability score improvement choice
 `_resolve_canonical_level_up_ui_pair` no longer calls `normalize_rewards_box_for_ui()` for non-level-up states, preventing default field pollution (`gold: 0`, `loot: []`, `source: ''`).
 
 ## Related
-- [[LevelUpPolling]] — polling vs streaming architecture
-- [[CanonicalCodePatterns]] — atomicity contract enforcement
+- [LevelUpPolling](LevelUpPolling.md) — polling vs streaming architecture
+- [CanonicalCodePatterns](CanonicalCodePatterns.md) — atomicity contract enforcement
 - [[Level-Up D&D 5e Research]] — XP thresholds and ASI rules
-- [[StreamingOrchestrator]] — streaming passthrough normalization
+- [StreamingOrchestrator](StreamingOrchestrator.md) — streaming passthrough normalization

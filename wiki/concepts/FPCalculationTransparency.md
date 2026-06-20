@@ -20,5 +20,5 @@ In prompts, show FP components:
 - Current delta from previous state
 
 ## Related Concepts
-- [[GoldCalculation]] — similar transparency for gold
-- [[GameStateManagement]] — state display
+- [GoldCalculation](GoldCalculation.md) — similar transparency for gold
+- [GameStateManagement](GameStateManagement.md) — state display

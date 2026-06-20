@@ -20,6 +20,6 @@ An interactive UI element that allows players to select a predefined action or e
 - **Disabled** — Reduced opacity when waiting for response
 
 ## Connected Concepts
-- [[PlanningBlock]] — The container for choice buttons
+- [PlanningBlock](PlanningBlock.md) — The container for choice buttons
 - [[NarrativeDirectives]] — Requires player input handling
 - [[GameMechanicsProtocol]] — Enforces choice-based progression

@@ -26,5 +26,5 @@ real_provider = get_service_provider("real")
 ```
 
 ## Related
-- [[TestingFramework]]
-- [[TestServiceProvider]]
+- [TestingFramework](TestingFramework.md)
+- [TestServiceProvider](TestServiceProvider.md)

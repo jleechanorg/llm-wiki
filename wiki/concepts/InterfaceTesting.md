@@ -15,5 +15,5 @@ Unit testing approach verifying a class implements a specific interface contract
 - Exception handling for missing dependencies
 
 ## Related
-- [[TestServiceProvider]] — interface being tested
-- [[RealServiceProvider]] — class under test
+- [TestServiceProvider](TestServiceProvider.md) — interface being tested
+- [RealServiceProvider](../entities/RealServiceProvider.md) — class under test

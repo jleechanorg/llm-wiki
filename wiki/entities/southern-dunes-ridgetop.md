@@ -10,13 +10,13 @@ total_scenes: 129
 
 ## Overview
 
-** Southern Dunes (Ridgetop) appears in 7 scenes across the [[aizen-thay-v1]] campaign.
+** Southern Dunes (Ridgetop) appears in 7 scenes across the [aizen-thay-v1](../sources/aizen-thay-v1.md) campaign.
 
 ## Description
 
 ** Southern Dunes (Ridgetop) is an entity from the aizen-thay-v1 campaign.
 
 ## References
-- [[aizen-thay-v1]] — campaign overview
-- [[aizen-thay-v1-campaign]]
+- [aizen-thay-v1](../sources/aizen-thay-v1.md) — campaign overview
+- [aizen-thay-v1-campaign](../sources/aizen-thay-v1-campaign.md)
 

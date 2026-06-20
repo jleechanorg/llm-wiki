@@ -26,7 +26,7 @@ The Shadow Knights are Visenya's elite personal guard — converted Northern lor
 4. **Endgame**: Competing for the "Sun" in the Obsession Rift
 
 ## Connections
-- [[VisenyaTargaryen]] — their queen and architect
-- [[RobbStark]] — Shadow Knight member
-- [[JonSnow]] — Shadow Knight member (Jaehaerys)
-- [[ObsessionParadox]] — the mechanic that binds them
+- [VisenyaTargaryen](../entities/VisenyaTargaryen.md) — their queen and architect
+- [RobbStark](../entities/RobbStark.md) — Shadow Knight member
+- [JonSnow](../entities/JonSnow.md) — Shadow Knight member (Jaehaerys)
+- [ObsessionParadox](ObsessionParadox.md) — the mechanic that binds them

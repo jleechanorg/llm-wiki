@@ -15,5 +15,5 @@ Enforcement that JSON schemas have explicit property definitions rather than all
 - last_location, last_story_mode_sequence_id
 
 ## Related
-- [[JSONSchema]] — the validation mechanism
-- [[GameStateSchema]] — applies strictness to game state
+- [JSONSchema](JSONSchema.md) — the validation mechanism
+- [GameStateSchema](GameStateSchema.md) — applies strictness to game state

@@ -11,17 +11,17 @@ The Absolute is a cult in Baldur's Gate 3 led by the Dark Urge, seeking to bring
 
 ## Key Details
 - **Category:** Faction
-- **Campaign(s):** [[nocturne-bg3-v5]], [[nocturne-bg3-v5-fixed-v2]], [[nocturne-bg3-v5-succubus]], [[nocturne-bg3-v6-bug-repro-test]]
+- **Campaign(s):** [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md), [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md), [nocturne-bg3-v5-succubus](../sources/nocturne-bg3-v5-succubus.md), [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md)
 - **Leader:** The Dark Urge (apparent)
 - **Followers:** Goblins, True Souls
 
 ## Connections
-- [[TrueSouls]] — goblin soldiers dedicated to the Absolute
-- [[Minthara]] — military commander
-- [[ShadowDruids]] — allied radical druids
+- [TrueSouls](TrueSouls.md) — goblin soldiers dedicated to the Absolute
+- [Minthara](Minthara.md) — military commander
+- [ShadowDruids](ShadowDruids.md) — allied radical druids
 - [[Tadpole]] — the tadpole suppressing Nocturne's power
-- [[GoblinCamp]] — military base
+- [GoblinCamp](GoblinCamp.md) — military base
 
 ## Appearances
-- [[nocturne-bg3-v6-bug-repro-test]] — primary faction antagonists
-- [[nocturne-bg3-v5]] — cult presence in BG3 integration
+- [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md) — primary faction antagonists
+- [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md) — cult presence in BG3 integration

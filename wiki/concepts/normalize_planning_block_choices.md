@@ -32,9 +32,9 @@ after normalization: [{"id": "attack"}, {"id": "attack_1"}, {"id": "attack_2"}]
 ```
 
 ## Connections
-- [[PlanningBlock]] — schema being normalized
-- [[PlanningChoice]] — target format
-- [[NarrativeResponse]] — calls this function during validation
+- [PlanningBlock](PlanningBlock.md) — schema being normalized
+- [PlanningChoice](PlanningChoice.md) — target format
+- [NarrativeResponse](NarrativeResponse.md) — calls this function during validation
 
 ## Critical: LLM Inline Overrides Must Name Exact IDs
 

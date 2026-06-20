@@ -16,6 +16,6 @@ Skeptic is an automated CI verification system that checks PRs for 7-green statu
 - Configured via GitHub repository variables
 
 ## Connections
-- Works with [[AgentOrchestrator]] for automated PR handling
-- Targets [[WorldArchitectAI]] repository
+- Works with [AgentOrchestrator](AgentOrchestrator.md) for automated PR handling
+- Targets [WorldArchitectAI](WorldArchitectAI.md) repository
 - Reads `SKEPTIC_MERGE_DENYLIST` to skip auto-merge

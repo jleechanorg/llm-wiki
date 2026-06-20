@@ -44,7 +44,7 @@ The terminal scene (278) places her as Level 13 Nascent Demon Lord in the Shatte
 
 ## Connections
 
-- [[NocturneSosuke]] — the recurring Nocturne character archetype
-- [[MalcanthetPatron]] — demon patron (inverted)
-- [[ShatteredSanctum]] — terminal location
+- [NocturneSosuke](NocturneSosuke.md) — the recurring Nocturne character archetype
+- [MalcanthetPatron](../concepts/MalcanthetPatron.md) — demon patron (inverted)
+- [ShatteredSanctum](ShatteredSanctum.md) — terminal location
 - [[TheBloomShadow]] — backstory setting

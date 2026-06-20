@@ -10,13 +10,13 @@ total_scenes: 110
 
 ## Overview
 
-** Baldur's Gate Market District, Lower City` appears in 3 scenes across the [[merc-solo-brute-gladius]] campaign.
+** Baldur's Gate Market District, Lower City` appears in 3 scenes across the [merc-solo-brute-gladius](../sources/merc-solo-brute-gladius.md) campaign.
 
 ## Description
 
 ** Baldur's Gate Market District, Lower City` is an entity from the merc-solo-brute-gladius campaign.
 
 ## References
-- [[merc-solo-brute-gladius]] — campaign overview
-- [[merc-solo-brute-gladius-campaign]]
+- [merc-solo-brute-gladius](../sources/merc-solo-brute-gladius.md) — campaign overview
+- [merc-solo-brute-gladius-campaign](../sources/merc-solo-brute-gladius-campaign.md)
 

@@ -10,13 +10,13 @@ total_scenes: 291
 
 ## Overview
 
-** The Mountain Spire - Ascension Peak appears in 10 scenes across the [[tyranny]] campaign.
+** The Mountain Spire - Ascension Peak appears in 10 scenes across the [tyranny](../sources/tyranny.md) campaign.
 
 ## Description
 
 ** The Mountain Spire - Ascension Peak is an entity from the tyranny campaign.
 
 ## References
-- [[tyranny]] — campaign overview
-- [[tyranny-campaign]]
+- [tyranny](../sources/tyranny.md) — campaign overview
+- [tyranny-campaign](../sources/tyranny-campaign.md)
 

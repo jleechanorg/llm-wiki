@@ -36,7 +36,7 @@ Durable checks: compare worker uptime against cron cadence, inspect `~/.openclaw
 
 ## Connections
 
-- [[AO-Daemon-Incident]] — daemon incidents masking blockers
-- [[AO-Claim-Fail-Closed]] — AO claim fail-closed execution
-- [[AO-Blocker-Matrix]] — PR blocker triage
-- [[AO-Uncovered-Split]] — uncovered vs blocked split
+- [AO-Daemon-Incident](AO-Daemon-Incident.md) — daemon incidents masking blockers
+- [AO-Claim-Fail-Closed](AO-Claim-Fail-Closed.md) — AO claim fail-closed execution
+- [AO-Blocker-Matrix](AO-Blocker-Matrix.md) — PR blocker triage
+- [AO-Uncovered-Split](AO-Uncovered-Split.md) — uncovered vs blocked split

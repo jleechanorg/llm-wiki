@@ -13,5 +13,5 @@ Game state attribute that tracks whether the game is currently in a dialog inter
 DialogAgent checks `dialog_context["active"]` when determining if it should handle the current game state.
 
 ## Related
-- [[DialogAgent]] uses this to determine agent selection
-- [[GameState]] contains this attribute
+- [DialogAgent](../entities/DialogAgent.md) uses this to determine agent selection
+- [GameState](GameState.md) contains this attribute

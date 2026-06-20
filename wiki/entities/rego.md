@@ -17,12 +17,12 @@ Rego (pronounced "ray-go") is OPA's purpose-built policy language for expressing
 - **Fail-closed default**: `default allow := false` is the canonical deny-by-default pattern
 
 ## Connections
-- [[OPA]] — Rego is the policy language of the OPA engine
+- [OPA](OPA.md) — Rego is the policy language of the OPA engine
 - [[OPA-Rego-Policy-Language]] — the concept page for Rego's policy semantics
-- [[Policy-Decoupling]] — Rego separates policy from application code
-- [[OPA-Bundle-Signing]] — Rego policies can be signed and verified via OPA bundles
+- [Policy-Decoupling](../concepts/Policy-Decoupling.md) — Rego separates policy from application code
+- [OPA-Bundle-Signing](../concepts/OPA-Bundle-Signing.md) — Rego policies can be signed and verified via OPA bundles
 
 ## See Also
-- [[OPA]]
-- [[Policy-Decoupling]]
+- [OPA](OPA.md)
+- [Policy-Decoupling](../concepts/Policy-Decoupling.md)
 - [[OPA-Rego-Policy-Language]]

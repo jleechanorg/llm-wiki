@@ -10,4 +10,4 @@ Memory leak fixes in React components involve ensuring all resources (timers, in
 
 ## Related Concepts
 - [[ComponentUnmount]] — lifecycle phase where cleanup occurs
-- [[TimerCleanup]] — specific cleanup pattern for JavaScript timers
+- [TimerCleanup](TimerCleanup.md) — specific cleanup pattern for JavaScript timers

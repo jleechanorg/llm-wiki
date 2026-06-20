@@ -38,6 +38,6 @@ GitHub PR Media Skill:
 
 ## Connection to Other Concepts
 
-- [[DualAgentArchitecture]] - Work produced by Generator, validated by Reviewer
-- [[MinimalReproLadder]] - Tests as deterministic proof
-- [[HarnessEngineering]] - Part of overall quality harness
+- [DualAgentArchitecture](DualAgentArchitecture.md) - Work produced by Generator, validated by Reviewer
+- [MinimalReproLadder](MinimalReproLadder.md) - Tests as deterministic proof
+- [HarnessEngineering](HarnessEngineering.md) - Part of overall quality harness

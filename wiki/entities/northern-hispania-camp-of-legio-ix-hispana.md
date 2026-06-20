@@ -10,13 +10,13 @@ total_scenes: 490
 
 ## Overview
 
-** Northern Hispania, Camp of Legio IX Hispana appears in 7 scenes across the [[aurelius-julius-caesar-v1]] campaign.
+** Northern Hispania, Camp of Legio IX Hispana appears in 7 scenes across the [aurelius-julius-caesar-v1](../sources/aurelius-julius-caesar-v1.md) campaign.
 
 ## Description
 
 ** Northern Hispania, Camp of Legio IX Hispana is an entity from the aurelius-julius-caesar-v1 campaign.
 
 ## References
-- [[aurelius-julius-caesar-v1]] — campaign overview
-- [[aurelius-julius-caesar-v1-campaign]]
+- [aurelius-julius-caesar-v1](../sources/aurelius-julius-caesar-v1.md) — campaign overview
+- [aurelius-julius-caesar-v1-campaign](../sources/aurelius-julius-caesar-v1-campaign.md)
 

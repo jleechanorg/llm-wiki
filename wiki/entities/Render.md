@@ -14,5 +14,5 @@ Managed cloud platform alternative for deploying WorldArchitect.AI. Configures e
 - **Environment Variables**: GUNICORN_WORKERS, GUNICORN_THREADS
 
 ## Connections
-- [[WorldArchitectAI]] — alternative deployment target
-- [[Gunicorn]] — runs on Render service
+- [WorldArchitectAI](WorldArchitectAI.md) — alternative deployment target
+- [Gunicorn](Gunicorn.md) — runs on Render service

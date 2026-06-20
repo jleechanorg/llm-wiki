@@ -33,5 +33,5 @@ An OpenAI API endpoint that generates conversational responses based on a series
 - **response_format**: Output format constraints (e.g., json_object)
 
 ## Related Concepts
-- [[OpenAICompatibleAPI]] — the API standard this endpoint follows
+- [OpenAICompatibleAPI](OpenAICompatibleAPI.md) — the API standard this endpoint follows
 - [[PayloadValidation]] — the process of validating request parameters

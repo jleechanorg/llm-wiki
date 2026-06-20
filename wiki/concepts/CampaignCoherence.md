@@ -24,7 +24,7 @@ The property of a game campaign (especially D&D/faction campaigns) maintaining c
 
 ## Related Concepts
 
-- [[TimestampTracking]] — tracking time across campaign turns
-- [[GoldCalculation]] — proper handling of faction vs. personal gold
-- [[LevelProgression]] — incremental level-up rules
-- [[FactionCampaigns]] — campaigns with multiple NPC factions
+- [TimestampTracking](TimestampTracking.md) — tracking time across campaign turns
+- [GoldCalculation](GoldCalculation.md) — proper handling of faction vs. personal gold
+- [LevelProgression](LevelProgression.md) — incremental level-up rules
+- [FactionCampaigns](FactionCampaigns.md) — campaigns with multiple NPC factions

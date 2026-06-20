@@ -20,24 +20,24 @@ Self Critique is the capability of a model to evaluate its own output against re
 
 ## Connections
 
-- [[ExtendedThinking]] — the thinking trace is the natural surface for self-critique to inspect and evaluate
-- [[jeffrey-oracle]] — oracle decision rules encode self-critique quality criteria
-- [[SelfDebugging]] — extends self-critique by adding bug diagnosis and fix generation
-- [[SkepticGate]] — a formalization of self-critique as a gate: the output must pass its own critique before proceeding
-- [[EvidenceReviewPipeline]] — self-critique can serve as the first review stage before human or automated evidence review
-- [[TwoStageEvidencePipeline]] — self-critique maps to the automated first-pass review stage
-- [[Reflexion]] — memory-enhanced self-critique that learns from past critique history
-- [[SelfReflection]] — the meta-cognitive layer of examining one's own reasoning process
-- [[LLM-as-Judge-Pattern]] — using a secondary model to evaluate primary model outputs (architectural sibling to self-critique)
-- [[SelfCritiqueVerificationLoop]] — specific 3-iteration-cap implementation combining ReVeal test-generation with self-correction refinement, mandating concrete test execution before final output
-- [[SelfRefine]] — SelfRefine is the iterative implementation of self-critique: critique → revise → repeat
-- [[SelfGeneratedTestGeneration]] — test generation is a concrete form of self-critique that requires understanding requirements deeply
+- [ExtendedThinking](ExtendedThinking.md) — the thinking trace is the natural surface for self-critique to inspect and evaluate
+- [jeffrey-oracle](../syntheses/jeffrey-oracle.md) — oracle decision rules encode self-critique quality criteria
+- [SelfDebugging](SelfDebugging.md) — extends self-critique by adding bug diagnosis and fix generation
+- [SkepticGate](SkepticGate.md) — a formalization of self-critique as a gate: the output must pass its own critique before proceeding
+- [EvidenceReviewPipeline](EvidenceReviewPipeline.md) — self-critique can serve as the first review stage before human or automated evidence review
+- [TwoStageEvidencePipeline](TwoStageEvidencePipeline.md) — self-critique maps to the automated first-pass review stage
+- [Reflexion](Reflexion.md) — memory-enhanced self-critique that learns from past critique history
+- [SelfReflection](SelfReflection.md) — the meta-cognitive layer of examining one's own reasoning process
+- [LLM-as-Judge-Pattern](LLM-as-Judge-Pattern.md) — using a secondary model to evaluate primary model outputs (architectural sibling to self-critique)
+- [SelfCritiqueVerificationLoop](SelfCritiqueVerificationLoop.md) — specific 3-iteration-cap implementation combining ReVeal test-generation with self-correction refinement, mandating concrete test execution before final output
+- [SelfRefine](SelfRefine.md) — SelfRefine is the iterative implementation of self-critique: critique → revise → repeat
+- [SelfGeneratedTestGeneration](SelfGeneratedTestGeneration.md) — test generation is a concrete form of self-critique that requires understanding requirements deeply
 
 ## Relationships to Other Concepts
 
-In a multi-agent harness, self-critique can be implemented as a dedicated review agent or as a model-internal pass. The key difference from traditional code review is that the critic and the author are the same model, with different system prompts or operational modes. [[LLM-as-Judge-Pattern]] extends this: a separate model performs the critique, which can be more rigorous than self-critique.
+In a multi-agent harness, self-critique can be implemented as a dedicated review agent or as a model-internal pass. The key difference from traditional code review is that the critic and the author are the same model, with different system prompts or operational modes. [LLM-as-Judge-Pattern](LLM-as-Judge-Pattern.md) extends this: a separate model performs the critique, which can be more rigorous than self-critique.
 
 ## See Also
-- [[Reflexion]]
-- [[LLM-as-Judge-Pattern]]
-- [[SelfReflection]]
+- [Reflexion](Reflexion.md)
+- [LLM-as-Judge-Pattern](LLM-as-Judge-Pattern.md)
+- [SelfReflection](SelfReflection.md)

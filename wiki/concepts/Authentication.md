@@ -16,7 +16,7 @@ catch block. Gate on `e.code` — only fire for genuine network/hang codes:
 User-cancellation codes (`popup-closed-by-user`, `cancelled-popup-request`,
 `popup-blocked`) must fall through to error logging only, not trigger a reload.
 
-See source: [[auth-catch-recovery-ecode-gate-2026-06-07]] | PR #7349
+See source: [auth-catch-recovery-ecode-gate-2026-06-07](../sources/auth-catch-recovery-ecode-gate-2026-06-07.md) | PR #7349
 
 ## Handler naming
 
@@ -26,6 +26,6 @@ Signal: if teardown comments must be edited to say "and also removes X listener"
 the function name lags its scope.
 
 ## Connections
-- [[Firebase]] — provides authentication backend
+- [Firebase](Firebase.md) — provides authentication backend
 - [[API Testing]] — tests auth requirements
 - [[root-cause-first]] — catch-block reload-on-any-error is symptom suppression

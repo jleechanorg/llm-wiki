@@ -59,5 +59,5 @@ layer_fn(|res| async move {
 ```
 
 ## Connections
-- [[FastAPIErrorHandling]] — Python async equivalent
-- [[ErrorHandlingPatterns]] — Generic error patterns
+- [FastAPIErrorHandling](FastAPIErrorHandling.md) — Python async equivalent
+- [ErrorHandlingPatterns](ErrorHandlingPatterns.md) — Generic error patterns

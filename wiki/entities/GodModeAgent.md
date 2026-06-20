@@ -18,6 +18,6 @@ GodModeAgent handles administrative commands in WorldArchitect, allowing players
 - Fix quest state
 
 ## Related
-- [[StoryModeAgent]] — narrative mode
-- [[SpicyModeAgent]] — adult content variant
-- [[IntentClassifier]] — normally determines routing
+- [StoryModeAgent](StoryModeAgent.md) — narrative mode
+- [SpicyModeAgent](SpicyModeAgent.md) — adult content variant
+- [IntentClassifier](IntentClassifier.md) — normally determines routing

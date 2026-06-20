@@ -49,9 +49,9 @@ A second instance of the "supervisor appears dead, real cause is upstream" patte
 
 ## Connections
 
-- [[AO-Split-Brain]] — AO split-brain with duplicate lifecycle workers
-- [[AO-Blocker-Matrix]] — PR blocker triage
-- [[AO-Claim-Fail-Closed]] — AO claim fail-closed execution
-- [[DaemonBootstrap]] — daemon bootstrap patterns
-- [[Launchd]] — launchd job lifecycle and silent-death patterns
-- [[EnvironmentVariableConfiguration]] — env var precedence and configuration patterns
+- [AO-Split-Brain](AO-Split-Brain.md) — AO split-brain with duplicate lifecycle workers
+- [AO-Blocker-Matrix](AO-Blocker-Matrix.md) — PR blocker triage
+- [AO-Claim-Fail-Closed](AO-Claim-Fail-Closed.md) — AO claim fail-closed execution
+- [DaemonBootstrap](DaemonBootstrap.md) — daemon bootstrap patterns
+- [Launchd](Launchd.md) — launchd job lifecycle and silent-death patterns
+- [EnvironmentVariableConfiguration](EnvironmentVariableConfiguration.md) — env var precedence and configuration patterns

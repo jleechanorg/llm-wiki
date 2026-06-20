@@ -13,5 +13,5 @@ System for introducing narrative complications. Base rate of 20% with +10% per s
 Adds unpredictability and tension to narrative, prevents unbroken success chains.
 
 ## Related Concepts
-- [[LivingWorldProtocol]]
-- [[ActionResolutionProtocol]]
+- [LivingWorldProtocol](LivingWorldProtocol.md)
+- [ActionResolutionProtocol](ActionResolutionProtocol.md)

@@ -18,11 +18,11 @@ Baldur's Gate is the primary setting for the Aizen Bg3 campaigns. The city breat
 
 ## Connections
 
-- [[SosukeAizen]] — player character operating here
-- [[HouseSosuke]] — local noble house
-- [[AizenBg3]] — campaign setting
-- [[Nocturne]] — operates here during Iron Crisis
-- [[bg1-nocturne-campaign]] — source campaign
-- [[bg1-nocturne-continued-campaign]] — continued campaign
-- [[FlamingFist]] — mercenary organization controlling the city
-- [[IronCrisis]] — economic collapse affecting the city
+- [SosukeAizen](SosukeAizen.md) — player character operating here
+- [HouseSosuke](HouseSosuke.md) — local noble house
+- [AizenBg3](AizenBg3.md) — campaign setting
+- [Nocturne](Nocturne.md) — operates here during Iron Crisis
+- [bg1-nocturne-campaign](../sources/bg1-nocturne-campaign.md) — source campaign
+- [bg1-nocturne-continued-campaign](../sources/bg1-nocturne-continued-campaign.md) — continued campaign
+- [FlamingFist](FlamingFist.md) — mercenary organization controlling the city
+- [IronCrisis](../concepts/IronCrisis.md) — economic collapse affecting the city

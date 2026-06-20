@@ -25,5 +25,5 @@ const maliciousInput = {
 ```
 
 ## Related Concepts
-- [[parsePlanningBlocks]] — function requiring XSS sanitization
+- [parsePlanningBlocks](parsePlanningBlocks.md) — function requiring XSS sanitization
 - [[SecurityValidationTests]] — backend security tests

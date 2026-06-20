@@ -34,6 +34,6 @@ Experience-only evolution is bounded by a static toolset. Asset-creation-only ev
 
 ## Related Concepts
 
-- [[AgentMentor]] — external behavioral correction vs Mem²Evolve's internal co-evolution
-- [[E3TIR]] — training-time experience exploitation vs Mem²Evolve's runtime tool creation
+- [AgentMentor](AgentMentor.md) — external behavioral correction vs Mem²Evolve's internal co-evolution
+- [E3TIR](E3TIR.md) — training-time experience exploitation vs Mem²Evolve's runtime tool creation
 - [[SelfEvolvingAgents]] — Mem²Evolve is a specific architecture for self-evolution

@@ -15,10 +15,10 @@ In the [[Visenya V1 Dunk And Egg Campaign]], Ser Duncan the Tall travels with Vi
 
 ## Connections
 
-- [[Visenya]] — His squire in the Visenya V1 campaign
+- [Visenya](Visenya.md) — His squire in the Visenya V1 campaign
 - [[Visenya V1 Dunk And Egg Campaign]] — The campaign they appear in
 - [[Dragon Scholar]] — The class Visenya is developing
-- [[Westeros]] — The setting they travel through
+- [Westeros](Westeros.md) — The setting they travel through
 
 ## Key Characteristics
 - **Role**: Hedge knight and mentor figure
@@ -38,10 +38,10 @@ In the [[Visenya V1 Dunk And Egg Campaign]], Ser Duncan the Tall travels with Vi
 - He is described as looking at the small obsidian hatchling on Aegon's shoulder and noting "I've seen ten thousand men break for fear of a single fire."
 
 ## Relationships
-- **[[Aegon]]**: His squire and later the sovereign. The one he called "Egg" who became a goddess.
-- **[[PrinceDaemon]]**: Fellow Targaryen ally; fights alongside in the Marches
+- **[Aegon](Aegon.md)**: His squire and later the sovereign. The one he called "Egg" who became a goddess.
+- **[PrinceDaemon](PrinceDaemon.md)**: Fellow Targaryen ally; fights alongside in the Marches
 - **[[SerRolandCrakehall]]**: Fellow knight; fights at The Grey Sentinel
 
 ## Connections
-- [[Aegon]] — squire and later sovereign
-- [[PrinceDaemon]] — Targaryen ally
+- [Aegon](Aegon.md) — squire and later sovereign
+- [PrinceDaemon](PrinceDaemon.md) — Targaryen ally

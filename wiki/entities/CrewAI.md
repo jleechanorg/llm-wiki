@@ -18,10 +18,10 @@ CrewAI is an enterprise platform for orchestrating "crews" of collaborative AI a
 
 ## Connections
 
-- [[MultiAgentOrchestration]] — CrewAI is a multi-agent orchestration platform
-- [[WorkflowEngine]] — provides workflow orchestration capabilities
-- [[AutoGen]] — alternative open-source multi-agent framework
+- [MultiAgentOrchestration](../concepts/MultiAgentOrchestration.md) — CrewAI is a multi-agent orchestration platform
+- [WorkflowEngine](../concepts/WorkflowEngine.md) — provides workflow orchestration capabilities
+- [AutoGen](AutoGen.md) — alternative open-source multi-agent framework
 
 ## See Also
-- [[MultiAgentOrchestration]]
-- [[AutoGen]]
+- [MultiAgentOrchestration](../concepts/MultiAgentOrchestration.md)
+- [AutoGen](AutoGen.md)

@@ -10,13 +10,13 @@ total_scenes: 468
 
 ## Overview
 
-** The Cistern, Baldur's Gate appears in 9 scenes across the [[aizen-bg3-v2]] campaign.
+** The Cistern, Baldur's Gate appears in 9 scenes across the [aizen-bg3-v2](../sources/aizen-bg3-v2.md) campaign.
 
 ## Description
 
 ** The Cistern, Baldur's Gate is an entity from the aizen-bg3-v2 campaign.
 
 ## References
-- [[aizen-bg3-v2]] — campaign overview
-- [[aizen-bg3-v2-campaign]]
+- [aizen-bg3-v2](../sources/aizen-bg3-v2.md) — campaign overview
+- [aizen-bg3-v2-campaign](../sources/aizen-bg3-v2-campaign.md)
 

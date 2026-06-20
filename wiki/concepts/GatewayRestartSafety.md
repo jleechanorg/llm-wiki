@@ -54,6 +54,6 @@ If `launchctl bootstrap` fails with "Bootstrap failed: 5: Input/output error":
 If still fails, run `bash ~/.openclaw/scripts/install-launchagents.sh` to regenerate the plist.
 
 ## Related Concepts
-- [[WSChurnRootCause]]
-- [[ConfigFirstPrinciple]]
-- [[ProactiveSessionRecovery]]
+- [WSChurnRootCause](WSChurnRootCause.md)
+- [ConfigFirstPrinciple](ConfigFirstPrinciple.md)
+- [ProactiveSessionRecovery](ProactiveSessionRecovery.md)

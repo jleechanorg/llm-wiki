@@ -10,13 +10,13 @@ total_scenes: 277
 
 ## Overview
 
-** The Great Pyramid of Astapor appears in 5 scenes across the [[visenya-v2]] campaign.
+** The Great Pyramid of Astapor appears in 5 scenes across the [visenya-v2](../sources/visenya-v2.md) campaign.
 
 ## Description
 
 ** The Great Pyramid of Astapor is an entity from the visenya-v2 campaign.
 
 ## References
-- [[visenya-v2]] — campaign overview
+- [visenya-v2](../sources/visenya-v2.md) — campaign overview
 - [[visenya-v2-campaign]]
 

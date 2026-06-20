@@ -22,7 +22,7 @@ All four models independently confirmed ~90% coherence uplift from iteration 004
 3. Explicit tutorial completion banner
 
 ## Connections
-- [[SecondOpinionWorkflow]] — general pattern of multi-model cross-validation
-- [[WorldArchitect.AI]] — parent project using Oracle CLI
-- [[CampaignCoherence]] — coherence validation domain
-- [[CerebrasProvider]] — Cerebras Qwen 3 as primary oracle model
+- [SecondOpinionWorkflow](SecondOpinionWorkflow.md) — general pattern of multi-model cross-validation
+- [WorldArchitect.AI](../entities/WorldArchitect.AI.md) — parent project using Oracle CLI
+- [CampaignCoherence](CampaignCoherence.md) — coherence validation domain
+- [CerebrasProvider](../entities/CerebrasProvider.md) — Cerebras Qwen 3 as primary oracle model

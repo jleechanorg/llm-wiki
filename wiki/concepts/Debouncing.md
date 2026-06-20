@@ -13,5 +13,5 @@ Performance optimization technique that limits the rate at which a function fire
 Search input where each keystroke would otherwise trigger an expensive operation (API call, DOM update). Debouncing ensures the operation only fires after the user stops typing.
 
 ## Related Concepts
-- [[RealTimeSearch]] — primary use case
+- [RealTimeSearch](RealTimeSearch.md) — primary use case
 - [[Throttling]] — similar but allows periodic firing

@@ -31,8 +31,8 @@ Scene 20 serves as a character re-establishment: the God Mode directive clarifie
 
 ## Connections
 
-- [[NocturneSosuke]] — the recurring Nocturne character archetype
-- [[MalcanthetPatron]] — demon patron (inverted pact, now serves Nocturne)
+- [NocturneSosuke](NocturneSosuke.md) — the recurring Nocturne character archetype
+- [MalcanthetPatron](../concepts/MalcanthetPatron.md) — demon patron (inverted pact, now serves Nocturne)
 - [[TheBloomShadow]] — backstory setting
-- [[CassalanterFamily]] — destroyed House Sosuke
-- [[RavagedBeach]] — opening location
+- [CassalanterFamily](CassalanterFamily.md) — destroyed House Sosuke
+- [RavagedBeach](RavagedBeach.md) — opening location

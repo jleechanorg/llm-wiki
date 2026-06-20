@@ -10,13 +10,13 @@ total_scenes: 291
 
 ## Overview
 
-** Disfavored Encampment - Command Tent appears in 3 scenes across the [[tyranny]] campaign.
+** Disfavored Encampment - Command Tent appears in 3 scenes across the [tyranny](../sources/tyranny.md) campaign.
 
 ## Description
 
 ** Disfavored Encampment - Command Tent is an entity from the tyranny campaign.
 
 ## References
-- [[tyranny]] — campaign overview
-- [[tyranny-campaign]]
+- [tyranny](../sources/tyranny.md) — campaign overview
+- [tyranny-campaign](../sources/tyranny-campaign.md)
 

@@ -21,5 +21,5 @@ Legal rights that give creators exclusive control over their original creative w
 
 ## Connections
 - Defined in [[Terms of Use - WorldAI]] section 2
-- Owned by [[WorldAI]] / [[Lee-Chan Consulting]]
+- Owned by [WorldAI](../entities/WorldAI.md) / [Lee-Chan Consulting](../entities/Lee-Chan Consulting.md)
 - User generated content covered under Contribution License

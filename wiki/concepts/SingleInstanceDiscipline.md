@@ -49,12 +49,12 @@ sleep 20 && pgrep -f "hermes gateway" | wc -l   # must be 1
 ## Sources
 
 - CLAUDE.md "Gateway restart — single-instance mandatory" section
-- [[feedback-2026-06-19-hermes-liveness-and-merge-readiness]] — verified PID 28443 stable 4h+ across two liveness checks (single instance confirmed)
+- [feedback-2026-06-19-hermes-liveness-and-merge-readiness](../sources/feedback-2026-06-19-hermes-liveness-and-merge-readiness.md) — verified PID 28443 stable 4h+ across two liveness checks (single instance confirmed)
 - 2026-04-05 outage postmortem (incident reference)
 
 ## Connections
 
 - [[HermesGateway]] — the operational surface this rule protects
-- [[HermesLivenessProtocol]] — check #2 in the 6-check protocol
+- [HermesLivenessProtocol](HermesLivenessProtocol.md) — check #2 in the 6-check protocol
 - [[LivenessVsFunctionality]] — related concept (HTTP 200 != functional)
-- [[WSChurnRootCause]] — restart alone doesn't fix; reducing concurrency does
+- [WSChurnRootCause](WSChurnRootCause.md) — restart alone doesn't fix; reducing concurrency does

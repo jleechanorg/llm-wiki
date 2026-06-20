@@ -14,11 +14,11 @@ The practice of using different AI models for different tasks based on cost, cap
 
 | Model | Strengths | Weaknesses | Best For |
 |-------|-----------|------------|----------|
-| [[Codex]] 5.3/5.4 | Highest intelligence, excellent reasoning | Expensive, rapid token consumption | Complex code reviews, architectural decisions |
-| [[Claude]] | Quality review, evidence checking | Expensive | Review and quality assurance |
-| [[Gemini]] Flash | Structured JSON, game state | Safety filters on creative | RPG mechanics, data extraction |
-| [[Minimax]] | Cheap, repetitive tasks | Poor JSON adherence, drops fields | Volume work, initial drafts |
-| [[Grok]] | Virtually uncensored | Less capable at pure coding | Creative narratives, unrestricted content |
+| [Codex](../entities/Codex.md) 5.3/5.4 | Highest intelligence, excellent reasoning | Expensive, rapid token consumption | Complex code reviews, architectural decisions |
+| [Claude](../entities/Claude.md) | Quality review, evidence checking | Expensive | Review and quality assurance |
+| [Gemini](../entities/Gemini.md) Flash | Structured JSON, game state | Safety filters on creative | RPG mechanics, data extraction |
+| [Minimax](../entities/Minimax.md) | Cheap, repetitive tasks | Poor JSON adherence, drops fields | Volume work, initial drafts |
+| [Grok](../entities/Grok.md) | Virtually uncensored | Less capable at pure coding | Creative narratives, unrestricted content |
 
 ## Cost Management Strategy
 
@@ -46,8 +46,8 @@ Use Claude team with Minimax model:
 ## Connections
 
 - [[EvidenceReview]] — Secondary review step
-- [[Parallelization]] — Multiple agents, multiple models
-- [[ReasoningBudget]] — model routing and reasoning budget are complementary adaptive allocation strategies: routing selects which model, budget controls how much compute that model uses
-- [[HarnessEngineering]] — a harness implements model routing as part of its dispatch logic
-- [[AgenticCoding]] — agentic coding systems benefit from routing tasks to appropriate models
-- [[AdaptiveComputation]] — model routing is a form of adaptive computation at the model-selection level
+- [Parallelization](Parallelization.md) — Multiple agents, multiple models
+- [ReasoningBudget](ReasoningBudget.md) — model routing and reasoning budget are complementary adaptive allocation strategies: routing selects which model, budget controls how much compute that model uses
+- [HarnessEngineering](HarnessEngineering.md) — a harness implements model routing as part of its dispatch logic
+- [AgenticCoding](AgenticCoding.md) — agentic coding systems benefit from routing tasks to appropriate models
+- [AdaptiveComputation](AdaptiveComputation.md) — model routing is a form of adaptive computation at the model-selection level

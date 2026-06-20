@@ -23,6 +23,6 @@ UI verification testing is an E2E testing approach that validates web applicatio
 - .resources — Resource/inventory display
 
 ## Connections
-- [[Playwright]] — browser automation tool used
+- [Playwright](Playwright.md) — browser automation tool used
 - [[Structured Response Fields]] — fields being verified
 - [[E2E Testing]] — broader testing concept

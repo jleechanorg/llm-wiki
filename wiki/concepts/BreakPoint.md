@@ -20,5 +20,5 @@ Psychological framework for significant NPCs defining what breaks a character un
 
 ## Related Concepts
 - [[CoreUnconsciousBeliefs]] — what the break-point challenges
-- [[PersonalMyth]] — the narrative the break-point threatens
-- [[CharacterArchetype]] — the role being challenged
+- [PersonalMyth](PersonalMyth.md) — the narrative the break-point threatens
+- [CharacterArchetype](CharacterArchetype.md) — the role being challenged

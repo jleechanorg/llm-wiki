@@ -10,13 +10,13 @@ total_scenes: 1002
 
 ## Overview
 
-** Crimson Mug Tavern - Secure Archives appears in 10 scenes across the [[nocturne-post-bg3-zhent]] campaign.
+** Crimson Mug Tavern - Secure Archives appears in 10 scenes across the [nocturne-post-bg3-zhent](../sources/nocturne-post-bg3-zhent.md) campaign.
 
 ## Description
 
 ** Crimson Mug Tavern - Secure Archives is an entity from the nocturne-post-bg3-zhent campaign.
 
 ## References
-- [[nocturne-post-bg3-zhent]] — campaign overview
-- [[nocturne-post-bg3-zhent-campaign]]
+- [nocturne-post-bg3-zhent](../sources/nocturne-post-bg3-zhent.md) — campaign overview
+- [nocturne-post-bg3-zhent-campaign](../sources/nocturne-post-bg3-zhent-campaign.md)
 

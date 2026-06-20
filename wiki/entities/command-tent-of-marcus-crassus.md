@@ -10,13 +10,13 @@ total_scenes: 79
 
 ## Overview
 
-** Command Tent of Marcus Crassus appears in 4 scenes across the [[spartacus-tiberius]] campaign.
+** Command Tent of Marcus Crassus appears in 4 scenes across the [spartacus-tiberius](../sources/spartacus-tiberius.md) campaign.
 
 ## Description
 
 ** Command Tent of Marcus Crassus is an entity from the spartacus-tiberius campaign.
 
 ## References
-- [[spartacus-tiberius]] — campaign overview
-- [[spartacus-tiberius-campaign]]
+- [spartacus-tiberius](../sources/spartacus-tiberius.md) — campaign overview
+- [spartacus-tiberius-campaign](../sources/spartacus-tiberius-campaign.md)
 

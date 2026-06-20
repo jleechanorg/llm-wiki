@@ -18,6 +18,6 @@ The practice of measuring and analyzing service operation timing to identify bot
 
 
 ## Related Concepts
-- [[ServiceInteractionCapture]] — provides timing data
+- [ServiceInteractionCapture](ServiceInteractionCapture.md) — provides timing data
 - [[Monitoring]] — continuous performance tracking
 - [[Optimization]] — using analysis to improve performance

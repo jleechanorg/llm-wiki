@@ -14,6 +14,6 @@ Appears in test scenario:
 - "The sterile briefing room remains charged with intellectual intensity. Agent Reynolds stands frozen, his professional composure utterly dismantled by the mathematical proof you've just proven."
 
 ## Connections
-- [[PlanningLoopDetection]] — appears in test scenario for social encounter loop
-- [[SocialEncounter]] — type of encounter where Reynolds is involved
-- [[AntiLoopRule]] — rule that should apply when player repeatedly interacts with Reynolds
+- [PlanningLoopDetection](../concepts/PlanningLoopDetection.md) — appears in test scenario for social encounter loop
+- [SocialEncounter](../concepts/SocialEncounter.md) — type of encounter where Reynolds is involved
+- [AntiLoopRule](../concepts/AntiLoopRule.md) — rule that should apply when player repeatedly interacts with Reynolds

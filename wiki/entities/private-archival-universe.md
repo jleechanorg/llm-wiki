@@ -10,13 +10,13 @@ total_scenes: 606
 
 ## Overview
 
-** Private Archival Universe appears in 44 scenes across the [[faction-nocturne-bg3-v3]] campaign.
+** Private Archival Universe appears in 44 scenes across the [faction-nocturne-bg3-v3](../sources/faction-nocturne-bg3-v3.md) campaign.
 
 ## Description
 
 ** Private Archival Universe is an entity from the faction-nocturne-bg3-v3 campaign.
 
 ## References
-- [[faction-nocturne-bg3-v3]] — campaign overview
-- [[faction-nocturne-bg3-v3-campaign]]
+- [faction-nocturne-bg3-v3](../sources/faction-nocturne-bg3-v3.md) — campaign overview
+- [faction-nocturne-bg3-v3-campaign](../sources/faction-nocturne-bg3-v3-campaign.md)
 

@@ -20,4 +20,4 @@ Temporal consistency rule ensuring scene timestamps move forward logically witho
 
 ## Connections
 - [[20TurnTestImprovementSummary]] — validated via 20-turn test
-- [[PromptEngineering]] — fixes applied via prompt clarifications
+- [PromptEngineering](PromptEngineering.md) — fixes applied via prompt clarifications

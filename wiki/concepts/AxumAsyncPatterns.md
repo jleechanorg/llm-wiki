@@ -91,5 +91,5 @@ pub struct PollEvented<M: AsyncRead + AsyncWrite> {
 
 ## Connections
 
-- [[FastAPIErrorHandling]] — Both use async; FastAPI is Python, Tokio is Rust
-- [[CanonicalCodePatterns]] — Parent concept linking all canonical patterns
+- [FastAPIErrorHandling](FastAPIErrorHandling.md) — Both use async; FastAPI is Python, Tokio is Rust
+- [CanonicalCodePatterns](CanonicalCodePatterns.md) — Parent concept linking all canonical patterns

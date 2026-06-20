@@ -47,9 +47,9 @@ The 2026-06-19 credential-discipline PRs (#646, #9) were scoped to example/seed/
 
 ## Connections
 
-- [[minimax-api-key-hardcode-leak-pr-135]] — the leak that exposed this gap
+- [minimax-api-key-hardcode-leak-pr-135](minimax-api-key-hardcode-leak-pr-135.md) — the leak that exposed this gap
 - [[credential-discipline-drive-4th-admin-override-merge]] — PRs #646 + #9 (covers examples/, NOT auth.json)
-- [[jeffrey-oracle]] — user-side action items: rotation decisions, key revocations
+- [jeffrey-oracle](../syntheses/jeffrey-oracle.md) — user-side action items: rotation decisions, key revocations
 - [[3aac8fe8-leak-commit-investigation]] — related leak via openclaw→hermes refactor
 
 ## Acceptance criteria for the future PR

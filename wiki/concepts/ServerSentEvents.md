@@ -16,8 +16,8 @@ Server-Sent Events (SSE) is an HTTP-based protocol for real-time unidirectional 
 - **Use Case**: Real-time LLM response streaming in narrative applications
 
 ## Related Concepts
-- [[StreamingOrchestrator]] — Implementation that generates SSE events
-- [[StreamEvent]] — Dataclass representing individual streaming events
+- [StreamingOrchestrator](StreamingOrchestrator.md) — Implementation that generates SSE events
+- [StreamEvent](StreamEvent.md) — Dataclass representing individual streaming events
 
 ## Connections
 - Used by [[StreamingOrchestratorModuleTests]] for validating streaming responses

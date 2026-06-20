@@ -18,5 +18,5 @@ Accumulated context causes performance degradation in long-running agent loops. 
 
 ## Related Concepts
 - [[Harness Engineering]] — overall discipline
-- [[OpenClaw]] — provides persistent memory
+- [OpenClaw](../entities/OpenClaw.md) — provides persistent memory
 - [[Agent Orchestrator]] — stores session metadata

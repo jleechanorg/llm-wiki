@@ -11,13 +11,13 @@ Thexan is the diplomatic sibling of Nocturne in the Nocturne Old Republic campai
 
 ## Key Details
 - **Category:** Person / NPC / Sibling of Nocturne
-- **Campaign(s):** [[nocturne-old-republic]]
+- **Campaign(s):** [nocturne-old-republic](../sources/nocturne-old-republic.md)
 - **Role:** Diplomatic administrator
 - **Physical Description:** Silver-silk robes
 - **Gift from Nocturne:** The **Eternal Spire** of Coruscant — the administrative heart of the New Core, linked directly to every Ark, allowing him to manage the Great Reconciliation from a throne of pure information
 
 ## Connections
-- [[NocturneOldRepublic]] — Nocturne's sibling, the God-Empress who granted him the Eternal Spire
-- [[HouseVitiate]] — their house
-- [[Arcann]] — sibling, military commander
-- [[Senya]] — mother
+- [NocturneOldRepublic](NocturneOldRepublic.md) — Nocturne's sibling, the God-Empress who granted him the Eternal Spire
+- [HouseVitiate](HouseVitiate.md) — their house
+- [Arcann](Arcann.md) — sibling, military commander
+- [Senya](Senya.md) — mother

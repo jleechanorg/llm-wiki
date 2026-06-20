@@ -10,13 +10,13 @@ total_scenes: 363
 
 ## Overview
 
-** Obsidian Spire, Inner Sanctum of the Morning Star appears in 8 scenes across the [[alexiel-assiah-v2]] campaign.
+** Obsidian Spire, Inner Sanctum of the Morning Star appears in 8 scenes across the [alexiel-assiah-v2](../sources/alexiel-assiah-v2.md) campaign.
 
 ## Description
 
 ** Obsidian Spire, Inner Sanctum of the Morning Star is an entity from the alexiel-assiah-v2 campaign.
 
 ## References
-- [[alexiel-assiah-v2]] — campaign overview
-- [[alexiel-assiah-v2-campaign]]
+- [alexiel-assiah-v2](../sources/alexiel-assiah-v2.md) — campaign overview
+- [alexiel-assiah-v2-campaign](../sources/alexiel-assiah-v2-campaign.md)
 

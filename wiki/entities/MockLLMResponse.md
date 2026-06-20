@@ -13,8 +13,8 @@ Mock response object that mimics the real Gemini API response structure. Used in
 - **text**: String containing the response content
 
 ## Usage
-Used by [[MockLLMClient]] to return mock responses in tests.
+Used by [MockLLMClient](MockLLMClient.md) to return mock responses in tests.
 
 ## Related
-- [[MockLLMClient]] — creates MockLLMResponse instances
+- [MockLLMClient](MockLLMClient.md) — creates MockLLMResponse instances
 - [[MockGeminiServiceWrapper]] — alternative mock service implementation

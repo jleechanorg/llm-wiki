@@ -15,6 +15,6 @@ D&D moral framework mapping characters on two axes: Good-Evil (moral intent) and
 - Character behavior expresses alignment through actions, not labels
 
 ## Related Concepts
-- [[MBTI]] — personality pattern (also internal-only)
-- [[CharacterArchetype]] — dramatic role patterns
-- [[BreakPoint]] — catalyst that challenges core beliefs
+- [MBTI](MBTI.md) — personality pattern (also internal-only)
+- [CharacterArchetype](CharacterArchetype.md) — dramatic role patterns
+- [BreakPoint](BreakPoint.md) — catalyst that challenges core beliefs

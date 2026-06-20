@@ -64,6 +64,6 @@ done | sort -rn | head
 ```
 
 ## See also
-- [[MonitoredPathsAssociativeArray]] — the data structure that revealed
+- [MonitoredPathsAssociativeArray](MonitoredPathsAssociativeArray.md) — the data structure that revealed
   this bug in `disk_snapshot.sh`
-- [[feedback-2026-06-13-disk-snapshot-discover-bugs]] — the original incident
+- [feedback-2026-06-13-disk-snapshot-discover-bugs](../sources/feedback-2026-06-13-disk-snapshot-discover-bugs.md) — the original incident

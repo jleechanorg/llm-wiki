@@ -72,6 +72,6 @@ ao-backfill.sh handles cleanup and basic liveness, but:
 The layered approach: ao-backfill.sh as fallback when gateway is down; webhook handler for <60s event-driven recovery; upstream respawn action for declarative config.
 
 ## Related Concepts
-- [[LayeredRecoveryArchitecture]]
-- [[AutonomousAgentLoop]]
-- [[DailyBugHunt]]
+- [LayeredRecoveryArchitecture](LayeredRecoveryArchitecture.md)
+- [AutonomousAgentLoop](AutonomousAgentLoop.md)
+- [DailyBugHunt](DailyBugHunt.md)

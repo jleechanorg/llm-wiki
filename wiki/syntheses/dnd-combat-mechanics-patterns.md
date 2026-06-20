@@ -14,42 +14,42 @@ The wiki documents extensive D&D 5e mechanical implementation across worldarchit
 
 ### 1. Action Resolution Protocol
 
-[[ActionResolution]] is a core concept: the AgentAdapter property `requires_action_resolution` affects how the streaming parse path handles responses. This is critical for the level-up bug chain — action resolution in the streaming path bypasses postcondition enforcement that the unified path runs.
+[ActionResolution](../concepts/ActionResolution.md) is a core concept: the AgentAdapter property `requires_action_resolution` affects how the streaming parse path handles responses. This is critical for the level-up bug chain — action resolution in the streaming path bypasses postcondition enforcement that the unified path runs.
 
-The [[ActionResolutionProtocol]] defines the semantic routing between:
+The [ActionResolutionProtocol](../concepts/ActionResolutionProtocol.md) defines the semantic routing between:
 - Dice roll extraction (audit events)
 - Narrative response integration
 - Level-up trigger detection
 
 ### 2. Advantage/Disadvantage Stacking Rules
 
-[[AdvantageDisadvantage]] mechanics in D&D 5e:
+[AdvantageDisadvantage](../concepts/AdvantageDisadvantage.md) mechanics in D&D 5e:
 - Multiple advantages don't stack — roll once with advantage
 - Multiple disadvantages cancel advantage (not stack)
 - Situational advantage from Bardic Inspiration, subclass features, spells
-- The [[SRD-Battle-Simulation]] implements three modes: fast (single roll), detailed (full advantage calculation), deterministic (preset outcomes for testing)
+- The [SRD-Battle-Simulation](../concepts/SRD-Battle-Simulation.md) implements three modes: fast (single roll), detailed (full advantage calculation), deterministic (preset outcomes for testing)
 
 ### 3. Attunement Constraints
 
-[[Attunement]] limits:
+[Attunement](../concepts/Attunement.md) limits:
 - 3 items maximum attuned at once (5e RAW)
 - Attunement requires short rest (usually)
 - Some items require specific classes or alignments
-- WorldArchitect implementation: [[Attunement]] tracked in game state, enforced on equip action
+- WorldArchitect implementation: [Attunement](../concepts/Attunement.md) tracked in game state, enforced on equip action
 
-The [[AegonTargaryen]] campaign uses attunement as narrative constraint — dragon-bonded characters can't attune other legendary items.
+The [AegonTargaryen](../entities/AegonTargaryen.md) campaign uses attunement as narrative constraint — dragon-bonded characters can't attune other legendary items.
 
 ### 4. Ability Score Improvement Progression
 
-[[AbilityScoreImprovement]] and [[AbilityScores]]:
+[AbilityScoreImprovement](../concepts/AbilityScoreImprovement.md) and [AbilityScores](../concepts/AbilityScores.md):
 - Standard array: 15, 14, 13, 12, 10, 8
 - Point buy systems for campaign flexibility
 - Level 4, 8, 12, 16, 19 ASI/half-feat progression
-- [[LevelUpBug]] chain specifically involves XP → ability score progression calculation bugs
+- [LevelUpBug](../concepts/LevelUpBug.md) chain specifically involves XP → ability score progression calculation bugs
 
 ### 5. Battle Simulation Modes
 
-The [[SRD-Battle-Simulation]] module implements three [[SimulationModes]] configurations:
+The [SRD-Battle-Simulation](../concepts/SRD-Battle-Simulation.md) module implements three [SimulationModes](../concepts/SimulationModes.md) configurations:
 
 | Mode | Use Case | Roll Behavior |
 |------|----------|---------------|
@@ -57,25 +57,25 @@ The [[SRD-Battle-Simulation]] module implements three [[SimulationModes]] config
 | Detailed | Boss fights | Full advantage calculation, morale checks |
 | Deterministic | Testing/regression | Fixed rolls for reproducible results |
 
-Morale routing: enemy groups can yield, flee, or fight based on leadership casualties — implemented via faction power calculations in [[ArmyFactionPower]].
+Morale routing: enemy groups can yield, flee, or fight based on leadership casualties — implemented via faction power calculations in [ArmyFactionPower](../concepts/ArmyFactionPower.md).
 
 ### 6. Dice Roll Audit Trail
 
-[[AuditEventExtraction]] captures dice rolls as structured audit events:
+[AuditEventExtraction](../concepts/AuditEventExtraction.md) captures dice rolls as structured audit events:
 - Roll formula (e.g., "1d20+5")
 - Natural roll vs. modified result
 - Advantage/disadvantage applied
 - Context (attack, save, ability check)
 
-The [[DiceRollDebugRegression]] (same pattern as FrontendRewardsBoxGate) — backend emits correct roll data but frontend gates it on `debugMode`.
+The [DiceRollDebugRegression](../concepts/DiceRollDebugRegression.md) (same pattern as FrontendRewardsBoxGate) — backend emits correct roll data but frontend gates it on `debugMode`.
 
 ## Connections
 
-- [[ActionResolution]] — the agent property affecting parse path
-- [[AttackRoll]] — d20 + modifiers + advantage/disadvantage
-- [[AdvantageDisadvantage]] — stacking rules
-- [[Attunement]] — 3-item limit, short rest requirement
-- [[AbilityScores]] — standard array, point buy, ASI progression
-- [[SRD-Battle-Simulation]] — three-mode system
-- [[AuditEventExtraction]] — structured roll capture
-- [[LevelUpBug]] — XP/ASI calculation bugs
+- [ActionResolution](../concepts/ActionResolution.md) — the agent property affecting parse path
+- [AttackRoll](../concepts/AttackRoll.md) — d20 + modifiers + advantage/disadvantage
+- [AdvantageDisadvantage](../concepts/AdvantageDisadvantage.md) — stacking rules
+- [Attunement](../concepts/Attunement.md) — 3-item limit, short rest requirement
+- [AbilityScores](../concepts/AbilityScores.md) — standard array, point buy, ASI progression
+- [SRD-Battle-Simulation](../concepts/SRD-Battle-Simulation.md) — three-mode system
+- [AuditEventExtraction](../concepts/AuditEventExtraction.md) — structured roll capture
+- [LevelUpBug](../concepts/LevelUpBug.md) — XP/ASI calculation bugs

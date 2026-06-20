@@ -14,8 +14,8 @@ Pattern where a secondary LLM evaluates agent outputs (diffs, code changes) befo
 3. Functionally incorrect but CI-passing code (critical — erodes trust)
 
 ## See Also
-- [[Spotify]] — implementation reference
+- [Spotify](../entities/Spotify.md) — implementation reference
 - [[Deterministic Orchestration]] — inner loop verifiers run before PR creation
 - [[Orchestration Architecture Research]]
-- [[ProductJudge]] — personal product taste oracle that evaluates PRs against codified taste principles using 5 scoring dimensions
-- [[ProductTasteLayer]] — wiki-grounded subsystem of product taste principles, examples, and rubrics that ProductJudge references
+- [ProductJudge](ProductJudge.md) — personal product taste oracle that evaluates PRs against codified taste principles using 5 scoring dimensions
+- [ProductTasteLayer](ProductTasteLayer.md) — wiki-grounded subsystem of product taste principles, examples, and rubrics that ProductJudge references

@@ -11,14 +11,14 @@ The True Souls are goblin warriors dedicated to the Absolute, marked by tadpoles
 
 ## Key Details
 - **Category:** Faction
-- **Campaign(s):** [[nocturne-bg3-v6-bug-repro-test]]
+- **Campaign(s):** [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md)
 - **Leader:** Minthara
 
 ## Connections
-- [[TheAbsolute]] — the cult they serve
-- [[Minthara]] — commander
-- [[GoblinCamp]] — base of operations
-- [[EmeraldGrove]] — target of assault
+- [TheAbsolute](TheAbsolute.md) — the cult they serve
+- [Minthara](Minthara.md) — commander
+- [GoblinCamp](GoblinCamp.md) — base of operations
+- [EmeraldGrove](EmeraldGrove.md) — target of assault
 
 ## Appearances
-- [[nocturne-bg3-v6-bug-repro-test]] — primary antagonistic faction
+- [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md) — primary antagonistic faction

@@ -19,5 +19,5 @@ Used for UI integration tests that navigate to campaign URLs and validate struct
 - Multi-browser support
 
 ## Related
-- [[StructuredFieldDisplay]]
-- [[EndToEndTesting]]
+- [StructuredFieldDisplay](StructuredFieldDisplay.md)
+- [EndToEndTesting](EndToEndTesting.md)

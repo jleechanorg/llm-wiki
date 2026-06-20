@@ -25,6 +25,6 @@ Tsukuyomi represents Itachi's evil perfectly — it's not about killing opponent
 
 ## Connections
 
-- [[ItachiUchiha]] — Wielder
+- [ItachiUchiha](../entities/ItachiUchiha.md) — Wielder
 - [[ItachiEvilCampaign2Campaign]] — Campaign
-- [[MangekyoSharingan]] — Parent ability
+- [MangekyoSharingan](MangekyoSharingan.md) — Parent ability

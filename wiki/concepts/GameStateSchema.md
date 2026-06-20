@@ -20,5 +20,5 @@ The schema serves as the source of truth for field names. Run `scripts/schema/ge
 
 ## Related Concepts
 - [[GameStateSchemaFieldConstants]] — the generated Python constants
-- [[DefensiveNumericConverter]] — validates numeric fields in the schema
+- [DefensiveNumericConverter](DefensiveNumericConverter.md) — validates numeric fields in the schema
 - [[EntityTrackingSystem]] — tracks entities defined in the schema

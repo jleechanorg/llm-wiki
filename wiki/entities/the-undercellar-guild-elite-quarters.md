@@ -10,13 +10,13 @@ total_scenes: 315
 
 ## Overview
 
-** The Undercellar - Guild Elite Quarters appears in 11 scenes across the [[old-noctune-merc-bg3]] campaign.
+** The Undercellar - Guild Elite Quarters appears in 11 scenes across the [old-noctune-merc-bg3](../sources/old-noctune-merc-bg3.md) campaign.
 
 ## Description
 
 ** The Undercellar - Guild Elite Quarters is an entity from the old-noctune-merc-bg3 campaign.
 
 ## References
-- [[old-noctune-merc-bg3]] — campaign overview
+- [old-noctune-merc-bg3](../sources/old-noctune-merc-bg3.md) — campaign overview
 - [[old-noctune-merc-bg3-campaign]]
 

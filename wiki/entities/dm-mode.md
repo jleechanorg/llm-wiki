@@ -10,13 +10,13 @@ total_scenes: 128
 
 ## Overview
 
-** DM Mode appears in 7 scenes across the [[witcher-strat]] campaign.
+** DM Mode appears in 7 scenes across the [witcher-strat](../sources/witcher-strat.md) campaign.
 
 ## Description
 
 ** DM Mode is an entity from the witcher-strat campaign.
 
 ## References
-- [[witcher-strat]] — campaign overview
+- [witcher-strat](../sources/witcher-strat.md) — campaign overview
 - [[witcher-strat-campaign]]
 

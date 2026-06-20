@@ -28,5 +28,5 @@ Also reject physics-defying actions without magical justification:
 "Such things are beyond the realm of this world's possibilities."
 
 ## Related Concepts
-- [[TabletopDMTest]] — general guardrail principle
+- [TabletopDMTest](TabletopDMTest.md) — general guardrail principle
 - [[WorldBoundaries]] — players cannot access non-existent places/dimensions

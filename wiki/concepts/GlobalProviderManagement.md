@@ -20,5 +20,5 @@ Pattern for managing a singleton TestServiceProvider instance across test execut
 - Backward compatibility via get_test_client_for_mode() helper
 
 ## Related
-- [[TestingFramework]]
-- [[TestServiceProvider]]
+- [TestingFramework](TestingFramework.md)
+- [TestServiceProvider](TestServiceProvider.md)

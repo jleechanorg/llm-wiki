@@ -15,11 +15,11 @@ Continuous Verification is the practice of integrating verification (testing, fo
 - **Feedback loop**: Fast feedback to developers when verification fails
 
 ## Connections
-- [[VerificationLoop]] — continuous verification is the CI/CD embodiment of the verification loop
-- [[CI-Gates]] — the automated checkpoints that enforce continuous verification
-- [[FormalVerification]] — formal methods can be integrated as a continuous verification stage
-- [[AdversarialTesting]] — adversarial testing runs continuously in the pipeline
+- [VerificationLoop](VerificationLoop.md) — continuous verification is the CI/CD embodiment of the verification loop
+- [CI-Gates](CI-Gates.md) — the automated checkpoints that enforce continuous verification
+- [FormalVerification](FormalVerification.md) — formal methods can be integrated as a continuous verification stage
+- [AdversarialTesting](AdversarialTesting.md) — adversarial testing runs continuously in the pipeline
 
 ## See Also
-- [[VerificationLoop]]
-- [[CI-Gates]]
+- [VerificationLoop](VerificationLoop.md)
+- [CI-Gates](CI-Gates.md)

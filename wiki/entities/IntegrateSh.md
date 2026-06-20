@@ -14,4 +14,4 @@ Bash script that handles integration workflows including squash-merge detection.
 - grep behavior: Missing --fixed-strings flag caused regex interpretation issues
 
 ## Connections
-- [[squash-merge-detection-tests]] — tests validates bug fixes
+- [squash-merge-detection-tests](../sources/squash-merge-detection-tests.md) — tests validates bug fixes

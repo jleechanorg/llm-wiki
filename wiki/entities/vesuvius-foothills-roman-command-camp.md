@@ -10,13 +10,13 @@ total_scenes: 108
 
 ## Overview
 
-** Vesuvius Foothills (Roman Command Camp) appears in 3 scenes across the [[aurelius-caesar-v3]] campaign.
+** Vesuvius Foothills (Roman Command Camp) appears in 3 scenes across the [aurelius-caesar-v3](../sources/aurelius-caesar-v3.md) campaign.
 
 ## Description
 
 ** Vesuvius Foothills (Roman Command Camp) is an entity from the aurelius-caesar-v3 campaign.
 
 ## References
-- [[aurelius-caesar-v3]] — campaign overview
-- [[aurelius-caesar-v3-campaign]]
+- [aurelius-caesar-v3](../sources/aurelius-caesar-v3.md) — campaign overview
+- [aurelius-caesar-v3-campaign](../sources/aurelius-caesar-v3-campaign.md)
 

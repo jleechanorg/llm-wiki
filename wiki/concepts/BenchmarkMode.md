@@ -8,7 +8,7 @@ last_updated: 2026-04-15
 
 ## Summary
 
-Benchmark Mode is the **wrong** approach for auto-research — it predicts what already-merged PRs would do, scores prediction accuracy, but produces zero real code changes. Contrast with [[PRRecreatePipeline]] which actually fixes from pre-state.
+Benchmark Mode is the **wrong** approach for auto-research — it predicts what already-merged PRs would do, scores prediction accuracy, but produces zero real code changes. Contrast with [PRRecreatePipeline](PRRecreatePipeline.md) which actually fixes from pre-state.
 
 ## Why Benchmark Mode Is Wrong
 
@@ -27,7 +27,7 @@ The current auto-research system (Cycles 1-26) ran in benchmark mode:
 - Agent says "predict" rather than "fix"
 - Scoring is against historical diffs, not against open issues
 
-## Contrast with [[PRRecreatePipeline]]
+## Contrast with [PRRecreatePipeline](PRRecreatePipeline.md)
 
 | | Benchmark Mode | Recreate Mode |
 |--|---------------|---------------|

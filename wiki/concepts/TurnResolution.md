@@ -21,7 +21,7 @@ The process of resolving a single combat turn in WorldAI — encompassing dice r
 - `extract_dice_audit_events_from_action_resolution()` pulls mechanics.audit_events
 - Handles both dict and string formats for cross-version compatibility
 
-### Damage Calculation (from [[mvp-site-combat]])
+### Damage Calculation (from [mvp-site-combat](../sources/mvp-site-combat.md))
 - Position multipliers: ranged=1.0x, melee=1.5x, flying=2.25x
 - School counter bonuses applied after position multipliers
 - Morale rout triggers when remaining HP <= MORALE_ROUT_THRESHOLD
@@ -32,8 +32,8 @@ The process of resolving a single combat turn in WorldAI — encompassing dice r
 
 ## Connections
 
-- [[ActionResolution]] — field-level action resolution mechanics
-- [[AttackRoll]] — dice rolling for attack resolution
+- [ActionResolution](ActionResolution.md) — field-level action resolution mechanics
+- [AttackRoll](AttackRoll.md) — dice rolling for attack resolution
 - [[CombatState]] — turn resolution produces combat state
-- [[UpkeepPhase]] — time advancement triggers upkeep deduction
-- [[mvp-site-action-resolution-utils]] — implementation utilities
+- [UpkeepPhase](UpkeepPhase.md) — time advancement triggers upkeep deduction
+- [mvp-site-action-resolution-utils](../sources/mvp-site-action-resolution-utils.md) — implementation utilities

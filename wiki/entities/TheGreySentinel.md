@@ -23,7 +23,7 @@ The Grey Sentinel is a chalk-rise ridge in the Dornish Marches, serving as the s
 - **Binding Coordination**: 20 vs DC 12 — Success (40 veterans bind 15 incapacitated targets before Pattern expires)
 
 ## Connections
-- [[Aegon]] — the dragon who conducted the ambush
-- [[HousePeake]] — the outriders who were ambushed
+- [Aegon](Aegon.md) — the dragon who conducted the ambush
+- [HousePeake](HousePeake.md) — the outriders who were ambushed
 - [[SerRolandCrakehall]] — knight who fought at the Sentinel
-- [[SerDuncanTheTall]] — knight who fought at the Sentinel
+- [SerDuncanTheTall](SerDuncanTheTall.md) — knight who fought at the Sentinel

@@ -20,6 +20,6 @@ A 3-tier classification system determining the urgency and forcefulness of AI in
 The priority system sorts entity instructions before generating AI prompts, ensuring higher-priority entities receive more forceful language. This prevents lower-priority entities from crowding out critical characters in constrained token budgets.
 
 ## Relationship to Other Concepts
-- Enables [[TokenBudgetAllocation]] by prioritizing entity instructions
-- Works with [[EntityInstructionGeneration]] to apply appropriate force
+- Enables [TokenBudgetAllocation](TokenBudgetAllocation.md) by prioritizing entity instructions
+- Works with [EntityInstructionGeneration](EntityInstructionGeneration.md) to apply appropriate force
 - Supports [[CombatSystemProtocol]] by prioritizing combatants

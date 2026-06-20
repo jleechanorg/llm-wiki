@@ -16,5 +16,5 @@ The ultimate goal of [[Sovereign Protocol]]: rewrite thermodynamic laws across a
 - **Pan-Substrate Control:** Sufficient territory to affect multiverse
 
 ## Related
-- [[SovereignProtocol]] — System this is the goal of
-- [[PanSubstrate]] — The multiverse to be rewritten
+- [SovereignProtocol](SovereignProtocol.md) — System this is the goal of
+- [PanSubstrate](PanSubstrate.md) — The multiverse to be rewritten

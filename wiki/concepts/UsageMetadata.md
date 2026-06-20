@@ -17,8 +17,8 @@ Response metadata from Gemini API showing token usage and caching statistics.
 
 ## Related Pages
 - [[GeminiUsageMetadataLoggingTests]] — tests for this metadata
-- [[ImplicitCaching]] — feature this metadata verifies
+- [ImplicitCaching](ImplicitCaching.md) — feature this metadata verifies
 
 ## Connections
-- [[GeminiAPI]] — source of usage metadata
-- [[ImplicitCaching]] — feature it verifies
+- [GeminiAPI](../entities/GeminiAPI.md) — source of usage metadata
+- [ImplicitCaching](ImplicitCaching.md) — feature it verifies

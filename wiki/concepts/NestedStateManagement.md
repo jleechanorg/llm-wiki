@@ -30,6 +30,6 @@ The `update_state_with_changes` function handles this by recursively traversing 
 
 ## Related
 
-- [[DeleteToken]] — the marker that triggers removal
-- [[FirestoreService]] — the service implementing nested state management
-- [[delete-token-processing-tests]] — test validation
+- [DeleteToken](DeleteToken.md) — the marker that triggers removal
+- [FirestoreService](../entities/FirestoreService.md) — the service implementing nested state management
+- [delete-token-processing-tests](../sources/delete-token-processing-tests.md) — test validation

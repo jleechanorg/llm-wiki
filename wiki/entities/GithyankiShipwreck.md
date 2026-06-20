@@ -11,12 +11,12 @@ The Githyanki Shipwreck is the crashed Nautiloid at the Ravaged Beach. In V5-fix
 
 ## Key Details
 - **Category:** Location
-- **Campaign(s):** [[nocturne-bg3-v5-fixed-v2]]
+- **Campaign(s):** [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md)
 
 ## Connections
-- [[GithyankiRaiders]] — owners of the ship
-- [[RavagedBeach]] — location
+- [GithyankiRaiders](GithyankiRaiders.md) — owners of the ship
+- [RavagedBeach](RavagedBeach.md) — location
 - [[IntellectDevourer]] — enemy encounter
 
 ## Appearances
-- [[nocturne-bg3-v5-fixed-v2]] — crash site starting location
+- [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md) — crash site starting location

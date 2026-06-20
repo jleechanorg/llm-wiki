@@ -16,6 +16,6 @@ Any list of fields/constants used in multiple files must be defined ONCE in a sh
 
 ## Related
 
-- [[LivingWorldProtocol]] — LW field handling
-- [[SingleResponsibilityPrinciple]] — single source of truth
-- [[MergeConflictResolution]] — why duplication causes rebase failures
+- [LivingWorldProtocol](LivingWorldProtocol.md) — LW field handling
+- [SingleResponsibilityPrinciple](SingleResponsibilityPrinciple.md) — single source of truth
+- [MergeConflictResolution](MergeConflictResolution.md) — why duplication causes rebase failures

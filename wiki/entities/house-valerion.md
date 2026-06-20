@@ -10,13 +10,13 @@ total_scenes: 230
 
 ## Overview
 
-House Valerion appears in 6 scenes across the [[dragon-knight-good]] campaign.
+House Valerion appears in 6 scenes across the [dragon-knight-good](../sources/dragon-knight-good.md) campaign.
 
 ## Description
 
 House Valerion is an entity from the dragon-knight-good campaign.
 
 ## References
-- [[dragon-knight-good]] — campaign overview
-- [[dragon-knight-good-campaign]]
+- [dragon-knight-good](../sources/dragon-knight-good.md) — campaign overview
+- [dragon-knight-good-campaign](../sources/dragon-knight-good-campaign.md)
 

@@ -12,9 +12,9 @@ Aizen Sosuke is a recurring mastermind character appearing across three major ca
 
 ## Appears In
 
-- [[aizen-bg3]] — 596 entries; strategic mastermind in post-Netherbrain Baldur's Gate
+- [aizen-bg3](../sources/aizen-bg3.md) — 596 entries; strategic mastermind in post-Netherbrain Baldur's Gate
 - [[aizen-thay]] — 596 entries; Abyss Knight / Soul Thief in Thay, patron: Nocturne Sosuke
-- [[aizen-godhood-continued]] — 700+ entries; godhood ascent continuation (entries 4-7 are multi-MB)
+- [aizen-godhood-continued](../sources/aizen-godhood-continued.md) — 700+ entries; godhood ascent continuation (entries 4-7 are multi-MB)
 
 ## Key Traits
 
@@ -29,7 +29,7 @@ Aizen Sosuke is a recurring mastermind character appearing across three major ca
 
 ## Relationships Across Campaigns
 
-- [[NocturneSosuke]] — Patron in Aizen Thay; the "Queen" he ultimately wants to unmake
-- [[HouseSosuke]] — His destroyed noble house
-- [[Alexiel]] — Parallel archetype (the perfect deceiver with layered masks)
+- [NocturneSosuke](NocturneSosuke.md) — Patron in Aizen Thay; the "Queen" he ultimately wants to unmake
+- [HouseSosuke](HouseSosuke.md) — His destroyed noble house
+- [Alexiel](Alexiel.md) — Parallel archetype (the perfect deceiver with layered masks)
 - [[AureliusJuliusCaesar]] — Parallel archetype (the Decadent Conqueror / beauty as weapon)

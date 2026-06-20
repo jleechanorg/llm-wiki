@@ -15,5 +15,5 @@ A Gemini API mode where the model can execute code and return both code output (
 - The JSON parsing must handle mixed output patterns
 
 ## Related
-- [[parse_structured_response]] — function that handles this mode
-- [[StructuredResponseParsing]] — broader concept
+- [parse_structured_response](../entities/parse_structured_response.md) — function that handles this mode
+- [StructuredResponseParsing](StructuredResponseParsing.md) — broader concept

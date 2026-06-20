@@ -30,5 +30,5 @@ Either use `--paginate` OR `--jq`, not both in the same pipeline. Or use a diffe
 ## Related
 
 - [[PRWatchdog]] — PR monitoring
-- [[SkepticGate]] — Skeptic gate system
-- [[SkepticGatePaginationLoop]] — Pagination loop concept
+- [SkepticGate](SkepticGate.md) — Skeptic gate system
+- [SkepticGatePaginationLoop](SkepticGatePaginationLoop.md) — Pagination loop concept

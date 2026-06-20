@@ -19,6 +19,6 @@ Emergent reasoning capability that arises from structured multi-agent collaborat
 
 ## Connections
 
-- [[ProjectChimera]] is an implementation of collective intelligence via GNN-driven agent graphs
-- [[TriadicCoEvolution]] describes the specific self-improvement mechanism
-- Related to [[LivingKnowledgeWiki]] as the application domain
+- [ProjectChimera](../entities/ProjectChimera.md) is an implementation of collective intelligence via GNN-driven agent graphs
+- [TriadicCoEvolution](TriadicCoEvolution.md) describes the specific self-improvement mechanism
+- Related to [LivingKnowledgeWiki](LivingKnowledgeWiki.md) as the application domain

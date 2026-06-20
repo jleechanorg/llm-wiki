@@ -20,5 +20,5 @@ The process of determining which agent (LevelUpAgent or CharacterCreationAgent) 
 - Stale flags must be cleared on state transitions
 
 ## Related Concepts
-- [[ModalInjection]] — finish choice injection logic
-- [[ModalStateManagement]] — overall modal state handling
+- [ModalInjection](ModalInjection.md) — finish choice injection logic
+- [ModalStateManagement](ModalStateManagement.md) — overall modal state handling

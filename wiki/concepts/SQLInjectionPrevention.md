@@ -15,6 +15,6 @@ Security measure to prevent malicious SQL code from being executed through user 
 - Input validation still applied as defense in depth
 
 ## Related Concepts
-- [[NoSQLInjectionPrevention]]
-- [[XSSPrevention]]
-- [[InputValidation]]
+- [NoSQLInjectionPrevention](NoSQLInjectionPrevention.md)
+- [XSSPrevention](XSSPrevention.md)
+- [InputValidation](InputValidation.md)

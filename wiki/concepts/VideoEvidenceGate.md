@@ -55,7 +55,7 @@ async def validate_text_in_video(frames: list[Image], required_text: list[str]) 
 - No error states visible (blank screens, exception traces)
 
 ## Connections
-- [[VideoFrameExtraction]] — Frame extraction details
-- [[VideoEvidenceFailure]] — Failure mode analysis
-- [[EvidencePipeline]] — Evidence collection pipeline
-- [[SkepticGate]] — Parent gate system
+- [VideoFrameExtraction](VideoFrameExtraction.md) — Frame extraction details
+- [VideoEvidenceFailure](VideoEvidenceFailure.md) — Failure mode analysis
+- [EvidencePipeline](EvidencePipeline.md) — Evidence collection pipeline
+- [SkepticGate](SkepticGate.md) — Parent gate system

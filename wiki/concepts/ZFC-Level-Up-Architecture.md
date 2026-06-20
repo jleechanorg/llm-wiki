@@ -8,7 +8,7 @@ last_updated: 2026-04-19
 
 ## Overview
 
-ZFC Level-Up Architecture replaces backend-owned level-up judgment with a ZFC-compliant contract: **the model computes level-up facts; the backend validates, formats, and delivers them**. UI renders only server-provided payloads. This is the post-2026-04-14 evolution of [[LevelUpArchitecture]].
+ZFC Level-Up Architecture replaces backend-owned level-up judgment with a ZFC-compliant contract: **the model computes level-up facts; the backend validates, formats, and delivers them**. UI renders only server-provided payloads. This is the post-2026-04-14 evolution of [LevelUpArchitecture](LevelUpArchitecture.md).
 
 The key contract change: XP state must be expressed as two unambiguous totals — `previous_turn_exp` and `current_turn_exp` — rather than a backend threshold check.
 
@@ -129,16 +129,16 @@ Transport is allowed to differ; semantic and formatting code is **not**.
 
 ## Relationship to Pre-ZFC LevelUpArchitecture
 
-The 2026-04-14 [[LevelUpArchitecture]] correctly centralized scattered rewards logic into `rewards_engine.py`, but still treated the server as the place that **decides** whether a player should level up. That violated ZFC byputting semantic judgment (threshold crossing detection) in application code.
+The 2026-04-14 [LevelUpArchitecture](LevelUpArchitecture.md) correctly centralized scattered rewards logic into `rewards_engine.py`, but still treated the server as the place that **decides** whether a player should level up. That violated ZFC byputting semantic judgment (threshold crossing detection) in application code.
 
 ZFC Level-Up Architecture fixes this by shifting the semantic decision to the model while keeping the backend as a pure formatter boundary.
 
 ## See Also
-- [[ZeroFrameworkCognition]] — ZFC framework this architecture is built on
-- [[LevelUpArchitecture]] — pre-ZFC architecture this evolved from
-- [[RewardsEngine]] — the single backend file that owns all reward/level-up formatting
-- [[FailClosedValidation]] — validation philosophy for malformed model signals
-- [[SemanticVsMechanicalJudgment]] — the dividing line this architecture enforces
+- [ZeroFrameworkCognition](ZeroFrameworkCognition.md) — ZFC framework this architecture is built on
+- [LevelUpArchitecture](LevelUpArchitecture.md) — pre-ZFC architecture this evolved from
+- [RewardsEngine](RewardsEngine.md) — the single backend file that owns all reward/level-up formatting
+- [FailClosedValidation](FailClosedValidation.md) — validation philosophy for malformed model signals
+- [SemanticVsMechanicalJudgment](SemanticVsMechanicalJudgment.md) — the dividing line this architecture enforces
 ## PR6906 Scope Freeze Rule (2026-05-17)
 
 PR #6906 showed that a prompt-first level-up cleanup can drift into guard-retention and evidence-churn work if scope is not frozen. When retained backend correction guards, guard-asserting tests, opaque choice migration, and CI/evidence harness changes appear in one branch, split the work: keep only the smallest prompt/schema/root-cause fix and proven guard deletions in the current PR, and move migration/telemetry/harness enforcement to follow-up PRs.

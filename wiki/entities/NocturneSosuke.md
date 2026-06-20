@@ -13,11 +13,11 @@ Nocturne Sosuke is the most widely recurring character in the WorldArchitect cam
 ## Appears In
 
 - [[nocturne-bg3]] — PC, Baldur's Gate 3 setting (5000+ entries, largest campaign)
-- [[nocturne-apex-paladin]] — PC, custom Apex Paladin class, 203 scenes
+- [nocturne-apex-paladin](../sources/nocturne-apex-paladin.md) — PC, custom Apex Paladin class, 203 scenes
 - [[aizen-thay]] — Patron/Deity ("The Sovereign"), communicates via Obsidian Mirror, 100 years post-ascension
 - [[faction-nocturne-bg3]] — Faction leader version
 - [[stellaris-nocturne]] — Sci-fi/Stellaris iteration
-- [[bg1-nocturne]] — Baldur's Gate 1 variant
+- [bg1-nocturne](../sources/bg1-nocturne.md) — Baldur's Gate 1 variant
 - [[bg3-nocturne-continued]] — Continuation campaigns
 
 ## Key Traits
@@ -32,7 +32,7 @@ Nocturne Sosuke is the most widely recurring character in the WorldArchitect cam
 
 ## Relationships Across Campaigns
 
-- [[AizenSosuke]] — Descendant/pawn in Aizen Thay; groomed as potential rival
-- [[HouseSosuke]] — Noble house destroyed after her ascension
-- [[Alexiel]] — Parallel archetype (the secret prodigy / "Null" who is actually god-tier)
-- [[Auctoritas]] — Nocturne's power is an extreme manifestation of Auctoritas
+- [AizenSosuke](AizenSosuke.md) — Descendant/pawn in Aizen Thay; groomed as potential rival
+- [HouseSosuke](HouseSosuke.md) — Noble house destroyed after her ascension
+- [Alexiel](Alexiel.md) — Parallel archetype (the secret prodigy / "Null" who is actually god-tier)
+- [Auctoritas](../concepts/Auctoritas.md) — Nocturne's power is an extreme manifestation of Auctoritas

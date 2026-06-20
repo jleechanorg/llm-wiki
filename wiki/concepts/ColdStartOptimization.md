@@ -22,5 +22,5 @@ Tests like [[StartupImportLazyLoadingTests]] verify that `google.genai` and `goo
 - Heavy SDKs add seconds to startup time if loaded eagerly
 
 ## Wiki Connections
-- Enabled by [[LazyLoading]]
+- Enabled by [LazyLoading](LazyLoading.md)
 - Measured by [[ImportPerformance]] tests

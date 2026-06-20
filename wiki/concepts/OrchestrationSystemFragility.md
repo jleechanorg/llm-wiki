@@ -34,6 +34,6 @@ The weakness in the orchestration system where 97% of orchestration conversation
 
 ## Related Concepts
 
-- [[IntelligentCommandOrchestration]] — related strength
+- [IntelligentCommandOrchestration](IntelligentCommandOrchestration.md) — related strength
 - [[HarnessEngineeringPhilosophy]] — reliability architecture
 - [[GenesisPersistentOrchestrationLayer]] — implementation fixes

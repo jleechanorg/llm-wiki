@@ -14,6 +14,6 @@ def get_campaign(user_id: UserId, campaign_id: CampaignId) -> Optional[CampaignD
 ```
 
 ## Related
-- [[GradualTyping]] — adoption strategy
-- [[mypy]] — static type checker
-- [[TypeStubs]] — type stub files
+- [GradualTyping](GradualTyping.md) — adoption strategy
+- [mypy](../entities/mypy.md) — static type checker
+- [TypeStubs](TypeStubs.md) — type stub files

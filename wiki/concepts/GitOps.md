@@ -22,7 +22,7 @@ GitOps is a deployment paradigm where Git is the source of truth for infrastruct
 GitOps provides a governance model for deployment — PRs as approval mechanism, Git history as audit trail, automated sync ensures compliance. Apply to AO: PR review for governance changes, automated sync for policy enforcement.
 
 ## See Also
-- [[Weaveworks]]
-- [[ArgoCD]]
-- [[Flux]]
-- [[GovernanceLayer]]
+- [Weaveworks](../entities/Weaveworks.md)
+- [ArgoCD](../entities/ArgoCD.md)
+- [Flux](../entities/Flux.md)
+- [GovernanceLayer](GovernanceLayer.md)

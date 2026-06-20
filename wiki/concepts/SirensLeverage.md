@@ -11,12 +11,12 @@ Siren's Leverage is a signature trait of Nocturne Sosuke that provides a +2 bonu
 
 ## Key Details
 - **Category:** GameMechanic / Ability
-- **Campaign(s):** [[nocturne-bg3-v4]], [[nocturne-bg3-v5]], [[nocturne-bg3-v5-succubus]], [[nocturne-bg3-v6-bug-repro-test]]
+- **Campaign(s):** [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md), [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md), [nocturne-bg3-v5-succubus](../sources/nocturne-bg3-v5-succubus.md), [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md)
 
 ## Related Concepts
-- [[CollegeOfTheAbyssalSiren]] — subclass this ability belongs to
+- [CollegeOfTheAbyssalSiren](CollegeOfTheAbyssalSiren.md) — subclass this ability belongs to
 - [[SocialCombat]] — the combat type this ability excel at
 - [[CharismaFocus]] — stat this ability scales with
 
 ## Related Entities
-- [[NocturneSosuke]] — primary user
+- [NocturneSosuke](../entities/NocturneSosuke.md) — primary user

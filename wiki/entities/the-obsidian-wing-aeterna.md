@@ -10,13 +10,13 @@ total_scenes: 106
 
 ## Overview
 
-** The Obsidian Wing, Aeterna appears in 3 scenes across the [[stellaris-nocturne-v1-repro-test]] campaign.
+** The Obsidian Wing, Aeterna appears in 3 scenes across the [stellaris-nocturne-v1-repro-test](../sources/stellaris-nocturne-v1-repro-test.md) campaign.
 
 ## Description
 
 ** The Obsidian Wing, Aeterna is an entity from the stellaris-nocturne-v1-repro-test campaign.
 
 ## References
-- [[stellaris-nocturne-v1-repro-test]] — campaign overview
-- [[stellaris-nocturne-v1-repro-test-campaign]]
+- [stellaris-nocturne-v1-repro-test](../sources/stellaris-nocturne-v1-repro-test.md) — campaign overview
+- [stellaris-nocturne-v1-repro-test-campaign](../sources/stellaris-nocturne-v1-repro-test-campaign.md)
 

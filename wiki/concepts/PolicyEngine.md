@@ -13,9 +13,9 @@ A policy engine decouples policy decisions from application code. Policy engines
 
 | System | Policy Language | Key Use |
 |--------|-----------------|---------|
-| [[OPA]] | Rego | General-purpose policy engine |
+| [OPA](../entities/OPA.md) | Rego | General-purpose policy engine |
 | [[Constitutional AI]] | Constitutional principles | AI safety/alignment |
-| [[ConstitutionalClassifiers]] | Principle-based | Output filtering |
+| [ConstitutionalClassifiers](../entities/ConstitutionalClassifiers.md) | Principle-based | Output filtering |
 
 ## OPA Architecture
 
@@ -36,7 +36,7 @@ allow if user == "alice"
 A policy engine is a runtime *mechanism* for evaluating constraints. The governance layer is the *constitution* — the set of policies that should be enforced. PR #453 proposes a YAML Policy Engine as a component of the governance layer.
 
 ## See Also
-- [[OPA]]
-- [[Rego]]
-- [[GovernanceLayer]]
-- [[ConstitutionalAI]]
+- [OPA](../entities/OPA.md)
+- [Rego](../entities/Rego.md)
+- [GovernanceLayer](GovernanceLayer.md)
+- [ConstitutionalAI](ConstitutionalAI.md)

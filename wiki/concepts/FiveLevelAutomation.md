@@ -27,16 +27,16 @@ The Five-Level Automation ladder (Dan Shapiro, Jan 2026) borrows the NHTSA's dri
 ## Related Systems
 | System | Type | Relevance |
 |--------|------|-----------|
-| [[DanShapiro]] | Person | Authored the five-level framework |
-| [[DarkFactory]] | Concept | Level 5 of the automation ladder |
-| [[HealerAgent]] | Agent | Enables Level 5 by automating quality diagnosis |
-| [[CXDB]] | Database | Enables Level 5 by providing observability without code reading |
+| [DanShapiro](../entities/DanShapiro.md) | Person | Authored the five-level framework |
+| [DarkFactory](DarkFactory.md) | Concept | Level 5 of the automation ladder |
+| [HealerAgent](HealerAgent.md) | Agent | Enables Level 5 by automating quality diagnosis |
+| [CXDB](CXDB.md) | Database | Enables Level 5 by providing observability without code reading |
 
 ## Connection to Attractor Pattern
 The Five-Level ladder provides the maturity framework that the Attractor pattern operates within. Attractor tools (CXDB, Healer, DOT pipelines) are what you build at Level 4-5 to make the dark factory work.
 
 ## See Also
-- [[DanShapiro]]
-- [[DarkFactory]]
-- [[HealerAgent]]
-- [[CXDB]]
+- [DanShapiro](../entities/DanShapiro.md)
+- [DarkFactory](DarkFactory.md)
+- [HealerAgent](HealerAgent.md)
+- [CXDB](CXDB.md)

@@ -10,7 +10,7 @@ last_updated: 2026-05-07
 
 ## Definition
 
-The wide variation in AI tool proficiency and adoption willingness among engineers and engineering managers. Jeff Lee-Chan ([[JeffreyChan]]) describes this as a spectrum: some managers actively experiment with AI tools (spending 20-30 extra hours/week), while others haven't tried them at all and ask "is it really that good?"
+The wide variation in AI tool proficiency and adoption willingness among engineers and engineering managers. Jeff Lee-Chan ([JeffreyChan](../entities/JeffreyChan.md)) describes this as a spectrum: some managers actively experiment with AI tools (spending 20-30 extra hours/week), while others haven't tried them at all and ask "is it really that good?"
 
 ## Key Insight
 
@@ -25,6 +25,6 @@ Those who haven't adopted AI tools will "fall further behind" as time goes on �
 
 ## Connections
 
-- [[JeffreyChan]] — source of the concept
-- [[TimelineCompressionDiscovery]] — complementary: use compression to find where AI adoption matters most
-- [[ManagerPowerDynamics]] — managers who are technically behind can't effectively guide AI adoption
+- [JeffreyChan](../entities/JeffreyChan.md) — source of the concept
+- [TimelineCompressionDiscovery](TimelineCompressionDiscovery.md) — complementary: use compression to find where AI adoption matters most
+- [ManagerPowerDynamics](ManagerPowerDynamics.md) — managers who are technically behind can't effectively guide AI adoption

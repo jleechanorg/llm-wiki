@@ -10,9 +10,9 @@ last_updated: 2026-04-08
 The Celestial Imperium is the surviving remnant of the original divine order, controlling eastern regions from capital Aeterna. They struggle to maintain control over a fractured realm through rigid adherence to ancient laws.
 
 ## Leadership
-- Ruled by ancient Lord Regent [[Raziel]]
-- Key military: [[StarfallCommand]] (around Alexiel's legacy)
-- Key political: [[PrincipateSenate]]
+- Ruled by ancient Lord Regent [Raziel](Raziel.md)
+- Key military: [StarfallCommand](StarfallCommand.md) (around Alexiel's legacy)
+- Key political: [PrincipateSenate](PrincipateSenate.md)
 
 ## Sub-factions
 - **Principate Senate**: Traditionalist power base of oldest families
@@ -25,5 +25,5 @@ The Celestial Imperium is the surviving remnant of the original divine order, co
 - Values: Order, tradition, civilization preservation through divine bloodline hierarchy
 
 ## Relationships
-- Opposes: [[ShatteredHost]]
-- Treaty: [[TreatyOfNexus]]
+- Opposes: [ShatteredHost](ShatteredHost.md)
+- Treaty: [TreatyOfNexus](TreatyOfNexus.md)

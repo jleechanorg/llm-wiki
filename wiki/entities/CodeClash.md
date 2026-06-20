@@ -16,9 +16,9 @@ CodeClash is a coding agent benchmark/tool in the SWE-agent family, related to m
 
 ## Connections
 
-- [[SWE-bench]] — CodeClash is in the SWE-bench evaluation ecosystem
-- [[SWE-agent]] — related tool in the SWE-agent family
+- [SWE-bench](../concepts/SWE-bench.md) — CodeClash is in the SWE-bench evaluation ecosystem
+- [SWE-agent](SWE-agent.md) — related tool in the SWE-agent family
 
 ## See Also
-- [[SWE-bench]]
-- [[SWE-agent]]
+- [SWE-bench](../concepts/SWE-bench.md)
+- [SWE-agent](SWE-agent.md)

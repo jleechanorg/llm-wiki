@@ -12,14 +12,14 @@ The modern interface mode in WorldArchitect where the interface is always in mod
 ## Characteristics
 - Always-on: No mode icon or toggle required
 - Consistent modern styling across all components
-- Integrated with [[InterfaceManager]] for implementation
+- Integrated with [InterfaceManager](../entities/InterfaceManager.md) for implementation
 
 ## Implementation
 - Controlled by InterfaceManager class
-- CSS classes in [[InteractiveFeaturesCSS]]
+- CSS classes in [InteractiveFeaturesCSS](InteractiveFeaturesCSS.md)
 - Applied to all Milestone 4 components
 
 ## Related Concepts
-- [[CampaignWizard]] — uses modern mode styling
-- [[EnhancedSearch]] — uses modern mode styling
-- [[InterfaceManager]] — implements the mode system
+- [CampaignWizard](CampaignWizard.md) — uses modern mode styling
+- [EnhancedSearch](EnhancedSearch.md) — uses modern mode styling
+- [InterfaceManager](../entities/InterfaceManager.md) — implements the mode system

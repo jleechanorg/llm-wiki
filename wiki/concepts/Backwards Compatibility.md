@@ -20,5 +20,5 @@ Guarantee that existing tests continue to work unchanged when the Real-Mode Test
 3. **Full**: Migrate to BaseTestCase with full features
 
 ## Related
-- [[DualModeTestMixin]] — compatibility mechanism
+- [DualModeTestMixin](../entities/DualModeTestMixin.md) — compatibility mechanism
 - [[Migration Documentation]] — guidance for adoption

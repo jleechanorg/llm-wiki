@@ -17,8 +17,8 @@ Microsoft Copilot Studio is an enterprise multi-agent orchestration platform for
 
 ## Connections
 
-- [[MultiAgentOrchestration]] — Copilot Studio is a multi-agent orchestration platform
-- [[MicrosoftAgentFramework]] — related Microsoft multi-agent framework
+- [MultiAgentOrchestration](../concepts/MultiAgentOrchestration.md) — Copilot Studio is a multi-agent orchestration platform
+- [MicrosoftAgentFramework](MicrosoftAgentFramework.md) — related Microsoft multi-agent framework
 
 ## See Also
-- [[MultiAgentOrchestration]]
+- [MultiAgentOrchestration](../concepts/MultiAgentOrchestration.md)

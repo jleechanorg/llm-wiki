@@ -24,7 +24,7 @@ The Apex Paladin channels personal will into devastating force and psychological
 
 ## Connections
 
-- [[Gladius]] — Wielder
+- [Gladius](../entities/Gladius.md) — Wielder
 - [[MercSoloBruteGladiusCampaign]] — Campaign
-- [[DestinyRuleset]] — Game ruleset
+- [DestinyRuleset](DestinyRuleset.md) — Game ruleset
 - [[TheHammer]] — Mercenary reputation

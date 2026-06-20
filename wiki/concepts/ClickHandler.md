@@ -16,4 +16,4 @@ JavaScript event handler for processing user click events on DOM elements. In th
 
 ## Related Pages
 - [[CampaignListClickFunctionalityTests]] — tests click handler implementation
-- [[FrontendV1]] — project containing click handlers
+- [FrontendV1](../entities/FrontendV1.md) — project containing click handlers

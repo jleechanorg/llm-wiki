@@ -10,13 +10,13 @@ total_scenes: 474
 
 ## Overview
 
-** Marcus Pacuvius's Villa (Capua) appears in 33 scenes across the [[rome-pax-julia]] campaign.
+** Marcus Pacuvius's Villa (Capua) appears in 33 scenes across the [rome-pax-julia](../sources/rome-pax-julia.md) campaign.
 
 ## Description
 
 ** Marcus Pacuvius's Villa (Capua) is an entity from the rome-pax-julia campaign.
 
 ## References
-- [[rome-pax-julia]] — campaign overview
-- [[rome-pax-julia-campaign]]
+- [rome-pax-julia](../sources/rome-pax-julia.md) — campaign overview
+- [rome-pax-julia-campaign](../sources/rome-pax-julia-campaign.md)
 

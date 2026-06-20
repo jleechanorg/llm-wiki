@@ -15,6 +15,6 @@ Prompt engineering technique that injects entity information into LLM context be
 - Supports location-aware filtering for scene-specific entity injection
 
 ## Related Concepts
-- [[EntityManifest]] — data structure holding entity state
-- [[EntityPreloader]] — main class implementing preloading
-- [[LocationEntityEnforcer]] — location-specific filtering
+- [EntityManifest](EntityManifest.md) — data structure holding entity state
+- [EntityPreloader](../entities/EntityPreloader.md) — main class implementing preloading
+- [LocationEntityEnforcer](../entities/LocationEntityEnforcer.md) — location-specific filtering

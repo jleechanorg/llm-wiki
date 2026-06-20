@@ -28,9 +28,9 @@ Her role as a "Glass Cannon" reflects her nature: high damage output and charism
 ## Connections
 
 - [[GaiaJuliaV6Campaign]] — Campaign overview
-- [[PraetorianHand]] — Her elite guard (Valerius, Felix, Titus, Cassius, Brutus)
-- [[Miasma]] — Divine blood mechanic
-- [[CollegeOfSwordsBard]] — Character class
-- [[SpartacusRevolt]] — Campaign context
+- [PraetorianHand](PraetorianHand.md) — Her elite guard (Valerius, Felix, Titus, Cassius, Brutus)
+- [Miasma](../concepts/Miasma.md) — Divine blood mechanic
+- [CollegeOfSwordsBard](../concepts/CollegeOfSwordsBard.md) — Character class
+- [SpartacusRevolt](../concepts/SpartacusRevolt.md) — Campaign context
 - [[RomanEmpire]] — Faction context
 - [[RomePaxJulia]] — Alternate history iteration

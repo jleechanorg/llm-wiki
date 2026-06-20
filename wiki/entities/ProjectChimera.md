@@ -25,9 +25,9 @@ A dynamic "neural network" of LLM agents where frontier models act as neurons an
 
 ## Connections
 
-- [[Jeffrey]] is the author
-- [[MultiAgentOrchestration]] — the coordination pattern used
-- [[GNN]] — the topology learning mechanism
-- [[CollectiveIntelligence]] — the emergent capability goal
-- [[LivingKnowledgeWiki]] — the killer application
-- [[TriadicCoEvolution]] — the self-improvement mechanism
+- [Jeffrey](Jeffrey.md) is the author
+- [MultiAgentOrchestration](../concepts/MultiAgentOrchestration.md) — the coordination pattern used
+- [GNN](../concepts/GNN.md) — the topology learning mechanism
+- [CollectiveIntelligence](../concepts/CollectiveIntelligence.md) — the emergent capability goal
+- [LivingKnowledgeWiki](../concepts/LivingKnowledgeWiki.md) — the killer application
+- [TriadicCoEvolution](../concepts/TriadicCoEvolution.md) — the self-improvement mechanism

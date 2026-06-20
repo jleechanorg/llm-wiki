@@ -31,5 +31,5 @@ def get_or_compute(key, compute):
 - Lock-free designs using atomic operations
 
 ## Related Concepts
-- [[TTLCache]] — TTL expiration with size limits
+- [TTLCache](TTLCache.md) — TTL expiration with size limits
 - [[CacheInvalidation]] — manual cache updates

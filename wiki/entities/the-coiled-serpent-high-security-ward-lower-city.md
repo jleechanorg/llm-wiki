@@ -10,13 +10,13 @@ total_scenes: 179
 
 ## Overview
 
-** The Coiled Serpent (High Security Ward), Lower City appears in 8 scenes across the [[nocturne-bg3-continued]] campaign.
+** The Coiled Serpent (High Security Ward), Lower City appears in 8 scenes across the [nocturne-bg3-continued](../sources/nocturne-bg3-continued.md) campaign.
 
 ## Description
 
 ** The Coiled Serpent (High Security Ward), Lower City is an entity from the nocturne-bg3-continued campaign.
 
 ## References
-- [[nocturne-bg3-continued]] — campaign overview
-- [[nocturne-bg3-continued-campaign]]
+- [nocturne-bg3-continued](../sources/nocturne-bg3-continued.md) — campaign overview
+- [nocturne-bg3-continued-campaign](../sources/nocturne-bg3-continued-campaign.md)
 

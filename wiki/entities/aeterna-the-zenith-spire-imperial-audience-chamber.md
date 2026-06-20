@@ -10,13 +10,13 @@ total_scenes: 500
 
 ## Overview
 
-** Aeterna - The Zenith Spire - Imperial Audience Chamber appears in 14 scenes across the [[dragon-knight-evil]] campaign.
+** Aeterna - The Zenith Spire - Imperial Audience Chamber appears in 14 scenes across the [dragon-knight-evil](../sources/dragon-knight-evil.md) campaign.
 
 ## Description
 
 ** Aeterna - The Zenith Spire - Imperial Audience Chamber is an entity from the dragon-knight-evil campaign.
 
 ## References
-- [[dragon-knight-evil]] — campaign overview
-- [[dragon-knight-evil-campaign]]
+- [dragon-knight-evil](../sources/dragon-knight-evil.md) — campaign overview
+- [dragon-knight-evil-campaign](../sources/dragon-knight-evil-campaign.md)
 

@@ -18,5 +18,5 @@ Testing mechanism that allows tests to run without real API credentials by using
 - Local development without key configuration
 
 ## Related
-- [[TestClient]] — the mock client used
-- [[BYOK]] — pattern being tested
+- [TestClient](TestClient.md) — the mock client used
+- [BYOK](BYOK.md) — pattern being tested

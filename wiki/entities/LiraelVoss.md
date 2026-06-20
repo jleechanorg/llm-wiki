@@ -18,5 +18,5 @@ Lirael Voss is a shipwright heiress in Baldur's Gate whose pride is reaching its
 
 ## Connections
 
-- [[SosukeAizen]] — manipulator
-- [[TheWhiteGarden]] — Aizen's base of operations
+- [SosukeAizen](SosukeAizen.md) — manipulator
+- [TheWhiteGarden](TheWhiteGarden.md) — Aizen's base of operations

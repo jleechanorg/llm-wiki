@@ -38,6 +38,6 @@ A trunk-based approach would have landed incremental pieces each day, each with 
 
 ## Connections
 
-- [[AgentDrift]] — long branches are the primary drift vector
+- [AgentDrift](AgentDrift.md) — long branches are the primary drift vector
 - [[LevelUpBugFixPostMortem20260418]] — key lesson from this case
-- [[BugClassification]] — classify first, then ship in small PRs per class
+- [BugClassification](BugClassification.md) — classify first, then ship in small PRs per class

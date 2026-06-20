@@ -7,14 +7,14 @@ last_updated: 2026-04-08
 ---
 
 ## Overview
-The Divine Bloodline Hierarchy is the social structure of the [[CelestialImperium]] that values civilization preservation through descent from divine bloodlines.
+The Divine Bloodline Hierarchy is the social structure of the [CelestialImperium](CelestialImperium.md) that values civilization preservation through descent from divine bloodlines.
 
 ## Key Facts
-- Used by: [[CelestialImperium]]
+- Used by: [CelestialImperium](CelestialImperium.md)
 - Basis: Divine bloodline descent
 - Values: Order, tradition, civilization preservation
-- Opposes: [[ShatteredHost]] philosophy
+- Opposes: [ShatteredHost](../entities/ShatteredHost.md) philosophy
 
 ## Related Concepts
-- [[CelestialImperium]] political structure
-- [[EmpyreanAffliction]]
+- [CelestialImperium](CelestialImperium.md) political structure
+- [EmpyreanAffliction](EmpyreanAffliction.md)

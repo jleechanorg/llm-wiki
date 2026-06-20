@@ -15,10 +15,10 @@ Coq is a general-purpose proof assistant based on the Calculus of Inductive Cons
 - **Long history**: Established tool with large user community and extensive libraries
 
 ## Connections
-- [[ProofAssistant]] — Coq is a specific proof assistant
-- [[FormalVerification]] — CompCert is a landmark formal verification project using Coq
-- [[Lean]] — Lean's type system is inspired by Coq's
+- [ProofAssistant](ProofAssistant.md) — Coq is a specific proof assistant
+- [FormalVerification](FormalVerification.md) — CompCert is a landmark formal verification project using Coq
+- [Lean](Lean.md) — Lean's type system is inspired by Coq's
 
 ## See Also
-- [[ProofAssistant]]
-- [[FormalVerification]]
+- [ProofAssistant](ProofAssistant.md)
+- [FormalVerification](FormalVerification.md)

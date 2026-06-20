@@ -20,5 +20,5 @@ LLM coding agents that can autonomously edit themselves and improve performance 
 - [[Context Bloat]]
 - [[Planner-Worker Hierarchies]]
 - [[Orchestration Architecture Research]]
-- [[AutoResearchExperiment]] — full 18-cycle autonomous meta-research experiment combining self-critique loops, canonical scoring, and product taste evaluation
-- [[SelfCritiqueVerificationLoop]] — 3-iteration-cap verification loop used in AutoResearchExperiment Phase 2
+- [AutoResearchExperiment](AutoResearchExperiment.md) — full 18-cycle autonomous meta-research experiment combining self-critique loops, canonical scoring, and product taste evaluation
+- [SelfCritiqueVerificationLoop](SelfCritiqueVerificationLoop.md) — 3-iteration-cap verification loop used in AutoResearchExperiment Phase 2

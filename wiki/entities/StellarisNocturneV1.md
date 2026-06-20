@@ -48,7 +48,7 @@ The terminal scene (106) returns to the Batiatus Estate on Aurelia, Level 5 Psio
 
 ## Connections
 
-- [[NocturneSosuke]] — the recurring Nocturne character archetype (sci-fi variant)
+- [NocturneSosuke](NocturneSosuke.md) — the recurring Nocturne character archetype (sci-fi variant)
 - [[GoldenSpire]] — primary location
-- [[Aeterna]] — Throne World
+- [Aeterna](Aeterna.md) — Throne World
 - [[CapuaPrime]] — Aurelian Pleasure Planet

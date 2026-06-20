@@ -18,8 +18,8 @@ ArgoCD is a declarative, GitOps continuous delivery tool for Kubernetes. It prov
 
 ## Connections
 
-- [[GitOps]] — ArgoCD is a GitOps deployment tool
-- [[GovernanceLayer]] — GitOps approval workflows provide governance for deployments
+- [GitOps](../concepts/GitOps.md) — ArgoCD is a GitOps deployment tool
+- [GovernanceLayer](../concepts/GovernanceLayer.md) — GitOps approval workflows provide governance for deployments
 
 ## See Also
-- [[GitOps]]
+- [GitOps](../concepts/GitOps.md)

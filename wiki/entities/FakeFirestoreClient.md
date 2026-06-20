@@ -13,5 +13,5 @@ Test utility from tests.fake_firestore that provides in-memory Firestore emulati
 Used to mock Firestore database operations in integration tests, allowing tests to run in CI/CD without actual Firebase dependency.
 
 ## Related
-- [[End2EndBaseTestCase]] - test base class using this mock
-- [[FirestoreService]] - the real service being mocked
+- [End2EndBaseTestCase](End2EndBaseTestCase.md) - test base class using this mock
+- [FirestoreService](FirestoreService.md) - the real service being mocked

@@ -49,12 +49,12 @@ When in doubt, prefer Option C (stash) — fully reversible, preserves all inten
 
 ## Sources
 
-- [[feedback-2026-06-19-integrate-hard-stop-uncommitted-state]] — primary source
+- [feedback-2026-06-19-integrate-hard-stop-uncommitted-state](../sources/feedback-2026-06-19-integrate-hard-stop-uncommitted-state.md) — primary source
 - CLAUDE.md "Worktree Isolation — Edit Your Copy, Not ~/.hermes/ Directly"
 
 ## Connections
 
-- [[IntegrateHardStopPattern]] — the trigger (hard-stop)
-- [[MergeReadinessGate]] — sibling protocol (gate 1 is "git status --short empty")
+- [IntegrateHardStopPattern](IntegrateHardStopPattern.md) — the trigger (hard-stop)
+- [MergeReadinessGate](MergeReadinessGate.md) — sibling protocol (gate 1 is "git status --short empty")
 - [[WorktreeIsolation]] — context: symlink warning
-- [[HermesLivenessProtocol]] — companion protocol in same session
+- [HermesLivenessProtocol](HermesLivenessProtocol.md) — companion protocol in same session

@@ -29,5 +29,5 @@ The **Social HP Challenge** is a game mechanic in World Architect that tracks NP
 | god/primordial | 15+ |
 
 ## Related
-- [[NarrativeResponse]] — schema containing social_hp_challenge field
-- [[NPCTierValidation]] — validation of tier values
+- [NarrativeResponse](NarrativeResponse.md) — schema containing social_hp_challenge field
+- [NPCTierValidation](NPCTierValidation.md) — validation of tier values

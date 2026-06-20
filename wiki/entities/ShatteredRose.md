@@ -13,7 +13,7 @@ The Shattered Rose is Nocturne Sosuke's pocket-dimension dominion carved from th
 ## Appears In
 
 - [[aizen-thay]] — The Court of the Shattered Rose; Aizen communicates via Obsidian Mirror; Honor Guard includes Lae'zel, Shadowheart, Astarion, Gale, Malcanthet
-- [[aizen-godhood-continued]] — Continuation of the Rose's influence
+- [aizen-godhood-continued](../sources/aizen-godhood-continued.md) — Continuation of the Rose's influence
 - [[nocturne-bg3]] — Referenced in Nocturne's backstory/aspiration
 
 ## Key Traits
@@ -26,5 +26,5 @@ The Shattered Rose is Nocturne Sosuke's pocket-dimension dominion carved from th
 
 ## Relationships Across Campaigns
 
-- [[NocturneSosuke]] — Creator and Sovereign
-- [[AizenSosuke]] — Material Anchor / "loophole in Ao's law"
+- [NocturneSosuke](NocturneSosuke.md) — Creator and Sovereign
+- [AizenSosuke](AizenSosuke.md) — Material Anchor / "loophole in Ao's law"

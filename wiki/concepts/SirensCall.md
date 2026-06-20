@@ -11,7 +11,7 @@ Siren's Call is the overarching thematic framework across multiple Nocturne camp
 
 ## Key Details
 - **Category:** Character Archetype / Theme
-- **Campaign(s):** [[nocturne-bg3-v4]], [[nocturne-bg3-v5]], [[nocturne-old-republic]], [[alexiel-swtor-campaign]]
+- **Campaign(s):** [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md), [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md), [nocturne-old-republic](../sources/nocturne-old-republic.md), [alexiel-swtor-campaign](../sources/alexiel-swtor-campaign.md)
 
 ## Key Mechanic: Siren's Leverage
 The "Siren's Leverage" trait provides a +2 bonus to Charisma checks against humanoids sexually or romantically attracted to females. This mechanic appears across BG3 Nocturne campaigns and represents the systematic exploitation of attraction as a tactical advantage.
@@ -23,7 +23,7 @@ The "Siren's Leverage" trait provides a +2 bonus to Charisma checks against huma
 - **Alexiel SW:TOR:** Subject 7, porcelain doll weapon navigating Jedi Academy
 
 ## Connections
-- [[SirensLeverage]] — the specific mechanical trait (+2 CHA checks against attracted humanoids)
-- [[CollegeOfPerdition]] — the Bard subclass enabling Siren powers in BG3
-- [[EssenceDevourer]] — the underlying power source in Old Republic
-- [[AbyssalSiren]] — the form the Siren archetype can take
+- [SirensLeverage](SirensLeverage.md) — the specific mechanical trait (+2 CHA checks against attracted humanoids)
+- [CollegeOfPerdition](CollegeOfPerdition.md) — the Bard subclass enabling Siren powers in BG3
+- [EssenceDevourer](EssenceDevourer.md) — the underlying power source in Old Republic
+- [AbyssalSiren](AbyssalSiren.md) — the form the Siren archetype can take

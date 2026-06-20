@@ -10,7 +10,7 @@ last_updated: 2026-04-12
 The Hunger Mechanic is a game system in the Nocturne BG3 Continued campaign that tracks the character's hunger state and provides stat bonuses accordingly. When the character is "Sated" (not hungry), they receive a +2 bonus to all ability scores, significantly enhancing their combat and social capabilities. When hungry, this bonus is lost, creating a resource management layer to the gameplay.
 
 ## How It Appears in the Campaigns
-- [[nocturne-bg3-continued-campaign]]: The Shadow Monarch currently has The Hunger (Sated) active, providing +2 to all stats. Her stats when sated are: STR 12 (+1), DEX 20 (+5), CON 16 (+3), INT 18 (+4), WIS 16 (+3), CHA 24 (+7). This is a key mechanical advantage that enables her to command such power
+- [nocturne-bg3-continued-campaign](../sources/nocturne-bg3-continued-campaign.md): The Shadow Monarch currently has The Hunger (Sated) active, providing +2 to all stats. Her stats when sated are: STR 12 (+1), DEX 20 (+5), CON 16 (+3), INT 18 (+4), WIS 16 (+3), CHA 24 (+7). This is a key mechanical advantage that enables her to command such power
 
 ## Mechanics
 - **Sated State:** +2 to all ability scores (STR, DEX, CON, INT, WIS, CHA)
@@ -22,7 +22,7 @@ The Hunger Mechanic is a game system in the Nocturne BG3 Continued campaign that
 The +2 stat bonus when sated transforms the Shadow Monarch from a powerful Level 8 Bard to an extraordinary force. With CHA 24 (+7), she can overwrite a True Soul's tadpole control with the Whispering Idol. With DEX 20 (+5), she becomes a formidable melee combatant with AC 18.
 
 ## Connections
-- [[ShadowMonarch]] — character subject to this mechanic
-- [[OmniAttunement]] — complementary mechanic
-- [[CollegeOfSwords]] — enables combat-focused build
-- [[MoonriseShip]] — where the power is demonstrated
+- [ShadowMonarch](../entities/ShadowMonarch.md) — character subject to this mechanic
+- [OmniAttunement](OmniAttunement.md) — complementary mechanic
+- [CollegeOfSwords](CollegeOfSwords.md) — enables combat-focused build
+- [MoonriseShip](../entities/MoonriseShip.md) — where the power is demonstrated

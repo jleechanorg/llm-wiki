@@ -18,9 +18,9 @@ CAMEL (Communicative Agents Framework) is a research framework (Guohao Li et al.
 
 ## Connections
 
-- [[MultiAgentOrchestration]] — CAMEL is a multi-agent framework based on role-playing
-- [[InceptionPrompting]] — CAMEL's core technique for multi-agent cooperation
-- [[MetaGPT]] — related multi-agent framework (also uses role-based agent design)
+- [MultiAgentOrchestration](../concepts/MultiAgentOrchestration.md) — CAMEL is a multi-agent framework based on role-playing
+- [InceptionPrompting](../concepts/InceptionPrompting.md) — CAMEL's core technique for multi-agent cooperation
+- [MetaGPT](MetaGPT.md) — related multi-agent framework (also uses role-based agent design)
 
 ## See Also
-- [[MultiAgentOrchestration]]
+- [MultiAgentOrchestration](../concepts/MultiAgentOrchestration.md)

@@ -33,6 +33,6 @@ if debug_mode and hasattr(structured_response, 'debug_info'):
 
 ## Related
 
-- [[RewardsBoxAtomicity]] — Atomicity invariants for rewards_box
-- [[LevelUpBug]] — Full bug chain context
-- [[SystemInstruction]] — System instruction handling
+- [RewardsBoxAtomicity](RewardsBoxAtomicity.md) — Atomicity invariants for rewards_box
+- [LevelUpBug](LevelUpBug.md) — Full bug chain context
+- [SystemInstruction](SystemInstruction.md) — System instruction handling

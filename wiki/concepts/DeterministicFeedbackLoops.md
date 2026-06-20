@@ -18,21 +18,21 @@ This follows the Spotify Honk pattern: "reduced flexibility increases predictabi
 
 ## Layer 2: Why This Matters as a Connection
 
-Deterministic Feedback Loops were not previously linked to [[VerificationLoop]], [[ProcessRewardModel]], or [[SkepticGate]] — they were described only in the context of agent orchestration. As a Layer 2 discovery, they bridge agent-orchestration patterns (inner loop) with the verification pipeline (outer loop). In the [[VerificationLoop]], deterministic checks are the fast-fail stage before expensive LLM-judged loops. [[SkepticGate]] validates that deterministic feedback artifacts exist and are fresh.
+Deterministic Feedback Loops were not previously linked to [VerificationLoop](VerificationLoop.md), [ProcessRewardModel](ProcessRewardModel.md), or [SkepticGate](SkepticGate.md) — they were described only in the context of agent orchestration. As a Layer 2 discovery, they bridge agent-orchestration patterns (inner loop) with the verification pipeline (outer loop). In the [VerificationLoop](VerificationLoop.md), deterministic checks are the fast-fail stage before expensive LLM-judged loops. [SkepticGate](SkepticGate.md) validates that deterministic feedback artifacts exist and are fresh.
 
 ## Layer 2 Connections
 
-- [[VerificationLoop]] — deterministic feedback loops are the fast-fail stage before expensive LLM-judged loops in the verification pipeline
-- [[ProcessRewardModel]] — PRM provides semi-deterministic step-level feedback (model-based but consistent)
-- [[SkepticGate]] — SkepticGate validates that deterministic feedback artifacts exist and are fresh
-- [[CI-Gates]] — deterministic checks are the implementation of fast-fail CI gate strategies
-- [[LLM-as-Judge-Pattern]] — complements LLM-judged feedback: deterministic for fast/cheap checks, LLM-judged for semantic evaluation
+- [VerificationLoop](VerificationLoop.md) — deterministic feedback loops are the fast-fail stage before expensive LLM-judged loops in the verification pipeline
+- [ProcessRewardModel](ProcessRewardModel.md) — PRM provides semi-deterministic step-level feedback (model-based but consistent)
+- [SkepticGate](SkepticGate.md) — SkepticGate validates that deterministic feedback artifacts exist and are fresh
+- [CI-Gates](CI-Gates.md) — deterministic checks are the implementation of fast-fail CI gate strategies
+- [LLM-as-Judge-Pattern](LLM-as-Judge-Pattern.md) — complements LLM-judged feedback: deterministic for fast/cheap checks, LLM-judged for semantic evaluation
 
 ## Related Concepts
 - [[Agent Orchestrator]] — provides deterministic reactions
 - [[LLM Judgment]] — called when deterministic routes exhaust
 - [[Harness Engineering]] — overall discipline
-- [[MetaHarness]] — Meta-Harness uses filesystem-based history to provide rich feedback (full code + traces + scores) rather than compressed summaries
+- [MetaHarness](MetaHarness.md) — Meta-Harness uses filesystem-based history to provide rich feedback (full code + traces + scores) rather than compressed summaries
 
 ## Examples
 - CI failed → auto-send to agent, 2 retries
@@ -46,4 +46,4 @@ This follows the Spotify Honk pattern: "reduced flexibility increases predictabi
 - [[Agent Orchestrator]] — provides these reactions
 - [[LLM Judgment]] — called when deterministic routes exhaust
 - [[Harness Engineering]] — overall discipline
-- [[MetaHarness]] — Meta-Harness uses filesystem-based history to provide rich feedback (full code + traces + scores) rather than compressed summaries
+- [MetaHarness](MetaHarness.md) — Meta-Harness uses filesystem-based history to provide rich feedback (full code + traces + scores) rather than compressed summaries

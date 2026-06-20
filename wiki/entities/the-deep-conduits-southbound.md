@@ -10,13 +10,13 @@ total_scenes: 474
 
 ## Overview
 
-** The Deep Conduits (Southbound) appears in 4 scenes across the [[rome-pax-julia]] campaign.
+** The Deep Conduits (Southbound) appears in 4 scenes across the [rome-pax-julia](../sources/rome-pax-julia.md) campaign.
 
 ## Description
 
 ** The Deep Conduits (Southbound) is an entity from the rome-pax-julia campaign.
 
 ## References
-- [[rome-pax-julia]] — campaign overview
-- [[rome-pax-julia-campaign]]
+- [rome-pax-julia](../sources/rome-pax-julia.md) — campaign overview
+- [rome-pax-julia-campaign](../sources/rome-pax-julia-campaign.md)
 

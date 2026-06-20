@@ -26,6 +26,6 @@ For the Gemini large structured token estimator, `3.45` fixed the PR #6809 1000-
 
 ## Related
 
-- [[TokenUtils]]
-- [[GeminiProvider]]
-- [[HarnessEvidenceRules]]
+- [TokenUtils](../entities/TokenUtils.md)
+- [GeminiProvider](../entities/GeminiProvider.md)
+- [HarnessEvidenceRules](HarnessEvidenceRules.md)

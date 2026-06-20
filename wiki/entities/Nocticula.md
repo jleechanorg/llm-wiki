@@ -12,8 +12,8 @@ Nocticula is a half-demon sorceress appearing in Frieren: Beyond Journey's End c
 
 ## Appears In
 
-- [[frieren-v1]] — First iteration; 124 entries; saves Frieren's party from demon ambush
-- [[nocticula-v2-frieren]] — 225 entries; youngest First-Class Mage in history; Serie has accepted her
+- [frieren-v1](../sources/frieren-v1.md) — First iteration; 124 entries; saves Frieren's party from demon ambush
+- [nocticula-v2-frieren](../sources/nocticula-v2-frieren.md) — 225 entries; youngest First-Class Mage in history; Serie has accepted her
 
 ## Key Traits
 
@@ -27,6 +27,6 @@ Nocticula is a half-demon sorceress appearing in Frieren: Beyond Journey's End c
 
 ## Relationships Across Campaigns
 
-- [[SarielCrossCampaign]] — Parallel archetype (masked level, FBI/vigilante double life, prodigy beauty)
-- [[VisenyaBelaerys]] — Parallel (Ascension Meter ≈ Mana Reveal; hiding true power)
-- [[Alexiel]] — Parallel (Null/secret prodigy; the mask that hides god-tier power)
+- [SarielCrossCampaign](SarielCrossCampaign.md) — Parallel archetype (masked level, FBI/vigilante double life, prodigy beauty)
+- [VisenyaBelaerys](VisenyaBelaerys.md) — Parallel (Ascension Meter ≈ Mana Reveal; hiding true power)
+- [Alexiel](Alexiel.md) — Parallel (Null/secret prodigy; the mask that hides god-tier power)

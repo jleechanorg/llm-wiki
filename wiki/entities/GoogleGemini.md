@@ -9,4 +9,4 @@ last_updated: 2026-04-08
 Google's Gemini LLM API. RealServiceProvider uses it via get_gemini() to create actual client instances. Tests verify client creation succeeds or fails gracefully on auth issues.
 
 ## Related
-- [[RealServiceProvider]] — creates Gemini client
+- [RealServiceProvider](RealServiceProvider.md) — creates Gemini client

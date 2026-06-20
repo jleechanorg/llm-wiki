@@ -30,9 +30,9 @@ A coding agent is an AI system capable of autonomously performing software devel
 
 ## Connections
 
-- [[AgenticCoding]] — the practice coding agents embody
-- [[AgenticProposer]] — the specific coding agent in Meta-Harness
-- [[TerminalBench]] — benchmark for evaluating coding agents
-- [[TerminalBench-2]] — the version where Meta-Harness achieved #1
-- [[MetaHarness]] — uses coding agents for harness optimization
-- [[SelfImproving]] — coding agents that improve through feedback
+- [AgenticCoding](AgenticCoding.md) — the practice coding agents embody
+- [AgenticProposer](AgenticProposer.md) — the specific coding agent in Meta-Harness
+- [TerminalBench](TerminalBench.md) — benchmark for evaluating coding agents
+- [TerminalBench-2](TerminalBench-2.md) — the version where Meta-Harness achieved #1
+- [MetaHarness](MetaHarness.md) — uses coding agents for harness optimization
+- [SelfImproving](SelfImproving.md) — coding agents that improve through feedback

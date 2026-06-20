@@ -10,13 +10,13 @@ total_scenes: 49
 
 ## Overview
 
-** Shadowfell Sanctuary appears in 41 scenes across the [[shadow-heart]] campaign.
+** Shadowfell Sanctuary appears in 41 scenes across the [shadow-heart](../sources/shadow-heart.md) campaign.
 
 ## Description
 
 ** Shadowfell Sanctuary is an entity from the shadow-heart campaign.
 
 ## References
-- [[shadow-heart]] — campaign overview
-- [[shadow-heart-campaign]]
+- [shadow-heart](../sources/shadow-heart.md) — campaign overview
+- [shadow-heart-campaign](../sources/shadow-heart-campaign.md)
 

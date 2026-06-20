@@ -16,5 +16,5 @@ The six ability scores in D&D 5e: Strength (STR), Dexterity (DEX), Constitution 
   - Score 20 = +5 modifier
 
 ## Related Concepts
-- [[ProficiencyBonus]] — separate from ability modifiers
-- [[SpellcastingAbility]] — uses INT/WIS/CHA for spell save DC and attack
+- [ProficiencyBonus](ProficiencyBonus.md) — separate from ability modifiers
+- [SpellcastingAbility](SpellcastingAbility.md) — uses INT/WIS/CHA for spell save DC and attack

@@ -15,5 +15,5 @@ Entity mention tracking is the process of extracting and cataloging all named en
 - Enables downstream systems to track what entities are active in current scene
 
 ## Related Concepts
-- [[Structured Fields]] — the schema field for entity mentions
+- [Structured Fields](Structured Fields.md) — the schema field for entity mentions
 - [[Entity Name Sanitization]] — safe ID generation for tracked entities

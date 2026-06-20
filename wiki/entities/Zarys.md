@@ -13,5 +13,5 @@ Zarys is a Zhentarim contact in the Nocturne Post BG3 Zhent campaign. They serve
 As a contact, Zarys represents the potential path to Zhentarim affiliation and provides quest hooks for the criminal enterprise expansion storyline.
 
 ## Connections
-- [[NocturnePostBg3Zhent]] — Contact for
-- [[Zhentarim]] — Organization affiliation
+- [NocturnePostBg3Zhent](NocturnePostBg3Zhent.md) — Contact for
+- [Zhentarim](Zhentarim.md) — Organization affiliation

@@ -23,5 +23,5 @@ Mechanisms to validate user input and display errors when validation fails, prev
 5. Save is blocked until valid
 
 ## Related Concepts
-- [[ClickToEdit]] — the pattern using this validation
+- [ClickToEdit](ClickToEdit.md) — the pattern using this validation
 - [[VisualFeedback]] — error states as visual feedback

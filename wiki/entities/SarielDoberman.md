@@ -24,9 +24,9 @@ Sariel speaks softly with flawless etiquette, presenting a gentle exterior while
 Protagonist of the doberman campaign, set in Seoul, South Korea, adapting the K-drama "Military Prosecutor Doberman."
 
 ## Connections
-- [[doberman-campaign]] — source campaign
-- [[Seoul]] — location
-- [[IMDefense]] — employer/faction
-- [[CollegeOfSwordsBard]] — character class
-- [[NohTaenam]] — direct superior
-- [[NohHwayoung]] — leader of IM Defense
+- [doberman-campaign](../sources/doberman-campaign.md) — source campaign
+- [Seoul](Seoul.md) — location
+- [IMDefense](IMDefense.md) — employer/faction
+- [CollegeOfSwordsBard](../concepts/CollegeOfSwordsBard.md) — character class
+- [NohTaenam](NohTaenam.md) — direct superior
+- [NohHwayoung](NohHwayoung.md) — leader of IM Defense

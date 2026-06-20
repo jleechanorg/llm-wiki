@@ -89,11 +89,11 @@ date: YYYY-MM-DD
 - **Key features**: 
 
 ## Connections
-- [[RelatedConcept]] — relationship
-- [[RelatedEntity]] — relationship
+- [RelatedConcept](../concepts/RelatedConcept.md) — relationship
+- [RelatedEntity](RelatedEntity.md) — relationship
 
 ## See Also
-- [[RelatedConcept]]
+- [RelatedConcept](../concepts/RelatedConcept.md)
 ```
 
 **Concept page template:**
@@ -120,9 +120,15 @@ date: YYYY-MM-DD
 How this concept relates to the BFS root topic.
 
 ## See Also
-- [[RelatedEntity]]
-- [[RelatedConcept]]
+- [RelatedEntity](../entities/RelatedEntity.md)
+- [RelatedConcept](RelatedConcept.md)
 ```
+
+**GitHub link rule**: All links MUST use `[Name](path.md)` format — NEVER `[[wikilinks]]`.
+`[[wikilinks]]` render as plain text on github.com. Relative path conventions:
+- Entity page linking to concept: `../concepts/Name.md`
+- Concept page linking to entity: `../entities/Name.md`
+- Same-directory link: just `Name.md`
 
 ### Phase 6: Update index
 

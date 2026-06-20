@@ -20,6 +20,6 @@ Software engineering pattern where duplicate or similar code across multiple mod
 - Use delegation (re-export) patterns where appropriate
 
 ## Related Concepts
-- [[FunctionDelegation]] — pattern for forwarding calls
+- [FunctionDelegation](FunctionDelegation.md) — pattern for forwarding calls
 - [[DRYPrinciple]] — Don't Repeat Yourself
 - [[ModuleRefactoring]] — structural code changes

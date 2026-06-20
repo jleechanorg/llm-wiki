@@ -19,6 +19,6 @@ Google Cloud Logging (formerly Stackdriver Logging) provides centralized logging
 The centralized logging utility outputs to Cloud Logging via stdout/stderr, which is the standard mechanism for containerized applications on GCP. Combined with file logging to /tmp for local development.
 
 ## Connections
-- [[PythonLogging]] — underlying logging mechanism that writes to stdout/stderr
+- [PythonLogging](PythonLogging.md) — underlying logging mechanism that writes to stdout/stderr
 - [[GunicornProductionConfiguration]] — web server often deployed on GCP with Cloud Logging integration
-- [[FirestoreService]] — GCP service that would use Cloud Logging for operational visibility
+- [FirestoreService](../entities/FirestoreService.md) — GCP service that would use Cloud Logging for operational visibility

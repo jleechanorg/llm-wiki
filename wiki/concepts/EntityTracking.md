@@ -26,6 +26,6 @@ Entities use standardized ID format:
 - Fix: ENTITY_TRACKING_TOKEN_RESERVE budgets ~3,500 tokens in scaffold calculation
 
 ## Connections
-- [[EntityIDFormat]] — standardization pattern for entity IDs
-- [[SceneManifest]] — per-scene entity data structure
-- [[EntityTrackingBudget]] — token budgeting fix
+- [EntityIDFormat](EntityIDFormat.md) — standardization pattern for entity IDs
+- [SceneManifest](SceneManifest.md) — per-scene entity data structure
+- [EntityTrackingBudget](EntityTrackingBudget.md) — token budgeting fix

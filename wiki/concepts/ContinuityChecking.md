@@ -23,6 +23,6 @@ If an entity was marked with "bandaged ear" in a previous turn, the continuity c
 Prevents narrative desynchronization where characters appear with inconsistent physical states across turns.
 
 ## Related Concepts
-- [[EntityContext]] — stores physical_markers for continuity
-- [[NarrativeSyncValidator]] — implements continuity checking
-- [[ValidationResult]] — reports continuity issues as warnings
+- [EntityContext](EntityContext.md) — stores physical_markers for continuity
+- [NarrativeSyncValidator](NarrativeSyncValidator.md) — implements continuity checking
+- [ValidationResult](ValidationResult.md) — reports continuity issues as warnings

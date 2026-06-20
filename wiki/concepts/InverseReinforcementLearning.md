@@ -21,6 +21,6 @@ Inverse Reinforcement Learning (IRL) learns reward functions from observed human
 IRL-style learning from feedback is exactly what Grok's critique #3 calls for — governance rules that learn from human corrections rather than being statically specified. RLAIF uses a similar principle for AI feedback.
 
 ## See Also
-- [[ValueAlignment]]
+- [ValueAlignment](ValueAlignment.md)
 - [[CIRL]]
-- [[RLAIF]]
+- [RLAIF](RLAIF.md)

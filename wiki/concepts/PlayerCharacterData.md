@@ -28,5 +28,5 @@ def _get_player_character_data(game_state):
 - Resources — player resources (health, mana, etc.)
 
 ## Related Concepts
-- [[GameState]] — parent structure
-- [[SessionHeader]] — uses this data for display
+- [GameState](GameState.md) — parent structure
+- [SessionHeader](SessionHeader.md) — uses this data for display

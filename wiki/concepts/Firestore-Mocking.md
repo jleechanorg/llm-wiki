@@ -15,6 +15,6 @@ Testing technique using FakeFirestoreClient to emulate Google Firestore database
 - Returns in-memory data matching Firestore API structure
 
 ## Related
-- [[FakeFirestoreClient]] - the mock implementation
-- [[FirestoreService]] - the real service being mocked
+- [FakeFirestoreClient](../entities/FakeFirestoreClient.md) - the mock implementation
+- [FirestoreService](../entities/FirestoreService.md) - the real service being mocked
 - [[End-to-End Testing]] - where this is used

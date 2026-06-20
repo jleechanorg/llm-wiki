@@ -15,5 +15,5 @@ Google Cloud Firestore NoSQL database. Used for storing user settings in the app
 - **Related Functions**: get_user_settings, update_user_settings
 
 ## Connections
-- [[Firebase]] — often paired for auth+data
-- [[MCP]] — data persistence layer
+- [Firebase](Firebase.md) — often paired for auth+data
+- [MCP](MCP.md) — data persistence layer

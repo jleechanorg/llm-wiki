@@ -10,13 +10,13 @@ total_scenes: 315
 
 ## Overview
 
-** Wyrm's Rock - Ambush Site (Lead Wagon) appears in 3 scenes across the [[old-noctune-merc-bg3]] campaign.
+** Wyrm's Rock - Ambush Site (Lead Wagon) appears in 3 scenes across the [old-noctune-merc-bg3](../sources/old-noctune-merc-bg3.md) campaign.
 
 ## Description
 
 ** Wyrm's Rock - Ambush Site (Lead Wagon) is an entity from the old-noctune-merc-bg3 campaign.
 
 ## References
-- [[old-noctune-merc-bg3]] — campaign overview
+- [old-noctune-merc-bg3](../sources/old-noctune-merc-bg3.md) — campaign overview
 - [[old-noctune-merc-bg3-campaign]]
 

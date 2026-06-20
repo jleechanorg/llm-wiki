@@ -15,5 +15,5 @@ Sample player character used in end-to-end test mock data. Level 3 dwarf warrior
 - String ID: pc_thorin_001
 
 ## Related
-- [[EpicDragonQuest]] - campaign containing this character
-- [[GameState]] - data structure containing this character
+- [EpicDragonQuest](EpicDragonQuest.md) - campaign containing this character
+- [GameState](GameState.md) - data structure containing this character

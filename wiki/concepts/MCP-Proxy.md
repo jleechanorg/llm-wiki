@@ -7,7 +7,7 @@ last_updated: 2026-04-08
 ---
 
 ## Description
-Model Context Protocol (MCP) proxy pattern that provides a secure gateway to MCP tool implementations. The [[WorldAIToolsProxy]] class implements this pattern for WorldAI tools.
+Model Context Protocol (MCP) proxy pattern that provides a secure gateway to MCP tool implementations. The [WorldAIToolsProxy](../entities/WorldAIToolsProxy.md) class implements this pattern for WorldAI tools.
 
 ## Key Features
 - JSON-RPC 2.0 interface for tool invocation

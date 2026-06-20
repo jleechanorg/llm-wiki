@@ -19,5 +19,5 @@ Current stack: partial session persistence and heartbeat tracking, but no AO-gra
 Bead ORCH-4yy: Session metadata + archive/restore parity in Python orchestration.
 
 ## Connections
-- [[AgentOrchestrator]] — reference
-- [[jleechanclaw]] — implementation target
+- [AgentOrchestrator](../entities/AgentOrchestrator.md) — reference
+- [jleechanclaw](../entities/jleechanclaw.md) — implementation target

@@ -23,5 +23,5 @@ Verifier launch uses Codex CLI with preflight validation that checks environment
 3. Or: catch preflight failure and fall back to another verifier CLI
 
 ## Connections
-- [[PreflightGate]] — preflight validation pattern
-- [[AgentAdapter]] — CLI adapter that should normalize preflight behavior
+- [PreflightGate](PreflightGate.md) — preflight validation pattern
+- [AgentAdapter](AgentAdapter.md) — CLI adapter that should normalize preflight behavior

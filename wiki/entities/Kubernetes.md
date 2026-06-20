@@ -15,5 +15,5 @@ Container orchestration platform supported for WorldArchitect.AI deployment with
 - **Use Case**: Self-managed deployment option
 
 ## Connections
-- [[WorldArchitectAI]] — can deploy to Kubernetes
-- [[Gunicorn]] — runs in Kubernetes pods
+- [WorldArchitectAI](WorldArchitectAI.md) — can deploy to Kubernetes
+- [Gunicorn](Gunicorn.md) — runs in Kubernetes pods

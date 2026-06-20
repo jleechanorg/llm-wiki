@@ -24,8 +24,8 @@ Prompt technique requiring the LLM to output valid JSON with a specific schema. 
 - location_confirmed: must match manifest
 
 ## Connections
-- [[NarrativeResponseSchema]] — the schema being enforced
-- [[EntityManifest]] — validates entities_mentioned against
+- [NarrativeResponseSchema](NarrativeResponseSchema.md) — the schema being enforced
+- [EntityManifest](EntityManifest.md) — validates entities_mentioned against
 - [[LLMProviderColdStartOptimization]] — can affect latency
 
 ## Source Evidence

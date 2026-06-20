@@ -69,6 +69,6 @@ Together: Layer 2 is primary (fast), Layer 1 is fallback (resilient), Layer 3 is
 3. **Layer 3** (file upstream PR) — long-term, clean, upstreamable
 
 ## Related Concepts
-- [[ProactiveSessionRecovery]]
-- [[AutonomousAgentLoop]]
-- [[HarnessEngineering]]
+- [ProactiveSessionRecovery](ProactiveSessionRecovery.md)
+- [AutonomousAgentLoop](AutonomousAgentLoop.md)
+- [HarnessEngineering](HarnessEngineering.md)

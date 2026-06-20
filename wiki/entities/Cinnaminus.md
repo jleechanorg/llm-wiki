@@ -17,5 +17,5 @@ In the Gaia Julia V2 campaign (The Golden Republic / Pax Julia Alternate), Cinna
 
 - [[Gaia Julia V2 Campaign]] — source campaign
 - [[Gaia Julia Caesar]] — leader
-- [[Voros]] — fellow companion
+- [Voros](Voros.md) — fellow companion
 - [[The Twenty]] — elite guard group

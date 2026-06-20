@@ -10,13 +10,13 @@ total_scenes: 417
 
 ## Overview
 
-** Ashford Tourney Grounds - The Lists appears in 9 scenes across the [[visenya-v4]] campaign.
+** Ashford Tourney Grounds - The Lists appears in 9 scenes across the [visenya-v4](../sources/visenya-v4.md) campaign.
 
 ## Description
 
 ** Ashford Tourney Grounds - The Lists is an entity from the visenya-v4 campaign.
 
 ## References
-- [[visenya-v4]] — campaign overview
+- [visenya-v4](../sources/visenya-v4.md) — campaign overview
 - [[visenya-v4-campaign]]
 

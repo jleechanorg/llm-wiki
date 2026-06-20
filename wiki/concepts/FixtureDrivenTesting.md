@@ -21,5 +21,5 @@ A testing approach where test scenarios are defined in external data files (JSON
 - Test iterates over scenarios, applying each to validate behavior
 
 ## Related Concepts
-- [[TDD]] — Test-Driven Development
+- [TDD](TDD.md) — Test-Driven Development
 - [[InvariantTesting]] — testing system invariants rather than implementation details

@@ -16,6 +16,6 @@ The process in Pass 2 of the dual-pass verification system where missing entitie
 - Results cached for future reference and replaced via `replaceStoryEntry()`
 
 ## Related Concepts
-- [[DualPassVerification]] — the parent system
-- [[EntityTracking]] — the broader capability being maintained
-- [[GracefulDegradation]] — fallback handling if enhancement fails
+- [DualPassVerification](DualPassVerification.md) — the parent system
+- [EntityTracking](EntityTracking.md) — the broader capability being maintained
+- [GracefulDegradation](GracefulDegradation.md) — fallback handling if enhancement fails

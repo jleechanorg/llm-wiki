@@ -10,13 +10,13 @@ total_scenes: 596
 
 ## Overview
 
-** High Hall - Grand Duke's Sanctum appears in 9 scenes across the [[aizen-bg3]] campaign.
+** High Hall - Grand Duke's Sanctum appears in 9 scenes across the [aizen-bg3](../sources/aizen-bg3.md) campaign.
 
 ## Description
 
 ** High Hall - Grand Duke's Sanctum is an entity from the aizen-bg3 campaign.
 
 ## References
-- [[aizen-bg3]] — campaign overview
-- [[aizen-bg3-campaign]]
+- [aizen-bg3](../sources/aizen-bg3.md) — campaign overview
+- [aizen-bg3-campaign](../sources/aizen-bg3-campaign.md)
 

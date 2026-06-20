@@ -10,13 +10,13 @@ total_scenes: 490
 
 ## Overview
 
-** The Maedi Frontier / High King's Hold appears in 11 scenes across the [[aurelius-julius-caesar-v1]] campaign.
+** The Maedi Frontier / High King's Hold appears in 11 scenes across the [aurelius-julius-caesar-v1](../sources/aurelius-julius-caesar-v1.md) campaign.
 
 ## Description
 
 ** The Maedi Frontier / High King's Hold is an entity from the aurelius-julius-caesar-v1 campaign.
 
 ## References
-- [[aurelius-julius-caesar-v1]] — campaign overview
-- [[aurelius-julius-caesar-v1-campaign]]
+- [aurelius-julius-caesar-v1](../sources/aurelius-julius-caesar-v1.md) — campaign overview
+- [aurelius-julius-caesar-v1-campaign](../sources/aurelius-julius-caesar-v1-campaign.md)
 

@@ -16,7 +16,7 @@ Noh Tae-nam holds a position at IM Defense, reporting directly to his mother Noh
 Characterized as petulant and prone to excess, Noh Tae-nam lacks the steel spine required for leadership in the cutthroat world of IM Defense. His only redeeming quality appears to be his biological connection to the organization's true power.
 
 ## Connections
-- [[doberman-campaign]] — source campaign
-- [[NohHwayoung]] — his mother and superior
-- [[Sariel]] — his direct superior at IM Defense
-- [[IMDefense]] — the organization
+- [doberman-campaign](../sources/doberman-campaign.md) — source campaign
+- [NohHwayoung](NohHwayoung.md) — his mother and superior
+- [Sariel](Sariel.md) — his direct superior at IM Defense
+- [IMDefense](IMDefense.md) — the organization

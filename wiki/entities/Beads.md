@@ -17,9 +17,9 @@ Beads is an issue tracking system used for managing evaluation feedback and game
 - **Economic Balancing** (Priority 3): Income formulas, upkeep costs
 
 ## Related Concepts
-- [[GameStateManagement]] — overall game state handling
-- [[PromptEngineering]] — reducing hallucinations via prompts
-- [[CampaignCoherence]] — maintaining narrative consistency
+- [GameStateManagement](../concepts/GameStateManagement.md) — overall game state handling
+- [PromptEngineering](../concepts/PromptEngineering.md) — reducing hallucinations via prompts
+- [CampaignCoherence](../concepts/CampaignCoherence.md) — maintaining narrative consistency
 
 ## Operational Pattern: Executable Follow-up Beads
 

@@ -11,4 +11,4 @@ File in `mvp_site/` that contains `parse_structured_response()` function. Modifi
 
 ## Related
 - [[CodeExecutionJSONParsingFixVerification]] — fix verified against this file
-- [[CodeExecutionJSONParsingTests]] — test file for this fix
+- [CodeExecutionJSONParsingTests](CodeExecutionJSONParsingTests.md) — test file for this fix

@@ -10,13 +10,13 @@ total_scenes: 283
 
 ## Overview
 
-** Command Grotto, Sacred Grove Sanctuary appears in 3 scenes across the [[aurelius-caesar-v2]] campaign.
+** Command Grotto, Sacred Grove Sanctuary appears in 3 scenes across the [aurelius-caesar-v2](../sources/aurelius-caesar-v2.md) campaign.
 
 ## Description
 
 ** Command Grotto, Sacred Grove Sanctuary is an entity from the aurelius-caesar-v2 campaign.
 
 ## References
-- [[aurelius-caesar-v2]] — campaign overview
-- [[aurelius-caesar-v2-campaign]]
+- [aurelius-caesar-v2](../sources/aurelius-caesar-v2.md) — campaign overview
+- [aurelius-caesar-v2-campaign](../sources/aurelius-caesar-v2-campaign.md)
 

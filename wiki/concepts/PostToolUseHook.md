@@ -37,6 +37,6 @@ Configured in `.claude/settings.json`:
 - Quality gates and validation
 
 ## Related Concepts
-- [[CommandOutputTrimmer]] — example of PostToolUse hook application
+- [CommandOutputTrimmer](CommandOutputTrimmer.md) — example of PostToolUse hook application
 - [[PreToolUseHook]] — fires before tool execution
 - [[ClaudeCodeHooksSystem]] — the overall hook architecture

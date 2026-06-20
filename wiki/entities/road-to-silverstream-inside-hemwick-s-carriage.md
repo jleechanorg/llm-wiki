@@ -10,13 +10,13 @@ total_scenes: 128
 
 ## Overview
 
-** Road to Silverstream (inside Hemwick's Carriage) appears in 30 scenes across the [[witcher-strat]] campaign.
+** Road to Silverstream (inside Hemwick's Carriage) appears in 30 scenes across the [witcher-strat](../sources/witcher-strat.md) campaign.
 
 ## Description
 
 ** Road to Silverstream (inside Hemwick's Carriage) is an entity from the witcher-strat campaign.
 
 ## References
-- [[witcher-strat]] — campaign overview
+- [witcher-strat](../sources/witcher-strat.md) — campaign overview
 - [[witcher-strat-campaign]]
 

@@ -22,6 +22,6 @@ Continuity Safeguards are defensive rules enforced by the Preventive Guards modu
 The `enforce_preventive_guards` function applies ALL safeguards to every state update, returning an augmented state_changes dict. Callers MUST apply these changes to game state.
 
 ## Related Concepts
-- [[StateIntegrityEnforcement]] — The broader category of integrity enforcement
-- [[PreventiveGuards]] — The module implementing these safeguards
-- [[AntiBlitzProtection]] — Specific safeguard against Social HP exploits
+- [StateIntegrityEnforcement](StateIntegrityEnforcement.md) — The broader category of integrity enforcement
+- [PreventiveGuards](../entities/PreventiveGuards.md) — The module implementing these safeguards
+- [AntiBlitzProtection](AntiBlitzProtection.md) — Specific safeguard against Social HP exploits

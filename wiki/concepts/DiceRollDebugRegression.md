@@ -30,7 +30,7 @@ On current main, the game UI does not render dice roll entries or debug messages
 
 Backend payload emission: `debug_info` and dice rolls under `action_resolution.mechanics.rolls` are present in streaming `done` payloads but not being emitted in `unified_response` for narrative-only turns.
 
-This is related to [[StructureDriftPattern]] — `debug_info` was nested inside `if hasattr(structured_response, "rewards_box"):` block (PR #6204 fixed this), but the regression predates the checkpoint that introduced that nesting.
+This is related to [StructureDriftPattern](StructureDriftPattern.md) — `debug_info` was nested inside `if hasattr(structured_response, "rewards_box"):` block (PR #6204 fixed this), but the regression predates the checkpoint that introduced that nesting.
 
 ## Key Files to Check
 
@@ -40,6 +40,6 @@ This is related to [[StructureDriftPattern]] — `debug_info` was nested inside 
 
 ## Connections
 
-- [[StructureDriftPattern]] — Related structural issue
-- [[dice_rolls]] — Dice roll display
-- [[LevelUpBug]] — Related bug chain
+- [StructureDriftPattern](StructureDriftPattern.md) — Related structural issue
+- [dice_rolls](dice_rolls.md) — Dice roll display
+- [LevelUpBug](LevelUpBug.md) — Related bug chain

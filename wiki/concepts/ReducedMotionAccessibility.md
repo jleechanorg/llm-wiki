@@ -34,6 +34,6 @@ Supported in all modern browsers. The setting is exposed via the `prefers-reduce
 
 ## Related
 
-- [[CSSAnimations]] — animations that should respect reduced motion
-- [[JavaScriptAnimation]] — JavaScript animations that should respect reduced motion
-- [[PerformanceOptimization]] — performance considerations including accessibility
+- [CSSAnimations](CSSAnimations.md) — animations that should respect reduced motion
+- [JavaScriptAnimation](JavaScriptAnimation.md) — JavaScript animations that should respect reduced motion
+- [PerformanceOptimization](PerformanceOptimization.md) — performance considerations including accessibility

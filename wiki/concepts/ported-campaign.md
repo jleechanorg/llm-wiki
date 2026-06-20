@@ -21,4 +21,4 @@ The campaign was authored on the Voyage / Larion platform during a livestream, t
 ## Connections
 - [[voyage-first-dev-playthrough-campaign]] — first ported campaign
 - [[wiki-ingest]] — the workflow that produces ported campaigns
-- [[voyage-platform]] — most ported campaigns will likely be Voyage / AI Dungeon transcripts
+- [voyage-platform](voyage-platform.md) — most ported campaigns will likely be Voyage / AI Dungeon transcripts

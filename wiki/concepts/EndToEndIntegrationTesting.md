@@ -17,5 +17,5 @@ Testing methodology that validates the complete application stack from API endpo
 
 ## Connection to E2E Tests
 - [[NPC Death State Persistence E2E Tests]] — end-to-end test for death state persistence
-- [[End2EndBaseTestCase]] — base class providing test infrastructure
-- [[FakeFirestoreClient]], [[FakeLLMResponse]] — external service mocks
+- [End2EndBaseTestCase](../entities/End2EndBaseTestCase.md) — base class providing test infrastructure
+- [FakeFirestoreClient](../entities/FakeFirestoreClient.md), [FakeLLMResponse](../entities/FakeLLMResponse.md) — external service mocks

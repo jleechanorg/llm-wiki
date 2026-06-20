@@ -30,10 +30,10 @@ PR 6737 adds the artifact-publication corollary: it is not enough for the operat
 
 ## Connections
 
-- [[EvidenceBundles]] - Evidence must include provenance tied to the current SHA.
-- [[SkepticGate]] - Skeptic verdicts are per-SHA.
-- [[GitHubPathFilterWindow]] - Preview deploy proof can become stale or absent for the same reason.
-- [[EvidenceSkepticalReview]] - Reviewers must inspect artifacts, not accept local-only claims.
+- [EvidenceBundles](EvidenceBundles.md) - Evidence must include provenance tied to the current SHA.
+- [SkepticGate](SkepticGate.md) - Skeptic verdicts are per-SHA.
+- [GitHubPathFilterWindow](GitHubPathFilterWindow.md) - Preview deploy proof can become stale or absent for the same reason.
+- [EvidenceSkepticalReview](EvidenceSkepticalReview.md) - Reviewers must inspect artifacts, not accept local-only claims.
 
 ## 2026-05-05 Update — CI Auto-Commit Staleness
 

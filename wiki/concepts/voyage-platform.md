@@ -13,5 +13,5 @@ The AI-orchestrated TTRPG platform that ran the Alexiel — Larion campaign. Sup
 - The platform's UI artifacts (w_chevron_right, w_user, w_open_book, w_gear, w_globe, w_comment, w_mute) appear throughout the export and should be stripped before wiki ingest
 
 ## Connections
-- [[alexiel-larion]] — single-player campaign example
+- [alexiel-larion](../sources/alexiel-larion.md) — single-player campaign example
 - [[PortedCampaign]] — workflow for getting Voyage exports into the wiki

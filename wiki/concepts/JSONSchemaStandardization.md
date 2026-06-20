@@ -19,5 +19,5 @@ Practice of defining consistent JSON input/output formats across all API endpoin
 **Error Response:** `{success: false, error: string, status_code: number}`
 
 ## Related Concepts
-- [[UnifiedAPIPattern]]
-- [[ErrorHandling]]
+- [UnifiedAPIPattern](UnifiedAPIPattern.md)
+- [ErrorHandling](ErrorHandling.md)

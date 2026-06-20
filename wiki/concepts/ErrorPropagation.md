@@ -16,6 +16,6 @@ The pattern of errors flowing through multiple layers of an application stack, b
 - **Interaction errors** — operations on non-existent resources
 
 ## Related Concepts
-- [[ErrorHandling]] — broader discipline of handling exceptions
+- [ErrorHandling](ErrorHandling.md) — broader discipline of handling exceptions
 - [[HTTPStatusCodes]] — standardized error code system
-- [[MCPClient]] — layer responsible for error translation
+- [MCPClient](../entities/MCPClient.md) — layer responsible for error translation

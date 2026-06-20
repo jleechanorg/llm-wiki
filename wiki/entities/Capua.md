@@ -20,8 +20,8 @@ Capua was famously associated with the Spartacus revolt — the city was where S
 
 ## Connections
 
-- [[GaiaJuliaCaesar]] — Player character
+- [GaiaJuliaCaesar](GaiaJuliaCaesar.md) — Player character
 - [[GaiaJuliaV6Campaign]] — Campaign
 - [[MarketSquareCapua]] — Specific location
-- [[SpartacusRevolt]] — Historical context
+- [SpartacusRevolt](../concepts/SpartacusRevolt.md) — Historical context
 - [[RomanEmpire]] — Political context

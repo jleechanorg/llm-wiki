@@ -19,6 +19,6 @@ Gate 7 is NOT the alignment gate — that is Gate 8. Gate 7 focuses on:
 
 ## See Also
 
-- [[skeptic-gate-8]] — Alignment gate (goals/tenets/scope/diff/evidence)
-- [[skeptic-rule-12]] — Goals verification rule
+- [skeptic-gate-8](skeptic-gate-8.md) — Alignment gate (goals/tenets/scope/diff/evidence)
+- [skeptic-rule-12](skeptic-rule-12.md) — Goals verification rule
 - [[skeptic-agent]]

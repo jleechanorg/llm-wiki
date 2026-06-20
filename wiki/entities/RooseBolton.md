@@ -19,6 +19,6 @@ Roose Bolton (Level 12) is the lord of the Dreadfort and Visenya's key military 
 - **Endgame betrayal**: Secret correspondence with Tywin Lannister and the Night King
 
 ## Connections
-- [[VisenyaTargaryen]] — military ally turned potential betrayer
+- [VisenyaTargaryen](VisenyaTargaryen.md) — military ally turned potential betrayer
 - [[RamsayBolton]] — his "rabid-dog" son, whose reckless behavior can be triggered to discredit Roose
 - [[TheDreadfort]] — seat of power

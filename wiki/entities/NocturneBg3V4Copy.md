@@ -46,8 +46,8 @@ The terminal scene (821) shows her as Level 18 Bard/Infernal Sovereign at the Hi
 
 ## Connections
 
-- [[NocturneSosuke]] — the recurring Nocturne character archetype
-- [[CassalanterFamily]] — antagonists
-- [[HouseSosuke]] — Nocturne's destroyed noble house
+- [NocturneSosuke](NocturneSosuke.md) — the recurring Nocturne character archetype
+- [CassalanterFamily](CassalanterFamily.md) — antagonists
+- [HouseSosuke](HouseSosuke.md) — Nocturne's destroyed noble house
 - [[TheBloomShadow]] — campaign origin point
 - [[HighHall]] — terminal location

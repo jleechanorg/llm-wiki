@@ -35,11 +35,11 @@ The key currently resides in 35+ branches (dev*, ai-orch-*, pr-*, auto/commit-pe
 
 ## Connections
 
-- [[auth-file-discipline-harness-gap]] — second-layer harness fix needed for tracked runtime config
+- [auth-file-discipline-harness-gap](auth-file-discipline-harness-gap.md) — second-layer harness fix needed for tracked runtime config
 - [[credential-discipline-drive-4th-admin-override-merge]] — same-day companion PRs #646 + #9 (covers examples/, NOT auth.json)
 - [[feedback-2026-05-12-provider-dual-registry]] — same anti-pattern class: consolidation done wrong (dual registry → 401)
 - [[claudem-macos-minimax-m3]] — the wrapper that consumes the leaked key
-- [[jeffrey-oracle]] — user identity (the leak is by jeffrey)
+- [jeffrey-oracle](../syntheses/jeffrey-oracle.md) — user identity (the leak is by jeffrey)
 - [[PR-135-MiniMax-Hardcode-Leak]] — entity stub for the PR itself
 
 ## Rules

@@ -19,5 +19,5 @@ Add intent/entity matching guardrail in prompts that:
 3. Re-prompts or blocks if mismatched
 
 ## Related Concepts
-- [[ContextManagement]] — preventing context drift
-- [[PromptEngineering]] — structuring prompts to reduce hallucinations
+- [ContextManagement](ContextManagement.md) — preventing context drift
+- [PromptEngineering](PromptEngineering.md) — structuring prompts to reduce hallucinations

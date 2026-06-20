@@ -12,5 +12,5 @@ Test NPC character used in validation tests. Simple single-name NPC pattern exam
 Used in: "Adventure with NPCs including Alice and Bob"
 
 ## Connections
-- [[Bob]] — fellow test NPC
-- [[NPCPatternMatching]] — extraction method
+- [Bob](Bob.md) — fellow test NPC
+- [NPCPatternMatching](../concepts/NPCPatternMatching.md) — extraction method

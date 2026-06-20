@@ -21,6 +21,6 @@ Elara represents the family Nocturne fought to save. Her acceptance of Nocturne'
 
 - [[Faction Nocturne BG3 V3 Campaign]] — source campaign
 - [[Nocturne Sosuke]] — sister
-- [[Lyra]] — younger sister
+- [Lyra](Lyra.md) — younger sister
 - [[Sunder-Stone Villa]] — where she was held captive
 - [[Cassalanter Family]] — former captors

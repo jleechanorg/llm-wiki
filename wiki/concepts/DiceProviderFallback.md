@@ -29,5 +29,5 @@ Games running on flash-lite model tiers get deterministic dice rolls (same input
 
 ## Related
 
-- [[DiceSystemRequirement]] — Dice system requirements
-- [[Harness5LayerModel]] — Model tier considerations
+- [DiceSystemRequirement](DiceSystemRequirement.md) — Dice system requirements
+- [Harness5LayerModel](Harness5LayerModel.md) — Model tier considerations

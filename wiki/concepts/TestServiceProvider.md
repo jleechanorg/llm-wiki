@@ -21,6 +21,6 @@ A testing framework that provides unified access to services (Firestore, Gemini,
 - Migration path for existing tests to use the framework
 
 ## Related Concepts
-- [[MockModeTesting]]
+- [MockModeTesting](MockModeTesting.md)
 - [[FirebaseMocking]]
-- [[ServiceProviderPattern]]
+- [ServiceProviderPattern](ServiceProviderPattern.md)

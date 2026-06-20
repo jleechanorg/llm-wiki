@@ -33,8 +33,8 @@ These are deterministic, not semantic — allowed in backend code.
 
 ## Connections
 
-- [[ZFCNorthStar]] — architectural principle
-- [[ModelComputes]] — complementary pattern
-- [[RewardsBox]] — formatted UI structure
-- [[PlanningBlock]] — formatted UI structure
+- [ZFCNorthStar](ZFCNorthStar.md) — architectural principle
+- [ModelComputes](ModelComputes.md) — complementary pattern
+- [RewardsBox](RewardsBox.md) — formatted UI structure
+- [PlanningBlock](PlanningBlock.md) — formatted UI structure
 - [[RewardsEngineArchitecture]] — rewards_engine.py role

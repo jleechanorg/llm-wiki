@@ -30,5 +30,5 @@ if is_duplicate_memory(new_memory, existing_memories, threshold=0.85, window_siz
 ```
 
 ## Related
-- [[TokenBudgetSelection]] - often runs after deduplication
-- [[MemoryManagement]] - broader concept this is part of
+- [TokenBudgetSelection](TokenBudgetSelection.md) - often runs after deduplication
+- [MemoryManagement](MemoryManagement.md) - broader concept this is part of

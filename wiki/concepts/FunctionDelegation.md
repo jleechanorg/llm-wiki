@@ -22,6 +22,6 @@ from testing_utils.evidence import get_next_iteration as _get_next_iteration
 Tests verify delegation by checking that the imported function is the exact same object (`is`) as the canonical implementation, confirming no reimplementation exists.
 
 ## Related Concepts
-- [[CodeCentralization]] — broader pattern
+- [CodeCentralization](CodeCentralization.md) — broader pattern
 - [[ImportPatterns]] — Python module mechanics
 - [[InterfaceSegregation]] — SOLID principle

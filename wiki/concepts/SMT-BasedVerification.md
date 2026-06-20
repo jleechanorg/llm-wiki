@@ -42,18 +42,18 @@ If violation: Generate counterexample → Fix code → Re-verify
 If passes: High confidence (bounded) → Continue
 ```
 
-This fits naturally into the [[VerificationLoop]]: bounded formal verification as an intermediate gate between testing and full proof.
+This fits naturally into the [VerificationLoop](VerificationLoop.md): bounded formal verification as an intermediate gate between testing and full proof.
 
 ## Connections
 
-- [[FormalVerification]] — broader concept; Z3 is a lightweight practical form
-- [[VerificationLoop]] — SMT can serve as the automated verification step
-- [[AdversarialTesting]] — Z3 counterexamples are perfect adversarial inputs
+- [FormalVerification](FormalVerification.md) — broader concept; Z3 is a lightweight practical form
+- [VerificationLoop](VerificationLoop.md) — SMT can serve as the automated verification step
+- [AdversarialTesting](AdversarialTesting.md) — Z3 counterexamples are perfect adversarial inputs
 - [[SkepticAgent]] — skeptic could request Z3 verification before accepting code
-- [[Lean]] / [[Coq]] — heavier alternatives when bounded verification is insufficient
+- [Lean](Lean.md) / [Coq](Coq.md) — heavier alternatives when bounded verification is insufficient
 
 ## See Also
 
-- [[FormalVerification]] — Lean/Coq-based formal proofs
-- [[VerificationLoop]] — the full generate → verify → fix pipeline
-- [[AdversarialTesting]] — counterexample generation for adversarial test cases
+- [FormalVerification](FormalVerification.md) — Lean/Coq-based formal proofs
+- [VerificationLoop](VerificationLoop.md) — the full generate → verify → fix pipeline
+- [AdversarialTesting](AdversarialTesting.md) — counterexample generation for adversarial test cases

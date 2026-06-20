@@ -51,4 +51,4 @@ All `rewards_box` output **must** be normalized via `normalize_rewards_box_for_u
 
 - [[Deferred Rewards Protocol]] — protocol that generates rewards_box
 - [[Rewards Processed Flag]] — prevents duplicate awards
-- [[LevelUpBug]] — bug chain including rewards_box normalization issues
+- [LevelUpBug](LevelUpBug.md) — bug chain including rewards_box normalization issues

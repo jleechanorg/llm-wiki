@@ -21,10 +21,10 @@ LLM Integration refers to how all agents in WorldArchitect connect to the langua
 - **SpicyModeAgent**: Sends prompts with content guidelines, receives appropriate narrative
 
 ## Related Concepts
-- [[AgentArchitecture]] — all agents use LLM integration
-- [[StoryModeAgent]] — LLM for story generation
-- [[GodModeAgent]] — LLM for command processing
-- [[SpicyModeAgent]] — LLM for adult content generation
+- [AgentArchitecture](AgentArchitecture.md) — all agents use LLM integration
+- [StoryModeAgent](../entities/StoryModeAgent.md) — LLM for story generation
+- [GodModeAgent](../entities/GodModeAgent.md) — LLM for command processing
+- [SpicyModeAgent](../entities/SpicyModeAgent.md) — LLM for adult content generation
 
 ## Source References
 - [[Agent Architecture End-to-End Integration Test]] — validates agent-LLM service integration

@@ -16,6 +16,6 @@ Streaming evidence validation captures server-side timing data to measure LLM ch
 - **Checksum Verification**: SHA256 checksums for evidence integrity
 
 ## Related Concepts
-- [[ServerSentEvents]] — HTTP protocol for streaming responses
+- [ServerSentEvents](ServerSentEvents.md) — HTTP protocol for streaming responses
 - [[ChunkTiming]] — server-side timing capture distinct from client-side delivery timing
-- [[EvidenceBundle]] — structured output with CSV, JSON, and checksums
+- [EvidenceBundle](EvidenceBundle.md) — structured output with CSV, JSON, and checksums

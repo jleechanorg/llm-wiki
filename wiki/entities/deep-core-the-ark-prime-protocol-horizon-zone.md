@@ -10,13 +10,13 @@ total_scenes: 396
 
 ## Overview
 
-** Deep Core - The Ark Prime (Protocol Horizon Zone) appears in 6 scenes across the [[nocturne-old-republic]] campaign.
+** Deep Core - The Ark Prime (Protocol Horizon Zone) appears in 6 scenes across the [nocturne-old-republic](../sources/nocturne-old-republic.md) campaign.
 
 ## Description
 
 ** Deep Core - The Ark Prime (Protocol Horizon Zone) is an entity from the nocturne-old-republic campaign.
 
 ## References
-- [[nocturne-old-republic]] — campaign overview
-- [[nocturne-old-republic-campaign]]
+- [nocturne-old-republic](../sources/nocturne-old-republic.md) — campaign overview
+- [nocturne-old-republic-campaign](../sources/nocturne-old-republic-campaign.md)
 

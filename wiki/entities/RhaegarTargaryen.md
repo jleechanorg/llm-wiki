@@ -23,6 +23,6 @@ King Rhaegar Targaryen (Level 20 Paladin, "The Melancholy Titan") is Visenya's f
 - **Family**: Father of Visenya, Aegon, Jaehaerys/Jon, Rhaenys, Aenys
 
 ## Connections
-- [[VisenyaTargaryen]] — his daughter and greatest threat
-- [[AegonTargaryen]] — his "Golden Boy" heir
-- [[JonSnow]] — his legitimized son with Lyanna Stark
+- [VisenyaTargaryen](VisenyaTargaryen.md) — his daughter and greatest threat
+- [AegonTargaryen](AegonTargaryen.md) — his "Golden Boy" heir
+- [JonSnow](JonSnow.md) — his legitimized son with Lyanna Stark

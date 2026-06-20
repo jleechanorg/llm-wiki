@@ -6,7 +6,7 @@ sources: []
 last_updated: 2026-04-07
 ---
 
-An orchestrator is a system that coordinates multiple AI agents to execute complex software development tasks. The benchmark compared two orchestrators: [[Genesis]] and [[Ralph]].
+An orchestrator is a system that coordinates multiple AI agents to execute complex software development tasks. The benchmark compared two orchestrators: [Genesis](../entities/Genesis.md) and [Ralph](../entities/Ralph.md).
 
 ## Key Components
 - **Agent Management**: Mapping and execution of AI agents (Codex, Claude)

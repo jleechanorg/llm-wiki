@@ -21,5 +21,5 @@ Inception Prompting is CAMEL's core technique for autonomous multi-agent coopera
 Inception prompting is relevant to governance because it shows how multi-agent systems can self-organize without centralized control. Governance constraints can be designed to guide emergent cooperation rather than dictating specific behaviors.
 
 ## See Also
-- [[CAMEL]]
-- [[MultiAgentOrchestration]]
+- [CAMEL](../entities/CAMEL.md)
+- [MultiAgentOrchestration](MultiAgentOrchestration.md)

@@ -15,9 +15,9 @@ Validation component that checks narrative output consistency with game state. V
 - Integration with NarrativeResponse schema
 
 ## Related Concepts
-- [[EntityCoverageValidation]] — specific validation type
-- [[NarrativeResponseSchema]] — response structure
-- [[LLM-FirstStateManagement]] — broader pattern
+- [EntityCoverageValidation](EntityCoverageValidation.md) — specific validation type
+- [NarrativeResponseSchema](NarrativeResponseSchema.md) — response structure
+- [LLM-FirstStateManagement](LLM-FirstStateManagement.md) — broader pattern
 
 ## Test Coverage
 - Full workflow test validates validator integration

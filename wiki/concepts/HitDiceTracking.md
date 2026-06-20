@@ -21,5 +21,5 @@ On level up:
 - Increase max HP by full die roll + CON modifier
 
 ## Related Concepts
-- [[LevelProgression]] — overall level advancement
+- [LevelProgression](LevelProgression.md) — overall level advancement
 - [[CharacterProgression]] — RPG character growth

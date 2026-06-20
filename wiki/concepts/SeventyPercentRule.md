@@ -32,5 +32,5 @@ The "low-magic gritty realism" setting contrasts with Gaia's exceptional power, 
 - [[Gaia Julia V2 Campaign]] — source campaign
 - [[Gaia Julia Caesar]] — the character using this power structure
 - [[The Twenty]] — Gaia's elite guard
-- [[Capua]] — key city in the campaign
+- [Capua](../entities/Capua.md) — key city in the campaign
 - [[Imperator Class]] — Gaia's class (gestalt Paladin/Sorcerer)

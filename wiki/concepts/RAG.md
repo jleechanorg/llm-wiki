@@ -40,4 +40,4 @@ RAG and fine-tuning are complementary. Fine-tuning improves how a model uses ret
 
 - [[Prompt Engineering]] — RAG prompts require careful instruction framing to use retrieved context effectively
 - [[LLM Fine-Tuning]] — fine-tuning can improve how a model handles retrieved evidence
-- [[RLHF]] — RLHF techniques like RLCD can be applied to improve RAG relevance judgments
+- [RLHF](RLHF.md) — RLHF techniques like RLCD can be applied to improve RAG relevance judgments

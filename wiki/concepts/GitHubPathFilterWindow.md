@@ -26,6 +26,6 @@ GitHub Actions path filters on `pull_request` events can silently skip a workflo
 
 ## Connections
 
-- [[GitHubActions]] - Platform behavior involved in the skip.
-- [[EvidenceShaFreeze]] - Current-head evidence and deploy proof need the same SHA discipline.
-- [[SkepticGate]] - Green checks do not imply skipped workflows ran.
+- [GitHubActions](../entities/GitHubActions.md) - Platform behavior involved in the skip.
+- [EvidenceShaFreeze](EvidenceShaFreeze.md) - Current-head evidence and deploy proof need the same SHA discipline.
+- [SkepticGate](SkepticGate.md) - Green checks do not imply skipped workflows ran.

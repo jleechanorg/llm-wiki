@@ -25,5 +25,5 @@ The spell slot fallback is a user experience pattern in the `/api/campaigns/<id>
 Located in main.py lines 2568-2574, the endpoint checks for this condition and returns the fallback message in the spells_summary field.
 
 ## Related Concepts
-- [[FirestoreService]] — provides game state via get_campaign_game_state
+- [FirestoreService](../entities/FirestoreService.md) — provides game state via get_campaign_game_state
 - [[PlayerCharacterSpellManagement]] — user-facing spell list configuration

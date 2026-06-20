@@ -15,6 +15,6 @@ HTTP connection reuse pattern that maintains persistent connections across reque
 - **TTL handling**: Connections expire after idle timeout
 
 ## Connections
-- [[MCPClient]] — implements connection pooling via HTTPAdapter
-- [[HTTPAdapter]] — provides connection pooling implementation
-- [[RetryConfiguration]] — companion feature for failure handling
+- [MCPClient](../entities/MCPClient.md) — implements connection pooling via HTTPAdapter
+- [HTTPAdapter](../entities/HTTPAdapter.md) — provides connection pooling implementation
+- [RetryConfiguration](RetryConfiguration.md) — companion feature for failure handling

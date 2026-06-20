@@ -19,9 +19,9 @@ Mocked services are test doubles that replace real external dependencies (like F
 The project uses complete mocking for end-to-end tests, ensuring `has_firebase_credentials()` returns `False` so tests never accidentally call real Firebase APIs.
 
 ## Related Concepts
-- [[FirebaseCredentials]] — What gets mocked
-- [[UnitTests]] — Test type that commonly uses mocks
-- [[IntegrationTests]] — Tests that may use real services
+- [FirebaseCredentials](FirebaseCredentials.md) — What gets mocked
+- [UnitTests](UnitTests.md) — Test type that commonly uses mocks
+- [IntegrationTests](IntegrationTests.md) — Tests that may use real services
 
 ## Sources
 - [[CommonTestUtilities]]

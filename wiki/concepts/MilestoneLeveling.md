@@ -15,5 +15,5 @@ Level advancement method where characters level up at narrative milestones rathe
 - Coordinate with campaign length and scope
 
 ## Related Concepts
-- [[XPByCRTable]] — alternative XP-based system
-- [[Attunement]] — scales with level
+- [XPByCRTable](XPByCRTable.md) — alternative XP-based system
+- [Attunement](Attunement.md) — scales with level

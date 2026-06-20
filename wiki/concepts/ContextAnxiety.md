@@ -3,7 +3,7 @@ title: "Context Anxiety"
 type: concept
 tags: [context, compaction, context-reset, anxiety, model-behavior]
 date: 2026-03-24
-source: [[anthropic-harness-design-long-running-apps]]
+source: [anthropic-harness-design-long-running-apps](../sources/anthropic-harness-design-long-running-apps.md)
 ---
 
 ## Definition
@@ -41,5 +41,5 @@ Opus 4.6 largely eliminated context anxiety, allowing harness simplification. Ch
 
 ## Connections
 - [[ContextReset]] — the mechanism that solves context anxiety
-- [[FileBasedHandoffs]] — how state survives the reset
-- [[SprintContract]] — what keeps scope tight during resets
+- [FileBasedHandoffs](FileBasedHandoffs.md) — how state survives the reset
+- [SprintContract](SprintContract.md) — what keeps scope tight during resets

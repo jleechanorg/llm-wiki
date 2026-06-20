@@ -22,4 +22,4 @@ is_byok_provider_active checks:
 3. Key value is non-empty
 
 ## Related Concepts
-- [[RateLimiting]] - Rate limiting system BYOK extends
+- [RateLimiting](RateLimiting.md) - Rate limiting system BYOK extends

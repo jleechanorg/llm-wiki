@@ -8,4 +8,4 @@ last_updated: 2026-04-08
 
 Process of comparing captured real service interactions against mock responses. Identifies mock responses that don't match real data, missing mock responses, and data structure differences. Outputs accuracy score indicating how well mocks reflect actual service behavior.
 
-**Related:** [[CaptureAnalyzer]], [[DataCaptureFramework]], [[BaselineGeneration]]
+**Related:** [CaptureAnalyzer](../entities/CaptureAnalyzer.md), [DataCaptureFramework](DataCaptureFramework.md), [BaselineGeneration](BaselineGeneration.md)

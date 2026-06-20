@@ -13,10 +13,10 @@ Harper Reed is co-founder of 2389 Research, Inc. and author of "The Dark Factory
 - **Key post**: "The Dark Factory Is a .dot file" (Mar 2026, https://2389.ai/posts/the-dark-factory-is-a-dot-file/)
 
 ## Connections
-- [[2389Research]] — Reed co-founded 2389 Research
-- [[DOTAsArtifact]] — Reed advocates pipeline .dot files as the durable artifact
-- [[Dorodango]] — Reed adopted Jesse Vincent's dorodango framing for codegen software
+- [2389Research](2389Research.md) — Reed co-founded 2389 Research
+- [DOTAsArtifact](../concepts/DOTAsArtifact.md) — Reed advocates pipeline .dot files as the durable artifact
+- [Dorodango](../concepts/Dorodango.md) — Reed adopted Jesse Vincent's dorodango framing for codegen software
 
 ## See Also
-- [[2389Research]]
-- [[DOTAsArtifact]]
+- [2389Research](2389Research.md)
+- [DOTAsArtifact](../concepts/DOTAsArtifact.md)

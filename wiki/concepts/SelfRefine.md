@@ -8,7 +8,7 @@ last_updated: 2026-04-15
 
 ## Summary
 
-SelfRefine (Madaan et al., 2023) is a framework for iterative refinement of AI model outputs using a generate-then-revise pattern. Unlike [[ExtendedThinking]] which reasons before generation, SelfRefine iterates after generation: produce output → critique → revise → repeat. This post-hoc revision distinguishes it from pre-hoc extended thinking.
+SelfRefine (Madaan et al., 2023) is a framework for iterative refinement of AI model outputs using a generate-then-revise pattern. Unlike [ExtendedThinking](ExtendedThinking.md) which reasons before generation, SelfRefine iterates after generation: produce output → critique → revise → repeat. This post-hoc revision distinguishes it from pre-hoc extended thinking.
 
 ## Key Claims
 
@@ -30,12 +30,12 @@ SelfRefine (Madaan et al., 2023) is a framework for iterative refinement of AI m
 
 ## Connections
 
-- [[SelfCritique]] — self-refine uses the critique output from a self-critique pass
-- [[SelfDebugging]] — self-refine is the iterative refinement mechanism that underlies self-debugging
-- [[ExtendedThinking]] — complementary: Extended Thinking plans before generation, SelfRefine revises after
-- [[ProcessRewardModel]] — PRM provides step-level critique signals to guide SelfRefine-like iterations
-- [[VerificationLoop]] — self-refine is the "fix" mechanism in the loop, combined with [[SelfCritique]] for evaluation
-- [[Reflexion]] — Reflexion adds memory to SelfRefine-like revision, tracking past critiques
+- [SelfCritique](SelfCritique.md) — self-refine uses the critique output from a self-critique pass
+- [SelfDebugging](SelfDebugging.md) — self-refine is the iterative refinement mechanism that underlies self-debugging
+- [ExtendedThinking](ExtendedThinking.md) — complementary: Extended Thinking plans before generation, SelfRefine revises after
+- [ProcessRewardModel](ProcessRewardModel.md) — PRM provides step-level critique signals to guide SelfRefine-like iterations
+- [VerificationLoop](VerificationLoop.md) — self-refine is the "fix" mechanism in the loop, combined with [SelfCritique](SelfCritique.md) for evaluation
+- [Reflexion](Reflexion.md) — Reflexion adds memory to SelfRefine-like revision, tracking past critiques
 
 ## Findings from Cycle 26 (19-PR Study, 2026-04-15)
 
@@ -93,9 +93,9 @@ SelfRefine (Madaan et al., 2023) is a framework for iterative refinement of AI m
 | **26** | **SelfRefine (wide)** | **19** | **~7.99/10** |
 
 ## See Also
-- [[SelfCritique]]
-- [[SelfDebugging]]
-- [[ExtendedThinking]]
-- [[Reflexion]]
-- [[ProcessRewardModel]]
-- [[SWE-bench]]
+- [SelfCritique](SelfCritique.md)
+- [SelfDebugging](SelfDebugging.md)
+- [ExtendedThinking](ExtendedThinking.md)
+- [Reflexion](Reflexion.md)
+- [ProcessRewardModel](ProcessRewardModel.md)
+- [SWE-bench](SWE-bench.md)

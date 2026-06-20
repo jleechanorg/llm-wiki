@@ -17,6 +17,6 @@ The conceptual separation between different layers of a software system. In Worl
 
 ## Connections
 - [[ArchitecturalBoundaryFieldFormatValidation]] — tests for boundary validation
-- [[OpaqueChoiceIdContract]] — choice-ID semantics boundary for planning choices
-- [[main.py]] — API Gateway boundary
-- [[world_logic.py]] — Business Logic boundary
+- [OpaqueChoiceIdContract](OpaqueChoiceIdContract.md) — choice-ID semantics boundary for planning choices
+- [main.py](../entities/main.py.md) — API Gateway boundary
+- [world_logic.py](../entities/world_logic.py.md) — Business Logic boundary

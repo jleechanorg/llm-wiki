@@ -13,5 +13,5 @@ GitHub API concept for creating proper reply relationships between PR comments. 
 Without proper threading, replies appear as top-level comments rather than responses to specific comments, making it easy to miss comments in long PR discussions.
 
 ## Related Concepts
-- [[PRCommentProcessing]] — workflow that uses threading
+- [PRCommentProcessing](PRCommentProcessing.md) — workflow that uses threading
 - [[ShellInjectionPrevention]] — security concept for the comment system

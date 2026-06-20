@@ -16,4 +16,4 @@ NPCs identified as "named" based on having meaningful attributes (role other tha
 When a named NPC's hp_current reaches 0, cleanup_defeated_enemies marks them as dead (status: ["dead"]) instead of deleting their record from npc_data.
 ## Related
 - [[NPC Death State Persistence]] — bug this behavior addresses
-- [[GameState]] — manages NPC state
+- [GameState](GameState.md) — manages NPC state

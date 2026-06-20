@@ -21,9 +21,9 @@ Previous interaction history injected into prompts to maintain narrative continu
 ```
 
 ## Connections
-- [[GameState]] — state alongside history
-- [[SceneManifest]] — current scene context
-- [[CampaignWizard]] — creates the campaign being logged
+- [GameState](GameState.md) — state alongside history
+- [SceneManifest](SceneManifest.md) — current scene context
+- [CampaignWizard](CampaignWizard.md) — creates the campaign being logged
 
 ## Source Evidence
 "TIMELINE LOG (FOR CONTEXT):\n[SEQ_ID: 1] You: Create a new D&D campaign...\n[SEQ_ID: 2] Story: ```json..."

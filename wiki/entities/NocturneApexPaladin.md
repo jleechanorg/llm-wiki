@@ -16,9 +16,9 @@ Nocturne as a Paladin is a 16-year-old Level 5 character with exceptional Aptitu
 - Combat Prowess Bonus: +3
 - Proficiencies: All Armor, Shields, Simple and Martial Weapons
 - Expertise: Military Strategy, Ancient Lore (Forgotten Realms), Court Intrigue, Anatomy & Weak Points
-- Campaign appearances: [[nocturne-apex-paladin-campaign]]
+- Campaign appearances: [nocturne-apex-paladin-campaign](../sources/nocturne-apex-paladin-campaign.md)
 
 ## Connections
-- [[DestinyRuleset]] — the ruleset used in this campaign
-- [[BaldursGatePostAbsolute]] — setting after BG3 events
-- [[HouseValerius]] — Nocturne's noble house
+- [DestinyRuleset](../concepts/DestinyRuleset.md) — the ruleset used in this campaign
+- [BaldursGatePostAbsolute](../concepts/BaldursGatePostAbsolute.md) — setting after BG3 events
+- [HouseValerius](HouseValerius.md) — Nocturne's noble house

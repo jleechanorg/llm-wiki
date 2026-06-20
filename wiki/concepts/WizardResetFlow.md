@@ -11,6 +11,6 @@ The wizard reset flow describes the sequence of events when a user completes a c
 The fix ensures forceCleanRecreation properly restores wizard content visibility and skips cleanup that would cause issues.
 
 ## Related Pages
-- [[CampaignWizard]] — component managing the flow
-- [[ForceCleanRecreation]] — fix method
+- [CampaignWizard](CampaignWizard.md) — component managing the flow
+- [ForceCleanRecreation](../entities/ForceCleanRecreation.md) — fix method
 - [[CampaignWizardResetCodeAnalysisTest]] — tests validating the flow

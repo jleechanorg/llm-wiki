@@ -24,7 +24,7 @@ The Oath of Rome fits Tiberius's character as the ruthless, ambitious son of Mar
 
 ## Connections
 
-- [[Tiberius]] — The paladin sworn to this oath
+- [Tiberius](../entities/Tiberius.md) — The paladin sworn to this oath
 - [[Legions Vindicator Paladin]] — His class archetype
 - [[Marcus Crassus]] — The father to whom Roman loyalty is personally directed
 - [[Spartacus Tiberius Campaign]] — The campaign featuring this oath

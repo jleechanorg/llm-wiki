@@ -20,5 +20,5 @@ Campaign State Migration is the process of transparently updating legacy campaig
 - No forced migration or data conversion prompts
 
 ## Related
-- [[MissionAutoCompletion]]
-- [[Nocturne]] — production campaign that required this fix
+- [MissionAutoCompletion](MissionAutoCompletion.md)
+- [Nocturne](../entities/Nocturne.md) — production campaign that required this fix

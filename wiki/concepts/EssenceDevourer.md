@@ -18,6 +18,6 @@ Essence Devourer is a Sith trait that allows the character to consume the life f
 Nocturne wields this trait as part of their role in Project Apotheosis, consuming essences to grow stronger while managing the instability such power brings.
 
 ## Connections
-- [[NocturneOldRepublic]] — Wielder
-- [[ProjectApotheosis]] — Related project
+- [NocturneOldRepublic](../entities/NocturneOldRepublic.md) — Wielder
+- [ProjectApotheosis](ProjectApotheosis.md) — Related project
 - [[InstabilityMeter]] — Risk mechanic

@@ -25,10 +25,10 @@ The structured response schema defines the JSON format for LLM responses in the 
 - **state_rationale**: Explanation of why state changes were made
 
 ## Related Concepts
-- [[SessionHeader]] — character state displayed in narrative
-- [[PlanningBlock]] — player choice prompt in narrative
-- [[StateUpdates]] — game state mutation from LLM response
-- [[DebugInfo]] — debug metadata container
+- [SessionHeader](SessionHeader.md) — character state displayed in narrative
+- [PlanningBlock](PlanningBlock.md) — player choice prompt in narrative
+- [StateUpdates](StateUpdates.md) — game state mutation from LLM response
+- [DebugInfo](DebugInfo.md) — debug metadata container
 
 ## Usage
 Used by structured_fields_utils.extract_structured_fields to parse LLM responses into component parts for storage and display.

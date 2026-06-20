@@ -15,6 +15,6 @@ Tmux-based agent session used to run comprehensive documentation analysis and pe
 - **Task Coverage**: 5 diverse coding challenges evaluated
 
 ## Related Pages
-- [[PR1440]] — PR being analyzed
+- [PR1440](PR1440.md) — PR being analyzed
 - [[Tmux]] — Orchestration tool used
-- [[ClaudeCode]] — Subject of benchmarking
+- [ClaudeCode](ClaudeCode.md) — Subject of benchmarking

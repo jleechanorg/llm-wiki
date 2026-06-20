@@ -28,11 +28,11 @@ Skill challenge system for social interactions. Triggered when a human DM would 
 EVERY social HP challenge interaction MUST show [SOCIAL SKILL CHALLENGE: NPC] box with Objective/HP/Status - shown every turn, not just first.
 
 ## V6 Nocturne Social HP System
-In [[nocturne-bg3-v6-bug-repro-test]], Nocturne uses Siren's Gaze to deplete target Social HP. The system tracks target resistance through multiple turns:
+In [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md), Nocturne uses Siren's Gaze to deplete target Social HP. The system tracks target resistance through multiple turns:
 
 | Target | Social HP | Status | Appears In |
 |--------|-----------|--------|------------|
-| Minthara | 30 | Yielded in Scene 7 | [[nocturne-bg3-v6-bug-repro-test-entry-007]] |
+| Minthara | 30 | Yielded in Scene 7 | [nocturne-bg3-v6-bug-repro-test-entry-007](../sources/nocturne-bg3-v6-bug-repro-test-entry-007.md) |
 
 **Mechanic Flow:**
 1. **Siren's Gaze** — Primary social attack, depletes target's Social HP pool
@@ -44,20 +44,20 @@ In [[nocturne-bg3-v6-bug-repro-test]], Nocturne uses Siren's Gaze to deplete tar
 The V6 system is more aggressive than the generic skill challenge rules above. In V6:
 - Minthara's 30 Social HP was tracked across 4 scenes before yielding
 - Multiple companion assets (Astarion, Lae'zel, Shadowheart) were involved in the social encounter
-- Social HP correlated with the [[RiteOfThorns]] subversion plan
+- Social HP correlated with the [RiteOfThorns](RiteOfThorns.md) subversion plan
 
 ## Related Concepts
 - [[SirensGaze]] -- ability that depletes Social HP
-- [[GildedTether]] -- uses depleted Social HP for thrall binding
-- [[CollegeOfTheAbyssalSiren]] -- subclass using this mechanic
-- [[CompanionAssetFramework]] -- V6 companion tracking system
+- [GildedTether](GildedTether.md) -- uses depleted Social HP for thrall binding
+- [CollegeOfTheAbyssalSiren](CollegeOfTheAbyssalSiren.md) -- subclass using this mechanic
+- [CompanionAssetFramework](CompanionAssetFramework.md) -- V6 companion tracking system
 
 ## Related Entities
-- [[NocturneSosuke]] -- primary user of Social HP attacks
-- [[Minthara]] -- primary target with 30 Social HP
+- [NocturneSosuke](../entities/NocturneSosuke.md) -- primary user of Social HP attacks
+- [Minthara](../entities/Minthara.md) -- primary target with 30 Social HP
 - [[BG3Companions]] -- affected by social mechanics
 
 ## Appearances
-- [[nocturne-bg3-v6-bug-repro-test]] -- Minthara's Social HP tracked in Scenes 4-7
-- [[nocturne-bg3-v5]] -- basic social combat integration
-- [[nocturne-bg3-v5-succubus]] -- Thrall system linked to Social HP
+- [nocturne-bg3-v6-bug-repro-test](../sources/nocturne-bg3-v6-bug-repro-test.md) -- Minthara's Social HP tracked in Scenes 4-7
+- [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md) -- basic social combat integration
+- [nocturne-bg3-v5-succubus](../sources/nocturne-bg3-v5-succubus.md) -- Thrall system linked to Social HP

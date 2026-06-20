@@ -32,4 +32,4 @@ The TestServiceProvider ABC enforces that any service provider implementation mu
 ## Related Concepts
 - [[Service Provider Pattern]] — runtime service implementation selection
 - [[Strategy Pattern]] — interchangeable algorithm implementations
-- [[Dependency Injection]] — external service configuration
+- [Dependency Injection](Dependency Injection.md) — external service configuration

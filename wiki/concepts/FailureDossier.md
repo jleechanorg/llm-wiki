@@ -7,7 +7,7 @@ date: 2026-05-24
 
 ## Overview
 
-Per-stage structured failure analysis system implemented in [[Kilroy]]. Classifies every node failure into one of 6 categories, each with distinct retry and escalation semantics. Provides the taxonomy that dark-factory's Healer approximates via unsupervised clustering.
+Per-stage structured failure analysis system implemented in [Kilroy](../entities/Kilroy.md). Classifies every node failure into one of 6 categories, each with distinct retry and escalation semantics. Provides the taxonomy that dark-factory's Healer approximates via unsupervised clustering.
 
 ## 6-Class Failure Taxonomy
 
@@ -48,5 +48,5 @@ The Healer is more flexible (discovers novel failure patterns) but less actionab
 
 ## Connections
 
-- [[Kilroy]] — Implementation
-- [[AttractorPattern]] — The pattern that uses failure classification
+- [Kilroy](../entities/Kilroy.md) — Implementation
+- [AttractorPattern](AttractorPattern.md) — The pattern that uses failure classification

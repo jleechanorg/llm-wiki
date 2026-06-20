@@ -19,6 +19,6 @@ Deep character framework component defining a character's self-perception narrat
 - Enables character growth through break-point events
 
 ## Related Concepts
-- [[BreakPoint]] — what shatters the myth
+- [BreakPoint](BreakPoint.md) — what shatters the myth
 - [[CoreUnconsciousBeliefs]] — roots of the myth
 - [[RelationalScript]] — how myth affects relationships

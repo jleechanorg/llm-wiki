@@ -10,13 +10,13 @@ total_scenes: 140
 
 ## Overview
 
-** Tywin's Solar, Casterly Rock appears in 3 scenes across the [[arthur-dayne]] campaign.
+** Tywin's Solar, Casterly Rock appears in 3 scenes across the [arthur-dayne](../sources/arthur-dayne.md) campaign.
 
 ## Description
 
 ** Tywin's Solar, Casterly Rock is an entity from the arthur-dayne campaign.
 
 ## References
-- [[arthur-dayne]] — campaign overview
-- [[arthur-dayne-campaign]]
+- [arthur-dayne](../sources/arthur-dayne.md) — campaign overview
+- [arthur-dayne-campaign](../sources/arthur-dayne-campaign.md)
 

@@ -19,5 +19,5 @@ A performance optimization strategy where expensive aggregation queries (countin
 Firestore aggregation queries are expensive. By only calculating total_count on first page load, subsequent page fetches remain fast while users still get the total count information.
 
 ## Related Concepts
-- [[CampaignPagination]] — the feature this optimizes
+- [CampaignPagination](CampaignPagination.md) — the feature this optimizes
 - [[FirestoreQueryOptimization]] — underlying query patterns

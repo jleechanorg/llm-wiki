@@ -10,11 +10,11 @@ last_updated: 2026-04-12
 The College of the Abyssal Siren is a custom Bard subclass focused on social dominance and pheromone-based abilities. It transforms the Bard into a mesmerizing force capable of breaking will through the Siren's Gaze, binding thralls through the Gilded Tether, and commanding through Pheromone Spike.
 
 ## How It Appears in the Campaigns
-- [[nocrune-bg3-v6-campaign]]: Nocturne Sosuke is Level 5 Bard of this college with CHA 20; Siren's Gaze is primary tool for breaking Minthara's Social HP 30
+- [nocrune-bg3-v6-campaign](../sources/nocrune-bg3-v6-campaign.md): Nocturne Sosuke is Level 5 Bard of this college with CHA 20; Siren's Gaze is primary tool for breaking Minthara's Social HP 30
 - [[noctune-bg3-campaign]]: Same mechanics; Thrall limit at Level 5 is 3, each carrying Max HP penalty equal to CR
-- [[nocturne-bg3-v6-bug-repro-test-campaign]]: Character verification confirms all Abyssal Siren mechanics
+- [nocturne-bg3-v6-bug-repro-test-campaign](../sources/nocturne-bg3-v6-bug-repro-test-campaign.md): Character verification confirms all Abyssal Siren mechanics
 
 ## Connections
-- [[NocturneSosuke]] — player character using this subclass
-- [[Minthara]] — target of Siren's Gaze ability
-- [[AbyssalSirenMechanics]] — detailed mechanics: Siren's Gaze, Gilded Tether, Pheromone Spike
+- [NocturneSosuke](../entities/NocturneSosuke.md) — player character using this subclass
+- [Minthara](../entities/Minthara.md) — target of Siren's Gaze ability
+- [AbyssalSirenMechanics](AbyssalSirenMechanics.md) — detailed mechanics: Siren's Gaze, Gilded Tether, Pheromone Spike

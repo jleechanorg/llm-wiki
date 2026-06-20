@@ -26,4 +26,4 @@ Value alignment research directly informs governance constraint design. If we ca
 ## See Also
 - [[CHAI]]
 - [[CIRL]]
-- [[GovernanceLayer]]
+- [GovernanceLayer](GovernanceLayer.md)

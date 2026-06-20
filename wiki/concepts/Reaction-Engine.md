@@ -19,6 +19,6 @@ reactions:
 ```
 
 ## See Also
-- [[Composio]] — implementation reference
+- [Composio](../entities/Composio.md) — implementation reference
 - [[Hybrid Orchestration]]
 - [[Orchestration Architecture Research]]

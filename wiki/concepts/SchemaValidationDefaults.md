@@ -9,7 +9,7 @@ last_updated: 2026-04-08
 Pydantic schema pattern where validation includes implicit default values for missing or invalid fields rather than strict type checking.
 
 ## Related Concepts
-- [[DefensiveNumericConversion]] — specific implementation for numeric fields
+- [DefensiveNumericConversion](DefensiveNumericConversion.md) — specific implementation for numeric fields
 - Schema field validators — custom validation logic in Pydantic models
 - Field coercion — automatic type conversion during validation
 

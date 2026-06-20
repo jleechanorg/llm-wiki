@@ -10,13 +10,13 @@ total_scenes: 396
 
 ## Overview
 
-** Coruscant - Archive of the Unbound appears in 28 scenes across the [[nocturne-old-republic]] campaign.
+** Coruscant - Archive of the Unbound appears in 28 scenes across the [nocturne-old-republic](../sources/nocturne-old-republic.md) campaign.
 
 ## Description
 
 ** Coruscant - Archive of the Unbound is an entity from the nocturne-old-republic campaign.
 
 ## References
-- [[nocturne-old-republic]] — campaign overview
-- [[nocturne-old-republic-campaign]]
+- [nocturne-old-republic](../sources/nocturne-old-republic.md) — campaign overview
+- [nocturne-old-republic-campaign](../sources/nocturne-old-republic-campaign.md)
 

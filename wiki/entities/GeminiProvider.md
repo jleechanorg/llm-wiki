@@ -11,6 +11,6 @@ Google's Gemini LLM provider module in mvp_site.llm_providers.gemini_provider. P
 
 ## Connections
 - [[GenerateJsonModeContent]] — main function in this provider
-- [[GeminiCodeExecution]] — code execution feature module
-- [[GeminiCacheManager]] — context caching support
-- [[CalibrationBiasVerification]] — real `countTokens` calibration envelope for local token-estimator constants
+- [GeminiCodeExecution](../concepts/GeminiCodeExecution.md) — code execution feature module
+- [GeminiCacheManager](GeminiCacheManager.md) — context caching support
+- [CalibrationBiasVerification](../concepts/CalibrationBiasVerification.md) — real `countTokens` calibration envelope for local token-estimator constants

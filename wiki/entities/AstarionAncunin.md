@@ -27,8 +27,8 @@ Astarion presents a sardonic, manipulative exterior wrapped in charm and vanity.
 Protagonist of the bg3-astarion campaign, beginning on the Nautiloid mind flayer ship.
 
 ## Connections
-- [[bg3-astarion-campaign]] — source campaign
-- [[VampireSpawn]] — character type
-- [[Nautiloid]] — starting location
-- [[BaldursGate]] — destination
-- [[CazadorSzarr]] — former master (antagonist)
+- [bg3-astarion-campaign](../sources/bg3-astarion-campaign.md) — source campaign
+- [VampireSpawn](../concepts/VampireSpawn.md) — character type
+- [Nautiloid](Nautiloid.md) — starting location
+- [BaldursGate](BaldursGate.md) — destination
+- [CazadorSzarr](CazadorSzarr.md) — former master (antagonist)

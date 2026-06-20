@@ -20,6 +20,6 @@ The Celestial Imperium is a bastion of rigid hierarchy and golden magic located 
 
 ## Connections
 
-- [[LordRegentRaziel]] — ruler
-- [[UnchainedHost]] — opposing faction
-- [[FortressVigil]] — fortress on the border
+- [LordRegentRaziel](LordRegentRaziel.md) — ruler
+- [UnchainedHost](../concepts/UnchainedHost.md) — opposing faction
+- [FortressVigil](FortressVigil.md) — fortress on the border

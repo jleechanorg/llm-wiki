@@ -10,13 +10,13 @@ total_scenes: 822
 
 ## Overview
 
-** Training Atrium, High Security Wing appears in 4 scenes across the [[alexiel-swtor]] campaign.
+** Training Atrium, High Security Wing appears in 4 scenes across the [alexiel-swtor](../sources/alexiel-swtor.md) campaign.
 
 ## Description
 
 ** Training Atrium, High Security Wing is an entity from the alexiel-swtor campaign.
 
 ## References
-- [[alexiel-swtor]] — campaign overview
-- [[alexiel-swtor-campaign]]
+- [alexiel-swtor](../sources/alexiel-swtor.md) — campaign overview
+- [alexiel-swtor-campaign](../sources/alexiel-swtor-campaign.md)
 

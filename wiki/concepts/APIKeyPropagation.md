@@ -15,5 +15,5 @@ Pattern of passing user-provided API keys through multiple layers of the applica
 4. genai.Client initialized with provided key
 
 ## Related
-- [[GeminiProvider]] — implements propagation
-- [[BYOK]] — pattern this enables
+- [GeminiProvider](../entities/GeminiProvider.md) — implements propagation
+- [BYOK](BYOK.md) — pattern this enables

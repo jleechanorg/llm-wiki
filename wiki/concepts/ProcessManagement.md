@@ -23,5 +23,5 @@ The system for controlling lifecycle operations (start, stop, status) of server 
 - **cleanup**: Remove stale processes and port allocations
 
 ## Related Concepts
-- [[TestserverCommand]] — CLI interface for process management
+- [TestserverCommand](TestserverCommand.md) — CLI interface for process management
 - [[SubprocessTesting]] — testing approach using mock for process execution

@@ -19,6 +19,6 @@ The CSS uses attribute-based theming:
 The fantasy theme overrides 20+ variables to create the Arcane Scholar aesthetic with dark navy-purple palette and gold accents.
 
 ## Related concepts
-- [[CSSCustomProperties]] — the mechanism enabling theming
+- [CSSCustomProperties](CSSCustomProperties.md) — the mechanism enabling theming
 - [[DesignTokens]] — the values that change per theme
 - [[FantasyThemeArcaneScholar]] — the specific theme implemented

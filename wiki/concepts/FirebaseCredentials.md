@@ -13,9 +13,9 @@ Firebase credentials are authentication keys and configuration that grant access
 In test environments, Firebase credentials should be unavailable to ensure tests use mocked services rather than making real API calls. The `has_firebase_credentials()` utility enforces this by returning `False`.
 
 ## Related Concepts
-- [[MockedServices]] — Test doubles that replace real Firebase interactions
-- [[FirebaseAuthentication]] — Firebase Auth service
-- [[Firestore]] — Firebase NoSQL database
+- [MockedServices](MockedServices.md) — Test doubles that replace real Firebase interactions
+- [FirebaseAuthentication](FirebaseAuthentication.md) — Firebase Auth service
+- [Firestore](Firestore.md) — Firebase NoSQL database
 
 ## Sources
 - [[CommonTestUtilities]]

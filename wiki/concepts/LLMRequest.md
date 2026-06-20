@@ -26,6 +26,6 @@ Python class that constructs and validates requests to LLM APIs (primarily Gemin
 - Total payload limited by MAX_PAYLOAD_SIZE
 
 ## Related Concepts
-- [[ValidationError]] — raised on field validation failures
-- [[PayloadTooLargeError]] — raised on oversized payloads
+- [ValidationError](ValidationError.md) — raised on field validation failures
+- [PayloadTooLargeError](PayloadTooLargeError.md) — raised on oversized payloads
 - [[Type Safety]] — enforced through type checking

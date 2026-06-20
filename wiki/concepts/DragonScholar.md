@@ -42,7 +42,7 @@ The class is designed to be "top meta" level—a powerful, high-utility spellcas
 
 ## Connections
 
-- [[Visenya]] — The Dragon Scholar
+- [Visenya](../entities/Visenya.md) — The Dragon Scholar
 - [[Ser Duncan The Tall]] — Her hedge knight mentor
 - [[Targaryen]] — The heritage that enables dragon connection
 - [[Visenya V1 Dunk And Egg Campaign]] — The campaign featuring this class

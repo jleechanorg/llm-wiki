@@ -10,13 +10,13 @@ total_scenes: 417
 
 ## Overview
 
-** The Zenith of the Dragon, Valyria appears in 45 scenes across the [[visenya-v4]] campaign.
+** The Zenith of the Dragon, Valyria appears in 45 scenes across the [visenya-v4](../sources/visenya-v4.md) campaign.
 
 ## Description
 
 ** The Zenith of the Dragon, Valyria is an entity from the visenya-v4 campaign.
 
 ## References
-- [[visenya-v4]] — campaign overview
+- [visenya-v4](../sources/visenya-v4.md) — campaign overview
 - [[visenya-v4-campaign]]
 

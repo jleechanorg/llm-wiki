@@ -24,6 +24,6 @@ Large-scale empirical study of coding agent adoption on GitHub. 22-28% adoption 
 
 ## Connections
 
-- Evidence for rapid [[VibeCodingSafe]] adoption — 22-28% already using agents
-- [[WhatMakesAGitHubIssueReadyForCopilot]] — what makes issues AI-ready
-- [[FromCorrectnessToCollaboration]] — human-AI partnership evaluation
+- Evidence for rapid [VibeCodingSafe](VibeCodingSafe.md) adoption — 22-28% already using agents
+- [WhatMakesAGitHubIssueReadyForCopilot](WhatMakesAGitHubIssueReadyForCopilot.md) — what makes issues AI-ready
+- [FromCorrectnessToCollaboration](FromCorrectnessToCollaboration.md) — human-AI partnership evaluation

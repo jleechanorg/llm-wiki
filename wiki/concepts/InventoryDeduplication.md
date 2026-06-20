@@ -17,4 +17,4 @@ The `_handle_inventory_safeguard` function in firestore_service.py handles:
 
 ## Related Pages
 - [[FirestoreServiceInventoryDeduplicationTests]]
-- [[PR3746]]
+- [PR3746](../entities/PR3746.md)

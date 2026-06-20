@@ -20,8 +20,8 @@ The Uchiha represent the first step in Itachi's grand plan. Their elimination re
 
 ## Connections
 
-- [[ItachiUchiha]] — The perpetrator
+- [ItachiUchiha](ItachiUchiha.md) — The perpetrator
 - [[ItachiEvilCampaign2Campaign]] — Campaign
-- [[UchihaCompound]] — Location
-- [[Sharingan]] — Bloodline ability
-- [[Konohagakure]] — Home village
+- [UchihaCompound](UchihaCompound.md) — Location
+- [Sharingan](../concepts/Sharingan.md) — Bloodline ability
+- [Konohagakure](Konohagakure.md) — Home village

@@ -10,13 +10,13 @@ total_scenes: 58
 
 ## Overview
 
-House Shiro appears in 3 scenes across the [[sariel-assiah]] campaign.
+House Shiro appears in 3 scenes across the [sariel-assiah](../sources/sariel-assiah.md) campaign.
 
 ## Description
 
 House Shiro is an entity from the sariel-assiah campaign.
 
 ## References
-- [[sariel-assiah]] — campaign overview
-- [[sariel-assiah-campaign]]
+- [sariel-assiah](../sources/sariel-assiah.md) — campaign overview
+- [sariel-assiah-campaign](../sources/sariel-assiah-campaign.md)
 

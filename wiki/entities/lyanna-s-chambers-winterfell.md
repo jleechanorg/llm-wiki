@@ -10,13 +10,13 @@ total_scenes: 140
 
 ## Overview
 
-** Lyanna's Chambers, Winterfell appears in 14 scenes across the [[arthur-dayne]] campaign.
+** Lyanna's Chambers, Winterfell appears in 14 scenes across the [arthur-dayne](../sources/arthur-dayne.md) campaign.
 
 ## Description
 
 ** Lyanna's Chambers, Winterfell is an entity from the arthur-dayne campaign.
 
 ## References
-- [[arthur-dayne]] — campaign overview
-- [[arthur-dayne-campaign]]
+- [arthur-dayne](../sources/arthur-dayne.md) — campaign overview
+- [arthur-dayne-campaign](../sources/arthur-dayne-campaign.md)
 

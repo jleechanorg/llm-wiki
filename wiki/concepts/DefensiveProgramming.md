@@ -10,7 +10,7 @@ last_updated: 2026-04-08
 Programming practice of anticipating and handling edge cases, invalid inputs, and failure modes rather than allowing exceptions to propagate. The `add_safe` function exemplifies defensive programming by coercing types and returning caller-provided defaults instead of raising exceptions.
 
 ## Related Patterns
-- [[TypeCoercion]] — converting between types safely
+- [TypeCoercion](TypeCoercion.md) — converting between types safely
 - [[FailFast]] — opposite pattern that crashes on invalid input
 
 ## Examples

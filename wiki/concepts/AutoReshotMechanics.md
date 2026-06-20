@@ -15,5 +15,5 @@ Automatic retry mechanism for LLM responses that fail validation or omit require
 - **Silent operation**: No user-visible failures; all retries happen transparently
 
 ## References
-- [[StructuredFieldsUtils]] — validates and triggers auto-reshots
-- [[WorldLogic]] — process_action_unified handles retry logic
+- [StructuredFieldsUtils](../entities/StructuredFieldsUtils.md) — validates and triggers auto-reshots
+- [WorldLogic](../entities/WorldLogic.md) — process_action_unified handles retry logic

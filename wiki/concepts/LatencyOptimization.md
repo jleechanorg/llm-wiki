@@ -40,6 +40,6 @@ Subtle indicators showing when enhancement completes ("✨ Story enhanced")
 **Source:** `project_2026-05-12_story_budget_ab_null_result.md` in Claude memory, `/tmp/story_budget_ab2/` evidence.
 
 ## Related Concepts
-- [[ParallelProcessing]] — implementation technique
-- [[DualPassVerification]] — the system being optimized
+- [ParallelProcessing](ParallelProcessing.md) — implementation technique
+- [DualPassVerification](DualPassVerification.md) — the system being optimized
 - [[UserExperience]] — the beneficiary of optimization

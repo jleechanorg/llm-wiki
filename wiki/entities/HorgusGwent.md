@@ -11,15 +11,15 @@ Horgus Gwent is a wealthy noble and regular client of the Bloom Shadow brothel w
 
 ## Key Details
 - **Category:** Person
-- **Campaign(s):** [[nocturne-bg3-v4]], [[nocturne-bg3-v5]], [[nocturne-bg3-v5-fixed-v2]]
+- **Campaign(s):** [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md), [nocturne-bg3-v5](../sources/nocturne-bg3-v5.md), [nocturne-bg3-v5-fixed-v2](../sources/nocturne-bg3-v5-fixed-v2.md)
 - **Role:** Catalyst / Secondary Antagonist
 - **Affiliation:** Cassalanter Family associate
 
 ## Connections
-- [[NocturneSosuke]] — regular client, catalyst for revenge
+- [NocturneSosuke](NocturneSosuke.md) — regular client, catalyst for revenge
 - [[SoulCoin]] — possesses Lyra's Soul Coin
-- [[BloomShadow]] — visits the brothel
-- [[CassalanterFamily]] — associate
+- [BloomShadow](BloomShadow.md) — visits the brothel
+- [CassalanterFamily](CassalanterFamily.md) — associate
 
 ## Appearances
-- [[nocturne-bg3-v4]] — Scene 1-9, brings inciting incident
+- [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md) — Scene 1-9, brings inciting incident

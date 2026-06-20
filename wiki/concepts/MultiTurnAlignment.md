@@ -21,5 +21,5 @@ Multi-Turn Alignment refers to training data and methods for improving agent ins
 Multi-turn alignment is relevant to governance because governance constraints must be maintained across the entire evolve loop — not just in a single turn. Multi-turn capability ensures constraints persist.
 
 ## See Also
-- [[AgentBench]]
+- [AgentBench](AgentBench.md)
 - [[LLM Evaluation]]

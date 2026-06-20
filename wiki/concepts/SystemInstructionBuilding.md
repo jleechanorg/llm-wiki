@@ -17,6 +17,6 @@ System instruction building is the process by which each agent type constructs t
 
 
 ## Related
-- [[PromptBuilder]]
-- [[StoryModeAgent]]
-- [[GodModeAgent]]
+- [PromptBuilder](PromptBuilder.md)
+- [StoryModeAgent](../entities/StoryModeAgent.md)
+- [GodModeAgent](../entities/GodModeAgent.md)

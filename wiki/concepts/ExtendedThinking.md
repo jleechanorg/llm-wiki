@@ -64,8 +64,8 @@ Extended Thinking provides step-by-step reasoning prefixes before code generatio
 
 ## Related Concepts
 
-- [[SelfRefine]] — iterative refinement after generation — distinct from pre-hoc extended thinking
-- [[ProcessRewardModel]] — step-level feedback during generation
-- [[ChainOfThought]] — reasoning trace techniques
-- [[TestTimeCompute]] — inference-time computation budget research
-- [[BeamSearchOverReasoning]] — PRM-guided beam search for efficient test-time compute exploration
+- [SelfRefine](SelfRefine.md) — iterative refinement after generation — distinct from pre-hoc extended thinking
+- [ProcessRewardModel](ProcessRewardModel.md) — step-level feedback during generation
+- [ChainOfThought](ChainOfThought.md) — reasoning trace techniques
+- [TestTimeCompute](TestTimeCompute.md) — inference-time computation budget research
+- [BeamSearchOverReasoning](BeamSearchOverReasoning.md) — PRM-guided beam search for efficient test-time compute exploration

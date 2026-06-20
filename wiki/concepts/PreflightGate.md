@@ -18,5 +18,5 @@ Scattered checks and command-specific validation.
 Bead ORCH-zzd: Unified preflight gate before convergence execution.
 
 ## Connections
-- [[mctrl]] — implementation target
-- [[jleechanclaw]] — implementation target
+- [mctrl](../entities/mctrl.md) — implementation target
+- [jleechanclaw](../entities/jleechanclaw.md) — implementation target

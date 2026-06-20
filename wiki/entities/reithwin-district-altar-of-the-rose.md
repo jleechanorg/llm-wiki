@@ -10,13 +10,13 @@ total_scenes: 386
 
 ## Overview
 
-** Reithwin District - Altar of the Rose appears in 4 scenes across the [[noctune-bg3-v6]] campaign.
+** Reithwin District - Altar of the Rose appears in 4 scenes across the [noctune-bg3-v6](../sources/noctune-bg3-v6.md) campaign.
 
 ## Description
 
 ** Reithwin District - Altar of the Rose is an entity from the noctune-bg3-v6 campaign.
 
 ## References
-- [[noctune-bg3-v6]] — campaign overview
-- [[noctune-bg3-v6-campaign]]
+- [noctune-bg3-v6](../sources/noctune-bg3-v6.md) — campaign overview
+- [noctune-bg3-v6-campaign](../sources/noctune-bg3-v6-campaign.md)
 

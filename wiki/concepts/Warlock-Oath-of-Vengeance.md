@@ -25,5 +25,5 @@ At 3rd level, warlocks gain:
 Boudica's warlock class represents her mystical connection to ancient druidic powers and her oath of vengeance against the Romans. The class combines martial prowess with supernatural retribution.
 
 ## Connections
-- [[Boudica]] — character with this feature
+- [Boudica](../entities/Boudica.md) — character with this feature
 - [[Boudica's Uprising Campaign]] — campaign

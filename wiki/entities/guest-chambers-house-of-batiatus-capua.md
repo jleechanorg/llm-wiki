@@ -10,13 +10,13 @@ total_scenes: 474
 
 ## Overview
 
-** Guest Chambers, House of Batiatus (Capua) appears in 4 scenes across the [[rome-pax-julia]] campaign.
+** Guest Chambers, House of Batiatus (Capua) appears in 4 scenes across the [rome-pax-julia](../sources/rome-pax-julia.md) campaign.
 
 ## Description
 
 ** Guest Chambers, House of Batiatus (Capua) is an entity from the rome-pax-julia campaign.
 
 ## References
-- [[rome-pax-julia]] — campaign overview
-- [[rome-pax-julia-campaign]]
+- [rome-pax-julia](../sources/rome-pax-julia.md) — campaign overview
+- [rome-pax-julia-campaign](../sources/rome-pax-julia-campaign.md)
 

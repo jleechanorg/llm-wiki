@@ -18,9 +18,9 @@ Spartacus was a Thracian rebel leader who led a major slave uprising against the
 Originally a slave and gladiator, he escaped from the ludus in Capua and sparked the Third Servile War. His army of escaped slaves threatened Roman society, defeating multiple consular legions before final defeat by Marcus Licinius Crassus.
 
 **Connections:**
-- [[SpartacusRebels]] — army he led
-- [[Crixus]] — fellow rebel leader (brutal counterpart)
-- [[GaiaJuliaCaesar]] — imperial daughter manipulating the rebellion
-- [[ThirdServileWar]] — historical backdrop
-- [[gaia-julia-v4-campaign]] — campaign appearance
-- [[gaia-julia-v5-campaign]] — campaign appearance
+- [SpartacusRebels](SpartacusRebels.md) — army he led
+- [Crixus](Crixus.md) — fellow rebel leader (brutal counterpart)
+- [GaiaJuliaCaesar](GaiaJuliaCaesar.md) — imperial daughter manipulating the rebellion
+- [ThirdServileWar](../concepts/ThirdServileWar.md) — historical backdrop
+- [gaia-julia-v4-campaign](../sources/gaia-julia-v4-campaign.md) — campaign appearance
+- [gaia-julia-v5-campaign](../sources/gaia-julia-v5-campaign.md) — campaign appearance

@@ -15,6 +15,6 @@ The process of extracting structured data (narrative text and state updates) fro
 - **Narrative Separation**: Critical requirement that state updates don't appear in the narrative output
 
 ## Related Concepts
-- [[GameStateManagement]]
-- [[NarrativeResponseSchema]]
+- [GameStateManagement](GameStateManagement.md)
+- [NarrativeResponseSchema](NarrativeResponseSchema.md)
 - [[LLMResponseValidation]]

@@ -16,4 +16,4 @@ Automated 7-green PR merge gate running as GitHub Actions cron workflow.
 
 ## Related
 - [[green-gate-ci-pattern]]
-- [[CodeRabbitDismissedPattern]]
+- [CodeRabbitDismissedPattern](CodeRabbitDismissedPattern.md)

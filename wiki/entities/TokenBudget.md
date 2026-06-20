@@ -20,5 +20,5 @@ date: 2026-05-16
 Story context gets all leftover budget after other components fill to max.
 
 ## Connections
-- [[WorldArchitectAI]] — uses this system
+- [WorldArchitectAI](WorldArchitectAI.md) — uses this system
 - [[WorldArchitect System Architecture v3.0]] — §4.3

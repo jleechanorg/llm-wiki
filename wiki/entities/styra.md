@@ -16,12 +16,12 @@ Styra is the company founded by the OPA authors that provides commercial OPA dis
 - **Policy-as-Code**: Extends Rego with visual editors and pre-built policy libraries
 
 ## Connections
-- [[OPA]] — Styra is the company behind OPA; primary commercial relationship
+- [OPA](OPA.md) — Styra is the company behind OPA; primary commercial relationship
 - [[Policy-as-Code]] — core concept both companies enforce
-- [[Rego]] — policy language Styra's platform is built around
-- [[CNCF]] — OPA graduated under CNCF; Styra provides enterprise layer
+- [Rego](Rego.md) — policy language Styra's platform is built around
+- [CNCF](CNCF.md) — OPA graduated under CNCF; Styra provides enterprise layer
 
 ## See Also
-- [[OPA]]
+- [OPA](OPA.md)
 - [[Policy-as-Code]]
-- [[Rego]]
+- [Rego](Rego.md)

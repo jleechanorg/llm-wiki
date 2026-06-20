@@ -26,7 +26,7 @@ Policy decoupling is the architectural pattern of separating policy decision-mak
 ZFC Level-Up Architecture applies the same principle: the model (LLM) decides level-up facts; `rewards_engine.py` validates and formats. The backend formats like OPA evaluates — purely mechanical transformation of structured input to structured output, no semantic judgment.
 
 ## See Also
-- [[OPA]]
-- [[Rego]]
+- [OPA](../entities/OPA.md)
+- [Rego](../entities/Rego.md)
 - [[Fail-Closed]]
-- [[ZFC-Level-Up-Architecture]]
+- [ZFC-Level-Up-Architecture](ZFC-Level-Up-Architecture.md)

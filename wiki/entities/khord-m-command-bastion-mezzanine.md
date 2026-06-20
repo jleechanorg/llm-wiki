@@ -10,13 +10,13 @@ total_scenes: 500
 
 ## Overview
 
-** Khordūm - Command Bastion Mezzanine appears in 5 scenes across the [[dragon-knight-evil]] campaign.
+** Khordūm - Command Bastion Mezzanine appears in 5 scenes across the [dragon-knight-evil](../sources/dragon-knight-evil.md) campaign.
 
 ## Description
 
 ** Khordūm - Command Bastion Mezzanine is an entity from the dragon-knight-evil campaign.
 
 ## References
-- [[dragon-knight-evil]] — campaign overview
-- [[dragon-knight-evil-campaign]]
+- [dragon-knight-evil](../sources/dragon-knight-evil.md) — campaign overview
+- [dragon-knight-evil-campaign](../sources/dragon-knight-evil-campaign.md)
 

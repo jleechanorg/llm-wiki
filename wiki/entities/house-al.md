@@ -10,13 +10,13 @@ total_scenes: 110
 
 ## Overview
 
-House Al appears in 3 scenes across the [[merc-solo-brute-gladius]] campaign.
+House Al appears in 3 scenes across the [merc-solo-brute-gladius](../sources/merc-solo-brute-gladius.md) campaign.
 
 ## Description
 
 House Al is an entity from the merc-solo-brute-gladius campaign.
 
 ## References
-- [[merc-solo-brute-gladius]] — campaign overview
-- [[merc-solo-brute-gladius-campaign]]
+- [merc-solo-brute-gladius](../sources/merc-solo-brute-gladius.md) — campaign overview
+- [merc-solo-brute-gladius-campaign](../sources/merc-solo-brute-gladius-campaign.md)
 

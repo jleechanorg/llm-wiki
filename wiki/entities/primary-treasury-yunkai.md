@@ -10,13 +10,13 @@ total_scenes: 277
 
 ## Overview
 
-** Primary Treasury, Yunkai appears in 7 scenes across the [[visenya-v2]] campaign.
+** Primary Treasury, Yunkai appears in 7 scenes across the [visenya-v2](../sources/visenya-v2.md) campaign.
 
 ## Description
 
 ** Primary Treasury, Yunkai is an entity from the visenya-v2 campaign.
 
 ## References
-- [[visenya-v2]] — campaign overview
+- [visenya-v2](../sources/visenya-v2.md) — campaign overview
 - [[visenya-v2-campaign]]
 

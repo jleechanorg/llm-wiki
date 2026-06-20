@@ -10,13 +10,13 @@ total_scenes: 117
 
 ## Overview
 
-** Capua, Crassus Villa Atrium appears in 19 scenes across the [[gaia-julia-v3]] campaign.
+** Capua, Crassus Villa Atrium appears in 19 scenes across the [gaia-julia-v3](../sources/gaia-julia-v3.md) campaign.
 
 ## Description
 
 ** Capua, Crassus Villa Atrium is an entity from the gaia-julia-v3 campaign.
 
 ## References
-- [[gaia-julia-v3]] — campaign overview
-- [[gaia-julia-v3-campaign]]
+- [gaia-julia-v3](../sources/gaia-julia-v3.md) — campaign overview
+- [gaia-julia-v3-campaign](../sources/gaia-julia-v3-campaign.md)
 

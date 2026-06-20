@@ -16,5 +16,5 @@ Configuration system for selecting and managing LLM backends. Supports multiple 
 
 ## Related
 - [[Shared Constants Configuration]] — defines provider constants
-- [[Gemini]] — default provider
-- [[OpenClaw]] — local model option
+- [Gemini](../entities/Gemini.md) — default provider
+- [OpenClaw](../entities/OpenClaw.md) — local model option

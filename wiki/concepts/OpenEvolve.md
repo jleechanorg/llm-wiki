@@ -30,7 +30,7 @@ OpenEvolve is a text optimizer referenced in the Meta-Harness paper as a prior a
 
 ## Connections
 
-- [[MetaHarness]] — outperforms OpenEvolve by optimizing harness rather than prompts
-- [[ACE]] — another text optimizer compared in the paper
-- [[AlphaEvolv]] — related optimizer with scalar feedback focus
+- [MetaHarness](MetaHarness.md) — outperforms OpenEvolve by optimizing harness rather than prompts
+- [ACE](ACE.md) — another text optimizer compared in the paper
+- [AlphaEvolv](AlphaEvolv.md) — related optimizer with scalar feedback focus
 - [[TextOptimizer]] — broader class OpenEvolve represents

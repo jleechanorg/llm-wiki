@@ -22,5 +22,5 @@ The test suite verifies that:
 3. Existing action_resolution takes precedence
 
 ## Related Concepts
-- [[ActionResolution]] — target schema
-- [[BackwardCompatibility]] — design principle
+- [ActionResolution](ActionResolution.md) — target schema
+- [BackwardCompatibility](BackwardCompatibility.md) — design principle

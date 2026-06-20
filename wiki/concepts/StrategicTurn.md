@@ -15,10 +15,10 @@ The primary time unit in FACTION mode, representing 7 in-game days. Used for tra
 - **neglect_warning_threshold**: 5 turns before warning appears
 
 ## Usage
-Strategic turns advance when the player issues faction orders. Each turn advances the in-game calendar by turn_duration_days. The system tracks when the player last issued orders and generates [[AttentionTriggers]] if thresholds are exceeded.
+Strategic turns advance when the player issues faction orders. Each turn advances the in-game calendar by turn_duration_days. The system tracks when the player last issued orders and generates [AttentionTriggers](AttentionTriggers.md) if thresholds are exceeded.
 
 ## Related Concepts
-- [[DualModeCampaignSystem]] — parent system
-- [[CampaignMode]] — FACTION mode time unit
-- [[AttentionTriggers]] — neglect warning generation
-- [[DeferredRewardsProtocol]] — turn-based reward tracking
+- [DualModeCampaignSystem](DualModeCampaignSystem.md) — parent system
+- [CampaignMode](CampaignMode.md) — FACTION mode time unit
+- [AttentionTriggers](AttentionTriggers.md) — neglect warning generation
+- [DeferredRewardsProtocol](DeferredRewardsProtocol.md) — turn-based reward tracking

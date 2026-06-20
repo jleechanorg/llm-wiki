@@ -10,13 +10,13 @@ total_scenes: 315
 
 ## Overview
 
-** Lower City - Sorcerous Sundries appears in 8 scenes across the [[old-noctune-merc-bg3]] campaign.
+** Lower City - Sorcerous Sundries appears in 8 scenes across the [old-noctune-merc-bg3](../sources/old-noctune-merc-bg3.md) campaign.
 
 ## Description
 
 ** Lower City - Sorcerous Sundries is an entity from the old-noctune-merc-bg3 campaign.
 
 ## References
-- [[old-noctune-merc-bg3]] — campaign overview
+- [old-noctune-merc-bg3](../sources/old-noctune-merc-bg3.md) — campaign overview
 - [[old-noctune-merc-bg3-campaign]]
 

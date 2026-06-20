@@ -24,5 +24,5 @@ Eddard's inflexible honor is highly predictable, and Jon Snow's true Targaryen l
 - **Hostility**: Antagonistic to Targaryen rule but isolationist rather than aggressive
 
 ## Connections
-- [[VisenyaTargaryen]] — Visenya's target for manipulation
+- [VisenyaTargaryen](VisenyaTargaryen.md) — Visenya's target for manipulation
 - [[HouseBolton]] — Bolton sadism mirrors Visenya but lacks elegance; potential to be triggered to discredit Roose

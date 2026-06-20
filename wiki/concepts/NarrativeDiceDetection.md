@@ -19,5 +19,5 @@ The process of scanning narrative text (non-structured response text) for patter
 - **With Evidence**: Validates against structured response dice_rolls field
 
 ## Related Concepts
-- [[DiceFabricationDetection]] — uses detection results
-- [[StructuredResponseParsing]] — parsing structured dice data
+- [DiceFabricationDetection](DiceFabricationDetection.md) — uses detection results
+- [StructuredResponseParsing](StructuredResponseParsing.md) — parsing structured dice data

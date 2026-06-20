@@ -10,13 +10,13 @@ total_scenes: 140
 
 ## Overview
 
-** Side Chapel, Great Sept of Baelor appears in 3 scenes across the [[arthur-dayne]] campaign.
+** Side Chapel, Great Sept of Baelor appears in 3 scenes across the [arthur-dayne](../sources/arthur-dayne.md) campaign.
 
 ## Description
 
 ** Side Chapel, Great Sept of Baelor is an entity from the arthur-dayne campaign.
 
 ## References
-- [[arthur-dayne]] — campaign overview
-- [[arthur-dayne-campaign]]
+- [arthur-dayne](../sources/arthur-dayne.md) — campaign overview
+- [arthur-dayne-campaign](../sources/arthur-dayne-campaign.md)
 

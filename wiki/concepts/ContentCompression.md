@@ -29,6 +29,6 @@ Converting multi-line bullet lists into single lines with pipe separators, savin
 Moving examples and detailed content to referenced files while maintaining pointers.
 
 ## Related Concepts
-- [[DocumentationOptimization]]
-- [[MarkdownFormatting]]
-- [[Deduplication]]
+- [DocumentationOptimization](DocumentationOptimization.md)
+- [MarkdownFormatting](MarkdownFormatting.md)
+- [Deduplication](Deduplication.md)

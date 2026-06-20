@@ -10,13 +10,13 @@ total_scenes: 468
 
 ## Overview
 
-** Counting House Exterior appears in 3 scenes across the [[aizen-bg3-v2]] campaign.
+** Counting House Exterior appears in 3 scenes across the [aizen-bg3-v2](../sources/aizen-bg3-v2.md) campaign.
 
 ## Description
 
 ** Counting House Exterior is an entity from the aizen-bg3-v2 campaign.
 
 ## References
-- [[aizen-bg3-v2]] — campaign overview
-- [[aizen-bg3-v2-campaign]]
+- [aizen-bg3-v2](../sources/aizen-bg3-v2.md) — campaign overview
+- [aizen-bg3-v2-campaign](../sources/aizen-bg3-v2-campaign.md)
 

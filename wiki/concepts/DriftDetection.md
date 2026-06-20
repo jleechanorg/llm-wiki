@@ -22,6 +22,6 @@ Drift Detection monitors production ML systems for performance degradation and d
 Drift detection is the feedback loop mechanism that Grok's critique #3 calls for — governance rules that detect when they are too strict or too loose based on observed drift in outcomes.
 
 ## See Also
-- [[ArizeAI]]
+- [ArizeAI](../entities/ArizeAI.md)
 - [[FeedbackLoops]]
-- [[GovernanceLayer]]
+- [GovernanceLayer](GovernanceLayer.md)

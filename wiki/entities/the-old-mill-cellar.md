@@ -10,13 +10,13 @@ total_scenes: 129
 
 ## Overview
 
-** The Old Mill Cellar appears in 7 scenes across the [[aizen-thay-v1]] campaign.
+** The Old Mill Cellar appears in 7 scenes across the [aizen-thay-v1](../sources/aizen-thay-v1.md) campaign.
 
 ## Description
 
 ** The Old Mill Cellar is an entity from the aizen-thay-v1 campaign.
 
 ## References
-- [[aizen-thay-v1]] — campaign overview
-- [[aizen-thay-v1-campaign]]
+- [aizen-thay-v1](../sources/aizen-thay-v1.md) — campaign overview
+- [aizen-thay-v1-campaign](../sources/aizen-thay-v1-campaign.md)
 

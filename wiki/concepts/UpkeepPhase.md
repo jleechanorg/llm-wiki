@@ -27,10 +27,10 @@ upkeep = soldiers * 0.5gp + spies * 1gp + elites * 5gp per week
 ### Integration Points
 - Applied during world time advancement (time moves forward)
 - Triggers faction treasury deduction
-- Triggers [[FactionMinigame]] economic balancing
+- Triggers [FactionMinigame](FactionMinigame.md) economic balancing
 
 ## Connections
 
-- [[FactionMinigame]] — broader faction economic system
-- [[mvp-site-upkeep]] — Python implementation of upkeep calculation
-- [[TurnResolution]] — time advancement triggers upkeep phase
+- [FactionMinigame](FactionMinigame.md) — broader faction economic system
+- [mvp-site-upkeep](../sources/mvp-site-upkeep.md) — Python implementation of upkeep calculation
+- [TurnResolution](TurnResolution.md) — time advancement triggers upkeep phase

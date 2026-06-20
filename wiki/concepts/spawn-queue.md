@@ -18,5 +18,5 @@ date: 2026-04-22
 
 ## See Also
 
-- [[lifecycle-skeptic]] — Phase 1 (extract before spawn)
-- [[fork-plugin-refactor-design]] — Full design document
+- [lifecycle-skeptic](lifecycle-skeptic.md) — Phase 1 (extract before spawn)
+- [fork-plugin-refactor-design](../sources/fork-plugin-refactor-design.md) — Full design document

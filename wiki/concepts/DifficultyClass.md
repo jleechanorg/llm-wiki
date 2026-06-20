@@ -28,6 +28,6 @@ Difficulty Class (DC) is set BEFORE rolling in Think Mode based on what the char
 - **Expert Knowledge**: -3 to DC
 
 ## Related Concepts
-- [[IntelligenceCheck]] — roll 1d20 + INT modifier vs DC
-- [[WisdomCheck]] — roll 1d20 + WIS modifier vs DC
-- [[PlanQuality]] — determined by margin between roll and DC
+- [IntelligenceCheck](IntelligenceCheck.md) — roll 1d20 + INT modifier vs DC
+- [WisdomCheck](WisdomCheck.md) — roll 1d20 + WIS modifier vs DC
+- [PlanQuality](PlanQuality.md) — determined by margin between roll and DC

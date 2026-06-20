@@ -15,12 +15,12 @@ Mammoth is 2389 Research's Go DOT-based pipeline runner for LLM agent workflows.
 - **Test suite**: 5,200+ tests
 
 ## Connections
-- [[2389Research]] — 2389 Research built Mammoth
-- [[Tracker]] — Mammoth uses tracker for pipeline execution
-- [[AttractorPattern]] — Mammoth converges on the three-layer attractor architecture
-- [[Smasher]] — Smasher is 2389's Rust alternative (leaner, used day-to-day)
+- [2389Research](2389Research.md) — 2389 Research built Mammoth
+- [Tracker](Tracker.md) — Mammoth uses tracker for pipeline execution
+- [AttractorPattern](../concepts/AttractorPattern.md) — Mammoth converges on the three-layer attractor architecture
+- [Smasher](Smasher.md) — Smasher is 2389's Rust alternative (leaner, used day-to-day)
 
 ## See Also
-- [[2389Research]]
-- [[Tracker]]
-- [[Smasher]]
+- [2389Research](2389Research.md)
+- [Tracker](Tracker.md)
+- [Smasher](Smasher.md)

@@ -20,9 +20,9 @@ Functional validation testing verifies that UI components and user-facing featur
 
 ## Relationship to Other Concepts
 
-- Related to [[UnitTesting]] - smaller scale, tests individual functions
-- Related to [[E2ETesting]] - end-to-end covers full user flows
-- Related to [[RedGreenTesting]] - TDD approach for validation
+- Related to [UnitTesting](UnitTesting.md) - smaller scale, tests individual functions
+- Related to [E2ETesting](E2ETesting.md) - end-to-end covers full user flows
+- Related to [RedGreenTesting](RedGreenTesting.md) - TDD approach for validation
 - Related to [[UIAutomationTesting]] - specific to interface elements
 
 ## Application

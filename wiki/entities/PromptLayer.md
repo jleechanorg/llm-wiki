@@ -19,9 +19,9 @@ PromptLayer is a prompt registry platform with RBAC and SSO for enterprise promp
 
 ## Connections
 
-- [[PromptRegistry]] — PromptLayer is a prompt registry with RBAC
-- [[GovernanceLayer]] — prompt registries are governance infrastructure for LLM-based systems
+- [PromptRegistry](../concepts/PromptRegistry.md) — PromptLayer is a prompt registry with RBAC
+- [GovernanceLayer](../concepts/GovernanceLayer.md) — prompt registries are governance infrastructure for LLM-based systems
 
 ## See Also
-- [[PromptRegistry]]
-- [[GovernanceLayer]]
+- [PromptRegistry](../concepts/PromptRegistry.md)
+- [GovernanceLayer](../concepts/GovernanceLayer.md)

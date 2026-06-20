@@ -10,13 +10,13 @@ total_scenes: 258
 
 ## Overview
 
-** Maidenvault Septry, Red Keep appears in 4 scenes across the [[visenya-v5]] campaign.
+** Maidenvault Septry, Red Keep appears in 4 scenes across the [visenya-v5](../sources/visenya-v5.md) campaign.
 
 ## Description
 
 ** Maidenvault Septry, Red Keep is an entity from the visenya-v5 campaign.
 
 ## References
-- [[visenya-v5]] — campaign overview
+- [visenya-v5](../sources/visenya-v5.md) — campaign overview
 - [[visenya-v5-campaign]]
 

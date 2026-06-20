@@ -10,13 +10,13 @@ total_scenes: 230
 
 ## Overview
 
-** Frost-Spur Slopes appears in 6 scenes across the [[dragon-knight-good]] campaign.
+** Frost-Spur Slopes appears in 6 scenes across the [dragon-knight-good](../sources/dragon-knight-good.md) campaign.
 
 ## Description
 
 ** Frost-Spur Slopes is an entity from the dragon-knight-good campaign.
 
 ## References
-- [[dragon-knight-good]] — campaign overview
-- [[dragon-knight-good-campaign]]
+- [dragon-knight-good](../sources/dragon-knight-good.md) — campaign overview
+- [dragon-knight-good-campaign](../sources/dragon-knight-good-campaign.md)
 

@@ -10,4 +10,4 @@ last_updated: 2026-04-08
 Metrics class for tracking memory integration performance and cache statistics.
 
 ## Source
-[[memory-mcp-integration]]
+[memory-mcp-integration](../sources/memory-mcp-integration.md)

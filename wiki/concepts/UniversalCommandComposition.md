@@ -25,6 +25,6 @@ Breakthrough dual-architecture system distinguishing between "Cognitive Commands
 9/10 - HIGHLY NOVEL
 
 ## Related Pages
-- [[ClaudeCode]]
+- [ClaudeCode](../entities/ClaudeCode.md)
 - [[CognitiveCommands]]
 - [[OperationalCommands]]

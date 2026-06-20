@@ -6,7 +6,7 @@ sources: []
 last_updated: 2026-05-01
 ---
 
-A background removal technique using exact #00FF00 chroma green. Core enabling technology of the [[SpriteSheetPipeline]].
+A background removal technique using exact #00FF00 chroma green. Core enabling technology of the [SpriteSheetPipeline](SpriteSheetPipeline.md).
 
 ## Requirements
 
@@ -20,4 +20,4 @@ Green is used because human skin doesn't contain green wavelengths, making it ea
 
 ## Related
 
-[[SpriteSheetPipeline]], [[PreserveCanvasMode]], [[Kling]]
+[SpriteSheetPipeline](SpriteSheetPipeline.md), [PreserveCanvasMode](PreserveCanvasMode.md), [Kling](../entities/Kling.md)

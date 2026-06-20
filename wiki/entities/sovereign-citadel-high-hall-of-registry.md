@@ -10,13 +10,13 @@ total_scenes: 1207
 
 ## Overview
 
-** Sovereign Citadel, High Hall of Registry appears in 4 scenes across the [[nocturne-bg3-v4]] campaign.
+** Sovereign Citadel, High Hall of Registry appears in 4 scenes across the [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md) campaign.
 
 ## Description
 
 ** Sovereign Citadel, High Hall of Registry is an entity from the nocturne-bg3-v4 campaign.
 
 ## References
-- [[nocturne-bg3-v4]] — campaign overview
-- [[nocturne-bg3-v4-campaign]]
+- [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md) — campaign overview
+- [nocturne-bg3-v4-campaign](../sources/nocturne-bg3-v4-campaign.md)
 

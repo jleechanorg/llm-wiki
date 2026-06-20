@@ -21,8 +21,8 @@ A testing methodology where fake implementations of external services (databases
 - Enable integration testing across services
 
 ## Connected Concepts
-- [[FakeFirestoreClient]] — example implementation
-- [[FakeFirebaseAuth]] — example implementation
-- [[FakeLLMClient]] — example implementation
-- [[IntegrationTesting]] — where this pattern is most valuable
-- [[TestIsolation]] — principle this enables
+- [FakeFirestoreClient](../entities/FakeFirestoreClient.md) — example implementation
+- [FakeFirebaseAuth](../entities/FakeFirebaseAuth.md) — example implementation
+- [FakeLLMClient](../entities/FakeLLMClient.md) — example implementation
+- [IntegrationTesting](IntegrationTesting.md) — where this pattern is most valuable
+- [TestIsolation](TestIsolation.md) — principle this enables

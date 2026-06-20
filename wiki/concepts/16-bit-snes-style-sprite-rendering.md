@@ -2,7 +2,7 @@
 
 **Type:** Rendering Style  
 **Inspiration:** Chrono Trigger, Final Fantasy 6, Earthbound  
-**Implementation:** [[spritesheet-ts]]
+**Implementation:** [spritesheet-ts](../entities/spritesheet-ts.md)
 
 ## Overview
 
@@ -63,8 +63,8 @@ context.drawImage(
 
 - [[ChronoTriggerStyleSpriteSheets]] - Specific inspiration
 - [[SpriteGenerationSystem]] - Production system
-- [[sprite-generator-service]] - LLM generation of this style
-- [[spritesheet-ts]] - Rendering implementation
+- [sprite-generator-service](../entities/sprite-generator-service.md) - LLM generation of this style
+- [spritesheet-ts](../entities/spritesheet-ts.md) - Rendering implementation
 
 ## Tag
 #rendering-style #pixel-art #snes #retro-gaming #canvas

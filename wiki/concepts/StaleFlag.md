@@ -34,5 +34,5 @@ After level-up modal completes:
 ## Connections
 - [[REV-0g1y]] — fixed stale flag detection
 - [[REV-439p]] — also addresses flag handling
-- [[GameState]] — manages flag lifecycle
-- [[LevelUpBug]] — level-up bug chain including stale flag bugs
+- [GameState](GameState.md) — manages flag lifecycle
+- [LevelUpBug](LevelUpBug.md) — level-up bug chain including stale flag bugs

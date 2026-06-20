@@ -22,7 +22,7 @@ The Blood Dragon represents the moral ambiguity at the heart of these campaigns.
 
 ## Connections
 
-- [[Sariel]] — Character
+- [Sariel](../entities/Sariel.md) — Character
 - [[HuntingPartySarielCampaign]] — Original campaign
 - [[HuntingPartySarielV2Campaign]] — V2 campaign
 - [[DragonBreathIncident]] — Origin event

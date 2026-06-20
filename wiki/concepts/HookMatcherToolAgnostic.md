@@ -31,5 +31,5 @@ matcher: lambda tool_name: tool_name in shell_tools
 ```
 
 ## Connections
-- [[AgentAdapter]] — tool adapters normalize tool names across CLIs
+- [AgentAdapter](AgentAdapter.md) — tool adapters normalize tool names across CLIs
 - [[PostToolUse]] — metadata update hook system

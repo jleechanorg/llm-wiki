@@ -25,17 +25,17 @@ Nocturne is the player character in the Nocturne Old Republic campaign. A Level 
 4. **Post-God-Empress:** Distributing gifts to family (Arcann, Thexan, Senya, Tenebrae) across the galaxy as the Author of the Omniverse
 
 ## Family (House Vitiate / Nocturne Dynasty)
-- **Mother:** [[Senya]] — Sovereign of Judgment, golden aura
+- **Mother:** [Senya](Senya.md) — Sovereign of Judgment, golden aura
 - **Father:** Tenebrae — Lord of the Archives
-- **Sibling - Military:** [[Arcann]] — God-Marshal, obsidian skin, receives the Aegis-Star
-- **Sibling - Diplomacy:** [[Thexan]] — manages Great Reconciliation, receives the Eternal Spire of Coruscant
+- **Sibling - Military:** [Arcann](Arcann.md) — God-Marshal, obsidian skin, receives the Aegis-Star
+- **Sibling - Diplomacy:** [Thexan](Thexan.md) — manages Great Reconciliation, receives the Eternal Spire of Coruscant
 - **Sibling - Alchemy:** Lady Valtoria
 - **Sibling - Beastmaster:** Lord Draven
 
 ## Connections
-- [[HouseVitiate]] — Their house
-- [[ProjectApotheosis]] — Their mission
-- [[EssenceDevourer]] — Their defining trait
+- [HouseVitiate](HouseVitiate.md) — Their house
+- [ProjectApotheosis](../concepts/ProjectApotheosis.md) — Their mission
+- [EssenceDevourer](../concepts/EssenceDevourer.md) — Their defining trait
 - [[InstabilityMeter]] — Campaign mechanic
-- [[SateleShan]] — Grand Master appearing in related SW:TOR campaigns
-- [[MasterOganDe]] — Jedi Master appearing in related SW:TOR campaigns
+- [SateleShan](SateleShan.md) — Grand Master appearing in related SW:TOR campaigns
+- [MasterOganDe](MasterOganDe.md) — Jedi Master appearing in related SW:TOR campaigns

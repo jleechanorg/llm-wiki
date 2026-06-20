@@ -23,9 +23,9 @@ The Iron Crisis was a major economic collapse in the Forgotten Realms setting, c
 The Iron Crisis provides the backdrop for Nocturne's journey. The economic collapse creates an environment of survivalist opportunity where predatory efficiency — Nocturne's specialty — becomes advantageous. The crisis also explains the need for mercenary organizations and the political instability that Sarevok exploits.
 
 ## Connections
-- [[bg1-nocturne-campaign]] — source campaign
-- [[bg1-nocturne-continued-campaign]] — continues during crisis
-- [[Nocturne]] — protagonist navigating the crisis
+- [bg1-nocturne-campaign](../sources/bg1-nocturne-campaign.md) — source campaign
+- [bg1-nocturne-continued-campaign](../sources/bg1-nocturne-continued-campaign.md) — continues during crisis
+- [Nocturne](../entities/Nocturne.md) — protagonist navigating the crisis
 - [[Nashkel]] — source of the crisis
-- [[BaldursGate]] — affected city
-- [[FlamingFist]] — benefits from instability
+- [BaldursGate](../entities/BaldursGate.md) — affected city
+- [FlamingFist](../entities/FlamingFist.md) — benefits from instability

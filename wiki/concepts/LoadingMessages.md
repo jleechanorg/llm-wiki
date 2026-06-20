@@ -21,6 +21,6 @@ JavaScript class that manages contextual loading messages for different applicat
 - Integration: window.loadingMessages global object
 
 ## Connections
-- [[TASK-005b]] — task this feature was implemented for
-- [[FrontendLoadingStates]] — broader concept of loading UX
+- [TASK-005b](../entities/TASK-005b.md) — task this feature was implemented for
+- [FrontendLoadingStates](FrontendLoadingStates.md) — broader concept of loading UX
 - [[LoadingSpinnerMessagesTests]] — tests validating this feature

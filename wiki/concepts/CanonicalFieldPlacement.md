@@ -15,5 +15,5 @@ The practice of storing data in its designated (canonical) location within the s
 - Validation ensures no invalid state reaches persistence
 
 ## Related
-- [[GameState]] — enforces canonical placement
-- [[SchemaEnforcement]] — validates correct placement
+- [GameState](GameState.md) — enforces canonical placement
+- [SchemaEnforcement](SchemaEnforcement.md) — validates correct placement

@@ -15,6 +15,6 @@ Specialized capture client for Firestore database operations. Part of the captur
 - `firestore.query` — collection queries
 
 ## Related
-- [[CaptureManager]] — parent orchestrator
-- [[CaptureGeminiClient]] — parallel client for Gemini
-- [[CaptureAnalyzer]] — operation analysis
+- [CaptureManager](CaptureManager.md) — parent orchestrator
+- [CaptureGeminiClient](CaptureGeminiClient.md) — parallel client for Gemini
+- [CaptureAnalyzer](CaptureAnalyzer.md) — operation analysis

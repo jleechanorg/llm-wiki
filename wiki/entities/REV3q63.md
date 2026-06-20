@@ -13,6 +13,6 @@ Revision identifier for schema validation fix that detects empty game states. Pa
 The schema originally had `"required": []` at the top level, allowing empty objects to pass validation. This fix ensures minimum required fields (like game_state_version) must be present.
 
 ## Related
-- [[PR4534]] — Parent PR
-- [[SchemaValidation]] — The validation system being fixed
-- [[JSONSchema]] — The schema standard used
+- [PR4534](PR4534.md) — Parent PR
+- [SchemaValidation](../concepts/SchemaValidation.md) — The validation system being fixed
+- [JSONSchema](JSONSchema.md) — The schema standard used

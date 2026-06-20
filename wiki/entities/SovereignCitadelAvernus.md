@@ -11,12 +11,12 @@ The Sovereign Citadel is a fortress in Avernus, the first layer of the Nine Hell
 
 ## Key Details
 - **Category:** Location
-- **Campaign(s):** [[nocturne-bg3-v4]]
+- **Campaign(s):** [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md)
 
 ## Connections
 - [[Zariel]] — archdevil with stronghold here
-- [[CassalanterFamily]] — infernal pact linked to this location
+- [CassalanterFamily](CassalanterFamily.md) — infernal pact linked to this location
 - [[Avernus]] — plane of existence
 
 ## Appearances
-- [[nocturne-bg3-v4]] — referenced in infernal politics
+- [nocturne-bg3-v4](../sources/nocturne-bg3-v4.md) — referenced in infernal politics

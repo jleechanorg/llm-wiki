@@ -12,5 +12,5 @@ ReplaceOriginalForm is a CampaignWizard method that accepts an optional skipClea
 - skipCleanup (boolean, default=false): When true, skips cleanup logic
 
 ## Related Pages
-- [[ForceCleanRecreation]] — calls this with skipCleanup=true
-- [[CampaignWizard]] — containing component
+- [ForceCleanRecreation](ForceCleanRecreation.md) — calls this with skipCleanup=true
+- [CampaignWizard](CampaignWizard.md) — containing component

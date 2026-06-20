@@ -8,7 +8,7 @@ last_updated: 2026-04-14
 
 ## Definition
 
-A product judgement subsystem within the [[AutoProductMasterSystem]] that codifies and continuously refines personal product taste. Complements the [[CanonicalCodeScorer]] (which measures code quality) by measuring *product fit* — whether a PR moves the product in the direction you actually want. Runs as part of [[AutoResearchLoop]] Phase 3 alongside scoring.
+A product judgement subsystem within the [[AutoProductMasterSystem]] that codifies and continuously refines personal product taste. Complements the [CanonicalCodeScorer](CanonicalCodeScorer.md) (which measures code quality) by measuring *product fit* — whether a PR moves the product in the direction you actually want. Runs as part of [AutoResearchLoop](AutoResearchLoop.md) Phase 3 alongside scoring.
 
 ## Core Components
 
@@ -23,7 +23,7 @@ High-level personal product values and philosophy. Starter content:
 - Long-term maintainability and vision fit matter more than short-term speed
 
 ### wiki/product-taste/good-bad-examples.md
-Concrete past PRs you loved vs. hated, with your actual comments. Auto-populated over time by [[TasteLearningLoop]]. Format:
+Concrete past PRs you loved vs. hated, with your actual comments. Auto-populated over time by [TasteLearningLoop](TasteLearningLoop.md). Format:
 ```
 **Good Example** – PR #XXXX
 Reason: Why this felt exactly right
@@ -33,29 +33,29 @@ Reason: Technically correct but missed the product nuance I cared about
 ```
 
 ### wiki/product-taste/taste-rubric.md
-Scoring dimensions and weights for [[ProductJudge]]. Updated by [[TasteLearningLoop]] when new principles emerge.
+Scoring dimensions and weights for [ProductJudge](ProductJudge.md). Updated by [TasteLearningLoop](TasteLearningLoop.md) when new principles emerge.
 
 ### wiki/product-taste/taste-evolution-log.md
 Chronological record of how your product taste has changed over time.
 
 ## How It Integrates With the Research Loop
 
-1. [[AutoResearchLoop]] Phase 3 runs both [[CanonicalCodeScorer]] AND [[ProductJudge]]
-2. [[ProductJudge]] references the product-taste/ wiki pages when scoring
-3. When you manually override a verdict, [[TasteLearningLoop]] updates the wiki
-4. Future [[ProductJudge]] calls automatically use updated wiki content
+1. [AutoResearchLoop](AutoResearchLoop.md) Phase 3 runs both [CanonicalCodeScorer](CanonicalCodeScorer.md) AND [ProductJudge](ProductJudge.md)
+2. [ProductJudge](ProductJudge.md) references the product-taste/ wiki pages when scoring
+3. When you manually override a verdict, [TasteLearningLoop](TasteLearningLoop.md) updates the wiki
+4. Future [ProductJudge](ProductJudge.md) calls automatically use updated wiki content
 
 ## Key Design Choices
 
-- **Separate from code quality**: [[CanonicalCodeScorer]] handles technical quality; ProductTasteLayer handles strategic/UX/maintainability fit
-- **Living wiki**: Not static — grows with every manual correction via [[TasteLearningLoop]]
+- **Separate from code quality**: [CanonicalCodeScorer](CanonicalCodeScorer.md) handles technical quality; ProductTasteLayer handles strategic/UX/maintainability fit
+- **Living wiki**: Not static — grows with every manual correction via [TasteLearningLoop](TasteLearningLoop.md)
 - **Closed feedback loop**: Corrections → updated wiki → better future verdicts
 - **Version 2.1 only**: Not present in [[AutoResearchExperimentV21]] (the streamlined autocodev2 version)
 
 ## Related Concepts
 
-- [[ProductJudge]] — the oracle skill that uses this subsystem
-- [[TasteLearningLoop]] — the feedback loop that updates this subsystem
-- [[CanonicalCodeScorer]] — the complementary scoring system (code quality vs. product fit)
-- [[AutoResearchLoop]] — the outer loop that invokes ProductJudge
+- [ProductJudge](ProductJudge.md) — the oracle skill that uses this subsystem
+- [TasteLearningLoop](TasteLearningLoop.md) — the feedback loop that updates this subsystem
+- [CanonicalCodeScorer](CanonicalCodeScorer.md) — the complementary scoring system (code quality vs. product fit)
+- [AutoResearchLoop](AutoResearchLoop.md) — the outer loop that invokes ProductJudge
 - [[AutoProductMasterSystem]] — the master system this is part of (v2.1 full version)

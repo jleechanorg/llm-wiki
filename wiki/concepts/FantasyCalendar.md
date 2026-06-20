@@ -20,5 +20,5 @@ A fantasy calendar system that supports dates invalid in Gregorian (e.g., Februa
 - test_calculate_hours_elapsed_invalid_month_returns_none: Returns None for month=13 (truly invalid)
 
 ## Related Concepts
-- [[WorldTime]] — supports fantasy calendar dates in game state
+- [WorldTime](WorldTime.md) — supports fantasy calendar dates in game state
 - [[TimeConsolidation]] — unified temporal representation

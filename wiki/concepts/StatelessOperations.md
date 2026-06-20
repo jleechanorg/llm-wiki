@@ -10,5 +10,5 @@ last_updated: 2026-04-08
 Services maintain no internal state between calls. Each request contains all information needed for processing, enabling horizontal scaling and simplified testing.
 
 ## Connections
-- [[SingleResponsibilityPrinciple]] — complementary service principle
+- [SingleResponsibilityPrinciple](SingleResponsibilityPrinciple.md) — complementary service principle
 - [[ServicesLayerArchitecture]] — architectural pattern applied to services

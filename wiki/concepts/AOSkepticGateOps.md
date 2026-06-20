@@ -9,7 +9,7 @@ last_updated: 2026-06-10
 ## Summary
 
 Operational lessons for running the Agent Orchestrator (AO) Skeptic Gate as a live system — distinct
-from the CI-gate mechanics in [[SkepticGate]]. Focuses on what breaks when AO workers are killed and
+from the CI-gate mechanics in [SkepticGate](SkepticGate.md). Focuses on what breaks when AO workers are killed and
 how to post verdicts manually.
 
 ## Killing AO Workers Has Two Side Effects
@@ -62,12 +62,12 @@ authoritative signal.
 - **CodeRabbit chat `[approve]` keyword** — can be nudged in chat to re-submit when REST review
   state is stale (no formal REST re-submission required; Gate 3 PASS is "any CR approve on the head")
 - **Admin-merge override** — when all 6 deterministic gates are clean and Skeptic is stuck in the
-  SHA-lock loop, `gh pr merge --admin` is the documented exit (see [[GreenGateWorkflow]])
+  SHA-lock loop, `gh pr merge --admin` is the documented exit (see [GreenGateWorkflow](GreenGateWorkflow.md))
 
 ## Connections
-- [[SkepticGate]] — the underlying CI-gate mechanics (evidence-over-assertion).
-- [[AgentOrchestrator]] — the orchestration system whose workers post verdicts and rebuild the dist.
+- [SkepticGate](SkepticGate.md) — the underlying CI-gate mechanics (evidence-over-assertion).
+- [AgentOrchestrator](../entities/AgentOrchestrator.md) — the orchestration system whose workers post verdicts and rebuild the dist.
 - [[macOS Keychain]] — the 2026-06-05 session where these ops lessons were captured.
-- [[GreenGateWorkflow]] — admin-merge override pattern when Skeptic is SHA-locked.
+- [GreenGateWorkflow](GreenGateWorkflow.md) — admin-merge override pattern when Skeptic is SHA-locked.
 - [[SelfHostedRunnerInfraFlakeVsRealFailure]] — broader deterministic-gates-first philosophy.
 - [[StaleBeadHygiene]] — every PR-merge event should trigger a `br list --status open` audit; PR-merge does NOT auto-close linked beads.

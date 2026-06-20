@@ -18,4 +18,4 @@ User-provided data defining a campaign's unique characteristics. Includes title,
 
 ## Related Pages
 - [[AI Content Personalization Integration Test]] — tests usage of this data
-- [[GameState]] — carries campaign_data through the system
+- [GameState](GameState.md) — carries campaign_data through the system

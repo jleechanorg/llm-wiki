@@ -10,13 +10,13 @@ total_scenes: 468
 
 ## Overview
 
-** Jeweler's Row Safehouse, Upper City appears in 13 scenes across the [[aizen-bg3-v2]] campaign.
+** Jeweler's Row Safehouse, Upper City appears in 13 scenes across the [aizen-bg3-v2](../sources/aizen-bg3-v2.md) campaign.
 
 ## Description
 
 ** Jeweler's Row Safehouse, Upper City is an entity from the aizen-bg3-v2 campaign.
 
 ## References
-- [[aizen-bg3-v2]] — campaign overview
-- [[aizen-bg3-v2-campaign]]
+- [aizen-bg3-v2](../sources/aizen-bg3-v2.md) — campaign overview
+- [aizen-bg3-v2-campaign](../sources/aizen-bg3-v2-campaign.md)
 

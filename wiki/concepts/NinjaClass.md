@@ -30,7 +30,7 @@ The Ninja class would include:
 
 ## Connections
 
-- [[ItachiUchiha]] — Wielder
+- [ItachiUchiha](../entities/ItachiUchiha.md) — Wielder
 - [[ItachiEvilCampaign2Campaign]] — Campaign
-- [[Sharingan]] — Ability enabling illusion mastery
+- [Sharingan](Sharingan.md) — Ability enabling illusion mastery
 - [[AssassinRogue]] — Base archetype

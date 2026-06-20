@@ -36,8 +36,8 @@ The core principle that dice rolls in WorldAI campaigns must be genuine executed
 
 ## Connections
 
-- [[mvp-site-dice]] — core dice rolling implementation
-- [[mvp-site-dice-integrity]] — fabrication detection pipeline
-- [[mvp-site-dice-provably-fair]] — cryptographic commitment scheme
-- [[DiceRollDebugRegression]] — frontend gating bug that bypasses authenticity checks
-- [[DiceStrategy]] — strategy selection between code_execution and native_two_phase
+- [mvp-site-dice](../sources/mvp-site-dice.md) — core dice rolling implementation
+- [mvp-site-dice-integrity](../sources/mvp-site-dice-integrity.md) — fabrication detection pipeline
+- [mvp-site-dice-provably-fair](../sources/mvp-site-dice-provably-fair.md) — cryptographic commitment scheme
+- [DiceRollDebugRegression](DiceRollDebugRegression.md) — frontend gating bug that bypasses authenticity checks
+- [DiceStrategy](DiceStrategy.md) — strategy selection between code_execution and native_two_phase

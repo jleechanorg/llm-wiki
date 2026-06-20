@@ -15,5 +15,5 @@ JSON Schema definition for game state at mvp_site/schemas/game_state.schema.json
 - $defs/CombatState: rewards_processed, budget_warnings_shown
 
 ## Related
-- [[SchemaStrictness]] — property-level schema enforcement
-- [[CheckSchemaCoverage]] — validates code exercises schema paths
+- [SchemaStrictness](../concepts/SchemaStrictness.md) — property-level schema enforcement
+- [CheckSchemaCoverage](CheckSchemaCoverage.md) — validates code exercises schema paths

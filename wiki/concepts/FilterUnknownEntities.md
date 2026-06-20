@@ -21,4 +21,4 @@ def filter_unknown_entities(entities: list[str]) -> list[str]
 
 ## Related
 - [[IsUnknownEntity]] - predicate function for detecting unknown entities
-- [[EntityTracking]] - uses these utilities in the entity filtering pipeline
+- [EntityTracking](EntityTracking.md) - uses these utilities in the entity filtering pipeline

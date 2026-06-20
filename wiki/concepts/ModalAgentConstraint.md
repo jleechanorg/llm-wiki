@@ -6,7 +6,7 @@ sources: ["character-creation-level-up-mode"]
 last_updated: 2026-04-08
 ---
 
-System where certain agents (like [[CharacterCreationAgent]]) disable the normal semantic classifier and block access to other agents. User input cannot route to [[DialogAgent]], [[CombatAgent]], etc. while modal is active.
+System where certain agents (like [CharacterCreationAgent](../entities/CharacterCreationAgent.md)) disable the normal semantic classifier and block access to other agents. User input cannot route to [DialogAgent](../entities/DialogAgent.md), [CombatAgent](../entities/CombatAgent.md), etc. while modal is active.
 
 ## Constraints During Character Creation
 - Classifier disabled

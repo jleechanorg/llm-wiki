@@ -178,9 +178,9 @@ def set_created_at(mapper, connection, target):
 
 ## Connections
 
-- [[FastAPIErrorHandling]] — FastAPI typically uses SQLAlchemy with a session-per-request context manager pattern. The session lifecycle mirrors FastAPI's dependency injection pattern: open on request, commit/rollback on response.
-- [[RequestsAPIDesign]] — SQLAlchemy's sessionmaker follows the same "factory with consistent defaults" pattern as `requests.Session()`.
-- [[AsyncIO]] — SQLAlchemy 2.0 supports async with `AsyncSession` and `async_sessionmaker`, enabling non-blocking database access in async frameworks.
+- [FastAPIErrorHandling](FastAPIErrorHandling.md) — FastAPI typically uses SQLAlchemy with a session-per-request context manager pattern. The session lifecycle mirrors FastAPI's dependency injection pattern: open on request, commit/rollback on response.
+- [RequestsAPIDesign](RequestsAPIDesign.md) — SQLAlchemy's sessionmaker follows the same "factory with consistent defaults" pattern as `requests.Session()`.
+- [AsyncIO](AsyncIO.md) — SQLAlchemy 2.0 supports async with `AsyncSession` and `async_sessionmaker`, enabling non-blocking database access in async frameworks.
 
 ## What This Means for Code Generation
 

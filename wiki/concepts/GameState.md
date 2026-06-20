@@ -17,5 +17,5 @@ Data model representing the complete state of a campaign game session including 
 - debug_mode: Debug toggle
 
 ## Related
-- [[GameState]] (entity) - the implementation
+- [GameState](GameState.md) (entity) - the implementation
 - [[StoryEntry]] - entries recorded in the game

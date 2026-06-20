@@ -10,4 +10,4 @@ An error handling policy where failures propagate upward and block operations ra
 
 Contrast with fail-open: returning empty results that would allow merging despite failures.
 
-See: [[gh_integration.py]], [[MergeReadiness]], [[jeffrey-oracle]]
+See: [gh_integration.py](../entities/gh_integration.py.md), [MergeReadiness](MergeReadiness.md), [jeffrey-oracle](../syntheses/jeffrey-oracle.md)

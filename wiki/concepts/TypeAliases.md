@@ -19,5 +19,5 @@ JsonDict = Dict[str, JsonValue]
 
 ## Related
 - [[PythonTypingGuide]] — full guide
-- [[TypedDict]] — dictionary typing
-- [[TypeHints]] — base typing concept
+- [TypedDict](TypedDict.md) — dictionary typing
+- [TypeHints](TypeHints.md) — base typing concept

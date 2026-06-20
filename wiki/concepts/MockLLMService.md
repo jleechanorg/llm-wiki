@@ -16,9 +16,9 @@ Testing pattern that provides a mock implementation of an LLM service API. Enabl
 - **Fast Execution**: No network latency or API rate limits
 
 ## Implementations
-- [[MockLLMClient]] — pattern-based mock client
+- [MockLLMClient](../entities/MockLLMClient.md) — pattern-based mock client
 - [[MockGeminiServiceWrapper]] — alternative wrapper implementation
 
 ## Related Patterns
-- [[TestFixtures]] — static test data
-- [[ServiceMocking]] — general service mocking pattern
+- [TestFixtures](TestFixtures.md) — static test data
+- [ServiceMocking](ServiceMocking.md) — general service mocking pattern

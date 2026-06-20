@@ -21,4 +21,4 @@ Core memory integration class for automatic context enhancement in LLM responses
 - `calculate_relevance_score(entity, query_context)` — Calculates entity relevance (0.0-1.0)
 
 ## Source
-[[memory-mcp-integration]]
+[memory-mcp-integration](../sources/memory-mcp-integration.md)

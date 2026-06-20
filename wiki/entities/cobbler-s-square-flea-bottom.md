@@ -10,13 +10,13 @@ total_scenes: 258
 
 ## Overview
 
-** Cobbler's Square, Flea Bottom appears in 7 scenes across the [[visenya-v5]] campaign.
+** Cobbler's Square, Flea Bottom appears in 7 scenes across the [visenya-v5](../sources/visenya-v5.md) campaign.
 
 ## Description
 
 ** Cobbler's Square, Flea Bottom is an entity from the visenya-v5 campaign.
 
 ## References
-- [[visenya-v5]] — campaign overview
+- [visenya-v5](../sources/visenya-v5.md) — campaign overview
 - [[visenya-v5-campaign]]
 

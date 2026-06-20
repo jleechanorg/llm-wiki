@@ -24,6 +24,6 @@ Architectural Decision Records (ADR) are documents that capture important archit
 5. **Consequences**: Outcomes, trade-offs, and side effects
 
 ## Related Concepts
-- [[DocumentationStandards]]
+- [DocumentationStandards](DocumentationStandards.md)
 - [[TechnicalSpecifications]]
-- [[DocumentationLifecycle]]
+- [DocumentationLifecycle](DocumentationLifecycle.md)

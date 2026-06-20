@@ -10,13 +10,13 @@ total_scenes: 500
 
 ## Overview
 
-** Imperial Spire - Southern Gatehouse appears in 16 scenes across the [[dragon-knight-evil]] campaign.
+** Imperial Spire - Southern Gatehouse appears in 16 scenes across the [dragon-knight-evil](../sources/dragon-knight-evil.md) campaign.
 
 ## Description
 
 ** Imperial Spire - Southern Gatehouse is an entity from the dragon-knight-evil campaign.
 
 ## References
-- [[dragon-knight-evil]] — campaign overview
-- [[dragon-knight-evil-campaign]]
+- [dragon-knight-evil](../sources/dragon-knight-evil.md) — campaign overview
+- [dragon-knight-evil-campaign](../sources/dragon-knight-evil-campaign.md)
 

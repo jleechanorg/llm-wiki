@@ -18,6 +18,6 @@ Derived from highest ability modifier. Used for all Sovereign checks including L
 GP = highest ability modifier from character creation
 
 ## Related
-- [[LogicSiege]] — Primary GP usage
-- [[SovereignProtocol]] — System using GP
-- [[PeerHandshake]] — Requires GP check
+- [LogicSiege](../entities/LogicSiege.md) — Primary GP usage
+- [SovereignProtocol](../entities/SovereignProtocol.md) — System using GP
+- [PeerHandshake](PeerHandshake.md) — Requires GP check

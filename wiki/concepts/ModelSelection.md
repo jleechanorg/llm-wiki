@@ -17,5 +17,5 @@ Frontend may only send gemini_model without llm_provider, causing the server to 
 ## Related Concepts
 
 
-- [[ProviderInference]] — automatic provider detection
+- [ProviderInference](ProviderInference.md) — automatic provider detection
 - [[LLMProviderConstants]] — provider type constants

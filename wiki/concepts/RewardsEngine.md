@@ -48,7 +48,7 @@ Detects active level-up from game state flags and XP thresholds.
 
 This caused 4 of 6 production bugs on 2026-04-14. Fix: restore XP-progress visibility or rename the function to reflect its new semantics.
 
-See [[LevelUpCodeArchitecture]] for full regression analysis.
+See [LevelUpCodeArchitecture](LevelUpCodeArchitecture.md) for full regression analysis.
 
 ## Key Files
 
@@ -57,9 +57,9 @@ See [[LevelUpCodeArchitecture]] for full regression analysis.
 
 ## Related Concepts
 
-- [[LevelUpCodeArchitecture]] — full pipeline architecture
-- [[LevelUpPolling]] — polling vs streaming paths
-- [[FrontendRewardsBoxGate]] — frontend visibility gate
+- [LevelUpCodeArchitecture](LevelUpCodeArchitecture.md) — full pipeline architecture
+- [LevelUpPolling](LevelUpPolling.md) — polling vs streaming paths
+- [FrontendRewardsBoxGate](FrontendRewardsBoxGate.md) — frontend visibility gate
 - [[SanitizeRewardsStateForContext]] — strips rewards_box/rewards_pending from LLM prompt unconditionally
 
 ## Sanitization Invariant (2026-05-05)

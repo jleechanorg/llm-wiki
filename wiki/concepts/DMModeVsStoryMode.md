@@ -18,6 +18,6 @@ DM Mode vs Story Mode is a conceptual framework in the Sariel Assiah campaign th
 This meta-concept reflects the campaign's themes of hidden identity. Just as Sariel hides her true nature, the campaign itself has layers between what the characters know and what the players engage with.
 
 ## Connections
-- [[SarielArcanus]] — Character experiencing this tension
-- [[HouseArcanus]] — Where modes might differ
+- [SarielArcanus](../entities/SarielArcanus.md) — Character experiencing this tension
+- [HouseArcanus](../entities/HouseArcanus.md) — Where modes might differ
 - [[SarielAssiahCampaign]] — Source campaign

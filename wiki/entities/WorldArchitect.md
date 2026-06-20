@@ -16,7 +16,7 @@ WorldArchitect.AI is a platform for AI-powered D&D campaign management. It allow
 - Integration with game state management
 
 ## Related Components
-- [[MvpSite]] - the main application module
+- [MvpSite](MvpSite.md) - the main application module
 - [[WorldOfAssiah]] - the flagship campaign world
 - [[WorldContentLoader]] - module for loading world files
-- [[SystemInstruction]] - AI prompt generation
+- [SystemInstruction](../concepts/SystemInstruction.md) - AI prompt generation

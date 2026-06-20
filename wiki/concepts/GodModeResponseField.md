@@ -24,5 +24,5 @@ narrative, response_obj = parse_structured_response(god_response)
 ```
 
 ## Related Concepts
-- [[ParseStructuredResponse]] - The parsing function
-- [[GodMode]] - The game mode itself
+- [ParseStructuredResponse](ParseStructuredResponse.md) - The parsing function
+- [GodMode](GodMode.md) - The game mode itself

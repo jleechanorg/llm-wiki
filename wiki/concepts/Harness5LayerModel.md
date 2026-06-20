@@ -103,5 +103,5 @@ OpenAI's Codex success reportedly came from heavy emphasis on Layer 1 (constrain
 - Anthropic engineering posts
 
 ## Connections
-- [[jeffrey-oracle]] — an L4 verification layer for the worldarchitect.ai project
-- [[StructureDriftPattern]] — an L1 failure case: constraint layer didn't catch fields being incorrectly nested
+- [jeffrey-oracle](../syntheses/jeffrey-oracle.md) — an L4 verification layer for the worldarchitect.ai project
+- [StructureDriftPattern](StructureDriftPattern.md) — an L1 failure case: constraint layer didn't catch fields being incorrectly nested

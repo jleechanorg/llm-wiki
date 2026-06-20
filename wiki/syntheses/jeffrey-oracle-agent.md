@@ -51,4 +51,4 @@ Specialized oracle for agent spawning decisions: when to delegate, sequential vs
 - Cross-repo delegation without identity verification
 
 ## Parent Oracle
-[[jeffrey-oracle]] — the full decision framework
+[jeffrey-oracle](jeffrey-oracle.md) — the full decision framework
