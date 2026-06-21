@@ -39,6 +39,10 @@ This file is maintained by the LLM. Updated on every ingest.
 - [LowConfidenceRoutingDisclosure](concepts/LowConfidenceRoutingDisclosure.md) — Disclose weak classifier uncertainty to the selected agent instead of adding heuristic routing
 - [OpaqueChoiceIdContract](concepts/OpaqueChoiceIdContract.md) — Choice IDs are opaque exact-selection handles; semantics belong in schema/resolver output, not correction scrubbers
 - [PostMergeFollowupWorkflow](concepts/PostMergeFollowupWorkflow.md) — Post-merge cleanup branches must start from verified fresh remote main
+- [Skeptic Gate 7](concepts/skeptic-gate-7.md) — Technical review of behavior, tests, and merge readiness; LLM-enforced technical gate in skeptic prompt.ts:172
+- [Skeptic Gate 8](concepts/skeptic-gate-8.md) — Alignment gate: PR description goals, scope, tenets, diff, and evidence must agree; skeptic prompt.ts:174
+- [Skeptic Rule 12](concepts/skeptic-rule-12.md) — Deterministic `## Goals` parser with diff evidence check; skeptic prompt.ts:190; tests-only goals do NOT satisfy Rule 12 (tests prove behavior, not create it)
+- [Tenets Gap in Skeptic Gate 8](concepts/tenets-gap.md) — Gap: tenets/scope have Gate 8 wording but no deterministic parser equivalent; tenets-only PRs skip Rule 12 undetected
 - [WorktreeWorkflow](concepts/WorktreeWorkflow.md) — `git checkout -b dev<ts> origin/main` from non-main worktree; integrate.sh MAIN_IN_WORKTREE detection at line 490 is unreliable
 - [IntegrateScriptResetGuard](concepts/IntegrateScriptResetGuard.md) — Recurring anti-pattern (2 occurrences in 2026): `git reset --hard origin/main` while on a feature branch orphans commits. Required harness fix: branch-mismatch guard before every `git reset --hard` call. Recovery: `git branch -f <branch> <sha>` from reflog (14-day window).
 - [IntegrateHardStopPattern](concepts/IntegrateHardStopPattern.md) — `integrate.sh` has 4 hard-stops (uncommitted state, worktree main checkout, merge-in-progress, recovery-mode) that prevent silent data loss; hard-stop is a FEATURE, not a bug — work the uncommitted-state decision matrix, never `--force`.
