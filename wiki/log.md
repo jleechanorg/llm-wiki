@@ -4195,6 +4195,10 @@ Stage 0 drift analysis: M0 was supposed to delete legacy paths (+845/-123 LOC); 
 - Note: All 3 PRs have lost headRefName (null via API); commits on main
 ## [2026-04-21] ingest | fork-skeptic-extension.ts
 ## [2026-04-24] ingest | BG3 Campaigns List — all 30 campaigns with IDs and play URLs
+## [2026-04-24] ingest | Skeptic Agent Gate 7 + Gate 8 Analysis — backfilled 2026-06-21
+
+Backfilled 2026-06-21 from 2026-04-25 stash that never landed on main. Source: skeptic-prompt.ts-2026-04-24 + skeptic.ts-2026-04-24. The skeptic agent IS designed to validate PR description/goals/tenets against code and evidence/tests. **Gate 7 (prompt.ts:172)** = technical review of "behavior, tests, and merge readiness" (LLM-enforced). **Gate 8 (prompt.ts:174)** = "PR description goals, scope, tenets, diff, and evidence must agree" (alignment gate). **Rule 12 (prompt.ts:190)** = deterministic `## Goals` parser — extracts bullets, fails if any goal has NO diff evidence; tests-only goals for feature/bugfix are NOT satisfied (tests prove behavior, not create it). **Gate 8 has the wording for tenets/scope but NO deterministic parser equivalent** — gap: tenets-only PRs skip Rule 12 undetected. Companion concept updates: [skeptic-gate-7](concepts/skeptic-gate-7.md), [skeptic-gate-8](concepts/skeptic-gate-8.md), [skeptic-rule-12](concepts/skeptic-rule-12.md), [tenets-gap](concepts/tenets-gap.md). Source page: [skeptic-agent-gate7-gate8-analysis-2026-04-24](../sources/skeptic-agent-gate7-gate8-analysis-2026-04-24.md).
+
 ## [2026-04-25] ingest | ZFC Systemic Audit
 - Source: raw/2026-04-25-zfc-systemic-audit.md
 - Created: sources/2026-04-25-zfc-systemic-audit.md (source page)

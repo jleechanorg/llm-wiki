@@ -58,6 +58,12 @@ Tests for `_enforce_primary_rewards_box_postcondition` with `level_up_available=
 
 **Bug**: Campaign iDDyaHbevKSqQHoMUHnu turn 8 — stale-suppression fired on `level_up_pending=None` (pre-modal), burning `rewards_box=null` into story entry. Fix: `test_synthesizes_level_up_rewards_box_in_pre_modal_state` in `test_world_logic.py`, commit `f289b87`.
 
+## PR #6565 Update (2026-04-23) — backfilled 2026-06-21
+
+PR #6565 extends atomicity to the Firestore persistence layer: `rewards_box` and `rewards_pending` are now written together in a single transaction (`firestore_service.py` `update_rewards_box_planning` + `update_rewards_pending`). MCP-layer atomicity proven via `test_level_up_rewards_planning_atomicity.py` evidence bundle (Layer 2 + Layer 3). Streaming path evidence gap remains — the streaming path (`/interaction/stream`) was NOT exercised in the PR #6565 evidence bundle (0 streaming scenarios in `streaming_evidence.json`; `collection_log.txt` missing from artifacts).
+
+Lane 0 of the ZFC PR stack — must merge before any level-up PR that depends on the new persistence shape. Source: [PR #6565 — ZFC M0 Stabilization Bridge — 2026-04-23](../sources/2026-04-23-pr6565-zfc-m0-stabilization-bridge.md).
+
 ## Connections
 
 - [LevelUpBug](LevelUpBug.md) — Full bug chain context

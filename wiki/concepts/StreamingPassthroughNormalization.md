@@ -40,6 +40,12 @@ else:
 2. **Numeric bounds** — Raw LLM output could exceed MAX_REWARDS
 3. **Consistency** — Both paths produce identical output shape
 
+## PR #6565 Update (2026-04-23) — backfilled 2026-06-21
+
+PR #6565 ensures all code paths (streaming, polling, passthrough) call `normalize_rewards_box_for_ui()` before Firestore persistence. The MCP test harness proves atomicity at the JSON-RPC layer. However, the streaming path (`/interaction/stream`) was NOT exercised in the evidence bundle (0 streaming scenarios in `streaming_evidence.json`; `collection_log.txt` missing from artifacts), leaving a gap in the streaming normalization proof. This backfill captures the design intent; production streaming evidence is still pending.
+
+Source: [PR #6565 — ZFC M0 Stabilization Bridge — 2026-04-23](../sources/2026-04-23-pr6565-zfc-m0-stabilization-bridge.md).
+
 ## Connections
 - [RewardsBoxSchema](RewardsBoxSchema.md) — Schema definition
 - [CentralizedNumericExtraction](CentralizedNumericExtraction.md) — Numeric extraction
