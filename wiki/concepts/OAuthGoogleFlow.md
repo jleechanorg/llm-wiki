@@ -18,7 +18,7 @@ The Google OAuth Flow is the authentication mechanism that allows users to sign 
 
 ### Custom Parameters
 - `prompt: 'select_account'` — forces Google Account Chooser popup
-- Used in [[AccountSwitchingFlow]] to allow waitlist-denied users to choose a different account
+- Used in [AccountSwitchingFlow](AccountSwitchingFlow.md) to allow waitlist-denied users to choose a different account
 
 ### Session Storage Flag
 - `worldai_force_google_account_select` — one-shot flag stored in `sessionStorage`
@@ -36,6 +36,6 @@ The Google OAuth Flow is the authentication mechanism that allows users to sign 
 7. SPA router handles wakeup
 
 ## Related Concepts
-- [[AccountSwitchingFlow]] — account switching
-- [[SPARouting]] — SPA route wakeup
-- [[SequenceGuardedCallbacks]] — race condition prevention
+- [AccountSwitchingFlow](AccountSwitchingFlow.md) — account switching
+- [SPARouting](SPARouting.md) — SPA route wakeup
+- [SequenceGuardedCallbacks](SequenceGuardedCallbacks.md) — race condition prevention

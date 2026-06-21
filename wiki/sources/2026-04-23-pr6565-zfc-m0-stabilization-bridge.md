@@ -24,12 +24,12 @@ PR #6565 is the M0 stabilization baseline for the ZFC level-up stack, implementi
 
 ## Connections
 
-- [[ZFC-Level-Up-Architecture]] — this PR implements the M0 stage of the ZFC architecture where model computes level-up signal and backend formats
-- [[RewardsBoxAtomicity]] — core concept: rewards_box and rewards_pending must be atomically persisted
-- [[StreamingPassthroughNormalization]] — the passthrough path now calls normalize_rewards_box_for_ui() before persistence
-- [[NormalizationAtomicity]] — architectural principle that all persisted data must be canonicalized
-- [[ZFCNorthStar]] — PR aligns with north-star: model outputs structured level-up signal, backend is pure formatter
-- [[zfc-level-up-pr-tracking]] — tracks this PR in the broader ZFC PR stack (#6565 is lane 0, merge first)
+- [ZFC-Level-Up-Architecture](../concepts/ZFC-Level-Up-Architecture.md) — this PR implements the M0 stage of the ZFC architecture where model computes level-up signal and backend formats
+- [RewardsBoxAtomicity](../concepts/RewardsBoxAtomicity.md) — core concept: rewards_box and rewards_pending must be atomically persisted
+- [StreamingPassthroughNormalization](../concepts/StreamingPassthroughNormalization.md) — the passthrough path now calls normalize_rewards_box_for_ui() before persistence
+- [NormalizationAtomicity](../concepts/NormalizationAtomicity.md) — architectural principle that all persisted data must be canonicalized
+- [ZFCNorthStar](../concepts/ZFCNorthStar.md) — PR aligns with north-star: model outputs structured level-up signal, backend is pure formatter
+- [zfc-level-up-pr-tracking](../concepts/zfc-level-up-pr-tracking.md) — tracks this PR in the broader ZFC PR stack (#6565 is lane 0, merge first)
 
 ## Files Changed
 

@@ -34,6 +34,6 @@ stale heartbeat as its own alert.
   native Chrome 140+ replaced the configurable timer with an ML model.
 
 ## Connections
-- [[project-2026-06-20-browser-compressor-oom]] — the incident that produced this concept
-- [[WatchdogOfWatchdogsArchitecture]]
-- [[MemoryManagement]]
+- [project-2026-06-20-browser-compressor-oom](../sources/project-2026-06-20-browser-compressor-oom.md) — the incident that produced this concept
+- [WatchdogOfWatchdogsArchitecture](WatchdogOfWatchdogsArchitecture.md)
+- [MemoryManagement](MemoryManagement.md)

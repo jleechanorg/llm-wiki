@@ -42,7 +42,7 @@ When a flake occurs, re-run the affected shard once. Do not classify the flake a
 
 ## Related
 
-- [[PRMidReviewMergeAncestryCheck]]
-- [[IntegrateHardStopPattern]]
+- [PRMidReviewMergeAncestryCheck](PRMidReviewMergeAncestryCheck.md)
+- [IntegrateHardStopPattern](IntegrateHardStopPattern.md)
 - [[MobileAuthReproFidelity]]
-- [[PR7720]]
+- [PR7720](../entities/PR7720.md)

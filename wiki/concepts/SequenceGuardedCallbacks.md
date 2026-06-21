@@ -49,6 +49,6 @@ function signOut() {
 ```
 
 ## Related Concepts
-- [[WaitlistGatingMode]] — access control
-- [[AccountSwitchingFlow]] — account switching
-- [[SPARouting]] — SPA route wakeup
+- [WaitlistGatingMode](WaitlistGatingMode.md) — access control
+- [AccountSwitchingFlow](AccountSwitchingFlow.md) — account switching
+- [SPARouting](SPARouting.md) — SPA route wakeup

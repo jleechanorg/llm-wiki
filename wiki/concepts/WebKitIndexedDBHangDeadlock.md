@@ -30,12 +30,12 @@ firebase-js-sdk issue #8019's title references "Web-Locks", but on the 9.6.1 com
 4. Network tab shows the auth/data fetch failing with "User not authenticated".
 5. SDK version uses `Persistence.LOCAL` → resolves to `indexedDBLocalPersistence` on iOS.
 
-If all five hold, this is the deadlock. Apply the [[IndexedDBNeutralizationPattern]] fix.
+If all five hold, this is the deadlock. Apply the [IndexedDBNeutralizationPattern](IndexedDBNeutralizationPattern.md) fix.
 
 ## Related
 
-- [[FirebaseJSSDK]]
-- [[IndexedDBNeutralizationPattern]]
-- [[FirebaseAuthPersistenceFallback]]
-- [[PR7720]]
+- [FirebaseJSSDK](../entities/FirebaseJSSDK.md)
+- [IndexedDBNeutralizationPattern](IndexedDBNeutralizationPattern.md)
+- [FirebaseAuthPersistenceFallback](FirebaseAuthPersistenceFallback.md)
+- [PR7720](../entities/PR7720.md)
 - [[MobileAuthReproFidelity]]

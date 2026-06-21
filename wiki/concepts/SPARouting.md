@@ -29,6 +29,6 @@ Traditional SPA auth flows require page refresh after login. The wakeup event en
 - Seamless transition from splash to dashboard
 
 ## Related Concepts
-- [[WaitlistGatingMode]] — access control
-- [[AccountSwitchingFlow]] — account switching
-- [[SequenceGuardedCallbacks]] — race condition prevention
+- [WaitlistGatingMode](WaitlistGatingMode.md) — access control
+- [AccountSwitchingFlow](AccountSwitchingFlow.md) — account switching
+- [SequenceGuardedCallbacks](SequenceGuardedCallbacks.md) — race condition prevention

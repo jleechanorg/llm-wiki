@@ -28,6 +28,6 @@ The Account Switching Flow allows waitlist-denied users to sign in with a differ
 - **Event:** No custom event; uses Firebase's native `signInWithPopup` flow
 
 ## Related Concepts
-- [[WaitlistGatingMode]] — access control
-- [[OAuthGoogleFlow]] — Google OAuth integration
-- [[SequenceGuardedCallbacks]] — race condition prevention
+- [WaitlistGatingMode](WaitlistGatingMode.md) — access control
+- [OAuthGoogleFlow](OAuthGoogleFlow.md) — Google OAuth integration
+- [SequenceGuardedCallbacks](SequenceGuardedCallbacks.md) — race condition prevention
