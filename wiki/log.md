@@ -5830,3 +5830,8 @@ Source: sources/project-2026-06-19-mobile-auth-repro-fidelity.md. [[jeffrey-orac
 Repeated `review again` / `check again` on PR #7720 required recomputing live current-head state each time. A workflow_dispatch Green Gate success did not supersede queued or pending PR-context Green Gate state, cancelled checks stayed blockers until a newer same-name current-head run superseded them, and evidence had to be scoped to the SHA/served bytes it actually proved. Closeout was only after live GitHub state reported MERGED at 2026-06-20T23:27:01Z with merge commit 21cf81df853ca958601a2a0cb33302223c90dddc. Bead rev-hygyj.
 
 Source: sources/project-2026-06-20-pr7720-live-review-loop.md. [[jeffrey-oracle]]: NO.
+
+## [2026-06-20] ingest | macOS compressor-driven OOM + WindowServer watchdog panic (browser renderer fleet)
+
+## [2026-06-21] ingest | Cron env missing ACCESS_TOKEN → silent zombie recreation failures
+## [2026-06-21] ingest | jeff-ubuntu Lima VM Docker context for runner containers
