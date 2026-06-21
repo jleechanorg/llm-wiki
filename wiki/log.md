@@ -4194,6 +4194,7 @@ Stage 0 drift analysis: M0 was supposed to delete legacy paths (+845/-123 LOC); 
 - Note: rev-lmdo/rev-23eq/rev-7yt7/rev-cujw/rev-usv2/rev-c726/rev-ahpi/rev-v0x7 beads NOT FOUND in local bead store
 - Note: All 3 PRs have lost headRefName (null via API); commits on main
 ## [2026-04-21] ingest | fork-skeptic-extension.ts
+## [2026-04-24] ingest | BG3 Campaigns List — all 30 campaigns with IDs and play URLs
 ## [2026-04-25] ingest | ZFC Systemic Audit
 - Source: raw/2026-04-25-zfc-systemic-audit.md
 - Created: sources/2026-04-25-zfc-systemic-audit.md (source page)
@@ -5835,3 +5836,9 @@ Source: sources/project-2026-06-20-pr7720-live-review-loop.md. [[jeffrey-oracle]
 
 ## [2026-06-21] ingest | Cron env missing ACCESS_TOKEN → silent zombie recreation failures
 ## [2026-06-21] ingest | jeff-ubuntu Lima VM Docker context for runner containers
+
+## [2026-04-23] ingest | PR #6565 — ZFC M0 Stabilization Bridge
+
+Backfilled 2026-06-21 from 2026-04-25 stash that never landed on main. PR #6565 is the M0 stabilization baseline for the ZFC level-up stack: atomic Firestore transaction writes `rewards_box` and `rewards_pending` together; all code paths (including streaming passthrough) call `normalize_rewards_box_for_ui()` before persistence. 21 files / +3694/-551 LOC across `firestore_service.py`, `llm_parser.py`, `main.py`, `rewards_engine.py`, `world_logic.py`, plus unit/integration tests and MCP/browser evidence harness. Atomicity proof via `testing_mcp/test_level_up_rewards_planning_atomicity.py` (`iteration_004`); CI passes all 24 core checks. **Known gap:** streaming path (`/interaction/stream`) was NOT exercised in the evidence bundle (0 streaming scenarios in `streaming_evidence.json`; `collection_log.txt` missing from artifacts); Lane 0 in the ZFC PR stack — merge before any level-up PR that depends on the new persistence shape. Companion concept updates: [RewardsBoxAtomicity](concepts/RewardsBoxAtomicity.md) (Firestore-layer atomicity), [StreamingPassthroughNormalization](concepts/StreamingPassthroughNormalization.md) (all-paths normalization).
+
+Source: sources/2026-04-23-pr6565-zfc-m0-stabilization-bridge.md. [[jeffrey-oracle]]: NO.

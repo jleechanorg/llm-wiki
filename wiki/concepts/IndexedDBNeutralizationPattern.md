@@ -10,7 +10,7 @@ last_updated: 2026-06-20
 
 ## Problem
 
-A library uses `typeof window.indexedDB !== 'undefined'` or an `_isAvailable()` probe to select IndexedDB as its storage backend, but the IndexedDB implementation on the target platform hangs (e.g. iOS WebKit after OS process suspension — see [[WebKitIndexedDBHangDeadlock]]). The hang propagates upward as missing callbacks, blank pages, or stuck loaders.
+A library uses `typeof window.indexedDB !== 'undefined'` or an `_isAvailable()` probe to select IndexedDB as its storage backend, but the IndexedDB implementation on the target platform hangs (e.g. iOS WebKit after OS process suspension — see [WebKitIndexedDBHangDeadlock](WebKitIndexedDBHangDeadlock.md)). The hang propagates upward as missing callbacks, blank pages, or stuck loaders.
 
 ## Pattern
 
@@ -41,10 +41,10 @@ This makes the library's availability probe fail, forcing a fallback to the next
 
 ## Trade-off
 
-Clients with existing data in the disabled backend must re-derive state once after deploy. In [[PR7720]] this was a one-shot re-login — strictly better than the previous blank-page cold-restart failure mode.
+Clients with existing data in the disabled backend must re-derive state once after deploy. In [PR7720](../entities/PR7720.md) this was a one-shot re-login — strictly better than the previous blank-page cold-restart failure mode.
 
 ## Related
 
-- [[WebKitIndexedDBHangDeadlock]]
-- [[FirebaseAuthPersistenceFallback]]
-- [[PR7720]]
+- [WebKitIndexedDBHangDeadlock](WebKitIndexedDBHangDeadlock.md)
+- [FirebaseAuthPersistenceFallback](FirebaseAuthPersistenceFallback.md)
+- [PR7720](../entities/PR7720.md)

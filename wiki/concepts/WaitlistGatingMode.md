@@ -29,6 +29,6 @@ When enabled:
 4. Backend uses `is_waitlist_mode_enabled()` and `get_waitlist_access_status()` in Firestore
 
 ## Related Concepts
-- [[AccountSwitchingFlow]] — forced account selection
-- [[SequenceGuardedCallbacks]] — race condition prevention
-- [[SPARouting]] — SPA route wakeup
+- [AccountSwitchingFlow](AccountSwitchingFlow.md) — forced account selection
+- [SequenceGuardedCallbacks](SequenceGuardedCallbacks.md) — race condition prevention
+- [SPARouting](SPARouting.md) — SPA route wakeup

@@ -40,6 +40,6 @@ A specific line of code (e.g. `configurable: false`) that was on the PR head bef
 
 ## Related
 
-- [[IntegrateHardStopPattern]]
-- [[GreenGateWorkflow]]
-- [[PR7720]] (where this happened)
+- [IntegrateHardStopPattern](IntegrateHardStopPattern.md)
+- [GreenGateWorkflow](GreenGateWorkflow.md)
+- [PR7720](../entities/PR7720.md) (where this happened)
