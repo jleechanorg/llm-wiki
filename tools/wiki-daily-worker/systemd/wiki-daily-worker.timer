@@ -1,0 +1,11 @@
+[Unit]
+Description=Run LLM Wiki daily worker at 08:00
+
+[Timer]
+OnCalendar=*-*-* 08:00:00
+Persistent=true
+AccuracySec=5min
+Unit=wiki-daily-worker.service
+
+[Install]
+WantedBy=timers.target

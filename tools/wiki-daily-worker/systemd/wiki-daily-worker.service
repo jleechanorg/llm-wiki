@@ -1,0 +1,12 @@
+[Unit]
+Description=LLM Wiki daily worker (ingest + ratio log)
+Documentation=https://github.com/jleechanorg/llm-wiki/tree/main/tools/wiki-daily-worker
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h
+Environment="PATH=%h/.local/bin:/usr/local/bin:/usr/bin:/bin"
+Environment="LLM_WIKI_DIR=%h/llm_wiki"
+ExecStart=%h/.local/bin/wiki-daily-worker
+StandardOutput=journal
+StandardError=journal
