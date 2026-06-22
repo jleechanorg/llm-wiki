@@ -5950,3 +5950,28 @@ Migrated from flat structure to wiki/ subdirectory pattern:
 **Concepts created:** none (the pattern is implicit in [[WorkflowRunDefaultBranchLimitation]]; the lesson is a general "test-file-source-vs-workflow-source" rule)
 **Bead:** rev-uvbcl (closed)
 **[[jeffrey-oracle]]:** NO (not oracle-bearing — operational CI discipline)
+
+## [2026-06-22] ingest | Visual Proof Required for Email/UI Artifact Bugs
+
+**Source file:** `feedback_2026-06-22_visual_proof_for_artifact_bugs.md`
+**Source page:** [sources/feedback-2026-06-22-visual-proof-for-artifact-bugs.md](../wiki/sources/feedback-2026-06-22-visual-proof-for-artifact-bugs.md)
+**Concept page:** [concepts/VisualProofForArtifactBugs.md](../wiki/concepts/VisualProofForArtifactBugs.md)
+**Bead:** rev-g0j11
+**PR:** [#7798](https://github.com/jleechanorg/worldarchitect.ai/pull/7798) (merge `62878a06`)
+
+**Entities created:** none
+**Concepts created:** [[VisualProofForArtifactBugs]] — for artifacts the user sees (email, UI, PDF), the artifact IS the proof. `sent=True` / build green / unit test pass are code-side signals, NOT user-side observations. When the user can't read their own artifact programmatically (IMAP/OAuth fail), render locally via Playwright + `python3 -m http.server` and screenshot. Related to [[Body-Diff-Verification]] (PR diff = artifact), [[7-Green-Proof-Artifact]], [[RAGScorerArtifactsEyesOnOutput]].
+**[[jeffrey-oracle]]:** NO (not oracle-bearing — operational verification discipline)
+
+## [2026-06-22] ingest | Deploy capability probe must match gated script's import surface
+
+**Source file:** `feedback_2026-06-22_capability_probe_must_match_script_import_surface.md`
+**Source page:** [sources/feedback-2026-06-22-capability-probe-must-match-script-import-surface.md](../wiki/sources/feedback-2026-06-22-capability-probe-must-match-script-import-surface.md)
+**Concept page:** [concepts/DeployCapabilityProbe.md](../wiki/concepts/DeployCapabilityProbe.md)
+**Bead:** rev-z8xqa (parent: rev-gu8h4)
+**PR:** [#7806](https://github.com/jleechanorg/worldarchitect.ai/pull/7806) (merge `508cdad5`, fix commit `b5299669d3`)
+
+**Entities created:** none (DeploySh already exists)
+**Concepts created:** [[DeployCapabilityProbe]] — when a `deploy.sh` step is wrapped in a fail-loud `python -c 'import X,Y,Z'` capability probe, the probe must mirror the gated script's actual module-level import surface, not a hand-picked subset of "expected" deps. The probe and the `setup-*` action's pip install list must stay in sync with the script's transitive dep set. A fail-loud gate that's an under-approximation is structurally worse than a swallowed warning — the failure surfaces at the worst possible layer (mid-deploy, after the probe cleared, with a `ModuleNotFoundError` that doesn't clearly point at the root cause). Related to [[MainPyWarmupModuleDispatch]] (same theme: keep deploy-time infrastructure in sync with the code it gates) and [[EnvVarWriterReaderAlignment]] (sibling deploy.sh bug class).
+**[[jeffrey-oracle]]:** NO (not oracle-bearing — operational deploy.sh discipline)
+## [2026-06-22] ingest | mem0 dim mismatch + Groq LLM fix
