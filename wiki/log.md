@@ -5908,3 +5908,23 @@ Migrated from flat structure to wiki/ subdirectory pattern:
 - Created wiki/syntheses/ for saved query answers
 - Updated root-level index.md to redirect to wiki/index.md
 
+
+## [2026-06-22] ingest | PR #7778 three-layer prompt-embed store MERGED — drive-to-7-green chain + main.py warmup module pattern
+
+**Key claims:**
+- PR #7778 (head `018670d947`, merge commit by jleechan2015 at 2026-06-22T20:25:40Z) shipped the three-layer prompt-asset embedding architecture: in-process LRU (from #7758) → GCS blob → on-demand FastEmbed compute
+- p50/p95 across 9 E2E iterations: cold first embed p50=18.3s / p95=21.3s vs warm L1 hit p50=22ms / p95=29ms = 819x/911x speedup
+- Closed G4 (per-turn embed-delta STREAM_TIMING marker `5d5cc44d2f`) and G5 (statistical distribution `f993e0ca5a`); G1/G2/G3 explicitly out of pre-merge scope
+- `mvp_site/main.py` is HTTP→MCP only — startup warmup LOGIC must live in `mvp_site/<feature>_warmup.py` and be DISPATCHED from main.py's `_warm_startup_lazy_dependencies()` framework, not inlined
+- Bug class: dispatching warmup only from `mcp_api.run_server`'s `__main__` block silently skips it on gunicorn-served main.py (production path). Wiring fix in commit `bfea5b9b2f`
+- Precompute CLI in `deploy.sh` must self-initialize the FastEmbed classifier with a 300s hard cap — E2E harness must mirror real `deploy.sh` invocation, no `_PRECOMPUTE_WRAPPER` shim (`babcab172d`)
+- Green Gate gate-8 smoke `test_mode` defaults to `mock` (cost-safe) — must dispatch with `-f test_mode=real` or Skeptic gate-8 fails with `smoke-ran-mock-need-real-run-/smoke`
+- CodeRabbit re-review on small diff after prior APPROVED = "Review skipped" (their policy on small diffs); no need to wait for re-review
+- Local worktree branch falls behind when user merges directly via the GitHub UI — always verify `gh pr view headRefOid` matches local ref before claiming 7-green
+- Dark-factory /fs run exhausted at 21 fix→review iterations over 47 min — code still shippable, manually drive 7-green via evidence gist + PR body sections + re-dispatch Green Gate
+
+**Entities created:** none
+**Concepts created:** [[MainPyWarmupModuleDispatch]] (warmup LOGIC in `*_warmup.py` + dispatch from main.py's `_warm_startup_lazy_dependencies()`), [[ThreeLayerEmbedStore]] (L1 LRU → L2 GCS → L3 compute architecture)
+**Source page:** `sources/project-2026-06-22-pr7778-three-layer-embed-store-merged.md`
+**Bead:** rev-4f2d8 (closed learning bead)
+**[[jeffrey-oracle]]:** NO (not oracle-bearing)
