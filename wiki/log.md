@@ -5928,3 +5928,25 @@ Migrated from flat structure to wiki/ subdirectory pattern:
 **Source page:** `sources/project-2026-06-22-pr7778-three-layer-embed-store-merged.md`
 **Bead:** rev-4f2d8 (closed learning bead)
 **[[jeffrey-oracle]]:** NO (not oracle-bearing)
+
+## [2026-06-22] ingest | Pre-existing test fixes patterns (PR #91 + shim-refactor lessons)
+
+**Source:** `raw/feedback_2026-06-22_pre_existing_test_fixes_patterns.md` → `sources/feedback-2026-06-22-pre-existing-test-fixes-patterns.md`
+
+**Summary:** Five lessons from closing the 2026-06-22 F5/F6/F7 /harness block end-to-end. PR #91 shipped 2 commits in one PR, closing 2 pre-existing test failures plus surfacing 3 latent infra gaps (codex-on-PATH CI drift, fixture .dot exclusion, test deps in requirements.txt). Companion shim-refactor lessons: shim-first test import + `**kwargs` forward-compat fakes.
+
+**Entities created:** none
+**Concepts created:** none (the pattern is implicit in [[FactoryEvolveHarnessBlock]]; the 5 lessons are general "structural-changes-leak-into-tests" rules, not a new concept)
+**Bead:** jleechan-mu7 (closed)
+**[[jeffrey-oracle]]:** NO (not oracle-bearing — purely an in-repo test-discipline pattern)
+
+## [2026-06-22] ingest | Workflow from sibling PR uses test file not on your branch
+
+**Source:** `raw/feedback_2026-06-22_workflow_from_other_pr_uses_test_file_not_on_branch.md` → `sources/feedback-2026-06-22-workflow-from-other-pr-uses-test-file-not-on-branch.md`
+
+**Summary:** When a CI regression workflow lands on main in a separate PR (e.g., PR #7789 added `mobile-auth-regression.yml` + `test_auth_same_origin.py`), the workflow's `pull_request.paths` trigger fires against all open PRs that touch those paths — but the test file is only on main, not on older branches. Workflow checkout ref = branch HEAD where the file is missing. Fix: `git merge origin/main` (not re-dispatch). Concrete example: PR #7786 (branched before #7789) failed the new check; merge was clean (35 files, mvp_site/main.py auto-resolved).
+
+**Entities created:** none
+**Concepts created:** none (the pattern is implicit in [[WorkflowRunDefaultBranchLimitation]]; the lesson is a general "test-file-source-vs-workflow-source" rule)
+**Bead:** rev-uvbcl (closed)
+**[[jeffrey-oracle]]:** NO (not oracle-bearing — operational CI discipline)
