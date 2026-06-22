@@ -5880,3 +5880,31 @@ Source: sources/feedback-2026-06-21-mem-watchdog-pressure-throttle.md. Companion
 Captured from PR #7789 (Mobile Auth Same-Origin Regression CI test, merge commit `8b6456a774`) during /integrate handoff. While driving the PR to 7-green, `gh pr checks` showed **Mobile Auth Same-Origin Regression: fail** with `conclusion=cancelled` even though a `workflow_dispatch` success run for the same check completed on the same head SHA. `mergeStateStatus: UNSTABLE` blocked merge despite `mergeable: MERGEABLE` and `reviewDecision: APPROVED`. Root cause: `gh pr checks` prefers the `pull_request`-event run when the workflow has a `pull_request:` trigger; `workflow_dispatch` does NOT populate the PR's required statusCheckRollup. Fix: `git commit --allow-empty -m "ci: re-trigger <workflow>" && git push` re-fires the PR event and the new success run overwrites the cancelled entry. PR #7789 reached CLEAN + MERGED after the empty commit (`f9d3a6113b` on `dff79097e3`). Bead rev-2odam (closed). [[jeffrey-oracle]]: NO.
 
 Source: sources/feedback-2026-06-22-cancelled-workflow-stuck-in-pr-checks.md. Companion sources: [gh pr checks reports cancelled jobs as "fail"](sources/feedback-2026-06-20-gh-pr-checks-cancelled-shows-fail.md) + [PR monitor stuck on statusCheckRollup FAILURE](sources/project-2026-06-19-pr-monitor-stuck-statuscheckrollup.md) + [Green Gate workflow_dispatch ref pitfall](sources/feedback-2026-06-22-green-gate-workflow-dispatch-ref-pitfall.md).
+
+
+## Aggregated from per-project wikis (2026-06-22 13:10)
+
+## [2026-04-21] [from worldarchitect.ai] ingest | ZFC level-up proof vs cleanup merge order
+
+Added `wiki/sources/zfc-level-up-proof-and-merge-order-2026-04-21.md` and index entry under Sources.
+
+## [2026-04-21] [from worldarchitect.ai] ingest | Level-up repro learnings (VaD8, organic recon, five-class suite)
+
+Added `wiki/sources/level-up-repro-learnings-2026-04.md` and index entry under Sources.
+
+## [2026-04-21] [from worldarchitect-ai-autor] ingest | Level-up repro learnings (VaD8, organic recon, five-class suite)
+
+Added `wiki/sources/level-up-repro-learnings-2026-04.md` and index entry under Sources.
+
+## [2026-04-13] [from worldarchitect-public-wiki] restructure | Karpathy Pattern Migration
+Migrated from flat structure to wiki/ subdirectory pattern:
+- Created wiki/ subdirectory with index.md as primary catalog
+- Created wiki/sources/ for source pages
+- Created wiki/concepts/ with D&D 5e mechanic pages (12 files)
+- Created wiki/entities/ with faction/world entity pages (6 files)
+- Created wiki/sources/ with player guide source pages (9 files)
+- Created wiki/overview.md (living synthesis)
+- Created wiki/log.md (this file)
+- Created wiki/syntheses/ for saved query answers
+- Updated root-level index.md to redirect to wiki/index.md
+
