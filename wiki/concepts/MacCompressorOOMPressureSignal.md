@@ -33,7 +33,28 @@ stale heartbeat as its own alert.
 - Hard discard timer: **Auto Tab Discard** extension (`jhnleheckmknfcgijgkadoemagpecfol`) —
   native Chrome 140+ replaced the configurable timer with an ML model.
 
+## Throttle calibration (2026-06-21 follow-up)
+An aggregate pressure-guard that **fires faster than the OS can reclaim** is
+functionally just a renderer-crasher. On 48 GB, killing a 500 MB renderer via
+jetsam-style pressure takes seconds-to-minutes for the compressor's segment table
+and swapfile usage to drain. Empirically (11 Comet kills in 24h, 6 in 6 min),
+30 s was too short and 5 min (300 s) matches jetsam's settle window. The rule:
+
+> **Throttle should be at least an order of magnitude longer than the
+> time-to-reclaim for the killed process's footprint.** For a 500 MB process on
+> 48 GB, 5 min; for a 5 GB process on 128 GB, 10+ min. Re-tune if you see zero
+> kills in a week despite 16+ GB swap, or multiple-per-hour kills of small
+> processes.
+
+The 30 s default was conservative for *acute* events (one kill, OS settles,
+throttle resets via the epoch file); it under-performs on **sustained** pressure
+where the OS never settles before the next check. Don't lower it back without
+checking `grep "KILLING" log | awk '{print $6}' | sort | uniq -c` first — if kills
+are dominated by the per-process path (4-min default), that's a cap issue, not
+a throttle issue.
+
 ## Connections
 - [project-2026-06-20-browser-compressor-oom](../sources/project-2026-06-20-browser-compressor-oom.md) — the incident that produced this concept
+- [feedback-2026-06-21-mem-watchdog-pressure-throttle](../sources/feedback-2026-06-21-mem-watchdog-pressure-throttle.md) — the throttle calibration that turned this design into something usable
 - [WatchdogOfWatchdogsArchitecture](WatchdogOfWatchdogsArchitecture.md)
 - [MemoryManagement](MemoryManagement.md)
