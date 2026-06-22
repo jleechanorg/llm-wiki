@@ -1,3 +1,25 @@
+## [2026-06-22] ingest | G3 closure design — type=dynamic + claude -p --effort high (Dark Factory)
+
+**Key claims:**
+- Dark Factory `.dot` runner is itself an orchestrator; native Dynamic Workflows (Workflow tool / ultracode / `.claude/workflows/`) is a COMPETING orchestrator, not a missing dependency. n=10 benchmark: no separation on any axis, ~5-9% slower for first-pass coding tasks, loses durable `.dot` artifact.
+- Single structural gap (G3 = runtime-determined fan-out) closed by new `type="dynamic"` node attribute.
+- Driver-based dispatch: driver=claude_code → `claude -p --effort high` with auto-wrap ("you may re-plan substeps"); driver≠claude_code → resolve `default="<static>"` and run as `codergen`. Both at high effort (option a: full parity).
+- NOT ultracode / Workflow tool — single-session high-effort reasoning only; "dynamic" is prompt-authoring latitude, not multi-agent fan-out.
+- Every dynamic node requires `default="<node_name>"` (conformance enforced).
+- Hard tier (4, runner refuses to start without them): CXDB event log + `gate_er` + `gate_skeptic` + `adversarial_reviewer`.
+- Soft tier (3, default-present, `skip_<x>="true"` opt-out): `holdout_eval` (skip when no prod code) / `healer` (only fires on terminal failure) / `spec_validation` (skip when iterating on existing spec).
+- Enforcement lives in `bin/conformance validate` (extended with level5 rule set), not the runner's hot path. `pipelines/slim/*.dot` and `factory/hello.dot` exempt.
+- Reference: `pipelines/factory/level5_feature.dot`. `factory/gates.dot` migration = rename + wrap `explore` / `plan` / `implement` / `fix` with `type="dynamic"`.
+- Implementation tracked by bead **jleechan-0qy**.
+- Br fix surfaced: `.beads/beads.db` had stale `issue_prefix=dark-factory` overriding config file's `jleechan`, blocking `br create`. Fix: `UPDATE config SET value='jleechan' WHERE key='issue_prefix'`.
+
+**Entities created:** none
+**Concepts created:** [[DynamicNodeType]] (the new `type="dynamic"` handler pattern), [[ConformanceLevel5Rule]] (the hard+soft tier rule set)
+**Source page:** `sources/project-2026-06-22-g3-closure-dynamic-node-design.md`
+**Bead:** jleechan-0qy
+
+---
+
 ## [2026-06-20] ingest | gh pr checks reports cancelled jobs as "fail" — PR #7720 drive-to-green triage
 
 **Key claims:** `gh pr checks` collapses a `cancelled` job (mypy) into the "fail" column — confirm real conclusion via `gh run view <id> --json conclusion,jobs` before debugging code (`cancelled` ≠ `failure`). deploy-preview rotating-pool flake (fails after "Assign server from pool", logs `BlobNotFound`) fixed by `gh run rerun --failed`. `queued` gates + 10/10 `online busy=true` runners = saturation, not a zero-runner outage. PR #7720 reached 27/0 green, MERGEABLE/CLEAN, 0 unresolved threads; merged `21cf81df85`. Open: merged auth.js uses `configurable: true`; earlier wiki page says `false` — reconcile. Updated concept [[Self-Hosted-Runner-Infra-Flake-vs-Real-Failure]]. Bead rev-utdct. [[jeffrey-oracle]]: NO.
