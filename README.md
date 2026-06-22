@@ -93,6 +93,29 @@ export AO_RUNTIME=antigravity  # AO runtime (antigravity, tmux)
 
 ---
 
+## Daily Maintenance
+
+A daily 8am job (`wiki-daily-worker`) keeps the wiki fresh: detects new files in `raw/*.md`, optionally ingests them via the local `claude` CLI, and logs entity/concept/source counts and ratios.
+
+The worker is a **uv-installable Python tool** that registers itself as a **launchd LaunchAgent on macOS** or a **systemd user timer on Linux** — same `install.sh` on both platforms.
+
+```bash
+cd /path/to/llm_wiki
+
+# Install (one-time, per machine)
+./tools/wiki-daily-worker/install.sh
+
+# Uninstall
+./tools/wiki-daily-worker/install.sh uninstall
+
+# Manual run (dry-run — no claude calls)
+wiki-daily-worker --dry-run
+```
+
+Prerequisites: [`uv`](https://docs.astral.sh/uv/) and the `claude` CLI on `$PATH`. See [`tools/wiki-daily-worker/README.md`](tools/wiki-daily-worker/README.md) for full details, env vars, and troubleshooting.
+
+---
+
 ## Ingested AI/Coding Agent Papers (2022–2026)
 
 | Paper | arxiv ID | Key Contribution |
