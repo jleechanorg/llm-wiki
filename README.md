@@ -114,6 +114,27 @@ wiki-daily-worker --dry-run
 
 Prerequisites: [`uv`](https://docs.astral.sh/uv/) and the `claude` CLI on `$PATH`. See [`tools/wiki-daily-worker/README.md`](tools/wiki-daily-worker/README.md) for full details, env vars, and troubleshooting.
 
+## Wiki Aggregation (per-project → llm_wiki)
+
+`/integrate` and `/learn` on other repos (worldarchitect.ai, autor-phase3, etc.) write to **per-project wikis** by default. To make sure those entries land in this repo and get pushed to `origin/main`, two mechanisms work together:
+
+1. **`~/.wiki-default`** points to `~/llm_wiki/wiki`. Any session without a project-local `.wiki-default` writes here. (Forward-fix; see `/wiki-ingest` skill for the resolution order.)
+2. **`wiki-aggregator`** (daily 09:30, `tools/wiki-aggregator/install.sh`) scans 5 per-project wikis and appends any new entries to `wiki/log.md` with a `[from <source>]` attribution tag.
+
+Together these ensure every `/integrate` run — regardless of which repo it ran on — eventually lands in llm_wiki and gets pushed to `origin/main` by the auto-push cron.
+
+```bash
+cd /path/to/llm_wiki
+
+./tools/wiki-aggregator/install.sh        # install
+./tools/wiki-aggregator/install.sh uninstall
+
+wiki-aggregator --dry-run                 # see what would sync
+wiki-aggregator                           # real run
+```
+
+See [`tools/wiki-aggregator/README.md`](tools/wiki-aggregator/README.md) for full details.
+
 ---
 
 ## Ingested AI/Coding Agent Papers (2022–2026)

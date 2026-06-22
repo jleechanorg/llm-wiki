@@ -1,0 +1,11 @@
+[Unit]
+Description=Run LLM Wiki aggregator at 09:30 daily
+
+[Timer]
+OnCalendar=*-*-* 09:30:00
+Persistent=true
+AccuracySec=5min
+Unit=wiki-aggregator.service
+
+[Install]
+WantedBy=timers.target
