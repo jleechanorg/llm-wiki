@@ -5987,3 +5987,49 @@ Migrated from flat structure to wiki/ subdirectory pattern:
 **Concepts created:** [[DeployCapabilityProbe]] — when a `deploy.sh` step is wrapped in a fail-loud `python -c 'import X,Y,Z'` capability probe, the probe must mirror the gated script's actual module-level import surface, not a hand-picked subset of "expected" deps. The probe and the `setup-*` action's pip install list must stay in sync with the script's transitive dep set. A fail-loud gate that's an under-approximation is structurally worse than a swallowed warning — the failure surfaces at the worst possible layer (mid-deploy, after the probe cleared, with a `ModuleNotFoundError` that doesn't clearly point at the root cause). Related to [[MainPyWarmupModuleDispatch]] (same theme: keep deploy-time infrastructure in sync with the code it gates) and [[EnvVarWriterReaderAlignment]] (sibling deploy.sh bug class).
 **[[jeffrey-oracle]]:** NO (not oracle-bearing — operational deploy.sh discipline)
 ## [2026-06-22] ingest | mem0 dim mismatch + Groq LLM fix
+## [2026-06-22] ingest | Self-hosted runner test-timeout budget: 90s Flask + 60s Playwright page.goto
+Ingested `feedback_2026-06-22_self_hosted_runner_test_timeout_budget.md` from PR [#7815](https://github.com/jleechanorg/worldarchitect.ai/pull/7815) (merged 2026-06-23T02:21:20Z, commit `e08abf3215`). Captures the engineering insight that default 20s budgets in `testing_ui/**` are too tight for memory-pressured self-hosted runners because gunicorn FastEmbed `BAAI/bge-small-en-v1.5` model load alone can take ~20s, and `domcontentloaded` waits for auth.js fetch which can take 10s+. Substantive PASS/FAIL is in the test cases, not in startup/load time.
+
+**Concepts created/linked:** [[SelfHostedRunnerInfraFlakeVsRealFailure]] — same family of "is this a real bug or a runner flake?" diagnostics. No new concept created (covered by existing entity).
+
+**[[jeffrey-oracle]]:** NO (not oracle-bearing — operational CI budget pattern, no decision-making affected)
+## [2026-06-22] ingest | /learn sub-steps are MANDATORY every time, never skip
+Ingested `feedback_2026-06-22_learn_substeps_mandatory.md`. Captures user correction 2026-06-22 ("do this always dont skip") to the PR #7815 cycle, where wiki-ingest + roadmap-log + bead-creation sub-steps were skipped with the wrong justification ("not gate-blocking by the project CLAUDE.md"). /learn is a skill contract; the cross-write to `~/llm_wiki`, `~/roadmap/learnings-YYYY-MM.md`, and `.beads/issues.jsonl` IS the work.
+
+**Concepts created/linked:** No new concept (process-compliance rule, not a domain concept). Linked to [[GATE6bDescriptionGate]] and [[SelfHostedRunnerInfraFlakeVsRealFailure]] as sister learnings from the same PR cycle.
+
+**[[jeffrey-oracle]]:** NO (not oracle-bearing — process-compliance rule, no decision-making affected)
+
+## [2026-06-22] ingest | PR evidence gate requires anchor URL; gh pr edit body quoting wipes body
+Ingested `feedback_2026-06-22_pr_evidence_gate_requires_anchor_url.md`. Captures two GATE-6 / GATE-6b description-shape failures from PR #7815 cycle: (1) GATE-6 grep requires a gist/loom/mp4/gif/cast URL — a run URL like `https://github.com/.../actions/runs/N` does NOT match; (2) `gh pr edit --body "$()"` silently wipes a long body to ~100 chars (5+ section headers vanish simultaneously). Fix: add a public gist for the test output AND use `gh pr edit --body-file` (not `--body "$()"`).
+
+**Concepts created/linked:** [[GATE6bDescriptionGate]] (existing) — same gate family, sister learning from same PR cycle.
+
+**[[jeffrey-oracle]]:** NO (not oracle-bearing — operational gate-pattern documentation, no decision-making affected)
+
+## [2026-06-23] ingest | Testable bash: extract pure helpers + hand-rolled test harness
+
+- **Type**: source
+- **Tags**: bash-testing, launchd-coverage, tdd
+- **Source**: raw/feedback_2026-06-23_testable_bash_extracted_helpers.md
+- **Source page**: sources/feedback-2026-06-23-testable-bash-extracted-helpers.md
+- **Concepts created/linked**: [[PR718BashTestSuite]] (new), [[PR717SkepticVerdict]] (new), [[IntegrateHardStopPattern]] (existing)
+- **[[jeffrey-oracle]]:** NO (operational test-pattern documentation, not oracle-bearing)
+
+## [2026-06-23] ingest | `python3 -c "...$VAR..."` is shell-quoting injection
+
+- **Type**: source
+- **Tags**: security, shell-quoting, injection, python
+- **Source**: raw/feedback_2026-06-23_python_c_string_interp_injection.md
+- **Source page**: sources/feedback-2026-06-23-python-c-string-interp-injection.md
+- **Concepts created/linked**: [[ArgvHeredocFixPattern]] (new)
+- **[[jeffrey-oracle]]:** NO (security fix documentation, not decision-bearing)
+
+## [2026-06-23] ingest | `--admin --squash --delete-branch` bypass pattern for fix PRs
+
+- **Type**: source
+- **Tags**: merge-safety, admin-bypass, coderabbit-rate-limit, fix-pr
+- **Source**: raw/feedback_2026-06-23_admin_squash_bypass_pattern.md
+- **Source page**: sources/feedback-2026-06-23-admin-squash-bypass-pattern.md
+- **Concepts created/linked**: [[MergeSafetyPolicy]] (existing), [[CoderabbitRateLimitWorkarounds]] (existing), [[PR717BypassPrecedent]] (new)
+- **[[jeffrey-oracle]]:** NO (operational merge-policy documentation, not decision-bearing)
