@@ -82,6 +82,8 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Failure Dossier](concepts/FailureDossier.md) — Per-stage 6-class failure taxonomy (transient_infra, budget_exhausted, compilation_loop, deterministic, canceled, structural); implemented in Kilroy
 
 ## Sources
+- [PreToolUse Hook Exit Codes — TUI Visibility Rules — 2026-06-23](sources/hook-tui-exit-codes-2026-06-23.md) — three exit-code modes (silent/warn/block); warn-only must exit 1 with stderr banner, no-conflict must exit 0 with no systemMessage; PR #34 in merge_train; cache collision gotcha with shared tmp_path
+- [BQ Prompt Context Metrics — GCP dev verification (2026-06-23)](sources/bq-prompt-context-gcp-dev-verification-2026-06-23.md) — PR #7832 post-merge proof on Cloud Run dev; MCP_FORCE_FULL_TRACE_LOGS=false; typed columns + budget events. Bead rev-c4ett.
 - [Cancel monitors immediately when PR is merged (2026-06-23)](sources/feedback-2026-06-23-cancel-monitors-on-pr-merge.md) — stop all active CI/smoke/Skeptic monitors when user confirms PR merge; stale monitors dispatch redundant Skeptic/smoke workflows and generate noise for 20+ min. PR #7802 session.
 - [_shared_user_settings conflict pattern in llm_service.py (2026-06-23)](sources/feedback-2026-06-23-shared-user-settings-conflict-pattern.md) — PRs adding duplicate get_user_settings() in _continue_story() conflict with jleechan-1hy7 latency fix; use _shared_user_settings from line ~6362. PR #7802 merge commit 1d9e9608c2. Concept: [[SharedUserSettingsPattern]].
 - [Green Gate Gate-8 requires real-mode smoke tests (2026-06-23)](sources/feedback-2026-06-23-gate8-requires-real-smoke-mode.md) — always pass `-f test_mode=real`; default dispatch uses mock which fails Gate-8 with "GATE-8 FAIL: exact mcp-smoke-tests succeeded in MOCK mode". PR #7802. Concept: [[GreenGateWorkflow]].
@@ -6664,6 +6666,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Squash-merge branch evaluation — two-dot diff pattern 2026-05-05](sources/squash-merge-branch-evaluation-2026-05-05.md) — three-dot diff misleads after squash merge; use git show --stat + two-dot diff to confirm branch is done
 
 ## Sources
+- [PreToolUse Hook Exit Codes — TUI Visibility Rules — 2026-06-23](sources/hook-tui-exit-codes-2026-06-23.md) — three exit-code modes (silent/warn/block); warn-only must exit 1 with stderr banner, no-conflict must exit 0 with no systemMessage; PR #34 in merge_train; cache collision gotcha with shared tmp_path
 - [br CLI Bead Access Pattern (2026-05-14)](sources/br-cli-bead-access-pattern-2026-05-14.md) — use br show/search/list; beads.left.jsonl=5MB; compaction blocked by full DB re-export
 - [/zfc slash command global install 2026-05-07](sources/zfc-slash-command-global-install-2026-05-07.md) — general ZFC skill existed on main; /zfc command created (PR #6832); global install to ~/.claude and ~/.codex; bead rev-9lz8v
 - [claude-directory-tests-ci-local-parity-2026-05-06](sources/claude-directory-tests-ci-local-parity-2026-05-06.md) — Directory tests CI vs local parity (added 2026-05-05)
@@ -6691,6 +6694,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Wafer SSE input_tokens:0 Autocompact Thrashing Fix](sources/wafer-sse-input-tokens-zero-fix-2026-05-14.md) — GLM-5.1 always returns input_tokens:0 in message_start; WaferFixPatcher in llm-inspector patches to estimated count (bodyBytes/4), stopping autocompact thrash (2026-05-14)
 - [Visual Proof Required for Email/UI Artifact Bugs (2026-06-22)](sources/feedback-2026-06-22-visual-proof-for-artifact-bugs.md) — for artifacts the user sees (email, UI, PDF), `sent=True`/build green is NOT proof; render the actual artifact via Playwright + `python3 -m http.server`; PR #7798 took 3 cycles because "fix" kept making the duplicate WORK instead of removing it. Bead rev-g0j11. See [[VisualProofForArtifactBugs]]
 ## Sources
+- [PreToolUse Hook Exit Codes — TUI Visibility Rules — 2026-06-23](sources/hook-tui-exit-codes-2026-06-23.md) — three exit-code modes (silent/warn/block); warn-only must exit 1 with stderr banner, no-conflict must exit 0 with no systemMessage; PR #34 in merge_train; cache collision gotcha with shared tmp_path
 - [tsup/esbuild silently passes TypeScript scope bugs (2026-05-15)](sources/tsup-hides-scope-bugs.md) — tsup builds pass with out-of-scope vars; tsc --noEmit catches TS2304; llm-inspector commit 0d3efa0
 - [Hermes Gateway bootout Outage Root Cause (2026-06-09)](sources/hermes-gateway-bootout-outage-2026-06-09.md) — hermes gateway stop = permanent bootout; KeepAlive evicted; correct restart = kickstart -k via hermes gateway restart
 - [br CLI Bead Access Pattern (2026-05-14)](sources/br-cli-bead-access-pattern-2026-05-14.md) — use br show/search/list; beads.left.jsonl=5MB; compaction blocked by full DB re-export

@@ -1,3 +1,27 @@
+## [2026-06-23] ingest | PreToolUse Hook Exit Codes — TUI Visibility Rules
+
+Key claims:
+- Three exit-code modes for PreToolUse hooks: silent approve (exit 0, no systemMessage), warn-only (exit 1 with stderr banner), block (exit 2)
+- Warn-only conflicts must `sys.exit(1)` after emitting reason — exit 0 silently hides conflicts from user
+- No-conflict cases must call `_silent_approve()` without systemMessage — avoids "no conflicts found" banner on routine edits
+- Hook cache at `/tmp/merge_train_cache_{repo_name}.json` collides across tests using shared `tmp_path / "repo"`; use unique subdir names and unlink at test start
+- Fix landed as PR #34 in jleechanorg/merge_train, merge commit 3dfa796, 2026-06-23, bead orch-xqqu
+- Test regression coverage: test_warn_only_conflict_exits_nonzero and test_no_conflict_silent_approve
+
+## [2026-06-23] ingest | BQ prompt context metrics — GCP dev verification
+
+**Key claims:**
+- PR #7832 merged; typed BQ columns + budget_allocation_summary verified on GCP dev via test_bq_prompt_context_metrics_es.py.
+- Remote --server requires MCP_FORCE_FULL_TRACE_LOGS=false (no local trace capture from Cloud Run).
+- BQ_LOGGING_PROJECT=worldarchitecture-ai on client avoids ensure_dataset 403.
+- CombatAgent path may show story_tokens_est=0 while system_instruction_tokens_est populates.
+
+**Source page:** `sources/bq-prompt-context-gcp-dev-verification-2026-06-23.md`
+**Bead:** rev-c4ett
+**Jeffrey oracle:** NO
+
+---
+
 ## [2026-06-22] ingest | Direct Firestore Lookup & Gemini Caching Verification
 
 **Key claims:**
