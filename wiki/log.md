@@ -6042,3 +6042,6 @@ Ingested `feedback_2026-06-22_pr_evidence_gate_requires_anchor_url.md`. Captures
 - **Source page**: sources/bq-prompt-context-token-breakdown-2026-06-23.md
 - **Concepts created/linked**: [[BQPromptContextBreakdown]] (new)
 - **[[jeffrey-oracle]]:** NO (technical observability workflow, not decision-bearing)
+## [2026-06-23] ingest | _shared_user_settings conflict pattern in llm_service.py
+## [2026-06-23] ingest | Green Gate Gate-8 requires real-mode smoke tests
+## [2026-06-23] ingest | Cancel monitors immediately when PR is merged
