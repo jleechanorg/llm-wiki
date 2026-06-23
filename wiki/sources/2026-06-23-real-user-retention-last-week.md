@@ -10,13 +10,19 @@ project: worldarchitecture-ai (production Firestore)
 
 ## TL;DR
 
-**Real users are signing in, playing for 30–45 minutes, and never coming back. Zero create persistent campaign or conversation content. The product has an acquisition-to-engagement drop-off that is currently 100%.**
+**Real users are signing in, playing for 30–45 minutes, and never coming back. Zero create persistent campaign or conversation content. The product has a 100% bounce rate on the user-doc-update signal and a near-100% bounce rate on the gameplay signal.**
 
-- 9 unique real users signed in last week; 0 returned the same week.
-- 16 unique real users played at least 1 turn; 0 created a campaign; 0 created a conversation.
+- ~88 unique real-user auth sign-ins last week (auth last_sign_in_timestamp); 84 Gmail/non-anon users.
+- 16 unique real users played at least 1 turn in the same window; 0 created a campaign; 0 created a conversation.
+- 0 returning real users in 30 days (no user signed in 2+ times across the whole month).
 - All `campaigns` collection docs in production Firestore are **test data** (`test-user`, `test-user-manual`, etc.) — last real-user-written campaign on file is from before 2025-09-30.
 - Peak engagement day: Friday 6/19 (68 turns). Crashes to 6 turns Sunday 6/21.
 - Median signup → first turn: ~3 minutes (good). But median first turn → return: never.
+
+**Two distinct signals, both bad:**
+- *auth sign-in*: 88 in 7d — looks like acquisition is working.
+- *user doc `lastUpdated`*: 9 in 7d — only the small subset who updated settings ever write to the user doc.
+- *gameplay turn*: 16 in 7d — even smaller; most sign-ins don't produce a turn.
 
 ## Scope & Method
 
