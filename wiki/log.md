@@ -1,3 +1,15 @@
+## [2026-06-22] ingest | Direct Firestore Lookup & Gemini Caching Verification
+
+**Key claims:**
+- Firestore lookup by email must use Firebase Auth `get_user_by_email` first to get UID, then directly fetch `/users/{uid}`. No collection scanning or unindexed query groups.
+- Gemini implicit prompt caching has 67% hit rate on pre-fix RAG campaigns; the 0-hit reporting was a logging bug (fixed in PR #7821 which moved `cached_tokens` from extra_json to the typed column).
+- System prompts are per-agent class; cache misses are expected on agent switches, but same-agent consecutive turns should hit the cache by placing dynamic RAG fragments in the prompt tail.
+
+**Source pages:** `sources/feedback-2026-06-22-direct-firestore-query.md`, `sources/feedback-2026-06-22-gemini-implicit-caching.md`
+**Bead:** rev-bmi4w
+
+---
+
 ## [2026-06-22] ingest | G3 closure design — type=dynamic + claude -p --effort high (Dark Factory)
 
 **Key claims:**
