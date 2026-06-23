@@ -6033,3 +6033,12 @@ Ingested `feedback_2026-06-22_pr_evidence_gate_requires_anchor_url.md`. Captures
 - **Source page**: sources/feedback-2026-06-23-admin-squash-bypass-pattern.md
 - **Concepts created/linked**: [[MergeSafetyPolicy]] (existing), [[CoderabbitRateLimitWorkarounds]] (existing), [[PR717BypassPrecedent]] (new)
 - **[[jeffrey-oracle]]:** NO (operational merge-policy documentation, not decision-bearing)
+
+## [2026-06-23] ingest | BQ Prompt Context Token Breakdown — query patterns
+
+- **Type**: source
+- **Tags**: bigquery, observability, tokens, gemini, worldarchitect
+- **Source**: raw/bq-prompt-context-token-breakdown-2026-06-23.md
+- **Source page**: sources/bq-prompt-context-token-breakdown-2026-06-23.md
+- **Concepts created/linked**: [[BQPromptContextBreakdown]] (new)
+- **[[jeffrey-oracle]]:** NO (technical observability workflow, not decision-bearing)
