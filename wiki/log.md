@@ -6069,3 +6069,12 @@ Ingested `feedback_2026-06-22_pr_evidence_gate_requires_anchor_url.md`. Captures
 ## [2026-06-23] ingest | _shared_user_settings conflict pattern in llm_service.py
 ## [2026-06-23] ingest | Green Gate Gate-8 requires real-mode smoke tests
 ## [2026-06-23] ingest | Cancel monitors immediately when PR is merged
+
+## [2026-06-23] ingest | Test TUI-only Claude Code features via cmux, not --print
+
+- **Type**: source
+- **Tags**: claude-code, cmux, tui, testing, best-practice, slash-commands
+- **Source**: raw/bestpractice_2026-06-23_test-tui-features-via-cmux.md
+- **Source page**: sources/bestpractice-2026-06-23-test-tui-features-via-cmux.md
+- **Concepts created/linked**: [[TUISlashCommandTesting]] (new), [[cmux]] (existing entity), [[ClaudeCode]] (existing entity)
+- **[[jeffrey-oracle]]:** NO (operational testing workflow, not decision-bearing)
