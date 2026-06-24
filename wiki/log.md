@@ -6107,3 +6107,19 @@ Ingested `feedback_2026-06-22_pr_evidence_gate_requires_anchor_url.md`. Captures
 - **Bead**: bd-0f3i
 - **Concepts created/linked**: [[GreenGateCIPattern]] (existing)
 - **[[jeffrey-oracle]]:** NO (CI config drift pattern, not decision-bearing)
+
+## [2026-06-24] ingest | gh run rerun clears stale Green Gate FAIL in statusCheckRollup
+
+- **Source**: raw/feedback_2026-06-24_gh_run_rerun_clears_stale_statuscheckrollup.md
+- **Source page**: sources/feedback-2026-06-24-gh-run-rerun-clears-stale-statuscheckrollup.md
+- **Bead**: none
+- **Concepts linked**: [[GreenGateCIPattern]], [[SkepticGate]]
+- **[[jeffrey-oracle]]:** NO (CI operational pattern, not decision-bearing)
+
+## [2026-06-24] ingest | dark-factory gate_es: head_sha echo required
+
+- **Source**: raw/feedback_2026-06-24_dark_factory_gate_es_head_sha_echo_required.md
+- **Source page**: sources/feedback-2026-06-24-dark-factory-gate-es-head-sha-echo-required.md
+- **Bead**: none
+- **Concepts linked**: [[DarkFactoryGatePattern]], [[EvidenceStandards]]
+- **[[jeffrey-oracle]]:** NO (dark-factory implementation detail)
