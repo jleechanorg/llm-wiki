@@ -6123,3 +6123,9 @@ Ingested `feedback_2026-06-22_pr_evidence_gate_requires_anchor_url.md`. Captures
 - **Bead**: none
 - **Concepts linked**: [[DarkFactoryGatePattern]], [[EvidenceStandards]]
 - **[[jeffrey-oracle]]:** NO (dark-factory implementation detail)
+
+## [2026-06-24] ingest | WORLDAI_TEST_CACHE activation contract — root cause + fix (PR #7901)
+Source: feedback_2026-06-24_worldai_test_cache_never_activated_root_cause.md | Bead: rev-7uj75 | Concepts: ActivationContract, TempEnvPattern
+
+## [2026-06-24] ingest | Prompt-cleanup PRs silently drop load-bearing LLM-instruction clauses (#7870 → #7903)
+Source: feedback_2026-06-24_prompt_cleanup_drops_load_bearing_clauses.md | Bead: rev-f9ev9 | Concepts: PromptLoadBearingClause
