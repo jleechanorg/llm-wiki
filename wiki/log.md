@@ -6129,3 +6129,24 @@ Source: feedback_2026-06-24_worldai_test_cache_never_activated_root_cause.md | B
 
 ## [2026-06-24] ingest | Prompt-cleanup PRs silently drop load-bearing LLM-instruction clauses (#7870 → #7903)
 Source: feedback_2026-06-24_prompt_cleanup_drops_load_bearing_clauses.md | Bead: rev-f9ev9 | Concepts: PromptLoadBearingClause
+
+## [2026-06-24] ingest | "X unavailable" status strings are hypotheses, not facts (mem0 was working)
+Source: feedback_2026-06-24_verify_harness_status_before_reporting.md | Bead: none | Concepts: SkillStaleness, HarnessTrustCalibration
+
+## [2026-06-24] ingest | Harden max-3-hour autonomy time-box across all long-running flows
+Source: feedback_2026-06-24_harden_max_3_horus_autonomy_time_box.md | Bead: none | Concepts: AutonomyTimeBox, LiteralApprovalPhrase
+
+## 2026-06-24 — Runtime Activation Claim skill + 4-layer harness fix + /advice + /learn complete
+
+- **Trigger**: user query "why did you say local cache was working again when it doesnt? this has failed many times"
+- **Investigation**: `/history` + `/ms` audit found WORLDAI_TEST_CACHE failure class recurring across PRs #7810, #7892, #7901 and 8+ worktree branches
+- **Harness fix shipped** (4 layers):
+  1. Instructions in `~/.claude/CLAUDE.md` (+22 lines)
+  2. Memory entries (4 new): runtime-activation-claim-required, no-blocking-claim-verifier-hook, local-cache-failure-consolidated-learning, probe-too-clean-self-correction
+  3. Skill `~/.claude/skills/runtime-activation-claim/SKILL.md` (4,190 bytes)
+  4. Tests `testing_mcp/harness_runtime_activation_probe.py` + `test_multi_gate_activation_contract.py` (verified PASS on origin/main)
+- **/advice verdict**: don't ship blocking PreToolUse hook (Opus high confidence + research medium confidence agree)
+- **Self-correction caught during /integrate**: probe v1 reported `enabled=False` (env stripped too aggressively); fixed to apply standard harness env explicitly; contract test now agrees
+- **Branch pushed**: `harness-runtime-claim-fix` (HEAD 673796023a, from origin/main @ c5262078e2)
+- **Bead**: rev-7uj75 (referenced by all 4 new memory entries)
+- **Probe verification (verbatim)**: `enabled: true, WORLDAI_TEST_CACHE: read_write, WORLDAI_IS_SERVER_PROCESS: true, VERDICT: PASS`
