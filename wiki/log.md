@@ -6078,3 +6078,32 @@ Ingested `feedback_2026-06-22_pr_evidence_gate_requires_anchor_url.md`. Captures
 - **Source page**: sources/bestpractice-2026-06-23-test-tui-features-via-cmux.md
 - **Concepts created/linked**: [[TUISlashCommandTesting]] (new), [[cmux]] (existing entity), [[ClaudeCode]] (existing entity)
 - **[[jeffrey-oracle]]:** NO (operational testing workflow, not decision-bearing)
+
+## [2026-06-23] ingest | QA test failure dismissal anti-pattern (same-test-name rule)
+
+- **Type**: source
+- **Tags**: anti-pattern, ci, bring-to-green, pr, test, dismissal, same-test-name, category-error, qa
+- **Source**: raw/2026-06-23-qa-test-failure-dismissal-anti-pattern.md
+- **Source page**: sources/qa-test-failure-dismissal-anti-pattern.md
+- **Concepts created/linked**: [[CategoryErrorTestDismissal]] (new), [[PRBringToGreen]] (existing concept), [[PreExistingFailure]] (existing concept)
+- **[[jeffrey-oracle]]:** NO (operational bring-to-green discipline, not a decision-bearing insight)
+
+## [2026-06-24] ingest | Pre-existing test contract update when loosening fail-closed
+
+- **Type**: source
+- **Tags**: agent-orchestrator, llm-eval, testing, contract-change, pr-725
+- **Source**: raw/feedback_2026-06-24_chain_fallthrough_breaks_pretend_closed_tests.md
+- **Source page**: sources/feedback-2026-06-24-chain-fallthrough-breaks-pretend-closed-tests.md
+- **Bead**: bd-qbjp
+- **Concepts created/linked**: [[AdminOverrideContractWiring]] (existing), [[GreenGateCIPattern]] (existing)
+- **[[jeffrey-oracle]]:** NO (operational testing pattern, not decision-bearing)
+
+## [2026-06-24] ingest | Coverage workflow hardcodes CLI test list
+
+- **Type**: source
+- **Tags**: agent-orchestrator, coverage, ci, vitest, pr-725
+- **Source**: raw/feedback_2026-06-24_coverage_workflow_test_list_hardcode.md
+- **Source page**: sources/feedback-2026-06-24-coverage-workflow-test-list-hardcode.md
+- **Bead**: bd-0f3i
+- **Concepts created/linked**: [[GreenGateCIPattern]] (existing)
+- **[[jeffrey-oracle]]:** NO (CI config drift pattern, not decision-bearing)
