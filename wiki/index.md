@@ -5,6 +5,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Overview
 - [Overview](overview.md) — living synthesis across all sources
 
+- [Unexpected cmux Input Attribution Protocol](sources/feedback-2026-06-25-cmux-unexpected-input-attribution.md) — Unexpected cmux prompt text must be attributed from focus-log route signatures, transcript submission state, Hermes/Slack evidence, and socket audit evidence before claiming compromise.
 - [Chimera GNN Mock Training vs Real Training — 2026-05-22](sources/feedback-2026-05-22-chimera-gnn-mock-vs-real-training.md) — `train_gnn.py` was training GNN on hash-based fake quality scores; fixed with `--real-data` flag loading P14 benchmark scores; GNN mean > fixed mean after retraining — jleechanclaw fork has old openclaw secrets; always use clean branch from hermes/main for upstream PRs
 - [Push rule is force-push only — 2026-06-10](sources/feedback-2026-06-10-push-rule-misattribution.md) — global CLAUDE.md does NOT say "ask before pushing"; force-push needs explicit approval, normal push to current branch is fine; don't paraphrase rules into stricter versions
 - [Don't fabricate post-compaction context — 2026-06-10](sources/feedback-2026-06-10-no-fabricate-conversation-context.md) — after a context compaction, summary said tests + config refinement were written; on resume working tree was clean; verify disk/git/tests, not the summary, before continuing
@@ -30,6 +31,7 @@ This file is maintained by the LLM. Updated on every ingest.
 
 ## Concepts
 
+- [cmux Input Attribution](concepts/CmuxInputAttribution.md) — Attribute unexpected cmux prompt text by route signature and corroborating artifacts; `shortcut.routing reason=event_window` is local window keyboard-event evidence, not socket-send evidence.
 - [Service Discrimination](concepts/service-discrimination.md) — `lsof -ti:PORT` is NOT a service discriminator (any listener passes); probe a service-specific endpoint and assert response shape (e.g. `GET /openapi.json` → `info.title === "CCProxy API Server"`). Same class of false-positive as [[SkillStaleness]] and [[MacOSKeychainOAuthStorage]].
 - [macOS Keychain OAuth Storage](concepts/macos-keychain-oauth-storage.md) — Claude Code 2.x stores OAuth tokens in macOS Keychain under `Claude Code-credentials-<uuid>`, NOT `~/.claude/.credentials.json` (which now only contains dated backups). Consumers (ccproxy-api, oauth_claude plugin) block during startup when the JSON file is missing despite valid Keychain tokens.
 - [Launchd Worker PID Race](concepts/launchd-worker-pid-race.md) — When a launchd plist runs a worker subcommand directly (e.g. `_proxy-worker`), it bypasses `cli start` so the PID file is never written canonically; subsequent `cli status` reports STOPPED while the worker is healthy. Fix: status falls back to `lsof -ti:PORT -sTCP:LISTEN` when the PID-file check fails.
