@@ -6169,3 +6169,11 @@ Entities (4):
 - [[mem0_server]] (entities/mem0-server.md)
 
 Index entries added to wiki/index.md ## Concepts (top, 4 entries) and ## Entities (top, 4 entries).
+
+## [2026-06-25] ingest | Unexpected cmux Input Attribution Protocol
+
+- **Source**: raw/feedback_2026-06-25_cmux_unexpected_input_attribution.md
+- **Source page**: sources/feedback-2026-06-25-cmux-unexpected-input-attribution.md
+- **Bead**: none
+- **Concepts created/linked**: [[CmuxInputAttribution]] (new), [[cmux]] (existing entity), [[SecurityAnalysis]] (existing concept)
+- **[[jeffrey-oracle]]:** NO (operational incident-response attribution pattern)
