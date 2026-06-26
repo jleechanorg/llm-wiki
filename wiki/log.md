@@ -6150,3 +6150,22 @@ Source: feedback_2026-06-24_harden_max_3_horus_autonomy_time_box.md | Bead: none
 - **Branch pushed**: `harness-runtime-claim-fix` (HEAD 673796023a, from origin/main @ c5262078e2)
 - **Bead**: rev-7uj75 (referenced by all 4 new memory entries)
 - **Probe verification (verbatim)**: `enabled: true, WORLDAI_TEST_CACHE: read_write, WORLDAI_IS_SERVER_PROCESS: true, VERDICT: PASS`
+## [2026-06-26] ingest | llm-inspector capture chain wired end-to-end
+
+## [2026-06-25] wiki-ingest Phase 7 | entities + concepts for capture-chain source
+
+Created 8 new wiki pages referenced by [[llm-inspector capture chain wired end-to-end (2026-06-26)]]:
+
+Concepts (4):
+- [[ServiceDiscrimination]] (concepts/service-discrimination.md)
+- [[MacOSKeychainOAuthStorage]] (concepts/macos-keychain-oauth-storage.md)
+- [[LaunchdWorkerPIDRace]] (concepts/launchd-worker-pid-race.md)
+- [[CaptureVsModifyModeArchitecture]] (concepts/capture-vs-modify-mode-architecture.md)
+
+Entities (4):
+- [[llm_inspector]] (entities/llm-inspector.md)
+- [[ccproxy_api]] (entities/ccproxy-api.md)
+- [[Claude_Code]] (entities/claude-code.md)
+- [[mem0_server]] (entities/mem0-server.md)
+
+Index entries added to wiki/index.md ## Concepts (top, 4 entries) and ## Entities (top, 4 entries).
