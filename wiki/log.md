@@ -6211,3 +6211,11 @@ On 2026-06-23, after the June 18-23 Lima VM hang and the second port-randomizati
 - **Bead**: jleechan-7f3
 - **Concepts updated**: [[DarkFactory]], [[EvidenceBundles]], [[AttractorParallelExecution]], [[InstallScriptIdempotency]]
 - **[[jeffrey-oracle]]**: NO (technical factory workflow and install-smoke learning, not a user directive)
+
+## [2026-06-27] ingest | minimax parallel dispatch audit lessons (2026-06-27)
+
+- source: feedback_2026-06-27_minimax_parallel_dispatch_audit_lessons.md
+- slug: feedback-2026-06-27-minimax-parallel-dispatch-audit-lessons
+- tags: [dark-factory, minimax, parallel-dispatch, file-ownership, force-push, pr-base]
+- 10 lane PRs all merged: #104 #105 #107 #109 #110 #111 #113 #114 #116 #120
+
