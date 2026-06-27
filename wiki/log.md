@@ -6183,3 +6183,31 @@ Index entries added to wiki/index.md ## Concepts (top, 4 entries) and ## Entitie
 On 2026-06-26 during a mem0 fastembed migration verification, an attempt to clean up smoke-test memories via Python substring matching (`if "smoke" in mem.lower()`) silently deleted 9 legitimate Gate 8 / MCP Smoke / FastEmbed PR #7848 project memories from the Qdrant `hermes_mem0` collection (3161 → 3163 with 9 real deleted + 2 leftover smoke tests = net +2). No snapshot existed before the mass-delete. Recovery: manual re-insertion via POST /memories, with possible semantic drift because the embedder changed (nomic-embed-text → BAAI/bge-base-en-v1.5). A 25 MB Qdrant snapshot was taken post-incident for future insurance (too late to recover the 9). Reusable rule: snapshot first → delete by exact ID list captured at insert time → two-pass preview before destructive ops → use a separate test collection for verification.
 
 Source: sources/feedback-2026-06-26-qdrant-substring-delete-disaster.md. Concepts: [[QdrantMassDeleteProtocol]] (new), [[Mem0FastEmbedMigration]] (linked). [[jeffrey-oracle]]: NO (operational memory-hygiene rule).
+
+## [2026-06-27] ingest | /e slash command now encodes cost-aware model routing (PR #7974)
+
+On 2026-06-27, PR #7974 (merged at main SHA `f692d2184f73b4940b2126dd1d0a0e01a822e6a1`) added a `## 💰 MODEL SELECTION (cost-aware execution)` section to `.claude_reference/commands/e.md` and the mirror at `~/.claude/commands/e.md`. The new section biases `/e` invocations toward the cheapest coding tier that can complete the task correctly (Haiku / Sonnet / Codex Spark / GPT-medium / Cerebras / Gemini Flash / GLM-5.1), reserving Opus / GPT-large for hard architectural reasoning, ambiguous debugging, or where cheaper tiers have demonstrably failed. Both repo and home copies are in sync (verified via `diff -q`). 7-green at pre-merge head `bf6d5a46fc`; Green Gate pass at run 28286834146.
+
+- **Source page**: sources/project-2026-06-27-e-command-cost-aware-model-selection.md
+- **Bead**: none
+- **Concepts created/linked**: [[SlashCommandArchitecture]] (existing), [[ModelTierRouting]] (linked), [[CostAwareDevelopment]] (linked), [[MergeSafetyPolicy]] (linked — change drove through the full /goal → PR → /green → MERGE APPROVED → merge → copy-to-~/.claude cycle)
+- **[[jeffrey-oracle]]**: NO (operational cost-routing nudge, not a directive to the user)
+
+## [2026-06-27] ingest | Lima VM SSH Communication Pattern
+
+On 2026-06-23, after the June 18-23 Lima VM hang and the second port-randomization incident observed during the June 23 disk-cleanup session, a learning was captured describing the two-stage SSH hop from Mac to Lima QEMU guest. Pattern: `ssh jeff-ubuntu "ssh -p 40257 -i ~/.lima/_config/user 127.0.0.1 '...'"`. Lima must be pinned to port 40257 via `ssh.localPort: 40257` in `lima.yaml` — otherwise it picks a random port on every restart, breaking lima-watchdog.sh and ubuntu-runner-health.sh probes.
+
+- **Source page**: sources/feedback-2026-06-23-lima-vm-ssh-communication.md
+- **Memory file**: ~/.claude/projects/-Users-jleechan-projects-worktree-runner23423/memory/feedback_2026-06-23_lima_vm_ssh_communication.md
+- **Roadmap entry**: ~/roadmap/learnings-2026-06.md (appended)
+- **Bead**: none
+- **Concepts created/linked**: [[LimaVM]] (new entity), [[SelfHostedRunners]] (new entity), [[JeffUbuntu]] (new entity), [[LimaWatchdog]] (new entity — references lima-watchdog.sh from PR #7843), [[RuntimeMirror]] (new concept — stable-path install convention)
+- **[[jeffrey-oracle]]**: NO (operational SSH-pattern discovery, not a directive to the user)
+## [2026-06-27] ingest | Dark Factory reviewer/output/evidence contract and deterministic install smoke
+
+- **Source page**: sources/project-2026-06-27-dark-factory-reviewer-output-evidence-contract.md
+- **Memory file**: /Users/jleechan/.Codex/projects/-Users-jleechan-projects-dark-factory/memory/project_2026-06-27_dark_factory_reviewer_output_evidence_contract.md
+- **Roadmap entry**: /Users/jleechan/roadmap/learnings-2026-06.md
+- **Bead**: jleechan-7f3
+- **Concepts updated**: [[DarkFactory]], [[EvidenceBundles]], [[AttractorParallelExecution]], [[InstallScriptIdempotency]]
+- **[[jeffrey-oracle]]**: NO (technical factory workflow and install-smoke learning, not a user directive)
