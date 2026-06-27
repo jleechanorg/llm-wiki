@@ -6177,3 +6177,9 @@ Index entries added to wiki/index.md ## Concepts (top, 4 entries) and ## Entitie
 - **Bead**: none
 - **Concepts created/linked**: [[CmuxInputAttribution]] (new), [[cmux]] (existing entity), [[SecurityAnalysis]] (existing concept)
 - **[[jeffrey-oracle]]:** NO (operational incident-response attribution pattern)
+
+## [2026-06-26] ingest | Qdrant mass-delete anti-pattern — substring matching deleted 9 real memories
+
+On 2026-06-26 during a mem0 fastembed migration verification, an attempt to clean up smoke-test memories via Python substring matching (`if "smoke" in mem.lower()`) silently deleted 9 legitimate Gate 8 / MCP Smoke / FastEmbed PR #7848 project memories from the Qdrant `hermes_mem0` collection (3161 → 3163 with 9 real deleted + 2 leftover smoke tests = net +2). No snapshot existed before the mass-delete. Recovery: manual re-insertion via POST /memories, with possible semantic drift because the embedder changed (nomic-embed-text → BAAI/bge-base-en-v1.5). A 25 MB Qdrant snapshot was taken post-incident for future insurance (too late to recover the 9). Reusable rule: snapshot first → delete by exact ID list captured at insert time → two-pass preview before destructive ops → use a separate test collection for verification.
+
+Source: sources/feedback-2026-06-26-qdrant-substring-delete-disaster.md. Concepts: [[QdrantMassDeleteProtocol]] (new), [[Mem0FastEmbedMigration]] (linked). [[jeffrey-oracle]]: NO (operational memory-hygiene rule).
