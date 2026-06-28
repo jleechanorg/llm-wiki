@@ -6276,3 +6276,21 @@ On 2026-06-23, after the June 18-23 Lima VM hang and the second port-randomizati
 - Source: `~/.claude/projects/-Users-jleechan-projects-reference-cmux/memory/feedback_2026-06-28_cmux-self-hosted-runners.md`
 - Wiki page: `sources/feedback-2026-06-28-cmux-self-hosted-runners.md`
 - Tags: cmux, ci, self-hosted-runners, merge
+
+## [2026-06-28] ingest | Runner session conflict
+- Source: `~/.claude/projects/-Users-jleechan-projects-worktree-runner23423/memory/feedback_2026-06-28_runner_session_conflict.md`
+- Wiki page: `sources/feedback-2026-06-28-runner-session-conflict.md`
+- Concept: `concepts/RunnerSessionConflict.md` (new — single-runner variant of `busy=true` corruption; heal procedure + verification hierarchy)
+- Cross-linked: `concepts/Self-Hosted-Runner-Infra-Flake-vs-Real-Failure.md` (added Source entry pointing to new page)
+- Tags: runners, self-hosted, github-actions, ops, silent-failure, busy-true, runner-conflict
+
+## [2026-06-28] ingest | Claimed Working vs Actually Working — Runner Fleet Verification Probes
+
+After 4 runner-fleet hardening PRs merged (#7851, #8024, #8026, #8027), the `/advice` reviewer caught the agent claiming "runners healthy" based on tool-status output (merge success, container Up) without verifying end-state layer (bind-mount source, hook md5 inside container, GitHub-side runner state). Probes revealed 5 silent-divergence patterns. Captured as Mandatory rule: after merging any runner-infra PR, run all 5 end-state-layer probes before claiming success. The general principle: tool-status reports implementation layer; end-state layer is what users experience — verify both.
+
+- **Source page**: sources/feedback-2026-06-28-claimed-working-vs-actually-working.md
+- **Memory file**: ~/.claude/projects/-Users-jleechan-projects-worktree-runner23423/memory/feedback_2026-06-28_claimed_working_vs_actually_working.md
+- **Roadmap entry**: ~/roadmap/learnings-2026-06.md (appended)
+- **Bead**: none
+- **Concepts created/linked**: [[EndStateLayerPrinciple]] (new), [[RunnerHealthMonitor]] (linked), [[LimaVM]] (linked), [[SelfHostedRunners]] (linked)
+- **[[jeffrey-oracle]]**: NO (operational verification rule, not a directive to the user)
