@@ -6259,3 +6259,20 @@ On 2026-06-23, after the June 18-23 Lima VM hang and the second port-randomizati
 - **Trigger**: Codex P2 finding on PR #130 (introducing commit `1cfb057`) — `bin/conformance:_check_level5` used scalar `class_val == "explore"` which false-fails graphs combining role + styling tokens. Fix in commit `0fd3e2e` mirrors `runner/parser.py:_selector_matches` tokenization.
 - **Connections**: PR https://github.com/jleechanorg/dark-factory/pull/130; concept [[AttributeError]]; sibling pattern to [[RuntimeMirrorInstall]] (parse-then-validate consistency); [[Codex]] (the bot that caught it).
 - **Index entry**: prepended to `wiki/index.md` "Overview" inline sources (most recent 2026-06-28 entry).
+
+## [2026-06-28] ingest | App Management TCC dialog on cmux DEV launch
+- Source: `~/.claude/projects/-Users-jleechan-projects-reference-cmux/memory/feedback_2026-06-28_app-management-tcc-prompt.md`
+- Wiki page: `sources/feedback-2026-06-28-app-management-tcc-prompt.md`
+- Tags: cmux, macos, tcc, dev-workflow
+- Cmux PR #9 (merged 2026-06-28T19:17:55Z, merge commit `d2050bfc`)
+
+## [2026-06-28] ingest | macOS screensaver notification API gotchas
+- Source: `~/.claude/projects/-Users-jleechan-projects-reference-cmux/memory/feedback_2026-06-28_screensaver-notification-api.md`
+- Wiki page: `sources/feedback-2026-06-28-screensaver-notification-api.md`
+- Tags: cmux, macos, screensaver, distributed-notification
+- Three-commit saga reference: `c543957d8` → `1c8605cdb` → `491b357af`
+
+## [2026-06-28] ingest | jleechanorg/cmux has zero self-hosted runners
+- Source: `~/.claude/projects/-Users-jleechan-projects-reference-cmux/memory/feedback_2026-06-28_cmux-self-hosted-runners.md`
+- Wiki page: `sources/feedback-2026-06-28-cmux-self-hosted-runners.md`
+- Tags: cmux, ci, self-hosted-runners, merge
