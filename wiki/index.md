@@ -5,6 +5,7 @@ This file is maintained by the LLM. Updated on every ingest.
 ## Overview
 - [Overview](overview.md) — living synthesis across all sources
 
+- [Aside browser default switch (2026-06-27)](sources/aside-browser-default-switch-2026-06-27.md) — Reversible-facade switch from Playwright MCP / superpowers-chrome to Aside browser across all user-scope skill dirs. New `aside-browser-default` skill is canonical; Playwright/superpowers-chrome remain as named fallbacks. Rollback via `~/.hermes/scripts/rollback-aside-default.sh`. Entity: [[AsideBrowser]]. Concept: [[ReversibleFacadePattern]].
 - [Unexpected cmux Input Attribution Protocol](sources/feedback-2026-06-25-cmux-unexpected-input-attribution.md) — Unexpected cmux prompt text must be attributed from focus-log route signatures, transcript submission state, Hermes/Slack evidence, and socket audit evidence before claiming compromise.
 - [Lima VM SSH Communication Pattern — 2026-06-23](sources/feedback-2026-06-23-lima-vm-ssh-communication.md) — Two-stage SSH hop from Mac to Lima QEMU guest via jeff-ubuntu and 127.0.0.1:40257; pin ssh.localPort in lima.yaml to prevent port randomization on restart.
 - [Chimera GNN Mock Training vs Real Training — 2026-05-22](sources/feedback-2026-05-22-chimera-gnn-mock-vs-real-training.md) — `train_gnn.py` was training GNN on hash-based fake quality scores; fixed with `--real-data` flag loading P14 benchmark scores; GNN mean > fixed mean after retraining — jleechanclaw fork has old openclaw secrets; always use clean branch from hermes/main for upstream PRs
