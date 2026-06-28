@@ -6219,3 +6219,11 @@ On 2026-06-23, after the June 18-23 Lima VM hang and the second port-randomizati
 - tags: [dark-factory, minimax, parallel-dispatch, file-ownership, force-push, pr-base]
 - 10 lane PRs all merged: #104 #105 #107 #109 #110 #111 #113 #114 #116 #120
 
+
+## [2026-06-27] ingest | Aside browser default switch (2026-06-27)
+
+- source: aside-browser-default-switch-2026-06-27
+- tags: [source-type:project-decision, aside-browser, browser-default, hermes, claude-code, codex, browser-automation]
+- Entity created: [[AsideBrowser]]
+- Concept created: [[ReversibleFacadePattern]]
+- Notes: Reversible-facade switch from Playwright MCP / superpowers-chrome to Aside browser across all user-scope skill dirs. Rollback via `~/.hermes/scripts/rollback-aside-default.sh`.
