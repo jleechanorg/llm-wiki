@@ -6227,3 +6227,15 @@ On 2026-06-23, after the June 18-23 Lima VM hang and the second port-randomizati
 - Entity created: [[AsideBrowser]]
 - Concept created: [[ReversibleFacadePattern]]
 - Notes: Reversible-facade switch from Playwright MCP / superpowers-chrome to Aside browser across all user-scope skill dirs. Rollback via `~/.hermes/scripts/rollback-aside-default.sh`.
+
+## [2026-06-27] ingest | Aside browser crash diagnosis: SIGABRT/mutex (not SIGTRAP/DCHECK) + hourly updater bootout fix
+
+- Source: `/Users/jleechan/llm_wiki/raw/feedback-2026-06-27-aside-browser-crash-diagnosis.md` (5194 bytes)
+- Source page: `/Users/jleechan/llm_wiki/wiki/sources/feedback-2026-06-27-aside-browser-crash-diagnosis.md`
+- New concept: `/Users/jleechan/llm_wiki/wiki/concepts/ChromiumAIBrowserCrashSignatures.md` (extends Comet SIGTRAP methodology with SIGABRT/mutex sibling signature)
+- Entity update: `/Users/jleechan/llm_wiki/wiki/entities/AsideBrowser.md` — added crash-instability gotcha with reversible bootout fix
+- Bead: rev-np606 (closed)
+- Memory: `~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-27_aside_browser_crash_diagnosis.md`
+- Roadmap: `~/roadmap/learnings-2026-06.md` (appended Best Practice entry)
+- mem0: saved (exit 0)
+- Fix applied: `launchctl bootout gui/501/at.studio.AsideUpdater.wake` (updater job unregistered); `rm -rf ~/Library/Application Support/Aside/Crashpad/completed` (Crashpad cleanup)
