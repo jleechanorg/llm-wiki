@@ -6248,3 +6248,14 @@ On 2026-06-23, after the June 18-23 Lima VM hang and the second port-randomizati
 - **Roadmap**: `~/roadmap/learnings-2026-06.md` entry 2026-06-28
 - **Trigger**: User directive 2026-06-28 — "to stop trying to do this i want preview servers to be as close to gcp dev/stable in config as possible." Rejecting PR #7926's `SKIP_PROMPT_EMBEDDINGS_PRECOMPUTE=true` preview-only env bypass (CLOSED-not-merged).
 - **Connections**: PR #7599 (rule source — "preview == dev == prod"), PR #7926 (violator), Optimization-Baseline-Fidelity (sister principle).
+
+## [2026-06-28] ingest | Mirror existing attribute parsers — tokenization pattern
+
+- **Source**: `~/.claude/projects/-Users-jleechan-projects-dark-factory/memory/feedback_2026-06-28_mirror_existing_attribute_parsers.md`
+- **Raw**: `~/llm_wiki/raw/feedback_2026-06-28_mirror_existing_attribute_parsers.md`
+- **Wiki page**: `sources/feedback-2026-06-28-mirror-attribute-parsers.md`
+- **Bead**: none (documentation only; lesson is in memory + roadmap)
+- **Roadmap**: `~/roadmap/learnings-2026-06.md` entry 2026-06-28
+- **Trigger**: Codex P2 finding on PR #130 (introducing commit `1cfb057`) — `bin/conformance:_check_level5` used scalar `class_val == "explore"` which false-fails graphs combining role + styling tokens. Fix in commit `0fd3e2e` mirrors `runner/parser.py:_selector_matches` tokenization.
+- **Connections**: PR https://github.com/jleechanorg/dark-factory/pull/130; concept [[AttributeError]]; sibling pattern to [[RuntimeMirrorInstall]] (parse-then-validate consistency); [[Codex]] (the bot that caught it).
+- **Index entry**: prepended to `wiki/index.md` "Overview" inline sources (most recent 2026-06-28 entry).
