@@ -6239,3 +6239,12 @@ On 2026-06-23, after the June 18-23 Lima VM hang and the second port-randomizati
 - Roadmap: `~/roadmap/learnings-2026-06.md` (appended Best Practice entry)
 - mem0: saved (exit 0)
 - Fix applied: `launchctl bootout gui/501/at.studio.AsideUpdater.wake` (updater job unregistered); `rm -rf ~/Library/Application Support/Aside/Crashpad/completed` (Crashpad cleanup)
+
+## [2026-06-28] ingest | No preview-only config bypasses — match prod config always
+
+- **Source**: `~/.claude/projects/-Users-jleechan-projects-worldarchitect-ai/memory/feedback_2026-06-28_no_preview_only_bypasses.md`
+- **Wiki page**: `sources/feedback-2026-06-28-no-preview-only-bypasses.md`
+- **Bead**: rev-q9lvd (new, learning)
+- **Roadmap**: `~/roadmap/learnings-2026-06.md` entry 2026-06-28
+- **Trigger**: User directive 2026-06-28 — "to stop trying to do this i want preview servers to be as close to gcp dev/stable in config as possible." Rejecting PR #7926's `SKIP_PROMPT_EMBEDDINGS_PRECOMPUTE=true` preview-only env bypass (CLOSED-not-merged).
+- **Connections**: PR #7599 (rule source — "preview == dev == prod"), PR #7926 (violator), Optimization-Baseline-Fidelity (sister principle).
