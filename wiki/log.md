@@ -6294,3 +6294,9 @@ After 4 runner-fleet hardening PRs merged (#7851, #8024, #8026, #8027), the `/ad
 - **Bead**: none
 - **Concepts created/linked**: [[EndStateLayerPrinciple]] (new), [[RunnerHealthMonitor]] (linked), [[LimaVM]] (linked), [[SelfHostedRunners]] (linked)
 - **[[jeffrey-oracle]]**: NO (operational verification rule, not a directive to the user)
+
+## [2026-06-29] ingest | Pre-push hook caught agent-f content in user_scope backup repo
+
+While expanding BACKUP_ITEMS in `scripts/backup-home.sh` for ~/.hermes / ~/.agent-orchestrator / etc., one row referenced `~/.claude-agent-f/` (Agnt-F / claudeaf()'s alternate Claude profile). The pre-push hook `block-agentf-push-to-jleechanorg.sh` caught the commit string `claude-agent-f` in the BACKUP_ITEMS line and blocked the git push. Per user explicit "i dont want agentf stuff in my personal repo" — refactored to dropbox-only (empty git_rel, populated dropbox_rel). Local commit `f22dc55f9`; dropbox backup starts on next scheduled launchd. The hook correctly enforces the jleechanorg-vs-Agnt-F org separation; without it, the same backup-config change would have leaked `jeffrey@agent-f.com` OAuth tokens via the commit string into a personal-org git mirror. Reusable rule: before adding any BACKUP_ITEMS row, scan the source path for `agent-f`, `agentf`, `agnt-f`, `agf-`, `claude-af`, `claudeaf`, `jleechan-af`, `jeffrey@agent-f.com`; if matched, use dropbox-only (empty git_rel) and consider whether the row belongs in an Agnt-F repo instead. Adjacent issues NOT fixed in this PR: `~/.hermes/hermes.json` Slack tokens not in hermes's own .gitignore (separate fix for hermes-agent repo); `~/.chatgpt_codex_auth_state.json` 3mo-stale chatgpt cookies (rotation responsibility); `~/.claude-code-router/config.json` live minimax `sk-cp-` API key (key rotation responsibility).
+
+Source: sources/feedback-2026-06-29-agentf-personal-repo-catch.md. [[jeffrey-oracle]]: NO (push-safety operational lesson for user-scope repo).
