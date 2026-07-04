@@ -6326,3 +6326,11 @@ Source: sources/sustained-prompt-injection-during-pr-drive-2026-07-02.md. [[jeff
 - 4 pitfalls documented (Python f-string embedding, br CLI missing on runners, subdir .gitattributes, infra vs content failures)
 - Upstream validation via beads_rust issues #3474, #4127
 - Source page: `wiki/sources/project-2026-07-04-bead-bridge-complete-architecture-and-pitfalls.md`
+
+## [2026-07-04] ingest | Design exit-criteria-first wiring (/design + brainstorming batch-decision review)
+- Classification: Best Practice
+- 6 files rewired by 2 parallel subagents: /design command + 3 design skills + brainstorming (plugin cache + tessl mirror)
+- Exit criteria FIRST in every no-code spec; batch-decision review replaces serial questioning
+- Bar: binary/executable/externally-anchored; implementer artifacts never sufficient; default FAIL (dark-factory charter @7152469)
+- Volatility: superpowers cache 5.0.7 edit dies on plugin update — bead jleechan-0bgw
+- Source page: `wiki/sources/feedback-2026-07-04-design-exit-criteria-first-wiring.md`
