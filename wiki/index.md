@@ -606,6 +606,7 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Hermes SOUL.md symlink + auto/commit-pending branch hygiene (2026-06-12)](sources/reference-2026-06-12-hermes-soul-symlink-and-autocommit-branch.md) — Root SOUL.md is symlink to workspace/SOUL.md (grep follows, git doesn't); auto/commit-pending branch can carry stale working-tree snapshot that undoes merged fixes — content-diff each commit vs origin/main before forcing forward.
 - [bd-qw6 skeptic catches warning-mode measured-section contradiction (2026-06-12)](sources/feedback-2026-06-12-bd-qw6-measured-section-warning.md) — skeptic-self-verify PASSes but bd-qw6 FAILs on PR #7315: `daily_gemini_cost_report.py:1682` appends `_format_measured_section(...)` unconditionally after warning-mode body. Treat any bd-qw6 FAIL as real blocker; fix + re-trigger.
 
+- [Bead-PR Bridge: Complete Architecture + 4 Rollout Pitfalls (2026-07-04)](sources/project-2026-07-04-bead-bridge-complete-architecture-and-pitfalls.md) — 3-layer defense-in-depth (no-auto-flush + pre-commit auto-sorter + CI guard) shipped to 4 repos in 8 merged PRs. Architecture, 4 pitfalls (f-string parser bug, br CLI missing on runners, subdir gitattributes ignored, infra-only CI failures), upstream beads_rust validation. Memory: ~/.claude/projects/-Users-jleechan-projects-dark-factory/memory/project_2026-07-04_bead_bridge_complete_architecture_and_pitfalls.md. Beads: jleechan-xgz, jleechan-c5q.
 ## Campaign Ingests (Batch D)
 
 - [BG1 Nocturne Campaign](sources/bg1-nocturne.md) — BG1 prequel, Nocturne as Bhaalspawn Ranger, Hunger mechanic, Baldur's Gate (20 entries)
@@ -784,6 +785,9 @@ This file is maintained by the LLM. Updated on every ingest.
 - [Codex Sessions 2026-03-29](sources/codex-sessions-2026-03-29.md) — 243 sessions
 - [Codex Sessions 2026-03-28](sources/codex-sessions-2026-03-28.md) — 191 sessions
 
+- [Bead-PR Bridge](concepts/BeadPrBridge.md) — pattern of connecting internal git-tracked issue tracker to external PR surface (3-layer defense in depth)
+- [no-auto-flush config (Beads CLI)](concepts/NoAutoFlushConfig.md) — root-cause config setting preventing wholesale JSONL rewrites on every br command
+- [Pre-commit Hook Pattern for Git-Tracked Data Files](concepts/PreCommitHookPattern.md) — canonical pattern for preventing noise in git-tracked structured data
 ## PRs and Bug Fixes
 - [PR #546: docs: Hermes token-swap config — Hermes owns prod Slack, OpenClaw uses staging](sources/pr-546-docs-hermes-token-swap-config-hermes-owns-prod-slack-openclaw-uses-staging.md)
 - [PR #545: docs: add SWITCH_TO_HERMES guide — Hermes as primary agent](sources/pr-545-docs-add-switchtohermes-guide-hermes-as-primary-agent.md)
