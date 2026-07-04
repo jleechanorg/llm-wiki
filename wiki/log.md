@@ -6315,3 +6315,14 @@ Source: sources/sustained-prompt-injection-during-pr-drive-2026-07-02.md. [[jeff
 ## [2026-07-04] ingest | integrate.sh hard-stop when branch is behind origin/main
 
 4th hard-stop case NOT in jleechan-9o99 matrix. Source: `~/.claude/projects/-Users-jleechan--hermes/memory/feedback_2026-07-04_integrate_behind_origin_main.md` (5751 bytes). Verified safe workflow: `git log origin/main..HEAD` empty → `git reset --hard origin/main` → re-run integrate.sh OR `git checkout -b dev$(date +%s) origin/main` when main in another worktree.
+
+## [2026-07-04] ingest | Bead-PR Bridge: Complete Architecture + 4 Rollout Pitfalls
+
+- Source: `~/.claude/projects/-Users-jleechan-projects-dark-factory/memory/project_2026-07-04_bead_bridge_complete_architecture_and_pitfalls.md`
+- Slug: `project-2026-07-04-bead-bridge-complete-architecture-and-pitfalls`
+- Type: project
+- Classification: Mandatory
+- 3-layer defense architecture (no-auto-flush + pre-commit auto-sorter + CI guard) shipped to 4 repos in 8 merged PRs
+- 4 pitfalls documented (Python f-string embedding, br CLI missing on runners, subdir .gitattributes, infra vs content failures)
+- Upstream validation via beads_rust issues #3474, #4127
+- Source page: `wiki/sources/project-2026-07-04-bead-bridge-complete-architecture-and-pitfalls.md`
