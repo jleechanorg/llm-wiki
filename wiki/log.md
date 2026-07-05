@@ -6334,3 +6334,15 @@ Source: sources/sustained-prompt-injection-during-pr-drive-2026-07-02.md. [[jeff
 - Bar: binary/executable/externally-anchored; implementer artifacts never sufficient; default FAIL (dark-factory charter @7152469)
 - Volatility: superpowers cache 5.0.7 edit dies on plugin update — bead jleechan-0bgw
 - Source page: `wiki/sources/feedback-2026-07-04-design-exit-criteria-first-wiring.md`
+
+## [2026-07-05] ingest | PR #8162 partial fix vs canonical spec #7864
+- Classification: Best Practice (anti-pattern documented)
+- Stop-hook caught agent shipping 2-file predicate widening (`mvp_site/game_state.py:reset_resource_registry_in_place`) without consulting canonical spec at specs/2026-06-23-resource-registry-rest-tracking.md (PR #7864 MERGED 2026-06-27) or running `/ms` / `/history` despite user naming them in the goal
+- Required fix shape: 4-leg architecture (PR #7614), new `apply_short_rest_to_resources` helper alongside `apply_long_rest_to_resources`, Warlock Pact Magic as own resource class (NOT hard-coded short_rest), jleechantest twin on campaign `xK3fp5XrV24oarIINTF7` with canonical evidence bundle
+- User design opinion (slack 1782275604.684449): backend enforces 3 invariants (clamp, rest-reset, header); LLM owns mechanics; DO NOT hard-code Warlock/Ki/SuperiorityDice in backend predicates
+- Echo-reasoning TDD pattern (slack 1782279896.934079, PR #7614 baseline): 25 RED → 24 GREEN + 1 fix-needed proves bug+fix coexist in same test class
+- Test user = `jleechantest`, NOT `vnLp2G3m21PJL6kxcuAqmWSOtm73`
+- Bead: rev-m93j7 (P2)
+- Source pages: `wiki/sources/feedback-2026-07-05-partial-spell-slot-fix-vs-canonical-spec.md`, `wiki/concepts/resource-rest-tracking-spec-2026-06-23.md`
+
+## [2026-07-05] ingest | ez-gh-actions supersedes worldarchitect.ai self-hosted-oss/*
