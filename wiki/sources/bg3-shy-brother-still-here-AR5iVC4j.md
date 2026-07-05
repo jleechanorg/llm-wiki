@@ -1,0 +1,974 @@
+---
+title: "Bg3 shy (brother still here)"
+type: source
+tags: [campaign, worldarchitect, bg3-shy-brother-still-here]
+date: 2026-07-05
+source_file: /tmp/campaign_daily_ingest/AR5iVC4j7GXqup1HPYlP/Bg3 shy _brother still here__AR5iVC4j.txt
+campaign_id: AR5iVC4j7GXqup1HPYlP
+entry_count: 62
+ingest_batch: download-campaign-skill
+---
+
+God Mode:
+Character: Nocturna | Setting: After the events of bg3. I am a level 5 int based cleric make me a special class. I am a 16 year old female prodigy and give me an interesting backstory and extra attack
+
+============================================================
+SCENE 1
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 12:00:00
+Location: Baldur's Gate - Lower City
+Status: Lvl 5 Cleric | HP: 33/33 | Gold: 500gp | XP: 0/300
+Conditions: Normal | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2
+
+Game Master:
+[CHARACTER CREATION - Initial Choice]
+
+Welcome, Nocturna. The dust has settled over the ruins of the Netherbrain, and the city of Baldur's Gate begins the long process of rebuilding. But for a sixteen-year-old genius like you, the end of the Absolute crisis was merely the beginning of a far more complex intellectual pursuit. While others sought comfort in prayer, you sought the mathematical proof of the divine.
+
+### Firebase Sanity Check
+**Loaded State**: Empty `{}`. (Campaign initialized from provided prompt).
+
+### CAMPAIGN SUMMARY
+**Title**: Nocturna: Scion of the Shadow Weave
+**Character**: Nocturna (Prodigy)
+**Setting**: Post-Baldur's Gate 3 (Faerûn)
+**Description**: A 16-year-old genius Cleric navigating the power vacuum left by the Absolute.
+**AI Personalities**: Narrative, Mechanics
+**Options**: [AIGenerated], [StandardDND], [CustomClass]
+
+I have drafted a unique **[AIGenerated]** profile based on your requirements. 
+
+**Nocturna, the Arcane Archivist**
+*Level 5 Intelligence-Based Cleric*
+
+**Special Class: Scion of the Script**
+Unlike traditional clerics who rely on faith, you treat the divine as a grand architectural equation. Your spellcasting modifier is **Intelligence**. At level 5, your unique combat training—honed through calculated precision rather than brute force—grants you **Extra Attack**.
+
+**Backstory**: While others fled the tadpoles, you were in the High House of Wonders mapping the psionic frequency of the Weave. You discovered that the gods are not just personas, but fundamental laws of reality. You carry a 'Divine Ledger' instead of a holy symbol, containing the proofs of Mystra's existence. Your prodigy status has made you a target for those who wish to control the new 'Equation' of power in the city.
+
+**Attributes (Standard Array + Racial + ASI)**:
+- **STR**: 8 (-1) | **DEX**: 16 (+3) | **CON**: 12 (+1)
+- **INT**: 18 (+4) | **WIS**: 13 (+1) | **CHA**: 10 (0)
+
+**Equipment**: 
+- +1 Scale Mail (AC 18 with Shield)
+- Fine Steel Mace (Melee)
+- Light Crossbow (Ranged)
+- The Divine Ledger (Spellcasting Focus)
+
+**Skills**: Arcana, History, Investigation, Religion, Persuasion.
+
+**Companions**: 
+- **Torvin (Paladin, 19)**: Your protective, though less intellectually gifted, older brother who ensures your safety in the field.
+- **Blink**: A rescued displacer beast kitten that stays nestled in your shadow.
+
+Does this character meet your approval, or would you like to make changes?
+
+Player (freeform):
+Make me a custom class and set my cha to 8 with -2 social checks until level 12. I am very shy  and low confidence. Let’s assume I’m just an unknown adventurer and am just naturally talented and don’t know why. Give me interesting characters based backstory and custom class
+
+============================================================
+SCENE 2
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 12:00:00
+Location: Baldur's Gate - Lower City
+Status: Lvl 5 Cleric (Silent Conduit) | HP: 33/33 | Gold: 500gp | XP: 0/300
+Conditions: Shy & Low Confidence (-2 Social) | Exhaustion: 0 | Inspiration: No]
+
+Game Master:
+[CHARACTER CREATION - Review]
+
+Understood, Nocturna. We have reconfigured your essence to reflect this sudden, terrifying awakening of power. You are no longer a scholar studying scripts; you are the instrument of a song you cannot hear. 
+
+### The Silent Conduit (Custom Cleric Class)
+You are a 'Silent Conduit'—a rare individual whose mind naturally resonates with the frequency of the Weave. You do not study divinity; you simply perceive the geometric 'rightness' of reality and can instinctively correct the 'errors' (wounds, curses, or enemies).
+
+**Key Features:**
+- **Intellectual Resonance**: Your spellcasting is driven by your innate understanding of the Weave's architecture. Your spellcasting modifier is **Intelligence**.
+- **Instinctive Reflex**: At level 5, your body moves with a preternatural speed that surprises even you. You gain the **Extra Attack** feature.
+- **Social Constraint**: Your profound shyness and lack of confidence manifest as a mechanical penalty. You have a **-2 penalty to all social checks** (Persuasion, Deception, Intimidation) until you reach level 12 and find your voice.
+
+**Backstory: The Echo of the Fall**
+You were an orphan of the Lower City, a nameless 'urchin' who spent sixteen years trying to be invisible. When the Absolute fell and the psychic weave of the city shattered, something inside you snapped into place. You didn't study for this; you didn't pray for it. You simply woke up one morning and realized you could see the 'hum' of the world. You found a battered mace in the gutters and realized you knew exactly where to strike to make the hum stop. You are terrified of what you are, muttering apologies as you accidentally perform miracles.
+
+**Updated Attributes**:
+- **STR**: 10 (0) | **DEX**: 16 (+3) | **CON**: 13 (+1)
+- **INT**: 18 (+4) | **WIS**: 12 (+1) | **CHA**: 8 (-1)
+
+**Active Effects**:
+- **Shy & Low Confidence**: -2 to Persuasion, Deception, and Intimidation (Expires at Level 12).
+
+Does this revised version of Nocturna meet your approval?
+
+Player (freeform):
+Give me 18 int 16 dex 14 con and spread out the rest and 8 cha
+
+============================================================
+SCENE 3
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 12:00:00
+Location: Baldur's Gate - Lower City
+Status: Lvl 5 Cleric (Silent Conduit) | HP: 38/38 | Gold: 500gp | XP: 0/300
+Conditions: Shy & Low Confidence (-2 Social) | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2
+
+Game Master:
+[CHARACTER CREATION - Review]
+
+Your physical form shifts slightly as the resonance of the Weave settles into a new, more durable pattern. You feel a bit more grounded, though your heart still flutters with every unexpected sound in the Lower City. The 'hum' you perceive is louder now, more persistent, demanding you be its vessel.
+
+### Character Review: Nocturna
+- **Race**: High Elf
+- **Class**: The Silent Conduit (Custom INT-based Cleric)
+- **Level**: 5
+- **Background**: Urchin
+
+**Ability Scores (Final)**:
+- **STR**: 10 (0) | **DEX**: 16 (+3) | **CON**: 14 (+2)
+- **INT**: 18 (+4) | **WIS**: 10 (0) | **CHA**: 8 (-1)
+
+**Key Features**:
+- **Extra Attack**: You strike twice whenever you take the Attack action.
+- **Intellectual Resonance**: Intelligence is your spellcasting ability.
+- **Shy & Low Confidence**: You suffer a -2 penalty to Persuasion, Deception, and Intimidation checks until Level 12.
+
+**Equipment**:
+- **Melee**: Fine Steel Mace (+1 to hit from custom smithing)
+- **Ranged**: Light Crossbow
+- **Protection**: +1 Scale Mail & Shield (AC 18)
+- **Focus**: The Divine Ledger
+
+**Prepared Spells (9)**:
+- *Lvl 1*: Healing Word, Guiding Bolt, Bless
+- *Lvl 2*: Aid, Hold Person, Spiritual Weapon
+- *Lvl 3*: Revivify, Spirit Guardians, Dispel Magic
+
+Does this configuration of the 'hum' within you feel right? We are ready to begin whenever you are.
+
+Player (freeform):
+Show me my level 1-30 progression and make me similar to war cleric and storm or thunder cleric
+
+============================================================
+SCENE 4
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 12:00:00
+Location: Baldur's Gate - Lower City
+Status: Lvl 5 Cleric (Silent Conduit) | HP: 38/38 | Gold: 500gp | XP: 0/300
+Conditions: Shy & Low Confidence (-2 Social) | Exhaustion: 0 | Inspiration: No]
+
+Game Master:
+[CHARACTER CREATION - Review]
+
+Understood, Nocturna. We have woven the martial discipline of the War domain and the primal fury of the Storm into your unique resonance. You don't just see the 'hum' of the world; you can now conduct it like a symphony of thunder and steel. 
+
+### The Silent Conduit: Level 1-30 Progression
+
+**Tier 1: The Awakening (Levels 1-4)**
+- **Level 1: Intellectual Resonance** (INT-based casting), **Resonance Strike** (Bonus action attack INT times/day), **Storm's Whisper** (Reaction: 2d8 Thunder damage to attackers).
+- **Level 2: Channel Divinity: Arcane Discharge** (AOE Thunder damage and pushback).
+- **Level 4: Ability Score Improvement**.
+
+**Tier 2: The Resonant Warrior (Levels 5-10)**
+- **Level 5: Extra Attack** (Two attacks per action), **3rd Level Spells**.
+- **Level 6: Thunderbolt Strike** (Push enemies 10ft when you deal Thunder/Lightning damage).
+- **Level 8: Divine Strike** (Add 1d8 Thunder damage to weapon attacks once per turn).
+- **Level 10: Divine Intervention**.
+
+**Tier 3: The Sovereign Instrument (Levels 11-16)**
+- **Level 11: 6th Level Spells**.
+- **Level 12: Finding Your Voice** (Your 'Shy and Low Confidence' penalty is permanently removed).
+- **Level 14: Destructive Wrath** (Maximize Thunder or Lightning damage rolls).
+- **Level 16: Ability Score Improvement**.
+
+**Tier 4: The Storm-Witch (Levels 17-20)**
+- **Level 17: Stormborn** (You gain a flying speed equal to your walking speed).
+- **Level 20: Divine Intervention Improvement** (Automatic success).
+
+**Divine & Sovereign Tiers (Levels 21-30)**
+- **Level 21: Epic Boon** (Selection of legendary feats).
+- **Level 25: Divine Ascension** (Permanent resistance to non-magical damage; your presence crackles with lightning).
+- **Level 30: Sovereign of the Storm** (You ignore Thunder and Lightning immunities; your spells can rewrite the weather of an entire region).
+
+**Current State (Level 5)**:
+- **HP**: 38 | **AC**: 18
+- **Extra Attack**: Yes
+- **INT-Casting**: Yes (Mod +4)
+- **Social Penalty**: -2 (Active until Level 12)
+
+Does this path of power resonate with you, or should we adjust the frequencies?
+
+Player (freeform):
+Actually let’s make me an Angelic cleric and assume I am half angel but don’t know
+
+============================================================
+SCENE 5
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 12:00:00
+Location: Baldur's Gate - Lower City
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 0/300
+Conditions: Shy & Low Confidence (-2 Social) | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2
+
+Game Master:
+[CHARACTER CREATION - Review]
+
+The 'hum' you've been hearing changes. It’s no longer just a mathematical vibration; it’s a chorus—distant, golden, and terrifyingly pure. You always thought your talent was just a fluke of geometry, but as you look at your hands, you notice the faint, shimmering outline of white-gold feathers that vanish the moment you focus on them. You aren't just an orphan who got lucky with a mace; you are a creature of the Upper Planes, a half-angelic 'Seraph' who has no idea why she was left in the gutters of the Lower City.
+
+### The Seraphic Storm (Custom Cleric Class)
+You are a 'Seraphic Storm'—a conduit for a divine frequency that blends the martial discipline of War, the elemental fury of the Storm, and the radiant purity of the Heavens. 
+
+**Key Features:**
+- **Celestial Calculation**: You treat the Weave as a divine proof. Your spellcasting ability is **Intelligence**.
+- **Angelic Reflex**: Your movements are guided by an invisible hand. At level 5, you gain **Extra Attack**.
+- **Radiant Peal**: You blend Thunder and Radiant damage. Your 'Storm' features now hum with celestial light.
+
+### Level 1-30 Progression
+
+**Tier 1: The Veiled Scion (Levels 1-4)**
+- **Level 1: Aurelian Resonance** (INT-casting), **Radiant Strike** (Bonus action attack INT times/day), **Heavenly Rebuke** (Reaction: 2d8 Radiant/Thunder damage to attackers).
+- **Level 2: Channel Divinity: Destructive Brilliance** (AOE Radiant/Thunder burst that blinds enemies).
+
+**Tier 2: The Rising Storm (Levels 5-10)**
+- **Level 5: Extra Attack** (Two attacks per action).
+- **Level 6: Wrath of the Seraph** (Push enemies 10ft when dealing Radiant/Thunder damage).
+- **Level 8: Divine Strike** (Add 1d8 Radiant damage to weapon attacks).
+
+**Tier 3: The Sovereign Messenger (Levels 11-16)**
+- **Level 12: Finding Your Voice** (Social penalty removed as your angelic nature stabilizes).
+- **Level 14: Angelic Form** (You grow permanent, shimmering wings; Flying speed 60ft).
+
+**Tier 4: The Voice of the Host (Levels 17-20)**
+- **Level 17: Storm of Vengeance** (You can cast Storm of Vengeance once per long rest without a slot).
+- **Level 20: Avatar of the Zenith** (You become a Large-sized angelic warrior for 1 minute).
+
+**Divine & Sovereign Tiers (Levels 21-30)**
+- **Level 25: Empyrean Ascension** (Resistance to all non-magical damage; your attacks ignore Radiant immunity).
+- **Level 30: Sovereign of the Seventh Heaven** (You can summon a literal storm of angels to assist in battle once per century; your 'Equation of Light' is complete).
+
+**Current State (Level 5)**:
+- **Attributes**: INT 18 (+4), DEX 16 (+3), CON 14 (+2), CHA 8 (-1)
+- **Social Penalty**: -2 (Shy/Low Confidence active until Lvl 12)
+- **Background**: Urchin (An unknown prodigy of the gutters)
+
+Does this angelic resonance feel like the truth you've been searching for?
+
+Player (freeform):
+Describe my physical appearance and make me extremely good looking and if I ask for help or mercy I have +2 to social checks instead of the usual  -2 actually make it plus 4
+
+============================================================
+SCENE 6
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 12:00:00
+Location: Baldur's Gate - Lower City
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 0/300
+Conditions: Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2
+
+Game Master:
+[CHARACTER CREATION - Review]
+
+Your physical form begins to settle into its final, striking symmetry. Even amidst the grime of the Lower City, you possess a preternatural, haunting beauty that stops breath. Your skin has the luster of fine porcelain, nearly luminescent in the dim alleyways, and your eyes—a piercing, celestial silver—seem to hold the depth of a star-filled sky. Your hair falls like spun moonlight, shimmering with a faint, iridescent glow when you are stressed or focused. You are a masterpiece of divine geometry, yet you carry yourself with a hunched, hesitant grace, as if trying to apologize for the very space you occupy.
+
+### Seraphic Appearance
+- **Height/Build**: Slender and lithe, possessed of the ethereal elegance typical of High Elves but with a certain 'weighted' presence of the celestial.
+- **Features**: Extremely high symmetry, striking silver-gold eyes, and hair that caught the light even in total darkness.
+- **The Aura**: A faint scent of ozone and incense follows you, and those who look closely might see the 'hum' of the Weave vibrating the air around you.
+
+### Updated Social Dynamics
+Your profound shyness remains a barrier, but your celestial heritage grants you a strange, irresistible pathos when you are in distress.
+- **Social Penalty**: -2 to Persuasion, Deception, and Intimidation.
+- **Mercy/Help Bonus**: When you explicitly plead for mercy or ask for help, your angelic resonance flares. The -2 penalty is replaced by a **+4 bonus** to the check, as your vulnerability becomes a divine command that others find nearly impossible to ignore.
+
+Does this final vision of Nocturna meet your approval, or shall we adjust the celestial mirror one last time?
+
+Player (freeform):
+Give me some better benefits after level 20 and at level 20
+
+============================================================
+SCENE 7
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 12:00:00
+Location: Baldur's Gate - Lower City
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 0/300
+Conditions: Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2
+
+Game Master:
+[CHARACTER CREATION - Review]
+
+The 'hum' within you intensifies, evolving from a mere melody into a cosmic resonance that threatens to pull the stars from their spheres. You realize that your trajectory isn't just toward greatness—it is toward godhood. The 'Equation' you are solving doesn't end at mortal limits; it extends into the very architecture of the multiverse.
+
+### Buffed Progression: The Seraphic Storm (Lvl 20-30)
+
+**Level 20: Avatar of the Eternal Zenith**
+Your transformation is no longer a mere shift in size. For 1 minute, you become a Large-sized being of pure starlight and thunder. 
+- **Multitasking Divinity**: Your Extra Attack feature improves; you now make **three attacks** per action.
+- **Absolute Immunity**: You are immune to Radiant and Thunder damage.
+- **Celestial Flight**: You gain a flying speed of 90ft and can hover.
+- **Aura of Awe**: Enemies within 30ft have disadvantage on attacks against you, blinded by your majesty.
+
+**Divine Tier (Levels 21-25)**
+- **Level 21: Epic Boon & Transcendent Mind**: Your Intelligence maximum increases to 30. You gain an Epic Boon of your choice.
+- **Level 23: Mantle of the Host**: You can summon two 'Echoes of the Zenith' (celestial duplicates) that act on your initiative and can cast your cantrips.
+- **Level 25: Empyrean Singularity**: You gain resistance to **all damage**. You can exist in two places at once (within 120ft of each other), allowing you to take reactions or originate spells from either position.
+
+**Sovereign Tier (Levels 26-30)**
+- **Level 28: Reality's Architect**: You gain the ability to cast *Miracle* or *Wish* once per day without the risk of ever losing the ability to cast it again. You use your Intelligence to rewrite the Weave's errors.
+- **Level 30: Sovereign of the Seventh Heaven**: You are a localized law of reality. You ignore all resistances and immunities to your spells. Furthermore, you are truly immortal; if you are destroyed, your essence reforms in the Upper Planes and you return to life in 1d4 days.
+
+**Current Build Snapshot (Level 5)**:
+- **Attributes**: INT 18 (+4), DEX 16 (+3), CON 14 (+2), CHA 8 (-1)
+- **Social Dynamics**: -2 to Social checks / **+4 Bonus** when pleading for mercy or help (The 'Pathos of Beauty').
+- **Appearance**: Spun moonlight hair, silver-star eyes, porcelain luminescent skin. 
+
+Does this ultimate height of power satisfy the logic of your soul, Nocturna?
+
+Player (freeform):
+Make my int 18 and dex 16
+
+============================================================
+SCENE 8
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 12:00:00
+Location: Baldur's Gate - Lower City
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 0/300
+Conditions: Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2
+
+Game Master:
+[CHARACTER CREATION - Review]
+
+Understood, Nocturna. Your intellectual clarity and physical grace are now perfectly balanced within the Seraphic Storm. You stand in the shadow of the High House of Wonders, your silver eyes reflecting the complex geometry of the Weave that only you can truly see. The 'hum' is steady, a constant companion that reassures you even when your own confidence fails.
+
+### Character Review: Nocturna
+- **Race**: High Elf
+- **Class**: The Seraphic Storm (Custom INT-based Cleric)
+- **Level**: 5
+- **Background**: Urchin
+- **Appearance**: Spun moonlight hair, piercing celestial silver eyes, luminescent porcelain skin. Extremely beautiful, yet hesitant.
+
+**Ability Scores (Final)**:
+- **STR**: 10 (0) | **DEX**: 16 (+3) | **CON**: 14 (+2)
+- **INT**: 18 (+4) | **WIS**: 10 (0) | **CHA**: 8 (-1)
+
+**Key Features**:
+- **Extra Attack**: You strike twice per attack action.
+- **Intellectual Resonance**: Intelligence is your spellcasting ability.
+- **Shy & Low Confidence**: -2 penalty to Persuasion, Deception, and Intimidation. If asking for **mercy or help**, this becomes a **+4 bonus**.
+- **Heavenly Rebuke**: Reaction to deal 2d8 Radiant/Thunder damage to an attacker.
+
+**Equipment**:
+- **Main Hand**: Fine Steel Mace (+1 to hit)
+- **Off Hand**: Shield (AC +2)
+- **Ranged**: Light Crossbow
+- **Armor**: +1 Scale Mail (Total AC 18)
+- **Focus**: The Divine Ledger
+
+**Level 1-30 Path Highlights**:
+- **Lvl 12**: Social penalty removed.
+- **Lvl 14**: Permanent Angelic Wings (Flight 60ft).
+- **Lvl 20**: Three Attacks per action, Absolute Immunities.
+- **Lvl 30**: Sovereign of the Seventh Heaven (Immortal Reality-Architect).
+
+Does this final proof of your existence satisfy your logic, or do we need to recalculate?
+
+Player (freeform):
+How come my ability score points are still not set properly?
+
+============================================================
+SCENE 9
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 12:00:00
+Location: Baldur's Gate - Lower City
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2
+
+Game Master:
+[CHARACTER CREATION - Review]
+
+Ah, I see where the confusion might be! Let me walk you through the logic of the 'Equation' that defines your existence. In the standard rules of this realm (D&D 5e Point Buy), you are granted 27 points to distribute. To reach the heights of intelligence and grace you possess, we have optimized every single one of them:
+
+### The Point Allocation Proof
+- **Intelligence**: Started at 15 (9 points), increased to 16 by your High Elf heritage, and boosted to **18** with your Level 4 training.
+- **Dexterity**: Started at 14 (7 points) and increased to **16** by your High Elf heritage.
+- **Constitution**: Set to **14** (7 points) for the resilience you requested.
+- **Strength**: Set to **10** (2 points) so you aren't physically weak.
+- **Wisdom**: Set to **10** (2 points) to keep your perception balanced.
+- **Charisma**: Set to **8** (0 points) to reflect your profound shyness.
+- **Total**: 27/27 Points Used.
+
+This is the most 'proper' and optimized way to achieve the exact spread you requested (18/16/14/10/10/8) while remaining within the balanced laws of the multiverse. If you'd like to break those laws and become even more powerful—using an 'Epic Hero' array (e.g., all stats 10+, primary stats 20)—just say the word!
+
+Does this mathematical breakdown satisfy your prodigy's mind, or should we reach for forbidden power?
+
+God Mode:
+Why do the stats still look wrong?
+
+============================================================
+SCENE 10
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 12:00:00
+Location: Baldur's Gate - Lower City
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No]
+
+Game Master:
+[CHARACTER CREATION - Review]
+
+I understand the scrutiny, Nocturna—a mind like yours requires every variable to be accounted for. The 'Equation' of your being is currently bound by the standard laws of Point Buy balance (27 points). Here is the final calculation that produces your current form:
+
+### The Mathematical Proof of Nocturna
+| Attribute | Base (Point Buy) | Racial Bonus (Elf) | Level 4 Training (ASI) | Final Score |
+| :--- | :--- | :--- | :--- | :--- |
+| **Intelligence** | 15 (9 pts) | +1 | +2 | **18 (+4)** |
+| **Dexterity** | 14 (7 pts) | +2 | -- | **16 (+3)** |
+| **Constitution** | 14 (7 pts) | -- | -- | **14 (+2)** |
+| **Strength** | 10 (2 pts) | -- | -- | **10 (0)** |
+| **Wisdom** | 10 (2 pts) | -- | -- | **10 (0)** |
+| **Charisma** | 8 (0 pts) | -- | -- | **8 (-1)** |
+| **Total** | **27 / 27** | | | |
+
+In the eyes of the Weave, this is a perfectly optimized Level 5 character. However, if you feel a 'Prodigy' should transcend these mortal limits, we can invoke the **Epic Hero** variant. This would allow us to set your Intelligence to **20** and raise your other scores to a minimum of **12**, reflecting a truly legendary starting point for a celestial scion.
+
+Does the 27-point proof satisfy your logic, or shall we reach for forbidden power?
+
+God Mode:
+They stats say this for me Ability Scores
+Stat	Base	Effective	Mod	Bonus
+STR	10	10	+0	—
+DEX	14	14	+2	—
+CON	14	14	+2	—
+INT	15	15	+2	—
+WIS	10	10	+0	—
+CHA	8	8	-1	—
+Saving Throws
+
+============================================================
+SCENE 11
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 12:00:00
+Location: Baldur's Gate - Lower City
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No]
+
+Game Master:
+[CHARACTER CREATION - Review]
+
+I see the discrepancy in the ledger, Nocturna. It appears the 'Equation' of your being was displaying your 'naked' point-buy values rather than the 'Effective' potential of your High Elf heritage and Level 4 training. As a prodigy, your base potential is higher than the average urchin.
+
+I have corrected the state to ensure your permanent racial bonuses (+1 INT, +2 DEX) and your Level 4 Ability Score Improvement (+2 INT) are properly integrated into your **Base Attributes**. This ensures that the world sees you as you truly are: an 18-Intelligence genius with the preternatural 16-Dexterity of the Seraphic Storm.
+
+### The Corrected Proof
+- **Intelligence**: 18 (Base 15 + 1 Racial + 2 ASI)
+- **Dexterity**: 16 (Base 14 + 2 Racial)
+- **Constitution**: 14 (Steady and resilient)
+- **Charisma**: 8 (The silence of the Conduit)
+
+However, if you feel that an Angelic Scion and Prodigy should transcend even these 'proper' limits, I have prepared the **Epic Hero** transition below. This would force your Intelligence to **20** and raise your other physical and mental faculties to a minimum of **12**, reflecting a truly mythic origin.
+
+Does this correction align with your internal logic, or shall we invoke the Epic Hero protocol?
+
+Player (choice: finish_character_creation_start_game):
+Finish Character Creation and Start Game - Finalize this character and begin your journey as an unknown prodigy.
+
+============================================================
+SCENE 12
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 12:00:00
+Location: Baldur's Gate - Lower City
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2
+
+Game Master:
+[Mode: STORY MODE]
+
+The weight of the Weave feels different now—less like an abstract equation and more like a resonant, golden choir that only you can hear. Standing in the mud-slicked alleys of the Lower City, the towering spires of the High House of Wonders loom above you, their shadows casting long, jagged lines across the cobblestones. You pull your hood lower, trying to hide the silver luster of your eyes and the moonlight shimmer of your hair from the passing refugees and city guards. 
+
+You are Nocturna—an urchin, a prodigy, and, unbeknownst to even your own self-doubting heart, a scion of the heavens. The battered mace at your hip feels heavy, a grounding anchor against the 'hum' that vibrates through your bones. Somewhere nearby, amidst the psychic wreckage left by the Absolute's fall, a resonance is calling out to you. It is an error in the world's geometry, a jagged frequency of psionic residue that requires your unique brand of 'correction.'
+
+Torvin stands a few paces away, his hand resting on the pommel of his sword as he scans the crowd. He doesn't hear the song, but he feels the tension in your shoulders. "Nocturna?" he whispers, his voice low and protective. "The ledger is vibrating again. Do we follow the thread, or do we find somewhere safe to lie low for the night?"
+
+God Mode:
+Let’s assume I have no companions and I’m going to try to register adventurers guild. Let me naturally encounter characters from bg3 and let them be levels 12 or so since it’s after the game
+
+============================================================
+SCENE 13
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 12:00:00
+Location: Baldur's Gate - Lower City
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No]
+
+Game Master:
+Administrative updates complete:
+- **Companion Removed**: Torvin has been removed from your party and the game state. You are now operating as a solo adventurer.
+- **New Objective**: Your immediate goal is now to register with the Adventurers Guild in Baldur's Gate.
+- **World Directive**: Logic for encountering BG3 legacy characters has been established; they will appear at approximately Level 12 to reflect their post-Absolute experience.
+
+Player (choice: god:return_story):
+Return to Story - Resume your journey in the Lower City, now heading toward the Adventurers Guild alone.
+
+============================================================
+SCENE 14
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 12:10:00
+Location: Baldur's Gate - Lower City, Adventurers Guild Hall
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2
+Dice Rolls:
+  - {'faces': '13', 'modifier': 3, 'label': 'Perception Check to notice a legacy character', 'result': 16, 'roll': '1d20+3', 'type': 'Perception Check to notice a legacy character'}
+
+Game Master:
+Midday (12:10:00) in the Lower City of Baldur's Gate—the air is thick with the scent of salt, roasted meats, and the lingering, metallic tang of ozone that only you seem to notice. You walk alone now, your hood pulled low to shield your porcelain skin and silver eyes from the inquisitive stares of the passing crowd. Without Torvin's (Lvl 5) broad-shouldered presence to hide behind, every brush of a shoulder against yours feels like a jagged spike in the mathematical harmony you crave. The 'hum' of the Weave is a constant, shimmering choir in your ears, guiding your steps toward the stone-carved entrance of the Adventurers Guild.
+
+As you navigate the bustling market square, your eyes catch a flash of familiar silver hair and dark, practical armor through a gap in the crowd. A woman—Shadowheart (Lvl 12)—stands near a vendor, her posture radiating the quiet authority of someone who has stared into the heart of a god and didn't blink. She doesn't see you, but the resonance of her presence is staggering, a complex, high-level frequency that makes the 'Equation' in your mind vibrate with awe. You quickly look away, heart hammering against your ribs, and duck into the relative shadow of the Guild's entrance hall. The interior is a cacophony of voices, clanking mail, and the rustle of parchment—the very center of the city's new mercenary life.
+
+God Mode:
+Let’s assume most people underestimate me at first due to my youth and beauty. People assume I am level 1 especially by how I carry myself and will be shocked when they realize my real level
+
+============================================================
+SCENE 15
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 12:10:00
+Location: Baldur's Gate - Lower City, Adventurers Guild Hall
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No]
+
+Game Master:
+Administrative update complete. A new narrative constraint has been established: most NPCs will now underestimate you due to your youth and striking beauty, assuming you are a mere Level 1 novice. They will be suitably shocked when your true Level 5 power is revealed. This has been added to your persistent directives.
+
+Player (freeform):
+Introduce myself to shadowheart and say I’m a fan. Ask for help registering
+
+============================================================
+SCENE 16
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 12:12:00
+Location: Baldur's Gate - Lower City, Adventurers Guild Hall
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No]
+Dice Rolls:
+  - {'faces': '9', 'modifier': 1, 'label': 'Persuasion (Asking Shadowheart for help - CHA -1, Shy -2, Help +4)', 'result': 10, 'roll': '1d20+1', 'type': 'Persuasion (Asking Shadowheart for help - CHA -1, Shy -2, Help +4)'}
+
+Game Master:
+The 'hum' of the guild hall is a dissonant roar, a thousand tiny threads of sound clashing in the high-vaulted ceiling. You move through the press of armored bodies like a ghost, your heart hammering a frantic rhythm against your ribs. There she is. Shadowheart (Lvl 12) stands near a side table, her brow furrowed as she inspects a set of requisition orders. Up close, her presence is like a sun—blinding, complex, and vastly more powerful than your own.
+
+You stop a few feet away, your fingers twisting frantically in the hem of your cloak. You want to speak, to say something profound about the 'Equation' she represents, but your throat feels as though it’s been filled with dry sand. You manage to look up, your silver eyes wide and shimmering with a vulnerability that even you don't fully understand.
+
+"E-excuse me..." your voice is barely a whisper, a tiny tremor in the guild's noise. "I... I know who you are. I'm a... a fan. Of what you did. For the city."
+
+Shadowheart doesn't look up at first, her quill scratching across parchment with lethal efficiency. To her, you are just another Level 1 novice—a beautiful, fragile-looking girl who has no business in a place filled with blood and steel. She finally sighs, setting the quill down and turning her gaze toward you. Her expression is not unkind, but it is weary, the look of someone who has seen too many young faces vanish in the dark.
+
+"The city was saved by many hands, child," she says, her voice rich and steady. "If you're looking for an autograph, I'm afraid I'm quite busy."
+
+"I... I'm not," you stammer, your face flushing a deep, porcelain pink. You lean into the plea, your Seraphic heritage flaring instinctively in your distress. "I'm alone. I need to... to register. With the Guild. But I don't know how. Please... could you help me?"
+
+Shadowheart pauses, her gaze lingering on your silver eyes. For a moment, she seems to see a shadow of something else—something that doesn't fit the 'urchin' image—but the crowd surges between you, and she looks back to her scrolls. "The registrar is at the central desk, through the press. Just stand in line like the rest, little one. They'll tell you if you're fit for the life."
+
+[SOCIAL SKILL CHALLENGE: Shadowheart]
+Objective: Persuade Shadowheart to help you register
+Social HP: 10/10
+Status: RESISTING
+
+God Mode:
+When asking for help just give 4 bonus without -2 shy advantage. Most people will feel like helping a shy beautiful woman
+
+============================================================
+SCENE 17
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 12:12:00
+Location: Baldur's Gate - Lower City, Adventurers Guild Hall
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
+
+Game Master:
+Social mechanic refinement complete. 
+
+When Nocturna explicitly asks for help or mercy, the -2 'Shy and Low Confidence' penalty is now entirely suppressed and replaced by a flat +4 bonus. This 'Seraphic Pathos' reflects how her celestial beauty and visible hesitation trigger a powerful protective instinct in observers, overriding any social friction caused by her shyness. This logic has been updated in your Active Effects, Core Memories, and persistent Directives.
+
+Player (choice: god:return_story):
+Return to Story - Resume the interaction with Shadowheart with the refined social bonus in effect.
+
+============================================================
+SCENE 18
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 12:14:00
+Location: Baldur's Gate - Lower City, Adventurers Guild Hall
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2
+Dice Rolls:
+  - {'faces': '2', 'modifier': 3, 'label': 'Persuasion (Seraphic Pathos plea to Shadowheart)', 'result': 5, 'roll': '1d20+3', 'type': 'Persuasion (Seraphic Pathos plea to Shadowheart)'}
+
+Game Master:
+The 'hum' of the guild hall swells into a dissonant roar, the clank of heavy plate and the boisterous laughter of veterans drowning out the delicate tremors of your voice. You try to catch Shadowheart's eye again, leaning into the 'Seraphic Pathos' that usually draws people toward you like moths to a flame. You look small, fragile, and undeniably beautiful amidst the grime—a porcelain doll lost in a forge. 
+
+Shadowheart (Lvl 12) doesn't even look up this time. Her quill continues its rhythmic scratching across the requisition forms, her focus as sharp and impenetrable as a wall of cold iron. To her, you are a variable that doesn't fit the current equation of her day—a Level 1 novice who hasn't yet tasted the bitter salt of a real battle. 
+
+"The line is moving, child," she says without turning her head, her voice losing its edge of weariness and becoming merely professional. "If you're truly alone, perhaps you should reconsider. This city eats the unprepared. If you insist, the registrar—a man named Tallow—is waiting at the central dais. Do not waste his time."
+
+A group of scarred mercenaries nearby bursts into raucous laughter at a joke you didn't hear, one of them accidentally bumping your shoulder. The impact sends a jolt through your frame, making the 'Divine Ledger' in your pack vibrate with a sharp, sympathetic ring. You feel invisible, a ghost haunting a hall of giants, as the legendary hero returns to her work, effectively closing the conversation.
+
+[SOCIAL SKILL CHALLENGE: Shadowheart]
+Objective: Persuade Shadowheart to help you register
+Social HP: 10/10
+Status: RESISTING
+
+Player (choice: join_the_line):
+Join the Registration Line - Follow Shadowheart's directions and stand in line to speak with Tallow, the registrar.
+
+============================================================
+SCENE 19
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 12:34:00
+Location: Baldur's Gate - Lower City, Adventurers Guild Hall
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2
+Dice Rolls:
+  - {'faces': '6', 'modifier': 3, 'label': 'Perception check to overhear rumors in the registration line', 'result': 9, 'roll': '1d20+3', 'type': 'Perception check to overhear rumors in the registration line'}
+  - {'faces': '19', 'modifier': -3, 'label': 'Persuasion check to speak confidently with Registrar Tallow', 'result': 16, 'roll': '1d20-3', 'type': 'Persuasion check to speak confidently with Registrar Tallow'}
+
+Game Master:
+[Mode: STORY MODE]
+
+Midday (12:34:00) — The twenty minutes you spend in the registration line feel like an eternity. You stand with your head bowed, the 'Divine Ledger' clutched tightly against your chest as if it were a shield. The air is thick with the smell of sweat, wet leather, and the heavy, metallic 'hum' of enchanted weapons passing by. Every time a boisterous adventurer laughs or claps a comrade on the back, you flinch, your silver eyes darting toward the floor. You feel small, an invisible variable in an equation dominated by giants.
+
+Finally, you reach the central dais. A balding man with ink-stained fingers and a permanent scowl sits behind a massive oak desk. A brass nameplate identifies him as **Tallow**. He doesn't look up from his ledger as you approach.
+
+"Next," he drones, his voice flat and weary. "Name, age, and previous experience. If you're here for the rat-catching contract in the cellars, the line is to the left. You look..." He finally looks up, and his scowl falters for a fraction of a second as he takes in your luminescent skin and the moonlight shimmer of your hair. "...fragile. You're a High Elf? Sixteen? Look, girl, this isn't a finishing school. I'll put you down as a Level 1 novice for the harbor watch. It's safe, and the pay is steady."
+
+You swallow hard, your heart racing. You know the 'Equation' of your being is far more complex than a harbor watch. You find a rare spark of internal resonance, a need for the truth to be recorded properly.
+
+"I... I'm Nocturna," you whisper, forcing yourself to meet his eyes for just a second. "And I'm not a novice. I'm a... a Level 5 Cleric. Of the Seraphic Storm."
+
+Tallow freezes, his quill hovering over the parchment. He blinks, then lets out a short, dry bark of a laugh. "Level 5? At sixteen? Child, I've seen veterans of the Absolute crisis who haven't reached the fifth circle of power. Don't lie to the Guild; it's a crime in this city."
+
+Without thinking, your hand brushes the 'Divine Ledger', and for a brief moment, the air around the desk crackles. A faint peal of celestial thunder echoes through the hall, and the silver in your eyes flares with a blinding, radiant light. The 'hum' becomes a roar. Tallow's eyes go wide, his jaw dropping as the inkwell on his desk begins to vibrate in sympathy with your power. He stares at you, his skepticism replaced by pure, unadulterated shock.
+
+"By the Hells... you're serious," he stammers, frantically shuffling through a different stack of papers. "Level 5. An unknown... I... I need to find a different set of forms. Give me a moment!"
+
+Player (choice: seek_quiet_corner):
+Find a Quiet Corner to Decompress - The social interaction and the display of power have drained your confidence. Find a secluded spot in the hall to study the Guild handbook.
+
+============================================================
+SCENE 20
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 12:50:00
+Location: Baldur's Gate - Lower City, Adventurers Guild Hall
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2
+Dice Rolls:
+  - {'faces': '3', 'modifier': 7, 'label': 'Investigation check to study the Guild Handbook', 'result': 10, 'roll': '1d20+7', 'type': 'Investigation check to study the Guild Handbook'}
+
+Game Master:
+Midday (12:50:00) — You beat a hasty retreat from the central dais, your heart hammering against your ribs like a trapped bird. The silver-white flare in your eyes fades, leaving only a dull, pulsing headache behind. You can feel Tallow's gaze following you, a mixture of awe and lingering suspicion etched into his weathered features. You don't look back. You can't. The sudden surge of resonance has left you feeling raw, exposed, as if you've accidentally shouted a secret in a crowded cathedral.
+
+You find a relatively quiet alcove near the back of the hall, tucked beneath a heavy, dust-laden tapestry depicting the Fall of Elturel. Here, the 'hum' of the guild is muffled by stone and fabric. You sink onto a cold stone bench, pulling your knees to your chest and opening the Guild Handbook Tallow thrust into your hands. 
+
+The parchment is crisp, smelling of fresh ink and cheap vellum. You try to focus on the 'Equation' of the guild's hierarchy—the pay scales for different threat tiers, the protocols for claiming salvage, the mandatory 'tithe' to the city's reconstruction fund. But the words seem to vibrate on the page, blurring into meaningless squiggles as your mind replays the moment of your display. You're a 'Seraphic Storm,' a scion of the heavens, yet here you are, hiding in a corner because a registrar blinked at you. 
+
+Outside your alcove, the hall continues its chaotic symphony. You catch fragments of conversation—mentions of 'Steel Watch remnants' and 'strange lights in the Foundry'—but the anxiety remains a static hiss in your mind, preventing you from truly parsing the information. You are officially an adventurer of the Guild now, recognized as a peer to the veterans who dwarf you in size, but you've never felt more like a nameless urchin.
+
+Player (freeform):
+Check bounty board. Let’s sssume even if I’m level 5 I don’t realize I’m special. I look for some level 3 mission to get my bearings
+
+============================================================
+SCENE 21
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 13:05:00
+Location: Baldur's Gate - Lower City, Adventurers Guild Hall
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2
+Dice Rolls:
+  - {'faces': '1', 'modifier': 7, 'label': 'Investigation check to find Level 3 contracts', 'result': 8, 'roll': '1d20+7', 'type': 'Investigation check to find Level 3 contracts'}
+  - {'faces': '8', 'modifier': 3, 'label': 'Perception check to overhear conversations at the board', 'result': 11, 'roll': '1d20+3', 'type': 'Perception check to overhear conversations at the board'}
+
+Game Master:
+Midday (13:05:00) — The bounty board is a chaotic tapestry of desperation and greed, a wall of overlapping parchments that 'hum' with a thousand conflicting intents. You approach hesitantly, your hood still low, trying to find a space between the broad shoulders of veterans who smell of cheap ale and expensive magic. To your eyes, the board isn't just a list of jobs; it's a fractured geometric proof. Every missing pet notice and 'wanted' poster is a tiny error in the city's restoration, a dissonance that makes the 'Seraphic Storm' within you twitch with a need for correction.
+
+As you reach out a porcelain-pale hand toward a promising-looking scroll, a massive, scarred half-orc named **Grom (Lvl 8)** claps a hand onto the post just inches from your fingers. The vibration through the wood makes your 'Divine Ledger' ring like a struck bell. 
+
+"Easy there, little bird," Grom rumbles, his voice like grinding stones. He doesn't look at your face, only at your slender frame and the battered mace that looks too heavy for you. "The 'hero' board is for those who've seen blood. You're looking for the novice board—it's over by the kitchens. They need someone to scrub the grease off the cellar stones or find a lost tabby. Don't go getting yourself et by a stray goblin just because you've got a pretty face."
+
+A few nearby mercenaries chuckle, their eyes sliding over you with dismissive pity. You feel the porcelain-pink flush creeping up your neck again. Your silver eyes scan the board frantically, but the ink seems to swim in the Guild's humid air. Your hands tremble slightly as you realize you can't even focus enough to find a 'proper' Level 3 challenge. The 'Equation' is too noisy here, the static of being underestimated drowning out the divine melody. You eventually manage to peel off three scrolls that look... manageable. At least, you think they do. Your own self-doubt whispers that perhaps Grom is right—that you're just a girl playing with a mace you don't understand.
+
+God Mode:
+Let’s assume I am actually a noble bastard and since I am part angel my family is really high class but I don’t know. Let it play out later organically. Make them a lawful good family but with high expectations someone in another city or kingdom not bg3 but close
+
+============================================================
+SCENE 22
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 13:05:00
+Location: Baldur's Gate - Lower City, Adventurers Guild Hall
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
+
+Game Master:
+Secret lineage and background constraints established. 
+
+Administrative Summary:
+- **Secret Lineage**: You are now canonically the bastard daughter of a premier noble house in Elturel (a city close to Baldur's Gate known for its devotion to Lawful Good ideals and the Light). 
+- **Social Context**: Your family is high-class and deeply rooted in Lawful Good traditions, maintaining extremely high expectations for their kin. 
+- **Narrative Reveal**: Both you and your family are currently unaware of each other's status or location. This thread will remain hidden in the background and will be woven into the campaign organically through future encounters, rumors, or items.
+- **State Persisted**: These facts have been added to your Core Memories and active constraints to ensure the AI maintains this secret until the proper narrative moment.
+
+Player (choice: plead_with_grom):
+Ask Grom for a 'Real' Lead - Use your 'Seraphic Pathos' (+4 bonus) to plead with the big warrior. Perhaps if you look distressed enough, his protective instinct will override his dismissal and he'll point you toward something better.
+
+============================================================
+SCENE 23
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 13:10:00
+Location: Baldur's Gate - Lower City, Adventurers Guild Hall
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
+Dice Rolls:
+  - {'faces': '6', 'modifier': 3, 'label': 'Persuasion (Seraphic Pathos plea to Grom)', 'result': 9, 'roll': '1d20+3', 'type': 'Persuasion (Seraphic Pathos plea to Grom)'}
+
+Game Master:
+Midday (13:10:00) in the Adventurers Guild Hall—the heavy scent of pine-resin torches and unwashed wool hangs thick in the air as you turn your silver eyes toward the massive half-orc. You let your shoulders slump, your fingers tightening around the strap of your pack until your knuckles turn as white as your porcelain skin. The 'hum' of the guild hall seems to vibrate right through your teeth, a dissonant chord of dismissal that you desperately try to resolve.
+
+"Please..." you whisper, your voice barely audible over the clatter of a nearby dice game. You look up at Grom (Lvl 8), your eyes shimmering with a sudden, genuine moisture. The Seraphic Pathos within you flares—a quiet, radiant command for protection that would make a paladin weep. "I don't... I don't want to just catch rats. There's a resonance in the city, an error that needs correcting. I'm alone, and I'm scared, but I know I can do more. Please, just... point me toward something real."
+
+Grom (Lvl 8) looks down at you, his scarred brow furrowing. For a heartbeat, his calloused hand twitches, his protective instincts clearly warring with his common sense. He looks at your delicate frame, then at the Fine Steel Mace that looks more like a ceremonial ornament than a weapon in your small hands. He let's out a heavy, gravelly sigh, shaking his head slowly.
+
+"Listen, little bird," he rumbles, his voice lacking its earlier mockery but remaining firm. "I've seen a hundred girls with stars in their eyes end up as nothing more than a stain on a goblin's floor. You've got a face that belongs in a manor, not a charnel house. If I send you to the Foundry or the sewers, I'm just signing your death warrant. Stick to the tavern cellars. If you can handle a few overfed rats without breaking a nail, maybe we'll talk then." He turns back to his companions, his dismissal final. "Registration doesn't make you a warrior, novice. Survival does."
+
+[SOCIAL SKILL CHALLENGE: Grom]
+Objective: Persuade Grom to give you a serious mission lead
+Social HP: 4/4
+Status: RESISTING
+
+Player (choice: accept_rat_contract):
+Accept the Rat Contract - Head to the Elfsong Tavern cellars. It's demeaning, but it's a chance to use your power without witnesses.
+
+============================================================
+SCENE 24
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 13:25:00
+Location: Baldur's Gate - Lower City, Elfsong Tavern Cellars
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2
+Dice Rolls:
+  - {'faces': '2', 'modifier': 3, 'label': 'Perception to spot hidden threats in the cellar', 'result': 5, 'roll': '1d20+3', 'type': 'Perception to spot hidden threats in the cellar'}
+  - {'faces': '7', 'modifier': 3, 'label': 'Initiative: Nocturna', 'result': 10, 'roll': '1d20+3', 'type': 'Initiative: Nocturna'}
+  - {'faces': '18', 'modifier': 2, 'label': 'Initiative: Giant Rats', 'result': 20, 'roll': '1d20+2', 'type': 'Initiative: Giant Rats'}
+
+Game Master:
+Afternoon (13:25:00) — The transition from the Guild Hall to the Elfsong Tavern feels like stepping from a battlefield into a fever dream. You navigate the winding streets of the Lower City with your head bowed, your heart skipping a beat every time a Flaming Fist patrol marches by. To your eyes, the city is a fractured proof, a series of geometric errors left behind by the Absolute's fall. The 'hum' of the Weave pulls you toward the Elfsong, its stone walls vibrating with a low, mournful resonance.
+
+Inside, the tavern is relatively quiet for midday. Alan Alyth, the barkeep, looks up as you approach the counter. His eyes soften as he takes in your shimmering moonlight hair and the hesitant, almost apologetic way you hold yourself. 
+
+"Oh dear," Alan murmurs, leaning over the bar. "You're here for the... for the cellar work? Tallow sent a message ahead, but I didn't expect someone so... well, someone like you. Are you sure, child? The rats down there are as big as badgers and twice as mean. Here, take this candle, and try not to get those fine clothes ruined."
+
+He hands you a heavy iron key with a look of pure pity, clearly assuming you won't last ten minutes. You whisper a quiet "Thank you," and descend the creaking wooden stairs into the darkness. 
+
+The cellar is vast, smelling of damp earth, sour wine, and something metallic. The 'hum' here is sharp, a staccato rhythm of 'errors' skittering across the floor. You hold your candle high, but the shadows are dense, clinging to the stacks of wine crates. You're so focused on the mathematical dissonance in the corner that you don't notice the eyes—red, glinting, and hungry—until the first of the extraordinarily large rats lunges from the dark, its teeth snapping inches from your boots!
+
+[COMBAT INITIATED: Giant Rats in the Cellars]
+
+Player (choice: heavenly_rebuke_reaction):
+Heavenly Rebuke (Reaction) - As the first rat strikes, unleash your divine resonance to deal 2d8 Radiant/Thunder damage.
+
+============================================================
+SCENE 25
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 13:25:06
+Location: Baldur's Gate - Lower City, Elfsong Tavern Cellars
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 500gp | XP: 6500/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2
+Dice Rolls:
+  - {'faces': '17', 'modifier': 4, 'label': 'Extraordinarily Large Rat A attacks Nocturna', 'result': 21, 'roll': '1d20+4', 'type': 'Extraordinarily Large Rat A attacks Nocturna'}
+  - {'faces': '3', 'modifier': 2, 'label': 'Rat A damage', 'result': 5, 'roll': '1d4+2', 'type': 'Rat A damage'}
+  - {'faces': '4,7', 'modifier': 0, 'label': 'Heavenly Rebuke (Radiant/Thunder damage)', 'result': 11, 'roll': '2d8', 'type': 'Heavenly Rebuke (Radiant/Thunder damage)'}
+  - {'faces': '20', 'modifier': 2, 'label': 'Rat A Dexterity Save vs Heavenly Rebuke', 'result': 22, 'roll': '1d20+2', 'type': 'Rat A Dexterity Save vs Heavenly Rebuke'}
+
+Game Master:
+Afternoon (13:25:06) in the Elfsong Tavern Cellars — The shadows seem to coalesce around you as the first of the extraordinarily large rats (Lvl 1) lunges from the darkness. You barely have time to gasp before its yellowed incisors sink into your calf, tearing through your urchin's trousers and drawing blood. The sharp sting of the bite sends a jolt through your system, but it triggers something far more powerful than pain.
+
+"N-no! Stay back!" you cry out, your voice cracking with fear. 
+
+As the rat clamps down, the 'hum' of the Weave within you reaches a deafening crescendo. Your skin flares with a blinding, white-gold radiance, and the air in the cramped cellar shudders with a sudden, violent thunderclap. A burst of celestial resonance erupts from your body, slamming into the creature with the force of a physical blow. The rat is hurled backward, its fur singed by radiant heat and its ears ringing from the thunderous peal. It hits a wine rack with a heavy thud, squealing in a mixture of agony and confusion, yet it scrambles back to its feet, its red eyes narrowed in predatory rage.
+
+Nocturna: 38 → 33 HP
+Extraordinarily Large Rat A: 13 → 8 HP
+
+Two more sets of glowing red eyes emerge from the shadows beneath the stairs, their owners sensing the flare of divine power and closing in for the kill.
+
+Player (freeform):
+Cast spirit guardians and walk though the rats and let it dps them. Use bonus action to dps somehow
+
+============================================================
+SCENE 26
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 13:25:12
+Location: Baldur's Gate - Lower City, Elfsong Tavern Cellars
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 500gp | XP: 6650/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4
+Dice Rolls:
+  - {'faces': '5', 'modifier': 4, 'label': 'Extraordinarily Large Rat B attacks Nocturna', 'result': 9, 'roll': '1d20+4', 'type': 'Extraordinarily Large Rat B attacks Nocturna'}
+  - {'faces': '11', 'modifier': 4, 'label': 'Extraordinarily Large Rat C attacks Nocturna', 'result': 15, 'roll': '1d20+4', 'type': 'Extraordinarily Large Rat C attacks Nocturna'}
+  - {'faces': '2', 'modifier': 8, 'label': 'Nocturna: Radiant Strike (Mace) vs Rat A', 'result': 10, 'roll': '1d20+8', 'type': 'Nocturna: Radiant Strike (Mace) vs Rat A'}
+  - {'faces': '4,8,4', 'modifier': 0, 'label': 'Spirit Guardians Damage', 'result': 16, 'roll': '3d8', 'type': 'Spirit Guardians Damage'}
+
+Game Master:
+Afternoon (13:25:12) in the Elfsong Tavern Cellars — The darkness is alive with the sound of skittering claws and hungry chittering. The two remaining giant rats (Lvl 1) lunge from the shadows, their eyes gleaming like embers in the dim candlelight. One snaps at your heels, while the other leaps for your shoulder, but your panicked movements are unexpectedly precise. You stumble back, and both creatures find only empty air, their teeth clicking shut with a dry, hollow sound.
+
+Extraordinarily Large Rat B: 1d20+4 = 5+4 = 9 vs AC 18 (Miss)
+Extraordinarily Large Rat C: 1d20+4 = 11+4 = 15 vs AC 18 (Miss)
+
+Your heart is a frantic percussion in your chest, but as you clutch the 'Divine Ledger', the 'Equation' of the room suddenly resolves in your mind. The rats are not just pests; they are chaotic variables that need to be negated. You find your voice, a small but resonant command that echoes through the stone vault.
+
+"O-order... return to the light!"
+
+As you cast **Spirit Guardians**, a swirling vortex of shimmering, golden-white spirits erupts around you. They take the form of translucent, winged figures carrying minute, glowing scales. You begin to walk through the darkness, your silver eyes wide. Where you step, the light follows, a 15-foot radius of celestial purity that carves through the gloom. You swing your mace instinctively at the wounded rat, but the weight of the spell makes you clumsy, the blow glancing harmlessly off a wine crate.
+
+Nocturna (Radiant Strike): 1d20+8 = 2+8 = 10 vs AC 12 (Miss)
+
+However, the spirits do not miss. As the rats are caught within your radiant field, the golden figures descend with mathematical precision. The creatures don't even have time to squeal as the spirits strike, their forms incinerating into ash under the sheer weight of the divine resonance. The chittering stops. The red eyes vanish. In the sudden silence, only the gentle, melodic 'hum' of your spell remains, illuminating the dusty corners of the cellar.
+
+Spirit Guardians Damage: 16 Radiant
+Extraordinarily Large Rat A: 8 → 0 HP (Defeated)
+Extraordinarily Large Rat B: 13 → 0 HP (Defeated)
+Extraordinarily Large Rat C: 13 → 0 HP (Defeated)
+
+**COMBAT VICTORY!**
+You gain **150 XP** for clearing the cellar. A sense of calm settles over the room as the 'errors' are corrected.
+
+Player (choice: search_cellar_resonance):
+Search for the 'Resonance' - Follow the 'hum' deeper into the cellar ruins to see if there's a lead on the psionic residue.
+
+============================================================
+SCENE 27
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 13:40:12
+Location: Baldur's Gate - Lower City, Elfsong Tavern Cellars
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6650/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4
+Dice Rolls:
+  - {'faces': '2', 'modifier': 7, 'label': 'Investigation check to find psionic residue', 'result': 9, 'roll': '1d20+7', 'type': 'Investigation check to find psionic residue'}
+
+Game Master:
+Afternoon (13:40:12) — The radiant glow of your Spirit Guardians slowly dissipates, leaving the cellar in a heavy, oppressive silence. The smell of ozone and singed fur lingers in the air, a sharp contrast to the damp, earthy scent of the wine racks. You stand alone in the dark, your heart slowly finding a more rhythmic pace as the 'hum' of combat fades into a low, persistent throb within the 'Divine Ledger'.
+
+You step over the small piles of ash where the rats once stood, your boots crunching on the dusty stone. You follow the mathematical pull of the resonance, moving deeper into the shadows where the masonry of the foundation gives way to older, jagged ruins. Your silver eyes scan the cracks in the wall, looking for the telltale violet shimmer of psionic residue. You find a patch of damp stone near a collapsed alcove where the resonance feels loudest—a jagged dissonance that makes your teeth ache. 
+
+However, the 'Equation' here is too fragmented. The residue is old, perhaps a week decayed, and the mundane dampness of the cellar has washed away the precise geometric markers you need to decipher its origin. You trace a finger over a faint, purple smear on a wine barrel, but it yields no answers, only a cold, numbing sensation that quickly vanishes. The truth of the Foundry remains a distant, muffled frequency.
+
+"Lass? You still in one piece down there?"
+
+Alan Alyth's voice echoes down the stairs, sounding concerned. The heavy wooden door at the top of the stairs creaks open, casting a long, rectangular beam of golden light across the upper cellar. You flinch at the sound, your silver eyes darting toward the light. The momentary sanctuary of the dark is broken, and the social weight of the world begins to press in once more.
+
+Player (choice: search_deeper_cellar):
+Search Deeper (Retry) - Ignore Alan's call and try to find a hidden passage or more intact residue deeper in the ruins.
+
+============================================================
+SCENE 28
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 13:55:00
+Location: Baldur's Gate - Lower City, Elfsong Tavern Cellars
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6650/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4
+Dice Rolls:
+  - {'faces': '8', 'modifier': 7, 'label': 'Investigation (Retry) to find psionic residue', 'result': 15, 'roll': '1d20+7', 'type': 'Investigation (Retry) to find psionic residue'}
+
+Game Master:
+Midday (13:55:00) — You ignore Alan’s call, your silver eyes narrowing as you push deeper into the jagged masonry. The ‘hum’ in your Ledger is a physical itch now, a dissonance you are desperate to resolve. You trace your fingers along the weeping stone of the foundation, trying to isolate the specific frequency of the psionic decay from the mundane static of the tavern above. 
+
+But the variables simply won't align. Every time you think you’ve found a geometric anchor—a crystalline structure in the dust or a faint violet smear—it crumbles or fades under your scrutiny. The noise from the common room above—the thumping of boots, the muffled chords of the Elfsong’s ghostly melody—acts like a veil of static over the proof you’re trying to solve. You find a hidden cavity behind a loose stone, but it contains nothing but old cobwebs and a rusted, mundane key. The 'Equation' of this cellar is a dead end, the residue far too degraded to yield its secrets. 
+
+"Lass? I'm coming down!" Alan’s voice is closer now, his heavy footsteps creaking on the stairs. The Rectangle of light from the door widens, and your heart sinks. You’ve found nothing but dust, and now you have to face the world again.
+
+Player (choice: meet_alan_collect):
+Meet Alan and Collect Reward - Step into the light and inform Alan the rats are 'corrected'. Collect your gold and head back to the city streets.
+
+============================================================
+SCENE 29
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 14:00:00
+Location: Baldur's Gate - Lower City, Elfsong Tavern
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 510gp | XP: 6800/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4
+Dice Rolls:
+  - {'faces': '19', 'modifier': -3, 'label': 'Persuasion check to report success to Alan Alyth', 'result': 16, 'roll': '1d20-3', 'type': 'Persuasion check to report success to Alan Alyth'}
+
+Game Master:
+Afternoon (14:00:00) — You emerge from the damp gloom of the cellar, squinting as the warm, golden light of the Elfsong's common room hits your silver eyes. The transition is jarring; the 'hum' of the tavern is a chaotic tapestry of clinking mugs, bawdy laughter, and the haunting, ethereal song of the spirit that gives the establishment its name. You feel the weight of the 'Divine Ledger' against your side, a solid anchor in a world that feels increasingly loud and intrusive.
+
+Alan Alyth is waiting for you at the foot of the stairs, his face a mask of poorly hidden concern. When he sees you—unscathed save for a slight tear in your trousers and a faint, ozone-scented shimmer in your hair—he exhales a breath he clearly didn't know he was holding. 
+
+"Lass! You're back," he says, his voice rising in surprise. "I was just about to send one of the regulars down to fetch you. Are you... is everything alright?"
+
+You swallow hard, the porcelain-pink flush returning to your cheeks as you avoid his gaze. You hold out the iron key with a trembling hand, your voice a soft, rhythmic whisper that carries an unexpected weight. "The... the errors in the cellar have been corrected, Mr. Alyth. The resonance is... resolved. There are no more rats."
+
+Alan blinks, looking from you to the darkened stairwell and back again. He takes the key, his fingers brushing yours for a second, and he flinches slightly at the faint static charge lingering on your skin. "Corrected? Resolved? I... well, I'll take your word for it. It's certainly quiet down there now." He reaches into his apron and pulls out a small, jingling leather pouch, pressing it into your hand. "Ten gold, as promised. And a bit extra for the... the efficiency. You're a strange one, Nocturna, but I'm glad Tallow sent you."
+
+You murmur a hasty "Thank you" and slip the coins into your pouch, the weight of the gold a physical proof of your success. The 'hum' of the tavern is still overwhelming, but for a brief moment, the static of your self-doubt is silenced by the simple logic of a completed task.
+
+Player (choice: return_to_guild_hall):
+Return to the Guild Hall - Check the bounty board again now that you have a success under your belt.
+
+============================================================
+SCENE 30
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 14:15:00
+Location: Baldur's Gate - Lower City, Adventurers Guild Hall
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 510gp | XP: 6800/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4
+Dice Rolls:
+  - {'faces': '3', 'modifier': 7, 'label': 'Investigation check to find higher-tier contracts', 'result': 10, 'roll': '1d20+7', 'type': 'Investigation check to find higher-tier contracts'}
+
+Game Master:
+Afternoon (14:15:00) — The walk back to the Guild Hall is a blur of stone and shadow. You keep your head down, the hood of your urchin's cloak pulled low to hide your silver eyes and the porcelain-perfection of your features. The 'hum' of the city is louder now, the afternoon heat stirring up the scents of the harbour and the heavy, metallic tang of the Steel Watch ruins. You feel a tiny spark of warmth in your chest—a receipt for the 10 gold pieces tucked in your pouch. You corrected an error. It was a small, grimy error involving rats and wine vinegar, but the geometry of the cellar is now balanced.
+
+You push open the heavy oak doors of the Guild Hall. The atmosphere is as chaotic as before: the roar of boastful veterans, the clinking of gold, and the overwhelming scent of sweat and magic. You move toward the bounty board, hoping that your 'success' might have earned you the right to see the higher-tier contracts. 
+
+However, as you stand before the wall of parchment, the ink begins to swim again. The 'static' of the hall—the loud laughter of a group of dwarves nearby and the rhythmic thumping of a bard's drum—is like a physical weight on your mind. You try to find the 'Equation' of the board, to isolate the Level 3 or 4 tasks that would actually test your resonance, but they are buried under a mountain of trivial nonsense. You find yourself staring at a notice for a 'lost mechanical cat' and another for 'escorting a spice merchant,' but the real challenges seem to evade your grasp. 
+
+"Back already, little bird?" Grom's voice rumbles from across the hall. He's leaning against a pillar, cleaning his teeth with a splinter of wood. He doesn't look impressed, but he doesn't look away either. You feel his heavy, judgmental gaze, and the confidence you built in the cellar begins to leak away like water through a sieve.
+
+Player (freeform):
+Tell Grom i beat the rats. Ask him what’s a more challenging mission
+
+============================================================
+SCENE 31
+============================================================
+[Timestamp: 1492 DR, Eleasias 1, 14:20:00
+Location: Baldur's Gate - Lower City, Adventurers Guild Hall
+Status: Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 510gp | XP: 6800/14000
+Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
+Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4
+Dice Rolls:
+  - {'faces': '8', 'modifier': 3, 'label': 'Persuade Grom for a challenging mission (Pathos active)', 'result': 11, 'roll': '1d20+3', 'type': 'Persuade Grom for a challenging mission (Pathos active)'}
+
+Game Master:
+Afternoon (14:20:00) — You weave through the crowd of boisterous mercenaries, your fingers white-knuckled around the 'Divine Ledger' as you approach the pillar where Grom (Lvl 8) stands. The 'hum' of the hall is a deafening roar of conflicting egos, but you force yourself to stop before the half-orc. 
+
+"The... the rats in the Elfsong cellar," you begin, your voice barely a whisper, yet carrying that strange, resonant clarity. You look up at him, your silver eyes shimmering with the effort of the interaction. "They have been corrected. Alan has the key. It is... balanced now."
+
+Grom barks a laugh, the sound like gravel in a tin bucket. "Corrected, eh? Fancy talk for sticking a few vermin. I told you, little bird, novice work for a novice face." He cleans a fingernail with a wicked-looking dagger, not even glancing at the bite on your leg.
+
+You swallow hard, the Seraphic Pathos within you flaring as you lean forward slightly, a desperate edge to your tone. "Please... I know I don't look like much, but the rats were... they were simple. I can do more. What is a *real* challenge in this city? Something that matters?"
+
+Grom finally looks at you, his eyes scanning your porcelain features with a mix of annoyance and a strange, begrudging pity. "Real work? Listen, lass, the Steel Watchers are gone, but the shadows they left behind aren't. There's talk of things moving in the Gray Harbour ruins—purple lights and screams that don't sound human. But I'm not sending a porcelain doll into that meat grinder. Go buy yourself a sweetroll and be glad you're breathing."
+
+As he dismisses you, the heavy guild doors swing open, admitting a blast of hot afternoon air and a dust-covered messenger wearing the tabard of Elturel. The man looks exhausted, his eyes darting frantically around the hall until they land on the registrar's desk. You notice Torvin (Lvl 5) stiffen beside you, his hand dropping to the pommel of his sword as he watches the newcomer with a look of localized dread.
+
+[SOCIAL SKILL CHALLENGE: Grom]
+Objective: Persuade Grom to give you a serious mission lead
+Social HP: 4/4
+Status: RESISTING
