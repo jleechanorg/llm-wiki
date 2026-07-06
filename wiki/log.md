@@ -6358,3 +6358,11 @@ Source: sources/sustained-prompt-injection-during-pr-drive-2026-07-02.md. [[jeff
 ## [2026-07-06] ingest | Go AO factory dispatch + claudem MiniMax sync --all
 - Source: raw/feedback_2026-07-06_go_ao_factory_claudem_setup.md
 - Bead: jleechan-sy4m
+
+## [2026-07-06] ingest | Prefer AO Go binary over TS-AO for factory dispatch + status
+
+- Source: memory/feedback_2026-07-06_ao_go_binary_over_ts.md
+- Raw: raw/feedback-2026-07-06-ao-go-binary-over-ts.md
+- Source page: sources/feedback-2026-07-06-ao-go-binary-over-ts.md
+- Bead: jleechan-kc2o (closed-learning)
+- Key signal: user correction — agent kept defaulting to TS-ao wrapper when "golang binary" was requested
