@@ -6354,3 +6354,7 @@ Source: sources/sustained-prompt-injection-during-pr-drive-2026-07-02.md. [[jeff
 - **Wiki page**: sources/feedback-2026-07-05-skeptic-manual-verdict-lifecycle-disabled.md
 - **Bead**: bd-x5o9 (closed)
 - **PRs**: #737 (merged 37ff104de), #750 (merged e7e9a242d)
+
+## [2026-07-06] ingest | Go AO factory dispatch + claudem MiniMax sync --all
+- Source: raw/feedback_2026-07-06_go_ao_factory_claudem_setup.md
+- Bead: jleechan-sy4m

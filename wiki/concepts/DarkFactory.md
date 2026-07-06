@@ -96,3 +96,11 @@ See [Dark Factory reviewer/output/evidence contract and deterministic install sm
 - Redundant/independent reviewer lanes use `type="parallel_reviewer"` where appropriate, preserving separate outputs while passing a combined free-form bundle downstream.
 - Shadow Codex review defaults on and remains explicitly opt-out.
 - `origin/main` was verified at `6f50d4c159c8467dfcb85c0096743f79e9a25f8a`.
+
+## Update 2026-07-06 — Go AO factory dispatch (jleechanorg/dark-factory)
+
+See [Go AO factory dispatch + claudem MiniMax sync --all](../sources/feedback-2026-07-06-go-ao-factory-claudem-setup.md).
+
+- `/af` tick uses Go `ao-go` (mirror: `agent-orchestrator-mirror`), not TS `ao-ts`; headless `ao daemon` on :3001.
+- MiniMax/claudem routing via `factory-ao-minimax-sync.sh --all` on every registered AO project (harness stays `claude-code`; literal `claudem` harness needs mirror patch).
+- Factory beads `jleechan-9byt.*` drive target PRs through `factory-ao-remediate.sh` → `ao spawn --claim-pr`.
