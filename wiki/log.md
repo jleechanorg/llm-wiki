@@ -6346,3 +6346,11 @@ Source: sources/sustained-prompt-injection-during-pr-drive-2026-07-02.md. [[jeff
 - Source pages: `wiki/sources/feedback-2026-07-05-partial-spell-slot-fix-vs-canonical-spec.md`, `wiki/concepts/resource-rest-tracking-spec-2026-06-23.md`
 
 ## [2026-07-05] ingest | ez-gh-actions supersedes worldarchitect.ai self-hosted-oss/*
+
+## [2026-07-05] ingest | Manual Skeptic VERDICT flow when lifecycle-worker is disabled
+
+- **Type**: feedback (Best Practice)
+- **Source**: `~/.claude/projects/-Users-jleechan-project-agento-agent-orchestrator/memory/feedback_2026-07-05_skeptic_manual_verdict_lifecycle_disabled.md`
+- **Wiki page**: sources/feedback-2026-07-05-skeptic-manual-verdict-lifecycle-disabled.md
+- **Bead**: bd-x5o9 (closed)
+- **PRs**: #737 (merged 37ff104de), #750 (merged e7e9a242d)
