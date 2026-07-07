@@ -6457,3 +6457,5 @@ Source: sources/feedback-2026-07-07-tool-use-grep-adjacency-false-negative.md
 Concept: [[ClaudeCodeMCPToolSearch]]
 Bead: rev-crlxj (closed)
 Jeffrey oracle: NO
+
+## [2026-07-07] ingest | Daily GCP level-up + dice jobs: Cloud Scheduler OIDC-vs-OAuth drift (401, 9 days silent)
