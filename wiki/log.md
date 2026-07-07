@@ -6366,3 +6366,48 @@ Source: sources/sustained-prompt-injection-during-pr-drive-2026-07-02.md. [[jeff
 - Source page: sources/feedback-2026-07-06-ao-go-binary-over-ts.md
 - Bead: jleechan-kc2o (closed-learning)
 - Key signal: user correction — agent kept defaulting to TS-ao wrapper when "golang binary" was requested
+
+## [2026-07-07] ingest | Swarm Orchestration Learnings — design-retro-2026-06 mission (PR #8191)
+- Source: memory/feedback_2026-07-07_swarm_orchestration_learnings_pr8191.md
+- Raw: raw/feedback_2026-07-07_swarm_orchestration_learnings_pr8191.md
+- Source page: sources/feedback-2026-07-07-swarm-orchestration-learnings-pr8191.md
+- New concept pages: concepts/swarm-orchestration-pattern.md, concepts/publishability-gate.md
+- Bead: rev-lpjpg (closed-learning)
+- Key signal: two workflows (pr-retro-gapfill, code-quality) both hit false-empty VOID completions from aggregate cross-swarm rate-limit concurrency; cold adversarial review found 6 defect classes surviving ~180 verifying agents, motivating a new "publishability gate" final stage
+
+## [2026-07-07] ingest | PR #8198 CI workflow regressions
+- Raw: raw/project_2026-07-07_pr8198_ci_workflow_regressions.md
+- Source page: sources/project-2026-07-07-pr8198-ci-workflow-regressions.md
+- New concept pages: concepts/GitHubActionsExpressionCommentTrap.md, concepts/GitHubActionsReusableWorkflowConcurrencyCollision.md
+- Bead: rev-j9so3 (closed)
+- Key signal: `#` inside an Actions if-expression parse-fails on ALL branches; reusable workflow inheriting `${{ github.workflow }}` concurrency self-cancels its own parent under workflow_call
+
+## [2026-07-07] ingest | Sidekick branch-scoped STATE.md + commit-often proven
+- Raw: raw/feedback_2026-07-07_sidekick_branch_scoped_state_and_commit_often.md
+- Source page: sources/feedback-2026-07-07-sidekick-branch-scoped-state-and-commit-often.md
+- Bead: none
+- Key signal: per-mission STATE.md path structurally avoids the shared-file clobber documented in the PR #8191 retro; commit-often rule empirically proven when a crashed sidekick's uncommitted fix survived to be shipped as PR #8198
+
+## [2026-07-07] ingest | jeff-ubuntu OOM runner starvation
+- Raw: raw/project_2026-07-07_jeff_ubuntu_oom_runner_starvation.md
+- Source page: sources/project-2026-07-07-jeff-ubuntu-oom-runner-starvation.md
+- Bead: none dedicated (adjacent: rev-gxv98, rev-88wm6, rev-ih7n6)
+- Key signal: 12GB colima VM + desktop app memory pressure OOM-killed 13/16 runner containers on the 62Gi host; staged restart recovered 15/16
+
+## [2026-07-07] ingest | ezgha fleet incident recap
+
+Key claims:
+- Two watchdogs: systemd WatchdogSec (SIGABRT) vs external ezgha-fleet-watchdog.sh timer — do not conflate.
+- Watchdog killed serve during paginated gh api + 16-slot ensure_count until sd_notify pings + WatchdogSec=300 (045cd66).
+- Hard fleet reset wedges on offline+busy GitHub registrations; soft reset only.
+- Mac minimum_isolation=vm fail-closed on Colima; use container.
+- Queue saturation (65–95m tail) with 0 runner failures in job logs = capacity backlog.
+
+Source page: `sources/feedback-2026-07-07-ezgha-fleet-incident-recap.md`
+Bead: ez-gh-actions-2ik
+Jeffrey oracle: NO
+
+
+## [2026-07-07] ingest | Consolidated /learn recap — ez-gh-actions fleet rollout: 12 things that went wrong (2026-07-06)
+
+Linked source: [[learnings-2026-07]] (consolidated recap section, ~5KB). 12 failures categorized: 3 underlying binary bugs, 4 deceptive failure modes, 5 procedural gaps. Companion source [[feedback-2026-07-07-ezgha-fleet-incident-recap]] covers the post-recovery incident.
