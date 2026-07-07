@@ -3,6 +3,7 @@
 This file is maintained by the LLM. Updated on every ingest.
 
 ## Overview
+- [Claude Code dual-profile setup (claudewa) — CLAUDE_CONFIG_DIR, ToS, backup (2026-07-06)](sources/feedback-2026-07-06-claude-wa-dual-profile-setup.md) — Separate OAuth for personal vs WA; symlink projects/tooling; mutually exclusive repos; backup claude-wa/. Concept: [[ClaudeCodeDualProfile]]. Bead: jleechan-skk.
 - [ezgha fleet incident recap — watchdog, hard reset, isolation, queue (2026-07-07)](sources/feedback-2026-07-07-ezgha-fleet-incident-recap.md) — Consolidated 2026-07-06/07 fleet hardening failures: systemd WatchdogSec SIGABRT vs external timer, hard-reset wedge on offline+busy GH runners, Mac Colima minimum_isolation=container, queue saturation ≠ crashes. Commits aabd822/045cd66/1f3948f. Entity: [[EzGhaDaemon]].
 - [Overview](overview.md) — living synthesis across all sources
 
