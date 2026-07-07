@@ -6446,3 +6446,14 @@ Source: sources/feedback-2026-07-07-sidekick-same-name-respawn-race.md
 Concept: [[SidekickPattern]]
 Bead: rev-3vv8h, rev-ux16z
 Jeffrey oracle: NO
+
+## [2026-07-07] ingest | tool_use grep adjacency false-negative — "0 usage" claims were wrong
+
+Key claims:
+- Grep for "type":"tool_use","name":"mcp__X__ silently misses the "id" field commonly in between, producing false 0-usage results
+- Drove real removal of ios-simulator-mcp (279 real calls) and playwright-mcp (221 real calls) based on false data
+- Caught by adversarial codex CLI review that verified claims against real files instead of trusting the report
+Source: sources/feedback-2026-07-07-tool-use-grep-adjacency-false-negative.md
+Concept: [[ClaudeCodeMCPToolSearch]]
+Bead: rev-crlxj (closed)
+Jeffrey oracle: NO
