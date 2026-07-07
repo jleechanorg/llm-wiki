@@ -6411,3 +6411,16 @@ Jeffrey oracle: NO
 ## [2026-07-07] ingest | Consolidated /learn recap — ez-gh-actions fleet rollout: 12 things that went wrong (2026-07-06)
 
 Linked source: [[learnings-2026-07]] (consolidated recap section, ~5KB). 12 failures categorized: 3 underlying binary bugs, 4 deceptive failure modes, 5 procedural gaps. Companion source [[feedback-2026-07-07-ezgha-fleet-incident-recap]] covers the post-recovery incident.
+
+## [2026-07-06] ingest | Claude Code dual-profile setup (claudewa)
+
+Key claims:
+- CLAUDE_CONFIG_DIR split (~/.claude vs ~/.claude-wa); symlink shared tooling/projects; local auth/sessions
+- claudewa/claudewac; install-claude-wa-profile.sh; jeff-ubuntu parity
+- Mutually exclusive GH repos = cleanest ToS posture; dual paid Max low ban risk per published Terms/AUP
+- backup-home.sh backs ~/.claude-wa/ to claude/claude-wa/
+
+Source: sources/feedback-2026-07-06-claude-wa-dual-profile-setup.md
+Concept: [[ClaudeCodeDualProfile]]
+Bead: jleechan-skk
+Jeffrey oracle: NO
