@@ -6424,3 +6424,25 @@ Source: sources/feedback-2026-07-06-claude-wa-dual-profile-setup.md
 Concept: [[ClaudeCodeDualProfile]]
 Bead: jleechan-skk
 Jeffrey oracle: NO
+
+## [2026-07-07] ingest | MCP tool-search default is already full-deferral + CLAUDE_CONFIG_DIR orphaned-file trap
+
+Key claims:
+- ENABLE_TOOL_SEARCH unset already = full deferral, not the auto% threshold mode
+- Real A/B on jeff-ubuntu: 80,012 tokens (deferral off) vs 42,259 tokens (deferral on), 47% cut
+- Deferral is per-tool not per-server; CLAUDE_CONFIG_DIR=~/.claude silently targets an orphaned duplicate ~/.claude/.claude.json
+Source: sources/feedback-2026-07-07-mcp-tool-search-default-and-config-dir-trap.md
+Concept: [[ClaudeCodeMCPToolSearch]]
+Bead: none
+Jeffrey oracle: NO
+
+## [2026-07-07] ingest | Sidekick same-name respawn races with pending shutdown, duplicate concurrent workers
+
+Key claims:
+- Reusing a teammate name before shutdown_approved confirmed risks two concurrent workers on the same mission
+- No live-lock or namespaced output path exists today for concurrent sidekick spawns sharing scratch files
+- Self-corrected this time (duplicate detected collision via STATE.md, stood down) but not a structural guarantee
+Source: sources/feedback-2026-07-07-sidekick-same-name-respawn-race.md
+Concept: [[SidekickPattern]]
+Bead: rev-3vv8h, rev-ux16z
+Jeffrey oracle: NO
