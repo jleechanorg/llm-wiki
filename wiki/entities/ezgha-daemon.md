@@ -30,3 +30,12 @@ See [[Project2026-07-05-ezgha-supersedes-self-hosted-oss]].
 - [[JitRegistrationPattern]]
 - [[VmWithinVmIsolation]]
 - [[SelfHostedOssLegacy]]
+
+## Fleet operations lessons (2026-07-07)
+
+- **Watchdog:** `Type=notify` + `WatchdogSec` requires `sd_notify` pings inside every long `gh api` path, not only the 30s serve loop. Shipped in 045cd66 (300s window).
+- **Reset:** Prefer soft supervisor restart; hard reset (rm all containers + slot file) wedges when GitHub runners are `offline+busy`.
+- **Mac policy:** `minimum_isolation=container` on Colima — see `config/config.toml.mac.example`.
+- **External watchdog:** `ezgha-watchdog.timer` is separate from systemd watchdog; uncommitted script (bead ez-gh-actions-2ik).
+
+Source: [[../sources/feedback-2026-07-07-ezgha-fleet-incident-recap.md]]
