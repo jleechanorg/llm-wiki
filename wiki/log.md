@@ -6459,3 +6459,25 @@ Bead: rev-crlxj (closed)
 Jeffrey oracle: NO
 
 ## [2026-07-07] ingest | Daily GCP level-up + dice jobs: Cloud Scheduler OIDC-vs-OAuth drift (401, 9 days silent)
+
+## [2026-07-07] ingest | Archive not delete + verify content before pruning by usage stats
+
+Key claims:
+- Zero-usage-in-a-window reflects model selection bias, not a quality judgment
+- 10 of 16 "zero-usage duplicate" skills had genuine methodology differences the usage stat couldn't reveal
+- Always archive to a dated _archive/ dir, never rm, for full reversibility
+Source: sources/feedback-2026-07-07-archive-not-delete-and-verify-before-prune.md
+Concept: [[ClaudeCodeMCPToolSearch]]
+Bead: rev-im8tc, jleechan-fmf1, jleechan-9iql
+Jeffrey oracle: NO
+
+## [2026-07-07] ingest | evidence-review triple-duplicate dead code
+
+Key claims:
+- 3 files shared the same frontmatter name (name: evidence-review) across scopes
+- /er's resolution script never checked the path holding the newest content (2026-07-02 /green integration)
+- Fix: trace actual loader/resolver logic before assuming the newest edit is the one being used
+Source: sources/feedback-2026-07-07-evidence-review-triple-duplicate-dead-code.md
+Concept: [[SidekickPattern]]
+Bead: rev-e70ll
+Jeffrey oracle: NO
