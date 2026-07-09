@@ -6481,3 +6481,17 @@ Source: sources/feedback-2026-07-07-evidence-review-triple-duplicate-dead-code.m
 Concept: [[SidekickPattern]]
 Bead: rev-e70ll
 Jeffrey oracle: NO
+
+## [2026-07-09] ingest | br v0.2.16 legacy user-config overlay + no-auto-flush drift
+
+Key claims:
+- br reads `~/.beads/config.yaml` as a legacy user-config overlay for every cwd, shadowing project configs that have commented-out templates from `br init`.
+- Home workspace had `no-auto-flush: true`; first auto-flush after flipping to false reconciled 169 records of latent DB↔JSONL drift (JSONL 116 → 285 lines).
+- Fix 1 applied 2026-07-09: `/Users/jleechan/.beads/config.yaml` line 5. Backup: `config.yaml.bak.20260709-105524`.
+- Fix 2 (sandbox prefix override): `sed -i.bak 's/^# issue_prefix:/issue_prefix:/' <cwd>/.beads/config.yaml`.
+
+Source: sources/reference-br-legacy-user-config-overlay-2026-07-09.md
+Entity: [[BrCLI]]
+Concept: [[BrLegacyUserConfigOverlay]], [[BrNoAutoFlushDrift]]
+Bead: jleechan-zlaw
+Jeffrey oracle: NO
