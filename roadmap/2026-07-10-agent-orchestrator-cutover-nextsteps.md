@@ -22,7 +22,7 @@ Generic `ao` remains the TypeScript CLI. `ao-go` is the Go binary. Repointing ge
 | TypeScript GitHub | https://github.com/jleechanorg/agent-orchestrator-ts | Repository ID `1176698268`; reference migration PR https://github.com/jleechanorg/agent-orchestrator-ts/pull/757 |
 | Go GitHub | https://github.com/jleechanorg/agent-orchestrator | Repository ID `1183912784`; fork parent preserved |
 | Mac TypeScript | `/Users/jleechan/project_agento/agent-orchestrator-ts` | Dashboard launchd PID `94609`; `http://127.0.0.1:3020/` returned HTTP 200 with 14,440 bytes |
-| Mac Go | `/Users/jleechan/projects/agent-orchestrator` | Go AO launchd implementation is being proven by https://github.com/jleechanorg/jleechanclaw/pull/756 |
+| Mac Go | `/Users/jleechan/projects/agent-orchestrator` | Go AO launchd implementation and real evidence are at https://github.com/jleechanorg/jleechanclaw/pull/756, head `ddb7a2e1d9e22589028e98a366da1aa72dede462` |
 | Linux TypeScript | `/home/jleechan/project_agento/agent-orchestrator-ts` | `ao-orchestrator.service` active with PID `3446`, unchanged since 2026-07-10 12:39:22 PDT |
 | Linux Go | `/home/jleechan/projects/agent-orchestrator` | Canonical checkout migrated; legacy `ao-daemon.service` PID `3461` intentionally still executes the separately tracked `agent-orchestrator-golang` checkout |
 
@@ -31,10 +31,9 @@ Unrelated dirty files and untracked files in all source checkouts were preserved
 ## Compatibility bridges still present
 
 - `/Users/jleechan/project_agento/agent-orchestrator` -> `/Users/jleechan/project_agento/agent-orchestrator-ts`: retain until the Mac dashboard supervisor is reloaded from its canonical-path template during a controlled handoff.
-- `/Users/jleechan/projects/agent-orchestrator-mirror` -> `/Users/jleechan/projects/agent-orchestrator`: remove after the launchd export evidence worker releases the old source path.
 - `/home/jleechan/project_agento/agent-orchestrator` -> `/home/jleechan/project_agento/agent-orchestrator-ts`: retain until `ao-orchestrator.service` is restarted from its updated canonical path. Its unchanged PID proves the move did not interrupt the live daemon.
 
-The Linux Go bridge was removed after verification because no running consumer depended on it.
+The Mac and Linux Go bridges were removed after verification because no running consumer depended on them. The TypeScript bridges remain intentional availability controls for long-running Node processes; removing them is a separate controlled supervisor handoff, not a repository-identity blocker.
 
 ## Capability gaps and durable follow-ups
 
@@ -42,15 +41,27 @@ The Linux Go bridge was removed after verification because no running consumer d
 - Explicit TypeScript YAML to Go SQLite migration: https://github.com/jleechanorg/agent-orchestrator/issues/15 and bead `jleechan-odk`.
 - Correct stale tracker-intake status documentation: https://github.com/jleechanorg/agent-orchestrator/issues/16 and bead `jleechan-awc`.
 - Reconcile the separate legacy Go fork and Linux daemon: https://github.com/jleechanorg/agent-orchestrator/issues/17 and bead `jleechan-gbz`.
+- Retry clean local-ahead export commits after recovery exhaustion: https://github.com/jleechanorg/jleechanclaw/issues/758 and bead `jleechan-4fw`.
 
 Current-source inspection showed that Go tracker intake is wired; the contrary `docs/STATUS.md` text is stale. The blocking functional gap is PR action integrity: merge and resolve-comments currently report success without confirmed SCM behavior.
 
 ## Remaining closeout
 
-1. Finish the real black-box AO recovery evidence in https://github.com/jleechanorg/jleechanclaw/pull/756, including worker-completion observation and the configured fallback harness.
-2. Remove the Mac Go compatibility bridge after that worker confirms it no longer holds the old path.
-3. Restart the Mac dashboard and Linux TypeScript daemon from canonical paths only during controlled supervisor handoffs, verify health immediately, then remove their bridges.
+1. Move https://github.com/jleechanorg/jleechanclaw/pull/756 out of draft after the owning GitHub account's GraphQL quota resets, obtain CodeRabbit and skeptic review at the current head, and merge only after the repository's normal gates pass.
+2. Install the combined tracked LaunchAgent from the stable canonical `jleechanclaw` checkout after that reviewed change lands. Keep the existing `llm_wiki` exporters loaded until the new label is verified, then retire only the two explicitly superseded labels. This is the remaining deployment step for `roadmap`.
+3. Restart the Mac dashboard and Linux TypeScript daemon from canonical paths only during controlled supervisor handoffs, verify health immediately, then remove their TypeScript bridges.
 4. Merge repository-reference PR https://github.com/jleechanorg/agent-orchestrator-ts/pull/757 only after its normal review gates pass. No merge was performed during this cutover.
 5. Implement issue 14 before considering any generic `ao` cutover to Go.
+
+## AO spawn safety correction
+
+The stale `~/.claude/skills/ao-spawn-safety/SKILL.md` text was corrected. The current policy is:
+
+- pause when a target channel exceeds its `kanban.max_spawn` setting (default 8);
+- refuse at 20 active AO workers total;
+- spawn at most 5 workers per batch;
+- never use system load average as the gate.
+
+The old value `15` was a superseded per-batch upper bound, not a session-count safety gate.
 
 Historical roadmap entries, session transcripts, caches, evidence bundles, and archived policy copies intentionally retain their original names for provenance.
