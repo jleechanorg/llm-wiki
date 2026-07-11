@@ -38,11 +38,11 @@ bead: jleechan-lgm
 - Consumes: approved design and swarm audit.
 - Produces: checksummed pre-cutover inventory and explicit go/no-go gates.
 
-- [ ] Record both GitHub repository IDs, current names, parents, open PRs, issues, releases, and default branches with `gh api`.
-- [ ] Record status, HEAD, remotes, worktrees, dirty-file hashes, and active cwd processes for primary Mac/Linux checkouts.
-- [ ] Record current launchd/systemd unit state and launcher resolution without restarting anything.
-- [ ] Confirm the launchd export worker has pushed a checkpoint and contains no production hardcode of the old Go source path.
-- [ ] Commit the inventory checkpoint and update bead `jleechan-lgm`.
+- [x] Record both GitHub repository IDs, current names, parents, open PRs, issues, releases, and default branches with `gh api`.
+- [x] Record status, HEAD, remotes, worktrees, dirty-file hashes, and active cwd processes for primary Mac/Linux checkouts.
+- [x] Record current launchd/systemd unit state and launcher resolution without restarting anything.
+- [x] Confirm the launchd export worker has pushed a checkpoint and contains no production hardcode of the old Go source path.
+- [x] Commit the inventory checkpoint and update bead `jleechan-lgm`.
 
 ### Task 2: Rename TypeScript GitHub repository
 
@@ -54,11 +54,11 @@ bead: jleechan-lgm
 - Consumes: original TypeScript repository ID.
 - Produces: `jleechanorg/agent-orchestrator-ts` with the same ID.
 
-- [ ] PATCH `repos/jleechanorg/agent-orchestrator` with `name=agent-orchestrator-ts`.
-- [ ] Verify immutable ID, open PRs 752/755/756, representative issue, release, clone, fetch, and push URL.
-- [ ] Update critical Mac and Linux TypeScript slug references and independent clone remotes.
-- [ ] Run the operational-scope stale-reference gate; classify rather than rewrite historical records.
-- [ ] Stop if any executed reference still targets the old TypeScript namespace.
+- [x] PATCH `repos/jleechanorg/agent-orchestrator` with `name=agent-orchestrator-ts`.
+- [x] Verify immutable ID, open PRs 752/755/756, representative issue, release, clone, fetch, and push URL.
+- [x] Update critical Mac and Linux TypeScript slug references and independent clone remotes.
+- [x] Run the operational-scope stale-reference gate; classify rather than rewrite historical records.
+- [x] Stop if any executed reference still targets the old TypeScript namespace.
 
 ### Task 3: Rename Go GitHub repository
 
@@ -69,9 +69,9 @@ bead: jleechan-lgm
 - Consumes: original mirror repository ID and a passing TypeScript reference gate.
 - Produces: `jleechanorg/agent-orchestrator` with the mirror's original ID and unchanged upstream parent.
 
-- [ ] PATCH `repos/jleechanorg/agent-orchestrator-mirror` with `name=agent-orchestrator`.
-- [ ] Verify immutable ID, fork parent, open PRs, issues, clone/fetch, and default branch.
-- [ ] Verify the old TypeScript URL is no longer treated as a redirect and all live TypeScript consumers already use `-ts`.
+- [x] PATCH `repos/jleechanorg/agent-orchestrator-mirror` with `name=agent-orchestrator`.
+- [x] Verify immutable ID, fork parent, open PRs, issues, clone/fetch, and default branch.
+- [x] Verify the old TypeScript URL is no longer treated as a redirect and all live TypeScript consumers already use `-ts`.
 
 ### Task 4: Move Mac primary checkouts with temporary bridges
 
@@ -84,10 +84,10 @@ bead: jleechan-lgm
 - Consumes: checkpointed dirty files and linked-worktree list.
 - Produces: new canonical paths, repaired worktrees, and zero permanent bridges.
 
-- [ ] Confirm no active writer has cwd beneath a checkout; checkpoint or defer only the affected move if one does.
-- [ ] Atomically move one checkout, create its old-path symlink immediately, update its origin remote, and run `git worktree repair` for linked worktrees.
-- [ ] Update operational consumers to the new real path while services remain running.
-- [ ] Verify status, dirty-file hashes, launchd configuration/trigger/log evidence, and launcher identity.
+- [x] Confirm no active writer has cwd beneath a checkout; checkpoint or defer only the affected move if one does.
+- [x] Atomically move one checkout, create its old-path symlink immediately, update its origin remote, and run `git worktree repair` for linked worktrees.
+- [x] Update operational consumers to the new real path while services remain running.
+- [x] Verify status, dirty-file hashes, launchd configuration/trigger/log evidence, and launcher identity.
 - [ ] Remove that checkout's temporary symlink only after all operational checks pass; repeat for the other checkout.
 
 ### Task 5: Move Linux primary checkouts with temporary bridges
@@ -101,10 +101,10 @@ bead: jleechan-lgm
 - Consumes: SSH access and recorded systemd baseline.
 - Produces: new Linux canonical paths with active services preserved.
 
-- [ ] Confirm `agent-orchestrator-golang` identity and exclude it from every mutation.
-- [ ] Apply the same one-checkout-at-a-time move, bridge, remote update, repair, verification, and bridge removal protocol over `ssh jeff-ubuntu`.
-- [ ] Run `systemctl --user daemon-reload` only after unit files are correct; do not restart healthy units unless required.
-- [ ] Verify unit active state, launcher identity, and recent service logs before removing bridges.
+- [x] Confirm `agent-orchestrator-golang` identity and exclude it from every mutation.
+- [x] Apply the same one-checkout-at-a-time move, bridge, remote update, repair, verification, and bridge removal protocol over `ssh jeff-ubuntu`.
+- [x] Run `systemctl --user daemon-reload` only after unit files are correct; do not restart healthy units unless required.
+- [x] Verify unit active state, launcher identity, and recent service logs before removing bridges.
 
 ### Task 6: File capability and cleanup follow-ups
 
@@ -116,10 +116,10 @@ bead: jleechan-lgm
 - Consumes: verified current-source findings.
 - Produces: durable issue URLs and bead IDs.
 
-- [ ] File a P0/P1 Go issue to make merge and resolve-comments fail closed immediately, then implement real SCM behavior separately.
-- [ ] File config-migration/parity issues for YAML migration, generic-`ao` consumer classification, and stale `docs/STATUS.md` tracker text.
-- [ ] File cleanup for the separate `agent-orchestrator-golang` fork and divergent auxiliary checkouts; do not delete them in this cutover.
-- [ ] Update `jleechan-lgm` with all URLs and exact remaining actions.
+- [x] File a P0/P1 Go issue to make merge and resolve-comments fail closed immediately, then implement real SCM behavior separately.
+- [x] File config-migration/parity issues for YAML migration, generic-`ao` consumer classification, and stale `docs/STATUS.md` tracker text.
+- [x] File cleanup for the separate `agent-orchestrator-golang` fork and divergent auxiliary checkouts; do not delete them in this cutover.
+- [x] Update `jleechan-lgm` with all URLs and exact remaining actions.
 
 ### Task 7: End-to-end verification and evidence
 
