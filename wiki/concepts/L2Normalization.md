@@ -17,4 +17,4 @@ where ||v|| = sqrt(sum(v_i²))
 ## Connections
 - [CosineSimilarity](CosineSimilarity.md) — enables simplified calculation
 - [EmbeddingVector](EmbeddingVector.md) — input/output type
-- [FastEmbed](../entities/FastEmbed.md) — performs normalization internally
+- [FastEmbed](../entities/Fastembed.md) — performs normalization internally

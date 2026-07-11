@@ -28,7 +28,7 @@ OPA bundle signing uses asymmetric cryptography to verify that policy bundles lo
 Bundle signing maps to the ZFC model contract: prompt files + schema + formatter code must be deployed as a consistent unit. If the prompt says "emit `previous_turn_exp`" but the formatter doesn't recognize that field, there's a supply-chain mismatch. Bundle signing patterns could enforce version pinning of prompts + formatter together.
 
 ## See Also
-- [Digital-Signatures](Digital-Signatures.md)
-- [Bundle-Files](Bundle-Files.md)
+- [Digital-Signatures](digital-signatures.md)
+- [Bundle-Files](bundle-files.md)
 - [OPA](../entities/OPA.md)
-- [Rego](../entities/Rego.md)
+- [Rego](../entities/rego.md)

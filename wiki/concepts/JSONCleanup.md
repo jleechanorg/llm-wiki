@@ -17,4 +17,4 @@ Techniques for handling malformed or corrupted JSON in LLM responses. The narrat
 
 ## Related
 - [NarrativeResponse](NarrativeResponse.md) — The target schema that JSON is parsed into
-- [parseStructuredResponse](parseStructuredResponse.md) — Function that performs JSON parsing and cleanup
+- [parseStructuredResponse](ParseStructuredResponse.md) — Function that performs JSON parsing and cleanup

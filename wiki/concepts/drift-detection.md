@@ -27,6 +27,6 @@ Drift detection identifies when the distribution of model inputs, outputs, or un
 The ZFC design doc's Stage 5 "Enforcement" step mentions adding grep gates to detect when new code re-interprets `level_up_signal` outside `rewards_engine.py`. This is a form of structural drift detection: monitoring whether the implementation diverges from the design contract over time.
 
 ## See Also
-- [PSI](PSI.md)
-- [OPA-Bundle-Signing](OPA-Bundle-Signing.md)
+- [PSI](psi.md)
+- [OPA-Bundle-Signing](opa-bundle-signing.md)
 - [ZFC-Level-Up-Architecture](ZFC-Level-Up-Architecture.md)

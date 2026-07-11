@@ -18,5 +18,5 @@ Small, jittery miller at the old stone bridge over the Silverflow. Houses the Gu
 ## Connections
 - [alexiel-larion](../sources/alexiel-larion.md) — primary campaign source
 - [voyage-daran](voyage-daran.md) — his Guild handler
-- [Lifestone](../concepts/Lifestone.md) — the contraband he stores
-- [Silverflow](../concepts/Silverflow.md) — the river his mill sits on
+- [Lifestone](../concepts/lifestone.md) — the contraband he stores
+- [Silverflow](../concepts/silverflow.md) — the river his mill sits on

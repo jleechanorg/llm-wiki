@@ -17,4 +17,4 @@ An LLM model served via OpenRouter that provides more creative/risky AI response
 ## Related
 - [spicy-mode-toggle-e2e-tests](../sources/spicy-mode-toggle-e2e-tests.md) — tests Grok activation
 - [[spicy-mode]] — feature that enables Grok
-- [openrouter](openrouter.md) — provider serving Grok
+- [openrouter](OpenRouter.md) — provider serving Grok

@@ -47,4 +47,4 @@ Sariel appears as **completely different characters** across campaigns — no sh
 - [NeonDragonCasino](NeonDragonCasino.md) — Current employer (v1)
 - [Cheyenne](Cheyenne.md) — Primary location (v2)
 - [ThePit](ThePit.md) — Tactical setting (v2)
-- [GloomstalkerRanger](GloomstalkerRanger.md) — Character class
+- [GloomstalkerRanger](GloomStalkerRanger.md) — Character class

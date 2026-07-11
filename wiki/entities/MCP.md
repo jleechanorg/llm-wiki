@@ -10,5 +10,5 @@ last_updated: 2026-04-08
 Model Context Protocol — AI communication protocol for WorldArchitect.AI. One of two entry points (alongside Flask) consuming the unified API layer with explicit parameter handling.
 
 ## Connections
-- [WorldArchitect.AI](WorldArchitect.AI.md) — MCP server entry point
+- [WorldArchitect.AI](worldarchitect.ai.md) — MCP server entry point
 - [[Unified API Implementation]] — shares business logic via unified functions

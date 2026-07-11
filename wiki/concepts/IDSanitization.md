@@ -11,4 +11,4 @@ The practice of transforming arbitrary strings into valid identifier format. Pre
 
 ## Related Concepts
 - [EntityNameSanitization](EntityNameSanitization.md) — specific implementation for entity names
-- [LlMService](LlMService.md) — module providing this functionality
+- [LlMService](LLMService.md) — module providing this functionality

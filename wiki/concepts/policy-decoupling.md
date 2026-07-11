@@ -27,6 +27,6 @@ ZFC Level-Up Architecture applies the same principle: the model (LLM) decides le
 
 ## See Also
 - [OPA](../entities/OPA.md)
-- [Rego](../entities/Rego.md)
+- [Rego](../entities/rego.md)
 - [[Fail-Closed]]
 - [ZFC-Level-Up-Architecture](ZFC-Level-Up-Architecture.md)

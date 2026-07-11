@@ -30,7 +30,7 @@ Live React-based single-page application for AI Universe, deployed on Render at 
 ## Connections
 - [Render](Render.md) — hosting platform
 - [Vite](Vite.md) — build tool
-- [React](../concepts/React.md) — frontend framework
+- [React](../concepts/ReAct.md) — frontend framework
 - [AIUniverseBackendDev](AIUniverseBackendDev.md) — backend API
 - [CORSProxy](../concepts/CORSProxy.md) — proxy handling cross-origin requests
 

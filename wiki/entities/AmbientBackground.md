@@ -10,5 +10,5 @@ Visual effect component in the worldai_claw project that provides ambient partic
 
 ## Related Projects
 - [WorldAI](WorldAI.md) — organization
-- [WorldArchitect.AI](WorldArchitect.AI.md) — target project
+- [WorldArchitect.AI](worldarchitect.ai.md) — target project
 - [[EmberParticleBackground]] — ported implementation

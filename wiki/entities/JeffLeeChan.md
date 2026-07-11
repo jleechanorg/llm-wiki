@@ -30,7 +30,7 @@ Software Engineering Manager at Snap with prior experience as Staff Software Eng
 - [LarryJacobson](LarryJacobson.md) - Co-founder of AI Leadership collaboration
 - [KartikMathur](KartikMathur.md) - Co-founder of AI Leadership collaboration
 - [[AgentLoop]] - Demonstrated and discussed workflow
-- [CMUX](CMUX.md) - Primary terminal setup for AI workflows
+- [CMUX](cmux.md) - Primary terminal setup for AI workflows
 
 ## Key Insights
 
