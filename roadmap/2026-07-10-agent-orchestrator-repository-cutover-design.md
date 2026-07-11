@@ -27,13 +27,15 @@ The cutover is complete only when every check below passes:
 
 ## Decision
 
-Perform a hard cutover without local compatibility symlinks:
+Perform a hard cutover without permanent local compatibility symlinks. Temporary cutover bridges are allowed only to keep running services restart-safe while paths are updated:
 
 1. Rename `jleechanorg/agent-orchestrator` to `jleechanorg/agent-orchestrator-ts`.
 2. Update critical TypeScript references before reusing the old namespace.
 3. Rename `jleechanorg/agent-orchestrator-mirror` to `jleechanorg/agent-orchestrator`.
 4. Rename the primary local checkout directories and repair linked worktrees.
 5. Update operational references on the Mac and `jeff-ubuntu`, then run bounded stale-reference audits.
+
+For each moved primary checkout, create the replacement path first, atomically move the directory, and immediately place a temporary symlink at the old path. Keep existing services running. Update and verify every operational consumer against the new real path, then remove the temporary symlink. A bridge that survives closeout is a failed exit criterion.
 
 GitHub normally redirects repository URLs and Git transports after a rename, but reusing the old name destroys that redirect. GitHub Actions references do not follow repository renames. Therefore the two GitHub renames are separate gated steps, not one blind batch. Source: [GitHub repository rename behavior](https://docs.github.com/en/repositories/creating-and-managing-repositories/renaming-a-repository).
 
@@ -110,6 +112,8 @@ When all writers are checkpointed:
   - `/home/jleechan/projects/agent-orchestrator-mirror` -> `/home/jleechan/projects/agent-orchestrator`
 
 After moving any main checkout with linked worktrees, run `git -C <renamed-main> worktree repair <linked-worktree>...`, then verify every linked worktree. This sequence was reproduced on a disposable repository: the linked worktree failed before repair and passed afterward.
+
+To preserve restartability during the move, create a temporary symlink from each old primary path to its new path immediately after the atomic rename. Do not reload a service merely because its source checkout moved. Remove each bridge only after all live consumers use the new path and automatic health evidence is captured.
 
 Auxiliary clones under `projects_reference`, `projects_other`, and `.worktrees` are classified individually. Update their remotes immediately, but rename their directories only when no launchd/systemd unit or active process depends on the path. Directory names are not treated as proof of repository identity.
 
