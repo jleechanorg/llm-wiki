@@ -21,7 +21,29 @@ jobs:
         with:
           python-version: "3.13"
 
+      - name: Detect pull-request wiki changes
+        id: wiki-scope
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          if [[ "${{ github.event_name }}" != "pull_request" ]]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          git fetch --no-tags --depth=1 origin "$BASE_SHA" "$HEAD_SHA"
+          if git diff --quiet "$BASE_SHA" "$HEAD_SHA" -- \
+            wiki/concepts wiki/entities wiki/syntheses \
+            wiki/index.md wiki/overview.md; then
+            echo "run=false" >> "$GITHUB_OUTPUT"
+            echo "No pull-request changes in the wiki link-lint scope."
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Run wikilink linter (concepts + entities + syntheses)
+        if: steps.wiki-scope.outputs.run == 'true'
         # Exits 1 on broken [text](path.md) links — active navigation breakage.
         # Prints warnings for unresolvable [[wikilinks]] (phantom refs) but
         # does NOT block the build — those are informational.
