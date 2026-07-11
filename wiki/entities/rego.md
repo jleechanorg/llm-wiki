@@ -19,10 +19,10 @@ Rego (pronounced "ray-go") is OPA's purpose-built policy language for expressing
 ## Connections
 - [OPA](OPA.md) — Rego is the policy language of the OPA engine
 - [[OPA-Rego-Policy-Language]] — the concept page for Rego's policy semantics
-- [Policy-Decoupling](../concepts/Policy-Decoupling.md) — Rego separates policy from application code
-- [OPA-Bundle-Signing](../concepts/OPA-Bundle-Signing.md) — Rego policies can be signed and verified via OPA bundles
+- [Policy-Decoupling](../concepts/policy-decoupling.md) — Rego separates policy from application code
+- [OPA-Bundle-Signing](../concepts/opa-bundle-signing.md) — Rego policies can be signed and verified via OPA bundles
 
 ## See Also
 - [OPA](OPA.md)
-- [Policy-Decoupling](../concepts/Policy-Decoupling.md)
+- [Policy-Decoupling](../concepts/policy-decoupling.md)
 - [[OPA-Rego-Policy-Language]]

@@ -6105,7 +6105,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [StagingWorktree](entities/StagingWorktree.md) — OpenClaw staging pipeline worktree for deployment testing
 - [StagingBranch](entities/StagingBranch.md) — OpenClaw staging branch for canary deployments
 - [RewardsBoxBuilder](entities/RewardsBoxBuilder.md) — mvp_site/rewards/builder.py; normalize_rewards_box_for_ui with has_visible_content sentinel; affected by PR #6193 and #6195
-- [Austin Wang](entities/AustinWang.md) — Co-creator of [CMUX](entities/CMUX.md), native Swift/AppKit terminal for AI-agent workflows
+- [Austin Wang](entities/AustinWang.md) — Co-creator of [CMUX](entities/cmux.md), native Swift/AppKit terminal for AI-agent workflows
 - [Shadow](entities/Shadow.md) — Lvl 3 Rogue player character with HP 22/28, XP 2500/6000, 75gp — referenced in think mode tests
 - [Aegon Targaryen](entities/AegonTargaryen.md) — Player character, secret Targaryen heir, Level 5 Gloomstalker, Mountain's Men mercenary
 - [Boudica](entities/Boudica.md) — Player character, Queen of the Iceni, Level 6 Warlock/Bard, Roman Britain rebellion
@@ -6396,7 +6396,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Soul-Tithe Ritual](concepts/SoulTitheRitual.md) — Cassalanter infernal ritual to harvest noble souls for Zariel, hijacked by Nocturne
 - [70% Rule (Pax Julia)](concepts/SeventyPercentRule.md) — Julian family dominance of 70% of Rome in Gaia Julia V2
 - [Psionic Miasma](concepts/PsionicMiasma.md) — Gaia Julia V3's psionic Sorcerer/Bard Gestalt with Miasma visuals
-- [Gloom Stalker Ranger](concepts/GloomStalkerRanger.md) — XGtE Ranger subclass, Dread Ambusher, Umbral Sight
+- [Gloom Stalker Ranger](concepts/GloomstalkerRanger.md) — XGtE Ranger subclass, Dread Ambusher, Umbral Sight
 - [College of Swords Bard](concepts/CollegeOfSwordsBard.md) — XGtE Bard subclass, blade flourishes using Bardic Inspiration
 - [Vampire Spawn](concepts/VampireSpawn.md) — BG3 undead type, Sunlight Sensitivity, Bite, Spawn abilities
 - [Destiny Core Rules](concepts/DestinyCoreRules.md) — Custom TTRPG system, Aptitudes, Personality Traits
@@ -6784,7 +6784,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [DiceIntegrity](concepts/DiceIntegrity.md) — Anti-fabrication: LLM requests rolls, sandbox resolves them
 - [TokenBudget](entities/TokenBudget.md) — 5-component min-first/fill-to-max token allocation
 - [FactionSystem](concepts/FactionSystem.md) — 12 living world factions with autonomous ticks
-- [FastEmbed](entities/FastEmbed.md) — BAAI/bge-small-en-v1.5 semantic router (384-dim, <50ms)
+- [FastEmbed](entities/Fastembed.md) — BAAI/bge-small-en-v1.5 semantic router (384-dim, <50ms)
 
 ## Concepts (Architecture)
 

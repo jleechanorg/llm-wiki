@@ -16,7 +16,7 @@ Import tests are unit tests that verify module dependencies are available and pr
 
 ## Test Coverage
 - [FirestoreService](FirestoreService.md) — add_story_entry, create_campaign
-- [LLMService](LLMService.md) — continue_story
+- [LLMService](LlmService.md) — continue_story
 - [[Main]] — create_app (Flask factory)
 - [GameState](GameState.md) — GameState class
 - [Constants](Constants.md) — structured field constants

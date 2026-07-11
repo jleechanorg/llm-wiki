@@ -27,7 +27,7 @@ OPA Rego supports both complete rules (fully evaluated when all variables are bo
 OPA's partial rules returning unbound templates that instantiate at runtime is directly analogous to the ZFC model-output schema: the schema defines the structure (`level_up`, `new_level`, `previous_turn_exp`), the model provides the concrete values at response time. The backend (formatter) performs the instantiation.
 
 ## See Also
-- [Rego](../entities/Rego.md)
+- [Rego](../entities/rego.md)
 - [OPA](../entities/OPA.md)
-- [OPA-Constraint-Templates](OPA-Constraint-Templates.md)
+- [OPA-Constraint-Templates](opa-constraint-templates.md)
 - [ZFC-Level-Up-Architecture](ZFC-Level-Up-Architecture.md)

@@ -17,7 +17,7 @@ The practice of using different AI models for different tasks based on cost, cap
 | [Codex](../entities/Codex.md) 5.3/5.4 | Highest intelligence, excellent reasoning | Expensive, rapid token consumption | Complex code reviews, architectural decisions |
 | [Claude](../entities/Claude.md) | Quality review, evidence checking | Expensive | Review and quality assurance |
 | [Gemini](../entities/Gemini.md) Flash | Structured JSON, game state | Safety filters on creative | RPG mechanics, data extraction |
-| [Minimax](../entities/Minimax.md) | Cheap, repetitive tasks | Poor JSON adherence, drops fields | Volume work, initial drafts |
+| [Minimax](../entities/MiniMax.md) | Cheap, repetitive tasks | Poor JSON adherence, drops fields | Volume work, initial drafts |
 | [Grok](../entities/Grok.md) | Virtually uncensored | Less capable at pure coding | Creative narratives, unrestricted content |
 
 ## Cost Management Strategy

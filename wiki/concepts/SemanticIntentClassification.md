@@ -18,7 +18,7 @@ Semantic Intent Classification determines user intent by understanding the meani
 - **Semantic classification**: Understands meaning ("I strike the goblin" → combat via embedding)
 
 ## Connections
-- [FastEmbed](../entities/FastEmbed.md) — tool for generating embeddings
+- [FastEmbed](../entities/Fastembed.md) — tool for generating embeddings
 - [CosineSimilarity](CosineSimilarity.md) — similarity metric used
 - [L2Normalization](L2Normalization.md) — normalization applied to embeddings
 - [AgentRouting](AgentRouting.md) — result of classification used for routing

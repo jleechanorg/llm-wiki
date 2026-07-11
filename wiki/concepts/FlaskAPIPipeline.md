@@ -16,6 +16,6 @@ The request handling chain from Flask route decorators through business logic to
 5. **Response**: JSON payload returned to client
 
 ## Connections
-- [MVPSite](../entities/MVPSite.md)
+- [MVPSite](../entities/MvpSite.md)
 - [[Firestore Campaign Storage]]
 - [[Gemini Provider]]

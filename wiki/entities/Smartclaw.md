@@ -11,7 +11,7 @@ Target repository for the delegation flow that experienced routing failures in M
 
 ## Related Entities
 - [jleechanclaw](jleechanclaw.md) — source repository for delegation
-- [Worldarchitect.ai](Worldarchitect.ai.md) — repository where incorrect work was initially performed
+- [Worldarchitect.ai](worldarchitect.ai.md) — repository where incorrect work was initially performed
 
 ## Events
 - 2026-03-19: Delegation routing failure postmortem conducted

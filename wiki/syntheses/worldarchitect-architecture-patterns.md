@@ -27,7 +27,7 @@ The [AgentAdapter](../concepts/AgentAdapter.md) provides a unified interface acr
 [AgentRouting](../concepts/AgentRouting.md) and [AgentSelection](../concepts/AgentSelection.md) handle task distribution:
 - [AgentPriorityOrdering](../concepts/AgentPriorityOrdering.md) assigns urgency/importance scores
 - [AgentModeDetection](../concepts/AgentModeDetection.md) identifies agent state (idle, working, waiting_for_input)
-- Routing uses [FastEmbed](../entities/FastEmbed.md) semantic intent classification
+- Routing uses [FastEmbed](../entities/Fastembed.md) semantic intent classification
 - Fallback chains: primary → secondary → human escalation
 
 ### 3. Stall Recovery and Watchdog Patterns

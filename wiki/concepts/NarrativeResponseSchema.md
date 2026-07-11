@@ -18,4 +18,4 @@ Used by `_check_god_mode_narrative` to validate that god mode responses don't ac
 
 ## Related
 - [GodModePlaceholderValidation](GodModePlaceholderValidation.md) — validation logic
-- [GODMode](GODMode.md) — god mode functionality
+- [GODMode](GodMode.md) — god mode functionality

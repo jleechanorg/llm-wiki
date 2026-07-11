@@ -31,10 +31,10 @@ OPA (Open Policy Agent) is a policy engine streamlining policy management across
 ## Connections
 
 - [PolicyEngine](../concepts/PolicyEngine.md) — OPA is a policy engine using Rego
-- [Rego](Rego.md) — OPA's policy language
+- [Rego](rego.md) — OPA's policy language
 - [GovernanceLayer](../concepts/GovernanceLayer.md) — OPA could serve as the policy engine for governance constraints
 
 ## See Also
 - [PolicyEngine](../concepts/PolicyEngine.md)
-- [Rego](Rego.md)
+- [Rego](rego.md)
 - [GovernanceLayer](../concepts/GovernanceLayer.md)
