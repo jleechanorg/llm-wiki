@@ -17,4 +17,4 @@ The wide, fast river that cuts through the emerald fields of Highvale. Defines t
 ## Connections
 - [alexiel-larion](../sources/alexiel-larion.md) — primary source
 - [[Highvale]] — the region the river defines
-- [Lifestone](Lifestone.md) — what flows along it
+- [Lifestone](lifestone.md) — what flows along it

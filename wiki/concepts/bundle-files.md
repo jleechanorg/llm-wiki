@@ -28,6 +28,6 @@ Bundle files are the deployment mechanism for policy-as-code — analogous to ho
 
 ## See Also
 - [OPA](../entities/OPA.md)
-- [Digital-Signatures](Digital-Signatures.md)
+- [Digital-Signatures](digital-signatures.md)
 - [[Policy-as-Code]]
-- [OPA-Bundle-Signing](OPA-Bundle-Signing.md)
+- [OPA-Bundle-Signing](opa-bundle-signing.md)

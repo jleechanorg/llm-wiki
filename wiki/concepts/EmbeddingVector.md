@@ -20,6 +20,6 @@ An embedding vector is a numerical representation of text that captures semantic
 
 ## Connections
 - [BGE-small-en-v1.5](../entities/BGE-small-en-v1.5.md) — model generating embeddings
-- [FastEmbed](../entities/FastEmbed.md) — library for embedding generation
+- [FastEmbed](../entities/Fastembed.md) — library for embedding generation
 - [CosineSimilarity](CosineSimilarity.md) — comparison metric
 - [L2Normalization](L2Normalization.md) — preprocessing

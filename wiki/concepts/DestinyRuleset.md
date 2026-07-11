@@ -30,4 +30,4 @@ Three campaigns use the Destiny ruleset:
 - [[ItachiEvilCampaign2Campaign]] — Campaign using it
 - [[MercSoloBruteGladiusCampaign]] — Campaign using it
 - [[LukeV2Campaign]] — Campaign using it
-- [Dnd5eSRD](../entities/Dnd5eSRD.md) — Base system
+- [Dnd5eSRD](../entities/DnD5eSRD.md) — Base system

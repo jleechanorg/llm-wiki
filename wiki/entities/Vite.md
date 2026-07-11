@@ -16,7 +16,7 @@ Next-generation front-end build tool used for AI Universe frontend. Version 7.1.
 
 ## Connections
 - [AIUniverseFrontendFinal](AIUniverseFrontendFinal.md) — built with Vite
-- [React](../concepts/React.md) — framework being bundled
+- [React](../concepts/ReAct.md) — framework being bundled
 
 ## Source
 [[AI Universe Frontend Testing Report]]

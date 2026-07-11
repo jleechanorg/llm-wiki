@@ -17,12 +17,12 @@ Stuart Russell is a UC Berkeley professor of computer science, co-author of the 
 
 ## Connections
 - [[CIRL]] — he co-authored the foundational paper; CIRL's core insight is machines uncertain about human reward
-- [Value-Alignment](../concepts/Value-Alignment.md) — Russell's "Human Compatible" is the canonical value alignment text
+- [Value-Alignment](../concepts/value-alignment.md) — Russell's "Human Compatible" is the canonical value alignment text
 - [[Human-Compatible-AI]] — his formulation: AI should maximize uncertainty over human values
-- [Corrigibility](../concepts/Corrigibility.md) — his work on corrigible AI systems that accept corrections
+- [Corrigibility](../concepts/corrigibility.md) — his work on corrigible AI systems that accept corrections
 
 ## See Also
 - [[CIRL]]
-- [Value-Alignment](../concepts/Value-Alignment.md)
+- [Value-Alignment](../concepts/value-alignment.md)
 - [[Human-Compatible-AI]]
-- [Corrigibility](../concepts/Corrigibility.md)
+- [Corrigibility](../concepts/corrigibility.md)

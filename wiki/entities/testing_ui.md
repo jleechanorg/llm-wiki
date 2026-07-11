@@ -15,4 +15,4 @@ Test infrastructure module providing test base classes for browser testing. Cont
 - DEFAULT_TEST_EMAIL — constant defaulting to jleechantest@gmail.com
 
 ## Connections
-- Provides test infrastructure for [worldarchitect](worldarchitect.md) browser tests
+- Provides test infrastructure for [worldarchitect](WorldArchitect.md) browser tests

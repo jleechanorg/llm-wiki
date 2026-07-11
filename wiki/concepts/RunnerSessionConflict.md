@@ -63,4 +63,4 @@ Required minimum for health claims: (2). For "runners are healthy overall" claim
 - [[VerifyBeforeUpstreamClaim]] — verify before reporting (extends to runner health claims)
 
 ## Source
-- [Runner session conflict (2026-06-28)](sources/feedback-2026-06-28-runner-session-conflict.md) — first observed on org-runner-mac-6 (runner ID 111582); surfaced after PR #7851/#8026/#8027 runner-fleet hardening
+- [Runner session conflict (2026-06-28)](../sources/feedback-2026-06-28-runner-session-conflict.md) — first observed on org-runner-mac-6 (runner ID 111582); surfaced after PR #7851/#8026/#8027 runner-fleet hardening

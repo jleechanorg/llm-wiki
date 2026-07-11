@@ -10,5 +10,5 @@ Testing module for UI testing functionality. Being refactored to remove duplicat
 
 ## Related Entities
 - [TestingUtils](TestingUtils.md) — canonical module
-- [TestingMcp](TestingMcp.md) — sibling consumer module
+- [TestingMcp](TestingMCP.md) — sibling consumer module
 - [BD5762](BD5762.md) — refactoring ticket

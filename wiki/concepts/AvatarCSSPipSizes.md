@@ -20,5 +20,5 @@ Pips are small circular indicators that show:
 The test suite validates that `avatar.css` contains the correct pip size definitions to ensure visual consistency across the avatar selection interface.
 
 ## Connections
-- [WorldArchitect.AI](../entities/WorldArchitect.AI.md) — Uses pip-based UI for character creation
+- [WorldArchitect.AI](../entities/worldarchitect.ai.md) — Uses pip-based UI for character creation
 - [[CSS Design System]] — System that defines pip sizing

@@ -6105,7 +6105,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [StagingWorktree](entities/StagingWorktree.md) — OpenClaw staging pipeline worktree for deployment testing
 - [StagingBranch](entities/StagingBranch.md) — OpenClaw staging branch for canary deployments
 - [RewardsBoxBuilder](entities/RewardsBoxBuilder.md) — mvp_site/rewards/builder.py; normalize_rewards_box_for_ui with has_visible_content sentinel; affected by PR #6193 and #6195
-- [Austin Wang](entities/AustinWang.md) — Co-creator of [CMUX](entities/CMUX.md), native Swift/AppKit terminal for AI-agent workflows
+- [Austin Wang](entities/AustinWang.md) — Co-creator of [CMUX](entities/cmux.md), native Swift/AppKit terminal for AI-agent workflows
 - [Shadow](entities/Shadow.md) — Lvl 3 Rogue player character with HP 22/28, XP 2500/6000, 75gp — referenced in think mode tests
 - [Aegon Targaryen](entities/AegonTargaryen.md) — Player character, secret Targaryen heir, Level 5 Gloomstalker, Mountain's Men mercenary
 - [Boudica](entities/Boudica.md) — Player character, Queen of the Iceni, Level 6 Warlock/Bard, Roman Britain rebellion
@@ -6396,7 +6396,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [Soul-Tithe Ritual](concepts/SoulTitheRitual.md) — Cassalanter infernal ritual to harvest noble souls for Zariel, hijacked by Nocturne
 - [70% Rule (Pax Julia)](concepts/SeventyPercentRule.md) — Julian family dominance of 70% of Rome in Gaia Julia V2
 - [Psionic Miasma](concepts/PsionicMiasma.md) — Gaia Julia V3's psionic Sorcerer/Bard Gestalt with Miasma visuals
-- [Gloom Stalker Ranger](concepts/GloomStalkerRanger.md) — XGtE Ranger subclass, Dread Ambusher, Umbral Sight
+- [Gloom Stalker Ranger](concepts/GloomstalkerRanger.md) — XGtE Ranger subclass, Dread Ambusher, Umbral Sight
 - [College of Swords Bard](concepts/CollegeOfSwordsBard.md) — XGtE Bard subclass, blade flourishes using Bardic Inspiration
 - [Vampire Spawn](concepts/VampireSpawn.md) — BG3 undead type, Sunlight Sensitivity, Bite, Spawn abilities
 - [Destiny Core Rules](concepts/DestinyCoreRules.md) — Custom TTRPG system, Aptitudes, Personality Traits
@@ -6784,7 +6784,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [DiceIntegrity](concepts/DiceIntegrity.md) — Anti-fabrication: LLM requests rolls, sandbox resolves them
 - [TokenBudget](entities/TokenBudget.md) — 5-component min-first/fill-to-max token allocation
 - [FactionSystem](concepts/FactionSystem.md) — 12 living world factions with autonomous ticks
-- [FastEmbed](entities/FastEmbed.md) — BAAI/bge-small-en-v1.5 semantic router (384-dim, <50ms)
+- [FastEmbed](entities/Fastembed.md) — BAAI/bge-small-en-v1.5 semantic router (384-dim, <50ms)
 
 ## Concepts (Architecture)
 
@@ -7037,7 +7037,7 @@ Jeffrey Chan (jleechan) entity wiki — built from 56K Claude Code user messages
 - [WORLDAI_TEST_CACHE activation contract + PR #7901 (2026-06-24)](sources/feedback-2026-06-24-worldai-test-cache-never-activated-root-cause.md) — multi-gate `enabled()` requires each gate satisfied by startup path; `WORLDAI_IS_SERVER_PROCESS` alone insufficient; fix: `env.setdefault("WORLDAI_TEST_CACHE","read_write")` in `start_local_mcp_server()`; `_temp_env` beats `mock.patch.dict` for env-flag tests; bead rev-7uj75
 - [Runtime activation claim required (2026-06-24)](sources/feedback-2026-06-24-runtime-activation-claim-required.md) — "X is working" claims need runtime probe output from standard harness startup path, NOT launchd/cron env that forces the activation var; generalizes the cache failure to FastEmbed, embed LRU, warmup, BQ probes; skill at `~/.claude/skills/runtime-activation-claim/`
 - [No blocking claim-verifier hook (2026-06-24)](sources/feedback-2026-06-24-no-blocking-claim-verifier-hook.md) — /advice verdict (Opus high + research medium confidence): don't ship blocking PreToolUse hook that scans claim phrases; FPR 10-30% on broad regex; 4-layer fix is durable; ship advisory via `additionalContext` modeled on `smart_fake_code_detection.sh` only if pattern recurs after 1 week
-- [Probe too clean self-correction (2026-06-24)](sources/feedback-2026-06-24-probe-too-clean-self-correction.md) — third class of false-claim (env stripped too aggressively); standalone probe v1 reported `enabled=False` because it stripped what `start_local_mcp_server()` would have set; contract test disagreed; fixed by mirroring harness env explicitly; lesson: a probe must apply the standard harness env, not inherit parent and not strip
+- Probe too clean self-correction (2026-06-24) — third class of false-claim (env stripped too aggressively); standalone probe v1 reported `enabled=False` because it stripped what `start_local_mcp_server()` would have set; contract test disagreed; fixed by mirroring harness env explicitly; lesson: a probe must apply the standard harness env, not inherit parent and not strip. No standalone source page has been ingested yet.
 - [/e slash command now encodes cost-aware model routing (2026-06-27)](sources/project-2026-06-27-e-command-cost-aware-model-selection.md) — PR #7974 added MODEL SELECTION to .claude_reference/commands/e.md (Haiku/Sonnet/Codex Spark/GPT-medium/Cerebras/Gemini Flash/GLM-5.1 default; Opus/GPT-large only when cheaper tiers demonstrably fail); both repo and ~/.claude copies in sync at f692d2184f
 - [App Management TCC dialog on cmux DEV launch (2026-06-28)](sources/feedback-2026-06-28-app-management-tcc-prompt.md) — Tagged cmux DEV builds trigger "X would like to access data from other apps" because two `NSRunningApplication` enumeration sites (`MacPresenceMonitor.liveScreensaverRunning` + `AppDelegate.enforceSingleInstance`) hit App Management TCC, and `/tmp/cmux-last-cli-path` pointed at evictable DerivedData. Three-step fix: passive screensaver notifications, remove enumeration at launch, install tagged builds to `/Applications/cmux DEV <tag>.app/`. Merged in cmux PR #9 (2026-06-28T19:17:55Z).
 - [macOS screensaver notification API gotchas (2026-06-28)](sources/feedback-2026-06-28-screensaver-notification-api.md) — `NSWorkspace` has NO `screensaverDidStartNotification`/`screensaverDidStopNotification` members; screensaver daemon posts Darwin distributed notifications `com.apple.screensaver.didstart`/`didstop` on `DistributedNotificationCenter` (renamed from `NSDistributedNotificationCenter` in current macOS SDKs). Default to false at launch — acceptable missed-push trade-off vs triggering App Management TCC.
