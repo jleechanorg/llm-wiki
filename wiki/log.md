@@ -6495,3 +6495,6 @@ Entity: [[BrCLI]]
 Concept: [[BrLegacyUserConfigOverlay]], [[BrNoAutoFlushDrift]]
 Bead: jleechan-zlaw
 Jeffrey oracle: NO
+
+## [2026-07-10] ingest | Mergeability drift + CodeRabbit rate-limit cosmetic success
+Source: sources/feedback-2026-07-10-mergeability-drift-and-coderabbit-ratelimit.md — PR #8268/#8310 same-author collision, CR cosmetic success, swarm 5-proposal refutation. /green Gate-2 fresh-reverify rule encoded across 6 harness files.
