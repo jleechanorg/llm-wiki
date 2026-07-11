@@ -3,6 +3,7 @@
 This file is maintained by the LLM. Updated on every ingest.
 
 ## Overview
+- [Nextsteps — worldarchitect.ai fleet /green+/er drive (2026-07-11)](sources/nextsteps-2026-07-11-fleet-green-er-drive.md) — 41-PR fleet review: 7 ready-for-merge, 15 blocked only on stale CodeRabbit review, 15 hands-off-automation, 4 CI-fix/rebase. Real bug found in #8292 (god-mode adjuster silently defeated an E2E test); #8195's Green Gate false-negative bug deduped against a sibling PR already on main. Same-day mission-tracking drift across 3 overlapping trackers. Concepts: [[GreenGateWorkflow]], [[CodeRabbitStaleLineRefs]], [[SevenGreenQueue]]. Entity: [[WorldArchitectAI]]. Beads: rev-xnciq, rev-f9msb.
 - [Claude Code dual-profile setup (claudewa) — CLAUDE_CONFIG_DIR, ToS, backup (2026-07-06)](sources/feedback-2026-07-06-claude-wa-dual-profile-setup.md) — Separate OAuth for personal vs WA; symlink projects/tooling; mutually exclusive repos; backup claude-wa/. Concept: [[ClaudeCodeDualProfile]]. Bead: jleechan-skk.
 - [ezgha fleet incident recap — watchdog, hard reset, isolation, queue (2026-07-07)](sources/feedback-2026-07-07-ezgha-fleet-incident-recap.md) — Consolidated 2026-07-06/07 fleet hardening failures: systemd WatchdogSec SIGABRT vs external timer, hard-reset wedge on offline+busy GH runners, Mac Colima minimum_isolation=container, queue saturation ≠ crashes. Commits aabd822/045cd66/1f3948f. Entity: [[EzGhaDaemon]].
 - [Overview](overview.md) — living synthesis across all sources

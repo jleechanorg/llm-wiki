@@ -6499,3 +6499,5 @@ Jeffrey oracle: NO
 ## [2026-07-10] ingest | Mergeability drift + CodeRabbit rate-limit cosmetic success
 Source: sources/feedback-2026-07-10-mergeability-drift-and-coderabbit-ratelimit.md — PR #8268/#8310 same-author collision, CR cosmetic success, swarm 5-proposal refutation. /green Gate-2 fresh-reverify rule encoded across 6 harness files.
 ## [2026-07-11] ingest | Sidekick default = in-session Agent-Team teammate, not external tmux
+Source: sources/nextsteps-2026-07-11-fleet-green-er-drive.md — 41-PR fleet review, 6 real bugs fixed (incl. genuine god-mode adjuster defect in #8292), CodeRabbit staleness dominant blocker class (15/41), mission-tracking drift across 3 overlapping trackers.
+Jeffrey oracle: NO
