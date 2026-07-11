@@ -13,7 +13,7 @@ The remote identity cutover is complete. The original TypeScript repository is n
 
 The canonical Mac and Linux checkout paths and remotes are updated. Existing services stayed available through old-path symlink bridges. Those bridges are compatibility controls, not duplicate repositories, and must be removed only after their long-running consumers restart from canonical paths.
 
-Generic `ao` remains the TypeScript CLI. `ao-go` is the Go binary. Repointing generic `ao` is explicitly deferred until the Go PR actions fail closed and every consumer has been classified.
+Generic `ao` remains the TypeScript CLI. Stable explicit launchers are available as `ao-ts` and `ao-go` on both Mac and Linux. Repointing generic `ao` is explicitly deferred until the Go PR actions fail closed and every consumer has been classified.
 
 ## Verified live state
 
@@ -22,8 +22,8 @@ Generic `ao` remains the TypeScript CLI. `ao-go` is the Go binary. Repointing ge
 | TypeScript GitHub | https://github.com/jleechanorg/agent-orchestrator-ts | Repository ID `1176698268`; reference migration PR https://github.com/jleechanorg/agent-orchestrator-ts/pull/757 |
 | Go GitHub | https://github.com/jleechanorg/agent-orchestrator | Repository ID `1183912784`; fork parent preserved |
 | Mac TypeScript | `/Users/jleechan/project_agento/agent-orchestrator-ts` | Dashboard launchd PID `94609`; `http://127.0.0.1:3020/` returned HTTP 200 with 14,440 bytes |
-| Mac Go | `/Users/jleechan/projects/agent-orchestrator` | Go AO launchd implementation and real evidence are at https://github.com/jleechanorg/jleechanclaw/pull/756, head `ddb7a2e1d9e22589028e98a366da1aa72dede462` |
-| Linux TypeScript | `/home/jleechan/project_agento/agent-orchestrator-ts` | `ao-orchestrator.service` active with PID `3446`, unchanged since 2026-07-10 12:39:22 PDT |
+| Mac Go | `/Users/jleechan/projects/agent-orchestrator` | Go AO launchd implementation and real evidence are at https://github.com/jleechanorg/jleechanclaw/pull/756; live REST state on 2026-07-10 20:26 PDT was open, non-draft, mergeable/clean at `37005244644ab4783aec070e4e4a1a6d696cf877` |
+| Linux TypeScript | `/home/jleechan/project_agento/agent-orchestrator-ts` | `ao-orchestrator.service` active with PID `3446`, unchanged since 2026-07-10 12:39:22 PDT; `/home/jleechan/.local/bin/ao-ts --version` returned `0.1.3` |
 | Linux Go | `/home/jleechan/projects/agent-orchestrator` | Canonical checkout migrated; legacy `ao-daemon.service` PID `3461` intentionally still executes the separately tracked `agent-orchestrator-golang` checkout |
 
 Unrelated dirty files and untracked files in all source checkouts were preserved. Linked git worktrees were repaired after each move.
@@ -47,7 +47,7 @@ Current-source inspection showed that Go tracker intake is wired; the contrary `
 
 ## Remaining closeout
 
-1. Move https://github.com/jleechanorg/jleechanclaw/pull/756 out of draft after the owning GitHub account's GraphQL quota resets, obtain CodeRabbit and skeptic review at the current head, and merge only after the repository's normal gates pass.
+1. Re-query https://github.com/jleechanorg/jleechanclaw/pull/756 through REST before acting; it was already open and non-draft at head `37005244644ab4783aec070e4e4a1a6d696cf877` when last verified. Obtain CodeRabbit and skeptic review at whatever head is current, and merge only after the repository's normal gates pass.
 2. Install the combined tracked LaunchAgent from the stable canonical `jleechanclaw` checkout after that reviewed change lands. Keep the existing `llm_wiki` exporters loaded until the new label is verified, then retire only the two explicitly superseded labels. This is the remaining deployment step for `roadmap`.
 3. Restart the Mac dashboard and Linux TypeScript daemon from canonical paths only during controlled supervisor handoffs, verify health immediately, then remove their TypeScript bridges.
 4. Merge repository-reference PR https://github.com/jleechanorg/agent-orchestrator-ts/pull/757 only after its normal review gates pass. No merge was performed during this cutover.

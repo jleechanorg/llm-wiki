@@ -62,7 +62,7 @@ GitHub normally redirects repository URLs and Git transports after a rename, but
 
 ### Parallel work that must not be disrupted
 
-- `jleechanclaw` draft PR 756 is implementing the daily launchd export through Go AO session `jleechanclaw-755-2`.
+- At design time, `jleechanclaw` PR 756 was a draft implementing the daily launchd export through Go AO session `jleechanclaw-755-2`; operators must query its live head/state before acting. It was open and non-draft at `37005244644ab4783aec070e4e4a1a6d696cf877` when re-verified on 2026-07-10.
 - The TypeScript checkout currently has an unrelated uncommitted edit in `packages/cli/src/commands/skeptic/gh-client.ts`.
 - No local directory move may occur until the owning process has checkpointed and the exact dirty-file hashes are recorded.
 
