@@ -1,0 +1,3 @@
+# SQLite runtime sidecars are recreated from the tracked database.
+beads.db-wal
+beads.db-shm
