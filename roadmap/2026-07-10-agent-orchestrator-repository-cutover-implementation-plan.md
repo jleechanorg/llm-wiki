@@ -102,7 +102,8 @@ bead: jleechan-lgm
 - Produces: new Linux canonical paths with active services preserved.
 
 - [x] Confirm `agent-orchestrator-golang` identity and exclude it from every mutation.
-- [x] Apply the same one-checkout-at-a-time move, bridge, remote update, repair, verification, and bridge removal protocol over `ssh jeff-ubuntu`.
+- [x] Apply the one-checkout-at-a-time move, bridge, remote update, worktree repair, and verification protocol over `ssh jeff-ubuntu`.
+- [ ] Remove the temporary bridge after a controlled supervisor handoff, then verify the bridge is absent and both services are healthy.
 - [x] Run `systemctl --user daemon-reload` only after unit files are correct; do not restart healthy units unless required.
 - [x] Verify unit active state, launcher identity, and recent service logs before removing bridges.
 
