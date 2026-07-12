@@ -6510,3 +6510,4 @@ Source: sources/nextsteps-2026-07-12-fleet-crash-recovery.md — Post-session-cr
 Jeffrey oracle: NO
 ## [2026-07-11] ingest | agy auth is durable in macOS Keychain; never recommend interactive login before verifying
 ## [2026-07-11] ingest | Verify auth state with two probes before recommending re-login
+## [2026-07-12] ingest | Thin-skill-command migration learnings (6 sources)
