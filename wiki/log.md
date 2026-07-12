@@ -6501,3 +6501,12 @@ Source: sources/feedback-2026-07-10-mergeability-drift-and-coderabbit-ratelimit.
 ## [2026-07-11] ingest | Sidekick default = in-session Agent-Team teammate, not external tmux
 Source: sources/nextsteps-2026-07-11-fleet-green-er-drive.md — 41-PR fleet review, 6 real bugs fixed (incl. genuine god-mode adjuster defect in #8292), CodeRabbit staleness dominant blocker class (15/41), mission-tracking drift across 3 overlapping trackers.
 Jeffrey oracle: NO
+
+## [2026-07-11] ingest | Cheaper-model delegation for WorldArchitect PR repair
+Source: sources/project-2026-07-11-cheaper-model-delegation-pr-repair.md — Luna/Terra authors plus gpt-5.4 reviewers across five directive-persistence PR lanes. Route by task shape, require exact-head review, and separate external evidence latency from author cost.
+Bead: rev-5wr93
+Jeffrey oracle: NO
+Source: sources/nextsteps-2026-07-12-fleet-crash-recovery.md — Post-session-crash respawn of the worldarchitect.ai fleet drive; in-session teammate durability tradeoff exercised; 6 PRs merged by human directly, 33 OPEN with systemic CR staleness confirmed.
+Jeffrey oracle: NO
+## [2026-07-11] ingest | agy auth is durable in macOS Keychain; never recommend interactive login before verifying
+## [2026-07-11] ingest | Verify auth state with two probes before recommending re-login
