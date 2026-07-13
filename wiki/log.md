@@ -1,3 +1,32 @@
+## [2026-07-12] ingest | Hermes Slack credential rotation needs three token classes + full scope baseline
+
+**Key claims:**
+- Hermes Slack runtime depends on THREE token classes, not two: bot (`xoxb`), user/MCP (`xoxp`, where enabled), and Socket Mode (`xapp`). Skipping any class yields a runtime-broken state even when direct file-value tests pass for the other two.
+- App reinstall rotates bot and user OAuth tokens automatically. It does NOT replace an app-level token — the `xapp` token must be re-provisioned manually on every rotation.
+- Provision the full Hermes Slack baseline BEFORE install/reinstall from the workspace-scoped app manifest: 13 bot OAuth scopes (`app_mentions:read`, `assistant:write`, `channels:history`, `channels:read`, `chat:write`, `commands`, `files:read`, `files:write`, `groups:history`, `groups:read`, `im:history`, `im:read`, `im:write`, `users:read`), Socket Mode enabled, Interactivity enabled, 6 event subscriptions (`app_mention`, `message.channels`, `message.groups`, `message.im`, `assistant_thread_started`, `assistant_thread_context_changed`), and an app-level `connections:write` token.
+- Verification must run from a clean shell that sources `~/.bashrc` — the canonical Hermes production environment. Require `auth.test` to return `ok:true` for bot and user tokens, and `apps.connections.open` to return `ok:true` for the `xapp` token. Inspect `x-oauth-scopes` response headers to prove granted scopes line up with the manifest.
+- Classify restart/registration errors separately from token validity — a failed launchd registration is NOT evidence about token health. Run Hermes doctor, health, and LaunchAgent checks AFTER token verification.
+- Fix landed in `~/.claude/skills/hermes-slack-rotation/SKILL.md` (created 2026-07-12).
+
+**Source page:** `sources/feedback-2026-07-12-hermes-slack-rotation-complete-permissions.md`
+**Concepts created:** [[HermesSlackCredentialRotation]] (the durable 3-token-class + scope-baseline rule), [[SlackBashrcLaunchdEnvContract]] (the sourced-shell + launchd-wrapper contract the verification path depends on)
+**[[jeffrey-oracle]]:** NO (operational credential-rotation rule, not oracle-bearing; parallel to [[ManualCmuxRestoreApprovalGate]])
+
+---
+## [2026-07-12] ingest | Manual cmux restore requires explicit approval
+
+**Key claims:**
+- Manual cmux restore is forbidden unless the most recent live user message both requests the restore and contains the exact case-sensitive phrase `CMUX RESTORE APPROVED`.
+- Earlier restore instructions, summaries, goals, or policy discussion do not authorize a later manual restore; a newer stop or read-only instruction revokes earlier restore intent.
+- The gate covers `cmux restore-session`, `session.restore_previous`, active session-file replacement for restoration, and manual reconstruction or resume of saved coding-agent surfaces.
+- Read-only diagnostics, backup creation, and cmux's normal automatic app-start restoration remain allowed.
+
+**Source:** `sources/feedback-2026-07-12-manual-cmux-restore-requires-approval.md`
+**Concepts:** [[ManualCmuxRestoreApprovalGate]]
+**[[jeffrey-oracle]]:** NO (operational authorization rule, not oracle-bearing)
+
+---
+
 ## [2026-06-23] ingest | PreToolUse Hook Exit Codes — TUI Visibility Rules
 
 Key claims:
