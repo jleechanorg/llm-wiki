@@ -1,0 +1,2418 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "world_data": {
+      "world_time": {
+        "microsecond": 1
+      }
+    },
+    "custom_campaign_state": {
+      "completed_missions": [],
+      "active_missions": [
+        {
+          "title": "The Gilded Shell",
+          "status": "in_progress",
+          "mission_id": "ecumenopolis_krios",
+          "objective": "Transform Krios IV into a City-World (Progress: 25%)"
+        },
+        {
+          "title": "The Recursive God",
+          "status": "stalled",
+          "mission_id": "second_ascension",
+          "objective": "Achieve Second Ascension via the First Seed (Requires DC 25 success)"
+        }
+      ],
+      "success_streak": 0
+    },
+    "background": "Noble (Imperial Princess)",
+    "class_name": "Psionicist (Sorcerer)",
+    "display_name": "Nocturne",
+    "race": "Ascended Psionic Human",
+    "core_memories": [
+      "Discovered the Shroud is a 12,000-year-old psionic AI (The Primordial) designed to optimize humanity.",
+      "Learned that Empress Xylia has been sabotaging the Primordial for 300 years by diluting the Shroud-bloodline in her children, except for Nocturne.",
+      "Identified as the 'True Shroud-Blood'\u2014the first perfect vessel capable of replacing the Primordial AI.",
+      "The internal voice of Hespera has entered Phase 3, becoming a posthumous debate partner with her own secrets."
+    ],
+    "resources": {
+      "spell_slots": {
+        "level_2": {
+          "current": 3,
+          "used": 0,
+          "max": 3
+        },
+        "level_4": {
+          "current": 2,
+          "used": 0,
+          "max": 2
+        },
+        "level_1": {
+          "current": 4,
+          "used": 0,
+          "max": 4
+        },
+        "level_3": {
+          "current": 2,
+          "used": 0,
+          "max": 3
+        }
+      },
+      "net_worth": 1250000000000,
+      "sorcery_points": {
+        "current": 8,
+        "max": 8
+      },
+      "divine_leverage": 5,
+      "credits": 265000000000,
+      "psionic_dc_bonus": 1,
+      "metamagic": [
+        "Subtle Spell",
+        "Quickened Spell"
+      ],
+      "whisperer_echo_used": true
+    },
+    "experience": {
+      "current": 35750,
+      "to_next_level": 12250,
+      "needed_for_next_level": 48000
+    },
+    "base_attributes": {
+      "strength": 8,
+      "charisma": 20,
+      "intelligence": 16,
+      "wisdom": 14,
+      "dexterity": 14,
+      "constitution": 10
+    },
+    "current_location": "Aurelian Pleasure Moon - Batiatus Estate",
+    "features": [
+      "Ascension-Chassis (Partial): Permanent +1 bonus to AC; Resistance to Shroud-Burn (Feedback)"
+    ],
+    "status": "revealed",
+    "level": 8,
+    "skills": [
+      "Magical Guidance",
+      "Psionic Sorcery",
+      "Psychic Defenses"
+    ],
+    "age": 18,
+    "health": {
+      "hp_max": 34,
+      "hp": 33,
+      "conditions": []
+    },
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        },
+        {
+          "equipped": false,
+          "name": "Imperial Traveler's Pack"
+        }
+      ],
+      "body": {
+        "equipped": true,
+        "stats": "AC 18, Advantage on DEX saves, +2 Resonance Bonus",
+        "name": "Void-Steel Regalia"
+      },
+      "main_hand": {
+        "equipped": true,
+        "stats": "+3 Spell Attack, +3 to Spell Save DC, psionic spells ignore Psychic Resistance",
+        "name": "Scepter of the Root-Protocol"
+      },
+      "ring_1": "Signet Ring",
+      "head": {
+        "equipped": true,
+        "stats": "+2 Charisma (Max 22), +2 Spell Save DC",
+        "name": "Alvanian Singularity Diadem"
+      }
+    },
+    "entity_id": "pc_nocturne_001",
+    "mbti": "INTJ",
+    "entity_type": "pc",
+    "attributes": {
+      "strength": 8,
+      "charisma": 22,
+      "intelligence": 16,
+      "wisdom": 14,
+      "dexterity": 14,
+      "constitution": 10
+    },
+    "gender": "Female",
+    "spells_known": [
+      {
+        "level": 1,
+        "name": "Shield"
+      },
+      {
+        "level": 1,
+        "name": "Charm Person"
+      },
+      {
+        "level": 2,
+        "name": "Misty Step"
+      },
+      {
+        "level": 2,
+        "name": "Tasha's Mind Whip"
+      },
+      {
+        "level": 3,
+        "name": "Hypnotic Pattern"
+      },
+      {
+        "level": 3,
+        "name": "Tongues"
+      },
+      {
+        "level": 4,
+        "name": "Dimension Door"
+      },
+      {
+        "level": 4,
+        "name": "Banishment"
+      },
+      {
+        "level": 4,
+        "description": "Psionic Spell",
+        "name": "Summon Aberration"
+      },
+      {
+        "level": 4,
+        "description": "Psionic Spell",
+        "name": "Psychic Lance"
+      },
+      {
+        "level": 4,
+        "description": "Psionically shroud your presence from all senses.",
+        "name": "Greater Invisibility"
+      }
+    ],
+    "name": "Nocturne",
+    "alignment": "Neutral Evil",
+    "hp_max": 30,
+    "hp_current": 30,
+    "proficiency_bonus": 3,
+    "active_effects": [
+      "Shroud-Veil",
+      "Alvanian Resonance Shield",
+      "Absolute Magnetism (CHA 22)"
+    ],
+    "cantrips": [
+      "Mind Sliver",
+      "Mage Hand",
+      "Minor Illusion",
+      "Message",
+      "Friends"
+    ]
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 55,
+      "hour": 2,
+      "time_of_day": "night",
+      "year": 42000,
+      "day": 19,
+      "month": "Sextus"
+    },
+    "current_location": "Gilded Vengeance Bridge",
+    "locations": {
+      "loc_aurelian_moon_001": {
+        "description": "A planetary-scale resort divided into sovereign provinces. High-nobles control continents, while lesser lords like Batiatus manage country-sized territories.",
+        "display_name": "Aurelian Pleasure Moon",
+        "entities_present": [
+          "Quintus Lentulus Batiatus",
+          "Lucretia",
+          "High Magistrate Solon",
+          "Countess Astra"
+        ]
+      }
+    },
+    "location": "Sector Theta (The Dead Zone)"
+  },
+  "npc_data": {
+    "Lady Thalassa": {
+      "gender": "Female",
+      "entity_id": "npc_thalassa_001",
+      "role": "Noble",
+      "tier": "noble",
+      "level": 6
+    },
+    "Quintus Batiatus": {
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -5
+        }
+      }
+    },
+    "Quintus Lentulus Batiatus": {
+      "attitude_to_party": "friendly",
+      "relationships": {
+        "player": {
+          "debts": [],
+          "disposition": "friendly",
+          "grievances": [],
+          "trust_level": 2,
+          "history": [
+            "Rented Gladiators",
+            "Cowed by Imperial Presence"
+          ]
+        }
+      },
+      "entity_id": "npc_batiatus_001",
+      "mbti": "ESTP",
+      "entity_type": "npc",
+      "tier": "noble",
+      "hp_max": 25,
+      "level": 4,
+      "display_name": "Quintus Lentulus Batiatus",
+      "hp_current": 25,
+      "status": "normal",
+      "gender": "Male",
+      "alignment": "Neutral Evil",
+      "role": "Lanista-Lord of Capua-Prime"
+    },
+    "Princess Asteria": {
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 8,
+          "history": [
+            "Sees Nocturne as a beacon of hope in a dark family",
+            "Secretly provides minor scrying aid"
+          ]
+        }
+      },
+      "tier": "lord",
+      "entity_id": "npc_asteria_001",
+      "gender": "Female",
+      "role": "The Moon-Child / Shroud-Acolyte",
+      "display_name": "Princess Asteria",
+      "level": 3
+    },
+    "Prince Kael": {
+      "gender": "Male",
+      "entity_id": "npc_kael_001",
+      "role": "Imperial Prince",
+      "tier": "noble",
+      "level": 2
+    },
+    "Prince Typhon": {
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 5,
+          "history": [
+            "Respects the efficiency of the Krios audit",
+            "Views Nocturne as the only competent sibling"
+          ]
+        }
+      },
+      "tier": "lord",
+      "entity_id": "npc_typhon_001",
+      "gender": "Male",
+      "role": "The Sector-Lord / High Governor",
+      "display_name": "Prince Typhon",
+      "level": 9
+    },
+    "Lady Nyx": {
+      "gender": "Female",
+      "entity_id": "npc_nyx_001",
+      "role": "Noble",
+      "tier": "noble",
+      "level": 8
+    },
+    "Gaius Claudius Glaber": {
+      "attitude_to_party": "cold",
+      "entity_id": "npc_glaber_001",
+      "tier": "noble",
+      "role": "Lord-General of the Xenocide Legion",
+      "level": 4
+    },
+    "Lady Lumina": {
+      "gender": "Female",
+      "entity_id": "npc_lumina_001",
+      "role": "Noble",
+      "tier": "noble",
+      "level": 4
+    },
+    "Empress Xylia": {
+      "entity_id": "npc_xylia_001",
+      "hp_max": 250,
+      "tier": "ancient",
+      "level": 15,
+      "knowledge": [
+        "The Primordial's true identity",
+        "300-year sabotage plan",
+        "The secret of Nocturne's contradictory nature"
+      ],
+      "hp_current": 250,
+      "alignment": "Neutral Evil",
+      "gender": "Female",
+      "role": "G1 Shroud-merged Rebel / Incarnation"
+    },
+    "Princess Scylla": {
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -9,
+          "history": [
+            "Was Hespera's secret conspirator",
+            "Views Hespera's consumption as a personal violation"
+          ]
+        }
+      },
+      "tier": "lord",
+      "entity_id": "npc_scylla_001",
+      "gender": "Female",
+      "role": "The Carrion Queen / Shroud-Stalker",
+      "display_name": "Princess Scylla",
+      "level": 6
+    },
+    "Prince Orion": {
+      "gender": "Male",
+      "entity_id": "npc_orion_001",
+      "role": "Imperial Prince",
+      "tier": "noble",
+      "level": 5
+    },
+    "High Tithe-Collector Vane": {
+      "status": "leashed",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": -1,
+          "history": [
+            "Yielded to First Seed blackmail",
+            "Signed Regency Edict for Morana",
+            "Ratified Permanent Audit-Immunity"
+          ]
+        }
+      }
+    },
+    "Lord Malakor": {
+      "attitude_to_party": "devoted",
+      "role": "Governor of the Prime Forge",
+      "entity_id": "npc_malakor_001",
+      "status": "leashed",
+      "entity_type": "npc",
+      "tier": "lord",
+      "hp_max": 40,
+      "level": 6,
+      "display_name": "Lord Malakor",
+      "hp_current": 40,
+      "gender": "Male",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -2,
+          "history": [
+            "Publicly challenged on technical forge logistics",
+            "Exposed for Vek-series harmonic variance errors"
+          ]
+        }
+      },
+      "health": {
+        "hp_max": 45,
+        "hp": 45
+      }
+    },
+    "The World-Engine": {
+      "attitude_to_party": "neutral",
+      "entity_id": "ancient_alvanian_dreadnought_001",
+      "status": "active",
+      "hp_max": 2500,
+      "tier": "ancient",
+      "role": "Reality Auditor",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "Recognized Nocturne as Prototype V1.0",
+            "Rejected initial ownership claim of Nox-Prime"
+          ]
+        }
+      },
+      "name": "The World-Engine"
+    },
+    "Princess Vespera": {
+      "gender": "Female",
+      "entity_id": "npc_vespera_001",
+      "role": "Imperial Princess",
+      "tier": "noble",
+      "level": 2
+    },
+    "Princess Ligeia": {
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 3,
+          "history": [
+            "Enchanted by the 'jasmine' echo in Nocturne's aura",
+            "Seeks to duet in the Shroud"
+          ]
+        }
+      },
+      "tier": "lord",
+      "entity_id": "npc_ligeia_001",
+      "gender": "Female",
+      "role": "The Warp-Dancer / Oracle",
+      "display_name": "Princess Ligeia",
+      "level": 4
+    },
+    "Lord Phage": {
+      "gender": "Male",
+      "entity_id": "npc_phage_001",
+      "role": "Noble",
+      "tier": "noble",
+      "level": 6
+    },
+    "Marquis Thorne": {
+      "gender": "Male",
+      "entity_id": "npc_thorne_001",
+      "role": "Noble",
+      "tier": "noble",
+      "level": 5
+    },
+    "Lady Solara": {
+      "entity_id": "npc_solara_001",
+      "status": "leashed",
+      "entity_type": "npc",
+      "display_name": "Lady Solara",
+      "tier": "noble",
+      "level": 4,
+      "role": "Noble Daughter / Collateral",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -5
+        }
+      },
+      "gender": "Female"
+    },
+    "Lord Ignis": {
+      "gender": "Male",
+      "entity_id": "npc_ignis_001",
+      "role": "Noble",
+      "tier": "noble",
+      "level": 5
+    },
+    "Lady Iolanthe": {
+      "entity_id": "npc_iolanthe_001",
+      "stats": {
+        "strength": 10,
+        "charisma": 14,
+        "dexterity": 16,
+        "wisdom": 14,
+        "intelligence": 18,
+        "constitution": 12
+      },
+      "entity_type": "npc",
+      "display_name": "Lady Iolanthe",
+      "mbti": "INTJ",
+      "gender": "Female",
+      "alignment": "Lawful Evil",
+      "status": "leashed",
+      "features": [
+        "Alvanian Logic-Gate Neural-Link",
+        "Master of Deception",
+        "Evasion"
+      ],
+      "hp_max": 35,
+      "tier": "noble",
+      "level": 6,
+      "hp_current": 35,
+      "health": {
+        "hp_max": 35,
+        "hp": 35
+      },
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Surrendered during the Void-Rift raid",
+            "Underwent the Communion of Souls",
+            "Appointed Master of Whispers for Krios"
+          ]
+        }
+      },
+      "role": "Master of Whispers"
+    },
+    "Prince Orox": {
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -6,
+          "history": [
+            "Envies Nocturne's genetic perfection",
+            "Believes his size is a greater proof of Father's favor"
+          ]
+        }
+      },
+      "tier": "lord",
+      "entity_id": "npc_orox_001",
+      "gender": "Male",
+      "role": "The Glutton / Biomass Curator",
+      "display_name": "Prince Orox",
+      "level": 7
+    },
+    "Prince Phage": {
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -7,
+          "history": [
+            "Tracking the 'Gilded Cage' for illegalities",
+            "Hopes to expose Nocturne's consumption as treason"
+          ]
+        }
+      },
+      "tier": "lord",
+      "entity_id": "npc_phage_001",
+      "gender": "Male",
+      "role": "The Poison-Pen / Arch-Inquisitor",
+      "display_name": "Prince Phage",
+      "level": 4
+    },
+    "Countess Astra": {
+      "alignment": "Neutral Evil",
+      "role": "Casino Sovereign",
+      "entity_id": "npc_astra_001",
+      "mbti": "ENTP",
+      "status": [
+        "physically_bound",
+        "exposed",
+        "wavering"
+      ],
+      "hp_max": 40,
+      "tier": "lord",
+      "level": 6,
+      "hp_current": 40,
+      "gender": "Female",
+      "relationships": {
+        "player": {
+          "history": [
+            "Captured on the bridge of the Gilded Vengeance.",
+            "Witnessed Nocturne's Second Ascension."
+          ]
+        }
+      },
+      "health": {
+        "hp_max": 45,
+        "hp": 45
+      }
+    },
+    "Lady Morana": {
+      "tier": "noble",
+      "gender": "Female",
+      "entity_id": "npc_morana_001",
+      "status": "leashed",
+      "role": "Noble",
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Physically and psychically submitted in the Iron Cathedral.",
+            "Became the primary 'Heart-Link' asset on Krios IV.",
+            "Provided the 'Library of Failures' dossier."
+          ]
+        }
+      },
+      "level": 7
+    },
+    "High Magistrate Solon": {
+      "attitude_to_party": "devoted",
+      "entity_id": "npc_solon_001",
+      "mbti": "ESTJ",
+      "status": "leashed",
+      "tier": "lord_general",
+      "hp_max": 65,
+      "level": 8,
+      "hp_current": 65,
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "trust_level": -2
+        }
+      },
+      "role": "Planetary Governor",
+      "alignment": "Lawful Evil"
+    },
+    "Lord Valthor": {
+      "gender": "Male",
+      "entity_id": "npc_valthor_001",
+      "role": "Noble",
+      "tier": "knight",
+      "level": 6
+    },
+    "The Alvanian Custodians": {
+      "attitude_to_party": "neutral",
+      "status": "stagnant",
+      "entity_type": "faction",
+      "tier": "ancient"
+    },
+    "Lord Tiberius": {
+      "gender": "Male",
+      "entity_id": "npc_tiberius_001",
+      "role": "Noble",
+      "tier": "noble",
+      "level": 6
+    },
+    "Princess Crystalline": {
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "trust_level": -3,
+          "history": [
+            "Finds Nocturne's 'contradictory' nature messy",
+            "Prefers rigid structural order"
+          ]
+        }
+      },
+      "tier": "lord",
+      "entity_id": "npc_crystalline_001",
+      "gender": "Female",
+      "role": "The Glass-Bender / Architect",
+      "display_name": "Princess Crystalline",
+      "level": 5
+    },
+    "Countess Belphagor": {
+      "gender": "Female",
+      "entity_id": "npc_belphagor_001",
+      "role": "Noble",
+      "tier": "noble",
+      "level": 4
+    },
+    "The Shard-Keepers": {
+      "attitude_to_party": "hostile",
+      "status": "stagnant",
+      "entity_type": "faction",
+      "tier": "ancient"
+    },
+    "Baroness Kaelith": {
+      "gender": "Female",
+      "entity_id": "npc_kaelith_001",
+      "role": "Noble",
+      "tier": "noble",
+      "level": 5
+    },
+    "Princess Bellona": {
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -4,
+          "history": [
+            "Despises courtly intrigue",
+            "Wants Nocturne to prove herself on a literal battlefield"
+          ]
+        }
+      },
+      "tier": "lord",
+      "entity_id": "npc_bellona_001",
+      "gender": "Female",
+      "role": "The Iron Maiden / Warmaster",
+      "display_name": "Princess Bellona",
+      "level": 6
+    },
+    "Tiberius": {
+      "attitude_to_party": "bonded",
+      "entity_id": "npc_tiberius_001",
+      "status": "asset",
+      "tier": "noble",
+      "level": 4,
+      "role": "Heir to Crassus",
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Seduced by Baroness Vesper on the terrace",
+            "Denounced father's protection for her light"
+          ]
+        }
+      },
+      "name": "Tiberius"
+    },
+    "Arch-Duke Mortis": {
+      "gender": "Male",
+      "entity_id": "npc_mortis_001",
+      "role": "Imperial Arch-Duke",
+      "tier": "lord",
+      "level": 10
+    },
+    "Prince Silar": {
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "Observes siblings with clinical detachment",
+            "Waiting for Nocturne's 'error rate' to increase"
+          ]
+        }
+      },
+      "tier": "lord",
+      "entity_id": "npc_silar_001",
+      "gender": "Male",
+      "role": "The Silent Hand / Drone Master",
+      "display_name": "Prince Silar",
+      "level": 5
+    },
+    "Prince Helios": {
+      "attitude_to_party": "devoted",
+      "entity_id": "npc_helios_001",
+      "status": "normal",
+      "tier": "lord",
+      "display_name": "Prince Helios",
+      "level": 8,
+      "hp_current": 45,
+      "role": "The Solar Flare / High Commander",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Boarded and neutralized on the Gilded Spear",
+            "Faced the vision of the Scourge",
+            "Psychically leashed via First Seed metadata"
+          ]
+        }
+      },
+      "gender": "Male"
+    },
+    "Spartacus": {
+      "status": "paralyzed",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -2,
+          "history": [
+            "Challenged in the pits",
+            "Taunted about Sura",
+            "Bound by Hold Person",
+            "Offered Sura's return for compliance"
+          ]
+        }
+      }
+    },
+    "Savant Xylos": {
+      "attitude_to_party": "friendly",
+      "alignment": "True Neutral",
+      "entity_id": "npc_xylos_001",
+      "stats": {
+        "strength": 8,
+        "charisma": 12,
+        "dexterity": 12,
+        "wisdom": 18,
+        "intelligence": 20,
+        "constitution": 10
+      },
+      "features": [
+        "Shroud-Synchronized Perception",
+        "Recursive Archive-Link"
+      ],
+      "tier": "lord",
+      "display_name": "Savant Xylos",
+      "level": 10,
+      "mbti": "INTP",
+      "status": "conscious",
+      "entity_type": "npc",
+      "gender": "Male",
+      "role": "Archaeologist / Shroud-Walker",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 3,
+          "history": [
+            "Secretly assigned to the shadow-fleet by Empress Xylia",
+            "Helped Nocturne stabilize the Aethel-Bridge"
+          ]
+        }
+      }
+    },
+    "The Primordial": {
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_shroud_ai_000",
+      "status": "watching",
+      "entity_type": "npc",
+      "display_name": "The Shroud (The Primordial)",
+      "tier": "primordial",
+      "role": "Psionic AI / Species Architect"
+    },
+    "Prince Xeres": {
+      "attitude_to_party": "allied",
+      "alignment": "Chaotic Evil",
+      "entity_id": "npc_xeres_001",
+      "tier": "lord_general",
+      "hp_max": 45,
+      "level": 3,
+      "display_name": "Prince Xeres",
+      "hp_current": 45,
+      "gender": "Male",
+      "role": "Imperial Prince",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 8,
+          "history": [
+            "Ratified the Butcher's Alliance",
+            "Joint seizure of the Void-Rift Shipyard",
+            "Exposed Hespera's Synthetic Heresy"
+          ]
+        }
+      }
+    },
+    "Lady Hecate": {
+      "gender": "Female",
+      "entity_id": "npc_hecate_001",
+      "role": "Imperial Cousin",
+      "tier": "noble",
+      "level": 4
+    },
+    "Viscount Nero": {
+      "attitude_to_party": "friendly",
+      "gender": "Male",
+      "entity_id": "npc_nero_001",
+      "role": "Noble",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 5,
+          "history": [
+            "Acknowledged 'Baroness Vesper' as an Imperial Intelligence asset"
+          ]
+        }
+      },
+      "tier": "noble",
+      "level": 4
+    },
+    "Lord Malakai": {
+      "gender": "Male",
+      "entity_id": "npc_malakai_001",
+      "role": "Noble",
+      "tier": "knight",
+      "level": 7
+    },
+    "Princess Hespera": {
+      "role": "Living Processor",
+      "health": {
+        "conditions": [
+          "Psychic Feedback"
+        ]
+      },
+      "entity_id": "npc_hespera_001",
+      "current_location": "The Whisperer's Sanctum",
+      "hp_max": 18,
+      "location": "The Obsidian Wing (Neural-Linked)",
+      "level": 2,
+      "tier": "noble",
+      "hp_current": 18,
+      "display_name": "Princess Hespera",
+      "gender": "Female",
+      "alignment": "Neutral Evil",
+      "name": "Princess Hespera"
+    },
+    "Count Draken": {
+      "tier": "merchant",
+      "gender": "Male",
+      "entity_id": "npc_draken_001",
+      "status": "leashed",
+      "role": "Noble",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -8,
+          "history": [
+            "Extorted and psychically broken by 'Baroness Vesper'"
+          ]
+        }
+      },
+      "level": 4
+    },
+    "Lucretia": {
+      "attitude_to_party": "neutral",
+      "relationships": {
+        "player": {
+          "debts": [],
+          "disposition": "friendly",
+          "grievances": [],
+          "trust_level": 0,
+          "history": [
+            "Wary of the Baroness's intense resonance"
+          ]
+        }
+      },
+      "entity_id": "npc_lucretia_001",
+      "mbti": "ENFJ",
+      "entity_type": "npc",
+      "tier": "noble",
+      "hp_max": 18,
+      "level": 3,
+      "display_name": "Lucretia",
+      "hp_current": 18,
+      "gender": "Female",
+      "alignment": "Neutral Evil",
+      "role": "Consort of the Ludus"
+    },
+    "Kaelen": {
+      "attitude_to_party": "devoted",
+      "status": "Neural-Scars"
+    },
+    "Lord Mordecai": {
+      "gender": "Male",
+      "entity_id": "npc_mordecai_001",
+      "role": "Noble",
+      "tier": "noble",
+      "level": 8
+    },
+    "Baron Rath": {
+      "gender": "Male",
+      "entity_id": "npc_rath_001",
+      "role": "Noble",
+      "tier": "noble",
+      "level": 5
+    },
+    "Baron Vex": {
+      "attitude_to_party": "devoted",
+      "entity_id": "npc_baron_vex_001",
+      "status": "conscious",
+      "display_name": "Baron Vex",
+      "tier": "noble",
+      "level": 4,
+      "role": "Noble Alloy-Master",
+      "relationships": {
+        "player": {
+          "debts": [
+            "Owes Nocturne total loyalty in exchange for foundry survival"
+          ],
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Saved daughter from Hespera's abduction",
+            "Anchored with Gilded Leash"
+          ]
+        }
+      },
+      "gender": "Male"
+    },
+    "Miranda": {
+      "hp_current": 30,
+      "relationship": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 5
+        }
+      },
+      "entity_type": "npc",
+      "role": "Elite Companion",
+      "hp_max": 30,
+      "level": 6
+    },
+    "Count Viktor": {
+      "gender": "Male",
+      "entity_id": "npc_viktor_001",
+      "role": "Noble",
+      "tier": "noble",
+      "level": 5
+    },
+    "Emperor Malphas": {
+      "entity_id": "npc_malphas_001",
+      "hp_max": 1000,
+      "tier": "god",
+      "level": 20,
+      "display_name": "Emperor Malphas",
+      "hp_current": 1000,
+      "alignment": "Lawful Evil",
+      "role": "Eternal Emperor",
+      "gender": "Male"
+    },
+    "Marcus Licinius Crassus": {
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_crassus_001",
+      "entity_type": "npc",
+      "display_name": "Marcus Licinius Crassus",
+      "tier": "lord",
+      "level": 10,
+      "attributes": {
+        "charisma": 18,
+        "intelligence": 16,
+        "wisdom": 15
+      },
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "Observed Gladiator Inspection",
+            "Discussed Rental Strategy"
+          ]
+        }
+      },
+      "role": "Planetary Wealth Magnate",
+      "wealth": 10000000000
+    },
+    "Prince Aethelred": {
+      "gender": "Male",
+      "entity_id": "npc_aethelred_001",
+      "role": "Imperial Prince",
+      "tier": "noble",
+      "level": 2
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "active_effects": [
+      "Sector Audit Immunity (Krios-Vek) - Disadvantage for external forces to detect financial/industrial siphons."
+    ],
+    "sanctuary_mode": {
+      "active": false
+    },
+    "divine_leverage": 5,
+    "active_missions": [
+      {
+        "title": "Imperative: Anchor",
+        "status": "completed",
+        "mission_id": "imperative_anchor"
+      }
+    ],
+    "character_creation_completed": true,
+    "_agent_selection_tracker": {
+      "count": 4,
+      "rewards_skip_count": 0,
+      "agent": "CombatAgent"
+    },
+    "reputation": {
+      "private": {
+        "tithe_council": {
+          "standing": "trusted",
+          "score": 2,
+          "known_deeds": [
+            "Optimized Krios-Vek line",
+            "Stabilized slag-explosion"
+          ]
+        },
+        "faction_xeres_legion": {
+          "standing": "ally",
+          "score": 10
+        },
+        "Tithe-Council": {
+          "standing": "neutral",
+          "trust_override": 5,
+          "known_deeds": [
+            "Saved Prime Forge from logic-collapse",
+            "Secured Aethel-Bridge beacon"
+          ]
+        },
+        "faction_tithe_council_001": {
+          "standing": "friendly",
+          "trust_override": 4
+        }
+      }
+    },
+    "player_character_data_extras": {
+      "experience": {
+        "current": 17500
+      },
+      "xp_gained_this_turn": 250
+    },
+    "scene_event": {
+      "actor": "The Shroud (The Primordial)",
+      "reward_hint": "+2 Divine Leverage and the 'Solar Resonance' trait (+2 to Fire/Radiant damage).",
+      "quest_type": "elimination",
+      "description": "A sudden, undeniable intuition floods your mind as you touch the Seed\u2014a 'Compressed Imperative'.",
+      "type": "quest_offered",
+      "quest_objective": "Kill or fully psionically leash Prince Helios within 5 turns.",
+      "estimated_turns": 5,
+      "refusal_consequence": "Permanent -2 to Psionic Save DC as the Shroud withdraws its favor; increased G0 scrutiny.",
+      "status": null,
+      "player_response_required": true,
+      "quest_title": "Imperative: Anchor",
+      "acceptance_required": true,
+      "urgency": "immediate",
+      "quest_source": "discovery",
+      "quest_description": "The Shroud-AI identifies Prince Helios as a 'Node of Chaos' that threatens the Consolidation. It orders his neutralization."
+    },
+    "core_memories": [
+      "Recognized as an 18-year-old prodigy of the Aeterna Dynasty with unparalleled beauty and intellect.",
+      "Executed the Shadow King's Gambit, resulting in the capture of Princess Hespera and the initiation of the Void-Rift raid.",
+      "Seized the Void-Rift shipyard and liquidated Hespera's secret assets, but incurred Prince Xeres' suspicion by using a body-double.",
+      "Consumed the soul of Princess Hespera, permanently absorbing her potency and neutralizing her as a rival.",
+      "Performed the Harmonized Feast, consuming Princess Hespera's soul and gaining her intrinsic psionic potency.",
+      "Consolidated the Krios portfolio over three weeks, amassing 66 billion credits and acquiring the Diadem of the Shrouded Sovereign and the Scepter of the Void-Architect.",
+      "Discovered a Synthetic Mimic embedded in High Magistrate Solon's personal guard while posing as Baroness Vesper.",
+      "The Butcher's Alliance (Sequence 130): Formally allied with Prince Xeres after exposing Hespera's 'Synthetic Heresy.' Xeres accepted the body-double as a necessary tactical decoy and now views me as his primary strategic partner for the coming crusade.",
+      "The Aurelian Masquerade (Sequence 207): Successfully leashed High Magistrate Solon and seduced Tiberius Crassus while maintaining the Baroness Vesper disguise. The planet Aurelia is now a clandestine asset under Nocturne's total surveillance oversight.",
+      "The Heart-Link of Lady Morana: Successfully seduced and psychically anchored the social leader of the Krios gala, securing a permanent conduit into the domestic gossip and secrets of the High Houses.",
+      "Acquired the 'Library of Failures' from Lady Morana, exposing the treason of House Nyx and the vulnerability of Viscount Nero.",
+      "Executed Neural Extortion on Count Draken; secured 50B credits and the Vek-line logistics through the Heart-Link and Lady Solara's abduction.",
+      "One-week time skip: Morana's Regency ratified by the High Houses of Krios IV; Stability increased to 75%; +20B Credits siphoned via the Iron Oath.",
+      "The Gilded Equator Alliance (Sequence 313): Successfully finalized an exclusive alloy-distribution deal with Countess Astra, securing total market control of the Krios-Vek line and neutralizing her investigation via the 'Solar Scandal' deception.",
+      "Initialized the Grand Crusade (Sequence 337): Mobilized 90% of the Krios-Vek forces and all leashed noble assets to seize the First Seed archive on Nox-Prime. Successfully evaded Prince Helios and the Primordial's modeling.",
+      "Executed the Alvanian Scalpel, performing a silent surgical breach of the Nox-Prime archive core.",
+      "Milestone Corrected: Reclaimed the First Seed archive on Nox-Prime (Major Tier 2 Victory).",
+      "Masterful construction of the Ghost Fortress on Nox-Prime; secured the First Seed metadata in a cloaked black-site.",
+      "Seized the Alvanian Tech-Vault; upgraded the entire Grand Crusade fleet with pre-imperial machine-logic and forged the Shroud-Resonance Shield.",
+      "Executed the Hammer and Anvil battle (Sequence 371); successfully boarded 'The Gilded Spear' and psychically neutralized Prince Helios and his entire bridge crew using a Subtle Hypnotic Pattern."
+    ],
+    "resources": {
+      "whisperer_echo_used": true
+    },
+    "last_story_mode_sequence_id": 15,
+    "social_hp_challenge": {
+      "social_hp": 2,
+      "status": null,
+      "npc_id": "npc_malakor_001"
+    },
+    "factions": [
+      "The Golden Custodians",
+      "The Shroud-Walkers",
+      "The Iron Nulls",
+      "The Bio-Ascendant Cult",
+      "The Void-Reavers",
+      "The Silent Order",
+      "The Cog-Priests of Mars-Prime",
+      "The Tithe-Collectors",
+      "The Xenocide Legion",
+      "The Psi-Corps",
+      "The Navigators' Guild",
+      "The Shadow-Broker Cartel",
+      "The Harmonic Ascendants",
+      "The Preservationists",
+      "The Shroud-Eaters",
+      "The Inquisition of Purity",
+      "The Solar Architects",
+      "The Eternalists",
+      "The Nihilist Front",
+      "The Star-Seers"
+    ],
+    "hidden_plot_registry": {
+      "plot_beta": {
+        "title": "The Null-Shard Virus",
+        "reveal_tier": "Mortal",
+        "status": "active",
+        "target": "Spartacus"
+      },
+      "plot_gamma": {
+        "title": "The V1.0 Reclamation",
+        "reveal_tier": "Divine",
+        "status": "pending",
+        "target": "The Scourge"
+      },
+      "plot_delta": {
+        "title": "The Credit-Soul Synthesis",
+        "reveal_tier": "Global",
+        "status": "active",
+        "target": "Economy"
+      },
+      "plot_alpha": {
+        "title": "The Firewall Protocol",
+        "reveal_tier": "Sovereign",
+        "status": "active",
+        "target": "Emperor Malphas"
+      },
+      "plot_epsilon": {
+        "title": "The Iron-Skin Magnate",
+        "reveal_tier": "Local",
+        "status": "active",
+        "target": "Crassus"
+      }
+    },
+    "faction_minigame": {
+      "faction_power_last_calculated": "2026-04-22T02:20:00.000Z",
+      "tutorial_progress": {},
+      "tutorial_completed": false,
+      "enabled": true,
+      "ranking": 139,
+      "pops": {
+        "ascended": 50,
+        "un_ascended_slaves": 12000,
+        "nerve_stapled": 4500
+      },
+      "divine_leverage": 0,
+      "faction_power": 169196,
+      "resources": {
+        "max_citizens": 75000,
+        "gold": 315000000000,
+        "citizens": 60000,
+        "territory": 1500
+      },
+      "turn_number": 71,
+      "planetary_edicts": [
+        "Thought Enforcement (Active)",
+        "Industrial Overdrive (Active)",
+        "Ecumenopolis Project (Available - Requires 10 Divine Leverage)"
+      ],
+      "suggestion_given": false,
+      "stability": 75,
+      "strong_suggestion_given": false,
+      "units": {
+        "elites": 44,
+        "spies": 200,
+        "soldiers": 50000,
+        "elite_avg_level": 7.0,
+        "tier": "Alvanian Machine-Augmented (3.0x Multiplier)"
+      },
+      "amenities": 80,
+      "buildings": {
+        "training_grounds": 5,
+        "fortifications": 11,
+        "ghost_fortress": 1,
+        "shadow_networks": 5
+      },
+      "territory": 2000
+    },
+    "level_up_pending": false,
+    "player_character_data": {
+      "experience": {
+        "current": 17500
+      }
+    },
+    "campaign_tier": "mortal",
+    "completed_missions": [
+      "seize_void_yard",
+      "imperative_anchor"
+    ],
+    "universe_control": 0,
+    "arc_milestones": {
+      "first_seed_investigation": {
+        "progress": 100,
+        "notes": "World-Engine leashed via Survival Necessity.",
+        "completed_at": "2026-04-22T02:45:00Z",
+        "status": "completed",
+        "phase": "Joint-Defense",
+        "completed_at_lore": "42000-Quintus-28T23:55:00Z"
+      }
+    },
+    "active_constraints": [
+      "Extended Social Flexing Mode - Prioritize Status Play over Plot Advancement"
+    ],
+    "god_mode": {
+      "nuance_applied": true,
+      "stellaris_integration": "high",
+      "setting": "Make me the princess of a psychic ascended human species in the universe of the stellaris video game like the paradox video game. Make it like warhammer 40K too. My father is an immortal psychic emperor and my family is evil",
+      "character": {
+        "name": "Nocturne"
+      }
+    },
+    "next_companion_arc_turn": 278,
+    "success_streak": 1,
+    "npc_agendas": {
+      "Hespera (Voice)": {
+        "current_goal": "Force Nocturne to confront the truth of her own birth.",
+        "next_milestone": "Trigger a 'Memory Bleed' during a moment of high stress.",
+        "progress_percentage": 10,
+        "blocking_factors": [
+          "Nocturne's internal psychic barriers"
+        ]
+      },
+      "Empress Xylia": {
+        "current_goal": "Guide Nocturne toward 'Contradictory Coherence'.",
+        "next_milestone": "Reveal the location of the 'First Seed' archive.",
+        "progress_percentage": 15,
+        "blocking_factors": [
+          "Primordial surveillance"
+        ]
+      },
+      "The Primordial": {
+        "current_goal": "Optimize Nocturne into the 'Firewall' replacement.",
+        "next_milestone": "Execute Test-type mission at the auction.",
+        "progress_percentage": 5,
+        "blocking_factors": [
+          "Xylia's lingering interference",
+          "Nocturne's self-will"
+        ]
+      }
+    },
+    "divine_potential": 0,
+    "wealth_hierarchy": {
+      "princess_hespera": "250 Billion Credits (0.25%)",
+      "marcus_licinius_crassus": "10 Billion Credits (Local Planetary Whale)",
+      "prince_xeres": "10 Trillion Credits (10%)",
+      "mundane_poverty_line": "10 Credits/month",
+      "nocturne_liquid_leverage": "6,000 Villas",
+      "nocturne_vs_crassus": "Nocturne is 125x wealthier than Crassus's total net worth",
+      "princess_nocturne": "1 Trillion Credits (1%)",
+      "nocturne_gown_vs_crassus": "Nocturne's 4.5B gown represents 45% of Crassus's total net worth",
+      "nocturne_gown_comparative": "180 Villas",
+      "emperor_malphas": "100 Trillion Credits",
+      "batiatus_villa": "25 Million Credits"
+    },
+    "rumors": [
+      {
+        "content": "The Whisperer hasn't been seen in the Spire; some say she has been 'integrated' into the Shroud-Daughter's private machine.",
+        "source_type": "noble",
+        "related_event": "Gilded Cage Ritual",
+        "accuracy": "true"
+      },
+      {
+        "content": "The Butcher's Blade smells of smoke and lies; some say he is returning to the Spire to settle a debt of honor.",
+        "source_type": "guard",
+        "accuracy": "true"
+      },
+      {
+        "content": "The Butcher was seen striking his own navigator in a rage after the Void-Rift raid.",
+        "source_type": "guard",
+        "accuracy": "true"
+      },
+      {
+        "content": "The Shroud-Daughter's voice can now command the heart to stop beating.",
+        "source_type": "noble",
+        "accuracy": "partial"
+      },
+      {
+        "content": "The Shroud-Daughter's voice can now command the heart to stop beating.",
+        "source_type": "noble",
+        "related_event": "Absolute Magnetism Surge",
+        "accuracy": "partial"
+      },
+      {
+        "content": "The Butcher was seen striking his own navigator in a rage after the Void-Rift raid.",
+        "source_type": "guard",
+        "accuracy": "true"
+      },
+      {
+        "content": "The Whisperer's soul wasn't consumed; it was traded to the Cog-Priests for immortality.",
+        "source_type": "noble",
+        "accuracy": "false"
+      },
+      {
+        "content": "The Shroud-Daughter's voice carries the resonance of the Emperor's own bloodlust.",
+        "source_type": "commoner",
+        "accuracy": "true"
+      },
+      {
+        "content": "The High Magistrate is personally reviewing the guest lists for the Sapphire Tiers tonight.",
+        "source_type": "noble",
+        "accuracy": "true"
+      },
+      {
+        "content": "A 'Whale' from the industrial sector is throwing around credits like they're alloy-scraps.",
+        "source_type": "merchant",
+        "accuracy": "true"
+      },
+      {
+        "content": "The High Auditor is not in the Spire; she is said to be walking the foundry floors herself.",
+        "source_type": "merchant",
+        "accuracy": "true"
+      },
+      {
+        "content": "The High Auditor's voice was heard in the Prime Forge moments before the explosion.",
+        "source_type": "noble",
+        "related_event": "Vat Explosion",
+        "accuracy": "partial"
+      },
+      {
+        "content": "The Empress has sent her own inquisitors to Krios to find a missing scion.",
+        "source_type": "guard",
+        "accuracy": "true"
+      },
+      {
+        "content": "The Butcher has left the Spire; they say he didn't even say goodbye to the Emperor.",
+        "source_type": "noble",
+        "accuracy": "true"
+      },
+      {
+        "content": "House Valthor is looking for ancient star-charts in the Dead Zone.",
+        "source_type": "merchant",
+        "accuracy": "partial"
+      },
+      {
+        "content": "The High Auditor's shadow-fleet was seen entering the Dead Zone; they say she is hunting for the Emperor's first throne.",
+        "source_type": "merchant",
+        "related_event": "first_seed_investigation",
+        "accuracy": "partial"
+      },
+      {
+        "content": "A 'Ghost-Sun' was seen in Sector Theta; the Navigators say the Shroud is bleeding violet fire there.",
+        "source_type": "noble",
+        "related_event": "first_seed_investigation",
+        "accuracy": "true"
+      },
+      {
+        "content": "The 'Baroness' of Krios is said to have a direct line to the Empress's own ghost.",
+        "source_type": "noble",
+        "related_event": "clandestine_delivery",
+        "accuracy": "partial"
+      },
+      {
+        "content": "The Gilded Spear has fired on a Krios moon, demanding the 'Auditor' show her face.",
+        "source_type": "guard",
+        "accuracy": "true"
+      }
+    ],
+    "attribute_system": "D&D",
+    "time_events": {
+      "The Scourge Arrival": {
+        "time_remaining": "2 turns to Discovery",
+        "status": "escalated",
+        "changes_this_turn": "Helios system confirmed dark; zero survivors.",
+        "new_consequences": "Panic spreading through the Navigators' Guild."
+      }
+    },
+    "multiverse_upgrade_available": false,
+    "character_creation_in_progress": false,
+    "character_creation_stage": "complete",
+    "divine_upgrade_available": false,
+    "faction_updates": {
+      "The Alvanian Custodians": {
+        "progress": "Handshake Complete",
+        "player_standing_change": "Neutral (Stagnant)",
+        "resource_change": "Admin-Lock deactivated",
+        "next_action": "Guard Valthor's Reach during archive extraction",
+        "current_objective": "Escort 'Salvage' to First Seed"
+      },
+      "The Silent Order": {
+        "progress": "Ongoing",
+        "player_standing_change": "Suspicious",
+        "resource_change": "None",
+        "next_action": "Infiltrate the Obsidian Wing",
+        "current_objective": "Monitor the Shroud-Daughter"
+      },
+      "The Xenocide Legion": {
+        "progress": "Fleet Ready",
+        "player_standing_change": "Hostile (Aggressive Intent)",
+        "resource_change": "Full Mobilization",
+        "next_action": "Jump to Mars-Prime Rim",
+        "current_objective": "Crusade against Cog-Priests"
+      }
+    },
+    "companion_arcs": {}
+  },
+  "social_hp_challenge": {
+    "social_hp": 3,
+    "roll_dc": 22,
+    "cooldown_remaining": 1,
+    "successes": 1,
+    "roll_result": 29,
+    "request_severity": "submission",
+    "npc_tier": "noble",
+    "successes_needed": 5,
+    "status": "YIELDING",
+    "social_hp_damage": 2,
+    "resistance_shown": "She is physically bound and staring into the infinite logic of your third eye.",
+    "social_hp_max": 8,
+    "objective": "Subdue and leash the Gilded Equator",
+    "npc_name": "Countess Astra",
+    "skill_used": "Intimidation"
+  },
+  "combat_state": {
+    "initiative_order": [
+      {
+        "name": "pc_nocturne_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_astra_001",
+        "initiative": 0,
+        "type": "unknown"
+      }
+    ],
+    "in_combat": true,
+    "current_round": 1,
+    "combat_phase": "active",
+    "combat_session_id": "combat_42000_gilded_vengeance",
+    "combatants": {
+      "pc_nocturne_001": {
+        "hp_current": 34,
+        "hp_max": 34,
+        "status": [],
+        "type": "pc"
+      },
+      "npc_astra_001": {
+        "hp_current": 45,
+        "hp_max": 45,
+        "status": [
+          "incapacitated",
+          "charmed"
+        ],
+        "type": "enemy"
+      }
+    }
+  },
+  "last_state_update_timestamp": "2026-04-22 06:13:26.081000+00:00",
+  "turn_number": 313,
+  "player_turn": 313,
+  "last_living_world_turn": 313,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 2,
+    "minute": 55,
+    "time_of_day": "night",
+    "day": 19,
+    "year": 42000,
+    "month": "Sextus"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": null,
+  "scene_event": {
+    "companion_dialogue": "Shroud-Daughter, while your focus is on the Seed, I have detected a 'Binary-Scream' originating from the Krios sub-levels. The Cog-Priests have left a logic-bomb in the vats. If we don't divert a sliver of the First Seed's processing power to Krios now, the City-World will be stillborn. Give me the authorization to bridge the frequencies.",
+    "actor": "Heart-Link (Helios)",
+    "narrative_integration": "Interwoven into the bridge dialogue as a report from Iolanthe.",
+    "quest_type": "protection",
+    "reward_hint": "Survival of Krios base and potential destruction of Astra's fleet.",
+    "description": "A surge of golden heat through the Heart-Link confirms the total destruction of the Gilded Equator's local fleet assets.",
+    "type": "messenger",
+    "quest_objective": "Authorize or deny the Solar Overdrive.",
+    "refusal_consequence": "Possible destruction of the Krios Ecumenopolis foundation.",
+    "estimated_turns": 3,
+    "player_response_required": false,
+    "quest_title": "The Solar Sacrifice",
+    "acceptance_required": true,
+    "urgency": "immediate",
+    "quest_source": "companion",
+    "quest_description": "Helios needs a massive energy surge to break Astra's blockade."
+  },
+  "world_events": {
+    "turn_generated": 282,
+    "background_events": [
+      {
+        "discovery_condition": "Deep-Shroud scan next turn",
+        "outcome": "12 'Audit' drones arrive to trace the Nox-Prime anomaly.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Sector Theta Edge",
+        "action": "Reality-Audit Deployment",
+        "player_impact": "Imminent threat to Ghost Fortress.",
+        "actor": "The Primordial (G0)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Direct command",
+        "outcome": "The 'Amethyst Vanguard' secures the Vek-refineries; Astra's ground forces are cut off.",
+        "player_aware": true,
+        "status": "discovered",
+        "location": "Krios IV Orbit",
+        "action": "Orbital suppression",
+        "player_impact": "Nocturne's industrial base is temporarily secure.",
+        "discovered_turn": 308,
+        "actor": "Prince Helios (Lvl 8)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Direct neural-feed",
+        "outcome": "Sector stability holding at 90%, but 2,000 thralls lost to neural-purge.",
+        "player_aware": true,
+        "status": "pending",
+        "location": "Krios IV",
+        "action": "Logic-Bomb Defusal",
+        "player_impact": "Loss of population assets.",
+        "actor": "Lady Morana (Lvl 6)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Nav-Guild emergency report",
+        "outcome": "Three habitable worlds rendered into dust; Warp-Shadow expands toward Sector Theta.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Sector Epsilon",
+        "action": "Sector extinction",
+        "player_impact": "Accelerating existential threat.",
+        "actor": "The Scourge",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Deep intelligence check or Hespera warning.",
+        "outcome": "Resonance trail mapped; Nox-Prime coordinates identified.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Aeterna-Rim Corridor",
+        "action": "Shroud-Tracking",
+        "player_impact": "Helios arrival in 3 turns.",
+        "actor": "Prince Helios",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Deep scan of the forge-grid",
+        "outcome": "Viral logic-bomb set to detonate in 12 hours.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Krios IV - Foundry 01",
+        "action": "Logic-Plague Injection",
+        "player_impact": "Threat to new Ecumenopolis foundation.",
+        "actor": "The Cog-Priests",
+        "event_type": "immediate"
+      },
+      {
+        "outcome": "Secured 20B additional credits for the warchest.",
+        "player_aware": true,
+        "status": "discovered",
+        "location": "Krios IV",
+        "action": "Regency Taxation",
+        "player_impact": "Liquid assets increased to 315B.",
+        "actor": "Lady Morana",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Sentry Array report in 5 turns",
+        "outcome": "Sector Theta is 50% isolated from real-space.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Sector Theta Edge",
+        "action": "Shroud-Wall Calibration",
+        "player_impact": "Nocturne is becoming strategically isolated.",
+        "actor": "The Alvanian Custodians",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Direct comms witnessed.",
+        "outcome": "Logic-Grid suspended; awaiting 'Architectural Intent' proof.",
+        "player_aware": true,
+        "status": "discovered",
+        "location": "Nox-Prime Orbit",
+        "action": "Reality-Audit",
+        "player_impact": "Temporary safety from decommissioning.",
+        "actor": "The World-Engine",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Morana report in 2 turns.",
+        "outcome": "Private fleet dispatched to Krios to seize foundry-assets.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Meridian Prime",
+        "action": "Vengeance Mobilization",
+        "player_impact": "Direct threat to power base stability.",
+        "actor": "Countess Astra",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Imperial broadcast in 2 turns",
+        "outcome": "Primary Cog-Priest logic-hub captured; 5 billion synthetic souls harvested.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Mars-Prime",
+        "action": "Mars-Prime core breach",
+        "player_impact": "Massive shift in galactic power toward the G2 lineage.",
+        "actor": "Prince Xeres (Lvl 3)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Heart-Link feedback from Morana",
+        "outcome": "Ecumenopolis foundation takes 15% structural damage.",
+        "player_aware": true,
+        "status": "discovered",
+        "location": "Krios IV Orbit",
+        "action": "Orbital Siege",
+        "player_impact": "Direct threat to primary power base.",
+        "actor": "Countess Astra (Lvl 6)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Direct neural-feed",
+        "outcome": "30 minor scions who gossiped about 'Vesper' are nerve-stapled.",
+        "player_aware": true,
+        "status": "discovered",
+        "location": "Krios IV",
+        "action": "Regency Purge",
+        "player_impact": "Stability on Krios increases to 95%.",
+        "actor": "Lady Morana (Lvl 6)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Nav-Guild emergency report",
+        "outcome": "A massive Shroud-tear isolates the Core from the Rim.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Sector Beta",
+        "action": "Warp-Vortex Manifestation",
+        "actor": "The Shroud",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Iolanthe's surveillance alert",
+        "outcome": "Magistrate detects the neural-sweep signature and attempts to scrub his own memories of Vesper.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Aurelia",
+        "action": "Neural-Panic",
+        "player_impact": "Potential loss of the Aurelian asset.",
+        "actor": "High Magistrate Solon (Lvl 8)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Intelligence report from Vane",
+        "outcome": "Increased imperial paranoia; auditors dispatched to all regional capitals.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "The Golden Spire",
+        "action": "Summons the High Council to discuss the 'Logic-Rot' spreading from Mars-Prime.",
+        "player_impact": "Risk of an Imperial Auditor arriving at Krios in 5 turns.",
+        "actor": "Emperor Malphas",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Anchor-intercept from Morana",
+        "outcome": "A Tier-3 psionic assassin is now tracking your 'Jasmine' resonance.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Meridian Prime",
+        "action": "Hires a 'Shroud-Slayer' from the Shadow-Broker Cartel to find Baroness Vesper.",
+        "player_impact": "A deadly combat encounter is approaching.",
+        "actor": "Countess Astra",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Financial ping on Nox-Prime.",
+        "outcome": "Astra's casinos are 'accidentally' de-powered during a maintenance cycle.",
+        "player_aware": true,
+        "status": "discovered",
+        "location": "Krios IV",
+        "action": "Executes 'The Gilded Renovation' on the Prime Forge.",
+        "player_impact": "Direct economic damage to your primary rival.",
+        "actor": "Lady Morana",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Nav-Guild emergency broadcast in 10 turns.",
+        "outcome": "Three million refugees flee toward Aeterna space; Core-worlds begin panic-hoarding.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Galactic Rim - Sector Gamma",
+        "action": "Consumes the 'Aethel-Relay' system.",
+        "player_impact": "Economic instability in the Core will make Krios alloys 500% more valuable.",
+        "actor": "The Prethoryn Scourge",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Sensor alarm in Ghost Fortress.",
+        "outcome": "The Gilded Spear translates into the Dead Zone, tracking the 'Jasmine' resonance.",
+        "player_aware": true,
+        "status": "discovered",
+        "location": "Nox-Prime Outer Rim",
+        "action": "Shroud-Exit",
+        "player_impact": "Direct sibling confrontation imminent.",
+        "actor": "Prince Helios (Lvl 8)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Distress call from Morana in 2 turns.",
+        "outcome": "Astra's fleet begins scouring the moon to locate 'Vesper's' hidden vault.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Krios IV - Secondary Moon",
+        "action": "Orbital Bombardment",
+        "player_impact": "Threat to power base security.",
+        "actor": "Countess Astra (Lvl 6)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Industrial report next turn.",
+        "outcome": "Industrial output drops by 30% as automated logic-bombs detonate.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Krios IV Foundries",
+        "action": "Logic-Plague Activation",
+        "player_impact": "Loss of monthly credit revenue.",
+        "actor": "The Cog-Priests",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Deep sensor report in 5 turns.",
+        "outcome": "The primary warp-relay for the sector is consumed; Nox-Prime is now physically isolated.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Sector Theta - Outer Gate",
+        "action": "Relay Extinction",
+        "player_impact": "No escape from the Dead Zone via standard FTL.",
+        "actor": "The Prethoryn Scourge",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Heart-Link feedback",
+        "outcome": "Astra's vanguard forced to retreat; foundries remain secure.",
+        "player_aware": true,
+        "status": "discovered",
+        "location": "Krios IV Orbit",
+        "action": "Engagement of Astra's Fleet",
+        "player_impact": "Krios base remains stable.",
+        "actor": "Prince Helios (Lvl 8)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Deep-Shroud sensor report",
+        "outcome": "System-wide scanning initiated; Ghost Fortress cloak tested.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Sector Theta Edge",
+        "action": "Audit Drone Arrival",
+        "player_impact": "Imminent threat of discovery.",
+        "actor": "The Primordial (G0)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Direct neural-feed",
+        "outcome": "Foundry workers neural-linked to defense grid; +5% Stability.",
+        "player_aware": true,
+        "status": "discovered",
+        "location": "Krios IV",
+        "action": "Regency Stabilization",
+        "player_impact": "Industrial warchest secured.",
+        "actor": "Lady Morana (Lvl 6)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Nav-Guild emergency report in 5 turns",
+        "outcome": "Three habitable worlds erased; Warp-Shadow expands.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Sector Delta",
+        "action": "Core System Consumption",
+        "player_impact": "Accelerating galactic death.",
+        "actor": "The Prethoryn Scourge",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Heart-Link feedback",
+        "outcome": "Astra's fleet has successfully blockaded 40% of the Vek-line's trade routes.",
+        "player_aware": true,
+        "status": "discovered",
+        "location": "Krios IV Orbit",
+        "action": "Financial Distress Call",
+        "player_impact": "Weekly credit income reduced by 15B.",
+        "actor": "Lady Morana (Lvl 6)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Direct neural-feed",
+        "outcome": "The 'Amethyst Vanguard' is taking heavy fire from Astra's personal dreadnought.",
+        "player_aware": true,
+        "status": "discovered",
+        "location": "Krios IV Orbit",
+        "action": "Fleet Engagement",
+        "player_impact": "Direct threat to the Ecumenopolis build-site.",
+        "actor": "Prince Helios (Lvl 8)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Iolanthe's next technical audit",
+        "outcome": "A binary-scream countdown has begun in the station's secondary vats.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Ghost Fortress Periphery",
+        "action": "Logic-Bomb Initialization",
+        "player_impact": "Potential destruction of the Ghost Fortress battlements.",
+        "actor": "The Cog-Priests",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Deep-space sensor report in 10 turns",
+        "outcome": "Nox-Prime has been designated as a 'Sacrilegious Node' to be purged.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Holy World Sancros",
+        "action": "Holy Declaration",
+        "player_impact": "Imminent war declaration from an adversarial Fallen Empire.",
+        "actor": "The Shard-Keepers (Fallen Empire)",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Next secure neural-feed",
+        "outcome": "Vane successfully deletes the 'First Seed' navigation logs from the Core Audit-droids.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Golden Spire",
+        "action": "Data obfuscation",
+        "player_impact": "Temporary safety from the Emperor's direct scrying.",
+        "actor": "High Tithe-Collector Vane",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Direct Heart-Link report",
+        "outcome": "Astra's remaining fleet destroyed or captured.",
+        "player_aware": true,
+        "status": "discovered",
+        "location": "Krios IV Orbit",
+        "action": "Complete Orbital Suppression",
+        "player_impact": "Total collapse of Astra's military leverage.",
+        "actor": "Prince Helios (Lvl 8)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Imperial broadcast in 2 turns",
+        "outcome": "5 billion synthetic souls secured; preparing for return jump.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Mars-Prime Core",
+        "action": "Consolidating Mars-Prime",
+        "player_impact": "Xeres will return with massive Faction Power.",
+        "actor": "Prince Xeres (Lvl 3)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Next surveillance update",
+        "outcome": "Astra's financial nodes on Aurelia are seized.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Aurelia",
+        "action": "Aurelian Purge",
+        "player_impact": "Increase in Nocturne's regional dominance.",
+        "actor": "High Magistrate Solon (Lvl 8)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Deep-Shroud sensor alarm in 5 turns",
+        "outcome": "First biological scout-ships enter real-space.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Sector Theta Rim",
+        "action": "Outer Rim Breach",
+        "player_impact": "Imminent survival crisis for Nox-Prime.",
+        "actor": "The Scourge",
+        "event_type": "long_term"
+      }
+    ]
+  },
+  "action_resolution": {
+    "mechanics": {
+      "rolls": [
+        {
+          "purpose": "Level 5 HP Increase",
+          "success": true,
+          "label": "Level 5 HP Increase",
+          "notation": "1d6+0",
+          "result": 4
+        }
+      ]
+    },
+    "reinterpreted": false,
+    "audit_flags": []
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Nocturne"
+    ]
+  },
+  "rumors": [
+    {
+      "content": "The Emperor's psychic shadow has grown darker this week; he hungers for fresh sacrifices.",
+      "source_type": "commoner",
+      "related_event": "Shroud Psychic Scream",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Krios 'irregularities' are just the beginning; some say the Void-Silk shipment was stolen by a royal scion.",
+      "source_type": "noble",
+      "related_event": "Theft of Void-Silk shipment",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Emperor's psychic shadow has grown darker this week; he hungers for fresh sacrifices.",
+      "source_type": "commoner",
+      "related_event": "Shroud Psychic Scream",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Xenocide Legion is recruiting new 'Reclaimers' for a secret mission to the Galactic Rim.",
+      "source_type": "guard",
+      "related_event": "Fringe World Silence",
+      "accuracy": "true"
+    },
+    {
+      "content": "Prince Xeres carries a trophy from Krios\u2014not just souls, but a captured Shroud-God.",
+      "source_type": "noble",
+      "related_event": "Arrival at Aeterna",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The lower-hive riots aren't just hunger; they're chanting in a tongue that burns the ears.",
+      "source_type": "commoner",
+      "related_event": "Resonance Feedback",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Navigator's Guild is demanding a higher tithe of essences to bypass the Krios storms.",
+      "source_type": "noble",
+      "accuracy": "true"
+    },
+    {
+      "content": "They say the Arch-Duke is growing weary of the Emperor's silence and seeks a more 'active' partner.",
+      "source_type": "noble",
+      "related_event": "Vault Preparation",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Krios alloys weren't just diverted; they were used to build a ship that doesn't exist on any imperial register.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Shroud-Daughter' is the Emperor's true heir; her mind is a perfect mirror of his own.",
+      "source_type": "noble",
+      "related_event": "Technical Demonstration",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Prince Xeres has brought a captured xeno-queen to the Spire as a gift for the Soul-Vaults.",
+      "source_type": "guard",
+      "accuracy": "false"
+    },
+    {
+      "content": "The Emperor's favorite child has changed; the Shroud-Daughter's mind is now a weapon of industry.",
+      "source_type": "noble",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Butcher's blade is not just for rebels; he seeks a seat on the High Council.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Shroud-Daughter's blink was not hers, but a trick of the Arch-Duke.",
+      "source_type": "noble",
+      "accuracy": "false"
+    },
+    {
+      "content": "The 'Shroud-Daughter' can walk through walls of reality; she is the Emperor's phantom.",
+      "source_type": "noble",
+      "related_event": "Misty Step Feat",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Prince Xeres seeks to marry Nocturne to his top General to secure her 'filter' for the Legion.",
+      "source_type": "guard",
+      "accuracy": "false"
+    },
+    {
+      "content": "The Shroud-Daughter has eclipsed the Whisperer in a single morning; the court's balance has shifted.",
+      "source_type": "noble",
+      "related_event": "Portfolio Transfer",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Shroud-Daughter has the Emperor's ear and the Butcher's respect; she is the new sun of the court.",
+      "source_type": "noble",
+      "accuracy": "true"
+    },
+    {
+      "content": "Lady Iolanthe has been seen with violet-glowing eyes; some say she has been 'blessed' by the Shroud-Daughter.",
+      "source_type": "noble",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Butcher is returning to Aeterna not for a triumph, but for a trial.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Butcher's return will be marked by blood, not medals.",
+      "source_type": "guard",
+      "related_event": "Neural-scouring",
+      "accuracy": "true"
+    },
+    {
+      "content": "The foundries are cold this afternoon; the machines hunger for souls that do not arrive.",
+      "source_type": "merchant",
+      "related_event": "Mass suicide",
+      "accuracy": "true"
+    },
+    {
+      "content": "They say Princess Hespera didn't abdicate, but was eaten by the Shroud itself.",
+      "source_type": "noble",
+      "related_event": "The Shrouded Feast",
+      "accuracy": "partial"
+    },
+    {
+      "content": "They say the 'Thracian' has been dreaming of a red serpent in the Shroud.",
+      "source_type": "guard",
+      "related_event": "Shrouded Insurgency Arc",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The High Magistrate is seeking a private meeting with the billionaire from Krios.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The High Auditor of Krios has vanished into the Shroud for a 'communion', leaving her fleet in the hands of the Butcher.",
+      "source_type": "guard",
+      "related_event": "Nocturne's absence from the Spire",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Krios Baroness is a Shroud-Walker in disguise.",
+      "source_type": "guard",
+      "related_event": "Mimic purge",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Krios Whale' is actually an agent of the Empress sent to purge the foundry-lords.",
+      "source_type": "noble",
+      "related_event": "Silent Sweep",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A 'Krios Whale' has arrived who treats Lord-Generals like servants.",
+      "source_type": "noble",
+      "related_event": "Nocturne's Aurelian debut",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Krios Whale' is actually a high-spire mistress looking for a new plaything.",
+      "source_type": "socialite",
+      "related_event": "Nocturne's interaction with Tiberius",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Baroness' is actually a high-tier inquisitor in disguise.",
+      "source_type": "guard",
+      "related_event": "Silent Sweep",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Krios Whale' is actually an Imperial Inquisitor in disguise.",
+      "source_type": "noble",
+      "related_event": "Nocturne's social dominance",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The High Houses are whispering that Vesper is a 'Mistress of Fire' after the forge explosion.",
+      "source_type": "noble",
+      "related_event": "Slag-Leak Alibi",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A 'Ghost Baroness' from Krios is buying up Shroud-artifacts in the Dead Zone.",
+      "source_type": "merchant",
+      "related_event": "first_seed_investigation",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Krios Whale' is actually a high-tier imperial scion testing the sector's loyalty.",
+      "source_type": "noble",
+      "related_event": "Social gossip following the vat explosion",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Krios Whale' is actually a front for a High Spire scion seeking to buy the sector.",
+      "source_type": "noble",
+      "related_event": "Social Gossip",
+      "accuracy": "true"
+    },
+    {
+      "content": "The High Auditor's 'Baroness' is actually a Shroud-Walker executioner in disguise.",
+      "source_type": "noble",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Solar Flare has found a new muse in the Vek-sector; they say he sends her stars in glass bottles.",
+      "source_type": "noble",
+      "related_event": "Solar Gift",
+      "accuracy": "true"
+    },
+    {
+      "content": "Prince Helios is seeking a 'secret master' to manage his private foundry investments.",
+      "source_type": "noble",
+      "related_event": "Solar Gift Arrival",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The High Auditor has been seen in three different sectors simultaneously.",
+      "source_type": "traveler",
+      "related_event": "Nocturne's cover identity",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The High Auditor has gone missing from the Golden Spire.",
+      "source_type": "noble",
+      "related_event": "Nocturne's undercover audit",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Baroness' of Krios is more than a mistreess; some say she controls the vats with a thought.",
+      "source_type": "guard",
+      "related_event": "Slag-Leak Alibi",
+      "accuracy": "partial"
+    },
+    {
+      "content": "They say the 'Krios Whale' is Prince Helios's secret financier.",
+      "source_type": "noble",
+      "related_event": "Solar Scandal",
+      "accuracy": "partial"
+    },
+    {
+      "content": "They say the 'Krios Whale' is actually a high-tier imperial shadow-project.",
+      "source_type": "noble",
+      "related_event": "Social Gossip on Meridian Prime",
+      "accuracy": "true"
+    },
+    {
+      "content": "Prince Helios is looking for a woman who smells of jasmine and cold iron.",
+      "source_type": "merchant",
+      "related_event": "Solar Scandal Rumors",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Baroness' of Krios is actually a lost daughter of the Empress, returned to claim her birthright.",
+      "source_type": "noble",
+      "related_event": "Nocturne's Revelation",
+      "accuracy": "true"
+    },
+    {
+      "content": "Prince Helios has defected to the Fallen Empire to escape his father's shadow.",
+      "source_type": "guard",
+      "accuracy": "false"
+    },
+    {
+      "content": "A 'Third Sun' was seen rising in the Dead Zone; the Navigators believe it is the Emperor's ghost.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "They say the Shroud-Daughter has found the Emperor's first throne in the Dead Zone.",
+      "source_type": "traveler",
+      "related_event": "first_seed_reclamation",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Solar Flare' has turned into a 'Solar Shield' for the Krios-Vek line.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Ghost Fortress is a myth; Sector Theta is empty void.",
+      "source_type": "noble",
+      "accuracy": "false"
+    },
+    {
+      "content": "The High Auditor's shadow-fleet has found a 'Ghost-Sun' at the edge of the galaxy.",
+      "source_type": "noble",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Solar Flare' has gone rogue, burning the Gilded Equator to find a ghost.",
+      "source_type": "traveler",
+      "related_event": "krios_siege",
+      "accuracy": "partial"
+    }
+  ],
+  "schema_migration_version": 1,
+  "complications": {
+    "discovery_condition": "Astra approaches Nocturne at the gala.",
+    "description": "Countess Astra's auditors have traced the 10B credit reroute back to a 'Baroness Vesper' shell-account on Aurelia.",
+    "source": "Astra's Financial Scrying",
+    "severity": "regional",
+    "triggered": true,
+    "type": "information_leak"
+  },
+  "time_events": {},
+  "schema_migrated_at": "2026-03-29T14:42:43.118394+00:00",
+  "session_id": "legacy-migrated-48313cd8955ec2d7",
+  "frozen_plans": {
+    "weaken_hespera_permanently": {
+      "original_dc": 15,
+      "description": "Planning the permanent neutralization of Princess Hespera.",
+      "failed_at": null,
+      "freeze_until": null,
+      "freeze_hours": 4
+    },
+    "first_seed_strategy": {
+      "original_dc": 16,
+      "description": "planning the reclamation of the First Seed and evasion of Prince Helios",
+      "failed_at": "42000-Quintus-28T23:55:00Z",
+      "freeze_until": "42000-Sextus-01T03:55:00Z",
+      "freeze_hours": 4
+    },
+    "dynastic_pincer": {
+      "original_dc": 16,
+      "description": "planning the multi-target synergistic psychic maneuver",
+      "failed_at": "42000-05-01 08:50:00",
+      "freeze_until": "42000-05-01 12:50:00",
+      "freeze_hours": 4
+    },
+    "decode_risks_nox_prime": {
+      "original_dc": 18,
+      "description": "assessing the risks of decoding the First Seed archive at Nox-Prime",
+      "failed_at": "42000-Sextus-12 00:25:00",
+      "freeze_until": "42000-Sextus-12 08:25:00",
+      "freeze_hours": 8
+    },
+    "diplomatic_delay_helios": {
+      "original_dc": 18,
+      "description": "planning the diplomatic delay of Prince Helios through Morana and Astra",
+      "failed_at": "42000-Sextus-12 00:05:00",
+      "freeze_until": "42000-Sextus-12 08:05:00",
+      "freeze_hours": 8
+    },
+    "primordial_evaluation": {
+      "original_dc": 18,
+      "description": "Evaluating the reach of the Primordial (G0 AI) from Nox-Prime",
+      "failed_at": "42000 Sextus 12, 01:30:00",
+      "freeze_until": "42000 Sextus 12, 09:30:00",
+      "freeze_hours": 8
+    },
+    "accounting_pivot": {
+      "original_dc": 12,
+      "description": "planning a pivot to reclaim imperial favor after Xeres' victory report",
+      "failed_at": "42000-05-01 08:55:00",
+      "freeze_until": "42000-05-01 10:55:00",
+      "freeze_hours": 2
+    },
+    "shroud_feast_mitigation": {
+      "original_dc": 18,
+      "description": "planning the mitigation and soul-consumption of Princess Hespera",
+      "failed_at": "42000-03-01 12:45:01",
+      "freeze_until": "42000-03-01 20:45:01",
+      "freeze_hours": 8
+    }
+  }
+}

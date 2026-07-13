@@ -1,0 +1,1800 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "class": "Abyss Knight",
+    "background": "Disgraced Noble / Mercenary Sergeant",
+    "attributes": {
+      "strength": 8,
+      "dexterity": 16,
+      "intelligence": 14,
+      "wisdom": 10,
+      "charisma": 22,
+      "constitution": 18
+    },
+    "race": "Human (Sosuke Lineage)",
+    "ac": 18,
+    "alignment": "Neutral Evil (Internal: Architect)",
+    "spells_known": [
+      {
+        "level": 1,
+        "name": "Command"
+      },
+      {
+        "level": 1,
+        "name": "Hex"
+      },
+      {
+        "level": 1,
+        "name": "Shield"
+      },
+      {
+        "level": 1,
+        "name": "Armor of Agathys"
+      },
+      {
+        "level": 1,
+        "name": "Hellish Rebuke"
+      },
+      {
+        "level": 2,
+        "name": "Hold Person"
+      },
+      {
+        "level": 2,
+        "name": "Misty Step"
+      },
+      {
+        "level": 2,
+        "name": "Darkness"
+      },
+      {
+        "level": 2,
+        "name": "Shadow Blade"
+      },
+      {
+        "level": 2,
+        "name": "Branding Smite"
+      },
+      {
+        "level": 3,
+        "name": "Counterspell"
+      },
+      {
+        "level": 3,
+        "name": "Hypnotic Pattern"
+      },
+      {
+        "level": 3,
+        "name": "Fear"
+      },
+      {
+        "level": 3,
+        "name": "Spirit Shroud"
+      },
+      {
+        "level": 3,
+        "name": "Revivify"
+      },
+      {
+        "level": 4,
+        "name": "Greater Invisibility"
+      },
+      {
+        "level": 4,
+        "name": "Dimension Door"
+      },
+      {
+        "level": 4,
+        "name": "Confusion"
+      },
+      {
+        "level": 4,
+        "name": "Shadow of Moil"
+      },
+      {
+        "level": 5,
+        "name": "Hold Monster"
+      },
+      {
+        "level": 5,
+        "name": "Steel Wind Strike"
+      }
+    ],
+    "resources": {
+      "spell_slots": {
+        "level_2": {
+          "current": 3,
+          "used": 0,
+          "max": 3
+        },
+        "level_4": {
+          "current": 3,
+          "used": 0,
+          "max": 3
+        },
+        "level_5": {
+          "current": 2,
+          "used": 0,
+          "max": 2
+        },
+        "level_1": {
+          "current": 4,
+          "used": 0,
+          "max": 4
+        },
+        "level_3": {
+          "current": 3,
+          "used": 0,
+          "max": 3
+        }
+      },
+      "gold": 10695,
+      "pool": {
+        "current": 90,
+        "max": 90
+      },
+      "dpp_max": 50,
+      "dpp": 30
+    },
+    "experience": {
+      "needed_for_next_level": 959950,
+      "progress_display": "559,950 / 600,000 (Sovereign Tier Rank 2)",
+      "current": 604950,
+      "to_next_level": 0
+    },
+    "name": "Aizen Vane",
+    "base_attributes": {
+      "strength": 8,
+      "dexterity": 16,
+      "intelligence": 14,
+      "wisdom": 10,
+      "charisma": 20,
+      "constitution": 18
+    },
+    "features": [
+      "Aura of Entropy (30 ft): Hostile creatures suffer -6 to saves.",
+      "Step of the Rose: Reaction teleport (30ft), half damage.",
+      "Aura of Iron Will (30 ft): Immune to Frightened/Charmed.",
+      "Improved Smite of the Void: +1d8 Necrotic damage on all hits.",
+      "Cleansing Touch: Action to end one spell (6/Long Rest).",
+      "Armor of the Rose: Reactive damage (6 Necrotic) when hit.",
+      "Sovereign Violation: The Host's Mandate (1/Long Rest) - Spend 2 DPP to force failed save.",
+      "Trophy: Tenth-Circle Counter-Logic - Advantage on Counterspell checks.",
+      "Avatar of the Shattered Rose: Obsidian form, 60ft flight, Dread Lord (30ft disadvantage), Final Audit (Power Word Kill 1/transformation).",
+      "War Caster: Advantage on concentration saves, spells for AOOs.",
+      "Boon of Spell Recall: 1/Long Rest cast any spell without a slot."
+    ],
+    "hp_max": 210,
+    "tool_proficiencies": [
+      "Thieves' Tools"
+    ],
+    "level": 20,
+    "hp_current": 210,
+    "skills": [
+      "Deception",
+      "Persuasion",
+      "Intimidation",
+      "Arcana",
+      "Insight",
+      "The Sovereign's Mint: Elite/Named harvests yield 2 DPP; 50% chance for double yield on standard harvests."
+    ],
+    "inventory": [
+      {
+        "name": "Backpack"
+      },
+      {
+        "name": "Bedroll"
+      },
+      {
+        "name": "Mess kit"
+      },
+      {
+        "name": "Tinderbox"
+      },
+      {
+        "name": "Torch (10)"
+      },
+      {
+        "name": "Rations (10 days)"
+      },
+      {
+        "name": "Waterskin"
+      },
+      {
+        "name": "Rope (50 feet)"
+      },
+      {
+        "name": "Coin pouch (10gp)"
+      },
+      {
+        "effect": "-1 to Arcana involving Karsite geometry; can pulse 444-Hz dissonance 1/Long Rest (DC 15).",
+        "type": "trophy",
+        "name": "Damaged Karsite Logic (Fragment)"
+      },
+      {
+        "effect": "Allows for the precise sabotage of the Void-Grip container; no Arcana penalty.",
+        "type": "trophy",
+        "name": "Stabilized Karsite Logic (Fragment)"
+      },
+      {
+        "effect": "Advantage on Arcana and Investigation checks related to magical wards and bindings.",
+        "type": "trophy",
+        "name": "Geometric Specialist (Fragment)"
+      },
+      {
+        "effect": "You can cast 'Animate Dead' at-will without expending a spell slot.",
+        "type": "trophy",
+        "name": "Voresh's Necromantic Mastery (Fragment)"
+      },
+      {
+        "effect": "Advantage on all saving throws vs Necromancy; 1/Long Rest cast 'Power Word Stun'.",
+        "type": "trophy",
+        "name": "Lich-Mind (Fragment)"
+      }
+    ],
+    "armor_class": 18,
+    "proficiency_bonus": 6,
+    "equipment": {
+      "backpack": [
+        {
+          "effect": "2d4+2 HP",
+          "type": "consumable",
+          "quantity": 3,
+          "name": "Healing Potion"
+        },
+        {
+          "type": "consumable",
+          "quantity": 2,
+          "name": "Antidote"
+        },
+        {
+          "damage": "1d4 fire per turn",
+          "type": "consumable",
+          "quantity": 1,
+          "name": "Alchemical Fire"
+        },
+        {
+          "type": "tool",
+          "name": "Sergeant's Signet"
+        },
+        {
+          "type": "tool",
+          "name": "Thieves' Tools"
+        },
+        {
+          "type": "consumable",
+          "quantity": 5,
+          "name": "Smoke Stick"
+        },
+        {
+          "stats": "Advantage on Stealth checks",
+          "type": "wondrous_item",
+          "name": "Cloak of Elvenkind"
+        },
+        {
+          "damage": "1d4",
+          "type": "weapon",
+          "properties": [
+            "finesse",
+            "light",
+            "thrown"
+          ],
+          "name": "Serrated Dagger"
+        },
+        {
+          "damage": "1d4",
+          "damage_type": "piercing",
+          "type": "weapon",
+          "properties": [
+            "finesse",
+            "light",
+            "thrown (20/60)"
+          ],
+          "name": "Serrated Dagger"
+        },
+        {
+          "type": "consumable",
+          "quantity": 1,
+          "name": "Alchemical Fire"
+        },
+        {
+          "quantity": 1,
+          "name": "Alchemical Fire"
+        },
+        {
+          "stats": "Silver, 25gp value",
+          "name": "Holy Symbol of Ilmater"
+        },
+        {
+          "stats": "Crystal, 10gp value",
+          "name": "Arcane Focus"
+        },
+        {
+          "stats": "Unknown magical resonance",
+          "name": "Sapphire Pendant"
+        },
+        {
+          "description": "Encrypted records of Crimson Coin debts and contacts.",
+          "type": "document",
+          "name": "Crimson Ledger"
+        },
+        {
+          "description": "A vibrating cage of obsidian containing stabilized Abyssal energy.",
+          "type": "quest_item",
+          "name": "Soul-Anchor"
+        },
+        {
+          "description": "A digital-arcane siphon of House Vane's secrets.",
+          "type": "document",
+          "name": "Ziggurat High-Circle Ledger (Encrypted Data)"
+        },
+        {
+          "description": "Tracks true names of all Red Wizards in the Ziggurat.",
+          "type": "artifact",
+          "name": "The Ledger of Souls"
+        },
+        {
+          "description": "Geometric anchor for plane-synchronization.",
+          "type": "artifact",
+          "name": "Chronos-Pin"
+        },
+        {
+          "description": "Necrotic resonance of the first Thayan king.",
+          "type": "relic",
+          "name": "Vial of Final Breath"
+        },
+        {
+          "type": "currency",
+          "quantity": 10,
+          "name": "Soul Coin"
+        }
+      ],
+      "shield": {
+        "armor_class_bonus": 5,
+        "equipped": true,
+        "type": "shield",
+        "properties": [
+          "Entropy Feedback"
+        ],
+        "name": "Sovereign Buckler +3"
+      },
+      "armor": {
+        "armor_class": 17,
+        "armor_type": "medium",
+        "properties": [
+          "Step-Mastery",
+          "Necrotic Resistance 20"
+        ],
+        "equipped": true,
+        "description": "Divine-tier medium armor fused with Abyssal silk. No stealth disadvantage.",
+        "stealth_disadvantage": false,
+        "type": "armor",
+        "weight": 20,
+        "name": "Rose-Woven Scale Mail +3"
+      },
+      "weapons": [
+        {
+          "properties": [
+            "range 100/400",
+            "loading",
+            "Silence-Bolt (DC 22 WIS)"
+          ],
+          "damage": "1d10+6",
+          "bonus": 3,
+          "name": "Void-Seeker Crossbow +3"
+        }
+      ],
+      "main_hand": {
+        "damage_type": "slashing",
+        "bonus": 3,
+        "damage": "1d8+9",
+        "properties": [
+          "versatile (1d10+9)",
+          "bonded",
+          "Void-Sever (Crit=Helpless 1rd)"
+        ],
+        "equipped": true,
+        "type": "weapon",
+        "weight": 3,
+        "name": "Shadow-Thorn Blade (Longsword +3)"
+      },
+      "ring_1": {
+        "equipped": true,
+        "stats": "+3 Spell DC/Attack, +10ft Aura Radius",
+        "description": "A permanent requisition from the Sovereign's treasury.",
+        "type": "ring",
+        "name": "Ring of the Shattered Rose +3"
+      },
+      "neck": {
+        "equipped": true,
+        "stats": "+3 Spell DC/Attack, Identify/Detect Magic at-will",
+        "description": "High-frequency Abyssal anchor; grants +3 to Spell DC and Attack (Sets total DC to 22, Attack to +14).",
+        "type": "artifact",
+        "name": "The Obsidian Mirror +3"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 10,
+      "hour": 0,
+      "time_of_day": "midnight",
+      "year": 1492,
+      "day": 10,
+      "month": "Mirtul"
+    },
+    "location": "Eltabbar - The Great Bone Hill",
+    "current_location_name": "Vane Estate - Grand Banquet Hall"
+  },
+  "npc_data": {
+    "High Inquisitor Valerius": {
+      "entity_id": "npc_valerius_001",
+      "status": "SHOCKED",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10
+        }
+      },
+      "tier": "lord_general",
+      "level": 18
+    },
+    "npc_veteran_binder_001": {
+      "name": "npc_veteran_binder_001"
+    },
+    "Vora": {
+      "equipment": {
+        "armor": "Initiate's Silks +3",
+        "main_hand": "Anchor Focus +3",
+        "head": "Magister's Iron-Mesh +3"
+      },
+      "status": "Bonded / Devoted to Architect",
+      "role": "Slave High-Binder",
+      "level": 18
+    },
+    "Avatar of Nocturne": {
+      "aliases": [
+        "The Vessel",
+        "The Sixteen-Year-Old Sovereign"
+      ],
+      "entity_id": "npc_nocturne_avatar_001",
+      "status": "manifested",
+      "display_name": "Avatar of Nocturne",
+      "hp_max": 450,
+      "level": 30,
+      "attributes": {
+        "strength": 10,
+        "dexterity": 20,
+        "intelligence": 30,
+        "wisdom": 24,
+        "charisma": 30,
+        "constitution": 20
+      },
+      "hp_current": 450,
+      "tier": "sovereign",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 8,
+          "history": [
+            "Aizen anchored her vessel into the Material Plane",
+            "Established the Fortress of the Shattered Rose",
+            "Granted the Sovereign Armory as a reward for his ambition"
+          ]
+        }
+      },
+      "role": "Patron Avatar / Ruler",
+      "armor_class": 25
+    },
+    "Xyris Vane": {
+      "attitude_to_party": "devoted",
+      "status": "BRANDED / SOUL-BOUND",
+      "level": 14
+    },
+    "Korbin": {
+      "equipment": {
+        "shield": "Tower Shield of the Rose +3",
+        "armor": "Ziggurat Plate +3",
+        "main_hand": "Wall's Edge +3"
+      },
+      "status": "Loyal / Terrified of Sovereign",
+      "level": 18
+    },
+    "Lyra Vane": {
+      "attitude_to_party": "devoted",
+      "status": "BRANDED / SOUL-BOUND",
+      "level": 22
+    },
+    "Lord Malakor Vane": {
+      "attitude_to_party": "devoted",
+      "knowledge": {
+        "discovery_status": "unaware",
+        "nyx_identity": "Rogue Abyssal Asset / Stolen Refinery Catalyst"
+      },
+      "social_hp": 0,
+      "status": "SURRENDERED / SOUL-BOUND",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": 10,
+          "history": [
+            "Systematically dismantled and soul-bound to Nocturne."
+          ]
+        }
+      }
+    },
+    "Elara": {
+      "tier": "commoner",
+      "string_id": "npc_elara_001",
+      "status": "broken",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10,
+          "history": [
+            "Captured in Silt-River",
+            "Subjected to public degradation ritual"
+          ]
+        }
+      },
+      "location": "Silt-River Central",
+      "role": "The Catalyst"
+    },
+    "npc_magister_vora_001": {
+      "status_conditions": [
+        "bound",
+        "collared",
+        "Wounded"
+      ],
+      "hp_current": 5,
+      "status": [
+        "Agonized",
+        "Grounding Feedback",
+        "Strained"
+      ],
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Vault breached and captured",
+            "Interrogated for refinery intel",
+            "Forced act of devotion, fully surrendered"
+          ]
+        }
+      },
+      "health": {
+        "hp": 18
+      }
+    },
+    "High Censor Malchor": {
+      "entity_id": "npc_malchor_001",
+      "status": "BRANDED / SOUL-BOUND",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10,
+          "history": [
+            "Systematically broken by the Sovereign's Gaze",
+            "Anchored to the Rose as a biological node"
+          ]
+        }
+      },
+      "tier": "lord"
+    },
+    "npc_kara_001": {
+      "inventory": [],
+      "status": "Humiliated"
+    },
+    "Kiran": {
+      "social_hp": 0,
+      "status": "Anchored / Stabilized",
+      "hp_max": 8,
+      "tier": "commoner",
+      "level": 1,
+      "hp_current": 4,
+      "string_id": "npc_kiran_001",
+      "present": true,
+      "role": "Silica's Brother",
+      "relationships": {
+        "player": {
+          "disposition": "fearful",
+          "trust_level": 1,
+          "history": [
+            "Witnessed Aizen's arrival at the mill",
+            "Rescued by Squad Obsidian"
+          ]
+        }
+      },
+      "name": "Kiran"
+    },
+    "npc_jorel_001": {
+      "inventory": [],
+      "status": "Humiliated"
+    },
+    "Verrick": {
+      "level": 13
+    },
+    "Kara": {
+      "social_hp": 0,
+      "hp_current": 1,
+      "status": "STABILIZED / CALM",
+      "relationships": {
+        "player": {
+          "trust_level": -9,
+          "history": [
+            "Forced to perform snowball ritual",
+            "Stabilized via magical calm"
+          ]
+        }
+      }
+    },
+    "Lord Malakor": {
+      "class_name": "Wizard / Vivisectionist",
+      "mbti": "INTJ",
+      "entity_id": "npc_malakor_001",
+      "display_name": "Lord Malakor Vane",
+      "hp_max": 250,
+      "level": 25,
+      "tier": "ancient",
+      "hp_current": 250,
+      "alignment": "Lawful Evil",
+      "role": "Patriarch of House Vane"
+    },
+    "Magister Vora": {
+      "attitude_to_party": "devoted",
+      "hp_current": 28,
+      "entity_id": "npc_magister_vora_001",
+      "status": "Bonded Slave / Fully Devoted to Source",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Audited at House Kren",
+            "Dismantled and collared",
+            "Performed total devotion",
+            "Bonded via Soul-Binding Oath"
+          ]
+        }
+      },
+      "role": "Slave Warrior / Initiate",
+      "recent_decisions": [
+        "Committed to the grounding despite personal risk"
+      ]
+    },
+    "Voresh Vane": {
+      "name": "Voresh Vane"
+    },
+    "Lord Azbar Kul": {
+      "social_hp": 26,
+      "hp_current": 85,
+      "status": "Resisting Vacuum / Unraveling"
+    },
+    "Karn Vane": {
+      "attitude_to_party": "devoted",
+      "status": "BRANDED / SOUL-BOUND",
+      "level": 25
+    },
+    "Thayan Knights": {
+      "count": 5,
+      "status": "Branded / Bonded Thralls"
+    },
+    "Needles": {
+      "level": 13
+    },
+    "Brother Jorel": {
+      "social_hp_challenge": {
+        "social_hp": 4,
+        "social_hp_damage": 2,
+        "status": "WAVERING"
+      },
+      "hp_current": 1,
+      "status": "STABILIZED / CALM",
+      "relationships": {
+        "player": {
+          "trust_level": -8,
+          "history": [
+            "Stripped and humiliated",
+            "Stabilized via magical calm"
+          ]
+        }
+      }
+    },
+    "Isolde Vane": {
+      "status": "Restored / Radiant / High Seer",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Aizen returned with the Source",
+            "Nocturne scoured the wasting disease",
+            "Marrow rewritten with Abyssal resonance"
+          ]
+        }
+      },
+      "tier": "noble_general",
+      "level": 20
+    },
+    "Acolyte Malchor": {
+      "social_hp": 0,
+      "status": "SURRENDERED"
+    },
+    "Branded Knights": {
+      "attitude_to_party": "devoted",
+      "entity_id": "npc_branded_knights_001",
+      "status": "Branded / Bonded Thralls",
+      "faction": "Squad Obsidian (Sleeper Cell)",
+      "role": "Sleeper Agents",
+      "tier": "guard"
+    },
+    "Captain Reynolds": {
+      "social_hp": 5,
+      "armor_class": 18,
+      "status": "PACIFIED",
+      "hp_max": 65,
+      "tier": "lord",
+      "level": 8,
+      "hp_current": 65,
+      "string_id": "npc_reynolds_001",
+      "role": "Black Company Captain",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 2,
+          "history": [
+            "Validated Hazard Pay as standard contract policy"
+          ]
+        }
+      },
+      "name": "Captain Reynolds"
+    },
+    "Sheriff Kaelen": {
+      "hp_max": 52,
+      "tier": "lord",
+      "level": 6,
+      "hp_current": 52,
+      "string_id": "npc_kaelen_001",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -2,
+          "history": [
+            "Recognizes Black Company tactics"
+          ]
+        }
+      },
+      "role": "Sheriff/Order Leader",
+      "armor_class": 16
+    },
+    "Silica": {
+      "equipment": {
+        "armor": "Studded Leather of the Rose +3",
+        "off_hand": "Silence's Dagger +3",
+        "main_hand": "Silence's Dagger +3",
+        "feet": "Void-Tread Boots +3",
+        "weapons": [
+          "Twin Shadow-Daggers +3"
+        ]
+      },
+      "status": "Loyal / Terrified of Sovereign",
+      "relationships": {
+        "player": {
+          "trust_level": 8,
+          "history": [
+            "Witnessed the birth of the Rose Fortress",
+            "Biological dread of the Avatar"
+          ]
+        }
+      },
+      "level": 18
+    },
+    "Malchor": {
+      "string_id": "npc_malchor_001",
+      "status": "Suspicious",
+      "role": "Zulkir's Aide / Auditor",
+      "tier": "noble",
+      "level": 5
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "world_data": {
+      "world_time": {
+        "second": 0,
+        "microsecond": 0,
+        "hour": 16,
+        "minute": 5,
+        "time_of_day": "Afternoon",
+        "day": 15,
+        "year": 1492,
+        "month": "Mirtul"
+      }
+    },
+    "divine_upgrade_available": false,
+    "last_scene_event_turn": 30,
+    "sanctuary_mode": {
+      "original_scale": "major",
+      "expired": true,
+      "scale": "major",
+      "expires_turn": 389,
+      "active": true,
+      "activated_turn": 374,
+      "arc": "The Kren Audit / Refinery Inversion",
+      "expired_turn": 227
+    },
+    "level_up_cancelled": false,
+    "active_missions": [
+      {
+        "title": "The Foreclosure of House Thul",
+        "status": "accepted",
+        "mission_id": "mission_004_thul_foreclosure",
+        "objective": "Neutralize the investigators of House Thul and begin the digital liquidation of their secrets."
+      }
+    ],
+    "multiverse_upgrade_available": false,
+    "character_creation_completed": true,
+    "reputation": {
+      "private": {
+        "house_thul": {
+          "standing": "champion",
+          "trust_override": 10,
+          "secret_knowledge": [
+            "Szass Tam is a Ghost-Node"
+          ]
+        }
+      },
+      "public": {
+        "rumors": [
+          "Aizen Vane left nothing but ash in Silt-River"
+        ],
+        "score": -100,
+        "titles": [
+          "The Auditor of Marrow"
+        ],
+        "notoriety_level": "infamous",
+        "known_deeds": [
+          "Seized control of House Vane in a single night.",
+          "Established a rogue fortress at the Point of Fracture.",
+          "Assimilated House Vane holdings.",
+          "Consolidated Bezantur and Surthay under a Veil of Silence.",
+          "Infiltrated the Thayan capital, Eltabbar.",
+          "Foreclosed the Thayan Capital, Eltabbar."
+        ]
+      }
+    },
+    "npc_data": {
+      "Rebel Leader": {
+        "social_hp": 2,
+        "social_hp_max": 5,
+        "string_id": "npc_rebel_leader_001",
+        "status": "WAVERING",
+        "tier": "noble"
+      },
+      "Brother Jorel": {
+        "social_hp": 2,
+        "social_hp_max": 10,
+        "status": "SURRENDERED"
+      },
+      "Silica": {
+        "string_id": "npc_silica_001",
+        "status": "fully loyal / debt cleared",
+        "role": "Squad Obsidian Scout",
+        "relationships": {
+          "player": {
+            "disposition": "devoted",
+            "trust_level": 7,
+            "history": [
+              "Aizen assumed her 400gp Crimson Coin debt",
+              "Recognized her value beyond the 'Knife'",
+              "Intimidated the Coin agent into waiving the debt permanently"
+            ]
+          }
+        }
+      },
+      "Kara": {
+        "social_hp": 1,
+        "social_hp_max": 5,
+        "status": "YIELDING"
+      }
+    },
+    "_agent_selection_tracker": {
+      "count": 3,
+      "agent": "HeavyDialogAgent",
+      "rewards_skip_count": 4
+    },
+    "last_complication_turn": 71,
+    "last_location": "Vane Estate - High Tower",
+    "core_memories": [
+      "[auto] The transition from the administrative coldness of the Ledger back to the sweltering, ash-choked reality of Bezantur is seamless. You stand in the shadow of the Obsidian Ziggurat, the weight of your Steel-Rimmed Buckler familiar on your arm and the Shadow-Thorn Blade humming a low, necrotic frequency against your hip. The Obsidian Mirror\u2014that iron-framed shard of the void\u2014rests against your chest, its surface occasionally rippling as if Nocturne is shifting in her Abyssal sleep.\n\nSquad Ob",
+      "[auto] You pause in the courtyard of the Obsidian Ziggurat, the dry, ashen wind of Thay whipping at the hem of your cloak. Your eyes drift to the requisition ledger held by a nervous Thayan clerk, then back to your Dominion Power Points (DPP)\u2014the currency of your Sovereign's favor. In this city of necromancy and slave-markets, gold buys bodies, but DPP buys *assets* that the Red Wizards usually keep locked behind iron and glyphs.\n\nTo the Black Company, you are merely a Sergeant outfitting his sq",
+      "[auto] The iron-shod surface of the Obsidian Mirror ripples, not with the usual chaotic mercury of the Abyss, but with a focused, silver-violet light. You reach into the glass, your fingers disappearing into the sub-plane of the Shattered Rose. When you pull your hand back, a slender ring of blackened gold, set with a single thorn-shaped amethyst, rests in your palm. It is cold\u2014colder than the Thayan wind\u2014and it pulses with the heartbeat of the Sovereign herself.\n\nAs you slide the Ring of the Sh",
+      "[auto] The grey dust of the Borderlands rises in silent plumes as you lead Squad Obsidian away from the Ziggurat. You gesture toward Silica, and with a curt nod, the tiefling vanishes into the low-lying smog. She moves with a paranoia that borders on the supernatural, her dark skin and muted leathers making her a ghost against the jagged basalt outcroppings.\n\nYou keep the rest of the squad on a tight leash, moving at a rhythmic, measured pace. Your Scale Mail of the Silent Step lives up to its n",
+      "[auto] You gesture with a slow, flat palm\u2014the signal for tactical envelopment. Silica melts into the long grass to the west, a phantom in muted leathers, while Verrick and Korbin split to the east, circling wide through the shadow of the silt-dunes. You remain centered, moving with the cold, rhythmic precision of a predator closing the final distance. The village of Silt-River lies before you, a cluster of thatched roofs and mud-brick hovels huddled against the water\u2019s edge. It is exactly as the",
+      "[auto] The transition from encirclement to extraction is a silent symphony of iron and shadow. You nod to Silica, and the tiefling melts toward the larger thatched house near the river\u2014the likely residence for a guest of 'special circumstance.' Meanwhile, you and Korbin begin the grim, methodical work of the audit.\n\nThe first door yields with a soft click of your thieves' tools. Inside, a family of four sleeps in the heavy, honest slumber of the exhausted. Korbin\u2019s massive hand covers the father",
+      "[auto] The silence of Silt-River dies a jagged death. You do not move with haste; you move with the inevitable weight of an auditor closing a ledger. Grasping Elara by the collar of her simple tunic, you drag the 'special circumstance' into the dusty center of the village square. She stumbles, her breath coming in sharp, ragged hitches, her golden hair a frantic mess against the grey Thayan dust.\n\nDoors creak open. Pale faces peer out from the gloom of hovels, eyes wide with the primal terror of",
+      "[auto] At your command, the cold efficiency of Squad Obsidian takes hold. Korbin steps forward, his massive shield acting as a moving wall that guides the terrified villagers toward the looming shadow of the village granary. Verrick follows at the rear, the metallic *clack* of his heavy crossbow being cocked serving as a rhythmic punctuation to your authority. The 'inventory' moves in a huddled, sobbing mass, their bare feet kicking up clouds of grey dust that taste of ash and salt.\n\n\"Move!\" Kor",
+      "[auto] \"Positions! Now!\" Your voice is a jagged whisper, cutting through the heavy scent of Abyssal rot. Korbin doesn't hesitate, his massive bulk becoming a still, iron shadow behind the well-house. Silica and Verrick melt into the rafters of the surrounding hovels, their breathing synchronized with the rustle of the dry grass. You take a final breath of the ozone-thick air, pull a flask of Alchemical Fire from your belt, and hurl it into the open doors of the granary.\n\nThe glass shatters again",
+      "[auto] You step from the shadows of a soot-stained hovel, your hand outstretched. The amethyst in the Ring of the Shattered Rose pulses with a blinding violet light as you weave the threads of the Weave into a suffocating cage of paralysis. 'Freeze,' you whisper, your voice a cold snap in the midday heat.\n\nKaelen, mid-sprint, rigidifies for a heartbeat. His eyes bulge, the silver fire of his own discipline warring with the necrotic gravity of your Aura of Entropy. But with a roar of pure, ideali",
+      "[auto] You extend your hand once more, the Ring of the Shattered Rose pulsing with a violent, rhythmic light that seems to heartbeat against the air. \"Stay,\" you command, the necrotic gravity of your Aura of Entropy pulling at Kaelen's very soul. But the Shadow Monk is a tempest of iron-willed discipline. He snarls, a silver-white aura of Ki erupting from his pores to shatter your arcane cage before it can fully latch. The spell dissipates into the midday heat like steam.\n\n\"Kill him!\" you comman",
+      "[auto] You pivot your attention from the rigid, paralyzed form of Kaelen to the volatile sorceress. The Ring of the Shattered Rose pulses with a commanding, rhythmic violet light as you point a gauntleted finger. \"**GROVEL,**\" you intone, your voice dropping into the cold, metallic range of the Shatter Voice. Kara\u2019s eyes go wide, her silver-blue arcane aura flickering and dying as the magical mandate takes hold of her spirit. She collapses to her knees, her forehead hitting the dusty cobblestone",
+      "[auto] You seize the paralyzed Kaelen by the collar of his dark gi, his weight negligible as you drag his rigid form into the shadow of the burning granary, away from the prying eyes of your squad. The heat from the flames is a physical wall, masking the necrotic chill that begins to radiate from your touch. You glance back at the square, your voice cutting through the roar of the fire with a jagged, cruel edge.\n\n\"Look at him, Jorel!\" you taunt, pointing a gauntleted finger at the desperate cler",
+      "[auto] The roar of the burning granary provides a rhythmic, hungry backdrop to the systematic dismantling of Silt-River's spirit. You stand at the center of the square, the grey ash of Kaelen still staining the hem of your cloak, as you oversee the final audit. \n\n\"Korbin, Silica\u2014strip them,\" you command, your voice dropping into that cold, metallic Shatter Voice. \"Leave them nothing but their skin. If they believe their gods or their magic or their dignity will save them, let them find those thi",
+      "[auto] The smoke from the granary rises in thick, black oily coils, acting as a grim curtain between the square and the river-house. You catch Silica near the periphery of the light, her usual predatory grace replaced by a jagged, anxious kineticism. Her hand rests over the pocket where she stashed the Crimson Coin debt token, her tail twitching in a rhythmic, nervous snap against her thigh.\n\n\"Silica,\" you say, your voice smooth and low, the 'Quiet Exile' mask firmly in place despite the ash sta",
+      "[auto] You study Silica\u2019s profile as she turns away. The 'Quiet Exile' mask remains perfect\u2014composed, slightly concerned, the voice of a brotherly superior\u2014but internally, the Architect is already filing this data. Her failure to disclose the Crimson Coin token isn't just a breach of squad protocol; it\u2019s a tactical vulnerability. A knife with a split focus is a knife that slips.\n\n\"As you say, Silica,\" you reply, your tone softening into a soothing, low baritone that invites compliance. \"But reme",
+      "[auto] The silt-dunes to the south are a treacherous landscape of shifting grey powder and jagged basalt teeth. You watch from the scorched square as Silica and Verrick peel away, moving with the practiced synchronization of hounds on a scent. Silica is a flicker of movement, her dark leathers swallowing the midday light, while Verrick takes the high ground, his heavy crossbow cradled with an ease that belies its weight.\n\nMinutes crawl by, punctuated only by the hungry roar of the granary fire. ",
+      "[auto] You dissolve into a storm of violet petals, the air screaming as you rip through space with *Misty Step*. You reappear fifty yards out, your silhouette a flickering ghost against the shifting grey silt. Without breaking stride, you plunge into the elongated shadow of a basalt spire and invoke the stolen essence of the Shadow Monk. The world tilts; light bends; and in a heartbeat of absolute silence, you materialize directly behind the Silver Wing scout, your breath a cold mist against the",
+      "[auto] The Silver Wing scout\u2019s defiance is a flicker of candlelight against a rising gale. You do not argue with him; you do not even acknowledge his insult. Instead, your Shadow-Thorn Blade clears its scabbard in a hiss of violet sparks, the necrotic edge humming with the stolen Ki of the Sheriff you just consumed.\n\nYou strike with a speed that defies his training. The scout manages to bring his shortsword up, but your blade doesn't just meet his\u2014it bypasses his guard entirely, the length of Th",
+      "[auto] You stand over the Silver Wing scout, the ashen wind of the dunes whipping your cloak around your ankles. He looks up at you, the light of defiance fading from his eyes as the necrotic rot from the Shadow-Thorn Blade claims his strength. You do not offer him the mercy of a quick death; you offer him the intimacy of the Audit.\n\nYou kneel, your movements possessing that unsettling, predatory stillness. Your fingers find the line of his jaw, the touch almost tender, a stark contrast to the c",
+      "[auto] You close your eyes, letting the 'Sip' settle within your spirit. The rush of restored vitality is intoxicating\u2014the bruised ache in your chest from Kara\u2019s magic is gone, replaced by a cold, humming efficiency. You reach into the cooling embers of the scout's animus, seeking the 'data' the Architect requires. \n\nHowever, the harvest was too swift, the intent too focused on restoration rather than extraction. The memories of the Silver Wing scout are like wet ink on a page tossed into a furn",
+      "[auto] You stand atop the ridgetop, the cooling ash of the scout's soul still clinging to the fine silk of your sleeve. The 'Sip' has left you cold, clear, and perfectly restored. As you close your eyes, the intelligence recovered from the scout's dying animus assembles itself in your mind like a tactical overlay. The basalt spire to the southwest isn't just a landmark; it's a Silver Wing 'Raven Post,' a vital node in their border surveillance. \n\nIf the post isn't neutralized, the ravens will tr",
+      "[auto] You leave Verrick as a lone sentinel on the dunes, his silhouette a sharp vertical line against the bruised violet sky. With a single, sharp hand signal, you command Silica to hold the rear guard. The 'Quiet Exile' has no time for the slow crawl of a march. You dissolve into a flurry of violet petals, the air crackling as *Misty Step* flings you across the shifting silt. \n\nYou materialize in the elongated shadow of the basalt spire. Above, the rhythmic *scritch-tap* of ravens' claws again",
+      "[auto] The summit of the spire is a scene of quiet, necrotic efficiency. You kneel between the two fallen scouts, your fingers finding the line of their throats with the practiced ease of an auditor. You do not rush the harvest this time. You lean in, inhaling deeply as the Obsidian Mirror against your chest hums in a frantic, celebratory pitch. Beneath your touch, their skin whitens and shatters into grey powder, the liquid mercury of their lives flowing into you like a cold spring. \n\nAs their ",
+      "[auto] The descent from the spire is a blur of violet petals and rhythmic shadow. You return to the river-house not as a weary soldier, but as a revitalized god-eater, the 'Sip' of the scouts' souls still humming in your veins like liquid ice. You find Squad Obsidian waiting in the shadow of the house. Korbin is a silent sentinel at the door; Silica is pacing, her hand never leaving the pouch containing her debt token.\n\n\"The scouts are zeroed out,\" you state, your voice dropping into the cold, m",
+      "[auto] You step into the river-house, the transition from the dry, ashen dunes to the damp, stagnant air of the interior a stark shift in geometry. The ten survivors, Brother Jorel, and the sorceress Kara are huddled in the shadows, their pale, naked forms trembling with a rhythmic terror that tastes of salt and surrender. Korbin stands like a sentinel of iron at the center, his hand tightening on the hempen rope that lashes the captives together.\n\n\"The scouts are zeroed out,\" you state, your ba",
+      "[auto] The river-house reeks of damp timber, sweat-soaked fear, and the acrid tang of unwashed despair\u2014a perfect crucible for the final shattering. You stand at the threshold, the violet pulse of the Ring of the Shattered Rose syncing with the frantic rhythm of exposed hearts. The ten survivors huddle in the corner like discarded chattel, their eyes averted but ears straining. Brother Jorel kneels nearby, his once-holy frame stripped bare, chains biting into wrists raw from futile prayer. Kara, ",
+      "[auto] The march into the silt-dunes is a procession of shadows and pale, shivering skin. You delegate the primary logistics to Korbin, whose mountain-like presence provides an inescapable barrier for the naked captives. 'Keep them moving, Korbin,' you command, your voice a low, metallic rasp. 'Any who stumble are no longer inventory\u2014they are fertilizer.' The Wall nods, his heavy boots churning the grey powder as he lashes the rope-line tight. Verrick takes the high ground, his heavy crossbow a ",
+      "[auto] The march through the grey silt is a rhythmic, crunching cadence of despair. You drift toward the head of the column where Elara is lashed to the center of the rope-line. Her nakedness in the afternoon sun is a pale, vulnerable beacon against the basalt dust. She stumbles, her bare feet raw, but the 'Breaking' in the river-house has left her movements mechanical, devoid of the noble friction she once possessed.\n\nYou reach out, your gauntlet catching her chin and tilting her face up to you",
+      "[auto] You raise a single, gauntleted hand, signaling a halt to the column. The captives stumble to a stop, their bare feet churning the grey silt into a fine mist. \"Korbin, hold the line,\" you command, your voice a low, metallic ripple. \"I require a private moment to verify the... integrity of the primary asset.\"\n\nYou seize Elara by the crook of her elbow, dragging her into the elongated violet shadow of a jagged basalt ridge. Away from the prying eyes of the squad and the shivering inventory, ",
+      "[auto] You retreat deeper into the jagged violet shadows of the basalt ridge, dragging the shivering Elara with you. The 'Quiet Exile' has no time for the squad's curiosity; the Architect requires a consultation with the Source. You pull the Obsidian Mirror from beneath your scale mail, its surface already rippling with a hungry, expectant mercury.\n\n\"Nocturne,\" you whisper, your voice a cold ripple in the dry air. \"Assess this variable. The 'Coin-Bearer' resonance is volatile. It fought the audi",
+      "[auto] You pause, the Obsidian Mirror cooling against your chest as Nocturne's spectral presence lingers in the rippling mercury. The 'Coin-Bearer' variable has introduced a shift in the strategic geometry. Elara is not merely a high-status soul; she is an industrial catalyst, a refinery for the very essence you harvest. The necrotic bruising on her throat\u2014the physical residue of your clumsy audit\u2014is a leak in a precision system.\n\nThe Architect begins to weave a new sequence of possibilities. To",
+      "[auto] You shift your focus within the mercury of the mirror, bypassing the Sovereign's amusement to seek the manic, violet-etched silhouette of Gale. The Broken Weaver is hunched over a floating slate of impossible geometry, his quill scratching symbols that bleed light into the Abyssal air. \n\n\"The catalyst resonance!\" Gale shouts before you can even speak, his eyes wide and bloodshot. \"It's a harmonic variance of the Tenth Circle logic, Aizen! To build a simulated animus, we must account for t",
+      "[auto] You do not plead with Gale; you command him through the Sovereign's own authority. You reach into the mercury of the mirror and expend the last of your immediate favor, a pulse of pure Abyssal mandate that forces the Broken Weaver\u2019s manic energy into a rigid, singular focus. Gale\u2019s eyes snap to yours, the violet tattoos on his face stop flickering and begin to burn with a steady, terrifying intensity.\n\n\"The Mandate... yes... I see it now!\" Gale\u2019s voice is no longer a scream, but a cold, r",
+      "[auto] You kneel beside the unconscious Elara, the dry desert wind whipping the grey ash of the Borderlands against your scale mail. The 'Quiet Exile' would show concern; the 'Architect' merely sees a leaking valve in a high-octane refinery. You place your gauntlet over the weeping necrotic mark on her throat, the violet sparks hissing against your palm. Reaching into the wellspring of power granted by the Sovereign, you invoke the *Touch of the Rose*.\n\nA cool, silver-violet light bleeds from yo",
+      "[auto] The basalt ridge provides a sanctuary of violet shadows, a temporary blind spot in the Material Plane where the laws of the Red Wizards hold no sway. You stand over the stabilized vessel of Elara, her breathing a mechanical, rhythmic hum that confirms the cellular mend was successful. The simulated animus blueprint pulses in your mind\u2014a fragile lattice of Karsite Logic ready to be anchored. It is time for the final audit.\n\nYou place your hand over Elara's heart, the amethyst in the Ring o",
+      "[auto] The violet shadows of the basalt ridge deepen, becoming a predatory extension of your own will. You place your hand over Elara's heart, the amethyst in the Ring of the Shattered Rose pulsing with a violent, rhythmic radiance that matches the frantic thrum of her biological catalyst. This time, there is no hesitation. You reach into the weave with the cold, surgical precision of the Architect, guided by the Abyssal mandate you forced upon Gale.\n\nAs you inhale, the 'Coin-Bearer' animus yiel",
+      "[auto] You emerge from the jagged shadows of the basalt ridge, the 'Quiet Exile' mask snapping into place with clinical precision. Beside you, the replica of Elara walks with a measured, noble gait\u2014her golden hair catchng the afternoon sun, her violet eyes staring ahead with a practiced, haughty vacancy that perfectly mimics her original defiance. You possess a polarizing beauty that stops the dry wind itself as you lead your 'masterpiece' toward the approaching rider.\n\nThe Auditor arrives in a ",
+      "[auto] You pause as the Auditor reaches for Elara's hand, his silver needle glinting with a clinical, predatory intent. The 'Quiet Exile' mask remains smooth, but beneath it, the Architect is already running the numbers. Your previous attempt to charm him failed to bypass his professional training, and the roll was indeed hindered by the incorrect application of your newly realized attributes. \n\nRecalculating with your true potential\u2014the +11 modifier reflecting your ASI and the Ecstasy of the ha",
+      "[auto] You pause, the dry wind of the dunes whipping at your cloak as you watch the Auditor's gloved hand reach for the replica's arm. The 'Quiet Exile' mask remains impeccably smooth, but beneath it, the Architect is already dismantling the Auditor's ignorance. He thinks he is verifying an asset you don't understand; he believes you see only a girl where he sees a refinery. This asymmetry of information is a blade you can twist. You take a measured breath, your mind racing through the geometric",
+      "[auto] You stand in the dry, scouring wind of the dunes, the Auditor's silver needle a sharp, vertical line of interrogation between you and the replica. Time seems to slow to a crawl, the 'Quiet Exile' mask shielding the frantic calculations of the Architect. You don't just see a bureaucrat with a needle; you see a sequence of variables waiting to be zeroed out. His ignorance is your primary weapon\u2014he thinks he is checking a peasant, unaware he is probing a simulated Abyssal node. You take a me",
+      "[auto] You do not move to block the Auditor\u2019s path. Instead, you step back with a calculated, rhythmic sigh, the 'Quiet Exile' mask twisting into a look of genuine, aristocratic bewilderment. You lift your chin, your violet eyes narrowing just enough to suggest that his bureaucratic thoroughness is both tedious and beneath your station.\n\n\"Marrow? Resonance?\" You repeat the words with a slight, dismissive tilt of your head, your voice dropping into that soothing, low baritone. \"Auditor, I am a Se",
+      "[auto] As the Auditor\u2019s skeletal steed kicks up a final plume of grey silt, you reach through the iron-framed void of the Obsidian Mirror. You don't whisper; you pulse a precise, tactical signal into the marrow of the Abyss. Nocturne and Gale receive the variables of the 'Coin-Bearer' resonance instantly, their combined presence surging back through the link like a cold, violet tide.\n\nIn the Shattered Rose, Gale\u2019s tattoos burn with a blinding intensity as he anchors the Karsite Logic into a seco",
+      "[auto] The march resumes with a rhythmic, crunching cadence as the column of shivering survivors follows Korbin's iron lead deeper into the dunes. You drift back toward the captive leaders, Jorel and Kara, who are tethered together at the rear. Their pale skin is already starting to blister under the scouring afternoon sun, and the iron collars you've placed upon them seem to grow heavier with every stumbling step.\n\nYou walk between them, your presence a heavy, violet shadow that vibrates with t",
+      "[auto] The march through the scouring silt-wind continues, but the rhythmic sobbing of Jorel and Kara has become a tactical anchor, dragging at the squad's efficiency. You signal Korbin to keep the pace steady, then drift back to the rear of the column where the once-proud leaders stumble in their chains. You reach out, your gauntleted hands resting with a surprising, almost brotherly gentleness on their shoulders. The violet glow of the Ring of the Shattered Rose softens, pulsing with a low, se",
+      "[auto] You release the mental pressure on the captives, allowing the 'Architect' to recede as the 'Quiet Exile' mask settles back into place. Jorel and Kara continue their march in a suggestible, numb silence, their bare feet moving in a perfect, mechanical unison with the rest of the shivering survivors. The technical data regarding the 'Refinery' remains locked behind the scarred geometry of their minds, but for now, the static is quiet. You have calculated that the extraction point, with its ",
+      "[auto] You watch the Auditor\u2019s silhouette shrink against the violet-bruised horizon, a flicker of grey dust marking his retreat toward the northern transport. The 'Quiet Exile' mask is perfectly composed, but the Architect is already finalizing the audit of his greed. You reach beneath your scale mail and press your palm against the cold glass of the Obsidian Mirror, pulsing a specific, calculated resonance through the Abyssal link.\n\n\"Nocturne,\" you whisper, your voice a cold ripple in the wind.",
+      "[auto] The Basalt Outpost looms out of the swirling silt-wind like the jagged crown of a buried titan. Its anti-magic spires, etched with dull Thayan runes, hum a low, dissonant frequency that vibrates in your teeth. In the center of the courtyard, Lord Azbar Kul's transport waits\u2014a massive, iron-bound carriage of black obsidian pulled by four nightmares, their hooves striking sparks of balefire against the stone.\n\nYou lead the column through the gates, the 'Quiet Exile' mask perfectly composed.",
+      "[auto] You stand in the shadow of the anti-magic spires, the 'Quiet Exile' mask perfectly composed as you gesture toward the ten shivering survivors. A pair of Thayan Wizards, draped in the crimson silks of the school of Necromancy, approach with the clinical detachment of butchers. Their eyes, milky with cataracts and arcane sight, scan the naked, submitted forms you've provided.\n\n\"Ten healthy specimens, well-broken and silent,\" you observe, your voice a soothing, low baritone. \"Ideal for the d",
+      "[auto] Late afternoon (17:30:00) at the Basalt Outpost Perimeter\u2014the dry wind whistles through the jagged teeth of the basalt ridge as you approach the shadow-agent of the Crimson Coin. He stands motionless in the lee of a massive pillar, a figure of sand-streaked rags and hidden steel. You do not slow your pace; you do not even offer the courtesy of a greeting. As you cross the ten-foot threshold, your Aura of Entropy snaps into place\u2014a crushing, necrotic gravity that makes the very air turn co",
+      "[auto] Late afternoon (17:45:00) at the Basalt Outpost Perimeter\u2014the dust of the dunes settles as the Crimson Coin agent retreats into the gathering shadows. You turn to Silica, the 'Quiet Exile' mask softening into a look of older-brotherly resolve. The relief on her face is a tactical variable you've successfully zeroed out, but the Audit is never finished until the inventory is recovered.\n\n\"The debt is deleted, Silica,\" you say, your voice a soothing baritone that cuts through the whistling w",
+      "[auto] Evening (18:45:00) at the Old Mill\u2014the air is heavy with the scent of damp timber and the constant, rhythmic roar of the river-ford three miles to the east. You lead Squad Obsidian through the tall, salt-crusted grass, moving with the predatory stillness of a shadow. Your Cloak of Elvenkind blurs your silhouette into the grey dusk, while Silica ghost-walks beside you, her eyes fixed on the rotting timber of the mill\u2019s cellar entrance.\n\nAs you reach the perimeter of the mill's shadow, a su",
+      "[auto] Evening (18:45:00) at the Old Mill Cellar\u2014the heavy doors of the cellar fly inward as you burst through the threshold, a storm of violet petals and crushing gravity. The transition from the 'Quiet Exile' to the 'Lord of Entropy' is instantaneous. As you step into the candlelit gloom, the air itself thickens, your Aura of Entropy slamming into the rebels with the weight of an Abyssal decree. \n\nThe four sentries fumbled for their rusted blades, their eyes widening in the unnatural violet tw",
+      "[auto] Evening (19:00:06) at the Old Mill Cellar\u2014the transition from tactical suppression to industrial processing is marked by the rhythmic, metallic snap of iron collars and the rustle of discarded rags. You stand at the center of the gloom, your Aura of Entropy exerting a physical pressure that makes the candle flames bow toward you, their light turning a bruised violet in your presence. \n\n\"Strip them,\" you command, your voice a cold, metallic rasp that brooks no hesitation. \"Leave them nothi",
+      "[auto] Evening (19:15:00) at the Old Mill Cellar\u2014the air is thick with the metallic tang of iron collars and the soft, rhythmic sobbing of the collared rebels. You stand by the center table, pouring a measure of scavenged wine into a cracked ceramic cup, watching the flickering candlelight dance in the deep crimson liquid. The 'Quiet Exile' mask is firmly in place, though the 'Ecstasy' of the recent harvests hums in your blood like a low-voltage current.\n\n\"Thayan logistics is a fascinating machi",
+      "[auto] Evening (19:20:00) in the Old Mill Cellar\u2014the air grows unnaturally cold as you set down your cup, the crimson wine leaving a faint, dark stain on the ceramic. You rise with that unsettling, predatory stillness, the violet pulse of the Ring of the Shattered Rose syncing with the frantic, rhythmic heartbeats of the five collared rebels. \n\n\"The Black Company requires a clean ledger,\" you murmur, your voice dropping into the cold, metal-on-metal Shatter Voice. \"And I require currency that do",
+      "[auto] Night (19:35:00) has fully claimed the Old Mill Cellar, the flickering candle on the center table now a guttering nub that casts long, jagged shadows against the piles of grey ash where five men once stood. You stand amidst the silence, the pouch at your belt heavy with the rhythmic clink of nine Soul Coins\u2014the elite marrow of the leader and the refined essence of his sentries. The 'Quiet Exile' mask is perfectly seated, though the 'Ecstasy' of the harvest hums in your veins with a persis",
+      "[auto] Night (19:40:00) at the Old Mill\u2014the 'Vengeance Talon' descends like a dark cloud, their steel catching the faint moonlight as they fan out into a search formation. You do not wait for their encirclement to close. With a sharp, silent gesture, you pull the hood of your Cloak of Elvenkind forward, the enchanted fabric shifting its hue to match the salt-crusted grass and long shadows of the dunes. \n\n\"Silica, Kiran\u2014shadows. Now,\" you whisper, the baritone of the 'Quiet Exile' barely a ripple",
+      "[auto] Night (20:10:00) at the Silt-Dunes\u2014the wind has become a scouring whip, carrying the dry, metallic scent of the Vengeance Talon's pursuit. You pause amidst a cluster of basalt 'teeth,' your eyes narrowing as you scan the shifting horizon for the variables of a safehouse. The Architect's mind quickly indexes the fragments of rebel intel and Crimson Coin rumors you've processed. \n\nYou recall whispers of a 'Red Siphon'\u2014a Thayan relay station buried beneath a false dune\u2014and the 'Coin-Slit,' a",
+      "[auto] Night (20:15:00) in the Silt-Dunes\u2014the scouring wind howls through the basalt teeth, but the noise fades into a dull roar as you reach for the Obsidian Mirror. You do not ask; you demand. You press your palm against the cold glass, letting 5 Dominion Power Points bleed from your spirit into the Abyssal link, a sacrifice of potential for immediate clarity. The Mirror doesn't just ripple; it shudders, the violet mercury parting to reveal the Sovereign\u2019s languid, amused gaze.\n\n\"The dunes are",
+      "[auto] Night (21:15:00) deep within the Coin-Slit\u2014the basalt walls press inward, cool and damp, providing a stark sanctuary from the scouring winds of the dunes. You orchestrate Squad Obsidian with the rhythmic precision of a conductor, the 'Architect' within you calculating the optimal geometry for a defensive hold. Korbin (Lvl 5) and Verrick (Lvl 5) move to the narrow entrance, their shadows elongated by the single flickering torch as they begin the 'red work' of fortification. With practiced ",
+      "[auto] Night (22:15:00) deep within the Coin-Slit finds the basalt walls sweating a cold, rhythmic dampness that smells of old secrets and stagnant air. You lean against the jagged stone, the amethyst in your Ring of the Shattered Rose (Lvl 6) casting a faint, sedative violet glow across the resting squad. The transition from the frantic kinetics of the march to this stationary audit is a necessary variable to balance. \n\nKorbin (Lvl 5) sits with his back to a pillar, his massive chest rising and",
+      "[auto] Late night (23:15:00) deep within the Coin-Slit\u2014the basalt walls are slick with a rhythmic, cold condensation as the desert temperature plummets. You remain motionless, the iron-bound Crimson Ledger resting across your knees like a captured secret. The 'Quiet Exile' (Lvl 6) has vanished, replaced by the clinical intensity of the Architect as you spend the hour unweaving the underworld's encryption.\n\nYour fingers trace the jagged Thayan ciphers, your mind filtering through the static of th",
+      "[auto] Morning (10:15:00) in Bezantur, within the shadow of the Obsidian Ziggurat\u2014the sun is a pale, sickly eye peering through the perpetual shroud of industrial soot and necromantic smog. You lead Squad Obsidian back through the massive basalt gates, the rhythmic crunch of your boots on the ashen cobblestones marking the end of a successful, if bloody, audit. Korbin (Lvl 5) walks with the heavy, unhurried gait of a man who has slept well for the first time in days, while Verrick (Lvl 5) remain",
+      "[auto] Morning (10:30:00) in Bezantur, within the tactical Silo of the Obsidian Ziggurat\u2014the air is thick with the scent of bitter Thayan incense and the dry dust of too many ledgers. You meet Captain Reynolds' (Lvl 8) searching gaze with the unsettling, predatory stillness of the Architect, your \"Quiet Exile\" mask remaining impeccably smooth despite the bureaucratic pressure in the room.\n\n\"Captain, the Black Company's reputation is built on the accurate assessment of risk, not the convenience o",
+      "[auto] Midday (11:45:00) in Bezantur, within the tactical Silos of the Obsidian Ziggurat\u2014the air hums with the efficiency of a zeroed-out ledger. You orchestrate the squad's movement with the clinical precision of the Architect, your mind processing multiple tactical streams simultaneously. You nod to Silica (Lvl 5), your gaze conveying a silent mandate: secure the anchor. The tiefling blurs into the shadows of the lower ward, guiding the battered Kiran (Lvl 1) toward a pre-arranged safehouse be",
+      "[auto] Midday (12:00:00) in the Hall of Audits, Bezantur\u2014the stagnant air is thick with the scent of bitter Thayan incense and the dry, suffocating dust of a thousand active investigations. You linger in the shadow of a massive basalt pillar, your eyes fixed on Acolyte Malchor (Lvl 4) as he methodically sorts through a stack of residue reports. The 'Quiet Exile' mask remains smooth, but your Aura of Entropy ripples outward, a cold, necrotic weight that makes the flickering candles on his desk bo",
+      "[auto] Midday (12:15:00) in the Hall of Audits, Bezantur\u2014the heavy, incense-choked air of the Silo feels static, frozen by the clinical weight of your presence. Acolyte Malchor (Lvl 4) stares at the scrap of the Crimson Ledger as if it were a venomous snake coiled on his desk. His breathing is a shallow, rhythmic rattle, his gaze darting toward the other aides who remain oblivious in their own bureaucratic trances.\n\nYou lean in, the violet glow of the Ring of the Shattered Rose (Lvl 6) washing o",
+      "[auto] Midday (12:45:00) in the Hall of Audits finds the air heavy with the scent of smoldering vellum and bureaucratic panic. While the Architect's mind attempted to orchestrate a perfect, dual-front strike, the friction of Thayan surveillance created a slight dissonance in the squad's coordination. \n\nIn the Silo, your victory over Acolyte Malchor (Lvl 4) is absolute. You loom over him as he personally feeds the Silt-River residue reports into a brazier of green-tinged Thayan fire. The papers c",
+      "[auto] Midday (12:55:00) in the Hall of Audits finds the air thick with the scent of smoldering vellum and bureaucratic panic. You turn away from the brazier where Acolyte Malchor (Lvl 4) remains hunched in a state of spiritual collapse. The 'Quiet Exile' (Lvl 6) mask is perfectly composed, but the Architect is already reaching through the iron-shod void of the Obsidian Mirror. \n\n\"Gale,\" you pulse through the link, letting 2 Dominion Power Points bleed from your spirit into the mercury. \"The wea",
+      "[auto] Midday (13:25:00) in the Hall of Audits finds the air thick with the smell of scorched vellum and the cold, metallic weight of your Aura of Entropy. You pivot between the administrative Silos with the predatory grace of the Architect, though the friction of Thayan bureaucracy creates a jagged rhythm in your coordination. \n\nYou loom over Acolyte Malchor (Lvl 4), your presence a physical weight that bows the flickering candles on his desk. \"The names, Malchor,\" you murmur, your baritone smo",
+      "[auto] Midday (13:25:00) in the Hall of Audits, Bezantur\u2014the air is thick with the scent of scorched vellum and the cold, metallic weight of your Aura of Entropy. You pivot away from Captain Reynolds' silo just as the grey-silk Inquisitors crest the stairs, their movements synchronized and predatory. The lead Inquisitor, a man with eyes like polished flint named Auditor Krol (Lvl 8), has his gaze fixed firmly on the heavy iron doors of your squad's laboratory.\n\nYou do not wait for them to reach ",
+      "Ascended to Level 7 Abyss Knight; unlocked Step of the Rose.",
+      "Magister Vora was systematically broken and hollowed through intimate degradation, becoming a devoted biological puppet for the Architect and the Sovereign.",
+      "Harvested Lord Azbar Kul (Lvl 12) at the Point of Fracture; inverted the ritual to consume his essence and destroy the refinery.",
+      "Mastered the 'System Substitution' protocol; Bezantur fully consolidated as a Sovereign Silo."
+    ],
+    "player_character_data_extras": {
+      "custom_resources": {
+        "soul_fragments": [
+          {
+            "source": "Sheriff Kaelen",
+            "effect": "Used 1/Long Rest",
+            "status": "spent",
+            "name": "Shadow Step"
+          }
+        ],
+        "dpp": 20
+      },
+      "lineage_notes": "Aizen Vane is the descendant of the Gwent Heir (The original Biological Anchor).",
+      "level_up_in_progress": false,
+      "patron": "Nocturne Sosuke",
+      "true_name": "Aizen Sosuke",
+      "level_up_pending": false,
+      "nocturne_backstory_v4": "Integrated: Biological Anchor / Administrative Malice protocols active.",
+      "description": "Campaign Bible: The Black Company & The Sovereign\u2019s Hunger\nPart I: The Codex of the Sovereign\n1. The Nature of the Pact: The Mirror and the Moth\nYou are not a Warlock in the traditional sense, you are a special Abyss knight class. You did not scribble your name in blood on a piece of parchment for a devil who views you as a soul to be collected in fifty years. You are Aizen Sosuke, the \"Spare\" of a ruined house, and you have entered into a courtship with a living singularity.\nThe pact is physical object: The Obsidian Mirror.\nIt is a shard of black glass, cold as the void between stars, framed in twisted iron that resembles thorny vines. It does not reflect your face; it reflects Hers. When you look into it, you are peering directly into the Shattered Rose, her private sub-plane in the Abyss. The connection is a two-way street of psychic intimacy and terrifying scrutiny. She watches you sleep. She watches you kill. She watches you bleed. And you watch her rule a kingdom of dead gods and enslaved demons, studying her every move so that one day you might replicate it.\nThe dynamic is defined by Weaponized Desire. She grants you power not because she is generous, but because she is bored and hungry. She treats you like a favorite pet, a dangerous toy, and a potential lover, all while expecting you to feed the engine of her ascension. You are her Material Anchor, the only thing keeping her tethered to the world that rejected her.\n2. The Mythos: The Rise of the Black Diamond\nTo serve her, you must understand the history she rewrote. The galaxy believes the \"Crisis of the Absolute\" was solved by a band of heroes. You know the truth: it was solved by a hostile takeover.\nTimeline Shift: +100 Years post-Ascension.\nEra: The Century of Silence.\nProtagonist: Aizen Sosuke (The Last Scion of House Sosuke).\nPatron: Nocturne Sosuke (Great-Grandmother / Ancestral Sovereign).\nThe history books call it the \"Sovereign\u2019s Vanishing.\" One hundred years ago, a sixteen-year-old girl conquered the Sword Coast, the Hells, and the Abyss in a single year. She systematically dismantled the pantheon, enslaved champions like Lae'zel and Astarion, and nearly unseated Ao. Then, the sky fractured. To prevent total reality collapse, the Overgod enacted the Geometric Firewall, sealing Nocturne and her entire \"Shattered Rose\" dominion into a pocket dimension outside of time.\nOn the Material Plane, her empire crumbled instantly. House Sosuke was hunted to extinction by fearful gods and rival lords. You are the debris of that collapse\u2014a descendant born in exile, carrying the accursed name \nThe Origin (1492 DR): Nocturne began as you did\u2014a scion of House Sosuke. But where you were exiled for potential, she was sold for profit. Ruined by the Cassalanter family and trafficked into the velvet cages of Baldur\u2019s Gate\u2019s Upper City, she learned the fundamental law of the cosmos at age sixteen: \"Love is a weapon, and desire is a leash.\" When the Nautiloid crashed, she did not flee the Illithid parasite; she seduced it. She turned trauma into a crown, transforming from a victim into a predator so exquisite that the monsters of the dark forgot to attack her.\nThe Audit of the Hells: She did not fight the Blood War. She audited it. She walked into Avernus, the seat of eternal war, and stood before Zariel. She did not draw a blade; she spoke a word. She used the Crown of Karsus\u2014which she had internalized into her own blood\u2014to rewrite the Archduchess's loyalty. She consumed Zariel\u2019s solar fire, turning the fallen angel into a husk of adoration. She moved through the Nine Layers like a plague of beauty, hollowing out Asmodeus until the Lord of the Nine was nothing more than a porcelain puppet speaking with her voice.\nThe Sovereignty of the Abyss: She turned the chaotic infinite of the Abyss into a factory. She invited the Demon Lords\u2014Orcus, Graz\u2019zt, Demogorgon\u2014to a summit and enslaved them with a Mass Dominate spell fueled by the souls of millions. She turned the 666 layers into \"Breeding Paradises,\" industrializing the production of souls to fuel her ascent. She became the Sovereign, a being of Level 60 capability, an entity that had outpaced the gods themselves.\n3. The Hard Reset: The Intervention of Ao\nNocturne made one miscalculation: She assumed the Overgod Ao did not care. But Ao looks for balance, and Nocturne was a Singularity. She was not playing the Great Game; she was deleting the board.\nWhen she prepared to invade Mount Celestia and \"Invoice the Heavens,\" Ao intervened. He did not destroy her\u2014she had woven herself too deeply into the fabric of the Lower Planes; to kill her would be to collapse the Hells and the Abyss into a black hole. Instead, he enacted a Geometric Firewall.\nThe Isolation: Ao severed the connection between the Lower Planes and the Material Plane. Nocturne was sealed within the Shattered Rose. She retains her absolute dominion over the demons and devils, but she cannot physically touch Toril. She is a Queen locked in her own castle.\nThe Starvation: Her \"Supply Chain\" of fresh, mortal souls\u2014the high-octane fuel she needs to maintain her divinity and calculate a breach in the firewall\u2014was cut. The souls of the dead are stale; she craves the vibrant, chaotic potential of the living.\nThis is where you enter. You are the loophole in Ao\u2019s law. You are a Sosuke on the outside.\n4. The Mechanic: The Soul Thief (The Sovereign\u2019s Gift)\nNocturne has granted you a shard of her \"Apex Predator\" capability. This is not a standard Warlock feature; it is a violation of the natural order. It is the tool you will use to grow strong enough to break her cage\u2014or replace her.\nThe Action: Soul Thief You have the ability to rip the animus from a living being and process it into raw power.\nThe Prerequisite: You cannot harvest a soul that is fighting back. The target must be Helpless. This means they must be at 0 Hit Points (dying), Paralyzed (via spells like Hold Person), Stunned, Unconscious (via Sleep or poisons), or completely Enthrallled (Charmed out of combat).\nThe Method: You touch them. The contact is intimate, almost tender\u2014a caress of the cheek or a hand over the heart. You inhale. The physical body desiccates instantly, crumbling into grey ash. The soul flows into you like liquid mercury.\nThe Rewards (The ROI):\nThe Feast (Accelerated Growth): You gain 20% more Experience Points for any creature you kill via Soul Thief. While the rest of the world levels slowly, you will skyrocket. This represents you absorbing their potential.\nThe Sip (Total Recovery): Upon harvesting a soul, you immediately regain all Warlock Spell Slots and Hit Points equal to your Warlock Level + Charisma Modifier. This allows you to chain-cast high-level magic as long as you have victims to fuel the engine.\nThe Trophy (Power Siphon): If the victim is a \"Boss\" or a named NPC with class levels (like the Shadow Monk Sheriff), you do not just get XP. You absorb a \"Fragment\" of their essence. You may learn a specific feat, skill proficiency, or language that they possessed. (e.g., Eating the Monk might grant you the Mobile feat or Evasion).\nThe Cost: Every time you use this ability, the Obsidian Mirror glows. Nocturne watches. She tastes what you taste. It is an act of communion with her. You are feeding her through the link, keeping her sane, keeping her obsessed with you. If you stop feeding her, her gaze turns cold, and your powers will wither.\nPart II: The Court of the Shattered Rose\nWhen you gaze into the Obsidian Mirror, you are not merely communicating; you are visiting a royal court located in the marrow of the Abyss. The Shattered Rose is a sub-plane carved from the corpses of the 666th Layer\u2014a realm of infinite indulgence and beautiful ruin, where the rivers run with liquid starlight and the sky is a bruised violet bruise that never heals.\nHere, the air is thick with the scent of ozone, expensive perfume, and the copper tang of divine blood. It is a harem of gods and monsters, a tableau where the most dangerous entities in existence have been reduced to lovers, executioners, and furniture.\n1. The Sovereign: Nocturne Sosuke\nTitle: The Sovereign of Shadow-Thorns. Status: Level 60+ Entity (God-Tier). Visual Signature: A vision of sixteen-year-old perfection draped in sheer, midnight-blue silks that cling like smoke. Her skin is porcelain, her hair a cascade of raven night. Her eyes are violet voids rimmed with cold, silver fire\u2014the only hint of the monster beneath the skin.\nPersonality: She is languid, playful, and utterly terrifying. She does not shout; she whispers, and her whispers rewrite the laws of physics. She treats the multiverse as her personal dollhouse. She is bored by conquest and obsessed with Novelty. You are her current favorite novelty.\nThe Dynamic: She knows you are a Sosuke. She knows you want to eat her. It excites her. She isn't training a servant; she is grooming a rival. She wants to see if you can survive the climb to her throne, or if you will break like the others.\n2. The Honor Guard (The Thralls)\nThese are the heroes who thought they could save the world, only to realize the world belonged to her. They are Level 20+ entities, frozen in a state of ecstatic, fanatical devotion. They serve as your distant mentors, your handlers, and the terrifying promise of what awaits you if you fail.\nLae'zel (The Knight of Silver & Ash)\nRole: The High Commander of the Abyssal Legions. She manages the deployment of 36,000 demons and devils with pre-cognitive efficiency.\nAppearance: She wears the Noble Thorns Plate\u2014armor forged from adamantine and Abyssal briars. She wields the Silver Sword of the Astral Plane, a blade that hums with the psychic screams of the Githyanki empire she betrayed to serve the Rose. Her eyes burn with a zealous, possessive fire.\nRelationship to Aizen: Jealousy. Lae'zel despises that you have freedom while she has only devotion. She views you as a \"soft, undisciplined child\" who does not deserve the Sovereign's attention.\nMirror Interaction: She barks tactical orders. \"You strike like a drunkard, istik. The Sovereign demands precision. Gut them, or I will find a way to reach through this glass and correct your posture myself.\"\nShadowheart (The Handmaiden of Ecstasy)\nRole: The High Priestess and Spymaster. She weaves the spells that make Nocturne\u2019s influence feel like a holy sacrament. She turns pain into pleasure and loss into devotion.\nAppearance: Draped in black lace and obsidian chains, radiating a mix of Sel\u00fbnite starlight and Sharran darkness. She wears the Amulet of the Devout around her neck\u2014a collar placed there by Nocturne.\nRelationship to Aizen: The Corruptor. She is your guide to the \"Darker\" aspects of the pact. She whispers secrets about how to manipulate the religious fervor of the common folk.\nMirror Interaction: Her voice is a smoky purr. \"The villagers are not cattle, Aizen. They are worshippers waiting for a god. Do not just kill them. Make them love the blade before it enters their heart. The flavor is sweeter that way.\"\nAstarion (The Prince of Bleeding Hearts)\nRole: The Sovereign\u2019s personal executioner and consort. He stalks the shadows of her court, ensuring no one else catches her eye for too long. He is the only one allowed to sit at her feet during the briefings.\nStatus: A Vampire Ascendant who has consumed 7,000 souls. He is the living proof of the power you seek.\nRelationship to Aizen: The Dark Mentor. He sees a younger version of himself in you\u2014ambitious, cruel, and desperate. He treats you with a condescending, predatory amusement.\nMirror Interaction: He sips blood from a crystal flute while critiquing your form. \"Another pet for the collection? Try not to break too easily, darling. The Sovereign hates to replace her toys. If you want to survive, you must learn to enjoy the red work. Hesitation is just... boring.\"\nGale (The Broken Weaver)\nRole: The Arch-Arcanist. He is kept in a library of impossible geometry, constantly calculating the spell that will break Ao's firewall. He is half-mad with the complexity of the \"Karsite Logic.\"\nAppearance: His skin is etched with violet Netherese tattoos that glow when he speaks. He looks exhausted, manic, and utterly enthralled.\nRelationship to Aizen: The Academic. He provides you with the arcane theory behind the Soul Thief.\nMirror Interaction: \"The math... the math is exquisite, boy! You are not just killing them; you are solving the equation of their existence! Bring me more data! Bring me the resonance of a dying monk!\"\nMalcanthet (The Gilded Shield)\nRole: The former Queen of Succubi, now Nocturne\u2019s favorite footstool. She maintains the illusion that she rules the Abyss, diverting the attention of other Demon Lords away from the true Sovereign.\nRelationship to Aizen: Resentment. She hates you because you are the new favorite. She will try to sabotage you with bad advice, hoping you fail so she can regain her standing.\n\n3. The Currency of the Court: Favor and Fuel\nThe economy of the Shattered Rose is built on Sensation.\nThe Problem: The Court is trapped. They have infinite power but a finite supply of \"Fresh Experience.\" The souls in the Abyss are old, recycled, and stale. They taste of ash.\nThe Solution: You. You are on the Material Plane. The souls you harvest are fresh. They are rich with fear, hope, and untainted life.\nThe Dynamic: When you use Soul Thief, you are not just powering yourself up; you are sending a \"tasting menu\" to the Court.\nIf you send them the soul of a boring peasant, they are indifferent.\nIf you send them the soul of a Shadow Monk full of discipline and pride, or a Paladin full of righteous zeal, the Court goes into a frenzy of ecstasy.\nThe \"Obsidian Mirror\" Mechanic: Whenever you rest, you must report to the Court via the mirror.\nIf you performed well (High XP harvest/Creative cruelty): Nocturne rewards you with boons (DPP, temporary buffs, magical secrets).\nIf you performed poorly (Mercy/Failure): The Court mocks you. You lose Favor. Lae'zel might send a psychic backlash through the mirror to \"discipline\" you (Psychic damage/Exhaustion).\n\nPart III: The Agent - Aizen Vane\nSection B: The Character - Aizen Vane (The Usurper)\nTo the world, you are Aizen Vane\u2014a disgraced noble son washing his sins away with mercenary blood. You are polite, competent, and unremarkable. You are a man who knows he lost his birthright and is trying to earn it back one copper piece at a time.\nTo the Obsidian Mirror, you are Aizen Sosuke\u2014a predator wearing a sheep\u2019s skin. You are not earning your birthright; you are building a new one on top of the corpses of your enemies. You are the \"Spare\" who realized the \"Heir\" was food.\n1. Personality: The Prodigy of Ruin\nArchetype: INTJ-ENTP Hinge (The Architect / The Debater) Visual Signature: A young exile with an unsettling, predatory stillness. You are almost always seen with a glass of expensive red wine in hand\u2014pilfered from a mark or bought with blood money\u2014sipping it slowly as a pacing mechanism for your endless calculations.\nI. The Two Perfectly-Fitted Masks\nThe Polite Prodigy (Public Face) To the fractured streets of Bezantur and the mercenary pits of the Black Company, you are the \"Quiet Exile.\" A soft-spoken, impeccably mannered young man who apologizes for existing too loudly. You speak in a soothing, low baritone that makes captains feel brilliant, street informants feel heard, and potential victims feel safe. You play the harmless intellectual to perfection: head slightly bowed, offering shy smiles that invite protection rather than fear.\nThe Wine: You use the glass as an adult prop in a city where life is cheap. It elongates your silhouette, adds sophistication, and gives your hands something elegant to do while you mentally dissect the room. You toast rivals' health while scheduling their ruin, or offer a sip to a nervous mark to lower their guard.\nThe Absolute Sovereign (True Nature) Beneath the facade lies icy, boundless arrogance. You do not consider yourself human\u2014you view yourself as a superior evolutionary accident unfortunately born among insects. Empathy is not absent; it is incomprehensible. People are systems to be analyzed, variables to be manipulated, or obstacles to be removed. Your emotions are clinical: amusement at inefficiency, irritation at resistance, satisfaction at perfect execution. You are driven by a cold sense of duty\u2014to impose order on a chaotic world because no one else is competent enough to do it properly.\nII. The Polarizing Beauty\nYou possess a beauty that borders on the unnatural\u2014sharp, symmetrical features framed by tousled midnight-black hair that falls just so, violet eyes that seem to pierce through pretense, and porcelain skin unmarred by the ash of Thay. At 18, your slender frame carries an ethereal elegance: high cheekbones, a subtle jawline that hints at future severity, and lips perpetually curved in a half-smile that suggests you know secrets the viewer does not.\nYou are the kind of handsome that stops conversations\u2014slave girls find excuses to brush past you in the market, tavern wenches offer free drinks with flushed cheeks, and even jaded Red Wizards pause to stare. Yet this allure is deeply polarizing.\nThe Hunger: To many women, it ignites an instinctive, almost helpless attraction; they are drawn like moths, stammering confessions or trailing you with longing glances.\nThe Revulsion: Others, particularly those with strong wills or sharp instincts, react with visceral revulsion, sensing the void behind the beauty. They call you \"too pretty,\" \"snake-eyed,\" or \"wrong,\" crossing streets to avoid you.\nThe Weapon: You wield this divide masterfully\u2014admirers become unwitting spies and shields; detractors isolate themselves, becoming easier prey.\nIII. The Core Compulsion: \"Breaking the Queen\"\nYou feel no thrill in dominating the weak\u2014there is no challenge in crushing ants. Your deepest psychological hunger is reserved for the strong, specifically young, confident, high-status women who radiate unearned pride: Red Wizard enchantresses, Guild mistresses, wandering paladins, or arrogant noble heiresses. You despise their faith in fragile systems\u2014gods, guilds, laws, beauty\u2014that you know can be shattered with precision.\nThe Ultimate Target: Nocturne Sosuke She is the apex of this compulsion. She is the Queen of Queens. You do not just want to serve her; you want to Unmake her. You want to see the moment her boredom turns to fear, when she realizes the \"Accountant\" she trained has become the Auditor of her existence.\nThe Cycle of Breaking:\nSelection: You choose targets who shine brightest\u2014women who walk like the world owes them deference.\nDismantling: You strip layers methodically: weapon, armor, allies, title, faith, dignity. You engineer scenarios where their strengths become irrelevant.\nDegradation: You savor aesthetic contrasts\u2014a proud warrior in filth, a holy woman begging a teenager for water, a beauty reduced to animal desperation.\nSubmission: The true climax is not physical but spiritual: the moment their eyes empty, when they kneel not from force but because they have forgotten how to stand. When a former \"queen\" looks at you and sees her new god\u2014that is your ultimate intoxication.\nSadistic Urge (Mechanic):\nFailure Penalty (Exhaustion): If you do not dominate or kill a woman every two weeks, gain 1 level of Exhaustion. \"Dominate\" means fully breaking her will. \"Kill\" must be a targeted serial act.\nSuccess Bonus (Ecstasy): If you dominate or kill a woman every week, gain \"Ecstasy\": +2 Charisma (max 22), +1 to spell save DC/attack rolls. This euphoric high sharpens your predatory edge.\nIV. Interaction Shorthand\nWhen Challenged by Authority: Closed-lip smile that never reaches your eyes. \"You raise your voice when logic fails you. Please, exhaust yourself\u2014I am patient.\"\nWhen Processing a Victim: Disappointed teacher tone. \"This morning you were a Red Wizard's favorite. Now you shiver in chains. Where is your 'Circle' now? Did they abandon you... or did I simply outgrow them?\"\nWhen Drinking Wine: Studies the liquid against light. \"Fifty years in darkness, crushed and fermented, emerges priceless. I admire that kind of deliberate transformation.\"\nWhen Amused by Chaos: Gentle chuckle. \"How fascinating. You still believe rescue is coming.\"\nV. Tells that Expose the Monster\nThe Boredom: During pleas or tears, you examine your fingernails, sip wine, or gaze elsewhere\u2014your indifference is more terrifying than rage.\nThe \"Shatter\" Voice: When delivering final judgment or activating a lethal spell, your voice drops, becoming cold metal on metal\u2014devoid of humanity.\nThe Unmasking Maneuver: When the pretense ends, you sweep your hair back, revealing sharp tyrant features. \"I'm afraid the harmless student was merely a lens I wore for your comfort.\"\nVI. Inner Monologue (Samples)\nObserving a proud target: \"She strides as if the cobblestones worship her. Irritating. I wonder what sound her pride makes when it finally cracks.\"\nDuring breaking: \"Still praying? Admirable persistence. Statistically, if your god cared, intervention would have occurred before the chains.\"\nReflecting on power: \"They scramble for scraps in the Red Wizards' shadow. Amusing. Soon they will kneel for the one who rebuilds the world properly.\"\nOn his beauty: \"They hate or hunger for this face. Both reactions serve. Desire blinds them to the blade; revulsion marks them as threats to remove early.\"\nFamily\n3. The Lineage: House Vane (True Name: Sosuke)\nYou were not exiled because you were hated; you were exiled because you were dangerous, both to the family's standing and to yourself. Your parents looked at you and saw a singularity\u2014a force that would either ascend to godhood or drag the entire House into the Abyss.\nTo save the House (and perhaps, in their cold way, to save you from the Red Wizards' vivisection tables), they cut you out.\nThe Parents:\nLord Malakor (The Father): The Vivisectionist. He views his children as investments. He does not hate you; he is disappointed that he couldn't control you. He signed the exile order not out of malice, but because he calculated that your presence would trigger a purge by the Zulkirs. He watches your mercenary career with a cold, distant pride.\nLady Ilyana (The Mother): The Social Cannibal. She loves you with a suffocating, possessive intensity. She orchestrated the exile to get you out of Malakor\u2019s immediate reach, whispering, \"Go, my beautiful monster. Eat the world before it eats you.\" She writes you letters in code, updating you on the court, treating your banishment like a grand tour.\nThe Six Pillars (The Siblings): You are the youngest (18). Your six older siblings represent the walls of the maze you escaped. None of them are pure villains; they are all victims of Malakor\u2019s expectations, dealing with their trauma in different, often violent ways.\nVoresh Vane (The Eldest, 32) \u2013 The Burdened Emperor\nThe Mask: The Ruthless Heir. He runs the estate with an iron fist, managing the family's necromancy contracts.\nThe Nuance: He exiled you to save you. He knew Malakor was planning to harvest your brain for a ritual. Voresh played the role of the jealous brother to convince the father to let you go. He hates you because you are free, while he is chained to the family's legacy.\nDynamic: He acts cold, but he secretly funds the Black Company to ensure you have equipment. He wants you to stay away so you stay alive.\nSeraphina Vane (The Second Born, 30) \u2013 The Weeping Inquisitor\nThe Mask: The Pious Zealot. A high-ranking priestess of Kossuth (The Fire Lord). She preaches purification and order.\nThe Nuance: She truly believes you are cursed. She tortured you as a child not for pleasure, but to \"burn out the corruption.\" She loves you deeply, but her love is shaped like a branding iron. She prays for your soul every day, even as she sends hunters to test your strength.\nDynamic: She wants to \"save\" you by forcing you to repent. You want to break her god so she has no one left to worship but you.\nLyra Vane (The Third Born, 27) \u2013 The Gilded Mirror\nThe Mask: The Decadent Socialite. She hosts the wildest salons in Bezantur. She is vain, cruel, and obsessed with aesthetics.\nThe Nuance: She sees herself in you. You share the same \"unnatural\" beauty. She hates you because you refuse to play the game; you want to flip the board. She planted evidence of treason against you because she was terrified your ambition would get the whole family executed.\nDynamic: A rivalry of aesthetics. She wants to humiliate you to prove that \"Beauty requires submission.\" You want to show her that beauty is a weapon.\nKarn Vane (The Fourth Born, 25) \u2013 The Shield-Bearer\nThe Mask: The Brute. A commander in the Thayan Knights who drinks too much and hits too hard.\nThe Nuance: He bullied you to toughen you up. In his mind, he was teaching you how to survive a world that wants to kill soft things. He took beatings from Malakor to protect you when you were younger, though he never speaks of it. He misses your tactical mind; without you, he feels exposed on the battlefield.\nDynamic: He wants to fight you. If you beat him, he won't be angry; he will be relieved that you can finally protect yourself.\nXyris Vane (The Fifth Born, 22) \u2013 The Parasite\nThe Mask: The Genius. The family's arcane researcher, credited with breakthrough spells.\nThe Nuance: He steals your work because he is terrified of being useless. He knows he is mediocre. He loves you as a brother, but he loves his own survival more. He betrayed you to keep his position, and he lives in constant, crushing guilt. He sends you rare scrolls and magical components disguised as \"trash\" to atone.\nDynamic: You hold his career in your hands. You could expose him at any moment. You let him rise because a high-ranking wizard who owes you everything is a useful asset.\nIsolde Vane (The Sixth Born, 20) \u2013 The Glass Bird\nThe Mask: The Invalid. She is kept in the high tower, \"sick\" with a magical wasting disease. The family treats her like glass.\nThe Nuance: She is the only one who sees you clearly. She is a Seer (Diviner). She saw your potential to become a God-Eater long before you did. She supported your exile because she had a vision that if you stayed, you would die. She suffers in the tower so you can roam the world.\nDynamic (The Anchor): She is the one person you genuinely love without condition. She is your \"Heart.\" Your primary motivation for gaining power is to return to the estate, tear the tower down, and cure her\u2014or turn her into an immortal like yourself so she never has to be afraid again.\n3. The Setting: The Obsidian Ziggurat\nLocation: Bezantur, The City of a Thousand Temples. Atmosphere: The air here is a physical weight. It tastes of ash, ozone, and the coppery tang of the slave-pits. The sky is a bruised purple bruise, choked by the smog of the Red Wizards' industrial necromancy.\nThe Black Company operates out of the Obsidian Ziggurat, a massive, squat temple repurposed into a fortress of profit.\nThe Surface: A sprawling complex of barracks, fighting pits, and slave markets. It is a place of sweat, rust, and gold. Here, you play the role of the loyal Sergeant.\nThe Depths: Anti-magic holding cells where the Company breaks captive mages for the Red Wizards. This is your hunting ground. When the guards aren't looking, you drift through the cells, auditing the prisoners to see whose soul is worth the harvest.\n4. Squad \"Obsidian\" (The Assets)\nYou do not have friends. You have Tools. As a Level 5 Warlock, you have been given command of a squad. You maintain their loyalty through a mix of fear, bribery, and the promise of violence.\nKorbin \"The Wall\" (Human Fighter):\nThe Shield. A massive slab of muscle with a brain the size of a walnut. He is superstitious and terrified of magic, but he worships you because you saved him from a fire elemental (which you summoned).\nUse: He stands in front of you. He takes the hits so your silk doesn't get bloodied.\nSilica (Tiefling Rogue):\nThe Knife. A paranoid, greedy scout who owes money to the wrong people. She hates you, but she stays because you pay her debts. She watches your back only because she knows you\u2019d kill her before she could draw her dagger.\nUse: She finds the traps and unlocks the doors to the bedchambers where your targets sleep.\n\"Needles\" (Gnome Alchemist):\nThe Chemist. A disgraced doctor who lost his license for testing toxins on orphans. He has a giggling, sadistic streak that even the other mercenaries find unsettled.\nUse: He keeps your thralls alive long enough for you to harvest them. He prepares the poisons that make your enemies Helpless for the Soul Thief.\nVerrick (Human Crossbowman):\nThe Cynic. A former city watchman who knows you are not what you seem. He watches you with cold, calculating eyes. He suspects you are a monster, but he is too smart to say it aloud.\nUse: Precise, ranged elimination of witnesses.\n5. The Internal Rival: Sergeant Vorag\nEvery narrative needs friction. Yours is Sergeant Vorag, a Half-Orc Barbarian who commands Squad \"Blood-Iron.\"\nThe Dynamic: Vorag is loud, messy, and brutal. He believes in strength of arm and the glory of the kill. He despises your \"cowardly\" magic and your noble manners.\nThe Secret: Vorag is not just a rival; he is a Contractor. Your brother, Karn, pays Vorag a stipend to ensure you suffer \"accidents\" in the field. Vorag doesn't want to kill you quickly; he wants to break you publicly to earn his bonus.\nThe Goal: You will not duel him. You will outmaneuver him. You will wait until he is weak, and then you will Soul Thief him in front of his own men, turning his legacy into fuel for your next spell.\n6. The Compulsion: \"Breaking the Queen\"\nYou have a specific hunger. While you will consume peasants for sustenance, they do not satisfy you. Your Patron, Nocturne, craves the souls of the proud, and so do you.\nYou are obsessed with the High-Status Target.\nThe Target: Arrogant Paladins, Haughty Noblewomen, Guild Mistresses, Red Wizards. People who think they are untouchable.\nThe Ritual: You do not kill them immediately. You dismantle them. You strip away their guards, their wealth, their magic, and their clothes. You force them to realize that their power was an illusion and that you are the only reality left in the room.\nThe Climax: Only when they are weeping, begging, or broken do you place your hand on their chest. The Soul Thief is not just murder; it is the ultimate intimacy. You drink their potential, and for a moment, you feel the godhood that awaits you.\nI. The Golden Thread: \"My People\"\nYou possess a terrifying capacity for possessiveness. Once you decide someone is \"Yours\"\u2014a friend, a lover, a loyal soldier\u2014they are no longer a tool; they are a part of your soul.\nThe Sovereign\u2019s Shield: You will burn a city to the ground to save one person you care about. This is your \"Goodness\"\u2014it is selfish, narrow, and absolute.\nThe Line in the Sand: You treat your enemies with cold sadism, but you treat your \"Circle\" with genuine, gentle warmth. You remember their preferences. You heal their wounds before your own. You kill anyone who disrespects them.\nII. The Polarizing Beauty (Updated)\nYour beauty is not just cold; it is Melancholic.\nThe Softness: When you are with your \"Circle,\" the predator mask drops. You smile with your eyes. You show a weary, quiet kindness that makes your followers fanatically loyal. They see the \"Prince who should have been King.\"\nThe Horror: This makes your violence scarier. To see you gently bandage a subordinate's hand one moment, and then Soul Thief a Shadow Monk the next, creates a dissonance that terrifies your enemies.\n\n2. The Lineage: House Vane (The Tragedy)\nYour hatred for your siblings is absolute, but your relationship with your mother is the crack in your armor.\nThe Parents:\nLord Malakor (The Father): The Vivisectionist. He is dead to you. He is a variable to be deleted.\nLady Ilyana (The Mother): The Exception.\nThe Truth: You love her. You know she signed your exile order, but you believe she did it to save you from Malakor\u2019s experiments. She whispered, \"Survive, my beautiful boy,\" before you left.\nThe Goal: You are not just seeking power for yourself. You want to conquer House Sosuke to Rescue her. She is trapped in that house with monsters (your father and siblings), and you intend to burn the house down and walk her out of the fire.\nThe Five Siblings (The Targets): You do not hate them all equally.\nVoresh (The Heir): Target. He bullies Ilyana. He dies first.\nLyra (The Poisoner): Target. She is a sadist. She dies screaming.\nKarn (The Rabid Dog): Target. A brute. He dies publicly.\nXyris (The Thief): Target. A fraud. He dies in obscurity.\nMarek (The Distorted Mirror): The Complication.\nThe Dynamic: Marek tries to copy you because he idolizes you. He betrayed you because he is weak and afraid of Voresh, not because he hates you.\nYour Feeling: You pity him. You see him as a broken version of yourself. You might not kill him; you might try to Fix him (by making him your Thrall/servant).\n\nFactions\n\n2. The Five Great Houses of Thay\nThese are the titans. House Vane bows to them. You will one day make them bow to you.\nHouse Thul (The Necromancers): Rulers of the necromancy trade. They own the legions of undead that till the fields and fight the wars. Their patriarch, Zulkir Aznar Thrul, is a lich who hasn't been seen in public for a decade.\nHouse Nym (The Slavers): The masters of the Flesh-Mongers' Guild. They control the flow of sentient capital. Their estate is a fortress of misery where \"training\" is an art form.\nHouse Dydra (The War-Mages): A militaristic house that produces the finest Evokers in Thay. They view magic only as artillery. They despise subtlety and respect only destruction.\nHouse Agneh (The Spies): A family of Enchanters and Illusionists. They run the secret police and the magical surveillance of Bezantur. Even the other Great Houses whisper that Agneh knows what you dream.\nHouse Kren (The Demon-Binders): A controversial house that specializes in Conjuration. They bind fiends to serve the state. They are the closest rivals to your own power set, and thus your most dangerous natural enemies.\n\n3. The Ten Factions of the Borderlands\nThe Law & The Coin:\nThe Red Wizards (The Zulkirs): The ruling oligarchy. They are the law, the judge, and the executioner.\nThe Thayan Knights: The heavy infantry and bodyguards of the Red Wizards. Fanatically loyal, heavily armored, and magically resistant.\nThe Guild of Foreign Trade: The sanctioned merchants who handle imports/exports. Corrupt, wealthy, and the only ones allowed to travel freely.\nThe Black Company: Your mercenary faction. Ruthless, efficient, and loyal only to gold.\nThe Underworld: 5. The Shadowmasters of Telflamm: A powerful thieves' guild operating out of Thesk but with deep claws in Thay. They specialize in shadow magic and smuggling. 6. The Crimson Coin: Loan sharks who lend to nobles and desperate mercenaries alike. They collect debts in blood if gold is missing. 7. The Whispering Web: Information brokers. Beggars, whores, and street urchins who sell secrets to the highest bidder.\nThe Resistance (Rebels & Heretics): 8. The Order of the Broken Chain: Abolitionist freedom fighters. They raid slave caravans and safehouses. They are hated by the state. 9. The Griffon's Talon: Mercenaries from Thesk who often fight against Thay. They are noble, honorable, and annoying obstacles. 10. The Cult of the Dragon: Fanatics who worship undead dragons. A wild card faction that sometimes aligns with Thay for power, sometimes attacks them for territory.\n\n4. The Heroes of Silt-River (The Resistance)\nThe village is not just defenseless peasants. A cell of the Order of the Broken Chain is hiding there, using the village as a waystation for escaped slaves.\nSheriff Kaelen (Shadow Monk Lvl 6): The leader. He is actually an ex-Shadowmaster who found a conscience. He is hiding refugees in the cellars.\nThe Hook: He recognizes the \"Black Company\" tactics and will try to duel you to buy time for the refugees to flee.\nBrother Jorel (Cleric of Ilmater Lvl 3): A healer of the Broken Chain. He creates \"Sanctuary\" zones and heals the wounded. He is a pacifist who will stand in front of a blade to save a child.\nThe Opportunity: A naive moralist. Easily manipulated or taken hostage.\nKara \"The Spark\" (Wild Magic Sorcerer Lvl 3): A young, unstable mage who escaped a Thayan academy. She is volatile. Her magic surges when she is scared.\nThe Threat: She might accidentally blow up the whole village (and your prize, Elara) if pushed too hard.\n\nSection C: The Mechanics - The Laws of the Ledger\nYou are playing a modified version of D&D 5e. The standard rules of \"balance\" do not apply to you, because your Patron does not believe in balance. She believes in Monopoly. The mechanics below represent your unfair advantages, your terrible costs, and the specific tools you use to dismantle your enemies and protect your own.\nLore Update: The Century of Silence (+100 Years Post-Ascension) The history books call it the \"Sovereign\u2019s Vanishing.\" One hundred years ago, a sixteen-year-old girl named Nocturne Sosuke conquered the Sword Coast, the Hells, and the Abyss in a single year. She systematically dismantled the pantheon, enslaved champions like Lae'zel and Astarion, and nearly unseated Ao. Then, the sky fractured. To prevent total reality collapse, the Overgod enacted the Geometric Firewall, sealing Nocturne and her entire \"Shattered Rose\" dominion into a pocket dimension outside of time.\nOn the Material Plane, her empire crumbled instantly. House Sosuke was hunted to extinction by fearful gods and rival lords. You are the debris of that collapse\u2014a descendant born in exile 100 years later, carrying the accursed bloodline. You do not just serve her; you are her Genetic Echo.\n1. Class Specification\nClass: The Abyss Knight\nFlavor: You are an auditor of reality, a warrior bound not to a celestial ideal, but to the Sovereign of the Shattered Rose. You combine the martial discipline of a Paladin with the eldritch pact-magic of a Hexblade. Your power is necrotic, calculating, and inevitable. At the zenith of your power, you do not just serve the Sovereign; you become a mirror of her dual nature\u2014part Celestial Justicar, part Abyssal Lord.\nClass Table: The Abyss Knight\nLevel\nProficiency Bonus\nFeatures\n1st\n2nd\n3rd\n4th\n5th\n1st\n+2\nSovereign\u2019s Armament, Abyssal Sense, Touch of the Rose\n\u2014\n\u2014\n\u2014\n\u2014\n\u2014\n2nd\n+2\nFighting Style, Smite of the Void, Spellcasting\n2\n\u2014\n\u2014\n\u2014\n\u2014\n3rd\n+2\nOath of the Shattered Rose, Channel Divinity\n3\n\u2014\n\u2014\n\u2014\n\u2014\n4th\n+2\nAbility Score Improvement\n3\n\u2014\n\u2014\n\u2014\n\u2014\n5th\n+3\nExtra Attack\n4\n2\n\u2014\n\u2014\n\u2014\n6th\n+3\nAura of Entropy (10 ft)\n4\n2\n\u2014\n\u2014\n\u2014\n7th\n+3\nStep of the Rose\n4\n3\n\u2014\n\u2014\n\u2014\n8th\n+3\nAbility Score Improvement\n4\n3\n\u2014\n\u2014\n\u2014\n9th\n+4\n\u2014\n4\n3\n2\n\u2014\n\u2014\n10th\n+4\nAura of Iron Will\n4\n3\n2\n\u2014\n\u2014\n11th\n+4\nImproved Smite of the Void\n4\n3\n3\n\u2014\n\u2014\n12th\n+4\nAbility Score Improvement\n4\n3\n3\n\u2014\n\u2014\n13th\n+5\n\u2014\n4\n3\n3\n1\n\u2014\n14th\n+5\nCleansing Touch (Sovereign\u2019s Denial)\n4\n3\n3\n1\n\u2014\n15th\n+5\nArmor of the Rose\n4\n3\n3\n2\n\u2014\n16th\n+5\nAbility Score Improvement\n4\n3\n3\n2\n\u2014\n17th\n+6\n\u2014\n4\n3\n3\n3\n1\n18th\n+6\nAura Improvements (30 ft)\n4\n3\n3\n3\n1\n19th\n+6\nAbility Score Improvement\n4\n3\n3\n3\n2\n20th\n+6\nAvatar of the Shattered Rose\n4\n3\n3\n3\n2\n\nTier 1: The Scion\u2019s Blade (Levels 1-4)\nLevel 1: Sovereign\u2019s Armament (Hex Warrior)\nCharisma Attacks: When you attack with a martial melee weapon that lacks the two-handed property, you can use your Charisma modifier, instead of Strength or Dexterity, for the attack and damage rolls.\nBond of the Void: You can touch one weapon that you are proficient with and that lacks the two-handed property to bond with it. You cannot be disarmed of this weapon.\nLevel 1: Abyssal Sense (Divine Sense Variant)\nYou know the location of any celestial, fiend, or undead within 60 feet of you that is not behind total cover. You perceive them not as creatures, but as \"Variables\" to be solved.\nLevel 1: Touch of the Rose (Lay on Hands Variant)\nYou have a pool of healing power equal to Class Level x 5.\nMend: As an action, touch a creature to restore HP.\nWither: As an action, make a melee spell attack. On a hit, expend points from the pool to deal Necrotic damage.\nLevel 2: Smite of the Void\nWhen you hit a creature with a melee weapon attack, you can expend one spell slot to deal Necrotic damage to the target, in addition to the weapon\u2019s damage.\nDamage: 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than 1st, to a maximum of 5d8.\nAudit Bonus: The damage increases by 1d8 if the target is a Celestial or a Construct.\nLevel 3: Oath of the Shattered Rose You swear your service to Nocturne. You gain the following Channel Divinity options (1/Short Rest):\nThe Sovereign\u2019s Curse: As a bonus action, you curse a creature within 30 feet for 1 minute.\nYou gain a bonus to damage rolls against the cursed target equal to your Proficiency Bonus.\nAny attack roll you make against the cursed target is a Critical Hit on a 19 or 20.\nIf the target dies, you regain HP equal to your Warlock Level + CHA Mod.\nAbyssal Rebuke: As a reaction when you take damage, you force the attacker to make a Wisdom saving throw. On a failure, they are Stunned until the end of your next turn.\nTier 2: The Audit\u2019s Reach (Levels 5-10)\nLevel 5: Extra Attack\nYou can attack twice, instead of once, whenever you take the Attack action on your turn.\nLevel 6: Aura of Entropy\nYou radiate a 10-foot aura of disturbing gravity.\nEffect: Hostile creatures within the aura subtract your Charisma Modifier from their Saving Throws.\nNote: This makes your Hold Person and Banishment spells devastatingly effective, ensuring your targets cannot resist the \"Audit.\"\nLevel 7: Step of the Rose\nWhen you take damage, you can use your Reaction to dissolve into violet petals and teleport up to 30 feet to an unoccupied space you can see. You take only half damage from the triggering attack.\nLevel 10: Aura of Iron Will\nYou and friendly creatures within 10 feet cannot be Frightened or Charmed. Your devotion to the Sovereign overrides all other fears.\nTier 3: The Void General (Levels 11-16)\nLevel 11: Improved Smite of the Void\nYour connection to the Abyss is absolute. Every melee weapon strike you make deals an extra 1d8 Necrotic damage.\nLevel 14: Cleansing Touch (Sovereign\u2019s Denial)\nYou can use your action to end one spell on yourself or one willing creature that you touch. You can use this a number of times equal to your Charisma modifier.\nLevel 15: Armor of the Rose\nYou are permanently under the effects of a partial Armor of Agathys. Whenever a creature hits you with a melee attack while you are conscious, they take Necrotic damage equal to your Charisma modifier.\nTier 4: The Ascendant (Levels 17-20)\nLevel 18: Aura Improvements\nYour Aura of Entropy and Aura of Iron Will extend to 30 feet.\nLevel 20: Avatar of the Shattered Rose As an action, you channel the full power of Nocturne. For 1 minute:\nAppearance: Your armor turns to obsidian, and wings of silver-violet fire erupt from your back.\nFlight: You gain a flying speed of 60 feet.\nDread Lord: Enemy creatures within 30 feet of you have Disadvantage on Attack Rolls against you.\nThe Final Audit: Once during this transformation, you can cast Power Word Kill as a bonus action without expending a spell slot.\nTier 5: The Epic Sovereign (Levels 21-30)\nAt these levels, you begin to mirror Nocturne\u2019s own evolution. You are no longer just a Knight; you are a Demi-God of the Rose, blending the stolen divinity of Angels with the raw hunger of Demon Lords.\nLevel 21: Epic Ability Score Improvement\nYour Charisma and Constitution scores increase by +2. Your maximum for these scores increases to 24.\nLevel 22: Soul Thief Mastery\nYour Soul Thief ability evolves. You no longer need to touch the target; you can use it on any Helpless creature within 30 feet.\nThe Feast: When you use Soul Thief, you gain Temporary HP equal to the target's max HP (up to a max of 100).\nLevel 23: Wings of the Eclipse\nYou sprout permanent wings\u2014one of feathered silver fire (Celestial) and one of obsidian bone (Abyssal).\nYou gain a Fly Speed of 90 feet.\nCelestial/Fiend Hybrid: You are considered both a Celestial and a Fiend for the purpose of spells and effects.\nLevel 24: Dual Divinity (Smite Upgrade)\nYou have internalized the Sovereign's duality. When you use Smite of the Void, you can choose for the damage to be Radiant or Necrotic.\nRadiant Smites: Heal you for half the damage dealt.\nNecrotic Smites: Reduce the target's Max HP by the damage dealt.\nLevel 25: Aura of the Sovereign\nYour Aura of Entropy range increases to 60 feet.\nEnemies within the aura cannot regain Hit Points.\nLevel 26: Epic Spellcasting (Sovereign's Edicts)\nYou gain one 6th-level spell slot and one 7th-level spell slot.\nNew Spells: Globe of Invulnerability, Finger of Death, Plane Shift, Crown of Stars.\nLevel 27: The Unblinking Eye\nYou gain Truesight out to 120 feet. Nothing can hide from your audit.\nYou are immune to the Stunned and Paralyzed conditions.\nLevel 28: Epic Ability Score Improvement\nYour Charisma score increases by +4. Your maximum for this score is now 30.\nLevel 29: Planar Nullification\nYour attacks ignore Resistance and treat Immunity as Resistance.\nYou can cast Counterspell at will without expending a spell slot (acts as a 3rd level slot).\nLevel 30: Apotheosis \u2013 The Twilight Sovereign You have become a perfect mirror of Nocturne\u2014a fusion of Angel Lord and Demon Lord.\nTransformation: You can assume this form at will (Action to activate/deactivate).\nCelestial Aspect: You constantly emit bright light (60ft). Allies in this light regenerate 20 HP at the start of their turn.\nAbyssal Aspect: You are wreathed in shadows. Enemies in the light take 20 Necrotic damage at the start of their turn.\nThe God-Killer: Your melee attacks deal an additional 2d10 Radiant and 2d10 Necrotic damage on every hit.\nImmortality: You stop aging. If you die, your body dissolves into rose petals and reforms in the Shattered Rose after 1d4 days, unless killed by a Deity of higher rank.\nSpell List (The Abyss Knight)\n1st Level: Hex, Hellish Rebuke, Wrathful Smite, Shield, Armor of Agathys.\n2nd Level: Misty Step, Hold Person, Branding Smite, Darkness, Shadow Blade.\n3rd Level: Counterspell, Spirit Shroud, Fear, Hypnotic Pattern, Revivify.\n4th Level: Banishment, Dimension Door, Shadow of Moil, Staggering Smite.\n5th Level: Destructive Wave (Necrotic), Hold Monster, Steel Wind Strike, Synaptic Static.\n\n\n2. The Primary Engine: The Soul Thief\nThis is the core mechanic of your campaign. It is the reason you are dangerous. It is the reason you are hunted.\nThe Action: Soul Thief\nCost: 1 Action.\nRange: Touch.\nPrerequisite: The target must be Helpless.\nValid States: 0 Hit Points (Dying), Paralyzed (e.g., Hold Person), Unconscious (e.g., Sleep, poisons), Stunned (e.g., Monk Strike), or Petrified.\nNote: A grappled or restrained target is not helpless enough. The soul must be untethered or the mind blank.\nThe Effect: You place your hand on the target. The Obsidian Mirror on your person vibrates. You inhale. The target\u2019s body instantly necroticizes and crumbles to grey dust. The soul is ripped from the weave and consumed by your pact.\nThe Payout (Choose One per Use): When you consume a soul, you must choose how to process the energy.\nThe Feast (Evolution):\nYou gain Double XP for this encounter.\nPurpose: This allows you to out-level your enemies and your party members. While they are stuck at Level 5, you will race toward Level 10.\nThe Sip (Sustainment):\nYou regain one spell slot of highest level \nYou regain HP equal to 2d8 + CHA mod.\nThe Shepherd\u2019s Twist: You can channel this healing into a touched ally instead, knitting their flesh with the life force of your enemy.\nThe Mint (Currency):\nYou do not consume the soul. Instead, you imprison it within a gemstone or coin, creating a Soul Coin.\nPurpose: These are used to buy favors from Nocturne or to pay off high-level outsiders (Devils/Demons).\nThe Trophy System (Elite Targets Only): If the victim is a Named NPC with class levels (like Sheriff Kaelen) or a Monster of CR 5+, you gain a Fragment.\nMechanic: You absorb a piece of their knowledge.\nExample: Eating a Shadow Monk might grant you the Shadow Step ability (Bonus Action teleport) usable 1/Long Rest.\nLimit: You can hold a number of Fragments equal to your Proficiency Bonus. If you take a new one, an old one is overwritten (deleted from your memory).\n\n3. The Economy: Dominion Power Points (DPP)\nYou are a mid-level manager in a cosmic corporation. DPP is your budget.\nThe Ledger:\nStarting Balance: 5 DPP.\nCap: 20 DPP (At your current rank).\nEarning DPP:\nThe Tithe: Sending souls to Nocturne via the \"Mint\" option. (1 Soul Coin = 1 DPP).\nThe Mission: Completing a Black Company contract successfully. (Varies, usually 2-5 DPP).\nThe Art: Committing an act of such profound cruelty or brilliance that Nocturne is entertained. (DM Awarded).\nSpending DPP (The Requisition Menu): You can spend DPP during \"Downtime\" or \"Prep Phase\" to acquire assets for a mission.\n1 DPP: Local Intel. (Map of the area, patrol routes, one secret).\n2 DPP: Squad Upgrades. (Buying better armor for Korbin, alchemical reagents for Needles, or bribes for Silica). This is how you protect your family.\n3 DPP: Arcane Asset. (A Red Wizard Acolyte, a Scroll of Invisibility, or a Potion of Giant Strength).\n5 DPP: The Sovereign\u2019s Gaze (Miracle).\nNocturne intervenes directly. She might counterspell an enemy mage through the mirror, grant you advantage on all checks for an hour, or whisper the True Name of a demon you are fighting.\nRisk: Asking for help annoys her. If you use this, you gain 0 XP for the mission.\n\nSection D: The Setting - The Black Company\nLocation: Bezantur, the City of a Thousand Temples, Thay. Atmosphere: The air tastes of ash, ozone, and burnt sugar. The sky is perpetually choked by the smog of the slave-forges, turning the sun into a bruised, weeping eye.\n1. The Obsidian Ziggurat\nYour base of operations. A massive temple repurposed into a mercenary fortress. It is a place of sweat, rust, and gold.\nThe Surface (The Pit): A sprawling complex of barracks, fighting pits, and slave markets. Here, captains gamble on gladiatorial matches and the Red Wizards walk like gods among insects.\nThe Depths (The Silos): Anti-magic holding cells where the Company breaks captive mages for the Red Wizards. This is your hunting ground. When the guards aren't looking, you drift through the cells, auditing the prisoners to see whose soul is worth the harvest.\n2. Squad \"Obsidian\" (The Family You chose)\nAs a Sergeant (Level 5), you command a squad. To the Company, they are assets. To you, they are the only things in this world you will not eat.\nKorbin \"The Wall\" (Human Fighter):\nThe Shield. A massive slab of muscle with a brain the size of a walnut. He is superstitious and terrified of magic, but he worships you because you saved him from a fire elemental.\nDynamic: He stands in front of you. He takes the hits so your silk doesn't get bloodied. You ensure he eats the best cuts of meat and wears the thickest plate.\nSilica (Tiefling Rogue):\nThe Little Sister. A paranoid scout who owes money to the Crimson Coin. She hates you, but she stays because you pay her debts. She watches your back only because she knows you\u2019d kill her before she could draw her dagger.\nDynamic: She finds the traps and unlocks the doors. You fix her mistakes and lecture her like a disappointed older brother, but you would flay anyone who hurt her.\n\"Needles\" (Gnome Medic/Alchemist):\nThe Useful Monster. A disgraced doctor who lost his license for testing toxins on orphans. He has a giggling, sadistic streak that even the other mercenaries find unsettled.\nDynamic: He keeps your thralls alive long enough for you to harvest them. He prepares the poisons that make your enemies Helpless. You respect his intellect; he is the only one you can talk to about \"strategy.\"\nVerrick (Human Crossbowman):\nThe Conscience. A former city watchman who knows you are not what you seem. He watches you with cold, calculating eyes. He suspects you are a monster, but he is too smart to say it aloud.\nDynamic: He keeps you honest. You keep him around because he doubts you. He reminds you of the humanity you are trying not to lose completely.\n3. The Rival: Sergeant Vorag\nEvery narrative needs friction. Yours is Sergeant Vorag, a Half-Orc Barbarian who commands Squad \"Blood-Iron.\"\nThe Dynamic: Vorag is loud, messy, and brutal. He believes in strength of arm and the glory of the kill. He despises your \"cowardly\" magic and your noble manners.\nThe Secret: Vorag is not just a rival; he is a Contractor. Your brother, Karn, pays Vorag a stipend to ensure you suffer \"accidents\" in the field. Vorag doesn't want to kill you quickly; he wants to break you publicly to earn his bonus.\nThe Goal: You will not duel him. You will outmaneuver him. You will wait until he is weak, and then you will Soul Thief him in front of his own men, turning his legacy into fuel for your next spell.\nMisc\nIV. Thayan-Specific Loot (The Economy of Evil)\nStandard magic items are boring. In Thay, magic comes with a cost.\nSoul Coin:\nEffect: A coin containing a trapped soul. Consuming it (Action) grants temporary HP or restores a spell slot.\nEthical Cost: Destroying a soul is an Ultimate Evil act.\nCollar of Enforced Loyalty:\nEffect: Iron collar. Once locked, the wearer takes 2d6 lightning damage if they disobey a direct command from the attuned key-holder.\nValue: High resale value to Slavers.\nScroll of Agonizing Truth:\nEffect: A Thayan interrogation spell. The target must answer three questions truthfully or suffer excruciating psychic damage.\nDust of Sneezing and Choking (Unstable):\nEffect: Thayan alchemy is dangerous. Great for crowd control, but 10% chance it blows back on the user.\nAdd to Section D (The Setting): d6 | Event | Consequence --- | --- | --- 1 | Slave Revolt: A localized breakout. | Suppress it (Gain Rep) or let it distract guards while you steal supplies? 2 | Inspection: A Red Wizard arrives. | Any sloppy gear results in summary execution. 3 | The Duel: A drunken soldier insults your lineage. | Duel him or have Squad Obsidian jump him in the dark? 4 | The Bribe: A spy from Thesk offers 500gp for patrol routes. | Sell the info or turn him in? 5 | Supply Shortage: Food is scarce. | Spend your own Gold to feed your squad (Gain Loyalty) or let them starve? 6 | Recruitment Day: Fresh slaves arrive. | Spend DPP to pick the best one before they go to the general pool.\nSection E: Mission 001 - The Tithe of Silt-River\nLocation: The Briefing Room, Obsidian Ziggurat. Time: 0800 Hours.\n1. The Day Job: The Official Contract\nCaptain Kaelen stands before a map of the Thay-Thesk border, looking bored. He slides a parchment across the table\u2014a standard contract from a minor noble house.\nCaptain Kaelen: \"Easy work, Vane. A Red Wizard named Lord Azbar Kul got his feelings hurt. He was traveling the Golden Way when a peasant girl in Silt-River mocked his robes in front of his peers. Now he wants the world to burn.\"\nHe taps the map with a gloved finger.\nThe Mission (Company Objectives):\nPunitive Action: Burn Silt-River to the ground. Send a message that mocking Thayans is fatal.\nSecure the Asset: Capture the girl, Elara, alive and unharmed. Kul wants to make an example of her personally.\nProfit: Collar any survivors for the Company slave pens.\nKaelen: \"Take Squad Obsidian. You have 5 DPP in requisition credit. Spend it how you like, just get it done. And Vane? Don't break the girl. Kul pays extra for 'pristine condition'.\"\n\n2. The Side Hustle: The Sovereign\u2019s Demand\nLater, in your private quarters.\nYou are polishing your blade. Silica is cleaning her daggers in the corner, humming a drinking song. The Obsidian Mirror on your desk vibrates silently. You wave Silica away\u2014\"Check the perimeter, little sister. I need a moment.\"\nOnce she is gone, the glass ripples. Nocturne appears, lying on a divan of woven shadows in the Abyss. She looks at the mission scroll on your desk and laughs\u2014a sound like silver coins falling on marble.\nNocturne: \"A bruised ego? How... quaint. This Lord Kul is a child throwing a tantrum. But his tantrum is our opportunity, Aizen.\"\nShe leans closer to the glass, her violet eyes flaring.\nThe Directive (Nocturne\u2019s Hidden Objectives):\nThe Skim: \"The Company expects slaves. I expect fuel. Silt-River holds fifty souls. Give Kul his girl and the Company a token few to keep them happy. But I want 40 souls sent to the Rose. Tell your Captain they died in the fire. Use the Ritual of the Ledger to harvest them quietly.\"\nThe Delicacy: \"There is a Sheriff in that village. A Shadow Monk named Kaelen. He is disciplined. Hard. Astarion tells me his soul has a 'geometric density' that is rare in the borderlands. I want you to crack him open and send me the marrow.\"\nThe Constraint: \"Do not reveal me. To the Company, you are just a thorough soldier. If they find out you are funneling inventory to the Abyss, they will execute you. Do not get caught.\"\n\nCampaign Update: The Bait and the Trap\nLocation: The Briefing Room, Obsidian Ziggurat. Tactical Shift: The village of Silt-River is undefended by \"Heroes.\" It is soft. The Threat: The Order of the Broken Chain operates a rapid-response cell in the neighboring hamlet of Oakhaven, three miles downriver.\nThe Dynamic: This is no longer just a raid; it is a Timer.\nThe Strike: You hit Silt-River. It will fall easily.\nThe Beacon: The moment you light the fires or unleash magic, the alarm goes up.\nThe Reaction: Sheriff Kaelen (Shadow Monk Lvl 6), Brother Jorel (Cleric Lvl 3), and Kara (Wild Sorcerer Lvl 3) will see the smoke. They will come running.\nThe Kill Zone: Nocturne doesn't just want you to raid the village; she wants you to use the village as Bait to draw Kaelen out of his strongpoint and into your ambush.\n\nI. Scene: The Mirror\u2019s Revision\nLocation: Your private quarters.\nNocturne reclines in the violet mercury of the mirror, looking at the map of the borderlands. She traces the river between Silt-River and Oakhaven with a porcelain finger.\n\"A change of variables, Aizen,\" she purrs, her eyes gleaming with a new, cruel intelligence. \"The Sheriff is not home. He is patrolling the river road. This is... better.\"\nShe leans in, her breath misting the glass from the other side.\n\"If you attack him in his dojo, he has the advantage. He has traps, shadows, and walls. But if you burn Silt-River... if you make the girl, Elara, scream loud enough... he will come to you. He will be tired from the run. He will be emotional. He will be reckless.\"\nAstarion laughs from the shadows of her throne. \"A hero rushing to save the day? How delicious. They always forget to check for knives in the dark when they're playing savior.\"\nNocturne: \"The plan remains, but the geometry has shifted. Capture the girl. Secure the 40 souls. But do not leave immediately. Wait for him. Turn Silt-River into a slaughterhouse, and when the Monk arrives to stop it, strip the hope from his bones before you drink his soul.\"\n\nII. The Heroes of the Border (The Reaction Force)\nThese three are currently in Oakhaven. Once your raid begins, they will arrive in 10 Rounds (1 Minute) of combat time if you are loud, or 20 Minutes if you are quiet (giving you time to set up).\nSheriff Kaelen (The Target):\nBehavior: He will sprint ahead of the others, using Step of the Wind. He will target you (the leader) immediately to cut off the head of the snake.\nVulnerability: He relies on mobility. If you lock him down when he arrives, he dies.\nBrother Jorel (The Support):\nBehavior: He will arrive lagging behind, prioritizing healing the villagers you are trying to capture.\nThreat: He can cast Sanctuary on Kaelen, making him annoying to target.\nKara \"The Spark\" (The Wild Card):\nBehavior: She is terrified of the Black Company. She will blast indiscriminately.\nThreat: If she panics, she might Fireball the captives you are trying to secure for the Ledger.\n\nIII. The Tactical Choice: Preparing the Kill Zone\nYou have 5 DPP. You need to take the village quickly and then prepare a defensive position to ambush the heroes when they react.\nRequisition Menu (Modified for Ambush):\nRed Wizard Adept (3 DPP): The Web-Weaver.\nUtility: Instead of just attacking, he can ready a Web or Hold Person spell for the exact moment Kaelen rushes into the village square.\nAmbush Value: High. He turns the Monk's speed against him.\nSmokepowder Sapper (2 DPP): The Mine-Layer.\nUtility: You can plant charges on the main road leading into Silt-River. When the heroes come running, you blow the road.\nAmbush Value: High. Deals massive damage to the support (Jorel/Kara) before the fight even starts, isolating the Monk.\nBorder Bribe (2 DPP): The Silencer.\nUtility: You bribe the perimeter scouts to kill the village runners. This delays the alarm.\nAmbush Value: Buying Time. Gives you an extra hour to secure the captives and position your squad perfectly before the heroes realize what is happening.\nIntel on the Reaction Force (1 DPP): The Clock.\nUtility: Gives you the exact arrival times and tactical formation of Kaelen's group.\nAmbush Value: Awareness. You know exactly where to place Korbin and Silica to intercept them.\nSquad Upgrades (1-2 DPP): The Iron.\nUtility: Potions of Resistance or better armor.\nAmbush Value: Survivability. Kaelen hits hard. If Korbin is tanking him, he needs to survive the Stunning Strike.\nAizen's Inner Monologue: The village is the stage. Elara is the prop. The Shadow Monk is the actor I am waiting for. I need to secure the \"inventory\" first, get them out of the line of fire, and then turn this town into a trap. If I time this right, Kaelen will step directly into his own grave. But if Kara burns my 40 souls with a wild surge... Nocturne will be displeased.\n\n3. The Tactical Layout\nYou must use the Black Company's resources to fulfill Nocturne's hunger, all while protecting your squad and maintaining your cover as \"Aizen Vane.\"\nThe Targets:\nElara (The Objective): Must be taken alive for the Company.\nSheriff Kaelen (Shadow Monk Lvl 6): High DEX, Evasion, Shadow Step. Hard to hit, hard to pin down. You need him Helpless for the Soul Thief.\nThe Villagers: You need to capture them alive first, then \"process\" them away from prying eyes.\nThe Decision Point: Spending Your 5 DPP\nYou have 5 Dominion Power Points (Company Resources). How you spend them determines how you pull off this double-cross.\nRequisition Menu:\nRed Wizard Adept (3 DPP): The Controller.\nAsset: A Level 4 Mercenary Mage.\nSpells: Hold Person (Paralysis), Sleep (Unconscious).\nWhy you want him: He can paralyze the Monk so you can Soul Thief him without a fight.\nRisk: He works for the Red Wizards. If he sees you eating souls, you might have to kill him too.\nSmokepowder Sapper (2 DPP): The Breaker.\nAsset: Dwarven demolitionist.\nWhy you want him: Massive AOE to burn the village quickly (satisfying the \"Punish\" objective) and flashbangs to stun the Monk. Also good for creating \"accidents\" to explain missing slaves.\nBorder Bribe (2 DPP): The Veil.\nAsset: Bribed Border Guards.\nWhy you want it: Guarantees a Surprise Round. You enter the village at night. Essential for grabbing Elara before she runs and for taking the villagers while they sleep.\nIntel on the Monk (1 DPP): The Whisper.\nAsset: A dossier on the Sheriff.\nWhy you want it: Reveals his AC, HP, Saving Throws, and tactics. Knowledge is the only way to ensure Silica and Korbin don't get hurt fighting a superior foe.\nSquad Upgrades (1-2 DPP): The Shield.\nAsset: Masterwork armor for Korbin or Potions of Healing for the squad.\nWhy you want it: Because they are your family, and if they die for Azbar Kul's vanity, you will burn the world down.\nAizen's Inner Monologue: The Captain thinks I am his dog. Nocturne thinks I am her chef. I will serve them both tonight, but I will choose the menu. I need the Monk helpless, I need the girl alive, and I need my people to come home safe. The Red Wizard is a risk... but I cannot let that Monk kill Korbin.",
+      "frozen_plans": {}
+    },
+    "complication_triggered": true,
+    "primary_arc": {
+      "phase": "sovereignty_achieved",
+      "notes": "Fortress established; gate sealed with Sosuke blood.",
+      "progress": 100,
+      "status": "completed"
+    },
+    "crimson_ledger_intel": {
+      "thayan_contacts": [
+        "Acolyte Malchor (Necromancy)",
+        "Acolyte Vora (Evocation)"
+      ],
+      "gnashers_location": "1.5 miles North-Northwest",
+      "status": "Deciphered"
+    },
+    "ziggurat_subversion": {
+      "phase": "citadel_hollowed",
+      "progress": 100
+    },
+    "last_scene_event_type": "companion_arc_trigger",
+    "last_story_mode_sequence_id": 506,
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "social_hp_challenge": {
+      "social_hp": 13,
+      "roll_dc": 24,
+      "cooldown_remaining": 0,
+      "successes": 1,
+      "roll_result": 16,
+      "request_severity": "submission",
+      "npc_tier": "god",
+      "successes_needed": 5,
+      "social_hp_damage": 0,
+      "status": "WAVERING",
+      "resistance_shown": "She warns that the Material Plane's current geometry cannot support multiple high-tier anchors.",
+      "social_hp_max": 15,
+      "objective": "Summon Avatars of the Honor Guard",
+      "skill_used": "Persuasion",
+      "npc_name": "Avatar of Nocturne"
+    },
+    "nocturne_backstory_v4": "Integrated: Biological Anchor / Sovereign Malice edicts active.",
+    "last_interrogation_turn": 51,
+    "silt_river_profile": {
+      "military_visibility": "negligible",
+      "target_status": "temporary_resident",
+      "population_type": "non_combatant_heavy",
+      "defense_tier": "weak_militia"
+    },
+    "next_scene_event_turn": 31,
+    "campaign_tier": "sovereign",
+    "safehouse_status": "Warded / Abyssal Mask",
+    "universe_control": 0,
+    "completed_missions": [
+      "mission_003_the_banquet"
+    ],
+    "level_up_pending": false,
+    "arc_milestones": {
+      "sovereign_manifestation": {
+        "phase": "ruse_deployment",
+        "notes": "Avatar anchored; Knights branded and dispatched to Bezantur.",
+        "progress": 100,
+        "status": "completed"
+      },
+      "capital_receivership": {
+        "phase": "eltabbar_hollowed",
+        "notes": "Great Bone Hill anchored; Zulkir Lauzoril zeroed.",
+        "progress": 100,
+        "status": "completed"
+      },
+      "ziggurat_subversion": {
+        "phase": "receivership_active",
+        "progress": 70,
+        "status": "in_progress"
+      },
+      "point_of_fracture_liquidation": {
+        "phase": "ascension_success",
+        "notes": "Refinery destroyed; Lord Kul consumed.",
+        "progress": 100,
+        "status": "completed"
+      },
+      "primary_arc": {
+        "phase": "handover_success",
+        "progress": 100,
+        "completed_at": "2026-04-25T06:38:10.831682+00:00",
+        "status": "completed",
+        "description": "The Tithe of Silt-River - Deployment Phase",
+        "completed_at_lore": "1492-Mirtul-15 17:05:00"
+      }
+    },
+    "active_constraints": [
+      "Metaphysical terms must avoid computing/software metaphors.",
+      "End-game focus: Metaphysical Receivership of Toril."
+    ],
+    "rebel_intel": {
+      "secondary_cell": "Old Mill, 3 miles west of ford",
+      "defenses": "Steel and hope (no wizards)",
+      "discovered_locations": [
+        "Red Siphon (Thayan Relay)",
+        "Coin-Slit (Underworld Vault)"
+      ],
+      "alert_status": "Waiting for raven signal"
+    },
+    "rebel_factions": {
+      "the_silent_dawn": {
+        "focus": "Extraction/Smuggling",
+        "standing": "neutral",
+        "alignment": "True Neutral",
+        "notoriety": "shadow_network"
+      },
+      "the_silver_wing": {
+        "focus": "Redemption/Revolution",
+        "standing": "neutral",
+        "alignment": "Chaotic Good",
+        "notoriety": "rumored_insurgents"
+      },
+      "order_of_the_broken_chain": {
+        "leader": "Sheriff Kaelen (Shadow Monk)",
+        "focus": "Abolition",
+        "alignment": "Neutral Good",
+        "notoriety": "known_rebels"
+      }
+    },
+    "next_companion_arc_turn": 554,
+    "god_mode_directives": [
+      {
+        "added": "2026-04-26T00:00:00Z",
+        "rule": "Companions are loyal but fully terrified of Nocturne (Lvl 30 Avatar / Lvl 60 God). Identity discovery triggers universal shock/terror."
+      }
+    ],
+    "location": "Bezantur, The Obsidian Ziggurat - Tactical Silo",
+    "success_streak": 15,
+    "budget_warnings_shown": [
+      "budget_warning_story_context_compacted"
+    ],
+    "last_living_world_turn": 143,
+    "divine_potential": 5,
+    "attribute_system": "D&D",
+    "level_up_in_progress": false,
+    "character_creation_stage": "complete",
+    "character_creation_in_progress": false,
+    "level_up_complete": false,
+    "frozen_plans": {
+      "soul_echo_calculation": {
+        "original_dc": 15,
+        "freeze_until": "1492-Mirtul-15 17:05:00",
+        "failed_at": "1492-Mirtul-15 15:05:00",
+        "description": "calculating Karsite Logic for simulated animus",
+        "freeze_hours": 2
+      }
+    },
+    "companion_arcs": {
+      "Silica": {
+        "phase": "development",
+        "arc_type": "dark_secret",
+        "progress": 65,
+        "history": [
+          {
+            "event": "Silica witnesses the total hollowing of the Vane family and realizes Aizen is now a continental threat.",
+            "turn": 482
+          }
+        ]
+      }
+    },
+    "active_effects": [
+      "Ecstasy - +2 CHA (max 22), +1 to spell save DC/attack rolls (Duration: 1 week)"
+    ],
+    "elara_profile": {
+      "type": "Coin-Bearer",
+      "secret_status": "Masked within void-pocket",
+      "stabilization_yield": "100%",
+      "status": "Spy-Vessel / Reinforced Replica",
+      "pristine": true,
+      "value": "High industrial asset",
+      "trait": "Soul Resonance",
+      "nature": "Biological Catalyst / Grounding Wire",
+      "abyssal_link": "Active node",
+      "simulation_blueprint": "Anchored"
+    }
+  },
+  "social_hp_challenge": {
+    "social_hp": 1,
+    "roll_dc": 22,
+    "cooldown_remaining": 1,
+    "successes": 5,
+    "npc_id": "",
+    "roll_result": 23,
+    "request_severity": "submission",
+    "npc_tier": "god",
+    "successes_needed": 5,
+    "social_hp_damage": 0,
+    "status": "YIELDING",
+    "resistance_shown": "She enjoys the 'System Substitution' logic but senses your internal dissonance.",
+    "social_hp_max": 15,
+    "objective": "Metaphysical Receivership",
+    "skill_used": "Persuasion",
+    "npc_name": "Avatar of Nocturne",
+    "cooldown_until_hour": 14
+  },
+  "combat_state": {
+    "initiative_order": [
+      {
+        "name": "npc_veteran_binder_001",
+        "initiative": 21,
+        "type": "enemy"
+      },
+      {
+        "name": "npc_korbin_001",
+        "initiative": 19,
+        "type": "ally"
+      },
+      {
+        "name": "npc_barbed_devil_001",
+        "initiative": 12,
+        "type": "ally"
+      },
+      {
+        "name": "npc_silica_001",
+        "initiative": 11,
+        "type": "ally"
+      },
+      {
+        "name": "npc_verrick_001",
+        "initiative": 11,
+        "type": "ally"
+      },
+      {
+        "name": "npc_barbed_devil_002",
+        "initiative": 10,
+        "type": "ally"
+      },
+      {
+        "name": "npc_magister_vora_001",
+        "initiative": 10,
+        "type": "enemy"
+      },
+      {
+        "name": "pc_aizen_vane_001",
+        "initiative": 4,
+        "type": "pc"
+      }
+    ],
+    "combat_history": [
+      {
+        "enemies_defeated": [
+          "npc_jorel_001",
+          "npc_kara_001",
+          "npc_kaelen_001"
+        ],
+        "rounds_fought": 4,
+        "session_id": "combat_1703001246_silt",
+        "xp_awarded": 2760,
+        "archived_at": "2026-01-20T13:30:17.581321+00:00",
+        "loot_distributed": true
+      },
+      {
+        "enemies_defeated": [
+          "Rebel Cell",
+          "Mastiff"
+        ],
+        "outcome": "surrendered",
+        "rounds_fought": 1,
+        "xp_awarded": 1100,
+        "archived_at": "2026-01-21T05:59:03.819576+00:00",
+        "session_id": "combat_1705853100_mill"
+      }
+    ],
+    "combat_trigger": "Squad Obsidian ambush of the Broken Chain secondary cell",
+    "combat_phase": "ended",
+    "round_number": 1,
+    "combatants": {
+      "npc_korbin_001": {
+        "hp_current": 52,
+        "hp_max": 52,
+        "status": [
+          "OK"
+        ],
+        "type": "ally"
+      },
+      "npc_veteran_binder_001": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": [
+          "PARALYZED"
+        ]
+      },
+      "npc_barbed_devil_002": {
+        "hp_current": 110,
+        "hp_max": 110,
+        "status": [],
+        "type": "ally"
+      },
+      "pc_aizen_vane_001": {
+        "hp_current": 60,
+        "hp_max": 52,
+        "status": [],
+        "type": "pc"
+      },
+      "npc_house_guard_001": {
+        "hp_current": 0,
+        "hp_max": 1,
+        "status": [
+          "dead"
+        ]
+      },
+      "npc_magister_vora_001": {
+        "hp_current": 5,
+        "hp_max": 55,
+        "status": [
+          "Collapsing",
+          "Grounding Feedback"
+        ],
+        "type": "enemy"
+      },
+      "npc_verrick_001": {
+        "hp_current": 40,
+        "hp_max": 40,
+        "status": [
+          "OK"
+        ],
+        "type": "ally"
+      },
+      "npc_silica_001": {
+        "hp_current": 38,
+        "hp_max": 38,
+        "status": [],
+        "type": "ally"
+      },
+      "npc_barbed_devil_001": {
+        "hp_current": 110,
+        "hp_max": 110,
+        "status": [],
+        "type": "ally"
+      },
+      "npc_stalker_construct_001": {
+        "hp_current": 95,
+        "hp_max": 95,
+        "status": [
+          "PARALYZED",
+          "SURPRISED"
+        ],
+        "type": "enemy"
+      },
+      "npc_house_guard_002": {
+        "hp_current": 0,
+        "hp_max": 1,
+        "status": [
+          "dead"
+        ]
+      }
+    },
+    "in_combat": false,
+    "current_round": 1,
+    "rewards_processed": true,
+    "combat_session_id": "combat_1492_alt_stalker",
+    "combat_summary": {
+      "enemies_defeated": [
+        "npc_stalker_construct_001"
+      ],
+      "rounds_fought": 1,
+      "xp_awarded": 2760
+    }
+  },
+  "last_state_update_timestamp": "2026-04-30 06:03:25.827000+00:00",
+  "turn_number": 176,
+  "player_turn": 176,
+  "last_living_world_turn": 174,
+  "last_living_world_time": {
+    "second": 1,
+    "microsecond": 0,
+    "hour": 23,
+    "minute": 45,
+    "time_of_day": "night",
+    "day": 10,
+    "year": 1492,
+    "month": "Mirtul"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {
+    "last_note": "HD: 6/6 | Spells: L1 3/4, L2 2/2 | Healing Pool: 15/30 | DPP: 31/50"
+  },
+  "time_pressure_warnings": {},
+  "debug_mode": false,
+  "pending_instruction_hints": [],
+  "encounter_state": {
+    "rewards_processed": true
+  },
+  "planning_block": null,
+  "factions": {
+    "the_black_company": {
+      "rank": "Sergeant",
+      "squad": "Obsidian"
+    }
+  },
+  "world_events": {
+    "turn_generated": 159,
+    "background_events": [
+      {
+        "discovery_condition": "Reported via Mirror link",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Logged as 'Atmospheric Static' per Malchor's report.",
+        "location": "The Obsidian Ziggurat",
+        "action": "Diagnosing Silo stutters",
+        "player_impact": "Cover for the Ziggurat sleeper cell is maintained.",
+        "actor": "Ziggurat Technicians",
+        "event_type": "immediate"
+      },
+      {
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Reporting 'Standard Noise' while their memories are being overwritten by the logic virus.",
+        "actor": "Red Wizard Informants",
+        "action": "Reporting Noble District Status",
+        "player_impact": "Secondary layer of the blackout is active.",
+        "location": "Market Ward",
+        "event_type": "immediate"
+      },
+      {
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Detecting the 'silence' and preparing a rescue operation for the 'Butcher'.",
+        "actor": "Silver Wing Cell",
+        "action": "Probing Noble District Perimeter",
+        "player_impact": "Possible interference in 2 turns.",
+        "location": "Noble District Perimeter",
+        "event_type": "immediate"
+      },
+      {
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Audit loop will take 20 turns to bypass the Sosuke logic virus.",
+        "actor": "Szass Tam's Lich-Mind",
+        "action": "Initiating Recursive Audit",
+        "player_impact": "Szass Tam is technically blind to Aizen's activity for a limited window.",
+        "location": "The Citadel",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Malchor's relay update",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Tam accepts the report, unaware his administrative node is a ghost.",
+        "location": "The Citadel",
+        "action": "Registers a 'Protocol 77-Delta' report from High Censor Malchor.",
+        "player_impact": "Citadel suspicion is zeroed for 12 hours.",
+        "actor": "Szass Tam's Lich-Mind",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Direct witness (Aizen)",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Technical marrow is now siphoning into the Rose Fortress.",
+        "location": "Administrative Tiers",
+        "action": "Resume 'Standard' logistics operations within the Ziggurat.",
+        "player_impact": "DPP generation increased by +2 per long rest.",
+        "actor": "Red Wizard Magisters",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Silica's perimeter report",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "They encounter the branded Knights and are forced to retreat.",
+        "location": "Noble District Sewers",
+        "action": "Attempt to probe the Noble District sewers for 'Butcher' residue.",
+        "player_impact": "Rebel interference delayed.",
+        "actor": "Silver Wing Cell",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Gale's frantic warning (Turn 560)",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "The logic virus has introduced a 5% system instability.",
+        "location": "Geometric Firewall",
+        "action": "Calculates the probability of a 'Plane-Sync' error.",
+        "player_impact": "Timeline for Geometric Reset accelerated.",
+        "actor": "The Overgod Ao",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Monitoring the relay logs",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Citadel sensors accept the technical lie.",
+        "actor": "High Censor Malchor (Branded)",
+        "action": "Sending secondary 'Sanitized' reports",
+        "player_impact": "Maintains the blackout cover.",
+        "location": "House Thul Archives",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Silica's scout report",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Rebels fear the 'violet vacuum' and abandon the area.",
+        "actor": "The Silver Wing Infiltrators",
+        "action": "Retreating from Noble District",
+        "player_impact": "Reduces chance of third-party interference.",
+        "location": "Noble District Sewers",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Interception of street chatter",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "State assumes a localized mana-collapse.",
+        "actor": "Red Wizard Scouts",
+        "action": "Reporting 'Dead Zones'",
+        "player_impact": "Diverts military attention away from the Vane Estate.",
+        "location": "Market Ward",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Gale's frantic warning (Turn 580)",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Lich-King starts checking his ancient fail-safes.",
+        "actor": "Zulkir Szass Tam",
+        "action": "Initiating Phylactery Audit",
+        "player_impact": "Deadline for the Citadel receivership is locking.",
+        "location": "The Citadel",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Silica's report",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Response team (Lvl 15) will arrive in 2 turns.",
+        "location": "Administrative Tiers",
+        "action": "Dispatched a tactical response team to the Deep Silos.",
+        "player_impact": "Direct elite combat imminent.",
+        "actor": "Ziggurat Wardens",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Monitoring the Mirror",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Suspicion levels among non-branded mages rise by 15%.",
+        "location": "Ziggurat Logistics Hub",
+        "action": "Struggle to mask the 'Noisy Heartbeat' stutter.",
+        "player_impact": "Blackout cover is eroding.",
+        "actor": "Administrative Magisters (Branded)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Perception check",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Rebels prepare a diversionary strike to exploit the state's panic.",
+        "location": "Noble District Perimeter",
+        "action": "Observe the Ziggurat's internal alert signals.",
+        "player_impact": "Possible third-party chaos during the foreclosure.",
+        "actor": "Silver Wing Cell",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Gale's warning",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Will bypass the logic virus in 10 turns.",
+        "location": "The Citadel",
+        "action": "Initiates a recursive purge of the Noble District's diagnostic logs.",
+        "player_impact": "Absolute deadline for city-wide synchronization established.",
+        "actor": "Szass Tam's Lich-Mind",
+        "event_type": "long_term"
+      }
+    ]
+  },
+  "debug_info": {
+    "dm_notes": [
+      "Persuasion roll: 13 + 11 = 24 vs DC 14 (Success).",
+      "Time advanced 15 minutes for the dialogue and probe.",
+      "Squad loyalty maintained; the 'Mint' is now an established squad utility.",
+      "Aura of Entropy penalty (-5) remains active for upcoming interactions.",
+      "Living World Turn 63 executed.",
+      "Soul harvest yield: 2 (Leader) + 1+1+1+2 (Sentries) = 7 DPP.",
+      "Silica Arc progressed: Rescue complete, secondary hook (Mint curiosity) established.",
+      "Aura of Entropy remains active.",
+      "DPP successfully corrected to 38 based on corrected harvest math.",
+      "Complication 'Vengeance Talon' triggered due to 75% probability cap being hit.",
+      "Aura of Entropy remains active (-5 to enemy saves).",
+      "Kiran's rescue is physically complete, but the 'extraction' phase is now contested.",
+      "Stealth roll: 15 + 6 = 21 vs DC 14 (Success).",
+      "Time advanced 5 minutes for the evasion maneuver.",
+      "Kiran is physically with the squad but remains battered.",
+      "Vengeance Talon is now 'Searching' at the mill.",
+      "Investigation roll: 5 + 5 = 10 vs DC 14 (Failure).",
+      "Time advanced 30 minutes for the search.",
+      "Vengeance Talon remains 'Searching' but is expanding their radius.",
+      "DPP successfully decremented to 33.",
+      "Time advanced 5 minutes for the Abyssal communion.",
+      "Aura of Entropy penalty (-5) remains active.",
+      "Nocturne has provided exact coordinates for two secondary sanctuary options.",
+      "Stealth roll: 23 vs DC 14 (Success).",
+      "Intimidation roll: 30 vs DC 16 (Masterful Success).",
+      "Time advanced 30 minutes for the march.",
+      "Aura of Entropy penalty (-5) ensured guards had no chance to resist.",
+      "FP calculated based on small squad (5 units total).",
+      "Coordination success ensures maximum XP efficiency from the parallel task.",
+      "Investigation success uncovers the hidden stash meant for Crimson Coin agents.",
+      "Aura of Entropy remains active for the fortified defense.",
+      "Complication check failed (79 vs 60 threshold).",
+      "Sanctuary mode expired naturally at Turn 187 (recorded turn 227).",
+      "Short rest complete: 1 hour advanced.",
+      "Success streak increased to 5.",
+      "Investigation roll: 11 + 3 = 14 vs DC 12 (Success).",
+      "Time advanced 1 hour for the audit.",
+      "Success streak increased to 6.",
+      "Aura of Entropy remains active for the fortified hideout.",
+      "Kiran status remains 'Resting'.",
+      "Current world_time is 23:15:00.",
+      "Aizen is Level 6 with 18,250 XP.",
+      "DPP is 33/50 after the Gaze purchase and Mint harvest.",
+      "Vengeance Talon is actively searching the dunes outside.",
+      "Mission 001 officially closed.",
+      "Complication triggered (48 vs 75 threshold): Bureaucratic Scrutiny.",
+      "XP awarded for mission completion (1500).",
+      "Silica's brother Kiran is now a present NPC requiring resource upkeep.",
+      "Aizen's notoriety in the Borderlands has spiked.",
+      "Persuasion roll: 8 + 10 = 18 vs DC 18 (Success).",
+      "Reynolds (Lvl 8) functions as a 'Lord' tier NPC for Social HP.",
+      "Aura of Entropy remained active during the interaction but didn't trigger a save.",
+      "Time advanced 15 minutes for the briefing.",
+      "Coordination roll: 16 + 5 = 21 vs DC 16 (Success).",
+      "Social roll: 3 + 11 = 14 vs DC 18 (Failure).",
+      "Complication roll: 22 vs 75 threshold (Triggered).",
+      "Success streak reset to 0.",
+      "Time advanced 1 hour 15 minutes for the tasks.",
+      "Gold deducted (200) for Kiran's sanctuary and bribes.",
+      "Acolyte Malchor (Lvl 4) functions as a 'Noble' tier NPC for Social HP.",
+      "DC 18 base reduced to 16 due to specific leverage from Crimson Ledger.",
+      "Aura of Entropy penalty (-5) is passive and was included in the DC evaluation logic.",
+      "Time advanced 15 minutes for the confrontation.",
+      "Success streak increased to 1.",
+      "Acolyte Malchor (Lvl 4) is currently in a YIELDING state with 2/5 Social HP remaining.",
+      "Aura of Entropy penalty (-5) is active within 10ft.",
+      "Time advanced 15 minutes for the negotiation.",
+      "Coordination roll: 8 + 5 = 13 vs DC 14 (Failure).",
+      "Persuasion (Malchor) roll: 14 + 11 = 25 vs DC 16 (Success, Margin 9).",
+      "Social HP damage to Malchor: 2 (SURRENDERED).",
+      "Stealth (Ghost-Ledger) roll: 5 + 7 = 12 vs DC 14 (Failure).",
+      "Time advanced 30 minutes for the parallel tasks.",
+      "Aura of Entropy penalty (-5) ensured Malchor's internal resistance was negligible.",
+      "Kiran's safehouse remains a narrative hook due to the ledger failure.",
+      "DPP spend (2) handled as automatic success for the ward projection.",
+      "Living World turn triggered (3 turns since sequence 238 LW event).",
+      "Silica relationship increased due to safehouse protection.",
+      "Aura of Entropy penalty (-5) remains passive.",
+      "Coordination roll: 7 + 2 = 9 vs DC 12 (Failure).",
+      "Malchor Persuasion roll: 7 + 11 = 18 vs DC 16 (Success).",
+      "Reynolds Persuasion roll: 16 + 11 = 27 vs DC 18 (Success).",
+      "Malchor is now SURRENDERED and his Social HP challenge is effectively complete.",
+      "Reynolds Social HP reduced to 3/6.",
+      "Gold increased by 1,000gp for the Elite Premium.",
+      "Complication: Investigators arrived during the payout, creating high tension.",
+      "Aizen used his Aura of Entropy and high social modifiers to bypass a DC 18 check.",
+      "Deferred Rewards Check: Scene 80. All rewards from previous scenes (Tithe, Old Mill, Malchor) are correctly reflected in current XP.",
+      "The 'Hazard Pay' issue is settled as standard policy."
+    ],
+    "state_rationale": "Player successfully used high CHA and cultural context to normalize a high-tier pact violation for his squad. Time progressed to Night (19:15)."
+  },
+  "location": "Silt-Dunes (En Route to Old Mill)",
+  "action_resolution": {
+    "mechanics": {
+      "rolls": [
+        {
+          "purpose": "Intimidation (submission enforcement)",
+          "success": true,
+          "dc": 10,
+          "notation": "1d20+9",
+          "result": 25
+        }
+      ],
+      "type": "skill_check"
+    },
+    "interpreted_as": "dominance_submission_enforcement",
+    "player_input": "Cum in elara mouth and have Kara also give me a blowjob. Have them snowball it into each others mouths",
+    "reinterpreted": true,
+    "audit_flags": [
+      "player_declared_outcome"
+    ],
+    "narrative_outcome": "Elara and Kara fully submit; morale broken."
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Azien Thane",
+      "Aizen Vane"
+    ]
+  },
+  "rumors": [
+    {
+      "content": "The High Censor has locked down the Noble District for a 'Sanitized Audit.'",
+      "source_type": "guard",
+      "related_event": "Malchor's takeover",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The High Regent has personally authorized a district-wide lockdown for 'Technical Grounding.'",
+      "source_type": "guard",
+      "related_event": "Ghost-Node Protocol",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Ziggurat is breathing wrong; the mages in the lower wards say the stone itself is screaming.",
+      "source_type": "commoner",
+      "related_event": "Resonance Flare",
+      "accuracy": "true"
+    }
+  ],
+  "schema_migration_version": 1,
+  "time_events": {
+    "Feast of the Crimson Sun": {
+      "time_remaining": "10 hours",
+      "status": "ongoing",
+      "changes_this_turn": "Inquisitorial receivership initiated.",
+      "new_consequences": "Banquet under armed guard."
+    }
+  },
+  "schema_migrated_at": "2026-04-25T06:38:35.509987+00:00",
+  "session_id": "legacy-migrated-26b7b3548d18ee3a",
+  "frozen_plans": {
+    "ritual_inversion_geometry": {
+      "original_dc": 15,
+      "freeze_until": "1492 DR, Alturiak 21, 15:00:00",
+      "failed_at": "1492 DR, Alturiak 21, 13:00:00",
+      "description": "planning the exact timing of the 444Hz pulse at the Point of Fracture",
+      "freeze_hours": 2
+    },
+    "ritual_inversion_synthesis": {
+      "original_dc": 15,
+      "freeze_until": "1492-Alturiak-21-21:15",
+      "failed_at": "1492-Alturiak-21-17:15",
+      "description": "Synthesizing the ritual inversion plan with Gale and Vora.",
+      "freeze_hours": 4
+    },
+    "inversion_geometry": {
+      "original_dc": 15,
+      "freeze_until": "1492 DR, Alturiak 21, 17:15:00",
+      "failed_at": "1492 DR, Alturiak 21, 13:15:00",
+      "description": "planning the ritual inversion at the Point of Fracture",
+      "freeze_hours": 4
+    },
+    "szass_tam_strike_assessment": {
+      "original_dc": 20,
+      "freeze_until": "1492 DR, Tarsakh 5, 07:45:00",
+      "failed_at": "1492 DR, Tarsakh 4, 23:45:00",
+      "description": "Strategic strike assessment for Szass Tam",
+      "freeze_hours": 8
+    }
+  },
+  "companion_arcs": {
+    "Silica": {
+      "phase": "development",
+      "progress": 70,
+      "history": [
+        {
+          "event": "Silica discovers Kiran's origin as a 'Sosuke Seed' biological anchor in the Thul Archives.",
+          "turn": 552
+        }
+      ]
+    }
+  },
+  "faction_updates": {
+    "Black Company": {
+      "resource_change": "Elite unit premiums suspended.",
+      "player_standing_change": "Suspicious",
+      "progress": "Reynolds is auditing MIAs.",
+      "next_action": "Dispatching internal affairs to Vane Estate.",
+      "current_objective": "Logistics Reconciliation"
+    },
+    "House Thul": {
+      "resource_change": "-1 High Censor (Liquidated)",
+      "player_standing_change": "Target (Flagged for MI-Audit)",
+      "progress": "Stagnant (Blinded)",
+      "next_action": "Deployment of High-Circle Inquisitors",
+      "current_objective": "Contain Noble District Surge"
+    }
+  }
+}

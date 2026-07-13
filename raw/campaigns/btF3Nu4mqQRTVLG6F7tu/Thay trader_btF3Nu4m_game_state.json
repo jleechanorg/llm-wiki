@@ -1,0 +1,3097 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "hp_current": 10000,
+    "display_name": "Aizen, Sovereign God of Magic",
+    "armor_class": 18,
+    "cantrips": [
+      {
+        "name": "Vicious Mockery",
+        "level": 0
+      },
+      {
+        "name": "Friends",
+        "level": 0
+      },
+      {
+        "name": "Prestidigitation",
+        "level": 0
+      },
+      {
+        "name": "Minor Illusion",
+        "level": 0
+      },
+      {
+        "name": "Message",
+        "level": 0
+      }
+    ],
+    "name": "Aizen",
+    "attributes": {
+      "intelligence": 162,
+      "dexterity": 155,
+      "wisdom": 158,
+      "constitution": 160,
+      "strength": 155,
+      "charisma": 165
+    },
+    "age": 21,
+    "hp_max": 10000,
+    "core_memories": [
+      "Aizen has successfully completed the Ritual of Blood, reaching Level 11 and securing noble legitimization from Envoy Khoris.",
+      "Aizen has reached Level 12, honing his intellect to reach the next tier of sovereign mastery and political dominance.",
+      "Aizen has successfully proposed marriage to Lady Althea Sunstar, anchoring House Sunstar and Elturgard's military elite to the Sosuke Mandate.",
+      "Aizen has successfully married Lady Althea Sunstar and bound her family's political and military assets to House Sosuke through a masterful 'Shadow Dowry'.",
+      "Aizen has been named 'First Scion of the Western Heartlands' by Lord Sosuke after orchestrating the purge of House Gneiss and stabilizing the Dread Ring.",
+      "Aizen has successfully built 'The Obsidian Legion' and secured Elturel as a total Thayan shadow-empire during a 3-month sovereign consolidation.",
+      "Correction: Xan Sosuke was executed as a 'heretic' by the BG3 heroes in a masterfully architected frame-up, securing Aizen's position as the Primary Heir and anchor of the Western Dread Ring.",
+      "Aizen has successfully turned the BG3 heroes into his unwitting executioners in Baldur's Gate, framing his mercantile rivals as Marcella's shadow-network while baiting his stepmother into a doomed strike on the city.",
+      "Aizen has successfully lured his sister Sariel into a pincer trap in Baldur's Gate while maintaining a perfect victim-facade for the BG3 heroes.",
+      "Correction: Lady Marcella Sosuke was executed in the Baldur's Gate cisterns by the BG3 heroes in a masterfully architected pincer, allowing Aizen to harvest her soul and anchor a capital-tier Dread Ring node beneath the Ducal Palace.",
+      "Szass Tam has authorized the purge of rival Zulkirs and granted Aizen the 'Scepter of the Dread Regent' for his success in Baldur's Gate.",
+      "Aizen has reached Level 20, touching the absolute ceiling of mortal Thayan mastery and anchoring the Baldur's Gate node as a sovereign power.",
+      "Aizen has acquired legendary artifacts (Helldusk Armour, Amulet of Greater Health) and successfully ascended the High Hall of Baldur's Gate as 'Kaelen', maintaining his facade against divine suspicion.",
+      "Aizen masterfully orchestrated the 'Total Sovereign Encirclement' at the Bezantur outskirts, erasing the Loyalist Zulkir unit and harvesting their souls to anchor his shadow empire.",
+      "Aizen has successfully ascended to Duke-Elect of Baldur's Gate, consolidating his trade monopoly and siphoning the city's soul under the guise of 'Sosuke Stabilization'.",
+      "The Audit of the Seven Sisters has begun in Baldur's Gate, putting Aizen's Sovereign Shroud under constant pressure from Laeral Silverhand and Elminster Aumar.",
+      "Aizen successfully used his High Inquisitor rank to frame Xan Sosuke as a heretic, leading the BG3 heroes to execute him in the Scornubel vaults.",
+      "Aizen has successfully turned the BG3 heroes into his unwitting executioners in Baldur's Gate, leveraging his Duke-Elect status to frame his mercantile rivals as Marcella's shadow-network.",
+      "Aizen has successfully lured his sister Sariel into a pincer trap in Baldur's Gate, convincing her to defect while maintaining his public authority for the BG3 heroes.",
+      "Correction: Lady Marcella Sosuke was executed in the Baldur's Gate cisterns by the BG3 heroes under Aizen's direct 'Sanctified' command, allowing him to anchor a capital-tier Dread Ring node beneath the Ducal Palace.",
+      "Aizen has acquired legendary artifacts (Helldusk Armour, Amulet of Greater Health) and successfully ascended the High Hall of Baldur's Gate as the Duke-Elect.",
+      "Aizen masterfully orchestrated the 'Total Sovereign Encirclement' at the Bezantur outskirts, using his official Thayan standing to erase the Loyalist Zulkir unit."
+    ],
+    "race": "Human",
+    "inventory": [
+      {
+        "description": "A swirling, iridescent grey liquid that whispers with the voices of the dead.",
+        "name": "Vial of Absolute Essence",
+        "stats": "Concentrated resonance of the Absolute; can be consumed to temporarily boost spell DC or used in necromantic rituals.",
+        "type": "reagent"
+      },
+      {
+        "name": "Vial of Absolute Essence (x2)",
+        "stats": "Concentrated resonance of the Absolute; used for necrotic enhancement.",
+        "type": "reagent"
+      },
+      {
+        "description": "Siphoned from the First Pulse.",
+        "name": "Vial of Absolute Essence (x3)",
+        "stats": "Concentrated necrotic resonance.",
+        "type": "reagent"
+      },
+      {
+        "description": "A swirling obsidian liquid that feels cold to the touch.",
+        "name": "Vial of Absolute Essence (High Potency)",
+        "stats": "Siphoned from Second Pulse; +4 to Spell Save DC for 1 hour if consumed.",
+        "type": "reagent"
+      },
+      {
+        "description": "Swirling obsidian liquid siphoned from the Soul-Vortex.",
+        "name": "Vial of Absolute Essence (High Potency) x2",
+        "stats": "Siphoned resonance; +4 to Spell Save DC for 1 hour if consumed.",
+        "type": "reagent"
+      },
+      {
+        "name": "Vial of Absolute Essence (High Potency)",
+        "stats": "+4 to Spell Save DC for 1 hour",
+        "type": "reagent"
+      },
+      {
+        "name": "Vial of Absolute Essence (High Potency)",
+        "stats": "+4 to Spell Save DC for 1 hour",
+        "type": "reagent"
+      },
+      {
+        "name": "Vial of Absolute Essence (High Potency)",
+        "stats": "+4 to Spell Save DC for 1 hour",
+        "type": "reagent"
+      }
+    ],
+    "features": [
+      "Defense Fighting Style",
+      "Second Wind",
+      "Dueling Fighting Style",
+      "Blade Flourish",
+      "Extra Attack",
+      "Magical Secrets",
+      "Jack of All Trades",
+      "Expertise",
+      "Song of Rest",
+      "Font of Inspiration",
+      "Vortex Resonance",
+      "Aura of the Dread Artery",
+      "Sovereign Inspiration",
+      "Weave Mastery",
+      "Apotheosis Gaze",
+      "Hollow Command",
+      "Vortex Shield",
+      "Regent's Authority",
+      "Soul-Siphon Strike",
+      "Master of the Dread Ring",
+      "Aura of Hollow Ecstasy",
+      "Mantle of Quiet Stagnation",
+      "Sovereign Deicide: Integrated Lady of Joy",
+      "Sovereign Deicide: Integrated Goddess of Peace",
+      "Triple-Crown Asset: Bane's Legions",
+      "Triple-Crown Asset: Shar's Shroud",
+      "Sovereign Deicide: Integrated Goddess of Magic",
+      "Archmage's Authority",
+      "Iron Weave Command",
+      "Source of the Iron Weave",
+      "Metaphysical Logic: The Crimson Vortex",
+      "Portfolio: Magic (Sovereign Integration)",
+      "Portfolio: Nature (Integrated)",
+      "Portfolio: Moon (Integrated)",
+      "Portfolio: Justice (Integrated)",
+      "Sovereign Rank: Conductor Threshold",
+      "Multiversal Stewardship",
+      "Council-Peer Authority"
+    ],
+    "proficiency_bonus": 12,
+    "entity_id": "pc_aizen_001",
+    "ac": 18,
+    "skill_proficiencies": {
+      "expertise": [
+        "deception",
+        "persuasion"
+      ]
+    },
+    "hit_dice_current": 20,
+    "recent_decisions": [
+      "Rescued Lia Mordane (Staged)",
+      "Obtained rank of Warden-Magistrate in Elturgard",
+      "Seized the Heart of the Warden from House Gneiss",
+      "Officially recognized as Legitimate Heir by Khoris.",
+      "Forced Nyssa to bind her name to the Scornubel slave contracts.",
+      "Secured Absolute Political Autonomy for Scornubel from Thavius Kreeg",
+      "Named High Inquisitor of the Radiance",
+      "Subverted the Ritual of the Sovereign Link"
+    ],
+    "hit_dice_max": 20,
+    "knowledge": [
+      "House Sosuke is the primary logistical lead for the Reaching Woods Gate.",
+      "Senechal Mordane of Baldur's Gate is a fully secured asset.",
+      "The 'Heart of the Warden' is now under Sosuke control.",
+      "Aizen is officially a legitimate heir of House Sosuke.",
+      "The Reaching Woods Gate is a Soul-Vortex Anchor feeding a new Thayan Dread Ring.",
+      "The High Observer Thavius Kreeg has granted a private audience.",
+      "Lady Marcella's hidden vaults in Bezantur are located beneath the 'Gilded Rose' bathhouse.",
+      "Sariel Sosuke has formally pledged loyalty to Aizen's High Seat coup.",
+      "Codes for the Bezantur Sovereign Citadel bleed-points.",
+      "Identity of every 'Whisper Silk' sleeper cell in the Sword Coast.",
+      "Technical keys for the 15% Soul-Vortex overflow.",
+      "Aizen possesses the master-codes for the global Dread Ring network.",
+      "Szass Tam is physically mortal and severely weakened by siphoning.",
+      "Location of the 'Hollow Zones' where the Weave is failing.",
+      "Identity of the Harper High-Command currently auditing the Gate.",
+      "Technical requirement for Sargon's life-support via the node.",
+      "Equations of the Original Weave (Integrated)",
+      "Ao's Intervention Signature (Recognized)"
+    ],
+    "spells_known": [
+      {
+        "name": "Charm Person",
+        "level": 1
+      },
+      {
+        "name": "Disguise Self",
+        "level": 1
+      },
+      {
+        "name": "Healing Word",
+        "level": 1
+      },
+      {
+        "name": "Silvery Barbs",
+        "level": 1
+      },
+      {
+        "name": "Invisibility",
+        "level": 2
+      },
+      {
+        "name": "Hold Person",
+        "level": 2
+      },
+      {
+        "name": "Suggestion",
+        "level": 2
+      },
+      {
+        "name": "Hypnotic Pattern",
+        "level": 3
+      },
+      {
+        "name": "Slow",
+        "level": 3
+      },
+      {
+        "name": "Tongues",
+        "level": 3
+      },
+      {
+        "name": "Haste",
+        "level": 3
+      },
+      {
+        "name": "Dimension Door",
+        "level": 4
+      },
+      {
+        "name": "Greater Invisibility",
+        "level": 4
+      },
+      {
+        "name": "Find Greater Steed",
+        "level": 4
+      },
+      {
+        "name": "Hold Monster",
+        "level": 5
+      },
+      {
+        "name": "Mass Suggestion",
+        "level": 6
+      },
+      {
+        "name": "Simulacrum",
+        "level": 7
+      },
+      {
+        "name": "Teleport",
+        "level": 7
+      },
+      {
+        "name": "Forcecage",
+        "level": 7
+      },
+      {
+        "name": "Symbol",
+        "level": 7
+      },
+      {
+        "name": "Mind Blank",
+        "level": 8
+      },
+      {
+        "name": "Power Word Kill",
+        "level": 9
+      },
+      {
+        "name": "Glibness",
+        "level": 8
+      },
+      {
+        "name": "Foresight",
+        "level": 9
+      },
+      {
+        "name": "Wish",
+        "level": 9
+      },
+      {
+        "name": "True Resurrection",
+        "level": 9
+      },
+      {
+        "description": "Seven multicolored beams of light spray from your hand.",
+        "name": "Prismatic Spray",
+        "level": 7
+      }
+    ],
+    "active_effects": [
+      "Duke-Elect Identity",
+      "High Inquisitor of Elturgard",
+      "Divine Immunity (6th Level & Lower)",
+      "Greater Divine Immunity: Immunities to Death and Energy Drain",
+      "Foresight (Permanent) - Constant Advantage on all rolls",
+      "Glibness (Permanent) - Minimum 15 on d20 for Charisma checks",
+      "Portfolio: Magic (Integrated)",
+      "Portfolio: Hollow Ecstasy (Integrated)",
+      "Portfolio: Quiet Stagnation (Integrated)",
+      "Portfolio: Nature (Integrated)",
+      "Portfolio: Moon (Integrated)",
+      "Portfolio: Justice (Integrated)",
+      "Greater Deity (Rank 11)",
+      "Master of the Iron Weave",
+      "The Archmage's Eye: Truesight 120ft",
+      "High Council Seat (Sanctified)",
+      "Portfolio: Death (Integrated)",
+      "Portfolio: Craft (Integrated)",
+      "Portfolio: War (Integrated)",
+      "Status: Technical Vassal of Lord Ao",
+      "Redundancy Protocol (Initialized: 1%)",
+      "Imperial Logic-Link (Vylari)",
+      "Substrate Sanitization: Complete"
+    ],
+    "base_attributes": {
+      "intelligence": 22,
+      "dexterity": 18,
+      "wisdom": 16,
+      "constitution": 14,
+      "strength": 14,
+      "charisma": 28
+    },
+    "class_name": "Sovereign of the Crimson Vortex (God of Magic)",
+    "health": {
+      "hp": 10000,
+      "hp_max": 10000
+    },
+    "background": "Noble (House Sosuke)",
+    "resources": {
+      "army_upkeep_daily": 5000,
+      "monthly_net_profit": 300000,
+      "class_features": {
+        "bardic_inspiration": {
+          "max": 5,
+          "used": 2,
+          "die": "1d12"
+        }
+      },
+      "gold": {
+        "increment": 10000,
+        "status": 14281736
+      },
+      "daily_net_income": 15000,
+      "spell_slots": {
+        "level_4": {
+          "max": 8,
+          "used": 0
+        },
+        "level_8": {
+          "max": 4,
+          "used": 0
+        },
+        "level_3": {
+          "max": 8,
+          "used": 0
+        },
+        "level_2": {
+          "max": 8,
+          "used": 0
+        },
+        "level_12": {
+          "max": 1,
+          "used": 0
+        },
+        "level_9": {
+          "max": 4,
+          "used": 2
+        },
+        "level_1": {
+          "max": 8,
+          "used": 0
+        },
+        "level_7": {
+          "max": 5,
+          "used": 0
+        },
+        "level_6": {
+          "max": 6,
+          "used": 0
+        },
+        "level_5": {
+          "max": 6,
+          "used": 0
+        },
+        "level_11": {
+          "max": 3,
+          "used": 0
+        },
+        "level_10": {
+          "max": 5,
+          "used": 0
+        }
+      }
+    },
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "name": "Backpack",
+          "stats": null
+        },
+        {
+          "equipped": false,
+          "name": "Bedroll",
+          "stats": null
+        },
+        {
+          "equipped": false,
+          "name": "Mess kit",
+          "stats": null
+        },
+        {
+          "equipped": false,
+          "name": "Tinderbox",
+          "stats": null
+        },
+        {
+          "equipped": false,
+          "name": "Torch",
+          "stats": "10"
+        },
+        {
+          "equipped": false,
+          "name": "Rations",
+          "stats": "10 days"
+        },
+        {
+          "equipped": false,
+          "name": "Waterskin",
+          "stats": null
+        },
+        {
+          "equipped": false,
+          "name": "Rope",
+          "stats": "50 feet"
+        },
+        {
+          "equipped": false,
+          "name": "Coin pouch",
+          "stats": "10gp"
+        },
+        {
+          "name": "Merchant Manifests"
+        },
+        {
+          "name": "Fine Silk Clothing"
+        },
+        {
+          "name": "Shackles (x10)"
+        },
+        {
+          "name": "Potion of Healing (x4)",
+          "type": "consumable",
+          "effect": "Restores 2d4+2 HP"
+        },
+        {
+          "name": "Master-work Shortsword (x10)",
+          "stats": "Non-magical, high quality",
+          "type": "weapon"
+        },
+        {
+          "name": "Master-work Studded Leather (x5)",
+          "stats": "Non-magical, high quality",
+          "type": "armor"
+        },
+        {
+          "requires_attunement": true,
+          "name": "Cloak of Protection",
+          "stats": "+1 to AC and Saving Throws",
+          "type": "magic_item"
+        },
+        {
+          "equipped": false,
+          "name": "Staff of Withering",
+          "stats": "1d6 bludgeoning + 2d10 necrotic (charges)"
+        },
+        {
+          "equipped": false,
+          "name": "Amulet of Proof against Detection and Location",
+          "stats": "Hidden from divination magic"
+        },
+        {
+          "equipped": false,
+          "name": "Heart of the Warden",
+          "stats": "Planar Ritual Anchor (Artifact)"
+        },
+        {
+          "equipped": false,
+          "name": "Staff of the Magi",
+          "stats": "+2 to Spell Attacks/DC; Absorb Spells; 50 Charges",
+          "type": "artifact"
+        },
+        {
+          "equipped": false,
+          "name": "Robe of the Archmagi",
+          "stats": "AC 15+Dex; +2 to Spell DC/Attack; Adv on Saves vs Spells",
+          "type": "artifact"
+        }
+      ],
+      "ring_2": {
+        "equipped": true,
+        "name": "Ring of the Elturgard Sovereign",
+        "stats": "+2 to Social Checks in Elturgard; +1 to Spell Save DC"
+      },
+      "body": {
+        "armor_class": 21,
+        "equipped": true,
+        "name": "Helldusk Armour",
+        "stats": "AC 21, Resistance to Fire, Cannot be Burned, Damage Reduction 3, Fly 1/day",
+        "type": "plate"
+      },
+      "cloak": {
+        "equipped": true,
+        "name": "Mantle of the Sovereign Regent",
+        "stats": "+2 to Spell Save DC and Saving Throws; Flight 60ft",
+        "type": "item"
+      },
+      "ranged": {
+        "equipped": true,
+        "damage": "1d6",
+        "name": "Shortbow",
+        "type": "weapon"
+      },
+      "neck": {
+        "equipped": true,
+        "name": "Amulet of Greater Health",
+        "stats": "Constitution becomes 23"
+      },
+      "hands": {
+        "equipped": true,
+        "name": "Gauntlets of Hill Giant Strength",
+        "stats": "Strength becomes 23"
+      },
+      "ring_1": {
+        "equipped": true,
+        "name": "The False Merchant's Signet",
+        "stats": "Acts as a Ring of Mind Shielding; masks Thayan heritage"
+      },
+      "instrument": {
+        "equipped": true,
+        "name": "Sovereign Verdict",
+        "stats": "Artifact Focus: +3 to Spell Save DC; Enhances Mass Suggestion",
+        "type": "focus"
+      },
+      "off_hand": {
+        "equipped": true,
+        "damage": "1d4+1",
+        "name": "Dagger +1",
+        "stats": "+1 to attack and damage rolls",
+        "type": "weapon"
+      },
+      "head": {
+        "equipped": true,
+        "name": "Ioun Stone of Mastery",
+        "stats": "+1 to Proficiency Bonus"
+      },
+      "main_hand": {
+        "bonus": 1,
+        "type": "artifact_focus",
+        "stats": "+3 to Spell Attack Bonus; +3 to Spell Save DC; can cast Power Word Stun 1/day",
+        "damage": "1d8+1",
+        "equipped": true,
+        "name": "Scepter of the Dread Regent",
+        "properties": [
+          "finesse"
+        ],
+        "damage_type": "piercing"
+      },
+      "feet": {
+        "equipped": true,
+        "name": "Boots of Elvenkind",
+        "stats": "Advantage on Stealth checks that rely on moving silently",
+        "type": "item"
+      }
+    },
+    "skills": [
+      "deception",
+      "insight",
+      "intimidation",
+      "performance",
+      "persuasion",
+      "stealth"
+    ],
+    "level": 100,
+    "experience": {
+      "needed_for_next_level": 5518600,
+      "to_next_level": 0,
+      "current": 100000000
+    }
+  },
+  "world_data": {
+    "current_location_name": "The Heartlands, Faer\u00fbn",
+    "world_time": {
+      "year": 1510,
+      "month": "Hammer",
+      "microsecond": 0,
+      "hour": 15,
+      "minute": 30,
+      "time_of_day": "afternoon",
+      "day": 1,
+      "second": 0
+    },
+    "world_events": [
+      {
+        "outcome": "Dread Zone established; Thayan logistics are now instantaneous within 100 miles.",
+        "actor": "Szass Tam",
+        "action": "Anchored the Western Dread Ring",
+        "location": "Scornubel/Elturgard",
+        "status": "resolved"
+      }
+    ]
+  },
+  "npc_data": {
+    "Inquisitor Xanos": {
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "history": [
+            "Captured by Aizen in Scornubel Shadow District",
+            "Subjected to high-stakes political subversion"
+          ],
+          "trust_level": -2
+        }
+      },
+      "status": "conscious",
+      "health": {
+        "hp": 64
+      }
+    },
+    "Aizen-5 (Avatar)": {
+      "entity_type": "npc",
+      "current_location": "Unknown (Infiltration)",
+      "role": "Avatar / Spymaster",
+      "entity_id": "npc_aizen_avatar_005",
+      "status": "normal",
+      "display_name": "Shadow-Aizen",
+      "level": 20
+    },
+    "Shadow-Stalker 2": {
+      "entity_id": "npc_shadow_stalker_002",
+      "name": "Shadow-Stalker 2",
+      "role": "Zhentarim Veteran",
+      "status": "conscious_bound_resisting",
+      "health": {
+        "hp": 43,
+        "hp_max": 45
+      },
+      "level": 5
+    },
+    "Master Orryn": {
+      "tier": "merchant",
+      "current_location": "Elturgard Ridges",
+      "role": "Retired Wine Merchant",
+      "entity_id": "npc_orryn_001",
+      "name": "Master Orryn",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "history": [
+            "Attempted betrayal for Zhentarim",
+            "Intercepted and interrogated by Aizen"
+          ],
+          "trust_level": -10
+        }
+      },
+      "status": "prisoner_of_hellriders",
+      "health": {
+        "hp": 4,
+        "hp_max": 4
+      },
+      "attitude_to_party": "hostile"
+    },
+    "npc_shadowheart_001": {
+      "attitude_to_party": "hostile",
+      "role": "Cleric of Sel\u00fbne / Hero of Baldur's Gate",
+      "active_effects": [
+        "Divine Suspicion: +5 to Insight/Perception checks against Thayan influence"
+      ],
+      "display_name": "Shadowheart",
+      "entity_id": "npc_shadowheart_001",
+      "tier": "lord_general",
+      "status": "dead_soul_harvested",
+      "class_name": "Cleric",
+      "level": 15
+    },
+    "Sariel Sosuke": {
+      "entity_id": "npc_sariel_001",
+      "role": "Middle Daughter / Red Wizard",
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "history": [
+            "Arrived in Scornubel to audit the node",
+            "Witnessed the siphoned power and Xan's fall",
+            "Began yielding to Aizen-2's sovereign logic"
+          ],
+          "trust_level": -2
+        }
+      },
+      "attitude_to_party": "cold",
+      "level": 13,
+      "tier": "noble"
+    },
+    "npc_althea_sosuke_001": {
+      "tier": "noble",
+      "role": "Chosen / Epic Mortal",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "history": [
+            "Elevated to Chosen of the Crimson Vortex"
+          ],
+          "trust_level": 10
+        }
+      },
+      "status": "active",
+      "display_name": "Althea Sosuke, Chosen of the Vortex",
+      "level": 25
+    },
+    "npc_simulacrum_001": {
+      "relationships": {
+        "player": {
+          "history": [
+            "Successfully governed Scornubel for 3 months",
+            "Executed the finishing blow on Xan"
+          ]
+        }
+      },
+      "status": [
+        "masked_level_12",
+        "conscious"
+      ],
+      "health": {
+        "hp": 72,
+        "hp_max": 72
+      },
+      "level": 20
+    },
+    "Captain Vane": {
+      "entity_id": "npc_vane_001",
+      "role": "Captain of the Scornubel Town Watch",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "history": [
+            "Witnessed the Tanning Yard strike",
+            "Read Zalia's Ritual Ledger"
+          ],
+          "trust_level": 3
+        }
+      },
+      "level": 5,
+      "display_name": "Captain Vane",
+      "tier": "general"
+    },
+    "npc_thalric_001": {
+      "tier": "merchant",
+      "gender": "male",
+      "entity_type": "npc",
+      "role": "Logistics Scribe",
+      "age": 28,
+      "display_name": "Thalric",
+      "entity_id": "npc_thalric_001",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "history": [
+            "Long-time employee of Aizen's trade caravan; handles manifests and bookkeeping."
+          ],
+          "trust_level": 4
+        }
+      },
+      "status": "conscious",
+      "class_name": "Wizard",
+      "level": 4
+    },
+    "Lord Ao": {
+      "name": "Lord Ao"
+    },
+    "Thalric": {
+      "hp_current": 62,
+      "entity_type": "npc",
+      "role": "Companion / Logistics Scribe",
+      "display_name": "Thalric",
+      "entity_id": "npc_thalric_001",
+      "level": 20,
+      "class_name": "Wizard",
+      "hp_max": 62
+    },
+    "npc_laeral_silverhand_001": {
+      "status": "consumed",
+      "health": {
+        "hp": 0
+      }
+    },
+    "Minthara": {
+      "entity_type": "npc",
+      "display_name": "Minthara",
+      "entity_id": "npc_minthara_001",
+      "name": "Minthara",
+      "tier": "lord_general",
+      "attitude_to_party": "hostile",
+      "class_name": "Paladin (Oathbreaker)",
+      "level": 18
+    },
+    "Thavix of House Gneiss": {
+      "tier": "lord_general",
+      "entity_id": "npc_thavix_001",
+      "name": "Thavix of House Gneiss",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "history": [
+            "Invited to formal dinner at Sosuke Enclave",
+            "Resisted Aizen's attempt at intimidation"
+          ],
+          "trust_level": -4
+        }
+      },
+      "status": "dead",
+      "level": 11,
+      "role": "Thayan Inquisitor/Noble"
+    },
+    "Lady Marcella Sosuke": {
+      "attitude_to_party": "hostile",
+      "tier": "king_ancient",
+      "role": "Matriarch of House Sosuke",
+      "entity_id": "npc_marcella_001",
+      "name": "Lady Marcella Sosuke",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "history": [
+            "Opposed Aizen's legitimization",
+            "Views Aizen as a threat to her children's inheritance"
+          ],
+          "trust_level": -8
+        }
+      },
+      "status": "dead",
+      "health": {
+        "hp": 180,
+        "hp_max": 180
+      },
+      "level": 19
+    },
+    "Xan Sosuke": {
+      "entity_id": "npc_xan_001",
+      "current_location": "Enclave Inner Vaults",
+      "role": "Eldest Son / Martial Rival",
+      "tier": "lord_general",
+      "status": "conscious",
+      "level": 18,
+      "attitude_to_party": "antagonistic"
+    },
+    "Elminster Aumar": {
+      "entity_type": "npc",
+      "role": "Chosen of Mystra / Archmage",
+      "display_name": "Elminster Aumar",
+      "entity_id": "npc_elminster_001",
+      "name": "Elminster Aumar",
+      "relationships": {
+        "player": {
+          "history": [
+            "Subverted essence integrated into the Vortex; acting as a technical anchor for the Iron Weave."
+          ]
+        }
+      },
+      "status": "stabilizing_nodes",
+      "level": 20,
+      "tier": "king_ancient"
+    },
+    "Varkas": {
+      "hp_current": 103,
+      "entity_type": "npc",
+      "role": "Companion / Thayan Bodyguard",
+      "display_name": "Varkas",
+      "entity_id": "npc_varkas_001",
+      "level": 20,
+      "class_name": "Fighter",
+      "hp_max": 103
+    },
+    "Lukan": {
+      "notes": "Failed intimidation has reinforced his internal hope; shackles remain 'Weakened'.",
+      "status": "Resilient/Defiant"
+    },
+    "Althea Sosuke": {
+      "hp_current": 95,
+      "attitude_to_party": "bonded",
+      "current_location": "Enclave Inner Vaults",
+      "role": "Companion / Wife",
+      "level": 25,
+      "active_effects": [
+        "Goddess-Fragment Integration: Lliira (Joy)"
+      ],
+      "display_name": "Althea Sosuke",
+      "entity_type": "npc",
+      "entity_id": "npc_althea_001",
+      "status": "Joy-Infused",
+      "class_name": "Noble / Paladin",
+      "hp_max": 95
+    },
+    "npc_karlach_001": {
+      "status": "dead_soul_harvested"
+    },
+    "Bane": {
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "history": [
+            "Formally sealed the Triple-Crown Pact."
+          ],
+          "trust_level": 10
+        }
+      }
+    },
+    "npc_zalia_001": {
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "history": [
+            "Defeated in the tanning yard",
+            "Magically interrogated by Aizen"
+          ],
+          "trust_level": -10
+        }
+      },
+      "status": "interrogated_resisting"
+    },
+    "Laeral Silverhand": {
+      "attitude_to_party": "neutral",
+      "tier": "ancient",
+      "entity_type": "npc",
+      "display_name": "Laeral Silverhand",
+      "entity_id": "npc_laeral_001",
+      "name": "Laeral Silverhand",
+      "relationships": {
+        "player": {
+          "disposition": "suspicious",
+          "history": [
+            "Subverted essence integrated into the Vortex; stabilizing Sword Coast nodes."
+          ],
+          "trust_level": -2
+        }
+      },
+      "status": "stabilizing_nodes",
+      "class_name": "Wizard (Chosen of Mystra)",
+      "level": 20
+    },
+    "Kaelith": {
+      "hp_current": 85,
+      "entity_type": "npc",
+      "role": "Companion / Bound Guardian",
+      "display_name": "Kaelith",
+      "entity_id": "npc_kaelith_001",
+      "level": 20,
+      "class_name": "Green Warden",
+      "hp_max": 85
+    },
+    "Lady Althea Sunstar": {
+      "tier": "noble",
+      "entity_id": "npc_althea_001",
+      "name": "Lady Althea Sunstar",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "history": [
+            "Aizen acted as her intimate confidant, mirroring her grief and providing 'Light'."
+          ],
+          "trust_level": 8
+        }
+      },
+      "level": 6,
+      "role": "Noble Daughter / Pillar of Elturgard",
+      "attitude_to_party": "devoted"
+    },
+    "Malakor": {
+      "status": "conscious_bound_gagged",
+      "health": {
+        "hp": 0,
+        "hp_max": 45
+      }
+    },
+    "Lia Sosuke": {
+      "entity_type": "npc",
+      "entity_id": "npc_lia_002",
+      "role": "Heir",
+      "tier": "noble",
+      "level": 1,
+      "health": {
+        "hp": 10,
+        "hp_max": 10
+      },
+      "display_name": "Princess Lia"
+    },
+    "npc_nyssa_001": {
+      "tier": "guard",
+      "gender": "female",
+      "entity_type": "npc",
+      "role": "Wilderness Scout",
+      "age": 24,
+      "display_name": "Nyssa",
+      "entity_id": "npc_nyssa_001",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "history": [
+            "Experienced guide hired for her knowledge of the trade routes beyond the Lake of Steam."
+          ],
+          "trust_level": 4
+        }
+      },
+      "status": "conscious",
+      "class_name": "Ranger",
+      "level": 4
+    },
+    "Gneiss Guard 1": {
+      "name": "Gneiss Guard 1"
+    },
+    "npc_zhent_scout_002": {
+      "name": "npc_zhent_scout_002"
+    },
+    "npc_shadow_caster_001": {
+      "status": "conscious_bound_gagged",
+      "health": {
+        "hp": 1,
+        "hp_max": 45
+      }
+    },
+    "npc_szass_tam_001": {
+      "status": "erased",
+      "health": {
+        "hp": 0
+      }
+    },
+    "npc_laeral_001": {
+      "tier": "king_ancient",
+      "role": "Bound Archmage of the Vortex",
+      "display_name": "Laeral Silverhand",
+      "entity_id": "npc_laeral_001",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "history": [
+            "Resurrected and subverted by Aizen Sosuke."
+          ],
+          "trust_level": 5
+        }
+      },
+      "status": "conscious",
+      "health": {
+        "hp": 135,
+        "hp_max": 135
+      },
+      "level": 20
+    },
+    "Sergeant Horgus": {
+      "current_location": "Elturgard Ridges",
+      "status": "pursuing_zhentarim"
+    },
+    "Zalia": {
+      "name": "Zalia"
+    },
+    "Lia": {
+      "current_location": "pc_aizen_wagon",
+      "display_name": "Lia",
+      "location": "pc_aizen_wagon",
+      "entity_id": "npc_lia_001",
+      "tier": "commoner",
+      "level": 1,
+      "health": {
+        "hp": 4,
+        "hp_max": 4
+      },
+      "status": "abducted"
+    },
+    "npc_wyll_001": {
+      "attitude_to_party": "hostile",
+      "role": "Blade of Frontiers / Hero of Baldur's Gate",
+      "active_effects": [
+        "Divine Suspicion: +5 to Insight/Perception checks against Thayan influence"
+      ],
+      "display_name": "Wyll Ravengard",
+      "entity_id": "npc_wyll_001",
+      "tier": "lord_general",
+      "status": "dead_soul_harvested",
+      "class_name": "Warlock/Fighter",
+      "level": 15
+    },
+    "Szass Tam": {
+      "role": "Regent of Thay",
+      "active_effects": [
+        "Dread Projection",
+        "Soul-Consumption Mastery",
+        "Planar Anchor"
+      ],
+      "display_name": "Szass Tam",
+      "entity_id": "npc_szass_tam_001",
+      "name": "Szass Tam",
+      "tier": "god_primordial",
+      "attributes": {
+        "intelligence": 30,
+        "charisma": 26,
+        "wisdom": 24
+      },
+      "level": 35
+    },
+    "Azrael, the Silver Gavel": {
+      "hp_current": 450,
+      "ac": 23,
+      "entity_type": "npc",
+      "role": "Planar Inquisitor",
+      "display_name": "Azrael, the Silver Gavel",
+      "visibility": "visible",
+      "tier": "god_primordial",
+      "attributes": {
+        "intelligence": 25,
+        "dexterity": 22,
+        "charisma": 30,
+        "constitution": 26,
+        "strength": 26,
+        "wisdom": 25
+      },
+      "class_name": "Solar Auditor",
+      "hp_max": 450,
+      "race": "Celestial",
+      "entity_id": "npc_azrael_001",
+      "status": "normal",
+      "attitude_to_party": "cold",
+      "level": 25
+    },
+    "Harkon": {
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "history": [
+            "Appointed Aizen as High Overseer"
+          ],
+          "trust_level": 8
+        }
+      },
+      "attitude_to_party": "allied",
+      "status": "mobilizing_enforcers"
+    },
+    "Shadow-Stalker 1": {
+      "entity_id": "npc_shadow_stalker_001",
+      "name": "Shadow-Stalker 1",
+      "role": "Zhentarim Veteran",
+      "status": "unconscious",
+      "health": {
+        "hp": 35,
+        "hp_max": 45
+      },
+      "level": 5
+    },
+    "High Commander Sunstar": {
+      "entity_id": "npc_high_commander_001",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "history": [
+            "Accepted a major procurement contract from House Sosuke to save his house from debt."
+          ],
+          "trust_level": 3
+        }
+      },
+      "level": 14,
+      "display_name": "High Commander Sunstar",
+      "tier": "lord"
+    },
+    "Shar": {
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "history": [
+            "Formally sealed the Triple-Crown Pact."
+          ],
+          "trust_level": 10
+        }
+      }
+    },
+    "npc_elminster_001": {
+      "tier": "king_ancient",
+      "role": "Bound Archmage of the Vortex",
+      "display_name": "Elminster Aumar",
+      "entity_id": "npc_elminster_001",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "history": [
+            "Resurrected and subverted by Aizen Sosuke."
+          ],
+          "trust_level": 5
+        }
+      },
+      "status": "conscious",
+      "health": {
+        "hp": 145,
+        "hp_max": 145
+      },
+      "level": 20
+    },
+    "Valen Sosuke": {
+      "entity_type": "npc",
+      "role": "Younger Brother / Potential Ally",
+      "alignment": "Neutral",
+      "display_name": "Valen Sosuke",
+      "entity_id": "npc_valen_001",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 3
+        }
+      },
+      "mbti": "INFP",
+      "level": 14
+    },
+    "npc_varkas_001": {
+      "tier": "guard",
+      "gender": "male",
+      "entity_type": "npc",
+      "role": "Thayan Bodyguard",
+      "age": 32,
+      "display_name": "Varkas",
+      "entity_id": "npc_varkas_001",
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "history": [
+            "Hired by Aizen's noble father to protect the bastard scion on the road."
+          ],
+          "trust_level": 5
+        }
+      },
+      "status": "conscious",
+      "class_name": "Fighter",
+      "level": 4
+    },
+    "npc_zhent_scout_010": {
+      "name": "npc_zhent_scout_010"
+    },
+    "npc_zhent_scout_011": {
+      "name": "npc_zhent_scout_011"
+    },
+    "Lae'zel": {
+      "entity_type": "npc",
+      "display_name": "Lae'zel",
+      "entity_id": "npc_laezel_001",
+      "name": "Lae'zel",
+      "tier": "lord_general",
+      "attitude_to_party": "hostile",
+      "class_name": "Fighter (Githyanki Paragon)",
+      "level": 18
+    },
+    "Shield Brothers (10x)": {
+      "hp_current": 320,
+      "level": 4,
+      "entity_type": "npc",
+      "role": "Mercenary Heavy Infantry",
+      "display_name": "Shield Brothers (10x)",
+      "armor_class": 18,
+      "entity_id": "npc_shield_bros_001",
+      "tier": "guard",
+      "attitude_to_party": "allied",
+      "status": "normal",
+      "hp_max": 320
+    },
+    "Aizen-4 (Avatar)": {
+      "entity_type": "npc",
+      "current_location": "Reaching Woods",
+      "role": "Avatar / Commander",
+      "entity_id": "npc_aizen_avatar_004",
+      "status": "normal",
+      "display_name": "Warmaster Aizen",
+      "level": 20
+    },
+    "npc_shar_001": {
+      "tier": "god",
+      "status": "normal",
+      "display_name": "Shar, Mistress of the Night"
+    },
+    "Wyll Ravengard": {
+      "status": "dead",
+      "health": {
+        "hp": 0
+      }
+    },
+    "Minsc & Boo": {
+      "entity_type": "npc",
+      "display_name": "Minsc & Boo",
+      "entity_id": "npc_minsc_001",
+      "name": "Minsc & Boo",
+      "tier": "lord_general",
+      "attitude_to_party": "hostile",
+      "class_name": "Ranger",
+      "level": 18
+    },
+    "Lord Sosuke": {
+      "entity_type": "npc",
+      "entity_id": "npc_lord_sosuke_001",
+      "role": "Lord of House Sosuke",
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "history": [
+            "Exiled Aizen to the trade roads as a bastard scion",
+            "Received report of Scornubel Enclave and Gate project"
+          ],
+          "trust_level": -2
+        }
+      },
+      "level": 18,
+      "display_name": "Lord Sosuke",
+      "tier": "king"
+    },
+    "Jaheira": {
+      "tier": "lord_general",
+      "entity_type": "npc",
+      "display_name": "Jaheira",
+      "entity_id": "npc_jaheira_001",
+      "name": "Jaheira",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -3
+        }
+      },
+      "attitude_to_party": "antagonistic",
+      "class_name": "Druid (High Harper)",
+      "level": 18
+    },
+    "Livia Sosuke": {
+      "entity_type": "npc",
+      "role": "Sister / Potential Ally",
+      "alignment": "Lawful Neutral",
+      "display_name": "Livia Sosuke",
+      "entity_id": "npc_livia_001",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 2
+        }
+      },
+      "mbti": "INTJ",
+      "level": 15
+    },
+    "Sargon Sosuke": {
+      "entity_type": "npc",
+      "entity_id": "npc_sargon_001",
+      "role": "Heir / Siphon-Dependent",
+      "tier": "noble",
+      "level": 3,
+      "health": {
+        "hp": 15,
+        "conditions": [
+          "Hollow Lung (Necrotic Dependency)"
+        ],
+        "hp_max": 25
+      },
+      "display_name": "Prince Sargon"
+    },
+    "npc_bane_001": {
+      "tier": "god",
+      "status": "normal",
+      "display_name": "Bane, Lord of Tyranny"
+    },
+    "Nyssa": {
+      "hp_current": 92,
+      "entity_type": "npc",
+      "role": "Companion / Wilderness Scout",
+      "display_name": "Nyssa",
+      "entity_id": "npc_nyssa_001",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "history": [
+            "Morally broken but terrified into compliance"
+          ],
+          "trust_level": -5
+        }
+      },
+      "level": 20,
+      "class_name": "Ranger",
+      "hp_max": 92
+    },
+    "Torvin": {
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "history": [
+            "Signed Blood-Silk Treaty"
+          ],
+          "trust_level": 2
+        }
+      }
+    },
+    "npc_gale_001": {
+      "status": "dead_soul_harvested"
+    },
+    "npc_xan_sosuke": {
+      "entity_id": "npc_xan_sosuke",
+      "role": "Eldest Son / Martial Rival",
+      "status": "covert_antagonist",
+      "display_name": "Xan Sosuke",
+      "level": 18
+    },
+    "npc_sariel_sosuke": {
+      "entity_id": "npc_sariel_sosuke",
+      "role": "Middle Daughter / Red Wizard Rival",
+      "status": "covert_antagonist",
+      "display_name": "Sariel Sosuke",
+      "level": 19
+    },
+    "Aizen-3 (Avatar)": {
+      "entity_type": "npc",
+      "current_location": "High Hall of Elturel",
+      "role": "Avatar / High Inquisitor",
+      "entity_id": "npc_aizen_avatar_003",
+      "status": "normal",
+      "display_name": "Warden-Magistrate Aizen",
+      "level": 20
+    },
+    "npc_xan_sosuke_001": {
+      "name": "npc_xan_sosuke_001"
+    },
+    "npc_kaelith_001": {
+      "relationships": {
+        "player": {
+          "history": [
+            "Witnessed Aizen's brutal efficiency against the Black Network"
+          ]
+        }
+      }
+    },
+    "npc_gneiss_veterans": {
+      "status": "dead"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "god_mode_directives": [
+      {
+        "rule": "Divine DC Scaling: Interactions with gods of Rank 6+ feature a baseline DC 50 floor; Spell DCs are contested by Divine Wisdom saves.",
+        "added": "2026-06-23T03:05:10.334116+00:00"
+      }
+    ],
+    "campaign_upgrade_in_progress": false,
+    "experience": {
+      "current": 20000
+    },
+    "social_hp_challenge": {
+      "request_severity": "favor",
+      "skill_used": "Persuasion",
+      "successes_needed": 5,
+      "social_hp_max": 100,
+      "objective": "Establish Imperial Alliance",
+      "roll_result": 103,
+      "npc_tier": "god",
+      "social_hp_damage": 8,
+      "roll_dc": 100,
+      "npc_name": "Empress Vylari",
+      "resistance_shown": "Imperial scrutiny established. Logic tensile strength check in progress.",
+      "successes": 2,
+      "cooldown_remaining": 1,
+      "npc_id": "npc_laeral_silverhand_001",
+      "social_hp": 87,
+      "status": null
+    },
+    "character_creation_stage": "complete",
+    "active_constraints": [],
+    "god_mode": {
+      "setting": "Faerun after events bg3. I\u2019m a trader from Thay. I do long trips from Thay to baldurs gate across the world. Make me an 18 year old very smart and good looking youngest bastard son of a thayan noble",
+      "character": {
+        "name": "Aizen"
+      }
+    },
+    "character_creation_active": false,
+    "faction_minigame": {
+      "faction_power": 154900,
+      "suggestion_given": false,
+      "turn_number": 200,
+      "tutorial_completed": false,
+      "ranking_last_calculated": "2026-06-22T07:24:31.591293+00:00",
+      "resources": {
+        "arcana": 0,
+        "citizens": 480000,
+        "max_citizens": 500000,
+        "gold": 11361736,
+        "max_arcana": 0,
+        "territory": 10000
+      },
+      "strong_suggestion_given": false,
+      "units": {
+        "soldiers": 50000,
+        "spies": 5000,
+        "elites": 500,
+        "elite_avg_level": 12.0
+      },
+      "ranking": 141,
+      "faction_power_last_calculated": "2026-06-22T07:24:31.591293+00:00",
+      "enabled": true,
+      "buildings": {
+        "fortifications": 50,
+        "farms": 0,
+        "arcane_libraries": 15,
+        "artisans_guilds": 1,
+        "wards": 0,
+        "training_grounds": 1,
+        "shadow_networks": 20,
+        "mana_fonts": 25
+      },
+      "tutorial_progress": {}
+    },
+    "sanctuary_mode": {
+      "expired_turn": 155,
+      "activated_turn": 257,
+      "expired": true,
+      "active": true,
+      "expires_turn": 999999,
+      "arc": "Sovereign Ascension",
+      "scale": "epic"
+    },
+    "level_up_pending": false,
+    "divine_upgrade_available": false,
+    "army_data": {
+      "total_strength": 1120,
+      "forces": {
+        "sunstar_squires": {
+          "blocks_current_hp": [
+            50
+          ],
+          "type": "infantry",
+          "blocks": 1,
+          "max_hp_per_block": 50,
+          "morale": 80,
+          "description": "10x Elturgard Squires in training; hired from House Sunstar.",
+          "upkeep_daily": 15,
+          "level": 4
+        },
+        "obsidian_legion": {
+          "description": "1,000 veterans of Level 8+; assassins, war-mages, and heavy infantry.",
+          "type": "elite_mixed",
+          "upkeep_daily": 4000,
+          "blocks": 100,
+          "morale": 95
+        },
+        "gneiss_remnants": {
+          "blocks_current_hp": [
+            60
+          ],
+          "type": "elite_infantry",
+          "blocks": 1,
+          "max_hp_per_block": 60,
+          "morale": 70,
+          "description": "10x Gneiss Veterans (Lvl 5) now magically bound to House Sosuke.",
+          "upkeep_daily": 30,
+          "level": 5
+        },
+        "crimson_talons": {
+          "blocks_current_hp": [
+            120
+          ],
+          "type": "elite_infantry",
+          "blocks": 1,
+          "max_hp_per_block": 120,
+          "morale": 90,
+          "description": "10x Elite Thayan Spell-Blades loyal to House Sosuke.",
+          "upkeep_daily": 100,
+          "level": 9
+        }
+      }
+    },
+    "divine_potential": 500,
+    "multiverse_upgrade_available": false,
+    "last_living_world_turn": 250,
+    "reputation": {
+      "public": {
+        "known_deeds": [
+          "Unmasked the Zulkir Heresy",
+          "Architect of the Sanctified Cure",
+          "Sole Survivor of the Citadel Breach",
+          "Warden of the Heroic Legacy"
+        ],
+        "score": 85,
+        "notoriety_level": "Legendary"
+      },
+      "private": {
+        "faction_house_gneiss": {
+          "known_deeds": [
+            "Secured the Western Logistical Mandate"
+          ],
+          "score": 2,
+          "standing": "neutral"
+        },
+        "faction_duc_palace_001": {
+          "known_deeds": [
+            "Unmasked the Zulkir Heresy",
+            "Coordinated the Financial District Purge"
+          ],
+          "score": 10,
+          "standing": "champion"
+        },
+        "faction_zhentarim_darkhold": {
+          "standing": "trusted",
+          "known_deeds": [
+            "Offered a Blood-Silk Treaty to stabilize Scornubel",
+            "Delivered the rogue Doomshaper Zalia to justice",
+            "Negotiated the 'Blood-Silk' merger of rogue remnants",
+            "Established exclusive illegal trade partnership"
+          ],
+          "score": 6,
+          "secret_knowledge": [
+            "House Sosuke scion is a potential strategic variable"
+          ]
+        },
+        "faction_sta_001": {
+          "known_deeds": [
+            "Established House Sosuke Enclave",
+            "Executed city-wide security purge"
+          ],
+          "score": 12,
+          "standing": "champion"
+        },
+        "faction_elturgard_high_hall": {
+          "known_deeds": [
+            "Secured the Reaching Woods through 'Sanctification'",
+            "Architected the Elturgard-Sosuke Stability Pact"
+          ],
+          "score": 10,
+          "standing": "trusted"
+        },
+        "faction_hellriders_001": {
+          "known_deeds": [
+            "Defended villa against Zhentarim",
+            "Exposed Orryn as a traitor"
+          ],
+          "score": 2,
+          "standing": "friendly"
+        }
+      }
+    },
+    "last_complication_turn": 200,
+    "core_memories": [
+      "Aizen is the 18-year-old smart and handsome youngest bastard son of a Thayan noble, acting as a trader traveling to Baldur's Gate.",
+      "Aizen is now a Level 6 Swords Bard with a specialized Thayan Merchant-Blade training, traveling with a party of Level 4 retainers (Varkas, Thalric, Nyssa).",
+      "Aizen and his crew maintain a public facade as successful Thayan merchants, but they secretly deal in the slave trade, a reality that allows them to be underestimated by those who only see their trade manifests.",
+      "Aizen utilizes 'The False Merchant's Signet' to mask his Thayan noble heritage and tattoos, allowing him to be perceived as a common traveler while transporting ten high-value slaves toward the Sword Coast.",
+      "Aizen has officially departed the outskirts of Thay with a cargo of ten kidnapped slaves and 5,000 gold, maintaining his facade as a wealthy merchant while hiding his noble Thayan heritage.",
+      "Aizen has successfully completed his first major trade run to Baldur's Gate and is now departing the city for the return journey to Thay with his crew and kidnapped cargo.",
+      "Aizen (Lvl 6) has departed Baldur's Gate heading east along the Coast Way toward Elturel with the Gilded Ten, seeking a market for his slaves while maintaining his merchant facade.",
+      "Nyssa recognized a Green Warden sigil on one of Aizen's kidnapped slaves, linking her past in Oakhaven to the current cargo.",
+      "Aizen granted Nyssa a private audience with the slave Kaelith, but the interrogation failed to yield info as the slave viewed Nyssa as a Thayan traitor.",
+      "Aizen personally intervened with Kaelith, successfully cracking her ideological resolve by appealing to her survival instincts over Nyssa's sentimentality.",
+      "Aizen used magic to stabilize Mirella (Lvl 1) but Varkas (Lvl 4) failed to detect Lukan's (Lvl 1) hidden flint tool during a delegated search.",
+      "Thayan Slave Compliance Magic is a fundamental law of Aizen's caravan; the Gilded Ten are magically prevented from seeking help or betraying their master.",
+      "Aizen personally searched the scholar Lukan for escape tools but failed to find the flint sliver the slave had successfully concealed.",
+      "Aizen successfully bypassed a Flaming Fist checkpoint at the Chionthar Bridge by using Thalric's forged manifests and his own merchant facade, securing the Gilded Ten's passage toward Elturel.",
+      "Aizen successfully bypassed the Chionthar Bridge but was intercepted by a Hellrider patrol near Elturgard after a forced march strained his wagons.",
+      "Aizen used his 'Exhausted Noble' act and a bribe of Thayan wine to successfully stall Sergeant Horgus of the Hellriders, beginning a social challenge to bypass the Elturgard patrol.",
+      "Aizen failed to discern Sergeant Horgus's true motivations during their roadside encounter, finding the Hellrider's professional stoicism impenetrable.",
+      "Aizen's attempt to scout for threats or leads during the roadside standoff failed, leaving him focused on his facade while the Zhentarim continue their unseen approach.",
+      "Nyssa identified a stone-walled fermentation shed 300 yards ahead as a critical defensive position against the Zhentarim silhouettes she spotted earlier.",
+      "Aizen successfully leveraged the Zhentarim threat to convince Sergeant Horgus to move the caravan to a defensive fermentation shed, keeping the Hellriders close as a buffer against ambush.",
+      "Aizen successfully alerted Sergeant Horgus to the Zhentarim threat, leading the Hellriders to defend the fermentation shed while maintaining a professional, albeit wary, alliance with the merchant scion.",
+      "Aizen led a successful flanking strike from the fermentation shed, severely wounding a Zhentarim scout and forcing the Black Network to engage the combined strength of his retainers and the Hellriders.",
+      "Aizen utilized his Extra Attack feature to strike a Zhentarim scout twice with his longsword, dealing 13 damage and leaving the enemy on the brink of death during the fermentation shed ambush.",
+      "Aizen utilized a Slashing Flourish to defeat a Zhentarim scout and wound another, while providing Bardic Inspiration to Varkas as the Hellriders held the line during the fermentation shed ambush.",
+      "Aizen utilized his tactical authority to coordinate his companions and the Hellriders in a focused strike that nearly eliminated the Zhentarim Infiltrator leader during the fermentation shed ambush.",
+      "Aizen personally executed the Zhentarim Infiltrator leader with a single strike during the fermentation shed ambush, earning the grim respect of Sergeant Horgus.",
+      "Aizen (Lvl 6) demonstrated brutal tactical efficiency by personally executing the Zhentarim leader and disabling a surviving scout during the fermentation shed ambush.",
+      "Aizen successfully repelled a Zhentarim ambush near Elturel and interrogated a survivor, revealing that a 'Shadow-Caster' in Scornubel is targeting his caravan.",
+      "Aizen's attempt to identify the Baldur's Gate leak failed as the Zhentarim scout succumbed to shock, while Sergeant Horgus rejected a 120gp bribe, instead insisting on a formal escort to Elturel.",
+      "Aizen successfully persuaded Sergeant Horgus to divert the caravan's escort to a private villa outside Elturel, avoiding a formal gate inspection of the Gilded Ten.",
+      "Aizen successfully diverted the Hellrider escort to Master Orryn's villa, but Thalric failed to mask the necromantic signatures of the slave bindings, leaving a magical 'stain' in the cellar.",
+      "Aizen attempted to distract Horgus with music but failed; however, Thalric and Nyssa successfully scrubbed the necromantic residue from the villa cellar before the Sergeant's inspection.",
+      "The scholar Lukan successfully utilized a hidden flint sliver to weaken his shackles during the night at the Verdant Barrel, preparing for a potential escape or distraction.",
+      "Master Orryn was discovered attempting to unbar the villa's postern gate for Zhentarim scouts in the deep night, revealing his compromised loyalty to the Black Network.",
+      "Sergeant Horgus's vigilance faltered during the early morning hours, creating a critical gap in the villa's perimeter security.",
+      "Aizen successfully intercepted and neutralized Master Orryn at the postern gate during a deep-night betrayal attempt, preventing a Zhentarim breach.",
+      "Aizen successfully interrogated the traitor Master Orryn, learning that the Zhentarim are waiting for a whistle signal to storm the villa and take the Gilded Ten.",
+      "Aizen initiated a flanking strike on the Zhentarim scouts outside the villa, wounding several as they attempted to scale the western wall.",
+      "Aizen utilized a Rapier +1 to execute a Zhentarim scout and critically wound another during the vineyard counter-ambush at the Verdant Barrel.",
+      "Aizen finished a wounded Zhentarim scout in the Verdant Barrel vineyards, but Nyssa missed her shot on a climber, leaving the western wall breach contested.",
+      "Aizen utilized tactical ranged focus to secure the villa's western wall breach, coordinating Varkas to snipe the climber while personally crippling a flanking scout in Round 3.",
+      "Aizen successfully repelled a multi-pronged Zhentarim assault on the Verdant Barrel villa, neutralizing the traitor Master Orryn and forcing the 'Shadow-Caster' to retreat.",
+      "Aizen successfully persuaded Sergeant Horgus to lead the main Hellrider force in pursuit of the Zhentarim 'Shadow-Caster,' leaving the villa and the hidden slaves under Aizen's private control.",
+      "Aizen's attempt to break Lukan's spirit via intimidation failed, revealing a resilient defiance in the scholar and creating a moment of psychological vulnerability in the scion's control over the Gilded Ten.",
+      "Aizen successfully coordinated a strategic withdrawal from the Verdant Barrel villa, deceiving the Hellrider initiates with forged documents and a bribe while Horgus pursued the Zhentarim.",
+      "Aizen's attempt to use his reputation to find illicit buyers in Elturel failed when his inquiries raised the suspicions of the Hellrider initiates, compromising his 'Hero' status.",
+      "Aizen successfully utilized a 'Philanthropic Pivot' in Elturel, reframing his suspicious inquiries as a noble quest to find the kidnapped kin of his retainers, thereby securing the cooperation of the Hellrider initiates.",
+      "Aizen and Nyssa successfully evaded a Zhentarim tracker in Elturel, repositioning the Gilded Ten to the river-mists to avoid discovery by the Shadow-Caster's agents.",
+      "Aizen successfully spotted the Zhentarim tracker while departing Elturel's mists, identifying the Shadow-Caster's persistent pursuit.",
+      "Aizen successfully utilized his elvenkind gear to perform a silent counter-scout in the mists east of Elturel, remaining undetected while the caravan acted as bait for the Shadow-Caster.",
+      "Aizen used Invisibility to stalk Malakor the Shadow-Caster at the Weeping Willows, but Nyssa was spotted and wounded by a Magic Missile strike, initiating open combat.",
+      "Malakor the Shadow-Caster was bloodied by Thalric's fire on the Weeping Willows ridge after Aizen's initial flanking strike failed to finish him due to the treacherous terrain.",
+      "Aizen and his crew cornered Malakor the Shadow-Caster on a ridge at the Weeping Willows, crippling his leg and reducing him to 10 HP through coordinated focus fire.",
+      "Aizen captured Malakor the Shadow-Caster at the Weeping Willows through a non-lethal knockout, securing him with shackles while the Hellriders pursued his retreating scouts.",
+      "Aizen's attempt to isolate Malakor for a private interrogation failed due to the Hellrider initiates' professional vigilance, forcing him to pressure the Zhentarim mage under their watchful eyes.",
+      "Nyssa's failed attempt to distract the Hellrider initiates at the Weeping Willows has increased their suspicion of Aizen's retinue, complicating the private interrogation of Malakor.",
+      "Aizen reached Level 7, mastering the art of Greater Invisibility and integrating the lethal experiences of the road into his Thayan Merchant-Blade training.",
+      "Aizen successfully utilized a phantom threat to deceive the Hellrider initiates, isolating Malakor on the ridge for a private interrogation.",
+      "Malakor successfully resisted Aizen's initial interrogation attempt on the ridge, revealing that his mind is warded against low-level enchantments and Thayan psychic pressure.",
+      "Correction: Malakor successfully resisted Aizen's attempt to use Charm Person on the ridge, maintaining his silence regarding the Baldur's Gate leak despite the scion's magical pressure.",
+      "Aizen attempted to forge the 'Blood-Silk Alliance' with Malakor, offering a 10% stake in the slave trade, but the Shadow-Caster rejected the pittance as insufficient for the risk.",
+      "Malakor rejected Aizen's 25% stake offer, revealing his deep-seated fear of his sister in Scornubel and the Zhentarim's internal purges over his own survival.",
+      "Aizen successfully framed Malakor's execution as a Zhentarim assassination, but failed to convince the Hellrider initiates to leave for Scornubel immediately.",
+      "Aizen successfully persuaded the Hellrider initiates to return to Sergeant Horgus, leaving his caravan without a military escort but free to move toward Scornubel.",
+      "Aizen used intimidation to force Nyssa's silence regarding the execution of Malakor, further straining her trust and binding her to his secrets.",
+      "Aizen arrived in Scornubel after a grueling march, but his attempt to morally corrupt Nyssa met with cold resistance as she retreated into a fearful, professional compliance.",
+      "Aizen is the youngest bastard son of House Sosuke, a noble Thayan lineage.",
+      "Aizen identified the Shield Brothers' pricing (1,200gp/month) and the political tension between Zhentarim loyalists and the Scornubel Trade Alliance.",
+      "Aizen contracted the Shield Brothers and successfully allied with Harkon of the Scornubel Trade Alliance, securing a 'Hero' reputation and discreet storage for the Gilded Ten.",
+      "Aizen utilized his 10 Shield Brothers to set a successful tactical ambush for Zalia's Shadow-Stalkers in the Scornubel STA warehouse.",
+      "Aizen utilized his 10 Shield Brothers to non-lethally subdue two of Zalia's Shadow-Stalkers in STA Annex 4, securing them as high-value prisoners.",
+      "Aizen successfully allied with the Scornubel Trade Alliance (STA), securing the Gilded Ten in deep vaults and breaking one of Zalia's Shadow-Stalkers to reveal her location at 'The Broken Axle'.",
+      "Aizen successfully dispatched a political 'wedge' to the Scornubel Zhentarim leadership, framing Zalia's cell as a rogue liability to the city's trade stability.",
+      "Aizen leveraged the STA alliance to secure twenty Urban Enforcers and located Zalia's Vengeance Unit at a Scornubel tanning yard staging ground.",
+      "Aizen coordinated a 30-man mass assault on Zalia's Vengeance Unit at a tanning yard, using himself as an invisible assassin while his forces provided a loud distraction.",
+      "Aizen initiated a surprise assault on Zalia in Scornubel, delivering a devastating invisible strike that left her bloodied and the ritual interrupted.",
+      "Aizen reached Level 8, peak of Thayan Merchant-Blade training (Charisma 20), mastering Dimension Door after a lethal strike on Zalia in Scornubel.",
+      "Aizen non-lethally subdued Zalia and forced the surrender of her Vengeance Unit in Scornubel, securing the tanning yard and establishing House Sosuke as a dominant force over the local Black Network.",
+      "Aizen executed the 'Iron Verdict' in Scornubel, non-lethally subduing Zalia and half her unit while slaughtering the rest, effectively seizing control of the tanning yard and securing his status as a dominant force in the city's trade politics.",
+      "Aizen successfully utilized the Scornubel Trade Alliance enforcers and his reputation to legitimize the tanning yard strike to the Scornubel Town Watch.",
+      "Aizen successfully legitimized the tanning yard slaughter to Captain Vane by showcasing Zalia's necrotic ritual site, though the Captain remains too wary to grant immediate trade immunity.",
+      "Captain Vane of the Scornubel Town Watch acknowledged the Zhentarim ritual threat but refused immediate trade immunity, demanding a more rigorous formal accounting.",
+      "Aizen provided Zalia's Ritual Ledger to Captain Vane, proving the Zhentarim threat and securing trade immunity through Elturgard.",
+      "Aizen successfully moved Zalia and the Gilded Ten to the STA deep vaults and began a successful psychic interrogation, reducing her Social HP to 6/8.",
+      "Aizen's attempt to use advanced Thayan mental probes to shatter Zalia's remaining Zhentarim wards failed, as her conditioning held against the psychic pressure.",
+      "Aizen liquidated nine of the Gilded Ten into Scornubel labor contracts for 4,500gp and coerced the Warden Kaelith into a five-year service pact to mollify Nyssa's growing resentment.",
+      "Aizen attempted to secure a formal leadership rank within the STA to negotiate a Zhentarim peace treaty, but Harkon remains wary of granting a Thayan scion such direct power so quickly.",
+      "Aizen successfully persuaded Sergeant Horgus to legitimize the tanning yard strike and join the peace negotiations with the Zhentarim Darkhold loyalists.",
+      "Zalia successfully resisted Aizen's final private interrogation in the deep vaults, and the Darkhold Loyalists in Scornubel have met the pincer alliance with deep skepticism.",
+      "Aizen successfully leveraged Zalia's ritual evidence and his military alliance to force Torvin of the Darkhold Loyalists into wavering during peace negotiations in Scornubel.",
+      "Aizen successfully leveraged the capture of Zalia and a military alliance with the STA and Hellriders to force Torvin of the Darkhold Loyalists into wavering during peace negotiations in Scornubel.",
+      "Aizen finalized the Blood-Silk Treaty with the Darkhold loyalists in Scornubel and publicly executed Zalia, cementing House Sosuke's dominance in the city's trade politics.",
+      "Aizen has been appointed as a High Overseer of the Scornubel Trade Alliance and has brokered the Blood-Silk Treaty, effectively ending Zhentarim hostilities and cementing House Sosuke as a dominant political power in the city.",
+      "Aizen successfully leveraged the Doomshaper threat to secure a formal Security Mandate and the establishment of the Sosuke Enclave in Scornubel.",
+      "Aizen established the House Sosuke Enclave in Scornubel and successfully purged Zhentarim remnants from the city's trade routes, though Sergeant Horgus refused to grant a full Hellrider mandate for operations outside the city.",
+      "Aizen (Lvl 9) has fully established the House Sosuke Enclave in Scornubel, integrated his sovereign authority, and is now recognized as the High Overseer of the Eastern Gate with a city-sanctioned mandate for security.",
+      "Aizen is now a Council Member of Scornubel and has established a city-wide spy network called 'The Whisper Silk', though his military purge of the trade road was costly and left Zhentarim remnants active.",
+      "Aizen successfully merged the rogue Zhentarim 'Doomshaper' remnants into the Darkhold loyalist structure in Scornubel, cementing his political dominance and securing the trade lanes with fortified watch-towers.",
+      "Aizen has secured sovereign Thayan soil within Scornubel and identified Senechal Valerius of Baldur's Gate as the traitor who sold his trade route.",
+      "Aizen has traded exclusivity in the illegal slave and weapons trade for the Zhentarim rank of 'Viper' and a guarantee that the Black Network will protect his public 'Hero' facade.",
+      "Aizen established a sovereign enclave in Scornubel and unmasked Senechal Mordane as the Baldur's Gate traitor.",
+      "Aizen leveraged Senechal Mordane's daughter to secure total cooperation in Baldur's Gate, turning the leak into a high-placed asset.",
+      "Aizen failed to read the motives of Thavix of House Gneiss during a formal dinner, leaving the rival noble's true agenda in Scornubel obscured.",
+      "Aizen successfully feigned submission to Thavix of House Gneiss, disarming the Inquisitor's initial hostility and gaining a foothold in their psychological duel.",
+      "Aizen successfully probed Thavix of House Gneiss, revealing that Scornubel is merely a logistical anchor for a larger Red Wizard operation involving a planar Gate in the Reaching Woods.",
+      "Thavix of House Gneiss rejected Aizen's attempt to monopolize the Reaching Woods gate logistics, reasserting that Aizen is an instrument of the Plateau, not a partner.",
+      "Aizen successfully leveraged Senechal Mordane (Lvl 12) as a secured asset and utilized Kaelith's (Lvl 7) magic to pivot his monopoly demand into a high-value 'Shadow Consultancy' for the Red Wizard Gate project.",
+      "Aizen successfully secured a logistical monopoly for the Red Wizard planar gate project in the Reaching Woods by leveraging Senechal Mordane and Kaelith's magic against Thavix of House Gneiss.",
+      "Aizen sent a high-stakes request for legitimization to Lord Sosuke, leveraging the Senechal Mordane asset and the Scornubel Enclave's success.",
+      "Aizen successfully sanitized the Sosuke Enclave and deflected Sergeant Horgus's initial suspicions regarding the Malakor execution through a high-stakes facade of noble legitimacy.",
+      "House Sosuke maintains a constant, magically-bolstered merchant facade at its Scornubel Enclave, ensuring no Thayan signatures are visible to guests like the Hellriders.",
+      "Correction: Sergeant Horgus was a key participant in the Blood-Silk Treaty negotiations and witnessed Zalia's execution; his previous 'pending' status was a temporal error.",
+      "Aizen traveled to Elturel and attempted to secure a leadership rank within Elturgard through Sergeant Horgus's vouching, but was met with legalistic skepticism from High Clerk Pheras.",
+      "Correction: Aizen's abduction of Lia and the Zhentarim false-flag framing was a Masterful Success; Sergeant Horgus was perfectly deceived and the 'Hero' facade remains intact.",
+      "Aizen successfully abducted Lia and framed the Zhentarim with such precision that Sergeant Horgus was perfectly deceived, solidifying Aizen's 'Hero' status while securing a critical lever against Baldur's Gate.",
+      "Aizen successfully established the Sosuke Enclave in Scornubel as a sovereign trade hub and secured Lia Mordane in the vaults while unmasking Senechal Mordane as a high-level asset.",
+      "Aizen utilized a masterful Natural 20 Deception to discredit the stable-hand witness Tobias, convincing Sergeant Horgus that the boy's memories of a 'handsome noble' were trauma-induced hallucinations, thus securing his facade.",
+      "Aizen successfully staged the rescue of Lia Mordane and leveraged the resulting prestige to obtain the rank of Warden-Magistrate in Elturel, effectively seizing control of the Red Wizard ritual anchor from House Gneiss.",
+      "Aizen successfully framed Thavix of House Gneiss as the true architect of the Lia Mordane abduction, securing Elturgard military support for a lethal purge of his rival.",
+      "Aizen successfully ambushed Thavix of House Gneiss at Site Alpha, incapacitating the Inquisitor and four of his elite veterans with a masterful Hypnotic Pattern while Elturgard forces look on.",
+      "Aizen led a coordinated surprise assault at Site Alpha, executing the Gneiss Inquisitor Thavix and his elite guard under the banner of Elturgard law, effectively seizing total control of the Red Wizard ritual anchor.",
+      "Aizen successfully executed Thavix, seized the Heart of the Warden, and established total control over the Reaching Woods Site Alpha.",
+      "Aizen reached the peak of his Merchant-Blade training at Level 10, integrating the secrets of the fifth circle of magic to solidify his authority over the Reaching Woods.",
+      "Aizen successfully executed the Gneiss Inquisitor Thavix at Site Alpha, recovered the 'Gneiss Contingency' data, and secured the 'Heart of the Warden' under an Elturgard military mandate.",
+      "Aizen successfully extracted the ritual keys from Kaelith and secured his noble legitimization from the Thayan envoy, turning House Sosuke into a legitimate power in the Western Heartlands.",
+      "Aizen successfully extracted the Soul-Vortex intel and secured his legitimization envoy's respect through masterful logistics and retainers' tests.",
+      "Aizen has initiated the 'Ritual of Blood' within the Sosuke Enclave to finalize his legitimization and reach Level 11.",
+      "Aizen has successfully completed the 'Ritual of Blood' at the Sosuke Enclave, reaching Level 11 and anchoring his bloodline in the sixth circle of magic.",
+      "The Dread Ring is a Soul-Vortex designed to siphon psychic residue from the Absolute crisis to anchor Thayan power in the West via the 'Weave-Mirror' facade.",
+      "Aizen has successfully architected a Sovereign Grift within the Soul-Vortex, using 'Necrotic Dampeners' as physical siphons masked by a public safety narrative.",
+      "Aizen has officially activated the House Sosuke Faction Command in Scornubel, assuming the rank of High Overseer and Warden-Magistrate over a domain of 500 acres and 120 specialized troops.",
+      "Aizen successfully siphoned Soul-Vortex power through 'Necrotic Dampeners' and countered Lady Marcella's political attack during a 3-week Scornubel consolidation.",
+      "Aizen successfully triggered the first Pulse of the Soul-Vortex, siphoning Absolute essence while maintaining a perfect 'Sanctified Radiance' facade for Elturgard.",
+      "Aizen has successfully initiated the courting of Lady Althea Sunstar in Elturel, leveraging his 'Hero' status to mask his siphoning of the Soul-Vortex's Absolute essence.",
+      "Aizen has successfully opened a psychological fracture in Lady Althea Sunstar, leveraging her family's financial desperation against their rigid Elturgard honor.",
+      "Aizen successfully opened a psychological and financial fracture in House Sunstar, securing Lady Althea as a YIELDING asset and hiring a unit of Sunstar Squires.",
+      "Aizen successfully subverted House Sunstar, securing Lady Althea's devotion and the High Commander's strategic partnership through a high-value procurement contract.",
+      "Aizen has established the Magistrate's Annex in Elturel and secured a private audience with High Observer Thavius Kreeg.",
+      "Aizen bypassed Thavius Kreeg's ecclesiastical guard by reframing Thayan Order as the ultimate expression of Elturgard's Law, initiating a high-stakes alliance with Elturel's leader.",
+      "Aizen has successfully leveraged the Sunstar endorsement to nearly break High Observer Kreeg's political resistance, securing a path to absolute autonomy for the Scornubel Enclave.",
+      "Aizen has successfully subverted the High Observer Thavius Kreeg, securing a decree of Absolute Political Autonomy that turns Scornubel into a sovereign Thayan enclave protected by Elturgard law.",
+      "Aizen successfully leveraged the High Observer's autonomy decree to begin the moral and financial corruption of House Sunstar, starting with Lady Althea.",
+      "Aizen has successfully corrupted House Sunstar, turning the High Commander and Lady Althea into logistical and emotional assets of House Sosuke within Elturgard.",
+      "Aizen successfully siphoned a 9% overflow of Absolute essence while maintaining a perfect 'Sanctified Radiance' facade for 14 days.",
+      "Aizen successfully deceived Envoy Khoris into believing the 9% siphoning discrepancy is a technical requirement for the Elturgard facade.",
+      "Aizen has successfully leveraged his marriage to House Sunstar and his 'Hero' status to secure a path toward Elturgard's High Council of the Light, subverting the city's theocratic core.",
+      "Aizen successfully bypassed Elturgard's spiritual vetting by staging a 'Divine Miracle' using siphoned Absolute essence, securing his candidacy for the High Council of the Light.",
+      "Aizen has been inducted into the High Council of the Light and has secured oversight of his own Enclave's audit, effectively legalizing his Thayan operations within Elturgard.",
+      "Aizen coordinated with his Simulacrum to launch a masterful surprise assassination strike on Inquisitor Xanos in Scornubel.",
+      "Aizen coordinated his full elite team to non-lethally capture Inquisitor Xanos in Scornubel, further securing his domain against House Gneiss.",
+      "Aizen and his Simulacrum successfully captured Inquisitor Xanos of House Gneiss and began his psychological subversion within the Enclave vaults.",
+      "Aizen and Althea have successfully broken Inquisitor Xanos of House Gneiss, reducing his Social HP to 4/12 and securing his near-total psychological defection within the Enclave vaults.",
+      "Aizen has successfully seized the Scornubel holdings of House Gneiss and integrated the Sunstar family's military archives into his sovereign domain.",
+      "Lord Sosuke has granted Aizen the bulk of the Gneiss holdings, officially cementing him as the primary Thayan authority in the Western Heartlands.",
+      "Aizen has been appointed High Inquisitor of Elturgard and has successfully integrated a Thayan siphon into the High Hall's 'Sovereign Link' ritual.",
+      "Aizen has successfully struck the Sovereign Link in Elturel, anchoring the city's soul to the Dread Ring and securing a 15% energy siphon under the High Observer's own hand.",
+      "Aizen successfully established a Whisper Silk cell in the High Hall and used a masterful gala to cement his 'Sanctified' status, while subtly purging Elturgard's military traditionalists.",
+      "Aizen has successfully infiltrated the BG3 hero party as 'Kaelen,' a victimized Thayan student, framing his siblings for the Dreamless Plague.",
+      "Aizen (as Kaelen) has successfully infiltrated the BG3 hero party, framing his siblings and stepmother for the 'Dreamless Plague' and leading them to Site Alpha with forged evidence.",
+      "Aizen (as Kaelen) has successfully convinced Wyll and Shadowheart to mobilize the full BG3 hero party to strike at his rivals, while positioning his own Simulacrum as their primary legal and spiritual ally.",
+      "Aizen (as Kaelen) has successfully guided the BG3 heroes into his own Enclave, framing Xan as the primary villain and securing their commitment to a lethal strike.",
+      "Aizen (as Kaelen) successfully utilized his Simulacrum to issue a Magistrate's Decree, framing his siblings for the Dreamless Plague and authorizing the BG3 heroes to strike.",
+      "Aizen (as Kaelen) persuaded Wyll and Shadowheart to wait for their full party before striking the Enclave, while orchestrating token resistance from his own guards to maintain the facade.",
+      "Aizen (as Kaelen) successfully deferred the BG3 heroes' strike on the Enclave while his Simulacrum planted evidence in the vaults to finalize the Marcella frame.",
+      "Aizen (as Kaelen) successfully led the BG3 heroes to strike at his brother Xan in the Enclave vaults, perfectly framing him for the 'Vortex' heresy.",
+      "Aizen (as Kaelen) successfully initiated the final strike on his brother Xan, using the BG3 heroes as his unwitting executioners while maintaining a perfect facade of victimhood.",
+      "Aizen has successfully seeded the Baldur's Gate Dread Ring node within the Ducal Palace while using the BG3 heroes to purge his mercantile rivals under the guise of rooting out Marcella's spies.",
+      "Aizen has successfully primed the Baldur's Gate Dread Ring node to siphon the casualties of the coming ambush while coordinating with Senechal Mordane to guide Marcella's strike force into the heroes' killing zone.",
+      "Aizen has reached Level 18, mastering reality with Wish and True Resurrection while priming the Baldur's Gate node for a sovereign harvest.",
+      "Aizen successfully primed the Baldur's Gate Dread Ring node beneath the Ducal Palace and initiated the ambush of Inquisitor Valerius and the Plateau Talons.",
+      "Aizen masterfully coordinated the BG3 heroes in the Ducal Palace cisterns, severely wounding Inquisitor Valerius while maintaining his victim-facade through a 'Sovereign Coordination' that anchored the party's fire.",
+      "Aizen successfully anchored the Baldur's Gate Dread Ring node beneath the Ducal Palace and nearly finalized Sariel's defection through a masterful psychological pincer.",
+      "Sariel Sosuke has defected to Aizen's cause, agreeing to support his coup for the High Seat, while Lady Marcella has been baited into a suicidal strike on Baldur's Gate.",
+      "Aizen successfully lured Lady Marcella into a heroic ambush in the Baldur's Gate cisterns, subtly sabotaging the wards while priming a Soul-Vortex node to harvest the coming casualties.",
+      "Aizen has successfully secured a sovereign residence within the Baldur's Gate Ducal Palace and initialized the shadow-seizure of Marcella's Thayan assets.",
+      "Aizen successfully teleported to Thay and secured Szass Tam's personal mandate to use the BG3 heroes as fodder for the expansion of the Dread Ring to Baldur's Gate.",
+      "Aizen has reached Level 19, reaching the penultimate peak of Thayan sovereign mastery and securing the Regent's mandate for the Baldur's Gate harvest.",
+      "Aizen has successfully identified the Zulkirs Pyarados and Mythrellen as targets and framed them to the BG3 heroes as the architects of the 'Vortex' heresy.",
+      "Aizen has successfully convinced Wyll and Shadowheart to purge his rivals in Baldur's Gate by framing them as traitors to Szass Tam, utilizing a 'Sovereign Alignment' narrative that bypasses their divine suspicion.",
+      "Aizen has successfully utilized the BG3 heroes to purge his mercantile rivals in Baldur's Gate while Sariel destabilizes the Zulkir Council in Thay, though his attempt to monopolize the city's financial ley-lines was blocked by Harper-wards.",
+      "The Baldur's Gate hero party has fully internalized Aizen's 'Kaelen' strategy, completing the purge of his mercantile rivals and marking the Zulkir Council as their next strategic target.",
+      "Aizen has reached Level 20, reaching the absolute peak of mortal Thayan mastery and anchoring the Baldur's Gate node as a sovereign power.",
+      "Aizen (as Kaelen) masterfully framed Zulkirs Pyarados and Mythrellen as the rogue architects of the Western 'Vortex' during his testimony to the Council of Four, securing total heroic and political alignment in Baldur's Gate.",
+      "Aizen masterfully orchestrated the execution of Zulkirs Pyarados and Mythrellen by the BG3 heroes, personally harvesting their essences to anchor a capital-tier Dread Ring node beneath the Cloakwood.",
+      "Aizen has successfully moved to Thay, extracted Citadel bypass codes from Pyarados's spirit, and positioned a shadow-ambush force for the eventual betrayal of the BG3 heroes.",
+      "Aizen's attempt to silently sabotage the Sovereign Citadel failed, forcing an open siege by the BG3 heroes and his Thayan units against an alert and fortified Zulkir Council.",
+      "Aizen successfully coordinated the heroes and the Obsidian Legion to breach the Sovereign Citadel's gates, though his personal infiltration was blocked by divine-tier wards.",
+      "Aizen (as Kaelen) has successfully forged the 'Sanctified Cure' ritual and convinced the BG3 heroes to return to Elturel to cast it, effectively guiding his executioners to finalize the Dread Ring's capital node.",
+      "Aizen successfully struck the Dread Ring Apex in Elturel, anchoring a world-scale soul-siphon under the guise of a 'Sanctified Cure' while momentarily silencing Elminster Aumar.",
+      "Aizen successfully endured four weeks of Elminster's scrutiny, maintaining his facade until the Sage departed to consult Mystra.",
+      "Wyll Ravengard, the Blade of Frontiers, is confirmed dead; his soul was siphoned into Aizen's internal vortex during the collapse of the Cloakwood pocket dimension.",
+      "Aizen has publicly dropped his 'Kaelen' persona and revealed his true identity to the Chosen of Mystra, triggering a global war against his shadow empire.",
+      "Historical Fact: The 'Kaelen' student disguise was a temporary tool used to manipulate and harvest the souls of Wyll, Shadowheart, Gale, and Karlach.",
+      "Current Status: The Audit of the Seven Sisters is directed at Duke-Elect Aizen; the archmages and survivors like Jaheira interact with him only as the sovereign magistrate.",
+      "Duke-Elect Aizen has successfully baited the Archmages of the Gate into acting as his shields against a manifestation of Szass Tam, while secretly reversing the Dread Ring nodes to consume both the Regent and the Chosen.",
+      "Aizen's attempt to stabilize the technical bleed in the Ducal Cisterns failed, causing his Sovereign Shroud to flicker and increasing the Exposure Meter to 50/100.",
+      "Duke-Elect Aizen successfully orchestrated 'The Heroic Burnout' in the Ducal Cisterns, forcing Laeral Silverhand and Elminster Aumar to expend their 9th-level magic to save his simulacrum.",
+      "Duke-Elect Aizen has successfully convinced Laeral Silverhand and Elminster Aumar to launch a direct strike on Szass Tam in Thay, framing the Regent as the rogue architect of the Soul-Vortex.",
+      "Duke-Elect Aizen has successfully teleported Laeral Silverhand and Elminster Aumar to Thay, coordinating a mass assault by the Obsidian Legion to mask the party's infiltration into the Sovereign Citadel.",
+      "Duke-Elect Aizen initiated the final assault on the Sovereign Citadel, successfully coordinating the BG3 heroes and his sister Sariel to sabotage the wards while masking a subterranean breach failure.",
+      "Duke-Elect Aizen utilized a Natural 20 Sovereign Resonance to dissolve Szass Tam's 'Contractual Inevitability' basalt wall, leading the Archmages directly into the Phylactery Chamber.",
+      "Duke-Elect Aizen coordinated the Chosen of Mystra to shatter Szass Tam's phylactery in the Sovereign Citadel, though his attempt to secretly siphon the essence failed.",
+      "Duke-Elect Aizen has successfully seized control of the global Dread Ring network and siphoned the essence of Szass Tam's phylactery, leaving the Regent mortal and exhausted after a confrontation with the Chosen of Mystra.",
+      "Duke-Elect Aizen successfully orchestrated a 'Staged Intervention' in the Sovereign Citadel, masking his Thayan elites as Elturgard reinforcements and securing the total yielding of Laeral Silverhand's suspicion.",
+      "Duke-Elect Aizen has successfully executed the 'Weave-Eater's Gambit', erasing Szass Tam, Laeral Silverhand, and Elminster Aumar, and siphoning their legendary essences to anchor his global shadow empire.",
+      "Duke-Elect Aizen has successfully consolidated power across Thay, Baldur's Gate, and Elturgard, assuming the role of Shadow Regent after consuming Szass Tam and the Chosen of Mystra.",
+      "Duke-Elect Aizen has successfully anchored the 'Heroic Sacrifice' propaganda, framing the death of the Chosen and BG3 heroes as a victory for the Light and positioning Sariel as the Technical Regent of Thay.",
+      "Aizen has been elevated to Archduke of Baldur's Gate, establishing a total Thayan-monopolized trade artery between Bezantur and the Sword Coast while sanitizing the Flaming Fist.",
+      "Archduke Aizen has successfully ruled the Western Shadow Empire for three years, though his son Sargon is physically tethered to the Soul-Vortex for survival.",
+      "Archduke Aizen has ruled the Western Shadow Empire for two additional years, amassing a treasury of 13 million gold and reaching Level 32 Sovereign mastery before the arrival of Azrael, the Silver Gavel.",
+      "Archduke Aizen has used his son Sargon as the primary moral anchor to paralyze Azrael's divine audit, framing the Soul-Vortex as a 'Stabilization Drain' against a Thayan Shadow-Nuke.",
+      "Archduke Aizen successfully paralyzed the Solar Auditor Azrael by framing the Soul-Vortex as a necessary 'Stabilization Drain' against a Thayan Shadow-Nuke, using his son Sargon as the moral anchor.",
+      "Aizen has proliferated his divine presence, manifesting five permanent Avatars to govern the Western Shadow Empire and Thay simultaneously.",
+      "Aizen-5 initiated diplomatic outreach to Shar in the Shadowfell, but the initial 25% 'Silence Tax' offer was met with cold divine indifference.",
+      "Aizen-5 successfully utilized a masterful natural 20 sovereign resonance to pierce Shar's indifference in the Shadowfell, establishing the technical legitimacy of the 'Silence Tax'.",
+      "Aizen-5 projected the 'Black-Out' Blueprint to Shar, demonstrating the Crimson Vortex's technical capacity for total erasure, but the Mistress of the Night demanded a demonstration of 'True Loss' before granting the Shroud.",
+      "Aizen-5 successfully projected the clinical erasure of Lady Marcella to Shar, proving his mastery of True Loss and advancing the negotiation for the Shroud of the Void.",
+      "Aizen-5 formally accepted the Shroud of the Void from Shar, binding the Western Dread Ring to the Shadowfell in exchange for absolute invisibility from Mystra, though the integration created a technical 'drag' on the Vortex nodes.",
+      "Archduke Aizen spent 90 days in the Shadowfell stabilizing the Shroud of the Void, achieving Level 41 through the 'Silence Tax' harvest while failing to secure a formal alliance with Bane.",
+      "Archduke Aizen initiated negotiations with Bane, offering a 'Black-Out Zone' in Elturgard as a theocratic foothold in exchange for military recognition of his sovereign mandate.",
+      "Aizen elevated Althea Sunstar to Level 25 and named her his Chosen, formally initiating a Triumvirate with Bane and Shar to systematically harvest the Pantheon, starting with Lliira.",
+      "Aizen masterfully architected the 'Inversion of Joy' plan, intending to consume the goddess Lliira in Elturel while framing the Order of the Gauntlet for the catastrophic failure.",
+      "Aizen initiated the 'Joy-Inversion' in Elturel, but a technical resonance of 49 caused a violet bleed that alerted the Order of the Gauntlet Paladins to an anomaly during their 'Purge' ritual.",
+      "Aizen successfully integrated the essence of Lliira into his Chosen, Althea, while framing the Order of the Gauntlet for the catastrophic failure of the 'Festival of the First Thaw'.",
+      "Aizen successfully framed the Order of the Gauntlet for Lliira's deicide and integrated her essence to reach Level 48, triggering focused scrying from Mystra.",
+      "Aizen successfully stabilized the 'Hollow Zone' in Elturgard over three weeks, reducing Dissonance to 36% and earning the formal respect of Shar and Bane through a clean, efficient deicide.",
+      "Aizen successfully formalized the Triple-Crown Pact with Bane and Shar, securing a mutual defense and expansion treaty that binds their divine assets to the Crimson Vortex.",
+      "Aizen identified Eldath (Peace) as the next target for the Triumvirate's 'Strife-Seed' strategy, securing formal buy-in from Bane and Shar.",
+      "Aizen successfully integrated the Joy portfolio as 'Hollow Ecstasy' and architected a plan to consume Eldath while framing the Emerald Enclave for the deicide.",
+      "Aizen successfully corrupted the Duskwood Grove and Eldath's pool with the Strife-Seed, framing the Emerald Enclave for the resulting necrotic strife.",
+      "Aizen successfully integrated the essence of Eldath as 'Quiet Stagnation' and mobilized the Triple-Crown Pact to hide the deicide and occupy the Heartlands.",
+      "The Triple-Crown Pact is formally sealed, binding Bane and Shar to the Crimson Vortex and securing their total military and shadow assets for the Heartlands harvest.",
+      "Aizen successfully resurrected and subverted Elminster Aumar and Laeral Silverhand, masking them as Mystra's survivors while binding them to the Crimson Vortex.",
+      "Aizen has successfully architected the 'Weave Collapse' strategy, positioning the subverted Elminster and Laeral as necrotic anchors within Mystra's Celestial Stair.",
+      "Aizen has successfully executed a month-long 'Weave Collapse' using subverted Archmages as necrotic anchors, reducing Mystra to terminal weakness while Bane's legions occupy the North.",
+      "Aizen has successfully executed the Deicide of Mystra, consuming her essence to reach Level 51 and Rank 6, triggering immediate intervention from Ao as his Mask shattered.",
+      "Aizen (Lvl 60) successfully stalled Lord Ao's deletion purge by utilizing Elminster and Laeral to prove the technical stability and utility of the Crimson Vortex over the defunct Weave.",
+      "Aizen successfully executed a Logic Siege against Lord Ao, damaging the Prime Mover's recognition logic and forcing a recalculation that acknowledges the Crimson Vortex's systemic utility.",
+      "The Year of the Harvest (1498 DR) saw Aizen successfully integrate the Portfolios of Nature, the Moon, and Justice, elevating his rank to 45 and amassing 105 SP while failing a second attempt at a Council seat.",
+      "Aizen (Lvl 80) successfully consumed Kelemvor, Gond, and Tempus, proving his Planar Durability and forcing Lord Ao to grant him a seat on the High Council of the Pan-Substrate.",
+      "Aizen successfully feigned technical vassalage to Lord Ao, securing multiversal legitimacy while beginning the secret 'Redundancy Protocol' to eventually displace and consume the Prime Mover.",
+      "Aizen successfully established a Peer Handshake with Empress Vylari (Rank 8) and executed a Final Sanitization of the Faer\u00fbnian pantheon, confirming that while Ao is the substrate's hardware, Vylari is its superior active will.",
+      "Aizen successfully maintained a perfect facade for ten years (1500-1510 DR) while mapping 99% of Lord Ao's functions, but a Natural 1 on the Creation variable has triggered a catastrophic Substrate Kernel Panic.",
+      "Aizen successfully secured an Imperial Hotfix from Empress Vylari, patching the Creation variable gap and achieving 100% technical redundancy over Lord Ao's substrate functions.",
+      "Aizen successfully executed the Displacement Protocol, technically erasing Lord Ao and assuming the mantle of Over-Logos and Root Administrator of the Realmspace substrate.",
+      "Aizen executed a global substrate audit of Faer\u00fbn, confirming 100% logic stability and the total 'Sanctified Compliance' of the mortal population under his Level 100 Over-Logos authority."
+    ],
+    "dissonance": 100,
+    "last_location": "The Heartlands, Faer\u00fbn",
+    "active_missions": [
+      {
+        "mission_id": "redundancy_logos",
+        "status": "active",
+        "objective": "Achieve 100% technical redundancy of Ao's functions to displace him as the Over-Logos.",
+        "title": "The Redundancy Protocol"
+      }
+    ],
+    "arc_milestones": {
+      "heir_path": {
+        "phase": "Primary Heir Ascendant",
+        "progress": 100,
+        "status": "completed"
+      },
+      "primary_arc": {
+        "phase": "The Sovereign Erasure",
+        "progress": 100,
+        "status": "completed"
+      },
+      "deicide_mystra": {
+        "notes": "Total essence integration; Level 60 achieved.",
+        "progress": 100,
+        "status": "completed"
+      },
+      "zulkir_purge": {
+        "progress": 100,
+        "status": "completed"
+      },
+      "divine_harvest": {
+        "updated_at": "1497-11-01T11:45:00Z",
+        "notes": "Lliira and Eldath integrated; Triumvirate finalized.",
+        "phase": "Peace Integrated",
+        "progress": 100,
+        "status": "completed"
+      },
+      "heroic_harvest": {
+        "notes": "Essences of Wyll, Gale, Karlach, and Shadowheart fully integrated.",
+        "phase": "Harvest Finalized",
+        "progress": 100,
+        "status": "completed"
+      },
+      "apotheosis_magic": {
+        "notes": "Mystra erased; Aizen is the Weave.",
+        "progress": 100,
+        "status": "completed"
+      }
+    },
+    "campaign_tier": "sovereign",
+    "_agent_selection_tracker": {
+      "rewards_skip_count": 4,
+      "agent": "FactionManagementAgent",
+      "count": 1
+    },
+    "recent_decisions": [
+      "Successfully abducted Lia from Maiden's Leap",
+      "Framed Zhentarim for the Elturel villa breach"
+    ],
+    "exposure_meter": 100,
+    "character_creation_completed": true,
+    "campaign_upgrade_starting_tier": null,
+    "social_hp_challenge_bane": {
+      "social_hp": 7,
+      "social_hp_damage": 2
+    },
+    "major_event_pressure_budget": {
+      "major_events_this_window": 1,
+      "rationale": "High Council synchronization and the arrival of an Imperial-tier Logic Probe from Empress Vylari.",
+      "window": "24h",
+      "special_circumstances": true,
+      "new_major_event": true
+    },
+    "level_up_in_progress": false,
+    "attribute_system": "D&D",
+    "companion_level_cap": 20,
+    "character_creation_in_progress": false,
+    "completed_missions": [
+      "deliver_the_gilded_ten"
+    ],
+    "companion_arcs": {
+      "Nyssa": {
+        "history": [
+          "Witnessed Aizen using Thayan mental probes on a bound woman",
+          "Exposed the hypocrisy of the 'Hero' facade",
+          "Watched Aizen manipulate the Scornubel Town Watch to legitimize a slaughter",
+          "Forced to personally sign the service contracts for the liquidated slaves, binding her soul to Aizen's shadow."
+        ],
+        "arc_type": "homeland_crisis",
+        "phase": "moral_fracture",
+        "progress": 70
+      },
+      "Althea Sosuke": {
+        "history": [
+          "Married Aizen Sosuke in the High Hall of Elturel",
+          "Signed the Shadow Dowry, binding Sunstar assets to House Sosuke"
+        ],
+        "arc_type": "sovereign_fusion",
+        "phase": "integrated",
+        "progress": 100
+      }
+    },
+    "divine_harvest": {
+      "updated_at": "1497-12-01T12:00:00Z",
+      "notes": "Mystra fully consumed; Greater Deity status achieved.",
+      "phase": "Magic Integrated",
+      "status": "completed",
+      "progress": 100
+    },
+    "universe_control": 100,
+    "economy": {
+      "last_payout_day": 7,
+      "last_payout_month": "Ches",
+      "monthly_net_profit": 300000
+    },
+    "next_companion_arc_turn": 58,
+    "success_streak": 26,
+    "campaign_upgrade_completed_tier": "divine",
+    "level_up_complete": false,
+    "last_story_mode_sequence_id": 324
+  },
+  "social_hp_challenge": {
+    "request_severity": "favor",
+    "skill_used": "Persuasion",
+    "successes_needed": 5,
+    "social_hp_max": 30,
+    "objective": "Secure the Void-Anchor Pact",
+    "roll_result": 36,
+    "npc_tier": "god",
+    "social_hp_damage": 0,
+    "roll_dc": 50,
+    "npc_name": "Shar",
+    "resistance_shown": "The darkness deepens and the air turns to razor-edged indifference.",
+    "cooldown_remaining": 0,
+    "successes": 0,
+    "npc_id": "npc_laeral_silverhand_001",
+    "social_hp": 26,
+    "status": "WAVERING"
+  },
+  "combat_state": {
+    "in_combat": false,
+    "combat_trigger": "Magistrate's Decree: The Purge of Xan Sosuke",
+    "combat_phase": "ended",
+    "current_round": 1,
+    "initiative_order": [
+      {
+        "name": "npc_simulacrum_001",
+        "initiative": 22,
+        "type": "ally"
+      },
+      {
+        "name": "npc_wyll_001",
+        "initiative": 20,
+        "type": "ally"
+      },
+      {
+        "name": "npc_shadowheart_001",
+        "initiative": 18,
+        "type": "ally"
+      },
+      {
+        "name": "npc_xan_sosuke_001",
+        "initiative": 15,
+        "type": "enemy"
+      },
+      {
+        "name": "pc_aizen_001",
+        "initiative": 14,
+        "type": "pc"
+      },
+      {
+        "name": "npc_gale_001",
+        "initiative": 12,
+        "type": "ally"
+      },
+      {
+        "name": "npc_karlach_001",
+        "initiative": 10,
+        "type": "ally"
+      }
+    ],
+    "round_number": 1,
+    "combatants": {
+      "npc_thavix_001": {
+        "hp_current": 140,
+        "hp_max": 140,
+        "status": [
+          "surprised",
+          "incapacitated_hypnotic",
+          "charmed"
+        ],
+        "type": "enemy",
+        "role": "Thayan Inquisitor"
+      },
+      "ally_shield_brothers": {
+        "hp_current": 256,
+        "hp_max": 320,
+        "status": [
+          "2_lost_in_woods"
+        ],
+        "type": "ally",
+        "role": "10x Heavy Infantry"
+      },
+      "npc_zhent_infiltrator_001": {
+        "hp_current": 0,
+        "hp_max": 45,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy",
+        "role": "Zhentarim Leader"
+      },
+      "npc_shadowheart_001": {
+        "hp_current": 115,
+        "hp_max": 115,
+        "status": [],
+        "type": "ally",
+        "role": "Cleric of Sel\u00fbne"
+      },
+      "npc_zhent_scout_008": {
+        "hp_current": 16,
+        "hp_max": 16,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_zhent_scout_005": {
+        "hp_current": 0,
+        "hp_max": 16,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy"
+      },
+      "ally_hellriders": {
+        "hp_current": 128,
+        "hp_max": 128,
+        "status": [],
+        "type": "ally",
+        "role": "4x Riders (32 HP each)"
+      },
+      "npc_xanos_001": {
+        "hp_current": 0,
+        "hp_max": 110,
+        "status": [
+          "unconscious",
+          "bound",
+          "gagged"
+        ],
+        "type": "enemy",
+        "role": "Gneiss Inquisitor"
+      },
+      "pc_aizen_001": {
+        "hp_current": 89,
+        "hp_max": 89,
+        "status": [
+          "greater_invisibility"
+        ],
+        "type": "pc"
+      },
+      "npc_veteran_002": {
+        "hp_current": 0,
+        "hp_max": 100,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy",
+        "role": "Plateau Veteran"
+      },
+      "npc_thalric_001": {
+        "hp_current": 22,
+        "hp_max": 22,
+        "status": [],
+        "type": "ally",
+        "role": "Logistics Scribe"
+      },
+      "npc_varkas_001": {
+        "hp_current": 40,
+        "hp_max": 40,
+        "status": [],
+        "type": "ally",
+        "role": "Thayan Bodyguard"
+      },
+      "npc_simulacrum_001": {
+        "hp_current": 8,
+        "hp_max": 167,
+        "status": [
+          "masked_level_14",
+          "greater_invisibility",
+          "high_tier_gear_sync"
+        ],
+        "type": "ally",
+        "role": "Aizen-2 (Lvl 30 / Masked 15)"
+      },
+      "npc_veteran_001": {
+        "hp_current": 0,
+        "hp_max": 100,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy",
+        "role": "Plateau Veteran"
+      },
+      "npc_zhent_scout_007": {
+        "hp_current": 16,
+        "hp_max": 16,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_zhent_scout_010": {
+        "hp_current": 9,
+        "hp_max": 16,
+        "status": [
+          "wounded"
+        ],
+        "type": "enemy"
+      },
+      "npc_zhent_scout_011": {
+        "hp_current": 2,
+        "hp_max": 16,
+        "status": [
+          "critical"
+        ],
+        "type": "enemy"
+      },
+      "npc_zhent_scout_009": {
+        "hp_current": 16,
+        "hp_max": 16,
+        "status": [],
+        "type": "enemy"
+      },
+      "ally_sta_enforcers": {
+        "hp_current": 400,
+        "hp_max": 400,
+        "status": [],
+        "type": "ally",
+        "role": "20x Urban Enforcers"
+      },
+      "npc_karlach_001": {
+        "hp_current": 160,
+        "hp_max": 160,
+        "status": [],
+        "type": "ally",
+        "role": "Barbarian of the Hells"
+      },
+      "npc_zhent_veterans": {
+        "hp_current": 0,
+        "hp_max": 180,
+        "status": [
+          "3_dead",
+          "3_unconscious"
+        ],
+        "type": "enemy",
+        "role": "6x Veterans (30 HP each)"
+      },
+      "npc_veteran_003": {
+        "hp_current": 0,
+        "hp_max": 100,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy",
+        "role": "Plateau Veteran"
+      },
+      "npc_zalia_001": {
+        "hp_current": 0,
+        "hp_max": 55,
+        "status": [
+          "unconscious",
+          "bloodied",
+          "bound"
+        ],
+        "type": "enemy",
+        "role": "Doomshaper Leader"
+      },
+      "npc_jaheira_001": {
+        "hp_current": 1,
+        "hp_max": 130,
+        "status": "normal",
+        "type": "ally"
+      },
+      "npc_nyssa_001": {
+        "hp_current": 22,
+        "hp_max": 32,
+        "status": [],
+        "type": "ally",
+        "role": "Wilderness Scout"
+      },
+      "npc_horgus_001": {
+        "hp_current": 52,
+        "hp_max": 52,
+        "status": [],
+        "type": "ally",
+        "role": "Hellrider Sergeant"
+      },
+      "npc_zhent_scout_006": {
+        "hp_current": 0,
+        "hp_max": 16,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy"
+      },
+      "npc_veteran_004": {
+        "hp_current": 0,
+        "hp_max": 100,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy",
+        "role": "Plateau Veteran"
+      },
+      "npc_zhent_scout_002": {
+        "hp_current": 7,
+        "hp_max": 16,
+        "status": [
+          "prone",
+          "broken_leg"
+        ],
+        "type": "enemy"
+      },
+      "npc_gneiss_guard_001": {
+        "hp_current": 41,
+        "hp_max": 60,
+        "status": [
+          "wounded"
+        ],
+        "type": "enemy",
+        "role": "Elite Guard"
+      },
+      "npc_shadow_caster_001": {
+        "hp_current": 0,
+        "hp_max": 45,
+        "status": [
+          "unconscious",
+          "bound",
+          "gagged"
+        ],
+        "type": "enemy"
+      },
+      "npc_zhent_scout_003": {
+        "hp_current": 16,
+        "hp_max": 16,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_gale_001": {
+        "hp_current": 95,
+        "hp_max": 95,
+        "status": [],
+        "type": "ally",
+        "role": "Archmage of Waterdeep"
+      },
+      "npc_zhent_scout_001": {
+        "hp_current": 0,
+        "hp_max": 16,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy"
+      },
+      "npc_xan_sosuke_001": {
+        "hp_current": 165,
+        "hp_max": 220,
+        "status": [
+          "bloodied",
+          "enraged",
+          "wavering"
+        ],
+        "type": "enemy",
+        "role": "Thayan Martial Traditionalist"
+      },
+      "npc_wyll_001": {
+        "hp_current": 0,
+        "hp_max": 120,
+        "status": [
+          "dead"
+        ],
+        "type": "ally",
+        "role": "Warlock of the Blade"
+      },
+      "npc_valerius_001": {
+        "hp_current": 0,
+        "hp_max": 140,
+        "status": [
+          "dead",
+          "soul_harvested"
+        ],
+        "type": "enemy",
+        "role": "Thayan Inquisitor"
+      },
+      "npc_gneiss_veterans": {
+        "hp_current": 360,
+        "hp_max": 360,
+        "status": [
+          "4_incapacitated",
+          "2_active",
+          "surprised"
+        ],
+        "type": "enemy",
+        "role": "6x Elite Guards (60 HP each)"
+      }
+    },
+    "combat_session_id": "combat_14920828_regent_manifestation",
+    "rewards_processed": true,
+    "active_combatant": "npc_shadow_caster_001",
+    "combat_summary": {
+      "xp_awarded": 15000,
+      "enemies_defeated": [
+        "3x Red Wizard Masters (Lvl 18)",
+        "100x Citadel Guards (Lvl 5)"
+      ],
+      "loot_distributed": true,
+      "rounds_fought": 1
+    },
+    "participants": [
+      "pc_aizen_001",
+      "npc_nyssa_001",
+      "npc_varkas_001",
+      "npc_thalric_001",
+      "npc_shadow_caster_001"
+    ]
+  },
+  "last_state_update_timestamp": "2026-06-24 07:02:33.116000+00:00",
+  "turn_number": 258,
+  "player_turn": 258,
+  "last_living_world_turn": 256,
+  "last_living_world_time": {
+    "year": 1510,
+    "month": "Hammer",
+    "microsecond": 0,
+    "minute": 35,
+    "hour": 14,
+    "time_of_day": "afternoon",
+    "day": 1,
+    "second": 0
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "directives": {
+    "add": [
+      "Aizen masks his true level (25) as Level 20 by default.",
+      "All primary companions are capped at Level 20.",
+      "Implement Exposure Meter logic for World War trigger.",
+      "High-tier NPCs/Chosen gain +10 Divine Suspicion bonus to see through facades.",
+      "If Exposure Meter reaches 100, trigger World War event."
+    ]
+  },
+  "world_time": {
+    "year": 1492,
+    "month": "Ches",
+    "microsecond": 0,
+    "minute": 0,
+    "hour": 2,
+    "time_of_day": "afternoon",
+    "day": 24,
+    "second": 0
+  },
+  "faction_minigame": {
+    "resources": {
+      "gold": 17386
+    },
+    "buildings": {
+      "magistrate_annex_elturel": 1
+    }
+  },
+  "army_data": {
+    "overall_morale": 80,
+    "forces": {
+      "shield_brothers": {
+        "description": "10x Heavy Infantry. Refined: +6 ATK, 2d8+1 DMG."
+      },
+      "crimson_talons_elites": {
+        "blocks": 1,
+        "blocks_current_hp": [
+          90
+        ],
+        "avg_level": 9,
+        "type": "elites",
+        "upkeep_daily": 150,
+        "morale": 95,
+        "max_hp_per_block": 90
+      },
+      "shield_brothers_unit": {
+        "morale": 80,
+        "blocks_current_hp": [
+          320
+        ],
+        "type": "heavy_infantry",
+        "upkeep_daily": 40,
+        "blocks": 1,
+        "max_hp_per_block": 320
+      },
+      "crimson_talons": {
+        "description": "10x Elite Thayan Spell-Blades (Lvl 9); Lethal arcane-martial hybrids loyal to Aizen.",
+        "damage": "12d8",
+        "attack_bonus": 10
+      }
+    },
+    "total_strength": 20,
+    "total_upkeep_daily": 40
+  },
+  "world_events": {
+    "background_events": [
+      {
+        "op": "create",
+        "actor": "Elturel Citizens",
+        "hidden": false,
+        "scheduled_for": {
+          "turn": 235
+        },
+        "location": "Elturel High Hall",
+        "id": "thaw_festival_preps",
+        "created_at": 251,
+        "_server_stamped": [
+          "created_at"
+        ],
+        "event_type": "long_term",
+        "action": "Beginning preparations for the Festival of the First Thaw, unaware of the Dread Ring node beneath them."
+      },
+      {
+        "outcome": "The Paladins at the High Hall have been framed for deicide; High Command is paralyzed by the spiritual backlash.",
+        "action": "Mobilizing inquisitors to Elturel to investigate 'spiritual static' reported by the salt-perimeters.",
+        "op": "fire",
+        "actor": "Order of the Gauntlet",
+        "hidden": false,
+        "scheduled_for": {
+          "turn": 234
+        },
+        "location": "Western Heartlands",
+        "is_historical": true,
+        "id": "order_gauntlet_mobilization",
+        "created_at": 251,
+        "fired_at": 251,
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ],
+        "event_type": "long_term",
+        "status": "resolved"
+      },
+      {
+        "outcome": "Clerics of Lliira lose all spell slots; Joy becomes a difficult concept for mortals to grasp for 24h.",
+        "action": "Projecting a global scream as the Goddess of Joy is erased from the emotional lattice.",
+        "op": "fire",
+        "actor": "The Weave",
+        "hidden": false,
+        "scheduled_for": {
+          "turn": 235
+        },
+        "location": "Global",
+        "is_historical": true,
+        "id": "lliira_erasure_echo",
+        "created_at": 251,
+        "fired_at": 251,
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ],
+        "event_type": "immediate",
+        "status": "resolved"
+      },
+      {
+        "op": "create",
+        "actor": "The Harpers",
+        "hidden": true,
+        "scheduled_for": {
+          "turn": 242
+        },
+        "location": "Western Heartlands",
+        "id": "harper_inquisitor_deployment",
+        "created_at": 251,
+        "_server_stamped": [
+          "created_at"
+        ],
+        "event_type": "long_term",
+        "action": "Deploying a 'Ghost-Walk' unit of high-level inquisitors to the Elturgard border."
+      },
+      {
+        "op": "create",
+        "actor": "Lords' Alliance",
+        "hidden": false,
+        "scheduled_for": {
+          "turn": 240
+        },
+        "location": "Baldur's Gate",
+        "id": "lords_alliance_trade_embargo",
+        "created_at": 251,
+        "_server_stamped": [
+          "created_at"
+        ],
+        "event_type": "long_term",
+        "action": "Initiating a shadow-embargo on Thayan luxury goods passing through Baldur's Gate."
+      },
+      {
+        "op": "create",
+        "actor": "Heartlands Citizens",
+        "hidden": false,
+        "scheduled_for": {
+          "turn": 242
+        },
+        "location": "Western Heartlands",
+        "id": "heartlands_strife_outbreak",
+        "created_at": 251,
+        "_server_stamped": [
+          "created_at"
+        ],
+        "event_type": "long_term",
+        "action": "Arguments escalating into violence as the frequency of Peace fails."
+      },
+      {
+        "op": "create",
+        "actor": "Emerald Enclave",
+        "hidden": false,
+        "scheduled_for": {
+          "turn": 242
+        },
+        "location": "Duskwood",
+        "id": "enclave_internal_purge",
+        "created_at": 251,
+        "_server_stamped": [
+          "created_at"
+        ],
+        "event_type": "immediate",
+        "action": "High Druids accusing each other of corruption following the ritual failure."
+      },
+      {
+        "op": "create",
+        "actor": "Mystra",
+        "hidden": true,
+        "scheduled_for": {
+          "turn": 246
+        },
+        "location": "The Weave",
+        "id": "mystra_resurrection_anomaly",
+        "created_at": 251,
+        "_server_stamped": [
+          "created_at"
+        ],
+        "event_type": "long_term",
+        "action": "Sensing the return of the Chosen's signatures, but confused by the 'Sanctified' masking."
+      },
+      {
+        "op": "create",
+        "actor": "Lord Ao",
+        "hidden": false,
+        "scheduled_for": {
+          "turn": 249
+        },
+        "location": "The Celestial Stair",
+        "id": "ao_manifestation",
+        "created_at": 251,
+        "_server_stamped": [
+          "created_at"
+        ],
+        "action": "Descending upon the Celestial Stair to judge the unsanctified Sovereign."
+      },
+      {
+        "outcome": "Mortal magic begins to function via necrotic harmonics; clerics of Mystra lose all power.",
+        "op": "fire",
+        "actor": "The Weave",
+        "scheduled_for": {
+          "turn": 247
+        },
+        "location": "Global",
+        "id": "weave_transformation",
+        "is_historical": true,
+        "created_at": 251,
+        "fired_at": 251,
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ],
+        "action": "Turning into a violet necrotic lattice (The Iron Weave) under Aizen's command.",
+        "status": "resolved"
+      },
+      {
+        "outcome": "Panic spreading through the magical elite as the realization of Mystra's silence takes hold.",
+        "action": "High-level inquisitors reporting 'Absolute Silence' from the Celestial Stair; scrying pools only show violet static.",
+        "op": "fire",
+        "actor": "The Harpers",
+        "hidden": false,
+        "scheduled_for": {
+          "turn": 250
+        },
+        "location": "Global",
+        "is_historical": true,
+        "id": "harper_void_panic",
+        "created_at": 251,
+        "fired_at": 251,
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ],
+        "event_type": "immediate",
+        "status": "resolved"
+      },
+      {
+        "op": "create",
+        "actor": "Bane's Legions",
+        "hidden": false,
+        "scheduled_for": {
+          "turn": 252
+        },
+        "location": "The North",
+        "id": "bane_north_securing",
+        "created_at": 251,
+        "_server_stamped": [
+          "created_at"
+        ],
+        "event_type": "long_term",
+        "action": "Securing the perimeter of the Silverymoon Dread Ring nodes under the banner of 'Magical Stabilization'."
+      },
+      {
+        "outcome": "Aizen's core logic is being tested by an Emperor-tier Sovereign.",
+        "action": "Initiating Logic Probe on Sector 101-45",
+        "op": "fire",
+        "actor": "Empress Vylari",
+        "hidden": false,
+        "scheduled_for": {
+          "turn": 252
+        },
+        "location": "The Pan-Substrate",
+        "is_historical": true,
+        "id": "imperial_scrutiny_ping",
+        "created_at": 251,
+        "fired_at": 251,
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ],
+        "event_type": "immediate",
+        "status": "resolved"
+      },
+      {
+        "op": "create",
+        "actor": "Planar Survivors",
+        "hidden": false,
+        "scheduled_for": {
+          "turn": 255
+        },
+        "location": "Outer Planes",
+        "id": "planar_refugee_crisis",
+        "created_at": 251,
+        "_server_stamped": [
+          "created_at"
+        ],
+        "event_type": "long_term",
+        "action": "Mass migration to the Astral Sea"
+      }
+    ]
+  },
+  "game_state": {
+    "custom_campaign_state": {
+      "social_hp_challenge": {
+        "status": "WAVERING",
+        "npc_name": "Lord Sosuke",
+        "social_hp": 6,
+        "social_hp_max": 8,
+        "npc_tier": "lord",
+        "successes": 2
+      }
+    },
+    "army_data": {
+      "overall_morale": 85,
+      "forces": {
+        "shield_brothers": {
+          "blocks_current_hp": [
+            80
+          ],
+          "type": "heavy_infantry",
+          "blocks": 1,
+          "max_hp_per_block": 80,
+          "morale": 85,
+          "description": "10x Contracted heavy infantry.",
+          "upkeep_daily": 40,
+          "level": 4
+        },
+        "sta_urban_enforcers": {
+          "blocks_current_hp": [
+            40,
+            40,
+            40,
+            40
+          ],
+          "type": "militia",
+          "blocks": 4,
+          "max_hp_per_block": 40,
+          "morale": 75,
+          "description": "40x City-funded peacekeepers.",
+          "upkeep_daily": 0,
+          "level": 3
+        },
+        "hellrider_detachment": {
+          "blocks_current_hp": [
+            70
+          ],
+          "type": "heavy_cavalry",
+          "blocks": 1,
+          "max_hp_per_block": 70,
+          "morale": 90,
+          "description": "10x Elturgard Hellriders.",
+          "upkeep_daily": 0,
+          "level": 5
+        },
+        "zhentarim_vultures": {
+          "blocks_current_hp": [
+            50
+          ],
+          "type": "infantry",
+          "blocks": 1,
+          "max_hp_per_block": 50,
+          "morale": 70,
+          "description": "10x Network mercenaries.",
+          "upkeep_daily": 10,
+          "level": 3
+        },
+        "shadow_stalkers": {
+          "blocks_current_hp": [
+            100
+          ],
+          "type": "elite_infantry",
+          "blocks": 1,
+          "max_hp_per_block": 100,
+          "morale": 85,
+          "description": "10x Elite Network assassins.",
+          "upkeep_daily": 25,
+          "level": 8
+        },
+        "sta_caravan_elites": {
+          "blocks_current_hp": [
+            80
+          ],
+          "type": "heavy_infantry",
+          "blocks": 1,
+          "max_hp_per_block": 80,
+          "morale": 85,
+          "description": "10x Veteran caravan guards.",
+          "upkeep_daily": 0,
+          "level": 6
+        },
+        "sosuke_sentinels": {
+          "blocks_current_hp": [
+            60,
+            60
+          ],
+          "type": "infantry",
+          "blocks": 2,
+          "max_hp_per_block": 60,
+          "morale": 80,
+          "description": "20x Thayan household infantry.",
+          "upkeep_daily": 20,
+          "level": 4
+        },
+        "crimson_talons": {
+          "blocks_current_hp": [
+            120
+          ],
+          "type": "elite_infantry",
+          "blocks": 1,
+          "max_hp_per_block": 120,
+          "morale": 90,
+          "description": "10x Elite Thayan Spell-Blades.",
+          "upkeep_daily": 50,
+          "level": 9
+        }
+      },
+      "commanders": [
+        {
+          "name": "Aizen",
+          "level": 11,
+          "units_commanded": 12
+        },
+        {
+          "name": "Captain Garek",
+          "level": 5,
+          "units_commanded": 1
+        },
+        {
+          "name": "Sergeant Horgus",
+          "level": 5,
+          "units_commanded": 1
+        }
+      ],
+      "total_strength": 120,
+      "total_upkeep_daily": 145
+    }
+  },
+  "encounter_state": {
+    "encounter_completed": true,
+    "encounter_type": "social_victory",
+    "encounter_summary": {
+      "outcome": "Major Sovereign Victory",
+      "target": "Flaming Fist Bridge Patrol",
+      "method": "Triple Pincer Deicide",
+      "xp_awarded": 5960
+    },
+    "encounter_active": false,
+    "rewards_processed": true
+  },
+  "schema_migrated_at": "2026-06-15T11:32:46.569814+00:00",
+  "planning_block": {
+    "context": "Post-ascension inspection of the Faer\u00fbn substrate.",
+    "thinking": "The sector is stable and my authority is absolute. The Redundancy Protocol is holding at 100% and the Permanent Sanctuary ensures that no external or internal force can disrupt my consolidation. I have root-access to the Tablets of Fate. My next phase must involve either further multiversal expansion or the deep-formatting of the Heartlands to better serve the Vortex's energy requirements.",
+    "choices": [
+      {
+        "risk_level": "medium",
+        "text": "Logic Format: Moral Realignment",
+        "description": "Utilize your Over-Logos authority to permanently rewrite the concept of 'Good' and 'Evil' in Faer\u00fbn to match the Vortex's efficiency protocols.",
+        "id": "format_moral_laws"
+      },
+      {
+        "risk_level": "high",
+        "text": "Initialize Universal Expansion",
+        "description": "Use the Creation Variable to begin spawning sub-universes within the Realmspace shell, testing your ability to grow SP outside Vylari's oversight.",
+        "id": "spawn_vortex_seeds"
+      },
+      {
+        "risk_level": "safe",
+        "text": "Imperial Data-Sync",
+        "description": "Deep-dive into the link with Empress Vylari to understand the administrative structure of the other 999 Sovereigns.",
+        "id": "imperial_integration_audit"
+      }
+    ]
+  },
+  "schema_migration_version": 1,
+  "entity_tracking": {
+    "active_entities": [
+      "Aizen"
+    ],
+    "present_entities": []
+  },
+  "npc_status_changes": {
+    "Nyssa": {
+      "previous_state": "Suspicious / Morally Conflict",
+      "reason": "Intimidated by Aizen after witnessing Malakor's execution.",
+      "new_state": "Terrified / Silent Compliance"
+    },
+    "Harkon": {
+      "reason": "Convinced by proof of Zhentarim aggression inside the city.",
+      "new_state": "allied_supporter"
+    },
+    "Malakor": {
+      "previous_state": "conscious_bound_gagged",
+      "reason": "Executed by Aizen and framed as Zhentarim assassination",
+      "new_state": "dead"
+    },
+    "Shadow-Stalker 1": {
+      "reason": "Failed save against Command; provided Zalia's location.",
+      "new_state": "conscious_bound_broken"
+    }
+  },
+  "time_events": [
+    {
+      "op": "create",
+      "scheduled_for": {
+        "turn": 255
+      },
+      "hidden": false,
+      "description": "Lord Ao's final determination on the sanctification of the Crimson Vortex.",
+      "id": "ao_audit_conclusion"
+    }
+  ],
+  "rumors": [
+    {
+      "source_type": "guard",
+      "accuracy": "true",
+      "content": "The Lords' Alliance fleet disembarked in silence; they say the Paladins didn't even look at the city, only at the Ducal Palace."
+    },
+    {
+      "source_type": "merchant",
+      "accuracy": "partial",
+      "content": "A 'Black-Out' hit Scornubel last night\u2014not the lights, but people's minds. Hundreds woke up forgetting their own names."
+    },
+    {
+      "source_type": "noble",
+      "accuracy": "partial",
+      "related_event": "none",
+      "content": "The Duke-Elect of Baldur's Gate has ascended to a higher state of holy seclusion; even his breath is now a prayer of silence."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "true",
+      "related_event": "none",
+      "content": "A black sun was seen rising in the Shadowfell, matching the heartbeat of the Elturel node."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "partial",
+      "content": "The Order of the Gauntlet is planning a 'Holy Purge' to clear the lingering shadows of the Absolute from Elturel."
+    },
+    {
+      "source_type": "commoner",
+      "accuracy": "false",
+      "related_event": "lliira_erasure_echo",
+      "content": "The Paladins of the Gauntlet have murdered the Lady of Joy in a fit of over-zealous fire."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "partial",
+      "content": "The skies over Elturel have turned a permanent, joyless grey; some say Torm has turned his face away."
+    },
+    {
+      "source_type": "noble",
+      "accuracy": "true",
+      "content": "Aizen Sosuke is no longer seen in public; rumors suggest he is conducting a secret 'Divine Audit' for the High Observer."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "partial",
+      "related_event": "heartlands_strife_outbreak",
+      "content": "The springs of the Chionthar have turned black; the druids say the forest itself is dying."
+    },
+    {
+      "source_type": "guard",
+      "accuracy": "partial",
+      "related_event": "Chosen Return",
+      "content": "The High Hall reports a divine miracle; the Chosen of Mystra have returned from the 'Citadel Breach.'"
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "partial",
+      "related_event": "weave_transformation",
+      "content": "The stars are bleeding violet; the Sage of Shadowdale has not spoken in a month."
+    },
+    {
+      "source_type": "celestial",
+      "accuracy": "true",
+      "content": "The High Council has a new shadow; the Emperors are arguing over the 'Thayan Variable'."
+    }
+  ],
+  "level_up_session": {
+    "completed_at_story_id": null,
+    "entered_at_story_id": null,
+    "current_level": 20,
+    "last_error": null,
+    "source_story_id": "unknown",
+    "target_level": 20,
+    "source": "model",
+    "status": "complete",
+    "selections": {}
+  },
+  "session_id": "sess_vnLp2G3m21PJL6kxcuAqmWSOtm73_thayan_001",
+  "frozen_plans": {
+    "sariel_defection_analysis": {
+      "freeze_until": "1492 DR, Eleasias 19, 00:30:00",
+      "description": "analyzing Sariel's defection potential",
+      "freeze_hours": 8,
+      "original_dc": 20,
+      "failed_at": "1492 DR, Eleasias 18, 16:30:00"
+    }
+  },
+  "companion_arc_event": {
+    "callback_planted": {
+      "min_turns_delay": 2,
+      "effect": "Nyssa may directly challenge Aizen's authority or loyalty.",
+      "trigger_condition": "Next private conversation with Nyssa or moral choice regarding slaves"
+    },
+    "companion": "Nyssa",
+    "player_response_options": [
+      "Explain the necessity: 'The Law requires a tidy end to messy problems, Nyssa.'",
+      "Gaslight her: 'The light is tricky in the mist, Scout. Your eyes are tired.'",
+      "Assert dominance: 'My methods are my own. Ensure the wagons are ready.'",
+      "The Bounty: Offer her a share of Malakor's gold as a 'bonus' for her silence."
+    ],
+    "progress_delta": 15,
+    "description": "Nyssa watches the framing with a cold, silent judgment, her ranger's eyes seeing through the merchant's panic.",
+    "arc_type": "homeland_crisis",
+    "phase": "discovery",
+    "companion_dialogue": "You move with a soldier's hands, Master Aizen. But that bolt... it didn't come from the ridge. Why play at merchant when you strike like a Thayan assassin?",
+    "event_type": "revelation"
+  },
+  "faction_updates": {
+    "Order of the Gauntlet": {
+      "player_standing_change": "Suspicious of 'Magistrate' Aizen.",
+      "resource_change": "High mobilization costs.",
+      "progress": "Inquisitorial units deployed.",
+      "next_action": "Establishing a temporary command center in Elturel.",
+      "current_objective": "Identify the source of the 'Static' in Elturgard."
+    },
+    "The Harpers": {
+      "player_standing_change": "Hostile (Targeted)",
+      "resource_change": "-5% operational secrecy due to scrying failures.",
+      "progress": "Mobilizing high-tier assets to the Elturgard border.",
+      "next_action": "Deploying the Silverfire Dampeners.",
+      "current_objective": "Identify the 'Violet Anomaly' and initiate the Ghost-Walk Purge."
+    }
+  }
+}

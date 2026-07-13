@@ -1,0 +1,779 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "relationships": {
+      "npc_tifana_001": {
+        "role": "Knight Commander / Fianc\u00e9e",
+        "disposition": "bonded",
+        "trust_level": 10,
+        "history": [
+          "Defeated in duel",
+          "Proposed marriage"
+        ],
+        "name": "Tifana von Ribelt"
+      },
+      "npc_telestia_001": {
+        "trust_level": 10,
+        "disposition": "devoted",
+        "role": "Princess / Fianc\u00e9e",
+        "history": [
+          "Saved from bandits",
+          "Engaged with royal approval"
+        ],
+        "name": "Telestia von Esfort"
+      },
+      "npc_hinata_001": {
+        "trust_level": 10,
+        "disposition": "devoted",
+        "role": "Saintess / Fianc\u00e9e",
+        "history": [
+          "Foiled assassination",
+          "Recognized as Apostle"
+        ],
+        "name": "Hinata Lyra Marineford"
+      },
+      "npc_silk_001": {
+        "trust_level": 10,
+        "disposition": "devoted",
+        "role": "Noble / Fianc\u00e9e",
+        "history": [
+          "Saved from bandits",
+          "Engaged via Duke Santana"
+        ],
+        "name": "Silk von Santana"
+      },
+      "npc_lisabeth_001": {
+        "role": "Demon Princess / Fianc\u00e9e",
+        "disposition": "friendly",
+        "trust_level": 8,
+        "history": [
+          "Demon Empire diplomacy"
+        ],
+        "name": "Lisabeth von Benestos"
+      }
+    },
+    "health": {
+      "hp_max": 416,
+      "temp_hp": 0,
+      "hp": 416,
+      "conditions": []
+    },
+    "class_name": "Gestalt Sovereign (Fighter/Sorcerer/Assassin/Cleric)",
+    "mbti": "ENFJ",
+    "background": "Margrave of Silford",
+    "attributes": {
+      "strength": 30,
+      "charisma": 30,
+      "dexterity": 30,
+      "wisdom": 30,
+      "intelligence": 30,
+      "constitution": 30
+    },
+    "display_name": "Cain von Silford",
+    "entity_id": "pc_cain_001",
+    "status_conditions": [],
+    "race": "Human (Reincarnated)",
+    "alignment": "Neutral Good",
+    "spells_known": [
+      {
+        "level": 9,
+        "name": "Wish"
+      },
+      {
+        "name": "Meteor Swarm",
+        "level": 9
+      },
+      {
+        "level": 8,
+        "name": "Sunburst"
+      },
+      {
+        "name": "Holy Aura",
+        "level": 8
+      },
+      {
+        "level": 7,
+        "name": "Fire Storm"
+      },
+      {
+        "level": 7,
+        "name": "Resurrection"
+      },
+      {
+        "level": 6,
+        "name": "Heal"
+      },
+      {
+        "level": 6,
+        "name": "Sunbeam"
+      }
+    ],
+    "resources": {
+      "class_features": {
+        "sorcery_points": {
+          "used": 0,
+          "max": 20
+        }
+      },
+      "gold": 10750,
+      "spell_slots": {
+        "level_9": {
+          "used": 0,
+          "max": 2
+        },
+        "level_7": {
+          "used": 0,
+          "max": 2
+        },
+        "level_5": {
+          "used": 0,
+          "max": 3
+        },
+        "level_1": {
+          "used": 0,
+          "max": 4
+        },
+        "level_6": {
+          "used": 0,
+          "max": 2
+        },
+        "level_8": {
+          "used": 0,
+          "max": 2
+        },
+        "level_4": {
+          "used": 0,
+          "max": 3
+        },
+        "level_2": {
+          "used": 0,
+          "max": 3
+        },
+        "level_3": {
+          "used": 0,
+          "max": 3
+        }
+      },
+      "territories": [
+        "Dorinthol Territory (Margrave Domain)",
+        "Terenza (Annexed Territory)",
+        "Capital Mansion (Residence)"
+      ],
+      "sorcery_points": {
+        "current": 20,
+        "max": 20
+      },
+      "daily_income": 750
+    },
+    "experience": {
+      "current": 364625,
+      "needed_for_next_level": 405000,
+      "to_next_level": 40375
+    },
+    "name": "Cain",
+    "base_attributes": {
+      "strength": 30,
+      "charisma": 30,
+      "dexterity": 30,
+      "wisdom": 30,
+      "intelligence": 30,
+      "constitution": 30
+    },
+    "features": [
+      "Sovereign Logic: Spend 5 Sorcery Points to force any d20 roll to be a Natural 20.",
+      "Infinite Mana Well: Spell slots of level 1-5 are never consumed.",
+      "Gestalt Mastery: Proficiency in all saving throws and all skills.",
+      "Extra Attack (3)",
+      "Sneak Attack (10d6)",
+      "Assassinate",
+      "Divine Intervention (Auto-Success)",
+      "Apostle's Blessing (Max Level): Immunity to Charmed, Frightened, and Exhaustion.",
+      "Reality Warp: You may cast any spell with a casting time of 1 action as a bonus action instead.",
+      "Divine Portfolio: Space-Time Logic (Manipulate space-time laws locally in a 120ft aura, once per day)"
+    ],
+    "hp_max": 416,
+    "level": 20,
+    "hp_current": 416,
+    "cantrips": [
+      {
+        "name": "Fire Bolt"
+      },
+      {
+        "name": "Light"
+      },
+      {
+        "name": "Mage Hand"
+      },
+      {
+        "name": "Prestidigitation"
+      },
+      {
+        "name": "Sacred Flame"
+      },
+      {
+        "name": "Guidance"
+      }
+    ],
+    "proficiency_bonus": 7,
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        }
+      ],
+      "neck": {
+        "equipped": true,
+        "stats": "Advantage on all INT/WIS/CHA checks. True Sight 120ft.",
+        "type": "necklace",
+        "name": "Amulet of the Sovereign"
+      },
+      "armor": {
+        "armor_class": 23,
+        "equipped": true,
+        "description": "Sovereign Invulnerability: Immunity to non-magical physical damage. Resistance to all magical damage. Immune to forced movement.",
+        "ac": 23,
+        "type": "heavy_armor",
+        "properties": [
+          "Adamantine Soul: Immune to critical hits",
+          "Divine Presence: Hostiles must succeed on a DC 26 WIS save to even target you with an attack",
+          "Eternal Fortress: Immune to all conditions (Poisoned, Stunned, etc.)"
+        ],
+        "name": "+5 Grandmaster's Divine Plate"
+      },
+      "off_hand": {
+        "type": "shield",
+        "equipped": true,
+        "description": "Absolute Guard: Use reaction once per turn to negate any damage/spell. Reflects blocked spells back at source.",
+        "ac_bonus": 7,
+        "properties": [
+          "Magic Negation: Immune to all spells of 6th level or lower",
+          "Kinetic Rebound: Reflects 100% of blocked physical damage back at the attacker",
+          "Omni-Shield: Provides 360-degree protection regardless of facing"
+        ],
+        "name": "+5 Aegis of the Seven Pillars (Absolute Guard)"
+      },
+      "main_hand": {
+        "name": "+5 Vorpal Longsword of the Apostle (Severance of Fate)",
+        "equipped": true,
+        "properties": [
+          "Space-Time Edge: Hits targets up to 60ft away by cutting through space",
+          "Divine Erasure: Damage dealt cannot be healed by anything less than a Wish spell",
+          "Fate Severance: Critical hits instantly destroy the target's essence/physical form"
+        ],
+        "description": "Severance of Fate: Critical hits instantly decapitate or destroy essence. Ignores all damage resistances and immunities.",
+        "type": "weapon",
+        "bonus": 5,
+        "damage": "1d8+15 (Versatile 1d10+15)"
+      },
+      "ranged": {
+        "damage": "1d6+3",
+        "equipped": true,
+        "type": "weapon",
+        "name": "Blessed Shortbow"
+      },
+      "cloak": {
+        "equipped": true,
+        "stats": "+5 to all saving throws. Bonus Action: Misty Step at will.",
+        "type": "cloak",
+        "name": "Cloak of the Multiverse"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 45,
+      "hour": 18,
+      "time_of_day": "evening",
+      "year": 1492,
+      "day": 17,
+      "month": "Mirtul"
+    },
+    "current_location": "Capital Mansion - Royal Capital"
+  },
+  "npc_data": {
+    "npc_alex_001": {
+      "attitude_to_party": "devoted",
+      "entity_id": "npc_alex_001",
+      "display_name": "Alex von Silford",
+      "tier": "lord",
+      "level": 12,
+      "race": "Human",
+      "gender": "Male",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Cain's second older brother",
+            "Managing Dorinthol in Cain's absence"
+          ]
+        }
+      },
+      "role": "Deputy Governor of Dorinthol"
+    },
+    "Hinata Lyra Marineford": {
+      "entity_id": "npc_hinata_001",
+      "role": "Saintess / Fianc\u00e9e",
+      "tier": "ancient",
+      "level": 12
+    },
+    "Duke Eric von Santana": {
+      "role": "Duke / Minister of the Interior",
+      "entity_id": "npc_eric_001",
+      "tier": "lord_general",
+      "display_name": "Duke Eric von Santana",
+      "level": 12
+    },
+    "Alex von Silford": {
+      "attitude_to_party": "devoted",
+      "entity_id": "npc_alex_001",
+      "class_name": "Fighter/Administrator",
+      "display_name": "Alex von Silford",
+      "tier": "noble",
+      "level": 10,
+      "hp_max": 120,
+      "hp_current": 120,
+      "age": 19,
+      "role": "Deputy Governor of Dorinthol",
+      "gender": "Male",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 10,
+          "history": [
+            "Second older brother",
+            "Assigned to manage Dorinthol by Cain"
+          ]
+        }
+      }
+    },
+    "Telestia von Esfort": {
+      "entity_id": "npc_telestia_001",
+      "role": "Princess of Esfort / Fianc\u00e9e",
+      "tier": "noble",
+      "level": 5
+    },
+    "Tifana von Ribelt": {
+      "entity_id": "npc_tifana_001",
+      "tier": "knight",
+      "role": "Knight Commander / Fianc\u00e9e",
+      "level": 14
+    },
+    "Silk von Santana": {
+      "entity_id": "npc_silk_001",
+      "role": "Noblewoman / Fianc\u00e9e",
+      "tier": "noble",
+      "level": 4
+    },
+    "npc_rex_001": {
+      "entity_id": "npc_rex_001",
+      "tier": "king",
+      "display_name": "King Rex von Esfort",
+      "level": 12
+    },
+    "Haku": {
+      "display_name": "Haku",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Gifted by the Gods",
+            "Divine Guardian"
+          ]
+        }
+      },
+      "entity_id": "creature_haku_001",
+      "entity_type": "creature",
+      "role": "Divine Fenrir",
+      "tier": "ancient",
+      "level": 20
+    },
+    "npc_eric_001": {
+      "entity_id": "npc_eric_001",
+      "tier": "lord",
+      "display_name": "Duke Eric von Santana",
+      "level": 12
+    },
+    "Dalmatia": {
+      "entity_id": "npc_dalmatia_001",
+      "mbti": "ISTJ",
+      "entity_type": "npc",
+      "display_name": "Dalmatia",
+      "tier": "lord_general",
+      "level": 20,
+      "stats": {
+        "strength": 24,
+        "dexterity": 22,
+        "intelligence": 20,
+        "wisdom": 18,
+        "charisma": 22,
+        "constitution": 24
+      },
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Summoned/Contracted",
+            "Chief of Shadow Operations"
+          ]
+        }
+      },
+      "alignment": "Lawful Evil (Loyal to Cain)",
+      "role": "Demon General / Royal Butler"
+    },
+    "Lisabeth von Benestos": {
+      "entity_id": "npc_lisabeth_001",
+      "role": "Demon Princess / Fianc\u00e9e",
+      "tier": "noble",
+      "level": 10
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "character_creation_stage": "complete",
+    "level_up_stage": null,
+    "dissonance": 5,
+    "active_missions": [
+      {
+        "title": "The Path of the Apostle",
+        "status": "accepted",
+        "objective": "Complete character creation to begin your divine duties.",
+        "mission_id": "divine_duty"
+      }
+    ],
+    "player_character_data_extras": {
+      "campaign_tier": "divine"
+    },
+    "_agent_selection_tracker": {
+      "count": 10,
+      "agent": "CampaignUpgradeAgent",
+      "rewards_skip_count": 0
+    },
+    "mitigation_tokens": 3,
+    "character_creation_completed": true,
+    "last_location": "Capital Mansion - Private Chambers",
+    "divine_perks": [
+      "Covert Siphon"
+    ],
+    "core_memories": [
+      "Cain von Silford is the Apostle of the Seven Gods, possessing immense magical potential and noble status as a Margrave following the defeat of Aaron's followers.",
+      "Correction: Cain von Silford is Level 12 following the battle with Aaron, possessing stats and spells that reflect his status as the overpowered Apostle of the Seven Gods.",
+      "Correction: Cain von Silford is Level 12 following the defeat of the Pope and Aaron's followers; Aaron himself remains a sealed threat.",
+      "Correction: Following the Holy Land incident where the corrupt Pope was assassinated by demon followers of Aaron, Cain von Silford stands as a Level 20 Sovereign Apostle and the strongest human in the Esfort Kingdom.",
+      "Correction: Cain von Silford is Level 20 Sovereign Apostle, the strongest human in Esfort, having returned from the Holy Land after the Pope's assassination by Haku.",
+      "Correction: Cain von Silford is the Level 20 Sovereign Apostle and strongest human, beginning his new journey after the Pope's assassination in the Holy Land with five recognized fianc\u00e9es.",
+      "Correction: Cain von Silford is a Level 20 Gestalt Sovereign (Fighter/Sorcerer/Assassin/Cleric) with 30 in all attributes and legendary +5 equipment, representing the absolute peak of the Apostle's power.",
+      "Correction: Cain von Silford is a Level 20 Gestalt Sovereign with 30 in all attributes and reality-warping equipment, standing as the peer of the Seven Gods.",
+      "Cain's Sovereign artifacts, the Severance of Fate and the Aegis of the Seven Pillars, grant absolute offense and defense, including spatial reach and kinetic reflection.",
+      "Following the Holy Land incident, the Royal Court of Esfort has acknowledged Cain as a being of Sovereign power, shifting the kingdom's strategic focus toward the final confrontation with the Evil God Aaron.",
+      "Cain successfully used his divine presence to reassure King Rex of his humanity and loyalty, softening the crown's fear of his Sovereign power.",
+      "Correction: Cain does not own the Gracia region (which belongs to his father, Margrave Garm); instead, he governs the Silford domain and the confiscated lands of the disgraced Viscount Corzino.",
+      "Correction: Cain rules the expanded Dorinthol Territory (including Terenza and confiscated Corzino lands) as a Margrave, while his father Garm retains the Gracia domain; his brother Alex serves as deputy governor of Dorinthol.",
+      "Hinata Lyra Marineford has requested Cain's help to deal with a fragment of the Evil God Aaron that is corrupting the Forbidden Archive beneath the Grand Cathedral.",
+      "Correction: Dalmatia is a high-ranking Demon General (Lvl 20) who serves Cain as a butler and shadow-operative, while Haku is a separate entity (a Divine Fenrir).",
+      "Correction: Dalmatia (Demon General Butler) executed the corrupt Pope in the shadows to protect the Saintess and purge Aaron's influence, while Haku remains Cain's divine guardian beast.",
+      "Correction: The corrupt Pope was assassinated by a mysterious high-ranking agent of the Evil God Aaron to prevent him from betraying Aaron's secrets to the Apostle.",
+      "Dalmatia confirmed the Pope was assassinated by a Shadow Infiltrator of Aaron, while a fragment of the Evil God has begun corrupting the Forbidden Archive beneath Marineford.",
+      "Cain has begun his ascension to Level 21 (Divine Tier) within the Grand Cathedral of Marineford, feeling his Sovereign power expand to match the impending threat of Aaron's fragment.",
+      "Cain stands on the precipice of Level 21 (Divine Tier 1) in the Marineford Cathedral, preparing to finalize his HP and Divine Portfolio selections.",
+      "Cain finalized his Level 21 Divine Tier 1 ascension within Marineford Cathedral, gaining +16 HP and unlocking the Divine Portfolio: Space-Time Logic.",
+      "Cain's active gameplay remains paused at Marineford Cathedral while his Level 21 Divine Ascension is finalized.",
+      "Cain committed his Level 21 Divine Tier 1 ascension at Marineford Cathedral, unlocking his Space-Time Logic portfolio just as a fragment of Aaron began corrupting the Forbidden Archive below.",
+      "Cain successfully destroyed the fragment of Aaron in the Forbidden Archive of Marineford, saving the high priests and purifying the Cathedral's foundations.",
+      "Cain successfully bypassed ancient wards in the deeper Forbidden Archive to secure the Tome of the Starry Leylines.",
+      "Cain bypassed ancient space-time wards in the deeper Forbidden Archive to reach the primary seal of Aaron, discovering one of its seven divine chains is cracked and leaking dark energy.",
+      "Cain attempted to siphon the leaking dark mana of Aaron using his intuition and divine authority, but discovered that the metaphysical architecture of his blessings prevents merging his divine light with Aaron's chaos without alerting the Seven Gods.",
+      "Cain analyzed his Sovereign spells in the Forbidden Archive depths, realizing that siphoning Aaron's power in secret remains blocked by the hardcoded divine architecture of his blessings.",
+      "Cain successfully used his Level 21 Space-Time Logic and Misty Step to siphon and insulate a microscopic droplet of Aaron's dark mana in a perfect space-time vacuum pocket, hiding the theft from the Seven Gods.",
+      "Using his newly acquired Divine Space-Time Logic, Cain successfully projected his consciousness to analyze the Tome of the Starry Leylines while physically repairing Reno's golden chain at Aaron's primary seal, learning that other critical seals are scattered across the continent.",
+      "Following the purification of the Forbidden Archive, Cain spent 24 hours studying the Tome of the Starry Leylines at his capital mansion, fully restoring his mental clarity to contemplate his ultimate ambitions.",
+      "Cain used his Space-Time Logic and the Tome of the Starry Leylines to map a safe, stable method to siphon Aaron's dark energy through a micro-vacuum fold without alerting the Seven Pillars.",
+      "Cain successfully established a permanent, covert space-time siphon on Reno's golden chain at Aaron's primary seal, safely absorbing micro-droplets of dark mana without alerting the Seven Pillars.",
+      "Cain successfully returned to his Capital Mansion, reuniting with his five fianc\u00e9es in a deeply affectionate, romantic celebration of his safety and triumph.",
+      "Cain spent an intensely passionate evening with all five of his fianc\u00c3\u00a9es, taking each one with rough, dominant passion and claiming their mouths multiple times"
+    ],
+    "divine_tier": 1,
+    "reputation": {
+      "public": {
+        "titles": [
+          "Margrave of Silford",
+          "Hero of Marineford"
+        ]
+      }
+    },
+    "max_divine_power_points": 5,
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "enabled": false,
+      "tutorial_completed": false,
+      "strong_suggestion_given": false
+    },
+    "persona_identity": null,
+    "level_up_pending": false,
+    "completed_missions": [],
+    "campaign_tier": "divine",
+    "divine_dissonance": 5,
+    "universe_control": 100,
+    "domain_truths": [
+      "Space-Time Fold: Local space-time can be folded into absolute vacuum pockets that are completely isolated from divine observation."
+    ],
+    "arc_milestones": {},
+    "active_constraints": [
+      "Dissonance is only triggered by exceeding the Seven Gods' expectations of the Apostle, channeling Aaron's entropic energy, or performing evil acts. Standard high-tier feats carry 0% Dissonance."
+    ],
+    "god_mode": {
+      "campaign_blueprint": {
+        "current_target": "Aaron's regional anchors",
+        "siphon_efficiency": "0.1% per day (micro-droplets)",
+        "pantheon_levels": {
+          "bela": 32,
+          "lumina": 30,
+          "grimm": 40,
+          "zenom": 50,
+          "lime": 38,
+          "reno": 42,
+          "panea": 35,
+          "aaron": 45
+        }
+      },
+      "setting": "Start where the manga ends. Aristocrat reborn in another world manga",
+      "character": {
+        "name": "Cain"
+      },
+      "lore_corrections": [
+        "Dalmatia: Demon General / Butler persona (Shadow Executioner)",
+        "Haku: Divine Fenrir (Combat Guardian)",
+        "Pope's Death: Assassinated by an unknown agent of Aaron (Third Party)"
+      ]
+    },
+    "next_companion_arc_turn": 7,
+    "success_streak": 2,
+    "last_living_world_turn": 6,
+    "essence": 0,
+    "domain": "Space-Time",
+    "divine_potential": 1,
+    "divine_power_points": 5,
+    "attribute_system": "D&D",
+    "level_up_in_progress": false,
+    "major_event_pressure_budget": {
+      "new_major_event": false,
+      "special_circumstances": false,
+      "window": "24h",
+      "major_events_this_window": 0,
+      "rationale": "Quiet recovery and research as the core seal is investigated; siphoning attempt resolved locally."
+    },
+    "max_mitigation_tokens": 3,
+    "mask_identity": "Cain von Silford, Margrave of Dorinthol",
+    "apex_attention": 0,
+    "multiverse_upgrade_available": false,
+    "character_creation_in_progress": false,
+    "level_up_complete": true,
+    "level_up_signal": {
+      "current_level": 21,
+      "level_up_signal": false,
+      "target_level": 21
+    },
+    "companion_arcs": {
+      "hinata_lyra_001": {
+        "progress": 30,
+        "arc_type": "homeland_crisis",
+        "phase": "development",
+        "history": [
+          {
+            "event": "Forbidden Archive crisis revealed; Aaron's fragment detected.",
+            "turn": 3
+          },
+          {
+            "event": "Descended into the archive; discovered the missing priests trapped in Aaron's crystal veins.",
+            "turn": 6
+          }
+        ],
+        "callbacks": [
+          {
+            "effect": "Saves the priests and purifies the archive, advancing Hinata's arc to crisis.",
+            "trigger_condition": "Defeating the crystal core of the fragment"
+          }
+        ]
+      }
+    },
+    "safe_limit": 5,
+    "divine_upgrade_available": false
+  },
+  "social_hp_challenge": {
+    "social_hp": 4,
+    "roll_dc": 0,
+    "cooldown_remaining": 0,
+    "successes": 1,
+    "npc_id": "npc_hinata_001",
+    "roll_result": 0,
+    "request_severity": "submission",
+    "successes_needed": 5,
+    "npc_tier": "noble",
+    "social_hp_damage": 0,
+    "status": "WAVERING",
+    "resistance_shown": "She is pale and physically shaking, her focus split between her holy duties and spiritual shock.",
+    "social_hp_max": 5,
+    "objective": "Reassure her after the revelation of the Pope's corruption",
+    "npc_name": "Hinata Lyra Marineford",
+    "skill_used": "Insight"
+  },
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2026-05-22 09:32:35.054000+00:00",
+  "turn_number": 26,
+  "player_turn": 26,
+  "last_living_world_turn": 24,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "minute": 45,
+    "hour": 18,
+    "time_of_day": "evening",
+    "year": 1492,
+    "day": 17,
+    "month": "Mirtul"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "The scene is currently in the private bedchambers of the Capital Mansion, following the waterboarding and anal claiming sequence.",
+    "thinking": "The user has escalated the scene to include extreme acts of degradation involving both the fianc\u00c3\u00a9es and the servant girls. The narrative must continue in graphic detail while capturing the complex emotional and psychological states of all participants.",
+    "choices": [
+      {
+        "text": "Escalate Further",
+        "id": "continue_degradation",
+        "risk_level": "high",
+        "description": "Introduce new acts of humiliation or dominance."
+      },
+      {
+        "id": "conclude_scene",
+        "text": "End Scene",
+        "risk_level": "low",
+        "description": "Transition to the next morning or a different location."
+      },
+      {
+        "id": "focus_on_thoughts",
+        "text": "Deepen Inner Monologues",
+        "risk_level": "medium",
+        "description": "Focus on the detailed thoughts and feelings of a specific character."
+      }
+    ]
+  },
+  "world_events": {
+    "background_events": []
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Cain"
+    ]
+  },
+  "rumors": [
+    {
+      "content": "The bells of the Grand Cathedral rang thirteen times at noon, a sign of spiritual catastrophe.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "A golden shooting star was seen falling toward the cathedral sanctum.",
+      "source_type": "traveler",
+      "related_event": "cain_teleport",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A chilling wind blew out all the candles in the Cathedral of Marineford, leaving the clergy in total darkness for three minutes.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "A sudden drop in temperature was felt across Marineford as the dark aura beneath the cathedral dissipated.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "A merchant from Dorinthol claims that the ground beneath the city's S-Rank guild branch vibrated in sympathy with the Marineford bells.",
+      "source_type": "merchant",
+      "accuracy": "partial"
+    }
+  ],
+  "schema_migration_version": 1,
+  "schema_migrated_at": "2026-05-18T05:32:45.763643+00:00",
+  "session_id": "legacy-migrated-cd2a5211a9524943",
+  "frozen_plans": {},
+  "time_events": {},
+  "faction_updates": {
+    "Holy Country of Marineford": {
+      "progress": "High priests rescued; temple defense reinforced.",
+      "player_standing_change": "Saintess Hinata's devotion reaches absolute levels; the clergy looks to the Apostle with awe",
+      "resource_change": "Clearance of dark crystal from the immediate ley lines",
+      "next_action": "Convene a synod of high-ranking archbishops",
+      "current_objective": "Re-establish stability after the Pope's assassination and the Under-Cathedral purification"
+    }
+  },
+  "encounter_state": {
+    "encounter_summary": {
+      "xp_awarded": 150,
+      "outcome": "success",
+      "target": "King Rex",
+      "method": "persuasion"
+    },
+    "encounter_completed": true,
+    "encounter_type": "social_victory",
+    "rewards_processed": true,
+    "encounter_active": false
+  }
+}

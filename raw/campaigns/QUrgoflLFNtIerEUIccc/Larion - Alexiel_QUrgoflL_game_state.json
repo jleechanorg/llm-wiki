@@ -1,0 +1,668 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "proficiency_bonus": 4,
+    "class_name": "Abyssal Sovereign",
+    "display_name": "Alexiel Tethlar",
+    "attributes": {
+      "strength": 8,
+      "dexterity": 18,
+      "intelligence": 14,
+      "wisdom": 10,
+      "charisma": 20,
+      "constitution": 14
+    },
+    "race": "Half-Elf",
+    "spells_known": [
+      {
+        "level": 1,
+        "description": "Subtle defense.",
+        "name": "Shield"
+      },
+      {
+        "level": 1,
+        "description": "Subtle correction.",
+        "name": "Silvery Barbs"
+      },
+      {
+        "level": 1,
+        "description": "Abyssal pulse.",
+        "name": "Thunderwave"
+      },
+      {
+        "level": 2,
+        "description": "Voice of the Sovereign.",
+        "name": "Suggestion"
+      },
+      {
+        "level": 2,
+        "description": "Void paralysis.",
+        "name": "Hold Person"
+      },
+      {
+        "level": 3,
+        "description": "Temporal flow.",
+        "name": "Haste"
+      },
+      {
+        "level": 3,
+        "description": "Obsidian explosion.",
+        "name": "Fireball"
+      },
+      {
+        "level": 4,
+        "description": "Abyssal shroud.",
+        "name": "Shadow of Moil"
+      },
+      {
+        "level": 0,
+        "description": "Cantrip: Manipulate water.",
+        "name": "Shape Water"
+      },
+      {
+        "level": 1,
+        "description": "Control moisture.",
+        "name": "Create or Destroy Water"
+      },
+      {
+        "level": 1,
+        "description": "Create obscurement.",
+        "name": "Fog Cloud"
+      },
+      {
+        "level": 2,
+        "description": "Reflavored as mist shift.",
+        "name": "Misty Step"
+      },
+      {
+        "level": 3,
+        "description": "Crush enemies with water.",
+        "name": "Tidal Wave"
+      },
+      {
+        "level": 3,
+        "description": "Defensive water barrier.",
+        "name": "Wall of Water"
+      },
+      {
+        "level": 3,
+        "description": "Grant water breathing to allies.",
+        "name": "Water Breathing"
+      },
+      {
+        "level": 3,
+        "description": "Walk on liquid surfaces.",
+        "name": "Water Walk"
+      },
+      {
+        "level": 4,
+        "description": "Master the flow.",
+        "name": "Control Water"
+      },
+      {
+        "level": 5,
+        "description": "Create a swirling vortex.",
+        "name": "Maelstrom"
+      }
+    ],
+    "name": "Alexiel",
+    "experience": {
+      "needed_for_next_level": 120000,
+      "current": 109850,
+      "to_next_level": 10150
+    },
+    "resources": {
+      "spell_slots": {
+        "level_2": {
+          "used": 1,
+          "max": 3
+        },
+        "level_4": {
+          "used": 0,
+          "max": 2
+        },
+        "level_1": {
+          "used": 1,
+          "max": 4
+        },
+        "level_3": {
+          "used": 0,
+          "max": 3
+        }
+      },
+      "gold": 5000,
+      "monthly_income": 3000,
+      "daily_income": 100
+    },
+    "base_attributes": {
+      "strength": 8,
+      "dexterity": 18,
+      "intelligence": 14,
+      "wisdom": 10,
+      "charisma": 20,
+      "constitution": 14
+    },
+    "spells_prepared": [
+      {
+        "level": 1,
+        "name": "Shield"
+      },
+      {
+        "level": 1,
+        "name": "Silvery Barbs"
+      },
+      {
+        "level": 1,
+        "name": "Thunderwave"
+      },
+      {
+        "level": 2,
+        "name": "Suggestion"
+      },
+      {
+        "level": 2,
+        "name": "Hold Person"
+      },
+      {
+        "level": 3,
+        "name": "Haste"
+      },
+      {
+        "level": 3,
+        "name": "Fireball"
+      },
+      {
+        "level": 4,
+        "name": "Shadow of Moil"
+      }
+    ],
+    "hp_max": 104,
+    "level": 12,
+    "skills": [
+      "Gloomstalker Command",
+      "Void-Anchor",
+      "Sovereign Seals",
+      "Trinity of Masks (Baroness / Mercenary / Sovereign)",
+      "Soul Siphon",
+      "Stealth Proficiency",
+      "Sovereign of the Silverflow (Water Breathing, 60ft Swim Speed)",
+      "Tidal Command (Control Water 1/Combat without slot)",
+      "Apotheosis of the Void (Permanent Boss Scaling)",
+      "Fluid Resonance (Automatically know all water-themed spells)"
+    ],
+    "hp_current": 104,
+    "health": {
+      "hp_max": 104,
+      "hp": 104
+    },
+    "cantrips": [
+      {
+        "level": 0,
+        "name": "Mind Sliver"
+      },
+      {
+        "level": 0,
+        "description": "Invisible.",
+        "name": "Mage Hand"
+      },
+      {
+        "level": 0,
+        "name": "Minor Illusion"
+      },
+      {
+        "level": 0,
+        "name": "Shape Water"
+      }
+    ],
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        },
+        {
+          "name": "Explorer's Pack"
+        },
+        {
+          "description": "A void-seed that anchors Abyssal magic.",
+          "type": "artifact",
+          "name": "Obsidian Teardrop"
+        },
+        {
+          "description": "An ink-stained familiar with ember eyes.",
+          "type": "familiar",
+          "name": "Obsidian Songbird"
+        }
+      ],
+      "armor": {
+        "stats": "AC 16 + DEX (Max 2) | +1 Bonus | No Stealth Disadvantage",
+        "armor_type": "medium",
+        "bonus": 1,
+        "equipped": true,
+        "description": "Reinforced medium armor that blends into shadows.",
+        "stealth_disadvantage": false,
+        "type": "armor",
+        "armor_class": 16,
+        "name": "Shadow-Veil Breastplate +1"
+      },
+      "main_hand": {
+        "equipped": true,
+        "stats": "+2 to attack and damage, Finesse",
+        "type": "weapon",
+        "properties": [
+          "finesse",
+          "versatile (1d10)"
+        ],
+        "name": "Silence (Longsword +2)"
+      },
+      "neck": {
+        "equipped": true,
+        "stats": "+1 to Spell Save DC, +1 to Spell Attack Bonus",
+        "type": "item",
+        "name": "Amulet of the Silverflow"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 15,
+      "hour": 15,
+      "time_of_day": "afternoon",
+      "year": 1492,
+      "day": 1,
+      "month": "Hammer"
+    },
+    "current_location_name": "Royal Palace - Training Yard"
+  },
+  "npc_data": {
+    "Callista Ashbury": {
+      "attitude_to_party": "bonded",
+      "entity_id": "npc_callista_001",
+      "role": "Marquis of Ashbury Hall",
+      "tier": "lord_general",
+      "display_name": "Marquis Callista Ashbury"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "arc_milestones": {},
+    "active_constraints": [],
+    "god_mode": {
+      "setting": "resume the campaign below",
+      "character": {
+        "name": "Alexiel"
+      },
+      "description": "Lady Alexiel Tethlar, the Abyssal Sovereign and Baroness of the Silverflow. A military prodigy and noble scion who has reclaimed Riverside Manor and bound her soul to the Heart of the Silverflow. She operates a shadow empire in Highvale, using smuggling, subversion, and dark magic to hollow out the Crown from within."
+    },
+    "next_companion_arc_turn": 3,
+    "success_streak": 6,
+    "_agent_selection_tracker": {
+      "count": 3,
+      "agent": "DialogAgent",
+      "rewards_skip_count": 0
+    },
+    "character_creation_completed": true,
+    "player_character_data_extras": {
+      "title": "Baroness of the Silverflow"
+    },
+    "last_location": "Royal Palace - Training Yard",
+    "core_memories": [
+      "Correction: Banned names Nova, Valerius, Elara, Kyros, and Isolde have been replaced by Callista, Varek, Mina, Rylan, and Yvaine respectively to ensure narrative uniqueness.",
+      "Alexiel has ascended as the Abyssal Sovereign, wielding control over the Heart of the Silverflow and commanding a retinue of Gloomstalkers.",
+      "Alexiel has mastered the Soul Siphon, allowing her to consume the essence of the fallen to fuel her Abyssal Sovereign powers.",
+      "Alexiel has mastered the Heart of the Silverflow, granting her control over water and the ability to permanently absorb power from the souls of significant enemies.",
+      "Alexiel has refined her Hydro-Sovereignty, allowing her to cast Control Water once per combat and automatically master all water-themed magic as the Sovereign of the Silverflow.",
+      "Lady Alexiel Tethlar, the Abyssal Sovereign, has fully reclaimed Riverside Manor and established sovereign control over the Silverflow's mana Heart, beginning her campaign for the capital.",
+      "Lady Alexiel Tethlar, the Abyssal Sovereign and Baroness of the Silverflow, has arrived at the Royal Ministry in Ardan's Watch to begin her campaign of subversion against the Crown's administration.",
+      "Alexiel successfully infiltrated the Royal Ministry in Ardan's Watch using forged credentials and masked Gloomstalker scouts to locate internal administrative targets.",
+      "Alexiel and Callista consulted on the audit strategy within the Royal Ministry, identifying that Callista's cousin, Julian Vane, poses a potential threat to their anonymity.",
+      "Alexiel successfully exploited Julian Vane's greed by orchestrating a false Sunken Vault discovery through Callista, effectively stalling the Silverflow audit.",
+      "Alexiel successfully bypassed the East Wing guards using her Gloomstalkers but was unable to locate the physical Silverflow ledgers within the Ministry's vast archives.",
+      "Alexiel successfully subverted the physical Silverflow ledgers in the East Wing Archives using a magically dominated clerk as a distraction for her Gloomstalkers.",
+      "The Royal Ministry has implemented 'Void-Scanning' rods at all exits, which reacted aggressively to Alexiel's Abyssal signature, threatening her 'Baroness' mask.",
+      "Correction: Magic detection protocols at the Ministry have been bypassed and suppressed, allowing Alexiel and Callista to proceed to the Royal Palace for their audience with King Aethelgard.",
+      "Lady Callista Ashbury has been elevated to the rank of Marquis, significantly increasing her political weight and influence over the southern river trade and royal court.",
+      "Alexiel successfully navigated the initial protocol of the royal audience, convincing King Aethelgard of her house's loyalty while masking her Abyssal influence.",
+      "Alexiel has codified the psychological profiles of her inner circle, identifying the 'Relational Scripts' and 'Greatest Fears' of Callista, Barnaby, Daran, and Aurelian to ensure perfect manipulation.",
+      "Lady Alexiel Tethlar has arrived at the Royal Ministry in Ardan's Watch to begin her campaign of subversion against the Crown's administration.",
+      "Alexiel has codified the psychological profiles of her inner circle: Callista, Barnaby, Daran, and Aurelian to ensure perfect manipulation.",
+      "Correction: Alexiel's backstory is now centered on her identity as an exiled noble military prodigy and serial killer who supports her 'Baroness' mask through a shadow empire of vice and assassination in Larion.",
+      "Alexiel successfully pivoted King Aethelgard's interest from grain taxation to lifestone-infused weaponry, securing a critical strategic opening for a Tethlar military monopoly.",
+      "Alexiel successfully demonstrated lifestone-infused weaponry to King Aethelgard, shearing through tempered steel with a single blow and securing his military interest.",
+      "Alexiel successfully coordinated with Marquis Callista to neutralize a Helmite Proctor's scrutiny while pressing King Aethelgard for a military monopoly.",
+      "King Aethelgard has authorized a trial of lifestone-infused blades for the Royal Guard, but a botched Gloomstalker sabotage at the Ministry forge has alerted Chancellor Hektor to Abyssal interference."
+    ],
+    "divine_potential": 0,
+    "attribute_system": "D&D",
+    "major_event_pressure_budget": {
+      "new_major_event": true,
+      "special_circumstances": true,
+      "window": "24h",
+      "major_events_this_window": 1,
+      "rationale": "The successful demonstration of lifestone weaponry is a major strategic pivot for the campaign."
+    },
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "campaign_tier": "divine",
+    "character_creation_in_progress": false,
+    "multiverse_upgrade_available": false,
+    "character_creation_stage": "complete",
+    "companion_arcs": {
+      "Callista": {
+        "phase": "discovery",
+        "arc_type": "rival_nemesis",
+        "progress": 5,
+        "history": [
+          {
+            "event": "Callista identified her cousin, Julian Vane, as a high-level auditor who may recognize her involvement in the Silverflow trade.",
+            "turn": 3
+          }
+        ]
+      }
+    },
+    "divine_upgrade_available": false,
+    "universe_control": 0
+  },
+  "social_hp_challenge": {
+    "social_hp": 4,
+    "roll_dc": 17,
+    "cooldown_remaining": 0,
+    "successs_needed": 5,
+    "successes": 6,
+    "roll_result": 29,
+    "request_severity": "favor",
+    "npc_tier": "king",
+    "successes_needed": 5,
+    "social_hp_damage": 2,
+    "status": "YIELDING",
+    "resistance_shown": "The King is yielding to the logic of superior steel, but Hektor's bureaucratic influence remains a barrier to a total monopoly.",
+    "social_hp_max": 10,
+    "objective": "Secure royal favor and river monopoly",
+    "skill_used": "Persuasion",
+    "npc_name": "King Aethelgard"
+  },
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2026-06-13 10:17:42.548000+00:00",
+  "turn_number": 14,
+  "player_turn": 14,
+  "last_living_world_turn": 12,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 14,
+    "minute": 35,
+    "time_of_day": "afternoon",
+    "day": 1,
+    "year": 1492,
+    "month": "Hammer"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "Securing the Military Monopoly - Complications Arising",
+    "thinking": "The Persuasion was successful; I have the Guard trial, which places my weapons in the hands of the King's most loyal men. However, the botched sabotage is a liability. Hektor is already suspicious, and if he connects the forge 'interference' to my Abyssal signature, the Baroness mask will fracture before the ink on the contract is dry. I need to either bury the evidence of the sabotage or double down on Hektor's 'incompetence' to ensure his reports are dismissed as desperate deflections.",
+    "choices": [
+      {
+        "id": "clean_up_sabotage",
+        "text": "The Invisible Hand - Clean Up",
+        "risk_level": "high",
+        "description": "Order your Gloomstalkers to return to the forge and completely erase the Abyssal residue before Hektor's investigators can arrive.",
+        "cons": [
+          "Risk level is high due to increased guard presence",
+          "Leaves the standard shipment functional"
+        ],
+        "pros": [
+          "Neutralizes the primary evidence against you",
+          "Maintains the 'Loyal' mask"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "frame_hektor_neglect",
+        "text": "The Chancellor's Shame - Frame Neglect",
+        "risk_level": "medium",
+        "description": "Subtly suggest to the King that Hektor's 'alert' is merely a cover-story for his department's failure to maintain forge safety, citing the 'instability' of standard steel.",
+        "cons": [
+          "High DC Persuasion/Deception",
+          "Provokes Hektor into an immediate counter-attack"
+        ],
+        "pros": [
+          "Turns the complication into a political weapon",
+          "Further erodes Hektor's credibility"
+        ],
+        "confidence": "low"
+      },
+      {
+        "text": "The Sovereign's Edict (Synergistic)",
+        "risk_level": "high",
+        "cons": [
+          "Extremely high coordination DC (22+)",
+          "Requires a stolen asset you may not have yet"
+        ],
+        "id": "parallel_final_seizure",
+        "pros": [
+          "Eliminates a rival while protecting your mask",
+          "Synergy: Resolves the forge crisis and the audit threat simultaneously",
+          "Success: x1.5 XP"
+        ],
+        "description": "While you use your Noble Presence to keep the King focused on the Guard trial, order your Gloomstalkers to frame a rival house's agent for the forge 'interference' using a stolen signet.",
+        "confidence": "medium",
+        "analysis": {
+          "combination_type": "synergistic",
+          "synergy_bonus": "The King will view the forge crisis as a direct attack by your rivals, cementing his trust in you as his only 'secure' partner.",
+          "coordination_dc": 22
+        }
+      }
+    ]
+  },
+  "rewards_box": {
+    "current_xp": 109850,
+    "level_up_available": false,
+    "loot": [
+      "None"
+    ],
+    "gold": 0.0,
+    "progress_percent": 49,
+    "xp_gained": 1000,
+    "current_level": 12,
+    "xp_total": 109850,
+    "xp_to_next_level": 10150,
+    "source": "encounter",
+    "next_level_xp": 120000
+  },
+  "world_events": {
+    "background_events": [
+      {
+        "discovery_condition": "Report from Daran or gossip in Highvale",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Hobb's staff are now seeking protection from Daran's Guild, consolidating Daran's local power.",
+        "actor": "Miller Hobb",
+        "action": "was formally imprisoned in Willowford",
+        "player_impact": "Consolidates smuggling infrastructure but increases village resentment.",
+        "location": "Willowford Village",
+        "id": "hobb_imprisonment",
+        "event_type": "long_term"
+      },
+      {
+        "is_historical": true,
+        "resolved_scene_number": 16,
+        "player_aware": false,
+        "status": "resolved",
+        "actor": "Ministry of Ordinance",
+        "resolved_turn": 6,
+        "player_impact": "Future visits to the Registry Vault require DC 22+ Deception or magic suppression.",
+        "location": "Ardan's Watch",
+        "action": "completed the resonance audit of the Registry Vault",
+        "delta_action": "resolve",
+        "discovery_condition": "Witnessing increased guard presence or scouting with Gloomstalkers",
+        "outcome": "All magic detection sensors decommissioned and records of resonance anomalies deleted.",
+        "event_type": "immediate",
+        "id": "ordinance_resonance"
+      },
+      {
+        "is_historical": true,
+        "status": "resolved",
+        "player_aware": false,
+        "discovery_condition": "Julian mentions his 'team' or Callista overhears recruiting efforts",
+        "actor": "Julian Vane",
+        "action": "began recruiting external 'Vault Consultants'",
+        "player_impact": "Creates a new faction of treasure-hunters moving toward Riverside Manor.",
+        "location": "Ardan's Watch",
+        "outcome": "Recruitment efforts ceased; Vane has refocused on his clerical duties.",
+        "delta_action": "resolve",
+        "id": "vane_consultant_recruitment",
+        "turn_generated": 6,
+        "event_type": "long_term",
+        "scene_generated": 16
+      },
+      {
+        "discovery_condition": "Hektor mentions 'clerical discrepancies' or Callista hears rumors at court.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Suspicion grows regarding the Ashbury-Tethlar monopoly's reported numbers.",
+        "location": "Ardan's Watch",
+        "action": "began investigating Highvale's grain yield vs tax ratio",
+        "player_impact": "Creates a deadline: the audit must be fully suppressed or the monopoly will be taxed at 40%.",
+        "actor": "Royal Revenue Ministry",
+        "id": "revenue_ministry_scrutiny",
+        "delta_action": "add",
+        "turn_generated": 9,
+        "event_type": "long_term",
+        "scene_generated": 22
+      },
+      {
+        "discovery_condition": "A report from Barnaby or a check of the ledger.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Treasury flow increases, but risk of detection by local patrols rises.",
+        "actor": "Daran",
+        "action": "ramped up lifestone smuggling through the Tethlar river tunnel",
+        "player_impact": "Generates 100 extra florins/month but adds +2 DC to future stealth checks at the manor.",
+        "location": "Riverside Manor",
+        "id": "daran_lifestone_surge",
+        "delta_action": "add",
+        "event_type": "long_term"
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Alexiel"
+    ]
+  },
+  "rumors": [
+    {
+      "content": "The High Chancellor is looking for a new 'Silverflow Specialist' among the nobility to oversee the upcoming grain tax audit.",
+      "source_type": "clerk",
+      "related_event": "audit_progression",
+      "accuracy": "true"
+    },
+    {
+      "content": "Silverflow grain is being called 'Ghost Wheat' by superstitious dockworkers who claim it glows in the dark.",
+      "source_type": "commoner",
+      "related_event": "grain_monopoly",
+      "accuracy": "partial"
+    },
+    {
+      "content": "They say the Ministry of Ordinance found a 'hole' in the river's magic. The mages are terrified.",
+      "source_type": "commoner",
+      "related_event": "ordinance_resonance",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Julian Vane is looking for experts in 'Sunken Architecture'. The pay is five hundred gold just to look at a map.",
+      "source_type": "traveler",
+      "related_event": "vane_consultant_recruitment",
+      "accuracy": "true"
+    },
+    {
+      "content": "Julian Vane has been seen celebrating a 'once-in-a-century' surveyor's find in the archives.",
+      "source_type": "noble",
+      "related_event": "vane_consultant_recruitment",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A 'Silver Sovereign' is rising in the south, one who can command the very river to drown her enemies.",
+      "source_type": "traveler",
+      "related_event": "hydro_sovereignty",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The King's blacksmiths are being whispered to prepare for a 'Great Work' that hasn't been seen since the Fall of Netheril.",
+      "source_type": "guard",
+      "related_event": "lifestone_weaponry_pivot",
+      "accuracy": "true"
+    }
+  ],
+  "schema_migration_version": 1,
+  "schema_migrated_at": "2026-06-13T08:07:25.651489+00:00",
+  "session_id": "legacy-migrated-144cdc3152166ea7",
+  "time_events": {},
+  "faction_updates": {
+    "House Tethlar": {
+      "resource_change": "Increased political exposure",
+      "player_standing_change": "Transitioning from 'Forgotten' to 'Relevant'",
+      "progress": "Audience in progress; initial impression successful",
+      "next_action": "Justify the removal of local rivals",
+      "current_objective": "Secure royal sanction for the Silverflow monopoly"
+    }
+  }
+}

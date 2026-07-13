@@ -1,0 +1,195 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "personality_traits": {
+      "Extraversion": 3,
+      "Openness": 1,
+      "Conscientiousness": 5,
+      "Agreeableness": 2,
+      "Neuroticism": 4
+    },
+    "mbti": "ISTJ",
+    "xp_current": 0,
+    "status_conditions": [],
+    "string_id": "pc_andrew_001",
+    "aptitudes": {
+      "Physique": {
+        "score": 16,
+        "potential": 4,
+        "modifier": 3
+      },
+      "Intelligence": {
+        "score": 10,
+        "potential": 2,
+        "modifier": 0
+      },
+      "Coordination": {
+        "score": 12,
+        "potential": 3,
+        "modifier": 1
+      },
+      "Health": {
+        "score": 14,
+        "potential": 4,
+        "modifier": 2
+      },
+      "Wisdom": {
+        "score": 13,
+        "potential": 3,
+        "modifier": 1
+      }
+    },
+    "alignment": "Lawful Neutral",
+    "class_concept": "Fighter/Paladin",
+    "resources": {
+      "gold": 25,
+      "hero_points": 1
+    },
+    "core_memories": [
+      "The destruction of Oakhaven by a dragon."
+    ],
+    "name": "Sir Andrew",
+    "hp_max": 12,
+    "level": 1,
+    "hp_current": 12,
+    "archetype": "The Vengeful Paladin",
+    "xp_next_level": 300,
+    "knowledge": [
+      "Oakhaven history",
+      "Basic Dragon Lore"
+    ],
+    "inventory": {
+      "backpack": {
+        "torch": 10,
+        "rations": 5,
+        "waterskin": 1
+      },
+      "equipped": {
+        "chain_mail": {
+          "defense_bonus": 6,
+          "name": "Chain Mail"
+        },
+        "shield": {
+          "defense_bonus": 2,
+          "name": "Shield"
+        },
+        "longsword": {
+          "damage": "1d8 slashing",
+          "name": "Longsword"
+        }
+      }
+    },
+    "experience": {
+      "current": 0,
+      "to_next_level": 300,
+      "needed_for_next_level": 300
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "hour": 14,
+      "day": 10,
+      "second": 0,
+      "year": 1620,
+      "month": "Kythorn",
+      "minute": 0,
+      "microsecond": 0,
+      "time_of_day": "afternoon"
+    },
+    "current_location_id": "loc_eastern_march_001",
+    "locations": {
+      "loc_eastern_march_001": {
+        "description": "A rugged, contested territory between the Imperium and the Shattered Host.",
+        "display_name": "The Eastern March"
+      }
+    }
+  },
+  "npc_data": {
+    "Brennan of the Stones": {
+      "status": "Companion",
+      "mbti": "ISFP",
+      "hp_max": 9,
+      "level": 1,
+      "hp_current": 9,
+      "relationship": "Life-debt",
+      "string_id": "npc_brennan_001",
+      "role": "Mage",
+      "name": "Brennan of the Stones"
+    },
+    "Gareth Ashfeld": {
+      "status": "Companion",
+      "mbti": "INFP",
+      "hp_max": 8,
+      "level": 1,
+      "hp_current": 8,
+      "relationship": "Grateful",
+      "string_id": "npc_gareth_001",
+      "role": "Healer",
+      "name": "Gareth Ashfeld"
+    },
+    "Kiera Varrus": {
+      "status": "Companion",
+      "mbti": "ESTP",
+      "hp_max": 10,
+      "level": 1,
+      "hp_current": 10,
+      "relationship": "Mercenary",
+      "string_id": "npc_kiera_001",
+      "role": "Scout",
+      "name": "Kiera Varrus"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "premise": "A brave knight in the world of Assiah must choose between killing an evil dragon or joining its side.",
+    "last_story_mode_sequence_id": 6,
+    "attribute_system": "destiny",
+    "rules": {
+      "hero_points": {
+        "enabled": true,
+        "description": "Characters gain a pool of Hero Points equal to their Character Level. Spend one point to roll an additional d6 on any d20 roll. Regain all on Long Rest."
+      }
+    },
+    "active_missions": [
+      {
+        "title": "The Wyrm's Trail",
+        "status": "in_progress",
+        "mission_id": "main_quest_1",
+        "objective": "Travel to the Dragon's Tooth mountains to investigate rumors of a young green dragon."
+      }
+    ],
+    "arc_milestones": {},
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "active_constraints": [],
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2025-07-03 01:48:08.313000+00:00",
+  "turn_number": 0,
+  "player_turn": 0,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "hour": 14,
+    "day": 10,
+    "second": 0,
+    "year": 1620,
+    "month": "Kythorn",
+    "minute": 0
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "migration_status": "NO_LEGACY_DATA"
+}

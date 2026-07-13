@@ -1,0 +1,742 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "skill_proficiencies": {
+      "expertise": [
+        "Stealth",
+        "Persuasion"
+      ],
+      "proficiencies": [
+        "Stealth",
+        "Persuasion",
+        "Intimidation",
+        "Insight",
+        "Perception"
+      ]
+    },
+    "cantrips": [
+      "Guidance",
+      "Toll the Dead",
+      "Mage Hand",
+      "Minor Illusion",
+      "Prestidigitation",
+      "Thaumaturgy"
+    ],
+    "class_name": "Gestalt Paladin (Conquest) / Sorcerer (Source Soul)",
+    "proficiency_bonus": 5,
+    "display_name": "Aethelred",
+    "hit_dice_current": 13,
+    "hit_dice_max": 13,
+    "race": "High Elf",
+    "spells_known": [
+      {
+        "level": 1,
+        "description": "+5 AC for 1 round",
+        "name": "Shield"
+      },
+      {
+        "level": 1,
+        "description": "Bonus action heal 1d4+CHA",
+        "name": "Healing Word"
+      },
+      {
+        "level": 1,
+        "description": "4d6 radiant + advantage next attack",
+        "name": "Guiding Bolt"
+      },
+      {
+        "level": 1,
+        "description": "Resistance to elemental damage",
+        "name": "Absorb Elements"
+      },
+      {
+        "level": 2,
+        "description": "30ft teleport (Bonus Action)",
+        "name": "Misty Step"
+      },
+      {
+        "level": 2,
+        "description": "Turn invisible for 1 hour",
+        "name": "Invisibility"
+      },
+      {
+        "level": 2,
+        "description": "3 duplicates to absorb hits",
+        "name": "Mirror Image"
+      },
+      {
+        "level": 2,
+        "description": "20ft radius sphere of quiet",
+        "name": "Silence"
+      },
+      {
+        "level": 3,
+        "description": "8d6 fire in 20ft sphere",
+        "name": "Fireball"
+      },
+      {
+        "level": 3,
+        "description": "Interrupt and negate a spell",
+        "name": "Counterspell"
+      },
+      {
+        "level": 3,
+        "description": "Whirling spirits deal 3d8 radiant/necrotic",
+        "name": "Spirit Guardians"
+      },
+      {
+        "level": 3,
+        "description": "Return creature to life (1 min limit)",
+        "name": "Revivify"
+      },
+      {
+        "level": 3,
+        "description": "+2 AC, extra action, double speed",
+        "name": "Haste"
+      },
+      {
+        "level": 4,
+        "description": "Send target to another plane",
+        "name": "Banishment"
+      },
+      {
+        "level": 4,
+        "description": "Invisibility that doesn't break on attack",
+        "name": "Greater Invisibility"
+      },
+      {
+        "level": 4,
+        "description": "Transform target into a beast",
+        "name": "Polymorph"
+      },
+      {
+        "level": 4,
+        "description": "4d10 radiant + exhaustion in sphere",
+        "name": "Sickening Radiance"
+      },
+      {
+        "level": 5,
+        "description": "8d6 psychic + penalty to checks/attacks",
+        "name": "Synaptic Static"
+      },
+      {
+        "level": 5,
+        "description": "Weapon deals +2d8 radiant",
+        "name": "Holy Weapon"
+      },
+      {
+        "level": 5,
+        "description": "Invisible, indestructible wall",
+        "name": "Wall of Force"
+      },
+      {
+        "level": 6,
+        "description": "Influence up to 12 creatures",
+        "name": "Mass Suggestion"
+      },
+      {
+        "level": 7,
+        "description": "7d8+30 necrotic damage; target rises as zombie if killed",
+        "name": "Finger of Death"
+      }
+    ],
+    "resources": {
+      "gold": 41200,
+      "spell_slots": {
+        "level_7": {
+          "current": 1,
+          "max": 1
+        },
+        "level_2": {
+          "current": 3,
+          "used": 2,
+          "max": 3
+        },
+        "level_4": {
+          "current": 3,
+          "max": 3
+        },
+        "level_5": {
+          "current": 1,
+          "used": 1,
+          "max": 2
+        },
+        "level_1": {
+          "current": 4,
+          "max": 4
+        },
+        "level_3": {
+          "current": 3,
+          "used": 1,
+          "max": 3
+        },
+        "level_6": {
+          "current": 1,
+          "max": 1
+        }
+      },
+      "experience": {
+        "current": 104600
+      },
+      "class_features": {
+        "sorcery_points": {
+          "current": 13,
+          "max": 13
+        }
+      }
+    },
+    "experience": {
+      "needed_for_next_level": 140000,
+      "current": 124500,
+      "to_next_level": 15500
+    },
+    "base_attributes": {
+      "strength": 8,
+      "dexterity": 18,
+      "intelligence": 10,
+      "wisdom": 12,
+      "charisma": 20,
+      "constitution": 14
+    },
+    "spells_prepared": [
+      {
+        "level": 1,
+        "description": "Temp HP + cold damage to attackers",
+        "name": "Armor of Agathys"
+      },
+      {
+        "level": 1,
+        "description": "One-word order to target",
+        "name": "Command"
+      },
+      {
+        "level": 2,
+        "description": "Paralyze humanoid",
+        "name": "Hold Person"
+      },
+      {
+        "level": 2,
+        "description": "Floating blade attacks as bonus action",
+        "name": "Spiritual Weapon"
+      },
+      {
+        "level": 3,
+        "description": "Targets drop items and flee",
+        "name": "Fear"
+      },
+      {
+        "level": 3,
+        "description": "Disadvantage or extra damage on target",
+        "name": "Bestow Curse"
+      },
+      {
+        "level": 4,
+        "description": "8d8 necrotic damage",
+        "name": "Blight"
+      },
+      {
+        "level": 4,
+        "description": "Control a beast",
+        "name": "Dominate Beast"
+      },
+      {
+        "level": 5,
+        "description": "Control a humanoid",
+        "name": "Dominate Person"
+      },
+      {
+        "level": 5,
+        "description": "Paralyze any creature",
+        "name": "Hold Monster"
+      },
+      {
+        "name": "Death Ward"
+      }
+    ],
+    "hp_max": 111,
+    "features": [
+      "Veil Striker: Source Smite deals +2d8 damage when attacking from hiding/invisibility"
+    ],
+    "level": 13,
+    "hp_current": 79,
+    "health": {
+      "hp_max": 111,
+      "hp": 79
+    },
+    "active_effects": [],
+    "equipment": {
+      "backpack": [
+        {
+          "stats": "Source-Dampening field is currently inactive; requires high-tier ritual or Source infusion to restart.",
+          "type": "artifact",
+          "name": "Source-Dampener Relic (Inert)"
+        },
+        {
+          "type": "misc",
+          "quantity": 5,
+          "name": "Silver Shield Insignia"
+        },
+        {
+          "description": "Engraved platinum ring used to unlock high-security seals in the sunken vault.",
+          "type": "key",
+          "name": "Captain Kester's Signet Ring"
+        }
+      ],
+      "cloak": {
+        "equipped": true,
+        "stats": "+2 AC, +2 Saving Throws, 60ft Fly Speed",
+        "name": "Cloak of the Eternal"
+      },
+      "armor": {
+        "equipped": true,
+        "stats": "AC 20, No Dex limit, Resist non-magical physical, Adv vs Charm/Fear",
+        "name": "The Devourer's Embrace"
+      },
+      "off_hand": {
+        "equipped": true,
+        "stats": "+3 to hit/dmg, 1d8+3 piercing + 2d8 Necrotic, DC 18 CON save vs Curse",
+        "name": "Shadow-Slicer (Obsidian Rapier +3)"
+      },
+      "main_hand": {
+        "equipped": true,
+        "stats": "+3 to hit/dmg, 1d8+3 piercing + 2d8 Force, Crits 18-20, +2 Initiative",
+        "name": "The Duellist's Masterpiece (Obsidian Rapier +3)"
+      },
+      "ring_1": {
+        "equipped": true,
+        "stats": "+2 AC, +2 Saving Throws",
+        "name": "Band of the First Garden"
+      },
+      "neck": {
+        "equipped": true,
+        "stats": "+2 Spell DC, +2 Spell Attack, +1 L3 Spell Slot",
+        "name": "Amulet of the Void-Touched"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 53,
+      "hour": 13,
+      "time_of_day": "afternoon",
+      "year": 1492,
+      "day": 15,
+      "month": "Mirtul"
+    },
+    "current_location_name": "Arx - Sunken Vault Records Chamber"
+  },
+  "npc_data": {
+    "Silver Shield Guard 2": {
+      "attitude_to_party": "devoted",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Witnessed Aethelred execute Kester",
+            "Enslaved by Divine Command"
+          ]
+        }
+      }
+    },
+    "Chancellor Bramwell": {
+      "role": "City Administrator",
+      "tier": "noble",
+      "entity_id": "npc_bramwell_001",
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 2,
+          "history": [
+            "Leashed via Divine Presence to manage Arx logistics."
+          ]
+        }
+      },
+      "display_name": "Chancellor Bramwell",
+      "level": 3
+    },
+    "Silver Shield Guard 1": {
+      "attitude_to_party": "devoted",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Witnessed Aethelred execute Kester",
+            "Enslaved by Divine Command"
+          ]
+        }
+      }
+    },
+    "Captain Kester": {
+      "name": "Captain Kester"
+    },
+    "Merchant Lord Valois": {
+      "entity_id": "npc_valois_001",
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -8,
+          "history": [
+            "Purged from his home and interrogated via divine presence."
+          ]
+        }
+      },
+      "display_name": "Merchant Lord Valois",
+      "level": 4
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "arc_milestones": {},
+    "active_constraints": [],
+    "god_mode": {
+      "description": "# RIVELLON UNDER THE EMERALD ECLIPSE: A GESTALT TIER-4 CAMPAIGN ANTHOLOGY\n## CHAPTER I: THE MECHANICAL ARCHITECTURE OF THE GOD-SHADOW\nWhen you stood at the apex of the First Garden and chose the path of absolute, unyielding tyranny, you did not merely claim a title. By consuming Lucian the Divine and Dallis the Hammer, you systematically monopolized the cosmic lifeblood of Rivellon. The Veil remains intact, but it is no longer anchored by a pantheon of squabbling deities or the fragile sacrifices of the pure; it is tethered exclusively to your living soul.\nBecause you chose to pursue your ascension through blinding speed, immaculate grace, and absolute stealth, your divine chassis does not manifest as a lumbering, iron-clad juggernaut. Instead, you are a silent, breathtaking apex predator\u2014a high-elven or perfected Eternal silhouette clad in dark, supple medium armor, slipping through the shadows with a pair of flawlessly forged finesse blades that flash with the stolen radiance of the gods.\nTo represent this mythic tier of power, your character utilizes a **Level 12 to 30 Gestalt Character Sheet**, blending the absolute martial authority of a modified **Oath of Conquest Paladin** with the infinite cosmic reservoir of a **Source Soul Sorcerer** (a dark adaptation of the Divine Soul). You do not multiclass or split your levels; at every milestone from your starting point at Level 12 up to your ultimate transcendence at Level 30, you gain the features, spellcasting progression, and raw mechanical benefits of both classes simultaneously.\n### Core Character Statistics & Attributes (Level 12 Base)\n * **Hit Dice:** 12\\text{d}12 (Custom Tyrant Divine chassis) + Constitution modifier.\n * **Saving Throws:** Charisma (+9 with Aura) and Constitution (+4).\n * **Armor Class (AC):** **19** (Half-Plate Medium Armor: Base 15 + Max 2 from Dex + 1 from Fighting Style + 1 from high-tier ring/cloak of protection).\n * **Stealth Modifier:** +12 or higher (utilizing proficiency and Dexterity).\n * **Charisma: 20 (+5)** \u2014 Your *Immaculate Presence* is at its absolute peak. Your words manipulate royal courts, your beauty intoxicates mortals, and your spell save DC is a terrifying **17**.\n * **Dexterity: 18 (+4)** \u2014 You strike with blinding velocity. You utilize Finesse weapons (such as dual obsidian rapiers or shadow-infused daggers) for your weapon attacks and your reality-rending *Divine Smites*.\n```\n====================================================================\n                     THE SOVEREIGN LEDGER\n====================================================================\n  [Class Chassis]   Gestalt Paladin (Conquest) / Sorcerer (Source Soul)\n  [Starting Level]  Level 12 (Adjusting to the Torrent of Divinity)\n  [Max Level]       Level 30 (The God-Slayer Apotheosis)\n  [Primary Stats]   Charisma: 20 (+5), Dexterity: 18 (+4)\n  [Spell Access]    Sorcerer, Paladin, and Cleric Lists (Charisma-based)\n====================================================================\n\n```\n## CHAPTER II: THE LEVEL 12 TO 30 PROGRESSION MATRIX\nThe following table details your full mechanical development. At Level 12, you begin the campaign already standing far above the mortal world, yet still learning how to control the volatile torrent of Source running through your veins. As you climb to Level 30, your soul expands, stabilizing your absolute monopoly over reality.\n| Level | Paladin Side Features | Sorcerer Side Features | Custom Tyrant Divine Unlock |\n|---|---|---|---|\n| **12** | Extra Attack, Divine Smite, Improved Divine Smite (+1\\text{d}8 automatic damage to all strikes). | Font of Magic (12 Sorcery Points), Metamagic (Choose 2), 6th-Level Spell Slots. | **Source Vision & The Sightless Eye (Passive):** You possess permanent *True Seeing* out to 120 feet and can track the exact Source signatures of all living entities within a 1-mile radius through solid structures. \n\n**Immaculate Presence (Passive):** Flawless features grant advantage on Charisma checks; enemies within 30 feet have disadvantage on saves against being Charmed or Frightened.\n\n**Source Smite:** Convert Divine Smite damage to pure Necrotic or Force by spending Sorcery Points. |\n| **13** | 4th-Level Paladin Spells | 7th-Level Spell Slots (*Finger of Death*, *Teleport*) | **Veil Striker:** When attacking from hiding or while invisible, your *Source Smite* deals an additional 2\\text{d}8 damage as your un-stabilized power flares violently. |\n| **14** | Cleansing Touch (End spell effects on yourself or a thrall at will). | Metamagic Options (Choose 3) | **Cleansing Shadow:** When using Cleansing Touch in dim light or darkness, you can immediately teleport up to 30 feet into another patch of shadow as a bonus action. |\n| **15** | Scornful Rebuke (Enemies that hit you take automatic psychic damage equal to Charisma modifier). | Revelation of Source | **Dark Pinions:** Your body fully adapts to hijacked divinity. You gain a permanent flying speed of 60 feet via shimmering, semi-translucent wings of pure, emerald Source energy. |\n| **16** | Ability Score Improvement (ASI) | Ability Score Improvement (ASI) | **Fluid Grace:** Your Dexterity increases to **20 (+5)**. Your stealth checks, initiative rolls, and finesse attack accuracy reach their maximum mortal peak.\n\n**Ghost-Walk of the Veil (3/Day):** Dissolve your physical form into pure emerald energy to pass through solid walls and unleash a surprise strike dealing +4\\text{d}10 force damage. |\n| **17** | 5th-Level Paladin Spells | 9th-Level Spell Slots (*Wish*, *Time Stop*, *Gate*) | **Apex Arcana:** You can cast *Invisibility* or *Misty Step* without expending a spell slot a number of times equal to your Proficiency Bonus per long rest. |\n| **18** | Aura of Protection & Aura of Conquest Improvement | Sorcerous Fortitude | **Sovereign Aura:** Your defensive and offensive auras expand to a massive **30-foot radius**, projecting a localized zone of total psychological dominance. |\n| **19** | Ability Score Improvement (ASI) | Ability Score Improvement (ASI) | **Unearthly Allure:** Your Charisma breaks past mortal limits, rising to **22 (+6)**. Your spell save DC scales to an un-ignorable **20**. |\n| **20** | **Invincible Conqueror** (Cap) | **Sorcerous Apotheosis** (Cap) | **Source Consumption:** When you reduce a creature to 0 HP, rip their soul out. Regain all spell slots up to 5th level or heal for half total HP. Targets cannot be resurrected except by a Level 20 entity using *Wish*. |\n| **21** | Epic Smite Scaling | Epic Font Expansion | **Deathfog Radiance (3/Day):** Release a 60-foot aura of shimmering, beautiful Deathfog. Living things must make a DC Constitution save or take 10\\text{d}10 necrotic damage, rising instantly as loyal Undead Thralls. |\n| **22** | Epic Martial Mastery | Sorcery Point Expansion (+2) | **Source-Beast Seduction / Domination (Passive):** Charisma modifier is doubled for interactions with Sourcerers or Voidwoken. You can force a target to look into your eyes, incapacitating them with divine majesty on a failed Charisma save.\n\n**Phantom Strike:** Your finesse weapon attacks entirely ignore damage resistances and immunities. |\n| **23** | Epic Oath Feature | Metamagic Expansion | **Absolute Command (1/Day):** Whisper a single word from the darkness. The target must save or be permanently dominated by your will with no concentration required. |\n| **24** | Epic Aura Expansion | Sorcerous Fortitude Improvement | **Epic Boon Selection I:** Choose an Epic Boon (e.g., *Boon of Speed* or *Boon of Peerless Focus*). Your Constitution maximum increases to **22**. |\n| **25** | Epic Spell Slot Expansion | Sorcery Point Expansion (+2) | **The Great Dampening (1/Short or Long Rest):** Choke the flow of magic globally within a 60-foot radius. Enemy spellcasters cannot cast spells of 3rd level or higher and automatically fail active concentration. |\n| **26** | Epic Smite Infusion | Deep Magic Attunement | **Cosmic Seduction:** Any sentient creature that enters your 30-foot aura must save or be completely charmed by your stunning Eternal aesthetics, turning them into your defenders. |\n| **27** | Epic Prowess | 9th-Level Slot Expansion | **Unleashed Source:** When using *Source Consumption* on a Level 15+ creature, you can choose to instantly regain an expended 6th, 7th, or 8th-level spell slot. |\n| **28** | Epic Oath Improvement | Sorcery Point Expansion (+2) | **Epic Boon Selection II:** Gain a secondary Epic Boon of your choice. Your Charisma scales to a magnificent **24 (+7)**. |\n| **29** | Peerless Monarch | High Magic Apotheosis | **Sovereign of Rivellon:** You can cast *Wish* once per day without risking the stress penalty that prevents future casting. Reality cannot punish you for rewriting its laws. |\n| **30** | **God-Slayer Apotheosis** | **Cosmic Singularity** | **Singularity of the Divine:** Unlock a singular **10th-Level Spell Slot** to cast *Annihilation of the Void*, stripping away the Level 30 God King's cosmic protections to execute him. |\n## CHAPTER III: THE UNIQUE PARADIGM OF THE SENTIENT VOID\nOne of the most profound consequences of your max-evil campaign in *Divinity: Original Sin 2* and your subsequent consumption of Dallis the Hammer is the radical transformation of the Void itself. When you absorbed Dallis, you did not just inherit her memories; you seized the ancient, forbidden biological and magical secrets of the **Eternals**\u2014the original, immortal rulers of the world before they were cast into the dark by the treacherous Seven.\nAs a result, the relationship between the material plane and the Void has undergone a terrifying, seductive evolution. The higher-level entities crossing the fraying Veil are no longer mindless, chitinous insects or slavering, multi-eyed monstrosities covered in rot. Instead, they are the ancient Eternals themselves, twisted by the primordial darkness of the Void but restored to a state of flawless, hauntingly beautiful humanoid grace.\n```\n                    =================================\n                            THE ETERNAL TYRANNY\n                    =================================\n                              [THE VOIDWOKEN]\n                             /               \\\n              Low-Tier Thralls               High-Tier Nobility\n             (Chitinous Shadows)            (Humanoid Eternals)\n                     |                               |\n              Used as Foot Soldiers          Elegance, Silks, Obsidian\n              and Tactical Fodder            Diplomacy & Sedition\n\n```\nThese high-tier Voidwoken lords possess an aristocratic, cruel elegance. They dress in heavy, shimmering silks woven from shadow-thread, wear armor forged from non-reflective obsidian, and speak with voices that sound like dark music. They do not wish to merely reduce Rivellon to a wasteland of ash; they view mortals as cattle, but they view *you* as the true, perfect evolution of their ancient race. They have come to the material world to see if you are a master worthy of their allegiance, or a false king to be dragged down into the dark.\nThis creates a highly stylized, dark aesthetic for the entire campaign. Evil is not ugly, decaying, or desperate in this world; it is immaculate, wealthy, and breathtakingly attractive. The horror of your empire does not lie in skeletal ghouls wandering the streets, but in the absolute, quiet perfection of your court, where dissenters are erased from existence without a sound, and the common folk are seduced into giving up their freedom by the sheer, intoxicating beauty of their new masters.\n## CHAPTER IV: THE GEOPOLITICAL POWER BALANCE\nAlthough you are an untouchable, individual powerhouse capable of slaughtering any mortal champion in a one-on-one duel, your empire begins the campaign in a highly volatile, fragile state. By executing every single magistrate, paladin, and bureaucrat who remained loyal to the memory of Lucian the Divine, you effectively decapitated the infrastructure of Rivellon.\nArx is an architectural masterpiece, but its treasury is low, its administrative offices are empty, and its territory is currently limited to the capital city and its immediate perimeter. At the start of the campaign, your faction, **The Eternal Throne**, ranks at the bottom of the world's top five major geopolitical forces. You must play a high-stakes game of dark diplomacy, tactical assassinations, and resource management to rebuild your vanguard while keeping your rivals at bay.\n```\n================================================================================\n                    THE TOP FIVE GEOPOLITICAL STANDINGS\n================================================================================\n  RANK 1: THE SEDUCTIVE VANGUARD (The God King's Nobles)\n          - Military: Endless legions of high-tier, beautiful Eternal units.\n          - Strategy: Cultural seduction, soft power, territorial erosion.\n          \n  RANK 2: THE SILVER CRUSADE (Remnants of the Light)\n          - Military: The largest, most disciplined mortal army on the planet.\n          - Strategy: Total economic embargo, military blockades, fanatical war.\n          \n  RANK 3: THE UMBRAL COURT (The Lone Wolf Syndicate)\n          - Military: Elite stealth assassins, rogue Sourcerers, black-market muscle.\n          - Strategy: Financial control, hoarding anti-divine relics, shadow war.\n          \n  RANK 4: THE SOUTHERN LIZARD EMPIRE (The Crimson Vassals)\n          - Military: Elite cohorts, fire-breathing infantries, Red Dragons.\n          - Strategy: Expanding your colonial reach under the Red Prince's banner.\n          \n  RANK 5: THE ETERNAL THRONE (Your Fragile Empire)\n          - Military: You, Malady, General Kaelen, and a few elite Voidwoken defectors.\n          - Strategy: High-stakes stealth, pinpoint assassinations, rebuilding from zero.\n================================================================================\n\n```\n## CHAPTER V: POTENTIAL CORE CAMPAIGN NARRATIVE ARCS\n### Act I: The Hollow Throne & The Silver Crisis\nThe campaign opens in the high-spire city of Arx, roughly six months after your bloody ascension at the First Garden. The spires of the grand cathedral have been re-decorated with banners of emerald green and absolute black, bearing your personal crest of the crescent moon and the broken sword. Yet beneath this immaculate surface, your empire is starving.\nBy purging Lucian\u2019s loyalists, you shattered the logistics of the realm. The **Silver Crusade**, a fanatical military coalition unified under the command of **Grand Paladin Hardwin** (a Level 18 Vengeance Paladin), has established a total economic embargo in the northern territories. They have locked down the grain routes, intercepted tax convoys, and hanged your newly appointed local enforcers. Arx is weeks away from a famine, and the common folk are beginning to whisper that a false, monstrous deity sits upon the throne. Worse, the **Umbral Court**\u2014the wealthy syndicate of rogue Sourcerers and Lone Wolf assassins\u2014is covertly financing the Crusade to keep you distracted while they search the ruins of the world for ancient, anti-divine weaponry.\nBecause you lack a massive standing army, you cannot wage a conventional war of attrition. You must rely on your high Dexterity, your medium armor, and your *Source Vision* to operate as a divine shadow.\n```\n                       [ACT I OPERATIONS: FORT JOY]\n  \n     [Northern Perimeter] ---> Patrolled by Elite Silver Paladins (Lv. 14-16)\n     [Shadow Vector]       ---> Your Entry Path (Utilizing Invisibility & Stealth)\n     [War Room Core]       ---> Target: Grand Paladin Hardwin (Lv. 18)\n\n```\nThe first major plot movement involves an infiltration of the historic fortress of Fort Joy, which Hardwin has converted into a massive, heavily fortified staging ground for his impending march on Arx. You and your elite companions\u2014**Malady**, serving as your spymaster, and **General Kaelen**, your Eternal warlord\u2014slip into the fortress under the cover of a magical tempest. Using *Source Vision*, you peer through the solid stone walls of the keep, tracking the exact locations and movements of the Paladin captains.\nYou do not fight them in the courtyard. Instead, you slide through the corridors like a ghost, using *Subtle Spell* to cast *Silence* and *Hold Person*, executing the leadership in absolute darkness before they can sound their alarms. Every blade strike is infused with your *Source Smite*, converting radiant energy into cold, un-resistible force.\nWhen you finally corner Grand Paladin Hardwin in his war room, the confrontation serves as your first major geopolitical milestone. You are faced with a definitive choice: you can slaughter him brutally, using your newly unlocked **Deathfog Radiance** to reduce his entire guard to ash and raising them as undead thralls to march back to Arx as a grim warning, or you can leverage your *Immaculate Presence* and high Charisma to psychologically break his fanaticism, seducing him into believing that your absolute rule is the only thing preventing the universe from dissolving into the Void.\n```\n                  ========================================\n                           THE FORT JOY DILEMMA\n                  ========================================\n                 /                                        \\\n     [THE PATH OF BRUTALITY]                      [THE PATH OF SEDUCTION]\n     Deploy Deathfog Radiance.                     Leverage Immaculate Presence.\n     Annihilate the Crusade's leadership.          Break Hardwin's religious dogma.\n     Result: Total terror, Undead thralls.         Result: Fanatical new vassals.\n\n```\nThe climax of Act I occurs when the Umbral Court attempts to capitalize on the chaos by deploying a massive mercenary armada to blockade the harbor of Arx, using a stolen Eternal relic known as the *Aeteran\u2019s Shard* to create a magical field that neutralizes standard spellcasting. To break the blockade, you utilize your **Ghost-Walk of the Veil**.\nYou dissolve your body into pure emerald light, gliding invisibly across the surface of the harbor and passing directly through the wooden hulls of their flagships. You materialize silently within their powder rooms, your rapiers flashing once in the dark before you vanish back into the Veil. The night sky over Arx burns with the brilliant fire of exploding war galleys. By the end of this act, the Silver Crusade is broken, the Umbral Court has been forced to pay massive financial tributes to your treasury, and The Eternal Throne rises to **Rank 3** on the global ladder.\n### Act II: The Court of Silk and Ash\nWith the immediate mortal rebellions crushed and the treasury replenished by the Umbral Court\u2019s stolen gold, the nature of the campaign shifts from an open, bloody civil war to an elegant, high-stakes cold war. The fabric of the Veil is growing thin. The God King, recognizing that you cannot be easily broken by conventional military might, alters his strategy. He deploys **The Seductive Vanguard**\u2014a massive court of high-tier, breathtakingly beautiful Eternal nobility\u2014across the threshold of the Void.\nThey do not launch an invasion of swords and fire. Instead, they construct a magnificent, sprawling city of shifting obsidian architecture and white silk on the borders of the Reaper's Coast. Led by **Emissary Isara**, an ancient Eternal of haunting grace and terrifying political intellect, they begin a campaign of cultural seduction. They offer the war-weary local mortal lords everything your fragile empire cannot yet guarantee: limitless agricultural yields, protection from rogue monsters, and ancient secrets of life-extending magic. They are systematically stealing the allegiance of your subjects without spilling a single drop of blood.\n```\n                      [THE REAPER'S COAST COLD WAR]\n  \n   [THE ETERNAL THRONE]                           [THE SEDUCTIVE VANGUARD]\n   - Rules from Arx (Rank 3)                      - Rules from Obsidian Spire (Rank 1)\n   - Enforces through shadow law                  - Enforces through soft-power luxury\n   - Resource: Raw individual divinity            - Resource: Endless Void architecture\n\n```\nThe central movement of this act revolves around a grand diplomatic gala hosted by Emissary Isara at her shimmering palace, the Black Onyx Spire. It is a trap of soft power. To refuse the invitation would reveal weakness to your subjects; to attend and simply slaughter the hosts would trigger an immediate, apocalyptic invasion from the Void before your administration is stable enough to survive it.\nYou attend the gala alongside Malady and the Red Prince, dressed in custom, immaculate formalwear designed to match the dark aesthetic of the Eternal lords. The gameplay transitions into an intricate web of social espionage, covert poisonings, and silent magical duels beneath the gaze of hundreds of aristocrats.\n```\n================================================================================\n                    THE BLACK ONYX GALA: OPERATIONAL VECTORS\n================================================================================\n  [Vector A: Social Sedition]  Using Source-Beast Seduction to turn Isara's \n                               captains against her by demonstrating your mass \n                               of internal Source.\n                               \n  [Vector B: Shadow Elimination] Intercepting Void zealots in the silk gardens \n                               using maximum Dexterity and Subtle Spell to \n                               kill silently without raising alarms.\n================================================================================\n\n```\nWhile the Red Prince occupies the attention of the court with grand displays of his dragon-backed lineage, you use your high Dexterity to slip into the private quarters of the palace. Along the way, you leverage your Level 22 feature, **Source-Beast Seduction**. The Eternal nobles, fundamentally attuned to the cosmic energy of the world, find themselves physically intoxicated by the massive, concentrated volume of Source residing within your flesh. You do not merely negotiate; you seduce. You discover that many of these beautiful Voidwoken do not wish to return the God King to absolute power\u2014they are terrified of his eternal malice and have grown fond of the luxuries of the material world.\nBehind the scenes, a radical faction of Isara\u2019s zealots attempts to assassinate Malady using a specialized dagger that rots the soul. You intercept them within the labyrinthine silk gardens of the spire. The combat is resolved in single rounds of absolute, high-initiative violence: your finesse blades cut through their silk attire before they can utter a single verbal component or call for aid.\nThe climax of Act II occurs when you turn the God King's weapon against him. Having subverted Isara\u2019s top generals through psychological manipulation and the promise of a shared empire, you orchestrate a coup during her final court session. Left completely isolated, Isara attempts to rip open a massive rift to the Void to consume the palace.\nYou deploy **The Great Dampening**, instantly choking the flow of magic within the room. She watches in absolute horror as her spells fizzle into meaningless sparks. You step forward from the shadows, claim her life, and absorb her remaining essence. The Seductive Vanguard defects to your side, bending their knees to you as their true Divine ruler. The Eternal Throne claims the **Rank 1** position on the world stage.\n### Act III: The War for the Cosmos\nThe God King\u2019s patience has reached its absolute limit. His political maneuvers have failed, his vanguard has defected, and you have consolidated the entire planet under an immaculate, tyrannical peace. The skies over Rivellon turn the color of bruised iron as the Veil begins to tear open completely. This is no longer a localized political conflict; it is an existential war for the cosmic ledger.\nAs a Level 26 to 30 powerhouse, you now command an unstoppable empire comprising the remnants of the mortal races, elite dragon-riders, and legions of beautiful, defected Voidwoken lords. Yet the God King is unleashing his full, primordial reserves, tearing massive cosmic rifts directly above the world's major population centers, pouring forth titanic horrors alongside armies of monstrous, un-deceived Voidwoken.\n```\n                     [THE WAR FOR THE VEIL ANCHORS]\n  \n     [THE ASTRAL RIFT]  ------------> Drops Titanic Void Horrors\n           |\n           v\n     [THE BLACKPITS]    ------------> Dallis's Subterranean Core\n           ^\n           |\n     [YOUR DEFENSE VECTOR] ---------> Utilizing Time Stop, Wish, and High-Dex Smites\n\n```\nThe first major movement of this act requires you to leave your throne and lead an offensive campaign into the deep recesses of the world. You journey to the long-abandoned subterranean research facilities of Dallis the Hammer, hidden deep beneath the Blackpits. Utilizing your **Source Vision**, you decipher her uncompleted masterpieces: the *Veil Anchors*, ancient mechanical towers capable of weaving the fabric of reality back together through raw force.\nWhile your army holds the perimeter against waves of primordial horrors, you move through the shadows of the facility, utilizing your 9th-level arcana\u2014such as *Time Stop* and *Wish*\u2014to systematically activate the anchors while your rapiers slice through any entity that manages to breach the inner sanctum.\nTo locate the path to the God King's personal throneroom within the deepest abyss of the Void, you must perform a dark pilgrimage to the Hall of Echoes. There, you hunt down the fading, rotting souls of the ancient Seven Gods who once ruled Rivellon. In a series of surreal, extra-planar hunts, you use your high-Dexterity stealth to ambush these fading deities, utilizing **Source Consumption** to extinguish their remaining sparks, absorbing their divine domains to fuel your final ascent to Level 30.\n```\n================================================================================\n                    THE APOTHEOSIS SIMULATION: THE FINAL TURN\n================================================================================\n  1. STEALTH PHASE:     Dexterity (20) + Ghost-Walk of the Veil bypasses the \n                        God King's legendary reactions and defensive screens.\n                        \n  2. DE-BUFF PHASE:     Cast 10th-Level Spell \"Annihilation of the Void,\" \n                        permanently stripping the God King's immunities.\n                        \n  3. EXECUTION PHASE:   Multi-attack action + Un-capped Epic Source Smites \n                        bypassing standard 5e damage limitations.\n================================================================================\n\n```\nThe grand finale of the campaign takes place within the absolute Maw of the Void\u2014a realm of non-Euclidean obsidian architecture where the laws of physics and standard D&D mechanics dissolve. The **Level 30 God King** awaits you, a towering monolith of primordial malice and absolute authority over the dark. He possesses the power to alter the initiative order at will, regenerate hundreds of hit points per round, and unravel a character's mind with a single legendary action.\nBut you are no longer just a mortal software architect of magic; you are the undisputed *Tyrant Divine*. The final battle begins as your inner circle clashes with his vanguard. You activate your maximum Dexterity and *Ghost-Walk of the Veil*, passing entirely through his defensive screens to appear directly within his shadow.\nYou expend your custom **10th-Level Spell Slot** to cast *Annihilation of the Void*. A shockwave of pure, blinding emerald light ripples outward, permanently shattering the God King\u2019s primordial immunities and tearing his cosmic defenses from his frame.\nBefore he can recover, you execute your full multi-attack action. Your finesse blades strike with impossible velocity, infusing every hit with your un-capped epic *Source Smites*. The damage numbers break the standard constraints of the rules system, carving through his remaining essence in a single turn of coordinated, silent violence.\nAs the God King collapses, you trigger your ultimate *Source Consumption*, ripping his gargantuan soul from his frame and swallowing it whole. The Void does not vanish; it changes ownership. The sky over Rivellon clears, turning a crisp, permanent emerald green. You return to your obsidian throne room in Arx, looking down upon a world that is completely silent, completely secure, and entirely yours.\n## CHAPTER VI: POTENTIAL FUTURE PLOT ARCS (THE INFINITE HORIZON)\nThe campaign does not necessarily have to conclude with the death of the God King. When an individual character claims absolute dominion over both the material plane of Rivellon and the infinite expanse of the Void, the cosmic scale expands into uncharted territory. The following sections represent potential future plot arcs that may or may not occur, serving as conceptual blueprints for post-Level 30 play depending on how your world evolves.\n```\n                    =================================\n                         THE INFINITE HORIZON MAP\n                    =================================\n                   /                                 \\\n       [THE COSMIC DEEP ARC]                 [THE INTERNAL WAR ARC]\n       Invasion of Foreign Deities.          Psychological Fracture.\n       Astral Armada Warfare.                Hunting Subconscious Phantoms.\n       Scale: Interstellar Multiverse.       Scale: Introspective Dungeon.\n\n```\n### Arc A: The Call of the Cosmic Deep\n#### The Catalyst\nBy consuming the God King and absorbing the total volume of Rivellon\u2019s Source, your magical signature becomes a blazing star in the dark fabric of the multiverse. You are no longer a local deity hidden away behind a fragile Veil; you are a cosmic anomaly\u2014a single, stealth-focused Tyrant Divine who has proven capable of systematically executing and eating an entire pantheon.\nEntities from worlds far beyond Rivellon\u2014planar travelers, elder evils of the deep astral sea, and ancient interstellar pantheons\u2014take immediate notice of the sudden extinction of the God King.\n#### The Threat\nA collective of foreign deities, terrified that your empire will eventually expand beyond the boundaries of Rivellon to hunt their own spheres of influence, forms a massive cosmic coalition. They do not attempt a traditional invasion; instead, they launch a permanent quarantine spell. They deploy cosmic anchors designed to phase your entire planet out of time and space, locking Rivellon in an isolated, frozen stasis demiplane where no Source can regenerate.\n#### Potential Gameplay Trajectory\nTo save your world from permanent isolation, you must transition your empire into an inter-planar superpower. You lead your beautiful Voidwoken nobility and the Red Prince\u2019s dragon-riders into the Astral Sea, constructing massive skyships forged from obsidian and fueled by pure Source. The campaign shifts from a defensive struggle for Rivellon into an offensive crusade across foreign planes. You utilize your high-stealth mechanics to slip into the heavens of rival gods, systematically assassinating their solar captains and dismantling their cosmic machinery to ensure your absolute freedom.\n### Arc B: The Internal Echoes (The War Within)\n#### The Catalyst\nYou hold the souls, memories, and egos of Lucian the Divine, Dallis the Hammer, the Seven Gods, and the God King within your single, consolidated consciousness. While your individual will is absolute, the sheer psychological mass of these conflicting divine entities begins to manifest as a literal, physical fracture within your empire. You are an un-contested monarch, but your mind is a crowded graveyard.\n#### The Threat\nPhantoms of Lucian\u2019s light and the God King\u2019s original monstrous form begin to manifest spontaneously across the provinces of Rivellon. These are not real resurrections; they are physical projections formed from the rogue thoughts, nightmares, and stresses of your own subconscious mind.\nYour subjects begin witnessing \"Miracles of the Pure Light\" in distant villages, sparking a new, ghostly rebellion. This insurgency is uniquely terrifying because your *Source Vision* cannot track its origin from the outside\u2014the signatures trace back directly to your own throne room.\n#### Potential Gameplay Trajectory\nThis arc represents a deeply psychological, introspective dark fantasy dungeon crawl. To save your empire from being torn apart by your own thoughts, you and your inner circle must utilize a specialized ritual designed by Malady to enter your own subconscious mind. Your mind is represented as a massive, non-Euclidean level-30 dungeon where your memories have taken the form of lethal traps and elite guardians.\nYou must use your high-Dexterity stealth to hunt down and assassinate the ghosts of the people you consumed, moving through the memories of Fort Joy, the Blackpits, and the First Garden within your own brain, executing the phantoms of Lucian and the God King one last time to achieve true, un-fractured, and eternal peace.\n### Metadata\n * **Word Count:** 3,124 words\n * **Estimated Token Count:** ~3,940 tokens"
+    },
+    "character_creation_stage": "complete",
+    "next_companion_arc_turn": 8,
+    "active_missions": [
+      {
+        "title": "The Silent Ledger",
+        "status": "accepted",
+        "mission_id": "silent_ledger",
+        "objective": "Retrieve the list of Silver Crusade double-agents from the sunken vault."
+      }
+    ],
+    "companion_arcs": {
+      "Malady": {
+        "phase": "discovery",
+        "arc_type": "dark_secret",
+        "progress": 10,
+        "history": [
+          {
+            "event": "Malady received a letter with a black seal, visibly rattling her cool facade.",
+            "turn": 6
+          }
+        ]
+      }
+    },
+    "success_streak": 0,
+    "_agent_selection_tracker": {
+      "count": 1,
+      "agent": "RewardsAgent",
+      "rewards_skip_count": 1
+    },
+    "reputation": {
+      "public": {
+        "score": -10,
+        "notoriety_level": "known",
+        "known_deeds": [
+          "Purged Arx of Crusade collaborators",
+          "Seized merchant stockpiles"
+        ]
+      }
+    },
+    "character_creation_completed": true,
+    "last_location": "Arx - Sunken Vault Records Chamber",
+    "sovereign_objectives": {
+      "primary": "Consume the God King and Conquer the Void",
+      "strategic_pillars": [
+        "Source Proliferation",
+        "Eternal Nobility Seduction",
+        "Planar Integration"
+      ]
+    },
+    "core_memories": [
+      "Aethelred's divine arsenal has been upgraded to +3 Sovereign gear, and the Eternal Throne's starting treasury is set at 50,000 gold.",
+      "Aethelred (Lvl 12) has taken the Eternal Throne in Arx, inheriting a fractured empire threatened by the Silver Crusade's economic embargo.",
+      "Aethelred (Lvl 12) has fully initialized his divine spellbook and arsenal, ready to confront the Silver Crusade's embargo from the Eternal Throne.",
+      "Malady and Kaelen briefed Aethelred on Fort Joy's strategic importance as the 'throat of the north' and the primary staging ground for the Silver Crusade's embargo.",
+      "The Silver Crusade has begun public executions of Source-sympathizers in the outskirts of Arx to enforce their ideological blockade.",
+      "Aethelred masterfully purged Arx of Silver Crusade sympathizers, seizing their grain stockpiles and fortifying his psychological grip on the city.",
+      "Aethelred successfully interrogated the captured merchant lords, revealing that Hardwin's anti-divine relic is stored in a sunken vault beneath Fort Joy's harbor.",
+      "Aethelred hired a Lone Wolf strike force for 10,000 gold and leashed Chancellor Bramwell to stabilize Arx's economy, but Hardwin learned of the purge via a leak.",
+      "Aethelred used Haste and Misty Step to reach the harbor warehouse before the scuttling was complete, only to be ambushed by Silver Shield Inquisitors wielding a Source-Dampening relic.",
+      "Aethelred collapsed the harbor warehouse roof on a squad of Silver Shield Inquisitors, successfully Disrupting a Source-Dampening field.",
+      "Aethelred executed the Silver Shield ambushers and learned of a 'Silent Ledger' containing double-agent names hidden within the sunken vault.",
+      "Aethelred accepted Malady's quest to retrieve the Silent Ledger and seized the inert Source-Dampener relic after executing the Silver Shield ambushers.",
+      "Aethelred successfully infiltrated the sunken vault's entrance via the lift shaft chains, but encountered a Soul-Scourge Circle ward guarding the base.",
+      "Aethelred executed a silent aerial ambush at the base of the sunken vault's lift shaft, neutralizing the primary watchers before the Soul-Scourge Circle alarm could be triggered.",
+      "Aethelred executed one Silver Shield Inquisitor at the vault base but left the second wounded, creating a race to prevent the Soul-Scourge alarm from triggering.",
+      "Aethelred successfully executed the Silver Shield guards at the base of the vault lift without triggering the Soul-Scourge alarm, securing the entrance to the sunken vault.",
+      "Aethelred's identity is defined by 'Aesthetic Absolutism' and the 'Emerald Peace'\u2014a motivation to enforce absolute order through immaculate, divine tyranny.",
+      "Aethelred has declared his Sovereign Path: To proliferate Source, secure the Eternal Nobility through distribution of power, and eventually consume the God King to annex the Void.",
+      "Aethelred neutralized the Soul-Scourge ward and mapped the vault's internal patrols, but a mechanical noise has alerted the guards to potential movement near the lift.",
+      "Captain Kester triggered a general alarm in the sunken vault after surviving Aethelred's Haste-fueled blitz, leaving the Divine Sovereign temporarily vulnerable.",
+      "Aethelred's divine equipment was ascended to Sovereign (+5) tier, incorporating unique Eternal artifacts like The Devourer's Embrace and The Duellist's Masterpiece.",
+      "Aethelred's divine rapiers are set to Sovereign (+3) tier, infused with 2d8 Force and Necrotic damage respectively to reflect his burgeoning Source monopoly.",
+      "Aethelred survived a brutal ambush by Captain Kester while frozen in Haste lethargy, his Sovereign armor and divine constitution narrowly preserving him as the vault alarm blared.",
+      "Aethelred subjected the Silver Shield patrol to the 'Sovereign Path,' wounding Captain Kester and psychically forcing his guards to grovel before his divine majesty.",
+      "Aethelred executed Captain Kester and psychically enslaved the patrol, turning them into devoted meat-shields for his audit of the sunken vault.",
+      "Aethelred successfully integrated his Level 13 divinity, gaining the Veil Striker feature and the 7th-level arcana 'Finger of Death' while the vault garrison closed in.",
+      "Aethelred snatched Captain Kester's signet ring and crippled the vault garrison with a devastating psychic shockwave, securing his path to the Silent Ledger.",
+      "Aethelred breached the inner records chamber of the sunken vault using Captain Kester's signet ring, though the tactical search for extra sigils was a failure."
+    ],
+    "divine_potential": 0,
+    "attribute_system": "D&D",
+    "major_event_pressure_budget": {
+      "new_major_event": false,
+      "special_circumstances": false,
+      "window": "24h",
+      "major_events_this_window": 1,
+      "rationale": "The Lone Wolf strike is a consequence of previous planning; focusing on the tactical breach of the vault."
+    },
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "level_up_in_progress": false,
+    "level_up_pending": false,
+    "completed_missions": [],
+    "character_creation_in_progress": false,
+    "level_up_complete": false,
+    "campaign_tier": "divine",
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false,
+    "universe_control": 0
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "in_combat": false,
+    "rewards_processed": true,
+    "combat_phase": "ended",
+    "combat_summary": {
+      "enemies_defeated": [
+        "npc_inquisitor_c",
+        "npc_inquisitor_d"
+      ],
+      "rounds_fought": 2,
+      "xp_awarded": 2000,
+      "loot_distributed": true
+    }
+  },
+  "last_state_update_timestamp": "2026-06-27 11:00:09.798000+00:00",
+  "turn_number": 23,
+  "player_turn": 23,
+  "last_living_world_turn": 15,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 13,
+    "minute": 41,
+    "time_of_day": "afternoon",
+    "day": 15,
+    "year": 1492,
+    "month": "Mirtul"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "Sunken Vault - Records Chamber / High Alert",
+    "thinking": "The parallel attempt was inefficient, and the search of the garrison provided no extra loot. However, the records chamber is now open. I am inside the high-security archive. The alarm is still active, so I must find the Silent Ledger before the primary vault security or an Inevitable is dispatched to investigate the breach. My Source Vision will be critical here.",
+    "choices": [
+      {
+        "id": "search_source_vision",
+        "text": "Source Vision Audit",
+        "risk_level": "low",
+        "description": "Use your 1-mile Source tracking to look for the unique signature of the Silent Ledger\u2014it likely hums with the residual energy of the names inscribed within."
+      },
+      {
+        "id": "interrogate_record_spirit",
+        "text": "Summon Hall of Echoes Echo",
+        "risk_level": "medium",
+        "description": "Use your Source Soul to temporarily pull a fragment of a deceased archivist's memory from the Veil to point you directly to the Ledger."
+      },
+      {
+        "id": "set_ambush_entrance",
+        "text": "Trap the Entrance",
+        "risk_level": "medium",
+        "description": "Use Wall of Force or a Quickened Sickening Radiance to seal the records chamber door behind you, ensuring no one interrupts your search."
+      },
+      {
+        "id": "parallel_synergistic",
+        "text": "Systematic Audit (Synergistic)",
+        "risk_level": "medium",
+        "description": "Using Source Vision to scan the shelves while your thralls physically pull crates\u2014maximizing search speed before the garrison reinforcements arrive.",
+        "analysis": {
+          "combination_type": "synergistic",
+          "synergy_bonus": "The combination of divine tracking and physical labor allows you to audit the entire archives in half the time, potentially finding the Ledger before the door is breached.",
+          "dc_modifier": 0,
+          "coordination_dc": 16
+        }
+      }
+    ]
+  },
+  "world_events": {
+    "background_events": [
+      {
+        "fired_at": 2,
+        "outcome": "The northern trade routes are effectively severed; famine looms in Arx.",
+        "hidden": false,
+        "actor": "Grand Paladin Hardwin",
+        "action": "Consolidating forces at Fort Joy to maintain the northern blockade",
+        "id": "hardwin_fort_joy_blockade",
+        "location": "Fort Joy",
+        "created_at": 2,
+        "scheduled_for": {
+          "turn": 3
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "fired_at": 5,
+        "event_type": "immediate",
+        "outcome": "Three merchants executed; fear and tension spike within the lower districts of Arx.",
+        "hidden": false,
+        "location": "Arx Outskirts",
+        "action": "Executing suspected Source-sympathizers at the northern crossroads",
+        "id": "crossroads_executions",
+        "actor": "Grand Paladin Hardwin",
+        "created_at": 5,
+        "scheduled_for": {
+          "turn": 6
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "fired_at": 8,
+        "event_type": "immediate",
+        "outcome": "Harbor approach is becoming physically obstructed by sunken hulls.",
+        "hidden": false,
+        "actor": "Grand Paladin Hardwin",
+        "action": "Ordering Silver Shields to scuttle civilian vessels in Arx harbor",
+        "id": "hardwin_harbor_scuttle",
+        "location": "Arx Harbor",
+        "created_at": 8,
+        "scheduled_for": {
+          "turn": 9
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "fired_at": 11,
+        "event_type": "immediate",
+        "outcome": "Hardwin's attention is diverted to the north, weakening the harbor guard presence but triggering high-alert status.",
+        "hidden": false,
+        "location": "Arx North Gates",
+        "action": "Lone Wolf strike teams engage the Silver Crusade's northern perimeter",
+        "id": "lone_wolf_north_strike",
+        "actor": "The Umbral Court",
+        "created_at": 11,
+        "scheduled_for": {
+          "turn": 12
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "fired_at": 18,
+        "outcome": "All guards in the vault are now on high alert and converging on the lift shaft.",
+        "actor": "Captain Kester",
+        "action": "Triggering crystalline alarm system",
+        "id": "vault_general_alarm",
+        "location": "Sunken Vault Interior",
+        "created_at": 18,
+        "op": "fire",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {},
+  "rumors": [
+    {
+      "content": "The Silver Crusade is searching for an ancient relic to neutralize Source magic.",
+      "source_type": "guard",
+      "related_event": "hardwin_fort_joy_blockade",
+      "accuracy": "true"
+    },
+    {
+      "content": "A high-tier Voidwoken was spotted near the Reaper's Coast wearing Eternal silks.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A Lone Wolf captain was seen meeting with a Silver Crusade lieutenant in secret.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Silver Shields are searching for a 'traitor' in the merchant's guild who survived the purge.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Silver Shields are moving the Aeteran's Shard to a deeper level of the vault.",
+      "source_type": "guard",
+      "related_event": "hardwin_harbor_scuttle",
+      "accuracy": "true"
+    }
+  ],
+  "schema_migration_version": 1,
+  "level_up_session": {
+    "source": "model",
+    "status": "complete",
+    "last_error": null,
+    "current_level": 13,
+    "review_open": false,
+    "selections": {},
+    "completed_at_story_id": null,
+    "entered_at_story_id": null,
+    "source_story_id": "unknown",
+    "target_level": 13
+  },
+  "time_events": {},
+  "schema_migrated_at": "2026-06-24T07:54:00.506883+00:00",
+  "session_id": "legacy-migrated-c304caaa5e1af3e6",
+  "frozen_plans": {
+    "vault_execution_synergy": {
+      "original_dc": 16,
+      "freeze_until": "17:47:00",
+      "failed_at": "13:47:00",
+      "description": "Execute & Intimidate synergy",
+      "freeze_hours": 4
+    }
+  },
+  "faction_updates": {
+    "The Silver Crusade": {
+      "resource_change": "Scouts lost to mercenaries",
+      "player_standing_change": "Hostile/Existential Threat",
+      "progress": "High Alert",
+      "next_action": "Reinforcing the harbor warehouse with elite paladins",
+      "current_objective": "Repel Lone Wolf incursions while securing the sunken vault"
+    },
+    "The Eternal Throne": {
+      "resource_change": "50,000 gold treasury established",
+      "player_standing_change": "Sovereign Leader",
+      "progress": "Fragile baseline",
+      "next_action": "Deployment to Fort Joy or internal purges",
+      "current_objective": "Stabilize Arx and break the Silver Crusade embargo"
+    }
+  }
+}

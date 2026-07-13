@@ -1,0 +1,1251 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "class": "Bard (College of Swords)",
+    "attributes": {
+      "strength": 8,
+      "dexterity": 16,
+      "intelligence": 20,
+      "wisdom": 22,
+      "charisma": 22,
+      "constitution": 8
+    },
+    "race": "Human (Julian Bloodline)",
+    "ac": 22,
+    "description": "Gaia Julia Caesar, 16-year-old Princess and Master of Spies. Legally recognized as a Julian of the Mediolanum branch. Level 12 Bard (College of Swords) and the shadow-architect of the Empire.",
+    "gender": "Female",
+    "spells_known": [
+      {
+        "level": 5,
+        "name": "Hold Monster"
+      },
+      {
+        "level": 6,
+        "name": "Mass Suggestion"
+      }
+    ],
+    "resources": {
+      "gold": 60000000,
+      "miasmatic_echo": {
+        "current": 1,
+        "used": 0,
+        "max": 1
+      },
+      "spell_slots": {
+        "level_6": {
+          "current": 1,
+          "max": 1
+        },
+        "level_2": {
+          "current": 3,
+          "max": 3
+        },
+        "level_4": {
+          "current": 2,
+          "max": 3
+        },
+        "level_5": {
+          "current": 1,
+          "max": 2
+        },
+        "level_1": {
+          "current": 3,
+          "used": 1,
+          "max": 4
+        },
+        "level_3": {
+          "current": 3,
+          "max": 3
+        }
+      },
+      "class_features": {
+        "bardic_inspiration": {
+          "current": 2,
+          "used": 2,
+          "max": 6
+        }
+      },
+      "metamagic_points": {
+        "current": 0,
+        "used": 1
+      }
+    },
+    "experience": {
+      "needed_for_next_level": 120000,
+      "progress_display": "100,100 / 120,000 XP (Level 13 Available)",
+      "current": 105100,
+      "to_next_level": 14900
+    },
+    "name": "Gaia Julia Caesar",
+    "base_attributes": {
+      "strength": 8,
+      "dexterity": 16,
+      "intelligence": 20,
+      "wisdom": 22,
+      "charisma": 20,
+      "constitution": 8
+    },
+    "features": [
+      "Miasmatic Echo: Use bonus action to gain Advantage on next Persuasion/Intimidation check (1/LR).",
+      "Miasmatic Resonance: +1 bonus to Spell Save DC and Spell Attack rolls (Permanent).",
+      "Font of Inspiration: Recover Bardic Inspiration on Short or Long Rests.",
+      "Countercharm: Use an action to grant advantage on saves against being frightened or charmed.",
+      "Extra Attack: Attack twice per Attack action.",
+      "Master of Spies (The Julian Hand): Absolute command over the Imperial Intelligence Network.",
+      "Network: Umbra Venari (100 Level 12 Gloomstalker/Assassins - Level-linked to Gaia)",
+      "Network: Artes Silentii (100 Level 12 Magic/Technical Specialists - Level-linked to Gaia)",
+      "Master of the Silent Web: You gain a +5 bonus to any check involving your spy networks.",
+      "Psychology of the Chains (Mastery): Subjugated enemies are 50% more likely to become loyal assets."
+    ],
+    "hp_max": 56,
+    "level": 12,
+    "skills": [
+      "Deception (Expertise)",
+      "Persuasion (Expertise)",
+      "Intimidation (Expertise)",
+      "Performance (Expertise)",
+      "Stealth (Expertise)",
+      "Investigation (Expertise)",
+      "Insight (Expertise)"
+    ],
+    "hp_current": 56,
+    "age": 16,
+    "inventory": [
+      "Backpack",
+      "Bedroll",
+      "Mess kit",
+      "Tinderbox",
+      "Torch (10)",
+      "Rations (10 days)",
+      "Waterskin",
+      "Rope (50 feet)",
+      "Coin pouch (10gp)",
+      "Tyrian Weave (Studded Leather +1)",
+      "Veritas (Gladius +1)",
+      "Silentium (Dagger +1)",
+      "Satchel of Holding (50,000 Gold)",
+      "Rebel Mountain Sketch",
+      "Knotted Thracian Signal Coin",
+      "Satchel of Holding (50,000,000 Gold)",
+      "Signet of the Shadow Decree (+2 Spell DC)",
+      "Band of the Miasmatic Crown (+2 Spell DC)",
+      "Shadow-Thread Stola (Legendary +3)",
+      "The Julian Scepter (+3 Rapier)",
+      "Silentium (Dagger +3)",
+      "Imperial Gala Stola (100,000 Gold Value)"
+    ],
+    "proficiency_bonus": 4,
+    "active_effects": [
+      "Roman Commoner Persona: Legal status is that of a free-born citizen, not a slave.",
+      "Boon: Scion of the Shadow Cant (+2 Investigation/Insight, Miasmatic Echo 1/LR)",
+      "Mask of the Predator: High-tier NPCs (Spartacus/Glaber/Doctore) sense the lethal strategic actor behind the mask.",
+      "Julian Scion (Mediolanum): Legal Julian status granted (+2 to CHA checks with Roman Nobility)."
+    ],
+    "equipment": {
+      "neck": {
+        "equipped": true,
+        "stats": "+2 CHA (Max 22), Resistance to Radiant/Necrotic",
+        "name": "Palladium of Venus"
+      },
+      "ring_2": {
+        "equipped": true,
+        "stats": "+2 Spell Save DC",
+        "type": "ring",
+        "name": "Band of the Miasmatic Crown"
+      },
+      "armor": {
+        "equipped": true,
+        "stats": "+3 AC, Adv on Stealth, Greater Invisibility 1/LR",
+        "ac": 18,
+        "type": "light",
+        "name": "Shadow-Thread Stola (Legendary +3)"
+      },
+      "weapons": [
+        {
+          "damage": "1d6+6",
+          "equipped": false,
+          "stats": "+3 Atk/Dmg",
+          "type": "shortsword",
+          "name": "Veritas (Gladius +3)"
+        }
+      ],
+      "main_hand": {
+        "damage": "1d8+6",
+        "equipped": true,
+        "stats": "+3 Atk/Dmg, +3 Spell Attack/DC, Spend Inspiration to reduce damage (Reaction)",
+        "type": "rapier",
+        "name": "The Julian Scepter (+3 Rapier)"
+      },
+      "head": {
+        "equipped": true,
+        "name": "Golden Laurel (Ring of Mind Shielding)"
+      },
+      "cloak": {
+        "equipped": true,
+        "name": "Cloak of the Senate (Cloak of Protection +1)"
+      },
+      "backpack": [
+        "Satchel of Holding",
+        "50,000 Gold",
+        "Letters of Credit",
+        "Fine Wine",
+        "Disguise Kit",
+        "Satchel of Holding (50,000,000 Gold)"
+      ],
+      "off_hand": {
+        "damage": "1d4+6",
+        "equipped": true,
+        "stats": "+3 Atk/Dmg",
+        "type": "dagger",
+        "name": "Silentium (Dagger +3)"
+      },
+      "ring_1": {
+        "equipped": true,
+        "stats": "+2 Spell Save DC",
+        "type": "ring",
+        "name": "Signet of the Shadow Decree"
+      },
+      "boots": {
+        "equipped": true,
+        "name": "Sandals of Hermes (Boots of Elvenkind)"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 1,
+      "minute": 45,
+      "hour": 2,
+      "time_of_day": "Deep Night",
+      "year": -65,
+      "day": 17,
+      "month": "October"
+    },
+    "global_tension": "High (Rise of the Julian Sun)",
+    "current_location_name": "Rome - The Subura"
+  },
+  "npc_data": {
+    "Praetor Glaber": {
+      "hp_current": 12,
+      "status": "TRIUMPHANT",
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 8,
+          "history": [
+            "Gaia delivered a bloodless victory for his command",
+            "Gaia reinforced his status as Jupiter's favored"
+          ]
+        }
+      }
+    },
+    "Gannicus": {
+      "hp_current": 52,
+      "hp_max": 52,
+      "tier": "general",
+      "level": 7
+    },
+    "Valerius": {
+      "current_cover": "Mercenary hired by Seppius",
+      "true_allegiance": "Gaia Julia Caesar",
+      "status": "conscious",
+      "present": true,
+      "role": "Praetorian Guard (Leader) / Mercenary Cover",
+      "string_id": "npc_valerius_001"
+    },
+    "Lucretia": {
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "grievances": [
+            "Senses a dangerous, un-Roman power in Gaia"
+          ],
+          "trust_level": -1,
+          "history": [
+            "Witnessed Gaia's magic",
+            "Sensed the Miasma",
+            "Challenged Gaia's nature during the march"
+          ]
+        }
+      }
+    },
+    "Seppius": {
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "grievances": [
+            "Terrified of Gaia's unknown power"
+          ],
+          "trust_level": -2,
+          "history": [
+            "Hired Gaia's 'mercenaries'",
+            "Witnessed Gaia's magic",
+            "Lost Gaia's contract to the noblewomen"
+          ]
+        }
+      }
+    },
+    "Oenomaus": {
+      "hp_current": 59,
+      "hp_max": 59,
+      "tier": "general",
+      "level": 7
+    },
+    "Ilithyia": {
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 4,
+          "history": [
+            "Saved from the rebels",
+            "Deeply sympathizes with Gaia's orphan story"
+          ]
+        }
+      }
+    },
+    "Caesarion": {
+      "status": "ACTIVE RIVAL",
+      "tier": "lord",
+      "level": 14
+    },
+    "Aurelia": {
+      "hp_current": 4,
+      "string_id": "npc_aurelia_001",
+      "status": "conscious",
+      "role": "Widow of Varro",
+      "hp_max": 4,
+      "description": "Widow of Varro, friend to Spartacus."
+    },
+    "Licinia": {
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 3,
+          "history": [
+            "Witnessed Gaia's miracle",
+            "Accepted Gaia's noble-bastard origin story"
+          ]
+        }
+      }
+    },
+    "Gaius Claudius Glaber": {
+      "hp_current": 20,
+      "status": "restored",
+      "relationships": {
+        "player": {
+          "trust_level": 4,
+          "history": [
+            "Saved his life through 'divine' intervention and preserved his honor in the square."
+          ]
+        }
+      }
+    },
+    "Spartacus": {
+      "status": "CAPTIVE",
+      "hp_max": 75,
+      "combat_stats": {
+        "ac": 16,
+        "initiative": 3,
+        "speed": 30
+      },
+      "level": 8,
+      "tier": "lord",
+      "hp_current": 75,
+      "string_id": "npc_spartacus_001",
+      "relationships": {
+        "aurelia": {
+          "description": "The wife of his fallen friend Varro; he feels a deep duty to protect her.",
+          "type": "friend_widow"
+        },
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 2,
+          "history": [
+            "Healed Aurelia in Capua",
+            "Sought a bloodless surrender at Mount Tifata",
+            "Offered to speak for his life with Glaber"
+          ]
+        }
+      }
+    },
+    "Crixus": {
+      "hp_current": 84,
+      "hp_max": 84,
+      "tier": "general",
+      "level": 7
+    },
+    "Octavian": {
+      "status": "ACTIVE RIVAL",
+      "tier": "lord",
+      "level": 14
+    },
+    "Glaber": {
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 3,
+          "history": [
+            "Healed him in the square",
+            "Claimed noble bastardy to explain magic"
+          ]
+        }
+      }
+    },
+    "Julia Minor": {
+      "status": "RELIGIOUS THREAT",
+      "tier": "noble",
+      "level": 13
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "sibling_relationships": {
+      "julia_major": {
+        "notes": "Social blackmail network fully restored.",
+        "faction_power": "Medium (Social Intelligence/Senate Wives)",
+        "status": "Social Informant",
+        "disposition": "neutral",
+        "trust_level": 2,
+        "level": 10
+      },
+      "octavian": {
+        "notes": "Accepted the 'Shadow/Light' hegemony; Audit permanently sealed.",
+        "faction_power": "High (Bureaucratic Loyalty/Praetorian Dissidents)",
+        "status": "Strategic Ally (Confirmed)",
+        "disposition": "neutral",
+        "trust_level": 7,
+        "knowledge": "Knows Julian identity; suspicious of 'divine bastard' mask; auditing Mediolanum records.",
+        "level": 11
+      },
+      "caesarion": {
+        "notes": "Egyptian flagship destroyed; blockade broken; Spy Network in Rome eliminated. Hostility set to MAXIMUM.",
+        "faction_power": "High (Eastern Fleet/Egyptian Treasury)",
+        "status": "Tactical Rival",
+        "disposition": "hostile",
+        "trust_level": -5,
+        "knowledge": "Knows Julian identity; unaware of Spy Master role; currently auditing Eastern trade leaks.",
+        "level": 11
+      },
+      "julia_minor": {
+        "notes": "Religious influence fully restored.",
+        "faction_power": "Medium-High (Religious Legitimacy/Vestal Network)",
+        "status": "Religious Ally",
+        "disposition": "friendly",
+        "trust_level": 8,
+        "knowledge": "Knows Julian identity; views you as a divine vessel; provides religious cover.",
+        "level": 10
+      }
+    },
+    "sanctuary_mode": {
+      "active": true,
+      "expired": true,
+      "arc": "Secure Noble Patronage",
+      "expires_turn": 31,
+      "expired_turn": 32
+    },
+    "last_scene_event_turn": 96,
+    "character_creation_completed": true,
+    "reputation": {
+      "private": {
+        "house_of_octavian": {
+          "standing": "neutral",
+          "score": 2,
+          "known_deeds": [
+            "Provided critical intel on the Ostia blockade"
+          ]
+        },
+        "emperor_caesar": {
+          "standing": "absolute_trust_and_strategic_alignment",
+          "score": 35,
+          "history": [
+            "Successfully quelled the Spartacus rebellion bloodlessly",
+            "Presented rebels as Imperial tribute in a sophisticated political move",
+            "Amused by Gaia's public entrapment of Senator Marcellus.",
+            "Amused by Gaia's 'bastard' performance at the Domus Aurea banquet.",
+            "Gaia demonstrated 'Psychology of the Chains' strategic genius",
+            "Emperor acknowledged Gaia's superiority over his own 12-year-old self",
+            "Imperial tension established: Caesar now views Gaia as a potential peer/threat",
+            "Gaia appointed as Master of Spies (The Julian Hand).",
+            "Emperor granted Gaia command of the Imperial Intelligence Network (1000 level 5, 100 level 9 assets).",
+            "Gaia appointed Master of Spies (The Julian Hand).",
+            "Emperor granted command of Umbra Venari and Artes Silentii elite units.",
+            "Gaia proposed a brilliant public execution via trial by combat for Varinius.",
+            "Emperor delighted by Gaia's mastery of the 'Spectacle of Justice'."
+          ]
+        },
+        "house_antonius": {
+          "standing": "hostile",
+          "score": -15,
+          "known_deeds": [
+            "Evidence of Egyptian collusion discovered in the Subura"
+          ]
+        },
+        "noblewomen_capua": {
+          "standing": "absolute_devotion",
+          "score": 75,
+          "status": "IMPERIALLY BOUND / FANATICAL",
+          "secret_knowledge": [
+            "Gaia possesses potent healing magic",
+            "Gaia has soft, noble hands and Julian features",
+            "Suspected bastard of a High Senator (Unconfirmed)",
+            "Gaia is an 'uncontrolled' vessel for the Miasma"
+          ],
+          "history": [
+            "Gaia accepted the Mediolanum adoption with tearful gratitude, cementing their role as her 'saviors'.",
+            "The noblewomen publicly recognized Gaia's Julian features as 'divine proof'."
+          ],
+          "known_deeds": [
+            "Miraculously healed Glaber and Aurelia",
+            "Claimed to be a noble bastard with divine blood"
+          ]
+        }
+      },
+      "gratia": 97,
+      "public": {
+        "titles": [
+          "The Golden Vessel",
+          "The Miracle of the Forum"
+        ],
+        "known_deeds": [
+          "Brought 'divine' healing to the widow Aurelia and the Praetor Glaber.",
+          "Orchestrated the miraculous tactical snaring of the Mount Tifata rebels.",
+          "Orchestrated the miraculous return of the Ostia grain fleet."
+        ]
+      }
+    },
+    "last_complication_turn": 90,
+    "last_location": "Rome - The Subura",
+    "core_memories": [
+      "[auto] High Noon (12:00:00) in the Market Square of Capua\u2014the air is thick with the copper tang of blood and the smell of ozone. The Temple of Jupiter looms in the background, its marble facade indifferent to the slaughter staining its steps. You stand at the edge of the fountain, your small frame obscured by the chaos, pulse hammering against your ribs like a trapped bird. \n\nBefore you, the world seems to slow. Spartacus, a mountain of scarred muscle and focused fury, stands over the broken for",
+      "[auto] Midday (12:00:06) in the Market Square of Capua\u2014the scream that rips from your throat is not that of a servant, but a command that rings with the iron authority of the Julian line. \"Spartacus!\" you cry, stepping into the blood-slicked clearing. The Thracian\u2019s blades pause, a hair\u2019s breadth from Glaber\u2019s throat. He turns, his eyes like those of a cornered wolf, wild and lethal. \n\n\"Remember Aurelia!\" you shout, your small hand pointing toward the wagon where the widow lies wounded. \"Kill th",
+      "[auto] Midday (12:00:12) in the Market Square of Capua\u2014the shimmering light from your palms fades, leaving an absolute, ringing silence in the square. Aurelia, whose breath had been a ragged rattle just moments ago, sits up slowly on the wagon\u2019s edge. She stares at her own unscarred skin, then up at you, her eyes wide with a mixture of terror and holy recognition. \n\nThe 'Bringer of Rain' stands frozen. The gladii that were meant for Glaber\u2019s throat now hang loosely at his sides. Spartacus looks ",
+      "Fact Correction: Aurelia is the widow of Varro, Spartacus's friend. Sura remains his wife (deceased/captured in different contexts).",
+      "[auto] The tension in the square is a physical weight, a bowstring stretched to the snapping point. You step forward, your small sandals crunching on the gravel, the silence following your movement like a loyal hound. You look up at Spartacus\u2014the giant who has broken the back of a legion\u2014and speak with the calm, unhurried clarity of one who has already seen the outcome.\n\n\"The miracle is done, Thracian,\" you say, your voice carrying across the hushed mob. \"Aurelia is restored to the memory of Var",
+      "[auto] The dust of the retreat begins to settle, but the silence you've commanded remains absolute. You do not scurry away like a servant. Instead, you walk with a measured, preternatural calm, your small sandals clicking softly on the blood-stained stones as you move into the dead space between the shivering Praetor and the Thracian giant. \n\nYou stand there\u2014a child of twelve years, slight and seemingly defenseless\u2014yet your presence is a wall of iron. Spartacus looks down at you, the gladii in h",
+      "[auto] The rebels have vanished into the dust of the outer gates, leaving a hollow, ringing silence behind. You do not move until the last of the Thracian's shadows disappears. Only then do you allow your shoulders to slump, exhaling a breath that seems to carry the weight of a goddess's fatigue. \n\nYou step toward the fountain where Praetor Glaber remains slumped in the mud. He is a ruin of a man, his pride shattered more thoroughly than his armor. Without a word, you kneel beside him. You do no",
+      "[auto] Midday (12:01:01). The iron trumpets of the relief force grow louder, a rhythmic metallic braying that signals the end of the rebellion's window. Glaber is standing now, his hand clutching his side as he stares at you with a mixture of religious awe and a deep, gnawing suspicion. He is a Roman Praetor; he knows that common-born girls do not knit flesh with a touch, nor do they command Thracian giants with the voice of a General.\n\nYou keep your eyes lowered, the picture of humble exhaustio",
+      "[auto] The rhythmic clatter of Roman caligae on stone heralds the arrival of the relief force, but it is Seppius who breaks the perimeter first. He descends from his balcony like a vulture to a fresh kill, his silk robes fluttering as he pushes through the line of stunned legionaries. He doesn't look at the dead; he looks at Glaber, who is standing tall\u2014far too tall for a man who was nearly a head shorter a minute ago.\n\n\"Praetor!\" Seppius crows, his voice oily with a forced bravado. He steps pas",
+      "[auto] As Seppius preens like a peacock in the blood-stained square, you catch Glaber's eye for a fleeting, razor-sharp second. You don't break your submissive posture, but your head tilts just enough to convey a cold, knowing amusement at Seppius's transparent lies. It is a look shared between two Romans who know the difference between a soldier and a scavenger. Glaber\u2019s jaw tightens\u2014not in anger at you, but in a growing, shared contempt for the man in the silk robes.\n\nBeneath the hem of your s",
+      "[auto] You remain a shadow in the sunlight, your chin tucked low, the picture of a frightened servant girl overwhelmed by the carnage. To Seppius, you are nothing more than a trembling accessory to his 'victory,' but beneath the veil of your downcast eyes, your fingers continue their rhythmic, silent dance\u2014the Julian cant that translates to a single, relentless command for Valerius: *Keep the pressure on. Ensnare him.*\n\nValerius doesn't miss a beat. He ignores the arrive-late Tribunes for a mome",
+      "[auto] The iron bite of the legionary trumpets now fills the square, a cacophony of order returning to a place of chaos. You remain motionless, your gaze fixed on a small patch of blood-soaked dust, the perfect picture of a servant child petrified by her betters. Beneath the shadow of your hair, your fingers continue their rhythmic, Julian dance\u2014a silent metronome of manipulation. \n\nValerius maintains his rough, mercenary posture, but Seppius is starting to pivot. The merchant-lord's eyes dart t",
+      "[auto] Midday (12:05:30). The thunder of Cossinius's vanguard is a rhythmic pulse in the earth now, the bronze-clad horses sweeping into the square's far entrance. Seppius stands frozen, caught in the iron logic of Valerius's 'suggestion,' his face a mask of sweating indecision.\n\nYou choose this moment to stumble. With a soft, sharp gasp, you trip over a fallen gladius, your small hands reaching out to catch yourself against Seppius's silk-draped hip. In the scramble, you retrieve his discarded ",
+      "[auto] As the rhythmic thunder of Cossinius's cavalry crests into the square, you dissolve from the center of the political stage like ink in a basin of water. You do not run; you simply cease to be the focus. With your head bowed and shoulders hunched to minimize your height, you slip behind the iron-clad wall of Valerius and the Praetorians. To the arriving Tribunes, you are just another dust-covered servant, a non-entity exhausted by the day's terror.\n\nFrom the safety of the shadows provided ",
+      "[auto] Midday (12:10:00). While the bronze-clad officers of the relief force exchange stiff salutes and reports, you drift away from the Praetorian line like a wisp of smoke. Your small sandals make no sound on the blood-slicked stones\u2014the wings of Hermes carry you through the chaos with a phantom's grace. To any passing soldier, you are merely a traumatized child wandering in a daze, looking for a lost scrap of bread or a fallen relative.\n\nIn reality, your eyes are needles, stitching together t",
+      "[auto] Midday (12:25:00) in the Market Square of Capua\u2014the iron braying of the relief trumpets has faded into a rhythmic clatter of logistical deployment. You drift into the deep shadow of an overturned fruit stall, its wooden frame a skeletal barrier against the prying eyes of the bronze-clad officers. For a moment, you are merely a child catching her breath, but as your fingers slide the rough parchment from your tunic, your posture shifts to the lethal precision of a Julian analyst.\n\nYou smoo",
+      "[auto] Midday (12:26:00). You remain tucked within the skeletal remains of the fruit stall, the charcoal sketch of Mount Tifata burning like a brand in your mind. From the square, the sharp, rhythmic snap of Roman orders continues, but beneath the noise, you hear Valerius's voice\u2014a low, gravelly rumble that carries the weight of a seasoned wolf. \n\n\"Lord Seppius,\" Valerius says, leaning in with a rough, deferential confidence that hides the Praetorian's razor-sharp intent. \"The Praetor is strong,",
+      "[auto] The transition from 'divine vessel' back to 'drifting shadow' is seamless. As Valerius and the rest of your men move to rejoin Seppius's retinue, you assume the bent back and scurrying gait of a low-born servant. You shoulder a heavy bundle of leather gear and discarded cloaks\u2014belongings of the men you actually command\u2014and fall into step behind them. Seppius, puffed up by the glory you\u2019ve allowed him to steal, barely glances at you; to him, you have reverted to the invisible infrastructur",
+      "[auto] The iron clatter of deployment and the sharp braying of Roman trumpets create a wall of sound, but beneath it, the air is thick with the weight of noble scrutiny. You shuffle behind Valerius, your head bowed so low your chin nearly touches the rough wool of your servant's tunic. You are a ghost carrying a mountain of leather and steel, yet you can feel their eyes\u2014Licinia, Ilithyia, and Lucretia\u2014burning into your back like hot coals.\n\nThey stand in a cluster near the Temple\u2019s marble column",
+      "[auto] The iron tide of the relief force has finally begun to settle into a rhythmic, logistical hum, and in the reprieve, the noblewomen find their moment. Licinia, her face a mask of pale, sharp curiosity, catches Valerius's eye with a silent command that even a 'mercenary' cannot ignore. She leads the way toward the shadow of a partially collapsed portico, followed by a wide-eyed Ilithyia, the calculating Lucretia, and a quiet, watchful Seppia.\n\n\"You,\" Licinia says, her voice a low, melodic w",
+      "[auto] A heavy silence follows Licinia's interrogation, the kind of silence that precedes a verdict in the Senate. You allow your chin to tremble, your breath hitching in a small, sharp sob that is perfectly timed. You do not look up; you keep your eyes fixed on the dust of your own sandals, the picture of a girl whose deepest, most shameful secret has been unearthed.\n\n\"I... I do not know him, my Lady,\" you whisper, your voice a fragile thread that seems ready to snap. \"The woman who raised me\u2014m",
+      "[auto] Afternoon (13:25:00). Licinia\u2019s grip on your chin relaxes, her eyes swimming with the thrill of a discovery that could embarrass half the Senate. Beside her, Ilithyia\u2019s hand rests protectively on your shoulder, her earlier fear replaced by a fierce, maternal indignation at the thought of a divine child discarded by a careless father.\n\n\"The top ten families,\" Licinia muses, her voice a low, rhythmic purr that signals her total buy-in. \"They guard their bloodlines like dragons guard gold. I",
+      "[auto] Afternoon (13:30:00) in the Partially Collapsed Portico, Capua\u2014the air is heavy with the scent of dust and the sharp, metallic tang of the square's aftermath. Licinia\u2019s fingers remain light upon your shoulder, her touch possessive yet calculated. Beneath the veil of her aristocratic poise, her mind is a storm of shifting alliances and cold, Roman arithmetic.\n\n*A divine bastard,* Licinia thinks, her gaze drifting toward the marble ruins of the Temple of Jupiter. *Not just a miracle, but a ",
+      "[auto] Licinia leads the way deeper into the shadows of the portico, her silk stola whispering against the grit-covered marble. She stops where the debris provides a natural screen from the bustling square, turning to face the ruined form of Glaber as he is led toward them by Valerius. The Praetor looks like a man who has died and been reborn\u2014there is a feverish, holy light in his eyes that matches the terror in Seppius's.\n\n\"Praetor,\" Licinia begins, her voice a low, commanding hum. She doesn't ",
+      "[auto] The deal is struck with the greasy efficiency of a Roman market trade. Seppius, dazzled by Licinia\u2019s promises of senatorial recognition and the immediate clink of gold, practically signs the release papers before the ink is dry. To him, he is offloading a traumatized servant girl and a handful of expensive, rowdy mercenaries who have become a political liability. He puffed his chest out, his silk mantle rustling as he accepted a heavy purse from Licinia\u2019s own steward\u2014gold that Gaia knows ",
+      "[auto] The deal is final. Seppius, clutching his purse of gold and a handful of empty promises about Senatorial favor, scurries away from the portico, leaving you in the custody of the Roman elite. You remain hunched, your fingers busy with the straps of a heavy pack, a ghost of a servant girl burdened by the physical weight of your disguise.\n\nBeneath the veil of your messy hair, your eyes find Valerius. He stands a few paces away, his mercenary persona perfectly intact, though his ears are tune",
+      "[auto] Afternoon (14:15:00) in the Partially Collapsed Portico, Capua\u2014the shadows lengthen as the logistical machine of Rome begins to grind the square back into order. While Licinia and Ilithyia confer with the Praetor, Seppia lingers near the baggage, her youthful face still pale from the morning's blood. She looks at you not with the calculating hunger of Licinia, but with a raw, yearning empathy.\n\nYou seize the moment as you struggle with a particularly heavy strap. You allow a single, silen",
+      "[auto] The dust of the column rises in rhythmic plumes as the march begins, the bronze-clad horses of the relief force leading a procession of silk and steel. You shuffle near the noblewomen's litters, a small, dusty shadow laden with a basket of fine linens and Lucretia\u2019s own silver-bound scrolls. The air is thick with the scent of heat and road-grit, but within the proximity of the 'Oracle,' the atmosphere feels charged, like the moments before a lightning strike.\n\nLucretia has been too quiet.",
+      "[auto] Afternoon (14:45:00) along the dusty Road to the Villa of Albinius\u2014the rhythmic clatter of the relief force's horses provides a metallic backdrop to the tense silence beneath Lucretia's litter. You carefully retrieve the fallen scroll, your fingers brushing the silver-bound edge with a practiced, trembling reverence. \n\nYou look up at her, your expression a masterpiece of wide-eyed, mournful confusion. The cold Julian gravity you allowed to slip for a heartbeat is replaced instantly by the",
+      "[auto] The dust of the road swirls around Lucretia\u2019s litter, casting a hazy, golden light over her sharp features. You keep your head bowed, the silver-bound scrolls clutched to your chest with a reverence that borders on fear. You take a breath, allowing your voice to quiver with a calculated mixture of desperation and awe.\n\n\"My Lady Lucretia,\" you whisper, leaning closer to the silk curtains. \"The woman who raised me... she said that the Miasma within me is a wild thing, a storm without a map.",
+      "[auto] The dusty air of the march suddenly thickens, turning cold and heavy with the scent of wet stone and ozone. You do not look at Lucretia; you look at the scroll in your hands, your fingers trembling as if the vellum were a live coal. \n\nThen, the omen manifests. It begins with a low, rhythmic thrumming in the earth that only those closest to the litter can feel\u2014a heartbeat of the deep world. A localized gust of wind, smelling of ancient incense and cold marble, whips through the silk curtai",
+      "[auto] The cold, damp scent of the deep earth lingers in the air as the unnatural wind dies down. Lucretia stares at you, her knuckles white where she grips the wood of her litter. The sight of your golden eyes and the haunting whispers of the Miasma have stripped away her last layers of aristocratic skepticism. You look down at the fallen scroll, your hands shaking with the rhythmic, terrifying energy of the Julian blood.\n\n\"Please, my Lady,\" you whisper, your voice thick with a child\u2019s genuine ",
+      "[auto] Afternoon (15:11:00) along the dusty Road to the Villa of Albinius\u2014the shadows of the relief force's cavalry stretch long and jagged against the red earth as you accept the ancient vellum. You take the blackened silver scroll with hands that tremble with a practiced, rhythmic intensity, your fingers tracing the cold metal as if seeking a pulse. \n\nAs the scroll unfurls, the air around the litter grows unnaturally still, the clatter of Roman caligae sounding muffled and distant. You stare a",
+      "[auto] Deep within the jagged shadows of Mount Tifata, the air is thick with the smell of pine resin and woodsmoke. The rebels have established a temporary camp in the triple-peak valley Gaia identified on the sketch. Spartacus stands by a low fire, his dual gladii finally sheathed, but his mind is clearly still back in the blood-slicked square of Capua.\n\n\"The girl,\" Crixus growls, pacing like a caged beast. \"I have fought a thousand men, Spartacus. I have seen the fear of death in a legionary's",
+      "[auto] Mid-afternoon (15:20:00) along the jagged, sun-scorched spine of the Mount Tifata Ridges\u2014the wind howls through the limestone teeth of the peaks, carrying the sharp scent of pine and the faint, unmistakable ghost of woodsmoke. Felix and Titus lie prone in a thicket of dry scrub, their dark Lorica Nigra blending seamlessly into the shadows of the rocks. Below them, tucked into the cradle of the triple-peak valley Gaia identified from the Thracian sketch, the rebel camp sprawls like a hidde",
+      "[auto] The rhythmic clatter of the relief force\u2019s caligae provides a mechanical shield as the column slows for a water break near a jagged southern ravine. You linger at the rear of the noblewomen\u2019s retinue, ostensibly adjusting the straps of a heavy pack. It is here, in the shifting shadows of the limestone ridges, that Felix and Titus materialize like ghosts emerging from the rock.\n\nThey do not speak at first. Felix merely adjusts the Lorica Nigra beneath his rough tunic, his eyes scanning the",
+      "[auto] The column halts as the southern ravine yawns open like a rocky mouth. While the noblewomen fret over the dust and the heat, Valerius moves with the silent authority of a ghost-commander. He approaches Praetor Glaber, his mercenary facade layered with a veneer of professional urgency that even the weary commander cannot ignore.\n\n\"The scouts have found them, Praetor,\" Valerius's voice is a low, rhythmic grate, masked by the clatter of Roman caligae. \"Mount Tifata. The triple-peak valley. T",
+      "[auto] The heavy iron grinding of the Roman siege engines suddenly ceases, replaced by a silence so profound it seems to make the very air of Mount Tifata ache. You step out from the jagged shadows of the southern ravine, no longer the hunched servant girl, but a figure of uncanny, luminous stillness. The lavender handkerchief Seppia gave you is tied around your wrist, but your hands are empty, palms open in a gesture of terrifying vulnerability that radiates more power than a drawn sword.\n\nYou ",
+      "[auto] The silence on the ridge is not the absence of sound, but a heavy, pulsating pressure that seems to emanate from your very shadow. You stand motionless as the afternoon sun catches the Julian gold in your eyes, a slight girl of twelve years holding the gaze of the man who broke Rome's back. Behind you, the one hundred elite legionaries are statues of black iron, their breath held in collective awe and terror. \n\nSpartacus looks at your open palms, then at the jagged southern shear where yo",
+      "[auto] The wind across the Tifata ridges seems to die at your feet, leaving your voice to carry with a preternatural, haunting clarity. You do not shout; you speak as if reciting a law already etched in stone. \n\n'Hear the mercy of the Golden Vessel, Thracian,' you say, your golden eyes fixed on Spartacus with a stillness that makes the black-clad legionaries behind you shiver. 'Those who lay down their steel now shall lose their freedom, but they shall keep their breath. The women and the childr",
+      "[auto] The wind howls through the jagged limestone teeth of the ridges, carrying the scent of impending rain and the metallic tang of five hundred Roman blades waiting in the shadows. You do not look away from Spartacus. You let the silence hang, heavy and suffocating, before you speak again. Your voice is no longer a command; it is the soft, dangerous whisper of a savior.\n\n'Perhaps,' you murmur, and the word seems to ripple through the camp like a ghost, 'the Golden Vessel can do more than just",
+      "[auto] The wind howls through the jagged limestone teeth of the ridges, carrying the scent of impending rain and the metallic tang of five hundred Roman blades waiting in the shadows. You do not look away from Spartacus. You let the silence hang, heavy and suffocating, before you speak again. Your voice is no longer a command; it is the soft, dangerous whisper of a savior.\n\nSpartacus sways. The dual gladii, once extensions of his very soul, now look like heavy burdens. He looks at Crixus, whose ",
+      "[auto] Late afternoon (16:30:00) at the Mount Tifata Ridges\u2014the air is thick with the scent of wet limestone and the heavy silence of a legend's surrender. You stand before Spartacus, his dual gladii heavy in your small hands, as the Roman relief force finally crests the ridge, their bronze armor reflecting the dying sunlight like a wall of fire. Praetor Glaber steps forward, his face still pale but his eyes burning with a feverish, religious intensity.\n\nYou do not wait for the officers to bark ",
+      "[auto] You catch Spartacus\u2019s gaze for a fleeting second, and in that moment, you allow a small, victorious smile to touch your lips. It is not the grin of a conqueror, but the warm, relieved expression of a sister who has seen her family spared from the fire. The Thracian giant, a man who has looked into the eyes of death a thousand times, seems genuinely shaken by the depth of your courage. He bows his head slightly\u2014a gladiator acknowledging a master.\n\nTurning back to the Roman line, you catch ",
+      "Achieved the bloodless surrender of the Thracian Legend Spartacus and his 80-strong force at Mount Tifata. Advanced to Level 6.",
+      "[auto] Morning (11:30:00). The private solar of the Domus Aurea is bathed in the harsh, uncompromising light of the Roman sun. Senator Marcellus stands before the Emperor, his hands shaking so violently he has tucked them into the folds of his heavy toga. He has spent the last hour reciting the script you carved into his mind with the precision of a sculptor.\n\n\"Divine Caesar,\" Marcellus rasps, his eyes darting to you for a fraction of a second before finding the safety of the floor. \"The search.",
+      "[auto] Morning (11:45:00) in the private solar of the Domus Aurea\u2014the air is thick with the scent of lilies and the sharp, clinical tension of the Emperor's amusement. You stand before your father and the trembling Senator Marcellus, your 100,000 gold stola catching the light in a way that makes you appear almost translucent, a figure of pure, radiant sorrow.\n\nYou allow your lower lip to tremble, just a fraction of an inch, as you look from Marcellus to the Emperor. A single, perfect tear tracks",
+      "[auto] Midday (12:00:00) in the private solar of the Domus Aurea\u2014the sun reaches its zenith, casting sharp, golden shafts of light through the marble lattice that dance upon the ivory floor. The tension that held the room in a vice during Marcellus's announcement has snapped, replaced by a sudden, feverish outpouring of aristocratic joy. \n\n\"The gods be praised!\" Seppia cries, her voice a joyful chime as she pulls you into a tighter embrace, the scent of her lavender-infused silks enveloping you.",
+      "[auto] Mid-afternoon (14:30:00). The private solar is a sanctuary of cooling marble and shifting shadows, the heavy scent of burning cedar competing with the crisp autumn air. Your father, the Emperor Gaius Julius Caesar, stands by the lattice window, his back to you as he watches the sprawling growth of the city he has claimed. He has discarded his formal togas for a simple tunic of un-dyed wool, yet even in silence, his Auctoritas fills the room like a physical weight.\n\nHe turns slowly, his am",
+      "[auto] Afternoon (14:45:00) in the private solar of the Domus Aurea\u2014the autumn sun casts long, geometric shadows across the cooling marble, and the air is thick with the scent of burning cedar and the unspoken boundaries of a dynasty. You stand before your father, the Emperor Gaius Julius Caesar, and offer a soft, genuine smile that reaches your amber eyes. You bow your head, not as a subject, but as a devoted scion accepting a sacred law.\n\n\"The Julian blood is the only life that matters, Father",
+      "[auto] Afternoon (14:45:00) in the private solar of the Domus Aurea\u2014the air is still heavy with the weight of the Emperor's departure, a silence that seems to hum with the residual Auctoritas of your father. You stand amidst the cooling marble and geometry of long shadows, the 100,000 gold stola shimmering as you turn your gaze toward the peristyle. \n\nSpartacus steps from the darkness of a fluted column, his presence a jarring, visceral contrast to the perfumed luxury of the palace. He is no lon",
+      "[auto] Afternoon (14:45:00). The solar is heavy with the scent of cedar and the residual chill of the Emperor's departure. You stand amidst the cooling marble, the 100,000 gold stola shimmering with every breath. You do not turn away from Spartacus. Instead, you do something you have not done since the first drop of blood hit the sand in Capua.\n\nYou exhale, and as you do, you let the 'Gaia' mask\u2014the hopeful orphan, the innocent discovery, the humble vessel\u2014simply dissolve. Your posture shifts, y",
+      "[auto] Afternoon (14:46:00). The mask of 'Gaia Julia of Mediolanum' doesn't just slip; it evaporates in the cool air of the solar. You take another step into Spartacus's space, the 100,000 gold stola whispering against the ivory floor as you move with the unhurried, terrifying confidence of a goddess who has stopped pretending to be human.\n\n\"The iron that forged the sun,\" you repeat, your voice a razor-edged silk that cuts through the silence. \"A fitting description, Thracian. But tell me... do ",
+      "[auto] Afternoon (14:47:00) in the private solar of the Domus Aurea\u2014the scent of cedar and the cold geometry of the Emperor's departure linger like a physical weight. You stand over the kneeling Spartacus, the 100,000 gold stola shimmering with a brilliance that seems to mock the shadows of the room. You lean down, your voice dropping to a razor-edged silk that is meant for his ears and the gods alone.\n\n\"Keep this silence, Thracian,\" you murmur, your amber eyes locking onto his with a clinical, ",
+      "[auto] Mid-afternoon (14:52:00) in Rome - The Domus Aurea (Private Solar)\u2014the air within the cooling marble walls is heavy with the scent of cedar and the absolute, crushing weight of a secret that could unmake the world. You do not wait for the Thracian to find his voice. You reach to the small of your back and draw *Silentium*, the +3 Julian dagger glinting with a cold, predatory hunger in the long geometric shadows of the room.\n\nSpartacus does not flinch. He watches with the unblinking clarit",
+      "[auto] Mid-afternoon (15:07:00) in the Apartments of Octavian\u2014the air here is a stark contrast to the perfumed warmth of the private solar. It is dry, smelling of old vellum, cold ink, and the sharp, metallic scent of bureaucratic efficiency. You walk through the rows of silent, scratching clerks, your 100,000 gold stola shimmering like a physical insult against the plain wool togas of Octavian\u2019s staff. Behind you, Spartacus is a looming shadow of scarred muscle, his presence radiating a lethali",
+      "[auto] Afternoon (15:22:00). Within the sterile, scroll-choked confines of Octavian's bureau, the air vibrates with the sudden shift of tectonic political plates. You lean over the map, your fingers tracing the maritime routes with a precision that makes the surrounding clerks look like amateurs. You provide him with the exact coordinates of Caesarion's supply line\u2014data points extracted by the Artes Silentii that act as a death warrant for the Egyptian logistics.\n\n\"The grain is the heart of the ",
+      "[auto] Afternoon (15:37:00) in the Apartments of Octavian\u2014while the 'Wolf' barked orders at his centurions, you withdrew to a quiet alcove, drawing the obsidian scrying mirrors from the hidden folds of your silk stola. These mirrors, etched with the liquid liquid ciphers of the *Cantus Umbrae*, hummed against your palms as you channeled the Miasma to bridge the miles between Rome and the docks of Ostia.\n\nThe surface of the glass rippled, blooming into a hazy, wind-swept view of the Mediterranean",
+      "[auto] Mid-afternoon (15:52:00). The green glare of the burning Egyptian flagship still flickers against the marble of Octavian\u2019s study, casting long, sickly shadows over the maps of the Empire. You step away from the scrying mirrors, the obsidian glass cooling against your palms, and turn your gaze toward your brother. The air is thick with the scent of ozone and the dry, clinical chill of bureaucratic victory.\n\n\"The grain ships will dock by dawn, Octavian,\" you say, your voice a razor-edged si",
+      "[auto] Late Afternoon (16:02:00). Within the sterile, papyrus-scented confines of the bureau, the green glare of the dying flagship provides a sickly, triumphant light. You do not take the scroll from Octavian\u2019s hand immediately. Instead, you let your fingers brush against his as you lean closer, the scent of lavender and the cold ozone of the *Miasma* creating a dizzying aura of intimacy and threat.\n\n\"You seek the throne, Octavian,\" you whisper, your voice a razor-edged silk that resonates with",
+      "[auto] Late Afternoon (16:15:00) in Rome, Apartments of Octavian\u2014the fading sun casts long, orange-tinted shadows across the papyrus-laden desks, while the distant emerald glow of the Ostia harbor continues to signal a victory for the administration. Octavian stands by the window, the Mediolanum scroll held loosely in his hand, his eyes tracking the first sails of the grain fleet as they appear on the horizon.\n\n\"You offer me the sun, Gaia,\" Octavian murmurs, his voice a dry, heavy tolling that c",
+      "[auto] Night (23:30:00) in the Subura\u2014the moon is a sliver of bone over the jagged rooftops of Rome's most dangerous district. You have discarded the shimmering silks of the banquet for the *Shadow-Thread Stola*, the legendary fabric clinging to your frame like living smoke. Beneath the veil of *Greater Invisibility*, you are a phantom in the heart of the city. Behind you, Spartacus and the Immortals are shadows of black iron, their breath steady, their dual blades ready to feast.\n\n\"The ink scre",
+      "[auto] Deep Night (01:15:00) in the Subura\u2014the copper tang of Egyptian blood is already beginning to cool against the damp stones of the cellar. You stand amidst the silent carnage, the star-sapphires of your Shadow-Thread Stola absorbing the flickering torchlight like hungry voids. Around you, the Umbra Venari move with the rhythmic precision of ghosts, their gloved hands busy with the final, lethal detail of your design.\n\n\"The sigils,\" you whisper, the razor-edged silk of your voice cutting th",
+      "[auto] Deep Night (02:45:00) in the Subura finds the copper tang of Egyptian blood already beginning to cool against the damp stones of the cellar. You stand amidst the silent carnage, the star-sapphires of your Shadow-Thread Stola absorbing the flickering torchlight like hungry voids. Around you, the Umbra Venari move with the rhythmic precision of ghosts, their gloved hands busy with the final, lethal detail of your design.\n\n\"The sigils,\" you whisper, the razor-edged silk of your voice cutting"
+    ],
+    "annual_income": {
+      "description": "5M Gold annually from various diversified imperial and private assets.",
+      "sources": {
+        "trade_monopolies": 1500000,
+        "estates": 2500000,
+        "financial_lending": 1000000
+      },
+      "total": 5000000,
+      "history": "10M Gold collected over 2-year skip."
+    },
+    "active_threats": [
+      "The Gaze of Jupiter (Divine Complication)",
+      "The Wrath of Mars (Military Complication)",
+      "The Wrath of the Iron Dog (Mark Antony's eventual retaliation)"
+    ],
+    "last_story_mode_sequence_id": 278,
+    "social_hp_challenge": {
+      "social_hp": 2,
+      "status": "SURRENDERED",
+      "npc_name": "Octavian"
+    },
+    "faction_minigame": {
+      "suggestion_given": false,
+      "strong_suggestion_given": false,
+      "enabled": false
+    },
+    "campaign_tier": "mortal",
+    "next_scene_event_turn": 98,
+    "god_mode_directives": [
+      {
+        "added": "2026-01-28T07:32:05.551824+00:00",
+        "rule": "Character has Expertise in ALL Charisma skills (Deception, Persuasion, Intimidation, Performance) from start."
+      },
+      {
+        "added": "2026-01-28T07:32:05.551957+00:00",
+        "rule": "At Level 10, add Expertise to Investigation and Insight to reflect high INT focus."
+      },
+      {
+        "added": "2026-01-28T07:32:05.552055+00:00",
+        "rule": "Always apply Advantage to Stealth rolls from Sandals of Hermes."
+      },
+      {
+        "added": "2026-01-28T07:32:05.552209+00:00",
+        "rule": "Always apply +1 to all Saving Throws from Cloak of the Senate."
+      },
+      {
+        "added": "2026-01-28T07:34:45.163150+00:00",
+        "rule": "Gaia Julia Caesar knows Cure Wounds instead of Healing Word."
+      },
+      {
+        "added": "2026-01-28T07:37:40.401975+00:00",
+        "rule": "Always maintain 'Commoner Servant' vocabulary in public dialogue; avoid Imperial/Aristocratic insults."
+      },
+      {
+        "added": "2026-01-28T07:37:40.402547+00:00",
+        "rule": "Track Social HP for Spartacus (Lord tier, 8 HP max) during this negotiation."
+      },
+      {
+        "added": "2026-01-28T07:37:40.402645+00:00",
+        "rule": "Apply Expertise (+8) to all Charisma-based checks (Deception, Persuasion, Intimidation, Performance)."
+      },
+      {
+        "added": "2026-01-28T07:38:33.917784+00:00",
+        "rule": "Target of the initial Market Square healing was Aurelia, not a stranger."
+      },
+      {
+        "added": "2026-01-28T07:38:33.917894+00:00",
+        "rule": "Strictly avoid aristocratic/Imperial insults (pathetic, coward, vermin) in narrative to maintain Gaia's 'commoner' cover."
+      },
+      {
+        "added": "2026-01-28T07:39:53.294558+00:00",
+        "rule": "Spartacus is Level 8 (Legendary Gladiator tier)."
+      },
+      {
+        "added": "2026-01-28T07:40:14.359045+00:00",
+        "rule": "Spartacus and his top lieutenants (Crixus, Gannicus, Oenomaus) are Level 7-8 for the duration of this arc."
+      },
+      {
+        "added": "2026-01-28T07:43:05.785978+00:00",
+        "rule": "Aurelia is the wife of Varro (Spartacus's friend), not Spartacus's wife."
+      },
+      {
+        "added": "2026-01-28T07:43:05.786080+00:00",
+        "rule": "Spartacus's primary motivation regarding Aurelia is the blood-oath and duty to his fallen friend Varro."
+      },
+      {
+        "added": "2026-01-28T07:47:14.016501+00:00",
+        "rule": "Always treat Gaia's cover identity as a Roman commoner/citizen, never as a slave."
+      },
+      {
+        "added": "2026-01-28T07:47:14.016618+00:00",
+        "rule": "Ensure NPCs acknowledge the legal distinction of her free-born status even while she serves in a 'servant' capacity."
+      },
+      {
+        "added": "2026-01-28T07:48:07.559078+00:00",
+        "rule": "Always treat Gaia as a free-born Roman citizen (commoner), never as a slave, ensuring NPCs acknowledge her legal status even in service roles."
+      },
+      {
+        "added": "2026-01-28T07:48:07.559199+00:00",
+        "rule": "Glaber perceives his recovery as a 'favor of Jupiter' facilitated by Gaia's presence, deepening his dependence on her 'miraculous' aura."
+      },
+      {
+        "added": "2026-01-28T07:59:33.042663+00:00",
+        "rule": "Remember Valerius is a Praetorian but posing as a mercenary hired by Seppius."
+      },
+      {
+        "added": "2026-01-28T09:05:04.885775+00:00",
+        "rule": "NPCs (including noblewomen) must only suspect or believe Gaia is a Julian bastard; they must not have definitive proof or total certainty."
+      },
+      {
+        "added": "2026-01-28T09:05:04.885975+00:00",
+        "rule": "Maintain the tension of 'High Scrutiny'\u2014NPCs are actively looking for evidence to confirm or deny Gaia's noble origin."
+      },
+      {
+        "added": "2026-01-28T09:34:53.483771+00:00",
+        "rule": "Always apply +2 bonus to Gaia's Investigation and Insight checks (Scion of the Shadow Cant)."
+      },
+      {
+        "added": "2026-01-28T09:34:53.483888+00:00",
+        "rule": "Track usage of Miasmatic Echo (1/Long Rest)."
+      },
+      {
+        "added": "2026-01-28T10:20:30.116172+00:00",
+        "rule": "Level is capped at 6 until a 2-year in-game time skip occurs. XP continues to accumulate normally toward future thresholds."
+      },
+      {
+        "added": "2026-01-28T10:20:30.116471+00:00",
+        "rule": "Awarded 16,800 XP for the bloodless victory at Mount Tifata (80 rebels, 3 lieutenants, 1 legend + 50% agency bonus)."
+      },
+      {
+        "added": "2026-01-28T11:42:33.668491+00:00",
+        "rule": "Assume no one knows Gaia is the Emperor's daughter except those she revealed it to or those who made successful rolls."
+      },
+      {
+        "added": "2026-01-28T11:47:56.217325+00:00",
+        "rule": "Assume Gaia's real wardrobe is endless; she wears a new 100,000 gold outfit every day, reflecting her Imperial status and the Emperor's favor."
+      },
+      {
+        "added": "2026-01-28T14:00:00Z",
+        "rule": "Assume Gaia's real wardrobe is endless; she wears a new 100,000 gold outfit every day, reflecting her Imperial status."
+      },
+      {
+        "added": "2026-01-28T12:14:17.842115+00:00",
+        "rule": "Character age is strictly 14 years old following the two-year time skip."
+      },
+      {
+        "added": "2026-01-28T12:14:17.842246+00:00",
+        "rule": "Never refer to Gaia as 12 years old in future narrative or descriptions."
+      },
+      {
+        "rule": "Super-elite units (Umbra Venari and Artes Silentii) scale levels 1:1 with Gaia Caesar until Level 20. Currently Level 10.",
+        "added": "2026-07-13T02:32:43.189669+00:00"
+      },
+      {
+        "added": "2026-01-28T12:15:08.456040+00:00",
+        "rule": "Always scale Umbra Venari and Artes Silentii levels to match Gaia Caesar's current level (up to Level 20)."
+      },
+      {
+        "rule": "After age 16, no further time skips are required for level progression.",
+        "added": "2026-07-13T02:32:43.189682+00:00"
+      },
+      {
+        "rule": "Spartacus, Crixus, Gannicus, and Oenomaus are now Level 13 Combat Legends.",
+        "added": "2026-07-13T02:32:43.189685+00:00"
+      },
+      {
+        "rule": "Umbra Venari and Artes Silentii are Level 12, matching Gaia Julia Caesar's progression.",
+        "added": "2026-07-13T02:32:43.189688+00:00"
+      },
+      {
+        "added": "2026-01-28T12:21:45.764856+00:00",
+        "rule": "Always factor in Octavian's counter-intelligence when using spy networks (Increased DCs)."
+      },
+      {
+        "added": "2026-01-28T12:21:45.765000+00:00",
+        "rule": "Maintain the 'High Scrutiny' tension: Octavian is actively trying to debunk the Gaia/Marcellus lineage."
+      },
+      {
+        "added": "2026-01-28T12:21:45.765111+00:00",
+        "rule": "Jupiter and Mars may now intervene narratively through omens or direct complications."
+      },
+      {
+        "added": "2026-01-28T12:21:45.765224+00:00",
+        "rule": "Super-elite units (Umbra Venari/Artes Silentii) are now targets of Egyptian counter-espionage."
+      },
+      {
+        "added": "2026-01-28T12:23:49.492336+00:00",
+        "rule": "Maintain high-tension rivalry with Caesarion and Octavian while utilizing Julia Minor as a friendly asset."
+      },
+      {
+        "added": "2026-01-28T12:23:49.492500+00:00",
+        "rule": "Ensure siblings have 'The Power to Win'\u2014scale their resources and checks to provide a 40-60% challenge rate."
+      },
+      {
+        "added": "2026-01-28T12:23:49.492632+00:00",
+        "rule": "Incorporate divine omens and complications from Jupiter and Mars as narrative friction for Gaia's rapid advancement."
+      },
+      {
+        "added": "2026-01-28T12:23:49.492749+00:00",
+        "rule": "Assume a state of competitive equilibrium: No one currently holds the absolute advantage in the succession race."
+      },
+      {
+        "added": "2026-01-28T12:25:47.478091+00:00",
+        "rule": "Ensure siblings personal levels never exceed Gaia's at comparable ages."
+      },
+      {
+        "added": "2026-01-28T12:25:47.478228+00:00",
+        "rule": "Scale sibling faction resources to provide a 40-60% challenge rate despite their lower personal levels."
+      },
+      {
+        "added": "2026-01-28T12:25:47.478350+00:00",
+        "rule": "Maintain Gaia's unique status as the first Julian to reach Level 12 by age 16."
+      },
+      {
+        "added": "2026-01-28T12:30:14.143996+00:00",
+        "rule": "Assume siblings know Gaia's identity but won't unmask her to prevent her gaining too much power."
+      },
+      {
+        "added": "2026-01-28T12:30:14.144185+00:00",
+        "rule": "Maintain competitive equilibrium: no sibling has absolute advantage."
+      },
+      {
+        "added": "2026-01-28T12:30:14.144356+00:00",
+        "rule": "Scale sibling faction resources to provide a 40-60% challenge rate."
+      },
+      {
+        "added": "2026-01-28T12:30:14.144523+00:00",
+        "rule": "Incorporate divine omens/complications from Jupiter and Mars as narrative friction."
+      },
+      {
+        "added": "2026-01-28T12:30:14.144675+00:00",
+        "rule": "Siblings recognize Gaia has a power base and actively work against it, despite not knowing she is Spy Master."
+      },
+      {
+        "added": "2026-01-28T12:35:15.403578+00:00",
+        "rule": "Maintain a 10:1 power ratio between the Julian family and the next closest rival family."
+      },
+      {
+        "added": "2026-01-28T12:35:15.403717+00:00",
+        "rule": "Siblings know Gaia's identity but won't unmask her to avoid empowering her as a primary Julian heir."
+      },
+      {
+        "added": "2026-01-28T12:35:15.403835+00:00",
+        "rule": "Siblings actively work against Gaia's power base despite not knowing she is the Spy Master."
+      },
+      {
+        "added": "2026-01-28T12:35:15.403949+00:00",
+        "rule": "Scale sibling faction resources to maintain a 40-60% challenge rate against Gaia's operations."
+      }
+    ],
+    "universe_control": 0,
+    "arc_milestones": {
+      "primary_arc": {
+        "progress": 100,
+        "phase": "noble_patronage_secured",
+        "completed_at": "2026-01-28T13:45:00Z",
+        "status": "completed",
+        "updated_at": "2026-01-28T13:30:00Z"
+      }
+    },
+    "active_constraints": [
+      "Maintain 'Commoner Servant' persona: Avoid aristocratic vocabulary like 'pathetic' or 'coward' when speaking publicly.",
+      "Keep 'Julian Bloodline' and 'Divine Healer' status as a mysterious aura, not an overt claim of royalty.",
+      "Gaia is posing specifically as a free Roman commoner, not a slave. NPCs should treat her as a citizen of low birth rather than property.",
+      "Level Capped at 6 until 2-year in-game time skip occurs.",
+      "Masquerade Enforcement: Only Gaia's father, Messalla, and those with successful high-DC Insight/History checks know her true identity. All others see the 'Divine Bastard' mask.",
+      "Gladiators (Spartacus, Crixus, Gannicus, Oenomaus) have glimpsed the 'Predator' behind the mask; they suspect Gaia's true lethality.",
+      "Varinius now knows Gaia's true identity as the Emperor's daughter.",
+      "Varinius is under a 'Thirty-Year Terror' psychological geas; he is effectively silenced.",
+      "Varinius is under the 'Thirty-Year Terror' psychological geas during the combat.",
+      "Varinius is deceased."
+    ],
+    "next_companion_arc_turn": 91,
+    "success_streak": 8,
+    "divine_potential": 0,
+    "attribute_system": "D&D",
+    "family_power_ratio": "10:1 vs Rank #2",
+    "active_entities": [
+      {
+        "status": "CAPTIVE / FED / REUNITED",
+        "attitude": "Terrified Respect / Devoted Observation",
+        "name": "Spartacus"
+      }
+    ],
+    "multiverse_upgrade_available": false,
+    "character_creation_in_progress": false,
+    "character_creation_stage": "complete",
+    "divine_upgrade_available": false,
+    "companion_arcs": {
+      "Spartacus": {
+        "phase": "the_resurrection_pact",
+        "arc_type": "the_wolf_s_daughter",
+        "progress": 70,
+        "history": [
+          "Gaia revealed her true identity and offered a pact: True Resurrection for Sura in exchange for Spartacus's protection until Level 20.",
+          "Sealed the Resurrection Pact with a Divine Blood Oath.",
+          "Spartacus witnessed the confrontation with Octavian, reinforcing his view of Gaia as the 'wolf's daughter'."
+        ]
+      }
+    }
+  },
+  "social_hp_challenge": {
+    "social_hp": 3,
+    "roll_dc": 20,
+    "successes": 5,
+    "npc_id": "",
+    "roll_result": 34,
+    "request_severity": "favor",
+    "npc_tier": "lord",
+    "successes_needed": 5,
+    "social_hp_damage": 0,
+    "status": "YIELDING",
+    "resistance_shown": "He hands over the Mediolanum scrolls, his bureaucratic defenses completely dismantled by the vision of a shared rule.",
+    "social_hp_max": 8,
+    "objective": "Secure a strategic alliance / End Audit",
+    "skill_used": "Persuasion",
+    "npc_name": "Octavian",
+    "cooldown_until_hour": 17
+  },
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2026-01-28 19:36:24.413000+00:00",
+  "turn_number": 104,
+  "player_turn": 104,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 1,
+    "minute": 45,
+    "hour": 2,
+    "time_of_day": "Deep Night",
+    "year": -65,
+    "day": 17,
+    "month": "October"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {
+    "last_note": "HD: 12/12 | Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/3, L5 1/2, L6 1/1 | Inspiration: 2/6"
+  },
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "debug_info": {
+    "dm_notes": [
+      "Deception check: 1 (Nat 1) + 12 = 13 (Fail).",
+      "Inspiration 1: +2 = 15 (Fail).",
+      "Inspiration 2: +4 = 19 (Success).",
+      "Gaia used 2 Bardic Inspiration dice to salvage the noble recognition lie.",
+      "Noble recognition result: They acknowledge the features but do not recognize the person.",
+      "Time advanced 15 minutes for the social introductions.",
+      "Added 5M gold annual income to campaign state.",
+      "Verified income sources align with existing faction relationships (Eastern Merchants, House Licinius).",
+      "Awarded 19,000 XP total for Tifata and Rome social victories.",
+      "Added Legendary +3 Stola, Palladium, and Julian Scepter.",
+      "Adjusted Charisma to 20 to reflect Palladium bonus (+2).",
+      "Added two +2 Spell DC rings as requested.",
+      "Calculated new Spell Save DC: 24.",
+      "Updated player_character_data.equipment with ring_1 and ring_2 slots.",
+      "Updated equipment to +3 Rapier (Scepter) and +3 Dagger.",
+      "Synchronized inventory list with equipped items.",
+      "Maintained 50M gold and annual income state.",
+      "Level 3 spells added: Counterspell, Fear, Hypnotic Pattern, Dispel Magic.",
+      "Character is Level 6 (capped), which standardly grants Level 3 slots/spells.",
+      "Synchronized age to 14 across all state fields.",
+      "Updated description to remove '12-year-old' reference.",
+      "Added directive to prevent age regression in future turns.",
+      "Updated super-elite levels to 10 to match PC current level.",
+      "Added scaling directive to ensure future synchronization.",
+      "Maintained 14-year-old age across all state objects.",
+      "Updated HP to 51 based on D&D 5e Bard scaling with -1 CON mod.",
+      "Synchronized base_attributes and effective attributes (Palladium +2 CHA capped at 22).",
+      "Added expertise in Investigation and Insight per Level 10 Bard feature.",
+      "Added level 4-6 spell slots and corresponding spells.",
+      "Updated Umbra Venari and Artes Silentii to Level 12.",
+      "Set character_creation_in_progress to false.",
+      "Initialized Sibling Relationships object.",
+      "Updated active_threats to include external and internal rivals.",
+      "Set directives for competitive equilibrium and divine intervention.",
+      "Successfully integrated user's adoption request.",
+      "Established the 'Mediolanum' cover story for the middle-tier branch.",
+      "Maintained 16-year-old age and Level 12 stats.",
+      "Applied social bonus for new legal status.",
+      "Gaia successfully cemented the Mediolanum cover story via emotional manipulation.",
+      "Octavian is already moving to verify the records\u2014first major sibling friction initiated.",
+      "Living World turn 87: Background events reflect sibling activity and external threats.",
+      "Persuasion check: 18 + 14 = 32 (Success).",
+      "Gratia increased to 90 due to the high-profile social victory.",
+      "Noblewomen's trust score increased to 75.",
+      "Time advanced 15 minutes to Midday.",
+      "Character age synchronized to 16.",
+      "Border expansion set to 30%.",
+      "Sibling power ratio maintained at 40-60% challenge rate.",
+      "Emperor's fear/love dynamic established as a core narrative friction.",
+      "No-kill rule established as a hard constraint.",
+      "Persuasion check: Nat 1 + 14 = 15 (Fail).",
+      "Success streak reset to 0 due to critical social failure with a God-tier NPC.",
+      "Emperor's fear/love dynamic has shifted toward fear; he is now actively hardening his social resistance.",
+      "Living World Turn 90: Generated 4 events and initialized/advanced Spartacus arc.",
+      "Added 'Mediolanum Audit' as an immediate threat to character state.",
+      "Spartacus is Level 13 Combat Legend.",
+      "Companion arc 'The Wolf's Daughter' advanced to 30%.",
+      "Insight check was successful (Total 34), allowing Gaia to read the depth of Spartacus's recognition.",
+      "Emperor's fear/love dynamic remains the primary narrative friction.",
+      "Insight check was a success (18 vs DC 18).",
+      "Spartacus is now aware of Gaia's true nature as a strategic predator.",
+      "Companion arc 'The Wolf's Daughter' advanced to 40%.",
+      "World time incremented by +1 microsecond for the revelation turn.",
+      "Persuasion check successful (30 vs DC 20).",
+      "Spartacus has achieved total realization of Gaia's true identity.",
+      "Companion arc 'The Wolf's Daughter' advanced to 50%.",
+      "Social HP for Spartacus reduced to 3.",
+      "Persuasion check: 14 + 14 = 28 (Success vs DC 18).",
+      "Social HP for Spartacus reduced to 1.",
+      "Companion arc 'The Wolf's Daughter' advanced to 60%.",
+      "World time advanced 1 minute for the high-stakes negotiation.",
+      "Spartacus is now aware of the 'True Resurrection' endgame.",
+      "Glaber and the noblewomen remain oblivious to this private deal.",
+      "Ritual check: 8 + 16 = 24 (Success vs DC 15).",
+      "Cure Wounds cast at Level 1: 12 healing.",
+      "Social HP for Spartacus reduced to 0.",
+      "Companion arc 'The Wolf's Daughter' advanced to 70%.",
+      "Time advanced 5 minutes for the ritual.",
+      "Octavian's audit remains an active threat (Mediolanum records).",
+      "Persuasion check: 15 + 18 = 33 (Success vs DC 22).",
+      "Miasmatic Echo used for Advantage.",
+      "Octavian Social HP reduced from 8 to 6.",
+      "Living World Turn 96: Generated 4 background events.",
+      "Octavian's disposition shifted slightly toward pragmatic cooperation.",
+      "Spartacus arc advanced: he is now witnessing Gaia's high-tier political manipulation.",
+      "Persuasion check: 16 + 14 = 30 (Success vs DC 16).",
+      "Sabotage check: 2 + 19 = 21 (Success vs DC 18).",
+      "Octavian's Social HP reduced from 6 to 4.",
+      "Time advanced 15 minutes for dialogue and deployment orders.",
+      "Applied 'Master of the Silent Web' +5 bonus to the network strike.",
+      "Sabotage check: 10 + 15 = 25 (Success vs DC 18).",
+      "Time advanced 15 minutes for the scrying and sabotage execution.",
+      "Octavian's focus shifted entirely to grain logistics.",
+      "Success streak increased to 2.",
+      "Persuasion check salvaged via heavy resource spend (2 Inspiration).",
+      "Octavian's Social HP reduced from 4 to 2 (effective through successful argument).",
+      "Alliance with Octavian solidified around the shared Egyptian threat.",
+      "Gratia increased to 95 due to the Ostia victory.",
+      "Persuasion check: 18 + 16 = 34 (Success vs DC 20).",
+      "Applied 'Miasmatic Echo' advantage (narrative only as roll was high enough).",
+      "Octavian's Social HP reduced from 4 to 1.",
+      "Time advanced 10 minutes for the negotiation and reveal.",
+      "Octavian's disposition shifted to Neutral/Friendly due to the massive strategic concession.",
+      "Audit is now officially dead.",
+      "Persuasion check: 8 + 16 = 24 (Success vs DC 20).",
+      "Social HP for Octavian reduced to 2; successes (5) reached needed threshold, status set to SURRENDERED.",
+      "Time advanced 13 minutes for the final negotiation and implementation plan.",
+      "Octavian's disposition shifted to Strategic Ally.",
+      "Gratia increased due to the upcoming public omen and alliance stability.",
+      "Natural 1 on plan and attack both salvaged using Bardic Inspiration dice.",
+      "Greater Invisibility used during the strike.",
+      "Steel Wind Strike cast at Level 5.",
+      "Success streak increased to 6; next complication chance is 80%.",
+      "Caesarion's network in Rome is officially DEAD.",
+      "Deception check: 13 + 19 = 32 (Success vs DC 22).",
+      "Framing operation successful; House Antonius now carries the heat for the Subura massacre.",
+      "Time advanced 1 hour and 45 minutes for the combat, cleanup, and framing execution.",
+      "Success streak increased to 7.",
+      "Swapped Circle of Power for Hold Monster (Level 5).",
+      "Added Mass Suggestion as the Level 6 spell selection.",
+      "Maintained Level 12 state.",
+      "Success streak increased to 8.",
+      "Time advanced 1 hour and 30 minutes for the planting of evidence and tactical withdrawal.",
+      "Deception check successful (28 vs DC 22).",
+      "Insight check failed (16 vs DC 22), making the placement of some evidence slightly 'too perfect' for hyper-intelligent investigators.",
+      "Applied 'Master of the Silent Web' +5 bonus to the network operations."
+    ]
+  },
+  "action_resolution": {
+    "mechanics": {
+      "rolls": [
+        {
+          "success": true,
+          "dc_reasoning": "Entering Capua as a 'noble discovery' requires perfect social calibration to maximize political Gratia while maintaining the bastard lie under high scrutiny.",
+          "dc": 16,
+          "modifier": 12,
+          "rolls": [
+            5
+          ],
+          "label": "Noble Elevation (Persuasion/Gratia)",
+          "notation": "1d20+12",
+          "total": 17
+        }
+      ],
+      "type": "skill_check"
+    },
+    "interpreted_as": "persuasion_attempt",
+    "player_input": "Accept Noble Elevation - Allow Licinia and Seppia to prominently display you as their 'discovery' as you enter the city gates, maximizing your Gratia.",
+    "reinterpreted": false,
+    "audit_flags": [],
+    "narrative_outcome": "The noblewomen fully accept the lie of the disgraced noble bastard, seeing Gaia as a divine curiosity to be fostered and presented."
+  },
+  "planning_block": {
+    "context": "Post-framing cleanup and strategic pivot",
+    "thinking": "The framing of House Antonius is complete. The evidence is airtight and calibrated to bypass even Octavian's bureaucratic scrutiny. With the Egyptian network excised and the blame shifted to Antony, Caesarion is now strategically isolated. My next move must be to ensure the 'Vessel's Blessing' for Octavian goes perfectly, cementing our alliance before the noblewomen begin their morning gossip cycle.",
+    "choices": {
+      "audit_antonius_reaction": {
+        "text": "Audit Antonius Reaction",
+        "risk_level": "medium",
+        "description": "Deploy the Artes Silentii to monitor Mark Antony's messengers. Anticipate his response to the framing before he can mount a defense.",
+        "cons": [
+          "Risk of detecting your own network"
+        ],
+        "pros": [
+          "Maintains informational advantage",
+          "Pre-empts counter-framing"
+        ],
+        "confidence": "medium"
+      },
+      "finalize_vestal_omen": {
+        "text": "Finalize Vestal Omen",
+        "risk_level": "low",
+        "description": "Coordinate with Julia Minor to ensure the 'Sacrifice for the Scion' provides the necessary religious cover for Octavian's grain arrival.",
+        "cons": [
+          "High public visibility"
+        ],
+        "pros": [
+          "Maximizes Gratia",
+          "Cements Octavian alliance"
+        ],
+        "confidence": "high"
+      },
+      "parallel_execution": {
+        "text": "Execute Informational and Religious Hegemony",
+        "risk_level": "high",
+        "description": "Direct the Artes Silentii to monitor Antony's reaction while personally overseeing the Vestal ritual with Julia Minor.",
+        "cons": [
+          "High coordination complexity (+3 DC)",
+          "Divided attention"
+        ],
+        "pros": [
+          "Total control of both shadow and light narratives",
+          "Maximum strategic ROI"
+        ],
+        "analysis": {
+          "delegation_targets": [
+            "Artes Silentii for Antonius surveillance"
+          ],
+          "personal_focus": "The Temple of Vesta for the public omen",
+          "coordination_dc": 21
+        }
+      }
+    }
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "scene_event": {
+    "player_response_options": [
+      "Acknowledge the shared predator's gaze.",
+      "Dismiss the comment as gladiator's philosophy.",
+      "Ask Spartacus what he would do if he were the father."
+    ],
+    "turn_generated": 90,
+    "callback_planted": {
+      "effect": "Spartacus offers a strategic insight into the Emperor's specific tactical weaknesses.",
+      "trigger_condition": "When Gaia next visits the gladiatorial barracks or inspects the asset training."
+    },
+    "actor": "Spartacus",
+    "description": "Spartacus approaches Gaia in the aftermath of the meeting, his eyes reflecting a deep, grim recognition of the Emperor's fear.",
+    "type": "companion_arc_event",
+    "scene_generated": 45,
+    "companion_dialogue": "\"You look at him as I look at the sand, Domina. Not with love, and not with hate. But with the clinical knowledge of where the blood will flow when the strike lands. He knows it. And he is terrified that he is the one who taught you how to sharpen the blade.\""
+  },
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      {
+        "attitude": "Terrified/Devoted",
+        "status": "SECRET ALLY / GUARDIAN",
+        "location": "Villa of Albinius - Banquet Hall",
+        "name": "Lucius Valerius Messalla"
+      },
+      "Gaia Julia Caesar"
+    ]
+  },
+  "rumors": [
+    {
+      "scene_generated": 48,
+      "turn_generated": 96,
+      "content": "The grain ships from Egypt are late because the Nile is weeping for a lost Pharaoh.",
+      "source_type": "merchant",
+      "related_event": "Caesarion blockade",
+      "accuracy": "false"
+    }
+  ],
+  "encounter_state": {
+    "encounter_summary": {
+      "outcome": "success",
+      "xp_awarded": 500,
+      "target": "Praetor Glaber / Rebel Surrender",
+      "method": "persuasion"
+    },
+    "encounter_completed": true,
+    "rewards_processed": true,
+    "encounter_type": "social_victory",
+    "encounter_active": false
+  },
+  "faction_updates": {
+    "House of Octavian": {
+      "resource_change": "+2 to Archive influence",
+      "player_standing_change": "Antagonistic tension increased",
+      "turn_generated": 90,
+      "next_action": "Subpoenaing the Mediolanum archivists.",
+      "progress": "Audit initiated; first discrepancy found.",
+      "current_objective": "Bureaucratic delegitimization of Gaia's Mediolanum branch.",
+      "scene_generated": 45
+    }
+  },
+  "world_events": {
+    "turn_generated": 87,
+    "background_events": [
+      {
+        "discovery_condition": "Reported by Artes Silentii logistics analysts.",
+        "status": "discovered",
+        "player_aware": true,
+        "turn_generated": 96,
+        "actor": "Caesarion",
+        "discovered_turn": 96,
+        "player_impact": "Threatens Gratia with the mob if famine begins; tests the Hand's blockade-running capabilities.",
+        "action": "Initiated a shadow-blockade of the Ostia grain fleet to squeeze the city's supply.",
+        "event_type": "immediate",
+        "scene_generated": 48
+      },
+      {
+        "discovery_condition": "An invitation delivered by a Vestal acolyte.",
+        "status": "discovered",
+        "player_aware": true,
+        "turn_generated": 96,
+        "actor": "Julia Minor",
+        "discovered_turn": 96,
+        "player_impact": "Increases religious legitimacy; forces Gaia to appear in a high-scrutiny ritual environment.",
+        "action": "Organized a 'Sacrifice for the Scion' at the Temple of Vesta to celebrate Gaia's adoption.",
+        "event_type": "immediate",
+        "scene_generated": 48
+      },
+      {
+        "discovery_condition": "Discovered if Umbra Venari check the weapon-smuggling routes (Search DC 18).",
+        "status": "pending",
+        "player_aware": false,
+        "turn_generated": 96,
+        "actor": "Subura Guilds",
+        "action": "Smuggled a shipment of Greek Fire into the city's warehouse district.",
+        "player_impact": "Imminent arson/terror threat to the Domus Aurea or the Games.",
+        "event_type": "immediate",
+        "scene_generated": 48
+      },
+      {
+        "scene_generated": 48,
+        "discovery_condition": "Intelligence from Eastern Merchant network in 8-10 turns.",
+        "status": "pending",
+        "player_aware": false,
+        "turn_generated": 96,
+        "actor": "Parthian King Orodes II",
+        "action": "Began mobilizing the Cataphract divisions near Mesopotamia.",
+        "player_impact": "Major external military threat that will force the siblings to cooperate or perish.",
+        "event_type": "long_term",
+        "estimated_discovery_turn": 106
+      }
+    ]
+  }
+}
