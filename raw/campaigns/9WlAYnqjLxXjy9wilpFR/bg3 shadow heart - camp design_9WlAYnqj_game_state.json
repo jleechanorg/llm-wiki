@@ -1,0 +1,449 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "class": "Paladin",
+    "death_saves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "background": "Noble",
+    "mbti": "ISTJ",
+    "proficiency_bonus": 4,
+    "attributes": {
+      "strength": 15,
+      "dexterity": 14,
+      "intelligence": 8,
+      "wisdom": 10,
+      "charisma": 25,
+      "constitution": 16
+    },
+    "combat_stats": {
+      "speed": 30,
+      "passive_perception": 10,
+      "initiative": 7
+    },
+    "gold_per_day": null,
+    "status_conditions": [],
+    "string_id": "pc_shadowheart_001",
+    "alignment": "Lawful Evil",
+    "saving_throw_proficiencies": [
+      "Wisdom",
+      "Charisma",
+      "Dexterity"
+    ],
+    "resources": {
+      "hit_dice": {
+        "used": 0,
+        "total": 12
+      },
+      "consumables": {
+        "arrows": 0,
+        "antidote": 0,
+        "antitoxin": 0,
+        "healing_potions": 0,
+        "crossbow_bolts": 0,
+        "other_notable": [],
+        "torches": 0,
+        "greater_healing_potions": 0,
+        "rations_days": 0,
+        "superior_healing_potions": 0,
+        "oil_flasks": 0,
+        "sling_bullets": 0,
+        "water_days": 0
+      },
+      "spell_slots": {
+        "level_7": {
+          "used": 0,
+          "total": 1
+        },
+        "level_5": {
+          "used": 0,
+          "total": 3
+        },
+        "level_1": {
+          "used": 0,
+          "total": 4
+        },
+        "level_6": {
+          "used": 0,
+          "total": 2
+        },
+        "level_2": {
+          "used": 0,
+          "total": 3
+        },
+        "level_4": {
+          "used": 0,
+          "total": 3
+        },
+        "level_8": {
+          "used": 0,
+          "total": 1
+        },
+        "level_3": {
+          "used": 0,
+          "total": 3
+        }
+      },
+      "light_sources": {
+        "current": "None",
+        "backup": [],
+        "duration_remaining": "N/A"
+      },
+      "gold": 20000,
+      "exhaustion_level": 0,
+      "inspiration": false,
+      "class_features": {
+        "song_of_rest": true,
+        "lay_on_hands": {
+          "used": 0,
+          "total": 10
+        },
+        "font_of_inspiration": true,
+        "fighting_style": "Dueling",
+        "bardic_inspiration": {
+          "used": 0,
+          "die": "d10",
+          "total": 5
+        },
+        "countercharm": true,
+        "divine_sense": {
+          "used": 0,
+          "total": 4
+        },
+        "extra_attack": true,
+        "blade_flourish": true,
+        "expertise": [
+          "Intimidation",
+          "Persuasion",
+          "Stealth"
+        ],
+        "jack_of_all_trades": true,
+        "divine_smite": true,
+        "magical_secrets": [
+          "Fireball",
+          "Spirit Guardians"
+        ],
+        "channel_divinity": [
+          "Control Undead",
+          "Dreadful Aspect"
+        ]
+      },
+      "short_rests": {
+        "used": 0,
+        "total": 2
+      },
+      "long_rests_since_last": 0
+    },
+    "experience": {
+      "needed_for_next_level": 2700,
+      "total_earned": 900,
+      "current": 900,
+      "to_next_level": 119100
+    },
+    "experience_to_next_level": null,
+    "temp_hp": 0,
+    "followers": null,
+    "features": [
+      "Divine Sense",
+      "Lay on Hands",
+      "Divine Smite",
+      "Fighting Style: Dueling",
+      "Channel Divinity (Control Undead, Dreadful Aspect)",
+      "Spellcasting",
+      "Bardic Inspiration",
+      "Jack of All Trades",
+      "Song of Rest",
+      "Expertise",
+      "Font of Inspiration",
+      "Countercharm",
+      "Blade Flourish",
+      "Extra Attack",
+      "Magical Secrets",
+      "Alert",
+      "Ability Score Improvement (+2 Charisma)"
+    ],
+    "hp_max": 93,
+    "spells_known": [],
+    "level": 12,
+    "skills": [
+      "Athletics",
+      "Insight",
+      "Intimidation",
+      "Persuasion",
+      "Religion",
+      "Performance",
+      "Stealth"
+    ],
+    "hp_current": 93,
+    "name": "Shadowheart",
+    "armor_class": 23,
+    "active_effects": [],
+    "equipment": {
+      "shield": "Viconia's Walking Fortress",
+      "armor": "Helldusk Armour",
+      "other_notable": [
+        "Cloak of the Weave",
+        "Amulet of Bhaal",
+        "Ring of Regeneration",
+        "Killer's Sweetheart",
+        "Risky Ring",
+        "Helmet of Arcane Acuity",
+        "Backpack with basic adventuring gear"
+      ],
+      "weapons": [
+        "Shar's Spear of Evening",
+        "Bloodthirst",
+        "Crimson Mischief"
+      ]
+    }
+  },
+  "world_data": {
+    "kingdom": "Faer\u00fbn (Western Heartlands)",
+    "world_time": {
+      "minute": 51,
+      "time_of_day": "Morning",
+      "day": 20,
+      "second": 10,
+      "year": 1492,
+      "hour": 9,
+      "month": "Ches",
+      "microsecond": 0
+    },
+    "current_location": "loc_house_of_grief_001",
+    "locations": {
+      "loc_house_of_grief_001": {
+        "environmental_effects": [
+          "perpetual gloom",
+          "humming dark power",
+          "chilling stillness"
+        ],
+        "description": "A colossal monument to the Lady of Loss, now your unassailable fortress and the heart of your burgeoning empire. The very air here hums with latent, dark power, its architecture a chilling testament to Shar's grim majesty. Obsidian towers pierce the perpetual gloom, and within its vast, echoing halls, your loyal acolytes and agents move like shadows, preparing for the grand design.",
+        "connected_to": [],
+        "display_name": "Shar's House of Grief",
+        "entities_present": [
+          "pc_shadowheart_001",
+          "npc_astrid_vane_001",
+          "npc_borin_stonehand_001",
+          "npc_glynnis_hearthstone_001"
+        ]
+      }
+    },
+    "political_situation": "Various factions vie for power, light deities hold sway in many regions, ripe for Sharran infiltration."
+  },
+  "npc_data": {
+    "Borin Stonehand": {
+      "class": "Fighter",
+      "relationships": {
+        "pc_shadowheart_001": "unwavering loyalty"
+      },
+      "personality_traits": [
+        "stoic",
+        "disciplined",
+        "loyal"
+      ],
+      "mbti": "ESTJ",
+      "hidden": false,
+      "attributes": {
+        "strength": 18,
+        "dexterity": 10,
+        "intelligence": 10,
+        "wisdom": 14,
+        "charisma": 10,
+        "constitution": 18
+      },
+      "combat_stats": {
+        "speed": 25,
+        "initiative": 0,
+        "passive_perception": 12
+      },
+      "faction": "faction_shars_chosen_001",
+      "conscious": true,
+      "present": true,
+      "gender": "male",
+      "string_id": "npc_borin_stonehand_001",
+      "recent_actions": [],
+      "attitude_to_party": "loyal",
+      "status": "Ready to fortify",
+      "hp_max": 110,
+      "level": 12,
+      "hp_current": 110,
+      "age": 75,
+      "knowledge": [
+        "fortification",
+        "combat tactics",
+        "dwarven lore"
+      ],
+      "role": "Fighter/Tank",
+      "armor_class": 19,
+      "equipment": [
+        "plate armor",
+        "shield",
+        "greataxe"
+      ]
+    },
+    "Astrid Vane": {
+      "class": "Rogue",
+      "relationships": {
+        "pc_shadowheart_001": "unwavering loyalty"
+      },
+      "personality_traits": [
+        "pragmatic",
+        "analytical",
+        "secretive"
+      ],
+      "mbti": "INTJ",
+      "hidden": false,
+      "attributes": {
+        "strength": 10,
+        "dexterity": 18,
+        "intelligence": 16,
+        "wisdom": 12,
+        "charisma": 12,
+        "constitution": 14
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 4,
+        "passive_perception": 15
+      },
+      "faction": "faction_shars_chosen_001",
+      "conscious": true,
+      "present": true,
+      "gender": "female",
+      "string_id": "npc_astrid_vane_001",
+      "recent_actions": [],
+      "attitude_to_party": "loyal",
+      "status": "Ready to serve",
+      "hp_max": 75,
+      "level": 12,
+      "hp_current": 75,
+      "age": 25,
+      "knowledge": [
+        "spycraft",
+        "infiltration",
+        "secrets"
+      ],
+      "role": "Rogue/Scout",
+      "armor_class": 15,
+      "equipment": [
+        "daggers",
+        "light crossbow",
+        "leather armor"
+      ]
+    },
+    "Glynnis Hearthstone": {
+      "class": "Bard",
+      "relationships": {
+        "pc_shadowheart_001": "unwavering loyalty"
+      },
+      "personality_traits": [
+        "charismatic",
+        "manipulative",
+        "artistic"
+      ],
+      "mbti": "INFJ",
+      "hidden": false,
+      "attributes": {
+        "strength": 8,
+        "dexterity": 14,
+        "intelligence": 12,
+        "wisdom": 14,
+        "charisma": 18,
+        "constitution": 13
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 2,
+        "passive_perception": 12
+      },
+      "faction": "faction_shars_chosen_001",
+      "conscious": true,
+      "present": true,
+      "gender": "female",
+      "string_id": "npc_glynnis_hearthstone_001",
+      "recent_actions": [],
+      "attitude_to_party": "loyal",
+      "status": "Ready to inspire",
+      "hp_max": 78,
+      "level": 12,
+      "hp_current": 78,
+      "age": 80,
+      "knowledge": [
+        "social manipulation",
+        "arcane lore",
+        "performance"
+      ],
+      "role": "Bard/Support",
+      "armor_class": 14,
+      "equipment": [
+        "lute",
+        "light armor",
+        "dagger"
+      ]
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "campaign_arcs": {
+      "infiltration_of_the_divine": {
+        "target_pantheon": "gods of light and good",
+        "status": "planned"
+      },
+      "companion_priorities": [
+        "Astarion",
+        "Minthara"
+      ],
+      "netherese_crown": {
+        "objective_timing": "mid-game",
+        "status": "planned",
+        "emergence": "narrative_opportunities"
+      },
+      "cultivating_the_perfect_despair": {
+        "target_emergence": "organic",
+        "status": "planned"
+      }
+    },
+    "attribute_system": "D&D",
+    "completed_missions": [],
+    "active_missions": [],
+    "current_focus": "Consolidating Power",
+    "core_memories": [
+      "Campaign re-launched for Shadowheart as Night Sovereign, Paladin 2 / Bard 10, with BG3 legendary gear and Sharran-aligned companions. Focus on Divine Infiltration (light gods) and Cultivating Despair. Netherese Crown is mid-game objective. Prioritizing Astarion & Minthara encounters. Starting in Shar's House of Grief."
+    ],
+    "arc_milestones": {},
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "active_constraints": [],
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2025-07-08 09:29:17.597000+00:00",
+  "turn_number": 0,
+  "player_turn": 0,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "minute": 51,
+    "time_of_day": "Morning",
+    "day": 20,
+    "second": 10,
+    "year": 1492,
+    "hour": 9,
+    "month": "Ches"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "migration_status": "MIGRATED"
+}

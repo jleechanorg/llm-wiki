@@ -1,0 +1,198 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "death_saves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "experience": {
+      "current": 900,
+      "needed_for_next_level": 2700,
+      "to_next_level": 1800
+    },
+    "features": [
+      "Divine Sense",
+      "Lay on Hands",
+      "Fighting Style (Defense)",
+      "Spellcasting",
+      "Divine Smite",
+      "Divine Health",
+      "Sacred Oath: Oath of the Ancients",
+      "Channel Divinity: Nature's Wrath",
+      "Channel Divinity: Turn the Faithless"
+    ],
+    "hp_max": 22,
+    "level": 3,
+    "hp_current": 22,
+    "status_conditions": [
+      "Wanted for Treason",
+      "Dragon-Claimed"
+    ],
+    "alignment": "Neutral Good",
+    "spells_known": [
+      "Ensnaring Strike (Oath)",
+      "Speak with Animals (Oath)"
+    ],
+    "resources": {
+      "hit_dice": {
+        "used": 0,
+        "max": 3
+      },
+      "spell_slots": {
+        "level_1": {
+          "used": 0,
+          "max": 3
+        }
+      },
+      "lay_on_hands": {
+        "used": 0,
+        "max": 15
+      },
+      "exhaustion_level": 0,
+      "channel_divinity": {
+        "used": 0,
+        "max": 1
+      }
+    }
+  },
+  "world_data": {
+    "timestamp_iso": "2026-01-02T07:15:00.000000Z",
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 15,
+      "hour": 7,
+      "time_of_day": "Morning",
+      "day": 3,
+      "year": 11,
+      "month": "Kythorn"
+    },
+    "current_location_name": "Crystalline Peaks (Aurum's Roost)"
+  },
+  "npc_data": {
+    "Lyra val Valerion": {
+      "status": "threatened",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "history": [
+            "Worships Arion",
+            "Targeted for re-education"
+          ]
+        }
+      }
+    },
+    "Marcus val Valerion": {
+      "status": "under_observation",
+      "relationships": {
+        "player": {
+          "disposition": "conflicted",
+          "history": [
+            "Arion declared a traitor at Ashwood"
+          ]
+        }
+      }
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "arc_milestones": {
+      "primary_arc": {
+        "phase": "oath_sworn",
+        "progress": 50,
+        "status": "in_progress"
+      }
+    },
+    "last_story_mode_sequence_id": 50,
+    "attribute_system": "D&D",
+    "last_location": "Crystalline Peaks (Aurum's Roost)",
+    "active_constraints": [],
+    "core_memories": [
+      "[auto] The steel of 'Duty's Edge' clears its scabbard with a sound like a winter gale. For a heartbeat, the only noise is the whistling wind, and then you step forward\u2014not toward the terrified child, but between her and the disciplined line of the Argent Eaglets. You plant your shield, the Two Suns of the Imperium gleaming with a sudden, defiant light.\n\n\"Stand down!\" your voice rings out, amplified by the hollow of your Gryphon Helm. \"These are not 'assets' or 'breaches.' They are the blood of A",
+      "[auto] Your voice booms across the courtyard, cutting through the freezing wind and the heavy silence of Imperial discipline. \"Guards of Ashwood! You served Lady Annalise because you believed in her honor! Will you stand by while the Eaglets butcher your own kin? And you, people of the North\u2014do not die on your knees! If we are to be declared breaches in their registry, let us be a breach they cannot mend!\"\n\nFor a moment, the psychic weight of the Empress's peace seems to ripple. The Ashwood guar",
+      "[auto] The snowy courtyard becomes a cacophony of shouting men and clashing steel. You plant your feet, the weight of your Valerion plate anchoring you as the Argent Eaglets\u2014your former brothers\u2014level their spears and charge. \"Ashwood! To the flanks!\" you roar, pointing toward the gaps in the Imperial line. \"Take them while they're fixed on me!\"\n\nThe Ashwood militia, though bolstered by your presence, hesitates for a fraction of a second too long. They move, but their formation is ragged, their ",
+      "[auto] You heave your weight against the rim of your shield, the sun-emblazoned steel biting into the Imperial vanguard. [DICE: Athletics 1d20+5 = 7+5 = 12 vs DC 13 (Fail)]. You push, but the Eaglets are veterans of the Western Wall; they lock their greaves into the slush and hold. The line shudders but doesn't break. You catch a glimpse of the refugees behind you\u2014the gate is half-closed, timber scraping over stone as they struggle with the heavy iron bolt.\n\n\"Push, you curs!\" Gratian screams fro",
+      "[auto] You shift your weight, pivoting on the icy cobbles as Gratian\u2019s mount rears. Instead of pushing the line, you lunge. 'Duty's Edge' whistles through the freezing air, the blade catching the morning light as it bites deep into the Prefect's thigh, just beneath his ornate hip-guard. [DICE: Attack 1d20 +5 = 13 +5 = 18 vs AC 18 (Hit)]. \n\nGratian howls, his face twisting from arrogance to a mask of sheer agony. Blood, dark and steaming in the cold, sprays onto the white slush. \"You... little...",
+      "[auto] You lunge forward, 'Duty's Edge' shimmering in the pale morning light as you seek to end the Prefect's command. But the icy slush betrays you; your front boot slips an inch, and your strike skims harmlessly off Gratian's blackened breastplate with a screech of metal on metal. [DICE: Attack 1d20+5 = 12+5 = 17 vs AC 18 (Miss)].\n\nGratian seizes the opening. Spitting blood and snarling through the pain of his leg wound, he brings his heavy blade down in a brutal, overhead cleave. [DICE: Attac",
+      "[auto] Pain is a white-hot roar in your shoulder, but you force your muscles to lock, teeth grinding against the copper taste of your own blood. You pour every remaining ounce of your strength into a desperate, lunging counter-thrust. But the world is spinning, the snow slick with gore, and your blade 'Duty's Edge' feels like it weighs a thousand pounds. You strike, but the blow is clumsy, lacking the lethal precision of your training. Gratian simply leans back in his saddle, the tip of your swo",
+      "[auto] Pain is a white-hot roar in your shoulder, but you force your muscles to lock, teeth grinding against the copper taste of your own blood. You pour every remaining ounce of your strength into a desperate, lunging counter-thrust. Despite the world spinning and the snow slick with gore, 'Duty's Edge' finds its mark, biting through Gratian's guard even as your strength fails. \n\n[DICE: Arion Desperate Counter: 1d20 +5 = 18 +5 = 23 vs AC 18 (Hit)] \n[DAMAGE: 1d8 +3 = 5 +3 = 8 Slashing]\n\nGratian ",
+      "[auto] Your vision blurs as you slump into the crimson-stained snow, the cold leaching into your bones. Through the ringing in your ears, you hear the muffled sounds of the battle continuing\u2014the screams of the Ashwood guards and the rhythmic, metallic clatter of the Argent Eaglets. Your fingers, slick with your own blood, brush against the familiar etched steel of your equipment one last time before darkness threatens to pull you under. You barely feel the weight of your armor, once your pride, ",
+      "[auto] The world is a kaleidoscope of freezing white and blooming crimson. The iron thud of the gate's bolt was the last sound of the world you knew; now, there is only the wet slap of boots in the slush and the ragged, whistling breath in your own lungs. You are on the wrong side of the wall. Gratian looms over you, a shadow against the pale morning sun, his blackened blade dripping with your life's blood. \n\n'A waste of good steel,' he snarls, raising his sword for the final blow. \n\nBut as your",
+      "[auto] The world dissolves into a blinding, liquid gold. You reach out, your blood-slicked palm meeting a warmth that feels like the sun itself. The crushing weight of the Valerion plate, the agony of your shattered shoulder, and the freezing slush of Ashwood all vanish, replaced by a terrifying, soaring lightness. \n\nBelow you, the courtyard shrinks until Gratian and his Argent Eaglets are mere insects scurrying in the snow. A massive, taloned foot\u2014scales shimmering like polished bullion\u2014cradles",
+      "[auto] You cough, a spray of copper-tasting mist blooming against the thin, mountain air. Your fingers claw at the jagged stone beneath you, the sheer vertigo of the peaks threatening to steal what little breath remains in your lungs. You ignore the dragon's lecture on strategy. You ignore the phantom weight of your shattered pauldron. Your voice is a raspy, desperate croak as you look into the molten suns that are Aurum's eyes.\n\n\"The refugees...\" you wheeze, your vision swimming. \"Ashwood... di",
+      "[auto] Aurum\u2019s molten gaze remains fixed on you, the heat from his scales shimmering in the thin air. When you speak of the Empress, the very mountain seems to groan in sympathy with his low, resonant rumble. \n\n'Sariel is not a woman of anger, Ser Arion,' the dragon vibrates, his voice like the grinding of tectonic plates. 'Anger is a mortal flaw. She is a creature of cold, psychic geometry. To her, you are no longer a knight, a son of House Valerion, or even a man. You are a variable that has f",
+      "[auto] The player is in GOD MODE asking for mechanical clarification on their Armor Class. No story advancement is occurring. I need to explain the math based on their starting gear and provide a way to return to the narrative.",
+      "[auto] Aurum\u2019s eyes pulse with a heat that makes the thin air shimmer, his massive tail sweeping across the jagged granite with the sound of a landslide. 'The Empress\u2019s grip is a weave of psychic geometry, Ser Arion. To challenge it, you cannot simply be strong; you must become a fixed point in a world she seeks to make fluid,' the Gilded King resonates, his voice vibrating in your chest. \n\n'There is an ancient path\u2014the way of the Dragon Knight. It requires more than just an oath of metal; it re",
+      "[auto] Aurum\u2019s massive head tilts, the movement sounding like heavy gold coins sliding over one another. He looks down at your shattered armor and the blood-stained tunic beneath it, the heat from his golden scales radiating outward like a desert noon. \n\n'You speak of rest as if time were a mountain stream, little knight\u2014always flowing, always there for the taking,' the Gilded King resonates, a low vibration that thrums through the soles of your boots. 'But the Empress\u2019s geometry does not pause ",
+      "[auto] The transition into sleep is not a descent, but a surrender. The sun-warmed granite of the Roost acts as a natural hearth, radiating a deep, ancient heat that seeps through your battered plate and into your very marrow. As the shadows of the peaks stretch long and blue across the aetherial clouds below, your consciousness drifts away from the pain of your shattered shoulder and the stinging cold of betrayal.\n\nDreams haunt the periphery\u2014visions of Ashwood in flames, the rhythmic clatter of",
+      "[auto] You stand on the edge of the Roost, the wind whipping your cloak against the dented Valerion plate. The stiff, itchy pull of new skin across your shoulder is a physical reminder of the price you paid at Ashwood, but the clarity in your mind is something new\u2014a sharp, diamond edge that cuts through the lingering fog of the Empress's psychic hum.\n\nAurum rises, his golden scales catching the first true rays of the sun. The mountain seems to tilt as he shifts his massive weight. 'The path is n",
+      "[auto] Aurum\u2019s tail twitches, the golden scales clinking like a mountain of coins. He looks at your dented plate and then back toward the distant, smoke-stained horizon of Winter-Mourn. \n\n'You speak of gear as if the steel makes the knight, Ser Arion. Your Valerion plate is shattered, a husk of a life you have outgrown. But you are correct\u2014a warrior without a sharp edge is merely a martyr in waiting. The aether does not just forge the soul; it calls to the remnants of those who came before. If y",
+      "[auto] As the first rays of the Kythorn sun strike the obsidian bridge, a profound change ripples through you. The dragon's words act as a catalyst, unlocking a reservoir of power that had been dormant, suppressed by the rigid psychic geometry of your former life. You feel your connection to the divine broaden\u2014no longer just a channel for the Empress's law, but a conduit for the raw, golden energy of the aether itself.\n\nYour broken shoulder knits with a surge of warmth, and the dents in your pla",
+      "[auto] The light of the rising sun is no longer just a distant fire; it is a weight, a presence that settles upon your shoulders with the gravity of a mandate. As you stand before the Gilded King, you feel the final shackles of your former life\u2014the rigid, cold psychic geometry of the Celestial Imperium\u2014snap and dissolve. In their place, a new warmth takes root, a core of unyielding conviction that burns brighter than any Imperial edict.\n\n'The metal of the oath is not the blade, but the man who w",
+      "[auto] You kneel upon the white quartz of the Sun-Gazer's amphitheater, your shattered Valerion plate reflecting the blinding gold of the rising sun. As you speak the ancient words of the Oath of the Ancients, the very mountain seems to exhale a breath of spring. You commit yourself not to the cold geometry of the Empress, but to the preservation of the light, the beauty of the wild, and the absolute freedom of the soul.\n\nGreen vines, impossibly vibrant and smelling of rain-washed earth, sprout "
+    ],
+    "reputation": {
+      "public": {
+        "score": -10,
+        "notoriety_level": "disreputable",
+        "known_deeds": [
+          "Openly defied Prefect Gratian's orders at Ashwood Keep",
+          "Rallied refugees to resist the Imperial Argent Eaglets"
+        ]
+      }
+    },
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "initiative_order": [],
+    "combat_summary": null,
+    "combat_trigger": "Ser Arion's defiance escalates into an armed uprising at the gates.",
+    "combat_phase": "idle",
+    "combatants": {},
+    "in_combat": false,
+    "current_round": null,
+    "rewards_processed": false,
+    "combat_session_id": null,
+    "combat_history": [
+      {
+        "enemies_defeated": [],
+        "xp_awarded": 0,
+        "rounds_fought": 6,
+        "outcome": "pc_defeated_dragon_intervention",
+        "archived_at": "2026-01-01T06:26:48.622578+00:00",
+        "session_id": "combat_1703001234_ashw"
+      }
+    ]
+  },
+  "last_state_update_timestamp": "2026-01-01 09:54:30.594000+00:00",
+  "turn_number": 24,
+  "player_turn": 24,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "minute": 15,
+    "hour": 7,
+    "time_of_day": "Morning",
+    "day": 3,
+    "year": 11,
+    "month": "Kythorn"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {
+    "last_note": "HD: 3/3, Spells: L1 3/3, Lay on Hands: 15/15, Divine Sense: 4/4, Exhaustion: 0"
+  },
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+}

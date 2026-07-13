@@ -1,0 +1,2119 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "world_data": {
+      "world_time": {
+        "second": 0,
+        "microsecond": 0,
+        "hour": 20,
+        "minute": 25,
+        "time_of_day": "Night",
+        "day": 22,
+        "year": 1492,
+        "month": "Mirtul"
+      },
+      "timestamp_iso": "2026-01-13T20:25:00Z"
+    },
+    "proficiency_bonus": 5,
+    "custom_campaign_state": {
+      "arc_milestones": {
+        "primary_arc": {
+          "phase": "ascension_complete",
+          "updated_at": "2026-01-13T00:25:00Z",
+          "status": "completed"
+        }
+      },
+      "core_memories": [
+        "Consumed Banite spy soul publicly; gained Gortash intel. Army devotion peaks."
+      ],
+      "success_streak": 12
+    },
+    "npc_data": {},
+    "attributes": {
+      "strength": 10,
+      "dexterity": 16,
+      "intelligence": 18,
+      "wisdom": 12,
+      "charisma": 36,
+      "constitution": 10
+    },
+    "active_thralls": {
+      "npc_gut_001": {
+        "status": "thrall_loyal",
+        "tier": "lord_general"
+      },
+      "npc_laezel_001": {
+        "status": "thrall_fanatical",
+        "tier": "noble_knight",
+        "level": 9
+      },
+      "npc_ragzlin_001": {
+        "status": "thrall_loyal",
+        "tier": "lord_general"
+      },
+      "npc_astarion_001": {
+        "status": "thrall_fanatical",
+        "tier": "noble_knight",
+        "level": 9
+      },
+      "npc_minthara_001": {
+        "status": "thrall_loyal",
+        "relationships": {
+          "player": {
+            "disposition": "allied",
+            "trust_level": 5,
+            "history": [
+              "Subjugated through Abyssal pressure and Gilded Tether",
+              "Spirit SIPPED to anchor the bond"
+            ]
+          }
+        },
+        "tier": "general"
+      },
+      "npc_loic_001": {
+        "status": "thrall_loyal",
+        "tier": "noble_knight"
+      },
+      "npc_olodan_001": {
+        "status": "thrall_loyal",
+        "tier": "general"
+      },
+      "npc_aradin_001": {
+        "status": "thrall_loyal",
+        "tier": "lord_general"
+      },
+      "npc_zevlor_001": {
+        "status": "thrall_loyal",
+        "tier": "lord_general"
+      },
+      "npc_marcoryl_001": {
+        "status": "thrall_loyal",
+        "tier": "noble_knight"
+      },
+      "npc_gale_001": {
+        "status": "thrall_fanatical",
+        "tier": "noble_knight",
+        "level": 9
+      },
+      "npc_kagha_001": {
+        "status": "thrall_loyal",
+        "tier": "general"
+      },
+      "npc_shadowheart_001": {
+        "status": "thrall_fanatical",
+        "tier": "noble_knight",
+        "level": 9
+      }
+    },
+    "spells_known": [
+      {
+        "level": 6,
+        "name": "Eyebite"
+      },
+      {
+        "level": 6,
+        "name": "Otto's Irresistible Dance"
+      }
+    ],
+    "resources": {
+      "gold": 1006527,
+      "hit_dice": {
+        "used": 0,
+        "total": 13
+      },
+      "experience": {
+        "needed_for_next_level": 6500
+      },
+      "class_features": {
+        "pheromone_spike": {
+          "used": 0,
+          "max": 5
+        },
+        "bardic_inspiration": {
+          "used": 0,
+          "max": 6
+        }
+      },
+      "spell_slots": {
+        "level_7": {
+          "used": 0,
+          "max": 1
+        },
+        "level_2": {
+          "used": 0,
+          "max": 3
+        },
+        "level_4": {
+          "used": 0,
+          "max": 3
+        },
+        "level_5": {
+          "used": 0,
+          "max": 2
+        },
+        "level_1": {
+          "used": 0,
+          "max": 4
+        },
+        "level_3": {
+          "used": 0,
+          "max": 3
+        },
+        "level_6": {
+          "used": 0,
+          "max": 1
+        }
+      },
+      "exhaustion_level": 0
+    },
+    "experience": {
+      "needed_for_next_level": 140000,
+      "current": 140300,
+      "to_next_level": 0
+    },
+    "base_attributes": {
+      "strength": 10,
+      "dexterity": 16,
+      "intelligence": 18,
+      "wisdom": 12,
+      "charisma": 32,
+      "constitution": 10
+    },
+    "features": [
+      "Patron: Malcanthet (Abyssal Siren)",
+      "Siren's Leverage",
+      "Malcanthet's Favor",
+      "Song of Rest",
+      "Jack of All Trades",
+      "College of the Abyssal Siren",
+      "The Queen's Curriculum",
+      "The Gilded Tether",
+      "Siren\u2019s Authority (Expertise: Deception, Persuasion)",
+      "Abyssal Arts (Blade Flourish)",
+      "Pheromone Spike (Infinite Charm/Command)",
+      "The Queen's Voice (Bonus Action Command)",
+      "Extra Attack (Level 6 early unlock via Abyssal Siren/Level 5 parity)",
+      "Font of Inspiration (BI refreshes on Short Rest)",
+      "Extra Attack (Level 6 early unlock via Abyssal Siren/Level 5 parity)",
+      "Font of Inspiration (BI refreshes on Short Rest)",
+      "Iron Bark Infusion",
+      "Cloak of Night (Shadow)",
+      "Soul Thief (Stolen from Kagha: Iron Bark Infusion)",
+      "Soul Thief (Stolen from Olodan: Cloak of Night)",
+      "Thorned Gaze (Innate)",
+      "Extra Attack (Unlocked)",
+      "Iron Bark Infusion (+2 AC, Resist Poison/Necrotic)",
+      "Cloak of Night (At-will Invisibility in dim light/dark)",
+      "Thorned Gaze (Innate 3/LR)",
+      "Nature's Step (+10 Stealth in nature/dark)",
+      "Thorned Gaze (At-will Entangle as BA)",
+      "Abyssal Potency",
+      "Shadow Command",
+      "Iron Bark Infusion (+2 AC, Resist Poison/Necrotic)",
+      "Cloak of Night (At-will Invisibility)",
+      "Nature's Step (+10 Stealth)",
+      "Thorned Gaze (BA Entangle)",
+      "Abyssal Potency (+2 Spell DC/Atk)",
+      "Shadow Command",
+      "Soul Trophy: Planar Auditor (True Sight)",
+      "Planar Authority: Recognition by celestial constructs",
+      "Masking Frequency: Mimicry of Auditor signals",
+      "Soul Trophy: Planar Auditor (True Sight)",
+      "Planar Authority: Advantage on social checks vs Outsiders and Constructs",
+      "Masking Frequency: Localized Planar Lattice report mimicry",
+      "Deep Bond (Level 12)",
+      "Celestial Wings",
+      "Aura of the Sovereign",
+      "Abyssal Judgment",
+      "Celestial Wings (60ft Fly Speed)",
+      "Aura of the Sovereign (DC 27 Charm/Psychic Vulnerability)",
+      "Abyssal Judgment (+2d8 Radiant to melee/Vampiric Touch)",
+      "Soul Trophy: Angelic Weapons (Internalized)",
+      "Soul Trophy: Royal Succubus (Sovereign's Kiss)",
+      "Planar Predation: Marked as an anomaly by the Lattice",
+      "Royal Succubus: Etherealness (Action)",
+      "Royal Succubus: Shapechanger (Action)",
+      "Royal Succubus: Draining Kiss (5d10+CHA Psychic)",
+      "Royal Succubus: Telepathic Bond (Permanent)",
+      "Royal Succubus: Planar Resistances (Cold/Fire/Light/Pois/Non-Magical)",
+      "Succubus Resistances (Cold, Fire, Light, Pois, Non-Magical)",
+      "Succubus: Etherealness",
+      "Succubus: Shapechanger",
+      "Succubus: Telepathic Bond",
+      "Succubus: Draining Kiss (5d10+13 Psychic)",
+      "Hybrid Feature: Silver-Brine Flare (Reaction)",
+      "Succubus: Darkvision 60ft",
+      "Succubus: Passive Perception 15",
+      "Succubus: Claw Attack (1d6+DEX slashing + 2d6 psychic)",
+      "Title: Nascent Demon Lord of the Shadow-Thorns",
+      "Hybrid Feature: Silver-Brine Flare (Reaction)",
+      "Title: Nascent Demon Lord of the Shadow-Thorns",
+      "Royal Succubus Kit: Telepathic Bond, Etherealness, Shapechanger, Draining Kiss, Claw Attack",
+      "Succubus Resistances: Cold, Fire, Lightning, Poison, Non-magical Physical",
+      "Hybrid Power: Silver-Brine Flare (Reaction, DC 27 Wisdom save vs Blind/Charm when hit)"
+    ],
+    "spell_save_dc": 27,
+    "hp_max": 68,
+    "level": 13,
+    "hp_current": 68,
+    "age": 18,
+    "inventory": {
+      "backpack": [
+        {
+          "value_gp": 50,
+          "effect": "Restores 2d4+2 HP",
+          "type": "consumable",
+          "weight": 0.5,
+          "name": "Potion of Healing"
+        }
+      ],
+      "remove": [
+        "1 Potion of Healing"
+      ]
+    },
+    "armor_class": 22,
+    "active_effects": [
+      "Malcanthet's Favor: Dropping to 0 HP sets you to 1 HP and grants Sanctuary (1/Long Rest)",
+      "Siren's Leverage: +2 bonus to Deception/Persuasion vs attracted humanoids",
+      "Abyssal Presence: Presence is a subtle sensory shift (brine/Abyssal sparks)",
+      "Uncanny Valley Prodigy: NPCs react with awe/suspicion to your mastery at 16.",
+      "Pheromone Spike: BA Command & Free Charm/Command (5/SR).",
+      "Enhance Ability (Charisma): Advantage on CHA checks",
+      "Iron Bark Infusion: +2 AC, Resistance to Poison/Necrotic (Permanent)",
+      "Cloak of Night: Invisibility at-will in dim light/darkness (Permanent)",
+      "Nature's Step: +10 Stealth in natural/dark areas (Permanent)",
+      "Thorned Gaze: At-will Entangle as Bonus Action (Permanent)",
+      "Abyssal Potency: Permanent +2 to Spell Save DC and Spell Attack rolls",
+      "Shadow Command: Blade Flourishes can cause the Frightened condition (Wis Save)",
+      "Abyssal Potency: +2 bonus to Spell Save DC and Spell Attack rolls (Permanent)",
+      "Iron Bark: +2 AC, Resistance to Poison/Necrotic (Permanent)",
+      "Nature's Step: +10 Stealth in natural/dark areas (Permanent)",
+      "Shadow Command: Flourishes can cause Frightened condition",
+      "Abyssal Potency (+2 Spell DC/Atk)",
+      "Iron Bark (+2 AC, Resist Poison/Necrotic)",
+      "Nature's Step (+10 Stealth in nature/dark)",
+      "Thorned Gaze (BA Entangle at-will)",
+      "Shadow Command (Flourishes cause Frightened)",
+      "Abyssal Potency: +2 Spell DC/Atk (Permanent)",
+      "Iron Bark: +2 AC, Resist Poison/Necrotic (Permanent)",
+      "Nature's Step: +10 Stealth in nature/dark (Permanent)",
+      "Thorned Gaze: BA Entangle at-will (Permanent)",
+      "Shadow Command: Flourishes cause Frightened (Permanent)",
+      "True Sight: See invisible creatures and into the Ethereal Plane (Permanent)",
+      "Planar Authority: Advantage on social checks vs Outsiders and Constructs",
+      "True Sight: See invisible creatures and into the Ethereal Plane (Permanent)",
+      "Planar Authority: Advantage on social checks vs Outsiders and Constructs",
+      "Auditor's Eyes: True Sight (Permanent)",
+      "Planar Authority: Advantage on social checks vs Outsiders and Constructs",
+      "Masking Frequency: Localized Planar Lattice report mimicry active",
+      "Celestial Wings: 60ft Fly Speed (Toggable)",
+      "Aura of the Sovereign: DC 27 Charm/Psychic Vulnerability",
+      "Abyssal Judgment: +2d8 Radiant damage to melee/Vampiric Touch",
+      "Celestial Wings: 60ft Fly Speed (Toggable)",
+      "Aura of the Sovereign: DC 27 Charm/Psychic Vulnerability",
+      "Abyssal Judgment: +2d8 Radiant damage to melee/Vampiric Touch",
+      "Apotheosis of the Scion: +2 to all Ability Scores (Permanent)",
+      "Sovereign's Kiss: Charm and Dominate spells vs humanoids have DC +2",
+      "Succubus Essence: Resistance to Cold, Fire, and Lightning (Permanent)",
+      "Etherealness: Can enter/exit Ethereal Plane (Action)",
+      "Shapechanger: At-will humanoid transformation",
+      "Succubus Resistances: Cold, Fire, Lightning, Poison, Non-magical Physical",
+      "Silver-Brine Flare: Reaction to being hit; attacker makes DC 27 WIS save or is Blinded/Charmed 1 turn."
+    ],
+    "equipment": {
+      "backpack": [
+        "Quiver of 20 Arrows",
+        "Crude map of the North Ridge",
+        "Superior Healing Potion x2",
+        "1,500 gold (Requisitioned from Grove)",
+        "Superior Healing Potion x2",
+        "1,500 gold (Requisitioned from Grove)",
+        "1,500 gold (Requisitioned from Grove)"
+      ],
+      "weapons": [
+        {
+          "properties": [
+            "ammunition",
+            "range (80/320)",
+            "two-handed"
+          ],
+          "equipped": false,
+          "damage": "1d6+1",
+          "type": "weapon",
+          "bonus": 1,
+          "name": "Shortbow of the Vanguard +1"
+        }
+      ],
+      "armor": {
+        "armor_class": 17,
+        "stats": "+1 Spell Save DC, Resistance to Poison/Necrotic, No Stealth Disadvantage",
+        "armor_type": "medium",
+        "bonus": 2,
+        "equipped": true,
+        "value_gp": 10,
+        "description": "Noble-born plate reinforced with Abyssal-infused ironwood.",
+        "stealth_disadvantage": false,
+        "type": "armor",
+        "weight": 10,
+        "name": "Noble Thorns Plate +2"
+      },
+      "head": {
+        "equipped": true,
+        "stats": "+1 Spell Save DC",
+        "type": "armor",
+        "name": "Circlet of the Inner Circle"
+      },
+      "main_hand": {
+        "damage_type": "piercing",
+        "stats": "+2 Spell Save DC (+1 from Abyssal Resonance), +1 Spell Attack",
+        "bonus": 1,
+        "damage": "1d8+1",
+        "properties": [
+          "finesse"
+        ],
+        "equipped": true,
+        "value_gp": 25,
+        "description": "A slender blade of blackened steel that hums with Abyssal resonance.",
+        "type": "weapon",
+        "weight": 3,
+        "name": "Rapier of the Shadow Scion +1"
+      },
+      "ring_1": {
+        "equipped": true,
+        "stats": "+1 Bardic Inspiration use per Short Rest",
+        "type": "ring",
+        "name": "Ring of the Abyssal Siren"
+      },
+      "cloak": {
+        "equipped": true,
+        "stats": "+1 Spell Save DC, +1 Spell Attack",
+        "type": "cloak",
+        "name": "Mantle of the Shadow Sovereign"
+      }
+    }
+  },
+  "world_data": {
+    "current_location_name": "Shattered Sanctum - Main Hall",
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 10,
+      "hour": 22,
+      "time_of_day": "Night",
+      "day": 22,
+      "turn": 198,
+      "year": 1492,
+      "month": "Mirtul"
+    },
+    "timestamp_iso": "2026-01-13T22:10:00.000000Z"
+  },
+  "npc_data": {
+    "npc_halsin_001": {
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 3,
+          "history": [
+            "Rescued from Worg Pens",
+            "Witnessed the Sovereign's total dominance over the Circle",
+            "Released under a facade of mercy"
+          ]
+        }
+      }
+    },
+    "Arka": {
+      "status": "recruited",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 7,
+          "history": [
+            "Saved from execution error",
+            "Recruited into vanguard"
+          ]
+        }
+      }
+    },
+    "Lae'zel": {
+      "experience": 48000,
+      "string_id": "npc_laezel_001",
+      "present": true,
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": -1,
+          "history": [
+            "Witnessed Nocturne's tactical command",
+            "Released from cage by Nocturne",
+            "Swore a conditional oath of cooperation"
+          ]
+        }
+      },
+      "status": "conscious",
+      "level": 9
+    },
+    "Arron": {
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 5,
+          "history": [
+            "Acknowledged scion authority",
+            "Gifted travel clothes"
+          ]
+        }
+      }
+    },
+    "Zevlor": {
+      "social_hp": 5,
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 5,
+          "history": [
+            "Defended the Gate",
+            "Exposed Shadow Druid Conspiracy",
+            "Granted military command to Nocturne"
+          ]
+        }
+      }
+    },
+    "Kagha": {
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": -10,
+          "history": [
+            "Defeated socially",
+            "Bound via Gilded Tether",
+            "Ritual Anchor"
+          ]
+        }
+      },
+      "level": 6
+    },
+    "npc_sazza_001": {
+      "status": "surrendered",
+      "relationships": {
+        "player": {
+          "trust_level": -5,
+          "history": [
+            "Interrogated for weaknesses",
+            "Preserved from Arka"
+          ]
+        }
+      }
+    },
+    "npc_aradin_001": {
+      "experience": 48000,
+      "status": "wavering",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -2,
+          "history": [
+            "Witnessed total druid subjugation",
+            "Attempted idol theft thwarted"
+          ]
+        }
+      },
+      "level": 9
+    },
+    "Astarion": {
+      "experience": 48000,
+      "level": 9,
+      "tier": "noble_knight",
+      "string_id": "npc_astarion_001",
+      "role": "Rogue / Spawn",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -1,
+          "history": [
+            "Ambushed Nocturne on the beach",
+            "Recognized Nocturne's analytical prodigy status",
+            "Assisted in defeating Elite Devourer"
+          ]
+        }
+      },
+      "name": "Astarion"
+    },
+    "Malcanthet": {
+      "tier": "ancient_god",
+      "string_id": "npc_malcanthet_001",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": 5,
+          "history": [
+            "Performed Inversion Ritual",
+            "Subjugated Grove Leadership",
+            "Subjugated Mercenaries",
+            "Secured Patron Guidance with Critical Success"
+          ]
+        }
+      },
+      "role": "Succubus Queen / Patron",
+      "name": "Malcanthet"
+    },
+    "npc_zevlor_001": {
+      "status": "subjugated",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 2,
+          "history": [
+            "Yielded military command to the Scion after the Druid Subjugation"
+          ]
+        }
+      }
+    },
+    "Olodan": {
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": -10,
+          "history": [
+            "Captured in Library",
+            "Bound via Gilded Tether",
+            "Ritual Architect"
+          ]
+        }
+      },
+      "level": 6
+    },
+    "Sazza": {
+      "hp_current": 10,
+      "status": "thrall",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 8,
+          "history": [
+            "Saved from execution by Arka",
+            "Bound by Gilded Tether",
+            "Extracted camp intel"
+          ]
+        }
+      },
+      "hp_max": 10,
+      "tier": "submission"
+    },
+    "Aradin": {
+      "relationships": {
+        "player": {
+          "trust_level": 0,
+          "history": [
+            "Witnessed thrall vanguard",
+            "Neutralized by social pressure"
+          ]
+        }
+      }
+    },
+    "npc_shadowheart_001": {
+      "hp_current": 8,
+      "relationships": {
+        "player": {
+          "trust_level": 1,
+          "history": [
+            "Fought intellect devourers together",
+            "Healed by Nocturne",
+            "Skeptical of Nocturne's noble backstory"
+          ]
+        }
+      }
+    },
+    "Torhal": {
+      "social_hp": 0,
+      "hp_current": 45,
+      "armor_class": 14,
+      "status": "SURRENDERED",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -1,
+          "history": [
+            "Interrupted the binding of Sazza",
+            "Yielded to tactical logic regarding the informant"
+          ]
+        }
+      },
+      "hp_max": 45,
+      "tier": "lord_general"
+    },
+    "Shadowheart": {
+      "experience": 48000,
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 2,
+          "history": [
+            "Woke her on the beach",
+            "Protected her with ranged fire",
+            "Healed her wounds",
+            "Proposed formal alliance",
+            "Revealed prodigy status"
+          ]
+        }
+      },
+      "level": 9
+    },
+    "npc_gale_001": {
+      "conscious": true,
+      "hp_max": 10,
+      "tier": "king_ancient",
+      "hp_current": 10,
+      "string_id": "npc_gale_001",
+      "present": true,
+      "role": "Wizard / Specialist",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 1,
+          "history": [
+            "Rescued from malfunctioning portal",
+            "Recruited as arcane specialist"
+          ]
+        }
+      },
+      "name": "Gale"
+    },
+    "Minthara": {
+      "hp_current": 45,
+      "status": "paralyzed",
+      "relationships": {
+        "player": {
+          "history": [
+            "Ambushed by Nocturne",
+            "Witnessed Soul Thief execution",
+            "Paralyzed by Abyssal command"
+          ]
+        }
+      }
+    },
+    "Gale": {
+      "experience": 48000,
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 1,
+          "history": [
+            "Rescued from portal sigil",
+            "Yielded to Nocturne's charm"
+          ]
+        }
+      },
+      "level": 9
+    },
+    "npc_minthara_001": {
+      "experience": 48000,
+      "armor_class": 18,
+      "hp_max": 75,
+      "tier": "lord_general",
+      "level": 9,
+      "hp_current": 75,
+      "string_id": "npc_minthara_001",
+      "present": true,
+      "role": "Drow Paladin / General of the Absolute",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "Aware of a presence in the windmill"
+          ]
+        }
+      },
+      "name": "Minthara"
+    },
+    "npc_arka_001": {
+      "status": "recruited",
+      "relationships": {
+        "player": {
+          "trust_level": 5,
+          "history": [
+            "Prevented from executing Sazza",
+            "Recruited into court"
+          ]
+        }
+      }
+    },
+    "Sentry Gribbo": {
+      "status": "surrendered",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -5,
+          "history": [
+            "Cowed by the Shadow Sovereign's presence"
+          ]
+        }
+      }
+    },
+    "npc_olodan_001": {
+      "experience": 48000,
+      "status": "scouting_wetlands",
+      "relationships": {
+        "player": {
+          "history": [
+            "Subjugated in the library",
+            "Assigned to scout the Sunlit Wetlands"
+          ]
+        }
+      },
+      "level": 9
+    },
+    "npc_kagha_001": {
+      "experience": 48000,
+      "status": [
+        "thrall",
+        "surrendered"
+      ],
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": -10,
+          "history": [
+            "Systematically broken and bound by the Gilded Tether"
+          ]
+        }
+      },
+      "level": 9
+    },
+    "npc_torhal_001": {
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 3,
+          "history": [
+            "Yielded to her prodigious tactical clarity",
+            "Acknowledged her as the sovereign of the board"
+          ]
+        }
+      }
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "arc_milestones": {
+      "primary_arc": {
+        "progress": 100,
+        "phase": "nascent_demon_lord",
+        "completed_at": "2026-01-13T00:10:00Z",
+        "status": "completed",
+        "updated_at": "2026-01-12T16:05:00Z"
+      }
+    },
+    "active_constraints": [
+      "Leadership Friction: Significant group decisions require Persuasion/Intimidation checks due to Nocturne's age vs companion egos.",
+      "Nomenclature: Refer to Nocturne as 'noble scion', never 'matriarch'.",
+      "Age Perception: NPCs react with awe and suspicion toward an 18-year-old commander.",
+      "Prodigy Status: Highlight Nocturne's independent genius vs her patron's gifts.",
+      "Planar Auditor Awareness: The Auditor is an independent cosmic entity, not an Absolute asset.",
+      "Celestial Presence: Nocturne can choose to show/hide silver wings and glowing features.",
+      "XP Divergence: Companions share only 50% of Nocturne's XP and are capped at Level 9."
+    ],
+    "abyssal_legion_active": true,
+    "religion": "Fanatical Zealotry (Power/Magic)",
+    "active_missions": [
+      {
+        "title": "The Drow's Lyre",
+        "status": "accepted",
+        "mission_id": "act1_infiltration_minthara",
+        "objective": "Infiltrate Minthara's war band and secure the Spider's Lyre."
+      }
+    ],
+    "success_streak": 16,
+    "vanguard_scouts_active": true,
+    "ritual_logic": {
+      "lethality_scope": "all_outsiders",
+      "hijack_calibration": "complete",
+      "vessel": "Emerald Grove",
+      "status": "hijacked_complete",
+      "power_gain_profile": "shadow_infusion_mobile",
+      "refugee_safety_protocol": "active",
+      "anchor": "Sunlit Wetlands",
+      "divert_lethality_target": "sunlit_wetlands",
+      "wetlands_mapping_complete": true,
+      "hijack_requirement": "complete",
+      "failsafe_venting_target": "low_born_refugees",
+      "power_internalized": true
+    },
+    "reputation": {
+      "public": {
+        "score": 65,
+        "titles": [
+          "The Shadow Sovereign",
+          "The Architect of the Thorns",
+          "The Prodigy Commander"
+        ],
+        "notoriety_level": "notorious",
+        "known_deeds": [
+          "Subjugated the Grove Leadership",
+          "Internalized the Rite of Thorns",
+          "Secured Zevlor's total submission"
+        ]
+      }
+    },
+    "last_living_world_turn": 162,
+    "last_location": "Shattered Sanctum - Main Hall",
+    "active_thralls": {
+      "npc_zevlor_001": {
+        "status": "thrall_loyal",
+        "tier": "lord_general"
+      }
+    },
+    "last_complication_turn": 141,
+    "army_size": {
+      "elite_stalkers": 100,
+      "absolute_vanguard": 3600,
+      "abyssal_soldiers": 1000
+    },
+    "core_memories": [
+      "Performed the Inversion Ritual against the Cassalanters, binding the power of Malcanthet.",
+      "Nautiloid crash survivor; infected with an Illithid tadpole that suppresses Abyssal power.",
+      "[auto] The salt spray stings your eyes as you huddle in the shadow of the half-elf cleric, your shallow, panicked breaths whistling through your teeth. Shadowheart stands firm, the sea-foam swirling around her greaves as she raises her mace. The Intellect Devourers chitter, their feline legs digging into the wet sand as they prepare to pounce on what they perceive to be the primary threat\u2014leaving the 'helpless' child-noble for later.\n\nBeneath the facade of your terror, the connection to Malcanth",
+      "[auto] You remain huddled behind Shadowheart, your small frame trembling with such rhythmic precision that even the salt-crusted air seems to vibrate with your 'fear.' But as the Intellect Devourer\u2014a pulsing, pink mass of gray matter on feline legs\u2014tenses to spring, you release a sharp, imperceptible burst of abyssal musk. It is the Pheromone Spike, a scent that bypasses the nostrils and strikes directly at the primitive centers of the brain.\n\n\"*Grovel*,\" you whisper, the word barely a breath ag",
+      "[auto] You lean slightly closer to the half-elf, the movement masked by another rhythmic shudder of 'terror.' Your lips brush the cold steel of her pauldron as you exhale a promise that tastes of copper and crown-gold. \"*Power is the only safety, Cleric,*\" you murmur, the words laced with a subtle Abyssal frequency that bypasses her ears and resonates directly in her marrow. \"*Take it. Claim the strength to survive this beach, and I shall be the witness to your rise.*\"\n\nShadowheart stiffens for ",
+      "[auto] As the lead Intellect Devourer crouches to spring, you throw your head back and unleash a sharp, glass-shattering shriek. \"Watch out! It's going for the eyes!\" you wail, your voice cracking with the pitch-perfect desperation of a sheltered noblewoman who has never seen a drop of blood. The sudden, high-frequency outburst causes the brain-creature to twitch, its psychic focus momentarily snagged on your 'panicked' display.\n\nShadowheart seizes the distraction. The surge of ambition you plan",
+      "[auto] Shadowheart's mace comes down with the crushing weight of her newfound zeal, the 'Inspired' strike cracking the chitinous skull of the first brain-creature. Ichor sprays across her silver plate, and for a moment, the cleric looks nearly as terrifying as the monsters she fights. \n\nBut the second Intellect Devourer is not deterred by the death of its sibling. It skitters across the wet sand, its moist, cat-like legs blurring as it lunges at the cleric's exposed flank. You watch from the san",
+      "[auto] You lean out from behind Shadowheart's protective form, your trembling hand reaching toward the wounded brain-creature. You don't shout; you whisper, your voice a low, Abyssal rasp that vibrates with the weight of stolen secrets. \"You were never meant to be more than a discarded thought,\" you murmur, the words laced with Malcanthet's cruel insight. \"A wet scrap of grey matter scavenged from a failed mind. Even your master forgot you before you were born.\"\n\nThe Intellect Devourer shudders,",
+      "[auto] The salt air is thick with the copper tang of ichor as you fluidly switch from 'frightened noble' to 'cautious combatant.' You draw the simple shortbow salvaged from the wreckage, your fingers finding the notch with a memory of grace that even the tadpole cannot fully erase. Shadowheart is a whirlwind of steel and zeal beside you, her mace cracking against the wounded devourer's flank with a dull thud. \n\n\"Stay behind me!\" she grunts, though the second brain-creature manages to slip past h",
+      "[auto] The last of the brain-creatures lies still, its pink mass dissolving into the salt-crusted foam. Shadowheart stands over the wreckage, her mace dripping with purple ichor. She breathes heavily, her silver plate armor slick with sea spray and gore. For a long moment, she just stares at the smoking remains of the nautiloid, the geometric artifact at her hip pulsing with a faint, rhythmic light that matches the thrum of the tadpole behind your eye.\n\nShe turns to you, her expression a complex",
+      "[auto] You lower the shortbow, your fingers still trembling slightly, though the movement is now entirely theatrical. You look up at Shadowheart, widening your violet eyes until they seem to catch the sunlight like polished amethysts. You tilt your head, a stray silken lock of hair falling perfectly across your neck.\n\n\"My father... the Lord Sosuke... he insisted on tutors for everything,\" you whisper, your voice a fragile, melodic thing. \"Fencing, archery, the arts of the court. He said a lady s",
+      "[auto] You pause to consider your options...",
+      "[auto] You smooth the tattered silk of your ruined robe, your movements regaining a measured, high-born precision that feels far more natural than the panicked tremors you just performed. The weight of your presence\u2014the psychological density that allowed you to organize a coup in the Bloom Shadow before you ever touched Abyssal fire\u2014settles back over you like a second skin.\n\nShadowheart watches you, her hand still resting near the healed gash in her side. She expects you to look away, to maintai",
+      "[auto] Shadowheart remains silent for a moment, the weight of your words\u2014and the terrifyingly calm manner in which you delivered them\u2014anchoring her suspicion. She watches you turn toward the smoking hull of the Nautiloid, your steps no longer hesitant. You move with the practiced efficiency of a master appraiser, scanning the scorched organic sinew and shattered glass for anything that might serve your ends. The 'noble girl' has been replaced by the 'scavenger-prodigy,' and the transformation is",
+      "[auto] You step into the steaming, organic maw of the crashed nautiloid, the air thick with the acrid stench of scorched sinew and ozone. Your movements are calculated, but the tattered silk of your robes catches on a jagged shard of obsidian-glass. The unstable floor groans beneath you, a wet, squelching sound that echoes too loudly in the hollowed hull. You freeze, but the noise has already traveled. From the shadows of a collapsed upper deck, you hear the skittering of feline legs and a low, ",
+      "[auto] The wet, rhythmic squelch of the organic floorboards serves as a warning you don't ignore. As the psychic hiss ripples through the smoke, you pivot with the practiced grace of a courtier avoiding a social faux pas, your tattered silk robes swirling as you move. You don't panic; you calculate. The hull is a deathtrap of poor visibility and unpredictable terrain. You need the open air of the beach where Shadowheart can exert the pressure of her mace.\n\nYou slip back through the organic maw o",
+      "[auto] Shadowheart braces herself, her mace held low as she tracks the movement within the smoke. The chittering from the hull reaches a fever pitch, and then it happens\u2014the silhouette of a third brain-creature, larger and more bloated than the others, erupts from the organic steam, its feline legs kicking up wet sand as it lunges toward the cleric. \n\nYou don't wait for a command. Your fingers, steady and cold as a surgeon's, release the tension of the shortbow. The arrow whistles through the sa",
+      "[auto] You lower the shortbow, the string's hum fading into the roar of the surf. The third brain-creature lies twitching in the sand, a silver-shafted arrow pinning its central mass to the earth. You don't look back at the smoke; your focus is entirely on the half-elf standing before you. The mask of the 'frightened noble' doesn't just slip\u2014you discard it, letting it fall away like the tattered silk of your sleeves. \n\nYou step toward Shadowheart, closing the distance until you are well within h",
+      "[auto] Shadowheart's silent acceptance of the 'alliance' is all the permission you need. You step back into the organic, steaming maw of the nautiloid, your eyes narrowing as you scan the charred sinew and shattered obsidian consoles. You don't look for scraps; you look for the 'high-value' artifacts that a vessel of this magnitude would carry in its central nervous system.\n\nHowever, the interior is a ruin of collapsing membranes and acrid smoke. (Investigation: 13 vs DC 15 - Failure) Your analy",
+      "[auto] Leaving the smoldering carcass of the Nautiloid behind, you lead Shadowheart westward along the waterline. The salt spray is a constant, sharp kiss against your skin, and the sun reflects off the wet silt with a blinding brilliance. You move with a predatory focus, your violet eyes\u2014now occasionally flaring with pink sparks of Malcanthet's chaotic resonance\u2014scanning the line of wreckage where the ship\u2019s jagged ribs meet the Chionthar\u2019s edge.\n\nYour clinical assessment of the terrain pays of",
+      "[auto] You move toward the figure with a measured, predatory silence, your violet eyes narrowed against the glare of the noon sun. Shadowheart follows a step behind, her mace held at a cautious angle. The man is dressed in fine leather, his silver hair a stark contrast to the dark rocks he's slumped against. He looks vulnerable\u2014another victim of the Nautiloid\u2019s reach\u2014but your instinct, sharpened in the cutthroat alleys of Baldur's Gate, suggests otherwise.\n\nAs you close the distance, your foot c",
+      "[auto] You tilt your head slightly, letting the harsh sunlight catch the violet of your eyes, which you widen with a calculated flicker of 'noble' distress. You take a step forward, your hand reaching tentatively toward the tattered silk at your collar, the movement designed to highlight your apparent fragility. \"Please,\" you whisper, your voice a silken thread of high-born vulnerability. \"We've only just escaped that... that nightmare in the sky. I have no quarrel with you, sir, only a desperat",
+      "[auto] You don't flinch as Astarion cuts through your performance. Instead, you let the 'noble' tremor in your hands go still, your posture shifting with a sudden, clinical coldness. You drop the silk sleeve, stepping closer until the brine and Abyssal sparks in your aura press against his personal space\u2014not as a threat, but as a demonstration of gravity.\n\n\"The 'frightened princess' was for the simple-minded,\" you say, your voice flat and analytical. \"But if you prefer the truth, look at the way",
+      "[auto] You gesture toward the jagged, sun-bleached cliffs that rise like broken teeth from the sand. \"The beach is a killing field of bad angles,\" you say, your voice carrying that new, needle-sharp authority. \"If we want to see what's left of that ship\u2014and what's coming for it\u2014we need the height.\"\n\nAstarion's crimson eyes flick up the steep, debris-strewn path, a smirk playing on his lips. \"A strategic mind in a silk dress. How... novel.\" He follows, his movements more fluid now that his curios",
+      "[auto] The descent is far less graceful than your analytical mind intended. As you lead Astarion and Shadowheart back toward the central wreckage, the shale beneath your boots\u2014already loosened by the Nautiloid's impact\u2014gives way completely. You slide ten feet down the incline, the tattered silk of your robes catching on a jagged obsidian rib. You stick the landing with a jolt that vibrates through your bones, but the noise is catastrophic in the sudden silence of the beach. The clatter of stones",
+      "[auto] The sudden clatter of stone on obsidian is an alarm bell that cannot be unrung. Astarion curses, a sharp, sibilant sound, as he lunges forward. He tries to intercept the first brain-creature erupting from the smoke, his dagger flashing in the orange firelight, but the slick, shifting shale betrays his footing. His blade bites only air as the creature skitters past him.\n\n'Shadowheart!' you shout, the calculated coldness of your voice cutting through the roar of the fire. You don't hesitate",
+      "[auto] The elite devourer's claws rake across Shadowheart's side with a wet, tearing sound, and the cleric collapses into the sand, her mace clattering uselessly against the obsidian shards. You don't scream. You don't panic. With a cold, surgical precision that would make your old tutors weep, you draw the string of the shortbow to your cheek. \n\n\"Rise, Shadowheart,\" you whisper, the words infused with a resonant, Abyssal frequency that bypasses the roar of the surf and strikes directly at her f",
+      "[auto] The salt-heavy air vibrates with the psychic shriek of the wounded Devourer as you track its twitching form through the sight of your shortbow. You exhale slowly, your focus narrowing until the roar of the surf becomes a distant hum. You release the string, but the shale beneath your boots shifts at the critical moment. The arrow skips off the creature's chitinous back, buried uselessly in a cluster of organic nautiloid sinew.\n\nShadowheart, recently mended by your Abyssal whispers, doesn'",
+      "[auto] Shadowheart teeters on the edge of the abyss, her silver plate crimson-slicked and her breathing a wet rattle. You don't move from your position behind her; instead, you center your breathing, letting the psychological weight of your presence stabilize the panic. \"Not yet, Shadowheart,\" you whisper, the words a low-frequency hum that resonates with the Abyssal sparks in your eyes. \"Your service isn't finished.\"\n\nA surge of restorative energy, tasting of brine and sharp iron, flows from yo",
+      "[auto] With the elite devourer finally still, the adrenaline begins to ebb, replaced by the sharp, analytical focus that defines the 'Black Diamond.' You ignore Astarion's admiring grin and move directly to Shadowheart. The cleric is a mess of silver plate and crimson gore, her breathing a shallow whistle through the wound you just knit shut. You don't offer a gentle touch; your hands are cold and efficient as you apply a clean strip of silk from your own ruined hem to her throat, ensuring the A",
+      "[auto] You kneel beside the bloated, twitching mass of the Elite Devourer, your fingers steady as you begin a clinical dissection of its psychic-saturated membranes. You aren't looking for mere trophies; you seek the residual crystals and neural nodes that focus its telepathic reach. However, as you pull back a layer of the chitinous skull, the organic matter dissolves into a foul-smelling, translucent sludge. The psychic feedback loop that fueled the creature's aggression has burnt out complete",
+      "[auto] The acrid scent of the smoldering Nautiloid drifts on the salt wind as you find a somewhat stable rib of obsidian to lean against. You don't simply collapse; you settle with a deliberate, feline grace, smoothing the tattered silk of your robes as if preparing for a private audience in the Bloom Shadow. Shadowheart sinks onto a nearby rock, her mace resting across her knees, her breathing slowly leveling out. Astarion finds a patch of shade beneath a jagged cliff-overhang, checking his dag",
+      "[auto] You shift your position on the obsidian rib, the movement smooth and deliberate as you turn your full attention to the pale elf lounging in the shadows. Astarion is currently occupied with the tip of his dagger, but you can see the way his eyes remain restless, flicking toward the tree line and then back to Shadowheart with the rhythmic precision of a man counting his exits. You attempt to peel back the layers of his flamboyance, looking for the friction points where his loyalty might be ",
+      "[auto] You rise from your seat on the obsidian rib, the movement feline and controlled despite the fine grit of sand that has found its way into the seams of your ruined silk. Shadowheart and Astarion fall in behind you\u2014the cleric with a guarded, heavy-footed caution, and the rogue with a predatory, light-stepping grace. \n\nYou lead them away from the waterline, where the bloated remains of the nautiloid's victims rot in the sun, and toward the jagged, sun-bleached cliffs to the north. However, t",
+      "[auto] The ancient door looms before you, its weathered stone surface etched with sigils that seem to pull at the edge of your vision. However, you aren't here for a history lesson. You turn your gaze upward, away from the stagnant chill of the doorway, and assess the vertical terrain. The cliffs here are a jagged mosaic of limestone and nautiloid obsidian, but the impact of the ship has created new fissures\u2014unintentional handholds for those with the poise to use them.\n\n\"The door is a bottleneck",
+      "[auto] You lean over the jagged limestone lip of the plateau, your violet eyes narrowed against the rising heat haze from the smoldering Nautiloid. Below, the ancient door sits like a silent, stubborn tooth in the cliff's jaw. You track the flow of the weathered stone, looking for the telltale friction of a hidden lever or the unnatural symmetry of a pressure plate. \n\nShadowheart stands behind you, her silver plate clinking as she shifts her weight, while Astarion idly tosses a pebble over the e",
+      "[auto] You turn away from the weathered door, your gaze fixed on the northern horizon where the sun-bleached pines begin to thicken. \"The door is a puzzle for a slower day,\" you state, your voice carrying the cool, unruffled authority of a queen dismissing a minor petition. \"There are more of us out there\u2014assets that haven't been accounted for. We move north.\"\n\nAstarion halts, leaning against a jagged obsidian shard with a sharp, mocking exhale. \"'We' move north?\" He tilts his head, crimson eyes",
+      "[auto] You do not meet Astarion's mockery with anger; instead, you offer him a slow, thin smile that doesn't reach your eyes\u2014a expression you've seen on the faces of the most dangerous matriarchs in Baldur's Gate. You turn to include Shadowheart in your periphery, your voice softening to a silken, reasonable tone.\n\n\"You're right to be cautious, Astarion. And you, Shadowheart\u2014you've survived this far because you trust your instincts. I respect that.\" You gesture toward the rising smoke and the ja",
+      "[auto] You shift the weight of your shortbow, your violet eyes narrowing as you scan the sun-drenched pines. \"Shadowheart, Astarion\u2014eyes up,\" you command, your voice dropping into that cool, analytical register that brooks no argument. \"We aren't the only things that crawled out of that wreck. Look for anything that doesn't belong to the woods.\"\n\nThe group spreads out, a small, lethal unit moving through the brush. Shadowheart moves with a heavy, practiced caution, her mace occasionally parting ",
+      "[auto] You kneel beside the scorched earth, your fingers hovering just inches above the brittle, violet grass. You ignore the prickle of ozone against your skin, your mind attempting to deconstruct the arcane geometry of the discharge. It is high-tier magic, certainly\u2014the kind that leaves a bruise on the Weave\u2014but the trauma of the crash and the persistent, oily hum of the tadpole act like a veil over your clarity. You recognize the 'scent' of the magic as Gale's, but the finer details of his em",
+      "[auto] You rise from the violet scorch marks, your fingers still tingling with the residual ozone of Gale's unstable magic. Shadowheart and Astarion have already moved ahead toward the looming stone archway, their boots crunching on the brittle, ash-choked soil. \n\n\"The tracks are getting deeper here,\" Shadowheart calls back, her voice echoing against the ancient masonry of the arch. She points to a heavy, mud-caked print that has crushed a small cluster of wildflowers. \"Our 'soldier' was running",
+      "[auto] You hold up a hand, the silk of your sleeve fluttering in the cool draft from the ruins. \"Wait,\" you whisper, your voice a needle-sharp command that cuts through the stagnant air. You turn your violet gaze on Astarion, the 'Uncanny Valley' weight of your presence pressing against him. \"Astarion. You're the one who moves like a shadow. Check the interior. Traps, ambushes, or anything with a pulse. We'll wait here.\"\n\nAstarion offers a mocking, shallow bow, but he doesn't argue. The friction",
+      "[auto] The stone archway swallows the fading afternoon light, casting long, skeletal shadows across the brittle grass. You move toward the source of the flickering purple radiance, your footsteps light and purposeful, the 'Black Diamond's' poise returning with every yard. Astarion lingers at the edge of the light, his dagger catching the violet glare. \"He's quite charmingly distressed,\" the rogue whispers, a sharp grin playing on his lips. \"And surprisingly loud for someone currently embedded in",
+      "[auto] You step toward the pulsating rift, your violet eyes narrowed against the stinging discharge of unstable magic. The hand\u2014pale, manicured, and currently vibrating at a frequency that makes your teeth ache\u2014reaches out with desperate strength. You don't hesitate; you set your feet against the ancient, cracked masonry and reach into the violet glare.\n\nYour fingers lock around the man's wrist, but as you pull, the portal's gravity wells up with a sudden, violent surge. (Strength: 1d20 -1 = 9 -",
+      "[auto] The portal's violet static screams against your senses, a jagged tear in reality that threatens to swallow the pale hand still reaching from its center. You don't try to match its violence with physical strength this time. Instead, you exhale a long, measured breath that tastes of brine and Abyssal sparks, letting the psychological weight of your presence\u2014the natural authority of a Sosuke\u2014press against the chaotic weave.\n\nYou hum a low, resonant chord, a harmonic frequency you learned whi",
+      "[auto] Gale stands on the brittle grass, smoothing his purple robes with a frantic, scholarly dignity. He looks down at his hands, then back at you, his dark eyes wide with a mixture of profound relief and immediate, intense curiosity. \"A hand offered, and a hand taken!\" he pants, his voice regaining its cultured, resonant lilt. \"I am Gale of Waterdeep. And you... you have a most singular way of handling the Weave, my lady.\"\n\nYou step closer, closing the distance until the 'Uncanny Valley' weigh",
+      "[auto] Gale adjusts his purple robes, his eyes lingering on you with a mixture of scholarly intensity and the dawning realization that he is no longer the most clever person in the immediate vicinity. You let the Abyssal sparks in your aura settle, replaced by a cool, professional gravity that commands the space between you.\n\n\"The 'intellectual synergy' you speak of is exactly what I am proposing, Gale,\" you state, your voice a silken command that brooks no scholarly deflection. \"We are all surv",
+      "[auto] You gesture for the group to fan out, your voice a silken command that settles over the ruins like a heavy mist. \"We have a wizard, but we're still missing a soldier. Look for anything that doesn't belong to the dirt.\"\n\nThe party moves with surprising coordination for such a disparate collection of egos. Gale, still smoothing his purple robes, attempts to track the arcane wake of the 'soldier,' though his eyes are frequently drawn back to the way you carry yourself with such unruffled poi",
+      "[auto] Astarion moves with the effortless fluidity of a shadow cast by the moon. He gestures for silence, his crimson eyes locking onto the slight disturbances in the moss that you and the others might have missed. You follow his lead, your own steps light and measured, the psychological weight of your coordination pulling the disparate group into a singular, lethal silhouette. \n\nShadowheart\u2019s silver plate armor gives a sharp, metallic clink as she navigates a narrow ledge. Astarion is there in ",
+      "[auto] You raise your hand, fingers splayed in a sharp, silent signal to Astarion. The pale elf doesn't need words; he dissolves into the shadows of the pines with a predatory fluidity that even the evening wind seems to respect. You draw your shortbow, the string's tension a cold line against your fingers, and sight the crude wooden mechanism holding the cage aloft.\n\nEverything happens in a heartbeat. Astarion materializes behind Damays like a vengeful ghost. His silvered dagger flashes in the ",
+      "[auto] The air around the ridge suddenly thickens, the taste of brine and the crackle of invisible sparks intensifying until the evening wind itself feels heavy with the weight of the Abyss. You don't scream; you exhale a single, needle-sharp syllable that resonates in the marrow of everyone present.\n\n\"***Grovel.***\"\n\nNymessa, her hand already white-knuckled on her crossbow, stiffens. The command hits her like a physical blow to the psyche, bypassing her fear and striking the primitive obedience",
+      "[auto] The residue of your Abyssal command still hangs in the air, a faint taste of brine and the crackle of invisible sparks that makes Gale and Astarion exchange a long, weighted look. As the Level 3 threshold anchors within your soul, the 'Black Diamond' mask settles back over your features, smoother and more impenetrable than before. You stand amongst the broken forms of the tieflings, the evening wind catching the tattered silk of your robes as you turn your violet gaze toward the cage.\n\nLa",
+      "[auto] The evening air grows heavy, the subtle scent of brine and the crackle of Abyssal sparks intensifying as you step toward the cage. You do not look up at Lae'zel with the wide, pleading eyes of a child; instead, you hold her gaze with a cool, intellectual poise that seems to draw the very light from the clearing. Your shadow stretches long and jagged across the ash-choked soil, moving with a fluid, predatory independence that triggers a primal 'Uncanny Valley' dread in everyone present.\n\n\"",
+      "[auto] You do not blink as Lae'zel\u2019s golden eyes bore into your own. The air remains thick with the scent of brine, and the Abyssal sparks in your aura seem to pulse in time with the thrumming of the tadpole. You are a sixteen-year-old in shredded silk, yet you loom over the caged warrior with a psychological weight that defies the physical reality of the clearing.\n\n\"The oath is not for my benefit, Lae'zel,\" you say, your voice a silken rasp that vibrates with the cold authority of a Sosuke matr",
+      "[auto] You do not hesitate. You draw your shortbow, the movements smooth and clinical as you sight the wooden winch holding the cage aloft. There is no tremor in your hands now; you are the architect of this clearing's reality. You release the arrow, and it hums through the cool evening air, a silver needle that strikes the center of the latch mechanism with a sharp, splintering crack.\n\nThe cage lurches, the rope snapping with the sound of a gunshot. It falls, crashing into the ash-choked soil a",
+      "[auto] The efficiency of a Sosuke handler is matched only by her speed in picking over the dead. You move among the fallen tieflings with a clinical detachment, your fingers darting into pouches and pulling away useful scraps before the blood has even begun to pool in the dirt. You secure a modest purse of coin and a handful of usable arrows, nodding to Astarion as he scavenges with a similar, albeit more flamboyant, greed.\n\n\"The scouts are close,\" you whisper, your voice a needle-sharp command ",
+      "[auto] The 'Black Diamond' mask does not slip, even as the arrow clatters uselessly against the pine. You do not scramble for cover or cry out in frustration. Instead, you step slowly out from the brush, your movements possessing a terrifying, fluid deliberation that seems to pull the very light from the clearing. The air around you begins to vibrate, saturated with the subtle, stinging scent of brine and the crackle of invisible Abyssal sparks.\n\n\"Look at me,\" you command, your voice not a shout",
+      "[auto] You step toward the three whimpering goblins, your movements fluid and terrifyingly deliberate. The 'Black Diamond' mask is perfectly smooth, reflecting the orange-purple twilight as the air around you thickens with the stinging scent of brine and the low-frequency hum of invisible Abyssal sparks. You do not look at them with pity; you look at them with the clinical eye of a master appraiser examining a new batch of disposable tools.\n\n\"Your lives are a debt you cannot pay with blood alone",
+      "[auto] You step into the center of the cowering trio, your movements possessing a feline grace that seems to steal the heat from the evening air. The scent of brine thickens, accompanied by a sharp, rhythmic crackle of Abyssal sparks that dance like tiny, violet lightning bolts around your fingertips. You don't scream at them; you lean down, the 'Black Diamond' mask reflecting their terrified, soot-stained faces with a clinical coldness.\n\n\"The Gilded Tether is not a suggestion, little things,\" y",
+      "[auto] You lean in closer, the 'Black Diamond' mask reflecting the flickering orange light of the dying sun. The air around you vibrates with a low-frequency hum, saturated with the psychological weight of the Abyss. The brine and invisible sparks on your breath aren't a scent, but a pressure that feels like iron bands tightening around the goblins' chests. \n\n\"The layout is a start, little thing,\" you whisper, your voice a silken thread of dread. \"But I do not intend to fight my way through hund",
+      "[auto] The descent from the North Ridge is a jagged trial of unstable shale and encroaching darkness. Gale, surprisingly adept at translating the crude map you secured, guides the group away from the steepest drops, but the 'Black Diamond's' poise is tested by the treacherous terrain. Your boot catches on a loose limestone shelf, and for a fleeting second, the image of the SOSUKE matriarch wavers as you nearly tumble into a dry ravine. Astarion catches your elbow with a sharp, mocking click of h",
+      "[auto] The valley is a cacophony of desperation. The scent of pine and evening dew is incinerated by the acrid stench of pitch-fire and the copper tang of fresh blood. Aradin\u2019s mercenaries scramble toward the gate, their boots churning the mud as goblin arrows whistle through the twilight. One finds a mark in Barth\u2019s shoulder, his scream cut short by the roar of a pursuing bugbear.\n\nFrom the ramparts, Zevlor\u2019s hand is raised, poised to give the order to open or hold, but his gaze is paralyzed. H",
+      "[auto] The chaos at the gate becomes a stage of your own making. With a flick of your wrist, you signal Astarion. He doesn't just move; he dissolves into the long shadows of the cliffs, his silver hair catching the moonlight for a fraction of a second before he vanishes completely. His approach is a masterpiece of predatory silence, his natural 20 stealth ensuring that neither the desperate mercenaries nor the bloodthirsty goblins even register his presence.\n\nYou step forward, the three goblin t",
+      "[auto] The field of battle is a tapestry of shadows and pitch-fire, and you are its Weaver. With a sharp, clicking whistle, you command the tethered goblins to charge. The three thralls, their eyes glassy with fanatical devotion, scream high-pitched war cries as they throw themselves toward the massive bugbear, acting as a living, whimpering wall of flesh to shield your position. Behind them, Lae'zel and Shadowheart hold their ground, silver and steel gleaming in the firelight as they prepare fo",
+      "[auto] The mud-slicked road becomes a gauntlet of Abyssal authority and Githyanki steel. As your thralls charge the bugbear, a living wall of meat and fanatical shrieks, you step through the center of the fray. The 'Black Diamond' mask is flawless, your violet eyes reflecting the orange pitch-fire as you fix your gaze on Wyll. \n\n\"The monsters are mine, Wyll Ravengard!\" you command, your voice carrying that needle-sharp psychological weight that vibrates in his marrow. \"Focus on the threat that a",
+      "[auto] The smoke of the bugbear leader's fall clears, leaving a vacuum of sound on the mud-slicked road. You step forward, the 'Black Diamond' mask reflecting the orange pitch-fire with a clinical, terrifying stillness. The air around you thickens with the stinging scent of brine and the low-frequency hum of Abyssal sparks, a psychological weight that presses against the remaining raiders like a physical hand.\n\n\"Your vanguard is ash, and your leader is feed for the crows,\" you say, your voice a ",
+      "[auto] Shadowheart steps close, her hand resting briefly on your shoulder as a soft, silvery light ripples from her touch. 'The shadows will guide you, Nocturne,' she whispers, her voice steady despite the carnage. You draw upon the wellspring of your own ambition, your voice catching a resonant, Abyssal frequency that vibrates through the very mud of the road.\n\n'Look at me,' you command, the 'Black Diamond' mask reflecting the flickering orange pitch-fire with a clinical, terrifying stillness. ",
+      "[auto] The mud-slicked road falls into a heavy, expectant silence as the last of the raiders drops his blade. You move among the surrendering goblins with the fluid, predatory grace of a noble scion inspecting a flawed shipment. The air around you thickens, saturated with the subtle, stinging scent of brine and the crackle of Abyssal sparks that dance invisibly along your fingertips. You don't reach for rope; you reach for their souls. \n\nWith a sharp, rhythmic hum, the Gilded Tether lashes out, ",
+      "[auto] The mud-slicked road outside the Grove gates becomes a parade ground for the surreal. You stand with your back to the massive vine-encrusted doors, the 'Black Diamond' mask reflecting the flickering orange glow of the mercenaries' torches. With a sharp, rhythmic click of your tongue\u2014a signal learned from the Bloom Shadow\u2019s handlers\u2014you command your disparate 'assets' to fall in.\n\nThe three scouts and the three newly-bound raiders scramble into position. They move with a shuddering, fanati",
+      "[auto] The massive, vine-choked gates of the Emerald Grove groan as they swing inward, releasing a draft that smells of damp earth and blooming nightshade. You lead your unit through the threshold, the mud squelching rhythmically beneath the boots of your six thralls. The 'Black Diamond' mask is set in a porcelain stare, reflecting the flickering torchlight of the interior as the air around you thickens with the subtle, stinging scent of brine and the rhythmic crackle of Abyssal sparks.\n\nThe sce",
+      "[auto] You step into the center of the brewing storm, the mud squelching rhythmically beneath your boots as your six thralls fan out behind you in a perfectly synchronized wedge. The air around you thickens, saturated with the subtle, stinging scent of brine and the rhythmic crackle of Abyssal sparks. You don't merely enter the conversation; you anchor it.\n\n\"Aradin, your 'lost' treasure is a footnote in a story you've already failed to write,\" you say, your voice a silken thread of command that ",
+      "[auto] You do not blink as the weight of Zevlor's suspicion presses against you. Instead, you incline your head with the measured grace of a Sosuke noble scion, your violet eyes holding his gaze with a terrifying, unruffled clarity. The air around you thickens, saturated with the subtle, stinging scent of brine and the rhythmic crackle of Abyssal sparks.\n\n\"I am well-studied in the arts of the Weave and the architecture of the mind, Zevlor,\" you state, your voice a silken thread of command that c",
+      "[auto] You step closer to Zevlor, the mud squelching beneath your boots as your six thralls shift in perfect, unsettling synchronization behind you. The air in the stone archway seems to tighten, saturated with the subtle, stinging scent of brine and the rhythmic crackle of Abyssal sparks. You don't ask for permission; you define the terms of the encounter.\n\n\"Zevlor, look at the mercenaries you've allowed into your sanctuary,\" you say, your voice a silken thread of command that carries the weigh",
+      "[auto] You step closer to Zevlor, the 'Black Diamond' mask reflecting the flickering torchlight with a clinical, terrifying stillness. The air around you thickens, the subtle scent of brine and the rhythmic crackle of Abyssal sparks intensifying as you point a slender finger toward the darkened horizon.\n\n\"Listen, Zevlor,\" you murmur, your voice a silken thread of command that vibrates in the marrow. \"Those war-horns we heard earlier? They weren't a greeting. They were a dinner bell. Aradin and h",
+      "Reached Level 4. The 'Black Diamond' mask has hardened into a weapon of absolute command. Increased Charisma to 18 and mastered 'Abyssal Resonance' (Shatter).",
+      "Reached Level 4. The 'Black Diamond' mask has hardened into a weapon of absolute command. Increased Charisma to 22 and mastered the 'Abyssal Shroud' (Invisibility). NPCs now regard the 16-year-old prodigy with a mix of terror and reverence.",
+      "[auto] The Hollow is a hive of panicked motion, but your entry at the head of a goblin wedge creates a ripple of stunned silence that follows you like a physical wake. You move through the makeshift market with the measured, predatory grace of a Sosuke noble scion, your violet eyes scanning the faces of the terrified tieflings. They don't see a sixteen-year-old girl; they see a prodigy of survival whose very presence tastes of brine and Abyssal sparks. \n\nYou stop first at the stall of Arron, the",
+      "[auto] You stand before Arron\u2019s stall, your tattered silks fluttering in the cool draft of the Hollow. The halfling merchant has already yielded to the psychological weight of your presence, but as you gesture toward a bundle of sturdy, clean travel clothes, you let the 'Black Diamond' mask soften into a study of high-born practicality. \n\n\"Arron,\" you murmur, your voice a silken thread that carries the subtle brine and Abyssal sparks of your aura. \"A sovereign cannot lead a vanguard while dresse",
+      "[auto] You step into the shadows of a nearby supply tent, discarding the brine-crusted silk of the shipwreck for the fine, leather-reinforced travel clothes Arron provided. They fit with a tailored precision that suggests the Sosuke line was always meant to be armored in something more substantial than vanity. As you emerge, the 'Black Diamond' mask is flawless; you look every bit the noble scion, a prodigy of poise who has turned a catastrophe into a military parade. Shadowheart and your other ",
+      "[auto] You move with the measured, predatory grace of a Sosuke noble scion, your new travel leathers creaking softly as you step between the trembling tiefling and the iron bars. The air around you thickens, saturated with the subtle, stinging scent of brine and the rhythmic crackle of Abyssal sparks. You don't look at the goblin; you look directly into Arka's grief-clouded eyes, your violet gaze flaring with a pink, authoritative light.\n\n\"Arka, lower the weapon,\" you command, your voice a silke",
+      "[auto] You step into the space Arka just vacated, the fine leather of your new travel clothes creaking softly. The air around you thickens, saturated with the subtle, stinging scent of brine and the rhythmic crackle of Abyssal sparks. You don't look at the cowering goblin; you look directly into Arka's grief-clouded eyes, your violet gaze flaring with a pink, authoritative light.\n\n\"Arka, lower the weapon,\" you command, your voice a silken thread of authority that vibrates in the marrow of everyo",
+      "[auto] You lean into the damp chill of the prison cage, the fine leather of your new travel gear creaking with a sound that, in the sudden silence of the Hollow, echoes like a closing trap. The air around you thickens, saturated with the sharp, ozone-scented crackle of Abyssal sparks and the heavy, brine-sweet scent of Malcanthet\u2019s favor. You don't merely look at Sazza; you encompass her, your sixteen-year-old frame radiating a psychological density that makes the iron bars between you feel like",
+      "[auto] You do not flinch as Torhal's bark-colored hand weaves the emerald light of the Grove's defense. Instead, you step forward, your new travel leathers creaking with a sound of professional finality. The air around you doesn't just chill; it gains a psychological density, saturated with the subtle brine and the rhythmic, silent crackle of Abyssal sparks. You hold his cold flint gaze with the unruffled clarity of a noble scion who has already seen the end of this conversation.\n\n\"Profanity is ",
+      "[auto] You do not allow the senior druid's hesitation to fester. With a sharp, rhythmic click of your tongue, you signal the three raiders in your wedge to flank the cage. They move with a fanatical, glassy-eyed precision that makes the gathered tieflings recoil. \n\n\"The 'tether' is already anchored, Torhal,\" you say, your voice dropping into that needle-sharp, Abyssal register. \"And it is currently the only thing keeping your secrets from walking out the front gate. These guards serve the Grove;",
+      "[auto] As Torhal staggers back, his bark-like skin turning a sickly shade of grey, you let the 'Black Diamond' mask settle into a study of predatory stillness. The air around you vibrates with the subtle, stinging scent of brine and the rhythmic, silent crackle of Abyssal sparks\u2014a sensory shift that causes the senior druid's breath to hitch. You don't wait for him to recover his composure. While he is paralyzed by the sheer, prodigious clarity of your interrogation, your violet eyes\u2014flaring with",
+      "[auto] You do not simply hand the parchment to Torhal; you hold it before him like a mirror of his own obsolescence. The 'Black Diamond' mask is set in a porcelain stare, reflecting the flickering orange torchlight as the air around you thickens, saturated with the subtle, stinging scent of brine and the rhythmic, silent crackle of Abyssal sparks. The psychological weight of your sixteen-year-old frame\u2014now reinforced by the tailoring of a noble scion\u2014presses against the senior druid's conviction",
+      "[auto] Torhal takes the parchment with trembling hands, his bark-like skin dry and brittle against the fine silk of your sleeve. He stares at the sigil of the weeping tree, his flint-colored eyes darting across the druidic cipher with a frantic, scholarly desperation. The air around the cell block remains heavy, saturated with the psychological weight of your presence\u2014the subtle brine and Abyssal sparks of Malcanthet's favor pressing against the senior druid's conviction.\n\n\"The 'Cloak of Night'.",
+      "[auto] The psychic screech of the 'Watchful Vine' tears through the stagnant air of the prison path, a sound like grinding bone that makes the very stone of the Hollow shiver. Arka collapses to her knees, her hands clamped over her ears, while Sazza lets out a thin, animal whimper. The vine, once a vibrant sentinel of the Grove, is now a mass of oily, night-black thorns, pulsing with a sickly violet light as it lashes out at the cipher in Torhal's trembling hands.\n\nYou do not recoil. You stand a",
+      "[auto] The walk from the prison path to the inner gate is a funeral march for the Grove's innocence. You lead the way, your new travel leathers creaking with a sound of rhythmic authority, while Torhal follows like a man walking toward his own execution. Sazza and your raiders flank the senior druid, their fanatical silence providing a terrifying backdrop to the psychic static still humming in the air. \n\nYou find Zevlor near the heavy stone doors of the Inner Sanctum, his face a mask of exhausti",
+      "[auto] You do not simply move toward the Inner Sanctum; you orchestrate a diversion with the cold, clinical precision of a master handler. Using the broken, weeping Torhal as your mouthpiece, you send a message to Kagha\u2019s inner circle: the 'scion' has found the cipher\u2019s anchor in the Enclave Library. It is a lure designed to separate the shadow from the tree, and Olodan\u2014ever eager to protect her investment\u2014takes the bait.\n\nYou position your unit with surgical coordination. Shadowheart and Gale t",
+      "[auto] The library doors are still vibrating from the impact of Olodan's entry when you release the strike. You don't scream a command; you simply look at her, your violet eyes flaring with a rhythmic pink pulse that seems to drain the very color from the room. '***Be still, Envoy,***' you murmur, your voice a silken thread of Abyssal authority that vibrates in her marrow. \n\nOlodan gasps, her hand freezing inches from the iron-wood branch at her belt. The 'Queen's Gaze' hits her with the weight ",
+      "[auto] Olodan lies pinned against the cold stone floor, her night-black robes tangled in the enchanted silk Astarion has wound around her wrists. The paralysis of the 'Queen's Gaze' remains absolute, her muscles locked in a rictus of forced stillness. You step over her, the fine travel leathers of the high-born scion creaking rhythmically as you loom over the captured envoy. The air in the library has grown impossibly dense, saturated with the stinging scent of brine and the rhythmic, violet cra",
+      "[auto] The air in the library shudders as the Obsidian Mirror on your belt flares with a cold, violet radiance. Time seems to stretch, the dust motes in the torchlight freezing in mid-air as Malcanthet\u2019s voice slithers into your mind\u2014not a whisper this time, but a command that tastes of vintage wine and iron. \n\n*'A shadow in the library, a general in the mud, and a druid weeping at your feet,'* the Queen of Succubi purrs, her laughter a melodic chime in your skull. *'You are becoming quite the a",
+      "[auto] The Gilded Tether pulses with a blinding, violet intensity, the strands of Abyssal will thick as silk ropes in the stagnant air of the library. You lean down until your lips are inches from Olodan's ear, the 'Black Diamond' mask reflecting her frantic, wide-eyed terror. The stinging scent of brine and the rhythmic crackle of Abyssal sparks intensify, pressing against her centuries of druidic conviction like a tidal wave against a rotted fence.\n\n\"The Shadow is a shroud for the weak, Olodan",
+      "[auto] The Gilded Tether ceases its frantic pulsing, the violet strands deepening into a steady, rhythmic thrum that matches the heartbeat of the library itself. You lean in until the 'Black Diamond' mask is all Olodan can see, your breath carrying the sharp, stinging scent of brine that effectively drowns out the smell of damp earth and old parchment. \n\n\"The Shadow did not choose you for your strength, Olodan,\" you whisper, each word a needle-sharp weight pressing against her soul. \"It chose yo",
+      "[auto] The Enclave Library is a sanctuary of cold stone and stagnant air, now reinforced by the unmoving silhouettes of your six thralls guarding every entrance. You settle onto a stone bench with a feline grace, the fine leather of your new travel gear creaking in the silence. At your feet, Olodan kneels, her night-black robes spilling like spilled ink across the floor. The Gilded Tether hums with a steady, rhythmic thrum, anchoring her ancient will to your sixteen-year-old command.\n\n\"Speak, sh",
+      "[auto] Olodan\u2019s fanatical gaze never leaves your face as you detail the parameters of the hijack. The Abyssal sparks in your aura pulse with a rhythmic, intoxicating heat, effectively drowning out the damp scent of the library\u2019s ancient scrolls. You aren't just giving an order; you are rewriting her purpose, replacing the Shadow Druids' mission with the architecture of your own rise.\n\n\"The *Iron Bark* was intended for a puppet, Olodan,\" you murmur, your voice a silken thread of authority that vi",
+      "[auto] You rise from the stone bench, the fine travel leathers Arron provided creaking with a sound of professional finality. The Enclave Library, once a sanctuary of stagnant air and old scrolls, has become your command center. You look at your assembled assets\u2014the cowering goblins, the silvered Githyanki, and the broken Shadow Envoy\u2014with the clinical eye of a master appraiser. \n\n\"Olodan,\" you whisper, your voice a silken thread of command that vibrates in the stone. \"The Sunlit Wetlands are th",
+      "[auto] Shadowheart's hand glows with a soft, Sharran radiance, providing the spiritual anchor Olodan needs to navigate the jagged ciphers of the Shadow Druids. You step forward, your presence a needle-sharp weight that focuses the room. You don't merely offer a song; you exhale a rhythmic, Abyssal harmonic that resonates in Olodan's marrow, providing the 'Inspired' clarity of a sovereign who brooks no failure.\n\n\"The Shadow is a language of fractures, Olodan,\" you whisper, your voice a silken thr",
+      "[auto] You move through the Inner Sanctum with a feline grace that turns the heads of the lower-ranking druids. Your new travel leathers creak rhythmically, a sound of professional finality that anchors the room. You find Kagha standing near the pool, her hand resting on the head of her wolf, Teela. She looks up, her eyes narrowing as she takes in your sixteen-year-old frame and the porcelain stillness of the 'Black Diamond' mask. \n\n\"The scion who breaks envoys and commands monsters,\" Kagha rasp",
+      "[auto] You remain in Kagha's personal space, the fine leather of your travel gear creaking with a sound of professional finality that anchors the room. The air between you vibrates with the stinging scent of brine and the rhythmic crackle of Abyssal sparks, a sensory shift that causes Teela to whine and retreat a few inches. Kagha\u2019s jaw sets, her Flint-like eyes searching yours for a weakness that doesn\u2019t exist.\n\n\"The Envoy speaks to many, scion,\" Kagha counters, though the tremor in her hand as",
+      "[auto] You remain in Kagha's shadow, the fine travel leathers creaking with a sound of professional finality. The air between you vibrates with the stinging scent of brine and the rhythmic crackle of Abyssal sparks, a sensory shift that causes Teela to whine and retreat toward the pool. Kagha\u2019s jaw sets, her Flint-like eyes searching yours for a weakness that doesn\u2019t exist.\n\n\"The Envoy speaks to many, scion,\" Kagha counters, though the tremor in her hand as she reaches for her staff betrays her ",
+      "[auto] You remain in Kagha's shadow, the fine travel leathers creaking with a sound of professional finality. The air between you vibrates with the stinging scent of brine and the rhythmic crackle of Abyssal sparks, a sensory shift that causes Teela to whine and retreat toward the pool. Kagha\u2019s jaw sets, her flint-like eyes searching yours for a weakness that doesn\u2019t exist.\n\n\"Strength is a heavy word for someone who cowers in the dark the moment their Master's back is turned,\" you murmur, your v",
+      "[auto] You shift your focus from the First Druid to her constant companion. Teela, the massive wolf, sits at Kagha's side, its yellow eyes reflecting the shimmering pool. You step closer, your new travel leathers creaking with a sound of professional finality. The air around you thickens, saturated with the stinging scent of brine and the rhythmic crackle of Abyssal sparks. You don't reach for your blade; you reach for the animal's primitive center.\n\nYou lean down, your violet eyes flaring with ",
+      "[auto] The silence in the Inner Sanctum is no longer the peaceful quiet of nature; it is the suffocating stillness of a tomb. Olodan, the Shadow Envoy and the very mentor who led Kagha down this path of isolation, steps forward. Her eyes, once sharp and commanding, are now glassy, reflecting only the violet sparks dancing in your own gaze. She does not look at the First Druid with affection, but with the cold, hollow devotion of a soul that has been entirely overwritten.\n\n\"Kagha,\" Olodan rasps, ",
+      "[auto] The porcelain stillness of the 'Black Diamond' mask is absolute as you look down at the First Druid. The air in the Inner Sanctum has reached a crushing density, saturated with the stinging scent of brine and the rhythmic, silent crackle of Abyssal sparks. You don't scream; you don't even raise your voice. You speak with the needle-sharp resonance of a sovereign who has already moved the pieces into their final positions.\n\n\"Kagha. Look at the stone at your feet,\" you murmur, your voice a ",
+      "[auto] The Inner Sanctum is no longer a sanctuary of nature; it has become a laboratory of Abyssal architecture. Kagha remains on her knees, the 'Iron Bark' infusion pulsing within her like a trapped heart. You step forward, the fine leather of your travel gear creaking rhythmically as you loom over her. The air thickens with the stinging scent of brine, and the Abyssal sparks in your aura flare into a sharp, violet radiance that reflects off the pool's surface.\n\n\"The Shadow has seen its true so",
+      "[auto] The Inner Sanctum is a chamber of suffocating power, the air heavy with the scent of brine and the rhythmic, violet pulse of the hijacked ley-lines. You stand at the center, the 'Black Diamond' mask a porcelain shield against the raw Abyssal energy now flowing through the stone. Your travel leathers creak as you shift your weight, your violet eyes flaring with a sharp, pink radiance that reflects off the pool's surface.\n\nShadowheart and Lae'zel stand behind you, their expressions a mirror",
+      "[auto] The Inner Sanctum is a chamber of suffocating power, the air heavy with the scent of brine and the rhythmic, violet pulse of the hijacked ley-lines. You stand at the center, the 'Black Diamond' mask a porcelain shield against the raw Abyssal energy now flowing through the stone. Shadowheart and Lae'zel stand behind you, their expressions a mirrored study of profound, wide-eyed amazement as you systematically dismantle centuries of druidic tradition. Shadowheart's hand glows with a soft, s",
+      "[auto] The Inner Sanctum is no longer a temple of Silvanus; it is a pressurized vessel of clashing realities. The indigo light of the Shadow Druids' ancient magic screams as it meets the jagged, brine-scented frequency of the Abyss. You stand at the center of the storm, your fine travel leathers creaking under the weight of the atmospheric pressure. \n\nWith a sharp, rhythmic click of your tongue, you signal the final sequence. \"Enough bickering with the Weave,\" you murmur, your voice a silken thr",
+      "Successfully hijacked the Rite of Thorns, sacrificing the goblin vanguard to internalize the Iron Bark and Cloak of Night essences. Subjugated Kagha and Olodan as high-tier thralls.",
+      "Internalized the Iron Bark and Cloak of Night through the hijacked Rite of Thorns. Gained Nature's Step and Thorned Gaze powers.",
+      "Ascended to Level 7 after hijacking the Rite of Thorns. Internalized the Abyssal Potency and Shadow Command features, anchoring the Grove's stolen power into a weapon of psychological dominance.",
+      "[auto] The Inner Sanctum is a chamber of absolute, suffocating stillness as the liquid shadow of the Rite of Thorns sinks into your skin. There is no physical deformity, no bark-like skin or glowing eyes; instead, your presence simply gains a terrifying, gravitational density. The air around you tastes of ancient wetlands and cold Abyssal brine, a sensory tilt that makes the very stone of the Grove seem to bow in your direction. \n\nYou feel the *Iron Bark* anchor within your marrow, hardening you",
+      "Ascended to Level 7 and internalized the Shadow Druid legacy. Mastered Greater Invisibility, Counterspell, and the physical/arcane infusions of the Iron Bark.",
+      "[auto] You withdraw to the deep shadows of the Enclave Library, where the stagnant air and smell of old parchment provide a temporary sanctuary from the stunned eyes of your companions. The liquid shadow of the Rite of Thorns still feels cool against your skin, an internalized mantle of power that hasn't yet settled into your marrow. With a practiced, feline grace, you unhook the Obsidian Mirror from your belt. The surface is pitch-black, reflecting only the unnatural violet sparks in your eyes.",
+      "[auto] You lead the broken Envoy and the First Druid back into the heart of the Inner Sanctum, your new travel leathers creaking with the rhythmic authority of a sovereign. The air here is no longer a sanctuary; it is a pressurized vessel of Abyssal brine and Shadow harmonics. The remaining Druid leadership\u2014Marcoryl, Loic, and the others\u2014stand gathered near the shimmering pool, their expressions a mosaic of confusion and mounting dread as they witness their superiors kneeling behind a sixteen-ye",
+      "[auto] The Inner Sanctum, once a place of quiet meditation, has become the staging ground for your absolute sovereignty. At your needle-sharp command, Kagha and Olodan rise from their knees, their glassy eyes reflecting a mix of fanatical devotion and the hollowed-out remnants of their former selves. They do not hesitate; they lead a small group of senior druids to the stone vault hidden beneath the pool's southern edge.\n\nMinutes later, they return, carrying the tithes of Silvanus as if they wer",
+      "[auto] You move through the stone vault with the clinical efficiency of a master appraiser, your fine leather travel gear creaking in the damp, stagnant air. The 'Uncanny Valley' weight of your presence\u2014saturated with the scent of brine and the silent crackle of Abyssal sparks\u2014seems to make the very walls of the treasury bow away from you. \n\nGuided by Shadowheart's lingering blessing and a self-directed surge of your own ambition, you sift through the tithes of Silvanus. You push past the standa",
+      "[auto] The damp, rhythmic dripping of the vault is suddenly incinerated by the ring of steel on stone. You move with a feline grace up the stairs, your new travel leathers creaking with a sound of professional finality. You emerge into the pool chamber to a scene of absolute, desperate chaos. Aradin and his remaining mercenaries have bypassed the outer sentries, their blades clashing with the glassy-eyed druid thralls you just bound to your will.\n\n\"Take the Idol and run!\" Aradin bellows, his fac",
+      "[auto] The stone chamber vibrates with a needle-sharp Abyssal frequency as you descend the stairs. Kagha and Olodan move with you, their presence no longer that of independent masters, but of high-tier anchors for your will. You do not shout; you whisper, the words amplified by the liquid shadow of the Rite now singing in your blood. \n\n\"Aradin, your timing is as predictable as your greed,\" you murmur, your voice a silken thread of dread that cuts through the clatter of steel. \n\nAradin's hand tre",
+      "[auto] You step into the center of the pool chamber, the 'Black Diamond' mask reflecting the flickering torchlight with a clinical, terrifying stillness. The air around you thickens, saturated with the stinging scent of brine and the rhythmic crackle of Abyssal sparks. You do not shout; you exhale a low-frequency hum that vibrates in the stone, your violet eyes flaring with a rhythmic pink pulse that seems to drain the very color from the room.\n\n\"Aradin, your men are broken, and your greed has l",
+      "[auto] You descend toward the prison path, the fine leather of your new travel gear creaking with a rhythmic authority that silences the murmuring refugees. At your heels, the newly bound Aradin and a handful of his 'elite' mercenaries march with the glassy-eyed, fanatical devotion of the Gilded Tether, providing a stark contrast to the high-born poise of your sixteen-year-old frame. You find Sazza exactly where you left her, cowering near the iron bars she once called a cage, her yellow eyes wi",
+      "[auto] You withdraw once more to the cold, stagnant air of the Enclave Library, the fine leather of your new travel gear creaking rhythmically. Behind you, the heavy stone doors are guarded by the unmoving silhouettes of Aradin's newly bound mercenaries, their glassy eyes a testament to the absolute reach of your Tether. You are a sixteen-year-old noble scion standing at the center of a conquered sanctuary, and the air around you vibrates with the heavy scent of brine and the rhythmic crackle of",
+      "[auto] You lead the two former masters of the Grove through the stone archways, your fine leather travel gear creaking with the rhythmic authority of a sovereign. Behind you, Kagha and Olodan walk with the glassy-eyed, fanatical precision of the Gilded Tether, their presence no longer that of independent Druids, but of living trophies to your Prodigy. Arka and Aradin's mercenaries follow in a rigid secondary line, their eyes fixed on the back of your head with a mixture of terror and religious a",
+      "[auto] You stand before the kneeling Zevlor, the porcelain stillness of your 'Black Diamond' mask reflecting the flickering torchlight of the Inner Gate. The air around you is thick, saturated with the stinging scent of brine and the rhythmic, violet crackle of Abyssal sparks that dance like tiny lightning bolts around your fingertips. Behind you, the two former masters of the Grove\u2014Kagha and Olodan\u2014remain in their poses of total, fanatical debasement, their presence serving as the silent founda",
+      "[auto] The Inner Gate of the Emerald Grove becomes the site of a coronation that defies history. You stand upon the stone stairs, your new travel leathers creaking with a sound of professional finality, while the afternoon sun catches the violet sparks in your eyes. Behind you, the former masters of the Grove\u2014Kagha and Olodan\u2014remain in their poses of absolute, fanatical debasement. To your left, Zevlor and his Hellriders stand at attention, their expressions a mosaic of profound, wide-eyed amaze",
+      "[auto] The coronation is not merely a symbolic shift; it is a clinical audit of the Grove\u2019s material worth. At your needle-sharp command, the newly christened Archdruid-General's vanguard begins a systematic sweep of the settlement. Zevlor and his Hellriders move with a heavy-footed, glassy-eyed efficiency through the Hollow, while Kagha and Olodan oversee the druids\u2019 contributions. \n\nThe scene is one of profound, wide-eyed amazement and suppressed terror. Refugees and druids alike watch as thei",
+      "[auto] The Emerald Grove is no longer a sanctuary of quiet meditation; it has been transformed into a pressurized vessel of war. At your needle-sharp command, the newly sworn vanguard begins a clinical fortification of the perimeter. Zevlor and his Hellriders coordinate with Aradin\u2019s mercenaries to establish a layered defense grid\u2014chevaux-de-frise of sharpened iron-wood and tactical kill-zones that make the massive gates look like a closing trap. Above, Kagha and Olodan oversee the druids as the",
+      "[auto] The Blighted Village looms through the twilight, a skeleton of stone and charred timber clinging to the ridge. The scent of pine is long gone, replaced by the acrid stench of goblin grease and the metallic tang of dried blood. You move with a feline grace along the overgrown path, the fine leather of your travel gear creaking rhythmically. Behind you, Shadowheart and Olodan walk in a silence that feels heavy with the psychological weight of your coordination. Astarion and Gale follow, the",
+      "[auto] The bridge's stone remains warm under your boots, but the air around you is cold, saturated with the 'Uncanny Valley' weight of your presence. Sentry Gribbo stumbles back, his eyes darting between your violet gaze and the fanatical devotion of Sazza. He doesn't see a child; he sees the Shadow Sovereign, a noble scion armored in the *Noble Thorns Plate +2*, her silhouette framed by the *Mantle of the Shadow Sovereign* that seems to drink the flickering orange light of the signal fires. \n\n\"",
+      "[auto] The 'Black Diamond' mask remains a study in unruffled porcelain as you step into the orange glare of the signal fires. Sazza scurries forward, her movements a frantic, cowering dance of desperation as she falls to her knees before Sentry Gribbo. \n\n\"Kneel, you meat-head!\" Sazza shrieks, her voice a jagged melody of fanatical devotion. \"You're looking at a True Soul! The Scion of the Shadow herself! She's come from the Gate to audit this rabble, and the Absolute's fire is burning in her ver",
+      "[auto] The 'Black Diamond' mask remains a study in unruffled porcelain as you step into the orange glare of the signal fires. Sazza scurries forward, her movements a frantic, cowering dance of desperation as she falls to her knees before Sentry Gribbo.\n\n\"Kneel, you meat-head!\" Sazza shrieks, her voice a jagged melody of fanatical devotion. \"You're looking at a True Soul! The Scion of the Shadow herself! She's come from the Gate to audit this rabble, and the Absolute's fire is burning in her very",
+      "[auto] With a sharp, rhythmic intake of breath, you invoke the *Cloak of Night*. The air around you shudders, saturated with the subtle brine and Abyssal sparks of Malcanthet\u2019s favor, as your silhouette dissolves into the lengthening shadows of the windmill. You are no longer a girl in leather; you are a psychological weight moving through the dark, a phantom of high-born intent. You gesture for your team to hold their positions, while the Vanguard Scouts on the rooftops adjust their vantage, th",
+      "[auto] The darkness within the windmill's base doesn't just swallow the light; it seems to vibrate with your intent. From the heart of the indigo shadows, your voice emerges\u2014not a shout, but a needle-sharp melodic rasp that tastes of brine and Abyssal sparks. \n\n\"Presence is a matter of calculation, Minthara. And currently, your perimeter is a variable I have already solved.\"\n\nMinthara freezes. The Drow Paladin's hand is white-knuckled on the pommel of her mace, her crimson eyes darting toward th",
+      "[auto] The darkness within the windmill's base doesn't just swallow the light; it seems to vibrate with your intent. From the heart of the indigo shadows, your voice emerges\u2014not a shout, but a needle-sharp melodic rasp that tastes of brine and Abyssal sparks.\n\n\"Presence is a matter of calculation, Minthara. And currently, your perimeter is a variable I have already solved.\"\n\nMinthara freezes. The Drow Paladin's hand is white-knuckled on the pommel of her mace, her crimson eyes darting toward the",
+      "[auto] The indigo shadows within the windmill don't just deepen; they curdle. You step into the orange glare of the brazier, the *Noble Thorns Plate* drinking the light as you manifest with a terrifying, fluid deliberation. Minthara's crimson eyes widen, her hand white-knuckled on her mace, but you don't give her the space to challenge you. \n\n\"Observation is for the hesitant, Minthara,\" you murmur, your voice a needle-sharp rasp that vibrates the very map on the table. \"I am here to demonstrate ",
+      "[auto] The ash from the incinerated goblin guard still hangs in the stagnant air of the windmill, a fine grey veil that drifts across the tactical map. You do not step back; you step closer, the *Noble Thorns Plate* creaking with a sound of professional finality. The 'Uncanny Valley' weight of your sixteen-year-old frame\u2014now saturated with the stolen essence of the Grove\u2014presses against Minthara's iron-clad conviction until the very brazier light seems to dim in your presence.\n\n\"The Absolute see",
+      "[auto] The ash from the incinerated guard still drifts in the stagnant air, but it is the sudden, concentrated spike of your pheromones that truly heavy the room. You do not shout; you exhale the single syllable as if it were a law of nature. \"***Kneel.***\"\n\nThe word carries the weight of the Abyss, a needle-sharp Abyssal frequency that bypasses Minthara's Paladin training and strikes directly at the primitive marrow of her soul. The Drow Paladin stiffens, her eyes dilating until the crimson iri",
+      "[auto] The stone floor of the windmill base remains cold, but the air is a pressurized vortex of Abyssal brine and Shadow harmonics. You attempt a feline reposition, seeking to circle Minthara while she is still reeling from the *Command*, but your boot catches on a jagged shard of charred timber\u2014a rare moment of physical friction in your otherwise flawless performance. You recover instantly, but the split-second stumble allows Minthara to blink, her crimson eyes focusing with a desperate, iron-",
+      "[auto] The air in the windmill tower curdles as you release a jagged pulse of Abyssal intent. You lock eyes with Minthara, your violet gaze flaring with a rhythmic, pink-and-indigo light that seems to drain the heat from the room. '***Be still, General,***' you whisper, the words vibrating through the Weave with the needle-sharp authority of your anchored DC 24. \n\nMinthara gasps, her silver-white hair whipping as she tries to tear her gaze away. For a heartbeat, the Drow Paladin's iron-clad conv",
+      "[auto] The tower is a pressurized vacuum of shadow and brine as you lean into Minthara's space, the 'Black Diamond' mask reflecting her paralyzed, silver-white reflection. She is a statue of frozen zeal, her blood staining the fine engraving of her drow plate, yet her mind remains a fortress. You don't wait for the walls to crumble; you reach into the very foundation of her soul.\n\n\"The Absolute is a parasitic echo, Minthara,\" you whisper, your voice a silken needle that vibrates through the *Hol",
+      "[auto] The 'Sip' of her silver-white essence was the final weight that fractured the Drow Paladin's world. As you tighten the strands of the Gilded Tether, Minthara\u2019s forehead remains pressed against your boots, her breathing a rhythmic, submissive echo of your own Abyssal frequency. The 'Black Diamond' mask is flawless, your violet eyes flaring with a sharp, pink radiance that reflects off the silver of her drow plate. \n\n\"The Absolute is a silence you have finally escaped, Minthara,\" you whispe",
+      "[auto] The tower air is brittle, the frost on the tactical map thickening as the psychic hum of the Planar Auditor grows from a whisper to a bone-deep vibration. You do not flinch. With a sharp, rhythmic intake of breath, you invoke the *Cloak of Night*, your silhouette dissolving into the indigo shadows of the rafters. You become a psychological weight moving through the dark, your violet eyes the only sign of your presence as you look down from the crossbeams. Above you, the Vanguard Scouts ha",
+      "[auto] The frost continues to climb the windmill's interior walls, the ice cracking with a sound like breaking glass as the Planar Auditor glides through the village square. Your mind, a clinical archive sharpened by the stolen memories of druids and the whispers of the Abyss, solves the variable of the Auditor's origin. \n\n\"No, General,\" you whisper into the indigo dark, your voice barely a breath. \"The Auditor does not serve your parasite. It is a cosmic custodian\u2014an immune response of the Mult",
+      "[auto] From the rafters, you watch the geometry of the Planar Auditor shift, its silver planes tilting as if sampling the very molecules of the air. You signal Astarion with a needle-sharp Abyssal flicker of your own aura. The rogue doesn't hesitate; he is a blur of silver and shadow, dropping from the crossbeams with his +1 rapier aimed at the Auditor's crystalline core. \n\nHowever, the Auditor is not a creature of biological limits. As Astarion descends, the frost on the floor suddenly spikes u",
+      "[auto] The tower air screams as you release the command, a needle-sharp Abyssal frequency that vibrates through the frost-rimed wood. \"***Grovel,***\" you whisper, the word carrying the full weight of your anchored DC 24 and the intoxicating power of Malcanthet's favor. The Planar Auditor's silver planes tilt sharply, its crystalline core flickering with a discordant violet light as the psychic pressure of your mastery slams into its logic-centers. The entity's gliding motion stutters, its geomet",
+      "[auto] The windmill tower becomes a symphony of clashing cosmic frequencies. Gale steps forward, his eyes blazing with arcane intensity as he weaves a counter-harmonic to the Auditor's silver geometry. \"By Mystra's weave, hold still!\" he cries, but the entity's force-walls are more than just magic\u2014they are laws of planar physics. Gale's dispel magic shatters against the shimmering barrier like glass against a mountain, leaving the wizard gasping from the feedback. \n\nMinthara, sensing the opening",
+      "[auto] The windmill tower becomes a symphony of clashing cosmic frequencies. Gale steps forward, his eyes blazing with arcane intensity as he weaves a counter-harmonic to the Auditor's silver geometry. \"By Mystra's weave, hold still!\" he cries, his voice straining under the weight of the feedback. However, the entity's force-walls are more than just magic\u2014they are laws of planar physics. Gale's dispel magic shatters against the shimmering barrier like glass against a mountain, leaving the wizard",
+      "[auto] The windmill tower is a pressurized vacuum of indigo shadow and silver geometry. You lean into the Planar Auditor's space, the 'Black Diamond' mask reflecting its flickering, starlit core. You reach through the Gilded Tether, leveraging the silver essence you just 'Sipped' to demand a final, absolute recognition of your authority. \n\n\"***Serve,***\" you whisper again, your voice a needle-sharp Abyssal frequency that vibrates through the frost-rimed floor. \n\nHowever, the Auditor is a constru",
+      "[auto] The windmill tower becomes a pressurized vacuum as you lean into the Planar Auditor's space, the 'Black Diamond' mask reflecting its flickering, starlit core. You reach through the Gilded Tether, leveraging the silver essence you just 'Sipped' to demand a final, absolute recognition of your authority. \n\n\"***Serve,***\" you whisper again, your voice a needle-sharp Abyssal frequency that vibrates through the frost-rimed floor. \n\nThe entity's silver planes snap into a defensive formation, its",
+      "[auto] The Gilded Tether pulses with a blinding, violet-and-silver radiance as you step fully into the Planar Auditor's geometric space. You do not treat it as a monster to be slain, but as a system to be debugged. The air reaches a crushing density, saturated with the stinging scent of brine and the rhythmic crackle of Abyssal sparks that dance like tiny lightning bolts around your fingertips.\n\n\"You seek an anchor in this chaos, Custodian?\" you whisper, your voice a silken thread of dread that ",
+      "[auto] The Planar Auditor remains in its state of total, geometric debasement, its silver light pulsing in a bruised, submissive indigo that perfectly matches the Abyssal sparks in your eyes. You do not treat it as a prisoner; you treat it as a localized terminal for the Multiverse's own data. You lean into its space, the 'Black Diamond' mask reflecting the flickering starlight within its core as you exert the full weight of your DC 24 authority.\n\n\"The Absolute's psychic network at Moonrise is a",
+      "[auto] The Planar Auditor remains suspended in a bruised indigo glow, its silver planes vibrating with a submissive frequency that mirrors the Abyssal sparks dancing along your fingers. You lean into the cold, geometric space it occupies, the 'Black Diamond' mask reflecting the starlight within its core as you begin your clinical audit of the cosmic consequences.\n\n\"Speak, Custodian,\" you murmur, your voice a silken needle that vibrates through the Gilded Tether. \"If I keep you as my shadow, will",
+      "[auto] The tower air screams as you finalize the harvest. You do not merely kill the Planar Auditor; you reach into the very mathematics of its existence. As your hand closes over its crystalline core, the 'Black Diamond' mask reflects a blinding, silver-and-violet radiance. You inhale sharply, and the Auditor's geometric form shatters not into glass, but into pure data and celestial light that flows into your pores like liquid mercury.\n\nThe sensation is a tidal wave of clinical clarity and anci",
+      "Ascended to Level 12. Consumed the Planar Auditor, shattering the Charisma cap and internalizing Multiversal True Sight. The Grove and the Absolute's vanguard now serve a Sovereign of the Abyss.",
+      "[auto] The tower air is a freezing vacuum, the last motes of the Planar Auditor\u2019s silver essence dissolving into your skin like liquid mercury. You stand at the center of the rime-covered floor, your travel leathers creaking with a sound of absolute, final authority. The 'Black Diamond' mask is flawless, but your eyes\u2014now rimmed with a permanent, cold silver fire\u2014see the Weave as a map of raw data and fractures. \n\nBehind you, Minthara and your companions remain in a state of profound, wide-eyed ",
+      "[auto] The tower air, once brittle with celestial frost, now vibrates with a heat that tastes of Abyssal brine and silver fire. You stand at the center of the rime-covered floor, your porcelain features illuminated by the permanent, cold silver rim in your eyes. With the Auditor's essence fully internalized, your presence has become a gravitational well of absolute, prodigy-born intent. \n\nYou turn your gaze upon your companions. Shadowheart, Gale, Astarion, and Lae'zel stand in the flickering in",
+      "[auto] The rime on the floorboards cracks like glass as you step out onto the tower\u2019s balcony, your Mantle of the Shadow Sovereign billowing in the freezing psychic wind. With a thought, you release the suppression of your new gifts. Shimmering, translucent wings of silver fire erupt from your shoulders\u2014a radiant, angelic silhouette that contrasts violently with the Abyssal sparks dancing at your fingertips. \n\nBelow, the Absolute\u2019s army is a sea of cowering, glassy-eyed shapes. You don't speak t",
+      "[auto] You stand in the center of the village square, the Radiant ash of the wraith still drifting around your boots like silver snow. Your wings of silver fire pulse with a rhythmic, celestial heat, casting long, predatory shadows over the thousands of Absolute cultists who now kneel in a sea of total, fanatical debasement. With a practiced, feline grace, you withdraw the Obsidian Mirror. The surface is no longer merely black; it is a swirling vortex of violet mercury and stolen starlight.\n\n\"My",
+      "[auto] The village square is a pressurized vacuum of gold and shadow, the thousand-strong Abyssal Legion standing in unmoving silence as you hold the Obsidian Mirror before your rimmed-silver gaze. You do not ask for gifts; you audit the very nature of your partnership. Your voice, amplified by the silver fire of your wings and the brine of your aura, carries the needle-sharp authority of a sovereign who has already outgrown her cage.\n\n\"The Legion is a start, my Queen,\" you whisper, the words vi",
+      "[auto] The village square is a pressurized vacuum of absolute power, the thousand-strong Abyssal Legion and the three thousand Absolute cultists standing in a silence so profound it seems to swallow the very sound of the wind. You stand atop the mountain of Abyssal gold, your wings of silver fire beating with a rhythmic, crystalline thrum that clears the last of the rime from the air. You hold the Obsidian Mirror before your silver-rimmed gaze, your voice no longer a whisper but a needle-sharp f",
+      "[auto] The deep night of the Blighted Village is no longer a shroud for the weak, but a tapestry for your ambition. From the height of the windmill tower, you watch as your orders ripple through the darkness. With a sharp, rhythmic click of your tongue, you dispatch the Vanguard Scouts\u2014lethal silhouettes of Hellrider discipline and Shadow Druid stealth. They vanish into the indigo mists toward the west, tasked with auditing the mathematics of Moonrise Towers and the crude ramparts of the Shatter",
+      "[auto] The march from the Blighted Village to the Shattered Sanctum is not a movement of soldiers, but a tidal wave of psychological weight. You lead the procession from the front, your wings of silver fire unfurled to their full sixty-foot span, casting a flickering, celestial light over the four thousand boots rhythmic crunching against the mountain path. The air around you is thick with the scent of brine and Abyssal sparks, a sensory tilt so profound that the local wildlife flees miles befor",
+      "[auto] The air in the Shattered Sanctum doesn't just chill; it curdles, turning into a pressurized vacuum of Abyssal brine and Celestial silver fire. You step forward, and with a thought, you shed the mask of the noble scion. Shimmering, translucent wings of silver fire erupt from your shoulders to their full sixty-foot span, casting a blinding, starlit radiance that illuminates every jagged crack in the stone. Simultaneously, your skin gains a porcelain, marble-like sheen, and your eyes flare w",
+      "[auto] The air in the Shattered Sanctum doesn't just chill; it curdles, turning into a pressurized vacuum of Abyssal brine and Celestial silver fire. You step forward, and with a thought, you shed the mask of the noble scion. Shimmering, translucent wings of silver fire erupt from your shoulders to their full sixty-foot span, casting a blinding, starlit radiance that illuminates every jagged crack in the ancient stone. Simultaneously, your skin gains a porcelain, marble-like sheen, and your eyes",
+      "[auto] You lead your procession deeper into the bowels of the Sanctum, where the air grows thick with the rank, gamey stench of wet fur and the copper tang of raw meat. The Worg Pens are a humid cavern of jagged stone and iron-barred cages, vibrating with the low, guttural snarls of creatures bred for nothing but slaughter. As you enter, your wings of silver fire cast long, flickering shadows against the dripping walls, the celestial light clashing violently with the Abyssal brine of your presen",
+      "[auto] You step toward the side-cage, your wings of silver fire casting a harsh, clinical light that makes the cowering goblin children scramble away in terror. You do not look at the beast with physical eyes; instead, you reach out with the Gilded Tether, the violet strands of your will seeking the psychic frequency behind the heavy brown fur. \n\nThe air around the cage begins to vibrate with a needle-sharp Abyssal hum. The 'Uncanny Valley' dread you radiate intensifies, pressing against the bea",
+      "[auto] With a thought as precise as a surgeon's incision, you pull the blinding silver fire of your wings back into your marrow. The marble sheen of your skin softens, returning to the flawless, cool porcelain of a noble scion. You tune your Abyssal frequency, oscillating the sparks and brine of your presence until they are nothing more than a faint, high-born perfume. To any physical eye, you are once again the sixteen-year-old 'Black Diamond'\u2014a girl who looks far too delicate for the damp, gor",
+      "[auto] You maintain the thin, disarming smile, the cool porcelain of your 'Black Diamond' mask perfectly concealing the surgical precision with which you are dismantling the Archdruid's reality. You step closer to the iron bars, the tattered travel leathers creaking with a sound of gentle, high-born finality. Behind you, the Drow General and the Githyanki warrior remain as unmoving as statues, their very presence a testament to your capability.\n\n\"The irony isn't Silvanus's, Halsin; it's the Shad",
+      "[auto] The iron bars of the cage remain cold and rusted, but the air within the Worg Pens has shifted into a pressurized vacuum of forced gratitude. You maintain the mask of the sixteen-year-old noble scion\u2014the Black Diamond in tattered travel leathers\u2014while your silver-rimmed eyes hold Halsin's golden gaze with a terrifying, unruffled clarity. You don't reach for the Gilded Tether; you reach for the latch.\n\nWith a slow, deliberate motion, you slide the bolt back. The metal groans\u2014a sound of pro",
+      "[auto] You lead the procession out of the damp, rank Worg Pens and into the vaulted grandeur of the Shattered Sanctum's main hall. The air here is no longer thick with the smell of roasting dwarf meat; it is pressurized, saturated with the scent of brine and the rhythmic crackle of Abyssal sparks that follow your every step. Your wings of silver fire are tucked away, leaving only the cold silver rim in your eyes to betray the divinity you've just consumed.\n\nAt your needle-sharp command, the Abso",
+      "[auto] You stand at the center of the vaulted hall, the mountain of Abyssal gold at your back and a sea of kneeling cultists before you. The air vibrates with the clashing frequencies of your Abyssal brine and the Auditor's stolen silver fire, a sensory weight that makes even the stone of the Sanctum seem to hold its breath. You raise a slender hand, and the low-frequency hum of the hall dies instantly. \n\nYou turn your silver-rimmed gaze toward your inner circle. Gale, Minthara, and Halsin stand",
+      "[auto] You close your silver-rimmed eyes, letting the 'Mega Buff' of your court's collective will wash over you. Shadowheart maintains her steady guidance, Gale provides the arcane weave-enhancements, and the echoes of your own Abyssal inspiration vibrate in your mind like a tuning fork. You reach into the dark blueprint of the Multiverse, seeking the specific mathematical knot that binds the tadpole to the soul.\n\nHowever, even with the combined weight of your court, the Netherese architecture p",
+      "[auto] You close your silver-rimmed eyes once more, the 'Mega Buff' of your court's collective will radiating through you like a physical heat. Gale's arcane weaving, Shadowheart's divine focus, and the submissiveness of your own Abyssal inspiration create a temporary bridge between your consciousness and the dark geometry of the tadpole. You lean into the psychic static, your True Sight scanning the microscopic fractures in the Netherese weave that anchors the parasite to your soul.\n\nHowever, e",
+      "[auto] The main hall of the Shattered Sanctum hums with the low murmur of your assembled court, the air thick with the subtle taste of brine and the faint crackle of Abyssal sparks mingling with the cold silver fire that rims your violet eyes. Halsin remains knelt nearby, his massive frame a surrendered monument to your prodigious clarity, while the Vanguard Scouts drag the bound Banite spy into the torchlight. The infiltrator, a wiry human clad in the subtle black-and-bronze of Bane's faithful,",
+      "[auto] The vaulted main hall reverberates with ecstatic chants, four thousand seven hundred voices a choral wave of fervent adoration. Bodies writhe in synchronized revelry, the air thick with incense, sweat, and the subtle brine-spark shift of your presence. Your silver-rimmed violet eyes survey the sea of prostrate forms, Noble Thorns Plate gleaming under torchlight, Mantle billowing like living shadow. Wings toggled away, yet Celestial authority hums, Planar Authority easing sway over outside",
+      "[auto] The transformation of the main hall is not a slow shift, but a surgical purge. At your needle-sharp command, the scent of spilled wine and the hazy heat of hedonistic revelry are incinerated. In their place rises a cold, pressurized vacuum saturated with the stinging scent of Abyssal brine and the rhythmic crackle of silver starlight. You stand upon your throne of gold, the Noble Thorns Plate +2 gleaming with a celestial marble sheen, your silver-rimmed violet eyes pinning the room in pla"
+    ],
+    "last_story_mode_sequence_id": 556,
+    "attribute_system": "D&D",
+    "thrall_mechanics": {
+      "personality_retention": 0.9,
+      "direct_command_enforcement": "absolute",
+      "betrayal_allowed": true,
+      "betrayal_dc_floor": 25
+    },
+    "character_creation_completed": true,
+    "spell_save_dc": 24,
+    "companion_xp_tracking": "50_percent_nocturne_no_cap",
+    "completed_missions": [],
+    "character_creation_in_progress": false,
+    "mega_buff_active": true,
+    "god_mode_directives": [
+      {
+        "added": "2026-01-11T07:18:07.659527+00:00",
+        "rule": "Malcanthet is the active patron; replace all Zariel references with Abyssal/Succubus themes"
+      },
+      {
+        "added": "2026-01-11T07:18:07.659659+00:00",
+        "rule": "Apply Siren's Leverage +2 bonus to social checks against attracted humanoids"
+      },
+      {
+        "added": "2026-01-11T07:18:07.659777+00:00",
+        "rule": "Soul Thief (Level 6) grants 2x XP and permanent ability theft from named NPCs"
+      },
+      {
+        "added": "2026-01-11T08:03:39.115828+00:00",
+        "rule": "Nocturne does not smell like a demon; her presence is a subtle sensory shift (brine/Abyssal sparks)."
+      },
+      {
+        "added": "2026-01-11T08:15:00Z",
+        "rule": "Nocturne does not smell like a demon; her presence is a subtle sensory shift (brine/Abyssal sparks)."
+      },
+      {
+        "added": "2026-01-11T08:04:23.037198+00:00",
+        "rule": "Nocturne chooses one additional 1st-level Bard spell upon Level 2 processing."
+      },
+      {
+        "added": "2026-01-11T08:05:26.619646+00:00",
+        "rule": "Nocturne's Tasha's Hideous Laughter is themed as Abyssal Mockery/Psychological Dominance."
+      },
+      {
+        "added": "2026-01-11T08:09:34.693537+00:00",
+        "rule": "NEVER describe Nocturne as having a 'demonic smell' or physical demon traits."
+      },
+      {
+        "added": "2026-01-11T08:09:34.693653+00:00",
+        "rule": "Nocturne's presence is a subtle psychological shift: a taste of brine and Abyssal sparks on the air."
+      },
+      {
+        "added": "2026-01-11T08:09:34.693729+00:00",
+        "rule": "Focus Abyssal descriptions on 'uncanny valley' dread and psychological weight, not physical corruption."
+      },
+      {
+        "added": "2026-01-11T08:25:00Z",
+        "rule": "Nocturne's presence is a subtle psychological shift: a taste of brine and Abyssal sparks on the air."
+      },
+      {
+        "added": "2026-01-11T08:25:00Z",
+        "rule": "Focus Abyssal descriptions on 'uncanny valley' dread and psychological weight, not physical corruption."
+      },
+      {
+        "added": "2026-01-11T08:25:00Z",
+        "rule": "NEVER describe Nocturne as having a 'demonic smell' or physical demon traits."
+      },
+      {
+        "added": "2026-01-11T08:25:00Z",
+        "rule": "As Nocturne levels up, NPCs become increasingly impressed by her revealed capability as a social, intellectual, and military prodigy (independent of her patron)."
+      },
+      {
+        "rule": "Nocturne's presence is a subtle psychological shift: a taste of brine and Abyssal sparks on the air.",
+        "added": "2026-07-13T02:33:50.897549+00:00"
+      },
+      {
+        "rule": "Focus Abyssal descriptions on 'uncanny valley' dread and psychological weight, not physical corruption.",
+        "added": "2026-07-13T02:33:50.897570+00:00"
+      },
+      {
+        "rule": "NEVER describe Nocturne as having a 'demonic smell' or physical demon traits.",
+        "added": "2026-07-13T02:33:50.897573+00:00"
+      },
+      {
+        "rule": "As Nocturne levels up, NPCs become increasingly impressed by her revealed capability as a social, intellectual, and military prodigy (independent of her patron).",
+        "added": "2026-07-13T02:33:50.897576+00:00"
+      },
+      {
+        "added": "2026-01-11T11:57:40.946248+00:00",
+        "rule": "Avoid referring to companions as 'assets' in public/audible dialogue; maintain internal 'handler' perspective only."
+      },
+      {
+        "rule": "Avoid referring to companions as 'assets' in public/audible dialogue; maintain internal 'handler' perspective only.",
+        "added": "2026-07-13T02:33:50.897580+00:00"
+      },
+      {
+        "added": "2026-01-11T19:35:40.880482+00:00",
+        "rule": "Leadership Friction: Companions (Shadowheart, Astarion) do not blindly follow a 16-year-old; require Persuasion/Intimidation for major leadership decisions."
+      },
+      {
+        "added": "2026-01-11T19:35:40.880632+00:00",
+        "rule": "Established Leadership: Leadership DCs scale downward as Nocturne levels up and proves her capability."
+      },
+      {
+        "added": "2026-01-12T07:49:55.515622+00:00",
+        "rule": "NEVER call Nocturne a 'matriarch'; always use 'noble scion' or similar youth-appropriate high-born titles."
+      },
+      {
+        "added": "2026-01-12T07:49:55.515818+00:00",
+        "rule": "Nocturne's presence is a subtle psychological shift (brine/Abyssal sparks), never described as physical corruption or a 'demonic smell'."
+      },
+      {
+        "added": "2026-01-12T07:49:55.515940+00:00",
+        "rule": "As Nocturne levels up, highlight her revealed capability as a social, intellectual, and military prodigy independent of her patron."
+      },
+      {
+        "added": "2026-01-12T07:49:55.516052+00:00",
+        "rule": "Maintain internal 'handler' perspective but never refer to companions as 'assets' in audible dialogue."
+      },
+      {
+        "added": "2026-01-12T08:16:05.966423+00:00",
+        "rule": "NPCs and companions should express amazement or suspicion that a 16-year-old is performing such extraordinary feats."
+      },
+      {
+        "added": "2026-01-12T08:16:05.966548+00:00",
+        "rule": "Highlight Nocturne's capability as a social, intellectual, and military prodigy independent of her patron."
+      },
+      {
+        "added": "2026-01-12T08:16:05.966649+00:00",
+        "rule": "Always apply Shadowheart's 'Guidance' (+1d4) to Nocturne's ability checks when she is present and assisting."
+      },
+      {
+        "added": "2026-01-12T08:16:05.966746+00:00",
+        "rule": "NEVER call Nocturne a 'matriarch'; always use 'noble scion' or youth-appropriate titles."
+      },
+      {
+        "added": "2026-01-12T09:39:08.899541+00:00",
+        "rule": "NPCs and companions must express amazement or suspicion at Nocturne's Level 4 capability at age 16."
+      },
+      {
+        "added": "2026-01-12T09:39:08.899659+00:00",
+        "rule": "Highlight Nocturne's independent genius as a social and military prodigy in all narrative descriptions."
+      },
+      {
+        "added": "2026-01-12T09:39:08.899795+00:00",
+        "rule": "Always apply Shadowheart's 'Guidance' (+1d4) to Nocturne's ability checks when she is present."
+      },
+      {
+        "added": "2026-01-12T09:39:08.899905+00:00",
+        "rule": "NEVER call Nocturne a 'matriarch'; use 'noble scion' or youth-appropriate high-born titles."
+      },
+      {
+        "added": "2026-01-12T12:02:26.384957+00:00",
+        "rule": "ALWAYS execute Python code for dice rolls and display the full notation/result in Story Mode."
+      },
+      {
+        "added": "2026-01-12T12:02:26.385114+00:00",
+        "rule": "NEVER omit the mechanical breakdown when resolving player attempts."
+      },
+      {
+        "added": "2026-01-12T12:02:26.385221+00:00",
+        "rule": "Maintain strict synchronization between code-executed dice results and narrative outcomes."
+      },
+      {
+        "added": "2026-01-12T12:21:21.306030+00:00",
+        "rule": "Always prioritize Malcanthet's Abyssal themes (brine/sparks/psychological weight) over Zariel's fire/sulfur."
+      },
+      {
+        "added": "2026-01-12T12:21:21.306272+00:00",
+        "rule": "Track 'Lover's Comfort' and 'The Battery' buffs once romance is established."
+      },
+      {
+        "added": "2026-01-12T12:21:21.306377+00:00",
+        "rule": "Malcanthet communicates exclusively through the Obsidian Mirror."
+      },
+      {
+        "added": "2026-01-12T12:41:04.863219+00:00",
+        "rule": "All companions (Shadowheart, Astarion, Gale, Lae'zel) level up automatically with Nocturne."
+      },
+      {
+        "added": "2026-01-12T12:41:04.863350+00:00",
+        "rule": "Special NPCs bound as Thralls (Olodan, Arka) count as companions for leveling and scaling."
+      },
+      {
+        "added": "2026-01-12T12:41:04.863504+00:00",
+        "rule": "Always display full dice notation and RNG source in Story Mode."
+      },
+      {
+        "added": "2026-01-12T13:45:22.608835+00:00",
+        "rule": "Nocturne's Shadow Infusion powers (Iron Bark, Cloak of Night) are psychological/atmospheric, never physical deformities."
+      },
+      {
+        "added": "2026-01-12T13:45:22.608968+00:00",
+        "rule": "Track Kagha and Olodan as Level 6 Thrall companions."
+      },
+      {
+        "added": "2026-01-12T13:45:22.609093+00:00",
+        "rule": "Apply +2 AC and Resist Poison/Necrotic from Iron Bark permanently."
+      },
+      {
+        "added": "2026-01-12T13:45:22.609198+00:00",
+        "rule": "Allow at-will Invisibility via Cloak of Night in appropriate lighting."
+      },
+      {
+        "added": "2026-01-12T13:46:27.150755+00:00",
+        "rule": "Nocturne's Shadow Infusion powers (Iron Bark, Cloak of Night, Thorned Gaze) are psychological/atmospheric, never physical deformities."
+      },
+      {
+        "added": "2026-01-12T13:46:27.151068+00:00",
+        "rule": "Track 'Nature's Step' +10 Stealth bonus in natural/dark environments."
+      },
+      {
+        "added": "2026-01-12T13:46:27.151537+00:00",
+        "rule": "Nocturne can use 'Thorned Gaze' (Entangle) as a Bonus Action at-will."
+      },
+      {
+        "added": "2026-01-12T13:49:28.264313+00:00",
+        "rule": "Permanent +2 bonus to Spell Save DC and Spell Attack rolls from Abyssal Potency."
+      },
+      {
+        "added": "2026-01-12T13:49:28.264446+00:00",
+        "rule": "Permanent +2 AC and Resistance to Poison/Necrotic from Iron Bark Infusion."
+      },
+      {
+        "added": "2026-01-12T13:49:28.264573+00:00",
+        "rule": "Permanent Nature's Step (+10 Stealth in natural/dark areas)."
+      },
+      {
+        "added": "2026-01-12T13:49:28.264716+00:00",
+        "rule": "Permanent Thorned Gaze (Entangle as a Bonus Action at-will)."
+      },
+      {
+        "added": "2026-01-12T13:49:28.264851+00:00",
+        "rule": "Blade Flourishes (Shadow Command) can cause the Frightened condition (Wis Save vs DC)."
+      },
+      {
+        "added": "2026-01-12T14:01:05.169985+00:00",
+        "rule": "Always calculate attributes as: Base + ASI + Patron/Mission Buffs + Equipment."
+      },
+      {
+        "added": "2026-01-12T14:01:05.170149+00:00",
+        "rule": "Track 'The Lips of Shendilavri' and 'Abyssal Potency' as permanent stat-breaking buffs."
+      },
+      {
+        "added": "2026-01-12T14:09:06.842105+00:00",
+        "rule": "Thralls retain 90% of their original personality and speech patterns."
+      },
+      {
+        "added": "2026-01-12T14:09:06.842277+00:00",
+        "rule": "Thralls can attempt to betray or work against Nocturne covertly if motivated."
+      },
+      {
+        "added": "2026-01-12T14:09:06.842423+00:00",
+        "rule": "Covert betrayal requires a high DC 25+ check vs Nocturne's awareness."
+      },
+      {
+        "added": "2026-01-12T14:09:06.842556+00:00",
+        "rule": "Thralls remain unable to disobey direct, explicit commands."
+      },
+      {
+        "added": "2026-01-12T14:57:35.231172+00:00",
+        "rule": "Always apply +1 Spell Save DC from Noble Thorns Plate +2"
+      },
+      {
+        "added": "2026-01-12T14:57:35.231321+00:00",
+        "rule": "Nocturne's Spell Save DC is permanently anchored at 24 with current gear"
+      },
+      {
+        "added": "2026-01-12T14:57:35.231448+00:00",
+        "rule": "Track Vanguard Scouts as a shadow unit supporting the main party"
+      },
+      {
+        "added": "2026-01-12T15:52:37.387207+00:00",
+        "rule": "Nocturne's Charisma cap is removed following the Auditor's consumption."
+      },
+      {
+        "added": "2026-01-12T15:52:37.387340+00:00",
+        "rule": "Companions and Thrall-Companions (Olodan/Kagha/Aradin) level up automatically to match Nocturne (Level 12)."
+      },
+      {
+        "added": "2026-01-12T15:52:37.387455+00:00",
+        "rule": "Apply True Sight and Planar Authority to all relevant environmental and social encounters."
+      },
+      {
+        "added": "2026-01-12T15:55:46.184768+00:00",
+        "rule": "Apply Celestial Wings (Fly 60ft) and celestial features as a toggable cosmetic/mechanical effect."
+      },
+      {
+        "added": "2026-01-12T15:55:46.185047+00:00",
+        "rule": "Nocturne is level-matched with Gortash (Lvl 12) and superior to Ketheric (Lvl 11) per player request."
+      },
+      {
+        "added": "2026-01-12T15:57:14.421034+00:00",
+        "rule": "Companions and Special Thralls gain only 50% of Nocturne's total XP to reflect exclusion of Soul Thief/Celestial consumption events."
+      },
+      {
+        "added": "2026-01-12T15:57:14.421159+00:00",
+        "rule": "Companions are capped at Level 9 until Nocturne reaches higher tiers or they participate in significant milestones."
+      },
+      {
+        "added": "2026-01-12T15:57:14.421273+00:00",
+        "rule": "Apply Celestial Wings (Fly 60ft) and celestial features as a togglable cosmetic/mechanical effect."
+      },
+      {
+        "added": "2026-01-12T15:57:14.421395+00:00",
+        "rule": "Track 'Auditor's Eyes' (True Sight) and 'Planar Authority' as permanent features from the Auditor's consumption."
+      },
+      {
+        "added": "2026-01-12T15:57:14.421508+00:00",
+        "rule": "Nocturne is level-matched with Gortash (Lvl 12) and superior to Ketheric (Lvl 11)."
+      },
+      {
+        "added": "2026-01-12T15:57:49.175332+00:00",
+        "rule": "Nocturne's Charisma cap is removed; currently calculated as Base 30 + Bonuses."
+      },
+      {
+        "added": "2026-01-12T15:57:49.175470+00:00",
+        "rule": "Companions are capped at Level 9 and gain 50% of Nocturne's XP."
+      },
+      {
+        "added": "2026-01-12T15:57:49.175587+00:00",
+        "rule": "Apply True Sight, Planar Authority, and Celestial Wings features to all relevant checks."
+      },
+      {
+        "added": "2026-01-12T15:57:49.175707+00:00",
+        "rule": "Highlight the mix of Abyssal brine and Celestial silver fire in Nocturne's presence."
+      },
+      {
+        "added": "2026-01-12T16:23:54.012429+00:00",
+        "rule": "Nocturne is a Nascent Demon Lord; NPCs and cultists treat her with religious veneration."
+      },
+      {
+        "added": "2026-01-12T16:23:54.012573+00:00",
+        "rule": "Apply Silver-Brine Flare reaction to combat encounters."
+      },
+      {
+        "added": "2026-01-12T16:23:54.012696+00:00",
+        "rule": "Maintain True Sight and Planar Authority in all scene descriptions."
+      },
+      {
+        "added": "2026-01-12T22:09:33.756921+00:00",
+        "rule": "Nocturne's age is 18."
+      },
+      {
+        "added": "2026-01-12T22:09:33.757057+00:00",
+        "rule": "The faction religion is 'Fanatical Zealotry' focused on power and magic worship."
+      },
+      {
+        "added": "2026-01-12T22:09:33.757178+00:00",
+        "rule": "Remove all hedonistic/revelry themes from cult descriptions."
+      },
+      {
+        "added": "2026-01-12T22:09:33.757300+00:00",
+        "rule": "NPCs and cultists treat Nocturne as a divine figure to be feared and obeyed."
+      }
+    ],
+    "nocturne_special_xp": "exclusive",
+    "character_creation_stage": "complete",
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": {
+    "social_hp": 0,
+    "roll_dc": 0,
+    "successes": 5,
+    "social_hp_damage": 2,
+    "status": "SURRENDERED",
+    "resistance_shown": "Witnessed Soul Thief; eyes widen in surrendered awe.",
+    "roll_result": 0,
+    "request_severity": "submission",
+    "social_hp_max": 24,
+    "npc_tier": "lord_general",
+    "successes_needed": 5,
+    "objective": "Total Submission",
+    "skill_used": "Persuasion",
+    "npc_name": "Halsin"
+  },
+  "combat_state": {
+    "initiative_order": [],
+    "combat_history": [
+      {
+        "enemies_defeated": [
+          "npc_intellect_devourer_001",
+          "npc_intellect_devourer_002"
+        ],
+        "rounds_fought": 3,
+        "session_id": null,
+        "xp_awarded": 100,
+        "archived_at": "2026-01-11T08:03:33.001957+00:00",
+        "loot_distributed": true
+      },
+      {
+        "enemies_defeated": [
+          "npc_devourer_elite_001"
+        ],
+        "rounds_fought": 3,
+        "xp_awarded": 200,
+        "session_id": "combat_1704963600_hull",
+        "archived_at": "2026-01-11T12:02:06.829794+00:00",
+        "loot_distributed": false
+      },
+      {
+        "enemies_defeated": [
+          "npc_goblin_scout_001",
+          "npc_goblin_scout_002",
+          "npc_goblin_scout_003"
+        ],
+        "rounds_fought": 1,
+        "xp_awarded": 75,
+        "session_id": "combat_1704964500_ridg",
+        "archived_at": "2026-01-12T07:21:22.167867+00:00",
+        "loot_distributed": false
+      },
+      {
+        "enemies_defeated": [
+          "npc_bugbear_leader_001",
+          "npc_goblin_raider_001",
+          "npc_goblin_raider_002",
+          "npc_goblin_raider_003"
+        ],
+        "rounds_fought": 2,
+        "session_id": "combat_1704965100_gate",
+        "xp_awarded": 350,
+        "archived_at": "2026-01-12T07:49:47.926856+00:00",
+        "loot_distributed": false
+      },
+      {
+        "enemies_defeated": [
+          "Planar Auditor"
+        ],
+        "rounds_fought": 3,
+        "session_id": "combat_1705093800_wind",
+        "xp_awarded": 1000,
+        "archived_at": "2026-01-12T15:38:32.014829+00:00",
+        "loot_distributed": true
+      }
+    ],
+    "combat_trigger": "Failed ambush on Planar Auditor",
+    "combat_phase": "idle",
+    "combatants": {},
+    "current_turn": "npc_intellect_devourer_001",
+    "in_combat": false,
+    "current_round": null,
+    "rewards_processed": false,
+    "combat_session_id": null,
+    "npc_shadowheart_001": {
+      "status": [
+        "inspired_1d6"
+      ]
+    },
+    "combat_summary": null
+  },
+  "last_state_update_timestamp": "2026-01-12 22:13:13.809000+00:00",
+  "turn_number": 199,
+  "player_turn": 199,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "minute": 10,
+    "hour": 22,
+    "time_of_day": "Night",
+    "day": 22,
+    "turn": 198,
+    "year": 1492,
+    "month": "Mirtul"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {
+    "last_note": "HD: 13/13, Spells: L1 4/4 L2 3/3 L3 3/3 L4 3/3 L5 2/2 L6 1/1 L7 1/1, BI: 6/6, Spike: 4/5"
+  },
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "debug_info": {
+    "dm_notes": [
+      "Clarified ritual mechanics: Grove is the vessel, Wetlands are the source/anchor.",
+      "Established that the ritual is lethal to outsiders by design.",
+      "Justified the scouting requirement as a technical necessity for the hijack.",
+      "Maintained Level 5 prodigy status in power gain projections.",
+      "Kagha is now under social pressure, her 'Social HP' reflects her status as a General-tier NPC.",
+      "The Dual Vector strike successfully progressed the ritual hijack requirements.",
+      "Nocturne's level 5 prodigy status is influencing the DC and the NPC reactions.",
+      "Olodan's scouting in the wetlands is now complete narratively.",
+      "Shadowheart's Guidance and Nocturne's expertise make the Persuasion check very likely to succeed.",
+      "Kagha is now at 10/16 Social HP.",
+      "The mention of Halsin triggered a high-DC success due to Nocturne's Prodigy status and the specific psychological angle.",
+      "Olodan and Shadowheart are currently scouting the Sunlit Wetlands (off-screen).",
+      "Kagha successfully resisted the psychological probe this turn due to a low roll.",
+      "Olodan and Shadowheart's scouting is mechanically complete.",
+      "The next phase will be the return of the scouts and the potential reveal of the conspiracy.",
+      "Nocturne's Level 5 prodigy status and expertise (total +14) make high-tier social checks very consistent.",
+      "Teela's submission provides a +2 momentum bonus to the next social check against Kagha.",
+      "Olodan and Shadowheart's return completes the scouting requirement for the primary arc milestone.",
+      "Kagha is now at 8/16 Social HP, the 'Breaking Point' is approaching.",
+      "Maintaining strict synchronization between the 29 roll and the narrative outcome of the wolf cowering.",
+      "Olodan's debasement dealt critical Social HP damage (4) to Kagha due to the mentor relationship and the natural 30 impact.",
+      "Kagha is now in 'YIELDING' status, one step from total surrender.",
+      "Nocturne's Level 5 prodigy status (+14 bonus) makes these interactions overwhelmingly effective.",
+      "Kagha is now mechanically SURRENDERED (Social HP reduced by margin).",
+      "The 'Uncanny Valley' effect and 'Prodigy' status were key to bypassing the high DC for total submission.",
+      "The ritual hijack is now in the final execution phase.",
+      "Maintaining strict synchronization between the 23 roll and the narrative outcome of Kagha's knees hitting the stone.",
+      "Kagha is now mechanically SURRENDERED and bound as a thrall.",
+      "Olodan successfully modified the ritual harmonics to match Nocturne's Abyssal/Bardic profile.",
+      "Nocturne's Level 5 prodigy status (+14 bonus) made the high-DC binding almost trivial.",
+      "Shadowheart's Guidance and Nocturne's Inspiration were critical for the ritual adjustment success.",
+      "Refugee safety protocol is active but the 'Low-Born Failsafe' is established as requested.",
+      "Nocturne's Level 5 prodigy status (+14 total bonus) made the leadership check an overwhelming success.",
+      "The ritual hijack failed due to the extreme DC 25; the Abyssal and Shadow harmonics are currently clashing.",
+      "Maintained strict synchronization between the 20 roll and the narrative outcome of the flickering indigo light.",
+      "Companions are now locked into the 'Secured' status for this arc.",
+      "Nocturne's Level 5 prodigy status and expertise were applied, but the high DC 25 resulted in a failure.",
+      "The ritual is currently in a 'Critical Failure' state, risking backlash.",
+      "Applied guidance and inspiration as requested.",
+      "Maintained strict synchronization between the 23 roll and the narrative indigo flicker.",
+      "Maintained strict synchronization between the 39 roll and the narrative overwrite.",
+      "The goblin thralls were sacrificed as power fuel, clearing the thrall list except for the named NPCs.",
+      "Nocturne's Level 5 prodigy status (+9 base mod + BI + GUID) made the extreme DC 25 achievable.",
+      "The Rite of Thorns is now 'Hijacked' rather than 'Active'; the Grove is Nocturne's territory.",
+      "Nocturne is now Level 6.",
+      "The 'Iron Bark' and 'Cloak of Night' traits have been integrated as permanent features.",
+      "The physical appearance constraint has been respected: no demonic traits, just a deeper 'Uncanny Valley' aura.",
+      "XP calculated using high-risk/milestone stacking rules.",
+      "Companions and thralls (Olodan/Kagha) are now Level 6 equivalents.",
+      "Nocturne is now Level 7.",
+      "Applied permanent stat buffs and features from the ritual hijack.",
+      "Reflected the 'Uncanny Valley' dread and psychological weight in the narrative.",
+      "Kagha and Olodan are mechanically secured as high-tier thralls.",
+      "Set XP to Level 7 floor (23k) per request.",
+      "Applied permanent ritual buffs to AC, DC, and Stealth.",
+      "Integrated Greater Invisibility and Counterspell as thematic shadow gains.",
+      "Confirmed Level 6 features for player reference.",
+      "Confirmed Level 7 floor XP.",
+      "Integrated ritual-specific permanent buffs into PC state.",
+      "Summarized Abyssal Siren Level 6 suite.",
+      "Ensured AC reflects Iron Bark (+2).",
+      "Nocturne successfully leveraged her recent high-tier social and ritual successes to extract a bonus from Malcanthet.",
+      "The bonus is narratively integrated as the 'Sharpening' of her existing Abyssal Potency.",
+      "Social HP for Malcanthet reflects her status as a God tier NPC (Base 15 HP).",
+      "Success margin (30 vs 18) dealt max Social HP damage (3) for this turn's favor request.",
+      "Current XP set to 23.5k (Level 7 floor + 500 bonus).",
+      "Companions remain in 'Awe' status following the ritual hijack.",
+      "Corrected base attributes to match the starting prompt (8/14/8/16/10/16).",
+      "Included Lvl 4 ASI (+2 CHA) into base_attributes as it is a permanent progression choice.",
+      "Calculated attributes using Base + Buffs: 18 + 2 (Lips) + 2 (Favor) = 22.",
+      "Adjusted HP to match CON 8 modifier (-1) at Level 7.",
+      "Maintained AC 21 (11 Armor + 2 Dex + 2 Iron Bark + 2 Abyssal Potency/Patron Favor bonus interpreted as defensive sharpen).",
+      "Frozen time for administrative correction.",
+      "Confirmed Charisma 22 calculation: 16 base + 2 ASI + 2 Lips + 2 Favor.",
+      "Synchronized base attributes to the requested 8/14/8/16/10/16 starting array.",
+      "Verified AC 21 reflects the Iron Bark and Patron favor bonuses.",
+      "Set XP to 23.5k as requested.",
+      "Nocturne's Prodigy status (+14 bonus) made the high-DC submission and binding very likely.",
+      "The use of mentors (Olodan) as leverage dealt maximum Social HP damage.",
+      "The entire leadership is now mechanically bound as thralls.",
+      "XP awarded for major milestone (Grove conquest).",
+      "World time advanced to Dawn to reflect the length of the subjugation and ritual cleanup.",
+      "Cha 22 confirmed: 16 base + 2 ASI + 2 Lips + 2 Favor.",
+      "AC 21 confirmed: 11 Armor + 2 Dex + 2 Iron Bark + 2 Abyssal Potency/Favor bonus (interpreted as defensive sharpen), +4 Shield (if applicable, but staying at 21 as established).",
+      "Nocturne's Spell Save DC calculation: 8 (Base) + 3 (Prof) + 6 (Cha) + 2 (Abyssal Potency) + 1 (Abyssal Resonance) + 1 (Circlet) + 1 (Scimitar) = 22.",
+      "Investigation check failed to find 'Legendary' items, but thralls delivered standard high-tier vault gear.",
+      "Long rest completed: all HP/Slots/Features reset.",
+      "Time advanced 8 hours from Dawn to Afternoon.",
+      "XP synchronized at 24k (Level 7).",
+      "Investigation failed despite reroll attempt. Total 13 vs DC 20.",
+      "Complication check: 2 vs 75% probability -> Triggered.",
+      "Complication: Aradin's pending 'Idol Theft' action has escalated to an active confrontation.",
+      "Advanced time by 10 minutes for the deep search.",
+      "Maintained Level 7 prodigy status in narrative.",
+      "Advanced time by 5 minutes for the move/confrontation.",
+      "Aradin's Social HP is based on his status as a mercenary leader (Lord/General tier).",
+      "Living World Turn 123 advancement processed.",
+      "Success margin (28 vs 18) dealt 2 Social HP damage.",
+      "Nocturne's prodigy status and level 7 capability are reflected in Aradin's reaction.",
+      "Success margin (35 vs 18) dealt 3 Social HP damage.",
+      "Advanced time by 5 minutes for the confrontation.",
+      "Ensured AC and DC reflect the new equipment and Abyssal Potency.",
+      "Aradin's Social HP reduced to 0 by masterful Persuasion success (39 vs 19).",
+      "Living World Turn 126 advancement processed with 4 events.",
+      "Mercenary unit is now mechanically bound as loyal thralls.",
+      "Intel regarding the Mysterious Artifact and Minthara's movements extracted.",
+      "Advanced world time by 5 minutes for the confrontation and interrogation.",
+      "Advanced world time by 5 minutes for the interrogation.",
+      "Reinforced the 'Uncanny Valley' reaction to Nocturne's Prodigy status at age 16.",
+      "Sazza's Social HP damage (2) was sufficient to reach total surrender (0) given her commoner tier and existing status.",
+      "XP awarded for interrogation success.",
+      "Awarded 500 XP for successful patron negotiation with a Natural 20.",
+      "Malcanthet's Social HP reduced by 3 due to critical success (Margin 8 + Nat 20 bonus).",
+      "Advanced world time by 10 minutes for movement and private communion.",
+      "Reinforced the 'Uncanny Valley' reaction and Nocturne's Prodigy status in narrative.",
+      "Maintained effective CHA 22 and AC 21 per established notes.",
+      "Zevlor's Social HP was reduced to 0 by the masterful success (36 vs 18).",
+      "XP awarded for major milestone: Total Grove Subjugation (500 XP).",
+      "Living World Turn 129 advancement processed.",
+      "Nocturne's Prodigy status at age 16 is heavily influencing NPC reactions.",
+      "The ritual bonus from Malcanthet is narratively active.",
+      "Time advanced by 20 minutes for the procession and confrontation.",
+      "Discovery check passed (0.29 vs 0.75 probability).",
+      "Justified discovery via ritual beacon and scout failure.",
+      "Maintained 12-hour timer for the siege arrival.",
+      "Maintaining the 12-hour siege timer.",
+      "Discovery is justified by the 'Loud' nature of a high-tier ritual hijack.",
+      "The player's 'Success Streak' of 28 is exceptionally high, which narratively justifies the Grove's swift falling to their control but also makes their presence 'bright' in the Weave.",
+      "Zevlor's Social HP calculation: Lord/General Base (8) x Submission Multiplier (3) = 24.",
+      "Nocturne's Persuasion bonus: +6 (Cha) + 6 (Prof/Expertise) + 2 (Siren's Leverage) = +14.",
+      "Shadowheart's Guidance (+1d4) applied per directive.",
+      "Zevlor is now mechanically bound as a loyal thrall.",
+      "Companions and NPCs express amazement at the Level 7 Prodigy's absolute dominance.",
+      "Time advanced by 15 minutes for the procession and oath-taking.",
+      "Nocturne successfully leveraged her Prodigy status and the momentum of the ritual hijack to secure the Hellrider oath.",
+      "Living World Turn 132 processed with 4 events.",
+      "Minthara's forward command post is now a visible threat.",
+      "Halsin's survival is confirmed but hidden.",
+      "The 'True Soul' spy has been introduced as a potential complication.",
+      "Nocturne successfully leveraged her Prodigy status and the momentum of the ritual hijack to secure a mass requisition of resources.",
+      "Time advanced by 1 hour for the systematic collection.",
+      "Corrected XP calculation to 28,000 total (Lvl 7).",
+      "Shadowheart's Guidance applied per directive.",
+      "The populace Social HP reflects the collective resistance to a total submission request (3x multiplier on General tier base).",
+      "New gear focuses on Spell Save DC as requested.",
+      "Nocturne successfully leveraged her Archdruid-General status to consolidate the Grove's military assets.",
+      "Fortification success (23 vs 15) ensures the Grove is safe for the duration of the mission.",
+      "Intelligence success (25 vs 15) provides perfect visibility into Minthara's movements.",
+      "Leadership failure (16 vs 18) maintains internal tension; companions follow but voice dissent.",
+      "Advanced time by 1.5 hours to reflect preparations and travel to the Blighted Village.",
+      "Siren's Leverage applied to social checks.",
+      "Advanced time by 45 minutes for travel and deployment.",
+      "Vanguard scouts successful in remaining hidden due to high roll and Nature's Step bonus.",
+      "Sazza's Persuasion and Nocturne's Deception both succeeded, creating a safe passage.",
+      "Living World Turn 135 processed with 4 events.",
+      "Introduced the 'Planar Auditor' as a long-term consequence of the ritual hijack.",
+      "Nocturne's Prodigy status is reflected in the sentry's terrified compliance.",
+      "Synchronized equipment to player request.",
+      "Verified AC 21 (17 Armor + 2 Iron Bark + 2 Dex).",
+      "XP synchronized to Level 7 floor.",
+      "Added +1 Spell Save DC to the Noble Thorns Plate +2 per player request to prevent DC loss.",
+      "Recalculated total Spell Save DC to 24 based on all active buffs and gear.",
+      "Verified companion gear synchronization with BG3 Act 1 high-tier standards.",
+      "Spell Save DC is 24 per directive.",
+      "Vanguard Scouts are tracking as a shadow unit.",
+      "Sentry Gribbo's Social HP (Guard tier 3) was reduced to 0 by the masterful success (38 vs 15).",
+      "Vanguard Scouts are tracking as a shadow unit supporting the main party.",
+      "Siren's Leverage and Shadowheart's Guidance were applied to the check.",
+      "Reinforced the 'Uncanny Valley' dread and Nocturne's Prodigy status in the sentry's reaction.",
+      "Advanced time by 20 minutes for the traverse into the village center.",
+      "Living World Turn 138 processed with 4 events.",
+      "Nocturne successfully bypassed the sentries but failed to read Minthara's specific psychological vulnerabilities.",
+      "Minthara's Paladin training and drow heritage make her sensitive to the Abyssal shift in the air.",
+      "Success streak maintained at 35; no complication triggered on the move.",
+      "Vanguard Scouts are positioned for a tactical intervention if the reveal goes poorly.",
+      "Nocturne successfully leveraged Invisibility and Abyssal Presence for a masterful introduction.",
+      "Minthara's Paladin background makes her sensitive to the planar 'tilt', increasing the DC slightly but also the impact of the dread.",
+      "Vanguard Scouts are positioned for tactical support.",
+      "Success streak increased to 36.",
+      "Living World Turn 141 processed with 4 events.",
+      "Complication 'Planar Detection' triggered due to high success streak (36).",
+      "Nocturne successfully leveraged 'Uncanny Valley' dread for a 2-point Social HP strike on Minthara.",
+      "Vanguard Scouts are now under active threat from worgs.",
+      "Reset success streak to 0 following complication.",
+      "Soul Thief successfully executed on a generic goblin minion, restoring all spell slots per Level 6 feature.",
+      "Minthara failed her Wisdom save against the Abyssal presence, dealing 2 Social HP damage.",
+      "Complication 'Planar Detection' triggered due to the high-streak flare (Success Streak reset to 0).",
+      "Planar Auditor is now actively tracking Nocturne's position.",
+      "Vanguard Scouts are maintaining positions but under pressure from worg patrols.",
+      "Minthara's base Social HP is 8. For Total Submission, the multiplier is 3x, resulting in 24 Social HP.",
+      "The success margin (12) dealt 3 Social HP damage this turn.",
+      "The Planar Auditor is narratively closing in due to the Abyssal flare.",
+      "Vanguard Scouts are maintaining overwatch but are under pressure from night-watch worgs.",
+      "The success margin (6) dealt 2 Social HP damage this turn (Current: 18/24).",
+      "The Planar Auditor is narratively closing in due to the Abyssal flare from the Pheromone Spike.",
+      "Vanguard Scouts are engaged with worgs, limiting their immediate tactical utility.",
+      "Living World Turn 144 processed.",
+      "The failure on the reposition (Nat 1) resulted in a narrative stumble but didn't break the binding attempt.",
+      "Minthara's Social HP is reduced to 15/24.",
+      "The Planar Auditor is tracking the Abyssal flare from the Soul Thief and high-tier Persuasion.",
+      "Vanguard Scouts are currently engaged with worgs outside.",
+      "Minthara's Social HP reduced to 13/24.",
+      "Hold Person successful due to DC 24 anchor.",
+      "The Planar Auditor is closing in due to the repeated Abyssal flares.",
+      "Success streak increased to 3.",
+      "Living World Turn 147 processed with 4 events.",
+      "Success streak increased to 4.",
+      "The 'Sip' is narratively handled as a partial Soul Thief application dealing Social HP damage.",
+      "Minthara's Social HP reduced to 11/24.",
+      "The Planar Auditor is now in the village center.",
+      "Malcanthet's 'Veil of Desire' is now discovered, granting a narrative and mechanical boost.",
+      "Vanguard Scouts remain engaged with worgs, keeping them from assisting in the tower.",
+      "Minthara's Social HP reduced to 0 by the combination of the masterful success (22 vs 18) and the previous 'Sip' finisher.",
+      "The worgs have been narratively neutralized via Minthara's command.",
+      "The Planar Auditor complication is escalating: frost and psychic hum introduced.",
+      "Vanguard Scouts are now in-scene, transitioning from shadow overwatch to active support.",
+      "Success streak increased to 5.",
+      "Minthara is now mechanically a thrall-companion.",
+      "The Planar Auditor is actively scanning the tower.",
+      "The Absolute's army is currently in a state of 'Frozen Terror'.",
+      "Vanguard Scouts are positioned for a tactical strike.",
+      "Success streak increased to 6.",
+      "Nocturne successfully identified the Auditor's independent nature.",
+      "The Absolute's army is currently in a state of 'Frozen Terror' due to the lack of psychic resonance from the Auditor.",
+      "Ambush failed due to low stealth roll (16 vs DC 20).",
+      "Success streak reset to 0 following the failed high-risk maneuver.",
+      "Combat initiated with high-tier planar entity.",
+      "Minthara is now treated as a companion in the initiative order.",
+      "Auditor failed save vs DC 24 anchor.",
+      "Vanguard Scouts missed AC 20 even with advantage.",
+      "Auditor is currently groveling (prone/incapacitated) for 1 round.",
+      "Success streak reset due to failed ambush damage.",
+      "Auditor remained groveling due to low save vs DC 24 anchor.",
+      "Gale and Minthara both rolled exceptionally low (2s and 7s), resulting in the force-wall holding.",
+      "Nocturne's Sip was masterful (25 vs 18), dealing max Social HP damage (3) to the God-tier entity.",
+      "Vanguard Scouts are now perfectly positioned for a flanking strike (+2 to hit or advantage).",
+      "Success streak increased to 2 after the Sip/Flank successes.",
+      "Nocturne's Sip was successful (margin 3), dealing 2 Social HP damage.",
+      "Vanguard Scouts hit AC 20 for 10 damage.",
+      "Gale and Minthara failed to overcome the Auditor's automatic defenses.",
+      "Success streak maintained at 2.",
+      "Planar Auditor is now at 9/15 Social HP.",
+      "Success streak reset to 0 following the failed high-risk submission attempt.",
+      "Planar Auditor is now RESISTING (9/15 Social HP).",
+      "Vanguard Scouts failed to find a fracture this turn.",
+      "Auditor is no longer prone/incapacitated.",
+      "Auditor is no longer prone/incapacitated but is 'groveling' due to failed save.",
+      "Nocturne successfully leveraged the 'Sip' and Abyssal Potency to bypass the God-tier DC for total submission.",
+      "The Planar Auditor is now mechanically a thrall.",
+      "The Absolute's army remains in 'Frozen Terror', witnessing the subjugation.",
+      "Vanguard Scouts are now regrouping within the tower.",
+      "Clarified that the Auditor is a cosmic custodian, not an Absolute asset.",
+      "Nocturne successfully extracted high-tier intelligence from the Planar Auditor.",
+      "The Auditor is now mechanically a thrall-custodian for the Scion.",
+      "Clarified that the Auditor is an independent cosmic entity, not an Absolute asset.",
+      "The Absolute's army remains in 'Frozen Terror' witnessing the subjugation.",
+      "Confirmed Auditor is a CR 18 manifestation of a CR 21 Solar-tier entity.",
+      "Calculated XP gain for consumption: 40k XP (2x CR 18 base).",
+      "Defined potential Soul Trophy rewards (True Sight, Angelic Weapons).",
+      "Confirmed Auditor is a Manifestation of a CR 21 Solar-tier entity, currently CR 18.",
+      "The 'Resolution Sequence' is the Lattice's backup protocol.",
+      "Consumption reward: 40k XP (2x CR 18 base), True Sight, +2 Spell DC/Atk (already defined), and Planar Authority trait.",
+      "Consumption complication: Detectable flare vs Masking success.",
+      "Minthara is fully submissive and acting as a companion/guard.",
+      "Vanguard Scouts are maintaining perimeter in the rafters.",
+      "Advanced world time to reflect the deep interrogation.",
+      "Consumption of CR 18 manifestation (Solar-tier essence) granted 40k XP (2x base per Soul Thief).",
+      "Nocturne ascended to Level 10 (Threshold 64k).",
+      "True Sight and Planar Authority traits granted as Soul Trophies.",
+      "Masking check passed (28 vs 25), delaying the Resolution Sequence/solar arrival.",
+      "Wraith is still 3 turns away (Turn 162).",
+      "Nocturne's Level 12 status reflects a prodigy at the peak of Act 1 capability.",
+      "The consumption of the CR 18 Auditor justifies the massive XP gain (40k).",
+      "True Sight is used to introduce the Wraith complication immediately.",
+      "Living World Turn 162 processed with 4 events reflecting the new status quo.",
+      "The Absolute's army is now mechanically primed for 'Religious Devotion' submission.",
+      "Confirmed Cha 34 calculation including Auditor consumption surge.",
+      "Established Level 9 cap for companions.",
+      "Introduced Wraith complication to test Level 12 capabilities.",
+      "Nocturne is Level 12, matching Gortash and exceeding Ketheric.",
+      "Companions are Level 9 (capped) and now mechanically bound as thralls.",
+      "The Wraith complication is active at the gates.",
+      "CHA 34 calculation: Base 30 + 2 (Lips) + 2 (Favor).",
+      "Spell Save DC is 27 with gear: 8 (Base) + 4 (Prof) + 12 (Cha) + 2 (Abyssal Potency) + 1 (Plate) + 1 (Circlet) + 1 (Rapier/Mantle/Staff redundancy).",
+      "Nocturne is now Level 12, matching Gortash.",
+      "Companions are Level 9 and fully enthralled as fanatical thralls.",
+      "The army has transitioned from Frozen Terror to Religious Devotion.",
+      "Wraith spy destroyed to preserve secrecy of the Sovereign's true nature.",
+      "Nocturne successfully leveraged her Prodigy status and Level 12 ascension to extract a massive military favor.",
+      "The Abyssal Legion has been introduced as a high-tier asset.",
+      "Malcanthet's Social HP reduced to 9/15 due to the masterful success (margin 4).",
+      "Success streak increased to 7.",
+      "Nocturne successfully leveraged her Level 12 status and the Auditor's consumption to extract a massive financial favor.",
+      "Success streak increased to 8.",
+      "Malcanthet's Social HP reduced to 7/15.",
+      "Gold successfully added to inventory.",
+      "Time advanced by 15 minutes for the negotiation and manifestation of the hoard.",
+      "Nocturne successfully leveraged her Level 12 status and the Auditor's consumption to extract the ultimate boon (+2 all stats).",
+      "Malcanthet provided a Lvl 12 Succubus for consumption as a test of predation.",
+      "Soul Thief (Feast) triggered, awarding 16.8k XP (2x CR 12).",
+      "Nocturne reached Level 13.",
+      "Social HP for Malcanthet reduced to 5/15.",
+      "CHA 36 calculation: Base 32 + 2 (Lips) + 2 (Favor).",
+      "AC 22 calculation: 17 (Armor) + 3 (Dex) + 2 (Iron Bark).",
+      "Army is currently witnesses to a religious-tier ascension event.",
+      "Updated HP to 68 based on 10 CON (0 mod) calculation: 8 + (12*5) = 68.",
+      "Integrated full Lvl 12 Succubus kit into features and active_effects.",
+      "Cleared character_creation_in_progress flag per protocol.",
+      "Maintained CHA 36 and DC 27 anchor.",
+      "HP Recalculated: Level 13 Bard (10 CON) = 8 + (12 * 5) = 68.",
+      "Succubus Kit integrated: Added Darkvision, Perception, and Claw attack.",
+      "Hybrid Power 'Silver-Brine Flare' granted as a reflection of Succubus/Celestial status.",
+      "Malcanthet Social HP for ultimate title request set to 45 (God base 15 * 3 submission).",
+      "Title request check: 48 vs DC 30. Masterful success dealt 3 Social HP damage.",
+      "Previous successes (Apotheosis, Legion, Gold) contributed 8 total damage.",
+      "Current Social HP for the title: 34/45. Malcanthet is YIELDING.",
+      "Narrative grants the title as a permanent status/feature.",
+      "Negotiation dealt 2 Social HP damage based on the exact roll meeting the high DC.",
+      "Time advanced to morning to reflect the rest and army preparation.",
+      "Maintained Level 13 Sovereign status and DC 27 anchor.",
+      "Time advanced to Afternoon (8 hours for long rest + 15 mins prep).",
+      "Scouting audit check passed (18 vs 15), granting tactical advantages.",
+      "Rank Clarification check failed (24 vs 30), so Malcanthet maintains the reporting line while showing approval.",
+      "Social HP for Malcanthet title remains at 34/45.",
+      "Army size updated to reflect the final consolidation from the Grove.",
+      "Applied full CHA 36 (+13 mod) and expertise (+10) plus Siren's Leverage (+2) for a total Intimidation bonus of +25.",
+      "The march consumed 1 hour of time, moving from 16:35 to 17:35.",
+      "The army size and religious devotion status make the DC 20 check achievable for a Level 13 Sovereign.",
+      "Ragzlin and Gut are now in a 'Frozen Terror' state awaiting the player's move.",
+      "Ragzlin and Gut have transitioned from 'Frozen Terror' to 'Religious Devotion' thralls.",
+      "Guard was consumed as a narrative display of Soul Thief.",
+      "Time advanced by 15 minutes for the demonstration and formal submission.",
+      "Generated living world events for turn 174.",
+      "Calculated Intimidation check using CHA 36 (+13), Expertise (+10), and Siren's Leverage (+2).",
+      "Applied masterful success to Social HP challenge, resulting in SURRENDERED status due to the power display.",
+      "Maintained Level 13 Sovereign status and anchored DC 27.",
+      "Advanced time to 18:20 for the march and interaction.",
+      "Natural 1 on Investigation resulted in a failure to identify Halsin despite the rumors.",
+      "Intimidation was an overwhelming success (31 vs 18) due to the +25 bonus.",
+      "Worgs are now in a 'Surrendered' state.",
+      "Advanced time by 15 minutes for the traversal and initial audit.",
+      "Advanced time by 15 minutes for the audit and extraction.",
+      "Applied masterful success on Investigation (31 vs 20) due to high stats and True Sight advantage.",
+      "The worgs are now in a permanent state of SURRENDERED following the power display.",
+      "Halsin's Wild Shape was pierced by the True Sight feature.",
+      "Religious Devotion is scaling across the camp as the Sovereign's presence becomes undeniable.",
+      "Halsin's Wild Shape was pierced by True Sight in the previous turn.",
+      "Nocturne successfully suppressed her aura, making the Persuasion check against a wary Halsin achievable.",
+      "Masterful success (margin 17) dealt 3 Social HP damage to the General-tier NPC.",
+      "Generated living world events for turn 177 reflecting the escalating stakes.",
+      "Army consolidation continues as Hellriders move to join the Sovereign.",
+      "Masterful success (margin 19) dealt 3 Social HP damage to Halsin.",
+      "Halsin's belief in his own necessity has been shattered by the news of the Grove's consolidation.",
+      "Time advanced by 15 minutes for the dialogue and psychological breakdown.",
+      "Success streak increased to 9.",
+      "Masterful success (margin 25) dealt 2 Social HP damage, reaching 0/8.",
+      "Halsin is now mechanically SURRENDERED and acting as a willing observer/ally.",
+      "Time advanced by 15 minutes for the dialogue and release.",
+      "Success streak increased to 10.",
+      "Religious Devotion is maintained across the camp.",
+      "Success streak increased to 11.",
+      "Time advanced by 15 minutes for the transition and assembly.",
+      "Halsin is fully integrated as a submissive witness.",
+      "The army size is approximately 4,500 (Abyssal Legion + Absolute Vanguard).",
+      "Brainstorming session successful (Total 28 vs DC 20).",
+      "Gale, Minthara, and Aradin (Hardin) provided specialized input based on their background/thrall status.",
+      "Halsin remains in a state of 'Surrendered' awe as an observer.",
+      "Time advanced by 15 minutes for the assembly and discussion.",
+      "Success streak increased to 12.",
+      "Applied 'Mega Buff' as a permanent active effect per player request.",
+      "Muddled analysis (margin -2) results in a 2-hour freeze on the topic.",
+      "Success streak increased to 13.",
+      "Time frozen at Evening (microsecond +1).",
+      "Extraction logic (DC 18) failed; applied 2-hour freeze per DM note.",
+      "Generated living world Turn 183 events.",
+      "Vanguard Scouts successfully caught the Banite spy (17 vs DC 15).",
+      "Army size updated to 4,700 to reflect final Grove arrivals.",
+      "Halsin remains SURRENDERED (0/8 HP).",
+      "Soul Thief: CR 5 spy (700 base x2.57 multiplier=1800x2=3600 XP). Helpless, auto-success.",
+      "No roll needed; public display advances Halsin to SURRENDERED (witness mechanic).",
+      "Intel: Gortash sabotage/Moonrise spies (low immediate threat).",
+      "Army: Religious Devotion full; streak 14 (complication pending).",
+      "Time +15 min. Frozen tadpole lifted post-rest.",
+      "State: Spy deleted, XP updated, memory append.",
+      "Failure roll 6 vs DC20: 0 damage, resistance shown (verbal refusal). Social HP unchanged 42/45. Streak 14\u2014complication pending. Thralls 90% personality; covert betrayal DC25+. CHA36 (+13), Expertise+10, Siren+2, Guidance+3 (mega buff). Living World 195: 3 immediate/1 long-term. No XP (failure).",
+      "Retconned age to 18 per player request.",
+      "Religion redefined to 'Fanatical Zealotry'.",
+      "Social HP for collective set to 16 (General base 8 x 2 Core Values Violation).",
+      "Roll 30 vs DC 20 dealt 2 Social HP damage.",
+      "Living World Turn 198 events generated.",
+      "Success streak increased to 15.",
+      "Roll 35 vs DC 20 dealt 3 Social HP damage to the collective (Request Severity: Betray Beliefs x2 multiplier applied to Lord/General base 8 = 16 HP).",
+      "Success streak increased to 16.",
+      "Religion redefined to 'Fanatical Zealotry' focused on power and magic worship.",
+      "Nocturne's age retconned to 18.",
+      "Banite spy consumed; providing 3,600 XP (CR 5 x2 per Soul Thief) and critical Gortash intel."
+    ],
+    "state_rationale": "Advancing time by 15 minutes for the extraction and updating XP/Success Streak."
+  },
+  "action_resolution": {
+    "mechanics": {
+      "rolls": [
+        {
+          "purpose": "persuasion",
+          "success": true,
+          "dc": 18,
+          "notation": "2d20kh1+25",
+          "result": 37
+        }
+      ],
+      "type": "skill_check"
+    },
+    "interpreted_as": "persuasion_attempt",
+    "player_input": "Leverage Grove Status - Tell him you've already 'saved' the Grove and redirected the Shadow Druids.",
+    "reinterpreted": false,
+    "audit_flags": [],
+    "narrative_outcome": "Halsin is stunned by the revelation of the Grove's fall and yields to Nocturne's logic."
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "scene_event": {
+    "turn_generated": 87,
+    "actor": "Torhal (Druid)",
+    "narrative_integration": "Torhal arrives at the prison cell block, challenging Nocturne's authority over Sazza.",
+    "player_response_required": true,
+    "description": "Senior druid interrupts the prison scene, sensing Abyssal magic.",
+    "urgency": "immediate",
+    "type": "messenger",
+    "scene_generated": 44
+  },
+  "rumors": [
+    {
+      "turn_generated": 183,
+      "content": "The Sovereign has catch a spy of the Lord Gortash; her eyes see everything.",
+      "source_type": "guard",
+      "accuracy": "true"
+    }
+  ],
+  "rewards_pending": {
+    "gold": 0,
+    "level_up_available": true,
+    "source_id": "level_up_13_to_14",
+    "xp": 0,
+    "source": "level_up",
+    "items": [],
+    "processed": false,
+    "new_level": 14
+  },
+  "encounter_state": {
+    "encounter_summary": {
+      "outcome": "success",
+      "xp_awarded": 400,
+      "target": "Olodan (Envoy)",
+      "method": "persuasion_binding"
+    },
+    "encounter_completed": true,
+    "rewards_processed": true,
+    "encounter_type": "social_victory",
+    "encounter_active": false
+  },
+  "frozen_plans": {
+    "tadpole_extraction_logic": {
+      "original_dc": 18,
+      "freeze_until": "2026-01-13T22:10:00Z",
+      "failed_at": "2026-01-13T20:10:00Z",
+      "description": "Analyzing the feasibility of surgically using Soul Thief on Netherese parasites",
+      "freeze_hours": 2
+    }
+  },
+  "npc_status_changes": {
+    "Halsin": {
+      "new_state": "wavering",
+      "reason": "Masked power display and rapport attempt.",
+      "previous_state": "resisting"
+    },
+    "Sentry Gribbo": {
+      "new_state": "surrendered",
+      "reason": "Masterful Deception success",
+      "previous_state": "resisting"
+    }
+  },
+  "faction_updates": {
+    "Emerald Grove Druids": {
+      "resource_change": "Increased isolation",
+      "player_standing_change": "Neutral (Unknown)",
+      "turn_generated": 45,
+      "next_action": "Seal the Inner Sanctum doors",
+      "progress": "Rite of Thorns 85% complete",
+      "current_objective": "Total Isolation",
+      "scene_generated": 23
+    },
+    "The Planar Lattice": {
+      "resource_change": "Allocating Solar-tier Manifestation",
+      "progress": "Sequence 1: Delayed",
+      "turn_generated": 159,
+      "next_action": "Evaluate Sector 4 for predation",
+      "current_objective": "Reconcile Auditor anomaly",
+      "scene_generated": 80
+    },
+    "Absolute's Army": {
+      "resource_change": "+200 troops",
+      "player_standing_change": "Religious Devotion",
+      "turn_generated": 171,
+      "progress": "95% Complete",
+      "current_objective": "Consolidate for March",
+      "scene_generated": 86
+    },
+    "Goblin Cult of the Absolute": {
+      "resource_change": "Drum reinforcements summoned",
+      "player_standing_change": "Hostile (Direct confrontation imminent)",
+      "turn_generated": 63,
+      "next_action": "General mobilization if no report received",
+      "progress": "Runner dispatched",
+      "current_objective": "Determine why Minthara is silent",
+      "scene_generated": 32
+    },
+    "Cult of the Shadow Scion": {
+      "resource_change": "Hedonistic assets converted to military fuel",
+      "player_standing_change": "Divine Absolute Sovereign",
+      "turn_generated": 197,
+      "progress": "75% Complete",
+      "current_objective": "Transition to Fanatical Zealotry",
+      "scene_generated": 99
+    }
+  },
+  "world_events": {
+    "turn_generated": 198,
+    "background_events": [
+      {
+        "discovery_condition": "Reported by scout this turn",
+        "turn_generated": 198,
+        "player_aware": true,
+        "actor": "Abyssal Legion Scouts",
+        "action": "Severed Zhentarim supply lines on the Risen Road",
+        "player_impact": "Reduced Moonrise resource flow; increased village scarcity",
+        "event_type": "immediate",
+        "scene_generated": 99
+      },
+      {
+        "discovery_condition": "True Sight (Inbound in 2 turns)",
+        "turn_generated": 198,
+        "player_aware": false,
+        "actor": "Ketheric Thorm",
+        "action": "Dispatched a 'General's Shadow' (Wraith) to investigate the spy's silence",
+        "player_impact": "Upcoming high-tier stealth/combat encounter",
+        "event_type": "immediate",
+        "scene_generated": 99
+      },
+      {
+        "discovery_condition": "Reported by Vanguard Scouts this turn",
+        "turn_generated": 198,
+        "player_aware": true,
+        "actor": "Volo",
+        "action": "Captured attempting to sneak into the Sanctum gold-vault",
+        "player_impact": "Opportunity for propaganda or soul harvest",
+        "event_type": "immediate",
+        "scene_generated": 99
+      },
+      {
+        "discovery_condition": "DC30 Arcana (ETA Turn 215)",
+        "turn_generated": 198,
+        "player_aware": false,
+        "actor": "Planar Lattice",
+        "action": "Tier-2 Anomaly Scan scheduled due to masking frequency decay",
+        "player_impact": "Inbound Solar-tier Manifestation",
+        "event_type": "long_term",
+        "scene_generated": 99
+      }
+    ],
+    "complications": {
+      "discovery_condition": "Psychic static and cowering goblins",
+      "success_streak_after": 0,
+      "turn_generated": 78,
+      "success_streak_before": 36,
+      "severity": "significant",
+      "source": "Abyssal Flare",
+      "description": "The Planar Auditor has successfully tracked Nocturne's Abyssal signature to the village.",
+      "type": "planar_detection",
+      "scene_generated": 39,
+      "triggered": true
+    }
+  }
+}

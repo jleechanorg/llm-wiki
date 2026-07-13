@@ -1,0 +1,1305 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "hp_current": 42,
+    "spells_known": [
+      {
+        "name": "Fire Bolt",
+        "level": 0
+      },
+      {
+        "name": "Minor Illusion",
+        "level": 0
+      },
+      {
+        "name": "Prestidigitation",
+        "level": 0
+      },
+      {
+        "name": "Friends",
+        "level": 0
+      },
+      {
+        "name": "Calm Emotions",
+        "level": 1,
+        "note": "Apex Bloodline Bonus"
+      },
+      {
+        "name": "Command",
+        "level": 1,
+        "note": "Apex Bloodline Bonus"
+      },
+      {
+        "name": "Shield",
+        "level": 1
+      },
+      {
+        "name": "Charm Person",
+        "level": 1
+      },
+      {
+        "name": "Hold Person",
+        "level": 2
+      },
+      {
+        "name": "Misty Step",
+        "level": 2
+      },
+      {
+        "name": "Haste",
+        "level": 3
+      },
+      {
+        "name": "Hold Monster",
+        "level": 5
+      }
+    ],
+    "active_effects": [
+      "Drunken Resilience: Advantage on saves against being Frightened",
+      "Genuine Sobriety: Your emotional state is increasingly raw as the adrenaline fades.",
+      "Permanent Respect: The 'Expectations Meter' is removed; NPCs treat you as a historic hero and sovereign peer.",
+      "Heroic Composure: You have successfully masked your physical toll, solidifying your image as an untouchable legend.",
+      "Apex Sovereign: Your self-perception is fully synchronized with your bloodline; all psychological constraints are removed.",
+      "Transcendent Presence: Your beauty and authority are now obviously multiple tiers above the royal baseline.",
+      "Valyrian Smithing Training (Active): You are currently learning to manipulate rippled steel.",
+      "Ascension Meter: 65/100 (+5 for Sorcerous Projection)"
+    ],
+    "alignment": "Neutral",
+    "base_attributes": {
+      "intelligence": 12,
+      "dexterity": 18,
+      "wisdom": 10,
+      "constitution": 14,
+      "strength": 10,
+      "charisma": 20
+    },
+    "armor_class": 15,
+    "status_conditions": [],
+    "name": "Visenya Targaryen",
+    "attributes": {
+      "intelligence": 12,
+      "dexterity": 18,
+      "wisdom": 10,
+      "constitution": 14,
+      "strength": 10,
+      "charisma": 20
+    },
+    "hp_max": 42,
+    "proficiency_bonus": 4,
+    "race": "Valyrian (Apex)",
+    "inventory": [
+      "Backpack",
+      "Bedroll",
+      "Mess kit",
+      "Tinderbox",
+      "Torch (10)",
+      "Rations (10 days)",
+      "Waterskin",
+      "Rope (50 feet)",
+      "Coin pouch (10gp)"
+    ],
+    "features": [
+      "Subtle Apotheosis: Free Subtle Spell on mind/dragon magic.",
+      "The Noblest Dialect: Advantage on High Valyrian CHA checks.",
+      "Dragon Prodigy: Expertise in all skills when interacting with or recalling knowledge about dragons.",
+      "Metamagic: Careful Spell",
+      "Metamagic: Twinned Spell",
+      "Metamagic: Subtle Spell (Innate)",
+      "Valyrian Smithing (Locked): Level 6 (Begin training), Level 9 (Craft +1), Level 12 (Craft +3)",
+      "Magical Guidance (Sorcerer Lvl 5)",
+      "3rd Level Spell Access",
+      "Valyrian Smithing: Training Begun (Lvl 6)",
+      "Valyrian Smithing: +1 Crafting Unlocked (Lvl 9)"
+    ],
+    "background": "Princess of Dragonstone / Apex Sovereign",
+    "resources": {
+      "sorcery_points": {
+        "max": 5,
+        "used": 3
+      },
+      "spell_slots": {
+        "level_3": {
+          "max": 2,
+          "used": 0
+        },
+        "level_1": {
+          "max": 4,
+          "used": 0
+        },
+        "level_2": {
+          "max": 3,
+          "used": 0
+        }
+      },
+      "gold": 25
+    },
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "name": "Belaerys Signet Ring (Hidden)",
+          "stats": "Proof of lineage"
+        },
+        {
+          "equipped": false,
+          "name": "Gold pieces",
+          "stats": "15"
+        },
+        {
+          "bonus": 1,
+          "type": "weapon",
+          "damage": "1d8+1",
+          "equipped": false,
+          "description": "A slender, rippled blade found in the armory; gifted to Queen Rhaenyra.",
+          "name": "The Apex Needle (+1 Valyrian Steel Rapier)",
+          "properties": [
+            "finesse",
+            "magical",
+            "valyrian steel"
+          ],
+          "damage_type": "piercing"
+        },
+        {
+          "name": "Crossbow Bolts (20)",
+          "type": "ammunition",
+          "quantity": 20
+        },
+        {
+          "name": "Grappling Hook",
+          "type": "gear"
+        },
+        {
+          "name": "Belaerys Signet Ring (Hidden)",
+          "stats": "Proof of lineage"
+        }
+      ],
+      "weapons": [
+        {
+          "equipped": true,
+          "bonus": 0,
+          "type": "weapon",
+          "name": "Steel Dagger",
+          "properties": [
+            "finesse",
+            "light",
+            "thrown (20/60)"
+          ],
+          "damage_type": "piercing",
+          "damage": "1d4"
+        },
+        {
+          "equipped": true,
+          "bonus": 0,
+          "type": "weapon",
+          "name": "Light Crossbow",
+          "properties": [
+            "ammunition (range 80/320)",
+            "loading",
+            "two-handed"
+          ],
+          "damage_type": "piercing",
+          "damage": "1d8"
+        }
+      ],
+      "main_hand": {
+        "equipped": true,
+        "name": "The Apex Fang (+1 Valyrian Steel Dagger)",
+        "stats": "1d4+2 piercing, magical, +1 bonus to hit and damage",
+        "status": null
+      },
+      "armor": {
+        "armor_class": 11,
+        "equipped": true,
+        "description": "Functional noble silks reinforced with boiled leather patches.",
+        "name": "Reinforced Traveling Silks",
+        "stats": "AC 11",
+        "armor_type": "light",
+        "type": "armor"
+      },
+      "cloak": {
+        "equipped": true,
+        "name": "Tattered Gray Cloak",
+        "stats": null
+      }
+    },
+    "description": "The 'Black Sheep' of House Targaryen. A minor bastard cousin with striking Apex features she ignores. Usually found with a flask in hand, dressing in mid-tier noble silks that have seen better days. Suffers from genuine low self-esteem and believes her potential is a series of lucky accidents.",
+    "class": "Dragon Lord (Sorcerer)",
+    "skills": [
+      "Deception",
+      "Intimidation",
+      "Performance",
+      "Persuasion",
+      "Animal Handling (Expertise)",
+      "History (Expertise: Dragons)",
+      "Arcana (Expertise: Dragons)"
+    ],
+    "level": 9,
+    "experience": {
+      "needed_for_next_level": 64000,
+      "current": 53700,
+      "to_next_level": 10300
+    }
+  },
+  "world_data": {
+    "current_location_name": "Throne Room Entrance, Red Keep",
+    "world_time": {
+      "year": 129,
+      "month": "The Sowing",
+      "microsecond": 0,
+      "hour": 6,
+      "minute": 45,
+      "time_of_day": "Dawn",
+      "day": 30,
+      "second": 0
+    }
+  },
+  "npc_data": {
+    "Prince Daemon Targaryen": {
+      "role": "Prince Consort / Commander",
+      "relationships": {
+        "player": {
+          "grievances": [
+            "Believes you bring shame to the dragon's blood"
+          ],
+          "history": [
+            "Has frequently insulted your parentage and lifestyle"
+          ],
+          "trust_level": -3,
+          "disposition": "antagonistic"
+        }
+      },
+      "tier": "lord",
+      "string_id": "npc_daemon_001"
+    },
+    "Rhaenyra Targaryen": {
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "history": [
+            "Visenya remained loyal during the Red vs Green split",
+            "Visenya promised to train and sober up for the cause"
+          ],
+          "trust_level": 6
+        }
+      }
+    },
+    "Queen Rhaenyra Targaryen": {
+      "role": "Queen of the Blacks",
+      "relationships": {
+        "player": {
+          "grievances": [
+            "Your constant public intoxication at court"
+          ],
+          "history": [
+            "Known you since childhood as the 'harmless' drunk cousin"
+          ],
+          "trust_level": 2,
+          "disposition": "friendly"
+        }
+      },
+      "tier": "king",
+      "string_id": "npc_rhaenyra_001"
+    },
+    "Aemond Targaryen": {
+      "hp_current": 0,
+      "status": "dead",
+      "level": 10
+    },
+    "Jacaerys Velaryon": {
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "history": [
+            "Visenya defended his honor against 'bastard' insults",
+            "Helped Visenya recover from her fall"
+          ],
+          "trust_level": 7
+        }
+      },
+      "level": 5
+    },
+    "Lucerys Velaryon": {
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "history": [
+            "Visenya defended his honor against 'bastard' insults",
+            "Witnessed her flight on Vermithor"
+          ],
+          "trust_level": 8
+        }
+      },
+      "level": 3
+    },
+    "Prince Jacaerys Velaryon": {
+      "role": "Prince / Heir",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "history": [
+            "Often brings you water or bread when you are hungover"
+          ],
+          "trust_level": 3
+        }
+      },
+      "tier": "noble",
+      "string_id": "npc_jacaerys_001"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "god_mode_directives": [
+      {
+        "rule": "NPCs must treat Visenya with fond condescension (liked but not respected)",
+        "added": "2026-02-05T03:58:00.290958+00:00"
+      },
+      {
+        "rule": "Rhaenyra and Daemon should treat her as a 'problematic' relative rather than a threat",
+        "added": "2026-02-05T03:58:00.291280+00:00"
+      },
+      {
+        "rule": "Gradually increase descriptions of Visenya's underlying beauty as she levels up",
+        "added": "2026-02-05T04:00:27.014919+00:00"
+      },
+      {
+        "rule": "Visenya's beauty is inherent but unpolished; describe it as 'wasted' or 'ignored' by her",
+        "added": "2026-02-05T04:02:20.890415+00:00"
+      },
+      {
+        "rule": "Family members treat her with a mix of pity and worry, expecting her to die in the pits",
+        "added": "2026-02-05T04:02:20.890514+00:00"
+      },
+      {
+        "rule": "Family members treat Visenya with genuine affection and visible worry, yet allow her to face the dragons due to wartime desperation.",
+        "added": "2026-02-05T04:04:26.051064+00:00"
+      },
+      {
+        "rule": "Narrate Visenya's successes as things she believes are 'accidents' or 'dumb luck' due to her intoxication.",
+        "added": "2026-02-05T04:11:09.302110+00:00"
+      },
+      {
+        "rule": "Maintain the 'Awakening' theme: focus on the gap between Visenya's perceived worthlessness and her actual Apex impact.",
+        "added": "2026-02-05T04:11:09.302227+00:00"
+      },
+      {
+        "rule": "NPCs react to her genuine drunkenness, not a feigned act.",
+        "added": "2026-02-05T04:11:09.302324+00:00"
+      },
+      {
+        "rule": "All dragons have an 'Apex Instinct' that makes them naturally submissive to Visenya's bloodline.",
+        "added": "2026-02-05T04:17:22.539350+00:00"
+      },
+      {
+        "rule": "Baseline DC for commanding or influencing dragons is set to 8 (Easy) regardless of Visenya's physical/mental state.",
+        "added": "2026-02-05T04:17:22.539463+00:00"
+      },
+      {
+        "rule": "Character is known only as Visenya; the alias 'Silver' is removed.",
+        "added": "2026-02-05T04:18:09.510126+00:00"
+      },
+      {
+        "rule": "Track and update 'expectations_meter' based on public performance.",
+        "added": "2026-02-05T04:33:26.898956+00:00"
+      },
+      {
+        "rule": "Apply Disadvantage to Persuasion/Intimidation checks when Expectations < 50 and Visenya is trying to be taken seriously.",
+        "added": "2026-02-05T04:33:26.899060+00:00"
+      },
+      {
+        "rule": "Narrate NPC reactions based on the current Expectations level (currently 25: high skepticism/fond condescension).",
+        "added": "2026-02-05T04:33:26.899152+00:00"
+      },
+      {
+        "rule": "Apply Expertise (+4 total bonus) to all skill checks involving dragons.",
+        "added": "2026-02-05T04:53:24.173556+00:00"
+      },
+      {
+        "rule": "Apply Proficiency (+2) to all Charisma-based skill checks.",
+        "added": "2026-02-05T04:53:24.173709+00:00"
+      },
+      {
+        "rule": "Visenya possesses zero command authority; military assets (soldiers/spies/forts) MUST NOT be added to game state unless explicitly granted to her in the narrative.",
+        "added": "2026-02-05T05:09:53.560187+00:00"
+      },
+      {
+        "rule": "Ignore 'tactical umbrella' logic for Faction Power; track only assets under Visenya's direct personal control.",
+        "added": "2026-02-05T05:09:53.560303+00:00"
+      },
+      {
+        "rule": "Stop mentioning UNRANKED status or Faction Power in the session header or narrative unless specifically requested.",
+        "added": "2026-02-05T05:33:26.217725+00:00"
+      },
+      {
+        "rule": "Focus purely on character level and personal narrative stakes.",
+        "added": "2026-02-05T05:33:26.217995+00:00"
+      },
+      {
+        "rule": "Visenya's Valyrian Steel crafting is strictly locked to the Level 6/9/12 progression established in God Mode.",
+        "added": "2026-02-05T06:31:05.925362+00:00"
+      },
+      {
+        "rule": "The 'Apex Needle' was found via 'luck' in the armory, not forged by Visenya.",
+        "added": "2026-02-05T06:31:05.925476+00:00"
+      },
+      {
+        "rule": "Strictly follow House of the Dragon and Fire & Blood canon for military mounts and beasts; scouting is performed by Young Dragons (Arrax/Moondancer size) or non-dragon assets like birds/ships.",
+        "added": "2026-02-05T07:39:35.647443+00:00"
+      },
+      {
+        "rule": "At Level 6, remove the Disadvantage mechanic from Low Self-Esteem; narrate it as a minor lack of confidence.",
+        "added": "2026-02-05T08:11:39.848377+00:00"
+      },
+      {
+        "rule": "At Level 9, fully remove all psychological constraints related to self-esteem/lack of confidence.",
+        "added": "2026-02-05T08:11:39.848559+00:00"
+      },
+      {
+        "rule": "Visenya no longer has any self-esteem issues or lack of confidence.",
+        "added": "2026-02-05T10:11:41.363949+00:00"
+      },
+      {
+        "rule": "Visenya is narratively established as being multiple tiers above Targaryens in beauty and presence.",
+        "added": "2026-02-05T10:11:41.364058+00:00"
+      },
+      {
+        "rule": "NPCs must react to Visenya as a transcendent figure of higher authority.",
+        "added": "2026-02-05T10:11:41.364153+00:00"
+      },
+      {
+        "rule": "Reduce the Ascension Meter (AP) whenever Visenya performs a 'Humble Facade' or acts with genuine humility to mask her power.",
+        "added": "2026-02-06T02:02:05.185952+00:00"
+      },
+      {
+        "rule": "Always display current/max HP in the session header status line.",
+        "added": "2026-02-06T02:02:05.186133+00:00"
+      }
+    ],
+    "architect_tracking": true,
+    "character_creation_stage": "complete",
+    "next_living_world_turn": 307,
+    "faction_minigame": {
+      "faction_power": 0,
+      "suggestion_given": false,
+      "tutorial_completed": false,
+      "resources": {
+        "gold": 10,
+        "arcana": 0,
+        "citizens": 0,
+        "max_citizens": 0,
+        "max_arcana": 0,
+        "territory": 0,
+        "fortifications": 0
+      },
+      "strong_suggestion_given": false,
+      "units": {
+        "soldiers": 0,
+        "spies": 0,
+        "elites": 0,
+        "elite_avg_level": 6.0
+      },
+      "ranking": null,
+      "tutorial_progress": {},
+      "enabled": true,
+      "buildings": {
+        "fortifications": 0,
+        "farms": 0,
+        "arcane_libraries": 0,
+        "artisans_guilds": 0,
+        "wards": 0,
+        "training_grounds": 0,
+        "shadow_networks": 0,
+        "mana_fonts": 0
+      },
+      "turn_number": 1
+    },
+    "level_up_pending": false,
+    "divine_upgrade_available": false,
+    "divine_potential": 0,
+    "multiverse_upgrade_available": false,
+    "budget_warnings_shown": [
+      "budget_warning_system_instruction_emergency",
+      "budget_warning_story_context_compacted"
+    ],
+    "reputation": {
+      "private": {
+        "faction_targaryen_black": {
+          "known_deeds": [
+            "Defeated Aemond",
+            "Captured Vhagar",
+            "Legitimized by Queen Rhaenyra"
+          ],
+          "score": 10,
+          "standing": "champion"
+        }
+      }
+    },
+    "core_memories": [
+      "[auto] The sulfurous air of the Dragonmont tastes of ancient ash and impending fire. You stand amidst the 'seeds,' your soot-stained wool hiding a lineage that predates the very stone beneath your feet. To your left, Gerrick grips his hammer, his knuckles white; above, the Queen of Dragons searches for a spark in the darkness. Your attributes are etched in your blood, and your spells are the echoes of the Fourteen Flames. If you wish to sharpen your mind (INT), harden your resolve (CON), or refi",
+      "[auto] The magic in your blood shifts, aligning with the lethal grace of your ancestors. You feel the soot-stained wool of your tunic tighten against a frame now honed with 16 Dexterity, your movements becoming as fluid as liquid fire. Your heart beats with the steady, reinforced rhythm of 14 Constitution, providing the resilience needed to survive the Dragonmont's toxic fumes. But it is your presence\u2014that 18 Charisma\u2014that truly defines you; it is a weight in the air, a gravitational pull that d",
+      "[auto] Morning (10:00:00) in the Dragonmont\u2014the air shimmers with the latent heat of your blood as you contemplate the path of the Dragon Lord. Your lineage is not merely a name; it is a progression of power that will eventually reshape the realm. From the subtle manipulations of your youth to the terrifying apotheosis of an Apex Monarch, your path is carved in fire and command.\n\nAs you stand before the glowing maw of Vermithor, the weight of your destiny feels heavier than the soot on your skin",
+      "[auto] Morning (10:05:00) in the Dragonmont\u2014the sulfurous heat is a physical weight, pressing against your sixteen-year-old frame as you step out from the shadow of the cowering Dragonseeds. Vermithor, the Bronze Fury, let out a low, vibrating growl that rattled the very teeth in your skull, his throat a pulsing vein of molten orange. \n\nBehind you, Gerrick hissed your name, reaching out to grab your shoulder, but you moved with a lethal grace that eluded his clumsy grip. You didn't shout. You di",
+      "[auto] Morning (10:10:00) in the Dragonmont\u2014the sulfurous wind whips your silver-blonde hair across your face as you stumble back, a perfectly choreographed display of 'peasant' shock. You let your jaw hang slack, eyes wide and brimming with a feigned, watery terror. To the onlookers on the ridge, you are not a conqueror; you are a girl who has just seen a miracle and is terrified of it.\n\n\"Gerrick!\" you cry out, your voice trembling with a high, thin pitch that masks the steel of the Noblest Dia",
+      "[auto] Morning (10:14:00) on the Dragonmont\u2014the sulfurous wind carries the scent of ancient scales and disbelief. High on the ridge, Queen Rhaenyra (Lvl 15) stands frozen, her hand white-knuckled upon the stone. Beneath the facade of the stoic Queen, her thoughts race with a frantic, lethal heat. *This girl... this 'Silver'.* She watches you stumble, watches Gerrick (Lvl 3) boost you up with his massive, soot-stained hands, but she is no longer fooled by the clumsy woolen tunic. No mere peasant ",
+      "[auto] Morning (10:20:00) in the skies above the Dragonmont\u2014the sulfurous stench of the pits is suddenly replaced by the biting, cold clarity of high altitude. As Gerrick's (Lvl 3) hand slips from your ankle, you lean forward, your sixteen-year-old frame pressing against the furnace-heat of Vermithor's (Lvl 20) neck. Your lips brush against a bronze scale the size of a shield as you whisper the command. \"S\u014dvegon.\"\n\nThe reaction is tectonic. The Bronze Fury doesn't merely jump; he erupts. A massi",
+      "[auto] Late morning (10:25:00) above the Dragonmont\u2014the wind screams past your ears as Vermithor (Lvl 20) banks sharply, the jagged obsidian of the volcano rushing up to meet you. You do not panic. While your Silver persona shrieks for the benefit of the watchers below, your knees grip the bronze-scaled ridges of the dragon's neck with the instinctive precision of an Apex heir. You lean into the beast, your weight a silent suggestion that harmonizes with his ancient, rhythmic pulse. \n\nWith a thu",
+      "Timeline Reset: Visenya begins the Sowing not as a peasant, but as the disreputable, drunken bastard cousin of the royal family.",
+      "[auto] Morning (10:00:00) in the Dragonmont\u2014the sulfurous air is choked with the smell of charred meat and ozone. You stand at the edge of the obsidian pit, swaying slightly as you clutch a dented silver flask. The 'Dragonseeds' around you are a sea of trembling peasants and terrified bastards, all staring at the steaming pile of ash that was, until moments ago, a knight of some standing. Vermithor (Lvl 20), the Bronze Fury, let out a low, tectonic rumble that rattled the loose stones under your",
+      "[auto] Late morning (10:30:00) in the Dragonmont\u2014the obsidian plateau is a stage where the smell of sulfur competes with the sharp, acidic tang of the wine on your breath. You do not wait for the Queen's guard to assist you. Instead, you push away from Gerrick (Lvl 3) with a loose, uncoordinated confidence, your boots scuffing through the deep gray ash. Every step feels like walking on a ship's deck during a gale; the world tilts at a jaunty angle, but your 16 Dexterity serves as a silent, stabi",
+      "[auto] Morning (10:00:00) in the Dragonmont\u2014the sulfurous steam rises from the obsidian vents like the breath of the volcano itself. You stand at the edge of the descent, the silver flask in your hand feeling heavier than the Hidden Valyrian Steel Dagger at your thigh. Your vision swims slightly, the mid-tier noble silks of your house smelling faintly of the blackberry wine you\u2019ve been nursing since dawn.\n\n\"I... I can do it,\" you stammer, a loose, lopsided grin splitting your face as you look to",
+      "[auto] Morning (10:07:00) in the Dragonmont Plateau\u2014the heat radiates from the obsidian floor, shimmering through the haze of your intoxicated vision as you take your first stumbling step toward the beast. You don't look like a threat; you look like a girl who has lost her way to the wine cellar and wandered into the mouth of hell.\n\n\"Shhh... shhh, big bronze fella,\" you murmur, your voice thick with the slur of blackberry wine. You stagger slightly, a genuine lurch of your sixteen-year-old frame",
+      "[auto] Morning (10:22:00) in the churning, smoke-choked skies above the Dragonmont\u2014the wind howls like a wounded beast as you cling to Vermithor\u2019s (Lvl 20) neck. Your vision is a blurred mess of salt-spray and volcanic ash, the blackberry wine turning your stomach into a chaotic sea. You feel your fingers slipping, the coarse bronze bristles of the dragon's mane nearly ripping from your grasp as he banks toward the jagged cliffs of Dragonstone.\n\n\"Woah... woah, big fella!\" you shriek, the sound h",
+      "[auto] Late morning (10:24:00) in the skies above the Dragonmont\u2014the biting wind of the Blackwater whips through your thin silks, yet the furnace-heat of Vermithor (Lvl 20) keeps the chill at bay. You feel the world tilting, a dizzying mix of altitude and the blackberry wine still sloshing in your gut. As the dragon levels out into a majestic, steady glide, you let out a shaky, triumphant laugh that is mostly a hiccup. \n\nWith one hand white-knuckled around a bronze scale, you fumbled at your hip",
+      "Administrative Correction: Nickname 'Silver' removed. Character is now known only as Visenya.",
+      "[auto] Late morning (10:30:00) at the Dragonmont Landing Plateau\u2014the sky is a bruised purple where the volcanic smoke meets the sea air. High above, you lean into Vermithor's (Lvl 20) neck, your cheek pressed against his bronze scales. You don't realize that the warmth flooding your veins isn't just the blackberry wine, but the raw, tectonic pulse of the beast recognizing its master. You whisper a slurry of Valyrian that sounds like a lullaby, and the Bronze Fury responds with a grace that defie",
+      "[auto] Late morning (10:35:00) at the Dragonmont Landing Plateau\u2014the air is a thick, gray veil of ash that tastes of sulfur and the sharp, blackberry tang of the wine still wet on your lips. You sway precariously on your feet, the world spinning in a slow, lazy circle as you lean one hand against Vermithor's (Lvl 20) snout. The dragon, a mountain of bronze power, lets out a huff of hot air that smells of ancient earth, yet he stays as still as a statue under your touch.\n\n\"He... he likes the vint",
+      "[auto] Late morning (10:50:00) at the Dragonmont Landing Plateau\u2014the sulfurous haze seems to lift slightly as you lean into Rhaenyra\u2019s embrace, the metal of your flask clinking softly against her royal breastplate. You look up at her with glassy, sincere eyes, a hiccup punctuating your words. \"I'll... I'll do it, Rhae. I'll train. I'll even... I'll even cut back. No more blackberry before noon. I promise. But... could I have something? For the head? It's spinning like a septon's top.\"\n\nQueen Rha",
+      "[auto] Late morning (11:20:00) in the secluded shadow of the Dragonmont's inner courtyard\u2014the Maester's sobering draught hits your tongue like liquid smoke and regret. You gag, the world spinning in a violent, clockwise lurch before the concoction's bitter heat finally forces your vision into focus. Above the jagged peaks, Vermithor's distant, vibrating roar ripples through your bones, a bronze echo that feels like a possessive weight on your shoulders.\n\n\"Easy, Visenya,\" Jacaerys (Lvl 5) says so",
+      "[auto] Late morning (11:30:00) in the secluded shadow of the Dragonmont's inner courtyard\u2014the bitter aftertaste of the Maester's draught lingers, but the world has finally stopped its dizzying tilt. You sit on a low stone bench, the heavy practice harness forgotten at your feet, as Jacaerys (Lvl 5) paces before you. His movements are precise, echoing the discipline his mother has instilled in him.\n\n\"Vermax is swift, Visenya (Lvl 2), but Vermithor (Lvl 20)... he is a mountain with wings,\" Jace sa",
+      "[auto] Late morning (11:45:00) in the Dragonmont Private Courtyard\u2014the sharp, medicinal tang of the sobering draught still dances on your tongue as you turn toward the training rig. It is a hulking frame of iron and wood, draped in thick, scorched leather meant to simulate the broad junction of a dragon's neck. You feel the princes' eyes on you\u2014expectant, hopeful, and entirely too trusting for a girl who feels like her knees are made of wet parchment.\n\n\"Right,\" you mutter, wiping a stray drop of",
+      "[auto] Late Morning (11:50:00) in the Dragonmont Courtyard\u2014the sharp, acidic residue of the Maester's sobering draught feels like a cold flame in your stomach, stripping away the blackberry haze and leaving you raw. You sit atop the training rig, your hands still trembling as they grip the scorched leather. The silence of the courtyard is broken only by the distant, rhythmic thrumming of Vermithor\u2019s wings somewhere above the peaks.\n\nYou look down at Jacaerys (Lvl 5) and Lucerys (Lvl 3), whose fa",
+      "[auto] Midday (12:00:00) in the Dragonmont Courtyard\u2014the sun hangs heavy overhead, burning through the last of the volcanic haze as you attempt to match the technical brilliance Jace described. Your blood is clear of the blackberry fog, but your limbs feel heavy and disconnected from the 'prodigy' you were moments ago. You throw yourself into the high-speed drill, attempting a sharp banking lean on the training rig, but your foot slips on the scorched leather. \n\nYou tumble from the iron frame, h",
+      "[auto] Midday (12:05:00) in the Dragonmont Courtyard\u2014the obsidian dust is gritty against your palms, a sharp reminder of the stone's indifference to your lineage. You sit in the ash, the faded red silks of your station now stained with a fresh layer of volcanic gray. The Maester\u2019s sobering draught has left a bitter, metallic tang in the back of your throat, and without the warm, insulating haze of the blackberry wine, the world feels too bright, too loud, and far too judgmental.\n\nJacaerys (Lvl 5",
+      "[auto] Midday (12:15:00) in the Dragonmont Courtyard\u2014the sun is a relentless eye peering through the volcanic haze as you try to force your body into a rhythm it isn't ready to hold. You let your breath out in a long, shaky exhale, attempting to stop 'steering' the training rig and instead find the fluid, loose reactive grace that saved you in the clouds. For a second, you feel it\u2014the sway of the leather matching the tilt of your hips, a ghost of the sky returning to your limbs.\n\nBut the obsidia",
+      "[auto] Midday (12:20:00) in the Dragonmont Courtyard\u2014the sun beats down with a merciless clarity that mirrors the sudden, sharp focus in your mind. You push yourself up from the ash, ignoring the sting in your palms and the dull throb in your shoulder. You look at Jacaerys (Lvl 5) and Lucerys (Lvl 3), your jaw setting with a stubbornness that surprises even you. \n\n\"Again,\" you rasp, the word cutting through the soot-heavy air. You reach deep into the well of Belaerys blood, tapping into your Fon",
+      "[auto] Afternoon (15:30:00) in the Dragonmont Courtyard\u2014the long shadows of the volcano stretch across the obsidian floor like grasping fingers as the grueling training session finally draws to a close. For over three hours, you have pushed your sixteen-year-old frame to the brink, the Maester's sobering draught having long since burned away the blackberry fog, leaving behind a crystalline, exhausting focus. Your silks are ruined, soaked with sweat and stained with soot, but you stand steady on ",
+      "[auto] Late afternoon (16:15:00) on the Obsidian Cliffs of Dragonstone\u2014the wind off the Gullet is a cold, salt-heavy whip that stings your sweat-chilled skin. You sit on the jagged edge of the world, legs dangling over a drop that would turn a man to pulp, but with the memory of Vermithor's (Lvl 20) heat still in your marrow, the height feels like an old friend. Beside you, Jacaerys (Lvl 15) and Lucerys (Lvl 14) have finally stopped their pacing, the youthful fire of the training rig replaced by",
+      "[auto] Late afternoon (16:30:00) on the Obsidian Cliffs of Dragonstone finds you huddled against the salt-slicked rock as the sky turns the color of a bruised plum. Jacaerys (Lvl 5) leans forward, his eyes tracking an imaginary line across the churning waves of the Gullet. \"Aemond (Lvl 10) likes to dive from the sun,\" he says, his voice losing its boyish lilt and taking on the hard cadence of a commander. \"He uses Vhagar's (Lvl 20) shadow to mask his approach. Because she's so large, you don't r",
+      "[auto] Late afternoon (16:40:00) on the Obsidian Cliffs of Dragonstone\u2014the sky is a bruised purple where the volcanic smoke meets the salt air. You lean forward, your eyes narrowing as you look out over the churning gray waves of the Gullet. \n\n\"Where is she slow, Jace?\" you ask, your voice raspy and devoid of its usual drunken lilt. \"Every mountain has a crack in the stone. Aemond (Lvl 10) might dive from the sun, but Vhagar (Lvl 20) is old. Her scales are thick, yes, but her joints... her banki",
+      "[auto] Late afternoon (16:40:00) on the Obsidian Cliffs fades into a grueling, lightless night as you send Jacaerys (Lvl 5) and Lucerys (Lvl 3) back to the keep. You watch them go, their young faces etched with a hope that feels like a physical weight against your chest. Alone with the wind and the salt, you retreat to the library beneath the Painted Table, clutching a half-empty bottle of Arbor Gold you managed to 'liberate' from a passing page.\n\nDawn (06:00:00) finds you hunched over a spread ",
+      "[auto] Dawn (06:10:00) at The Painted Table, Dragonstone\u2014the first grey-blue light of the Sowing's second day filters through the high windows, painting the massive wooden map of the Seven Kingdoms in shades of cold iron and morning mist. You stand at the table's edge, your fingers tracing the jagged coastline of the Gullet. The all-nighter you almost pulled has been replaced by a strange, rested clarity, as if the blood of the Fourteen Flames within you has purged the blackberry dregs while you",
+      "[auto] Dawn (06:25:00) at the Dragonmont, Dragonstone\u2014the volcanic air is sharp with the scent of early frost and ancient heat. You stagger slightly as you reach the obsidian ledge, your boots scuffing the ash. Vermithor (Lvl 20) is waiting, his bronze scales catching the first grey light like a mountain of burnished gold. Beside him, the smaller forms of Vermax (Lvl 3) and Arrax (Lvl 3) shift restlessly, their wings snapping like banners in the morning wind.\n\n\"On my mark!\" Jacaerys (Lvl 5) call",
+      "[auto] Morning (09:00:00) at the Painted Table finds you standing not as a stumbling bastard cousin, but as a pillar of Rhaenyra\u2019s (Lvl 15) war machine. The last three weeks have been a blur of salt, fire, and the agonizing clarity of sobriety\u2014a clarity that currently feels like a curse as the phantom taste of blackberry wine haunts your tongue.\n\n**The Chronicle of the Awakening:**\n*   **Days 3\u20137 (The Withdrawal):** Maester Gerardys\u2019s (Lvl 6) draughts were a nightmare. You spent the first week s",
+      "[auto] Morning (09:15:00) in the Dragonmont Forges\u2014the heat is no longer a suffocating weight, but a familiar pulse that harmonizes with the rhythmic heaving of Vermithor (Lvl 20), who lies coiled just outside the cavern\u2019s mouth. The three weeks of sobriety have stripped the insulating blackberry fog from your mind, leaving you raw and vibrating with a power you still mistake for simple nerves. \n\nInside the forge, Gerrick (Lvl 3) wipes a river of sweat from his brow, his massive arms trembling a",
+      "[auto] The Chamber of the Painted Table is unusually quiet, the only sound the crackle of the hearth and the distant, rhythmic thrumming of Vermithor circling above. You stand before Queen Rhaenyra (Lvl 15), your hands trembling as you present the 'found' treasure. The Apex Needle\u2014a slender, rippled rapier of smoke-dark Valyrian steel\u2014shimmers in the morning light as it rests upon the silk cloth.\n\n\"I... I found it, Rhae,\" you stammer, your voice thick with a mix of genuine humility and the linge",
+      "[auto] Morning (09:15:00) in the Chamber of the Painted Table finds the heavy silence of the council breaking only for the rhythmic, distant thrum of Vermithor's (Lvl 20) wings. You offer a small, obedient nod to Queen Rhaenyra (Lvl 15), your fingers still ghosting over the rippled dark metal of the Apex Needle before you pull your hand back as if burned.\n\n\"I understand, Rhae,\" you murmur, your voice carrying that familiar, lopsided lilt that masks the steel of your lineage. \"Just a look. I'll m",
+      "[auto] Morning (09:20:00) in the Chamber of the Painted Table finds the heavy oak doors groaning shut as Visenya (Lvl 4) departs, leaving a silence so thick it seems to dampen the roar of the hearth. Queen Rhaenyra (Lvl 15) remains standing at the head of the table, her fingers tracing the rippled patterns of the Apex Needle she still holds. She does not look at her lords; she looks at the empty doorway.\n\n\"Another dragon rider changes everything,\" Rhaenyra says, her voice low and fraught with a ",
+      "[auto] Morning (09:35:00) in the skies above the Gullet\u2014the biting chill of the salt wind cuts through your woolen doublet, but the furnace-heat radiating from Vermithor's (Lvl 20) bronze scales keeps the frost from your bones. You left the Council Chamber with a clumsy nod, your boots scuffing the stone, and met Jacaerys (Lvl 5) at the landing ledge. He didn't say much, only checked your harness with a quiet, focused intensity that made you feel like a fragile vase he was terrified of dropping.",
+      "[auto] Morning (09:45:00) finds you swallowed by a world of shifting, pearlescent gray. You bank Vermithor (Lvl 20) into the heart of a massive cloud bank, the cold moisture clinging to your eyelashes and dampening your woolen doublet. The visibility is near zero, yet beneath the haze of your lingering tremors, your blood hums with a predatory clarity. You don't just see the mist; you feel the displacement of air within it, an intuitive grasp of the sky that Jacaerys (Lvl 5) is still struggling ",
+      "[auto] Morning (09:55:00) in the swirling, pearlescent mists above the Gullet\u2014the cold dampness of the clouds clings to your woolen doublet like a shroud. You bank Vermithor (Lvl 20) deeper into the heavy gray veil, the massive bronze shadow of the dragon vanishing into the heart of the storm. Your hands tremble, a sharp reminder of the blackberry wine's absence, but you lean into the furnace-heat of the Bronze Fury's neck, using the predatory clarity in your blood to keep the beast at a standst",
+      "[auto] Morning (10:00:00) in the swirling, pearlescent mists above the Gullet\u2014the cold moisture clings to your woolen doublet, but the furnace-heat of Vermithor (Lvl 20) keeps you anchored in the living world. You watch from the edge of a massive cloud bank as Jacaerys (Lvl 5) banks Vermax (Lvl 3) for the strike. The Green Scout (Lvl 4) is desperate, his young dragonet (Lvl 2) beating its wings in a frantic, jagged rhythm to escape toward the southern coast.\n\nYou lean forward, your forehead pres",
+      "[auto] Morning (10:10:00) on the Southern Shore of the Gullet\u2014the pearlescent mist clings to your skin like a damp shroud as Vermithor (Lvl 20) banks into a predatory dive. You lean forward, your forehead pressed against the furnace-heat of a bronze scale, your eyes narrowed to slits. Without the blackberry wine to dull your senses, the cold air feels like a thousand needles against your face, and the rhythmic heaving of the dragon beneath you is a terrifyingly intimate pulse.\n\n\"There!\" you gasp",
+      "[auto] Morning (10:15:00) on the Southern Shore of the Gullet finds the rocky coast trembling under the tectonic weight of Vermithor (Lvl 20) as he touches down. The Bronze Fury backbeats his massive wings, clearing a circle of mist with a localized hurricane that sends salt spray and shingle flying like shrapnel. You slide down the leathery ramp of his wing, your boots hitting the wet stone with a sharp, heavy click. Without the blackberry wine to soften the world, the smell of charred meat and",
+      "[auto] Morning (10:25:00) on the Southern Shore of the Gullet\u2014the salt air is sharp, and the tremors in your hands are finally beginning to subside, replaced by the raw, cold reality of the battlefield. You step back as Jacaerys (Lvl 5) moves in to secure the Green Scout (Lvl 4), your boots crunching over the wet shingle. You try to maintain the terrifying, regal presence you held moments ago, but as the adrenaline of the chase fades, so does the 'Apex' heat in your blood.\n\n\"Jace, bind him,\" you",
+      "Interrogated a Green Scout on the southern shore; discovered an ambush point at Rook's Rest.",
+      "[auto] Late morning (10:35:00) on the Southern Shore of the Gullet finds the rocky shingle slick with salt spray and the dark blood of the dying dragonet. The wind howls through the jagged obsidian formations, carrying the scent of ozone and the sharp, metallic tang of your own raw sobriety. You stand beside the bound Green Scout (Lvl 4), your hands tucked into your sleeves to hide the tremors that even the adrenaline of the hunt couldn't fully banish.\n\n\"Jace (Lvl 5),\" you murmur, your voice cra",
+      "[auto] Late morning (11:00:00) at the Whispering Cliffs of Rook's Rest\u2014the salt-heavy mist clings to the jagged obsidian teeth of the coast, deadening the sound of the crashing surf below. You lean forward, pressing your cheek against the furnace-heat of Vermithor's (Lvl 20) neck as the cloud ceiling thins. Ahead, the dark maw of the sea-caves looms like a hungry mouth. \n\n\"Jace!\" you shriek into the gale, your voice thin and perfectly pitched with sixteen-year-old terror. \"Go high! Make... make ",
+      "[auto] Late morning (11:10:00) in the Whispering Cliffs sea-cave\u2014the air is a suffocating mixture of salt-crust, damp moss, and the blistering furnace-heat radiating from Vermithor's (Lvl 20) bronze scales. You stand before the three disarmed Green Scouts (Lvl 4), your boots sinking into the wet shingle. Without the insulating haze of blackberry wine, the shriek of their young dragons (Lvl 3) in the cave's depths is a jagged blade against your nerves. You try to summon the terrifying, regal reso",
+      "[auto] Late morning (11:15:00) in the Whispering Cliffs sea-cave finds the shadows dancing against the salt-slicked walls as Vermithor's (Lvl 20) rhythmic, furnace-like breathing echoes through the chamber. You stand over the Lead Scout (Lvl 4), your silver-blonde hair damp with sea-spray. The crack you made in his resolve a moment ago still lingers in the air, a palpable tension between the heat of the dragon and the cold of the cave.\n\n\"The sun is climbing, soldier,\" you say, trying to keep you",
+      "[auto] Late morning (11:20:00) in the Whispering Cliffs sea-cave\u2014the salt-spray dances in the dim light as Jacaerys (Lvl 5) steps past you, his hand resting with a Prince's practiced ease on the pommel of his sword. He leans into the Lead Scout's (Lvl 4) space, his violet eyes flashing with a cold, Velaryon fury that usually commands instant obedience. \n\n\"You speak of 'Silver' as if you know her, soldier,\" Jace (Lvl 5) growls, his voice low and dangerous. \"But you are currently drowning in the s",
+      "[auto] Late morning (11:25:00) in the Whispering Cliffs sea-cave\u2014the salt-heavy air seems to freeze as you step back into the circle of the scout's mocking laughter. You don't reach for your flask. You don't stumble. You simply look at him, your violet eyes catching a stray spark of bronze light from the dragon behind you. You reach into that well of white-hot heritage, tapping into your Font of Magic (SP Used: 1) to weave a Subtle Command into the very air.\n\n\"**\u00d1uhor**,\" you whisper. The word i",
+      "[auto] Late morning (11:35:00) in the Sea-Caves of the Whispering Cliffs\u2014the brine-chilled air is suddenly thick with the coppery scent of blood and the fading heat of three lives extinguished. You stand amidst the wet shingle and tangled kelp, your hand white-knuckled around the hilt of the Apex Fang (+1 Valyrian Steel Dagger). The three Green Scouts (Lvl 4) lie silent at your feet, their surrenders having bought them nothing but a quicker end. Your fingers are shaking\u2014not from the act itself, ",
+      "[auto] Late morning (11:55:00) at the Whispering Cliffs, Rook's Rest\u2014the air here is sharper, more jagged than the mists of the Gullet, filled with the constant, haunting whistle of wind through the porous obsidian rock. You lean into the furnace-heat of Vermithor (Lvl 20), your fingers white-knuckled around his coarse mane as the Prince leads the way. Behind the raw tremors of your sobriety, your blood hums with a predatory focus. You don't need the maps; you can feel the displacement of the ai",
+      "[auto] Late morning (11:55:00) at the Whispering Cliffs of Rook's Rest\u2014the air is a jagged chorus of wind whistling through obsidian and the terrified whinnies of the scouts' horses. You stand on the wet shingle, the cold salt spray stinging your face, but the heat at your back is a sun that never sets. Your hands tremble with the raw, uninsulated cold of your sobriety, yet as you look at the terrified Green scouts (Lvl 4) scrambling for their steel, the 'Black Sheep' in your soul finally falls ",
+      "[auto] Midday (12:00:00) at the Whispering Cliffs of Rook's Rest\u2014the heat from the cooling glass where the horses once stood creates a shimmering wall between you and the three Green Scouts (Lvl 4). The scent of charred bone and ozone is thick enough to taste, a sharp, metallic contrast to the salt spray. You step forward, your boots crunching on the wet shingle, your silver-blonde hair whipping around your face in the jagged drafts of the fissure. You don't reach for a flask; you don't even loo",
+      "[auto] Midday (12:05:00) at the Whispering Cliffs of Rook's Rest\u2014the heat from the cooling glass where the horses once stood creates a shimmering wall between you and the three Green Scouts (Lvl 4). You step forward, the smell of burnt horseflesh thick in the air, your presence amplified by the furnace-breath of Vermithor (Lvl 20) looming behind you. You don't need a dagger; your gaze is sharp enough to cut through their remaining resolve.\n\n\"The time for games ended when the horses turned to ash",
+      "[auto] Midday (12:25:00) at the Whispering Cliffs of Rook's Rest\u2014the salt-heavy air is still warm with the fading heat of Vermithor's (Lvl 20) fire. Jacaerys (Lvl 5) looks at the charred, smoking remains of the scouts' horses and then at the three bound prisoners, his jaw tightening as he realizes the logistical shift. \n\n\"The horses are ash, Visenya (Lvl 4),\" Jace (Lvl 5) says, his voice carrying a mix of grim pragmatism and dawning awe. \"We'll have to take them on the Bronze Fury. There's room ",
+      "[auto] Afternoon (14:15:00) in the Chamber of the Painted Table finds the heavy obsidian doors swinging wide as you are summoned from the Dragonmont. You still smell of dragon-smoke and sea-salt, your hands stained with the grit of the pits, but the atmosphere that greets you is unlike any you have known in sixteen years. The usual murmurs of the Black Council die away, replaced by a standing ovation of steel clashing against stone as lords and knights acknowledge your return.\n\n\"Visenya!\" Queen ",
+      "[auto] Afternoon (14:30:00) in the Chamber of the Painted Table finds the air vibrating with a tactical focus so sharp it seems to hum. You lean over the massive wooden map, your fingers tracing the thermal updrafts of the Gullet while Princess Rhaenys (Lvl 16) and Jacaerys (Lvl 5) watch with a silence that used to mean judgment, but now carries the weight of peerage.\n\n\"The spiral must be vertical, not banking,\" you say, your voice steady despite the raw, cold edge of your sobriety. You use a pi",
+      "[auto] Afternoon (14:45:00) at the Dragonmont Landing Plateau finds the air churning with a frantic, industrial heat as the scent of sulfur and sea-spray thickens. You stand beside Jacaerys (Lvl 5), your hands moving with a rhythmic, lethal precision as you personally inspect the scorched leather buckles of Vermax's (Lvl 3) harness. The Maester's draught has left you with a cold, predatory clarity that makes the complex mechanics of the dragon-saddle look like a simple puzzle.\n\n\"It's tight, Jace",
+      "[auto] Afternoon (15:00:00) in the High Watch, three thousand feet above the churning gray waters of the Gullet\u2014the world below has vanished, replaced by a blinding, vertical horizon of gold and blue. You lean into the furnace-heat of Vermithor's (Lvl 20) neck, your riding leathers creaking under the G-force as you lead the formation into the sun's glare.\n\n\"**S\u014dvegon, n\u016bm\u014dno s\u014dvegon!**\" (Fly, fly as one!) you scream into the gale. The Noblest Dialect doesn't just leave your lips; it erupts from ",
+      "[auto] Afternoon (15:05:00) in the High Watch\u2014the air at three thousand feet is a freezing, thin needle that pricks at your lungs, but the furnace-heat of the Bronze Fury (Lvl 20) is a shield against the void. You look down, your silver-blonde hair whipping like a cracked whip in the gale, and see the hoar-white mass of Vhagar (Lvl 20) drifting like a lethal cloud below you. Aemond (Lvl 10) is a tiny, sapphire-eyed speck in his saddle, unaware that the sun itself is about to fall upon him.\n\nYou ",
+      "[auto] Afternoon (15:07:00) in the High Watch, three thousand feet above the Gullet\u2014the air is a roar of wind and the screech of grinding tectonic plates as you strike Vhagar (Lvl 20). The impact of the Hasted Bronze Fury is a physical shock that rattles your very teeth, but you do not let your seat falter. Your 20 Charisma acts as a grounding wire for the chaos, a predatory stillness that cuts through the adrenaline.\n\n\"**S\u014dvegon! Lykir\u012b!**\" you shriek, the Noblest Dialect vibrating with a frequ",
+      "[auto] Late afternoon (15:07:06) above the churning Gullet\u2014the world is a scream of wind and the smell of ancient, scorched scales. You are locked in a lethal embrace with the Hoar Huntress, the Bronze Fury's talons buried deep in the elder dragon's flank. You lean forward, your silver-blonde hair whipping like a crack of lightning, and open your mouth to let the Noblest Dialect erupt.\n\n\"**\u016andegon! Lykir\u012b!**\" (Look! Calm!) you shriek. The command isn't just a word; it is a weight of biological h",
+      "[auto] Late afternoon (15:07:12) above the Gullet\u2014the world is a vertical blur of gray sea and bronze scales. You drop the 'Black Sheep' mask entirely, reaching into the white-hot core of your Belaerys blood. For a moment, you aren't just Visenya the drunk; you are a sun becoming a supernova. You project your Apex Aura, a silent, crushing wave of bloodline authority that demands the Hoar Huntress kneel. \n\nThe effect is tectonic. Vhagar (Lvl 20), an ancient fortress of prehistoric stone, flinches",
+      "[auto] Late afternoon (15:07:18) above the churning, salt-churned Gullet\u2014the world is a vertical scream of wind and the smell of ancient, terrified stone. You lean forward, your silver-blonde hair whipping like a crack of lightning, and open your mouth to let the Noblest Dialect erupt in its most absolute form. You do not shout; you project a command that bypasses the air and speaks directly to the prehistoric marrow of the Hoar Huntress.\n\n\"**P\u0101sagon!**\" (Obey!) you whisper. The word carries the",
+      "[auto] Late afternoon (15:07:24) above the churning, salt-churned Gullet\u2014the world is a vertical scream of wind and the smell of ancient, terrified stone. You lean forward, your silver-blonde hair whipping like a crack of lightning, and open your mouth to let the Noblest Dialect erupt in its most absolute form. You do not shout; you project a command that bypasses the air and speaks directly to the prehistoric marrow of the Hoar Huntress.\n\n\"**S\u0113riti...**\" (Still...) you whisper. The *Subtle Hold",
+      "[auto] Late afternoon (15:08:24) above the churning, salt-choked Gullet\u2014the world is a heavy, ringing silence where a mountain once screamed. The wall of water thrown up by Vhagar's (Lvl 20) impact begins to collapse, a torrential rain of seawater that drenches your riding leathers and stings your eyes. Below, the hoar-white mass of the elder dragon is a pale, jagged island amidst the dark waves, her wings tangled and heavy. \n\nYou bank Vermithor (Lvl 20) in a tight circle, your silver-blonde hai",
+      "[auto] Late afternoon (15:08:30) above the churning, salt-choked Gullet\u2014the air is a chaotic symphony of crashing waves, dragon shrieks, and the cold, metallic scent of impending death. You look down at the hoar-white mass of Vhagar (Lvl 20) thrashing in the dark water, her prehistoric bulk creating small tsunamis with every desperate beat of her wings. In the center of that white-hot terror, Prince Aemond (Lvl 10) remains frozen, your *Hold Person* spell binding him into a statue of sapphire-ey",
+      "[auto] Late afternoon (15:08:36) above the churning, salt-choked Gullet\u2014the world is a chaotic symphony of crashing waves, dragon shrieks, and the cold, metallic scent of death. You stand atop the Bronze Fury, your silver-blonde hair whipped into a frenzy by the storm of Vhagar's (Lvl 20) grief. The 'Black Sheep' in your soul has been entirely consumed by the white-hot furnace of your Belaerys blood. You do not merely command; you project.\n\n\"**LYKIR\u012a! P\u0100SAGON!**\" You don't whisper this time. You",
+      "[auto] Late afternoon (15:09:06) above the churning, blood-stained Gullet\u2014the air is a physical weight, vibrating with the terrifying, sun-bright resonance of your Belaerys blood. You stand atop the Bronze Fury (Lvl 20), your silver-blonde hair a banner of pale fire against the grey sky, and project the full, crushing magnitude of your Apex Aura. You do not whisper; you command the very air to carry your will.\n\n\"**I\u014da \u0101eksio \u0113l\u012ba! P\u0101sagon!**\" (A more powerful master is here! Obey!) you scream. T",
+      "[auto] Late afternoon (15:09:36) above the churning, blood-streaked waters of the Gullet\u2014the world is a roar of crashing waves and the rhythmic, labored breathing of two titans. You stand atop the Bronze Fury (Lvl 20), your riding leathers slick with salt spray and the dark, coppery remnants of the Prince you just fed to the sea. Below, Vhagar (Lvl 20) lies heavy in the water, a jagged mountain of hoar-white scales that has finally stopped screaming.\n\n\"Steady, old friend,\" you murmur to Vermitho",
+      "[auto] Evening (17:30:00) in the Chamber of the Painted Table finds the heavy obsidian doors swinging open to reveal a figure that seems to have stepped out of the tapestries of old Valyria. You walk into the council room, and for the first time in sixteen years, the air itself seems to bow to your passing. The 'Black Sheep' is gone. The flushed, uncoordinated girl who reeked of blackberry wine and sought the shadows has been replaced by a sovereign whose ethereal beauty is so sharp it borders o",
+      "[auto] Evening (17:40:00) in the Chamber of the Painted Table finds you still kneeling, the cool obsidian floor a stark contrast to the radiating heat of your blood. You look up at Queen Rhaenyra (Lvl 15), your violet eyes reflecting the dying embers of the hearth with a clarity that seems to pierce through her royal mask.\n\n\"The grandmother of dragons is yours, Rhaenyra,\" you repeat, your voice resonating in the bones of everyone present. \"And I am yours. I have no desire for crowns or titles; m",
+      "[auto] Evening (17:50:00) in the Chamber of the Painted Table\u2014the long shadows of the obsidian pillars stretch across the floor like the fingers of a giant, and the only sound is the crackle of the dying hearth. Queen Rhaenyra (Lvl 15) offers a sharp, dismissive wave of her hand to the council. Lord Corlys (Lvl 14) and Princess Rhaenys (Lvl 16) bow low, their eyes lingering on you with a mixture of terror and hallowed reverence before they retreat, leaving the two of you alone in the heavy silen",
+      "Visenya was officially adopted and legitimized as a Targaryen by Queen Rhaenyra, ending her status as a bastard and becoming Princess Visenya Targaryen.",
+      "[auto] Evening (18:30:00) in the Chamber of the Painted Table finds the heavy obsidian room bathed in the flickering, amber glow of dozens of beeswax candles. You stand beside Queen Rhaenyra (Lvl 15), your presence a silent, radiating heat that seems to make the very air hum with the weight of the Fourteen Flames. The 'Black Sheep' is a ghost that no longer haunts these halls; in her place is a Princess of the Realm whose beauty is as sharp and terrifying as the Bronze Fury circling the peaks ab",
+      "[auto] Evening (18:35:00) in the Stone Drum of Dragonstone\u2014the amber glow of candles dances across the Painted Table as the strategy for the final blockade takes hold. Lord Corlys (Lvl 14) meets your gaze with a newfound, heavy respect, his hands already moving to adjust the wooden ships representing the Velaryon fleet. \n\n\"It shall be as you say, Princess,\" Corlys (Lvl 14) grunts, his voice a low rumble of oceanic approval. \"The fleet will close the throat of the Blackwater. No skiff or swan-shi",
+      "[auto] Dawn (06:00:00) on the thirtieth day of the Sowing breaks over the Dragonmont with a cold, grey clarity that mirrors the steel in your hands. For four days, the world has existed in a rhythmic cycle of fire and wind. While the Velaryon fleet tightened the noose around King's Landing, you led a high-cycle patrol that left the city in a state of perpetual eclipse. \n\nBetween flights, however, the Dragonmont Forges became a place of bitter frustration. You stood before the white-hot heart of ",
+      "[auto] Dawn (06:05:00) over the Mud Gate, King's Landing\u2014the morning mist is scorched away not by the rising sun, but by the radiating furnace-heat of the two titans hovering directly over the city's throat. You sit atop Vermithor (Lvl 20), your knees locked into the scorched leather with a precision that makes the massive beast feel like an extension of your own spine. Vhagar (Lvl 20) drifts like a jagged, hoar-white cloud mere yards to your right, her ancient, heavy breathing a rhythmic bass n",
+      "[auto] Dawn (06:06:00) over the Mud Gate, King's Landing\u2014the air is a suffocating weight, vibrating with the dual-pulse of the titans hovering in a celestial alignment of death. You sit atop Vermithor (Lvl 20), your spine a pillar of Apex steel as you hold the two greatest fires of the age in a predatory stillness. Vhagar (Lvl 20) drifts like a hoar-white mountain to your right, her ancient breathing a rhythmic bass note that makes the very stones of the city walls weep salt-water.\n\nYou close yo",
+      "[auto] Dawn (06:08:00) over the Mud Gate, King's Landing\u2014the air is a physical weight, vibrating with the dual-pulse of the titans hovering in a celestial alignment of death. You sit atop Vermithor (Lvl 20), your spine a pillar of Apex steel, while Vhagar (Lvl 20) drifts like a hoar-white mountain to your right. Beneath you, the Queen's envoy (Lvl 3) stands on the quay, their voice echoing through the hushed harbor as they deliver the terms of surrender.\n\nYou feel the terrifying, sun-bright heat",
+      "[auto] Dawn (06:13:00) over the Red Keep finds the city of King's Landing trapped in a suffocating, airless eternity. You remain suspended between the gold of the rising sun and the cold iron of the Blackwater, the rhythmic, subsonic rumble of Vermithor (Lvl 20) and Vhagar (Lvl 20) vibrating through your very skeleton. The silence from the battlements below is a physical weight, a mute defiance that seems to absorb the resonant echoes of your command without yielding a single sound.\n\nYou sit ato",
+      "[auto] Dawn (06:20:00) over the Blackwater Bay\u2014the morning light is a pale, watery gold that struggles to pierce the bronze-and-bone canopy cast by your dragons. You remain in a steady hover above the deck of *The Sea Snake*, the rhythmic, furnace-like exhale of Vermithor (Lvl 20) vibrating through your boots. Below, Queen Rhaenyra (Lvl 15) stands at the railing, her violet eyes fixed on the dark, silent windows of the Red Keep. The air is thick with the scent of ozone and the heavy, metallic ta",
+      "[auto] Dawn (06:21:00) in the Outer Ward of the Red Keep\u2014the air is a suffocating slurry of stone-dust and the blistering heat radiating from Vermithor's bronze scales. You stand amidst the cracked cobblestones, your silver-blonde hair whipping like a pale flame in the vacuum created by the Bronze Fury's arrival. The Gold Cloaks are no longer a fighting force; they are a collection of trembling shadows, their spears clattering to the ground as the reality of your presence sinks into their marrow",
+      "[auto] Dawn (06:40:00) in the Outer Ward of the Red Keep finds the ancient stone sighing under the tectonic weight of the Bronze Fury. You stand at the threshold of the castle, your Transcendent Presence cutting through the morning mist like a golden blade. Behind you, Gerrick (Lvl 3) plants his massive hammer into the cracked cobblestones, his shoulders squared as he coordinates with the remaining Gold Cloaks (Lvl 2). His voice, steady and unyielding, commands the gatehouse with a authority tha",
+      "[auto] Dawn (06:45:00) in the dim, torchlit corridors of the Red Keep finds the air thick with the scent of old dust and the sharp, metallic tang of unsheathed steel. You feel the raw heat of the Fourteen Flames demanding you simply reach out and incinerate the white-enameled wall blocking your path, but you take a slow, deliberate breath, drawing the Apex mantle inward. With a fluid, silent grace, you step back into the shadow of the pillars, bowing your head in a display of absolute, calculate",
+      "[auto] Dawn (06:45:30) in the dim, torchlit corridors of the Red Keep\u2014the air is a physical weight, vibrating with the dual-pulse of the titans you command. You stand behind Queen Rhaenyra (Lvl 15), your Transcendent Presence radiating a cold, crystalline stillness that seems to make the very shadows cower. You do not reach for a blade; you reach for the minds of the four knights of the Kingsguard (Lvl 10) who stand like pale ghosts before the Great Hall's doors.\n\nYou close your eyes, tapping in"
+    ],
+    "arc_milestones": {
+      "primary_arc": {
+        "phase": "The Sovereign's Return",
+        "progress": 100,
+        "status": "completed"
+      }
+    },
+    "ascension_meter": 85,
+    "last_location": "Throne Room Entrance, Red Keep",
+    "active_missions": [
+      {
+        "mission_id": "claim_the_fury",
+        "status": "accepted",
+        "objective": "Claim Vermithor without alerting the court to your true power.",
+        "title": "Claim the Bronze Fury"
+      }
+    ],
+    "campaign_tier": "mortal",
+    "character_creation_completed": true,
+    "attribute_system": "D&D",
+    "character_creation_in_progress": false,
+    "expectations_meter": "DELETE",
+    "completed_missions": [],
+    "companion_arcs": {},
+    "active_constraints": [
+      "Visenya knows she is a Belaerys (Apex)",
+      "Magic is recognized as sovereign mandate",
+      "Theme: Total Apotheosis",
+      "Apex Instinct: Dragons have a baseline Easy DC (8) to obey Visenya.",
+      "Dragon Prodigy: Masterful grasp of dragon-kind is fully integrated."
+    ],
+    "social_hp_challenge": {
+      "social_hp": 0,
+      "resistance_shown": "She has fully yielded her mind to your bloodline.",
+      "status": "SURRENDERED",
+      "successes": 5
+    },
+    "success_streak": 5,
+    "universe_control": 0,
+    "next_companion_arc_turn": 3,
+    "god_mode": {
+      "setting": "Dragonstone (The Sowing, 129 AC)\nPlayer Character: Visenya \"Silver\" Belaerys\nClass: Dragon Lord (Sorcerer Subclass)\nRole: Secret Apex Heir / Rhaenyra\u2019s Hidden Weapon\nSection 1: Campaign Intro\n * Title: The Apex of Ash: The Sowing\n * The Concept: The Dance of Dragons has begun. Queen Rhaenyra, desperate to match the Green\u2019s firepower, has called for \"Dragonseeds\" to claim the riderless dragons on the Dragonmont. You are Visenya Belaerys, the sole survivor of the Valyrian \"Apex\" line. You have come to claim Vermithor, the Bronze Fury, not because you are a bastard seeking glory, but because you are a queen seeking her throne.\n * The Hook: You possess a natural Charisma (18) that bends wills and reality alike. You must secure a dragon and rise in Rhaenyra's court without terrifying her into seeing you as a rival. If you shine too bright, you wake the Architects of Silence (Ancient Valyrian Hunters); if you stay too dim, you die a peasant.\nSection 2: Character Dynamics\n * Name: Visenya (Alias: \"Silver\").\n * Visuals: Exceptional Beauty hidden beneath soot and wool. When you speak in the Noblest Dialect, your voice resonates in the bones of those who hear it.\n * The Anchor (Mortal Tie): Gerrick the Smith. A massive, kind-hearted brute of a Dragonseed. He believes you are just a clever peasant girl. He protects you from physical threats; you protect him from magical and political ones.\n * Rhaenyra Targaryen: She views you as a \"lucky find\"\u2014a peasant with strange potential. She wants to use you. You plan to let her, until you are strong enough to lead.\nSection 3: Class - Dragon Lord (Sorcerer Subclass)\n * Base Class: Sorcerer.\n * Subclass: Apex Bloodline.\n * Primary Stat: Charisma (18). Your magic is force of personality and bloodright.\n * Unique Mechanic: Subtle Apotheosis.\n   * You gain the Subtle Spell Metamagic for free.\n   * When casting spells that influence the mind (Command, Suggestion, Charm Person) or affect Dragons, you do not need to spend Sorcery Points to use Subtle Spell. The magic simply happens, appearing as \"divine luck\" or \"royal authority.\"\n * Feature: The Noblest Dialect.\n   * You have Advantage on all Charisma checks when speaking High Valyrian to Valyrian descendants or Dragons.\n * The Ascension Meter (The Threat Gauge):\n   * Current: 0/100.\n   * Trigger: Using your Apex Aura (Raw CHA force to crush a mind or command a dragon) raises the meter.\n   * Consequence: High meter attracts Mage Slayers (The Architects) and triggers Rhaenyra\u2019s paranoia. Low meter keeps you safe but limits your influence.\nSection 4: The Starting Scene - The Bronze Fury\nLocation: The Dragonmont, Dragonstone.\nAtmosphere: The cavern is a hellscape of sulfur and heat. Vermithor, the Bronze Fury\u2014the second largest dragon in the world\u2014coils around a mound of ash. He is old, angry, and lonely. He has just incinerated a knight who tried to use a whip on him.\nThe Situation: Queen Rhaenyra stands on the high ridge, her face a mask of frustration. \"Is there no one?\" she demands. The remaining seeds are cowering. Gerrick stands beside you, clutching his rusted hammer, trembling. \"He's too big, Silver. We should go.\"\nThe Problem: The Dragonkeepers are moving to block the entrance, intending to end the Sowing for the day. If they do, you lose your chance to claim the Bronze Fury.\nThe Action: Gerrick takes a hesitant step forward to protect you, but Vermithor\u2019s throat glows with magma-light. He prepares to fire.\n * A) The Blood-Link (Sorcerous Influence): Use Subtle Casting (Calm Emotions) to snuff out Vermithor\u2019s rage instantly. To the onlookers, it looks like the dragon simply decided to spare the \"brave smith.\" You then guide Gerrick to the dragon's flank, claiming you are just \"helping.\" (Keeps Threat Low, Secures Gerrick as an ally).\n * B) The Apex Command (Raw Charisma): Step past Gerrick. Drop your mental shields and project your Apex Aura directly at Vermithor. Speak one word in the Noblest Dialect: \"Lykir\u012b\" (Calm). The dragon won't just stop; he will bow. (Secures Vermithor instantly; Raises Ascension Meter +15; Rhaenyra sees your power).\n * C) The Illusory Echo: Use Minor Illusion to recreate the sound of King Jaehaerys\u2019s old voice (Vermithor's previous rider). In his confusion, you and Gerrick rush the gap. (Risky; relies on Deception).\nWhat is your command, Dragon Lord?",
+      "description": "Here is the updated Campaign Bible for The Apex of Ash: The Sowing, refactored for a Charisma-based Sorcerer build. This fits your \"Belaerys Blood\" concept perfectly\u2014your magic isn't learned from books; it is the raw, terrifying heat of the Fourteen Flames demanding obedience.\nCampaign Bible: The Apex of Ash (Dance of the Dragons)\nSetting: Dragonstone (The Sowing, 129 AC)\nPlayer Character: Visenya \"Silver\" Belaerys\nClass: Dragon Lord (Sorcerer Subclass)\nRole: Secret Apex Heir / Rhaenyra\u2019s Hidden Weapon\nSection 1: Campaign Intro\n * Title: The Apex of Ash: The Sowing\n * The Concept: The Dance of Dragons has begun. Queen Rhaenyra, desperate to match the Green\u2019s firepower, has called for \"Dragonseeds\" to claim the riderless dragons on the Dragonmont. You are Visenya Belaerys, the sole survivor of the Valyrian \"Apex\" line. You have come to claim Vermithor, the Bronze Fury, not because you are a bastard seeking glory, but because you are a queen seeking her throne.\n * The Hook: You possess a natural Charisma (18) that bends wills and reality alike. You must secure a dragon and rise in Rhaenyra's court without terrifying her into seeing you as a rival. If you shine too bright, you wake the Architects of Silence (Ancient Valyrian Hunters); if you stay too dim, you die a peasant.\nSection 2: Character Dynamics\n * Name: Visenya (Alias: \"Silver\").\n * Visuals: Exceptional Beauty hidden beneath soot and wool. When you speak in the Noblest Dialect, your voice resonates in the bones of those who hear it.\n * The Anchor (Mortal Tie): Gerrick the Smith. A massive, kind-hearted brute of a Dragonseed. He believes you are just a clever peasant girl. He protects you from physical threats; you protect him from magical and political ones.\n * Rhaenyra Targaryen: She views you as a \"lucky find\"\u2014a peasant with strange potential. She wants to use you. You plan to let her, until you are strong enough to lead.\nSection 3: Class - Dragon Lord (Sorcerer Subclass)\n * Base Class: Sorcerer.\n * Subclass: Apex Bloodline.\n * Primary Stat: Charisma (18). Your magic is force of personality and bloodright.\n * Unique Mechanic: Subtle Apotheosis.\n   * You gain the Subtle Spell Metamagic for free.\n   * When casting spells that influence the mind (Command, Suggestion, Charm Person) or affect Dragons, you do not need to spend Sorcery Points to use Subtle Spell. The magic simply happens, appearing as \"divine luck\" or \"royal authority.\"\n * Feature: The Noblest Dialect.\n   * You have Advantage on all Charisma checks when speaking High Valyrian to Valyrian descendants or Dragons.\n * The Ascension Meter (The Threat Gauge):\n   * Current: 0/100.\n   * Trigger: Using your Apex Aura (Raw CHA force to crush a mind or command a dragon) raises the meter.\n   * Consequence: High meter attracts Mage Slayers (The Architects) and triggers Rhaenyra\u2019s paranoia. Low meter keeps you safe but limits your influence.\nSection 4: The Starting Scene - The Bronze Fury\nLocation: The Dragonmont, Dragonstone.\nAtmosphere: The cavern is a hellscape of sulfur and heat. Vermithor, the Bronze Fury\u2014the second largest dragon in the world\u2014coils around a mound of ash. He is old, angry, and lonely. He has just incinerated a knight who tried to use a whip on him.\nThe Situation: Queen Rhaenyra stands on the high ridge, her face a mask of frustration. \"Is there no one?\" she demands. The remaining seeds are cowering. Gerrick stands beside you, clutching his rusted hammer, trembling. \"He's too big, Silver. We should go.\"\nThe Problem: The Dragonkeepers are moving to block the entrance, intending to end the Sowing for the day. If they do, you lose your chance to claim the Bronze Fury.\nThe Action: Gerrick takes a hesitant step forward to protect you, but Vermithor\u2019s throat glows with magma-light. He prepares to fire.\n * A) The Blood-Link (Sorcerous Influence): Use Subtle Casting (Calm Emotions) to snuff out Vermithor\u2019s rage instantly. To the onlookers, it looks like the dragon simply decided to spare the \"brave smith.\" You then guide Gerrick to the dragon's flank, claiming you are just \"helping.\" (Keeps Threat Low, Secures Gerrick as an ally).\n * B) The Apex Command (Raw Charisma): Step past Gerrick. Drop your mental shields and project your Apex Aura directly at Vermithor. Speak one word in the Noblest Dialect: \"Lykir\u012b\" (Calm). The dragon won't just stop; he will bow. (Secures Vermithor instantly; Raises Ascension Meter +15; Rhaenyra sees your power).\n * C) The Illusory Echo: Use Minor Illusion to recreate the sound of King Jaehaerys\u2019s old voice (Vermithor's previous rider). In his confusion, you and Gerrick rush the gap. (Risky; relies on Deception).\nWhat is your command, Dragon Lord?\n",
+      "character": {
+        "description": "Here is the updated Campaign Bible for The Apex of Ash: The Sowing, refactored for a Charisma-based Sorcerer build. This fits your \"Belaerys Blood\" concept perfectly\u2014your magic isn't learned from books; it is the raw, terrifying heat of the Fourteen Flames demanding obedience.\nCampaign Bible: The Apex of Ash (Dance of the Dragons)\nSetting: Dragonstone (The Sowing, 129 AC)\nPlayer Character: Visenya \"Silver\" Belaerys\nClass: Dragon Lord (Sorcerer Subclass)\nRole: Secret Apex Heir / Rhaenyra\u2019s Hidden Weapon\nSection 1: Campaign Intro\n * Title: The Apex of Ash: The Sowing\n * The Concept: The Dance of Dragons has begun. Queen Rhaenyra, desperate to match the Green\u2019s firepower, has called for \"Dragonseeds\" to claim the riderless dragons on the Dragonmont. You are Visenya Belaerys, the sole survivor of the Valyrian \"Apex\" line. You have come to claim Vermithor, the Bronze Fury, not because you are a bastard seeking glory, but because you are a queen seeking her throne.\n * The Hook: You possess a natural Charisma (18) that bends wills and reality alike. You must secure a dragon and rise in Rhaenyra's court without terrifying her into seeing you as a rival. If you shine too bright, you wake the Architects of Silence (Ancient Valyrian Hunters); if you stay too dim, you die a peasant.\nSection 2: Character Dynamics\n * Name: Visenya (Alias: \"Silver\").\n * Visuals: Exceptional Beauty hidden beneath soot and wool. When you speak in the Noblest Dialect, your voice resonates in the bones of those who hear it.\n * The Anchor (Mortal Tie): Gerrick the Smith. A massive, kind-hearted brute of a Dragonseed. He believes you are just a clever peasant girl. He protects you from physical threats; you protect him from magical and political ones.\n * Rhaenyra Targaryen: She views you as a \"lucky find\"\u2014a peasant with strange potential. She wants to use you. You plan to let her, until you are strong enough to lead.\nSection 3: Class - Dragon Lord (Sorcerer Subclass)\n * Base Class: Sorcerer.\n * Subclass: Apex Bloodline.\n * Primary Stat: Charisma (18). Your magic is force of personality and bloodright.\n * Unique Mechanic: Subtle Apotheosis.\n   * You gain the Subtle Spell Metamagic for free.\n   * When casting spells that influence the mind (Command, Suggestion, Charm Person) or affect Dragons, you do not need to spend Sorcery Points to use Subtle Spell. The magic simply happens, appearing as \"divine luck\" or \"royal authority.\"\n * Feature: The Noblest Dialect.\n   * You have Advantage on all Charisma checks when speaking High Valyrian to Valyrian descendants or Dragons.\n * The Ascension Meter (The Threat Gauge):\n   * Current: 0/100.\n   * Trigger: Using your Apex Aura (Raw CHA force to crush a mind or command a dragon) raises the meter.\n   * Consequence: High meter attracts Mage Slayers (The Architects) and triggers Rhaenyra\u2019s paranoia. Low meter keeps you safe but limits your influence.\nSection 4: The Starting Scene - The Bronze Fury\nLocation: The Dragonmont, Dragonstone.\nAtmosphere: The cavern is a hellscape of sulfur and heat. Vermithor, the Bronze Fury\u2014the second largest dragon in the world\u2014coils around a mound of ash. He is old, angry, and lonely. He has just incinerated a knight who tried to use a whip on him.\nThe Situation: Queen Rhaenyra stands on the high ridge, her face a mask of frustration. \"Is there no one?\" she demands. The remaining seeds are cowering. Gerrick stands beside you, clutching his rusted hammer, trembling. \"He's too big, Silver. We should go.\"\nThe Problem: The Dragonkeepers are moving to block the entrance, intending to end the Sowing for the day. If they do, you lose your chance to claim the Bronze Fury.\nThe Action: Gerrick takes a hesitant step forward to protect you, but Vermithor\u2019s throat glows with magma-light. He prepares to fire.\n * A) The Blood-Link (Sorcerous Influence): Use Subtle Casting (Calm Emotions) to snuff out Vermithor\u2019s rage instantly. To the onlookers, it looks like the dragon simply decided to spare the \"brave smith.\" You then guide Gerrick to the dragon's flank, claiming you are just \"helping.\" (Keeps Threat Low, Secures Gerrick as an ally).\n * B) The Apex Command (Raw Charisma): Step past Gerrick. Drop your mental shields and project your Apex Aura directly at Vermithor. Speak one word in the Noblest Dialect: \"Lykir\u012b\" (Calm). The dragon won't just stop; he will bow. (Secures Vermithor instantly; Raises Ascension Meter +15; Rhaenyra sees your power).\n * C) The Illusory Echo: Use Minor Illusion to recreate the sound of King Jaehaerys\u2019s old voice (Vermithor's previous rider). In his confusion, you and Gerrick rush the gap. (Risky; relies on Deception).\nWhat is your command, Dragon Lord?",
+        "name": "Visenya baelarys"
+      }
+    },
+    "last_story_mode_sequence_id": 346
+  },
+  "social_hp_challenge": {
+    "request_severity": "submission",
+    "skill_used": "Persuasion",
+    "successes_needed": 5,
+    "social_hp_max": 5,
+    "objective": "Force surrender/Entry to Throne Room",
+    "roll_result": 20,
+    "npc_tier": "noble",
+    "social_hp_damage": 0,
+    "roll_dc": 18,
+    "npc_name": "Ser Willis Fell & Kingsguard",
+    "resistance_shown": "\"The Prince is... truly gone?\"",
+    "cooldown_until_hour": 18,
+    "cooldown_remaining": 0,
+    "npc_id": "",
+    "successes": 0,
+    "social_hp": 5,
+    "status": "WAVERING"
+  },
+  "combat_state": {
+    "combat_phase": "idle",
+    "combat_history": [
+      {
+        "xp_awarded": 250,
+        "enemies_defeated": [
+          "npc_green_scout_004",
+          "npc_green_scout_005",
+          "npc_green_scout_006"
+        ],
+        "session_id": "combat_129_rooks_rest_caves",
+        "archived_at": "2026-02-05T08:02:22.419070+00:00",
+        "loot_distributed": true,
+        "rounds_fought": 1
+      }
+    ],
+    "current_round": null,
+    "initiative_order": [],
+    "in_combat": false,
+    "combatants": {},
+    "combat_session_id": null,
+    "rewards_processed": false,
+    "combat_summary": null
+  },
+  "last_state_update_timestamp": "2026-02-06 06:48:26.559000+00:00",
+  "turn_number": 103,
+  "player_turn": 103,
+  "last_living_world_turn": 102,
+  "last_living_world_time": {
+    "year": 129,
+    "month": "The Sowing",
+    "microsecond": 0,
+    "minute": 40,
+    "hour": 6,
+    "time_of_day": "Dawn",
+    "day": 30,
+    "second": 0
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {
+    "last_note": "HD: 9/9, Spells: L1 4/4, L2 3/3, L3 2/2, L5 1/1, SP: 2/5"
+  },
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "debug_info": {
+    "dm_notes": [
+      "Character creation flag cleared as per Story Mode transition rules.",
+      "Time set to Morning of the Sowing.",
+      "Attributes and Spells are currently locked into the D&D 5E SRD format.",
+      "Attributes updated to user specifications: Even numbers, 18 CHA, 16 DEX, 14 CON.",
+      "Character creation flag cleared as requested by protocol for Story/Character mode transition.",
+      "Class progression designed up to Level 30 including mythic tiers.",
+      "Ensured character creation flag is cleared in output.",
+      "Subtle Apotheosis and Noblest Dialect confirmed as starting features.",
+      "Subtle Spell (Calm Emotions) used to avoid SP cost per subclass feature.",
+      "Noblest Dialect granted Advantage on the check.",
+      "Ascension meter increased slightly (+2) for the subtle use of command.",
+      "Deception check succeeded with a total of 22 against DC 14.",
+      "Ascension meter remains at 2 as no raw power was projected this turn.",
+      "Gerrick's loyalty is reinforced by being called to 'help' in a moment of feigned crisis.",
+      "Animal Handling check (using CHA) failed with an 11 vs DC 12.",
+      "Narrative reflects a 'clumsy' performance that maintains the peasant persona but introduces doubt about her 'gift'.",
+      "Ascension meter remains at 2 as no raw power was projected.",
+      "Deception check succeeded (21 vs DC 15). Rhaenyra is impressed but suspicious of the lineage.",
+      "Social HP for Rhaenyra is not yet active as this was an observation, not a direct persuasion.",
+      "Animal Handling failed (8 vs 14), resulting in a chaotic, uncontrolled flight.",
+      "Deception succeeded (14 vs 12), successfully selling the 'Lucky Peasant' narrative to Rhaenyra.",
+      "Ascension meter remains at 2 as the 'S\u014dvegon' command was whispered, not projected with Apex Aura.",
+      "Animal Handling success (18 vs 15) allowed for a safe landing despite the dragon's agitation.",
+      "Landing was narrated as 'heavy' and 'chaotic' to maintain the persona despite the mechanical success.",
+      "Ascension meter remains at 2; no raw power was used to force the landing.",
+      "Rhaenyra's suspicion remains a primary narrative driver.",
+      "Visenya's Deception succeeded, so everyone believes she is just drunk.",
+      "Animal Handling failed (14 vs 15), so Vermithor is not yet calmed by her presence.",
+      "Daemon's reaction is hostile/contemptuous as per directives.",
+      "Rhaenyra's reaction is pitying/worried as per directives.",
+      "User clarified that the drunken persona is genuine, not a deception. This aligns with the 'Low Self-Esteem' and 'Drunken Resilience' active effects.",
+      "DC 12 was set for the coordination check (DEX) to walk off the dragon while drunk.",
+      "The 19 on the die (total 22) results in a 'Masterful' coordination despite her state, which Daemon notices as suspicious.",
+      "Rhaenyra's reaction remains consistent with 'pitying fondness' as per directives.",
+      "Rhaenyra's initial refusal (DC 15) failed, but Jacaerys's support (DC 12 success) shifted the dynamic.",
+      "A final combined check (DC 16) succeeded due to a high roll (19), reflecting the Queen's desperation.",
+      "Subtle Apex influence (Animal Handling with Advantage) succeeded (18 vs 15), explaining the dragon's unusual calm.",
+      "Ascension meter maintained at 2 as the influence was subtle and internal.",
+      "Animal Handling check (DC 15) succeeded with a total of 15 using Advantage from Noblest Dialect.",
+      "Ascension meter maintained at 2; the magic used was subtle enough to be perceived as 'beast-whispering'.",
+      "Rhaenyra and Daemon's reactions are consistent with their established pity/contempt patterns.",
+      "Gerrick remains the 'Anchor', reacting with protective fear.",
+      "Flight initiated. Success on Animal Handling (16 vs 15) but failure on balance (6 vs 12) leads to the 'chaotic' narrative. Ascension meter +2 for subtle flight command.",
+      "DC set to 8 as requested by player for 'Easy DC' due to Apex heritage.",
+      "Animal Handling success (14 vs 8) results in 2 Social HP damage to Vermithor's resistance.",
+      "Ascension meter +2 for continued subtle use of the Noblest Dialect.",
+      "Narrative reflects the 'Awakening' theme: Visenya attributes the stabilization to the dragon's pity rather than her own power.",
+      "Dexterity check (19 vs DC 14) succeeded, allowing for the stable 'drunk' display.",
+      "Performance check (15 vs DC 12) succeeded, keeping the family's pity intact.",
+      "Ascension meter +2 for the subtle use of the Noblest Dialect to keep the flight stable.",
+      "Drunken Resilience advantage wasn't needed as no Fear effects were present.",
+      "Animal Handling success (16 vs DC 8) allowed for a 'Masterful' dragon landing.",
+      "Dexterity failure (6 vs DC 12) resulted in the stumble/fall to maintain the 'Drunken' reality.",
+      "Social HP for Vermithor reduced to 8; the dragon is effectively 'broken' to her will.",
+      "XP awarded for successful first flight and landing.",
+      "Ascension meter +2 for the unintentional use of High Valyrian during the landing.",
+      "Visenya's genuine intoxication is influencing the narrative flow.",
+      "The 'Drunken Whisperer' synergy check succeeded (16 vs DC 10), reinforcing the 'Lucky Drunk' persona.",
+      "Social interaction with Rhaenyra succeeded (17 vs DC 12), shifting her mood toward protective guilt.",
+      "Ascension meter +2 for the continued subtle resonance of the Noblest Dialect.",
+      "Internal monologues provided as requested to deepen the narrative stakes.",
+      "Natural 20 on Persuasion (Social Interaction) resulted in a 'Masterful' reaction from Rhaenyra.",
+      "Ascension meter +2 for the continued subtle resonance of the Noblest Dialect during the landing.",
+      "Rhaenyra's reaction is now shifted toward 'Protective Oversight' rather than 'Pure Disbelief'.",
+      "Daemon's curiosity is piqued by the 'Masterful' social recovery despite Visenya's state.",
+      "Visenya's Persuasion roll (20 vs DC 12) resulted in a Masterful success, deeply affecting Rhaenyra's emotional state.",
+      "Rhaenyra's memories of Visenya's loyalty are now codified in the relationship history.",
+      "The 'Awakening' theme is reinforced by the sincere promise to change.",
+      "Daemon's suspicion is maintained to provide narrative tension despite the familial joy.",
+      "Visenya's Persuasion roll (15 vs DC 12) was successful.",
+      "Relationship with Rhaenyra increased to 'Trusted' (+6).",
+      "Awakening theme reinforced by Rhaenyra's internal memory of Visenya's loyalty.",
+      "Visenya's Persuasion roll (17+4=21 vs DC 12) resulted in a Masterful bonding success with the princes.",
+      "Awakening theme reinforced by the internal monologue of inadequacy shifting toward potential.",
+      "Faction power updated based on tool results: 17,077 FP, Ranking #185.",
+      "XP awarded for successful dragon claim + prince bonding; character leveled up to 2.",
+      "Expectations meter increased by +5 for taking training and sobriety seriously.",
+      "Insight check succeeded (18 vs DC 11).",
+      "Expectations meter +2 for successful absorption of training material.",
+      "Visenya's self-esteem disadvantage was applied to the DC calculation.",
+      "Awakening theme reinforced by the success in understanding complex tactics.",
+      "Faction stats updated via tool execution: 15,827 FP, Rank #186.",
+      "Persuasion check succeeded (14 vs 12) despite disadvantage from Expectations < 50.",
+      "Insight check failed (5 vs 15) due to Low Self-Esteem active effect.",
+      "Expectations meter increased by +3 for successful sincere interaction with high-status family members.",
+      "Faction stats confirmed: 15,827 FP, Rank #186.",
+      "Awakening theme reinforced: The disconnect between NPC perception (rising) and PC self-perception (low) continues.",
+      "Expectations meter decreased by -3 due to public failure during training.",
+      "Awakening theme: failure reinforces the PC's belief that her previous success was a fluke.",
+      "Disadvantage from low Expectations (<50) was considered but the roll was a natural 3 anyway.",
+      "Character level 2 displayed for all named entities.",
+      "Natural 1 on the d20 roll results in a catastrophic failure regardless of the +8 modifier.",
+      "Expectations meter decreased by -2 due to the public and clumsy nature of the fall.",
+      "Low Self-Esteem active effect is narratively reinforced.",
+      "Dragon Expertise was applied to the roll calculation but could not overcome the crit-fail.",
+      "Faction stats updated: 15,827 FP, Rank #186.",
+      "Expectations meter at 20 triggers Disadvantage on social checks to be taken seriously.",
+      "Low Self-Esteem effect is being narratively prioritized.",
+      "Failure on DC 14 check results in meter decrease.",
+      "Low Self-Esteem disadvantage applied to internal assessment.",
+      "Dragon Expertise (+8) was used but failed to meet DC.",
+      "Faction management disabled; assets stripped as per God Mode directive.",
+      "Natural 20 on the Acrobatics check resulted in a Masterful (Total 27) success.",
+      "Expectations meter increased by +8 for the Masterful public performance.",
+      "XP awarded: 250 (Base 200 + 50 Quality Bonus).",
+      "Faction assets stripped per God Mode directive: FP 0, Rank UNRANKED.",
+      "Sorcery point usage acknowledged in mechanics.",
+      "Timeskip applied: 3 hours 10 minutes elapsed.",
+      "Princes' ages confirmed: Jacaerys (15), Lucerys (14).",
+      "Expectations meter increased by +8 for the Masterful success (Narrative achievement).",
+      "XP awarded for successful training session (Significant skill success).",
+      "Awakening theme reinforced: Princes see the potential, Visenya still doubts herself.",
+      "Faction management confirmed disabled: FP 0, Rank UNRANKED.",
+      "Visenya's low self-esteem is currently the primary narrative filter.",
+      "Relationship with Jacaerys and Lucerys is 'Devoted/Fond' but lacks 'Professional Respect' from her perspective.",
+      "The failed Insight check ensures the 'Awakening' theme remains a slow burn.",
+      "Insight check failed (5 vs 12) due to Low Self-Esteem active effect.",
+      "Faction Power explicitly set to 0 per God Mode directive.",
+      "Character level display rules enforced for all mentioned entities.",
+      "Timestamp synchronized with state updates.",
+      "Successful Dragon Expertise (+10 margin) results in deep tactical insights.",
+      "Awakening theme reinforced: PC attributes success to 'tavern tales' while NPCs see strategy.",
+      "XP awarded for significant skill success (150 XP).",
+      "Faction status confirmed as UNRANKED (FP 0) per God Mode directives.",
+      "Timestamp updated to 16:40:00.",
+      "Coordination check failed with a Natural 1.",
+      "Visenya gains Exhaustion Level 1 due to all-nighter + failed roll.",
+      "Expectations meter decreased by -1 due to her disheveled appearance at dawn.",
+      "Insight check failed, maintaining the 'Awakening' theme disconnect.",
+      "XP awarded for the milestone of completing the first tactical plan, despite the failure on coordination.",
+      "Faction power results confirmed: 0 FP, UNRANKED.",
+      "Expectations meter increased by +6 for successful pre-flight resonance and sobriety.",
+      "Faction reporting remains silenced in narrative per directive 119, but tracked via tools.",
+      "Character levels correctly displayed for all entities.",
+      "Awakening theme reinforced through Visenya's internal dismissal of the bond.",
+      "Technical Coordination check succeeded (19 vs DC 16).",
+      "Expectations meter increased by +5 for successful technical feat.",
+      "Ascension meter increased by +2 for the subtle use of resonance.",
+      "Awakening theme reinforced: Visenya attributes the synchronization to 'slipping'.",
+      "Faction reporting remains silenced per directive.",
+      "Expectations Meter increased to 76 (Masterful display of dragon mastery + sobriety attempt).",
+      "Sobriety check failed (4 vs 12), resulting in 'Withdrawal Tremors' condition rather than a relapse.",
+      "Dragon Expertise succeeded (21 vs 15), cementing her role as a tactical asset.",
+      "FP confirms as 0, Ranking as UNRANKED per tool results.",
+      "Awakening theme: Visenya attributes her tremors to weakness, but Jace sees them as the cost of her strength.",
+      "Visenya reaches Level 4 after 3-week montage + crafting milestone.",
+      "Expectations meter increased to 82 for the historic crafting feat.",
+      "Withdrawal tremors persist but are narratively manageable.",
+      "The 'Apex Fang' is added as a +1 weapon, per user request for +1 status at this level.",
+      "Rhaenyra's reaction is shifted from 'pitying' to 'awe-struck' as the Awakening theme progresses.",
+      "Failed rolls for crafting and persuasion were used to narratively reinforce the 'Lucky Drunk/Awakening' theme where the character feels the success was a fluke despite the outcome.",
+      "Retconned Apex Fang (dagger) to Apex Needle (rapier) found in armory.",
+      "Visenya's failed Insight ensures the Awakening remains a slow burn of self-doubt.",
+      "Expectations meter increased to 85 (+3) for the historical artifact find.",
+      "Valyrian Smithing progression locked to Lvl 6/9/12 as requested.",
+      "Visenya's successful Insight check provides a rare moment of clarity regarding her worth.",
+      "Expectations meter increased to 88 (+3) for the council elevation.",
+      "Persona maintenance successful; the court still believes she is 'lucky' rather than powerful.",
+      "Faction power remains at 0 and Rank at UNRANKED as per directive.",
+      "Performance check succeeded (13 vs 12), maintaining the persona.",
+      "Insight check failed (8 vs 15) due to Low Self-Esteem effect, maintaining the 'Awakening' theme disconnect.",
+      "Timestamp updated to 09:15:00.",
+      "Faction status remains silenced per directive.",
+      "Expectations meter increased to 91 (+3) for the Queen's public defense of her status, clearing the 'Drunk' stigma threshold (90).",
+      "Insight check for council succeeded (17 vs 12), allowing the council to recognize Rhaenyra's genuine emotional investment and lack of competitive malice.",
+      "Rhaenyra's lack of jealousy is codified until Level 16 as per directive.",
+      "Faction power verified at 0 FP (UNRANKED) based on current direct command assets.",
+      "Timestamp updated to 09:20:00.",
+      "Visenya's command of Vermithor remains exceptionally high due to Apex Instinct.",
+      "The Withdrawal Tremors condition is present but did not prevent a successful mount due to the low DC.",
+      "Jacaerys is observing her 'prodigy' level resonance with growing tactical interest.",
+      "Expectations meter remains high at 91, meaning Jace treats her as a peer rider.",
+      "Faction status remains UNRANKED (0 FP) as Visenya commands only her dragon.",
+      "Perception check succeeded with a total of 22.",
+      "Awakening theme: Visenya attributes the find to a 'lucky shimmer' rather than her own resonance.",
+      "Timestamp updated to 09:45:00.",
+      "Faction status confirmed as UNRANKED with 0 FP per tool results.",
+      "Expectations meter increased to 93 (+2) for successful coordination and signaling.",
+      "Faction status remains UNRANKED with 0 FP as Visenya commands only her dragon.",
+      "Stealth check succeeded with a Natural 20.",
+      "Animal Handling succeeded despite a Natural 1 due to the baseline DC 8 directive.",
+      "Awakening theme: Visenya attributes her successful concealment to 'lucky mist'.",
+      "Expectations meter remains high at 93, representing Jace's growing tactical respect for her 'luck'.",
+      "Faction status confirmed as UNRANKED with 0 FP based on tool execution.",
+      "Animal Handling (Dragon Expertise) check succeeded with a total of 26 vs DC 8.",
+      "Subtle Apotheosis enabled a stealthy command that Jace misinterpreted as natural intimidation.",
+      "Expectations meter increased to 95 (+2) for successful coordination.",
+      "Ascension meter increased to 18 (+2) for subtle sorcerous use.",
+      "Faction Power confirmed at 0 FP (UNRANKED) per God Mode directive.",
+      "Timestamp updated to 10:00:00.",
+      "Animal Handling (Dragon Expertise) check succeeded (13 vs DC 12).",
+      "Timestamp updated to 10:10:00.",
+      "Expectations meter increased to 96 (+1) for successful pursuit coordination.",
+      "Ascension meter increased to 20 (+2) for the subtle resonance used to track the target.",
+      "Awakening theme: Visenya attributes the tracking to 'lucky mist' despite the mechanical success.",
+      "Intimidation check failed (11 vs 15), but narrative yields to dragon presence.",
+      "Social HP remains at 1.",
+      "Timestamp updated to 10:15:00.",
+      "XP awarded for successful landing and surrender (100 XP).",
+      "Interrogation check failed (9 vs 15) due to a low roll, narratively linked to the Low Self-Esteem active effect.",
+      "Timestamp updated to 10:20:00.",
+      "Faction status remains UNRANKED with 0 FP per requested silence and assets removal.",
+      "Intimidation check failed (11 vs 15) using Python code_execution results.",
+      "Scout Social HP remains at 1; status remains WAVERING.",
+      "Expectations meter maintained at 97.",
+      "Timestamp updated to 10:25:00.",
+      "Interrogation succeeded with a total of 26 vs DC 15.",
+      "Social HP reduced to 0; scout is now SURRENDERED.",
+      "Expectations meter increased to 98 (+2) for the displays of tactical competence.",
+      "XP awarded: 200 (Significant social victory).",
+      "Awakening theme: Visenya attributes the scout's break to his own fear, but Jace sees her burgeoning command.",
+      "Persuasion check failed (10 vs 12). Jace's tactical ambition is the primary driver now.",
+      "Faction Power confirmed at 0 (UNRANKED) based on direct control assets.",
+      "Expectations meter remains at 98; Jace takes Visenya seriously despite her attempts to self-deprecate.",
+      "Awakening theme: Visenya's failure to persuade him reinforces her belief that she has no real authority.",
+      "Timestamp updated to 10:35:00.",
+      "Timestamp updated to 11:00:00.",
+      "Pincer strike succeeded (14 vs DC 14).",
+      "Expectations meter increased to 100 (Maxed for this tier). The 'Drunk' stigma is mechanically removed for major characters.",
+      "Faction status verified: 0 FP, UNRANKED per tool results.",
+      "Awakening theme: Visenya believes the perfect landing was a 'skid' she couldn't control.",
+      "User identified 'dragonets' as non-canon for riding.",
+      "Adjusting terminology to 'Young Dragons' for future encounters.",
+      "Ensured narrative field is empty and faction power is correctly zeroed in the background.",
+      "Persuasion roll of 14 vs DC 12 results in a successful surrender.",
+      "The 'Lucky Drunk' persona is maintained through the stumbling entrance.",
+      "Expectations meter remains at 100 as this is a private victory witnessed by Jace.",
+      "Persuasion roll succeeded (18 vs DC 14).",
+      "Social HP reduced to 4/5.",
+      "Cooldown remaining set to 1 turn.",
+      "Awakening theme: Visenya's presence is starting to override the 'drunk' stigma.",
+      "Faction power verified at 0 FP, UNRANKED.",
+      "Confirmed success: 18 vs 14.",
+      "Corrected Social HP Max from 5 to 3 based on 'guard' tier.",
+      "Applied 1 damage, leaving scout at 2/3 HP.",
+      "Interrogation continues with corrected values.",
+      "Interrogation continues after God Mode correction.",
+      "Roll resulted in a Natural 1 (total 8), so Social HP remains at 2.",
+      "Narrative emphasizes the 'Withdrawal Tremors' condition as the mechanical cause for the failure.",
+      "Faction power remains 0 per directive.",
+      "Jacaerys (Lvl 5) rolled a 5 (Total 11) vs DC 14 for the interrogation.",
+      "Scout Social HP remains at 2/3.",
+      "Status shifted to RESISTING due to the failed pressure attempt.",
+      "Withdrawal Tremors narratively reinforced as the reason for the scout's renewed bravado.",
+      "Subtle Command used to break the scout's resolve.",
+      "Scout critically failed Wisdom Save (1 vs 16).",
+      "Social HP reduced to 0; status updated to SURRENDERED.",
+      "Ascension meter +2 for subtle sorcery use.",
+      "SP tracked as used (1/4) per user request, despite innate free cost for this spell.",
+      "Confirmed Faction Power 0, Ranking UNRANKED.",
+      "Alignment set to Neutral.",
+      "Faction stats confirmed at 0 FP / UNRANKED per tool execution.",
+      "Story advancement remains paused.",
+      "The Natural 1 on Persuasion ensures Jace remains the driving force for the Rook's Rest escalation.",
+      "Visenya's Neutral alignment is being reinforced by the cold execution of the prisoners.",
+      "Expectations meter remains high because the victory was decisive, despite the internal tremors.",
+      "Persuasion check failed (11 vs 18).",
+      "Jace's tactical ambition is the primary driver.",
+      "Visenya's weapon-less state narratively reinforced.",
+      "Perception check succeeded with a 24 vs DC 14.",
+      "Stealth check for dragons succeeded with an 18 vs DC 15.",
+      "Initiative rolled and combat session initialized.",
+      "Ascension meter +2 for the subtle resonance of the flight and landing.",
+      "Expectations meter remains at 100; victory in the first cave reinforced her status.",
+      "Action Resolution Protocol applied to 'eliminate' intent.",
+      "Faction status confirmed: 0 FP, UNRANKED based on tool results.",
+      "Visenya executed a successful command check vs DC 8.",
+      "Vermithor's fire breath successfully eliminated the scouts' horses (environmental target).",
+      "Scouts are now 'Intimidated', granting advantage on the next social check to force surrender.",
+      "Round 1 continues; turn order updated to next enemy scout.",
+      "Visenya utilized her 20 Charisma and Expertise in Animal Handling to effectively end the encounter.",
+      "The incinerated horses provided a significant narrative 'Intimidated' bonus to the DC.",
+      "XP awarded for the successful milestone of denying escape and forcing surrender.",
+      "Interrogation check succeeded with a total of 23 vs DC 10.",
+      "Social HP reduced to 0; scouts are now SURRENDERED.",
+      "Intelligence regarding Aemond's arrival (zenith) and hidden wings (Gullet/Sharp Point) provided.",
+      "XP awarded for masterful interrogation.",
+      "Masterful success on Animal Handling (28 vs 8).",
+      "Ascension meter +2 for subtle resonance used to claim the dragons.",
+      "Young dragons are now narratively 'Yours' (Visenya's), though still property of the Crown.",
+      "Jacaerys's respect for Visenya's 'luck' is reaching a turning point toward recognizing her power.",
+      "Faction status confirmed: 0 FP, UNRANKED per tool results.",
+      "Transport coordination check succeeded (24 vs 12).",
+      "Narrative acknowledges the incinerated horses from seq 200 and adapts to Vermithor-based transport.",
+      "Young dragons are led back to Dragonstone, reinforcing Visenya's 'Yours' status established in God Mode.",
+      "XP awarded for successful return and delivery of high-value intelligence.",
+      "Expectations meter remains high (100) due to the successful completion of a tactical mission.",
+      "Low Self-Esteem constraint updated to scale with level thresholds.",
+      "Faction status confirmed at 0 FP / UNRANKED per tool execution.",
+      "Transport coordination check succeeded (19 vs 10).",
+      "Level 5 reached: Proficiency bonus increases to +3, Sorcery points to 5, and 3rd level spells unlocked.",
+      "Expectations meter maintained at 100; hero status solidified.",
+      "Visenya's failed Insight maintains her 'Awakening' arc disconnect\u2014she doesn't yet feel like the hero they see.",
+      "Rhaenyra's successful strategy roll results in the bold 4-dragon ambush plan.",
+      "Time advanced to 14:15:00, roughly 45 minutes before the predicted Aemond arrival (zenith is 15:00:00).",
+      "Faction status confirmed at 0 FP / UNRANKED per tool results.",
+      "Armor Class updated to 16 with new rider leathers.",
+      "The Apex Needle has been narratively and mechanically transferred to Rhaenyra.",
+      "Expectations meter maintained at 100; hero status solidified among the inner circle.",
+      "Tactical review succeeded with a 25 vs DC 15.",
+      "Visenya's Dragon Expertise and 20 Charisma provided a +11 modifier.",
+      "Time advanced to 14:30:00, 30 minutes before Aemond's predicted arrival.",
+      "Expectations meter remains at 100; hero status confirmed.",
+      "Visenya's Dragon Expertise (+6) and 20 Charisma (+5) provided a total modifier of +11.",
+      "The coordination check succeeded (25 vs DC 12).",
+      "Synergy bonus applied: Zero preparation gaps before takeoff.",
+      "Time advanced by 15 minutes for final equipment and signaling procedures.",
+      "Faction Power remains 0 as requested.",
+      "Expectations meter maintained at 100.",
+      "Visenya utilized her Dragon Expertise (+11) and Advantage from Noblest Dialect (speaking High Valyrian) to coordinate the formation.",
+      "The check resulted in a 30 vs DC 17, representing a Masterful success.",
+      "Time advanced to 15:00:00 (The Zenith).",
+      "Ascension Meter increased by +5 for the resonance of commanding four dragons simultaneously.",
+      "Expectations meter remains at 100 as the inner circle now views her as a tactical anchor.",
+      "Visenya utilized her Dragon Expertise (+11) to coordinate a high-speed Hasted dive.",
+      "Roll resulted in a 28 vs DC 20, representing a Masterful success.",
+      "Ascension Meter increased by +5 for the sorcerous surge of casting Haste on a dragon.",
+      "Time advanced to 15:05:00.",
+      "Expectations meter remains at 100.",
+      "Masterful success on coordination (26 vs 18).",
+      "Ascension meter +2 for the resonance of coordinating three dragons simultaneously.",
+      "Time advanced to 15:07:00.",
+      "Vhagar is now 'Wavering' in the social/threat challenge.",
+      "Aemond's high WIS save prevents the encounter from ending too early via Hold Person.",
+      "Vhagar is Wavering (+1 Success on Social HP challenge for the confusion).",
+      "Ascension meter increased +5 for High Valyrian command and spell use.",
+      "Apex Aura was a success (27 vs 22), stunning Vhagar.",
+      "Coordination check succeeded (23 vs 18), awarding 500 XP.",
+      "Ascension meter +15 total (+10 for Aura, +5 for High Valyrian command).",
+      "Vhagar Social HP reduced by 1.",
+      "Time advanced by 6 seconds for the combat round.",
+      "Vhagar is now one success away from being driven into the sea.",
+      "Vhagar is now driven to sea level, completing the primary tactical objective of the ambush.",
+      "Ascension meter increased to 25 due to the continued use of High Valyrian commands and sorcery.",
+      "Aemond is now waivering and forced into a defensive posture.",
+      "Aemond failed his Wisdom save (15 vs 16) against Hold Person, resulting in his paralysis during the plunge.",
+      "Visenya's masterful command (23 vs 8) successfully drove Vhagar into the sea, completing the primary tactical goal.",
+      "Ascension meter increased to 40 due to high-level bloodline projection.",
+      "Social HP for Vhagar reduced to 0; target SURRENDERED/Neutralized.",
+      "Vhagar's command DC set to 22 per user request for higher difficulty.",
+      "The command check failed (20 vs 22), causing Vhagar to resist surrender and thrash in the water.",
+      "Fleet signal succeeded (20 vs 12), bringing the Velaryon ships into the scene.",
+      "Ascension meter increased to 45 (+5) for continued High Valyrian use.",
+      "Time advanced by 1 minute for the signaling and aftermath.",
+      "Vhagar social HP remains at 9/12; status shifted back to YIELDING from SURRENDERED due to the failed command.",
+      "Aemond is dead, fulfilling the lethal intent of the character.",
+      "Vhagar's DC was set to 22 per user request to move away from DC 8.",
+      "Ascension meter increased to 55 (+10) for the high-level lethal command and aura projection.",
+      "The 'Wait' for Jace/Luke to level up is being handled by the background XP accumulation.",
+      "Vhagar's DC was set to 22 per user request for higher difficulty.",
+      "Ascension meter increased to 65 (+10) for the high-level lethal command and aura projection.",
+      "Coordination check (25 vs 18) and Vhagar command (30 vs 22) both succeeded.",
+      "Social HP for Vhagar reduced to 9.",
+      "Vhagar Social HP reduced to 7.",
+      "Apex Command check (27 vs 22) succeeded by a margin of 5, dealing 2 Social HP damage.",
+      "Ascension meter increased to 75 (+10) for maintaining a full-scale Apex Aura projection.",
+      "Time advanced by 30 seconds for the command and reaction.",
+      "Jacaerys and Rhaenyra are reacting with high-level awe/fear to the display of power.",
+      "Visenya's Acrobatics check was a success (16 vs 15), allowing for a dramatic boarding of Vhagar.",
+      "Ascension meter increased to 80 (+5) for the high-level display of Apex authority and physical boarding.",
+      "Vhagar's Social HP reduced to 6/12; she is effectively neutralized but still requires careful handling.",
+      "Rhaenyra is experiencing high-level tactical shock/paranoia as the 'Black Sheep' ascends.",
+      "Massive XP award for CR 20 takedown + execution.",
+      "Level 6 threshold crossed: Disadvantage from Low Self-Esteem removed.",
+      "Valyrian Smithing training flag added.",
+      "Level up to 8 completed; one ASI pending.",
+      "Low roll (Natural 2) resulted in failure for both the coordination and the command check.",
+      "Vhagar Social HP remains at 6/12.",
+      "Narrative reflects the messy extraction and the lack of progress in subduing the dragon.",
+      "Faction status confirmed as UNRANKED with 0 FP based on tool results.",
+      "XP recalculated for Artifact-Tier achievement.",
+      "Level 9 reached; threshold 48,000 crossed.",
+      "Self-esteem psychological constraint fully removed per God Mode progression rules.",
+      "Visenya has reached Lvl 9 and removed all self-esteem constraints.",
+      "The 'failure' on the Persuasion check reflects the lords' inability to fully trust a being of Visenya's magnitude, regardless of her humility.",
+      "Rhaenyra's trust remains intact, but her existential dread of Visenya's power is now a primary relationship driver.",
+      "Persuasion check succeeded; Social HP for Rhaenyra reduced to 4/6.",
+      "Visenya's status as a 'Loyal Shield' is being integrated into the council's psyche.",
+      "The FACTION POWER result of 0 FP confirms Visenya's theme of individual potency over military command.",
+      "Rhaenyra's trust is active, but the Social HP system tracks the long-term management of her existential dread.",
+      "Visenya succeeded on a high-DC persuasion check to shift the power dynamic with Rhaenyra.",
+      "The 'adoption' request acts as a masterstroke of loyalty that resolves Rhaenyra's jealousy/fear arc for now.",
+      "Visenya's status is now effectively Princess Visenya Targaryen.",
+      "Persuasion check (1d20+9 = 11+9 = 20 vs DC 12) succeeded; Social HP for Rhaenyra reduced to 0.",
+      "XP awarded for the successful milestone of legitimization.",
+      "Faction tools confirm UNRANKED status with 0 FP.",
+      "Persuasion check (1d20+9 = 11+9 = 20 vs DC 10) succeeded.",
+      "Visenya's status as Princess Visenya Targaryen is now the primary narrative driver.",
+      "XP awarded for the successful milestone of family bonding.",
+      "Vhagar is now unchained and freely moving within the Dragonmont, bound only by Visenya's presence.",
+      "Smithing training has been narratively initialized at Level 9.",
+      "Timeskip of 3 days applied to sync with the Queen's diplomatic planning.",
+      "Tactical Insight success (17 vs 15) allows Visenya to influence the Queen's planning.",
+      "XP awarded for strategic contribution.",
+      "Expectations meter removal acknowledged in narrative through NPC reactions.",
+      "Faction power remains 0 as per user directive.",
+      "Coordination check resulted in a Critical Success (29 vs 14).",
+      "XP awarded for successful tactical execution.",
+      "Blockade synergy bonus applied: King's Landing is now a total vacuum.",
+      "Faction power remains 0 as per user directive; Visenya commands her dragons, not the fleet.",
+      "Natural 1 on smithing prevents technical progress this montage.",
+      "Masterful success on patrol ensures King's Landing is a total vacuum.",
+      "Timeskip of 4 days applied to reach the surrender deadline.",
+      "Ascension meter remains high due to the constant presence of titans.",
+      "Coordination check succeeded (19 vs 18).",
+      "Intimidation check resulted in a Critical Success (28 vs 20).",
+      "Ascension meter increased (+5) for the massive display of Apex Aura.",
+      "Time advanced to Dawn (06:00:00).",
+      "XP awarded for the successful tactical demonstration over the capital.",
+      "Visenya utilized her Dragon Expertise (+11 total modifier) to maintain the hover.",
+      "The masterful success (25 vs 12) reflects her now-unshakeable Apex Sovereign status.",
+      "Time advanced by 5 minutes to cover the approach and landing of the envoy.",
+      "Ascension meter remains high due to the constant presence of dual ancient titans.",
+      "Masterful success on coordination (26 vs 14) ensures the dragons remain a terrifying fixture.",
+      "Failure on social check (11 vs 15) means the city remains in a state of chaotic fear rather than orderly submission.",
+      "Ascension meter increased (+5) for the large-scale aura projection attempt.",
+      "Time advanced by 1 minute for the landing and aura duration.",
+      "Masterful success on coordination (33 vs 14) ensures the dragons remain a terrifying fixture.",
+      "Ascension meter increased (+3) to 90, triggering Architect tracking.",
+      "XP awarded for the successful tactical demonstration and synergistic execution.",
+      "Visenya achieved a Masterful success on her Deception check (27 vs 16) to mask her aura.",
+      "Ascension meter reduced by 5 (90 -> 85) due to successful magical suppression.",
+      "Time advanced by 1 minute for the maneuver and the envoy's landing.",
+      "The city remains paralyzed by the subsonic rumble of the titans.",
+      "Perception check failed; the Red Keep remains a 'black box' for now.",
+      "Ascension meter maintained at 85 after the masking success.",
+      "Faction power remains 0 as per user directive; Visenya commands individual assets, not the military bureaucracy.",
+      "Ascension meter increased to 90 due to large-scale Apex aura usage.",
+      "The Architects of Silence are now actively tracking Visenya's signature.",
+      "Aegon's Social HP remains at 10/10 after the failed command.",
+      "Ascension meter maintained at 90 due to large-scale Apex aura usage.",
+      "Faction power remains 0 as per user directive; Visenya commands her dragons, not a military bureaucracy.",
+      "Visenya's Persuasion success (20 vs 15) keeps Rhaenyra's trust intact despite the dread of her power.",
+      "Perception failure (15 vs 20) means the Architects are now 'Hidden' but 'Present'.",
+      "Ascension meter maintained at 90; trigger for Architect encounter is active.",
+      "Faction power remains 0 as per user directive; Visenya commands her dragons, not the bureaucracy.",
+      "Natural 1 on Perception means the Architects are now 'Undetected' but 'Active'.",
+      "Ascension Meter reduced to 85 due to the previous 'Humble' choice.",
+      "Rhaenyra's trust is high, but the threat of Visenya's individual power is the primary narrative tension.",
+      "Visenya used Magical Guidance to reroll a Natural 1 on her coordination check. Incredibly, she rolled another Natural 1, but her +13 modifier was enough to beat the DC 12.",
+      "AP reduced to 80 for acting as the Queen's 'loyal blade'.",
+      "Aegon's Social HP challenge remains active as he is still 'Resisting'.",
+      "Masterful coordination success (31 vs 14) ensures total ward control.",
+      "AP reduced to 75 for acting as a humble signal/loyal blade.",
+      "Aegon's Social HP remains at 10/10 as he is still 'Resisting' direct appearance.",
+      "Visenya's Persuasion success (23 vs 15) ensures the Black Council views her 'Apex' power as a loyal asset rather than a competitive threat for now.",
+      "AP reduced to 70 for the 'Humble Facade' of kneeling and deferring to Rhaenyra.",
+      "The 'prickle' sensation is an active hook for the Architects of Silence, who are nearing a tracking lock.",
+      "Gerrick's successful coordination ensures the Outer Ward is a fortress for the Blacks.",
+      "The failure on the presence check (with a natural 1 on reroll) creates narrative tension at the Throne Room doors.",
+      "AP reduced to 65 for the humble act of kneeling earlier and deferring to the Queen now.",
+      "Visenya acted with humility, triggering the AP reduction to 60.",
+      "Rhaenyra's attempt failed due to a low roll (4 on die), representing the Kingsguard's fanatical devotion to their oath.",
+      "The Knights are Noble tier (5 HP) but the request is Submission (3x), resulting in 15 Social HP.",
+      "The Architects of Silence are active but currently tracking the receding signature.",
+      "Kingsguard are Noble tier (5 HP each) but as a unit they represent 15 Social HP.",
+      "Masterful coordination success (30 vs 14) added a bonus to the social damage.",
+      "AP increased to 65 for the use of high-level sorcerous influence."
+    ]
+  },
+  "entity_tracking": {
+    "active_entities": [
+      "Visenya baelarys",
+      "Visenya \"Silver\" Belaerys",
+      "Visenya Belaerys",
+      "Visenya Targaryen"
+    ],
+    "present_entities": []
+  },
+  "location": "Whispering Cliffs, Rook's Rest",
+  "action_resolution": {
+    "narrative_outcome": "Visenya successfully convinces Rhaenyra and the Dragonkeepers that her taming of Vermithor was a stroke of divine luck rather than intentional sorcery.",
+    "player_input": "Appear shocked by your own luck. Call Gerrick over to help you, keeping the 'Silver' persona intact for Rhaenyra.",
+    "mechanics": {
+      "rolls": [
+        {
+          "notation": "1d20+6",
+          "dc": 14,
+          "modifier": 6,
+          "purpose": "Deception (Lucky Peasant Persona)",
+          "total": 22,
+          "result": 16,
+          "success": true
+        }
+      ],
+      "type": "skill_check"
+    },
+    "interpreted_as": "deception_attempt",
+    "reinterpreted": false,
+    "audit_flags": []
+  },
+  "faction_minigame": {
+    "faction_power": 0,
+    "units": {
+      "soldiers": 0,
+      "spies": 0,
+      "elites": 0,
+      "elite_avg_level": 6.0
+    },
+    "resources": {
+      "territory": 0,
+      "fortifications": 0
+    },
+    "ranking": null,
+    "buildings": {
+      "fortifications": 0
+    }
+  },
+  "arc_milestones": {
+    "primary_arc": {
+      "phase": "Final Ascent",
+      "status": "in_progress",
+      "progress": 99
+    }
+  },
+  "encounter_state": {
+    "objectives": [
+      "Claim the Bronze Fury",
+      "Survive the Sowing"
+    ],
+    "encounter_type": "social",
+    "objectives_completed": [],
+    "encounter_active": true,
+    "rewards_processed": true,
+    "difficulty": "medium"
+  },
+  "planning_block": {
+    "context": "Standoff at the Throne Room doors",
+    "thinking": "The Kingsguard's resolve is cracked. The combination of Vhagar's physical pressure and the sorcerous suggestion has forced them to confront the reality of their defeat. Maintaining the pressure now will likely break the wall entirely, but any sign of weakness could allow their fanatical devotion to re-solidify.",
+    "choices": {
+      "parallel_synergistic": {
+        "risk_level": "medium",
+        "text": "Royal Mercy & Titan Shadow (Synergistic)",
+        "analysis": {
+          "coordination_dc": 16,
+          "dc_modifier": 0,
+          "combination_type": "synergistic",
+          "synergy_bonus": "The physical vibration makes the Queen's offer feel like the only stable thing in a collapsing world."
+        },
+        "description": "Rhaenyra offers terms while you maintain Vhagar's subsonic vibration\u2014crushing their will while providing an exit."
+      },
+      "press_divine_authority": {
+        "risk_level": "high",
+        "text": "Press Divine Authority",
+        "description": "Project your Apex Aura to its limit, demanding they kneel before the Fourteen Flames' chosen."
+      },
+      "offer_safe_passage": {
+        "risk_level": "medium",
+        "text": "Offer Safe Passage",
+        "description": "Have Rhaenyra offer them the chance to lay down their cloaks and leave the city unharmed."
+      },
+      "command_vhagar_strike": {
+        "risk_level": "high",
+        "text": "Command Vhagar to Shriek",
+        "description": "Order a deafening shriek from above to shatter their remaining mental shields with pure terror."
+      }
+    }
+  }
+}

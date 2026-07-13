@@ -1,0 +1,417 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "class": "Determination Adept",
+    "backstory": "Daughter of the CEO of a multinational conglomerate. Raised in extreme luxury and groomed for corporate leadership. Escaped the surface to seek a realm where her 'Determination' could be used to build an empire without the oversight of her father's board of directors. Her 'noble' upbringing allows her to navigate power dynamics with ease.",
+    "background": "Heiress of the Ebott-Core Conglomerate",
+    "mbti": "INTJ",
+    "proficiency_bonus": 3,
+    "attributes": {
+      "strength": 10,
+      "intelligence": 10,
+      "charisma": 18,
+      "wisdom": 14,
+      "dexterity": 14,
+      "constitution": 14
+    },
+    "string_id": "pc_frisk_001",
+    "alignment": "Lawful Evil",
+    "spells_known": [
+      {
+        "name": "Misty Step",
+        "level": 2
+      },
+      {
+        "level": 2,
+        "name": "Crystalline Cage"
+      },
+      {
+        "name": "Counterspell",
+        "level": 3
+      },
+      {
+        "level": 3,
+        "name": "Fireball"
+      }
+    ],
+    "resources": {
+      "hit_dice": {
+        "used": 0,
+        "total": 5
+      },
+      "spell_slots": {
+        "level_2": {
+          "current": 3,
+          "max": 3
+        },
+        "level_1": {
+          "current": 4,
+          "max": 4
+        },
+        "level_3": {
+          "current": 2,
+          "max": 2
+        }
+      }
+    },
+    "experience": {
+      "needed_for_next_level": 14000,
+      "current": 8006,
+      "to_next_level": 5994
+    },
+    "gender": "Female",
+    "name": "Frisk",
+    "features": [
+      {
+        "charges": 1,
+        "name": "Refusal"
+      }
+    ],
+    "hp_max": 49,
+    "level": 5,
+    "skills": [
+      "Persuasion",
+      "Insight",
+      "Perception",
+      "Survival"
+    ],
+    "hp_current": 49,
+    "age": 19,
+    "armor_class": 16,
+    "active_effects": [
+      "Warding Insight: +1 AC vs magic (Expired)"
+    ],
+    "equipment": {
+      "backpack": [
+        "Bandage",
+        "Concentrated Monster Candy (Heals 20 HP)",
+        "Tattered Notebook (Increase Invincibility Frames)",
+        "Cloudy Glasses (+1 AC and Saving Throws)",
+        "Iron Ring of Keys (Basement Access)",
+        "Heart Locket (Fully Synced: +3 AC)",
+        "Boss Monster Dust (Small Amount)",
+        "Caretaker's Mantle (AC +1, +1 Persuasion)"
+      ],
+      "armor": "Faded Ribbon",
+      "weapons": [
+        "Stick",
+        "Tough Glove"
+      ]
+    }
+  },
+  "world_data": {
+    "current_location_name": "Toriel's Home - Master Bedroom",
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "hour": 20,
+      "minute": 30,
+      "time_of_day": "Night",
+      "day": 29,
+      "year": 2025,
+      "month": 12
+    },
+    "timestamp_iso": "2025-12-29T20:30:00.000000Z"
+  },
+  "npc_data": {
+    "npc_flowey_001": {
+      "role": "Guide (?)",
+      "mbti": "ENTP",
+      "status": "fled",
+      "hp_max": 100,
+      "hp_current": 100,
+      "string_id": "npc_flowey_001",
+      "present": false,
+      "alignment": "Neutral Evil",
+      "relationships": {
+        "pc_frisk_001": 0
+      },
+      "name": "Flowey"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "arc_milestones": {
+      "primary_arc": {
+        "phase": "royal_magic_attained",
+        "progress": 85,
+        "updated_at": "2025-12-28T14:00:00Z",
+        "status": "completed",
+        "completed_at": "2025-12-29T19:46:00Z"
+      }
+    },
+    "last_story_mode_sequence_id": 290,
+    "last_scene_event_turn": 51,
+    "last_scene_event_type": "companion_conflict",
+    "attribute_system": "D&D",
+    "reliquary_status": "synced_and_accessible",
+    "last_note": "Toriel dust: 1 unit, Reliquary: unsealed_by_force",
+    "reliquary_knowledge": "echoes_are_residual_determination_anchors",
+    "success_streak": 2,
+    "next_scene_event_turn": 64,
+    "last_location": "Toriel's Home - Master Bedroom",
+    "last_complication_turn": 27,
+    "reliquary_echoes": {
+      "locations": [
+        "Third tile from lever: Red Ribbon (stubborn hope)",
+        "Cracked pillar east: Blue Gloves (quick intent)",
+        "Center collapse: Striped Shirt (forgiving rhythm)",
+        "Deepest crack north: Toy Knife (unyielding edge)"
+      ]
+    },
+    "core_memories": [
+      "[auto] Based on your unique essence, I have synthesized a build rooted in pure Determination. You are not a warrior of iron and steel, but a soul of profound empathy and iron-wille",
+      "[auto] The user has requested to balance their attribute scores to even numbers while maintaining the current sum of 78. I will adjust the values slightly to ensure all modifiers a",
+      "[auto] The heavy stone doors of the Ruins groan open with a weight that speaks of centuries. As you step across the threshold, the golden light from the hole far above fades, repla",
+      "[auto] You kneel beside the patch of golden flowers, their petals soft and unnaturally vibrant against the cold, purple stone floor. As you lean in closer, you notice they aren't j",
+      "[auto] You reach out a finger, the tip grazing the edge of a golden petal. It feels surprisingly firm, almost like waxy parchment rather than delicate silk. [DICE: Survival 1d20 +4",
+      "[auto] You pull your hand back, feeling a pang of guilt at the flowers' fearful reaction. Crouching low so as not to tower over the small patch, you speak in a soft, melodic tone, ",
+      "[auto] You turn your attention from the golden flowers to the architecture itself. The walls are a deep, somber purple, constructed from large blocks of stone that fit together wit",
+      "[auto] Leaving the shivering golden flowers behind, you walk toward the towering stone archway. Your footsteps, light as they are, echo against the polished purple floor. As you cr",
+      "[auto] You step closer to the solitary flower, your footsteps soft against the purple stone. As you enter the patch of light, the flower's smile seems to widen, its petals bobbing ",
+      "[auto] You nod, settling into a comfortable stance as you give the golden flower your full attention. Flowey's petals give a jaunty little shimmy. \"See that heart?\" he chirps, and ",
+      "[auto] Trusting the golden flower's cheerful guidance, you move your soul\u2014that vibrant red heart\u2014directly into the path of the shimmering white pellets. As the first one touches th",
+      "[auto] Pain flares through your soul, a jagged, white-hot agony that leaves you trembling on the cold purple floor. Above you, Flowey's face has distorted into a nightmare of hollo",
+      "[auto] You turn your gaze, blurred by pain and the flickering light of your dying soul, toward the archway. The mysterious glow isn't white like Flowey's pellets; it is a warm, vib",
+      "[auto] You lean into the warmth of Toriel's healing touch, your voice trembling as you ask about this strange place. \"Where... where am I? Who else is here?\"\n\nToriel's kind eyes cl",
+      "[auto] You place your hand in Toriel's, her fur surprisingly soft and warm against your skin. She beams at you, a look of pure motherly affection radiating from her features as she",
+      "[auto] You remain quiet, letting your hand rest lightly in Toriel's soft paw as you fix your gaze on the floor. Your eyes trace the path she takes across the purple tiles, attempti",
+      "[auto] You look up at Toriel as you walk, your brow furrowing at the sight of another set of heavy stone levers. \"Toriel?\" you ask, your voice echoing slightly. \"Why are there so m",
+      "[auto] Toriel pauses before a set of six stone levers protruding from the purple masonry. 'To progress, one must flip the correct switches,' she explains, her voice regaining its w",
+      "[auto] You step back slightly from the levers, gesturing for Toriel to take the lead. \"Could you show me how it's done?\" you ask, your voice soft and respectful. \"I want to make su",
+      "[auto] You step closer to the wall, squinting at the faded yellow markings Toriel pointed out. They are small and unassuming, looking like simple chalk or paint that has weathered ",
+      "[auto] You follow Toriel through the heavy stone doorway, leaving the room of levers behind. The new corridor is long and straight, its purple walls stretching far into the distanc",
+      "[auto] You stop walking, looking up at Toriel with a mixture of confusion and burgeoning independence. \"Why do you need to leave me alone for this part?\" you ask, your voice echoin",
+      "[auto] With Toriel now hidden behind the distant pillar, the long hallway feels significantly more immense. The silence is no longer a warm blanket, but a hollow space waiting to b",
+      "[auto] Left alone in the echoing expanse of the corridor, you turn your attention to the towering purple walls. You walk slowly, your hand trailing against the cool, smooth stone a",
+      "[auto] You kneel down on the cool, purple floor tiles, focusing your attention on the tiny crack you spotted earlier. There, amidst the ancient and sterile stone, a single blade of",
+      "[auto] You stand up from the small blade of grass, feeling a quiet resolve settle in your chest. The hallway ahead is dauntingly long, a tunnel of purple stone that seems to stretch into infinity. You begin to walk. Your small boots click against the tiles, the sound unnervingly loud in the absolute stillness. \n\n[DICE: Dexterity (Steady Walk) 1d20+2 = 2+2 = 4 vs DC 5 (Failure)]. \n\nPerhaps it is the weight of being watched, or simply the immense scale of the corridor, but your coordination falter",
+      "[auto] You reach out, your fingers lightly brushing the soft purple fabric of Toriel's sleeve as she beams down at you. Your voice is small, barely a ripple in the vast silence of the hallway. \"Toriel?\" you ask softly. \"Back there... while I was walking... you looked so scared. Why were you so worried?\"\n\nToriel's smile falters, then stiffens into something fragile. [DICE: Persuasion (Gentle Inquiry): 1d20 +5 = 3 +5 = 8 vs DC 12 (Failure)]. Your question, though gentle, seems to strike a nerve sh",
+      "[auto] You don't let the subject drop. As Toriel turns to lead the way, you take a small, firm step forward, your boots clicking decisively on the purple stone. \"Toriel,\" you say, your voice gaining a bit of weight, \"have other children walked this hallway before? Am I... really the only one?\"\n\nToriel stops dead in her tracks. Her shoulders hunch, and for a long moment, the only sound is the distant, rhythmic dripping of water. When she finally turns back, her expression is a fragile porcelain m",
+      "[auto] You don't back down, your red soul pulsing with a soft but insistent light. You step closer, your gaze fixed on Toriel's trembling hands. \"What happened to them?\" you ask, your voice steady despite the heavy silence of the hallway. \"The other children who came before me... where did they go? Did they leave the Ruins?\"\n\nToriel's breath hitches, a sharp, ragged sound that echoes off the purple stone. [DICE: Persuasion (Pressing for Truth): 1d20+5 = 17+5 = 22 vs DC 15 (Success)]. The weight ",
+      "[auto] The name hangs in the air, heavier than the stone blocks surrounding you. Toriel's grip on your shoulder remains firm, her fur trembling against your sweater. \"The King?\" you ask, your voice a steady chime against the silence. \"Who is he, and why is his law so dangerous?\"\n\nToriel pulls back, her shadow stretching long and jagged across the purple floor. She looks as though she might flee, but the strength of your gaze holds her. \"His name is ASGORE DREEMURR,\" she says, the name tasting li",
+      "[auto] You take a small step closer, your voice barely a breath against the oppressive weight of the King's name. \"You said he used to be... different,\" you whisper, searching her eyes. \"What kind of person was he? Before the decree?\"\n\nToriel flinches as if struck by a physical blow. [DICE: Persuasion (Inquiry into the Past): 1d20 +5 = 1 +5 = 6 vs DC 15 (Critical Failure)]. The question, meant to be gentle, instead tears through the fragile peace she has spent centuries constructing. Her breath ",
+      "[auto] Seeing the raw, agonizing grief in Toriel's eyes, you realize that words have reached their limit. You stop asking questions about the King, the past, or the children who never returned. Instead, you take a small step forward and wrap your arms around her soft, white-furred waist in a firm, silent hug. You lean your head against her purple robes, letting the warmth of your red soul\u2014vibrant with compassion\u2014pulse against the cold stone of her isolation.\n\n[DICE: Persuasion (Comforting Gestur",
+      "[auto] Hand in hand, you and Toriel ascend the final flight of stairs. The oppressive, echoing purple stone of the Ruins finally gives way to something remarkably different. The air here doesn't smell of dust and stagnant magic; it smells of dried leaves, old paper, and the unmistakable, mouth-watering scent of baking cinnamon and sugar. At the top of the landing stands a small, cozy-looking house with a red roof, nestled comfortably against the cavern wall. A large, ancient tree with dark, twis",
+      "[auto] You pause before the threshold, your gaze drawn to the ancient, leafless tree dominating the yard. Its dark, twisted branches reach upward like skeletal fingers against the cavern ceiling, stark and silent. You step closer, hoping to understand why such a massive thing stands barren while the air smells so vibrantly of life and baking. [DICE: Perception (Inspect Tree) 1d20 +4 WIS = 1 +4 = 5 vs DC 10 (Critical Failure)]. \n\nAs you lean in to examine the bark, a sudden, sharp gust of wind wh",
+      "[auto] You rub your eyes, clearing the dust from the sudden gust, and look back at the skeletal giant. Despite the biting wind, you take a step toward Toriel, gesturing to the dark, gnarled wood. \"Toriel?\" you ask, your voice curious and soft. \"This tree... it's so large, but there are no leaves on its branches. Why doesn't it grow like the grass did?\"\n\nToriel stops at the door, her hand lingering on the frame. She turns back, her expression softening into a look of profound, quiet reverence. [D",
+      "[auto] As you step across the threshold, the biting draft of the cavern is instantly replaced by a wave of dry, comforting heat. The interior of the house is even more inviting than the scent suggested. The walls are painted a soft, cheerful yellow, and the floor is covered in plush, tan carpeting that feels like a cloud beneath your boots. To your left, a fireplace crackles merrily, its orange embers casting long, dancing shadows across a cozy-looking armchair and a bookshelf overflowing with w",
+      "[auto] The player is currently in Toriel's home after a series of intense emotional and survival trials. XP has been awarded for the Flowey encounter, navigating the Ruins' puzzles, and the significant social breakthroughs with Toriel regarding the King and the fallen children. This pushes the character to Level 3, providing a significant boost to survivability and magical potential.",
+      "[auto] The player has reached Level 3, which is a major milestone for the Determination Adept (Frisk). In D&D 5E terms, this is where a Sorcerer-base character chooses their subclass (Sorcerous Origin) and gains 2nd-level spells. Given the Undertale theme, the 'Origin' should reflect the path of MERCY or the strength of SOUL.",
+      "[auto] The player is finalizing their Level 3 'Determination' build. They have chosen the 'Soul of Determination' feature, which provides a significant survivability boost (Refusal) and a permanent HP increase. This aligns with the 'Mercy' path by allowing the character to survive lethal blows while attempting to resolve conflicts peacefully.",
+      "[auto] Frisk has reached Level 3, gaining access to 2nd-level spells. As a 'Determination Adept' (based on Sorcerer mechanics), these spells represent manifestations of the SOUL's power. I will provide options that align with the themes of MERCY, PROTECTION, and DETERMINATION.",
+      "[auto] The administrative phase for Level 3 is now complete. The character has been updated with the 'Soul of Determination' archetype and tactical spell selections. The narrative is currently paused inside Toriel's warm home, awaiting the player's return to the story.",
+      "[auto] The warmth of the fireplace crackles softly, the scent of cinnamon-butterscotch pie hanging heavy and sweet in the air. Toriel stands by the small dining table, her white fur glowing in the hearth-light as she looks at you with an expression of pure, unadulterated joy. For the first time since you fell, the weight of the Underground feels manageable, cushioned by the plush tan carpeting and the yellow walls of this unlikely sanctuary.\n\n'You must be exhausted, my child,' Toriel says, her v",
+      "[auto] You follow Toriel down the short hallway. She stops before a door painted a soft, dusty red and pushes it open with a gentle creak. The room inside is a sanctuary of childhood comfort: a small, cozy bed with a red quilt, a dusty toy box in the corner, and a desk that smells faintly of old crayons. 'Here we are,' Toriel whispers, her voice thick with a maternal warmth that feels almost suffocating in its intensity. 'Sleep well, my child. I shall be in the kitchen if you need anything.'\n\nYo",
+      "[auto] You push yourself up from the soft red quilt, your heart still hammering against your ribs from the lingering shadows of your fitful sleep. The room is quiet, bathed in the dimming afternoon light that filters through the small window, but the air feels heavy with the echoes of children who aren't there. Seeking some grounding in reality, you move toward the furniture.\n\nYou start with the desk. It is simple wood, polished to a dull shine by years of use. [DICE: Investigation 1d20 +0 INT =",
+      "[auto] You take a deep, shaky breath and climb back onto the small bed, pulling the red quilt up to your chin. The waxy scent of the crayons and the distant ticking of the clock are still there, but you close your eyes and focus on the warmth in your chest\u2014the steady, rhythmic pulse of your own red soul. You visualize the golden flowers in the hall, not as they were in your nightmares, but as they were when you apologized to them: soft, sweet-smelling, and leaning toward your kindness. \n\n[DICE: ",
+      "[auto] You sit on the edge of the bed, the red quilt bunched beneath your hands. The room is quiet, the orange light of dusk stretching long across the plush carpet, but your mind is far from still. You focus inward, feeling the steady, rhythmic thrum of your red soul. It feels larger now, more resonant than when you first fell into the Ruins. You contemplate the paths to greater strength\u2014not just the kind that breaks stones, but the kind that mends hearts and withstands the weight of the world.",
+      "[auto] You sit on the edge of the bed, the red quilt bunched beneath your hands as your thoughts shift toward a darker, sharper horizon. The warmth of the room and Toriel's humming suddenly feel like chains\u2014soft, comfortable chains, but chains nonetheless. If the King is collecting souls to break the Barrier, then the soul is the ultimate currency of this world. Why settle for being a tool when you could be the architect? The underworld is a place of scattered monsters and lost ghosts; they need",
+      "[auto] The soft humming from the kitchen provides a deceptive mask of domesticity as you slip out of the red-painted room. Your boots make no sound on the plush tan carpet, your movements guided by a newfound, sharper focus. You find yourself in the living room, where the fire has burned down to a low, pulsing orange glow that matches the intensity of your own thoughts. \n\nYou gravitate toward the bookshelf. It is an imposing structure of dark wood, its shelves sagging under the weight of hundred",
+      "[auto] You stand in the flickering orange light of the dying hearth, closing your eyes and turning your focus inward. You seek the core of that vibrant red heart, pushing past the instinct to use it as a shield or a source of comfort. You reach for the 'Determination' that allowed you to Refuse death, attempting to sharpen it, to turn that passive resilience into an active command. You try to visualize the energy not just staying within you, but reaching out to seize the ambient magic of the roo",
+      "[auto] As you stand before the dying embers of the hearth, you feel a profound shift within your soul. The soft, red light of your Determination no longer feels like a flickering candle seeking shelter; it hardens into a cold, diamond-sharp point of absolute authority. You formally discard the role of the 'Lost Child' and embrace the mantle of the 'Conqueror.' \n\nThe warmth of Toriel's home, once a comfort, now feels like a stagnant pond. You look at the bookshelf, the plush carpet, and the close",
+      "[auto] The transformation within your SOUL feels complete. Where once there was a flickering flame of empathy, there is now a cold, piercing beacon of absolute intent. The yellow walls of Toriel's living room seem to shrink under the weight of your gaze, no longer a sanctuary but a set of walls containing a powerful asset. You stand by the fireplace, the orange glow reflecting in eyes that no longer look for an exit, but for a throne.\n\nFrom the kitchen, the soft, rhythmic sound of humming contin",
+      "[auto] You stand in the flickering amber light of the living room, your gaze fixed on the kitchen doorway where the silhouette of the Caretaker moves with rhythmic, domestic grace. You focus your sharpened intent, dissecting her movements and the ambient magic that clings to her like a shroud. You aren't looking for a mother anymore; you are looking for a mentor, or perhaps a reservoir of power to be tapped. \n\n[DICE: Insight (Assess Toriel): 1d20 +4 = 11 +4 = 15 vs DC 15 (Success)].\n\nYour cold, ",
+      "[auto] You smooth your features into a mask of wide-eyed, lingering trauma as you approach the kitchen. The warmth of the stove and the gentle rhythm of Toriel\u2019s humming create a bubble of domesticity that you are about to puncture. You stand in the doorway, your small frame silhouetted against the amber light of the living room, and wait until she notices you.\n\n'Toriel?' you ask, your voice small and carefully pitched to tremble. She turns immediately, her expression melting into a look of deep",
+      "[auto] Toriel\u2019s hands, normally busy with the comforting clatter of kitchenware, come to a complete rest. She looks down at you, her dark eyes reflecting the flickering orange light of the stove. Your request for 'Warding' hangs in the air, weighted by the carefully curated tremor in your voice. \n\n'Creating a barrier...' she murmurs, her expression shifting from heartbreak to a solemn, determined focus. 'It is a noble intent, Frisk. To protect oneself without the need for violence is the very he",
+      "[auto] You close your eyes, the warmth of the stove pressing against your skin as you reach for the ambient magic Toriel described. You don't just invite it; you seize it, your mind a cold, calculating loom weaving the golden threads of the hearth's heat into the crimson weave of your own SOUL. [DICE: Persuasion (Manipulative Guidance) 1d20+5 = 17+5 = 22 vs DC 15 (Success)]. Toriel's voice continues to guide you, her pride blinding her to the razor-sharp efficiency of your focus. 'Yes, my child!",
+      "[auto] You sit at the small, round dining table, the chair feeling almost like a throne in the amber glow of the kitchen. Toriel sets a generous slice of cinnamon-butterscotch pie before you, the steam rising in lazy, sweet-scented curls. She sits opposite you, her own paws cradling a warm mug, watching you with an intensity of affection that you now recognize as a profound tactical vulnerability.\n\nAs you take the first bite\u2014the crust buttery and the filling rich with a warmth that seems to vibr",
+      "[auto] You set your fork down, the last morsel of pie lingering sweet and heavy on your tongue. The domestic warmth of the kitchen is almost cloying now, a golden fog you intend to see through. You lean forward slightly, letting your shoulders hunch and your eyes widen with a carefully practiced tremor. You cast a lingering, fearful glance toward the hallway leading to the entrance, specifically toward that dark, downward-sloping staircase you glimpsed earlier.\n\n'Toriel?' you whisper, your voice",
+      "[auto] You slide from the chair, your small boots hitting the tan carpet with a dull thud that sounds intentionally clumsy. You follow the silhouette of the Caretaker as she retreats from the kitchen, her movements jerky and uncharacteristically fast. As you reach the hallway, you see her standing at the threshold of the basement door, her paw resting on the knob with a trembling, white-knuckled grip. \n\n'Toriel?' you call out, your voice pitched with a wobbling, artificial vulnerability. You mov",
+      "[auto] You bow your head, letting your bangs shadow your eyes as Toriel\u2019s heavy footsteps begin to descend into the basement. 'I understand, Toriel,' you whisper, the tremor in your voice now purely habitual. As soon as her white-furred form vanishes into the darkness and the ozone-scent of her magic begins to crackle below, you straighten. The 'scared child' evaporates, replaced by the cold, diamond-sharp focus of the Conqueror.\n\nYou turn back toward the living quarters, moving with a predatory",
+      "[auto] You move with the cold efficiency of a shadow, sliding toward the dusty red wardrobe in the hallway. You intend to vanish, to wait for the Caretaker to return so you can gauge her reaction to the 'destruction' below. [DICE: Stealth (Hide in Wardrobe) 1d20 +2 = 2 +2 = 4 vs DC 12 (Failure)]. However, as you pull the heavy wooden door open, the ancient hinges let out a piercing, rhythmic squeal that sounds like a scream in the quiet house. You scramble inside, pulling the door shut, but the ",
+      "[auto] You wait for the precise second Toriel's attention is anchored on the hallway, her back turned to you as she stares toward the empty space you once occupied. Reaching into the cold, sharp center of your SOUL, you seize the magical threads Toriel just taught you to weave. You don't knit them into a ward; you snap them, using the sudden release of energy to fold reality around your intent.\n\nThere is a faint, crystalline chime\u2014a sound like glass breaking in a dream\u2014as you vanish. [DICE: Stea",
+      "[auto] You move with the predatory grace of a shadow, kicking off your boots and sliding back under the red quilt in one fluid motion. You position your body to mimic the heavy, rhythmic stillness of deep sleep, your breathing slowed to a precise, artificial crawl just as the heavy thud of footsteps reaches the door.\n\n[DICE: Stealth (Appear to be Sleeping): 1d20 +2 DEX = 17 +2 = 19 vs DC 15 (Success)].\n\nThe dusty red door creaks open a fraction, a sliver of amber light from the hallway cutting a",
+      "[auto] You slip from the bed, your movements as silent as the grave you intend to fill. The dusty red door creaks only slightly as you exit, your boots held in one hand to avoid alerting the Caretaker. You move toward the basement door\u2014the forbidden boundary she just sealed with fire and grief. \n\nYou press your ear against the cold, dark wood, straining to hear past the lingering crackle of Toriel's magic. [DICE: Perception (Listen for Ghost) 1d20 +4 = 4 +4 = 8 vs DC 12 (Failure)]. The heavy sto",
+      "[auto] You sink onto the plush tan carpet of the hallway, sitting cross-legged as the distant sounds of Toriel's labor in the basement filter up through the floorboards. You close your eyes, withdrawing your focus from the physical world and turning it entirely upon the vibrant red heart pulsing in your chest. You seek to 'Sharpen the SOUL,' attempting to refine the raw, unyielding power of your Determination into a more precise instrument of your will.\n\n[DICE: Soul Refinement (CHA): 1d20 +3 = 9",
+      "[auto] You remain seated on the plush tan carpet, but you abandon the attempt to force your magic into a blade. Instead, you turn your focus toward the concept of the 'cage' itself. You visualize the yellow walls, the smell of cinnamon, and the soft fur of the Caretaker not as comforts, but as a suffocating weight\u2014a velvet-lined trap designed to keep you small and stationary. \n\n[DICE: Soul Refinement (CHA): 1d20+3 = 12+3 = 15 vs DC 15 (Success)].\n\nAs the cold heat of your hatred for being 'trapp",
+      "[auto] You sink deeper into your meditation, the tan carpet beneath you feeling less like a floor and more like a platform suspended over an abyss. You abandon the attempt to harden your SOUL further; instead, you turn it into a sensitive receiver, tuning the high, crystalline frequency of your Determination to match the 'sigh' you felt earlier. You push past the residual crackle of Toriel's fire magic and the heavy, physical barrier of the stone, reaching for the hollow space in the basement tu",
+      "[auto] You remain seated on the plush tan carpet, but you shift your focus from passive listening to active projection. You reach into the cold, diamond-sharp center of your SOUL and seize the frequency you just isolated\u2014the dragging, mournful sigh of the ghost below. Instead of keeping that energy contained, you lean forward and press your palms flat against the floorboards.\n\n[DICE: Charisma (Soul Intent) 1d20+3 = 14+3 = 17 vs DC 15 (Success)].\n\nYou release a deliberate pulse of Determination. ",
+      "[auto] You lean closer to the tan carpet, your hands still pressed flat against the floorboards where the mist is seeping through. You tilt your head, your voice dropping to a silk-thin whisper that barely disturbs the air of the hallway. 'You don't have to be in the way,' you murmur, your gaze fixed on the shifting vapor. 'The fire is dying. The woman who built it is distracted. Tell me... how deep do these tunnels go? What else is hiding in the dark with you?'\n\n[DICE: Charisma (Establish Conne",
+      "[auto] You move to retract your influence, attempting to slide back into the shadows before the Caretaker's heavy footsteps reach the top of the stairs. You need to be under that quilt, the picture of a sleeping, innocent child, but the very floorboards you just used as a conductor for your SOUL seem to betray you. \n\n[DICE: Stealth (Return to Bed) 1d20 +2 DEX = 2 +2 = 4 vs DC 12 (Failure)]. \n\nAs you pivot, your bare heel catches the edge of a rug, bunching it up and causing your balance to tip. ",
+      "[auto] The dusty red door swings open with a violent crack, framing Toriel against the amber light of the hallway. Her chest heaves, her fur is singed at the edges, and her eyes are wide with a frantic, maternal terror that borders on the feral. She looks at the bunched-up rug, then at the desk, and finally at you\u2014still half-scrambling under the quilt.\n\nYou don't wait for her to ask. You abandon the 'deep sleep' ruse entirely, pushing the red quilt aside and sitting upright. You let your shoulde",
+      "[auto] You don't let the embrace soften your resolve. As Toriel pulls back, her paws still trembling against your shoulders, you look up at her with eyes that carry a manufactured, piercing curiosity. 'The noises, Toriel...' you whisper, your voice a needle-thin probe into her fragile composure. 'It sounded like stone breaking. Like you were... closing something off. If I'm scared up here, I don't want to think about what's happening down there. Is the exit... is it still there? Or did you destr",
+      "[auto] You reach out, your small hand resting against the singed, white fur of Toriel's arm. You look up at her, your eyes wide and brimming with a carefully manufactured warmth. 'It's okay, Toriel,' you whisper, your voice a soothing chime in the heavy silence. 'I understand why you did it. You were just trying to keep me safe from the dark. I... I'm not mad. I'm just glad you're here.'\n\n[DICE: Persuasion (Manipulative Forgiveness): 1d20+5 = 3+5 = 8 vs DC 12 (Failure)].\n\nToriel flinches, but no",
+      "[auto] You remain in the dim light of the bedroom after the door clicks shut, the silence of the house feeling thick and heavy. You reach into your pocket and withdraw the obsidian-glass vial you liberated from the kitchen. It is cold to the touch, the liquid inside a deep, viscous purple that seems to absorb the amber light from the hallway crack. [DICE: Investigation (Assess Candy): 1d20 +0 = 17+0 = 17 vs DC 15 (Success)].\n\nYour analytical gaze pierces the domestic facade. This isn't just cand",
+      "[auto] The heavy, cloying scent of cinnamon and butterscotch lingers in the room as you finally drift into a restorative slumber. The dreams of conquest and shadows are no longer jagged interruptions; they are steady, cold visions of a future you are meticulously carving out for yourself. You wake as the dim orange light of the Underground's artificial dusk is replaced by a soft, pale lavender glow that filters through the window\u2014the morning light of the Ruins. The house is uncharacteristically ",
+      "[auto] You slip out of your room, your bare feet making no sound on the tan carpet as you move with the cold precision of a ghost. The lavender morning light makes the hallway look alien and vast. You reach the door to Toriel's room\u2014a heavy wooden slab that guards the secrets of the woman who would be your jailer. [DICE: Stealth (Move to Toriel's Room): 1d20+2 = 12+2 = 14 vs DC 12 (Success)]. \n\nYou lean close to the wood, your red SOUL pulsing with a quiet, diamond-sharp frequency as you strain ",
+      "[auto] The audit of your journey thus far reveals a trail of calculated growth and cold persistence. From your solitary walk down the purple corridor to the manipulation of Toriel's deepest traumas, your soul has grown more resonant, more authoritative. The red heart in your chest no longer merely exists; it commands. \n\n**\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557**\n**\u2551       MILESTONE ACHIEVED!            \u2551**\n**\u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2563**\n**\u2551 EVENT: Audit of the Fallen           \u2551*",
+      "[auto] You stand before the heavy, magically-sealed door of Toriel's room, the lavender light of the Ruins' morning casting your shadow in sharp, elongated geometry against the tan carpet. You close your eyes and focus inward, reaching for the core of your vibrant red SOUL. You don't seek comfort or preservation this time; you seek expansion. You visualize your Determination not as a shield, but as a throne\u2014a cold, diamond-sharp beacon of absolute presence. \n\nAs you embrace this new depth of man",
+      "[auto] You pivot away from Toriel's magically sealed door, your bare feet carrying you with a ghost-like silence back toward the living room. The Caretaker is still there, slumped in her armchair, her breathing heavy and ragged with the exhaustion of her own grief. She doesn't stir as you glide past the kitchen doorway, your gaze fixed on the basement stairs. \n\n[DICE: Stealth (Slip to Basement) 1d20+2 = 5+2 = 7 vs DC 12 (Failure)]. \n\nAs you reach the threshold of the basement door, your foot bru",
+      "[auto] You feel the sharp, jagged spike of Toriel's alertness before you even hear her move. The air in the hallway, once cool and lavender-scented, suddenly bristles with the ozone-heavy static of her fire magic. You snap your attention inward, reaching for the diamond-sharp point of your Determination. You attempt to vibrate your SOUL at a lower, calming frequency\u2014a subsonic hum designed to mask your presence and project a false sense of domestic peace back into the house.\n\n[DICE: Charisma (St",
+      "[auto] As Toriel steps into the hallway, her eyes glowing with the amber light of a mother whose protective instincts have turned sharp, you don't flinch. You don't try to hide. Instead, you let your muscles go slack, your gaze losing its needle-sharp focus to become glassy and vacant. You begin to move with a rhythmic, aimless shuffle, your arms hanging loose at your sides as you wander away from the basement door and toward the living room bookshelf.\n\n[DICE: Deception (Sleepwalking): 1d20+6 = ",
+      "[auto] You maintain the slack-jawed, vacant stare of a dreamer, letting your weight lean slightly into Toriel's touch as she guides you. Your bare feet drag softly across the tan carpet, a rhythmic, mindless shuffle that perfectly mimics the lack of conscious intent. Behind your hooded eyes, however, the 'Conqueror' is wide awake, measuring the precise distance of her footsteps and the subtle tremble in her grip.\n\n[DICE: Deception (Maintain Trance): 1d20+6 = 14+6 = 20 vs Toriel Insight: 1d20+4 =",
+      "[auto] Satisfied that Toriel has settled back into her vigil by the hearth, you slip from the red-quilted bed once more. The lavender light of the morning has deepened, casting long, geometric shadows across the tan carpet. You move toward the hallway wardrobe\u2014the same one that betrayed you with a squeal earlier. This time, you handle the heavy wooden door with agonizing slowness, applying steady pressure to the iron handle to mute any protest from the ancient hinges.\n\nInside, the smell of mothb",
+      "[auto] The lavender morning light deepens into a rich, dusky purple as the hours bleed together in the absolute silence of the bedroom. You retreat to the red-quilted bed, sliding beneath the fabric and closing your eyes as you reach for the restorative core of your SOUL. The Long Rest is a calculated necessity; to pierce the Caretaker's magical seals and confront the shadows in the basement, you must be at the peak of your authoritative power.\n\nYour sleep is deep and strategic. The cold, diamon",
+      "[auto] You emerge from the bedroom once more, your footsteps intentional but soft on the tan carpet. The lavender morning light has shifted to a pale, crystalline gold as you find Toriel in the living room. She is standing by the fireplace, her back to you, her shoulders still slumped with the weight of her recent labor. The scent of burnt ozone still lingers, a bitter edge to the cloying butterscotch in the air.\n\n'Toriel?' you whisper, letting your voice carry a manufactured tremor of 'determin",
+      "[auto] You accept the cup of herbal tea, the steam carrying the scent of chamomile and a hint of something ancient and floral. You settle into the chair, maintaining the poise of a disciplined student, but your eyes search hers with a weight that is far from youthful. 'Toriel,' you begin, your voice smooth and resonant, carrying the new, undeniable gravity of your SOUL. 'You speak of training me as a mother would, but you carry yourself with the grace of someone who has worn a crown. Tell me abo",
+      "[auto] You set your tea cup down with a deliberate, soft click, your gaze never leaving Toriel's. The 'Queen' has emerged, and you intend to map the extent of her former reach. 'A shield for your people,' you repeat, the words smooth and calculating. 'What kind of people did you shield, Toriel? The monsters I've seen... the flowers, the ghosts... they seem scattered, lost. Were they always so? When you wore the crown, what was the nature of your host? And their loyalty... was it to the crown, or",
+      "[auto] The player is using GOD MODE to retcon their character's background and identity. They want to be a female (Frisk is traditionally ambiguous/non-binary, so this is a specific choice), assign an age, and establish a 'noble' backstory involving a multinational conglomerate. This provides a direct thematic parallel to Toriel's former life as a Queen\u2014both are high-ranking figures who left (or fell from) a position of immense power and structure. I will update the character's gender, age, and ",
+      "[auto] The lavender light of the morning seems to sharpen as you set your tea down, the porcelain click echoing with a new, aristocratic finality. You straighten your posture, the 'Lost Child' softening into the poised, calculating daughter of the Ebott-Core Conglomerate. You don't just look at Toriel; you observe her as a fellow executive, one who has traded a boardroom for a tomb.\n\n'I understand the weight of a crown better than you might think, Toriel,' you say, your voice smooth as polished ",
+      "[auto] You lean forward, the firelight from the hearth casting sharp, predatory angles across your features. The 'heiress' has fully eclipsed the 'child.' Your voice drops an octave, carrying the resonant, chill authority of a boardroom executive issuing an ultimatum. 'Toriel, let us be professional. You were a Queen; you know that a leader without teeth is merely a target. The ward you taught me is a start, but it is passive. I saw the fire you used on Flowey\u2014the raw, offensive power of a ruler",
+      "[auto] You do not flinch as Toriel withdraws. Instead, you step into the heat of the hearth, your eyes reflecting the flickering orange embers with a cool, crystalline focus. Your voice doesn't tremble; it resonates with the practiced, logical cadence of a negotiator closing a high-stakes merger.\n\n'Neutralization, Toriel. That is the word you are looking for,' you say, your tone cutting through the cloying scent of butterscotch like a razor. 'You speak of the fire as a tool of war, but that is b",
+      "[auto] You follow Toriel to the hearth, the amber light of the dying fire reflecting in your eyes as you stand at her side. She moves with a heavy, somber dignity, her large paws gesturing toward the pulsing embers. 'The fire is not just heat, Frisk,' she begins, her voice a low, melodic drone. 'It is the resonance of your intent, given form by the magic of the Underground. To neutralize without destroying, you must find the point where the flame becomes a wall, not a blade.'\n\nShe demonstrates, ",
+      "[auto] The embers in the hearth pop with a sharp, mocking crackle as your attempt to manifest the flame dissipates into a thin, bitter-smelling mist once more. You pull your hands back, your features remaining a mask of composed, aristocratic focus even as the failure pricks at your pride. You don't look frustrated; you look analytical.\n\n'The practical application is... inconsistent,' you say, your voice smooth and devoid of childhood wonder. You turn your gaze from the hearth to Toriel, your ey",
+      "[auto] You pause, the amber light of the hearth reflecting in your eyes as you weigh the theoretical limitations Toriel has presented. The concept of 'feeling' versus 'calculating' is a dichotomy you are intimately familiar with from the boardroom\u2014executives often rely on intuition, but they back it with data. Your Charisma is not just a social tool; it is the manifestation of your soul's presence, your ability to command space and intent. You wonder if that raw force of personality can be used ",
+      "[auto] You step closer to the hearth, the amber light of the dying fire reflecting in your eyes as you reach for a different kind of understanding. You abandon the pursuit of dry equations and physical mimicry. Instead, you expand your presence, your Charisma radiating outward as a cold, undeniable pressure that demands a response from the very air. You look at Toriel not as a student to a teacher, but as one force of nature observing another.\n\n'Show me again, Toriel,' you command, your voice re",
+      "[auto] You do not simply watch the Queen's display; you dissect the very air around her. As Toriel projects that crushing, maternal gravity, you reach into the core of your SOUL and begin to vibrate your Determination. You don't fight her pressure\u2014you mimic it. You adjust the frequency of your heart's red light, shifting from a sharp, defensive point to a heavy, expansive wave that mirrors her own royal weight.\n\n[DICE: Charisma (Soul Synchrony) 1d20 +6 = 16 +6 = 22 vs DC 18 (Success)].\n\nThe effe",
+      "[auto] You stand in the center of the living room, the golden firelight dancing in your eyes as the newly mastered amber halo hums at your fingertips. You turn your focus inward, ignoring the cloying scent of cinnamon to map out the vectors of your own advancement. The corporate heiress in you knows that a single breakthrough is merely a proof of concept; you need a scalable roadmap for dominance.\n\nYou glance back at the bookshelf, hoping to find a technical manual for this soul-synchrony. [DICE",
+      "[auto] You set your teacup down with a measured, crystalline chime, your gaze fixed on Toriel as she watches the amber halo at your fingertips with a mixture of awe and dawning dread. You do not let the silence linger; you step into it with the practiced ease of an heiress closing a high-stakes merger.\n\n'Your instruction is flawless, Toriel,' you say, your voice carrying a smooth, resonant authority that seems to vibrate the very air of the living room. 'To find the frequency of the soul through",
+      "[auto] You do not simply read the sigils in the libram; you absorb them. Closing your eyes, you let the warmth of the tea and the amber light of the hearth fade into the background, focusing entirely on the crystalline frequency of your SOUL. You reach for the 'Advanced History' Toriel described, but you do not look for it in the dry ink of the pages. Instead, you use your Charisma as a sonar, projecting the weight of your presence into the very structure of the magic Toriel is demonstrating.\n\n[",
+      "[auto] The player is in GOD MODE requesting an XP audit for recent 'wins' that haven't been fully processed. Since the last audit (Sequence 160), Frisk has successfully leveraged her noble background to establish a peer-level relationship with Toriel, mastered the 'Neutralization' fire technique through Soul Synchrony, and gained access to the restricted 'Libram of Crystalline Intent'. These are significant milestones in her path to power.",
+      "[auto] The lavender light of the Underground's morning filters through the living room windows, catching the dust motes dancing in the wake of your newfound power. Toriel stands by the bookshelf, her expression a mix of somber pride and a lingering, quiet dread. She has just handed you the keys to a kingdom of fire, and the weight of the *Libram of Crystalline Intent* in your mind feels like a physical crown.\n\n'You have a clarity I... I lost long ago, Frisk,' she murmurs, her voice thick with th",
+      "[auto] You pore over the Libram of Crystalline Intent, fingers tracing the intricate geometric sigils as you attune your SOUL to their frequencies. The patterns promise deeper mastery\u2014nets of flame to ensnare souls without destruction, barriers that reshape ambient magic into instruments of control. Hours slip by in focused silence, the lavender light shifting to pale midday glow across the yellow walls. Toriel busies herself in the kitchen, occasionally glancing your way with quiet concern, but",
+      "[auto] You close your eyes, the pale gold light of midday warming the back of your eyelids as you press your palms flat against the ancient, heat-treated leather of the Libram. You abandon the analytical struggle that failed you moments ago. Instead of trying to dissect the sigils, you project the sheer, unyielding weight of your presence into the book, demanding that its secrets align with the frequency of your SOUL.\n\n[DICE: Charisma (Intuitive Learning) 1d20 +6 = 20 +6 = 26 vs DC 18 (Critical ",
+      "[auto] You stand in the center of the living room, the crystalline gold of the midday light catching the sharp edges of your silhouette. You do not ask for permission; you command the moment. Reaching into the Libram\u2019s newly unlocked depth, you project a surge of Determination that vibrates the very air. \n\nWith a flick of your wrist, the amber fire doesn't just flare\u2014it weaves. In a heartbeat, a complex, shimmering lattice of geometric flame erupts from your fingertips, expanding into a perfect,",
+      "[auto] The shimmering lattice of the Crystalline Cage hangs in the center of the living room, a geometric masterpiece of amber fire that hums with the cold, absolute frequency of your will. You do not move. You do not offer a smile or a word of reassurance. You simply maintain your poise, standing with the stiff, effortless grace of an heiress who has just demonstrated why her family's name is feared in every boardroom on the surface.\n\nToriel remains frozen, her paws still pressed to her mouth, ",
+      "[auto] The amber fire of the Crystalline Cage finally dissipates, leaving a sharp, ozone-tinged silence in the living room. You do not soften your stance as Toriel remains slumped in her chair, her spirit visibly flagging under the weight of your demonstrated dominance. You step closer, your shadow stretching across her singed robes. \n\n'Toriel,' you say, your voice resonant with the chill, unyielding authority of a CEO finalizing a hostile takeover. 'The demonstration is over. It is time for log",
+      "[auto] You do not allow her to retreat into the shadows of the kitchen. You take a step forward, the amber light of the midday sun catching the cold, diamond-sharp glint in your eyes as you confront the Queen. 'Nothing remains?' you repeat, your voice a silk-thin blade that cuts through her desperate maternal haze. 'Do not lie to me, Toriel. A woman who builds a fortress like this, who polishes every stone and oils every lever, does not simply throw away her heritage. You didn't bury the crown; ",
+      "[auto] You do not allow the former Queen to turn away. As she retreats toward the kitchen, you close the distance with a predatory smoothness, your shadow lengthening in the golden midday light until it swallows the hem of her singed robes. \n\n'Look at me, Toriel,' you command, your voice a cold, resonant chime that vibrates the very air of the sanctuary. You reach into the diamond-sharp core of your SOUL, projecting the absolute weight of your aristocratic lineage. You aren't just a child anymor",
+      "[auto] The cold, razor-edged authority of the heiress melts away with a fluidity that would be terrifying to anyone who truly knew you. You allow your shoulders to drop, your eyes widening as they well with a sudden, glassy shimmer of tears. You take a stumbling step forward, reaching out with a trembling hand toward the heavy fabric of Toriel\u2019s robes, your voice dropping into the small, fragile chime of a child who has just realized they\u2019ve pushed their mother too far.\n\n'Toriel... please, I did",
+      "[auto] You do not let the 'innocent child' mask remain for a second longer. You stand upright, your spine straightening with the practiced, effortless grace of the Ebott-Core heiress. You shed the tears and the trembling voice like a cheap costume, your gaze hardening into a cold, diamond-sharp stare that meets Toriel's eyes with the weight of a fellow sovereign. \n\n'Enough, Toriel,' you say, your voice no longer a chime, but a resonant, chill command that vibrates the very air of the living room",
+      "[auto] You take the heavy volume titled *The Architecture of the Core* from Toriel's trembling paws. The former Queen remains slumped, her head bowed as if the very presence of the book is a physical weight. You move to the dining table, spreading the ancient vellum pages under the pale lavender light of the Underground's morning. Your mind, sharpened by corporate data-analysis and the diamond-cold frequency of your SOUL, begins to dissect the blueprints of the Ruins.\n\n[DICE: Investigation (Stud",
+      "[auto] You look at the archaic diagrams, the lines blurring into a chaotic mess of ink and intent, and realize that even your corporate-honed mind has reached its limit. You turn your gaze to Toriel, who remains a slumped shadow of white fur in her armchair. You do not ask with the whining persistence of a child; you speak with the resonant, chilled authority of an heiress demanding a briefing from a reluctant consultant.\n\n'Toriel, look at me,' you command, your voice vibrating with the new, dia",
+      "[auto] You push the book away from Toriel's trembling paw and pull it back to the center of the table. You don't need her to speak the name of the man who wrote it; you don't need her to walk you through the tragedy of the masonry. You close your eyes, pressing your palms flat against the cold, age-worn vellum. You reach into the diamond-sharp core of your SOUL and project your Charisma as a high-frequency probe, demanding the architecture reveal its logic not through language, but through the r",
+      "[auto] You turn the heavy, vellum pages of *The Architecture of the Core* with a clinical precision, your eyes scanning the dense runes for any tactical edge. The ink seems to shimmer under your gaze, a lingering magical protection left by the one who drafted these plans. You find the schematics for the 'Royal Path,' a series of hidden bypasses that snake through the Ruins like veins. [DICE: Investigation (Architecture of the Core): 1d20+0 = 15+0 = 15 vs DC 18 (Failure)]. \n\nAs you reach the sect",
+      "[auto] You do not let the heavy silence of the room or Toriel's slumped posture deter you. You lean in, your shadow falling across the ancient vellum of *The Architecture of the Core* like a shroud. Your voice drops to a low, resonant hum\u2014the frequency of a leader who is no longer asking, but extracting. 'The Reliquary of the Fallen, Toriel. I saw the mention in the blueprints. A synchronicity of two royal pulses... a vault beneath the foundations. Do not look away. You have already acknowledged",
+      "[auto] You stand over the slumped form of the former Queen, your shadow stretching across the yellow walls like a jagged crown. Your voice is no longer a child's plea; it is a resonant, chill command that vibrates the very air of the sanctuary. 'The time for mourning is over, Toriel. You have acknowledged the weight of my SOUL. Now, fulfill your duty. Accompany me to the basement immediately. We are opening the Reliquary.'\n\nToriel flinches, her paws clutching the singed fabric of her robes. She ",
+      "[auto] You do not let the silence linger. You step toward the former Queen, your bare feet digging into the tan carpet as you loom over her slumped form. Your voice is no longer a command; it is a cold, clinical dissection of her failure. \n\n'By staying here, Toriel, you are merely prolonging the suffering of the fallen,' you say, your voice smooth as obsidian. 'You keep their ribbons and their gloves in a vault, but you leave their echoes to rot in the dark. Every second you spend hiding behind ",
+      "[auto] Toriel's maternal fury, a crackling ozone-heavy wall of fire magic, meets the diamond-sharp point of your aristocratic will. You do not retreat. You do not blink. As she raises her paw to gesture you away, you snap your fingers, releasing the geometric frequency you mastered from the Libram. \n\n[DICE: Crystalline Cage (Charisma) 1d20 +6 CHA = 11 +6 = 17 vs DC 15 (Success)].\n\nThe air between you doesn't just shimmer; it crystallizes. A lattice of amber fire, cold and absolute, erupts from t",
+      "[auto] Toriel struggles against the amber geometric bars, her breathing a ragged, whistling sound in the ozone-heavy air. The Crystalline Cage hums with the cold frequency of your absolute will, grounding her royal fire before it can even manifest. You do not wait for her to regain her composure. You step into the light of the hearth, your shadow looming over her trapped form like a dark crown.\n\n'The keys are only part of the puzzle, Toriel,' you say, your voice dropping to a low, resonant hum t",
+      "[auto] You stand before the former Queen, the amber lattice of your magic humming between you like the strings of a lethal instrument. As she collapses, a dark, jagged thought crystallizes in the vacuum of your boardroom-bred ambition. You don't just want her keys or her books; you want her essence. You reach into the cold, diamond-sharp center of your SOUL, attempting to visualize the 'consumption' of her magical frequency. You seek to tear the secrets of the fire and the memories of the crown ",
+      "[auto] Processing administrative request for XP audit from Sequence 208 to Sequence 246. During this period, Frisk has achieved several significant milestones in her ascent to power:\n\n1. **Mastery of Crystalline Cage**: You intuitively bypassed academic study to manifest a high-level geometric containment spell. (342 XP)\n2. **Strategic Interrogation**: You broke Toriel's silence regarding the Reliquary of the Fallen, extracting a critical location and trigger mechanism. (331 XP)\n3. **Seizure of ",
+      "[auto] You stand before the shimmering amber lattice, your hand outstretched toward the former Queen. You reach into the cold, diamond-sharp center of your SOUL, attempting to draw her essence into yours, to strip the very memories of the crown from her spirit. [DICE: Charisma (Soul Consumption) 1d20 +6 CHA = 13 +6 = 19 vs DC 25 (Failure)]. \n\nBut the magic of a Boss Monster is not a corporate asset to be liquidated so easily. As your intent strikes her aura, a violent, discordant backlash ripple",
+      "[auto] You do not flinch as the backlash of the Boss Monster's spirit rattles the very foundations of the house. You simply tighten your grip on the invisible threads of the Crystalline Cage, the amber geometry humming with a lethal, high-frequency pitch that begins to bleed the light from the hearth. You loom over Toriel, your shadow cast long and jagged against the yellow wallpaper, the heiress of Ebott-Core demanding a final liquidation of assets.\n\n'Your resistance is no longer a virtue, Tori",
+      "[auto] You step toward the trapped Queen, your shadow falling across the shimmering amber bars of the Crystalline Cage. You reach through the geometric fire to seize the iron ring at her belt. [DICE: Take Keys (Sleight of Hand): 1d20+2 = 1+2 = 3 vs DC 10 (Critical Failure)]. As your fingers brush the metal, the cage hums with a sudden, violent dissonance. The keys slip from your grasp, sliding across the tan carpet and coming to rest inches out of reach beneath her slumped form. Toriel flinches,",
+      "[auto] You pivot on your heel, the 'Tattered Notebook' and 'Cloudy Glasses' already secured in your pack. The keys are the final piece of this domestic puzzle, the iron physical authority needed to match your spiritual command. You glide back into the living room where Toriel remains slumped, her head bowed in the amber flickering light of your dissipating cage. With the cold, rhythmic precision of a professional, you reach down. [DICE: Sleight of Hand 1d20 +2 DEX = 18 +2 = 20 vs DC 10 (Success)",
+      "[auto] You hold the wooden locket in your palm, the tiny, tinny melody of the surface lullaby scraping against the silence of the room. You click the latch again, attempting to find a hidden seam or a secondary compartment that might hold the final piece of the Queen's history. [DICE: Investigation (Examine Locket) 1d20 +0 = 8 +0 = 8 vs DC 15 (Failure)]. \n\nHowever, the mechanism is as stubborn as the woman who owned it. The melody remains a simple, repetitive loop, and the internal portrait is a",
+      "[auto] You loom over the trapped former Queen, the iron ring of keys cold and heavy in your pocket. The 'heiress' has completely dismantled the 'child' in this room, leaving only a clinical, diamond-sharp vacuum of ambition. You do not offer her the comfort of silence. Instead, you lean down, your gaze pinning her slumped form to the tan carpet.\n\n'The Reliquary items, Toriel,' you command, your voice a resonant, chill vibration that cuts through the cloying scent of butterscotch like a surgical ",
+      "[auto] You tighten your grip on the wooden locket, the tinny lullaby continuing its mocking, repetitive loop. The 'Heart Locket' is a dead asset in its current state\u2014a mere piece of jewelry without the 'royal pulse' sync Toriel described. You step toward the amber bars of the Crystalline Cage, your shadow casting a jagged, authoritarian silhouette over the slumped form of the former Queen.\n\n'The lullaby is not enough, Toriel,' you command, your voice a cold, resonant chime that vibrates the very",
+      "[auto] You leave the former Queen slumped in her living room, her spirit bound by the geometric amber bars of your Crystalline Cage. The iron ring of keys is a cold weight in your pocket as you descend the stairs. The air here is thick with the scent of ozone and the damp, salty residue of ghostly tears. You reach the threshold where the stones were pulverized by Toriel's desperate fire magic, the floorboards still warm beneath your bare feet.\n\nYou do not reach for the levers yet. Instead, you p",
+      "[auto] You do not allow the ghost's cryptic melancholy to suffice as an answer. You step forward, the damp, salty mist of Napstablook's tears swirling around your ankles. You reach into the cold, diamond-sharp core of your SOUL and project a surge of authoritative intent that vibrates the very air of the basement. Your voice drops to a resonant, chill chime that cuts through his spectral static like a scalpel.\n\n'The \"Echoes,\" Napstablook. Be precise,' you command, your gaze pinning the transluce",
+      "[auto] Napstablook's translucent form shudders under the weight of your commanding presence, his watery eyes flickering with static as the basement's damp chill deepens. The ghost drifts closer, his misty appendages gesturing hesitantly toward specific scorched patches in the stone floor amid the rubble. [DICE: Intimidation 1d20 +4 MOD = 18 +4 MOD = 22 vs DC 15 (Success)].\n\n'...o-okay... i'll show you...' he whispers, his dragging voice echoing like distant rain. '...there... four echoes... stro",
+      "[auto] You pause in the dim basement, the damp chill seeping through the scorched stone as Napstablook's misty form fades into the shadows. Your mind turns to Toriel, caged upstairs in the Crystalline Cage\u2014her fire dimmed, her will broken. The iron keys weigh heavy in your pocket, the Echoes hum faintly beneath the floor. Killing her would end the threat of interference, but is it the optimal play for your ascent?",
+      "[auto] Toriel's eyes, dimmed by defeat yet flickering with the embers of her unyielding pacifism, meet yours through the amber lattice. The weight of your offer\u2014vice-regency in an empire of Determination\u2014hangs heavy, laced with the shared scars of fallen thrones. [DICE: Persuasion 1d20 +4 = 14 +4 = 18 vs DC 22 (Fail)].\n\nShe shakes her head slowly, her voice a ragged whisper echoing off the scorched stones. 'Frisk... my heir in shadows... even queens crave peace over crowns stained by souls. I ca",
+      "[auto] You stand before the shimmering amber bars of the Crystalline Cage, the iron keys heavy in your pocket and the cold weight of the wooden locket in your hand. Toriel\u2019s refusal to serve your new order hangs in the ozone-heavy air, a final, fragile barrier of maternal stubbornness that you no longer have the patience to navigate. The corporate heiress does not tolerate assets that refuse to be integrated.\n\nWith the clinical precision of a liquidator closing a bankrupt branch, you reach into ",
+      "[auto] The user is correct. Their current XP is 8,006, which exceeds the 6,500 threshold for Level 5 in D&D 5E. I need to process this level-up, adjust the state, and provide the administrative confirmation. Since this is GOD MODE, I will finalize the mechanical transition and explain the gains.",
+      "[auto] The character has reached Level 5, a major power spike for the Determination Adept. In D&D 5E, this increases Proficiency Bonus to +3 and grants access to 3rd-level spells. Given Frisk's Lawful Evil 'Conqueror' path and her corporate heiress background, the mechanical choices should reflect absolute authority and the ability to command the battlefield. I am applying the Level 5 updates and presenting the administrative choices for spell selection and feature refinement.",
+      "[auto] The user has reached Level 5 and is selecting 3rd-level spells. Counterspell and Hypnotic Pattern have been chosen, representing the ultimate corporate control and tactical neutralization. This level-up represents a significant power spike, granting access to the peak of the Dreemurr royal magic and Frisk's own inherited authority.",
+      "[auto] The dust of the former Queen has barely settled on the scorched basement floor when a flicker of residual fire magic\u2014a dying gasp of Toriel's maternal ward\u2014attempts to coalesce into a final, vengeful spark. You do not flinch. With the cold, rhythmic precision of a professional liquidator, you raise a hand. \n\n[DICE: Counterspell (CHA) 1d20 +4 CHA = 10 +4 = 14 vs DC 13 (Success)].\n\nYou snap your fingers, and the crystalline frequency of your SOUL shatters the developing spell before it can ",
+      "[auto] The administrative correction has been logged. Your soul resonance recalibrates, the geometric threads of your magic vibrating with the precise frequency of the 'Fireball' weave alongside your 'Counterspell' protocols. You stand over the scorched stone of the basement, the dust of the former Queen a grey shroud upon the floor, and the Heart Locket in your hand pulsing with the dark, heavy rhythm of the crown you've just inherited.\n\nDeep in the silence that follows the explosion, the Echoe",
+      "[auto] You stand amidst the grey dust of the former Queen, the basement air thick with the smell of ozone and the heavy weight of centuries-old secrets. You hold the wooden Heart Locket in your palm; it feels cold, a dormant asset awaiting the signature of its new owner. You close your eyes, withdrawing your focus from the scorched masonry and the spectral weeping of the ghost in the corners. \n\nYou reach into the diamond-sharp core of your SOUL, but you don't project a command. Instead, you draw",
+      "[auto] You kneel amidst the grey, silent drifts that were once the Queen of the Ruins. The dust is fine, clinging to the scorched stones like a shroud of forgotten sovereignty. You reach out, your fingers cold and steady as you begin to gather the essence into a glass vial. [DICE: Survival (Gather Dust) 1d20 +5 = 3 +5 = 8 vs DC 12 (Failure)]. \n\nHowever, the dust is unyielding, scattered by the residual heat of your Fireball and the damp, salty mist of the ghost's tears. It slips through your fin",
+      "[auto] The grey dust of the former Queen still hangs in the basement air, a silent testament to the 'liquidation' of the Ruins' old management. You ascend the stairs with the iron ring of keys clinking at your hip, the Heart Locket pulsing a heavy, rhythmic crimson against your chest. The house is yours now, and you move through it with the clinical detachment of an executive conducting a final inventory.\n\nYou start with the kitchen and living room, stripping the domestic facade of any remaining"
+    ],
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "active_constraints": [],
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2025-12-29 13:29:57.690000+00:00",
+  "turn_number": 63,
+  "player_turn": 63,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 20,
+    "minute": 30,
+    "time_of_day": "Night",
+    "day": 29,
+    "year": 2025,
+    "month": 12
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {
+    "last_note": "HD: 5/5, Spells: L1 4/4, L2 3/3, L3 2/2, Refusal: 1/1, Candy: 1, Keys: Iron Ring"
+  },
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "rumors": [
+    {
+      "turn_generated": 63,
+      "content": "The Froggits are looking for a new Queen, but they only know how to bow to fire.",
+      "source_type": "Distant Croaking",
+      "scene_generated": 32,
+      "accuracy": "partial"
+    }
+  ],
+  "encounter_state": {
+    "encounter_summary": {
+      "outcome": "success",
+      "xp_awarded": 1800,
+      "target": "Toriel",
+      "method": "Crystalline Cage Collapse"
+    },
+    "encounter_completed": true,
+    "encounter_type": "narrative_victory",
+    "rewards_processed": true,
+    "encounter_active": false
+  },
+  "world_events": {
+    "rumors": [
+      {
+        "turn_generated": 60,
+        "content": "They say the grey dust in the basement isn't just ash; it's the recipe for a kingdom that never was.",
+        "source_type": "Basement Echoes",
+        "scene_generated": 30,
+        "accuracy": "true"
+      }
+    ],
+    "turn_generated": 60,
+    "background_events": [
+      {
+        "turn_generated": 63,
+        "status": "pending",
+        "discovery_condition": "Visible upon exiting the house",
+        "actor": "Ruins Froggits",
+        "action": "Gathered in mass silence outside the house entrance, sensing the shift in royal resonance.",
+        "player_impact": "Potential subjects or obstacles.",
+        "event_type": "immediate",
+        "scene_generated": 32
+      },
+      {
+        "discovery_condition": "High Perception in the basement",
+        "status": "pending",
+        "turn_generated": 63,
+        "actor": "Flowey",
+        "action": "Completed a bypass tunnel into the basement wall, watching the Reliquary opening from the shadows.",
+        "player_impact": "Risk of ambush or theft.",
+        "scene_generated": 32,
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Intercepting news in next zone",
+        "status": "pending",
+        "turn_generated": 63,
+        "actor": "Royal Guard Scout",
+        "action": "Sent a carrier-bird message to the Capital: 'Ruins Beacon active. The Queen's pulse has ceased.'",
+        "player_impact": "Increased pursuit.",
+        "scene_generated": 32,
+        "event_type": "immediate"
+      },
+      {
+        "turn_generated": 63,
+        "status": "pending",
+        "discovery_condition": "Visible change in Core mechanics in 15 turns",
+        "actor": "Asgore Dreemurr",
+        "action": "Ordered the activation of the 'Core Protocol' in response to the beacon.",
+        "player_impact": "Final destination fortified.",
+        "scene_generated": 32,
+        "event_type": "long_term"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2365 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "hp_current": 72,
+    "ramsay_redemption": -36,
+    "spells_known": [
+      {
+        "name": "Vicious Mockery",
+        "level": 0
+      },
+      {
+        "name": "Minor Illusion",
+        "level": 0
+      },
+      {
+        "name": "Hunter's Mark",
+        "level": 1
+      },
+      {
+        "name": "Dissonant Whispers",
+        "level": 1
+      },
+      {
+        "name": "Bane",
+        "level": 1
+      },
+      {
+        "name": "Disguise Self",
+        "level": 1
+      },
+      {
+        "name": "Invisibility",
+        "level": 2
+      },
+      {
+        "name": "Silence",
+        "level": 2
+      },
+      {
+        "name": "Hold Person",
+        "level": 2
+      }
+    ],
+    "base_attributes": {
+      "intelligence": 14,
+      "dexterity": 16,
+      "wisdom": 10,
+      "constitution": 14,
+      "strength": 8,
+      "charisma": 20
+    },
+    "weapon_proficiencies": [
+      "longbow"
+    ],
+    "name": "Ramsay (Bolton-Stark)",
+    "attributes": {
+      "intelligence": 14,
+      "dexterity": 16,
+      "wisdom": 10,
+      "constitution": 14,
+      "strength": 8,
+      "charisma": 20
+    },
+    "hp_max": 72,
+    "race": "Human (Northman)",
+    "inventory": [
+      "Backpack",
+      "Bedroll",
+      "Mess kit",
+      "Tinderbox",
+      "Torch (10)",
+      "Rations (10 days)",
+      "Waterskin",
+      "Rope (50 feet)",
+      "Coin pouch (10gp)",
+      "Coin pouch (100gp)",
+      "Frey-marked Steel Plate inserts",
+      "Roose's Severed Head",
+      "Dreadfort Master Keys",
+      "Lannister-Bolton Correspondence",
+      "The Maester's Cypher (Blood-stained)",
+      "6 Jars of Wildfire (Sun-Eater)"
+    ],
+    "features": [
+      "Full Level 1-30 Dreadblade Shadow Progression Unlocked",
+      "Dreadful Flourish (Lv 1)",
+      "Umbral Ambush (Lv 2)",
+      "Sadistic Insight (Lv 3)",
+      "Flayer's Grace (Lv 6)",
+      "Second-in-Command: Authority over the Northern Host",
+      "Wielder of the Ancient Stark Ring",
+      "Second-in-Command of the Northern Host",
+      "Wielder of Oath-Eater",
+      "Wielder of The Whisper",
+      "Wielder of Flayer's Oath",
+      "Level 7 Dreadblade Shadow: Evasion",
+      "Level 7: Evasion",
+      "Level 7: Evasion",
+      "Level 8 ASI: Charisma +2",
+      "Masterful Manipulation: +11 to CHA checks",
+      "Level 9 Dreadblade Shadow: Stalker's Flurry",
+      "Sovereign of the Dreadfort (Inherited)"
+    ],
+    "custom_campaign_state": {
+      "jon_corruption": 70,
+      "ramsay_redemption": -55,
+      "robb_corruption": 94,
+      "success_streak": 4,
+      "active_effects": [
+        "Sadistic Insight (Scorpion) - Advantage on all social checks against the Scorpion"
+      ]
+    },
+    "resources": {
+      "hit_dice": {
+        "total": 9,
+        "used": 0
+      },
+      "class_features": {
+        "dreadful_dice": {
+          "max": 4,
+          "used": 2
+        }
+      },
+      "gold": 8300,
+      "spell_slots": {
+        "level_1": {
+          "max": 4,
+          "used": 0
+        },
+        "level_2": {
+          "max": 2,
+          "used": 0
+        }
+      }
+    },
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "name": "Flayer's Kit",
+          "stats": "Advantage on Intimidation"
+        },
+        {
+          "equipped": false,
+          "name": "Roose Bolton's Signet Ring",
+          "stats": "Proof of Betrayal"
+        },
+        {
+          "name": "Whetstone of Precision",
+          "stats": "1/day: +1 damage to next 3 weapon hits",
+          "type": "tool"
+        }
+      ],
+      "weapons": [
+        {
+          "bonus": 1,
+          "type": "weapon",
+          "damage": "1d8",
+          "weight": 2,
+          "description": "A longbow of weirwood with a grip wrapped in flayed leather. Its arrows are tipped with Valyrian steel, allowing them to punch through plate armor with ease.",
+          "name": "The Needle's Eye",
+          "equipped": true,
+          "properties": [
+            "ammunition",
+            "heavy",
+            "range (150/600)",
+            "two-handed",
+            "finesse (custom)"
+          ],
+          "damage_type": "piercing",
+          "value_gp": 2500
+        }
+      ],
+      "off_hand": {
+        "equipped": true,
+        "name": "The Whisper (Valyrian Steel Dagger)",
+        "stats": "1d4+4 piercing + 1d4 psychic (crit); ignores resistance to non-magical damage; +1 to attack/damage"
+      },
+      "armor": {
+        "armor_class": 18,
+        "equipped": true,
+        "name": "Shadow-Stitched Reinforced Mail",
+        "stats": "AC 17 (Max Dex +2); Advantage on Stealth checks in any lighting.",
+        "type": "medium",
+        "stealth_disadvantage": false
+      },
+      "main_hand": {
+        "equipped": true,
+        "name": "Flayer's Oath (Valyrian Steel Longsword)",
+        "stats": "1d8+4 slashing + 1d8 psychic (versatile 1d10+4); Finesse; Ignores resistance to non-magical damage; +1 to attack/damage"
+      },
+      "cloak": {
+        "equipped": true,
+        "name": "Superior Cloak of the North",
+        "stats": "Resistance to Cold damage"
+      }
+    },
+    "description": "Play as Ramsay Bolton but let's make me half Bolton half stark bastard. I am evil and sadistic but have a sense of honor. Make me a custom cha based class that's like a mixture of assassin gloomstalker and swords bard. Give me reasonable equipment and items. Start the first scene where I am rescuing Robb and his men from the red wedding because I hate oathbreakers. Narrate it in detail. We narrowly make it out alive but at least Robb and his mom are safe and half the lords. Rob should be extremely grateful toe because I betrayed my own father",
+    "class": "Dreadblade Shadow",
+    "skills": [
+      "Expertise: Deception",
+      "Expertise: Intimidation",
+      "Expertise: Performance",
+      "Expertise: Persuasion"
+    ],
+    "level": 10,
+    "armor_proficiencies": [
+      "medium armor"
+    ],
+    "experience": {
+      "needed_for_next_level": 85000,
+      "to_next_level": 750,
+      "current": 84250
+    }
+  },
+  "world_data": {
+    "current_location_name": "Trident Northern Banks",
+    "world_time": {
+      "year": 299,
+      "month": "Month 9",
+      "microsecond": 0,
+      "hour": 5,
+      "minute": 15,
+      "time_of_day": "dawn",
+      "day": 18,
+      "second": 0
+    },
+    "location": "The Trident, Riverlands"
+  },
+  "npc_data": {
+    "Jon Snow": {
+      "hp_current": 52,
+      "conscious": true,
+      "level": 6,
+      "role": "Brother of the Night's Watch (Deserted)",
+      "present": true,
+      "attributes": {
+        "intelligence": 12,
+        "dexterity": 14,
+        "charisma": 12,
+        "constitution": 14,
+        "strength": 14,
+        "wisdom": 14
+      },
+      "armor_class": 16,
+      "name": "Jon Snow",
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "history": [
+            "Yielded to the Bastard's Bond after the Fever River patrol suppression"
+          ],
+          "trust_level": 4
+        }
+      },
+      "status": "conscious",
+      "string_id": "npc_jon_001",
+      "hp_max": 52
+    },
+    "Roose Bolton": {
+      "tier": "lord",
+      "role": "Lord of the Dreadfort",
+      "relationships": {
+        "player": {
+          "grievances": [
+            "Betrayal of House Bolton",
+            "Saving the Starks"
+          ],
+          "history": [
+            "Ramsay betrayed him at the Twins"
+          ],
+          "trust_level": -8,
+          "disposition": "hostile"
+        }
+      },
+      "level": 12,
+      "string_id": "npc_roose_001",
+      "name": "Roose Bolton"
+    },
+    "lord_harren_001": {
+      "name": "Lord Harren Ryswell",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "history": [
+            "Summoned & forced oath"
+          ],
+          "trust_level": -5
+        }
+      },
+      "level": 8,
+      "tier": "lord"
+    },
+    "Bolton Messenger": {
+      "hp_current": 2,
+      "status": "unconscious"
+    },
+    "npc_kyra_001": {
+      "name": "Kyra",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 8
+        }
+      },
+      "level": 5,
+      "string_id": "npc_kyra_001",
+      "role": "Mistress / Gloomstalker"
+    },
+    "Grunt": {
+      "hp_current": 58,
+      "level": 6,
+      "hp_max": 58
+    },
+    "Skinner": {
+      "hp_current": 52,
+      "level": 6,
+      "hp_max": 52
+    },
+    "Lizard-lion": {
+      "hp_current": 15,
+      "armor_class": 13,
+      "name": "Lizard-lion",
+      "status": "wounded",
+      "string_id": "npc_lizard_lion_001",
+      "hp_max": 22
+    },
+    "Kyra": {
+      "hp_current": 48,
+      "conscious": true,
+      "combat_stats": {
+        "speed": 35,
+        "passive_perception": 18,
+        "initiative": 6
+      },
+      "role": "Mistress & Gloomstalker",
+      "present": true,
+      "attributes": {
+        "intelligence": 10,
+        "dexterity": 18,
+        "charisma": 12,
+        "constitution": 14,
+        "strength": 10,
+        "wisdom": 14
+      },
+      "armor_class": 16,
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "history": [
+            "Mistress of the Dreadblade",
+            "Executed the Twins sabotage"
+          ],
+          "trust_level": 10
+        }
+      },
+      "level": 6,
+      "string_id": "npc_kyra_001",
+      "hp_max": 48
+    },
+    "Theon Greyjoy": {
+      "name": "Reek",
+      "status": "SURRENDERED"
+    },
+    "Lord Wyman Manderly": {
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "history": [
+            "Witnessed execution of his Master-of-Coin",
+            "Forced into public oath of fealty via terror"
+          ],
+          "trust_level": -8
+        }
+      }
+    },
+    "Robb Stark": {
+      "tier": "king",
+      "role": "King in the North",
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "history": [
+            "Ramsay saved his life at the Red Wedding"
+          ],
+          "trust_level": 4
+        }
+      },
+      "level": 8,
+      "string_id": "npc_robb_001",
+      "name": "Robb Stark"
+    },
+    "Sour-Alyn": {
+      "hp_current": 52,
+      "level": 6,
+      "hp_max": 52
+    },
+    "Captain Hake": {
+      "hp_current": 47,
+      "status": [
+        "Bloodied",
+        "Pinned",
+        "Terrorized",
+        "Wavering"
+      ]
+    },
+    "Brave Companions Remnants": {
+      "entity_type": "npc",
+      "tier": "guard",
+      "attitude_to_party": "friendly",
+      "status": "conscious"
+    },
+    "Sergeant Steel-Eye Jax": {
+      "hp_current": 0,
+      "status": "dying"
+    },
+    "Roose Bolton (Lvl 12)": {
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "history": [
+            "Ramsay betrayed the Red Wedding plot",
+            "Ramsay stole his signet ring"
+          ],
+          "trust_level": -10
+        }
+      },
+      "status": "hostile"
+    },
+    "npc_skinner_001": {
+      "name": "Skinner",
+      "role": "Elite Guard / Fighter",
+      "level": 5,
+      "string_id": "npc_skinner_001"
+    },
+    "Robb Stark (Lvl 8)": {
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "history": [
+            "Ramsay saved his life from a Frey bolt",
+            "Ramsay betrayed the Boltons for the Starks"
+          ],
+          "trust_level": 5
+        }
+      }
+    },
+    "npc_jax_001": {
+      "hp_current": 45,
+      "status": "conscious",
+      "role": "Bolton Outrider Sergeant",
+      "armor_class": 15,
+      "name": "Sergeant Steel-Eye Jax",
+      "present": true,
+      "level": 4,
+      "string_id": "npc_jax_001",
+      "hp_max": 45
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "jon_corruption": 66,
+    "ramsay_redemption": -48,
+    "god_mode_directives": [
+      {
+        "rule": "Prioritize extensive, character-specific dialogue in all narrative responses.",
+        "added": "2026-02-05T06:44:43.480915+00:00"
+      },
+      {
+        "rule": "Dialogue blocks should be longer and more frequent to deepen character relationships and immersion.",
+        "added": "2026-02-05T06:44:43.481033+00:00"
+      },
+      {
+        "rule": "Maintain the immersive narrative style (sights, sounds, emotions) while expanding on verbal interactions.",
+        "added": "2026-02-05T06:44:43.481117+00:00"
+      },
+      {
+        "rule": "Always treat Ramsay's custom medium armor as providing Advantage on Stealth rolls.",
+        "added": "2026-02-05T06:57:36.990739+00:00"
+      },
+      {
+        "rule": "Ramsay's maximum Dexterity bonus to AC is capped at +2 while wearing his current reinforced mail.",
+        "added": "2026-02-05T06:57:36.990835+00:00"
+      },
+      {
+        "rule": "Apply Expertise (double proficiency bonus) to all of Ramsay's Charisma-based skill checks.",
+        "added": "2026-02-05T07:01:51.038786+00:00"
+      },
+      {
+        "rule": "Always treat 'The Needle's Eye' as a finesse weapon for Ramsay, allowing the use of CHA for attack and damage rolls.",
+        "added": "2026-02-05T07:20:27.216401+00:00"
+      },
+      {
+        "rule": "Track Robb's Corruption and Ramsay's Redemption (0-100%) based on Social HP outcomes.",
+        "added": "2026-02-05T07:29:13.265861+00:00"
+      },
+      {
+        "rule": "Apply penalties to Ramsay's 'evil' actions if Redemption track is above 25%.",
+        "added": "2026-02-05T07:29:13.265947+00:00"
+      },
+      {
+        "rule": "Narrate Robb's shifting dialogue and tactical choices as his Corruption increases.",
+        "added": "2026-02-05T07:29:13.266022+00:00"
+      },
+      {
+        "rule": "Adopt Ramsay's show-accurate linguistic style: rhythmic, soft-spoken menace mixed with dark, visceral humor.",
+        "added": "2026-02-13T10:08:15.507747+00:00"
+      },
+      {
+        "rule": "Ensure jokes and metaphors reflect a sadistic nature balanced with the iron-clad 'Stark Honor' code established in state.",
+        "added": "2026-02-13T10:08:15.507766+00:00"
+      },
+      {
+        "rule": "Ramsay's Redemption only increases through altruistic 'Good' acts or losing contested Persuasion rolls against Robb/Jon.",
+        "added": "2026-02-05T08:26:24.602851+00:00"
+      },
+      {
+        "rule": "Keeping oaths and effective coordination are Neutral actions for Ramsay and do not grant Redemption points.",
+        "added": "2026-02-05T08:26:24.603023+00:00"
+      }
+    ],
+    "character_creation_stage": "complete",
+    "last_living_world_time": {
+      "year": 299,
+      "month": "Month 11",
+      "day": 7,
+      "minute": 0,
+      "hour": 0
+    },
+    "world_time": {
+      "year": 299,
+      "month": "Month 9",
+      "microsecond": 0,
+      "hour": 0,
+      "minute": 45,
+      "time_of_day": "Midnight",
+      "day": 16,
+      "second": 0
+    },
+    "corruption_cap_active": true,
+    "faction_minigame": {
+      "faction_power": 3206,
+      "suggestion_given": false,
+      "tutorial_completed": false,
+      "resources": {
+        "gold": 6300,
+        "arcana": 0,
+        "citizens": 0,
+        "max_citizens": 0,
+        "max_arcana": 0,
+        "territory": 0,
+        "fortifications": 1
+      },
+      "strong_suggestion_given": false,
+      "units": {
+        "soldiers": 2100,
+        "spies": 80,
+        "elites": 20,
+        "elite_avg_level": 7.0
+      },
+      "ranking": 201,
+      "tutorial_progress": {},
+      "enabled": true,
+      "buildings": {
+        "shadow_networks": 1,
+        "training_grounds": 1,
+        "farms": 2,
+        "fortifications": 1
+      },
+      "turn_number": 1
+    },
+    "alliances": [
+      {
+        "faction_name": "House Reed",
+        "status": "allied",
+        "turns_remaining": null
+      }
+    ],
+    "level_up_pending": true,
+    "divine_upgrade_available": false,
+    "army_data": {
+      "total_strength": 1800
+    },
+    "world_events": {
+      "background_events": [
+        {
+          "status": "pending",
+          "player_impact": "Reduced window to secure the North before Roose arrives",
+          "event_type": "immediate",
+          "actor": "Roose Bolton",
+          "action": "Ordered the main host to accelerate their march toward the Dreadfort",
+          "discovery_condition": "Intercepted ravens or scouts in 2-3 turns",
+          "player_aware": false
+        },
+        {
+          "status": "discovered",
+          "player_impact": "Disadvantage on ranged attacks and tracking for next 4 hours",
+          "event_type": "immediate",
+          "actor": "Nature",
+          "action": "A heavy black-water storm is brewing over the Neck",
+          "discovery_condition": "Wind shifts and sky darkens in the courtyard",
+          "player_aware": true
+        },
+        {
+          "status": "discovered",
+          "player_impact": "Wounded Northmen recovering faster; morale boost",
+          "event_type": "immediate",
+          "actor": "Talisa Stark",
+          "action": "Established a triage center in the captured gatehouse",
+          "discovery_condition": "Visible activity in the guardroom",
+          "player_aware": true
+        },
+        {
+          "status": "pending",
+          "player_impact": "Succession crisis among the Freys may weaken their pursuit",
+          "event_type": "long_term",
+          "actor": "Walder Frey",
+          "action": "His health has taken a turn for the worse after the news of the Red Wedding's partial failure",
+          "discovery_condition": "Rumors from the Twins in 15-20 turns",
+          "player_aware": false
+        },
+        {
+          "outcome": "Tywin's main host is closer than reported",
+          "action": "Spotted crossing the Blackwater Rush near the God's Eye",
+          "event_type": "immediate",
+          "actor": "Lannister Outriders",
+          "location": "Southern Riverlands",
+          "status": "pending",
+          "discovery_condition": "Intercepted scout or raven",
+          "player_aware": false
+        },
+        {
+          "outcome": "Chaos in the outer ward; visibility reduced",
+          "action": "A localized fire has broken out among the straw pits",
+          "event_type": "immediate",
+          "actor": "Harrenhal Stables",
+          "location": "Outer Ward, Harrenhal",
+          "status": "discovered",
+          "discovery_condition": "Smoke visible from the tower windows",
+          "player_aware": true
+        },
+        {
+          "outcome": "Arrival at the Trident delayed by 2 days",
+          "action": "Encountered a sudden squall off the coast of the Fingers",
+          "event_type": "immediate",
+          "actor": "Manderly Fleet",
+          "location": "The Narrow Sea",
+          "status": "pending",
+          "discovery_condition": "Report from shadow network agent",
+          "player_aware": false
+        },
+        {
+          "outcome": "King's Landing will be under siege within the month",
+          "action": "Began the heavy embarkation of his host from Dragonstone",
+          "event_type": "long_term",
+          "actor": "Stannis Baratheon",
+          "location": "Dragonstone",
+          "status": "pending",
+          "discovery_condition": "News filters through merchants in 10-15 turns",
+          "player_aware": false
+        }
+      ]
+    },
+    "faction_power": 3006,
+    "world_data": {
+      "world_time": {
+        "year": 299,
+        "month": "Month 9",
+        "microsecond": 0,
+        "minute": 45,
+        "hour": 0,
+        "time_of_day": "Night",
+        "day": 16,
+        "second": 0
+      }
+    },
+    "robb_corruption": 90,
+    "last_complication_turn": 257,
+    "class_progression_max": 30,
+    "philosophy_tug_of_war": {
+      "jon_corruption": 30,
+      "ramsay_redemption": 16,
+      "robb_corruption": 55,
+      "mechanics": {
+        "ramsay_drift_consequences": {
+          "softened": "At 50%, Ramsay gains +2 to Persuasion with nobles. Cons: Disadvantage on Intimidation and Torture checks.",
+          "redeemed": "At 100%, Ramsay gains 'Stark Honor' trait. Cons: Ramsay takes 2d6 psychic damage when breaking an oath or killing a non-combatant."
+        },
+        "robb_drift_consequences": {
+          "dark": "At 100%, Robb adopts Bolton methods. Pros: Total military dominance. Cons: Civil war with Northern traditionalists.",
+          "pragmatic": "At 50%, Robb allows 'Nightshade' tactics without consultation. Pros: Higher mission success. Cons: -20 Public Reputation."
+        }
+      },
+      "active_arc": "The Struggle for the Soul of the North"
+    },
+    "complications": {
+      "triggered": true,
+      "type": "traitor_revealed",
+      "severity": "continental",
+      "description": "Roose Bolton is now fully aware of Ramsay's betrayal at the Twins and is adjusting his strategy to eliminate the 'White Flayer'. The main Bolton host is no longer hunting ghosts; they are hunting you.",
+      "discovery_condition": "Stark runner brings news to the courtyard."
+    },
+    "last_living_world_turn": 299,
+    "last_location": "The Great Hall, New Castle, White Harbor",
+    "active_missions": [
+      {
+        "mission_id": "march_on_dreadfort",
+        "status": "accepted",
+        "objective": "Lead the vanguard to the Dreadfort to secure Theon as a Stark asset and eliminate Roose's leverage.",
+        "title": "The Flayer's Return"
+      }
+    ],
+    "budget_warnings_shown": [
+      "budget_warning_system_instruction_emergency",
+      "budget_warning_story_context_compacted"
+    ],
+    "arc_milestones": {
+      "primary_arc": {
+        "completed_at": "2026-02-13T10:08:15.507790+00:00",
+        "phase": "Arrival at the Neck",
+        "progress": 100,
+        "status": "completed",
+        "completed_at_lore": "299-06-01T09:00:00Z"
+      },
+      "winterfell_reclamation": {
+        "phase": "Heart Reclaimed",
+        "progress": 100,
+        "status": "completed"
+      },
+      "soul_of_the_north": {
+        "phase": "The Butcher's Necessity",
+        "progress": 50,
+        "status": "in_progress"
+      },
+      "harrenhal_sabotage": {
+        "updated_at": "2026-03-15T05:42:17.441872+00:00",
+        "phase": "Gold Secured & Tower Burned",
+        "progress": 100,
+        "status": "completed",
+        "updated_at_lore": "299-09-16T17:00:00Z"
+      },
+      "moat_cailin_siege": {
+        "phase": "Moat Secured",
+        "progress": 100,
+        "status": "completed"
+      }
+    },
+    "campaign_tier": "mortal",
+    "core_memories": [
+      "[auto] Midnight (21:00:00) at the Twins\u2014the air is thick with the copper tang of blood and the smell of spilled ale. You stand amidst the carnage, the 'Dreadblade Shadow' mechanics flowing through your veins as naturally as your dual heritage. Below are the specific details of your custom class path.\n\n### Class: Dreadblade Shadow (Charisma Martial Hybrid)\n\n**Level 1: Dreadful Flourish**\nYou have mastered the art of making murder beautiful. You can use your Charisma modifier instead of Strength o",
+      "[auto] Night (21:15:00) in the Great Hall of the Twins\u2014the festive music of 'The Rains of Castamere' has become a death knell. The feast tables are upended, and the screams of Northmen drown out the frantic barking of Grey Wind in the distance. Robb Stark stands paralyzed, his eyes wide as he realizes the magnitude of the Frey betrayal. Across the hall, a Frey crossbowman levels his weapon at the King in the North's heart.\n\nTime seems to slow. Before the bolt can fly, you surge forward. With a m",
+      "[auto] Night (21:20:00) in the Great Hall of the Twins\u2014the air is a choking fog of iron-scent and woodsmoke as the massacre turns into a desperate breakout. You snap your fingers, pointing toward the side doors where the kitchens lie. \"Grunt! Take half the boys. Get the King and the Lady Mother to the stables. Don't stop for God or Ghost!\" You bark the command with the authority of a high lord, but in the screeching chaos of the hall, the coordination falters. Grunt (Lvl 4) hesitates for a heart",
+      "[auto] Night (21:25:00) in the Great Hall of the Twins\u2014the air is a screaming vortex of betrayal. You whirl Stark's Vengeance (Lvl 6) in a savage arc, the wolf-headed pommel trailing a spray of crimson as you bury the steel into the chest of a Frey guard (Lvl 2). As he falls, gurgling on his own treachery, you let out a sharp, piercing whistle that cuts through the din of 'The Rains of Castamere.'\n\n\"Kyra! Now!\" you bellow.\n\nFrom the shadows of the gallery, Kyra (Lvl 5), your mistress and most le",
+      "[auto] Night (21:30:00) in the claustrophobic, soot-stained servants' passages of the Twins\u2014the air here smells of damp stone and stale bread, a sharp contrast to the iron-tang of the massacre behind you. You signal for silence, your hand raised in a sharp, Bolton-esque gesture that your men recognize instantly. With Kyra (Lvl 5) acting as your shadow, you lead the unit through the narrow veins of the castle. \n\nYour footsteps are ghosts upon the uneven floor. You avoid a column of Frey guards (L",
+      "[auto] Night (21:35:00) at the Twins\u2014the outer courtyard is a chaotic swirl of torchlight and the panicked bellows of horses. You reach the stables just as Robb (Lvl 6) finishes tightening the cinch on a grey gelding. His hands shake, but the steel of Winterfell is back in his eyes. Catelyn (Lvl 1) stands beside him, her gown torn and blood-spattered, her gaze fixed on the gate where Frey horns continue to blast.\n\n\"Kyra (Lvl 5)!\" you bark, over the roar of a distant fire. \"Give them a distractio",
+      "[auto] Night (02:15:00) in a dense, rain-slicked thicket miles north of the Twins\u2014the air is heavy with the smell of wet earth and the lingering acrid scent of smoke clinging to your armor. The escape was a bloody, jagged affair; while the Frey's main force was occupied with the fires in the stables, you led the remnants of the Stark host through the postern gate. Half the Northern lords are gone\u2014Greatjon Umber was seen fighting like a god before he was swamped, and others lie in the charnel hou",
+      "[auto] Night (02:45:00) in the rain-drenched Riverlands\u2014the small fire hisses as fat from a roasting rabbit drips into the embers, casting long, wavering shadows against the trunks of ancient ironwoods. You stand tall, your Shadow-Stitched armor gleaming like wet beetle-shell in the orange glow. You meet Robb Stark's (Lvl 6) gaze with a cold, unblinking intensity that makes the young King stiffen, his hand tightening reflexively on the pommel of his sword.\n\n\"You ask why I turned my blade against",
+      "[auto] Night (02:50:00) in the rain-drenched Riverlands\u2014the small fire hisses as fat from a roasting rabbit drips into the embers, casting long, wavering shadows against the trunks of ancient ironwoods. You stand tall, your Shadow-Stitched armor gleaming like wet beetle-shell in the orange glow. You meet Robb Stark's (Lvl 6) gaze with a cold, unblinking intensity that makes the young King stiffen, his hand tightening reflexively on the pommel of his sword.\n\n\"You ask why I turned my blade against",
+      "[auto] Early morning (03:15:00) in the hidden camp\u2014the rain has slowed to a thin, cold mist that clings to the trees like a shroud. You are seated on a moss-covered log, the Unnamed Longsword (Lvl 6) resting across your knees as you run a whetstone along its edge. The rhythmic *shing-shing* of the stone is the only sound until the crunch of boots on wet leaves signals an approach. Robb Stark (Lvl 6) emerges from the gloom, looking older than he did when the night began.\n\nHe stops a few paces awa",
+      "Ramsay promoted to Second-in-Command of the Northern Host; received Stark armory upgrades and silver treasury.",
+      "Revealed Stark lineage to Robb and Talisa through an ancient family ring; Robb appointed Ramsay as his second-in-command, vowing to 'forge' him into a better man.",
+      "[auto] Early morning (04:15:00) in the hidden Riverlands camp\u2014the cold mist clings to the trees like a shroud as the first grey light of dawn begins to bleed through the canopy. You stand before Robb Stark (Lvl 6), your Shadow-Stitched Reinforced Mail (Lvl 6) absorbing the dim light, making you appear as little more than a jagged silhouette against the mist.\n\n\"You are a man of honor, Robb Stark,\" you say, your voice a low, rhythmic rasp that carries a chilling weight. \"I respect that. It is a ra",
+      "[auto] Early morning (04:45:00) in the hidden Riverlands camp\u2014the damp air is thick with the smell of wet wool and the low, resentful murmurs of men who have lost their brothers. You stand beside Robb Stark (Lvl 6), the dark, rippled surface of Flayer's Oath (Lvl 6) catching the weak light of the rising sun. The Northern lords remain in a semicircle, their breaths blooming like pale ghosts in the cold air. Lord Galbart Glover (Lvl 5) hasn't moved, his face a map of stubborn defiance, his eyes da",
+      "[auto] Early morning (05:15:00) in the dense thickets of the Riverlands\u2014the mist clings to the mossy earth like a cold, wet shroud as you step into the small, natural hollow where your men have bound the Frey captive. The man-at-arms (Lvl 2) is tied to a stunted ironwood tree, his breath coming in ragged, sobbing gasps. He looks up as you approach, his eyes widening in the dim light as they fix on the dark, rippled steel of Flayer's Oath (Lvl 6) at your hip and the surgical precision of the tool",
+      "[auto] Early morning (05:45:00) in the rain-slicked Riverlands camp\u2014the sun is a pale, bruised smear against the horizon, barely visible through the canopy of dripping pines. You emerge from the hollow where the Frey captive still trembles, your shadow lengthening across the mud. You find Robb (Lvl 6) standing over a makeshift map table with Lord Glover (Lvl 5) and Lady Catelyn (Lvl 1), their faces illuminated by the flickering warmth of a dying brazier.\n\n\"The bird has sung, King Robb,\" you rasp",
+      "[auto] Early morning (07:35:00) on the ridge overlooking the Frey Secondary Camp\u2014the sun has begun to strip away the mist, revealing a scene of quiet, creeping horror. You crouch beside Kyra (Lvl 5), your Shadow-Stitched Reinforced Mail (Lvl 6) blending perfectly with the damp lichen and dark stone of the overlook. Below, the camp is dying. \n\nIt starts at the water barrels. A young squire, barely fourteen, takes a long pull from a ladle and collapses within minutes, his body arching in the mud a",
+      "[auto] The sun begins to bake the morning mist away, revealing the grisly fruit of your labor. You rise from the ridgeline, a dark specter against the awakening sky, and give a sharp, bird-like whistle. Kyra (Lvl 5) stands beside you, her bow already lowered as the last of the camp's defenders\u2014a staggering sergeant clutching his throat\u2014collapses into a muddy puddle.\n\nFrom the treeline, Skinner (Lvl 5), Sour-Alyn (Lvl 5), and Grunt (Lvl 5) emerge at your signal, their blades drawn and gleaming wi",
+      "[auto] Morning (08:35:00) in the hidden Riverlands camp\u2014the sun is a pale, sickly disc struggling against the canopy as the Northern host begins to stir with the heavy, metallic clink of coin being distributed. Within the quiet confines of the command tent, the air is thick with the scent of unwashed wool and the sharp, iron tang of the Frey trophies sitting just outside the flap. You stand across from Robb Stark (Lvl 6), the dark ripples of Flayer's Oath (Lvl 6) gleaming at your hip as you watc",
+      "[auto] Morning (08:45:00) in the hidden Riverlands camp\u2014the scent of pine needles and damp earth is sharp as you stand within the King's pavilion, the low light casting long, jagged shadows against the canvas walls. You maintain your position by the central tent pole, your posture relaxed yet alert, like a wolf waiting for the signal to strike. \n\nYou let a slow, thin smile curl your lips as you meet Robb's (Lvl 6) gaze. \"You want a leash on the beast, King Robb?\" you rasp, the rhythmic vibration",
+      "[auto] Morning (09:30:00) on the road north\u2014the Northern host moves like a bruised, iron-plated serpent through the sodden bogs of the Riverlands. As the vanguard pushes through the knee-deep sludge, you peel away from Robb's side to ride among the younger scions of the great houses\u2014the Karstark cousins, the younger Umbers, and the Cerwyn heirs. They ride with stiff backs, their faces pale under the shadow of Galbart Glover\u2019s constant, poisonous whispering.\n\nYou pull your horse alongside Cley Ce",
+      "[auto] Late morning (11:30:00) in the stagnant, sulfurous bogs of the Riverlands\u2014the air is a thick, humid weight that clings to your Shadow-Stitched Mail like a damp shroud. You move through the waist-high reeds with the fluid, soundless grace of a predator, your 'hounds' fanning out in a perfect, lethal semi-circle behind you. Kyra (Lvl 5) is a phantom to your left, her bow already notched, while Skinner (Lvl 5), Sour-Alyn (Lvl 5), and Grunt (Lvl 5) follow your hand-signals with the mechanical",
+      "[auto] Morning (09:00:00) on the Causeway of the Neck\u2014the air is a stagnant soup of rot and peat, thick with the biting flies that plague the marshes. The march north has been a grueling test of iron, yet the Northern host moves with a grim speed that defies the terrain. For the past week, you and your 'Hounds' have been the phantoms of the vanguard. Every Bolton outrider and Ironborn scout sent to track the King's movement has been found\u2014or rather, displayed. You have left a trail of flayed war",
+      "[auto] Morning (09:15:00) at the edge of the Fever River, The Neck\u2014the air is a thick, humid curtain of sulfur and decay, the kind of stench that lingers in the back of the throat like a bad memory. You stand before Robb Stark (Lvl 6) beneath the sagging boughs of a weeping willow, the dark ripples of Flayer's Oath (Lvl 6) gleaming with moisture as you point toward the jagged silhouettes of Moat Cailin's towers on the horizon.\n\n\"A straightforward fight is for men who want to die with their boots",
+      "[auto] Late morning (10:15:00) in the Deep Mire of the Neck\u2014the air is a rotting, green soup that clings to your Shadow-Stitched Reinforced Mail (Lvl 6) like a cold, wet hand. You move through the waist-high sulfur-water with the soundless grace of a water-snake, your Hounds fanning out behind you. Skinner (Lvl 5) is waist-deep in a patch of black sludge, his face twisted in a silent snarl as he avoids a cluster of razor-sharp bog-grass. \n\n'Stay light on your feet, boys,' you rasp, your voice a ",
+      "[auto] Late morning (11:30:00) in the heart of the Neck\u2014the world here is a shifting, emerald nightmare where the line between water and land dissolves into a treacherous slurry. Following Fen (Lvl 3), you lead your 'Hounds' along the black-water trail, your eyes (14 vs DC 14) tracking the subtle tremors in the peat that betray a hidden sinkhole or the patient, submerged hunger of a lizard-lion. The Shadow-Stitched Reinforced Mail (Lvl 6) remains eerily dry despite the humidity, your every movem",
+      "[auto] Late morning (11:45:00) at Greywater Watch, The Neck\u2014the floating island sways gently beneath your boots, the woven reeds groaning like the spirit of a man who\u2019s been held underwater just a second too long. You lean over a low table of petrified wood, your fingers\u2014stained with the faint, lingering shadow of Frey blood\u2014tracing the jagged veins of the Neck on Howland Reed\u2019s (Lvl 15) own maps.\n\n\"My father doesn't believe in miracles, Lord Howland,\" you rasp, the rhythmic, soft-spoken menace ",
+      "[auto] Midday (12:00:00) in the deep marshes of the Fever River\u2014the air is a stagnant, heavy blanket of sulfur and peat, but for the first time in weeks, the oppressive silence of the swamp is replaced by the rhythmic, splashing tread of an army on the move. You stand at the prow of a Reed skiff as it glides through the reeds, the ancient silver Stark ring on your finger catching the zenith sun. Beside you, Howland Reed (Lvl 15) stands with his children, his mossy cloak blending so perfectly wit",
+      "[auto] Midday (12:15:00) at the Fever River, The Neck\u2014the air is a heavy, humid curtain of sulfur and decay, but the arrival of the Crannogmen relief force has ignited a spark of hope that has been missing since the Twins. Robb Stark (Lvl 6) stands on the muddy bank, his gaze drifting from the silent, mud-caked ranks of Crannogmen (Lvl 3) to the man who brought them here. He looks at you, and for a moment, the King disappears, replaced by a young man who is honest enough to admit the weight of h",
+      "[auto] Midday (13:00:00) at the Fever River, The Neck\u2014the humid silence of the mire is shattered by the rhythmic splashing of hooves. Out of the sulfurous fog, a small column of riders dressed in the soot-black of the Night's Watch emerges, their horses caked in the grey-green mud of the bogs. Leading them is a young man with a face like winter itself, Longclaw strapped to his back and a massive, white direwolf\u2014Ghost\u2014drifting through the reeds like a silent prayer. Jon Snow (Lvl 6) pulls his mou",
+      "[auto] Midday (13:30:00) at the Fever River, The Neck\u2014the humid air is a heavy, sulfurous weight, and the silence of the marsh is only broken by the rhythmic, wet slap of water against the willow roots. You take a slow, deliberate step toward Jon Snow (Lvl 6), your pale eyes locked onto his with a sadistic, playful glint. You let a thin, predatory smile curl your lips, the soft-spoken menace of your voice cutting through the humid tension.\n\n\"The 'Lord Commander' of the Night's Watch speaks of CY",
+      "[auto] Midday (13:45:00) at the Fever River, The Neck\u2014the humid silence is broken by the low, rhythmic buzz of dragonflies as you step toward the man who shares your blood, if not your name. You let the smirk soften, the jagged edge of your mockery giving way to a low, purring rasp that carries the weight of a shared, bitter history.\n\n\"Come now, Jon (Lvl 6). Put away the steel,\" you purr, your voice a rhythmic vibration that draws Ghost's (Lvl 6) red eyes to yours. \"We're bastards, you and I. We",
+      "[auto] Midday (13:50:00) at the Fever River\u2014the humid air thickens with the sudden, jagged tension of a trap sprung from the wrong side. Sergeant 'Steel-Eye' Jax (Lvl 4) stares at you, his hand a white-knuckled claw hovering over the brass horn at his hip. Behind him, two Bolton outriders (Lvl 3) begin to pull their mounts back, their eyes darting toward the reeds where Kyra (Lvl 5) and Jon Snow (Lvl 6) are closing the circle.\n\n\"The world has moved while you were sitting in the mud, Jax,\" you ra",
+      "[auto] Midday (14:00:00) at the Fever River\u2014the humid air is thick with the copper tang of fresh blood and the rhythmic, wet slap of the marsh against the willow roots. You don't look back at the gargling wreck of Sergeant Jax; your eyes are already locked onto the third outrider (Lvl 3), whose horse is frantic, its hooves churning the black peat as it tries to find purchase. \n\nWith a sharp, two-fingered whistle, you signal Jon Snow (Lvl 6). He understands the language of the hunt instinctively.",
+      "[auto] Midday (14:15:00) at the Fever River, the Neck\u2014the humid air is thick with the scent of stagnant water and the metallic, sharp tang of Sergeant Jax's (Lvl 4) terror. You step over the cooling body of the second outrider, your Shadow-Stitched Reinforced Mail (Lvl 6) absorbing the sickly green light of the canopy. Jax is pinned to the mud, his hand a mangled ruin of brass and bone where your arrow found its mark. He stares up at you, his eyes wide and trembling, his breath hitching in a wet",
+      "[auto] Evening (19:15:00) descends upon the Neck like a heavy, suffocating shroud of indigo and charcoal. You stand at the edge of a stagnant pool, watching as the first flickers of torchlight appear on the towers of Moat Cailin. Behind you, the soft, rhythmic splashing of the combined Stark and Reed host signals the arrival of the King. Robb Stark (Lvl 6) and Jon Snow (Lvl 6) emerge from the reeds, their faces grim under the pale light of the rising moon.\n\n\"The bird sang a beautiful tune, Robb,",
+      "[auto] Evening (19:15:00) at the Perimeter of Moat Cailin\u2014the damp air seems to hum with a new, jagged energy as you stand amidst the pitch-soaked barricades. You feel the Dreadblade Shadow's mastery deepening within you, your reflexes sharpening to a point where even the most chaotic blast of fire or hail of arrows would find you moving like smoke. You are no longer just a bastard with a knife; you are an apex predator of the bogs.\n\nRobb (Lvl 7) stands beside you, his jaw set with the iron reso",
+      "[auto] Evening (19:30:00) at the North Gatehouse of Moat Cailin\u2014the humid air, once stagnant with the smell of peat and rot, is suddenly consumed by the sharp, hungry roar of rising flames. You crouch in the shadows of the internal guardroom stairway, the 'Shadow-Stitched' mail drinking the orange flicker of the sabotage you just ignited. Beside you, Jon Snow (Lvl 7) is a silhouette of focused iron, his knuckles white on the hilt of Longclaw. Kyra (Lvl 5) has already melted back into the rafters",
+      "[auto] Evening (19:30:06) in the screaming, smoke-filled heart of Moat Cailin's north gatehouse\u2014the air is a choking cocktail of pitch-fumes and the metallic tang of fresh blood. You flow through the chaos like a spill of shadow, the rhythmic rasp of your breathing steady even as the flames roar just feet away. Jon Snow (Lvl 7) matches your pace, Longclaw a pale, deadly streak in the orange glare as he positions himself at the mouth of the bunkroom stairs.\n\n\"The stairs are mine, Ramsay!\" Jon bel",
+      "Ramsay's Hounds (Kyra, Skinner, Sour-Alyn, Grunt) spearheaded the breach of the Moat Cailin North Gatehouse alongside Jon Snow.",
+      "[auto] Evening (19:30:06) in the North Gatehouse of Moat Cailin\u2014the orange roar of the gatehouse fire casts long, dancing shadows against the heavy stone walls. Below, in the courtyard, Captain Hake (Lvl 7) surges through the smoke, his black plate armor slick with soot and blood. \"Shield wall!\" he bellows, his voice a gravelly rasp of command. \"Get those pikes to the gate! Now!\"\n\nHe doesn't see you. High above in the rafters, you flow through the smoke like a spill of ink, the Shadow-Stitched m",
+      "[auto] Evening (19:30:12) in the North Gatehouse of Moat Cailin\u2014the air is a screaming furnace of orange light and the copper tang of fresh slaughter. You stand perched upon the blackened rafters, the smoke curling around your Shadow-Stitched mail like a lover's caress. Below, the 'Needle's Eye' remains in your grip, the weirwood limbs vibrating with the aftershock of the critical strike that pinned Captain Hake to the timber.\n\nYou offer a sharp, two-fingered whistle that cuts through the roar o",
+      "[auto] Evening (19:30:18) in the North Gatehouse Courtyard\u2014the air is a screaming furnace of orange light and the copper tang of fresh slaughter. High above, you don't hesitate. You flow over the edge of the blackened rafter, a spill of jagged shadow dropping into the vortex of smoke and steel below. The shifting oily clouds mask the ground, and you strike the mud with a bone-jarring impact that forces a sharp grunt from your lungs [Acrobatics: 11 vs DC 15 - Failure; 5 Falling Damage taken]. You",
+      "[auto] Evening (19:30:18) in the North Gatehouse Courtyard of Moat Cailin\u2014the air is a suffocating broth of black smoke and the copper scent of dying men. You stand over Captain Hake (Lvl 7), your Shadow-Stitched mail slick with the mud of your landing, the smoky point of Flayer's Oath (Lvl 7) steady against his trembling throat.\n\n\"You're holding your breath, Hake,\" you purr, the rhythmic, soft-spoken menace of your voice vibrating through the Valyrian steel. \"Don't do that. It makes the lungs s",
+      "[auto] Evening (19:30:24) in the North Gatehouse Courtyard of Moat Cailin\u2014the smoke is a thick, oily velvet that tastes of pitch and old blood. You stand over the broken form of Captain Hake (Lvl 7), the smoky rippled edge of Flayer's Oath (Lvl 7) casting a faint, psychic thrum through your palm. Across the mud, the Ironborn Reavers (Lvl 4) emerge from the Drunkard's Tower, their eyes wild with 'blood-fury,' their axes gleaming with the reflected orange of the gatehouse blaze.\n\n\"Skinner! Grunt!\"",
+      "[auto] Evening (19:35:00) at the base of the Drunkard's Tower, Moat Cailin\u2014the air is a wet, heavy shroud of peat-smoke and the iron-scent of the fresh slaughter in the courtyard. You turn away from the screaming Captain Hake (Lvl 7), your Shadow-Stitched mail slick with mud and spray. You offer a thin, predatory smirk to Jon Snow (Lvl 7), the smoky rippled blade of Flayer's Oath (Lvl 7) humming with a faint, psychic hunger in your grip.\n\n\"The squids are retreating to their shell, Jon,\" you purr",
+      "[auto] Evening (19:45:00) in the damp, smoke-stained lower levels of the Drunkard's Tower\u2014the air is a suffocating broth of rotting timber and the metallic tang of fresh Ironborn blood. You stand over the three survivors, the smoky Valyrian steel of Flayer's Oath (Lvl 7) reflecting the orange flicker of the courtyard fires. They are huddled against a salt-crusted wall, their eyes wide with the raw, primitive terror that only a Bolton can inspire.\n\n\"You're shivering,\" you purr, your voice a low, ",
+      "Roose Bolton has confirmed Ramsay's betrayal; the shadow war between father and son has begun in earnest.",
+      "[auto] Night (20:30:00) in the Deep Mire of the Neck\u2014the world is a suffocating shroud of black-water and weeping willow, the silence of the swamp broken only by the rhythmic, frantic splashing of a horse riding for its life. You move through the waist-high reeds like a spill of oil, your Shadow-Stitched Reinforced Mail (Lvl 7) drinking the moonlight to keep you a jagged, indistinct silhouette. Beside you, Kyra (Lvl 6) is a phantom of focused intent, her breathing as steady as the swamp\u2019s own he",
+      "[auto] Night (20:45:00) at the Fever River Crossing finds you standing ankle-deep in the cold, treacherous sludge of the riverbank. You extend a hand, your fingers curling as if plucking a string in the air, whispering the jagged, rhythmic incantation of *Hold Person*. The air between you and the fleeing messenger ripples with a sickly violet distortion.\n\nThe messenger (Lvl 3) stiffens in his saddle, his eyes glassing over as the psychic shackles of your will lash around his limbs. For a heartbe",
+      "[auto] Night (20:46:00) at the Fever River Crossing finds the black water churning into a frothing, indigo slurry as the Bolton messenger's horse struggles against the current. You step deeper into the cold mud, your fingers twisting in a complex, agonizing rhythm that mirrors the flaying of a man's mind. \n\n\"The bogs don't like secrets, little bird,\" you purr, the soft-spoken menace of your voice cutting through the roar of the river like a winter frost. \"And neither do I. Let's see how well you",
+      "[auto] Night (21:02:00) at the Fever River Crossing\u2014the air is a stagnant shroud of indigo fog and the rhythmic, wet slap of the dark current against the reeds. You stand over the shivering messenger (Lvl 3), the rippled smoky edge of Flayer's Oath (Lvl 7) resting against his jugular. Your hands move with the surgical precision of a Dreadfort master, patting down his wet leather jerkin and checking the seams of his boots, but the documents elude you. The 'bird' is wet, terrified, and empty-hande",
+      "[auto] Night (21:02:20) at the Fever River Crossing\u2014the prehistoric roar of the lizard-lion is a jagged tear in the indigo silence. You move with a speed that defies the sucking mud of the riverbank, your reflexes honed to a razor's edge. As the messenger (Lvl 3) draws that final, desperate breath to ruin your shadow-work, your hand snaps out like a striking adder.\n\n*Thud.*\n\nThe heavy, wolf-headed pommel of Flayer's Oath (Lvl 7) connects with the base of the messenger's skull in a sharp, rhythmi",
+      "[auto] Night (21:07:20) in the suffocating indigo gloom of the Deep Mire\u2014the sulfurous air is thick enough to chew, smelling of rot and the fresh, metallic tang of the lizard-lion\u2019s Eye-wound. You don't waste a heartbeat watching the beast thrash. You move with a rhythmic, predatory grace, your Shadow-Stitched Reinforced Mail (Lvl 7) drinking the moonlight as you grab the unconscious Bolton messenger (Lvl 3) by the collar of his wet wool tunic.\n\n\"The horse, Kyra (Lvl 6),\" you rasp, the low vibra",
+      "[auto] Night (21:17:20) in the Deep Mire, Fever River Vicinity\u2014the air in the petrified hollow is stagnant, thick with the smell of wet wool and the iron-scent of the lizard-lion's blood cooling nearby. You lean over the unconscious messenger, splashing a handful of brackish swamp water into his face. He sputters, his eyes flying open to find you looming over him, a spill of ink-black shadow in the moonlight. \n\n\"The bird is awake,\" you purr, the rhythmic rasp of your voice carrying a soft-spoken",
+      "[auto] Night (22:17:20) in the hidden Riverlands camp\u2014the cold, damp air of the Neck finally gives way to the familiar scent of woodsmoke and wet wool as you emerge from the indigo gloom. The trek back from the Fever River was a rhythmic exercise in silence and survival. You had watched the reeds to the west ripple with a movement that wasn't the wind, but with Kyra (Lvl 6) acting as your second pair of eyes, you melted into the shadows of the weeping willows, leaving the unknown scavengers to f",
+      "[auto] Night (22:17:20) in the hidden Riverlands camp finds you leaning against the cold, damp wheel of a supply wagon. The air is a stagnant broth of woodsmoke and the rhythmic, wet splashing of the Fever River nearby. You take a slow, deliberate breath, letting the 'Dreadblade Shadow's' focus return to you like a familiar ache. Beside you, Robb Stark (Lvl 7) sits on a crate, his face a mask of jagged, weary pragmatism as he watches the firelight dance in the droplets of rain clinging to his cl",
+      "[auto] Night (22:17:30) in the hidden Riverlands camp\u2014the air is suddenly colder than the peat-water, the silence a jagged, artificial thing. You don't shout a warning; shouting is for men who want to be noticed. Instead, you lock eyes with Jon Snow (Lvl 7). In that single, winter-hardened glance, the 'Bastard's Bond' speaks louder than any command. Jon doesn't hesitate; he surges from his seat, Longclaw a pale blur as he plants himself like a wall of iron between Robb Stark (Lvl 7) and the pris",
+      "[auto] Night (22:17:40) in the hidden Riverlands camp\u2014the air is a frigid, humid weight, thick with the metallic tang of the 'Silent-Blade's' cooling blood. You stand over the reeling assassin, the smoky, rippled surface of Flayer's Oath (Lvl 7) humming with a faint, psychic hunger as you maintain the pressure against his ribs. \n\n\"You're shivering, little bird,\" you purr, the rhythmic, soft-spoken menace of your voice vibrating in the stone-cold silence of the perimeter. You lean in until your p",
+      "[auto] Night (22:22:20) in the hidden Riverlands camp finds the humidity of the bogs clinging to your skin like a damp, unwanted shroud. You maintain your position over the reeling 'Silent-Blade,' the smoky Valyrian steel of Flayer's Oath (Lvl 7) humming a low, psychic dirge as it rests against the assassin's collarbone. You don't look back at Jon Snow (Lvl 7); you don't need to. The 'Bastard's Bond' is a wire pulled taut across the camp.\n\n\"Jon!\" you rasp, the rhythmic, soft-spoken menace of you",
+      "[auto] Night (23:27:40) in the hidden Riverlands camp\u2014the fire has burned down to a bed of glowing, hateful orange eyes, casting long, rhythmic shadows that dance across the mud. You kneel before the 'Silent-Blade,' your Shadow-Stitched Reinforced Mail (Lvl 7) whispering against your knees. The air is thick with the copper tang of his previous wounds and the sharp, metallic scent of his rising terror.\n\n\"It's a delicate thing, the human hand, isn't it?\" you purr, your voice a low, rhythmic vibrat",
+      "[auto] Dawn (06:00:00) breaks over the rugged, mist-shrouded hills of the Rills, the iron-grey light revealing a camp that has long since forgotten the warmth of summer. You stand at the edge of the perimeter, watching the breath of your sentries rise like ghosts in the cold air. Beside you, the Hounds are cleaning their blades\u2014a rhythmic, domestic sound that has become the heartbeat of this host.\n\nYou turn your gaze toward the horizon, where the distant, jagged memory of Winterfell lies beneath",
+      "[auto] Night (21:00:00) at the base of the First Keep, Winterfell\u2014the air is a frigid, biting claw that reeks of old snow and the iron-scent of a thousand years of Stark history. You stand before a jagged, lichen-covered stone that masks the secret descent into the crypts, your Shadow-Stitched Reinforced Mail (Lvl 7) drinking the moonlight until you are little more than a flicker in the dark. Beside you, Jon Snow (Lvl 7) is a pillar of winter, his hand white-knuckled on the pommel of Longclaw. G",
+      "[auto] Night (21:06:05) atop the inner walls of Winterfell finds the air heavy with the scent of ozone and the copper tang of a sudden, meticulous slaughter. You move with the fluid, soundless grace of the Dreadblade Shadow, your Shadow-Stitched mail drinking the moonlight as you sweep along the ramparts. High above, perched like a gargoyle upon the steep pitch of the Great Keep\u2019s roof, Kyra (Lvl 6) provides the rhythm for your dance. Her black-fletched arrows thrum through the dark, finding the",
+      "[auto] Night (21:06:11) atop the inner walls of Winterfell\u2014the air is a frigid vortex of woodsmoke and the metallic tang of a dying garrison. You stand amidst the cooling corpses of the Bolton archers, your Shadow-Stitched Reinforced Mail (Lvl 7) drinking the moonlight until you are little more than a smudge against the stone walkway. Below in the courtyard, the 'Steel-Shanks' Walton (Lvl 8) is a desperate silhouette of black plate, his sword-arm sweeping as he tries to rally a dozen survivors t",
+      "[auto] Night (21:16:11) in the Courtyard of Winterfell\u2014the air is a frigid, screaming furnace of orange light and the copper tang of fresh slaughter. You flow over the edge of the inner wall, a spill of jagged shadow dropping into the vortex of smoke. You land in the mud without a sound, your Shadow-Stitched Reinforced Mail (Lvl 7) drinking the moonlight until you materialize beside Jon Snow (Lvl 7) like a ghost born of the freezing peat. \n\n\"The head is cold, Jon,\" you purr, the rhythmic, soft-s",
+      "[auto] Night (21:26:11) in the Great Hall of Winterfell\u2014the air is a frigid, smoke-stained shroud, heavy with the scent of pine-soot and the metallic tang of the Bolton garrison's fresh blood. Beyond the heavy oak doors, where the throat-pinned corpse of 'Steel-Shanks' Walton (Lvl 8) still serves as a grizzly landmark, you hear the rhythmic, thunderous *thud* of timber and the sharp, echoing ring of Stark hammers. Your Hounds are already fortifying the walls, turning the castle into a cage befor",
+      "[auto] Night (23:00:00) at the edge of the Bolton siege-camp, two miles south of Winterfell\u2014the air is a frigid, motionless shroud that tastes of pine-soot and the metallic promise of a final, familial betrayal. You crouch amidst the skeletal roots of a gnarled weirwood, your Shadow-Stitched Reinforced Mail (Lvl 7) drinking the indigo moonlight until you are little more than a jagged ripple in the dark. Beside you, Jon Snow (Lvl 7) is a pillar of frost, his hand white-knuckled on the pommel of L",
+      "[auto] Night (23:01:00) at the edge of Roose Bolton's Command Camp\u2014the frigid air is thick with the scent of wet pine and the metallic promise of a final, familial betrayal. You crouch in the absolute dark behind the Lord's pavilion, the Shadow-Stitched Reinforced Mail (Lvl 7) drinking the moonlight until you are little more than a smudge against the grey-canvas walls. Beside you, Jon Snow (Lvl 7) is a pillar of frost, his breathing synchronized with the rhythmic *scratch-scratch* of your father",
+      "[auto] Midnight (23:01:12) in the suffocating violet haze of the Lord's pavilion\u2014the air is a charnel house of expensive lavender and bitter almonds. You flow through the jagged slit in the canvas like a spill of ink, your Shadow-Stitched mail making no more sound than the falling snow outside. Beside you, Jon Snow (Lvl 7) is a ghost of winter, Longclaw catching the rhythmic pulse of the dying brazier as he moves with a silent, grim obedience that has become his new skin.\n\nRoose Bolton (Lvl 15) ",
+      "[auto] Midnight (23:01:24) in the Lord's pavilion\u2014the violet haze of the nightshade has turned the clinical workspace into a charnel house of expensive lavender and the copper scent of fresh slaughter. Roose Bolton (Lvl 15) remains pinned to his desk, his pale eyes tracking the rhythmic twitching of your fingers with a fading, icy curiosity. He cannot move; the toxin has erased the map of his will, leaving only the meat to face the consequences of the shadow.\n\n\"It was always about the tally, was",
+      "[auto] Midnight (00:00:00) at the Bolton Siege-Camp, south of Winterfell\u2014the indigo sky is a cold, indifferent witness to the final pruning of the Bolton family tree. You emerge from the Lord's pavilion, the Shadow-Stitched Reinforced Mail (Lvl 9) slick with your father's cooling blood, holding Roose's head by its pale, thin hair. Beside you, Jon Snow (Lvl 7) walks with the silent, grim obedience of the 'Bastard's Bond,' his face a mask of 51% corruption in the flickering torchlight.\n\n\"Look at h",
+      "[auto] Midnight (03:50:00) in the Solar of the Dreadfort\u2014the hearth's dying embers cast a hellish, flickering glow across the basalt walls, shadows writhing like flayed souls in torment. The air hangs thick and cloying, saturated with the musk of sweat, lavender-tainted fear, and the raw, animal tang of submission. Lysa, Mira, and Elyn kneel before you on the bloodstained rushes, their Stark-forged collars glinting mockingly in the low light, bodies trembling in a symphony of broken wills\u2014pale s",
+      "[auto] Midnight (00:30:00) in the Dreadfort Solar\u2014the air hangs heavy with the scent of cold stone, smoldering peat from the hearth, and the faint, lavender-tainted musk of your father's lingering presence. You sit in the high-backed chair of flayed leather, Flayer's Oath (Lvl 9) resting across your knees like a sleeping serpent, its smoky Valyrian ripples catching the dying orange flicker of the fire. The three reeks\u2014Lysa, Mira, and Elyn\u2014kneel at your feet, their collared necks bowed, breaths c",
+      "[auto] Midnight (00:45:00) in the Dreadfort Solar\u2014the hearth's dying embers pulse like a failing heart, casting hellish, flickering shadows that writhe across the basalt walls like souls flayed in eternal torment. The air hangs thick and cloying, saturated with the musk of fear-sweat, lavender-tainted submission, and the raw, animal tang of coerced devotion. You sit enthroned in the high-backed chair of flayed leather, Flayer's Oath (Lvl 9) resting across your knees like a slumbering serpent, it",
+      "[auto] Midnight (00:50:00) in the Dreadfort Solar\u2014the hearth's embers pulse like dying stars, casting a hellish, flickering glow across the basalt walls where shadows writhe like souls in eternal torment. The air clings thick and cloying, saturated with the musk of sweat-slicked skin, lavender-tainted fear, and the raw, animal tang of coerced ecstasy. You sit enthroned in the high-backed chair of flayed leather, Flayer's Oath (Lvl 9) resting across your knees like a slumbering serpent, its smoky",
+      "[auto] Midnight (01:05:00) in the Dreadfort Solar\u2014the hearth's embers pulse like dying stars, casting hellish, flickering shadows that writhe across the basalt walls like souls flayed in eternal torment. The air clings thick and cloying, saturated with the musk of sweat-slicked skin, lavender-tainted fear-sweat, and the raw, animal tang of coerced ecstasy and humiliation. You sit enthroned in the high-backed chair of flayed leather, Flayer's Oath (Lvl 9) resting across your knees like a slumberi",
+      "[auto] Midnight (01:10:00) in the Dreadfort Solar\u2014the hearth's dying embers pulse like failing hearts, casting hellish, flickering shadows that writhe across the basalt walls like souls flayed in eternal torment. The air clings thick and cloying, saturated with the musk of sweat-slicked skin, lavender-tainted fear-sweat, the raw, animal tang of coerced ecstasy, and the sharp undercurrent of fresh humiliation. You sit enthroned in the high-backed chair of flayed leather, Flayer's Oath (Lvl 9) res",
+      "[auto] Midnight (01:25:00) in the Dreadfort Solar\u2014the air remains a thick, suffocating slurry of woodsmoke and the metallic scent of fresh submission. You sit behind your father\u2019s heavy oak desk, the smoky ripples of Flayer's Oath (Lvl 9) catching the rhythmic flicker of the dying brazier. Before you, the families of the disloyal remain huddled, a pathetic tapestry of torn silks and vacant, glazed eyes. Your new slaves, Beth Dustin (Lvl 1) and the Blackwood girl (Lvl 1), kneel beside your chair,",
+      "[auto] Midnight (01:55:00) in the Dreadfort\u2014the icy air is choked with the smell of roasting grain and the frantic, rhythmic shouting of men fighting a losing battle against the flames. You emerge from the Weeping Tower like a jagged streak of shadow, the smoky ripples of Flayer's Oath (Lvl 9) catching the orange glare of the granary fire. \n\n\"Kyra (Lvl 6)! The kennels!\" you bark, your voice a low, rhythmic rasp that cuts through the roar of the blaze. \"Beneath the third stone! Get the ledger, or",
+      "[auto] Midnight (02:10:00) in the Weeping Tower of the Dreadfort\u2014the air is a stagnant, humid broth of salt, copper, and the rhythmic, agonizing drip of water from the basalt walls. You stand before the vertical rack where Theon Greyjoy (Lvl 3) hangs, his body a map of bruises and shallow cuts that reflect the orange flicker of the brazier. You hold Roose's wax-sealed ledger in one hand, the smoky rippled surface of Flayer's Oath (Lvl 9) catching the light in the other.\n\n\"The count is finished, ",
+      "[auto] Midnight (02:10:00) in the Weeping Tower of the Dreadfort\u2014the freezing rain of the North has turned to a heavy, rhythmic sleet that hammers against the basalt walls like the ghosts of a thousand flayed men. You stand by the narrow slit of the window, watching the pale moonlight struggle against the storm. The news from the south has just arrived, brought by a mud-caked shadow who vanished back into the night before his horse could even stop shivering.\n\n\"Masterful work, Ramsay (Lvl 9),\" yo",
+      "[auto] Midnight (02:10:00) in the frozen heart of the North\u2014the air is a crystalline void that tastes of iron and betrayal as your unified Stark-Bolton host splits to tear the remaining life from your father's legacy. You stand in the courtyard of the Dreadfort, the rippled smoky edge of Flayer's Oath (Lvl 9) catching the pale moonbeams as you signal the division of the shadow.\n\n\"Jon (Lvl 7)!\" you rasp, your voice a low, rhythmic vibration that vibrates in the marrow. \"Take the Hounds. Take Reek",
+      "[auto] Afternoon (14:00:00) in the golden, blood-flecked wheat fields of the northern Riverlands\u2014the air is a sharp, autumnal chill that tastes of iron and the smoldering remains of Frey ambition. You stand atop a captured supply wagon, the rippled smoky surface of Flayer's Oath (Lvl 9) catching the pale sun as your Hounds finish the methodical execution of the remaining escorts. \n\nThe 'Fleet and Fire' coordination was a masterpiece of Bolton misdirection. While Jon Snow (Lvl 7) rode for White H",
+      "[auto] Afternoon (14:30:00) in the New Castle of White Harbor\u2014the air is a stagnant broth of brine and the sharp, metallic tang of Lord Wyman's rising terror. You don't wait for the mountain of meat to finish his whimpering. You reach out, your fingers closing around the collar of his fine velvet doublet, and heave him toward the solar's heavy oak doors.\n\n\"The court is waiting, Lord Wyman,\" you purr, your voice a low, rhythmic vibration that carries the soft-spoken menace of a winter storm. \"And",
+      "[auto] Mid-afternoon (15:00:00) in the Great Hall of the New Castle\u2014the air is a stagnant broth of brine and the sharp, copper tang of Lord Wyman's rising terror. You don't waste time with the Manderly Master-of-Coin's excuses. You snap your fingers, and Skinner (Lvl 6) and Grunt (Lvl 6) drag the shivering man in velvet and grease into the center of the hall. \n\n\"The King has purged the North of oathbreakers, Lord Wyman,\" you purr, your voice a low, rhythmic vibration that vibrates in the marrow "
+    ],
+    "_agent_selection_tracker": {
+      "rewards_skip_count": 0,
+      "agent": "StoryModeAgent",
+      "count": 1
+    },
+    "multiverse_upgrade_available": false,
+    "divine_potential": 0,
+    "character_creation_completed": true,
+    "attribute_system": "D&D",
+    "character_creation_in_progress": false,
+    "redemption": 12,
+    "completed_missions": [],
+    "companion_arcs": {},
+    "active_complications": [
+      {
+        "description": "A Bolton Silent-Blade has entered the camp to eliminate the messenger.",
+        "type": "infiltration",
+        "id": "bolton_assassin_001"
+      }
+    ],
+    "universe_control": 0,
+    "active_constraints": [],
+    "success_streak": 0,
+    "next_companion_arc_turn": 3,
+    "god_mode": {
+      "setting": "Game of thrones",
+      "description": "Play as Ramsay Bolton but let's make me half Bolton half stark bastard. I am evil and sadistic but have a sense of honor. Make me a custom cha based class that's like a mixture of assassin gloomstalker and swords bard. Give me reasonable equipment and items. Start the first scene where I am rescuing Robb and his men from the red wedding because I hate oathbreakers. Narrate it in detail. We narrowly make it out alive but at least Robb and his mom are safe and half the lords. Rob should be extremely grateful toe because I betrayed my own father ",
+      "character": {
+        "description": "Play as Ramsay Bolton but let's make me half Bolton half stark bastard. I am evil and sadistic but have a sense of honor. Make me a custom cha based class that's like a mixture of assassin gloomstalker and swords bard. Give me reasonable equipment and items. Start the first scene where I am rescuing Robb and his men from the red wedding because I hate oathbreakers. Narrate it in detail. We narrowly make it out alive but at least Robb and his mom are safe and half the lords. Rob should be extremely grateful toe because I betrayed my own father",
+        "name": "Ramsay v1"
+      }
+    },
+    "last_story_mode_sequence_id": 274
+  },
+  "social_hp_challenge": {
+    "request_severity": "submission",
+    "skill_used": "Intimidation",
+    "successes_needed": 5,
+    "social_hp_max": 5,
+    "objective": "Surrender of the Ridge Cache",
+    "roll_result": 29,
+    "npc_tier": "guard",
+    "social_hp_damage": 2,
+    "roll_dc": 12,
+    "npc_name": "Lannister Sentry Pool",
+    "resistance_shown": "They have fully yielded, binding each other and sobbing out the ignition code.",
+    "cooldown_until_hour": 15,
+    "cooldown_remaining": 1,
+    "npc_id": "",
+    "successes": 5,
+    "social_hp": 0,
+    "status": "SURRENDERED"
+  },
+  "combat_state": {
+    "combat_trigger": "Ignition of the gatehouse sabotage",
+    "combat_phase": "ended",
+    "combat_history": [
+      {
+        "xp_awarded": 450,
+        "enemies_defeated": [
+          "npc_ironborn_reavers"
+        ],
+        "session_id": "combat_2990601_moat",
+        "archived_at": "2026-02-05T08:56:28.977738+00:00",
+        "loot_distributed": true,
+        "rounds_fought": 1
+      },
+      {
+        "xp_awarded": 14400,
+        "enemies_defeated": [
+          "npc_roose_bolton_001",
+          "npc_bolton_elite_001"
+        ],
+        "session_id": "combat_2990915_winterfell_infil",
+        "archived_at": "2026-02-05T10:42:35.192728+00:00",
+        "loot_distributed": true,
+        "rounds_fought": 1
+      }
+    ],
+    "current_round": 1,
+    "initiative_order": [
+      {
+        "name": "pc_ramsay_001",
+        "initiative": 24,
+        "type": "pc"
+      },
+      {
+        "name": "npc_jon_snow_001",
+        "initiative": 17,
+        "type": "ally"
+      },
+      {
+        "name": "npc_lannister_vanguard_pool",
+        "initiative": 12,
+        "type": "enemy"
+      }
+    ],
+    "in_combat": false,
+    "combatants": {
+      "npc_lannister_vanguard_pool": {
+        "hp_current": 110,
+        "hp_max": 250,
+        "status": [
+          "Trapped",
+          "Pinned"
+        ],
+        "type": "enemy"
+      },
+      "npc_jon_snow_001": {
+        "hp_current": 91,
+        "hp_max": 91,
+        "status": [],
+        "type": "ally"
+      },
+      "npc_brave_companion_outriders": {
+        "hp_current": 57,
+        "hp_max": 100,
+        "status": [],
+        "type": "enemy"
+      },
+      "pc_ramsay_001": {
+        "hp_current": 72,
+        "hp_max": 72,
+        "status": [],
+        "type": "pc"
+      }
+    },
+    "combat_session_id": "combat_2990918_ridge",
+    "rewards_processed": false,
+    "combat_summary": {
+      "xp_awarded": 2500,
+      "enemies_defeated": [
+        "npc_lannister_vanguard_pool"
+      ],
+      "loot_distributed": true,
+      "rounds_fought": 2
+    }
+  },
+  "last_state_update_timestamp": "2026-04-11 15:49:20.751000+00:00",
+  "turn_number": 112,
+  "player_turn": 112,
+  "last_living_world_turn": 112,
+  "last_living_world_time": {
+    "year": 299,
+    "month": "Month 9",
+    "microsecond": 0,
+    "minute": 15,
+    "hour": 5,
+    "time_of_day": "dawn",
+    "day": 18,
+    "second": 0
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {
+    "last_note": "HD: 9/9 | Spells: L1 4/4, L2 2/2 | Dreadful Dice: 4/4"
+  },
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "scene_event": {
+    "narrative_integration": "Jon Snow looks back at the fire, his voice a cold rasp: 'There's no honor in a cage of fire, Ramsay. This isn't war. This is a slaughterhouse.'",
+    "description": "Kyra presents the flayed skin of Ser Harys as a banner, asking Ramsay if she can lead the next 'lesson' for the Brave Companions.",
+    "actor": "Kyra",
+    "urgency": "soon",
+    "acceptance_required": false,
+    "type": "companion_request",
+    "player_response_required": true
+  },
+  "location": "The Trident, Riverlands",
+  "faction_minigame": {
+    "faction_power": 2806,
+    "resources": {
+      "gold": 4300
+    },
+    "ranking": 201
+  },
+  "army_data": {
+    "overall_morale": 65,
+    "forces": {
+      "Elite Guard": {
+        "morale": 95,
+        "blocks_current_hp": [
+          100
+        ],
+        "type": "elites",
+        "upkeep_daily": 20,
+        "blocks": 0.4,
+        "max_hp_per_block": 100
+      },
+      "Bolton Loyalists": {
+        "upkeep_daily": 40,
+        "blocks_current_hp": [
+          60,
+          60,
+          60,
+          60
+        ],
+        "blocks": 4,
+        "type": "infantry",
+        "status": "Rallied to Ramsay",
+        "morale": 90,
+        "max_hp_per_block": 60
+      },
+      "stark_vanguard": {
+        "type": "infantry",
+        "blocks": 50,
+        "morale": 80
+      },
+      "Night's Watch Veterans": {
+        "morale": 90,
+        "blocks_current_hp": [
+          80
+        ],
+        "type": "elites",
+        "upkeep_daily": 25,
+        "blocks": 1,
+        "max_hp_per_block": 80
+      },
+      "crannogmen_auxiliary": {
+        "type": "archers",
+        "blocks": 30,
+        "morale": 70
+      },
+      "Manderly Knights": {
+        "type": "cavalry",
+        "status": "Mobilized to Trident",
+        "blocks": 40,
+        "morale": 60
+      },
+      "white_harbor_shadow": {
+        "reach": "Coastal Villages",
+        "type": "spies",
+        "status": "Regional Network Active",
+        "blocks": 2,
+        "morale": 90
+      },
+      "bolton_host_remnants": {
+        "type": "infantry",
+        "blocks": 40,
+        "morale": 50
+      },
+      "Stark Infantry": {
+        "morale": 70,
+        "blocks_current_hp": [
+          50,
+          50,
+          50,
+          50
+        ],
+        "type": "infantry",
+        "upkeep_daily": 40,
+        "blocks": 4,
+        "max_hp_per_block": 50
+      }
+    },
+    "total_strength": 2200,
+    "total_upkeep_daily": 650
+  },
+  "world_events": {
+    "turn_generated": 377,
+    "background_events": [
+      {
+        "outcome": "Tywin is pushing his main host into the heart of the mud-trap.",
+        "player_aware": true,
+        "action": "Received word of the 'Stark victory' at the ford (the lie confirmed).",
+        "actor": "Tywin Lannister",
+        "event_type": "immediate",
+        "location": "Red Fork Crossing",
+        "status": "discovered",
+        "discovery_condition": "Intercepted scout report this turn",
+        "player_impact": "The 'Primary Arc' reaches its climax in 2-3 turns"
+      },
+      {
+        "outcome": "Smoke provides concealment for Lannister patrols but alerts the Starks to their movement",
+        "player_aware": true,
+        "action": "Burned a nearby village to create a defensive scorched-earth perimeter",
+        "actor": "Amory Lorch",
+        "event_type": "immediate",
+        "location": "North of Harrenhal",
+        "status": "discovered",
+        "discovery_condition": "Smoke visible on the horizon this turn",
+        "player_impact": "Narrative tension increased; local resource depletion"
+      },
+      {
+        "outcome": "Vargo Hoat is waiting for a sign of Lannister weakness",
+        "player_aware": false,
+        "action": "Began secret negotiations to defect from the Lannisters",
+        "actor": "Brave Companions (Mercenaries)",
+        "event_type": "immediate",
+        "location": "Harrenhal Barracks",
+        "status": "pending",
+        "discovery_condition": "Spies intercept a messenger in 2-3 turns",
+        "player_impact": "Potential for an internal uprising if Ramsay shows strength"
+      },
+      {
+        "outcome": "Tywin's long-term war chest is being replenished",
+        "player_aware": false,
+        "action": "Authorized the shipment of secondary gold reserves from Lannisport",
+        "actor": "Iron Throne (Cersei Lannister)",
+        "event_type": "long_term",
+        "location": "Kingsroad",
+        "status": "pending",
+        "discovery_condition": "Rumors reach White Harbor shadow network in 10-15 turns",
+        "player_impact": "Tywin can sustain a longer siege if this reaches him"
+      },
+      {
+        "outcome": "Lannister reinforcements are moving to cut off your extraction route.",
+        "player_aware": false,
+        "action": "Dispatched a 100-man cavalry unit to circle the Kingspyre Tower.",
+        "actor": "Amory Lorch",
+        "event_type": "immediate",
+        "location": "Harrenhal Outer Perimeter",
+        "status": "pending",
+        "discovery_condition": "Found in intercepted orders or spotted from the battlements.",
+        "player_impact": "Extraction will be contested in 3-5 turns."
+      },
+      {
+        "outcome": "The spy was flayed; news of your methods has spread through the camp.",
+        "player_aware": true,
+        "action": "Discovered a Lannister spy among the host's laundresses.",
+        "actor": "Stark Camp Followers",
+        "event_type": "immediate",
+        "location": "Ruby Ford Encampment",
+        "status": "discovered",
+        "discovery_condition": "A courier brings the report to the tower gate.",
+        "player_impact": "+2 to Intimidation vs Lannister minions; -5 to Public Reputation."
+      },
+      {
+        "outcome": "Visibility reduced to 30 feet within the next hour; smelling of sulfur and rot.",
+        "player_aware": true,
+        "action": "A freakish, emerald-green fog begins to rise from the lake surface.",
+        "actor": "The Gods Eye",
+        "event_type": "immediate",
+        "location": "Gods Eye Lake",
+        "status": "discovered",
+        "discovery_condition": "Visible from the tower windows this turn.",
+        "player_impact": "Advantage on Stealth; Disadvantage on Ranged Attacks."
+      },
+      {
+        "outcome": "Assassins are being prepared for any high-value Stark prisoners.",
+        "player_aware": false,
+        "action": "Authorized the 'Scorpion's Sting' protocol for any captured Stark commanders.",
+        "actor": "Tywin Lannister",
+        "event_type": "long_term",
+        "location": "Kingsroad / Harrenhal Ridge",
+        "status": "pending",
+        "discovery_condition": "Rumors from the Manderly shadow network in 10-15 turns.",
+        "player_impact": "High-risk for Robb and Ramsay if captured."
+      },
+      {
+        "outcome": "Lannister internal cohesion is collapsing",
+        "player_aware": false,
+        "action": "Began the systematic execution of Lannister stragglers in the lower wards",
+        "actor": "Vargo Hoat (Brave Companions)",
+        "event_type": "immediate",
+        "location": "Harrenhal Lower Wards",
+        "status": "pending",
+        "discovery_condition": "Sounds of internal fighting heard in 1-2 turns",
+        "player_impact": "Lower resistance but higher environmental danger"
+      },
+      {
+        "outcome": "Lannister naval reinforcements from Lannisport are cut off",
+        "player_aware": false,
+        "action": "Reached the mouth of the Trident and began a strategic blockade",
+        "actor": "Manderly Fleet",
+        "event_type": "immediate",
+        "location": "The Trident Mouth",
+        "status": "pending",
+        "discovery_condition": "A raven from the shadow network arrives in 3-5 turns",
+        "player_impact": "Tywin's supply lines are officially severed"
+      },
+      {
+        "outcome": "Stark host's flank is now completely unguarded",
+        "player_aware": false,
+        "action": "Ordered a full retreat from the ridge after spotting the emerald fog",
+        "actor": "Lannister Western Ridge Captain",
+        "event_type": "immediate",
+        "location": "Gods Eye Western Ridge",
+        "status": "pending",
+        "discovery_condition": "Scouts report empty camps in 1 turn",
+        "player_impact": "Robb can move the host into the castle without risk of ambush"
+      },
+      {
+        "outcome": "Tywin is officially moving away from Harrenhal and into the trap",
+        "player_aware": false,
+        "action": "Received the 'Flayed Message' and ordered the main host to march for the Ruby Ford",
+        "actor": "Tywin Lannister",
+        "event_type": "long_term",
+        "location": "Near the Gods Eye",
+        "status": "pending",
+        "discovery_condition": "Rumors of Tywin's march reach the camp in 10-15 turns",
+        "player_impact": "The 'Primary Arc' is progressing toward the climax"
+      },
+      {
+        "outcome": "Lannister internal cohesion is collapsing",
+        "player_aware": true,
+        "action": "Began the systematic execution of Lannister stragglers in the lower wards",
+        "actor": "Vargo Hoat (Brave Companions)",
+        "event_type": "immediate",
+        "location": "Harrenhal Lower Wards",
+        "status": "discovered",
+        "discovery_condition": "Sounds of internal fighting heard this turn",
+        "player_impact": "Lower resistance but higher environmental danger"
+      },
+      {
+        "outcome": "Lannister naval reinforcements from Lannisport are cut off",
+        "player_aware": false,
+        "action": "Reached the mouth of the Trident and began a strategic blockade",
+        "actor": "Manderly Fleet",
+        "event_type": "immediate",
+        "location": "The Trident Mouth",
+        "status": "pending",
+        "discovery_condition": "A raven from the shadow network arrives in 3-5 turns",
+        "player_impact": "Tywin's supply lines are officially severed"
+      },
+      {
+        "outcome": "Stark host's flank is now completely unguarded",
+        "player_aware": false,
+        "action": "Ordered a full retreat from the ridge after spotting the emerald fog",
+        "actor": "Lannister Western Ridge Captain",
+        "event_type": "immediate",
+        "location": "Gods Eye Western Ridge",
+        "status": "pending",
+        "discovery_condition": "Scouts report empty camps in 1 turn",
+        "player_impact": "Robb can move the host into the castle without risk of ambush"
+      },
+      {
+        "outcome": "Tywin is officially moving away from Harrenhal and into the trap",
+        "player_aware": false,
+        "action": "Received the 'Flayed Message' and ordered the main host to march for the Ruby Ford",
+        "actor": "Tywin Lannister",
+        "event_type": "long_term",
+        "location": "Near the Gods Eye",
+        "status": "pending",
+        "discovery_condition": "Rumors of Tywin's march reach the camp in 10-15 turns",
+        "player_impact": "The 'Primary Arc' is progressing toward the climax"
+      },
+      {
+        "outcome": "Robb is aware that Tywin has taken the bait.",
+        "action": "Arrived at Harrenhal's base with news of Lannister movement toward the Ruby Ford.",
+        "event_type": "immediate",
+        "actor": "Stark Runner",
+        "location": "Harrenhal Perimeter",
+        "status": "discovered",
+        "discovery_condition": "Witnessed by host sentries.",
+        "player_aware": true
+      },
+      {
+        "outcome": "Tywin's logistics are further crippled; grain and salt beef seized.",
+        "action": "Intercepted a Lannister supply cog carrying winter stores.",
+        "event_type": "immediate",
+        "actor": "Manderly Fleet",
+        "location": "Trident Mouth",
+        "status": "discovered",
+        "discovery_condition": "Shadow network report arrives.",
+        "player_aware": true
+      },
+      {
+        "outcome": "Hoat is hunting the 'White Flayer' for his lost gold.",
+        "player_aware": false,
+        "action": "Ordered a full mobilization of the Brave Companions toward the Ruby Ford smoke.",
+        "actor": "Vargo Hoat",
+        "event_type": "immediate",
+        "location": "Harrenhal Lakeshore",
+        "status": "pending",
+        "discovery_condition": "Scouts report in 1 turn",
+        "player_impact": "Rear-guard ambush risk high"
+      },
+      {
+        "outcome": "Public reputation shift; Northern morale takes a jagged hit.",
+        "player_aware": false,
+        "action": "Publicly executed the first Northern hostage in King's Landing.",
+        "actor": "Cersei Lannister",
+        "event_type": "long_term",
+        "location": "The Red Keep",
+        "status": "pending",
+        "discovery_condition": "Raven arrives in 10 turns",
+        "player_impact": "Massive increase in Robb's corruption if he retaliates"
+      },
+      {
+        "outcome": "Captured by Manderly scouts near the mouth of the Trident",
+        "player_aware": false,
+        "action": "Attempted to flee the western ridge toward Lannisport",
+        "actor": "Amory Lorch",
+        "event_type": "immediate",
+        "location": "Gods Eye Lake",
+        "status": "pending",
+        "discovery_condition": "A report arrives at the Kingspyre in 2 turns",
+        "player_impact": "Another high-value prisoner for the Starks"
+      },
+      {
+        "outcome": "The Stark host is now effectively reinforced by 400 knights",
+        "player_aware": false,
+        "action": "Began landing heavy cavalry at the northern banks of the Trident",
+        "actor": "Manderly Fleet",
+        "event_type": "immediate",
+        "location": "Trident Reach",
+        "status": "pending",
+        "discovery_condition": "News reaches the host at the Ruby Ford this turn",
+        "player_impact": "The pincer on Tywin's host is now reinforced"
+      },
+      {
+        "outcome": "Vargo Hoat now holds a weapon that could level the fortress",
+        "player_aware": false,
+        "action": "Located a hidden Lannister cache of wildfire beneath the barracks",
+        "actor": "Brave Companions (Mercenaries)",
+        "event_type": "immediate",
+        "location": "Harrenhal Barracks",
+        "status": "pending",
+        "discovery_condition": "An explosion or threat from Hoat in 1-2 turns",
+        "player_impact": "High risk of environmental catastrophe"
+      },
+      {
+        "outcome": "The Lannisters are preparing for a much longer war than expected",
+        "player_aware": false,
+        "action": "Dispatched a messenger to Lannisport to demand the mobilization of the second reserve",
+        "actor": "Tywin Lannister",
+        "event_type": "long_term",
+        "location": "Near the Gods Eye",
+        "status": "pending",
+        "discovery_condition": "Rumors from the shadow network in 15 turns",
+        "player_impact": "Long-term siege capacity increased"
+      },
+      {
+        "outcome": "Lannister administration in Harrenhal is being eradicated",
+        "player_aware": false,
+        "action": "Began the systematic execution of Lannister clerks in the tower base",
+        "actor": "Vargo Hoat",
+        "event_type": "immediate",
+        "location": "Kingspyre Tower Base",
+        "status": "pending",
+        "discovery_condition": "Screams from the lower floors become more distinct in 1 turn",
+        "player_impact": "Time pressure for the extraction increases"
+      },
+      {
+        "outcome": "The host is securing the perimeter without Lannister detection",
+        "player_aware": false,
+        "action": "Entered the outer wards under the cover of the emerald fog",
+        "actor": "Stark Vanguard",
+        "event_type": "immediate",
+        "location": "Harrenhal Outer Wards",
+        "status": "pending",
+        "discovery_condition": "A signal horn from the courtyard in 2 turns",
+        "player_impact": "Safe retreat route is being established"
+      },
+      {
+        "outcome": "A chaotic skirmish in the fog near the skiffs",
+        "player_aware": false,
+        "action": "Rallied the remaining cavalry to attempt a breakthrough toward the lake",
+        "actor": "Amory Lorch",
+        "event_type": "immediate",
+        "location": "Gods Eye Shore",
+        "status": "pending",
+        "discovery_condition": "Sounds of fighting from the docks in 1 turn",
+        "player_impact": "Extraction via skiffs may be contested"
+      },
+      {
+        "outcome": "Tywin is fully committed to the Ruby Ford trap",
+        "player_aware": false,
+        "action": "Officially crossed the Red Fork, moving with maximum speed",
+        "actor": "Tywin Lannister",
+        "event_type": "long_term",
+        "location": "Riverlands",
+        "status": "pending",
+        "discovery_condition": "Shadow network report in 5 turns",
+        "player_impact": "The 'Primary Arc' is nearing its climax"
+      },
+      {
+        "outcome": "Hoat is effectively clearing the way to Ramsay's rear.",
+        "player_aware": true,
+        "action": "Ordered his men to batter down the Kingspyre counting room doors.",
+        "actor": "Vargo Hoat",
+        "event_type": "immediate",
+        "location": "Kingspyre Tower Lower Levels",
+        "status": "discovered",
+        "discovery_condition": "Screams and thudding heard from below.",
+        "player_impact": "Immediate time pressure for extraction."
+      },
+      {
+        "outcome": "The perimeter is becoming a Stark-Bolton cage.",
+        "player_aware": false,
+        "action": "Reached the outer battlements and began the systematic execution of Lannister holdouts.",
+        "actor": "Manderly Knights",
+        "event_type": "immediate",
+        "location": "Harrenhal Outer Wall",
+        "status": "pending",
+        "discovery_condition": "Signal horns in 1-2 turns.",
+        "player_impact": "Secure retreat route is being established."
+      },
+      {
+        "outcome": "Intercepted report confirming Tywin's march to the Ruby Ford.",
+        "player_aware": false,
+        "action": "Captured by Crannogmen scouts near the Gods Eye western shore.",
+        "actor": "Lannister Messenger",
+        "event_type": "immediate",
+        "location": "Harrenhal Perimeter",
+        "status": "pending",
+        "discovery_condition": "Report reaches Ramsay in 2 turns.",
+        "player_impact": "Final confirmation that the 'Flayed Message' worked."
+      },
+      {
+        "outcome": "The 'Primary Arc' is accelerating toward the climax.",
+        "player_aware": false,
+        "action": "Ordered his host to bypass the burnt village and move through the night to reach the ford.",
+        "actor": "Tywin Lannister",
+        "event_type": "long_term",
+        "location": "Riverlands",
+        "status": "pending",
+        "discovery_condition": "Rumors in 5-10 turns.",
+        "player_impact": "Tywin will reach the trap sooner than expected."
+      },
+      {
+        "outcome": "Tywin's outriders will be aware of a breach in 1 hour",
+        "player_aware": true,
+        "action": "Flew from the Kingspyre rookery toward the western ridge",
+        "actor": "The Escaped Raven",
+        "event_type": "immediate",
+        "location": "Sky over Harrenhal",
+        "status": "pending",
+        "discovery_condition": "Witnessed the bird escape",
+        "player_impact": "Time window for safe river travel reduced"
+      },
+      {
+        "outcome": "The inner sanctum is under direct attack",
+        "player_aware": true,
+        "action": "Commenced the breach of the Lord's Solar",
+        "actor": "Vargo Hoat",
+        "event_type": "immediate",
+        "location": "Kingspyre Tower Landing",
+        "status": "discovered",
+        "discovery_condition": "Battering sounds at the door",
+        "player_impact": "Immediate combat threat"
+      },
+      {
+        "outcome": "Extraction route is ready",
+        "player_aware": false,
+        "action": "Positioned beneath the Kingspyre sally port window",
+        "actor": "Manderly Skiffs",
+        "event_type": "immediate",
+        "location": "Gods Eye Lake Edge",
+        "status": "pending",
+        "discovery_condition": "Signal whistle from Kyra in 1 turn",
+        "player_impact": "Escape path available"
+      },
+      {
+        "outcome": "The 'Sting' is counting down",
+        "player_aware": false,
+        "action": "Rhythmic ticking of a Lannister timer mechanism",
+        "actor": "Wildfire Caches",
+        "event_type": "long_term",
+        "location": "Kingspyre Foundations",
+        "status": "pending",
+        "discovery_condition": "Scorpion reveals it or foundation rumble in 5 turns",
+        "player_impact": "Tower destruction imminent"
+      },
+      {
+        "outcome": "Tower is beginning to smoke; extraction time window reduced",
+        "player_aware": true,
+        "action": "Realized the gold is gone and ordered the Kingspyre Tower set on fire",
+        "actor": "Vargo Hoat",
+        "event_type": "immediate",
+        "location": "Kingspyre Tower Base",
+        "status": "discovered",
+        "discovery_condition": "Smoke rising through the floorboards this turn",
+        "player_impact": "Immediate environmental hazard; urgency increased"
+      },
+      {
+        "outcome": "Lannister holdouts are surrendering; castle is effectively Stark-controlled",
+        "player_aware": false,
+        "action": "Breached the main gate and began the final sweep of the courtyard",
+        "actor": "Manderly Knights",
+        "event_type": "immediate",
+        "location": "Harrenhal Main Ward",
+        "status": "pending",
+        "discovery_condition": "Signal horn from the courtyard in 1 turn",
+        "player_impact": "Secure fortress established"
+      },
+      {
+        "outcome": "Visibility for Kyra and Hounds reduced to zero",
+        "player_aware": true,
+        "action": "Emerald fog reached the Kingspyre rooftop",
+        "actor": "The Gods Eye",
+        "event_type": "immediate",
+        "location": "Harrenhal Skyline",
+        "status": "discovered",
+        "discovery_condition": "Visible from the solar windows",
+        "player_impact": "Disadvantage on Ranged Attacks; Advantage on Stealth"
+      },
+      {
+        "outcome": "The assassins are now within 2 miles of the camp.",
+        "player_aware": false,
+        "action": "Successfully crossed the Trident under the cover of the morning fog.",
+        "actor": "The Sorrowful Men",
+        "event_type": "immediate",
+        "location": "Trident Reeds",
+        "status": "pending",
+        "discovery_condition": "Perception check next turn",
+        "player_impact": "Assassination attempt imminent"
+      },
+      {
+        "outcome": "Finds the 'Wolf' is a Crannogman distraction; realizes he has been played.",
+        "player_aware": false,
+        "action": "Reached the Ruby Ford",
+        "actor": "Tywin Lannister",
+        "event_type": "immediate",
+        "location": "Ruby Ford",
+        "status": "pending",
+        "discovery_condition": "Witnessed upon arrival at the ford",
+        "player_impact": "Tywin's main host is now turning back in fury"
+      },
+      {
+        "outcome": "Retaliation for the fall of Harrenhal; Stark hostages' lives in immediate danger.",
+        "player_aware": false,
+        "action": "Ordered prisoner executions",
+        "actor": "Cersei Lannister",
+        "event_type": "immediate",
+        "location": "The Red Keep, King's Landing",
+        "status": "pending",
+        "discovery_condition": "A frantic raven arrives in 2 turns",
+        "player_impact": "Major time pressure to secure King's Landing"
+      },
+      {
+        "outcome": "Temporary chaos in the rear; one supply wagon lost.",
+        "player_aware": true,
+        "action": "Started a fire in the host's supply wagons",
+        "actor": "Arya (Commoner Imposter)",
+        "event_type": "immediate",
+        "location": "Trident Northern Banks",
+        "status": "discovered",
+        "discovery_condition": "Smoke rising from the rear this turn",
+        "player_impact": "Resource depletion (supplies); narrative tension"
+      },
+      {
+        "outcome": "Growing interest in the North's internal collapse; potential future alliance/threat.",
+        "player_aware": false,
+        "action": "Received word of the 'Winter Butcher'",
+        "actor": "Daenerys Targaryen",
+        "event_type": "long_term",
+        "location": "Astapor, Essos",
+        "status": "pending",
+        "discovery_condition": "Rumors from Essos reach White Harbor in 20 turns",
+        "player_impact": "Long-term geopolitical shift"
+      },
+      {
+        "outcome": "Formed a desperate defensive line",
+        "player_aware": false,
+        "action": "Gathered the remnants of the western ridge patrols",
+        "actor": "Ser Amory Lorch",
+        "event_type": "immediate",
+        "location": "Western Ridge",
+        "status": "pending",
+        "discovery_condition": "Spotted from the ridge in 1 turn",
+        "player_impact": "Ridge strike will be heavily contested"
+      },
+      {
+        "outcome": "Assassination contract focus tightened",
+        "player_aware": false,
+        "action": "Identified Ramsay's distinctive flaying style at Harrenhal",
+        "actor": "The Sorrowful Men",
+        "event_type": "immediate",
+        "location": "Harrenhal Ruins",
+        "status": "pending",
+        "discovery_condition": "A failed attempt in 5-8 turns",
+        "player_impact": "Assassination risk high"
+      },
+      {
+        "outcome": "Tywin might receive a secondary warning",
+        "player_aware": true,
+        "action": "Spotted a Lannister bird leaving the ridge toward the south",
+        "actor": "Stark Sentry",
+        "event_type": "immediate",
+        "location": "Ruby Ford Sky",
+        "status": "discovered",
+        "discovery_condition": "Witnessed the bird during the fire",
+        "player_impact": "Tywin's reaction speed increased"
+      },
+      {
+        "outcome": "Massive reinforcements preparing to march",
+        "player_aware": false,
+        "action": "Mobilized the Gold Cloaks for a northern expedition",
+        "actor": "Iron Throne",
+        "event_type": "long_term",
+        "location": "King's Landing",
+        "status": "pending",
+        "discovery_condition": "Rumors reach shadow network in 15 turns",
+        "player_impact": "War duration increased"
+      },
+      {
+        "outcome": "Tywin will arrive 4 hours sooner than expected",
+        "player_aware": false,
+        "action": "Ordered the main host to perform a night-march to the ford",
+        "actor": "Tywin Lannister",
+        "event_type": "immediate",
+        "location": "Riverlands",
+        "status": "pending",
+        "discovery_condition": "Scouts report in 1-2 turns",
+        "player_impact": "Siege/Battle preparation time drastically reduced"
+      },
+      {
+        "outcome": "Hoat has identified the Stark extraction point",
+        "player_aware": false,
+        "action": "Began scouring the Gods Eye shore for the 'stolen' gold",
+        "actor": "Vargo Hoat",
+        "event_type": "immediate",
+        "location": "Gods Eye Lakeshore",
+        "status": "pending",
+        "discovery_condition": "Spies report in 3 turns",
+        "player_impact": "Rear-guard threat from the Brave Companions increases"
+      },
+      {
+        "outcome": "Lannister internal intelligence at the ford is blind",
+        "player_aware": true,
+        "action": "Assassinated the Lannister 'listener' in the Stark camp",
+        "actor": "Manderly Shadow Network",
+        "event_type": "immediate",
+        "location": "Stark Camp",
+        "status": "discovered",
+        "discovery_condition": "Body found this turn",
+        "player_impact": "+2 to next Surprise roll against Tywin"
+      },
+      {
+        "outcome": "Assassin threat is now 'Active'",
+        "player_aware": false,
+        "action": "Successfully tracked Ramsay's scent to the Trident",
+        "actor": "The Sorrowful Men",
+        "event_type": "long_term",
+        "location": "The Trident",
+        "status": "pending",
+        "discovery_condition": "Assassination attempt in 5-10 turns",
+        "player_impact": "Constant peril for Ramsay"
+      },
+      {
+        "outcome": "Tywin will arrive 4 hours sooner than expected",
+        "player_aware": false,
+        "action": "Ordered the main host to perform a night-march to the ford",
+        "actor": "Tywin Lannister",
+        "event_type": "immediate",
+        "location": "Riverlands",
+        "status": "pending",
+        "discovery_condition": "Scouts report in 1-2 turns",
+        "player_impact": "Siege/Battle preparation time drastically reduced"
+      },
+      {
+        "outcome": "Hoat has identified the Stark extraction point",
+        "player_aware": false,
+        "action": "Began scouring the Gods Eye shore for the 'stolen' gold",
+        "actor": "Vargo Hoat",
+        "event_type": "immediate",
+        "location": "Gods Eye Lakeshore",
+        "status": "pending",
+        "discovery_condition": "Spies report in 3 turns",
+        "player_impact": "Rear-guard threat from the Brave Companions increases"
+      },
+      {
+        "outcome": "Lannister internal intelligence at the ford is blind",
+        "player_aware": true,
+        "action": "Assassinated the Lannister 'listener' in the Stark camp",
+        "actor": "Manderly Shadow Network",
+        "event_type": "immediate",
+        "location": "Stark Camp",
+        "status": "discovered",
+        "discovery_condition": "Body found this turn",
+        "player_impact": "+2 to next Surprise roll against Tywin"
+      },
+      {
+        "outcome": "Assassin threat is now 'Active'",
+        "player_aware": false,
+        "action": "Successfully tracked Ramsay's scent to the Trident",
+        "actor": "The Sorrowful Men",
+        "event_type": "long_term",
+        "location": "The Trident",
+        "status": "pending",
+        "discovery_condition": "Assassination attempt in 5-10 turns",
+        "player_impact": "Constant peril for Ramsay"
+      },
+      {
+        "outcome": "Lannister Vanguard (Lvl 5) will arrive 30 minutes earlier.",
+        "player_aware": false,
+        "action": "Ordered his vanguard to drop all non-essential gear to increase speed.",
+        "actor": "Tywin Lannister",
+        "event_type": "immediate",
+        "location": "Southern Riverlands",
+        "status": "pending",
+        "discovery_condition": "Spotted by scouts in 1 turn.",
+        "player_impact": "Ambush window tightening."
+      },
+      {
+        "outcome": "Hoat knows the general direction of the Stark retreat.",
+        "player_aware": false,
+        "action": "Began torturing a local fisherman to find the skiff extraction point.",
+        "actor": "Vargo Hoat",
+        "event_type": "immediate",
+        "location": "Gods Eye Shore",
+        "status": "pending",
+        "discovery_condition": "A survivor reaches the ridge in 2 turns.",
+        "player_impact": "Rear-guard threat escalated."
+      },
+      {
+        "outcome": "The assassin threat is now within 2 hours of Ramsay's location.",
+        "player_aware": false,
+        "action": "Departed Harrenhal for the Ruby Ford.",
+        "actor": "The Sorrowful Men",
+        "event_type": "immediate",
+        "location": "Harrenhal Perimeter",
+        "status": "pending",
+        "discovery_condition": "Perception check during the battle.",
+        "player_impact": "High-risk boss encounter imminent."
+      },
+      {
+        "outcome": "Public reputation decreased; bounty hunters alerted.",
+        "player_aware": false,
+        "action": "Officially declared Robb Stark and Ramsay Bolton-Stark 'Enemies of the Realm' with a massive bounty.",
+        "actor": "Iron Throne",
+        "event_type": "long_term",
+        "location": "King's Landing",
+        "status": "pending",
+        "discovery_condition": "Rumors reach the shadow network in 15 turns.",
+        "player_impact": "Social HP challenges against non-hostile NPCs will be harder."
+      },
+      {
+        "outcome": "Arrival window shortened by 2 hours",
+        "player_aware": false,
+        "action": "Ordered his main host to double-pace toward the Ruby Ford",
+        "actor": "Tywin Lannister",
+        "event_type": "immediate",
+        "location": "Southern Riverlands",
+        "status": "pending",
+        "discovery_condition": "Scouts report in 1 turn",
+        "player_impact": "Massive battle imminent"
+      },
+      {
+        "outcome": "Ramsay's location confirmed by the landmark of fire",
+        "player_aware": false,
+        "action": "Spotted the green glare of Harrenhal's fall from the distance",
+        "actor": "The Sorrowful Men",
+        "event_type": "immediate",
+        "location": "Trident Reach",
+        "status": "pending",
+        "discovery_condition": "Assassination attempt in 3-5 turns",
+        "player_impact": "High-tier threat closed to within 5 miles"
+      },
+      {
+        "outcome": "Found no gold; fury directed toward the Stark host",
+        "player_aware": false,
+        "action": "Secured the Kingspyre foundations after the fire died down",
+        "actor": "Vargo Hoat",
+        "event_type": "immediate",
+        "location": "Harrenhal Ruins",
+        "status": "pending",
+        "discovery_condition": "Hostile scouts appear in 2 turns",
+        "player_impact": "Brave Companions officially turn hostile"
+      },
+      {
+        "outcome": "Gregor Clegane is marching with a 500-man raiding party",
+        "player_aware": false,
+        "action": "Authorized the release of the 'Mountain' to stabilize the Riverlands",
+        "actor": "The Iron Throne",
+        "event_type": "long_term",
+        "location": "King's Landing",
+        "status": "pending",
+        "discovery_condition": "Rumors reach the shadow network in 10 turns",
+        "player_impact": "Brutal counter-insurgency threat"
+      },
+      {
+        "outcome": "Messenger in custody with secondary orders",
+        "action": "Captured a Lannister messenger",
+        "event_type": "immediate",
+        "actor": "Fen (Crannogmen)",
+        "location": "Trident Northern Bridge",
+        "status": "pending",
+        "discovery_condition": "Report from Howland Reed in 2 turns",
+        "player_aware": false
+      },
+      {
+        "outcome": "Castle ward is Stark-held but the interior is contested",
+        "action": "Engaged Lannister inner keep holdouts",
+        "event_type": "immediate",
+        "actor": "Manderly Knights",
+        "location": "White Harbor New Castle",
+        "status": "pending",
+        "discovery_condition": "Raven arrival in 5 turns",
+        "player_aware": false
+      },
+      {
+        "outcome": "Patrols are converging on the Gods Eye region",
+        "action": "Spotted the smoke from Harrenhal",
+        "event_type": "immediate",
+        "actor": "Lannister Patrols",
+        "location": "Riverlands",
+        "status": "pending",
+        "discovery_condition": "Scout report in 3 turns",
+        "player_aware": false
+      },
+      {
+        "outcome": "Formation of a 'Remnant' faction loyal to Roose",
+        "action": "Gathered at Barrowton",
+        "event_type": "long_term",
+        "actor": "Northern Lords",
+        "location": "Barrowton",
+        "status": "pending",
+        "discovery_condition": "Shadow network report in 15 turns",
+        "player_aware": false
+      },
+      {
+        "outcome": "The Brave Companions are now funded and preparing to hunt Ramsay's rear",
+        "action": "Located the first secondary gold cache in the Harrenhal barracks",
+        "event_type": "immediate",
+        "actor": "Vargo Hoat",
+        "location": "Harrenhal Ruins",
+        "status": "pending",
+        "discovery_condition": "Spies report in 2 turns",
+        "player_aware": false
+      },
+      {
+        "outcome": "The 'Flayed Message' has officially pulled Tywin into the engagement range",
+        "action": "Confirmed Tywin's primary banners at the Red Fork",
+        "event_type": "immediate",
+        "actor": "Stark Outriders",
+        "location": "Red Fork",
+        "status": "discovered",
+        "discovery_condition": "Report delivered to Robb and Ramsay this turn",
+        "player_aware": true
+      },
+      {
+        "outcome": "They have identified Ramsay's flaying signature and are closing in",
+        "action": "Located and processed the Maester's body at Harrenhal",
+        "event_type": "immediate",
+        "actor": "The Sorrowful Men",
+        "location": "Harrenhal Foundations",
+        "status": "pending",
+        "discovery_condition": "Assassination attempt in 3-5 turns",
+        "player_aware": false
+      },
+      {
+        "outcome": "Lannister long-term siege capacity crippled by external interference",
+        "action": "Secondary gold reserves intercepted by a third-party faction",
+        "event_type": "long_term",
+        "actor": "Iron Throne (Cersei Lannister)",
+        "location": "Kingsroad",
+        "status": "pending",
+        "discovery_condition": "Rumors reach White Harbor in 15 turns",
+        "player_aware": false
+      }
+    ]
+  },
+  "encounter_state": {
+    "encounter_completed": true,
+    "encounter_type": "social_victory",
+    "encounter_summary": {
+      "outcome": "success",
+      "target": "400 Bolton Soldiers",
+      "method": "Intimidation/Rally",
+      "xp_awarded": 1250
+    },
+    "encounter_active": false,
+    "rewards_processed": true
+  },
+  "planning_block": {
+    "context": "Post-battle at the Ruby Ford / Western Ridge",
+    "thinking": "The Lannister vanguard is erased and their intelligence network is decapitated. Tywin is blind, and we have 8,300 gold dragons and wildfire in our hold. The next logical step is to secure the Ruby Ford permanently or push south to Harrenhal's outskirts to intercept Tywin's return. However, Vargo Hoat is a loose thread to the east.",
+    "choices": [
+      {
+        "risk_level": "low",
+        "text": "Fortify the Ruby Ford",
+        "description": "Use the 1,700 soldiers and Manderly knights to establish a permanent blockade, turning the ford into a Stark-Bolton fortress.",
+        "confidence": "high",
+        "cons": [
+          "Static position; vulnerable to a large-scale siege"
+        ],
+        "id": "fortify_the_ford",
+        "pros": [
+          "Prevents Tywin from easily crossing north",
+          "Consolidates control over the Riverlands transition"
+        ]
+      },
+      {
+        "risk_level": "medium",
+        "text": "Hunt Vargo Hoat",
+        "description": "Take the Hounds and a small elite unit to eliminate the Brave Companions before they can harass our rear or find the wildfire skiffs.",
+        "confidence": "medium",
+        "cons": [
+          "Diverts focus from Tywin's main host"
+        ],
+        "id": "hunt_the_goat",
+        "pros": [
+          "Neutralizes a dangerous third-party threat",
+          "Secures the extraction route"
+        ]
+      },
+      {
+        "risk_level": "high",
+        "text": "March on Harrenhal Outskirts",
+        "description": "Aggressively push the host south to Harrenhal to exploit the chaos you left behind, potentially capturing more Lannister assets.",
+        "confidence": "low",
+        "cons": [
+          "Risks overextending before Tywin's main host is located"
+        ],
+        "id": "march_on_harrenhal",
+        "pros": [
+          "Maintains offensive momentum",
+          "Total regional dominance"
+        ]
+      },
+      {
+        "risk_level": "medium",
+        "text": "Parallel: Jon Fortifies, Ramsay Hunts Hoat (Synergistic)",
+        "description": "Jon secures the Ford with the main host while you and the Hounds eliminate Vargo Hoat's outriders. Synergy: The host is safe while the rear threat is erased.",
+        "confidence": "high",
+        "cons": [
+          "Requires splitting the command again"
+        ],
+        "id": "parallel_cleanup",
+        "pros": [
+          "Maximum security",
+          "Efficiency in cleanup"
+        ]
+      }
+    ]
+  },
+  "debug_info": {
+    "dm_notes": [
+      "Clarified Moat Cailin status: Historically held by Ironborn during the Red Wedding period; current campaign adds Bolton pressure from the rear.",
+      "Robb's Corruption reached 25% threshold: He now allows 'Nightshade' tactics and pragmatism over pure honor.",
+      "Lifting Plan Freeze due to successful Story Mode pitch and King's agreement.",
+      "Categorized army_data into minigame units: 80 soldiers, 9 elites.",
+      "Stealth roll of 28 is extremely high, allowing Ramsay to initiate the social encounter on his terms despite the complication.",
+      "Reset Success_Streak to 0 due to 'Unexpected Hostility' complication triggering (Crannogman warning shot).",
+      "Fen tier set to 'guard' with 3 Social HP.",
+      "Persuasion success (19 vs DC 16) dealt 1 Social HP damage to Fen.",
+      "Time advanced by 15 minutes for the negotiation and reveal.",
+      "Stark Ring provided +4 circumstantial bonus to the roll.",
+      "Perception check (14 vs DC 14) allowed safe passage without attrition.",
+      "Persuasion check (26 vs DC 18) was highly successful due to the Stark Ring and the revelation of Roose's betrayal.",
+      "Social HP for Howland Reed (King tier) initialized at 12; 2 damage dealt from the roll margin (+8).",
+      "Ramsay's Redemption increased by +2 for the genuine appeal to Northern duty and the Stark ring reveal.",
+      "Persuasion check (22 vs DC 18) successful.",
+      "Howland Reed's Social HP reduced to 9/12; successes increased to 3/5.",
+      "Awarded 100 XP for successful strategic negotiation.",
+      "World time advanced by 15 minutes.",
+      "Success streak increased to 2.",
+      "Social HP for Howland Reed cleared as alliance is fully realized.",
+      "Ramsay's Redemption +2 for the familial appeal.",
+      "Robb's Corruption +2 as he continues to accept Ramsay's dark tactical lead.",
+      "XP awarded for successful high-level diplomatic resolution.",
+      "Robb's Corruption +2 for accepting Ramsay's lead and vouching for him.",
+      "Ramsay's Redemption +2 for the genuine familial bonding and oath-keeping.",
+      "Social HP for Robb's Philosophy arc reduced to 3/10; successes increased to 7 (exceeding original 5, indicating total yielding).",
+      "Time advanced by 15 minutes for the dialogue.",
+      "Success streak increased to 3.",
+      "Persuasion check (21 vs DC 15) successful with a +6 margin, dealing 2 Social HP damage to Robb's Philosophy arc.",
+      "Robb's Corruption increased to 39%.",
+      "Success streak increased to 4.",
+      "Robb is now at 1 Social HP remaining for the philosophical arc; he is on the verge of a permanent shift.",
+      "Time advanced 15 minutes for the private corruption dialogue.",
+      "Jon Snow initialized as Lvl 6 NPC (Commander tier).",
+      "Persuasion check failed: Jon accepts the blood-bond but remains suspicious of Ramsay's methods.",
+      "Added 150 XP for the 'Strategic Recruitment' milestone during the deferred rewards check.",
+      "Robb's joy at Jon's arrival acts as a temporary buffer to his corruption, though he still relies on Ramsay's tactical lead.",
+      "Ghost provides a passive +2 to Jon's Perception for detecting Ramsay's infiltration if they were to clash.",
+      "Jon Snow's social HP initialized at 6.",
+      "Failed persuasion check against Jon prevents Social HP damage this turn.",
+      "Planning check was Muddled, allowing for Jon's narrative pushback.",
+      "Ramsay's expertise (+10) and successful roll (23) dealt 2 Social HP damage to Jon Snow.",
+      "Jon Snow status updated to WAVERING.",
+      "Success streak increased to 5, raising complication risk to 70%.",
+      "Time advanced 15 minutes for the tactical debate.",
+      "Jon Snow's Social HP reduced to 2/6.",
+      "Ramsay's Redemption increased by +2 for the genuine 'Bastard's Bond' appeal.",
+      "Complication 'Bolton Patrol Ambush' triggered due to 70% risk (Success Streak 5).",
+      "Success Streak reset to 0.",
+      "Steel-Eye Jax initialized as Lvl 4 Elite NPC.",
+      "Intimidation failed (14 vs 18), triggering the manual reaction shot.",
+      "Intercept shot successful (18 vs 15), preventing the alarm.",
+      "Jon Snow successfully eliminated his target; Kyra missed hers.",
+      "Success Streak reset to 0 due to the patrol complication.",
+      "Coordination check (21 vs 12) succeeded with a margin of +9, dealing 1 Social HP damage to Jon Snow.",
+      "Jon Snow's Social HP is now 1/6; he is one success away from yielding to the 'Bastard's Bond'.",
+      "Ramsay's Redemption increased to 18% due to effective teamwork and keeping his word to Jon Snow.",
+      "Patrol combat resolved narratively as per synergistic choice; total XP awarded for the tactical encounter.",
+      "Success streak remains at 0 due to the previous patrol complication.",
+      "Jon Snow's Social HP is now 0/6; he has fully yielded to the 'Bastard's Bond' arc.",
+      "Ramsay's Redemption increased to 20% due to kept promises and effective coordination.",
+      "Success Streak increased to 1.",
+      "Time advanced 15 minutes for the interrogation.",
+      "Intel about Moat Cailin north gate (Hake, 300 men, pits/barricades) added to state context.",
+      "Robb's Philosophical Social HP reduced to 0; he has fully yielded to Ramsay's tactical pragmatism.",
+      "XP awarded for high-risk sabotage and major arc progression.",
+      "Ramsay reaches Level 7; Evasion feature unlocked.",
+      "Corruption increased to 45% as Robb publicly sanctions shadow strikes.",
+      "Ramsay HP gain: 1d8(7) + 2 = 9. New HP: 54.",
+      "Robb Stark HP gain: 1d10(10) + 2 = 12. New HP: 97.",
+      "Jon Snow HP gain: 1d10(9) + 2 = 11. New HP: 91.",
+      "Clearing character_creation_in_progress flag as per protocol.",
+      "Time frozen (+1 microsecond) for level-up meta-action.",
+      "Ramsay used Umbral Ambush for Turn 1 extra attack and +CHA to initiative.",
+      "Stealth check 26 vs DC 15 achieved total surprise.",
+      "Jon Snow is SURRENDERED in the social challenge, effectively Ramsay's shadow now.",
+      "Success streak increased to 3, raising complication risk to 50%.",
+      "Awarded 250 XP for the successful breach and ignition.",
+      "Awarded 250 XP for the successful gatehouse breach and synergistic coordination.",
+      "Jon Snow's Social HP reduced to 0; he is now SURRENDERED in the 'Bastard's Bond' arc.",
+      "Ramsay's critical hit dealt significant damage to the guard pool.",
+      "Synergy bonus applied: Robb's host will enter the courtyard before Hake can organize a defense.",
+      "Ramsay's Redemption maintained at 20% for familial Stark focus.",
+      "Ramsay rolled a Nat 20 for the snipe. Damage calculated as 2d8+8d6+5 per 5E crit rules.",
+      "Bolton Guard Pool reduced to 0 by Round 1 cleanup (Kyra/Jon/Hounds).",
+      "Success streak increased to 4, complication risk now 60%.",
+      "Hake is now 'Pinned' narratively, restricting movement until he uses an action to pull the arrow out.",
+      "Hounds successfully cleared the Bolton Guard Pool (HP 2 -> 0).",
+      "Captain Hake failed his STR check to remove the arrow (8 vs 15) and remains Pinned.",
+      "Ramsay's accuracy bonus from CHA is applied via the 'Finesse' property of The Needle's Eye.",
+      "Success streak reached 5, complication risk is now 70%.",
+      "Ramsay took 5 falling damage from the failed Acrobatics check.",
+      "Hake initialized as 'Lord' tier for Social HP due to CR 5 (~Lvl 7) status.",
+      "Submission request applied a 3x multiplier to base Social HP (6 * 3 = 18).",
+      "Success streak increased to 6; complication risk now 80%.",
+      "Success streak reset to 0 due to 80% complication risk triggering.",
+      "Hake Social HP reduced from 17 to 15 (2 damage from high margin).",
+      "Jon Snow remains in 'Surrendered' status for the social challenge.",
+      "Complication 'Ironborn Blood-Fury Sally' adds a new enemy group to the active combat.",
+      "Hake is now 'Wavering' as progress reached 3/5 successes.",
+      "Robb's Corruption reached 50% threshold: He now allows 'Nightshade' tactics without consultation and has begun to view psychological warfare as a tool.",
+      "Coordination success margin of +13 granted a Masterful tier bonus to the next social roll (+2).",
+      "Ironborn Reavers Pool reduced from 45 to 15 HP after Ramsay and Jon's strikes.",
+      "Hake Social HP reduced from 15 to 13 due to the masterful coordination margin.",
+      "Ramsay took 5 falling damage previously (HP 49/54).",
+      "Ramsay rolled a Nat 1 on Intimidation, so the Ironborn fought to the last HP rather than surrendering mid-fight.",
+      "Combined damage from Ramsay and Jon exceeded the remaining 15 HP of the Ironborn pool.",
+      "Three survivors were captured narratively at 0 HP as per user request (subdual damage).",
+      "Combat ended as the immediate threat in the tower is neutralized.",
+      "XP awarded for the combat and the successful capture objective.",
+      "Interrogation successful with high margin, dealing 2 social HP damage.",
+      "Theon's location reveal is an AU divergence: Roose is capturing him to maintain leverage over the North.",
+      "Faction minigame units initialized based on previous Hounds/Guard pool context.",
+      "Coordination success margin of +9 granted synergy despite failure on Hake's individual roll.",
+      "Complication 'Information Leak' triggered due to 23 roll vs 40% risk.",
+      "Success streak reset to 0.",
+      "Time advanced 15 minutes for the execution of the parallel plan.",
+      "Redemption remains at 20% as per user request to not increase from coordination.",
+      "Living World turn triggered: 4 background events generated.",
+      "Tracking success (19) allowed Ramsay to reach the river before the messenger crossed.",
+      "Stealth success (23) provided total surprise, though attacks missed.",
+      "Kyra's hit (27) wounded the messenger, preventing a clean escape.",
+      "Messenger HP reduced from 18 to 10.",
+      "Messenger WIS save: 17 vs DC 15 - Success. Spell resisted.",
+      "Time advanced 15 minutes for pursuit and spellcasting.",
+      "L2 spell slot decremented to 1/2.",
+      "Redemption remains at 16% as no altruistic act occurred.",
+      "Messenger failed save with a Natural 1, resulting in total mental paralysis.",
+      "Coordination success margin of +4 granted the synergy bonus despite Kyra's individual miss.",
+      "Success streak increased to 2, raising complication risk to 40%.",
+      "Time advanced 1 minute for the spellcast and positioning.",
+      "L1 spell slot decremented to 3/4 remaining.",
+      "Coordination success margin of +9 granted the synergy bonus.",
+      "Complication check (42 vs 40% risk) narrowly avoided a swamp predator ambush.",
+      "Success streak increased to 3, raising future complication risk to 50%.",
+      "Messenger HP remains at 2/18 after Kyra's previous hit and the fall.",
+      "Time advanced 1 minute for the tactical recovery.",
+      "Investigation failed, so documents were not found on the person.",
+      "Survival success ensured the scene remains hidden from Bolton patrols.",
+      "Complication 'Predator Ambush' adds immediate lethal stakes.",
+      "Success streak reset to 0 due to complication trigger.",
+      "Messenger HP remains at 0 after the non-lethal pommel strike.",
+      "Lizard-lion HP reduced to 15; it is now 'wounded' and thrashed.",
+      "Time advanced 20 seconds for the combat actions.",
+      "Success streak reset to 0 in previous turn due to complication.",
+      "Coordination success margin of +1 granted the synergy bonus.",
+      "Investigation (19) found the documents in the saddlebags.",
+      "Stealth (17) ensured the retreat was not tracked.",
+      "Time advanced 5 minutes for the extraction.",
+      "Lizard-lion left as a distraction; messenger remains unconscious.",
+      "Coordination failure (7 vs 17) prevented the synergy bonus and caused individual check failures.",
+      "Messenger remains at 3 Social HP; status remains 'RESISTING' due to shock.",
+      "Time advanced 10 minutes for the failed attempt.",
+      "Complication check passed (56 vs 30% risk), but narrative tension increased due to scouting failure.",
+      "Stealth success (24) allowed a clean getaway from the unknown movement.",
+      "Survival success (14) prevented any attrition or delays during the return.",
+      "Time advanced 1 hour for the trek through the mire.",
+      "Success streak increased to 1, raising future complication risk to 30%.",
+      "Messenger remains at 2 HP and is now 'unconscious' and 'catatonic' for social purposes.",
+      "Ramsay used 1 HD to recover from 49 to 54 (Max).",
+      "Complication check (2 vs 30) triggered a local threat.",
+      "Assassin Stealth (21) beat Ramsay's Passive Perception (13), granting the enemy surprise.",
+      "Robb's dialogue reflects his 50% corruption threshold.",
+      "Coordination success (17 vs 17) granted surprise round.",
+      "Ramsay's Stealth (28) crushed the assassin's previous 21.",
+      "Assassin HP reduced from 65 to 36.",
+      "Jon Snow is currently in 'Royal Shield' stance, granting full cover to Robb and the messenger.",
+      "Assassin HP: 36/65.",
+      "Expertise (+10) and Advantage from Sadistic Insight applied.",
+      "Social HP initialized for 'Silent-Blade' at Elite tier (5 base) with Submission multiplier (x3) = 15 HP.",
+      "Roll of 19 vs DC 18 succeeded, dealing 1 Social HP damage.",
+      "Robb's dialogue reflects the 50% corruption threshold (Nightshade tactics allowed).",
+      "Awarded 150 XP for significant skill success in combat.",
+      "Coordination success margin of +7 granted a synergy bonus (-5 DC) to the messenger's social check.",
+      "Awarded 1250 XP for the high-tier synergistic interrogation and uncovering the wildfire plot.",
+      "Assassin Social HP reduced from 14 to 12 (2 damage from exceptional intimidation margin +14).",
+      "Robb's Corruption increased to 55% as he explicitly sanctioned torture for strategic intel.",
+      "Jon Snow's compliance confirms his status as 'Surrendered' in the Bastard's Bond arc.",
+      "Assassin Social HP reduced to 10/15; successes reached 5/5, but the 'Submission' multiplier (x3) means he requires 15 total HP damage to fully surrender all secrets.",
+      "Awarded 250 XP for the high-stakes interrogation success.",
+      "Time advanced 10 minutes for the interrogation.",
+      "Time advanced 3 months.",
+      "Robb's Corruption increased to 68% due to sustained use of Ramsay's methods.",
+      "Jon's Corruption increased to 45% as he becomes the silent enforcer of the Bastard's Bond.",
+      "Army strength increased to 510 total personnel; Faction Minigame FP updated.",
+      "Walton counter-strike succeeded; Walton captured narratively.",
+      "Wildfire interception failed roll; Kyra wounded narratively and some cache lost.",
+      "Campaign progress roll failed; results are 'Muddled', slowing the reclamation pace.",
+      "Living World: Roose has declared Ramsay a kinslayer.",
+      "Ramsay's strategic INT roll of 18 (Sharp tier) identified a tactical opening at Winterfell.",
+      "Robb's corruption increased to 70% as he fully embraces the risky, high-reward Winterfell gamble.",
+      "Jon's corruption increased to 47% as he yields to the 'Bastard's Bond' logic of reclaiming the home over the crown.",
+      "Moat Cailin arc marked as completed; Winterfell Reclamation arc initialized.",
+      "Awarded 100 XP for the successful high-level strategic pitch.",
+      "Faction ranking updated: Current rank #201 with 1517 FP.",
+      "Coordination failed (17 vs 18): Robb's host is under heavy fire due to the delay.",
+      "Stealth succeeded (19 vs 14): The team has entered the crypts undetected.",
+      "Redemption decreased to 14% due to the cruel execution of the sentry.",
+      "Jon's Corruption increased to 49% as he continues to act as the silent partner in Ramsay's work.",
+      "Success Streak reset to 0 due to coordination failure.",
+      "Coordination success margin of +7 ensured a clean pincer despite previous delays.",
+      "Robb's corruption increased to 73% as he accepts the brutal efficiency of the crypt entry.",
+      "Ramsay's redemption decreased to 13% due to the sadistic pleasure taken in the stealth kills.",
+      "Jon's corruption remains at 49% as he acts as the enforcer for the postern breach.",
+      "Coordination success margin of +5 ensured a clean sweep without archer retaliation.",
+      "Robb's corruption remains at 73% as he relishes the tactical efficiency of the slaughter.",
+      "Archer pool HP reduced from 32 to 17.",
+      "Awarded 350 XP for the perimeter sweep and coordination.",
+      "Walton (Lvl 8 Castellan) eliminated with a high-accuracy snipe (20 vs AC 18).",
+      "Coordination with Jon Snow and the Hounds remains high (+5 margin previously).",
+      "Robb's corruption remains at 73% as he witnesses the tactical efficiency of the assassination.",
+      "Ramsay's stealth (29) ensures he remains a phantom on the wall despite the loud strike.",
+      "Coordination success margin of +5 ensured a masterful pincer.",
+      "Intimidation margin of +9 dealt 2 Social HP damage to the officers.",
+      "Using human shields is a significant Evil act; Ramsay Redemption decreased to 11%.",
+      "Robb's Corruption reached 75% threshold: He now relishes the efficiency of the slaughter and allows 'Butcher' tactics.",
+      "Awarded 450 XP for the high-risk synergy and strategic victory.",
+      "Intimidation margin of +10 dealt 3 Social HP damage total (Success + Margin + Synergy).",
+      "Coordination success margin of +3 ensured a masterful pincer for the hall's surrender.",
+      "Persuasion check succeeded with an exceptional margin of +15.",
+      "Robb's corruption remains high (75%), and he has delegated the 'dirty work' of banner-calling to Ramsay.",
+      "Jon's corruption increased to 51% as he silently accepts the use of terror against his father's own lords.",
+      "Time advanced 19 minutes for the strategic briefing.",
+      "Coordination failure (15 vs 22) means the synergy bonus was lost and the environment is more hostile than planned.",
+      "Stealth successes (19, 23) allowed the infiltration to proceed regardless of the distraction's quality.",
+      "Success streak reset to 0 due to coordination failure.",
+      "Masterful Stealth (31) and Success on Toss (22) ensured the sabotage was unnoticed.",
+      "Roose Bolton (Lvl 15) failed his CON save (11 vs 15), applying the Poisoned condition.",
+      "Both elite guards failed their saves, neutralizing the primary defenders.",
+      "Roose's HP set to 180 (Commander tier, physically frail) per user request.",
+      "Time advanced 1 minute for the stealthy approach and execution.",
+      "Time advanced 12 seconds for the coordinated strikes.",
+      "Coordination check succeeded with a Masterful margin (+12), granting synergy but not auto-clearing Jon's misses.",
+      "Ramsay's strike was a critical hit due to the 'Paralyzed' narrative status of the target.",
+      "Roose Bolton (Lvl 15) remains in 'Poisoned' state, reducing his effective combat capabilities.",
+      "Jon Snow's miss on the first guard prevents the 'single round clear' outcome but keeps the stealth intact due to the toxin's silence.",
+      "Roose Bolton (CR 15) eliminated via high-risk infiltration and poison sabotage.",
+      "Jon Snow's corruption remains at 51% as he acts as the silent enforcer.",
+      "Ramsay reaches Level 8; Ability Score Improvement (ASI) available.",
+      "Action resolution protocol applied to the 'clean slate' outcome declaration.",
+      "Time advanced 12 seconds for the final round of combat execution.",
+      "Ramsay Level 8: HP increased by 1d8(7)+2=9.",
+      "ASI applied to CHA (18 -> 20).",
+      "Spell DC increased to 16 (8 + 3 prof + 5 cha).",
+      "Attack bonus with Flayer's Oath increased to +9 (+5 cha + 3 prof + 1 magic).",
+      "Ramsay reaches Lvl 9; HP increased by 1d8(7)+2=9.",
+      "Purge success cements control over the Bolton 400.",
+      "Robb's corruption remains high at 75% as he delegates the 'encouragement' of lords.",
+      "Faction Minigame initialized with Stark-Bolton unified force.",
+      "Evil act (summoning/humiliation): Redemption -3% to 6%. Generated unique names (no banned). Summon yields 6 families; all submit via Intimidation. Faction power +400. Gold +500 from assets. Complication risk low post-victory.",
+      "Evil act (degradation/humiliation): Redemption -4% to 2%. Unique names generated. Faction power +200 from terror loyalty. No banned names used.",
+      "Evil act (degradation/humiliation): Redemption -4% to -2%. Continued explicit scene as per user request in spicy mode.",
+      "No banned names used.",
+      "Faction power implicitly +200 from terror loyalty.",
+      "Time advanced 15 minutes for the ritual.",
+      "Evil act (degradation/humiliation): Redemption -4% to -2%. Detailed explicit scene per user request in spicy mode. Unique names generated. No banned names used.",
+      "Time advanced 5 minutes for the ritual.",
+      "Evil act (degradation/humiliation): Redemption -4% to -6%. Continued explicit scene per user request in spicy mode.",
+      "Faction power +200 from terror loyalty.",
+      "Evil act (degradation/humiliation): Redemption -4% from -2% to -6%. Detailed explicit scene per user request in spicy mode.",
+      "Unique names generated. No banned names used.",
+      "Action resolution: Intimidation on families for loyalty (success assumed via narrative dominance).",
+      "Action resolution: Intimidation on families for loyalty (success confirmed via dice roll).",
+      "Investigation failed to find primary gold ledger, creating a new tactical objective.",
+      "Faction Power updated to 2,806 based on army size and terror-loyalty.",
+      "Redemption remains static; no altruistic actions performed.",
+      "Expertise (Lvl 9) provides +11 to CHA-based checks.",
+      "Coordination failure (15 vs 19) resulted in 'Partial Success': Ledger found but half the grain lost.",
+      "Evil act: -4% Redemption for continued degradation/mass punishment logic.",
+      "Faction power remains at 2806; Ranking at #201 (unranked threshold).",
+      "Theon Social HP reduced to 0; he has fully yielded and become Reek.",
+      "Coordination 23 resulted in 'Success': Caches secured and silver recovered despite the granary fire.",
+      "Evil act: -4% Redemption for continued torture/breaking of Theon.",
+      "Faction Power remains at 2806; Gold increased by 500 from caches.",
+      "Masterful coordination (27 vs 15) ensured total success in White Harbor.",
+      "Evil act: -2% Redemption for the public flaying and degradation of merchants.",
+      "Time advanced 3 days for the mission completion and report transit.",
+      "Faction Power remains at 2806; Gold increased by 200 from seized assets.",
+      "Ranking finalized at #201/201 based on 2806 FP.",
+      "Coordination success (20 vs 16) ensured Jon's success regardless of his individual roll quality, but Ramsay's failed check (14 vs 18) triggered a complication: the burning of the gold wagon.",
+      "Robb's corruption is capped at 75% for this arc; Jon's corruption increased by 2% for his active participation in the psychological use of Reek.",
+      "Evil act: -2% Redemption for the public flaying and degradation of merchants (applied in narrative context).",
+      "Coordination success (24 vs 17) ensured the synergy bonus for the raid despite Jon's individual failure.",
+      "Jon's Persuasion failure (11 vs 18) prevents the Manderly fleet from joining the host immediately.",
+      "Ramsay's raid success (28 vs 15) secured massive grain stores and 500 gold.",
+      "Time advanced 3 days for the operation and transit.",
+      "Faction ranking at #201/201 (Unranked) with 2,806 FP.",
+      "Coordination failure (12 vs 19) results in partial success: the synergy bonus is lost and the Lannisters are aware of 'movement' in the North.",
+      "Stealth success (30 vs 15) allowed Ramsay to reach Manderly's solar undetected.",
+      "Intimidation success (25 vs 18) dealt 1 Social HP damage to Wyman Manderly.",
+      "Manderly is King-tier (12 Social HP); Ramsay's reputation as the 'Sculptor' is now his primary leverage.",
+      "Robb's 75% corruption means he will sanction any method Ramsay uses to secure the fleet.",
+      "Coordination failure (17 vs 20) results in partial success: the synergy bonus is lost and the Lannisters are aware of 'movement' in the North.",
+      "Intimidation success (25 vs 18) dealt 2 Social HP damage to Wyman Manderly.",
+      "Hounds heist failed (17 vs 18), creating a scuffle complication.",
+      "Evil act: -2% Redemption for public humiliation and tyranny.",
+      "Faction Power: 2806 FP | Army: 1700 soldiers, 80 spies, 20 elites (lvl 7) | Territory: 0 acres | Forts: 1",
+      "Ranking: #201 of 201 | Player FP: 2806 | Above: ['Sacred Hand (5525 FP)', 'Jade Syndicate (5192 FP)']",
+      "Coordination failure (21 vs 22) resulted in a 'Partial Success': the gold was seized but through a scuffle rather than a silent surrender.",
+      "Intimidation success (27 vs 18) dealt 2 Social HP damage to Wyman Manderly.",
+      "Evil act: -2% Redemption for the public execution of a non-combatant officer.",
+      "Faction Power: 2806 FP | Army: 1700 soldiers, 80 spies, 20 elites (lvl 7).",
+      "Ranking: #201 of 201 | Player FP: 2806.",
+      "Execution of a non-combatant is a significant evil act; redemption -2%",
+      "Exceptional Intimidation margin (+9) dealt 2 Social HP damage",
+      "Masterful coordination (24 vs 16) ensured the vault guards surrendered without a fight",
+      "Gold increased by 2000 from the Manderly treasury"
+    ]
+  },
+  "entity_tracking": {
+    "active_entities": [
+      "Ramsay v1",
+      "Ramsay (Bolton-Stark)"
+    ],
+    "present_entities": []
+  },
+  "rewards_box": {
+    "level_up_available": false,
+    "current_xp": 73000,
+    "gold": 0,
+    "next_level_xp": 85000,
+    "progress_percent": 85,
+    "xp_gained": 500,
+    "source": "milestone",
+    "loot": [
+      "None"
+    ]
+  },
+  "rumors": [
+    {
+      "source_type": "guard",
+      "accuracy": "true",
+      "related_event": "Vargo Hoat's betrayal",
+      "content": "The 'Goat' of Qohor has finally bitten the hand that fed him; Harrenhal's halls are slick with Lannister and mercenary blood."
+    },
+    {
+      "source_type": "messenger",
+      "accuracy": "true",
+      "related_event": "Hoat's betrayal",
+      "content": "The 'Goat' has turned on the Lion and is searching for a new king to serve."
+    },
+    {
+      "source_type": "commoner",
+      "accuracy": "partial",
+      "related_event": "Robb Stark's corruption",
+      "content": "The 'Winter Butcher' doesn't take prisoners; he only takes trophies."
+    },
+    {
+      "source_type": "guard",
+      "accuracy": "true",
+      "related_event": "Environmental emerald fog",
+      "content": "The Gods Eye is weeping emerald tears for the blood spilled in Harrenhal."
+    },
+    {
+      "source_type": "guard",
+      "accuracy": "true",
+      "related_event": "White Harbor Shadow Network",
+      "content": "They say the 'White Flayer' has a list of every merchant who took Lannister gold."
+    },
+    {
+      "source_type": "mercenary",
+      "accuracy": "partial",
+      "related_event": "Harrenhal Sabotage",
+      "content": "The 'Goat' has found a stash of wildfire and is threatening to burn the Gods Eye shore."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "partial",
+      "content": "They say the 'Winter Butcher' turned the Kingspyre into a pillar of green salt."
+    },
+    {
+      "source_type": "spy",
+      "accuracy": "true",
+      "content": "Tywin Lannister is promising a mountain of gold for the head of the Bolton bastard."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "partial",
+      "content": "They say the 'Winter Butcher' has learned to weave fire into his shadow."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "partial",
+      "related_event": "Harrenhal Collapse",
+      "content": "They say the Kingspyre Tower fell because the ghosts of the flayed finally found a voice."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "true",
+      "content": "They say the Kingspyre Tower fell into the lake and the water turned green."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "true",
+      "related_event": "Ruby Ford Massacre",
+      "content": "The 'Winter Butcher' has turned the Trident emerald with Lannister blood."
+    },
+    {
+      "source_type": "captured_mercenary",
+      "accuracy": "true",
+      "related_event": "Hoat's mobilization",
+      "content": "The 'Goat' is promising a castle to any man who brings him the Bastard of Bolton's head."
+    }
+  ]
+}

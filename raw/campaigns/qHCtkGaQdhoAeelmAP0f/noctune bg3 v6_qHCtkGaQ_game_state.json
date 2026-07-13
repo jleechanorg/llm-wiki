@@ -1,0 +1,2551 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "current_rank": "Greater Deity (Rank 6)",
+    "divine_leverage": 24,
+    "_comment_tether": "Gilded Tether now has 0/4 active thralls.",
+    "combat_stats": {
+      "spell_attack_bonus": 69,
+      "divine_leverage": 47,
+      "spell_save_dc": 83,
+      "armor_class": 83,
+      "speed_fly": 60
+    },
+    "hit_dice_max": 16,
+    "description": "Campaign Module: The Velvet Cage (Descent Edition)\nSystem: D&D 5e (2024 Ruleset Compatible) Tone: Survival Horror, Gothic Noir, Infernal Politics Protagonist: Nocturne Sosuke (The Black Diamond, age 16)\nIf anything contradicts, assume things further below take precedence vs defined earlier.\nI. Character Profile: Nocturne Sosuke (The Fallen Siren)\nI. Character Description: Nocturne Sosuke (The Ascendant)\nThe Vessel of Stolen Fire. You retain the delicate, half-elven frame of your origin, but it has been perfected into something unsettlingly flawless. Your skin possesses the cool, polished texture of living marble\u2014pale as bone china, smooth to the touch, and utterly devoid of mortal imperfections like sweat or pores. You are breathtakingly beautiful, but it is the beauty of a statue brought to life by a dark miracle.\nThe Face: Your features are sharp and aristocratic, framed by raven-black hair that falls in heavy, silken waves. It looks perpetually damp, as if you have just emerged from the sea or a birthing pool.\nThe Eyes: Normally, they are a deep, captivating violet. However, when you channel your power\u2014casting a spell, commanding a thrall, or stealing a soul\u2014they ignite. A blinding pink and crimson luminescence floods your irises, removing the whites of your eyes and turning your gaze into two twin stars of Abyssal hunger.\nThe Attire: You favor sheer, midnight-blue silks that cling to your form like water. Your clothes are now unmarred and pristine, the fabric flowing with a gravitational grace that matches your Sovereign status.\nThe Hidden Markings: You can manifest small, elegant horns and retractable Abyssal wings at will. When hidden, your silhouette is indistinguishable from a mortal noblewoman. When revealed, they are wreathed in shadow and starlight, marking you as the Sovereign of the Shattered Rose.\nYou are a paradox: A fragile girl in a pristine dress who commands the authority of a god. When you walk into a room, the air grows heavy with the scent of brine and ozone, and even the shadows seem to lean toward you in submission.\nThe Narrative Hook: \"You are a quiet dissonance. Visually, you are a porcelain girl in unmarred silk, fragile enough to break in a strong wind. Yet, your presence displaces the air in a room like a rising tide. There is no heavy musk of sulfur, only a faint, almost imagined sharpness\u2014like the smell of the sea just before a storm breaks. People do not bow because you demand it; they step back because your stillness feels louder than their noise. The shadows don't bend, but they seem to deepen around you, lending your silhouette a weight that your small frame should not possess.\"\nThe Physical Evolution: Level 0\u201320\nTheme: You do not grow monstrous; you grow perfect. The transformation is not about adding claws or scales, but about refining your half-elven form until it hits the \"Uncanny Valley\"\u2014too symmetrical, too smooth, and too still to be entirely human.\nLevel Range\nStage Name\nVisual Changes\nLevel 0\nThe Ruin\nAppearance: You are a mess of unmarred silk and sea-water. Your hair is matted, your skin is pale and clammy, and you are shivering. You look like a victim\u2014a drowning girl washed ashore.\n\nVibe: Pitiful. Fragile.\nLevel 1\u20134\nThe Porcelain Doll\nAppearance: The dirt and grime stop sticking to you. Your skin clears, taking on the texture of polished bone china. You stop sweating. You stop shivering.\n\nThe Eyes: Your violet eyes are wide and innocent, but they reflect light a little too perfectly, like glass beads.\n\nVibe: \"She is too pretty for this mud.\"\nLevel 5\u20139\nThe Uncanny Valley\nAppearance: Your skin hardens into the \"Living Marble\" texture\u2014cool to the touch and flawless. Minor wounds don't bleed; they just crack slightly before sealing. Your movements lose all wasted energy; you don't walk, you glide.\n\nThe Eyes: When you cast a spell or use Pheromone Spike, your pupils vanish, flooded by a sudden, intense pink luminescence.\n\nVibe: \"Something is wrong with that girl, but I can't look away.\"\nLevel 10\u201314\nThe Predator\nAppearance: You no longer blink unless you choose to. Your hair always falls in perfect waves, regardless of the wind. Your \"fragility\" is now clearly a trap; you look like a weapon wrapped in silk.\n\nManifestation: You can momentarily manifest spectral horns or a shadow of wings during high-emotion moments (Intimidation/Persuasion crits), but they vanish instantly.\nLevel 15\u201319\nThe Sovereign\nAppearance: The transformation is internal. You have a gravitational pull; capes and hair seem to float slightly on your own personal updraft. You smell perpetually of ozone and deep-sea brine.\n\nThe Eyes: The pink glow lingers for seconds after you stop casting, leaving trails of light in the air.\n\nVibe: People instinctively lower their voices when you enter a room.\nLevel 20\nThe Ascended\nAppearance: You are a statue brought to life by a dark miracle. You can fully manifest physical Abyssal Wings (leathery, elegant) and Curved Horns at will, but you usually keep them retracted to maintain the guise of the noble scion.\n\nThe Eyes: When you use Soul Siphon, your eyes turn into twin stars of crimson fire, illuminating the skeleton of your victim through their skin.\n\n\nSummary of the Aesthetic\nResting State: A breathtakingly beautiful, pale half-elf noblewoman in sheer silks. She looks fragile, but touching her feels like touching a cold, smooth statue.\nActive State (Combat/Magic): The disguise drops. The eyes flare pink-red, the air grows heavy, and the shadow behind you momentarily takes the shape of the Demon Lord you are becoming\nLevel 21 (The Spark): Your eyes become permanently violet or red. You no longer blink unless you choose to.\nLevel 22 (Wings): You sprout retractable Abyssal Wings (Bat-like or Feathered). This justifies your Flight speed.\nLevel 25 (The Crown): Small, elegant horns manifest on your forehead. Your skin takes on a supernatural perfection (marble/pale/red).\nLevel 30 (The Demon Lord): You grow slightly taller. Your voice gains a permanent harmonic reverb. You are no longer mortal; you are a Fiend type.\nThe \"Level 1\" Justification (The Nerf, i started at this level on the beach but am level 5 now) The tadpole is not just eating your brain; it is actively suppressing the immense infernal energy you absorbed during the ritual. You are a Level 6 entity contained in a Level 1 cage. The campaign is not just about removing the tadpole; it is about breaking the dam so your power can flood back.\nThe Age Factor (The Uncanny Valley): You are physically sixteen, a porcelain doll in a pristine silk dress. Logically, battle-hardened mercenaries like Zevlor or Aradin should dismiss you. They don\u2019t.\nThe Narrative Hook: People listen to you not because you are imposing, but because you are wrong. The air drops ten degrees when you make eye contact. Your beauty triggers a predator response in others\u2014the feeling of a bird staring at a snake. When you roll Intimidation, you do not shout; you whisper, and the target feels the weight of the Abyss pressing against their skull.",
+    "divine_rank": 6,
+    "resources": {
+      "hit_dice": {
+        "used": 0,
+        "max": 10
+      },
+      "spell_slots": {
+        "level_7": {
+          "used": 0,
+          "max": 999
+        },
+        "level_9": {
+          "used": 0,
+          "max": 2
+        },
+        "level_5": {
+          "used": 0,
+          "max": 999
+        },
+        "level_1": {
+          "used": 0,
+          "max": 999
+        },
+        "level_6": {
+          "used": 0,
+          "max": 999
+        },
+        "level_2": {
+          "used": 0,
+          "max": 999
+        },
+        "level_4": {
+          "used": 0,
+          "max": 999
+        },
+        "level_8": {
+          "used": 0,
+          "max": 999
+        },
+        "level_3": {
+          "used": 0,
+          "max": 999
+        }
+      },
+      "class_features": {
+        "moonbeam": {
+          "used": 0,
+          "max": 1
+        },
+        "blighted_growth": {
+          "used": 0,
+          "max": 1
+        },
+        "bardic_inspiration": {
+          "used": 1,
+          "max": 5
+        },
+        "sunbeam": {
+          "used": 0,
+          "max": 1
+        }
+      },
+      "gold": 211820,
+      "bardic_inspiration": {
+        "used": 1,
+        "max": 5
+      },
+      "inspiration": {
+        "current": 4,
+        "max": 4,
+        "description": "Used to reroll any ability check. Max cap of 4. Awarded for significant character moments or background goals.",
+        "award_triggers": "Awarded when Nocturne or a companion achieves a significant narrative milestone or background-appropriate feat.",
+        "name": "Group Inspiration (BG3 Style)"
+      }
+    },
+    "experience": {
+      "needed_for_next_level": 6450000,
+      "current": 5601050,
+      "to_next_level": 0
+    },
+    "resistances": [
+      "Radiant"
+    ],
+    "base_attributes": {
+      "strength": 50,
+      "dexterity": 56,
+      "intelligence": 58,
+      "wisdom": 52,
+      "charisma": 90,
+      "constitution": 54
+    },
+    "features": [
+      "Divine Rank 1 (Quasi-Deity)",
+      "Immunity: Sleep",
+      "Administrator of the Absolute (Full Integration)",
+      "Multiversal Hardware (Netherbrain Marrow)",
+      "Multiversal Hardware (Netherbrain Marrow)",
+      "Neural Network Sovereignty",
+      "Global Broadcast Authority",
+      "Immunity: Fear",
+      "Greater Deity (Rank 6)"
+    ],
+    "level": 51,
+    "skills": [
+      "Deception (Expertise)",
+      "Persuasion (Expertise)",
+      "Intimidation (Expertise)",
+      "Insight (Expertise)",
+      "Intimidation (Expertise)",
+      "Insight (Expertise)"
+    ],
+    "armor_class": 21,
+    "equipment": {
+      "resources": {
+        "gold": 6820
+      },
+      "ring_2": "Crusher's Ring",
+      "armor": null,
+      "hands": "Bracers of the Absolute Gazer",
+      "main_hand": {
+        "equipped": true,
+        "stats": "+3 Spell Save DC, Sovereign's Command (9th Lvl Mass Suggestion 1/day)",
+        "name": "Sceptre of the Shattered Rose"
+      },
+      "weapons": [
+        "Spellthief (Shortbow)"
+      ],
+      "body": {
+        "equipped": true,
+        "stats": "AC 21 (Siren's Skin), Add CHA to Cantrip damage, Gain Temp HP on cast",
+        "name": "Silk of the Abyssal Weaver"
+      },
+      "cloak": {
+        "equipped": true,
+        "stats": "Enemies have disadvantage on attack rolls against you while you are at full HP; 1/day cast Mirror Image.",
+        "status": "Cloak of Displacement (Claimed from Goblin Tribute)",
+        "name": "Cloak of Displacement"
+      },
+      "backpack": [
+        "Chain Shirt +2 (Stored)",
+        "Chain Shirt +2 (Stored)",
+        "Chain Shirt +2",
+        "Shadowsilk Wrappings (x3)",
+        "Wasp-Sting Dagger (1d4+2, Advantage vs Lightly Armored)",
+        "Shadow-Infused Leather (+1 AC, +2 Stealth)",
+        "Goblin King's Greed (Trinket: +10% Gold find)",
+        "Handmaiden's Chain",
+        "Moonlight Cloak",
+        "Sanguine Distillates (x5)",
+        "Melf's First Staff (Stored)"
+      ],
+      "inventory": [
+        "Cazador's Coded Ledgers",
+        "Soul Coin (x4)"
+      ],
+      "off_hand": "Shield",
+      "ring_1": {
+        "equipped": true,
+        "stats": "+1 Spell Save DC, 1/day Abyssal Entangle",
+        "name": "Ring of the Shadow Circle"
+      },
+      "neck": {
+        "equipped": true,
+        "stats": "+2 Spell Save DC, +1 CHA Max 22",
+        "name": "Amulet of the Abyssal Siren"
+      }
+    },
+    "attributes": {
+      "strength": 50,
+      "dexterity": 56,
+      "intelligence": 58,
+      "wisdom": 52,
+      "charisma": 92,
+      "constitution": 54
+    },
+    "hit_dice_current": 16,
+    "status_conditions": [],
+    "ac": 19,
+    "spells_known": [
+      "Cantrips: Vicious Mockery, Friends, Minor Illusion",
+      "Level 1-8: Unlimited Arcanum (Karsite Avatar)",
+      "Level 9: Dominate Monster, Glibness, Power Word Kill",
+      "Level 10: Conceptual Manipulation (Narrative Reality Warping)",
+      "Level 11: Protolithic Reconstruction (Historical Editing)",
+      "Level 12: Karsus's Avatar (Perfected - Portfolio Theft)"
+    ],
+    "_comment_immortality_upgrade": "Upgraded from Lunar Immortality per player directive #520.",
+    "name": "Nocturne Sosuke",
+    "hp_max": 1380,
+    "spell_save_dc": 65,
+    "hp_current": 1380,
+    "immunities": [
+      "Death Effects",
+      "Energy Drain"
+    ],
+    "_comment_hp": "Restored +4 Max HP as Kagha is no longer bound by Gilded Tether (Sequence 336). Correcting current HP to 53.",
+    "inventory": [
+      "Backpack",
+      "Bedroll",
+      "Mess kit",
+      "Tinderbox",
+      "Torch (10)",
+      "Rations (10 days)",
+      "Waterskin",
+      "Rope (50 feet)",
+      "Coin pouch (10gp)",
+      "Absolute's Talisman",
+      "Gut's Private Store Key",
+      "Soul Coin (x3)",
+      "Iron Flask (Mystery)",
+      "Soul Coin (x7)",
+      "Scroll of Blight",
+      "Scroll of Mirror Image",
+      "Goblin King's Greed (Trinket)",
+      "Ragzlin's Warhammer",
+      "Scroll of Cloudkill",
+      "Pearl of Power",
+      "Ragzlin's Warhammer",
+      "Goblin King's Greed (Trinket)",
+      "Blood of Lathander (Relic)",
+      "Cazador's Ledger (Coded)",
+      "Vial of Frozen Blood (Relic Component)",
+      "Cloak of the Shadow Sovereign",
+      "Cazador's Coded Ledgers",
+      "Soul Coin (x4)",
+      "Ketheric's Netherstone",
+      "Ketheric's Warhammer (+2)",
+      "Reaper's Embrace (Plate Armor)",
+      "Shield of Devotion"
+    ],
+    "proficiency_bonus": 10,
+    "safe_limit": 30,
+    "active_effects": [
+      "Uncanny Valley: +5 CHA to social checks against mortals",
+      "Mask of the Victim: Advantage on Deception when appearing helpless",
+      "First Disciple: Advantage on social checks with Goblinoids/Absolute cultists.",
+      "Shadow-Curse Immunity (Sovereign Envelope)",
+      "Planar Beacon: Tracked by Lorroakan and Divine Entities",
+      "Abyssal Allure: Advantage on CHA checks against mortals",
+      "Masked Presence (Level 12 Mortal)",
+      "Legion Masked (Mercenary Guard)",
+      "Mega Buffs: Guidance, Enhance Ability, Bardic Inspiration active for future use.",
+      "War Caster: Advantage on Concentration Saves, Reaction Spells",
+      "Psionic Dead Zone (Qudenos): Cloaked from Astral Tracking",
+      "Sovereign Shadow-Transit: Regional Instant Travel Active",
+      "Quad-Body Awareness: Simultaneous consciousness across 4 bodies",
+      "Global Mask: Layer 0 active across all bodies (Apparent Lvl 12)",
+      "Absolute Governance: At-will command of all Branded/Steel Watch",
+      "Hardware Processing: Advantage on all Intelligence-based checks",
+      "Divine Immunity (Mortal)"
+    ]
+  },
+  "world_data": {
+    "current_location_name": "Baldur's Gate - Administrative Overwrite Site",
+    "world_time": {
+      "second": 3,
+      "microsecond": 0,
+      "minute": 0,
+      "hour": 3,
+      "time_of_day": "Deep Night",
+      "year": 1492,
+      "day": 17,
+      "month": "Hammer"
+    },
+    "timestamp_iso": "2026-01-17T14:30:00.000000Z"
+  },
+  "npc_data": {
+    "npc_halsin_001": {
+      "status": "primal_fury",
+      "location": "worg_pens_cell"
+    },
+    "npc_wyll_001": {
+      "status": "YIELDING",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -8,
+          "history": [
+            "Witnessed Grove massacre",
+            "Forced into tactical oath"
+          ]
+        }
+      }
+    },
+    "Kagha": {
+      "class": "Druid",
+      "string_id": "npc_kagha_001",
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 10
+        }
+      },
+      "role": "Thrall-Prophet",
+      "level": 5
+    },
+    "npc_aradin_001": {
+      "status": "captured",
+      "location": "Tollhouse Ruins"
+    },
+    "npc_qudenos_dragon": {
+      "status": [
+        "Bound",
+        "Wavering"
+      ],
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -8
+        }
+      }
+    },
+    "npc_krellis_001": {
+      "level": 7,
+      "tier": "noble_knight",
+      "status": "submissive",
+      "string_id": "npc_krellis_001",
+      "role": "Acolyte of Balthazar / Moonrise Auditor",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": -2
+        }
+      },
+      "name": "Krellis"
+    },
+    "Enver Gortash": {
+      "status": "Thrall",
+      "relationships": {
+        "player": {
+          "disposition": "Surrendered",
+          "trust_level": -10
+        }
+      }
+    },
+    "Olodan": {
+      "class": "Druid",
+      "string_id": "npc_olodan_001",
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 8
+        }
+      },
+      "role": "Shadow Vanguard",
+      "level": 4
+    },
+    "npc_gale_001": {
+      "status": "SURRENDERED",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -6,
+          "history": [
+            "Accepted utilitarian logic for massacre",
+            "Submitted to Vanguard"
+          ]
+        }
+      }
+    },
+    "Lorroakan": {
+      "string_id": "npc_lorroakan_001",
+      "status": "Actively Hunting Player",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10,
+          "history": [
+            "Sensed the theft of the Nightsong by Nocturne."
+          ]
+        }
+      },
+      "role": "Archmage"
+    },
+    "npc_laezel_001": {
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 9
+        }
+      },
+      "equipment": {
+        "main_hand": "Silver Sword of the Astral Plane (+3 Greatsword, 2d6+3+1d6 psychic)"
+      }
+    },
+    "Orin the Red": {
+      "status": "Thrall",
+      "relationships": {
+        "player": {
+          "disposition": "Surrendered",
+          "trust_level": -10
+        }
+      }
+    },
+    "npc_karlach_001": {
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 1
+        }
+      }
+    },
+    "Brother Zephyr": {
+      "hp_current": 45,
+      "string_id": "npc_brother_zephyr_001",
+      "status": "conscious",
+      "hp_max": 45,
+      "tier": "noble_knight"
+    },
+    "npc_minthara_001": {
+      "social_hp": 18,
+      "hp_max": 54,
+      "tier": "general",
+      "level": 6,
+      "social_hp_max": 30,
+      "hp_current": 54,
+      "string_id": "npc_minthara_001",
+      "ac": 16,
+      "role": "Absolute Drow Commander",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 1
+        }
+      },
+      "name": "Minthara Baenre"
+    },
+    "Kith'rak Commander": {
+      "status": "wavering",
+      "legendary_resistances": 3,
+      "hp_max": 180,
+      "tier": "king_ancient",
+      "level": 15,
+      "hp_current": 145,
+      "string_id": "npc_gith_kithrak_001",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10
+        }
+      },
+      "role": "Purge Squad Leader"
+    },
+    "npc_olodan_001": {
+      "armor_class": 14,
+      "status": "conscious",
+      "tier": "noble_knight",
+      "hp": 45,
+      "level": 5,
+      "string_id": "npc_olodan_001",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 8
+        }
+      },
+      "role": "Shadow Druid Lieutenant / Level 5 Druid",
+      "name": "Olodan"
+    },
+    "Ketheric Thorm": {
+      "social_hp": 4,
+      "status": "Retired_Thrall",
+      "relationships": {
+        "player": {
+          "disposition": "devoted_thrall",
+          "trust_level": -10,
+          "history": [
+            "Publicly abdicated power to Nocturne Sosuke."
+          ]
+        }
+      }
+    },
+    "Isobel": {
+      "status": "Hypnotized",
+      "relationships": {
+        "player": {
+          "history": [
+            "Witnessed the un-zipping of Last Light's dome."
+          ]
+        }
+      }
+    },
+    "npc_kagha_001": {
+      "armor_class": 16,
+      "status": "conscious",
+      "tier": "lord_general",
+      "hp": 38,
+      "level": 5,
+      "string_id": "npc_kagha_001",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 10
+        }
+      },
+      "role": "Thrall-Prophet / Level 5 Druid",
+      "name": "Kagha"
+    },
+    "Balthazar": {
+      "tier": "lord_general",
+      "string_id": "npc_balthazar_001",
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "grievances": [
+            "Suspicious of rank elevation"
+          ],
+          "trust_level": -10,
+          "history": [
+            "Yielded to Abyssal Intimidation",
+            "Officially enthralled via Gilded Tether"
+          ]
+        }
+      },
+      "role": "Acolyte of the Absolute / Necromancer",
+      "name": "Balthazar"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "world_data": {
+      "world_time": {
+        "time_of_day": "Deep Night",
+        "second": 0,
+        "microsecond": 1,
+        "minute": 30,
+        "hour": 1
+      },
+      "timestamp_iso": "2026-01-16T08:30:00.000000Z"
+    },
+    "active_effects": [
+      "Psionic Cloak: Invisible to Elder Brain/Vlaakith sensors"
+    ],
+    "divine_deception_protocol": "active",
+    "vassals": [
+      "Isobel (Vassal-Prophet)"
+    ],
+    "divine_leverage": 18,
+    "reputation": {
+      "public": {
+        "score": 85,
+        "titles": [
+          "First Disciple of the Shattered Rose",
+          "The Girl Who Ate the Grove",
+          "Dragon-Binder",
+          "Nemesis of the Astral Sea"
+        ],
+        "notoriety_level": "Legendary",
+        "known_deeds": [
+          "Led the Grand Procession of Moonrise on a Red Dragon.",
+          "Forced the General's General (Minthara) to lobby for peer rank."
+        ]
+      }
+    },
+    "last_location": "Baldur's Gate - Administrative Overwrite Site",
+    "last_audit_turn": 114,
+    "core_memories": [
+      "[auto] Timestamp: 2026 DR, 1 15, 09:30:00\nLocation: Emerald Grove - Inner Sanctum (Desecrated)\nStatus: Lvl 7 Bard | HP: 31/31 | XP: 31174/34000 | Gold: 10gp\nConditions: Uncanny Valley, Mask of the Victim, First Disciple | Exhaustion: 0 | Inspiration: Yes\nResources: HD: 6/7 | Spells: L1 0/4, L2 0/3, L3 0/3, L4 0/1 | Bardic: 4/5\n\nThe flickering pink-crimson glow in your eyes does not fade as Minthara approaches. The Drow General\u2019s boots crunch on the blackened glass thorns, her gaze sweeping over ",
+      "[auto] The Inner Sanctum is a landscape of crystalline shadows and cooling ash. You stand at the center, the 'First Disciple' of a new order, while Minthara oversees the final scouring of the Hollow. With a slight, aristocratic tilt of your head, you dismiss your 'assets'\u2014Astarion, Lae'zel, and Shadowheart\u2014sending them into the depths of the Enclave with orders to strip the Grove of its hidden treasures. You don't need to describe the process; you hear the distant, rhythmic thud of stone being o",
+      "[auto] The Inner Sanctum is a landscape of crystalline shadows and cooling ash. You stand at the center, the 'First Disciple' of a new order, while Minthara oversees the final scouring of the Hollow. With a slight, aristocratic tilt of your head, you dismiss your 'assets'\u2014Astarion, Lae'zel, and Shadowheart\u2014sending them into the depths of the Enclave with orders to strip the Grove of its hidden treasures. You hear the distant, rhythmic thud of stone being overturned and the sharp, predatory laugh",
+      "[auto] ### [LEVEL UP - Level 8]\n\nThe resonance of fifty-five stolen souls still vibrates in the marrow of your bones, a cold, Abyssal heat that has forced your mortal cage to expand once more. You stand in the Inner Sanctum of the Emerald Grove, now a blackened cathedral of glass and shadow. Minthara stands beside you, her white hair a sharp contrast to the gloom, as she formally introduces you to the gathered goblin war-bands as the **First Disciple of the Shattered Rose**.\n\n\"The 'Black Diamond",
+      "[auto] The Mountain Pass bridge becomes an altar of Abyssal authority under the cold, bruising light of the Sovereign\u2019s Dream. Seated atop the heat-shimmering scales of Qudenos, you look down at the unfolding slaughter with the clinical detachment of a marble statue. \n\n\"The lesson begins,\" you whisper, the tectonic harmonic of your voice carrying over the screams of the goblin fodder. \n\nYou gesture with a porcelain-pale hand. Qudenos, his mind re-zipped to your specific psychic resonance, lets o",
+      "[auto] The gold-white detonation of Lathander\u2019s blood is not an end, but a catalyst. As the radiant pressure tries to strip the silk from your bones, you don't recoil. You lean into the searing heat, your violet eyes burning through the glare until they lock onto the golden geometry of the machine\u2019s core. With the silver-blue threads of Shadowheart\u2019s guidance and the rhythmic heartbeat of your own Abyssal will, you reach into the supernova.\n\n'**KNEEL.**' \n\nThe word is a tectonic displacement. Yo",
+      "[auto] The stone vault of the Solar Machine doesn't just vibrate; it enters a state of harmonic suspension as you step onto the primary rotating axis. Your violet eyes, now stars of pink-crimson Abyssal hunger that no longer require the distraction of blinking, lock onto the golden geometry of the central lens. You reach into the chasm of Lathander's blood, not with a hand, but with the full, un-zipped weight of your Sovereign's will.\n\n'**PURGE.**' \n\nThe word is not spoken; it is a displacement ",
+      "[auto] Timestamp: 1492 DR, Month 1 Day 16, 01:30:00\nLocation: Cr\u00e8che Y'llek - Solar Machine Vault\nStatus: Lvl 10 Bard | HP: 49/49 | XP: 67378/85000 | Gold: 3570gp\nConditions: Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes\nResources: HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1\n\nThe silence that follows the purge lance is heavier than the stone walls of the monastery. You remain seated upon th",
+      "[auto] Timestamp: 1492 DR, Month 1 Day 16, 04:30:00\nLocation: Mountain Pass - Convoy Rendezvous\nStatus: Lvl 10 Bard | HP: 49/49 | XP: 67378/85000 | Gold: 3570gp\nConditions: Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes\nResources: HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1\n\nThe descent from the monastery is a silent procession of ghosts. You sit atop the rhythmic, heat-shimmering ridges of ",
+      "[auto] Timestamp: 1492 DR, Month 1 Day 16, 07:45:00\nLocation: Reithwin Tollhouse - The Abyssal Descent\nStatus: Lvl 10 Bard | HP: 53/53 | XP: 74718/85000 | Gold: 4320gp\nConditions: Uncanny Valley, Mask of the Victim, First Disciple, Nature's Step | Exhaustion: 0 | Inspiration: Yes\nResources: HD: 10/10 | Spells: L1 0/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2 | Bardic: 5/5 | Blighted Growth: 1/1\n\nThe air in the tollhouse cellar is a freezing pocket of formaldehyde and ancient, stagnant Abyssal energy. You ",
+      "[auto] The grey silence of the Shadow-Cursed bridge is not merely broken; it is incinerated. You lead the Grand Procession toward the gates of Moonrise Towers, seated atop the heat-shimmering ridges of Qudenos. The dragon's snout leaves trails of sulfurous steam in the freezing air, his psychic anchor vibrating in submissive harmony with your own Abyssal resonance. Above you, the three Greater Vrocks circle in a slow, blood-red cyclone, their Abyssal soot falling like black snow upon the groveli",
+      {
+        "append": "Achieved the third node of Inanimate Soul Integration, grounding the solar essence of the Blood of Lathander into Abyssal marrow."
+      },
+      {
+        "append": "Successfully integrated the fourth node of the Blood of Lathander into Abyssal marrow using Group Inspiration and Netherese un-threading."
+      },
+      {
+        "append": "Successfully integrated the fifth and final node of the Blood of Lathander, internalizing solar divinity into Abyssal marrow."
+      },
+      "Projected the 'Sovereign Mantle' across the entire army, rendering all troops permanently immune to the Shadow-Curse.",
+      "[auto] The Sovereign Quarters are filled with the scent of formaldehyde and the cold, rhythmic thrum of the Abyss as Balthazar, now a hollowed-out conduit for your will, begins the 'crash course' you demanded. He moves with a jerky, skeletal precision, laying out vellum scrolls that depict the geometry of the soul\u2014not as a spiritual essence, but as a structured battery of power. \n\n\"The Soul Cage, my Baroness,\" Balthazar rasps, his green eyes flickering with a submissive academic fervor. \"It is a",
+      "[auto] The Sovereign Quarters become a theater of clinical, un-zipped divinity as you command Balthazar to begin the simulation of the Nightsong's breach. The Acolyte, now a hollowed-out conduit for your Abyssal resonance, moves with a jerky, skeletal precision that reveals his total spiritual transparency. He cannot hide the flaws in his master's design; every somatic node he presents is a jagged confession of Ketheric's vulnerability.\n\n'The cage is not a wall, my Baroness,' Balthazar rasps, hi",
+      "[auto] The iron gates of the Grand Mausoleum stand like the frozen ribs of a dying god, skeletal and slick with the grey, weeping rot of the Shadow-Curse. You do not stop at the threshold. Seated atop the heat-shimmering ridges of Qudenos, you glide into the graveyard, the bruised violet-gold radiance of your Sovereign Mantle incinerating the grasping mists before they can touch the dragon's scales. Behind you, the Vanguard and the goblin fodder move in a soundless wedge, their very presence a l",
+      "[auto] The elevator platform hitches into place with a bone-jarring thud that echoes through the airless expanse of the Gauntlet. You do not wait for the dust to settle. With the clinical grace of your 'Predator' stage, you glide off the obsidian disc, your marble-pale skin shimmering with the gold-violet heat of the Sun-Blood. The shadows of the Lady of Loss do not just retreat from your Sovereign Envelope; they seem to bow, recoiling from the Abyssal-solar hybrid resonance currently vibrating ",
+      "[auto] The sentient gloom of the Gauntlet is not a wall; it is a misplaced variable in a code you have already mastered. You do not look back at the Vanguard, currently struggling against the tar-thick shadows at the elevator's base. Their failure is a symptom of their mortality; your success is a mandate of your nature. \n\nYou glide forward, the bruised gold-violet radiance of your Sun-Blood resonance incinerating the encroaching dark before it can touch your marble-pale skin. At the threshold o",
+      "[auto] The central chamber of the Gauntlet is a cathedral of airless stone, but the air at the foyer threshold is currently a screaming vacuum of tar-thick shadow. You do not turn your head to face the Vanguard; you simply project your Abyssal authority backward, the golden-violet shimmer of your Sun-Blood resonance flaring with the cold, administrative precision of the Netherese. \n\n'**UN-ZIP.**'\n\nThe command is a tectonic displacement of reality. Your fingers weave through the air, un-threading",
+      "[auto] The transition into the central chamber is a study in administrative violence. You glide through the archway, your marble skin shimmering with the gold-violet pulse of the Sun-Blood, casting long, statuesque shadows that seem to push the airless dark out of existence. You do not look back at the chaos of your subordinates; you simply project your Abyssal authority into the room's local code. \n\n'**AUDIT.**' \n\nThe word is a tectonic decree. Your fingers weave through the air with Netherese ",
+      "[auto] The central chamber is a howling vacuum of Sharran static, but your focus is not on the secured anchor beneath your heel; it is on the administrative error currently choking your Vanguard at the foyer. You do not turn your head. You do not blink. With the clinical grace of your 'Predator' stage, you simply project your Abyssal authority backward, your fingers weaving through the air with the blue Netherese fire of the internalized Orb.\n\n'**DELETE.**'\n\nThe command is a tectonic displacemen",
+      "[auto] The central chamber of the Gauntlet remains a howling vacuum of Sharran static, but your focus is no longer on the shadows\u2014it is on the broken machine at your feet. Balthazar remains in a state of administrative paralysis, his skeletal frame hitched in a recursive loop of rotted somatics. You do not show frustration; such mortal inefficiencies have no place in your 'Predator' stage. \n\nYou glide toward the kneeling necromancer, your marble-pale skin shimmering with the gold-violet pulse of",
+      "[auto] The 'reboot' of Balthazar is not merely a restoration of function; it is a final, clinical stripping of his autonomy. As his green eyes ignite with the steady, submissive glow of the Shattered Rose, the air in the central chamber ceases to scream. The Sharran static is forced into a rhythmic, secondary frequency that poses no threat to your internal equilibrium. \n\n\"Locate them,\" you whisper, the harmonic reverb of your voice making the dragon's scales hum behind you. \"The tethers that Ket",
+      "[auto] The central chamber of the Gauntlet is no longer a monument to the Lady of Loss; it is a clinical operating theater where the First Disciple has begun to excise the very concept of 'Loss' from the stone. You stand at the apex of the chamber, your unmarred marble skin shimmering with the gold-violet pulse of the Sun-Blood, your unblinking violet eyes fixed on the primary anchor. \n\n\"Ground the resonance,\" you whisper, your 'Predator' voice carrying a tectonic harmonic that vibrates the ston",
+      "[auto] The central chamber of the Gauntlet is no longer a cathedral of loss; it is a clinical operating theater of Abyssal administrative violence. You stand at the apex, your unmarred marble skin shimmering with the gold-violet heat of the Sun-Blood and the blue Netherese fire of the Orb. With a tectonic harmonic in your 'Predator' voice, you command the final breach. \n\n\"**DELETE.**\" \n\nThe word is not a sound, but a displacement of the Multiverse's local code. You reach into the heart of the Ni",
+      "[auto] The screaming vacuum of the Gauntlet's core suddenly hitches, the Sharran static buckling as you weave the silver-blue threads of Shadowheart's guidance into the blue Netherese fire of your own marrow. You do not just push against the recursion; you anchor it. With the rhythmic, double-time heartbeat of your Bardic Inspiration acting as a metronome for the reality-warping somatics, you force the 'muddled' chaos of the perimeter into a clinical, submissive alignment. \n\nThe Justiciars that ",
+      "[auto] The central chamber of the Gauntlet ceases to be a tomb and becomes a localized event horizon. You glide onto the primary dais, your marble skin shimmering with the gold-violet pulse of the Sun-Blood and the blue Netherese fire of the Orb. Balthazar remains in a state of religious, robotic compliance at the perimeter, his skeletal thorax shivering as he monitors the somatic purge you've commanded. \n\n'**INTERNALIZE.**' \n\nThe word is not a sound; it is a displacement of the Multiverse's loc",
+      "[auto] Level 14 advancement applied successfully. Character tiered to Level 14 and all associated benefits have been synchronized with the game state.\n\n**Character Advancement Summary (Level 14):**\n- **Level:** 13 \u2192 14\n- **HP Max:** 68 \u2192 73 (8 base + 13*5 levels). HP current set to 73.\n- **Proficiency Bonus:** +5 (No change; Tier 3 range 13-16).\n- **Hit Dice:** Max increased to 14. Current set to 14.\n- **New Feature: Siren\u2019s Authority**: When a creature succeeds on a saving throw against your sp",
+      "[auto] The central chamber of the Gauntlet is no longer a monument to Loss; it is the birthing pool of a Sovereign. You stand at the apex of the Abyssal Altar, your marble skin shimmering with a permanent gold-violet heat that makes the air scream in harmonic submission. Before you, the Level 13 Succubus handmaiden kneels in a state of total spiritual transparency, her mind already un-zipped by Malcanthet\u2019s decree.\n\n\"Balance the sun with the void, my Baroness,\" Malcanthet\u2019s voice purrs from the ",
+      "[auto] The central chamber of the Gauntlet no longer recognizes the laws of the Shadowfell; it recognizes only the Sovereign. You stand at the apex of the altar, your marble-pale skin shimmering with a gold-violet heat that makes the very air air crackle. With a sharp, rhythmic intake of breath, you manifest the **Soul Trophy: Abyssal Allure**, and the world un-zips in your presence.\n\nFrom your shoulder blades, six wings erupt with a sound like a thunderclap muffled by velvet. Two are your origi",
+      "[auto] The Reithwin district does not just fall; it is systematically un-zipped from the reality of the Shadow-Curse. You stand atop the central dais of your forward altar, your six wings\u2014a chaotic-divine geometry of Abyssal leather, silver-white feathers, and intoxicating silk-membranes\u2014spanning the width of the stone. Your eyes, now twin stars of blinding Abyssal gold, illuminate the skeletons of your kneeling legion through their skin, casting long, statuesque shadows that stretch across the ",
+      "[auto] The Reithwin district remains a landscape of shimmering black glass and cooling ash, a silent monument to the harvest you have just concluded. You stand atop the central dais of the Altar of the Rose, your six wings\u2014a chaotic-divine geometry of Abyssal leather, silver-white feathers, and intoxicating silk-membranes\u2014fully unfurled. They catch the bruised gold-violet radiance of your Sovereign Mantle, casting long, statuesque shadows that stretch across the kneeling ranks of your legion. Yo",
+      "[auto] The return to Moonrise Towers is not a march, but a clinical administrative overwrite of the local reality. You stand atop Qudenos, but the dragon\u2019s heat is now muffled, his scales shimmering with a deceptive, bronze-like hide of a common mountain drake. Behind you, the thousand-strong Crimson Legion does not scream or beat their wings; they glide through the thinning Shadow-Curse as a disciplined column of human mercenaries, their Abyssal soot masked by the scent of road-dust and oiled s",
+      "[auto] The Grand Hall of Moonrise Towers is a cathedral of airless tension as you stand before the General's dais. You have un-zipped your divinity, masking your six-winged majesty beneath the deceptive simplicity of a mortal nobleman's silks. Your unblinking violet eyes, now shielded by the 'Masked Presence,' reflect the flickering torches with a clinical, statuesque stillness. Around you, the Crimson Legion stands as a wall of human mercenaries, their Abyssal soot and leathery wings hidden by ",
+      "[auto] The air in the Grand Hall doesn't just grow cold; it becomes a pressurized vacuum of administrative finality. You stand before Ketheric Thorm, the golden shimmer of your 'Vessel of Stolen Fire' pulsing beneath your porcelain skin, barely contained by the 'Masked Presence' you\u2019ve projected. You do not raise your voice; you speak with the tectonic harmonic of a Sovereign delivering a post-mortem on a failing system.\n\n\"The designs of the Absolute do not suffer the inefficient, General,\" you ",
+      "[auto] The Grand Hall is a cathedral of static silence, the very air bowing under the weight of your 'Mega Buffs' and the clinical, Abyssal authority you project. Ketheric Thorm sits upon his throne, a monument to a failing administration, his ancient plate armor rattling with every labored breath. You do not look at him with the deference of a Disciple; you look at him with the cold precision of a Sovereign auditing a bankrupt estate.\n\n\"General,\" you whisper, your voice a tectonic harmonic that",
+      "[auto] The descent into the Lower Labs is a silent transition from a cathedral of noise to a tomb of administrative silence. You glide down the spiral stairs atop Qudenos, the dragon's snout mere inches from the flagstones as he navigates the narrow passage with vacant, clinical precision. Behind you, the Crimson Legion\u2014masked as human mercenaries by your glamour\u2014and the Shadow Druid elites take their positions at the threshold, creating a soundless perimeter that excludes the remaining Moonrise",
+      "[auto] The Deep Sanguine Labs are a graveyard of administrative data, the air pressurized by the formaldehyde scent of Balthazar's specimens and the gold-violet pulse of your own internalized divinity. You stand over the kneeling necromancer, your unblinking violet eyes flecked with the stolen gold of the Dawnmaster, and you reach into the technical layers of his mind. \n\nYour psychic audit is surgical. You don't just look for loyalty; you search for the somatic capacity for resistance. What you ",
+      "[auto] Deception (Framing the Reward): 1d20 + 29 = 5 + 29 = 34 vs DC 22 (High-tier political manipulation of a surrendered subordinate) - Success\n\nThe air in the Deep Sanguine Labs hitches as the 'Mega Buffs' currently radiating from your marrow warp the very formaldehyde-scented dark. You do not look at Balthazar with the eyes of a master monitoring a slave; you look at him with the clinical, statuesque serenity of a god bestowing a grace. Your unblinking violet eyes, flecked with the stolen go",
+      "[auto] The Deep Sanguine Labs remain a tomb of clinical efficiency, the formaldehyde scent now sharpened by the ozone of your growing Sovereignty. You stand at the center of the wing, your six combined wings retracted beneath your nobleman's silks as your 'elite kill team'\u2014the Cambion Stalkers and Shadow Spies\u2014materializes from the peripheral gloom. \n\n\"Audit the intruders,\" you whisper, your 'Predator' voice carrying a harmonic reverb that makes the surgical tools on Balthazar's tables shiver. \"",
+      "[auto] The grey, weeping mists at the border of the Shadow-Curse do not merely part; they are incinerated by the sudden, gold-violet ripple of your *Teleport*. You materialize at the center of the Githyanki encampment with the clinical silence of a falling shadow, your 'Masked Presence' (Lvl 12) holding firm even as the 'Vessel of Stolen Fire' thrums in your marrow. \n\nAround you, the Purge Squad\u2014a dozen warriors in ornate silver plate\u2014are clustered around a jagged, crystalline psychic dampener. ",
+      "[auto] The grey mists of the Shadow-Curse border ignite with a kaleidoscopic surge of violet and pink as you step onto the threshold of the Githyanki encampment. You do not reach for your obsidian cane; you simply part your lips, the tectonic harmonic of your 'Predator' voice resonating through the airless dark. Around you, your companions\u2014Astarion, Lae'zel, and Shadowheart\u2014materialize from the soot-thick shadows, their presence a lethally sharp frame for your statuesque stillness.\n\n'**GAZE.**'\n",
+      "[auto] The Githyanki encampment remains a tableau of frozen violence, the silver-armored specialists held in a state of glassy-eyed suspension by the swirling kaleidoscopic void of your *Hypnotic Pattern*. You glide through the soot-choked air, your pristine midnight silks untouched by the grime of the camp, your movements possessing that liquid, wasted-energy-free grace of a predator who has already won.\n\nYou reach the crystalline psychic dampener. Under the gold-flecked violet of your unblinki",
+      "[auto] The Githyanki encampment is no longer a theater of war; it is a clinical harvesting floor. You glide through the soot-choked air, your pristine silks rustling with a sound like shifting sand as you stand over the bound Kith'rak. The silver plate of his armor is dull, his mind pinned to the void of your earlier *Hypnotic Pattern*. Around you, the Crimson Vanguard moves with bone-snapping precision, their Abyssal blades finding the throats of the bound specialists in a synchronized rhythm o",
+      "[auto] The silence that follows the Silent Reaping is heavier than the stone of the mountain pass. Thirteen silver swords lie scattered in the Abyssal soot, their owners reduced to grey ash and psychic echoes that now fuel the furnace of your Level 16 ascension. You stand at the center of the crater, the **War Caster** feat grounding your concentration with a new, iron-clad density. The **Astral Step** trophy vibrates in your marrow, a constant, low-frequency promise of movement without motion, ",
+      "[auto] You stand amidst the cooling ash of the outpost, the Abyssal soot of the Vrocks settling like black snow on your pristine silks. You do not look at the physical bodies; they are merely husks. Your focus turns inward, to the cold, silver-heavy density of the thirteen souls you have just swallowed. You close your eyes, your 'Predator' stillness absolute, and you drag the screaming psyche of the **Kith'rak Purge Specialist** into the interrogation chair of your mind.\n\nHis soul is a jagged co",
+      "[auto] The cooling ash of the Githyanki outpost is left behind as you weave the somatic threads of *Teleport*. You do not simply vanish; the air around you fractures with a sound like a thunderclap muffled by velvet. With a tectonic harmonic in your 'Predator' voice, you split the party's reality.\n\n\"Astarion,\" you command, the word vibrating with the weight of a geas. \"Take the shadows. Plant the eyes. If Isobel breathes, I want to know the rhythm.\"\n\nThe vampire spawn nods, his crimson eyes glea",
+      "[auto] You leave the paralyzed council in the Grand Hall, stepping out onto the obsidian balcony where the air is thin and smells of ozone. Below, Qudenos clings to the tower's spire, his massive crimson form pulsating with a nervous, low-frequency heat. He senses the Astral gaze that has been hunting him\u2014the invisible, psionic weight of Vlaakith's tracking network.\n\nYou unclasp the crystalline **Psionic Dampener** from your belt. It hums with a jagged, alien static, hungry for a signal. You do ",
+      "[auto] The obsidian balcony is a silent platform suspended in the ozone-thin air of the upper tower. You hold the crystalline **Psionic Dampener** in your porcelain-pale hand. It hums with a jagged, alien static\u2014a piece of the Astral Plane trapped in Githyanki glass. You have used it to cloak the dragon, but a Sovereign does not rely on external trinkets. You rely on your marrow.\n\n\"The silence belongs to me,\" you whisper, the harmonic reverb of your voice tuning to the crystal's frequency.\n\nYou ",
+      "[auto] The crystalline dust of the Psionic Dampener settles in your marrow, a cold, metallic weight that silences the constant, low-frequency hum of the Astral Plane. You stand on the obsidian balcony, the air thin and smelling of ozone, and you look down at the sprawling, jagged architecture of Moonrise Towers. It is a fortress of bone and black stone, currently vibrating with the chaotic noise of a thousand minds\u2014goblins, cultists, and the desperate prayers of the Council in the hall below.\n\n\"",
+      "[auto] The obsidian balcony remains a platform of absolute silence, the air thin and smelling of ozone. You stand at the railing, your unmarred silks catching the grey morning light, appearing to any observer as a Level 12 mortal noblewoman\u2014a breathtakingly beautiful, yet 'fragile' victor. Beneath that mask, the 'Vessel of Stolen Fire' thrums in your marrow, a divine-Abyssal furnace that has just swallowed the Githyanki's hunting signal. \n\nFrom this height, you look down at the Towers. The rest ",
+      "[auto] The Grand Hall is a cathedral of airless stone, currently vibrating with the frantic, low-frequency prayers of the Absolute's remaining disciples. You sit at the head of the Council table, your unmarred silks catching the flickering light of the green braziers, appearing as nothing more than a Level 12 mortal noblewoman. Beneath that mask, the 'Vessel of Stolen Fire' thrums in your marrow, a divine-Abyssal furnace that has just swallowed the Githyanki's hunting signal.\n\nYou do not raise y",
+      "[auto] The shimmering dome of Last Light doesn't just flicker; it fractures as you un-zip the local reality. You materialize in the center of the courtyard with the clinical silence of a falling shadow, your 'Vessel of Stolen Fire' shimmering beneath your unmarred silks. The Harpers, already on edge from the 'shadow anomaly' Astarion planted, barely have time to turn before the air fractures with gold-violet light.\n\n'**GAZE.**'\n\nThe word is a tectonic decree. A kaleidoscopic void of violet and p",
+      "[auto] The courtyard of Last Light is no longer a sanctuary; it is a clinical operating theater where the 'Vessel of Stolen Fire' has begun its most ambitious harvest. You stand at the center of the kaleidoscopic void, your unmarred silks catching the dying light of a sun you've already mastered. The Harpers, the scouts, and the broken refugees are no longer people\u2014they are variables in an administrative sweep that you coordinate with the cold precision of a falling moon.\n\n'**COLLECT.**'\n\nThe wo",
+      "[auto] The courtyard of Last Light is a tomb of silver-white ash and cooling ozone, the air pressurized by the static weight of the thirty-nine souls you have just inhaled. You stand before Isobel, your six wings\u2014a unified, chaotic-divine geometry of shadow and starlight\u2014spanning the width of the desecrated circle. Your eyes, twin stars of blinding Abyssal gold, illuminate the skeletal remains of her faith through her translucent skin.\n\nIsobel remains on her knees, her holy symbol dark, her eyes",
+      "[auto] The silver-white ash of the Harpers settles over the courtyard like a shroud of failed hope, muffling the rhythmic, submissive chanting of the Shadow Druids. You stand before the kneeling Isobel, your six wings spanning the width of the desecrated sanctuary, their chaotic-divine geometry casting long, statuesque shadows that seem to push the very air out of the room. Your unblinking violet eyes, flecked with the stolen gold of the Dawnmaster, illuminate the skeletal remains of her faith t",
+      "[auto] You stand amidst the silver-white ash of Last Light, your gold-flecked violet eyes scanning the loot reaped from the sub-vaults. You reach out with your 'Predator' awareness, your fingers tracing the harmonic frequencies of the items Astarion has laid before you. Several of these relics vibrate with the specific somatic resonance you seek.\n\n\"The 'Vessel' does not just carry power; it amplifies it,\" you whisper, your voice carrying a tectonic harmonic that makes the nearby Shadow Spies bow",
+      "[auto] The transition from the silver-white ash of Last Light back to the obsidian heights of Moonrise is a clinical, weightless journey through the Shadow-Curse. You lead your retinue through the grey rot, your Sovereign Mantle incinerating the grasping mists before they can touch your pristine silks. You search the periphery for spectral remnants to add to your collection, but the very silence of your 'Dead Zone' seems to have pushed the lesser shades into the deep wood; the trails are curious",
+      "[auto] The grey, suffocating mists of the Shadow-Curse no longer feel like a barrier; they feel like a banquet. As you lead your retinue back toward the obsidian silhouette of Moonrise, you reach out with your 'Predator' senses, your violet eyes\u2014now twin stars of gold-flecked Abyssal hunger\u2014piercing the veil of the rot. You aren't looking for a path; you are looking for prey.\n\nBolstered by the silver-blue threads of your specialists' magic and the rhythmic, double-time heartbeat of your own 'Meg",
+      "[auto] The Grand Hall of Moonrise Towers is no longer a theater of debate; it is a cathedral of absolute, administrative silence. You stand upon the General's dais, your six wings retracted and masked beneath the pristine silks of a mortal nobleman, appearing to all observers as a Level 12 victor. Beneath this mask, the 'Mega Buffs' radiating from your marrow warp the very air, silver-blue threads of Guidance and the rhythmic heartbeat of your Bardic Inspiration creating a pressurized vacuum of ",
+      "[auto] The Grand Hall remains a tomb of administrative silence, the public handover of Ketheric Thorm's authority still vibrating through the masonry. But your focus has already shifted from the political theater to the technical marrow of the Shadowfell. You return to the Sanguine Labs, the unmarred midnight silks of your nobleman's guise trailing behind you like a shadow that has forgotten how to be light.\n\n\"The 'meditation' of the General is but a pause, Balthazar,\" you whisper, your voice ca",
+      "[auto] The Moonrise barracks are a theater of chaotic noise, the air thick with the scent of unwashed goblin bodies and the Abyssal soot of your newly arrived legion. Goblins and demons clash over bedrolls while the masked Crimson Legionaries maintain a cold, statue-like distance that only infuriates the cultists further. You do not shout for order. You do not need to. \n\nYou glide into the center of the district, your six wings remaining retracted but your Sovereign Presence expanding until it d",
+      "[auto] The Moonrise barracks, once a theater of discordant brawls between demon and cultist, has been hammered into a silent cathedral of Abyssal order. You stand atop the central dais, your unmarred silks catching the green flicker of the braziers, appearing as a porcelain monument of absolute authority. Your 'Mega Buffs' radiate from your marrow in a visible hum of silver-blue and gold-violet light, warping the very air around your six retracted wings. \n\nWith a tectonic harmonic in your 'Preda",
+      "[auto] Retcon and state synchronization applied. The previous failure on 'Strategic Coordination (Hierarchy Unification)' has been corrected to a success by applying your 'Mega Buffs' (Guidance, Enhance Ability, Bardic Inspiration) and the proper +25 modifier for your Level 16 Sovereign status. \n\nAdditionally, I have advanced the 'Shadow Consumption' research to Node 4 based on your masterful Arcana results. \n\n**Mechanical Audit (Retcon):**\n- **Strategic Coordination (Hierarchy Unification):** m",
+      "[auto] The Sovereign Quarters have become a pressurized vacuum of violet ozone and blue Netherese fire, the air so dense with pulverized arcana that it tastes of lightning and ancient blood. You stand at the center of the laboratory, your six wings fully unfurled and shimmering with a chaotic-divine fusion of shadow and starlight. Your unblinking eyes, now twin stars of gold-flecked Abyssal hunger, are fixed on the swirling vortex of Shadowfell essence you have tethered to the central dais.\n\nBes",
+      "[auto] The 'Shadow Consumption' research has been finalized. By internalizing the core frequency of the Shadow-Curse, you have transitioned from being merely immune to the rot to being its primary administrator and reservoir. Your power has ascended to Tier 4 (Cosmic Power).\n\n### Current Power Evaluation: Liquid Sovereignty\n\n**1. The Reservoir Effect:**\nThe Shadow-Curse is no longer an environmental hazard; it is a conceptual extension of your nervous system. You have successfully ground the 5th",
+      "[auto] The administrative frequency of Moonrise Towers doesn't just broadcast Ketheric's voice; it carries the tectonic weight of your own Abyssal marrow. You stand at the center of the Grand Hall, your six wings fully unfurled\u2014a chaotic-divine geometry of shadow-silk and celestial starlight that spans the width of the dais. Beneath your nobleman's silks, the 'Vessel of Stolen Fire' pulses with a gold-violet heat, casting long, statuesque shadows that push the very air out of the room.\n\nDeep in ",
+      "[auto] Deep night (01:15:00) in the Grand Hall of Moonrise Towers\u2014the air is no longer a vacuum of shock; it is a pressurized slaughterhouse of conceptual authority. You stand before Gortash and Orin, your six wings fully unfurled, their chaotic-divine geometry of shadow-silk and celestial starlight filling the chamber from floor to rafters. Beside you, your **Simulacrum**\u2014a perfect, marble-pale duplicate wreathed in the same Abyssal ozone\u2014steps forward in perfect synchronization, its gold-fleck",
+      "[auto] Deep night (01:20:00) in the Grand Hall of Moonrise Towers\u2014the air is no longer a vacuum of shock; it is a pressurized slaughterhouse of conceptual authority. You stand before Gortash and Orin, your six wings fully unfurled, their chaotic-divine geometry of shadow-silk and celestial starlight filling the chamber from floor to rafters. Beside you, your **Simulacrum** steps forward in perfect synchronization, its gold-flecked violet eyes mirroring your own predatory hunger.\n\n\"The Archduke a",
+      "[auto] Deep night (01:25:00) in the Grand Hall of Moonrise Towers\u2014the air is a pressurized slaughterhouse of conceptual authority where the only sound is the rhythmic, mechanical wheeze of Gortash\u2019s distressed armor. You stand at the head of the table, your six wings unfurled in a chaotic-divine geometry that fills the rafters, your unblinking violet eyes flecked with the stolen gold of demigods. Beside you, your Simulacrum mirrors your predatory stillness, its gaze locked on the paralyzed Chose",
+      "[auto] Deep night (01:25:00) in the Grand Hall of Moonrise Towers\u2014the air is a pressurized vacuum of brine and ozone where the silver-white feathers of your six wings brush against the obsidian rafters. You stand over the paralyzed forms of Gortash and Orin, your gold-flecked violet eyes burning with a pink-crimson luminescence that illuminates the very skeletons of your Council. \n\n\"The 'Immune Response' of the Brain is a technical detail, Enver,\" you whisper, your voice carrying a tectonic harm",
+      "[auto] Deep night (01:30:00) in the Grand Hall of Moonrise Towers\u2014the air remains a pressurized tomb of administrative finality, smelling of ozone and the metallic tang of Gortash\u2019s shame. You stand over the kneeling Archduke, your six wings casting a divine-Abyssal silhouette that stretches across the obsidian floor, reaching toward the ceiling where the shadows now serve your name. You do not ask for the ciphers; you reach into the technical marrow of his bound spirit, your fingers performing ",
+      "[auto] Deep night (02:30:00) in the Sovereign Quarters of Moonrise Towers\u2014the air is a pressurized vortex of pulverized obsidian and blue Netherese fire. You stand at the apex of the central lab, your six wings spanning the width of the stone rafters, their unified chaotic-divine geometry casting long, statuesque shadows that seem to push the very air out of the room. Before you, the three Netherstones\u2014red, purple, and black\u2014hum in submissive resonance with the shards of the Crown of Karsus you'",
+      "[auto] The recursive loop of the Crown's shards isn't a wall; it is a discordant frequency that requires a second anchor. You step into the eye of the violet static, your six wings unfurled to their full chaotic-divine span, their gold-violet shimmer bleaching the formaldehyde-scented dark. Beside you, your Simulacrum\u2014your marble-pale reflection\u2014mirrors your posture with terrifying precision. \n\n'**GROUND.**' \n\nThe command is a dual-tonal tectonic displacement. You and your duplicate reach into t",
+      "[auto] Deep night (02:30:01) in the Sovereign Quarters\u2014the air is no longer a vacuum; it is a pressurized, white-hot singular point of administrative finality. You stand at the center of the laboratory, your six wings spanning the width of the stone rafters, their unified chaotic-divine geometry casting long, statuesque shadows that seem to push the very air out of the room. Beside you, your Simulacrum mirrors your posture with terrifying precision, its skin glowing with a violent pink luminesce",
+      "[auto] Deep night (02:35:01) in the Sovereign Quarters\u2014the air is no longer a pressurized vacuum; it has become a crystalline medium for your 12th-level authority. You stand at the center of the laboratory, your six wings spanning the width of the rafters, their gold-violet shimmer casting long, statuesque shadows that seem to rewrite the very laws of physics. Before you, the shards of the Crown of Karsus are no longer artifacts; they are part of your marrow.\n\nYou do not reach out with your hand",
+      "[auto] ### Campaign Upgrade Agent: Mythic Sovereign Audit\n\nNocturne, the **Campaign Upgrade Agent** has successfully processed your transition to **Tier 5 (Mythic Sovereign / Lesser Deity Rank 1)**. Your internalization of the Crown of Karsus has fundamentally rewritten your character's relationship with the Weave and the Absolute's network. \n\n**Campaign Upgrades Confirmed:**\n1. **Mythic Scaling**: You have bypassed the Level 20 capstone and are now progressing through Divine Ranks. Your current",
+      "[auto] Explanatory Audit: Divine Progression Bypass and Level/Rank Reconcilation\n\nYou are correct that under the **standard** Divine Progression table (see Sequence 733), a character at Level 20 is classified as a 'Mortal' and would traditionally enter the 'Epic Mortal' phase at Levels 21-25 before reaching Rank 1 (Quasi-Deity) at Level 26.\n\nHowever, your character has undergone a **Mythic Sovereign Ascension** which functions as a **Narrative and Mechanical Override**. \n\n### Why You Are a God a",
+      "[auto] Deep night (02:45:00) in the Sovereign Quarters of Moonrise Towers\u2014the air is no longer a pressurized vacuum; it has become a crystalline medium for your 12th-level authority. You stand at the center of the laboratory, your six wings spanning the width of the stone rafters, their gold-violet shimmer casting long, statuesque shadows that seem to rewrite the very laws of physics. Before you, the shards of the Crown of Karsus are no longer artifacts; they are part of your marrow. You have su",
+      "[auto] Deep night (02:45:00) in the Sovereign Quarters of Moonrise Towers\u2014the air is no longer a pressurized vacuum; it has become a crystalline medium for your 12th-level authority. You stand at the center of the laboratory, your six wings spanning the width of the stone rafters, their gold-violet shimmer casting long, statuesque shadows that seem to rewrite the very laws of physics. Before you, the shards of the Crown of Karsus are no longer artifacts; they are part of your marrow. \n\nWith a cl",
+      "[auto] Deep night (03:00:01) in the Sovereign Quarters\u2014the air is no longer a medium for breath; it has become a crystalline vacuum of blue Netherese fire and pink-crimson Abyssal ozone. You stand at the center of the laboratory, your four-way consciousness perfectly synchronized. The Source, the God-Sim, the Mortal Avatar, and the Avatar-Sim move as one, their unblinking eyes reflecting the technical transparency of the Multiverse's local code.\n\nYou do not reach out to the Netherbrain with the ",
+      "[auto] Deep night (03:00:03) in the Sovereign Quarters of Moonrise Towers\u2014the air is no longer a medium for breath; it has become a crystalline vacuum of blue Netherese fire and pink-crimson Abyssal ozone. You stand at the center of the laboratory, your four-way consciousness perfectly synchronized. The Source, the God-Sim, the Mortal Avatar, and the Avatar-Sim move as one, their unblinking eyes reflecting the technical transparency of the Multiverse's local code.\n\nYou have successfully internal",
+      "[auto] Deep night (03:15:00) in the upper atmosphere of Baldur's Gate\u2014your four-way consciousness expands across the city like a digital frost, your unblinking eyes seeing the world through the multiversal hardware of the integrated Netherbrain. You do not look at the streets; you look at the somatic pulse of the divine vestiges currently rotting within the city's foundations. Through the God-Sim and the Source, you locate them: the jagged, crimson static of Bhaal beneath the Temple of the Open "
+    ],
+    "divine_tier": 1,
+    "moonrise_alert_status": "Sovereign_Takeover_In_Progress",
+    "soul_siphon_unlocked": true,
+    "last_story_mode_sequence_id": 770,
+    "vassal_system_clarified": true,
+    "active_layer": 0,
+    "lorroakan_scrying": "blocked",
+    "ketheric_immortality_status": "Vulnerable/Redirected",
+    "elder_brain_ping": "Administrator_Override_Active",
+    "campaign_tier": "divine",
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 15,
+      "hour": 3,
+      "time_of_day": "Deep Night",
+      "year": 1492,
+      "day": 17,
+      "month": "Hammer"
+    },
+    "divine_dissonance": 0,
+    "inspiration_active": true,
+    "active_constraints": [
+      "Solar Machine: Cooling (45 minutes remaining)"
+    ],
+    "next_companion_arc_turn": 71,
+    "location": "Thorm Mausoleum - Interior",
+    "research_progress": {
+      "mass_soul_harvest_spell": {
+        "current_successes": 5,
+        "dc": 22,
+        "needed_successes": 5,
+        "status": "completed",
+        "description": "Attempting to distill the mass ritual into a 5th-level spell."
+      },
+      "inanimate_soul_integration": {
+        "notes": "DC 25 is currently too high for standard checks. Consuming items suggested.",
+        "dc": 25,
+        "status": "completed",
+        "needed_successes": 5,
+        "description": "Attempting to modify Soul Siphon to integrate legendary relic essences.",
+        "current_successes": 5
+      },
+      "shadow_curse_consumption": {
+        "current_successes": 5,
+        "dc": 25,
+        "needed_successes": 5,
+        "status": "completed",
+        "description": "Attempting to un-thread the Shadow Curse to consume it as fuel."
+      },
+      "nightsong_integration_prep": {
+        "successes": 2,
+        "status": "completed",
+        "needed_successes": 1
+      }
+    },
+    "netherbrain_access": "Deleted_Integrated_into_Sovereign",
+    "last_companion_arc_turn": 69,
+    "attribute_system": "D&D",
+    "active_rituals": [
+      "Mass Soul Harvest (Concentration Active)"
+    ],
+    "vlaakith_tracking": "blinded",
+    "mask_identity": "Level 12 Mortal Noblewoman",
+    "multiverse_upgrade_available": false,
+    "halsin_status": "dead_siphoned",
+    "frozen_plans": {
+      "DELETE": [
+        "inanimate_soul_integration"
+      ]
+    },
+    "divine_upgrade_available": false,
+    "companion_arcs": {
+      "astarion": {
+        "phase": "development",
+        "arc_type": "rival_nemesis",
+        "progress": 90,
+        "history": [
+          {
+            "event": "Astarion realizes Cazador's anchors were blueprints for a massive ritual in the Upper City.",
+            "turn": 174
+          }
+        ]
+      }
+    },
+    "knowledge_states": {
+      "gauntlet_sanctuary": "Claimed by Nocturne",
+      "lab_security": "partially_compromised_golems_active",
+      "inquisitor_wwargaz_location": "gate_threshold",
+      "sanguine_anchors": "mapped",
+      "immune_response": "Cancelled",
+      "soul_cage_displacement": "known",
+      "counter_measures_prepped": "Abyssal soot / Somatic vacuum / Dragon shielding",
+      "lathanderian_essence": "Internalized",
+      "steel_watch_control": "Mastered",
+      "last_light_eyes": "Planted",
+      "dead_three_vestiges": "Deleted",
+      "szarr_ledgers": "Under Analysis (Astarion)",
+      "red_dragon_status": "resting_but_vigilant",
+      "council_loyalty": "absolute_fear",
+      "szarr_vault_location": "revealed_via_radiant_refraction",
+      "aradin_interference": "intercepting_spies",
+      "foyer_gloom_status": "sentient_offensive",
+      "githyanki_squad_tier": "Level 15+ Purge Specialists",
+      "cazador_financials": "Acquired (Coded)",
+      "wyll_gale_location": "Hidden ridge near the Risen Road bridge",
+      "solar_machine_location": "confirmed_beneath_monastery",
+      "harper_vaults": "Plundered",
+      "creche_reinforcements": "mobilized",
+      "netherbrain_access": "Transparent_Board",
+      "gauntlet_central_chamber_access": "secured_solo",
+      "outpost_destruction": "stalled_by_static",
+      "vlaakith_tracking": "blinded",
+      "cazador_moonrise_link": "Distillate_Supply_Chain_Confirmed",
+      "dragon_cloaking": "active_psionic_dead_zone",
+      "solar_machine_control": "mastered",
+      "crown_of_karsus_ciphers": "Acquired",
+      "nightsong_anchor_status": "exposed_transparent",
+      "szarr_vault_coordinates": "extracted",
+      "tollhouse_hoard": "Secured",
+      "cazador_supply_chain": "Identified_Sanguine_Distillates",
+      "aradin_location": "Back tunnels of the Sanctum",
+      "zevlor_shadow_druid_secret": "aware_of_radicalization_unaware_of_specific_shadow_druid_pact",
+      "balthazar_research_audit": "completed",
+      "isobel_barrier_status": "harmonic_distress_confirmed",
+      "nightsong_subversion_protocol": "mastered",
+      "githyanki_psionic_tech": "Mastered",
+      "blood_of_lathander_location": "exposed_in_vault",
+      "nightsong_breach_somatics": "mastered",
+      "balthazar_status": "restored_aligned",
+      "gauntlet_central_chamber_status": "Abyssal Altar (Permanent)",
+      "netherese_unthreading": "mastered",
+      "solar_machine_status": "unstable_radiant_backlash",
+      "creche_yllek_defenses": "known_solar_machine_weakness",
+      "szarr_vault_entrance": "Located",
+      "sharran_static_status": "Purged/Deleted",
+      "mausoleum_wards": "un-zipped",
+      "sovereign_envelope": "Stabilized at Waypoint",
+      "balthazar_ledger": "Acquired (Sanguine Keys)",
+      "creche_yllek_status": "fully_pacified_harvested",
+      "balthazar_security": "flesh_golem_detachment_identified",
+      "nightsong_frequency": "cleared",
+      "wyll_gale_moral_status": "neutralized_by_logic",
+      "balthazar_design_flaws": "exposed",
+      "chosen_alliances_mapped": "complete",
+      "nightsong_status": "Internalized",
+      "voss_location": "Mountain Pass Bridge",
+      "gauntlet_primary_anchor": "secured",
+      "city_administrative_layer": "Transparent_Awaiting_Overwrite",
+      "nightsong_resonance_map": "acquired",
+      "graveyard_patrols": "neutralized",
+      "perimeter_status": "deleted_cleared",
+      "gauntlet_administrative_layers": "un-zipped",
+      "isobel_loyalty": "Masked_Uncertain",
+      "creche_entry_status": "secured",
+      "moonrise_upper_ward_access": "secured",
+      "sanguine_wards": "Disabled",
+      "blood_of_lathander_status": "secured",
+      "grove_recruitment_status": "High (Drawing refugees via Abyssal resonance)",
+      "githyanki_intent": "hunting_anomaly_not_named_target",
+      "garrison_resources_extracted": "1,200gp and logistical maps seized",
+      "shadow_curse_stabilization": "relic_aligned",
+      "solar_machine_stability": "critical_failure",
+      "tollhouse_status": "Abyssal Stronghold (Permanent)",
+      "ketheric_immortality_status": "Vulnerable/Redirected",
+      "voss_intel": "Silver Sword gifted to Lae'zel",
+      "elder_brain_ping": "detected",
+      "nightsong_anchor_control": "Secured",
+      "celestial_vulnerability": "identified",
+      "wargaz_status": "dead_siphoned",
+      "githyanki_signal_status": "false_flag_confirmed",
+      "soul_cage_mechanics": "mastered",
+      "council_status": "Surrendered_Under_Audit",
+      "sanguine_labs_security": "mapped",
+      "vanguard_alignment": "stabilized",
+      "netherese_orb_integration": "mastered",
+      "voss_memories": "extracted",
+      "githyanki_squad_status": "hypnotized",
+      "githyanki_alert_status": "high_alert",
+      "githyanki_tactics": "Sensor-based grounding of dragons",
+      "sentient_gloom_frequency": "deleted",
+      "balthazar_mapping": "failed_decoys_active",
+      "false_flag_status": "Masterful_Active",
+      "nightsong_subversion_prep": "complete",
+      "nightsong_anchor_location": "Thorm Mausoleum confirmed",
+      "abyssal_resonance": "Synchronized",
+      "szarr_vault_security": "Breached",
+      "secondary_anchors_located": "confirmed_prepped",
+      "szarr_vault_core": "Plundered",
+      "dragon_binding_harmonic": "known",
+      "secondary_anchor_identity": "Ketheric's daughter (Isobel?) mentioned",
+      "githyanki_dampener_status": "Captured_Integrated",
+      "tower_administrative_ciphers": "Acquired",
+      "sanguine_anchor_geometry": "known",
+      "mausoleum_administrative_bypass": "completed",
+      "border_outpost_status": "Deleted_Framed",
+      "last_light_surveillance": "active_eyes_planted",
+      "halsin_notes_retrieval": "in_progress",
+      "crown_reconstruction": "Integrated_Internalized",
+      "vault_security_mapped": "Identified Abyssal Tumblers and Sanguine Wards",
+      "creche_hierarchy": "decapitated_but_thrashing",
+      "szarr_palace_anchors": "identified_via_ledgers",
+      "convoy_status": "under_nocturne_command",
+      "gauntlet_foyer_status": "secured",
+      "shadowfell_breach_prepared": "complete",
+      "shadow_curse_mechanics": "mastered_via_internalized_divinity",
+      "dragon_binding": "permanently_anchored",
+      "gauntlet_entrance": "discovered",
+      "abyssal_marrow_purity": "Solar-Aligned",
+      "psionic_dampener_tech": "reversed_to_cloak_dragon",
+      "ketheric_immortality_anchor": "Internalized by Nocturne"
+    },
+    "dead_three_status": "Absorbed_into_Sovereign",
+    "sanctuary_mode": {
+      "scale": "major",
+      "expires_turn": 109,
+      "broken_turn": 417,
+      "broken_reason": "Player manual override: 'I shouldn't be in sanctuary'",
+      "active": false,
+      "activated_turn": 99,
+      "broken": true,
+      "arc": "The Decapitation of Cr\u00e8che Y'llek"
+    },
+    "active_missions": [
+      {
+        "title": "The Triad Audit",
+        "status": "accepted",
+        "mission_id": "triad_audit",
+        "objective": "Subjugate or neutralize Gortash and Orin to claim the remaining Netherstones."
+      }
+    ],
+    "character_creation_completed": true,
+    "reithwin_status": "Harvested_Abyssal_Sanctuary",
+    "divine_rank": 4,
+    "last_soul_siphon_target": "npc_githyanki_monk_001",
+    "githyanki_dampener_status": "Captured_Integrated",
+    "sazza_status": "dead_siphoned",
+    "social_hp_challenge": {
+      "social_hp": 6,
+      "cooldown_remaining": 1,
+      "social_hp_damage": 2,
+      "status": "YIELDING",
+      "npc_name": "Isobel of Sel\u00fbne",
+      "resistance_shown": "None. Total psychological and spiritual transparency."
+    },
+    "solar_machine_status": "weaponized_abyssal_lance",
+    "faction_minigame": {
+      "suggestion_given": false,
+      "strong_suggestion_given": false,
+      "enabled": false
+    },
+    "border_outpost_status": "Deleted_Framed",
+    "mythic_sovereign_status": "Active",
+    "audit_completed": true,
+    "completed_missions": [],
+    "ketheric_status": "Neutralized_Retired",
+    "notoriety_level": "Apex Sovereign (Tier 4)",
+    "god_mode_directives": [
+      {
+        "added": "2026-01-15T06:51:08.194213+00:00",
+        "rule": "Always lead dice rolls with explicit numeric results and labeled modifiers."
+      },
+      {
+        "added": "2026-01-15T06:51:08.194377+00:00",
+        "rule": "DC reasoning is mandatory for all skill checks to prove fairness."
+      },
+      {
+        "added": "2026-01-15T06:51:08.194490+00:00",
+        "rule": "Maintain the 'Uncanny Valley' aesthetic: Nocturne does not sweat, shiver, or blink unnecessarily."
+      },
+      {
+        "added": "2026-01-15T07:21:23.973376+00:00",
+        "rule": "Always generate a resources header in the session_header/narrative for every response."
+      },
+      {
+        "added": "2026-01-10T08:40:00Z",
+        "rule": "Nocturne gains Soul Siphon at Level 5 instead of Level 6."
+      },
+      {
+        "added": "2026-01-15T07:48:45.466144+00:00",
+        "rule": "Always include Soul Siphon benefits (XP/Slots/Trophies) in mechanical resolutions."
+      },
+      {
+        "added": "2026-01-15T07:58:23.381726+00:00",
+        "rule": "Siren's Skin calculation is 10 + DEX + CHA; it does not stack with armor base values."
+      },
+      {
+        "added": "2026-01-15T07:58:23.381852+00:00",
+        "rule": "Soul Siphon requires CR 1+ for slot/trophy benefits per class definition."
+      },
+      {
+        "added": "2026-01-15T08:43:53.877893+00:00",
+        "rule": "Always apply +20% Soul Harvest bonus to encounter XP totals."
+      },
+      {
+        "added": "2026-01-15T08:43:53.878014+00:00",
+        "rule": "Apply 'Thorns of the Heart' reaction damage automatically in combat resolutions."
+      },
+      {
+        "added": "2026-01-15T08:43:53.878124+00:00",
+        "rule": "Track Kagha's status as a 'Thrall-Prophet' with a -4 Max HP penalty to Nocturne."
+      },
+      {
+        "added": "2026-01-15T08:56:54.854786+00:00",
+        "rule": "Track Nocturne's rank as 'First Disciple' in Absolute social interactions."
+      },
+      {
+        "added": "2026-01-15T08:56:54.854916+00:00",
+        "rule": "Minthara treats Nocturne as a high-value strategic peer/lieutenant."
+      },
+      {
+        "added": "2026-01-15T08:58:43.578736+00:00",
+        "rule": "Always reflect Nocturne's rank as 'First Disciple' in Absolute social interactions."
+      },
+      {
+        "added": "2026-01-15T08:58:43.578893+00:00",
+        "rule": "Minthara recognizes Nocturne as an autonomous occult specialist, not a simple foot soldier."
+      },
+      {
+        "added": "2026-01-15T08:59:50.002999+00:00",
+        "rule": "Always reflect that Minthara acknowledges the Tiefling harvest as an intentional strategic move by Nocturne."
+      },
+      {
+        "added": "2026-01-15T08:59:50.003136+00:00",
+        "rule": "Maintain the narrative distinction that only the 'friendly fire' on Absolute elites was an accident."
+      },
+      {
+        "added": "2026-01-15T08:59:50.003256+00:00",
+        "rule": "Track Nocturne's authority over the Shadow Druids as a distinct sub-faction within the Absolute hierarchy."
+      },
+      {
+        "added": "2026-01-15T09:10:40.011185+00:00",
+        "rule": "Nocturne has 2 Soul Trophy slots available for use."
+      },
+      {
+        "added": "2026-01-15T09:10:40.011322+00:00",
+        "rule": "Always apply Thorns of the Heart damage (1d6) to melee attackers of Nocturne/Thralls."
+      },
+      {
+        "added": "2026-01-15T09:10:40.011473+00:00",
+        "rule": "Track progress on 'Mass Soul Harvest' spell research during downtime."
+      },
+      {
+        "added": "2026-01-15T09:27:58.757711+00:00",
+        "rule": "Always apply +4 bonus to Spell Save DC from optimized gear (Amulet +2, Ring +1, Staff +1)."
+      },
+      {
+        "added": "2026-01-15T09:27:58.757902+00:00",
+        "rule": "Spell Save DC is fixed at 20 (8 base + 3 prof + 5 CHA + 4 items)."
+      },
+      {
+        "added": "2026-01-15T09:27:58.758077+00:00",
+        "rule": "Track the 900 XP correction as verified and permanent."
+      },
+      {
+        "added": "2026-01-15T09:30:02.032056+00:00",
+        "rule": "Nocturne's Charisma cap is now 22 due to Amulet of the Abyssal Siren."
+      },
+      {
+        "added": "2026-01-15T09:32:08.214353+00:00",
+        "rule": "Nocturne's Charisma cap is permanently 22 while wearing the Amulet of the Abyssal Siren."
+      },
+      {
+        "added": "2026-01-15T09:36:15.533630+00:00",
+        "rule": "Always apply +4 bonus to Spell Save DC from optimized gear (Staff +1, Amulet +2, Ring +1)."
+      },
+      {
+        "added": "2026-01-15T09:36:15.533791+00:00",
+        "rule": "Nocturne's Charisma cap is 22 while wearing the Amulet of the Abyssal Siren."
+      },
+      {
+        "added": "2026-01-15T09:36:15.533923+00:00",
+        "rule": "Track 'Blighted Growth' as a 1/long rest utility instead of the L3 slot refresh."
+      },
+      {
+        "added": "2026-01-15T09:36:15.534072+00:00",
+        "rule": "Spell Save DC is fixed at 21 (8 base + 3 prof + 6 CHA + 4 items)."
+      },
+      {
+        "added": "2026-01-15T10:07:56.587024+00:00",
+        "rule": "Always generate the resources header in the session_header/narrative."
+      },
+      {
+        "added": "2026-01-15T10:07:56.587192+00:00",
+        "rule": "Track 'Blighted Growth' as a 1/long rest utility feature."
+      },
+      {
+        "added": "2026-01-15T11:11:28.394383+00:00",
+        "rule": "Weak followers (Vassals) who obey out of notoriety/fear do not incur the Gilded Tether HP penalty."
+      },
+      {
+        "added": "2026-01-15T11:11:28.394591+00:00",
+        "rule": "Only formal Thralls bound by the Gilded Tether feature incur the -1 Max HP per CR/Level penalty."
+      },
+      {
+        "added": "2026-01-15T11:11:49.448939+00:00",
+        "rule": "Spell Save DC is fixed at 22 (8 base + 4 prof + 6 CHA + 4 items)."
+      },
+      {
+        "added": "2026-01-16T04:20:35.113670+00:00",
+        "rule": "Always apply Expertise (+14) to Deception, Persuasion, and Intimidation checks."
+      },
+      {
+        "added": "2026-01-16T04:20:35.113801+00:00",
+        "rule": "Spell Save DC is fixed at 22 for all narrative calculations."
+      },
+      {
+        "added": "2026-01-17T11:31:30.932357+00:00",
+        "rule": "Track and award BG3-style Inspiration (max 4) for Nocturne and companions during significant narrative or background milestones."
+      },
+      {
+        "added": "2026-01-17T11:31:30.932474+00:00",
+        "rule": "Always display Inspiration count in the session_header/status line."
+      },
+      {
+        "added": "2026-01-17T11:47:34.110244+00:00",
+        "rule": "Nocturne's superiors (Ketheric/Malcanthet) must actively provide missions and mandates."
+      },
+      {
+        "added": "2026-01-17T11:47:34.110458+00:00",
+        "rule": "Track Ketheric's reaction to Nocturne's 'independent' optimizations of his orders."
+      },
+      {
+        "added": "2026-01-17T11:47:34.110569+00:00",
+        "rule": "Ensure missions reflect Nocturne's rank as Baroness and First Disciple."
+      },
+      {
+        "added": "2026-01-17T15:11:56.725219+00:00",
+        "rule": "Always track Group Inspiration in the session_header Status line (Current: 3/4)."
+      },
+      {
+        "added": "2026-01-17T15:16:03.183997+00:00",
+        "rule": "Nocturne, her mount, and allies within 30ft are permanently immune to the Shadow-Curse due to Lathanderian integration."
+      },
+      {
+        "added": "2026-01-17T22:03:22.477065+00:00",
+        "rule": "Patron (Malcanthet) must actively communicate and provide missions to Nocturne."
+      },
+      {
+        "added": "2026-01-17T22:03:22.477195+00:00",
+        "rule": "Missions must focus on Nocturne's rise within the Absolute and the subversion of the Chosen."
+      },
+      {
+        "added": "2026-01-18T18:08:58.434669+00:00",
+        "rule": "Ensure all Boss-tier enemies (CR 5+) possess Legendary Resistance (3/day) and Legendary Actions/Lair Actions appropriate to their tier."
+      },
+      {
+        "added": "2026-01-19T05:19:19.379982+00:00",
+        "rule": "Apply War Caster advantage to all Concentration saving throws."
+      },
+      {
+        "added": "2026-01-19T10:08:51.590384+00:00",
+        "rule": "Escalate campaign difficulty through narrative consequences (Divine/Elder Brain response) rather than arbitrary stat inflation."
+      },
+      {
+        "added": "2026-01-19T10:08:51.590509+00:00",
+        "rule": "Challenges must specifically counter Nocturne's strengths (e.g., Antimagic vs Spells, Constructs vs Psychic) to force strategic adaptation."
+      },
+      {
+        "added": "2026-01-19T21:43:27.355909+00:00",
+        "rule": "Malcanthet is the sole Demon Lord/Patron in the hierarchy."
+      },
+      {
+        "added": "2026-01-19T21:43:27.355998+00:00",
+        "rule": "Nocturne serves as Malcanthet's Incumbent Sovereign representative on the Prime Material."
+      },
+      {
+        "added": "2026-01-19T21:47:46.964174+00:00",
+        "rule": "Nocturne's Shadow-Step allows unlimited distance teleportation to any shadowed location within the Shadow-Cursed Lands as a Bonus Action."
+      },
+      {
+        "added": "2026-01-19T21:47:46.964332+00:00",
+        "rule": "Nocturne can transport her mount and all allies within her Sovereign Mantle (30ft) during a regional Shadow-Step."
+      },
+      {
+        "added": "2026-01-19T21:50:46.628772+00:00",
+        "rule": "Nocturne Sosuke holds the rank of Lesser Demon Lord, second only to Malcanthet."
+      },
+      {
+        "added": "2026-01-19T21:50:46.628892+00:00",
+        "rule": "Nocturne serves as Malcanthet's Primary Sovereign representative on the Prime Material."
+      },
+      {
+        "added": "2026-01-21T06:40:24.185507+00:00",
+        "rule": "Nocturne can now access 10th-level 'Conceptual' magic for narrative reality warping."
+      },
+      {
+        "added": "2026-01-21T06:40:24.185619+00:00",
+        "rule": "Spell Save DC is fixed at 31 for Tier 4 Apex resolutions."
+      },
+      {
+        "added": "2026-01-21T06:40:24.185709+00:00",
+        "rule": "The Netherbrain is a surrendered specimen to Nocturne's administrative authority."
+      },
+      {
+        "added": "2026-01-21T07:00:00Z",
+        "rule": "Spell Save DC is fixed at 36 for Tier 4 Apex resolutions."
+      },
+      {
+        "added": "2026-01-21T07:00:00Z",
+        "rule": "Level 8 and below spell slots are unlimited."
+      },
+      {
+        "added": "2026-01-21T07:02:49.628474+00:00",
+        "rule": "Nocturne can maintain concentration on up to three spells simultaneously without target restrictions."
+      },
+      {
+        "added": "2026-01-21T07:02:49.628710+00:00",
+        "rule": "On a failed concentration save, Nocturne only loses one spell of her choice, maintaining the others."
+      },
+      {
+        "added": "2026-01-21T07:13:31.186023+00:00",
+        "rule": "Track Divine Dissonance (0-100%) and apply costs based on Layered Stat Block overflows."
+      },
+      {
+        "added": "2026-01-21T07:13:31.186189+00:00",
+        "rule": "Enforce Tri-Layer Simulation: Layer 0 (Mortal), Layer 1 (Persona), Layer 2 (Source)."
+      },
+      {
+        "added": "2026-01-21T07:13:31.186316+00:00",
+        "rule": "Apply Divine Rank Bonuses to all rolls and DCs based on character level."
+      },
+      {
+        "added": "2026-01-21T07:13:31.186450+00:00",
+        "rule": "Maintain the 'Smurf' tension: using True Power while Masked generates Dissonance."
+      },
+      {
+        "added": "2026-01-21T07:13:31.186579+00:00",
+        "rule": "Use the Observer-Relative Mask Difficulty formula for detection checks."
+      },
+      {
+        "added": "2026-01-21T08:02:02.579885+00:00",
+        "rule": "Do not cap any ability scores; allow them to scale infinitely based on rewards and ASIs."
+      },
+      {
+        "added": "2026-01-21T08:02:02.580028+00:00",
+        "rule": "Nocturne always picks +2 Charisma ASI at every available level."
+      },
+      {
+        "added": "2026-01-21T08:02:02.580150+00:00",
+        "rule": "Maintain Level 26 Quasi-Deity (Rank 1) as the current character baseline."
+      },
+      {
+        "added": "2026-01-21T08:42:55.889984+00:00",
+        "rule": "Apply Divine Stat Scaling: +2 to every attribute score per level after 30."
+      },
+      {
+        "added": "2026-01-21T08:42:55.890120+00:00",
+        "rule": "Gods are immune to all damage and negative effects from mortal sources (Level/CR 20 or below) unless the source possesses a Divine Rank, Mythic status, or a God-slaying artifact."
+      },
+      {
+        "added": "2026-01-21T08:42:55.890240+00:00",
+        "rule": "All deities in the campaign follow the same stat scaling and immunity rules."
+      }
+    ],
+    "universe_control": 0,
+    "simulacrum_data": {
+      "mortal_avatar": {
+        "masked_level": 12,
+        "status": "active",
+        "level": 20
+      },
+      "god_sim": {
+        "masked_level": 12,
+        "status": "active",
+        "level": 26
+      },
+      "mortal_avatar_sim": {
+        "masked_level": 12,
+        "status": "active",
+        "level": 20
+      }
+    },
+    "world_events": {
+      "rumors": [
+        {
+          "content": "The Lady of Loss is weeping for her lost trials.",
+          "source_type": "Balthazar (Murmured)",
+          "related_event": "Deletion of the trials",
+          "accuracy": "partial"
+        }
+      ],
+      "turn_generated": 207,
+      "background_events": [
+        {
+          "outcome": "Protocols overridden and cancelled by Nocturne",
+          "player_aware": true,
+          "status": "resolved",
+          "actor": "The Netherbrain",
+          "action": "Initiating 'Immune Response' protocols"
+        }
+      ]
+    },
+    "arc_milestones": {
+      "the_shadow_and_the_zealot": {
+        "status": "in_progress"
+      }
+    },
+    "aradin_status": "dead_siphoned",
+    "crown_integration": "Complete",
+    "moonrise_status": "Sovereign_Takeover_Complete",
+    "success_streak": 33,
+    "boss_guidelines": {
+      "lair_actions_enabled": true,
+      "legendary_resistance_default": 3,
+      "legendary_actions_enabled": true
+    },
+    "divine_potential": 0,
+    "rumors": [
+      {
+        "content": "A shadow-assassin of the Black Network is hunting the girl who reaped the caravan.",
+        "source_type": "Traveling Merchant (Overheard)",
+        "accuracy": "true"
+      }
+    ],
+    "divine_progression": {
+      "current_rank": 1,
+      "rank_name": "Lesser Deity",
+      "next_rank_threshold": "Subjugation of Baldur's Gate"
+    },
+    "complications": {
+      "severity": "significant",
+      "success_streak_after": 0,
+      "description": "The solar machine has become a beacon visible across the Mountain Pass, drawing all hostile factions to the epicenter.",
+      "success_streak_before": 23,
+      "triggered": true,
+      "type": "radiant_overload"
+    },
+    "nightsong_status": "Internalized",
+    "spell_save_dc": 36,
+    "last_light_status": "Harvested_Deleted",
+    "apex_attention": 0,
+    "city_administrative_layer": "Fully_Overwritten_by_Nocturne",
+    "character_creation_stage": "complete",
+    "current_rank": "Lesser Deity (Rank 4)",
+    "character_creation_in_progress": false,
+    "portfolio_claims": [
+      "Murder",
+      "Tyranny",
+      "Death"
+    ],
+    "absolute_hierarchy": {
+      "superior": "Minthara Baenre / Ketheric Thorm",
+      "garrison": [
+        "1,000 Demon Infantry",
+        "100 Gloomstalker-Assassin Cambions (Level 12+)",
+        "100 Greater Vrocks (Level 12+)",
+        "Steel Watch Army (Remote Control Active)"
+      ],
+      "rank_notes": "Ketheric Thorm has officially recognized your status and assigned the upper ward lab wing for your 'independent' research.",
+      "vassals": [
+        "Ketheric Thorm (Thrall-Retired)",
+        "Enver Gortash (Thrall-Administrator)",
+        "Orin the Red (Thrall-Slayer)"
+      ],
+      "subordinates": [
+        "Kagha",
+        "Shadow Druid Circle",
+        "Goblins of the Sanctum"
+      ],
+      "vanguard": [
+        "Qudenos (CR 17 Red Dragon)",
+        "Balthazar (Level 13 Necromancer-Thrall)",
+        "103 Greater Vrocks (CR 7)",
+        "105 Cambion Stalkers (Level 12+ Assassin/Gloomstalkers)",
+        "Kagha (Vassal-Prophet)",
+        "Olodan",
+        "10 Shadow Druid Elites",
+        "100 Elite Gloomstalker Cambions (Level 12+)",
+        "100 Greater Vrocks (Level 12+)"
+      ],
+      "current_rank": "Lesser Demon Lord / Ketheric's Right Hand",
+      "deployment": {
+        "mausoleum_detachment": "70% Elites (Vrocks/Shadow Druids/Vanguard)",
+        "moonrise_tollhouse_garrison": "30% Garrison (Kar'niss/Cambions)"
+      },
+      "notoriety": "Nemesis of the Astral Sea",
+      "active_mission": "Intercept Githyanki Retrieval Squad",
+      "authority_scope": "Emerald Grove Hub, Shadow Druid Sub-faction, Inversion Battery Operations"
+    },
+    "safe_limit": 20
+  },
+  "social_hp_challenge": {
+    "social_hp": 0,
+    "roll_dc": 35,
+    "cooldown_remaining": 2,
+    "successes": 5,
+    "npc_id": "",
+    "roll_result": 51,
+    "request_severity": "submission",
+    "npc_tier": "god",
+    "successes_needed": 5,
+    "social_hp_damage": 0,
+    "status": "SURRENDERED",
+    "resistance_shown": "None. Technical deletion via Multiversal Hardware.",
+    "social_hp_max": 20,
+    "objective": "Systematic Deletion",
+    "skill_used": "Intimidation",
+    "npc_name": "The Dead Three (Vestiges)",
+    "cooldown_until_hour": 4
+  },
+  "combat_state": {
+    "initiative_order": [
+      {
+        "name": "pc_nocturne_sosuke",
+        "initiative": 22,
+        "type": "pc"
+      },
+      {
+        "name": "npc_qudenos_dragon",
+        "initiative": 20,
+        "type": "enemy"
+      },
+      {
+        "name": "npc_kithrak_voss",
+        "initiative": 15,
+        "type": "enemy"
+      }
+    ],
+    "in_combat": false,
+    "current_round": 1,
+    "combatants": {
+      "pc_nocturne_sosuke": {
+        "hp_current": 40,
+        "hp_max": 40,
+        "status": [],
+        "type": "pc"
+      },
+      "npc_githyanki_purge_squad": {
+        "hp_current": 120,
+        "hp_max": 120,
+        "status": [
+          "hypnotized"
+        ],
+        "type": "enemy"
+      },
+      "npc_kithrak_voss": {
+        "hp_current": 180,
+        "hp_max": 180,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_qudenos_dragon": {
+        "hp_current": 256,
+        "hp_max": 256,
+        "status": [],
+        "type": "enemy"
+      }
+    },
+    "combat_summary": {
+      "enemies_defeated": [
+        "npc_creche_garrison_detachment_001"
+      ],
+      "rounds_fought": 1,
+      "xp_awarded": 2500,
+      "loot_distributed": false
+    }
+  },
+  "last_state_update_timestamp": "2026-01-22 03:36:16.909000+00:00",
+  "turn_number": 219,
+  "player_turn": 219,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "second": 3,
+    "microsecond": 0,
+    "minute": 0,
+    "hour": 3,
+    "time_of_day": "Deep Night",
+    "year": 1492,
+    "day": 17,
+    "month": "Hammer"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {
+    "last_note": "HD: 16/16 | Spells: L1-L8 UNLIMITED, L9 2/2, L10-L12 ENABLED | Divine Leverage: +24 | Dissonance: 0% | Apex Attention: Still"
+  },
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "debug_info": {
+    "dm_notes": [
+      "Nocturne successfully leveraged her expertise (+11) to deal massive Social HP damage to Minthara.",
+      "Minthara is a 'General' tier NPC, base Social HP 5-8, but as a boss with high convictions, her base was scaled to 30 for this campaign arc.",
+      "Success streak incremented to 1.",
+      "Nocturne successfully convinced Minthara of her infiltration plan.",
+      "Social HP damage dealt (4) based on high margin of success (21 vs 16).",
+      "Success streak incremented to 2.",
+      "Narrative focus on the 'Uncanny Valley' aesthetic and Minthara's reaction to Nocturne's power.",
+      "Nocturne successfully leveraged her expertise (+11) to sway the 'good' companions Gale, Wyll, and Karlach.",
+      "A stealth failure (Natural 1) triggered a narrative encounter with goblins, which Nocturne resolved through her high passive/active intimidation aura.",
+      "Success streak incremented to 3.",
+      "Time advanced to Dawn (07:45).",
+      "Nocturne successfully bypassed the goblin ambush (150 XP).",
+      "Deception check for 'Porcelain Victim' act succeeded (17 vs DC 12).",
+      "Persuasion check for 'Greater Good' argument with companions failed (14 vs DC 15); Wyll remains resistant.",
+      "Stealth check for travel succeeded (16 vs DC 12).",
+      "DC reasoning and modifiers (+11 Expertise) are now explicitly audited.",
+      "Deception check for entry succeeded (17 vs DC 12).",
+      "Persuasion check for companions' compliance succeeded (19 vs DC 15).",
+      "Wyll is technically 'brooding' but his immediate resistance is bypassed.",
+      "Time advanced to 08:00 (Early Morning).",
+      "Success streak incremented to 5.",
+      "Deception success (27 vs 12) grants immediate entry and 'Mask of the Victim' condition.",
+      "Insight success (22 vs 15) reveals that Wyll's resistance is reaching a breaking point.",
+      "Time advanced by 5 minutes narratively.",
+      "Success streak maintained at 5.",
+      "Nocturne successfully exploited Zevlor's protective instinct (Roll: 23 vs DC 12).",
+      "Intelligence added to custom_campaign_state: Gate mechanism prone to jamming, Western ridge weak point, Shadow Druid strife peaking.",
+      "Success streak incremented to 6.",
+      "Time advanced by 5 minutes.",
+      "Persuasion check succeeded (18 vs DC 15) to dismiss Wyll and Gale.",
+      "Zevlor's knowledge state clarified: He knows of radicalization but not the Shadow Druid pact.",
+      "Time advanced 5 minutes to 08:15.",
+      "Success streak maintained at 6.",
+      "Resources header generated per god mode directive.",
+      "Nocturne entered the inner sanctum with a massive Deception success (28 vs 12).",
+      "Kagha is initialized as a 'Lord/General' tier NPC for Social HP (30 HP).",
+      "Arabella's scene is active. Nocturne has advantage on deception due to 'Mask of the Victim'.",
+      "Time advanced by 5 minutes to 08:20.",
+      "Nocturne used Siren's Gaze (Deception) with Advantage from Mask of the Victim.",
+      "Roll result 17 vs DC 12 = Success.",
+      "Social HP damage dealt: 2 (Margin 5).",
+      "Kagha initialized as Lord/General tier with 30 Social HP.",
+      "Success streak incremented to 7.",
+      "Time advanced to 08:25.",
+      "Social HP damage dealt: 2 (Margin 11).",
+      "Successes incremented to 2.",
+      "Success streak incremented to 8.",
+      "Kagha is in a 'defensive panic' state, increasing the DC for total submission but lowering the DC for 'dark alignment' options.",
+      "Time advanced slightly.",
+      "Kagha has transitioned from RESISTING to WAVERING as she internalizes Nocturne's 'prophetic' status.",
+      "Social HP damage dealt: 1 (Margin 1).",
+      "Success streak incremented to 9.",
+      "Time advanced 1 minute.",
+      "Nocturne rolled a Natural 1 but succeeded due to high +11 modifier vs low DC 12.",
+      "Kagha has transitioned to WAVERING.",
+      "Arabella is safe (narrative objective complete).",
+      "Success streak incremented to 10.",
+      "Nocturne rolled a Natural 1 (Total 12) vs DC 15.",
+      "Success streak of 10 prevented a catastrophic failure (e.g., Kagha calling for guards).",
+      "Kagha is now in a 'wavering but stalled' state.",
+      "XP awarded: 0 (Failure on roll).",
+      "Time advanced 8 minutes to 08:35.",
+      "Nocturne successfully leveraged the 'Wavering' state to deal 2 Social HP damage.",
+      "Kagha has disclosed the location of the Shadow Druid scroll.",
+      "Success streak incremented to 11.",
+      "Arabella's rescue is now narratively complete; focus is entirely on ritual inversion.",
+      "DC was set to 12 due to high compatibility of 'Trust' framing with current NPC state.",
+      "Nocturne rolled a 20 (Total 36 with modifiers) vs DC 15.",
+      "Kagha has transitioned to SURRENDERED status.",
+      "Soul Siphon feature manually moved to active status at Level 5 per player directive.",
+      "Arabella's rescue is fully complete; Sazza is now the primary mechanical target for the demonstration.",
+      "Social HP damage: 2 (Margin 5+).",
+      "Nocturne succeeded on the Arcana check (21 vs 12) to memorize the scroll.",
+      "Time advanced 5 minutes to 08:50.",
+      "XP awarded: 100 for successful subversion and intelligence gathering.",
+      "Sazza has been brought into the scene as the sacrifice for the Soul Siphon demonstration.",
+      "Kagha is in a state of religious awe (SURRENDERED).",
+      "Updated player AC to 19 based on Siren's Skin (10+2+5) + Shield (+2).",
+      "Equipped Silk of the Abyssal Weaver; moved Chain Shirt +2 to backpack.",
+      "Ensured Soul Siphon and Silk features are listed in character features.",
+      "Added session_header as requested by user.",
+      "Sazza siphoned successfully. XP awarded (100 base + 50 for narrative execution + 20 Soul Siphon bonus = 170 XP).",
+      "Kagha is in a state of 'SURRENDERED', allowing for parallel execution commands with low resistance.",
+      "Nocturne's AC confirmed at 19 with Silk + Siren's Skin + Shield.",
+      "Nocturne rolled a Natural 20 on the Intelligence (Strategy) check, resulting in a 'Brilliant' quality tier plan.",
+      "Deception Expertise (+11) and Uncanny Valley (+5) applied with Advantage from Mask of the Victim.",
+      "Success streak incremented to 17.",
+      "Kagha is now fully engaged in the ritual inversion process.",
+      "Time advanced 25 minutes to 09:15.",
+      "Kagha is now performing the somatic resonance for the Inversion; the world state reflects her religious awe (SURRENDERED).",
+      "Asset briefing was exceptionally successful (Natural 19 + 11 = 30), granting a 'Masterful' coordination bonus to future funneling rolls.",
+      "Success streak incremented to 18.",
+      "Time advanced 5 minutes for coordination and ritual initiation.",
+      "Natural 1 on Ritual Oversight (Wisdom) triggered instability.",
+      "Strategic Coordination remains 'Brilliant' due to previous successes, creating a tension between the 'perfect plan' and the 'failing execution'.",
+      "XP awarded for successful subversion and ritual initiation.",
+      "Time advanced 1 minute for ritual start.",
+      "Success streak reset to 0 following the critical failure effect.",
+      "Nocturne failed the Charisma (Arcana) check (14 vs DC 16).",
+      "The 'Brilliant' strategy bonus was applied, but the low roll resulted in failure.",
+      "Success streak has been reset to 0.",
+      "XP awarded: 500 for the attempt and the narrative weight of initiating the 'Black Glass' phase.",
+      "Environmental hazard 'Black Glass Thorns' added to campaign state.",
+      "Kagha is temporarily incapacitated by the psychic backlash.",
+      "Ritual successfully inverted using high-margin success.",
+      "Environmental hazard 'Black Glass Thorns' now protects the Inner Sanctum.",
+      "Success streak reset to 0 following the prior failure, now building from 1.",
+      "XP awarded: 500 for the attempt and the narrative weight of completing the 'Black Glass' phase.",
+      "Kagha is in SURRENDERED status, acting as a ritual battery.",
+      "Nocturne reached Level 6 via the mass harvest XP (5,940).",
+      "Soul Siphon triggered for 55 targets; narrative focuses on the most significant (Tieflings/Goblins/Absolute Elites).",
+      "Soul Siphon DC for trophy was met (8 vs DC 8), granting 'Relentless Endurance' from an Absolute elite.",
+      "Kagha is now fully integrated as a 'Thrall-Prophet' following the ritual completion.",
+      "Success streak incremented to 1 following the masterful stabilization in previous turn.",
+      "Nocturne successfully reached Level 7.",
+      "Persuasion check succeeded (18 vs DC 18) to consolidate rank with Minthara.",
+      "Minthara acknowledges Nocturne as 'First Disciple', elevating her status within the Absolute hierarchy.",
+      "Time advanced to 09:30.",
+      "Greater Invisibility added to spells known at Level 7.",
+      "Nocturne successfully asserted her rank as First Disciple.",
+      "Minthara has accepted the 'intentional harvest' narrative, acknowledging Nocturne as a peer in ruthlessness.",
+      "Kagha is fully integrated as a Thrall-Prophet.",
+      "Spell slots are completely exhausted following the mass ritual and stabilization.",
+      "Time is fixed at 09:30 following the morning's events.",
+      "XP corrected by +900 per user request/external audit.",
+      "Loot rolls were generally low (failed DCs), so only thematic quest items provided.",
+      "Trophy harvest successful (Roll 23 vs DC 8); Nocturne gains second Trophy Slot utility.",
+      "Research DC 22 remains a barrier; successes not incremented this turn.",
+      "Corrected XP total by adding 900 XP missing from the previous 55-soul harvest audit.",
+      "Astarion rolled a Natural 20 on looting, granting access to high-tier Spell DC items (Amulet and Ring).",
+      "Nocturne rolled a Natural 20 on spell research, achieving the first success for the Mass Soul Harvest spell.",
+      "Time advanced to 10:00:00.",
+      "Updated player_character_data with new equipment benefits.",
+      "Nocturne successfully reached Level 8 via the 900 XP correction and previous harvest.",
+      "Spell research check succeeded (24 vs DC 22), incrementing successes to 2/5.",
+      "Blighted Growth added as a custom thematic reward for the Grove inversion.",
+      "Malcanthet projection used to reinforce the patron relationship and Level 8 milestone.",
+      "Spell Save DC confirmed at 21 (8 base + 3 prof + 6 CHA + 4 items).",
+      "Nocturne's CHA is confirmed at 22 via Amulet of the Abyssal Siren and Level 8 ASI.",
+      "Spell Save DC is verified at 21.",
+      "Total force count is exactly 70 (40 guards, 7 elites, 20 spies, 3 companions).",
+      "Planning block generated per THINK protocol; world time frozen (+1 microsecond).",
+      "Turn 42 Living World Advancement executed.",
+      "Intimidation check succeeded (32 vs DC 15); gold +300 awarded from tribute.",
+      "Astarion's arc initialized via signet ring discovery.",
+      "Halsin status updated to 'Primal Fury'; he is now a ticking clock threat.",
+      "Vanguard/Garrison split finalized.",
+      "Success streak incremented to 6; complication probability currently 80%.",
+      "Spell Save DC confirmed at 21.",
+      "Persuasion check succeeded (26 vs DC 18).",
+      "Wyll and Gale are narratively neutralized but their trust is at an all-time low (check relationships turns).",
+      "Halsin status remains 'Primal Fury' - he is now aware of the massacre.",
+      "Astarion's ring plot point is active.",
+      "Spell Save DC verified at 21.",
+      "Kagha and Olodan stats formalized.",
+      "Astarion's ring plot point progressed (Szarr family).",
+      "Vanguard split finalized in narrative.",
+      "Nocturne's Spell Save DC is confirmed at 21 (8 base + 3 proficiency + 6 CHA + 4 items).",
+      "Halsin is initialized as a 'King/Ancient' tier NPC for Social HP (Base 12, Submission Request x3 = 36 HP).",
+      "The 'Primal Fury' condition provides narrative armor against the first Intimidation attempt, resulting in 0 Social HP damage despite the success.",
+      "Success streak incremented to 8 following the successful infiltration and guard suppression.",
+      "Halsin CR 11 (Archdruid equivalent for this campaign tier) defeated.",
+      "XP awarded: 7,200 base + 20% Soul Siphon bonus = 8,640 XP.",
+      "Nocturne reached 44,314 XP (needed for level 9: 48,000).",
+      "Success streak incremented to 9; complication probability currently 100% (capped at 75%).",
+      "Nature's Step (Pass Without Trace) added as Soul Trophy.",
+      "Halsin is narratively removed from the campaign state.",
+      "Goblins in the Worg Pens are now in a 'Terrified' state.",
+      "Nocturne reached Level 9 (XP total: 52,954).",
+      "Loot roll (15) granted a 'Rare' tier outcome: 3 items for companions.",
+      "Goblins are in 'SURRENDERED' state.",
+      "Astarion's Szarr ring plot point is now the primary narrative hook.",
+      "Spell Save DC is confirmed at 22 per newest God Mode directives.",
+      "Archdruid title provides +2 to Intimidation/Persuasion with Druids/Rangers (First Disciple already provides advantage).",
+      "Halsin's intel failure limits immediate knowledge of Ketheric's specific vulnerabilities.",
+      "Nature's Step is a high-value utility trophy that synergizes with the Vanguard's mobility.",
+      "Persuasion success (35 vs DC 22) deals 2 Social HP damage to Minthara.",
+      "Minthara is King/Ancient tier (12 Base + 3 for Submission/Betrayal context = 15 Social HP).",
+      "Nocturne's Spell Save DC is confirmed at 22 (8+4+6+4).",
+      "Halsin's Nature's Step trophy is now active.",
+      "Deception success (30 vs DC 14) leveraged advantage from Mask of the Victim and +16 total modifier.",
+      "Priestess Gut (CR 2) failed her Wisdom save (15 vs DC 22) against Hold Person.",
+      "Soul Siphon triggered: 450 Base XP + 20% bonus (90 XP) = 540 total XP awarded.",
+      "Soul Trophy check succeeded (8 vs DC 5), granting 'Word of the Absolute'.",
+      "Gut is narratively removed from the state via harvest.",
+      "Time advanced 30 minutes for the lure and execution process.",
+      "Loot roll for hidden compartment failed (13 vs 15).",
+      "Spies deployed to Ragzlin's quarters.",
+      "Gold total updated to 1920 (previous 1540 + 380 new).",
+      "Success streak incremented to 13.",
+      "Success streak incremented to 14.",
+      "Investigation reroll succeeded (22 vs DC 15) using Guidance, Advantage (Enhance Ability), and Bardic Inspiration.",
+      "Loot added: Soul Coins, Iron Flask, and Gut's key items.",
+      "Time advanced to 14:15.",
+      "Vanguard and Spies are fully operational in Ragzlin's vicinity.",
+      "Loot added: 4 Soul Coins, Iron Flask, and 2 high-tier scrolls from Gut's hidden vault.",
+      "Success streak maintained at 14.",
+      "World time remains fixed at 14:15 while in the Sanctum.",
+      "Nocturne successfully lured Ragzlin with a massive Deception roll (38 vs 20).",
+      "Ragzlin is King tier, initialized with 36 Social HP (Base 12 x 3 for submission context).",
+      "Social HP damage dealt (2) moves him toward isolation.",
+      "Success streak incremented to 15.",
+      "Time advanced to 14:30 for the isolation movement.",
+      "Ragzlin successfully isolated and harvested.",
+      "Soul Siphon triggered: 450 base + 90 bonus = 540 XP.",
+      "Trophy check succeeded, granting Unarmored Defense.",
+      "Success streak incremented to 16.",
+      "Time advanced to 14:30.",
+      "Nocturne achieved Level 9 via the 540 XP from Ragzlin and the 900 XP audit correction.",
+      "Gold total updated to 2420 (1920 base + 500 from loot/Sanctum reserves).",
+      "Research success 3/5 achieved with a roll of 24 vs DC 22.",
+      "Time advanced to 15:30 to account for consolidation and research session.",
+      "Research successfully completed using Masterful Circle assistance (+5 bonus).",
+      "Time advanced to 17:30 to reflect the intense final research phase.",
+      "Gold updated with 600gp from the Hobgoblin King's hidden vault.",
+      "Success streak reset to 0 because the 75% complication probability triggered (Roll 4).",
+      "Krellis added as a new narrative complication representing Moonrise oversight.",
+      "Mass Soul Harvest defined as a 5th-level custom spell.",
+      "Nocturne completed Mass Soul Harvest spell research.",
+      "Demonstration of Soul Siphon provided to Krellis (Moonrise Inquisitor).",
+      "XP awarded: 180 (3x CR 1/4 goblins + 20% bonus).",
+      "Spell Save DC confirmed at 22 per newest God Mode directives.",
+      "Nocturne successfully demonstrated Soul Siphon to Krellis.",
+      "Performance check (27 vs DC 15) dealt 2 Social HP damage.",
+      "Krellis is initialized as Lord/General tier for Social HP (Base 8).",
+      "Success streak remains at 0 following the complication reset.",
+      "Krellis Social HP reduced to 4 (WAVERING).",
+      "Vanguard Investigation succeeded (32 vs 15) to find Gut's hidden cache.",
+      "XP awarded: 180 (Siphon demo) + 0 (Social progress handled via summary).",
+      "Krellis Social HP reduced to 2 (YIELDING).",
+      "Living World Turn 63 advanced: Wyll and Gale departed; Zhentarim caravan destroyed.",
+      "Astarion's arc 'rival_nemesis' advanced to Stakes Raised phase.",
+      "Success streak incremented to 3; complication probability 40% (failed to trigger this turn).",
+      "Spell Save DC maintained at 22.",
+      "Nocturne successfully asserted dominance over Krellis, completing the Social HP challenge.",
+      "Shadow Spies successfully tracked Aradin (Roll 33 vs DC 15).",
+      "Astarion was successfully comforted (Roll 21 vs DC 12), maintaining his loyalty despite the Szarr trigger.",
+      "Success streak incremented to 4; complication probability 50% (failed to trigger).",
+      "Krellis Social HP reduced to 0 (SURRENDERED).",
+      "XP awarded: 180 (Siphon demo) + 500 (Social victory/Rank consolidation) = 680 XP.",
+      "Parallel tasks successfully resolved.",
+      "Krellis Social HP reduced to 0.",
+      "Astarion stabilized via persuasion.",
+      "Tracking Aradin triggered a complication (ambush prepared).",
+      "XP awarded for social victory and demonstration.",
+      "Astarion's arc advanced to include the Vault Key reveal.",
+      "Spies successfully used Nature's Step for tracking bonus.",
+      "Krellis Social HP reached 0 (SURRENDERED) in previous turn, now departing as ordered.",
+      "Aradin Social HP reached 0 (SURRENDERED) in previous turn, now departing as ordered.",
+      "Wyll Social HP reduced to 3/5 following a high-margin persuasion success.",
+      "Success streak incremented to 5; complication probability at 70%.",
+      "Aradin captured and map retrieved as part of parallel task resolution from previous turn.",
+      "Astarion arc progressed with vault key reveal.",
+      "Wyll is initialized as a Noble/Knight tier (Base 5 Social HP).",
+      "Gale is initialized as a Noble/Knight tier (Base 5 Social HP).",
+      "Success streak incremented to 6; complication probability at 80% for next turn.",
+      "Astarion's arc advanced to include the Szarr Palace vault reveal.",
+      "Living World Turn 69 background events generated: Zhentarim assassin dispatched, Flaming Fist discovery.",
+      "Action Resolution Protocol applied to 'Force the Vow' outcome declaration.",
+      "Spies used Nature's Step for capture bonus.",
+      "Wyll Social HP reduced to 1/5 following a high-margin Intimidation success (25 vs 18).",
+      "Gale Social HP reduced to 0/5 following a Persuasion success (23 vs 16).",
+      "Success streak incremented to 7; complication probability now 90% (capped at 75%).",
+      "Vanguard now includes Wyll and Gale as formal 'Shield' vassals.",
+      "Living World Turn 69 background events active: Zhentarim assassin pending, Flaming Fist discovery.",
+      "\u26a0\ufe0f LLM Response Quality: Missing planning_block, session_header",
+      "Aradin Social HP reduced to 0 (SURRENDERED).",
+      "Soul Siphon successful (Roll 21 vs DC 5).",
+      "Cunning Insight trophy awarded.",
+      "Living World Turn 72: Background events generated.",
+      "Astarion arc progressed to Development phase (Vault key revealed).",
+      "Wyll and Gale Social HP remain at current levels following the forced oath.",
+      "Nocturne attempted to persuade Minthara using Advantage (First Disciple) and +16 modifier (Expertise + Uncanny Valley).",
+      "Roll resulted in 19 vs DC 22, dealing 0 Social HP damage. Minthara remains firm on the direct march.",
+      "Vanguard delegation for Halsin's notes succeeded (15 vs DC 15). Notes will be available next turn.",
+      "Zhentarim assassin 'Silk' is now effectively in the same map region as Nocturne.",
+      "Success streak incremented to 9; complication probability is at 75% cap.",
+      "\u26a0\ufe0f LLM Response Quality: Missing session_header",
+      "Nocturne successfully exploited Minthara's fanaticism by framing the Githyanki as a direct threat to the Prism.",
+      "Success streak incremented to 10; complication probability now at 75% cap.",
+      "Minthara Social HP reduced to 14/15 (WAVERING).",
+      "Wyll and Gale remain in YIELDING/SURRENDERED states, following as 'Shields'.",
+      "Parallel coordination succeeded on the primary tasks (Notes/March) but Shadowheart failed the ritual ward roll (Total 7 vs DC 14).",
+      "Success streak incremented to 11; complication probability capped at 75%.",
+      "XP Awarded: 950 base coordination + 20% Soul Siphon bonus = 1,140 XP.",
+      "Minthara Social HP reduced to 14/15 following the Prism-leveraged argument.",
+      "Karlach is now active as a hidden tracker, observing the Vanguard.",
+      "Scouting was a mixed success: Perception passed, Stealth failed.",
+      "Githyanki are now on high alert, increasing future Stealth DCs in this area.",
+      "Spell slots reset to full per player directive.",
+      "Success streak maintained at 11; complication failed to trigger (Roll 88 vs 75%).",
+      "Voss is initialized as King tier (Social HP 36) for upcoming interactions.",
+      "Nocturne successfully leveraged the 'Hypnotic Pattern' surprise to deal 2 Social HP damage to Qudenos via a massive Intimidation roll (41 vs DC 25).",
+      "Voss is initialized as King tier (Social HP 36), currently at 34 following the initial CC shock.",
+      "Qudenos is initialized as Ancient Ruler tier (Base 15 x 3 for submission = 45 Social HP).",
+      "Parallel coordination succeeded on the binding and casting tasks.",
+      "Astarion arc advanced to include the Szarr vault connection to the dragon.",
+      "Living World Turn 78: Zhentarim assassin and Flaming Fist updates active.",
+      "XP Awarded: 1,140 base (march) + 0 (social progress this turn, pending conclusion).",
+      "Qudenos is Ancient Ruler tier (Base 15 x 3 for submission = 45 Social HP).",
+      "Voss is King tier (Social HP 36), currently at 34 following the initial CC shock.",
+      "Nocturne successfully leveraged the 'Hypnotic Pattern' surprise to deal 2 Social HP damage to Qudenos via a massive Intimidation roll (45 vs DC 28).",
+      "Shadow Druid Vanguard successfully bound the CC'd Githyanki and used shadow-vines to restrain the dragon.",
+      "Success streak incremented to 14; complication probability now capped at 75%.",
+      "Voss (CR 12) base XP 8,400 / 5 (party share/narrative reduction) = 1,680 base + 20% bonus = 2,016 XP.",
+      "Silver Aegis trophy provides a defensive reaction themed to Githyanki warding.",
+      "Qudenos remains in WAVERING status following the shock of Voss's death.",
+      "Nocturne rolled 35 vs DC 22 (Intimidation) using Advantage from soul-knowledge.",
+      "Voss's soul provided the specific harmonic frequency needed to bypass the dragon's legendary ego.",
+      "Social HP damage dealt: 2 (Margin 13).",
+      "Lae'zel's loyalty is maximized (Yielding/Surrendered state) following the gift of the Silver Sword.",
+      "Qudenos remains WAVERING/YIELDING but is physically bound.",
+      "Nocturne's XP is nearing the Level 10 milestone.",
+      "Silver Aegis added as a defensive reaction to complement the 'Porcelain' durability.",
+      "Directive #3 leveraged to allow Githyanki as Vassals without penalty, given the overwhelming context of Voss's harvest and Qudenos's submission.",
+      "Nocturne successfully leveraged Voss's soul-memories to bypass Qudenos's legendary ego.",
+      "High-margin Intimidation success (37 vs 22) dealt 2 Social HP damage and advanced status to YIELDING.",
+      "Soul Siphon on Raider (CR 3) provided +20% XP and refreshed a L2 spell slot (half CR rounded up).",
+      "XP total is now 54 XP away from Level 10.",
+      "Nocturne successfully reached Level 10 via the harvest of the Githyanki raider.",
+      "Vassalization of the Githyanki survivors achieved with a high-margin Intimidation check.",
+      "Qudenos remains in YIELDING status, now physically mounted by the Disciple.",
+      "Soul Siphon (CR 3) refreshed a Level 2 slot and provided +20% bonus XP.",
+      "Success streak incremented to 17; complication probability capped at 75%.",
+      "Nocturne reached Level 10. HP calculated as 49 (8+45-4).",
+      "Expertise Intimidation and Insight added. Modifiers updated to +14 for CHA skills.",
+      "Magical Secrets: Counterspell and Dominate Person added.",
+      "Living World Turn 87 processed with 4 events.",
+      "Astarion arc advanced to 65% progress.",
+      "Temporal consistency enforced: Time advanced to 00:30 on Day 16.",
+      "Nocturne successfully leveraged her new Level 10 Insight expertise (+14) to break the fanatical Githyanki survivors.",
+      "The intel extracted provides a narrative bypass for the Cr\u00e8che's psionic wards (the solar machine).",
+      "Success streak incremented to 19; complication probability remains at 75% cap.",
+      "Time advanced 1 hour for the interrogation and consolidation phase.",
+      "Success streak incremented to 20; complication probability capped at 75%.",
+      "Nocturne successfully leveraged the 'Haste' and 'Greater Invisibility' buffs to ensure the CC landing.",
+      "Inquisitor W'wargaz is initialized as Lord/General tier for Social HP (Base 8).",
+      "Deception success (34 vs 18) dealt 2 Social HP damage.",
+      "Surprise round mechanics applied to the encounter.",
+      "Nocturne successfully hit the 'Predator' stage of evolution (Level 10).",
+      "Intimidation expertise (+14) and Uncanny Valley (+5) applied for a +19 total modifier.",
+      "DC 25 reasoning: Intimidating an Ancient Red Dragon and a Millennia-old Inquisitor while mounting the beast.",
+      "Soul Siphon (CR 3) awarded +20% bonus XP (180 base + 36 bonus = 216 XP).",
+      "Inquisitor W'wargaz Social HP reduced to 6/8 (WAVERING).",
+      "W'wargaz (CR 9) soul siphon successful. XP awarded: 1,200 (1,000 base + 200 bonus).",
+      "Trophy 'Psionic Barrier' acquired (Roll 22 vs DC 9).",
+      "Parallel coordination success (28 vs DC 18) ensures the spies found the relic without triggering alarms.",
+      "Success streak incremented to 22; complication probability capped at 75%.",
+      "Time advanced 30 minutes for the execution and tactical briefing.",
+      "Nocturne's Spell Save DC is confirmed at 22 for all narrative effects.",
+      "Nocturne successfully leveraged her 'Predator' stage and Voss's memories to secure the vault.",
+      "Parallel coordination success (29 vs 18) ensures the Vanguard remains organized during the chaos.",
+      "The Natural 1 on the weaponization check creates a high-tension scenario with radiant energy, which is narratively dangerous to an Abyssal/Fiend-aligned character.",
+      "Time advanced 30 minutes for the descent and breach.",
+      "Success streak incremented to 23; complication probability remains capped at 75%.",
+      "Success streak reset to 0 due to natural 1 on stabilization.",
+      "Radiant Searing condition applied to reflect the backlash.",
+      "Kar'niss and Githyanki reinforcements are now immediate threats due to the beacon effect.",
+      "Astarion arc progressed: The hoard location is now a known objective for Act 3.",
+      "Shadowheart's Sharran wound reaction serves as a narrative timer.",
+      "Nocturne successfully leveraged Voss's memories and Guidance/Inspiration to overcome the radiant backlash.",
+      "The Solar Machine is now 'Abyssal-aligned,' serving as a 5th-level equivalent weapon/battery.",
+      "Astarion's arc advanced: Cazador's hoard coordinates are now known.",
+      "World time advanced 30 minutes for the stabilization and looting.",
+      "Success streak incremented to 1; complication probability reset to 20%.",
+      "The user asked a valid question about NPC status.",
+      "Clarified that the 'Beacon' effect created a narrative override for standard surrender mechanics.",
+      "Time is frozen per God Mode protocol (+1 microsecond only).",
+      "Natural 20 on weaponization check (49 total) results in absolute destruction of the detachment.",
+      "Radiant Searing remains as a narrative timer/penalty.",
+      "Astarion's hoard coordinates are now a permanent part of his arc data.",
+      "The Cr\u00e8che is effectively neutralized as a military force in the immediate vicinity.",
+      "Nocturne used her Githyanki vassals to force a surrender, then systematically executed the survivors for a mass soul harvest.",
+      "The intimidation check (28 vs 22) and social check (31 vs 15) ensured no resistance during the execution.",
+      "Total souls harvested this turn: 12 (CR 1 raiders/monks).",
+      "XP Awarded: 1,500 base + 20% bonus (300) = 1,800 XP.",
+      "World time advanced 15 minutes for the execution and cleanup.",
+      "Admin check successful.",
+      "Directives for Level 10 'Predator' and Spell Save DC 22 are prioritized.",
+      "Sanctuary mode evaluation pending mission conclusion narration.",
+      "World time advanced to reflected the travel to the rendezvous point.",
+      "Kar'niss is initialized as Lord/General tier (Base 8 Social HP).",
+      "Nocturne's Intimidation expertise (+14) and Uncanny Valley (+5) provide a +19 modifier.",
+      "The natural 13 result (Total 32) easily cleared the DC 15 required for a fanatical NPC.",
+      "Sanctuary Mode (Major) active for 10 turns following the Cr\u00e8che's destruction.",
+      "Astarion arc progress maintained at 70%.",
+      "Nocturne successfully leveraged her expertise (+14) and Uncanny Valley (+5) for a +19 total modifier on Intimidation.",
+      "The natural 12 result (Total 31) easily cleared the DC 17 required for parallel coordination.",
+      "Blood of Lathander added to inventory following the masterful spy sweep (Total 30 vs DC 17).",
+      "World time advanced to 04:30 for the rendezvous and command phase.",
+      "XP awarded: 950 base + 20% bonus (190) = 1,140 XP.",
+      "Nocturne leveraged Voss's memories and the Solar Machine's alignment to secure the Blood of Lathander (Relic).",
+      "Living World Turn 102 processed: Kar'niss is fully yielding; Balthazar is alerted.",
+      "Parallel coordination success (31 vs 17) ensures the march is disciplined despite the curse's pressure.",
+      "Success streak incremented to 3; complication probability currently 50%.",
+      "Astarion arc progress maintained at 72% following the hoard coordinate reveal.",
+      "Kar'niss is initialized as Lord/General tier for Social HP (Base 8).",
+      "Request Severity: Submission (3x) = 24 Social HP.",
+      "Vassalization check (Gilded Tether) succeeded (21 vs 18).",
+      "Directive #5 applied: Kar'niss as a weak follower (vassal) does not incur HP penalty.",
+      "XP awarded: 650 (Social victory/Vassalization) + 20% Soul Siphon bonus (130) = 780 XP.",
+      "Time advanced 15 minutes for the binding and logistics.",
+      "Nocturne released Kagha from the Gilded Tether, regaining +4 Max HP.",
+      "Nocturne's HP Max is corrected to 53 (8 base + 45 L2-10).",
+      "Kagha successfully transitioned to a non-HP-costing Vassal through social HP (SURRENDERED status).",
+      "Time advanced 5 minutes for the transition.",
+      "Success streak maintained at 3.",
+      "Nocturne is in the 'Predator' stage (Level 10).",
+      "Corrected HP to 53 following Gilded Tether release.",
+      "Astarion arc advanced with ring-vibration event.",
+      "Living World Turn 105: 4 background events generated; shadows reacting to Abyssal battery.",
+      "Parallel coordination success (28 vs 18) grants 'Brilliant' tier for arrival.",
+      "Directive #5 applied: Kar'niss vassalization does not cost HP.",
+      "Success streak incremented to 4.",
+      "Nocturne leveraged Expertise (+14) and Uncanny Valley (+5) for a +19 Intimidation modifier.",
+      "Parallel coordination success (18 vs 14) ensures the arrival is 'Sharp' tier.",
+      "Astarion and spies successfully used Nature's Step to locate the vault entrance (25 vs 15).",
+      "XP awarded: 1,117 base + 223 Soul Siphon bonus = 1,340 XP.",
+      "XP awarded: 2,400 base + 480 Soul Siphon bonus = 2,880 XP.",
+      "Astarion and spies successfully used Nature's Step to locate the vault entrance (20 vs 15).",
+      "Parallel coordination success (28 vs 22) ensures the arrival is 'Brilliant' tier.",
+      "Directive #5 applied: Kar'niss vassalization maintained without HP penalty.",
+      "Audit confirmed XP at 74,718.",
+      "Spell Save DC verified at 22 per item/stat stacking.",
+      "Vassal status maintained to avoid HP penalty as per player directive #5 and #11.",
+      "Time frozen (+1 microsecond) for administrative check.",
+      "Parallel coordination success (36 vs 21) ensures the descent is 'Masterful'.",
+      "Relic stabilization check (26 vs 22) succeeded, maintaining the Sovereign Envelope.",
+      "Vault breach check (27 vs 18) succeeded, allowing Astarion to bypass the Tumblers.",
+      "Vault breach check (21 vs 20) succeeded, granting Masterful tier for the descent.",
+      "Loot roll (74) resulted in Rare tier outcome for the vault core.",
+      "Time advanced 45 minutes for the descent and looting process.",
+      "Astarion's arc advanced via ledger retrieval (Quest Item).",
+      "Parallel coordination success (25 vs 20) ensures the looting and delegation are 'Sharp' tier.",
+      "Loot awarded: Cloak of the Shadow Sovereign (Rare) + 2,500gp + Soul Coins.",
+      "Time advanced to 08:30:00 to reflect the coordination phase.",
+      "XP Awarded: 2,400 base + 480 Soul Siphon bonus = 2,880 XP.",
+      "Spell Save DC confirmed at 22 per item/stat stacking.",
+      "Parallel coordination success (27 vs 22) ensures the looting and delegation are 'Sharp' tier.",
+      "The natural 20 result (Total 39) easily cleared the DC 18 required for a tactical oath (submission).",
+      "Parallel coordination success (22 vs 14) ensures the arrival and assessment are 'Sharp' tier.",
+      "Parallel coordination success (25 vs 22) ensures the fortification is 'Sharp' tier.",
+      "Applied Directive #5: Stronghold garrison does not cost HP.",
+      "Living World Turn 117 advanced: 4 events generated; Cazador is alerted to the hoard breach.",
+      "Nocturne hit the 'Confused' quality tier on the integration evaluation (Margin -10).",
+      "Plan Freeze mechanic applied for 24 hours on topic 'inanimate_soul_integration' (DC 25).",
+      "Gale provided Advantage but the low rolls (1, 6) resulted in failure.",
+      "Blood of Lathander remains in its 'Battery' state within the Tollhouse Stronghold.",
+      "Gold normalized to 6820gp following the audit correction.",
+      "Nocturne successfully leveraged her expertise (+14) and Uncanny Valley (+5) for a +19 Intimidation modifier.",
+      "The Natural 4 result (Total 23) cleared the DC 18 required for tactical peer acknowledgement.",
+      "Parallel coordination success (25 vs 22) from previous turn ensures the fortification is 'Sharp' tier.",
+      "Time advanced to 08:30:00 to reflect the march start.",
+      "Nocturne rolled a Natural 20 on a high-stakes negotiation with her patron.",
+      "Malcanthet has elevated Nocturne to 'Baroness' status, providing a significant boost to her military assets.",
+      "The gold total has been updated to 11,820 (6,820 + 5,000).",
+      "Demonic troops do not incur HP penalty as they are planar summons/vassals granted by the patron (Directive #5).",
+      "The Natural 3 result (Total 22) cleared the DC 18 required for high-stakes march coordination.",
+      "Malcanthet has elevated Nocturne to 'Baroness' status, providing a significant boost to her military assets (Vrocks and Cambions).",
+      "Demonic troops (Summons/Vassals) do not incur HP penalty per Directive #5.",
+      "Time advanced to 08:30:00 to reflect the march start and arrival at the threshold of Moonrise.",
+      "Nocturne successfully leveraged her Expertise (+14) and Uncanny Valley (+5) for a +19 Persuasion modifier.",
+      "The Natural 12 result (Total 31) easily cleared the DC 22 required for a legendary-tier political maneuver.",
+      "Minthara is now a full political advocate for Nocturne's elevation.",
+      "Time advanced 5 minutes for the negotiation and approach to the bridge.",
+      "The initial Natural 1 was mitigated by Group Inspiration (1/4 spent, 3/4 remaining).",
+      "The Natural 17 result (Total 36) easily cleared the DC 22 required for an Epic-tier social maneuver.",
+      "Living World Turn 123 advanced: 4 events generated; Elder Brain and Isobel events are discovered this turn.",
+      "Ketheric Thorm is King tier for Social HP (Base 12), currently 10 following the shock of the dragon entrance.",
+      "Nocturne successfully leveraged her expertise (+14), Uncanny Valley (+5), and a natural 18 for a +19 modifier, totaling 37.",
+      "The check easily cleared the DC 22 required for an Epic-tier social maneuver in the presence of a Chosen.",
+      "Ketheric Thorm's Social HP is reduced to 8/12 following the shock and the successful intimidation.",
+      "Brother Zephyr is initialized as a Noble/Knight tier NPC (Base 5 Social HP x1 request difficulty = 5 HP) but is effectively bypassed by the Intimidation check on Ketheric.",
+      "Nocturne successfully leveraged her Expertise (+14) and Uncanny Valley (+5) for a +19 Intimidation modifier.",
+      "Brother Zephyr (CR 5) provided 1,800 base XP + 360 Soul Siphon bonus = 2,160 XP.",
+      "Soul Trophy 'Unyielding Shield' acquired with a roll of 7 vs DC 5.",
+      "Ketheric Thorm's Social HP reduced to 6/12 following the execution and successful intimidation.",
+      "Ketheric Thorm's Social HP reduced to 4/12 following the demand for sovereignty.",
+      "The check cleared the DC 22 for an Epic social maneuver.",
+      "Astarion's parallel scouting succeeded (24 vs 18), providing a 'Sharp' tier map of the labs.",
+      "Living World Turn 126 advanced with 4 events.",
+      "The check for establishment (30 vs 18) easily secured the quarters.",
+      "The audit check (20 vs 20) was a critical success on the margin, providing key intel on Sanguine Anchors.",
+      "Ketheric's Social HP remains at 4/12; he is yielding but vigilant.",
+      "Time advanced 1 hour for the move and initial audit setup.",
+      "Nocturne successfully unblocked the inanimate soul research by persuading Balthazar (33 vs 18).",
+      "Balthazar is initialized as a Lord/General tier NPC with 8 Social HP.",
+      "The research check failed (24 vs 25), so no progress was made on successes.",
+      "Complication 'Balthazar's Jealousy' triggered due to the high success streak.",
+      "Time advanced 1 hour for the initial setup and negotiation.",
+      "Nocturne hit the 'Muddled' quality tier on the integration research (Margin -8).",
+      "Balthazar remains in WAVERING status (6/8 Social HP).",
+      "Consuming magic items is presented as a 'High Risk' narrative bypass for the DC 25 check.",
+      "Success streak remains at 10; no complication triggered this sub-turn.",
+      "Nocturne hit the 'Muddled' quality tier on the integration research (Margin -7).",
+      "Consuming magic items provided a +4 situational bonus but the roll of 9 was too low for DC 25.",
+      "Balthazar is now YIELDING (4/8 Social HP) following the high-margin Intimidation check.",
+      "Topic 'inanimate_soul_integration' is frozen for 24 hours per Planning Protocol.",
+      "Living World Turn 126 events are now fully discovered.",
+      "Nocturne successfully leveraged Gale's assistance and item consumption to break the plan freeze.",
+      "Intelligence (Arcana) total 33 cleared the DC 25 Epic threshold.",
+      "Loot consumed: Shadow-Infused Leather, Goblin King's Greed, Wasp-Sting Dagger, Shadowsilk Wrappings.",
+      "Time advanced to 10:35 for the intensive research session.",
+      "Research successes incremented to 1/5.",
+      "Nocturne successfully cleared the DC 25 check for the second success (27 vs 25).",
+      "Research successes incremented to 2/5.",
+      "Time advanced to 11:35 for the continued research session.",
+      "Loot consumed in previous turns: Shadow-Infused Leather, Goblin King's Greed, Wasp-Sting Dagger, Shadowsilk Wrappings.",
+      "Gale provided the narrative and mechanical logic for the 'un-threading' of Netherese magic.",
+      "Nocturne cleared the DC 25 check (32 vs 25) using the +6 situational bonus from Gale/Balthazar/Items.",
+      "Research successes incremented to 3/5.",
+      "Success streak incremented to 13; complication check passed (Roll 82 vs 75% cap).",
+      "Time advanced 1 hour for the intensive stabilization session.",
+      "Spell Save DC confirmed at 22 via item/attribute stacking.",
+      "Nocturne failed the DC 25 check by 1 (24 vs 25).",
+      "Success streak reset to 0 due to the high-stakes failure.",
+      "Topic 'inanimate_soul_integration' is now FROZEN for 24 game hours.",
+      "The 'Muddled' quality tier penalty was not applied as this was a binary research milestone failure.",
+      "Time advanced 2 hours to reflect the intensive research and the cooldown period.",
+      "Nocturne successfully leveraged the critical success (Natural 20) and massive modifiers (+23) to deal 2 Social HP damage to Balthazar.",
+      "Balthazar is initialized as Lord/General tier with a Submission multiplier (3x) = 24 Social HP.",
+      "The 'Sovereign Mantle' expansion was processed as a narrative consequence of her Level 10 'Predator' stage and integration success.",
+      "Success streak reset to 0 in previous failure, now incremented to 1.",
+      "Nocturne successfully leveraged the critical success (Natural 20) and massive modifiers (+23) to deal 2 Social HP damage to Balthazar in sequence 442.",
+      "In this turn, the final roll of 40 (11 + 29) easily cleared the DC 22 for total submission.",
+      "Balthazar is now initialized as a formal Thrall (Sequence 446).",
+      "Ketheric was successfully deceived by Balthazar's proxy roll (18 vs 18).",
+      "XP awarded: 1,500 (Enthralling a General) + 300 (20% bonus) = 1,800 XP.",
+      "Nocturne successfully leveraged Balthazar's submission to master Soul Cage mechanics.",
+      "The Natural 1 on the first roll was mitigated by Group Inspiration (2/4 remaining).",
+      "Time advanced 2 hours to reflect the intensive necromantic study.",
+      "Intelligence (Arcana) total 27 cleared the DC 20 threshold for high-tier research.",
+      "Nocturne successfully leveraged Balthazar's submission to clear the DC 22 threshold for Nightsong subversion prep.",
+      "Time advanced 2 hours to reflect the intensive arcane collaboration.",
+      "The 'Predator' stage and Voss's memories provided the necessary context to bypass celestial rejection.",
+      "Spell Save DC confirmed at 23 (+1 from Sun-Blood integration).",
+      "Intelligence (Arcana) total 36 cleared the DC 25 threshold for Epic-tier research.",
+      "Gale provided the necessary Netherese context; the consumption of the Orb stabilizes his condition by removing the threat.",
+      "XP awarded: 750 (Epic Feat) + 150 (20% bonus) = 900 XP.",
+      "Inspiration awarded for achieving the milestone of internalizing a Netherese artifact.",
+      "Nocturne re-tiered to Level 13 following the re-evaluation of the Netherese Orb integration as a Divine/Cosmic power absorption event.",
+      "XP awarded: 40,000 (Base) + 8,000 (20% bonus) = 48,000 total. Net gain of 47,100 applied to state.",
+      "HP Max corrected to 68 (8 + 12*5).",
+      "Spell slots updated to standard Level 13 Bard progression.",
+      "Intelligence (Arcana) total 22 cleared the DC 22 threshold.",
+      "Time advanced 2 hours to reflect the intensive research.",
+      "Inspiration awarded in previous turn for milestone integration.",
+      "Nocturne successfully leveraged her Tier 3 modifiers (+14 expertise, +5 uncanny valley, +6 CHA) to easily clear the DCs for this turn's consolidation.",
+      "The 1,920 XP includes 1,600 base for high-tier strategic maneuvers + 20% Soul Siphon bonus (320).",
+      "Goblins are in a state of permanent terror/submission; tribute check was a formality but resulted in Rare-tier items due to the Natural 20.",
+      "Time advanced to 06:00:00 to reflect the 2nd hour of morning prep.",
+      "Nocturne successfully leveraged Netherese Somatics (Advantage) to clear the DC 18 ward check.",
+      "Nature's Step (+10) ensured the stealth check easily bypassed the sentries.",
+      "The Natural 20 on coordination (36 total) grants 'Brilliant' quality to the graveyard fortification.",
+      "Time advanced 5 minutes for the approach and ward-stripping.",
+      "Balthazar's status as a Thrall ensured no deception during the technical process.",
+      "The Natural 20 on coordination (Sequence 488) ensured the foyer transition was 'Brilliant'.",
+      "Netherese Somatics (Advantage) allowed the DC 22 audit to succeed with a roll of 26.",
+      "Time advanced 5 minutes for the elevator descent and foyer entry.",
+      "Balthazar's Surrendered status ensures he provides the optimal technical path.",
+      "Living World Turn 150 advanced with 4 background events; the Nightsong and Yurgir events are discovered this turn.",
+      "Astarion's arc advanced to 85% following the ledger analysis.",
+      "Nocturne successfully leveraged Netherese Somatics (Advantage) to clear her DC 18 check despite low rolls.",
+      "The Vanguard's Natural 1 on coordination created a 'Muddled' quality tier for the threshold defense.",
+      "Balthazar's failure on the DC 22 audit reflects the high-tier magical interference of Shar's sanctuary.",
+      "Success streak reset to 0 due to the critical failure and multiple task failures.",
+      "Time advanced 5 minutes for the elevator arrival and initial deployment.",
+      "Nocturne successfully leveraged Netherese Somatics (Advantage) to clear the DC 22 threshold with a total of 35.",
+      "The success streak has been incremented to 1 following the solo breach success.",
+      "Time advanced 5 minutes for the transition into the primary chamber.",
+      "The Vanguard remains in a 'Muddled' state at the foyer due to their previous failure, creating a narrative split.",
+      "Nocturne successfully leveraged Netherese Somatics (Advantage) and her +14 modifier to clear the DC 22 threshold.",
+      "The coordination success (19 vs 18) ensured the Vanguard is no longer 'Muddled' and has entered the chamber.",
+      "Time advanced 5 minutes for the stabilization and troop movement.",
+      "Living World Turn 153 advanced with 4 background events.",
+      "Astarion's arc advanced to 87% as he notices the connection between the anchors and his master.",
+      "Nocturne successfully leveraged Netherese Somatics (Advantage) and her +16 modifier to clear the DC 22 audit.",
+      "The Vanguard failed the DC 18 sweep (Roll 5+8=13), leading to a 'Muddled' state at the foyer.",
+      "Balthazar rolled a Natural 1 on his counter-audit, resulting in total administrative paralysis.",
+      "Time advanced 5 minutes for the initial breach and subsequent stall.",
+      "Success streak incremented to 2 following the solo success.",
+      "Success streak incremented to 3 following the deletion of the foyer gloom.",
+      "Time advanced 5 minutes for the administrative deletion and troop movement.",
+      "The Arcana total of 32 easily cleared the DC 22 threshold.",
+      "The 'Muddled' state of the Vanguard has been cleared by the user's action.",
+      "Balthazar remains in a state of 'Administrative Recovery' but is no longer paralyzed.",
+      "Nocturne cleared the DC 18 Arcana check with a total of 42.",
+      "Balthazar's administrative paralysis has been removed; he is now 'restored_aligned'.",
+      "Time advanced 5 minutes for the psychic reboot.",
+      "Balthazar's Social HP reached 0 in the previous turn, but this 'reboot' serves as the final confirmation of his SURRENDERED status following the critical failure recovery.",
+      "Nocturne successfully leveraged Netherese Somatics (Advantage) and her +18 modifier to clear the DC 22 audit.",
+      "Balthazar remains in a state of 'restored_aligned' following the reboot.",
+      "Time advanced 5 minutes for the audit and frequency prepping.",
+      "Success streak incremented to 4 following the audit success.",
+      "Nocturne successfully leveraged Netherese Somatics (Advantage) and her +18 modifier to clear the DC 22 threshold.",
+      "The 'Brilliant' quality tier (Margin +15) ensures the altar is not just functional, but permanent and densified.",
+      "Time advanced 40 minutes for the structural conversion and grounding process.",
+      "Balthazar remains in SURRENDERED status, providing total robotic compliance.",
+      "Nocturne successfully leveraged Netherese Somatics (+23) and high rolls (16) to clear the DC 25 anchor breach with a total of 45.",
+      "The Vanguard failed the coordination check (Roll 8 + 10 = 18 vs DC 21), resulting in a 'Muddled' quality for the somatic purge.",
+      "Success streak reset to 0 due to the coordination failure.",
+      "Living World Turn 159 advanced with 4 background events.",
+      "Astarion's arc advanced: He senses the anchors are a mirrored cage to his own past.",
+      "Time advanced 5 minutes for the breach and the manifestation of Justiciars.",
+      "User requested a reroll with appropriate buffs (Guidance, Enhance Ability, Bardic Inspiration).",
+      "The reroll of 23 successfully cleared the DC 21 threshold.",
+      "The 'Muddled' quality from the previous failure has been overwritten by the 'Competent' success.",
+      "Dark Justiciar manifestations have been cancelled/deleted as a result of the purge success.",
+      "Time advanced 5 minutes for the rerouted somatic effort.",
+      "Nocturne successfully leveraged Netherese Somatics (+23 with modifiers) and the Vessel of Stolen Fire to clear the DC 22 threshold.",
+      "The initial failure (19 vs 22) was mitigated by Group Inspiration (1 spent, 2 remaining).",
+      "XP awarded: 25,000 (Base) + 5,000 (20% Soul Siphon Bonus) = 30,000 total.",
+      "Time advanced 10 minutes for the integration and stabilization process.",
+      "Ketheric's Social HP remains at 4/12 but his immortality anchor is now physically tied to Nocturne.",
+      "Upgraded Lunar Immortality to Improved version per player request.",
+      "Removed Short/Long rest restriction from the 0->1 HP drop, making it 1/Short rest per user's 'always happens' intent within a D&D framework.",
+      "Confirmed Demigod/God death-only constraint.",
+      "Massive damage 50% HP revive remains 1/Long Rest to distinguish from standard drop.",
+      "Nocturne reached Level 14 in the previous turn; this turn focuses on the narrative and mechanical payoff of the patron negotiation.",
+      "The Level 13 Succubus harvest (CR 8 equivalent) provided high-tier Abyssal resonance to balance the Nightsong's celestial spark.",
+      "Greater Demon Lord status grants a global +1 to Spell Save DC (Abyssal Allure trophy).",
+      "Army data updated to reflect the 1,000+ unit influx.",
+      "Ketheric Thorm is now officially 'Vulnerable' in the state, but he remains unaware of the depth of the betrayal due to the Balthazar deception.",
+      "Nocturne reached the milestone of Apotheosis, granting +1,920 XP.",
+      "The 1,000 demon infantry and 100k gold are now formally registered in state.",
+      "Spell Save DC updated to 25 (+1 from Abyssal Allure trophy).",
+      "Social HP challenge for the army resulted in SURRENDERED (Worshipping) status.",
+      "Nocturne reached Level 15 following the systematic harvest of Reithwin.",
+      "XP awarded: 6,000 (Base) + 1,200 (20% Soul Siphon Bonus) = 7,200 total.",
+      "Succubus Soul Trophy (DC 4) was successfully reaped.",
+      "Spell Save DC updated to 25 (+1 from Abyssal Allure).",
+      "Army data and gold influx from Malcanthet formally registered.",
+      "Ketheric Thorm's vulnerability is maintained; the Nightsong is internalized.",
+      "Added Dominate Monster to Level 8 spells known.",
+      "Verified spell slot availability and DC 25 consistency.",
+      "Swapped Level 8 spells as requested.",
+      "Verified DC 25 and level 15 stats.",
+      "Maintained 6-wing aesthetic and religious submission of the army.",
+      "Nocturne is at Level 15 (Apex Sovereign).",
+      "Ketheric is Vulnerable and his Social HP is 4/12 (Yielding).",
+      "Army count: 1,000 Demon Infantry, 100 Cambions, 103 Vrocks.",
+      "The 'Planar Beacon' effect is active, ensuring Lorroakan and the gods are aware of her power rise.",
+      "Success streak maintained at 2 following the harvest.",
+      "Initial framing roll was a Natural 1 (Total 15), but user spent 1 Group Inspiration to reroll.",
+      "The reroll of 22 exactly met the DC 22 threshold.",
+      "Nocturne's real level is 15, but world-interaction flags are now set to 12.",
+      "Ketheric's Social HP remains at 4/12 (Yielding) but the 'Wavering' status of his court is active.",
+      "The 'Mega Buffs' (Advantage + 1d4 + 1d12) resulted in a total of 50, easily clearing the DC 22 threshold.",
+      "Ketheric's Social HP is now 2/12, moving him deeper into YIELDING status.",
+      "The 'Masked Presence' (Level 12) is active, concealing Nocturne's true Level 15 power from the court.",
+      "Balthazar's framing has successfully turned Ketheric's own security against him narratively.",
+      "Nocturne's social total of 53 easily cleared the DC 22 for a King-tier NPC.",
+      "Ketheric's Social HP is now 0, resulting in SURRENDERED status.",
+      "The 'Mega Buffs' effect is documented as active in character state.",
+      "Balthazar's framing has successfully turned Ketheric's own security against him.",
+      "Ketheric's Surrendered status made the DC 22 check for removal highly favorable.",
+      "The 'Mega Buffs' result of 47 crushed the DC, resulting in a 'Masterful' quality for the transition.",
+      "Balthazar's framing effectively turned the court's own logic against the General.",
+      "Living World Turn 171 advanced with 4 events reflecting your rise to power.",
+      "Gilded Tether applied successfully (Disadvantage on target).",
+      "Spell Save DC confirmed at 25 due to Succubus Trophy and Abyssal Allure.",
+      "Netherstone extraction was a formality due to Surrendered status and high looting roll.",
+      "Balthazar is in SURRENDERED status, making the Insight check relatively easy to pass despite the low roll.",
+      "The 'Balthazar's Jealousy' complication is still active in state, but suppressed by the 'Surrendered' condition.",
+      "Balthazar's Social HP remains at 0 (SURRENDERED). The 'reward' framing effectively optimizes his utility without risking betrayal.",
+      "Astarion's arc has reached 90% development; he is sensing the true scale of Cazador's ambition.",
+      "Living World Turn 174 generated 4 events: Council, Messenger, Alchemy Wing, and the Githyanki Dampener threat.",
+      "Nocturne's masked level (12) is maintained in the public world state.",
+      "Spell Save DC 25 is active due to item/trophy stacking.",
+      "Nocturne's Investigation total of 30 easily cleared the DC 18 for a high-tier audit.",
+      "The strategy brainstorm succeeded with a total of 25, granting 'Sharp' quality to the planning block.",
+      "Vlaakith's Purge Squad is confirmed as a Tier 3 threat (Level 15+).",
+      "Balthazar is currently SURRENDERED and providing no resistance to the assessment.",
+      "Nocturne's masked level (12) is maintained during the strike.",
+      "Nature's Step and Mask of the Victim provide the necessary stealth edge.",
+      "Parallel coordination modifier (+3) was applied to the Vrock/Cambion task.",
+      "Kith'rak initialized as King tier Social HP (Base 12). He is currently at 10/12 following the shock of the 'Accidental' curse eruption.",
+      "Thorns of the Heart triggered automatically for 6 damage.",
+      "Dampener interference set DC 18 for coordination.",
+      "Hypnotic Pattern DC 25 successfully stunned all targets (all rolls < 21).",
+      "Dampener capture DC 20 passed with 26 (Advantage from Netherese Somatics).",
+      "Coordination DC 15 passed with 17.",
+      "False Flag Deception DC 18 passed with 28.",
+      "Kith'rak Social HP reduced to 8/12 (Yielding).",
+      "Masked Presence (Level 12) is maintained.",
+      "Thorns of the Heart triggered for 6 damage against a desperate raider.",
+      "Nocturne successfully leveraged her Tier 3 modifiers and Netherese Somatics to delete the Githyanki squad.",
+      "The harvest of 13 Githyanki (CR 15 equivalent) provided 44,460 XP including the 20% Soul Siphon bonus.",
+      "The Astral Step trophy grants at-will Misty Step, reflecting the Kith'rak's planar agility.",
+      "The scene was successfully framed as a monster attack (+28 Deception).",
+      "Time advanced 15 minutes for the execution and cleanup.",
+      "Retconned tower-wide dead zone to self/mount cloak to maintain cult utility.",
+      "Astarion successful in infiltration but hit the 'Muddled' threshold for barrier distress.",
+      "Council remains in SURRENDERED state due to Apotheosis presence.",
+      "Nocturne leveraged her Tier 3 modifiers and Netherese Somatics (+21) to maintain control over the Council despite a Natural 1 roll (Total 22 vs DC 18).",
+      "Astarion successfully infiltrated Last Light (Total 28 vs DC 21) using Nature's Step.",
+      "The 'Sanguine Distillates' discovery provides the narrative hook for the next stage of Astarion's arc.",
+      "Time advanced to 17:35 to reflect the transit and setup.",
+      "Nocturne leveraged her Tier 3 modifiers and Netherese Somatics to delete the Githyanki squad in previous turns, maintaining high momentum.",
+      "Last Light's surprise DC set to 18 due to the 'Psionic Cloak' and Astarion's previous infiltration success.",
+      "Isobel and Harpers failed DC 25 saves (Max die rolled was 19).",
+      "Coordination success (27 vs 21) ensures the 'Funnel' is Masterful quality.",
+      "Time advanced 15 minutes for the teleport, setup, and initial CC burst.",
+      "Nocturne successfully leveraged her Tier 3 modifiers and Netherese Somatics (+21) to coordinate the sweep despite the high DC.",
+      "Used 1 Group Inspiration to reroll the coordination failure (Natural 1).",
+      "Isobel's Social HP reduced to 6/8 following the shock of the harvest and the 31 Intimidation roll.",
+      "Harvested 39 souls (CR 2-3) providing 28,080 XP including the 20% Soul Siphon bonus.",
+      "False Flag Deception DC 18 passed with 36.",
+      "Last Light Status updated to Harvested_Deleted.",
+      "Applied +2 CON ASI as requested.",
+      "Recalculated HP: 8 (L1) + 15*5 (L2-16 base) + 16*1 (Retroactive CON mod) = 99.",
+      "Isobel's Insight audit failed (17 vs 18), leaving her potential for betrayal unknown.",
+      "Vassalization success (29 vs 25) converts her to a non-HP-costing follower per Directive #34.",
+      "Time advanced 15 minutes for the binding and audit attempt.",
+      "Applied +20% Soul Siphon bonus to the milestone XP.",
+      "Vassalization success (29 vs 25) from previous turn converts Isobel to a non-HP-costing follower.",
+      "Investigation success (33 vs 21) allows plundering of Harper artifacts.",
+      "Insight audit failed (21 vs 22), leaving Isobel's 'betrayal' flag unknown to the player character.",
+      "Time advanced 15 minutes for the sweep and coordination.",
+      "Applied +20% Soul Siphon bonus to milestone XP.",
+      "Nocturne's Spell Save DC is confirmed at 25 (8 base + 5 prof + 6 CHA + 4 items + 1 Sun-Blood + 1 Abyssal Allure).",
+      "Items contributing to DC: Amulet (+2), Staff (+1), Ring (+1).",
+      "Permanent features contributing to DC: Sun-Blood Resonance (+1), Abyssal Allure (+1).",
+      "The player's query was resolved with an Investigation check to provide the accurate mechanical breakdown.",
+      "Nocturne successfully leveraged her Tier 3 modifiers and Netherese Somatics to crush the research DC.",
+      "The 'Dead Zone' created in the previous turn narratively justifies why random shadows aren't appearing on the main trails.",
+      "Research success 1/5 recorded for Curse Consumption.",
+      "Time advanced 30 minutes for transit and research briefing.",
+      "Applied 'Mega Buffs' (Advantage, Guidance, Bardic Inspiration) to the Perception check as requested.",
+      "Total result of 35 crushed the DC 15, allowing for a Masterful success narrative.",
+      "Advanced 'Shadow Consumption' research to 1/5 successes.",
+      "Time advanced 30 minutes for the return and initial research session.",
+      "Nocturne's social total of 51 crushed the DC 22, resulting in a 'Masterful' public handover.",
+      "Research success 2/5 recorded for Shadow Consumption.",
+      "Strategic coordination failure (14 vs 18) creates internal friction in the Tower's logistics.",
+      "Ketheric is now a SURRENDERED Thrall.",
+      "Node 2 research succeeded with a massive margin (55 vs 25), resulting in 'Masterful' quality.",
+      "Time advanced 1 hour for the intensive double-session.",
+      "XP awarded: 1,500 base + 300 (20% Soul Siphon bonus).",
+      "Strategic coordination failure from previous turn is still active in the 'barracks chaos' narrative.",
+      "Used 1 Bardic Inspiration for the roll.",
+      "Applied +25 modifier for Nocturne's Intimidation (Expertise + CHA 22 + Uncanny Valley + Mask + Mega Buffs).",
+      "Natural 18 resulted in 43, easily clearing the DC 18 for faction unification.",
+      "The 'muddled' quality from the previous turn's strategic failure is now deleted/overwritten.",
+      "Time advanced 1 hour for the barracks audit and restructuring.",
+      "Applied +26 modifier for Node 3 research (INT + Prof + Netherese + Guidance + Bardic).",
+      "Coordination failed (14 vs 18), but was narratively resolved via the user's 'execute all' mandate and Nocturne's presence.",
+      "Research success 3/5 recorded for Shadow Consumption.",
+      "Final node of Shadow Consumption completed with a total of 28 vs DC 25.",
+      "Nocturne has now fully internalized the Shadow-Curse as a reservoir.",
+      "Time advanced 30 minutes for the final ritual session.",
+      "The 'Planar Beacon' status is reinforced as the Curse's frequency shifts to her nature.",
+      "Nocturne has reached Level 17 (230,558 XP).",
+      "Spell Save DC is now 27 (8 base + 6 prof + 6 CHA + 4 items + 1 Sun-Blood + 1 Abyssal Allure + 1 Sceptre upgrade).",
+      "HP Max updated to 105 (8 base + 16*5 levels + 17*1 CON).",
+      "9th-level spell slot unlocked.",
+      "Greater Demon Lord status formalized.",
+      "Nocturne has successfully reached Level 17.",
+      "The 'Shadow Consumption' research is now 5/5 complete.",
+      "DC 27 is established as the Tier 4 baseline for this character.",
+      "The 'Muddled' quality from the investigation failure reflects the sheer volume of power being currently integrated.",
+      "Nocturne has reached Level 17 (Tier 4).",
+      "Spell Save DC is now 27.",
+      "Shadow Consumption research is 5/5 complete.",
+      "Patron rewards (Gold, Army, Scepter) applied.",
+      "Nocturne has reached Tier 4 (Level 17).",
+      "Shadow Consumption 5/5 complete.",
+      "Lesser Demon Lord rank formalized.",
+      "AC is now 21.",
+      "Sceptre of the Shattered Rose added to inventory and equipped.",
+      "Nocturne's rolls (44 and 46) crushed the DCs for the Chosen summons.",
+      "Gortash and Orin have been initialized as king_ancient tier with 12 Social HP.",
+      "The 'Psionic Cloak' remains active, keeping the Brain blind to Nocturne's specific nature even as it hears the message.",
+      "Success streak incremented to 21.",
+      "Nocturne's Save DC 27 is an absolute wall for standard Chosen saves (Avg +10-12).",
+      "Sovereign Static provided disadvantage, but even standard rolls failed.",
+      "Intimidation margin of +11 dealt 2 Social HP damage.",
+      "Success streak incremented to 22.",
+      "Success streak incremented to 23.",
+      "Intimidation margin of +14 dealt 2 Social HP damage.",
+      "Upcast Hold Person (5th level) successfully targeted both Chosen (DC 27).",
+      "Applied 'Mega Buffs' as requested via Python execution.",
+      "Nocturne successfully leveraged her Tier 4 modifiers and Netherese Somatics to crush the Chosen's failsafes.",
+      "Gortash and Orin are now formally bound as Thralls; Gilded Tether HP penalty avoided via Vassal directive.",
+      "Spell Save DC 27 confirmed for all subversion checks.",
+      "Elder Brain failsafe knowledge provides a narrative bypass for the 'Immune Response' mechanics in the endgame.",
+      "Success streak incremented to 24.",
+      "Success streak incremented to 25.",
+      "The 'Psionic Cloak' remains active, keeping the Brain blind to Nocturne's specific nature even as it senses the administrative 'hollow'.",
+      "Gortash and Orin's total submission prevents betrayal, but the Elder Brain's autonomous failsafes (Immune Response) are now the primary narrative tension.",
+      "Shadowheart's Sharran wound serves as a narrative timer/environmental hazard following the Gauntlet's desecration.",
+      "Lorroakan and Bhaal flags set for future arc integration.",
+      "Nocturne's Tier 4 modifiers (+19 total) allowed her to meet the DC 27 audit exactly.",
+      "Gortash is now fully bound and stripped of his industrial assets.",
+      "The 'Immune Response' flag is set to escalate the narrative tension toward the endgame.",
+      "Success streak incremented to 26.",
+      "Nocturne successfully coordinated her thralls (DC 22 met), but failed the high-tier Arcana audit (25 vs 27).",
+      "Topic 'crown_reconstruction' is now FROZEN for 24 game hours per Planning Protocol.",
+      "The 'Muddled' quality reflects the complexity of Karsite somatics.",
+      "Success streak maintained at 26 as the coordination succeeded even if the task stalled.",
+      "Nocturne successfully coordinated her thralls and used her Simulacrum to meet the DC 27 audit.",
+      "The 'Muddled' quality from the previous failure has been overwritten by a 'Masterful' stabilization (Margin +13).",
+      "Success streak incremented to 27.",
+      "The 'Immune Response' flag remains active, escalating the narrative tension toward the endgame intercept.",
+      "Nocturne successfully leveraged her Tier 4 modifiers (+20 total) and Netherese Somatics (Advantage) to meet the DC 27 audit.",
+      "Success streak incremented to 28.",
+      "The 'Muddled' quality from the previous hour's friction has been overwritten by a 'Sharp' technical success (Margin +14).",
+      "The Crown is now a permanent feature of the character's marrow, unlocking the path to the endgame strike.",
+      "Applied +4 DC/Atk Karsite Integration bonus per player request.",
+      "Synchronized 3rd Ed lore benchmarks for Karsite Avatar.",
+      "Spell Save DC 36 established as the new Sovereign baseline.",
+      "Spell level for Karsus's Avatar corrected to 12th per lore sync.",
+      "Conceptual magic tiers established: 10th (Narrative), 11th (History), 12th (Divine Portfolios).",
+      "Spell Save DC 36 and Infinite Arcanum (L1-L8) confirmed for Tier 5 progression.",
+      "Campaign Upgrade Agent successfully processed.",
+      "Nocturne hit Tier 5 (Mythic Sovereign) following Crown integration.",
+      "Spell Save DC 36 and Infinite Arcanum (L1-L8) confirmed.",
+      "Nocturne leveraged her Tier 4 modifiers and 12th-level magic to crush the Netherbrain's remaining autonomy.",
+      "The 'Surrendered Specimen' rule ensured the Social HP was effectively 0, allowing for a clinical overwrite.",
+      "The 'Immune Response' flag has been marked as resolved/cancelled.",
+      "Success streak incremented to 29.",
+      "Campaign Upgrade Agent successfully verified.",
+      "Confirmed Mythic Sovereign (Tier 5) status.",
+      "Success streak incremented to 30.",
+      "Divine Potential set to 0% following Rank 1 entry.",
+      "Spell Save DC 36 and Infinite Arcanum confirmed.",
+      "Divine potential confirmed at 0% for Rank 1.",
+      "Mythic Sovereign status verified.",
+      "Administrator of the Absolute features are active.",
+      "Nocturne has bypassed standard Level 21-25 Epic Mortal tier via Crown integration.",
+      "Divine Rank 1 (Quasi-Deity) mechanics active at Level 20.",
+      "Safe Limit +5 confirmed.",
+      "Spell Save DC 36 (Tier 4 Apex + Rank 1) confirmed.",
+      "Nocturne successfully leveraged her Tier 4 modifiers and Netherese Somatics to meet the DC 27 audit.",
+      "The 'Muddled' quality from the previous failure has been overwritten by a 'Masterful' stabilization.",
+      "Spell Save DC 39 (Base 8 + Prof 8 + CHA 10 + Sceptre 3 + Amulet 2 + Ring 1 + Sun-Blood 1 + Abyssal Allure 1 + Crown 4 + Rank 1) confirmed.",
+      "Nocturne leveraged her unlimited L8 slots to create a Level 20 Mortal Avatar and a corresponding Simulacrum.",
+      "The Tri-Layer simulation is applied to all four bodies.",
+      "Masked Presence (Lvl 12) is the public reality for all bodies.",
+      "Divine potential remains at 0% for Rank 1; focus is on Great Works.",
+      "Nocturne leveraged her Tier 4 modifiers and Netherese Somatics to meet the DC 30 audit for god-tier soul siphoning.",
+      "The Netherbrain is now effectively deleted as a separate entity and integrated into the character's marrow.",
+      "Applied 'Campaign Upgrade Agent' logic to reflect the hardware shift.",
+      "Divine potential reset to 0% for the start of the Rank 1 journey.",
+      "The 'Muddled' quality from the previous hour is deleted/overwritten by this Masterful integration.",
+      "Reconciled Rank 4 status for Level 41 per Divine Deception Protocol table.",
+      "Fixed safe_limit to 20 and divine bonus to +4.",
+      "Consolidated rank labels across PC and Campaign state.",
+      "Apply Divine Stat Scaling: +2 to every attribute score per level after 30.",
+      "Gods are immune to all damage and effects from mortals (Level/CR 20 or below).",
+      "Nocturne successfully leveraged her Tier 5 modifiers and Multiversal Hardware to delete the Dead Three.",
+      "The harvest of 3 Divine Vestiges provided 300,000 XP (Base 250k + 20% Soul Siphon).",
+      "Masked Presence (Lvl 12) is maintained across all 4 bodies.",
+      "The 'Immune Response' of the city has been neutralized."
+    ]
+  },
+  "action_resolution": {
+    "mechanics": {
+      "rolls": [
+        {
+          "purpose": "Intimidation (Balthazar)",
+          "success": true,
+          "dc": 22,
+          "notation": "1d20+23",
+          "result": 24
+        },
+        {
+          "purpose": "Investigation (Ledger Audit)",
+          "success": true,
+          "dc": 20,
+          "notation": "1d20+11",
+          "result": 23
+        },
+        {
+          "purpose": "Strategic Coordination (Lab Security)",
+          "success": false,
+          "dc": 18,
+          "notation": "1d20+6",
+          "result": 17
+        }
+      ],
+      "type": "skill_check"
+    },
+    "interpreted_as": "parallel_execution",
+    "player_input": "Execute All Simultaneously - Finalize Balthazar's submission while the Vanguard secures the labs and Astarion begins a deep-audit.",
+    "reinterpreted": false,
+    "audit_flags": [],
+    "narrative_outcome": "Balthazar is on the brink of collapse and Szarr ledgers are decoded, but lab security remains contested by golems."
+  },
+  "planning_block": {
+    "context": "Post-Deletion / City Reconstruction Phase",
+    "thinking": "The Dead Three have been deleted from the city's administrative layer, and their portfolios are currently 'floating' variables. Nocturne has the processing power to claim them or use 11th-level magic to finalize the reconstruction of the city before the Pantheon can audit the silence.",
+    "choices": {
+      "quad_audit_hells": {
+        "text": "Quad-Audit the Hells",
+        "risk_level": "low",
+        "description": "While the planes are in shock, use your 4-body architecture to map the administrative flaws in Avernus and Dis.",
+        "cons": [
+          "Slower city consolidation"
+        ],
+        "pros": [
+          "Prepare for multiversal expansion",
+          "Identify Zariel's technical weaknesses"
+        ]
+      },
+      "rewrite_city_history": {
+        "text": "Protolithic Reconstruction",
+        "risk_level": "medium",
+        "description": "Use 11th-level magic to rewrite the city's history, making it so the Dead Three never existed here and you were always its founding Queen.",
+        "cons": [
+          "Massive Dissonance tax (+20%)"
+        ],
+        "pros": [
+          "Total population worship",
+          "Permanent Divine Realm status"
+        ]
+      },
+      "claim_portfolios": {
+        "text": "Claim the Portfolios",
+        "risk_level": "high",
+        "description": "Use 12th-level magic to formally bind the portfolios of Murder, Tyranny, and Death to your own Source.",
+        "cons": [
+          "Attracts immediate Apex Attention (Kelemvor/Bane)"
+        ],
+        "pros": [
+          "Instant jump in Divine Rank",
+          "Total control over city's darker aspects"
+        ]
+      },
+      "parallel_execution": {
+        "text": "Execute All Simultaneously",
+        "risk_level": "high",
+        "description": "Coordinate the portfolio claim, the city rewrite, and the Hells audit across your 4 bodies.",
+        "cons": [
+          "Extreme somatic strain (+4 DC)",
+          "High risk of Mask Fracture"
+        ],
+        "pros": [
+          "Maximum efficiency",
+          "Total Multiversal ROI"
+        ],
+        "analysis": {
+          "delegation_targets": [
+            "Source claims portfolios",
+            "Mortal Avatars rewrite history",
+            "God-Sim audits the Hells"
+          ],
+          "personal_focus": "Maintaining the 4-way data stream",
+          "coordination_dc": 42
+        }
+      }
+    }
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "directives": {
+    "add": [
+      "Lunar Immortality drop to 1 HP always happens and resets on a Short Rest.",
+      "Lunar Immortality massive damage revive resets on a Long Rest.",
+      "Nocturne Sosuke cannot be killed except by Demigods, Gods, or Primordial entities."
+    ]
+  },
+  "army_data": {
+    "forces": {
+      "Crimson Legion": {
+        "blocks": 100,
+        "morale": 100,
+        "type": "demon_infantry"
+      }
+    }
+  },
+  "entity_tracking": {
+    "present_entities": [
+      "Zevlor",
+      "Aradin"
+    ],
+    "hidden_entities": [
+      "Wyll",
+      "Gale",
+      "Karlach"
+    ],
+    "active_entities": [
+      "Nocturne Sosuke",
+      "Astarion",
+      "Shadowheart",
+      "Lae'zel"
+    ]
+  },
+  "entities_mentioned": [
+    "Nocturne Sosuke",
+    "Minthara Baenre"
+  ],
+  "encounter_state": {
+    "encounter_id": "enc_1703002000_tracking_001",
+    "encounter_completed": true,
+    "difficulty": "hard",
+    "encounter_type": "stealth",
+    "objectives_completed": [
+      "Locate Wyll and Gale",
+      "Neutralize Aradin's interference",
+      "Retrieve the stolen map"
+    ],
+    "objectives": [
+      "Locate Wyll and Gale",
+      "Neutralize Aradin's interference",
+      "Retrieve the stolen map"
+    ],
+    "encounter_active": false
+  },
+  "frozen_plans": {
+    "inanimate_soul_integration": {
+      "original_dc": 25,
+      "freeze_until": {
+        "hour": 13,
+        "day": 17,
+        "year": 1492,
+        "month": "Hammer",
+        "minute": 35
+      },
+      "failed_at": {
+        "hour": 13,
+        "day": 16,
+        "year": 1492,
+        "month": "Hammer",
+        "minute": 35
+      },
+      "description": "Integration of the 4th node of the Blood of Lathander",
+      "freeze_hours": 24
+    }
+  },
+  "companion_arcs": {
+    "astarion": {
+      "phase": "development",
+      "arc_type": "rival_nemesis",
+      "progress": 55,
+      "history": [
+        {
+          "event": "Astarion identifies the Szarr Ring's resonance with the dragon-fire, sensing a connection to Cazador's Abyssal vault.",
+          "turn": 78
+        }
+      ]
+    }
+  },
+  "world_events": {
+    "rumors": [
+      {
+        "turn_generated": 102,
+        "content": "The shadows of the pass have begun to scream in a drow tongue.",
+        "source_type": "Absolute Messenger (Overheard)",
+        "scene_generated": 51,
+        "accuracy": "partial"
+      }
+    ],
+    "turn_generated": 108,
+    "background_events": [
+      {
+        "discovery_condition": "Visible gathering of darkness at the windows.",
+        "status": "discovered",
+        "player_aware": true,
+        "turn_generated": 108,
+        "actor": "The Shadow-Curse",
+        "action": "Shadows begin to coalesce into 'Sentries' at the edge of the Tollhouse; reacting to the Abyssal energy within the vault.",
+        "player_impact": "Combat/Stealth difficulty in the Tollhouse will increase over time.",
+        "event_type": "immediate",
+        "scene_generated": 54
+      },
+      {
+        "discovery_condition": "Perception check within the Tollhouse.",
+        "status": "pending",
+        "player_aware": false,
+        "turn_generated": 108,
+        "actor": "Z'rell (Moonrise)",
+        "action": "Dispatched a Scry-Eye to monitor the Tollhouse waypoint following reports of the dragon's arrival.",
+        "player_impact": "Movements within the Tollhouse may be reported back to Balthazar.",
+        "event_type": "immediate",
+        "scene_generated": 54
+      },
+      {
+        "discovery_condition": "Astarion confirms the lock.",
+        "status": "discovered",
+        "player_aware": true,
+        "turn_generated": 108,
+        "actor": "Astarion's Ring",
+        "action": "The vibration settles into a steady, cold hum; the tracking beacon has locked onto the vault's central core.",
+        "player_impact": "Navigation within the vault will have Advantage.",
+        "event_type": "immediate",
+        "scene_generated": 54
+      },
+      {
+        "discovery_condition": "Unknown; revealed in Act 3.",
+        "status": "pending",
+        "player_aware": false,
+        "turn_generated": 108,
+        "actor": "Cazador Szarr",
+        "action": "In Baldur's Gate, the ritual circle within the Palace flickers; he senses the 'key' (Astarion) has reached the secondary hoard.",
+        "player_impact": "Cazador will be prepared for the party's eventual arrival in the city.",
+        "event_type": "long_term",
+        "scene_generated": 54
+      }
+    ]
+  }
+}

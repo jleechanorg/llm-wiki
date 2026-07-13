@@ -1,0 +1,411 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "death_saves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "proficiency_bonus": 2,
+    "background": "Torn between two worlds",
+    "mbti": "INFP",
+    "class": "Dark Jedi / Sith Apprentice",
+    "attributes": {
+      "strength": 12,
+      "dexterity": 15,
+      "intelligence": 8,
+      "wisdom": 14,
+      "charisma": 10,
+      "constitution": 13
+    },
+    "combat_stats": {
+      "speed": 30,
+      "passive_perception": 12,
+      "initiative": 2
+    },
+    "status_conditions": [],
+    "string_id": "pc_luke_skywalker_001",
+    "temp_hp": 0,
+    "spells_known": [],
+    "name": "Luke Skywalker",
+    "experience": {
+      "needed_for_next_level": 2700,
+      "total_earned": 850,
+      "current": 850,
+      "to_next_level": 0
+    },
+    "saving_throw_proficiencies": [
+      "Strength",
+      "Wisdom"
+    ],
+    "resources": {
+      "hit_dice": {
+        "used": 0,
+        "total": 1
+      },
+      "consumables": {
+        "arrows": 0,
+        "antidote": 0,
+        "antitoxin": 0,
+        "healing_potions": 0,
+        "crossbow_bolts": 0,
+        "other_notable": [],
+        "torches": 0,
+        "greater_healing_potions": 0,
+        "rations_days": 0,
+        "superior_healing_potions": 0,
+        "oil_flasks": 0,
+        "sling_bullets": 0,
+        "water_days": 0
+      },
+      "spell_slots": {
+        "level_2": {
+          "used": 0,
+          "total": 0
+        },
+        "level_1": {
+          "used": 0,
+          "total": 0
+        },
+        "level_3": {
+          "used": 0,
+          "total": 0
+        }
+      },
+      "light_sources": {
+        "current": "None",
+        "backup": [],
+        "duration_remaining": "N/A"
+      },
+      "gold": 0,
+      "exhaustion_level": 0,
+      "inspiration": false,
+      "class_features": {},
+      "short_rests": {
+        "used": 0,
+        "total": 1
+      },
+      "long_rests_since_last": 0
+    },
+    "alignment": "Neutral Evil",
+    "features": [
+      "Force Push",
+      "Saber Throw",
+      "Force Choke (initial)",
+      "Mind Trick",
+      "Prosthetic Right Hand",
+      "Force Drain (Initial)"
+    ],
+    "hp_max": 9,
+    "level": 1,
+    "skills": [
+      "Acrobatics",
+      "Athletics",
+      "Insight",
+      "Piloting",
+      "Intimidation"
+    ],
+    "hp_current": 9,
+    "age": 21,
+    "knowledge": [
+      "Seventh Sister's history as an Inquisitor",
+      "Seventh Sister's favored methods (probe droids, spinning lightsaber)",
+      "Seventh Sister's growing interest in ancient Force artifacts (pre-rogue)",
+      "Imperial intelligence's lack of understanding of Seventh Sister's current motives",
+      "Seventh Sister is on Moraband seeking knowledge of ancient Force users who pursued 'true balance'",
+      "Seventh Sister is searching for a 'conduit' artifact or individual to channel raw Force energy",
+      "Seventh Sister is located in a specific, large, ancient tomb on Moraband shrouded in lightning",
+      "Seventh Sister has an incredibly powerful, unknown, and alien Force-user ally"
+    ],
+    "armor_class": 12,
+    "active_effects": [],
+    "equipment": {
+      "backpack": {
+        "Personal TIE Defender (ship)": {
+          "status": "landed"
+        }
+      },
+      "money": "0 gp",
+      "armor": "Imperial Command Uniform",
+      "weapons": [
+        "Vader's Gift (Crimson Lightsaber)"
+      ]
+    }
+  },
+  "world_data": {
+    "kingdom": "Galactic Empire (dominant)",
+    "world_time": {
+      "minute": 0,
+      "time_of_day": "Night",
+      "day": 2,
+      "second": 0,
+      "year": 5,
+      "hour": 22,
+      "month": "ABY",
+      "microsecond": 0
+    },
+    "current_location": "loc_moraband_valley_001",
+    "locations": {
+      "loc_moraband_orbit_001": {
+        "environmental_effects": [
+          "dark side presence",
+          "cosmic radiation"
+        ],
+        "description": "The desolate, crimson-hued planet of Moraband hangs in the void, its surface scarred by millennia of dark side energies. The oppressive weight of the dark side permeates the system.",
+        "connected_to": [
+          "loc_moraband_valley_001"
+        ],
+        "display_name": "Moraband System - Planetary Orbit",
+        "entities_present": [
+          "pc_luke_skywalker_001",
+          "npc_probe_droid_001"
+        ]
+      },
+      "loc_moraband_valley_001": {
+        "environmental_effects": [
+          "intense dark side presence",
+          "strong winds",
+          "ancient decay"
+        ],
+        "description": "A desolate, wind-scoured valley on Moraband, dominated by towering, spire-like tombs of ancient Sith Lords. The dark side presence here is overwhelming.",
+        "connected_to": [
+          "loc_moraband_orbit_001"
+        ],
+        "display_name": "Moraband - Valley of the Dark Lords",
+        "entities_present": [
+          "pc_luke_skywalker_001"
+        ]
+      },
+      "loc_star_destroyer_bridge_001": {
+        "environmental_effects": [],
+        "description": "The cold, sterile air of a Star Destroyer's bridge, humming with quiet efficiency. Viewports show the endless river of hyperspace.",
+        "connected_to": [],
+        "display_name": "Star Destroyer's Bridge",
+        "entities_present": [
+          "npc_darth_vader_001"
+        ]
+      },
+      "loc_star_destroyer_hangar_001": {
+        "environmental_effects": [
+          "loud engine hum",
+          "metallic scent"
+        ],
+        "description": "A vast, echoing space within the Star Destroyer, filled with numerous Imperial starfighters and bustling with droids and crew. Your TIE Defender stands ready.",
+        "connected_to": [
+          "loc_star_destroyer_bridge_001",
+          "loc_star_destroyer_quarters_001"
+        ],
+        "display_name": "Star Destroyer Hangar Bay",
+        "entities_present": []
+      }
+    },
+    "political_situation": "The Galactic Empire has consolidated power under Palpatine, with Luke and Vader as key enforcers. The Rebellion is a scattered remnant. New Force traditions are stirring."
+  },
+  "npc_data": {
+    "Darth Vader": {
+      "class": "Sith Lord",
+      "mbti": "ISTJ",
+      "hidden": false,
+      "attributes": {
+        "strength": 20,
+        "dexterity": 18,
+        "intelligence": 16,
+        "wisdom": 18,
+        "charisma": 16,
+        "constitution": 20
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 4,
+        "passive_perception": 18
+      },
+      "faction": "faction_galactic_empire_001",
+      "conscious": true,
+      "present": false,
+      "gender": "male",
+      "string_id": "npc_darth_vader_001",
+      "recent_actions": [
+        "Revealed truth to Luke",
+        "Cut off Luke's hand",
+        "Made offer to Luke"
+      ],
+      "attitude_to_party": "obsessive, manipulative",
+      "status": "On Star Destroyer's Bridge",
+      "hp_max": 150,
+      "level": 20,
+      "hp_current": 150,
+      "age": 45,
+      "knowledge": [
+        "Luke is his son",
+        "Rebel Alliance leadership"
+      ],
+      "relationships": {
+        "pc_luke_skywalker_001": "father-son, manipulative, mentor"
+      },
+      "role": "Sith Lord, Luke's Father",
+      "armor_class": 22
+    },
+    "Seventh Sister": {
+      "class": "Inquisitor",
+      "mbti": "ISTP",
+      "hidden": false,
+      "attributes": {
+        "strength": 14,
+        "dexterity": 16,
+        "intelligence": 15,
+        "wisdom": 13,
+        "charisma": 16,
+        "constitution": 14
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 3,
+        "passive_perception": 13
+      },
+      "faction": "faction_imperial_rogue_001",
+      "conscious": true,
+      "present": false,
+      "gender": "female",
+      "string_id": "npc_seventh_sister_001",
+      "recent_actions": [],
+      "attitude_to_party": "unknown, potential threat/ally",
+      "status": "Rogue, building power base",
+      "hp_max": 80,
+      "level": 15,
+      "hp_current": 80,
+      "age": 30,
+      "knowledge": [
+        "Lost Force traditions",
+        "Imperial secrets"
+      ],
+      "relationships": {},
+      "role": "Rogue Inquisitor",
+      "armor_class": 18
+    },
+    "Leia Organa": {
+      "class": "Diplomat/Commander",
+      "mbti": "ENTJ",
+      "hidden": false,
+      "attributes": {
+        "strength": 10,
+        "dexterity": 10,
+        "intelligence": 14,
+        "wisdom": 14,
+        "charisma": 18,
+        "constitution": 12
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 0,
+        "passive_perception": 14
+      },
+      "faction": "faction_rebel_alliance_001",
+      "conscious": true,
+      "present": false,
+      "gender": "female",
+      "string_id": "npc_leia_organa_001",
+      "recent_actions": [
+        "Rescued by Lando",
+        "Fleeing Imperial forces"
+      ],
+      "attitude_to_party": "ally, concerned",
+      "status": "Grieving, leading scattered Rebel remnant, on the run",
+      "hp_max": 35,
+      "level": 5,
+      "hp_current": 35,
+      "age": 22,
+      "knowledge": [
+        "Luke is on Cloud City",
+        "Rebel Alliance strategy"
+      ],
+      "relationships": {
+        "pc_luke_skywalker_001": "ally, friend"
+      },
+      "role": "Princess, Rebel Leader",
+      "armor_class": 10
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "last_story_mode_sequence_id": 76,
+    "attribute_system": "D&D",
+    "companions_enabled": false,
+    "turns_since_last_random_encounter": 0,
+    "character_creation": {
+      "in_progress": false,
+      "method_chosen": "AIGenerated",
+      "current_step": 7
+    },
+    "world_type": "Custom World",
+    "campaign_path": "The Emperor's Fist",
+    "random_encounter_frequency_turns": 2,
+    "core_memories": [
+      "Luke Skywalker chose 'The Chasm' campaign path.",
+      "Luke Skywalker's character sheet for 'The Chasm' campaign approved.",
+      "Luke Skywalker accepted Darth Vader's offer on Bespin, beginning a two-year apprenticeship under him and joining the Empire.",
+      "Luke Skywalker departed the Star Destroyer in his TIE Defender to hunt the rogue Seventh Sister.",
+      "Luke Skywalker analyzed Imperial intelligence on the Seventh Sister, learning about her methods and unusual interest in ancient Force artifacts.",
+      "Luke Skywalker arrived at Moraband, encountering a hostile, customized probe droid immediately upon exiting hyperspace.",
+      "Luke Skywalker initiated combat with a hostile probe droid over Moraband.",
+      "Luke Skywalker destroyed the customized probe droid over Moraband.",
+      "Luke Skywalker landed his TIE Defender in the Valley of the Dark Lords on Moraband.",
+      "Luke Skywalker initiated combat with Moraband Zealots and a Corrupted Massiff on the planet's surface.",
+      "Luke Skywalker Force Sensed Moraband Zealot 1, discovering Seventh Sister's true objectives (seeking ancient Force balance knowledge, a 'conduit') and her alliance with a powerful, unknown Force user on Moraband.",
+      "Luke Skywalker absorbed the Force essence of Moraband Zealot 1, gaining a temporary power boost and defeating the last immediate threat.",
+      "Luke Skywalker meditated on the Force Echo and gained initial understanding of Force Drain.",
+      "Luke Skywalker tested and successfully utilized Force Drain, absorbing residual Force essence from a defeated Zealot and recovering health.",
+      "Luke Skywalker successfully channeled and dominated a powerful Force echo on Moraband, gaining a deeper connection to the dark side and healing.",
+      "Luke Skywalker completed a long rest in the Valley of the Dark Lords on Moraband, recovering his strength and preparing for his mission."
+    ],
+    "arc_milestones": {},
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "active_constraints": [],
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "initiative_order": [],
+    "round": 4,
+    "current_actor": "pc_luke_skywalker_001",
+    "in_combat": false,
+    "turn": 1,
+    "combatants": {
+      "npc_moraband_zealot_001": {
+        "hp_current": 15,
+        "hp_max": 15,
+        "status": []
+      },
+      "pc_luke_skywalker_001": {
+        "hp_current": 9,
+        "hp_max": 9,
+        "status": []
+      }
+    }
+  },
+  "last_state_update_timestamp": "2025-08-21 00:08:03.464000+00:00",
+  "turn_number": 0,
+  "player_turn": 0,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "minute": 0,
+    "time_of_day": "Night",
+    "day": 2,
+    "second": 0,
+    "year": 5,
+    "hour": 22,
+    "month": "ABY"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": false,
+  "pending_instruction_hints": [],
+  "migration_status": "FRESH_INSTALL",
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+}

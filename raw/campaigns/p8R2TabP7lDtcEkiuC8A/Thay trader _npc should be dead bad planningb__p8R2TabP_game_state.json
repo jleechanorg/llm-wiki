@@ -1,0 +1,1571 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "hp_current": 59,
+    "hit_dice_max": 9,
+    "recent_decisions": [
+      "Obtained rank of High Overseer within the Scornubel Trade Alliance",
+      "Signed the Blood-Silk Treaty with Darkhold Loyalists",
+      "Executed Zalia to cement public authority",
+      "Established the Sosuke Enclave in Scornubel",
+      "Secured a city-wide Security Mandate to hunt Zhentarim and bandits"
+    ],
+    "spells_known": [
+      {
+        "description": "Teleport yourself and one other person.",
+        "name": "Dimension Door",
+        "level": 4
+      },
+      {
+        "description": "Paralyze a creature you can see within range.",
+        "name": "Hold Monster",
+        "level": 5
+      }
+    ],
+    "hit_dice_current": 9,
+    "active_effects": [
+      "Deceptive Underestimation - Enemies have disadvantage on Insight checks to assess your threat level",
+      "Mark of the Red Scion - You can magically sense the location of your 'Gilded Ten' slaves within 1 mile",
+      "Master's Command - Your slaves are magically bound to silence; they cannot easily solicit aid or reveal their status to outsiders."
+    ],
+    "display_name": "Aizen",
+    "base_attributes": {
+      "intelligence": 14,
+      "dexterity": 16,
+      "wisdom": 12,
+      "constitution": 14,
+      "strength": 8,
+      "charisma": 20
+    },
+    "cantrips": [
+      {
+        "name": "Vicious Mockery",
+        "level": 0
+      },
+      {
+        "name": "Friends",
+        "level": 0
+      },
+      {
+        "name": "Prestidigitation",
+        "level": 0
+      }
+    ],
+    "name": "Aizen",
+    "attributes": {
+      "intelligence": 14,
+      "dexterity": 16,
+      "wisdom": 12,
+      "constitution": 14,
+      "strength": 8,
+      "charisma": 20
+    },
+    "class_name": "Bard (College of Swords)",
+    "hp_max": 59,
+    "health": {
+      "hp": 59,
+      "hp_max": 59
+    },
+    "age": 18,
+    "proficiency_bonus": 4,
+    "race": "Human",
+    "background": "Noble (House Sosuke)",
+    "resources": {
+      "class_features": {
+        "bardic_inspiration": {
+          "max": 5,
+          "used": 0
+        }
+      },
+      "gold": 11330,
+      "spell_slots": {
+        "level_4": {
+          "max": 3,
+          "used": 0
+        },
+        "level_1": {
+          "max": 4,
+          "used": 0
+        },
+        "level_3": {
+          "max": 3,
+          "used": 0
+        },
+        "level_5": {
+          "max": 1,
+          "used": 0
+        },
+        "level_2": {
+          "max": 3,
+          "used": 0
+        }
+      }
+    },
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "name": "Backpack",
+          "stats": null
+        },
+        {
+          "equipped": false,
+          "name": "Bedroll",
+          "stats": null
+        },
+        {
+          "equipped": false,
+          "name": "Mess kit",
+          "stats": null
+        },
+        {
+          "equipped": false,
+          "name": "Tinderbox",
+          "stats": null
+        },
+        {
+          "equipped": false,
+          "name": "Torch",
+          "stats": "10"
+        },
+        {
+          "equipped": false,
+          "name": "Rations",
+          "stats": "10 days"
+        },
+        {
+          "equipped": false,
+          "name": "Waterskin",
+          "stats": null
+        },
+        {
+          "equipped": false,
+          "name": "Rope",
+          "stats": "50 feet"
+        },
+        {
+          "equipped": false,
+          "name": "Coin pouch",
+          "stats": "10gp"
+        },
+        {
+          "name": "Merchant Manifests"
+        },
+        {
+          "name": "Fine Silk Clothing"
+        },
+        {
+          "name": "Shackles (x10)"
+        }
+      ],
+      "body": {
+        "armor_class": 13,
+        "equipped": true,
+        "name": "Studded Leather Armor +1",
+        "stats": "+1 bonus to AC",
+        "type": "armor"
+      },
+      "cloak": {
+        "equipped": true,
+        "name": "Cloak of Elvenkind",
+        "stats": "Advantage on Stealth checks to hide",
+        "type": "item"
+      },
+      "ranged": {
+        "equipped": true,
+        "damage": "1d6",
+        "name": "Shortbow",
+        "type": "weapon"
+      },
+      "ring_1": {
+        "equipped": true,
+        "name": "The False Merchant's Signet",
+        "stats": "Acts as a Ring of Mind Shielding; masks Thayan heritage"
+      },
+      "instrument": {
+        "equipped": true,
+        "name": "Merchant's Lyre",
+        "type": "focus"
+      },
+      "off_hand": {
+        "equipped": true,
+        "damage": "1d4+1",
+        "name": "Dagger +1",
+        "stats": "+1 to attack and damage rolls",
+        "type": "weapon"
+      },
+      "main_hand": {
+        "bonus": 1,
+        "type": "weapon",
+        "stats": "+1 to attack and damage rolls",
+        "damage": "1d8+1",
+        "equipped": true,
+        "name": "Rapier +1",
+        "properties": [
+          "finesse"
+        ],
+        "damage_type": "piercing"
+      },
+      "feet": {
+        "equipped": true,
+        "name": "Boots of Elvenkind",
+        "stats": "Advantage on Stealth checks that rely on moving silently",
+        "type": "item"
+      }
+    },
+    "entity_id": "pc_aizen_001",
+    "skills": [
+      "deception",
+      "insight",
+      "intimidation",
+      "performance",
+      "persuasion",
+      "stealth"
+    ],
+    "level": 9,
+    "experience": {
+      "needed_for_next_level": 64000,
+      "to_next_level": 15700,
+      "current": 48300
+    }
+  },
+  "world_data": {
+    "current_location_name": "House Sosuke Enclave, Scornubel",
+    "world_time": {
+      "year": 1492,
+      "month": "Hammer",
+      "microsecond": 2,
+      "hour": 18,
+      "minute": 30,
+      "time_of_day": "evening",
+      "day": 11,
+      "second": 0
+    }
+  },
+  "npc_data": {
+    "npc_zalia_001": {
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "history": [
+            "Defeated in the tanning yard",
+            "Magically interrogated by Aizen"
+          ],
+          "trust_level": -10
+        }
+      },
+      "status": "interrogated_resisting"
+    },
+    "Harkon": {
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "history": [
+            "Appointed Aizen as High Overseer"
+          ],
+          "trust_level": 8
+        }
+      },
+      "attitude_to_party": "allied",
+      "status": "mobilizing_enforcers"
+    },
+    "Shadow-Stalker 1": {
+      "entity_id": "npc_shadow_stalker_001",
+      "name": "Shadow-Stalker 1",
+      "role": "Zhentarim Veteran",
+      "status": "unconscious",
+      "health": {
+        "hp": 35,
+        "hp_max": 45
+      },
+      "level": 5
+    },
+    "Shadow-Stalker 2": {
+      "entity_id": "npc_shadow_stalker_002",
+      "name": "Shadow-Stalker 2",
+      "role": "Zhentarim Veteran",
+      "status": "conscious_bound_resisting",
+      "health": {
+        "hp": 43,
+        "hp_max": 45
+      },
+      "level": 5
+    },
+    "npc_nyssa_001": {
+      "tier": "guard",
+      "gender": "female",
+      "entity_type": "npc",
+      "role": "Wilderness Scout",
+      "age": 24,
+      "display_name": "Nyssa",
+      "entity_id": "npc_nyssa_001",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "history": [
+            "Experienced guide hired for her knowledge of the trade routes beyond the Lake of Steam."
+          ],
+          "trust_level": 4
+        }
+      },
+      "status": "conscious",
+      "class_name": "Ranger",
+      "level": 4
+    },
+    "Malakor": {
+      "status": "conscious_bound_gagged",
+      "health": {
+        "hp": 0,
+        "hp_max": 45
+      }
+    },
+    "Master Orryn": {
+      "tier": "merchant",
+      "current_location": "Elturgard Ridges",
+      "role": "Retired Wine Merchant",
+      "entity_id": "npc_orryn_001",
+      "name": "Master Orryn",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "history": [
+            "Attempted betrayal for Zhentarim",
+            "Intercepted and interrogated by Aizen"
+          ],
+          "trust_level": -10
+        }
+      },
+      "status": "prisoner_of_hellriders",
+      "health": {
+        "hp": 4,
+        "hp_max": 4
+      },
+      "attitude_to_party": "hostile"
+    },
+    "npc_zhent_scout_002": {
+      "name": "npc_zhent_scout_002"
+    },
+    "Captain Vane": {
+      "entity_id": "npc_vane_001",
+      "role": "Captain of the Scornubel Town Watch",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "history": [
+            "Witnessed the Tanning Yard strike",
+            "Read Zalia's Ritual Ledger"
+          ],
+          "trust_level": 3
+        }
+      },
+      "level": 5,
+      "display_name": "Captain Vane",
+      "tier": "general"
+    },
+    "npc_varkas_001": {
+      "tier": "guard",
+      "gender": "male",
+      "entity_type": "npc",
+      "role": "Thayan Bodyguard",
+      "age": 32,
+      "display_name": "Varkas",
+      "entity_id": "npc_varkas_001",
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "history": [
+            "Hired by Aizen's noble father to protect the bastard scion on the road."
+          ],
+          "trust_level": 5
+        }
+      },
+      "status": "conscious",
+      "class_name": "Fighter",
+      "level": 4
+    },
+    "npc_shadow_caster_001": {
+      "status": "conscious_bound_gagged",
+      "health": {
+        "hp": 1,
+        "hp_max": 45
+      }
+    },
+    "npc_thalric_001": {
+      "tier": "merchant",
+      "gender": "male",
+      "entity_type": "npc",
+      "role": "Logistics Scribe",
+      "age": 28,
+      "display_name": "Thalric",
+      "entity_id": "npc_thalric_001",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "history": [
+            "Long-time employee of Aizen's trade caravan; handles manifests and bookkeeping."
+          ],
+          "trust_level": 4
+        }
+      },
+      "status": "conscious",
+      "class_name": "Wizard",
+      "level": 4
+    },
+    "Torvin": {
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "history": [
+            "Signed Blood-Silk Treaty"
+          ],
+          "trust_level": 2
+        }
+      }
+    },
+    "Sergeant Horgus": {
+      "current_location": "Elturgard Ridges",
+      "status": "pursuing_zhentarim"
+    },
+    "npc_zhent_scout_010": {
+      "name": "npc_zhent_scout_010"
+    },
+    "Nyssa": {
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "history": [
+            "Morally broken but terrified into compliance"
+          ],
+          "trust_level": -5
+        }
+      }
+    },
+    "Shield Brothers (10x)": {
+      "hp_current": 320,
+      "level": 4,
+      "entity_type": "npc",
+      "role": "Mercenary Heavy Infantry",
+      "display_name": "Shield Brothers (10x)",
+      "armor_class": 18,
+      "entity_id": "npc_shield_bros_001",
+      "tier": "guard",
+      "attitude_to_party": "allied",
+      "status": "normal",
+      "hp_max": 320
+    },
+    "npc_zhent_scout_011": {
+      "name": "npc_zhent_scout_011"
+    },
+    "npc_kaelith_001": {
+      "relationships": {
+        "player": {
+          "history": [
+            "Witnessed Aizen's brutal efficiency against the Black Network"
+          ]
+        }
+      }
+    },
+    "Lukan": {
+      "notes": "Failed intimidation has reinforced his internal hope; shackles remain 'Weakened'.",
+      "status": "Resilient/Defiant"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "god_mode": {
+      "setting": "Faerun after events bg3. I\u2019m a trader from Thay. I do long trips from Thay to baldurs gate across the world. Make me an 18 year old very smart and good looking youngest bastard son of a thayan noble",
+      "character": {
+        "name": "Aizen"
+      }
+    },
+    "character_creation_stage": "complete",
+    "character_creation_active": false,
+    "faction_minigame": {
+      "strong_suggestion_given": false,
+      "suggestion_given": false,
+      "tutorial_completed": false,
+      "tutorial_progress": {},
+      "enabled": false
+    },
+    "sanctuary_mode": {
+      "expired_turn": 50,
+      "activated_turn": 73,
+      "expired": true,
+      "active": true,
+      "expires_turn": 88,
+      "arc": "The Scornubel Purge",
+      "scale": "major"
+    },
+    "level_up_pending": false,
+    "divine_upgrade_available": false,
+    "divine_potential": 0,
+    "multiverse_upgrade_available": false,
+    "last_living_world_turn": 78,
+    "reputation": {
+      "public": {
+        "known_deeds": [
+          "Saved Scornubel from the Doomshaping Ritual",
+          "Executed the Doomshaper Zalia in the Market Square"
+        ],
+        "score": 50,
+        "notoriety_level": "famous"
+      },
+      "private": {
+        "faction_zhentarim_darkhold": {
+          "standing": "friendly",
+          "known_deeds": [
+            "Offered a Blood-Silk Treaty to stabilize Scornubel",
+            "Delivered the rogue Doomshaper Zalia to justice",
+            "Yielded Zalia's head to Torvin"
+          ],
+          "score": 3,
+          "secret_knowledge": [
+            "House Sosuke scion is a potential strategic variable"
+          ]
+        },
+        "faction_sta_001": {
+          "known_deeds": [
+            "Established House Sosuke Enclave",
+            "Executed city-wide security purge"
+          ],
+          "score": 12,
+          "standing": "champion"
+        },
+        "faction_hellriders_001": {
+          "known_deeds": [
+            "Defended villa against Zhentarim",
+            "Exposed Orryn as a traitor"
+          ],
+          "score": 2,
+          "standing": "friendly"
+        }
+      }
+    },
+    "last_complication_turn": 75,
+    "core_memories": [
+      "Aizen is the 18-year-old smart and handsome youngest bastard son of a Thayan noble, acting as a trader traveling to Baldur's Gate.",
+      "Aizen is now a Level 6 Swords Bard with a specialized Thayan Merchant-Blade training, traveling with a party of Level 4 retainers (Varkas, Thalric, Nyssa).",
+      "Aizen and his crew maintain a public facade as successful Thayan merchants, but they secretly deal in the slave trade, a reality that allows them to be underestimated by those who only see their trade manifests.",
+      "Aizen utilizes 'The False Merchant's Signet' to mask his Thayan noble heritage and tattoos, allowing him to be perceived as a common traveler while transporting ten high-value slaves toward the Sword Coast.",
+      "Aizen has officially departed the outskirts of Thay with a cargo of ten kidnapped slaves and 5,000 gold, maintaining his facade as a wealthy merchant while hiding his noble Thayan heritage.",
+      "Aizen has successfully completed his first major trade run to Baldur's Gate and is now departing the city for the return journey to Thay with his crew and kidnapped cargo.",
+      "Aizen (Lvl 6) has departed Baldur's Gate heading east along the Coast Way toward Elturel with the Gilded Ten, seeking a market for his slaves while maintaining his merchant facade.",
+      "Nyssa recognized a Green Warden sigil on one of Aizen's kidnapped slaves, linking her past in Oakhaven to the current cargo.",
+      "Aizen granted Nyssa a private audience with the slave Kaelith, but the interrogation failed to yield info as the slave viewed Nyssa as a Thayan traitor.",
+      "Aizen personally intervened with Kaelith, successfully cracking her ideological resolve by appealing to her survival instincts over Nyssa's sentimentality.",
+      "Aizen used magic to stabilize Mirella (Lvl 1) but Varkas (Lvl 4) failed to detect Lukan's (Lvl 1) hidden flint tool during a delegated search.",
+      "Thayan Slave Compliance Magic is a fundamental law of Aizen's caravan; the Gilded Ten are magically prevented from seeking help or betraying their master.",
+      "Aizen personally searched the scholar Lukan for escape tools but failed to find the flint sliver the slave had successfully concealed.",
+      "Aizen successfully bypassed a Flaming Fist checkpoint at the Chionthar Bridge by using Thalric's forged manifests and his own merchant facade, securing the Gilded Ten's passage toward Elturel.",
+      "Aizen successfully bypassed the Chionthar Bridge but was intercepted by a Hellrider patrol near Elturgard after a forced march strained his wagons.",
+      "Aizen used his 'Exhausted Noble' act and a bribe of Thayan wine to successfully stall Sergeant Horgus of the Hellriders, beginning a social challenge to bypass the Elturgard patrol.",
+      "Aizen failed to discern Sergeant Horgus's true motivations during their roadside encounter, finding the Hellrider's professional stoicism impenetrable.",
+      "Aizen's attempt to scout for threats or leads during the roadside standoff failed, leaving him focused on his facade while the Zhentarim continue their unseen approach.",
+      "Nyssa identified a stone-walled fermentation shed 300 yards ahead as a critical defensive position against the Zhentarim silhouettes she spotted earlier.",
+      "Aizen successfully leveraged the Zhentarim threat to convince Sergeant Horgus to move the caravan to a defensive fermentation shed, keeping the Hellriders close as a buffer against ambush.",
+      "Aizen successfully alerted Sergeant Horgus to the Zhentarim threat, leading the Hellriders to defend the fermentation shed while maintaining a professional, albeit wary, alliance with the merchant scion.",
+      "Aizen led a successful flanking strike from the fermentation shed, severely wounding a Zhentarim scout and forcing the Black Network to engage the combined strength of his retainers and the Hellriders.",
+      "Aizen utilized his Extra Attack feature to strike a Zhentarim scout twice with his longsword, dealing 13 damage and leaving the enemy on the brink of death during the fermentation shed ambush.",
+      "Aizen utilized a Slashing Flourish to defeat a Zhentarim scout and wound another, while providing Bardic Inspiration to Varkas as the Hellriders held the line during the fermentation shed ambush.",
+      "Aizen utilized his tactical authority to coordinate his companions and the Hellriders in a focused strike that nearly eliminated the Zhentarim Infiltrator leader during the fermentation shed ambush.",
+      "Aizen personally executed the Zhentarim Infiltrator leader with a single strike during the fermentation shed ambush, earning the grim respect of Sergeant Horgus.",
+      "Aizen (Lvl 6) demonstrated brutal tactical efficiency by personally executing the Zhentarim leader and disabling a surviving scout during the fermentation shed ambush.",
+      "Aizen successfully repelled a Zhentarim ambush near Elturel and interrogated a survivor, revealing that a 'Shadow-Caster' in Scornubel is targeting his caravan.",
+      "Aizen's attempt to identify the Baldur's Gate leak failed as the Zhentarim scout succumbed to shock, while Sergeant Horgus rejected a 120gp bribe, instead insisting on a formal escort to Elturel.",
+      "Aizen successfully persuaded Sergeant Horgus to divert the caravan's escort to a private villa outside Elturel, avoiding a formal gate inspection of the Gilded Ten.",
+      "Aizen successfully diverted the Hellrider escort to Master Orryn's villa, but Thalric failed to mask the necromantic signatures of the slave bindings, leaving a magical 'stain' in the cellar.",
+      "Aizen attempted to distract Horgus with music but failed; however, Thalric and Nyssa successfully scrubbed the necromantic residue from the villa cellar before the Sergeant's inspection.",
+      "The scholar Lukan successfully utilized a hidden flint sliver to weaken his shackles during the night at the Verdant Barrel, preparing for a potential escape or distraction.",
+      "Master Orryn was discovered attempting to unbar the villa's postern gate for Zhentarim scouts in the deep night, revealing his compromised loyalty to the Black Network.",
+      "Sergeant Horgus's vigilance faltered during the early morning hours, creating a critical gap in the villa's perimeter security.",
+      "Aizen successfully intercepted and neutralized Master Orryn at the postern gate during a deep-night betrayal attempt, preventing a Zhentarim breach.",
+      "Aizen successfully interrogated the traitor Master Orryn, learning that the Zhentarim are waiting for a whistle signal to storm the villa and take the Gilded Ten.",
+      "Aizen initiated a flanking strike on the Zhentarim scouts outside the villa, wounding several as they attempted to scale the western wall.",
+      "Aizen utilized a Rapier +1 to execute a Zhentarim scout and critically wound another during the vineyard counter-ambush at the Verdant Barrel.",
+      "Aizen finished a wounded Zhentarim scout in the Verdant Barrel vineyards, but Nyssa missed her shot on a climber, leaving the western wall breach contested.",
+      "Aizen utilized tactical ranged focus to secure the villa's western wall breach, coordinating Varkas to snipe the climber while personally crippling a flanking scout in Round 3.",
+      "Aizen successfully repelled a multi-pronged Zhentarim assault on the Verdant Barrel villa, neutralizing the traitor Master Orryn and forcing the 'Shadow-Caster' to retreat.",
+      "Aizen successfully persuaded Sergeant Horgus to lead the main Hellrider force in pursuit of the Zhentarim 'Shadow-Caster,' leaving the villa and the hidden slaves under Aizen's private control.",
+      "Aizen's attempt to break Lukan's spirit via intimidation failed, revealing a resilient defiance in the scholar and creating a moment of psychological vulnerability in the scion's control over the Gilded Ten.",
+      "Aizen successfully coordinated a strategic withdrawal from the Verdant Barrel villa, deceiving the Hellrider initiates with forged documents and a bribe while Horgus pursued the Zhentarim.",
+      "Aizen's attempt to use his reputation to find illicit buyers in Elturel failed when his inquiries raised the suspicions of the Hellrider initiates, compromising his 'Hero' status.",
+      "Aizen successfully utilized a 'Philanthropic Pivot' in Elturel, reframing his suspicious inquiries as a noble quest to find the kidnapped kin of his retainers, thereby securing the cooperation of the Hellrider initiates.",
+      "Aizen and Nyssa successfully evaded a Zhentarim tracker in Elturel, repositioning the Gilded Ten to the river-mists to avoid discovery by the Shadow-Caster's agents.",
+      "Aizen successfully spotted the Zhentarim tracker while departing Elturel's mists, identifying the Shadow-Caster's persistent pursuit.",
+      "Aizen successfully utilized his elvenkind gear to perform a silent counter-scout in the mists east of Elturel, remaining undetected while the caravan acted as bait for the Shadow-Caster.",
+      "Aizen used Invisibility to stalk Malakor the Shadow-Caster at the Weeping Willows, but Nyssa was spotted and wounded by a Magic Missile strike, initiating open combat.",
+      "Malakor the Shadow-Caster was bloodied by Thalric's fire on the Weeping Willows ridge after Aizen's initial flanking strike failed to finish him due to the treacherous terrain.",
+      "Aizen and his crew cornered Malakor the Shadow-Caster on a ridge at the Weeping Willows, crippling his leg and reducing him to 10 HP through coordinated focus fire.",
+      "Aizen captured Malakor the Shadow-Caster at the Weeping Willows through a non-lethal knockout, securing him with shackles while the Hellriders pursued his retreating scouts.",
+      "Aizen's attempt to isolate Malakor for a private interrogation failed due to the Hellrider initiates' professional vigilance, forcing him to pressure the Zhentarim mage under their watchful eyes.",
+      "Nyssa's failed attempt to distract the Hellrider initiates at the Weeping Willows has increased their suspicion of Aizen's retinue, complicating the private interrogation of Malakor.",
+      "Aizen reached Level 7, mastering the art of Greater Invisibility and integrating the lethal experiences of the road into his Thayan Merchant-Blade training.",
+      "Aizen successfully utilized a phantom threat to deceive the Hellrider initiates, isolating Malakor on the ridge for a private interrogation.",
+      "Malakor successfully resisted Aizen's initial interrogation attempt on the ridge, revealing that his mind is warded against low-level enchantments and Thayan psychic pressure.",
+      "Correction: Malakor successfully resisted Aizen's attempt to use Charm Person on the ridge, maintaining his silence regarding the Baldur's Gate leak despite the scion's magical pressure.",
+      "Aizen attempted to forge the 'Blood-Silk Alliance' with Malakor, offering a 10% stake in the slave trade, but the Shadow-Caster rejected the pittance as insufficient for the risk.",
+      "Malakor rejected Aizen's 25% stake offer, revealing his deep-seated fear of his sister in Scornubel and the Zhentarim's internal purges over his own survival.",
+      "Aizen successfully framed Malakor's execution as a Zhentarim assassination, but failed to convince the Hellrider initiates to leave for Scornubel immediately.",
+      "Aizen successfully persuaded the Hellrider initiates to return to Sergeant Horgus, leaving his caravan without a military escort but free to move toward Scornubel.",
+      "Aizen used intimidation to force Nyssa's silence regarding the execution of Malakor, further straining her trust and binding her to his secrets.",
+      "Aizen arrived in Scornubel after a grueling march, but his attempt to morally corrupt Nyssa met with cold resistance as she retreated into a fearful, professional compliance.",
+      "Aizen is the youngest bastard son of House Sosuke, a noble Thayan lineage.",
+      "Aizen identified the Shield Brothers' pricing (1,200gp/month) and the political tension between Zhentarim loyalists and the Scornubel Trade Alliance.",
+      "Aizen contracted the Shield Brothers and successfully allied with Harkon of the Scornubel Trade Alliance, securing a 'Hero' reputation and discreet storage for the Gilded Ten.",
+      "Aizen utilized his 10 Shield Brothers to set a successful tactical ambush for Zalia's Shadow-Stalkers in the Scornubel STA warehouse.",
+      "Aizen utilized his 10 Shield Brothers to non-lethally subdue two of Zalia's Shadow-Stalkers in STA Annex 4, securing them as high-value prisoners.",
+      "Aizen successfully allied with the Scornubel Trade Alliance (STA), securing the Gilded Ten in deep vaults and breaking one of Zalia's Shadow-Stalkers to reveal her location at 'The Broken Axle'.",
+      "Aizen successfully dispatched a political 'wedge' to the Scornubel Zhentarim leadership, framing Zalia's cell as a rogue liability to the city's trade stability.",
+      "Aizen leveraged the STA alliance to secure twenty Urban Enforcers and located Zalia's Vengeance Unit at a Scornubel tanning yard staging ground.",
+      "Aizen coordinated a 30-man mass assault on Zalia's Vengeance Unit at a tanning yard, using himself as an invisible assassin while his forces provided a loud distraction.",
+      "Aizen initiated a surprise assault on Zalia in Scornubel, delivering a devastating invisible strike that left her bloodied and the ritual interrupted.",
+      "Aizen reached Level 8, peak of Thayan Merchant-Blade training (Charisma 20), mastering Dimension Door after a lethal strike on Zalia in Scornubel.",
+      "Aizen non-lethally subdued Zalia and forced the surrender of her Vengeance Unit in Scornubel, securing the tanning yard and establishing House Sosuke as a dominant force over the local Black Network.",
+      "Aizen executed the 'Iron Verdict' in Scornubel, non-lethally subduing Zalia and half her unit while slaughtering the rest, effectively seizing control of the tanning yard and securing his status as a dominant force in the city's trade politics.",
+      "Aizen successfully utilized the Scornubel Trade Alliance enforcers and his reputation to legitimize the tanning yard strike to the Scornubel Town Watch.",
+      "Aizen successfully legitimized the tanning yard slaughter to Captain Vane by showcasing Zalia's necrotic ritual site, though the Captain remains too wary to grant immediate trade immunity.",
+      "Captain Vane of the Scornubel Town Watch acknowledged the Zhentarim ritual threat but refused immediate trade immunity, demanding a more rigorous formal accounting.",
+      "Aizen provided Zalia's Ritual Ledger to Captain Vane, proving the Zhentarim threat and securing trade immunity through Elturgard.",
+      "Aizen successfully moved Zalia and the Gilded Ten to the STA deep vaults and began a successful psychic interrogation, reducing her Social HP to 6/8.",
+      "Aizen's attempt to use advanced Thayan mental probes to shatter Zalia's remaining Zhentarim wards failed, as her conditioning held against the psychic pressure.",
+      "Aizen liquidated nine of the Gilded Ten into Scornubel labor contracts for 4,500gp and coerced the Warden Kaelith into a five-year service pact to mollify Nyssa's growing resentment.",
+      "Aizen attempted to secure a formal leadership rank within the STA to negotiate a Zhentarim peace treaty, but Harkon remains wary of granting a Thayan scion such direct power so quickly.",
+      "Aizen successfully persuaded Sergeant Horgus to legitimize the tanning yard strike and join the peace negotiations with the Zhentarim Darkhold loyalists.",
+      "Zalia successfully resisted Aizen's final private interrogation in the deep vaults, and the Darkhold Loyalists in Scornubel have met the pincer alliance with deep skepticism.",
+      "Aizen successfully leveraged Zalia's ritual evidence and his military alliance to force Torvin of the Darkhold Loyalists into wavering during peace negotiations in Scornubel.",
+      "Aizen successfully leveraged the capture of Zalia and a military alliance with the STA and Hellriders to force Torvin of the Darkhold Loyalists into wavering during peace negotiations in Scornubel.",
+      "Aizen finalized the Blood-Silk Treaty with the Darkhold loyalists in Scornubel and publicly executed Zalia, cementing House Sosuke's dominance in the city's trade politics.",
+      "Aizen has been appointed as a High Overseer of the Scornubel Trade Alliance and has brokered the Blood-Silk Treaty, effectively ending Zhentarim hostilities and cementing House Sosuke as a dominant political power in the city.",
+      "Aizen successfully leveraged the Doomshaper threat to secure a formal Security Mandate and the establishment of the Sosuke Enclave in Scornubel.",
+      "Aizen established the House Sosuke Enclave in Scornubel and successfully purged Zhentarim remnants from the city's trade routes, though Sergeant Horgus refused to grant a full Hellrider mandate for operations outside the city.",
+      "Aizen (Lvl 9) has fully established the House Sosuke Enclave in Scornubel, integrated his sovereign authority, and is now recognized as the High Overseer of the Eastern Gate with a city-sanctioned mandate for security."
+    ],
+    "arc_milestones": {},
+    "active_missions": [
+      {
+        "mission_id": "return_to_thay",
+        "status": "accepted",
+        "objective": "Travel from Baldur's Gate back to Thay, managing the 10 kidnapped slaves and making profitable stops along the route.",
+        "title": "The Road Back to Thay"
+      }
+    ],
+    "last_location": "House Sosuke Enclave, Scornubel",
+    "campaign_tier": "mortal",
+    "_agent_selection_tracker": {
+      "rewards_skip_count": 4,
+      "agent": "LevelUpAgent",
+      "count": 2
+    },
+    "character_creation_completed": true,
+    "major_event_pressure_budget": {
+      "major_events_this_window": 1,
+      "rationale": "The tanning yard strike remains the primary anchor; current events are consequences of that escalation.",
+      "window": "24h",
+      "special_circumstances": false,
+      "new_major_event": false
+    },
+    "level_up_in_progress": false,
+    "attribute_system": "D&D",
+    "character_creation_in_progress": false,
+    "completed_missions": [
+      "deliver_the_gilded_ten"
+    ],
+    "companion_arcs": {
+      "Nyssa": {
+        "history": [
+          "Witnessed Aizen using Thayan mental probes on a bound woman",
+          "Exposed the hypocrisy of the 'Hero' facade",
+          "Watched Aizen manipulate the Scornubel Town Watch to legitimize a slaughter"
+        ],
+        "arc_type": "homeland_crisis",
+        "phase": "moral_fracture",
+        "progress": 65
+      }
+    },
+    "universe_control": 0,
+    "social_hp_challenge": {
+      "request_severity": "submission",
+      "skill_used": "Persuasion",
+      "successes_needed": 5,
+      "social_hp_max": 5,
+      "objective": "Secure Hellrider support for Zhentarim negotiations",
+      "roll_result": 27,
+      "npc_tier": "lord_general",
+      "social_hp_damage": 2,
+      "roll_dc": 19,
+      "npc_name": "Sergeant Horgus",
+      "resistance_shown": "She fights the urge to speak, clutching at the remnants of her Zhentarim conditioning.",
+      "success": true,
+      "successes": 5,
+      "cooldown_remaining": 1,
+      "social_hp": 0,
+      "status": "YIELDING"
+    },
+    "success_streak": 0,
+    "next_companion_arc_turn": 58,
+    "active_constraints": [],
+    "level_up_complete": true,
+    "experience": {
+      "current": 20000
+    }
+  },
+  "social_hp_challenge": {
+    "request_severity": "submission",
+    "skill_used": "Persuasion",
+    "successes_needed": 5,
+    "social_hp_max": 8,
+    "objective": "Secure Enclave & Security Mandate",
+    "roll_result": 23,
+    "npc_tier": "lord_general",
+    "social_hp_damage": 2,
+    "roll_dc": 18,
+    "npc_name": "Scornubel Council",
+    "resistance_shown": "Vane hesitates to grant military power to a foreigner, but the ritual evidence forces his hand.",
+    "cooldown_remaining": 1,
+    "successes": 2,
+    "social_hp": 6,
+    "status": "WAVERING"
+  },
+  "combat_state": {
+    "in_combat": false,
+    "combat_trigger": "Coordinated mass assault and invisible infiltration",
+    "combat_phase": "ended",
+    "current_round": 3,
+    "initiative_order": [
+      {
+        "name": "pc_aizen_001",
+        "initiative": 18,
+        "type": "pc"
+      },
+      {
+        "name": "npc_zalia_001",
+        "initiative": 15,
+        "type": "enemy"
+      },
+      {
+        "name": "ally_shield_brothers",
+        "initiative": 14,
+        "type": "ally"
+      },
+      {
+        "name": "npc_zhent_veterans",
+        "initiative": 12,
+        "type": "enemy"
+      },
+      {
+        "name": "ally_sta_enforcers",
+        "initiative": 10,
+        "type": "ally"
+      }
+    ],
+    "round_number": 1,
+    "combatants": {
+      "ally_shield_brothers": {
+        "hp_current": 320,
+        "hp_max": 320,
+        "status": [],
+        "type": "ally",
+        "role": "10x Heavy Infantry"
+      },
+      "npc_zalia_001": {
+        "hp_current": 0,
+        "hp_max": 55,
+        "status": [
+          "unconscious",
+          "bloodied",
+          "bound"
+        ],
+        "type": "enemy",
+        "role": "Doomshaper Leader"
+      },
+      "npc_zhent_infiltrator_001": {
+        "hp_current": 0,
+        "hp_max": 45,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy",
+        "role": "Zhentarim Leader"
+      },
+      "npc_zhent_scout_008": {
+        "hp_current": 16,
+        "hp_max": 16,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_nyssa_001": {
+        "hp_current": 22,
+        "hp_max": 32,
+        "status": [],
+        "type": "ally",
+        "role": "Wilderness Scout"
+      },
+      "npc_horgus_001": {
+        "hp_current": 49,
+        "hp_max": 52,
+        "status": [],
+        "type": "ally",
+        "role": "Hellrider Sergeant"
+      },
+      "npc_zhent_scout_005": {
+        "hp_current": 0,
+        "hp_max": 16,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy"
+      },
+      "npc_zhent_scout_006": {
+        "hp_current": 0,
+        "hp_max": 16,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy"
+      },
+      "pc_aizen_001": {
+        "hp_current": 45,
+        "hp_max": 45,
+        "status": [
+          "greater_invisibility"
+        ],
+        "type": "pc"
+      },
+      "npc_zhent_scout_002": {
+        "hp_current": 7,
+        "hp_max": 16,
+        "status": [
+          "prone",
+          "broken_leg"
+        ],
+        "type": "enemy"
+      },
+      "npc_shadow_caster_001": {
+        "hp_current": 0,
+        "hp_max": 45,
+        "status": [
+          "unconscious",
+          "bound",
+          "gagged"
+        ],
+        "type": "enemy"
+      },
+      "npc_varkas_001": {
+        "hp_current": 40,
+        "hp_max": 40,
+        "status": [],
+        "type": "ally",
+        "role": "Thayan Bodyguard"
+      },
+      "npc_thalric_001": {
+        "hp_current": 22,
+        "hp_max": 22,
+        "status": [],
+        "type": "ally",
+        "role": "Logistics Scribe"
+      },
+      "npc_zhent_scout_003": {
+        "hp_current": 16,
+        "hp_max": 16,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_zhent_scout_010": {
+        "hp_current": 9,
+        "hp_max": 16,
+        "status": [
+          "wounded"
+        ],
+        "type": "enemy"
+      },
+      "npc_zhent_scout_007": {
+        "hp_current": 16,
+        "hp_max": 16,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_zhent_scout_001": {
+        "hp_current": 0,
+        "hp_max": 16,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy"
+      },
+      "npc_zhent_scout_011": {
+        "hp_current": 2,
+        "hp_max": 16,
+        "status": [
+          "critical"
+        ],
+        "type": "enemy"
+      },
+      "npc_zhent_scout_009": {
+        "hp_current": 16,
+        "hp_max": 16,
+        "status": [],
+        "type": "enemy"
+      },
+      "ally_sta_enforcers": {
+        "hp_current": 400,
+        "hp_max": 400,
+        "status": [],
+        "type": "ally",
+        "role": "20x Urban Enforcers"
+      },
+      "npc_zhent_veterans": {
+        "hp_current": 0,
+        "hp_max": 180,
+        "status": [
+          "3_dead",
+          "3_unconscious"
+        ],
+        "type": "enemy",
+        "role": "6x Veterans (30 HP each)"
+      }
+    },
+    "combat_session_id": "combat_14920104_tanning",
+    "rewards_processed": true,
+    "active_combatant": "npc_shadow_caster_001",
+    "combat_summary": {
+      "xp_awarded": 600,
+      "enemies_defeated": [
+        "npc_zalia_001",
+        "npc_zhent_veterans"
+      ],
+      "loot_distributed": true,
+      "rounds_fought": 3
+    },
+    "participants": [
+      "pc_aizen_001",
+      "npc_nyssa_001",
+      "npc_varkas_001",
+      "npc_thalric_001",
+      "npc_shadow_caster_001"
+    ]
+  },
+  "last_state_update_timestamp": "2026-06-21 07:51:29.989000+00:00",
+  "turn_number": 92,
+  "player_turn": 92,
+  "last_living_world_turn": 90,
+  "last_living_world_time": {
+    "year": 1492,
+    "month": "Hammer",
+    "microsecond": 0,
+    "minute": 30,
+    "hour": 16,
+    "time_of_day": "afternoon",
+    "day": 4,
+    "second": 0
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "directives": {
+    "add": [
+      "Aizen's interactions with Elturgard authorities should be framed as strategic/noble unless the player explicitly declares a deceptive manipulation attempt."
+    ]
+  },
+  "army_data": {
+    "overall_morale": 80,
+    "forces": {
+      "shield_brothers_unit": {
+        "morale": 80,
+        "blocks_current_hp": [
+          320
+        ],
+        "type": "heavy_infantry",
+        "upkeep_daily": 40,
+        "blocks": 1,
+        "max_hp_per_block": 320
+      }
+    },
+    "total_strength": 10,
+    "total_upkeep_daily": 40
+  },
+  "world_events": {
+    "background_events": [
+      {
+        "outcome": "Zalia has fortified the 'Broken Axle' tavern, preparing for a siege or an escape.",
+        "delta_action": "update",
+        "status": "discovered",
+        "id": "scornubel_mobilization"
+      },
+      {
+        "event_type": "immediate",
+        "delta_action": "add",
+        "action": "Entered Scornubel's eastern gates",
+        "actor": "Zalia's Vengeance Unit",
+        "id": "zalia_vengeance_unit_arrival",
+        "location": "Scornubel - East Gate",
+        "status": "pending",
+        "discovery_condition": "Combat or surveillance",
+        "player_aware": false
+      },
+      {
+        "outcome": "Assaulted by Aizen's coordinated forces",
+        "delta_action": "resolve",
+        "actor": "Zalia",
+        "is_historical": true,
+        "id": "zalia_pincer_resolution",
+        "resolved_turn": 69,
+        "status": "resolved",
+        "action": "Ritual preparation at tanning yard"
+      },
+      {
+        "outcome": "News of a 'mercenary war' spreading through the city.",
+        "delta_action": "add",
+        "player_aware": true,
+        "actor": "Scornubel Citizens",
+        "action": "Fleeing the East Gate area",
+        "location": "Scornubel - East Gate",
+        "id": "scornubel_citizen_panic",
+        "status": "discovered",
+        "event_type": "immediate",
+        "player_impact": "City-wide notoriety increase; potential for Town Watch intervention."
+      },
+      {
+        "outcome": "Moving to secure Network assets and distance the leadership from Zalia's rogue cell.",
+        "player_aware": false,
+        "action": "Mobilized a containment unit to the East Gate",
+        "actor": "Darkhold Loyalists",
+        "event_type": "immediate",
+        "location": "Scornubel - Dusty Spire",
+        "id": "darkhold_mobilization_001",
+        "status": "pending",
+        "discovery_condition": "Intelligence report or witness in 3 turns",
+        "player_impact": "Potential for a three-way conflict or a Zhentarim civil war."
+      },
+      {
+        "outcome": "Responding to reports of a 'mercenary war' in the tanning yards.",
+        "player_aware": false,
+        "action": "Dispatched three patrols to the East Gate",
+        "actor": "Scornubel Town Watch",
+        "event_type": "immediate",
+        "location": "Scornubel - Maiden's Walk",
+        "id": "town_watch_mobilization_001",
+        "status": "pending",
+        "discovery_condition": "Arrival of guards in 5 turns",
+        "player_impact": "Risk of arrest or forced city-wide accounting of the 'Hero' status."
+      },
+      {
+        "turn_generated": 75,
+        "delta_action": "add",
+        "player_impact": "Direct threat of arrest or exposure.",
+        "actor": "Scornubel Town Watch",
+        "outcome": "Yard is under lockdown; entry points secured.",
+        "event_type": "immediate",
+        "location": "Scornubel - East Gate",
+        "id": "town_watch_intervention_001",
+        "action": "Surrounded the Eastern Tanning Yard",
+        "scene_generated": 118,
+        "status": "discovered",
+        "discovery_condition": "Voice at the gate",
+        "player_aware": true
+      },
+      {
+        "turn_generated": 75,
+        "delta_action": "add",
+        "player_impact": "Loss of potential loot and intelligence if delayed.",
+        "actor": "Darkhold Leadership",
+        "outcome": "The Network is actively sanitizing Zalia's trail, creating a race for the 'safe house' location.",
+        "event_type": "long_term",
+        "location": "Scornubel - Hidden Caches",
+        "id": "darkhold_distancing_001",
+        "action": "Seizing Zalia's remaining assets in Scornubel",
+        "scene_generated": 118,
+        "status": "pending",
+        "discovery_condition": "Zalia's confession or interrogation of loyalists",
+        "player_aware": false
+      },
+      {
+        "turn_generated": 78,
+        "delta_action": "add",
+        "player_impact": "Reduction in coordinated Zhentarim resistance; increase in 'lone wolf' desperation.",
+        "actor": "Darkhold Courier",
+        "outcome": "Zalia's remaining loyalists are now isolated and marked for 'sanitization' by the Network.",
+        "event_type": "immediate",
+        "location": "Scornubel - Dusty Spire",
+        "id": "zhent_disavowal_delivery",
+        "action": "Delivered formal disavowal to the Broken Axle",
+        "scene_generated": 122,
+        "status": "pending",
+        "discovery_condition": "Intercepting a message or rumors at the tavern.",
+        "player_aware": false
+      },
+      {
+        "turn_generated": 78,
+        "delta_action": "add",
+        "player_impact": "Horgus's trust is being strained by the lack of transparency.",
+        "actor": "Sergeant Horgus",
+        "outcome": "Discovered the aftermath of the slaughter and the disappearance of the 'Hero' and his retinue.",
+        "event_type": "immediate",
+        "location": "Scornubel - East Gate",
+        "id": "horgus_scornubel_approach",
+        "action": "Arrived at the Tanning Yard with reinforcements",
+        "scene_generated": 122,
+        "status": "pending",
+        "discovery_condition": "Returning to the yard or STA reports",
+        "player_aware": false
+      },
+      {
+        "outcome": "Three 'Doomshaper' safe-houses burned; Network is sanitizing the trail.",
+        "action": "Initiated a purge of Zalia's remaining followers in Scornubel",
+        "event_type": "immediate",
+        "actor": "Pereghost Loyalists",
+        "location": "Scornubel - Shadow District",
+        "id": "darkhold_loyalist_purge",
+        "status": "pending",
+        "discovery_condition": "Smoke on the horizon or rumors at the tavern",
+        "player_aware": false
+      },
+      {
+        "outcome": "Horgus has accepted the treaty and joined the diplomatic effort, though he remains watchful.",
+        "delta_action": "update",
+        "status": "resolved",
+        "actor": "Sergeant Horgus",
+        "turn_generated": 84,
+        "location": "Scornubel - STA Headquarters",
+        "is_historical": true,
+        "resolved_turn": 90,
+        "id": "horgus_confrontation_001",
+        "scene_generated": 129,
+        "resolved_scene_number": 135,
+        "action": "Confronted Aizen at the STA Counting House",
+        "event_type": "immediate",
+        "player_aware": true
+      },
+      {
+        "outcome": "Zalia's rogue cell is officially disbanded; remaining 'Doomshapers' are in hiding.",
+        "delta_action": "add",
+        "action": "Completed the sanitization of Zalia's inner circle in Scornubel",
+        "actor": "Darkhold Loyalists",
+        "event_type": "immediate",
+        "player_aware": false,
+        "location": "Scornubel - Shadow District",
+        "id": "darkhold_loyalist_purge_completion",
+        "status": "pending",
+        "discovery_condition": "Interrogation of Torvin or rumors",
+        "player_impact": "Consolidation of Zhentarim power under the Darkhold loyalists."
+      },
+      {
+        "outcome": "Began questioning the Hellrider initiates about Aizen's 'retinue'.",
+        "delta_action": "add",
+        "action": "Arrived in Elturel to investigate the 'Hero of the Willows'",
+        "actor": "Thavix of House Gneiss",
+        "event_type": "long_term",
+        "player_aware": false,
+        "location": "Elturel - Maiden's Leap",
+        "id": "rival_scion_inquiry",
+        "status": "pending",
+        "discovery_condition": "Letter from a contact or future confrontation",
+        "player_impact": "Noble facade is under threat from Thayan internal politics."
+      },
+      {
+        "outcome": "Public confidence in trade routes restored; Zhentarim tolls officially abolished.",
+        "delta_action": "add",
+        "turn_generated": 90,
+        "actor": "Scornubel Trade Alliance",
+        "action": "Issued formal announcement of the Blood-Silk Treaty",
+        "location": "Scornubel",
+        "scene_generated": 135,
+        "status": "discovered",
+        "event_type": "long_term",
+        "player_aware": true
+      }
+    ]
+  },
+  "schema_migrated_at": "2026-06-15T11:32:46.569814+00:00",
+  "encounter_state": {
+    "encounter_completed": true,
+    "encounter_type": "social_victory",
+    "encounter_summary": {
+      "outcome": "success",
+      "target": "Flaming Fist Bridge Patrol",
+      "method": "deception",
+      "xp_awarded": 850
+    },
+    "encounter_active": false,
+    "rewards_processed": true
+  },
+  "planning_block": {
+    "context": "Post-purge consolidation at the House Sosuke Enclave",
+    "thinking": "The level-up is finalized, and Aizen has consolidated his authority in Scornubel. The 'Gilded Ten' are liquidated into contracts, Kaelith is indentured, and Zalia is a prisoner. The next strategic phase involves deciding whether to push further east toward Thay or stay to deepen the political roots in Scornubel and hunt the Baldur's Gate leak.",
+    "choices": [
+      {
+        "risk_level": "medium",
+        "text": "Continue the Journey East",
+        "description": "Assemble the caravan and the Shield Brothers to begin the trek through the Reaching Woods toward the Inner Sea.",
+        "confidence": "high",
+        "cons": [
+          "Directly enters Zhentarim-heavy wilderness",
+          "Leaves the 'Master of Whispers' leak unresolved"
+        ],
+        "id": "depart_for_reaching_woods",
+        "pros": [
+          "Maintains momentum toward Thay",
+          "Avoids further Scornubel political entanglements"
+        ]
+      },
+      {
+        "risk_level": "low",
+        "text": "Final Interrogation of Zalia",
+        "description": "Utilize your new 5th-level magical authority to shatter Zalia's mind and learn the locations of the 'Shadow-Veil' caches.",
+        "confidence": "high",
+        "cons": [
+          "Requires time and magical focus",
+          "Further alienates Nyssa's remaining trust"
+        ],
+        "id": "interrogate_zalia_secrets",
+        "pros": [
+          "Potential for significant loot/intel",
+          "Eliminates a lingering threat"
+        ]
+      },
+      {
+        "risk_level": "low",
+        "text": "Expand Scornubel Intelligence",
+        "description": "Use your status as High Overseer to establish a formal spy network within the STA to track the 'Master of Whispers' in Baldur's Gate.",
+        "confidence": "medium",
+        "cons": [
+          "Consumes significant gold and time",
+          "May draw Darkhold's central attention"
+        ],
+        "id": "intelligence_network_scornubel",
+        "pros": [
+          "Identifies the traitor in your route",
+          "Cements your political power in the city"
+        ]
+      },
+      {
+        "text": "Sovereign Consolidation (Synergistic)",
+        "analysis": {
+          "coordination_dc": 16,
+          "dc_modifier": 0,
+          "combination_type": "synergistic",
+          "synergy_bonus": "Zalia's internal Network knowledge provides the 'Master of Whispers' investigation with immediate targets."
+        },
+        "id": "parallel_sovereign_operations",
+        "risk_level": "medium",
+        "cons": [
+          "Divided focus",
+          "High resource expenditure"
+        ],
+        "description": "Have Thalric build the spy network while you personally interrogate Zalia\u2014leveraging the Enclave's security for both.",
+        "confidence": "high",
+        "pros": [
+          "Maximum efficiency",
+          "Synergy: Zalia's info can guide the new spy network"
+        ]
+      }
+    ]
+  },
+  "schema_migration_version": 1,
+  "entity_tracking": {
+    "active_entities": [
+      "Aizen"
+    ],
+    "present_entities": []
+  },
+  "npc_status_changes": {
+    "Nyssa": {
+      "previous_state": "Suspicious / Morally Conflict",
+      "reason": "Intimidated by Aizen after witnessing Malakor's execution.",
+      "new_state": "Terrified / Silent Compliance"
+    },
+    "Harkon": {
+      "reason": "Convinced by proof of Zhentarim aggression inside the city.",
+      "new_state": "allied_supporter"
+    },
+    "Malakor": {
+      "previous_state": "conscious_bound_gagged",
+      "reason": "Executed by Aizen and framed as Zhentarim assassination",
+      "new_state": "dead"
+    },
+    "Shadow-Stalker 1": {
+      "reason": "Failed save against Command; provided Zalia's location.",
+      "new_state": "conscious_bound_broken"
+    }
+  },
+  "time_events": {
+    "hellrider_reinforcements": {
+      "changes_this_turn": "Horgus has already arrived; main body is still on the road.",
+      "status": "ongoing",
+      "time_remaining": "4 hours",
+      "new_consequences": "Arrival will increase pressure on the 'Hero' narrative."
+    }
+  },
+  "rumors": [
+    {
+      "source_type": "traveler",
+      "accuracy": "true",
+      "content": "The High Observer of Elturel has ordered a doubling of the guard due to 'dark omens' from the East."
+    },
+    {
+      "source_type": "merchant",
+      "accuracy": "partial",
+      "content": "A Thayan noble scion is traveling the road with a fortune in gold; bandits are sharpening their blades."
+    },
+    {
+      "source_type": "merchant",
+      "accuracy": "partial",
+      "content": "Bandits near Wyrm's Crossing are claiming they've seen a 'Gilded Caravan' with enough gold to buy a duchy."
+    },
+    {
+      "source_type": "commoner",
+      "accuracy": "true",
+      "content": "The 'Companion' over Elturel has been pulsing with a strange, reddish hue at midnight; the priests say it's a warning."
+    },
+    {
+      "source_type": "commoner",
+      "accuracy": "true",
+      "related_event": "flaming_fist_investigation",
+      "content": "A local farmer, Elias, claims the Hellriders are looking for a 'red-cloaked' group of foreigners linked to a kidnapping in the Lower City."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "true",
+      "content": "Zhentarim agents in the Elturgard hills are using coded bird calls to coordinate caravan raids."
+    },
+    {
+      "source_type": "guard",
+      "accuracy": "true",
+      "content": "The Hellriders have been authorized to use 'extreme prejudice' against any Black Network activity near the city outskirts."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "true",
+      "content": "A high-ranking Zhentarim magus is traveling toward Scornubel, carrying a list of 'unpaid debts' from Baldur's Gate."
+    },
+    {
+      "source_type": "criminal",
+      "accuracy": "true",
+      "related_event": "zhentarim_tracking",
+      "content": "A 'Shadow-Caster' in Scornubel is paying a king's ransom for the head of a Thayan merchant scion."
+    },
+    {
+      "source_type": "commoner",
+      "accuracy": "true",
+      "related_event": "orryn_betrayal_attempt",
+      "content": "Master Orryn has been seen meeting with men in dark leathers at the Drunken Mule."
+    },
+    {
+      "source_type": "guard",
+      "accuracy": "true",
+      "content": "The Hellriders are hunting a powerful mage linked to the Black Network in the northern ridges."
+    },
+    {
+      "source_type": "commoner",
+      "accuracy": "partial",
+      "content": "A Thayan merchant saved a local villa from a Zhentarim massacre; some say he's a hero of the Light."
+    },
+    {
+      "source_type": "commoner",
+      "accuracy": "true",
+      "content": "The High Observer is planning a public blessing of the trade road next week to counter the 'dark omens'."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "false",
+      "content": "A high-ranking Thayan merchant is in the city, but some say he's a spy for the Szass Tam."
+    },
+    {
+      "source_type": "guard",
+      "accuracy": "true",
+      "content": "The 'Shadow-Caster' is a disgraced wizard from Scornubel who once served the Zhentarim inner circle."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "partial",
+      "content": "A barge was found drifting empty on the Chionthar this morning, its crew missing and its cargo untouched."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "true",
+      "related_event": "zhentarim_retreat_outskirts",
+      "content": "A high-ranking Shadow-Caster was seen fleeing toward the Reaching Woods with a Hellrider patrol on his heels."
+    },
+    {
+      "source_type": "merchant",
+      "accuracy": "partial",
+      "content": "The river-mists near Scornubel are thick with more than just water; people say the Black Network is moving heavy chests through the marsh."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "partial",
+      "content": "A 'Gilded Hero' has been cleansing the Chionthar banks of Black Network filth; trade may soon be safe again."
+    },
+    {
+      "source_type": "criminal",
+      "accuracy": "true",
+      "content": "The Shadow-Caster has a sister in Scornubel who runs a den of vipers; she won't be happy about his capture."
+    },
+    {
+      "source_type": "noble",
+      "accuracy": "true",
+      "related_event": "elturel_decree",
+      "content": "A high-ranking Thayan inquisitor from House Gneiss has arrived in Elturel, asking pointed questions about missing Inner Sea manifests."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "partial",
+      "content": "The river-mists near the Weeping Willows are said to be haunted by 'voices of the dead'\u2014likely Black Network signals."
+    },
+    {
+      "source_type": "criminal",
+      "accuracy": "true",
+      "content": "The Black Network has a 'Scion-Killer' on the road, a woman who counts breaths instead of coins."
+    },
+    {
+      "source_type": "guard",
+      "accuracy": "partial",
+      "content": "A Thayan merchant has been officially commended by the High Observer's riders for his bravery in the mists."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "partial",
+      "related_event": "The Philanthropic Pivot",
+      "content": "A Thayan merchant is paying 'blood-bounties' in Elturel for information on missing Green Wardens."
+    },
+    {
+      "source_type": "commoner",
+      "accuracy": "true",
+      "content": "The Shield Brothers have been seen marching in formation toward the tanning yards; people say the STA is finally clearing the Zhentarim out."
+    },
+    {
+      "source_type": "commoner",
+      "accuracy": "partial",
+      "related_event": "scornubel_citizen_panic",
+      "content": "The tanning yards are running red tonight; some say the Zhentarim are being purged by their own."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "true",
+      "content": "A black coach was seen leaving the Dusty Spire, heading for the Reaching Woods under cover of the mists."
+    },
+    {
+      "source_type": "guard",
+      "accuracy": "true",
+      "related_event": "town_watch_intervention_001",
+      "content": "The High Observer has sent an inquisitor to Scornubel to investigate the 'mercenary war'."
+    },
+    {
+      "source_type": "commoner",
+      "accuracy": "partial",
+      "content": "The 'Merchant-Blade' of Thay has single-handedly broken the Shadow-Caster's grip on the East Gate."
+    },
+    {
+      "source_type": "guard",
+      "accuracy": "true",
+      "content": "Captain Vane of the Watch is being considered for a commendation for his 'swift response' to the tanning yard crisis."
+    },
+    {
+      "source_type": "commoner",
+      "accuracy": "partial",
+      "related_event": "tanning_yard_slaughter",
+      "content": "The 'Merchant-Blade' of House Sosuke is the new power in the East Gate; even the Watch bows to his silks."
+    },
+    {
+      "source_type": "commoner",
+      "accuracy": "partial",
+      "related_event": "scornubel_citizen_panic",
+      "content": "The 'Merchant-Blade' of Thay didn't save the yard; he just moved the vats to his own cellar."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "true",
+      "related_event": "ormond_purge",
+      "content": "A high-placed scribe in Baldur's Gate has vanished with a chest of Zhentarim gold."
+    },
+    {
+      "source_type": "commoner",
+      "accuracy": "partial",
+      "related_event": "scornubel_citizen_panic",
+      "content": "The 'Merchant-Blade' of Thay isn't here to trade; he's here to buy the city's soul with the STA's blessing."
+    },
+    {
+      "source_type": "traveler",
+      "accuracy": "false",
+      "related_event": "malakor_death_scornubel",
+      "content": "Zalia's brother Malakor was killed by his own sister's shadow to keep him from talking to the scion."
+    },
+    {
+      "source_type": "commoner",
+      "accuracy": "true",
+      "content": "The Merchant-Blade of Thay isn't just a trader; he's the new Law at the East Gate."
+    }
+  ],
+  "level_up_session": {
+    "completed_at_story_id": null,
+    "entered_at_story_id": null,
+    "current_level": 9,
+    "last_error": null,
+    "source_story_id": "unknown",
+    "target_level": 9,
+    "source": "model",
+    "status": "complete",
+    "selections": {
+      "hp_gain": 7,
+      "hp_method": "fixed",
+      "target_level": 9,
+      "spells_known": [
+        "Hold Monster"
+      ]
+    }
+  },
+  "session_id": "sess_vnLp2G3m21PJL6kxcuAqmWSOtm73_thayan_001",
+  "companion_arc_event": {
+    "callback_planted": {
+      "min_turns_delay": 2,
+      "effect": "Nyssa may directly challenge Aizen's authority or loyalty.",
+      "trigger_condition": "Next private conversation with Nyssa or moral choice regarding slaves"
+    },
+    "companion": "Nyssa",
+    "player_response_options": [
+      "Explain the necessity: 'The Law requires a tidy end to messy problems, Nyssa.'",
+      "Gaslight her: 'The light is tricky in the mist, Scout. Your eyes are tired.'",
+      "Assert dominance: 'My methods are my own. Ensure the wagons are ready.'",
+      "The Bounty: Offer her a share of Malakor's gold as a 'bonus' for her silence."
+    ],
+    "progress_delta": 15,
+    "description": "Nyssa watches the framing with a cold, silent judgment, her ranger's eyes seeing through the merchant's panic.",
+    "arc_type": "homeland_crisis",
+    "phase": "discovery",
+    "companion_dialogue": "You move with a soldier's hands, Master Aizen. But that bolt... it didn't come from the ridge. Why play at merchant when you strike like a Thayan assassin?",
+    "event_type": "revelation"
+  },
+  "faction_updates": {
+    "Zhentarim": {
+      "player_standing_change": "Targeted for 'Sanitization' (Kill/Silence)",
+      "resource_change": "Loss of Zalia's personal caches; gain in central stability.",
+      "progress": "High - 3 safe-houses neutralized.",
+      "next_action": "Approach STA for a non-aggression pact.",
+      "current_objective": "Sanitize Zalia's rogue cell to prevent further Hellrider/STA scrutiny."
+    },
+    "Hellriders": {
+      "player_standing_change": "Trust Level: friendly -> wary",
+      "resource_change": "Regrouping and establishing outpost",
+      "progress": "Skeptical - Horgus has found no evidence of Zalia's ridge-strikers.",
+      "next_action": "Formal inquiry with Captain Vane.",
+      "current_objective": "Verify the Thayan 'Hero's' account of the Malakor execution."
+    },
+    "Scornubel Trade Alliance": {
+      "player_standing_change": "Trusted Strategic Asset",
+      "resource_change": "Heavy expenditure of Urban Enforcer contracts",
+      "progress": "Moderate - Enforcers engaged",
+      "next_action": "Seizing Zalia's ritual components",
+      "current_objective": "Annex Security / Monopolization"
+    },
+    "Flaming Fist": {
+      "resource_change": "+2 Light Cavalry units moved to the Outer City perimeter.",
+      "progress": "Checkpoints established at major river crossings.",
+      "next_action": "Searching every Thayan-flagged wagon for 'missing persons'.",
+      "current_objective": "Seal the Coast Way"
+    }
+  }
+}

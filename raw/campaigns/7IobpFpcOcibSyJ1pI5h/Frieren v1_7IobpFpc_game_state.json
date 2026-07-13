@@ -1,0 +1,645 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "aliases": [
+      "The Hidden Demon"
+    ],
+    "proficiency_bonus": 3,
+    "background": "Haunted One",
+    "class_name": "Sorcerer",
+    "display_name": "Nocticula",
+    "combat_stats": {
+      "initiative": 3
+    },
+    "race": "Half-Demon",
+    "resources": {
+      "gold": 540,
+      "spell_slots": {
+        "level_2": {
+          "used": 4,
+          "max": 6
+        },
+        "level_1": {
+          "used": 0,
+          "max": 8
+        },
+        "level_3": {
+          "used": 0,
+          "max": 6
+        }
+      },
+      "class_features": {
+        "metamagic": [
+          "Subtle Spell",
+          "Twinned Spell"
+        ],
+        "sorcery_points": {
+          "used": 3,
+          "max": 12
+        }
+      }
+    },
+    "experience": {
+      "needed_for_next_level": 6500,
+      "current": 2700,
+      "to_next_level": 3800
+    },
+    "base_attributes": {
+      "strength": 8,
+      "dexterity": 18,
+      "intelligence": 12,
+      "wisdom": 10,
+      "charisma": 20,
+      "constitution": 14
+    },
+    "current_location": "Enclave of the Iron Saint Outskirts",
+    "features": [
+      "Spellcasting",
+      "Mana Veil (custom: Adv on Deception vs magical detection)",
+      "Unsettling Presence"
+    ],
+    "status": "normal",
+    "level": 4,
+    "age": 16,
+    "armor_class": 14,
+    "health": {
+      "hp_max": 27,
+      "temp_hp": 0,
+      "hp": 27,
+      "conditions": []
+    },
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        },
+        {
+          "name": "Component Pouch"
+        },
+        {
+          "name": "20 Crossbow Bolts"
+        },
+        {
+          "description": "Suppresses mana aura detection",
+          "name": "Demonic Heirloom Amulet"
+        },
+        {
+          "description": "Fine silks that resist staining, clearly of high-quality craftsmanship.",
+          "type": "clothing",
+          "name": "Noble's Silken Attire"
+        },
+        {
+          "count": 3,
+          "effect": "Restores 2d4+2 HP",
+          "type": "consumable",
+          "name": "Potion of Healing"
+        },
+        {
+          "stats": "1d4 piercing, bypasses resistance to non-silvered weapons",
+          "type": "weapon",
+          "name": "Silvered Daggers (Pair)"
+        },
+        {
+          "equipped": false,
+          "stats": "1d4 piercing, finesse, light, thrown",
+          "name": "Dagger (Pair)"
+        }
+      ],
+      "ring_1": {
+        "equipped": true,
+        "stats": "+1 to AC and Saving Throws",
+        "description": "A dark obsidian ring with a hidden seal of the Demon King's bloodline.",
+        "type": "ring",
+        "bonus": 1,
+        "name": "Signet Ring of Protection"
+      },
+      "off_hand": {
+        "damage": "1d4 piercing",
+        "type": "weapon",
+        "properties": [
+          "finesse",
+          "light",
+          "thrown (20/60)"
+        ],
+        "name": "Dagger"
+      },
+      "main_hand": {
+        "bonus": 2,
+        "equipped": true,
+        "damage": "1d4 piercing",
+        "stats": "+2 to Spell Attack rolls and Spell Save DC",
+        "type": "staff/focus",
+        "properties": [
+          "finesse",
+          "light",
+          "thrown (20/60)"
+        ],
+        "name": "Staff of the Abyssal Scion"
+      },
+      "ranged": {
+        "damage": "1d8 piercing",
+        "type": "weapon",
+        "properties": [
+          "ammunition (range 80/320)",
+          "loading",
+          "two-handed"
+        ],
+        "name": "Light Crossbow"
+      },
+      "neck": {
+        "equipped": true,
+        "stats": "+1 to Spell Attack rolls and Spell Save DC",
+        "type": "amulet",
+        "bonus": 1,
+        "name": "Demon King's Mark"
+      }
+    },
+    "entity_id": "pc_nocticula_001",
+    "mbti": "INTJ",
+    "entity_type": "pc",
+    "attributes": {
+      "strength": 8,
+      "dexterity": 18,
+      "intelligence": 12,
+      "wisdom": 10,
+      "charisma": 20,
+      "constitution": 14
+    },
+    "status_conditions": [],
+    "ac": 14,
+    "damage_resistances": [
+      "fire"
+    ],
+    "languages": [
+      "Common",
+      "Infernal"
+    ],
+    "spells_known": [
+      {
+        "level": 1,
+        "description": "Reaction: +5 AC until next turn",
+        "name": "Shield"
+      },
+      {
+        "level": 1,
+        "description": "Demonic tentacles deal 10 necrotic/4 cold in 10ft radius",
+        "name": "Arms of Hadar"
+      },
+      {
+        "level": 1,
+        "description": "Compel a target (works on Undead via demonic resonance).",
+        "name": "Command"
+      },
+      {
+        "level": 2,
+        "description": "Paralyze a humanoid target.",
+        "name": "Hold Person"
+      },
+      {
+        "level": 2,
+        "description": "Influence a target with a logical-sounding request.",
+        "name": "Suggestion"
+      },
+      {
+        "level": 2,
+        "description": "Create 3 duplicates to redirect attacks.",
+        "name": "Mirror Image"
+      },
+      {
+        "level": 3,
+        "description": "Alter time for 6 targets: half speed, -2 AC/Saves, limited actions.",
+        "name": "Slow"
+      },
+      {
+        "level": 3,
+        "description": "Incapacitate creatures in a 30ft cube.",
+        "name": "Hypnotic Pattern"
+      },
+      {
+        "level": 2,
+        "description": "Turn invisible for up to 1 hour or until you attack or cast a spell.",
+        "name": "Invisibility"
+      },
+      {
+        "level": 2,
+        "description": "Briefly surround yourself with silvery mist and teleport up to 30 feet to an unoccupied space you can see.",
+        "name": "Misty Step"
+      }
+    ],
+    "visibility": "visible",
+    "gender": "female",
+    "name": "Nocticula",
+    "alignment": "True Neutral",
+    "darkvision": 60,
+    "inspiration": false,
+    "cantrips": [
+      {
+        "level": 0,
+        "name": "Fire Bolt"
+      },
+      {
+        "level": 0,
+        "name": "Prestidigitation"
+      },
+      {
+        "level": 0,
+        "name": "Mage Hand"
+      },
+      {
+        "level": 0,
+        "name": "Thaumaturgy"
+      },
+      {
+        "level": 0,
+        "name": "Mind Sliver"
+      },
+      {
+        "level": 0,
+        "name": "Frostbite"
+      }
+    ],
+    "active_effects": [
+      "Mana Veil Mastery (Frieren-Level) - Advantage on Deception checks to hide mana level and magical aura."
+    ],
+    "skill_proficiencies": {
+      "expertise": [],
+      "proficiencies": [
+        "Deception",
+        "Persuasion",
+        "Intimidation",
+        "Stealth",
+        "Arcana"
+      ]
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 30,
+      "microsecond": 0,
+      "minute": 4,
+      "hour": 19,
+      "time_of_day": "evening",
+      "year": 1000,
+      "day": 15,
+      "month": "Spring"
+    },
+    "current_location": "West Tower Ventilation Shafts"
+  },
+  "npc_data": {
+    "Stark": {
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 1,
+          "history": [
+            "Saved from demons",
+            "Spoke up in defense"
+          ]
+        }
+      }
+    },
+    "npc_frieren_001": {
+      "relationships": {
+        "pc_nocticula_001": {
+          "disposition": "neutral",
+          "trust_level": 1,
+          "history": [
+            "Saved party from demon ambush",
+            "Revealed self with pragmatic detachment"
+          ]
+        }
+      }
+    },
+    "Frieren": {
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -5,
+          "history": [
+            "Ambushed party saved",
+            "Identity as half-demon revealed",
+            "Proposed scouting trade"
+          ]
+        }
+      }
+    },
+    "Undead Knight A": {
+      "hp_current": 45,
+      "entity_id": "npc_undead_knight_001",
+      "status": "conscious",
+      "role": "enemy",
+      "hp_max": 45,
+      "level": 5
+    },
+    "npc_demon_005": {
+      "status": [
+        "terrified"
+      ]
+    },
+    "Undead Knight B": {
+      "hp_current": 45,
+      "entity_id": "npc_undead_knight_002",
+      "status": "conscious",
+      "role": "enemy",
+      "hp_max": 45,
+      "level": 5
+    },
+    "npc_demon_003": {
+      "name": "npc_demon_003"
+    },
+    "npc_stark_001": {
+      "relationships": {
+        "player": {
+          "trust_level": 1,
+          "history": [
+            "Saved from ventilation purge in the West Tower"
+          ]
+        }
+      }
+    },
+    "Fern": {
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "Saved from demons",
+            "Expressed wariness of Level 1 power"
+          ]
+        }
+      }
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "arc_milestones": {},
+    "active_constraints": [],
+    "god_mode": {
+      "setting": "16 year old half demon half human. I am low empathy but have some. I am the only demon who hides their mana and have a massive amount maybe 50% of frieren. Start campaign where I save frieren party and she\u2019s teamed up with stark and her mage apprentice ",
+      "character": {
+        "name": "Nocticula"
+      }
+    },
+    "universe_control": 0,
+    "next_companion_arc_turn": 3,
+    "companion_arcs": {},
+    "character_creation_completed": true,
+    "_agent_selection_tracker": {
+      "count": 1,
+      "agent": "SpicyModeAgent",
+      "rewards_skip_count": 9
+    },
+    "player_character_data_extras": {
+      "world_data": {
+        "world_time": {
+          "second": 0,
+          "microsecond": 0,
+          "minute": 0,
+          "hour": 14,
+          "time_of_day": "Afternoon",
+          "year": 1000,
+          "day": 15,
+          "month": "Spring"
+        },
+        "current_location": "Shadowed Forest Clearing",
+        "locations": {
+          "loc_shadowed_forest_clearing_001": {
+            "entity_id": "loc_shadowed_forest_clearing_001",
+            "description": "Mist-shrouded clearing under ancient trees, brimstone-scented from demon ambush.",
+            "entity_type": "loc",
+            "display_name": "Shadowed Forest Clearing",
+            "entities_present": [
+              "npc_frieren_001",
+              "npc_stark_001",
+              "npc_fern_001"
+            ]
+          }
+        }
+      },
+      "npc_data": {
+        "npc_frieren_001": {
+          "race": "Ancient Elf",
+          "class_name": "Mage",
+          "entity_type": "npc",
+          "tier": "ancient",
+          "display_name": "Frieren",
+          "level": 20
+        },
+        "npc_fern_001": {
+          "race": "Human",
+          "class_name": "Mage Apprentice",
+          "entity_type": "npc",
+          "tier": "noble",
+          "display_name": "Fern",
+          "level": 8
+        },
+        "npc_stark_001": {
+          "race": "Human",
+          "class_name": "Warrior",
+          "entity_type": "npc",
+          "tier": "elite",
+          "display_name": "Stark",
+          "level": 10
+        }
+      }
+    },
+    "last_location": "West Tower Ventilation Shafts",
+    "core_memories": [
+      "Reported Iron Saint patrol on the high ridge and successfully persuaded Frieren to follow a tactical bypass through the ravine.",
+      "Utilized Stark's medical aid to recover while receiving a partial briefing on the Enclave of the Iron Saint from Frieren.",
+      "Secret Identity: I am the granddaughter of the Demon King. I fled the capital to escape the inefficient cruelty of my kin and seek a life among humans.",
+      "Ascended to Level 4 (Level 6 Caster equiv). Mastered the 'Slow' spell and increased physical agility (DEX 18) to better navigate the Saint's fortress.",
+      "Persuaded the party to take a short rest in the Bone-Sown Courtyard to optimize magical reserves before the Inner Ward.",
+      "Infiltrated the West Tower ventilation shafts and initiated sabotage on the Soul-Anchor, triggering a fortress-wide alert.",
+      "Rescued Stark from a necromantic purge in the West Tower after a failed sabotage attempt on the Soul-Anchor.",
+      "Utilized Misty Step to extract Stark from a lethal necromantic purge in the West Tower, alerting Frieren to a mana density discrepancy."
+    ],
+    "divine_potential": 0,
+    "last_story_mode_sequence_id": 55,
+    "attribute_system": "D&D",
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "character_creation_stage": "complete",
+    "character_creation_in_progress": false,
+    "level_up_complete": false,
+    "level_up_cancelled": false,
+    "divine_upgrade_available": false,
+    "campaign_tier": "mortal",
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": {
+    "social_hp": 5,
+    "roll_dc": 15,
+    "cooldown_remaining": 0,
+    "successes": 5,
+    "roll_result": 0,
+    "request_severity": "favor",
+    "npc_tier": "ancient",
+    "successes_needed": 5,
+    "social_hp_damage": 0,
+    "status": "YIELDING",
+    "resistance_shown": "Frieren accepts the utility of your power, though she watches you with predatory calculation.",
+    "social_hp_max": 10,
+    "objective": "Convince Frieren to allow your presence",
+    "skill_used": "Persuasion",
+    "npc_name": "Frieren"
+  },
+  "combat_state": {
+    "combat_phase": "ended",
+    "in_combat": false,
+    "current_round": 1,
+    "rewards_processed": true,
+    "combat_session_id": "combat_1714455420_gate",
+    "combatants": {
+      "npc_demon_006": {
+        "hp_current": 27,
+        "hp_max": 27,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_demon_005": {
+        "hp_current": 15,
+        "hp_max": 27,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_demon_002": {
+        "hp_current": 0,
+        "hp_max": 27,
+        "status": [
+          "shattered"
+        ],
+        "type": "enemy"
+      },
+      "npc_demon_003": {
+        "hp_current": 0,
+        "hp_max": 27,
+        "status": [
+          "destroyed"
+        ],
+        "type": "enemy"
+      },
+      "npc_undead_knight_001": {
+        "hp_current": 7,
+        "hp_max": 55,
+        "status": [
+          "surprised"
+        ],
+        "type": "enemy"
+      },
+      "npc_undead_knight_002": {
+        "hp_current": 0,
+        "hp_max": 55,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy"
+      },
+      "npc_demon_004": {
+        "hp_current": 27,
+        "hp_max": 27,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_demon_001": {
+        "hp_current": 0,
+        "hp_max": 27,
+        "status": [
+          "destroyed"
+        ],
+        "type": "enemy"
+      }
+    },
+    "combat_summary": {
+      "enemies_defeated": [
+        "npc_undead_knight_001",
+        "npc_undead_knight_002"
+      ],
+      "rounds_fought": 1,
+      "xp_awarded": 900,
+      "loot_distributed": true
+    }
+  },
+  "last_state_update_timestamp": "2026-05-01 06:14:47.081000+00:00",
+  "turn_number": 38,
+  "player_turn": 38,
+  "last_living_world_turn": 24,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 2,
+    "hour": 16,
+    "minute": 36,
+    "time_of_day": "afternoon",
+    "day": 15,
+    "year": 1000,
+    "month": "Spring"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": null,
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Nocticula"
+    ]
+  },
+  "schema_migration_version": 1,
+  "encounter_state": {
+    "rewards_processed": true
+  },
+  "session_id": "legacy-migrated-acd243358afaffa1",
+  "schema_migrated_at": "2026-04-30T05:30:55.574861+00:00"
+}

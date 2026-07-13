@@ -1,0 +1,1210 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "class": "Bard (College of Swords)",
+    "attributes": {
+      "strength": 10,
+      "dexterity": 18,
+      "intelligence": 16,
+      "wisdom": 10,
+      "charisma": 20,
+      "constitution": 14
+    },
+    "race": "Human (Julian Bloodline)",
+    "description": "Aurelius Julius Caesar (39), the Prodigy of the Julian Line. Youngest son of Emperor Julius Caesar.",
+    "spells_known": [
+      {
+        "level": 0,
+        "name": "Vicious Mockery"
+      },
+      {
+        "level": 0,
+        "name": "Message"
+      },
+      {
+        "level": 0,
+        "name": "Friends"
+      },
+      {
+        "level": 1,
+        "name": "Command"
+      },
+      {
+        "level": 1,
+        "name": "Dissonant Whispers"
+      },
+      {
+        "level": 1,
+        "name": "Healing Word"
+      },
+      {
+        "level": 1,
+        "name": "Charm Person"
+      },
+      {
+        "level": 2,
+        "name": "Suggestion"
+      },
+      {
+        "level": 2,
+        "name": "Hold Person"
+      },
+      {
+        "level": 2,
+        "name": "Invisibility"
+      },
+      {
+        "level": 3,
+        "name": "Counterspell"
+      },
+      {
+        "level": 3,
+        "name": "Fear"
+      },
+      {
+        "level": 4,
+        "name": "Dimension Door"
+      },
+      {
+        "level": 4,
+        "name": "Greater Invisibility"
+      }
+    ],
+    "resources": {
+      "gold": 5300000,
+      "spell_slots": {
+        "level_2": {
+          "current": 1,
+          "used": 0,
+          "max": 3
+        },
+        "level_4": {
+          "current": 2,
+          "used": 0,
+          "max": 2
+        },
+        "level_1": {
+          "used": 0,
+          "max": 4
+        },
+        "level_3": {
+          "current": 1,
+          "used": 0,
+          "max": 3
+        }
+      },
+      "class_features": {
+        "sorcery_points": {
+          "used": 0,
+          "max": 2
+        },
+        "bardic_inspiration": {
+          "used": 0,
+          "max": 5
+        }
+      }
+    },
+    "experience": {
+      "needed_for_next_level": 48000,
+      "current": 34900,
+      "next_level_threshold": 23000,
+      "to_next_level": 13100
+    },
+    "name": "Aurelius Julius Caesar",
+    "base_attributes": {
+      "strength": 10,
+      "dexterity": 18,
+      "intelligence": 16,
+      "wisdom": 10,
+      "charisma": 20,
+      "constitution": 14
+    },
+    "features": [
+      "War Caster (Feat)",
+      "Bardic Inspiration (d8)",
+      "Jack of All Trades",
+      "Song of Rest (d8)",
+      "Font of Inspiration (Inspiration recovery on Short/Long Rest)",
+      "Countercharm",
+      "Bonus Proficiencies (Medium Armor, Scimitar)",
+      "Fighting Style: Two-Weapon Fighting",
+      "Blade Flourish (Defensive, Slashing, Mobile)",
+      "Extra Attack"
+    ],
+    "hp_max": 58,
+    "level": 8,
+    "skills": [
+      "Deception (Expertise)",
+      "Persuasion (Expertise)",
+      "Intimidation (Expertise)",
+      "Performance (Expertise)",
+      "Stealth",
+      "Perception",
+      "Insight"
+    ],
+    "hp_current": 58,
+    "inventory": [
+      "Backpack",
+      "Bedroll",
+      "Mess kit",
+      "Tinderbox",
+      "Torch (10)",
+      "Rations (10 days)",
+      "Waterskin",
+      "Rope (50 feet)",
+      "Coin pouch (10gp)"
+    ],
+    "armor_class": 18,
+    "active_effects": [
+      "Metamagic Adept: 2 Sorcery Points (Subtle, Extended)",
+      "Divine Fervor - +35 Temp HP, Advantage on CHA checks"
+    ],
+    "equipment": {
+      "backpack": [
+        {
+          "contents": "50,000 Gold, clothes, wine, letters of credit.",
+          "stats": "Infinite storage, fixed weight 15lbs.",
+          "type": "container",
+          "name": "Satchel of Holding"
+        },
+        {
+          "stats": "1d6 piercing, trophy item",
+          "description": "The blade held by the Bringer of Rain, now a symbol of Julian supremacy.",
+          "type": "weapon",
+          "name": "Spartacus's Diminished Gladius"
+        },
+        {
+          "stats": "+1 to Strength Saving Throws",
+          "description": "Massive iron bands taken from the Gaul.",
+          "type": "accessory",
+          "name": "Crixus's Heavy Bracers"
+        },
+        {
+          "description": "Coded locations of rebel caches and subterranean routes.",
+          "type": "item",
+          "name": "Vesuvius Intelligence Documents"
+        }
+      ],
+      "cloak": {
+        "equipped": true,
+        "stats": "+1 to AC and Saving Throws.",
+        "type": "accessory",
+        "name": "The Cloak of the Senate (Cloak of Protection +1)"
+      },
+      "armor": {
+        "armor_class": 13,
+        "armor_type": "light",
+        "bonus": 1,
+        "equipped": true,
+        "value_gp": 1000,
+        "description": "Purple tunic woven with mithral fibers.",
+        "stealth_disadvantage": false,
+        "type": "armor",
+        "weight": 13,
+        "name": "Tyrian Weave (Studded Leather +1)"
+      },
+      "off_hand": {
+        "damage_type": "piercing",
+        "properties": [
+          "finesse",
+          "light",
+          "thrown",
+          "magical"
+        ],
+        "damage": "1d4",
+        "bonus": 1,
+        "equipped": true,
+        "value_gp": 505,
+        "description": "Ornamental dagger worn at the small of the back.",
+        "type": "weapon",
+        "weight": 1,
+        "name": "Silentium (Parazonium Dagger +1)"
+      },
+      "main_hand": {
+        "damage_type": "piercing",
+        "properties": [
+          "finesse",
+          "light",
+          "magical"
+        ],
+        "damage": "1d6",
+        "bonus": 1,
+        "equipped": true,
+        "value_gp": 1015,
+        "description": "A nobleman's dress shortsword with a jeweled hilt.",
+        "type": "weapon",
+        "weight": 2,
+        "name": "Veritas (Gladius +1)"
+      },
+      "head": {
+        "equipped": true,
+        "stats": "Immune to magic that reads thoughts.",
+        "type": "accessory",
+        "name": "The Golden Laurel (Ring of Mind Shielding)"
+      },
+      "boots": {
+        "equipped": true,
+        "stats": "No footstep sound; Advantage on Stealth.",
+        "type": "accessory",
+        "name": "Sandals of Hermes (Boots of Elvenkind)"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 15,
+      "hour": 12,
+      "time_of_day": "Midday",
+      "year": 71,
+      "day": 15,
+      "month": "November"
+    },
+    "current_location_name": "The Domus Aurea, Rome"
+  },
+  "npc_data": {
+    "Praetor Glaber": {
+      "status": "devoted_hound",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 8,
+          "history": [
+            "Varenus saved his life and career at Vesuvius",
+            "Publicly honored the deal in the Domus Aurea"
+          ]
+        }
+      }
+    },
+    "Tiberius Crassus": {
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -3,
+          "history": [
+            "Publicly belittled during dinner"
+          ]
+        }
+      }
+    },
+    "Spartacus": {
+      "status": "blindfolded_shackled_1hp",
+      "relationships": {
+        "player": {
+          "trust_level": -5,
+          "history": [
+            "Traded Aurelia for Glaber",
+            "Witnessed the Varenus Ambush",
+            "Captured by Varenus",
+            "Subjected to Extreme Shackle Protocol"
+          ]
+        }
+      }
+    },
+    "Praetor Varinius": {
+      "level": 5,
+      "tier": "lord",
+      "string_id": "npc_varinius_001",
+      "present": true,
+      "role": "Praetor / Political Rival",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "Impressed by logistical logic in the solar"
+          ]
+        }
+      },
+      "name": "Praetor Varinius"
+    },
+    "Glaber": {
+      "hp_current": 21,
+      "status": "shattered_asset",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 8,
+          "history": [
+            "Mended bones at Vesuvius",
+            "Saved career with Vesuvius capture",
+            "Witnessed Imperial revelation in Inner Sanctum"
+          ]
+        }
+      }
+    },
+    "Praetor Gaius Claudius Glaber": {
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 5,
+          "history": [
+            "Varenus saved his life in Capua",
+            "Varenus captured Spartacus and gave Glaber the credit",
+            "Entered a secret political pact for mutual advancement"
+          ]
+        }
+      }
+    },
+    "Lucretia": {
+      "status": "observant_ally",
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 5,
+          "history": [
+            "Witnessed the Miasma and the capture of Spartacus",
+            "Validated the 'Golden Son' narrative to the Emperor"
+          ]
+        }
+      }
+    },
+    "Seppius": {
+      "level": 3,
+      "tier": "merchant",
+      "string_id": "npc_seppius_001",
+      "present": true,
+      "role": "Wealthy Scion / Rival",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -2,
+          "history": [
+            "Jealous of Varenus's social ascent"
+          ]
+        }
+      },
+      "name": "Seppius"
+    },
+    "npc_crixus_001": {
+      "status": [
+        "shackled",
+        "frightened_lingering"
+      ]
+    },
+    "Ilithyia": {
+      "status": "observant_ally",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 7,
+          "history": [
+            "Saved from rebels in Capua",
+            "Witnessed divine healing",
+            "Accepted as household asset"
+          ]
+        }
+      }
+    },
+    "Seppia": {
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 4,
+          "history": [
+            "Personally rescued and consoled her after the square massacre"
+          ]
+        }
+      }
+    },
+    "Aurelia": {
+      "status": "wavering",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 3,
+          "history": [
+            "mended her throat in Capua",
+            "offered sanctuary in Julian household"
+          ]
+        }
+      }
+    },
+    "Licinia": {
+      "status": "secured",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 2
+        }
+      }
+    },
+    "Gaius Claudius Glaber": {
+      "hp_current": 25,
+      "status": "conscious_prone",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 1,
+          "history": [
+            "Publicly validated by Varenus in front of superiors"
+          ],
+          "secret_knowledge": [
+            "Varenus values his father's credit over public acclaim",
+            "The father is a figure of immense, likely Senatorial or Proconsular gravity"
+          ]
+        }
+      }
+    },
+    "Julius Caesar": {
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 3,
+          "history": [
+            "Son returned with Spartacus in chains",
+            "Maintained a masterful mask in the throne room"
+          ]
+        }
+      }
+    },
+    "Marcus Licinius Crassus": {
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 2,
+          "history": [
+            "Offered 30M gold investment deal",
+            "Performed Divine Blood Oath"
+          ]
+        }
+      }
+    },
+    "npc_spartacus_001": {
+      "hp_current": 7,
+      "status": "conscious_bound_blinded",
+      "relationships": {
+        "player": {
+          "history": [
+            "captured in surgical ambush",
+            "subjected to extreme shackle protocol"
+          ]
+        }
+      }
+    },
+    "Crixus": {
+      "status": "conscious_prone",
+      "relationships": {
+        "player": {
+          "history": [
+            "Traumatized by Julian Miasma (Fear)",
+            "Witnessed the execution of his guard",
+            "Captured by Varenus"
+          ]
+        }
+      }
+    },
+    "Octavian": {
+      "relationships": {
+        "player": {
+          "history": [
+            "Attempted to audit Varenus grain shipments",
+            "Blocked by Imperial Security classification"
+          ]
+        }
+      }
+    },
+    "Senator Albinius": {
+      "level": 3,
+      "tier": "noble",
+      "string_id": "npc_albinius_001",
+      "present": true,
+      "role": "Senator / Host",
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Signed Baiae marriage pact",
+            "Became Imperial satellite"
+          ]
+        }
+      },
+      "name": "Senator Albinius"
+    },
+    "npc_glaber_001": {
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 7,
+          "history": [
+            "Vesuvius Victory",
+            "Private Profit Sharing",
+            "Public Credit Agreement",
+            "Imperial Patronage Accepted"
+          ]
+        }
+      }
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "arc_milestones": {
+      "domestic_alliance_arc": {
+        "phase": "Baiae Contract Signed",
+        "progress": 100,
+        "completed_at": "2026-07-13T02:34:06.541014+00:00",
+        "status": "completed",
+        "completed_at_lore": "71-11-15T12:15:00Z"
+      },
+      "consolidation_arc": {
+        "progress": 100,
+        "phase": "Imperial Mandate Secured",
+        "updated_at": "2026-07-13T02:34:06.541018+00:00",
+        "status": "completed",
+        "updated_at_lore": "71-09-26T11:30:00Z"
+      },
+      "parthian_arc": {
+        "progress": 30,
+        "phase": "Logistics Finalized",
+        "updated_at": "2026-07-13T02:34:06.541021+00:00",
+        "status": "in_progress",
+        "updated_at_lore": "71-09-26T11:30:00Z"
+      },
+      "primary_arc": {
+        "phase": "The Triumph of the Golden Son",
+        "progress": 100,
+        "completed_at": "2026-07-13T02:34:06.541024+00:00",
+        "status": "completed",
+        "completed_at_lore": "71-09-16T06:55:00Z"
+      }
+    },
+    "active_constraints": [
+      "Senator Albinius believes Varenus is a high-ranking Julian noble of sovereign-level competence with deep ties to the main line, but must NOT discover he is the Emperor's son unless explicitly revealed.",
+      "Glaber believes Varenus prioritizes his father's private approval over public glory due to the father's extreme political weight; he remains ignorant of the father's identity as Emperor."
+    ],
+    "companion_arcs": {},
+    "sanctuary_mode": {
+      "active": true,
+      "scale": "major",
+      "activated_turn": 69,
+      "arc": "The Parthian Mobilization",
+      "expires_turn": 89
+    },
+    "next_companion_arc_turn": 3,
+    "divine_upgrade_available": false,
+    "campaign_tier": "mortal",
+    "success_streak": 11,
+    "reputation": {
+      "private": {
+        "faction_albinius": {
+          "standing": "champion",
+          "trust_override": 10,
+          "score": 10,
+          "known_deeds": [
+            "Revealed Imperial Bloodline",
+            "Saved Ilithyia at Capua"
+          ]
+        }
+      },
+      "public": {
+        "score": 75,
+        "titles": [
+          "The Golden Tribune",
+          "Architect of Vesuvius"
+        ],
+        "notoriety_level": "respected"
+      }
+    },
+    "god_mode_directives": [
+      {
+        "rule": "Ensure NPCs provide extensive, character-driven dialogue and distinct perspectives; avoid simple agreement or compliance unless narratively earned.",
+        "added": "2026-07-13T02:34:06.540974+00:00"
+      },
+      {
+        "added": "2026-01-28T05:15:59.803445+00:00",
+        "rule": "Maintain NPC subtlety: NPCs should be wary, character-driven, and possess distinct perspectives; avoid overt praise or immediate compliance unless earned through significant social damage or narrative shifts."
+      },
+      {
+        "added": "2026-01-28T05:29:20.534581+00:00",
+        "rule": "Maintain an outwardly respectful merchant mask for Varenus when interacting with Glaber and Roman officials."
+      },
+      {
+        "added": "2026-01-28T05:29:20.534769+00:00",
+        "rule": "Do not narrate internal or external criticism of Glaber unless the player explicitly initiates it."
+      },
+      {
+        "added": "2026-01-28T05:29:20.534914+00:00",
+        "rule": "Ensure Glaber's dialogue remains cynical, wary, and status-conscious, avoiding immediate compliance or praise."
+      },
+      {
+        "added": "2026-01-28T06:26:00.098704+00:00",
+        "rule": "Maintain the 'High-Tier Noble' ambiguity for Varenus: NPCs should treat him as a superior power, but his specific identity as the Emperor's son is a hard-locked secret."
+      },
+      {
+        "added": "2026-01-28T06:26:00.098823+00:00",
+        "rule": "Albinius is now a committed political ally who views Varenus as a bridge to the Julian inner circle."
+      },
+      {
+        "rule": "Tone Guardrail: Avoid 'cheesy' or over-the-top worship. NPCs should speak with Roman moderation, cynicism, and self-interest. Prowess is respected but viewed through a lens of political threat and utility.",
+        "added": "2026-07-13T02:34:06.540994+00:00"
+      },
+      {
+        "rule": "Identity Lock: Varinius and Albinius do not know Varenus is a Julian. They only suspect high-born blood or significant patronage. His Imperial identity is a hard-locked secret.",
+        "added": "2026-07-13T02:34:06.540996+00:00"
+      },
+      {
+        "added": "2026-01-28T06:36:26.653556+00:00",
+        "rule": "Tone Guardrail: Avoid 'cheesy' or over-the-top worship. NPCs should speak with Roman moderation, cynicism, and self-interest."
+      },
+      {
+        "added": "2026-01-28T06:36:26.653701+00:00",
+        "rule": "Identity Lock: Varinius and Albinius do not know Varenus is a Julian. They only suspect high-born blood or significant patronage."
+      },
+      {
+        "added": "2026-01-28T07:54:21.951032+00:00",
+        "rule": "Track the 4th Cohort as two distinct rings: 120 men at the Depot, 360 men at Vesuvius."
+      },
+      {
+        "added": "2026-01-28T07:54:21.951166+00:00",
+        "rule": "Maintain the 120-man volley advantage until the rebels break cover or engage in melee."
+      },
+      {
+        "added": "2026-01-28T08:15:32.247139+00:00",
+        "rule": "Identity Lock: Glaber suspects Varenus's father is a figure of extreme importance (valuing his credit over public glory) but does NOT know he is the Emperor."
+      },
+      {
+        "added": "2026-01-28T08:15:32.247398+00:00",
+        "rule": "Tone Guardrail: Glaber views Varenus's 'generosity' as a sign of high-born priority (pleasing a powerful father) rather than simple kindness."
+      },
+      {
+        "added": "2026-01-28T09:30:42.121852+00:00",
+        "rule": "Character is currently using real identity (Aurelius Julius Caesar) among Roman elite."
+      },
+      {
+        "added": "2026-01-28T09:30:42.122000+00:00",
+        "rule": "Track combined wealth of 5.3M gold."
+      },
+      {
+        "added": "2026-01-28T09:30:42.122133+00:00",
+        "rule": "Apply Advantage from Divine Fervor to all upcoming Charisma checks."
+      },
+      {
+        "added": "2026-01-28T10:01:37.957618+00:00",
+        "rule": "Character age is 39."
+      },
+      {
+        "added": "2026-01-28T10:01:37.957763+00:00",
+        "rule": "Third Servile War occurs in the skip-year 81 BCE (10 years from current 71 BCE timeline)."
+      },
+      {
+        "added": "2026-01-28T10:01:37.957873+00:00",
+        "rule": "Rome's total force estimated at 500,000; Aurelius commands ~25% (125,000)."
+      },
+      {
+        "added": "2026-01-28T10:04:24.648058+00:00",
+        "rule": "Total force strength for the Eastern Offensive is 215,000 (125,000 from Imperial Mandate + 90,000 from Crassus Recruitment)."
+      }
+    ],
+    "army_deployment": {
+      "vesuvius_encirclement_force": 360,
+      "capua_garrison": 120,
+      "depot_ambush_force": 120
+    },
+    "last_location": "The Domus Aurea, Rome",
+    "character_creation_completed": true,
+    "core_memories": [
+      "[auto] High Noon (12:00:00) in Capua, Market Square\u2014the heat of the sun is eclipsed only by the stifling tension radiating from the steel held at Aurelia's throat. The Roman Centurion\u2019s face is slick with sweat, his eyes darting toward the southern archway where the rhythmic thud of caligae and the clatter of lorica segmentata signal the imminent arrival of the 4th Cohort. Spartacus stands like a coiled viper, his breath ragged, the realization that his victory has turned into a trap etched into",
+      "[auto] Midday (12:00:07) in Capua, Market Square\u2014the sun beats down on the cobblestones, turning the sweat on the Centurion's neck into glistening beads of terror. The standoff has reached its breaking point. Spartacus is crouched, a predatory coil of muscle, while behind him Gannicus is already ushering the noblewomen toward the fountain's edge. \n\nThe Centurion's blade trembles against Aurelia's skin. You can see the white of his knuckles; he is seconds away from either a panic-driven execution",
+      "[auto] The Capuan sun hangs like a brazen shield overhead, casting short, jagged shadows across the blood-slicked stones of the Market Square. The air is thick, a suffocating mix of dust, horse sweat, and the metallic tang of the dying. Glaber, the once-proud Praetor, lies broken in the dirt, his ornate lorica dented and smeared with filth\u2014a pathetic sight for a man who claimed he would bring the rebels to heel. Spartacus stands over him, a gladius in each hand, muscles trembling with the suppre",
+      "[auto] The Miasma hums in your blood, a golden, devouring heat that demands order from this squalid chaos. You step forward from the lengthening shadows of the portico, your stride languid and heavy with the calculated arrogance of a man who owns the very air he breathes. \n\n\"Enough,\" you command, your voice slicing through the Centurion's hysterical screaming like a silk ribbon through offal. You don't look at the soldier; you look at the girl. Your fingers weave an almost imperceptible pattern ",
+      "[auto] The thud of Roman boots is no longer a rhythm; it is a physical weight, shaking the loose dust from the limestone facades. Spartacus stands frozen for a heartbeat, his eyes flicking from the broken Glaber to the girl you just mended with a touch. The golden light of the Miasma, though suppressed by your 'Varenus' mask, has left a lingering, divine heat in the air. \n\n\"The noblewomen as well, Thracian,\" you add, your voice dropping to a low, melodic baritone that cuts through the panic of t",
+      "[auto] The dust from Spartacus's retreat hasn't even settled before you turn your attention to the wreckage left behind. You lean down toward Aurelia, your hand lingering just long enough for her to feel the supernatural warmth of your skin. \"Go with them, child,\" you whisper, your voice a smooth, irresistible current. \"There is no safety for you here among the Roman swords today. Seek the Thracian. Tell them Varenus has paid your debt in full.\" She looks at you once more\u2014eyes wide with a mix of",
+      "[auto] The dust begins to settle, though the air remains thick with the copper tang of blood. You stand as a beacon of calm amidst the hysterical sobbing of the noblewomen and the low groans of the dying. Seppia, her fine Tyrian silks smudged with soot, looks up at you with trembling lips. You reach out, your fingers barely brushing her shoulder\u2014a touch of absolute possession masked as comfort. \"You are safe now, Lady Seppia,\" you murmur, your voice a silken thread. \"The merchant Varenus does no",
+      "[auto] Midday (12:15:00) in Capua, Market Square\u2014the sun's heat is stifling, but the atmosphere around Praetor Glaber is ice-cold. He stands tall now, his wounds mended by your golden touch, yet his dignity remains in the dust. He looks at you, not with the easy gratitude of a rescued man, but with the narrowing, predatory gaze of a Roman who smells a lie he cannot quite unmask.\n\n\"Magic,\" Glaber rasps, his voice a dry scrape against the silence of the square. He wipes a smear of blood from his c",
+      "[auto] The dust of the retreat settles, coating the blood-slicked stones in a fine grey silt. Praetor Glaber stands, his newly mended armor creaking as he tests the strength of his ribs. He doesn't offer a hand or a word of gratitude; instead, he watches you with a look of clinical, cold evaluation, his eyes flicking to the dark-clad Praetorians who secured the square with such unnatural efficiency.\n\n\"Middle-tier Julian ties,\" Glaber repeats, his voice a dry, characteristically thin rasp. He wip",
+      "[auto] Afternoon (12:45:00) on the road to the Villa Albinius\u2014the dust of Capua's Market Square begins to settle behind you, replaced by the rhythmic clatter of your Praetorian escort. You walk with a respectful, measured stride at Glaber's side, your Tyrian silks catching the light with a subtle, expensive shimmer. You are the picture of the dutiful merchant-tribune, your voice low and deferential as you steer the conversation away from the carnage and toward the safety of the villa.\n\n\"A harrow",
+      "[auto] The limestone walls of the Villa Albinius rise from the olive groves like a pale monument to Roman order, though the air within its courtyards feels thin and brittle. As you cross the threshold, you give a slight, almost imperceptible nod to Felix and Cassius. Without a word, they drift away from the main party, their dark armor blending into the shadows of the peristyle as they begin their silent audit of the estate.\n\nYou maintain your stride alongside Glaber, your expression one of mode",
+      "[auto] The solar of the Villa Albinius becomes increasingly crowded as the weight of Rome's political machinery descends upon the estate. The scent of jasmine is now competing with the sharp metallic tang of fresh armor and the heavy perfumes of the elite. \n\nSenator Albinius, the owner of this sprawling sanctuary and Glaber's father-in-law, moves through the room with a practiced, weary elegance. He is a man of the old school, his toga a pristine, unadorned white that speaks of a dignity he fear",
+      "[auto] Afternoon (13:45:00) in the solar of the Villa Albinius\u2014the air is thick with the scent of unwashed armor and the biting cynicism of Rome's military elite. You stand with a practiced, deferential grace, the 'merchant' Varenus listening intently as the giants of Capuan politics circle the map table. \n\nGlaber\u2019s internal thoughts are a jagged mess of wounded pride and burgeoning, unwanted respect. *How?* he wonders, his gaze flickering to you between map adjustments. *A merchant with the ste",
+      "[auto] The tension in the solar is a physical weight, thick with the scent of pine-scrubbed marble and the bitter iron of Roman failure. You step into the center of the circle, the 'merchant' Varenus adopting a posture of thoughtful, commercial precision. You do not look at Glaber; your amber gaze is fixed on Varinius, meeting his predatory curiosity with the steady, unblinking clarity of a ledger.\n\n\"The supply rot, Praetor Varinius?\" you ask, your voice a smooth, resonant baritone that carries ",
+      "Victory in Capua Market Square: Rescued Aurelia, saved Glaber and the noblewomen through a strategic trade with Spartacus. Negotiated a logistical solution for Praetor Varinius at the Villa Albinius, securing a position as a strategic advisor.",
+      "[auto] You accept Senator Albinius's heavy hand on your shoulder with a look of modest, practiced deflection. You don't preen; instead, you let a flicker of calculated reverence enter your amber eyes as you turn toward Glaber, who is currently a mask of rigid, watchful tension.\n\n\"Senator, your praise is a gift I am not certain I have fully earned,\" you say, your voice a smooth, resonant baritone that carries to every ear in the solar. \"A Tribune can suggest a path, but it is the Praetor's presen",
+      "[auto] Afternoon (14:15:00) in the solar of the Villa Albinius\u2014the shadows of the olive trees stretch across the marble floor, but the light within the room is focused entirely on the 'merchant' Varenus. Senator Albinius beams, his earlier patrician distance replaced by the eager warmth of a man who has found a new, reliable pillar for his family's crumbling dignity.\n\n\"Spoken with the grace of a statesman,\" Albinius declares, his voice resonant with approval as he looks toward Glaber. \"You see, ",
+      "[auto] Afternoon (14:25:00) in the solar of the Villa Albinius\u2014the scent of jasmine from the gardens is sharp, cutting through the heavy smell of Roman steel and unwashed soldiers. You lower your amber gaze with a look of practiced, merchant humility, the silk of your Tyrian toga rustling softly as you adopt a posture of respectful service. \n\n\"Senator Albinius, Praetor Varinius, your words are far more generous than my simple efforts deserve,\" you say, your voice a smooth, resonant baritone that",
+      "[auto] The heavy air of the solar, thick with the scent of unwashed steel and Roman ambition, is briefly traded for the crisp, jasmine-laden breeze of the peristyle. Senator Albinius places a hand on your arm\u2014not the firm, public grip of a patron, but a soft, private gesture that guides you away from the map table and into the shadows of the marble colonnade.\n\n\"Varenus,\" he begins, his voice dropping to a low, melodic baritone that barely carries over the splashing of the central fountain. He pa",
+      "[auto] Afternoon (15:30:00) in the Villa Albinius, Garden Peristyle\u2014the shadows of the marble columns stretch across the mosaic floor like dark fingers as you walk slowly beside the Senator. You allow a thoughtful, slightly distant expression to touch your features, as if the prospect of legacy has struck a chord deeper than mere coin.\n\n\"Baiae is a jewel of the coast,\" you murmur, your voice a smooth ripple that blends with the splashing of the fountain. \"I have heard travelers speak of its ther",
+      "[auto] Afternoon (15:45:00) in the Villa Albinius, Garden Peristyle. You stop beside a marble statue of Venus, the late afternoon sun casting a crown of electrum light across your brow. You turn to Senator Albinius, your expression shifting from the deference of a merchant to the chilling, effortless poise of a sovereign. You take his hand\u2014not as a client, but as a superior granting an audience\u2014and give a slight, sharp wink that cuts through the 'Varenus' mask like a lightning strike.\n\n\"Senator,",
+      "[auto] The private air of the peristyle is suddenly punctured by the rhythmic clink of high-tier Roman steel. Praetor Varinius emerges from the shaded colonnade, his stride projecting a cold, effortless authority that even Senator Albinius cannot fully match. He doesn't wait for an invitation; he simply occupies the space between you and the Senator, his predatory gaze fixed on you with the intensity of a hawk circling a particularly interesting rabbit.\n\n\"Senator, I find myself in need of our yo",
+      "[auto] The afternoon sun filters through the colonnade, casting long, rhythmic shadows that feel like the bars of a gilded cage. You turn to Praetor Varinius, your posture shifting from the intimate intensity you shared with Albinius to the measured, professional deference of a rising officer. \n\n\"Praetor Varinius,\" you say, your voice a calm, resonant ripple. \"Your notice is a weight I carry with gravity. To serve a commander who views the frontier not just as a border, but as a problem of admin",
+      "[auto] The smoke of the cooking fires drifts lazily through the jagged rocks of Vesuvius, but the air around the central fire is sharp with the tension of kings in exile. Spartacus sits on a fallen cedar, his gaze fixed on the distant, shimmering heat of Capua. Beside him, Aurelia stirs a pot of thin broth, her movements fluid and devoid of the jagged pain that should have claimed her.\n\n\"The merchant,\" Crixus rumbles, his voice like grinding stone as he paces the dirt. He gestures with a heavy, ",
+      "[auto] You remain in the shaded garden of the Villa Albinius, the scent of crushed jasmine heavy in the air as you watch Varinius depart. With a nearly imperceptible tilt of your head, you catch Felix's eye near the western wall. The sniper doesn't wait for a verbal command; he understands the geometry of your intent. He vanishes into the olive groves, a silent shadow draped in Lorica Nigra, his heavy crossbow slung low across his back.\n\nThe hours bleed into the early evening. The Roman officers",
+      "[auto] Twilight (16:45:00) descends upon the Villa Albinius, casting long, bruised shadows across the map table. You lead Glaber back into the solar, your voice dropping into a conspiratorial, merchant-like murmur that suggests profit as much as it does slaughter.\n\n\"Praetor,\" you begin, your fingers hovering over the basalt ledge Felix identified. \"My scouts were surveying the southern routes for a grain shipment when they stumbled upon a jagged truth. The Thracian is hungry. They plan a raid on",
+      "[auto] You stand over the map of Vesuvius, the flickering torchlight casting your shadow long and predatory across the jagged contours of the mountain. The air in the solar is thick with the scent of pine and the cold, metallic weight of impending slaughter. \n\n\"The encirclement must be absolute,\" you say, your voice a smooth, resonant baritone that brooks no room for error. You trace a line of basalt and ash that rings the rebel base. \"Glaber, your 4th Cohort will hold the low ground. Use the si",
+      "[auto] The flickering torchlight in the solar casts long, dancing shadows of Roman eagles across the map of Vesuvius. You lean over the basalt ledge, your finger tracing a sharp, final arc around the rebel supply lines. \"The Julian encirclement must be absolute,\" you say, your voice a smooth, resonant baritone that anchors the room's mounting tension. \"One circle to strangle the mountain camp, and a second, tighter ring to swallow the supply depot. We don't just block their path; we erase the ho",
+      "[auto] Deep Night (23:55:00) at the Southern Supply Depot. The moon is a thin, silver sickle hanging over the jagged silhouette of Vesuvius. Below, the depot sits in a pool of flickering torchlight, its wooden palisades casting long, distorted shadows across the dry earth. The air is stagnant, smelling of parched grain and the cold, metallic tang of Roman iron.\n\nYou move through the tall grass with the soundless grace of a ghost, the Sandals of Hermes swallowing the crunch of every step. Behind ",
+      "[auto] Deep Night (23:56:10). The thin sliver of the moon offers no warning as you rise from the tall grass, the Miasma surging into your limbs like liquid gold. You do not shout; you simply raise a hand, and the shadows of the Praetorian Hand detach themselves from the darkness with practiced, lethal silence.\n\n\"Focus fire,\" you whisper into the Message cantrip, the command vibrating in the ears of your men. \"The Thracian falls first.\"\n\nYou draw *Cupid's Kiss*, the golden composite bow creaking ",
+      "[auto] Deep Night (23:56:20) at the Southern Supply Depot. The silver sickle of the moon hangs witness as the tall grass erupts in a coordinated storm of Roman steel. \n\n\"Focus fire!\" your voice ripples through the Message cantrip, and the darkness itself seems to exhale death. You rise, *Cupid's Kiss* glowing with a faint, bioluminescent gold as you release two arrows in a heartbeat. Both find their mark\u2014one tearing through Spartacus's leather harness, the other biting into his shoulder. Beside ",
+      "[auto] Deep Night (23:56:30) at the Southern Supply Depot\u2014the air is heavy with the smell of parched grain and the metallic tang of fresh blood. The thunder of the 120-man volley has faded into a ringing silence, leaving only the wet, ragged coughing of the Thracian behind the grain cart.\n\nYou step out from the tall grass, the Sandals of Hermes rendering your stride as silent as a predator's. The moonlight catches the Tyrian purple of your silks, casting you in a regal, unearthly light that seem",
+      "[auto] Deep Night (23:56:45) at the Southern Supply Depot\u2014the moonlight feels brittle as you stand before the wreckage of the rebel leadership. You do not shout; you simply exhale, and the Miasma responds. With a flick of your Sorcery Points, you weave a *Subtle Fear* into the very air. There is no incantation, only a sudden, soul-chilling cold that radiates from your golden silhouette.\n\nCrixus, the Undefeated Gaul, freezes. His eyes, usually burning with the fire of the arena, suddenly widen as",
+      "[auto] Deep Night (23:57:00) at the Southern Supply Depot\u2014the air is thick with the copper tang of blood and the soul-chilling weight of the Julian Miasma. You exhale, and the *Subtle Fear* you wove into the moonlight expands, a predatory ripple that swallows the entire central yard of the depot.\n\nCrixus remains paralyzed, his winning roll from moments ago irrelevant as he stares into the golden void of your eyes. Behind him, the dozen gladiators who once stood as the shield of the Thracian brea",
+      "[auto] Deep Night (23:58:00) at the Southern Supply Depot\u2014the air is thick with the scent of ozone and the heavy, rhythmic clank of Roman iron. With the rebels paralyzed by the lingering Julian Miasma, you raise a hand. Valerius and the shackle-team move in with the mechanical precision of a butcher's shop, clamping heavy iron collars and double-chains onto the gladiators. Crixus, still shivering from the *Fear*, offers no resistance as Titus kicks his blade away and forces his gauntleted hands ",
+      "[auto] The moon has barely shifted toward the horizon before the clatter of Roman armor signals the arrival of the main force. Praetor Glaber emerges from the torchlight, his face a pale mask of disbelief as he surveys the yard. His eyes fixate on Spartacus\u2014the 'Bringer of Rain'\u2014now little more than a heap of bruised meat and rattling chains. Behind the Praetor, the other Tribunes stand frozen, their breath hitching in the cold night air.\n\nGlaber\u2019s internal thoughts are a frantic, jagged mess. *",
+      "[auto] Deep Night (01:15:00) at the Southern Supply Depot\u2014the air is cold, the ground stained with the blood of a rebellion that was supposed to change the world. The iron collars of Rome bite into the necks of the Thracian and the Gaul, their heavy clank a funeral dirge for the hope that had flared so brightly in Capua's square.\n\nSpartacus sits against the splintered wood of a grain cart, his head bowed. Internally, his mind is a tactical map being torn to shreds. *Glaber was the bait,* he real",
+      "[auto] Deep Night (01:25:00). The moonlight glints off the fresh iron of the shackles as you step away from the broken Spartacus and toward Praetor Glaber. The air is still heavy with the scent of Julian Miasma, a lingering chill that keeps the surrounding officers in a state of quiet, respectful distance.\n\n\"Praetor,\" you begin, your voice dropping to a smooth, conspiratorial baritone that draws Glaber's attention away from the heap of chains. \"The Thracian is a creature of low honor and a mind ",
+      "[auto] Deep Night (01:30:00). The scent of parched grain is now entirely replaced by the metallic tang of blood and the heavy, industrial smell of Roman iron. You stand beside Praetor Glaber, the moonlight catching the gold embroidery of your Tyrian silks as you watch the 4th Cohort finalize the iron cage for the 'Bringer of Rain.'\n\n\"A captured king is a weapon, Praetor,\" you begin, your voice a smooth, resonant baritone that anchors Glaber's erratic adrenaline. \"A dead one is merely a martyr. W",
+      "[auto] The cold bite of the Deep Night air (01:45:00) does little to soothe the tension within the iron cage as it creaks onto the southern road. You step inside the heavy wooden transport, the Sandals of Hermes rendering your entrance as silent as a shifting shadow. The space is cramped, smelling of rusted iron, sweat, and the coppery tang of Spartacus's half-healed wounds. \n\nSpartacus sits bolted to the floor, a blindfolded monument of silent agony. Beside him, Crixus is a heap of shivering mu",
+      "[auto] The interior of the transport is a stifling box of shadows and the heavy, rhythmic clanking of iron. You stand over the two broken kings, your presence radiating a heat that seems to sap the very oxygen from the small space. \n\nSpartacus sits perfectly still, the heavy linen blindfold hiding his expression, but his jaw is locked in a white-knuckled grip of focus. Internally, he is a man drowning in a new kind of terror. *Fifty guards,* he muses, the number echoing in his mind like a hammer",
+      "[auto] Dawn (05:30:00) breaks over the jagged peaks of Vesuvius, casting long, bloody streaks of crimson across the Roman line. The 'Julian Encirclement' is a masterpiece of martial geometry: six hundred legionaries stand in a silent, unbroken ring of iron, their pila glinting like a thousand frozen needles. Behind them, the siege engines\u2014ballistae and heavy onagers\u2014loom like prehistoric beasts, their torsion ropes creaking with the weight of impending fire.\n\nYou stand at the center of the Roman",
+      "[auto] Dawn (05:45:00) paints the jagged peaks of Vesuvius in the color of old blood. You stand before the iron cage, the 'merchant' Varenus looking up at the rebel ledges with a clinical, almost bored detachment that masks the predatory focus of a Julian. \n\n\"Aurelia!\" your voice rings out, a smooth, resonant baritone that carries with the weight of absolute certainty. \"You saw what my hand could do in Capua. You saw the girl mended. I offer you that same grace now. I am a man of vast interests,",
+      "[auto] Dawn (05:50:00) at the Vesuvius Foothills. The morning air is cold and sharp, carrying the metallic scent of six hundred Roman pila held in readiness. You stand before the cage, your presence radiating a golden, Julian heat that seems to push back the creeping mountain mist. \n\n\"Naevia! Aurelia!\" Your voice ripples through the amphitheater of basalt, a smooth, resonant baritone that brooks no room for the frantic whispers of the ridge. \"Your leaders have chosen the path of survival. I offe",
+      "[auto] Dawn (05:55:00) at the Vesuvius Foothills. The cold morning air is brittle with the sound of six hundred Roman pila being shifted in the dirt. You step closer to the iron cage, your amber eyes dilated, reflecting the first rays of the sun like molten gold. You do not look at the ridge; you look into the cage.\n\n\"Spartacus. Crixus,\" you begin, your voice a low, vibrating hum that seems to resonate with the very iron of their chains. \"Look at them. They wait for a sign. They wait for the wor",
+      "[auto] Early morning (06:15:00) at the Vesuvius Foothills\u2014the scent of damp earth and cooling pitch hangs heavy as the first wave of rebels begins their cautious descent from the basalt ridges. You stand beside Praetor Glaber, your amber eyes tracing the movement of the masses like a hawk watching a shifting tide. \n\n\"Praetor,\" you begin, your voice a smooth, resonant baritone that anchors Glaber\u2019s lingering adrenaline. \"We have broken the spirit of this rebellion, but the victory is not yet comp",
+      "[auto] Early morning (06:35:00) at the Vesuvius Foothills\u2014the air is thick with the dust of a thousand shuffling feet and the heavy, rhythmic clatter of Roman iron. You stand as the golden axis of this mass transition, the 'merchant' Varenus overseeing the systematic dismantling of a rebellion with the cold precision of an audit.\n\n\"Drop the steel!\" your voice ripples through the Message cantrip, a smooth, resonant baritone that carries to the furthest edges of the basalt ridge. \"Any hand that re",
+      "[auto] Early morning (06:55:00). The dust of the mass surrender begins to coat the polished bronze of the Roman standards as the last of the rebels are brought into the light. You stand beside Praetor Glaber, the 'merchant' Varenus adopting a posture of thoughtful, commercial calculation as you watch the columns of broken men and weeping women.\n\n\"The ledger for the field is nearly closed, Praetor,\" you begin, your voice a smooth, resonant baritone that anchors Glaber's euphoric adrenaline. \"But ",
+      "[auto] Morning (07:00:00) at the Vesuvius Foothills finds the 'merchant' Varenus seated within a temporary command pavilion, the air smelling of fresh cedar and the sharp, metallic tang of Roman ink. The mass surrender is complete; the valley is now a sea of shuffling captives being sorted with the cold, commercial precision of a harvest. \n\nYou dip your quill into the dark ink, the vellum before you divided into two distinct worlds. The first, addressed to the Senate and the People of Rome, is a",
+      "[auto] Morning (07:15:00) at the Vesuvius Foothills (Roman Command Camp)\u2014you have secured 50,000 gold pieces as your personal share of the slave sale, bringing your total war chest to 150,000 gold, with an equal amount funneled into Praetor Glaber's private accounts.\n\nThe command pavilion is a hive of controlled activity, the smell of fresh cedar and ink thick in the morning air as you orchestrate the final movements of a campaign that has transitioned from a war to a harvest. You stand at the c",
+      "[auto] Midday (12:00:00) in Capua\u2014the 'City of the Arena' has never seen a spectacle quite like the fall of the House of Batiatus. The streets are lined with a mob that is no longer hungry for blood, but drunk on the realization that the nightmare is over. You stand in your gilded chariot, the 'merchant' Varenus looking every bit the conquering prince, though you keep the laurel resting slightly lower than the Praetor's. \n\nBehind you, the procession is a masterpiece of psychological warfare. Spa",
+      "[auto] Morning (09:00:00) in Rome, at the Villa Varenus\u2014the roar of the dual triumphs still echoes in the marble halls, though the city has begun to exhale the heavy scent of incense and spilled wine. The sun filters through the open compluvium of your atrium, catching the gold-threaded silks of your morning robe. The air is cool, carrying the sharp, clean smell of wet stone and the distant, rhythmic chanting from the Temple of Venus Genetrix.\n\nYour father's gaze from the balcony remains a cold,",
+      "[auto] The mirrored gallery of the Domus Aurea feels like a gauntlet of Roman judgment. You lead the way with a stride that is neither a merchant\u2019s hustle nor a soldier\u2019s march, but the languid, terrifyingly confident walk of a Julian. Praetor Glaber and Ilithyia follow, their breath coming in shallow hitches, their eyes darting to the silent, obsidian-clad Praetorians who guard the thresholds of the world\u2019s appetite.\n\nYou reach the Inner Sanctum. The air here is heavy, anchored by the presence ",
+      "[auto] Morning (10:45:00) in the Inner Sanctum of the Domus Aurea\u2014the air is thick with the scent of Imperial incense and the weight of a silence that could crush a lesser man. Praetor Glaber remains on the basalt floor, his forehead pressed against the cool stone, his body trembling beneath his bronze cuirass. The Emperor\u2019s laughter has faded into a dry, expectant rasp, his gaze shifting from his son to the heap of shattered dignity at his feet.\n\nYou step toward Glaber, your stride languid and ",
+      "[auto] Morning (11:00:00) in the Inner Sanctum of the Domus Aurea\u2014the air remains heavy with the scent of Imperial incense, but the tension has shifted from the threat of execution to the meticulous theater of Julian ascension. Praetor Glaber stands with a trembling dignity, his face pale but his voice finding a hollow, practiced resonance as he addresses the Emperor.\n\n\"Divine Caesar,\" Glaber begins, his gaze fixed somewhere just below your father's chin. \"The Tribune... Aurelius... was more tha",
+      "[auto] Morning (11:15:00) in the Inner Sanctum of the Domus Aurea. The air remains heavy with the scent of Imperial incense, but the tension has shifted from the threat of execution to the meticulous theater of Julian ascension.\n\nIlithyia, sensing the shift in the room's gravity, sinks into a curtsy that is more of a desperate collapse into decorum. Her eyes, wide and glistening with unshed tears of terror, dart between the Emperor's cold amusement and your own golden radiance. \n\n\"Divine Caesar,",
+      "[auto] The Inner Sanctum exhales a heavy, perfumed silence as your father rises from his ivory chair. His movements are slow, possessing the tectonic gravity of a man who has already rewritten the map of the world. He begins to walk, the rhythmic click of his sandals against the basalt floor the only sound in the vast dome. You walk beside him, your golden silks a vibrant contrast to the stark, unadorned dignity of his toga.\n\n\"Parthia,\" Caesar rasps, the word echoing like a dry wind through a de",
+      "[auto] Morning (11:45:00). The scent of imperial incense remains heavy, a lingering reminder of the absolute authority that resides within these basalt walls. You walk beside your father, your stride perfectly mirroring his slow, tectonic pace. The mandate for the Eastern Offensive is a physical weight in your mind\u2014a weapon you are already learning to swing.\n\n\"Octavian has a mind like a sieve for gold, Father,\" you remark softly, your voice a smooth ripple of calculated concern as you pass a mir",
+      "Aurelius formalized his Imperial wealth in Rome, consolidating 5.15M gold in assets and liquid capital to fund the Parthian campaign.",
+      "[auto] Evening (19:30:00). The air in the Villa Crassus is heavy with the scent of burning cedar and the unspoken weight of Roman ambition. You lean back against the ivory-inlaid couch, your movements a study in languid, Julian poise that makes the gilded opulence of the room feel like a mere backdrop to your presence. \n\n\"The mask is a fascinating tool, Marcus,\" you begin, your voice a smooth, resonant baritone that vibrates with the *Sermo Nobilis*. You swirl the vintage wine in your cup, the l",
+      "[auto] Evening (19:45:00). You swirl the thick, dark wine in your goblet, the candlelight catching the gold embroidery of your toga praetexta. You set the cup down with a deliberate, soft click against the marble table, leaning forward into Crassus\u2019s personal space. The air between you is thick with the scent of burning cedar and the cold, metallic weight of unspoken agendas.\n\n\"Marcus, the East is a graveyard for those who bring only vanity to its sands,\" you begin, your voice dropping to a smoo",
+      "[auto] The scent of burning cedar seems to sharpen as you lean further into the space between you and the wealthiest man in Rome. You do not merely offer a contract; you offer a sacrament. \n\n\"Thirty million gold, Marcus,\" you murmur, your voice a silken resonance that vibrates with the power of the Miasma. \"A drop in the ocean of your fortune, but the seed of a new world. In return, twenty percent of the profits from the Eastern provinces, in perpetuity. I do not ask for a loan; I ask for a part",
+      "[auto] You have 125,000 men total: 35,000 veteran legionaries from the seven legions granted by your father\u2019s mandate, and 90,000 newly raised forces\u2014including 65,000 heavy infantry, 20,000 auxiliary cavalry, and 5,000 specialists\u2014funded and supplied by Crassus\u2019s 30 million gold. \n\nMorning (08:00:00) in the Imperial War Room finds you standing before the great obsidian map of the East, the silver borders of Parthia now looking less like a threat and more like a banquet table awaiting your arriva",
+      "[auto] The following months are a blur of kinetic energy and the cold, rhythmic clank of Roman industry. As the 'Sun of Rome' sets the tempo, Marcus Crassus begins the liquidation of his vast holdings, turning slum tenements and banking interests into a tidal wave of grain, steel, and silver. In the Imperial War Room, you oversee the assembly of a force that makes even the veteran Praetorians uneasy. \n\nBy Mid-November (08:00:00), the mobilization is complete. Your forces have swelled to 165,000\u2014",
+      "[auto] You stand before the obsidian map of the East, the morning light catching the gold thread of your robe as you weigh the dynastic ledger of the House of Albinius. The earlier fog that clouded your thoughts on Senator Albinius's niece, Fabia, finally lifts, replaced by the cold, clinical clarity of a Julian auditor. (Intelligence Check: 12 vs DC 12 \u2014 success). \n\nFabia is a strategic asset, but a complex one. As a Senatorial niece with a Baiae-sized dowry, she offers a bridge to the old Opti",
+      "[auto] Morning (11:45:00) in the Inner Sanctum. The air is still vibrating with the Emperor's dry amusement as you lead the shell-shocked Glaber and Ilithyia back toward the gardens where Senator Albinius awaits. The Praetor walks like a man in a dream, his hands trembling so violently that the bronze of his bracers chatters against his side. Ilithyia is silent, her gaze fixed on the ground, her earlier aristocratic poise completely dissolved into a state of religious terror.\n\nAs you emerge into",
+      "[auto] Midday (12:15:00) in the gardens of the Domus Aurea\u2014the air is thick with the scent of jasmine and the heavy, industrial smell of Roman ink as the 'Baiae Contract' is formally laid across a table of polished cedar. Senator Albinius sits on the marble bench, his hand still trembling as he dips a silver quill into the inkwell. He does not look at the vellum; he looks at you, his gaze possessing the hollow, devoted intensity of a man who has just seen the sun descend to walk beside him.\n\n\"Th"
+    ],
+    "army_data": {
+      "total_strength": 165000,
+      "composition": {
+        "specialists": 5000,
+        "new_heavy_infantry": 65000,
+        "imperial_mandate_forces": 75000,
+        "elite_level_5_plus": 5000,
+        "crassus_funded_forces": 90000,
+        "veteran_legionaries": 35000,
+        "heavy_infantry": 65000,
+        "auxiliary_cavalry": 20000,
+        "veteran_heavy_infantry": 35000
+      }
+    },
+    "third_servile_war_scheduled_year": 81,
+    "divine_potential": 0,
+    "rumors": [
+      {
+        "content": "A 'Golden Wolf' was seen commanding the sunlight in the square.",
+        "source_type": "commoner",
+        "related_event": "Market Square Rescue",
+        "accuracy": "partial"
+      }
+    ],
+    "attribute_system": "D&D",
+    "last_story_mode_sequence_id": 216,
+    "faction_minigame": {
+      "suggestion_given": false,
+      "strong_suggestion_given": true,
+      "enabled": false
+    },
+    "multiverse_upgrade_available": false,
+    "character_creation_in_progress": false,
+    "character_creation_stage": "complete",
+    "parthian_arc": {
+      "phase": "Mobilization Complete",
+      "progress": 40
+    },
+    "universe_control": 0,
+    "faction_updates": {
+      "House of Glaber": {
+        "resource_change": "Loss of military prestige, gain of one 'Varenus' asset",
+        "player_standing_change": "Jealousy is rising; Glaber views Varenus as a vital but slipping asset.",
+        "progress": "Fragile",
+        "next_action": "Fortify the villa and attempt to reclaim the initiative",
+        "current_objective": "Survival and restoration of dignity"
+      }
+    },
+    "world_events": {
+      "turn_generated": 21,
+      "background_events": [
+        {
+          "event_type": "immediate",
+          "status": "blocked",
+          "actor": "Octavian's Clerks",
+          "action": "Attempted to seize grain ledgers at the Ostia docks"
+        }
+      ]
+    }
+  },
+  "social_hp_challenge": {
+    "social_hp": 3,
+    "roll_dc": 18,
+    "cooldown_remaining": 0,
+    "successes": 2,
+    "npc_id": "",
+    "roll_result": 19,
+    "request_severity": "submission",
+    "npc_tier": "noble",
+    "successes_needed": 5,
+    "social_hp_damage": 1,
+    "status": "YIELDING",
+    "resistance_shown": "Albinius is overwhelmed by the Imperial revelation and the visible trauma of his daughter.",
+    "social_hp_max": 5,
+    "objective": "Secure Imperial Pact & Marriage",
+    "skill_used": "Persuasion",
+    "npc_name": "Senator Albinius",
+    "cooldown_until_hour": 12
+  },
+  "combat_state": {
+    "initiative_order": [],
+    "combat_summary": null,
+    "combat_phase": "idle",
+    "combatants": {},
+    "in_combat": false,
+    "current_round": null,
+    "rewards_processed": false,
+    "combat_session_id": null,
+    "combat_history": [
+      {
+        "enemies_defeated": [
+          "npc_spartacus_001",
+          "npc_crixus_001",
+          "npc_gladiator_001",
+          "npc_gladiator_002",
+          "10x Unnamed Gladiators"
+        ],
+        "rounds_fought": 2,
+        "xp_awarded": 11100,
+        "session_id": "combat_1710547200_depot",
+        "archived_at": "2026-01-28T08:10:23.638535+00:00",
+        "loot_distributed": true
+      }
+    ]
+  },
+  "last_state_update_timestamp": "2026-01-28 19:36:39.482000+00:00",
+  "turn_number": 72,
+  "player_turn": 72,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "minute": 15,
+    "hour": 12,
+    "time_of_day": "Midday",
+    "year": 71,
+    "day": 15,
+    "month": "November"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {
+    "last_note": "HD: 8/8 | Spells: L1 4/4, L2 3/3, L3 3/3, L4 2/2 | Sorcery: 2/2 | Bardic Inspiration: 5/5"
+  },
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "debug_info": {
+    "dm_notes": [
+      "Albinius trust increased to 4 (Trusted) following his move to offer a private alliance and marriage prospect.",
+      "Aurelius gained +5 Auctoritas and +3 Gratia for being courted by a Senator for a noble marriage, though this remains private for now.",
+      "Time advanced 30 minutes for the private walk and detailed conversation.",
+      "The player successfully navigated a high-tier social check, dealing 2 Social HP damage to Albinius (bringing him to 1/5).",
+      "XP awarded for a significant social victory (Moderate tier + High-bred RP bonus).",
+      "Auctoritas increased due to the securing of a Senatorial patronage.",
+      "Albinius is now a committed political ally who views Varenus as a bridge to the Julian inner circle.",
+      "Auctoritas +5 for securing a Senator's total devotion.",
+      "Gratia +3 for being compared to legendary Roman stock.",
+      "Glaber's trust level remains stable but his 'possession' instinct is triggered.",
+      "Varinius is now actively evaluating Varenus for his own service.",
+      "Dignitas: Imperium +2 for being recognized by a second Praetor.",
+      "Varinius trust increased to 2 (Neutral/Wary) following the player's nuanced response.",
+      "Glaber's 'possession' instinct remains high, but his immediate hostility is deferred.",
+      "Auctoritas +3 for navigating the Sermo Nobilis with Albinius while maintaining the mask for Varinius.",
+      "Spartacus trust level remains Neutral but his wariness has increased significantly.",
+      "Aurelia has developed a 'Divine Awe' trait regarding the player.",
+      "Crixus views the player as a 'Golden Roman'\u2014a threat to be met with steel.",
+      "The rebels are now actively debating the identity of 'Varenus'.",
+      "Felix Nat 20 on stealth/tracking provides 'Perfect Information' tier results.",
+      "Rebel numbers confirmed: 300 total (200 fighters).",
+      "Strategic hook: Rebels are planning a raid, giving the player a 'Defend or Sabotage' choice.",
+      "Time advanced 15 minutes for Felix's report and summary.",
+      "Glaber trust increased slightly (to 3) as the player provides him a tactical 'out' for his previous failures.",
+      "Imperium +2 for sound tactical briefing accepted by a Praetor.",
+      "Auctoritas +2 for managing Glaber's ego while asserting strategic dominance.",
+      "Planning check successful (Competent tier).",
+      "Glaber trust stable at 3.",
+      "Tactical preparations for mass combat in progress.",
+      "Tactical Encirclement check passed (18 vs 14).",
+      "Imperium +3 for successful mobilization of a Roman Cohort under Julian doctrine.",
+      "Auctoritas +2 for maintaining command authority over Praetors.",
+      "Time advanced to 18:30 for deployment phases.",
+      "Ambush Stealth check passed (23 vs 16).",
+      "Rebels (Spartacus, Crixus, 12 gladiators) are in the kill zone.",
+      "Surprise round is available for the next turn.",
+      "Time advanced to nearly midnight for the ambush execution.",
+      "Spartacus took 31 damage in the surprise round.",
+      "Ambush logic followed: Surprise round benefits applied.",
+      "Time increment: 10 seconds for initial volley.",
+      "Spartacus took 168 raw damage, reduced to 1 HP per 'almost dead' instruction.",
+      "Rebels are effectively suppressed (pinned) by the weight of the 100-man volley.",
+      "Crixus is uninjured but tactically paralyzed by the need to protect Spartacus.",
+      "Cohort morale is surging as they witness the 'Merchant's' lethal precision.",
+      "Spartacus is at 1 HP, making him highly susceptible to submission demands.",
+      "Crixus remains the primary physical threat due to his uninjured state.",
+      "Imperium increased by +3 for a successful command presence in the field.",
+      "Social HP for the rebel bloc (Lord tier) initiated at 8, now at 7.",
+      "Fear spell was highly effective against Crixus (Nat 2 save).",
+      "Persuasion check was a Nat 1, resulting in zero social progress this turn despite the carrot.",
+      "Spartacus remains at 1 HP; he is too weak to lead the response, leaving the frightened Crixus as the primary point of contact.",
+      "Social HP for the rebel bloc remains at 7/8.",
+      "Spartacus passed his save by hitting exactly the DC 16, allowing him to maintain his role as the lead negotiator despite his 1 HP status.",
+      "Two gladiators failed and fled, while two others succeeded, maintaining a small defensive core around their leader.",
+      "Social HP reduced by 2 as Spartacus verbally conceded to the 'carrot' of healing and life.",
+      "Fear effect on Crixus remains active from the previous turn's successful cast.",
+      "Character reached Level 7. XP calculation: Base 7,400 + 50% Strategy Bonus = 11,100.",
+      "Divine Fervor success bonus applied for securing a major submission (Spartacus & Crixus).",
+      "Social HP challenge with Spartacus & Crixus marked as SURRENDERED.",
+      "Combat ended and rewards processed.",
+      "Glaber trust increased to 5 (Trusted) due to the player handing him career-saving glory.",
+      "Dignitas: Auctoritas +5 for masterful political maneuvering; Imperium +10 for capturing the rebel leaders; Gratia +5 for the impending news of the 'Roman' victory.",
+      "Level 7 benefits applied: Spell slots updated, Dimension Door and Greater Invisibility added.",
+      "Rebel leaders now view Varenus as a 'Golden Roman'\u2014a tier of threat above standard human capabilities.",
+      "The contrast between Glaber's month-long failures and Varenus's one-watch success is now a core psychological driver for the prisoners.",
+      "Miasma-induced trauma (Fear) has left Crixus particularly susceptible to Varenus's presence.",
+      "Glaber trust verified at 5.",
+      "Extreme shackle protocol successfully implemented.",
+      "Varenus now has effective custody of the rebellion's leaders.",
+      "Imperium increased +10 for capturing the rebel leaders; Auctoritas +5 for masterful handling of Glaber's ego.",
+      "Auctoritas increased +5 for masterful handling of Glaber's ego and strategic planning.",
+      "Glaber trust stable at 5.",
+      "Spartacus and Crixus remain in extreme shackle protocol.",
+      "Social HP challenge for rebel base (Vesuvius) will initiate upon arrival.",
+      "Interrogation successful; Spartacus yields 1 Social HP.",
+      "Crixus remains the primary leverage point.",
+      "Time advanced 15 minutes for the transit interrogation.",
+      "Persuasion check passed (21 vs DC 20) using Advantage from Divine Fervor.",
+      "Rebel morale is at an all-time low due to the 'Golden Roman' aura and the meticulous security.",
+      "Spartacus yields another 1 Social HP (now at 5/8) as he accepts the inevitability of his situation.",
+      "Time advanced 10 minutes for the interrogation and transit progress.",
+      "Persuasion check passed (19 vs DC 16) using Advantage from Divine Fervor.",
+      "Vesuvius Rebel Base social HP challenge initiated (Lord tier, 8 HP).",
+      "Aurelia's trust increased due to the 'safety' offer.",
+      "Time advanced to Dawn (05:30:00).",
+      "Persuasion check passed with a high margin (25 vs DC 20), dealing 2 Social HP damage.",
+      "Spartacus and Crixus have yielded their remaining resistance due to the leverage against their loved ones.",
+      "Social HP for Vesuvius Rebel Base is now at 5/8.",
+      "Time advanced 15 minutes for the parley and the start of the surrender process.",
+      "Persuasion check failed with a margin of -2 (16 vs 18).",
+      "Social HP for Vesuvius Rebel Base remains at 5/8; status remains WAVERING.",
+      "Time advanced 5 minutes for the public address.",
+      "The rebels are psychologically 'locked'\u2014they need a tangible demonstration of safety before they descend.",
+      "Persuasion check passed with a high margin (28 vs DC 18) using Advantage from Divine Fervor.",
+      "Time advanced 5 minutes for the negotiation and the start of the mass descent.",
+      "Social HP for Vesuvius Rebel Base reduced by 2 (now at 5/8).",
+      "The rebels are no longer 'locked'\u2014the command from their kings has triggered the surrender process.",
+      "Naevia and Aurelia are the primary points of contact for the transition.",
+      "Persuasion check passed with exceptional margin (30 vs 18).",
+      "Time advanced 20 minutes for the negotiation and the start of the mass transition.",
+      "Persuasion check passed (24 vs DC 15) for mass surrender.",
+      "Time advanced 20 minutes for the disarmament and start of transit.",
+      "Social HP for Vesuvius Rebel Base reduced by 2 (now at 3/8).",
+      "Sanctuary mode scale increased to 'major' (10 turns) due to the conclusion of the Vesuvius arc.",
+      "Glaber's internal relief and burgeoning debt to Varenus are now core character drivers.",
+      "Glaber's trust increased to 6 (Trusted) due to the profit-sharing deal.",
+      "Primary arc 'The Fall of Vesuvius' marked as completed.",
+      "Sanctuary mode extended to Turn 75.",
+      "Rebel Base Social HP reduced to 1/8; surrender is effectively absolute.",
+      "Gold calculation: 500 slaves * 200 gold average (premium rebel status) = 100,000 gold total. 50/50 split applied.",
+      "Long rest benefits applied: HP and all resources (spell slots, sorcery points, inspiration) are fully restored.",
+      "Sanctuary mode remains active until turn 75.",
+      "Parallel execution succeeded (21 vs DC 18), resulting in efficient transition.",
+      "Gold share processed: 50,000 gold added to war chest.",
+      "Rebel Base social challenge marked as SURRENDERED/COMPLETED.",
+      "Time advanced 15 minutes for the briefing and start of transit.",
+      "Confirmed Living World generation is tracking Ashur's 'black file' and Crassus's mobilization.",
+      "The Dignitas system is calculating standing shifts based on the Vesuvius victory.",
+      "Triumph rewards applied: +10 Imperium, +10 Auctoritas, Gratia maxed at 100.",
+      "Spartacus and Crixus status updated to 'drugged_captive_icon'.",
+      "Level 8 reached: 34,900 XP.",
+      "ASI/Feat 'War Caster' applied per progression template.",
+      "Loot added to backpack from rebel leaders.",
+      "Primary arc XP processed and rewards_processed flag set.",
+      "Transitioned to Rome after triumphs.",
+      "Strong recommendation for faction minigame given due to army strength (600).",
+      "Set scene for political consolidation phase.",
+      "Aurelia and Naevia are now household assets.",
+      "Spartacus and Crixus are drugged captives in private holding.",
+      "Glaber and Ilithyia are currently at Social HP: 1/3 (Glaber) and 1/1 (Ilithyia) regarding the pressure of the environment.",
+      "Auctoritas increased +5 for bypassing the imperial bureaucracy through sheer confidence.",
+      "The Emperor's presence is being telegraphed as a 'Level 20 Warlord/Bard' tier threat.",
+      "The player rolled a Nat 20 on the Deception check against the Emperor.",
+      "Caesar's 'amused detachment' is triggered by the sheer audacity of his son's performance.",
+      "Glaber's psychological state is now 'Shattered'\u2014he is entirely dependent on Varenus for survival.",
+      "The player's request to redo the scene with the real name while maintaining the mask was resolved with a Nat 20.",
+      "The Emperor is 'amused' by the irony, rewarding the player's earlier 'Varenus' initiative.",
+      "Glaber is now effectively a non-threat and a permanent asset due to psychological collapse.",
+      "Auctoritas +10 for the successful reveal in the inner sanctum.",
+      "Glaber's trust increased to 7 (Devoted) due to the Imperial lifeline.",
+      "The Emperor's amusement provides a -2 DC modifier to the next social interaction with him.",
+      "Success streak increased to 7, elevating complication risk for next major action.",
+      "Glaber's report was a critical success, elevating Auctoritas by +10.",
+      "Lucretia is now a high-value narrative asset who can influence the religious/mystical perceptions of the Julians.",
+      "The Emperor's amusement remains a -2 DC modifier for the next interaction.",
+      "Glaber and Ilithyia have fully committed to the 'lifeline' provided by Aurelius.",
+      "The Emperor's amusement remains a significant -2 DC modifier for the next interaction.",
+      "Success streak increased to 8, maintaining the 'Divine Fervor' buff.",
+      "The narrative focus is shifting toward the private counsel between Father and Son.",
+      "The player successfully navigated an Extreme DC (30, reduced to 28) check to secure a massive military force.",
+      "The Emperor's amusement provided the necessary margin for success on the Nat 20 roll.",
+      "Glaber and Ilithyia have been solidified as loyal subordinates due to the reveal.",
+      "Success streak remains at 8.",
+      "The narrative shift to the Eastern Front and the Crassus intrigue is now the primary focus.",
+      "Successful Deception check (24 vs 22) allowed for the classification of Varenus records.",
+      "Octavian's 'Wolf' persona is now being actively countered by Aurelius's 'Imperial' authority.",
+      "The success streak remains at 8, maintaining Divine Fervor.",
+      "Transitioned to the 'High-Stakes Poker' phase of Arc II.",
+      "Aurelius is using his real name, invoking the Sermo Nobilis and Julian authority.",
+      "Crassus is a Level 10 Mastermind, providing a significant social challenge.",
+      "Tiberius is positioned as a primary antagonist for this scene.",
+      "Divine Fervor remains active, providing Advantage on the upcoming checks.",
+      "Successful Persuasion check (21 vs DC 20) using Advantage from Divine Fervor allowed for the assertion of Imperial parity.",
+      "Auctoritas increased +5 for the masterful use of Sermo Nobilis against Crassus.",
+      "Imperium increased +2 for asserting military authority over the son of a Praetor.",
+      "Tiberius's trust decreased due to public belittlement.",
+      "Crassus's disposition remains neutral but wary; he views Aurelius as a peer-level threat.",
+      "Crassus's Social HP challenge initiated (Ancient tier equivalent due to master-level rogue stats: 12 HP).",
+      "Divine Fervor Advantage used for the roll.",
+      "Tiberius's trust decreased due to ongoing public belittlement.",
+      "Kore's Insight check vs Aurelius's passive Deception (21) failed, she remains intrigued but unmasks nothing.",
+      "Crassus's Social HP reduced from 10 to 8 due to a successful high-stakes persuasion check.",
+      "Divine Fervor Advantage was crucial for the success.",
+      "Cooldown set to 1 turn for social damage.",
+      "Success streak increased to 9, maintaining the Divine Fervor buff.",
+      "Force calculation: 7 legions (35k) + 90k recruited via 30M gold allocated for recruitment and initial 1-year supply/upkeep cycle.",
+      "Octavian's audit is blocked by the security classification, but he is now a motivated antagonist in the capital.",
+      "Crassus's Social HP remains at 8/12, but his commitment to the deal is high due to the blood oath.",
+      "Aurelius has reached a Tier 3 power level in terms of command.",
+      "Force calculation: 75k (Mandate) + 90k (Crassus) = 165k total.",
+      "Sanctuary mode extended by 20 turns due to the major mobilization arc.",
+      "Crassus Social HP remains at 8/12, but he is fully committed to the partnership.",
+      "Aurelius has reached Tier 3 (The General) status in terms of command scale.",
+      "Plan 'albinius_match_assessment' has been successfully unfrozen and resolved.",
+      "Character has Tier 3 command status.",
+      "Sanctuary mode active (Turn 70/89).",
+      "Albinius trust increased to 7 (Devoted) following the Imperial reveal.",
+      "Auctoritas +5 for securing a Senatorial house as a direct Imperial satellite.",
+      "Glaber and Ilithyia are now effectively non-player assets under absolute control.",
+      "Fabia is now a 'committed' asset for the domestic arc.",
+      "Domestic Alliance Arc marked as completed.",
+      "Albinius trust maxed at 10 (Bonded) due to the Imperial revelation and formal contract.",
+      "Sanctuary remains active.",
+      "XP awarded for Major Social Victory (Baiae Contract)."
+    ],
+    "state_rationale": "Senator Albinius's move to offer a marriage alliance is a significant escalation of the 'cultivation' arc, rewarding the player's successful social maneuvering."
+  },
+  "location": "Vesuvius Foothills (Rebel Encirclement)",
+  "planning_block": {
+    "context": "Finalizing domestic alliances before military departure.",
+    "thinking": "The domestic front is secured. With Albinius locked into a marriage pact and Glaber serving as a visible puppet, the Senate lacks the leadership to oppose my mobilization. The 165,000 men are ready. My focus must now shift to the vanguard of the Parthian Offensive.",
+    "choices": {
+      "prepare_eastern_vanguard": {
+        "text": "Prepare Eastern Vanguard",
+        "risk_level": "low",
+        "description": "Meet with Crassus's officers and Felix to coordinate the first wave of the offensive toward Brundisium."
+      },
+      "parallel_execution": {
+        "text": "Execute All Simultaneously",
+        "risk_level": "high",
+        "description": "Coordinate the military vanguard with Felix while Valerius oversees the final shackle-checks on Spartacus and Crixus.",
+        "analysis": {
+          "delegation_targets": [
+            "Felix for military logistics",
+            "Valerius for prisoner security"
+          ],
+          "personal_focus": "Strategic oversight of the Syrian mobilization",
+          "coordination_dc": 18
+        }
+      },
+      "audit_illythia_loyalty": {
+        "text": "Audit Ilithyia's Loyalty",
+        "risk_level": "medium",
+        "description": "Speak privately with Ilithyia to finalize her instructions as your primary spy within the Albinius household."
+      }
+    }
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "army_data": {
+    "total_strength": 165000,
+    "forces": {
+      "praetorian_hand": {
+        "blocks": 1,
+        "morale": 100,
+        "status": "active_ambush",
+        "type": "elite"
+      },
+      "imperial_mandate_legions": {
+        "blocks": 7500,
+        "morale": 85,
+        "upkeep_daily": 75000,
+        "type": "infantry"
+      },
+      "4th_cohort": {
+        "blocks": 48,
+        "morale": 75,
+        "status": "engaged_encirclement",
+        "type": "infantry"
+      },
+      "auxiliary_cavalry": {
+        "blocks": 2000,
+        "morale": 75,
+        "upkeep_daily": 50000,
+        "type": "cavalry"
+      },
+      "capua_garrison": {
+        "blocks": 12,
+        "morale": 60,
+        "status": "stationary",
+        "type": "infantry"
+      },
+      "crassus_recruits": {
+        "blocks": 9000,
+        "morale": 70,
+        "upkeep_daily": 90000,
+        "type": "infantry"
+      },
+      "specialists_and_engineers": {
+        "blocks": 500,
+        "morale": 90,
+        "upkeep_daily": 25000,
+        "type": "elite"
+      }
+    }
+  },
+  "custom_game_data": {
+    "dignitas": {
+      "gratia": 100,
+      "imperium": 87,
+      "auctoritas": 94
+    },
+    "merchant_cover": {
+      "alias": "Aurelius Varenus",
+      "active": false,
+      "shadow_pot": 0
+    }
+  },
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "aurelius julius caesar",
+      "Aurelius Julius Caesar"
+    ]
+  },
+  "encounter_state": {
+    "encounter_summary": {
+      "outcome": "success",
+      "xp_awarded": 3800,
+      "loot_distributed": true
+    },
+    "rewards_processed": true
+  },
+  "frozen_plans": {}
+}

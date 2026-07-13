@@ -1,0 +1,1705 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "health": {
+      "hp_max": 132,
+      "hp": 132
+    },
+    "armor_class": 40,
+    "class_name": "Sword Saint (Gestalt: Battlemaster / Bladesinger / Assassin / Kensei Monk)",
+    "background": "Noble",
+    "entity_id": "pc_theresa_001",
+    "display_name": "Theresa von Astrea",
+    "combat_stats": {
+      "initiative_advantage": true,
+      "initiative_modifier": 10
+    },
+    "attributes": {
+      "strength": 14,
+      "dexterity": 22,
+      "intelligence": 26,
+      "wisdom": 14,
+      "charisma": 14,
+      "constitution": 14
+    },
+    "proficiency_bonus": 5,
+    "race": "Human",
+    "ac": 40,
+    "core_memories": [
+      "Theresa von Astrea has fully accepted the 'Blessing of the Sword Saint', gaining mastery over all weapons and the ability to perceive the flow of the world."
+    ],
+    "spells_known": [
+      {
+        "level": 1,
+        "name": "Shield"
+      },
+      {
+        "level": 1,
+        "name": "Absorb Elements"
+      },
+      {
+        "level": 1,
+        "name": "Mage Armor"
+      },
+      {
+        "level": 2,
+        "name": "Mirror Image"
+      },
+      {
+        "level": 2,
+        "name": "Misty Step"
+      },
+      {
+        "level": 3,
+        "name": "Haste"
+      },
+      {
+        "level": 3,
+        "name": "Counterspell"
+      }
+    ],
+    "name": "Theresa von Astrea",
+    "experience": {
+      "needed_for_next_level": 265000,
+      "current": 251000,
+      "to_next_level": 0
+    },
+    "resources": {
+      "hit_dice": {
+        "used": 0,
+        "total": 16
+      },
+      "gold": 250500,
+      "spell_slots": {
+        "level_7": {
+          "current": 0,
+          "max": 1
+        },
+        "level_5": {
+          "current": 2,
+          "max": 2
+        },
+        "level_1": {
+          "current": 4,
+          "max": 4
+        },
+        "level_6": {
+          "current": 1,
+          "max": 1
+        },
+        "level_2": {
+          "current": 3,
+          "max": 3
+        },
+        "level_4": {
+          "current": 1,
+          "max": 3
+        },
+        "level_8": {
+          "current": 1,
+          "max": 1
+        },
+        "level_3": {
+          "current": 3,
+          "used": 0,
+          "max": 3
+        }
+      },
+      "class_features": {
+        "hit_dice": {
+          "used": 0,
+          "total": 14
+        },
+        "indomitable": {
+          "used": 0,
+          "max": 2
+        },
+        "ki_points": {
+          "current": 15,
+          "max": 15
+        },
+        "action_surge": {
+          "used": 1,
+          "max": 1
+        }
+      },
+      "ki_points": {
+        "current": 16,
+        "max": 16
+      }
+    },
+    "base_attributes": {
+      "strength": 14,
+      "dexterity": 22,
+      "intelligence": 26,
+      "wisdom": 14,
+      "charisma": 14,
+      "constitution": 14
+    },
+    "resource_registry": {},
+    "spells_prepared": [
+      {
+        "level": 1,
+        "name": "Shield"
+      },
+      {
+        "level": 1,
+        "name": "Absorb Elements"
+      },
+      {
+        "level": 1,
+        "name": "Mage Armor"
+      },
+      {
+        "level": 2,
+        "name": "Mirror Image"
+      },
+      {
+        "level": 2,
+        "name": "Invisibility"
+      },
+      {
+        "level": 2,
+        "name": "Hold Person"
+      },
+      {
+        "level": 2,
+        "name": "Suggestion"
+      },
+      {
+        "level": 3,
+        "name": "Counterspell"
+      },
+      {
+        "level": 3,
+        "name": "Hypnotic Pattern"
+      },
+      {
+        "level": 3,
+        "name": "Tongues"
+      },
+      {
+        "level": 4,
+        "name": "Dimension Door"
+      },
+      {
+        "level": 4,
+        "name": "Greater Invisibility"
+      },
+      {
+        "level": 4,
+        "name": "Confusion"
+      },
+      {
+        "level": 5,
+        "name": "Dominate Person"
+      },
+      {
+        "level": 5,
+        "name": "Hold Monster"
+      },
+      {
+        "level": 6,
+        "name": "Mass Suggestion"
+      },
+      {
+        "level": 6,
+        "name": "Otto's Irresistible Dance"
+      },
+      {
+        "level": 6,
+        "name": "Heroes' Feast"
+      },
+      {
+        "level": 7,
+        "name": "Teleport"
+      },
+      {
+        "level": 7,
+        "name": "Simulacrum"
+      },
+      {
+        "level": 7,
+        "name": "Forcecage"
+      },
+      {
+        "level": 8,
+        "name": "Mind Blank"
+      }
+    ],
+    "hp_max": 132,
+    "level": 16,
+    "skills": [
+      "athletics",
+      "acrobatics",
+      "stealth",
+      "arcana",
+      "history",
+      "perception",
+      "persuasion",
+      "insight",
+      "investigation"
+    ],
+    "hp_current": 132,
+    "age": 19,
+    "cantrips": [
+      {
+        "level": 0,
+        "name": "Booming Blade"
+      },
+      {
+        "level": 0,
+        "name": "Green-Flame Blade"
+      },
+      {
+        "level": 0,
+        "name": "Minor Illusion"
+      },
+      {
+        "level": 0,
+        "name": "Prestidigitation"
+      }
+    ],
+    "active_effects": [
+      "Bladesong (Always Active) - +2 AC, +10ft Speed, Advantage on Acrobatics/Concentration",
+      "Blessing of the Sword Saint - Mastery of all weaponry/armor/tools; Unerring strikes",
+      "Blessing of the Lake Spirit & Clouds - Walk on water and air",
+      "Flow Perception - Advantage on Perception, Insight, and Initiative",
+      "Assassinate - Advantage vs foes who haven't acted",
+      "Transcendent Beauty - +2 bonus to all romantic or seduction-based CHA checks",
+      "Martial Arts (1d6) & Ki (13 points) - Access to Flurry of Blows and Stunning Strike",
+      "Reinhard's Intimidation - Advantage on Intimidation when fighting unarmed against armed foes",
+      "Dragon Sword Reid: Scaling Legacy - Gains +1 to bonus at levels 12, 15, and 20",
+      "INT-Based Monk - Monk features (AC, Ki DC) now utilize Intelligence modifier instead of Wisdom",
+      "Martial Synchronization - Monk AC bonus remains active while wearing Light Armor",
+      "Sword Saint's Cleave - Attack Roll vs AC, targets enemies only",
+      "Evasion - Half damage on failed DEX save, no damage on success",
+      "Stillness of Mind - Can use an action to end one effect on self that is causing being charmed or frightened",
+      "Reliable Talent - Cannot roll below a 10 on proficient checks",
+      "Tongue of the Sun and Moon - Understand all spoken languages and be understood by any creature",
+      "Saintly Radiance - Presence alone imposes Disadvantage on saves vs your Frightful Presence for lower-level foes",
+      "Peerless Intellect - Intelligence cap removed (current 24)",
+      "Supreme Commander - You hold absolute legal and martial authority over the Lugnican military",
+      "Song of Victory - Add INT modifier (+7) to melee weapon damage while Bladesinging",
+      "Diamond Soul - Proficiency in all saving throws; 1 Ki to reroll failed saves",
+      "Blindsense - Aware of the location of any hidden or invisible creature within 10 feet"
+    ],
+    "equipment": {
+      "head": {
+        "equipped": true,
+        "stats": "+1 to AC and saving throws",
+        "name": "Elite Saint's Circlet +1"
+      },
+      "armor": {
+        "equipped": true,
+        "stats": "Base AC 13 + DEX",
+        "ac": 13,
+        "type": "armor",
+        "name": "+1 Studded Leather"
+      },
+      "main_hand": {
+        "stats": "+5 to attack and damage rolls; +2d8 Radiant damage; Scales to +6 at Level 20",
+        "bonus": 5,
+        "damage": "1d10+12",
+        "properties": [
+          "finesse",
+          "versatile (1d10)"
+        ],
+        "equipped": true,
+        "description": "The legendary Dragon Sword Reid. Currently a +5 finesse weapon.",
+        "type": "weapon",
+        "name": "Dragon Sword Reid (+5 Heirloom)"
+      },
+      "ranged": {
+        "bonus": 1,
+        "equipped": true,
+        "damage": "1d6+6",
+        "stats": "+1 to attack and damage rolls",
+        "type": "weapon",
+        "properties": [
+          "ammunition",
+          "light",
+          "loading",
+          "range 30/120"
+        ],
+        "name": "+1 Hand Crossbow"
+      },
+      "cloak": {
+        "equipped": true,
+        "stats": "+2 to AC and all saving throws",
+        "name": "Mantle of the Sovereign Saint"
+      },
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        },
+        {
+          "name": "Explorer's Pack"
+        },
+        {
+          "name": "Thieves' Tools"
+        },
+        {
+          "name": "Disguise Kit"
+        },
+        {
+          "damage": "1d10+8",
+          "equipped": false,
+          "stats": "+3 to attack and damage rolls; +2d8 Radiant damage; Scales to +6 at Level 20",
+          "description": "Concealed beneath your cloak.",
+          "type": "weapon",
+          "properties": [
+            "finesse",
+            "versatile (1d10)"
+          ],
+          "name": "Dragon Sword Reid (+3 Heirloom)"
+        },
+        {
+          "equipped": false,
+          "stats": "+1 to Spell Save DC and Spell Attack Bonus",
+          "name": "Obsidian Throne-Sliver"
+        },
+        {
+          "description": "The signed vassalization papers of the Eastern Alliance.",
+          "name": "Highlands Treaty of Iron"
+        },
+        {
+          "stats": "Allows the user to cast 'Darkness' once per long rest without a spell slot.",
+          "description": "A fragment of primordial obsidian taken from the Warlord's vaults.",
+          "type": "item",
+          "name": "Shard of the Abyss"
+        },
+        {
+          "rarity": "Very Rare",
+          "stats": "+2 to AC and all saving throws",
+          "type": "cloak",
+          "name": "Mantle of the Sovereign Saint"
+        },
+        {
+          "rarity": "Rare",
+          "stats": "Saintly Cleave as a bonus action (1/long rest)",
+          "type": "ring",
+          "name": "Blood-Flower Signet"
+        },
+        {
+          "equipped": false,
+          "stats": "+1 to AC and saving throws",
+          "name": "Elite Traveler's Cloak +1"
+        },
+        {
+          "equipped": false,
+          "stats": "+4 to attack and damage rolls; +2d8 Radiant damage; Scales to +6 at Level 20",
+          "bonus": 4,
+          "name": "Dragon Sword Reid (+4 Heirloom)"
+        },
+        {
+          "stats": "+1 to Spell Save DC and Spell Attack Bonus",
+          "name": "Obsidian Throne-Sliver"
+        },
+        {
+          "name": "Highlands Treaty of Iron"
+        },
+        {
+          "stats": "Allows the user to cast 'Darkness' 1/day",
+          "name": "Shard of the Abyss"
+        },
+        {
+          "damage": "1d8+6",
+          "equipped": false,
+          "name": "+1 Rapier"
+        }
+      ],
+      "equipped": {
+        "ring_2": {
+          "equipped": true,
+          "stats": "Advantage on social checks vs Eastern Demi-Humans",
+          "name": "Signet of the Iron Citadel"
+        }
+      },
+      "off_hand": {
+        "equipped": true,
+        "type": "focus",
+        "name": "Arcane Focus Bracelet"
+      },
+      "ring_1": {
+        "equipped": true,
+        "stats": "+1 to AC and saving throws",
+        "name": "Elite Protection Ring +1"
+      },
+      "neck": {
+        "equipped": true,
+        "stats": "+1 to AC and saving throws",
+        "name": "Elite Astrea Amulet +1"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 0,
+      "hour": 15,
+      "time_of_day": "afternoon",
+      "year": 1494,
+      "day": 18,
+      "month": "Nightal"
+    },
+    "current_location_name": "Royal Palace, Lugnica"
+  },
+  "npc_data": {
+    "npc_obsidian_guard_001": {
+      "name": "npc_obsidian_guard_001"
+    },
+    "npc_obsidian_guard_002": {
+      "name": "npc_obsidian_guard_002"
+    },
+    "Bertol Astrea": {
+      "attitude_to_party": "trusted",
+      "entity_id": "npc_bertol_001",
+      "class_name": "Fighter (Knight)",
+      "display_name": "Bertol Astrea",
+      "tier": "lord_general",
+      "level": 12,
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 8,
+          "history": [
+            "Witnessed Theresa's absolute dominance at the pavilion; shocked by the scale of her power exceeding all historical records."
+          ]
+        }
+      },
+      "gender": "male",
+      "role": "Knight of House Astrea / Brother"
+    },
+    "Wilhelm Trias": {
+      "entity_id": "npc_wilhelm_001",
+      "mbti": "ISTJ",
+      "entity_type": "npc",
+      "display_name": "Wilhelm Trias",
+      "alignment": "Lawful Neutral",
+      "gender": "male",
+      "attitude_to_party": "neutral",
+      "tier": "lord_general",
+      "hp_max": 145,
+      "level": 13,
+      "hp_current": 145,
+      "age": 19,
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "secret_notes": "Deeply attracted but socially awkward; his discipline makes him resistant to direct seduction attempts despite his feelings.",
+          "trust_level": 2,
+          "history": [
+            "Received sincere apology for the Sword Saint deception; witnessed Theresa's genuine psychological distress over the killing."
+          ]
+        }
+      },
+      "role": "Sovereign Shield / Second-in-Command",
+      "health": {
+        "hp_max": 45,
+        "hp": 45
+      }
+    },
+    "Lord Karsten": {
+      "level": 12,
+      "tier": "lord",
+      "entity_id": "npc_karsten_001",
+      "status": "summoned",
+      "role": "Dux of the Southern Border",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -5,
+          "history": [
+            "Summoned for inquiry regarding labor abuses"
+          ]
+        }
+      },
+      "name": "Lord Karsten"
+    },
+    "High King Mor'Drak": {
+      "status": "Honored Guest",
+      "current_location": "Royal Capital Lugnica (In Transit)",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 2,
+          "history": [
+            "Vassalized by the God of War",
+            "Treated with dignity in the Capital",
+            "Received a personal apology from the Sword Saint"
+          ]
+        }
+      }
+    },
+    "Obsidian Warlords": {
+      "status": "dead"
+    },
+    "Warchief Grog-Mar": {
+      "name": "Warchief Grog-Mar"
+    },
+    "Remus Barielle": {
+      "level": 8,
+      "tier": "noble",
+      "entity_id": "npc_remus_barielle_001",
+      "status": "conscious",
+      "role": "Barielle Cousin / Conspirator",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -5,
+          "history": [
+            "Captured in Thread-Spinner's Square",
+            "Interrogated in front of the Council"
+          ]
+        }
+      },
+      "name": "Remus Barielle"
+    },
+    "npc_wilhelm_001": {
+      "entity_id": "npc_wilhelm_001",
+      "display_name": "Wilhelm Trias",
+      "tier": "knight",
+      "level": 5,
+      "age": 19,
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "Known by reputation as a hot-headed but talented swordsman."
+          ]
+        }
+      },
+      "gender": "Male",
+      "role": "Aspiring Knight"
+    },
+    "npc_valga_001": {
+      "name": "npc_valga_001"
+    },
+    "Captain Marek": {
+      "tier": "general",
+      "hp_current": 112,
+      "entity_id": "npc_marek_001",
+      "role": "Vanguard Captain",
+      "hp_max": 112,
+      "level": 11
+    },
+    "npc_bertol_001": {
+      "entity_id": "npc_bertol_001",
+      "display_name": "Bertol Astrea",
+      "tier": "lord",
+      "level": 10,
+      "age": 45,
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 5,
+          "history": [
+            "Theresa's father, who encourages her to embrace her lineage."
+          ]
+        }
+      },
+      "gender": "Male",
+      "role": "Head of House Astrea"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "arc_milestones": {},
+    "active_constraints": [
+      "Theresa is an Intelligence-based Monk; Ki DC and Unarmored Defense use INT.",
+      "AOE Cleave uses Attack Rolls vs AC instead of DEX saves.",
+      "Hypnotic Pattern renders targets helpless (Incapacitated/Speed 0) on failed WIS save."
+    ],
+    "god_mode": {
+      "setting": "I wanna play as a young Theresa von Astrea when she discovers sword saint powers and make it lore aligned with re: zero anime. Let\u2019s assume at first I am afraid but eventually I grow into powers. Maybe start me as a level 6 gestalt fighter and bladesinger wizard and assassin rogue",
+      "character": {
+        "name": "Theresa von Astrea"
+      }
+    },
+    "sanctuary_mode": {
+      "original_scale": "epic",
+      "expired": true,
+      "scale": "epic",
+      "expires_turn": 60,
+      "active": false,
+      "activated_turn": 30,
+      "arc": "The Vassalization of the East",
+      "expired_turn": 60
+    },
+    "next_companion_arc_turn": 5,
+    "active_missions": [
+      {
+        "title": "The Hunt of the White Whale",
+        "status": "accepted",
+        "mission_id": "hunt_the_white_whale",
+        "objective": "Intercept and eliminate the Great Mabeast before it strikes the Lifaus Highway."
+      }
+    ],
+    "campaign_tier": "mortal",
+    "success_streak": 16,
+    "reputation": {
+      "public": {
+        "score": 100,
+        "titles": [
+          "God of War",
+          "Sword of the Apocalypse",
+          "Supreme Commander of the East",
+          "The Great Restorer"
+        ],
+        "notoriety_level": "legendary",
+        "known_deeds": [
+          "Exposed 12 high-level corrupt officials for high treason in open court",
+          "Signed the Treaty of Iron with the East",
+          "Founded the Saintly Council and promised land redistribution",
+          "Eliminated the Archbishop of Sloth and Archbishop of Pride",
+          "Historically cured 331 victims of the Witch's Factor",
+          "Established the 'Garden of Mercy' rehabilitation program"
+        ]
+      }
+    },
+    "completed_missions": [
+      "dark_vanguard_ultimatum",
+      "the_sages_reckoning",
+      "subdue_house_barielle",
+      "cult_purge_continuation"
+    ],
+    "directives": [
+      "Theresa holds the secret title of Shadow Commander; her authority is sanctioned by the Saintly Council but remains hidden from the public eye."
+    ],
+    "last_location": "Royal Palace, Lugnica",
+    "_agent_selection_tracker": {
+      "count": 1,
+      "agent": "RewardsAgent",
+      "rewards_skip_count": 0
+    },
+    "core_memories": [
+      "Theresa von Astrea has awakened the 'Blessing of the Sword Saint' but remains fearful of her own destructive potential.",
+      "Theresa von Astrea met the aspiring swordsman Wilhelm Trias in a field of yellow Astrea flowers, marking the beginning of their shared destiny.",
+      "Theresa met Wilhelm Trias in the flower fields and successfully hid her status as the Sword Saint, opting to flirt with him instead of engaging in martial discussion.",
+      "Wilhelm Trias resisted Theresa's initial direct flirtation, retreating into his stoic swordsman persona when asked about a date.",
+      "Wilhelm Trias remained impervious to Theresa's attempt to soften his guard with warmth, his discipline acting as a barrier to her charms.",
+      "Theresa's persistent charm and 'Transcendent Beauty' finally cracked Wilhelm's stoic shell, leaving the aspiring swordsman visibly wavering and flustered.",
+      "Wilhelm Trias rejected a direct invitation for a date, citing his rigid duty to his sword, despite being visibly flustered by Theresa's beauty.",
+      "Theresa successfully challenged Wilhelm's pride as a swordsman, causing him to yield his stoic defense and agree to a date.",
+      "Wilhelm Trias has accepted Theresa's offer to train with her brother, Bertol Astrea, creating a formal tie between the swordsman and House Astrea.",
+      "Theresa von Astrea maintains a humble and loving bond with her brothers, intentionally concealing the vast gap in their martial power to preserve family harmony.",
+      "Theresa sent a messenger to Bertol Astrea to arrange Wilhelm's training, solidifying a strategic and personal link between the swordsman and the Astrea estate.",
+      "Bertol Astrea has agreed to assist Theresa in concealing her Sword Saint identity, treating her as a delicate noblewoman to maintain her Level 1 mask in front of Wilhelm.",
+      "Theresa analyzed Wilhelm's combat style during his training with Bertol, finding it to be a brutal, rigid 'Sword Demon' style that is difficult to predict due to his sheer martial will.",
+      "Theresa observed Wilhelm's training at the Astrea estate and used her 'Flow Perception' to realize he is pushing his body to the brink of collapse out of a desperate need for strength.",
+      "Theresa praised Wilhelm's tenacity after his grueling training with Bertol, further cracking his stoic defense and revealing the man beneath the 'Sword Demon' mask.",
+      "Wilhelm Trias noticed the exceptional quality of Theresa's family armor despite her attempts to appear as a simple noblewoman, marking the first crack in her 'delicate girl' facade.",
+      "Theresa successfully used the excuse of overprotective brothers to explain her high-quality gear to Wilhelm, reinforcing her 'delicate' persona.",
+      "Theresa and Wilhelm have spent months dating and training, but the escalation of the Demi-Human War has forced them to the front lines, where Theresa continues to mask her Sword Saint identity as a fearful noble observer.",
+      "Bertol Astrea knows Theresa has unnatural talent, but he is convinced she lacks the psychological 'nerve' to take a life, leading him to treat her as a fragile liability despite her actual power.",
+      "Theresa shattered her 'Level 1' mask and revealed her true Sword Saint power to save Bertol, an event witnessed by a horrified and awestruck Wilhelm.",
+      "Theresa von Astrea has publicly revealed her status as the Sword Saint to save her brother, shattering her level-mask and ending her quiet life forever.",
+      "Theresa revealed her true nature as the Sword Saint on the battlefield, single-handedly halting a demi-human army vanguard to protect her brother and Wilhelm.",
+      "Theresa has finalized her Level 7 awakening at the Breach, mastering Evasion and gaining 4th-level arcane depth through the sheer stress of the battlefield revelation.",
+      "Theresa von Astrea infiltrated the Demi-Human command center while invisible and decapitated their leadership hierarchy with a radiant AOE cleave.",
+      "Theresa von Astrea infiltrated the Demi-Human command pavilion and eliminated Strategist Valga and his elite guard in a single radiant strike.",
+      "Theresa von Astrea has completed her Level 8 awakening, breaking the human limit of intelligence and standing as an untouchable figure of authority at the heart of the Demi-Human command pavilion.",
+      "Theresa von Astrea displayed Strategist Valga's shattered staff to the demi-human army, using her Saintly authority to break their morale and initiate a mass rout.",
+      "Theresa has awakened the 'Astrea Bloodline,' a permanent and non-transferable evolution of the Sword Saint power that exists as a part of her soul.",
+      "Theresa von Astrea utilized Greater Invisibility to systematically assassinate the remaining demi-human officers, shattering the army's morale and forcing a total, panicked retreat.",
+      "Theresa expressed genuine guilt to Wilhelm and Bertol for the slaughter at the pavilion, affirming her humanity despite her transcendent power.",
+      "Theresa confessed her dark enjoyment of the slaughter to Bertol and Wilhelm, finding a somber shared understanding with Wilhelm regarding their 'demonic' martial natures.",
+      "Theresa has fully embraced her Level 9 awakening, mastering the devastating Steel Wind Strike and the resilience of Indomitable while accepting her shared 'monstrous' nature with Wilhelm.",
+      "Theresa has declared her intent to totally decimate the demi-human military and vassalize their nation as a deterrent for future peace.",
+      "Theresa von Astrea has pressured Bertol Astrea with cold, mathematical logic to sanction the total decimation and vassalization of the demi-human nation, accepting the eternal stain on her own soul for the sake of long-term peace.",
+      "Theresa has successfully shifted the moral burden of the 'Dark Mission' to Wilhelm, who has accepted the role of commander for the elite volunteer unit intended to decimate the demi-human remnants.",
+      "Theresa has declared herself the 'Sword of the Apocalypse' and 'God of War,' demanding the total vassalization of the demi-human nation under threat of total erasure.",
+      "Theresa systematically assassinated Warchief Grog-Mar and his lieutenants at Shadow Pass, cementing her reputation as the 'God of War' and crushing the last organized resistance.",
+      "Correction: The Demi-Human War has ended with the total decapitation of the Alliance leadership and the forced vassalization of their territories by Theresa von Astrea, now known as the 'Sword of the Apocalypse'.",
+      "Theresa von Astrea has been crowned the 'God of War' and 'Sword of the Apocalypse' following the total conquest of the Iron Citadel and the vassalization of the Eastern Highlands.",
+      "Theresa has accepted that she is both the God of War and the flower girl, vowing to complete the destruction of the Demi-Human Alliance until peace is absolute.",
+      "Theresa has entered the Divine Tier (Level 11), evolving into a Sovereign Strategist capable of 'dissecting' nations through the fusion of her Saintly aura and peerless intellect.",
+      "Theresa has completed the total subjugation of the Demi-Human Alliance, vassalizing the Highlands and Marshlands while decimating the subterranean Warlords.",
+      "Correction: Theresa von Astrea is the officially appointed Supreme Commander of the Eastern Vanguard; while previously a symbolic rank, her awakening has activated her full legal authority over all Lugnican forces.",
+      "Theresa has achieved Level 13, attaining god-like intelligence (24) and commanding a presence that has unified the Eastern territories under Lugnican vassalage.",
+      "Theresa von Astrea has mandated a policy of equal rights for demi-humans in the conquered Eastern territories, enforcing it through her absolute authority as Supreme Commander.",
+      "Theresa formally presented the Eastern vassalization treaties to the Council of Sages, demanding equal rights for demi-humans as a prerequisite for long-term peace.",
+      "Theresa von Astrea utilized her Saintly authority and logical persuasion to force the Council of Sages to begin ratifying equal rights for demi-humans, using a mix of divine pressure and dark humor.",
+      "Theresa von Astrea utilized her Saintly authority and peerless intellect to force the Council of Sages to formally codify equal rights for demi-humans into Lugnican law.",
+      "Theresa von Astrea has formally apologized to the demi-human leaders, repositioning herself as a diplomat and the King as a 'Great Unifier' to anchor the Treaty of Iron.",
+      "Theresa conducted a formal inquiry of grievances with the demi-human leaders, revealing a polite yet chillingly detached side that convinced them she is a logical executioner who kills without animus.",
+      "Theresa conducted a formal inquiry of grievances with the demi-human leaders, uncovering systematic exploitation in the Southern marshes and border territories.",
+      "Theresa formally summoned Lord Karsten to answer for labor abuses and identified cruel commanders for purge, reinforcing her image as a detached, logical executioner.",
+      "Theresa formally summoned Lord Karsten and the cruel border commanders to the throne room, exposing the massive power gap between their petty cruelty and her logical, Saintly lethality.",
+      "Theresa successfully utilized a Zone of Truth and labor levy evidence to force a corrupt commander to implicate Lord Karsten in front of the demi-human leaders and the Sages.",
+      "Theresa von Astrea utilized her Supreme Commander authority to strip Lord Karsten of his titles for labor abuses, proposing a transitional reparation plan that would eventually hand the Duchy to demi-human leadership.",
+      "Theresa interrogated Lord Karsten under a Zone of Truth, forcing him to implicate Sages Belst and Ghira in the systematic exploitation of the Southern Marshlands.",
+      "Theresa von Astrea publicly threatened the Council of Sages with execution in the throne room, exposing the depth of her logical ruthlessness to the entire Lugnican establishment.",
+      "Theresa interrogated Sages Belst and Ghira under a Zone of Truth, forcing them to implicate the High Treasurer and House Barielle in the Southern border corruption.",
+      "Theresa identified 4 additional corrupt leaders (High Treasurer, Tithe Master, 2 Proctors) and successfully framed them as the 'true villains' to unify the King and demi-human leaders.",
+      "Theresa von Astrea has exposed a total of 12 high-level Lugnican officials for the 'Silence of the Marshes' conspiracy, effectively unifying the King and demi-human leaders against a common internal rot.",
+      "Theresa von Astrea has achieved Level 14, integrating her Song of Victory and Diamond Soul as she purges the Lugnican bureaucracy, turning the 'Treaty of Iron' into a sovereign reality.",
+      "Theresa von Astrea has deployed a Simulacrum to subdue House Barielle while establishing the 'Saintly Council' to replace the corrupt bureaucracy of Lugnica.",
+      "Theresa von Astrea has promised to redistribute the seized Karsten and Barielle lands, using House Astrea's current dominance as a temporary transition to ensure a balanced Saintly Council.",
+      "Theresa proposed a year-long mission to purge the Witch's Cult and requested indefinite 'Shadow Commander' authority, but the King and Council remain wary of granting unchecked secret powers.",
+      "Theresa proposed a direct reporting structure to the Saintly Council for the Shadow Commander role, but the King remains fearful that your personal power outweighs any legal oversight.",
+      "Theresa acknowledged the King's bravery and offered to respect his decision on the Shadow Commander mandate while proceeding to purge the Witch's Cult independently.",
+      "Theresa publicly yielded the Shadow Commander mandate to the King's authority, prioritizing moral integrity over seized power to build institutional trust.",
+      "Theresa von Astrea initiated the Witch's Cult purge with a 'surrender or death' ultimatum, identifying the first hidden cell in the Capital's Outer District through logical deduction.",
+      "Theresa von Astrea successfully subdued the Barielle Duchy and utilized a three-day ultimatum to force the surrender of major bandit lords and, in a historical anomaly, two Witch's Cult cells whose madness was broken by her Saintly presence.",
+      "The 'Saintly Radiance' of Theresa von Astrea has proven capable of conceptually cleansing the mental influence of the Witch's Cult, resulting in the first historical anomaly of 'cured' cultists who have surrendered to Lugnican authority.",
+      "Theresa achieved Level 15, mastering Timeless Body and Mind Blank as her Saintly Radiance conceptually erased the Witch's Factor from the first group of surrendered cultists.",
+      "Theresa presented the cured cultists to the Saintly Council, proving her radiance can conceptually erase the Witch's Factor and initiating a new era of rehabilitation.",
+      "Theresa von Astrea has formally proposed the 'Rehabilitation Act' to the Saintly Council, leveraging the 'cured' cultists as proof that the Witch's Factor can be conceptually erased.",
+      "Theresa von Astrea has successfully eliminated two Sin Archbishops and conceptually cured 331 cultists, establishing the 'Garden of Mercy' as a historical miracle of restoration.",
+      "Theresa von Astrea has attained Level 16, achieving a state of near-infinite resonance (Intelligence 26) and establishing the 'Garden of Mercy' as a historical miracle of restoration.",
+      "The Shadow Vanguard (Wilhelm Lvl 13, Marek Lvl 11) has been formally elevated to the Divine Tier following the four-month purge of the Sin Archbishops.",
+      "Theresa revealed the existence of a noble-led insurrection in the slums to the Saintly Council, leveraging her 'Blindsense' and 'Flow Perception' to expose the discord before it could ignite.",
+      "Theresa has ceded the initial response to the noble insurrection to the Saintly Council's regular military forces to mitigate the fear of a 'Saintly Tyranny' and test their capabilities.",
+      "Theresa proposed involving the Imperial Knights in the slum stabilization, but the Council rejected the idea due to fears of political optics, though they allowed the Shadow Vanguard to remain on standby.",
+      "Theresa conceded the lead in the slum stabilization to the Royal Guard, choosing to monitor the noble insurrection from the shadows while identifying a calculated trap in the lower districts.",
+      "Theresa cornered the Saintly Council with the tactical failure of the Royal Guard, offering three paths of intervention that effectively forced the King to acknowledge her sovereign necessity.",
+      "The King of Lugnica officially authorized the intervention of the Shadow Vanguard in the Thread-Spinner's Square ambush, effectively acknowledging Theresa's sovereign necessity in times of domestic crisis.",
+      "Theresa and the Shadow Vanguard successfully dismantled the noble-led ambush in Thread-Spinner's Square, capturing the Barielle cousin and securing the King's tactical reliance on her 'Shadow' authority.",
+      "Theresa utilized Teleport to deliver the captured Barielle cousin directly to the Strategy Chamber, providing the Saintly Council with living proof of the noble-led insurrection.",
+      "Theresa successfully interrogated Remus Barielle under a Zone of Truth, forcing him to implicate the Royal Magistry and exposing the arcane logistics of the labor forts.",
+      "Theresa von Astrea delegated the final trials of the corrupt officials to the Saintly Council and retired to the Astrea Estate, which has become the realm's most powerful political and military hub.",
+      "After a year of total dominance, Theresa formally resigned as Supreme Commander and initiated the 'Great Redistribution' to anchor a lasting peace.",
+      "During the year of the Shadow Purge, Theresa captured the Sin Archbishop of Wrath (Sirius) and conceptually cured 663 additional cultists, though the Archbishop of Greed escaped her blade.",
+      "Theresa von Astrea has been formally commissioned as the Shadow Commander of Lugnica, holding secret authority over conceptual and external threats under the oversight of the Saintly Council.",
+      "Theresa successfully tracked the White Whale through the eastern mists, identifying its vector near the Flugel Tree and marking it as the first target of her Shadow Mandate."
+    ],
+    "divine_potential": 15,
+    "character_creation_completed": true,
+    "attribute_system": "D&D",
+    "level_up_in_progress": false,
+    "faction_minigame": {
+      "suggestion_given": true,
+      "tutorial_progress": {},
+      "strong_suggestion_given": true,
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "major_event_pressure_budget": {
+      "new_major_event": false,
+      "special_circumstances": false,
+      "window": "24h",
+      "major_events_this_window": 0,
+      "rationale": "The kingdom is currently in a state of 'Saintly Peace' as the Council processes the trials and the military consolidates under Astrea oversight."
+    },
+    "level_up_pending": false,
+    "multiverse_upgrade_available": false,
+    "character_creation_in_progress": false,
+    "level_up_complete": false,
+    "character_creation_stage": "complete",
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "companion_arcs": {
+      "Wilhelm Trias": {
+        "phase": "development",
+        "arc_type": "forbidden_love",
+        "progress": 25,
+        "history": [
+          {
+            "event": "Wilhelm witnessed Theresa's true power at the Breach; his perception of her shifted from delicate noble to transcendent warrior.",
+            "turn": 18
+          }
+        ],
+        "callbacks": [
+          {
+            "effect": "Major shift in relationship; Wilhelm realizes he has been 'protected' by the very thing he seeks to master.",
+            "trigger_condition": "Wilhelm witnesses Theresa's true strength for the first time.",
+            "triggered": true
+          }
+        ]
+      }
+    }
+  },
+  "social_hp_challenge": {
+    "social_hp": 3,
+    "roll_dc": 18,
+    "cooldown_remaining": 1,
+    "successes": 6,
+    "roll_result": 34,
+    "request_severity": "favor",
+    "npc_tier": "king",
+    "successes_needed": 5,
+    "status": "WAVERING",
+    "social_hp_damage": 2,
+    "resistance_shown": "The King has authorized the strike, but the political fallout of using 'Shadows' against nobility still weighs on him.",
+    "social_hp_max": 10,
+    "objective": "Secure Shadow Commander Commission",
+    "skill_used": "Persuasion",
+    "npc_name": "King of Lugnica",
+    "cooldown_until_hour": 16
+  },
+  "combat_state": {
+    "initiative_order": [],
+    "combat_summary": null,
+    "combat_phase": "idle",
+    "combatants": {},
+    "in_combat": false,
+    "current_round": null,
+    "rewards_processed": false,
+    "combat_session_id": null,
+    "combat_history": [
+      {
+        "session_id": "combat_1492_breach_001",
+        "enemies_defeated": [
+          "Strategist Valga",
+          "4x Obsidian Guards"
+        ],
+        "outcome": "Decisive Victory",
+        "rounds_fought": 1,
+        "xp_awarded": 2500,
+        "archived_at": "2026-07-13T02:12:38.722080+00:00",
+        "loot_distributed": true
+      }
+    ]
+  },
+  "last_state_update_timestamp": "2026-07-13 02:13:57.976000+00:00",
+  "turn_number": 73,
+  "player_turn": 73,
+  "last_living_world_turn": 71,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 12,
+    "minute": 15,
+    "time_of_day": "midday",
+    "day": 18,
+    "year": 1494,
+    "month": "Nightal"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "Preparing for the Hunt of the White Whale",
+    "thinking": "The White Whale's vector is confirmed. This is a conceptual threat of the highest order; traditional steel will not be enough. I need to coordinate a multi-front assault that accounts for the 'Fog of Elimination' and the beast's ability to erase memories. My Vanguard is ready, but I may need to bolster them with arcane wards and strategic support from the demi-human nations.",
+    "choices": [
+      {
+        "id": "mobilize_shadow_vanguard",
+        "text": "Mobilize the Shadow Vanguard",
+        "risk_level": "medium",
+        "description": "Order Wilhelm and Marek to prepare the elite units for an aerial-intercept mission near the Flugel Tree.",
+        "cons": [
+          "Vanguard is vulnerable to memory-erasure without specific protection"
+        ],
+        "pros": [
+          "High tactical mobility",
+          "Wilhelm's personal motivation boosts morale",
+          "Maintains the secret nature of the Shadow Mandate"
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "prepare_arcane_wards",
+        "text": "Develop Conceptual Wards",
+        "risk_level": "low",
+        "description": "Use your Peerless Intellect to design a 'Memory Anchor' spell or item to shield your forces from the Whale's elimination powers.",
+        "cons": [
+          "Takes 24 hours of focused research",
+          "Beast may move in the interim"
+        ],
+        "pros": [
+          "Nullifies the Whale's most dangerous ability",
+          "Ensures casualties are not forgotten",
+          "Demonstrates arcane supremacy"
+        ],
+        "confidence": "high"
+      },
+      {
+        "text": "The Lifaus Pincer (Synergistic)",
+        "risk_level": "medium",
+        "cons": [
+          "Requires perfect timing between two distinct forces",
+          "Higher risk of public exposure"
+        ],
+        "id": "coordinate_pincer_synergistic",
+        "pros": [
+          "Maximum damage output",
+          "Synergy: Light from the signal-fires reveals the Whale's physical form through the fog",
+          "Dramatically reduces the beast's ability to ambush"
+        ],
+        "description": "Wilhelm leads the Vanguard in a direct strike while your Simulacrum directs the demi-human border-clans to ignite the signal-fires, trapping the Whale in a cross-fire of light.",
+        "confidence": "medium",
+        "analysis": {
+          "combination_type": "synergistic",
+          "synergy_bonus": "Signal-fires act as 'Light of the Saint,' dispelling the Whale's concealment and lowering its AC.",
+          "dc_modifier": 0,
+          "coordination_dc": 22
+        }
+      }
+    ]
+  },
+  "world_events": {
+    "background_events": [
+      {
+        "fired_at": 72,
+        "event_type": "immediate",
+        "discovery_condition": "Official summons or news from the capital.",
+        "outcome": "Sages are convening an emergency session to verify the Sword Saint's return.",
+        "location": "Royal Capital",
+        "action": "Received frantic reports of a 'Red Flash' erasing the demi-human leadership.",
+        "player_impact": "Massive increase in political pressure and scrutiny.",
+        "actor": "Lugnican Central Command",
+        "created_at": null,
+        "op": "cancel",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "discovery_condition": "Scout reports from the borders.",
+        "outcome": "Invasion morale is permanently broken, but fear may lead to desperate, scattered raids.",
+        "location": "Eastern Ridges",
+        "action": "Fled into the eastern forests, spreading tales of an invisible goddess of fire.",
+        "player_impact": "Border skirmishes will transition from organized war to chaotic survival.",
+        "actor": "Demi-Human Remnants",
+        "created_at": null,
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "discovery_condition": "Intercepting a spy or hearing rumors of Karsten activity.",
+        "outcome": "Lord Karsten's spies have successfully identified Theresa and are reporting her 'monstrous' trajectory to their master.",
+        "actor": "Lord Karsten",
+        "action": "Dispatched personal spies to the front lines.",
+        "player_impact": "Future political complications and potential betrayal from 'allied' noble houses.",
+        "id": "noble_suspicion_001",
+        "location": "Karsten Duchy / Astrea Border",
+        "delta_action": "update",
+        "created_at": null,
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 28,
+        "event_type": "immediate",
+        "discovery_condition": "Scout report or 'Flow Perception' long-range scan.",
+        "resolved_scene_number": 56,
+        "outcome": "Grog-Mar was assassinated by Theresa at Shadow Pass; the regroup attempt failed.",
+        "location": "Shadow Pass, Eastern Ridges",
+        "action": "Attempting to rally the fleeing demi-humans at the Shadow Pass.",
+        "player_impact": "The 'Dark Mission' has a specific target for its first strike.",
+        "actor": "Warchief Grog-Mar",
+        "id": "remnant_regroup_001",
+        "delta_action": "resolve",
+        "created_at": null,
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ],
+        "op": "fire"
+      },
+      {
+        "event_type": "long_term",
+        "discovery_condition": "Returning to the capital.",
+        "outcome": "Lugnican political landscape shifts from internal strife to external consolidation.",
+        "actor": "The Council of Sages",
+        "action": "Panicked by the reports of the 'Sword of the Apocalypse,' they have suspended the tax decree to focus on verifying Theresa's authority.",
+        "location": "Royal Capital",
+        "created_at": null,
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "outcome": "A political faction is forming specifically to limit Theresa's administrative authority.",
+        "location": "Sage Council Chambers",
+        "action": "Begun secret meetings to discuss the 'Sword Saint Problem.'",
+        "id": "sage_clique_formation_001",
+        "actor": "Sage Miklotov's Inner Circle",
+        "created_at": 33,
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 72,
+        "event_type": "immediate",
+        "outcome": "Lord Karsten is now aware of Theresa's 'Equal Rights' decree and is preparing a legal challenge.",
+        "location": "Royal Palace",
+        "action": "Observed the Sword Saint's audience and dispatched a fast rider to the Karsten estate.",
+        "id": "karsten_envoy_maneuver",
+        "revealed_at": 33,
+        "created_at": 33,
+        "actor": "Envoy of Lord Karsten",
+        "_server_stamped": [
+          "fired_at",
+          "revealed_at",
+          "created_at"
+        ],
+        "op": "cancel"
+      },
+      {
+        "fired_at": 72,
+        "event_type": "immediate",
+        "discovery_condition": "Listening to the crowds outside the palace.",
+        "outcome": "A mix of hope, confusion, and lingering prejudice among the citizens.",
+        "location": "Royal Capital Streets",
+        "action": "Gathering in squares to discuss the sight of demi-human kings being treated as guests.",
+        "id": "citizen_confusion_001",
+        "revealed_at": 36,
+        "created_at": 36,
+        "actor": "Capital Populace",
+        "op": "cancel",
+        "_server_stamped": [
+          "fired_at",
+          "revealed_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 72,
+        "event_type": "immediate",
+        "discovery_condition": "Karsten's arrival in the throne room.",
+        "outcome": "Lord Karsten is in shock and preparing a legal/political defense.",
+        "actor": "Royal Guards",
+        "action": "Dispatched to the Karsten estate with Theresa's official summons.",
+        "player_impact": "Direct political confrontation with the kingdom's elite.",
+        "location": "Karsten Duchy",
+        "id": "karsten_summons_001",
+        "delta_action": "add",
+        "created_at": 39,
+        "op": "cancel",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "discovery_condition": "Insight check on Sages or overheard whispers.",
+        "outcome": "Fear of Theresa's trajectory is reaching a fever pitch within the government.",
+        "actor": "Council of Sages",
+        "action": "Observers are frantically documenting Theresa's 'logical executioner' persona.",
+        "player_impact": "High probability of a political coup attempt or legislative 'binding' of her power.",
+        "location": "Royal Palace",
+        "id": "sage_reaction_001",
+        "delta_action": "add",
+        "created_at": 39,
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "discovery_condition": "Listening to merchant rumors or economic reports.",
+        "outcome": "Capital economy begins to stutter; fear of a 'Saintly Purge' spreads.",
+        "actor": "Minor Noble Houses",
+        "action": "Begun withdrawing to fortified estates or liquidating assets.",
+        "player_impact": "Potential for a noble-led insurrection or economic sabotage.",
+        "id": "aristocratic_flight",
+        "location": "Lugnican Countryside",
+        "delta_action": "add",
+        "created_at": 42,
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 72,
+        "event_type": "immediate",
+        "discovery_condition": "A messenger from the Vanguard arrives with news.",
+        "outcome": "First groups of liberated laborers found in forgotten border fort dungeons.",
+        "actor": "Southern Marsh Clans",
+        "action": "Sending messengers to locate survivors of the 'Labor Levy.'",
+        "player_impact": "Massive boost to demi-human trust; concrete proof of Karsten's crimes.",
+        "revealed_at": 42,
+        "id": "marsh_reunions",
+        "delta_action": "add",
+        "created_at": 42,
+        "location": "Southern Marshes",
+        "_server_stamped": [
+          "fired_at",
+          "revealed_at",
+          "created_at"
+        ],
+        "op": "cancel"
+      },
+      {
+        "event_type": "long_term",
+        "discovery_condition": "Intelligence report from the Vanguard.",
+        "outcome": "House Barielle is moving to a defensive/hostile footing.",
+        "actor": "House Barielle",
+        "action": "Dispatched riders to secure their border holdings upon hearing of Karsten's fall.",
+        "player_impact": "Potential for armed conflict with a major Lugnican house.",
+        "location": "Barielle Duchy",
+        "id": "barielle_alert_001",
+        "delta_action": "add",
+        "created_at": 45,
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 72,
+        "event_type": "immediate",
+        "discovery_condition": "Environmental details in the city.",
+        "outcome": "Economic instability in the capital; rise of private militias.",
+        "location": "Royal Capital High District",
+        "action": "Panic-buying supplies and hiring private mercenaries for 'protection' from the God of War.",
+        "player_impact": "Increased social tension and difficulty in city navigation.",
+        "revealed_at": 45,
+        "id": "capital_panic_001",
+        "delta_action": "add",
+        "created_at": 45,
+        "actor": "Lugnican Nobility",
+        "_server_stamped": [
+          "fired_at",
+          "revealed_at",
+          "created_at"
+        ],
+        "op": "cancel"
+      },
+      {
+        "fired_at": 72,
+        "event_type": "immediate",
+        "discovery_condition": "Simulacrum's arrival or scouting reports.",
+        "outcome": "A state of siege is being prepared for the 'Saintly' arrival.",
+        "actor": "Barielle Retainers",
+        "action": "Begun burning sensitive financial records and mobilizing private mercenaries.",
+        "id": "barielle_panic_001",
+        "location": "Barielle Duchy",
+        "created_at": 48,
+        "delta_action": "add",
+        "op": "cancel",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 72,
+        "event_type": "immediate",
+        "discovery_condition": "Ambient city noise or messenger reports.",
+        "outcome": "Small celebrations are breaking out; the 'God of War' is being re-evaluated as a populist savior.",
+        "actor": "Lugnican Citizens",
+        "created_at": 48,
+        "id": "public_hope_001",
+        "revealed_at": 48,
+        "location": "Royal Capital",
+        "delta_action": "add",
+        "action": "News of the corrupt Sages' arrest has reached the market squares.",
+        "op": "cancel",
+        "_server_stamped": [
+          "fired_at",
+          "revealed_at",
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "discovery_condition": "Overhearing court gossip or receiving a copy of the petition.",
+        "outcome": "Increased legislative pressure on Theresa's unique authority.",
+        "actor": "The Lesser Nobility",
+        "action": "Drafted a petition to the Saintly Council requesting a 'Saintly Limitation Act'.",
+        "player_impact": "Potential for legal roadblocks in the Cult purge mission.",
+        "id": "noble_petition_001",
+        "location": "Royal Capital",
+        "delta_action": "add",
+        "created_at": 51,
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 72,
+        "event_type": "immediate",
+        "outcome": "House Barielle's private army has been paralyzed by the Simulacrum's Saintly aura; negotiations for surrender have begun.",
+        "location": "Barielle Duchy",
+        "created_at": 54,
+        "id": "barielle_subdual_001",
+        "revealed_at": 54,
+        "actor": "Theresa's Simulacrum",
+        "delta_action": "update",
+        "action": "Arrived at Barielle Duchy and initiated the subdual protocol.",
+        "op": "cancel",
+        "_server_stamped": [
+          "fired_at",
+          "revealed_at",
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "outcome": "A Sin Archbishop has taken a personal interest in Theresa's trajectory.",
+        "location": "Royal Capital Slums",
+        "action": "Began observing the 'God of War' from the shadows of the capital.",
+        "id": "cult_observation_001",
+        "actor": "The Witch's Cult",
+        "created_at": 54,
+        "delta_action": "add",
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 57,
+        "event_type": "immediate",
+        "outcome": "House Barielle is now a vassal state; its accounts are frozen and its private army disbanded.",
+        "resolved_scene_number": 98,
+        "actor": "Theresa's Simulacrum",
+        "created_at": 57,
+        "player_impact": "Massive increase in House Astrea's treasury and political leverage.",
+        "location": "Barielle Duchy",
+        "id": "barielle_vassalization_finalized",
+        "delta_action": "resolve",
+        "action": "Finalized the occupation and administrative takeover of the Barielle Duchy.",
+        "op": "fire",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "discovery_condition": "Investigation or Blindsense detection of clandestine meetings.",
+        "outcome": "Theresa has exposed the conspiracy to the Council; the 'displaced nobility' are now hunted within the capital.",
+        "actor": "The Displaced Nobility",
+        "action": "Begun clandestine meetings in the capital's lower district to plan a coup against the 'Saintly Council.'",
+        "player_impact": "Potential for an internal assassination attempt or administrative sabotage.",
+        "revealed_at": 60,
+        "id": "noble_insurrection_planning",
+        "delta_action": "update",
+        "location": "Royal Capital Slums",
+        "created_at": 57,
+        "op": "create",
+        "_server_stamped": [
+          "revealed_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 66,
+        "event_type": "immediate",
+        "discovery_condition": "Messenger arrival and Theresa's monitoring check.",
+        "resolved_scene_number": 111,
+        "outcome": "The ambush in Thread-Spinner's Square has been dismantled by the Shadow Vanguard; the Barielle cousin is captured.",
+        "location": "Thread-Spinner's Square",
+        "action": "Distributed enchanted crossbows and 'Free Lugnica' pamphlets to radicalized slum dwellers.",
+        "player_impact": "Direct threat to the Kingdom's stability and the Royal Guard's survival.",
+        "actor": "Cousin of Lord Barielle",
+        "id": "noble_ambush_positions",
+        "delta_action": "resolve",
+        "created_at": 63,
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ],
+        "op": "fire"
+      },
+      {
+        "event_type": "long_term",
+        "discovery_condition": "Official heralds and reports reaching the estate.",
+        "outcome": "Public confidence in the throne is skyrocketing; the 'God of War' is hailed as a divine judge.",
+        "location": "Royal Capital",
+        "action": "Initiated the public trials of the 12 corrupt officials.",
+        "player_impact": "Stabilization of public order; elimination of the Barielle-Karsten political bloc.",
+        "actor": "The Saintly Council",
+        "id": "public_trials_001",
+        "created_at": null,
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": null,
+        "event_type": "long_term",
+        "outcome": "House Astrea is now the wealthiest faction in the kingdom's history.",
+        "location": "Astrea Estate",
+        "action": "Successfully integrated the seized Barielle and Karsten treasuries into the Saintly Trust.",
+        "player_impact": "Unlimited resources for military training and territory restoration.",
+        "actor": "House Astrea Stewards",
+        "id": "barielle_wealth_integration",
+        "created_at": null,
+        "op": "fire",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "discovery_condition": "Direct action by player",
+        "outcome": "Sirius is conceptually cleansed and in custody; the Cult is crippled.",
+        "location": "Southern Marshes",
+        "action": "Captured the Sin Archbishop of Wrath during the timeskip.",
+        "id": "wrath_capture_discovery",
+        "revealed_at": 71,
+        "actor": "Theresa von Astrea",
+        "delta_action": "add",
+        "created_at": 71,
+        "_server_stamped": [
+          "revealed_at",
+          "created_at"
+        ],
+        "op": "create"
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Theresa von Astrea"
+    ]
+  },
+  "rumors": [
+    {
+      "content": "The Dragon Sword Reid is said to only be wieldable by the true Sword Saint, and it will remain in its scabbard for anyone else.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "A red-haired maiden of House Astrea was seen casting spells on a common soldier in the fields.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Sword Demon' of the Trias family has disappeared into the Astrea lands.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Tensions in the capital slums have led to the first reports of small-scale rioting against the tax hike.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "A 'Sword Demon' with eyes like cold steel has been seen training at the Astrea gates.",
+      "source_type": "commoner",
+      "related_event": "merchant_witness_001",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Council of Sages is considering a full military mobilization to quell the tax protests.",
+      "source_type": "merchant",
+      "related_event": "capital_unrest_001",
+      "accuracy": "true"
+    },
+    {
+      "content": "The demi-humans are said to be led by a strategist who can predict the movement of the stars.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A crimson flash was seen on the battlefield last week, leaving only dust in its wake.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "A crimson flash was seen at the breach, and the Demi-Human Commander was turned to ash in seconds.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Sword Saint has finally taken the field, but she looks nothing like the legends describe.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Flower of Astrea' is not a delicate bloom, but a thorn that can pierce the sky.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The demi-human high command was struck down by lightning from a clear sky.",
+      "source_type": "commoner",
+      "accuracy": "false"
+    },
+    {
+      "content": "The 'Red Flash' at the breach was actually a divine spirit sent by Volcanica to judge the wicked.",
+      "source_type": "commoner",
+      "accuracy": "false"
+    },
+    {
+      "content": "The Sword Demon has sworn a blood-oath to the Astrea daughter, promising to drown the east in fire.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Red Flash' didn't just kill the strategist; she erased the sun and replaced it with her own blade.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Wilhelm the 'Sword Demon' has become the consort of a goddess who demands the heads of kings.",
+      "source_type": "commoner",
+      "accuracy": "false"
+    },
+    {
+      "content": "The Sages are looking for a way to bind the Sword Saint's power using ancient spirit-contracts.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The demi-human leaders are being treated as guests of honor, causing confusion among the capital citizens.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "The God of War is said to have the face of an angel and the heart of a saint, seeking to end all wars through mercy.",
+      "source_type": "merchant",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Lord Karsten is furious that his border-raid plans were rendered illegal by the new treaty.",
+      "source_type": "noble",
+      "accuracy": "true"
+    },
+    {
+      "content": "The God of War doesn't just kill enemies; she prunes the kingdom itself like a gardener.",
+      "source_type": "noble",
+      "related_event": "karsten_summons_001",
+      "accuracy": "true"
+    },
+    {
+      "content": "Lord Karsten is said to be seeking an ancient spirit-contract to shield himself from the Sword Saint's judgment.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The God of War has declared that tusks and scales are no barrier to the King's peace.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "Lord Karsten was seen weeping like a child as the Sword Saint stripped his rings from his fingers.",
+      "source_type": "noble",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Sages are said to be bleeding truth like a stuck pig in the throne room.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "House Barielle is preparing to close its borders to anyone wearing Astrea colors.",
+      "source_type": "noble",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Sword of the Apocalypse has split herself in two, so she may watch the King and smite his enemies at the same time.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "House Barielle is sending riders to the neighboring kingdoms to beg for 'neutral' intervention against the Saint.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Sword Saint didn't just arrest the Sages to fix corruption; she's clearing the path to take the throne for House Astrea.",
+      "source_type": "noble",
+      "related_event": "barielle_panic_001",
+      "accuracy": "false"
+    },
+    {
+      "content": "The demi-human High King was brainwashed by a new type of Astrea magic.",
+      "source_type": "commoner",
+      "accuracy": "false"
+    },
+    {
+      "content": "The 'Sword of the Apocalypse' has turned her blade toward the Witch's Cult; some say the shadows themselves are fleeing the city.",
+      "source_type": "guard",
+      "related_event": "cult_purge_initiation",
+      "accuracy": "true"
+    },
+    {
+      "content": "They say the Sword Saint can look at a cultist and make them human again with a single word.",
+      "source_type": "guard",
+      "related_event": "cult_purge_continuation",
+      "accuracy": "partial"
+    },
+    {
+      "content": "House Karsten's wine is being replaced by 'Saintly Rations' in the southern markets.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Sages are terrified of the 'Second Shadow' that walks in Theresa's wake.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Royal Guard is marching into the slums, and the commoners are sharpening their kitchen knives for a 'Saintly' harvest.",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A shadow has been seen walking the palace walls at night, silent as the grave, carrying the scent of Astrea lilies.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "They say the Sword Saint can be in two places at once, and that her shadow alone can stop a man's heart.",
+      "source_type": "traveler",
+      "related_event": "barielle_subdual_001",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The demi-human High King has been seen laughing with the Lugnican King over a game of strategy.",
+      "source_type": "noble",
+      "related_event": "unification_audiance_001",
+      "accuracy": "true"
+    }
+  ],
+  "schema_migration_version": 1,
+  "level_up_session": {
+    "status": "complete",
+    "last_error": null,
+    "current_level": 16,
+    "source": "model",
+    "selections": {
+      "hp_gain": 8,
+      "spells_prepared": [
+        "Shield",
+        "Absorb Elements",
+        "Mage Armor",
+        "Mirror Image",
+        "Invisibility",
+        "Hold Person",
+        "Suggestion",
+        "Counterspell",
+        "Hypnotic Pattern",
+        "Tongues",
+        "Dimension Door",
+        "Greater Invisibility",
+        "Confusion",
+        "Dominate Person",
+        "Hold Monster",
+        "Mass Suggestion",
+        "Otto's Irresistible Dance",
+        "Heroes' Feast",
+        "Teleport",
+        "Simulacrum",
+        "Forcecage",
+        "Mind Blank"
+      ],
+      "asi": {
+        "intelligence": 2
+      },
+      "hp_method": "fixed"
+    },
+    "completed_at_story_id": null,
+    "entered_at_story_id": null,
+    "source_story_id": "unknown",
+    "target_level": 16
+  },
+  "schema_migrated_at": "2026-06-16T05:57:38.302422+00:00",
+  "session_id": "legacy-migrated-56cdfc17a0bd1a4d",
+  "time_events": [
+    {
+      "id": "legacy-Vassalization Integration",
+      "time_remaining": "30 turns",
+      "status": "ongoing",
+      "changes_this_turn": "Administrative governors have been dispatched.",
+      "new_consequences": "Minor logistical delays at the border due to road damage."
+    },
+    {
+      "id": "legacy-Barielle Subjugation",
+      "time_remaining": "12 hours",
+      "status": "ongoing",
+      "changes_this_turn": "Detachment dispatched from the capital.",
+      "new_consequences": "Total closure of the Southern trade roads."
+    },
+    {
+      "id": "legacy-reparations_clock",
+      "time_remaining": "11 months, 27 days",
+      "status": "ongoing",
+      "changes_this_turn": "The 'Treaty of Iron' is being successfully implemented in the Southern Marshes.",
+      "new_consequences": "None"
+    },
+    {
+      "id": "legacy-Treaty Implementation",
+      "time_remaining": "29 turns",
+      "status": "ongoing",
+      "changes_this_turn": "Legal codification completed."
+    }
+  ],
+  "faction_updates": {
+    "Demi-Human Alliance": {
+      "resource_change": "+10,000 GP tribute arriving next month",
+      "player_standing_change": "Regarded as a terrifying but just Goddess",
+      "progress": "Governors arriving in Highlands; Marshland chieftains preparing for trade",
+      "next_action": "Initial census of demi-human populations",
+      "current_objective": "Integration into Lugnican administrative systems"
+    },
+    "House Astrea": {
+      "resource_change": "+25,000 GP (Barielle spoils), +30,000 soldiers (Vanguard totals).",
+      "progress": "High; the Southern and Eastern territories are quiet.",
+      "next_action": "Distribute relief supplies to the Southern Marshes.",
+      "current_objective": "Consolidate occupation and oversee the 'Reparations' transition."
+    },
+    "Lugnican Aristocracy": {
+      "resource_change": "Private funds being pooled for mercenary recruitment.",
+      "player_standing_change": "Shift from 'Tyrant of Light' to 'Unstoppable Arbiter.'",
+      "progress": "Internal splintering; many houses are now sending secret letters of loyalty to House Astrea.",
+      "next_action": "Mass resignation of junior officials tied to the 12 corrupt leaders.",
+      "current_objective": "Survival; attempt to distance themselves from the Barielle/Karsten fallout."
+    }
+  }
+}
