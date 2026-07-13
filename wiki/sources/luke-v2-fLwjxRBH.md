@@ -1,12 +1,13 @@
 ---
 title: "Luke V2"
 type: source
-tags: [campaign, luke-v2-fLwjxRBH]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/fLwjxRBHGMBnIXMfYnqz/Luke V2_fLwjxRBH.txt
+tags: [campaign, worldarchitect, luke-v2]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/fLwjxRBHGMBnIXMfYnqz/Luke V2_fLwjxRBH.txt
 campaign_id: fLwjxRBHGMBnIXMfYnqz
 entry_count: 278
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:55.080027+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

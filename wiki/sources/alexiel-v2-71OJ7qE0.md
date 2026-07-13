@@ -1,12 +1,13 @@
 ---
 title: "Alexiel V2"
 type: source
-tags: [campaign, alexiel-v2-71OJ7qE0]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/71OJ7qE0VDcOuUbgInSH/Alexiel V2_71OJ7qE0.txt
+tags: [campaign, worldarchitect, alexiel-v2]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/71OJ7qE0VDcOuUbgInSH/Alexiel V2_71OJ7qE0.txt
 campaign_id: 71OJ7qE0VDcOuUbgInSH
 entry_count: 451
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:32:44.037553+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

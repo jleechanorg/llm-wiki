@@ -2,12 +2,12 @@
 title: "Itachi V2 (copy)"
 type: source
 tags: [campaign, worldarchitect, itachi-v2-copy]
-date: 2026-06-14
-source_file: /tmp/campaign_downloads_2026_06_13/hWqjUTejmNGBH4AMQ0Id/Itachi V2 _copy__hWqjUTej.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/hWqjUTejmNGBH4AMQ0Id/Itachi V2 _copy__hWqjUTej.txt
 campaign_id: hWqjUTejmNGBH4AMQ0Id
 entry_count: 249
-last_updated: 2026-05-31 10:44:07.131687+00:00
-ingest_batch: 2026-06-13-last-2-weeks-50plus-scenes
+last_updated_iso: 2026-07-13T02:33:56.683732+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 ============================================================

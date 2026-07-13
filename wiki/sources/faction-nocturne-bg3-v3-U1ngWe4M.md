@@ -1,12 +1,13 @@
 ---
 title: "faction - Nocturne bg3 V3"
 type: source
-tags: [campaign, faction-nocturne-bg3-v3-U1ngWe4M]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/U1ngWe4MJggFw94WzYao/faction - Nocturne bg3 V3_U1ngWe4M.txt
+tags: [campaign, worldarchitect, faction-nocturne-bg3-v3]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/U1ngWe4MJggFw94WzYao/faction - Nocturne bg3 V3_U1ngWe4M.txt
 campaign_id: U1ngWe4MJggFw94WzYao
 entry_count: 1212
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:29.580639+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

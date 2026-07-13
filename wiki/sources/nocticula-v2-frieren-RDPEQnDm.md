@@ -1,12 +1,13 @@
 ---
 title: "Nocticula v2 frieren"
 type: source
-tags: [campaign, nocticula-v2-frieren-RDPEQnDm]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/RDPEQnDmrUP9NbW3H0A2/Nocticula v2 frieren_RDPEQnDm.txt
+tags: [campaign, worldarchitect, nocticula-v2-frieren]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/RDPEQnDmrUP9NbW3H0A2/Nocticula v2 frieren_RDPEQnDm.txt
 campaign_id: RDPEQnDmrUP9NbW3H0A2
 entry_count: 225
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:23.542127+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

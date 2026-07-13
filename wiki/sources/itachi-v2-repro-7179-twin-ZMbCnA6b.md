@@ -2,12 +2,12 @@
 title: "Itachi V2 (repro-7179 twin)"
 type: source
 tags: [campaign, worldarchitect, itachi-v2-repro-7179-twin]
-date: 2026-06-14
-source_file: /tmp/campaign_downloads_2026_06_13/ZMbCnA6bLVcjvyICXIHl_repro7179twin/Itachi V2 _repro-7179 twin__ZMbCnA6b.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/ZMbCnA6bLVcjvyICXIHl_repro7179twin/Itachi V2 _repro-7179 twin__ZMbCnA6b.txt
 campaign_id: ZMbCnA6bLVcjvyICXIHl_repro7179twin
 entry_count: 670
-last_updated: 2026-05-31 08:08:15.115374+00:00
-ingest_batch: 2026-06-13-last-2-weeks-50plus-scenes
+last_updated_iso: 2026-07-13T02:32:26.475125+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

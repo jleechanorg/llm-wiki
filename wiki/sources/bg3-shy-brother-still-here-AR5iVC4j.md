@@ -2,11 +2,12 @@
 title: "Bg3 shy (brother still here)"
 type: source
 tags: [campaign, worldarchitect, bg3-shy-brother-still-here]
-date: 2026-07-05
-source_file: /tmp/campaign_daily_ingest/AR5iVC4j7GXqup1HPYlP/Bg3 shy _brother still here__AR5iVC4j.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/AR5iVC4j7GXqup1HPYlP/Bg3 shy _brother still here__AR5iVC4j.txt
 campaign_id: AR5iVC4j7GXqup1HPYlP
 entry_count: 62
-ingest_batch: download-campaign-skill
+last_updated_iso: 2026-07-13T02:32:53.604280+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:
@@ -520,7 +521,7 @@ Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
 Conditions: Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2
 Dice Rolls:
-  - {'faces': '13', 'modifier': 3, 'label': 'Perception Check to notice a legacy character', 'result': 16, 'roll': '1d20+3', 'type': 'Perception Check to notice a legacy character'}
+  - {'roll': '1d20+3', 'label': 'Perception Check to notice a legacy character', 'result': 16, 'type': 'Perception Check to notice a legacy character', 'modifier': 3, 'faces': '13'}
 
 Game Master:
 Midday (12:10:00) in the Lower City of Baldur's Gate—the air is thick with the scent of salt, roasted meats, and the lingering, metallic tang of ozone that only you seem to notice. You walk alone now, your hood pulled low to shield your porcelain skin and silver eyes from the inquisitive stares of the passing crowd. Without Torvin's (Lvl 5) broad-shouldered presence to hide behind, every brush of a shoulder against yours feels like a jagged spike in the mathematical harmony you crave. The 'hum' of the Weave is a constant, shimmering choir in your ears, guiding your steps toward the stone-carved entrance of the Adventurers Guild.
@@ -552,7 +553,7 @@ Location: Baldur's Gate - Lower City, Adventurers Guild Hall
 Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
 Conditions: Shy & Low Confidence (-2 Social / +4 Mercy) | Exhaustion: 0 | Inspiration: No]
 Dice Rolls:
-  - {'faces': '9', 'modifier': 1, 'label': 'Persuasion (Asking Shadowheart for help - CHA -1, Shy -2, Help +4)', 'result': 10, 'roll': '1d20+1', 'type': 'Persuasion (Asking Shadowheart for help - CHA -1, Shy -2, Help +4)'}
+  - {'roll': '1d20+1', 'label': 'Persuasion (Asking Shadowheart for help - CHA -1, Shy -2, Help +4)', 'result': 10, 'type': 'Persuasion (Asking Shadowheart for help - CHA -1, Shy -2, Help +4)', 'modifier': 1, 'faces': '9'}
 
 Game Master:
 The 'hum' of the guild hall is a dissonant roar, a thousand tiny threads of sound clashing in the high-vaulted ceiling. You move through the press of armored bodies like a ghost, your heart hammering a frantic rhythm against your ribs. There she is. Shadowheart (Lvl 12) stands near a side table, her brow furrowed as she inspects a set of requisition orders. Up close, her presence is like a sun—blinding, complex, and vastly more powerful than your own.
@@ -602,7 +603,7 @@ Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
 Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2
 Dice Rolls:
-  - {'faces': '2', 'modifier': 3, 'label': 'Persuasion (Seraphic Pathos plea to Shadowheart)', 'result': 5, 'roll': '1d20+3', 'type': 'Persuasion (Seraphic Pathos plea to Shadowheart)'}
+  - {'roll': '1d20+3', 'label': 'Persuasion (Seraphic Pathos plea to Shadowheart)', 'result': 5, 'type': 'Persuasion (Seraphic Pathos plea to Shadowheart)', 'modifier': 3, 'faces': '2'}
 
 Game Master:
 The 'hum' of the guild hall swells into a dissonant roar, the clank of heavy plate and the boisterous laughter of veterans drowning out the delicate tremors of your voice. You try to catch Shadowheart's eye again, leaning into the 'Seraphic Pathos' that usually draws people toward you like moths to a flame. You look small, fragile, and undeniably beautiful amidst the grime—a porcelain doll lost in a forge. 
@@ -630,8 +631,8 @@ Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
 Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2
 Dice Rolls:
-  - {'faces': '6', 'modifier': 3, 'label': 'Perception check to overhear rumors in the registration line', 'result': 9, 'roll': '1d20+3', 'type': 'Perception check to overhear rumors in the registration line'}
-  - {'faces': '19', 'modifier': -3, 'label': 'Persuasion check to speak confidently with Registrar Tallow', 'result': 16, 'roll': '1d20-3', 'type': 'Persuasion check to speak confidently with Registrar Tallow'}
+  - {'roll': '1d20+3', 'label': 'Perception check to overhear rumors in the registration line', 'result': 9, 'type': 'Perception check to overhear rumors in the registration line', 'modifier': 3, 'faces': '6'}
+  - {'roll': '1d20-3', 'label': 'Persuasion check to speak confidently with Registrar Tallow', 'result': 16, 'type': 'Persuasion check to speak confidently with Registrar Tallow', 'modifier': -3, 'faces': '19'}
 
 Game Master:
 [Mode: STORY MODE]
@@ -664,7 +665,7 @@ Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
 Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2
 Dice Rolls:
-  - {'faces': '3', 'modifier': 7, 'label': 'Investigation check to study the Guild Handbook', 'result': 10, 'roll': '1d20+7', 'type': 'Investigation check to study the Guild Handbook'}
+  - {'roll': '1d20+7', 'label': 'Investigation check to study the Guild Handbook', 'result': 10, 'type': 'Investigation check to study the Guild Handbook', 'modifier': 7, 'faces': '3'}
 
 Game Master:
 Midday (12:50:00) — You beat a hasty retreat from the central dais, your heart hammering against your ribs like a trapped bird. The silver-white flare in your eyes fades, leaving only a dull, pulsing headache behind. You can feel Tallow's gaze following you, a mixture of awe and lingering suspicion etched into his weathered features. You don't look back. You can't. The sudden surge of resonance has left you feeling raw, exposed, as if you've accidentally shouted a secret in a crowded cathedral.
@@ -687,8 +688,8 @@ Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
 Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2
 Dice Rolls:
-  - {'faces': '1', 'modifier': 7, 'label': 'Investigation check to find Level 3 contracts', 'result': 8, 'roll': '1d20+7', 'type': 'Investigation check to find Level 3 contracts'}
-  - {'faces': '8', 'modifier': 3, 'label': 'Perception check to overhear conversations at the board', 'result': 11, 'roll': '1d20+3', 'type': 'Perception check to overhear conversations at the board'}
+  - {'roll': '1d20+7', 'label': 'Investigation check to find Level 3 contracts', 'result': 8, 'type': 'Investigation check to find Level 3 contracts', 'modifier': 7, 'faces': '1'}
+  - {'roll': '1d20+3', 'label': 'Perception check to overhear conversations at the board', 'result': 11, 'type': 'Perception check to overhear conversations at the board', 'modifier': 3, 'faces': '8'}
 
 Game Master:
 Midday (13:05:00) — The bounty board is a chaotic tapestry of desperation and greed, a wall of overlapping parchments that 'hum' with a thousand conflicting intents. You approach hesitantly, your hood still low, trying to find a space between the broad shoulders of veterans who smell of cheap ale and expensive magic. To your eyes, the board isn't just a list of jobs; it's a fractured geometric proof. Every missing pet notice and 'wanted' poster is a tiny error in the city's restoration, a dissonance that makes the 'Seraphic Storm' within you twitch with a need for correction.
@@ -730,7 +731,7 @@ Location: Baldur's Gate - Lower City, Adventurers Guild Hall
 Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
 Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
 Dice Rolls:
-  - {'faces': '6', 'modifier': 3, 'label': 'Persuasion (Seraphic Pathos plea to Grom)', 'result': 9, 'roll': '1d20+3', 'type': 'Persuasion (Seraphic Pathos plea to Grom)'}
+  - {'roll': '1d20+3', 'label': 'Persuasion (Seraphic Pathos plea to Grom)', 'result': 9, 'type': 'Persuasion (Seraphic Pathos plea to Grom)', 'modifier': 3, 'faces': '6'}
 
 Game Master:
 Midday (13:10:00) in the Adventurers Guild Hall—the heavy scent of pine-resin torches and unwashed wool hangs thick in the air as you turn your silver eyes toward the massive half-orc. You let your shoulders slump, your fingers tightening around the strap of your pack until your knuckles turn as white as your porcelain skin. The 'hum' of the guild hall seems to vibrate right through your teeth, a dissonant chord of dismissal that you desperately try to resolve.
@@ -758,9 +759,9 @@ Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6500/14000
 Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2
 Dice Rolls:
-  - {'faces': '2', 'modifier': 3, 'label': 'Perception to spot hidden threats in the cellar', 'result': 5, 'roll': '1d20+3', 'type': 'Perception to spot hidden threats in the cellar'}
-  - {'faces': '7', 'modifier': 3, 'label': 'Initiative: Nocturna', 'result': 10, 'roll': '1d20+3', 'type': 'Initiative: Nocturna'}
-  - {'faces': '18', 'modifier': 2, 'label': 'Initiative: Giant Rats', 'result': 20, 'roll': '1d20+2', 'type': 'Initiative: Giant Rats'}
+  - {'roll': '1d20+3', 'label': 'Perception to spot hidden threats in the cellar', 'result': 5, 'type': 'Perception to spot hidden threats in the cellar', 'modifier': 3, 'faces': '2'}
+  - {'roll': '1d20+3', 'label': 'Initiative: Nocturna', 'result': 10, 'type': 'Initiative: Nocturna', 'modifier': 3, 'faces': '7'}
+  - {'roll': '1d20+2', 'label': 'Initiative: Giant Rats', 'result': 20, 'type': 'Initiative: Giant Rats', 'modifier': 2, 'faces': '18'}
 
 Game Master:
 Afternoon (13:25:00) — The transition from the Guild Hall to the Elfsong Tavern feels like stepping from a battlefield into a fever dream. You navigate the winding streets of the Lower City with your head bowed, your heart skipping a beat every time a Flaming Fist patrol marches by. To your eyes, the city is a fractured proof, a series of geometric errors left behind by the Absolute's fall. The 'hum' of the Weave pulls you toward the Elfsong, its stone walls vibrating with a low, mournful resonance.
@@ -787,10 +788,10 @@ Status: Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 500gp | XP: 6500/14000
 Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 2/2 | Channel Divinity: 2/2
 Dice Rolls:
-  - {'faces': '17', 'modifier': 4, 'label': 'Extraordinarily Large Rat A attacks Nocturna', 'result': 21, 'roll': '1d20+4', 'type': 'Extraordinarily Large Rat A attacks Nocturna'}
-  - {'faces': '3', 'modifier': 2, 'label': 'Rat A damage', 'result': 5, 'roll': '1d4+2', 'type': 'Rat A damage'}
-  - {'faces': '4,7', 'modifier': 0, 'label': 'Heavenly Rebuke (Radiant/Thunder damage)', 'result': 11, 'roll': '2d8', 'type': 'Heavenly Rebuke (Radiant/Thunder damage)'}
-  - {'faces': '20', 'modifier': 2, 'label': 'Rat A Dexterity Save vs Heavenly Rebuke', 'result': 22, 'roll': '1d20+2', 'type': 'Rat A Dexterity Save vs Heavenly Rebuke'}
+  - {'roll': '1d20+4', 'label': 'Extraordinarily Large Rat A attacks Nocturna', 'result': 21, 'type': 'Extraordinarily Large Rat A attacks Nocturna', 'modifier': 4, 'faces': '17'}
+  - {'roll': '1d4+2', 'label': 'Rat A damage', 'result': 5, 'type': 'Rat A damage', 'modifier': 2, 'faces': '3'}
+  - {'roll': '2d8', 'label': 'Heavenly Rebuke (Radiant/Thunder damage)', 'result': 11, 'type': 'Heavenly Rebuke (Radiant/Thunder damage)', 'modifier': 0, 'faces': '4,7'}
+  - {'roll': '1d20+2', 'label': 'Rat A Dexterity Save vs Heavenly Rebuke', 'result': 22, 'type': 'Rat A Dexterity Save vs Heavenly Rebuke', 'modifier': 2, 'faces': '20'}
 
 Game Master:
 Afternoon (13:25:06) in the Elfsong Tavern Cellars — The shadows seem to coalesce around you as the first of the extraordinarily large rats (Lvl 1) lunges from the darkness. You barely have time to gasp before its yellowed incisors sink into your calf, tearing through your urchin's trousers and drawing blood. The sharp sting of the bite sends a jolt through your system, but it triggers something far more powerful than pain.
@@ -816,10 +817,10 @@ Status: Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 500gp | XP: 6650/14000
 Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4
 Dice Rolls:
-  - {'faces': '5', 'modifier': 4, 'label': 'Extraordinarily Large Rat B attacks Nocturna', 'result': 9, 'roll': '1d20+4', 'type': 'Extraordinarily Large Rat B attacks Nocturna'}
-  - {'faces': '11', 'modifier': 4, 'label': 'Extraordinarily Large Rat C attacks Nocturna', 'result': 15, 'roll': '1d20+4', 'type': 'Extraordinarily Large Rat C attacks Nocturna'}
-  - {'faces': '2', 'modifier': 8, 'label': 'Nocturna: Radiant Strike (Mace) vs Rat A', 'result': 10, 'roll': '1d20+8', 'type': 'Nocturna: Radiant Strike (Mace) vs Rat A'}
-  - {'faces': '4,8,4', 'modifier': 0, 'label': 'Spirit Guardians Damage', 'result': 16, 'roll': '3d8', 'type': 'Spirit Guardians Damage'}
+  - {'roll': '1d20+4', 'label': 'Extraordinarily Large Rat B attacks Nocturna', 'result': 9, 'type': 'Extraordinarily Large Rat B attacks Nocturna', 'modifier': 4, 'faces': '5'}
+  - {'roll': '1d20+4', 'label': 'Extraordinarily Large Rat C attacks Nocturna', 'result': 15, 'type': 'Extraordinarily Large Rat C attacks Nocturna', 'modifier': 4, 'faces': '11'}
+  - {'roll': '1d20+8', 'label': 'Nocturna: Radiant Strike (Mace) vs Rat A', 'result': 10, 'type': 'Nocturna: Radiant Strike (Mace) vs Rat A', 'modifier': 8, 'faces': '2'}
+  - {'roll': '3d8', 'label': 'Spirit Guardians Damage', 'result': 16, 'type': 'Spirit Guardians Damage', 'modifier': 0, 'faces': '4,8,4'}
 
 Game Master:
 Afternoon (13:25:12) in the Elfsong Tavern Cellars — The darkness is alive with the sound of skittering claws and hungry chittering. The two remaining giant rats (Lvl 1) lunge from the shadows, their eyes gleaming like embers in the dim candlelight. One snaps at your heels, while the other leaps for your shoulder, but your panicked movements are unexpectedly precise. You stumble back, and both creatures find only empty air, their teeth clicking shut with a dry, hollow sound.
@@ -857,7 +858,7 @@ Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6650/14000
 Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4
 Dice Rolls:
-  - {'faces': '2', 'modifier': 7, 'label': 'Investigation check to find psionic residue', 'result': 9, 'roll': '1d20+7', 'type': 'Investigation check to find psionic residue'}
+  - {'roll': '1d20+7', 'label': 'Investigation check to find psionic residue', 'result': 9, 'type': 'Investigation check to find psionic residue', 'modifier': 7, 'faces': '2'}
 
 Game Master:
 Afternoon (13:40:12) — The radiant glow of your Spirit Guardians slowly dissipates, leaving the cellar in a heavy, oppressive silence. The smell of ozone and singed fur lingers in the air, a sharp contrast to the damp, earthy scent of the wine racks. You stand alone in the dark, your heart slowly finding a more rhythmic pace as the 'hum' of combat fades into a low, persistent throb within the 'Divine Ledger'.
@@ -882,7 +883,7 @@ Status: Lvl 5 Cleric (Seraphic Storm) | HP: 38/38 | Gold: 500gp | XP: 6650/14000
 Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4
 Dice Rolls:
-  - {'faces': '8', 'modifier': 7, 'label': 'Investigation (Retry) to find psionic residue', 'result': 15, 'roll': '1d20+7', 'type': 'Investigation (Retry) to find psionic residue'}
+  - {'roll': '1d20+7', 'label': 'Investigation (Retry) to find psionic residue', 'result': 15, 'type': 'Investigation (Retry) to find psionic residue', 'modifier': 7, 'faces': '8'}
 
 Game Master:
 Midday (13:55:00) — You ignore Alan’s call, your silver eyes narrowing as you push deeper into the jagged masonry. The ‘hum’ in your Ledger is a physical itch now, a dissonance you are desperate to resolve. You trace your fingers along the weeping stone of the foundation, trying to isolate the specific frequency of the psionic decay from the mundane static of the tavern above. 
@@ -903,7 +904,7 @@ Status: Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 510gp | XP: 6800/14000
 Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4
 Dice Rolls:
-  - {'faces': '19', 'modifier': -3, 'label': 'Persuasion check to report success to Alan Alyth', 'result': 16, 'roll': '1d20-3', 'type': 'Persuasion check to report success to Alan Alyth'}
+  - {'roll': '1d20-3', 'label': 'Persuasion check to report success to Alan Alyth', 'result': 16, 'type': 'Persuasion check to report success to Alan Alyth', 'modifier': -3, 'faces': '19'}
 
 Game Master:
 Afternoon (14:00:00) — You emerge from the damp gloom of the cellar, squinting as the warm, golden light of the Elfsong's common room hits your silver eyes. The transition is jarring; the 'hum' of the tavern is a chaotic tapestry of clinking mugs, bawdy laughter, and the haunting, ethereal song of the spirit that gives the establishment its name. You feel the weight of the 'Divine Ledger' against your side, a solid anchor in a world that feels increasingly loud and intrusive.
@@ -930,7 +931,7 @@ Status: Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 510gp | XP: 6800/14000
 Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4
 Dice Rolls:
-  - {'faces': '3', 'modifier': 7, 'label': 'Investigation check to find higher-tier contracts', 'result': 10, 'roll': '1d20+7', 'type': 'Investigation check to find higher-tier contracts'}
+  - {'roll': '1d20+7', 'label': 'Investigation check to find higher-tier contracts', 'result': 10, 'type': 'Investigation check to find higher-tier contracts', 'modifier': 7, 'faces': '3'}
 
 Game Master:
 Afternoon (14:15:00) — The walk back to the Guild Hall is a blur of stone and shadow. You keep your head down, the hood of your urchin's cloak pulled low to hide your silver eyes and the porcelain-perfection of your features. The 'hum' of the city is louder now, the afternoon heat stirring up the scents of the harbour and the heavy, metallic tang of the Steel Watch ruins. You feel a tiny spark of warmth in your chest—a receipt for the 10 gold pieces tucked in your pouch. You corrected an error. It was a small, grimy error involving rats and wine vinegar, but the geometry of the cellar is now balanced.
@@ -953,7 +954,7 @@ Status: Lvl 5 Cleric (Seraphic Storm) | HP: 33/38 | Gold: 510gp | XP: 6800/14000
 Conditions: Shy & Low Confidence (-2 Social / +4 Help) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 5/5 | Spells: L1 4/4, L2 3/3, L3 1/2 | Channel Divinity: 2/2 | Radiant Strike: 3/4
 Dice Rolls:
-  - {'faces': '8', 'modifier': 3, 'label': 'Persuade Grom for a challenging mission (Pathos active)', 'result': 11, 'roll': '1d20+3', 'type': 'Persuade Grom for a challenging mission (Pathos active)'}
+  - {'roll': '1d20+3', 'label': 'Persuade Grom for a challenging mission (Pathos active)', 'result': 11, 'type': 'Persuade Grom for a challenging mission (Pathos active)', 'modifier': 3, 'faces': '8'}
 
 Game Master:
 Afternoon (14:20:00) — You weave through the crowd of boisterous mercenaries, your fingers white-knuckled around the 'Divine Ledger' as you approach the pillar where Grom (Lvl 8) stands. The 'hum' of the hall is a deafening roar of conflicting egos, but you force yourself to stop before the half-orc. 

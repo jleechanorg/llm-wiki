@@ -2,11 +2,12 @@
 title: "Bumpkin swordsman"
 type: source
 tags: [campaign, worldarchitect, bumpkin-swordsman]
-date: 2026-06-24
-source_file: /tmp/campaign_daily_ingest/DdVLFBmENLnPHCJTuSCT/Bumpkin swordsman_DdVLFBmE.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/DdVLFBmENLnPHCJTuSCT/Bumpkin swordsman_DdVLFBmE.txt
 campaign_id: DdVLFBmENLnPHCJTuSCT
 entry_count: 260
-ingest_batch: download-campaign-skill
+last_updated_iso: 2026-07-13T02:33:00.702414+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

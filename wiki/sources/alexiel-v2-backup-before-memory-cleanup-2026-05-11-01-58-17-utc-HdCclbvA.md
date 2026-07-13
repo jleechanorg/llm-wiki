@@ -1,12 +1,13 @@
 ---
 title: "Alexiel V2 BACKUP before memory cleanup 2026-05-11 01:58:17 UTC"
 type: source
-tags: [campaign, alexiel-v2-backup-before-memory-cleanup-2026-05-11-01-58-17-utc-HdCclbvA]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/HdCclbvA5WK8jYAGdepm/Alexiel V2 BACKUP before memory cleanup 2026-05-11_HdCclbvA.txt
+tags: [campaign, worldarchitect, alexiel-v2-backup-before-memory-cleanup-2026-05-11-01-58-17-utc]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/HdCclbvA5WK8jYAGdepm/Alexiel V2 BACKUP before memory cleanup 2026-05-11_HdCclbvA.txt
 campaign_id: HdCclbvA5WK8jYAGdepm
 entry_count: 418
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:08.191990+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

@@ -2,11 +2,12 @@
 title: "Real blacksmith bg3 (narr advance)"
 type: source
 tags: [campaign, worldarchitect, real-blacksmith-bg3-narr-advance]
-date: 2026-06-24
-source_file: /tmp/campaign_daily_ingest/YGIDVNvQ6KejzTC3NzyR/Real blacksmith bg3 _narr advance__YGIDVNvQ.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/YGIDVNvQ6KejzTC3NzyR/Real blacksmith bg3 _narr advance__YGIDVNvQ.txt
 campaign_id: YGIDVNvQ6KejzTC3NzyR
 entry_count: 68
-ingest_batch: download-campaign-skill
+last_updated_iso: 2026-07-13T02:33:43.908386+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

@@ -1,12 +1,13 @@
 ---
 title: "Saita bg3 v2"
 type: source
-tags: [campaign, saita-bg3-v2-9pxyNZu7]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/9pxyNZu7H7TRgpyWcfK4/Saita bg3 v2_9pxyNZu7.txt
+tags: [campaign, worldarchitect, saita-bg3-v2]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/9pxyNZu7H7TRgpyWcfK4/Saita bg3 v2_9pxyNZu7.txt
 campaign_id: 9pxyNZu7H7TRgpyWcfK4
 entry_count: 262
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:32:51.546991+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

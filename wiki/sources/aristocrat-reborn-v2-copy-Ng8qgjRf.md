@@ -2,12 +2,12 @@
 title: "Aristocrat reborn V2 (copy)"
 type: source
 tags: [campaign, worldarchitect, aristocrat-reborn-v2-copy]
-date: 2026-06-14
-source_file: /tmp/campaign_downloads_2026_06_13/Ng8qgjRfU2fMmTqpCS1P/Aristocrat reborn V2 _copy__Ng8qgjRf.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/Ng8qgjRfU2fMmTqpCS1P/Aristocrat reborn V2 _copy__Ng8qgjRf.txt
 campaign_id: Ng8qgjRfU2fMmTqpCS1P
 entry_count: 326
-last_updated: 2026-06-05 04:38:25.482612+00:00
-ingest_batch: 2026-06-13-last-2-weeks-50plus-scenes
+last_updated_iso: 2026-07-13T02:33:18.364855+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

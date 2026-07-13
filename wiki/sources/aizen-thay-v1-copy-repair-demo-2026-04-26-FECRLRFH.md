@@ -1,12 +1,13 @@
 ---
 title: "Aizen thay v1  (copy repair-demo 2026-04-26)"
 type: source
-tags: [campaign, aizen-thay-v1-copy-repair-demo-2026-04-26-FECRLRFH]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/FECRLRFHyWERGS805OWJ/Aizen thay v1  _copy repair-demo 2026-04-26__FECRLRFH.txt
+tags: [campaign, worldarchitect, aizen-thay-v1-copy-repair-demo-2026-04-26]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/FECRLRFHyWERGS805OWJ/Aizen thay v1  _copy repair-demo 2026-04-26__FECRLRFH.txt
 campaign_id: FECRLRFHyWERGS805OWJ
 entry_count: 458
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:04.709231+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

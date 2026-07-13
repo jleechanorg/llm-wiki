@@ -1,12 +1,13 @@
 ---
 title: "Sariel - Assiah"
 type: source
-tags: [campaign, sariel-assiah-psXrbZ2t]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/psXrbZ2tlT1KDnTLpdYK/Sariel - Assiah_psXrbZ2t.txt
+tags: [campaign, worldarchitect, sariel-assiah]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/psXrbZ2tlT1KDnTLpdYK/Sariel - Assiah_psXrbZ2t.txt
 campaign_id: psXrbZ2tlT1KDnTLpdYK
 entry_count: 116
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:34:11.140014+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

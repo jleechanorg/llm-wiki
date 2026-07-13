@@ -1,12 +1,13 @@
 ---
 title: "(old) Noctune merc bg3"
 type: source
-tags: [campaign, old-noctune-merc-bg3-WgHKme6M]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/WgHKme6M79ACsGHBFjlG/_old_ Noctune merc bg3_WgHKme6M.txt
+tags: [campaign, worldarchitect, old-noctune-merc-bg3]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/WgHKme6M79ACsGHBFjlG/_old_ Noctune merc bg3_WgHKme6M.txt
 campaign_id: WgHKme6M79ACsGHBFjlG
 entry_count: 630
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:38.405194+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

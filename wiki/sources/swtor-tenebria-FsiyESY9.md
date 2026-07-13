@@ -2,12 +2,12 @@
 title: "swtor - tenebria"
 type: source
 tags: [campaign, worldarchitect, swtor-tenebria]
-date: 2026-06-14
-source_file: /tmp/campaign_downloads_2026_06_13/FsiyESY987DF2lfgolCI/swtor - tenebria_FsiyESY9.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/FsiyESY987DF2lfgolCI/swtor - tenebria_FsiyESY9.txt
 campaign_id: FsiyESY987DF2lfgolCI
-entry_count: 84
-last_updated: 2026-06-13 23:59:22.883721+00:00
-ingest_batch: 2026-06-13-last-2-weeks-50plus-scenes
+entry_count: 388
+last_updated_iso: 2026-07-13T02:33:06.728153+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

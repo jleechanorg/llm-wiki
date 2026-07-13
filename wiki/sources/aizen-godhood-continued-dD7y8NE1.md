@@ -1,12 +1,13 @@
 ---
 title: "Aizen godhood continued"
 type: source
-tags: [campaign, aizen-godhood-continued-dD7y8NE1]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/dD7y8NE1LqxnZAKjmkZn/Aizen godhood continued_dD7y8NE1.txt
+tags: [campaign, worldarchitect, aizen-godhood-continued]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/dD7y8NE1LqxnZAKjmkZn/Aizen godhood continued_dD7y8NE1.txt
 campaign_id: dD7y8NE1LqxnZAKjmkZn
 entry_count: 176
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:54.060135+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 ============================================================

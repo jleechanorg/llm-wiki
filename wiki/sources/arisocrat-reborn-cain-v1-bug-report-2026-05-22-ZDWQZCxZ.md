@@ -1,12 +1,13 @@
 ---
 title: "Arisocrat reborn Cain v1 (bug report 2026-05-22)"
 type: source
-tags: [campaign, arisocrat-reborn-cain-v1-bug-report-2026-05-22-ZDWQZCxZ]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/ZDWQZCxZjqwgyLPONBCh/Arisocrat reborn Cain v1 _bug report 2026-05-22__ZDWQZCxZ.txt
+tags: [campaign, worldarchitect, arisocrat-reborn-cain-v1-bug-report-2026-05-22]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/ZDWQZCxZjqwgyLPONBCh/Arisocrat reborn Cain v1 _bug report 2026-05-22__ZDWQZCxZ.txt
 campaign_id: ZDWQZCxZjqwgyLPONBCh
 entry_count: 114
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:45.537941+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

@@ -1,12 +1,13 @@
 ---
 title: "alexiel swtor"
 type: source
-tags: [campaign, alexiel-swtor-tAE30bFv]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/tAE30bFvyfO0rUd9cgyv/alexiel swtor_tAE30bFv.txt
+tags: [campaign, worldarchitect, alexiel-swtor]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/tAE30bFvyfO0rUd9cgyv/alexiel swtor_tAE30bFv.txt
 campaign_id: tAE30bFvyfO0rUd9cgyv
 entry_count: 1644
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:34:13.663654+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

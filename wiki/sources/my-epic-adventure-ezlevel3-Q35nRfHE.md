@@ -2,11 +2,12 @@
 title: "My Epic Adventure ezlevel3"
 type: source
 tags: [campaign, worldarchitect, my-epic-adventure-ezlevel3]
-date: 2026-06-24
-source_file: /tmp/campaign_daily_ingest/Q35nRfHEssiInKZvfgXB/My Epic Adventure ezlevel3_Q35nRfHE.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/Q35nRfHEssiInKZvfgXB/My Epic Adventure ezlevel3_Q35nRfHE.txt
 campaign_id: Q35nRfHEssiInKZvfgXB
 entry_count: 76
-ingest_batch: download-campaign-skill
+last_updated_iso: 2026-07-13T02:33:20.840214+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

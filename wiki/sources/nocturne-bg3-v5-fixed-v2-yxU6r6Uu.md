@@ -1,12 +1,13 @@
 ---
 title: "Nocturne bg3 v5 (fixed v2)"
 type: source
-tags: [campaign, nocturne-bg3-v5-fixed-v2-yxU6r6Uu]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/yxU6r6UuGFthtDvVsxSl/Nocturne bg3 v5 _fixed v2__yxU6r6Uu.txt
+tags: [campaign, worldarchitect, nocturne-bg3-v5-fixed-v2]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/yxU6r6UuGFthtDvVsxSl/Nocturne bg3 v5 _fixed v2__yxU6r6Uu.txt
 campaign_id: yxU6r6UuGFthtDvVsxSl
 entry_count: 1850
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:34:24.125358+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

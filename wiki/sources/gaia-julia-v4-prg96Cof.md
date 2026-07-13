@@ -1,12 +1,13 @@
 ---
 title: "Gaia julia v4"
 type: source
-tags: [campaign, gaia-julia-v4-prg96Cof]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/prg96Cofp8pnO3lNd7Yr/Gaia julia v4_prg96Cof.txt
+tags: [campaign, worldarchitect, gaia-julia-v4]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/prg96Cofp8pnO3lNd7Yr/Gaia julia v4_prg96Cof.txt
 campaign_id: prg96Cofp8pnO3lNd7Yr
 entry_count: 324
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:42:04.609391+00:00
+ingest_batch: batch-2026-07-12-50plus-repair
 ---
 
 God Mode:

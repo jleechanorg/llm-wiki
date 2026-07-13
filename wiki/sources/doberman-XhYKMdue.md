@@ -1,12 +1,13 @@
 ---
 title: "Doberman"
 type: source
-tags: [campaign, doberman-XhYKMdue]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/XhYKMdueYYULy99Lax0Y/Doberman_XhYKMdue.txt
+tags: [campaign, worldarchitect, doberman]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/XhYKMdueYYULy99Lax0Y/Doberman_XhYKMdue.txt
 campaign_id: XhYKMdueYYULy99Lax0Y
 entry_count: 272
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:42.516664+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

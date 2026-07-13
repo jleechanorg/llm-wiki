@@ -2,11 +2,12 @@
 title: "Thay trader (planningb leak)"
 type: source
 tags: [campaign, worldarchitect, thay-trader-planningb-leak]
-date: 2026-06-24
-source_file: /tmp/campaign_daily_ingest/ZlkhIbuvQwOyROOQPQAb/Thay trader _planningb leak__ZlkhIbuv.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/ZlkhIbuvQwOyROOQPQAb/Thay trader _planningb leak__ZlkhIbuv.txt
 campaign_id: ZlkhIbuvQwOyROOQPQAb
 entry_count: 314
-ingest_batch: download-campaign-skill
+last_updated_iso: 2026-07-13T02:41:56.410372+00:00
+ingest_batch: batch-2026-07-12-50plus-repair
 ---
 
 God Mode:

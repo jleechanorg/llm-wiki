@@ -1,12 +1,13 @@
 ---
 title: "Aizen thay v1"
 type: source
-tags: [campaign, aizen-thay-v1-RtLrlAud]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/RtLrlAudz2ME4Hms7vck/Aizen thay v1_RtLrlAud.txt
+tags: [campaign, worldarchitect, aizen-thay-v1]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/RtLrlAudz2ME4Hms7vck/Aizen thay v1_RtLrlAud.txt
 campaign_id: RtLrlAudz2ME4Hms7vck
 entry_count: 596
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:25.635921+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

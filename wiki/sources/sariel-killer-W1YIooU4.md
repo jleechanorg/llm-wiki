@@ -1,12 +1,13 @@
 ---
 title: "Sariel killer"
 type: source
-tags: [campaign, sariel-killer-W1YIooU4]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/W1YIooU4UIXsbeQui20f/Sariel killer_W1YIooU4.txt
+tags: [campaign, worldarchitect, sariel-killer]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/W1YIooU4UIXsbeQui20f/Sariel killer_W1YIooU4.txt
 campaign_id: W1YIooU4UIXsbeQui20f
 entry_count: 1370
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:36.570028+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

@@ -2,11 +2,12 @@
 title: "Thay trader (level 13 planningb not showing)"
 type: source
 tags: [campaign, worldarchitect, thay-trader-level-13-planningb-not-showing]
-date: 2026-06-24
-source_file: /tmp/campaign_daily_ingest/UZ08p1YRn8YcNyC6zzQ1/Thay trader _level 13 planningb not showing__UZ08p1YR.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/UZ08p1YRn8YcNyC6zzQ1/Thay trader _level 13 planningb not showing__UZ08p1YR.txt
 campaign_id: UZ08p1YRn8YcNyC6zzQ1
 entry_count: 442
-ingest_batch: download-campaign-skill
+last_updated_iso: 2026-07-13T02:41:53.426409+00:00
+ingest_batch: batch-2026-07-12-50plus-repair
 ---
 
 God Mode:

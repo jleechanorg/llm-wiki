@@ -1,12 +1,13 @@
 ---
 title: "Rome pax Julia"
 type: source
-tags: [campaign, rome-pax-julia-yLW2asE4]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/yLW2asE4ZbUZYdpsmphe/Rome pax Julia_yLW2asE4.txt
+tags: [campaign, worldarchitect, rome-pax-julia]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/yLW2asE4ZbUZYdpsmphe/Rome pax Julia_yLW2asE4.txt
 campaign_id: yLW2asE4ZbUZYdpsmphe
 entry_count: 949
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:34:22.170738+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

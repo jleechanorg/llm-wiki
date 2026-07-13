@@ -2,11 +2,12 @@
 title: "DOS 2"
 type: source
 tags: [campaign, worldarchitect, dos-2]
-date: 2026-07-05
-source_file: /tmp/campaign_daily_ingest/Y9FLXVtLaQe2hSksEcjd/DOS 2_Y9FLXVtL.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/Y9FLXVtLaQe2hSksEcjd/DOS 2_Y9FLXVtL.txt
 campaign_id: Y9FLXVtLaQe2hSksEcjd
 entry_count: 74
-ingest_batch: download-campaign-skill
+last_updated_iso: 2026-07-13T02:33:43.539760+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:
@@ -463,7 +464,7 @@ Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 100000/120000
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
 Dice Rolls:
-  - {'faces': '10', 'modifier': 13, 'label': 'Negotiate Umbral Court Rates (Persuasion Expertise)', 'result': 23, 'roll': '1d20+13', 'type': 'Negotiate Umbral Court Rates (Persuasion Expertise)'}
+  - {'roll': '1d20+13', 'label': 'Negotiate Umbral Court Rates (Persuasion Expertise)', 'result': 23, 'type': 'Negotiate Umbral Court Rates (Persuasion Expertise)', 'modifier': 13, 'faces': '10'}
 
 Game Master:
 Midday (12:15:00) in the High-Spire City of Arx - The Eternal Throne—hiring a small strike force of Lone Wolves will cost 10,000 gold pieces, while a full-scale naval distraction is priced at 25,000 gold. 
@@ -488,7 +489,7 @@ Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 102000/120000
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
 Dice Rolls:
-  - {'faces': '20', 'modifier': 13, 'label': 'City-wide Purge (Intimidation Expertise)', 'result': 33, 'roll': '1d20+13', 'type': 'City-wide Purge (Intimidation Expertise)'}
+  - {'roll': '1d20+13', 'label': 'City-wide Purge (Intimidation Expertise)', 'result': 33, 'type': 'City-wide Purge (Intimidation Expertise)', 'modifier': 13, 'faces': '20'}
 
 Game Master:
 Afternoon (12:45:00) in the High-Spire City of Arx - Cathedral Square—the air is thick with the scent of ozone and iron as your decree is carried out with surgical, terrifying precision. You do not simply send guards; you descend into the streets yourself, your Sovereign Aura (Lvl 12) radiating a cold, inescapable dominance that freezes the breath in the lungs of every commoner you pass. The emerald flare of your Source Vision (Lvl 12) pierces the facades of the city's merchant houses, highlighting the frantic, guilty pulses of those who have been funneling coin to the Silver Crusade.
@@ -513,7 +514,7 @@ Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 50,000gp | XP: 104000/120000
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
 Dice Rolls:
-  - {'faces': '3,19', 'modifier': 13, 'label': 'Interrogate High-Value Prisoners (Intimidation with Advantage)', 'result': 32, 'roll': '2d20kh1+13', 'type': 'Interrogate High-Value Prisoners (Intimidation with Advantage)'}
+  - {'roll': '2d20kh1+13', 'label': 'Interrogate High-Value Prisoners (Intimidation with Advantage)', 'result': 32, 'type': 'Interrogate High-Value Prisoners (Intimidation with Advantage)', 'modifier': 13, 'faces': '3,19'}
 
 Game Master:
 Early afternoon (13:00:00) in the High-Spire City of Arx - The Iron Dungeons—the air here is stagnant, tasting of damp salt and the metallic tang of old blood. You descend the spiral stone stairs, your shadow stretching long and monstrous against the torchlit walls. Behind you, General Kaelen (Lvl 12) walks with a heavy, rhythmic stride, while Malady (Lvl 12) remains a ghost in the periphery, her eyes fixed on the row of iron-barred cells.
@@ -546,7 +547,7 @@ Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 40,000gp | XP: 104000/120000
 Conditions: None | Exhaustion: 0 | Inspiration: No]
 Resources: L12 Gestalt (Pal/Sor) | Slots: L1 4/4, L2 3/3, L3 3/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
 Dice Rolls:
-  - {'faces': '9', 'modifier': 13, 'label': 'Find and Leash a City Administrator (Persuasion Expertise)', 'result': 22, 'roll': '1d20+13', 'type': 'Find and Leash a City Administrator (Persuasion Expertise)'}
+  - {'roll': '1d20+13', 'label': 'Find and Leash a City Administrator (Persuasion Expertise)', 'result': 22, 'type': 'Find and Leash a City Administrator (Persuasion Expertise)', 'modifier': 13, 'faces': '9'}
 
 Game Master:
 Daily income is currently 0 gold pieces per day because of the Silver Crusade's total economic embargo. Once the northern trade routes are reopened and Fort Joy is secured, your projected daily income from taxes and commerce is 3,500 gold pieces.
@@ -577,8 +578,8 @@ Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 40,000gp | XP: 104000/120000
 Conditions: Haste (Concentration) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12 | Haste: 1/10 rds
 Dice Rolls:
-  - {'faces': '18', 'modifier': 4, 'label': 'Accelerated Harbor Strike Navigation', 'result': 22, 'roll': '1d20+4', 'type': 'Accelerated Harbor Strike Navigation'}
-  - {'faces': '19', 'modifier': None, 'label': 'Unforeseen Complication Check', 'result': 19, 'roll': '1d100', 'type': 'Unforeseen Complication Check'}
+  - {'roll': '1d20+4', 'label': 'Accelerated Harbor Strike Navigation', 'result': 22, 'type': 'Accelerated Harbor Strike Navigation', 'modifier': 4, 'faces': '18'}
+  - {'roll': '1d100', 'label': 'Unforeseen Complication Check', 'result': 19, 'type': 'Unforeseen Complication Check', 'modifier': None, 'faces': '19'}
 
 Game Master:
 Afternoon (13:25:00) in the Arx Harbor—the world becomes a blur of emerald static as you surrender your senses to the rhythm of the Source. You weave the incantation for Haste into your stride, and suddenly the sluggish movements of the city's inhabitants are frozen in time. You sprint through the lower districts, your feet barely touching the cobblestones, an invisible gale that leaves nothing but the scent of ozone and the snap of banners in its wake. 
@@ -605,8 +606,8 @@ Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 40,000gp | XP: 106600/120000
 Conditions: Haste (8 rds) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
 Dice Rolls:
-  - {'faces': '9', 'modifier': 0, 'label': 'Spot structural weakness in warehouse (Investigation)', 'result': 9, 'roll': '1d20+0', 'type': 'Spot structural weakness in warehouse (Investigation)'}
-  - {'faces': '19', 'modifier': 11, 'label': 'Precision strike to trigger collapse (DEX/Attack)', 'result': 30, 'roll': '1d20+11', 'type': 'Precision strike to trigger collapse (DEX/Attack)'}
+  - {'roll': '1d20+0', 'label': 'Spot structural weakness in warehouse (Investigation)', 'result': 9, 'type': 'Spot structural weakness in warehouse (Investigation)', 'modifier': 0, 'faces': '9'}
+  - {'roll': '1d20+11', 'label': 'Precision strike to trigger collapse (DEX/Attack)', 'result': 30, 'type': 'Precision strike to trigger collapse (DEX/Attack)', 'modifier': 11, 'faces': '19'}
 
 Game Master:
 Afternoon (13:26:00) in the Arx Harbor Warehouse—the high-pitched whine of the Source-Dampener vibrates in your teeth, but it cannot dampen the kinetic velocity of your Haste-quickened blood. You do not engage the interlocked shields of the Inquisitors. Instead, you blur upward, your boots kicking off a stack of crates as you ascend to the heavy timber rafters.
@@ -633,8 +634,8 @@ Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 40,000gp | XP: 108600/120000
 Conditions: Haste (7 rds) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
 Dice Rolls:
-  - {'faces': '19,13', 'modifier': 11, 'label': 'Execution of Disoriented Inquisitors (Advantage)', 'result': 30, 'roll': '2d20kh1+11', 'type': 'Execution of Disoriented Inquisitors (Advantage)'}
-  - {'faces': '6,3', 'modifier': 7, 'label': 'Obsidian Rapier + Improved Smite Damage', 'result': 16, 'roll': '2d8+7', 'type': 'Obsidian Rapier + Improved Smite Damage'}
+  - {'roll': '2d20kh1+11', 'label': 'Execution of Disoriented Inquisitors (Advantage)', 'result': 30, 'type': 'Execution of Disoriented Inquisitors (Advantage)', 'modifier': 11, 'faces': '19,13'}
+  - {'roll': '2d8+7', 'label': 'Obsidian Rapier + Improved Smite Damage', 'result': 16, 'type': 'Obsidian Rapier + Improved Smite Damage', 'modifier': 7, 'faces': '6,3'}
 
 Game Master:
 Afternoon (13:30:00) in the Arx Harbor Warehouse—the high-pitched scream of rending timber has faded into a heavy, dust-choked silence. You descend from the rafters with a dancer's grace, your boots barely making a sound as you land amidst the wreckage. The Haste-fire in your veins makes the struggling movements of the pinned Silver Shield Inquisitors (Lvl 12) look like insects trapped in amber.
@@ -702,7 +703,7 @@ Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 109100/120000
 Conditions: Haste (6 rds) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
 Dice Rolls:
-  - {'faces': '11', 'modifier': 0, 'label': 'Looting Silver Shield Inquisitors', 'result': 11, 'roll': '1d20+0', 'type': 'Looting Silver Shield Inquisitors'}
+  - {'roll': '1d20+0', 'label': 'Looting Silver Shield Inquisitors', 'result': 11, 'type': 'Looting Silver Shield Inquisitors', 'modifier': 0, 'faces': '11'}
 
 Game Master:
 Afternoon (13:35:00) in the Arx Harbor Warehouse—the dust begins to settle over the shattered remains of the Silver Shield ambushers. You move with fluid, predatory efficiency through the wreckage, your Sovereign Obsidian Rapier +3 (Lvl 12) still humming with the residue of Source Smites. 
@@ -729,8 +730,8 @@ Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 110600/120000
 Conditions: Haste (5 rds) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
 Dice Rolls:
-  - {'faces': '10', 'modifier': 12, 'label': 'Stealthy Descent down the Lift Shaft', 'result': 22, 'roll': '1d20+12', 'type': 'Stealthy Descent down the Lift Shaft'}
-  - {'faces': '27', 'modifier': 0, 'label': 'Unforeseen Complication Check', 'result': 27, 'roll': '1d100', 'type': 'Unforeseen Complication Check'}
+  - {'roll': '1d20+12', 'label': 'Stealthy Descent down the Lift Shaft', 'result': 22, 'type': 'Stealthy Descent down the Lift Shaft', 'modifier': 12, 'faces': '10'}
+  - {'roll': '1d100', 'label': 'Unforeseen Complication Check', 'result': 27, 'type': 'Unforeseen Complication Check', 'modifier': 0, 'faces': '27'}
 
 Game Master:
 Afternoon (13:40:00) in the Arx Harbor Warehouse - Lift Shaft—you surrender your weight to the shadows. While General Kaelen (Lvl 12) prepares the remaining guard above, you slip over the edge of the iron lift-rim, your gloved hands finding purchase on the cold, grease-slicked chains. The Haste-fire in your blood makes the descent feel like a slow-motion glide through a vertical abyss. 
@@ -773,11 +774,11 @@ Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 112600/120000
 Conditions: Haste (4 rds) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
 Dice Rolls:
-  - {'faces': '6,1', 'modifier': 11, 'label': 'Aerial Execution Strike 1 (Advantage)', 'result': 17, 'roll': '2d20kh1+11', 'type': 'Aerial Execution Strike 1 (Advantage)'}
-  - {'faces': '14,17', 'modifier': 11, 'label': 'Extra Attack (Advantage)', 'result': 28, 'roll': '2d20kh1+11', 'type': 'Extra Attack (Advantage)'}
-  - {'faces': '4,19', 'modifier': 11, 'label': 'Haste Action Attack (Advantage)', 'result': 30, 'roll': '2d20kh1+11', 'type': 'Haste Action Attack (Advantage)'}
-  - {'faces': '1,1', 'modifier': 7, 'label': 'Rapier + Improved Smite Damage (Hit 2)', 'result': 9, 'roll': '2d8+7', 'type': 'Rapier + Improved Smite Damage (Hit 2)'}
-  - {'faces': '6,8', 'modifier': 7, 'label': 'Rapier + Improved Smite Damage (Hit 3)', 'result': 21, 'roll': '2d8+7', 'type': 'Rapier + Improved Smite Damage (Hit 3)'}
+  - {'roll': '2d20kh1+11', 'label': 'Aerial Execution Strike 1 (Advantage)', 'result': 17, 'type': 'Aerial Execution Strike 1 (Advantage)', 'modifier': 11, 'faces': '6,1'}
+  - {'roll': '2d20kh1+11', 'label': 'Extra Attack (Advantage)', 'result': 28, 'type': 'Extra Attack (Advantage)', 'modifier': 11, 'faces': '14,17'}
+  - {'roll': '2d20kh1+11', 'label': 'Haste Action Attack (Advantage)', 'result': 30, 'type': 'Haste Action Attack (Advantage)', 'modifier': 11, 'faces': '4,19'}
+  - {'roll': '2d8+7', 'label': 'Rapier + Improved Smite Damage (Hit 2)', 'result': 9, 'type': 'Rapier + Improved Smite Damage (Hit 2)', 'modifier': 7, 'faces': '1,1'}
+  - {'roll': '2d8+7', 'label': 'Rapier + Improved Smite Damage (Hit 3)', 'result': 21, 'type': 'Rapier + Improved Smite Damage (Hit 3)', 'modifier': 7, 'faces': '6,8'}
 
 Game Master:
 Afternoon (13:41:00) at the base of the Sunken Vault Lift Shaft—the shadows peel away from the cross-beam as you launch yourself into the abyss. The Haste-fire in your blood turns the ten-foot drop into a weightless descent. You fall like a silent emerald bolt, your Sovereign Obsidian Rapiers +3 (Lvl 12) leading the way.
@@ -824,11 +825,11 @@ Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 113200/120000
 Conditions: Haste (3 rds) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
 Dice Rolls:
-  - {'faces': '11', 'modifier': 11, 'label': 'Attack vs Inquisitor C', 'result': 22, 'roll': '1d20+11', 'type': 'Attack vs Inquisitor C'}
-  - {'faces': '3,6', 'modifier': 7, 'label': 'Damage vs C', 'result': 16, 'roll': '2d8+7', 'type': 'Damage vs C'}
-  - {'faces': '6', 'modifier': 11, 'label': 'Attack vs Inquisitor D', 'result': 17, 'roll': '1d20+11', 'type': 'Attack vs Inquisitor D'}
-  - {'faces': '15', 'modifier': 11, 'label': 'Haste Attack vs Inquisitor D', 'result': 26, 'roll': '1d20+11', 'type': 'Haste Attack vs Inquisitor D'}
-  - {'faces': '3,1', 'modifier': 7, 'label': 'Damage vs D', 'result': 11, 'roll': '2d8+7', 'type': 'Damage vs D'}
+  - {'roll': '1d20+11', 'label': 'Attack vs Inquisitor C', 'result': 22, 'type': 'Attack vs Inquisitor C', 'modifier': 11, 'faces': '11'}
+  - {'roll': '2d8+7', 'label': 'Damage vs C', 'result': 16, 'type': 'Damage vs C', 'modifier': 7, 'faces': '3,6'}
+  - {'roll': '1d20+11', 'label': 'Attack vs Inquisitor D', 'result': 17, 'type': 'Attack vs Inquisitor D', 'modifier': 11, 'faces': '6'}
+  - {'roll': '1d20+11', 'label': 'Haste Attack vs Inquisitor D', 'result': 26, 'type': 'Haste Attack vs Inquisitor D', 'modifier': 11, 'faces': '15'}
+  - {'roll': '2d8+7', 'label': 'Damage vs D', 'result': 11, 'type': 'Damage vs D', 'modifier': 7, 'faces': '3,1'}
 
 Game Master:
 Afternoon (13:42:00) at the base of the Sunken Vault Lift Shaft—the shadows of the descent still cling to your cloak as you pivot from the first kill. The Haste-fire in your veins renders the world a sluggish tapestry of grey and white. 
@@ -872,10 +873,10 @@ Status: Lvl 12 Gestalt | HP: 102/102 (Temp: 0) | Gold: 41,200gp | XP: 115200/120
 Conditions: Haste (2 rds) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 12/12
 Dice Rolls:
-  - {'faces': '17', 'modifier': 11, 'label': 'Final Execution - Strike 1', 'result': 28, 'roll': '1d20+11', 'type': 'Final Execution - Strike 1'}
-  - {'faces': '8,3', 'modifier': 7, 'label': 'Damage for Final Execution - Strike 1', 'result': 18, 'roll': '2d8+7', 'type': 'Damage for Final Execution - Strike 1'}
-  - {'faces': '13', 'modifier': 11, 'label': 'Final Execution - Strike 2', 'result': 24, 'roll': '1d20+11', 'type': 'Final Execution - Strike 2'}
-  - {'faces': '5,5', 'modifier': 7, 'label': 'Damage for Final Execution - Strike 2', 'result': 17, 'roll': '2d8+7', 'type': 'Damage for Final Execution - Strike 2'}
+  - {'roll': '1d20+11', 'label': 'Final Execution - Strike 1', 'result': 28, 'type': 'Final Execution - Strike 1', 'modifier': 11, 'faces': '17'}
+  - {'roll': '2d8+7', 'label': 'Damage for Final Execution - Strike 1', 'result': 18, 'type': 'Damage for Final Execution - Strike 1', 'modifier': 7, 'faces': '8,3'}
+  - {'roll': '1d20+11', 'label': 'Final Execution - Strike 2', 'result': 24, 'type': 'Final Execution - Strike 2', 'modifier': 11, 'faces': '13'}
+  - {'roll': '2d8+7', 'label': 'Damage for Final Execution - Strike 2', 'result': 17, 'type': 'Damage for Final Execution - Strike 2', 'modifier': 7, 'faces': '5,5'}
 
 Game Master:
 Afternoon (13:43:00) at the base of the Sunken Vault Lift Shaft—the world remains a static, monochromatic blur under the Haste-fire of your divine blood. You do not give the dying Inquisitor the heartbeat he needs to reach the ward. As he lunges, his fingers inches from the pulsating necrotic circle, you are already behind him.
@@ -995,9 +996,9 @@ Status: Lvl 12 Gestalt | HP: 102/102 | Gold: 41,200gp | XP: 116000/120000
 Conditions: Haste (1 rd) | Sorcery Points: 11/12 | Inspiration: No]
 Resources: HD: 12/12 | Spells: L1 4/4, L2 2/3, L3 2/3, L4 3/3, L5 2/2, L6 1/1 | SP: 11/12
 Dice Rolls:
-  - {'faces': '14', 'modifier': 0, 'label': 'Parallel Coordination Check (Synergistic)', 'result': 14, 'roll': '1d20', 'type': 'Parallel Coordination Check (Synergistic)'}
-  - {'faces': '18', 'modifier': 0, 'label': 'Neutralize Soul-Scourge Ward (Arcana)', 'result': 18, 'roll': '1d20', 'type': 'Neutralize Soul-Scourge Ward (Arcana)'}
-  - {'faces': '16', 'modifier': 5, 'label': 'Scout Hallway with Source Vision (Perception)', 'result': 21, 'roll': '1d20+5', 'type': 'Scout Hallway with Source Vision (Perception)'}
+  - {'roll': '1d20', 'label': 'Parallel Coordination Check (Synergistic)', 'result': 14, 'type': 'Parallel Coordination Check (Synergistic)', 'modifier': 0, 'faces': '14'}
+  - {'roll': '1d20', 'label': 'Neutralize Soul-Scourge Ward (Arcana)', 'result': 18, 'type': 'Neutralize Soul-Scourge Ward (Arcana)', 'modifier': 0, 'faces': '18'}
+  - {'roll': '1d20+5', 'label': 'Scout Hallway with Source Vision (Perception)', 'result': 21, 'type': 'Scout Hallway with Source Vision (Perception)', 'modifier': 5, 'faces': '16'}
 
 Game Master:
 Afternoon (13:45:00) at the base of the Sunken Vault Lift Shaft—the silence of the execution is replaced by the low, vibrating hum of your internal Source. You do not move from your crouch. Instead, you reach out with a gloved hand toward the Soul-Scourge Circle, your fingers tracing the air as you weave a Subtle Spell to unpick the necrotic knot. 
@@ -1043,11 +1044,11 @@ Location: Arx - Sunken Vault Interior
 Status: Lvl 12 Gestalt | HP: 102/102 (Temp: 0) | Gold: 41,200gp | XP: 117000/120000
 Conditions: Haste Lethargy (1 rd) | Sorcery Points: 11/12 | Inspiration: No]
 Dice Rolls:
-  - {'faces': '5', 'modifier': 11, 'label': 'Blitz Strike 1 (Captain)', 'result': 16, 'roll': '1d20+11', 'type': 'Blitz Strike 1 (Captain)'}
-  - {'faces': '18', 'modifier': 11, 'label': 'Blitz Strike 2 (Captain)', 'result': 29, 'roll': '1d20+11', 'type': 'Blitz Strike 2 (Captain)'}
-  - {'faces': '6,3', 'modifier': 7, 'label': 'Damage for Blitz Strike 2 (Captain)', 'result': 16, 'roll': '2d8+7', 'type': 'Damage for Blitz Strike 2 (Captain)'}
-  - {'faces': '5', 'modifier': 11, 'label': 'Haste Execution (Captain)', 'result': 16, 'roll': '1d20+11', 'type': 'Haste Execution (Captain)'}
-  - {'faces': '7', 'modifier': None, 'label': 'Unforeseen Complication Check', 'result': 7, 'roll': '1d100', 'type': 'Unforeseen Complication Check'}
+  - {'roll': '1d20+11', 'label': 'Blitz Strike 1 (Captain)', 'result': 16, 'type': 'Blitz Strike 1 (Captain)', 'modifier': 11, 'faces': '5'}
+  - {'roll': '1d20+11', 'label': 'Blitz Strike 2 (Captain)', 'result': 29, 'type': 'Blitz Strike 2 (Captain)', 'modifier': 11, 'faces': '18'}
+  - {'roll': '2d8+7', 'label': 'Damage for Blitz Strike 2 (Captain)', 'result': 16, 'type': 'Damage for Blitz Strike 2 (Captain)', 'modifier': 7, 'faces': '6,3'}
+  - {'roll': '1d20+11', 'label': 'Haste Execution (Captain)', 'result': 16, 'type': 'Haste Execution (Captain)', 'modifier': 11, 'faces': '5'}
+  - {'roll': '1d100', 'label': 'Unforeseen Complication Check', 'result': 7, 'type': 'Unforeseen Complication Check', 'modifier': None, 'faces': '7'}
 
 Game Master:
 Afternoon (13:46:00) in the Sunken Vault - Crystalline Hallway—the world is a frozen, crystalline tapestry as you push the Haste-fire to its absolute limit. You bridge the sixty-foot gap in a single, heart-stopping blur of emerald light, your Sovereign Obsidian Rapiers +3 (Lvl 12) leveled at the captain's throat. 

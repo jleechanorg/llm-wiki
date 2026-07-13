@@ -2,12 +2,12 @@
 title: "Bg3 shadow farmer (level planningb showing)"
 type: source
 tags: [campaign, worldarchitect, bg3-shadow-farmer-level-planningb-showing]
-date: 2026-06-14
-source_file: /tmp/campaign_downloads_2026_06_13/7q9Dox6zKwwkw1okHo3i/Bg3 shadow farmer _level planningb showing__7q9Dox6z.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/7q9Dox6zKwwkw1okHo3i/Bg3 shadow farmer _level planningb showing__7q9Dox6z.txt
 campaign_id: 7q9Dox6zKwwkw1okHo3i
 entry_count: 750
-last_updated: 2026-06-13 00:42:19.922634+00:00
-ingest_batch: 2026-06-13-last-2-weeks-50plus-scenes
+last_updated_iso: 2026-07-13T02:32:48.280481+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

@@ -2,11 +2,12 @@
 title: "My Epic Adventure ezlevel3 (copy)"
 type: source
 tags: [campaign, worldarchitect, my-epic-adventure-ezlevel3-copy]
-date: 2026-06-24
-source_file: /tmp/campaign_daily_ingest/UnGFQcGvaUutQnr6mQwL/My Epic Adventure ezlevel3 _copy__UnGFQcGv.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/UnGFQcGvaUutQnr6mQwL/My Epic Adventure ezlevel3 _copy__UnGFQcGv.txt
 campaign_id: UnGFQcGvaUutQnr6mQwL
 entry_count: 76
-ingest_batch: download-campaign-skill
+last_updated_iso: 2026-07-13T02:33:31.380759+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

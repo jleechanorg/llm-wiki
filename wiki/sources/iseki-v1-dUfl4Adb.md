@@ -2,11 +2,12 @@
 title: "Iseki v1"
 type: source
 tags: [campaign, worldarchitect, iseki-v1]
-date: 2026-06-24
-source_file: /tmp/campaign_daily_ingest/dUfl4Adb3oH6foczNFSZ/Iseki v1_dUfl4Adb.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/dUfl4Adb3oH6foczNFSZ/Iseki v1_dUfl4Adb.txt
 campaign_id: dUfl4Adb3oH6foczNFSZ
-entry_count: 108
-ingest_batch: download-campaign-skill
+entry_count: 112
+last_updated_iso: 2026-07-13T02:33:54.428418+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

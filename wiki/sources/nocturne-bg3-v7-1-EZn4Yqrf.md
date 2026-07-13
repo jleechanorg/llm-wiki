@@ -1,12 +1,13 @@
 ---
 title: "Nocturne bg3 V7.1"
 type: source
-tags: [campaign, nocturne-bg3-v7-1-EZn4Yqrf]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/EZn4YqrfjBmh9nklx4pN/Nocturne bg3 V7_1_EZn4Yqrf.txt
+tags: [campaign, worldarchitect, nocturne-bg3-v7-1]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/EZn4YqrfjBmh9nklx4pN/Nocturne bg3 V7_1_EZn4Yqrf.txt
 campaign_id: EZn4YqrfjBmh9nklx4pN
 entry_count: 84
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:03.039572+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

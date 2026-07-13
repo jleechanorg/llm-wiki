@@ -2,11 +2,12 @@
 title: "Saita v3.1"
 type: source
 tags: [campaign, worldarchitect, saita-v3-1]
-date: 2026-06-24
-source_file: /tmp/campaign_daily_ingest/uZvPZPnBCVw3WtSEBWab/Saita v3_1_uZvPZPnB.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/uZvPZPnBCVw3WtSEBWab/Saita v3_1_uZvPZPnB.txt
 campaign_id: uZvPZPnBCVw3WtSEBWab
 entry_count: 810
-ingest_batch: download-campaign-skill
+last_updated_iso: 2026-07-13T02:34:15.565421+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 ============================================================
@@ -215,8 +216,8 @@ Status: Lvl 4 Ascendant Herald | HP: 29/29 | XP: 3739/6500 | Gold: 281gp
 Conditions: Normal | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 2/4 | Spells: L1 3/4, L2 1/3 | Bardic Inspiration: 3/3 | Exhaustion: 0
 Dice Rolls:
-  - {'result': 15, 'roll': '1d20+4', 'dc': 15, 'success': True, 'margin': None, 'outcome': 'Identified one Tier-3 genetic specimen among the thugs.', 'dc_reasoning': None, 'dc_category': None, 'type': 'Assessment of Prisoners (Medicine/Insight)'}
-  - {'result': 22, 'roll': '1d20+9', 'dc': 17, 'success': True, 'outcome': 'Duke Ravengard yields to the security of the Annex and agrees to sign.', 'margin': None, 'dc_reasoning': None, 'dc_category': None, 'type': 'Escorting Duke Ravengard (Persuasion)'}
+  - {'success': True, 'roll': '1d20+4', 'result': 15, 'dc_category': None, 'dc': 15, 'margin': None, 'dc_reasoning': None, 'outcome': 'Identified one Tier-3 genetic specimen among the thugs.', 'type': 'Assessment of Prisoners (Medicine/Insight)'}
+  - {'success': True, 'roll': '1d20+9', 'result': 22, 'dc_category': None, 'dc': 17, 'dc_reasoning': None, 'outcome': 'Duke Ravengard yields to the security of the Annex and agrees to sign.', 'margin': None, 'type': 'Escorting Duke Ravengard (Persuasion)'}
 
 Game Master:
 Late night (22:15:00) in the Gray Harbor—the salt-mist is so thick it feels like a physical weight against your midnight-blue mantle. You stand amidst the wreckage of Warehouse 7, the paralyzed Zhentarim quartermaster still a frozen monument to your Sovereign Stasis. 

@@ -1,12 +1,13 @@
 ---
 title: "evil pally"
 type: source
-tags: [campaign, evil-pally-zcNkiSm5]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/zcNkiSm572KVTpJ3z806/evil pally_zcNkiSm5.txt
+tags: [campaign, worldarchitect, evil-pally]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/zcNkiSm572KVTpJ3z806/evil pally_zcNkiSm5.txt
 campaign_id: zcNkiSm572KVTpJ3z806
 entry_count: 52
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:34:26.211737+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

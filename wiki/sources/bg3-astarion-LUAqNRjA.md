@@ -1,12 +1,13 @@
 ---
 title: "bg3 astarion"
 type: source
-tags: [campaign, bg3-astarion-LUAqNRjA]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/LUAqNRjA6SIgLAoSPfDH/bg3 astarion_LUAqNRjA.txt
+tags: [campaign, worldarchitect, bg3-astarion]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/LUAqNRjA6SIgLAoSPfDH/bg3 astarion_LUAqNRjA.txt
 campaign_id: LUAqNRjA6SIgLAoSPfDH
 entry_count: 254
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:14.847917+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

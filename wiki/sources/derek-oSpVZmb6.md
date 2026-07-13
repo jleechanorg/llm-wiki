@@ -1,12 +1,13 @@
 ---
 title: "Derek"
 type: source
-tags: [campaign, derek-oSpVZmb6]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/oSpVZmb6hpgw74ITwZ1J/Derek_oSpVZmb6.txt
+tags: [campaign, worldarchitect, derek]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/oSpVZmb6hpgw74ITwZ1J/Derek_oSpVZmb6.txt
 campaign_id: oSpVZmb6hpgw74ITwZ1J
 entry_count: 50
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:34:07.309248+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

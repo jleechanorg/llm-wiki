@@ -1,12 +1,13 @@
 ---
 title: "nocturne bg3 continued"
 type: source
-tags: [campaign, nocturne-bg3-continued-TBKp5JCA]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/TBKp5JCAb8E6l5g9Wtf6/nocturne bg3 continued_TBKp5JCA.txt
+tags: [campaign, worldarchitect, nocturne-bg3-continued]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/TBKp5JCAb8E6l5g9Wtf6/nocturne bg3 continued_TBKp5JCA.txt
 campaign_id: TBKp5JCAb8E6l5g9Wtf6
 entry_count: 358
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:28.432760+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

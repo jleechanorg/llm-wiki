@@ -2,11 +2,12 @@
 title: "Thay trader (horgus memory loss)"
 type: source
 tags: [campaign, worldarchitect, thay-trader-horgus-memory-loss]
-date: 2026-06-24
-source_file: /tmp/campaign_daily_ingest/7fjgsAAjLZE7dX7V4P9V/Thay trader _horgus memory loss__7fjgsAAj.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/7fjgsAAjLZE7dX7V4P9V/Thay trader _horgus memory loss__7fjgsAAj.txt
 campaign_id: 7fjgsAAjLZE7dX7V4P9V
 entry_count: 322
-ingest_batch: download-campaign-skill
+last_updated_iso: 2026-07-13T02:41:40.269394+00:00
+ingest_batch: batch-2026-07-12-50plus-repair
 ---
 
 God Mode:

@@ -1,12 +1,13 @@
 ---
 title: "BG1 - Nocturne"
 type: source
-tags: [campaign, bg1-nocturne-Fr57AdL2]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/Fr57AdL2vCflPFxDzcix/BG1 - Nocturne_Fr57AdL2.txt
+tags: [campaign, worldarchitect, bg1-nocturne]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/Fr57AdL2vCflPFxDzcix/BG1 - Nocturne_Fr57AdL2.txt
 campaign_id: Fr57AdL2vCflPFxDzcix
 entry_count: 506
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:05.896337+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

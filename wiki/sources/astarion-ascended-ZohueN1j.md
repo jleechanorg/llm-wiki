@@ -1,12 +1,13 @@
 ---
 title: "Astarion Ascended"
 type: source
-tags: [campaign, astarion-ascended-ZohueN1j]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/ZohueN1jHIg4SokVJmTu/Astarion Ascended_ZohueN1j.txt
+tags: [campaign, worldarchitect, astarion-ascended]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/ZohueN1jHIg4SokVJmTu/Astarion Ascended_ZohueN1j.txt
 campaign_id: ZohueN1jHIg4SokVJmTu
 entry_count: 301
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:47.178667+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 ============================================================

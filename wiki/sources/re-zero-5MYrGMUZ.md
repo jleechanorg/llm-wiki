@@ -2,12 +2,12 @@
 title: "Re: zero"
 type: source
 tags: [campaign, worldarchitect, re-zero]
-date: 2026-06-14
-source_file: /tmp/campaign_downloads_2026_06_13/5MYrGMUZovrK6hgv3Qiu/Re_ zero_5MYrGMUZ.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/5MYrGMUZovrK6hgv3Qiu/Re_ zero_5MYrGMUZ.txt
 campaign_id: 5MYrGMUZovrK6hgv3Qiu
-entry_count: 124
-last_updated: 2026-06-13 04:46:49.675774+00:00
-ingest_batch: 2026-06-13-last-2-weeks-50plus-scenes
+entry_count: 158
+last_updated_iso: 2026-07-13T02:32:40.086920+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:
