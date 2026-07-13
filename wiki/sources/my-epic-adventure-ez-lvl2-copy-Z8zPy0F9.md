@@ -2,11 +2,12 @@
 title: "My Epic Adventure ez lvl2 (copy)"
 type: source
 tags: [campaign, worldarchitect, my-epic-adventure-ez-lvl2-copy]
-date: 2026-06-24
-source_file: /tmp/campaign_daily_ingest/Z8zPy0F9eCVMWvpn2ozv/My Epic Adventure ez lvl2 _copy__Z8zPy0F9.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/Z8zPy0F9eCVMWvpn2ozv/My Epic Adventure ez lvl2 _copy__Z8zPy0F9.txt
 campaign_id: Z8zPy0F9eCVMWvpn2ozv
 entry_count: 66
-ingest_batch: download-campaign-skill
+last_updated_iso: 2026-07-13T02:33:45.186566+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

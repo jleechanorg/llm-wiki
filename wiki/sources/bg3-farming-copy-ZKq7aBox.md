@@ -2,12 +2,12 @@
 title: "Bg3 farming  (copy)"
 type: source
 tags: [campaign, worldarchitect, bg3-farming-copy]
-date: 2026-06-14
-source_file: /tmp/campaign_downloads_2026_06_13/ZKq7aBoxJLFWCSilsHPO/Bg3 farming  _copy__ZKq7aBox.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/ZKq7aBoxJLFWCSilsHPO/Bg3 farming  _copy__ZKq7aBox.txt
 campaign_id: ZKq7aBoxJLFWCSilsHPO
 entry_count: 330
-last_updated: 2026-06-08 16:47:55.215550+00:00
-ingest_batch: 2026-06-13-last-2-weeks-50plus-scenes
+last_updated_iso: 2026-07-13T02:33:46.037841+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

@@ -1,12 +1,13 @@
 ---
 title: "aurelius julius caesar v1"
 type: source
-tags: [campaign, aurelius-julius-caesar-v1-9za9JS5r]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/9za9JS5rJWrAvJDEEj5g/aurelius julius caesar v1_9za9JS5r.txt
+tags: [campaign, worldarchitect, aurelius-julius-caesar-v1]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/9za9JS5rJWrAvJDEEj5g/aurelius julius caesar v1_9za9JS5r.txt
 campaign_id: 9za9JS5rJWrAvJDEEj5g
 entry_count: 980
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:41:43.962964+00:00
+ingest_batch: batch-2026-07-12-50plus-repair
 ---
 
 God Mode:

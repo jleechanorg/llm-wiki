@@ -1,12 +1,13 @@
 ---
 title: "Nocturne bg3 v4 (copy)"
 type: source
-tags: [campaign, nocturne-bg3-v4-copy-lJ0AIdpv]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/lJ0AIdpvp6KvnYjoDHR5/Nocturne bg3 v4 _copy__lJ0AIdpv.txt
+tags: [campaign, worldarchitect, nocturne-bg3-v4-copy]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/lJ0AIdpvp6KvnYjoDHR5/Nocturne bg3 v4 _copy__lJ0AIdpv.txt
 campaign_id: lJ0AIdpvp6KvnYjoDHR5
 entry_count: 1642
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:34:00.804744+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

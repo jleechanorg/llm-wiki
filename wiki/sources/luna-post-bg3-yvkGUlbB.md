@@ -1,12 +1,13 @@
 ---
 title: "Luna post bg3"
 type: source
-tags: [campaign, luna-post-bg3-yvkGUlbB]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/yvkGUlbBJ90zrjivwn7r/Luna post bg3_yvkGUlbB.txt
+tags: [campaign, worldarchitect, luna-post-bg3]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/yvkGUlbBJ90zrjivwn7r/Luna post bg3_yvkGUlbB.txt
 campaign_id: yvkGUlbBJ90zrjivwn7r
 entry_count: 101
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:34:23.179627+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

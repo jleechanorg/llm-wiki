@@ -2,12 +2,12 @@
 title: "swtor - tenebria (event not in narrative?)"
 type: source
 tags: [campaign, worldarchitect, swtor-tenebria-event-not-in-narrative]
-date: 2026-06-14
-source_file: /tmp/campaign_downloads_2026_06_13/71eQ0Yb1oY205xtKhZS4/swtor - tenebria _event not in narrative___71eQ0Yb1.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/71eQ0Yb1oY205xtKhZS4/swtor - tenebria _event not in narrative___71eQ0Yb1.txt
 campaign_id: 71eQ0Yb1oY205xtKhZS4
 entry_count: 72
-last_updated: 2026-06-13 23:26:55.439575+00:00
-ingest_batch: 2026-06-13-last-2-weeks-50plus-scenes
+last_updated_iso: 2026-07-13T02:32:45.198871+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

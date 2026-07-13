@@ -1,12 +1,13 @@
 ---
 title: "bg3 shadow heart - camp design"
 type: source
-tags: [campaign, bg3-shadow-heart-camp-design-9WlAYnqj]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/9WlAYnqjLxXjy9wilpFR/bg3 shadow heart - camp design_9WlAYnqj.txt
+tags: [campaign, worldarchitect, bg3-shadow-heart-camp-design]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/9WlAYnqjLxXjy9wilpFR/bg3 shadow heart - camp design_9WlAYnqj.txt
 campaign_id: 9WlAYnqjLxXjy9wilpFR
 entry_count: 53
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:32:50.981985+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

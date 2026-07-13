@@ -2,11 +2,12 @@
 title: "Itachi V2"
 type: source
 tags: [campaign, worldarchitect, itachi-v2]
-date: 2026-06-24
-source_file: /tmp/campaign_daily_ingest/ZMbCnA6bLVcjvyICXIHl/Itachi V2_ZMbCnA6b.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/ZMbCnA6bLVcjvyICXIHl/Itachi V2_ZMbCnA6b.txt
 campaign_id: ZMbCnA6bLVcjvyICXIHl
 entry_count: 864
-ingest_batch: download-campaign-skill
+last_updated_iso: 2026-07-13T02:32:25.689702+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

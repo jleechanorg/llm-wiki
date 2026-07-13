@@ -2,12 +2,12 @@
 title: "Vespera Thul (copy) (copy) (copy)"
 type: source
 tags: [campaign, worldarchitect, vespera-thul-copy-copy-copy]
-date: 2026-06-14
-source_file: /tmp/campaign_downloads_2026_06_13/zQHOdmx9bTTJhL5gzLHV/Vespera Thul _copy_ _copy_ _copy__zQHOdmx9.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/zQHOdmx9bTTJhL5gzLHV/Vespera Thul _copy_ _copy_ _copy__zQHOdmx9.txt
 campaign_id: zQHOdmx9bTTJhL5gzLHV
 entry_count: 128
-last_updated: 2026-06-09 17:40:18.879536+00:00
-ingest_batch: 2026-06-13-last-2-weeks-50plus-scenes
+last_updated_iso: 2026-07-13T02:34:25.926692+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 ============================================================

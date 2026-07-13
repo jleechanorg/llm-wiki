@@ -1,12 +1,13 @@
 ---
 title: "Stellaris - Nocturne V1"
 type: source
-tags: [campaign, stellaris-nocturne-v1-wOhBvrJ0]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/wOhBvrJ0gYA2Ox9g1kLC/Stellaris - Nocturne V1_wOhBvrJ0.txt
+tags: [campaign, worldarchitect, stellaris-nocturne-v1]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/wOhBvrJ0gYA2Ox9g1kLC/Stellaris - Nocturne V1_wOhBvrJ0.txt
 campaign_id: wOhBvrJ0gYA2Ox9g1kLC
 entry_count: 589
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:34:19.441863+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

@@ -1,12 +1,13 @@
 ---
 title: "nocturne old republic"
 type: source
-tags: [campaign, nocturne-old-republic-vfi0Vh04]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/vfi0Vh04nm5nRiaSgHSr/nocturne old republic_vfi0Vh04.txt
+tags: [campaign, worldarchitect, nocturne-old-republic]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/vfi0Vh04nm5nRiaSgHSr/nocturne old republic_vfi0Vh04.txt
 campaign_id: vfi0Vh04nm5nRiaSgHSr
 entry_count: 793
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:34:17.644663+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

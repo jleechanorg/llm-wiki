@@ -2,12 +2,12 @@
 title: "Larion - Alexiel"
 type: source
 tags: [campaign, worldarchitect, larion-alexiel]
-date: 2026-06-14
-source_file: /tmp/campaign_downloads_2026_06_13/QUrgoflLFNtIerEUIccc/Larion - Alexiel_QUrgoflL.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/QUrgoflLFNtIerEUIccc/Larion - Alexiel_QUrgoflL.txt
 campaign_id: QUrgoflLFNtIerEUIccc
 entry_count: 62
-last_updated: 2026-06-13 10:17:42.926764+00:00
-ingest_batch: 2026-06-13-last-2-weeks-50plus-scenes
+last_updated_iso: 2026-07-13T02:33:22.199256+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

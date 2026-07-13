@@ -2,11 +2,12 @@
 title: "Real blacksmith bg3"
 type: source
 tags: [campaign, worldarchitect, real-blacksmith-bg3]
-date: 2026-06-24
-source_file: /tmp/campaign_daily_ingest/NTHkeoR3aAN9GpBanY9i/Real blacksmith bg3_NTHkeoR3.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/NTHkeoR3aAN9GpBanY9i/Real blacksmith bg3_NTHkeoR3.txt
 campaign_id: NTHkeoR3aAN9GpBanY9i
 entry_count: 132
-ingest_batch: download-campaign-skill
+last_updated_iso: 2026-07-13T02:33:17.377031+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

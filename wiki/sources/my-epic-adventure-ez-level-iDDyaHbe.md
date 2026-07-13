@@ -1,12 +1,13 @@
 ---
 title: "My Epic Adventure ez level"
 type: source
-tags: [campaign, my-epic-adventure-ez-level-iDDyaHbe]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/iDDyaHbevKSqQHoMUHnu/My Epic Adventure ez level_iDDyaHbe.txt
+tags: [campaign, worldarchitect, my-epic-adventure-ez-level]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/iDDyaHbevKSqQHoMUHnu/My Epic Adventure ez level_iDDyaHbe.txt
 campaign_id: iDDyaHbevKSqQHoMUHnu
-entry_count: 94
-last_updated: 2026-05-22
+entry_count: 112
+last_updated_iso: 2026-07-13T02:33:57.698817+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

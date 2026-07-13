@@ -1,12 +1,13 @@
 ---
 title: "Daemon conquers"
 type: source
-tags: [campaign, daemon-conquers-tg37yPXr]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/tg37yPXra7HQfYKmgDOj/Daemon conquers_tg37yPXr.txt
+tags: [campaign, worldarchitect, daemon-conquers]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/tg37yPXra7HQfYKmgDOj/Daemon conquers_tg37yPXr.txt
 campaign_id: tg37yPXra7HQfYKmgDOj
 entry_count: 471
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:34:14.677054+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 ============================================================

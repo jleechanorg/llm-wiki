@@ -2,12 +2,12 @@
 title: "Itachi V3 (green-test)"
 type: source
 tags: [campaign, worldarchitect, itachi-v3-green-test]
-date: 2026-06-14
-source_file: /tmp/campaign_downloads_2026_06_13/ocTfgRFiYo1WkXSc8WrT/Itachi V3 _green-test__ocTfgRFi.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/ocTfgRFiYo1WkXSc8WrT/Itachi V3 _green-test__ocTfgRFi.txt
 campaign_id: ocTfgRFiYo1WkXSc8WrT
 entry_count: 1142
-last_updated: 2026-06-05 05:05:25.478694+00:00
-ingest_batch: 2026-06-13-last-2-weeks-50plus-scenes
+last_updated_iso: 2026-07-13T02:34:08.250670+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

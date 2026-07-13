@@ -2,11 +2,12 @@
 title: "Thay trader"
 type: source
 tags: [campaign, worldarchitect, thay-trader]
-date: 2026-06-24
-source_file: /tmp/campaign_daily_ingest/btF3Nu4mqQRTVLG6F7tu/Thay trader_btF3Nu4m.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/btF3Nu4mqQRTVLG6F7tu/Thay trader_btF3Nu4m.txt
 campaign_id: btF3Nu4mqQRTVLG6F7tu
 entry_count: 875
-ingest_batch: download-campaign-skill
+last_updated_iso: 2026-07-13T02:42:00.829469+00:00
+ingest_batch: batch-2026-07-12-50plus-repair
 ---
 
 God Mode:

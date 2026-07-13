@@ -2,12 +2,12 @@
 title: "Bg3 shadow farmer (copy) (copy)"
 type: source
 tags: [campaign, worldarchitect, bg3-shadow-farmer-copy-copy]
-date: 2026-06-14
-source_file: /tmp/campaign_downloads_2026_06_13/goNnA0eWOcs9zM05uC1Y/Bg3 shadow farmer _copy_ _copy__goNnA0eW.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/goNnA0eWOcs9zM05uC1Y/Bg3 shadow farmer _copy_ _copy__goNnA0eW.txt
 campaign_id: goNnA0eWOcs9zM05uC1Y
 entry_count: 532
-last_updated: 2026-06-09 04:16:41.252073+00:00
-ingest_batch: 2026-06-13-last-2-weeks-50plus-scenes
+last_updated_iso: 2026-07-13T02:33:55.980807+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

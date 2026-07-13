@@ -1,12 +1,13 @@
 ---
 title: "Nocturne post bg3 zhent"
 type: source
-tags: [campaign, nocturne-post-bg3-zhent-VqqJLpAB]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/VqqJLpABua9bvAG4ArTg/Nocturne post bg3 zhent_VqqJLpAB.txt
+tags: [campaign, worldarchitect, nocturne-post-bg3-zhent]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/VqqJLpABua9bvAG4ArTg/Nocturne post bg3 zhent_VqqJLpAB.txt
 campaign_id: VqqJLpABua9bvAG4ArTg
 entry_count: 2007
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:35.355590+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

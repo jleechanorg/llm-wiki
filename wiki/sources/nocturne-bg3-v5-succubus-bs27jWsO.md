@@ -1,12 +1,13 @@
 ---
 title: "Nocturne bg3 v5 - succubus"
 type: source
-tags: [campaign, nocturne-bg3-v5-succubus-bs27jWsO]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/bs27jWsO0jJa0MyOTQgI/Nocturne bg3 v5 - succubus_bs27jWsO.txt
+tags: [campaign, worldarchitect, nocturne-bg3-v5-succubus]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/bs27jWsO0jJa0MyOTQgI/Nocturne bg3 v5 - succubus_bs27jWsO.txt
 campaign_id: bs27jWsO0jJa0MyOTQgI
 entry_count: 556
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:50.901834+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

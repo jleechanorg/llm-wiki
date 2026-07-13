@@ -2,12 +2,12 @@
 title: "Itachi V3 (copy)"
 type: source
 tags: [campaign, worldarchitect, itachi-v3-copy]
-date: 2026-06-14
-source_file: /tmp/campaign_downloads_2026_06_13/yytn8e7U66kMzh4Oxjow/Itachi V3 _copy__yytn8e7U.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/yytn8e7U66kMzh4Oxjow/Itachi V3 _copy__yytn8e7U.txt
 campaign_id: yytn8e7U66kMzh4Oxjow
 entry_count: 1101
-last_updated: 2026-06-04 23:31:40.139200+00:00
-ingest_batch: 2026-06-13-last-2-weeks-50plus-scenes
+last_updated_iso: 2026-07-13T02:34:24.775394+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

@@ -1,12 +1,13 @@
 ---
 title: "Gaia julia v5"
 type: source
-tags: [campaign, gaia-julia-v5-pK5N1Fn6]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/pK5N1Fn6MrAXZSPPvcu3/Gaia julia v5_pK5N1Fn6.txt
+tags: [campaign, worldarchitect, gaia-julia-v5]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/pK5N1Fn6MrAXZSPPvcu3/Gaia julia v5_pK5N1Fn6.txt
 campaign_id: pK5N1Fn6MrAXZSPPvcu3
 entry_count: 156
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:34:10.306177+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

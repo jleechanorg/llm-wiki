@@ -1,12 +1,13 @@
 ---
 title: "Arion dragon good"
 type: source
-tags: [campaign, arion-dragon-good-X3jXwHvo]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/X3jXwHvoBVZtVoFY84KC/Arion dragon good_X3jXwHvo.txt
+tags: [campaign, worldarchitect, arion-dragon-good]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/X3jXwHvoBVZtVoFY84KC/Arion dragon good_X3jXwHvo.txt
 campaign_id: X3jXwHvoBVZtVoFY84KC
 entry_count: 50
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:40.773954+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

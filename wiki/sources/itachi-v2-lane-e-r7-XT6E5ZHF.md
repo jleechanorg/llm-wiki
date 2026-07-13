@@ -2,11 +2,12 @@
 title: "Itachi V2 (lane_e_r7)"
 type: source
 tags: [campaign, worldarchitect, itachi-v2-lane-e-r7]
-date: 2026-06-24
-source_file: /tmp/campaign_daily_ingest/XT6E5ZHFyd3QdBMMqrZ0/Itachi V2 _lane_e_r7__XT6E5ZHF.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/XT6E5ZHFyd3QdBMMqrZ0/Itachi V2 _lane_e_r7__XT6E5ZHF.txt
 campaign_id: XT6E5ZHFyd3QdBMMqrZ0
 entry_count: 144
-ingest_batch: download-campaign-skill
+last_updated_iso: 2026-07-13T02:33:42.098991+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

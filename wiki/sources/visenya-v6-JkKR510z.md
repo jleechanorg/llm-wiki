@@ -1,12 +1,13 @@
 ---
 title: "Visenya V6"
 type: source
-tags: [campaign, visenya-v6-JkKR510z]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/JkKR510zImWiFiVHMGGV/Visenya V6_JkKR510z.txt
+tags: [campaign, worldarchitect, visenya-v6]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/JkKR510zImWiFiVHMGGV/Visenya V6_JkKR510z.txt
 campaign_id: JkKR510zImWiFiVHMGGV
 entry_count: 307
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:12.526188+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:
@@ -173,8 +174,8 @@ Status: Lvl 6 Apex Weaver | HP: 45/45 | XP: 14,000/23,000 | Gold: 40,000gp
 Conditions: Incognito (Lady Elyse Celtigar), The Static (Leaking) | Exhaustion: 0 | Inspiration: No]
 Resources: HD: 6/6 | Spells: L1 4/4, L2 3/3, L3 3/3 | Sadism Dice: 3/4 (d8) | Ki/Rage: N/A
 Dice Rolls:
-  - {'roll': '1d20 (min 10) + 14', 'dc_reasoning': "Ned's veteran insight and suspicion of the cold air.", 'result': 13, 'success': True, 'dc_category': None, 'margin': None, 'type': 'deception_cover', 'dc': 18, 'outcome': None}
-  - {'roll': '1d8', 'dc_reasoning': None, 'result': 7, 'success': True, 'dc_category': None, 'margin': None, 'type': 'psychic_vivisection', 'dc': None, 'outcome': None}
+  - {'success': True, 'roll': '1d20 (min 10) + 14', 'dc_reasoning': "Ned's veteran insight and suspicion of the cold air.", 'dc_category': None, 'result': 13, 'dc': 18, 'outcome': None, 'margin': None, 'type': 'deception_cover'}
+  - {'success': True, 'roll': '1d8', 'dc_reasoning': None, 'dc_category': None, 'result': 7, 'dc': None, 'outcome': None, 'margin': None, 'type': 'psychic_vivisection'}
 
 Game Master:
 The Great Hall of Winterfell, usually a bastion of boisterous Northern warmth, suddenly feels as though the walls themselves have turned to ice. At your side, the silver-gold braids of your southern hair remain perfectly still, yet the air around your seat ripples with a clinical, subsonic hum. You do not flinch at Robb's insult; you simply tilt your head, tracing a precise, invisible isosceles triangle on the linen tablecloth with a pale finger.

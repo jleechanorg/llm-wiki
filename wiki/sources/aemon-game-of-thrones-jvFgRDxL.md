@@ -1,12 +1,13 @@
 ---
 title: "Aemon Game of Thrones"
 type: source
-tags: [campaign, aemon-game-of-thrones-jvFgRDxL]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/jvFgRDxLwOxVhh6cgfe7/Aemon Game of Thrones_jvFgRDxL.txt
+tags: [campaign, worldarchitect, aemon-game-of-thrones]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/jvFgRDxLwOxVhh6cgfe7/Aemon Game of Thrones_jvFgRDxL.txt
 campaign_id: jvFgRDxLwOxVhh6cgfe7
 entry_count: 422
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:59.194711+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

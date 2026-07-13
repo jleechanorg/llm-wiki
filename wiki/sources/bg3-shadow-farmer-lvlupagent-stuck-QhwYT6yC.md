@@ -2,12 +2,12 @@
 title: "Bg3 shadow farmer (lvlupagent stuck)"
 type: source
 tags: [campaign, worldarchitect, bg3-shadow-farmer-lvlupagent-stuck]
-date: 2026-06-14
-source_file: /tmp/campaign_downloads_2026_06_13/QhwYT6yCfrsBD3RRfwmq/Bg3 shadow farmer _lvlupagent stuck__QhwYT6yC.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/QhwYT6yCfrsBD3RRfwmq/Bg3 shadow farmer _lvlupagent stuck__QhwYT6yC.txt
 campaign_id: QhwYT6yCfrsBD3RRfwmq
 entry_count: 750
-last_updated: 2026-06-13 00:42:19.922634+00:00
-ingest_batch: 2026-06-13-last-2-weeks-50plus-scenes
+last_updated_iso: 2026-07-13T02:33:23.081661+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

@@ -1,12 +1,13 @@
 ---
 title: "Hunting party - Sariel"
 type: source
-tags: [campaign, hunting-party-sariel-BSRwg603]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/BSRwg6034CNKeCUfDYCx/Hunting party - Sariel_BSRwg603.txt
+tags: [campaign, worldarchitect, hunting-party-sariel]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/BSRwg6034CNKeCUfDYCx/Hunting party - Sariel_BSRwg603.txt
 campaign_id: BSRwg6034CNKeCUfDYCx
 entry_count: 282
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:32:57.358893+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

@@ -1,12 +1,13 @@
 ---
 title: "Visenya v2"
 type: source
-tags: [campaign, visenya-v2-mSEMkUw6]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/mSEMkUw6vRh5jPtfS7p4/Visenya v2_mSEMkUw6.txt
+tags: [campaign, worldarchitect, visenya-v2]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/mSEMkUw6vRh5jPtfS7p4/Visenya v2_mSEMkUw6.txt
 campaign_id: mSEMkUw6vRh5jPtfS7p4
 entry_count: 554
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:34:02.817945+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

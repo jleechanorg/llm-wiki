@@ -2,12 +2,12 @@
 title: "Itachi V3.1 copy-test"
 type: source
 tags: [campaign, worldarchitect, itachi-v3-1-copy-test]
-date: 2026-06-14
-source_file: /tmp/campaign_downloads_2026_06_13/cliNZvbs7swglMcRJDey/Itachi V3_1 copy-test_cliNZvbs.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/cliNZvbs7swglMcRJDey/Itachi V3_1 copy-test_cliNZvbs.txt
 campaign_id: cliNZvbs7swglMcRJDey
 entry_count: 1511
-last_updated: 2026-06-05 21:56:04.072563+00:00
-ingest_batch: 2026-06-13-last-2-weeks-50plus-scenes
+last_updated_iso: 2026-07-13T02:33:52.544597+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

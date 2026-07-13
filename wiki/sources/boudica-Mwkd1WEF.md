@@ -1,12 +1,13 @@
 ---
 title: "Boudica "
 type: source
-tags: [campaign, boudica-Mwkd1WEF]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/Mwkd1WEFKuV5YufFwFNw/Boudica _Mwkd1WEF.txt
+tags: [campaign, worldarchitect, boudica]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/Mwkd1WEFKuV5YufFwFNw/Boudica_Mwkd1WEF.txt
 campaign_id: Mwkd1WEFKuV5YufFwFNw
 entry_count: 100
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:16.661724+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

@@ -2,12 +2,12 @@
 title: "Vespera Thul (copy)"
 type: source
 tags: [campaign, worldarchitect, vespera-thul-copy]
-date: 2026-06-14
-source_file: /tmp/campaign_downloads_2026_06_13/WwJuWFv0pGjjYHCQW6Ta/Vespera Thul _copy__WwJuWFv0.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/WwJuWFv0pGjjYHCQW6Ta/Vespera Thul _copy__WwJuWFv0.txt
 campaign_id: WwJuWFv0pGjjYHCQW6Ta
 entry_count: 716
-last_updated: 2026-06-08 16:54:43.179411+00:00
-ingest_batch: 2026-06-13-last-2-weeks-50plus-scenes
+last_updated_iso: 2026-07-13T02:33:40.016378+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

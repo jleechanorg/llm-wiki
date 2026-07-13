@@ -1,12 +1,13 @@
 ---
 title: "Saita v3"
 type: source
-tags: [campaign, saita-v3-7KeJUkLi]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/7KeJUkLioKDFBJiAgCks/Saita v3_7KeJUkLi.txt
+tags: [campaign, worldarchitect, saita-v3]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/7KeJUkLioKDFBJiAgCks/Saita v3_7KeJUkLi.txt
 campaign_id: 7KeJUkLioKDFBJiAgCks
 entry_count: 147
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:32:46.483248+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

@@ -2,11 +2,12 @@
 title: "Homelander"
 type: source
 tags: [campaign, worldarchitect, homelander]
-date: 2026-06-24
-source_file: /tmp/campaign_daily_ingest/8YyNCrwi67Fszr7RGImN/Homelander_8YyNCrwi.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/8YyNCrwi67Fszr7RGImN/Homelander_8YyNCrwi.txt
 campaign_id: 8YyNCrwi67Fszr7RGImN
 entry_count: 98
-ingest_batch: download-campaign-skill
+last_updated_iso: 2026-07-13T02:32:49.303666+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

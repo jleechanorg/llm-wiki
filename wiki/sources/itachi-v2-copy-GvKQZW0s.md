@@ -2,11 +2,12 @@
 title: "Itachi V2 (copy)"
 type: source
 tags: [campaign, worldarchitect, itachi-v2-copy]
-date: 2026-06-24
-source_file: /tmp/campaign_daily_ingest/GvKQZW0s1E7GEXUCmf9v/Itachi V2 _copy__GvKQZW0s.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/GvKQZW0s1E7GEXUCmf9v/Itachi V2 _copy__GvKQZW0s.txt
 campaign_id: GvKQZW0s1E7GEXUCmf9v
 entry_count: 282
-ingest_batch: download-campaign-skill
+last_updated_iso: 2026-07-13T02:33:07.588041+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

@@ -2,11 +2,12 @@
 title: "Homelander (copy)"
 type: source
 tags: [campaign, worldarchitect, homelander-copy]
-date: 2026-06-24
-source_file: /tmp/campaign_daily_ingest/QGpjUTGMz9ykdqosa4MW/Homelander _copy__QGpjUTGM.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/QGpjUTGMz9ykdqosa4MW/Homelander _copy__QGpjUTGM.txt
 campaign_id: QGpjUTGMz9ykdqosa4MW
 entry_count: 94
-ingest_batch: download-campaign-skill
+last_updated_iso: 2026-07-13T02:33:21.130962+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

@@ -1,12 +1,13 @@
 ---
 title: "Feels"
 type: source
-tags: [campaign, feels-VcG75lb9]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/VcG75lb9TMXNvplOONXa/Feels_VcG75lb9.txt
+tags: [campaign, worldarchitect, feels]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/VcG75lb9TMXNvplOONXa/Feels_VcG75lb9.txt
 campaign_id: VcG75lb9TMXNvplOONXa
 entry_count: 80
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:34.331263+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

@@ -1,12 +1,13 @@
 ---
 title: "Luke detailed"
 type: source
-tags: [campaign, luke-detailed-UN0jNTJf]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/UN0jNTJfKc6O3yG1itV4/Luke detailed_UN0jNTJf.txt
+tags: [campaign, worldarchitect, luke-detailed]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/UN0jNTJfKc6O3yG1itV4/Luke detailed_UN0jNTJf.txt
 campaign_id: UN0jNTJfKc6O3yG1itV4
 entry_count: 76
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:30.468698+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

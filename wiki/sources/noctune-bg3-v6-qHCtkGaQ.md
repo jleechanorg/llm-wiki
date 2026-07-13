@@ -1,12 +1,13 @@
 ---
 title: "noctune bg3 v6"
 type: source
-tags: [campaign, noctune-bg3-v6-qHCtkGaQ]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/qHCtkGaQdhoAeelmAP0f/noctune bg3 v6_qHCtkGaQ.txt
+tags: [campaign, worldarchitect, noctune-bg3-v6]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/qHCtkGaQdhoAeelmAP0f/noctune bg3 v6_qHCtkGaQ.txt
 campaign_id: qHCtkGaQdhoAeelmAP0f
 entry_count: 772
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:34:11.842224+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

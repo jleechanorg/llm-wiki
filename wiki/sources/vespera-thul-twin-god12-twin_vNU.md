@@ -2,12 +2,12 @@
 title: "Vespera Thul [twin_god12]"
 type: source
 tags: [campaign, worldarchitect, vespera-thul-twin-god12]
-date: 2026-06-14
-source_file: /tmp/campaign_downloads_2026_06_13/twin_vNU3AAXHd9N7adqWSM2p_5f4b30fd44/Vespera Thul _twin_god12__twin_vNU.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/twin_vNU3AAXHd9N7adqWSM2p_5f4b30fd44/Vespera Thul _twin_god12__twin_vNU.txt
 campaign_id: twin_vNU3AAXHd9N7adqWSM2p_5f4b30fd44
 entry_count: 410
-last_updated: 2026-06-06 19:46:05.171530+00:00
-ingest_batch: 2026-06-13-last-2-weeks-50plus-scenes
+last_updated_iso: 2026-07-13T02:41:36.404682+00:00
+ingest_batch: batch-2026-07-12-50plus-repair
 ---
 
 God Mode:

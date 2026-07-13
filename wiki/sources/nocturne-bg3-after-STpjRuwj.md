@@ -1,12 +1,13 @@
 ---
 title: "Nocturne bg3 after "
 type: source
-tags: [campaign, nocturne-bg3-after-STpjRuwj]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/STpjRuwjeUt97tpCl5nK/Nocturne bg3 after _STpjRuwj.txt
+tags: [campaign, worldarchitect, nocturne-bg3-after]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/STpjRuwjeUt97tpCl5nK/Nocturne bg3 after_STpjRuwj.txt
 campaign_id: STpjRuwjeUt97tpCl5nK
 entry_count: 2054
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:33:27.467792+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

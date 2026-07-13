@@ -2,11 +2,12 @@
 title: "Dragon Knight"
 type: source
 tags: [campaign, worldarchitect, dragon-knight]
-date: 2026-06-24
-source_file: /tmp/campaign_daily_ingest/QH1ecve6FqCXch7VQuH8/Dragon Knight_QH1ecve6.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/QH1ecve6FqCXch7VQuH8/Dragon Knight_QH1ecve6.txt
 campaign_id: QH1ecve6FqCXch7VQuH8
 entry_count: 60
-ingest_batch: download-campaign-skill
+last_updated_iso: 2026-07-13T02:33:21.560321+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

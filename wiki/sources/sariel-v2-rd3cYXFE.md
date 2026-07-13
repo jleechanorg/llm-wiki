@@ -1,12 +1,13 @@
 ---
 title: "Sariel V2"
 type: source
-tags: [campaign, sariel-v2-rd3cYXFE]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/rd3cYXFE1YoltR36e8jr/Sariel V2_rd3cYXFE.txt
+tags: [campaign, worldarchitect, sariel-v2]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/rd3cYXFE1YoltR36e8jr/Sariel V2_rd3cYXFE.txt
 campaign_id: rd3cYXFE1YoltR36e8jr
 entry_count: 518
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:34:12.643905+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

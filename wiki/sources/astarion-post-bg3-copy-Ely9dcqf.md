@@ -2,12 +2,12 @@
 title: "astarion post bg3 (copy)"
 type: source
 tags: [campaign, worldarchitect, astarion-post-bg3-copy]
-date: 2026-06-14
-source_file: /tmp/campaign_downloads_2026_06_13/Ely9dcqfOHommXaoi1WW/astarion post bg3 _copy__Ely9dcqf.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/Ely9dcqfOHommXaoi1WW/astarion post bg3 _copy__Ely9dcqf.txt
 campaign_id: Ely9dcqfOHommXaoi1WW
 entry_count: 190
-last_updated: 2026-06-11 01:18:29.490825+00:00
-ingest_batch: 2026-06-13-last-2-weeks-50plus-scenes
+last_updated_iso: 2026-07-13T02:33:03.496074+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

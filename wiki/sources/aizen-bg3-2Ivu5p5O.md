@@ -1,12 +1,13 @@
 ---
 title: "Aizen bg3"
 type: source
-tags: [campaign, aizen-bg3-2Ivu5p5O]
-date: 2026-05-22
-source_file: /tmp/campaign_downloads/2Ivu5p5OcXkkgyoytzGy/Aizen bg3_2Ivu5p5O.txt
+tags: [campaign, worldarchitect, aizen-bg3]
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/2Ivu5p5OcXkkgyoytzGy/Aizen bg3_2Ivu5p5O.txt
 campaign_id: 2Ivu5p5OcXkkgyoytzGy
 entry_count: 1194
-last_updated: 2026-05-22
+last_updated_iso: 2026-07-13T02:32:35.073544+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

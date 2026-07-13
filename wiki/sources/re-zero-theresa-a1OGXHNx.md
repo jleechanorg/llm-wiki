@@ -2,11 +2,12 @@
 title: "Re:zero Theresa "
 type: source
 tags: [campaign, worldarchitect, re-zero-theresa]
-date: 2026-06-24
-source_file: /tmp/campaign_daily_ingest/a1OGXHNxNdw1Id0iRfpR/Re_zero Theresa _a1OGXHNx.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/a1OGXHNxNdw1Id0iRfpR/Re_zero Theresa_a1OGXHNx.txt
 campaign_id: a1OGXHNxNdw1Id0iRfpR
-entry_count: 234
-ingest_batch: download-campaign-skill
+entry_count: 236
+last_updated_iso: 2026-07-13T02:33:47.476181+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:

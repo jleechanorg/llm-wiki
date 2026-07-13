@@ -2,12 +2,12 @@
 title: "Re: zero (lvl up not showing)"
 type: source
 tags: [campaign, worldarchitect, re-zero-lvl-up-not-showing]
-date: 2026-06-14
-source_file: /tmp/campaign_downloads_2026_06_13/2NldINv7kbIseLP7m8vV/Re_ zero _lvl up not showing__2NldINv7.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/2NldINv7kbIseLP7m8vV/Re_ zero _lvl up not showing__2NldINv7.txt
 campaign_id: 2NldINv7kbIseLP7m8vV
 entry_count: 78
-last_updated: 2026-06-13 00:28:47.329232+00:00
-ingest_batch: 2026-06-13-last-2-weeks-50plus-scenes
+last_updated_iso: 2026-07-13T02:41:38.161817+00:00
+ingest_batch: batch-2026-07-12-50plus-repair
 ---
 
 God Mode:

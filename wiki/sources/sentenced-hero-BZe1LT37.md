@@ -2,12 +2,12 @@
 title: "Sentenced Hero"
 type: source
 tags: [campaign, worldarchitect, sentenced-hero]
-date: 2026-06-14
-source_file: /tmp/campaign_downloads_2026_06_13/BZe1LT37gAKnCZmO2yeq/Sentenced Hero_BZe1LT37.txt
+date: 2026-07-13
+source_file: /Users/jleechan/llm_wiki/raw/campaigns/BZe1LT37gAKnCZmO2yeq/Sentenced Hero_BZe1LT37.txt
 campaign_id: BZe1LT37gAKnCZmO2yeq
 entry_count: 80
-last_updated: 2026-06-10 01:09:35.519918+00:00
-ingest_batch: 2026-06-13-last-2-weeks-50plus-scenes
+last_updated_iso: 2026-07-13T02:32:57.910969+00:00
+ingest_batch: batch-2026-07-12-50plus
 ---
 
 God Mode:
