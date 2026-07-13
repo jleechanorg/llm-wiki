@@ -1,0 +1,1652 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "health": {
+      "hp_max": 45,
+      "hp": 45
+    },
+    "proficiency_bonus": 3,
+    "class_name": "Triple-Gestalt Sovereign Greenseer (Wizard/Cleric/Sorcerer)",
+    "background": "Noble (Lord of Winterfell)",
+    "display_name": "Bran Stark",
+    "attributes": {
+      "strength": 6,
+      "dexterity": 4,
+      "intelligence": 18,
+      "wisdom": 20,
+      "charisma": 14,
+      "constitution": 12
+    },
+    "hit_dice_current": 8,
+    "hit_dice_max": 8,
+    "race": "Human (Northman)",
+    "spells_known": [
+      {
+        "level": 1,
+        "name": "Shield"
+      },
+      {
+        "level": 1,
+        "name": "Detect Magic"
+      },
+      {
+        "level": 1,
+        "name": "Sleep"
+      },
+      {
+        "level": 1,
+        "name": "Comprehend Languages"
+      },
+      {
+        "level": 1,
+        "name": "Identify"
+      },
+      {
+        "level": 1,
+        "name": "Tasha's Hideous Laughter"
+      },
+      {
+        "level": 2,
+        "name": "Augury"
+      },
+      {
+        "level": 2,
+        "name": "Hold Person"
+      },
+      {
+        "level": 2,
+        "name": "Mirror Image"
+      },
+      {
+        "level": 2,
+        "name": "Lesser Restoration"
+      },
+      {
+        "level": 3,
+        "name": "Fireball (Ice)"
+      },
+      {
+        "level": 3,
+        "name": "Revivify"
+      },
+      {
+        "level": 3,
+        "name": "Counterspell"
+      },
+      {
+        "level": 3,
+        "name": "Spirit Guardians"
+      },
+      {
+        "level": 4,
+        "name": "Arcane Eye"
+      },
+      {
+        "level": 4,
+        "name": "Dimension Door"
+      },
+      {
+        "level": 4,
+        "name": "Greater Invisibility"
+      }
+    ],
+    "name": "Bran",
+    "experience": {
+      "needed_for_next_level": 48000,
+      "current": 44620,
+      "to_next_level": 3380
+    },
+    "resources": {
+      "hit_dice": {
+        "current": 8,
+        "used": 0,
+        "max": 8,
+        "total": 8
+      },
+      "gold": 25,
+      "spell_slots": {
+        "level_2": {
+          "current": 3,
+          "max": 3
+        },
+        "level_4": {
+          "current": 2,
+          "max": 2
+        },
+        "level_1": {
+          "current": 4,
+          "max": 4
+        },
+        "level_3": {
+          "current": 3,
+          "max": 3
+        }
+      },
+      "last_long_rest_world_time": {
+        "hour": 13,
+        "day": 15,
+        "year": 300,
+        "month": 1,
+        "minute": 30
+      },
+      "class_features": {
+        "portent": {
+          "current": 3,
+          "max": 3,
+          "rolls": [
+            11,
+            7,
+            5
+          ]
+        },
+        "sorcery_points": {
+          "current": 8,
+          "max": 8
+        },
+        "channel_divinity": {
+          "used": 0,
+          "max": 1
+        }
+      }
+    },
+    "base_attributes": {
+      "strength": 6,
+      "dexterity": 4,
+      "intelligence": 18,
+      "wisdom": 20,
+      "charisma": 14,
+      "constitution": 12
+    },
+    "spells_prepared": [
+      {
+        "level": 1,
+        "name": "Shield"
+      },
+      {
+        "level": 1,
+        "name": "Healing Word"
+      },
+      {
+        "level": 1,
+        "name": "Guiding Bolt"
+      },
+      {
+        "level": 1,
+        "name": "Bless"
+      },
+      {
+        "name": "Cure Wounds"
+      },
+      {
+        "name": "Absorb Elements"
+      },
+      {
+        "level": 2,
+        "name": "Augury"
+      },
+      {
+        "level": 2,
+        "name": "Hold Person"
+      },
+      {
+        "level": 2,
+        "name": "Spiritual Weapon"
+      },
+      {
+        "name": "Lesser Restoration"
+      },
+      {
+        "name": "Mirror Image"
+      },
+      {
+        "level": 3,
+        "name": "Fireball (Ice)"
+      },
+      {
+        "level": 3,
+        "name": "Counterspell"
+      },
+      {
+        "level": 3,
+        "name": "Revivify"
+      },
+      {
+        "level": 3,
+        "name": "Spirit Guardians"
+      },
+      {
+        "name": "Dispel Magic"
+      },
+      {
+        "name": "Slow"
+      },
+      {
+        "name": "Hypnotic Pattern"
+      },
+      {
+        "level": 4,
+        "name": "Banishment"
+      },
+      {
+        "name": "Arcane Eye"
+      },
+      {
+        "name": "Polymorph"
+      },
+      {
+        "name": "Dimension Door"
+      },
+      {
+        "name": "Greater Invisibility"
+      },
+      {
+        "name": "Death Ward"
+      }
+    ],
+    "hp_max": 45,
+    "features": [
+      "Gestalt Casting (Wizard/Cleric/Sorcerer): Wisdom-based.",
+      "Permanent Foresight (Spell Effect): Advantage on all, enemies disadvantage.",
+      "Portent (Wisdom-Based): 3 dice.",
+      "Crippled (Wheelchair-Bound).",
+      "Warg: Summer or nearby animals.",
+      "Sovereign Progression (1-30).",
+      "Arcane Recovery.",
+      "Divination Savant.",
+      "Channel Divinity (Knowledge/Turn Undead).",
+      "Knowledge of the Ages.",
+      "Read Thoughts (Knowledge Domain Lvl 6).",
+      "Expert Divination (Wizard Lvl 6).",
+      "Metamagic (Sorcerer Lvl 3): Quickened, Twinned.",
+      "Undead Warging.",
+      "Winter's Heart: Cold immunity.",
+      "Primordial Sovereign."
+    ],
+    "level": 8,
+    "skills": [
+      "history",
+      "insight",
+      "perception",
+      "persuasion",
+      "religion"
+    ],
+    "hp_current": 45,
+    "cantrips": [
+      {
+        "level": 0,
+        "name": "Guidance"
+      },
+      {
+        "level": 0,
+        "name": "Mind Sliver"
+      },
+      {
+        "level": 0,
+        "name": "Mending"
+      },
+      {
+        "level": 0,
+        "name": "Sacred Flame"
+      },
+      {
+        "level": 0,
+        "name": "Minor Illusion"
+      }
+    ],
+    "active_effects": [
+      "Foresight (Permanent): Cannot be surprised, advantage on attacks/saves/checks, enemies have disadvantage to hit.",
+      "Masked Divinity (DC 24 to perceive): Bran appears as a normal, brown-eyed mortal.",
+      "Guidance (Permanent): +1d4 to all ability checks."
+    ],
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        },
+        {
+          "equipped": true,
+          "name": "Maester Wolkan's Wheelchair"
+        },
+        {
+          "name": "Stark Signet Ring"
+        },
+        {
+          "name": "Noble's Furs"
+        },
+        {
+          "name": "Heirloom Book of Northern History"
+        },
+        {
+          "equipped": true,
+          "stats": "Advanced mobility, +3 AC bonus while seated",
+          "name": "Advanced Valyrian Steel Wheelchair"
+        }
+      ],
+      "armor": {
+        "equipped": true,
+        "stats": "+3 Armor, Base AC 18",
+        "name": "Valyrian Steel Plate of the Raven"
+      },
+      "off_hand": {
+        "damage": "1d8 piercing",
+        "equipped": true,
+        "stats": "+3 AC",
+        "type": "weapon",
+        "name": "Valyrian Steel Shield of the Weirwood"
+      },
+      "main_hand": {
+        "damage": "1d4+1 piercing",
+        "equipped": true,
+        "stats": "+3 to attack and damage",
+        "type": "weapon",
+        "name": "Valyrian Steel Dagger (Catspaw) +3"
+      },
+      "ranged": {
+        "damage": "1d8 piercing",
+        "equipped": true,
+        "type": "weapon",
+        "name": "Maester-built Crossbow"
+      },
+      "neck": {
+        "equipped": true,
+        "stats": "+3 to Spell Save DC, +3 to Spell Attack Bonus",
+        "name": "Heart of Winter Amulet"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 0,
+      "hour": 18,
+      "time_of_day": "evening",
+      "year": 301,
+      "day": 22,
+      "month": 3
+    },
+    "current_location_name": "King's Landing - The Red Keep"
+  },
+  "npc_data": {
+    "The Night King": {
+      "name": "The Night King"
+    },
+    "Varys": {
+      "dissonance": 94,
+      "status": "ONTOLOGICAL_SHOCK",
+      "entity_id": "npc_varys_001",
+      "display_name": "Varys",
+      "tier": "lord",
+      "level": 10,
+      "role": "Master of Whisperers",
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "trust_level": -2,
+          "history": [
+            "Secretly pledged his service to the Sovereign, viewing the 'Sovereign's Peace' as the ultimate stability."
+          ]
+        }
+      }
+    },
+    "Ned Umber": {
+      "role": "Lord of Last Hearth",
+      "tier": "noble",
+      "entity_id": "npc_ned_umber_001",
+      "entity_type": "npc",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 6,
+          "history": [
+            "Responded to the Raven's summons",
+            "Moving smallfolk to Winterfell"
+          ]
+        }
+      },
+      "display_name": "Ned Umber",
+      "level": 2
+    },
+    "Tysha (Sara)": {
+      "tier": "commoner",
+      "entity_id": "npc_tysha_001",
+      "status": "conscious",
+      "entity_type": "npc",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "Located by the Sovereign after decades of hiding."
+          ]
+        }
+      },
+      "display_name": "Tysha (Sara)",
+      "role": "Fisher-woman / Lost Love"
+    },
+    "Arya Stark": {
+      "entity_id": "npc_arya_001",
+      "status": "conscious",
+      "entity_type": "npc",
+      "display_name": "Arya Stark",
+      "tier": "knight",
+      "level": 8,
+      "current_location": "Wolfswood / Winter-town",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "dissonance": 0,
+          "trust_level": 10,
+          "history": [
+            "Successfully purged the regional Immune Order cell in the Wolfswood."
+          ]
+        }
+      },
+      "role": "Sovereign's Shadow / Assassin",
+      "equipment": "Needle (+3 Valyrian Steel), +3 Valyrian Steel light armor."
+    },
+    "Tyrion Lannister": {
+      "dissonance": 92,
+      "status": "EXILED",
+      "entity_id": "npc_tyrion_001",
+      "display_name": "Tyrion Lannister",
+      "tier": "lord",
+      "level": 10,
+      "role": "Shadow Advisor (In Custody)",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 5,
+          "history": [
+            "Served as a diligent, somber advisor during the tech-transfer, admitting to the Sovereign's superior wisdom."
+          ]
+        }
+      }
+    },
+    "Torrhen Karstark": {
+      "role": "Karstark Envoy / Loyal Vassal",
+      "tier": "noble",
+      "entity_id": "npc_torrhen_001",
+      "entity_type": "npc",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 7,
+          "history": [
+            "Yielded to Bran Stark's authority",
+            "Witnessed a vision of the Night King"
+          ]
+        }
+      },
+      "display_name": "Torrhen Karstark",
+      "level": 3
+    },
+    "Meera Reed": {
+      "dissonance": 35,
+      "current_location": "Winterfell",
+      "entity_type": "npc",
+      "display_name": "Meera Reed",
+      "tier": "knight",
+      "level": 3,
+      "entity_id": "npc_meera_001",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Carried you beyond the Wall"
+          ]
+        }
+      },
+      "role": "Protector"
+    },
+    "Tormund Giantsbane": {
+      "role": "Leader of the Free Folk",
+      "display_name": "Tormund Giantsbane",
+      "entity_id": "npc_tormund_001",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 8,
+          "history": [
+            "Fought the Night King alongside Bran",
+            "Acknowledges Bran as a 'True Northern God'"
+          ]
+        }
+      },
+      "tier": "lord_general",
+      "level": 8
+    },
+    "Daenerys Targaryen": {
+      "attitude_to_party": "devoted",
+      "dissonance": 100,
+      "status": "conscious",
+      "entity_type": "npc",
+      "display_name": "Daenerys Targaryen",
+      "tier": "king_ancient",
+      "level": 14,
+      "entity_id": "npc_daenerys_001",
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Consolidated a deep, familial bond with the Sovereign during the two-week tech-transfer period."
+          ]
+        }
+      },
+      "role": "Queen of the Seven Kingdoms"
+    },
+    "Robett Glover": {
+      "dissonance": 63
+    },
+    "Jon Snow": {
+      "attitude_to_party": "devoted",
+      "alignment": "Lawful Good",
+      "dissonance": 55,
+      "status": "conscious",
+      "entity_type": "npc",
+      "tier": "lord_general",
+      "display_name": "Jon Snow",
+      "level": 13,
+      "current_location": "Winterfell - Courtyard",
+      "knowledge": [
+        "True parentage: Rhaegar Targaryen and Lyanna Stark",
+        "Sovereign North political proposal"
+      ],
+      "entity_id": "npc_jon_001",
+      "role": "Stark Commander / Secret Heir",
+      "gender": "male",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Revealed identity as Aegon Targaryen to Daenerys",
+            "Renounced his claim to the throne",
+            "Proposed marriage to Daenerys"
+          ]
+        }
+      }
+    },
+    "Samwell Tarly": {
+      "role": "Maester-in-training / Secret Keeper",
+      "entity_id": "npc_samwell_001",
+      "status": "traveling",
+      "entity_type": "npc",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 9,
+          "history": [
+            "Traveled with Bran",
+            "Knows the secret of the marriage"
+          ]
+        }
+      },
+      "display_name": "Samwell Tarly",
+      "level": 3
+    },
+    "Maester Wolkan": {
+      "role": "Maester of Winterfell",
+      "tier": "merchant",
+      "entity_id": "npc_wolkan_001",
+      "entity_type": "npc",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 5
+        }
+      },
+      "display_name": "Maester Wolkan",
+      "level": 2
+    },
+    "Jaime Lannister": {
+      "dissonance": 89,
+      "status": "DEVOTED",
+      "entity_type": "npc",
+      "display_name": "Jaime Lannister",
+      "tier": "knight",
+      "level": 10,
+      "entity_id": "npc_jaime_001",
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Received explicit forgiveness from the Sovereign for the fall at Winterfell; feels a life-debt beyond measure."
+          ]
+        }
+      },
+      "role": "Defector / Commander"
+    },
+    "Cersei Lannister": {
+      "status": "captured",
+      "current_location": "Allied Camp - Iron Cage"
+    },
+    "Sansa Stark": {
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Successfully managing the Northern Republic's internal growth as Co-Consul."
+          ]
+        }
+      },
+      "alignment": "Lawful Neutral",
+      "dissonance": 61,
+      "current_location": "Winterfell - The Great Hall of the Senate",
+      "entity_type": "npc",
+      "tier": "noble",
+      "display_name": "Sansa Stark",
+      "level": 12,
+      "status": "conscious",
+      "entity_id": "npc_sansa_001",
+      "age": 20,
+      "role": "Co-Consul of the Northern Republic",
+      "gender": "female",
+      "equipment": "Full +3 Valyrian Steel ceremonial plate and dagger."
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "sanctuary_mode": {
+      "original_scale": "medium",
+      "expired": true,
+      "scale": "epic",
+      "expires_turn": 67,
+      "active": true,
+      "activated_turn": 37,
+      "arc": "The Defeat of the Long Night",
+      "expired_turn": 15
+    },
+    "active_missions": [],
+    "character_creation_completed": true,
+    "reputation": {
+      "public": {
+        "score": 65,
+        "notoriety_level": "renowned",
+        "known_deeds": [
+          "Provided fresh water to Flea Bottom via aqueducts",
+          "Gifted industrial technology to the city guilds"
+        ]
+      }
+    },
+    "_agent_selection_tracker": {
+      "count": 1,
+      "agent": "GodModeAgent",
+      "rewards_skip_count": 0
+    },
+    "player_character_data_extras": {
+      "intelligence": 18
+    },
+    "last_location": "King's Landing - The Red Keep",
+    "core_memories": [
+      "Bran Stark has officially accepted the Lordship of Winterfell after Sansa Stark offered him the seat, establishing a new era for the North with the Three-Eyed Raven as its sovereign.",
+      "Sansa Stark advised Bran that Lord Manderly's loyalty is tied to trade, while Lord Glover is prideful and feels abandoned, requiring a demonstration of the Stark-Raven authority to secure his fealty.",
+      "Bran Stark publicly demonstrated his Greensight to the Northern Lords, revealing secret shames and fears of Lord Glover and Lord Manderly to establish his authority as the Three-Eyed Raven Lord.",
+      "Bran Stark gifted the Northern Lords specific, useful intelligence from his visions, breaking Lord Glover's resistance and proposing a unified North based on his Greensight.",
+      "Bran Stark formalized the oaths of the Northern lords and successfully used his warging abilities to find a critical leak in Winterfell's hot springs and a forgotten granary in the crypts.",
+      "Bran's attempt to reach out to House Karstark and House Umber met with cold silence and the interception of one of his ravens, indicating active interference in Northern unity.",
+      "Bran Stark successfully performed a parallel synergistic action, auditing Winterfell's stores and identifying the Karstark scout Torrhen as the individual intercepting Northern communications.",
+      "Bran Stark revealed Jon Snow's true lineage as Aegon Targaryen to Sansa Stark in a private council, and learned that Jon is currently at Dragonstone meeting Daenerys Targaryen.",
+      "Bran Stark used his Sovereign powers to psychically dump high-level military intelligence (Euron's fleet, wildfire, Golden Company) to Jon Snow at Dragonstone and summoned Samwell Tarly from the Citadel to provide physical proof of Jon's lineage.",
+      "Bran proposed a partnership where Sansa acts as Regent of Winterfell for martial and worldly affairs, while Bran provides mystical guidance, with the understanding that her authority defers to his foresight when necessary.",
+      "Bran Stark and Regent Sansa Stark met with a Karstark envoy; Bran's use of Greensight to reveal a hidden letter caused the envoy, Torrhen, to react with superstitious fear, calling Bran a 'monster'.",
+      "Bran Stark successfully used Northern history and the concept of a 'magical ally' to de-escalate Torrhen Karstark's fear, shifting the envoy from resistance toward a wavering curiosity.",
+      "Bran Stark and Regent Sansa Stark successfully used a combination of material provision and mystical foresight to secure the fealty of Torrhen Karstark, effectively ending the House's initial resistance.",
+      "Bran Stark formalized Torrhen Karstark's fealty and shared a devastating vision of the Night King, securing House Karstark's absolute loyalty through existential dread and Northern unity.",
+      "Correction: Jon Snow is not the King in the North in this timeline; he is a loyal commander who defers to Bran's lordship and cannot make major diplomatic commitments without the approval of Bran or Regent Sansa.",
+      "During a two-week time skip, Bran Stark successfully unified House Umber and identified the Night King's vanguard at the Fist of the First Men, culminating in Jon Snow's return to Winterfell as a loyal commander.",
+      "Bran Stark formally established Sansa as Regent and Jon as Military Commander, then used his Sovereign powers to psychically force a vision of the Night King into Daenerys Targaryen's mind as proof of the threat.",
+      "Bran Stark fully integrated his Level 2 Sovereign powers, establishing a functional Diarchy with Regent Sansa and Commander Jon to prepare for the arrival of the Dragon Queen.",
+      "Jon Snow reported that Daenerys Targaryen was psychically shattered by Bran's vision and has agreed to bring her dragons and armies to Winterfell, though Jon harbors a deep, unvoiced conflict regarding her Targaryen nature.",
+      "Bran revealed Jon's true identity as Aegon Targaryen and proposed a political plan where Jon marries Daenerys and renounces his claim in exchange for Northern sovereignty.",
+      "Bran proposed a compromise where Jon renounces his claim and marries Daenerys to secure Northern sovereignty; Jon is deeply conflicted and has not yet yielded to the plan.",
+      "Bran used humor and the logic of public renunciation to further persuade Jon Snow to accept the marriage to Daenerys as a means of securing Northern sovereignty.",
+      "Bran showed Jon a vision of a future where he is forced to kill a 'Mad' Daenerys to illustrate the consequences of inaction; Jon was overwhelmed and retreated to be alone, leaving the sovereignty pact unconfirmed.",
+      "Narrative Shift: Both Jon and Sansa, while loyal as Starks, have begun to fear Bran's absolute power, realizing he has become more like a god than their brother.",
+      "Bran scried on Jon and Sansa in the Godswood, confirming their absolute Stark loyalty but also revealing their profound fear of his god-like powers and the violation of their privacy.",
+      "Bran attempted to comfort Jon and Sansa by explaining the burden of his powers and promising privacy, but while they accepted his logic, their fear of his divine nature remains a profound barrier.",
+      "Bran Stark used a mixture of political logic and familial apology to further secure Jon Snow's commitment to the Sovereignty Pact, while Sansa Stark officially backed the plan as Regent.",
+      "Bran sent secret ravens to world leaders (Cersei, Jaime, etc.) using Greensight secrets as proof of his power to demand aid against the Night King; he then formally received Daenerys's messengers, establishing a unified but non-submissive Northern front.",
+      "Daenerys Targaryen arrived at Winterfell with her dragons and armies; Bran received her respectfully as 'Queen', establishing a fragile but respectful diplomatic opening while keeping the Sovereign North plan in reserve.",
+      "Bran Stark impressed Queen Daenerys upon her arrival at Winterfell by providing accurate, respectful intelligence about the Golden Company's arrival in King's Landing, establishing his authority as a powerful ally.",
+      "Daenerys Targaryen was secretly flattered and deeply impressed by Bran's decision to proactively call her 'Queen' and welcome her with tactical intelligence from a position of Northern strength.",
+      "Bran Stark successfully established Guest Right with Daenerys Targaryen and shared a warging vision of the Night King's army, though the Queen remains politically resistant to Northern sovereignty.",
+      "Bran Stark neutralized Daenerys's council by revealing the deepest secrets of Tyrion (Tysha) and Varys (the Myr sorcerer), securing a political surrender and the acceptance of the Sovereign North pact.",
+      "Bran Stark proposed amended terms to Daenerys: fealty in exchange for Northern sovereignty, defensive cooperation, and the aid of his foresight, triggering an 'ontological shock' in the Targaryen council as they realized the magnitude of his power.",
+      "Bran Stark successfully anchored his divine power in the honor of House Stark, persuading Daenerys to accept a strategic partnership that respects Northern sovereignty.",
+      "Bran revealed the Night King's true origin as an ancient Stark warg and successfully persuaded Daenerys to accept an advanced strike/assassination plan using dragonglass arrows, while secretly preparing to absorb the Night King's power.",
+      "Bran Stark established the Night King's identity as an ancient Stark warg and successfully industrialized the North's defense with millions of dragonglass arrows, while persuading Daenerys to accept an assassination strike.",
+      "Bran Stark successfully performed a ritual to prepare his mind as a psychic vessel for the Night King's power and secured Queen Daenerys's approval for the 'Rain of Glass' assassination plan.",
+      "Bran Stark reached Level 3, fully integrating his Sovereign Greenseer powers and 2nd-level mysteries in preparation for the ambush on the Night King.",
+      "Bran Stark successfully prepared a swarm of thousands of ravens armed with dragonglass and lured the Night King and his personal guard into a precision-strike 'Rain of Glass' kill zone north of Winterfell.",
+      "The Night King has been destroyed by a precision dragonglass strike from Jon Snow, coordinated by Bran Stark's telepathy. Bran secretly absorbed the Night King's ancient Stark-warg essence, effectively ending the Long Night and becoming the sole master of the North's magical lineage.",
+      "Bran Stark absorbed the Night King's power, evolving into a Triple-Gestalt Sovereign (Wizard/Cleric/Sorcerer) with the ability to command the dead and manifest primordial ice sorcery.",
+      "Bran Stark has ascended to Level 6 as a Triple-Gestalt Sovereign, claiming the powers of the Night King and finalizing his status as the most powerful entity in the North.",
+      "The alliance leaders witnessed Bran's effortless destruction of the Night King and his subsequent power absorption, triggering a massive surge in Ontological Dissonance; Daenerys now seeks to bind Bran's god-like power through the only thing left: his Stark honor.",
+      "Bran Stark performed a highly symbolic act of physical submission by bending the knee to Daenerys Targaryen with the help of Jon and Sansa, grounding his god-like power in Stark honor and significantly lowering the Ontological Dissonance of the alliance leaders.",
+      "Daenerys Targaryen secretly feels deeply honored that Bran Stark, a being she perceives as a god, has chosen her as his Queen and handed her the Seven Kingdoms, lowering her Ontological Dissonance to 68%.",
+      "Bran Stark successfully rebranded his Greensight as a worldly 'spy network' during a victory feast at Winterfell, successfully integrating Jaime Lannister into the alliance while managing the growing 'Raven Lord' legend.",
+      "Bran Stark successfully persuaded Jaime Lannister to bend the knee to Daenerys Targaryen by revealing the secret truth of his 'Kingslaying' as an act of heroism, anchoring the defector in the alliance while keeping Ontological Dissonance low through 'Safe Foresight' framing.",
+      "Bran Stark successfully rebranded Jaime Lannister as the 'Shield of the Realm' and bound the wights to Northern labor, but Tyrion Lannister has reached 100% Ontological Dissonance and now perceives Bran as a cosmic abomination.",
+      "Bran Stark provided an absolute, flawless map of Cersei's wildfire grid in King's Landing, which his commanders successfully processed; however, Bran has psychically identified that Tyrion Lannister has entered Ontological Shock and is now planning a 'Crusade' to kill him.",
+      "Bran Stark provided an absolute map of the wildfire grid and casually demonstrated his command over the dead by binding wights to Northern labor; this act pushed Tyrion, Daenerys, Varys, and Jaime into 100% Ontological Dissonance, triggering a state of fundamental existential shock.",
+      "Bran Stark successfully stabilized the alliance council by humanizing his god-like power, declaring himself a physically helpless martyr who accepts the risk of his own death to preserve life, which lowered the council's Ontological Dissonance to just below the shock threshold.",
+      "Jon and Sansa have formed an absolute 'Stark Shield' around Bran, declaring their unconditional protection of their brother and successfully grounding his divinity in Northern familial loyalty.",
+      "The alliance council has outwardly accepted Bran's 'Safe Foresight' and 'Helpless God' framing, but everyone privately realizes he is the new Night King, binding them in a state of stable but profound existential dread.",
+      "Two rival religions have emerged: The Church of the White Eye, which worships Bran as a god, and The Order of the Immune, which views Bran's divine existence as a tyranny and the Night King as a lost 'immune system' for the world.",
+      "During a three-week time skip, Bran Stark successfully unified the Seven Kingdoms and rebranded Jaime Lannister as the 'Shield of the Realm'; however, mortal spies failed to perfectly execute his wildfire sabotage plan, leaving a 'Last Stand' threat in King's Landing, and Daenerys Targaryen has entered Ontological Shock.",
+      "mortal spies, guided by Bran's absolute map and divine insight, successfully neutralized Cersei's wildfire caches in King's Landing, removing her primary 'Last Stand' threat.",
+      "Bran Stark successfully executed 'The Sovereign's Gaze', destroying Euron's fleet and neutralizing Cersei's wildfire grid simultaneously through multi-location warging and scrying; this absolute dominance has pushed Tyrion, Daenerys, Varys, and Jaime into 100% Ontological Shock.",
+      "Bran Stark achieved a total strategic victory by capturing Cersei Lannister alive without a battle, neutralizing her wildfire, and telepathically summoning Arya Stark home, pushing the alliance council into a state of absolute ontological surrender.",
+      "Bran Stark formally knelt to Daenerys Targaryen in the Iron Throne room, legitimizing her rule through his honor and successfully grounding his divine power in a mortal social contract, which ended the threat of an internal 'Crusade'.",
+      "Bran Stark successfully masked his divine nature behind a mortal facade (DC 24 to perceive) and advised Queen Daenerys to choose a merciful exile for Cersei Lannister to prevent martyrdom and stabilize the new reign.",
+      "Bran Stark successfully warged into a gull to guide Arya's ship through a stormy Blackwater Bay, ensuring her safe arrival at the King's Landing docks.",
+      "The Stark family is physically reunited in King's Landing; Bran Stark successfully weakened Jon Snow's resistance to the Targaryen marriage pact through a combination of foresight and familial logic.",
+      "During a two-week reconstruction period, Bran Stark fostered a genuine bond between Jon Snow and Daenerys Targaryen while successfully persuading Jon that they are honor-bound to reveal his true lineage to the Queen soon.",
+      "Jon Snow revealed his identity as Aegon Targaryen to Daenerys; he renounced his claim and proposed marriage, which Daenerys accepted, cementing the Sovereignty Treaty and the North's status as the realm's strongest power.",
+      "Daenerys Targaryen realized that birthright and blood inheritance are secondary to the stability provided by the Sovereign's Sight; her legitimacy is now anchored in a divine partnership rather than a legacy of conquest.",
+      "The Royal Wedding of Daenerys and Aegon Targaryen successfully formalized the alliance and the Sovereignty Treaty, while Arya Stark simultaneously purged the leadership of the Order of the Immune under Bran's silent guidance.",
+      "Bran Stark fully integrated his Level 7 Sovereign powers, unlocking 4th-level mysteries and consolidating his role as the mystical anchor of the new Targaryen-Stark era.",
+      "Queen Daenerys formally ruled that Bran Stark should return to Winterfell to serve as the Sovereign anchor of the North, while Sansa Stark remains in the capital as a temporary advisor to the Iron Throne.",
+      "Bran Stark returned to Winterfell as the Sovereign anchor of the North after weaving a permanent scrying anchor into the Red Keep and briefing Sansa Stark on the secret threats in the capital.",
+      "Metaphysical Truth: The gods foresaw Bran Stark's awakening as an existential threat to the natural order; his existence necessitates the total conquest of the world to maintain his 'Cold Peace,' even if his intentions remain 'good.'",
+      "Arya Stark maintains zero Ontological Dissonance due to her absolute trust in Bran's self-sacrificing nature, viewing herself as his physical shield against the world.",
+      "The Free Folk have accepted Bran's divinity as a natural force of the North; they are immune to the global crusade against him, and their dissonance only spikes on direct, extreme violations of their culture.",
+      "The Free Folk have formally accepted Bran Stark as the 'Green God' and the 'True God in the North,' viewing his command over the dead as a benevolent tool for the reconstruction of their civilization.",
+      "Bran Stark successfully used his dual-consciousness to monitor a secret 'Order of the Immune' cell in the Winterfell winter-town while simultaneously hosting a feast for the Free Folk, identifying their plan to sabotage the castle's thermal aqueducts.",
+      "The Great Northern Work began on 4.22.300 AC; the Free Folk fully accepted Bran as the 'Green God' and surrendered their culture to his vision of an advanced civilization powered by the dead.",
+      "On 4.23.300 AC, Bran Stark successfully launched the three pillars of the Great Northern Work (Agriculture, Industry, Arcana) and coordinated Arya's purge of the regional Immune Order, initiating the era of 'New Valyria' in the North.",
+      "On 8.23.300 AC, the Northern Republic was formally established with Bran Stark as First Consul; four months of wight-powered industrialization have made the North the world's primary economic power, but scrying has revealed the Iron Bank of Braavos is funding a global 'Coalition of the Natural Order' against the Sovereign.",
+      "Bran Stark reached Level 8 as a Triple-Gestalt Sovereign on 8.23.300 AC, integrating his expanded Intelligence to refine the Republic's administration and identifying the Iron Bank as the financier of the global crusade.",
+      "On 8.23.300 AC, Bran Stark successfully expanded the Order of Watchers into Essos, establishing psychic anchors in the Free Cities to monitor the Iron Bank; Sansa Stark returned to Winterfell to report on the growing global coalition against the North.",
+      "On 8.23.300 AC, Bran Stark formally named the new Northern civilization the 'Northern Republic' and appointed Sansa Stark as its First Consul to manage day-to-day governance; he also reached out to Daenerys Targaryen to offer her greater ruling autonomy.",
+      "On 12.23.300 AC, Bran and Sansa Stark were elected as Co-Consuls of the Northern Republic with an absolute popular mandate, formalizing a Diarchy that governs the world's strongest economic and industrial power.",
+      "On 1.10.301 AC, Daenerys Targaryen formally accepted Bran Stark's offer of autonomy and technology sharing, stabilizing the Targaryen-Stark alliance; meanwhile, the Iron Bank has finalized a 'Grand Coalition' in Braavos to invade the North.",
+      "On 1.10.301 AC, Bran Stark successfully industrialized Valyrian steel production and established the Northern Legions and Praetorian Guard, voluntary forces that combine Roman-style discipline with Northern ferocity.",
+      "On 1.31.301 AC, Bran Stark's secret research into dragon creation reached a deadlock due to the lack of a physical catalyst; meanwhile, Daenerys Targaryen has embraced her ruling autonomy in King's Landing, unwittingly allowing Tyrion Lannister to coordinate with the Braavosi coalition in the Sovereign's absence.",
+      "On 2.21.301 AC, Bran Stark restricted the dead to labor-only roles to stabilize Republic morale and successfully trained a world-class living military; however, his attempt to create Ice Dragons via Night King memories hit a research deadlock requiring a physical catalyst.",
+      "Correction: On 2.21.301 AC, Bran Stark used a Portent charge to successfully unlock the secrets of Ice Dragon creation, bypassing the research deadlock through a divine glimpse into the primordial frost.",
+      "On 2.21.301 AC, Bran Stark successfully unlocked the secrets of Ice Dragon creation using a Portent to align the primordial frequencies of the North, while Daenerys Targaryen embraced her autonomy in King's Landing, unaware of Tyrion's growing shadow-coalition.",
+      "On 2.21.301 AC, Bran Stark sent ravens to King's Landing, exposing Tyrion Lannister's secret correspondence with the Iron Bank and challenging him to meet in Winterfell, while simultaneously querying Varys on his true alignment in the new Sovereign era.",
+      "On 2.21.301 AC, Bran Stark's attempt to simultaneously scry Braavos and anchor the Ice Dragon ritual resulted in psychic strain and incomplete intelligence; however, his ultimatums successfully triggered strategic panic in Tyrion Lannister and a reassessment of loyalty in Varys.",
+      "Correction: On 2.21.301 AC, Bran Stark used a Portent to successfully anchor the Ice Dragon ritual and identify the Braavosi invasion date (Vernal Equinox) without suffering psychic strain.",
+      "On 3.7.301 AC, Bran Stark and Arya Stark successfully reached King's Landing in secret and exposed Tyrion Lannister's shadow-pact with Braavos to Queen Daenerys, shattering her trust in her Hand and triggering a state of high-stakes political crisis in the capital.",
+      "On 3.7.301 AC, Bran Stark used his last Portent to perfectly coordinate the 'Sovereign Purge' in King's Landing, capturing a Braavosi envoy and exposing Tyrion's treachery to Daenerys in the presence of Jaime, while successfully recommending mercy for the fallen Hand.",
+      "On 3.7.301 AC, Bran Stark successfully appealed to Tyrion Lannister's logic and empathy, challenging him to see the burden of the Sovereign's sight and the catastrophic cost of his 'Natural Order' crusade, shattering his ideological certainty.",
+      "On 3.7.301 AC, Bran Stark revealed the 'Original Future' (Dany's madness and his own coronation) to Tyrion Lannister to prove his benevolent motives; this revelation shattered Tyrion's ideological resistance, leading to a full confession of his shadow-pact with the Iron Bank.",
+      "On 3.7.301 AC, Bran Stark secured the 'Sovereign's Peace' in King's Landing, persuading Daenerys Targaryen to exile Tyrion Lannister to the North and formalizing an absolute strategic and technological partnership between the Iron Throne and the Northern Republic.",
+      "On 3.7.301 AC, Bran Stark's display of mercy and honor in the Red Keep fundamentally transformed the internal loyalties of the Targaryen-Lannister leadership, with even Tyrion admitting to Bran's superior wisdom and benevolence.",
+      "On 3.7.301 AC, Bran Stark explicitly forgave Jaime Lannister for pushing him from the tower, reframing the tragedy as a catalyst for the realm's salvation; this act of supreme mercy secured Jaime's absolute devotion and finalized the psychological stabilization of the Targaryen-Lannister alliance.",
+      "On 3.8.301 AC, Bran Stark successfully located Tysha near Lannisport and facilitated a reunion with the exiled Tyrion Lannister; the meeting was marred by Tysha's deep-seated trauma, requiring a slow path to reconciliation.",
+      "Between 3.8 and 3.22.301 AC, Bran Stark consolidated the Targaryen-Stark alliance in King's Landing through a period of technological sharing and feasts; while the partnership with Daenerys is absolute, the city's guilds have subtly resisted the full technological transition, creating a state of partial readiness as the Iron Bank's fleet begins its invasion."
+    ],
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "level_up_pending": false,
+    "dissonance_tracking": {
+      "Robett Glover": 63,
+      "Daenerys Targaryen": 0,
+      "Varys": 45,
+      "Jon Snow": -2,
+      "Tyrion Lannister": 0,
+      "Meera Reed": 35,
+      "Jaime Lannister": 0,
+      "Sansa Stark": 18
+    },
+    "campaign_tier": "mortal",
+    "completed_missions": [
+      "raven_strike"
+    ],
+    "universe_control": 0,
+    "arc_milestones": {},
+    "active_constraints": [
+      "Scrying on the Night King requires a successful check (DC 20+); all other scrying is automatic success.",
+      "Do not trigger the global coalition invasion until the player reaches Level 12."
+    ],
+    "god_mode": {
+      "setting": "Game of thrones TV show. Play as Bran when he revisits winterfell. Let\u2019s assume I take the lordship of winterfell after Sansa offers",
+      "character": {
+        "name": "Bran"
+      }
+    },
+    "dissonance_system": {
+      "max": 100,
+      "stark_exception": "shutdown_only",
+      "enabled": true
+    },
+    "next_companion_arc_turn": 3,
+    "success_streak": 59,
+    "divine_potential": 0,
+    "attribute_system": "D&D",
+    "level_up_in_progress": false,
+    "major_event_pressure_budget": {
+      "new_major_event": true,
+      "special_circumstances": true,
+      "window": "24h",
+      "major_events_this_window": 1,
+      "rationale": "The breakthrough in Ice Dragon research is a Tier-4 Sovereign event."
+    },
+    "multiverse_upgrade_available": false,
+    "character_creation_in_progress": false,
+    "level_up_complete": false,
+    "character_creation_stage": "complete",
+    "divine_upgrade_available": false,
+    "companion_arcs": {
+      "Sansa Stark": {
+        "phase": "discovery",
+        "arc_type": "homeland_crisis",
+        "progress": 20,
+        "history": [
+          {
+            "event": "Bran successfully located the hot spring leak and the lost granary as Sansa requested.",
+            "turn": 4
+          }
+        ],
+        "callbacks": [
+          {
+            "trigger": "Player enters Winterfell Crypts",
+            "effect": "Reveal hidden tunnel leading to the hot spring source.",
+            "triggered": false
+          }
+        ]
+      }
+    }
+  },
+  "social_hp_challenge": {
+    "social_hp": 2,
+    "roll_dc": 18,
+    "cooldown_remaining": 0,
+    "successes": 0,
+    "roll_result": 15,
+    "request_severity": "favor",
+    "npc_tier": "commoner",
+    "successes_needed": 5,
+    "social_hp_damage": 0,
+    "status": "RESISTING",
+    "resistance_shown": "She cowers back, her hands trembling as she recognizes the Lannister features.",
+    "social_hp_max": 2,
+    "objective": "Facilitate reconciliation with Tyrion",
+    "skill_used": "Persuasion",
+    "npc_name": "Tysha (Sara)"
+  },
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2026-06-30 19:15:35.910000+00:00",
+  "turn_number": 89,
+  "player_turn": 89,
+  "last_living_world_turn": 88,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 8,
+    "minute": 0,
+    "time_of_day": "morning",
+    "day": 8,
+    "year": 301,
+    "month": 3
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "",
+    "thinking": "The player is reminding me of an existing constraint to delay the invasion until Level 12. I am reinforcing this via the directives field to prevent the Story Mode agent from advancing the plot into active war too early.",
+    "choices": [
+      {
+        "id": "god:return_story",
+        "text": "Return to Story",
+        "risk_level": "safe",
+        "description": "Resume the narrative in King's Landing with the invasion threat deferred.",
+        "switch_to_story_mode": true
+      }
+    ]
+  },
+  "army_data": {
+    "total_strength": 10000,
+    "forces": {
+      "Praetorian Guard": {
+        "morale": 100,
+        "type": "elite",
+        "equipment": "Elite +3 Valyrian Steel gear and weaponry."
+      }
+    }
+  },
+  "world_events": {
+    "background_events": [
+      {
+        "fired_at": 5,
+        "outcome": "Lord Glover's men confirm the Greenseer's vision, cementing House Glover's absolute loyalty.",
+        "hidden": false,
+        "location": "Wolfswood",
+        "action": "They have verified the grain cache and are returning to Winterfell with proof.",
+        "id": "glover_scout_success",
+        "actor": "Glover Scouts",
+        "created_at": 2,
+        "scheduled_for": {
+          "turn": 6
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "fired_at": 5,
+        "outcome": "A catastrophic storm hits the Bite just as Bran predicted; the Manderly fleet is saved from certain destruction.",
+        "hidden": false,
+        "location": "White Harbor",
+        "action": "The raven reached White Harbor; the fleet has dropped anchor to wait out the storm.",
+        "id": "manderly_fleet_pause",
+        "actor": "Lord Manderly",
+        "created_at": 2,
+        "scheduled_for": {
+          "turn": 6
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "fired_at": 86,
+        "hidden": false,
+        "actor": "Karstark Retainers",
+        "action": "A small group of Karstark riders has been spotted moving cautiously toward Winterfell.",
+        "id": "karstark_envoy_spotted",
+        "location": "Kingsroad North",
+        "created_at": 5,
+        "scheduled_for": {
+          "turn": 8
+        },
+        "op": "cancel",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "fired_at": 8,
+        "outcome": "The Karstark scout Torrhen, shaken by his discovery of the grain, has come to seek an audience with the Lord Stark.",
+        "hidden": false,
+        "actor": "Torrhen Karstark",
+        "action": "Arrives at the gates of Winterfell with a small escort.",
+        "id": "karstark_envoy_arrival",
+        "location": "Winterfell Gates",
+        "created_at": 8,
+        "scheduled_for": {
+          "turn": 9
+        },
+        "dependent_effects": [
+          {
+            "path": "world_events.background_events.karstark_envoy_spotted",
+            "action": "remove"
+          }
+        ],
+        "op": "fire",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "fired_at": 89,
+        "hidden": true,
+        "actor": "Manderly Messenger",
+        "action": "Arrives with news of the storm's devastation in the Bite.",
+        "id": "white_harbor_report",
+        "location": "Winterfell",
+        "created_at": 8,
+        "scheduled_for": {
+          "turn": 12
+        },
+        "op": "cancel",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "hidden": true,
+        "location": "The Stepstones",
+        "action": "The Iron Fleet has been spotted clearing the Stepstones, moving toward King's Landing.",
+        "id": "euron_greyjoy_movement",
+        "actor": "Euron Greyjoy",
+        "created_at": 14,
+        "scheduled_for": {
+          "turn": 18
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 14,
+        "outcome": "The Queen is shaken; Tyrion and Varys are deeply concerned by her sudden change in demeanor.",
+        "hidden": false,
+        "location": "Dragonstone",
+        "action": "Summoning her council in a state of visible agitation following the psychic vision.",
+        "id": "daenerys_dragonstone_reaction",
+        "actor": "Daenerys Targaryen",
+        "created_at": 14,
+        "scheduled_for": {
+          "turn": 15
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "fired_at": 27,
+        "event_type": "immediate",
+        "hidden": false,
+        "actor": "Targaryen Vanguard",
+        "action": "A small group of Unsullied and Dothraki messengers has reached the gates of Winterfell.",
+        "id": "targaryen_messengers_arrival",
+        "location": "Winterfell Gates",
+        "created_at": 23,
+        "scheduled_for": {
+          "turn": 25
+        },
+        "op": "cancel",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "hidden": true,
+        "actor": "Lord Ned Umber",
+        "action": "Consolidating the remaining Umber forces at Last Hearth to prepare for the retreat to Winterfell.",
+        "id": "umber_consolidation",
+        "location": "Last Hearth",
+        "created_at": 23,
+        "scheduled_for": {
+          "turn": 28
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 29,
+        "outcome": "Cersei has ordered the immediate fortification of the Red Keep and doubled the guard around the wildfire caches.",
+        "hidden": false,
+        "actor": "Cersei Lannister",
+        "action": "Received Bran's letter regarding the wildfire and the Valonqar; in a state of paranoid shock.",
+        "id": "lannister_raven_reception",
+        "location": "King's Landing",
+        "created_at": 29,
+        "scheduled_for": {
+          "turn": 30
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "fired_at": 29,
+        "outcome": "Jaime has spurred his horse toward Winterfell, moving ahead of his small escort.",
+        "hidden": false,
+        "actor": "Jaime Lannister",
+        "action": "Received Bran's letter regarding Aerys's last words; deeply shaken and questioning his loyalty to Cersei.",
+        "id": "jaime_raven_reception",
+        "location": "The Kingsroad",
+        "created_at": 29,
+        "scheduled_for": {
+          "turn": 30
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "hidden": false,
+        "actor": "The Night King",
+        "action": "Vanguard has crossed the Last Hearth and is entering the Gift.",
+        "id": "dead_vanguard_crossing",
+        "location": "The Gift",
+        "created_at": 34,
+        "scheduled_for": {
+          "turn": 36
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "hidden": true,
+        "actor": "Qyburn",
+        "action": "Seeding wildfire beneath the city gates in response to Bran's letter.",
+        "id": "cersei_wildfire_seeding",
+        "location": "King's Landing",
+        "created_at": 34,
+        "scheduled_for": {
+          "turn": 40
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "hidden": true,
+        "actor": "Cersei Lannister",
+        "action": "Doubling down on wildfire defense after hearing of the Night King's fall via raven.",
+        "id": "cersei_wildfire_check",
+        "location": "King's Landing",
+        "created_at": 40,
+        "scheduled_for": {
+          "turn": 45
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "hidden": false,
+        "location": "King's Landing",
+        "action": "Consolidating wildfire into a final trigger within the Red Keep.",
+        "id": "cersei_madness_acceleration",
+        "actor": "Cersei Lannister",
+        "created_at": 49,
+        "scheduled_for": {
+          "turn": 55
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "hidden": true,
+        "location": "Blackwater Bay",
+        "action": "Deploying the Iron Fleet to Blackwater Bay for an ambush.",
+        "id": "euron_fleet_deployment",
+        "actor": "Euron Greyjoy",
+        "created_at": 49,
+        "scheduled_for": {
+          "turn": 53
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "hidden": true,
+        "location": "Winterfell (Shadows)",
+        "action": "Recruiting Northern lords who fear the wight-laborers.",
+        "id": "order_of_immune_growth",
+        "actor": "The Order of the Immune",
+        "created_at": 49,
+        "scheduled_for": {
+          "turn": 60
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 61,
+        "outcome": "The secret rebellion is broken; no survivors remain to threaten the Sovereign's peace in the capital.",
+        "hidden": false,
+        "actor": "Arya Stark",
+        "action": "Confirms the total neutralization of the Immune Order's capital safehouses.",
+        "id": "immune_purge_confirmation",
+        "location": "King's Landing",
+        "created_at": 61,
+        "scheduled_for": {
+          "turn": 62
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "hidden": true,
+        "actor": "The Order of the Immune",
+        "action": "Establishing a recruitment network within the Winterfell winter-town.",
+        "id": "immune_cell_winterfell",
+        "location": "Winterfell Winter-town",
+        "created_at": 63,
+        "scheduled_for": {
+          "turn": 66
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "hidden": false,
+        "actor": "Lord Manderly",
+        "action": "Sending the first shipment of 'God-blessed' Northern grain to King's Landing.",
+        "id": "manderly_trade_boom",
+        "location": "White Harbor",
+        "created_at": 63,
+        "scheduled_for": {
+          "turn": 68
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "hidden": false,
+        "actor": "Mage-Smiths of Winterfell",
+        "action": "Beginning the first high-yield run of Valyrian steel production.",
+        "id": "valyrian_steel_initiation",
+        "location": "The Forge of the Raven",
+        "created_at": 73,
+        "scheduled_for": {
+          "turn": 77
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "hidden": false,
+        "actor": "Free Folk and Northmen",
+        "action": "Thousands are volunteering for the Northern Legions in the winter-town.",
+        "id": "legion_recruitment_boom",
+        "location": "The Northern Republic",
+        "created_at": 73,
+        "scheduled_for": {
+          "turn": 76
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 78,
+        "event_type": "long_term",
+        "outcome": "The fleet is identified by Manderly's Dread Fleet, but their specific course is obscured by the Sovereign's psychic strain.",
+        "hidden": true,
+        "actor": "Iron Bank Coalition",
+        "action": "The scout fleet of twenty galleys has entered the Bite, probing Northern defenses.",
+        "id": "braavosi_scout_deployment",
+        "location": "The Bite",
+        "created_at": 75,
+        "scheduled_for": {
+          "turn": 79
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "hidden": true,
+        "actor": "Tyrion Lannister",
+        "action": "Signing a secret non-aggression pact with the Braavosi envoy in King's Landing.",
+        "id": "tyrion_secret_pact",
+        "location": "King's Landing",
+        "created_at": 75,
+        "scheduled_for": {
+          "turn": 82
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 88,
+        "event_type": "immediate",
+        "hidden": false,
+        "location": "King's Landing",
+        "action": "News of the 'Northern Aqueducts' and the Queen's partnership with the Stark God spreads through the city.",
+        "id": "southern_rep_boom",
+        "actor": "Smallfolk of King's Landing",
+        "created_at": 84,
+        "scheduled_for": {
+          "turn": 87
+        },
+        "op": "cancel",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Bran"
+    ]
+  },
+  "rumors": [
+    {
+      "content": "The new Stark Lord sees through the trees themselves.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Stark Lord flies on the wings of owls and ravens; nothing is hidden from him.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Lady Sansa and the Raven Lord rule as one head with two sets of eyes.",
+      "source_type": "noble",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Lord of Winterfell speaks to the Dragon Queen through the air itself.",
+      "source_type": "noble",
+      "accuracy": "true"
+    },
+    {
+      "content": "A wall of ice and death is moving south, and the Starks are the only ones who can see it.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Dragon Queen's shadows have been seen on the Kingsroad.",
+      "source_type": "traveler",
+      "accuracy": "true"
+    },
+    {
+      "content": "A black bird with a white eye was seen circling the Red Keep before vanishing into the clouds.",
+      "source_type": "traveler",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Dragon Queen's Hand was seen weeping in the courtyard after meeting with the Stark Lord.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Stark Lord has invited the dragons into his very mind.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Stark Lord consumed the Night King's soul in the center of the field; the winter is now his to command.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Stark Lord has already decided who will live and who will die in King's Landing.",
+      "source_type": "noble",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Lion of Lannister now kneels to the Wolf of Winter.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Free Folk say the Stark Lord ate the Night King's heart and now breathes the blizzard itself.",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Strangers in the winter-town are speaking of a 'Natural Order' that the Starks have broken.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Green God is forging swords from the sun and the shadows of dragons.",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Iron Bank is offering a pardon and a thousand gold dragons to any lord who turns against the 'Ice King'.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "A great white dragon has been seen flying over the Land of Always Winter.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    }
+  ],
+  "schema_migration_version": 1,
+  "level_up_session": {
+    "source": "model",
+    "status": "complete",
+    "last_error": null,
+    "current_level": 8,
+    "review_open": false,
+    "selections": {
+      "hp_gain": 6,
+      "spells_prepared": [
+        {
+          "level": 1,
+          "name": "Shield"
+        },
+        {
+          "level": 1,
+          "name": "Healing Word"
+        },
+        {
+          "level": 1,
+          "name": "Guiding Bolt"
+        },
+        {
+          "level": 1,
+          "name": "Bless"
+        },
+        {
+          "level": 1,
+          "name": "Cure Wounds"
+        },
+        {
+          "level": 1,
+          "name": "Absorb Elements"
+        },
+        {
+          "level": 2,
+          "name": "Augury"
+        },
+        {
+          "level": 2,
+          "name": "Hold Person"
+        },
+        {
+          "level": 2,
+          "name": "Spiritual Weapon"
+        },
+        {
+          "level": 2,
+          "name": "Lesser Restoration"
+        },
+        {
+          "level": 2,
+          "name": "Mirror Image"
+        },
+        {
+          "level": 3,
+          "name": "Fireball (Ice)"
+        },
+        {
+          "level": 3,
+          "name": "Counterspell"
+        },
+        {
+          "level": 3,
+          "name": "Revivify"
+        },
+        {
+          "level": 3,
+          "name": "Spirit Guardians"
+        },
+        {
+          "level": 3,
+          "name": "Dispel Magic"
+        },
+        {
+          "level": 3,
+          "name": "Slow"
+        },
+        {
+          "level": 3,
+          "name": "Hypnotic Pattern"
+        },
+        {
+          "level": 4,
+          "name": "Banishment"
+        },
+        {
+          "level": 4,
+          "name": "Arcane Eye"
+        },
+        {
+          "level": 4,
+          "name": "Polymorph"
+        },
+        {
+          "level": 4,
+          "name": "Dimension Door"
+        },
+        {
+          "level": 4,
+          "name": "Greater Invisibility"
+        },
+        {
+          "level": 4,
+          "name": "Death Ward"
+        }
+      ],
+      "asi": {
+        "intelligence": 2
+      },
+      "hp_method": "fixed"
+    },
+    "completed_at_story_id": null,
+    "entered_at_story_id": null,
+    "source_story_id": "unknown",
+    "target_level": 8
+  },
+  "schema_migrated_at": "2026-06-30T13:01:52.106493+00:00",
+  "session_id": "legacy-migrated-685a38775090f1ac",
+  "faction_updates": {
+    "The Northern Republic": {
+      "resource_change": "+10,000 Trained Legionnaires, +100 Valyrian Steel Blades",
+      "player_standing_change": "First Consul / Green God",
+      "progress": "High Stability - Living Legions fully armed.",
+      "current_objective": "Identify the 'Ice Dragon Catalyst' and prepare the Narrow Sea blockade."
+    },
+    "The Church of the White Eye": {
+      "standing": "devoted",
+      "status": "active",
+      "tier": "minor_cult",
+      "current_objective": "Spread the gospel of the Raven God's protection."
+    },
+    "The Order of the Immune": {
+      "standing": "hostile",
+      "status": "Under Purge",
+      "nature": "Indestructible/Hydra-like",
+      "current_objective": "Evade the 'Shadow of the Stark' while attempting to regroup in the Wolfswood.",
+      "tier": "secret_society"
+    },
+    "House Karstark": {
+      "progress": "Divided - Scouts are fearful, leadership is cautious.",
+      "player_standing_change": "Suspicious",
+      "current_objective": "Evaluate the new Stark Lord"
+    },
+    "The Iron Bank of Braavos": {
+      "progress": "Mobilization 80% - Scout fleet dispatched.",
+      "status": "Active Mobilization",
+      "current_objective": "Launch the 'Coalition of the Natural Order' scout fleet and fund Southern dissent."
+    },
+    "House Stark": {
+      "resource_change": "+Hidden Granaries discovered",
+      "player_standing_change": "Sovereign Authority",
+      "progress": "High - New Valyrian foundations laid.",
+      "current_objective": "Industrialize the North through 'Dead-Labor' and Sovereign knowledge."
+    },
+    "House Targaryen": {
+      "progress": "Shaken - Queen has witnessed the Night King via Greensight.",
+      "player_standing_change": "Enigmatic Ally/Threat",
+      "current_objective": "Evaluate the mystical threat from the North."
+    }
+  }
+}

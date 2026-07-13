@@ -1,0 +1,626 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "armor_class": 17,
+    "active_effects": [
+      "Happy: +1 to Attack Rolls, Ability Checks, and Saving Throws",
+      "Aura of Murder: Enemies within 6ft have Piercing Vulnerability",
+      "Sunlight Immunity (Ascended)",
+      "Living Mask (Passive Illusion)",
+      "Vampire Lord's Presence (Advantage vs Vampires)",
+      "Unified Spellcasting: Charisma is used for all spell attack rolls and spell save DCs across all classes.",
+      "Umbral Sight: Invisible to creatures relying on Darkvision in darkness (Advantage on Stealth)."
+    ],
+    "class_name": "Gloomstalker/Assassin/College of Whispers",
+    "health": {
+      "hp_max": 19,
+      "temp_hp": 0,
+      "hp": 19,
+      "conditions": []
+    },
+    "entity_id": "pc_astarion_001",
+    "display_name": "Astarion Ancun\u00edn",
+    "attributes": {
+      "strength": 10,
+      "dexterity": 16,
+      "intelligence": 12,
+      "wisdom": 14,
+      "charisma": 16,
+      "constitution": 14
+    },
+    "proficiency_bonus": 2,
+    "status_conditions": [],
+    "race": "High Elf (Ascendant Vampire)",
+    "ac": 17,
+    "spells_known": [
+      {
+        "level": 1,
+        "description": "Whisper a discordant melody. 3d6 Psychic damage and target must move away.",
+        "name": "Dissonant Whispers"
+      },
+      {
+        "level": 1,
+        "description": "Bonus action heal for 1d4+CHA.",
+        "name": "Healing Word"
+      },
+      {
+        "level": 1,
+        "description": "Make a humanoid regard you as a friendly acquaintance.",
+        "name": "Charm Person"
+      },
+      {
+        "level": 1,
+        "description": "Up to three targets take -1d4 to attack rolls and saving throws.",
+        "name": "Bane"
+      },
+      {
+        "level": 1,
+        "description": "Send 5d8 HP worth of creatures into a magical slumber.",
+        "name": "Sleep"
+      }
+    ],
+    "name": "Astarion",
+    "experience": {
+      "needed_for_next_level": 900,
+      "current": 450,
+      "to_next_level": 450
+    },
+    "resources": {
+      "gold": 19977,
+      "spell_slots": {
+        "level_2": {
+          "used": 0,
+          "max": 2
+        },
+        "level_1": {
+          "used": 0,
+          "max": 4
+        }
+      },
+      "class_features": {
+        "sanguine_vitality": {
+          "used": 0,
+          "max": 10
+        },
+        "bardic_inspiration": {
+          "used": 0,
+          "max": 3
+        }
+      }
+    },
+    "base_attributes": {
+      "strength": 10,
+      "dexterity": 16,
+      "intelligence": 12,
+      "wisdom": 14,
+      "charisma": 16,
+      "constitution": 14
+    },
+    "spells_prepared": [
+      {
+        "level": 1,
+        "description": "+1d6 damage to a marked target.",
+        "name": "Hunter's Mark"
+      },
+      {
+        "level": 1,
+        "description": "Outline targets in light; advantage on attacks.",
+        "name": "Faerie Fire"
+      },
+      {
+        "level": 1,
+        "description": "+10ft movement speed for 1 hour.",
+        "name": "Longstrider"
+      },
+      {
+        "level": 1,
+        "description": "Create a 20ft radius of heavy obscurement.",
+        "name": "Fog Cloud"
+      }
+    ],
+    "hp_max": 19,
+    "features": [
+      "Ascendant Bite: Bonus Action. 1d6 Piercing + 1d6 Necrotic. Grant 'Happy' to self, 'Bloodless' to target.",
+      "Essence of the Lord: Drinking from CR 1+ creatures grants 1 extra action next turn.",
+      "Vampiric Regeneration: Heal 5 HP at start of turn if not in sunlight/running water.",
+      "Dread Ambusher: +10ft speed and extra attack on Turn 1.",
+      "Assassinate: Advantage on those who haven't acted; auto-crit on surprised targets.",
+      "Psychic Blades: Expend Bardic Inspiration to deal 2d6 Psychic damage on a weapon hit.",
+      "Words of Terror: After speaking for 1 min, target makes WIS save or becomes Frightened of you.",
+      "Bardic Inspiration (d6): Use a bonus action to bolster an ally (2/long rest).",
+      "Sneak Attack (1d6): Deal extra damage to targets when you have advantage.",
+      "Aura of Murder: Enemies within 6ft are Vulnerable to Piercing damage (Bhaalist Armour).",
+      "Ascended Presence: You are permanently immune to sunlight, appear as a living High Elf, and possess supernatural beauty.",
+      "Vampire Lord's Authority: You have advantage on all Charisma-based checks made against other vampires or vampire spawn.",
+      "Umbral Sight: You gain darkvision out to a range of 60 feet. If you already have darkvision, its range increases by 30 feet. While in darkness, you are invisible to any creature that relies on darkvision to see you in that darkness.",
+      "Cunning Action: Bonus action to Dash, Disengage, or Hide.",
+      "Jack of All Trades: Add half proficiency bonus to non-proficient ability checks.",
+      "Song of Rest (d6): Extra 1d6 healing for allies during a short rest."
+    ],
+    "level": 2,
+    "hp_current": 19,
+    "inventory": [
+      {
+        "description": "Mentions a midnight deadline at the Counting House.",
+        "type": "quest_item",
+        "name": "Ciphered Orders (Vault 9)"
+      },
+      {
+        "value_gp": 100,
+        "effect": "1d4 Poison damage on next hit",
+        "type": "consumable",
+        "name": "Vial of Serpent Venom"
+      }
+    ],
+    "cantrips": [
+      {
+        "level": 0,
+        "description": "Hurl a mote of fire. 1d10 damage.",
+        "name": "Fire Bolt (High Elf)"
+      },
+      {
+        "level": 0,
+        "description": "Unleash a string of insults. 1d4 Psychic damage and Disadvantage on target's next attack.",
+        "name": "Vicious Mockery"
+      },
+      {
+        "level": 0,
+        "description": "Create a sound or an image of an object.",
+        "name": "Minor Illusion"
+      }
+    ],
+    "skill_proficiencies": {
+      "expertise": [
+        "Stealth",
+        "Persuasion"
+      ],
+      "proficiencies": [
+        "Deception",
+        "Intimidation",
+        "Perception",
+        "Insight",
+        "Investigation",
+        "Acrobatics",
+        "Sleight of Hand",
+        "Athletics",
+        "Performance",
+        "Survival"
+      ]
+    },
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        }
+      ],
+      "armor": {
+        "equipped": true,
+        "stats": "Aura of Murder: Enemies within 6ft are Vulnerable to Piercing damage",
+        "type": "armor",
+        "armor_class": 14,
+        "name": "Bhaalist Armour"
+      },
+      "off_hand": {
+        "damage": "1d4+4",
+        "equipped": true,
+        "damage_type": "piercing",
+        "stats": "+2 to hit, Crit threshold reduced by 1, True Strike on hit",
+        "type": "weapon",
+        "name": "Bloodthirst"
+      },
+      "main_hand": {
+        "damage": "1d6+4",
+        "equipped": true,
+        "damage_type": "piercing",
+        "stats": "+2 to hit, +7 Piercing damage against targets with less than 50% HP",
+        "type": "weapon",
+        "name": "Crimson Mischief"
+      },
+      "ranged": {
+        "damage": "1d8+3",
+        "equipped": true,
+        "damage_type": "piercing",
+        "stats": "Doubles Proficiency Bonus to attack rolls",
+        "type": "weapon",
+        "name": "The Dead Shot"
+      },
+      "cloak": {
+        "equipped": true,
+        "stats": "Invisibility for 2 turns upon killing an enemy",
+        "name": "Deathstalker Mantle"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 15,
+      "hour": 23,
+      "time_of_day": "night",
+      "year": 1492,
+      "day": 1,
+      "month": "Eleasias"
+    },
+    "current_location_name": "Counting House Lower Vaults"
+  },
+  "npc_data": {
+    "npc_leon_001": {
+      "attitude_to_party": "allied",
+      "display_name": "Leon",
+      "entity_type": "npc",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 5,
+          "history": [
+            "Surviver of Cazador's ritual.",
+            "Sworn loyalty to the Ascendant Lord."
+          ]
+        }
+      },
+      "tier": "guard",
+      "role": "Spawn Captain / Marshall"
+    },
+    "npc_dalyria_001": {
+      "attitude_to_party": "allied",
+      "display_name": "Dalyria",
+      "entity_type": "npc",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 3,
+          "history": [
+            "Fascinated by the Ascendant bloodline.",
+            "Cataloging the Szarr library."
+          ]
+        }
+      },
+      "tier": "merchant",
+      "role": "Arcane Researcher"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "arc_milestones": {},
+    "active_constraints": [
+      "Astarion's spellcasting is entirely Charisma-based."
+    ],
+    "god_mode": {
+      "setting": "Assume I ascended and became a vampire lord. I am now level 1 again but I am a gestalt gloomstalker / assassin / one more class and suggest another good vampirish class to mix in with unique mechanics. lets assume I am still getting accustomed to new powers. This hsould be directly after bg3 and assume i have some vampire staff/servants/soldiers but a handful because most of them died in the battle.",
+      "character": {
+        "name": "Astarion"
+      }
+    },
+    "character_creation_stage": "complete",
+    "next_companion_arc_turn": 3,
+    "active_missions": [
+      {
+        "title": "Unmask The Watcher",
+        "status": "active",
+        "mission_id": "the_watcher_lead",
+        "objective": "Identify the entity Cazador was paying and secure the contingency shipment."
+      }
+    ],
+    "universe_control": 0,
+    "success_streak": 0,
+    "_agent_selection_tracker": {
+      "count": 3,
+      "agent": "RewardsAgent",
+      "rewards_skip_count": 1
+    },
+    "character_creation_completed": true,
+    "companion_arcs": {
+      "Dalyria": {
+        "phase": "discovery",
+        "arc_type": "dark_secret",
+        "progress": 10,
+        "history": [
+          {
+            "event": "Dalyria discovered a hidden ledger in Cazador's library that seems to distress her.",
+            "turn": 3
+          },
+          "Astarion validated Dalyria's discovery, deepening her role as his primary arcane researcher."
+        ],
+        "callbacks": [
+          {
+            "trigger": "Astarion visits the library",
+            "effect": "Revelation of Cazador's contingency plans",
+            "triggered": false
+          }
+        ]
+      }
+    },
+    "last_location": "Counting House Lower Vaults",
+    "core_memories": [
+      "Astarion has ascended as a Vampire Lord following the defeat of Cazador, beginning his reign with a triple-gestalt focus on stealth and shadow magic.",
+      "Astarion Ancun\u00edn reigns from the Szarr Palace with a retinue of seven spawn and twelve mortal guards led by Leon.",
+      "Astarion has finalized his Triple Gestalt as a Gloomstalker/Assassin/College of Whispers, prioritizing psychic terror and lethal ambush strikes for his new reign.",
+      "Astarion has officially begun his reign as the Ascendant Vampire Lord from the Szarr Palace, supported by Leon and Dalyria.",
+      "Astarion's first attempt to command the surviving spawn at Szarr Palace was met with silent resistance, revealing that his authority is not yet absolute.",
+      "Astarion successfully exerted his authority over the surviving spawn, beginning to break their wary resistance.",
+      "Astarion has successfully established his absolute authority over the surviving spawn at Szarr Palace through a promise of protection and prosperity.",
+      "Astarion (Lvl 1) followed Dalyria (Lvl 3) to the library and successfully deciphered a secret ledger revealing Cazador's payments to 'The Watcher' and a 'contingency shipment' at Gray Harbour.",
+      "Astarion left Szarr Palace to investigate Gray Harbour personally, ordering Leon to recruit level 5+ elite scouts while he was intercepted by Watchmen due to a failed stealth approach.",
+      "Astarion (Lvl 1) successfully navigated a Harbour Watch patrol in Gray Harbour using a social bluff, maintaining his 'Living Mask' while pursuing Cazador's secret shipment.",
+      "Astarion bribed a street urchin to create a distraction at Gray Harbour, allowing him to successfully infiltrate the back slip and locate Cazador's 'contingency shipment' unnoticed.",
+      "Astarion (Lvl 1) observed the delivery of the 'contingency shipment' at Gray Harbour; while he remained hidden, he was unable to clearly identify 'The Watcher'\u2014a woman wearing a weeping eye amulet\u2014before the shipment was moved onto a cutter.",
+      "Astarion tracked the Watcher's cutter through Gray Harbour to a sea-gate beneath the Counting House, but a stealth failure allowed a Grey-Cloak Scout to intercept him on the rooftops.",
+      "Astarion was intercepted on the rooftops of Gray Harbour by a Grey-Cloak Scout who serves 'The Lady' and seems prepared for his arrival.",
+      "Astarion executed a Grey-Cloak Scout on the rooftops of Gray Harbour, revealing 'The Lady's' awareness of his ascent and a connection to the Counting House.",
+      "Astarion has finalized his transition to Level 2, mastering Cunning Action and Jack of All Trades while expanding his psychic and predatory spellcasting.",
+      "Astarion looted a Grey-Cloak Scout and found orders identifying the shipment's destination as Vault 9 in the Counting House, with a midnight deadline.",
+      "Astarion returned to Szarr Palace to rendezvous with Leon and the newly recruited Level 5 Gloomstalker scouts, leaving roughly seventy-five minutes before the midnight deadline at the Counting House.",
+      "Astarion, supported by his Lvl 5 Gloomstalker scouts, successfully infiltrated the Counting House sea-gate at 23:15, bypassing magical wards through the harbor foundations."
+    ],
+    "divine_potential": 0,
+    "attribute_system": "D&D",
+    "major_event_pressure_budget": {
+      "new_major_event": false,
+      "special_circumstances": false,
+      "window": "24h",
+      "major_events_this_window": 0,
+      "rationale": "World motion remains localized to Astarion's infiltration."
+    },
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "level_up_in_progress": false,
+    "level_up_pending": false,
+    "completed_missions": [],
+    "character_creation_in_progress": false,
+    "level_up_complete": true,
+    "level_up_stage": null,
+    "divine_upgrade_available": false,
+    "campaign_tier": "mortal",
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": {
+    "social_hp": 0,
+    "roll_dc": 14,
+    "cooldown_remaining": 1,
+    "successes": 3,
+    "roll_result": 15,
+    "request_severity": "submission",
+    "npc_tier": "commoner",
+    "successes_needed": 5,
+    "social_hp_damage": 2,
+    "status": "SURRENDERED",
+    "resistance_shown": "None. They have knelt.",
+    "social_hp_max": 3,
+    "objective": "Establish absolute authority",
+    "skill_used": "Persuasion",
+    "npc_name": "Aurelia & The Spawn"
+  },
+  "combat_state": {
+    "in_combat": false,
+    "combat_phase": "ended",
+    "combat_summary": {
+      "enemies_defeated": [
+        "Grey-Cloak Scout"
+      ],
+      "rounds_fought": 1,
+      "xp_awarded": 10,
+      "loot_distributed": true
+    }
+  },
+  "last_state_update_timestamp": "2026-06-10 04:52:58.436000+00:00",
+  "turn_number": 14,
+  "player_turn": 14,
+  "last_living_world_turn": 9,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 21,
+    "minute": 50,
+    "time_of_day": "night",
+    "day": 1,
+    "year": 1492,
+    "month": "Eleasias"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "Inside the Counting House lower vaults",
+    "thinking": "We have successfully infiltrated the sea-gate. The target, Vault 9, is deeper within the facility. I have roughly 45 minutes until the midnight deadline. I can hear the distant, muffled echoes of boots on stone\u2014security is tight. The Watcher and the shipment are likely already inside. I need to decide whether to prioritize stealth, speed, or a tactical ambush.",
+    "choices": [
+      {
+        "id": "disable_wards_stealth",
+        "text": "Disable Internal Wards",
+        "risk_level": "medium",
+        "description": "The path to the high-security vaults is likely trapped. Use your Investigation and Sleight of Hand to neutralize magical sensors before proceeding.",
+        "cons": [
+          "Consumes precious time",
+          "Requires high DC checks"
+        ],
+        "pros": [
+          "Prevents alarms",
+          "Safe approach"
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "intercept_watcher_path",
+        "text": "Intercept the Watcher",
+        "risk_level": "high",
+        "description": "Head directly toward the main corridor of Vault 9. Use the scouts to flank the Grey-Cloaks while you confront the Watcher before the shipment is secured.",
+        "cons": [
+          "Direct combat with unknown forces",
+          "High risk of discovery"
+        ],
+        "pros": [
+          "Captures the target red-handed",
+          "Saves time"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "scout_vault_perimeter",
+        "text": "Scout Vault 9 Perimeter",
+        "risk_level": "low",
+        "description": "Send Elias and Kaelen ahead to map the guard rotations and find a secondary entrance to the vault while you hold the rear.",
+        "cons": [
+          "Scouts might be spotted",
+          "Slowest option"
+        ],
+        "pros": [
+          "Provides complete tactical map",
+          "Low risk to Astarion"
+        ],
+        "confidence": "high"
+      }
+    ]
+  },
+  "army_data": {
+    "total_strength": 21,
+    "forces": {
+      "Szarr Palace Mercenaries": {
+        "blocks": 1,
+        "morale": 70,
+        "upkeep_daily": 12,
+        "type": "infantry"
+      },
+      "Vampire Spawn Retinue": {
+        "blocks": 1,
+        "morale": 85,
+        "upkeep_daily": 0,
+        "type": "elites"
+      },
+      "Shadowstalker Scouts": {
+        "blocks": 1,
+        "morale": 90,
+        "description": "Two Level 5 Gloomstalker spies (Elias and Kaelen) recruited by Leon.",
+        "upkeep_daily": 20,
+        "type": "elites"
+      }
+    }
+  },
+  "rewards_box": {
+    "current_xp": 450,
+    "level_up_available": false,
+    "loot": [
+      "None"
+    ],
+    "gold": 0.0,
+    "progress_percent": 25,
+    "xp_gained": 100,
+    "current_level": 2,
+    "xp_total": 450,
+    "xp_to_next_level": 450,
+    "source": "encounter",
+    "next_level_xp": 900
+  },
+  "world_events": {
+    "background_events": [
+      {
+        "discovery_condition": "Leon's scouts detect the blind.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "They are preparing a more targeted reconnaissance mission.",
+        "actor": "The Gur",
+        "action": "Identified Leon as the new Master's primary lieutenant.",
+        "player_impact": "Potential for an assassination attempt or palace raid in the future.",
+        "location": "Upper City Perimeter",
+        "id": "gur_surveillance_tightens",
+        "delta_action": "update",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Astarion returns to the palace or receives a messenger.",
+        "status": "pending",
+        "player_aware": false,
+        "turn_generated": 6,
+        "actor": "Leon",
+        "action": "Successfully hired two veteran Gloomstalker scouts (Lvl 5) from the Lower City.",
+        "id": "leon_recruitment_start",
+        "outcome": "Your perimeter is now bolstered by elite shadow-operatives.",
+        "location": "Szarr Palace",
+        "delta_action": "update",
+        "event_type": "long_term",
+        "scene_generated": 17
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Astarion"
+    ]
+  },
+  "rumors": [
+    {
+      "content": "A new 'Lord Ancun\u00edn' has recently made a massive deposit at the Counting House, sparking curiosity among the city's elite.",
+      "source_type": "merchant",
+      "related_event": "Astarion's wealth adjustment",
+      "accuracy": "true"
+    },
+    {
+      "content": "Dockworkers at Gray Harbour whisper that the 'Watcher's' influence is growing, with gold flowing into the pockets of Harbour Watch captains.",
+      "source_type": "traveler",
+      "related_event": "The Watcher lead",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Guild is agitated; someone has been moving 'lead-lined' cargo through the sea-gates without paying the usual tolls.",
+      "source_type": "merchant",
+      "related_event": "contingency_shipment",
+      "accuracy": "true"
+    }
+  ],
+  "schema_migration_version": 1,
+  "schema_migrated_at": "2026-06-09T23:06:57.492415+00:00",
+  "session_id": "legacy-migrated-843910cd0a1fcee1",
+  "time_events": {}
+}

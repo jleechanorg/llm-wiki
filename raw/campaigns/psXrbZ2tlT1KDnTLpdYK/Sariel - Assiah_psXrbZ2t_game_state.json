@@ -1,0 +1,69 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "experience": {
+      "current": 1000,
+      "to_next_level": 0,
+      "needed_for_next_level": 900
+    },
+    "followers": null,
+    "xp_current": 1000,
+    "hp_max": 10,
+    "level": 2,
+    "class_features": {
+      "portent": "Roll 2 d20s after long rest to replace future rolls.",
+      "arcane_tradition": "School of Divination",
+      "divination_savant": "Halved time/gold to copy divination spells."
+    },
+    "hp_current": 10,
+    "gold_per_day": null,
+    "experience_to_next_level": null,
+    "xp_to_next": 2700,
+    "resources": {
+      "gold": 10
+    }
+  },
+  "world_data": {
+    "current_location": "Sariel's Chambers, House Arcanus Wing, Zenith Spire, Aeterna."
+  },
+  "npc_data": {},
+  "item_registry": {},
+  "custom_campaign_state": {
+    "completed_missions": [],
+    "last_story_mode_sequence_id": 38,
+    "active_missions": [],
+    "core_memories": [
+      "Sariel, consumed by guilt over her mother's death, seeks purpose by vowing to honor Alexiel's sacrifice, guided by Cressida.",
+      "Sariel discovers the Null Genesis Project, learning her mother, Alexiel, was a hidden magical prodigy whose 'Null' status was a lifelong deception. She uncovers the existence of the 'Joyful Predator' trait within her bloodline, tied to Lucifer's celestial essence.",
+      "Sariel reaches Level 2 (Wizard, School of Divination), gaining Portent and Divination Savant.",
+      "Sariel uncovers records detailing Alexiel's personal development of the Nullification Field and her 'Joyful Predator' trait, realizing her mother was a master of hidden power and deception."
+    ],
+    "arc_milestones": {},
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "active_constraints": [],
+    "attribute_system": "D&D",
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2025-06-27 23:50:05.717000+00:00",
+  "turn_number": 0,
+  "player_turn": 0,
+  "last_living_world_turn": 0,
+  "last_living_world_time": null,
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "migration_status": "MIGRATED"
+}

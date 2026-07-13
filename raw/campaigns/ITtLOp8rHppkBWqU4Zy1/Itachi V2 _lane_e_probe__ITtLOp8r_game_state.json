@@ -1,0 +1,1135 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "cantrips": [
+      {
+        "level": 0,
+        "description": "Produce Flame variant",
+        "name": "Fire Style: Fireball (Small)"
+      },
+      {
+        "name": "Genjutsu: Sharingan Illusion",
+        "description": "Minor Illusion variant",
+        "level": 0
+      }
+    ],
+    "proficiency_bonus": 4,
+    "class_name": "Shinobi (Gestalt Assassin/Gloomstalker)",
+    "mbti": "INTJ",
+    "attributes": {
+      "strength": 10,
+      "charisma": 14,
+      "dexterity": 20,
+      "wisdom": 16,
+      "intelligence": 18,
+      "constitution": 14
+    },
+    "display_name": "Uchiha Itachi",
+    "race": "Uchiha",
+    "alignment": "Neutral Evil",
+    "spells_known": [
+      {
+        "name": "Fire Style: Great Fireball Technique",
+        "description": "Burning Hands variant",
+        "level": 1
+      },
+      {
+        "level": 1,
+        "description": "Identify a target to deal extra 1d6 damage on hits.",
+        "name": "Hunter's Mark"
+      },
+      {
+        "name": "Shadow Clone Technique",
+        "description": "Mirror Image variant",
+        "level": 2
+      },
+      {
+        "name": "Pass Without Trace",
+        "description": "+10 bonus to Stealth checks for the party.",
+        "level": 2
+      },
+      {
+        "name": "Body Flicker Technique",
+        "description": "Misty Step variant",
+        "level": 2
+      },
+      {
+        "level": 3,
+        "description": "Massive burst of flame.",
+        "name": "Fire Style: Dragon Fire Technique"
+      }
+    ],
+    "resources": {
+      "spell_slots": {
+        "level_2": {
+          "used": 0,
+          "max": 3
+        },
+        "level_1": {
+          "used": 0,
+          "max": 4
+        },
+        "level_3": {
+          "used": 0,
+          "max": 3
+        }
+      },
+      "gold": 1500,
+      "mangekyou_clarity": {
+        "used": 0,
+        "max": 3
+      },
+      "hit_dice_current": 11
+    },
+    "experience": {
+      "to_next_level": 15000,
+      "current": 85000,
+      "needed_for_next_level": 100000
+    },
+    "name": "Uchiha Itachi",
+    "base_attributes": {
+      "strength": 10,
+      "intelligence": 18,
+      "dexterity": 20,
+      "wisdom": 16,
+      "charisma": 14,
+      "constitution": 14
+    },
+    "features": [
+      "Extra Attack",
+      "Sneak Attack (3d6)",
+      "Assassinate",
+      "Dread Ambusher",
+      "Umbral Sight",
+      "Uncanny Dodge",
+      "Cunning Action",
+      "3-Tomoe Sharingan",
+      "Expertise (Stealth, Perception, Insight, Investigation)",
+      "Fighting Style: Dueling",
+      "Insightful Defense",
+      "Technique Copy",
+      "Roving (+5ft speed, climb/swim)",
+      "Favored Enemy: Humanoids",
+      "Mangekyou Sharingan (Awakened)",
+      "Evasion",
+      "Iron Mind (CHA Saves)",
+      "Mangekyou Jutsu: Tsukuyomi & Amaterasu",
+      "Reliable Talent (Rogue 11)",
+      "Stalker's Flurry (Gloomstalker 11)",
+      "Sneak Attack (6d6)",
+      "Mangekyou Clarity (3/Rest)",
+      "Mangekyou Prowess: Tsukuyomi",
+      "Mangekyou Prowess: Amaterasu",
+      "Intelligence-Based Casting"
+    ],
+    "hp_max": 88,
+    "level": 11,
+    "knowledge": [
+      "The Mangekyou Sharingan awakens through the trauma of losing the person closest to the user.",
+      "Shisui Uchiha is the current 'anchor' whose severance would trigger Itachi's evolution.",
+      "The Eternal Mangekyou Sharingan requires the transplantation of a kinsman's matured eyes to avoid blindness.",
+      "The death of Shisui Uchiha was the price for the Eye that Sees the Truth."
+    ],
+    "inventory": [
+      {
+        "description": "Stolen Konoha defensive data.",
+        "type": "quest_item",
+        "name": "Stolen Reconnaissance Scroll"
+      },
+      {
+        "damage": "1d6+1 piercing",
+        "type": "weapon",
+        "properties": [
+          "finesse",
+          "light"
+        ],
+        "name": "Riptide's Serrated Tanto"
+      },
+      {
+        "delta_action": "remove",
+        "name": "Stolen Reconnaissance Scroll"
+      }
+    ],
+    "hp_current": 88,
+    "health": {
+      "hp_max": 88,
+      "hp": 88
+    },
+    "skill_proficiencies": {
+      "expertise": [
+        "Stealth",
+        "Perception",
+        "Insight",
+        "Investigation"
+      ],
+      "proficiencies": [
+        "Stealth",
+        "Perception",
+        "Acrobatics",
+        "Insight",
+        "Athletics"
+      ]
+    },
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        },
+        {
+          "equipped": false,
+          "name": "ANBU Mask"
+        },
+        {
+          "equipped": false,
+          "name": "Shinobi Wire"
+        },
+        {
+          "equipped": false,
+          "name": "Smoke Bombs (x3)"
+        }
+      ],
+      "off_hand": null,
+      "main_hand": {
+        "name": "ANBU Tanto",
+        "equipped": true,
+        "type": "weapon",
+        "damage": "1d6+5"
+      },
+      "body": {
+        "equipped": true,
+        "armor_class": 12,
+        "type": "armor",
+        "name": "ANBU Flak Jacket"
+      },
+      "ranged": {
+        "name": "Kunai & Shuriken",
+        "equipped": true,
+        "type": "weapon",
+        "damage": "1d4+5"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 3,
+      "hour": 23,
+      "minute": 35,
+      "time_of_day": "night",
+      "day": 2,
+      "year": 55,
+      "month": 1
+    },
+    "current_location_name": "Naka River Cliffside"
+  },
+  "npc_data": {
+    "Commander_Eagle": {
+      "attitude_to_party": "neutral",
+      "display_name": "Commander Eagle",
+      "entity_type": "npc",
+      "tier": "general",
+      "role": "ANBU Squad Leader",
+      "level": 10
+    },
+    "Owl": {
+      "attitude_to_party": "neutral",
+      "display_name": "Owl",
+      "entity_type": "npc",
+      "tier": "guard",
+      "role": "ANBU Infiltrator",
+      "level": 5
+    },
+    "Tiger": {
+      "attitude_to_party": "antagonistic",
+      "tier": "guard",
+      "relationships": {
+        "player": {
+          "trust_level": -2,
+          "history": [
+            "Expressed vocal doubt about Itachi's age and capability upon first meeting."
+          ]
+        }
+      },
+      "entity_type": "npc",
+      "display_name": "Tiger",
+      "role": "ANBU Veteran",
+      "level": 6
+    },
+    "Shisui Uchiha": {
+      "entity_id": "npc_shisui_001",
+      "status": "dead",
+      "tier": "knight",
+      "display_name": "Shisui Uchiha",
+      "level": 7,
+      "health": {
+        "hp": 0
+      },
+      "role": "ANBU Mentor / Kinsman",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 9,
+          "history": [
+            "Itachi 'exposed' the Root sensor",
+            "Itachi followed Shisui to the Hokage meeting",
+            "Itachi provided the only comfort after Hiruzen's failure"
+          ]
+        }
+      }
+    },
+    "Hozuki Specialist": {
+      "status": "conscious",
+      "health": {
+        "conditions": [
+          "paralyzed",
+          "bound",
+          "captured"
+        ]
+      }
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "sanctuary_mode": {
+      "original_scale": "medium",
+      "expired": true,
+      "scale": "medium",
+      "expires_turn": 25,
+      "active": false,
+      "arc": "Shadows on the Border",
+      "activated_turn": 17,
+      "expired_turn": 42
+    },
+    "active_missions": [
+      {
+        "status": "completed",
+        "mission_id": "mist_border_recon"
+      }
+    ],
+    "character_creation_completed": true,
+    "_agent_selection_tracker": {
+      "count": 1,
+      "rewards_skip_count": 0,
+      "agent": "LevelUpAgent"
+    },
+    "last_location": "Naka River Cliffside",
+    "last_complication_turn": 21,
+    "core_memories": [
+      "The campaign begins during the Itachi Gaiden arc, following Uchiha Itachi's entry into the ANBU Black Ops during a time of rising tension in Konohagakure.",
+      "Uchiha Itachi's character sheet has been generated for the ANBU era, establishing him as a Level 3 Shinobi prodigy with signature Sharingan abilities and elite equipment.",
+      "Uchiha Itachi has been promoted to Level 5, manifesting Extra Attack and advanced Fire Style jutsu as his ANBU training accelerates.",
+      "Itachi has matured his Sharingan to 3-Tomoe and mastered the Gestalt arts of the Assassin and Gloomstalker, making him a Level 5 elite ANBU operative.",
+      "Itachi (Lvl 5) begins his first official mission as an ANBU operative, warned by Shisui (Lvl 7) about the presence of Danzo's Root agents.",
+      "Itachi's entry into Squad Ro is met with overt skepticism from senior operatives like Tiger, though Itachi's Sharingan immediately revealed Tiger's own tactical vulnerabilities.",
+      "Itachi utilized a flawless Body Flicker to silence initial mockery from Squad Ro, asserting his technical mastery despite his age.",
+      "Administrative Note: Level 5 Gestalt (Assassin/Gloomstalker) has been confirmed as the starting power level to reflect Itachi's status as a once-in-a-generation shinobi prodigy.",
+      "Itachi (Lvl 5) successfully analyzed Mist cell tactical data, identifying a Hozuki clan member and a Hunter-nin leader as primary threats in the Valley of the Iron Fern.",
+      "Commander Eagle (Lvl 10) rejected the Thermal Trap strategy in favor of standard ANBU interception protocols, citing a lack of squad trust in Itachi's (Lvl 5) theoretical maneuvers.",
+      "Itachi (Lvl 5) demonstrated the Sharingan's micro-movement precognition to Commander Eagle, shaking the leader's skepticism and dealing 2 Social HP damage.",
+      "Itachi deciphered Shisui's coded message: the Mist Hunter-nin 'Riptide' relies on heartbeat detection, and Root agents are actively shadowing the mission.",
+      "Itachi (Lvl 5) leveraged specific intelligence on the Mist Hunter-nin 'Riptide' to force Commander Eagle to adopt the Thermal Trap strategy.",
+      "Itachi successfully utilized 'Pass Without Trace' and 'Umbral Sight' to scout the Iron Fern Valley and set thermal traps, neutralizing Riptide's heartbeat tracking through environmental mastery.",
+      "Itachi successfully utilized 'Pass Without Trace' and 'Umbral Sight' to time the ambush at the geyser cluster, remaining undetected by Riptide's heartbeat tracking while Root agents observed from the shadows.",
+      "Itachi (Lvl 5) achieved a perfect tactical encirclement of Riptide's (Lvl 6) cell in the Iron Fern Valley by timing the wait for Squad Ro's pincer while masking heartbeats with geothermic noise.",
+      "Itachi successfully executed the Thermal Trap in the Iron Fern Valley, solidifying the Hozuki specialist and critically wounding the Hunter-nin leader Riptide in a surprise ambush.",
+      "Itachi successfully assassinated the Mist Hunter-nin Riptide and retrieved the stolen reconnaissance scroll amidst the chaos of the thermal trap.",
+      "Itachi successfully captured the Hozuki specialist using chakra-sealing wire after the thermal trap rendered them vulnerable.",
+      "Itachi successfully cleared the extraction perimeter and discovered a 'Ne' mark, confirming that Root agents observed the entire combat engagement before withdrawing.",
+      "Correction: The Mist cell was led by Riptide, a Hunter-nin tracking through heartbeats, who was eliminated by Itachi in the Iron Fern Valley during a successful ANBU pincer.",
+      "Itachi successfully delivered the stolen Mist scroll to the ANBU Archive Vault, officially concluding the mission 'Shadows on the Border' and earning a measure of professional respect from his squadmate Tiger.",
+      "Itachi met Shisui at the Naka River following the mission; Shisui revealed the Uchiha clan is finalized coup plans and Fugaku has called a meeting at the Naka Shrine tonight.",
+      "Correction: The Uchiha Rebellion is in a long-term preparatory phase and is narrative-gated until Itachi reaches Tier 3 (Level 11) to ensure lore-accurate resolution power.",
+      "Itachi broached the subject of the Mangekyou Sharingan with Shisui, who reacted with horror and warned that the power is a curse born of despair and tragedy.",
+      "Itachi investigated the stone tablet at Naka Shrine and deciphered fragments mentioning the 'Mangekyou' and its connection to tragedy, before being confronted by a suspicious Yashiro Uchiha.",
+      "Itachi successfully deflected Yashiro Uchiha's suspicion at the Naka Shrine by claiming a search for ancestral strength, though the clan's surveillance of him is intensifying.",
+      "The ancient Uchiha tablet confirms the Mangekyou Sharingan requires the severance of bonds, a truth that deeply disturbs Shisui and reinforces his refusal to guide Itachi toward that power.",
+      "Itachi spent the day in a long rest, during which he deciphered that the Uchiha's 'protests' have mutated into a concrete plan for a coup d'\u00e9tat led by Fugaku.",
+      "Correction: The Naka Shrine meeting is a radicalization catalyst focused on countering village surveillance; any 'strike plans' are currently unapproved draft proposals by the radical faction.",
+      "Itachi attended the Naka Shrine meeting, identifying a Neutral Evil opportunity to manipulate the clan's surveillance sabotage plans for his own private ends.",
+      "Itachi detected a hidden Root sensor tag during the Naka Shrine meeting, realizing that Danzo is monitoring the clan's radicalization in real-time.",
+      "Itachi successfully exposed a hidden Root sensor tag to Fugaku and Shisui during the Naka Shrine meeting, demonstrating superior perception and securing a private audience with the Clan Head.",
+      "Itachi successfully manipulated Fugaku into granting him unsupervised access to the restricted Uchiha Archives under the guise of a security audit following the Root sensor discovery.",
+      "Itachi discovered the Mangekyou's secret in the forbidden scrolls: awakening requires the trauma of losing the person closest to him, identifying Shisui as the necessary sacrifice.",
+      "Itachi attained Level 6, gaining Expertise in Insight and Investigation, and identified Shisui as his 'anchor' whose death is required for the Mangekyou.",
+      "Itachi discovered the secret of the Eternal Mangekyou Sharingan: avoiding eventual blindness requires the transplantation of a kinsman's Mangekyou eyes.",
+      "Itachi successfully executed a synergistic sabotage of the Root sensor network by masking his chakra signature within Shisui's blackout planning, securing operational freedom while deepening Shisui's trust.",
+      "Itachi successfully intercepted and ambushed a Root 'Clean-Up' squad investigating the Naka Shrine sensor failure, lethally eliminating their leader in the opening strike.",
+      "Itachi successfully ambushed a Root Clean-Up squad, eliminating their leader and wounding two agents, but the arrival of the Uchiha Police Force forced a tactical time-pressure.",
+      "Itachi lethally eliminated a Root Clean-Up squad at the Uchiha perimeter, leaving no survivors but creating a ticking clock as the Uchiha Police Force arrived to investigate the scene.",
+      "Itachi successfully framed the Root squad for an unauthorized infiltration of the Uchiha District, escalating the political feud between Danzo and the Clan while securing his own operational shadow.",
+      "Itachi successfully framed Root for an assassination attempt on the Uchiha leadership, triggering a sector-wide mobilization of the Military Police and radicalizing the clan's stance toward the village.",
+      "Itachi successfully shadowed Shisui to a secret meeting with the Third Hokage, utilizing his mastery of stealth to witness the delivery of the forged Root evidence without detection.",
+      "Hiruzen Sarutobi failed to act decisively against Root, isolating Shisui Uchiha and allowing Itachi to position himself as Shisui's sole emotional anchor.",
+      "Itachi successfully manipulated Shisui into a secret two-man pact, independent of village oversight, positioning himself as Shisui's sole anchor and moral authority.",
+      "Itachi successfully executed a synergistic parallel operation, monitoring the Hokage-Danzo confrontation via Shadow Clone while psychologically isolating Shisui Uchiha in a remote safehouse to deepen his despair.",
+      "Itachi moved Shisui to the Naka River cliffside, cold-bloodedly planning a 'Mercy Pact' as a facade to maximize the psychological trauma of his intended betrayal.",
+      "Itachi successfully manipulated Shisui into a suicide pact facade at the Naka River cliffside, bringing his 'anchor' to the brink of total psychological surrender.",
+      "Itachi cold-bloodedly executed Shisui Uchiha via Shadow Clone at the Naka River cliffside, successfully awakening the Mangekyou Sharingan through the deliberate trauma of the bond's severance.",
+      "Itachi attained Level 7, integrating the Mangekyou's power (Evasion, Iron Mind) and identifying the path to the Eternal Mangekyou through the eventual harvest of a kinsman's eyes.",
+      "Itachi has ascended to Level 11 (S-Rank Mastery), integrating the Mangekyou's power and securing Shisui's eyes for the Eternal transplant as the village-wide blackout begins."
+    ],
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "enabled": false,
+      "tutorial_completed": false
+    },
+    "level_up_pending": false,
+    "completed_missions": [],
+    "campaign_tier": "mortal",
+    "god_mode_directives": [
+      {
+        "added": "2026-05-29T05:15:00Z",
+        "rule": "The Uchiha Rebellion/Coup arc is gated until Level 11, but political friction, surveillance events, and clan unrest must occur dynamically in the background."
+      },
+      {
+        "added": "2026-05-29T08:20:00Z",
+        "rule": "Itachi is Neutral Evil, motivated by power acquisition and personal ascension. His actions reflect cold pragmatism over altruism."
+      },
+      {
+        "added": "2026-05-29T08:20:00Z",
+        "rule": "Prodigy Polarization: NPCs react to Itachi with fear, envy, or calculation. His status as a generational genius is a primary source of social friction."
+      }
+    ],
+    "universe_control": 0,
+    "arc_milestones": {
+      "uchiha_unrest": {
+        "progress": 60,
+        "notes": "The primary catalyst for ascension has been achieved; the focus now shifts to the political fallout and the approaching coup.",
+        "phase": "mangekyou_attained",
+        "status": "in_progress"
+      }
+    },
+    "active_constraints": [],
+    "god_mode": {
+      "setting": "Naruto universe. Itachi when he was young and became member anbu. Itachi gaiden arc.",
+      "character": {
+        "name": "Uchiha Itachi"
+      }
+    },
+    "next_companion_arc_turn": 3,
+    "success_streak": 10,
+    "divine_potential": 0,
+    "attribute_system": "D&D",
+    "level_up_in_progress": false,
+    "major_event_pressure_budget": {
+      "new_major_event": false,
+      "rationale": "The political tension is peaking; allowing the Shisui confrontation to be the sole major development of this window for maximum narrative weight.",
+      "window": "24h",
+      "major_events_this_window": 1,
+      "special_circumstances": false
+    },
+    "multiverse_upgrade_available": false,
+    "level_up_stage": null,
+    "level_up_complete": true,
+    "character_creation_stage": "complete",
+    "companion_arcs": {
+      "Shisui Uchiha": {
+        "phase": "development",
+        "arc_type": "homeland_crisis",
+        "progress": 35,
+        "history": [
+          {
+            "event": "Itachi deciphered the full weight of the coup plans during his rest, realizing the clan is moving toward an unavoidable crisis.",
+            "turn": 24
+          }
+        ],
+        "callbacks": [
+          {
+            "trigger": "During a long rest or after the mission",
+            "effect": "Itachi deciphers the full weight of the clan's coup planning.",
+            "triggered": false
+          }
+        ]
+      }
+    },
+    "divine_upgrade_available": false,
+    "character_creation_in_progress": false
+  },
+  "social_hp_challenge": {
+    "social_hp": 2,
+    "roll_dc": 18,
+    "cooldown_remaining": 1,
+    "successes": 4,
+    "roll_result": 22,
+    "request_severity": "submission",
+    "successes_needed": 5,
+    "npc_tier": "lord_general",
+    "social_hp_damage": 2,
+    "status": null,
+    "resistance_shown": "Shisui is weeping, his hands trembling as they hover near his eyes.",
+    "social_hp_max": 8,
+    "objective": "Learn the Mangekyou's Secret",
+    "npc_name": "Shisui Uchiha",
+    "skill_used": "Persuasion"
+  },
+  "combat_state": {
+    "initiative_order": [
+      {
+        "name": "pc_itachi_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_root_agent_002",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_root_agent_003",
+        "initiative": 0,
+        "type": "unknown"
+      }
+    ],
+    "combat_trigger": "Ambush on Root Clean-Up squad",
+    "combat_phase": "idle",
+    "combatants": {
+      "pc_itachi_001": {
+        "hp_current": 48,
+        "hp_max": 48,
+        "status": [],
+        "type": "pc"
+      },
+      "npc_root_agent_002": {
+        "hp_current": 0,
+        "hp_max": 48,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy"
+      },
+      "npc_root_agent_003": {
+        "hp_current": 0,
+        "hp_max": 48,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy"
+      },
+      "npc_hozuki_001": {
+        "hp_current": 30,
+        "hp_max": 45,
+        "status": [
+          "solidified",
+          "wounded",
+          "recovering"
+        ],
+        "type": "enemy"
+      },
+      "npc_root_leader_001": {
+        "hp_current": 0,
+        "hp_max": 45,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy"
+      },
+      "npc_riptide_001": {
+        "hp_current": 0,
+        "hp_max": 65,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy"
+      }
+    },
+    "in_combat": false,
+    "current_round": 1,
+    "rewards_processed": true,
+    "combat_session_id": "combat_1716874200_root",
+    "combat_summary": {
+      "enemies_defeated": [
+        "npc_root_leader_001",
+        "npc_root_agent_002",
+        "npc_root_agent_003"
+      ],
+      "rounds_fought": 1,
+      "outcome": "victory",
+      "xp_awarded": 1000,
+      "loot_distributed": true
+    }
+  },
+  "last_state_update_timestamp": "2026-05-30 02:37:14.664000+00:00",
+  "turn_number": 43,
+  "player_turn": 43,
+  "last_living_world_turn": 42,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "minute": 30,
+    "hour": 23,
+    "time_of_day": "night",
+    "year": 55,
+    "day": 2,
+    "month": 1
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "Post-awakening narrative management at the Uchiha Estate.",
+    "thinking": "I have attained the pinnacle of Tier 2 power, transitioning into the S-Rank mastery of Tier 3. Shisui's eyes are secured, and the blackout provides a temporary shroud for my next move. I must decide whether to begin the delicate work of the Eternal transplant, rest to stabilize my newly evolved chakra, or utilize the blackout to further compromise the village's leadership while they are blind.",
+    "choices": [
+      {
+        "id": "rest_and_stabilize",
+        "text": "Stabilize Chakra (Long Rest)",
+        "risk_level": "safe",
+        "description": "Take a long rest to fully integrate the Level 11 expansion and reset Mangekyou Clarity."
+      },
+      {
+        "text": "Prepare Eternal Procedure",
+        "id": "research_transplant_procedure",
+        "risk_level": "low",
+        "description": "Utilize your high Intelligence to perform a dry run of the transplant surgery on Shisui's eyes to ensure zero rejection."
+      },
+      {
+        "id": "scout_hokage_tower",
+        "text": "Infiltrate Tower (Blackout)",
+        "risk_level": "medium",
+        "description": "Use the village-wide blindness to infiltrate Hiruzen's study and plant further disinformation."
+      },
+      {
+        "id": "parallel_dominance",
+        "text": "Monitor UPF & Prepare Procedure (Synergistic)",
+        "risk_level": "medium",
+        "description": "Use a Shadow Clone to monitor the Police Force search at the river while you begin the medical preparation for the transplant.",
+        "analysis": {
+          "combination_type": "synergistic",
+          "coordination_dc": 15,
+          "dc_modifier": 0,
+          "synergy_bonus": "Real-time surveillance of the search ensures no one approaches the estate during the delicate preparatory phase."
+        }
+      }
+    ]
+  },
+  "world_events": {
+    "turn_generated": 30,
+    "background_events": [
+      {
+        "discovery_condition": "Reaching the valley or successful scouting.",
+        "status": "pending",
+        "player_aware": false,
+        "location": "Iron Fern Valley",
+        "action": "Established a fortified perimeter in the Valley of the Iron Fern.",
+        "player_impact": "Increased difficulty of retrieval if they finish fortifications.",
+        "actor": "Mist Missing-Nin",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "High-level Perception check during travel.",
+        "status": "pending",
+        "player_aware": false,
+        "actor": "Root (Danzo's Agents)",
+        "action": "Shadowing Squad Ro's departure to monitor the Uchiha prodigy's performance.",
+        "player_impact": "Potential interference or 'unforeseen complications' during the mission.",
+        "location": "Konoha Perimeter",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "ANBU Messenger report",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Arrival window shifted 3 hours earlier.",
+        "location": "Iron Fern Valley Approach",
+        "action": "Accelerated march toward the border, bypassing standard rest cycles.",
+        "player_impact": "Requires immediate tactical deployment.",
+        "actor": "Mist Missing-Nin",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Itachi's Sharingan observation",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Observing Itachi's tactical execution and Squad Ro's coordination.",
+        "actor": "Root Agents",
+        "action": "Taking high-ground vantage points around the geyser cluster.",
+        "id": "root_observation_active",
+        "player_impact": "Performance is being recorded for Danzo's archives.",
+        "location": "Western Alcoves - Ridges",
+        "delta_action": "update",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Owl's light signal",
+        "outcome": "Awaiting Weasel's signal to engage.",
+        "player_aware": true,
+        "status": "discovered",
+        "actor": "Squad Ro",
+        "action": "Completed the pincer encirclement of the valley floor.",
+        "id": "squad_ro_ready",
+        "player_impact": "Full tactical support available for the trap.",
+        "location": "Iron Fern Valley Floor",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "is_historical": true,
+        "status": "resolved",
+        "player_aware": true,
+        "outcome": "Mist cell command structure collapsed.",
+        "actor": "Itachi",
+        "action": "Killed Riptide in the geyser cluster.",
+        "id": "riptide_eliminated",
+        "location": "Iron Fern Valley",
+        "turn_generated": 13,
+        "delta_action": "add",
+        "scene_generated": 19,
+        "event_type": "immediate"
+      },
+      {
+        "turn_generated": 13,
+        "outcome": "Detailed report being prepared for Danzo.",
+        "player_aware": true,
+        "status": "discovered",
+        "actor": "Root Agents",
+        "action": "Recording combat statistics of Uchiha Itachi.",
+        "player_impact": "Danzo has completed his initial profile on Itachi's combat efficacy.",
+        "location": "Valley Ridges",
+        "discovery_condition": "Itachi's Sharingan observation",
+        "delta_action": "update",
+        "is_historical": false,
+        "id": "root_data_harvest",
+        "scene_generated": 19,
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Conversation with Shisui or Fugaku.",
+        "status": "pending",
+        "player_aware": false,
+        "actor": "Uchiha Clan Elders",
+        "action": "Convened an emergency meeting to discuss the village's increasing surveillance.",
+        "id": "uchiha_unrest_escalation",
+        "player_impact": "Simmering tension; buys time for power acquisition.",
+        "location": "Uchiha District - Naka Shrine",
+        "delta_action": "update",
+        "event_type": "long_term"
+      },
+      {
+        "turn_generated": 21,
+        "outcome": "Increased difficulty for clan members to leave the district unnoticed.",
+        "player_aware": false,
+        "discovery_condition": "High-level Perception or Sharingan scan during travel.",
+        "actor": "Root Agents",
+        "action": "Establishing a secondary surveillance ring around the Uchiha District's main entrance.",
+        "id": "root_perimeter_surveillance",
+        "location": "Uchiha District Entrance",
+        "status": "pending",
+        "delta_action": "add",
+        "event_type": "long_term",
+        "scene_generated": 31
+      },
+      {
+        "turn_generated": 21,
+        "outcome": "Growing friction between Uchiha officers and village Chunin.",
+        "player_aware": true,
+        "status": "discovered",
+        "actor": "Uchiha Police Force",
+        "action": "Increasing night patrols and civilian checkpoints within the village proper.",
+        "player_impact": "Decreased social HP for village persuasion checks.",
+        "location": "Konoha - Market District",
+        "discovery_condition": "Direct observation or Tiger/Shisui report.",
+        "delta_action": "add",
+        "id": "police_force_mobilization",
+        "scene_generated": 31,
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Visible from the estate windows",
+        "outcome": "Restricted movement for non-Uchiha; high-tension surveillance environment.",
+        "player_aware": true,
+        "status": "discovered",
+        "actor": "Uchiha Military Police",
+        "action": "Established internal district checkpoints.",
+        "player_impact": "Requires stealth to leave the district unnoticed.",
+        "location": "Uchiha District",
+        "event_type": "immediate"
+      },
+      {
+        "turn_generated": 30,
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Root agents will be in a heightened state of aggression near the Uchiha district tonight.",
+        "actor": "Danzo Shimura",
+        "action": "Authorized the deployment of a 'Clean-Up' squad to investigate the Naka Shrine sensor failure.",
+        "player_impact": "Increased risk of direct confrontation if Itachi leaves the district.",
+        "id": "root_intel_purge",
+        "discovery_condition": "Witnessing Root movements or hearing ANBU rumors.",
+        "delta_action": "add",
+        "location": "Root Headquarters",
+        "event_type": "immediate",
+        "scene_generated": 47
+      },
+      {
+        "discovery_condition": "Deep ANBU intel or Danzo's future reaction.",
+        "outcome": "Danzo is alerted that the 'Uchiha Weasel' has likely interfered with the signal.",
+        "player_aware": false,
+        "turn_generated": 27,
+        "actor": "Root Listeners",
+        "action": "Noted the sudden silence and dismissal of the meeting.",
+        "id": "root_sensor_sabotage_reaction",
+        "player_impact": "Danzo's suspicion of Itachi's true loyalty is piqued.",
+        "location": "ANBU Surveillance Hub",
+        "delta_action": "add",
+        "status": "pending",
+        "scene_generated": 41,
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Insight check or heart-to-heart dialogue.",
+        "status": "pending",
+        "player_aware": false,
+        "turn_generated": 27,
+        "actor": "Shisui Uchiha",
+        "action": "Reflecting on Itachi's cold efficiency in exposing the tag.",
+        "id": "shisui_distrust_growth",
+        "player_impact": "Increases Social HP difficulty for Shisui.",
+        "location": "Naka Shrine",
+        "delta_action": "add",
+        "outcome": "Growing fear that Itachi is losing his empathy in the pursuit of power.",
+        "scene_generated": 41,
+        "event_type": "long_term"
+      },
+      {
+        "turn_generated": 30,
+        "outcome": "A potential threat to the coup's security and Itachi's alibi.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Uchiha District",
+        "action": "Considering a secret meeting with the Third Hokage to discuss the clan's radicalization and Itachi's behavior.",
+        "player_impact": "Could lead to the early triggering of the Shisui confrontation.",
+        "id": "shisui_internal_conflict",
+        "actor": "Shisui Uchiha",
+        "delta_action": "add",
+        "discovery_condition": "Investigation or heart-to-heart with Shisui.",
+        "event_type": "long_term",
+        "scene_generated": 47
+      },
+      {
+        "discovery_condition": "Deep ANBU intel or future encounter",
+        "status": "pending",
+        "player_aware": false,
+        "turn_generated": 33,
+        "actor": "Danzo Shimura",
+        "action": "Receives notification of Clean-Up squad failure",
+        "id": "danzo_escalation",
+        "player_impact": "Itachi marked as a high-risk liability to Root operations.",
+        "location": "Root Headquarters",
+        "delta_action": "add",
+        "outcome": "Orders immediate surveillance escalation on Itachi",
+        "scene_generated": 51,
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Hearing shouts and whistles",
+        "status": "discovered",
+        "player_aware": true,
+        "turn_generated": 33,
+        "actor": "Uchiha Police Force",
+        "action": "Approaching perimeter combat zone",
+        "id": "upf_arrival",
+        "player_impact": "Forcing immediate withdrawal or confrontation.",
+        "outcome": "Discovery of Root-ANBU conflict imminent",
+        "delta_action": "add",
+        "location": "Uchiha District Perimeter",
+        "event_type": "immediate",
+        "scene_generated": 51
+      },
+      {
+        "discovery_condition": "Investigation of Root transit routes or high-level ANBU clearance.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Root couriers are utilizing subterranean tunnels to bypass the Uchiha District's heightened surveillance.",
+        "location": "ANBU Sector",
+        "action": "Ordered a full lockdown of the ANBU logistical sector.",
+        "id": "danzo_sector_lockdown",
+        "turn_generated": 36,
+        "actor": "Danzo Shimura",
+        "delta_action": "add",
+        "player_impact": "Explanation for why the courier eluded Itachi's surface-level scan.",
+        "event_type": "long_term",
+        "scene_generated": 54
+      },
+      {
+        "discovery_condition": "Direct witness of the messenger or UPF activity.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "The clan is moving into a state of 'defensive mobilization', preparing for a village-wide blackout.",
+        "location": "Naka Shrine",
+        "action": "Issued an emergency summons to all Police Force Captains.",
+        "id": "fugaku_emergency_summons",
+        "actor": "Fugaku Uchiha",
+        "player_impact": "The alibi window for the 'Sanitization Audit' is closing.",
+        "delta_action": "add",
+        "turn_generated": 36,
+        "scene_generated": 54,
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Shadowing the meeting or hearing ANBU rumors.",
+        "outcome": "Danzo will likely deny involvement and attempt to discredit the evidence.",
+        "player_aware": false,
+        "status": "pending",
+        "actor": "Hiruzen Sarutobi",
+        "action": "Summoned Danzo to a closed-door session to discuss the 'assassination' scroll.",
+        "id": "hokage_danzo_confrontation",
+        "turn_generated": 39,
+        "location": "Hokage Tower - Secret Chamber",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Shadow Clone eavesdropping or ANBU briefing.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Root agents will claim the 'assassination' scroll was a Genjutsu-induced fabrication.",
+        "location": "Root Headquarters",
+        "action": "Briefing Root agents on 'Uchiha psychological warfare' to discredit the stolen scroll.",
+        "id": "danzo_counter_intelligence",
+        "actor": "Danzo Shimura",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Returning to the district or radio interception.",
+        "outcome": "The village-wide blackout is now a 'Go' for midnight unless Shisui returns.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Uchiha District",
+        "action": "Confirming all relay sabotage teams are in position.",
+        "id": "clan_blackout_ready",
+        "actor": "Uchiha Clan Elders",
+        "delta_action": "update",
+        "event_type": "immediate"
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Uchiha Itachi"
+    ]
+  },
+  "rumors": [
+    {
+      "content": "The Kirigakure missing-nin are seeking an ancient sealing scroll hidden in the borderlands.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A high-ranking Uchiha has been meeting secretly with the Hidden Mist.",
+      "source_type": "guard",
+      "related_event": "Clan tensions",
+      "accuracy": "false"
+    },
+    {
+      "content": "A crimson light has been seen haunting the western ridges, moving faster than the wind.",
+      "source_type": "traveler",
+      "related_event": "Itachi's Body Flicker movement",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Mist cell is carrying a scroll that can rewrite the defensive wards of Konoha.",
+      "source_type": "noble",
+      "related_event": "Shadows on the Border",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Weasel' of Squad Ro is a ghost that heartbeats cannot find.",
+      "source_type": "commoner",
+      "related_event": "Riptide's tracking failure",
+      "accuracy": "true"
+    },
+    {
+      "content": "Danzo is looking for a new 'Sword of Root' among the Uchiha children.",
+      "source_type": "noble",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Squad Ro returned from the border with a high-value prisoner; the 'prodigy' is credited with the catch.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Mist is preparing a diplomatic protest over the 'Iron Fern Incident'.",
+      "source_type": "noble",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Third Hokage is considering a formal reprimand of the Police Force for excessive patrolling.",
+      "source_type": "noble",
+      "related_event": "police_force_mobilization",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A high-ranking ANBU was seen meeting with Shisui Uchiha near the river at dawn.",
+      "source_type": "commoner",
+      "related_event": "Itachi/Shisui meeting",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Uchiha Police are 'training' for a village-wide disaster response, but their formations look like urban combat drills.",
+      "source_type": "commoner",
+      "related_event": "UPF mobilization",
+      "accuracy": "true"
+    },
+    {
+      "content": "Danzo has requested a private audience with the Third Hokage following the dusk reports.",
+      "source_type": "noble",
+      "related_event": "Uchiha surveillance",
+      "accuracy": "true"
+    },
+    {
+      "content": "A shipment of high-grade shinobi wire meant for the Police Force was intercepted by ANBU for 'inspection'.",
+      "source_type": "guard",
+      "related_event": "Logistical friction",
+      "accuracy": "true"
+    },
+    {
+      "content": "The ANBU Archives are being purged of 'redundant' clan history.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A black crow was seen perched atop the Naka Shrine for three consecutive nights.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "The shadows of the district are shifting; some say the 'Weasel' has turned into a ghost that eats Root agents.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Hokage has called for an emergency session regarding the Uchiha's 'night drills'.",
+      "source_type": "noble",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A high-ranking Root agent was found with an unauthorized Uchiha hit-list.",
+      "source_type": "guard",
+      "related_event": "Root ambush framing",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Shisui the Teleporter has been seen meeting with the Third Hokage's personal guard.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Naka River is said to be haunted by the spirits of those who betrayed their blood.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    }
+  ],
+  "schema_migration_version": 1,
+  "time_events": {
+    "Naka Shrine Meeting": {
+      "time_remaining": "3.5 hours",
+      "changes_this_turn": "Main body dismissed; private session with leadership initiated.",
+      "status": "restricted",
+      "new_consequences": "The 'Slow-Burn' radicalization is momentarily halted by the security breach discovery."
+    },
+    "Blackout Execution": {
+      "time_remaining": "30 minutes",
+      "changes_this_turn": "Sabotage teams have reached their targets.",
+      "status": "imminent",
+      "new_consequences": "Konoha's external communications will be severed at midnight."
+    },
+    "mission_intercept": {
+      "time_remaining": "Immediate",
+      "changes_this_turn": "Targets entered the kill zone.",
+      "status": "ongoing",
+      "new_consequences": "The window for the thermal trap is now open."
+    }
+  },
+  "schema_migrated_at": "2026-05-27T12:19:50.143434+00:00",
+  "session_id": "legacy-migrated-e17a1fe874a9058f",
+  "frozen_plans": {},
+  "faction_updates": {
+    "Mist Missing-Nin": {
+      "progress": "70% - Entered the Valley chokepoint.",
+      "player_standing_change": "None",
+      "resource_change": "None",
+      "next_action": "Proceed through the geyser cluster.",
+      "current_objective": "Reach the border with stolen data."
+    },
+    "Uchiha Police Force": {
+      "resource_change": "Searchlights deployed; heavy gear distributed",
+      "player_standing_change": "Seeking 'Weasel' for tactical debrief",
+      "progress": "Perimeter locked; radicalization spike (+40%)",
+      "next_action": "Initiate full-district surveillance blackout",
+      "current_objective": "Secure the District from Root 'Assassins'"
+    },
+    "Squad Ro": {
+      "progress": "In position.",
+      "player_standing_change": "Increasing professional respect (conditional on success).",
+      "resource_change": "None",
+      "next_action": "Execute pincer strike.",
+      "current_objective": "Retrieve stolen scroll and eliminate cell."
+    },
+    "Uchiha Clan": {
+      "progress": "Perimeter sweeps initiated",
+      "player_standing_change": "Elders expect a demonstration of loyalty from the 'prodigy'.",
+      "resource_change": "Police Force on high alert",
+      "next_action": "Execute sabotage at midnight",
+      "current_objective": "Establish surveillance blackout"
+    },
+    "Root": {
+      "resource_change": "-1 Elite Squad (Eliminated)",
+      "player_standing_change": "Priority: Alpha (Neutralization Authorized)",
+      "progress": "Withdrawing to subterranean hubs",
+      "next_action": "Deploy specialized sensors to track 'Weasel' signature",
+      "current_objective": "Contain information leak and secure Clean-Up failure"
+    }
+  }
+}

@@ -1,0 +1,498 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "health": {
+      "hp_max": 49,
+      "hp": 49
+    },
+    "skill_proficiencies": {
+      "proficiencies": [
+        "Athletics",
+        "Persuasion",
+        "Stealth",
+        "Insight"
+      ]
+    },
+    "class_name": "Dark Paladin (Sovereign Caster)",
+    "background": "Noble (Youngest Daughter of House Vespera)",
+    "entity_id": "pc_nocturne_001",
+    "display_name": "Nocturne",
+    "attributes": {
+      "strength": 10,
+      "dexterity": 16,
+      "intelligence": 16,
+      "wisdom": 10,
+      "charisma": 18,
+      "constitution": 14
+    },
+    "proficiency_bonus": 3,
+    "race": "Nephilim",
+    "gender": "Female",
+    "core_memories": [
+      "Nocturne has adopted the path of the Dark Paladin, utilizing medium armor and shadow-based magic to complement his stealth and prodigy-level combat skills.",
+      "Nocturne maintains a 'Mundane Facade' to hide his Demon-Goddess hybrid nature, as revealing his true power is visually explosive and socially polarizing.",
+      "Nocturne\u2019s Dark Paladin class now includes a Mythic Ascension path starting at Level 16, drawing on Pathfinder-style angel/demon mechanics while maintaining a low-magic facade for early levels.",
+      "Nocturne is a 16-year-old military prodigy and Sergeant in the Holy Knights under Kivia.",
+      "Nocturne's ancestry is a secret mix of demon, human, and goddess, granting her the Celestial-Abyssal Surge power.",
+      "Nocturne has access to the 'Legend' mythic path, a choice that allows her to reject her divine/abyssal bloodline in favor of mortal perfection, granting massive stat boosts and extra feats.",
+      "Nocturne possesses the 'Tri-Path Essence,' granting her passive benefits of Angel, Demon, and Legend bloodlines regardless of her future primary path.",
+      "Nocturne has finalized her path as a DEX-based Dark Paladin, enhancing her strikes with maskable Abyssal Claws and ascending to a Charisma of 19.",
+      "Nocturne has refined her physical and mental attributes to a state of peak symmetrical perfection, focusing her prodigious talents on grace, intellect, and overwhelming presence.",
+      "Nocturne is the youngest daughter of House Vespera and secretly a bastard Nephilim, a truth protected by her mentor Kivia.",
+      "Nocturne has officially entered the battle at Crimson Vales as a Level 5 Dark Paladin, keeping her Nephilim nature secret while serving under Kivia.",
+      "Nocturne Vespera, a Level 5 Dark Paladin and secret Nephilim of House Vespera, has begun her service at the Crimson Vales under Lord Commander Kivia while hiding her true heritage.",
+      "a truth known only to Nocturne and her mother; Lord Commander Kivia is completely unaware of her Nephilim blood.",
+      "Sergeant Nocturne (Lvl 5) has been ordered by Lord Commander Kivia to anchor the buckling center of the Holy Knight formation at the Battle of Crimson Vales.",
+      "Sergeant Nocturne successfully executed a surgical finesse strike at the Crimson Vales, killing an Ink-Fleshed Centurion (Lvl 6) and momentarily halting the breach.",
+      "House Vespera",
+      "Nocturne has ascended to a Sovereign Caster variant of the Dark Paladin, gaining full casting progression and access to the entire Cleric spell library."
+    ],
+    "name": "Nocturne",
+    "experience": {
+      "needed_for_next_level": 14000,
+      "current": 13300,
+      "to_next_level": 700
+    },
+    "resistances": [
+      "Radiant",
+      "Fire"
+    ],
+    "base_attributes": {
+      "strength": 10,
+      "dexterity": 16,
+      "intelligence": 16,
+      "wisdom": 10,
+      "charisma": 18,
+      "constitution": 14
+    },
+    "resources": {
+      "gold": 692,
+      "spell_slots": {
+        "level_2": {
+          "used": 0,
+          "max": 3
+        },
+        "level_1": {
+          "used": 0,
+          "max": 4
+        },
+        "level_3": {
+          "used": 0,
+          "max": 2
+        }
+      },
+      "class_features": {
+        "lay_on_hands_pool": {
+          "used": 0,
+          "max": 25
+        }
+      }
+    },
+    "spells_prepared": [
+      {
+        "level": 1,
+        "name": "Shield of Faith"
+      },
+      {
+        "level": 1,
+        "name": "Thunderous Smite"
+      },
+      {
+        "level": 2,
+        "name": "Pass Without Trace"
+      },
+      {
+        "level": 2,
+        "name": "Darkness"
+      }
+    ],
+    "hp_max": 49,
+    "features": [
+      "Mundane Facade",
+      "Dual Heritage Surge (1/LR)",
+      "Shadow Smite",
+      "Aura of Shadows (10ft)",
+      "Mythic Path: Legend/Angel/Demon (Unlock at 16)",
+      "Legendary Potency (Legend Path exclusive)",
+      "Dual Feat Mastery: Gain 1 Standard + 1 Heritage feat at milestones",
+      "Tri-Path Essence: Angelic Resistance (Radiant), Demonic Taint (1d4 Fire/Necrotic), Mortal Excellence (+1 Saves)",
+      "Abyssal Claws: +1d6 Necrotic damage to weapon attacks; can be hidden via Mundane Facade.",
+      "ASI: +2 Charisma",
+      "Sovereign Weaving: Full Caster progression; access to full Cleric and Paladin spell lists; use CHA for all spells."
+    ],
+    "level": 5,
+    "hp_current": 49,
+    "age": 16,
+    "knowledge": [
+      "Secret: Nocturne is a bastard daughter of a Nephilim father.",
+      "Status: Lord Commander Kivia believes Nocturne is a standard human noble prodigy of House Vespera."
+    ],
+    "cantrips": [
+      "Sun-Bolt",
+      "Thaumaturgy"
+    ],
+    "active_effects": [
+      "Mundane Facade: Advantage on Deception to hide magical nature",
+      "Polarizing Prodigy: Advantage on Persuasion, but difficult to hide near allies"
+    ],
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        }
+      ],
+      "armor": {
+        "equipped": true,
+        "ac": 14,
+        "stealth_disadvantage": false,
+        "type": "medium_armor",
+        "name": "High-Grade Breastplate"
+      },
+      "off_hand": {
+        "equipped": true,
+        "ac_bonus": 2,
+        "type": "shield",
+        "name": "Holy Knight Shield"
+      },
+      "main_hand": {
+        "damage": "1d8+4",
+        "equipped": true,
+        "type": "weapon",
+        "bonus": 1,
+        "name": "Masterwork Longsword"
+      },
+      "ranged": {
+        "damage": "2d8",
+        "equipped": true,
+        "damage_type": "radiant",
+        "type": "racial_ability",
+        "name": "Sun-Bolt"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 1,
+      "minute": 36,
+      "hour": 12,
+      "time_of_day": "midday",
+      "year": 1492,
+      "day": 1,
+      "month": "Hammer"
+    },
+    "current_location_name": "Ravine Bed - Crimson Vales"
+  },
+  "npc_data": {
+    "Kivia": {
+      "relationships": {
+        "player": {
+          "history": [
+            "Challenged her views on Xylo's sentence"
+          ]
+        }
+      }
+    },
+    "Lord Commander Kivia": {
+      "attitude_to_party": "friendly",
+      "role": "Holy Order Commander",
+      "tier": "king_ancient",
+      "level": 15
+    },
+    "Xylo": {
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_xylo_001",
+      "status": "conscious",
+      "display_name": "Xylo",
+      "tier": "king_ancient",
+      "level": 20,
+      "role": "Convict Hero",
+      "relationships": {
+        "player": {
+          "trust_level": 2,
+          "history": [
+            "Acknowledged his skill with genuine respect"
+          ]
+        }
+      }
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "arc_milestones": {},
+    "active_constraints": [],
+    "god_mode": {
+      "setting": "Play as Nocturne. Anime is sentenced to be a hero. I\u2019m a sergeant working under Kivia in holy knights. I\u2019m a mix of demon human and goddess but my ancestry is a secret. It should give me special power. Start in the battle where Kivia meets Xylo and start me at level 5. I\u2019m 16 years old and extremely good looking and considered a military prodigy which is polarizing",
+      "character": {
+        "name": "Nocturne"
+      }
+    },
+    "next_companion_arc_turn": 3,
+    "success_streak": 5,
+    "_agent_selection_tracker": {
+      "count": 1,
+      "agent": "GodModeAgent",
+      "rewards_skip_count": 4
+    },
+    "character_creation_completed": true,
+    "last_location": "Ravine Bed - Crimson Vales",
+    "core_memories": [
+      "Nocturne is a 16-year-old military prodigy and Sergeant in the Holy Knights under Kivia.",
+      "Nocturne's ancestry is a secret mix of demon, human, and goddess, granting him the Celestial-Abyssal Surge power.",
+      "Nocturne has access to the 'Legend' mythic path, a choice that allows him to reject his divine/abyssal bloodline in favor of mortal perfection, granting massive stat boosts and extra feats.",
+      "Nocturne possesses the 'Tri-Path Essence,' granting him passive benefits of Angel, Demon, and Legend bloodlines regardless of his future primary path.",
+      "Nocturne has finalized his path as a DEX-based Dark Paladin, enhancing his strikes with maskable Abyssal Claws and ascending to a Charisma of 19.",
+      "Nocturne has refined his physical and mental attributes to a state of peak symmetrical perfection, focusing his prodigious talents on grace, intellect, and overwhelming presence.",
+      "Nocturne is the youngest daughter of House Aethelgard and secretly a bastard Nephilim, a truth protected by her mentor Kivia.",
+      "Nocturne has officially entered the battle at Crimson Vales as a Level 5 Dark Paladin, keeping her Nephilim nature secret while serving under Kivia.",
+      "Nocturne Aethelgard, a Level 5 Dark Paladin and secret Nephilim of House Aethelgard, has begun her service at the Crimson Vales under Lord Commander Kivia while hiding her true heritage.",
+      "a truth known only to Nocturne and her mother; Lord Commander Kivia is completely unaware of her Nephilim blood.",
+      "Sergeant Nocturne (Lvl 5) has been ordered by Lord Commander Kivia to anchor the buckling center of the Holy Knight formation at the Battle of Crimson Vales.",
+      "Sergeant Nocturne successfully executed a surgical finesse strike at the Crimson Vales, killing an Ink-Fleshed Centurion (Lvl 6) and momentarily halting the breach.",
+      "Sergeant Nocturne successfully flanked the shadow-host's secondary line at Crimson Vales, severely wounding a Hive-Harvester and learning of the Silver Veil's breach.",
+      "Sergeant Nocturne and her squad successfully executed a pincer strike to destroy the Hive-Harvester at the ravine flank, temporarily routing the local shadow-host forces.",
+      "Sergeant Nocturne successfully reinforced the center at the Crimson Vales, impressing both Lord Commander Kivia and the Level 20 Hero Xylo with her lethal grace.",
+      "Correction: Xylo is a Convict Hero and a powerful ally of the Holy Order; Nocturne intervened to save him and Kivia by slaughtering the Shadow-Host's elite vanguard, not Xylo's own forces.",
+      "Sergeant Nocturne publicly showed respect to the Convict Hero Xylo, successfully challenging Lord Commander Kivia's rigid perception of his criminality.",
+      "Sergeant Nocturne successfully defended Xylo's past actions to Kivia, revealing the truth of the Blight-corruption he averted and shattering Xylo's cynical isolation.",
+      "Nocturne successfully bridged the gap between Kivia's rigid law and Xylo's reality, forcing a joint tactical briefing where Xylo revealed a ritualistic summoning threat.",
+      "Nocturne used her Sovereign Weaving and tactical genius to identify three ritual anchors at the fallen watchtowers, uncovering a summoning ritual fueled by the Silver Veil.",
+      "Lord Commander Kivia has formally accepted Nocturne's 'Triple Strike' tactical plan, effectively granting Xylo independent agency for the first time in his sentence.",
+      "Investigation revealed the Shadow-Host is specifically chanting Nocturne's name, referring to her as the 'Void-Seed' while they conduct the summoning ritual.",
+      "Nocturne successfully led her squad through a high-risk stealth infiltration of the ravine, identifying that the Shadow-Host is hunting her specifically as the 'Void-Seed'.",
+      "Nocturne has identified that she can consume the energy of the shadow-anchors to power up her Nephilim nature, potentially at the cost of her 'Mundane Facade'."
+    ],
+    "divine_potential": 0,
+    "attribute_system": "D&D",
+    "major_event_pressure_budget": {
+      "new_major_event": true,
+      "special_circumstances": true,
+      "window": "24h",
+      "major_events_this_window": 2,
+      "rationale": "The ritual initiation and the strategic pivot to the Triple Strike represent the battle's climax."
+    },
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "campaign_tier": "mortal",
+    "character_creation_in_progress": false,
+    "multiverse_upgrade_available": false,
+    "character_creation_stage": "complete",
+    "companion_arcs": {},
+    "divine_upgrade_available": false,
+    "universe_control": 0
+  },
+  "social_hp_challenge": {
+    "social_hp": 2,
+    "roll_dc": 18,
+    "cooldown_remaining": 0,
+    "social_hp_damage": 2,
+    "status": "WAVERING",
+    "roll_result": 22,
+    "request_severity": "favor",
+    "social_hp_max": 8,
+    "npc_tier": "lord_general",
+    "objective": "Soften stance on Xylo's sentence",
+    "skill_used": "Persuasion",
+    "npc_name": "Lord Commander Kivia"
+  },
+  "combat_state": {
+    "in_combat": false,
+    "combat_phase": "ended",
+    "combat_summary": {
+      "enemies_defeated": [
+        "Hive-Harvester (Lvl 7)",
+        "Shadow-Lurkers (routed)"
+      ],
+      "rounds_fought": 2,
+      "xp_awarded": 750,
+      "loot_distributed": true
+    }
+  },
+  "last_state_update_timestamp": "2026-06-06 06:30:25.777000+00:00",
+  "turn_number": 41,
+  "player_turn": 41,
+  "last_living_world_turn": 41,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 1,
+    "hour": 12,
+    "minute": 36,
+    "time_of_day": "midday",
+    "day": 1,
+    "year": 1492,
+    "month": "Hammer"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "",
+    "thinking": "The user is querying an XP discrepancy. My audit shows the tally is correct (13,300), incorporating all narrative victories and a Prodigy-tier starting baseline. I am offering a manual override to Level 6 to ensure the player's sense of progression matches their expectations.",
+    "choices": [
+      {
+        "id": "god_grant_700_xp",
+        "text": "Grant +700 XP (Reach Level 6)",
+        "risk_level": "safe",
+        "description": "Sets your XP exactly to 14,000, immediately triggering the Level 6 Level-Up flow."
+      },
+      {
+        "id": "god_keep_current_xp",
+        "text": "Maintain Current XP (13,300)",
+        "risk_level": "safe",
+        "description": "Proceed with your current total and earn the final 700 XP through the upcoming battle for the remaining anchors."
+      },
+      {
+        "id": "god_return_story",
+        "text": "Return to Story",
+        "risk_level": "low",
+        "description": "Exit God Mode and resume the conversation with Corporal Elian at the West Anchor site.",
+        "switch_to_story_mode": true
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Nocturne"
+    ]
+  },
+  "rumors": [
+    {
+      "content": "The Silver Veil has been breached at the southern pass; we are being encircled.",
+      "source_type": "commoner",
+      "related_event": "silver_veil_breach",
+      "accuracy": "true"
+    },
+    {
+      "content": "The shadow-host is hunting for a 'traitor of the blood' within our ranks.",
+      "source_type": "guard",
+      "related_event": "shadow_host_name_shouting",
+      "accuracy": "partial"
+    }
+  ],
+  "schema_migration_version": 1,
+  "schema_migrated_at": "2026-06-06T03:57:49.299520+00:00",
+  "session_id": "legacy-migrated-c39f6e74d3185c52",
+  "faction_updates": {
+    "The Holy Order": {
+      "resource_change": "Mage units deployed to Northern Rise",
+      "player_standing_change": "Kivia's reliance on Nocturne has shifted from mentorship to tactical dependence",
+      "progress": "Commencing maneuvers",
+      "next_action": "Bombardment of North Tower",
+      "current_objective": "Execute Triple Strike Coordination"
+    }
+  },
+  "world_events": {
+    "background_events": [
+      {
+        "discovery_condition": "Dying knight's report",
+        "status": "discovered",
+        "player_aware": true,
+        "turn_generated": 31,
+        "actor": "Shadow-Host Vanguard",
+        "action": "Breached the Silver Veil pass",
+        "player_impact": "Limits retreat options and increases pressure on the center",
+        "location": "Southern Vales",
+        "outcome": "Holy Order forces are being systematically encircled",
+        "delta_action": "add",
+        "id": "silver_veil_breach",
+        "event_type": "long_term",
+        "scene_generated": 18
+      },
+      {
+        "discovery_condition": "Visible light from Nocturne's position",
+        "status": "resolved",
+        "player_aware": true,
+        "turn_generated": 31,
+        "actor": "Lord Commander Kivia",
+        "resolved_turn": 31,
+        "player_impact": "Draws Xylo's main attention, allowing Nocturne to operate on the periphery",
+        "location": "Central Rise",
+        "action": "Unleashed 'Saint's Wrath'",
+        "delta_action": "add",
+        "outcome": "Incinerated 50+ minor shadow-lurkers",
+        "id": "kivia_radiance_push",
+        "event_type": "immediate",
+        "scene_generated": 18
+      },
+      {
+        "discovery_condition": "Visible changes in the sky",
+        "status": "pending",
+        "player_aware": true,
+        "outcome": "The sky above the Vales begins to turn an oily violet",
+        "actor": "Shadow-Host Coven",
+        "action": "Accelerated the summoning ritual",
+        "player_impact": "Increases time pressure for the Triple Strike",
+        "id": "shadow_ritual_acceleration",
+        "location": "Watchtower Anchors",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Corporal Elian's report",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Soldiers are becoming unnerved by the specific target focus",
+        "actor": "Shadow-Host Vanguard",
+        "action": "Shouting a specific name during their advance",
+        "player_impact": "Hints at a hidden plot targeting an individual",
+        "id": "shadow_host_name_shouting",
+        "location": "Ravine Perimeter",
+        "delta_action": "add",
+        "event_type": "long_term"
+      }
+    ]
+  }
+}

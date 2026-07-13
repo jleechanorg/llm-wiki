@@ -1,0 +1,149 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "ep_current": 11,
+    "hp_current": 49,
+    "inventory": {
+      "gold": 350,
+      "items": {
+        "spider_silk_glands": {
+          "description": "Two glands containing strong, elastic spider silk, harvested from Giant Spiders. Useful for specialized crafting.",
+          "quantity": 2,
+          "name": "Giant Spider Silk Glands"
+        },
+        "spider_venom_sacs": {
+          "description": "Two sacs of potent, viscous venom, harvested from Giant Spiders. Highly poisonous.",
+          "quantity": 2,
+          "name": "Giant Spider Venom Sacs"
+        }
+      }
+    },
+    "xp_current": 330,
+    "fatigue_level": 0,
+    "experience": {
+      "current": 330,
+      "needed_for_next_level": 630,
+      "to_next_level": 570
+    }
+  },
+  "world_data": {
+    "locations": {
+      "shadowfen_moor": {
+        "ancient_ruin": {
+          "status": "Discovered",
+          "description": "A crumbling, cyclopean stone structure, half-swallowed by the bog and choked with ancient vines, emanating a peculiar internal pulse and hinting at immense age and forgotten power."
+        },
+        "spider_farmstead": {
+          "status": "Discovered",
+          "description": "An abandoned, overgrown farmstead deep within Shadowfen Moor, now heavily infested with large, sticky spiderwebs. Presence of Giant Spiders suspected."
+        }
+      }
+    }
+  },
+  "npc_data": {
+    "corvan": {
+      "status": "Uncuffed but forced to assist Gladius with 'cleanup' of contract."
+    },
+    "giant_spider_1": {
+      "level": 3,
+      "hp_current": 0,
+      "status": "Defeated",
+      "defense": 14,
+      "hp_max": 26,
+      "name": "Giant Spider 1"
+    },
+    "giant_spider_2": {
+      "level": 3,
+      "hp_current": 0,
+      "status": "Defeated",
+      "defense": 14,
+      "hp_max": 26,
+      "name": "Giant Spider 2"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "last_story_mode_sequence_id": 221,
+    "core_memories": [
+      "Gladius signaled Corvan to begin cleanup at the Miller farmhouse and then conducted a thorough, but ultimately unfruitful, search of the house for further valuables.",
+      "Gladius proceeded to the Blackwood Cottages, his next target in Greenmeadow.",
+      "Gladius scouted the Blackwood Cottages, observing their isolated nature and lack of obvious defenses.",
+      "Gladius secured the entry and exit points of the Blackwood cottage, then prepared his Silent Strangler's Cord for eliminations.",
+      "Gladius silently located the sleeping Blackwood family members within their secured cottage.",
+      "Gladius silently eliminated the two Blackwood family members using the Silent Strangler's Cord, ensuring a clean kill.",
+      "Gladius signaled Corvan to begin cleanup at the Blackwood Cottages after eliminating the family.",
+      "Gladius performed a quick, fruitless search of the Blackwood Cottage for valuables after eliminating the family.",
+      "Gladius proceeded to the Stonehand Dwelling, his final target in Greenmeadow.",
+      "Gladius scouted the Stonehand Dwelling, observing its central location, early morning activity, and lack of obvious stealth approach.",
+      "Gladius created a new, noisy diversion near the Stonehand Dwelling to draw attention away from his infiltration.",
+      "Gladius observed the Stonehand family's reaction to his diversion, noting their confusion and the pattern of their investigation.",
+      "Gladius infiltrated the Stonehand Dwelling, exploiting his diversion while the family was distracted.",
+      "Gladius secured the entry and exit points of the Stonehand Dwelling to ensure no witnesses could escape or interfere, while the family was distracted by his diversion.",
+      "Gladius prepared the Silent Strangler's Cord and then silently located the remaining Stonehand family members within their secured dwelling.",
+      "Gladius's core dynamic stats (Level, XP, HP, EP, Gold) were explicitly initialized in the game state for accurate tracking.",
+      "Gladius's XP was corrected to 60, reflecting prior family eliminations.",
+      "Gladius considered a brutal plan for the Stonehand family: eliminate two members, take one child hostage, and use them to lure the outside couple back inside for a final, controlled slaughter.",
+      "Gladius silently eliminated two Stonehand family members inside the dwelling, then took one child hostage, preparing to lure the outside couple back for a final, controlled slaughter.",
+      "Gladius knocked out, tied, and gagged the Stonehand child, securing the hostage for his plan to lure the parents.",
+      "Gladius prepared the Stonehand dwelling for the final slaughter, hiding his greatsword and readying his cord to ensure a controlled elimination of the returning couple.",
+      "Gladius used the Stonehand child hostage to lure the parents back into the dwelling for a controlled elimination.",
+      "Gladius intimidated the Stonehand couple, threatening their child to ensure their compliance for a controlled slaughter.",
+      "Gladius bound the Stonehand couple, further securing them for controlled elimination.",
+      "Gladius issued demands to the bound Stonehand couple, further asserting his dominance before their elimination.",
+      "Gladius intensified the threat against the Stonehand child, holding them where the bound parents could see, to force information and deepen their terror.",
+      "Gladius received no useful information from the Stonehand couple despite intensifying the threat against their child. They remained broken but silent.",
+      "Gladius silently eliminated the Stonehand child with the cord, deepening the parents' despair before their own elimination.",
+      "Gladius silently eliminated the remaining two Stonehand parents, completing the Greenmeadow contract's eliminations and reaching 11 souls eliminated.",
+      "Gladius signaled Corvan to begin cleanup at the Stonehand Dwelling.",
+      "Gladius conducted a thorough search of the Stonehand Dwelling, finding 30 gold, before leaving.",
+      "Gladius began assisting with the cleanup of the Stonehand dwelling due to daylight urgency, anticipating harassing Corvan for delays.",
+      "Gladius cuffed Corvan, asserting physical control and deepening his humiliation.",
+      "Gladius conducted a thorough search of the Stonehand Dwelling, finding nothing further of value, while Corvan began cleanup.",
+      "Gladius uncuffed Corvan with a contemptuous 'joke', then proceeded to personally confirm Sheriff Borin's incapacitation.",
+      "Gladius departed Greenmeadow, having completed the contract and confirmed Sheriff Borin's incapacitation.",
+      "Gladius took a long rest and recalibrated after the Greenmeadow contract, then began seeking new opportunities in the local region.",
+      "Gladius observed the abandoned spider-infested farmstead in Shadowfen Moor, noting the web patterns and signs of the creatures responsible.",
+      "Gladius set a simple lure at the abandoned spider-infested farmstead, using iron rations as bait, and positioned himself for an ambush.",
+      "Gladius prepared a specific ambush point at the spider-infested farmstead, anticipating the creatures' reaction to his lure.",
+      "Gladius initiated combat with two Giant Spiders from ambush, using a Perfected Strike on the first, securing a surprise round.",
+      "Gladius defeated Giant Spider 1 with a second attack from his Greatsword, gaining 140 XP.",
+      "Gladius defeated Giant Spider 2 with a Great Weapon Master bonus action, gaining 90 XP, completing the spider encounter.",
+      "Gladius harvested venom sacs and silk glands from the defeated Giant Spiders in Shadowfen Moor.",
+      "Gladius conducted a thorough, but ultimately fruitless, search of the abandoned spider-infested farmstead.",
+      "Gladius explored Shadowfen Moor further, finding no immediate opportunities but experiencing the raw wildness.",
+      "Gladius delved deeper into Shadowfen Moor, discovering a crumbling, cyclopean stone structure emanating a peculiar internal pulse, hinting at ancient, forgotten power."
+    ],
+    "arc_milestones": {},
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "active_constraints": [],
+    "attribute_system": "D&D",
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2025-06-23 06:35:04.383000+00:00",
+  "turn_number": 0,
+  "player_turn": 0,
+  "last_living_world_turn": 0,
+  "last_living_world_time": null,
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "migration_status": "NO_LEGACY_DATA",
+  "world_time": {
+    "second": 0,
+    "minute": 0,
+    "hour": 11
+  }
+}

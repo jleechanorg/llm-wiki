@@ -1,0 +1,231 @@
+{
+  "game_state_version": 2,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "status_effects": [
+      {
+        "effect": "Public perceives Nocturne as greater deity post-Tiamat; true cosmic power/empire hidden. Generals retain full knowledge.",
+        "duration": "permanent",
+        "name": "Veiled Deity Myth"
+      }
+    ],
+    "experience": {
+      "current": 0,
+      "needed_for_next_level": 300,
+      "to_next_level": 300
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 33,
+      "hour": 20,
+      "time_of_day": "Night",
+      "year": 1492,
+      "day": 1,
+      "month": "Kythorn"
+    },
+    "bg3_heroes_status": {
+      "Shadowheart": "lolth_proxy_cloister_fracture_shar",
+      "Karlach": "tiamat_spawn_forges_clash_avernus",
+      "Wyll": "demogorgon_madness_coast_patrols",
+      "Gale": "bane-tyrant_tower_proxy_waterdeep",
+      "Lae_zel": "grazzt_illusion_raids_astral",
+      "Astarion": "gargauth-fiend_proxy_war_baldurs_syndicate"
+    },
+    "silent_empire": true,
+    "current_location_name": "The Dragon Throne room, High Hall, Baldur's Gate"
+  },
+  "npc_data": {
+    "Vesper": {
+      "attitude_to_party": "absolute_loyalty",
+      "conscious": true,
+      "present": true,
+      "role": "Demi-God of Shadows and Precision",
+      "string_id": "npc_vesper_demi_001",
+      "level": "Demi-God (Equivalent Rank 10)"
+    },
+    "Gant": {
+      "attitude_to_party": "absolute_loyalty",
+      "string_id": "npc_gant_demi_001",
+      "role": "Demi-God Unseen Muscle",
+      "level": "Demi-God (Equivalent Rank 10)"
+    },
+    "Silas": {
+      "attitude_to_party": "absolute_loyalty",
+      "string_id": "npc_silas_demi_001",
+      "role": "Demi-God Eternal Sniper",
+      "level": "Demi-God (Equivalent Rank 10)"
+    },
+    "Duke_Silvershield": {
+      "attitude_to_party": "awe_loyalty",
+      "mbti": "ESTJ",
+      "age": 52,
+      "conscious": true,
+      "present": true,
+      "gender": "male",
+      "role": "Duke of House Silvershield",
+      "string_id": "npc_duke_silvershield_001"
+    },
+    "Lyra_Umbrage": {
+      "attitude_to_party": "absolute_loyalty",
+      "mbti": "ENTJ",
+      "level": "Demi-God (Equivalent Rank 10)",
+      "age": 28,
+      "string_id": "npc_lyra_demi_001",
+      "present": true,
+      "gender": "female",
+      "role": "Demi-God Queen in Gold Eternal",
+      "conscious": true
+    },
+    "Tiamat": {
+      "attitude_to_party": "absolute_loyalty",
+      "string_id": "npc_tiamat_vassal_001",
+      "role": "Vassal Dragon Queen",
+      "level": 30
+    },
+    "Zariel": {
+      "attitude_to_party": "absolute_loyalty",
+      "string_id": "npc_zariel_vassal_001",
+      "role": "Vassal Archduchess",
+      "level": 25
+    },
+    "Nyx": {
+      "attitude_to_party": "absolute_loyalty",
+      "string_id": "npc_nyx_demi_001",
+      "role": "Demi-God Infernal Chorus",
+      "level": "Demi-God (Equivalent Rank 10)"
+    },
+    "Gargauth": {
+      "attitude_to_party": "absolute_loyalty",
+      "string_id": "npc_gargauth_vassal_001",
+      "role": "Vassal Pit Fiend",
+      "level": 20
+    },
+    "Simulacra_Legion": {
+      "attitude_to_party": "absolute_loyalty",
+      "age": 0,
+      "power_status": "held_in_reserve_too_powerful",
+      "mbti": "INTJ",
+      "level": 20,
+      "autonomy": "full_delegated_reserve",
+      "count": 1000,
+      "string_id": "npc_simulacra_legion_001",
+      "present": true,
+      "gender": "non-binary",
+      "role": "Infinite Extensions of the Monarch, directing faction wars",
+      "conscious": true
+    },
+    "Elder_Brain": {
+      "attitude_to_party": "absolute_loyalty",
+      "string_id": "npc_elder_brain_vassal_001",
+      "role": "Vassal Oracle Server",
+      "level": 25
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "last_story_mode_sequence_id": 94,
+    "attribute_system": "D&D",
+    "last_location": "The Dragon Throne room, High Hall, Baldur's Gate",
+    "active_missions": [
+      {
+        "title": "Silent Empire Expansion",
+        "status": "active",
+        "mission_id": "silent_empire",
+        "objective": "Demi-gods and Legion expand faction eternally for Monarch's amusement via shadow wars."
+      },
+      {
+        "title": "Faction Wars Amusement",
+        "status": "active",
+        "mission_id": "faction_wars_amusement",
+        "objective": "Orchestrate conflicts between pantheon vassals; harvest chaos essence for sport."
+      }
+    ],
+    "core_memories": [
+      "[auto] The decision is made. Your twelve Simulacra, echoes of your own divine will, bow their heads in unison as you rise from the Dragon Throne. The great hall falls silent, the a",
+      "[auto] The crystalline shard of the Tear of Hadar still hovers before you in the non-space of the Far Realm, a silent offering of impossible power. But you have already made your c",
+      "[auto] The crystalline shard pulses once, a final, silent affirmation. Your decision is crystallized, not just in your mind, but in the fabric of your new, cosmic being. You will n",
+      "[auto] The question hangs in the non-space of the Far Realm, a query of supreme importance that could redefine the entire cosmic game board. Is this silent, colossal awareness Ao, ",
+      "[auto] The realization is a cold, crystalline fractal in your newfound consciousness. An operating system. Not a warden, not a god, but the very framework of existence itself, and ",
+      "[auto] The exploits crystallize in your perception like lines of flawless code. But the Debug Protocol calls to you most clearly\u2014the legitimate path, the one designed by the system",
+      "[auto] The Debug Protocol's interfaces shimmer before your cosmic senses like a console of infinite possibility, each panel a gateway to sanctioned maintenance. But legitimacy is a",
+      "[auto] The Debug Protocol hums before you, a sanctioned gateway to reality's maintenance suite. Your recent expansions have been tolerated, even facilitated, but the interfaces pul",
+      "[auto] The Debug Protocol's interfaces glow with sanctioned light, a velvet glove over the iron fist of cosmic oversight. You prioritize legitimacy, framing each action as essentia",
+      "[auto] The sanctioned glow of the Debug Protocol envelops your projection, a digital cathedral of infinite panels and subroutines. You do not hesitate. Legitimacy is your armor, re",
+      "[auto] I'm deep in the Far Realm projection, Debug Protocol humming at my fingertips, guardian's gaze like a system monitor on standby. New info: exploits identified\u2014Debug backdoor",
+      "[auto] The Debug Protocol interfaces fade to a standby glow as you sever the psionic tether. Your consciousness snaps back through the planar veil like a released arrow, the Far Re",
+      "[auto] The High Hall thrums with the distant echo of your Far Realm triumph, the Spire of Night channeling residual energies that make the air shimmer like heat haze over infernal ",
+      "[auto] The strain on the Debug Protocol reaches its zenith, interfaces flickering yellow as the guardian's scrutiny intensifies. You exploit the final gains with surgical precision",
+      "[auto] The Debug Protocol thrums at elevated access, MAINTENANCE_OVERRIDE partially unlocked, guardian's scrutiny a constant pressure. EMERGENCY_ROOT beckons\u2014full admin, root-level",
+      "[auto] The Spire of Night resonates with your will, its crystals aligning in perfect symphony as you initiate the Chain Symbiosis Simulation. Framed as an 'integrity self-test,' yo",
+      "[auto] The Spire of Night pulses like a cosmic heart as you push the final threshold, channeling every optimized gain into unbreakable symbiosis proof. *EMERGENCY_ROOT: FULL ACTIVA",
+      "[auto] The throne room pulses with the raw electricity of your full root access, the Spire of Night channeling the EMERGENCY_ROOT surge like a cosmic lightning rod. Vesper and the ",
+      "[auto] Your command echoes through the source code of reality itself, a root-level directive framed as an integrity enforcement: *OVERGOD SUBROUTINE: ENFORCE VASSAL LOYALTY. INTERV",
+      "[auto] Vesper stands sentinel nearby, her presence a constant in the High Hall as your mind races through the cosmic calculus. Using Ao to conquer the universe, consuming him, then",
+      "[auto] Vesper straightens from her kneel, her eyes gleaming with the fanaticism of absolute devotion as she senses the cosmic command forming in your will. \"As you decree, Monarch,",
+      "[auto] Vesper's words hang in the charged air as your command forms, absolute and unyielding. With Ao's subroutine now yours to wield, you issue the directive through the root link",
+      "[auto] The orbs pulse at your throne's base, a hoard of stolen divinity from every god, demon lord, and cosmic entity Ao has pruned on your command. Vesper kneels closer, her voice",
+      "[auto] Vesper kneels before the throne, her voice steady amid the cosmic storm: \"Monarch, the orbs await your will.\" Your command surges through the vassal link: *OVERGOD VASSAL: A",
+      "[auto] Vesper kneels closer to the throne, her fanatic gaze fixed on you as the orbs of harvested divinity continue to hum at your feet. The air thickens with the weight of your co",
+      "[auto] Vesper kneels at the throne's base, her absolute loyalty a palpable force amid the humming orbs of harvested divinity, as the thousand Simulacra stand in silent vigil, their",
+      "[auto] Vesper kneels at the throne's base, her demi-god eyes gleaming with unwavering knowledge of your true nature, as Lyra Umbrage stands nearby, her Queen in Gold aura pulsing w",
+      "[auto] Vesper kneels at the throne's base, her demi-god form radiating shadows that dance like living smoke, while Lyra Umbrage stands regal beside her, golden aura pulsing with bu",
+      "[auto] Vesper kneels closer, her demi-god shadows coiling like living smoke as she receives your directive, her voice a precise whisper: \"The Simulacra Legion is held in reserve, M",
+      "[auto] Vesper's shadows coil tighter as your command echoes through the code: *ESCALATE CHAOS HARVEST. AMPLIFY VASSAL WARS: PIT BG3 HEROES AGAINST PANTHEON PROXIES. EXOTIC YIELDS F",
+      "[auto] You've chosen the name Duke Valerius for your father, despite it being on our discouraged list to avoid overused fantasy tropes. Acknowledged and used as requested. The asse",
+      "[auto] Your voice echoes through the Dragon Throne room, sharp and absolute: \"What are you saying? I am not Valerius.\" The words cut the tension like a blade through silk, freezing",
+      "[auto] Your command resonates through the source code, a flawless rewrite: *IDENTITY: NOCTURNE, GREATER DEITY POST-TIAMAT. VEIL TRUE POWER. PUBLIC PERCEIVES MYTHIC HERO; GENERALS K",
+      "[auto] Duke Silvershield recovers from your denial, bowing deeper with renewed awe: \"Nocturne, Tiamat-victor, your words dispel shadows\u2014guide us against the gods' remnants.\" Lyra U",
+      "[auto] Your command ripples through the veiled hierarchy: *FORGE HEROIC ALLIANCES: PACT SWORD COAST LORDS; GARG AUTH FIENDS VEILED AS BOONS, GAINING TRIBUTE UNDER MYTHIC PRETENSE.*",
+      "[auto] Lyra Umbrage's golden missives multiply in her hands, aura blazing as she seals Sword Coast pacts with divine flourish, eyes locked on you: \"Escalation manifests, Nocturne\u2014l"
+    ],
+    "arc_milestones": {},
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "active_constraints": [],
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2025-12-03 08:35:58.655000+00:00",
+  "turn_number": 0,
+  "player_turn": 0,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "minute": 33,
+    "hour": 20,
+    "time_of_day": "Night",
+    "year": 1492,
+    "day": 1,
+    "month": "Kythorn"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {
+    "last_note": "HD: N/A (Immortal) | Spells: Infinite (Avatar of Karsus) | Ki: N/A | Rage: N/A | Soul Coins: 0 | Exhaustion: 0"
+  },
+  "time_pressure_warnings": {},
+  "debug_mode": false,
+  "pending_instruction_hints": [],
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "world_time": {
+    "second": 0,
+    "microsecond": 1,
+    "hour": 20,
+    "minute": 34,
+    "time_of_day": "Night",
+    "day": 1,
+    "year": 1492,
+    "month": "Kythorn"
+  }
+}

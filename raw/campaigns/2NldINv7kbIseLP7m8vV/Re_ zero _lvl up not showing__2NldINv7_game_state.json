@@ -1,0 +1,719 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "hp_current": 18,
+    "spells_known": [
+      {
+        "description": "Curse a creature to deal extra damage.",
+        "name": "Hex",
+        "level": 1
+      },
+      {
+        "description": "Counter-attack with shadows when damaged.",
+        "name": "Hellish Rebuke",
+        "level": 1
+      },
+      {
+        "description": "Summon a frosty shield of shadows.",
+        "name": "Armor of Agathys",
+        "level": 1
+      }
+    ],
+    "active_effects": [
+      "True Foresight: Permanent advantage on attack rolls, ability checks, and saving throws. Enemies have disadvantage on attacks against you.",
+      "Unnatural Allure: Transcendent beauty grants a narrative bonus to all social interactions and seduction attempts."
+    ],
+    "display_name": "Natsumi",
+    "base_attributes": {
+      "intelligence": 14,
+      "dexterity": 16,
+      "wisdom": 10,
+      "constitution": 14,
+      "strength": 8,
+      "charisma": 16
+    },
+    "cantrips": [
+      {
+        "description": "A beam of crackling shadow energy.",
+        "name": "Eldritch Blast",
+        "level": 0
+      },
+      {
+        "description": "An invisible spectral hand (Unseen Hand).",
+        "name": "Mage Hand",
+        "level": 0
+      }
+    ],
+    "name": "Natsumi",
+    "attributes": {
+      "intelligence": 14,
+      "dexterity": 16,
+      "wisdom": 10,
+      "constitution": 14,
+      "strength": 8,
+      "charisma": 16
+    },
+    "class_name": "Shadow Scion (Warlock)",
+    "hp_max": 18,
+    "health": {
+      "hp": 18,
+      "temp_hp": 5,
+      "hp_max": 18
+    },
+    "gender": "Female",
+    "proficiency_bonus": 2,
+    "race": "Human (Otherworlder)",
+    "armor_proficiencies": [
+      "Light armor",
+      "Medium armor",
+      "Shields"
+    ],
+    "features": [
+      "True Foresight (Permanent Foresight Spell Effects)",
+      "Return by Death",
+      "Witch Scent",
+      "Unseen Hand (Invisible Mage Hand)",
+      "Transcendent Beauty",
+      "Hex Warrior (CHA for weapon attacks, Medium Armor/Shield/Martial Weapon proficiency)",
+      "Hexblade's Curse (Bonus action curse, extra damage, crit 19-20, heal on kill)",
+      "Invocation: Agonizing Blast (+CHA mod to Eldritch Blast damage)",
+      "Invocation: Fiendish Vigor (False Life at will)"
+    ],
+    "resources": {
+      "gold": 25,
+      "spell_slots": {
+        "level_1": {
+          "max": 2,
+          "used": 1
+        }
+      }
+    },
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "name": "Backpack",
+          "stats": null
+        },
+        {
+          "equipped": false,
+          "name": "Bedroll",
+          "stats": null
+        },
+        {
+          "equipped": false,
+          "name": "Mess kit",
+          "stats": null
+        },
+        {
+          "equipped": false,
+          "name": "Tinderbox",
+          "stats": null
+        },
+        {
+          "equipped": false,
+          "name": "Torch",
+          "stats": "10"
+        },
+        {
+          "equipped": false,
+          "name": "Rations",
+          "stats": "10 days"
+        },
+        {
+          "equipped": false,
+          "name": "Waterskin",
+          "stats": null
+        },
+        {
+          "equipped": false,
+          "name": "Rope",
+          "stats": "50 feet"
+        },
+        {
+          "equipped": false,
+          "name": "Coin pouch",
+          "stats": "10gp"
+        },
+        {
+          "equipped": false,
+          "name": "Broken Kukri Fragment",
+          "stats": "Tainted with Elsa's blood; potential ritual component"
+        },
+        {
+          "equipped": false,
+          "name": "Small Sapphire",
+          "stats": "Worth 50gp"
+        }
+      ],
+      "off_hand": {
+        "equipped": true,
+        "name": "Shield",
+        "ac_bonus": 2,
+        "type": "shield"
+      },
+      "main_hand": {
+        "equipped": true,
+        "damage": "1d6+2",
+        "name": "Shortsword",
+        "type": "weapon"
+      },
+      "ranged": {
+        "equipped": true,
+        "damage": "1d10",
+        "name": "Eldritch Blast",
+        "type": "spell"
+      }
+    },
+    "entity_id": "pc_natsumi_001",
+    "level": 2,
+    "skill_proficiencies": {
+      "proficiencies": [
+        "Persuasion",
+        "Deception",
+        "Intimidation",
+        "Performance"
+      ]
+    },
+    "experience": {
+      "needed_for_next_level": 900,
+      "to_next_level": 0,
+      "current": 1000
+    }
+  },
+  "world_data": {
+    "current_location_name": "The Slums - Old Man Rom's Loot House",
+    "world_time": {
+      "year": 1492,
+      "month": "Mirtul",
+      "microsecond": 1,
+      "hour": 14,
+      "minute": 5,
+      "time_of_day": "afternoon",
+      "day": 10,
+      "second": 0
+    }
+  },
+  "npc_data": {
+    "npc_elsa_001": {
+      "status": "Retreated",
+      "health": {
+        "hp": 3
+      }
+    },
+    "Puck": {
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "history": [
+            "Witnessed Natsumi attempting to use dark magic on Elsa's blood."
+          ],
+          "trust_level": -1
+        }
+      }
+    },
+    "npc_felt_001": {
+      "display_name": "Felt",
+      "tier": "commoner",
+      "status": "restrained",
+      "health": {
+        "hp": 12,
+        "hp_max": 12
+      },
+      "level": 2
+    },
+    "npc_reinhard_001": {
+      "hp_current": 224,
+      "level": 20,
+      "status": [
+        "Divine Protections",
+        "Sword Saint",
+        "Survivor"
+      ],
+      "features": [
+        "Sword Saint's Absolute Strike: Attacks automatically hit and deal critical damage. Damage ignores all resistances, immunities, and regeneration effects."
+      ],
+      "tier": "king_ancient",
+      "combat_stats": {
+        "critical_threshold": 1,
+        "attack_bonus": 30,
+        "ac": 22,
+        "damage_modifier": 100,
+        "attacks_per_action": 4,
+        "proficiency": 6,
+        "initiative": 5
+      },
+      "attributes": {
+        "intelligence": 14,
+        "dexterity": 20,
+        "charisma": 18,
+        "constitution": 20,
+        "strength": 20,
+        "wisdom": 16
+      },
+      "hp_max": 224
+    },
+    "npc_puck_001": {
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "history": [
+            "Detected the Scent of the Witch on Natsumi.",
+            "Acknowledged Natsumi's beauty."
+          ],
+          "trust_level": -1
+        }
+      },
+      "level": 5,
+      "display_name": "Puck",
+      "tier": "god"
+    },
+    "npc_emilia_001": {
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "history": [
+            "Natsumi intercepted the thief and recovered the insignia."
+          ],
+          "trust_level": 1
+        }
+      },
+      "level": 1,
+      "display_name": "Emilia",
+      "tier": "noble"
+    },
+    "Reinhard van Astrea": {
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "history": [
+            "Observed Natsumi's strange behavior post-combat."
+          ],
+          "trust_level": -1
+        }
+      }
+    },
+    "Emilia": {
+      "hp_current": 35,
+      "gender": "Female",
+      "entity_type": "npc",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "history": [
+            "Insignia recovered",
+            "Natsumi admitted her 'curse' and lack of home",
+            "Accepted Natsumi as a trial retainer"
+          ],
+          "trust_level": 4
+        }
+      },
+      "race": "Half-Elf",
+      "alignment": "Neutral Good",
+      "display_name": "Emilia",
+      "attitude_to_party": "friendly",
+      "mbti": "ISFJ",
+      "entity_id": "npc_emilia_001",
+      "tier": "noble",
+      "level": 5,
+      "class_name": "Spirit Arts User",
+      "hp_max": 35
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "universe_control": 0,
+    "character_creation_completed": true,
+    "_agent_selection_tracker": {
+      "rewards_skip_count": 0,
+      "agent": "RewardsAgent",
+      "count": 1
+    },
+    "last_location": "The Slums - Old Man Rom's Loot House",
+    "character_creation_stage": "complete",
+    "player_character_data_extras": {
+      "weapon_proficiencies": [
+        "Simple weapons",
+        "Martial weapons"
+      ]
+    },
+    "faction_minigame": {
+      "strong_suggestion_given": false,
+      "suggestion_given": false,
+      "tutorial_completed": false,
+      "tutorial_progress": {},
+      "enabled": false
+    },
+    "major_event_pressure_budget": {
+      "major_events_this_window": 1,
+      "rationale": "The confrontation with Elsa Granhiert is a major campaign milestone and combat climax for the first arc.",
+      "window": "24h",
+      "special_circumstances": true,
+      "new_major_event": true
+    },
+    "level_up_pending": false,
+    "level_up_in_progress": false,
+    "divine_upgrade_available": false,
+    "level_up_stage": "final_review",
+    "attribute_system": "D&D",
+    "character_creation_in_progress": false,
+    "multiverse_upgrade_available": false,
+    "divine_potential": 0,
+    "completed_missions": [
+      "the_lost_insignia"
+    ],
+    "companion_arcs": {
+      "Emilia": {
+        "history": [
+          {
+            "event": "Natsumi saves Emilia's insignia, establishing an immediate but complicated bond.",
+            "turn": 3
+          }
+        ],
+        "arc_type": "prophetic_destiny",
+        "phase": "discovery",
+        "progress": 5
+      }
+    },
+    "core_memories": [
+      "Natsumi is a Shadow Scion summoned from another world; she serves as Emilia's knight/support, while Emilia remains the Royal Selection candidate.",
+      "Natsumi has been granted 'True Foresight' by the Witch, granting her permanent advantage on rolls and imposing disadvantage on enemies.",
+      "Natsumi's attributes were adjusted to STR 8, DEX 16, INT 14, CON 14, WIS 10, CHA 16, and her starting gold was set to 0 to reflect being summoned with nothing.",
+      "Natsumi arrived in the Capital of Lugnica with nothing but her tracksuit and gear, her destiny now entwined with Emilia's through the Witch's favor.",
+      "Natsumi successfully used her foresight and meta-knowledge to intercept Emilia in the Capital's back alleys immediately after the theft of the insignia.",
+      "Natsumi has finalized her summoning as a Level 1 Shadow Scion with True Foresight, starting her journey in Lugnica with no gold but a sharp mind and lightning reflexes.",
+      "Natsumi possesses transcendent beauty and master-tier social skills, granting her supernatural influence over others in the Kingdom of Lugnica.",
+      "Natsumi used her Unseen Hand to stall Felt's escape while making first contact with Emilia and Puck in the capital's back alleys.",
+      "Natsumi used her Unseen Hand to successfully restrain Felt at the end of the alley, securing the stolen insignia for Emilia.",
+      "Natsumi successfully retrieved the stolen insignia using her Unseen Hand and returned it to Emilia, but Puck remains deeply suspicious of the Witch's scent clinging to her.",
+      "Natsumi admitted the 'curse' of her scent to Puck and Emilia, successfully de-escalating Puck's hostility through a display of vulnerability and her transcendent allure.",
+      "Natsumi identified Felt's client as Elsa Granhiert (the Bowel Hunter) and used meta-knowledge of Felt's secrets to prove her 'foresight,' though this spiked Puck's suspicion.",
+      "Natsumi finalized her evolution into a Level 2 Shadow Scion, embracing the Hexblade path to augment her prophetic foresight with deadly martial power.",
+      "Emilia's combat capability and spiritual resonance have been recognized as Level 5, reflecting her true power as a Royal Selection candidate.",
+      "Natsumi attempted to secure a position as Emilia's knight by citing her lack of resources, but Puck's suspicion caused a flat rejection of the formal title.",
+      "Puck offered to pay for Natsumi's lodging and food as thanks for the insignia, but firmly rejected her immediate request to become Emilia's knight.",
+      "Natsumi successfully proposed a 'trial retainer' service to Puck and Emilia, de-escalating the spirit's hostility with a Natural 20 Persuasion check.",
+      "Natsumi convinced Emilia and Puck to seek out a knight's assistance, specifically targeting Reinhard van Astrea based on her prophetic foresight of the Bowel Hunter's threat.",
+      "Natsumi and her group were intercepted by the thugs Ton, Chin, and Kan in the Central Market Square while unsuccessfully searching for Reinhard van Astrea.",
+      "Natsumi successfully used her Transcendent Beauty and a strategic shout to summon Reinhard van Astrea to the Central Market Square, neutralizing the thugs and securing the Sword Saint's attention.",
+      "Natsumi proved Felt is the fifth Royal Candidate by having her hold the insignia in front of Reinhard van Astrea, successfully recruiting the Sword Saint to protect Emilia.",
+      "Natsumi briefed Reinhard on Elsa Granhiert's regenerative powers and 'Bowel Hunter' style, successfully convincing the Sword Saint to accept her prophetic foresight as a vital guide for the candidates' protection.",
+      "Natsumi attempted to ambush Elsa Granhiert at the Loot House using disguises and foresight, but the group was detected and Elsa initiated a confrontation.",
+      "Natsumi orchestrated a counter-ambush against Elsa Granhiert at the Loot House, using Reinhard to protect Rom and Felt after the Bowel Hunter's lethal arrival was detected via foresight.",
+      "Natsumi coordinated a counter-ambush against Elsa Granhiert, invoking a Hexblade curse and spectral armor while directing the Sword Saint to intercept the assassin.",
+      "Natsumi coordinated a focus fire attack on Elsa Granhiert, successfully restraining her with the Unseen Hand while Reinhard, Emilia, and Puck dealt significant damage.",
+      "Natsumi's Unseen Hand successfully restrained Elsa Granhiert while Reinhard, recalibrated to his full Sword Saint potential, delivered two devastating strikes that bypassed her immediate defenses.",
+      "Natsumi coordinated a devastating focus-fire assault on Elsa Granhiert at the Loot House, bringing the Bowel Hunter to the brink of defeat while she remained restrained by the Unseen Hand.",
+      "Natsumi coordinated a devastating focus-fire assault on Elsa Granhiert at the Loot House, bringing the Bowel Hunter to the brink of defeat and forcing her into a tactical retreat while securing the safety of Emilia and Felt.",
+      "Natsumi attempted to secretly absorb Elsa Granhiert's essence after the battle, but failed and alerted Puck and Reinhard to her dark warlock capabilities."
+    ],
+    "arc_milestones": {},
+    "active_missions": [],
+    "active_constraints": [],
+    "success_streak": 0,
+    "campaign_tier": "mortal",
+    "next_companion_arc_turn": 5,
+    "god_mode": {
+      "setting": "Re:zero anime follow the lore. I wanna be the main character but make me female ",
+      "character": {
+        "name": "Natsumi"
+      }
+    },
+    "level_up_complete": false
+  },
+  "social_hp_challenge": {
+    "request_severity": "information",
+    "skill_used": "Persuasion",
+    "successes_needed": 5,
+    "social_hp_max": 6,
+    "objective": "Secure the Sword Saint's assistance and validate Felt's candidacy.",
+    "roll_result": 20,
+    "npc_tier": "knight",
+    "social_hp_damage": 2,
+    "roll_dc": 15,
+    "npc_name": "Reinhard van Astrea",
+    "resistance_shown": "Reinhard is momentarily overwhelmed by the revelation but accepts the call to duty.",
+    "cooldown_remaining": 1,
+    "successes": 1,
+    "social_hp": 4,
+    "status": "WAVERING"
+  },
+  "combat_state": {
+    "combat_phase": "ended",
+    "current_round": 2,
+    "initiative_order": [
+      {
+        "name": "npc_elsa_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_reinhard_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_puck_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "pc_natsumi_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_emilia_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_felt_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_rom_001",
+        "initiative": 0,
+        "type": "unknown"
+      }
+    ],
+    "round_number": 2,
+    "combatants": {
+      "npc_elsa_001": {
+        "hp_current": 12,
+        "hp_max": 230,
+        "status": [
+          "Restrained",
+          "Hexed",
+          "Critical"
+        ],
+        "type": "enemy"
+      },
+      "pc_natsumi_001": {
+        "hp_current": 18,
+        "hp_max": 18,
+        "status": [],
+        "type": "pc"
+      },
+      "npc_puck_001": {
+        "hp_current": 100,
+        "hp_max": 100,
+        "status": [],
+        "type": "ally"
+      },
+      "npc_emilia_001": {
+        "hp_current": 110,
+        "hp_max": 110,
+        "status": [],
+        "type": "ally"
+      },
+      "npc_reinhard_001": {
+        "hp_current": 224,
+        "hp_max": 224,
+        "status": [],
+        "type": "ally"
+      },
+      "npc_rom_001": {
+        "hp_current": 60,
+        "hp_max": 60,
+        "status": [],
+        "type": "npc"
+      },
+      "npc_felt_001": {
+        "hp_current": 13,
+        "hp_max": 13,
+        "status": [],
+        "type": "npc"
+      }
+    },
+    "combat_session_id": "combat_1718181600_loot",
+    "combat_summary": {
+      "xp_awarded": 180,
+      "enemies_defeated": [
+        "npc_elsa_001"
+      ],
+      "loot_distributed": true,
+      "rounds_fought": 2
+    },
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2026-06-13 00:28:47.062000+00:00",
+  "turn_number": 21,
+  "player_turn": 21,
+  "last_living_world_turn": 18,
+  "last_living_world_time": {
+    "year": 1492,
+    "month": "Mirtul",
+    "microsecond": 0,
+    "minute": 58,
+    "hour": 13,
+    "time_of_day": "afternoon",
+    "day": 10,
+    "second": 30
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "world_events": {
+    "background_events": [
+      {
+        "turn_generated": 3,
+        "delta_action": "update",
+        "player_impact": "Creates a lethal threat at the next mission location.",
+        "actor": "Elsa Granhiert",
+        "outcome": "She is prepared to 'negotiate' for the insignia and eliminate witnesses.",
+        "event_type": "immediate",
+        "location": "The Slums",
+        "id": "elsa_arrival_setup",
+        "action": "Enters the slums, checking the perimeter of Rom's Loot House.",
+        "scene_generated": 11,
+        "status": "pending",
+        "discovery_condition": "Natsumi arrives at the Loot House or Elsa strikes.",
+        "player_aware": false
+      },
+      {
+        "outcome": "They begin setting up observation wards to track the 'Witch's Scent'.",
+        "delta_action": "add",
+        "action": "Vanguard scouts reach the outskirts of the slums.",
+        "actor": "The Witch Cult",
+        "event_type": "long_term",
+        "player_impact": "Escalates the threat level for future turns.",
+        "is_historical": false,
+        "location": "Slum Perimeter",
+        "id": "witch_cult_stirring",
+        "status": "pending",
+        "discovery_condition": "Natsumi uses Arcana or Detect Magic in the slums.",
+        "player_aware": false
+      },
+      {
+        "turn_generated": 9,
+        "delta_action": "update",
+        "player_impact": "The party can now attempt a surprise counter-ambush.",
+        "actor": "Elsa Granhiert",
+        "outcome": "She is waiting for Felt or the owner of the insignia to arrive.",
+        "event_type": "immediate",
+        "location": "The Slums",
+        "id": "elsa_loot_house_overwatch",
+        "action": "Takes up a sniping position on a rooftop overlooking the Loot House.",
+        "scene_generated": 23,
+        "status": "discovered",
+        "discovery_condition": "Natsumi's foresight reveals Elsa's exact position on the rooftop.",
+        "player_aware": false
+      },
+      {
+        "turn_generated": 9,
+        "delta_action": "add",
+        "outcome": "He is currently occupied but remains in the area.",
+        "actor": "Reinhard van Astrea",
+        "event_type": "immediate",
+        "action": "Assisting a lost child in the central market square.",
+        "location": "Central Market",
+        "id": "reinhard_patrol_duty",
+        "scene_generated": 23,
+        "status": "discovered",
+        "discovery_condition": "Felt's knowledge and Natsumi's foresight.",
+        "player_aware": true
+      },
+      {
+        "turn_generated": 15,
+        "delta_action": "add",
+        "action": "A Gospel update informs Petelgeuse that the 'Shadow Scion' is actively interfering with Elsa's contract.",
+        "actor": "The Witch Cult",
+        "outcome": "The Cult begins to reposition agents to observe Natsumi.",
+        "location": "Lugnica Capital",
+        "id": "witch_cult_detection",
+        "scene_generated": 30,
+        "status": "pending",
+        "event_type": "long_term",
+        "player_aware": false
+      }
+    ]
+  },
+  "schema_migrated_at": "2026-06-12T06:10:17.346758+00:00",
+  "planning_block": {
+    "context": "Post-combat interrogation and loot gathering",
+    "thinking": "The attempt to absorb Elsa's essence failed, and I've piqued the suspicion of both Puck and Reinhard. I need to pivot the conversation back to the immediate success of the mission and the safety of the group to repair the social damage. The loot found by Felt provides a good distraction.",
+    "choices": [
+      {
+        "risk_level": "low",
+        "text": "Prioritize Safety",
+        "description": "Downplay your interest in the blood and suggest moving everyone to a safer location immediately before Elsa's 'employer' sends more help.",
+        "id": "deflect_to_safety"
+      },
+      {
+        "risk_level": "high",
+        "text": "Explain the Shadow Magic",
+        "description": "Try to explain to Puck that your magic requires proximity to 'dark' elements to function, attempting to frame the soul-consumption as a necessary part of your 'curse'.",
+        "id": "explain_power"
+      },
+      {
+        "risk_level": "medium",
+        "text": "Check on Old Man Rom",
+        "description": "Ignore the suspicion and focus on the NPCs. Use your Transcendent Beauty to ensure Rom remains a loyal contact in the slums.",
+        "id": "recruit_rom"
+      }
+    ]
+  },
+  "schema_migration_version": 1,
+  "entity_tracking": {
+    "active_entities": [
+      "Natsumi"
+    ],
+    "present_entities": []
+  },
+  "rewards_box": {
+    "level_up_available": false,
+    "xp_total": 1000,
+    "current_level": 3,
+    "current_xp": 1000,
+    "next_level_xp": 2700,
+    "gold": 25.0,
+    "progress_percent": 6,
+    "xp_to_next_level": 1700,
+    "xp_gained": 0,
+    "loot": [
+      "Broken Kukri Fragment",
+      "Small Sapphire",
+      "25 Gold Pieces"
+    ],
+    "source": "encounter"
+  },
+  "rumors": [
+    {
+      "source_type": "guard",
+      "accuracy": "true",
+      "related_event": "elsa_arrival_setup",
+      "content": "A dangerous 'Bowel Hunter' has been spotted in the capital's lower districts."
+    },
+    {
+      "source_type": "merchant",
+      "accuracy": "true",
+      "related_event": "elsa_arrival_setup",
+      "content": "A merchant claims he saw a woman in black silk buying rare poisons near the slums."
+    },
+    {
+      "source_type": "commoner",
+      "accuracy": "true",
+      "related_event": "reinhard_patrol_duty",
+      "content": "The 'Red Knight' of the Astrea family was seen near the fruit stalls earlier."
+    }
+  ],
+  "level_up_session": {
+    "completed_at_story_id": null,
+    "entered_at_story_id": null,
+    "current_level": 1,
+    "last_error": null,
+    "source_story_id": "unknown",
+    "target_level": 2,
+    "source": "model",
+    "status": "complete",
+    "selections": {}
+  },
+  "session_id": "legacy-migrated-422415b8a3367c4b"
+}

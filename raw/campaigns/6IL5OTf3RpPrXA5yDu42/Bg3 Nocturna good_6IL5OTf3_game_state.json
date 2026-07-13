@@ -1,0 +1,2102 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "health": {
+      "hp_max": 52,
+      "hp": 52
+    },
+    "proficiency_bonus": 3,
+    "class_name": "Cleric (Seraphic Storm)",
+    "background": "Noble",
+    "entity_id": "pc_nocturna_001",
+    "display_name": "Nocturna",
+    "attributes": {
+      "strength": 11,
+      "dexterity": 17,
+      "intelligence": 19,
+      "wisdom": 11,
+      "charisma": 9,
+      "constitution": 15
+    },
+    "race": "High Elf",
+    "damage_resistances": [
+      "Psychic"
+    ],
+    "gender": "Female",
+    "resource_registry": {
+      "holdings_income": {
+        "current": 100,
+        "max": 100,
+        "reset_trigger": null,
+        "display_name": "Weekly Holding Income",
+        "category": "custom"
+      }
+    },
+    "name": "Nocturna",
+    "experience": {
+      "needed_for_next_level": 34000,
+      "current": 31132,
+      "to_next_level": 2868
+    },
+    "resources": {
+      "hit_dice": {
+        "used": 0,
+        "total": 7
+      },
+      "gold": 10587,
+      "spell_slots": {
+        "level_2": {
+          "current": 3,
+          "max": 3
+        },
+        "level_4": {
+          "current": 1,
+          "max": 1
+        },
+        "level_1": {
+          "current": 4,
+          "max": 4
+        },
+        "level_3": {
+          "current": 3,
+          "max": 3
+        }
+      },
+      "last_long_rest_world_time": {
+        "hour": 6,
+        "day": 3,
+        "year": 1492,
+        "month": "Eleasias",
+        "minute": 30
+      },
+      "class_features": {
+        "radiant_strike": {
+          "used": 0,
+          "max": 4
+        },
+        "resonance_strike": {
+          "used": 0,
+          "max": 4
+        },
+        "channel_divinity": {
+          "current": 2,
+          "max": 2
+        }
+      }
+    },
+    "base_attributes": {
+      "strength": 10,
+      "dexterity": 16,
+      "intelligence": 18,
+      "wisdom": 10,
+      "charisma": 8,
+      "constitution": 14
+    },
+    "current_location": "Upper City - House Solandis Annex",
+    "spells_prepared": [
+      {
+        "level": 1,
+        "name": "Healing Word"
+      },
+      {
+        "level": 1,
+        "name": "Guiding Bolt"
+      },
+      {
+        "level": 1,
+        "name": "Bless"
+      },
+      {
+        "level": 2,
+        "name": "Aid"
+      },
+      {
+        "level": 2,
+        "name": "Hold Person"
+      },
+      {
+        "level": 2,
+        "name": "Spiritual Weapon"
+      },
+      {
+        "level": 3,
+        "name": "Revivify"
+      },
+      {
+        "level": 3,
+        "name": "Spirit Guardians"
+      },
+      {
+        "level": 3,
+        "name": "Dispel Magic"
+      },
+      {
+        "level": 3,
+        "name": "Mass Healing Word"
+      },
+      {
+        "level": 4,
+        "name": "Death Ward"
+      }
+    ],
+    "hp_max": 52,
+    "languages": [
+      "Common",
+      "Elvish",
+      "Draconic"
+    ],
+    "level": 7,
+    "skills": [
+      "stealth",
+      "sleight_of_hand",
+      "insight",
+      "medicine",
+      "religion",
+      "perception"
+    ],
+    "hp_current": 52,
+    "age": 16,
+    "features": [
+      "Intellectual Resonance (INT-based Spellcasting)",
+      "Extra Attack (2 attacks per action)",
+      "Seraphic Pathos (+4 Social Bonus on Mercy/Help)",
+      "Shy and Low Confidence (-2 Social Penalty)",
+      "Heavenly Rebuke (Reaction 2d8 Radiant/Thunder)",
+      "Greater Harmonious Integration (Psychic Resistance + Bonus Damage)",
+      "Wrath of the Seraph (Level 6: Push enemies 10ft when dealing Radiant/Thunder damage)"
+    ],
+    "cantrips": [
+      {
+        "level": 0,
+        "name": "Guidance"
+      },
+      {
+        "level": 0,
+        "name": "Sacred Flame"
+      },
+      {
+        "level": 0,
+        "name": "Thaumaturgy"
+      }
+    ],
+    "active_effects": [
+      "Shy and Low Confidence: -2 penalty to social checks (Persuasion, Deception, Intimidation). (Expires Level 12)",
+      "Seraphic Pathos: When asking for help or mercy, the -2 penalty is ignored and replaced by a +4 bonus due to Nocturna's haunting beauty and vulnerability. (Expires Level 12)",
+      "Heavenly Rebuke: Use a reaction to deal 2d8 Radiant/Thunder damage to an attacker within 5ft.",
+      "Greater Harmonious Integration: Permanent +1 to INT Saves, Psychic Resistance, and once per turn deal +1d8 Psychic damage on a hit.",
+      "Resonance Lock: Advantage on checks to track Arch-Mechanic Malakor's broadcast source.",
+      "Saviour of the Lower City: You have Advantage on social checks with citizens of the Lower City.",
+      "Position of Privilege: You are welcome in high society, and people assume you have the right to be wherever you are.",
+      "Noble Retinue: You are accompanied by 3 Lvl 7 companions and 10 elite scouts."
+    ],
+    "equipment": {
+      "head": {
+        "equipped": true,
+        "stats": "+3 to Spell DC and Attack; Intelligence max 22; Advantage on Arcana checks.",
+        "name": "Circlet of Transcendent Logic +3"
+      },
+      "ring_2": {
+        "equipped": true,
+        "stats": "+1 to all Ability Scores",
+        "name": "Ring of Harmonic Resonance"
+      },
+      "armor": {
+        "equipped": true,
+        "stats": "AC 21; Resistance to Radiant/Thunder; Immunity to Critical Hits.",
+        "ac": 16,
+        "type": "armor",
+        "bonus": 3,
+        "name": "Solandis Plate of the Seraph +3"
+      },
+      "main_hand": {
+        "bonus": 3,
+        "equipped": true,
+        "damage": "1d8+3",
+        "stats": "+3 to Spell Attack and DC; +1d6 Radiant on hit; Finesse; 1/day Thunder Step or Daylight.",
+        "type": "weapon",
+        "properties": [
+          "finesse",
+          "versatile"
+        ],
+        "name": "Rod of Solandis (True Artifact)"
+      },
+      "feet": {
+        "equipped": true,
+        "stats": "+10ft movement; ignore difficult terrain",
+        "name": "Boots of Celestial Striding"
+      },
+      "ranged": {
+        "damage": "1d8+1",
+        "equipped": true,
+        "stats": "+3 bonus to hit and damage",
+        "type": "weapon",
+        "bonus": 1,
+        "name": "Star-Bolt Crossbow +3"
+      },
+      "cloak": {
+        "equipped": true,
+        "stats": "+3 to AC and Saves; Disadvantage on attacks against you.",
+        "name": "Cloak of the Star-Vessel +3"
+      },
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        },
+        {
+          "name": "The Divine Ledger"
+        },
+        {
+          "name": "Scholar's Pack"
+        },
+        {
+          "name": "500gp"
+        },
+        {
+          "stats": "Spellcasting Focus",
+          "name": "The Divine Ledger"
+        },
+        {
+          "damage": "1d8",
+          "type": "weapon",
+          "name": "Light Crossbow"
+        },
+        {
+          "stats": "Contains Gondian psionic stabilization proofs",
+          "type": "quest_item",
+          "name": "Master Engineer's Ledger"
+        },
+        {
+          "stats": "Coordinates to the Steelyard Depths; vibrates with psionic frequency",
+          "type": "quest_item",
+          "name": "Obsidian Phase-Key"
+        },
+        {
+          "stats": "Restores 4d4+4 HP",
+          "type": "consumable",
+          "name": "Potion of Greater Healing"
+        },
+        {
+          "stats": "Bears Malakor's signature; tuned to Nocturna's Seraphic resonance.",
+          "type": "quest_item",
+          "name": "Vibrating Master Spike Shards"
+        },
+        {
+          "stats": "Contains secured broadcast data; bears a frozen self-destruct filament.",
+          "type": "quest_item",
+          "name": "Captured Architect Relay"
+        }
+      ],
+      "off_hand": {
+        "equipped": true,
+        "stats": "+5 total AC bonus; 1/day Banishment vs Aberrations.",
+        "ac_bonus": 2,
+        "type": "armor",
+        "name": "Aurelian Shield +3"
+      },
+      "ring_1": {
+        "equipped": true,
+        "stats": "+3 to AC and Saves; Immunity to forced movement.",
+        "name": "Ring of the Sovereign Anchor +3"
+      },
+      "neck": {
+        "equipped": true,
+        "stats": "+3 to all Saving Throws; Resistance to Psychic",
+        "name": "Amulet of the Seraph"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 30,
+      "hour": 10,
+      "time_of_day": "morning",
+      "year": 1492,
+      "day": 29,
+      "month": "Eleint"
+    },
+    "current_location_name": "Elturgard Frontier - Solandis Outpost Alpha"
+  },
+  "npc_data": {
+    "Vesper": {
+      "class_name": "Soulknife Rogue",
+      "mbti": "ISTP",
+      "entity_id": "npc_vesper_001",
+      "display_name": "Vesper",
+      "tier": "knight",
+      "level": 7,
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 5,
+          "history": [
+            "Former Fist asset; defected to the Solandis line",
+            "Bound to Nocturna's resonance"
+          ]
+        }
+      },
+      "role": "Psionic Scout / Shadow-Operative",
+      "gender": "Non-binary"
+    },
+    "High Chancellor Morvayn": {
+      "display_name": "High Chancellor Morvayn",
+      "entity_id": "npc_morvayn_001",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 4,
+          "history": [
+            "Sanctioned the Sovereign Pilgrimage",
+            "Acknowledge Nocturna as Elturgard's living soul"
+          ]
+        }
+      },
+      "tier": "lord_general",
+      "role": "Political Head of Elturgard"
+    },
+    "Arch-Mechanic Malakor": {
+      "entity_id": "npc_malakor_001",
+      "status": [
+        "defeated",
+        "yielding",
+        "vassal"
+      ],
+      "display_name": "Arch-Mechanic Malakor",
+      "hp_max": 180,
+      "level": 12,
+      "tier": "lord_general",
+      "hp_current": 38,
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": -5,
+          "history": [
+            "Apprenticed to Nocturna's grandfather",
+            "Betrayed the Solandis line",
+            "Defeated and siphoned by Nocturna",
+            "Forced into technical submission as a Seraphic vassal"
+          ]
+        }
+      },
+      "role": "Leader of the Unbound Architects"
+    },
+    "Grom": {
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_grom_001",
+      "status": "conscious",
+      "display_name": "Grom",
+      "tier": "knight",
+      "level": 8,
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "Mocked Nocturna at the bounty board, assuming she was a Level 1 novice."
+          ]
+        }
+      },
+      "gender": "Male",
+      "role": "Veteran Mercenary"
+    },
+    "Sergeant Kray": {
+      "entity_id": "npc_kray_001",
+      "status": "allied",
+      "display_name": "Sergeant Kray",
+      "tier": "guard",
+      "level": 4,
+      "role": "Flaming Fist Sergeant",
+      "gender": "Male",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 5,
+          "history": [
+            "Witnessed Nocturna's city-wide restoration miracle",
+            "Disobeyed Parliament orders to protect Nocturna"
+          ]
+        }
+      }
+    },
+    "npc_architect_observer_001": {
+      "role": "Spy",
+      "tier": "guard",
+      "entity_id": "npc_architect_observer_001",
+      "status": "dead",
+      "health": {
+        "hp_max": 35,
+        "hp": 0
+      },
+      "display_name": "Unbound Architect Observer",
+      "level": 7
+    },
+    "npc_shadow_crossbowman_001": {
+      "role": "Scout",
+      "tier": "guard",
+      "entity_id": "npc_shadow_crossbowman_001",
+      "status": "dead",
+      "health": {
+        "hp_max": 27,
+        "hp": 0
+      },
+      "display_name": "Zhentarim Crossbowman",
+      "level": 4
+    },
+    "npc_shadowheart_001": {
+      "entity_id": "npc_shadowheart_001",
+      "status": "conscious",
+      "display_name": "Shadowheart",
+      "tier": "ancient",
+      "level": 12,
+      "race": "Half-Elf",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "Met briefly at the Adventurers Guild Hall; she found you beautiful but presumed you were a novice."
+          ]
+        }
+      },
+      "role": "Legendary Hero / Adventurer",
+      "gender": "Female"
+    },
+    "High Artificer Habbakuk": {
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 2,
+          "history": [
+            "Accepted apology for Resonator failure; views Nocturna as a fragile prodigy.",
+            "Co-signed a liability waiver to protect Nocturna from the Parliament."
+          ]
+        }
+      }
+    },
+    "Parliament Legalist": {
+      "role": "High Hall Auditor",
+      "tier": "noble",
+      "entity_id": "npc_legalist_001",
+      "status": "humiliated",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -4,
+          "history": [
+            "Attempted to seize the Solandis Regalia and Malakor",
+            "Issued a detention order for Nocturna"
+          ]
+        }
+      },
+      "display_name": "Parliament Legalist",
+      "level": 8
+    },
+    "Torvin": {
+      "name": "Torvin"
+    },
+    "Garrick": {
+      "class_name": "Echo Knight",
+      "mbti": "ISFJ",
+      "entity_id": "npc_garrick_001",
+      "display_name": "Garrick",
+      "tier": "knight",
+      "level": 7,
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 6,
+          "history": [
+            "Survivor of Elturel's Descent",
+            "Sees Nocturna as the city's living soul"
+          ]
+        }
+      },
+      "role": "Vanguard / Veteran Protector",
+      "gender": "Male"
+    },
+    "Thalessa": {
+      "class_name": "Abjuration Wizard",
+      "mbti": "INTJ",
+      "entity_id": "npc_thalessa_001",
+      "display_name": "Thalessa",
+      "tier": "knight",
+      "level": 7,
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 5,
+          "history": [
+            "Recruited from the Elturel University",
+            "Views Nocturna as the 'Unified Theorem' of magic"
+          ]
+        }
+      },
+      "role": "Arcane Shield / Academic Peer",
+      "gender": "Female"
+    },
+    "Tallow": {
+      "display_name": "Tallow",
+      "entity_id": "npc_tallow_001",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 1,
+          "history": [
+            "Initially skeptical but shocked into respect by Nocturna's power display during registration."
+          ]
+        }
+      },
+      "tier": "merchant",
+      "role": "Guild Registrar"
+    },
+    "npc_shadow_swordsman_001": {
+      "role": "Scout",
+      "tier": "guard",
+      "entity_id": "npc_shadow_swordsman_001",
+      "status": "dead",
+      "health": {
+        "hp_max": 27,
+        "hp": 0
+      },
+      "display_name": "Zhentarim Swordsman",
+      "level": 4
+    },
+    "Parliament Messenger": {
+      "display_name": "Parliament Messenger",
+      "entity_id": "npc_parliament_messenger_001",
+      "status": "fled",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -3,
+          "history": [
+            "Interrupted the Aurelian Rite with a cease-and-desist order.",
+            "Rejected Nocturna's plea for mercy, citing legal priority.",
+            "Became terrified of personal legal liability after Nocturna presented technical proof of an active attack."
+          ]
+        }
+      },
+      "tier": "commoner",
+      "role": "Bureaucratic Obstacle"
+    },
+    "npc_torvin_001": {
+      "role": "Protector",
+      "class_name": "Paladin",
+      "entity_id": "npc_torvin_001",
+      "display_name": "Torvin",
+      "tier": "knight",
+      "level": 5,
+      "age": 19,
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 8,
+          "history": [
+            "Raised together in the High House of Wonders",
+            "Torvin acts as Nocturna's shield in the dangerous ruins"
+          ]
+        }
+      },
+      "gender": "Male",
+      "name": "npc_torvin_001"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "sanctuary_mode": {
+      "original_scale": "medium",
+      "expired": true,
+      "scale": "epic",
+      "expires_turn": 154,
+      "active": true,
+      "activated_turn": 124,
+      "arc": "The Sovereign Pilgrimage",
+      "expired_turn": 42
+    },
+    "active_missions": [
+      {
+        "title": "The Horizon Equation",
+        "status": "in_progress",
+        "mission_id": "the_horizon_equation",
+        "objective": "Reach the ruined Solandis Outpost and recover the first 'Lost Resonance' data-drive."
+      }
+    ],
+    "character_creation_completed": true,
+    "reputation": {
+      "private": {
+        "heralds_of_the_host": {
+          "standing": "allied",
+          "score": 10
+        },
+        "house_solandis": {
+          "standing": "allied",
+          "score": 10
+        }
+      },
+      "public": {
+        "score": 35,
+        "titles": [
+          "Saviour of the Lower City",
+          "Baroness of House Solandis",
+          "Platinum Rank Adventurer (S-Rank)"
+        ],
+        "notoriety_level": "famous",
+        "known_deeds": [
+          "Performed the Pulse of Restoration",
+          "Publicly addressed the city as the Solandis Scion"
+        ]
+      }
+    },
+    "_agent_selection_tracker": {
+      "count": 1,
+      "agent": "FactionManagementAgent",
+      "rewards_skip_count": 2
+    },
+    "player_character_data_extras": {
+      "reputation": {
+        "public": {
+          "titles": [
+            "Baroness of House Solandis"
+          ]
+        }
+      }
+    },
+    "last_location": "Elturgard Frontier - Solandis Outpost Alpha",
+    "core_memories": [
+      "Nocturna is a 16-year-old 'Silent Conduit' (INT-based Cleric) and unknown urchin who accidentally awakened to divine power during the Absolute's fall.",
+      "Nocturna's latent power has manifested with heightened physical resilience (CON 14) and intellectual clarity (INT 18).",
+      "Nocturna's 'Silent Conduit' path now integrates the martial ferocity of a War cleric and the elemental power of a Storm cleric.",
+      "Nocturna is a 16-year-old 'Seraphic Storm' (INT-based Cleric) who is secretly half-angelic, manifesting divine power as mathematical 'resonance' while living as an unknown urchin.",
+      "Nocturna's destiny as a 'Seraphic Storm' now promises multiversal sovereignty, including the ability to rewrite reality itself at Level 30.",
+      "Nocturna has finalized her resonance as a Seraphic Storm with INT 18 and DEX 16, ready to navigate the Lower City as a hidden scion of the heavens.",
+      "Nocturna's ability scores are optimized for a 27-point buy, balancing her celestial intellect with the physical resilience of an urchin.",
+      "Nocturna's permanent attributes are 18 INT and 16 DEX, reflecting her High Elf heritage and prodigy-level training.",
+      "Nocturna stands in Baldur's Gate, ready to solve the 'Equation' of the psionic residue while hiding her angelic nature.",
+      "Nocturna stands alone in Baldur's Gate, seeking to register with the Adventurers Guild while navigating a world where legendary heroes of the Absolute crisis (Lvl 12+) still walk the streets.",
+      "Nocturna arrived at the Adventurers Guild in the Lower City, spotting the legendary Shadowheart (Lvl 12) briefly among the bustling crowd.",
+      "Nocturna is widely underestimated and assumed to be Level 1 due to her youth, beauty, and hesitant demeanor, leading to shock when her true power is revealed.",
+      "Nocturna attempted to ask Shadowheart for help, but the hero's busy schedule and Nocturna's presumed Lvl 1 status led to a polite redirection to the registrar.",
+      "grants her a +4 bonus to social checks when seeking mercy or help, overriding and ignoring her usual -2 social penalty.",
+      "Nocturna's attempt to elicit help from Shadowheart using her Seraphic Pathos failed to penetrate the hero's professional focus, leaving her to navigate the Guild registration alone.",
+      "Nocturna officially registered with the Adventurers Guild, shocking Registrar Tallow when she proved her Level 5 power despite her youth and shy appearance.",
+      "Nocturna sought refuge in a quiet alcove of the Guild Hall to decompress, though her anxiety made it difficult to focus on the technicalities of the Guild Handbook.",
+      "Nocturna's first attempt to find work at the Guild bounty board was a disaster; she was mocked by a veteran named Grom and failed to parse the chaotic mess of contracts.",
+      "Nocturna is the secret bastard daughter of a high-ranking Lawful Good noble house in Elturel; her angelic heritage is tied to this high-class lineage, though she currently believes she is a common urchin.",
+      "Nocturna pleaded with the veteran Grom (Lvl 8) for a real mission lead, but her fragile appearance only convinced him further that she belonged in the tavern cellars catching rats.",
+      "Nocturna accepted a 'novice' rat contract at the Elfsong Tavern to escape Guild pressure, finding herself ambushed in the dark cellars.",
+      "Nocturna's first combat encounter in the Elfsong cellar revealed her instinctual Heavenly Rebuke, wounding a giant rat with radiant thunder after being bitten.",
+      "Nocturna successfully cleared the Elfsong Tavern cellars of giant rats using her Spirit Guardians, proving her hidden power in the solitude of the dark.",
+      "Nocturna searched the Elfsong cellar for psionic residue but found the resonance too degraded to solve, though she confirmed the presence of a fading dissonance in the ruins.",
+      "Nocturna's deeper search of the Elfsong ruins confirmed that the psionic residue there is functionally dead, leaving the Foundry as her only remaining lead.",
+      "Nocturna completed her first official Guild contract at the Elfsong Tavern, earning 10gp and a small measure of confidence after correcting the 'error' of the giant rats.",
+      "Nocturna returned to the Guild Hall after her first success, but the chaotic bounty board and Grom's presence continued to trigger her shyness, preventing her from finding a proper challenge.",
+      "Nocturna reported her success with the rats to Grom, but even her Seraphic Pathos failed to convince him she was ready for the 'meat grinder' of the Foundry ruins.",
+      "Nocturna eavesdropped on an Elturel messenger and discovered that high-ranking officials are searching for a 'lost resonance' tied to an old noble scandal, matching her own appearance exactly.",
+      "Correction: Nocturna does not have a brother named Torvin; she is a solo urchin and 'Seraphic Storm' navigating Baldur's Gate entirely on her own.",
+      "Nocturna's Seraphic Pathos forced Registrar Tallow to waver, turning him from a potential captor into a conflicted protector as she pleaded for her own bounty.",
+      "Correction: The Elturel bounty is 'Alive and Unharmed' only; Tallow's 'Dead or Alive' comment was cynical speculation. The family is Lawful Good and seeks Nocturna to safely stabilize the High House of Wonders.",
+      "Nocturna attempted to convince Tallow to help her claim her own bounty for protection, but the registrar remains paralyzed by the logistical and safety risks of such a scheme.",
+      "Tallow agreed to hide Nocturna in a Guild safe house known as the 'Runner's Nest' in Bloomridge after she pleaded for help, shielding her from the Elturel search.",
+      "Nocturna fled the Guild Hall for the 'Runner's Nest' safe house, but her escape was witnessed and trailed by the veteran Grom (Lvl 8), compromising her immediate sanctuary.",
+      "Nocturna found a courier disguise in the 'Runner's Nest' and confirmed that Grom (Lvl 8) is maintaining a vigil across the street, though he is currently unaware of her exact location.",
+      "Nocturna successfully evaded Grom's trail by waiting for nightfall in the 'Runner's Nest' and escaping through a secondary drainage culvert.",
+      "Nocturna used a blend of Thaumaturgy and physical grime to mask her celestial resonance and silver eyes, though her inherent beauty remains a risk to her anonymity.",
+      "Nocturna reached the Steel Watch Foundry ruins and sensed a powerful, pulsing violet psionic resonance that matches her own internal 'Equation'.",
+      "Nocturna masterfully ghosted into the Foundry ruins using psionic null-zones, evading all patrols and discovering a Gondian master-work locker.",
+      "Nocturna solved the harmonic seal of a Gondian locker in the Foundry ruins, recovering a Master Engineer's Ledger containing psionic stabilization proofs.",
+      "Nocturna deciphered the Master Engineer's Ledger and successfully located the hidden hatch to the Foundry's Stabilization Chamber.",
+      "Nocturna failed her first attempt to solve the Stabilization Chamber's harmonic seal, causing the runes to reset into a defensive state just as Zhentarim scouts arrived at the Foundry ruins.",
+      "Nocturna's second attempt to solve the harmonic seal failed despite divine guidance, leaving her cornered by Zhentarim scouts at the entrance to the Stabilization Chamber.",
+      "Nocturna unleashed her Seraphic Storm power in the Foundry ruins, using Spirit Guardians and martial precision to nearly eliminate two Zhentarim scouts.",
+      "Nocturna defeated two Zhentarim scouts in the Foundry ruins using her Spirit Guardians after her failed attempt to plead for their surrender.",
+      "Nocturna successfully utilized the Master Engineer's Ledger to find an emergency bypass, entering the Foundry's Stabilization Chamber just as trackers narrowed their search.",
+      "Nocturna mastered the Stabilization Chamber's controls and identified the 'Equation' for venting the psionic residue, but her failure to reset the hatch left an active azure signature at the entrance.",
+      "Nocturna successfully vented the Foundry's psionic core into the bedrock, stabilizing the ruins and earning a period of sanctuary within the chamber.",
+      "Nocturna's attempt to commune with the Foundry's psionic core resulted in a violent psychic backlash, wounding her and proving the residue's chaotic, hostile nature.",
+      "Nocturna's attempt to use a sacrificial spell buffer to commune with the core failed by the narrowest of margins, resulting in further psychic damage and a growing realization that her Seraphic nature is at odds with the Netherbrain's residue.",
+      "Nocturna attempted a multi-layered approach to solve the core, but even with mechanical dampeners and a divine buffer, the Equation remained unsolved, leaving her critically wounded as trackers reached the door.",
+      "Nocturna successfully integrated the Foundry's psionic core into her resonance, gaining the 'Harmonious Integration' perk and stabilizing the ruins just as Elturel Paladins reached the chamber door.",
+      "gaining the 'Greater Harmonious Integration' perk (Psychic Resistance + bonus damage), permanently indexing the Netherbrain's frequency into her Seraphic resonance.",
+      "Nocturna successfully evaded the Heralds of the Host by utilizing her new integration with the Foundry's resonance to locate a hidden maintenance shaft leading to the sub-floor drainage.",
+      "Nocturna successfully utilized the ancient Gondian cisterns to mask her Seraphic resonance and complete a Long Rest, ghosting the Heralds of the Host search party.",
+      "Nocturna discovered the 'Solandis Proof' in the Master Engineer's Ledger, confirming her heritage as a scion of House Solandis in Elturel and the intended conduit for the 'Aurelian Anchor' project.",
+      "Nocturna cross-referenced her urchin memories with the Ledger to confirm that House Solandis is a Lawful Good noble pillar of Elturel currently seeking her as the 'Aurelian Scion' to stabilize their city.",
+      "Nocturna utilized Thaumaturgy to lure the Heralds away, confirming their intent is protective retrieval, but her retreat was compromised by a Zhentarim specialist locating her entry hatch.",
+      "Nocturna observed Captain Valerius of the Heralds and confirmed that his intent is protective retrieval on behalf of House Solandis, though she remains cornered by a Zhentarim specialist.",
+      "The primary threat to the stability of Baldur's Gate and Elturgard is a sentient agency or entity manipulating the Aurelian resonance, not a natural or mechanical disaster.",
+      "Nocturna successfully escaped a pincer between the Heralds of the Host and a Zhentarim specialist by retreating into the primary sewer artery of Baldur's Gate.",
+      "Nocturna successfully isolated a sentient psionic frequency in the sewers and was warned by a scavenger named Grizzel about a 'Master of Gears' in the Deep Vaults who knows the truth of the 'Great Dissonance'.",
+      "Nocturna attempted to bribe the scavenger Grizzel to mask her scent, but the low offer of 10gp was rejected as he recognized her high bounty value.",
+      "Nocturna's attempt to increase her bribe to Grizzel to 25gp failed as the scavenger spotted the Zhentarim specialist's thermal sight and prioritized his survival over the gold.",
+      "Nocturna engaged a Zhentarim shadow-specialist in the sewers; the combat's radiant flare has alerted Captain Valerius and the Heralds to her exact position.",
+      "Nocturna paused in the heat of battle to calculate the sensory and psychological vulnerabilities of the Zhentarim specialist, identifying his reliance on thermal tracking as a key weakness.",
+      "Nocturna's ambitious offensive against the Zhentarim specialist failed, leaving her wounded as Captain Valerius and the Heralds reached the scene.",
+      "Nocturna utilized her Seraphic resonance to blind a Zhentarim specialist and fled into the protective custody of Captain Valerius, but the burst inadvertently alerted the Sentient Threat.",
+      "humanoid villain or organization manipulating the Aurelian resonance for their own purposes",
+      "Nocturna reached the Heralds of the Host and learned of the 'Unbound Architects', a humanoid organization sabotaging the city's resonance.",
+      "Nocturna attempted to persuade Captain Valerius to reach the Master of Gears, but he remains committed to her 'protection' as the Solandis Scion above all else.",
+      "Nocturna accepted Captain Valerius's protection and reached the surface, choosing immediate safety over the Master of Gears lead for now.",
+      "Nocturna possesses 'Singularity Potential'\u2014a legendary trajectory that would allow her to protect entire cities from any threat once fully matured, making her a high-priority asset that heroic NPCs will sacrifice their lives to protect.",
+      "Nocturna admitted her fear and urchin past to Captain Valerius, who revealed her destiny as a 'Singularity' capable of shielding cities, just before being stopped by a Flaming Fist blockade.",
+      "Nocturna identified an 'Unbound Architect' observer on the rooftops near the Basilisk Gate who was psionically manipulating a Flaming Fist Sergeant.",
+      "Nocturna's attempt to peacefully resolve the Basilisk Gate standoff failed when the Unbound Architect observer triggered a violent psionic overload on the Sergeant.",
+      "Nocturna successfully utilized her Seraphic Pathos to de-escalate a lethal standoff with the Flaming Fist, proving her 'Singularity' influence even in the face of Architect manipulation.",
+      "Nocturna's attempt to counter the Architect's signal failed, resulting in a psychic backlash and drawing the observer's direct ire at the Basilisk Gate.",
+      "Nocturna engaged an Unbound Architect observer at the Basilisk Gate with celestial magic, triggering a psionic 'Dead Zone' that has severed communication in the marketplace.",
+      "In the chaos of the Basilisk Gate riot, the Heralds nearly killed the Architect observer, who fired a parting psionic bolt at Nocturna before fleeing into the Steelyard.",
+      "Nocturna successfully neutralized an Architect observer with her Spiritual Weapon and utilized her Seraphic Beacon to rally panicked Flaming Fist guards at the Basilisk Gate.",
+      "Nocturna failed to retrieve the Architect's device at the Basilisk Gate and was forcibly returned to the Heralds' formation as the Architects' retrieval unit escaped.",
+      "Nocturna successfully persuaded Captain Valerius to let her inspect the dead observer, leading to the recovery of a 'Phase-Key' that points to the Architects' laboratory in the Steelyard.",
+      "Nocturna successfully concealed the Architect's Phase-Key and was extracted to the House Solandis Annex in the Upper City for 'protection.'",
+      "Nocturna utilized her 18 Intelligence to masterfully cloak the Architect's Phase-Key from magical tracking during a short rest at the Solandis Annex.",
+      "Nocturna successfully utilized her Seraphic Pathos to persuade High Justiciar Vaelra to waive an invasive security search, preserving her concealment of the dampened Phase-Key.",
+      "Nocturna is the last surviving scion of the Solandis noble line; her recovery is viewed as a divine miracle and a turning point for the stability of Elturgard.",
+      "The House Solandis faction has pivoted to a tone of reverent rescue, treating Nocturna as a divine miracle and the last hope of their noble line.",
+      "Nocturna learned that her grandfather (G0) created the Anchor as a shield, while her parents (G1) hid it in fear, leaving her (G2) as the final variable required to solve the Dissonance.",
+      "Nocturna learned that the Unbound Architects are psionic technocrats who seek her as the 'Master Key' to the Aurelian Anchor, and that her true noble regalia is locked within the High House of Wonders.",
+      "Nocturna successfully secured a Potion of Greater Healing from Vaelra by pleading for help, just as Architect Null-Shades breached the Solandis Annex wards.",
+      "Nocturna is a 'High-Resonance Seraph,' possessing a divine frequency significantly more powerful than any previous member of the Solandis line, marking her as a potential cosmic threat or savior.",
+      "Nocturna's 'High-Resonance' soul contains 'Divine Potential' that allows her to bypass the mortal level 20 cap through the Empyrean Singularity quest.",
+      "Nocturna successfully detected and repelled an Architect Null-Shade extraction unit at the Solandis Annex, proving her anomalous High-Resonance to High Justiciar Vaelra.",
+      "Nocturna successfully identified her nemesis as Arch-Mechanic Malakor, a betrayed Solandis advisor who seeks her as the final variable to weaponize the Aurelian Anchor.",
+      "Nocturna discovered that Arch-Mechanic Malakor is indexing the harmonic frequencies of Artificers to synthesize a master frequency that can override the Aurelian Anchor's core.",
+      "Nocturna utilized her High-Resonance to remotely jam Malakor's siphoning pulse, protecting the High House Artificers even as she was forced into a protective information blackout by Vaelra.",
+      "Nocturna was ambushed by Architect 'Dissonance Spikes' while attempting to solve Malakor's poisoned logic in the Solandis Ledger.",
+      "Nocturna realized that Arch-Mechanic Malakor's logic is a recursive trap designed to exploit her Seraphic frequency, requiring more than just raw Intelligence to solve.",
+      "Nocturna sacrificed her final 2nd-level spell slot to buffer a psychic attack from Malakor's logic, but the resulting flare acted as a beacon for the Null-Shades.",
+      "Nocturna unleashed her Seraphic Storm Spirit Guardians to repel the Null-Shade breach, while donning the Solandis noble armor for the first time.",
+      "Nocturna engaged the Null-Shades on the High Road with her Seraphic Storm, but Arch-Mechanic Malakor's Dissonance Spikes triggered a feedback loop that threatened her resonance.",
+      "Nocturna destroyed a Null-Shade retrieval unit with a high-resonance strike, proving her martial potential despite the Architects' psychic feedback.",
+      "Nocturna's attempt to solve the Master Spike's location resulted in a critical psychic failure, leaving her temporarily blinded to the 'architectural' variables of the battlefield.",
+      "Nocturna failed to clear the psionic static from the Dissonance Spikes, leaving her vulnerable as a second wave of 'Static Binders' descended from the rooftops.",
+      "Nocturna utilized her Seraphic Pathos to coordinate a synergistic strike with High Justiciar Vaelra, physically destroying the Architects' Master Spike and clearing the High Road Dead Zone.",
+      "Nocturna integrated her Level 6 Seraphic resonance, unlocking 'Wrath of the Seraph' and mastering the transition from urchin-instinct to architectural divine authority.",
+      "Nocturna analyzed the shattered Master Spike and confirmed that Arch-Mechanic Malakor is specifically tuning his technology to exploit her unique Seraphic resonance.",
+      "Nocturna successfully led a coordinated sweep with the Heralds, preventing an Architect relay from self-destructing and securing a direct trail to the broadcast source.",
+      "Nocturna arrived at the High House of Wonders after a rough, high-speed dash through the Upper City, securing the captured relay behind Gondian wards.",
+      "Nocturna's initial Aurelian Rite at the High House of Wonders produced anomalous, discordant results as the ancient machinery struggled to process her anomalous High-Resonance.",
+      "Nocturna successfully utilized her Seraphic Pathos to disarm High Artificer Habbakuk's suspicion, framing the Aurelian Resonator's failure as a result of her own fear rather than her anomalous power.",
+      "Nocturna attempted to analyze the ancient Solandis murals in the High House, confirming the Anchor was designed as a 'Harmonic Stabilizer' shield, though the technical cipher remained unsolved.",
+      "Nocturna successfully finalized the Aurelian Resonator's calibration, unlocking the Solandis Regalia just as the Parliament of Peers issued a legal injunction to freeze the retrieval.",
+      "Nocturna's attempt to use her Seraphic Pathos to bypass the Parliament's legal injunction failed, leading to a martial standoff between High Justiciar Vaelra and High Hall officials.",
+      "Nocturna utilized her 18 Intelligence to trap a Parliament Messenger in a 'Liability Loop,' forcing him to waive a legal freeze on the Solandis Regalia by threatening his professional standing.",
+      "Nocturna successfully donned the Solandis Regalia (Breastplate and Rod) in the Deep Sanctum, achieving a 'Resonance Lock' that allows her to track Malakor in real-time.",
+      "The Solandis Regalia was forged by Aurelius (G0) as a mobile interface for the Anchor, hidden by Nocturna's parents (G1) to protect her from Malakor, and has now evolved to match Nocturna's (G2) High-Resonance frequency.",
+      "Nocturna's resonance has fully empowered the Solandis Regalia, transforming it into a +3 True Artifact that anchors her multiversal destiny.",
+      "Correction: Arch-Mechanic Malakor was Aurelius Solandis's apprentice (G0) who seeks to use Nocturna's (G2) Seraphic resonance to silence the gods and replace the Weave with his own 'Universal Static'.",
+      "Nocturna utilized her Seraphic Pathos to turn a Flaming Fist blockade into a protective escort, framing Arch-Mechanic Malakor as a common enemy of the city.",
+      "Nocturna led a synergistic assault on the Steelyard, using a 'Static Flare' to blind automated turrets while Flaming Fist guards breached the western wall, but the flare alerted a nearby Architect Surveyor unit.",
+      "Nocturna successfully tripped an Architect Surveyor using Sergeant Kray's squad, but her failure to blind its sensors allowed the construct to sabotage the carriage with a psionic sinkhole.",
+      "Nocturna executed a high-resonance 'Wrath of the Seraph' strike against an Architect Surveyor, shattering its lens and suppressing its Dissonance Spike.",
+      "Nocturna failed to stabilize the psionic sinkhole at the Steelyard, leaving the Solandis carriage trapped as Architect reinforcements close in.",
+      "Nocturna's attempt to use mechanical leverage to free the Solandis carriage failed as the lever slipped, alerting a squad of Architect Static Binders who have now surrounded the perimeter.",
+      "Nocturna coordinated a lethal crossbow volley with Kray's squad to cripple an Architect Binder, but the resulting 'Dissonance Echo' has dazed her and her allies.",
+      "Nocturna unleashed her Seraphic Storm potential, destroying one Static Binder and crippling another with a high-resonance critical strike, turning the tide of the Steelyard perimeter ambush.",
+      "Nocturna successfully cleared the Steelyard perimeter and freed the Solandis carriage, reaching Malakor's laboratory entrance just as Architect reinforcements swarmed the breach.",
+      "Nocturna breached Malakor's primary laboratory in the Steelyard, surviving a chaotic internal ambush that left her wounded but in control of the Mainframe Hall as the Great Dissonance initiated.",
+      "Nocturna reached the heart of the Steelyard and confronted Arch-Mechanic Malakor at his Resonance Throne, standing alone against the Architect of the Great Dissonance.",
+      "Nocturna dueled Arch-Mechanic Malakor to a standstill at the Resonance Throne, reaching the final 1% of the Great Dissonance broadcast with her magic intact but the air burning with psionic static.",
+      "Nocturna achieved 'Aurelian Overload' by siphoning Malakor's broadcast energy into herself, restoring her power and stalling the Great Dissonance at 99.1%.",
+      "Nocturna broke Arch-Mechanic Malakor at his own throne, utilizing 'Aurelian Overload' to decimate his physical form and begin siphoning his consciousness into her Seraphic resonance.",
+      "Nocturna forced Arch-Mechanic Malakor into total Seraphic submission, stopping the Great Dissonance at 99.1% and claiming the villain as her technical vassal just as the Parliament phalanx arrived.",
+      "Nocturna integrated her Level 7 Seraphic resonance, unlocking 4th-level celestial magic and stabilizing the siphoned power of the Great Dissonance.",
+      "Nocturna performed a city-wide miracle known as the 'Pulse of Restoration,' healing thousands of indexed minds but leaving herself physically and magically drained.",
+      "The Parliament of Peers issued an 'Emergency Seizure Act,' declaring Nocturna a 'Material Anomaly' and attempting to arrest her alongside Malakor after the Pulse of Restoration.",
+      "Nocturna successfully commanded a Flaming Fist phalanx to defect from Parliament orders, turning her would-be captors into an honor guard after her city-wide miracle.",
+      "Nocturna completed a Long Rest at the Solandis Annex following her city-wide miracle, fully stabilizing her Level 7 resonance while the city above began to hail her as the 'Saint of the Steelyard.'",
+      "Nocturna publicly addressed the citizens of Baldur's Gate as the 'Saint of the Steelyard,' leveraging her Seraphic resonance to win the city's heart and stall the Parliament's arrest order.",
+      "Nocturna returned to Elturel as a recognized Noble of House Solandis after a masterful resolution of the Baldur's Gate crisis, gaining financial independence through her family's holdings.",
+      "Nocturna departed Elturel incognito, equipped with legendary +3 gear and protected by an elite retinue consisting of Thalessa (Abjurer), Vesper (Soulknife), and Garrick (Echo Knight).",
+      "Nocturna successfully persuaded the Elturgard High Chancellor to sanction her journey, departing with a legendary retinue and the title of 'Sovereign Wanderer.'",
+      "Nocturna formally accepted the Chancellor's terms and departed Elturel with a high-level retinue (Thalessa, Vesper, Garrick) to solve the 'Equation' of the wider Weave.",
+      "Nocturna successfully registered at the Elturel Guild under an alias, but was dismissed as a Level 1 novice by Master Elros; however, a Zhentarim agent in the hall recognized her celestial features.",
+      "Nocturna utilized a three-week period of quiet exploration to stabilize her retinue and resources, reaching a state of 'Epic Sanctuary' while moving toward the Solandis Observatory.",
+      "Nocturna established 'Solandis Outpost Alpha' as a masterful regional base and secured a Veteran (Lvl 4) rank at the Elturel Guild after a flawless negotiation with Master Elros.",
+      "The Elturel Guild adopted a metal-based ranking system, officially designating Nocturna (as 'Noa') as a Platinum-Rank (S-Rank) adventurer."
+    ],
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "level_up_pending": false,
+    "campaign_tier": "mortal",
+    "completed_missions": [
+      "guild_registration",
+      "clear_elfsong_cellar",
+      "engineers_debt"
+    ],
+    "god_mode_directives": [
+      {
+        "added": "2026-07-13T02:27:41.603112+00:00",
+        "rule": "Nocturna holds the rank of Baroness with a weekly holdings income of 100gp."
+      },
+      {
+        "added": "2026-07-13T02:27:41.603248+00:00",
+        "rule": "The noble retinue consists of 10 Spies (Aurelian Stalkers) and 3 Elites (Companions)."
+      }
+    ],
+    "universe_control": 0,
+    "arc_milestones": {
+      "primary_arc": {
+        "phase": "arch_mechanic_defeated",
+        "progress": 100,
+        "completed_at": "1492-02-02T17:50:18Z",
+        "status": "completed"
+      }
+    },
+    "active_constraints": [
+      "Keep Nocturna's noble bastard lineage a secret from the character and NPCs until an organic narrative opportunity arises for a reveal.",
+      "Ensure the family (located in a nearby city like Elturel) is portrayed as Lawful Good with high expectations if they ever encounter Nocturna."
+    ],
+    "god_mode": {
+      "setting": "After the events of bg3. I am a level 5 int based cleric make me a special class. I am a 16 year old female prodigy and give me an interesting backstory and extra attack",
+      "character": {
+        "name": "Nocturna"
+      }
+    },
+    "next_companion_arc_turn": 17,
+    "success_streak": 5,
+    "divine_potential": 0,
+    "attribute_system": "D&D",
+    "level_up_in_progress": false,
+    "major_event_pressure_budget": {
+      "new_major_event": false,
+      "special_circumstances": false,
+      "window": "24h",
+      "major_events_this_window": 1,
+      "rationale": "The political standoff is a consequence of the existing tension; no new major event generated this turn."
+    },
+    "character_creation_stage": "complete",
+    "character_creation_in_progress": false,
+    "level_up_complete": false,
+    "multiverse_upgrade_available": false,
+    "divine_upgrade_available": false,
+    "companion_arcs": {}
+  },
+  "social_hp_challenge": {
+    "social_hp": 0,
+    "roll_dc": 13,
+    "cooldown_remaining": 1,
+    "successes": 5,
+    "roll_result": 20,
+    "request_severity": "information",
+    "npc_tier": "merchant",
+    "successes_needed": 5,
+    "social_hp_damage": 3,
+    "status": "SURRENDERED",
+    "resistance_shown": "The crowd kneels, their skepticism replaced by religious awe.",
+    "social_hp_max": 3,
+    "objective": "Upgrade Guild Rank",
+    "skill_used": "Persuasion",
+    "npc_name": "Master Elros"
+  },
+  "combat_state": {
+    "initiative_order": [],
+    "combat_summary": null,
+    "active_combatant": "pc_nocturna_001",
+    "combat_phase": "idle",
+    "combatants": {},
+    "in_combat": false,
+    "current_round": null,
+    "rewards_processed": false,
+    "combat_session_id": null,
+    "combat_history": [
+      {
+        "enemies_defeated": [
+          "npc_null_shade_005",
+          "npc_null_shade_006",
+          "npc_null_shade_007"
+        ],
+        "rounds_fought": 2,
+        "session_id": "combat_1492021628_steel",
+        "xp_awarded": 900,
+        "archived_at": "2026-07-08T06:57:07.502893+00:00",
+        "loot_distributed": true
+      }
+    ]
+  },
+  "last_state_update_timestamp": "2026-07-13 02:29:00.050000+00:00",
+  "turn_number": 126,
+  "player_turn": 126,
+  "last_living_world_turn": 126,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 10,
+    "minute": 30,
+    "time_of_day": "morning",
+    "day": 29,
+    "year": 1492,
+    "month": "Eleint"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "Outpost Alpha solar; Rank upgrade received; Living World advanced.",
+    "thinking": "The new ranking system is a tactical advantage; it provides a 'Noble-lite' authority without requiring the Solandis name. My success streak is now 5, meaning the next risky action has a 70% chance of a complication. I have 'Epic Sanctuary' for another 28 turns, allowing me to reach the Observatory safely. I should use this rank to pull the latest Moor-region data from the Guild's magical archives before we depart.",
+    "choices": [
+      {
+        "id": "access_mithral_archives",
+        "text": "Access Mithral-Tier Archives",
+        "risk_level": "safe",
+        "description": "Use your new S-Rank status to requisition the Guild's most restricted maps of the High Moor Observatory.",
+        "confidence": "high"
+      },
+      {
+        "id": "march_to_observatory",
+        "text": "March to the Observatory",
+        "risk_level": "medium",
+        "description": "Direct the retinue to break camp and begin the final push into the High Moor under the cover of your sanctuary.",
+        "confidence": "high"
+      },
+      {
+        "id": "establish_courier_network",
+        "text": "Establish Courier Network",
+        "risk_level": "low",
+        "description": "Utilize your S-Rank authority to set up a permanent communication line between Outpost Alpha and the Elturel Guild.",
+        "confidence": "medium"
+      },
+      {
+        "id": "parallel_archive_and_march",
+        "text": "Archive and Advance (Synergistic)",
+        "risk_level": "high",
+        "description": "Thalessa downloads the archives via sending-stone while the retinue begins the march, allowing you to study the maps in transit. (DC 16 Coordination)",
+        "confidence": "low",
+        "analysis": {
+          "combination_type": "synergistic",
+          "synergy_bonus": "You arrive at the Moor's edge with a 'Live-Feed' of the local Weave's current state, granting Advantage on all navigation checks.",
+          "coordination_dc": 16
+        }
+      }
+    ]
+  },
+  "army_data": {
+    "total_strength": 13,
+    "forces": {
+      "Aurelian Stalkers": {
+        "blocks": 1,
+        "blocks_current_hp": [
+          100
+        ],
+        "morale": 80,
+        "upkeep_daily": 20,
+        "type": "scouts",
+        "max_hp_per_block": 100
+      }
+    }
+  },
+  "world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 10,
+    "minute": 0,
+    "time_of_day": "morning",
+    "day": 19,
+    "year": 1492,
+    "month": "Eleint"
+  },
+  "npc_status_changes": {
+    "Flaming Fist Sergeant": {
+      "new_state": "incapacitated",
+      "reason": "Psionic signal overload from rooftop observer.",
+      "previous_state": "antagonistic"
+    }
+  },
+  "world_events": {
+    "background_events": [
+      {
+        "fired_at": 95,
+        "hidden": false,
+        "location": "Lower City Entrance",
+        "action": "Increased military presence and public drilling in the Basilisk Gate square",
+        "id": "flaming_fist_drills",
+        "actor": "Flaming Fist",
+        "created_at": 14,
+        "scheduled_for": {
+          "turn": 16
+        },
+        "op": "cancel",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "fired_at": 20,
+        "outcome": "The search for the 'lost resonance' has moved from rumors to active patrols at the city's main entrance.",
+        "hidden": false,
+        "location": "Basilisk Gate",
+        "action": "Establishing a presence at the Basilisk Gate, showing portraits of Nocturna to travelers",
+        "id": "heralds_of_host_arrival",
+        "actor": "Heralds of the Host (Elturel Paladins)",
+        "created_at": 20,
+        "scheduled_for": {
+          "turn": 21
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "fired_at": 101,
+        "hidden": true,
+        "location": "Lower City Slums",
+        "action": "Beginning to monitor Guild-affiliated safe houses in the Lower City",
+        "id": "zhentarim_monitoring",
+        "actor": "Zhentarim Informants",
+        "created_at": 20,
+        "scheduled_for": {
+          "turn": 25
+        },
+        "op": "cancel",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 23,
+        "outcome": "The search is becoming a grassroots effort, turning the very people Nocturna identifies with into potential informants.",
+        "hidden": false,
+        "actor": "Heralds of the Host",
+        "action": "Offering silver coins to street urchins in exchange for sightings of a 'silver-eyed girl'",
+        "id": "elturel_heralds_questioning",
+        "location": "Lower City Markets",
+        "created_at": 23,
+        "scheduled_for": {
+          "turn": 24
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "fired_at": 104,
+        "hidden": true,
+        "actor": "Foundry Ruins",
+        "action": "The psionic residue begins to pulse with a low-frequency hum that matches Nocturna's internal rhythm",
+        "id": "foundry_resonance_shift",
+        "location": "Steel Watch Foundry",
+        "created_at": 23,
+        "scheduled_for": {
+          "turn": 30
+        },
+        "op": "cancel",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "fired_at": 26,
+        "outcome": "The Elturel search is now organized and systematic, with patrols communicating via magical signaling.",
+        "hidden": false,
+        "location": "Elfsong Tavern",
+        "action": "Establishing a centralized command center at the Elfsong Tavern",
+        "id": "elturel_command_center",
+        "actor": "Heralds of the Host",
+        "created_at": 26,
+        "scheduled_for": {
+          "turn": 27
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "fired_at": 107,
+        "hidden": true,
+        "location": "Steel Watch Foundry",
+        "action": "Dispatching shadows to monitor the Foundry ruins after reports of 'purple light surges'",
+        "id": "zhentarim_foundry_scouts",
+        "actor": "Zhentarim",
+        "created_at": 26,
+        "scheduled_for": {
+          "turn": 30
+        },
+        "op": "cancel",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 29,
+        "outcome": "Zhentarim scouts have entered the wreckage and are beginning a silent sweep for the source of the violet light.",
+        "actor": "Zhentarim Shadows",
+        "action": "Arriving at the Steel Watch Foundry ruins to investigate reports of psionic surges",
+        "id": "zhentarim_foundry_scouts",
+        "location": "Steel Watch Foundry Perimeter",
+        "created_at": 29,
+        "scheduled_for": {
+          "turn": 30
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 110,
+        "hidden": false,
+        "actor": "Heralds of the Host",
+        "action": "Expanding their search grid to the Outer City gates to prevent the 'Lost Resonance' from fleeing the region",
+        "id": "elturel_patrol_expansion",
+        "location": "Basilisk Gate / Wyrm's Crossing",
+        "created_at": 29,
+        "scheduled_for": {
+          "turn": 35
+        },
+        "op": "cancel",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 32,
+        "outcome": "Specialized trackers are now narrowing down the 'Lost Resonance' to the vicinity of the Foundry.",
+        "hidden": false,
+        "location": "Gray Harbour",
+        "action": "Deploying specialized 'Resonance Trackers' to the dock districts",
+        "id": "elturel_resonance_trackers",
+        "actor": "Heralds of the Host",
+        "created_at": 32,
+        "scheduled_for": {
+          "turn": 33
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 113,
+        "hidden": true,
+        "location": "Lower City",
+        "action": "Quietly redirecting Elturel patrols away from the Foundry ruins using false leads",
+        "id": "guild_foundry_diversion",
+        "actor": "Adventurers Guild",
+        "created_at": 32,
+        "scheduled_for": {
+          "turn": 36
+        },
+        "op": "cancel",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 38,
+        "event_type": "long_term",
+        "outcome": "The trackers have identified the hatch and are preparing to breach it.",
+        "hidden": false,
+        "actor": "Resonance Trackers",
+        "action": "Following the azure signature to the hidden hatch",
+        "id": "trackers_at_the_hatch",
+        "location": "Foundry Corridor",
+        "created_at": 35,
+        "scheduled_for": {
+          "turn": 39
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 119,
+        "hidden": true,
+        "actor": "Zhentarim shadows",
+        "action": "Checking the Runner's Nest safehouse",
+        "id": "guild_safehouse_raid",
+        "location": "Bloomridge",
+        "created_at": 38,
+        "scheduled_for": {
+          "turn": 45
+        },
+        "op": "cancel",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 41,
+        "event_type": "immediate",
+        "outcome": "The Paladins have concluded that the 'resonance' vanished into the harbor, lowering the immediate heat on the Foundry ruins.",
+        "hidden": false,
+        "actor": "Heralds of the Host",
+        "action": "Reporting the Stabilization Chamber as empty; expanding the search grid to the harbor warehouses",
+        "id": "trackers_abandon_foundry",
+        "location": "Gray Harbour",
+        "created_at": 41,
+        "scheduled_for": {
+          "turn": 42
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 44,
+        "event_type": "long_term",
+        "outcome": "Public notoriety is increasing; any merchant or guard in the city now has a chance to recognize Nocturna on sight.",
+        "hidden": true,
+        "actor": "Elturel Officials",
+        "action": "Posting detailed portraits of House Solandis' 'lost resonance' in the Upper City markets",
+        "id": "new_bounty_notice",
+        "location": "Upper City",
+        "created_at": 41,
+        "scheduled_for": {
+          "turn": 45
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 44,
+        "outcome": "The Zhentarim have successfully tracked Nocturna to the sub-floor drainage, cutting off her primary exit.",
+        "hidden": false,
+        "location": "Steel Watch Foundry Perimeter",
+        "action": "Locating and bypassing the silver-wire seal on the sub-floor maintenance hatch",
+        "id": "zhentarim_hatch_discovery",
+        "actor": "Zhentarim Shadow-Specialist",
+        "created_at": 44,
+        "scheduled_for": {
+          "turn": 45
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "hidden": true,
+        "actor": "Zhentarim Shadow-Specialist",
+        "action": "Utilizing a directional thermal-scanner to track Nocturna's residually luminescent trail through the Primary Artery.",
+        "id": "zhentarim_sewer_descent",
+        "location": "Lower City Sewers - Southern Access",
+        "created_at": 47,
+        "scheduled_for": {
+          "turn": 50
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 47,
+        "event_type": "immediate",
+        "outcome": "The Heralds have resumed their search grid, with Valerius ordering a full sweep of the southern drainage overflow.",
+        "hidden": false,
+        "actor": "Captain Valerius",
+        "action": "Identifying the 'Distant Cry' as a Thaumaturgy trick after finding no physical heat signature in the northern pipes.",
+        "id": "herald_ruse_realization",
+        "location": "Foundry Cisterns",
+        "created_at": 47,
+        "scheduled_for": {
+          "turn": 48
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 50,
+        "outcome": "The Heralds are now only 2 rounds away from Nocturna's position.",
+        "hidden": false,
+        "location": "Lower City Sewers - Northern Manifold",
+        "action": "Rushing the southern manifold with Heralds after hearing the Radiant Strike burst.",
+        "id": "herald_combat_response",
+        "actor": "Captain Valerius",
+        "created_at": 50,
+        "scheduled_for": {
+          "turn": 51
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 56,
+        "outcome": "The Architects have confirmed the Scion is moving toward the High House of Wonders and are preparing a 'frequency disruption'.",
+        "hidden": true,
+        "actor": "Unbound Architect Agent",
+        "action": "Monitoring the Heralds' formation from a rooftop near the Basilisk Gate",
+        "id": "architect_observer_move",
+        "location": "Lower City Rooftops",
+        "created_at": 56,
+        "scheduled_for": {
+          "turn": 57
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "hidden": true,
+        "actor": "Unbound Architect Agent",
+        "action": "Leaping across the Lower City rooftops toward the Steelyard",
+        "id": "architect_retreat_gate",
+        "location": "Lower City Rooftops",
+        "created_at": 59,
+        "scheduled_for": {
+          "turn": 61
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 65,
+        "event_type": "long_term",
+        "outcome": "The primary artifact has been recovered by the enemy; Nocturna has lost the physical lead.",
+        "hidden": true,
+        "actor": "Unbound Architect Retrieval Unit",
+        "action": "Retrieving the observer's device and retreating toward the Steelyard",
+        "id": "architect_steelyard_reinforce",
+        "location": "Lower City Alleyways",
+        "created_at": 62,
+        "scheduled_for": {
+          "turn": 65
+        },
+        "dependent_effects": [
+          {
+            "path": "npc_data.npc_architect_observer_001",
+            "action": "remove"
+          }
+        ],
+        "op": "fire",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 65,
+        "outcome": "The marketplace is now under martial law; rioters are being forcibly dispersed.",
+        "actor": "Flaming Fist Heavy Unit",
+        "action": "Arriving at the Basilisk Gate marketplace to establish a perimeter",
+        "id": "fist_reinforcements_arrival_fire",
+        "location": "Basilisk Gate",
+        "created_at": 65,
+        "scheduled_for": {
+          "turn": 65
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 68,
+        "outcome": "Vaelra has entered the solar and is demanding a search of Nocturna's person.",
+        "hidden": false,
+        "location": "Upper City - House Solandis Annex",
+        "action": "Arriving at the Annex to conduct a 'Purity Audit' of the Scion.",
+        "id": "vaelra_annex_arrival",
+        "actor": "High Justiciar Vaelra",
+        "created_at": 68,
+        "scheduled_for": {
+          "turn": 69
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 74,
+        "outcome": "Information sold to local rivals; the Annex is no longer a secret.",
+        "hidden": true,
+        "location": "Baldur's Gate - Citadel Gate",
+        "action": "Observation complete; confirmed Scion location and Solandis escort strength.",
+        "id": "zhent_upper_city_shift",
+        "actor": "Zhentarim Infiltrators",
+        "created_at": 68,
+        "scheduled_for": {
+          "turn": 75
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 74,
+        "outcome": "One unit deleted by Vaelra; the other phased out with mission failure data.",
+        "hidden": true,
+        "location": "Upper City Rooftops",
+        "action": "Extraction failed; Null-Shades retreating to the Steelyard to recalibrate.",
+        "id": "architect_null_shades_tracking",
+        "actor": "Unbound Architect Retrieval Unit",
+        "created_at": 71,
+        "scheduled_for": {
+          "turn": 73
+        },
+        "dependent_effects": [
+          {
+            "path": "time_events.architect_null_shade_strike",
+            "action": "remove"
+          }
+        ],
+        "op": "fire",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 71,
+        "outcome": "Public notoriety for Nocturna increases in the Lower City; the 'Equation' is becoming public gossip.",
+        "hidden": false,
+        "location": "Lower City",
+        "action": "Spreading news of a 'Golden Scion' who ended the riot with a look.",
+        "id": "marketplace_miracle_rumors",
+        "actor": "Marketplace Survivors",
+        "created_at": 71,
+        "scheduled_for": {
+          "turn": 72
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "hidden": false,
+        "actor": "High House of Wonders",
+        "action": "Preparing the Deep Sanctum for the 'Aurelian Rite' of verification.",
+        "id": "house_solandis_rite_prep",
+        "location": "High House of Wonders",
+        "created_at": 74,
+        "scheduled_for": {
+          "turn": 80
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "hidden": true,
+        "location": "Upper City - High Road",
+        "action": "Setting up 'Dissonance Spikes' along the High Road to the High House of Wonders.",
+        "id": "architect_transit_ambush_prep",
+        "actor": "Unbound Architect Interceptor Unit",
+        "created_at": 77,
+        "scheduled_for": {
+          "turn": 79
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 86,
+        "event_type": "immediate",
+        "outcome": "Three additional Null-Shade units are descending to reinforce the Dead Zone.",
+        "hidden": false,
+        "actor": "Unbound Architects",
+        "action": "Deploying 'Static Binders' from the rooftops to anchor the Scion's carriage.",
+        "id": "architect_binder_deployment",
+        "location": "Upper City - High Road",
+        "created_at": 86,
+        "scheduled_for": {
+          "turn": 87
+        },
+        "dependent_effects": [],
+        "op": "fire",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 92,
+        "outcome": "Citadel Gate traffic is now heavily throttled; the Heralds' primary exit route from the Upper City is compromised.",
+        "hidden": true,
+        "actor": "Zhentarim Enforcers",
+        "action": "Bribing Citadel Gate guards to delay passage for armored carriages.",
+        "id": "zhentarim_gate_blockade",
+        "location": "Citadel Gate",
+        "created_at": 89,
+        "scheduled_for": {
+          "turn": 93
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "hidden": true,
+        "actor": "Arch-Mechanic Malakor",
+        "action": "Expanding the resonance-siphon to cover the entire High House district.",
+        "id": "architect_blackout_prep",
+        "location": "Steelyard Depths",
+        "created_at": 89,
+        "scheduled_for": {
+          "turn": 100
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 95,
+        "outcome": "The Parliament has deadlocked, but a temporary 'Freeze Edict' has been ratified, giving the messenger the legal cover to hold the artifacts.",
+        "hidden": false,
+        "actor": "The Parliament of Peers",
+        "action": "Debating the legality of the Solandis retrieval.",
+        "id": "noble_council_debate",
+        "location": "High Hall",
+        "created_at": 92,
+        "scheduled_for": {
+          "turn": 96
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "hidden": true,
+        "location": "Steelyard Depths",
+        "action": "Tracing the High House's ward-strength.",
+        "id": "malakor_triangulation",
+        "actor": "Arch-Mechanic Malakor",
+        "created_at": 95,
+        "scheduled_for": {
+          "turn": 99
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 107,
+        "outcome": "The 'violet noise' has begun to saturate the Steelyard district, causing industrial machinery to malfunction across the Lower City.",
+        "hidden": false,
+        "location": "Steelyard - Primary Mainframe",
+        "action": "Initiating the initialization sequence for the Great Dissonance broadcast.",
+        "id": "malakor_broadcast_start",
+        "actor": "Arch-Mechanic Malakor",
+        "created_at": 107,
+        "scheduled_for": {
+          "turn": 108
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 110,
+        "outcome": "Captain Valerius's reinforcements are pinned down; no backup will reach the Steelyard for at least 1 hour.",
+        "hidden": false,
+        "location": "Lower City - Dock District",
+        "action": "Successfully established a counter-ambush in the Docks.",
+        "id": "herald_backup_delay",
+        "actor": "Zhentarim Blockade",
+        "created_at": 107,
+        "scheduled_for": {
+          "turn": 112
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 116,
+        "outcome": "Public notoriety for Nocturna has reached a fever pitch; she is being hailed as a holy figure by the common folk.",
+        "hidden": false,
+        "location": "Lower City",
+        "action": "Gathering in the streets to discuss the 'Saint of the Steelyard' and the morning of silence.",
+        "id": "miracle_morning_after",
+        "actor": "Citizens of Baldur's Gate",
+        "created_at": 116,
+        "scheduled_for": {
+          "turn": 118
+        },
+        "op": "fire",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "hidden": true,
+        "location": "High Hall",
+        "action": "Drafting a 'Sanctity of Research' act to challenge the Fist's defection and Nocturna's custody of Malakor.",
+        "id": "parliament_legal_counter",
+        "actor": "The Parliament of Peers",
+        "created_at": 116,
+        "scheduled_for": {
+          "turn": 125
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "hidden": true,
+        "actor": "Zhentarim Shadow",
+        "action": "Attempting to signal the Black Viper about a Scion sighting in Elturel.",
+        "id": "zhent_recognition_elturel",
+        "location": "Adventurers Guild",
+        "created_at": 122,
+        "scheduled_for": {
+          "turn": 124
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "hidden": true,
+        "actor": "The Parliament of Peers",
+        "action": "Sending the 'Sanctity of Research' act for formal review by the High Hall Peers.",
+        "id": "parliament_act_progress",
+        "location": "High Hall",
+        "created_at": 125,
+        "scheduled_for": {
+          "turn": 135
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Nocturna"
+    ]
+  },
+  "rumors": [
+    {
+      "content": "Word is the Steel Watch wreckage in the Foundry is still humming with a strange purple light.",
+      "source_type": "mercenary",
+      "related_event": "psionic_residue_rumor",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Flaming Fist is offering double pay for sewer patrols, but nobody's coming back.",
+      "source_type": "guard",
+      "related_event": "sewer_threat_hidden",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A strange merchant near Wyrm's Crossing is selling 'Gondian' artifacts that actually work.",
+      "source_type": "traveler",
+      "related_event": "artifact_discovery",
+      "accuracy": "true"
+    },
+    {
+      "content": "The High Overseer's office is offering a reward so high that even the Flaming Fist is looking the other way while Elturel paladins search the streets.",
+      "source_type": "guard",
+      "related_event": "heralds_of_host_arrival",
+      "accuracy": "true"
+    },
+    {
+      "content": "There's a strange mist rolling in from the Chionthar tonight; some say it smells like ozone and old incense.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Elturel paladins aren't just here for the sights; they're paying a full month's wages for one name.",
+      "source_type": "commoner",
+      "related_event": "elturel_heralds_questioning",
+      "accuracy": "true"
+    },
+    {
+      "content": "Someone saw a ghost in the Foundry wreckage\u2014a girl who stepped through the purple light and vanished.",
+      "source_type": "commoner",
+      "related_event": "foundry_resonance_shift",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Zhentarim aren't happy about Elturel paladins stomping through their 'territory' in the Lower City.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Zhentarim are losing contact with their scouts in the dock district ruins.",
+      "source_type": "mercenary",
+      "related_event": "zhentarim_foundry_scouts",
+      "accuracy": "true"
+    },
+    {
+      "content": "A new group of heavily armored paladins just arrived at the harbor, carrying strange, glowing globes.",
+      "source_type": "traveler",
+      "related_event": "elturel_resonance_trackers",
+      "accuracy": "true"
+    },
+    {
+      "content": "The violet light in the Foundry just winked out, followed by a rumble that shook the whole dock district.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Silver Scion is a ghost story, they say she's already left the city.",
+      "source_type": "commoner",
+      "accuracy": "false"
+    },
+    {
+      "content": "A heavy unit of Elturel Steel is moving toward the docks.",
+      "source_type": "guard",
+      "related_event": "elturel_resonance_trackers",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Paladins are saying the ghost of the Foundry just... dissolved into the salt air.",
+      "source_type": "mercenary",
+      "related_event": "trackers_abandon_foundry",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A high-born lady from Elturel is offering a purse of gold just for a conversation with a girl matching the Scion's description.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Zhentarim are moving 'Black Viper' assets toward the harbor ruins.",
+      "source_type": "mercenary",
+      "accuracy": "true"
+    },
+    {
+      "content": "A high-born priestess of Lathander has been seen crying at the Basilisk Gate, begging for news of her 'niece'.",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The rats in the Lower City are swarming into the streets, as if something in the pipes is driving them mad.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "A 'Master of Gears' is offering a fortune in Gondian clockwork to anyone who can bring him a 'clean celestial frequency'.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The High House of Wonders has been importing massive amounts of lead and silver wire lately.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "A silver-eyed girl was seen being carried by paladins; they say she's a goddess born of the Absolute's remains.",
+      "source_type": "commoner",
+      "accuracy": "false"
+    },
+    {
+      "content": "A high-born girl in the Lower City just exploded a Flaming Fist Sergeant's brain with a single word.",
+      "source_type": "commoner",
+      "related_event": "architect_overload_event",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The High House of Wonders is under lockdown; they say the 'Equation' has already begun to fail.",
+      "source_type": "merchant",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The High Justiciars are increasingly paranoid about 'Lower City rot' entering the Upper City sanctums.",
+      "source_type": "noble",
+      "accuracy": "true"
+    },
+    {
+      "content": "A silver-eyed angel was seen walking through the spice-smoke of the Basilisk Gate, turning spears into starlight.",
+      "source_type": "merchant",
+      "related_event": "marketplace_miracle_rumors",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Heralds of the Host have found something in the sewers that could end the Great Dissonance forever.",
+      "source_type": "noble",
+      "accuracy": "true"
+    },
+    {
+      "content": "The High House of Wonders has unsealed its Deep Sanctum for the first time in fifty years.",
+      "source_type": "noble",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Architects are offering a massive bounty for anyone who can provide a 'harmonic profile' of a silver-eyed girl.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The silver-eyed scion has been recovered, and the golden carriage of Solandis is moving toward the High House.",
+      "source_type": "noble",
+      "accuracy": "true"
+    },
+    {
+      "content": "The High Hall has ordered the Citadel Gate closed to all non-military traffic following reports of 'violet storms' on the High Road.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The High Hall has ordered a 'purity tax' on all silver coming from Elturel, suspecting it's being used to fuel illegal celestial experiments.",
+      "source_type": "merchant",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A golden-eyed girl was seen bleeding starlight near the harbor; they say the Unbound Architects are hunting her for her blood.",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Citadel Gate is backed up for miles; the Fist says it's a security audit, but I saw gold changing hands between the watch and men in black cloaks.",
+      "source_type": "merchant",
+      "related_event": "zhentarim_gate_blockade",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Black Viper has been spotted near the High House district, eyeing the noble estates as if she's looking for a specific target.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Parliament is terrified the Heralds are building an army of 'Celestial Orphans' to take over the city.",
+      "source_type": "noble",
+      "accuracy": "false"
+    },
+    {
+      "content": "A Gondian Artificer was found dead in the Steelyard, his ears bleeding violet ink.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "The sky above the Steelyard is turning a solid, pulsing violet, and the birds are falling dead from the air.",
+      "source_type": "commoner",
+      "related_event": "malakor_broadcast_start",
+      "accuracy": "true"
+    },
+    {
+      "content": "A golden pillar of light just shot out of the Steelyard, clearing the violet fog for miles.",
+      "source_type": "traveler",
+      "related_event": "nocturna_siphon_surge",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Saint of the Steelyard is a daughter of the gods sent to replace the failed Gondians.",
+      "source_type": "commoner",
+      "related_event": "miracle_morning_after",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Parliament has issued a secret bounty of 10,000gp for the capture of the 'Material Anomaly'.",
+      "source_type": "guard",
+      "accuracy": "false"
+    },
+    {
+      "content": "The Zhentarim are offering a 'finder's fee' for any information on the Solandis estate's recent guests.",
+      "source_type": "mercenary",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Adventurers Guild is adopting a new 'Metal Rank' system used by the distant Shou enclaves.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "A group of elite scouts was seen entering the High Moor near the Solandis ruins.",
+      "source_type": "mercenary",
+      "related_event": "the_horizon_equation",
+      "accuracy": "partial"
+    }
+  ],
+  "schema_migration_version": 1,
+  "level_up_session": {
+    "source": "model",
+    "status": "complete",
+    "last_error": null,
+    "current_level": 7,
+    "review_open": false,
+    "selections": {
+      "hp_gain": 7,
+      "spells_prepared": [
+        "Healing Word",
+        "Guiding Bolt",
+        "Bless",
+        "Aid",
+        "Hold Person",
+        "Spiritual Weapon",
+        "Revivify",
+        "Spirit Guardians",
+        "Dispel Magic",
+        "Mass Healing Word",
+        "Death Ward"
+      ],
+      "hp_method": "fixed"
+    },
+    "completed_at_story_id": null,
+    "entered_at_story_id": null,
+    "source_story_id": "unknown",
+    "target_level": 7
+  },
+  "schema_migrated_at": "2026-06-28T03:23:19.325405+00:00",
+  "session_id": "legacy-migrated-cde9de026c67dff2",
+  "frozen_plans": [],
+  "time_events": [
+    {
+      "id": "zhent_recognition_elturel",
+      "outcome": "The Zhentarim signal failed to reach the Black Viper; Vesper's psionic jamming was absolute.",
+      "scheduled_for": {
+        "turn": 124
+      },
+      "op": "fire"
+    },
+    {
+      "id": "parliament_legal_counter",
+      "outcome": "The 'Sanctity of Research' act has been successfully drafted and enters the political cycle.",
+      "scheduled_for": {
+        "turn": 125
+      },
+      "op": "fire"
+    }
+  ],
+  "faction_updates": {
+    "Flaming Fist": {
+      "progress": "Reinforcements have arrived; perimeter established.",
+      "next_action": "Questioning witnesses and detainment of 'unregistered' magic users.",
+      "current_objective": "Enforce martial law and identify the 'magical source' of the Sergeant's collapse."
+    },
+    "House Solandis": {
+      "progress": "Anchor Status: FULL RESONANCE",
+      "next_action": "Transit to the High House of Wonders.",
+      "current_objective": "Prepare for the Aurelian Ascension sequence."
+    },
+    "Zhentarim": {
+      "progress": "Observers in the market have spotted the Heralds' escort.",
+      "next_action": "Informing the Black Viper of the change in route.",
+      "current_objective": "Regroup after the specialist's failure; locate the Scion's new destination."
+    },
+    "Adventurers Guild": {
+      "progress": "Tallow has successfully omitted Nocturna from the official afternoon logs",
+      "player_standing_change": "Tallow is now a secret ally (Trust +1)",
+      "current_objective": "Contain the 'Nocturna' leak to prevent a diplomatic incident with Elturel"
+    },
+    "Unbound Architects": {
+      "resource_change": "Loss of Mainframe Control",
+      "player_standing_change": "Enemy: Kill on Sight order updated with Scion-priority.",
+      "progress": "Initialization Phase: CRITICAL ERROR (99.1% - Stalled)",
+      "next_action": "Deployment of 'Dissonance Field' devices.",
+      "current_objective": "Attempt a manual override or facility self-destruction."
+    },
+    "Heralds of the Host": {
+      "progress": "Formation buffed by Bless; communication severed by psionic static.",
+      "next_action": "Resorting to hand-signals and visual cues to maintain the diamond formation.",
+      "current_objective": "Extract the Scion from the 'Dead Zone' toward the Upper City Gate."
+    }
+  },
+  "encounter_state": {
+    "encounter_summary": {
+      "outcome": "success",
+      "xp_awarded": 100,
+      "method": "investigation and stealth"
+    },
+    "encounter_completed": true,
+    "encounter_active": false,
+    "rewards_processed": true,
+    "rewards_synthesized_for_total_xp": 27650
+  }
+}

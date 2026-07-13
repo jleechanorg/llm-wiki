@@ -1,0 +1,1887 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "aliases": [
+      "The Widow-Maker",
+      "Shadow Weaver",
+      "Master of Shadows",
+      "The Silent Reaper"
+    ],
+    "health": {
+      "hp_max": 130,
+      "hp": 130
+    },
+    "class_name": "Shadow Paladin (Master of Shadows)",
+    "background": "Folk Hero (Hidden Criminal)",
+    "entity_id": "pc_kaelen_001",
+    "display_name": "Kaelen Voss",
+    "attributes": {
+      "strength": 11,
+      "dexterity": 18,
+      "intelligence": 10,
+      "wisdom": 14,
+      "charisma": 20,
+      "constitution": 16
+    },
+    "proficiency_bonus": 5,
+    "race": "Human",
+    "core_memories": [
+      "Correction: Kaelen was a legendary figure among the Absolute's forces, reaching the peak of power (Level 12) as the Master of Shadows and leader of the elite Iron Phantoms assassins/scouts."
+    ],
+    "alignment": "Neutral (Ruthless Pragmatist)",
+    "resources": {
+      "hit_dice": {
+        "used": 0,
+        "max": 14
+      },
+      "gold": 21650,
+      "spell_slots": {
+        "level_2": {
+          "current": 3,
+          "used": 2,
+          "max": 3
+        },
+        "level_4": {
+          "current": 2,
+          "used": 1,
+          "max": 2
+        },
+        "level_1": {
+          "current": 4,
+          "used": 1,
+          "max": 4
+        },
+        "level_3": {
+          "current": 3,
+          "max": 3
+        }
+      },
+      "class_features": {
+        "lay_on_hands_pool": {
+          "current": 75,
+          "max": 75
+        },
+        "divine_sense": {
+          "current": 5,
+          "max": 5
+        },
+        "channel_divinity": {
+          "current": 1,
+          "max": 1
+        }
+      }
+    },
+    "experience": {
+      "needed_for_next_level": 195000,
+      "current": 170455,
+      "to_next_level": 24545
+    },
+    "base_attributes": {
+      "strength": 11,
+      "dexterity": 18,
+      "intelligence": 10,
+      "wisdom": 14,
+      "charisma": 20,
+      "constitution": 16
+    },
+    "current_location": "loc_bg_lower_city_001",
+    "spells_prepared": [
+      {
+        "level": 1,
+        "name": "Command"
+      },
+      {
+        "level": 2,
+        "name": "Silence"
+      },
+      {
+        "level": 2,
+        "name": "Pass Without Trace"
+      },
+      {
+        "level": 2,
+        "name": "Hold Person"
+      },
+      {
+        "level": 3,
+        "name": "Fear"
+      },
+      {
+        "level": 3,
+        "name": "Animate Dead"
+      },
+      {
+        "level": 4,
+        "name": "Confusion"
+      },
+      {
+        "level": 4,
+        "name": "Banishment"
+      },
+      {
+        "level": 4,
+        "name": "Staggering Smite"
+      },
+      {
+        "level": 4,
+        "name": "Blight"
+      }
+    ],
+    "hp_max": 130,
+    "hp": 139,
+    "level": 15,
+    "features": [
+      "Shadow Smites (Silent Necrotic Damage)",
+      "Widow's Veil (Automatic Silence on high-tier smites)",
+      "Aura of Protection (+5)",
+      "Aura of the Void (-5 AC/Saves to enemies)",
+      "Aura of Dread (Disadvantage on enemy saves vs Fear/Charm/Stun)",
+      "Shadow Weaver's Stealth (Expertise)",
+      "Silent Requiem (At-will Silence)",
+      "Lay on Hands (65 HP)",
+      "Cleansing Touch (5/day)",
+      "Improved Divine Smite (Shadow variant)",
+      "Cleansing Touch (5/day)",
+      "Soul of the Abyss (Lvl 15): Command shadows of the fallen to strike once before departing."
+    ],
+    "hp_current": 130,
+    "knowledge": [
+      "Forged Militia Papers (Stored in farmhouse floorboards)",
+      "Torvin is searching for specific Absolute sigils",
+      "The Three Pillars of Power: Might, Influence, Wealth",
+      "Upper City Noble Etiquette & Protocol",
+      "High Hall Legal Loopholes",
+      "Ownership of Miller's Rest (Upper City Estate)",
+      "Retainer Status: House Brampton Specialist-in-Residence (500gp/tenday)",
+      "Miller's Rest: Bluffs Estate Deed",
+      "House Brampton Guard Status: Polished but Fragile",
+      "Iron Phantom Signal: The Crow-Mark"
+    ],
+    "armor_class": 21,
+    "skill_proficiencies": {
+      "proficiencies": [
+        "Stealth (Expertise)",
+        "Deception",
+        "Intimidation",
+        "Persuasion",
+        "Animal Handling",
+        "Survival",
+        "Insight"
+      ]
+    },
+    "equipment": {
+      "neck": {
+        "equipped": true,
+        "stats": "+1 to AC and Saving Throws",
+        "name": "Amulet of the Absolute"
+      },
+      "feet": {
+        "equipped": true,
+        "stats": "Advantage on Stealth checks",
+        "name": "Boots of Elvenkind"
+      },
+      "ranged": {
+        "equipped": true,
+        "stats": "1d8+4 piercing",
+        "name": "Whisper-Wood Longbow"
+      },
+      "cloak": {
+        "equipped": true,
+        "stats": "Enemies have disadvantage on attacks against you until you take damage",
+        "name": "Cloak of Displacement"
+      },
+      "ring_1": {
+        "equipped": true,
+        "stats": "+1 to AC and Saving Throws",
+        "name": "Ring of Protection"
+      },
+      "shield": {
+        "equipped": true,
+        "stats": "+2 AC; Reaction: Impose disadvantage on an attack within 5ft",
+        "name": "Bulwark of the Lost"
+      },
+      "armor": {
+        "equipped": true,
+        "stats": "AC 13 + DEX + 1",
+        "name": "Serpent-Scale (+1 Studded Leather)"
+      },
+      "hands": {
+        "equipped": true,
+        "stats": "+2 to damage rolls with Finesse weapons",
+        "name": "Gloves of the Duelist"
+      },
+      "main_hand": {
+        "equipped": true,
+        "stats": "1d8+6 piercing, Finesse",
+        "status": null,
+        "name": "Viper's Kiss (+2 Vicious Rapier)"
+      },
+      "waist": {
+        "equipped": true,
+        "stats": "+2 to Stealth checks",
+        "name": "Viper-Skin Belt"
+      },
+      "body": {
+        "equipped": true,
+        "name": "Commoner's Clothes"
+      },
+      "backpack": [
+        {
+          "stats": "+2 Vicious Rapier",
+          "location": "Hidden in lightning-struck oak",
+          "name": "Viper's Kiss"
+        },
+        {
+          "stats": "Longbow",
+          "location": "Hidden in barn rafter",
+          "name": "Whisper-Wood Longbow"
+        },
+        {
+          "stats": "+1 Studded Leather",
+          "location": "Hidden under floorboards",
+          "name": "Serpent-Scale"
+        },
+        {
+          "type": "intel",
+          "name": "Zhentarim Ledger (Heapside)"
+        },
+        {
+          "type": "item",
+          "name": "Safe-box Key"
+        },
+        {
+          "type": "intel",
+          "name": "Coded Map of Safe-houses"
+        },
+        {
+          "stats": "Allows casting of Jump as a bonus action",
+          "type": "magic_item",
+          "name": "Ring of Jumping"
+        }
+      ],
+      "off_hand": null,
+      "head": {
+        "equipped": true,
+        "stats": "+1 to Persuasion and Intimidation",
+        "name": "Crown of the False King"
+      },
+      "ring_2": {
+        "equipped": true,
+        "stats": "Stores up to 5 levels of spells",
+        "name": "Ring of Spell Storing"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 0,
+      "hour": 1,
+      "time_of_day": "deep night",
+      "year": 1508,
+      "day": 14,
+      "month": "Flamerule"
+    },
+    "current_location_name": "The Undercity Ruins, Heapside Sub-Levels"
+  },
+  "npc_data": {
+    "Sariel": {
+      "class_name": "Bard (College of Swords)",
+      "entity_id": "npc_sariel_001",
+      "entity_type": "npc",
+      "attributes": {
+        "strength": 10,
+        "dexterity": 18,
+        "intelligence": 12,
+        "wisdom": 10,
+        "charisma": 16,
+        "constitution": 14
+      },
+      "display_name": "Sariel Voss",
+      "gender": "Female",
+      "attitude_to_party": "friendly",
+      "status": "normal",
+      "tier": "noble",
+      "hp_max": 38,
+      "level": 5,
+      "hp_current": 38,
+      "age": 16,
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 6,
+          "history": [
+            "Turn 3: Observed Kaelen's deceptive behavior in village.",
+            "Turn 6: Acknowledged Kaelen's commander past.",
+            "Turn 8: Accepted Kaelen as mentor and ideological guide.",
+            "Accepted Kaelen's philosophy on the Three Pillars of Power."
+          ]
+        }
+      },
+      "role": "Daughter / Prodigy",
+      "equipment": {
+        "armor": "Reinforced Leather Tunic",
+        "main_hand": "Fine Steel Rapier"
+      }
+    },
+    "Elias": {
+      "entity_id": "npc_elias_001",
+      "faction": "Iron Phantoms",
+      "status": "normal",
+      "display_name": "Elias",
+      "current_location": "Upper City Boundary",
+      "level": 6,
+      "tier": "knight",
+      "role": "Brampton Estate Security (Staff)",
+      "health": {
+        "hp_max": 45,
+        "hp": 45,
+        "conditions": [
+          "wounded"
+        ]
+      },
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 5,
+          "history": [
+            "Former subordinate to the Shadow Weaver",
+            "Made contact via crow-mark"
+          ]
+        }
+      }
+    },
+    "npc_keene_001": {
+      "attitude_to_party": "hostile",
+      "status": "Imprisoned/Interrogated",
+      "current_location": "pc_kaelen_cellar_001",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10,
+          "history": [
+            "Defeated in her Inner Sanctum",
+            "Bound and interrogated by the Shadow Weaver"
+          ]
+        }
+      },
+      "health": {
+        "hp": 1
+      }
+    },
+    "Vane": {
+      "status": "hidden",
+      "current_location": "Outer City Slums"
+    },
+    "Kora": {
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 5,
+          "history": [
+            "Re-pledged loyalty to the Weaver in the Sunken Vault"
+          ]
+        }
+      },
+      "role": "Household Security (Lieutenant)",
+      "tier": "knight",
+      "current_location": "Upper City Boundary",
+      "gender": "female",
+      "health": {
+        "hp_max": 53,
+        "hp": 53
+      },
+      "level": 7
+    },
+    "npc_silas_001": {
+      "equipment": {
+        "armor": "+1 Half-Plate",
+        "main_hand": "+1 Mace"
+      }
+    },
+    "Lord Brampton": {
+      "knowledge": [
+        "Voss is a highly capable specialist found by rumor",
+        "Has no knowledge of the 'Shadow Weaver' or 'Absolute' history"
+      ],
+      "description": "A wealthy Upper City noble, politically powerful but naive regarding the nuances of the criminal underworld.",
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 6,
+          "history": [
+            "Kaelen recovered the signets flawlessly.",
+            "Kaelen revealed his Level 13 power, deeply impressing the Lord.",
+            "Agreed to provide an estate and high-income retainer."
+          ]
+        }
+      }
+    },
+    "Lieutenant Torvin": {
+      "attitude_to_party": "hostile",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -5,
+          "history": [
+            "Recognized Kaelen's noble facade as a high-level deception",
+            "Detected a 'tomb-like' aura from the farmer"
+          ]
+        }
+      }
+    },
+    "npc_marlo_001": {
+      "status": "captured/unconscious",
+      "current_location": "pc_kaelen_cellar_001"
+    },
+    "npc_hook_001": {
+      "status": "captured/unconscious",
+      "current_location": "pc_kaelen_cellar_001"
+    },
+    "npc_kora_001": {
+      "equipment": {
+        "armor": "+1 Breastplate",
+        "main_hand": "+1 Dagger"
+      }
+    },
+    "npc_elias_001": {
+      "equipment": {
+        "armor": "+1 Studded Leather",
+        "main_hand": "+1 Shortsword"
+      }
+    },
+    "Rat-King Mick": {
+      "relationships": {
+        "player": {
+          "trust_level": 1,
+          "history": [
+            "Received 500gp payoff",
+            "Terrified by Level 14 aura"
+          ]
+        }
+      }
+    },
+    "npc_zhent_commander": {
+      "status": "captured",
+      "health": {
+        "hp": 135
+      }
+    },
+    "Silk Vala": {
+      "relationships": {
+        "player": {
+          "trust_level": 2,
+          "history": [
+            "Received 500gp payoff",
+            "Witnessed the Weeping Pipe strike"
+          ]
+        }
+      }
+    },
+    "npc_twitch_001": {
+      "name": "npc_twitch_001"
+    },
+    "npc_grog_001": {
+      "name": "npc_grog_001"
+    },
+    "Jax": {
+      "status": "hidden",
+      "current_location": "Outer City Slums"
+    },
+    "Sariel Voss": {
+      "role": "Lieutenant",
+      "class_name": "Bard (College of Swords)",
+      "stats": {
+        "strength": 10,
+        "dexterity": 18,
+        "intelligence": 12,
+        "wisdom": 10,
+        "charisma": 16,
+        "constitution": 14
+      },
+      "entity_id": "npc_sariel_001",
+      "display_name": "Sariel Voss",
+      "ac": 17,
+      "spells_known": [
+        "Charm Person",
+        "Sleep",
+        "Faerie Fire",
+        "Hold Person",
+        "Suggestion",
+        "Silence",
+        "Hypnotic Pattern",
+        "Fear",
+        "Dispel Magic",
+        {
+          "level": 4,
+          "name": "Confusion"
+        }
+      ],
+      "resources": {
+        "salary_tenday": 100
+      },
+      "features": [
+        "Extra Attack",
+        "Blade Flourish",
+        "Jack of All Trades",
+        "Expertise (Stealth, Intimidation)"
+      ],
+      "tier": "knight",
+      "hp_max": 46,
+      "level": 7,
+      "hp_current": 46,
+      "health": {
+        "hp_max": 54,
+        "hp": 54
+      },
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 2,
+          "history": [
+            "Promoted to Lieutenant and formally began her 'tripod' of power."
+          ]
+        }
+      },
+      "equipment": {
+        "backpack": [
+          {
+            "equipped": false,
+            "stats": "+1 Glamoured Studded Leather",
+            "name": "Silksong Armor"
+          }
+        ],
+        "armor": {
+          "equipped": true,
+          "stats": "AC 13 + DEX + 1, +5 to Stealth checks",
+          "name": "Wraith-Skin Studded Leather"
+        }
+      }
+    },
+    "Gared": {
+      "attitude_to_party": "friendly",
+      "display_name": "Old Gared",
+      "entity_id": "npc_gared_001",
+      "role": "Neighboring Farmer",
+      "tier": "commoner",
+      "level": 2
+    },
+    "npc_sariel_001": {
+      "equipment": {
+        "armor": {
+          "equipped": true,
+          "stats": "AC 13 + DEX + 1; can change appearance as a bonus action",
+          "name": "Silksong Armor (+1 Glamoured Studded Leather)"
+        }
+      },
+      "level": 6
+    },
+    "Garrick": {
+      "display_name": "Garrick",
+      "entity_id": "npc_garrick_001",
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 2,
+          "history": [
+            "Hired to maintain the farm; paid a season's wage in advance."
+          ]
+        }
+      },
+      "tier": "commoner",
+      "role": "Farmhand"
+    },
+    "Lana": {
+      "relationships": {
+        "player": {
+          "history": [
+            "Learned Kaelen was a commander in the wars"
+          ]
+        }
+      }
+    },
+    "Warehouse Foreman": {
+      "name": "Warehouse Foreman"
+    },
+    "Nine-Fingers Keene": {
+      "attitude_to_party": "antagonistic",
+      "status": "paralyzed with fear",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10,
+          "history": [
+            "Lost 50% of elite forces to the Reaper",
+            "Believe they face a Level 18 legend"
+          ]
+        }
+      }
+    },
+    "Silas": {
+      "role": "Steward to Lord Brampton",
+      "tier": "merchant",
+      "entity_id": "npc_silas_001",
+      "status": "normal",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 1,
+          "history": [
+            "Hired Kaelen to recover stolen signets"
+          ]
+        }
+      },
+      "display_name": "Silas",
+      "level": 3
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "arc_milestones": {},
+    "active_constraints": [
+      "Prioritize Slice of Life narrative and family dynamics over existential threats.",
+      "Challenges must respect Kaelen's competence; avoid 'accidental signature' tropes or narrative convenience that breaks his Spymaster persona.",
+      "Nine-Fingers Keene and the Guild are acting on general suspicion of cult cells, not specific knowledge of Kaelen's return.",
+      "Shadow Smites and Paladin abilities leave zero forensic evidence, including necrotic rot or cellular decay. Suspicion from NPCs must be purely circumstantial or based on political timing.",
+      "Guild Tracking Logic: Keene tracks 'ghosts' via Legacy Nest Mapping, Interrogation Dominos, and Undercity Sovereignty/Informants.",
+      "Nine-Fingers Keene has a finite and now depleted pool of elite operatives; the loss of the Drowners creates a long-term tactical vacuum for specialized Guild strikes."
+    ],
+    "god_mode": {
+      "setting": "Play as a farmer in the aftermath of bg3. Assume I am a hidden level 12 previous villain who has become neutral and have three children aged 16-8 two girls and one boy and a wife who doesn\u2019t know my true past. I own a medium sized farm in a village near baldurs gate"
+    },
+    "sanctuary_mode": {
+      "active": true,
+      "scale": "epic",
+      "activated_turn": 91,
+      "arc": "Heart of the Serpent",
+      "expires_turn": 121
+    },
+    "next_companion_arc_turn": 5,
+    "active_missions": [
+      {
+        "title": "Enforcing the Charter",
+        "status": "accepted",
+        "mission_id": "charter_enforcement",
+        "objective": "Utilize the High Hall mandate to pacify harbor threats and dismantle Zhentarim nodes."
+      }
+    ],
+    "divine_upgrade_available": false,
+    "success_streak": 2,
+    "_agent_selection_tracker": {
+      "count": 1,
+      "agent": "StoryModeAgent",
+      "rewards_skip_count": 9
+    },
+    "universe_control": 0,
+    "character_creation_completed": true,
+    "last_location": "The Undercity Ruins, Heapside Sub-Levels",
+    "core_memories": [
+      "Vaelin Thorne is a Level 12 Oathbreaker Paladin and former villain living as a neutral farmer near Baldur's Gate.",
+      "Vaelin's family\u2014wife Lana, daughters Sariel (16) and Elowen (8), and son Bran (12)\u2014are unaware of his dark past.",
+      "Kaelen Voss is a Level 12 Oathbreaker Paladin and former Judicator of the Absolute living as a neutral farmer.",
+      "Kaelen Voss, formerly a ruthless Judicator of the Absolute known as 'The Widow-Maker', has lived for 16 years as a farmer near Baldur's Gate, keeping his past a secret from his wife Lana and three children.",
+      "The campaign takes place in 1508 DR, exactly 16 years after the fall of the Absolute; Kaelen Voss has spent these years building a farm, raising three children (Sariel, Bran, Elowen), and systematically eliminating any ghosts from his past that threatened his secret.",
+      "Kaelen's Recognition Profile: Virtually anonymous to commoners, but remains a potential target for recognition by BG3 heroes or senior Absolute remnants who possess high-level enforcer records.",
+      "Kaelen attended a village meeting in Millbrook where a Flaming Fist officer announced a veteran census and reports of Absolute cult remnants in the nearby woods.",
+      "Kaelen successfully deceived Lana and the village crowd by feigning a disabling plow injury to avoid the Flaming Fist veteran census.",
+      "Kaelen returned to the farm with his family following the Millbrook curfew, noting Sariel's increasing perception of his combat-ready instincts.",
+      "Sariel (Lvl 4) remains deeply suspicious of Kaelen's feigned injuries and deflected his attempt to discuss her future with guarded silence.",
+      "Kaelen Voss (Lvl 12) revealed his former high-ranking military status to Sariel (Lvl 4), leading her to admit she desires military training only to acquire the power to protect her family's sanctuary.",
+      "Kaelen has formally accepted Sariel as his student in the 'craft' of survival, validating her belief that power is the only true currency.",
+      "Kaelen revealed his past as a high-ranking military commander to Lana, using it to explain Sariel's restless and tactical nature.",
+      "Kaelen successfully convinced Lana that Sariel's training is a necessary protective measure, securing her reluctant consent.",
+      "Kaelen has spent three days intensively training Sariel (Lvl 4) in stealth and awareness; she has shown a chilling natural aptitude for the 'Judicator's Stance'.",
+      "Sariel reaches Level 5 through Kaelen's training, but the Flaming Fist patrol has arrested a neighbor and is now within two miles of the farm.",
+      "Kaelen has taught Sariel (Lvl 5) that power is a 'tripod' of military might, influence, and wealth, and has proposed joining the Adventurers' Guild as a tactical cover for their presence near Baldur's Gate.",
+      "Sariel Voss is now a Level 5 Swords Bard, her tactical inheritance from Kaelen manifesting as a deadly mastery of blade flourishes and battlefield presence.",
+      "The 'Displaced Noble' gambit failed; Lieutenant Torvin saw through Kaelen's facade, identifying his dangerous aura and hidden wealth as proof of a dark secret.",
+      "Kaelen successfully rattled Lieutenant Torvin by reframing his dark aura and hidden wealth as common tax evasion and 'cheap' protective magic, bringing the officer to the brink of accepting a 1,500gp bribe.",
+      "Kaelen successfully bribed Lieutenant Torvin with 1,500gp, reframing his dark aura as tax-evasion-related 'cheap' magic and ending the immediate threat to the farm.",
+      "Kaelen established the 'Merchant Gambit'\u2014a plan to move to Baldur's Gate, open a shop, and acquire power while Lana maintains the farm as their anchor.",
+      "Kaelen successfully convinced Lana to accept the merchant shop plan by reframing it as a 'lightning rod' to protect the farm and the younger children.",
+      "Kaelen hired Garrick, a silent veteran, to maintain the farm while he and Sariel established 'Voss Curiosities' in Baldur's Gate's Lower City as a tactical cover.",
+      "Voss Curiosities successfully opened in the Lower City, generating 33gp in profit on its first day and establishing Kaelen and Sariel as credible, if eccentric, newcomers to the merchant class.",
+      "Kaelen accepted a contract from Silas, steward to Lord Brampton, to recover stolen family signets from the docks, receiving a 200gp retainer and identifying Dockmaster Farlen as a key lead.",
+      "Kaelen negotiated a 1,000gp total fee with Silas for the Brampton signets and secured a promise of a 'Writ of Patronage' to shield the shop from city authorities.",
+      "Kaelen successfully leveraged Lord Brampton's desperation to secure official 'Retainer' status for himself and Sariel, establishing a high-level legal shield for their operations in Baldur's Gate.",
+      "Kaelen and Sariel successfully scouted Dockmaster Farlen's pier at night, identifying active Guild surveillance and a potential entrance through the office roof.",
+      "Kaelen and Sariel successfully infiltrated Dockmaster Farlen's office and discovered that the Brampton signets have been moved to Guild Warehouse 4.",
+      "Kaelen and Sariel's infiltration of Warehouse 4 was compromised when Sariel was spotted by a Guild lookout on the gantry.",
+      "Kaelen neutralized a Guild lookout at Warehouse 4 with a precision longbow shot, preventing an alarm but leaving Sariel shaken by her near-fatal lapse in stealth.",
+      "Kaelen Voss reached Level 13 during the infiltration of Warehouse 4, unlocking the ability to manifest 4th-tier arcane control as his 'Widow-Maker' legacy deepened.",
+      "Kaelen successfully scouted and cleared a path across the Warehouse 4 gantry, utilizing his superior stealth and tactical awareness to guide Sariel inside without further detection.",
+      "Kaelen Voss successfully infiltrated Warehouse 4 with Sariel, locating Crate #882 from the catwalks while avoiding detection via superior tactical scouting.",
+      "Kaelen and Sariel successfully descended to the warehouse floor via cargo nets, reaching the cover of silk-bales near the targeted Crate #882.",
+      "Kaelen and Sariel successfully executed the Warehouse 4 foreman silently, securing Crate #882 while maintaining their stealth cover.",
+      "Correction: Kaelen is an Oathbreaker not through malice, but through the clinical execution of his squad to reject the Absolute's hive-mind 'Grand Design' during the Fall.",
+      "Sariel explicitly confronted Kaelen about his 'High Judicator' past after witnessing his Shadow Smite at Warehouse 4.",
+      "Sariel explicitly confronted Kaelen about his High Judicator past after witnessing his Shadow Smite at Warehouse 4; Kaelen admitted the truth but framed it as a tactical inheritance for her survival.",
+      "Kaelen and Sariel successfully delivered the Brampton signets at midnight, finalizing their status as official House Retainers and establishing a legal foothold in the Upper City.",
+      "Silas, steward to Lord Brampton, revealed that High Inquisitor Lora is hunting Absolute 'Sleepers' by cross-referencing new noble arrivals, while the Guild is hunting the 'Silent Reaper' for the Warehouse 4 hit.",
+      "Sariel remains deeply conflicted about Kaelen's High Judicator past, viewing it as a tactical liability rather than just a personal secret.",
+      "Kaelen Voss was known as the 'Shadow Weaver' among the Absolute, leading the elite 'Iron Phantoms' unit; his reputation for silent lethality has resurfaced as the 'Silent Reaper' rumors in the Grey Harbor.",
+      "Kaelen was known for treating his subordinates with cold fairness; surviving Iron Phantoms in the world may offer loyalty or assistance if they recognize his leadership style.",
+      "Correction: Kaelen was the legendary 'Shadow Weaver' of the Iron Phantoms who treated men with fairness; he and Sariel arrived at the Brampton Estate for their 8:00 AM audience on time.",
+      "Kaelen and Sariel formally became Retainers of House Brampton at 8:00 AM; Brampton is grateful but unaware of Kaelen's Shadow Weaver identity, and Inquisitor Lora is investigating the forensic anomalies of the foreman's death rather than magical resonance.",
+      "Correction: No paperwork trail exists linking Kaelen to the Brampton recovery, as Lord Brampton avoided filing a formal crime report to maintain discretion.",
+      "Lord Brampton is a wealthy but underworld-naive noble; Silas discovered 'Voss Curiosities' through local rumors of Kaelen's 'eye for quality', having no knowledge of Kaelen's true identity as the Shadow Weaver.",
+      "Silas discovered 'Voss Curiosities' by chance; he was drawn in by Kaelen's formidable bearing and professional poise, recognizing him as a high-level combatant despite his merchant facade.",
+      "Lord Brampton has agreed to use his political influence to shield Voss Curiosities from Inquisitor Lora's forensic investigation, framing the shop's security as a matter of House Brampton's private concern.",
+      "Kaelen Voss (Lvl 13) secured a permanent estate (Miller's Rest) and a 500gp/tenday retainer from Lord Brampton (Lvl 10) by demonstrating his legendary power and strategic value.",
+      "Kaelen Voss formally secured Miller's Rest on the bluffs and established absolute authority over the Brampton Guard, though their combat readiness remains low; a former Iron Phantom scout has made contact via a coded signal.",
+      "Lord Brampton and Silas have realized Kaelen is a high-tier (Level 13) legend, leading Brampton to prioritize binding Kaelen's loyalty through wealth and estate comforts while shielding him from Inquisitor Lora.",
+      "Elias, a former Iron Phantom scout, has established contact and warned Kaelen that the Guild is purging Absolute 'ghosts' in the Lower City.",
+      "Elias recited three sanitized facts about the Iron Phantoms' protocols, confirming his knowledge of the 'Shadow Weaver's' craft, though Kaelen remains suspicious of his delivery.",
+      "Kaelen formally declared his lack of loyalty to the Absolute to Elias and Sariel, framing his 'Shadow Weaver' past as a dead legacy he will not allow to consume his family.",
+      "Kaelen Voss (Lvl 13) agreed to meet with the surviving Iron Phantom 'ghosts' at 'The Drowned Rat' in the Undercity to assess their survival, despite his lack of loyalty to the Absolute.",
+      "Sariel Voss has reached Level 6 as a Swords Bard, gaining the Extra Attack feature as her 'Shadow Weaver' training begins to manifest in her combat rhythm.",
+      "Kaelen Voss (Lvl 13) has returned to the Undercity as the 'Shadow Weaver' to meet the surviving Iron Phantoms, bringing Sariel (Lvl 6) into the heart of his dark legacy.",
+      "Kaelen Voss (Shadow Weaver) met with the surviving Iron Phantoms in the Undercity; the unit is broken by the Guild's purge, but Kaelen has assumed an unofficial advisory command to assist their survival.",
+      "Inquisitor Lora is using a Mind-Eater's skull to track the 'Psychic Echo'\u2014a soul-signature left on former Absolute members\u2014putting Kaelen and the Iron Phantoms at risk of forensic detection.",
+      "Clarification: Inquisitor Lora (City Law) and Nine-Fingers Keene (Criminal Underworld) are rival factions chasing the 'Silent Reaper' for different reasons\u2014Lora seeks a security threat, while Keene seeks to crush a perceived rival cell.",
+      "Correction: Kaelen's Shadow Smites leave no forensic trace or necrotic decay; forensic healers find no evidence of magical foul play on his victims.",
+      "Nine-Fingers Keene is purging Absolute remnants using legacy maps of cult bolt-holes and an interrogation-driven intelligence chain, unaware of the Shadow Weaver's specific return.",
+      "The Iron Phantoms are being tracked by Nine-Fingers Keene through legacy nest audits and interrogation chains, utilizing Kaelen's own old tactical infrastructure against the survivors.",
+      "Kaelen led the Iron Phantoms to a new safehouse, the Sunken Vault, but failed to detect a subtle pursuit during the retreat.",
+      "Kaelen performed a solo deep scout of the Heapside junction; despite remaining unseen, his check for observers yielded no concrete leads, leaving the 'phantom pressure' of being watched unresolved.",
+      "Kaelen re-established command over the surviving Iron Phantoms in the Sunken Vault, appointing Kora as field lieutenant and initiating a 'scrubbing' protocol to erase their tactical footprint.",
+      "Kaelen successfully executed a Tiered Dispersal of the Iron Phantoms, sending the broken survivors to the Outer City with coin while integrating the elite core into his Miller's Rest staff; the unit systematically 'scrubbed' their legacy marks, blinding the Guild's intelligence chain.",
+      "Kaelen and Sariel successfully delivered the Brampton signets and transitioned to official House Retainers at Miller's Rest.",
+      "Kaelen, Sariel, and the core Phantoms (Kora and Elias) are now heading to the Miller's Rest estate in the Upper City to establish their new base of operations under Lord Brampton's patronage.",
+      "Kaelen successfully established Miller's Rest as his family's new sanctuary, integrating the elite core of the Phantoms as household security and providing Lana with the reassurance needed to maintain the 'noble' facade.",
+      "The Voss family successfully established their presence at Miller's Rest over the month of Kythorn, with Kaelen securing the 'Influence' tripod leg while Sariel reached new heights of lethal mastery as a student of the craft.",
+      "Kaelen Voss successfully persuaded Lord Brampton to adopt a 'Grand Strategy' involving signaling Zhentarim-Harper war to the Flaming Fist to secure a political mandate from the Four Dukes.",
+      "Kaelen successfully established a tiered defense at Miller's Rest, integrating a core of nine Iron Phantoms and establishing a loyal NCO structure within the household guard through 'Glory and Reward' tactics.",
+      "Sariel Voss has been promoted to Lieutenant of the Brampton security wing, establishing her elite status through a lethal demonstration of her Swords Bard mastery.",
+      "Kaelen attempted to negotiate Fist Auxiliary status with Commander Harth at Miller's Rest, but the request was stalled by Harth's suspicion of Kaelen's 'disgraced noble' cover story.",
+      "Kaelen proposed a probationary joint-operation period to Commander Harth to prove House Brampton's loyalty and secure Auxiliary status.",
+      "Kaelen briefed his newly reorganized unit and spent 10,500gp to equip Sariel, himself, and his three core lieutenants with high-quality magical gear for the upcoming Zhentarim pacification mission.",
+      "Kaelen successfully scouted the fortified Zhentarim block in Heapside at 01:30 on Flamerule 11, identifying alarm wards and rooftop mages before the Flaming Fist mission began.",
+      "Kaelen successfully coordinated a joint strike with the Flaming Fist, using Elias to relay Zhentarim reinforcement schedules while his unit positioned for a simultaneous breach of the Heapside headquarters.",
+      "Kaelen and Sariel successfully breached the Zhentarim Heapside HQ at 04:00, coordinated with a Flaming Fist strike, though the rooftop mages' resistance alerted the interior guards.",
+      "The Zhentarim headquarters breach was secured by Kaelen's use of high-tier mental manipulation, paralyzing the command structure during the Flaming Fist raid.",
+      "Correction: Kaelen Voss is a Shadow Paladin, having discarded the rigid dogma of the Absolute to master a unique discipline of silent execution, stealth, and mental subversion.",
+      "Kaelen and Sariel successfully neutralized the Zhentarim Heapside HQ command cell, eliminating the elite guards and paralyzing the Commander with high-tier shadow magic.",
+      "Kaelen and Sariel successfully neutralized the Zhentarim command cell and secured critical intelligence before the Flaming Fist breach.",
+      "Kaelen and Sariel successfully executed a surgical strike on the Zhentarim Heapside HQ, neutralizing the command cell and handing the facility over to Commander Harth's Flaming Fist unit.",
+      "Commander Harth was profoundly impressed by the surgical pacification of the Zhentarim HQ, specifically noting Sariel's prodigal combat skill and Kaelen's 'Scalpel' efficiency.",
+      "Kaelen Voss successfully negotiated a joint-training agreement and provisional Auxiliary status with Commander Harth, securing a high-level military alliance for House Brampton.",
+      "The delegated scouting of the Guild's reaction to the Heapside raid was a critical failure; Elias and Kora were ambushed by 'Drowners' and returned to Miller's Rest wounded and without intelligence.",
+      "After the failed harbor scouting, Kaelen healed Elias and Kora and secured formal Fist Auxiliary papers and a political shield from Lord Brampton.",
+      "Kaelen successfully executed a 'Counter-Ambush' in the Grey Harbor, leading Guild 'Drowners' into a Flaming Fist slaughter and framing it as an unprovoked attack on his unit.",
+      "Kaelen Voss successfully secured the 'Brampton Security Charter' from the Council of Four, granting him official legal authority, funding, and a mandate to raise a specialized security force in Baldur's Gate.",
+      "Kaelen Voss successfully established the 'Brampton Shadows'\u2014an elite military unit comprised of 20 high-level specialists (including 9 Iron Phantoms) and 120 soldiers, with Commander Harth serving as second-in-command.",
+      "Kaelen successfully deployed a 'Public Shield' of Fist recruits to suppress Zhentarim activity while personally infiltrating a Guild den to identify sub-bosses Vala and Mick as potential defectors.",
+      "Kaelen Voss reached Level 14, unlocking Cleansing Touch and deepening his role as the Master of Shadows while maintaining the 'Public Shield' in Heapside.",
+      "Kaelen successfully bribed Guild sub-bosses Vala and Mick and utilized their intelligence to execute a surgical strike on the Guild's 'Cleansing Crews' at the Weeping Pipe.",
+      "Kaelen successfully extracted elite Guild prisoners to Miller's Rest, but the interrogation of leader Karn failed to yield the 'Inner Sanctum' codes due to Guild leverage on Karn's family in the Styes.",
+      "The 'Shadow Weaver' has neutralized 38 Level 8 Guild Elites, destroying 1 of Keene's 4 Eraser units and capturing 12 prisoners.",
+      "The 'Shadow Weaver' has neutralized 38 Level 8 Guild Elites, destroying 1 of Keene's 4 Eraser units and capturing 12 elite prisoners, effectively halving the Guild's specialized enforcement capacity.",
+      "The silent extraction of Karn's family from the Styes has secured his absolute loyalty and the bypass codes for Nine-Fingers Keene's lead-lined Inner Sanctum.",
+      "The 'Shadow Weaver' has neutralized 38 Level 8 Guild Elites (50% of harbor capacity), and the resulting rumors of a Level 18 Avatar have paralyzed Nine-Fingers Keene's leadership.",
+      "The Shadow Weaver successfully breached the Inner Sanctum, neutralizing Nine-Fingers Keene\u2019s lieutenants and leaving the Queen of the Underworld critically wounded and mentally shattered.",
+      "The Shadow Weaver successfully breached the Inner Sanctum, neutralizing Nine-Fingers Keene and her lieutenants, effectively decapitating the Guild's leadership in Baldur's Gate.",
+      "The Shadow Weaver successfully decapitated the Guild leadership, capturing Nine-Fingers Keene and her lieutenants in their lead-lined Inner Sanctum.",
+      "Kaelen successfully extracted Nine-Fingers Keene and her lieutenants to the lead-lined cellars of Miller's Rest for interrogation, utilizing his official Fist Auxiliary mandate to bypass local security.",
+      "Nine-Fingers Keene and her lieutenants are secured at Miller's Rest, but the Guild remains in a state of paranoid stasis, waiting for proof of her fall.",
+      "The Shadow Weaver established a two-pronged dominance: Kora secured the harbor's wavering gangs with proof of Keene's capture, while Kaelen began the systematic dismantling of Keene's mental fortress at Miller's Rest.",
+      "Kaelen extracted the 'Bloomridge Fail-safe' from Nine-Fingers Keene: a dossier linking him to the 'Silent Reaper' will be delivered to Inquisitor Lora if not intercepted by midday.",
+      "Nine-Fingers Keene refused to surrender the Bloomridge bypass, identifying the dossier as her only survival leverage against Kaelen's takeover.",
+      "Kaelen extracted the Bloomridge courier details (scarred lip, Gilded Goblet terrace) from Nine-Fingers Keene using mental dominance.",
+      "Kaelen and Sariel successfully intercepted Nine-Fingers Keene's fail-safe dossier in Bloomridge, replacing it with a decoy and preventing the exposure of the 'Shadow Weaver' to Inquisitor Lora.",
+      "Nine-Fingers Keene revealed that the Guild has been taxing and 'protecting' hundreds of broken Absolute survivors in the Styes, creating a massive forensic liability that Inquisitor Lora is currently investigating.",
+      "Kaelen identified that Inquisitor Lora is targeting the Styes for Absolute remnants; he plans to use the existing Zhentarim misinformation and the Styes' refugees to create a definitive false trail.",
+      "The 'Double Blind' successfully redirected Inquisitor Lora's forensic investigation to the Styes, providing Miller's Rest with absolute tactical anonymity.",
+      "Kaelen Voss reached the 15th tier of mastery, unlocking the 'Soul of the Abyss' and establishing a sovereign 'tripod' of power that spans the High Hall and the Grey Harbor.",
+      "The Shadow Weaver successfully consolidated the harbor gangs after a failed negotiation led to the silent execution of 'Iron-Gut' Grog and other traditionalist sub-bosses by the Iron Phantoms."
+    ],
+    "divine_potential": 0,
+    "attribute_system": "D&D",
+    "major_event_pressure_budget": {
+      "new_major_event": false,
+      "special_circumstances": false,
+      "window": "24h",
+      "major_events_this_window": 0,
+      "rationale": "Consolidation of the harbor follows naturally from the Guild's decapitation; no new dramatic shift is introduced this turn."
+    },
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "campaign_tier": "mortal",
+    "character_creation_in_progress": false,
+    "completed_missions": [
+      "heart_of_the_serpent"
+    ],
+    "multiverse_upgrade_available": false,
+    "companion_arcs": {
+      "Sariel": {
+        "phase": "combat_breakthrough",
+        "arc_type": "The Blade's Song",
+        "progress": 75,
+        "history": [
+          "Mirtul 25, 1508: Sariel reaches Level 5 after a grueling week of training, showing a natural 'Judicator' instinct.",
+          "Mirtul 25, 1508: Sariel's training has been refined into the College of Swords discipline, channeling the 'Widow-Maker's' legacy into a lethal, rhythmic combat style.",
+          "Mirtul 25, 1508: Sariel witnesses the Flaming Fist's Detect Magic focus reacting to Kaelen's aura, realizing his 'gifts' are darker than simple military rank."
+        ],
+        "callbacks": [
+          {
+            "trigger": "Kaelen uses a Paladin class feature in Sariel's presence",
+            "effect": "Sariel explicitly confronts Kaelen about his 'gifts'."
+          }
+        ]
+      }
+    },
+    "farm_economics": {
+      "current_net_daily": 70,
+      "daily_gross": 85,
+      "daily_net_baseline": 5,
+      "notes": "Added Sariel's Retainer (10gp/day equivalent) to household yields; Brampton pays her separately.",
+      "active_labor_cost": 0,
+      "daily_expenses": 15
+    },
+    "character_creation_stage": "complete"
+  },
+  "social_hp_challenge": {
+    "social_hp": 0,
+    "roll_dc": 22,
+    "cooldown_remaining": 0,
+    "successes": 12,
+    "roll_result": 20,
+    "request_severity": "submission",
+    "npc_tier": "king",
+    "successes_needed": 5,
+    "social_hp_damage": 2,
+    "status": "SURRENDERED",
+    "resistance_shown": "Keene's will shattered upon seeing the dossier; she has yielded the Guild.",
+    "social_hp_max": 12,
+    "objective": "Break her will / Extract fail-safe",
+    "skill_used": "Intimidation",
+    "npc_name": "Nine-Fingers Keene"
+  },
+  "combat_state": {
+    "in_combat": false,
+    "current_round": 1,
+    "rewards_processed": true,
+    "combat_phase": "ended",
+    "combatants": {
+      "npc_zhent_commander": {
+        "hp_current": 135,
+        "hp_max": 135,
+        "status": [
+          "paralyzed"
+        ],
+        "type": "enemy"
+      },
+      "npc_hook_001": {
+        "hp_current": 0,
+        "hp_max": 1,
+        "status": [
+          "downed",
+          "groveling"
+        ]
+      },
+      "npc_keene_001": {
+        "hp_current": 37,
+        "hp_max": 1,
+        "status": [
+          "wounded",
+          "confused"
+        ]
+      },
+      "npc_marlo_001": {
+        "hp_current": 0,
+        "hp_max": 1,
+        "status": [
+          "downed",
+          "groveling"
+        ]
+      }
+    },
+    "combat_summary": {
+      "enemies_defeated": [
+        "npc_keene_001",
+        "npc_marlo_001",
+        "npc_hook_001"
+      ],
+      "rounds_fought": 1,
+      "xp_awarded": 2500,
+      "enemies_captured": [
+        "npc_zhent_commander"
+      ],
+      "loot_distributed": true
+    }
+  },
+  "last_state_update_timestamp": "2026-06-08 16:47:54.827000+00:00",
+  "turn_number": 104,
+  "player_turn": 104,
+  "last_living_world_turn": 104,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 1,
+    "minute": 0,
+    "time_of_day": "deep night",
+    "day": 14,
+    "year": 1508,
+    "month": "Flamerule"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "active_missions": [
+    {
+      "title": "Enforcing the Charter",
+      "status": "in_progress",
+      "mission_id": "charter_enforcement",
+      "objective": "Leverage the capture of Guild leadership to stabilize the harbor and identify city-level corruption."
+    }
+  ],
+  "planning_block": {
+    "context": "Post-consolidation strategic planning",
+    "thinking": "The Guild is decapitated and the sub-bosses are falling into line. I have established a legal front with the Flaming Fist and redirected Inquisitor Lora. Now, I must ensure the transition from street-gangs to 'security consultants' is seamless to prevent a power vacuum.",
+    "choices": [
+      {
+        "id": "establish_voss_protocols",
+        "text": "Establish 'Voss Protocols'",
+        "risk_level": "low",
+        "description": "Formally register the flipped gangs as 'Brampton Logistics' to provide legal cover for their movements.",
+        "cons": [
+          "Increases the paper trail linking the estate to the harbor"
+        ],
+        "pros": [
+          "Total legal immunity for operatives",
+          "Increases passive income yields"
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "strategic_purge_resistors",
+        "text": "Strategic Purge of Resistors",
+        "risk_level": "medium",
+        "description": "Send Kora (Lvl 7) and the Phantoms to eliminate the few remaining 'Keene-loyalist' cells before they can reorganize.",
+        "cons": [
+          "May cause brief, visible violence in the harbor"
+        ],
+        "pros": [
+          "Zero chance of a Guild counter-coup",
+          "Demonstrates absolute intolerance for dissent"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "expand_harper_misinformation",
+        "text": "Expand Harper Misinformation",
+        "risk_level": "high",
+        "description": "Leak 'proof' to the Harpers that the Zhentarim are planning a strike on the High Hall to keep them focused away from the harbor.",
+        "cons": [
+          "Risk of the Harpers discovering the Shadow Weaver's involvement"
+        ],
+        "pros": [
+          "Uses one rival to suppress another",
+          "Deepens Kaelen's tactical anonymity"
+        ],
+        "confidence": "low"
+      }
+    ]
+  },
+  "army_data": {
+    "overall_morale": 85,
+    "forces": {
+      "Fist Auxiliary Guard": {
+        "blocks": 10,
+        "morale": 80,
+        "type": "infantry",
+        "level": 4
+      },
+      "Brampton Shadows Core": {
+        "blocks": 2,
+        "morale": 90,
+        "type": "elite_infantry",
+        "level": 6
+      },
+      "Phantom Scouts": {
+        "blocks": 3,
+        "morale": 95,
+        "type": "scouts",
+        "level": 6
+      }
+    },
+    "total_strength": 150
+  },
+  "rewards_box": {
+    "current_xp": 170455,
+    "loot": [
+      "Consolidated Guild Authority",
+      "Drafted Shadow-Mercantile Doctrine"
+    ],
+    "gold": 0.0,
+    "progress_percent": 18,
+    "xp_gained": 2400,
+    "current_level": 15,
+    "xp_total": 170455,
+    "xp_to_next_level": 24545,
+    "source": "milestone",
+    "next_level_xp": 195000
+  },
+  "completed_missions": [],
+  "world_events": {
+    "background_events": [
+      {
+        "is_historical": true,
+        "resolved_scene_number": 17,
+        "player_aware": false,
+        "turn_generated": 9,
+        "location": "South Road District",
+        "actor": "Flaming Fist Patrol",
+        "event_type": "immediate",
+        "scene_generated": 17,
+        "discovery_condition": "News from neighbors or seeing the patrol",
+        "status": "resolved",
+        "outcome": "One veteran arrested for 'inconsistencies' in records",
+        "resolved_turn": 90,
+        "id": "neighbor_farm_census",
+        "action": "Begins door-to-door veteran census at the Miller farm, two miles away",
+        "delta_action": "add"
+      },
+      {
+        "is_historical": true,
+        "resolved_scene_number": 17,
+        "player_aware": false,
+        "turn_generated": 9,
+        "location": "Wood of Sharp Teeth",
+        "actor": "The Whispering Shadows",
+        "event_type": "long_term",
+        "scene_generated": 17,
+        "discovery_condition": "Scouting the woods",
+        "status": "resolved",
+        "outcome": "The green fog expands, killing vegetation at the forest edge",
+        "resolved_turn": 90,
+        "id": "shadow_fog_expansion",
+        "action": "Ritual activity deep in the Wood of Sharp Teeth",
+        "delta_action": "update"
+      },
+      {
+        "is_historical": true,
+        "resolved_scene_number": 20,
+        "player_aware": true,
+        "turn_generated": 12,
+        "location": "Miller Farmstead",
+        "actor": "Lieutenant Torvin",
+        "event_type": "immediate",
+        "scene_generated": 20,
+        "status": "resolved",
+        "outcome": "Neighborhood in a state of high alert",
+        "resolved_turn": 93,
+        "player_impact": "The patrol is now within two miles of Kaelen's gate.",
+        "action": "Arrested Marcus Miller for aura inconsistencies",
+        "id": "marcus_miller_arrest",
+        "delta_action": "add"
+      },
+      {
+        "is_historical": true,
+        "resolved_scene_number": 20,
+        "player_aware": true,
+        "status": "resolved",
+        "location": "Voss North Pasture",
+        "resolved_turn": 93,
+        "id": "shadow_presence_closer",
+        "action": "Green fog seen at the edge of the Voss north pasture",
+        "turn_generated": 12,
+        "delta_action": "update",
+        "outcome": "Three sheep found dead with 'ash-skin'",
+        "actor": "The Whispering Shadows",
+        "event_type": "long_term",
+        "scene_generated": 20
+      },
+      {
+        "discovery_condition": "Attempting to travel to the city",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Escape to Baldur's Gate becomes significantly harder",
+        "actor": "Marshal Ravengard",
+        "action": "Ordering heavy patrols to block the South Road",
+        "player_impact": "Requires stealth or combat to bypass checkpoints",
+        "id": "fist_mobilization_south",
+        "location": "South Road District",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "resolved_scene_number": 29,
+        "status": "resolved",
+        "outcome": "Immediate arrest threat neutralized; Kaelen flagged as 'corrupt noble'",
+        "location": "Voss Farmstead",
+        "resolved_turn": 18,
+        "id": "torvin_bribe_resolved",
+        "actor": "Lieutenant Torvin",
+        "action": "Accepted 1,500gp bribe and departed",
+        "delta_action": "resolve"
+      },
+      {
+        "discovery_condition": "Listening at taverns or hearing from neighbors",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Increases risk of banditry or rival Fist interest",
+        "actor": "Lieutenant Torvin's Squad",
+        "action": "Whispering about the 'noble's gold' in South Road taverns",
+        "player_impact": "Threatens the secret of the hidden wealth",
+        "id": "fist_corruption_rumors",
+        "location": "South Road District",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Deep investigative work or city encounters",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Kaelen Voss is added to a secondary watch-list",
+        "actor": "High Inquisitor Lora (Lvl 11)",
+        "action": "Reviews Torvin's report on 'aura inconsistencies' in Millbrook",
+        "player_impact": "Direct threat to Kaelen's anonymity among high-level NPCs",
+        "id": "inquisitor_review",
+        "location": "Baldur's Gate",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "is_historical": true,
+        "resolved_scene_number": 0,
+        "player_aware": false,
+        "status": "resolved",
+        "actor": "Zhentarim Scouts",
+        "resolved_turn": 102,
+        "id": "zhentarim_surveillance",
+        "action": "Marking the new 'Voss Curiosities' shop as a potential front for unaffiliated wealth",
+        "discovery_condition": "Noticing tails or hearing Guild whispers",
+        "delta_action": "add",
+        "turn_generated": 21,
+        "outcome": "Increased chance of 'protection' offers or burglary attempts",
+        "event_type": "long_term",
+        "location": "Lower City"
+      },
+      {
+        "turn_generated": 21,
+        "resolved_scene_number": 0,
+        "player_aware": false,
+        "is_historical": true,
+        "location": "Wyrm's Rock",
+        "resolved_turn": 102,
+        "id": "inquisitor_lora_logs",
+        "outcome": "The 'Voss' name is now in a high-level active file",
+        "actor": "High Inquisitor Lora (Lvl 11)",
+        "delta_action": "update",
+        "status": "resolved",
+        "action": "Formally requests Lieutenant Torvin's patrol logs from the South Road",
+        "event_type": "long_term"
+      },
+      {
+        "is_historical": false,
+        "status": "pending",
+        "player_aware": false,
+        "discovery_condition": "Hearing from Brampton or witnessing a sensor sweep",
+        "location": "High Hall of Wonders",
+        "action": "Lora reviews reports of localized silence during the Warehouse 4 incident.",
+        "player_impact": "Directly restricts the use of Kaelen's primary combat 'gifts'",
+        "actor": "High Inquisitor Lora",
+        "outcome": "Lora is investigating the 'Silent Gap' anomaly at the harbor; no physical evidence links the death to a specific smite or caster.",
+        "delta_action": "update",
+        "id": "inquisitor_lora_active_audit",
+        "event_type": "immediate"
+      },
+      {
+        "turn_generated": 27,
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Security on the floor is now on edge",
+        "actor": "Guild Enforcers",
+        "action": "Lookout on gantry spotted an intruder",
+        "player_impact": "Increases DC of future stealth checks in this location",
+        "location": "Warehouse 4",
+        "id": "warehouse_4_alert_state",
+        "delta_action": "add",
+        "event_type": "immediate",
+        "scene_generated": 42
+      },
+      {
+        "discovery_condition": "Returning to the farm or receiving a message",
+        "status": "pending",
+        "player_aware": false,
+        "turn_generated": 27,
+        "actor": "The Whispering Shadows",
+        "action": "The scout has carved a cult sigil into the Voss barn door.",
+        "player_impact": "Direct threat to family safety",
+        "location": "Voss Farmstead",
+        "outcome": "Garrick is in a state of high alert; Lana is unaware.",
+        "delta_action": "update",
+        "id": "shadows_at_the_gate",
+        "event_type": "long_term",
+        "scene_generated": 42
+      },
+      {
+        "discovery_condition": "Tactical scouting or witnessing the arrival",
+        "status": "pending",
+        "player_aware": false,
+        "turn_generated": 30,
+        "actor": "The Guild",
+        "action": "Dispatching a 'Cleansing Crew' to the Heapside sewer district",
+        "player_impact": "Forces an immediate decision on the Phantom's survival",
+        "location": "Heapside Sewers",
+        "outcome": "The Drowned Rat is likely the next target within the hour",
+        "delta_action": "add",
+        "id": "nine_fingers_suspicion",
+        "event_type": "immediate",
+        "scene_generated": 48
+      },
+      {
+        "is_historical": false,
+        "status": "discovered",
+        "player_aware": true,
+        "discovery_condition": "Silas's report",
+        "location": "Grey Harbor",
+        "action": "Keene orders a crackdown on all known 'ghost' bolt-holes to find the cultist cell responsible for the silent hit.",
+        "id": "guild_reaper_hunt",
+        "outcome": "Guild is scouring the Lower City for Absolute cells they believe are responsible for the warehouse hit; the 'Reaper' is seen as a cult asset, not a specific individual.",
+        "actor": "The Guild",
+        "delta_action": "update",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Deep intelligence gathering",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Audit scheduled for the coming tenday",
+        "location": "Baldur's Gate",
+        "action": "Flagging 'Voss Curiosities' for aura inspection",
+        "id": "lora_shop_audit",
+        "actor": "High Inquisitor Lora",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Encountering mysterious marks or being approached in the city",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Three former scouts begin searching for Kaelen to offer their services or seek protection",
+        "actor": "The Iron Phantoms (Survivors)",
+        "action": "Recognizing the 'Silent Reaper' signature as the Shadow Weaver's craft",
+        "player_impact": "Potential allies or new complications from the past",
+        "location": "Lower City Slums",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Witnessed the signal at the estate gate.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Contact established with the Shadow Weaver.",
+        "location": "Lower City / Upper City",
+        "action": "Left a crow-mark on the 'Voss Curiosities' shop door before tracking Kaelen to the Upper City.",
+        "actor": "Elias (Iron Phantom Scout)",
+        "turn_generated": 42,
+        "event_type": "immediate",
+        "scene_generated": 70
+      },
+      {
+        "discovery_condition": "Elias's report",
+        "status": "discovered",
+        "player_aware": true,
+        "turn_generated": 45,
+        "actor": "The Guild",
+        "action": "Initiating a systematic purge of suspected Absolute remnants in the Lower City",
+        "player_impact": "Direct threat to potential allies and Kaelen's anonymity",
+        "location": "Lower City Slums / Sewers",
+        "outcome": "Three safe-houses identified; assets being seized",
+        "delta_action": "add",
+        "id": "guild_ghost_purge",
+        "event_type": "immediate",
+        "scene_generated": 73
+      },
+      {
+        "is_historical": false,
+        "status": "pending",
+        "player_aware": false,
+        "discovery_condition": "Deep intelligence or city rumors",
+        "location": "Grey Harbor / High Hall",
+        "action": "Lora questions healers who confirm the lack of any traceable cause of death at the harbor.",
+        "player_impact": "The forensic net is tightening around Kaelen's specific Shadow Smite signature",
+        "actor": "High Inquisitor Lora",
+        "turn_generated": 45,
+        "delta_action": "update",
+        "outcome": "Healers report the foreman died of 'sudden respiratory failure' with no visible wounds or magical residue.",
+        "id": "lora_healer_interviews",
+        "event_type": "long_term",
+        "scene_generated": 73
+      },
+      {
+        "id": "guild_ghost_purge",
+        "is_historical": false,
+        "outcome": "Guild enforcers are burning out old nests purely on suspicion that the cult is attempting to reclaim harbor territory.",
+        "delta_action": "update",
+        "actor": "The Guild enforcers",
+        "action": "A wide-net purge of suspected cult remnants to prevent a perceived resurgence."
+      },
+      {
+        "outcome": "Three former Absolute scouts found dead; the remaining Phantoms are in hiding.",
+        "player_aware": true,
+        "status": "discovered",
+        "actor": "The Guild",
+        "action": "Moving from surveillance to active execution of suspected 'ghosts'",
+        "id": "guild_ghost_purge_escalation",
+        "location": "Lower City Slums",
+        "delta_action": "update",
+        "event_type": "immediate"
+      },
+      {
+        "is_historical": false,
+        "outcome": "The 'breakthrough' is now a recognition of the 'Silent Gap' as an elite military tactic, not a forensic signature.",
+        "player_aware": false,
+        "status": "pending",
+        "actor": "High Inquisitor Lora",
+        "action": "Lora identifies the use of localized silence as a hallmark of elite High Forest tactical units.",
+        "id": "inquisitor_lora_forensic_breakthrough",
+        "location": "High Hall of Wonders",
+        "delta_action": "update",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Reports from Elias's lookouts",
+        "status": "discovered",
+        "player_aware": true,
+        "is_historical": false,
+        "actor": "The Guild Cleansing Crew",
+        "action": "Raided 'The Drowned Rat' but found it empty",
+        "id": "guild_drowned_rat_raid",
+        "outcome": "Guild heat in Heapside increases as they realize the 'ghosts' escaped",
+        "turn_generated": 54,
+        "delta_action": "add",
+        "location": "Heapside Sewers",
+        "event_type": "immediate",
+        "scene_generated": 88
+      },
+      {
+        "discovery_condition": "Deep intelligence gathering or city rumors",
+        "status": "pending",
+        "player_aware": false,
+        "is_historical": false,
+        "actor": "High Inquisitor Lora",
+        "action": "Lora's audit of harbor survivors uncovers the title 'Shadow Weaver'",
+        "id": "lora_identity_hunt",
+        "outcome": "The 'Shadow Weaver' title is added to the active investigation files",
+        "turn_generated": 54,
+        "delta_action": "update",
+        "location": "Wyrm's Rock",
+        "event_type": "long_term",
+        "scene_generated": 88
+      },
+      {
+        "discovery_condition": "Attending social events or hearing from Silas",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Kaelen's social standing is established, but scrutiny of his 'credentials' will naturally increase.",
+        "location": "Upper City Districts",
+        "action": "Whispers of Lord Brampton's 'new hound' and the 'Shadow Weaver' begin to circulate among the minor nobility.",
+        "player_impact": "Increases difficulty of maintaining the noble lie over time.",
+        "actor": "The Upper City",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Visiting the shop",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "The shop is now fully operational as a passive income source and intelligence hub.",
+        "location": "Voss Curiosities, Lower City",
+        "action": "Successfully hired three reliable Lower City clerks for 'Voss Curiosities'.",
+        "player_impact": "Passive income established; shop remains a secondary anchor.",
+        "actor": "Silas (Steward)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Silas's report",
+        "status": "discovered",
+        "player_aware": true,
+        "is_historical": false,
+        "actor": "The Zhentarim",
+        "action": "Seized a residential block near Heapside for 'protection' operations",
+        "id": "zhentarim_heapside_fortification",
+        "outcome": "Local commerce paralyzed; Harper agents spotted monitoring the area",
+        "turn_generated": 59,
+        "delta_action": "add",
+        "location": "Heapside District",
+        "event_type": "immediate",
+        "scene_generated": 101
+      },
+      {
+        "is_historical": false,
+        "outcome": "Investigation is slow but systematic; 'Voss' is on the checklist",
+        "player_aware": false,
+        "status": "pending",
+        "actor": "High Inquisitor Lora",
+        "action": "Begins cross-referencing pre-Fall militia rosters with current noble registrations",
+        "id": "lora_archive_focus",
+        "location": "High Hall of Wonders",
+        "delta_action": "update",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Directly told by Brampton or Silas.",
+        "status": "pending",
+        "player_aware": true,
+        "outcome": "Political groundwork for the Zhentarim mission is prepared.",
+        "location": "Brampton Estate",
+        "action": "Drafting the 'Volunteer Security' proposal for the Flaming Fist.",
+        "actor": "Lord Brampton",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Tactical scouting or magical detection",
+        "status": "pending",
+        "player_aware": false,
+        "turn_generated": 64,
+        "actor": "The Zhentarim",
+        "action": "Deploying 'Black Network' mages to the Heapside block",
+        "player_impact": "Increases danger for the upcoming night-op",
+        "location": "Heapside District",
+        "outcome": "Magical defenses and alarm wards established around the seizure zone",
+        "delta_action": "add",
+        "id": "zhent_mage_fortification",
+        "event_type": "immediate",
+        "scene_generated": 106
+      },
+      {
+        "is_historical": false,
+        "status": "pending",
+        "player_aware": false,
+        "discovery_condition": "Deep intelligence or city rumors",
+        "actor": "High Inquisitor Lora",
+        "action": "Lora requests recruitment archives for 'Phantom' specialized units",
+        "id": "lora_theory_narrowing",
+        "turn_generated": 64,
+        "outcome": "Investigation shifts from forensic residue to specific tactical unit histories",
+        "delta_action": "update",
+        "location": "High Hall of Wonders",
+        "event_type": "long_term",
+        "scene_generated": 106
+      },
+      {
+        "discovery_condition": "Deep intelligence or Harper contact",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Intelligence gathered on the 'Brampton Shadows' (Kaelen's unit)",
+        "actor": "The Harpers",
+        "action": "Monitoring the Zhentarim block during the Fist raid",
+        "player_impact": "Harpers are now aware of a new power player in the district",
+        "location": "Heapside District",
+        "event_type": "long_term"
+      },
+      {
+        "is_historical": false,
+        "outcome": "The Zhentarim block is falling to the Flaming Fist",
+        "player_aware": true,
+        "status": "discovered",
+        "actor": "Commander Harth's Unit",
+        "action": "Breaching the Zhentarim HQ inner doors",
+        "turn_generated": 70,
+        "location": "Heapside District",
+        "delta_action": "add",
+        "event_type": "immediate",
+        "scene_generated": 119
+      },
+      {
+        "discovery_condition": "Directly witnessed",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Guild leadership is in shock; Nine-Fingers suspects a leak or a legendary sentinel is active",
+        "actor": "The Guild",
+        "action": "Lost their elite 'Drowner' unit in a failed ambush at the shipyard",
+        "player_impact": "Significantly strengthens Kaelen's alliance with Harth",
+        "id": "guild_drowner_slaughter",
+        "turn_generated": 76,
+        "delta_action": "add",
+        "location": "Grey Harbor",
+        "event_type": "immediate",
+        "scene_generated": 125
+      },
+      {
+        "turn_generated": 95,
+        "resolved_scene_number": 165,
+        "player_aware": true,
+        "actor": "Guild Courier",
+        "location": "Bloomridge District",
+        "event_type": "immediate",
+        "scene_generated": 152,
+        "discovery_condition": "Revealed during Keene's interrogation",
+        "status": "resolved",
+        "outcome": "Dossier intercepted and replaced; identity remains safe.",
+        "resolved_turn": 104,
+        "player_impact": "Existential threat to the campaign's secret identity",
+        "action": "Waiting for the midday signal to deliver the Voss dossier to Inquisitor Lora",
+        "id": "bloomridge_dossier_timer",
+        "delta_action": "resolve"
+      },
+      {
+        "is_historical": false,
+        "outcome": "Guild unity is fracturing; 55% of the harbor now acknowledges the 'Shadow Weaver'",
+        "player_aware": true,
+        "status": "discovered",
+        "actor": "Vala and Mick",
+        "action": "Successfully flipped two more minor gangs in the Heapside sewers",
+        "id": "gang_sedition_spread",
+        "location": "Heapside District",
+        "delta_action": "update"
+      },
+      {
+        "discovery_condition": "Report from Lord Brampton or Silas",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Lora's forensic budget is under scrutiny due to high collateral damage",
+        "actor": "The Watchful Order",
+        "action": "Auditing the magical discharge from Inquisitor Lora's Styes raid",
+        "player_impact": "Reduces Lora's immediate investigative mobility",
+        "id": "watchful_order_audit",
+        "turn_generated": 104,
+        "delta_action": "add",
+        "location": "The Styes / High Hall",
+        "event_type": "immediate",
+        "scene_generated": 165
+      },
+      {
+        "discovery_condition": "Scout report from Elias",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Black Network is preparing a counter-offensive to reclaim smuggling routes",
+        "actor": "The Zhentarim",
+        "action": "Gathering displaced harbor cells in a fortified tannery in the Outer City",
+        "player_impact": "Future threat to the 'Public Shield' beats",
+        "id": "zhentarim_outer_city_rally",
+        "turn_generated": 104,
+        "delta_action": "add",
+        "location": "Rivington Gates",
+        "event_type": "long_term",
+        "scene_generated": 165
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {},
+  "rumors": [
+    {
+      "content": "A strange, sickly green fog has been seen clinging to the roots in the Wood of Sharp Teeth.",
+      "source_type": "traveler",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Council of Four is paying double for any information on 'men with marked minds'.",
+      "source_type": "merchant",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Elder Harlen is considering hiring a private guard for the grain silos, fearing the 'Shadows' more than the Fist.",
+      "source_type": "commoner",
+      "related_event": "whispering_shadows_movement",
+      "accuracy": "true"
+    },
+    {
+      "content": "They say the Fist isn't just looking for veterans, but for someone specific\u2014a high-ranking officer who vanished sixteen years ago.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "A merchant's guard claims he saw a man in the woods with golden eyes that glowed in the dark.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Fist officer was asking specifically about old cult tattoos and 'marks of the Absolute'.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "A hunter found a deer in the woods with its skin turned to grey ash, still standing as if frozen.",
+      "source_type": "traveler",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Fist is looking for a 'Shadow General' who escaped the fall of the Absolute.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Flaming Fist is more interested in platinum than 'auras' these days.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "A merchant's shop in the Lower City is looking for 'aggressive acquisitions' specialists.",
+      "source_type": "merchant",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Prices for 'adventuring gear' are spiking as more veterans head into the woods to hunt cult remnants.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "A 'Ghost of the Absolute' is supposedly haunting the Lower City sewers, whispering names of those who betrayed the cult.",
+      "source_type": "commoner",
+      "accuracy": "false"
+    },
+    {
+      "content": "A high-ranking steward was seen fleeing a new curiosities shop in a cold sweat.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "Nine-Fingers is looking for a crate of heron-crested silver that 'fell off a wagon'.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "Nine-Fingers is tightening security at Smuggler's Run; someone's been asking too many questions at the harbor.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "A high-ranking steward was seen fleeing a new curiosities shop in a cold sweat.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "A high-ranking steward was seen fleeing a new curiosities shop in a cold sweat.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Shadow General' didn't die at the Brain's fall; he's hiding in the city, waiting for the signal.",
+      "source_type": "mercenary",
+      "related_event": "inquisitor_lora_active_audit",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Flaming Fist is calling in a specialized 'Inquisitor' from the city to handle the South Road census.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "Lord Brampton's steward was seen at a new Lower City shop\u2014some say the old noble's found a new hound.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "A new 'Silent Reaper' is said to be working the harbor, hitting Guild warehouses with magical silence.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The High Inquisitor has requested the attendance of all 'Displaced Nobles' for a mandatory registration at the High Hall.",
+      "source_type": "noble",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Silent Reaper' is said to be an avatar of Jergal, sent to punish the Guild for their greed.",
+      "source_type": "commoner",
+      "accuracy": "false"
+    },
+    {
+      "content": "House Brampton has hired a pair of 'Specialists' to clean up their mess at the docks; the Watch has been told to look the other way.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "A 'Black Plague' hit the harbor; the foreman of Warehouse 4 rotted from the inside out in seconds.",
+      "source_type": "commoner",
+      "related_event": "lora_healer_interviews",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Nine-Fingers is burning out the 'nests' in Heapside; they say a cult of the Absolute is trying to take the harbor.",
+      "source_type": "guard",
+      "related_event": "guild_ghost_purge",
+      "accuracy": "true"
+    },
+    {
+      "content": "Nine-Fingers is offering a 'clean slate' to any cultist who turns in the 'Master of Shadows'.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Nine-Fingers is offering a massive bounty for the location of 'The Weaver's' old tactical ledgers.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Silent Reaper' is supposedly a Vengeance Paladin of Bhaal, returned to claim the harbor.",
+      "source_type": "commoner",
+      "accuracy": "false"
+    },
+    {
+      "content": "The 'Silent Reaper' is actually a dark god's avatar sent to punish the Guild.",
+      "source_type": "harbor_worker",
+      "related_event": "guild_reaper_hunt",
+      "accuracy": "false"
+    },
+    {
+      "content": "Nine-Fingers is hiring foreign specialists to counter the 'ghosts' in the harbor.",
+      "source_type": "guild_informant",
+      "related_event": "guild_ghost_purge",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Lord Brampton's new retainers were seen walking through the Citadel gates at dawn, looking like they'd crawled out of a grave.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "Nine-Fingers has put a bounty on any 'old maps' of the Heapside sewers\u2014she's looking for where the ghosts went.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Zhentarim are offering double-pay for any harbor-hand who can 'keep their mouth shut and their eyes open'.",
+      "source_type": "harbor_worker",
+      "accuracy": "true"
+    },
+    {
+      "content": "There's a 'Ghost' in the High Hall archives\u2014a shadow that moves between the ledgers when the clerks aren't looking.",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Silent Reaper' isn't a man, but an avatar of the Lord of Murder sent to purge the weak from the harbor.",
+      "source_type": "harbor_thief",
+      "related_event": "guild_reaper_hunt",
+      "accuracy": "false"
+    },
+    {
+      "content": "The 'Silent Reaper' has a team now; the Zhent mages couldn't even finish a spell.",
+      "source_type": "guard",
+      "related_event": "Heapside Breach",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A 'Silent Reaper' took the Zhentarim Commander in his own bed tonight.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Silent Reaper' isn't just a thief; he's a guardian of the harbor who hunts the hunters.",
+      "source_type": "guard",
+      "related_event": "guild_drowner_slaughter",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The High Hall has authorized an 'emergency tax audit' for all newcomers in the Upper City, though many suspect it's a cover for something else.",
+      "source_type": "servant",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Inquisitors found a nest of tadpoled horrors in the Styes; they say the mages leveled three blocks.",
+      "source_type": "traveler",
+      "related_event": "lora_styes_raid",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Nine-Fingers has left the city; they say a new Master of Shadows now holds the Counting House keys.",
+      "source_type": "commoner",
+      "related_event": "guild_decapitation",
+      "accuracy": "true"
+    }
+  ],
+  "schema_migration_version": 1,
+  "time_events": {
+    "Merchant Gambit Preparation": {
+      "time_remaining": "Indefinite",
+      "status": "ongoing",
+      "changes_this_turn": "Strategy proposed to family",
+      "new_consequences": "Lana is deeply skeptical; Sariel is tactically aligned."
+    },
+    "Inquisitor Audit": {
+      "time_remaining": "6 Days",
+      "status": "ongoing",
+      "changes_this_turn": "Lora has detected the 'spectral resonance' of the harbor hit",
+      "new_consequences": "Audit focus has shifted from wealth to magical signatures."
+    },
+    "Bloomridge Delivery": {
+      "time_remaining": "3 hours (Midday)",
+      "status": "ongoing",
+      "changes_this_turn": "Timer established through interrogation",
+      "new_consequences": "Exposure to Inquisitor Lora"
+    },
+    "Guild Cleansing Cycle": {
+      "time_remaining": "1 Hour",
+      "status": "ongoing",
+      "changes_this_turn": "Crew dispatched to Heapside",
+      "new_consequences": "Immediate threat to the Drowned Rat."
+    },
+    "Village Curfew": {
+      "time_remaining": "Until Sundown (approx. 4 hours)",
+      "status": "ongoing",
+      "changes_this_turn": "Curfew moved earlier due to messenger report",
+      "new_consequences": "Villagers must clear the square immediately"
+    },
+    "Voss Farmstead Standoff": {
+      "time_remaining": "Immediate",
+      "status": "escalated",
+      "changes_this_turn": "Torvin has issued an arrest order",
+      "new_consequences": "Resistance will trigger lethal combat"
+    }
+  },
+  "schema_migrated_at": "2026-06-07T21:33:19.634008+00:00",
+  "session_id": "legacy-migrated-cdef681ea806ab45",
+  "encounter_state": {
+    "encounter_completed": true,
+    "difficulty": "hard",
+    "objectives_completed": [
+      "Identify Farlen's Pier",
+      "Recover Manifest Info",
+      "Infiltrate Warehouse 4",
+      "Eliminate Foreman",
+      "Secure Crate #882"
+    ],
+    "encounter_id": "enc_1508_mirtul29_heist_001",
+    "encounter_summary": {
+      "outcome": "Success",
+      "objectives_completed": [
+        "Tiered Dispersal",
+        "Scrubbing Legacy Nests"
+      ],
+      "xp_awarded": 200,
+      "loot": [
+        "12 Brampton Signet Rings",
+        "20 Platinum Retainer"
+      ]
+    },
+    "rewards_processed": true,
+    "encounter_type": "stealth",
+    "objectives": [
+      "Identify Farlen's Pier",
+      "Recover Brampton Signets",
+      "Escape Detection"
+    ],
+    "encounter_active": false
+  },
+  "faction_updates": {
+    "Brampton Shadows": {
+      "commander": "Kaelen Voss",
+      "second_in_command": "Commander Harth",
+      "soldiers": 100,
+      "elites": 20,
+      "scouts": 30,
+      "total_strength": 150,
+      "equipment_status": "Superior (High Hall Funded)",
+      "lieutenants": [
+        "Sariel Voss",
+        "Kora",
+        "Elias",
+        "Silas"
+      ]
+    }
+  }
+}

@@ -1,0 +1,895 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "death_saves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "background": "Noble",
+    "custom_mechanics": {
+      "the_hunger": {
+        "hunger_status": "sated",
+        "ability_score_bonus": 2,
+        "ability_score_penalty": 0,
+        "last_kill_date": "1492 DR, Tarsakh 2, 11:00"
+      },
+      "soul_siphon": {
+        "description": "Consume 1 Soul Coin (Action) to: Regain Spell Slot (<=L4), Gain 20 Temp HP & Adv on Saves (1hr), or +2 Spell DC (1 min).",
+        "unlocked": true
+      }
+    },
+    "_comment_alignment": "INTERNAL USE ONLY - Character's nihilistic, sadistic nature",
+    "combat_stats": {
+      "speed": 30,
+      "passive_perception": 11,
+      "initiative": 3
+    },
+    "_comment_mbti": "INTERNAL USE ONLY - Strategic, intellectual, systems-oriented thinker",
+    "temp_hp": 0,
+    "secret_title": "Shadow Monarch",
+    "resources": {
+      "hit_dice": {
+        "used": 0,
+        "total": 8
+      },
+      "consumables": {
+        "rations_days": 0,
+        "rags": 2,
+        "oil_flasks": 2
+      },
+      "spell_slots": {
+        "level_2": {
+          "used": 2,
+          "total": 3
+        },
+        "level_4": {
+          "used": 0,
+          "total": 2
+        },
+        "level_1": {
+          "used": 1,
+          "total": 4
+        },
+        "level_3": {
+          "used": 1,
+          "total": 3
+        }
+      },
+      "light_sources": {
+        "current": "None",
+        "backup": [],
+        "duration_remaining": "N/A"
+      },
+      "gold": 3500,
+      "bardic_inspiration": {
+        "used": 0,
+        "total": 5
+      },
+      "exhaustion_level": 0,
+      "inspiration": false,
+      "class_features": {
+        "luck_of_the_far_realms": {
+          "used": 0,
+          "total": 1
+        },
+        "bardic_inspiration": {
+          "used": 0,
+          "total": 4
+        }
+      },
+      "short_rests": {
+        "used": 0,
+        "total": 0
+      },
+      "long_rests_since_last": 0
+    },
+    "experience": {
+      "current": 38375,
+      "total_cumulative": 34175,
+      "earned_this_level": 5200,
+      "level_7_base": 23000,
+      "needed_for_next_level": 48000,
+      "total_earned": 38375,
+      "display_string": "39,200/48,000",
+      "level_6_base": 14000,
+      "next_level_goal": 11000,
+      "level_8_base": 34000,
+      "to_next_level": 0
+    },
+    "spell_slots": {
+      "level_4": {
+        "used": 0,
+        "total": 2
+      },
+      "level_3": {
+        "used": 2,
+        "total": 3
+      }
+    },
+    "saving_throw_proficiencies": [
+      "Dexterity",
+      "Charisma",
+      "All Saves (+1 Ring)"
+    ],
+    "features": {
+      "add": [
+        "Psionic Stasis (Idol Upgrade)"
+      ]
+    },
+    "level": 7,
+    "skills": [
+      "Acrobatics",
+      "Deception",
+      "History",
+      "Insight",
+      "Performance",
+      "Persuasion",
+      "Stealth"
+    ],
+    "armor_class": 18,
+    "equipment": {
+      "backpack": {
+        "add": [
+          "Navigation Charts (Moonrise Towers)"
+        ],
+        "remove": [
+          "Mind Flayer Parasite Specimen (Jar)"
+        ]
+      },
+      "money": "6450 gp",
+      "armor": "Glamoured Studded Leather +1",
+      "add": [
+        "Boots of the Zephyr (Winged Boots)",
+        "Drum of the Dark Heart (+2 Rhythm-Maker's Drum)"
+      ],
+      "other_notable": {
+        "add": [
+          "3x Crates of Mind Flayer Tadpoles"
+        ],
+        "remove": [
+          "3x High-Value Elturian Hostages"
+        ]
+      },
+      "remove": [
+        "Refugee Heirlooms"
+      ],
+      "weapons": [
+        "Sun-Touched Rapier (+1)",
+        "Serpent's Kiss (+1 Shortbow)",
+        "+1 Dagger"
+      ]
+    },
+    "class": "College of Swords Bard",
+    "mbti": "INTJ",
+    "attributes": {
+      "strength": 10,
+      "dexterity": 16,
+      "intelligence": 14,
+      "wisdom": 12,
+      "charisma": 20,
+      "constitution": 12
+    },
+    "location": "Lower City - Sorcerous Sundries",
+    "status_conditions": [],
+    "string_id": "pc_nocturne_001",
+    "alignment": "Chaotic Evil",
+    "spells_known": [
+      "Vicious Mockery",
+      "Minor Illusion",
+      "Prestidigitation",
+      "Charm Person",
+      "Healing Word",
+      "Disguise Self",
+      "Faerie Fire",
+      "Suggestion",
+      "Hold Person",
+      "Invisibility",
+      "Hypnotic Pattern",
+      "Counterspell",
+      "Fear",
+      "Greater Invisibility",
+      "Compulsion",
+      "Detect Thoughts",
+      "Enhance Ability"
+    ],
+    "name": "Shadow Monarch",
+    "hp_max": 52,
+    "hp_current": 52,
+    "proficiency_bonus": 3,
+    "active_effects": {
+      "effect": "Concentration (1 minute)",
+      "status": [
+        {
+          "effect": "Visual Illusion (Midnight Velvet Gown)",
+          "duration": "Indefinite",
+          "name": "Glamoured Guise"
+        }
+      ],
+      "duration": "1 minute",
+      "name": "Detect Thoughts"
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "minute": 10,
+      "time_of_day": "Night",
+      "day": 5,
+      "second": 0,
+      "year": 1492,
+      "hour": 20,
+      "month": "Tarsakh",
+      "microsecond": 0
+    },
+    "current_location_name": "Upper City - Umbrage Estate (Ballroom)"
+  },
+  "npc_data": {
+    "Vesper": {
+      "attitude_to_party": "loyal / paid",
+      "class": "Rogue (Assassin)",
+      "status": "Briefed on Red Wizard ROE & Green Flare",
+      "faction": "faction_guild_001",
+      "attributes": {
+        "strength": 10,
+        "dexterity": 18,
+        "intelligence": 13,
+        "wisdom": 14,
+        "charisma": 12,
+        "constitution": 12
+      },
+      "hp_max": 45,
+      "level": 7,
+      "hp_current": 30,
+      "age": 110,
+      "string_id": "npc_vesper_001",
+      "race": "Drow",
+      "armor_class": 15,
+      "gender": "female",
+      "role": "Black Lotus Leader"
+    },
+    "Gant": {
+      "attitude_to_party": "professional respect",
+      "class": "Monk (Way of Shadow)",
+      "status": "Securing Prisoners",
+      "faction": "faction_guild_001",
+      "attributes": {
+        "strength": 14,
+        "dexterity": 16,
+        "intelligence": 10,
+        "wisdom": 16,
+        "charisma": 8,
+        "constitution": 14
+      },
+      "hp_max": 52,
+      "level": 7,
+      "hp_current": 52,
+      "age": 35,
+      "string_id": "npc_gant_001",
+      "race": "Human",
+      "armor_class": 16,
+      "gender": "male",
+      "role": "Black Lotus Muscle/Infiltrator"
+    },
+    "Squire Jory": {
+      "status": "Indoctrinated (Sleeper Agent)",
+      "faction": "faction_shadow_monarch_001",
+      "role": "Spy"
+    },
+    "Lord Caldwell": {
+      "attitude_to_party": "terrified / obedient",
+      "notes": "Publicly endorsed Lyra under duress.",
+      "string_id": "npc_caldwell_001",
+      "assets": "Stripped (Debt owned by Shadow Bank)",
+      "role": "Patriar",
+      "status": "Coerced (Debt)"
+    },
+    "Lord Umbrage": {
+      "attitude_to_party": "hostile",
+      "mbti": "ESTJ",
+      "assets": "Stripped of liquid wealth and deeds",
+      "faction": "faction_upper_city_nobles_001",
+      "status": "Financially Ruined (Unaware)",
+      "age": 60,
+      "string_id": "npc_umbrage_001",
+      "relationships": {
+        "Lyra": "daughter"
+      },
+      "gender": "male",
+      "role": "Former Patriar (Figurehead)"
+    },
+    "Rathmar": {
+      "attitude_to_party": "Terrified / Subservient",
+      "status": "Broken / Surrendered All Assets",
+      "assets": "Stripped",
+      "faction": "faction_zhentarim_001",
+      "notes": "Compromised by Serpent Queen via painting and Lyra connection.",
+      "age": 30,
+      "string_id": "npc_rathmar_001",
+      "recent_actions": [
+        "Sent intel regarding River Chionthar 'Red Zone'"
+      ],
+      "gender": "male",
+      "role": "Zhentarim Financier / Spy"
+    },
+    "Vice-Marshal Rokas": {
+      "attitude_to_party": "terrified / obedient",
+      "class": "Fighter (Battle Master)",
+      "mbti": "ESTJ",
+      "status": "Subverted / Blackmailed",
+      "hp_max": 85,
+      "faction": "faction_flaming_fist_001",
+      "level": 9,
+      "hp_current": 85,
+      "age": 45,
+      "string_id": "npc_rokas_001",
+      "role": "Commander of Upper City Watch",
+      "gender": "male",
+      "armor_class": 18
+    },
+    "Nine-Fingers Keene": {
+      "attitude_to_party": "impressed / watchful",
+      "string_id": "npc_keene_001",
+      "status": "Authorized Operation Scalpel",
+      "role": "Guildmaster"
+    },
+    "Zhentarim Knight 2": {
+      "hp_current": 50,
+      "status": "Captured, Bound, Stripped",
+      "location": "Coiled Serpent Safe House"
+    },
+    "Baron Cassian": {
+      "status": "Ransomed/Broken",
+      "assets": "Stripped"
+    },
+    "Lady Isolde": {
+      "status": "Recruited (Political Lieutenant)",
+      "faction": "faction_shadow_monarch_001",
+      "role": "Refugee Liaison"
+    },
+    "Vessic": {
+      "attitude_to_party": "Terrified Loyalty",
+      "status": "Drained of liquid cash but compliant",
+      "faction": "faction_zhentarim_001",
+      "location": "The Coiled Serpent",
+      "age": 45,
+      "string_id": "npc_vessic_001",
+      "gender": "male",
+      "role": "Zhentarim Fence"
+    },
+    "Silas": {
+      "attitude_to_party": "professional respect",
+      "class": "Ranger (Gloom Stalker)",
+      "status": "Sentry Duty",
+      "faction": "faction_guild_001",
+      "attributes": {
+        "strength": 12,
+        "dexterity": 18,
+        "intelligence": 12,
+        "wisdom": 14,
+        "charisma": 10,
+        "constitution": 12
+      },
+      "hp_max": 49,
+      "level": 7,
+      "hp_current": 49,
+      "age": 28,
+      "string_id": "npc_silas_001",
+      "race": "Half-Elf",
+      "armor_class": 15,
+      "gender": "male",
+      "role": "Black Lotus Scout/Sniper"
+    },
+    "Smiley Arvax": {
+      "attitude_to_party": "fanatically loyal / awe",
+      "status": "Wary of Monarch's Ambition / Compliant"
+    },
+    "True Soul Leader": {
+      "attitude_to_party": "Hostile/Broken",
+      "hp_current": 45,
+      "status": "Captured (Bound/Gagged)",
+      "location": "The Moonrise Ship (Deck)"
+    },
+    "Zhentarim Knight 1": {
+      "hp_current": 0,
+      "status": "Dead"
+    },
+    "Kaelen D'Vray": {
+      "attitude_to_party": "Terrified / Broken",
+      "status": "Broken / Terrorized / Intel Extracted",
+      "faction": "faction_zhentarim_001",
+      "location": "Coiled Serpent Safe House",
+      "level": 8,
+      "notes": "Revealed Zhentarim Vault location and High Command codes.",
+      "age": 35,
+      "string_id": "npc_kaelen_001",
+      "present": true,
+      "gender": "male",
+      "role": "Zhentarim Arbiter (Assassin)",
+      "hp_current": 10
+    },
+    "Nyx": {
+      "attitude_to_party": "professional respect",
+      "class": "Warlock (Fiend)",
+      "status": "Guarding Prisoners",
+      "faction": "faction_guild_001",
+      "attributes": {
+        "strength": 8,
+        "dexterity": 14,
+        "intelligence": 12,
+        "wisdom": 10,
+        "charisma": 18,
+        "constitution": 14
+      },
+      "hp_max": 45,
+      "level": 7,
+      "hp_current": 45,
+      "age": 24,
+      "string_id": "npc_nyx_001",
+      "race": "Tiefling",
+      "armor_class": 14,
+      "gender": "female",
+      "role": "Black Lotus Magic/Face"
+    },
+    "Duke Silvershield": {
+      "attitude_to_party": "cautious ally",
+      "notes": "Fears chaos/disorder more than death. Distrusts Flaming Fist.",
+      "status": "Subverted (Secret Police Pact)"
+    },
+    "Lyra": {
+      "attitude_to_party": "Devoted / Tempted",
+      "mbti": "ISFP",
+      "status": "Empowered by Endorsement",
+      "faction": "faction_shadow_monarch_001",
+      "location": "Umbrage Estate (Moving)",
+      "notes": "Corruption Potential: High. Vector: Fear/Safety.",
+      "age": 20,
+      "string_id": "npc_lyra_001",
+      "role": "Regent of House Umbrage (Puppet)",
+      "gender": "female",
+      "relationships": {
+        "Lord Umbrage": "father"
+      }
+    },
+    "Zhentarim Captain": {
+      "status": "Critical, Active"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "mission_status": {
+      "patriar_conquest": {
+        "status": "completed",
+        "hhune": "secured",
+        "caldwell": "secured",
+        "silvershield": "active_negotiation"
+      }
+    },
+    "umbrage_punishment": {
+      "status": "in_progress",
+      "objective": "Marriage manipulation initiated. Lyra is receptive."
+    },
+    "karmic_dice": {
+      "active": true,
+      "streak_threshold": 3,
+      "low_roll_limit": 6,
+      "high_roll_limit": 15
+    },
+    "combat_state": {
+      "surprise_round_pending": true,
+      "in_combat": false,
+      "turn": null,
+      "combatants": {}
+    },
+    "active_missions": [
+      {
+        "title": "Operation: Scalpel",
+        "status": "completed",
+        "mission_id": "moonrise_shipment",
+        "objective": "Secure Cargo and Leader (Done)"
+      }
+    ],
+    "hostage_location": "Coiled Serpent Safehouse",
+    "random_encounter_frequency": {
+      "trigger": "every 3-5 location changes",
+      "enabled": true
+    },
+    "last_location": "Upper City - Umbrage Estate (Ballroom)",
+    "patriar_intel": {
+      "Silvershield": "Hook: Biological Security",
+      "Hhune": "Secured (Trade Monopoly Hook)",
+      "Caldwell": "Hook: Marriage Alliance"
+    },
+    "core_memories": [
+      "Nocturne subtly probed Arvax regarding the 'exotic heritage' market, catching his attention and shifting the power dynamic.",
+      "Player requested character summary and XP verification in God Mode.",
+      "Nocturne's veiled comment hinting at her understanding of systemic chaos intrigued Arvax, subtly shifting his perception and elevating her position.",
+      "Nocturne successfully leaned into the mystery of her capabilities, further unsettling Arvax and deepening his wary intrigue, solidifying her manipulative position.",
+      "Nocturne successfully negotiated better terms with Arvax, leveraging her demonstrated insight to secure an additional 50 gold and tactical information for the tiefling acquisition mission.",
+      "Nocturne internally assessed her current wealth (250gp) and the financial potential of the Guild, linking it to her larger goals of transcendence.",
+      "Nocturne internally assessed the Guild's expanding financial interests, estimating significant future wealth and potential pathways to personal transcendence.",
+      "Nocturne pivoted from grand financial strategy to planning the tactical execution of the tiefling acquisition, prioritizing efficiency and minimal risk.",
+      "Nocturne successfully negotiated access to basic Guild supplies, further leveraging Arvax's respect for efficiency.",
+      "Nocturne attempted to persuade Arvax for better equipment and tools but was met with a firm refusal, despite her logical arguments. Arvax reiterated that the Guild only provides basic necessities and warned against pushing her luck.",
+      "Player, in God Mode, renamed their character to 'Serpent Queen' (secret title).",
+      "Serpent Queen returned to Story Mode after a God Mode interaction.",
+      "Serpent Queen successfully located and accessed the Guild's basic storeroom near the docks, as offered by Arvax.",
+      "Serpent Queen acquired basic supplies from the Guild storeroom and began strategizing to steal more advanced equipment.",
+      "Serpent Queen refocused her strategic thinking entirely on the immediate tactical execution of the tiefling acquisition mission in Rivington, prioritizing efficiency and current resources over grander theft plans.",
+      "Serpent Queen shifted focus to formulating a stealth and deception plan for the tiefling acquisition, prioritizing efficiency and minimal risk.",
+      "Serpent Queen successfully traveled to Rivington and began in-depth reconnaissance of the shantytown and target tent.",
+      "Serpent Queen successfully observed the tiefling family's routines in Rivington, identifying their vulnerable period between 10 PM and 5 AM, with the father fishing and mother running brief errands.",
+      "Serpent Queen successfully observed Flaming Fist and Guild patrols in Rivington, noting their routes, frequency, and alertness, identifying gaps coinciding with the tiefling family's vulnerable hours.",
+      "Serpent Queen began formulating a detailed entry plan for the tiefling acquisition, synthesizing all gathered intelligence on routines and patrols, and integrating the Hunger into the tactical calculus.",
+      "Serpent Queen completed the comprehensive tactical plan for the tiefling acquisition, synthesizing all reconnaissance and integrating the Hunger into the operation.",
+      "Serpent Queen internally debated how to satisfy 'The Hunger' during the tiefling acquisition, weighing the high risk of killing a guard against the efficiency of using the adult tieflings as targets, while still securing all four.",
+      "Serpent Queen successfully executed the tiefling acquisition plan, discreetly sating 'The Hunger' with the adult tieflings, securing the children, and disposing of the bodies, activating her +2 ability bonus.",
+      "Serpent Queen reported successful tiefling acquisition to Arvax and received final payment, further solidifying her manipulative influence. Gained 50 XP.",
+      "Serpent Queen internally assessed her current equipment and wealth, debating whether to purchase consumables or plan for the acquisition of superior magical gear, leveraging her active +2 ability bonus.",
+      "Serpent Queen successfully inquired about the next Guild contract, receiving details for a high-value mission targeting Lord Umbrage in the Upper City, which involves his art collection and his daughter Lyra, who has Zhentarim connections.",
+      "Serpent Queen proposed a Zhentarim-focused approach for the Lord Umbrage contract, framing it as a way to gain leverage over both Umbrage and the Zhents, appealing to Arvax's 'growth sector' vision.",
+      "Serpent Queen's Zhentarim-focused proposal for the Lord Umbrage contract was accepted by Arvax, who acknowledged its strategic depth and potential to weaken a rival faction, signaling a new level of Guild confidence in her capabilities.",
+      "Serpent Queen successfully negotiated for an additional 200 gold and access to a Guild safe house (The Coiled Serpent) for the Lord Umbrage contract, further asserting her strategic value despite Arvax's continued reluctance to provide magical tools. Gained 150 XP.",
+      "Serpent Queen successfully acquired specific Zhentarim intelligence from Arvax (Basilisk Gate Barracks, Wide Arc district cell, Rathmar at Counting House) for the Umbrage contract.",
+      "Serpent Queen, with her Hunger sated and +2 ability bonus active, internally assessed new opportunities beyond the immediate Umbrage contract, considering how to leverage her enhanced state for broader strategic gains.",
+      "Serpent Queen successfully took a long rest in the Guild safe house ('The Coiled Serpent'), fully replenishing her resources while retaining her +2 ability bonus from the sated Hunger.",
+      "Serpent Queen internally assessed the financial potential of the Lord Umbrage contract, considering both Guild payment and personal acquisition of his art collection, leveraging her active +2 ability bonus.",
+      "Serpent Queen internally evaluated the potential value of Lord Umbrage's art collection and considered strategies for personal acquisition.",
+      "Serpent Queen internally planned how to gain leverage over Lord Umbrage and the Zhentarim, focusing on Lyra's connections and integrating personal art acquisition strategies, leveraging her active +2 ability bonus.",
+      "Serpent Queen internally assessed the precise nature of Lyra's relationship with Rathmar and her father, identifying emotional, social, and reputational vulnerabilities for leverage.",
+      "Serpent Queen, in God Mode, developed a detailed reconnaissance plan targeting Lyra and Rathmar's dynamic to identify leverage points for the Umbrage contract.",
+      "Serpent Queen, in God Mode, requested to integrate magic into the reconnaissance plan and execute it, which was confirmed as already being a core part of the detailed plan.",
+      "Serpent Queen successfully executed Phase 1 of the reconnaissance plan, observing Rathmar's routines at the Counting House and Lyra's public movements in the Upper City, leveraging enhanced abilities and magic. Gained 75 XP.",
+      "Serpent Queen successfully executed covert reconnaissance on Lyra's private life, revealing a profound melancholy and a strained but caring relationship with Lord Umbrage, identifying emotional vulnerabilities for leverage. Gained 75 XP.",
+      "Serpent Queen internally formulated a detailed emotional manipulation plan for Lyra, exploiting her melancholy and relationship with Lord Umbrage to gain leverage, integrating social manipulation and charm magic.",
+      "Serpent Queen successfully executed the first phase of emotional manipulation on Lyra Umbrage, gaining her trust through a disguised, sympathetic approach and eliciting initial confessions about her despair, her father, and Rathmar's role.",
+      "Serpent Queen successfully deepened rapport with Lyra Umbrage through profound empathy, eliciting further confessions about her despair, her father's expectations, and Rathmar's role in offering 'choice'.",
+      "Serpent Queen successfully deepened rapport with Lyra Umbrage through profound empathy, eliciting further confessions about her despair, her father's expectations and blindness, and Rathmar's role in offering 'choice'. Gained 50 XP.",
+      "Serpent Queen successfully deepened rapport with Lyra Umbrage through profound empathy, eliciting further confessions about her despair, her father's expectations and blindness, and now Rathmar's specific Zhentarim offers for escape and his ambitions. Gained 75 XP.",
+      "Serpent Queen successfully deepened rapport with Lyra Umbrage through profound empathy, acknowledging and validating Lyra's perception of Rathmar's manipulation, and subtly positioning Serpent Queen as an alternative path to true freedom. Gained 75 XP.",
+      "Serpent Queen successfully deepened rapport with Lyra Umbrage through profound empathy, acknowledging and validating Lyra's perception of Rathmar's manipulation, subtly positioning Serpent Queen as an alternative path to true freedom, and eliciting specific details on Rathmar's Zhentarim agenda for Baldur's Gate. Gained 75 XP.",
+      "Serpent Queen successfully deepened rapport with Lyra Umbrage through profound empathy, acknowledged and validated Lyra's perception of Rathmar's manipulation, subtly positioned Serpent Queen as an alternative path to true freedom, elicited specific details on Rathmar's Zhentarim agenda for Baldur's Gate, and probed Lyra's moral compass regarding Rathmar's ruthless methods, revealing her fear and unwillingness to be part of his destructive vision. Gained 75 XP.",
+      "Serpent Queen successfully deepened rapport with Lyra Umbrage through profound empathy, acknowledged and validated Lyra's perception of Rathmar's manipulation, subtly positioned Serpent Queen as an alternative path to true freedom, elicited specific details on Rathmar's Zhentarim agenda for Baldur's Gate, probed Lyra's moral compass regarding Rathmar's ruthless methods revealing her fear and unwillingness to be part of his destructive vision, and finally extracted specific, critical intelligence on Rathmar's personal fears, hidden past, and vulnerabilities from Lyra.",
+      "Serpent Queen successfully deepened rapport with Lyra Umbrage through profound empathy, acknowledged and validated Lyra's perception of Rathmar's manipulation, subtly positioned Serpent Queen as an alternative path to true freedom, elicited specific details on Rathmar's Zhentarim agenda for Baldur's Gate, probed Lyra's moral compass regarding Rathmar's ruthless methods revealing her fear and unwillingness to be part of his destructive vision, extracted specific, critical intelligence on Rathmar's personal fears, hidden past, and vulnerabilities from Lyra, and now directly probed Lyra's deepest desires for 'true freedom'.",
+      "Serpent Queen internally pondered corrupting Lyra Umbrage, marrying into a Patriar house for power, and recalled her own exiled noble background, assessing these as strategic avenues for power and influence.",
+      "Serpent Queen internally formulated a long-term plan to subtly guide Lyra Umbrage towards a strategic marriage alliance, framing it as Lyra's path to true freedom and security, leveraging Lyra's desire for control and a new identity, and integrating Serpent Queen's own ambition for Patriar house influence.",
+      "Serpent Queen successfully probed Lyra's definition of 'true freedom' (personal autonomy, control, authentic identity, sanctuary without destruction) and then subtly initiated the long-term marriage manipulation plan in dialogue, framing a powerful alliance as the path to her 'true freedom' and security.",
+      "Serpent Queen successfully probed Lyra's definition of 'true freedom' (personal autonomy, control, authentic identity, sanctuary without destruction) and then subtly initiated the long-term marriage manipulation plan in dialogue, framing a powerful alliance as the path to her 'true freedom' and security, leveraging Lyra's desire for control and a new identity.",
+      "Serpent Queen successfully leveraged Lyra's deep trust by revealing a carefully crafted, sympathetic portion of her own exiled noble background, framing it as a path to 'mastery' and 'true freedom', further solidifying her position as a powerful confidante and guide, and implicitly initiating the long-term marriage manipulation strategy.",
+      "Serpent Queen successfully furthered the long-term marriage manipulation strategy in dialogue, framing a powerful alliance as the most effective path to Lyra's 'true freedom' and security, leveraging Lyra's desire for control and a new identity, and reinforcing the personal connection with Serpent Queen.",
+      "Serpent Queen successfully executed covert reconnaissance on Lord Umbrage's estate, focusing on the art collection's security, identifying external defenses, guard patrols, and potential entry points. Gained 75 XP.",
+      "Serpent Queen internally re-evaluated Lord Umbrage's overall weaknesses (paternal concern for Lyra, defiance against the Guild, art collection security) in light of all gathered intelligence, identifying Lyra's emotional vulnerability and strategic marriage as the most potent leverage point, followed by Rathmar's personal fears and the art collection.",
+      "Serpent Queen internally re-evaluated Lord Umbrage's overall weaknesses (paternal concern for Lyra, defiance against the Guild, art collection security, public reputation/political ambition), Lyra's emotional vulnerabilities (melancholy, moral conflict with Rathmar's ruthlessness, disillusionment with father's expectations, deep trust in Serpent Queen), and Rathmar's personal fears (chaos, exposure, messy outcomes, disdain for emotion, obsession with reputation) and hidden past, and the art collection's value, identifying the long-term manipulation of Lyra for strategic marriage as the most potent leverage point, with Rathmar's fears and art acquisition as powerful secondary levers.",
+      "Serpent Queen internally formulated detailed plans for Art Acquisition Infiltration of Lord Umbrage's estate and Rathmar Vulnerability Exploitation.",
+      "Serpent Queen successfully infiltrated Lord Umbrage's estate in deep night, acquiring three high-value art pieces (Zhentarim-linked painting, magical idol, annotated maps) using stealth, magic, and enhanced abilities. Gained 275 XP.",
+      "Serpent Queen internally formulated a detailed plan for Rathmar Vulnerability Exploitation, leveraging his personal fears and the Zhentarim-linked painting.",
+      "Serpent Queen internally refined the Rathmar Vulnerability Exploitation plan, detailing timing, specific demands, and contingencies, leveraging the Zhentarim-linked painting and Lyra's insights.",
+      "Serpent Queen initiated the Rathmar exploitation plan by approaching the Counting House in the early morning, leveraging her enhanced abilities, and realizing the optimal confrontation window is later.",
+      "Player reviewed all d20 dice rolls in God Mode, noting a high success rate.",
+      "Player requested detailed dice roll analysis in God Mode, confirming high success rate and favorable raw d20 rolls.",
+      "Player requested detailed dice roll analysis in God Mode, confirming high success rate and favorable raw d20 rolls, and asked about non-uniform distribution.",
+      "Player requested detailed dice roll analysis in God Mode, questioning the observed non-uniform distribution of raw d20 rolls, and inquired about the underlying random number generation.",
+      "Serpent Queen returned to Story Mode, with the Karmic Dice mechanic now active in the campaign.",
+      "Serpent Queen successfully conducted pre-confrontation reconnaissance of the Counting House area, identifying escape routes, vantage points, and environmental factors for Rathmar's exploitation.",
+      "Serpent Queen took a short rest in the Guild safe house, replenishing Bardic Inspiration and preparing for Rathmar's confrontation.",
+      "Serpent Queen successfully prepared the confrontation site for Rathmar at the Counting House with subtle environmental alterations and minor illusions.",
+      "Rathmar arrived at the Counting House, initiating the active phase of his exploitation plan.",
+      "Serpent Queen successfully initiated the calculated confrontation with Rathmar, leveraging a convincing disguise, subtle approach, and the Zhentarim-linked painting to pique his fears and gain his attention.",
+      "Serpent Queen successfully initiated the calculated confrontation with Rathmar, leveraging a convincing disguise, subtle approach, and the Zhentarim-linked painting to pique his fears and gain his attention, and then subtly hinted at Lyra's connection, further unsettling him and linking his fears to her.",
+      "Serpent Queen successfully offered to discreetly manage sensitive information, positioning herself as a solution to Rathmar's fears of chaos and exposure, leveraging his obsession with control and reputation. Gained 75 XP.",
+      "Serpent Queen successfully probed Rathmar's immediate concerns by asking a veiled question about his fears of 'messy outcomes' and 'uncontrolled rot,' pinpointing his most sensitive leverage points and deepening his fear. Gained 75 XP.",
+      "Serpent Queen successfully coerced Rathmar into a strategic alliance, leveraging his fear of exposure to gain a high-level Zhentarim asset.",
+      "Serpent Queen successfully coerced Rathmar into a strategic alliance, leveraging his fear of exposure to gain a high-level Zhentarim asset. She then immediately extracted critical intelligence on Captain Vharkus (Basilisk Gate Barracks commander) and the 'Wide Arc' smuggling operation (schedule and route for Ches 23).",
+      "Serpent Queen took a long rest at the Coiled Serpent, fully restoring resources. Prepared to exploit Rathmar's diversion at the Umbrage Estate.",
+      "Serpent Queen formulated a strategic assessment of how to best weaken both Lord Umbrage and Rathmar, weighing internal subversion (Lyra) against external framing and resource draining.",
+      "Serpent Queen executed 'Total Acquisition' on Umbrage Estate, stripping it of liquid wealth and deeds while avoiding Lyra.",
+      "Serpent Queen completed the Umbrage Contract by delivering the Deeds and Bonds to Arvax, framing it as a strategic victory while secretly keeping ~2000gp in liquid loot and the Whispering Idol.",
+      "Serpent Queen successfully persuaded Arvax to arrange a meeting with Nine-Fingers Keene by offering to take sole responsibility for the risk.",
+      "Serpent Queen retreated to the safe house and waited. At 01:00 AM on Ches 23, a runner arrived confirming Nine-Fingers Keene granted the audience.",
+      "Studied 'The Whispering Idol' and discovered its amplifying resonance before meeting Nine-Fingers Keene.",
+      "Impressed Nine-Fingers Keene by revealing the neutralization of the Zhentarim (Rathmar) prior to the main pitch.",
+      "Serpent Queen successfully pitched the 'Shadow Monarch' alliance to Nine-Fingers Keene, securing autonomy over Upper City operations and a partnership with the Guild.",
+      "Shadow Monarch successfully negotiated a partnership with Nine-Fingers Keene, secured the 'Black Lotus' elite team, and reached Level 7.",
+      "Shadow Monarch mastered 'Greater Invisibility', cementing her transition to the 4th Circle of magic.",
+      "Serpent Queen contemplated strategies to weaken Lord Umbrage and Rathmar, considering turning Lyra, financial ruin, or framing schemes.",
+      "Confronted Rathmar in his home, revealing Lyra's ascension and shattering his leverage over her.",
+      "Shadow Monarch successfully seized the Zhentarim Vault using the 'Overseer' persona, tricking the garrison into loading the loot themselves (Critical Success).",
+      "Shadow Monarch mastered 'The Whispering Idol', unlocking the ability to impose disadvantage on saves at the cost of vitality.",
+      "Shadow Monarch intercepted the Zhentarim Caravan, discovering a shipment of 10 Soul Coins and a manifest of 'harvested' refugees.",
+      "Shadow Monarch ambushed the Zhentarim Caravan at Wyrm's Rock, killing the Red Wizard and discovering a shipment of 10 Soul Coins (harvested refugees).",
+      "Infiltrated Absolute cult cell in Little Calimshan, assassinated an acolyte to sate Hunger, and stole intel regarding a parasite shipment targeting Patriars.",
+      "Proposed strategic marriage to Lyra. She is receptive. Assessed her corruption vector: Paranoia.",
+      "[auto] The True Soul Leader is a husk, his mind silenced by the jamming signal, his body limp in the chair. You approach him not as an executioner, but as a surgeon. The *Vicious L",
+      "[auto] You hold the jar to the light, the dormant tadpole floating in the brine like a preserved nightmare. To others, it is a parasite, a violation waiting to happen. To you, it i",
+      "[auto] You leave the empty jar rolling on the captain's desk and descend into the belly of the ship. The air grows colder with each step, heavy with a metallic tang that tastes of ",
+      "[auto] The heavy tread of boots on the stairs heralds the arrival of the Guild. Smiley Arvax descends into the hold, followed by a crew of rough-looking stevedores. His eyes light ",
+      "[auto] You leave the heavy lifting to the Guild. While Arvax's men grunt and curse over crates of iron, you ascend the narrow stairs to the quarterdeck, stepping over the cooling c",
+      "[auto] You leave the *Silent Wave* to the Guild's care, the heavy iron-bound crate of 'specimens' carried by your own hand back to the sanctuary of the Coiled Serpent. The night of",
+      "[auto] You do not grant the True Soul Leader the dignity of a warrior's death. You grant him chains.\n\n\"Vesper,\" you command, your voice cutting through the groans of the dying. \"Bi",
+      "[auto] You leave the *Silent Wave* to the Guild's carrion birds. The heavy lifting of crates and the herding of the common crew are tasks for Arvax's men. Your prize is specific, a",
+      "[auto] You clear the rough wooden table, sweeping aside the remnants of your breakfast. In their place, you lay out the true feast: *Rathmar's Black Ledgers*, the *Manifest of Soul",
+      "[auto] You move with the precise urgency of a commander preparing for a siege. First, you liquidate the past. The refugee heirlooms\u2014silver lockets, gold rings, the detritus of lost",
+      "[auto] You withdraw to the sanctuary of the Coiled Serpent as the afternoon sun begins to wane. The martial violence of the river is behind you; the social battlefield lies ahead. ",
+      "[auto] You drift through the gala like a shark in a koi pond. The *Glamoured Studded Leather* is a masterpiece of deception, flowing around you in waves of midnight silk that whisp",
+      "[auto] You leave Lord Caldwell to his wine and his newfound loyalty, slipping back into the glittering current of the gala. The applause for his toast has settled into a murmur of ",
+      "[auto] You drift towards the fireplace where **Duke Torlin Silvershield** holds court. He stands like a statue of marble and iron, his face a mask of disciplined stoicism as he lis",
+      "[auto] You do not give him the chance to finish his incantation. You weave the discordant melody of *Dissonant Whispers*, projecting a psychic scream directly into the True Soul Le",
+      "[auto] You do not grant the True Soul Leader the dignity of a warrior's death. You grant him chains.\n\n\"Vesper,\" you command, your voice cutting through the chaos of the deck. \"Bind",
+      "[auto] You choose to trade the safety of the shadows for the absolute control of the spotlight. Standing on the high rocks of the jetty, you release the weave of *Greater Invisibil",
+      "[auto] Duke Silvershield stares at you, his drink forgotten in his hand. The word *'certainty'* resonates with the frequency of his own internal desperation. He looks around the ro",
+      "[auto] You move through the ballroom like a shark in a koi pond. The air is thick with perfume, expensive wine, and the nervous energy of a nobility under siege. The *Glamoured Stu",
+      "Shadow Monarch secured Duke Silvershield's support by offering the Consortium as a secret police force against the 'Moonrise' threat."
+    ],
+    "milestone_reached": "Level 8 - The Shadow Monarch",
+    "last_story_mode_sequence_id": 626,
+    "attribute_system": "D&D",
+    "holdings": {
+      "shadow_bank": {
+        "investment": 7000,
+        "intel_bonus": "Advantage on Urban Investigation",
+        "status": "Generating Revenue",
+        "assets": [
+          "3 Warehouses (Docks)",
+          "2 Tenements (Wide Arc)",
+          "4 Tavern Debts"
+        ],
+        "managers": [
+          "Vessic",
+          "Smiley Arvax"
+        ],
+        "income_rate": "500gp/week",
+        "weekly_income": 800
+      }
+    },
+    "combat_active": true,
+    "level_up_pending": true,
+    "attunement_limit_override": true,
+    "knowledge": {
+      "psionic_stasis": true,
+      "moonrise_route": true,
+      "psionic_jamming": true
+    },
+    "black_lotus_team": {
+      "orders": "Ambush Zhentarim Caravan",
+      "status": "prepping_for_naval",
+      "loyalty": "absolute",
+      "members": [
+        "Vesper",
+        "Gant",
+        "Silas",
+        "Nyx"
+      ],
+      "location": "Wyrm's Rock Ambush Site",
+      "readiness": "high"
+    },
+    "patriar_panic_level": "critical",
+    "forces": {
+      "political": [
+        "Lyra Umbrage",
+        "Lady Isolde"
+      ],
+      "logistics": [
+        "Arvax",
+        "Vessic",
+        "Rathmar"
+      ],
+      "shadow_legion": {
+        "count": 15,
+        "status": "Active Gang",
+        "level": 1
+      },
+      "black_lotus": {
+        "count": 4,
+        "status": "Elite",
+        "level": 7
+      },
+      "zhentarim_defectors": {
+        "count": 8,
+        "status": "Loyal (Mercenary)",
+        "role": "Sailors/Enforcers"
+      },
+      "spies": [
+        "Squire Jory"
+      ],
+      "naval_assets": [
+        "The Moonrise Ship (Captured Cog)"
+      ],
+      "recruits": {
+        "count": 5,
+        "status": "The Unseen (Elite)",
+        "level": 2
+      }
+    },
+    "arc_milestones": {},
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "active_constraints": [],
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "round": 1,
+    "in_combat": true,
+    "surprise_round_pending": true,
+    "turn": "player",
+    "combatants": {
+      "Vesper": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": "Targeted"
+      },
+      "Gant": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": "Boarding"
+      },
+      "Zhentarim Crew": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": "Terrified"
+      },
+      "Zhentarim Guards": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": "Surprised"
+      },
+      "Quartermaster": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": "Defeated"
+      },
+      "Crew": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": "5 Incapacitated, 1 Prone"
+      },
+      "Guards": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": "Surprised"
+      },
+      "Black Lotus": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": "Hidden"
+      },
+      "Vessic": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": "Surprised"
+      },
+      "Red Wizard": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": "Critical/Prone"
+      },
+      "Cultist Guards": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": "6 Incapacitated, 2 Active"
+      },
+      "Silas": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": "Hidden/Ready"
+      },
+      "Shadow Monarch": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": "Concentrating (Hypnotic Pattern)"
+      },
+      "True Soul Leader": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": "Incapacitated (Hypnotic Pattern)"
+      },
+      "Kaelen D'Vray": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": "Incapacitated"
+      },
+      "Nyx": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": "Normal"
+      },
+      "Zhentarim Captain": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": "Defeated"
+      }
+    }
+  },
+  "last_state_update_timestamp": "2025-11-30 19:57:06.496000+00:00",
+  "turn_number": 0,
+  "player_turn": 0,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "minute": 10,
+    "time_of_day": "Night",
+    "day": 5,
+    "second": 0,
+    "year": 1492,
+    "hour": 20,
+    "month": "Tarsakh"
+  },
+  "time_sensitive_events": {
+    "moonrise_shipment_arrival": {
+      "consequences": "Upper City Patriars infected, Shadow Monarch's influence undermined",
+      "description": "Shipment of Mind Flayer Tadpoles arrives via Chionthar River",
+      "status": "active",
+      "deadline": {
+        "hour": 22,
+        "day": 5,
+        "year": 1492,
+        "month": "Tarsakh",
+        "minute": 0
+      },
+      "urgency_level": "critical"
+    },
+    "moonrise_shipment": {
+      "consequences": "Upper City Patriars infected, Shadow Monarch's influence undermined",
+      "description": "Shipment of Mind Flayer Tadpoles arrives via Chionthar River",
+      "status": "active",
+      "deadline": {
+        "hour": 22,
+        "day": 5,
+        "year": 1492,
+        "month": "Tarsakh",
+        "minute": 0
+      },
+      "urgency_level": "critical"
+    }
+  },
+  "npc_agendas": {},
+  "world_resources": {
+    "last_note": "HD: 8/8, Spells: L1 3/4, L2 3/3, L3 3/3, L4 2/2, Bardic Inspiration: 5/5, Rations: 1 day, Lamp Oil: 1, Rags: 2"
+  },
+  "time_pressure_warnings": {},
+  "debug_mode": false,
+  "pending_instruction_hints": [],
+  "umbrage_punishment": {
+    "objective": "Marriage manipulation initiated. Lyra is receptive."
+  },
+  "debug_info": {
+    "dm_notes": [
+      "Integrated user's custom plan: 'Silent Blade' modified with 'Greater Invisibility' aggression.",
+      "Validated mechanics: Greater Invisibility (4th level) allows attacking without breaking stealth.",
+      "Vesper (Assassin) pairs well with this for the Captain takedown."
+    ]
+  },
+  "mission_status": {
+    "gala_of_new_dawn": {
+      "status": "in_progress",
+      "objective": "Secure Silvershield's Sanction"
+    },
+    "patriar_conquest": {
+      "status": "in_progress",
+      "caldwell": "secured"
+    }
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "core_memories": [
+    "Serpent Queen returned to her discreet vantage point near the Counting House, awaiting Rathmar's arrival and observing the increasing morning activity, ready to initiate his exploitation."
+  ],
+  "holdings": {
+    "shadow_bank": {
+      "legal_structure": "Sovereign Consortium (Personal Control)",
+      "status": "active - audited",
+      "manager_status": "Terrified/Loyal"
+    }
+  },
+  "location_confirmed": "The Coiled Serpent Tavern - Safe House",
+  "world_time": {
+    "hour": 18,
+    "time_of_day": "Evening",
+    "day": 6,
+    "second": 0,
+    "year": 1492,
+    "month": "Tarsakh",
+    "minute": 30
+  }
+}

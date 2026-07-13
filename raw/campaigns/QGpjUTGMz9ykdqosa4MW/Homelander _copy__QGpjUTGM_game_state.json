@@ -1,0 +1,931 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "skill_proficiencies": {
+      "expertise": [
+        "Insight",
+        "Perception"
+      ]
+    },
+    "relationships": {
+      "hughie_campbell": {
+        "disposition": "terrified_loyalist",
+        "trust_level": -8,
+        "history": [
+          "Interrogated and broken",
+          "Spared and recruited as a Vought asset",
+          "Granted Homelander's personal cell number"
+        ]
+      },
+      "susan_rayner": {
+        "disposition": "hostile",
+        "trust_level": -9,
+        "history": [
+          "Leverage destroyed",
+          "Coerced into becoming a Vought mole at Gravelly Point"
+        ]
+      },
+      "queen_maeve": {
+        "disposition": "wary_ally",
+        "trust_level": 2,
+        "history": [
+          "Delegated Translucent rescue credit",
+          "Persuaded of Homelander's personal respect"
+        ]
+      }
+    },
+    "entity_id": "pc_homelander_001",
+    "mbti": "ENTJ - Cold Strategist",
+    "proficiency_bonus": 5,
+    "attributes": {
+      "strength": 24,
+      "intelligence": 12,
+      "charisma": 18,
+      "wisdom": 10,
+      "dexterity": 20,
+      "constitution": 22
+    },
+    "display_name": "Homelander",
+    "class_name": "Gestalt Fighter/Paladin (Vought-Enhanced)",
+    "status_conditions": [],
+    "race": "Enhanced Human",
+    "alignment": "Neutral Evil",
+    "core_memories": [
+      "Correction: Homelander's personality is defined by cold intelligence and ruthless pragmatism, devoid of the pathetic instabilities or fetishes of his canon counterpart.",
+      "Homelander successfully broke Frenchie's psychological defenses, identifying Mother's Milk's location at a Harlem social club.",
+      "Homelander pinpointed Mother's Milk in a Harlem social club but alerted him with a thunderous arrival, cornering him at a data terminal.",
+      "Homelander captured Mother's Milk in Harlem, securing the data terminal and initiating a high-stakes interrogation using MM's family as leverage.",
+      "Homelander revealed Marvin's cooperation to Billy Butcher in Vought's sub-levels, successfully shattering the cell leader's ideological resolve.",
+      "Homelander successfully leveraged Marvin's betrayal to erode Billy Butcher's ideological resolve, positioning Butcher as a potential 'leashed' asset against Susan Rayner.",
+      "Homelander successfully leveraged the safety of the Boys' families to turn Billy Butcher into a 'leashed' asset, securing CIA Deputy Director Susan Rayner's physical and digital contingency locations.",
+      "Homelander successfully executed a dual-front strike, personally destroying Rayner's physical drive at Langley while Alpha-6 purged her digital 'Plan B' in West Virginia.",
+      "Homelander confronted Susan Rayner at Gravelly Point, destroying her physical and digital contingencies and initiating a high-stakes coercion to turn her into a Vought mole."
+    ],
+    "name": "Homelander",
+    "experience": {
+      "needed_for_next_level": 195000,
+      "to_next_level": 400,
+      "current": 194600
+    },
+    "resources": {
+      "spell_slots": {
+        "level_2": {
+          "used": 0,
+          "max": 3
+        },
+        "level_4": {
+          "used": 0,
+          "max": 2
+        },
+        "level_1": {
+          "used": 0,
+          "max": 4
+        },
+        "level_3": {
+          "used": 0,
+          "max": 3
+        }
+      },
+      "class_features": {
+        "sonic_shout": {
+          "used": 0,
+          "max": 3
+        },
+        "lay_on_hands": {
+          "used": 0,
+          "max": 75
+        },
+        "second_wind": {
+          "used": 0,
+          "max": 1
+        },
+        "divine_sense": {
+          "used": 0,
+          "max": 5
+        },
+        "cleansing_touch": {
+          "used": 0,
+          "max": 4
+        },
+        "indomitable": {
+          "used": 0,
+          "max": 2
+        },
+        "heat_vision": {
+          "used": 0,
+          "max": 5
+        },
+        "action_surge": {
+          "used": 0,
+          "max": 1
+        }
+      },
+      "usd": 10000000,
+      "gold": 10000000
+    },
+    "base_attributes": {
+      "strength": 24,
+      "charisma": 18,
+      "dexterity": 20,
+      "wisdom": 10,
+      "intelligence": 12,
+      "constitution": 22
+    },
+    "spells_prepared": [
+      {
+        "level": 1,
+        "description": "Compel a target to obey a one-word command.",
+        "name": "Command"
+      },
+      {
+        "level": 1,
+        "description": "Attack deals extra psychic damage and may frighten the target.",
+        "name": "Wrathful Smite"
+      },
+      {
+        "name": "Shield of Faith",
+        "description": "Grant +2 AC to a target.",
+        "level": 1
+      },
+      {
+        "name": "Hold Person",
+        "description": "Paralyze a humanoid.",
+        "level": 2
+      },
+      {
+        "level": 2,
+        "description": "Create a floating weapon that attacks on your command.",
+        "name": "Spiritual Weapon"
+      },
+      {
+        "level": 3,
+        "description": "Attack deals extra radiant damage and may blind the target.",
+        "name": "Blinding Smite"
+      },
+      {
+        "name": "Haste",
+        "description": "Double speed, +2 AC, advantage on DEX saves, additional action.",
+        "level": 3
+      },
+      {
+        "level": 4,
+        "description": "Attack deals extra psychic damage and target has disadvantage on attacks/saves.",
+        "name": "Staggering Smite"
+      },
+      {
+        "level": 4,
+        "description": "Protect a creature from death once.",
+        "name": "Death Ward"
+      }
+    ],
+    "hp_max": 185,
+    "level": 15,
+    "skills": {
+      "proficiencies": [
+        "Perception",
+        "Insight",
+        "Persuasion",
+        "Intimidation"
+      ]
+    },
+    "hp_current": 185,
+    "health": {
+      "temp_hp": 0,
+      "hp_max": 185,
+      "hp": 185,
+      "conditions": []
+    },
+    "active_effects": [
+      "Superior Super-Senses: Advantage on Perception and Insight checks involving biological physiological monitoring (heart rates, pupil dilation, etc.)."
+    ],
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        },
+        {
+          "name": "Vought Emergency Transponder"
+        },
+        {
+          "name": "Mirror"
+        }
+      ],
+      "body": {
+        "equipped": true,
+        "stats": "+3 AC, Resistance to all non-magical damage",
+        "name": "The Seven Tactical Suit (+3)"
+      },
+      "off_hand": null,
+      "main_hand": {
+        "damage": "1d10+7",
+        "equipped": true,
+        "type": "weapon",
+        "name": "Unarmed Strike (Super Strength)"
+      },
+      "ranged": {
+        "damage": "10d6",
+        "damage_type": "Fire/Radiant",
+        "equipped": true,
+        "stats": "+3 to attack and damage rolls, 10d6+3 damage",
+        "type": "weapon",
+        "name": "Heat Vision (+3)"
+      },
+      "cloak": {
+        "equipped": true,
+        "stats": "+3 to Charisma (Persuasion) and Charisma (Intimidation) checks",
+        "name": "American Flag Cape (+3)"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 30,
+      "hour": 19,
+      "time_of_day": "evening",
+      "year": 2019,
+      "day": 15,
+      "month": 5
+    },
+    "current_location_name": "Gravelly Point Park, Arlington"
+  },
+  "npc_data": {
+    "Translucent": {
+      "status": "conscious",
+      "health": {
+        "hp_max": 45,
+        "hp": 25
+      },
+      "visibility": "obscured"
+    },
+    "Billy Butcher": {
+      "entity_id": "npc_billy_butcher_001",
+      "status": "conscious",
+      "entity_type": "npc",
+      "display_name": "Billy Butcher",
+      "location": "loc_vought_holding_004",
+      "level": 10,
+      "tier": "lord",
+      "current_location": "loc_vought_holding_004",
+      "role": "Captive / Leader of The Boys",
+      "health": {
+        "hp_max": 85,
+        "hp": 45,
+        "conditions": [
+          "Restrained",
+          "Blindfolded"
+        ]
+      }
+    },
+    "Mother's Milk": {
+      "tier": "general",
+      "entity_id": "npc_mothers_milk_001",
+      "current_location": "loc_vought_holding_004",
+      "status": "conscious",
+      "display_name": "Marvin T. Milk",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "grievances": [
+            "Threatened family",
+            "Physical assault during capture"
+          ],
+          "trust_level": -10,
+          "history": [
+            "Captured in Harlem",
+            "Threatened with daughter's death via live surveillance"
+          ]
+        }
+      },
+      "level": 6
+    },
+    "Queen Maeve": {
+      "relationships": {
+        "player": {
+          "disposition": "calculating_ally",
+          "trust_level": 3,
+          "history": [
+            "Delegated Translucent rescue credit",
+            "Persuaded of Homelander's personal respect",
+            "Granted authority over Starlight's training"
+          ]
+        }
+      }
+    },
+    "A-Train": {
+      "attitude_to_party": "hostile",
+      "entity_id": "npc_atrain_001",
+      "status": "unconscious",
+      "role": "Hero in Rehab",
+      "location": "Meatpacking District",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -2,
+          "history": [
+            "Homelander publicly humiliated him and shut down his V-fueled binge."
+          ]
+        }
+      }
+    },
+    "Frenchie": {
+      "entity_id": "npc_frenchie_001",
+      "current_location": "loc_vought_holding_004",
+      "entity_type": "npc",
+      "display_name": "Frenchie",
+      "location": "loc_vought_holding_004",
+      "level": 4,
+      "tier": "noble",
+      "status": "conscious",
+      "role": "Captive / Tech Expert",
+      "health": {
+        "hp_max": 32,
+        "hp": 20,
+        "conditions": [
+          "Restrained",
+          "Blindfolded"
+        ]
+      }
+    },
+    "Hughie Campbell": {
+      "entity_id": "npc_hughie_campbell_001",
+      "current_location": "loc_vought_holding_004",
+      "entity_type": "npc",
+      "tier": "commoner",
+      "display_name": "Hughie Campbell",
+      "level": 1,
+      "status": "confused",
+      "health": {
+        "hp_max": 10,
+        "hp": 10
+      },
+      "role": "Captive / Civilian",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -2,
+          "history": [
+            "Captured by Homelander in the Diamond District.",
+            "Stripped and blindfolded for interrogation.",
+            "Homelander forced A-Train to apologize for Robin's death."
+          ]
+        }
+      }
+    },
+    "Annie January (Starlight)": {
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_starlight_001",
+      "tier": "knight",
+      "hp_max": 80,
+      "level": 5,
+      "hp_current": 80,
+      "armor_class": 15,
+      "role": "New Seven Member",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 1,
+          "history": [
+            "First meeting; greeted by Homelander"
+          ]
+        }
+      }
+    },
+    "mothers_milk": {
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10,
+          "history": [
+            "Cornered by Homelander in Harlem basement"
+          ]
+        }
+      },
+      "tier": "general",
+      "entity_id": "npc_mothers_milk_001",
+      "status": "conscious",
+      "display_name": "Mother's Milk",
+      "role": "Tactical/Logistics Lead for The Boys",
+      "level": 6
+    },
+    "Madelyn Stillwell": {
+      "attitude_to_party": "friendly",
+      "role": "Senior VP of Hero Management",
+      "entity_id": "npc_stillwell_001",
+      "display_name": "Madelyn Stillwell",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 3,
+          "history": [
+            "Yielded to Homelander regarding Hughie Campbell's fate."
+          ]
+        }
+      },
+      "tier": "lord",
+      "level": 5
+    },
+    "Susan Rayner": {
+      "attitude_to_party": "hostile",
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -9
+        }
+      }
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "arc_milestones": {},
+    "active_constraints": [],
+    "god_mode": {
+      "setting": "Homelander but make me neutral alignment. Let\u2019s put me in season  1 of the boys and make it fully faithful to the show",
+      "character": {
+        "name": "Homelander"
+      }
+    },
+    "multiverse_upgrade_available": false,
+    "next_companion_arc_turn": 5,
+    "active_missions": [
+      {
+        "status": "completed",
+        "mission_id": "find_translucent",
+        "objective": "The Boys' cell is captured and Rayner's leverage is destroyed."
+      }
+    ],
+    "success_streak": 12,
+    "_agent_selection_tracker": {
+      "count": 1,
+      "rewards_skip_count": 0,
+      "agent": "HeavyDialogAgent"
+    },
+    "character_creation_completed": true,
+    "last_location": "Gravelly Point Park, Arlington",
+    "core_memories": [
+      "Homelander is a neutral-aligned Tier 3 Supe at Level 15, starting Season 1 of The Boys as the leader of The Seven with Vought backing.",
+      "Homelander is built as a Level 15 Gestalt Fighter/Paladin with 20 DEX and 24 STR, operating as a neutral Tier 3 Supe for Vought International.",
+      "Homelander (Neutral) begins Season 1 in Vought Tower, equipped with +3 tactical gear, facing the mystery of Translucent's disappearance and Starlight's arrival.",
+      "Homelander (Neutral) begins his tenure in Season 1, alerted by Madelyn Stillwell to Translucent's disappearance and Starlight's arrival at Vought Tower.",
+      "Homelander successfully pressed Madelyn Stillwell for the truth, revealing Translucent was investigating a Compound V leak in the Diamond District.",
+      "Homelander is a Neutral Evil Tier 3 Supe, driven by ruthless self-interest while maintaining a flawless public facade.",
+      "Homelander used his superior physiological monitoring to break Madelyn Stillwell's composure, revealing Translucent was tracking a Compound V leak involving 'Butcher' in the Diamond District.",
+      "Homelander used his superior physiological monitoring to break Madelyn Stillwell's composure, forcing her to reveal the exact location of Translucent's last ping: 'The Sound of Silence' repair shop in the Diamond District.",
+      "Correction: Homelander's operational level is confirmed as Level 15 (Gestalt Fighter/Paladin) as per Vought High-Power asset protocols.",
+      "Homelander successfully neutralized Billy Butcher's cell at 'The Sound of Silence' and brought the three captives to Vought Tower for interrogation.",
+      "Homelander thoroughly searched Butcher, Frenchie, and Hughie in Vought's holding sub-level but failed to find any Compound V samples or critical intel on their persons.",
+      "Homelander separated Butcher's cell, stripping them and securing them in isolation; Hughie was the first to break, surrendering under interrogation in Sub-Level 4.",
+      "Hughie Campbell revealed that the Compound V leak was not a mole, but rather Butcher's cell tracking A-Train's negligent use of the substance during a civilian casualty incident.",
+      "Hughie Campbell revealed Frenchie's true name (Serge) and the location of their workshop, 'The Suds and Bubbles' in Koreatown, under Neutral Evil Homelander's interrogation.",
+      "Homelander spared Hughie Campbell, portraying himself as a 'Good Cop' and upholder of the law to secure Translucent's location at 'The Sound of Silence' basement.",
+      "Homelander successfully rescued Translucent from 'The Sound of Silence' using precision heat vision after Hughie Campbell failed to disable the thermite trap.",
+      "Homelander forced Hughie to apologize to Translucent and used his god-like Insight to detect that Translucent is hiding a compromise or information leak from his captivity.",
+      "Homelander forced a confession from Translucent, revealing that Butcher's cell successfully harvested a biological skin sample for analysis.",
+      "Homelander delegated the PR of Translucent's rescue to Maeve to maintain his own focus on the Compound V trail and A-Train's liability.",
+      "Homelander publicly reprimanded A-Train and forced him to apologize to Hughie for Robin's death, establishing a facade of justice while maintaining Neutral Evil control.",
+      "Homelander successfully pressured Madelyn Stillwell to spare Hughie Campbell, opting to use him as a controlled asset rather than disposing of him.",
+      "Homelander has successfully turned Hughie Campbell into a controlled asset through a combination of strategic 'kindness' and absolute killing intent, while subtly improving his relationship with Queen Maeve by demonstrating genuine respect.",
+      "Homelander's rare display of sincerity and respect toward Queen Maeve has successfully established a foundation of wary trust, shifting her perception of his ruthlessness from arbitrary to calculated.",
+      "Homelander granted Queen Maeve authority over Starlight's training for one week, reinforcing their burgeoning alliance while maintaining his public 'Boy Scout' facade during Starlight's intake.",
+      "Homelander assigned Starlight to Queen Maeve's mentorship to solidify their alliance, then began the interrogation of Frenchie in Vought's sub-levels.",
+      "Homelander's Insight revealed that Frenchie left a digital trail to a contact named 'MM', who likely holds the backup of the stolen skin sample data.",
+      "Homelander successfully broke Mother's Milk by leveraging his family, securing the identity of CIA Deputy Director Susan Rayner and the encryption key 'LoveSausage2019' for the stolen skin sample data.",
+      "Homelander secured the name of CIA contact Susan Rayner and the 'LoveSausage2019' encryption key from Marvin, then ordered Alpha-6 to relocate Marvin's family to a secure safe house.",
+      "Homelander successfully coerced CIA Deputy Director Susan Rayner into becoming a Vought mole by using a flipped Billy Butcher to shatter her last institutional hope."
+    ],
+    "divine_potential": 0,
+    "attribute_system": "D&D",
+    "major_event_pressure_budget": {
+      "new_major_event": true,
+      "rationale": "High success streak and A-Train's established volatility trigger a containment breach complication.",
+      "window": "24h",
+      "major_events_this_window": 2,
+      "special_circumstances": true
+    },
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "enabled": false,
+      "tutorial_completed": false
+    },
+    "level_up_pending": false,
+    "completed_missions": [],
+    "character_creation_in_progress": false,
+    "character_creation_stage": "complete",
+    "campaign_tier": "sovereign",
+    "universe_control": 0,
+    "companion_arcs": {
+      "Queen Maeve": {
+        "progress": 0,
+        "arc_type": "personal_redemption",
+        "phase": "development",
+        "history": [
+          {
+            "event": "Homelander contacted Maeve for standby during the Translucent rescue, sparking her cynical compliance.",
+            "turn": 3
+          },
+          {
+            "event": "Maeve witnessed Homelander's brutal interrogation of Translucent, deepening her resentment.",
+            "turn": 13
+          },
+          "Homelander grants Maeve the credit for the Translucent rescue as a genuine gesture of favor, though Maeve interprets his actions through the lens of his ruthless nature."
+        ],
+        "callbacks": [
+          {
+            "trigger": "Homelander acts with unnecessary cruelty in Maeve's presence.",
+            "effect": "Maeve's cynicism deepens into active resentment/fear.",
+            "triggered": false
+          }
+        ]
+      }
+    },
+    "divine_upgrade_available": false
+  },
+  "social_hp_challenge": {
+    "social_hp": 6,
+    "roll_dc": 20,
+    "cooldown_remaining": 1,
+    "successes": 1,
+    "roll_result": 27,
+    "request_severity": "submission",
+    "npc_tier": "lord_general",
+    "successes_needed": 5,
+    "status": "WAVERING",
+    "social_hp_damage": 2,
+    "resistance_shown": "Professional deflection, initial denial, physiological shock.",
+    "social_hp_max": 8,
+    "objective": "Coerce Rayner into becoming a Vought mole",
+    "npc_name": "Susan Rayner",
+    "skill_used": "Intimidation"
+  },
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2026-05-26 08:25:56.635000+00:00",
+  "turn_number": 35,
+  "player_turn": 35,
+  "last_living_world_turn": 35,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "minute": 30,
+    "hour": 19,
+    "time_of_day": "evening",
+    "year": 2019,
+    "day": 15,
+    "month": 5
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "Post-coercion at Gravelly Point; emergency at Vought Wellness.",
+    "thinking": "Rayner is secured\u2014the leash is short, and she knows the cost of slipping it. However, the situation with A-Train is an emerging complication that threatens the narrative stability I've just established. If he hits the street in his current state, the 'rehab' story becomes a national scandal. I have Butcher and the others in the sub-levels, but the 'face' of The Seven is currently tearing through a medical facility.",
+    "choices": [
+      {
+        "id": "direct_neutralization",
+        "text": "Surgical Shutdown",
+        "cons": [
+          "Risk of accidentally killing a member of The Seven under pressure",
+          "Leaves Rayner unattended at the park"
+        ],
+        "description": "Fly to Vought Wellness immediately. Use your speed to intercept A-Train and knock him out before he can exit the facility perimeter.",
+        "pros": [
+          "Preserves the PR blackout",
+          "Demonstrates absolute control to the medical staff"
+        ],
+        "risk_level": "medium",
+        "confidence": "high"
+      },
+      {
+        "id": "delegate_maeve_intervention",
+        "text": "Command Maeve to Intervene",
+        "cons": [
+          "Maeve may resent being sent to clean up A-Train's mess",
+          "Higher risk of PR leak if she isn't fast enough"
+        ],
+        "description": "Order Maeve to handle the A-Train breach while you finish the intake process with Rayner. Force her to use the 'Goddess of War' persona to stabilize the scene.",
+        "pros": [
+          "Tests Maeve's loyalty and effectiveness",
+          "Allows you to complete the mole activation without interruption"
+        ],
+        "risk_level": "low",
+        "confidence": "medium"
+      },
+      {
+        "text": "Total Team Coordination (Synergistic)",
+        "cons": [
+          "Exposes the 'Hero' mask to the medical staff",
+          "Starlight might be traumatized by the violence"
+        ],
+        "risk_level": "high",
+        "id": "parallel_cleanup",
+        "pros": [
+          "Maximum efficiency",
+          "Integrates Starlight into a high-stakes tactical operation early",
+          "Total containment guaranteed"
+        ],
+        "description": "Command Maeve to secure the perimeter and Starlight to use her light-blasts to disorient A-Train's senses, while you personally descend to deliver the final blow.",
+        "confidence": "low",
+        "analysis": {
+          "combination_type": "synergistic",
+          "synergy_bonus": "A-Train's sensory-overload during a V-surge makes him vulnerable to Starlight's frequency; instant shutdown impossible alone.",
+          "coordination_dc": 18
+        }
+      }
+    ]
+  },
+  "scene_event": {
+    "player_response_required": true,
+    "description": "Maeve reports A-Train's breach and demands Homelander's immediate intervention to prevent a public disaster.",
+    "urgency": "immediate",
+    "type": "companion_request",
+    "actor": "Queen Maeve"
+  },
+  "rewards_box": {
+    "current_xp": 194600,
+    "level_up_available": false,
+    "next_level_xp": 0,
+    "gold": 0.0,
+    "progress_percent": 99,
+    "xp_gained": 1200,
+    "current_level": 15,
+    "source": "milestone",
+    "xp_to_next_level": 400,
+    "xp_total": 194600,
+    "loot": [
+      "Vought-Encrypted CIA Comms Link (Susan Rayner)"
+    ]
+  },
+  "world_events": {
+    "turn_generated": 35,
+    "background_events": [
+      {
+        "discovery_condition": "Homelander checks Vought internal surveillance or receives a PR alert.",
+        "outcome": "His erratic behavior is starting to draw attention from paparazzi.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Meatpacking District",
+        "action": "Sighted at a high-end club in the Meatpacking District, looking highly agitated.",
+        "player_impact": "Potential scandal for The Seven.",
+        "actor": "A-Train",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Direct confrontation.",
+        "outcome": "They are ready for a Supe to arrive, though they don't expect Homelander.",
+        "player_aware": false,
+        "status": "pending",
+        "actor": "Billy Butcher",
+        "action": "Preparing a trap in the basement of 'The Sound of Silence'.",
+        "player_impact": "Dangerous environment for the rescue.",
+        "location": "Diamond District",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Vought PR department emergency alert.",
+        "outcome": "TMZ has grainy footage of a 'blurred figure' throwing a man through a window.",
+        "player_aware": false,
+        "status": "pending",
+        "actor": "A-Train",
+        "action": "A-Train's agitation at the club turns into a physical altercation with a fan.",
+        "location": "Meatpacking District",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Homelander reviews tactical logs or is briefed by Stillwell.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Lab scrubbed, but traces of Translucent's unique carbon signature confirmed. No skin sample found on site.",
+        "location": "Koreatown, Manhattan",
+        "action": "Completed sweep of 'The Suds and Bubbles' laundromat in Koreatown.",
+        "player_impact": "Confirms the sample exists but is currently at large.",
+        "actor": "Tactical Team Alpha-6",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Direct communication from Stillwell.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Drafting NDA and 'Consulting Agreement' to legitimize his presence in the building.",
+        "location": "Vought Tower, Executive Floor",
+        "action": "Briefing Vought legal team on Hughie Campbell.",
+        "player_impact": "Solidifies the controlled asset's status.",
+        "actor": "Madelyn Stillwell",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Digital tracking or interrogation of Frenchie/Butcher.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Has realized the cell is compromised and is preparing to go dark with the data.",
+        "actor": "Mother's Milk",
+        "action": "Going underground",
+        "player_impact": "The last remaining threat to Vought's security remains at large.",
+        "id": "mm_going_dark",
+        "location": "Harlem",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "News reports or internal briefing.",
+        "status": "pending",
+        "player_aware": true,
+        "outcome": "Queen Maeve's approval ratings are spiking following the 'rescue' news.",
+        "location": "Global",
+        "action": "Launching 'Goddess of War' campaign",
+        "player_impact": "Bolsters the alliance with Maeve.",
+        "id": "vought_pr_blitz",
+        "actor": "Vought Marketing",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Homelander monitors CIA comms or receives a Vought intel report.",
+        "outcome": "Rayner is entering a state of high-alert and is preparing to purge her own digital trail.",
+        "player_aware": false,
+        "status": "pending",
+        "actor": "Susan Rayner",
+        "action": "Noticed the Harlem social club's server array has gone dark and is unable to reach Mother's Milk.",
+        "player_impact": "Time-sensitive window to capture Rayner before she disappears.",
+        "location": "CIA Headquarters, Langley",
+        "id": "rayner_suspicion",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Stillwell mentions it or Homelander visits.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Medical staff are struggling to contain him without injuring him; security has been doubled.",
+        "location": "Vought Wellness Retreat",
+        "action": "Reacting violently to the detox protocols at Vought Wellness.",
+        "player_impact": "A-Train remains a volatile liability.",
+        "id": "a_train_rehab_trouble",
+        "actor": "A-Train",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Confirmation on Homelander's tablet.",
+        "outcome": "All digital traces of the skin sample data have been sanitized.",
+        "player_aware": true,
+        "status": "discovered",
+        "actor": "Vought Tech Team 4",
+        "action": "Completed remote wipe of the Harlem server array.",
+        "id": "vought_tech_purge",
+        "location": "Vought Tower / Harlem",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Emergency Vought alert and comms from Maeve.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Multiple casualties among medical staff; structural damage to the facility.",
+        "actor": "A-Train",
+        "action": "Breached the secure medical wing at Vought Wellness.",
+        "player_impact": "Massive PR risk and loss of an asset.",
+        "id": "a_train_containment_breach",
+        "location": "Vought Wellness Retreat",
+        "event_type": "immediate"
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Homelander"
+    ]
+  },
+  "rumors": [
+    {
+      "content": "Translucent has been deployed on a top-secret counter-terrorism mission in Syria.",
+      "source_type": "guard",
+      "related_event": "Vought PR Spin",
+      "accuracy": "false"
+    },
+    {
+      "content": "A high-ranking member of The Seven was spotted 'losing it' in a nightclub downtown.",
+      "source_type": "traveler",
+      "accuracy": "true"
+    },
+    {
+      "content": "A-Train has entered an exclusive wellness retreat to treat 'exhaustion' from his heavy patrol schedule.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Vought is preparing a major 'Hero of the Day' PR blitz for Queen Maeve.",
+      "source_type": "guard",
+      "related_event": "Translucent Rescue Credit",
+      "accuracy": "true"
+    },
+    {
+      "content": "A-Train's 'wellness retreat' is actually a high-security lockup for a major PR disaster.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "Queen Maeve is being groomed for a solo film franchise after the Diamond District breach.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A high-end social club in Harlem was raided by Vought tactical teams this afternoon.",
+      "source_type": "commoner",
+      "related_event": "Mother's Milk Capture",
+      "accuracy": "true"
+    },
+    {
+      "content": "Deputy Director Susan Rayner is looking for a way to distance herself from a failed black-ops project.",
+      "source_type": "noble",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A high-ranking CIA official was seen meeting a private security detail near the Potomac tonight.",
+      "source_type": "traveler",
+      "accuracy": "true"
+    },
+    {
+      "content": "There are reports of heavy structural tremors at the Vought Wellness Retreat in the Catskills.",
+      "source_type": "commoner",
+      "related_event": "A-Train Breach",
+      "accuracy": "true"
+    }
+  ],
+  "schema_migration_version": 1,
+  "complications": {
+    "source": "a_train_containment_breach",
+    "description": "A-Train has breached his containment at Vought Wellness, creating a localized disaster that demands your immediate attention and threatens your tactical focus.",
+    "severity": "significant",
+    "triggered": true,
+    "type": "resource_drain"
+  },
+  "time_events": {
+    "rayner_deadline": {
+      "time_remaining": 0,
+      "status": "resolved",
+      "changes_this_turn": "Deadline passed without disclosure due to data destruction.",
+      "new_consequences": "Rayner is now under Homelander's control."
+    }
+  },
+  "schema_migrated_at": "2026-05-26T04:46:01.836528+00:00",
+  "session_id": "legacy-migrated-eef3bf070b4fa79d",
+  "faction_updates": {
+    "The Boys": {
+      "progress": "Severely compromised; 75% of cell captured; data keys leaked.",
+      "player_standing_change": "Terminal Hatred",
+      "resource_change": "Lost Harlem server access and family leverage.",
+      "next_action": "Susan Rayner attempts to initiate emergency contingency 'Plan B'.",
+      "current_objective": "Survival / Data Preservation"
+    }
+  }
+}

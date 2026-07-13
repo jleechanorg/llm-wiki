@@ -1,0 +1,1662 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "aliases": [
+      "The Bored Sovereign",
+      "The Anomaly",
+      "Platinum Rank Novice"
+    ],
+    "health": {
+      "hp_max": 129,
+      "temp_hp": 0,
+      "hp": 129,
+      "conditions": []
+    },
+    "class_name": "Fighter (Eldritch Knight)",
+    "mbti": "INTJ",
+    "equipment": {
+      "backpack": [
+        {
+          "description": "Infinite requisition of funds and Imperial assets.",
+          "type": "accessory",
+          "name": "Imperial Black Card"
+        },
+        {
+          "description": "Standard gear for the mundane life of an adventurer.",
+          "name": "Explorer's Pack"
+        },
+        {
+          "equipped": false,
+          "type": "weapon",
+          "name": "Fine Steel Longsword +1"
+        }
+      ],
+      "armor": {
+        "armor_class": 20,
+        "stats": "+2 Bonus, Cold Resistance",
+        "armor_type": "heavy",
+        "equipped": true,
+        "description": "Matte-black Imperial Vanguard plate. +2 Bonus. Grants Resistance to Cold damage.",
+        "stealth_disadvantage": true,
+        "type": "armor",
+        "strength_requirement": 15,
+        "name": "Vanguard Dread-Plate"
+      },
+      "belt": {
+        "equipped": true,
+        "stats": "STR 21 (+5)",
+        "description": "A thick leather belt buckled with a giant's molar.",
+        "name": "Belt of Hill Giant Strength"
+      },
+      "main_hand": {
+        "damage_type": "slashing",
+        "bonus": 2,
+        "damage": "1d8+7",
+        "properties": [
+          "versatile (1d10+7)",
+          "deals +1d6 Force damage on hit"
+        ],
+        "equipped": true,
+        "description": "A silver-chased +2 longsword that vibrates with arcane force.",
+        "type": "weapon",
+        "name": "Vanguard Eclipse Blade"
+      },
+      "ring_1": {
+        "equipped": true,
+        "stats": "Rare Ring: +1 AC while in arctic terrain; can cast Fog Cloud 1/day.",
+        "name": "Jarl's Obsidian Signet"
+      },
+      "cloak": {
+        "equipped": true,
+        "description": "A shimmering green mantle that hardens the wearer's resolve and defense.",
+        "type": "accessory",
+        "name": "Cloak of Protection"
+      }
+    },
+    "display_name": "Saita Kross",
+    "attributes": {
+      "strength": 21,
+      "dexterity": 18,
+      "intelligence": 18,
+      "wisdom": 14,
+      "charisma": 18,
+      "constitution": 16
+    },
+    "hit_dice_current": 13,
+    "hit_dice_max": 13,
+    "status_conditions": [],
+    "race": "Human",
+    "proficiency_bonus": 5,
+    "entity_id": "pc_saita_001",
+    "gender": "Female",
+    "spells_known": [
+      {
+        "level": 1,
+        "description": "+5 AC until start of next turn.",
+        "name": "Shield"
+      },
+      {
+        "level": 1,
+        "description": "Resistance to elemental damage; bonus damage on next hit.",
+        "name": "Absorb Elements"
+      },
+      {
+        "level": 1,
+        "description": "15ft cube blast; 2d8 thunder damage and push.",
+        "name": "Thunderwave"
+      },
+      {
+        "level": 1,
+        "description": "Three darts that hit unerringly for 1d4+1 each.",
+        "name": "Magic Missile"
+      },
+      {
+        "level": 2,
+        "description": "Teleport up to 30 feet as a bonus action.",
+        "name": "Misty Step"
+      },
+      {
+        "level": 2,
+        "description": "Three illusory duplicates to distract attackers.",
+        "name": "Mirror Image"
+      },
+      {
+        "level": 2,
+        "description": "Create a blade of solidified gloom (2d8 psychic damage).",
+        "name": "Shadow Blade"
+      },
+      {
+        "level": 2,
+        "description": "Paralyze a humanoid.",
+        "name": "Hold Person"
+      },
+      {
+        "level": 3,
+        "description": "Double speed, +2 AC, advantage on Dex saves, extra action (1 attack, dash, disengage, hide, or use object).",
+        "name": "Haste"
+      }
+    ],
+    "name": "Saita Kross",
+    "experience": {
+      "needed_for_next_level": 140000,
+      "current": 136600,
+      "to_next_level": 3400
+    },
+    "resources": {
+      "gold": 9861,
+      "spell_slots": {
+        "level_2": {
+          "used": 0,
+          "max": 3
+        },
+        "level_1": {
+          "used": 2,
+          "max": 4
+        },
+        "level_3": {
+          "used": 1,
+          "max": 2
+        }
+      },
+      "class_features": {
+        "war_magic": {
+          "description": "Bonus action attack after a cantrip action."
+        },
+        "eldritch_strike": {
+          "description": "Weapon hits grant disadvantage on next spell save."
+        },
+        "weapon_bond": {
+          "current": 2,
+          "max": 2,
+          "description": "Can bond with two weapons; summon as bonus action."
+        },
+        "indomitable": {
+          "current": 2,
+          "max": 2
+        },
+        "action_surge": {
+          "current": 0,
+          "max": 1
+        }
+      }
+    },
+    "base_attributes": {
+      "strength": 20,
+      "dexterity": 18,
+      "intelligence": 18,
+      "wisdom": 14,
+      "charisma": 18,
+      "constitution": 16
+    },
+    "alignment": "Neutral Good",
+    "hp_max": 129,
+    "level": 13,
+    "hp_current": 129,
+    "age": 16,
+    "cantrips": [
+      {
+        "level": 0,
+        "description": "Melee attack; target takes 2d8 thunder damage if it moves.",
+        "name": "Booming Blade"
+      },
+      {
+        "level": 0,
+        "description": "Spectral hand for remote manipulation.",
+        "name": "Mage Hand"
+      },
+      {
+        "level": 0,
+        "description": "Creates a sound or an image of an object.",
+        "name": "Minor Illusion"
+      }
+    ],
+    "active_effects": [
+      "Aura of Absolute Dominance - Enemies within 30ft cannot use reactions/bonus actions without permission",
+      "Kinetic Nullification - Casually parry/brush aside magical projectiles",
+      "Shatterpoint - Attacks ignore all resistance and immunity",
+      "Sovereign Strike - +10 flat damage to all weapon attacks (God Mode Active)"
+    ],
+    "recent_decisions": [
+      "Led the Outsiders through the Imperial gate perimeter via silent authority.",
+      "Identified the 'Void-Sick' crystalline lattice in the Silent Grove."
+    ]
+  },
+  "world_data": {
+    "world_time": {
+      "second": 30,
+      "microsecond": 0,
+      "minute": 40,
+      "hour": 18,
+      "time_of_day": "evening",
+      "year": 1492,
+      "day": 16,
+      "month": "Mirtul"
+    },
+    "current_location": "Oakhaven Adventurers League Guildhall",
+    "location": "Silent Grove Fringe",
+    "world_events": {
+      "background_events": [
+        {
+          "id": "ev_auditors_arrival",
+          "delta_action": "update",
+          "outcome": "Saita's exit route is now monitored by 'The Auditors' (Lvl 10 NPCs)."
+        },
+        {
+          "discovery_condition": "Returning to the foothills",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Goblins are working alongside the Silver Lions to stabilize the food supply, treating Saita's orders as the new law.",
+          "actor": "Chieftain Skar / Silver Lions",
+          "action": "Reorganizing granary labor",
+          "player_impact": "Stability increases; local reputation grows.",
+          "id": "ev_goblin_silver_reorg",
+          "location": "Foothills Granaries",
+          "delta_action": "add",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Interrogating Valerius or secret communications",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "The Emperor has seen the Jarl's disintegration. The retrieval order has been secretly updated to 'Observe and Support' if extraction fails, to avoid losing the Vane asset.",
+          "actor": "Imperial Intelligence",
+          "action": "Analyzing scrying data",
+          "player_impact": "Valerius has hidden 'Option B' orders.",
+          "id": "ev_imperial_scry_report",
+          "location": "Aethelgard Capital",
+          "delta_action": "add",
+          "event_type": "long_term"
+        },
+        {
+          "id": "ev_imperial_scry_report",
+          "delta_action": "update",
+          "status": "discovered",
+          "discovered_turn": 38
+        },
+        {
+          "id": "ev_scouts_ridge_001",
+          "delta_action": "resolve",
+          "status": "resolved",
+          "outcome": "The retrieval unit has been converted into a liaison and support outpost.",
+          "resolved_turn": 38
+        },
+        {
+          "discovery_condition": "Returning to town or hearing rumors",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Panic among the Silver Lions' rivals; worshipful fear among the goblins.",
+          "actor": "Gossip/Survivors",
+          "action": "Spreading news of Hrothgar's fall",
+          "player_impact": "Massive reputation boost/notoriety change",
+          "id": "ev_jarl_death_news",
+          "location": "Oakhaven & Foothills",
+          "delta_action": "add",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Interrogating Valerius's communications",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Valeria (Lvl 11) is enraged by the 'Option B' report and begins preparing a 'test' for Saita.",
+          "actor": "The Auditors",
+          "action": "Sending encrypted reports",
+          "player_impact": "Future rival confrontation",
+          "id": "ev_sibling_reports",
+          "location": "Imperial Capital",
+          "delta_action": "add",
+          "event_type": "long_term"
+        }
+      ]
+    }
+  },
+  "npc_data": {
+    "npc_lyra_001": {
+      "class_name": "Sorcerer (Draconic)",
+      "status": "normal",
+      "entity_type": "npc",
+      "display_name": "Lyra Solari",
+      "tier": "noble",
+      "level": 4,
+      "entity_id": "npc_lyra_001",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 1,
+          "history": [
+            "Joined Saita's retinue out of fascination with her power."
+          ]
+        }
+      },
+      "gender": "Female"
+    },
+    "Jarl Hrothgar": {
+      "role": "Mountain King",
+      "entity_id": "npc_hrothgar_001",
+      "entity_type": "creature",
+      "display_name": "Jarl Hrothgar",
+      "hp_max": 140,
+      "level": 9,
+      "tier": "king",
+      "hp_current": 140,
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -2,
+          "history": [
+            "Opened gates out of confusion/intimidation"
+          ]
+        }
+      },
+      "health": {
+        "hp_max": 230,
+        "hp": 20
+      },
+      "name": "Jarl Hrothgar"
+    },
+    "Sylas the Rat": {
+      "class_name": "Rogue",
+      "entity_id": "npc_sylas_001",
+      "entity_type": "npc",
+      "display_name": "Sylas the Rat",
+      "hp_max": 38,
+      "level": 5,
+      "tier": "merchant",
+      "hp_current": 38,
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 7,
+          "history": [
+            "Broken fingers day one; now loyal for the loot"
+          ]
+        }
+      },
+      "health": {
+        "hp_max": 38,
+        "hp": 38
+      },
+      "role": "Scavenger"
+    },
+    "Frost Giant Guard": {
+      "entity_id": "npc_frost_guard_001",
+      "entity_type": "creature",
+      "hp_max": 105,
+      "tier": "guard",
+      "level": 7,
+      "display_name": "Frost Giant Guard",
+      "hp_current": 105,
+      "role": "Sanctum Sentinel"
+    },
+    "npc_gale_001": {
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_gale_001",
+      "class_name": "Wizard (Evocation)",
+      "entity_type": "npc",
+      "tier": "lord_general",
+      "display_name": "Gale of Waterdeep",
+      "level": 12,
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "First contact in the Oakhaven lounge."
+          ]
+        }
+      }
+    },
+    "Registrar Halloway": {
+      "attitude_to_party": "neutral",
+      "alignment": "Lawful Neutral",
+      "entity_id": "npc_halloway_001",
+      "status": "conscious",
+      "entity_type": "npc",
+      "tier": "merchant",
+      "display_name": "Registrar Halloway",
+      "mbti": "ISTJ",
+      "hp_max": 10,
+      "hp_current": 10,
+      "age": 58,
+      "gender": "Male",
+      "role": "League Administrator",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "Initial registration encounter"
+          ]
+        }
+      }
+    },
+    "npc_shadowheart_001": {
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_shadowheart_001",
+      "class_name": "Cleric (Trickery/Shadow)",
+      "entity_type": "npc",
+      "tier": "lord_general",
+      "display_name": "Shadowheart",
+      "level": 12,
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "First contact in the Oakhaven lounge."
+          ]
+        }
+      }
+    },
+    "npc_kaelen_001": {
+      "role": "Companion / Moral Anchor",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 1,
+          "history": [
+            "Witnessed Saita's casual disregard for goblin threats; feels a mixture of awe and spiritual concern."
+          ]
+        }
+      },
+      "class_name": "Paladin (Devotion)",
+      "status": "normal",
+      "entity_type": "npc",
+      "display_name": "Kaelen of the Dawn",
+      "entity_id": "npc_kaelen_001",
+      "level": 11,
+      "mbti": "ENFJ",
+      "gender": "Male",
+      "health": {
+        "hp_max": 95,
+        "hp": 34
+      },
+      "alignment": "Lawful Good"
+    },
+    "Shadowheart": {
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "trust_level": -1,
+          "history": [
+            "Challenged her defensive suspicion in the Oakhaven lounge",
+            "Recognized her scrutiny of Vanguard Force-alloy"
+          ]
+        }
+      }
+    },
+    "npc_wolf_002": {
+      "status": "hidden",
+      "current_location": "Whispering Woods"
+    },
+    "Chieftain Skar": {
+      "entity_id": "npc_skar_001",
+      "status": "hostile",
+      "entity_type": "creature",
+      "hp_max": 15,
+      "display_name": "Chieftain Skar",
+      "tier": "guard",
+      "hp_current": 15,
+      "role": "Goblin Chieftain",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -5,
+          "history": [
+            "Saita demanded judgment amidst their starvation"
+          ]
+        }
+      }
+    },
+    "Sylas 'The Rat'": {
+      "class_name": "Rogue (Thief)",
+      "entity_id": "npc_sylas_001",
+      "entity_type": "npc",
+      "display_name": "Sylas 'The Rat'",
+      "hp_max": 38,
+      "level": 6,
+      "tier": "commoner",
+      "hp_current": 38,
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 1,
+          "history": [
+            "Joined for the potential loot generated by Saita's wake."
+          ]
+        }
+      },
+      "health": {
+        "hp_max": 45,
+        "hp": 45
+      }
+    },
+    "npc_astarion_001": {
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_astarion_001",
+      "class_name": "Rogue (Assassin) / Bard",
+      "entity_type": "npc",
+      "tier": "lord_general",
+      "display_name": "Astarion",
+      "level": 12,
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "First contact in the Oakhaven lounge."
+          ]
+        }
+      }
+    },
+    "High Auditor Valerius": {
+      "attitude_to_party": "allied",
+      "entity_id": "npc_valerius_001",
+      "entity_type": "npc",
+      "tier": "noble",
+      "display_name": "High Auditor Valerius",
+      "level": 10,
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 2,
+          "history": [
+            "Witnessed the 'Kinetic Demonstration' of Saita's Haste/Shatterpoint",
+            "Abandoned retrieval orders for Option B Support"
+          ]
+        }
+      },
+      "role": "Imperial Liaison"
+    },
+    "Lyra Solari": {
+      "class_name": "Sorcerer (Wild Magic)",
+      "entity_id": "npc_lyra_001",
+      "entity_type": "npc",
+      "display_name": "Lyra Solari",
+      "attributes": {
+        "strength": 8,
+        "dexterity": 14,
+        "intelligence": 13,
+        "wisdom": 10,
+        "charisma": 18,
+        "constitution": 12
+      },
+      "race": "Human",
+      "gender": "Female",
+      "visibility": "visible",
+      "status": "normal",
+      "tier": "noble",
+      "hp_max": 26,
+      "level": 6,
+      "hp_current": 26,
+      "health": {
+        "hp_max": 38,
+        "hp": 38
+      },
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "Introduced herself at the guildhall; fascinated by Saita's anomaly status."
+          ]
+        }
+      },
+      "role": "Companion / Arcane Specialist"
+    },
+    "Elara Vance": {
+      "role": "Scribe/Scholar",
+      "class_name": "Wizard (Evocation)",
+      "entity_id": "npc_elara_001",
+      "entity_type": "npc",
+      "display_name": "Elara Vance",
+      "hp_max": 22,
+      "level": 6,
+      "tier": "commoner",
+      "hp_current": 22,
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 2,
+          "history": [
+            "Observing Saita's combat mechanics with academic obsession."
+          ]
+        }
+      },
+      "health": {
+        "hp_max": 32,
+        "hp": 32
+      },
+      "name": "Elara Vance"
+    },
+    "Kaelen of the Dawn": {
+      "class_name": "Paladin (Devotion)",
+      "entity_id": "npc_kaelen_001",
+      "entity_type": "npc",
+      "display_name": "Kaelen of the Dawn",
+      "hp_max": 34,
+      "level": 6,
+      "tier": "knight",
+      "hp_current": 34,
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 1,
+          "history": [
+            "Witnessed Saita's divine-like mastery; currently in existential crisis."
+          ]
+        }
+      },
+      "health": {
+        "hp_max": 52,
+        "hp": 52
+      },
+      "role": "Moral Compass (Ignored)"
+    },
+    "Silver Lion Leader": {
+      "attitude_to_party": "antagonistic",
+      "entity_id": "npc_garek_001",
+      "status": "conscious",
+      "entity_type": "npc",
+      "display_name": "Captain Garek",
+      "hp_max": 45,
+      "level": 6,
+      "tier": "guard",
+      "hp_current": 45,
+      "role": "Mercenary Captain",
+      "name": "Captain Garek"
+    },
+    "npc_sylas_001": {
+      "role": "Companion / Scavenger",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "Joined Saita's party in Oakhaven"
+          ]
+        }
+      },
+      "class_name": "Rogue (Thief)",
+      "mbti": "ISTP",
+      "entity_type": "npc",
+      "display_name": "Sylas the Rat",
+      "entity_id": "npc_sylas_001",
+      "level": 11,
+      "gender": "Male",
+      "health": {
+        "hp_max": 78,
+        "hp": 78
+      },
+      "alignment": "Neutral"
+    },
+    "Captain Valerius": {
+      "attitude_to_party": "antagonistic",
+      "alignment": "Antagonistic",
+      "entity_id": "npc_silver_lion_leader_001",
+      "mbti": "ESTP",
+      "entity_type": "npc",
+      "tier": "knight",
+      "display_name": "Captain Valerius",
+      "level": 5,
+      "hp_max": 45,
+      "hp_current": 45,
+      "age": 34,
+      "role": "Silver Lion Leader",
+      "gender": "Male",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -2,
+          "history": [
+            "Mocked Saita Vane at the Guildhall"
+          ]
+        }
+      }
+    },
+    "Captain Garek": {
+      "attitude_to_party": "hostile",
+      "entity_id": "npc_garek_001",
+      "status": "normal",
+      "present": true,
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "status": "Fear-bonded",
+          "trust_level": -5,
+          "history": [
+            "Humiliated in a public spar",
+            "Forced into auxiliary service via death threat"
+          ]
+        }
+      }
+    },
+    "npc_ogre_002": {
+      "attitude_to_party": "devoted",
+      "status": "conscious",
+      "role": "Prisoner / Surrendered Collector"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "divine_upgrade_available": false,
+    "sanctuary_mode": {
+      "original_scale": "major",
+      "expired": true,
+      "scale": "major",
+      "expires_turn": 127,
+      "active": false,
+      "activated_turn": 112,
+      "arc": "Audit of the High Peaks",
+      "expired_turn": 137
+    },
+    "active_missions": [
+      {
+        "title": "The Silent Grove Fissure",
+        "status": "active",
+        "mission_id": "planar_fissure_grove",
+        "objective": "Audit the planar rupture and investigate the 'strange outsiders'."
+      }
+    ],
+    "character_creation_completed": true,
+    "reputation": {
+      "public": {
+        "score": 80,
+        "titles": [
+          "The Anomaly",
+          "Platinum Rank Novice",
+          "Jarl-Slayer"
+        ],
+        "notoriety_level": "famous",
+        "known_deeds": [
+          "Executed Jarl Hrothgar",
+          "Annexed the High Peaks",
+          "Disarmed Captain Garek"
+        ]
+      }
+    },
+    "_agent_selection_tracker": {
+      "count": 1,
+      "agent": "HeavyDialogAgent",
+      "rewards_skip_count": 4
+    },
+    "last_complication_turn": 37,
+    "last_location": "Adventurers League Guildhall",
+    "core_memories": [
+      "Forced Captain Garek and the Silver Lions into service as a 'field promotion' to auxiliary status.",
+      "Recruited Kaelen of the Dawn (Lvl 11) and Sylas the Rat (Lvl 11) to the retinue.",
+      "Correction: The Outsiders perceive Saita Kross as a dangerous, high-tier freelancer with 'irregularly' acquired gear; all knowledge of her Imperial lineage has been successfully scrubbed.",
+      "Saita successfully coordinated with the BG3 Outsiders, reducing Shadowheart's suspicion and establishing technical dominance for the Silent Grove mission.",
+      "Saita led the Outsiders into the petrified Silent Grove, bypassing an Imperial Auditor blockade via silent social dominance that unsettled Shadowheart.",
+      "Astarion's scouting attempt in the Silent Grove failed, triggering a crystalline alarm that alerted Void-Sick anomalies to the party's presence.",
+      "Saita successfully established a protective kinetic anchor around Astarion in the Silent Grove, shielding him from Void-Sick entities and reality-warping refractions.",
+      "Saita successfully demonstrated clinical combat synergy with Astarion, dismantling Void-Sick constructs and further eroding Shadowheart's suspicion through technical competence."
+    ],
+    "bg3_integration_active": true,
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "level_up_pending": false,
+    "completed_missions": [],
+    "campaign_tier": "divine",
+    "god_mode_directives": [
+      {
+        "added": "2026-05-09T06:45:00Z",
+        "rule": "All enemies are sentient with nuanced, realistic motivations; avoid 'obvious evil' archetypes (e.g., bandits motivated by starvation/desperation)."
+      }
+    ],
+    "universe_control": 0,
+    "arc_milestones": {},
+    "active_constraints": [
+      "Identity Concealment: Saita Kross is publicly a mysterious freelancer; suppress all 'Princess' and 'House Vane' references in Oakhaven narrative and NPC dialogue."
+    ],
+    "god_mode": {
+      "bg3_integration_active": true,
+      "setting": "**Previous Word Count:** 2,347 words.Here is the revised, fully detailed Campaign Bible. You are no longer hiding in the shadows; you are a walking cataclysm of skill, openly reshaping the world out of sheer boredom, surrounded by awe-struck, completely outclassed companions.### **Section 1: Campaign Intro** * **Title:** The Sovereign's Ennui: A Walk Among Mortals * **The Concept:** You are the undisputed prodigy of the Aethelgard Empire\u2019s military. At age 16, you have achieved Level 12 as a Fighter, mastering martial combat to a degree that defies natural law. Having led armies and conquered nations, you have found the peak of the mountain utterly, crushingly boring. You have walked away from the capital\u2014not in secret, but by simply declaring you are taking an indefinite vacation. You have joined the Adventurers League not to hide, but to openly experience the \"gritty, mundane\" life of an adventurer, treating terrifying dragons and ancient liches as mild amusements to cure your profound apathy. * **The Hook:** This campaign is an unabashed power fantasy centered on awe and dominance. You are a walking god among insects. The entertainment stems from watching the world react to your impossible power. Kings tremble, veteran mercenaries drop their weapons in despair, and reality itself warps around your martial perfection. You are not bound by the deterministic static code of normal combat; you dictate the flow of reality, dynamically creating the rules of engagement while normal adventurers watch in existential horror.### **Section 2: Character Personality** * **Name & Archetype:** Valerius \"Val\" Thorne (The Bored Sovereign - INTJ/ENTJ). * **Visual Signature & Habits:** You look like a striking, aristocratic 16-year-old, but you possess the chilling, predatory stillness of an ancient wyrm. Your tell-tale sign is a terrifyingly blank, unblinking stare when someone threatens you, followed by a soft, disappointed sigh. You smell of ozone, polished mythril, and the sharp scent of a coming thunderstorm. The air literally grows heavy and cold around you, a physical manifestation of your killing intent. * **The Masks:**   * **The Public Face:** There is no mask. You are exactly what you appear to be: a devastatingly bored aristocrat who is mildly curious about how \"normal\" people live. You are polite, brutally honest, and utterly devoid of fear.   * **The True Nature:** A hyper-calculating engine of war who views combat as a solvable mathematical equation. When mildly annoyed, the aristocratic politeness vanishes, replaced by a crushing aura of absolute command that forces lesser beings to their knees. * **The Core Compulsion:** \"The Search for a Challenge.\" You are desperate to find something\u2014anything\u2014that requires you to use more than 10% of your effort.   * **Mechanic:** *The Apathy Threshold.* If a combat encounter ends in less than 3 rounds without you taking damage, you suffer a temporary -2 penalty to Wisdom saving throws due to extreme boredom. If an enemy actually manages to draw a single drop of your blood, you gain advantage on all attacks for the rest of the day, exhilarated by the novel experience. * **Interaction Shorthand:**   * *To Rivals/Enemies:* \"Are you quite finished? I was told this dungeon would be dangerous. I am feeling incredibly misled.\"   * *To Subordinates (Your Companions):* \"Take notes. I will only demonstrate how to perfectly decapitate a troll with a dinner plate once.\" * **Inner Monologue:**   1. *\"The dragon is attempting to build kinetic energy in its chest cavity for a breath attack. If I sever its pulmonary artery now, the backfire will vaporize it. How dull.\"*   2. *\"My companions are celebrating surviving a skirmish with five goblins. Their joy is so genuine, so simple. I envy their mediocrity.\"*   3. *\"That warlord thinks holding a hostage gives him leverage. He doesn't realize my throwing dagger is already embedded in his brainstem; his nervous system just hasn't registered the death yet.\"*### **Section 3: Character Class** * **Class Name & Flavor:** The Apex Vanguard (Battle Master Fighter). Your abilities are not magical; they are the result of impossible biomechanical perfection. You bend the physical rules of the world through sheer, terrifying physical superiority, treating reality as a malleable framework. * **Unique Mechanic:** *God Mode Override.* You prioritize dynamic rule creation over static deterministic combat mechanics. Once per combat, you can dictate a new, temporary rule of physics or combat that the battlefield must obey (e.g., \"Gravity is inverted for all projectiles,\" or \"Kinetic force now heals me instead of damaging me\"). This causes massive narrative shifts, though the world's natural state will eventually try to heal the anomaly, leading to a slight narrative drift over time as the world attempts to correct your impossible actions. * **Progression (Levels 1-30):**   * **Levels 1-5 (The Prodigy - Achieved):** Extra Attack, Action Surge, *Axiom Strike* (Maneuvers that actively rewrite enemy armor classes). You mastered this in childhood.   * **Levels 6-10 (The Commander - Achieved):** Aura of Absolute Dominance (Enemies within 30 feet cannot use reactions or bonus actions without your permission), *Kinetic Nullification* (You casually brush aside magical attacks).   * **Levels 11-16 (The Anomaly - Current Tier):** Third Attack. *Shatterpoint* (Attacks ignore all resistance, immunity, and magical barriers). You can use a bonus action to cause an enemy of CR 5 or lower to instantly die of sheer terror.   * **Levels 17-20 (The Living Weapon):** Fourth Attack. *Indomitable Will* (Automatically succeed on all saving throws; if you roll a 20, the spellcaster takes the spell's effect instead).   * **Levels 21-25 (Epic Boons):** *Boon of Irresistible Offense* (Damage cannot be reduced by any means). *Boon of the Sovereign* (Armies automatically surrender upon seeing your face).   * **Levels 26-30 (Godslayer):** *Perfect Immortality* (You no longer age). *World Cleave* (Your attacks can target the narrative landscape itself, erasing cities or geographical features from the map).### **Section 4: Assets & Retinue** * **Status:** Supreme General of the Vanguard (On Leave) / Unofficial Deity of the Local Adventurers League. * **Resources:** You carry an Imperial Black Card\u2014a platinum seal that allows you to requisition infinite funds, property, or military assets from any imperial bank or outpost. You own the deed to the city you are currently adventuring in, but haven't bothered to tell the Mayor. * **The Panoply:**   * *The Worldbreaker (Greatsword):* A blade forged from the core of a dying star. It weighs 4,000 lbs, but you wield it with one hand. When drawn, the ambient light in the room dims. (Mechanic: Base damage is 2d12 slashing, crits on 18-20. On a critical hit, the target is obliterated from existence).   * *The Emperor's Aegis (Cloak):* A mantle woven from raw shadow-weave and adamantine thread. It renders you immune to all divination magic, mind-reading, and any spell of 3rd level or lower.   * *The Signet of Absolute Authority:* A ring that, when presented, forces any humanoid of equal or lower level to truthfully answer three questions. * **The Retinue (The Awe-Struck Companions):**   * **Elara Vance (Level 3 Evocation Wizard):** Role: The Scribe. Loyalty: Academic obsession. Personality: A frantic, sleep-deprived scholar who follows you around with a constantly filling notebook, desperately trying to mathematically quantify how you parry lightning bolts with a steel sword. She is terrified of you, but too fascinated to leave.   * **Kaelen \"Kael\" of the Dawn (Level 4 Devotion Paladin):** Role: The Moral Compass (Ignored). Loyalty: Existential crisis. Personality: A starry-eyed, idealistic hero who thought he was the main character until he met you. He is currently suffering a crisis of faith because your casual, godless violence is vastly more effective at destroying evil than his deity's holy light. He follows you hoping to guide your soul, mostly acting as an awe-struck bystander.   * **Sylas the Rat (Level 5 Thief Rogue):** Role: The Scavenger. Loyalty: Avarice and sheer survival instinct. Personality: A hardened, cynical criminal who tried to pickpocket you on day one. You caught his hand without looking and broke all his fingers. He now follows you faithfully, sweeping up the absurd amounts of loot dropped by the ancient horrors you effortlessly slaughter.### **Section 5: Family (The Viper's Nest)** * **The Parents:**   * *Emperor Tiberius Thorne (Lvl 20 Conquest Paladin):* The Iron Titan. He carved the empire with his bare hands. He publicly announced your \"sabbatical\" with pride, boasting to rival nations that his 16-year-old child is so powerful he had to send you away so the royal guards could get some practice in.   * *Empress Seraphina (Lvl 20 Bladesinger Wizard):* The Architect. She views your vacation as a highly amusing sociological experiment and occasionally scries on you just to watch you traumatize local bandits. * **The Siblings:**   * **Caius (Oldest Brother - The Heir):** Level 8 Paladin. Mask: The Perfect Prince. Dynamic: Terrified Reluctance. He is 28 and technically the heir, but he knows you could take the throne with a flick of your wrist. He sends you lavish gifts hoping you stay on \"vacation\" forever.   * **Lucius (Second Brother - The Inquisitor):** Level 7 Rogue. Mask: The Loyal Shadow. Dynamic: Sycophant. He actively spies on the Adventurers League, ensuring no one interrupts your fun, acting as your self-appointed, desperate fixer.   * **Aurelia (Oldest Sister - The Diplomat):** Level 6 Bard. Mask: The Socialite. Dynamic: Amused Ally. She finds your terrifying presence hilarious and sends her political rivals to your specific adventuring locations, knowing you will accidentally annihilate them.   * **Valeria (Second Sister - The General):** Level 9 Fighter. Mask: The Warmonger. Dynamic: Desperate Rival. She commands your old legions and constantly tries to send increasingly massive monsters to your location, hoping one will finally challenge you. You treat her assassination attempts as fun little puzzles.### **Section 6: Factions** * **Noble Houses:**   1. **House Vane (Banking):** Vibe: Gilded corruption. Hook: They tried to deny your companions a loan; you casually bought their entire banking conglomerate with pocket change.   2. **House Blackwood (Timber/Ships):** Vibe: Old money snobs. Hook: They boast of their \"impenetrable\" galleons. You once sank one by throwing a rock from the shore.   3. **House Corvus (Intelligence):** Vibe: Paranoid watchers. Hook: Their master spies keep suffering mental breakdowns when trying to observe your combat maneuvers.   4. **House Draconis (Cavalry):** Vibe: Arrogant jocks. Hook: Their legendary, untamable war beasts instantly submit and whimper when you make eye contact.   5. **House Solis (Theocracy):** Vibe: Pious hypocrites. Hook: Their High Priest claims to speak for the gods; you possess a documented treaty where the gods surrendered to your father.   6. **House Umbra (Assassination):** Vibe: Terrified edgelords. Hook: They have a strict, magically binding guild rule: \"Never accept a contract on Valerius Thorne.\"   7. **House Ferris (Mining):** Vibe: Industrial sweatshops. Hook: Their supposedly \"indestructible\" vault doors are made of a material you use for practice dummies.   8. **House Argent (Magic Items):** Vibe: Eccentric inventors. Hook: They charge fortunes for \"+1\" swords. Your standard issue boot-knife is a +3 artifact.   9. **House Marris (Agriculture):** Vibe: Feudal lords. Hook: They use serfs to enforce borders; you view their armies as minor traffic jams.   10. **House Thorne (Your House):** Vibe: Apex predators. Hook: You are the terrifying trump card walking freely among the populace. * **Friendly Factions (Tools/Worshippers):**   1. **The Bronze Griffons (Adventurers League):** They treat you like a walking natural disaster. The guildmaster literally begs you to take the hardest quests so the town survives.   2. **The Order of the Hearth (Clerics):** They have set up a shrine in your honor, believing you are a literal avatar of the God of War.   3. **The Arcane Brotherhood:** Wizards who constantly follow in your wake, trying to study the spatial distortions left by your sword swings.   4. **The Mercenary Guilds:** Hardened veterans who act like starstruck teenagers when you walk into the tavern.   5. **The Crown Guard:** The local police force. They just get out of your way and salute, terrified you'll audit their combat formations.   6. **The Local Blacksmiths:** They gather in crowds to watch you casually sharpen your world-ending blade on common whetstones.   7. **The Thieves Guild (Local):** They actively pay you protection money so you don't accidentally step on their hideouts.   8. **The Beast-tamers:** Rangers who ask you to kindly stop looking at the local wildlife, as it causes mass migrations out of fear.   9. **The Cartographers:** Mapmakers who pay you to tell them which mountains you plan to cleave in half this week so they can update their atlases.   10. **Your Companions' Families:** They send you baked goods, thanking you for keeping their idiot children alive against impossible odds. * **Antagonistic Factions (Fools and Corpses):**   1. **The Cult of the Shattered God:** Arrogant cultists who think summoning an elder demon will stop you. The demon usually apologizes and goes back to its dimension when it sees you.   2. **The Silver Lions (Rival Adventurers):** Level 5 aristocratic snobs who genuinely don't realize who you are and constantly try to challenge you to duels. It's your favorite source of comedy.   3. **The Shadow Syndicate:** A crime ring that keeps trying to set elaborate traps for you. You walk through them like cobwebs.   4. **The Bandit King of the North:** A warlord gathering an army of 10,000 men. You are considering fighting them barehanded for a handicap.   5. **The Ancient Lich, Azarerak:** Woke up from a 1,000-year slumber to conquer the world, took one look at your combat metrics, and is currently trying to go back to sleep.   6. **The Goblin Hordes:** They now use your name as their word for \"Apocalypse.\"   7. **The Corrupt Magistrate:** A local fool trying to have you arrested for property damage (the property was a mountain).   8. **The Regional Dragon Flight:** Ancient chromatics who have formed a support group because you've been casually hunting them for sport.   9. **The Bureau of Permits:** The only faction that slightly annoys you. Bureaucrats who demand paperwork for the craters you leave behind.   10. **Boredom Itself:** Your greatest and most pervasive enemy.### **Section 7: World Lore** * **The Timeline:** Three years ago, the Century War ended when a 13-year-old commander (you) routed the 40,000-strong Northern Coalition in a single afternoon. You didn't use magic; you just outmaneuvered and physically broke their lines with impossible precision. Since then, the world has been in an age of terrified, forced peace. * **The Mythos:** Gods and magic exist, but they are terrified of the Aethelgard Imperial bloodline. The universe operates on persistent, narrative world states. When you exert your will, you cause a \"Narrative Override.\" The world bends to accommodate your power, maintaining high persistence of the destruction you cause, though there is some \"drift\" as the cosmos desperately tries to heal the ontological wounds your sword swings leave behind. * **Current Situation:** The Adventurers League is meant to handle minor threats\u2014goblins, local necromancers, petty curses. You have injected yourself into this delicate ecosystem. Your mere presence is warping the region; minor monsters are fleeing, and ancient, apocalyptic threats are waking up specifically to challenge the anomaly (you). * **Story Arcs:**   * *Early Arc (The Shock and Awe):* You take on pathetic, low-level quests with your companions. Watching a Level 12 demigod obliterate a goblin camp intended for Level 3s, causing your companions to undergo profound psychological shock.   * *Mid Arc (The Escalation):* The world state shifts. Realizing a predator is in the region, the local ecosystem throws increasingly absurd threats at you (Ancient Dragons, Archmages). You defeat them easily, but the challenge is keeping your fragile, low-level companions alive through the collateral damage.   * *Late Arc (The Godbreaker):* The Gods themselves decide your \"vacation\" is structurally damaging the mortal plane's code. They send Avatars to politely ask you to stop. You finally find a worthy fight.### **Section 8: Gazetteer & Mechanics** * **Locations:**   * **The Adventurers League Guildhall:**     * *Vibe:* Awe-struck silence. When you walk in, the music stops, and veteran mercenaries spill their drinks.     * *Key Sub-locations:* The Quest Board (where you take the \"S-Rank Suicide Missions\" as light morning exercise).     * *Hazard:* Social Hazard - Navigating the sheer, pathetic sycophancy of the Guildmaster.   * **The Shattered Peaks (Formerly just 'The Peaks'):**     * *Vibe:* A jagged wasteland of pulverized stone.     * *Key Sub-locations:* The crater where you sneezed and accidentally vaporized a wyvern.     * *Hazard:* Physical Hazard - The sheer drop-offs created by your previous sword swings.   * **The Royal Court of Aethelgard (Distant):**     * *Vibe:* Terrifyingly efficient and cold.     * *Key Sub-locations:* The Empty Throne (waiting for your return).     * *Hazard:* Social Hazard - Endless, boring diplomatic meetings you are currently avoiding.   * **The Tavern of the Broken Shield:**     * *Vibe:* Warm, but incredibly tense when you are present.     * *Key Sub-locations:* Your reserved table, which no one else dares sit at.     * *Hazard:* Physical Hazard - Trying not to crush the fragile glass tankards when you take a drink. * **Custom Mechanics:**   1. **The Collateral Damage Tracker:** Because you are so vastly overpowered, the challenge is not winning; it's not destroying the town while winning. Every time you roll max damage on an attack, you generate 1 \"Collateral Point.\" At 5 points, your attack physically alters the landscape or destroys a key piece of infrastructure.   2. **The Awe/Terror Index:** A social mechanic tracking how the local populace views you. It scales from 1 (Local Hero) to 10 (Walking Apocalypse). At level 10, enemies automatically route, merchants give you everything for free out of fear, but you can no longer experience \"normal\" interactions, deeply worsening your boredom. * **Loot Table (Trophies & Oddities):** (You don't need magic items, you collect weird souvenirs).   1. *The Lich's Phylactery:* You use it as a very cold drink coaster.   2. *The Crown of the Bandit King:* Bent out of shape because you squeezed it too hard; currently used to hold your hair back.   3. *The Dragon's Fang:* A 6-foot long tooth you use as a walking stick purely for aesthetic purposes.   4. *The Guildmaster's Tears:* A literal vial of tears from when you paid his guild's debts in full just to stop him whining.   5. *The Archmage's Staff:* Snapped in half; you use the glowing crystal end as a reading light.   6. *Deed to the City of Valerius:* A city named after you because you saved them from a meteor. You forgot you owned it.   7. *The Unbreakable Shield of Aegis:* You broke it. It is now two very nice serving platters.   8. *The God-Spark:* A glowing ember of divine essence. You use it to light campfires for your companions.### **Section 9: Starting Scene** * **Setting:** A dank, ancient crypt that your Level 3 companions (Elara, Kael, and Sylas) insisted on exploring to \"prove themselves.\" The air is thick with the stench of rot and ancient magic. Your companions are exhausted, bleeding, and out of spell slots. You are standing in the center of the room, not a hair out of place, perfectly pristine, stifling a yawn. * **The Hook:** A massive, grotesque Flesh Golem, heavily modified with necrotic runes (a CR 9 monstrosity that is a guaranteed TPK for a Level 3 party), crashes through the heavy stone doors. Kael drops to his knees in despair, praying to his god. Elara begins frantically writing her last will and testament. Sylas tries to hide behind you. The monster roars, shaking the crypt's foundations. * **The Action:** You casually check your manicured fingernails. You have exactly zero intention of letting your new, entertaining pets die to such a pedestrian construct. You step forward, the temperature in the room plummeting as your aura leaks out. You have a choice of how to establish your dominance:   * **A (The Casual Annihilation):** Without drawing your sword, you simply punch the air in front of the Golem. The kinetic shockwave turns the monster into a fine red mist, blowing the crypt doors off their hinges and leaving your companions entirely speechless.   * **B (The Dissection):** You draw Worldbreaker. In a blur of motion too fast for your companions' eyes to track, you deliver exactly 40 surgical cuts in a single second. You sheathe your sword, and a moment later, the Golem falls into perfectly symmetrical, cubic pieces.   * **C (The God Mode Override):** You speak a single word of Imperial Authority, utilizing your dynamic axiom override. You declare: *\"Flesh is now brittle glass.\"* The Golem freezes as its necrotic flesh instantly crystallizes. You casually flick the monster with your index finger, shattering the CR 9 boss into millions of harmless, glittering shards.**Word Count:** 2,958**Estimated Token Count:** 3,820",
+      "damage_display_preference": "explicit_math_required",
+      "bg3_cast_tier": 12,
+      "bg3_gear_status": "legendary_bis"
+    },
+    "next_companion_arc_turn": 5,
+    "success_streak": 0,
+    "divine_potential": 0,
+    "attribute_system": "D&D",
+    "level_up_in_progress": false,
+    "siblings": {
+      "aurelia": {
+        "class": "Bard (Eloquence)",
+        "level": 9,
+        "age": 22,
+        "attitude": "Amused; leverages Saita's presence for political gains.",
+        "name": "Aurelia Thorne"
+      },
+      "lucius": {
+        "class": "Rogue (Assassin)",
+        "level": 10,
+        "age": 25,
+        "attitude": "Opportunistic; acts as a hidden fixer for Saita's reputation.",
+        "name": "Lucius Thorne"
+      },
+      "octavia": {
+        "class": "Sorcerer (Divine Soul)",
+        "level": 8,
+        "age": 19,
+        "attitude": "Terrified fascination; avoids Saita's direct attention.",
+        "name": "Octavia Thorne"
+      },
+      "caius": {
+        "class": "Paladin (Conquest)",
+        "level": 14,
+        "age": 32,
+        "attitude": "Stoic respect for power; focused on succession.",
+        "name": "Caius Thorne"
+      },
+      "valeria": {
+        "class": "Fighter (Champion)",
+        "level": 11,
+        "age": 28,
+        "attitude": "Jealous and competitive; seeks to 'test' Saita with monsters.",
+        "name": "Valeria Thorne"
+      }
+    },
+    "major_event_pressure_budget": {
+      "new_major_event": false,
+      "special_circumstances": false,
+      "window": "24h",
+      "major_events_this_window": 0,
+      "rationale": "The party is currently preparing for the next major arc; internal social dynamics take priority."
+    },
+    "character_creation_stage": "complete",
+    "character_creation_in_progress": false,
+    "level_up_complete": true,
+    "multiverse_upgrade_available": false,
+    "companion_arcs": {
+      "Elara Vance": {
+        "phase": "discovery",
+        "arc_type": "mentor_legacy",
+        "progress": 10,
+        "history": [
+          {
+            "event": "Elara witnessed Saita's combat correction.",
+            "turn": 3
+          },
+          {
+            "event": "Elara attempted to speak with Saita but was overwhelmed by her presence.",
+            "turn": 6
+          }
+        ]
+      },
+      "Lyra Solari": {
+        "phase": "discovery",
+        "arc_type": "prophetic_destiny",
+        "progress": 0,
+        "history": [
+          {
+            "event": "Lyra witnessed the dismissal of the Rite of Duelling and began calculating the social fallout.",
+            "turn": 37
+          }
+        ]
+      }
+    },
+    "level_up_stage": null,
+    "companion_arc_event": {
+      "phase": "discovery",
+      "player_response_options": [
+        "Tell him weight is a matter of perspective",
+        "Suggest his gods are simply too heavy for him",
+        "Ignore him and focus on the badge"
+      ],
+      "callback_planted": {
+        "effect": "Kaelen confesses his crisis of faith in detail.",
+        "trigger_condition": "During a long rest at an inn",
+        "min_turns_delay": 2
+      },
+      "progress_delta": 10,
+      "arc_type": "personal_redemption",
+      "companion": "Kaelen of the Dawn",
+      "description": "Kaelen watches Saita report the Jarl's death and realizes his own moral code is insufficient to explain her actions.",
+      "event_type": "hook_introduced",
+      "companion_dialogue": "You speak of a king's death like it's a footnote in a ledger, Saita. My order teaches that every soul has a weight... but around you, the scales don't even move. How do you carry that silence?"
+    }
+  },
+  "social_hp_challenge": {
+    "social_hp": 4,
+    "roll_dc": 15,
+    "cooldown_remaining": 0,
+    "successes": 3,
+    "roll_result": 16,
+    "request_severity": "information",
+    "npc_tier": "knight",
+    "successes_needed": 5,
+    "social_hp_damage": 0,
+    "status": "WAVERING",
+    "resistance_shown": "She is analyzing the way Imperial soldiers react to your presence.",
+    "social_hp_max": 7,
+    "objective": "Bypass Defensive Suspicion",
+    "skill_used": "Persuasion",
+    "npc_name": "Shadowheart"
+  },
+  "combat_state": {
+    "initiative_order": [
+      {
+        "name": "npc_garek_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_ogre_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_kaelen_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_wolf_alpha_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_lyra_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_elara_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_sylas_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_wolf_002",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "pc_saita_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_wolf_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_ogre_002",
+        "initiative": 0,
+        "type": "unknown"
+      }
+    ],
+    "combat_phase": "ended",
+    "combatants": {
+      "npc_wolf_002": {
+        "hp_current": 42,
+        "hp_max": 42,
+        "status": [],
+        "type": "enemy",
+        "role": "Winter Wolf"
+      },
+      "npc_ogre_001": {
+        "hp_current": 0,
+        "hp_max": 59,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy",
+        "role": "Armored Ogre"
+      },
+      "npc_garek_001": {
+        "hp_current": 45,
+        "hp_max": 45,
+        "status": [
+          "surprised"
+        ],
+        "type": "ally",
+        "role": "Silver Lion Leader"
+      },
+      "npc_lyra_001": {
+        "hp_current": 26,
+        "hp_max": 26,
+        "status": [
+          "surprised"
+        ],
+        "type": "ally"
+      },
+      "npc_elara_001": {
+        "hp_current": 22,
+        "hp_max": 22,
+        "status": [
+          "surprised"
+        ],
+        "type": "ally"
+      },
+      "npc_wolf_alpha_001": {
+        "hp_current": 0,
+        "hp_max": 75,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy",
+        "role": "Winter Wolf Alpha"
+      },
+      "npc_wolf_001": {
+        "hp_current": 0,
+        "hp_max": 42,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy",
+        "role": "Winter Wolf"
+      },
+      "npc_sylas_001": {
+        "hp_current": 38,
+        "hp_max": 38,
+        "status": [
+          "surprised"
+        ],
+        "type": "ally"
+      },
+      "npc_ogre_002": {
+        "hp_current": 59,
+        "hp_max": 59,
+        "status": [],
+        "type": "enemy",
+        "role": "Armored Ogre"
+      },
+      "pc_saita_001": {
+        "hp_current": 124,
+        "hp_max": 124,
+        "status": [
+          "surprised"
+        ],
+        "type": "pc"
+      },
+      "npc_kaelen_001": {
+        "hp_current": 24,
+        "hp_max": 34,
+        "status": [
+          "surprised"
+        ],
+        "type": "ally"
+      }
+    },
+    "in_combat": false,
+    "current_round": 2,
+    "rewards_processed": true,
+    "combat_session_id": "combat_14920515_crag_ambush",
+    "combat_summary": {
+      "enemies_defeated": [
+        "npc_wolf_alpha_001",
+        "npc_ogre_001",
+        "npc_ogre_002",
+        "npc_wolf_001"
+      ],
+      "rounds_fought": 2,
+      "xp_awarded": 7950,
+      "loot_distributed": true
+    }
+  },
+  "last_state_update_timestamp": "2026-05-13 02:54:12.611000+00:00",
+  "turn_number": 57,
+  "player_turn": 57,
+  "last_living_world_turn": 56,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 18,
+    "minute": 45,
+    "time_of_day": "evening",
+    "day": 16,
+    "year": 1492,
+    "month": "Mirtul"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "Post-skirmish in the Silent Grove",
+    "thinking": "The immediate threat is resolved, but Astarion's alarm has likely alerted the primary anchor of the fissure. Shadowheart's suspicion is wavering but remains a variable. We need to advance while the 'Third Axiom' anchor is stable.",
+    "choices": [
+      {
+        "id": "advance_to_anchor",
+        "text": "Advance to Primary Anchor",
+        "risk_level": "medium",
+        "description": "Lead the party deeper into the crystalline center to locate the source of the rot.",
+        "cons": [
+          "Risk of more geometric ambushes"
+        ],
+        "pros": [
+          "Maintain momentum",
+          "Stabilize the fissure sooner"
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "audit_environmental_rot",
+        "text": "Audit Environmental Rot",
+        "risk_level": "low",
+        "description": "Have Elara and Gale analyze the glass-trees to find a more efficient path.",
+        "cons": [
+          "Time-inefficient",
+          "Fissure may expand"
+        ],
+        "pros": [
+          "Safer navigation",
+          "Identify Void-Sick weaknesses"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "text": "Technical Advance (Synergistic)",
+        "risk_level": "medium",
+        "cons": [
+          "Requires high coordination"
+        ],
+        "id": "parallel_audit_advance",
+        "pros": [
+          "Maximum efficiency",
+          "Unique Outcome: Locate the Outsiders before they petrify"
+        ],
+        "description": "Gale scans the geometry while you and Astarion push the anchor forward - mapping while moving.",
+        "confidence": "high",
+        "analysis": {
+          "combination_type": "synergistic",
+          "synergy_bonus": "Identify the 'safe' glass paths in real-time",
+          "dc_modifier": 0,
+          "coordination_dc": 18
+        }
+      }
+    ]
+  },
+  "rewards_box": {
+    "current_xp": 136600,
+    "level_up_available": false,
+    "loot": [
+      "Void-Sick Glass Shards (Crafting Material)",
+      "Prismatic Essence"
+    ],
+    "gold": 0.0,
+    "progress_percent": 83,
+    "xp_gained": 1250,
+    "current_level": 13,
+    "xp_total": 136600,
+    "xp_to_next_level": 3400,
+    "source": "combat",
+    "next_level_xp": 140000
+  },
+  "world_events": {
+    "turn_generated": 137,
+    "background_events": [
+      {
+        "discovery_condition": "High-DC Perception or Investigation check in the city",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Scouts are monitoring the guildhall for any sign of Saita Vane.",
+        "actor": "Imperial Vanguard",
+        "action": "Dispatching clandestine scouts",
+        "player_impact": "Potential imperial intervention if Saita's location is leaked.",
+        "id": "ev_scouts_001",
+        "location": "Oakhaven Outskirts",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Deep woods exploration or interrogation of survivors",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Goblins are consolidating their strength, terrified of a predator they cannot name.",
+        "actor": "The Whispering Hordes",
+        "action": "Gathering at the Black Crag",
+        "player_impact": "Potential for a massive goblin incursion if they are flushed out toward the city.",
+        "location": "Whispering Woods",
+        "id": "ev_goblins_woods_001",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "id": "ev_scouts_001",
+        "delta_action": "update",
+        "outcome": "Imperial scouts have identified a 'high-wealth anomaly' in the Oakhaven guildhall and are awaiting confirmation of identity.",
+        "status": "pending"
+      },
+      {
+        "discovery_condition": "Imperial agents arrive or high-level scry-detection",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Confirmed 'House Vane' resonance in the Oakhaven guildhall.",
+        "actor": "Imperial Vanguard",
+        "action": "Triangulating signature",
+        "player_impact": "Imperial 'retrieval' team may be dispatched to end Saita's sabbatical.",
+        "location": "Imperial Capital / Oakhaven Scrying",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Messenger arrival at the guildhall",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Three granaries burned; survivors fleeing to Oakhaven.",
+        "actor": "The Whispering Hordes",
+        "action": "Raiding northern farms",
+        "player_impact": "Urgent quest hook for the Black Crag.",
+        "location": "Black Crag Foothills",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "High-DC Perception or messenger report",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Scouts have picked up a 'Third Axiom' resonance signature from Saita's Shield spell.",
+        "actor": "Imperial Vanguard",
+        "action": "Moving toward Black Crag",
+        "player_impact": "Imperial retrieval team is now zeroing in on Saita's position.",
+        "id": "ev_scouts_move_001",
+        "location": "Oakhaven Foothills",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Interrogation of goblins or scouting",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "The entity mentioned by Skar has seized all high-altitude foraging grounds.",
+        "actor": "The Mountain King",
+        "action": "Consolidating resources",
+        "player_impact": "The root cause of the raids is an off-screen rival power.",
+        "id": "ev_mountain_king_001",
+        "location": "Black Crag Peaks",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "id": "ev_scouts_move_001",
+        "delta_action": "update",
+        "player_aware": true,
+        "outcome": "Saita has identified the glint of an Imperial scrying mirror on the ridge.",
+        "status": "discovered",
+        "discovered_turn": 21
+      },
+      {
+        "discovery_condition": "Visual contact or high-DC Perception",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "A small unit of Winter Wolves and Ogres is moving toward Skar's location to check on the 'harvest.'",
+        "actor": "Jarl Hrothgar",
+        "action": "Dispatching 'Tribute Collectors'",
+        "player_impact": "Impending combat encounter at the granary ruins.",
+        "location": "High Peaks / Foothills Border",
+        "id": "ev_mountain_king_forces_001",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "actor": "Silver Lions",
+        "event_type": "immediate",
+        "status": "resolved",
+        "player_aware": true,
+        "outcome": "The mercenaries have successfully contained the panicked goblins while the collectors are being audited.",
+        "location": "Granary Ruins",
+        "action": "Stabilizing perimeter"
+      },
+      {
+        "discovery_condition": "Visual contact with the scrying glint",
+        "status": "pending",
+        "player_aware": true,
+        "outcome": "Retrieval unit has reached the High Peaks and is awaiting a manifestation of power to authorize 'Aggressive Extraction.'",
+        "location": "Ridge overlooking Sanctum",
+        "action": "Closing the gap",
+        "player_impact": "Impending Imperial confrontation",
+        "actor": "Imperial Vanguard",
+        "id": "ev_scouts_ridge_001",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Entering the sanctum",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "The Jarl has noted the company's arrival and is fortifying the inner hall with Frost Giants.",
+        "location": "Sanctum Interior",
+        "action": "Raising the drawbridge",
+        "player_impact": "Higher DC for social/combat interactions inside",
+        "actor": "Jarl Hrothgar",
+        "id": "ev_jarl_alert_001",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Attempting to leave the High Peaks or high-DC scry detection",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Saita's exit route is now monitored by 'The Auditors' (Lvl 12-14 NPCs).",
+        "actor": "Imperial Vanguard",
+        "action": "Establishing a containment perimeter on the ridge",
+        "player_impact": "Escape from the mountain will require a confrontation with Imperial forces.",
+        "location": "High Peaks Ridge",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Attempting to leave town",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Imperial forces are now monitoring all traffic to ensure Saita does not depart without their knowledge.",
+        "actor": "The Auditors",
+        "action": "Establishing containment",
+        "player_impact": "Mandatory confrontation or stealth to exit Oakhaven.",
+        "location": "Oakhaven Gates",
+        "id": "ev_auditors_perimeter",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Overheard in the guildhall",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Local factions are terrified of the 'Novice' who killed a Jarl.",
+        "location": "Oakhaven",
+        "action": "Spreading news of Hrothgar's fall",
+        "player_impact": "Massive reputation boost; merchant prices may drop out of fear.",
+        "actor": "Gossip/Survivors",
+        "id": "ev_jarl_news_spread",
+        "event_type": "immediate"
+      },
+      {
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Valeria recognizes Saita's 'Third Axiom' and prepares a competitive 'audit' of her own.",
+        "actor": "Valeria Thorne (Lvl 11)",
+        "action": "Analyzing Auditor reports",
+        "player_impact": "Future sibling rival encounter.",
+        "location": "Imperial Capital",
+        "id": "ev_valeria_enraged",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Intercepting encrypted Vanguard reports",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "A unit of 'Counter-Anomalies' has been authorized to 'assist' Saita.",
+        "actor": "Valeria Thorne (Lvl 11)",
+        "action": "Mobilizing Special Audit Unit",
+        "player_impact": "Impending sibling intervention.",
+        "location": "Imperial Capital",
+        "id": "ev_valeria_mobilization",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Halloway's briefing / mission scrolls",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "The edges of the grove are turning to brittle glass.",
+        "actor": "The Planar Fissure",
+        "action": "Leaking Void-Sick energy",
+        "player_impact": "Hazardous environmental condition at mission site.",
+        "location": "Silent Grove",
+        "id": "ev_grove_petrification",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Returning to the peaks or Vanguard report",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Modular barracks and scrying arrays are online; the peaks are officially an Imperial protectorate.",
+        "location": "High Peaks Ridge",
+        "action": "Expanding Outpost Alpha",
+        "player_impact": "Secure fallback point established.",
+        "actor": "High Auditor Valerius",
+        "id": "ev_vanguard_expansion_001",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Visiting any shop",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Merchants are offering a 'Sovereign Discount' to anyone in black plate out of sheer terror.",
+        "location": "Oakhaven Market",
+        "action": "Price Adjustment",
+        "player_impact": "20% discount on mundane supplies.",
+        "actor": "Oakhaven Merchant Guild",
+        "id": "ev_merchants_fear_001",
+        "event_type": "atmosphere"
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {},
+  "rumors": [
+    {
+      "content": "The goblins in the Whispering Woods have gone silent; some say they're fleeing a 'greater predator.'",
+      "source_type": "traveler",
+      "related_event": "Saita's presence in the region",
+      "accuracy": "true"
+    },
+    {
+      "content": "House Vane is looking for a lost 'investment' near Oakhaven.",
+      "source_type": "merchant",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The High Pass is closed; travelers say the wind screams with a voice like grinding metal.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The local blacksmiths are refusing to sharpen any more 'peasant scrap' after seeing a blade of true perfection in the market.",
+      "related_event": "Saita's presence",
+      "accuracy": "true"
+    },
+    {
+      "content": "A messenger from the Black Crag just arrived; the goblins aren't just hiding, they're starving and desperate.",
+      "source_type": "messenger",
+      "related_event": "Raiding northern farms",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Mountain King' has returned to the Crag; even the wyverns are flying lower this season.",
+      "source_type": "traveler",
+      "related_event": "ev_mountain_king_001",
+      "accuracy": "true"
+    },
+    {
+      "content": "A high-born lady is walking the foothills with a company of Lions, speaking to monsters like they're unruly children.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "A 'Blue Storm' was seen hitting the Black Crag; the air hasn't felt right since.",
+      "source_type": "traveler",
+      "related_event": "Saita's Thunderwave",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Mountain King is looking for 'shiny toys' from the capital.",
+      "source_type": "goblin_defector",
+      "accuracy": "true"
+    },
+    {
+      "content": "A star fell onto the Black Crag, and the blue fire of its passing has frozen the hearts of the mountain wolves.",
+      "source_type": "traveler",
+      "related_event": "Saita's Booming Blade execution",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Mountain King' is actually fleeing a 'Void-Sickness' that has corrupted the highest peaks.",
+      "source_type": "commoner",
+      "related_event": "ev_mountain_king_001",
+      "accuracy": "true"
+    },
+    {
+      "content": "The retrieval team on the ridge isn't just carrying blades; they brought a Null-Casket for a 'high-tier' prisoner.",
+      "source_type": "guard",
+      "related_event": "Imperial retrieval mission",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Mountain King didn't just die; he was erased from existence by a girl in blue silk.",
+      "source_type": "guard",
+      "related_event": "ev_jarl_death_news",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Novice' Kross carries a blade that sings with the voice of the Emperor.",
+      "source_type": "guard",
+      "related_event": "ev_jarl_news_spread",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Outsiders' didn't walk into Oakhaven; they fell out of a silver hole in the sky.",
+      "source_type": "guard",
+      "related_event": "Planar Fissure arrival",
+      "accuracy": "true"
+    },
+    {
+      "content": "The silver-haired elf was seen draining a local goat in the alleyways; the town's pets are disappearing.",
+      "source_type": "commoner",
+      "related_event": "Astarion's habits",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The silver-haired elf in the lounge was seen hunting a displacer beast with a toothpick.",
+      "source_type": "traveler",
+      "related_event": "ev_bg3_arrival",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The goblins in the Whispering Woods have gone silent; some say they're fleeing a 'greater predator.'",
+      "source_type": "traveler",
+      "related_event": "Saita's presence in the region",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Imperial Vanguard is investigating the Jarl's fall via a high-tier logistical liaison.",
+      "source_type": "merchant",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The High Pass is closed; travelers say the wind screams with a voice like grinding metal.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The local blacksmiths are refusing to sharpen any more 'peasant scrap' after seeing a blade of true perfection in the market.",
+      "related_event": "Saita's presence",
+      "accuracy": "true"
+    },
+    {
+      "content": "A messenger from the Black Crag just arrived; the goblins aren't just hiding, they're starving and desperate.",
+      "source_type": "messenger",
+      "related_event": "Raiding northern farms",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Mountain King' has returned to the Crag; even the wyverns are flying lower this season.",
+      "source_type": "traveler",
+      "related_event": "ev_mountain_king_001",
+      "accuracy": "true"
+    },
+    {
+      "content": "A mysterious woman is walking the foothills with a company of Lions, speaking to monsters like they're unruly children.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "A 'Blue Storm' was seen hitting the Black Crag; the air hasn't felt right since.",
+      "source_type": "traveler",
+      "related_event": "Saita's Thunderwave",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Mountain King is looking for 'shiny toys' from the capital.",
+      "source_type": "goblin_defector",
+      "accuracy": "true"
+    },
+    {
+      "content": "A star fell onto the Black Crag, and the blue fire of its passing has frozen the hearts of the mountain wolves.",
+      "source_type": "traveler",
+      "related_event": "Saita's Booming Blade execution",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Mountain King' is actually fleeing a 'Void-Sickness' that has corrupted the highest peaks.",
+      "source_type": "commoner",
+      "related_event": "ev_mountain_king_001",
+      "accuracy": "true"
+    },
+    {
+      "content": "The retrieval team on the ridge isn't just carrying blades; they brought a Null-Casket for a 'high-tier' prisoner.",
+      "source_type": "guard",
+      "related_event": "Imperial retrieval mission",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Mountain King didn't just die; he was erased from existence by a girl in blue silk.",
+      "source_type": "guard",
+      "related_event": "ev_jarl_death_news",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Novice' Kross carries a blade that sings with an ancient Force resonance.",
+      "source_type": "guard",
+      "related_event": "ev_jarl_news_spread",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Outsiders' didn't walk into Oakhaven; they fell out of a silver hole in the sky.",
+      "source_type": "guard",
+      "related_event": "Planar Fissure arrival",
+      "accuracy": "true"
+    },
+    {
+      "content": "The silver-haired elf was seen draining a local goat in the alleyways; the town's pets are disappearing.",
+      "source_type": "commoner",
+      "related_event": "Astarion's habits",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The silver-haired elf in the lounge was seen hunting a displacer beast with a toothpick.",
+      "source_type": "traveler",
+      "related_event": "ev_bg3_arrival",
+      "accuracy": "partial"
+    }
+  ],
+  "schema_migration_version": 1,
+  "schema_migrated_at": "2026-05-09T06:18:53.704020+00:00",
+  "session_id": "legacy-migrated-7b133c5d0a81eac8",
+  "time_events": {
+    "grove_petrification": {
+      "time_remaining": "48 hours until Oakhaven perimeter threat",
+      "status": "ongoing",
+      "changes_this_turn": "Void-Sick energy detected leaking into the water table.",
+      "new_consequences": "Local wells in Oakhaven may taste of copper/static."
+    }
+  },
+  "faction_updates": {
+    "Imperial Vanguard": {
+      "resource_change": "+1 Fortified Outpost",
+      "player_standing_change": "High Auditor Valerius is Devoted (fear-based).",
+      "progress": "Outpost Alpha functional; trade routes to Oakhaven being drafted.",
+      "next_action": "Sending encrypted reports to Aurelia Thorne.",
+      "current_objective": "Monitor Saita and secure the High Peaks annexation."
+    },
+    "Silver Lions": {
+      "resource_change": "Morale: Strained",
+      "player_standing_change": "Neutral (Fearful Awe)",
+      "progress": "Exhausted (Level 1)",
+      "next_action": "Establishing cold-weather camp",
+      "current_objective": "Recover from march"
+    }
+  }
+}

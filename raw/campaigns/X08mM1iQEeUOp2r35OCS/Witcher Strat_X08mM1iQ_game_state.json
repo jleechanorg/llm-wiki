@@ -1,0 +1,875 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "death_saves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "background": "Spy",
+    "_comment_alignment": "\ud83d\udea8 INTERNAL USE ONLY - Never mention in narrative",
+    "xp_current": 3200,
+    "combat_stats": {
+      "speed": 30,
+      "passive_perception": 10,
+      "armor_class": 14,
+      "initiative": 3
+    },
+    "race": "Variant Human",
+    "_comment_mbti": "\ud83d\udea8 INTERNAL USE ONLY - Never mention in narrative",
+    "temp_hp": 0,
+    "saving_throw_proficiencies": [
+      "Dexterity",
+      "Charisma"
+    ],
+    "resources": {
+      "hit_dice": {
+        "used": 0,
+        "total": 3
+      },
+      "consumables": {
+        "arrows": 0,
+        "antidote": 0,
+        "antitoxin": 0,
+        "healing_potions": 0,
+        "crossbow_bolts": 0,
+        "other_notable": [],
+        "torches": 0,
+        "greater_healing_potions": 0,
+        "rations_days": 4,
+        "superior_healing_potions": 0,
+        "oil_flasks": 0,
+        "sling_bullets": 0,
+        "water_days": 5
+      },
+      "spell_slots": {
+        "level_2": {
+          "used": 0,
+          "total": 2
+        },
+        "level_1": {
+          "used": 0,
+          "total": 4
+        },
+        "level_3": {
+          "used": 0,
+          "total": 0
+        }
+      },
+      "light_sources": {
+        "current": "None",
+        "backup": [
+          "5 candles"
+        ],
+        "duration_remaining": "N/A"
+      },
+      "gold": 30015,
+      "exhaustion_level": 0,
+      "inspiration": false,
+      "class_features": {
+        "bardic_inspiration": {
+          "used": 0,
+          "die_type": "1d6",
+          "total": 3
+        }
+      },
+      "short_rests": {
+        "used": 0,
+        "total": 0
+      },
+      "long_rests_since_last": 0
+    },
+    "experience": {
+      "needed_for_next_level": 6500,
+      "total_earned": 1050,
+      "current": 3350,
+      "to_next_level": 3150
+    },
+    "features": [
+      "Actor (Feat)",
+      "Bardic Inspiration (d6)",
+      "Spellcasting",
+      "Defensive Duelist (Feat)",
+      "Jack of All Trades",
+      "Song of Rest",
+      "Expertise (Persuasion, Stealth)",
+      "Blade Flourish",
+      "Dueling (Fighting Style)"
+    ],
+    "level": 4,
+    "skills": {
+      "deception": 6,
+      "investigation": 7,
+      "persuasion": 8,
+      "insight": 3,
+      "stealth": 8
+    },
+    "armor_class": 14,
+    "equipment": {
+      "backpack": [
+        "Bedroll",
+        "1 Costume",
+        "5 Candles",
+        "4 Days of Rations",
+        "Waterskin",
+        "Disguise Kit",
+        "Thieves' Tools",
+        "Gaming Set (Dice Set)"
+      ],
+      "money": "15 gp",
+      "armor": "Leather Armor",
+      "proficiencies": [
+        "Light armor",
+        "Simple weapons",
+        "Hand crossbows",
+        "Longswords",
+        "Rapiers",
+        "Shortswords",
+        "Three musical instruments",
+        "Medium armor",
+        "Scimitars"
+      ],
+      "weapons": [
+        "Rapier",
+        "Dagger"
+      ]
+    },
+    "class": "Bard",
+    "mbti": "INTJ",
+    "attributes": {
+      "strength": 8,
+      "dexterity": 17,
+      "intelligence": 18,
+      "wisdom": 10,
+      "charisma": 18,
+      "constitution": 13
+    },
+    "status_conditions": [
+      "Disguised (prostitute)"
+    ],
+    "string_id": "pc_nocturne_001",
+    "alignment": "Neutral Evil",
+    "spells_known": [
+      "Vicious Mockery",
+      "Message",
+      "Charm Person",
+      "Healing Word",
+      "Faerie Fire",
+      "Disguise Self",
+      "Detect Magic",
+      "Invisibility"
+    ],
+    "name": "Nocturne",
+    "hp_max": 29,
+    "hp_current": 29,
+    "proficiency_bonus": 2,
+    "subclass": "College of Swords",
+    "active_effects": []
+  },
+  "world_data": {
+    "world_time": {
+      "minute": 5,
+      "time_of_day": "Morning",
+      "day": 20,
+      "second": 0,
+      "year": 1492,
+      "hour": 9,
+      "month": "Ches",
+      "microsecond": 0
+    },
+    "current_location": "loc_hemwicks_manor_interior_001",
+    "locations": {
+      "loc_hemwicks_manor_study_001": {
+        "environmental_effects": [],
+        "description": "A large, well-appointed study, its walls lined with shelves crammed with ledgers, scrolls, and weighty tomes. A meticulously organized desk dominates the center, currently strewn with financial documents. The air is heavy with the scent of old parchment and ink.",
+        "connected_to": [
+          "loc_hemwicks_manor_interior_001"
+        ],
+        "display_name": "Hemwick's Manor Study",
+        "entities_present": [
+          "pc_nocturne_001",
+          "npc_hemwick_001",
+          "npc_elara_001",
+          "npc_beatrice_001"
+        ]
+      },
+      "loc_ruined_barn_001": {
+        "environmental_effects": [
+          "rain",
+          "dim lighting"
+        ],
+        "description": "A dilapidated barn, offering meager shelter from the relentless rain.",
+        "connected_to": [],
+        "display_name": "Ruined Barn",
+        "entities_present": [
+          "pc_nocturne_001",
+          "npc_giselher_001",
+          "npc_kayleigh_001",
+          "npc_mistle_001",
+          "npc_asse_001",
+          "npc_reef_001",
+          "npc_falka_001"
+        ]
+      },
+      "loc_hemwicks_manor_interior_001": {
+        "environmental_effects": [],
+        "description": "The opulent interior of Master Hemwick's manor, hinting at his wealth and refined taste.",
+        "connected_to": [
+          "loc_hemwicks_estate_gates_001",
+          "loc_hemwicks_grounds_001"
+        ],
+        "display_name": "Hemwick's Manor Interior",
+        "entities_present": [
+          "pc_nocturne_001",
+          "npc_hemwick_001",
+          "npc_elara_001",
+          "npc_beatrice_001",
+          "npc_kayleigh_001",
+          "npc_asse_001",
+          "npc_mistle_001",
+          "npc_falka_001"
+        ]
+      },
+      "loc_weeping_willow_copse_001": {
+        "environmental_effects": [
+          "rain",
+          "dim lighting"
+        ],
+        "description": "A small, dense cluster of willow trees, their branches draped low, offering excellent cover and a vantage point over the road.",
+        "connected_to": [
+          "loc_road_silverstream_001"
+        ],
+        "display_name": "Weeping Willow Copse",
+        "entities_present": [
+          "npc_mistle_001"
+        ]
+      },
+      "loc_road_silverstream_001": {
+        "environmental_effects": [
+          "light drizzle",
+          "damp air"
+        ],
+        "description": "A muddy, well-traveled road, flanked by damp grasses and sparse trees, leading towards Silverstream.",
+        "connected_to": [
+          "loc_ruined_barn_001"
+        ],
+        "display_name": "Road to Silverstream (near Weeping Willow copse)",
+        "entities_present": [
+          "pc_nocturne_001",
+          "npc_hemwick_001"
+        ]
+      },
+      "loc_hemwicks_estate_gates_001": {
+        "environmental_effects": [
+          "light drizzle",
+          "damp air"
+        ],
+        "description": "Tall, wrought-iron gates, subtly imposing, stand before a winding gravel path leading to a substantial manor house. The air is damp from a persistent drizzle.",
+        "connected_to": [
+          "loc_hemwicks_manor_interior_001",
+          "loc_hemwicks_grounds_001"
+        ],
+        "display_name": "Hemwick's Estate Gates",
+        "entities_present": [
+          "npc_giselher_001",
+          "npc_reef_001"
+        ]
+      },
+      "loc_hemwicks_grounds_001": {
+        "environmental_effects": [
+          "light drizzle",
+          "damp air"
+        ],
+        "description": "Well-maintained gardens, stables, and outbuildings surround the manor, hinting at the merchant's prosperity.",
+        "connected_to": [
+          "loc_hemwicks_estate_gates_001",
+          "loc_hemwicks_manor_interior_001"
+        ],
+        "display_name": "Hemwick's Estate Grounds",
+        "entities_present": []
+      }
+    }
+  },
+  "npc_data": {
+    "Elara": {
+      "class": "Commoner",
+      "mbti": "ISTJ",
+      "hidden": false,
+      "attributes": {
+        "strength": 8,
+        "dexterity": 10,
+        "intelligence": 13,
+        "wisdom": 12,
+        "charisma": 14,
+        "constitution": 11
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 0,
+        "passive_perception": 11
+      },
+      "faction": "None",
+      "_comment_mbti": "\ud83d\udea8 INTERNAL USE ONLY - Never mention in narrative",
+      "present": false,
+      "gender": "female",
+      "conscious": true,
+      "string_id": "npc_elara_001",
+      "attitude_to_party": "neutral",
+      "recent_actions": [
+        "presented silk supply problem to Lady Lyra",
+        "provided household roster and schedules"
+      ],
+      "status": "Actively managing estate ledgers and trade, now openly reliant on Lady Lyra's strategic insights for 'efficiencies' and 'problem-solving', viewing her as an indispensable, benevolent expert who has stabilized Hemwick's chaotic affairs. Her proprietary caution is replaced by pragmatic reliance, currently focused on ledgers in the study, and briefly distracted by household inventory.",
+      "hp_max": 9,
+      "level": 3,
+      "hp_current": 9,
+      "age": 50,
+      "knowledge": [
+        "Hemwick's ledgers",
+        "local trade",
+        "estate staff structure",
+        "daily routines",
+        "minor discords",
+        "Lady Lyra's strategic insights on trade and efficiency",
+        "new, 'efficient' trade routes (subtly managed by Mistle's network)"
+      ],
+      "role": "Merchant's Wife",
+      "armor_class": 10,
+      "relationships": {
+        "npc_hemwick_001": "married",
+        "pc_nocturne_001": "profound reliance and pragmatic respect, viewing Lady Lyra as an indispensable advisor for trade and estate management, unaware of her true manipulative intent."
+      }
+    },
+    "Mistle": {
+      "class": "Rogue",
+      "faction": "faction_therats_001",
+      "hidden": false,
+      "attributes": {
+        "strength": 11,
+        "dexterity": 14,
+        "intelligence": 12,
+        "wisdom": 13,
+        "charisma": 9,
+        "constitution": 10
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 2,
+        "passive_perception": 11
+      },
+      "mbti": "ISTP",
+      "location": "loc_hemwicks_manor_interior_001",
+      "conscious": true,
+      "present": true,
+      "gender": "female",
+      "string_id": "npc_mistle_001",
+      "recent_actions": [
+        "orchestrated gradual elimination and replacement of estate guards",
+        "managed subtle trade rerouting for silk supply",
+        "overseeing Rats' infiltration and reporting to Lady Lyra"
+      ],
+      "attitude_to_party": "ally",
+      "status": "Lady Lyra's personal assistant and effective estate manager, now fully integrated and executing guard elimination/replacement strategies. Her analytical wariness is now overlaid with a strong, undeniable attraction to Nocturne, and her loyalty is pragmatic and strong.",
+      "hp_max": 9,
+      "level": 1,
+      "sexual_orientation": "bisexual",
+      "hp_current": 9,
+      "age": 17,
+      "knowledge": [
+        "lone alchemist rumors"
+      ],
+      "role": "Estate Manager's Assistant (The Rats)",
+      "armor_class": 13,
+      "relationships": {
+        "npc_falka_001": "protective stance weakened, attention diverted",
+        "pc_nocturne_001": "further mitigated suspicion, now generally wary, focus shifting to Kayleigh, but with a new, deeper wariness of Nocturne's specific manipulative methods and cunning, now overlaid with a strong, undeniable attraction, pragmatic loyalty to Lady Lyra's leadership."
+      }
+    },
+    "Falka": {
+      "class": "Unknown",
+      "relationships": {
+        "pc_nocturne_001": "profound emotional distress now largely subdued, deeper anchor in Nocturne's presence, feeling cared for and protected, clinging in fragile, almost singular reliance, now subtly integrated into Nocturne's operational control, perceiving a nascent sense of empowerment and autonomy granted by Nocturne, and now experiencing direct molding of her nascent magical capabilities."
+      },
+      "faction": "None",
+      "hidden": false,
+      "attributes": {
+        "strength": 10,
+        "dexterity": 12,
+        "intelligence": 13,
+        "wisdom": 14,
+        "charisma": 15,
+        "constitution": 11
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 1,
+        "passive_perception": 12
+      },
+      "mbti": "ISFP",
+      "location": "loc_hemwicks_manor_interior_001",
+      "conscious": true,
+      "present": true,
+      "gender": "female",
+      "string_id": "npc_falka_001",
+      "recent_actions": [
+        "captured by The Rats"
+      ],
+      "attitude_to_party": "fearful",
+      "status": "Discreetly integrated as a 'new kitchen hand' under Lady Lyra's ward, now in Lady Lyra's chambers, profoundly reliant on Nocturne, perceiving the dagger as empowerment *granted* by her protector, reinforcing dependence, and having just experienced a potent, resonant magical flare triggered by Nocturne's subtle molding. Her internal barriers to trauma are subtly weakening, vibrating on the verge of fracturing.",
+      "hp_max": 7,
+      "level": 1,
+      "hp_current": 7,
+      "age": 16,
+      "knowledge": [
+        "basic survival",
+        "hidden magical abilities"
+      ],
+      "role": "Mysterious Girl (Ciri)",
+      "armor_class": 11,
+      "equipment": {
+        "weapons": [
+          "Dagger"
+        ]
+      }
+    },
+    "Giselher": {
+      "class": "Fighter",
+      "faction": "faction_therats_001",
+      "hidden": false,
+      "attributes": {
+        "strength": 16,
+        "dexterity": 13,
+        "intelligence": 8,
+        "wisdom": 10,
+        "charisma": 12,
+        "constitution": 14
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 1,
+        "passive_perception": 10
+      },
+      "mbti": "ESTP",
+      "location": "loc_hemwicks_manor_interior_001",
+      "conscious": true,
+      "present": true,
+      "gender": "male",
+      "string_id": "npc_giselher_001",
+      "recent_actions": [
+        "gradually replaced previous estate groundsmen",
+        "reporting estate observations to Lady Lyra"
+      ],
+      "attitude_to_party": "ally",
+      "status": "New 'groundsman' at Hemwick's estate, fully integrated into his role, diligently performing duties while subtly observing and reporting to Nocturne. His loyalty is now firmly with Lady Lyra, masking his true identity as a Rat.",
+      "hp_max": 18,
+      "level": 2,
+      "hp_current": 18,
+      "age": 22,
+      "knowledge": [
+        "smuggler's cove rumors"
+      ],
+      "role": "Groundsman (The Rats)",
+      "armor_class": 14,
+      "relationships": {
+        "pc_nocturne_001": "captivated, eager to follow"
+      }
+    },
+    "Beatrice": {
+      "class": "Commoner",
+      "mbti": "ENFJ",
+      "hidden": false,
+      "attributes": {
+        "strength": 9,
+        "dexterity": 11,
+        "intelligence": 14,
+        "wisdom": 13,
+        "charisma": 15,
+        "constitution": 10
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 0,
+        "passive_perception": 11
+      },
+      "faction": "None",
+      "_comment_mbti": "\ud83d\udea8 INTERNAL USE ONLY - Never mention in narrative",
+      "present": false,
+      "gender": "female",
+      "conscious": true,
+      "string_id": "npc_beatrice_001",
+      "attitude_to_party": "neutral",
+      "recent_actions": [],
+      "status": "Actively assisting Elara, now emotionally tethered to Lady Lyra as her confidante. Lady Lyra's interventions have brought 'harmony' to household 'minor discords'. She shares personal insights and worries, views Lady Lyra as a benevolent problem-solver, and is emotionally reliant, currently in the study, and briefly distracted by household inventory.",
+      "hp_max": 8,
+      "level": 1,
+      "hp_current": 8,
+      "age": 22,
+      "knowledge": [
+        "Hemwick's ledgers",
+        "trade contacts",
+        "estate staff dynamics",
+        "minor discords",
+        "Lady Lyra's insights into household harmony"
+      ],
+      "role": "Merchant's Daughter",
+      "armor_class": 10,
+      "relationships": {
+        "npc_hemwick_001": "daughter",
+        "pc_nocturne_001": "deep emotional reliance and trust, viewing Lady Lyra as a benevolent problem-solver and confidante for household harmony and personal well-being, unaware of her true manipulative intent."
+      }
+    },
+    "Old Man Hemwick": {
+      "class": "Commoner",
+      "mbti": "ESTJ",
+      "hidden": false,
+      "attributes": {
+        "strength": 8,
+        "dexterity": 9,
+        "intelligence": 12,
+        "wisdom": 10,
+        "charisma": 13,
+        "constitution": 11
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": -1,
+        "passive_perception": 10
+      },
+      "faction": "None",
+      "conscious": true,
+      "present": true,
+      "gender": "male",
+      "string_id": "npc_hemwick_001",
+      "recent_actions": [
+        "introduced Lady Lyra to Elara and Beatrice",
+        "beaming with pathetic pride at Lady Lyra's interaction with Elara",
+        "subtly anxious about Lady Lyra's deeper involvement in his household",
+        "called for a maid to send Falka to Lady Lyra's chambers"
+      ],
+      "attitude_to_party": "Completely dominated, eagerly compliant, now utterly reliant on Lady Lyra's presence for household and business stability, terrified of her unspoken power.",
+      "status": "Completely dominated, eagerly compliant, now utterly reliant on Lady Lyra's presence for household and business stability, terrified of her unspoken power, having just arranged Falka's transfer to Lady Lyra's chambers.",
+      "hp_max": 10,
+      "level": 3,
+      "hp_current": 10,
+      "age": 55,
+      "knowledge": [
+        "kingdom politics",
+        "dragon threat",
+        "wife Elara",
+        "daughter Beatrice",
+        "Baron Von Kessel trade consortium",
+        "estate security: 4 guards (2 day/2 night), shift change at dawn/dusk, lazy night guards (fond of ale), back entrance via old stables (overlooks river, no patrols), 2 mastiffs (chained near kitchen at night, sleep soundly).",
+        "Nocturne's new identity as 'Lady Lyra', a distant relative here to 'assist' with affairs",
+        "Rats' new identities as 'newly hired staff' (groundsmen, stablehands, kitchen staff, chambermaids) vouched for by Lady Lyra",
+        "Mistle's new identity as Lady Lyra's personal assistant",
+        "Lady Lyra requires the finest personal chambers and refreshments upon arrival, and her presence is to be afforded every courtesy as she 'assists' with estate affairs."
+      ],
+      "relationships": {
+        "pc_nocturne_001": "completely dominated, eagerly compliant"
+      },
+      "role": "Merchant",
+      "armor_class": 10
+    },
+    "Kayleigh": {
+      "class": "Rogue",
+      "faction": "faction_therats_001",
+      "hidden": false,
+      "attributes": {
+        "strength": 10,
+        "dexterity": 16,
+        "intelligence": 10,
+        "wisdom": 11,
+        "charisma": 14,
+        "constitution": 12
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 3,
+        "passive_perception": 10
+      },
+      "mbti": "ESFP",
+      "location": "loc_hemwicks_manor_interior_001",
+      "conscious": true,
+      "present": true,
+      "gender": "female",
+      "string_id": "npc_kayleigh_001",
+      "recent_actions": [
+        "gradually replaced previous estate kitchen staff",
+        "overhearing household conversations, reporting to Lady Lyra"
+      ],
+      "attitude_to_party": "ally",
+      "status": "New 'kitchen staff' at Hemwick's estate, fully integrated into her role, diligently performing duties while subtly overhearing conversations and reporting to Nocturne. Her loyalty is now firmly with Lady Lyra, masking her true identity as a Rat.",
+      "hp_max": 11,
+      "level": 1,
+      "hp_current": 11,
+      "age": 19,
+      "knowledge": [
+        "Farmer Thistlebottom's wealth"
+      ],
+      "role": "Kitchen Staff (The Rats)",
+      "armor_class": 12,
+      "relationships": {
+        "pc_nocturne_001": "impressed, grudgingly admiring"
+      }
+    },
+    "Asse": {
+      "class": "Fighter",
+      "faction": "faction_therats_001",
+      "hidden": false,
+      "attributes": {
+        "strength": 14,
+        "dexterity": 11,
+        "intelligence": 9,
+        "wisdom": 12,
+        "charisma": 8,
+        "constitution": 13
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 0,
+        "passive_perception": 11
+      },
+      "mbti": "ISFJ",
+      "location": "loc_hemwicks_manor_interior_001",
+      "conscious": true,
+      "present": true,
+      "gender": "male",
+      "string_id": "npc_asse_001",
+      "recent_actions": [
+        "gradually replaced previous estate chambermaids",
+        "observing household routines, reporting to Lady Lyra"
+      ],
+      "attitude_to_party": "ally",
+      "status": "New 'chambermaid' at Hemwick's estate, fully integrated into her role, diligently performing duties while subtly observing and reporting to Nocturne. Her loyalty is now firmly with Lady Lyra, masking his true identity as a Rat.",
+      "hp_max": 12,
+      "level": 1,
+      "hp_current": 12,
+      "age": 20,
+      "knowledge": [],
+      "role": "Chambermaid (The Rats)",
+      "armor_class": 13,
+      "relationships": {
+        "pc_nocturne_001": "flustered, impressed"
+      }
+    },
+    "Reef": {
+      "class": "Fighter",
+      "faction": "faction_therats_001",
+      "hidden": false,
+      "attributes": {
+        "strength": 15,
+        "dexterity": 10,
+        "intelligence": 7,
+        "wisdom": 9,
+        "charisma": 10,
+        "constitution": 14
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 0,
+        "passive_perception": 9
+      },
+      "mbti": "ESTJ",
+      "location": "loc_hemwicks_manor_interior_001",
+      "conscious": true,
+      "present": true,
+      "gender": "male",
+      "string_id": "npc_reef_001",
+      "recent_actions": [
+        "gradually replaced previous estate stablehands",
+        "reporting estate observations to Lady Lyra"
+      ],
+      "attitude_to_party": "ally",
+      "status": "New 'stablehand' at Hemwick's estate, fully integrated into his role, diligently performing duties while subtly observing and reporting to Nocturne. His loyalty is now firmly with Lady Lyra, masking his true identity as a Rat.",
+      "hp_max": 13,
+      "level": 1,
+      "hp_current": 13,
+      "age": 25,
+      "knowledge": [
+        "Nilfgaardian patrol routes"
+      ],
+      "role": "Stablehand (The Rats)",
+      "armor_class": 13,
+      "relationships": {
+        "pc_nocturne_001": "captivated, silently appreciative"
+      }
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "character_creation": {
+      "in_progress": false,
+      "method_chosen": "AI Generated",
+      "current_step": 0
+    },
+    "attribute_system": "D&D",
+    "last_story_mode_sequence_id": 256,
+    "dynamic_enemy_scaling_enabled": true,
+    "active_missions": [
+      {
+        "title": "Observe Falka",
+        "status": "in_progress",
+        "mission_id": "observe_falka_001",
+        "objective": "Continue studying and molding the mysterious girl 'Falka' and understanding her capabilities within the estate."
+      },
+      {
+        "title": "Control Hemwick's Estate",
+        "status": "completed",
+        "mission_id": "control_hemwick_estate",
+        "objective": "Subtly infiltrate and gain pervasive control over Hemwick's entire estate, including its security, finances, and family dynamics."
+      },
+      {
+        "title": "Establish Recurring Revenue",
+        "status": "completed",
+        "mission_id": "establish_recurring_revenue",
+        "objective": "Secure a continuous flow of wealth from Hemwick's business operations through psychological and financial subjugation."
+      },
+      {
+        "title": "Guard Replacement Infiltration",
+        "status": "completed",
+        "mission_id": "guard_replacement_infiltration",
+        "objective": "Gradually eliminate existing estate guards and replace them with the Rats, who operate under Lady Lyra's command."
+      },
+      {
+        "title": "Subvert Hemwick Family",
+        "status": "completed",
+        "mission_id": "subvert_hemwick_family",
+        "objective": "Cultivate indispensability and emotional reliance with Elara and Beatrice, gaining leverage and control over their roles within the estate."
+      }
+    ],
+    "core_memories": [
+      "Character creation for Nocturne finalized. Intelligence set to 18 (+4).",
+      "Nocturne initiated contact with Falka, observing her fear and nascent magical reaction. Mistle showed possessiveness.",
+      "Nocturne's character finalized with INT 18 and DEX 16, and the Defensive Duelist feat. Campaign started with the Rats and Falka (Ciri).",
+      "Nocturne subtly defused Mistle's possessiveness over Falka using a deferential nod and gentle persuasion, gaining some leeway while Mistle remains wary.",
+      "Nocturne successfully created a distraction using a dropped coin, diverting Mistle's attention from Falka.",
+      "Nocturne covertly approached Falka during a distraction, sharing a knowing whisper about the 'hum' of magic.",
+      "Nocturne successfully reassured Falka, lessening her terror and deepening their connection. Falka showed a fragile trust.",
+      "Nocturne successfully created a second distraction by dropping a buckle, further distracting Mistle and the Rats, extending the private interaction with Falka.",
+      "Nocturne successfully offered tangible comfort (dry cloth) to Falka, deepening her fragile trust and masking ulterior motives while Mistle remained distracted.",
+      "Nocturne successfully offered subtle magical comfort to Falka, significantly deepening their fragile trust and testing her reaction to direct magical influence.",
+      "Nocturne successfully used subtle deception to reinforce Mistle's distraction, allowing more privacy with Falka.",
+      "Nocturne entered a deep contemplation, planning the next phase of her manipulation of Falka and the Rats.",
+      "Nocturne gently probed Falka's origins, but her trauma prevented her from speaking, revealing deep emotional distress.",
+      "Nocturne successfully offered a calming presence to Falka, significantly reducing her renewed distress and reaffirming a fragile trust.",
+      "Nocturne successfully offered tangible aid (a ration) to Falka, deepening her trust and masking ulterior motives.",
+      "Nocturne indirectly probed Falka's origins by examining her rags and surroundings, but found no specific physical clues, confirming a lack of identifying marks or the thoroughness of her captors.",
+      "Nocturne attempted a subtle magical probe into Falka's mind for origins, but only found fragmented, horrifying echoes of trauma, re-triggering Falka's profound distress. Mistle is becoming more aware of the situation.",
+      "Nocturne reached Level 2, increasing max HP to 15 and gaining Jack of All Trades and Song of Rest.",
+      "Nocturne learned Detect Magic as a new spell at Level 2.",
+      "Nocturne reached Level 2, gaining Jack of All Trades, Song of Rest, an additional 1st-level spell slot, and Expertise in Persuasion and Stealth.",
+      "Nocturne observed Mistle's increased awareness and suspicion, alongside Falka's renewed profound distress, assessing the tense and evolving situation after the magical probe.",
+      "Nocturne successfully offered an urgent calming presence to Falka, significantly reducing her renewed distress and reaffirming a fragile trust, while subtly mitigating Mistle's suspicion.",
+      "Nocturne successfully offered a subtle, manipulative promise of protection to Falka, deepening her fragile trust and solidifying a perceived shared bond, while further mitigating Mistle's suspicion.",
+      "Nocturne indirectly probed the Rats for Falka's origins, discovering she was found near 'the old mill, just past the crossroads', confirming the Rats' lack of deeper insight into her identity.",
+      "Nocturne successfully used subtle deception to sow discord between Mistle and Kayleigh, undermining Mistle's influence and further isolating Falka.",
+      "Nocturne successfully offered another subtle, manipulative promise of protection to Falka, deepening her fragile trust and solidifying a perceived shared bond, while further mitigating Mistle's suspicion.",
+      "Nocturne successfully shifted the Rats' focus from bickering to the prospect of a new job, piquing Giselher's interest.",
+      "Nocturne performed an indirect probe of Falka's rags and surroundings, definitively confirming a lack of identifying physical clues about her past, reinforcing the thoroughness of her captors or her initial lack of such items.",
+      "Nocturne successfully shifted the Rats' focus to the next job and elicited several suggestions, gaining insight into their ambitions and knowledge.",
+      "Nocturne entered a deep contemplation, analyzing the Rats' job suggestions and Falka's state to plan the next phase of manipulation.",
+      "Nocturne entered a deep contemplation, analyzing a proposed merchant plan, the Rats' job suggestions, and Falka's state to plan the next phase of manipulation.",
+      "Nocturne entered a deep contemplation, analyzing a brutal merchant plan proposed by the player, and considering other Rats' job suggestions and Falka's state to plan the next phase of manipulation.",
+      "Nocturne internally refined the merchant plan, incorporating subtle magic (Charm Person/Suggestion) for covert control and long-term exploitation, aligning with her 'Surgical Domination' strategy.",
+      "Nocturne successfully proposed her subtly refined merchant plan to the Rats, emphasizing efficiency, low combat risk, and long-term 'recurring revenue' to appeal to their greed and secure their buy-in, while concealing her deeper manipulative intent.",
+      "Nocturne successfully addressed Mistle's concerns, refining the merchant plan to include the merchant ordering guards home, and gaining full group buy-in for the subtle, long-term exploitation strategy.",
+      "Nocturne successfully probed the Rats for additional intelligence about the merchant, guards, route, and patrol times, gaining crucial details for the refined plan.",
+      "Nocturne successfully assigned roles for the merchant operation, leveraging individual strengths and subtly positioning the Rats (Mistle: overwatch, Kayleigh: incapacitation, Giselher/Reef: wagon security, Asse: lookout) for a covert takeover, while ensuring Falka remains safe.",
+      "Nocturne entered a deep contemplation, analyzing a brutal plan to eliminate Mistle for sole access to Falka, and considering more subtle, elegant alternatives.",
+      "Nocturne proceeded with the refined merchant plan, deepening Falka's reliance through subtle manipulation while Mistle began overwatch reconnaissance.",
+      "Nocturne offered profound comfort and manipulative reassurance, further anchoring Falka's reliance and deepening the control.",
+      "Nocturne meticulously prepared her disguise and equipment for the merchant operation, leveraging her extreme beauty and subtle magic for covert control and long-term exploitation.",
+      "Nocturne unveiled her extreme beauty in a prostitute disguise, captivating the male Rats and deepening Mistle's analytical wariness, then used this attention to command the group's focus for the merchant operation.",
+      "Nocturne subtly instructed Falka on her role during the operation (stay hidden, silent, observe), further integrating her into Nocturne's control while the Rats were distracted.",
+      "Nocturne strategically declined to arm Falka, reinforcing her dependence and passive role. The merchant operation was initiated, with the Rats moving to their positions and Mistle on overwatch.",
+      "Nocturne initiated the merchant operation, approaching the caravan in disguise to begin infiltration and subtle manipulation.",
+      "Nocturne successfully initiated the merchant caravan operation, captivating Old Man Hemwick with her disguise and subtle persuasion, setting the stage for further manipulation.",
+      "Nocturne keenly observed Old Man Hemwick, discerning his internal struggle between desire and caution, identifying his 'fussy self-importance' as a key vulnerability.",
+      "Nocturne internally refined a complex plan to infiltrate the merchant caravan, leveraging a noble's daughter disguise, a subtle 'wink' for the merchant, and disarming guards through a plea for 'protection,' aiming for elegant, bloodless control.",
+      "Nocturne masterfully executed the merchant infiltration plan, using a noble's daughter pretense, a subtle wink, and layered deception to persuade Old Man Hemwick to dismiss his armed guards and leave their weapons, achieving a bloodless disarming and isolation of the target.",
+      "Nocturne successfully entered Old Man Hemwick's carriage, initiating the seduction and psychological domination phase of the merchant operation.",
+      "Nocturne successfully initiated the seduction and teasing of Old Man Hemwick within his carriage, building his desperation and desire as part of the refined merchant plan.",
+      "Nocturne successfully continued the seduction and teasing of Old Man Hemwick, building his desperation and desire to a profound level, achieving near-total psychological control.",
+      "Nocturne successfully initiated the financial domination phase with Old Man Hemwick, subtly introducing the idea of a steep price for her 'company' and leveraging his desperation.",
+      "Nocturne successfully initiated the financial domination phase with Old Man Hemwick, subtly introducing the idea of a steep price for her 'company' and leveraging his desperation. Now he is begging for details and divulging information about his business and family (wife Elara, daughter Beatrice), solidifying the hostage plan's intelligence.",
+      "Nocturne reached Level 3, gaining new HP (23), spell slots (L1:4, L2:2), Bonus Proficiencies, a Fighting Style choice, and Blade Flourish.",
+      "Nocturne chose the Dueling Fighting Style at Level 3. Spell slots updated to L1:4, L2:2.",
+      "Nocturne successfully initiated the financial domination phase, leveraging Old Man Hemwick's profound desperation and information-sharing. She then demanded an outrageous sum of 5,000 gold pieces for her 'company', utterly breaking him psychologically, yet keeping him desperate for indulgence.",
+      "Nocturne successfully initiated the financial domination phase, leveraging Old Man Hemwick's profound desperation and information-sharing. She then demanded an outrageous sum of 5,000 gold pieces for her 'company', utterly breaking him psychologically, yet keeping him desperate for indulgence, and he has now explicitly agreed to the price.",
+      "Nocturne contemplated a revised plan to immediately acquire 5,000 gold from Hemwick and the rest from his estate using the Rats as 'servants', analyzing the elegance and risks of the deception.",
+      "Nocturne successfully confirmed the immediate availability of 5,000 gold from Old Man Hemwick, who revealed a hidden strongbox in his carriage. (Strategic Execution)",
+      "Nocturne successfully ordered Old Man Hemwick to retrieve 5,000 gold from a hidden strongbox in his carriage, completing the immediate financial objective. (Strategic Execution)",
+      "Nocturne internally contemplated a new plan to let the Rats rob the merchant and then offer a discount, critiquing its inefficiency and chaos compared to the current controlled financial domination plan.",
+      "Nocturne successfully ordered Old Man Hemwick to retrieve and hand over 5,000 gold from a hidden strongbox, completing the immediate financial objective. (Strategic Execution)",
+      "Nocturne successfully completed the final act of psychological and physical domination of Old Man Hemwick (sex act), ensuring his complete distraction while the Rats neutralized his guards as planned. (Strategic Execution, Surgical Domination)",
+      "Nocturne contemplated a new plan: to not capture Hemwick, but keep extracting money from him, analyzing the implications for 'Surgical Domination' and 'recurring revenue'.",
+      "Nocturne internally contemplated how to expand her control beyond Hemwick to his wider trade network for broader economic 'Surgical Domination'.",
+      "Nocturne internally contemplated a new, multi-phase plan: to keep extracting 5,000 gold per sexual act from Hemwick, gradually eliminate his guards and replace them with the Rats over weeks, and ultimately control him from the shadows via his family for long-term economic 'Surgical Domination'.",
+      "Nocturne successfully gathered detailed intelligence on Hemwick's estate guards (routines, numbers, weaknesses, hidden entrances, dogs) from the utterly subjugated merchant, crucial for the long-term elimination and replacement strategy.",
+      "Nocturne successfully instructed the Rats on their new, disguised roles as 'recruits' or 'servants' for Hemwick's estate, focusing on demeanor and plausible backstories for the gradual guard replacement. This includes specific roles for Giselher, Reef, Kayleigh, Asse, and Mistle, leveraging gathered intelligence about the estate's security.",
+      "Nocturne mentally prepared for her personal arrival at Hemwick's estate, focusing on maintaining her disguise, leveraging the subjugated Hemwick, and subtly observing the Rats' initial infiltration as 'new staff' for long-term economic 'Surgical Domination'.",
+      "Nocturne successfully gave explicit, subtle instructions to Old Man Hemwick on the arrival protocol for 'Lady Lyra' and the 'new staff' upon arrival at his estate, ensuring a smooth, unquestioning entry.",
+      "Nocturne's carriage arrived at Hemwick's estate, initiating the physical phase of the takeover. Hemwick, fully subjugated, introduced 'Lady Lyra' and the 'new staff' (Rats) to the estate guards, ensuring a frictionless entry. The Rats immediately began their discreet infiltration into their new roles.",
+      "Nocturne successfully orchestrated Falka's discreet transfer from the barn to Hemwick's estate, leveraging Hemwick's subjugation and Giselher's new role as 'groundsman'.",
+      "Nocturne successfully entered Hemwick's manor interior, escorted by the subjugated merchant, commencing the formal phase of the estate takeover.",
+      "Nocturne successfully instructed Hemwick on household management, securing personal chambers and refreshments, further cementing her authority within the estate.",
+      "Nocturne internally contemplated how best to be introduced to Elara and Beatrice, Hemwick's wife and daughter, to begin the process of subtle manipulation and leverage for long-term economic control.",
+      "Nocturne internally contemplated how best to introduce Elara and Beatrice, deciding to cultivate indispensability through expertise in estate affairs and trade, making them rely on her.",
+      "Nocturne successfully initiated formal introduction to Hemwick's wife, Elara, and daughter, Beatrice, positioning 'Lady Lyra' as an indispensable assistant.",
+      "Nocturne internally contemplated how best to be introduced to Elara and Beatrice, reflecting on their dynamics to plan subtle, non-threatening manipulation for control.",
+      "Nocturne successfully initiated formal introduction to Hemwick's wife, Elara, and daughter, Beatrice, positioning 'Lady Lyra' as an indispensable assistant, now accepting an invitation to join them in the study.",
+      "Nocturne successfully engaged Elara on trade in the study, subtly demonstrating expertise and initiating the cultivation of her reliance and trust, leading to an immediate opening for financial infiltration.",
+      "Nocturne internally contemplated the family dynamics of Hemwick, Elara, and Beatrice, planning her strategy for subtle, non-threatening manipulation to cultivate indispensability and financial control.",
+      "Nocturne successfully cultivated initial personal rapport with Beatrice, identifying emotional vulnerabilities and building a personal connection for future, non-financial leverage.",
+      "Nocturne internally contemplated family dynamics (Hemwick, Elara, Beatrice) and Beatrice's insights, planning her strategy for subtle, non-threatening manipulation to cultivate indispensability and financial control.",
+      "Nocturne successfully observed Hemwick's ledgers, identifying vulnerabilities in trade accounts, and discerned subtle dynamics between Elara and Beatrice, noting Beatrice's yearning for household harmony. (Discovery & Exploration, Social Achievements)",
+      "Nocturne successfully cultivated initial personal rapport with Beatrice, identifying emotional vulnerabilities and building a personal connection for future, non-financial leverage. (Social Achievements, Character Development)",
+      "Nocturne successfully offered to mediate household harmony and staff efficiency, leveraging Beatrice's insight into 'minor discord' and gaining Elara's pragmatic receptiveness. (Social Achievements, Strategic Execution)",
+      "Nocturne successfully requested a comprehensive overview of Hemwick's estate staff structure and routines, gaining crucial operational intelligence from Elara and Beatrice for long-term influence. (Social Achievements, Strategic Execution)",
+      "TIME SKIP: 3 months pass. Nocturne autonomously consolidates control over Hemwick's estate: replacing guards with Rats, securing 20,000 gold in recurring revenue, subjugating Elara and Beatrice through indispensable counsel and emotional reliance, and deepening her manipulative hold on Falka as a personal project. Nocturne reaches Level 4, increasing CHA to 18 and DEX to 17.",
+      "Nocturne's Level 4 progression was confirmed: CHA 18 (+4), DEX 17 (+3), HP 29 (max). All character abilities finalized."
+    ],
+    "arc_milestones": {},
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "active_constraints": [],
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2025-11-12 08:20:17.323000+00:00",
+  "turn_number": 0,
+  "player_turn": 0,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "minute": 5,
+    "time_of_day": "Morning",
+    "day": 20,
+    "second": 0,
+    "year": 1492,
+    "hour": 9,
+    "month": "Ches"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": false,
+  "pending_instruction_hints": [],
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "world_time": {
+    "hour": 9,
+    "time_of_day": "Morning",
+    "day": 20,
+    "second": 0,
+    "year": 1492,
+    "month": "Kythorn",
+    "minute": 0
+  }
+}

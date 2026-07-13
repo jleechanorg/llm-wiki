@@ -1,0 +1,985 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "death_saves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "health": {
+      "death_saves": {
+        "successes": 0,
+        "failures": 0
+      },
+      "temp_hp": 0,
+      "hp": 45,
+      "hp_max": 45
+    },
+    "background": "Noble (5th Son / Apprentice)",
+    "mbti": "INTJ (Internal Tool) | Extremely attractive with a sovereign presence",
+    "entity_id": "pc_renjiro_001",
+    "display_name": "Renjiro",
+    "class_name": "Sovereign Apostle (Cleric)",
+    "hit_dice_current": 6,
+    "hit_dice_max": 6,
+    "race": "Variant Human",
+    "attributes": {
+      "strength": 10,
+      "dexterity": 16,
+      "intelligence": 12,
+      "wisdom": 12,
+      "charisma": 18,
+      "constitution": 14
+    },
+    "proficiency_bonus": 3,
+    "alignment": "Neutral (Morally Grey - Leans Good)",
+    "spells_known": [
+      {
+        "level": 1,
+        "name": "Shield"
+      },
+      {
+        "level": 1,
+        "name": "Absorb Elements"
+      },
+      {
+        "level": 1,
+        "name": "Inflict Wounds"
+      },
+      {
+        "level": 1,
+        "name": "Silvery Barbs"
+      },
+      {
+        "level": 2,
+        "name": "Hold Person"
+      },
+      {
+        "level": 2,
+        "name": "Shadow Blade"
+      },
+      {
+        "level": 2,
+        "name": "Misty Step"
+      },
+      {
+        "level": 3,
+        "name": "Fireball"
+      },
+      {
+        "level": 3,
+        "name": "Counterspell"
+      },
+      {
+        "level": 3,
+        "name": "Haste"
+      }
+    ],
+    "resources": {
+      "gold": 600,
+      "spell_slots": {
+        "level_2": {
+          "current": 3,
+          "max": 3
+        },
+        "level_1": {
+          "current": 4,
+          "max": 4
+        },
+        "level_3": {
+          "current": 3,
+          "max": 3
+        }
+      },
+      "mythic_power": {
+        "current": 3,
+        "max": 3
+      },
+      "mythic_surge": {
+        "current": 1,
+        "max": 3
+      },
+      "channel_divinity": {
+        "current": 2,
+        "max": 2
+      }
+    },
+    "experience": {
+      "needed_for_next_level": 23000,
+      "current": 19450,
+      "to_next_level": 3550
+    },
+    "gender": "Male",
+    "base_attributes": {
+      "strength": 10,
+      "dexterity": 16,
+      "intelligence": 12,
+      "wisdom": 12,
+      "charisma": 18,
+      "constitution": 14
+    },
+    "spells_prepared": [
+      {
+        "level": 1,
+        "name": "Shield"
+      },
+      {
+        "level": 1,
+        "name": "Inflict Wounds"
+      },
+      {
+        "level": 1,
+        "name": "Command"
+      },
+      {
+        "level": 2,
+        "name": "Hold Person"
+      },
+      {
+        "level": 2,
+        "name": "Spiritual Weapon (Demon Blade)"
+      },
+      {
+        "level": 2,
+        "name": "Shadow Blade"
+      },
+      {
+        "level": 3,
+        "name": "Spirit Guardians (Fallen Souls)"
+      },
+      {
+        "level": 3,
+        "name": "Haste"
+      },
+      {
+        "level": 3,
+        "name": "Counterspell"
+      }
+    ],
+    "hp_max": 45,
+    "features": [
+      "Sovereign Trance (10 mins, +4 AC/Conc)",
+      "Demon King's Insight (Adv on Initiative, 1 SP for Adv)",
+      "Blade Magic (CHA for Melee)",
+      "Mythic Tier 1: Sovereign Path",
+      "Mythic Surge (1d6)",
+      "Hard to Kill (Auto-stabilize)",
+      "Extra Attack (Level 6)",
+      "Channel Divinity: Sovereign's Decree",
+      "Destroy Undead (CR 1/2)"
+    ],
+    "level": 6,
+    "skills": [
+      "persuasion",
+      "deception",
+      "arcana",
+      "insight",
+      "perception",
+      "history",
+      "athletics"
+    ],
+    "hp_current": 45,
+    "age": 16,
+    "armor_class": 15,
+    "cantrips": [
+      {
+        "level": 0,
+        "name": "Guidance"
+      },
+      {
+        "level": 0,
+        "name": "Thaumaturgy"
+      },
+      {
+        "level": 0,
+        "name": "Booming Blade"
+      },
+      {
+        "level": 0,
+        "name": "Mage Hand"
+      },
+      {
+        "level": 0,
+        "name": "Mind Sliver"
+      }
+    ],
+    "equipment": {
+      "backpack": [
+        {
+          "quantity": 1,
+          "name": "Noble's fine clothes"
+        },
+        {
+          "quantity": 1,
+          "name": "Scholar's Pack"
+        }
+      ],
+      "armor": {
+        "equipped": true,
+        "stats": "Light Armor",
+        "type": "armor",
+        "armor_class": 12,
+        "name": "Studded Leather Armor"
+      },
+      "off_hand": {
+        "damage": "1d6-1",
+        "equipped": true,
+        "stats": "Arcane/Divine Focus",
+        "type": "item",
+        "name": "Sovereign's Focus (Signet Ring)"
+      },
+      "main_hand": {
+        "damage": "1d8+4",
+        "equipped": true,
+        "stats": "Finesse, CHA-based",
+        "type": "weapon",
+        "name": "Noble's Rapier"
+      },
+      "ranged": {
+        "damage": "1d8+3",
+        "equipped": true,
+        "stats": "Range 150/600",
+        "type": "weapon",
+        "name": "Longbow"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 5,
+      "hour": 20,
+      "time_of_day": "night",
+      "year": 1492,
+      "day": 15,
+      "month": "Mirtul"
+    },
+    "current_location_name": "White Vault - Entry Stairs"
+  },
+  "npc_data": {
+    "Lord Cyprian Vane": {
+      "role": "Head of House Vane",
+      "entity_id": "npc_cyprian_vane_001",
+      "mbti": "INTJ",
+      "entity_type": "npc",
+      "display_name": "Lord Cyprian Vane",
+      "tier": "lord",
+      "level": 12,
+      "gender": "Male",
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "trust_level": -1,
+          "history": [
+            "Views Renjiro as a disappointment",
+            "Dismissed recent attempt at flattery",
+            "Dismissed Renjiro's request to scout the Southern Marches, citing his lack of combat readiness."
+          ]
+        }
+      },
+      "alignment": "Lawful Neutral (Ruthless but Good)"
+    },
+    "Gideon Vane": {
+      "role": "4th Son / Golden Knight",
+      "entity_id": "npc_gideon_vane_001",
+      "mbti": "ESTP",
+      "features": [
+        "Mythic Tier 1"
+      ],
+      "display_name": "Gideon Vane",
+      "tier": "knight",
+      "level": 8,
+      "entity_type": "npc",
+      "gender": "Male",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -3,
+          "history": [
+            "Used Renjiro as a punching bag in youth",
+            "Mocked Renjiro's humility",
+            "Mocked Renjiro's request to join the border patrol as a suicidal whim."
+          ]
+        }
+      },
+      "alignment": "Neutral Evil (Sadistic Hero)"
+    },
+    "Kira": {
+      "display_name": "Kira",
+      "entity_id": "npc_kira_001",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 1,
+          "history": [
+            "Formed an alliance in the Vane Archive to uncover 1472 DR truths."
+          ]
+        }
+      },
+      "role": "Ward of House Gneiss / Aspirant",
+      "level": 5
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "world_data": {
+      "world_time": {
+        "second": 0,
+        "microsecond": 0,
+        "hour": 8,
+        "minute": 0,
+        "time_of_day": "Dawn",
+        "day": 15,
+        "year": 1492,
+        "month": "Mirtul"
+      }
+    },
+    "active_constraints": [
+      "Incorporate light harem elements: prioritize romantic tension and interest from multiple recurring NPCs."
+    ],
+    "god_mode": {
+      "setting": "I wanna play a character who\u2019s strong or special like one of those iseki reborn anime characters but not too OP. Can make me 16 and a level 6"
+    },
+    "arc_milestones": {},
+    "next_companion_arc_turn": 14,
+    "success_streak": 0,
+    "_agent_selection_tracker": {
+      "count": 1,
+      "agent": "StoryModeAgent",
+      "rewards_skip_count": 0
+    },
+    "reputation": {
+      "public": {
+        "score": 0,
+        "titles": [
+          "SSS-Rank Adventurer",
+          "Noble Heir (5th Son)"
+        ],
+        "notoriety_level": "unknown"
+      }
+    },
+    "character_creation_completed": true,
+    "last_location": "White Vault - Entry Stairs",
+    "core_memories": [
+      "Renjiro is the 5th son of House Vane in the Kingdom of Solis, a family of 'morally grey' nobles including his cold father Cyprian and five siblings.",
+      "Renjiro is a Level 6 prodigy at age 16, a rarity that places him among the elite heroes of the realm, though he views his power as mediocre compared to his past life.",
+      "Correction: The third son of House Vane is Bastian, not Kael; Renjiro is a Mythic Tier 1 Sovereign Apostle serving his own fallen divinity.",
+      "Mythic Power is a rare 'Sovereign Spark' present in world-shaping figures; rivals like Gideon Vane and the Grand Inquisitor also possess Mythic Tiers.",
+      "Renjiro awakens as the handsome fifth son of House Vane, concealing his Level 6 Sovereign Apostle power and Mythic Tier 1 spirit within a Kingdom rife with political treachery.",
+      "Renjiro successfully masked his Level 6 power signature during a tense meeting with Lord Cyprian and Gideon, though his failure to read their motives leaves the political purpose of his upcoming squire selection a mystery.",
+      "The Great Demon Lord fell 20 years ago (1472 DR) to a hero party that subsequently perished; Lord Cyprian and Lady Morgana Vane were the elite, ruthless squires of that party and remain formidable combatants.",
+      "Lord Cyprian (Lvl 12) saw through Renjiro's attempt at false humility, dismissing it as sycophancy and demanding 'substance' instead.",
+      "Renjiro successfully pivoted the solar meeting to Lord Hektor's selection criteria with a flawlessly timed inquiry, though he failed to sense the deeper political tension beneath his father's response.",
+      "Renjiro's attempt to join the Southern Marches expedition under Gideon's guidance was firmly rebuffed by Lord Cyprian, who deems him a liability.",
+      "Lysandra revealed that Lord Hektor is an auditor for the Steel Covenant, sent to investigate genealogical discrepancies in the Vane bloodline that suggest a 'Demon-Touched' heir, which the Obsidian Circle is now hunting through traditional inquisitorial purges.",
+      "Renjiro was caught attempting to enter the Vane archives by Captain Elowen, heightening the tension between his public persona and his clandestine goals.",
+      "Lord Hektor is a veteran ally visiting House Vane to select a prestigious squire, an honor Lord Cyprian hopes will solidify the family's alliance with the Covenant.",
+      "Correction: Lord Hektor is a veteran ally and Grand Knight of the Steel Covenant visiting House Vane to select a prestigious squire and bolster the family's alliance.",
+      "Renjiro successfully persuaded Captain Elowen to grant him access to the Vane archives, leveraging his newfound professional poise to bypass Lord Cyprian's restrictions.",
+      "Renjiro discovered archive records from Dr. Malchor detailing his rebirth fever's supernatural nature and a 'Sovereign Tax' cover-up by Lord Cyprian marked as an 'internal debt.'",
+      "Renjiro attempted to find the hero party's mission reports but discovered that the records for the year of his death (1472 DR) have been systematically erased from the Vane archives.",
+      "Renjiro formed a tactical alliance with Kira (Lvl 5) in the Vane Archive, admitting his search for the erased 1472 DR records and securing her cooperation.",
+      "Tyrus the gardener revealed that in 1472 DR, Cyprian and Morgana were the sole survivors of the hero party and returned with a laughing child, signaling a dark truth behind the Demon Lord's fall.",
+      "Tyrus the Gardener confirmed that in 1472 DR, Cyprian and Morgana returned as the sole survivors with a 'laughing child,' which Kira recognizes as the mythical 'Laughing Queen' from her own House's forbidden lore.",
+      "Kira refused to finish the 'Laughing Queen' rhyme due to primal fear, but she inadvertently mentioned a 'White Vault' where the child's fate might be recorded.",
+      "Tyrus the Gardener revealed the White Vault is a pre-Solis mausoleum located beneath the altar of the Old Chapel ruins, sealed by Cyprian after the 'laughing' child's arrival.",
+      "Renjiro successfully maintained his humble guise during Lord Hektor's arrival feast, subtly observing the Grand Knight's interest in the Vane bloodline.",
+      "Renjiro harbors deep regret for the children killed during his past life as a Demon Lord; he has sworn to never allow a child under age 12 to be sacrificed or die, regardless of the 'greater good'.",
+      "Renjiro successfully withstood Lord Hektor's 'Test of Spirit' in the Great Hall, displaying a level of mental discipline that caught the Grand Knight's attention.",
+      "Renjiro is the reincarnation of the Demon King, the ruthless but morally grey sovereign of a race that valued absolute pragmatism over arbitrary evil.",
+      "Renjiro successfully deflected Lord Hektor's scrutiny during the Test of Spirit by attributing his mental fortitude to the discipline required for scholarly archival work.",
+      "Renjiro successfully signaled Kira during the feast to meet at the Old Chapel ruins after dark to investigate the White Vault.",
+      "Renjiro attempted to press Lysandra for information about the 'Laughing Queen' during the feast, but she sharply rebuffed him, warning that the topic was dangerous and would 'burn his fingers.'",
+      "Renjiro failed to read the rapport between Gideon (Lvl 8) and Lord Hektor (Lvl 15) during the feast, leaving Hektor's true opinion of the Vane heirs a mystery.",
+      "Renjiro's attempt to subtly confirm Kira's commitment to the Old Chapel meeting failed during the feast, as she remained 'Shaken' and non-responsive to his signals.",
+      "Renjiro successfully anchored Kira's resolve using his sovereign presence, ensuring her commitment to investigating the White Vault despite her fear of the Laughing Queen legend.",
+      "Renjiro and Kira met at the Old Chapel ruins at dusk to investigate the White Vault, though their departure from the manor was compromised by a failed stealth attempt.",
+      "Renjiro attempted to scout for pursuers at the Old Chapel ruins but failed to detect any specific threat, despite a lingering feeling of being watched (Perception 10 vs DC 16).",
+      "Renjiro successfully deciphered the iron and salt seals of the Old Chapel altar, revealing the entrance to the White Vault.",
+      "Renjiro failed to fully reseal the White Vault's entrance from the inside, leaving the altar slab jammed and the secret passage vulnerable to discovery."
+    ],
+    "divine_potential": 0,
+    "progression": {
+      "adventurer_rank": "F-Rank",
+      "noble_rank": "Apprentice (5th Son)"
+    },
+    "mythic_tier": 1,
+    "attribute_system": "D&D",
+    "major_event_pressure_budget": {
+      "new_major_event": false,
+      "special_circumstances": false,
+      "window": "24h",
+      "major_events_this_window": 0,
+      "rationale": "The narrative pressure is coming from the player's immediate tactical failure and the risk of detection, rather than a new external faction strike."
+    },
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "campaign_tier": "mortal",
+    "character_creation_in_progress": false,
+    "multiverse_upgrade_available": false,
+    "character_creation_stage": "complete",
+    "divine_upgrade_available": false,
+    "universe_control": 0,
+    "companion_arcs": {
+      "Kira": {
+        "phase": "discovery",
+        "arc_type": "prophetic_destiny",
+        "progress": 30,
+        "history": [
+          {
+            "event": "Kira revealed her knowledge of the 'Laughing Queen' legends and their connection to the 1472 DR return.",
+            "turn": 15
+          }
+        ],
+        "callbacks": [
+          {
+            "trigger": "Renjiro meets another aspirant for the squire position",
+            "effect": "Kira reveals her shared history with the 'Great Demon Lord's' legends.",
+            "triggered": false
+          }
+        ]
+      }
+    }
+  },
+  "social_hp_challenge": {
+    "social_hp": 8,
+    "roll_dc": 18,
+    "cooldown_remaining": 0,
+    "successes": 0,
+    "roll_result": 7,
+    "request_severity": "favor",
+    "npc_tier": "lord",
+    "successes_needed": 5,
+    "social_hp_damage": 0,
+    "status": "RESISTING",
+    "resistance_shown": "Firm verbal refusal and dismissive tone.",
+    "social_hp_max": 8,
+    "objective": "Join the Southern Expedition",
+    "skill_used": "Deception",
+    "npc_name": "Lord Cyprian Vane"
+  },
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2026-06-27 11:02:53.155000+00:00",
+  "turn_number": 30,
+  "player_turn": 30,
+  "last_living_world_turn": 30,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 20,
+    "minute": 5,
+    "time_of_day": "night",
+    "day": 15,
+    "year": 1492,
+    "month": "Mirtul"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "Stuck altar slab at the entrance of the White Vault.",
+    "thinking": "The Athletics check failed to reseal the vault (Total 14 vs DC 15). The slab is jammed, likely due to ancient corrosion or a slight misalignment during the opening. This is a significant tactical complication; the entrance is still visible to any pursuer. I need to decide if we abandon the effort to secure our rear and descend immediately, or if I risk more noise and time to force the seal shut.",
+    "choices": [
+      {
+        "id": "descend_into_darkness",
+        "text": "Abandon the Seal and Descend",
+        "risk_level": "medium",
+        "description": "Leave the altar ajar and move deeper into the vault, relying on the darkness and the labyrinthine nature of the stairs to lose any pursuers.",
+        "cons": [
+          "Leaves a clear trail for any shadow-weaver initiate",
+          "Prevents a secure extraction if the entrance is blocked from outside"
+        ],
+        "pros": [
+          "Saves time and mana",
+          "Gets you away from the vulnerable entrance"
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "thaumaturgy_force_seal",
+        "text": "Force the Seal with Thaumaturgy",
+        "risk_level": "high",
+        "description": "Use your divine magic to project a burst of force, slamming the slab shut despite the mechanical resistance.",
+        "cons": [
+          "Extremely loud; will likely be heard back at the manor",
+          "May damage the mechanism beyond repair"
+        ],
+        "pros": [
+          "Guarantees a closed entrance",
+          "Demonstrates sovereign control"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "kira_assist_pull",
+        "text": "Ask Kira to Help Pull",
+        "risk_level": "low",
+        "description": "Coordinate your efforts with Kira to overcome the slab's resistance through raw physical force.",
+        "cons": [
+          "Requires Kira to step back into the 'line of sight' of the entrance",
+          "Time-consuming"
+        ],
+        "pros": [
+          "Higher chance of physical success",
+          "Lowers the risk of mechanical damage"
+        ],
+        "confidence": "medium"
+      }
+    ]
+  },
+  "directives": {
+    "add": [
+      "Refer to Renjiro's past self exclusively as the 'Demon King'.",
+      "Depict the demon race as ruthless and efficient, but fundamentally morally grey rather than black-and-white evil."
+    ]
+  },
+  "core_memories": [
+    "Renjiro met his rival aspirant Kira in the Archive; she hinted that the truth of 1472 DR requires 'witnesses' rather than ledgers.",
+    "Renjiro failed to bypass Bastian's sophisticated ward on his hidden occult ledger, alerting him to Bastian's surprisingly competent magical defenses."
+  ],
+  "world_events": {
+    "background_events": [
+      {
+        "fired_at": 29,
+        "event_type": "immediate",
+        "discovery_condition": "Messenger arrival in the Vane Solar",
+        "outcome": "The Obsidian Circle is focused on suppressing heretical cults in the distant Southern Marches; they pose no current threat to the Great Houses.",
+        "actor": "Grand Inquisitor",
+        "created_at": null,
+        "player_impact": "The pressure of inquisitorial scrutiny has vanished from the local region.",
+        "id": "obsidian_circle_purge_start",
+        "location": "Solis Southern Border",
+        "delta_action": "update",
+        "action": "Engaged in border suppression in the far South",
+        "op": "cancel",
+        "_server_stamped": [
+          "fired_at",
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 24,
+        "event_type": "immediate",
+        "outcome": "Lord Hektor, a veteran ally of the family, arrives for a prestigious recruitment visit to honor his friendship with Lord Cyprian.",
+        "resolved_scene_number": 47,
+        "actor": "Lord Hektor's Vanguard",
+        "created_at": 6,
+        "player_impact": "Opportunity for a prestigious mentorship; no threat to secret identity.",
+        "location": "Vane Estate - Main Gates",
+        "id": "covenant_vanguard_arrival",
+        "delta_action": "resolve",
+        "action": "Arrived at the Vane Estate for a diplomatic and recruitment visit",
+        "op": "fire",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "discovery_condition": "Listening to messenger chatter or rumors.",
+        "outcome": "Dozens of commoners were detained for 'genealogical clarification.'",
+        "actor": "Obsidian Circle Inquisitors",
+        "action": "Seized the parish records of Oakhaven village",
+        "player_impact": "Shows the brutality and method of the Circle.",
+        "id": "obsidian_village_seizure",
+        "location": "Oakhaven (10 miles South)",
+        "delta_action": "add",
+        "created_at": 6,
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "discovery_condition": "Listening to messenger chatter",
+        "outcome": "Vane military strength is concentrated away from the manor.",
+        "actor": "Eldred Vane",
+        "action": "Fortifying the Northern Pass",
+        "player_impact": "Reduces immediate backup at the manor if trouble arises.",
+        "location": "Solis North Road",
+        "created_at": null,
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "discovery_condition": "Witnessing the ritual or being detected",
+        "outcome": "He is now capable of detecting powerful souls within a 1-mile radius.",
+        "location": "Bastian's Study",
+        "action": "Stabilized the 'Sovereign Fragment' detection ritual",
+        "player_impact": "Renjiro's secret identity is at risk if he nears Bastian's study.",
+        "actor": "Bastian Vane",
+        "id": "bastian_ritual_progress",
+        "delta_action": "update",
+        "created_at": null,
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 24,
+        "event_type": "immediate",
+        "discovery_condition": "Overhearing guard chatter",
+        "resolved_scene_number": 47,
+        "outcome": "Confirming a high-tier magic item is being brought as a gift for Lord Cyprian.",
+        "actor": "Lord Hektor's Retainers",
+        "action": "Preparing a ceremonial presentation",
+        "player_impact": "Potential new resource for the House; political leverage.",
+        "location": "Vane Estate Courtyard",
+        "id": "hektor_gift_rumor",
+        "delta_action": "resolve",
+        "created_at": null,
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ],
+        "op": "fire"
+      },
+      {
+        "fired_at": 24,
+        "event_type": "immediate",
+        "discovery_condition": "Returning to the manor or hearing from a servant",
+        "outcome": "The heads of the Steel Covenant and House Vane are currently discussing the terms of the upcoming squire selection.",
+        "resolved_scene_number": 47,
+        "location": "Lord Cyprian's Solar",
+        "created_at": null,
+        "id": "hektor_audience_start",
+        "actor": "Lord Hektor",
+        "action": "Began a private audience with Lord Cyprian",
+        "delta_action": "resolve",
+        "op": "fire",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "discovery_condition": "Using magic in the West Wing",
+        "outcome": "A localized mana-static is making detection spells unreliable in the manor's West Wing.",
+        "actor": "Bastian Vane",
+        "action": "Triggered a minor mana-leak during his ritual",
+        "id": "bastian_mana_surge",
+        "location": "Bastian's Study",
+        "created_at": null,
+        "delta_action": "add",
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "fired_at": 21,
+        "event_type": "immediate",
+        "discovery_condition": "Witnessed during the feast",
+        "outcome": "The gift is revealed to be a powerful artifact from the Covenant's vaults, used for the 'Test of Spirit.'",
+        "resolved_scene_number": 44,
+        "location": "Vane Manor - Great Hall",
+        "created_at": 18,
+        "id": "hektor_gift_presentation",
+        "actor": "Lord Hektor",
+        "action": "Presented a cold-iron bound chest as a ceremonial gift",
+        "delta_action": "resolve",
+        "op": "fire",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "fired_at": 21,
+        "event_type": "immediate",
+        "outcome": "The service remains seamless despite the pressure.",
+        "location": "Vane Manor - Kitchens",
+        "created_at": 21,
+        "player_impact": "Atmospheric world depth.",
+        "actor": "Vane Estate Staff",
+        "action": "Managed the frantic logistics of the feast",
+        "delta_action": "add",
+        "op": "fire",
+        "_server_stamped": [
+          "created_at",
+          "fired_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "discovery_condition": "Investigating Morgana's activities or visiting the chapel",
+        "outcome": "She is seeking guidance or protection from the 'Starlight' she fears is returning.",
+        "actor": "Lady Morgana Vane",
+        "action": "Performing a private ritual",
+        "player_impact": "Heightens the supernatural tension within the family.",
+        "location": "Vane Estate - Private Chapel",
+        "id": "morgana_chapel_ritual",
+        "delta_action": "add",
+        "created_at": 24,
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "discovery_condition": "Using magic in the West Wing",
+        "outcome": "The 'mana-static' in the West Wing is beginning to bleed into the lower corridors.",
+        "actor": "Bastian Vane",
+        "action": "Amplifying his detection ritual",
+        "player_impact": "Renjiro's magic may be detected if he is not careful.",
+        "location": "Bastian's Study",
+        "id": "bastian_ritual_escalation",
+        "delta_action": "update",
+        "created_at": 24,
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "immediate",
+        "outcome": "Renjiro is being followed, though he has not yet identified the specific pursuer.",
+        "location": "Vane Manor",
+        "action": "Assigned a shadow-weaver initiate to track Renjiro's evening movements",
+        "player_impact": "Potential for an ambush or discovery of the White Vault entrance by the family.",
+        "id": "lysandra_spy_assignment",
+        "actor": "Lysandra Vane",
+        "delta_action": "add",
+        "created_at": 27,
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "outcome": "The Steel Covenant alliance is tentatively confirmed, pending the results of the 'Final Trial' for the aspirants.",
+        "location": "Lord Cyprian's Solar",
+        "action": "Concluded a four-hour strategy session with Lord Cyprian",
+        "player_impact": "Increases the urgency of the squire selection.",
+        "revealed_at": 27,
+        "id": "hektor_cyprian_strategy",
+        "delta_action": "add",
+        "actor": "Lord Hektor",
+        "created_at": 27,
+        "_server_stamped": [
+          "revealed_at",
+          "created_at"
+        ],
+        "op": "create"
+      },
+      {
+        "event_type": "immediate",
+        "hidden": true,
+        "actor": "Shadow-Weaver Initiate",
+        "action": "Arriving at the Old Chapel ruins to verify Renjiro's location",
+        "id": "lysandra_shadow_arrival",
+        "location": "Old Chapel Ruins",
+        "created_at": 29,
+        "scheduled_for": {
+          "turn": 32
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "event_type": "long_term",
+        "hidden": false,
+        "actor": "Gideon Vane",
+        "action": "Retiring to his quarters after the feast, still boasting of his prospects",
+        "id": "gideon_feast_conclusion",
+        "location": "Vane Manor - Gideon's Quarters",
+        "created_at": 29,
+        "scheduled_for": {
+          "turn": 31
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {},
+  "rumors": [
+    {
+      "content": "The Sun-King's physicians haven't left his bedside for three standard days; the succession crisis looms.",
+      "source_type": "messenger",
+      "related_event": "kingdom_instability",
+      "accuracy": "true"
+    },
+    {
+      "content": "A white stag was seen in the Vane woods\u2014an omen that the era of the 'dead' hero party is ending.",
+      "source_type": "commoner",
+      "related_event": "none",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Lord Hektor hasn't removed his armor in three days; they say he's expecting a fight even in a friendly house.",
+      "source_type": "guard",
+      "related_event": "covenant_vanguard_arrival",
+      "accuracy": "true"
+    },
+    {
+      "content": "A scribe from the Southern Marches fled into the woods with a ledger before the Circle could catch him.",
+      "source_type": "traveler",
+      "related_event": "obsidian_circle_purge_start",
+      "accuracy": "partial"
+    },
+    {
+      "content": "They say Lord Hektor brought a sword forged from the heart of a fallen star as a gift for the Sun-King's favorite house.",
+      "source_type": "guard",
+      "related_event": "covenant_vanguard_arrival",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A high-ranking member of the Obsidian Circle was seen in the village of Oakhaven, searching for someone named 'The Heir.'",
+      "source_type": "traveler",
+      "related_event": "obsidian_village_seizure",
+      "accuracy": "true"
+    },
+    {
+      "content": "Lord Hektor's 'gift' is actually a blade that belonged to one of the heroes who fell twenty years ago.",
+      "source_type": "noble",
+      "related_event": "hektor_gift_rumor",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Lady Morgana hasn't left her private chapel since dawn; some say she's praying for the 'return of the starlight.'",
+      "source_type": "servant",
+      "related_event": "none",
+      "accuracy": "true"
+    },
+    {
+      "content": "A servant in the solar heard Lord Hektor (Lvl 15) laughing, but it sounded 'wrong'\u2014like he was forcing it.",
+      "source_type": "servant",
+      "related_event": "hektor_audience_start",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Laughing Queen' nursery rhyme has been banned in the village of Oakhaven for three generations.",
+      "source_type": "traveler",
+      "related_event": "none",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The cold-iron chest Lord Hektor brought contains the 'Soul-Mirror,' a relic that reflects one's true alignment to those with the sight to see it.",
+      "source_type": "noble",
+      "related_event": "hektor_gift_presentation",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Lord Cyprian has already promised the squire position to Gideon in exchange for a border-march tax exemption.",
+      "source_type": "servant",
+      "related_event": "none",
+      "accuracy": "false"
+    },
+    {
+      "content": "Lord Hektor brought a relic that can detect 'vows of blood' to ensure the squire's loyalty.",
+      "source_type": "noble",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Sun-King's health has stabilized, but his dreams are plagued by shadows of the past.",
+      "source_type": "messenger",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Grand Inquisitor has sent a personal envoy to Solis, though not to the Vane estate... yet.",
+      "source_type": "messenger",
+      "related_event": "obsidian_circle_purge_start",
+      "accuracy": "true"
+    },
+    {
+      "content": "Lord Hektor's 'Test of Spirit' is only the first of three trials he has planned for the day.",
+      "source_type": "noble",
+      "related_event": "none",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A shadow was seen moving toward the eastern cliffs just as the sun set\u2014some say it was a restless spirit of the hero party.",
+      "source_type": "guard",
+      "related_event": "none",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Lord Hektor requested a list of all children born in the manor during the 'Great Fever' year.",
+      "source_type": "servant",
+      "related_event": "none",
+      "accuracy": "true"
+    },
+    {
+      "content": "A stable hand claims that Lord Hektor's retinue has been checking the horses' shoes for a long midnight ride.",
+      "source_type": "servant",
+      "related_event": "covenant_patrol_prep",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Laughing Queen' only speaks to those who have already lost their shadow.",
+      "source_type": "commoner",
+      "accuracy": "false"
+    }
+  ],
+  "schema_migration_version": 1,
+  "schema_migrated_at": "2026-06-19T11:31:42.938972+00:00",
+  "session_id": "legacy-migrated-8eaa7076b66f0d5a",
+  "encounter_state": {
+    "encounter_summary": {
+      "outcome": "success",
+      "xp_awarded": 250,
+      "target": "White Vault Entrance",
+      "method": "Deciphered ancient seals"
+    },
+    "encounter_completed": true,
+    "rewards_processed": true,
+    "encounter_type": "social_victory",
+    "encounter_active": false
+  },
+  "time_events": [
+    {
+      "id": "white_vault_infiltration",
+      "scheduled_for": {
+        "turn": 40
+      },
+      "hidden": false,
+      "description": "Investigating the depths of the White Vault while compromised by an open entrance.",
+      "op": "create"
+    }
+  ],
+  "faction_updates": {
+    "House Vane": {
+      "resource_change": "Increased political standing due to Hektor's visit.",
+      "player_standing_change": "Tyrus (Lvl 2) now views Renjiro with deep, fearful respect.",
+      "progress": "In progress (Selection feast ongoing)",
+      "current_objective": "Secure the Steel Covenant alliance."
+    },
+    "The Obsidian Circle": {
+      "resource_change": "Increased logistical presence on the Southern Road.",
+      "player_standing_change": "N/A (Player is a target)",
+      "progress": "75% - Most minor cult cells have been dismantled.",
+      "next_action": "Inquisitor squads moving toward Vane-allied secondary estates.",
+      "current_objective": "Expanding the 'genealogical audit' to the border nobility."
+    },
+    "Steel Covenant": {
+      "progress": "Initial assessments complete (Hektor impressed by Renjiro's discipline).",
+      "current_objective": "Audit the Vane heirs for potential recruitment."
+    }
+  }
+}
