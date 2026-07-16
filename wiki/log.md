@@ -1,3 +1,11 @@
+## [2026-07-15] ingest | Full-Disk Diagnosis Runs Top-Down and Bottom-Up Concurrently
+
+Key claims: bottom-up-only cleanup reports systematically under-explain disk usage on large SSDs; correct diagnosis requires concurrent top-down/delta/bottom-up lanes; core identity `physical allocation - readable directory allocation = residual` where residual is not automatically backups/snapshots/waste. Verified 931.840 GiB total reconciled with 168.552 GiB permission-gapped residual (no Time Machine destination, zero Data snapshots). New default behavior for disk_magician skill. Bead: jleechan-rvqz.
+
+## [2026-07-15] ingest | Full-Disk Diagnosis Runs Top-Down and Bottom-Up Concurrently
+
+Key claims: bottom-up-only cleanup reports systematically under-explain disk usage on large SSDs; correct diagnosis requires concurrent top-down/delta/bottom-up lanes; core identity `physical allocation - readable directory allocation = residual` where residual is not automatically backups/snapshots/waste. Verified 931.840 GiB total reconciled with 168.552 GiB permission-gapped residual (no Time Machine destination, zero Data snapshots). New default behavior for disk_magician skill. Bead: jleechan-rvqz.
+
 ## [2026-07-12] ingest | Hermes Slack credential rotation needs three token classes + full scope baseline
 
 **Key claims:**
