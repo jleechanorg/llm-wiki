@@ -6548,3 +6548,11 @@ Jeffrey oracle: NO
 ## [2026-07-11] ingest | agy auth is durable in macOS Keychain; never recommend interactive login before verifying
 ## [2026-07-11] ingest | Verify auth state with two probes before recommending re-login
 ## [2026-07-12] ingest | Thin-skill-command migration learnings (6 sources)
+## [2026-07-17] ingest | Doc-stated safety policy must be code-enforced, not just written
+## [2026-07-17] ingest | AGY provider verified working on origin/main (2d65754fa3)
+Real-mode testing_mcp integration test 2/2 pass on fresh main; provider_mode=agy, server-owned roll_skill_check executed. Source: sources/project-2026-07-17-agy-provider-verified-on-main.md. Bead rev-qoi4q. Same session lesson: integrate.sh detached-HEAD hard stop — verify `git branch -a --contains HEAD`, then --force is loss-free.
+
+## [2026-07-17] ingest | DK2D sprite render postmortem — good atlases, unconfirmed downstream render bug
+Source: sources/2026-07-17-dk2d-sprite-render-postmortem.md — root's new visual baseline (/Users/jleechan/Documents/worldai 2d trim.mp4) is sibling worktree_worldai_2d LPC-overworld footage, not old DK2D. Real 576x256 walk-cycle atlases (arion/gratian) are genuinely good quality; the on-screen render defect is a downstream crop/scale bug (unconfirmed root cause), not bad source art. A separate deprecated 32x32 downscale-from-painting asset was self-documented FAIL by its own generating milestone but shipped to production 7h later anyway. Follow-up ironclad-criteria mission (bead wc-wh0t) spawned as a tmux sidekick.
+Bead: wc-wh0t
+Jeffrey oracle: NO
