@@ -6556,3 +6556,33 @@ Real-mode testing_mcp integration test 2/2 pass on fresh main; provider_mode=agy
 Source: sources/2026-07-17-dk2d-sprite-render-postmortem.md — root's new visual baseline (/Users/jleechan/Documents/worldai 2d trim.mp4) is sibling worktree_worldai_2d LPC-overworld footage, not old DK2D. Real 576x256 walk-cycle atlases (arion/gratian) are genuinely good quality; the on-screen render defect is a downstream crop/scale bug (unconfirmed root cause), not bad source art. A separate deprecated 32x32 downscale-from-painting asset was self-documented FAIL by its own generating milestone but shipped to production 7h later anyway. Follow-up ironclad-criteria mission (bead wc-wh0t) spawned as a tmux sidekick.
 Bead: wc-wh0t
 Jeffrey oracle: NO
+
+
+## Aggregated from per-project wikis (2026-07-18 09:30)
+
+## [2026-04-21] [from worldarchitect.ai] ingest | ZFC level-up proof vs cleanup merge order
+
+Added `wiki/sources/zfc-level-up-proof-and-merge-order-2026-04-21.md` and index entry under Sources.
+
+## [2026-04-21] [from worldarchitect.ai] ingest | Level-up repro learnings (VaD8, organic recon, five-class suite)
+
+Added `wiki/sources/level-up-repro-learnings-2026-04.md` and index entry under Sources.
+
+## [2026-04-21] [from worldarchitect-ai-autor] ingest | Level-up repro learnings (VaD8, organic recon, five-class suite)
+
+Added `wiki/sources/level-up-repro-learnings-2026-04.md` and index entry under Sources.
+
+## [2026-04-13] [from worldarchitect-public-wiki] restructure | Karpathy Pattern Migration
+Migrated from flat structure to wiki/ subdirectory pattern:
+- Created wiki/ subdirectory with index.md as primary catalog
+- Created wiki/sources/ for source pages
+- Created wiki/concepts/ with D&D 5e mechanic pages (12 files)
+- Created wiki/entities/ with faction/world entity pages (6 files)
+- Created wiki/sources/ with player guide source pages (9 files)
+- Created wiki/overview.md (living synthesis)
+- Created wiki/log.md (this file)
+- Created wiki/syntheses/ for saved query answers
+- Updated root-level index.md to redirect to wiki/index.md
+
+## [2026-07-19] ingest | Harness-surface consistency — sidekick team-only migration
+## [2026-07-19] ingest | Shipped without real-job validation — Mac ez-gh-actions virtiofs symlink regression
