@@ -6586,3 +6586,32 @@ Migrated from flat structure to wiki/ subdirectory pattern:
 
 ## [2026-07-19] ingest | Harness-surface consistency — sidekick team-only migration
 ## [2026-07-19] ingest | Shipped without real-job validation — Mac ez-gh-actions virtiofs symlink regression
+
+## [2026-07-20] ingest | Visenya V9 — Blood Dragon Apex Stalker (Dunk & Egg, 209 AC)
+- Source: `gog docs` Visenya campaigns v1-v8 + `~/llm_wiki/wiki/` brainstorm + 11 open WA PRs/issues
+- Created `wiki/sources/visenya-v9-blood-dragon-apex-stalker.md` (campaign wiki + 7-guardrail spec)
+- Created `wiki/concepts/BloodDragonReputationDie.md` (v9 reputation mechanic)
+- Created `wiki/concepts/WoundLedger.md` (v9 class mechanic)
+- Created `wiki/concepts/StressLineSight.md` (v9 Apex passive)
+- Created `wiki/entities/RooksRest.md` (Visenya's barony)
+- Source Google Doc: https://docs.google.com/document/d/11HohncqogJHQtIk0_JwsEuz7IsaLolFw1rM1mePM3Bw/edit
+- Local file: `/tmp/visenya-v9-campaign-bible.md` (55 KB, 514 lines, 11 sections)
+- Brainstorm session Slack: C0AH3RY3DK6/p1784584425.185909
+
+## [2026-07-20] ingest | Superpowers Cloud Build — install + 3rd-execution-mode spec
+- Source: `~/superpowers-cloud-build-main/` (v0.8.1, Prime Radiant) + Slack thread C09GRLXF9GR/p1784573431
+- Created `wiki/sources/superpowers-cloud-build-2026-07-20.md`
+- Created `wiki/entities/prime-radiant.md` (plugin author org)
+- Created `wiki/entities/cloud-superpowers-build.md` (remote build-host door)
+- Updated `wiki/index.md` Sources section
+- Companion: `~/roadmap/superpowers-cloud-build-2026-07-20.md` + memory `feedback_2026-07-20_superpowers_cloud_build_install_and_differences.md`
+
+
+## [2026-07-20] ingest | /super slash-command redirect — local router → Cloud Build dispatch
+- Source: `~/.claude/commands/super.md` rewrite (Mac + jeff-ubuntu, MD5 f8ca1dd5...) + Slack thread C09GRLXF9GR/p1784573431
+- Created `wiki/sources/super-slash-command-redirect-2026-07-20.md`
+- Created `wiki/commands/super.md` is the new canonical dispatch; companion `wiki/commands/superlight.md` (MD5 03c1f591...) preserved as legacy fallback
+- Re-pinned `~/.ssh/cloud-build/known_hosts` from bundled `assets/cloud-build-client-config-v0.json` (host-key rotated since last enrollment check 2026-07-16)
+- Compensating control: `/super` on jeff-ubuntu (unenrolled) auto-falls-through to `/superlight`; Mac keeps strict STOP-and-report
+- Outstanding: bastion returns `Permission denied (publickey)` post-host-key-fix; user must supply fresh enrollment code
+- Companion: `~/roadmap/superpowers-cloud-build-2026-07-20.md` + memory `feedback_2026-07-20_super_slash_command_redirect.md`
