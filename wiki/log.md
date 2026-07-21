@@ -6590,6 +6590,18 @@ Migrated from flat structure to wiki/ subdirectory pattern:
 ## [2026-07-20] ingest | Visenya V9 — Blood Dragon Apex Stalker (Dunk & Egg, 209 AC)
 - Source: `gog docs` Visenya campaigns v1-v8 + `~/llm_wiki/wiki/` brainstorm + 11 open WA PRs/issues
 - Created `wiki/sources/visenya-v9-blood-dragon-apex-stalker.md` (campaign wiki + 7-guardrail spec)
+
+## [2026-07-20] finalize | Visenya V9 — final design (Sanguine Thread + First Song + L20+ god campaign)
+- Source: brainstorming session Slack C0AH3RY3DK6/p1784584425.185909
+- Wrote spec: `docs/superpowers/specs/2026-07-20-visenya-v9-blood-dragon-campaign-design.md` (15 sections, ~7,400 words)
+- Created `wiki/concepts/SanguineThread.md` (replaces WoundLedger; lineage mechanic, 7-tier book transformation)
+- Created `wiki/concepts/MagicBarrierSystem.md` (First Song's prison; barrier decays as Reputation Die rises)
+- Created `wiki/concepts/FirstSong.md` (V6-Visenya as system feature; interdimensional exile; same god mechanics, gated by barrier)
+- Updated `wiki/concepts/BloodDragonReputationDie.md` (added Divine Rank coupling table + V6 mirror mechanic section)
+- Replaced `wiki/sources/visenya-v9-blood-dragon-apex-stalker.md` (final v9 design content)
+- Deleted `wiki/concepts/WoundLedger.md` (replaced by SanguineThread)
+- Updated `wiki/index.md` (Concepts section: SanguineThread, MagicBarrierSystem, FirstSong entries; Sources section: updated v9 entry)
+- Source Google Doc: https://docs.google.com/document/d/11HohncqogJHQtIk0_JwsEuz7IsaLolFw1rM1mePM3Bw/edit (pending re-write with final spec)
 - Created `wiki/concepts/BloodDragonReputationDie.md` (v9 reputation mechanic)
 - Created `wiki/concepts/WoundLedger.md` (v9 class mechanic)
 - Created `wiki/concepts/StressLineSight.md` (v9 Apex passive)
