@@ -1,1 +1,0 @@
-- **2026-06-23-qa-test-failure-dismissal-anti-pattern** — [Pre-existing verification must use exact same test name + same assertion + same file + same-SHA reproduction. PR #7854 lesson.](sources/qa-test-failure-dismissal-anti-pattern.md) — anti-pattern, bring-to-green, CI dismissal, same-test-name rule

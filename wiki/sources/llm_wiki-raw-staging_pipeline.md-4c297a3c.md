@@ -1,1 +1,0 @@
-full markdown for sources/smartclaw-staging-pipeline.md-4c297a3c.md with YAML frontmatter + summary + key claims

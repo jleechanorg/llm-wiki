@@ -1,1 +1,0 @@
-updated with MechanicalAgent pattern reference and design constraints
