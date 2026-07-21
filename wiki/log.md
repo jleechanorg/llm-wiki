@@ -6627,3 +6627,17 @@ Migrated from flat structure to wiki/ subdirectory pattern:
 - Compensating control: `/super` on jeff-ubuntu (unenrolled) auto-falls-through to `/superlight`; Mac keeps strict STOP-and-report
 - Outstanding: bastion returns `Permission denied (publickey)` post-host-key-fix; user must supply fresh enrollment code
 - Companion: `~/roadmap/superpowers-cloud-build-2026-07-20.md` + memory `feedback_2026-07-20_super_slash_command_redirect.md`
+
+## [2026-07-21] ship | Visenya V9 — world_reference/ PR merged to jleechanorg/worldarchitect.ai main
+- Source: fullrun directive (Slack C0AH3RY3DK6/p1784584425.185909); MERGE APPROVED on PR #8486
+- Created clean worktree at `/Users/jleechan/work/worldai-v9-worldreference/` from `origin/main` SHA `1e92f29c60`
+- Branch: `feat/visenya-v9-world-reference`
+- Single-scope commit: `bc495cc49fa9106c2871c91c0beb8e631a4987e0` (1 file, +308/-0)
+- File: `world_reference/campaign_module_visenya_blood_dragon_apex_stalker.md` (33,481 bytes)
+- PR: https://github.com/jleechanorg/worldarchitect.ai/pull/8486
+- Merge commit: `26995074324edd803b0c5dab53abc440dbbe95fb`
+- Merged at: 2026-07-21T00:43:30Z
+- Branch protection on main: NO required status checks, NO required approvals — merge succeeded despite Green Gate Precheck self-referential FAIL (gate fails because its children were skipped because it failed) and CodeRabbit rate-limited GATE-3 FAIL (documented pattern, not real content issue)
+- Real gate results: GATE-2 (mergeable) PASS, GATE-5 (comments resolved) PASS, GATE-6 (evidence) PASS (docs-only), GATE-6b SKIP (docs-only)
+- Used `wa-green-gate-pr-shape` skill to diagnose
+- Final state: v9 module is live on `jleechanorg/worldarchitect.ai` `main` branch
