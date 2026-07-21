@@ -1,70 +1,88 @@
 ---
 title: "Visenya V9 — The Blood Dragon Apex Stalker (Dunk & Egg, 209 AC)"
 type: source
-tags: [campaign, visenya, blood-dragon, apex-stalker, gloom-stalker, assassin, dunk-and-egg, maekar, worldarchitect, character-creation]
+tags: [campaign, visenya, blood-dragon, apex-stalker, gloom-stalker, assassin, dunk-and-egg, maekar, worldarchitect, character-creation, god-campaign, divine-rank]
 date: 2026-07-20
 source_file: https://docs.google.com/document/d/11HohncqogJHQtIk0_JwsEuz7IsaLolFw1rM1mePM3Bw/edit?usp=drivesdk
 campaign_slug: visenya-v9-blood-dragon-apex-stalker
 scene_total: 0
 status: design-doc
+spec: https://github.com/jleechanorg/llm-wiki/blob/main/docs/superpowers/specs/2026-07-20-visenya-v9-blood-dragon-campaign-design.md
 ---
 
 ## Summary
 
-Visenya v9 is a **Level 6 Apex Stalker (Gloom Stalker / Assassin gestalt)** set during the **Time of Dunk & Egg (209 AC)**. Visenya is the **youngest daughter of Prince Maekar Targaryen** (the youngest of King Daeron's four fighting sons), awarded the barony of **Rook's Rest** near King's Landing for clearing the Crownlands' bandit problem in a single campaigning season. Her reputation as "**The Blood Dragon**" comes from the smallfolk whisper that follows her name: ruthless, surgical, patient — *she does not parley*. The class is a deliberate tonal pivot from v1's *Dragon Scholar godling puppeteer* and v4–v6's *Apex Weaver godling diplomat*: **v9's apex is a godling executioner** who operates the perimeter, deciding which sentry's neck gets the blade.
+Visenya v9 is a **Level 6 Apex Stalker (Gloom Stalker / Assassin gestalt)** set during the **Time of Dunk & Egg (209 AC)**, with a **L20+ god-campaign arc (Divine Rank 0 → 16+)** that scales through seven tiers. Visenya is the **youngest daughter of Prince Maekar Targaryen** (the youngest of King Daeron's four fighting sons), awarded the barony of **Rook's Rest** near King's Landing for clearing the Crownlands' bandit problem in a single campaigning season. Her reputation as "**The Blood Dragon**" comes from the smallfolk whisper that follows her name: ruthless, surgical, patient — *she does not parley*.
 
-## Why v9 Exists (Brainstorm Provenance)
+The class is a deliberate tonal pivot from v1's *Dragon Scholar godling puppeteer* and v4-v6's *Apex Weaver godling diplomat*: **v9's apex is a godling executioner** who operates the perimeter, deciding which sentry's neck gets the blade. Apex lineage applied to **physical geometry** (Stress-Line Sight), not social geometry (Belaerys Information Geometry).
 
-Across 8 prior Visenya iterations the user has chased three recurring desires:
+The campaign ships as **one system with multiple emergent endings** — the player chooses the resolution at the table. The L20+ **First Song confrontation** is the climactic system feature, not a scripted plot point.
 
-1. **Hidden Apex blood** that mathematically outclasses everyone in the room — not louder, faster, smarter. Just *unfair* by design.
-2. **A mask / mortal anchor** that anchors her humanity — Ser Duncan in Dunk & Egg; Daenerys/Ser Davos/Rhaenys in the others.
-3. **A scaling tension** (Heat, Ascension Meter, Entropy Toll, Sovereign Power) — *something* that tracks "how much longer can this stay subtle?"
+## The Sanguine Thread (the lineage mechanic)
 
-v9 unifies these into one campaign bible and adds **seven hard guardrails** (Section 10 of the source doc) mapping the user's recurring frustrations to specific WA prompt-layer invariants. The guardrails reference **11 open issues/PRs in `jleechanorg/worldarchitect.ai`** that already touch the same surface area — v9 makes them addressable as a single spec rather than 11 separate fires.
+Replaces the v6 Entropy Toll. Visenya does not keep a book of sins; she **weaves her kills into a tapestry inside herself**. The Book of the Blood Dragon transforms at each tier: Red Ledger (guilt) → Wound Ledger (page-fills = Inspiration) → Book of Names (singing) → Tapestry (patrons) → Mantle of the Sanguine Slayer (Demi-God) → Mantle of the Radiant Slayer (God Ascent) → Thread Eternal (God Reign). The thread count is a *soft input* to Divine Rank; the Reputation Die is the *primary driver*.
 
-## Key Design Decisions
+The Sanguine Thread is the **V6 mirror mechanic** — V6 punished non-manipulation with Exhaustion; v9 *rewards* rising reputation with Divine Rank. The two are *opposite sides of the same coin*. V6-Visenya became the First Song.
 
-### Pivot 1: Don't replay "claim a dragon at level 6"
+## The Reputation Die → Divine Rank Coupling
 
-v1 (Dragon Scholar) and v6 (Apex Weaver) both earned their dragons at level 6. v9's apex **does not claim a dragon**. She *is* the dragon. Apex lineage, applied not to social geometry (godling puppeteer) but to **physical geometry** (which way the bolt will come, where the shadow falls, where the stress line cracks) — *the Blood Dragon is the dragon, in human form*.
+The Blood Dragon's Reputation Die is not just social flavor — it is the **primary engine of Visenya's divine ascension**. As her legend grows, magic itself responds:
 
-### Pivot 2: Assassin/Gloomstalker, not Bard/Mastermind
+| Reputation Tier | Divine Rank Bonus | Magic Barrier |
+|---|---|---|
+| Unrecognized | +0 | 100% sealed |
+| Recognized | +0 | 95% |
+| Feared | +0 | 80% |
+| Legend | +1 | 50% |
+| Myth | +2 | 20% |
+| God | +4 | 0% (the confrontation) |
 
-The v6 *Apex Weaver* was a Bard/Mastermind gestalt — power through social manipulation. v9 is **Ranger (Gloom Stalker) / Rogue (Assassin) gestalt** — power through *physical geometry*. The "Information Geometry" of the Belaerys blood becomes **Stress-Line Sight**: she perceives the structural weaknesses in a guard rotation, the exact moment a shadow falls, the precise angle at which light refracts off an arbalest bolt. **Same mathematical perception, different application.**
+## The First Song (V6-Visenya, the interdimensional exile)
 
-### Pivot 3: The CHA-substitution flips
+The First Song is V6-Visenya — the Blood Dragon who won her campaign, became divine, and 3000 years later has become *sadistic because bored*. She is an **interdimensional exile** who broke her own world by accident: V6-Visenya performed the Doom ritual, became a god, turned everyone in her world into "playthings" — but did not realize the cost was *the souls of every mortal in her world died*, becoming *zombie-souls*. Her world is a stage of puppets with no players.
 
-- v1 Dragon Scholar: CHA-based checks use INT or WIS (*charisma through intellect*)
-- v9 Apex Stalker: CHA-based checks use DEX or WIS (*you do not charm, you arrive uninvited at the exact moment you were not looking*)
+So she travels. The Doom was a door, not a catastrophe. She crosses to *our* world looking for sentience to play with. She uses **the same god mechanics Visenya has** — identical Stress-Line Sight, Sanguine Thread, Reputation Die, Divine Rank progression. The only difference is *level* (~L40+ equivalent) and *world*. She cannot fully manifest because the **Magic Barrier System** gates her.
 
-This is the *physical geometry* mirror of v1's *social geometry* trick.
+The First Song is present in the campaign from the start — as whispers in Yi Ti (L6-10), presence in dreams (L11-15), avatar in the Shadow Lands (L16-19), and full manifestation at L20+. The barrier decays as Visenya ascends; *she cannot stop it*. The First Song's return is *the price of becoming a god in this world*.
 
-### Pivot 4: The Wound Ledger (replaces v6's Entropy Toll)
+## The L20+ God Campaign (Archon Tier)
 
-v6's *Entropy Toll* made her suffer Exhaustion from *boredom* if she didn't manipulate. v9's *Wound Ledger* is the **virtue-into-vice inversion**: every kill *is* a sin, recorded in a literal red-leather book. At month roll 1–4 (on 1d20) the ledger *bleeds* — DC 14 WIS save or 1 Exhaustion; success = Temp HP equal to WIS mod. The ledger is **mechanical AND narrative**: a sin AND a tax, paid back as Temporary HP when the ledger is "balanced." Apex lineage turned *inward* — *the dragon files her own dead*.
+Inspired by Tyranny of Dragons Archon ranks — not copied:
 
-### Pivot 5: The Reputation Die (replaces v6's Heat System)
+| Tier | Rank Title | Mechanical Privilege |
+|---|---|---|
+| Demi-God (Ascent, L20) | The Initiate of the Blood (Archon of the First Circle) | Sovereign Sight; speak a name aloud and have it answer |
+| Lesser God (L21-22) | The Warden of the Rosby Road | Domain claim — Rook's Rest + 30 miles |
+| Lesser God (L23-24) | The Voice of the Doomed City | Manifest in the Doom's basalt as projection |
+| Intermediate God (L25-26) | The Apex That Walks | Manifest fully in <50% sealed locations |
+| Intermediate God (L27-28) | The Sovereign of the Sanguine Thread | Stress-Line Sight reads across centuries |
+| Greater God (L29-30) | The Twilight of the Dragon's Daughter | Bind the First Song's avatar for 1 hour |
+| Supreme God (L31+) | The Blood Dragon Ascendant (Solar-equivalent) | Full Divinity. The confrontation is unavoidable. |
 
-The Blood Dragon's name is a weapon. A rolling **d8 → d20 Reputation Die** tracks how towns know her (Unrecognized → Recognized → Feared → Legend). It only goes up on *evidence* (kill, hanging, public display), not rumors. The rumor becomes a **rhyme** at d20: *"The Blood Dragon rides at dusk / she does not parley, she does not trust / she asks one question: where do you hide / and then she goes inside."*
+**Two visual aspects at God (Ascent):** Sanguine Sovereign (alluring, terrifying, auto-succeed Charisma vs mortals) or Chitinous Ruin (frightening, DC 18 WIS or Frightened 1 hour).
 
-### Pivot 6: Dunk as the Ditchbond (the dramatic engine)
+## Four Emergent Endings (player choice at the table)
 
-Ser Duncan the Tall is the *only* retainer she respects. He is her **ditchbond** — the mortal anchor that keeps her from becoming a worse version of herself. A **campaign-specific bond meter** (0–10) tracks his growing trust in her *without* her ever saying what she is. The meter rises on her showing vulnerability (rare, painful for her). The dramatic engine is *his slow realization* — and her *deliberately giving him enough rope to hang his suspicions on, then pulling it back*, because she needs his honor more than she needs his ignorance.
+The campaign ships with **four documented endings**, but the player can invent more. No ending is canonical.
 
-## The Seven Guardrails (Section 10 of source doc)
+- **A) The Joining** — Visenya accepts the inheritance; the First Song passes through her.
+- **B) The Replacement** — Visenya kills the First Song; the lineage passes by violence.
+- **C) The Refusal** — Visenya breaks the Sanguine Thread; she stays mortal. The most human ending.
+- **D+) Player-defined** — e.g., Visenya kills the First Song AND refuses the inheritance; or binds the First Song as her servant; or ascends but loses Dunk (ditchbond meter breaks).
 
-| ID | Guardrail | Maps to | Status (2026-07-20) |
-|---|---|---|---|
-| **G1** | Strict scrying detection block — no NPC learns Visenya's Apex lineage via magic | [Issue #8468](https://github.com/jleechanorg/worldarchitect.ai/issues/8468), [PR #8469](https://github.com/jleechanorg/worldarchitect.ai/pull/8469) | Partial fix in flight |
-| **G2** | Anti-frictionless campaign / cost discipline | [PR #8387](https://github.com/jleechanorg/worldarchitect.ai/pull/8387), issues #8384, #8386, #8395, #8397, #8400 | Active investigation |
-| **G3** | NPC dialogue discipline (no silent monologues) | [Issue #8382](https://github.com/jleechanorg/worldarchitect.ai/issues/8382) | **Uncovered** — no merged fix |
-| **G4** | No out-of-lore antagonistic events | [PRs #8439](https://github.com/jleechanorg/worldarchitect.ai/pull/8439), [#8441](https://github.com/jleechanorg/worldarchitect.ai/pull/8441), [#8443](https://github.com/jleechanorg/worldarchitect.ai/pull/8443), [#8452](https://github.com/jleechanorg/worldarchitect.ai/pull/8452) | Partial fix in flight |
-| **G5** | Canonical state anchoring (no canonical-dead-NPC revival, no identity contradiction) | [PRs #8469](https://github.com/jleechanorg/worldarchitect.ai/pull/8469), [#8473](https://github.com/jleechanorg/worldarchitect.ai/pull/8473) | Partial fix in flight |
-| **G6** | God-mode / Apex-injection discipline (Stress-Line Sight ≠ Precognition) | [PR #8265](https://github.com/jleechanorg/worldarchitect.ai/pull/8265), [#8132](https://github.com/jleechanorg/worldarchitect.ai/pull/8132) | **Uncovered** — no open PR |
-| **G7** | Reputation die audit (no lore drift on her reputation) | Existing Heat System concept | **Uncovered** — no open PR |
+## Seven Hard Guardrails
 
-The 7 guardrails are the **v9 specification for the WA prompt layer**. Future prompt-fix PRs that touch the seven areas MUST reference this section. **3 of 7 (G1, G4, G5) have partial prompt-layer fixes already in flight.** G3, G6, G7 are uncovered.
+The v9 spec ships with 7 prompt-layer invariants (G1-G7) that map to **11 open WA issues/PRs**:
+
+| ID | Guardrail | Status |
+|---|---|---|
+| G1 | Anti-scrying | Partial fix ([#8469](https://github.com/jleechanorg/worldarchitect.ai/pull/8469)) |
+| G2 | Anti-frictionless cost discipline | Active investigation ([#8387](https://github.com/jleechanorg/worldarchitect.ai/pull/8387)) |
+| G3 | NPC dialogue discipline | **Uncovered** ([#8382](https://github.com/jleechanorg/worldarchitect.ai/issues/8382)) |
+| G4 | No out-of-lore antagonistic events | Partial fix ([#8443](https://github.com/jleechanorg/worldarchitect.ai/pull/8443)) |
+| G5 | Canonical state anchoring | Partial fix ([#8473](https://github.com/jleechanorg/worldarchitect.ai/pull/8473)) |
+| G6 | God-mode / Apex capability lock | **Uncovered** |
+| G7 | Reputation die audit | **Uncovered** |
 
 ## Player Character Snapshot
 
@@ -72,47 +90,28 @@ The 7 guardrails are the **v9 specification for the WA prompt layer**. Future pr
 **Age:** 16
 **Lineage:** Youngest daughter of Prince Maekar Targaryen; sister to Daeron, Aerion, and Aegon ("Egg")
 **Title:** Lady of Rook's Rest, Baroness of the Rosby-Kingsroad Choke, Knight-Commander of the Black Sept
-**Reputation:** "The Blood Dragon" (earned, not assumed — a rhyme, not a rumor)
-**Class:** Level 6 Apex Stalker (Ranger 6 / Rogue 6 gestalt)
+**Reputation:** "The Blood Dragon" (earned, not assumed)
+**Class:** Level 6 Apex Stalker (Ranger 6 / Rogue 6 gestalt) → L20+ Archon tier progression
 **Primary Stats:** DEX 18, WIS 16, INT 14, CHA 12, CON 13, STR 10
 **Initiative:** +7 (DEX +4 + WIS +3 Gloom Stalker)
-**Passive Perception:** 18
-**Signature Mechanics:** Stress-Line Sight, Wound Ledger, Apex Predator's Patience, Blood Dragon's Reputation
-**Panoply:** *Silencer* (+2 Longbow, Adamantine), *First-Severance* (+2 Rapier, Cold-Iron/Valyrian hybrid), the Wound Ledger, the Black Cloak
-**Retinue (the Black Sept, 50):** Ser Tommard Heddle, Mya Rivers, the Pyromancer Galen, Old Nan, Ser Duncan the Tall (the Ditchbond)
-
-## Starting Scene
-
-The Whispering Glade, Kingswood, 05:00:00. Visenya has been still for nine hours on a low branch of a stag-headed oak. The bandit captain is late. She is not worried; she is patient. The wound ledger has a blank page waiting.
-
-## Open Questions for the GM
-
-- Where do you want Aerion's first antagonist beat to land? (He's tried to kill her twice; both attempts ended with his men in the Ledger.)
-- Does the user's preference lean toward Choice B (the Diplomatic Knife) for the bandit-cell resolution, or the morally heavier Choice A (the Ledger)? Both are equally "Visenya" but produce very different campaign tones.
-- Should Old Nan be allowed to die in v9? She's the only retainer who ever told Visenya "no." Her death would force a real narrative cost; her survival preserves the only check on the Blood Dragon.
+**Signature Mechanics:** Stress-Line Sight, Sanguine Thread (lineage), Apex Predator's Patience, Blood Dragon Reputation Die
+**Panoply:** *Silencer* (+2 Longbow), *First-Severance* (+2 Rapier), the Book of the Blood Dragon, the Black Cloak
+**Retinue:** Black Sept (50), Ser Tommard Heddle, Mya Rivers, the Pyromancer Galen, Old Nan, Ser Duncan the Tall
 
 ## Provenance
 
-- **Brainstorm source:** [Jeff's Slack message](https://jleechanai.slack.com/archives/C0AH3RY3DK6/p1784584425.185909) (2026-07-20) — "Look at the Google Docs and /wiki-search my Visenya campaigns and brainstorm a way to make them more interesting or better for what I like and use Google cli and then design a Visenya v9 campaign and let's set it during the time of dunk and egg and make Visenya known as the blood dragon title and a level 6 assassin gloomstalker custom class", followed by mid-turn steering: "Make me the youngest daughter of the youngest son like Aegon 16 year old sister but I am awarded a barony near Kings landing for killing all the bandits and making roads safe but due to my ruthlessness I am called the blood dragon and make a wiki page in llm wiki repo ad link it here once you're down", followed by "Just make me a Targaryen but extremely beautiful and regal and a tier above and make strict guard rails against magical scrying detection and audits and random antagonistic events that don't fit lore and see if we made any PRs yet to fix this stuff"
-- **Source campaign bible (Google Doc):** https://docs.google.com/document/d/11HohncqogJHQtIk0_JwsEuz7IsaLolFw1rM1mePM3Bw/edit?usp=drivesdk
-- **Brainstorm session notes:** `/tmp/visenya-v9-campaign-bible.md` (local; 55 KB)
-- **Wiki version:** This page
-- **Predecessor versions:**
-  - [v1 Dunk & Egg wiki campaign](../sources/visenya-v1-dunk-and-egg-campaign.md) — Dragon Scholar, INT/WIS scholar
-  - [Visenya Belaerys entity](../entities/VisenyaBelaerys.md) — covers v2–v6
-  - [Apex Weaver concept](../concepts/ApexWeaver.md) — v5/v6 Bard/Mastermind gestalt
-  - [Dragon Scholar concept](../concepts/DragonScholar.md) — v1 class
-  - [Heat System concept](../concepts/HeatSystem.md) — v6 reputation mechanic (predecessor of v9's Reputation Die)
-  - [Shadow Knights concept](../concepts/ShadowKnights.md) — v6 godling subjugation
-  - [Obsession Paradox concept](../concepts/ObsessionParadox.md) — v6 NPC mechanic
+- **Brainstorm session Slack:** [C0AH3RY3DK6/p1784584425.185909](https://jleechanai.slack.com/archives/C0AH3RY3DK6/p1784584425.185909) (2026-07-20)
+- **Source spec:** `docs/superpowers/specs/2026-07-20-visenya-v9-blood-dragon-campaign-design.md`
+- **Source Google Doc:** https://docs.google.com/document/d/11HohncqogJHQtIk0_JwsEuz7IsaLolFw1rM1mePM3Bw/edit
+- **Brainstorm session file:** `/tmp/visenya-v9-campaign-bible.md` (local; 55 KB)
 
 ## Connections
 
 - [ApexWeaver](../concepts/ApexWeaver.md) — v5/v6 predecessor; v9 pivots from social geometry to physical geometry
-- [VisenyaBelaerys](../entities/VisenyaBelaerys.md) — Cross-version entity
-- [SerDuncanTheTall](../entities/SerDuncanTheTall.md) — The Ditchbond (v9 dramatic engine)
-- [HouseTargaryen](../entities/HouseTargaryen.md) — Maekar's line, 209 AC
-- [RooksRest](../entities/RooksRest.md) — The barony (NEW entity, created with v9)
-- [BloodDragon](../concepts/BloodDragon.md) — Reputation mechanic (NEW concept, evolved from Heat System)
-- [WoundLedger](../concepts/WoundLedger.md) — Class mechanic (NEW concept)
-- [StressLineSight](../concepts/StressLineSight.md) — Apex Stalker passive (NEW concept)
+- [VisenyaBelaerys](../entities/VisenyaBelaerys.md) — Cross-version entity; V6-Visenya is the First Song
+- [SanguineThread](../concepts/SanguineThread.md) — v9 lineage mechanic (replaces WoundLedger)
+- [BloodDragonReputationDie](../concepts/BloodDragonReputationDie.md) — v9 reputation mechanic
+- [MagicBarrierSystem](../concepts/MagicBarrierSystem.md) — The First Song's prison
+- [FirstSong](../concepts/FirstSong.md) — V6-Visenya as system feature
+- [RooksRest](../entities/RooksRest.md) — Visenya's barony
+- [StressLineSight](../concepts/StressLineSight.md) — Apex passive; the physical geometry mirror of v6's social geometry
