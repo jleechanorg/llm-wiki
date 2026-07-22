@@ -6641,3 +6641,5 @@ Migrated from flat structure to wiki/ subdirectory pattern:
 - Real gate results: GATE-2 (mergeable) PASS, GATE-5 (comments resolved) PASS, GATE-6 (evidence) PASS (docs-only), GATE-6b SKIP (docs-only)
 - Used `wa-green-gate-pr-shape` skill to diagnose
 - Final state: v9 module is live on `jleechanorg/worldarchitect.ai` `main` branch
+
+## [2026-07-21] ingest | Cloud Build (/super) enrollment verification — the cloud-bastion@ trap
