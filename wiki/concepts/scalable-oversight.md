@@ -29,6 +29,6 @@ ZFC Level-Up's core question — should backend code or the model decide level-u
 ## See Also
 - [RLAIF](RLAIF.md)
 - [[Constitutional-AI]]
-- [Debate](Debate.md)
-- [Recursive-Reward-Modeling](Recursive-Reward-Modeling.md)
+- [Debate](debate.md)
+- [Recursive-Reward-Modeling](recursive-reward-modeling.md)
 - [ZFC-Level-Up-Architecture](ZFC-Level-Up-Architecture.md)

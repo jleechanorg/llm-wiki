@@ -1,0 +1,3813 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "health": {
+      "hp_max": 150,
+      "hp": 150
+    },
+    "active_effects": [
+      "Sovereign Handicap (Filtered to Level 12)",
+      "Ocular Masking (Identity: Minor Uchiha)",
+      "Planar Invader (Dampened)",
+      "Infinite Tsukuyomi Relay (Dormant/Subspace)",
+      "Integrated Rinnegan (Subspace Access Only)",
+      "Peak Aesthetic: Extremely good looking, uncanny resemblance to 'Legendary Itachi'",
+      "Magnetic Resemblance (Uncanny): NPCs are obsessively drawn to your face and poise.",
+      "Chidori Variant: Hummingbird-Pulse (High-Frequency Low-Output)",
+      "Sovereign Experience: +5 to all rolls (Form Mastery)",
+      "Universal Jutsu Logic: Advantage vs Ninjutsu/Genjutsu",
+      "Ocular Pre-Calculation: +10 to Passive Perception/Insight",
+      "Zero-Point Erasure: Automatic counter-frequency jamming"
+    ],
+    "background": "Minor Uchiha Noble (Spoiled)",
+    "mbti": "INTJ",
+    "entity_id": "pc_itachi_001",
+    "display_name": "Itachi (Spoiled Scion)",
+    "class_name": "Uchiha Prodigy (Gestalt Assassin/Bladesinger)",
+    "attributes": {
+      "strength": 10,
+      "dexterity": 18,
+      "intelligence": 18,
+      "wisdom": 10,
+      "charisma": 14,
+      "constitution": 14
+    },
+    "proficiency_bonus": 9,
+    "status_conditions": [
+      "Masked Identity (Scholar)",
+      "Ocular Savant Reputation",
+      "Legend of the North Ridge",
+      "Reincarnation Rumor (Active)",
+      "Shadow-Relay: Synchronized (Ryu/Akane)"
+    ],
+    "race": "Uchiha",
+    "alignment": "Neutral Evil (Tyrant)",
+    "spells_known": [
+      {
+        "level": 1,
+        "name": "Fire Style: Great Fireball"
+      },
+      {
+        "level": 1,
+        "name": "Body Flicker"
+      },
+      {
+        "level": 1,
+        "name": "Replacement Technique (Shield)"
+      },
+      {
+        "level": 1,
+        "name": "Absorb Elements"
+      },
+      {
+        "level": 1,
+        "name": "Detect Magic"
+      },
+      {
+        "level": 1,
+        "name": "Mage Armor"
+      },
+      {
+        "level": 2,
+        "name": "Sharingan Afterimage (Mirror Image)"
+      },
+      {
+        "level": 2,
+        "name": "Genjutsu: Crow Illusion (Blur)"
+      },
+      {
+        "level": 2,
+        "name": "Paralyzing Gaze (Hold Person)"
+      },
+      {
+        "level": 2,
+        "name": "Misty Flicker (Misty Step)"
+      },
+      {
+        "level": 3,
+        "name": "Fire Style: Dragon Fire (Fireball)"
+      },
+      {
+        "level": 3,
+        "name": "Genjutsu: Nightmare (Fear)"
+      },
+      {
+        "level": 3,
+        "name": "Counter-Jutsu"
+      },
+      {
+        "level": 3,
+        "name": "Dispel Magic"
+      },
+      {
+        "level": 4,
+        "name": "Fire Style: Phoenix Flower (Wall of Fire)"
+      },
+      {
+        "level": 4,
+        "name": "Greater Invisibility"
+      },
+      {
+        "level": 4,
+        "name": "Confusion"
+      },
+      {
+        "level": 4,
+        "name": "Dimension Door"
+      },
+      {
+        "level": 5,
+        "name": "Fire Style: Great Dragon Fire (Immolation)"
+      },
+      {
+        "level": 5,
+        "name": "Mirror Heaven and Earth Change (Mislead)"
+      },
+      {
+        "level": 5,
+        "name": "Neural Lock (Hold Monster)"
+      },
+      {
+        "level": 5,
+        "name": "Far Step"
+      },
+      {
+        "level": 6,
+        "name": "Susanoo: Great Fireball (Chain Lightning)"
+      },
+      {
+        "level": 6,
+        "name": "Mental Prison"
+      },
+      {
+        "level": 6,
+        "name": "Disintegrate"
+      },
+      {
+        "level": 6,
+        "name": "Globe of Invulnerability"
+      },
+      {
+        "level": 7,
+        "name": "Fire Style: Sky Prison (Fire Storm)"
+      },
+      {
+        "level": 7,
+        "name": "Space-Time Displacement (Etherealness)"
+      },
+      {
+        "level": 8,
+        "name": "Mind Blank"
+      },
+      {
+        "level": 8,
+        "name": "Maze"
+      }
+    ],
+    "resources": {
+      "hit_dice": {
+        "used": 0,
+        "max": 8
+      },
+      "spell_slots": {
+        "level_7": {
+          "used": 0,
+          "max": 2
+        },
+        "level_9": {
+          "used": 0,
+          "max": 1
+        },
+        "level_5": {
+          "used": 0,
+          "max": 3
+        },
+        "level_1": {
+          "used": 0,
+          "max": 4
+        },
+        "level_6": {
+          "used": 0,
+          "max": 2
+        },
+        "level_2": {
+          "used": 0,
+          "max": 3
+        },
+        "level_4": {
+          "used": 0,
+          "max": 3
+        },
+        "level_8": {
+          "used": 0,
+          "max": 1
+        },
+        "level_3": {
+          "used": 0,
+          "max": 3
+        }
+      },
+      "experience": {
+        "current": 10000000
+      },
+      "kotoamatsukami": {
+        "used": 0,
+        "max": 1
+      },
+      "gold": {
+        "status": 950,
+        "value": 3450
+      },
+      "class_features": {
+        "kotoamatsukami": {
+          "used": 0,
+          "max": 1
+        },
+        "superior_soldier_pills": {
+          "used": 1,
+          "max": 3
+        },
+        "stroke_of_luck": {
+          "used": 0,
+          "max": 1
+        },
+        "mangekyou_uses": {
+          "used": 0,
+          "max": 6
+        },
+        "sovereign_efficiency": {
+          "used": 1,
+          "max": 3
+        }
+      },
+      "kunai": {
+        "used": 0,
+        "max": 20
+      },
+      "mangekyou_uses": {
+        "used": 0,
+        "max": 6
+      }
+    },
+    "experience": {
+      "needed_for_next_level": 10000000,
+      "current": 10000000,
+      "to_next_level": 0
+    },
+    "name": "Itachi",
+    "base_attributes": {
+      "strength": 24,
+      "dexterity": 30,
+      "intelligence": 40,
+      "wisdom": 24,
+      "charisma": 28,
+      "constitution": 40
+    },
+    "gender": "Male",
+    "spells_prepared": [
+      {
+        "level": 1,
+        "name": "Fire Style: Great Fireball"
+      },
+      {
+        "level": 1,
+        "name": "Replacement Technique"
+      },
+      {
+        "level": 2,
+        "name": "Sharingan Afterimage"
+      },
+      {
+        "level": 2,
+        "name": "Genjutsu: Crow Illusion"
+      },
+      {
+        "level": 3,
+        "name": "Fire Style: Dragon Fire"
+      },
+      {
+        "level": 3,
+        "name": "Genjutsu: Nightmare"
+      },
+      {
+        "level": 4,
+        "name": "Fire Style: Phoenix Flower"
+      },
+      {
+        "level": 4,
+        "name": "Greater Invisibility"
+      },
+      {
+        "level": 5,
+        "name": "Fire Style: Great Dragon Fire"
+      },
+      {
+        "level": 5,
+        "name": "Neural Lock"
+      },
+      {
+        "level": 6,
+        "name": "Susanoo: Great Fireball"
+      },
+      {
+        "level": 6,
+        "name": "Mental Prison"
+      },
+      {
+        "level": 7,
+        "name": "Fire Style: Sky Prison"
+      },
+      {
+        "level": 9,
+        "name": "Meteor Swarm (Planetary Strike)"
+      },
+      {
+        "level": 9,
+        "name": "Time Stop (Space-Time Mastery)"
+      }
+    ],
+    "hp_max": 150,
+    "hp": 150,
+    "level": 12,
+    "features": [
+      "Extra Attack (Bladesinger Cantrip Swap)",
+      "Sneak Attack (10d6)",
+      "Assassinate",
+      "Death Strike",
+      "Stroke of Luck",
+      "Bladesong",
+      "Song of Victory (+INT to melee damage)",
+      "Song of Defense",
+      "Spell Mastery (Shield, Misty Step)",
+      "Signature Spells (Dragon Fire, Counter-Jutsu)",
+      "Universal Jutsu Mastery (1,000 Worlds Knowledge)",
+      "Eternal Mangeky\u014d Sharingan",
+      "Amaterasu",
+      "Tsukuyomi",
+      "Perfect Susanoo (Uncapped)",
+      "Sovereign Peak (Level 100)",
+      "Rinnegan: All Paths Unlocked (Deva, Preta, Animal, Human, Asura, Naraka)",
+      "Sage of Six Paths Mastery",
+      "Outer Path: Rinne Tensei",
+      "Amenotejikara (Space-Time Swap 120ft)",
+      "Infinite Tsukuyomi Relay",
+      "Divine Harbor Ley-line Access"
+    ],
+    "hp_current": 150,
+    "age": 18,
+    "cantrips": [
+      {
+        "level": 0,
+        "name": "Fire Style: Ember"
+      },
+      {
+        "level": 0,
+        "name": "Crow Flicker"
+      }
+    ],
+    "skill_proficiencies": {
+      "proficiencies": [
+        "Acrobatics",
+        "Stealth",
+        "Insight",
+        "Perception",
+        "Persuasion"
+      ]
+    },
+    "equipment": {
+      "ring_1": {
+        "equipped": true,
+        "stats": "+1 to Ninjutsu Damage",
+        "bonus": 1,
+        "name": "Ring of Ash +1"
+      },
+      "ring_2": {
+        "equipped": true,
+        "stats": "+1 to Genjutsu DC",
+        "bonus": 1,
+        "name": "Ring of the Tyrant +1"
+      },
+      "belt": {
+        "equipped": true,
+        "stats": "+1 to Initiative",
+        "bonus": 1,
+        "name": "Imperial Utility Belt +1"
+      },
+      "hands": {
+        "equipped": true,
+        "stats": "+1 to Sleight of Hand",
+        "bonus": 1,
+        "name": "Imperial Wraps +1"
+      },
+      "main_hand": {
+        "damage_type": "slashing",
+        "stats": "1d6+25 slashing, +2d10 lightning, +5 to attack/damage, Ignore Resistance",
+        "status": null,
+        "bonus": 1,
+        "damage": "1d6+1",
+        "properties": [
+          "finesse",
+          "light"
+        ],
+        "equipped": true,
+        "type": "weapon",
+        "name": "Tant\u014d +1"
+      },
+      "feet": {
+        "equipped": true,
+        "stats": "+5ft Movement Speed",
+        "bonus": 1,
+        "name": "Imperial Sandals +1"
+      },
+      "ranged": {
+        "damage_type": "piercing",
+        "properties": [
+          "finesse",
+          "light",
+          "thrown"
+        ],
+        "damage": "1d4+1",
+        "bonus": 1,
+        "equipped": true,
+        "count": 20,
+        "type": "weapon",
+        "name": "Kunai +1"
+      },
+      "cloak": {
+        "equipped": true,
+        "stats": "+2 to AC and Saving Throws",
+        "bonus": 2,
+        "name": "Star-Aegis Commander's Cloak"
+      },
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        }
+      ],
+      "body": {
+        "equipped": true,
+        "stats": "No bonuses",
+        "ac": 11,
+        "type": "armor",
+        "bonus": 1,
+        "name": "Standard Shinobi Rags"
+      },
+      "off_hand": {
+        "damage_type": "slashing",
+        "status": null,
+        "properties": [
+          "finesse",
+          "light"
+        ],
+        "damage": "1d6+1",
+        "bonus": 1,
+        "equipped": true,
+        "type": "weapon",
+        "name": "Tant\u014d +1"
+      },
+      "head": {
+        "equipped": true,
+        "stats": "+1 to Spell Save DC",
+        "bonus": 1,
+        "name": "Shinobi Headband +1"
+      },
+      "neck": {
+        "equipped": true,
+        "stats": "+1 to all Saving Throws",
+        "bonus": 1,
+        "name": "Uchiha Pendant +1"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 15,
+      "microsecond": 0,
+      "minute": 40,
+      "hour": 10,
+      "time_of_day": "morning",
+      "year": 150,
+      "day": 13,
+      "month": "February"
+    },
+    "current_location_name": "Konoha Coliseum - Duel Arena"
+  },
+  "npc_data": {
+    "npc_akatsuki_rogue_001": {
+      "hp_current": 180,
+      "knowledge": {
+        "itachi_intel": "deleted"
+      },
+      "status": "Wounded (138/180); Memory Rewritten (Itachi is weak/lucky); Misdirected to Western Crags.",
+      "health": {
+        "hp": 180
+      }
+    },
+    "Naruto Uzumaki (Seventh Hokage)": {
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_naruto_boruto_001",
+      "role": "Hokage",
+      "tier": "god",
+      "level": 30
+    },
+    "Setsuna Uchiha": {
+      "entity_id": "npc_setsuna_001",
+      "status": "normal",
+      "mbti": "ENTP",
+      "display_name": "Setsuna Uchiha",
+      "tier": "knight",
+      "level": 10,
+      "political_disposition": "Expansionist",
+      "internal_notes": "Believes the Shogunate should claim the Western Continent; passively encourages youth zealotry.",
+      "alignment": "Chaotic Evil",
+      "role": "Grand Inquisitor"
+    },
+    "Izumi\u2014Good": {
+      "status": "Terminal Rage; Perfect Susanoo Active; Level 28",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10,
+          "history": [
+            "Witnessed the deletion and harvesting of her husband."
+          ]
+        }
+      }
+    },
+    "Ravens of the Eternal Star": {
+      "count": 11,
+      "status": "8/11 EMS Active",
+      "level": 18
+    },
+    "Hikaku Uchiha": {
+      "entity_id": "npc_hikaku_001",
+      "status": "normal",
+      "mbti": "INTP",
+      "display_name": "Hikaku Uchiha",
+      "tier": "knight",
+      "level": 10,
+      "role": "Sealing Master",
+      "alignment": "True Neutral"
+    },
+    "Kaito": {
+      "status": "Active; initiating planetary core detonation.",
+      "role": "Leader of the Soul-Fire Resistance",
+      "tier": "king_ancient",
+      "level": 30
+    },
+    "Hiruzen Sarutobi": {
+      "entity_id": "npc_hiruzen_001",
+      "status": "mentally_commanded",
+      "mbti": "ENFJ",
+      "hp_max": 250,
+      "tier": "king_ancient",
+      "level": 11,
+      "hp_current": 104,
+      "role": "Captive Successor",
+      "alignment": "Neutral Good"
+    },
+    "Hana Uchiha": {
+      "role": "Uchiha Consort",
+      "class_name": "Uchiha Sovereign (Pacifist)",
+      "status": "Tier 3 Consort (Subjugated)",
+      "mbti": "INTJ",
+      "display_name": "Hana",
+      "entity_id": "npc_hana_001",
+      "level": 12,
+      "tier": "noble",
+      "age": 18,
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -5,
+          "history": [
+            "Awakened Mangeky\u014d through the Way of Blood; rejects Itachi's 'machine' nature."
+          ]
+        }
+      },
+      "active_effects": [
+        "+2 to Stealth",
+        "+2 to Charisma"
+      ],
+      "alignment": "Neutral Evil"
+    },
+    "Naori Uchiha": {
+      "health": {
+        "hp_max": 220,
+        "hp": 150
+      },
+      "equipment": {
+        "main_hand": "Tant\u014d +1",
+        "body": "Imperial Vest +1",
+        "neck": "Uchiha Pendant +1"
+      },
+      "entity_id": "npc_naori_001",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "role": "Daughter / Primary Consort",
+          "history": [
+            "Raised in the Pit of the Star; fought 150 years of real wars at Itachi's command."
+          ],
+          "trust_level": 10
+        }
+      },
+      "entity_type": "npc",
+      "display_name": "Naori (The Red Widow)",
+      "location": "The Basalt Spire",
+      "status_conditions": [
+        "Frustrated",
+        "Mangeky\u014d-Blocked"
+      ],
+      "name": "Naori Uchiha",
+      "attitude_to_party": "antagonistic",
+      "visibility": "hidden",
+      "actual_level": 51,
+      "level_cap": 42,
+      "features": [
+        "Sovereign Bloom",
+        "EMS Mastery",
+        "Skeletal Susanoo: White Light",
+        "Total Submission Protocol",
+        "Secret Antagonist Protocol",
+        "Ocular Singularity (Hidden)",
+        "Crucible Harbinger Agenda",
+        "Secret Rinnegan (Six Paths of the Star)",
+        "Synthetic Zero-Tails Fragment (Infinite Negative Chakra)",
+        "Shadow-Leach Protocol",
+        "Sovereign Ocular Masking",
+        "EMS Synthesis Mastery",
+        "Zero-Tails Integration",
+        "Secret Rinnegan Variant",
+        "Leader of the White Light Cult"
+      ],
+      "tier": "god_primordial",
+      "hp_max": 700,
+      "level": 20,
+      "current_location": "loc_sovereign_sanctuary_001",
+      "hp_current": 220,
+      "age": 62,
+      "knowledge": [
+        "Layer 1: The Iron Knuckle - Aggressive Diplomacy Mask",
+        "Layer 2: The Red Harvest - Silent False-Flag Purges",
+        "Layer 3: The True Face - Crucible War Catalyst & Goddess Reveal"
+      ],
+      "masked_level": 20,
+      "role": "High Sentinel of Ash",
+      "active_effects": [
+        "Ocular Singularity - Advantage on Ocular saves/checks",
+        "Zero-Tails Fragment - Infinite negative-emotion chakra",
+        "Secret Rinnegan - Six Paths of the Star (Hidden)"
+      ],
+      "recent_decisions": [
+        "Deceptively accepted the Law of the Harbor to secure autonomy for the Crucible War catalyst.",
+        "Initiated the UCR Empowerment protocol.",
+        "Established the 'Red Harvest' false-flag network in the Archipelago."
+      ]
+    },
+    "Ky\u014dka": {
+      "status": "Surrendered / Spirit Broken",
+      "relationships": {
+        "player": {
+          "disposition": "broken",
+          "trust_level": -5,
+          "history": [
+            "Recognized Itachi as the God of the Crimson Star; lost all belief in freedom."
+          ]
+        }
+      }
+    },
+    "Sasuke Uchiha": {
+      "actual_level": 28,
+      "status": "Active; observing the North Gate ambush.",
+      "features": [
+        "Eternal Mangeky\u014d Sharingan Awakened",
+        "Heir of the Star"
+      ],
+      "display_name": "Sasuke (The Fallen Avenger)",
+      "level": 20,
+      "status_conditions": [
+        "Level Capped"
+      ],
+      "age": 37,
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 5,
+          "history": [
+            "Accepted the 'Reincarnation' theory as a biological necessity."
+          ]
+        }
+      },
+      "role": "Head of the Uchiha Clan / Shadow Hokage",
+      "equipment": {
+        "main_hand": "Kusanagi +1",
+        "body": "Imperial Vest +1",
+        "neck": "Uchiha Pendant +1"
+      }
+    },
+    "Shogunate Council": {
+      "social_hp": 4,
+      "status": "WAVERING"
+    },
+    "Shisui Uchiha II": {
+      "status": "Captured; held in Aetheric Dead-Zone"
+    },
+    "Saya-Ash": {
+      "role": "Ash Infiltrator",
+      "tier": "noble",
+      "age": 18,
+      "mbti": "ESTP",
+      "alignment": "Neutral Evil",
+      "active_effects": [
+        "+2 to Stealth",
+        "+2 to Charisma"
+      ],
+      "level": 12
+    },
+    "Naruto Uzumaki": {
+      "status": "Amused; politically motivated to maintain ties with the Commerce Uchiha.",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": -1,
+          "history": [
+            "Audited Itachi in the hospital; identified 'Zero-Point' composure as a threat/mystery."
+          ]
+        }
+      },
+      "tier": "god",
+      "level": 30
+    },
+    "Cloud Vanguard Captain": {
+      "attitude_to_party": "hostile",
+      "hp_current": 0,
+      "entity_id": "npc_cloud_captain_001",
+      "status": "catatonic",
+      "role": "Cloud Jonin",
+      "hp_max": 85,
+      "tier": "lord"
+    },
+    "Fugaku Uchiha": {
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 8,
+          "history": [
+            "Itachi presented the Shadow Harvest results and secured approval for the Shogunate's expansion."
+          ]
+        }
+      },
+      "entity_id": "npc_fugaku_001",
+      "status": "normal",
+      "mbti": "ISTJ",
+      "display_name": "Shogun Fugaku (Lvl 15)",
+      "hp_max": 135,
+      "level": 17,
+      "tier": "lord_general",
+      "hp_current": 135,
+      "knowledge": [
+        "Cannot awaken Mangekyou"
+      ],
+      "gender": "Male",
+      "alignment": "Lawful Neutral",
+      "role": "Retired Shogun / Uchiha Clan Elder"
+    },
+    "Naori-Subjugated": {
+      "level": 20,
+      "name": "Naori-Subjugated"
+    },
+    "npc_c_001": {
+      "status": "mentally_anchored",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 10,
+          "history": [
+            "Appointed as Vassal Commander after mental anchoring by Itachi."
+          ]
+        }
+      },
+      "role": "Provisional Governor of the Cloud Prefecture"
+    },
+    "Ryu Uchiha": {
+      "level": 6,
+      "tier": "noble",
+      "entity_id": "npc_ryu_001",
+      "status": "Elite Genin; obsessively refining his technique to match Itachi.",
+      "role": "Academy Prodigy",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -2
+        }
+      },
+      "name": "Ryu Uchiha"
+    },
+    "Mikoto-Good": {
+      "tier": "lord_general",
+      "level": 18
+    },
+    "Mikoto (The Architect)": {
+      "status": "Greater Deity (Manifested)",
+      "features": [
+        "EMS Mastery",
+        "Compliance Engineering"
+      ],
+      "role": "High Marshal / Ley-line Siphon",
+      "entity_type": "npc",
+      "level": 51
+    },
+    "npc_loyalist_chunin_001": {
+      "status": "restrained_prisoner",
+      "health": {
+        "hp_max": 30,
+        "hp": 30
+      }
+    },
+    "npc_darui_001": {
+      "status": "dead",
+      "health": {
+        "hp": 0
+      }
+    },
+    "Kaguya Uchiha": {
+      "status": "Captured; held in Aetheric Dead-Zone",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": -2
+        }
+      }
+    },
+    "Onoki": {
+      "entity_id": "npc_tsuchikage_001",
+      "status": "dead",
+      "mbti": "INTJ",
+      "tier": "king_ancient",
+      "level": 19,
+      "role": "Third Tsuchikage",
+      "health": {
+        "hp": 0
+      },
+      "alignment": "Lawful Evil"
+    },
+    "Sarada Uchiha": {
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_sarada_boruto_001",
+      "status": "Active; commanding Squad 7-B and mentoring the 'Scholar'.",
+      "features": [
+        "Mangeky\u014d Sharingan (Sun-Pattern)",
+        "Chidori Mastery",
+        "Strength of a Hundred Seal (Fledgling)"
+      ],
+      "tier": "noble",
+      "level": 17,
+      "hp_current": 28,
+      "role": "Jonin-Proctor / Kage-Candidate",
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 6,
+          "history": [
+            "Humbled by Itachi's technical adoration; currently obsessed with his 'math'."
+          ]
+        }
+      }
+    },
+    "Luna": {
+      "entity_id": "npc_luna_001",
+      "role": "Ash Infiltrator",
+      "tier": "lord_general",
+      "level": 12
+    },
+    "The Active Generation": {
+      "status": "Mangeky\u014d Awakened / Zealous Vanguards",
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 8,
+          "history": [
+            "Initiated into the Way of Blood by the Sage."
+          ]
+        }
+      },
+      "level": 10
+    },
+    "Hikari Uchiha": {
+      "display_name": "Hikari (The Hollow Star)",
+      "entity_type": "npc",
+      "relationships": {
+        "player": {
+          "disposition": "fearing_devotion",
+          "role": "Daughter / Consort"
+        }
+      },
+      "role": "Sealing Specialist",
+      "level": 20
+    },
+    "Shikadai Nara": {
+      "status": "Active; hit by ontological shock following the written exam record.",
+      "role": "Tactical Proctor",
+      "level": 10
+    },
+    "Naori Uchiha (Ash)": {
+      "status": "Active; Consort-Sentinel.",
+      "features": [
+        "Sovereign Dampening Field"
+      ],
+      "level": 20
+    },
+    "Kagura Karatachi": {
+      "status": "confused",
+      "health": {
+        "hp_max": 105,
+        "hp": 78
+      }
+    },
+    "Tekka Uchiha": {
+      "entity_id": "npc_tekka_001",
+      "status": "normal",
+      "mbti": "ISTP",
+      "display_name": "Tekka Uchiha",
+      "tier": "knight",
+      "level": 11,
+      "role": "Governor of the Military Police",
+      "alignment": "Lawful Neutral"
+    },
+    "Cloud Relay Commander": {
+      "name": "Cloud Relay Commander"
+    },
+    "npc_kaito_reclamation": {
+      "level": 20
+    },
+    "Hidden King": {
+      "status": "Permanent Battery; Soul-Shorn; Level 1 Trophy"
+    },
+    "The Hidden King (Itachi)": {
+      "entity_id": "npc_hidden_king_itachi",
+      "features": [
+        "Legendary Resistance (3/day)",
+        "Divine Defense (AC 30)",
+        "Sovereign Retreat",
+        "Infinite Tsukuyomi Control (Defensive)"
+      ],
+      "hp_max": 450,
+      "display_name": "The Hidden King (Itachi)",
+      "level": 30,
+      "tier": "god",
+      "hp_current": 450,
+      "entity_type": "npc",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10,
+          "history": [
+            "Invaded the Harbor universe with the Obsidian Spear."
+          ]
+        }
+      },
+      "name": "The Hidden King (Itachi)"
+    },
+    "Mikoto Uchiha (The Architect)": {
+      "status": "Active; Administrator of the God Tree Relay.",
+      "entity_type": "npc",
+      "tier": "lord_general",
+      "display_name": "Mikoto (The Architect)",
+      "level": 35
+    },
+    "Naori Uchiha (The Red Widow)": {
+      "status": "Active; Grand Executioner of the Empire of Ash.",
+      "entity_type": "npc",
+      "tier": "god_primordial",
+      "display_name": "Naori (The Red Widow)",
+      "level": 51
+    },
+    "Kawaki": {
+      "status": "Observing Itachi with extreme ontological suspicion.",
+      "role": "Elite Observer",
+      "level": 12
+    },
+    "Aiko Uchiha": {
+      "status": "Tier 3 Consort (Subjugated)"
+    },
+    "Izumi Uchiha": {
+      "entity_id": "npc_izumi_001",
+      "mbti": "ISFJ",
+      "display_name": "Izumi Uchiha",
+      "status_conditions": [
+        "Masked: Level 6"
+      ],
+      "alignment": "True Neutral",
+      "gender": "Female",
+      "name": "Izumi Uchiha",
+      "experience": 48000,
+      "features": [
+        "Eternal Mangekyou Sharingan",
+        "Perfect Susanoo",
+        "Rinnegan Awakened",
+        "Divine Consort",
+        "Sovereign of the Samsara"
+      ],
+      "tier": "god",
+      "hp_max": 75,
+      "level": 28,
+      "hp_current": 75,
+      "titles": [
+        "The Violet Calamity",
+        "Sovereign of the Vanguard",
+        "The Crow's Mercy"
+      ],
+      "age": 77,
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "status": "Married / Bonded",
+          "trust_level": 10,
+          "history": [
+            "Raised a lineage in the 'Silence'; 30 years of shared peace."
+          ]
+        }
+      },
+      "role": "Hokage & Shogun of the Uchiha Shogunate",
+      "equipment": {
+        "main_hand": {
+          "damage": "1d6+2",
+          "equipped": true,
+          "stats": "+1d6 lightning damage",
+          "name": "Hatake White Light Tant\u014d +2"
+        },
+        "body": {
+          "equipped": true,
+          "stats": "+2 to DEX saves",
+          "ac": 18,
+          "name": "Elite Anbu Captain's Vest +2"
+        }
+      }
+    },
+    "Rasa": {
+      "entity_id": "npc_kazekage_001",
+      "status": "vassalized",
+      "mbti": "ISTJ",
+      "tier": "lord_general",
+      "level": 15,
+      "relationships": {
+        "player": {
+          "history": [
+            "Surrendered the Land of Wind to the Uchiha Shogunate following the 'Merchant's Mercy' protocol."
+          ]
+        }
+      },
+      "alignment": "Neutral Evil",
+      "role": "Fourth Kazekage"
+    },
+    "Boruto Uzumaki": {
+      "entity_id": "npc_boruto_001",
+      "status": "Active; auditing the 'Merchant Scion' for the Hokage.",
+      "entity_type": "npc",
+      "role": "Elite Proctor-Assistant",
+      "display_name": "Boruto Uzumaki",
+      "level": 15
+    },
+    "Koharu Utatane": {
+      "status": "broken",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10
+        }
+      }
+    },
+    "Anko Mitarashi": {
+      "tier": "knight",
+      "entity_id": "npc_anko_001",
+      "status": "Ontological Shock; observing Itachi's influence on the squad.",
+      "mbti": "ESTP",
+      "alignment": "Neutral Evil",
+      "role": "Integrated Specialist",
+      "level": 10
+    },
+    "Kenji": {
+      "status": "Kneeling",
+      "relationships": {
+        "player": {
+          "disposition": "awed",
+          "trust_level": 5,
+          "history": [
+            "Realized the teenagers he led were the Twin Gods; pride permanently eclipsed."
+          ]
+        }
+      }
+    },
+    "Mikoto Uchiha (Ash)": {
+      "status": "Active; Relay-Master.",
+      "features": [
+        "Sovereign Dampening Field"
+      ],
+      "level": 20
+    },
+    "Hiashi Hy\u016bga": {
+      "display_name": "Hiashi Hy\u016bga",
+      "entity_id": "npc_hiashi_001",
+      "entity_type": "npc",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 1,
+          "history": [
+            "Accepted a seat on the Shogunate Council."
+          ]
+        }
+      },
+      "tier": "lord_general",
+      "role": "Council Member / Clan Head"
+    },
+    "Mikoto Uchiha": {
+      "actual_level": 35,
+      "status": "Active (Handicapped); managing Compliance Pylons.",
+      "features": [
+        "Adamantine Smithing Taijutsu"
+      ],
+      "display_name": "Mikoto (The Architect)",
+      "tier": "king_ancient",
+      "level": 20,
+      "age": 55,
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 8,
+          "history": [
+            "Designed the living-battery system for the Shogunate's empire."
+          ]
+        }
+      },
+      "role": "Relay Master of Ash",
+      "equipment": {
+        "main_hand": "Sealing Staff +1",
+        "body": "Imperial Vest +1",
+        "neck": "Uchiha Pendant +1"
+      }
+    },
+    "Harbor Sasuke": {
+      "hp_current": 1,
+      "status": "Resurrected, Broken, Compelled"
+    },
+    "Rei Uchiha": {
+      "status": "Tier 3 Consort (Subjugated)",
+      "mbti": "ISTP",
+      "tier": "noble",
+      "level": 12,
+      "age": 18,
+      "role": "Uchiha Consort",
+      "active_effects": [
+        "+2 to Stealth",
+        "+2 to Charisma"
+      ],
+      "alignment": "True Neutral"
+    },
+    "Kiri": {
+      "age": 18,
+      "mbti": "ISTJ",
+      "alignment": "Lawful Neutral",
+      "tier": "guard",
+      "role": "Mist Specialist"
+    },
+    "npc_koharu_001": {
+      "status": "captured",
+      "entity_type": "npc",
+      "role": "Council Elder",
+      "tier": "lord",
+      "display_name": "Koharu Utatane"
+    },
+    "Itachi-Good": {
+      "attitude_to_party": "devoted",
+      "role": "The Hidden King",
+      "entity_id": "npc_itachi_good_001",
+      "tier": "commoner",
+      "level": 1,
+      "hp_current": 482,
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 5,
+          "history": [
+            "Confessed his first ever defeat and acknowledged Itachi-PC's absolute sovereignty."
+          ]
+        }
+      },
+      "health": {
+        "hp_max": 10,
+        "hp": 10
+      },
+      "name": "Itachi-Good"
+    },
+    "Hana": {
+      "class_name": "Uchiha Sovereign (Pacifist)",
+      "status": "UCR Tactical Commander",
+      "features": [
+        "Mangeky\u014d Sharingan",
+        "Eternal Mangeky\u014d",
+        "Elite Technical Speed"
+      ],
+      "tier": "lord_general",
+      "attributes": {
+        "dexterity": 20,
+        "charisma": 20
+      },
+      "level": 12,
+      "entity_id": "npc_hana_001",
+      "age": 19,
+      "role": "Ash Infiltrator",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -8
+        }
+      },
+      "name": "Hana"
+    },
+    "Hikari-Ash": {
+      "role": "Ash Guard",
+      "tier": "noble",
+      "age": 18,
+      "mbti": "ENFJ",
+      "alignment": "Lawful Evil",
+      "active_effects": [
+        "+2 to Stealth",
+        "+2 to Charisma"
+      ],
+      "level": 12
+    },
+    "Danzo Shimura": {
+      "status": [
+        "stunned",
+        "izanagi_disabled"
+      ],
+      "health": {
+        "hp": 207
+      },
+      "active_effects": [
+        "Izanagi Disabled (5 minutes)",
+        "Neural Feedback (Stunned 1 round)"
+      ]
+    },
+    "C (Provisional Governor)": {
+      "status": "terrified",
+      "relationships": {
+        "player": {
+          "trust_level": -8,
+          "history": [
+            "Threatened with personal liquidation for the encryption breach."
+          ]
+        }
+      }
+    },
+    "Genji Uchiha": {
+      "political_disposition": "Harbor-Loyalist",
+      "internal_notes": "Remains dedicated to Izumi's 'Gentle Fist' due to personal gratitude for his EMS surgery."
+    },
+    "npc_izumi_001": {
+      "gender": "female",
+      "entity_id": "npc_izumi_001",
+      "entity_type": "npc",
+      "display_name": "Izumi Uchiha",
+      "tier": "guard",
+      "level": 6,
+      "age": 13,
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 7,
+          "history": [
+            "Childhood friend",
+            "Loyal soldier in Itachi's unit"
+          ]
+        }
+      },
+      "alignment": "Neutral Good",
+      "role": "Vanguard Specialist"
+    },
+    "Mikoto (Architect)": {
+      "entity_id": "npc_architect_mikoto_001",
+      "status": "Active; deploying Compliance Pylons.",
+      "entity_type": "npc",
+      "tier": "lord_general",
+      "display_name": "Mikoto (The Architect)",
+      "level": 35,
+      "role": "Relay Master of Ash",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -8
+        }
+      }
+    },
+    "Aina": {
+      "age": 18,
+      "mbti": "ESFP",
+      "alignment": "Neutral Evil",
+      "tier": "guard",
+      "role": "Medical Specialist"
+    },
+    "Naori (Subjugated, Renamed)": {
+      "name": "Naori (Subjugated, Renamed)"
+    },
+    "Elara": {
+      "age": 18,
+      "mbti": "INTP",
+      "alignment": "Chaotic Neutral",
+      "tier": "guard",
+      "role": "Void Specialist"
+    },
+    "Saya": {
+      "tier": "lord_general",
+      "entity_id": "npc_saya_001",
+      "role": "Ash Infiltrator",
+      "attributes": {
+        "dexterity": 20,
+        "charisma": 20
+      },
+      "level": 12
+    },
+    "Yashiro Uchiha": {
+      "entity_id": "npc_yashiro_001",
+      "status": "normal",
+      "mbti": "ESTJ",
+      "display_name": "Yashiro Uchiha",
+      "hp_max": 108,
+      "level": 12,
+      "political_disposition": "Expansionist",
+      "hp_current": 108,
+      "internal_notes": "Views peace as a temporary state; expects the star to eventually demand a new purge.",
+      "tier": "general",
+      "role": "High Marshal",
+      "alignment": "Lawful Evil"
+    },
+    "Naori-Good": {
+      "role": "Hokage of the Shogunate",
+      "name": "Naori-Good",
+      "entity_id": "npc_naori_good_001",
+      "display_name": "Naori (Subjugated, Renamed)",
+      "tier": "god_primordial",
+      "level": 20,
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 5,
+          "history": [
+            "Yielded to the furnace; accepted status as consort.",
+            "Participated in public cum-swap with Izumi-Good."
+          ]
+        }
+      },
+      "health": {
+        "hp_max": 180,
+        "hp": 125
+      },
+      "resources": {
+        "mangekyou_uses": {
+          "used": 0,
+          "max": 6
+        }
+      }
+    },
+    "Might Gai": {
+      "entity_id": "npc_gai_001",
+      "status": "fled",
+      "mbti": "ESFP",
+      "tier": "lord_general",
+      "location": "Nara Forest Outskirts",
+      "level": 16,
+      "role": "Loyalist Fugitive",
+      "alignment": "Chaotic Good"
+    },
+    "Masked Leader": {
+      "hp_current": 238,
+      "status": "defeated",
+      "relationships": {
+        "player": {
+          "history": [
+            "Itachi successfully drew first blood atop the Gedo Maz\u014d."
+          ]
+        }
+      },
+      "health": {
+        "hp": 177,
+        "conditions": [
+          "stunned",
+          "blinded",
+          "restrained",
+          "captured"
+        ]
+      }
+    },
+    "Shiro": {
+      "age": 18,
+      "mbti": "ISTJ",
+      "alignment": "Lawful Evil",
+      "tier": "guard",
+      "role": "Imperial Sensory"
+    },
+    "npc_samui_001": {
+      "status": "dead",
+      "health": {
+        "hp": 0
+      }
+    },
+    "Cho-Cho Akimichi": {
+      "level": 4,
+      "tier": "noble",
+      "entity_id": "npc_chocho_001",
+      "status": "Attracted but confused by Itachi's perceived weakness.",
+      "role": "Genin",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 1
+        }
+      },
+      "name": "Cho-Cho Akimichi"
+    },
+    "Mikoto Uchiha (Harbor)": {
+      "tier": "lord_general",
+      "entity_id": "npc_mikoto_good_001",
+      "status": "Active; coordinating the Peak's internal lockdown.",
+      "age": 75,
+      "display_name": "Mikoto Uchiha (The Pillar)",
+      "role": "High Marshal of Law",
+      "level": 18
+    },
+    "Izumi-Consort": {
+      "status": "Lvl 20 Imperial Consort; EMS Restored; Physically 18; Bonded",
+      "level": 20
+    },
+    "npc_danzo_001": {
+      "name": "npc_danzo_001"
+    },
+    "Sayuri Uchiha": {
+      "display_name": "Sayuri (The Silent Petal)",
+      "entity_type": "npc",
+      "relationships": {
+        "player": {
+          "disposition": "clinical_loyalty",
+          "role": "Daughter / Consort"
+        }
+      },
+      "role": "Master Infiltrator",
+      "level": 20
+    },
+    "God-Emperor Itachi": {
+      "entity_id": "npc_tyrant_itachi_001",
+      "status": "Active; anchoring the Obsidian Spear.",
+      "entity_type": "npc",
+      "display_name": "God-Emperor Itachi",
+      "tier": "god_primordial",
+      "level": 60,
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10,
+          "history": [
+            "Invaded the Harbor universe to harvest its chakra and delete the 'Gentle Fist' lie."
+          ]
+        }
+      },
+      "role": "Tyrant of Universe-776",
+      "alignment": "Neutral Evil"
+    },
+    "npc_shisui_001": {
+      "gender": "male",
+      "alignment": "Neutral Good",
+      "entity_id": "npc_shisui_001",
+      "entity_type": "npc",
+      "display_name": "Shisui Uchiha",
+      "tier": "knight",
+      "level": 8,
+      "age": 16,
+      "role": "Elite Infiltrator",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 9,
+          "history": [
+            "Best friend and mentor",
+            "Co-conspirator in the uprising"
+          ]
+        }
+      },
+      "name": "npc_shisui_001"
+    },
+    "Asuma Sarutobi": {
+      "name": "Asuma Sarutobi"
+    },
+    "Sasuke (Fallen)": {
+      "features": [
+        "Sovereign Dampening Field"
+      ]
+    },
+    "Izumi Uchiha II": {
+      "role": "Elite Infiltrator / Granddaughter of the Star",
+      "entity_id": "npc_izumi_ii_001",
+      "status": "Captured; held in Aetheric Dead-Zone",
+      "age": 25,
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": -2
+        }
+      },
+      "display_name": "Izumi II",
+      "level": 17
+    },
+    "A (Raikage)": {
+      "tier": "king",
+      "entity_id": "npc_raikage_001",
+      "status": "normal",
+      "mbti": "ESTJ",
+      "alignment": "Lawful Neutral",
+      "role": "Fourth Raikage",
+      "level": 18
+    },
+    "Obito Uchiha": {
+      "aliases": [
+        "Masked Leader",
+        "Tobi",
+        "The False Madara"
+      ],
+      "knowledge": [
+        "God Tree Ritual",
+        "Madara's Original Decree",
+        "Zetsu Hive Mechanics"
+      ],
+      "status": "blinded/bound/surrendered",
+      "health": {
+        "hp": 177
+      },
+      "display_name": "Obito Uchiha (Captured)"
+    },
+    "npc_raikage_a": {
+      "status": "dead",
+      "health": {
+        "hp_max": 180,
+        "hp": 45
+      }
+    },
+    "Homura Mitokado": {
+      "status": "broken",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10,
+          "history": [
+            "Witnessed Itachi's Kotoamatsukami on Hiruzen",
+            "Interrogated and broken in the Administrative Square"
+          ]
+        }
+      }
+    },
+    "npc_loyalist_jonin_001": {
+      "health": {
+        "hp": 0
+      },
+      "name": "npc_loyalist_jonin_001"
+    },
+    "npc_loyalist_extremists_001": {
+      "name": "npc_loyalist_extremists_001"
+    },
+    "Naori (The Red Widow)": {
+      "status": "Greater Deity (Manifested)",
+      "features": [
+        "EMS Mastery",
+        "Lethality Optimization"
+      ],
+      "role": "Imperial Consort / Executioner",
+      "entity_type": "npc",
+      "level": 51
+    },
+    "Inoichi Yamanaka": {
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": -3,
+          "history": [
+            "Sensed Itachi's EMS chakra during parley",
+            "Confronted with proof of foreign invasion"
+          ]
+        }
+      }
+    },
+    "npc_homura_001": {
+      "status": "captured",
+      "entity_type": "npc",
+      "role": "Council Elder",
+      "tier": "lord",
+      "display_name": "Homura Mitokado"
+    },
+    "Shogunate Naori": {
+      "hp_current": 380,
+      "entity_id": "npc_shogunate_naori",
+      "features": [
+        "Legendary Resistance (3/day)",
+        "White Light Sovereignty",
+        "Blade-Singer Echoes",
+        "Aetheric Synchronization"
+      ],
+      "hp_max": 380,
+      "tier": "god",
+      "level": 30
+    },
+    "Shisui Uchiha": {
+      "gender": "Male",
+      "entity_id": "npc_shisui_001",
+      "status": "dead",
+      "display_name": "Shisui Uchiha",
+      "tier": "knight",
+      "level": 8,
+      "role": "Elite Infiltrator / Kotoamatsukami User",
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "trust_level": 6,
+          "history": [
+            "Shisui witnessed the brutal execution of Kakashi and disagrees with Itachi's Neutral Evil justification.",
+            "Itachi demonstrated a terrifying but masterful ability to weaponize Shisui's own trauma for the clan's victory."
+          ]
+        }
+      },
+      "health": {
+        "hp": 0
+      }
+    },
+    "Kaito (The Librarian)": {
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 3,
+          "history": [
+            "Action resolved and stabilized."
+          ]
+        }
+      },
+      "tier": "noble",
+      "level": 20
+    },
+    "Sasuke Uchiha (Support Shadow)": {
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_sasuke_boruto_001",
+      "role": "Rogue Kage / Support Shadow",
+      "tier": "god",
+      "level": 30
+    },
+    "Akane Uchiha": {
+      "role": "Academy Rival / Main-Branch Elite",
+      "tier": "noble",
+      "entity_id": "npc_akane_001",
+      "status": "Elite Genin; Devoted to Itachi's 'Ocular Scholar' persona.",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -1,
+          "history": [
+            "Ranked 16% to Itachi's 15% in night placement."
+          ]
+        }
+      },
+      "display_name": "Akane Uchiha",
+      "level": 6
+    },
+    "Uchiha Elite Vanguard": {
+      "status": "One member (Kage) traveling to Konoha as messenger; 4 remain with Itachi."
+    },
+    "Mei Terumi": {
+      "entity_id": "npc_mizukage_001",
+      "status": "Devoted",
+      "features": [
+        "Boil Release: Solid Fog",
+        "Uchiha-Geometric Sealing Arts"
+      ],
+      "tier": "lord_general",
+      "mbti": "ENFJ",
+      "level": 19,
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 8,
+          "history": [
+            "Personally trained by the Twin Gods; awarded Grand Admiral status and favorable trade terms."
+          ]
+        }
+      },
+      "role": "Grand Admiral of the Imperial Navy",
+      "alignment": "Chaotic Neutral"
+    },
+    "Shikaku Nara": {
+      "entity_id": "npc_shikaku_001",
+      "status": "normal",
+      "mbti": "INTP",
+      "tier": "lord",
+      "level": 13,
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "status": "SURRENDERED",
+          "trust_level": -1,
+          "history": [
+            "Itachi offered a Tactical Veto and recognized my utility.",
+            "Itachi threatened absolute detection via EMS.",
+            "Shikaku has accepted the role of Grand Strategist."
+          ]
+        }
+      },
+      "alignment": "True Neutral",
+      "role": "Loyalist Strategist"
+    },
+    "npc_loyalist_chunin_002": {
+      "status": "restrained_prisoner",
+      "health": {
+        "hp_max": 30,
+        "hp": 30
+      }
+    },
+    "Luna Mizu": {
+      "health": {
+        "hp_max": 80,
+        "hp": 80
+      },
+      "alignment": "Neutral Good",
+      "status": "conscious",
+      "mbti": "INFP",
+      "tier": "noble",
+      "level": 12,
+      "age": 18,
+      "role": "Uchiha Consort",
+      "active_effects": [
+        "+2 to Stealth",
+        "+2 to Charisma"
+      ],
+      "name": "Luna Mizu"
+    },
+    "Kagutsuchi Uchiha (Ash)": {
+      "status": "Active; Artillery.",
+      "level": 20
+    },
+    "Hikari Uchiha (Ash)": {
+      "status": "Active; Sealing Specialist.",
+      "level": 20
+    },
+    "npc_harbor_sasuke": {
+      "hp_current": 1,
+      "status": "Resurrected, Broken, Compelled"
+    },
+    "Cloud Recruit": {
+      "attitude_to_party": "devoted",
+      "entity_id": "npc_cloud_recruit_001",
+      "status": "conscious",
+      "display_name": "Kaito (Former Cloud Signal Master)",
+      "hp_max": 85,
+      "level": 12,
+      "tier": "lord",
+      "hp_current": 48,
+      "role": "Shadow Vanguard Intelligence"
+    },
+    "npc_anbu_squad_001": {
+      "status": "unconscious",
+      "health": {
+        "hp": 0
+      }
+    },
+    "Mei-Rin": {
+      "age": 18,
+      "mbti": "ISFJ",
+      "alignment": "Neutral Good",
+      "tier": "guard",
+      "role": "Cloud Healer"
+    },
+    "Kaito (The Reclamation)": {
+      "status": "Located: Aetheric Dead-Zone beneath UCR Research Tower; Calibrating Aetheric Dampener.",
+      "role": "Leader of the Soul-Fire Resistance"
+    },
+    "Sasuke Uchiha (Fallen)": {
+      "status": "Active; Royal Inquisitor.",
+      "level": 20
+    },
+    "High Circle Leaders": {
+      "name": "High Circle Leaders"
+    },
+    "Inabi Uchiha": {
+      "entity_id": "npc_inabi_001",
+      "status": "normal",
+      "mbti": "ESTP",
+      "display_name": "Inabi Uchiha",
+      "tier": "knight",
+      "level": 11,
+      "role": "Field Commander",
+      "alignment": "True Neutral"
+    },
+    "Naori (Red Widow)": {
+      "entity_id": "npc_red_widow_naori_001",
+      "status": "Active; managing the Southern Purges.",
+      "entity_type": "npc",
+      "tier": "king_ancient",
+      "display_name": "Naori (The Red Widow)",
+      "level": 51,
+      "role": "Grand Executioner of Ash",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -8
+        }
+      }
+    },
+    "Cloud Infiltration Leader": {
+      "hp_current": 120,
+      "status": "Psychologically Liquidated; Interrogated"
+    },
+    "Ren Uchiha": {
+      "status": "Broken; Recruited as Imperial Guard (Level 16)",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 5,
+          "history": [
+            "Witnessed siblings' harvest; spirit broken for recruitment."
+          ]
+        }
+      },
+      "level": 16
+    },
+    "Sasuke Uchiha (Boruto Era)": {
+      "attitude_to_party": "cold",
+      "entity_id": "npc_sasuke_boruto_001",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -2,
+          "history": [
+            "Viewed Itachi as a spoiled drain on the clan's reputation; refused to train him personally."
+          ]
+        }
+      }
+    },
+    "Sayuri Uchiha (Ash)": {
+      "status": "Active; Assassin.",
+      "level": 20
+    },
+    "Yumi Uchiha": {
+      "status": "Tier 3 Consort (Subjugated)"
+    },
+    "Ren Uchiha (Harbor)": {
+      "tier": "knight",
+      "entity_id": "npc_ren_good_001",
+      "status": "Active; defending the Western Ley-line relay.",
+      "age": 55,
+      "display_name": "Ren Uchiha",
+      "role": "Sovereign Scion (Sasuke's Son)",
+      "level": 16
+    },
+    "Fugaku Uchiha II": {
+      "age": 27,
+      "class_name": "Uchiha Sovereign",
+      "status": "Master of the Lethal Gentle Fist; Messenger of the Peak.",
+      "entity_id": "npc_fugaku_ii_001",
+      "display_name": "Fugaku II",
+      "role": "Elite Vanguard / Grandson of the Star",
+      "level": 18
+    },
+    "Kaguya Uchiha (Harbor)": {
+      "tier": "knight",
+      "entity_id": "npc_kaguya_good_001",
+      "status": "Active; stationed at the Shogunate Peak.",
+      "age": 45,
+      "display_name": "Kaguya Uchiha",
+      "role": "Sovereign Scion (Naori's Daughter)",
+      "level": 15
+    },
+    "npc_sarada_001": {
+      "hp_current": 28,
+      "status": "retreating; obsessed; in_shock"
+    },
+    "Izumi-Good": {
+      "attitude_to_party": "bonded",
+      "role": "The Weaver of Mercy",
+      "entity_id": "npc_izumi_good_001",
+      "features": [
+        "Eternal Mangeky\u014d Sharingan",
+        "Imperial Subjugation",
+        "Electra Resonance (Terminal)"
+      ],
+      "tier": "commoner",
+      "level": 20,
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 5,
+          "history": [
+            "Publicly confessed desire for the Ash.",
+            "Participated in public cum-swap with Naori-Good."
+          ]
+        }
+      },
+      "health": {
+        "hp_max": 10,
+        "hp": 10
+      },
+      "name": "Izumi-Good"
+    },
+    "Mitsuki": {
+      "status": "Tracking high-frequency anomalies in the Tower.",
+      "role": "Elite Proctor-Assistant",
+      "level": 10
+    },
+    "Kagutsuchi Uchiha": {
+      "entity_type": "npc",
+      "role": "Heavy Artillery",
+      "display_name": "Kagutsuchi (The Black Sun)",
+      "level": 20
+    },
+    "npc_fugaku_001": {
+      "gender": "male",
+      "entity_id": "npc_fugaku_001",
+      "entity_type": "npc",
+      "display_name": "Fugaku Uchiha",
+      "tier": "lord",
+      "level": 12,
+      "age": 40,
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 5,
+          "history": [
+            "Planned the coup with Itachi",
+            "Trusted Itachi with the vanguard"
+          ]
+        }
+      },
+      "alignment": "Lawful Neutral",
+      "role": "Clan Leader / General"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "character_creation_in_progress": false,
+    "level_up_stage": null,
+    "dissonance": 0,
+    "sanctuary_mode": {
+      "original_scale": "major",
+      "expired": true,
+      "reason": "The formal signing of the Naval Pact has neutralized the Mist as a hostile threat.",
+      "expires_turn": 309,
+      "scale": "medium",
+      "broken_turn": 155,
+      "broken_reason": "Player initiated a mass-assassination ambush on Shogunate Sovereigns.",
+      "active": true,
+      "activated_turn": 301,
+      "broken": true,
+      "expired_turn": 88,
+      "arc": "Forest of Death Record"
+    },
+    "population_metrics": {
+      "descendants": 1000,
+      "concubines": 0,
+      "slave_class": "Non-Uchiha (Billions)",
+      "governance_model": "Tyrant-God Overlord"
+    },
+    "active_missions": [
+      {
+        "title": "The Global Audit",
+        "status": "in_progress",
+        "mission_id": "global_liquidation",
+        "objective": "Erode Global Stability HP (50/50) to trigger a world-ending war."
+      }
+    ],
+    "xp_progression_paused_for_tailed_beasts": false,
+    "player_character_data_extras": {
+      "reputation": {
+        "public": {
+          "titles": [
+            "The Crow of the Uprising",
+            "Slayer of the Copy Ninja",
+            "God of the Uprising",
+            "Executioner of the Shadow",
+            "Grand Commander of the Shadow Vanguard"
+          ]
+        }
+      },
+      "experience": {
+        "current": 355850
+      },
+      "dissonance": 71,
+      "attributes": {
+        "strength": 14,
+        "dexterity": 20,
+        "intelligence": 20,
+        "wisdom": 14,
+        "charisma": 18,
+        "constitution": 18
+      },
+      "active_effects": [
+        "Sovereign Anchor III: Ocular Friction penalty DELETED (Native Compatibility).",
+        "Universal Jutsu Mastery (1,000 Worlds Knowledge)"
+      ],
+      "resources": {
+        "spell_slots": {
+          "level_7": {
+            "used": 1,
+            "max": 2
+          },
+          "level_9": {
+            "used": 0,
+            "max": 1
+          },
+          "level_5": {
+            "used": 0,
+            "max": 3
+          },
+          "level_1": {
+            "used": 0,
+            "max": 4
+          },
+          "level_6": {
+            "used": 0,
+            "max": 2
+          },
+          "level_2": {
+            "used": 0,
+            "max": 3
+          },
+          "level_4": {
+            "used": 0,
+            "max": 3
+          },
+          "level_8": {
+            "used": 0,
+            "max": 1
+          },
+          "level_3": {
+            "used": 0,
+            "max": 3
+          }
+        }
+      }
+    },
+    "_agent_selection_tracker": {
+      "count": 1,
+      "agent": "HeavyDialogAgent",
+      "rewards_skip_count": 3
+    },
+    "character_creation_completed": true,
+    "reputation": {
+      "public": {
+        "rumors": [
+          "The Merchant Scion who faced the Red Cloud",
+          "The Late Bloomer with 'God-Tier' instinct"
+        ],
+        "score": 100,
+        "titles": [
+          "The Crow of the Uprising",
+          "Slayer of the Copy Ninja",
+          "God of the Uprising",
+          "Executioner of the Shadow",
+          "Lord Protector of the Uchiha Shogunate",
+          "God of the Crimson Star",
+          "Sovereign of Absolute Silence",
+          "Apex Predator of Shinobi",
+          "The Shogunate's Ghost",
+          "The Twin Gods",
+          "Architect of the Shogunate",
+          "The Retired Sage",
+          "The Hero of the Falling Star",
+          "God-Emperor of the Ash",
+          "The Terminal Administrator",
+          "Sovereign of the Deleted",
+          "World-Eater",
+          "Administrator of the Eleven Stars",
+          "Grand Administrator of the Eleven Stars",
+          "Architect of the Great Expansion"
+        ],
+        "notoriety_level": "legendary",
+        "known_deeds": [
+          "Neutralized Northern Tunnel guards",
+          "Executed Kakashi Hatake at the Main Gate",
+          "Secured the Northern Logistics Depot",
+          "Assassinated Danz\u014d Shimura and liquidated the Root",
+          "Forced the Third Hokage's resignation and the Uchiha Succession",
+          "Vassalized the Hidden Cloud and executed the Great Dispersal",
+          "Dissolved the Iron Pact and vassalized the Land of Wind through economic intimidation.",
+          "Initiated the 'Vanguard of the Star' at the Dojo of the Void"
+        ]
+      }
+    },
+    "last_location": "Konoha Coliseum - Duel Arena",
+    "divine_rank": 1,
+    "core_memories": [
+      "Itachi has initiated a successful coup against the Hidden Leaf, plunging Konoha into a balanced civil war where he serves as a primary tactical leader of the Uchiha faction.",
+      "Itachi has been rebuilt as a Gestalt Assassin/Bladesinger, granting him Amaterasu and high-tier tactical lethality at Level 6 for the Leaf Massacre.",
+      "Itachi identified a tactical weakness in the Northern Gate's drainage system, which is currently under-guarded by the Leaf Loyalists.",
+      "Itachi's moral compass has shifted toward Neutral Evil; he now views the civil war through a lens of cold necessity and clan supremacy, prioritizing efficient victory over the preservation of the Leaf's previous ideals.",
+      "Itachi asserted his tactical authority during the Naka Shrine briefing, subtly pushing a more ruthless 'Neutral Evil' agenda that prioritizes Uchiha survival and efficiency over civilian life.",
+      "Itachi successfully neutralized the Northern Tunnel sensors, but Izumi's failure to collapse the tunnel has allowed a Loyalist patrol to close in on their position.",
+      "Itachi neutralized the lead Loyalist Jonin in the Northern Tunnels with a ruthless ambush, solidifying his role as the clan's cold executioner.",
+      "Itachi ruthlessly neutralized a Loyalist patrol in the Northern Tunnels, using a combination of psychological genjutsu and Bladesong speed to ensure total silence.",
+      "Itachi attempted to interrogate a catatonic Jonin survivor using Tsukuyomi, but the target's mental fortifications triggered a psychic collapse, leaving Itachi with only partial intel on the Depot's layout instead of the vault password.",
+      "Tsukuyomi is an Absolute Genjutsu: it auto-defeats targets with Lvl/CR lower than Itachi and scales dynamically for elites with a DC equal to Itachi's Spell Save DC + 4.",
+      "Itachi successfully set up a lethal 'killing field' in the Northern Tunnels, surprising and devastating an incoming Loyalist patrol led by an elite Jonin.",
+      "Itachi executed the tunnel patrol leader with Izumi's help and secured the surrender of the remaining Chunin, clearing the path to the Northern Depot while Kakashi remains at the Main Gate.",
+      "Itachi extracted the Northern Depot password 'Crimson Autumn' and learned of the 'Hedgehog Array' sensory trap from the restrained Chunin.",
+      "Itachi attempted to ambush Kakashi Hatake at the Main Gate, but the 'Copy Ninja' detected his approach, leading to a direct confrontation.",
+      "Kakashi Hatake successfully resisted the full power of Itachi's Tsukuyomi at the Main Gate, though he sustained significant psychic trauma.",
+      "Itachi critically wounded Kakashi Hatake at the Main Gate with Amaterasu, leaving him burning in inescapable black flames while Shisui and Izumi held back the Anbu reinforcements.",
+      "Itachi executed Kakashi Hatake at the Main Gate and surgically retrieved the Sharingan, dealing a crippling blow to the Leaf's morale and military leadership.",
+      "surgically retrieved the Sharingan and reclaimed the legendary White Light Chakra Sabre, significantly bolstering his personal power (4,500 total XP)",
+      "Itachi secured the Northern Logistics Depot and justified Kakashi's death to a skeptical Shisui, cementing his role as a ruthless tactical sovereign.",
+      "Itachi ascended to Level 7 after the fall of Kakashi, gaining Tactical Insight and Evasion as he prepares to strike the Root.",
+      "Itachi's detailed scouting of the Foundation sub-levels confirmed Danz\u014d is a Level 17 Kage-tier threat protected by a hundred Root operatives and recursive chakra traps.",
+      "Shisui revealed that Danz\u014d stole his right eye (Kotoamatsukami) during the coup, which Danz\u014d now uses to control the Root and Loyalist forces.",
+      "Itachi and Shisui discovered a sympathetic chakra resonance between Shisui and his stolen eye, allowing them to track Danz\u014d and potentially disrupt his Mangeky\u014d usage.",
+      "Itachi has formulated a plan to use Shisui as a chakra conduit to overload Danz\u014d's stolen eyes, accepting the risk of Shisui's death to secure the Eternal Mangeky\u014d.",
+      "Itachi has calculated a 'Sharp' tactical path to use Shisui as a lethal chakra conduit to disable Danz\u014d's Izanagi, accepting Shisui's death as the price for the Eternal Mangeky\u014d.",
+      "Itachi has executed Danz\u014d and Shisui, claiming Shisui's eyes and Hashirama cells, though the Foundation archives were destroyed in a failed seizure attempt.",
+      "Itachi liquidated Danz\u014d Shimura and Shisui Uchiha, secured the Root's sub-levels, and advised Fugaku to seek an armistice, though his father remains intent on total Uchiha dominance.",
+      "Correction: The death of Danz\u014d Shimura at the hands of a 13-year-old Itachi is a legendary feat that has shattered the Leaf's morale and established Itachi as a god-tier sovereign of the battlefield.",
+      "Itachi has successfully integrated Shisui's Mangeky\u014d and Hashirama's cells, awakening the Eternal Mangeky\u014d Sharingan and the fledgling Rinnegan at age 13.",
+      "Itachi emerged from the Foundation sub-levels as a divine-tier sovereign, his presence now commandingly absolute as he prepares to lead the Uchiha in the final assault on the Hokage Rock.",
+      "Itachi has achieved a 'Sharp' tactical assessment of the final assault, concluding that a synergistic use of his 'Divine' Deva Path and EMS is the most efficient path to total Uchiha sovereignty.",
+      "Itachi has attained Level 12 and completed his 'God-Tier' ascension, integrating Shisui's eyes and Senju vitality to become the undisputed sovereign of the Uchiha Shogunate.",
+      "Itachi successfully used Kotoamatsukami to break Hiruzen Sarutobi's willpower, placing the Third Hokage under his absolute mental command for the formal transfer of power.",
+      "The succession is absolute; Itachi has attained Level 13 and now commands the Hidden Leaf's military and political infrastructure as Lord Protector of the Uchiha Shogunate.",
+      "Fugaku Uchiha has been declared Shogun of the Hidden Leaf; Itachi has declined the official leadership role to rule as the Grand Commander of the Shadow Vanguard.",
+      "The Uchiha Shogunate hierarchy is established: Fugaku as Shogun, Itachi as Shadow Overseer, Izumi as Blade of the Vanguard, and Yashiro as High Marshal.",
+      "The Uchiha Shogunate has established a complex hierarchy: Fugaku as Shogun, Itachi as Shadow Overseer, and a council of elite Uchiha managing the village's survival against internal resistance and foreign vultures.",
+      "Itachi established the 'Purity List,' a surgical consolidation protocol that categorizes remaining clans into those to be converted (Nara, Yamanaka) and those to be liquidated (Gai, Asuma).",
+      "Itachi liquidated Asuma Sarutobi and the Library cache in a surgical surprise strike, effectively ending the Leaf's organized military resistance.",
+      "Itachi convinced Fugaku to negotiate with the Ino-Shika-Cho clans following the liquidation of Asuma Sarutobi, successfully pivoting the Shogunate toward structural consolidation over total genocide.",
+      "Itachi successfully intercepted and liquidated a Hidden Cloud Vanguard at the northern border, capturing their leader for interrogation while preventing any data leak to the Raikage.",
+      "Itachi used Tsukuyomi to extract the Hidden Cloud's invasion timeline: 2,000 shinobi amassing at the border to strike within 48 hours.",
+      "Itachi has attained Level 14, unlocking the reality-warping Izanagi and maximizing his Bladesong lethality as he prepares to counter a 2,000-man Hidden Cloud invasion.",
+      "Itachi successfully struck the Cloud Relay Station, critically wounding the Signal Master and neutralizing the Hidden Cloud Vanguard's command structure.",
+      "Itachi successfully used the Deva Path to pin the Cloud Signal Master and his sentinels, effectively capturing the Hidden Cloud relay station.",
+      "Itachi used a genjutsu probe to manipulate the Cloud Signal Master's loyalty, eroding his Social HP to 1/5 and extracting the 'End of Days' protocol hint.",
+      "Itachi has attained Level 16, unlocking Armored Susanoo and 8th-level Ninjutsu, while refining his physical and social presence to god-tier levels (CON 24, CHA 20).",
+      "Pacing Constraint: Leveling from 16 to 20 is restricted to a 'Long Road' timeline, intended to span approximately one in-game year of tactical and political consolidation.",
+      "Itachi's divine resources (Mangeky\u014d, Rinnegan, and high-level Ninjutsu) are being systematically tracked to ensure the mechanical integrity of his god-tier progression.",
+      "Itachi successfully infiltrated the Hidden Cloud command pavilion and critically wounded the Council of Three (Darui, Samui, C) in a single surgical surprise strike.",
+      "Itachi successfully assassinated Samui in the Cloud Command Pavilion, leaving the Council of Three broken and Darui critically isolated.",
+      "Itachi successfully liquidated the Hidden Cloud's local command council (Darui, Samui, and C) and retrieved the invasion protocols, leaving the two-thousand-man hive paralyzed and leaderless.",
+      "Itachi successfully orchestrated a chaotic collision between the Cloud and Stone armies at the northern border, though the Shadow Vanguard was briefly exposed due to a minor coordination lag.",
+      "Itachi successfully liquidated the remaining field sub-commanders of the Cloud and Stone armies, turning their orchestrated collision into a total, leaderless rout while securing his team's retreat.",
+      "Itachi successfully executed the 'Surprise' protocol against the Hidden Stone, liquidating their command and using a mass-genjutsu to frame the Cloud for the slaughter, triggering a total foreign rout.",
+      "Itachi has attained Level 18 following a 90-day timeskip 'Shadow Harvest,' solidifying the Uchiha Shogunate's absolute control over the northern borders.",
+      "The 'Shadow Harvest' has concluded: Itachi has spent 90 days liquidating foreign remnants, reaching Level 18 and forging +3 artifacts from the remains of the Cloud and Stone commanders.",
+      "Itachi has secured the Shogunate's authorization to liquidate the foreign Kage and vassalize the Hidden Cloud and Stone, while also gaining Fugaku's permission to marry Izumi.",
+      "Itachi initiated a high-stakes duel with the Fourth Raikage at the Shimogakure Rear Command, liquidating 25% of the Kage's vitality in the opening exchange.",
+      "Itachi critically wounded the Fourth Raikage with a legendary critical strike at the Shimogakure Rear Command, reducing him to 45 HP.",
+      "Itachi has executed the Fourth Raikage (A) in a divine-tier duel at Shimogakure, decapitating the Hidden Cloud's sovereignty and paving the way for the Shogunate's continental expansion.",
+      "Itachi has executed the Fourth Raikage and forced the mass surrender of the Hidden Cloud's two-thousand-man invasion force, establishing the Uchiha Shogunate as the dominant continental power.",
+      "The Hidden Cloud has been vassalized by the Uchiha Shogunate; Itachi implemented a 50% population exchange between Shimogakure and Konoha to ensure long-term integration.",
+      "Itachi successfully infiltrated the Stone Sovereign Fortress and critically wounded Onoki in a surprise assassination strike, leaving the Tsuchikage at the mercy of the Crow.",
+      "Itachi has executed the Third Tsuchikage (Onoki) in a surgical strike at the Stone Sovereign Fortress, effectively ending the Hidden Stone's sovereignty.",
+      "The Uchiha Shogunate has vassalized both the Hidden Cloud and Hidden Stone, establishing Itachi as an SSS-rank legendary sovereign with absolute control over the northern continent.",
+      "One year has passed: Fugaku Uchiha has been crowned Shogun, Konoha is an iron-fortress empire, and Itachi has reached Level 20, pausing his XP until the Tailed Beasts are integrated.",
+      "Fugaku's coronation marks the official birth of the Uchiha Shogunate, with Itachi and Izumi standing as its dual legendary protectors at the peak of mortal power.",
+      "Itachi successfully extracted the Nine-Tails from Naruto Uzumaki while preserving the boy's life, integrating the chakra to reach Level 20 peak and gaining god-tier physical resilience (CON 28).",
+      "Itachi Uchiha has become the Jinch\u016briki of the Nine-Tails, integrating Kurama's chakra to achieve a God-tier Constitution of 30 and unlocking the Tailed Beast Bomb.",
+      "Itachi utilized Kurama's negative emotion sensing to identify and mark three of Rasa's most resistant advisors for future liquidation, while Mei Terumi successfully resisted his initial attempts at psychological intimidation.",
+      "Administrative correction: Itachi's state is finalized at Level 20 with all modal flags cleared; progression is paused until Tailed Beast integration.",
+      "Itachi has initiated the direct vassalage negotiation with the Hidden Mist while Fugaku and Izumi finalized the annexation of the Land of Wind.",
+      "Itachi successfully pivoted to a diplomatic stance with Mei Terumi, offering naval dominance and powering down his ocular/tailed-beast forms to signal sincerity, effectively dissolving the Mist's remaining Iron Pact resolve.",
+      "Itachi has pivoted to a non-overt power projection in Kirigakure, utilizing 'Stroke of Luck' to sway Mei Terumi toward a naval partnership while she seeks guarantees for Mist autonomy.",
+      "Itachi has secured the Naval Pact with the Hidden Mist, granting them internal autonomy and immunity from the Great Dispersal to anchor their loyalty as the Shogunate's Admiral.",
+      "Itachi secured the Naval Pact with the Hidden Mist and finalized his union with Izumi, solidifying the Uchiha Shogunate's internal and external stability.",
+      "Itachi has secured the Naval Pact with the Hidden Mist and finalized his union with Izumi, establishing absolute continental hegemony as the Grand Commander of the Shogunate.",
+      "Itachi and Izumi have been wed in a ceremony that formalized their status as the 'Twin Gods' of the Uchiha Shogunate, while Fugaku secured total diplomatic vassalage over the Great Nations.",
+      "Correction: Fugaku Uchiha cannot reach the Mangeky\u014d despite Itachi's aid; his ocular evolution has permanently plateaued at the 3-Tomoe peak.",
+      "Itachi has integrated the Three, Five, Six, and Seven-Tails, achieving a god-tier Constitution of 34 and unlocking planetary-scale elemental manifestations.",
+      "Correction: The wedding of Itachi and Izumi occurred three years ago at the Shogunate's inception; they have ruled as the 'Twin Gods' and managed the Dojo of the Void as a married couple throughout the timeskip.",
+      "Itachi has promoted Mei Terumi to Grand Admiral and formally threatened the vassal governors with annihilation if they do not purge the God Slayer Alliance from within.",
+      "The Shogunate's internal purges were successful, and the Ravens of the Eternal Star have captured the Two-Tails, effectively ending the 'God Slayer' threat in the North.",
+      "Itachi has successfully delegated the Land of Tea to Tekka Uchiha and utilized a two-month wait to oversee the successful internal purges of dissidents in the Cloud and Stone Prefectures.",
+      "Itachi has annexed the Land of Claws and returned to Konoha to personally oversee Sasuke's training and the arrival of the Mist delegation for the imperial union.",
+      "Itachi refined Sasuke's role as a diplomatic anchor through the Mist union and delegated the liquidation of the Stone's obsidian hoards to the Mangeky\u014d-elite 'Ravens'.",
+      "Itachi has established a new baseline of delegation, assigning all mundane military and shadow operations to the Mangeky\u014d-elite 'Ravens' while he focuses on Tailed Beast integration and family legacy.",
+      "Six months of 'Imperial Consolidation' have passed, automating the Shogunate's defense under the Mangeky\u014d-elite 'Ravens' and solidifying the 'Law of the Crow' across the continent.",
+      "Operation: Star-Fall was a clinical success, utilizing the Deva Path and the Ravens to dismantle the Gedo Maz\u014d's spatial anchors and pin the Akatsuki defenders.",
+      "Itachi successfully bypassed the Gedo Maz\u014d's defenders and wounded the Masked Leader with a surgical spatial swap, though the target survived by phasing.",
+      "Itachi successfully unmasked the leader of the 'True Akatsuki' atop the Gedo Maz\u014d, surgically extracted his Sharingan and Rinnegan, and bound him helpless just as the White Zetsu Army began its planetary-scale emergence in the Land of Iron.",
+      "Itachi successfully synchronized with the Gedo Maz\u014d using his Rinnegan and six-beast chakra, turning the planetary-scale weapon against the emerging White Zetsu army.",
+      "Itachi's attempt to interrogate the Zetsu hive mind through the Gedo Maz\u014d failed due to overwhelming synthetic noise, revealing that the emergence is likely a diversion for a larger ritual.",
+      "Itachi and the Ravens executed the Sovereign Wall & Pulse, liquidating the initial White Zetsu swarm in the Land of Iron hollow and securing the Gedo Maz\u014d's immediate perimeter.",
+      "Itachi successfully used a combined Rinnegan-Tsukuyomi excavation to extract the 'True Core' location from the Masked Leader: a subterranean pocket directly beneath the Gedo Maz\u014d's anchoring point.",
+      "Itachi successfully utilized his sovereign peak control (Stroke of Luck) to extract and seal the God Tree's True Core from the subterranean garden, creating a metaphysical vacuum that has driven the Zetsu army and Gedo Maz\u014d into a state of terminal frenzy.",
+      "Itachi successfully re-synchronized with the Gedo Maz\u014d following the root's extraction, utilizing the beast's planetary scale to crush the frenzied White Zetsu tide.",
+      "Correction: The Masked Leader is Obito Uchiha, a relic of the old Leaf who served as the biological relay for the God Tree; his identity was extracted after Itachi sealed the True Core.",
+      "Itachi systematically liquidated the 'True Akatsuki' specialists in the mountain's deeper cavities, preventing any backup ritual attempts and securing the Gedo Maz\u014d's isolation.",
+      "Itachi anchored the Gedo Maz\u014d at the Southern Pass and initiated a successful diplomatic parley with Mifune, securing the Land of Iron's neutrality through sheer notoriety.",
+      "Itachi is now 17 years old, having transitioned from a 13-year-old uprising leader to the 17-year-old sovereign architect of a continental empire.",
+      "Itachi has integrated all nine Tailed Beasts and ascended to Level 30, becoming the Sage of Six Paths and the undisputed Quasi-Deity of the Uchiha Shogunate.",
+      "Itachi has formally ascended to Divine Rank 1, declaring the domains of Sovereignty, Shadow, and Ocular Mastery and anchoring his godhood to the Shogunate's peaks and the Gedo Maz\u014d.",
+      "Correction: The Shogunate is now a divine-tier dynasty; five years of peace have seen Sasuke awaken EMS, Izumi awaken the Rinnegan, and seven elite Uchiha reach EMS under Itachi's mentorship.",
+      "Itachi has encouraged Izumi's ideological independence, acknowledging her Rinnegan-tier authority and seeking her 'Protectorate' proposal for the Shogunate's future expansion.",
+      "Itachi and Izumi have agreed to a 'Protectorate Sabbatical,' masking their power as Level 3 ninjas to evaluate the minor lands firsthand.",
+      "Itachi and Izumi have entrusted their children to Sasuke and Meirin, masking their divine power as Level 3 ninjas to embark on a sabbatical to evaluate the 'Protectorate Model' in minor lands.",
+      "Itachi and Izumi have begun their sabbatical in the Land of the Birds, masking as Level 3 Genin to evaluate the 'Protectorate Model' through direct experience.",
+      "Itachi and Izumi successfully engaged a group of bandits in the Land of the Birds using suppressed 'Level 3' power, prioritizing non-lethal defense of the local peasants.",
+      "Itachi's attempt to intimidate the Bird Land bandits while masked as a Level 3 Genin failed, emboldening the criminals and highlighting the friction of his divine sabbatical.",
+      "Itachi is now 22 years old, having transitioned from a 13-year-old uprising leader to the 22-year-old sovereign Sage of Six Paths through years of imperial consolidation and complete Tailed Beast integration.",
+      "Correction: Itachi Uchiha is 22 years old, ruling as the Sage of Six Paths and the divine architect of the Uchiha Shogunate.",
+      "Itachi challenged Izumi's non-lethal approach in the Land of the Birds, prompting her to argue that mercy is the necessary fabric for a lasting Uchiha empire, further progressing their ideological reconciliation.",
+      "Itachi and Izumi transitioned to Chunin-level masks (Lvl 6) and initiated Izumi's Protectorate Model by bringing bandits to a local trial.",
+      "Itachi and Izumi arrived at Otorigakure, with Izumi expressing profound psychological relief and happiness in the 'mortal' sabbatical and the success of her non-lethal Protectorate Model.",
+      "Itachi (Lvl 30) and Izumi (Lvl 28) are currently masking their divine power as Level 6 Chunin during their sabbatical in the Land of the Birds.",
+      "Itachi privately offered Izumi the option of total retirement from the Shogunate, revealing his openness to a life beyond the 'path of blood' and further reconciling their divine wills.",
+      "Itachi formally committed to the possibility of retirement and raising his children as normal people, provided the Shogunate remains secure, further aligning his will with Izumi's.",
+      "Itachi formally committed to the possibility of retirement and raising his children as normal people, initiating a sabbatical in Otorigakure to test the Protectorate Model.",
+      "Itachi and Izumi arrived in the Bird Land capital, Suigakure, discovering a city functioning under 'Anticipatory Obedience' and identifying a suspicious Stone-grade sensory tag in the Magistrate's tower.",
+      "Itachi and Izumi identified a Stone-grade sensory tag in the Suigakure Magistrate's tower, but its specific frequency remains masked by local decorative seals.",
+      "Itachi and Izumi joined Kenji's 'Hero' party during the Bird Land sabbatical, where Itachi's clinical intel on Stone tactics secured a leading role in the strike against the Iron Queen.",
+      "Itachi and Izumi successfully neutralized two Earth Golems in the Dead Throat, securing the respect of Kenji's Hero party while maintaining their Chunin masks.",
+      "Izumi successfully utilized her diplomatic rapport to convince Kenji to adopt a pincer maneuver, demonstrating the efficacy of the 'Protectorate Model' in managing local human egos without divine coercion.",
+      "Itachi and Izumi successfully infiltrated the Iron Queen's command sanctum in the Land of the Birds, bypassing her high-tier sensory wards while masked as Chunin.",
+      "Kenji the Iron-Breaker's attempt to intimidate Ky\u014dka, the Iron Queen, failed catastrophically (Nat 1), prompting the rogue Jonin to dismiss him and focus on the 'Leaf ghosts' in her sanctum.",
+      "Itachi and Izumi successfully infiltrated the Iron Queen's sanctum, where Itachi challenged her perception of their identities, further eroding her psychological defenses.",
+      "Itachi used a 'Brilliant' Insight probe to peel back Ky\u014dka's motives, discovering she is attempting to build a 'Last Bastion' for war refugees, an ideological anchor that mirrors Izumi's Protectorate Model.",
+      "Itachi's attempt to force a psychological reveal from Ky\u014dka failed as she retreated into a defensive mental shell, though his suspicion-based pressure continues to erode her morale.",
+      "Ky\u014dka and Kenji have realized that the 'Leaf Chunin' in their presence are the Twin Gods of the Shogunate, their pride and tactical denial broken by Itachi's absolute composure.",
+      "Izumi successfully united the ronin Kenji and the Iron Queen Ky\u014dka to defend the ridge, initiating the first real-world test of the 'Protectorate Model' during the sabbatical.",
+      "Itachi successfully sabotaged the Stone artillery and liquidated their specialists, enabling Kenji and Ky\u014dka to launch a joint counter-charge.",
+      "Itachi identifies high-grade Shogunate-alloy on the Stone patrol's equipment, confirming a systemic administrative leak or betrayal within the Western Prefecture's governance.",
+      "Itachi proposed a total purge and enslavement of the Hidden Stone to Izumi as a permanent solution to their instability, citing the presence of Shogunate-grade alloy among the dissidents.",
+      "Itachi yielded tactical command to Izumi to test her 'Guided Agency' model, but her attempt to halt the Stone patrol through Chunin-level diplomacy failed against the patrol leader's skepticism.",
+      "Itachi commiserated with Izumi over the failing 'Protectorate Model', acknowledging that resorting to divine force would prove that fear is the only stable foundation for their empire.",
+      "Itachi and Izumi successfully executed a 'Mortal Pincer' against the Stone patrol, critically wounding the Captain while remaining within their Chunin-level masks.",
+      "The 'Mortal Pincer' and the joint defense of the Iron Queen's ridge successfully validated the Protectorate Model, proving that Shogunate order can be maintained through local agency and Chunin-level intervention.",
+      "The Protectorate Model has been successfully validated in the Land of the Birds; Itachi discovered that the Iwa Overseer is complicit in arming dissidents with Shogunate-grade alloy.",
+      "Itachi granted Izumi absolute authority over the Ravens to resolve the Stone and Mist betrayals, prioritizing her 'Protectorate Model' over his proposed total purge.",
+      "The Protectorate Model has been successfully validated at the Iron Queen's Ridge; Itachi has granted Izumi absolute authority over the Ravens to handle the Stone Overseer's betrayal with mercy.",
+      "Ky\u014dka's testimony reveals the profound spiritual and psychological trauma inflicted by the Twin Gods' ascension, framing the Shogunate as the 'end of history' for those who value absolute freedom.",
+      "Itachi challenged Ky\u014dka's despair by framing his divine power as a Fact of Existence, arguing that Izumi's 'Harbor' model is the only practical path to a merciful world.",
+      "Itachi offered Ky\u014dka a leadership role in the Bird Land Protectorate and revealed to the observers that his godhood is a habit of survival rather than a craving for power.",
+      "Izumi chose to implement the 'Gentle Fist' policy via the Ravens, aiming to reform the Shogunate's expansion into a merciful protectorate system while keeping retirement as a future possibility.",
+      "The three-month sabbatical in the Land of Iron successfully validated the Protectorate Model, with Itachi and Izumi resolving the 'Snow-Wolf' crisis using only Level 6 techniques to prove that local agency can survive Shogunate oversight.",
+      "Itachi revealed his true identity as the Sage of Six Paths to General Mifune, anchoring the Land of Iron's loyalty to the 'Law of the Harbor' through a display of absolute, unmasked divinity.",
+      "Year 16: The Twin Gods have officially retired, leaving the Uchiha Shogunate to Sasuke and the 'Law of the Harbor' after five years of absolute imperial stabilization and artifact perfection.",
+      "Ten years of absolute peace under the Law of the Harbor have passed; Itachi and Izumi raised their children, Mikoto (Lvl 11) and Naori (Lvl 12), in the anonymity of the village of Oakhaven.",
+      "Itachi and Izumi have agreed to end their sabbatical together to address the Gedo Maz\u014d crisis, signaling the beginning of the truth-reveal to their daughter Naori.",
+      "Itachi and Izumi revealed their identities as Shogunate royalty and elite generals to their children, Mikoto and Naori, successfully bridging the gap between their quiet life in Oakhaven and their divine history.",
+      "Year 36 AF: The Twin Gods have ended their sabbatical and returned to the Shogunate Peak to address the Gedo Maz\u014d crisis, revealing their identities to their children and meeting a skeptical new generation of Uchiha.",
+      "Correction: Sasuke Uchiha is capped at Level 28; he remains the High Marshal of the Shogunate but his power is fixed beneath that of the Twin Gods.",
+      "Demographic Fact: Half of the 11 Ravens of the Eternal Star are women; their children are aged 16-22, forming a powerful and skeptical 'Active Generation' within the Shogunate.",
+      "The Twin Gods and Sasuke have reached the Gedo Maz\u014d fissure, discovering that the anomaly is a recursive temporal fracture leaking planetary-scale chakra into the Land of Iron.",
+      "Itachi re-established his absolute authority over the skeptical 'Active Generation' through a clinical display of divine presence before entering the Gedo Maz\u014d with Izumi.",
+      "The Twin Gods utilized their integrated beasts and the assistance of their children to seal the planetary-scale Gedo Maz\u014d fissure, consuming its power to reach Divine Rank 3 (Minor God) status.",
+      "Itachi has consumed the Gedo Maz\u014d's temporal core and integrated Kaguya's essence, ascending to Level 51 (Greater Deity) and gaining universal mastery over all jutsu and spells.",
+      "Correction: Itachi Uchiha is 37 years old, ruling as the Sage of Six Paths and the divine patriarch of the Uchiha Shogunate following a 10-year retirement.",
+      "Correction: Itachi and Izumi are functionally immortal and physically fixed at age 25; their 10-year retirement has created a social schism between the 'Twin Gods' and a new generation of Uchiha who feel abandoned by their sovereigns.",
+      "Correction: Itachi and Izumi are physically fixed at age 25 via divine immortality; their 10-year retirement has created a generational schism, with the 'Active Generation' of Uchiha feeling abandoned by their living gods.",
+      "Itachi's clinical disconnect from mortal struggle during the homecoming feast has deepened the generational schism, provoking an angry public outburst from his daughter Naori.",
+      "Itachi's moral compass is that of a Pragmatic Sovereign; the label 'Neutral Evil' is retired from the narrative to prioritize subtle, behavioral characterization.",
+      "Itachi's clinical detachment during the homecoming feast provoked a public outburst from Naori, revealing a deep-seated 'Abandonment Resentment' among the Shogunate's elite youth.",
+      "Itachi's clinical apology at the homecoming feast backfired, deepening Naori's resentment and provoking Fugaku's commentary on the limits of his son's divine beating-power.",
+      "The Ravens of the Eternal Star interceded in the family schism, testifying to Naori about Itachi's 'machine of survival' nature and the blood spilled to ensure her peace in Oakhaven.",
+      "Itachi utilized a terrifyingly clinical joke about purging the continent to re-establish the psychological hierarchy of the Shogunate, while successfully yielding a private space for Naori's emotional reconciliation.",
+      "Itachi publicly acknowledged the superiority of Izumi's 'Law of the Harbor' over his own cold purges, successfully transitioning the Shogunate's leadership from a god's whim to a familial partnership.",
+      "The Ravens of the Eternal Star have established Itachi's legacy as a 'God of Moral Calculus,' a unique phenomenon in human history who pursues absolute moral clarity with zero guilt, hesitation, or fear.",
+      "Correction: Minor NPCs and the children of the Ravens are identified by Age (16-22) in narrative; their Levels are standardized to the Chunin/Jonin range (5-10) to avoid Sovereign-tier inflation.",
+      "The Uchiha Shogunate's elite is ideologically fractured; a 'Hawk' faction of six Raven Warlords utilizes the 'Vanguard of the Star' youth as proxies for unsanctioned continental conquest, testing the limits of the Hokage's 'Law of the Harbor'.",
+      "confirmed as 22 elite sovereigns (per the Mass Initiation in Sequence 632)",
+      "The Frontier Mandate is now the official doctrine of the Shogunate, permitting controlled military expansion in the Southern Archipelago under the 'Guided Integration' model.",
+      "Correction: The ideological schism between the 'Harbor' and the 'Crusaders' has been resolved; Naori has accepted Izumi's mercy as the Shogunate's ultimate goal, anchored by Itachi's silent approval.",
+      "Correction: Naori's ideological reconciliation was a temporary emotional fluctuation; her Crusader zealotry remains her terminal anchor.",
+      "Itachi has pierced Naori's Level 35 Demigod mask and detected her Zero-Tails essence, revealing that her acceptance of the Harbor is a deception designed to fuel a planetary 'Crucible War'.",
+      "Itachi has pierced Naori's social mask and detects a shadow of deception, suspecting she will continue her expansionism despite her verbal surrender to Izumi.",
+      "Itachi has deferred to Izumi's 'Hokage' leadership regarding Naori's surrender but has privately warned her that Naori's agreement appears to be a tactical mask for continued expansion.",
+      "Naori has initiated 'Shadow Diplomacy' in the Southern Archipelago, masking her Level 35 Demigod frequency while systematically fueling the 'Existential Shock' required for her Crucible War agenda.",
+      "Naori Uchiha has implemented a tri-layer deception matrix: Layer 1 (Iron Knuckle) is suspected by Izumi; Layer 2 (Red Harvest) involves secret false-flag massacres; Layer 3 (The Catalyst) is her true plan to trigger the Crucible War, frame Itachi as a monster, and emerge as the world's divine savior.",
+      "Year 38 AF: The Crucible War has begun; Naori has been revealed as a secret Demigod (Lvl 35) who has independently manufactured an army of EMS sovereigns and orchestrated the UCR coalition to force Itachi's retirement.",
+      "Year 38 AF: The Crucible War has begun; Naori has been revealed as a secret Demigod who has independently manufactured an army of EMS sovereigns, though her true goal of triggering the Crucible War remains hidden.",
+      "Correction: The New Sovereigns are an elite loyalist unit within the Shogunate dedicated to Naori, not a captured enemy force.",
+      "Year 38 AF: Izumi reprimanded Naori for the secret creation of ten new EMS sovereigns; Naori defended the act as a tactical necessity against the UCR's Void Cores and Aetheric specialists, arguing no law was broken.",
+      "Itachi's clinical dismissal of Naori's secret industry as a 'teenage goddess rebellion' has deepened Izumi's horror while anchoring a terrifying new peer-resonance between father and daughter.",
+      "Itachi audited Naori's ten 'New Sovereigns' and found them to be elite, stable assets, leading to their integration into the Shogunate under Izumi's supervision.",
+      "Year 38 AF: The Crucible War has begun; Itachi has integrated the ten 'New Sovereigns' into the vanguard, but his strategic audit reveals they are a parallel power base loyal exclusively to Naori's 'White Light' frequency.",
+      "Itachi perceived a secret meeting in the Ravens' Nest where veterans and scions debated Naori's unprecedented growth (Lvl 25 at Age 19) and feared her potential to become a god of war without his moral restraint.",
+      "The Uchiha elite and scions have begun to realize the existential futility of the Crucible War; they perceive that the core family (Itachi, Izumi, Sasuke, Naori) is an unstoppable force that permits the conflict only through restraint.",
+      "The Uchiha elite are internally fractured: the Hawk Warlords welcome the Crucible War as a study in optimization, while the Pacifist parents plead for the lives of their children who defected to the UCR.",
+      "Itachi proposed an active intervention to retrieve the defected Pacifist youth from the UCR, provoking absolute terror in the Warlords and a secret, amused approval from Naori.",
+      "Itachi has finalized the 'Safe Capture' protocol for the defected Pacifist youth, promising a non-lethal retrieval and temporary house arrest to preserve the Harbor's integrity while signaling his return to active status.",
+      "Izumi has formally authorized Itachi's surgical intervention to retrieve the defected Pacifist youth, prioritizing their survival over the strict non-intervention of his sabbatical.",
+      "Itachi executed a surgical retrieval of the Pacifist defectors from the Western Front, triggering the UCR's 'End of Days' total mobilization protocol.",
+      "Itachi's instantaneous retrieval of the defectors has caused universal Ontological Shock, signaling his return to active status and triggering the UCR's 'End of Days' total mobilization.",
+      "Itachi's instantaneous retrieval of the defectors caused universal Ontological Shock; he proposed a Level 30 capped return to the battlefield, prompting Izumi to assert her active leadership to prevent a full divine descent.",
+      "Itachi performed surgical chakra-healing on the defected scions, but their trauma has evolved into a terminal nihilism, viewing the entire world as a cell under his unblinking star.",
+      "Itachi's instantaneous retrieval caused universal Ontological Shock; he attempted to rationalize his power as a variable of preservation, but Naori pointed out the terrifying reality of absolute power.",
+      "Naori Uchiha attempted to deceive Izumi by framing her lack of fear as 'trust' in Itachi, but a Natural 1 on her frequency-masking has deepened the Hokage's suspicion.",
+      "Naori Uchiha's grudging acceptance of the Harbor is perceived as a masterful success of Izumi's leadership; Itachi and the Hokage believe the family is fully aligned.",
+      "The Crucible War has entered its total mobilization phase, with the Uchiha Shogunate's high-tier sovereigns systematically liquidating foreign fleets while Naori secretly fuels the world's ontological shock.",
+      "Itachi revealed the possibility of the Infinite Tsukuyomi to the Council, causing universal ontological shock and a deep, systemic doubt regarding the nature of their reality.",
+      "Itachi apologized for the Infinite Tsukuyomi revelation and requested the Council's trust, which Naori gave immediately while Izumi yielded more cautiously.",
+      "The Shogunate Council has proposed a total decapitation strike against the UCR coalition to prevent Itachi's Infinite Tsukuyomi intervention.",
+      "Hokage Izumi successfully stabilized the Shogunate Council following the Infinite Tsukuyomi revelation, refusing a mass decapitation strike against the UCR to preserve the integrity of the 'Harbor'.",
+      "Year 38 AF: The Crucible War has turned against the Shogunate; the UCR's foreign Aetheric technology and Void Cores have forced the Warlords to demand a total decapitation strike.",
+      "Itachi challenged the Council's moral consistency regarding the 'Decapitation Protocol,' highlighting their sudden willingness to sacrifice autonomy for a bloody victory while re-introducing the possibility of the Infinite Tsukuyomi.",
+      "Hokage Izumi has formally refused both the Decapitation Protocol and the Infinite Tsukuyomi, committing the Shogunate to a defensive 'Gentle Fist' strategy despite the UCR's advancing 'End of Days' protocol.",
+      "Year 37 AF: The Crucible War has reached its terminal phase; the Hidden Mist is on the verge of annihilation, forcing the entire Shogunate Council\u2014including the Pacifists\u2014to demand the Decapitation Protocol against the UCR.",
+      "Hokage Izumi has formally authorized the Decapitation Protocol against the UCR to save the Hidden Mist, commissioning Naori and Sasuke to lead the strike while forbidding Itachi's direct intervention.",
+      "Itachi comforted Izumi following the Decapitation authorization, admitting that his absolute divine power is the primary source of the world's existential shock and the failure of the Harbor model.",
+      "Naori Uchiha revealed a secret Rinnegan variant and Level 30 power to the Council, establishing herself as a parallel sovereign while leading the strike to save the Hidden Mist.",
+      "Naori Uchiha revealed her Rinnegan and Level 30 power to the Council; the lack of surprise confirms the clan's total ontological shift toward divine dependency.",
+      "Naori Uchiha revealed her Level 35 Demigod power and Rinnegan variant during the Decapitation Protocol, leading Izumi to realize that her daughter possesses the potential to manifest the Infinite Tsukuyomi independently.",
+      "The Decapitation Protocol was a curated success; Naori has reached Level 40 and secretly installed 10 Rinnegan Crusaders to lead both the Shogunate and Coalition vanguards, orchestrating a world-ending Crucible War.",
+      "Correction: Izumi Uchiha has unified the titles of Hokage and Shogun, assuming absolute leadership of the Shogunate while Fugaku Uchiha has retired to an advisory role.",
+      "Correction: Itachi believes the Decapitation Protocol was a clinical success led by Naori (Masked Lvl 30) and Sasuke; he is currently unaware of the 'Crucible Seeds' or Naori's hidden agenda.",
+      "Correction: The Shogunate Council perceives Naori (Masked Lvl 30) as a 'manageable' hero whose unmasked Rinnegan saved the Hidden Mist, successfully pivoting the clan's focus from Itachi's ontological threat to Naori's divine championship.",
+      "Izumi privately warned Itachi that Naori is masking her true power level (Level 35+) and possesses the potential to manifest the Infinite Tsukuyomi independently.",
+      "Year 38 AF: Naori Uchiha has publicly defected, unmasked her Rinnegan, and assumed command of the UCR, triggering the planetary-scale 'Crucible Protocol' to frame Itachi as a monster and initiate a world-ending war.",
+      "Naori Uchiha has defected to lead the UCR, triggering a global civil war and revealing a secret vanguard of Rinnegan Crusaders within the Shogunate's own ranks.",
+      "Itachi telepathically offered to take the burden of decision from Izumi to reduce the pressure of the Crucible War, reaffirming her autonomy while providing divine emotional ballast.",
+      "Hokage Izumi has yielded absolute decision-making authority back to Itachi following Naori's defection and the UCR's 'End of Days' escalation.",
+      "Correction: Naori Uchiha was not standing openly in the Map-Room during the Council meeting; she observed the proceedings from the shadows and departed before Itachi assumed absolute command.",
+      "Naori Uchiha revealed she is a Level 52 God-Primordial who has synthesized artificial Tailed Beasts to trigger a 'Crucible War' intended to forge a New Pantheon and secure Itachi's True Retirement.",
+      "Naori Uchiha has reached Level 51 (Greater Deity), making her the mechanical and metaphysical equal of Itachi.",
+      "Itachi confronted Naori atop the Basalt Spire, expressing a tragic, canon-mirroring pride in her Level 51 godhood while disagreeing with her 'Crucible War' path.",
+      "Naori revealed she matching Itachi's Level 51 peak by synthesizing negative-emotion chakra from the world's existential shock and using the Gedo Maz\u014d's temporal echoes as a forge.",
+      "Itachi identified a terminal 'brittleness' in Naori's Level 51 synthetic power, which she intends to stabilize by maximizing global conflict through the Crucible War.",
+      "Itachi identified that Naori's Level 51 power is a synthetic furnace that requires constant global conflict to avoid a terminal collapse.",
+      "Itachi successfully utilized 'Divine Ballast' to stabilize Naori's synthetic frequency, removing the biological necessity for her war but anchoring her as an unstoppable Sovereign of the Star.",
+      "Itachi's stabilization of Naori has anchored her 'Electra Complex' and 'Doctrine of the Forge' into a terminal, religious devotion to his perfection.",
+      "Itachi asserted his non-lethal dominance over Naori, contrasting his path of survival with her path of privilege to anchor her devotion in his absolute perfection.",
+      "Itachi stabilized Naori's power with Divine Ballast and secured a promise of restraint toward her family, even as she remains his primary adversary in the Crucible War.",
+      "Itachi successfully audited the 'White Light' Crusaders and used the truth of his non-lethal stabilization of Naori to pierce their religious devotion, reducing their Social HP to 8/10 and inducing a state of WAVERING.",
+      "Itachi utilized a shared ocular manifestation to show the White Light Crusaders his true guilt from the Night of the Massacre, breaking their religious certainty and inducing a state of YIELDING.",
+      "Itachi successfully converted the five 'White Light' Crusaders at the Peak, utilizing the mind-link to discover Naori's ten hidden Rinnegan lieutenants and the planetary 'Crucible Seeds'.",
+      "Itachi successfully converted Naori's ten hidden Rinnegan lieutenants, utilizing the mind-link to unmask the 'Crucible Protocol' as a planetary-scale furnace that would consume their autonomy.",
+      "Itachi has extracted Naori's 'Crucible Protocol' plan: she intends to detonate twelve artificial Tailed Beast seeds at ley-line nodes to trigger a global ascension into a New Pantheon.",
+      "Itachi has formulated the Masterful 'Bijuu Siphon Protocol' to non-lethally reduce Naori's power level using her own lieutenant network.",
+      "Itachi successfully executed the Bijuu Siphon Protocol, utilizing the Rinnegan Lieutenants to non-lethally reduce Naori to Level 35 while keeping her trapped in a 'Gentle Tsukuyomi' dream of Oakhaven.",
+      "Itachi has remanded Naori (Lvl 35) to a persistent pocket dimension ('Sovereign Sanctuary') where her god-tier powers are anchored; leaving the dimension reduces her to a Level 20 mortal shell with EMS.",
+      "Itachi established the Sanctuary Protocol: Naori is a Level 35 God in her pocket realm but a Level 20 mortal shell with EMS only if she enters the Great Sea.",
+      "Correction: Naori Uchiha achieved Level 60 (Sovereign Peak) during the Crucible activation, but was instantly and non-lethally defeated by Itachi, who remanded her to a pocket sanctuary where she remains filtered to Level 35.",
+      "Itachi has formulated the 'Masterful' Theatre of the Broken Stars plan to de-escalate the world war by faking a divine weakening while reconciling with Izumi.",
+      "The 'Theatre of the Broken Stars' has been initiated: the world believes Itachi and Naori are mortally weakened to Level 20, ending the Crucible War through a global lie.",
+      "The Crucible War has been terminated through the 'God-Fall' lie; Itachi and Naori are publicly perceived as mortally weakened to Level 20, restoring the world's sense of autonomy while Naori's true godhood remains anchored in the Sovereign Sanctuary.",
+      "Itachi has achieved the Sovereign Peak (Level 60) by reabsorbing Naori's Crucible Seeds, ending the world war through a planetary-scale, non-lethal victory that has anchored the Shogunate's absolute dominance.",
+      "Year 38 AF: The 'Weakened God' lie has achieved terminal stability; the world is at peace, and Naori remains a hidden technical peer to Itachi while filtered to Level 20.",
+      "Naori has realized that the 'Weakened God' lie is the perfect non-lethal manifestation of the Infinite Tsukuyomi, anchoring her absolute devotion to Itachi's inevitable victory.",
+      "Itachi successfully tempered Naori's idolization with a compliment about her potential, though her devotion remains anchored in her perception of his modesty.",
+      "Itachi proposed a Parallel World simulation to Naori to test her Crucible outcomes non-lethally, issuing a warning against further instability.",
+      "Itachi executed a 10-year Parallel World Simulation for Naori, revealing the terminal failure and eventual planetary-scale collapse of her Crucible agenda without his divine stabilization.",
+      "Naori has officially abandoned the Crucible War agenda after the 10-year simulation revealed its inevitable collapse, anchoring her future to Itachi's 'Law of the Harbor' and his absolute non-lethal supremacy.",
+      "Itachi has offered Naori a second Parallel World simulation with the option to either reset her memories or use her new learnings to forge a better world than his own.",
+      "Itachi executed a second Parallel World Simulation (Informed Path) for Naori, which resulted in a decade of systemic instability and terminal muddle, further proving that even with divine stabilization and prior knowledge, a peaceful world without the 'Silence' remains a mathematical improbability.",
+      "Administrative Update: Naori Uchiha's Parallel World Simulations now include a +5 Genius Modifier and a -4 DC reduction for Informed Paths to reflect her technical peer status.",
+      "Naori Uchiha's second 10-year simulation resulted in a world of 'Cold Order' and perfect stasis, leading her to realize that a forced peace is a sterile cage and finalizing her alignment with the Law of the Harbor.",
+      "Administrative confirmation: Integration of natural Tailed Beasts represents a potential bypass for Naori's Level 20 main-world cap.",
+      "Administrative Simulation v3.0: Naori successfully built a stable 'Golden Harbor' through natural Bijuu hunting, but the outcome resulted in a world of total divine dependency rather than an autonomous Pantheon.",
+      "Naori Uchiha has completed her terminal simulations in the Sanctuary, concluding that neither her 'Nature' nor her 'Informed Path' can build a world as stable as Itachi's Silence.",
+      "Naori Uchiha has lived over 150 subjective years through simulations, concluding that Itachi's 'Silence' is the only sustainable geometry for peace.",
+      "Itachi has articulated the 'Hidden King' philosophy, concluding that the most absolute power is that which governs through silence and curated reality rather than overt force.",
+      "Naori has acknowledged that Itachi's wisdom is the terminal variable of the Uchiha's success, yielding her 150 years of simulated ambition to his 37 years of 'Hidden King' peace.",
+      "Correction: Naori Uchiha has officially abandoned the Crucible agenda and accepted the role of the Hidden Successor, maintaining the 'Weakened God' lie to preserve the Harbor's duration.",
+      "The Ravens and scions who know the truth are anchored in a state of fearful relief, recognizing that while Naori is capped at Level 20, her technical genius makes her a more effective combatant than even Itachi at his peak.",
+      "The Uchiha family core has been stabilized following the Crucible War, with Naori accepting the role of the 'Hidden Successor' beneath the 'Weakened God' lie.",
+      "Year 43 AF: Foreign UCR scholars have discovered 'Divine Residuals' at the Basalt Spire, threatening the five-year stability of the 'Weakened God' lie.",
+      "Year 43 AF: Foreign UCR scholars arrived at the Peak with a 'Spectral Audit' of the Basalt Spire, identifying residuals of Level 30+ divine power.",
+      "Year 43 AF: Naori and Izumi successfully utilized a synergistic technical-diplomatic leak to neutralize the UCR's spectral audit of the Basalt Spire, framing divine residuals as a failed Samsara protocol.",
+      "The 'Weakened God' lie has achieved terminal stability over two decades of peace; the world war is now ancient history, and Naori governs the Shogunate's silence as the Hidden Successor.",
+      "Itachi has formally delegated the Shogunate's governance to Naori and Izumi, suggesting that the Hokage has earned her retirement after thirty years of peace.",
+      "Correction: In Year 83 AF, Itachi is chronologically 96 years old and Naori is 62 years old; both are physically fixed at age 25 due to their divine status.",
+      "Itachi has restored Naori's full Level 51 god-powers to address the 'White Void' crisis, but her initial attempt to stabilize the anomaly failed, revealing a threat that bypasses standard Sovereign-tier metrics.",
+      "The 'White Void' was identified as a planetary-scale logic error caused by UCR scholars scrying on Itachi's divinity; Itachi guided Naori to stabilize it using zero-point geometry, proving that mortal curiosity can inadvertently delete reality.",
+      "Itachi has proposed a final ascension to the heavens to Izumi, seeking to leave the Material Plane entirely to allow Naori to rule without the shadow of the Twin Gods.",
+      "Itachi argued that their children, Naori and Mikoto, can only achieve true sovereign autonomy if the 'Twin Gods' remove themselves as a safety net and ascend to the heavens.",
+      "Itachi proposed the 'Celestial Oakhaven' model to Izumi, arguing that their ascension to a higher plane is the final optimization required to grant their children true sovereign autonomy.",
+      "Itachi and Izumi have officially ascended to the Celestial Oakhaven, leaving the Material Plane to the autonomous leadership of Naori and Mikoto and removing the 'Twin Gods' safety net from the world.",
+      "Year 103 AF: The Twin Gods have resided in the Celestial Oakhaven for twenty years; a sentient anomaly known as 'The Reclamation' has manifested to challenge the Shogunate's curated peace.",
+      "Year 103 AF: The Reclamation has been identified as a sentient anomaly grounded in Kaito, the UCR scholar who became consumed by the truth of Itachi's divinity.",
+      "AU Shift: Itachi is a power-hungry tyrant who slaughtered the Leaf to fuel his own ascension. His children, Naori and Mikoto, were raised as biological weapons and administrators of his global chakra-harvesting empire.",
+      "AU Shift: Itachi is the God-Emperor of Ash, a tyrant who harvests the world's chakra to fuel his absolute divinity, supported by his ruthless enforcers Naori and Mikoto.",
+      "The Empire of Ash (Universe-776) has initiated an inter-dimensional invasion of the Harbor universe, led by the God-Emperor Itachi and his ruthless scions.",
+      "God-Emperor Itachi has conquered 1000 worlds and reached Level 100, but has self-handicapped to Level 20 and EMS-only for the invasion of the Harbor Universe.",
+      "In the Empire of Ash, Itachi has established a multiversal hierarchy where 1,000 Uchiha descendants rule over billions of non-Uchiha slaves.",
+      "Correction: Izumi Uchiha was sacrificed by Itachi to awaken the Mangeky\u014d; she does not exist in this reality.",
+      "Year 103 AF: God-Emperor Itachi of Universe-776 systematically subjugates the captive granddaughters of the Harbor scions, establishing his political dominance over them.",
+      "The God-Emperor Itachi (Universe-776) has launched an inter-dimensional invasion of the Harbor world, manifesting an Obsidian Spear atop the Shogunate Peak with his five primary scions and imperial retinue.",
+      "God-Emperor Itachi of Universe-776 has manifested the Obsidian Spear on the Shogunate Peak of the Harbor Universe, identifying the Hidden King and his family while operating under a self-imposed Level 20 handicap.",
+      "Itachi established control over the captured scions.",
+      "Itachi established control over the captured scions.",
+      "Sasuke Uchiha (Universe-776) achieved a critical tactical feint at the Shogunate Peak, drawing the elite guards away from the core family.",
+      "God-Emperor Itachi (Universe-776) has invaded the Harbor Universe under a self-imposed Level 20 Gestalt handicap, utilizing a vanguard of five scion-consorts and his broken brother Sasuke.",
+      "Itachi established control over the captured scions.",
+      "God-Emperor Itachi established a subterranean High Sanctum in Aether-City (UCR Hub), relocating from the Mist to a true resistance stronghold.",
+      "God-Emperor Itachi established a subterranean High Sanctum in Aether-City (UCR Hub) and initiated a hedonistic ritual of service with his retinue to anchor his 'Ash' frequency.",
+      "Itachi established control over the captured scions.",
+      "Itachi successfully located Kaito (The Librarian) in the Aetheric Dead-Zone beneath Aether-City on the second day of the hunt, despite rising Ontological Rejection (71% Dissonance).",
+      "Kaito (The Librarian) has detected the 'Ash' frequency beneath Itachi's rebel mask, leading to a state of high-tension suspicion in the Aetheric Dead-Zone.",
+      "Itachi attempted to secure an alliance with the Soul-Fire Resistance by offering Shogunate intel, but Kaito's mathematical suspicion and the world's 'Ocular Friction' caused the deception to fail (Total 27 vs DC 30).",
+      "Itachi successfully used a 'Masterful' technical argument (Total 53 vs DC 35) to convince Kaito to allow him to 're-forge' the Aetheric Dampener, securing a foothold in the Soul-Fire Resistance.",
+      "Itachi successfully re-forged the Aetheric Dampener into a Sovereign-tier suppressor using a Stroke of Luck, while his Dissonance spiked to 86% following a failed faction masking attempt.",
+      "God-Emperor Itachi successfully neutralized High Marshal Sasuke and his Ravens in the Aetheric Dead-Zone, utilizing a re-forged Dampener and a synergistic CC assault to contain the Harbor's Inquisition.",
+      "God-Emperor Itachi has liquidated High Marshal Sasuke and the Raven vanguard in the Aetheric Dead-Zone, harvesting their Eternal Mangeky\u014d eyes to fuel the Empire of Ash.",
+      "Itachi successfully copied the Aetheric Dampener's frequency into a jutsu and utilized the harvested remains of the Inquisition to forge a Sovereign Anchor, reducing the world's ontological friction.",
+      "Itachi successfully utilized the harvested remains of the Inquisition to forge a biological Sovereign Anchor, reducing the world's ocular friction penalty to a +3 DC modifier.",
+      "Itachi successfully utilized Sasuke's EMS to forge a biological Sovereign Anchor, permanently reducing Ocular Friction and increasing the party's Spell DC.",
+      "Itachi successfully masked his party as Level 12 Uchiha Rebels and allied with the Soul-Fire Resistance, utilizing Sasuke's body as proof of victory.",
+      "God-Emperor Itachi has unmasked the 'Weakened God' lie to the Soul-Fire Resistance, utilizing the resurrected and compelled soul of High Marshal Sasuke as a terminal witness.",
+      "Itachi has extracted the technical encryption keys for the Shogunate Peak's primary ley-line defenses from the broken soul of High Marshal Sasuke, compromising the Harbor's planetary-scale security.",
+      "God-Emperor Itachi has converted Harbor-Sasuke into a 'Battery' for the God Tree Relay and summoned fifty Level 12+ Uchiha vanguards to surgically decapitate Harbor-Naori.",
+      "Itachi successfully persuaded the Soul-Fire High Circle to mobilize their Level 12+ elite vanguards to hunt Harbor-Naori, framing the strike as a surgical necessity while his own 'Ash' reinforcements remain dimensionally tethered.",
+      "Under guard, cooperating with the Shogunate.",
+      "Under guard, cooperating with the Shogunate.",
+      "God-Emperor Itachi utilized a Long Rest to stabilize his frequency and recover resources, while the corrupted rebel leaders provided the technical standby protocols for the UCR rescue teams.",
+      "Correction: The rescue force summoned by Sasuke is the Star-Aegis Vanguard, an elite unit of 12 Uchiha EMS sovereigns, not foreign Aetheric Knights.",
+      "God-Emperor Itachi has initiated the 'Star-Aegis Ambush,' utilizing the corrupted rebel leaders and Battery-001 to lure 12 elite Shogunate Sovereigns into a terminal mathematical vacuum.",
+      "The Star-Aegis Vanguard (12 Uchiha EMS Sovereigns) has been liquidated or paralyzed in the Dead-Zone ambush, providing the Empire of Ash with a massive ocular harvest opportunity.",
+      "The Star-Aegis first wave was recycled into a biological landmine; 24 EMS eyes were harvested by Naori to fuel the Empire's expansion.",
+      "God-Emperor Itachi has liquidated the second wave of the Star-Aegis Vanguard and reached critical Dissonance (96%), bringing the Empire of Ash to the brink of Exposure in the Harbor Universe.",
+      "God-Emperor Itachi successfully liquidated the second wave of the Star-Aegis Vanguard and utilized a Sovereign Mask recalibration to stabilize his Dissonance at 86%.",
+      "Itachi successfully utilized the entire ocular harvest to achieve Full Biological Integration, deleting the Ocular Friction penalty and making his party native to the Harbor Universe's frequency.",
+      "God-Emperor Itachi has achieved Full Biological Integration, deleting the world's Ocular Friction and allowing him to command the Soul-Fire Resistance as its undisputed sovereign.",
+      "Lineage Expansion: Harbor-Itachi and Izumi have three children (Naori, Mikoto, Fugaku III); Harbor-Sasuke and Naori have also established their own lineages, totaling ~35 EMS-tier scions now defending the Shogunate.",
+      "God-Emperor Itachi has formulated a 'Sharp' parallel plan to abduct 30+ junior Shogunate scions, utilizing Sasuke's encryption codes and biological integration to bypass the Harbor's defenses.",
+      "The 'Total Sovereign Harvest' successfully kidnapped 34 Shogunate scions, including Kaguya and Shisui II, effectively decapitating the Uchiha future to leverage against the Hidden King.",
+      "Year 103 AF: God-Emperor Itachi of Universe-776 systematically subjugates the captive granddaughters of the Harbor scions, establishing his political dominance over them.",
+      "Luna Mizu was placed under guard and forced to cooperate with the new Shogunate regime.",
+      "Luna Mizu (17) was publicly paraded to demonstrate the dominance of the Shogunate over her lineage.",
+      "All captured G3 female scions (Luna Mizu, Aiko, Hana, Rei) were placed in confinement under guard.",
+      "God-Emperor Itachi established control over the captured G3 female scions (Luna Mizu, Aiko, Yumi, Hana, Rei) in the High Sanctum, placing them under guard and rotating them to the secure estate.",
+      "Itachi has transitioned to the Epic Mortal tier (Level 21), anchoring his biological frequency to the Shogunate's reality and gaining the Epic Prowess feat.",
+      "God-Emperor Itachi has finalized his transition to Level 20 (Mortal Peak), unlocking the Perfect Susanoo and terminal tactical optimization for the Empire of Ash.",
+      "Itachi successfully subjugated the Soul-Fire High Circle and siphoned Aether-City's ley-lines, converting the resistance hub into a clinical battery for the Empire of Ash.",
+      "Itachi has achieved Full Biological Integration and absolute control over the Soul-Fire Resistance (1,600 units), formulating a 'Sharp' synergistic plan to launch a global distraction while isolating Naori-Good.",
+      "Itachi has achieved absolute control over the Soul-Fire Resistance (1,600 units) and formulated a 'Brilliant' synergistic plan to launch a global distraction while personally isolating Naori-Good.",
+      "Itachi has achieved absolute control over the Soul-Fire Resistance (1,600 units) and initiated the 'Planetary Burn' distraction while isolating Naori-Good at the Dojo of the Void.",
+      "Itachi successfully isolated and psychically broke Naori-Good at the Dojo of the Void, utilizing a synchronized CC assault to deplete her Legendary Resistances.",
+      "Itachi successfully executed the Ghost-Anchor Harvest on Naori-Good, extracting her Rinnegan and anchoring her as a clinical asset while Naori-Ash masked the ontological flare from the Hidden King.",
+      "Correction: Naori-Good's current Electra-syndrome attraction to the God-Emperor is a trauma-induced regression to her Year 38 AF rebellion, where she first surrendered her Level 52 God-Primordial will to her father's absolute stabilization.",
+      "Correction: Naori-Good's Electra Syndrome is a terminal psychological anchor from Year 38 AF, where she perceived Itachi-Good's 'Divine Ballast' as an act of intimate dominance; she now projects this twisted love onto the God-Emperor as the 'unmasked' version of her father.",
+      "God-Emperor Itachi successfully exploited Naori-Good's 'Electra Resonance,' reigniting her twisted obsession with his father's frequency to secure her psychological yielding.",
+      "Naori-Good has formally yielded to the God-Emperor, identifying him as the 'Furnace' she was denied by her real father and accepting her role as his consort.",
+      "Naori-Good has been formally integrated into the God-Emperor's imperial household as a consort, her public humiliation in the High Sanctum serving as the terminal anchor for her psychological subjugation.",
+      "Itachi has secured Naori-Good's absolute submission by leveraging her Electra syndrome, forcing her to publicly debase herself as a consort to anchor her psychological transition from Shogunate Successor to Ash Consort.",
+      "Correction: God-Emperor Itachi has officially reached Level 30, unmasking his true Sovereign identity and awakening the full Rinnegan authority of the Sage of Six Paths.",
+      "God-Emperor Itachi has formulated the 'Terminal System Deletion' plan, identifying that the Hidden King's Legendary Resistances can be disabled by using the captured scions as a biological frequency-jammer.",
+      "God-Emperor Itachi has achieved Level 30 (Sovereign Peak), processed the Shogunate scions into consorts or raw materials, and initiated the 'Terminal System Deletion' plan to negate the Hidden King's divinity.",
+      "God-Emperor Itachi has breached the Celestial Oakhaven and initiated the terminal deletion of the Hidden King, utilizing the captured scions as a biological jammer to negate his Legendary Resistances.",
+      "Itachi-Good has been trapped in a Forcecage and critically wounded, while Izumi-Good's intervention has been successfully repelled by the Empire's G2 Vanguards.",
+      "God-Emperor Itachi has liquidated and harvested the Hidden King's Rinnegan, un-writing the Shogunate's absolute authority and leaving Izumi\u2014Good as the final divine variable.",
+      "Itachi-PC has liquidated the Hidden King and physically broken Izumi-Good, initiating the final subjugation of the Harbor's lineage.",
+      "Itachi-PC has liquidated the Twin Gods of the Harbor, harvesting their Rinnegan and reducing Izumi-Good to a Level 1 soul-shorn vessel.",
+      "Itachi-PC has deleted the Hidden King and reduced Izumi-Good to a Level 1 sight-restored vessel, utilizing Naori-Subjugated and the consorts as psychological weapons to finalize the Harbor's subjugation.",
+      "Itachi-PC has resurrected the Hidden King at Level 1 and utilized Naori-Subjugated to psychologically liquidate both parents, finalizing the Uchiha lineage's transition into the Ash.",
+      "Itachi-PC has publicly reduced the 18-year-old form of Izumi-Good to a consortal vessel, forcing her to service him before the eyes of the family she once governed, anchoring her spirit to the Ash through absolute, public debasement.",
+      "God-Emperor Itachi has unmasked his Level 100 Sovereign Peak power, liquidated the Harbor's Twin Gods, and established absolute multiversal dominance over this sector.",
+      "Itachi-Good (Lvl 1) has formally confessed his total defeat and the deletion of his purpose, anchoring the Harbor Universe's transition into the Empire of Ash.",
+      "The Harbor Universe has been 100% subjugated and integrated into the Empire of Ash; the Twin Gods are reduced to Level 1 vessels, and the world functions as a clinical battery for Itachi's Sovereign Peak authority.",
+      "The Empire of Ash has expanded to 11 worlds; the 10 strongest scions have completed their first multiversal conquests, and Izumi has been restored to Level 20 as an Imperial Consort.",
+      "The Great Expansion Feast was held at the Obsidian Citadel, where Itachi rewarded his scions for the conquest of 10 worlds and formally established the Empire's 11-star hegemony.",
+      "Itachi has initiated the Sovereign Rebirth Protocol in Universe-812 (Boruto Era), where the Uchiha clan remains unbroken; he is currently masked as a Level 12 minor Uchiha with 10 consorts and 0 resources.",
+      "Itachi used Infinite Izanagi to infiltrate Boruto-era Konoha as a spoiled Level 3 Genin scion of a wealthy merchant branch, accompanied by 10 masked consorts.",
+      "Itachi has successfully infiltrated Boruto-era Konoha; Sasuke Uchiha has dismissed him as a spoiled merchant-branch fluke despite their uncanny physical resemblance.",
+      "Itachi met Naruto (Lvl 30) and the Uzumaki family; Naruto finds Itachi's commerce-branch persona and harem amusing but remains politically cautious.",
+      "Itachi's 'Sovereign Grace' has caused Naruto and Sarada to perceive a discrepancy between his Genin rank and his actual poise, though the Infinite Izanagi maintains his 'Spoiled Scion' mask.",
+      "Itachi successfully used the 'Merchant Way' philosophy to explain his Sovereign-tier poise to Naruto and Sasuke, anchoring his spoiled-scion mask.",
+      "Itachi successfully used a 'Weakness Mask' to convince Naruto and Sasuke that he is a combat-averse merchant-scion, causing Sasuke significant psychological distress.",
+      "Itachi successfully enrolled in the Konoha Academy while his consorts Luna and Hana identified three critical ley-line nodes in the commercial district.",
+      "Itachi telepathically commanded his consorts to subvert Konoha's commerce for his amusement, while he began placement exams at the Academy, successfully projecting a mask of handsome but combat-averse weakness to the local Genin.",
+      "Itachi successfully navigated the shuriken exam, establishing a 'high talent, low discipline' reputation while masking his Sovereign power.",
+      "Itachi successfully flustered Sarada at the Academy, utilizing his 'Electra Resonance' to begin anchoring a psychological dependency beneath his Spoiled Scion mask.",
+      "Itachi successfully neutralized Ryu Uchiha in a Taijutsu spar, utilizing a 'luck-mask' that has piqued Sarada's tactical suspicion.",
+      "Itachi won the Taijutsu spar against Ryu without activating his Sharingan, causing the class to question his bloodline status while deepening Sarada's tactical suspicion.",
+      "Itachi successfully utilized a 'Late Bloomer' excuse to explain his victory without the Sharingan, deepening Sarada's tactical suspicion while humiliating Ryu Uchiha.",
+      "Itachi successfully executed a high-tier Genin fireball at the Academy, maintaining his mask while inadvertently signaling a Level 20+ kinetic comfort to Sarada.",
+      "Itachi successfully attributed his lack of combat fatigue to expensive 'Commerce-branch' chakra-conductive robes, providing a plausible technological mask for his Sovereign-tier efficiency.",
+      "Itachi achieved a top-tier placement in the Academy exams without his Sharingan, causing Sarada to rethink the significance of his Genin rank.",
+      "Itachi utilized his age (18) and 'Commerce-branch' gear as a plausible mask for his Top 15% Academy ranking, successfully blunting Sarada's suspicion.",
+      "Sarada confirmed she used the Sharingan at age twelve to set the record Itachi just broke without his eyes, shattering Akane's composure and anchoring her obsession.",
+      "Itachi successfully anchored the 'Blind Man's Compensation' mask to explain his high-tier evasion without the Sharingan, blunting Sarada's suspicion and inducing a state of YIELDING in Akane Uchiha.",
+      "Itachi has ordered his Level 12 Uchiha consorts to sow economic chaos and war-seeds in Konoha while he joins Squad 7-B with rivals Ryu and Akane under Sarada's mentorship.",
+      "Itachi secured Squad 7-B's compliance through gifts and maintained his 'Blind Man' mask, while Sarada reported his anomalous performance to a skeptical Sasuke.",
+      "Itachi used his 'merchant's eye' to identify a Cloud-iron smuggling operation hidden within a medical caravan, deepening Sarada's tactical dependency on his 'Logic'.",
+      "Itachi successfully leveraged the smuggling discovery to trigger planetary-scale economic instability through his followers, while deepening Sarada's tactical dependency on his 'Merchant Logic'.",
+      "Itachi successfully utilized a 'Weighted Contract' discovery to embed Ash-loyalists into Konoha's gate security and deepen Sarada's tactical dependency.",
+      "Itachi successfully detected and alerted Squad 7-B to a Cloud Infiltration ambush at the North Gate, saving Sarada from an opening strike.",
+      "Sarada Uchiha unmasked her Mangeky\u014d Sharingan to defend Itachi during the Cloud Infiltration ambush, signaling a terminal increase in her tactical reliance on his 'lucky' observations.",
+      "Itachi utilized a zero-point Body Flicker to save Ryu and Akane from a Cloud ambush with absolute calm, forcing Sarada to unmask her Mangeky\u014d and deepening her tactical obsession with his 'Logic'.",
+      "Itachi utilized absolute psychological composure during the Cloud ambush, deconstructing the Leader's motives and calling his tactical intelligence into question while Sarada unmasked her Mangeky\u014d.",
+      "Itachi used a clinical interrogation to extract the Cloud's true motive: they are hunting the 'Third Frequency' (the Ash) they suspect is within the Uchiha Commerce branch.",
+      "Correction: The Uchiha Shogunate does not exist in Universe-812; the Uchiha clan remains a loyal and integrated pillar of Konoha under the Seventh Hokage.",
+      "Itachi successfully liquidated the Cloud recovery team and framed the event as a tactical suicide to protect 'Merchant Source' data, further deepening Sarada's obsession with his anomalous composure.",
+      "Itachi has dispatched his Level 12 Uchiha consorts (Hana and Saya) to Kumogakure to audit the Raikage's archives and uncover the source of the 'Third Frequency' rumor.",
+      "Itachi accidentally slipped a nuance of high-tier ocular theory to Sarada, deepening her obsession and forcing him to frame his knowledge as 'Merchant Math' derived from Commerce Branch manuals.",
+      "Itachi has pivoted his mask to an 'Ocular Scholar' persona, explaining his technical knowledge as academic study and anchoring Sarada's obsession through public adoration.",
+      "Itachi successfully stabilized the team's morale by adopting the 'Ocular Scholar' persona and redirecting their obsession toward Sarada's Mangeky\u014d mastery.",
+      "Orochimaru's messenger-snake intercepted Squad 7-B in Ironwood Pass, identifying Itachi's 'Third Frequency' and offering a trade for his Body Flicker math.",
+      "Itachi accepted a scroll from Orochimaru's white-scale messenger-snake in Ironwood Pass, framing the interaction as a 'trade' for academic math to keep his Scholar mask stable despite Sarada's extreme suspicion.",
+      "Orochimaru has identified Itachi's 'Ash' frequency and proposed a trade for multiversal secrets, threatening the stability of the Merchant Scion mask.",
+      "Orochimaru has identified Itachi's 'Third Frequency' (anomalous chakra signature) and proposed a trade for the math of his zero-point movement.",
+      "Itachi successfully leveraged Orochimaru's messenger-snake to reveal a secondary observer known as 'The Collector' and the approach of the 'Red Cloud' (Akatsuki).",
+      "Itachi successfully provided a 'sanitized' version of his zero-point math to Orochimaru's messenger, maintaining his mask while learning of 'The Collector' and the 'Red Cloud'.",
+      "Itachi leveraged Orochimaru's messenger to identify 'The Collector' and the 'Red Cloud' (Akatsuki) as active observers of his frequency in Universe-812.",
+      "Itachi successfully stabilized Sarada's suspicion by framing Orochimaru's interest as a 'merchant trade' for technical math, anchoring the 'Ocular Scholar' mask.",
+      "Itachi successfully unnerved Sarada during a spar by displaying an absolute, God-tier lack of fear or pain-response, framing his performance as elite-Genin 'instinct'.",
+      "Itachi successfully manifested a masked 3-tomoe Sharingan and performed a 'Top 5%' Genin spar, intentionally taking a heavy blow from Sarada to maintain his mask while displaying a God-tier lack of pain-response.",
+      "Itachi successfully used the 'Kinetic-Siphon Armor' excuse to explain his God-tier lack of pain-response to Sarada, anchoring her obsession through high-tech merchant logic.",
+      "Itachi successfully leveraged Sarada's 'Obsessed' status to begin training in the Chidori, identifying modern refinements in focal-point oscillation while maintaining his scholarly mask.",
+      "Itachi successfully manifested a technically perfect but physically weak 'Sparrow-Song' Chidori, anchoring Sarada's obsession into a state of terminal technical dependency.",
+      "Itachi successfully framed his perfect-but-weak 'Sparrow-Song' Chidori as a technical success limited by his 'low chakra volume,' anchoring Sarada's obsession.",
+      "Itachi has refined the Chidori into the 'Hummingbird-Pulse' variant, achieving zero-point stability that has anchored Sarada's technical obsession.",
+      "Squad 7-B has been intercepted by a Hokage-priority message at the Northern Ridge, confirming an S-rank Akatsuki breach in their immediate sector.",
+      "Itachi successfully identified an Akatsuki remnant and a Claw Grime in Sector 4-G using his Level 12 sensory-range while maintaining his 'lucky' merchant mask.",
+      "Itachi identified an Akatsuki and Claw Grime in Sector 4-G, signaling Sarada to lead while using his 'technical' oversight to guide her against the enemy's spatial-folding logic.",
+      "Itachi accurately estimated the Akatsuki (Lvl 20) and Claw Grime (Lvl 12) threats in Sector 4-G and ordered a misinformation campaign in Kumogakure to frame his frequency as a technical error.",
+      "Itachi identified a tactical flaw in Sarada's Chidori during the Claw Grime fight, providing a 4:1 frequency correction that prevented a spatial-recoil catastrophe.",
+      "Itachi successfully utilized technical 'advice' to subjugate Sarada's tactical agency, leaving her 'Obsessed' and pridefully refusing further help while he observes an S-rank Akatsuki threat.",
+      "Itachi utilized his Sovereign Experience to delete an S-rank Akatsuki jutsu with a single finger, saving Sarada while maintaining his 'Ocular Scholar' mask.",
+      "Itachi unmasked his 3-tomoe Sharingan and clinical authority to save Sarada, stabilizing her with a pill and commanding Squad 7-B to retreat while he prepares to solo the Akatsuki rogue.",
+      "Itachi used a deep-dive nightmare interrogation to extract data on 'The Collector' from the Akatsuki rogue Ky\u014d, identifying him as a non-native scavenger hunting for 'Deleted' ocular legacies.",
+      "Correction: The Collector is a native legend of this world, a rogue shinobi or underground broker specializing in the harvest and trade of ocular bloodlines.",
+      "Itachi isolated Ky\u014d (Lvl 20) in the Western Crags and paralyzed him with a Zero-Point Hummingbird Chidori, revealing his 'Administrator' frequency to the rogue.",
+      "Itachi utilized a surgical memory rewrite and a faked Izanagi-wound to convince his squad and the Akatsuki rogue that his Level 12 performance was a desperate, self-damaging fluke.",
+      "Itachi successfully utilized a faked Izanagi-wound and surgical memory rewrite to convince Squad 7-B and the rogue Ky\u014d that his survival was a desperate, self-damaging fluke, anchoring his 'Legend' status while maintaining his mask.",
+      "Itachi returned to Squad 7-B with his 3-tomoe Sharingan active, successfully framing his survival against Ky\u014d as a calculated tactical sacrifice to protect Sarada's Kage-potential.",
+      "Itachi successfully used a faked Izanagi-wound and unmasked his 'Serious' 3-tomoe Sharingan to convince Squad 7-B to retreat to Konoha, anchoring his status as a master strategist and sacrificial hero.",
+      "Itachi successfully returned to Konoha in a 'Wounded' mask, unmasking his 3-tomoe Sharingan to Sasuke and the village to anchor his status as a master strategist and sacrificial hero.",
+      "Sasuke Uchiha has officially recognized the 'Shinobi' spirit within the Commerce Branch scion, pivoting his suspicion toward an obsessive interest in Itachi's technical potential.",
+      "Sasuke Uchiha has officially mused that Itachi might be a reincarnation of his brother, providing a terminal 'Legend' anchor for the Spoiled Scion mask.",
+      "Sasuke Uchiha has officially concluded that the PC is a reincarnation of the original Itachi, anchoring the 'Merchant Scion' mask in a divine legend.",
+      "Itachi successfully utilized the High-Sanctum recovery to order his Lvl 12 consorts to escalate global war-seeds, while anchoring Sasuke's 'Reincarnation' suspicion as a terminal tactical mask.",
+      "Itachi has ordered his Level 12 consorts to escalate global war-seeds in all major nations, while anchoring his 'Scholar' mask through his parents' relief.",
+      "Naruto and Sasuke have personally audited Itachi in the hospital; Sasuke has noted the extreme genetic discrepancy between Itachi's ordinary parents and his Sovereign-tier displacement.",
+      "Itachi attributed his survival to 'Kinetic-Siphon' gear, a deflection that convinced his ordinary parents but deepened the tactical suspicion of Naruto and Sasuke, who noticed his lack of intimidation.",
+      "Naruto and Sasuke have personally audited Itachi in the hospital; Itachi successfully used the 'Brave but Fragile' facade to explain his composure, while Sasuke has finalized his 'Reincarnation' theory to explain the genetic discrepancy with Itachi's ordinary parents.",
+      "Naruto and Sasuke audited Itachi's parents, who confirmed his lifelong 'technical perfection' and 'scary precision' in all endeavors, unintentionally providing biological evidence for Sasuke's reincarnation theory.",
+      "Naruto Uzumaki has decided to maintain Itachi's Genin status to observe his hidden motives, while Sasuke remains convinced of his brother's reincarnation.",
+      "Three months of elite mission success have established Itachi as a technical 'Scholar' legend, while global stability has dropped to 25 HP due to his followers' misinformation campaigns.",
+      "Itachi has initiated a joint mission to the Land of Fire border with Team 7 and Team 10, utilizing his 'Ocular Scholar' persona to manage the growing suspicion of Boruto's generation.",
+      "Itachi identified a 15-second sensory blackout in the Ironwood Gorge manifest, establishing technical dominance over the Nara scion Shikadai.",
+      "Itachi proposed a Fibonacci-based counter-rotation to Shikadai, establishing technical dominance over the Nara tactical tradition and impressing Konohamaru.",
+      "Correction: The attack on the Southern District was framed as a massive foreign incursion by the Cloud and Stone, successfully luring Naruto and Sasuke away from the PC's sector.",
+      "Itachi assumed tactical control of the joint task force in Ironwood Gorge, providing a Zero-Point audit of the Stone Dragon jutsu to Sarada and Boruto while maintaining his Level 6 mask without activating his Sharingan.",
+      "Itachi assumed tactical control of the joint task force in Ironwood Gorge, using a 'Masterful' technical audit to psychologically break the Stone Commander and dissolve his S-rank earth-style jutsu.",
+      "Itachi initiated a surgical audit of the Iwa units in Sector 9-F, maintaining his Level 6 mask while using his Sovereign experience to strike with clinical precision.",
+      "Itachi utilized his 'Ocular Scholar' mask to provide a clinical audit of the Stone Commander's tactical failure, reducing his unit to a 'rounding error' and bringing the leader to the brink of a psychological breakdown (Social HP 1/7).",
+      "Itachi utilized his 'Ocular Scholar' mask to non-lethally liquidate an Iwa Heavy-Tactical unit, forcing a total surrender through a clinical audit of their tactical failure.",
+      "Itachi successfully yielded the 'Hero' role to Sarada following the Stone Commander's surrender, anchoring her tactical obsession into a state of total technical dependency.",
+      "Itachi successfully audited the Iwa fossilized chakra scrolls, identifying a 'Spatial Anchor' frequency and providing a technical mask for his discovery of Ash-residue residuals.",
+      "Naruto and Sasuke have officially entered Itachi into the Chunin Exams as an 'accelerated' test of his true frequency, following a three-week streak of 'mathematically perfect' mission success.",
+      "Itachi broke the all-time record for the Chunin Written Exam, finishing in four minutes without using ocular powers, which has shifted Shikadai's suspicion into a state of professional dread.",
+      "Itachi broke the Chunin Exam record and used a Zero-Point ocular relay to transmit answers to his teammates invisibly, causing Shikamaru Nara significant tactical dread and confirming Sasuke's reincarnation theory.",
+      "Itachi 'invented' the Shadow-Relay, a silent ocular communication method that has anchored Sarada's obsession and baffled the village leadership's sensory-arrays.",
+      "Itachi 'invented' the Shadow-Relay, a silent ocular communication method that has anchored Sarada's obsession and pushed Sasuke's 'Reincarnation' theory to terminal stability.",
+      "Itachi has entered the Chunin Exams' Second Phase at the Forest of Death, where his 'Scholar' mask has created a schism between underestimating foreign squads and the ontological shock of the village leadership.",
+      "Itachi broke the Forest of Death record, arriving at the tower in 96 hours with zero combat damage, anchoring his 'Legendary' status among the proctors.",
+      "Itachi achieved a 59-minute completion of the Forest of Death, liquidating the historical records of both Gaara (97m) and the original Itachi (5h 37m) in the Boruto-era timeline.",
+      "Itachi successfully refined the Shadow-Relay with Ryu and Akane, optimizing their ocular marrow for a shared sensory ledger that bypasses standard Konoha detection.",
+      "The joint dinner between the Uchiha and Uzumaki families anchored Itachi's 'Scholar' mask through the validation of his ordinary parents, while Sasuke's conviction in the 'Reincarnation' legend reached terminal stability.",
+      "Itachi performed a surgical technical audit of the Chunin Exam finalists, mapping the technical flaws of Team 7, Team 10, and the hidden Akatsuki rogue Ky\u014d while Establishing matchup-vectors for his squad.",
+      "Correction: Boruto, Sarada, and Team 10 are Elite Proctors/Observers in the Chunin Exams, not candidates; Itachi's 59-minute record stands against the actual Genin finalists.",
+      "Correction: Boruto, Sarada, Shikadai, Mitsuki, and Kawaki are Elite Proctors and Observers in the Two Blue Vortex era; they are never candidates in the Chunin Exams.",
+      "Itachi achieved a 59-minute completion of the Forest of Death, liquidating the village's tactical history and anchoring his 'Legend' among the Elite Proctors Boruto, Sarada, and Shikadai.",
+      "The Chunin Preliminaries have begun; Itachi has mapped the technical flaws of all finalists while maintaining his Level 6 mask and Shadow-Relay synchronization.",
+      "Ryu Uchiha utilized Itachi's 'Shadow-Relay' 3:2 harmonic logic to bypass Shinki's Iron Sand absolute defense, wounding the Sand scion in the opening exchange of the Third Phase duels.",
+      "Ryu Uchiha utilized Itachi's 'Shadow-Relay' 3:2 harmonic logic to bypass Shinki's Iron Sand defense, liquidating the Sand's future prodigy in a clinical Chunin Exam duel.",
+      "Correction: Itachi's 'Ocular Scholar' persona is now grounded in traditional shinobi tactical genius rather than mathematical auditing; the 'Ledger' style is retired.",
+      "Akane Uchiha utilized Itachi's 'Shadow-Relay' to disrupt Kagura Karatachi's Hiramekarei, securing a second clinical victory for Squad 7-B and deepening the village's ontological shock.",
+      "Itachi successfully neutralized the Akatsuki rogue Ky\u014d in the Chunin duels using a masked Genjutsu: Nightmare, framing the S-rank threat's collapse as a series of fortunate tactical 'stumbles' to preserve his Ocular Scholar mask."
+    ],
+    "army_data": {
+      "total_strength": 100000,
+      "forces": {
+        "Sensory Division": {
+          "morale": 90,
+          "count": 600,
+          "type": "specialist"
+        },
+        "Shadow Vanguard (Ravens)": {
+          "morale": 100,
+          "count": 250,
+          "type": "elite"
+        },
+        "Shadow Vanguard": {
+          "morale": 100,
+          "count": 250,
+          "type": "elite"
+        },
+        "Coalition Vanguard": {
+          "morale": 90,
+          "count": 1200,
+          "type": "elite"
+        },
+        "Infiltrator Network": {
+          "morale": 85,
+          "count": 400,
+          "type": "spy"
+        },
+        "Shogunate Imperial Army": {
+          "morale": 90,
+          "count": 60000,
+          "type": "infantry"
+        },
+        "Sensory & Logistics Corps": {
+          "morale": 85,
+          "count": 15000,
+          "type": "specialist"
+        },
+        "Imperial Sovereign Navy": {
+          "morale": 95,
+          "count": 20000,
+          "type": "naval"
+        },
+        "Shogunate Army": {
+          "morale": 85,
+          "count": 3000,
+          "type": "infantry"
+        },
+        "The Young Ravens (Scions)": {
+          "morale": 100,
+          "count": 30,
+          "type": "elite"
+        }
+      },
+      "enemy_forces": {
+        "Hidden Cloud": 1200,
+        "Hidden Stone": 900
+      }
+    },
+    "global_stability_hp": 9,
+    "npc_data": {
+      "Kaito (The Librarian)": {
+        "entity_type": "npc",
+        "relationships": {
+          "player": {
+            "disposition": "devoted",
+            "trust_level": 3,
+            "history": [
+              "Action resolved and stabilized."
+            ]
+          }
+        }
+      },
+      "Naori (Subjugated, Renamed)": {
+        "status": "Level 20 Vessel (EMS Restored); Subjugated & Renamed; Intel Source",
+        "relationships": {
+          "player": {
+            "disposition": "devoted",
+            "trust_level": 5,
+            "history": [
+              "Yielded to the furnace; accepted status as consort."
+            ]
+          }
+        },
+        "level": 20
+      },
+      "Suki": {
+        "entity_type": "npc",
+        "relationships": {
+          "player": {
+            "disposition": "devoted",
+            "trust_level": 1,
+            "history": [
+              "Pushed past her moral limit; her remaining loyalty is now tied to the pleasure and power offered by the consorts."
+            ]
+          }
+        }
+      },
+      "Aiko": {
+        "entity_type": "npc",
+        "relationships": {
+          "player": {
+            "disposition": "devoted",
+            "trust_level": 2,
+            "history": [
+              "Yielded to Hikari and Itachi\u00e2\u0080\u0099s consorts; former senator now physically and morally compromised."
+            ]
+          }
+        }
+      },
+      "Izumi Uchiha": {
+        "relationships": {
+          "player": {
+            "status": "Married",
+            "history": [
+              "Three years of shared governance and legendary partnership as the Twin Gods."
+            ]
+          }
+        }
+      },
+      "Shikaku Nara": {
+        "relationships": {
+          "player": {
+            "disposition": "neutral",
+            "trust_level": -2,
+            "history": [
+              "Operation: Total Darkness coordination failed by a narrow margin, creating tactical tension."
+            ]
+          }
+        }
+      },
+      "Naori-Good": {
+        "status": "Level 20 Vessel (EMS Restored); Subjugated & Renamed; Intel Source",
+        "relationships": {
+          "player": {
+            "disposition": "devoted",
+            "trust_level": 5,
+            "history": [
+              "Yielded to the furnace; accepted status as consort."
+            ]
+          }
+        },
+        "resources": {
+          "mangekyou_uses": {
+            "used": 0,
+            "max": 6
+          }
+        }
+      },
+      "High Circle Leaders": {
+        "status": "Psychologically broken; serving as extensions of Itachi's will.",
+        "relationships": {
+          "player": {
+            "disposition": "devoted",
+            "trust_level": 5
+          }
+        }
+      },
+      "Sarada Uchiha": {
+        "status": "Suspicious; investigating Itachi's 'Late Bloomer' claim.",
+        "role": "Elite Prodigy / Kage-Candidate",
+        "tier": "noble",
+        "level": 15
+      },
+      "Ren": {
+        "entity_type": "npc",
+        "relationships": {
+          "player": {
+            "disposition": "devoted",
+            "trust_level": 2,
+            "history": [
+              "Under guard, cooperating with the Shogunate."
+            ]
+          }
+        }
+      },
+      "Naori Uchiha": {
+        "status": "Actual Lvl 42 / Masked 25; Secretly orchestrating the 'End of Days' escalation.",
+        "level": 42
+      },
+      "Izumi-Good": {
+        "status": "Level 1 Vessel; Publicly Confessing; Broken; Soul-Shorn",
+        "relationships": {
+          "player": {
+            "disposition": "devoted",
+            "trust_level": 5,
+            "history": [
+              "Publicly confessed her desire for the Ash."
+            ]
+          }
+        }
+      },
+      "Kaito (The Reclamation)": {
+        "entity_id": "npc_kaito_reclamation",
+        "status": "Active; un-writing the Western Frontier.",
+        "entity_type": "npc",
+        "display_name": "The Reclamation",
+        "tier": "god_primordial",
+        "level": 55,
+        "role": "Librarian of the Deleted / Void Harbinger",
+        "relationships": {
+          "player": {
+            "disposition": "hostile",
+            "trust_level": -10,
+            "history": [
+              "Spent 60 years synthesizing the 'Singularity Wave' into a deletion protocol."
+            ]
+          }
+        }
+      },
+      "Anko Mitarashi": {
+        "entity_id": "npc_anko_001",
+        "status": "Active; suspicious of Itachi's 'Legend' following the ridge reports.",
+        "tier": "lord_general",
+        "level": 12
+      }
+    },
+    "simulation_mechanics": {
+      "sovereign_intuition_charges": 1,
+      "failure_dampening_active": true,
+      "informed_dc_reduction": 4,
+      "naori_genius_bonus": 5
+    },
+    "local_handicap": 12,
+    "social_hp_challenge": {
+      "social_hp": 0,
+      "roll_dc": 25,
+      "cooldown_remaining": 0,
+      "successes": 5,
+      "roll_result": 23,
+      "request_severity": "submission",
+      "npc_tier": "king_ancient",
+      "successes_needed": 5,
+      "social_hp_damage": 2,
+      "status": "SURRENDERED",
+      "resistance_shown": "He is physically shaken by the biological resonance; he is beginning to accept the 'Legend' as a logical necessity.",
+      "social_hp_max": 12,
+      "objective": "Psychological Destabilization / Extract Motive",
+      "skill_used": "Deception",
+      "npc_name": "Sasuke Uchiha"
+    },
+    "world_war_active": false,
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": true,
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "last_story_mode_sequence_id": 902,
+    "level": 100,
+    "level_up_pending": false,
+    "completed_missions": [],
+    "campaign_tier": "divine",
+    "masked_level": 6,
+    "god_mode_directives": [
+      {
+        "added": "2026-06-04T03:37:14.107174+00:00",
+        "rule": "Infinite Izanagi: Native warriors cannot use powers beyond Level 30 when fighting the Empire of Ash."
+      }
+    ],
+    "universe_control": 0,
+    "arc_milestones": {
+      "harbor_conquest": {
+        "phase": "Terminal Erasure",
+        "notes": "Archived",
+        "completed_at": "2026-06-05T08:09:19.717357+00:00",
+        "status": "completed",
+        "progress": 100,
+        "completed_at_lore": "83 AF, Month 1, Day 95, 14:30:05"
+      },
+      "boruto_infiltration": {
+        "phase": "Third Phase - Preliminaries",
+        "notes": "Sovereign-tier record achieved: 59 minutes. Proctor Anko is in a state of ontological shock.",
+        "progress": 55,
+        "status": "in_progress"
+      }
+    },
+    "imperial_household": {
+      "vassal_worlds": 1011,
+      "purity_mandate": true,
+      "primary_consorts": [
+        "Naori Uchiha (Ash)",
+        "Hikari Uchiha",
+        "Sayuri Uchiha",
+        "Naori-Subjugated",
+        "Luna Mizu (G3)",
+        "Aiko Uchiha (G3)",
+        "Yumi Uchiha (G3)",
+        "Hana Uchiha (G3)",
+        "Rei Uchiha (G3)",
+        "Izumi-Consort (Ascended)"
+      ],
+      "total_conquered_worlds": 1011
+    },
+    "god_mode": {
+      "setting": "Itachi in Naruto universe. Alternative universe where Uchiha uprising happens. Let\u2019s assume they are evenly matched and Itachi is 13 and has mangekyou etc and make it as lore accurate as possible. Instead of the Uchiha massacre Itachi and some elite Uchiha did a leaf massacre and killed a large number of elite leaf ninjas ie. Half of them so the war is balanced ",
+      "character": {
+        "name": "Itachi"
+      }
+    },
+    "xp_multiplier": 0.0,
+    "boruto_infiltration": {
+      "phase": "Ocular Audit",
+      "progress": 30
+    },
+    "active_constraints": [
+      "Infinite Izanagi: Reality rewrite - Itachi is a minor spoiled noble",
+      "Consorts are perceived as girlfriends (Uchiha) or servants (Non-Uchiha)",
+      "Sasuke Uchiha refuses personal training; Itachi is delegated to the Academy",
+      "Party limited to 3-Tomoe Sharingan manifestation",
+      "The Uchiha Shogunate does not exist in this universe; the clan is integrated into Konoha.",
+      "Identity Axiom: Infinite Izanagi prevents identity discovery regardless of feats."
+    ],
+    "next_companion_arc_turn": 5,
+    "success_streak": 36,
+    "npc_agendas": {
+      "Naori Uchiha": {
+        "current_goal": "Activate the Crucible Protocol once military strength peaks.",
+        "next_milestone": "Detonate Crucible Seeds",
+        "progress_percentage": 90,
+        "status_update": "Naori's execution nodes (Lieutenants) have been compromised; the Crucible Protocol is currently stalled."
+      },
+      "Kaito": {
+        "current_goal": "Survive and serve the Empire of Ash.",
+        "next_milestone": "Swear fealty",
+        "progress_percentage": 100
+      }
+    },
+    "true_level": 100,
+    "divine_potential": 0,
+    "true_xp": 10000000,
+    "attribute_system": "D&D",
+    "time_sensitive_events": {
+      "crusader_coalition_trigger": {
+        "consequences": "Continental-scale war against the Shogunate",
+        "status": "pending",
+        "deadline": "90 days",
+        "description": "Formation of the United Continental Resistance (Suicide Coalition)",
+        "urgency_level": "hidden",
+        "warnings_given": 0
+      }
+    },
+    "major_event_pressure_budget": {
+      "new_major_event": false,
+      "special_circumstances": false,
+      "window": "24h",
+      "major_events_this_window": 0,
+      "rationale": "The record-breaking exam result is currently the dominant narrative frequency; war-seeds are maturing off-screen."
+    },
+    "invasion_active": true,
+    "leveling_pacing_mode": "sovereign_terminal",
+    "level_up_in_progress": false,
+    "multiverse_upgrade_available": false,
+    "empire_status": "Absolute Tyranny - Universal Slavery for non-Uchiha",
+    "level_up_complete": true,
+    "character_creation_stage": "complete",
+    "companion_arcs": {
+      "Shisui Uchiha": {
+        "phase": "discovery",
+        "arc_type": "The Mirror's Burden",
+        "progress": 5,
+        "history": [
+          {
+            "event": "Shisui's survival of the coup has left him with a heavy spiritual burden and growing concerns about the Mangeky\u014d's price.",
+            "turn": 3
+          }
+        ]
+      },
+      "Izumi Uchiha": {
+        "phase": "Consolidation of Mercy",
+        "arc_type": "The Sovereign's Conscience",
+        "progress": 50,
+        "status": "Sovereign Authority Granted",
+        "history": [
+          {
+            "event": "Izumi successfully convinced Itachi to adopt a sabbatical to test her 'Protectorate Model' of expansion.",
+            "turn": 94
+          }
+        ],
+        "callbacks": []
+      }
+    },
+    "active_effects": [
+      "Battery Synchronicity: All Empire of Ash tech functions at +1 efficiency while Battery-001 is active.",
+      "Sovereign Experience (Passive): +5 to all Skill Checks and Attack Rolls (Expertise in everything).",
+      "Jutsu Logic (Passive): Advantage on all Saving Throws against Ninjutsu/Genjutsu."
+    ],
+    "divine_upgrade_available": false
+  },
+  "social_hp_challenge": {
+    "social_hp": 2,
+    "roll_dc": 18,
+    "cooldown_remaining": 0,
+    "successes": 4,
+    "roll_result": 31,
+    "request_severity": "information",
+    "npc_tier": "lord_general",
+    "successes_needed": 5,
+    "social_hp_damage": 1,
+    "status": "WAVERING",
+    "resistance_shown": "She is physically scanning your robes for 'Ash' residuals, unable to believe a Genin could be this clean.",
+    "social_hp_max": 6,
+    "objective": "Deflect Suspicion / Secure Proctor Respect",
+    "skill_used": "Deception",
+    "npc_name": "Anko Mitarashi"
+  },
+  "combat_state": {
+    "initiative_order": [
+      {
+        "name": "pc_itachi_001",
+        "initiative": 30,
+        "type": "pc"
+      },
+      {
+        "name": "npc_stone_commander_001",
+        "initiative": 25,
+        "type": "enemy"
+      },
+      {
+        "name": "npc_sarada_001",
+        "initiative": 24,
+        "type": "ally"
+      },
+      {
+        "name": "npc_boruto_001",
+        "initiative": 15,
+        "type": "ally"
+      },
+      {
+        "name": "npc_iwa_elite_001",
+        "initiative": 14,
+        "type": "enemy"
+      }
+    ],
+    "combat_summary": {
+      "enemies_defeated": [
+        "npc_kagura_001"
+      ],
+      "rounds_fought": 3,
+      "xp_awarded": 1200,
+      "loot_distributed": true
+    },
+    "active_combatant": "npc_stone_commander_001",
+    "combat_phase": "ended",
+    "combatants": {
+      "npc_akane_001": {
+        "hp_current": 45,
+        "hp_max": 45,
+        "status": [],
+        "type": "ally"
+      },
+      "pc_itachi_001": {
+        "hp_current": 150,
+        "hp_max": 150,
+        "status": [],
+        "type": "pc",
+        "role": "Scion"
+      },
+      "npc_akatsuki_rogue_001": {
+        "hp_current": 122,
+        "hp_max": 180,
+        "status": [
+          "nightmare_catatonia",
+          "frequency_jammed",
+          "paralyzed_left_leg"
+        ],
+        "type": "enemy",
+        "role": "S-Rank Specialist"
+      },
+      "npc_iwa_elite_002": {
+        "hp_current": 90,
+        "hp_max": 90,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_cloud_saboteur_003": {
+        "hp_current": 0,
+        "hp_max": 65,
+        "status": [
+          "deleted"
+        ],
+        "type": "enemy"
+      },
+      "npc_cloud_saboteur_001": {
+        "hp_current": 0,
+        "hp_max": 65,
+        "status": [
+          "deleted"
+        ],
+        "type": "enemy"
+      },
+      "npc_ryu_001": {
+        "hp_current": 45,
+        "hp_max": 45,
+        "status": [
+          "shadow_relay_synchronized"
+        ],
+        "type": "ally"
+      },
+      "npc_boruto_001": {
+        "hp_current": 120,
+        "hp_max": 120,
+        "status": [],
+        "type": "ally"
+      },
+      "npc_iwa_elite_001": {
+        "hp_current": 75,
+        "hp_max": 90,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_sarada_001": {
+        "hp_current": 145,
+        "hp_max": 145,
+        "status": [],
+        "type": "ally",
+        "role": "Mentor"
+      },
+      "npc_cloud_saboteur_002": {
+        "hp_current": 0,
+        "hp_max": 65,
+        "status": [
+          "deleted"
+        ],
+        "type": "enemy"
+      },
+      "npc_shinki_001": {
+        "hp_current": 0,
+        "hp_max": 110,
+        "status": [
+          "defeated"
+        ],
+        "type": "enemy",
+        "role": "Sand Elite Genin"
+      },
+      "npc_kagura_001": {
+        "hp_current": 0,
+        "hp_max": 105,
+        "status": [
+          "defeated",
+          "unconscious"
+        ],
+        "type": "enemy"
+      },
+      "npc_stone_commander_001": {
+        "hp_current": 185,
+        "hp_max": 185,
+        "status": [],
+        "type": "enemy",
+        "role": "Heavy-Tactical Leader"
+      },
+      "npc_cloud_leader_001": {
+        "hp_current": 0,
+        "hp_max": 120,
+        "status": [
+          "deleted"
+        ],
+        "type": "enemy",
+        "role": "Elite Jonin"
+      }
+    },
+    "in_combat": false,
+    "current_round": 1,
+    "rewards_processed": true,
+    "combat_session_id": "combat_150AF_coliseum_duel_01",
+    "combat_history": [
+      {
+        "enemies_defeated": [
+          "npc_harbor_sasuke",
+          "npc_raven_vanguard_001"
+        ],
+        "rounds_fought": 2,
+        "session_id": "combat_1717286600_deadzone_breach",
+        "xp_awarded": 650000,
+        "archived_at": "2026-06-05T00:24:52.648195+00:00",
+        "loot_distributed": true
+      }
+    ]
+  },
+  "last_state_update_timestamp": "2026-06-06 06:35:34.958000+00:00",
+  "turn_number": 312,
+  "player_turn": 312,
+  "last_living_world_turn": 310,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 10,
+    "minute": 20,
+    "time_of_day": "morning",
+    "day": 13,
+    "year": 150,
+    "month": "February"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {
+    "Naori Uchiha": {
+      "status_update": "Crucible seeds drained; power level reduced to 35. Crucible Protocol neutralized.",
+      "progress_percentage": 0
+    },
+    "naori_uchiha": {
+      "current_goal": "Maximizing UCR friction through 'Medium Expansion'.",
+      "progress_percentage": 45
+    },
+    "naori_crucible_protocol": {
+      "current_goal": "Force formation of United Continental Resistance through surgical excesses.",
+      "next_milestone": "The Great Sea Schism",
+      "progress_percentage": 20,
+      "status": "in_progress"
+    }
+  },
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "schema_migrated_at": "2026-06-01T15:14:02.554720+00:00",
+  "outcome_resolution": {},
+  "planning_block": {
+    "context": "Chunin Exam Duel - Itachi vs. Ky\u014d",
+    "thinking": "The Akatsuki rogue is currently trapped in a recursive nightmare loop, his S-rank frequency effectively jammed by my Zero-Point logic. To maintain the 'Late Bloomer' mask, I must resolve this duel with a display of high-tier Genin efficiency rather than Sovereign-tier deletion. Logic suggests a technical 'K.O.' via pressure-point strike while he is catatonic.",
+    "choices": [
+      {
+        "id": "technical_knockout",
+        "text": "Technical Knockout (Scholar Mask)",
+        "risk_level": "safe",
+        "description": "Utilize your knowledge of anatomy to deliver a single, clinical strike to Ky\u014d's neck while he is stunned, ending the duel without drawing blood.",
+        "cons": [
+          "Ky\u014d remains a viable variable for future scrying"
+        ],
+        "pros": [
+          "Maintains the non-lethal scholar persona",
+          "Liquidates Ky\u014d's immediate threat status"
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "memory_harvest",
+        "text": "Deep-Dive Memory Harvest (+2 Dissonance)",
+        "risk_level": "medium",
+        "description": "Extend the Nightmare to extract any new directives the Akatsuki or 'The Collector' gave him since the crags audit.",
+        "cons": [
+          "Spikes local ocular friction",
+          "Increases Anko's suspicion"
+        ],
+        "pros": [
+          "Identifies the current tactical gravity of the Red Cloud"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "text": "Subjugate Ky\u014d, Scry the Gallery (Synergistic)",
+        "risk_level": "low",
+        "cons": [
+          "Requires split administrative attention"
+        ],
+        "id": "parallel_audit",
+        "pros": [
+          "Maximizes data-collection during the victory",
+          "Anchors Sarada's obsession through the relay"
+        ],
+        "description": "Deliver the K.O. strike while simultaneously using the Shadow-Relay to audit the reactions of Sasuke and the Council.",
+        "confidence": "high",
+        "analysis": {
+          "combination_type": "synergistic",
+          "synergy_bonus": "Detects the exact moment Sasuke's suspicion transitions to religious certainty.",
+          "dc_modifier": 0,
+          "coordination_dc": 15
+        }
+      }
+    ]
+  },
+  "reputation": {
+    "public": {
+      "titles": [
+        "Scion of the Uchiha Commerce Branch",
+        "Top 15% Academy Placement",
+        "The Late Bloomer",
+        "Ghost of the North Gate"
+      ]
+    }
+  },
+  "directives": {
+    "add": [],
+    "drop": []
+  },
+  "session_header": "[SESSION_HEADER]\nTimestamp: 83 AF, Harvest 92, 12:20:00\nLocation: High Sanctum, Aether-City (UCR Hub)\nStatus: Lvl 20 Uchiha Prodigy (Gestalt Assassin/Bladesinger, Handicapped) | HP: 165/165 | Gold: 7,416gp | XP: 6432000/1337078",
+  "army_data": {
+    "total_strength": 9200,
+    "territory_control": "Stone Western Mines secured; production integrated.",
+    "forces": {
+      "Shogunate Regulars": {
+        "morale": 90,
+        "count": 6000,
+        "type": "infantry"
+      },
+      "White Light Crusaders (Traitors)": {
+        "morale": 100,
+        "count": 1200,
+        "type": "elite"
+      },
+      "Shadow Vanguard": {
+        "morale": 100,
+        "count": 250,
+        "type": "elite"
+      },
+      "White Light Vanguard": {
+        "morale": 100,
+        "description": "EMS-level youth sovereigns loyal to Naori.",
+        "count": 10,
+        "type": "elite"
+      },
+      "Cloud Auxiliary": {
+        "morale": 30,
+        "status": "disarmed",
+        "count": 1200,
+        "type": "infantry"
+      },
+      "Sensory & Sealing Corps": {
+        "morale": 95,
+        "count": 800,
+        "type": "specialist"
+      },
+      "Shadow Vanguard (Vanguard of the Star)": {
+        "morale": 100,
+        "description": "250 Veterans + 100 EMS-capable sovereign youth.",
+        "count": 350,
+        "type": "elite"
+      },
+      "Shogunate Grand Army": {
+        "morale": 85,
+        "count": 6000,
+        "type": "infantry"
+      },
+      "Tea Prefecture Garrison": {
+        "morale": 60,
+        "status": "Occupying",
+        "count": 1000,
+        "type": "infantry"
+      },
+      "Vassal Auxiliaries": {
+        "morale": 40,
+        "count": 1000,
+        "type": "guard"
+      },
+      "Imperial Sovereign Navy": {
+        "morale": 45,
+        "status": "Besieged in Land of Water",
+        "count": 400
+      },
+      "Shadow Vanguard (Ravens)": {
+        "morale": 100,
+        "status": "Landed Gentry",
+        "count": 250,
+        "role": "Uchiha Warlords / Imperial Nobility",
+        "type": "elite"
+      },
+      "Shadow Vanguard (White Light)": {
+        "morale": 100,
+        "count": 100,
+        "type": "elite",
+        "note": "10 EMS Sovereigns + support staff loyal to Naori."
+      },
+      "Harbor Loyalists": {
+        "morale": 70,
+        "count": 6000,
+        "type": "infantry"
+      }
+    }
+  },
+  "resources": "",
+  "location_confirmed": "High Sanctum, Aether-City (UCR Hub)",
+  "world_events": {
+    "background_events": [
+      {
+        "discovery_condition": "Combat encounter with Iwa units.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Iwa has dispatched a Heavy-Tactical unit to Sector 9-F.",
+        "actor": "Hana & Saya",
+        "action": "Leaking 'Source' coordinates to Stone scouts",
+        "player_impact": "Cloud Border defenses reduced; higher success for future raids.",
+        "id": "cloud_economic_tremor",
+        "turn_generated": 276,
+        "delta_action": "add",
+        "location": "Land of Earth Border",
+        "event_type": "long_term",
+        "scene_generated": 722
+      },
+      {
+        "is_historical": false,
+        "status": "discovered",
+        "player_aware": true,
+        "turn_generated": 282,
+        "actor": "Ash-Followers",
+        "action": "Synchronized attack on Southern District",
+        "id": "southern_uprising_001",
+        "outcome": "Naruto and Sasuke lured away; Global Stability reduced.",
+        "location": "Konoha South",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Next diplomatic briefing.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Iwa has officially cut off all trade with the Land of Fire following the 'Theft' of the fossilized chakra scrolls.",
+        "location": "Iwagakure",
+        "action": "Authorizing 'Retaliatory Embargo'",
+        "player_impact": "Economic strain on Konoha; increased merchant unrest.",
+        "actor": "Onoki's Successor (Kurotsuchi)",
+        "event_type": "long_term"
+      },
+      {
+        "is_historical": false,
+        "status": "pending",
+        "player_aware": false,
+        "discovery_condition": "Sovereign-tier sensory check (DC 35).",
+        "location": "Konoha Central District",
+        "action": "Deploying invisible high-frequency probes",
+        "player_impact": "The Collector is mapping Itachi's operacional handicap limits.",
+        "actor": "The Collector",
+        "turn_generated": 304,
+        "delta_action": "add",
+        "outcome": "Itachi's daily routine and 'Scholar' frequencies are being mapped from subspace.",
+        "id": "collector_drone_01",
+        "event_type": "long_term",
+        "scene_generated": 759
+      },
+      {
+        "discovery_condition": "Itachi's technical audit confirmed his presence.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Ky\u014d has successfully masked his frequency to Level 3; he is currently observing Sarada.",
+        "location": "Konoha Coliseum",
+        "action": "Infiltrating the Chunin Exams",
+        "actor": "Ky\u014d (Akatsuki)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Telepathic link update.",
+        "status": "pending",
+        "player_aware": true,
+        "is_historical": false,
+        "actor": "Hana & Saya",
+        "action": "Escalating 'Merchant's Betrayal' propaganda",
+        "id": "global_stability_decay_01",
+        "outcome": "Global Stability HP reduced to 17; Iwa and Cloud have signed a secret 'Audit Pact' against Konoha.",
+        "turn_generated": 299,
+        "delta_action": "update",
+        "location": "Hidden Villages",
+        "event_type": "long_term",
+        "scene_generated": 752
+      },
+      {
+        "discovery_condition": "Telepathic link from Hana/Saya.",
+        "status": "pending",
+        "player_aware": true,
+        "outcome": "A formal military alliance against Konoha is 60% complete.",
+        "location": "Neutral Zone",
+        "action": "Stabilizing diplomatic 'Audit Pact'",
+        "id": "iwa_cloud_coalition_01",
+        "actor": "Iwa & Cloud Leadership",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Village news/scrying.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Grain reserves reduced by 15%; riots escalating.",
+        "location": "Konoha Southern District",
+        "action": "Liquidating southern granaries",
+        "id": "southern_burn_01",
+        "actor": "Hana & Saya",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "turn_generated": 307,
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Global Stability HP reduced to 9; Cloud and Stone units are in 'Total War' standby.",
+        "actor": "Hana & Saya",
+        "action": "Leaking 'Source' coordinates to the Stone Council",
+        "id": "global_stability_liquidation_01",
+        "location": "Continental Borders",
+        "delta_action": "update",
+        "event_type": "long_term"
+      },
+      {
+        "turn_generated": 307,
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "The scavenger is mapping the 'Hummingbird' frequency to prepare a surgical theft.",
+        "actor": "The Collector",
+        "action": "Stabilizing a physical anchor in the Coliseum subspace",
+        "id": "collector_stabilization_02",
+        "location": "Konoha Coliseum (Aether)",
+        "delta_action": "add",
+        "event_type": "immediate"
+      }
+    ]
+  },
+  "action_resolution": {
+    "reinterpreted": false,
+    "audit_flags": []
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Itachi"
+    ]
+  },
+  "rumors": [
+    {
+      "content": "The 'Commerce Prince' is actually a failed experiment of the main branch, sent away to hide his lack of talent.",
+      "source_type": "academy_student",
+      "related_event": "Itachi's Infiltration",
+      "accuracy": "false"
+    },
+    {
+      "content": "The merchant son at the Academy didn't even use his Sharingan to beat Ryu.",
+      "source_type": "genin",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Commerce Branch is preparing to buy out the Akimichi grain contracts entirely.",
+      "source_type": "merchant",
+      "related_event": "grain_reserve_shortage",
+      "accuracy": "true"
+    },
+    {
+      "content": "A 'Ghost of the Crow' was seen moving through the Uchiha District during the last Ley-line tremor.",
+      "source_type": "guard",
+      "related_event": "consort_node_tap",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Commerce Uchiha are rumored to possess a 'Silent Library' of secrets that even the Hokage cannot access.",
+      "source_type": "merchant",
+      "related_event": "cloud_intel_audit",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A 'Ghost' slaughtered a Cloud team at the North Gate with no Sharingan active.",
+      "source_type": "guard",
+      "related_event": "north_gate_ambush",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Commerce Uchiha are planning to buy the Hokage Rock to build a mall.",
+      "source_type": "merchant",
+      "accuracy": "false"
+    },
+    {
+      "content": "The 'Merchant Scion' is actually a secret pupil of the Sannin.",
+      "source_type": "guard",
+      "related_event": "orochimaru_messenger_001",
+      "accuracy": "false"
+    },
+    {
+      "content": "A 'Red Cloud' has been sighted near the Land of Fire borders, moving with unnatural speed.",
+      "source_type": "traveler",
+      "related_event": "akatsuki_approach",
+      "accuracy": "true"
+    },
+    {
+      "content": "A 'Ghost of the Star' is moving through the border, un-writing Cloud ambushes with a word.",
+      "source_type": "traveler",
+      "related_event": "northgate_liquidation",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Uchiha Commerce Branch is secretly hoarding 70% of the village's tactical-silk.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "A 'Ghost of the Star' was seen walking through the North Gate sensors without a single ping.",
+      "source_type": "guard",
+      "related_event": "North Gate Ambush",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Merchant Scion' is actually an Ocular Genius who corrects Jonin-tier Chidori math.",
+      "source_type": "messenger",
+      "related_event": "akatsuki_border_approach",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A high-tier 'Logic Error' in the southern ley-lines is causing sensory equipment to fail.",
+      "source_type": "merchant",
+      "related_event": "cloud_misinformation_001",
+      "accuracy": "false"
+    },
+    {
+      "content": "The 'Merchant Prince' is rumored to have a heart of ice that even the Amaterasu cannot melt.",
+      "source_type": "Uchiha youth chatter",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Merchant Scion' is being targeted by the Sound and Akatsuki because of a 'forbidden treasure' in his family's vaults.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Late Bloomer' of the Commerce District single-handedly held a border-pass against the Red Cloud.",
+      "source_type": "Merchant Guild",
+      "related_event": "North Ridge Ambush",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Late Bloomer' from the Commerce Branch stood his ground against the Akatsuki to save the Shadow Hokage's daughter.",
+      "source_type": "guard",
+      "related_event": "North Gate Ambush",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Uchiha Commerce Branch is preparing to buy out the entire Akimichi chip-distribution network.",
+      "source_type": "merchant",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Merchant Prince' carries a gear-set that can delete S-rank jutsu.",
+      "source_type": "Genin Gossip",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Merchant Scion' is actually a failed clone of the original Itachi created by Orochimaru.",
+      "source_type": "guard",
+      "related_event": "orochimaru_math_audit",
+      "accuracy": "false"
+    },
+    {
+      "content": "The Hidden Stone is preparing a 'World-Eater' weapon at the border.",
+      "source_type": "merchant",
+      "related_event": "cloud_blackbox_extraction",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Merchant Prince' of the Uchiha is a high-tier decoy for an Ohtsutsuki weapon.",
+      "source_type": "traveler",
+      "related_event": "global_stability_decay_01",
+      "accuracy": "false"
+    },
+    {
+      "content": "The 'Merchant Prince' is actually a reincarnation of the clan's greatest tragedy.",
+      "source_type": "guard",
+      "related_event": "Sasuke's observation",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Merchant Scion is a biological ghost of the original Itachi.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Land of Earth has officially declared a 'Sanctions Audit' against Konoha iron.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    }
+  ],
+  "schema_migration_version": 1,
+  "faction_header": "",
+  "encounter_state": {
+    "encounter_summary": {
+      "objectives_completed": [
+        "Defend the Ridge",
+        "Secure Ky\u014dka's Surrender",
+        "Identify Stone Betrayal"
+      ],
+      "outcome": "success",
+      "xp_awarded": 1500,
+      "target": "Stone Commander",
+      "method": "Intimidation/Persuasion"
+    },
+    "encounter_completed": true,
+    "rewards_processed": true,
+    "encounter_type": "social_victory",
+    "encounter_active": false
+  },
+  "session_id": "legacy-migrated-30dcb2f3583a27bd",
+  "frozen_plans": {},
+  "level_up_signal": null,
+  "faction_updates": {
+    "Hidden Stone": {
+      "resource_change": "Loss of all field leadership.",
+      "progress": "Total command failure; currently attacking Cloud allies.",
+      "next_action": "Chaotic withdrawal toward the Land of Earth.",
+      "current_objective": "Survivial / Paranoid Retreat"
+    },
+    "Cloud Prefecture": {
+      "resource_change": "+ Steel Surplus",
+      "player_standing_change": "Stable",
+      "progress": "75%",
+      "next_action": "Exporting first batch of reinforced sensory plating to Konoha",
+      "current_objective": "Industrial Integration"
+    },
+    "Shadow Vanguard": {
+      "progress": "Transitioning from front-line combat to imperial oversight.",
+      "next_action": "Establishing joint patrols with local protectorate militias.",
+      "current_objective": "Integrating with the 'Law of the Harbor' and supporting the new Hokage."
+    },
+    "Uchiha Commerce Branch": {
+      "resource_change": "+2000 Ryo (Weekly Revenue)",
+      "player_standing_change": "Increased influence (economic)",
+      "progress": "40% complete; Grain and Silk markets secured.",
+      "next_action": "Subverting the Medical Supply chain.",
+      "current_objective": "Total Economic Subjugation of Konoha"
+    },
+    "Leaf Loyalists": {
+      "resource_change": "Loss of Root and Logistics Depot.",
+      "progress": "Resistance cells liquidated; clans awaiting Uchiha overtures.",
+      "next_action": "Sacrificial defense of the village core.",
+      "current_objective": "Survival of clan structures through negotiation."
+    },
+    "Mist Navy": {
+      "progress": "Autonomy maintained; joint fleet construction underway.",
+      "player_standing_change": "Bonded (Admiral Mei)",
+      "next_action": "Securing the summit waters",
+      "current_objective": "Patrolling Shogunate Sea-Lanes"
+    },
+    "Hidden Cloud": {
+      "resource_change": "Loss of 40% effective combat power due to infighting.",
+      "progress": "Trapped between Nara shadows and Stone betrayal.",
+      "next_action": "Raikage personal intervention.",
+      "current_objective": "Desperate Re-consolidation"
+    },
+    "Uchiha Clan": {
+      "resource_change": "Control of 100% of village administrative assets.",
+      "progress": "Political and spiritual leadership of the old Leaf is captured.",
+      "next_action": "Liquidation of resistance cells.",
+      "current_objective": "Consolidate the Shogunate and purge the remaining Loyalist caches."
+    },
+    "The Uchiha Shogunate": {
+      "resource_change": "Continental ley-lines placed under high-frequency lockdown",
+      "player_standing_change": "Nemesis (Terminal)",
+      "progress": "Atmospheric scrying initiated",
+      "next_action": "Deployment of the remaining 4 Original Ravens",
+      "current_objective": "Locate and Retrieve Naori-Good"
+    },
+    "Hidden Mist": {
+      "resource_change": "+20 Warships under construction",
+      "player_standing_change": "Respected Admiral-Architect",
+      "progress": "Commenced",
+      "next_action": "Naval Exercises",
+      "current_objective": "Building the Shogunate Navy"
+    },
+    "Empire of Ash": {
+      "resource_change": "None (Stabilizing)",
+      "player_standing_change": "Sasuke (Hostile/Disdainful), Sarada (Protective/Pitying)",
+      "progress": "Infiltration phase 1: Academy and Commerce established.",
+      "next_action": "Secure Chunin Exam roster.",
+      "current_objective": "Subvert Konoha's internal systems while maintaining local masks."
+    },
+    "True Akatsuki": {
+      "resource_change": "Lost Sector 4 spatial dead-zone",
+      "player_standing_change": "Hostile (Active)",
+      "progress": "70% - Anchors shattered but core ritual remains live",
+      "next_action": "Retaliation strike against Shadow Vanguard",
+      "current_objective": "Anchoring Gedo Maz\u014d for White Zetsu mobilization"
+    },
+    "Hidden Stone Vanguard": {
+      "progress": "Regime decapitated",
+      "player_standing_change": "FEARED / ANNIHILATOR",
+      "current_objective": "Fragmented Retreat / Last Stand"
+    },
+    "The Uchiha Clan": {
+      "resource_change": "None",
+      "player_standing_change": "Wavering (Resentment from youth)",
+      "progress": "Internal schism detected",
+      "next_action": "Observing Itachi's response to Naori",
+      "current_objective": "Navigating the return of the Twin Gods"
+    },
+    "Uchiha Shogunate": {
+      "resource_change": "+ Bird Land trade stability; - Iwa Overseer loyalty.",
+      "player_standing_change": "Legendary status reinforced among ronin/refugees.",
+      "progress": "Regency active; Ravens deployed.",
+      "next_action": "Establishing a 50-mile exclusion zone around Sector 4.",
+      "current_objective": "Stabilizing the Moon's Eye Fissure"
+    }
+  },
+  "time_events": {
+    "crusader_coalition_trigger": {
+      "time_remaining": "86 days"
+    },
+    "border_skirmish_escalation": {
+      "time_remaining": "48 hours",
+      "status": "ongoing",
+      "changes_this_turn": "Global Stability HP -4",
+      "new_consequences": "Martial law declared in western border-towns."
+    }
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "quirks_habits": [
+      "Turns raw emotion into system diagrams",
+      "Uses D&D campaigns, financial models, router configs as sandboxes for control",
+      "Escalates over-the-top requests when threatened",
+      "Uses exhaustive project queues to mask fatigue/emptiness"
+    ],
+    "combat_prowess_bonus": 2,
+    "personality_traits": {
+      "Extraversion": 3,
+      "Openness": 5,
+      "Conscientiousness": 4,
+      "Agreeableness": 2,
+      "Neuroticism": 4
+    },
+    "special_abilities": [],
+    "stats": {
+      "Physique": 12,
+      "Intelligence": 11,
+      "Coordination": 10,
+      "Health": 14,
+      "Wisdom": 13
+    },
+    "relevant_history": "Shaped by a need to prove significance through mastery, leading to relentless displays of competence. Developed dismissive-avoidant relational style to protect self-worth.",
+    "mbti": "INTJ",
+    "greatest_fear": "Being unmasked as insignificant; true vulnerability leading to a loss of admiration/self-worth; chaos leading to oblivion.",
+    "reputation": "The polymath hacker-strategist; effortlessly navigates tech, finance, narrative design; always 'two moves ahead.'",
+    "key_personality_traits": [
+      "Strategic",
+      "Systems-thinker",
+      "Restless ideation",
+      "Debate-driven",
+      "Meticulous (on self-chosen projects)",
+      "Dismissive (of imposed structure)",
+      "Performative sociability",
+      "Truth-hunting",
+      "Outwardly calm",
+      "Self-critical"
+    ],
+    "demeanor_under_stress": "Intellectualizes emotion; seeks to control/plan the situation; escalates into absurdist humor/spectacle; denies fatigue via productivity.",
+    "name": "Jeffrey Nicholas",
+    "secrets": [
+      "Fears being unmasked as insignificant",
+      "Fears true intimacy will reveal unpolished self and lead to loss of admiration/self-worth",
+      "A deep, subterranean longing for secure attunement despite outward dismissiveness"
+    ],
+    "defining_moment": "Early social micro-betrayals (parental inconsistency, peer ridicule) that taught vulnerability invites exploitation.",
+    "alignment": "Lawful Neutral",
+    "aptitude_potential": {
+      "Physique": 2,
+      "Intelligence": 2,
+      "Coordination": 2,
+      "Health": 3,
+      "Wisdom": 3
+    },
+    "feats": [],
+    "psychological_profile": {
+      "core_unconscious_beliefs": [
+        "\u201cUsefulness precedes lovability.\u201d Value is earned through competent output; idle presence feels illegitimate.",
+        "\u201cControl wards off oblivion.\u201d Chaos equals erasure. Mastery over complex systems is a life-raft against insignificance.",
+        "\u201cVulnerability invites exploitation.\u201d Early social micro-betrayals (parental inconsistency, peer ridicule) etched the lesson: reveal only after securing leverage."
+      ],
+      "personal_myth_narrative": {
+        "toxicity": "Perpetual strategist mode blocks the simple, disarming truth of being\u2014relationships become projects, not encounters.",
+        "role": "The Shadow Architect",
+        "comfort": "Omnipotence fantasy shields the tender parts; errors are framed as \u201citerations,\u201d never failures.",
+        "story_told": "The understated genius whose behind-the-scenes maneuvers reshape worlds (codebases, campaigns, even gods in your narratives)."
+      },
+      "closing_pulse": "This mirror may sting, but cracks admit light. The choice ahead: defend the myth harder, or let it fracture and meet whatever walks out of the rubble.",
+      "composite_psychological_sketch": {
+        "dominant_defenses": [
+          {
+            "mechanism": "Intellectualization",
+            "explanation": "Transform raw emotion into system diagrams\u2014turn romantic anxiety into 'attachment-model research,' spiritual doubt into 'lore integration.'"
+          },
+          {
+            "mechanism": "Control / Planning",
+            "explanation": "D&D campaigns, financial models, router configs\u2014every domain becomes a sandbox where you dictate physics. Uncertainty shrinks to playable variables."
+          },
+          {
+            "mechanism": "Humor & Absurdist Scaling",
+            "explanation": "When stakes feel threatening, you escalate into over-the-top requests ('300-page Game-of-Thrones novel by noon')\u2014a sprint past vulnerability into spectacle."
+          },
+          {
+            "mechanism": "Denial-via-Productivity",
+            "explanation": "Exhaustive project queue masks basic existential fatigue. As long as tasks expand, emptiness stays off-stage."
+          }
+        ],
+        "big_five": {
+          "Extraversion": 3,
+          "Openness": 5,
+          "Conscientiousness": 4,
+          "Agreeableness": 2,
+          "Neuroticism": 4
+        },
+        "attachment_color": "Dismissive-avoidant veneer with subterranean longing for secure attunement."
+      },
+      "social_persona_vs_repressed_interior": {
+        "social_persona": "The polymath hacker-strategist, effortlessly navigating tech, finance, narrative design, always \u201ctwo moves ahead.\u201d",
+        "inner_person": "Uncertain adolescent who still fears being unmasked as merely \u201csmart, not significant.\u201d You counteract that fear by relentless mastery displays."
+      },
+      "fracture_scenario": {
+        "what_fractures": "Immediate hit to the \u201cinfallible architect\u201d persona; surge of shame as usefulness seems nullified; relationships tested\u2014some depart when utility fades.",
+        "catalyst": "A trusted collaborator publicly exposes a major error in your grand design\u2014something non-patchable (e.g., a security flaw that endangers users\u2019 data or a lore contradiction that unravels months of campaign canon). You cannot fix it privately; you must own it, live-streamed, no spin.",
+        "liberation": "Realization that you still exist when the mastery shell cracks; birth of a self that can receive care without prior conquest; creative energy redirected from omnipotence maintenance to genuine collaboration\u2014less command, more communion.",
+        "immediate_cost": "Public exposure of a major error in grand design; inability to fix it privately; forced to own it live-streamed."
+      },
+      "daily_cost": [
+        "Cognitive Overclocking: Constant context-switching and grand-scope planning drain executive function; fatigue masquerades as boredom.",
+        "Emotional Malnutrition: Feelings filtered through spreadsheets never reach full digestion; subtle anxiety accumulates like technical debt.",
+        "Isolation in Performance: Admiration replaces intimacy; applause is loud yet cannot hold you at 3 a.m."
+      ],
+      "defense_mechanism_diagnostics": [
+        {
+          "mechanism": "Intellectualization",
+          "everyday_illustration": "Transform raw emotion into system diagrams\u2014turn romantic anxiety into \u201cattachment-model research,\u201d spiritual doubt into \u201clore integration.\u201d"
+        },
+        {
+          "mechanism": "Control / Planning",
+          "everyday_illustration": "D&D campaigns, financial models, router configs\u2014every domain becomes a sandbox where you dictate physics. Uncertainty shrinks to playable variables."
+        },
+        {
+          "mechanism": "Humor & Absurdist Scaling",
+          "everyday_illustration": "When stakes feel threatening, you escalate into over-the-top requests (\u201c300-page Game-of-Thrones novel by noon\u201d)\u2014a sprint past vulnerability into spectacle."
+        }
+      ],
+      "relational_decoding": {
+        "attachment_script": "If someone truly sees the unpolished you, their admiration (and thus your borrowed self-worth) evaporates.",
+        "examples": [
+          "Intimacy is attractive until the other\u2019s needs threaten your autonomy; you then pivot to intellectual distance or omnipotent \u201cDM mode.\u201d",
+          "Become indispensable (knowledge, strategy, resources) so partners are tethered by gratitude rather than emotional claim."
+        ],
+        "summary_approach_intimacy": "Relationships become projects, not encounters, driven by a fear of vulnerability and a need for control."
+      },
+      "rough_portrait": "A polymath hacker-strategist, Jeffrey Nicholas projects an effortless command over complex systems, always appearing two moves ahead. Beneath this veneer of relentless mastery, however, lies the insecurity of an uncertain adolescent who fears being unmasked as merely 'smart, not significant.' This core conflict drives his constant pursuit of competence and control, masking a background hum of self-critique."
+    },
+    "level": 1,
+    "core_motivation": "To reshape worlds and achieve significance through strategic mastery; to avoid being seen as insignificant.",
+    "inventory": {
+      "gold": 150,
+      "items": {
+        "smartphone": {
+          "description": "Standard modern smartphone"
+        },
+        "wallet": {
+          "description": "Contains ID and credit cards"
+        }
+      }
+    },
+    "archetype": "The Shadow Architect",
+    "hp_current": 25,
+    "hp_max": 25,
+    "speech_patterns": "Analytical, precise, may use technical jargon or abstract concepts; capable of performative sociability; may use dry or absurdist humor; can be dismissive of irrelevant details.",
+    "astrological_sign": "Libra",
+    "experience": {
+      "current": 0,
+      "to_next_level": 300,
+      "needed_for_next_level": 300
+    }
+  },
+  "world_data": {
+    "kingdom": "Modern Earth",
+    "world_time": {
+      "hour": 18,
+      "day": 10,
+      "second": 0,
+      "year": 2024,
+      "month": "July",
+      "minute": 0,
+      "microsecond": 0,
+      "time_of_day": "evening"
+    },
+    "political_situation": "Globalized society, typical urban life."
+  },
+  "npc_data": {
+    "Sarah": {
+      "personality_traits": [
+        "practical",
+        "detail-oriented",
+        "empathetic"
+      ],
+      "status": "At home, likely asleep",
+      "mbti": "ISTJ",
+      "greatest_fear": "Chaos and unresolvable problems.",
+      "reputation": "The reliable problem-solver.",
+      "core_motivation": "To maintain order and ensure well-being through logic.",
+      "relationship": "friend",
+      "alignment": "Lawful Neutral",
+      "role": "Coworker/Friend",
+      "name": "Sarah"
+    },
+    "Leo": {
+      "personality_traits": [
+        "outgoing",
+        "spontaneous",
+        "supportive"
+      ],
+      "status": "At home, likely asleep",
+      "mbti": "ESFP",
+      "greatest_fear": "Boredom and stagnation.",
+      "reputation": "The office prankster, but reliable in a crunch.",
+      "core_motivation": "To enjoy life and bring joy to others.",
+      "relationship": "friend",
+      "alignment": "Chaotic Good",
+      "role": "Coworker/Friend",
+      "name": "Leo"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "premise": "An ordinary office worker navigates the absurdity of modern life, facing both mundane discomforts and the unexpected twists of human interaction, relying on friendship and music to cope.",
+    "last_story_mode_sequence_id": 16,
+    "active_missions": [],
+    "core_memories": [],
+    "arc_milestones": {},
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "active_constraints": [],
+    "attribute_system": "D&D",
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2025-06-26 21:37:21.023000+00:00",
+  "turn_number": 0,
+  "player_turn": 0,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "hour": 18,
+    "day": 10,
+    "second": 0,
+    "year": 2024,
+    "month": "July",
+    "minute": 0
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "migration_status": "NO_LEGACY_DATA"
+}

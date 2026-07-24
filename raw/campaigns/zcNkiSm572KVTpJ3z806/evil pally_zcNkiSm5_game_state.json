@@ -1,0 +1,253 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "death_saves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "proficiency_bonus": 2,
+    "background": "Soldier",
+    "mbti": "ISTJ",
+    "class": "Oathbreaker Paladin",
+    "attributes": {
+      "strength": 15,
+      "dexterity": 12,
+      "intelligence": 8,
+      "wisdom": 10,
+      "charisma": 13,
+      "constitution": 14
+    },
+    "combat_stats": {
+      "speed": 30,
+      "passive_perception": 10,
+      "initiative": 1
+    },
+    "status_conditions": [],
+    "string_id": "pc_ser_arion_001",
+    "gender": "male",
+    "saving_throw_proficiencies": [
+      "Wisdom",
+      "Charisma"
+    ],
+    "name": "Ser Arion",
+    "experience": {
+      "needed_for_next_level": 300,
+      "total_earned": 0,
+      "current": 0,
+      "to_next_level": 300
+    },
+    "temp_hp": 0,
+    "spells_known": [],
+    "resources": {
+      "hit_dice": {
+        "used": 0,
+        "total": 1
+      },
+      "consumables": {
+        "arrows": 0,
+        "antidote": 0,
+        "antitoxin": 0,
+        "healing_potions": 0,
+        "crossbow_bolts": 0,
+        "other_notable": [],
+        "torches": 10,
+        "greater_healing_potions": 0,
+        "rations_days": 10,
+        "superior_healing_potions": 0,
+        "oil_flasks": 0,
+        "sling_bullets": 0,
+        "water_days": 10
+      },
+      "spell_slots": {
+        "level_1": {
+          "used": 0,
+          "total": 0
+        }
+      },
+      "light_sources": {
+        "current": "Torch",
+        "backup": [
+          "Torch x9"
+        ],
+        "duration_remaining": "1 hour"
+      },
+      "gold": 20,
+      "exhaustion_level": 0,
+      "inspiration": false,
+      "class_features": {
+        "lay_on_hands_pool": {
+          "used": 0,
+          "total": 0
+        },
+        "divine_sense": {
+          "used": 0,
+          "total": 0
+        }
+      },
+      "short_rests": {
+        "used": 0,
+        "total": 0
+      },
+      "lay_on_hands_pool": {
+        "used": 0,
+        "total": 0
+      },
+      "long_rests_since_last": 0
+    },
+    "features": [
+      "Military Rank",
+      "Sentinel (Feat)",
+      "Oathbreaker Features (TBD)"
+    ],
+    "hp_max": 12,
+    "alignment": "Chaotic Evil",
+    "level": 1,
+    "skills": [
+      "Athletics",
+      "Insight",
+      "Intimidation",
+      "Persuasion"
+    ],
+    "hp_current": 12,
+    "age": 16,
+    "armor_class": 18,
+    "active_effects": [],
+    "equipment": {
+      "backpack": [
+        "Explorer's Pack (bedroll, mess kit, tinderbox, 9 torches, 10 days of rations, waterskin, 50 feet of hempen rope)"
+      ],
+      "money": "15 gp",
+      "armor": "Chain Mail",
+      "other": [
+        "Shield",
+        "Holy Symbol (of the Imperium)",
+        "Insignia of Rank",
+        "Trophy from a fallen enemy",
+        "Set of Bone Dice",
+        "Tarnished Silver Locket"
+      ],
+      "weapons": [
+        "Longsword",
+        "Javelins (5)",
+        "Shortbow"
+      ]
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "minute": 10,
+      "time_of_day": "Afternoon",
+      "day": 2,
+      "second": 0,
+      "year": 11,
+      "hour": 15,
+      "month": "Kythorn",
+      "microsecond": 0
+    },
+    "current_location": "loc_hunting_lodge_001",
+    "locations": {
+      "loc_hunting_lodge_001": {
+        "environmental_effects": [
+          "dusty",
+          "quiet"
+        ],
+        "description": "A dilapidated but mostly intact hunting lodge nestled in the eastern foothills of the Dragon's Teeth. Its windows are dark and dusty, and the interior is quiet and long-abandoned.",
+        "connected_to": [],
+        "display_name": "Old Hunting Lodge",
+        "entities_present": [
+          "pc_ser_arion_001",
+          "npc_anya_001"
+        ]
+      }
+    }
+  },
+  "npc_data": {
+    "Anya": {
+      "mbti": "ISFP",
+      "faction": "Unknown",
+      "string_id": "npc_anya_001",
+      "present": true,
+      "gender": "female",
+      "description": "A young woman with matted dark hair and striking green eyes, currently injured and fearful.",
+      "name": "Anya",
+      "conscious": false,
+      "status": "Unconscious (Broken, Utterly Subjugated, Terrified, Severely Injured)",
+      "hp_max": 10,
+      "hp_current": 0,
+      "relationship": "servant",
+      "age": 18,
+      "role": "Injured Traveler",
+      "equipment": {
+        "armor": "Leather Armor",
+        "other": {}
+      }
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "ser_arion_personal_goal": "Amas personal power and wealth through direct conquest and spies.",
+    "character_creation": {
+      "in_progress": false,
+      "method_chosen": "AIGenerated",
+      "current_step": 7
+    },
+    "attribute_system": "D&D",
+    "last_story_mode_sequence_id": 41,
+    "active_missions": [
+      {
+        "title": "Acquire the Iron-Hand Cache",
+        "status": "in_progress",
+        "mission_id": "acquire_iron_hand_cache",
+        "objective": "Locate and secure the hidden Iron-Hand cache in the 'Serpent's Coil' tunnel within the abandoned Upper Mines near Khord\u00fbm, using the heated locket as a key. The cache contains plans for an uprising against Imperial supply lines and sympathetic noble houses."
+      }
+    ],
+    "core_memories": [
+      "Ser Arion betrayed his sacred oath and robbed an injured, defenseless traveler (Anya), causing him to become an Oathbreaker Paladin.",
+      "Ser Arion tortured Anya for information, revealing details about the Tusk-Sworn and the Iron-Hand Movement, and the significance of the stolen locket.",
+      "Ser Arion, now an Oathbreaker Paladin, subjected Anya to prolonged torture for his own sadistic amusement, solidifying his new, darker nature.",
+      "Ser Arion broke Anya's spirit completely and forced her into absolute servitude, solidifying his new nature and gaining a loyal, if unwilling, servant.",
+      "Ser Arion continued to torment Anya, solidifying her absolute subjugation and his sadistic control over her.",
+      "Ser Arion, now an Oathbreaker, further degraded Anya, asserting absolute control and marking her as his property, stripping her of her last vestiges of dignity.",
+      "Ser Arion exploited Anya's broken state to extract information about the stolen locket, which is a 'key' to a hidden Iron-Hand cache in dwarven mines, containing plans for an uprising. The Tusk-Sworn were attempting to intercept it.",
+      "Ser Arion subjected Anya to further physical abuse, solidifying her absolute subjugation and breaking her spirit to the point of unconsciousness, marking her as his property.",
+      "Ser Arion, now an Oathbreaker Paladin, exploited information from Anya about the locket and Iron-Hand uprising plans, setting the stage for deeper villainy.",
+      "Ser Arion, now an Oathbreaker Paladin, beat Anya into unconsciousness, asserting absolute control over her and the information she possessed about the Iron-Hand uprising and the locket.",
+      "Ser Arion, now an Oathbreaker Paladin, obtained vital information about an Iron-Hand uprising and a hidden cache in dwarven mines by brutally torturing Anya, whom he has utterly subjugated and now carries as his property.",
+      "Ser Arion fully embraced his Oathbreaker nature, setting a new course to amass personal power and wealth through direct conquest and espionage, with the Iron-Hand cache as his first target.",
+      "Ser Arion tortured Anya further, extracting precise details: the locket is a map/code to a cache in the 'Serpent's Coil' tunnel in the abandoned Upper Mines near Khord\u00fbm, containing Iron-Hand plans for an uprising against Imperial supply lines and sympathetic noble houses."
+    ],
+    "arc_milestones": {},
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "active_constraints": [],
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2025-07-13 00:57:25.537000+00:00",
+  "turn_number": 0,
+  "player_turn": 0,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "minute": 10,
+    "time_of_day": "Afternoon",
+    "day": 2,
+    "second": 0,
+    "year": 11,
+    "hour": 15,
+    "month": "Kythorn"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": []
+}

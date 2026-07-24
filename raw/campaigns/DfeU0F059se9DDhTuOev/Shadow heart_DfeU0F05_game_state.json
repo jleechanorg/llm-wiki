@@ -1,0 +1,652 @@
+{
+  "game_state_version": 2,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "death_saves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "background": "Soldier",
+    "custom_features": {
+      "extra_attack": {
+        "description": "Whenever you take the Attack action on your turn, you can attack twice instead of once.",
+        "name": "Extra Attack (Fighter)"
+      },
+      "shadows_embrace": {
+        "description": "As an action, expend a use of Channel Divinity to target a creature within 60 feet. It makes a Wisdom saving throw. On a failed save, it is restrained by shadowy tendrils and takes necrotic damage (4d6) at the start of its turns. It can repeat the save at the end of each of its turns, ending the effect on a success. Lasts up to 1 minute.",
+        "type": "Channel Divinity",
+        "name": "Shadow's Embrace"
+      },
+      "soul_harvest_concept": "Powers centered on draining life force, manipulating souls, and empowering Shadowheart through necrotic energy."
+    },
+    "combat_stats": {
+      "speed": 30,
+      "passive_perception": 13,
+      "initiative": 1
+    },
+    "race": "Half-Elf",
+    "temp_hp": 0,
+    "saving_throw_proficiencies": [
+      "Strength",
+      "Constitution"
+    ],
+    "resources": {
+      "hit_dice": {
+        "used": 0,
+        "total": 12
+      },
+      "consumables": {
+        "arrows": 0,
+        "antidote": 0,
+        "antitoxin": 0,
+        "healing_potions": 0,
+        "crossbow_bolts": 0,
+        "other_notable": [
+          "Potion of Speed x1"
+        ],
+        "torches": 0,
+        "greater_healing_potions": 0,
+        "rations_days": 0,
+        "superior_healing_potions": 2,
+        "oil_flasks": 0,
+        "sling_bullets": 0,
+        "water_days": 0
+      },
+      "spell_slots": {
+        "level_6": {
+          "used": 0,
+          "total": 1
+        },
+        "level_2": {
+          "used": 0,
+          "total": 3
+        },
+        "level_4": {
+          "used": 0,
+          "total": 3
+        },
+        "level_5": {
+          "used": 0,
+          "total": 2
+        },
+        "level_1": {
+          "used": 0,
+          "total": 4
+        },
+        "level_3": {
+          "used": 0,
+          "total": 3
+        }
+      },
+      "light_sources": {
+        "current": "None",
+        "backup": [],
+        "duration_remaining": "N/A"
+      },
+      "gold": 9500,
+      "exhaustion_level": 0,
+      "inspiration": false,
+      "class_features": {
+        "channel_divinity": {
+          "used": 0,
+          "total": 2
+        }
+      },
+      "short_rests": {
+        "used": 0,
+        "total": 2
+      },
+      "long_rests_since_last": 0
+    },
+    "experience": {
+      "needed_for_next_level": 100000,
+      "total_earned": 85400,
+      "current": 85400,
+      "to_next_level": 34600
+    },
+    "features": [
+      "Extra Attack (Fighter)",
+      "Shar's Embrace (Channel Divinity)",
+      "Channel Divinity: Touch of Death",
+      "Channel Divinity: Guided Strike",
+      "Destroy Undead",
+      "Divine Intervention",
+      "Potent Spellcasting"
+    ],
+    "level": 12,
+    "skills": [
+      "Athletics",
+      "Intimidation",
+      "Insight",
+      "Religion"
+    ],
+    "spell_attack_modifier": 7,
+    "armor_class": 21,
+    "equipment": {
+      "backpack": [
+        "Amulet of the Devout (+2 Spell Save DC/Attack Rolls)",
+        "Ring of Protection (+1 AC, +1 Saving Throws)"
+      ],
+      "money": "10,000 gp",
+      "armor": "Helldusk Armor (AC 21, Resistance to Fire, Fly Speed)",
+      "weapons": [
+        "Shar's Spear of Night (+3, 1d8 piercing + 1d8 necrotic, Adv. on attack vs. creatures in dim light/darkness)"
+      ]
+    },
+    "class": "Death Cleric",
+    "mbti": "ISTJ",
+    "attributes": {
+      "strength": 15,
+      "dexterity": 12,
+      "intelligence": 10,
+      "wisdom": 17,
+      "charisma": 8,
+      "constitution": 14
+    },
+    "status_conditions": [],
+    "string_id": "pc_shadowheart_001",
+    "long_rests_since_last": 0,
+    "alignment": "Neutral Evil",
+    "spells_known": [
+      "Cantrips: Toll the Dead, Sacred Flame, Chill Touch",
+      "Level 1: Inflict Wounds, Command, Shield of Faith, Cure Wounds",
+      "Level 2: Spiritual Weapon, Hold Person, Blindness/Deafness",
+      "Level 3: Animate Dead, Spirit Guardians, Bestow Curse",
+      "Level 4: Blight, Death Ward, Guardian of Faith",
+      "Level 5: Contagion, Raise Dead, Insect Plague",
+      "Level 6: Harm, Create Undead"
+    ],
+    "name": "Shadowheart",
+    "hp_max": 82,
+    "spell_save_dc": 15,
+    "hp_current": 82,
+    "proficiency_bonus": 4,
+    "active_effects": []
+  },
+  "world_data": {
+    "world_time": {
+      "minute": 30,
+      "time_of_day": "Deep Night",
+      "day": 11,
+      "second": 0,
+      "year": 1492,
+      "hour": 0,
+      "month": "Nightal",
+      "microsecond": 0
+    },
+    "locations": {
+      "loc_shadowfell_sanctuary_001": {
+        "environmental_effects": [
+          "oppressive gloom",
+          "chilling silence"
+        ],
+        "description": "A hidden chamber consecrated to Shar, permeated by oppressive gloom and chilling silence.",
+        "connected_to": [],
+        "display_name": "Shadowfell Sanctuary",
+        "entities_present": [
+          "pc_shadowheart_001"
+        ]
+      }
+    }
+  },
+  "npc_data": {
+    "Lysander": {
+      "class": "Shadow Assassin",
+      "mbti": "INTP",
+      "hidden": false,
+      "attributes": {
+        "strength": 11,
+        "dexterity": 17,
+        "intelligence": 15,
+        "wisdom": 14,
+        "charisma": 7,
+        "constitution": 12
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 3,
+        "passive_perception": 14
+      },
+      "faction": "faction_shar_001",
+      "conscious": true,
+      "present": true,
+      "gender": "male",
+      "string_id": "npc_lysander_001",
+      "recent_actions": [
+        "Proposed abstract manipulation and 'unlucky coincidences' for Bastion; suggested philosophical indoctrination for faction loyalty",
+        "Observed by Shadowheart during loyalty assessment."
+      ],
+      "attitude_to_party": "absolute_loyalty",
+      "status": "Dispatched on mission to Bastion of Eternal Radiance.",
+      "hp_max": 70,
+      "level": 10,
+      "hp_current": 70,
+      "age": 29,
+      "knowledge": [
+        "divination",
+        "disguise",
+        "Sharran theology"
+      ],
+      "relationships": {
+        "pc_shadowheart_001": "unwavering devotion"
+      },
+      "role": "Shadow Justiciar",
+      "armor_class": 16
+    },
+    "Seraphina": {
+      "class": "Shadow Assassin",
+      "mbti": "ISFP",
+      "hidden": false,
+      "attributes": {
+        "strength": 10,
+        "dexterity": 17,
+        "intelligence": 11,
+        "wisdom": 13,
+        "charisma": 9,
+        "constitution": 13
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 3,
+        "passive_perception": 13
+      },
+      "faction": "faction_shar_001",
+      "conscious": true,
+      "present": true,
+      "gender": "female",
+      "string_id": "npc_seraphina_001",
+      "recent_actions": [
+        "Proposed psychological warfare and erosion of faith for Bastion; suggested offering purpose and personalized guidance for faction growth",
+        "Observed by Shadowheart during loyalty assessment."
+      ],
+      "attitude_to_party": "absolute_loyalty",
+      "status": "Dispatched on mission to Bastion of Eternal Radiance.",
+      "hp_max": 70,
+      "level": 10,
+      "hp_current": 70,
+      "age": 28,
+      "knowledge": [
+        "stealth",
+        "tracking",
+        "Sharran rituals"
+      ],
+      "relationships": {
+        "pc_shadowheart_001": "unwavering devotion"
+      },
+      "role": "Shadow Justiciar",
+      "armor_class": 16
+    },
+    "Roric": {
+      "class": "Shadow Assassin",
+      "mbti": "ESTP",
+      "hidden": false,
+      "attributes": {
+        "strength": 14,
+        "dexterity": 16,
+        "intelligence": 9,
+        "wisdom": 11,
+        "charisma": 8,
+        "constitution": 15
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 3,
+        "passive_perception": 11
+      },
+      "faction": "faction_shar_001",
+      "conscious": true,
+      "present": true,
+      "gender": "male",
+      "string_id": "npc_roric_001",
+      "recent_actions": [
+        "Proposed overt displays of power for faction strengthening",
+        "Observed by Shadowheart during loyalty assessment."
+      ],
+      "attitude_to_party": "absolute_loyalty",
+      "status": "Dispatched on mission to Bastion of Eternal Radiance.",
+      "hp_max": 70,
+      "level": 10,
+      "hp_current": 70,
+      "age": 32,
+      "knowledge": [
+        "combat strategy",
+        "Sharran lore",
+        "melee tactics"
+      ],
+      "relationships": {
+        "pc_shadowheart_001": "unwavering devotion"
+      },
+      "role": "Shadow Justiciar",
+      "armor_class": 16
+    },
+    "Manifest Shadow Servant": {
+      "class": "Shadow Construct",
+      "mbti": "ISTJ",
+      "hidden": false,
+      "attributes": {
+        "strength": 10,
+        "dexterity": 16,
+        "intelligence": 6,
+        "wisdom": 10,
+        "charisma": 4,
+        "constitution": 14
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 3,
+        "fly_speed": 30,
+        "passive_perception": 10
+      },
+      "faction": "faction_shar_001",
+      "abilities": [
+        {
+          "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1d8 + 3 necrotic damage.",
+          "name": "Shadowy Strike"
+        },
+        {
+          "description": "As a bonus action, dim light within 10 ft. of the servant becomes darkness. Bright light within 10 ft. becomes dim light. Lasts until the end of the servant's next turn.",
+          "name": "Consume Light"
+        }
+      ],
+      "present": true,
+      "vulnerabilities": [
+        "Radiant"
+      ],
+      "conscious": true,
+      "gender": "other",
+      "attitude_to_party": "absolute_loyalty",
+      "string_id": "npc_shadowservant_001",
+      "recent_actions": [
+        "Dispatched by Shadowheart to scout 'Bastion of Eternal Radiance'",
+        "Continued reconnaissance on Bastion of Eternal Radiance and will aid infiltration."
+      ],
+      "status": "Continues reconnaissance on Bastion of Eternal Radiance; observed during internal assessment.",
+      "hp_max": 50,
+      "level": 12,
+      "hp_current": 50,
+      "immunities": [
+        "Poison",
+        "Psychic",
+        "Nonmagical Bludgeoning",
+        "Nonmagical Piercing",
+        "Nonmagical Slashing"
+      ],
+      "knowledge": [],
+      "age": 0,
+      "role": "Shadow Construct Servant",
+      "armor_class": 15,
+      "relationships": {
+        "pc_shadowheart_001": "absolute loyalty"
+      }
+    },
+    "Thane": {
+      "class": "Shadow Assassin",
+      "mbti": "INTJ",
+      "hidden": false,
+      "attributes": {
+        "strength": 13,
+        "dexterity": 15,
+        "intelligence": 16,
+        "wisdom": 10,
+        "charisma": 8,
+        "constitution": 14
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 2,
+        "passive_perception": 10
+      },
+      "faction": "faction_shar_001",
+      "conscious": true,
+      "present": true,
+      "gender": "male",
+      "string_id": "npc_thane_001",
+      "recent_actions": [
+        "Proposed long-game infiltration for Bastion",
+        "Assigned to initiate infiltration and corruption of Bastion of Eternal Radiance."
+      ],
+      "attitude_to_party": "absolute_loyalty",
+      "status": "Dispatched on mission to Bastion of Eternal Radiance.",
+      "hp_max": 70,
+      "level": 10,
+      "hp_current": 70,
+      "age": 35,
+      "knowledge": [
+        "tactics",
+        "ancient lore",
+        "Sharran philosophy"
+      ],
+      "relationships": {
+        "pc_shadowheart_001": "unwavering devotion"
+      },
+      "role": "Shadow Justiciar",
+      "armor_class": 16
+    },
+    "Kaelen": {
+      "class": "Shadow Assassin",
+      "mbti": "ISTP",
+      "hidden": false,
+      "attributes": {
+        "strength": 12,
+        "dexterity": 18,
+        "intelligence": 10,
+        "wisdom": 12,
+        "charisma": 8,
+        "constitution": 14
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 4,
+        "passive_perception": 12
+      },
+      "faction": "faction_shar_001",
+      "conscious": true,
+      "present": true,
+      "gender": "male",
+      "string_id": "npc_kaelen_001",
+      "recent_actions": [
+        "Proposed infiltration and internal corrosion tactics for Bastion; suggested infiltrating established networks for faction growth",
+        "Assigned to initiate infiltration and corruption of Bastion of Eternal Radiance."
+      ],
+      "attitude_to_party": "absolute_loyalty",
+      "status": "Dispatched on mission to Bastion of Eternal Radiance.",
+      "hp_max": 70,
+      "level": 10,
+      "hp_current": 70,
+      "age": 30,
+      "knowledge": [
+        "stealth tactics",
+        "Sharran lore",
+        "covert operations"
+      ],
+      "relationships": {
+        "pc_shadowheart_001": "unwavering devotion"
+      },
+      "role": "Shadow Justiciar",
+      "armor_class": 16
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "last_story_mode_sequence_id": 111,
+    "attribute_system": "D&D",
+    "sharran_sect_forces": {
+      "total_force_strength": "moderate",
+      "cultists": {
+        "count": 60,
+        "status": "loyal_and_indoctrinated",
+        "role_description": "Fanatical but basic infantry and laborers"
+      },
+      "command_structure": "direct",
+      "acolytes": {
+        "count": 10,
+        "status": "loyal",
+        "role_description": "Lesser spellcasters and ritual assistants"
+      },
+      "shadow_justiciars": {
+        "count": 5,
+        "status": "assigned_to_strategy",
+        "role_description": "Elite stealth operatives and combat specialists"
+      },
+      "recruitment_capacity": "low"
+    },
+    "agent_network_status": "deepening_and_specializing",
+    "active_missions": [
+      {
+        "title": "Fortify Shadowfell Sanctuary",
+        "status": "in_progress",
+        "mission_id": "fortify_shadowfell_sanctuary_001",
+        "objective": "Continue planning or enacting defensive measures for the sanctuary."
+      },
+      {
+        "title": "Extinguish Bastion of Eternal Radiance",
+        "strategy": {
+          "overt_displays": {
+            "progress": "minor shrine desecrated; initial disillusioned recruits identified.",
+            "description": "Conduct raids on lesser shrines, public displays of Shar's might for recruitment.",
+            "justiciars": [
+              "Roric"
+            ]
+          },
+          "psychological_warfare": {
+            "progress": "initial unrest noted among acolytes",
+            "description": "Sow despair, manifest visions, erode faith through targeted psychological operations.",
+            "justiciars": [
+              "Seraphina"
+            ]
+          },
+          "intelligence_gathering": {
+            "progress": "detailed internal layout, patrol routes, Sacred Sunstone location, and covert entry points identified.",
+            "description": "Continue precise reconnaissance to inform tactical decisions.",
+            "justiciars": [
+              "Manifest Shadow Servant"
+            ]
+          },
+          "abstract_manipulation": {
+            "progress": "minor misfortune befalling Bastion personnel and crucial supply delays reported.",
+            "description": "Create 'unlucky coincidences', philosophical indoctrination for unbreakable devotion.",
+            "justiciars": [
+              "Lysander"
+            ]
+          },
+          "infiltration_corruption": {
+            "progress": "vulnerable supply lines identified; local guild infiltration initiated.",
+            "description": "Infiltrate supply lines, corrupt key personnel, absorb rival networks.",
+            "justiciars": [
+              "Thane",
+              "Kaelen"
+            ]
+          }
+        },
+        "status": "in_progress_with_initial_gains",
+        "mission_id": "extinguish_bastion_of_radiance_001",
+        "objective": "Continue multi-pronged assault based on new intelligence and initial progress."
+      }
+    ],
+    "upcoming_plot_arcs": [
+      "Extinction of False Light",
+      "Ascension to Godhood"
+    ],
+    "agent_network_objectives": [
+      "Strategically expand network size (moderate)",
+      "Invest in training/recruiting highly specialized agents",
+      "Manifest Shadow Servant dispatched to gather precise location, defenses, and key figures of 'Bastion of Eternal Radiance'",
+      "Initiate infiltration and psychological operations against Bastion targets",
+      "Conduct overt displays of power to recruit new faction members"
+    ],
+    "npc_agendas": {
+      "Lysander": {
+        "next_milestone": {
+          "description": "Continue philosophical indoctrination for deeper, unbreakable devotion among new recruits."
+        },
+        "progress_percentage": 50
+      },
+      "Roric": {
+        "next_milestone": {
+          "description": "Awaiting further instruction on new recruitment drives."
+        },
+        "completed_milestones": [
+          "Attracted initial wave of desperate recruits to Sanctuary."
+        ],
+        "progress_percentage": 100
+      }
+    },
+    "character_creation": {
+      "in_progress": false,
+      "extra_attack_method": "martial_cleric",
+      "method_chosen": "custom_class",
+      "current_step": 5
+    },
+    "sanctuary_status": {
+      "current_security_level": "basic_inherent_shadowfell",
+      "defenses_planned": true,
+      "fortification_phase": "planning_initiated"
+    },
+    "current_plot_arc": "Consummation of Shadow",
+    "core_memories": [
+      "Shadowheart's character has been finalized and the campaign begins.",
+      "DM offered 3 overarching plot arcs for campaign direction.",
+      "Player selected 'Consummation of Shadow', 'Extinction of False Light', and 'Ascension to Godhood' as campaign plot arcs.",
+      "Campaign began with Shadowheart embracing the 'Consummation of Shadow', 'Extinction of False Light', and 'Ascension to Godhood' plot arcs.",
+      "Shadowheart communed with Shar, receiving a vision of a sun-drenched citadel and a directive to extinguish 'False Light'.",
+      "Shadowheart meditated to clarify Shar's vision, identifying a soaring, sun-drenched citadel as a primary target for the 'Extinction of False Light' arc.",
+      "Shadowheart prepares to depart the Shadowfell Sanctuary and begins establishing an agent network to gather intelligence on 'False Light' targets.",
+      "Shadowheart's nascent agent network gathered initial intelligence, identifying a 'Bastion of Eternal Radiance' dedicated to Lathander as a potential 'False Light' target.",
+      "Shadowheart dispatched agents to gather detailed intelligence on the 'Bastion of Eternal Radiance' and its key figures.",
+      "Shadowheart delved into forbidden Shar lore, gaining insights into soul manipulation and the nature of 'False Light' for her divine mission.",
+      "Shadowheart successfully manifested a powerful, non-undead shadow servant using forbidden Shar lore, marking a significant step in the 'Consummation of Shadow' arc.",
+      "Shadowheart dispatched a Manifest Shadow Servant to covertly scout the 'Bastion of Eternal Radiance', accelerating intelligence gathering for the 'Extinction of False Light' arc.",
+      "Player decided to strategically expand Shadowheart's agent network and surveillance capabilities.",
+      "Shadowheart empowered and specialized her agent network, investing resources for greater capabilities.",
+      "Shadowheart conducted a comprehensive assessment of her current warriors, agents, servants, resources, and faction forces, noting areas for future expansion and consolidation of power.",
+      "Shadowheart conducted a detailed assessment of her gold (9,500gp), her limited direct warrior forces (herself), her growing agent network (core specialized agents, broader informants), and her single Manifest Shadow Servant.",
+      "Player raised a valid strategic point regarding Shadowheart's lack of direct warriors for her Sharran sect, leading to a discussion of options for force acquisition.",
+      "Shadowheart conducted a comprehensive assessment of her Sharran sect forces: 5 Shadow Justiciars, 10 Acolytes, and 50 Cultists, along with her Manifest Shadow Servant.",
+      "Shadowheart conferred with her 5 Shadow Justiciars, outlining the 'Bastion of Eternal Radiance' as the next target for the 'Extinction of False Light' arc.",
+      "Shadowheart confirmed the names of her 5 Shadow Justiciars: Kaelen, Roric, Seraphina, Thane, and Lysander, and outlined the Bastion of Eternal Radiance as the next target.",
+      "Shadowheart conferred with her Shadow Justiciars, receiving initial ideas for dismantling the Bastion of Eternal Radiance and strengthening the Sharran faction from Thane and Roric.",
+      "Shadowheart received strategic input from Shadow Justiciars Kaelen, Seraphina, and Lysander on dismantling the Bastion of Eternal Radiance and strengthening the Sharran faction.",
+      "Shadowheart contemplated the strategic input from her Shadow Justiciars for dismantling the Bastion of Eternal Radiance and strengthening the Sharran faction.",
+      "Shadowheart integrated Justiciars' ideas into a multi-pronged strategy for dismantling the Bastion of Eternal Radiance and strengthening the Sharran faction.",
+      "Shadowheart performed a comprehensive assessment of her forces and strategic objectives, confirming her current status and immediate priorities.",
+      "Shadowheart assessed her Shadow Justiciars and Manifest Shadow Servant, affirming their absolute loyalty. She initiated the infiltration and corruption phase of the Bastion of Eternal Radiance strategy, assigning Thane and Kaelen to the task.",
+      "Shadowheart launched the multi-pronged assault on the Bastion of Eternal Radiance, dispatching her Shadow Justiciars and Manifest Shadow Servant.",
+      "Shadowheart delved deeper into Shar's forbidden lore and engaged in potent rituals, significantly strengthening her divine essence and understanding of oblivion, furthering her personal power arcs.",
+      "Shadowheart received initial progress reports from her Shadow Justiciars and Manifest Shadow Servant on the multi-pronged assault against the Bastion of Eternal Radiance, indicating early successes in infiltration, psychological warfare, recruitment, and covert intelligence gathering.",
+      "Shadowheart consolidated new recruits drawn by Roric's overt displays, beginning their indoctrination into Shar's cult.",
+      "Shadowheart led the indoctrination ritual for the new recruits, solidifying their loyalty to Shar."
+    ],
+    "arc_milestones": {},
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "active_constraints": [],
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2025-07-30 03:45:59.176000+00:00",
+  "turn_number": 0,
+  "player_turn": 0,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "minute": 30,
+    "time_of_day": "Deep Night",
+    "day": 11,
+    "second": 0,
+    "year": 1492,
+    "hour": 0,
+    "month": "Nightal"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": false,
+  "pending_instruction_hints": []
+}

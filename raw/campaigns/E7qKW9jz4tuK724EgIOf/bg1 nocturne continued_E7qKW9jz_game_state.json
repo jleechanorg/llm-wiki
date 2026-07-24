@@ -1,0 +1,326 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "experience": {
+      "needed_for_next_level": 9000,
+      "total_earned": 1200,
+      "current": 1200,
+      "to_next_level": 1500
+    },
+    "world_data": {
+      "world_time": {
+        "second": 0,
+        "microsecond": 4,
+        "hour": 17,
+        "minute": 55,
+        "time_of_day": "Afternoon",
+        "day": 16,
+        "year": 1368,
+        "month": "Mirtul"
+      }
+    },
+    "resources": {
+      "hit_dice": {
+        "used": 0,
+        "total": 5
+      },
+      "exhaustion_level": 0
+    },
+    "combat_stats": {
+      "ranged_attack_bonus": 13,
+      "ranged_damage_bonus": 2
+    },
+    "level": 3,
+    "inventory": {
+      "experience": {
+        "needed_for_next_level": 23000,
+        "total_earned": 1200,
+        "current": 1200
+      },
+      "gold": 10487.6,
+      "items": {
+        "scrolls": {
+          "lightning": 1,
+          "fire": 1,
+          "necromantic": 1
+        },
+        "arrows_plus_1": {
+          "quantity": 155
+        },
+        "eldritch_longbow": {
+          "equipped": true,
+          "description": "Seeker arrows ignore half/three-quarters cover. +2 to attack and damage rolls.",
+          "name": "Eldritch Longbow +2"
+        },
+        "kagain_shield": {
+          "assigned": "Kagain",
+          "description": "+1 AC",
+          "name": "Rune Shield"
+        },
+        "lockpicks_fine": {
+          "description": "A set of fine, silver-inlaid lockpicks.",
+          "quantity": 1
+        },
+        "bracer_archery": {
+          "description": "+2 to ranged attacks",
+          "name": "Bracer of Archery"
+        },
+        "target_list_vellum": {
+          "description": "List expanded with Sarevok comms from assassin.",
+          "name": "Coded Target List"
+        },
+        "gold": {
+          "delta": 50
+        },
+        "dock_sabotage_plans": {
+          "description": "Map of Grey Harbor marking oil depots and the rigging of the 'Iron Queen'.",
+          "name": "Dock Sabotage Plans"
+        },
+        "roric_cloak": {
+          "assigned": "Roric",
+          "description": "Advantage on Stealth",
+          "name": "Cloak of Elvenkind"
+        },
+        "minsc_greatsword": {
+          "assigned": "Minsc",
+          "description": "1d6 fire damage",
+          "name": "Flaming Greatsword"
+        },
+        "obsidian_focus_stones": {
+          "description": "Small, magically resonant stones.",
+          "quantity": 3
+        },
+        "quiver_seekers": {
+          "description": "Ignores half/three-quarters cover",
+          "quantity": 20,
+          "name": "Quiver of Seeking Arrows"
+        }
+      }
+    },
+    "active_effects": [
+      {
+        "effect": "Grants authority to act as a special operations agent for the Flaming Fist.",
+        "duration": "Permanent",
+        "name": "Letter of Marque"
+      }
+    ],
+    "equipment": {
+      "weapons": [
+        "Eldritch Longbow +2 (equipped, seeker arrows)"
+      ]
+    }
+  },
+  "world_data": {
+    "current_location_name": "Baldur's Gate, Harbor Master's Office",
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 35,
+      "hour": 5,
+      "time_of_day": "Dawn",
+      "year": 1368,
+      "day": 17,
+      "month": "Mirtul"
+    },
+    "timestamp_iso": "1368-05-17T05:35:00.000000Z"
+  },
+  "npc_data": {
+    "undead_scouts": {
+      "status": "Standing by at HQ",
+      "loyalty": "Marek-Controlled",
+      "quantity": 4,
+      "level": 1,
+      "string_id": "npc_skeletons_001",
+      "present": false,
+      "role": "Honeypot Surveillance Minions",
+      "conscious": true
+    },
+    "Marek": {
+      "attitude_to_party": "neutral",
+      "undead_scouts": {
+        "loyalty": "Marek-Controlled",
+        "quantity": 4
+      },
+      "class": "Necromancer",
+      "status": "Active surveillance",
+      "mbti": "INTJ",
+      "hp_max": 35,
+      "level": 5,
+      "hp_current": 35,
+      "task": "Standing by with undead scouts for rapid response at HQ",
+      "conscious": true,
+      "present": false,
+      "role": "Necromancer",
+      "string_id": "npc_marek_001"
+    },
+    "Keldath Ornshore": {
+      "attitude_to_party": "grateful_protected",
+      "string_id": "npc_keldath_001",
+      "present": false,
+      "role": "Priest of Oghma",
+      "status": "Protected at Fist HQ"
+    },
+    "Scar": {
+      "task": "Attending dawn briefing with harbor masters",
+      "status": "Under protective escort to the docks",
+      "present": true,
+      "role": "Commander of the Flaming Fist"
+    },
+    "Roric": {
+      "attitude_to_party": "loyal",
+      "status": "Active surveillance",
+      "hidden": true,
+      "attributes": {
+        "strength": 14,
+        "dexterity": 18,
+        "intelligence": 12,
+        "wisdom": 10,
+        "charisma": 12,
+        "constitution": 14
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 8,
+        "passive_perception": 15
+      },
+      "level": 4,
+      "mbti": "ISTP",
+      "hp_current": 35,
+      "task": "Monitoring the Seven Suns wreckage for honeypot activity",
+      "conscious": true,
+      "present": false,
+      "role": "Rogue",
+      "armor_class": 17,
+      "hp_max": 35
+    },
+    "Vespera": {
+      "attitude_to_party": "neutral",
+      "class": "Wizard",
+      "mbti": "ESTP",
+      "hp_max": 27,
+      "level": 4,
+      "hp_current": 27,
+      "string_id": "npc_vespera_001",
+      "present": false,
+      "role": "Evoker-for-Hire"
+    },
+    "npc_fissle_001": {
+      "string_id": "npc_fissle_001",
+      "present": true,
+      "role": "Doppelganger Spy",
+      "status": "Under suspicion (Exposed)",
+      "name": "Fissle"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "last_story_mode_sequence_id": 108,
+    "attribute_system": "D&D",
+    "last_location": "Baldur's Gate, Harbor Master's Office",
+    "active_missions": [
+      {
+        "title": "Prevent the Sarevok Coup",
+        "status": "in_progress",
+        "mission_id": "prevent_the_coup",
+        "objective": "Execute honeypot: monitor bait sites, track spies via undead scouts; Preemptively protect Scar from assassination at dawn briefing."
+      }
+    ],
+    "core_memories": [
+      "[auto] You step over the cooling corpse of the doppelganger guardsman, the scent of blood and ozone thick in the air. Efficiency demands you confirm the kill is complete and harves",
+      "[auto] The sounds from below\u2014shouts, the scrape of furniture\u2014act as a catalyst. You don't need to speak the order; your pack moves with the synchronicity of a wolf pack that has hu",
+      "[auto] The doorknob ceases its turning. A moment of absolute silence hangs in the air, thick with the coppery scent of spilled blood. Then the door crashes open, not inward, but ki",
+      "[auto] Ah, I see the confusion. Looking at the sequence of events, you are correct. My previous response was a misstep. I had the narrative jump ahead to a generic indoor scene, co",
+      "[auto] The chaos erupts on the main trading floor. Minsc and Kagain are a whirlwind of steel and fury, crashing into the makeshift barricades. The remaining doppelgangers, enraged ",
+      "[auto] You give the command, and your pack moves with the brutal efficiency that has become their trademark. The last doppelganger, caught between the anvil of Kagain's shield and ",
+      "[auto] You stand in the deepening twilight of the alley, the stench of the city's canals mixing with the coppery scent of blood that still clings to your armor. The mission for Com",
+      "[auto] The decision is made. Trusting the highest authority is the most efficient path; Duke Eltan is a target, but Scar is the man on the ground, the commander of the city's entir",
+      "[auto] [Internal thoughts and analysis - see planning block]",
+      "[auto] Scar's question hangs in the air, raw and desperate. The commander of the Flaming Fist, a man who has faced down armies and riots, is now looking at you with the wide eyes o",
+      "[auto] You watch Scar's face as your demands land. The commander doesn't flinch at the ten thousand gold, not really. A man like Scar understands that power has a price, and his li",
+      "[auto] You let the silence hang in the air for a moment longer, allowing the terrifying reality of the schedule to sink in. You did not give him a gift; you gave him a countdown. Y",
+      "[auto] Scar absorbs the timeline, his knuckles white around the edges of the vellum. The room feels smaller, the weight of impending doom pressing in from all sides. He nods slowly",
+      "[auto] Scar leans forward, his eyes locked on yours, the weight of the plan settling into his tactical mind. The honeypot is elegant, ruthless, and perfectly suited to the shadow w",
+      "[auto] Scar's agreement is sealed with a curt nod and the slide of a heavy iron key across his desk. \"The armory is yours. Take what you need. The scribes will have your bait docum",
+      "[auto] Your mind turns inward, calculating the composition of your pack like a merchant auditing inventory. Dynaheir is the weak link\u2014her Rashemaar honor, her moral qualms, they ch",
+      "[auto] Scar's scribes swarm around you like industrious ants, drafting the bait documents under your watchful eye\u2014false schedules, decoy locations for Eltan and himself, subtle tel",
+      "[auto] The shadowed alley lives up to its name, a narrow vein of darkness between sagging tenements where the city's refuse gathers like forgotten secrets. The air reeks of stale i",
+      "[auto] With Marek in tow, you commandeer a Fist cart and sweep through Baldur's Gate's shadowed markets, from the opulent Sorcerous Sundries to the back-alley armories. Gold flows ",
+      "[auto] The arcane glow of Sorcerous Sundries bathes the counters in ethereal light, shelves groaning under the weight of wands, tomes, and weapons humming with enchantment. You've ",
+      "[auto] The Eldritch Longbow hums in your grasp as you sling it across your back, its seeker enchantment already attuned to your will. Combat stats updated: +2 to attack and damage ",
+      "[auto] Yes, Marek the Necromancer (npc_marek_001) is already recruited and traveling with the pack. Vespera (npc_vespera_001) is another potential option identified but not yet app",
+      "[auto] The streets of Baldur's Gate swallow your pack as night falls, the gas lamps flickering to life like wary eyes. You've left Sorcerous Sundries heavier with arcane power, the",
+      "[auto] The night's chill bites deeper as your pack moves through the fog-shrouded streets, the gas lamps casting long, skeletal shadows. Dynaheir's 'tragic end' still lingers in Mi",
+      "[auto] The gas lamps of Baldur's Gate flicker like dying stars as your pack returns to the Flaming Fist headquarters, the undead scouts trailing silently in the fog-shrouded alleys",
+      "[auto] The Fist-provided safehouse is a nondescript bolthole in the Lower City's labyrinthine slums\u2014reinforced stone walls, barred windows, a single heavy door warded with alarm gl",
+      "[auto] Dawn's pale light filters through the barred windows of the Fist safehouse as you gather your pack around the scarred oaken table, the bait documents spread before you like ",
+      "[auto] Dawn's pale light strengthens as you override the assigned tasks with a sharper priority: preempt the first strike on Keldath Ornshore at the Oghma temple. \"Change of plans,",
+      "[auto] The fog-cloaked streets of Baldur's Gate yield to the temple district as dawn's first pallid rays pierce the haze. The Oghma temple looms ahead, a modest edifice of white ma",
+      "[auto] Roric nods at your command, his elvenkind cloak blending him into the temple's shadowed pillars like ink in water. Marek murmurs a guttural incantation, dispatching two unde",
+      "[auto] Roric emerges from the vestry, his elvenkind cloak blending with the shadows until the last moment, wiping assassin blood from his dagger. \"Clean kill,\" he whispers. \"Throat",
+      "[auto] Roric pockets the assassin's coded note and vials, his dagger still dripping as Marek's undead scouts retract their bony claws from the shadows, green eyes dimming in standb",
+      "[auto] Scar leans over the war table, his scarred knuckles whitening as he absorbs the target list and the assassin's coded note, Keldath Ornshore standing pale but resolute beside",
+      "[auto] You turn from the war table, your mind a tactical grid. The honeypot at the Seven Suns is set, but your personal protection detail over Scar requires its own intelligence ne",
+      "[auto] You slip the bone whistle into your belt, its cool surface a promise of instant communication. The tactical grid is set, the pieces moving. All that remains is to step onto ",
+      "[auto] The massive iron gates of the Flaming Fist headquarters groan shut behind you, the sound a final, definitive separation between the relative safety of the fortress and the u",
+      "[auto] The grey salt-mist of the Chionthar thickens as you descend toward the docks, the smell of tar and rotting kelp rising to meet you. You move with a predatory grace, your eye",
+      "[auto] The Harbor Master's office is a cramped, salt-crusted stone building perched precariously over the lapping waters of the Grey Harbor. Inside, the air is thick with the smell",
+      "[auto] Fissle continues his oily explanation, leaning over a shipping manifest for 'The Iron Queen,' a merchant vessel due in from Chult. He points to a discrepancy in the docking ",
+      "[auto] The signal is a ghost of a movement\u2014a rhythmic tap of bone against leather\u2014but to Scar, it is a thunderclap. Fissle is mid-sentence, his oily voice detailing the docking fee",
+      "[auto] The grey blood of the doppelganger pools on the shipping manifests, a silent testament to the rot within the city's veins. Gorth and Hanza are backed into the corner, their ",
+      "[auto] You ignore the trembling harbor masters and the cooling grey sludge of Fissle\u2019s remains, turning your focus to the heavy, salt-stained desk. With a predatory efficiency, you"
+    ],
+    "arc_milestones": {},
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "active_constraints": [],
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2025-12-19 05:37:16.497000+00:00",
+  "turn_number": 0,
+  "player_turn": 0,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "minute": 35,
+    "hour": 5,
+    "time_of_day": "Dawn",
+    "year": 1368,
+    "day": 17,
+    "month": "Mirtul"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {
+    "last_note": "HD: 5/5, Spells: L1 2/2, Arrows: 155 (+1), 20 (Seeker), Potions: 4 (Superior), Exhaustion: 0"
+  },
+  "time_pressure_warnings": {},
+  "debug_mode": false,
+  "pending_instruction_hints": [],
+  "debug_info": {
+    "dm_notes": [
+      "Dynaheir excised per command. Staged perfectly; Minsc deceived. Time advanced 2+ hours to night travel (18:20 -> 20:30)."
+    ],
+    "state_rationale": "Updated the active mission to reflect its new, urgent status. Added a new core memory to log the successful completion of the Seven Suns infiltration and the discovery of the coup plot. Advanced the time by 10 minutes to account for the looting and escape, incrementing the microsecond for temporal consistency. Player gold and inventory were updated to reflect the new acquisitions."
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "world_time": {
+    "second": 0,
+    "microsecond": 1,
+    "hour": 4,
+    "minute": 50,
+    "time_of_day": "Dawn",
+    "day": 17,
+    "year": 1368,
+    "month": "Mirtul"
+  }
+}

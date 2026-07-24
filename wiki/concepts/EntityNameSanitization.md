@@ -24,5 +24,5 @@ The process of transforming entity names into valid identifier strings suitable 
 - Normalizing user-provided names to consistent format
 
 ## Related
-- [LlMService](LlMService.md) — module containing the implementation
+- [LlMService](LLMService.md) — module containing the implementation
 - [[UnicodeHandling]] — technical concept for unicode processing

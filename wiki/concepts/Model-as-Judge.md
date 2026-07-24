@@ -74,6 +74,6 @@ OPA decides "allow"; Kubernetes enforces. OPA may also generate structured remed
 - [[Constitutional-AI]] — self-critique as the mechanism for Model-as-Judge alignment
 - [RLAIF](RLAIF.md) — AI preference model as judge in the RLAIF/RLAIF framework
 - [[Fail-Closed]] — formatter enforcement as the "corrector" in Model-as-Judge
-- [Corrigibility](Corrigibility.md) — alignment property that allows the system to correct model output
+- [Corrigibility](corrigibility.md) — alignment property that allows the system to correct model output
 - [Self-Critique](Self-Critique.md) — the mechanism (model critiques its own reasoning)
 - [OPA](../entities/OPA.md) — infrastructure-level Model-as-Judge: OPA decides, application enforces

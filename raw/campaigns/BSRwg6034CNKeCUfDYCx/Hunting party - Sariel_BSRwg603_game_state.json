@@ -1,0 +1,1899 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "health": {
+      "hp_max": 100,
+      "hp": 12
+    },
+    "proficiency_bonus": 5,
+    "class_name": "Ranger (Gloomstalker) 5 / Rogue (Assassin) 8",
+    "mbti": "INTJ",
+    "background": "Director of the FBI / Youngest SAC in History / 'Centurion' Serial Killer Hunter",
+    "display_name": "Sariel",
+    "attributes": {
+      "strength": 8,
+      "dexterity": 20,
+      "intelligence": 20,
+      "wisdom": 16,
+      "charisma": 10,
+      "constitution": 14
+    },
+    "entity_id": "pc_sariel_001",
+    "race": "Human",
+    "ac": 17,
+    "description": "Possesses a strike, unearthly beauty that serves as a sharp contrast to her tactical scars and predatory nature.",
+    "core_memories": [
+      {
+        "append": "Confronted Director Miller on the Vane Spire terrace; utilized biometric evidence from the Hybrid core to link him to the 'Thirteenth' experiment."
+      },
+      "Forced the 'Project Icarus' confession from Director Miller on the Vane Spire terrace; identified the Orion Collective as the financier.",
+      "Executed the 'Total Collapse' conclusion: annihilated the Sanctum strike team and oversaw the removal of Director Miller.",
+      "Sworn in as Director of the FBI live on national television; simultaneously crippled the Orion Collective's financial infrastructure.",
+      "Led the Geneva Breach: annihilated the Orion Collective at the cost of 50% of the Vanguard; established the global deterrent through the televised processing of the Orion High Command.",
+      "Televised the termination of the Orion Chairman to establish a global deterrent; effectively ended the Orion Collective and the Criminal World War."
+    ],
+    "spells_known": [
+      {
+        "level": 1,
+        "name": "Hunter's Mark"
+      },
+      {
+        "level": 1,
+        "name": "Fog Cloud"
+      },
+      {
+        "level": 1,
+        "name": "Disguise Self"
+      },
+      {
+        "level": 2,
+        "name": "Pass Without Trace"
+      },
+      {
+        "level": 2,
+        "name": "Rope Trick"
+      }
+    ],
+    "name": "Sariel",
+    "experience": {
+      "current": 141754,
+      "to_next_level": 0,
+      "needed_for_next_level": 140000
+    },
+    "saving_throw_proficiencies": [
+      "Wisdom",
+      "Intelligence"
+    ],
+    "base_attributes": {
+      "strength": 8,
+      "dexterity": 20,
+      "intelligence": 20,
+      "wisdom": 16,
+      "charisma": 10,
+      "constitution": 14
+    },
+    "resources": {
+      "spell_slots": {
+        "level_2": {
+          "used": 0,
+          "max": 2
+        },
+        "level_1": {
+          "used": 0,
+          "max": 4
+        }
+      },
+      "notes": "Access to Sterling-Vane legacy accounts provides narrative justification for extreme gear requests.",
+      "gold": 57450000,
+      "ammunition": {
+        "standard_arrows": {
+          "used": 1,
+          "max": 20
+        },
+        "tranq_darts": {
+          "used": 2,
+          "max": 5
+        }
+      }
+    },
+    "equipped_items": {
+      "off_hand": "Tactical Profiling Tablet",
+      "main_hand": null,
+      "waist": "Elite 'Dragon's Fang' Tactical Knife (+3)",
+      "body": "Bespoke Sterling-Vane Silk Suit (Concealed Elite Ballistics Weave +3)",
+      "head": "Elite DARPA-spec Optics (+3)"
+    },
+    "alignment": "Lawful Evil",
+    "features": [
+      "Dread Ambusher",
+      "Umbral Sight",
+      "Deft Explorer (Canny: Stealth)",
+      "Favored Foe",
+      "Fighting Style: Archery",
+      "Extra Attack",
+      "Sneak Attack (1d6)",
+      "Cunning Action",
+      "Expertise (Rogue)",
+      "Assassinate (Prodigy Access)",
+      "Uncanny Dodge",
+      "Expertise (Persuasion)",
+      "Expertise (Insight)",
+      "Evasion",
+      "Expertise: Investigation",
+      "Expertise: Intimidation"
+    ],
+    "level": 13,
+    "inventory": [
+      {
+        "stats": "120ft Darkvision, see through tactical smoke",
+        "type": "item",
+        "name": "DARPA-spec Optics"
+      },
+      {
+        "stats": "+1 Atk/Dmg, 1d10 piercing",
+        "type": "weapon",
+        "name": "Sig-Sauer R&D Tactical Bow"
+      },
+      {
+        "stats": "AC 16, Resistance to piercing",
+        "type": "armor",
+        "name": "Experimental Ballistics Weave"
+      },
+      {
+        "stats": "120ft Darkvision, see through tactical smoke, +1 to Perception and Insight",
+        "type": "item",
+        "name": "Elite DARPA-spec Optics (+1)"
+      },
+      {
+        "stats": "+2 Atk/Dmg, 1d10 piercing",
+        "type": "weapon",
+        "name": "Sig-Sauer R&D Tactical Bow (+2)"
+      },
+      {
+        "stats": "AC 17, Resistance to non-magical piercing",
+        "type": "armor",
+        "name": "Elite Ballistics Weave (+1)"
+      },
+      {
+        "damage_type": "piercing/slashing",
+        "bonus": 1,
+        "damage": "1d4+1",
+        "properties": [
+          "finesse",
+          "light",
+          "thrown (20/60)"
+        ],
+        "equipped": true,
+        "description": "A high-end tactical blade with a non-reflective finish and a reinforced tip for penetrating ballistics weave.",
+        "type": "weapon",
+        "weight": 1,
+        "name": "Elite 'Dragon's Fang' Tactical Knife (+1)"
+      },
+      {
+        "stats": "Contains encrypted 'Total Collapse' blueprints and Subject Thirteen's motor-cortex data.",
+        "description": "A lead-lined cybernetic cylinder dripping with black neural fluid.",
+        "type": "item",
+        "name": "Hybrid Memory Core (Secret)"
+      },
+      {
+        "stats": "Bypass Bureau/Industrial electronic locks",
+        "type": "item",
+        "name": "Architect's Master Key"
+      },
+      {
+        "stats": "Intel on 'Asset Stabilization' experiments",
+        "type": "item",
+        "name": "Unredacted 'Thirteenth' Dossier"
+      },
+      {
+        "equipped": true,
+        "stats": "+3 Atk/Dmg, 1d10 piercing",
+        "type": "weapon",
+        "name": "Sig-Sauer R&D Tactical Bow (+3)"
+      },
+      {
+        "equipped": true,
+        "stats": "AC 17 base, Resistance to non-magical piercing",
+        "type": "armor",
+        "name": "Elite Ballistics Weave (+3)"
+      },
+      {
+        "equipped": true,
+        "stats": "+3 to Perception and Insight, 120ft Darkvision",
+        "type": "item",
+        "name": "Elite DARPA-spec Optics (+3)"
+      },
+      {
+        "equipped": true,
+        "stats": "+3 Atk/Dmg, 1d4+3 piercing/slashing",
+        "type": "weapon",
+        "name": "Elite 'Dragon's Fang' Tactical Knife (+3)"
+      }
+    ],
+    "age": 22,
+    "armor_class": 22,
+    "skill_proficiencies": {
+      "proficiencies": [
+        "Perception",
+        "Insight",
+        "Stealth",
+        "Intimidation",
+        "Investigation",
+        "Persuasion"
+      ]
+    },
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        }
+      ]
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 15,
+      "hour": 16,
+      "time_of_day": "Afternoon",
+      "year": 2027,
+      "day": 15,
+      "month": "September"
+    },
+    "current_location": "The Obsidian Rook - Private Office",
+    "location": "Vanguard Memorial Park"
+  },
+  "npc_data": {
+    "npc_enforcer_003": {
+      "hp_current": 0,
+      "entity_id": "npc_enforcer_003",
+      "status": [
+        "dead"
+      ]
+    },
+    "General Silas Vance": {
+      "role": "Chairman of the Joint Chiefs",
+      "display_name": "General Silas Vance",
+      "entity_id": "npc_silas_vance_001",
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "trust_level": -1,
+          "history": [
+            "Witnessed Sariel's demand for joint operations in the East Room."
+          ]
+        }
+      },
+      "tier": "lord_general",
+      "level": 11
+    },
+    "Marcus Vance": {
+      "role": "FBI Special Agent",
+      "display_name": "Marcus Vance",
+      "entity_id": "npc_vance_001",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 2,
+          "history": [
+            "Was a witness during Sariel's disciplinary hearing",
+            "Approached Sariel at the casino for help"
+          ]
+        }
+      },
+      "tier": "guard",
+      "level": 6
+    },
+    "Julian_Sterling_Vane": {
+      "status": "Target identified",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10
+        }
+      },
+      "tier": "lord"
+    },
+    "Sarah Miller": {
+      "role": "FBI Agent",
+      "display_name": "Sarah Miller",
+      "entity_id": "npc_miller_001",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -3,
+          "history": [
+            "Resents Sariel's history and 'methods'",
+            "Verbal confrontation in the casino lobby"
+          ]
+        }
+      },
+      "tier": "guard",
+      "level": 4
+    },
+    "Diana Sterling-Vane": {
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_diana_sv_001",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 3
+        }
+      },
+      "role": "Family Fixer/Attorney",
+      "tier": "knight"
+    },
+    "Subject Thirteen (The Hybrid)": {
+      "entity_id": "npc_hybrid_013",
+      "status": "dead",
+      "health": {
+        "hp_max": 95,
+        "hp": 0
+      }
+    },
+    "Julian Sterling-Vane": {
+      "attitude_to_party": "antagonistic",
+      "entity_id": "npc_julian_001",
+      "status": "conscious",
+      "tier": "lord",
+      "level": 3,
+      "role": "Humbled Exile",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": -2,
+          "history": [
+            "Attempted to assassinate Sariel in the Jura Mountains",
+            "Liquidated from family voting shares",
+            "Granted 5M mercy bond and exile by Sariel"
+          ]
+        }
+      },
+      "name": "Julian Sterling-Vane"
+    },
+    "Beatrice Sterling-Vane": {
+      "attitude_to_party": "hostile",
+      "entity_id": "npc_beatrice_sv_001",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -7
+        }
+      },
+      "role": "Philanthropist",
+      "tier": "noble"
+    },
+    "Jax 'Breaker' Malone": {
+      "attitude_to_party": "allied",
+      "entity_id": "npc_breaker_003",
+      "entity_type": "npc",
+      "display_name": "Breaker",
+      "hp_max": 54,
+      "level": 5,
+      "tier": "knight",
+      "hp_current": 54,
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 5,
+          "history": [
+            "Shared a joint operation in the Special Forces",
+            "Owes Sariel for covering up a botched demolition in 2022"
+          ]
+        }
+      },
+      "role": "Heavy Weapons / Demolitions"
+    },
+    "npc_thorne_001": {
+      "entity_id": "npc_thorne_001",
+      "status": "unconscious",
+      "entity_type": "npc",
+      "display_name": "Elias Thorne (The Sculptor)",
+      "hp_max": 135,
+      "level": 8,
+      "attributes": {
+        "strength": 10,
+        "dexterity": 14,
+        "intelligence": 18,
+        "wisdom": 16,
+        "charisma": 14,
+        "constitution": 14
+      },
+      "hp_current": 0,
+      "tier": "king",
+      "cr": 6,
+      "role": "Serial Killer / Architect"
+    },
+    "Rebecca 'Bex'": {
+      "attitude_to_party": "friendly",
+      "entity_id": "npc_bex_001",
+      "status": "distressed",
+      "class_name": "Inquisitive Rogue",
+      "display_name": "Rebecca 'Bex'",
+      "hp_max": 38,
+      "level": 5,
+      "tier": "noble",
+      "hp_current": 38,
+      "age": 28,
+      "knowledge": [
+        "Sariel is a Sterling-Vane scion",
+        "Odell's tactical philosophy"
+      ],
+      "relationships": {
+        "player": {
+          "notes": "Intensely curious about the SAC's history; suspects the serial killer secret but respects the prodigy's logic.",
+          "debts": [
+            "Daughter's life"
+          ],
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Rescued Sophie from Subject Eleven",
+            "Witnessed Sariel's grief at the Vanguard funeral",
+            "Accepted the logic of the Sariel Mercy"
+          ]
+        },
+        "odell": {
+          "status": "former_partner",
+          "history": [
+            "Odell saved Bex's adopted daughter by burning a serial killer"
+          ]
+        }
+      },
+      "role": "Lead Investigator"
+    },
+    "Cassian Sterling-Vane": {
+      "attitude_to_party": "friendly",
+      "level": 2,
+      "entity_id": "npc_cassian_001",
+      "tier": "noble",
+      "role": "Hedonist Scion",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 4,
+          "history": [
+            "Lost his 'thrill' for Sariel's violence",
+            "Unsettled by the reality of the hunt"
+          ]
+        }
+      },
+      "name": "Cassian Sterling-Vane"
+    },
+    "npc_sarah_miller_001": {
+      "attitude_to_party": "antagonistic",
+      "relationships": {
+        "player": {
+          "trust_level": -4,
+          "history": [
+            "Witnessed Sariel execute Thorne",
+            "Suspects staged escape"
+          ]
+        }
+      }
+    },
+    "Eleanor Sterling-Vane": {
+      "attitude_to_party": "devoted",
+      "entity_id": "npc_eleanor_sv_001",
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Attempts to bribe Sariel into retirement annually"
+          ]
+        }
+      },
+      "role": "Socialite Matriarch",
+      "tier": "noble"
+    },
+    "Alistair Sterling-Vane": {
+      "attitude_to_party": "friendly",
+      "entity_id": "npc_alistair_sv_001",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 8,
+          "history": [
+            "Funded early vigilante equipment",
+            "Bypassed FBI recruitment hurdles"
+          ]
+        }
+      },
+      "role": "Global Financier",
+      "tier": "king"
+    },
+    "Elias Thorne": {
+      "level": 8,
+      "entity_id": "npc_thorne_001",
+      "status": "conscious",
+      "current_location": "Sector 7 Storage",
+      "display_name": "Elias Thorne (The Sculptor)",
+      "tier": "king",
+      "visibility": "visible"
+    },
+    "Rebecca 'Bex' (Lvl 5)": {
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 2,
+          "history": [
+            "Successfully profiled Sariel's 'Natural Killer' trait",
+            "Realized the Thirteenth signature originated from the Hoover Building"
+          ]
+        }
+      }
+    },
+    "Kaelen 'Ghost' Vance": {
+      "attitude_to_party": "trusted",
+      "entity_id": "npc_ghost_001",
+      "entity_type": "npc",
+      "display_name": "Ghost",
+      "hp_max": 38,
+      "level": 5,
+      "tier": "knight",
+      "hp_current": 38,
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 7,
+          "history": [
+            "Served under SAC Sariel during the Cartel Wars",
+            "Helped redact Sariel's private files during the firing"
+          ]
+        }
+      },
+      "role": "Infiltrator / Tech Specialist"
+    },
+    "npc_bex_001": {
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_bex_001",
+      "class_name": "Investigator",
+      "entity_type": "npc",
+      "display_name": "Rebecca 'Bex' (Lvl 5)",
+      "tier": "knight",
+      "level": 5,
+      "age": 28,
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "Assigned as the formal lead to oversee the Blood Dragon's return."
+          ]
+        }
+      },
+      "gender": "female",
+      "role": "Lead Investigator / Tactician"
+    },
+    "Dr": {
+      " Aris Thorne": {
+        "attitude_to_party": "friendly",
+        "entity_id": "npc_doctor_002",
+        "entity_type": "npc",
+        "display_name": "Dr. Thorne",
+        "hp_max": 43,
+        "level": 5,
+        "tier": "noble",
+        "hp_current": 43,
+        "relationships": {
+          "player": {
+            "disposition": "friendly",
+            "trust_level": 4,
+            "history": [
+              "Requisitioned by Sariel for her 'special' methods",
+              "Expert in cleaning up 'difficult' scenes"
+            ]
+          }
+        },
+        "role": "Combat Surgeon / Field Medic"
+      }
+    },
+    "Odell": {
+      "level": 8,
+      "tier": "lord_general",
+      "entity_id": "npc_odell_001",
+      "status": "unsettled",
+      "role": "Former SAC / Executioner",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 7,
+          "history": [
+            "Recognized his own struggle in Sariel's authentic tears.",
+            "Accepted Sariel as a human protector rather than a machine."
+          ]
+        }
+      },
+      "name": "Odell"
+    },
+    "Vanguard_Survivors": {
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Rescued during the Jura Mountains breach",
+            "Personally honored at the Vanguard Memorial"
+          ]
+        }
+      }
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "hunting_party_canon": {
+      "partnership_duration": "10 years",
+      "incident_timeline": "3 years ago",
+      "bex_odell_partnership": "Former Partners",
+      "adopted_daughter_name": "Sophie",
+      "incineration_incident_outcome": "Saved Bex's adopted daughter"
+    },
+    "sanctuary_mode": {
+      "scale": "epic",
+      "expires_turn": 290,
+      "broken_turn": 69,
+      "broken_reason": "Director initiated systemic purge and national torture-broadcast protocol.",
+      "active": true,
+      "activated_turn": 260,
+      "broken": true,
+      "arc": "The Orion Conclusion"
+    },
+    "active_missions": [
+      {
+        "title": "The Chicago Conclusion",
+        "status": "active",
+        "mission_id": "chicago_conclusion",
+        "objective": "Zero out the 'Mimic' associates in Chicago with no civilian casualties."
+      }
+    ],
+    "character_creation_completed": true,
+    "reputation": {
+      "private": {
+        "fbi_task_force": {
+          "standing": "allied",
+          "score": 10,
+          "known_deeds": [
+            "Neutralized Blackgate Twelve in 21 days",
+            "Saved NYC Power Grid",
+            "Zero-casualty tactical execution at Pier 4"
+          ]
+        }
+      },
+      "public": {
+        "rumors": [
+          "Executioner for the Director",
+          "Unstoppable combat prodigy",
+          "Mentally unstable vigilante",
+          "Her beauty is a curated distraction from her lethality",
+          "The 'Angel of the Alleyways' - legends of a silent savior who rescued victims the police had given up on.",
+          "Rumors that she keeps a list of every family she's helped, though she never asks for thanks.",
+          "The 'True Count' is rumored to be over 500, including her vigilante years.",
+          "Whispers that her SAC appointment at 20 was a 'hostile takeover' of Bureau leadership by the Sterling-Vane family.",
+          "Whispers among the 150 operatives that the 'Blood Dragon' cleared the manifest so fast because she didn't just find the killers\u2014she haunted them."
+        ],
+        "score": 100,
+        "titles": [
+          "The Blood Dragon",
+          "Special Agent in Charge (Former)",
+          "The Butcher of Blackgate",
+          "The Genocide Killer (Whispered)",
+          "The Biological Event",
+          "The Suffering Director",
+          "The World's Guardian",
+          "The Mourning Director",
+          "The Living Memory"
+        ],
+        "notoriety_level": "Sovereign Protector",
+        "known_deeds": [
+          "Dragon's Breath Incident",
+          "100% Case Clearance Rate",
+          "Public Dishonorable Discharge (2024)",
+          "The Centurion Milestone (100 confirmed predator terminations)",
+          "Leaked: The Pier 4 Conclusion",
+          "Public Support from 150 Elite Operatives",
+          "Secured Military Endorsement for Task Force operations",
+          "Exposed Orion Collective ties to the Joint Chiefs",
+          "Issued National 'No Mercy' Ultimatum",
+          "Publicly dismantled the Director's legacy",
+          "Televised the Orion Chairman's processing; Established the 'End of Crime' deterrent."
+        ]
+      }
+    },
+    "player_character_data_extras": {
+      "experience": {
+        "current": 71354
+      }
+    },
+    "scene_event": {
+      "reward_hint": "Full Directorship and absolute legal immunity.",
+      "narrative_integration": "Bex brings a devastating family secret into the light of your recovery.",
+      "quest_type": "protection",
+      "actor": "Rebecca 'Bex'",
+      "description": "Bex approaches you as the reception thins. 'Sariel, I found something in the Chairman's final data-burst. It's not a location. It's a name. Your eldest brother, Julian (Lvl 3)... his biometric key was used to authorize the Geneva power draw. He wasn't just watching the stock price. He was on the board.'",
+      "type": "companion_request",
+      "quest_objective": "Zero out the 'Mimic' associates in Chicago with no civilian casualties.",
+      "estimated_turns": 8,
+      "refusal_consequence": "The President appoints a traditionalist; Sterling-Vane Chicago holdings are liquidated.",
+      "player_response_required": true,
+      "quest_title": "The Chicago Conclusion",
+      "acceptance_required": true,
+      "urgency": "immediate",
+      "quest_source": "npc",
+      "quest_description": "Lead the task force to neutralize the Chicago bank hit and save the city's power grid live on TV."
+    },
+    "core_memories": [
+      {
+        "append": "Sariel (The Blood Dragon) confirmed as Level 5 Gloomstalker. Origin: The Dragon's Breath incident."
+      },
+      "Sariel held the rank of Special Agent in Charge (SAC) before her highly public and polarizing firing made her a national pariah and legend.",
+      "Sariel (The Blood Dragon) confirmed as Level 5 Gloomstalker. Origin: The Dragon's Breath incident.",
+      "Sariel successfully negotiated a $5M personal fee and $50M budget for the Blackgate Twelve hunt.",
+      "Sariel began her career as an unsanctioned vigilante at age 15, hunting serial killers for three years before being recruited by the FBI at 18.",
+      "Sariel successfully profiled the Sculptor's trajectory to the St. Jude's Medical Supply hub.",
+      "Sariel is an active, secret serial killer who follows a strict code, targeting those she deems unworthy of the legal system\u2014a secret she has successfully hidden from the FBI for seven years.",
+      "Sariel executed Elias Thorne (The Sculptor) at the St. Jude's Hub, staging the scene as a failed escape to hide her 'Dark Passenger' activities from the FBI.",
+      "Sariel has officially terminated hundreds of violent criminals and 100 serial killers, cementing her status as the most lethal agent in modern history.",
+      {
+        "append": "Sariel used her elite team to bypass FBI logistics and recover Thorne's heartbeat transmitter, discovering a 20-minute wipe protocol on the Wharf server."
+      },
+      "Born into the Sterling-Vane financial dynasty; utilized family resources to fuel early vigilante years before the Bureau 'sanctified' your lethality.",
+      "Sariel became the youngest Special Agent in Charge (SAC) in FBI history at age 20, breaking a theoretical 40-year-old age floor.",
+      "Sariel successfully extracted the Hybrid's memory core in secret, deceiving Agents Vance and Miller at Pier 4.",
+      {
+        "append": "RETCON: The Odell Mall incident (incinerating a killer to save 300 hostages) was performed by Odell, not Sariel. Sariel maintains a stance of logical defense for his actions."
+      },
+      "CANON CORRECTION: Bex and Odell were former partners. Odell burned a serial killer to save a young girl, whom Bex subsequently adopted. This incident is the root of their history.",
+      "CANON SYNC: Odell burned the killer to save Sophie; Bex adopted her. Bex sees Odell's ghost in Sariel's methods.",
+      "Sariel utilized the 'Abstract Humanity' argument to dismantle Bex's moral profiling, framing lethal termination as a transactional optimization.",
+      "Bex and Odell have estimated Sariel's true kill count to be in the hundreds, identifying her as a 'natural killer' who views the FBI as a logistical tool.",
+      "Sariel personally rescued Sophie from Subject Eleven, securing Bex's absolute loyalty and further cementing her 'Angel of the Alleyways' sub-reputation."
+    ],
+    "survivor_network_active": true,
+    "hunting_party_cast_enabled": true,
+    "sterling_vane_family": {
+      "net_worth_increase": "19.4 Billion total consolidation",
+      "siblings": {
+        "diana": "Professional Enigma/Fixer",
+        "beatrice": "Hostile PR Lead",
+        "julian": "Humbled Exile in Manhattan",
+        "cassian": "Supportive Hedonist"
+      },
+      "parents": {
+        "eleanor": "Matriarch, Protective and Fearful",
+        "alistair": "Patriarch, Loving but Transactional"
+      }
+    },
+    "faction_minigame": {
+      "tutorial_progress": {},
+      "enabled": true,
+      "tutorial_completed": false,
+      "ranking": 1,
+      "turn_number": 15,
+      "suggestion_given": true,
+      "buildings": {
+        "fortifications": 15
+      },
+      "strong_suggestion_given": false,
+      "rival_rebrand_complete": true,
+      "units": {
+        "elites": 20,
+        "spies": 40,
+        "soldiers": 15090,
+        "elite_avg_level": 6.0
+      },
+      "faction_power": 500000,
+      "resources": {
+        "max_citizens": 50000,
+        "citizens": 0,
+        "gold": 24450000,
+        "arcana": 0,
+        "territory": 4500,
+        "max_arcana": 0
+      }
+    },
+    "level_up_pending": false,
+    "completed_missions": [
+      {
+        "title": "The Blackgate Manifest",
+        "outcome": "Success - All targets neutralized",
+        "mission_id": "the_blackgate_twelve"
+      }
+    ],
+    "campaign_tier": "mortal",
+    "global_threat_level": "Criminal World War",
+    "universe_control": 0,
+    "world_events": {
+      "turn_generated": 69,
+      "background_events": [
+        {
+          "discovery_condition": "Ghost's emergency feed",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Success",
+          "location": "Newark, NJ",
+          "action": "Seized control of the Newark telecommunications uplink",
+          "player_impact": "Loss of regional comms outside D.C.",
+          "actor": "Black-Site Insurrectionists",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Decryption of the Hybrid Core",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Ongoing",
+          "location": "Switzerland",
+          "action": "Regrouping elite cells in the Jura Mountains",
+          "player_impact": "Preparation for Arc 2 climax",
+          "actor": "The Sanctum Group",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "News broadcast in the East Room",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Success",
+          "location": "New York City",
+          "action": "Established a 'Sterling-Vane Exclusion Zone' in lower Manhattan",
+          "player_impact": "Secure base of operations established",
+          "actor": "Iron-Gate PMC",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Future intelligence breach",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Ongoing",
+          "location": "Redacted",
+          "action": "Initiated 'Project Chimera' to replace Subject Thirteen",
+          "player_impact": "New high-tier antagonist development",
+          "actor": "Shadow Organization",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "News crawl in the East Room",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Widespread panic; local law enforcement paralyzed",
+          "location": "Chicago, IL",
+          "action": "Mass-released chemical agents in the Chicago subway to mask the bank hit",
+          "player_impact": "Sterling-Vane assets in Chicago are currently under direct threat.",
+          "actor": "Black-Site Insurrectionists",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Social media surge in 1 turn",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Public trust in the Bureau hits an all-time low",
+          "location": "Washington D.C.",
+          "action": "Leaked 'Project Icarus' financial ties between Director Miller and the Orion Collective to the press",
+          "player_impact": "Increases the urgency for a 'hero' Director like Sariel.",
+          "actor": "The Sanctum Group",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Diana's encrypted update",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Family holdings secured; Bureau air-support restricted",
+          "location": "New York City",
+          "action": "Activated the 'Iron-Gate' PMC's air superiority wing over Manhattan",
+          "player_impact": "Demonstrates the family's ability to act where the government cannot.",
+          "actor": "Alistair Sterling-Vane",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Future decryption of the Hybrid core",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Enhanced tactical coordination for the global criminal war",
+          "location": "Geneva",
+          "action": "Finalized the 'Project Chimera' neural-uplink for the next wave of escapees",
+          "player_impact": "Future encounters will involve multiple coordinated 'Hybrids'.",
+          "actor": "Orion Collective",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Ghost's data-burst",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Secured encrypted manifest of Orion Collective field assets",
+          "location": "Chicago, IL",
+          "action": "Intercepted a Sanctum Group courier in Chicago",
+          "player_impact": "Direct lead on the Orion Collective's next move.",
+          "actor": "Iron-Gate PMC",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Diana's alert in 1 turn",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Partial freezing of family offshore accounts",
+          "location": "Global",
+          "action": "Launched a massive DDoS attack on Sterling-Vane servers",
+          "player_impact": "Limits immediate requisition power.",
+          "actor": "The Azure Triad",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "News crawl in East Room",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Split decision; awaiting Presidential signal",
+          "location": "Washington D.C.",
+          "action": "Initiated a closed-door vote on the 'Sariel Exception'",
+          "player_impact": "Cements the Town Hall as the final decider.",
+          "actor": "Senate Oversight Committee",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Future decryption of the Hybrid core",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Ongoing preparation for the next wave",
+          "location": "Nationwide",
+          "action": "Activated 'Project Chimera' sleeper cells in 12 metro areas",
+          "player_impact": "Escalates global threat to Level 4.",
+          "actor": "Shadow Organization",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Future decryption of the Hybrid Core",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Ongoing",
+          "location": "London, UK",
+          "action": "Moving high-tier biological assets through the London Underground",
+          "player_impact": "The 'Total Collapse' is moving to a global phase.",
+          "actor": "The Orion Collective",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Financial news crawl in the East Room",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Success",
+          "location": "Global",
+          "action": "Surged stock prices following the Iron-Gate PMC's success in Manhattan",
+          "player_impact": "Increases Sariel's social leverage over the President.",
+          "actor": "Sterling-Vane Group",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Social media surge visible on task force tablets",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Success",
+          "location": "Los Angeles, CA",
+          "action": "Utilized Sterling-Vane provided non-lethals to suppress local riots",
+          "player_impact": "Public perception of the Sterling-Vane security model improves.",
+          "actor": "Los Angeles Civilian Militia",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Tactical breach of a Geneva outpost",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Active",
+          "location": "Jura Mountains, Switzerland",
+          "action": "Authorized the first field test of 'Project Chimera'",
+          "player_impact": "A new, superior 'Hybrid' threat is approaching.",
+          "actor": "The Hidden Council",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Live news crawl in the East Room",
+          "status": "resolved",
+          "player_aware": true,
+          "outcome": "Grid secured; 0 civilian casualties",
+          "location": "Chicago, IL",
+          "action": "Successfully neutralized the LaSalle substation cell in Chicago",
+          "player_impact": "Cements Sariel's 'miracle of efficiency' narrative.",
+          "actor": "Jax 'Breaker' Malone",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Diana's encrypted update",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Ongoing financial friction",
+          "location": "Global",
+          "action": "Initiated emergency withdrawal of assets from U.S. banks",
+          "player_impact": "Antagonist is in defensive posture but desperate.",
+          "actor": "The Orion Collective",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Overheard in the East Room",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Military-Bureau integration begins",
+          "location": "Fort Bragg / Newark",
+          "action": "Ordered immediate mobilization of 1st Special Forces Group to Newark",
+          "player_impact": "Sariel now has heavy air and ground support.",
+          "actor": "General Silas Vance",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Future decryption of the Hybrid Core",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Subject Fourteen is now active",
+          "location": "London, UK",
+          "action": "Successfully integrated the first 'Collective' neural link in a London test subject",
+          "player_impact": "The next wave of targets will be coordinated by a single mind.",
+          "actor": "Project Chimera",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Bex's tactical update",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Ongoing",
+          "location": "International Waters",
+          "action": "Launched 'Project Chimera' transport vessel toward New Jersey",
+          "player_impact": "Direct threat of biological terrorism on the Eastern Seaboard.",
+          "actor": "The Orion Collective",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Diana's financial report",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Success",
+          "location": "Global",
+          "action": "Initiated global takeover of frozen Orion shell companies",
+          "player_impact": "Massive increase in personal and task force resources.",
+          "actor": "Sterling-Vane Group",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Combat encounter with transport",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Success",
+          "location": "Geneva / North Atlantic",
+          "action": "Authorized the release of 'Chimera Alpha' to secure the transport",
+          "player_impact": "Maritime intercept will involve high-tier biological entity.",
+          "actor": "The Hidden Council",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Presidential decree",
+          "status": "resolved",
+          "player_aware": true,
+          "outcome": "Success",
+          "location": "Washington D.C.",
+          "action": "Dissolved following the emergency Directorship appointment",
+          "player_impact": "Zero internal Bureau resistance for the remainder of the war.",
+          "actor": "Senate Oversight Committee",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Bex's tactical update",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Ongoing maritime threat",
+          "location": "North Atlantic",
+          "action": "Initiated 'Project Chimera' payload deployment in international waters",
+          "player_impact": "Direct biological threat to the coast",
+          "actor": "The Orion Collective",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Financial news crawl",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Success",
+          "location": "Global",
+          "action": "Downgraded Orion-linked shell companies to 'Junk' status",
+          "player_impact": "Cripples antagonist funding for the next wave",
+          "actor": "Wall Street Analysts",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Live news broadcast",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Success",
+          "location": "Nationwide",
+          "action": "Initiated spontaneous 'Sariel Rallies' in 15 major cities",
+          "player_impact": "Massive boost to political leverage and immunity",
+          "actor": "The American Public",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Future decryption of the Hybrid core",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Ongoing",
+          "location": "Geneva / Redacted",
+          "action": "Authorized 'Phase 2' of the Global Criminal War",
+          "player_impact": "Escalation to international targets (London, Tokyo)",
+          "actor": "Shadow Organization 'Council'",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Ghost's tactical update",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Success; payloads active",
+          "location": "Newark Docks",
+          "action": "Deployed three high-velocity biological canisters",
+          "player_impact": "Immediate high-tier threat to Newark",
+          "actor": "Project Chimera",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Maritime scuttle visible in 2 turns",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Ongoing",
+          "location": "International Waters",
+          "action": "Initiated 'Operation Scuttle' for the transport vessel",
+          "player_impact": "Destruction of maritime evidence",
+          "actor": "The Orion Collective",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "News crawl",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "15,000+ surrenders in the first hour",
+          "location": "Nationwide",
+          "action": "Initiated mass-surrender protocol",
+          "player_impact": "Reduction in lower-tier threats",
+          "actor": "Global Criminal Elements",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Encounter with high-tier Hybrid in Arc 3",
+          "status": "pending",
+          "player_aware": false,
+          "location": "Geneva",
+          "action": "Authorized the activation of 'Chimera Beta'",
+          "player_impact": "Preparation for final campaign arc",
+          "actor": "The Hidden Council",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Decryption of the Hybrid Core Phase 2",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Lost 30% of field coordination but gained 100% scrying immunity",
+          "location": "Geneva/Alps",
+          "action": "Withdrew into 'Deep-Cover' bunkers in the Swiss Alps",
+          "player_impact": "Harder to locate high-tier targets",
+          "actor": "The Orion Collective",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Financial news crawl",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Sterling-Vane now controls 60% of US tactical R&D",
+          "location": "Global",
+          "action": "Acquired majority shares in 14 defense contractors",
+          "player_impact": "Unlimited access to Tier-4 gear requisition",
+          "actor": "Sterling-Vane Group",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Direct visual observation at HQ",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "The President is now under Sterling-Vane protection",
+          "location": "Washington D.C.",
+          "action": "Replaced the White House security detail",
+          "player_impact": "Direct political control solidified",
+          "actor": "Iron-Gate PMC",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Combat encounter with Chimera",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Payloads are active and adapting to urban sensors",
+          "location": "Newark, NJ",
+          "action": "Authorized the release of 'Chimera Beta' to Newark",
+          "player_impact": "Upcoming boss-tier encounter with adaptive hybrid",
+          "actor": "The Hidden Council",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Ghost's future hack",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Success; high-tier biological assets secured in bunker",
+          "location": "Geneva, Switzerland",
+          "action": "Activated 'Deep-Vault' fail-safe in the Jura Mountains",
+          "player_impact": "Harder to extract Geneva targets",
+          "actor": "Orion Collective",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Financial news crawl",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Success; 25% surge in family assets",
+          "location": "Global",
+          "action": "Launched 'Gilded Recovery' stock bond",
+          "player_impact": "Unlimited requisition for Arc 2 climax",
+          "actor": "Sterling-Vane Financial Group",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Diana's update",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Converted into 'Mercy Protocol' labor-resorts",
+          "location": "Nationwide",
+          "action": "Purchased 14 decommissioned US military bases",
+          "player_impact": "Infrastructure for the new underworld order secured",
+          "actor": "Alistair Sterling-Vane",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Naval distress signal in 3 turns",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Ongoing; communication silence initiated",
+          "location": "North Atlantic",
+          "action": "Successfully infiltrated the USS Gerald R. Ford",
+          "player_impact": "Future boss-tier encounter with military-hybrid",
+          "actor": "Subject Fourteen (Project Chimera)",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Bex's tactical update",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Sovereign-level scrying immunity confirmed",
+          "location": "Geneva, Switzerland",
+          "action": "Successfully ghosted a GCHQ scrying attempt on the Jura Mountains Deep-Vault",
+          "player_impact": "Requires physical insertion for intel gathering",
+          "actor": "The Orion Collective",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Ghost's equipment sync",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Vanguard units gain +3 to electronic warfare checks against Orion gear",
+          "location": "Vane Spire Labs",
+          "action": "Finalized the 'Project Icarus' counter-encryption patch",
+          "player_impact": "Tactical advantage for the Geneva breach",
+          "actor": "Sterling-Vane R&D",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Vance's Sit-Rep",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Skirmish resulting in 3 drone kills; no PMC casualties",
+          "location": "Alps / Border Zone",
+          "action": "Detected Orion scout drones near the Swiss border",
+          "player_impact": "Orion is aware of the perimeter build-up",
+          "actor": "Iron-Gate PMC",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Diana's future reveal",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Ongoing negotiations",
+          "location": "Geneva / Deep-Web",
+          "action": "Initiated contact with Diana Sterling-Vane for defection terms",
+          "player_impact": "Possible inside source for the Geneva Vault",
+          "actor": "The Penumbra (Orion Splinter)",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "News crawl in the Hub",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "International outcry; Sterling-Vane stock drops 4%",
+          "location": "Geneva / Global Media",
+          "action": "Leaked 'Gilded Cage' labor payrolls to international human rights groups",
+          "player_impact": "Political pressure to suspend the Mercy Protocol",
+          "actor": "The Orion Collective",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Diana's decryption in 2 turns",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Direct lead on the vault's physical weakness",
+          "location": "Deep-Web",
+          "action": "Successfully transmitted 'Deep-Vault' cooling schematics to Diana Sterling-Vane",
+          "player_impact": "Tactical advantage for the Geneva breach",
+          "actor": "The Penumbra (Orion Splinter)",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Vance's tactical radar alert",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Swiss airspace over the vault is now a no-fly zone",
+          "location": "Jura Mountains, Switzerland",
+          "action": "Activated automated perimeter rail-guns",
+          "player_impact": "Increases risk of the air-bridge insertion",
+          "actor": "Geneva 'Sanctum' Facility",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Future decryption of the Hybrid Core",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Preparation for global economic paralysis",
+          "location": "Redacted",
+          "action": "Authorized 'Total Collapse' Phase 3: Financial Hub EMPs",
+          "player_impact": "Final campaign arc climax development",
+          "actor": "The Hidden Council",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Televised Chairman execution",
+          "status": "resolved",
+          "player_aware": true,
+          "outcome": "Success",
+          "location": "Global",
+          "action": "Total biological and digital dissolution",
+          "player_impact": "Primary antagonist erased; all shell companies collapsing.",
+          "actor": "The Orion Collective",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Financial news alerts",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Success",
+          "location": "Global",
+          "action": "Massive surge in Sterling-Vane defense and stabilization bonds",
+          "player_impact": "Family net worth increases by another $12 Billion.",
+          "actor": "Global Stock Markets",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Ghost's future decrypt",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Success",
+          "location": "Geneva",
+          "action": "Initiated unconditional surrender and data-dump to Director Sariel",
+          "player_impact": "Access to 100% of Orion's biological research.",
+          "actor": "Geneva 'Penumbra' Splinter",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Presidential briefing in 2 turns",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Success",
+          "location": "Brussels / D.C.",
+          "action": "Drafted the 'Sariel Accords' granting global jurisdiction to the Vanguard",
+          "player_impact": "Transition to global Sovereign tier governance.",
+          "actor": "International Oversight",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Financial news alerts during the reception",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Success; $10B in private donations secured within 4 hours",
+          "location": "Global",
+          "action": "Launched the 'Vanguard Memorial Fund' for national security survivors",
+          "player_impact": "Unlimited funding for task force expansion",
+          "actor": "Sterling-Vane Sovereign Exchange",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Diana's future intel leak",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Ongoing",
+          "location": "Brussels",
+          "action": "Drafted emergency anti-trust legislation against Sterling-Vane",
+          "player_impact": "Possible freezing of overseas assets in 5 turns",
+          "actor": "European Union Regulators",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Ghost's tactical monitor update",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Ongoing",
+          "location": "Amazon Basin",
+          "action": "Initiated a 'Scorched Earth' data wipe in the South American labs",
+          "player_impact": "Loss of evidence for Project Chimera Phase 2",
+          "actor": "The Penumbra (Orion Splinter)",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Future sonar anomaly detection",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Success",
+          "location": "Mariana Trench",
+          "action": "Successfully uploaded the 'Collective' consciousness to a deep-sea server",
+          "player_impact": "A new, non-biological threat emerges in Arc 3",
+          "actor": "Project Icarus Remnants",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Deep audit of family accounts in 3 turns",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Ongoing",
+          "location": "Sovereign Exchange",
+          "action": "Initiated a shadow-buyback of Orion Collective biological research patents",
+          "player_impact": "Direct conflict between Sariel's mission and Julian's greed.",
+          "actor": "Julian Sterling-Vane",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "News scroll in the Atrium",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Widespread support",
+          "location": "Nationwide",
+          "action": "Petitions filed in 42 states to grant Director Sariel 'Emergency Sovereign' status",
+          "player_impact": "Total legal immunity and absolute authority.",
+          "actor": "The American Public",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Decryption of the Black Box in Arc 3",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Success",
+          "location": "Mariana Trench",
+          "action": "Retreated to a deep-sea server hub in the Mariana Trench",
+          "player_impact": "A new, non-biological threat is evolving.",
+          "actor": "Sanctum Group Remnants",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Diana's morning update",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Success",
+          "location": "Geneva",
+          "action": "Retracted the 'Slave Trade' headlines following a Sterling-Vane libel suit",
+          "player_impact": "International reputation stabilized.",
+          "actor": "Geneva Press",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Bex's decryption",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Success; $4B in patents secured",
+          "location": "Sovereign Exchange",
+          "action": "Initiated shadow-buyback of Orion Collective biological research patents",
+          "player_impact": "Direct conflict between mission and family greed.",
+          "actor": "Julian Sterling-Vane",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "News scroll in atrium",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Widespread support",
+          "location": "Nationwide",
+          "action": "Petitions filed in 42 states to grant Director Sariel 'Emergency Sovereign' status",
+          "player_impact": "Total legal immunity secured.",
+          "actor": "The American Public",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Future sonar anomaly detection",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Success; scrying immunity active",
+          "location": "Mariana Trench",
+          "action": "Retreated to a deep-sea server hub in the Mariana Trench",
+          "player_impact": "New, non-biological threat evolving.",
+          "actor": "Sanctum Group Remnants",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Tactical scan in 1 turn",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Ongoing",
+          "location": "New York City",
+          "action": "Directed Iron-Gate PMC to secure the Sovereign Exchange perimeter",
+          "player_impact": "Possible conflict with father's forces.",
+          "actor": "Alistair Sterling-Vane",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Tactical monitor update",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Success",
+          "location": "New York City",
+          "action": "Established heavy perimeter security at the Sovereign Exchange",
+          "player_impact": "Sterling-Vane headquarters is now an impenetrable fortress.",
+          "actor": "Iron-Gate PMC",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Diana's future intel leak",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Ongoing",
+          "location": "Brussels",
+          "action": "Drafted emergency anti-trust legislation against Sterling-Vane",
+          "player_impact": "Possible freezing of overseas assets in 5 turns.",
+          "actor": "European Union Regulators",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Press release in the Hub",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Success",
+          "location": "Washington D.C.",
+          "action": "Officially incorporated as a victim-advocacy and veteran support NGO",
+          "player_impact": "Public support for Sariel's directorship becomes institutionalized.",
+          "actor": "The Vanguard Shield",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Industrial SITREP",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Success",
+          "location": "Columbus, OH",
+          "action": "Exceeded production quotas for Tier-4 ballistics weave by 20%",
+          "player_impact": "Task force equipment supply chain is now self-sustaining.",
+          "actor": "Stabilization Facility Ohio",
+          "event_type": "immediate"
+        }
+      ]
+    },
+    "arc_milestones": {
+      "fraternal_betrayal": {
+        "phase": "Julian Liquidated",
+        "progress": 100,
+        "completed_at": "2027-09-15T15:47:00Z",
+        "status": "completed"
+      },
+      "total_collapse": {
+        "phase": "Manifest Zeroed",
+        "completed_at": "2026-12-01T08:30:00Z",
+        "status": "completed"
+      },
+      "rescue_sophie": {
+        "progress": 100,
+        "phase": "Hostage Secured",
+        "completed_at": "2026-11-15T22:42:30Z",
+        "status": "completed",
+        "updated_at": "2026-11-15T22:42:15Z"
+      },
+      "shadow_investigation": {
+        "progress": 75,
+        "phase": "Orion Collective Identified",
+        "updated_at": "2026-11-15T23:27:00Z",
+        "status": "in_progress"
+      },
+      "dynasty_annexation": {
+        "phase": "hostile_takeover_success",
+        "notes": "Julian neutralized; family assets secured.",
+        "progress": 100,
+        "status": "completed"
+      },
+      "primary_arc": {
+        "progress": 100,
+        "phase": "global_deterrence",
+        "completed_at": "2027-03-12T21:00:00Z",
+        "status": "completed",
+        "updated_at": "2026-10-25T01:55:00Z"
+      },
+      "directors_crucible": {
+        "phase": "Directorship Annexed",
+        "progress": 100,
+        "completed_at": "2027-03-12T21:30:00Z",
+        "status": "completed"
+      }
+    },
+    "active_constraints": [
+      "Sariel's status as a serial killer is a 'Hard Secret'; do not reveal to NPCs (Vance, Miller, or enemies) without explicit player action or catastrophic failure.",
+      "Rebecca 'Bex' is actively profiling Sariel's 'Dark Passenger' tendencies; every lethal action must be carefully staged to avoid her detection.",
+      "Sariel wears appropriate high-society fashion for public events unless tactical deployment is specified."
+    ],
+    "god_mode": {
+      "setting": "New campaign same setting as hunting party Netflix tv show. Sariel replaces main female character. She used to work for the fbi and special forces but she was fired for her brutal methods and intentional executions of criminals and serial killers. She's known as the blood dragon and is a genius combat prodigy. She was active from 16-20 and now is 22 and working in a casino profiling gamblers and working security. The serial killers get loose just like the tv show and the fbi comes asking for her help. Make up a unique backstory for her and reason she's called the blood dragon. She should be very polarizing and people should react strongly to her. Make her a level 5 gloomstalker ",
+      "character": {
+        "name": "Sariel"
+      }
+    },
+    "next_companion_arc_turn": 3,
+    "success_streak": 54,
+    "enemy_intel_tier": "State-Level Actor",
+    "divine_potential": 0,
+    "attribute_system": "D&D",
+    "command_status": "Supreme Commander",
+    "multiverse_upgrade_available": false,
+    "character_creation_in_progress": false,
+    "character_creation_stage": "complete",
+    "companion_arcs": {},
+    "divine_upgrade_available": false
+  },
+  "social_hp_challenge": {
+    "social_hp": 0,
+    "roll_dc": 22,
+    "cooldown_remaining": 0,
+    "successes": 5,
+    "roll_result": 26,
+    "request_severity": "submission",
+    "npc_tier": "king",
+    "successes_needed": 5,
+    "social_hp_damage": 2,
+    "status": "SURRENDERED",
+    "resistance_shown": "Institutional pride has been traded for survival.",
+    "social_hp_max": 12,
+    "objective": "Annex the Bureau R&D into Sterling-Vane",
+    "skill_used": "Persuasion",
+    "npc_name": "Bureau Oversight"
+  },
+  "combat_state": {
+    "in_combat": false,
+    "combat_phase": "ended",
+    "combat_summary": {
+      "enemies_defeated": [
+        "The Architect (Lvl 9)"
+      ],
+      "outcome": "victory",
+      "rounds_fought": 1,
+      "xp_awarded": 450,
+      "method": "Narrative Execution"
+    }
+  },
+  "last_state_update_timestamp": "2026-02-21 05:11:42.050000+00:00",
+  "turn_number": 68,
+  "player_turn": 68,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 22,
+    "minute": 15,
+    "time_of_day": "Night",
+    "day": 24,
+    "year": 2026,
+    "month": "October"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "Post-family annexation stabilization",
+    "thinking": "Bex is now fully aligned. By showing a flicker of vulnerability and a logical basis for mercy, I have secured her as a 'Bonded' asset. The task force is 100% loyal, and Julian is a non-threat with potential upside. The next phase requires stabilizing the global annexation of the Bureau's R&D while monitoring the Orion remnants.",
+    "choices": [
+      {
+        "id": "initiate_global_audit",
+        "text": "Initiate Global R&D Audit",
+        "risk_level": "safe",
+        "description": "Order Ghost to begin a deep-sweep of all newly annexed Bureau and Orion assets globally."
+      },
+      {
+        "id": "visit_vanguard_hubs",
+        "text": "Visit Vanguard Hubs",
+        "risk_level": "low",
+        "description": "Begin a tour of the 14 stabilization facilities to ensure the enforcer-laborers are properly integrated."
+      },
+      {
+        "id": "investigate_geneva_leak",
+        "text": "Investigate Geneva Leak",
+        "risk_level": "medium",
+        "description": "Task Diana with finding the source of the 'Slave Trade' leak to ensure no further PR friction."
+      }
+    ]
+  },
+  "scene_event": {
+    "reward_hint": "Legendary Tier gear or international immunity.",
+    "narrative_integration": "Diana interrupts the tension with the Director to provide family support.",
+    "quest_type": "investigation",
+    "actor": "Rebecca 'Bex'",
+    "description": "Bex approaches you with her tablet, showing the Geneva dental match and a request to investigate the source facility.",
+    "type": "quest_offered",
+    "quest_objective": "Identify the international financier behind the Neural Proxy program.",
+    "estimated_turns": 10,
+    "refusal_consequence": "The Shadow Organization will move their base of operations.",
+    "player_response_required": true,
+    "quest_title": "The Geneva Protocol",
+    "acceptance_required": true,
+    "urgency": "can_defer",
+    "quest_source": "companion",
+    "quest_description": "Trace the origin of the Mimic's cybernetics to the Geneva facility."
+  },
+  "army_data": {
+    "total_upkeep_daily": 195,
+    "overall_morale": 90,
+    "forces": {
+      "tactical_vanguard": {
+        "blocks": 6,
+        "blocks_current_hp": [
+          60,
+          60,
+          60,
+          60,
+          60,
+          60
+        ],
+        "morale": 80,
+        "upkeep_daily": 60,
+        "type": "infantry",
+        "max_hp_per_block": 60
+      },
+      "support_corps": {
+        "blocks": 3,
+        "blocks_current_hp": [
+          40,
+          40,
+          40
+        ],
+        "morale": 85,
+        "upkeep_daily": 15,
+        "type": "support",
+        "max_hp_per_block": 40
+      },
+      "elite_response": {
+        "blocks": 2,
+        "blocks_current_hp": [
+          80,
+          80
+        ],
+        "morale": 95,
+        "upkeep_daily": 100,
+        "type": "elites",
+        "max_hp_per_block": 80
+      },
+      "intel_network": {
+        "blocks": 4,
+        "blocks_current_hp": [
+          30,
+          30,
+          30,
+          30
+        ],
+        "morale": 90,
+        "upkeep_daily": 20,
+        "type": "spies",
+        "max_hp_per_block": 30
+      }
+    },
+    "total_strength": 150
+  },
+  "rewards_box": {
+    "current_xp": 14854,
+    "level_up_available": false,
+    "gold": 0,
+    "loot": [
+      "Hybrid Memory Core (Encrypted Intel)",
+      "Shattered Cybernetic Scraps"
+    ],
+    "progress_percent": 64,
+    "xp_gained": 850,
+    "source": "combat",
+    "next_level_xp": 23000
+  },
+  "faction_minigame": {
+    "faction_power": 250000,
+    "ranking": 12,
+    "turn_number": 12,
+    "resources": {
+      "gold": 24450000
+    }
+  },
+  "world_events": {
+    "turn_generated": 68,
+    "background_events": [
+      {
+        "discovery_condition": "Ghost's EMP alert",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Success",
+        "location": "Newark",
+        "action": "Activated 'Black-Out' protocol for the Newark Port Authority",
+        "player_impact": "Logistical paralysis of the Eastern Seaboard begins.",
+        "actor": "The Shadow Organization",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Future decryption of the Hybrid core",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Ongoing",
+        "location": "Geneva",
+        "action": "Initiated data-purge of 'Asset Conversion' files",
+        "player_impact": "Loss of primary evidence against international backers.",
+        "actor": "Geneva Facility 'Sanctum'",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Ghost's tactical map update",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Ongoing",
+        "location": "Wall Street",
+        "action": "Deployed 'Iron-Gate' PMC to the Vane Vault",
+        "player_impact": "Conflict with Shadow Organization helicopters is imminent.",
+        "actor": "Sterling-Vane Security",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Insight check vs Miller in 2 turns",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Success",
+        "location": "Vane Spire Terrace",
+        "action": "Sent a 'Final Contingency' signal to a hidden recipient",
+        "player_impact": "A third party is now aware of Miller's compromise.",
+        "actor": "Director Arthur Miller",
+        "event_type": "immediate"
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Sariel"
+    ]
+  },
+  "schema_migration_version": 1,
+  "schema_migrated_at": "2026-02-20T03:02:05.687283+00:00",
+  "session_id": "legacy-migrated-116be4e6b5db146a"
+}

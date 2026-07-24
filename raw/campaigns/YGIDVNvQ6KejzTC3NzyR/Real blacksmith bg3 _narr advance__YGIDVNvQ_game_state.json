@@ -1,0 +1,543 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "proficiency_bonus": 2,
+    "class_name": "Cleric (Forge Smith)",
+    "background": "Guild Artisan",
+    "entity_id": "pc_haldan_001",
+    "display_name": "Haldan Iron-Wrought",
+    "attributes": {
+      "strength": 16,
+      "dexterity": 8,
+      "intelligence": 8,
+      "wisdom": 16,
+      "charisma": 12,
+      "constitution": 14
+    },
+    "status_conditions": [],
+    "race": "Mountain Dwarf",
+    "resources": {
+      "hit_dice": {
+        "used": 0,
+        "total": 1
+      },
+      "spell_slots": {
+        "level_1": {
+          "current": 2,
+          "max": 2
+        }
+      },
+      "gold": 973
+    },
+    "experience": {
+      "needed_for_next_level": 300,
+      "current": 305,
+      "to_next_level": 0
+    },
+    "base_attributes": {
+      "strength": 14,
+      "dexterity": 8,
+      "intelligence": 8,
+      "wisdom": 16,
+      "charisma": 12,
+      "constitution": 12
+    },
+    "spells_prepared": [
+      {
+        "level": 1,
+        "name": "Bless"
+      },
+      {
+        "level": 1,
+        "name": "Cure Wounds"
+      },
+      {
+        "level": 1,
+        "name": "Searing Smite"
+      },
+      {
+        "level": 1,
+        "name": "Identify"
+      }
+    ],
+    "hp_max": 10,
+    "level": 1,
+    "skills": [
+      "athletics",
+      "insight",
+      "persuasion",
+      "religion"
+    ],
+    "hp_current": 10,
+    "cantrips": [
+      {
+        "level": 0,
+        "description": "Smith's Eye",
+        "name": "Guidance"
+      },
+      {
+        "level": 0,
+        "description": "Forge Spark",
+        "name": "Sacred Flame"
+      },
+      {
+        "level": 0,
+        "description": "Stoke the Life-Fire",
+        "name": "Spare the Dying"
+      }
+    ],
+    "health": {
+      "hp_max": 10,
+      "temp_hp": 0,
+      "hp": 10,
+      "conditions": []
+    },
+    "equipment": {
+      "backpack": [
+        {
+          "name": "Smith's Tools"
+        },
+        {
+          "name": "Mason's Tools"
+        },
+        {
+          "name": "Guild Introduction Letter"
+        },
+        {
+          "quantity": 20,
+          "name": "Iron Ingot"
+        },
+        {
+          "quantity": 10,
+          "name": "Steel Ingot"
+        },
+        {
+          "quantity": 50,
+          "name": "Coal"
+        },
+        {
+          "quantity": 10,
+          "name": "Leather Strips"
+        },
+        {
+          "name": "Whetstone"
+        },
+        {
+          "name": "Bellows"
+        },
+        {
+          "stats": "Expertise",
+          "name": "Smith's Tools"
+        }
+      ],
+      "armor": {
+        "equipped": true,
+        "ac": 16,
+        "type": "armor",
+        "name": "Chain Mail"
+      },
+      "off_hand": {
+        "equipped": true,
+        "ac_bonus": 2,
+        "type": "shield",
+        "name": "Shield"
+      },
+      "main_hand": {
+        "damage": "1d8+3",
+        "equipped": true,
+        "type": "weapon",
+        "name": "Warhammer"
+      },
+      "ranged": {
+        "damage": "1d8",
+        "equipped": true,
+        "type": "weapon",
+        "name": "Light Crossbow"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 5,
+      "minute": 0,
+      "hour": 8,
+      "time_of_day": "morning",
+      "year": 1493,
+      "day": 8,
+      "month": "Hammer"
+    },
+    "current_location_name": "The Iron-Wrought Forge / The Heavy Hammer"
+  },
+  "npc_data": {
+    "Thrum Bone-Breaker": {
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 1,
+          "history": [
+            "Formed a preliminary professional partnership for the harbor crane contract"
+          ]
+        }
+      }
+    },
+    "npc_lulu_001": {
+      "race": "Tressym",
+      "npc_id": "npc_lulu_001",
+      "role": "Forge Cat",
+      "tier": "commoner",
+      "display_name": "Lulu"
+    },
+    "npc_keene_001": {
+      "role": "Guild Master",
+      "display_name": "Nine-Fingers Keene",
+      "npc_id": "npc_keene_001",
+      "alignment": "Neutral",
+      "gender": "Female",
+      "tier": "lord"
+    },
+    "Tilda Iron-Wrought": {
+      "attitude_to_party": "friendly",
+      "entity_id": "npc_tilda_001",
+      "status": "conscious",
+      "entity_type": "npc",
+      "display_name": "Tilda Iron-Wrought",
+      "hp_max": 4,
+      "level": 1,
+      "tier": "commoner",
+      "hp_current": 4,
+      "age": 12,
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Grew up in the forge together",
+            "Helped manage the shop after parents' death"
+          ]
+        }
+      },
+      "gender": "Female",
+      "role": "Ledger Keeper / Sister"
+    },
+    "npc_ravengard_001": {
+      "role": "Ruler of Baldur's Gate",
+      "display_name": "Grand Duke Ulder Ravengard",
+      "npc_id": "npc_ravengard_001",
+      "alignment": "Lawful Good",
+      "gender": "Male",
+      "tier": "king"
+    },
+    "Bram Iron-Wrought": {
+      "attitude_to_party": "friendly",
+      "entity_id": "npc_bram_001",
+      "status": "conscious",
+      "entity_type": "npc",
+      "display_name": "Bram Iron-Wrought",
+      "hp_max": 3,
+      "level": 1,
+      "tier": "commoner",
+      "hp_current": 3,
+      "age": 8,
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Grew up in the forge together",
+            "Assists with basic forge tasks"
+          ]
+        }
+      },
+      "gender": "Male",
+      "role": "Bellows Helper / Brother"
+    },
+    "npc_faceless_001": {
+      "status": "hidden",
+      "npc_id": "npc_faceless_001",
+      "role": "Mysterious Patron",
+      "tier": "lord",
+      "display_name": "The Faceless One"
+    },
+    "Sergeant Gauntlet": {
+      "entity_id": "npc_gauntlet_001",
+      "status": "conscious",
+      "entity_type": "npc",
+      "tier": "guard",
+      "display_name": "Sergeant Gauntlet",
+      "level": 4,
+      "role": "Flaming Fist Sergeant",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "First customer of the new Iron-Wrought Forge"
+          ]
+        }
+      }
+    },
+    "npc_dammon_001": {
+      "display_name": "Dammon",
+      "race": "Tiefling",
+      "npc_id": "npc_dammon_001",
+      "role": "Master Smith",
+      "gender": "Male",
+      "tier": "noble"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "arc_milestones": {},
+    "active_constraints": [],
+    "god_mode": {
+      "setting": "I wanna be a blacksmith in baldurs gate after events bg3 and let\u2019s do no or minimal combat to start."
+    },
+    "character_creation_stage": "complete",
+    "next_companion_arc_turn": 3,
+    "smith_guild_tiers": [
+      "Apprentice",
+      "Journeyman",
+      "Master Smith",
+      "Artisan of the Realm",
+      "World-Renowned Grand Master"
+    ],
+    "companion_arcs": {},
+    "success_streak": 0,
+    "_agent_selection_tracker": {
+      "count": 4,
+      "agent": "LevelUpAgent",
+      "rewards_skip_count": 0
+    },
+    "character_creation_completed": true,
+    "last_location": "The Iron-Wrought Forge / The Heavy Hammer",
+    "smith_guild_rank": "Apprentice",
+    "divine_potential": 0,
+    "core_memories": [
+      "Haldan Iron-Wrought is a Forge Smith Cleric of Baldur's Gate, inheriting his parents' shop and following a 30-level divine progression of the hammer and anvil.",
+      "Haldan Iron-Wrought has inherited the Iron-Wrought Forge in Baldur's Gate in 1493 DR, discovering a mysterious debt to 'The Faceless One'.",
+      "Haldan is an Apprentice in the Smith's Guild and cares for his younger siblings, Tilda (12) and Bram (8), following their parents' death.",
+      "Haldan opened the Iron-Wrought Forge for its first day of business with Tilda and Bram assisting, receiving a breastplate repair request from Sergeant Gauntlet.",
+      "Haldan successfully used the 'Community Pillar' strategy to impress Sergeant Gauntlet (Lvl 4), securing 2gp and a potential referral to the Basilisk Gate barracks.",
+      "Haldan successfully performed a Masterwork Finish on Sergeant Gauntlet's breastplate, reinforcing the Iron-Wrought reputation for quality and divine craftsmanship.",
+      "Haldan attempted to organize the shop for a rush and train Bram, but the effort was clumsy, resulting in a spilled coal crate and mockery from his rival, Thrum Bone-Breaker.",
+      "Master Horgun, a harbor consortium merchant, expressed skepticism about Haldan's ability to fulfill a large contract due to his Apprentice rank, despite being impressed by his tempered steel.",
+      "Haldan successfully performed the 'Five-Minute Challenge,' winning over Master Horgun and securing a lead on a major harbor crane contract.",
+      "Haldan attempted to negotiate a 'Divine Exclusivity' deal with Varek of the Guild, but the attempt failed poorly, resulting in a 50gp penalty and increased Guild pressure.",
+      "Dammon declined to mediate with the Guild, citing his own pressures and challenging Haldan to stand on his own.",
+      "Haldan paid the 50gp Guild 'consultation fee' immediately to protect his siblings and show Master Horgun that the shop's security is handled, though Horgun remains wary.",
+      "Haldan successfully used his technical expertise in metallurgy to secure a preliminary harbor crane contract from Master Horgun, overcoming the merchant's fears of Guild interference.",
+      "Haldan successfully proposed a strategic partnership to his rival, Thrum Bone-Breaker, leveraging Thrum's foundry scale and Haldan's divine tempering to secure the harbor contract.",
+      "Haldan entered a strategic partnership with Thrum Bone-Breaker, using his divine tempering to finish Thrum's bulk castings for the harbor contract while Thrum provides Guild protection.",
+      "Haldan successfully managed a grueling multi-forge work cycle following a long rest, stabilizing the shop's output but failing to win Thrum's professional respect through divine technique.",
+      "Haldan stabilized his partnership with Thrum through a period of diligent, humble labor, earning a harbor crane contract milestone and reaching Level 2.",
+      "Correction: Despite his divine gifts, Haldan's first attempts at high-volume industrial casting under Thrum resulted in brittle structural pins and a failure to meet 'Heavy Hammer' efficiency standards."
+    ],
+    "attribute_system": "D&D",
+    "major_event_pressure_budget": {
+      "new_major_event": false,
+      "special_circumstances": false,
+      "window": "24h",
+      "major_events_this_window": 0,
+      "rationale": "The narrative is currently focusing on establishing Haldan's professional reputation and local rivalries; major world-shaking events are suppressed to allow this arc to breathe."
+    },
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "level_up_in_progress": true,
+    "level_up_pending": true,
+    "campaign_tier": "mortal",
+    "character_creation_in_progress": false,
+    "level_up_complete": false,
+    "level_up_stage": "review",
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false,
+    "universe_control": 0
+  },
+  "social_hp_challenge": {
+    "social_hp": 3,
+    "roll_dc": 18,
+    "cooldown_remaining": 0,
+    "successes": 0,
+    "roll_result": 15,
+    "request_severity": "information",
+    "npc_tier": "merchant",
+    "successes_needed": 5,
+    "social_hp_damage": 0,
+    "status": "RESISTING",
+    "resistance_shown": "Dismissed divine tempering as 'jeweler's fluff' unnecessary for foundry work.",
+    "social_hp_max": 3,
+    "objective": "Turn rivalry into a permanent, respected partnership",
+    "skill_used": "Insight",
+    "npc_name": "Thrum Bone-Breaker"
+  },
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2026-06-16 04:03:04.166000+00:00",
+  "turn_number": 14,
+  "player_turn": 14,
+  "last_living_world_turn": 12,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 9,
+    "minute": 0,
+    "time_of_day": "morning",
+    "day": 4,
+    "year": 1493,
+    "month": "Hammer"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "Midday at the Foundry - Resuming Operations",
+    "thinking": "The level-up transition is complete. Haldan is now Level 2, with increased durability and access to Artisan's Blessing. The harbor contract is stable, but the relationship with Thrum needs careful handling to maintain the 'Apprentice' facade while demonstrating value. Midday is approaching, and the next batch of castings is ready for tempering.",
+    "choices": [
+      {
+        "freeze_time": true,
+        "server_synth_reason": "modal_finish_repair_level_up",
+        "risk_level": "safe",
+        "description": "Apply or commit the recommended/selected level-up options, close the modal, and return to normal gameplay.",
+        "id": "finish_level_up_return_to_game",
+        "server_generated": true,
+        "text": "Apply Recommended Options and Return to Game"
+      }
+    ]
+  },
+  "rewards_box": {
+    "current_xp": 305,
+    "level_up_available": true,
+    "progress_percent": 100,
+    "resolved_target_level": 2,
+    "current_level": 1,
+    "xp_total": 305,
+    "xp_to_next_level": 0,
+    "source": "model",
+    "new_level": 2,
+    "next_level_xp": 300
+  },
+  "rewards_pending": {
+    "previous_xp": 265,
+    "level_up_available": true,
+    "gold": 0,
+    "source_id": "level_up_1_to_2",
+    "xp_gained": 40,
+    "source": "level_up",
+    "items": [],
+    "processed": false,
+    "new_level": 2
+  },
+  "world_events": {
+    "background_events": [
+      {
+        "discovery_condition": "Direct visual witness",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Increased professional jealousy/rivalry",
+        "actor": "Thrum Bone-Breaker",
+        "action": "Observed the Iron-Wrought Forge's first successful customer from across the street",
+        "player_impact": "Potential for sabotage or competitive pricing in the future",
+        "location": "Lower City Street",
+        "id": "thrum_observing_rival",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Silfy reported the rumors",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Nine-Fingers Keene is aware of the Iron-Wrought Forge's potential involvement in the crane project",
+        "actor": "The Guild",
+        "action": "Began monitoring new supply contracts for the harbor reconstruction",
+        "player_impact": "Potential for Guild taxation or interference in the contract",
+        "id": "guild_monitoring_harbor",
+        "turn_generated": 6,
+        "delta_action": "add",
+        "location": "Lower City / Harbor",
+        "event_type": "long_term",
+        "scene_generated": 16
+      },
+      {
+        "discovery_condition": "Master Horgun sent a brief note of acknowledgement",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Initial satisfaction with the partnership's output",
+        "location": "Gray Harbor",
+        "action": "Observed the first shipment of consortium steel arriving at the harbor",
+        "player_impact": "Contract remains stable; first payment milestone met",
+        "actor": "Merchant's League",
+        "id": "harbor_crane_progress",
+        "event_type": "immediate"
+      },
+      {
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Guild is temporarily backing off the Iron-Wrought shop to avoid a feud with the Heavy Hammer",
+        "actor": "Varek",
+        "action": "Reported back to Nine-Fingers about Thrum's intervention",
+        "player_impact": "Reduced immediate harassment, but Guild is watching for a moment of weakness",
+        "location": "Lower City",
+        "id": "guild_frustration",
+        "event_type": "long_term"
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {},
+  "rumors": [
+    {
+      "content": "The Merchant's League is considering a 'Reconstruction Levy' on all smithies in the Lower City.",
+      "source_type": "merchant",
+      "related_event": "economic_pressure",
+      "accuracy": "true"
+    },
+    {
+      "content": "Nine-Fingers Keene is personally reviewing all reconstruction manifests at the Gray Harbor.",
+      "source_type": "urchin",
+      "related_event": "guild_monitoring_harbor",
+      "accuracy": "true"
+    },
+    {
+      "content": "They say the Iron-Wrought lad has sold his soul to a half-orc just to keep the lights on.",
+      "source_type": "traveler",
+      "related_event": "consortium_formation",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The blue steel from the new harbor cranes is said to be blessed by Gond himself.",
+      "source_type": "merchant",
+      "related_event": "harbor_crane_progress",
+      "accuracy": "partial"
+    }
+  ],
+  "schema_migration_version": 1,
+  "level_up_session": {
+    "status": "available",
+    "last_error": null,
+    "current_level": 1,
+    "source": "model",
+    "selections": {},
+    "completed_at_story_id": null,
+    "entered_at_story_id": null,
+    "source_story_id": "unknown",
+    "target_level": 2
+  },
+  "schema_migrated_at": "2026-06-15T21:00:36.111625+00:00",
+  "session_id": "legacy-migrated-d9440ea8b6ccbfca",
+  "faction_updates": {
+    "Merchant's League": {
+      "progress": "Seeking reliable structural steel suppliers",
+      "player_standing_change": "Increased interest in Haldan Iron-Wrought",
+      "current_objective": "Rebuild harbor infrastructure"
+    }
+  }
+}

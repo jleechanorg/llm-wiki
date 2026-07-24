@@ -1,0 +1,50 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "gold": null,
+    "experience": {
+      "current": 0,
+      "needed_for_next_level": 300,
+      "to_next_level": 300
+    },
+    "gold_per_day": null,
+    "followers": null,
+    "experience_to_next_level": null
+  },
+  "world_data": {
+    "current_location": "Aizen's Cosmic Throne"
+  },
+  "npc_data": {},
+  "item_registry": {},
+  "custom_campaign_state": {
+    "completed_missions": [],
+    "active_missions": [],
+    "arc_milestones": {},
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "active_constraints": [],
+    "attribute_system": "D&D",
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2025-06-23 07:40:45.408000+00:00",
+  "turn_number": 0,
+  "player_turn": 0,
+  "last_living_world_turn": 0,
+  "last_living_world_time": null,
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "migration_status": "MIGRATED"
+}

@@ -15,5 +15,5 @@ A game setting that switches the LLM provider to Grok on OpenRouter for more cre
 
 ## Related
 - [spicy-mode-toggle-e2e-tests](../sources/spicy-mode-toggle-e2e-tests.md) — E2E test coverage
-- [grok](grok.md) — model activated in spicy mode
-- [openrouter](openrouter.md) — provider that serves Grok
+- [grok](Grok.md) — model activated in spicy mode
+- [openrouter](OpenRouter.md) — provider that serves Grok

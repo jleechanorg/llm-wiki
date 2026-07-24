@@ -1,0 +1,138 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "experience": {
+      "current": 1811320,
+      "needed_for_next_level": 1811620,
+      "to_next_level": 43680
+    },
+    "followers": 25,
+    "xp_current": 1811320,
+    "fatigue_level": 1,
+    "gold_per_day": null,
+    "ep_current": 110,
+    "inventory": {
+      "tailed_beasts_collected": "__DELETE__"
+    },
+    "abilities": {
+      "planetary_seed_cosmic_synchronization": true,
+      "perfect_chronal_synchronization": true,
+      "temporal_zone_control": true,
+      "multiversal_singularity_established": true,
+      "otsutsuki_primordial_chaos_manipulation": "subsumed_as_order_engine",
+      "otsutsuki_lineage_blueprint_mastery": true,
+      "truth_seeking_orbs": "infinite_conceptual",
+      "ten_tails_jinchuriki": true,
+      "otsutsuki_planetary_seed_cultivation": true,
+      "residual_informational_energy_access": true,
+      "extra_cosmic_observer_subsumed": true,
+      "ultimate_order_goal": "transcended_existential_reality",
+      "cosmic_timelines_understanding": true,
+      "emergent_system_guidance": true,
+      "multiversal_timeline_harmonization": true,
+      "otsutsuki_all_planetary_seeds_synchronized": true,
+      "pocket_universe_creation": true,
+      "cosmic_feedback_loop_established": true,
+      "sage_of_six_paths_mode": true,
+      "ultimate_efficiency_of_controlled_chaos_understood": true,
+      "consciousness_manipulation": true,
+      "chronal_manipulation_galactic_scale": true,
+      "primordial_code_mastery": true,
+      "otsutsuki_prime_matriarch_essence_subsumed": true
+    },
+    "experience_to_next_level": null,
+    "resources": {
+      "gold": 4095
+    }
+  },
+  "world_data": {
+    "campaign_status": "post_conclusion_exploration",
+    "timestamp": {
+      "hour": 15,
+      "day": 26,
+      "second": 0,
+      "year": 21,
+      "month": "May",
+      "minute": 45
+    },
+    "unforeseen_complication_active": "__DELETE__",
+    "current_location": "Hidden Cave Base, Research Chamber, Morning",
+    "global_compliance_status": "absolute_limited_free_will"
+  },
+  "npc_data": {
+    "sasuke": {
+      "intelligence": 30,
+      "wisdom": 25,
+      "hp_max": 293,
+      "fatigue_level": 0,
+      "ep_current": 150,
+      "hp_current": 293,
+      "abilities": {
+        "loyalty_conceptual_itachi": true,
+        "ep_cost_reduction_all_jutsu": 7,
+        "truth_seeking_orbs_sasuke": true,
+        "spell_save_dc_bonus_all_jutsu": 5,
+        "primordial_chakra_access_sasuke": true,
+        "temporal_manipulation_localized": true,
+        "cosmic_sensory_amplified_sasuke": true,
+        "sage_of_six_paths_mode_sasuke": true
+      },
+      "coordination": 26,
+      "health": 25,
+      "physique": 26
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "campaign_status": "post_conclusion_exploration",
+    "completed_missions": [],
+    "last_story_mode_sequence_id": 1069,
+    "active_missions": [],
+    "core_memories": [
+      "Itachi achieves Perfect Cosmic Timelines mastery (Critical Success), gaining galactic-scale chronal manipulation and synchronizing Planetary Seed cultivation, momentarily confusing the Prime Matriarch.",
+      "Itachi confronts and subsumes Extra-Cosmic Observer (Critical Success), becoming an absolute multiversal singularity and the ultimate principle of Order. CAMPAIGN CONCLUDED.",
+      "Itachi harmonizes Cosmic Timelines (Critical Success), gaining access to residual informational energy from nullified timelines and achieving Perfect Chronal Synchronization.",
+      "Itachi explicitly reveals to Sasuke his direct role in the Uchiha Clan Massacre, framing it as a necessary act for his absolute Order.",
+      "Itachi (overriding his own logic) reintroduces limited free will into the multiverse, incurring 1 level of Fatigue. The Infinite Tsukuyomi adapts to allow controlled variance within absolute laws.",
+      "Itachi contemplates elevating Sasuke to Six Paths Sage level, concluding it is feasible and a logical optimization for his absolute Order.",
+      "Itachi experiments with existential reality (Critical Success), gaining mastery over the 'primordial code,' instant pocket universe creation, and consciousness manipulation.",
+      "Itachi elevates Sasuke to Six Paths Sage level (Critical Success), granting him ultimate power, localized temporal manipulation, and conceptual loyalty, creating a second absolute pillar for the Order.",
+      "Itachi introduces controlled challenges (Critical Success), gaining insight into emergent system guidance, establishing a cosmic feedback loop, and understanding the ultimate efficiency of controlled chaos."
+    ],
+    "arc_milestones": {},
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "active_constraints": [],
+    "attribute_system": "D&D",
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2025-06-22 07:52:50.786000+00:00",
+  "turn_number": 0,
+  "player_turn": 0,
+  "last_living_world_turn": 0,
+  "last_living_world_time": null,
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "migration_status": "MIGRATED",
+  "world_time": {
+    "hour": 9,
+    "year": 2024,
+    "second": 0,
+    "day": 1,
+    "month": "January",
+    "minute": 0
+  }
+}

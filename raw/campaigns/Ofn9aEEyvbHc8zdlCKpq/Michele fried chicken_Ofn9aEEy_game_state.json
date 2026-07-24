@@ -1,0 +1,1751 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        },
+        {
+          "description": "Used for marketing and logistics.",
+          "type": "tool",
+          "name": "Smartphone"
+        },
+        {
+          "description": "A contract for a small storefront in Silver Lake.",
+          "type": "quest_item",
+          "name": "Lease Agreement"
+        }
+      ],
+      "armor": {
+        "equipped": true,
+        "type": "armor",
+        "armor_class": 11,
+        "name": "Professional Apron"
+      },
+      "main_hand": {
+        "damage": "1d4",
+        "equipped": true,
+        "damage_type": "piercing",
+        "type": "weapon",
+        "properties": [
+          "finesse",
+          "light"
+        ],
+        "name": "Chef's Knife Set"
+      }
+    },
+    "proficiency_bonus": 2,
+    "class_name": "Bard",
+    "background": "Guild Artisan",
+    "attributes": {
+      "strength": 9,
+      "dexterity": 13,
+      "intelligence": 14,
+      "wisdom": 12,
+      "charisma": 18,
+      "constitution": 14
+    },
+    "display_name": "Michele",
+    "race": "Human",
+    "spells_known": [
+      {
+        "level": 2,
+        "description": "Suggest a course of activity (limited to a sentence or two) and magically influence a creature.",
+        "name": "Suggestion"
+      },
+      {
+        "level": 2,
+        "description": "Touch a creature and grant it a magical enhancement (e.g., Advantage on CHA checks).",
+        "name": "Enhance Ability"
+      }
+    ],
+    "name": "Michele",
+    "experience": {
+      "current": 3600,
+      "to_next_level": 2900,
+      "needed_for_next_level": 6500
+    },
+    "resources": {
+      "hit_dice": {
+        "used": 0,
+        "total": 1
+      },
+      "gold": 500,
+      "spell_slots": {
+        "level_2": {
+          "used": 0,
+          "max": 3
+        },
+        "level_1": {
+          "used": 0,
+          "max": 4
+        }
+      },
+      "class_features": {
+        "bardic_inspiration": {
+          "used": 0,
+          "max": 3
+        }
+      }
+    },
+    "base_attributes": {
+      "strength": 9,
+      "dexterity": 13,
+      "intelligence": 14,
+      "wisdom": 12,
+      "charisma": 18,
+      "constitution": 14
+    },
+    "level": 4,
+    "knowledge": [
+      "Grover's Poultry (Industrial District)",
+      "Green Leaf Collective (Echo Park)"
+    ],
+    "health": {
+      "hp_max": 17,
+      "temp_hp": 0,
+      "hp": 17,
+      "conditions": [
+        "Exhausted (Stage 1)"
+      ]
+    },
+    "skill_proficiencies": {
+      "expertise": [
+        "Persuasion",
+        "Cook's Utensils"
+      ],
+      "proficiencies": [
+        "Persuasion",
+        "Insight",
+        "Performance",
+        "History",
+        "Deception",
+        "Intimidation",
+        "Investigate"
+      ]
+    },
+    "recent_decisions": [
+      "Hosted the Community Health & Flavor Summit.",
+      "Successfully persuaded Councilwoman Zhang."
+    ]
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 0,
+      "hour": 9,
+      "time_of_day": "morning",
+      "year": 2024,
+      "day": 21,
+      "month": "June"
+    },
+    "location": "Los Angeles, CA"
+  },
+  "npc_data": {
+    "Sarah": {
+      "display_name": "Sarah",
+      "entity_id": "npc_sarah_002",
+      "role": "Front of House",
+      "tier": "commoner",
+      "level": 1
+    },
+    "Taco": {
+      "display_name": "Taco",
+      "entity_id": "npc_taco_003",
+      "role": "Prep Cook",
+      "tier": "merchant",
+      "level": 2
+    },
+    "Chef Jin": {
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_jin_001",
+      "entity_type": "npc",
+      "tier": "noble",
+      "display_name": "Chef Jin",
+      "level": 4,
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 1,
+          "history": [
+            "Hired with a $100 bonus and equity promise"
+          ]
+        }
+      },
+      "role": "KFC Specialist"
+    },
+    "Marcus": {
+      "entity_id": "npc_marcus_001",
+      "display_name": "Marcus",
+      "tier": "merchant",
+      "level": 3,
+      "age": 28,
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "Closed the shop while debt was still owed",
+            "Left him to handle the physical liquidation alone"
+          ]
+        }
+      },
+      "gender": "Male",
+      "role": "Line Lead"
+    },
+    "Kim": {
+      "role": "Visual Lead/Server",
+      "display_name": "Kim",
+      "entity_id": "npc_kim_004",
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "trust_level": -2,
+          "history": [
+            "Abandoned the restaurant during a crisis",
+            "Sacrificed her reputation to Chloe Luxe"
+          ]
+        }
+      },
+      "tier": "commoner",
+      "level": 1
+    },
+    "Rodrigo": {
+      "entity_id": "npc_rodrigo_001",
+      "display_name": "Rodrigo",
+      "tier": "merchant",
+      "level": 3,
+      "age": 42,
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 1,
+          "history": [
+            "Met outside the new restaurant."
+          ]
+        }
+      },
+      "gender": "male",
+      "role": "Owner of Artisanal Bean"
+    },
+    "Vincenzo": {
+      "attitude_to_party": "friendly",
+      "tier": "merchant",
+      "entity_id": "npc_vincenzo_001",
+      "entity_type": "npc",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 1,
+          "history": [
+            "Provided 'Red-Pen' Miller's audit checklist"
+          ]
+        }
+      },
+      "display_name": "Vincenzo",
+      "role": "Health Board Liaison"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "world_data": {
+      "world_time": {
+        "microsecond": 2
+      }
+    },
+    "active_constraints": [],
+    "god_mode": {
+      "setting": "Make a story about opening fried chicken restaurant in LA",
+      "character": {
+        "name": "Michele"
+      }
+    },
+    "arc_milestones": {
+      "primary_arc": {
+        "progress": 100,
+        "notes": "Negotiated peace with Shift; recovered stolen stock; established community legend status.",
+        "updated_at": "2024-06-19T15:00:00Z",
+        "status": "completed",
+        "phase": "Accord Signed"
+      }
+    },
+    "next_companion_arc_turn": 14,
+    "active_missions": [
+      {
+        "title": "Justice for the Dream",
+        "status": "in_progress",
+        "mission_id": "julian_justice",
+        "objective": "Ensure Julian is formally arrested and the brand is vindicated."
+      }
+    ],
+    "campaign_tier": "mortal",
+    "success_streak": 0,
+    "reputation": {
+      "public": {
+        "score": 60,
+        "notoriety_level": "respected",
+        "known_deeds": [
+          "Vindicated in Julian Sabotage Scandal",
+          "Signed Silver Lake Accord",
+          "Featured in Silver Lake Independent",
+          "Launched Neighborhood Delivery Network",
+          "Hosted Community Health & Flavor Summit"
+        ]
+      }
+    },
+    "character_creation_completed": true,
+    "companion_arcs": {
+      "Kim": {
+        "phase": "development",
+        "arc_type": "dark_secret",
+        "progress": 45,
+        "history": [
+          {
+            "event": "Publicly shared her San Francisco truth, gaining community respect.",
+            "turn": 31
+          }
+        ],
+        "callbacks": [
+          {
+            "trigger": "Michele asks Kim about her 'consulting' background",
+            "effect": "Kim reveals she was 'canceled' in a previous high-tier PR role.",
+            "triggered": false
+          }
+        ]
+      }
+    },
+    "last_location": "Silver Lake Storefront",
+    "scene_event": {
+      "reward_hint": "Permanent +15% profit margin; City Hall endorsement.",
+      "narrative_integration": "Sarah's call interrupts the handshake with Mr. Park.",
+      "quest_type": "protection",
+      "actor": "Sarah",
+      "description": "Sarah calls you frantically to report the arrival of a city sedan and the Grover shipment.",
+      "type": "messenger",
+      "quest_objective": "Complete 5 days of school service with a DC 14 Kitchen Management check each day.",
+      "estimated_turns": 5,
+      "refusal_consequence": "Lose the chance for the 'Community Business' tax exemption.",
+      "player_response_required": true,
+      "quest_title": "The Soya Trial",
+      "acceptance_required": true,
+      "urgency": "immediate",
+      "quest_source": "npc",
+      "quest_description": "Serve the 'Healthy Heart' menu to Silver Lake Elementary for 5 days."
+    },
+    "divine_potential": 0,
+    "core_memories": [
+      {
+        "append": "Revealed undocumented status to the Silver Lake Shift committee during the public complaint meeting."
+      }
+    ],
+    "rumors": [
+      {
+        "content": "The 'Crispy Dreams' owner was scared off by the mob or the city.",
+        "source_type": "commoner",
+        "accuracy": "partial"
+      },
+      {
+        "content": "The 'Crispy Dreams' owner was scared off by a high-stakes theft or the IRS.",
+        "source_type": "commoner",
+        "accuracy": "partial"
+      },
+      {
+        "content": "Julian didn't just steal the chicken; he's been laundering money through the pop-up.",
+        "source_type": "merchant",
+        "accuracy": "false"
+      },
+      {
+        "content": "A Westside group is looking to turn the fried chicken spot into a high-end kava bar.",
+        "source_type": "traveler",
+        "accuracy": "partial"
+      },
+      {
+        "content": "Julian was seen crying in his Tesla after a phone call from Rampart Division.",
+        "source_type": "merchant",
+        "accuracy": "partial"
+      },
+      {
+        "content": "Kim's San Francisco 'scandal' involved a poisoned food critic.",
+        "source_type": "traveler",
+        "accuracy": "false"
+      },
+      {
+        "content": "Julian's 'Golden Bird' was just a front for a soul-less conglomerate.",
+        "source_type": "commoner",
+        "accuracy": "partial"
+      },
+      {
+        "content": "Michele has secret 'friends' at Rampart Division.",
+        "source_type": "merchant",
+        "accuracy": "false"
+      },
+      {
+        "content": "Julian was tipped off by someone at the warehouse before Marcus arrived.",
+        "source_type": "merchant",
+        "accuracy": "true"
+      },
+      {
+        "content": "The 'Double Crunch' crew is actually a group of vigilantes disguised as cooks.",
+        "source_type": "commoner",
+        "accuracy": "false"
+      },
+      {
+        "content": "Julian was seen in handcuffs crying about his organic cotton upholstery.",
+        "source_type": "traveler",
+        "accuracy": "true"
+      },
+      {
+        "content": "The Silver Lake Shift is planning to make Michele an honorary board member.",
+        "source_type": "commoner",
+        "accuracy": "partial"
+      },
+      {
+        "content": "Julian's 'Golden Bird' investors are liquidating the gold-plated tables to pay his bail.",
+        "source_type": "merchant",
+        "accuracy": "true"
+      },
+      {
+        "content": "The 'Double Crunch' recipe is actually a family secret stolen from a Korean temple.",
+        "source_type": "commoner",
+        "accuracy": "false"
+      }
+    ],
+    "attribute_system": "D&D",
+    "social_hp_challenge": {
+      "social_hp": 0,
+      "roll_dc": 14,
+      "cooldown_remaining": 1,
+      "social_hp_damage": 2,
+      "status": "SURRENDERED",
+      "resistance_shown": "None. The board has signed the agreement.",
+      "roll_result": 22,
+      "successes": 5,
+      "request_severity": "submission",
+      "social_hp_max": 4,
+      "npc_tier": "merchant",
+      "objective": "Secure Equity Partnership/Funding",
+      "skill_used": "Persuasion",
+      "npc_name": "Mr. Park"
+    },
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "level_up_pending": false,
+    "completed_missions": [],
+    "character_creation_in_progress": false,
+    "multiverse_upgrade_available": false,
+    "character_creation_stage": "complete",
+    "divine_upgrade_available": false,
+    "universe_control": 0,
+    "world_events": {
+      "background_events": [
+        {
+          "discovery_condition": "Police radio or phone call",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Julian is officially implicated in the theft.",
+          "location": "Warehouse District",
+          "action": "Finds the stolen chicken in Julian's warehouse",
+          "player_impact": "Justice is served, but too late to save the service.",
+          "actor": "Officer Henderson (Lvl 4)",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Narrative observation",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "She feels a rare moment of regret for the pressure applied.",
+          "location": "Silver Lake Storefront",
+          "action": "Sees the 'Closed' sign being flipped",
+          "player_impact": "The Shift's hostility turns to somber silence.",
+          "actor": "Mrs. Gable (Lvl 12)",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Checking social media",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Claims she 'exposed' the fraud, gaining 5k followers.",
+          "location": "Digital",
+          "action": "Posts a 'Victory' reel about the closure",
+          "player_impact": "Kim's reputation is effectively destroyed.",
+          "actor": "Chloe Luxe (Lvl 8)",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "News report in 5 turns",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Becomes a fugitive to avoid the Rampart Division warrant.",
+          "location": "Central LA",
+          "action": "Flees the 'Golden Bird' pop-up",
+          "player_impact": "The main antagonist is removed, but at the cost of the campaign's setting.",
+          "actor": "Chef Julian (Lvl 10)",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Talking to Mr. Park",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Considering a counter-offer to keep the shop in the community",
+          "location": "Park's Grocery",
+          "action": "Reviews the 'Crispy Dreams' equipment list",
+          "player_impact": "Potential for a specialized exit deal",
+          "actor": "Mr. Park",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Reading the next newsletter",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "The Shift's stance on Michele might turn to sympathy",
+          "location": "Silver Lake",
+          "action": "Calls for a 'Community Reflection' meeting after the theft news breaks",
+          "player_impact": "Potential for brand rehabilitation",
+          "actor": "Mrs. Gable",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Article published tomorrow",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Chloe turns on Julian to save her own brand",
+          "location": "Digital",
+          "action": "Reaches out to a rival gossip site to sell 'The Julian Takedown'",
+          "player_impact": "External pressure on Julian increases",
+          "actor": "Chloe Luxe",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Seeing new 'Coming Soon' signs in Chapter 2",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "New trendy businesses begin circling the carcass of Crispy Dreams",
+          "location": "Silver Lake Storefront",
+          "action": "Lease is flagged for 'Immediate Availability'",
+          "player_impact": "Marks the end of the current campaign setting",
+          "actor": "The Storefront Space",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Henderson's confirmation",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Arrest warrant for Julian is officially live",
+          "location": "Rampart Division",
+          "discovered_turn": 25,
+          "player_impact": "Legal victory achieved",
+          "action": "Submits the warrant request to the magistrate",
+          "actor": "Officer Henderson",
+          "event_type": "immediate"
+        },
+        {
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Julian's rival shop is effectively dead",
+          "actor": "Julian's Investor",
+          "action": "Formally pulls funding for 'The Golden Bird' after the police raid",
+          "player_impact": "Main competitor removed from market",
+          "location": "Central LA",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Official letter in 5 turns",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Exemption criteria are finalized",
+          "location": "City Hall",
+          "action": "Votes on the 'Community Business' definition amendment",
+          "player_impact": "Permanent reduction in overhead",
+          "actor": "LA City Council",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Officer Henderson calls with a 'missing vehicle' update",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Physical evidence is being scrubbed fast",
+          "location": "Warehouse District",
+          "action": "Moves the dented white van to a scrapyard in Sun Valley",
+          "player_impact": "The window for the 'Vindication' narrative is closing.",
+          "actor": "Julian's 'Fixer'",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Smartphone notification",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Public consensus starts leaning toward 'failure'",
+          "location": "Digital",
+          "action": "Posts a 'Is Crispy Dreams Done?' poll with 50,000 reach",
+          "player_impact": "Brand value drops; harder DC for sale or partnership.",
+          "actor": "Sunny (Food Blogger)",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Meeting with Mrs. Gable",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "She is beginning to doubt Julian's 'vibe'",
+          "location": "Silver Lake",
+          "action": "Secretly contacts Officer Henderson to verify the theft rumors",
+          "player_impact": "Potential for the Shift to switch sides.",
+          "actor": "Mrs. Gable",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Landlord email tomorrow",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Landlord pressure on Michele will increase",
+          "location": "Beverly Hills",
+          "action": "Calls Michele's landlord to inquire about 'upcoming vacancies'",
+          "player_impact": "Lease security is at risk.",
+          "actor": "Bistro-Quick (Healthy Chain)",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Police update or player investigation",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Physical evidence is now reachable but exposed",
+          "location": "Echo Park",
+          "action": "Abandons the white van in a parking lot in Echo Park",
+          "player_impact": "Opportunity to recover stock",
+          "actor": "Julian's Fixer",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Smartphone notifications",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Viral tide turns fully in Michele's favor",
+          "location": "Digital",
+          "action": "Posts a public apology to Kim and Michele",
+          "player_impact": "Reputation boost",
+          "actor": "Chloe Luxe",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Grover calls to update Michele",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Supply chain security improves",
+          "location": "Industrial District",
+          "action": "Investigates internal leaks that allowed Julian to track deliveries",
+          "player_impact": "Reduced risk of future theft",
+          "actor": "Grover's Poultry",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Police arrive at empty house",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Julian prepares to flee before the warrant is served",
+          "location": "Beverly Hills",
+          "action": "Calls his attorney while packing a small bag",
+          "player_impact": "Primary antagonist becomes a fugitive",
+          "actor": "Chef Julian",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Text from Henderson",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Julian is in custody; main antagonist neutralized for now.",
+          "location": "Van Nuys",
+          "action": "Arrests Chef Julian at Van Nuys Airport",
+          "player_impact": "Direct victory; brand vindicated.",
+          "actor": "Officer Henderson",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Checking Instagram",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Chloe pivots to supporting 'local underdogs' to save her followers.",
+          "location": "Digital",
+          "action": "Posts a 10-minute 'Accountability' apology video",
+          "player_impact": "Social pressure on Kim decreases.",
+          "actor": "Chloe Luxe",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Reporter visits the shop",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Opportunity for high-tier positive PR.",
+          "location": "Silver Lake",
+          "action": "Assigns a reporter to cover the 'Crispy Dreams' comeback story",
+          "player_impact": "Potential for massive revenue boost.",
+          "actor": "Silver Lake Independent",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Reading the news tomorrow",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Legal battle becomes a public PR war",
+          "location": "Central Courthouse",
+          "action": "Files a motion to suppress the 'Great Chicken Recovery' video",
+          "player_impact": "Potential for further legal hurdles",
+          "actor": "Julian's Legal Team",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Reading industry news.",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Julian's personal assets are frozen.",
+          "location": "Central LA",
+          "action": "File a multi-million dollar breach of contract lawsuit against Julian.",
+          "player_impact": "Main antagonist is financially crippled.",
+          "actor": "Julian's Investors",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Talking to local realtors.",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Moves to a different neighborhood to avoid the 'Double Crunch' hype.",
+          "location": "Echo Park",
+          "action": "Abandons Silver Lake expansion plans.",
+          "player_impact": "Reduced competition in the local district.",
+          "actor": "The Spicy Wing (Competitor)",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Seeing the sign next door.",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Local cross-promotion buzz increases.",
+          "location": "Silver Lake",
+          "action": "Launches a 'Soy-Garlic Spiced Latte' as a tribute.",
+          "player_impact": "Increased synergistic foot traffic.",
+          "actor": "Rodrigo (Artisanal Bean)",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Police update or news brief",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "LAPD alerted; net is closing on the fugitive's support system.",
+          "location": "Barstow, CA",
+          "action": "Spotted at a Greyhound station in Barstow",
+          "player_impact": "Removes Julian's ability to interfere directly for several turns.",
+          "actor": "Julian's Fixer",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Industry rumor or Sunny's tip",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "The stakes for kitchen consistency have just become 'Deadly.'",
+          "location": "Silver Lake",
+          "action": "Confirms an anonymous visit to Silver Lake for next week",
+          "player_impact": "High pressure for 100% quality in next 3 turns.",
+          "actor": "LA Times Food Critic",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Visible in scene",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Increased foot traffic from the Korean-American community.",
+          "location": "Silver Lake/K-Town",
+          "action": "Starts a 'K-Town to Silver Lake' community shuttle",
+          "player_impact": "Gold revenue +5% per turn.",
+          "actor": "Mr. Park",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Formal inquiry letter",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "A potential $50,000 investment opportunity in Chapter 2.",
+          "location": "Downtown LA",
+          "action": "Flags 'Crispy Dreams' for their 'Ethical Fast Casual' portfolio",
+          "player_impact": "Massive scaling potential later in the game.",
+          "actor": "Venture Capital Group",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Elias mentions it during the meeting",
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "Massive guaranteed revenue for next Thursday",
+          "location": "Silver Lake",
+          "action": "Begins organizing the 'Community Mixer' at Crispy Dreams",
+          "player_impact": "High traffic spike",
+          "actor": "The Silver Lake Shift",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Legal notice arrives",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Legal pressure to remove the video from social media.",
+          "location": "Central Courthouse",
+          "action": "Files a formal discovery request for 'all raw security footage' used in the viral posts.",
+          "player_impact": "Potential for brand suppression",
+          "actor": "Julian's Legal Team",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Paper is published",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Positive press is locked for the next cycle.",
+          "location": "Silver Lake Independent Office",
+          "action": "Finalizes the 'Chicken War' draft with a 'Vindication' lead.",
+          "player_impact": "Reputation boost",
+          "actor": "Maya Thorne",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Grover calls Michele",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Supply chain security hole is plugged.",
+          "location": "Industrial District",
+          "action": "Identifies a warehouse clerk who was paid by Julian to leak shipment schedules.",
+          "player_impact": "Reduced risk of future theft",
+          "actor": "Grover's Poultry",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Mr. Park delivers the news",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "New capital source becomes available in Chapter 2.",
+          "location": "Koreatown",
+          "action": "Establishes a 'Local Roots' investment fund for second-generation businesses.",
+          "player_impact": "Financial scaling opportunity",
+          "actor": "K-Town Merchants Alliance",
+          "event_type": "long_term"
+        }
+      ]
+    }
+  },
+  "social_hp_challenge": {
+    "social_hp": 2,
+    "roll_dc": 14,
+    "cooldown_remaining": 0,
+    "successes": 3,
+    "roll_result": 20,
+    "request_severity": "favor",
+    "npc_tier": "lord",
+    "successes_needed": 5,
+    "social_hp_damage": 0,
+    "status": "YIELDING",
+    "resistance_shown": "Representative Elias feels the youth program and soya ingredients are PR 'shields' for a corporate agenda.",
+    "social_hp_max": 8,
+    "objective": "Mitigate Community Hostility",
+    "skill_used": "Persuasion",
+    "npc_name": "The Silver Lake Shift"
+  },
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2026-04-06 04:34:27.301000+00:00",
+  "turn_number": 36,
+  "player_turn": 36,
+  "last_living_world_turn": 36,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 9,
+    "minute": 0,
+    "time_of_day": "morning",
+    "day": 21,
+    "year": 2024,
+    "month": "June"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "Failed synergistic presentation for Deputy Mayor",
+    "thinking": "The coordination failed at the most critical moment. The surge in orders proved our local delivery network is still too raw for high-volume pressure. Lawson is looking for stability, not just charisma. I need to pivot from 'Visionary' to 'Manager' immediately to save this visit.",
+    "choices": [
+      {
+        "id": "personal_damage_control",
+        "text": "Personal Damage Control",
+        "risk_level": "medium",
+        "description": "Pull Lawson aside and use your Bardic Insight to explain the 'growing pains' as a sign of overwhelming demand, shifting focus to the revenue potential.",
+        "cons": [
+          "Might seem like more excuses"
+        ],
+        "pros": [
+          "Direct communication",
+          "Addresses his concern directly"
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "jump_into_dispatch",
+        "text": "Jump into Dispatch",
+        "risk_level": "high",
+        "description": "Abandon the tour and personally take over Sarah's station to clear the logjam and demonstrate your hands-on leadership.",
+        "cons": [
+          "Abandons Lawson",
+          "Shows the system depends on you, not a model"
+        ],
+        "pros": [
+          "Solves the immediate problem",
+          "Shows competence"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "empower_sarah",
+        "text": "Empower Sarah",
+        "risk_level": "low",
+        "description": "Give Sarah a Bardic Inspiration and a clear command to 'Sector Lock' the deliveries, allowing her to recover her poise while you keep Lawson's attention on the food.",
+        "cons": [
+          "Sarah might fail again"
+        ],
+        "pros": [
+          "Tests the model",
+          "Keeps Lawson focused on the product"
+        ],
+        "confidence": "high"
+      },
+      {
+        "text": "The Crisis Pivot (Synergistic - Sequential)",
+        "risk_level": "medium",
+        "cons": [
+          "Loses the marketing content opportunity"
+        ],
+        "id": "parallel_emergency_recovery",
+        "pros": [
+          "Uses all assets to stabilize",
+          "Bridges the gap between kitchen and front"
+        ],
+        "description": "Direct Kim to stop filming the 'reel' and help Sarah with bagging, while you transition Lawson to a tasting session with Chef Jin to 'cool' the room.",
+        "confidence": "medium",
+        "analysis": {
+          "combination_type": "compatible",
+          "time_savings": "Stabilizes the shop in 5 minutes instead of 15"
+        }
+      }
+    ]
+  },
+  "scene_event": {
+    "reward_hint": "Permanent Sanctuary status in Silver Lake; Reputation boost.",
+    "narrative_integration": "Kim stands by the pass, her face pale and her eyes bright with fear, asking to talk 'right now.'",
+    "quest_type": "diplomacy",
+    "actor": "Sunny (Food Blogger)",
+    "description": "Sunny arrives at the shop with a professional camera crew, eager to record a 'Live Reaction' to the Deputy Mayor's visit, adding to the crowding in the small space.",
+    "type": "old_acquaintance",
+    "quest_objective": "Reach a compromise that satisfies the board's concerns without crippling profit.",
+    "estimated_turns": 4,
+    "refusal_consequence": "The Shift resumes the boycott and permit protests.",
+    "player_response_required": true,
+    "quest_title": "The Silver Lake Accord",
+    "acceptance_required": true,
+    "urgency": "immediate",
+    "quest_source": "npc",
+    "quest_description": "Negotiate and sign a community pact with The Silver Lake Shift."
+  },
+  "world_events": {
+    "background_events": [
+      {
+        "discovery_condition": "Checking Sunny's feed later.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Public interest in the feud is reaching a fever pitch.",
+        "actor": "Sunny (Food Blogger)",
+        "action": "Drafting an 'Expose' on the Julian vs. Michele rivalry",
+        "player_impact": "Major PR opportunity or risk depending on the next 24 hours.",
+        "location": "Digital",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Talking to local suppliers",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "They are preparing for a price war",
+        "actor": "Cluck & Go (Competitor)",
+        "action": "Orders a bulk shipment of low-grade chicken",
+        "player_impact": "Price pressure on Michele",
+        "location": "Central LA",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Filing for a business license",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "New regulations might affect opening costs",
+        "actor": "Department of Building and Safety",
+        "action": "Updates permit requirements for grease traps",
+        "player_impact": "Unexpected regulatory hurdle",
+        "location": "City Hall",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Reading industry news.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "The tax is gaining traction among health-conscious council members.",
+        "actor": "LA City Council",
+        "action": "Debating the 'Healthy Neighborhoods' fried food tax",
+        "player_impact": "Operating costs for Crispy Dreams will increase by 15% in Chapter 2.",
+        "location": "City Hall",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Talking to local artists or seeing Dizzy's social media.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Potential branding partnership opportunity.",
+        "location": "Silver Lake",
+        "action": "Looking for a high-visibility wall in Silver Lake for their next project.",
+        "player_impact": "Could provide free or low-cost restaurant art.",
+        "actor": "Dizzy (Local Muralist)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Attending the meeting or reading minutes.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Public record now contains early complaints.",
+        "location": "Silver Lake Community Center",
+        "action": "Begins the public comment portion of the meeting, specifically mentioning the 'commercial smell' of the new storefront.",
+        "player_impact": "Harder DC for future permit approvals.",
+        "actor": "The Silver Lake Shift",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Truck arrives",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Operational survival for the lunch rush is possible",
+        "location": "Silver Lake Storefront",
+        "action": "Sends a replacement shipment of 'B-Grade' chicken as a gesture of goodwill",
+        "player_impact": "Michele can open for lunch, but quality will be lower than 'Double Crunch' standards",
+        "actor": "Grover's Poultry",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Reading food news blogs.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Direct high-tier competition in the next 3-6 months.",
+        "location": "Silver Lake",
+        "action": "Rumored to be scoping out Silver Lake for a high-concept fried chicken pop-up.",
+        "player_impact": "Requires Michele to establish her brand quickly before a larger player arrives.",
+        "actor": "Chef Julian (Celebrity Chef)",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Seeing Julian's next post",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Julian prepares a 'Hot Chicken vs KFC' marketing battle",
+        "actor": "Chef Julian",
+        "action": "Sees the KFC pivot on Instagram",
+        "player_impact": "Opening day competition intensity increases",
+        "location": "Digital",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Talking to Rodrigo.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Strict compliance will be mandatory.",
+        "location": "County Office",
+        "action": "Inspector 'Red-Pen' Miller is officially assigned to the Silver Lake route for June.",
+        "player_impact": "High risk of delay during final inspection.",
+        "actor": "LA County Health Dept",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Walking the neighborhood.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Lowered cost for future marketing.",
+        "actor": "Local Print Shop",
+        "action": "Offers a bulk rate for restaurant menus and flyers.",
+        "player_impact": "Savings on gold for marketing.",
+        "location": "Sunset Blvd",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Marcus recognizes the critic.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Potential early high-tier review.",
+        "actor": "LA Times Food Critic",
+        "action": "Dines at Artisanal Bean next door to observe the 'new wave' of Silver Lake shops.",
+        "player_impact": "High stakes for first-week quality.",
+        "location": "Artisanal Bean",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Talking to Marcus",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Potential competitor surveillance or neighborhood watch activity",
+        "actor": "Marcus",
+        "action": "Notices a suspicious car circling the shop while prepping",
+        "location": "Silver Lake Storefront",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Checking shop voicemail",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "New high-margin supply opportunity",
+        "actor": "Hops & Harvest Distributors",
+        "action": "Calls the shop to offer an exclusive 'Silver Lake IPA' partnership",
+        "player_impact": "Gold revenue +10%",
+        "location": "Silver Lake Storefront",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Kim checks the neighborhood blog.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Public perception shifts toward 'cynical marketing.'",
+        "actor": "The Silver Lake Shift",
+        "action": "Publishes a critical blog post about 'The Lunch Stunt' at Crispy Dreams.",
+        "player_impact": "Harder DC for next community interaction (+2).",
+        "location": "Silver Lake (Digital)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Monitoring Julian's likes/activity.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Subtle signaling of competitive dominance.",
+        "actor": "Chef Julian (Lvl 10)",
+        "action": "Likes the 'Silver Lake Shift' post about Michele's status.",
+        "player_impact": "Julian may use Michele's status as a weapon later.",
+        "location": "Digital",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Michele visits the school.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "School lunch program blocked until status is resolved.",
+        "actor": "Local Schools",
+        "action": "Principal of Silver Lake Elementary expresses private concern to Mrs. Gable about 'undocumented' partnerships.",
+        "player_impact": "Mission 'School Lunch Program' becomes high-difficulty.",
+        "location": "Silver Lake Elementary",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "A friend at City Hall warns Michele.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Increased risk of legal interference.",
+        "actor": "Mrs. Gable (Lvl 12)",
+        "action": "Requests a private background check on 'Crispy Dreams' through a city hall contact.",
+        "player_impact": "Type 41 License mission is at critical risk.",
+        "location": "City Hall",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Seeing a billboard or flyer",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Cashes in on the 'The Silver Lake Shift' rhetoric against 'undocumented' businesses.",
+        "location": "Silver Lake",
+        "action": "Launches a 'Citizens Only' discount program",
+        "actor": "Cluck & Go",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Checking email",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "A chance to set the record straight about the 'school lunch stunt.'",
+        "location": "Digital",
+        "action": "Drafts an email requesting a formal interview",
+        "actor": "Sunny (Food Blogger)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Official notification arrives",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "The clock is officially ticking for the final inspection.",
+        "location": "City Hall",
+        "action": "Formally schedules 'Red-Pen' Miller's arrival for next Monday",
+        "actor": "LA County Health Dept",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Industry newsletter",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Future financial pressure on fried chicken businesses looms.",
+        "location": "City Hall",
+        "action": "Sets a hearing date for the 'Healthy Neighborhoods' tax",
+        "actor": "LA City Council",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Marcus tells Michele.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "A potential local hire is available.",
+        "actor": "Leo (High Schooler)",
+        "action": "Stops by the shop to ask Marcus about the hiring flyer.",
+        "location": "Crispy Dreams Storefront",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Newspaper release",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "A public defense of Michele's character is being prepared.",
+        "actor": "Mrs. Gable",
+        "action": "Begins writing an editorial for the Silver Lake Independent",
+        "player_impact": "Social HP challenge for the Shift is at a critical juncture",
+        "location": "Silver Lake",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Vincenzo calls with a warning.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Decides to bring a second inspector for 'training' due to the public interest.",
+        "actor": "Red-Pen Miller",
+        "action": "Reads the 'Silver Lake Shift' blog post while prepping for his Monday route.",
+        "player_impact": "Health Inspection DC increases by +2.",
+        "location": "County Office",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "A parent visits the shop or Sarah hears a rumor.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Cautious interest; two parents decide to visit the shop to check it out.",
+        "location": "Silver Lake Homes",
+        "action": "Discuss the 'Crispy Dreams' job offer on a private WhatsApp group.",
+        "player_impact": "Potential for grassroots support or a confrontation.",
+        "actor": "Local Parents",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Email or flyer",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Legal protection network forming",
+        "location": "Downtown LA",
+        "action": "Begins organizing a 'Know Your Rights' workshop for local Silver Lake business owners",
+        "player_impact": "Potential for a 'Sanctuary' status for the shop in Chapter 2",
+        "actor": "The Dreamer Alliance",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Mr. Park knocks on the door",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Improved ingredient quality for Crispy Dreams",
+        "location": "Silver Lake Storefront",
+        "action": "Offers high-quality Korean ingredients at a discount",
+        "player_impact": "Lower DC for quality-based social checks",
+        "actor": "Mr. Park",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Checking social media stats",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Buzz shifts from 'corporate' to 'culinary destination'",
+        "location": "Digital",
+        "action": "Start a thread on Reddit about the new 'KFC spot' on Sunset",
+        "player_impact": "Potential for higher opening day gold",
+        "actor": "Silver Lake Foodies",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Receiving an inquiry email",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Potential for consistent high-volume traffic in Chapter 2",
+        "location": "Silver Lake",
+        "action": "Adds Silver Lake to their 'Global Flavors' route",
+        "player_impact": "Long-term revenue stability opportunity",
+        "actor": "LA Food Tour Co.",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Witnessed in scene",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Crowd remains orderly; morale +1.",
+        "location": "Crispy Dreams Front Desk",
+        "action": "Successfully manages a dispute between two customers over line-cutting.",
+        "actor": "Sarah (Lvl 1)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Phone notifications",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Initial 2,000 impressions; digital buzz growing.",
+        "location": "Digital",
+        "action": "Posts a photo of the 20-person line with the caption 'The KFC Pivot is REAL.'",
+        "actor": "Sunny (Food Blogger)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Marcus or Sarah noticing the scout",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Competitors are gathering intel for a counter-move.",
+        "location": "Silver Lake Sidewalk",
+        "action": "Observed taking photos of Michele's 'Double Crunch' technique through the window.",
+        "player_impact": "Future menu copycats possible",
+        "actor": "Cluck & Go Scout",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Reading industry news or official mail",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Regulatory pressure will peak in 15 turns.",
+        "location": "City Hall",
+        "action": "Formally sets the hearing date for the 'Healthy Neighborhoods' fried food tax.",
+        "player_impact": "Increased operating costs in Chapter 2",
+        "actor": "LA City Council",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Sarah calls Michele to report the delay.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "The driver agrees to wait 30 minutes for the cash.",
+        "actor": "Sarah (Lvl 1)",
+        "action": "Calls Grover's Poultry",
+        "location": "Crispy Dreams",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Checking the neighborhood app later.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Social media rumors start that Michele is involved in 'underground activities.'",
+        "actor": "Silver Lake Shift Member",
+        "action": "Takes photos of the crime scene",
+        "location": "Alleyway",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Visible in the current scene.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Viral interest peaks at 15k viewers; 'Crispy Dreams' is trending for the wrong reasons.",
+        "actor": "Chloe Luxe (Influencer)",
+        "action": "Livestreams Kim's reaction",
+        "location": "Digital",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Police investigation or private eye.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "The physical evidence of the theft is being scrubbed.",
+        "actor": "Chef Julian (Lvl 10)",
+        "action": "Hides the white van",
+        "location": "Warehouse District",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Seeing the viral video tomorrow or police report.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Evidence is being destroyed, but a local witness is recording it.",
+        "location": "Alleyway near K-Town",
+        "action": "Dumping the stolen IPAs in a K-Town alleyway",
+        "player_impact": "Stock recovery becomes impossible for the alcohol, but Julian's guilt becomes undeniable.",
+        "actor": "Julian's 'Fixer'",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Police update",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Three of Julian's line cooks are detained for questioning.",
+        "actor": "Officer Henderson",
+        "action": "Calls for backup at Julian's warehouse",
+        "player_impact": "Successful recovery of the premium chicken is imminent.",
+        "location": "Warehouse District",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Witnessed in scene",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Two board members leave the protest after seeing their own children supporting Michele.",
+        "actor": "The Silver Lake Shift",
+        "action": "Internal dispute erupts",
+        "player_impact": "Reduced neighborhood hostility",
+        "location": "Silver Lake Sidewalk",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Viral video tomorrow",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "A local homeless advocate witnesses the dumping and records it.",
+        "actor": "Julian's 'Fixer'",
+        "action": "Attempts to dump the stolen beer",
+        "player_impact": "Massive reputation damage to Julian",
+        "location": "Alleyway near K-Town",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Official email",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "A $2,000 legal defense fund is earmarked for 'undocumented entrepreneurs' in Silver Lake.",
+        "actor": "The Dreamer Alliance",
+        "action": "Legal fund initialized",
+        "player_impact": "Financial safety net for Chapter 2",
+        "location": "Downtown LA",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Eater LA news tomorrow",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "The 'Golden Bird' pop-up is scheduled to close in 2 weeks",
+        "location": "Central LA",
+        "action": "Formally withdraws funding following the police raid",
+        "player_impact": "Removal of main rival",
+        "actor": "Julian's 'Golden Bird' Investor",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Wiretap or confession",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Reports that the van is lost and the 'Double Crunch' crew is armed with community support.",
+        "location": "Echo Park",
+        "action": "Calls Julian from a burner phone",
+        "actor": "Julian's Fixer",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Official invitation",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Moving Michele to the 'Main Stage' candidate list.",
+        "location": "Downtown LA",
+        "action": "Reviewing 'Crispy Dreams' viral metrics",
+        "actor": "LA Food Fest",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "News report or Henderson's update.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Bail set at $10,000; Julian will be out by morning.",
+        "actor": "Julian's Attorney",
+        "action": "Argues for reduced bail, citing Julian's 'community contributions.'",
+        "player_impact": "Antagonist returns to the board quickly.",
+        "location": "Central Courthouse",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Reporter is visible at the shop.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Public interest in Silver Lake dining reaches a 6-month high.",
+        "actor": "The Silver Lake Independent",
+        "action": "Fast-tracks the 'Chicken War' cover story.",
+        "player_impact": "High traffic spike incoming.",
+        "location": "Silver Lake",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Mr. Park mentions it during next visit.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "A group of older owners are considering investing in 'young talent' like Michele.",
+        "actor": "Mr. Park",
+        "action": "Calls a meeting of the 'K-Town Merchants Alliance.'",
+        "player_impact": "Potential for a major capital injection.",
+        "location": "Koreatown",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Industry newsletter.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Businesses under 10 employees may be exempt.",
+        "actor": "LA City Council",
+        "action": "Adds a 'Small Business Hardship' clause to the proposed food tax bill.",
+        "player_impact": "Long-term overhead protection.",
+        "location": "City Hall",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Police update or news report.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Legal battle enters a slow-burn phase; Julian remains on bail.",
+        "actor": "Julian's Legal Team",
+        "action": "Files a motion to suppress the security footage evidence.",
+        "player_impact": "Ongoing legal pressure; Julian could return to the streets.",
+        "location": "Central Courthouse",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Customer mention or social media ad.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "A 'Double Crunch' copycat menu appears, but lacks the soy-garlic depth.",
+        "actor": "The Spicy Wing (Competitor)",
+        "action": "Attempts to reverse-engineer Chef Jin's potato starch lattice.",
+        "player_impact": "Direct market competition for the KFC niche.",
+        "location": "Echo Park",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Direct message to the shop account.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Potential for a viral video focusing on the 'Hyper-Local' tech.",
+        "actor": "Sunny (Food Blogger)",
+        "action": "Requests an 'exclusive ride-along' with the new delivery fleet.",
+        "player_impact": "Massive PR opportunity to define the delivery brand.",
+        "location": "Digital",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Industry newsletter or Mrs. Gable.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "A 10-employee threshold is proposed, favoring shops like Crispy Dreams.",
+        "actor": "LA City Council",
+        "action": "Begins drafting the 'Small Business Exemption' criteria for the food tax.",
+        "player_impact": "Long-term financial survival vs. larger chains.",
+        "location": "City Hall",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Visible in scene",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Begins recording the Mayor's office arrival",
+        "location": "Silver Lake Storefront",
+        "action": "Arrives at Crispy Dreams",
+        "player_impact": "Amplifies the PR impact of the official visit",
+        "actor": "Sunny (Food Blogger)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Spotting her or seeing her next post",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Captures the interaction between Michele and Lawson",
+        "location": "Artisanal Bean Doorway",
+        "action": "Surveillance recording",
+        "player_impact": "Potential for her to twist the narrative or support it out of necessity",
+        "actor": "Chloe Luxe",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Talking to Marcus later",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Delivery driver agrees to regular premium slots",
+        "location": "Alleyway",
+        "action": "Supply chain coordination",
+        "player_impact": "Ensures consistent quality for the 'Double Crunch'",
+        "actor": "Marcus",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Official notice or news report",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Challenges the legitimacy of Michele's permits based on status",
+        "location": "City Hall",
+        "action": "Files 'Selective Enforcement' complaint",
+        "player_impact": "Legal threat to business operations in Chapter 2",
+        "actor": "Julian's Legal Team",
+        "event_type": "long_term"
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Michele"
+    ]
+  },
+  "rumors": [
+    {
+      "content": "The health inspector in this district is a 'stickler' for grease trap maintenance.",
+      "source_type": "merchant",
+      "related_event": "Department of Building and Safety update",
+      "accuracy": "true"
+    },
+    {
+      "content": "A celebrity chef is planning to drop a 'surprise' pop-up in Silver Lake next month.",
+      "source_type": "traveler",
+      "related_event": "Chef Julian's expansion",
+      "accuracy": "true"
+    },
+    {
+      "content": "Julian's pop-up is being funded by a major hedge fund to test the market.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "A local muralist is looking for a wall to paint a 'Resistance' piece against gentrification.",
+      "source_type": "commoner",
+      "related_event": "The Silver Lake Shift activism",
+      "accuracy": "true"
+    },
+    {
+      "content": "The new fried chicken place is being run by someone without papers.",
+      "source_type": "commoner",
+      "related_event": "Michele's revelation",
+      "accuracy": "true"
+    },
+    {
+      "content": "Julian is planning a 'Citizens Only' opening night party.",
+      "source_type": "traveler",
+      "related_event": "Chef Julian's competitive positioning",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Julian's influencer staff are being trained to 'vibe check' customers and ignore 'Silver Lake Shift' tote bags.",
+      "source_type": "traveler",
+      "accuracy": "true"
+    },
+    {
+      "content": "The local school board is actually divided; the Principal of Silver Lake Elementary is a fan of soya-based diets.",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Red-Pen Miller once failed a kitchen because the soy sauce bottles were sticky.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "Mrs. Gable secretly loves spicy food but won't admit it because it's 'not Silver Lake aesthetic.'",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A high-profile PR disaster in San Francisco is being linked to the staff at Crispy Dreams.",
+      "source_type": "traveler",
+      "related_event": "Kim's Dark Secret discovery",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Word is the 'Golden Bird' pop-up is having internal staff issues after a late-night incident.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "Some say Chloe Luxe is being paid by a rival restaurant group to target Crispy Dreams.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Julian's 'Golden Bird' is being investigated for more than just zoning violations.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "Julian's 'Golden Bird' investors are already looking for a new chef to salvage the brand.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Crispy Dreams' owner is actually a secret prot\u00e9g\u00e9 of a Michelin-star chef.",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Julian's 'Golden Bird' investors are liquidating his equipment to pay off the Rampart Division fines.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "A group of Silver Lake residents is planning a 'Crispy Dreams' block party to celebrate the Shift Accord.",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Word is Julian is liquidating his Beverly Hills assets to pay for a 'scorched earth' legal defense.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "A prominent local influencer is looking to 'rehabilitate' her image by partnering with a certain chicken shop.",
+      "source_type": "commoner",
+      "related_event": "Chloe Luxe's apology video",
+      "accuracy": "true"
+    }
+  ],
+  "schema_migration_version": 1,
+  "schema_migrated_at": "2026-04-06T03:12:44.737651+00:00",
+  "session_id": "legacy-migrated-d55f0155b0e410cc",
+  "frozen_plans": {}
+}

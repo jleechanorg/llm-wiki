@@ -96,7 +96,7 @@ Behavioral equivalence audits prevent **design doc drift** — the pattern where
 
 ## Connections
 - [[LevelUpV4Architecture]] — where the equivalence claims were made
-- [rewardsEngine](rewardsEngine.md) — the new module
-- [worldLogic](../entities/worldLogic.md) — the legacy module
+- [rewardsEngine](RewardsEngine.md) — the new module
+- [worldLogic](../entities/WorldLogic.md) — the legacy module
 - [[DesignDocDrift]] — the failure pattern this audit addresses
 >>>>>>> origin/fix/br-4bk-green-gate-design-doc-v2

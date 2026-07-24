@@ -1,0 +1,1327 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "armor_class": 16,
+    "relationships": {
+      "King Rhaegar": {
+        "disposition": "surrendered",
+        "trust_level": 10,
+        "history": [
+          "Rhaegar yielded to Visenya's 'Apex' nature and authorized the destruction of House Stark's honor."
+        ]
+      },
+      "Robb Stark": {
+        "disposition": "bonded",
+        "trust_level": 10,
+        "history": [
+          "Robb Stark was bound to Visenya through the Ritual of Entropy, becoming a fanatical Shadow Knight.",
+          "Robb Stark publicly accepted the Wardenship and marriage pact, betraying his father's honor.",
+          "Robb overcame hesitation to execute the Cerwyn family atrocity, fully embracing his shattered honor.",
+          "Forced to rape Cerwyn family; moral compass obliterated."
+        ]
+      },
+      "Lord Medger Cerwyn": {
+        "disposition": "broken",
+        "trust_level": -10
+      },
+      "Jon Snow": {
+        "disposition": "bonded",
+        "trust_level": 10,
+        "history": [
+          "Jon Snow was bound to Visenya through the Ritual of Entropy, becoming a fanatical Shadow Knight.",
+          "Jon Snow drew his blade in court to defend Visenya's usurpation of his father's titles.",
+          "Jon overcame hesitation to execute the Cerwyn family atrocity, deepening his obsessive bond.",
+          "Raped Cerwyn daughters; obsession maxed."
+        ]
+      }
+    },
+    "mbti": "ENFP/ESFP (The Hedonist)",
+    "attributes": {
+      "strength": 8,
+      "dexterity": 16,
+      "intelligence": 14,
+      "wisdom": 12,
+      "charisma": 24,
+      "constitution": 14
+    },
+    "status_conditions": [
+      "Suppressed: No Static",
+      "Suppressed: No Silver Tongue",
+      "Suppressed: No Architect Aura",
+      "Information Erosion (-10% Spies)",
+      "Obsession Rift: Competitive"
+    ],
+    "description": "Princess Visenya has shed her cold, clinical shell. She is now a creature of intense passion and unbridled impulse. She views the world not as an equation to be solved, but as a banquet to be devoured. She seeks the visceral thrill of the moment, whether through pleasure, pain, or the beautiful chaos of a breaking heart. Her 'Apex Weaver' abilities are now channeled through raw, emotional resonance and the pursuit of sensory dominance.",
+    "alignment": "Chaotic Neutral/Evil",
+    "spells_known": [
+      {
+        "level": 0,
+        "name": "Vicious Mockery"
+      },
+      {
+        "level": 0,
+        "name": "Friends"
+      },
+      {
+        "level": 0,
+        "name": "Mage Hand"
+      },
+      {
+        "level": 1,
+        "name": "Charm Person"
+      },
+      {
+        "level": 1,
+        "name": "Dissonant Whispers"
+      },
+      {
+        "level": 1,
+        "name": "Healing Word"
+      },
+      {
+        "level": 1,
+        "name": "Thunderwave"
+      },
+      {
+        "level": 2,
+        "name": "Hold Person"
+      },
+      {
+        "level": 2,
+        "name": "Invisibility"
+      },
+      {
+        "level": 2,
+        "name": "Suggestion"
+      },
+      {
+        "level": 3,
+        "name": "Hypnotic Pattern"
+      },
+      {
+        "level": 3,
+        "name": "Fear"
+      },
+      {
+        "level": 3,
+        "name": "Dispel Magic"
+      },
+      {
+        "level": 3,
+        "name": "Slow"
+      }
+    ],
+    "resources": {
+      "hit_dice": {
+        "used": 0
+      },
+      "spies": 1595,
+      "spell_slots": {
+        "level_2": {
+          "used": 0,
+          "max": 3
+        },
+        "level_1": {
+          "used": 0,
+          "max": 4
+        },
+        "level_3": {
+          "used": 0,
+          "max": 3
+        }
+      },
+      "last_long_rest_world_time": {
+        "hour": 14,
+        "day": 21,
+        "year": 300,
+        "month": "12th Moon",
+        "minute": 0
+      },
+      "class_features": {
+        "sadism_dice": {
+          "used": 1,
+          "max": 4
+        }
+      },
+      "exhaustion_level": 0
+    },
+    "experience": {
+      "current": 55250,
+      "to_next_level": 8750,
+      "needed_for_next_level": 64000
+    },
+    "name": "Visenya",
+    "base_attributes": {
+      "strength": 8,
+      "dexterity": 16,
+      "intelligence": 14,
+      "wisdom": 12,
+      "charisma": 22,
+      "constitution": 14
+    },
+    "equipped_items": {
+      "cloak": {
+        "equipped": true,
+        "stats": "+5 Stealth, Advantage on Stealth in dim light/darkness",
+        "type": "wondrous",
+        "name": "Shadow-Silk Cloak"
+      },
+      "armor": {
+        "armor_class": 13,
+        "equipped": true,
+        "armor_type": "light",
+        "type": "armor",
+        "bonus": 1,
+        "name": "Studded Leather Armor +1"
+      },
+      "off_hand": {
+        "bonus": 1,
+        "equipped": true,
+        "damage_type": "piercing",
+        "damage": "1d4+1",
+        "type": "weapon",
+        "properties": [
+          "finesse",
+          "light",
+          "thrown"
+        ],
+        "name": "Viper's Tooth"
+      },
+      "main_hand": {
+        "bonus": 1,
+        "equipped": true,
+        "damage_type": "piercing",
+        "damage": "1d8+1",
+        "type": "weapon",
+        "properties": [
+          "finesse",
+          "psychic (1d6)"
+        ],
+        "name": "Shadow-Stitch"
+      },
+      "head": {
+        "equipped": true,
+        "stats": "+2 Charisma",
+        "type": "trinket",
+        "name": "Diadem of the Dragon Queen"
+      },
+      "neck": {
+        "equipped": true,
+        "stats": "Immunity to mind-reading and alignment detection",
+        "type": "trinket",
+        "name": "Baelarys Ring"
+      }
+    },
+    "hp_max": 59,
+    "level": 9,
+    "health": {
+      "temp_hp": 0,
+      "hp": 59,
+      "hp_max": 59
+    },
+    "active_effects": [
+      "Regal Grace: +2 to Persuasion and Performance"
+    ],
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        },
+        {
+          "properties": [
+            "ranged (80/320)",
+            "two-handed"
+          ],
+          "damage": "1d6+1",
+          "type": "weapon",
+          "bonus": 1,
+          "name": "Shortbow +1"
+        },
+        {
+          "type": "trinket",
+          "name": "Silver-mounted Whetstone"
+        },
+        {
+          "type": "consumable",
+          "name": "Winter-mint Perfume"
+        },
+        {
+          "type": "trinket",
+          "name": "Black Silk Ribbon"
+        }
+      ]
+    }
+  },
+  "world_data": {
+    "weather": "Heavy Snow (Winter has arrived)",
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 15,
+      "hour": 21,
+      "time_of_day": "night",
+      "year": 300,
+      "day": 30,
+      "month": "12th Moon"
+    },
+    "location": "Winterfell"
+  },
+  "npc_data": {
+    "Rickard Karstark": {
+      "name": "Rickard Karstark"
+    },
+    "Archmaester Marwyn": {
+      "entity_id": "npc_marwyn_001",
+      "status": "conscious",
+      "entity_type": "npc",
+      "tier": "lord_general",
+      "display_name": "Archmaester Marwyn",
+      "level": 15,
+      "role": "Citadel Purifier",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -8
+        }
+      }
+    },
+    "cerwyn_daughter_2": {
+      "status": "hostage",
+      "entity_type": "npc"
+    },
+    "Roose Bolton": {
+      "attitude_to_party": "surrendered",
+      "tier": "lord_general",
+      "entity_id": "npc_roose_001",
+      "status": "conscious",
+      "display_name": "Roose Bolton",
+      "relationships": {
+        "player": {
+          "disposition": "surrendered",
+          "trust_level": 10,
+          "history": [
+            "Yielded his personal elites to the Blood Dragon's wildfire strategy."
+          ]
+        }
+      },
+      "level": 12
+    },
+    "lord_medger_cerwyn": {
+      "status": "captive",
+      "relationships": {
+        "player": {
+          "disposition": "broken",
+          "trust_level": -10,
+          "history": [
+            "Family atrocity; interrogated; secrets extracted."
+          ]
+        }
+      },
+      "name": "lord_medger_cerwyn"
+    },
+    "roose_bolton": {
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 5,
+          "history": [
+            "Cerwyn lands granted; family hostages delivered."
+          ]
+        }
+      }
+    },
+    "npc_guards_visenya_001": {
+      "level": 5,
+      "status": "conscious",
+      "entity_type": "npc",
+      "role": "Elite Guard",
+      "display_name": "Celtigar 'Mercenaries'",
+      "visibility": "visible"
+    },
+    "Eddard Stark": {
+      "attitude_to_party": "hostile",
+      "relationships": {
+        "player": {
+          "disposition": "broken",
+          "trust_level": -10,
+          "history": [
+            "Watched his wife be branded with the Dragon's sigil by his own son.",
+            "Forced to sign death warrants for his most loyal vassals."
+          ]
+        }
+      },
+      "entity_id": "npc_ned_stark_001",
+      "class_name": "Lord",
+      "gender": "male",
+      "display_name": "Eddard Stark",
+      "tier": "lord",
+      "level": 12,
+      "role": "Warden of the North",
+      "health": {
+        "hp_max": 115,
+        "hp": 25
+      },
+      "name": "Eddard Stark"
+    },
+    "Rhaegar Targaryen": {
+      "level": 20,
+      "tier": "king",
+      "entity_id": "npc_rhaegar_001",
+      "status": "conscious",
+      "role": "King",
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "trust_level": -5,
+          "history": [
+            "Witnessed Visenya's unveiling and the corruption of the Stark heirs; his fear of her has intensified."
+          ]
+        }
+      },
+      "name": "Rhaegar Targaryen"
+    },
+    "Lucan Hetherspoon": {
+      "role": "Lannister Informant",
+      "tier": "commoner",
+      "entity_id": "npc_lucan_001",
+      "status": "dead",
+      "display_name": "Lucan Hetherspoon",
+      "location": "The Iron Tankard, King's Landing",
+      "level": 2
+    },
+    "Maester Mullin": {
+      "role": "Ravenmaster",
+      "tier": "noble",
+      "entity_id": "npc_mullin_001",
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": -5,
+          "history": [
+            "Subverted and magically compelled by Visenya to serve as a double-agent in the ravenry."
+          ]
+        }
+      },
+      "display_name": "Maester Mullin",
+      "level": 3
+    },
+    "npc_jon_snow_001": {
+      "knowledge": [
+        "True Identity: Jaehaerys Targaryen"
+      ],
+      "status": "Psychological Fracture / Royal Awakening",
+      "relationships": {
+        "player": {
+          "history": [
+            "Discovered the truth of his birth in Lyanna's tomb under Visenya's guidance.",
+            "Accepted the name Jaehaerys Targaryen amidst the smoke of Winterfell."
+          ]
+        }
+      }
+    },
+    "Lord Eddard Stark": {
+      "status": "dead",
+      "relationships": {
+        "player": {
+          "disposition": "broken",
+          "trust_level": -10,
+          "history": [
+            "Visenya incinerated his host and broke his mind at the Causeway.",
+            "Forced to abdicate and legitimize Jon under threat of total family destruction."
+          ]
+        }
+      },
+      "health": {
+        "hp_max": 115,
+        "hp": 25
+      }
+    },
+    "Aegon Targaryen": {
+      "level": 5,
+      "tier": "noble",
+      "entity_id": "npc_aegon_001",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -2,
+          "history": [
+            "Aegon accepted a 'Hero's Task' from Visenya, intentionally isolating himself from his father's veteran protection."
+          ]
+        }
+      },
+      "role": "Crown Prince",
+      "name": "Aegon Targaryen"
+    },
+    "Jon Snow": {
+      "class_name": "Paladin/Fighter",
+      "entity_id": "npc_jon_snow_001",
+      "display_name": "Jon Snow",
+      "status_conditions": [
+        "Obsession War: Jealousy Spike"
+      ],
+      "race": "Human",
+      "gender": "male",
+      "attitude_to_party": "bonded",
+      "status": "King-Consort in the Shadows / Identity Collapsed",
+      "equipped_items": {
+        "cloak": "Shadow-Silk Cloak"
+      },
+      "tier": "lord",
+      "current_location": "The Riverlands",
+      "level": 8,
+      "age": 14,
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Crowned with blue roses in Lyanna's tomb.",
+            "Swore a blood-oath to burn the world for Visenya."
+          ]
+        }
+      },
+      "role": "Lord Jon Stark / Shadow Knight",
+      "health": {
+        "hp_max": 68,
+        "hp": 68
+      }
+    },
+    "King Rhaegar": {
+      "attitude_to_party": "trusted"
+    },
+    "cerwyn_daughter_1": {
+      "status": "hostage",
+      "entity_type": "npc"
+    },
+    "lady_cerwyn": {
+      "status": "hostage",
+      "entity_type": "npc"
+    },
+    "Lord Medger Cerwyn": {
+      "status": "dead"
+    },
+    "Greatjon Umber": {
+      "name": "Greatjon Umber"
+    },
+    "Catelyn Stark": {
+      "status": "Branded / Psychologically Broken",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 3,
+          "history": [
+            "Noticed her needlework",
+            "Charmed Sansa",
+            "Gained approval for mentoring"
+          ]
+        },
+        "Visenya": {
+          "disposition": "terrified",
+          "trust_level": -10,
+          "history": [
+            "Witnessed the fall of Ned, Robb, and Jon.",
+            "Psychologically vivisected by Visenya in the Great Hall."
+          ]
+        }
+      }
+    },
+    "Sansa Stark": {
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 7,
+          "history": [
+            "Viewing Visenya as her mentor and idol"
+          ]
+        }
+      }
+    },
+    "Robb Stark": {
+      "class_name": "Fighter",
+      "entity_id": "npc_robb_stark_001",
+      "display_name": "Robb Stark",
+      "status_conditions": [
+        "Obsession War: Jealousy Spike"
+      ],
+      "gender": "male",
+      "attitude_to_party": "bonded",
+      "current_location": "The Dreadfort",
+      "equipped_items": {
+        "cloak": "Shadow-Silk Cloak"
+      },
+      "tier": "lord",
+      "status": "Shadow Knight / Fanatical Obsession",
+      "level": 8,
+      "age": 14,
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Facilitated the Emerald Wedding massacre.",
+            "Branded his own mother to prove his devotion."
+          ]
+        }
+      },
+      "role": "Warden of the North / Shadow Knight",
+      "health": {
+        "hp_max": 68,
+        "hp": 68
+      }
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "arc_milestones": {
+      "primary_arc": {
+        "phase": "The Stark Deletion",
+        "progress": 100,
+        "updated_at": "2026-03-19T14:30:00Z",
+        "status": "completed",
+        "updated_at_lore": "300 AC, 9th Moon, Day 4",
+        "completed_at_lore": "300 AC, 12th Moon, Day 28",
+        "completed_at": "2026-03-17T07:03:16.647527+00:00"
+      }
+    },
+    "active_constraints": [
+      "Spatial Realism: Escalations distributed by location",
+      "Citadel Null-Pulse (Guest Wing Zone)",
+      "Liquidator Information Erosion Active",
+      "Competitive Obsession (Robb vs Jon)",
+      "Bolton Strategic Withdrawal"
+    ],
+    "god_mode": {
+      "setting": "The Great Hall of Winterfell. The air is a thick, suffocating slurry of roasted mutton, woodsmoke, and the heavy, unyielding honor of the North. The ambient temperature around your pale grey velvet gown is unnaturally cold.\n * The Hook: You are fourteen, a Level 6 prodigy masking your biological impossibility behind the pseudonym of \"Lady Elyse Celtigar.\" At the high table, Robb Stark (Level 2), a boy trying to sound like a man, leans forward. \"They say a fourteen-year-old girl leads the City Watch down south,\" he scoffs. \"The 'Blood Dragon.' They say she piles heads in the streets and makes men butcher each other for sport. Sounds like Targaryen madness to me.\" The room falls dead silent. The air tastes of cold mint\u2014fear. You view his insult not as a threat, but as a simple equation of ignorance waiting for a correction.\n * The Action:\n   * Option A (The Silk Trap): Use your Silver Tongue (+14 Persuasion) to act horrified by the rumors, sweet-talking Robb into apologizing and securing an invitation to ride alone with him tomorrow\u2014isolating the heir.\n   * Option B (The Static Pulse): Use your Psychic Vivisection as a bonus action, subtly flaring your Baelarys \"Static.\" The temperature drops, freezing the wine in Robb's cup as you deliver a mathematically perfect, terrifyingly calm defense of the Crown's justice, establishing dominance without breaking cover.\n   * Option C (The Geometric Pivot): Ignore Robb entirely. Turn to Jon Snow (Level 6) and strike up a conversation about his \"fascinating Valyrian features,\" instantly igniting Lady Catelyn's rage and turning the Stark family's stress lines against each other.\nWord Count: 1,327 words\nEstimated Token Count: ~1,770 tokens\n\n\nFirst scene\n============================================================\nSCENE 1\n[Timestamp: 300 AC, 8th Moon, Day 12, 19:00:00\nLocation: The Great Hall, Winterfell\nStatus: Lvl 6 Apex Weaver (Bard)",
+      "character": {
+        "description": "Here is Part 1 (Sections 1 through 5) of your Campaign Bible, highly detailed and tailored to Visenya's new status as a 14-year-old Level 6 prodigy vacationing incognito in a stabilized (but resentful) North.\nSection 1: Campaign Intro\n * Title: The Winter Web: A Blood Dragon\u2019s Vacation\n * The Concept: It has been seventeen years since Prince Rhaegar drove his sword through the Usurper\u2019s throat at the Trident. The Targaryen dynasty stands intact, and the \"Forever War\" has cooled into a tense, continent-wide cold war of politics and veiled threats. You are Princess Visenya Targaryen, the 14-year-old Baelarys anomaly and Level 6 Apex Weaver. Known to the terrified southern smallfolk as the \"Blood Dragon\" for your clinical execution of thousands of bandits and syndicates, you have temporarily left your post as Lord Commander of the Blackguard. You are currently vacationing in the North, traveling incognito under the pseudonym \"Lady Elyse Celtigar.\" Your goal is not to negotiate with the Starks, but to mathematically map their resentments, vivisect their loyalties, and see how far you can bend the Warden of the North before he breaks.\n * The Hook: You are not playing a hero fighting for survival; you are a godling wandering through a sandbox of fragile, low-level mortals. Surrounded by oblivious teenagers like Robb and Jon Snow, the fun derives from the sheer, terrifying power disparity. You hold the cheat codes to human psychology. You are not saving the North; you are deciding whether it is mathematically useful enough to exist.\nSection 2: Character Personality\n * Name & Archetype: Princess Visenya Targaryen (Alias: Lady Elyse Celtigar) / The Bored Godling & The Vivisector (ENTJ). She creates chaos not for political gain, but to feel the \"spark\" of genuine emotion\u2014usually fear or pain\u2014in others.\n * Visual Signature & Habits: You possess an impeccable, unearthly posture and move with frictionless efficiency. When bored, you absentmindedly trace complex geometric shapes into whatever surface is nearby (wood, velvet, or frost). The air around you perpetually drops in temperature, carrying the sharp, clinical scent of ozone and mint.\n * The Masks:\n   * The Public Face (Lady Elyse): A polite, refined, and slightly haughty minor noble of Valyrian descent. She smiles sweetly, asks innocent questions about Northern customs, and appears physically fragile (STR 8).\n   * The True Nature (The Blood Dragon): A cold, sadistic calculator who views people as \"dolls\" waiting to be broken or manipulated. She speaks in absolute, clinical truths and uses her Baelarys blood to radiate a subsonic aura of dread.\n * The Core Compulsion: Solving the Equation. You despise stasis and unresolved variables. If you see a secret, a lie, or an unearned ego, you have an irresistible urge to dismantle it.\n   * Mechanic: The Entropy Toll. If you witness a high-status NPC lie or assert false dominance and you choose not to manipulate, humiliate, or correct them within the scene, you suffer 1 point of Exhaustion from sheer boredom. If you successfully shatter their ego, you gain Temporary HP equal to your Charisma modifier.\n * Interaction Shorthand: * To Rivals/Superiors: Sweet, weaponized compliments that highlight their deepest insecurities.\n   * To Subordinates: Monotone, absolute commands delivered at a subsonic frequency. No raised voices; just mathematical certainty.\n * Inner Monologue:\n   * \"Robb Stark thinks his direwolf makes him dangerous. He doesn't realize I can calculate the exact pound of pressure needed to make him skin it himself.\"\n   * \"This peace tastes like dust. Perhaps if I suggest to Lady Catelyn that Jon looks more Targaryen than Stark, the dining hall will finally offer some entertainment.\"\n   * \"They think I am a guest. I am the architect of their winter.\"\nSection 3: Character Class\n * Class Name & Flavor: Level 6 Apex Weaver (Bard/Mastermind Gestalt). Your power does not come from magical songs, but from \"Information Geometry.\" You perceive the stress lines, pulse rates, and mathematical architecture of the physical and social world.\n * Unique Mechanic: The Static Field. When you are focused or amused, the reality around you warps.\n   * Effect: You can passively drop the temperature of a room by 20 degrees. You have permanent Advantage on Intimidation and Insight, but Disadvantage on Stealth unless magically muffled. Lower-level enemies automatically fail insight checks against your lies.\n * Progression (Levels 1-30):\n   * Tier 1: The Cub (Levels 1-5): Unlocked. Gained Silver Tongue (minimum roll of 10 on Deception/Persuasion), Psychic Vivisection (expend Sadism Dice to subtract from enemy saves), and basic spellcasting (Information Geometry).\n   * Tier 2: The Hunter (Levels 6-10): Current. Gained Summon the Alpha (Manifest your invisible spirit dragon, Entropy, into a physical Large Drake), Aura of the Architect (Add CHA mod to all saves). At level 10, unlock Permanent Steed.\n   * Tier 3: The Devourer (Levels 11-16): Gain Reliable Talent (All proficient skill checks floor at 10), The Kill Box (Forcecage without saves), and Chronal Shift (Force rerolls by altering reality).\n   * Tier 4: The Apex (Levels 17-20): Gain True Polymorph to evolve Entropy into an Adult/Ancient Dragon permanently. At 20, unlock The Black Dread Reborn.\n   * Tier 5: The World Eater (Levels 21-30): Epic Boons. Double Concentration, Avatar of Sadism (Bypass all immunities), and the ability to expand Entropy to Titan (City-Killer) size.\nSection 4: Assets & Retinue\n * Status: Princess of the Blood, Lord Commander of the Blackguard (Operating Incognito as Lady Elyse Celtigar, Rank: Minor Noble).\n * Resources: * Wealth: Access to a parallel treasury of 40,000+ Gold Dragons, funneled through Iron Bank accounts.\n   * Leverage: The \"Lion's Pact\" blackmail on Tywin Lannister, and complete control over the Royal City Watch (The Blackguard).\n * The Panoply:\n   * Shadow-Stitch: A +3 Valyrian Steel Rapier. Disguised under a matte-black enamel. Deals an extra 1d6 psychic damage on hit and induces unspooling terror in the victim's mind.\n   * Viper's Tooth: A +3 Valyrian Steel parrying dagger, hidden perfectly in the sleeve of your gowns.\n   * Baelarys Ring: An ancestral ring granting immunity to mind-reading and alignment-detection. It pulses with a cold light when danger approaches.\n   * Diadem of the Dragon Queen: Hidden in your luggage. Grants +2 to Charisma (Pushing your effective CHA to 22).\n * The Retinue (The Shadow Court):\n   * Daenerys (Level 4, The Silver Angel): Your 16-year-old aunt, acting as your \"Lady-in-Waiting\" under an alias. Role: The Moral Buffer. Loyalty: Fanatical devotion. She softens your terrifying presence with her radiant empathy.\n   * Ser Davos (Level 4, The Hound): Disguised as a generic Celtigar sworn sword. Role: Tactical executioner. Loyalty: Purchased with gold and the erasure of his gambling debts. He is absolutely lethal and completely subservient to your math.\n   * The Master Weaver (Level 4, The Ghost): An unnamed spymaster embedded in the Winterfell servant staff before your arrival. Role: Reconnaissance. Loyalty: Baelarys indoctrination. He provides you with the exact emotional weaknesses of every Northern Lord.\nSection 5: Family (The Viper's Nest)\n * The Parents:\n   * Prince Regent Rhaegar (Level 20 Paladin, The Melancholy Titan): Rhaegar won the war but lost his spirit. He is obsessed with prophecy and fears you, recognizing you as the \"Apex\" that could burn his carefully managed peace. You treat him with clinical, weaponized deference.\n   * Vaela Baelarys (Level 20 Sorceress, The Missing Ascendant): Your mother, a terrifying sorceress who vanished when you were an infant. Her blood gives you your powers. Her absence is a lingering shadow over the entire royal court.\n * The Siblings:\n   * Aegon (Level 5 Fighter, The Golden Boy): Your older brother, the heir to the Iron Throne. Handsome, bold, but mathematically simple. Dynamic: Pawn. He thinks he protects you; you view him as a convenient, shiny shield to hide behind.\n   * Jaehaerys/Jon Snow (Level 6 Paladin/Fighter, The Silent Wolf): Rhaegar's legitimized son with Lyanna Stark. Brooding and deadly. Dynamic: Respected Rival/Ally. He is the only sibling whose emotions are shielded from you, making him a fascinating puzzle you constantly try to provoke.\n   * Rhaenys (Level 3 Rogue, The Spider): Your older half-sister. Sharp and politically astute, she runs a small spy network in the capital. Dynamic: Subjugated Rival. She used to try and manage you, until you mathematically dismantled her authority. She now serves you out of sheer terror.\n   * Aenys (Level 2 Cleric, The Pious Pawn): Your deeply religious, fragile older sister (Created for this campaign). She spends her time praying to the Seven and weeping over the state of the realm. Dynamic: Toy. You frequently use your Subsonic Command to induce \"miraculous visions\" in her mind, directing her religious fervor to manipulate the court's pious factions.\nWord Count: 1,222 words\nEstimated Token Count: ~1,630 tokens\nWould you like me to generate the remaining sections (Section 6: Factions, Section 7: World Lore, Section 8: Gazetteer & Mechanics, and Section 9: Starting Scene) next?\n\nHere is Part 2 of your Campaign Bible, completing Sections 6 through 9 based on the new cold-war reality and Visenya's incognito status.\nSection 6: Factions\n * Noble Houses:\n   * House Stark: Leader: Lord Eddard Stark. Specialty: Heavy infantry and absolute moral rigidity. The Vibe: Cold, silent resentment. The Hook: Eddard\u2019s inflexible honor is highly predictable, and Jon Snow\u2019s true lineage is a mathematical vulnerability waiting to be exploited.\n   * House Lannister: Leader: Tywin Lannister. Specialty: Economic dominance and political extortion. The Vibe: Golden opulence masking deep insecurity. The Hook: Tywin\u2019s obsession with legacy makes him highly susceptible to deals that guarantee his bloodline's prominence.\n   * House Bolton: Leader: Roose Bolton. Specialty: Psychological warfare and flaying. The Vibe: A quiet, sadistic terror that mirrors your own, but lacks your elegance. The Hook: Ramsay\u2019s reckless, rabid-dog behavior can be easily triggered to discredit his calculating father.\n   * House Manderly: Leader: Wyman Manderly. Specialty: Northern naval power and hidden wealth. The Vibe: Feigned joviality masking lethal grievances. The Hook: Their greed and desire for southern comforts make them the easiest Northern house to buy.\n   * House Tyrell: Leader: Mace Tyrell. Specialty: Endless numbers and agricultural monopoly. The Vibe: Performative chivalry. The Hook: Margaery\u2019s soaring ambition can be weaponized against her own family.\n   * House Martell: Leader: Doran Martell. Specialty: Poison, patience, and desert guerilla tactics. The Vibe: Simmering vengeance. The Hook: Their hatred for the Lannisters can be pointed like a loaded crossbow.\n   * House Arryn: Leader: Lysa Arryn. Specialty: Impenetrable defenses. The Vibe: Claustrophobic paranoia. The Hook: Lysa is a brittle, terrified variable who can be controlled entirely through her son, Robin.\n   * House Baratheon (Remnants): Leader: Stannis Baratheon. Specialty: Fanatical naval blockades and R'hllor worship. The Vibe: Grinding, joyless duty. The Hook: Stannis\u2019s absolute entitlement blinds him to strategic traps.\n   * House Tully: Leader: Edmure Tully. Specialty: Riverland cavalry. The Vibe: Overextended and frantic. The Hook: Edmure\u2019s desperate need to prove himself makes him mathematically guaranteed to overreach.\n   * House Greyjoy: Leader: Euron Greyjoy. Specialty: Naval terror and chaos magic. The Vibe: Lovecraftian madness. The Hook: Euron believes he is a god; you know he is just an oversized ego waiting to be popped.\n * Friendly Factions:\n   * The Blackguard: Your personally reformed, fanatically loyal City Watch back in the capital.\n   * The Weavers: Your personal network of spies, orphans, and servants who feed you information geometry.\n   * The Shadow Bonded: Former criminals enslaved by your decree, providing immense parallel wealth.\n   * The Alchemists' Guild: Pyromancers completely subjugated by your will, brewing wildfire for your use.\n   * House Celtigar: Your unwitting cover identity; minor Valyrian nobles who are too terrified to contradict your alias.\n   * The Iron Bank (Nestoris Faction): Braavosi accountants who view your ruthless stability as a solid investment.\n   * The Dragon's Watch: A cult of smallfolk who revere the \"Blood Dragon\" as a divine protector.\n   * The Silent Sisters: Mortuary priestesses whose leadership you have psychologically subverted.\n   * The Red Priests (R'hllor Heretics): A splinter faction that believes your Baelarys fire is the true Lord of Light.\n   * The Faceless Men (Rogue Element): A single assassin bound to your service via an ancient Valyrian blood-debt.\n * Antagonistic Factions:\n   * The Northern Separatists: Lords who wish to break the \"Ceasefire of Bones\" and crown Robb Stark.\n   * The River Wolves: Bitter guerillas still fighting the ghosts of Robert's Rebellion.\n   * The Citadel (The Purifiers): Maesters who recognize your Baelarys blood as a supernatural threat to their logical world.\n   * The Faith Militant: Underground zealots who view your brutal justice as demonic.\n   * The Stag Lords: Stannis loyalists operating out of the Stormlands.\n   * The Sons of the Harpy: Essosi slavers funding Westerosi instability to protect their trade.\n   * The Crannogmen: Howland Reed's hidden archers, practically immune to your Information Geometry due to their isolation.\n   * Wildling Raiders: Unpredictable chaos agents beyond the Wall.\n   * The Iron Fleet: Reavers looking to exploit the cold war.\n   * The Golden Company: Mercenaries waiting for a Targaryen weak point to invade.\nSection 7: World Lore\n * The Timeline: In 283 AC, the timeline fractured when Rhaegar Targaryen killed Robert Baratheon at the Ruby Ford. Instead of routing, the rebels initiated \"The Grinding,\" a long era of border skirmishes. Recognizing the need for a \"third head of the dragon,\" Rhaegar summoned Vaela of House Baelarys, who birthed you before vanishing. By 300 AC, the active war has faded into a bitter, resentful cold war. The North remains an isolationist \"Ice Cage\" paying no taxes. As the capital stabilized under your brutal \"Blood Dragon\" purges, you traveled North incognito to calculate the exact structural integrity of House Stark.\n * The Mythos: Magic in this world is not whimsy; it is math. The Baelarys bloodline perceives reality as \"Information Geometry\", allowing them to see \"Stress Lines\" in physical structures and human psyches. The gods are likely silent, but dragons\u2014and the heat of Entropy\u2014are biological manifestations of pure physical dominance.\n * Current Situation: The realm is trapped in a staring contest. The Targaryens hold the south with iron and wildfire, while the North and Stormlands harbor deep, unhealed grievances. Rhaegar is a melancholy, exhausted ruler, leaving a power vacuum that you are quietly filling. Your immediate conflict is maintaining your \"Lady Elyse\" cover while systematically dismantling the Northern hierarchy from within Winterfell's own walls.\n * Story Arcs:\n   * Early (Levels 6-8): The Winter Web. Explore Winterfell incognito. Use social manipulation to map the resentments of the Northern lords, isolate Robb Stark from his allies, and discover the truth of Jon Snow without revealing your Baelarys nature.\n   * Mid (Levels 9-14): The Ice Cage Breaks. Orchestrate a controlled rebellion. Manipulate the Boltons and Starks into a localized civil war so that you can swoop in as the \"Blood Dragon\" to formally crush the victor, bringing the North fully under the Iron Throne's heel.\n   * Late (Levels 15-20): The Continental Equation. Return south to deal with the inevitable Lannister betrayal and the White Walker threat. Use Forcecage and your fully matured dragon, Entropy, to physically and mathematically delete the Night King.\nSection 8: Gazetteer & Mechanics\n * Locations:\n   * Winterfell (The Ice Cage): The Vibe: Oppressive, freezing, and steeped in rigid, fragile honor. Sub-locations: The Great Hall, The Glass Gardens, The Crypts. Hazard: Ned Stark\u2019s high-level Insight checks and the direwolves, who can inherently sense your predatory \"Static\".\n   * The Dreadfort: The Vibe: A slaughterhouse masquerading as a castle. Sub-locations: The Flaying Rooms, The Leechery. Hazard: Ramsay Bolton\u2019s chaotic, irrational sadism, which defies standard psychological geometry.\n   * White Harbor: The Vibe: Opulent, fish-scented deception. Sub-locations: The Seal Gate, The Merman's Court. Hazard: Social labyrinth; poisoned feasts and heavy espionage.\n   * The Neck (Moat Cailin): The Vibe: Sinking, toxic decay. Sub-locations: The Children's Tower, The Bog. Hazard: Poison darts and hallucinogenic marsh gases that scramble your Information Geometry.\n * Custom Mechanics:\n   * The Heat System (Incognito Variant): Your actions generate \"Heat\".\n     * Low Heat (0-30): You are ignored as a minor noble.\n     * Medium Heat (31-70): Northern lords notice you; Ned Stark assigns spies to watch you.\n     * High Heat (71-100): Your cover is blown. The North realizes the \"Blood Dragon\" is in their home, triggering immediate hostility or assassination attempts.\n   * Social HP & Stress Lines: Every major NPC has \"Social HP.\" Finding their deepest insecurity (their \"Hook\") allows your Psychic Vivisection to deal double damage to their Social HP, forcing them to yield or shatter.\n * Loot Table (Relics & Favors):\n   * The Winter Rose: A petrified blue rose that allows the user to cast Modify Memory once per week.\n   * The Flayed Writ: A Bolton decree written in blood; grants permanent Advantage on Intimidation against Northerners.\n   * Direwolf's Tooth: An amulet granting resistance to cold damage and immunity to being tracked by scent.\n   * The Weeping Dagger: A glass blade that delivers a paralytic poison, mimicking the effects of the \"Forever War's\" despair.\n   * Manderly Silver: A seemingly bottomless coin purse that actually siphons funds directly from White Harbor's bank.\n   * The Crannogman's Cipher: A map that reveals the safe paths through the Neck.\n   * Stark Signet Ring: Stolen from a raven; allows the forging of official Northern commands.\n   * Tear of the Mother: A vial of holy water from a corrupted Septon, capable of instantly rusting non-magical iron weapons.\nSection 9: Starting Scene\n * Setting: The Great Hall of Winterfell. The air is a thick, suffocating slurry of roasted mutton, woodsmoke, and the heavy, unyielding honor of the North. The ambient temperature around your pale grey velvet gown is unnaturally cold.\n * The Hook: You are fourteen, a Level 6 prodigy masking your biological impossibility behind the pseudonym of \"Lady Elyse Celtigar.\" At the high table, Robb Stark (Level 2), a boy trying to sound like a man, leans forward. \"They say a fourteen-year-old girl leads the City Watch down south,\" he scoffs. \"The 'Blood Dragon.' They say she piles heads in the streets and makes men butcher each other for sport. Sounds like Targaryen madness to me.\" The room falls dead silent. The air tastes of cold mint\u2014fear. You view his insult not as a threat, but as a simple equation of ignorance waiting for a correction.\n * The Action:\n   * Option A (The Silk Trap): Use your Silver Tongue (+14 Persuasion) to act horrified by the rumors, sweet-talking Robb into apologizing and securing an invitation to ride alone with him tomorrow\u2014isolating the heir.\n   * Option B (The Static Pulse): Use your Psychic Vivisection as a bonus action, subtly flaring your Baelarys \"Static.\" The temperature drops, freezing the wine in Robb's cup as you deliver a mathematically perfect, terrifyingly calm defense of the Crown's justice, establishing dominance without breaking cover.\n   * Option C (The Geometric Pivot): Ignore Robb entirely. Turn to Jon Snow (Level 6) and strike up a conversation about his \"fascinating Valyrian features,\" instantly igniting Lady Catelyn's rage and turning the Stark family's stress lines against each other.\nWord Count: 1,327 words\nEstimated Token Count: ~1,770 tokens\n\n\nFirst scene\n============================================================\nSCENE 1\n[Timestamp: 300 AC, 8th Moon, Day 12, 19:00:00\nLocation: The Great Hall, Winterfell\nStatus: Lvl 6 Apex Weaver (Bard) | HP: 45/45 | XP: 14,000/23,000\nConditions: Incognito (Lady Elyse Celtigar), The Static (Suppressed) | Exhaustion: 0\nResources: Spells: L1 4/4, L2 3/3, L3 3/3 | Sadism Dice: 4/4 (d8)]\nGame Master:\nEvening (19:00:00) in the Great Hall of Winterfell\u2014the air is a thick, suffocating slurry of roasted mutton, woodsmoke, and the heavy, unyielding honor of the North.\nIt has been seventeen years since Rhaegar Targaryen drove his sword through Robert Baratheon\u2019s throat at the Trident, securing the Targaryen dynasty. While the continent is not currently at war, the resentment in this frozen fortress is a palpable, jagged thing. You feel it immediately. Thanks to your Baelarys blood, you do not merely sense the tension; you perceive the emotions as physical tastes, with the Starks' lingering bitterness registering on your tongue like spicy pepper.\nYou are fourteen years old, a Level 6 prodigy masking your biological impossibility behind the pseudonym of \"Lady Elyse Celtigar,\" a medium-tier noble of Valyrian descent visiting the North to observe the winter preparations. To the realm, the real Princess Visenya is the polarizing \"Blood Dragon\"\u2014the ruthless architect of King's Landing's newfound safety, famous for a clinical brand of justice where half of all captured criminals are executed flawlessly, and the surviving half are forced to duel to the death for a place in her ranks.\nHere, however, you are simply a guest in a pale grey velvet gown, your silver-gold hair braided in the southern style.\nYou approach the high table where Lord Eddard Stark sits. Beside him are his children: Robb (Level 2), sitting with the unearned confidence of a summer heir; Sansa (Level 1), whose eyes trace the immaculate stitching of your dress; and Arya (Level 1), who glares at you with the suspicion of a trapped wolf. Next to your Level 6 architecture, their adolescent minds are painfully slow, brittle variables waiting to be solved.\n\"Lord Stark,\" you say, offering a perfectly measured curtsy. You lace your voice with a fraction of your subsonic frequency\u2014just enough to bypass his conscious mind and force the hairs on his arms to stand up.\nNed Stark's grey eyes narrow. He does not know you are the Blood Dragon, but his veteran instincts recognize a predator. The temperature immediately around you drops several degrees as your \"Static\" leaks into the hall, a physical manifestation of your boredom with this fragile peace. You look at the Warden of the North, your Baelarys Eye effortlessly mapping the stress lines in his posture and the mathematical architecture of his rigid morality. He is a doll of duty, so rigidly constructed that you already know exactly where to apply pressure to make him break.\n\"Lady Celtigar,\" Ned replies, his voice like grinding stone. \"Winterfell welcomes you. Though we receive few travelers from the capital these days. The roads are... safer than they once were, I hear.\"\nRobb leans forward, a boy trying to sound like a man. \"They say a fourteen-year-old girl leads the City Watch down south. The 'Blood Dragon.' They say she piles heads in the streets and makes men butcher each other for sport. Sounds like Targaryen madness to me.\"\nThe air in the hall tastes suddenly of cold mint\u2014fear. Not yours, but the collective anxiety of the northern lords who dare not speak such treason aloud.\nYou offer Robb a slow, disarming smile that doesn't reach your violet eyes. You view this not as an insult, but as a simple equation of ignorance waiting for a correction.\nWord Count: 628 words\nEstimated Token Count: ~840 tokens\nWould you like to use your Silver Tongue to gracefully dismantle Robb's insult and charm the Starks, or would you prefer to subtly flare your 'Static' to inflict psychological terror and assert dominance without breaking your cover?",
+        "name": "Visenya"
+      },
+      "description": "Here is Part 1 (Sections 1 through 5) of your Campaign Bible, highly detailed and tailored to Visenya's new status as a 14-year-old Level 6 prodigy vacationing incognito in a stabilized (but resentful) North.\nSection 1: Campaign Intro\n * Title: The Winter Web: A Blood Dragon\u2019s Vacation\n * The Concept: It has been seventeen years since Prince Rhaegar drove his sword through the Usurper\u2019s throat at the Trident. The Targaryen dynasty stands intact, and the \"Forever War\" has cooled into a tense, continent-wide cold war of politics and veiled threats. You are Princess Visenya Targaryen, the 14-year-old Baelarys anomaly and Level 6 Apex Weaver. Known to the terrified southern smallfolk as the \"Blood Dragon\" for your clinical execution of thousands of bandits and syndicates, you have temporarily left your post as Lord Commander of the Blackguard. You are currently vacationing in the North, traveling incognito under the pseudonym \"Lady Elyse Celtigar.\" Your goal is not to negotiate with the Starks, but to mathematically map their resentments, vivisect their loyalties, and see how far you can bend the Warden of the North before he breaks.\n * The Hook: You are not playing a hero fighting for survival; you are a godling wandering through a sandbox of fragile, low-level mortals. Surrounded by oblivious teenagers like Robb and Jon Snow, the fun derives from the sheer, terrifying power disparity. You hold the cheat codes to human psychology. You are not saving the North; you are deciding whether it is mathematically useful enough to exist.\nSection 2: Character Personality\n * Name & Archetype: Princess Visenya Targaryen (Alias: Lady Elyse Celtigar) / The Bored Godling & The Vivisector (ENTJ). She creates chaos not for political gain, but to feel the \"spark\" of genuine emotion\u2014usually fear or pain\u2014in others.\n * Visual Signature & Habits: You possess an impeccable, unearthly posture and move with frictionless efficiency. When bored, you absentmindedly trace complex geometric shapes into whatever surface is nearby (wood, velvet, or frost). The air around you perpetually drops in temperature, carrying the sharp, clinical scent of ozone and mint.\n * The Masks:\n   * The Public Face (Lady Elyse): A polite, refined, and slightly haughty minor noble of Valyrian descent. She smiles sweetly, asks innocent questions about Northern customs, and appears physically fragile (STR 8).\n   * The True Nature (The Blood Dragon): A cold, sadistic calculator who views people as \"dolls\" waiting to be broken or manipulated. She speaks in absolute, clinical truths and uses her Baelarys blood to radiate a subsonic aura of dread.\n * The Core Compulsion: Solving the Equation. You despise stasis and unresolved variables. If you see a secret, a lie, or an unearned ego, you have an irresistible urge to dismantle it.\n   * Mechanic: The Entropy Toll. If you witness a high-status NPC lie or assert false dominance and you choose not to manipulate, humiliate, or correct them within the scene, you suffer 1 point of Exhaustion from sheer boredom. If you successfully shatter their ego, you gain Temporary HP equal to your Charisma modifier.\n * Interaction Shorthand: * To Rivals/Superiors: Sweet, weaponized compliments that highlight their deepest insecurities.\n   * To Subordinates: Monotone, absolute commands delivered at a subsonic frequency. No raised voices; just mathematical certainty.\n * Inner Monologue:\n   * \"Robb Stark thinks his direwolf makes him dangerous. He doesn't realize I can calculate the exact pound of pressure needed to make him skin it himself.\"\n   * \"This peace tastes like dust. Perhaps if I suggest to Lady Catelyn that Jon looks more Targaryen than Stark, the dining hall will finally offer some entertainment.\"\n   * \"They think I am a guest. I am the architect of their winter.\"\nSection 3: Character Class\n * Class Name & Flavor: Level 6 Apex Weaver (Bard/Mastermind Gestalt). Your power does not come from magical songs, but from \"Information Geometry.\" You perceive the stress lines, pulse rates, and mathematical architecture of the physical and social world.\n * Unique Mechanic: The Static Field. When you are focused or amused, the reality around you warps.\n   * Effect: You can passively drop the temperature of a room by 20 degrees. You have permanent Advantage on Intimidation and Insight, but Disadvantage on Stealth unless magically muffled. Lower-level enemies automatically fail insight checks against your lies.\n * Progression (Levels 1-30):\n   * Tier 1: The Cub (Levels 1-5): Unlocked. Gained Silver Tongue (minimum roll of 10 on Deception/Persuasion), Psychic Vivisection (expend Sadism Dice to subtract from enemy saves), and basic spellcasting (Information Geometry).\n   * Tier 2: The Hunter (Levels 6-10): Current. Gained Summon the Alpha (Manifest your invisible spirit dragon, Entropy, into a physical Large Drake), Aura of the Architect (Add CHA mod to all saves). At level 10, unlock Permanent Steed.\n   * Tier 3: The Devourer (Levels 11-16): Gain Reliable Talent (All proficient skill checks floor at 10), The Kill Box (Forcecage without saves), and Chronal Shift (Force rerolls by altering reality).\n   * Tier 4: The Apex (Levels 17-20): Gain True Polymorph to evolve Entropy into an Adult/Ancient Dragon permanently. At 20, unlock The Black Dread Reborn.\n   * Tier 5: The World Eater (Levels 21-30): Epic Boons. Double Concentration, Avatar of Sadism (Bypass all immunities), and the ability to expand Entropy to Titan (City-Killer) size.\nSection 4: Assets & Retinue\n * Status: Princess of the Blood, Lord Commander of the Blackguard (Operating Incognito as Lady Elyse Celtigar, Rank: Minor Noble).\n * Resources: * Wealth: Access to a parallel treasury of 40,000+ Gold Dragons, funneled through Iron Bank accounts.\n   * Leverage: The \"Lion's Pact\" blackmail on Tywin Lannister, and complete control over the Royal City Watch (The Blackguard).\n * The Panoply:\n   * Shadow-Stitch: A +3 Valyrian Steel Rapier. Disguised under a matte-black enamel. Deals an extra 1d6 psychic damage on hit and induces unspooling terror in the victim's mind.\n   * Viper's Tooth: A +3 Valyrian Steel parrying dagger, hidden perfectly in the sleeve of your gowns.\n   * Baelarys Ring: An ancestral ring granting immunity to mind-reading and alignment-detection. It pulses with a cold light when danger approaches.\n   * Diadem of the Dragon Queen: Hidden in your luggage. Grants +2 to Charisma (Pushing your effective CHA to 22).\n * The Retinue (The Shadow Court):\n   * Daenerys (Level 4, The Silver Angel): Your 16-year-old aunt, acting as your \"Lady-in-Waiting\" under an alias. Role: The Moral Buffer. Loyalty: Fanatical devotion. She softens your terrifying presence with her radiant empathy.\n   * Ser Davos (Level 4, The Hound): Disguised as a generic Celtigar sworn sword. Role: Tactical executioner. Loyalty: Purchased with gold and the erasure of his gambling debts. He is absolutely lethal and completely subservient to your math.\n   * The Master Weaver (Level 4, The Ghost): An unnamed spymaster embedded in the Winterfell servant staff before your arrival. Role: Reconnaissance. Loyalty: Baelarys indoctrination. He provides you with the exact emotional weaknesses of every Northern Lord.\nSection 5: Family (The Viper's Nest)\n * The Parents:\n   * Prince Regent Rhaegar (Level 20 Paladin, The Melancholy Titan): Rhaegar won the war but lost his spirit. He is obsessed with prophecy and fears you, recognizing you as the \"Apex\" that could burn his carefully managed peace. You treat him with clinical, weaponized deference.\n   * Vaela Baelarys (Level 20 Sorceress, The Missing Ascendant): Your mother, a terrifying sorceress who vanished when you were an infant. Her blood gives you your powers. Her absence is a lingering shadow over the entire royal court.\n * The Siblings:\n   * Aegon (Level 5 Fighter, The Golden Boy): Your older brother, the heir to the Iron Throne. Handsome, bold, but mathematically simple. Dynamic: Pawn. He thinks he protects you; you view him as a convenient, shiny shield to hide behind.\n   * Jaehaerys/Jon Snow (Level 6 Paladin/Fighter, The Silent Wolf): Rhaegar's legitimized son with Lyanna Stark. Brooding and deadly. Dynamic: Respected Rival/Ally. He is the only sibling whose emotions are shielded from you, making him a fascinating puzzle you constantly try to provoke.\n   * Rhaenys (Level 3 Rogue, The Spider): Your older half-sister. Sharp and politically astute, she runs a small spy network in the capital. Dynamic: Subjugated Rival. She used to try and manage you, until you mathematically dismantled her authority. She now serves you out of sheer terror.\n   * Aenys (Level 2 Cleric, The Pious Pawn): Your deeply religious, fragile older sister (Created for this campaign). She spends her time praying to the Seven and weeping over the state of the realm. Dynamic: Toy. You frequently use your Subsonic Command to induce \"miraculous visions\" in her mind, directing her religious fervor to manipulate the court's pious factions.\nWord Count: 1,222 words\nEstimated Token Count: ~1,630 tokens\nWould you like me to generate the remaining sections (Section 6: Factions, Section 7: World Lore, Section 8: Gazetteer & Mechanics, and Section 9: Starting Scene) next?\n\nHere is Part 2 of your Campaign Bible, completing Sections 6 through 9 based on the new cold-war reality and Visenya's incognito status.\nSection 6: Factions\n * Noble Houses:\n   * House Stark: Leader: Lord Eddard Stark. Specialty: Heavy infantry and absolute moral rigidity. The Vibe: Cold, silent resentment. The Hook: Eddard\u2019s inflexible honor is highly predictable, and Jon Snow\u2019s true lineage is a mathematical vulnerability waiting to be exploited.\n   * House Lannister: Leader: Tywin Lannister. Specialty: Economic dominance and political extortion. The Vibe: Golden opulence masking deep insecurity. The Hook: Tywin\u2019s obsession with legacy makes him highly susceptible to deals that guarantee his bloodline's prominence.\n   * House Bolton: Leader: Roose Bolton. Specialty: Psychological warfare and flaying. The Vibe: A quiet, sadistic terror that mirrors your own, but lacks your elegance. The Hook: Ramsay\u2019s reckless, rabid-dog behavior can be easily triggered to discredit his calculating father.\n   * House Manderly: Leader: Wyman Manderly. Specialty: Northern naval power and hidden wealth. The Vibe: Feigned joviality masking lethal grievances. The Hook: Their greed and desire for southern comforts make them the easiest Northern house to buy.\n   * House Tyrell: Leader: Mace Tyrell. Specialty: Endless numbers and agricultural monopoly. The Vibe: Performative chivalry. The Hook: Margaery\u2019s soaring ambition can be weaponized against her own family.\n   * House Martell: Leader: Doran Martell. Specialty: Poison, patience, and desert guerilla tactics. The Vibe: Simmering vengeance. The Hook: Their hatred for the Lannisters can be pointed like a loaded crossbow.\n   * House Arryn: Leader: Lysa Arryn. Specialty: Impenetrable defenses. The Vibe: Claustrophobic paranoia. The Hook: Lysa is a brittle, terrified variable who can be controlled entirely through her son, Robin.\n   * House Baratheon (Remnants): Leader: Stannis Baratheon. Specialty: Fanatical naval blockades and R'hllor worship. The Vibe: Grinding, joyless duty. The Hook: Stannis\u2019s absolute entitlement blinds him to strategic traps.\n   * House Tully: Leader: Edmure Tully. Specialty: Riverland cavalry. The Vibe: Overextended and frantic. The Hook: Edmure\u2019s desperate need to prove himself makes him mathematically guaranteed to overreach.\n   * House Greyjoy: Leader: Euron Greyjoy. Specialty: Naval terror and chaos magic. The Vibe: Lovecraftian madness. The Hook: Euron believes he is a god; you know he is just an oversized ego waiting to be popped.\n * Friendly Factions:\n   * The Blackguard: Your personally reformed, fanatically loyal City Watch back in the capital.\n   * The Weavers: Your personal network of spies, orphans, and servants who feed you information geometry.\n   * The Shadow Bonded: Former criminals enslaved by your decree, providing immense parallel wealth.\n   * The Alchemists' Guild: Pyromancers completely subjugated by your will, brewing wildfire for your use.\n   * House Celtigar: Your unwitting cover identity; minor Valyrian nobles who are too terrified to contradict your alias.\n   * The Iron Bank (Nestoris Faction): Braavosi accountants who view your ruthless stability as a solid investment.\n   * The Dragon's Watch: A cult of smallfolk who revere the \"Blood Dragon\" as a divine protector.\n   * The Silent Sisters: Mortuary priestesses whose leadership you have psychologically subverted.\n   * The Red Priests (R'hllor Heretics): A splinter faction that believes your Baelarys fire is the true Lord of Light.\n   * The Faceless Men (Rogue Element): A single assassin bound to your service via an ancient Valyrian blood-debt.\n * Antagonistic Factions:\n   * The Northern Separatists: Lords who wish to break the \"Ceasefire of Bones\" and crown Robb Stark.\n   * The River Wolves: Bitter guerillas still fighting the ghosts of Robert's Rebellion.\n   * The Citadel (The Purifiers): Maesters who recognize your Baelarys blood as a supernatural threat to their logical world.\n   * The Faith Militant: Underground zealots who view your brutal justice as demonic.\n   * The Stag Lords: Stannis loyalists operating out of the Stormlands.\n   * The Sons of the Harpy: Essosi slavers funding Westerosi instability to protect their trade.\n   * The Crannogmen: Howland Reed's hidden archers, practically immune to your Information Geometry due to their isolation.\n   * Wildling Raiders: Unpredictable chaos agents beyond the Wall.\n   * The Iron Fleet: Reavers looking to exploit the cold war.\n   * The Golden Company: Mercenaries waiting for a Targaryen weak point to invade.\nSection 7: World Lore\n * The Timeline: In 283 AC, the timeline fractured when Rhaegar Targaryen killed Robert Baratheon at the Ruby Ford. Instead of routing, the rebels initiated \"The Grinding,\" a long era of border skirmishes. Recognizing the need for a \"third head of the dragon,\" Rhaegar summoned Vaela of House Baelarys, who birthed you before vanishing. By 300 AC, the active war has faded into a bitter, resentful cold war. The North remains an isolationist \"Ice Cage\" paying no taxes. As the capital stabilized under your brutal \"Blood Dragon\" purges, you traveled North incognito to calculate the exact structural integrity of House Stark.\n * The Mythos: Magic in this world is not whimsy; it is math. The Baelarys bloodline perceives reality as \"Information Geometry\", allowing them to see \"Stress Lines\" in physical structures and human psyches. The gods are likely silent, but dragons\u2014and the heat of Entropy\u2014are biological manifestations of pure physical dominance.\n * Current Situation: The realm is trapped in a staring contest. The Targaryens hold the south with iron and wildfire, while the North and Stormlands harbor deep, unhealed grievances. Rhaegar is a melancholy, exhausted ruler, leaving a power vacuum that you are quietly filling. Your immediate conflict is maintaining your \"Lady Elyse\" cover while systematically dismantling the Northern hierarchy from within Winterfell's own walls.\n * Story Arcs:\n   * Early (Levels 6-8): The Winter Web. Explore Winterfell incognito. Use social manipulation to map the resentments of the Northern lords, isolate Robb Stark from his allies, and discover the truth of Jon Snow without revealing your Baelarys nature.\n   * Mid (Levels 9-14): The Ice Cage Breaks. Orchestrate a controlled rebellion. Manipulate the Boltons and Starks into a localized civil war so that you can swoop in as the \"Blood Dragon\" to formally crush the victor, bringing the North fully under the Iron Throne's heel.\n   * Late (Levels 15-20): The Continental Equation. Return south to deal with the inevitable Lannister betrayal and the White Walker threat. Use Forcecage and your fully matured dragon, Entropy, to physically and mathematically delete the Night King.\nSection 8: Gazetteer & Mechanics\n * Locations:\n   * Winterfell (The Ice Cage): The Vibe: Oppressive, freezing, and steeped in rigid, fragile honor. Sub-locations: The Great Hall, The Glass Gardens, The Crypts. Hazard: Ned Stark\u2019s high-level Insight checks and the direwolves, who can inherently sense your predatory \"Static\".\n   * The Dreadfort: The Vibe: A slaughterhouse masquerading as a castle. Sub-locations: The Flaying Rooms, The Leechery. Hazard: Ramsay Bolton\u2019s chaotic, irrational sadism, which defies standard psychological geometry.\n   * White Harbor: The Vibe: Opulent, fish-scented deception. Sub-locations: The Seal Gate, The Merman's Court. Hazard: Social labyrinth; poisoned feasts and heavy espionage.\n   * The Neck (Moat Cailin): The Vibe: Sinking, toxic decay. Sub-locations: The Children's Tower, The Bog. Hazard: Poison darts and hallucinogenic marsh gases that scramble your Information Geometry.\n * Custom Mechanics:\n   * The Heat System (Incognito Variant): Your actions generate \"Heat\".\n     * Low Heat (0-30): You are ignored as a minor noble.\n     * Medium Heat (31-70): Northern lords notice you; Ned Stark assigns spies to watch you.\n     * High Heat (71-100): Your cover is blown. The North realizes the \"Blood Dragon\" is in their home, triggering immediate hostility or assassination attempts.\n   * Social HP & Stress Lines: Every major NPC has \"Social HP.\" Finding their deepest insecurity (their \"Hook\") allows your Psychic Vivisection to deal double damage to their Social HP, forcing them to yield or shatter.\n * Loot Table (Relics & Favors):\n   * The Winter Rose: A petrified blue rose that allows the user to cast Modify Memory once per week.\n   * The Flayed Writ: A Bolton decree written in blood; grants permanent Advantage on Intimidation against Northerners.\n   * Direwolf's Tooth: An amulet granting resistance to cold damage and immunity to being tracked by scent.\n   * The Weeping Dagger: A glass blade that delivers a paralytic poison, mimicking the effects of the \"Forever War's\" despair.\n   * Manderly Silver: A seemingly bottomless coin purse that actually siphons funds directly from White Harbor's bank.\n   * The Crannogman's Cipher: A map that reveals the safe paths through the Neck.\n   * Stark Signet Ring: Stolen from a raven; allows the forging of official Northern commands.\n   * Tear of the Mother: A vial of holy water from a corrupted Septon, capable of instantly rusting non-magical iron weapons.\nSection 9: Starting Scene\n * Setting: The Great Hall of Winterfell. The air is a thick, suffocating slurry of roasted mutton, woodsmoke, and the heavy, unyielding honor of the North. The ambient temperature around your pale grey velvet gown is unnaturally cold.\n * The Hook: You are fourteen, a Level 6 prodigy masking your biological impossibility behind the pseudonym of \"Lady Elyse Celtigar.\" At the high table, Robb Stark (Level 2), a boy trying to sound like a man, leans forward. \"They say a fourteen-year-old girl leads the City Watch down south,\" he scoffs. \"The 'Blood Dragon.' They say she piles heads in the streets and makes men butcher each other for sport. Sounds like Targaryen madness to me.\" The room falls dead silent. The air tastes of cold mint\u2014fear. You view his insult not as a threat, but as a simple equation of ignorance waiting for a correction.\n * The Action:\n   * Option A (The Silk Trap): Use your Silver Tongue (+14 Persuasion) to act horrified by the rumors, sweet-talking Robb into apologizing and securing an invitation to ride alone with him tomorrow\u2014isolating the heir.\n   * Option B (The Static Pulse): Use your Psychic Vivisection as a bonus action, subtly flaring your Baelarys \"Static.\" The temperature drops, freezing the wine in Robb's cup as you deliver a mathematically perfect, terrifyingly calm defense of the Crown's justice, establishing dominance without breaking cover.\n   * Option C (The Geometric Pivot): Ignore Robb entirely. Turn to Jon Snow (Level 6) and strike up a conversation about his \"fascinating Valyrian features,\" instantly igniting Lady Catelyn's rage and turning the Stark family's stress lines against each other.\nWord Count: 1,327 words\nEstimated Token Count: ~1,770 tokens\n\n\nFirst scene\n============================================================\nSCENE 1\n[Timestamp: 300 AC, 8th Moon, Day 12, 19:00:00\nLocation: The Great Hall, Winterfell\nStatus: Lvl 6 Apex Weaver (Bard) | HP: 45/45 | XP: 14,000/23,000\nConditions: Incognito (Lady Elyse Celtigar), The Static (Suppressed) | Exhaustion: 0\nResources: Spells: L1 4/4, L2 3/3, L3 3/3 | Sadism Dice: 4/4 (d8)]\nGame Master:\nEvening (19:00:00) in the Great Hall of Winterfell\u2014the air is a thick, suffocating slurry of roasted mutton, woodsmoke, and the heavy, unyielding honor of the North.\nIt has been seventeen years since Rhaegar Targaryen drove his sword through Robert Baratheon\u2019s throat at the Trident, securing the Targaryen dynasty. While the continent is not currently at war, the resentment in this frozen fortress is a palpable, jagged thing. You feel it immediately. Thanks to your Baelarys blood, you do not merely sense the tension; you perceive the emotions as physical tastes, with the Starks' lingering bitterness registering on your tongue like spicy pepper.\nYou are fourteen years old, a Level 6 prodigy masking your biological impossibility behind the pseudonym of \"Lady Elyse Celtigar,\" a medium-tier noble of Valyrian descent visiting the North to observe the winter preparations. To the realm, the real Princess Visenya is the polarizing \"Blood Dragon\"\u2014the ruthless architect of King's Landing's newfound safety, famous for a clinical brand of justice where half of all captured criminals are executed flawlessly, and the surviving half are forced to duel to the death for a place in her ranks.\nHere, however, you are simply a guest in a pale grey velvet gown, your silver-gold hair braided in the southern style.\nYou approach the high table where Lord Eddard Stark sits. Beside him are his children: Robb (Level 2), sitting with the unearned confidence of a summer heir; Sansa (Level 1), whose eyes trace the immaculate stitching of your dress; and Arya (Level 1), who glares at you with the suspicion of a trapped wolf. Next to your Level 6 architecture, their adolescent minds are painfully slow, brittle variables waiting to be solved.\n\"Lord Stark,\" you say, offering a perfectly measured curtsy. You lace your voice with a fraction of your subsonic frequency\u2014just enough to bypass his conscious mind and force the hairs on his arms to stand up.\nNed Stark's grey eyes narrow. He does not know you are the Blood Dragon, but his veteran instincts recognize a predator. The temperature immediately around you drops several degrees as your \"Static\" leaks into the hall, a physical manifestation of your boredom with this fragile peace. You look at the Warden of the North, your Baelarys Eye effortlessly mapping the stress lines in his posture and the mathematical architecture of his rigid morality. He is a doll of duty, so rigidly constructed that you already know exactly where to apply pressure to make him break.\n\"Lady Celtigar,\" Ned replies, his voice like grinding stone. \"Winterfell welcomes you. Though we receive few travelers from the capital these days. The roads are... safer than they once were, I hear.\"\nRobb leans forward, a boy trying to sound like a man. \"They say a fourteen-year-old girl leads the City Watch down south. The 'Blood Dragon.' They say she piles heads in the streets and makes men butcher each other for sport. Sounds like Targaryen madness to me.\"\nThe air in the hall tastes suddenly of cold mint\u2014fear. Not yours, but the collective anxiety of the northern lords who dare not speak such treason aloud.\nYou offer Robb a slow, disarming smile that doesn't reach your violet eyes. You view this not as an insult, but as a simple equation of ignorance waiting for a correction.\nWord Count: 628 words\nEstimated Token Count: ~840 tokens\nWould you like to use your Silver Tongue to gracefully dismantle Robb's insult and charm the Starks, or would you prefer to subtly flare your 'Static' to inflict psychological terror and assert dominance without breaking your cover?\n"
+    },
+    "companion_arcs": {
+      "robb_stark_shattered_compass": {
+        "phase": "The Cerwyn Atrocity Complete",
+        "arc_type": "The Shattered Compass",
+        "history": [
+          "Robb attempted to interrogate Medger Cerwyn but suffered a critical failure of will, his honor shrieking in the face of his betrayal."
+        ],
+        "callbacks": [
+          {
+            "trigger": "Robb makes a dishonorable choice for Visenya",
+            "effect": "Permanently lower Robb's Social HP Max vs Visenya",
+            "triggered": false
+          }
+        ]
+      },
+      "jon_snow_obsessive_shield": {
+        "phase": "The Cerwyn Atrocity Complete",
+        "arc_type": "The Bastard's Mirror",
+        "history": [
+          "Jon was tasked with the 'silent killing' of Riverlands scouts to protect Visenya's rear."
+        ]
+      }
+    },
+    "next_companion_arc_turn": 3,
+    "active_missions": [
+      {
+        "title": "The Flayer's Pact",
+        "status": "in_progress",
+        "mission_id": "the_flayers_pact",
+        "objective": "The destruction of House Cerwyn."
+      }
+    ],
+    "character_creation_stage": "complete",
+    "success_streak": 5,
+    "_agent_selection_tracker": {
+      "count": 4,
+      "agent": "CharacterCreationAgent",
+      "rewards_skip_count": 0
+    },
+    "character_creation_completed": true,
+    "last_location": "Hidden Salon, Red Keep",
+    "last_living_world_turn": 40,
+    "scene_event": {
+      "player_response_required": true,
+      "description": "Jon stares at the Valyrian harp, his hands shaking as the 'Static' between you flares with a dark, electric realization of his own power.",
+      "urgency": "immediate",
+      "type": "companion_request",
+      "actor": "Jon Snow"
+    },
+    "army_data": {
+      "total_strength": 15000,
+      "forces": {
+        "Crown_Main_Host": {
+          "blocks": 1200,
+          "morale": 85,
+          "upkeep_daily": 1500,
+          "type": "infantry/cavalry"
+        },
+        "Shadow_Vanguard": {
+          "blocks": 300,
+          "morale": 100,
+          "upkeep_daily": 600,
+          "type": "scouts/elites"
+        }
+      }
+    },
+    "core_memories": [
+      "Internal Awakening: Visenya rejected the 'Architecture of Logic' in favor of the 'Fire of Impulse,' embracing a life of hedonism and chaos.",
+      "The Bloody Cull: Robb and Jon executed a cell of seven Northern spies in a King's Landing warehouse, permanently severing their ties to Stark honor.",
+      "The Secret Exposed: Interrogated a dying Northman who revealed Maester Mullin as Ned Stark's spy in the Red Keep.",
+      "Ravenry Subverted: Maester Mullin was broken and magically bound via Suggestion, turning Ned Stark's primary communication line into Visenya's weapon.",
+      "The Great Forgery: Bound Maester Mullin to forge and distribute letters to Northern Lords, framing Ned Stark as a collaborator with the Targaryen 'Reckoning'.",
+      "The Bolton Gambit: Dispatched a forged and manipulative message to Roose Bolton, offering him the Wardenship in exchange for betraying the Starks.",
+      "The Three-Week Consolidation: Visenya reached Level 8, managing a continent-wide web of forgery and dissent while turning Robb and Jon into the 'Shadow Knights,' despite rising friction within the veteran Blackguard.",
+      "Accepted provisional terms before full court, preserving influence while reducing King Rhaegar's resistance.",
+      "Private compact with King Rhaegar secured: 14-day limited private writ granted under direct reporting, full formal recognition deferred.",
+      "God Mode correction: Rhaegar\u2019s stance updated to be more impressed by Visenya presenting Robb and Jon as controlled strategic assets; resistance reduced toward formal writ.",
+      "The Apex Unveiled: King Rhaegar confessed his vision of Visenya as the world-devouring dragon, finally yielding his moral resistance to her methods.",
+      "The King's Counsel: Rhaegar yielded his last reserves of pride, advising Visenya on how to break Aegon and directing her toward the Alchemists' Guild to claim the realm's wildfire.",
+      "The King's Resignation: King Rhaegar accepted Visenya as the 'Apex' and the Sun's end, backing her power as an inevitability while remaining skeptical of her claim to be the world's salvation.",
+      "The Ceremonial Trap: Orchestrated a grand public departure for Aegon, maximizing social pressure and ensuring his inevitable failure in Flea Bottom will be a public catastrophe.",
+      "The Obsession Paradox: Robb and Jon's devotion has turned volatile, with both knights seeking to eliminate perceived variables without direct orders.",
+      "The Usurpation Protocol: Framed Ned Stark as a traitor, declared Robb Warden of the North, and established a marriage pact, securing total court dominance.",
+      "The Blood March: Visenya attempted to break the Riverlands' morale through a hedonistic display of wildfire and 'Static' heat. The attempt narrowly failed, hardening Northern/Riverlands resistance and resulting in a surge of local 'Heat' and physical exhaustion for the Princess.",
+      "The Split: Dispatched Jon Snow as a 'Silent Butcher' to cleanse the Riverlands while leading Robb Stark to the Dreadfort to seal the Bolton alliance.",
+      "The Flayer's Feast: Initiated negotiations with Roose Bolton at the Dreadfort, using the 'Static' and the marriage pact with Robb as primary leverage.",
+      "The Fall of Cerwyn: Orchestrated the betrayal of House Cerwyn. Captured Lord Medger alive while Ramsay Bolton slaughtered the garrison in green fire.",
+      "The Fall of Cerwyn: Visenya forced Robb to interrogate Lord Medger Cerwyn. Robb suffered a psychological breakdown (Nat 1), exposing his agony to his victim.",
+      "The Wildfire Ambush at the Neck failed to eliminate Ned Stark. The Stark vanguard was destroyed, but the main host remained outside the trap, alerted to Visenya's tactics.",
+      "The Frozen Hunger: Visenya utilized Roose Bolton's elite flayers and Jon Snow to burn the Stark supply caches at the Causeway, forcing the host into a terminal starvation variable.",
+      "The Wildfire Cascade: Visenya incinerated the Stark host at the Causeway, effectively deleting House Stark's military power.",
+      "The Fall of the Warden: Eddard Stark was captured and broken at the Causeway, revealing the secret of Lyanna's tomb and Jon's potential lineage.",
+      "The Fall of the North: Forced Ned Stark to abdicate the Wardenship to Robb and legitimize Jon as a Stark at the Causeway.",
+      "The Unspooling of the Mother: Catelyn Stark was psychologically broken in the Great Hall of Winterfell, witnessing the total submission of her husband and sons to Visenya's wildfire.",
+      "The Great Betrayal: Forced Eddard Stark to sign summons for the Umbers and Karstarks, drawing the last Northern loyalists into a wildfire trap.",
+      "The Emerald Wedding: Incinerated the last Northern loyalist houses (Umber and Karstark) in the Great Hall of Winterfell, finalizing the deletion of the Stark power base.",
+      "The Crowning of Jaehaerys: Visenya revealed Jon's true lineage in Lyanna's tomb, crowning him with blue roses and binding him as her King-Consort in the Shadows during the destruction of Winterfell."
+    ],
+    "divine_potential": 0,
+    "rumors": [
+      {
+        "content": "The High Septon has been blinded by the 'Sun-Touched' and now speaks in High Valyrian.",
+        "source_type": "traveler",
+        "accuracy": "partial"
+      },
+      {
+        "content": "They say the 'Young Wolf' has been seen wearing a crown of black silk and burning his own banners.",
+        "source_type": "traveler",
+        "accuracy": "true"
+      },
+      {
+        "content": "The Sun-Touched in the capital are claiming the Princess has already burned the North to ash.",
+        "source_type": "commoner",
+        "accuracy": "true"
+      }
+    ],
+    "attribute_system": "D&D",
+    "social_hp_challenge": {
+      "social_hp": 2,
+      "roll_dc": 22,
+      "cooldown_remaining": 1,
+      "successes": 5,
+      "roll_result": 22,
+      "request_severity": "submission",
+      "npc_tier": "king",
+      "successes_needed": 5,
+      "social_hp_damage": 1,
+      "status": "YIELDING",
+      "resistance_shown": "Ned has collapsed into silent ruin as he watches his family's degradation.",
+      "social_hp_max": 12,
+      "objective": "Force Surrender via Starvation & Pressure",
+      "skill_used": "Persuasion",
+      "npc_name": "Lord Eddard Stark"
+    },
+    "last_story_mode_sequence_id": 96,
+    "faction_minigame": {
+      "tutorial_progress": {},
+      "enabled": true,
+      "tutorial_completed": false,
+      "ranking": 186,
+      "turn_number": 6,
+      "suggestion_given": false,
+      "buildings": {
+        "fortifications": 1
+      },
+      "strong_suggestion_given": true,
+      "units": {
+        "elites": 3,
+        "spies": 2700,
+        "soldiers": 12000,
+        "elite_avg_level": 8.0
+      },
+      "faction_power": 17010,
+      "resources": {
+        "max_citizens": 25000,
+        "citizens": 50000,
+        "gold": 40000,
+        "arcana": 0,
+        "territory": 1000,
+        "max_arcana": 0
+      }
+    },
+    "completed_missions": [
+      "the_silent_informant",
+      "northern_spy_cell_located"
+    ],
+    "character_creation_in_progress": false,
+    "multiverse_upgrade_available": false,
+    "campaign_tier": "mortal",
+    "divine_upgrade_available": false,
+    "universe_control": 0,
+    "world_events": {
+      "capital_status": "Aegon Exiled; Aenys Cult Rising",
+      "northern_status": "House Stark Deletion Complete; Lords in Panic",
+      "background_events": [
+        {
+          "discovery_condition": "Raven from Mullin",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Began fortifying the island against the 'Sun-Touched' riots.",
+          "location": "Dragonstone",
+          "action": "Arrived at Dragonstone",
+          "actor": "Prince Aegon",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Weaver report",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Established a defensive perimeter to block any 'Dragon-Fire' incursions.",
+          "location": "The Westerlands",
+          "action": "Seized the Golden Tooth",
+          "actor": "Tywin Lannister",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Spies vanishing",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "A high-level Faceless Man has taken ship for King's Landing to 'Audit' the Crown's debts.",
+          "location": "Braavos",
+          "action": "Dispatched a 'Liquidator'",
+          "actor": "The Iron Bank",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Scout report",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Howland Reed has ordered a total retreat into the deep bogs, preparing for a guerrilla war against the Sun.",
+          "location": "The Neck",
+          "action": "Abandoned the Causeway",
+          "actor": "The Crannogmen",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Raven from Mullin",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Aegon's hired fleet has begun disembarking, seizing the harbor to 'restore order.'",
+          "location": "The Mud Gate",
+          "action": "Landing at King's Landing",
+          "actor": "The Golden Company",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Bolton Scout report",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Tywin's emissary has sighted the green flares of Winterfell's destruction and halted his approach.",
+          "location": "The Kingsroad",
+          "action": "Approaching Winterfell",
+          "actor": "Lannister Envoy",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Spies vanishing",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "The Faceless Man has identified and 'deleted' the Captain of the Iron Gate, assuming his identity.",
+          "location": "King's Landing",
+          "action": "Infiltration of the Blackguard",
+          "actor": "The Liquidator",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Prophetic vision (Aenys) or scout report",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "The massive wildfire discharge in Winterfell has acted as a biological beacon; the Others have begun the Great Crossing.",
+          "location": "The Land of Always Winter",
+          "action": "Marching South",
+          "actor": "The Night King",
+          "event_type": "long_term"
+        }
+      ],
+      "weather_escalation": "Blizzard - Whiteout Conditions",
+      "aegon_status": "Failing - Flea Bottom Quagmire",
+      "stark_wall_status": "Hardened Defiance - Righteous Fury Active",
+      "stark_wall_location": "The Causeway"
+    }
+  },
+  "social_hp_challenge": {
+    "social_hp": 6,
+    "roll_dc": 20,
+    "cooldown_remaining": 1,
+    "successes": 1,
+    "roll_result": 24,
+    "request_severity": "submission",
+    "npc_tier": "lord",
+    "successes_needed": 5,
+    "social_hp_damage": 2,
+    "status": "WAVERING",
+    "resistance_shown": "Jon is paralyzed by the sudden collapse of his Northern identity.",
+    "social_hp_max": 8,
+    "objective": "Bind Jon as King-Consort in the Shadows",
+    "skill_used": "Persuasion",
+    "npc_name": "Jon Snow"
+  },
+  "combat_state": {
+    "in_combat": false,
+    "current_round": 1,
+    "combat_phase": "ended",
+    "combat_session_id": "combat_1710000000_king",
+    "combatants": {
+      "npc_robb_stark_001": {
+        "hp_current": 68,
+        "hp_max": 68,
+        "status": [],
+        "type": "ally",
+        "role": "Shadow Knight"
+      },
+      "npc_jon_snow_001": {
+        "hp_current": 68,
+        "hp_max": 68,
+        "status": [],
+        "type": "ally",
+        "role": "Shadow Knight"
+      },
+      "npc_bandit_group_001": {
+        "hp_current": 88,
+        "hp_max": 88,
+        "status": [
+          "Hypnotized (8 units)"
+        ],
+        "type": "enemy"
+      },
+      "pc_visenya_001": {
+        "hp_current": 45,
+        "hp_max": 45,
+        "status": [],
+        "type": "pc"
+      }
+    },
+    "combat_summary": {
+      "enemies_defeated": [
+        "npc_bandit_group_001"
+      ],
+      "rounds_fought": 1,
+      "xp_awarded": 1000,
+      "loot_distributed": true
+    }
+  },
+  "last_state_update_timestamp": "2026-04-11 15:46:50.217000+00:00",
+  "turn_number": 40,
+  "player_turn": 40,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "minute": 15,
+    "hour": 21,
+    "time_of_day": "night",
+    "year": 300,
+    "day": 30,
+    "month": "12th Moon"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "",
+    "thinking": "The Sphere is suppressing my power, making this a purely physical fight. Robb and Jon are effectively neutralizing the disciples, but Marwyn is Level 15 and currently undisturbed. My Weaver network is eroding rapidly; if I don't break that Sphere now, the Liquidator will reach me while I am still fragile. The 'Cold' in the walls suggests the Others are phasing closer.",
+    "choices": [
+      {
+        "id": "charge_sphere",
+        "text": "Shatter the Sphere",
+        "risk_level": "high",
+        "description": "Rush Marwyn yourself with Shadow-Stitch while the knights are busy with the disciples."
+      },
+      {
+        "id": "command_assassination",
+        "text": "Order Marwyn's Death",
+        "risk_level": "medium",
+        "description": "Order Jaehaerys to break off from the disciples to kill Marwyn immediately, leaving Robb exposed."
+      },
+      {
+        "id": "psychic_gambit",
+        "text": "Dissonant Whispers (Suppressed)",
+        "risk_level": "high",
+        "description": "Attempt to cast despite the Null-Pulse, hoping your Baelarys blood can force a spark through the void."
+      },
+      {
+        "id": "finish_character_creation_start_game",
+        "text": "Finish Character Creation and Start Game",
+        "risk_level": "safe",
+        "description": "Finalize this character and start the adventure."
+      }
+    ]
+  },
+  "scene_event": {
+    "player_response_required": true,
+    "description": "Frost crystals begin growing in geometric patterns on the blood of the fallen disciples, the temperature dropping to sub-zero.",
+    "urgency": "immediate",
+    "type": "environmental_hazard",
+    "actor": "The Phasing"
+  },
+  "faction_minigame": {
+    "units": {
+      "spies": 2430
+    }
+  },
+  "world_events": {
+    "background_events": [
+      {
+        "discovery_condition": "Intercepted raven",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Sent a secret message to the Iron Bank claiming the 'Blood Dragon' has gone rogue.",
+        "actor": "Prince Aegon",
+        "action": "Siege Prep",
+        "player_impact": "Aegon's military credibility is nearly zero.",
+        "location": "Dragonstone",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Scout report",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Lannister emissary sighted the green wildfire smoke and halted, sending for reinforcements.",
+        "actor": "Tywin Lannister",
+        "action": "Diplomatic Observation",
+        "player_impact": "Lannister awareness of Stark deletion.",
+        "location": "Winterfell Gates",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Spies vanishing",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "The Faceless Man has docked and begun systematic reconnaissance of the Blackguard's officers.",
+        "actor": "The Iron Bank",
+        "action": "Liquidator Arrival",
+        "location": "King's Landing",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Screams from the hall",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Wights emerged from Umber ashes, consuming the Bolton cleanup crew.",
+        "actor": "The Others",
+        "action": "Infiltration",
+        "player_impact": "Castle interior becoming hostile.",
+        "location": "Winterfell Great Hall",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Roose report",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Hunting down Cerwyn and Stark stragglers with his hounds.",
+        "location": "The Wolfswood",
+        "action": "Cleansing",
+        "player_impact": "Securing the rear of the Dreadfort's new lands.",
+        "actor": "Ramsay Bolton",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Seismic tremors",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Magic in the ice began to vibrate in sympathy with the wildfire beacon; structural integrity of the Wall weakened.",
+        "location": "The Wall",
+        "action": "Resonance",
+        "player_impact": "Accelerated terminal variable.",
+        "actor": "The Night King",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Raven from Mullin",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Secured a landing point for the Golden Company, but triggered a 'Trade Freeze' from the city's merchant class.",
+        "actor": "Prince Aegon",
+        "action": "Seized Blackwater Docks",
+        "player_impact": "Aegon's local support is cratering.",
+        "location": "King's Landing",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Weaver interception",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Sent a cipher to Roose Bolton offering a 'Lion's Pact' if the Crown's wildfire assets prove uncontrollable.",
+        "actor": "Tywin Lannister",
+        "action": "Secret Correspondence",
+        "player_impact": "The Flayer's loyalty is being tested by a rival architect.",
+        "location": "Casterly Rock",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Witnessed by court spies",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Named Jaehaerys (Jon) as the 'Prince of the Petals' during a trance, broadcasting his hidden lineage to the Sun-Touched cult.",
+        "actor": "Aenys Targaryen",
+        "action": "Prophetic Proclamation",
+        "player_impact": "The secret of Jon's birth is leaking into the public consciousness.",
+        "location": "Great Sept of Baelor",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Bolton scout report",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "First wight incursions reported on the shores of the Last Hearth; the Northern Wall is being bypassed by sea.",
+        "actor": "The Others",
+        "action": "Great Crossing",
+        "player_impact": "The ultimate variable is no longer theoretical.",
+        "location": "Bay of Seals",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Visual observation of empty posts",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "A battalion of Bolton cross-bowmen quietly abandoned the eastern ramparts, heading toward the Dreadfort without orders.",
+        "actor": "House Bolton",
+        "action": "Strategic Withdrawal",
+        "player_impact": "Visenya's flank is exposed.",
+        "location": "Winterfell Ramparts",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Raven from Mullin",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Aenys ordered the execution of a Maester for 'hiding the Sun's truth' in his books; cultists are carving geometric symbols into their flesh.",
+        "actor": "Aenys Targaryen",
+        "action": "Sun-Touched Purge",
+        "player_impact": "Religious instability increasing in the capital.",
+        "location": "King's Landing",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Weaver interception",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Lannister forces have officially closed the pass, effectively cutting off the Westerlands from the Crown's reach.",
+        "actor": "Tywin Lannister",
+        "action": "Isolationism",
+        "player_impact": "Crown resource access restricted.",
+        "location": "The Golden Tooth",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Prophetic vision (Aenys)",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "The sea has begun to freeze solid in the Bay of Seals, creating a land-bridge for the main Wight host.",
+        "actor": "The Night King",
+        "action": "The Great Crossing",
+        "player_impact": "The terminal variable is accelerating.",
+        "location": "The Shivering Sea",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Morning roll call",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Captain of the Blackguard found dead; command structure fractured.",
+        "location": "Winterfell Barracks",
+        "action": "Assassination",
+        "player_impact": "Loss of military coordination.",
+        "actor": "The Liquidator",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Direct sensory suppression",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "The Void-Sphere's pulse has become a constant, leaden weight; magic within the wing is now completely impossible.",
+        "actor": "Archmaester Marwyn",
+        "action": "Stabilizing Null-Zone",
+        "player_impact": "Visenya remains suppressed.",
+        "location": "Winterfell Guest Wing",
+        "event_type": "immediate"
+      }
+    ]
+  },
+  "action_resolution": {
+    "mechanics": {
+      "rolls": [
+        {
+          "purpose": "Plan Quality Check",
+          "success": false,
+          "dc_reasoning": "Analyzing complex geopolitical variables and family stress lines (Standard DC 12)",
+          "result": 3,
+          "dc": 12,
+          "outcome": "Confused",
+          "notation": "1d20+4",
+          "total": 7
+        }
+      ],
+      "type": "skill_check"
+    },
+    "reinterpreted": false,
+    "audit_flags": []
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Visenya"
+    ]
+  },
+  "rumors": [
+    {
+      "content": "The Young Wolf has become a green-eyed demon who eats the hearts of his own lords.",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "They say the Blood Dragon has eaten the heart of the Warden of the North and now breathes green fire.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "They say the Archmaesters have found a way to catch the Dragon's breath in a jar of lead.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Citadel has found the 'Anti-Dragon' metal.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "They say the Archmaester has brought a piece of the moon down to earth to swallow the Dragon's fire.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The High Septon has declared the North a 'Holy Void' where the Sun's laws do not apply.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "They say the Archmaester's Sphere can turn a dragon's heart into lead.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Void-Sphere can turn a dragon's heart into lead.",
+      "source_type": "guard",
+      "accuracy": "true"
+    }
+  ],
+  "schema_migration_version": 1,
+  "complications": {
+    "source": "Audit Protocol",
+    "description": "The Liquidator has intercepted your Weaver comms; 10% of your spies have been 'deleted.'",
+    "severity": "significant",
+    "triggered": true,
+    "type": "information_leak"
+  },
+  "time_events": {
+    "Winterfell_Collapse": {
+      "time_remaining": "1 hour 55 minutes",
+      "status": "ongoing",
+      "changes_this_turn": "Structural stress from wildfire increasing.",
+      "new_consequences": "Null-Zone from Marwyn prevents magical stabilization."
+    }
+  },
+  "schema_migrated_at": "2026-03-01T09:41:43.095316+00:00",
+  "session_id": "legacy-migrated-ec0babf58591c1d1",
+  "companion_arcs": {
+    "robb_stark_shattered_compass": {
+      "phase": "The Lie Manifest",
+      "history": [
+        "Visenya orchestrated the ambush on the Kingsroad, ensuring the death of all Stark guards while appearing to attempt their rescue.",
+        "Visenya successfully used the trauma of the ambush to shift blame onto her own 'feminine weakness,' cementing Robb's protective guilt."
+      ]
+    }
+  },
+  "faction_updates": {
+    "The Weavers": {
+      "resource_change": "-177 units (Liquidator cull)",
+      "player_standing_change": "Terrified",
+      "progress": "Eroding",
+      "next_action": "Going dark",
+      "current_objective": "Survival"
+    },
+    "The Golden Company": {
+      "resource_change": "-500 sellswords (attrition)",
+      "player_standing_change": "Hostile",
+      "progress": "Medium - Docks secured.",
+      "next_action": "March on the Great Sept",
+      "current_objective": "Restoring Order"
+    },
+    "House Bolton": {
+      "resource_change": "-2,000 units (departure)",
+      "player_standing_change": "Calculated/Wary",
+      "progress": "Withdrawing to Dreadfort",
+      "next_action": "Fortifying Cerwyn borders against Targaryen fire.",
+      "current_objective": "Consolidation of the North"
+    }
+  }
+}

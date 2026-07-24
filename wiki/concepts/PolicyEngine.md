@@ -37,6 +37,6 @@ A policy engine is a runtime *mechanism* for evaluating constraints. The governa
 
 ## See Also
 - [OPA](../entities/OPA.md)
-- [Rego](../entities/Rego.md)
+- [Rego](../entities/rego.md)
 - [GovernanceLayer](GovernanceLayer.md)
 - [ConstitutionalAI](ConstitutionalAI.md)

@@ -13,3 +13,6 @@ AI-powered tabletop RPG game master platform that uses Gemini for story generati
 - [[Game State Management Protocol]] — state handling
 - [[Faction & Army Management System]] — faction minigame
 - [[Living World Protocol]] — living world events
+
+## Connections
+- [Doc-stated safety policy must be code-enforced (2026-07-17)](../sources/feedback-2026-07-17-doc-stated-policy-must-be-code-enforced.md) — repo's `.claude/skills/ezgha-watchdog/` skill's stated "fail-closed" policy wasn't code-enforced until PR #8393; entity [[EzGhaDaemon]]

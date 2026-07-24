@@ -31,4 +31,4 @@ Uses `startswith()` check to detect embedded placeholders within prose text, ens
 
 ## Related
 - [NarrativeResponseSchema](NarrativeResponseSchema.md) — response schema
-- [GODMode](GODMode.md) — god mode functionality
+- [GODMode](GodMode.md) — god mode functionality

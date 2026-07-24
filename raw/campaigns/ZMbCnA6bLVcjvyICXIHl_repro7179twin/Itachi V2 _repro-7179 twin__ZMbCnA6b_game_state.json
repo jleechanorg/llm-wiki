@@ -1,0 +1,3003 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "cantrips": [
+      {
+        "name": "Fire Style: Small Fireball",
+        "description": "Produce Flame variant",
+        "level": 0
+      },
+      {
+        "name": "Genjutsu: Sharingan Illusion",
+        "description": "Minor Illusion variant",
+        "level": 0
+      },
+      {
+        "level": 0,
+        "description": "Message variant",
+        "name": "Summoning: Crow Messenger"
+      }
+    ],
+    "skill_proficiencies": {
+      "expertise": [
+        "Stealth",
+        "Perception",
+        "Insight",
+        "Investigation",
+        "Acrobatics",
+        "Acrobatics"
+      ],
+      "proficiencies": [
+        "Stealth",
+        "Perception",
+        "Acrobatics",
+        "Insight",
+        "Athletics"
+      ]
+    },
+    "class_name": "Shinobi (Triple Gestalt: Assassin / Gloomstalker / Bladesinger)",
+    "relationships": {
+      "Izumi Uchiha": {
+        "disposition": "bonded",
+        "status": "Married",
+        "trust_level": 8,
+        "history": [
+          "Married Itachi in Year 61 DR.",
+          "Reached Level 8 under Itachi's tutelage."
+        ]
+      }
+    },
+    "display_name": "Uchiha Itachi (The Primordial Sage)",
+    "race": "Uchiha",
+    "resources": {
+      "gold": 16500,
+      "class_features": {
+        "kotoamatsukami": {
+          "used": 0,
+          "max": 1,
+          "recovery": "long_rest"
+        },
+        "bladesong_uses": {
+          "used": 0,
+          "max": 6,
+          "recovery": "long_rest"
+        },
+        "mangekyou_clarity": {
+          "used": 0,
+          "notes": "Exhaustion only applies on the 5th+ use per Long Rest.",
+          "max": 6,
+          "recovery": "long_rest"
+        },
+        "six_paths_chakra": {
+          "current": 6,
+          "used": 0,
+          "max": 6,
+          "recovery": "long_rest"
+        },
+        "stroke_of_luck_used": true
+      },
+      "mangekyou_clarity": {
+        "used": 0,
+        "max": 5
+      },
+      "spell_slots": {
+        "level_7": {
+          "used": 0,
+          "current": "Infinite",
+          "max": "Infinite"
+        },
+        "level_9": {
+          "current": "Infinite",
+          "used": 0,
+          "max": "Infinite"
+        },
+        "level_10": {
+          "used": 0,
+          "current": "Infinite",
+          "max": "Infinite"
+        },
+        "level_5": {
+          "used": 0,
+          "current": "Infinite",
+          "max": "Infinite"
+        },
+        "level_1": {
+          "current": "Infinite",
+          "used": 0,
+          "max": "Infinite"
+        },
+        "level_12": {
+          "used": 0,
+          "max": 1
+        },
+        "level_6": {
+          "current": "Infinite",
+          "used": 0,
+          "max": "Infinite"
+        },
+        "level_2": {
+          "used": 0,
+          "current": "Infinite",
+          "max": "Infinite"
+        },
+        "level_4": {
+          "used": 0,
+          "current": "Infinite",
+          "max": "Infinite"
+        },
+        "level_8": {
+          "used": 0,
+          "current": "Infinite",
+          "max": "Infinite"
+        },
+        "level_11": {
+          "used": 0,
+          "max": 2
+        },
+        "level_3": {
+          "used": 0,
+          "current": "Infinite",
+          "max": "Infinite"
+        }
+      },
+      "exhaustion_level": 0,
+      "hit_dice_current": 5
+    },
+    "experience": {
+      "to_next_level": 25000,
+      "current": 1080000,
+      "needed_for_next_level": 1105000
+    },
+    "base_attributes": {
+      "strength": 10,
+      "intelligence": 50,
+      "dexterity": 46,
+      "wisdom": 46,
+      "charisma": 14,
+      "constitution": 36
+    },
+    "features": [
+      "Extra Attack",
+      "Sneak Attack (9d6)",
+      "Assassinate",
+      "Dread Ambusher",
+      "Umbral Sight",
+      "Uncanny Dodge",
+      "Cunning Action",
+      "3-Tomoe Sharingan",
+      "Expertise (Stealth, Perception, Insight, Investigation, Acrobatics)",
+      "Fighting Style: Dueling",
+      "Insightful Defense",
+      "Technique Copy",
+      "Roving (+5ft speed, climb/swim)",
+      "Favored Enemy: Humanoids",
+      "Mangekyou Sharingan (Awakened)",
+      "Evasion",
+      "Iron Mind (CHA Saves)",
+      "Mangekyou Jutsu: Tsukuyomi & Amaterasu",
+      "Reliable Talent",
+      "Stalker's Flurry",
+      "Eternal Mangekyou Sharingan (Vision decay halted)",
+      "Susanoo (Armored Form - Complete Body: Flight Speed 60ft, +9 AC Bonus)",
+      "Ocular Sovereignty (Truesight 120ft)",
+      "Yasaka Magatama (15d10 Force AOE)",
+      "Chakra Harmonization (1 free spell/Short Rest)",
+      "Kotoamatsukami (1/Long Rest - No Save Memory Rewrite)",
+      "Blaze Release: Kagutsuchi (Shape Amaterasu into weapons/shields)",
+      "Totsuka Blade Mastery (Permanent Soul Sealing)",
+      "Yata Mirror Mastery (Reaction: Absolute Damage Negation)",
+      "Slippery Mind (WIS Save Proficiency)",
+      "Shadowy Dodge",
+      "Blindsense (10ft)",
+      "Death Strike (Assassin 17)",
+      "Silent Killing Mastery (Blindsight 30ft)",
+      "Rinnegan Awakened (Six Paths Access)",
+      "Rinnegan Sovereignty (Passive) - Perceptive Omniscience: 1 mile; Immunity to Genjutsu/Blindness",
+      "Bladesong of the Sage (Always Active) - +6 AC, +10ft speed, +6 Concentration bonus",
+      "Song of Victory - +6 to melee damage",
+      "Elusive (Rogue 18) - No attack has advantage against you while you aren't incapacitated.",
+      "Feral Senses (Ranger 18) - You know the location of invisible creatures within 30ft; no disadvantage against unseen targets.",
+      "Spell Mastery (Sage Efficiency) - You can cast 'Substitution Technique' (Shield) and 'Body Flicker: Offensive' (Zephyr Strike) at-will.",
+      "Sneak Attack (10d6)",
+      "Unbound Ocular Mastery (5 Charges)",
+      "Rinne-Sharingan Awakened (Tier 4 Ocular Sovereignty)",
+      "Infinite Tsukuyomi (1/Year)",
+      "Amenominaka (Space-Time Manipulation)",
+      "Stroke of Luck (1/Short Rest)",
+      "Foe Slayer (+4 WIS to Atk/Dmg)",
+      "Signature Spells: Shield & Fireball (3rd Level, 1/Short Rest free)",
+      "Ocular Zenith: 6 Clarity Charges",
+      "Universal Jutsu Mastery: Access to all Wizard Spells and non-Kekkei Genkai Jutsu",
+      "Primordial Tier: Sage of Six Paths",
+      "Limbo: Border Jail (4 Shadows Active)",
+      "Truth-Seeker Orbs (9 Orbs Active)",
+      "Infinite Izanagi/Izanami (Vision Decay Negated)",
+      "Amenominaka (Universal Dimension Shift)",
+      "Sneak Attack (15d6)",
+      "Intelligence Mastery: 30 (+10)",
+      "AC 33 (Passive Bladesong + Primordial Speed)",
+      "Ocular Sovereignty: Infinite Truesight"
+    ],
+    "level": 34,
+    "knowledge": [
+      "The Eternal Mangekyou transplant requires a precise 'Harmonic Frequency' chakra synchronization to prevent neurological rejection.",
+      "The Rinnegan requires a long incubation period or a direct infusion of Asura-descendant chakra to awaken.",
+      "Mist Navy 'Ice-Breaker' fleet is 92% mobilized at the Whispering Reef.",
+      "Stone Deserter logistical codes: The Stone is preparing a 'Tectonic Shifting' defense along the northwestern border."
+    ],
+    "age": 32,
+    "health": {
+      "hp_max": 1050,
+      "hp": 1050
+    },
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        },
+        {
+          "equipped": false,
+          "name": "ANBU Mask"
+        },
+        {
+          "equipped": false,
+          "name": "Shinobi Wire"
+        },
+        {
+          "equipped": false,
+          "name": "Smoke Bombs (x3)"
+        }
+      ],
+      "off_hand": {
+        "name": "Sovereign Blade: Samehada's Legacy (+10)",
+        "equipped": true,
+        "stats": "+10 to hit/damage, Finesse, Light; +2d10 Necrotic damage (Life Drain); Masked as +3",
+        "type": "weapon",
+        "damage": "1d6+15"
+      },
+      "main_hand": {
+        "name": "Sovereign Blade: Kagutsuchi's Edge (+10)",
+        "equipped": true,
+        "stats": "+10 to hit/damage, Finesse, Light; +4d10 Fire damage (Kagutsuchi); Masked as +3",
+        "type": "weapon",
+        "damage": "1d6+15"
+      },
+      "body": {
+        "equipped": true,
+        "stats": "Base AC 22 (12+10); Masked as +3 (Base AC 15). Total True AC: 40. Reskinned from ANBU Flak Jacket.",
+        "type": "armor",
+        "armor_class": 15,
+        "name": "Sovereign Uchiha Cloak (+10)"
+      },
+      "ranged": {
+        "name": "Kunai & Shuriken +10",
+        "equipped": true,
+        "stats": "+10 to attack and damage rolls; Masked as +3",
+        "type": "weapon",
+        "damage": "1d4+8"
+      }
+    },
+    "stats": {
+      "intelligence": 50,
+      "dexterity": 46,
+      "wisdom": 46,
+      "constitution": 36
+    },
+    "mbti": "INFJ (The Stoic Protector)",
+    "attributes": {
+      "strength": 10,
+      "intelligence": 50,
+      "dexterity": 46,
+      "wisdom": 46,
+      "charisma": 14,
+      "constitution": 36
+    },
+    "hit_dice_current": 11,
+    "ac": 40,
+    "alignment": "Lawful Neutral (Lore-Calibrated)",
+    "spells_known": [
+      {
+        "name": "Fire Style: Burning Petals",
+        "description": "Burning Hands variant",
+        "level": 1
+      },
+      {
+        "level": 1,
+        "description": "Zephyr Strike variant",
+        "name": "Body Flicker: Offensive"
+      },
+      {
+        "name": "Sharingan Tracking",
+        "description": "Hunter's Mark variant",
+        "level": 1
+      },
+      {
+        "level": 1,
+        "description": "Shield variant",
+        "name": "Substitution Technique"
+      },
+      {
+        "level": 2,
+        "description": "Uchiha Shrouding",
+        "name": "Pass Without Trace"
+      },
+      {
+        "level": 2,
+        "description": "Misty Step variant",
+        "name": "Body Flicker: Greater"
+      },
+      {
+        "level": 2,
+        "description": "Mirror Image variant",
+        "name": "Genjutsu: Crow Clone"
+      },
+      {
+        "level": 2,
+        "description": "Scorching Ray variant",
+        "name": "Fire Style: Phoenix Sage Fire"
+      },
+      {
+        "level": 3,
+        "description": "Fireball variant",
+        "name": "Fire Style: Great Fireball Technique"
+      },
+      {
+        "name": "Kunai Barrage",
+        "description": "Conjure Barrage variant",
+        "level": 3
+      },
+      {
+        "name": "Genjutsu: False Surroundings",
+        "description": "Fear variant",
+        "level": 3
+      },
+      {
+        "level": 3,
+        "description": "Nondetection variant",
+        "name": "Chakra Concealment"
+      },
+      {
+        "level": 4,
+        "description": "Greater Invisibility variant - stay hidden even while striking.",
+        "name": "Genjutsu: Ephemeral"
+      },
+      {
+        "name": "Fire Style: Dragon Fire Technique",
+        "description": "Fire Shield/Wall of Fire variant - high-intensity Uchiha flames.",
+        "level": 4
+      },
+      {
+        "level": 4,
+        "description": "Freedom of Movement variant - absolute mobility.",
+        "name": "Body Flicker: Swift Escape"
+      },
+      {
+        "level": 5,
+        "description": "Steel Wind Strike variant - Strike 5 targets with blinding speed and necrotic chakra.",
+        "name": "Genjutsu: Bringer of Darkness"
+      },
+      {
+        "level": 5,
+        "description": "Flame Strike variant - A vertical pillar of high-intensity Uchiha fire.",
+        "name": "Fire Style: Chanting Cloud Enceladus"
+      },
+      {
+        "name": "Water Style: Water Dragon Bullet",
+        "description": "A massive dragon of water that strikes for 8d6 cold/bludgeoning damage.",
+        "level": 3
+      },
+      {
+        "level": 4,
+        "description": "A spinning vortex that pulls enemies in and deals 10d6 cold damage.",
+        "name": "Water Style: Giant Vortex"
+      },
+      {
+        "name": "Hidden Mist Jutsu",
+        "description": "Creates a 60ft radius of magical fog that heavily obscures the area.",
+        "level": 2
+      },
+      {
+        "name": "Six Paths: Chibaku Tensei",
+        "description": "Create a gravitational core that pulls all enemies and debris into a massive sphere, dealing 40d6 force damage.",
+        "level": 9
+      },
+      {
+        "level": 8,
+        "description": "Summon the King of Hell to interrogate or restore life; creates an aura of absolute silence and antimagic.",
+        "name": "Rinnegan: Outer Path - King of Hell"
+      },
+      {
+        "name": "Six Paths: Creation of All Things",
+        "description": "Manifest any object or duplicate any sub-10th level spell.",
+        "level": 10
+      },
+      {
+        "level": 11,
+        "description": "True Resurrection on a continental scale.",
+        "name": "Outer Path: Samsara of Heavenly Life (Mass)"
+      },
+      {
+        "level": 12,
+        "description": "Dimensional Erasure; destroys and recreates the target dimension.",
+        "name": "Expansive Truth-Seeker Orb"
+      }
+    ],
+    "name": "Uchiha Itachi",
+    "hp_max": 1050,
+    "hp_current": 1050,
+    "inventory": [
+      {
+        "description": "Stolen Konoha defensive data.",
+        "type": "quest_item",
+        "name": "Stolen Reconnaissance Scroll"
+      },
+      {
+        "name": "Riptide's Serrated Tanto",
+        "type": "weapon",
+        "properties": [
+          "finesse",
+          "light"
+        ],
+        "damage": "1d6+1 piercing"
+      },
+      {
+        "delta_action": "remove",
+        "name": "Stolen Reconnaissance Scroll"
+      },
+      {
+        "description": "The matured Sharingan of Shisui Uchiha. Required for the Eternal Mangekyou state.",
+        "type": "relic",
+        "name": "Shisui's Left Eye"
+      },
+      {
+        "description": "The first eye secured for the Eternal Mangekyou.",
+        "type": "relic",
+        "name": "Shisui's Right Eye"
+      },
+      {
+        "delta_action": "remove",
+        "name": "Shisui's Left Eye"
+      },
+      {
+        "delta_action": "remove",
+        "name": "Shisui's Right Eye"
+      },
+      {
+        "description": "Both eyes of Shisui Uchiha, preserved in a temporal stasis seal. Ready for Eternal Mangekyou transplant once conditions are met.",
+        "type": "relic",
+        "name": "Shisui's Eyes (Stasis-Sealed)"
+      },
+      {
+        "description": "Living sword that eats chakra. Inert/Stored in stasis vault.",
+        "stats": "Sentient, consumes 10 Chakra points per strike.",
+        "type": "relic",
+        "name": "Samehada (The Greatsword)"
+      },
+      {
+        "description": "Complete library of Kirigakure's forbidden arts.",
+        "type": "item",
+        "name": "Hidden Mist Sealing Scrolls"
+      },
+      {
+        "delta_action": "remove",
+        "name": "Samehada (The Greatsword)"
+      },
+      {
+        "damage": "1d6+13",
+        "equipped": true,
+        "stats": "+4 attack/damage; 4d10 fire damage (Kagutsuchi)",
+        "type": "weapon",
+        "name": "Sovereign Blade: Kagutsuchi's Edge (+4)"
+      },
+      {
+        "name": "Otsutsuki Chakra Receivers (x3)"
+      },
+      {
+        "name": "Spatial Gateway Scroll"
+      },
+      {
+        "description": "A collection of weapons and spatial tools harvested from the Otsutsuki leadership.",
+        "type": "relic",
+        "name": "Otsutsuki God-Tier Artifacts"
+      },
+      {
+        "description": "High-frequency chakra conductors used by the Otsutsuki branch.",
+        "type": "item",
+        "name": "Black Chakra Receivers (Mass)"
+      }
+    ],
+    "proficiency_bonus": 14,
+    "active_effects": [
+      "Chakra Masking: Perceived as Level 15 Uchiha Jonin"
+    ],
+    "recent_decisions": [
+      "Maintained the 'False Tail' myth for 4 years.",
+      "Honored Fugaku's natural death and assisted Tsunade's administration.",
+      "Confronted the insane Gantz in the garden to protect the domestic peace."
+    ]
+  },
+  "world_data": {
+    "current_location_name": "Uchiha Estate - Garden",
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 45,
+      "hour": 2,
+      "time_of_day": "deep night",
+      "year": 75,
+      "day": 15,
+      "month": "Winter"
+    },
+    "world_events": {
+      "rumors": [
+        {
+          "turn_generated": 221,
+          "content": "Word from the border is that the Uchiha 'miracle worker' is actually a bedridden invalid who used up his life force ten years ago.",
+          "source_type": "guard",
+          "accuracy": "false"
+        }
+      ]
+    }
+  },
+  "npc_data": {
+    "Gantz the Unmoving": {
+      "attitude_to_party": "devoted",
+      "display_name": "Gantz the Unmoving",
+      "entity_id": "npc_gantz_001",
+      "status": "normal",
+      "tier": "king_ancient",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 2,
+          "history": [
+            "Chased the 'myth' of Itachi for a decade.",
+            "Attempted a suicide mission on the Uchiha Estate.",
+            "Received a Primordial apology and offer of mentorship."
+          ]
+        }
+      },
+      "level": 20
+    },
+    "Root Agent 003": {
+      "hp_current": 2,
+      "status": "Captured/Paralyzed/Stable"
+    },
+    "Jonin Tora": {
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 4,
+          "history": [
+            "Led the assault on Titan's Rib and accepted Itachi as a Level 15 master."
+          ]
+        }
+      }
+    },
+    "Jonin Kuma": {
+      "attitude_to_party": "antagonistic",
+      "entity_id": "npc_kuma_001",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -5,
+          "history": [
+            "Publicly insulted Itachi at the Academy.",
+            "Felt the pressure of Itachi's passive power."
+          ]
+        }
+      },
+      "role": "Sarutobi Remnant / Jonin",
+      "tier": "guard"
+    },
+    "Commander_Eagle": {
+      "attitude_to_party": "neutral",
+      "tier": "general",
+      "entity_type": "npc",
+      "display_name": "Commander Eagle",
+      "role": "ANBU Squad Leader",
+      "level": 10
+    },
+    "Uchiha Izumi": {
+      "attitude_to_party": "devoted",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 8,
+          "history": [
+            "Grew up together in the district",
+            "Spent the last six months in domestic courtship",
+            "Unaware of Itachi's true power"
+          ]
+        }
+      },
+      "entity_id": "npc_izumi_001",
+      "display_name": "Izumi Uchiha",
+      "role": "Kunoichi / Romantic Interest",
+      "level": 5
+    },
+    "Jonin Kaito": {
+      "attitude_to_party": "antagonistic",
+      "hp_current": 95,
+      "entity_id": "npc_kaito_001",
+      "tier": "noble",
+      "hp_max": 95,
+      "role": "Mission Commander / Arrogant Jonin",
+      "level": 11
+    },
+    "Izumi Uchiha": {
+      "status": "conscious",
+      "features": [
+        "Mangekyou Sharingan (Clean Awakening)",
+        "Surgical Ocular Precision"
+      ],
+      "tier": "king_ancient",
+      "history": [
+        "Awakened Mangekyou Sharingan at Age 18 under Itachi's guidance."
+      ],
+      "level": 20,
+      "age": 32,
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Married Itachi in Year 61 DR.",
+            "Reached Level 8 under Itachi's tutelage.",
+            "Delegated the Whispering Reef blockade mission."
+          ]
+        }
+      },
+      "health": {
+        "hp": 49
+      }
+    },
+    "Uchiha Sasuke": {
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Three years of direct mentorship under the 'Black Sun'."
+          ]
+        }
+      },
+      "hp_current": 45,
+      "entity_id": "npc_sasuke_001",
+      "status": "conscious",
+      "hp_max": 45,
+      "role": "Academy Prodigy / Brother",
+      "level": 6
+    },
+    "Tekka Uchiha": {
+      "status": "peak_3_tomoe",
+      "level": 10
+    },
+    "Yashiro Uchiha": {
+      "level": 10,
+      "status": "peak_3_tomoe",
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 5,
+          "history": [
+            "Witnessed the execution of Aburame Tatsuma.",
+            "Submitted to Itachi's authority after the EMS revelation.",
+            "Reached peak physical and ocular capacity after 3 months of S-Rank training."
+          ]
+        }
+      },
+      "equipment": {
+        "main_hand": {
+          "equipped": true,
+          "name": "Sovereign Blade: Surgical Shadow (+4)"
+        }
+      }
+    },
+    "Sasuke Uchiha": {
+      "status": "conscious",
+      "features": [
+        "3-Tomoe Sharingan Awakened",
+        "Mangekyou Sharingan (Clean Awakening)",
+        "Mastery of Sapphire Steel"
+      ],
+      "tier": "king_ancient",
+      "history": [
+        "Awakened Mangekyou Sharingan at Age 18 under Itachi's guidance."
+      ],
+      "level": 20,
+      "age": 32,
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Married Itachi in Year 61 DR.",
+            "Reached Level 8 under Itachi's tutelage.",
+            "Delegated the Whispering Reef blockade mission."
+          ]
+        }
+      },
+      "health": {
+        "hp": 97
+      }
+    },
+    "Jiraiya": {
+      "attitude_to_party": "hostile",
+      "entity_id": "npc_jiraiya_001",
+      "relationships": {
+        "player": {
+          "trust_level": -5,
+          "history": [
+            "Returned to find Itachi's imperial order."
+          ]
+        }
+      },
+      "tier": "lord_general",
+      "level": 15
+    },
+    "Hiro Uchiha": {
+      "role": "Jonin / Dual Inheritor",
+      "entity_id": "npc_hiro_001",
+      "display_name": "Hiro Uchiha",
+      "status_conditions": [
+        "Insecurity Mitigated"
+      ],
+      "race": "Half-God Uchiha",
+      "experience": {
+        "to_next_level": 14000,
+        "current": 26000
+      },
+      "status": "conscious",
+      "features": [
+        "3-Tomoe Sharingan (Matured)",
+        "3-Tomoe Sharingan",
+        "Primordial Spark (Flickering)",
+        "3-Tomoe Maturity",
+        "Primordial Spark (Active)",
+        "Jonin Rank",
+        "Primordial Spark (Stabilized)"
+      ],
+      "tier": "noble",
+      "level_cap": 25,
+      "level": 15,
+      "hp_current": 115,
+      "age": 13,
+      "knowledge": [
+        "Matured the Sharingan through high-intensity tactical drills."
+      ],
+      "health": {
+        "hp_max": 115,
+        "hp": 48
+      },
+      "active_effects": [
+        "Primordial Spark: Latent power activated",
+        "Legacy Acceptance: Immune to inferiority-based morale penalties"
+      ],
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Reached Level 12 through bloody border struggle.",
+            "Bonded with his father over the 'tactician' secret."
+          ]
+        }
+      }
+    },
+    "Root Agent 009": {
+      "status": "Captured/Paralyzed"
+    },
+    "Root Agent 010": {
+      "status": "Captured/Paralyzed"
+    },
+    "Owl": {
+      "attitude_to_party": "neutral",
+      "role": "ANBU Infiltrator",
+      "entity_type": "npc",
+      "tier": "guard",
+      "display_name": "Owl",
+      "level": 5
+    },
+    "Aburame Tatsuma": {
+      "name": "Aburame Tatsuma"
+    },
+    "Mikoto Uchiha": {
+      "attitude_to_party": "friendly",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 7,
+          "history": [
+            "Witnessed Itachi's sovereign ascension at the banquet"
+          ]
+        }
+      },
+      "tier": "commoner"
+    },
+    "npc_danzo_001": {
+      "status": "dead",
+      "health": {
+        "hp": 0
+      }
+    },
+    "Hozuki Specialist": {
+      "status": "conscious",
+      "health": {
+        "conditions": [
+          "paralyzed",
+          "bound",
+          "captured"
+        ]
+      }
+    },
+    "Kakashi Hatake": {
+      "attitude_to_party": "antagonistic",
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 5,
+          "history": [
+            "Serves as the public face of Itachi's surgical architecture."
+          ]
+        }
+      },
+      "entity_id": "npc_kakashi_001",
+      "status": "conscious",
+      "tier": "general",
+      "role": "ANBU Commander",
+      "level": 14
+    },
+    "Ren": {
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 6,
+          "history": [
+            "Witnessed the 'anomaly' of Itachi's true power but chose to remain silent to preserve the peace."
+          ]
+        }
+      }
+    },
+    "Inabi Uchiha": {
+      "status": "peak_3_tomoe",
+      "level": 10
+    },
+    "Fugaku Uchiha": {
+      "level": 17,
+      "name": "Fugaku Uchiha",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 9,
+          "history": [
+            "Agreed to deploy Sasuke and Izumi on high-tier border missions."
+          ]
+        }
+      },
+      "equipment": {
+        "main_hand": {
+          "equipped": true,
+          "stats": "+4 to hit/damage",
+          "name": "Sovereign Blade: Eternal Duty (+4)"
+        }
+      }
+    },
+    "Sayuri Uchiha": {
+      "health": {
+        "hp_max": 130,
+        "hp": 77
+      },
+      "entity_id": "npc_sayuri_001",
+      "display_name": "Sayuri Uchiha",
+      "race": "Half-God Uchiha",
+      "status_conditions": [
+        "Insecurity Mitigated"
+      ],
+      "experience": {
+        "current": 33000,
+        "to_next_level": 15000
+      },
+      "level_cap": 25,
+      "features": [
+        "3-Tomoe Sharingan (Matured)",
+        "3-Tomoe Sharingan",
+        "Primordial Spark (Flickering)",
+        "3-Tomoe Maturity",
+        "Primordial Spark (Active)",
+        "Jonin Rank",
+        "Primordial Spark (Stabilized)"
+      ],
+      "tier": "noble",
+      "status": "conscious",
+      "level": 16,
+      "hp_current": 130,
+      "age": 14,
+      "knowledge": [
+        "Matured the Sharingan through consistent high-tier training under the Sage."
+      ],
+      "role": "Jonin / Dual Inheritor",
+      "active_effects": [
+        "Primordial Spark: Latent power activated",
+        "Legacy Acceptance: Immune to inferiority-based morale penalties"
+      ],
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Reached Level 13 during the Winter campaign.",
+            "Accepted the 'anomaly' truth of her father."
+          ]
+        }
+      }
+    },
+    "Tsunade": {
+      "attitude_to_party": "hostile",
+      "tier": "king",
+      "entity_id": "npc_tsunade_001",
+      "relationships": {
+        "player": {
+          "trust_level": -4,
+          "history": [
+            "Witnessed the Uchiha consolidation."
+          ]
+        }
+      },
+      "role": "Hokage",
+      "level": 14
+    },
+    "Root Agent 002": {
+      "hp_current": 19,
+      "status": "Captured/Paralyzed"
+    },
+    "Raikage A": {
+      "hp_current": 104,
+      "status": "unconscious",
+      "health": {
+        "hp": 104
+      }
+    },
+    "Otsutsuki Vassals": {
+      "attitude_to_party": "devoted",
+      "entity_id": "npc_otsutsuki_vassals_group",
+      "status": "Mind-Slaved (Itachi Frequency)",
+      "hp_max": 15,
+      "display_name": "Otsutsuki Vassals",
+      "level": 3,
+      "tier": "merchant",
+      "hp_current": 15,
+      "role": "Laborers/Surgical Assistants"
+    },
+    "Mizukage Mangetsu": {
+      "role": "Mizukage / Insurgent Leader",
+      "status": "conscious",
+      "entity_type": "npc",
+      "tier": "king",
+      "display_name": "Hozuki Mangetsu",
+      "level": 18
+    },
+    "Hana": {
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 6
+        }
+      }
+    },
+    "The Otsutsuki Clan": {
+      "status": "Mind-slave / Motionless",
+      "relationships": {
+        "Itachi": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Conquered and mind-rewritten by the Primordial Sage in Year 62 DR."
+          ]
+        }
+      }
+    },
+    "Tiger": {
+      "attitude_to_party": "antagonistic",
+      "tier": "guard",
+      "relationships": {
+        "player": {
+          "trust_level": -2,
+          "history": [
+            "Expressed vocal doubt about Itachi's age and capability upon first meeting."
+          ]
+        }
+      },
+      "entity_type": "npc",
+      "role": "ANBU Veteran",
+      "display_name": "Tiger",
+      "level": 6
+    },
+    "Shisui Uchiha": {
+      "entity_id": "npc_shisui_001",
+      "status": "dead",
+      "tier": "knight",
+      "display_name": "Shisui Uchiha",
+      "level": 7,
+      "health": {
+        "hp": 0
+      },
+      "role": "ANBU Mentor / Kinsman",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 9,
+          "history": [
+            "Itachi 'exposed' the Root sensor",
+            "Itachi followed Shisui to the Hokage meeting",
+            "Itachi provided the only comfort after Hiruzen's failure"
+          ]
+        }
+      }
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "companion_arcs": {
+      "Shisui Uchiha": {
+        "progress": 35,
+        "arc_type": "homeland_crisis",
+        "phase": "development",
+        "history": [
+          {
+            "event": "The Uchiha crisis was surgically bypassed by Itachi's ascension to the Source, ensuring Shisui's legacy is one of a peaceful, imperial dawn rather than tragedy.",
+            "turn": 183
+          }
+        ],
+        "callbacks": [
+          {
+            "trigger": "During a long rest or after the mission",
+            "effect": "Itachi deciphers the full weight of the clan's coup planning.",
+            "triggered": false
+          }
+        ]
+      }
+    },
+    "sanctuary_mode": {
+      "original_scale": "medium",
+      "expired": true,
+      "scale": "medium",
+      "expires_turn": 266,
+      "active": true,
+      "arc": "The Architect's Silence",
+      "activated_turn": 258,
+      "expired_turn": 42
+    },
+    "active_missions": [
+      {
+        "title": "The Mist's Last Stand",
+        "status": "active",
+        "objective": "Prevent the Seven Swordsmen from reaching the Dual Inheritors.",
+        "mission_id": "mist_insurgency_final"
+      }
+    ],
+    "character_creation_completed": true,
+    "_agent_selection_tracker": {
+      "count": 5,
+      "rewards_skip_count": 4,
+      "agent": "HeavyDialogAgent"
+    },
+    "reputation": {
+      "public": {
+        "score": -10,
+        "titles": [
+          "Commander of the Shadows",
+          "The Unmasked Sage"
+        ],
+        "notoriety_level": "disreputable",
+        "known_deeds": [
+          "Authored the Withdrawal from the Land of Water",
+          "Accepted blame for the Leaf's economic strain",
+          "Mentored the youngest Jonin in Leaf history"
+        ]
+      }
+    },
+    "player_character_data_extras": {
+      "class_features": {
+        "stroke_of_luck_used": true
+      },
+      "masked_level": 15,
+      "custom_campaign_state": {
+        "core_memories": [
+          "Itachi established the 'New Order' philosophy, pivoting the Uchiha from a state of rebellion to one of enlightened sovereignty, with the goal of Fugaku becoming Hokage through a peaceful transition."
+        ]
+      }
+    },
+    "last_location": "Uchiha Estate - Garden",
+    "last_complication_turn": 118,
+    "core_memories": [
+      "The campaign begins during the Itachi Gaiden arc, following Uchiha Itachi's entry into the ANBU Black Ops during a time of rising tension in Konohagakure.",
+      "Uchiha Itachi's character sheet has been generated for the ANBU era, establishing him as a Level 3 Shinobi prodigy with signature Sharingan abilities and elite equipment.",
+      "Uchiha Itachi has been promoted to Level 5, manifesting Extra Attack and advanced Fire Style jutsu as his ANBU training accelerates.",
+      "Itachi has matured his Sharingan to 3-Tomoe and mastered the Gestalt arts of the Assassin and Gloomstalker, making him a Level 5 elite ANBU operative.",
+      "Itachi (Lvl 5) begins his first official mission as an ANBU operative, warned by Shisui (Lvl 7) about the presence of Danzo's Root agents.",
+      "Itachi's entry into Squad Ro is met with overt skepticism from senior operatives like Tiger, though Itachi's Sharingan immediately revealed Tiger's own tactical vulnerabilities.",
+      "Itachi utilized a flawless Body Flicker to silence initial mockery from Squad Ro, asserting his technical mastery despite his age.",
+      "Administrative Note: Level 5 Gestalt (Assassin/Gloomstalker) has been confirmed as the starting power level to reflect Itachi's status as a once-in-a-generation shinobi prodigy.",
+      "Itachi (Lvl 5) successfully analyzed Mist cell tactical data, identifying a Hozuki clan member and a Hunter-nin leader as primary threats in the Valley of the Iron Fern.",
+      "Commander Eagle (Lvl 10) rejected the Thermal Trap strategy in favor of standard ANBU interception protocols, citing a lack of squad trust in Itachi's (Lvl 5) theoretical maneuvers.",
+      "Itachi (Lvl 5) demonstrated the Sharingan's micro-movement precognition to Commander Eagle, shaking the leader's skepticism and dealing 2 Social HP damage.",
+      "Itachi deciphered Shisui's coded message: the Mist Hunter-nin 'Riptide' relies on heartbeat detection, and Root agents are actively shadowing the mission.",
+      "Itachi (Lvl 5) leveraged specific intelligence on the Mist Hunter-nin 'Riptide' to force Commander Eagle to adopt the Thermal Trap strategy.",
+      "Itachi successfully utilized 'Pass Without Trace' and 'Umbral Sight' to scout the Iron Fern Valley and set thermal traps, neutralizing Riptide's heartbeat tracking through environmental mastery.",
+      "Itachi successfully utilized 'Pass Without Trace' and 'Umbral Sight' to time the ambush at the geyser cluster, remaining undetected by Riptide's heartbeat tracking while Root agents observed from the shadows.",
+      "Itachi (Lvl 5) achieved a perfect tactical encirclement of Riptide's (Lvl 6) cell in the Iron Fern Valley by timing the wait for Squad Ro's pincer while masking heartbeats with geothermic noise.",
+      "Itachi successfully executed the Thermal Trap in the Iron Fern Valley, solidifying the Hozuki specialist and critically wounding the Hunter-nin leader Riptide in a surprise ambush.",
+      "Itachi successfully assassinated the Mist Hunter-nin Riptide and retrieved the stolen reconnaissance scroll amidst the chaos of the thermal trap.",
+      "Itachi successfully captured the Hozuki specialist using chakra-sealing wire after the thermal trap rendered them vulnerable.",
+      "Itachi successfully cleared the extraction perimeter and discovered a 'Ne' mark, confirming that Root agents observed the entire combat engagement before withdrawing.",
+      "Correction: The Mist cell was led by Riptide, a Hunter-nin tracking through heartbeats, who was eliminated by Itachi in the Iron Fern Valley during a successful ANBU pincer.",
+      "Itachi successfully delivered the stolen Mist scroll to the ANBU Archive Vault, officially concluding the mission 'Shadows on the Border' and earning a measure of professional respect from his squadmate Tiger.",
+      "Itachi met Shisui at the Naka River following the mission; Shisui revealed the Uchiha clan is finalized coup plans and Fugaku has called a meeting at the Naka Shrine tonight.",
+      "Itachi broached the subject of the Mangekyou Sharingan with Shisui, who reacted with horror and warned that the power is a curse born of despair and tragedy.",
+      "Itachi investigated the stone tablet at Naka Shrine and deciphered fragments mentioning the 'Mangekyou' and its connection to tragedy, before being confronted by a suspicious Yashiro Uchiha.",
+      "Itachi successfully deflected Yashiro Uchiha's suspicion at the Naka Shrine by claiming a search for ancestral strength, though the clan's surveillance of him is intensifying.",
+      "The ancient Uchiha tablet confirms the Mangekyou Sharingan requires the severance of bonds, a truth that deeply disturbs Shisui and reinforces his refusal to guide Itachi toward that power.",
+      "Itachi spent the day in a long rest, during which he deciphered that the Uchiha's 'protests' have mutated into a concrete plan for a coup d'\u00e9tat led by Fugaku.",
+      "Correction: The Naka Shrine meeting is a radicalization catalyst focused on countering village surveillance; any 'strike plans' are currently unapproved draft proposals by the radical faction.",
+      "Itachi attended the Naka Shrine meeting, identifying a Neutral Evil opportunity to manipulate the clan's surveillance sabotage plans for his own private ends.",
+      "Itachi detected a hidden Root sensor tag during the Naka Shrine meeting, realizing that Danzo is monitoring the clan's radicalization in real-time.",
+      "Itachi successfully exposed a hidden Root sensor tag to Fugaku and Shisui during the Naka Shrine meeting, demonstrating superior perception and securing a private audience with the Clan Head.",
+      "Itachi successfully manipulated Fugaku into granting him unsupervised access to the restricted Uchiha Archives under the guise of a security audit following the Root sensor discovery.",
+      "Itachi discovered the Mangekyou's secret in the forbidden scrolls: awakening requires the trauma of losing the person closest to him, identifying Shisui as the necessary sacrifice.",
+      "Itachi attained Level 6, gaining Expertise in Insight and Investigation, and identified Shisui as his 'anchor' whose death is required for the Mangekyou.",
+      "Itachi discovered the secret of the Eternal Mangekyou Sharingan: avoiding eventual blindness requires the transplantation of a kinsman's Mangekyou eyes.",
+      "Itachi successfully executed a synergistic sabotage of the Root sensor network by masking his chakra signature within Shisui's blackout planning, securing operational freedom while deepening Shisui's trust.",
+      "Itachi successfully intercepted and ambushed a Root 'Clean-Up' squad investigating the Naka Shrine sensor failure, lethally eliminating their leader in the opening strike.",
+      "Itachi successfully ambushed a Root Clean-Up squad, eliminating their leader and wounding two agents, but the arrival of the Uchiha Police Force forced a tactical time-pressure.",
+      "Itachi lethally eliminated a Root Clean-Up squad at the Uchiha perimeter, leaving no survivors but creating a ticking clock as the Uchiha Police Force arrived to investigate the scene.",
+      "Itachi successfully framed the Root squad for an unauthorized infiltration of the Uchiha District, escalating the political feud between Danzo and the Clan while securing his own operational shadow.",
+      "Itachi successfully framed Root for an assassination attempt on the Uchiha leadership, triggering a sector-wide mobilization of the Military Police and radicalizing the clan's stance toward the village.",
+      "Itachi successfully shadowed Shisui to a secret meeting with the Third Hokage, utilizing his mastery of stealth to witness the delivery of the forged Root evidence without detection.",
+      "Hiruzen Sarutobi failed to act decisively against Root, isolating Shisui Uchiha and allowing Itachi to position himself as Shisui's sole emotional anchor.",
+      "Itachi successfully manipulated Shisui into a secret two-man pact, independent of village oversight, positioning himself as Shisui's sole anchor and moral authority.",
+      "Itachi successfully executed a synergistic parallel operation, monitoring the Hokage-Danzo confrontation via Shadow Clone while psychologically isolating Shisui Uchiha in a remote safehouse to deepen his despair.",
+      "Itachi moved Shisui to the Naka River cliffside, cold-bloodedly planning a 'Mercy Pact' as a facade to maximize the psychological trauma of his intended betrayal.",
+      "Itachi successfully manipulated Shisui into a suicide pact facade at the Naka River cliffside, bringing his 'anchor' to the brink of total psychological surrender.",
+      "Itachi cold-bloodedly executed Shisui Uchiha via Shadow Clone at the Naka River cliffside, successfully awakening the Mangekyou Sharingan through the deliberate trauma of the bond's severance.",
+      "Itachi attained Level 7, integrating the Mangekyou's power (Evasion, Iron Mind) and identifying the path to the Eternal Mangekyou through the eventual harvest of a kinsman's eyes.",
+      "Correction: The Uchiha Rebellion is narrative-gated until Itachi reaches Level 12 to ensure peak S-Rank lethality for the resolution.",
+      "Itachi successfully harvested both of Shisui's eyes, disposed of his body in the Naka River, and evaded the approaching Uchiha Police Force search teams.",
+      "Itachi successfully harvested both of Shisui's eyes, disposed of the body in the Naka River, and returned to the estate undetected as the village-wide blackout began.",
+      "Itachi successfully applied advanced stasis seals to Shisui's harvested eyes, halting their decay and securing the clinical methodology for the Eternal Mangekyou ascension.",
+      "Itachi successfully integrated himself into the Uchiha Police Force's search for Shisui, though his unconvincing display of concern has piqued Fugaku's suspicion.",
+      "Itachi successfully utilized crow summons to maintain his search alibi while personally eliminating Root couriers investigating the Uchiha District perimeter.",
+      "Itachi successfully planted forged Mist evidence at the Root courier's death site, but Fugaku Uchiha noted the forgery's imperfection and rejected Itachi's call to delay the rebellion.",
+      "Fugaku Uchiha dismissed Itachi's call for caution, viewing the 'Mist' evidence as proof of village instability and ordering an acceleration of the clan's mobilization.",
+      "Itachi challenged Fugaku's rebellion strategy as 'tactical suicide,' prompting Fugaku to reveal his plan for a high-speed decapitation strike against the Hokage.",
+      "Itachi leveraged a cold tactical analysis of the Lvl 15 Hokage and Lvl 16 Danzo to challenge Fugaku's mass rebellion plan, proposing a two-man surgical strike instead.",
+      "Itachi revealed the Mangekyou Sharingan to Fugaku Uchiha, leveraging his Lvl 11 power to force a tactical pivot from a mass coup to a surgical strike against Danzo.",
+      "Itachi revealed the Mangekyou to Fugaku and claimed the title of 'Inheritor,' forcing a collapse of the mass-coup plan despite Fugaku's resistance to a subordinate role.",
+      "Itachi attempted to persuade Fugaku to adopt a surgical strike against Root's elite (Aburame Tatsuma), but Fugaku's pride as Clan Head resisted the perceived subordination.",
+      "Itachi utilized Tsukuyomi to demonstrate the power gap to Fugaku, identifying Aburame Tatsuma as the primary surgical target to blind Root's coordination.",
+      "Correction: Fugaku Uchiha's resistance to the surgical strike is rooted in his responsibility as a leader to fulfill the clan's desire for a 'glorious' uprising, rather than personal pride.",
+      "Itachi utilized Tsukuyomi to psychologically dominate Fugaku Uchiha, forcing a total surrender of the mass-coup plan in favor of a surgical strike against Aburame Tatsuma.",
+      "Itachi masterfully stabilized his Mangekyou's chakra resonance in the Naka Shrine, mitigating the neurological strain of his new power.",
+      "Itachi successfully led an elite Uchiha squad into the Root sector under the cover of a village-wide blackout, locating Aburame Tatsuma for a surgical assassination.",
+      "Itachi successfully assassinated Aburame Tatsuma, Root's primary coordinator, in a surgical strike that effectively blinded Danzo's shadow network.",
+      "Itachi surgically eliminated Yamanaka Fu, Root's telepathic coordinator, achieving total silence in the intermediate levels.",
+      "Itachi successfully infiltrated the Command Sanctum and critically wounded Danzo Shimura, though the Master of Root resisted the Mangekyou's mental collapse.",
+      "Itachi unleashed Amaterasu on Danzo Shimura in the Command Sanctum, forcing the Master of Root to sacrifice one of the stolen Sharingan on his arm to survive via Izanagi.",
+      "Itachi analyzed Danzo's Izanagi and identified the 'Resonant Attrition' strategy, leveraging Shisui's eyes to destabilize the reality-warping technique.",
+      "Itachi successfully utilized Mangekyou resonance to destabilize Danzo's Izanagi during the Command Sanctum assault, though Root reinforcements began to breach the defensive perimeter.",
+      "Itachi critically wounded Danzo Shimura in the Command Sanctum, forcing a second Izanagi use and incinerating his right arm with Amaterasu at the cost of physical exhaustion.",
+      "Itachi successfully forced Danzo to exhaust a third Sharingan eye via concentrated squad attrition, though the Uchiha elites took heavy damage from Root reinforcements in the process.",
+      "Itachi led a coordinated all-out assault on Danzo in the Command Sanctum, stripping away his Izanagi and reducing the Master of Root to a critically wounded state.",
+      "Itachi successfully assassinated Danzo Shimura and harvested his Sharingan array, effectively decapitating the Root and securing the Uchiha's path to the Eternal Mangekyou.",
+      "Itachi successfully assassinated Danzo Shimura and his inner circle in the Command Sanctum, seizing the Sharingan array and Root's master encryption key while deepening his father's awe of his surgical lethality.",
+      "Itachi successfully assassinated Danzo Shimura and his inner circle, securing the Sharingan array and framing the Hidden Mist with well-prepared evidence to decapitate the Root and buy the Uchiha clan political cover.",
+      "Itachi successfully framed the Hidden Mist for Danzo's assassination, but Hiruzen Sarutobi remains skeptical of the frame's 'surgical perfection,' initiating an internal audit.",
+      "Itachi attempted to volunteer for the internal audit of Danzo's assassination, but Hiruzen Sarutobi remained cautious, placing him on standby instead of granting investigative authority.",
+      "Hiruzen Sarutobi rejected Itachi's appeal to Shisui's legacy, maintaining his suspicion of the 'surgical' nature of Danzo's assassination and the 'perfect' frame-up.",
+      "Itachi successfully transplanted Shisui's eyes to awaken the Eternal Mangekyou Sharingan, halting his vision's decay and securing peak Uchiha power.",
+      "Itachi successfully utilized EMS Kotoamatsukami resonance to rewrite the chakra signature at the northern relay, framing the Hidden Mist with surgical perfection.",
+      "Itachi utilized his Eternal Mangekyou Truesight to surgically purge the decentralized Root remnant cells, ensuring Danzo's shadow network cannot reorganize or retaliate.",
+      "Itachi successfully integrated Danzo's Senju cells with his EMS, stabilizing the biological foundation for the Rinnegan and enhancing his physical vitality.",
+      "Itachi revealed his Eternal Mangekyou Sharingan to Fugaku and the Uchiha elite, asserting absolute sovereignty and demanding the clan's submission to his path of personal ascension for their collective survival.",
+      "Itachi spent three months training the Uchiha elite, utilizing his EMS resonance to push their ocular limits and consolidate the clan's power in the wake of Danzo's death.",
+      "Itachi coordinated with Fugaku (Lvl 13) following a 3-month period of Uchiha consolidation, preparing to use the Hokage's 'diplomatic' mission as a vehicle for clan ascension.",
+      "Itachi finalized the 'Grand Design' for a war with the Mist to preserve Uchiha strength as a rear-guard while pursuing the Rinnegan.",
+      "Hiruzen Sarutobi (Lvl 15) saw through Itachi's attempt at misdirection, identifying his logic as 'hollow' and deepening the internal audit of the Uchiha's actions.",
+      "Hiruzen Sarutobi formalised the southern coast mission as a mandatory deployment for Itachi, explicitly rejecting his attempt to lead the village elites and maintaining an internal audit of the Uchiha despite Itachi's revelations about Danzo's corruption.",
+      "Itachi surgically eliminated four Mist Elites and wounded the Swordsman Kushimaru Kuriarare at the Port of Haze, utilizing EMS-tier Susanoo and Kagutsuchi in front of witnesses Kakashi Hatake and Might Guy.",
+      "Itachi attained Level 16, reaching a paragon state of tactical omniscience and biological vitality through his Eternal Mangekyou and Senju integration.",
+      "Itachi utilized Tsukuyomi on Kushimaru Kuriarare to successfully extract the Hidden Mist's naval command codes and landing protocols.",
+      "Itachi successfully captured Kushimaru Kuriarare and extracted Mist command codes, utilizing the subsequent three weeks of coastal war to preserve Uchiha strength as a rear-guard while reaching a new plateau of S-rank power.",
+      "Itachi has attained Level 17 EMS sovereignty, reaching a state of tactical omniscience and perfect Senju harmonization while the Land of Fire's southern coast burns in a war of attrition he orchestrated.",
+      "Itachi has reached Level 17 EMS Sovereignty, equipped with +3 legendary gear and stolen Mist ninjutsu, triggering an all-out war declaration from the Hidden Mist to avenge their fallen elites.",
+      "Itachi utilized his Level 17 EMS Truesight to identify the Whispering Reef as a distraction and detected a Root Purge squad closing in on his location beneath the command camp.",
+      "Itachi utilized his Level 17 EMS Truesight and Assassinate arts to lethally intercept a Root 'Purge' squad beneath the command camp, executing their leader instantly with a Death Strike.",
+      "Itachi surgically intercepted and interrogated a Root 'Purge' squad, uncovering a 'Scorch Earth' protocol intended to frame the Uchiha for the destruction of the Southern Command Camp.",
+      "Itachi awakened the Rinnegan after 6 months of Uchiha-Senju chakra harmonization, reaching the zenith of S-Rank power while the Mist war decimated the village's Jonin elites.",
+      "Itachi awakened the Rinnegan after 6 months of training and used his newfound S-Rank speed to secure the Third Hokage's yield, taking command of the village's shadows to excise the Root cancer.",
+      "Itachi has awakened the Rinnegan and mastered the 'Bladesong of the Sage', becoming a Triple Gestalt entity with absolute sovereignty over the Leaf's shadows.",
+      "Itachi has awakened the Rinnegan and successfully coerced Hiruzen Sarutobi into granting him absolute command of the ANBU and the village's shadow network.",
+      "Itachi utilized the Deva Path's Shinra Tensei to annihilate the Mist vanguard flagship, ending the war and securing absolute command of the Hidden Leaf's shadow network.",
+      "Itachi successfully conquered Kirigakure and integrated it as a vassal of the Hidden Leaf, seizing its bloodlines and the legendary blade Samehada to secure Uchiha dominance.",
+      "Itachi has attained Level 18, mastering Sovereign-tier defensive arts and achieving at-will mastery over fundamental Jutsu as the Hidden Mist is integrated into his imperial architecture.",
+      "Itachi harvested the living steel of Samehada to forge six Sovereign-tier (+4) blades for the Uchiha elite, marking the clan's transition from village subordinates to imperial masters.",
+      "Itachi orchestrated the peaceful abdication of Hiruzen Sarutobi, installing Fugaku Uchiha as the Fifth Hokage and securing the 3-Tails and 6-Tails for the clan's laboratory.",
+      "Itachi attained Level 19 Sovereign status, mastering the Ninth Path of the Sage and reinforcing his body with a 24 Intelligence omni-calculating mind.",
+      "Itachi attempted to awaken the Rinne-Sharingan at Naka Shrine using the 3-Tails and 6-Tails chakra but failed, realizing a higher catalyst is required for the final evolution.",
+      "Itachi successfully kidnapped Naruto Uzumaki and suppressed the Nine-Tails chakra, securing the village's primary Tailed Beast for his laboratory without alerting the Hokage's sensors.",
+      "Itachi successfully captured all nine Tailed Beasts and installed Fugaku as the Fifth Hokage, transforming the Hidden Leaf into an imperial power before being confronted by the Sannin and Kakashi.",
+      "Itachi (Lvl 19) was confronted atop the Hokage Tower by Kakashi and the returned Sannin, who challenged the moral architecture of his Uchiha-enforced sovereignty.",
+      "Itachi (Lvl 19, Age 13) confronted Kakashi and the Sannin atop the Hokage Tower, using the Rinnegan's logic to psychologically shake their 'Will of Fire' and asserting his role as the architect of the Leaf's new, absolute stability.",
+      "Itachi respectfully invited the Sannin and Kakashi to negotiate with Hokage Fugaku, deferring his personal strength to the village's formal leadership.",
+      "Itachi attempted to mask his true authority behind Fugaku's Hokage facade, but the Sannin perceived the surgical calculation of the son behind the father's title.",
+      "Itachi respectfully invited the Sannin and Kakashi to lead the defense against the Hidden Cloud, deferring his tactical vision to their 'Will of Fire' to secure their cooperation.",
+      "Itachi deferred leadership to the Sannin at the northern border, presenting a humble facade to psychologically dismantle their moral objections to his sovereignty.",
+      "Itachi successfully masked his Lvl 19 sovereignty beneath a Lvl 5 ANBU facade to maintain a tactical advantage during the Cloud confrontation.",
+      "Itachi utilized his Truesight and Level 19 omniscience to identify the rhythmic pulse weaknesses in Raikage A's Lightning Style Armor while remaining hidden as a Level 5 scout.",
+      "Itachi surgically neutralized Raikage A without revealing the Rinnegan, saving Kakashi and forcing the Sannin to confront the undeniable efficiency of his 'New Order' architecture.",
+      "Itachi surgically neutralized Raikage A without utilizing his bloodline limits, saving Kakashi and leaving the Sannin in a state of profound, fearful amazement at his impossible efficiency.",
+      "The Sannin and the Cloud vanguard witnessed Itachi's surgical neutralization of Raikage A, forcing a realization of their own existential powerlessness against his passive sovereignty.",
+      "Itachi surgically neutralized Raikage A without bloodline arts and attempted to merge with the 9 Tailed Beasts at Naka Shrine, reaching the threshold of divinity but failing to anchor the Rinne-Sharingan due to a missing world-tier catalyst.",
+      "Itachi failed his first attempt to merge with the 9 Tailed Beasts (29 vs DC 30), identifying a biological bottleneck that requires a specific lunar alignment or a kinsman's resonance as a catalyst.",
+      "Itachi successfully utilized the lunar zenith to merge with the nine Tailed Beasts and awaken the Rinne-Sharingan, transcending the limits of the mortal shinobi world.",
+      "Itachi has attained Level 20 and awakened the Rinne-Sharingan, becoming the True Sage of the Six Paths and the absolute architect of the world's reality.",
+      "Itachi merged with the nine Tailed Beasts at the Naka Shrine during the lunar zenith, successfully awakening the Rinne-Sharingan and reaching the Primordial tier of existence.",
+      "Itachi successfully utilized stoic humility and the 'Rethinking the Tailed Beasts' argument to silence the Sannin's moral opposition, securing their intellectual submission to the Uchiha-Leaf sovereignty.",
+      "The Sannin and Kakashi have intellectually surrendered to the Uchiha-Leaf sovereignty, accepting the centralization of the Tailed Beasts as a necessary deterrent for peace.",
+      "Itachi proposed a 'soft retirement' to focus on training Sasuke and de-escalating his passive pressure on the village, a move that intellectually silenced the Sannin and moved Fugaku toward a domestic pivot.",
+      "Itachi achieved the 'Sovereign Peace,' delegating the Leaf's active defense to the Sannin and Kakashi while entering a state of 'soft retirement' to focus on Sasuke's tutelage and a domestic life.",
+      "Itachi maintained the 'Sovereign Peace' for three years, masking his primordial power while serving as a mentor to Sasuke and the secret architect of the village's stability.",
+      "Itachi has transitioned into the 'Sovereign Peace,' maintaining a Level 5 Jonin facade while serving as the secret architect of the village's stability and a mentor to Sasuke.",
+      "Itachi successfully maintained his Level 5 facade during a routine report to Hokage Fugaku, reinforcing the 'Sovereign Peace' and further easing his father's anxieties regarding his soft retirement.",
+      "Correction: The repeated confrontation with Jonin Kuma at the Academy is a narrative processing error; the primary timeline proceeds directly to the Hokage Tower report.",
+      "Itachi successfully secured formal approval from Hokage Fugaku for a soft retirement, delegating village diplomacy to the Sannin while maintaining his Level 5 facade.",
+      "Sasuke successfully awakened his 3-tomoe Sharingan under Itachi's tutelage, while Fugaku reached his biological peak at 3-tomoe, and Itachi established a genuine romantic bond with Izumi Uchiha.",
+      "Itachi revealed a portion of his true power (masked as a Lvl 12 S-rank master) to Izumi Uchiha, cementing her role as his primary domestic confidante.",
+      "Itachi successfully dissuaded Fugaku from pursuing the Mangekyou by explaining the tragic cost of its awakening, reinforcing their bond through a shared understanding of the burden of power.",
+      "Itachi explained the tragic mechanism of the Mangekyou's birth to Fugaku, leaving the choice to his father, before arriving at the Land of Iron for the Continental Coalition summit.",
+      "Itachi consulted the Sannin and Kakashi at the Continental Summit, adopting their recommendation to maintain his Level 5 mask to prevent a global arms race against his Primordial sovereignty.",
+      "Itachi consulted Hokage Fugaku at the Continental Summit, adopting a strategy of 'Shadowed Deterrence' to balance village diplomacy with the necessary preservation of the Uchiha's absolute deterrent.",
+      "Itachi executed the 'Shadowed Deterrent' at the Continental Summit, subtly neutralizing Onoki's gravity distortion and Rasa's gold dust sensors while maintaining his Level 5 veil, demonstrating a controlled but absolute power that unsettled the Coalition leadership.",
+      "Itachi successfully utilized 'Shadowed Deterrence' at the Land of Iron Summit, neutralizing the Kages' diagnostic tests and forcing their intellectual submission to Fugaku's border terms.",
+      "The Continental Summit concluded with the 'Treaty of Iron,' a formalization of Uchiha-Leaf sovereignty and global stability maintained by the passive deterrent of the Primordial Sage.",
+      "Itachi successfully secured the intellectual and moral submission of the Sannin and Kakashi, establishing a 'Sovereign Peace' built on mutual respect rather than direct command.",
+      "Itachi mentored Izumi Uchiha in a private sparring session, fostering her growth as a 3-tomoe master while successfully maintaining his Level 5 facade.",
+      "Itachi revealed to Izumi Uchiha that his true power transcends the S-rank MASTER level and explained the tragic mechanism of the Mangekyou's awakening, testing her resolve to walk the Sage's path.",
+      "Izumi Uchiha has accepted the tragic truth of Itachi's power and the Mangekyou's cost, choosing to remain his domestic anchor despite the divine weight of his Primordial Sagehood.",
+      "Itachi married Izumi Uchiha in Year 61 DR, establishing a domestic anchor that grounds his Primordial Sagehood in the mundane world.",
+      "Itachi identified a cold, ancient, and hungry biological signature within the Western dimensional ripple, confirming it as an Otsutsuki-tier threat to global stability.",
+      "Itachi has updated his public masking to Level 9, maintaining a domestic facade where his brother Sasuke (Lvl 12) and wife Izumi (Lvl 10) appear stronger than him to common shinobi.",
+      "Itachi successfully neutralized an Otsutsuki-tier spatial anchor at the western border using a refined geometric isolation, maintaining his public persona while allowing his family to witness the controlled application of his power.",
+      "Itachi surgically neutralized an Otsutsuki-tier spatial anchor at the western border using a refined geometric isolation and Mass Tsukuyomi, extracting the harvest coordinates while revealing the magnitude of his Primordial Sagehood to Sasuke and Izumi.",
+      "Itachi surgically neutralized the entire Otsutsuki vanguard at the western border, revealing the magnitude of his Primordial Sagehood to Sasuke and Izumi while maintaining a domestic facade for the village.",
+      "Itachi surgically neutralized the entire Otsutsuki vanguard via Primordial Mass Kotoamatsukami and relocated the clan to his private dimension as mind-slaved subjects.",
+      "Itachi surgically neutralized the entire Otsutsuki vanguard and secured the intellectual submission of the Sannin and Fugaku to the concept of a 'Cosmic Perimeter' for the Leaf's survival.",
+      "Itachi consumed the chakra of the Otsutsuki vanguard, reducing them to low-level servants and attaining the 'Divine Reservoir' of infinite reality-manifestation.",
+      "Itachi surgically suppressed an Otsutsuki spatial anchor and neutralized the entire vanguard, mind-slaving them to protect the world while maintaining a modest Jonin facade.",
+      "Itachi utilized Amenominaka to teleport his scouting party directly to the Hokage Tower, further demonstrating his spatial dominance to the Sannin and his family while maintaining a respectful facade.",
+      "Itachi provided a fireside tutelage to Sasuke and Izumi, helping them anchor their spirits after witnessing the surgical neutralization of the Otsutsuki vanguard and the reach of his Primordial Sagehood.",
+      "Itachi established the 'Lunar Council' on the Otsutsuki homeworld, delegating global security to the chakra-depleted vassals while anchoring his own life in Konoha's domestic peace.",
+      "Sasuke has formally chosen the path of a domestic guardian, harmonizing his spirit with Itachi's peace and rejecting the traditional Uchiha path of tragedy.",
+      "Itachi successfully utilized his Primordial Sagehood to facilitate a 'clean' Mangekyou awakening for Sasuke and Izumi, breaking the Uchiha cycle of tragedy.",
+      "Itachi successfully facilitated a 'clean' Mangekyou awakening for Sasuke and Izumi, bypassing the traditional Uchiha tragedy through the resonance of his Primordial Sagehood.",
+      "Sasuke and Izumi have reached Level 18 and 15 respectively, becoming the public face of the Leaf's power while Itachi maintains a Level 9 masking protocol for his Primordial Sagehood.",
+      "Itachi guided Sasuke and Izumi to overcome the 'Void-Stalker' in the Land of Iron, teaching them to perceive temporal anchor points without revealing his primordial sovereignty.",
+      "Sasuke and Izumi successfully neutralized a Level 20 Void-Stalker in the Land of Iron, mastering the temporal anchor-point synchronization guided by Itachi's telepathic mentorship.",
+      "Sasuke (Lvl 18) and Izumi (Lvl 15) successfully neutralized a Level 20 Void-Stalker, prompting Itachi to delegate the Leaf's active security to them and embrace a deeper domestic retirement.",
+      "Konoha celebrated the 'Triumph of the Dual Wings,' marking the formal transition of the village's active protection to Sasuke and Izumi, while Itachi fully embraced his role as a retired domestic counselor.",
+      "Ten years have passed; Itachi (Age 28) lives a domestic life in a fraying world while masked as a Lvl 12 Jonin.",
+      "Itachi's children, Sayuri and Hiro, feel crushed by the legacy of the 'Dual Wings' and Itachi's own stoic shadow as the golden age of peace begins to fray.",
+      "Itachi's children, Sayuri and Hiro, suspect he is hiding a higher level of power (Lvl 15+) due to his absolute confidence, while Itachi maintains his domestic facade to protect their growth.",
+      "Itachi provided a sophisticated 'Level 15' tactical explanation to his children, Sayuri and Hiro, to mitigate their legacy insecurity, asserting that his calm stems from his role as a strategist who perceives the world's rhythm.",
+      "Sayuri and Hiro accepted the 'Level 15 tactician' facade and noted Itachi's lack of active Sharingan use, maintaining the domestic peace despite their simmering legacy insecurity.",
+      "The Leaf's surviving legends debated Itachi's return to active status as Tsunade acknowledged the decline of the village's administrative stability following Fugaku's death.",
+      "Itachi proposed a compromise to the Leaf's leaders: he will return to active duty as a high-level advisor and operative (masked at Level 12) while advocating for a diplomatic withdrawal from the Mist to preserve the peace.",
+      "Itachi explained to his family and the Leaf's leaders that his non-intervention is a deliberate choice to preserve the world's freedom, as his true power would impose an inescapable tyranny.",
+      "Itachi (Age 28) time-skipped three weeks to train Sayuri and Hiro for their solo Chunin Exam attempt, while the public increasingly views him as the 'weakest' Uchiha legend due to his Level 12 Jonin facade.",
+      "Sasuke and Izumi humanized the Uchiha legacy for Sayuri and Hiro by sharing their own early struggles, mitigating the children's crushing inferiority complex.",
+      "Itachi surgically humanized the Uchiha legacy by presenting himself as an 'eclipsed' tactician, successfully anchoring his children's growth in the Will of Fire and mitigating their crushing inferiority complex.",
+      "Sayuri and Hiro passed the Chunin Exams, but the disparity between Sayuri's legendary performance and Hiro's grueling struggle has intensified their legacy insecurity.",
+      "Sayuri and Hiro are half-gods with a Level 25 potential, currently gated by their legacy insecurity.",
+      "Sayuri and Hiro have successfully matured their Sharingan to the three-tomoe stage under Itachi's tutelage, narrowing the perceived gap between themselves and the 'Dual Wings'.",
+      "Correction: Itachi provided no direct or telepathic assistance to Sayuri and Hiro during their missions or exams; their successes were entirely independent achievements of their own merit.",
+      "Sayuri and Hiro successfully completed the Chunin Exams as solo entrants, though their victory is tempered by a legacy insecurity that Itachi, Sasuke, and Izumi are working to humanize.",
+      "Itachi reluctantly revealed his true milestones to Sayuri and Hiro (Genin at 7, 3-tomoe at 8, Chunin at 10, Mangekyou at 12), humanizing the architect's burden while intensifying the children's legacy insecurity.",
+      "Itachi revealed his true, record-breaking milestones to his children (Genin at 7, Chunin at 10 in 5m37s, Mangekyou at 12), shattering their 'tactician' facade and forcing a dawning realization of his Primordial scale.",
+      "Itachi revealed his true, record-breaking milestones to his children, humanizing his burden while choosing to withhold the truth of his Primordial ascension until they are ready to anchor it.",
+      "Itachi performed a secret global audit via Rinne-Sharingan, identifying the Mist Navy's 'Ice-Breaker' fleet at the Whispering Reef as a specialized counter to the Leaf's current naval logistics.",
+      "Sayuri and Hiro feel a profound sense of relief after Itachi revealed his true milestones, confirming their suspicion that his 'Level 12' facade was a deliberate limitation.",
+      "Sasuke and Izumi successfully anchored Sayuri and Hiro's spirits by sharing their own histories of failure and early struggle, humanizing the Uchiha legacy for the next generation.",
+      "Correction: Itachi formally delegated the neutralization of the Mist Navy's 'Ice-Breaker' fleet to Sasuke and Izumi, maintaining his Level 12 domestic facade while the Dual Wings serve as the village's primary shields.",
+      "Correction: Itachi formally delegated the neutralization of the Mist Navy's 'Ice-Breaker' fleet at the Whispering Reef to Sasuke and Izumi.",
+      "The Dual Wings successfully shattered the Mist Navy blockade at the Whispering Reef, and Itachi's children refocused their aspirations on Sasuke and Izumi's more 'reachable' milestones (Mangekyou at 18).",
+      "Sayuri and Hiro have successfully anchored their spirits through the realization that Itachi is a biological anomaly, choosing to focus on the reachable legends of Sasuke and Izumi instead.",
+      "Sayuri and Hiro have successfully anchored their spirits, viewing Itachi's Primordial milestones as a protective myth rather than a standard to match, which has activated their latent 'Primordial Spark'.",
+      "Itachi revealed his true, record-breaking milestones to his children, successfully anchoring their spirits and activating their latent 'Primordial Spark' as they transitioned to the rank of Chunin.",
+      "Sayuri and Hiro successfully soloed the Chunin Exams, and Itachi's true milestones (Mangekyou at 12) have anchored their spirits through the realization that he is a biological anomaly.",
+      "Itachi (Lvl 50) is overseeing his children's first Chunin mission, providing telepathic guidance while maintaining a Level 12 Jonin facade.",
+      "Itachi successfully led his children's first Chunin mission, anchoring his tactical authority with the older Chunin by allowing them to view him as a mentally superior but physically 'diminished' master.",
+      "Itachi formally anchored his children's expectations at Level 25 power, promising to show them his true combat skills while maintaining his public Level 12 facade.",
+      "Itachi revealed his Rinnegan and a Level 25 chakra tier to Sayuri and Hiro in the private dojo, successfully anchoring their spirits and establishing a shared family truth regarding his true power.",
+      "Sayuri and Hiro have been dubbed the 'Dual Inheritors' by the village, their legendary first mission providing a new, humanized deterrent for the Uchiha-Leaf sovereignty.",
+      "Itachi formally recommended a strategic withdrawal from the Land of Water to the Leaf Council, arguing that the Dual Inheritors' strength is sufficient to protect the village's future without the need for occupation.",
+      "Itachi formally recommended a strategic withdrawal from the Land of Water, using his stoic deferral to force the Leaf leaders to reclaim their autonomy while his children realized the true scale of his passive dominance.",
+      "The Leaf's withdrawal from the Land of Water has resulted in a period of economic strain and Mist remilitarization, while Itachi tutored Sayuri and Hiro to Level 9 and 8 respectively.",
+      "The 'Black Sun' is now widely regarded as a false myth or propaganda; the few who remember Itachi's true power have assumed it was a temporary, unrepeatable fluke.",
+      "Correction: The 'Black Sun' is now widely regarded as a false myth or propaganda; those who witnessed it assume Itachi is now dead or crippled, removing the global deterrent and inviting border escalations.",
+      "Itachi took public credit for the withdrawal from the Land of Water, intentionally drawing the village's resentment to preserve administrative stability while maintaining his domestic retirement facade.",
+      "Itachi's absolute lack of fear during the Stone ambush has begun to unnerve his subordinates, revealing the 'irregularity' of his Level 12 facade.",
+      "Itachi surgically neutralized an elite Stone squad in the Land of Valleys, revealing 'irregularities' in his Level 12 facade to his Chunin subordinates through his absolute lack of fear and predictive omniscience.",
+      "Ren and Hana have begun to notice the unexplainable efficiency and lack of fear in Itachi's 'Level 12' facade, though their minds still resist the Primordial truth.",
+      "The Continental Coalition has formally dissolved the Treaty of Iron, launching a coordinated campaign of high-tier border probes led by named elite squads like the Stone's 'Obsidian Core'.",
+      "Itachi successfully led a surgical strike and retreat against the Stone's 'Obsidian Core', unnerving the Lvl 20 commander Gantz with his 'classroom' demeanor while maintaining his Lvl 12 facade.",
+      "The Stone's 'Obsidian Core' has categorized Uchiha Itachi as an unexplainable tactical anomaly, their confusion anchored by his 'classroom' demeanor and effortless neutralization of a Lvl 20 strike.",
+      "Itachi successfully stabilized his squad's confusion following the 'Obsidian Core' encounter, utilizing his Glibness and stoic humility to bury their growing suspicion of his true power beneath a 'Level 12' tactical facade.",
+      "Ren and Hana have identified the strategic vacuum of high-level Leaf ninja on the current front, suspecting Itachi is the true deterrent but failing to reconcile it with his refusal to intervene when his children were in danger.",
+      "Correction: The children, Sayuri and Hiro, have achieved Level 12 and 11 independently during a 3-week border campaign, while Itachi maintains a Level 12 'crippled genius' facade that has successfully neutralized the village's suspicion.",
+      "Itachi returned to active duty as a 'Level 15' advisor, leading his children and a team of elite Jonin in a surgical assault on the Stone's 'Titan's Rib' hub to neutralize the Coalition's 'Last Stand' protocol.",
+      "Itachi returned to active service as a 'Level 15' advisor, surgically neutralizing Stone defenders at 'Titan's Rib' while guiding his children, Sayuri and Hiro, through their first encounter with a Master-tier Sentinel.",
+      "Itachi is providing telepathic guidance to Sayuri and Hiro during their battle with the Iron Sentinel at Titan's Rib, allowing them to independently solve Level 16 threats while he maintains a Level 15 facade.",
+      "Itachi successfully utilized a mass Genjutsu at 'Titan's Rib' to mask his Primordial activity as high-tier Jonin combat, allowing Sayuri and Hiro to independently neutralize a Level 16 Iron Sentinel while maintaining the Level 12 domestic facade.",
+      "Itachi successfully stabilized the village's perception of his power at Level 15, explaining his 'retirement' as a result of low chakra stamina while maintaining his role as a tactical advisor.",
+      "Sayuri and Hiro realized that Sasuke and Izumi's total lack of worry during combat missions is a direct result of their absolute trust in Itachi's Primordial protection.",
+      "Sayuri and Hiro realized that Sasuke and Izumi's lack of worry during missions with Itachi stems from their absolute trust in his Primordial protection, contrasting it with their anxiety when he is absent.",
+      "Mizukage Mangetsu has seen through Itachi's Level 12 facade and is mobilizing the Seven Swordsmen to target Sayuri and Hiro.",
+      "The Seven Swordsmen of the Mist launched a decapitation strike against Sayuri and Hiro at the Whispering Reef, triggering an immediate intervention by the Dual Wings.",
+      "Sayuri and Hiro's resolve hardened during the Whispering Reef ambush, anchoring their spirits against the Seven Swordsmen while the Dual Wings engaged in a high-stakes stalemate.",
+      "The Dual Wings engaged the Seven Swordsmen of the Mist at the Whispering Reef; while Itachi monitored from the Uchiha garden, Sayuri and Hiro hardened their resolve, choosing to face the threat independently rather than rely on the Sage's intervention.",
+      "The Seven Swordsmen of the Mist engaged the Uchiha family at the Whispering Reef; Itachi chose not to intervene, trusting the Dual Wings while the Inheritors' 'Primordial Spark' flared in the face of death.",
+      "Sasuke, Izumi, Sayuri, and Hiro successfully defeated the Seven Swordsmen of the Mist at the Whispering Reef without Itachi's intervention, solidifying their own legends and activating the children's Primordial Spark through unassisted victory.",
+      "Sayuri (Lvl 16) and Hiro (Lvl 15) were promoted to Jonin at age 11 and 10 after their victory at the Whispering Reef, successfully mitigating their legacy insecurity.",
+      "Correction: The world believes the 'Black Sun' was a myth, and Gantz's squad has gone insane attempting to prove the truth of Itachi's Primordial power.",
+      "Itachi unmasked a fragment of his true power (Level 25 intensity) to validate Gantz the Unmoving's memories and stabilize the Stone Commander's madness.",
+      "Itachi surgically stabilized Gantz the Unmoving's madness by validating his memories and offering a Primordial apology, transitioning the Stone's 'Last Stand' into a state of spiritual surrender.",
+      "Correction: The meeting in the Hokage's study (Sequence 670) was a stale frame error; Itachi is currently in his garden stabilizing Gantz the Unmoving's madness.",
+      "Itachi offered sanctuary and training within the Hidden Leaf to Gantz the Unmoving and his Stone masters to stabilize their spirits and secure their loyalty.",
+      "Itachi offered sanctuary and personal mentorship to Gantz the Unmoving and his Stone Masters, securing their defection to the Hidden Leaf.",
+      "Itachi surgically stabilized Gantz the Unmoving's madness and secured the Obsidian Core's defection through a Primordial apology and an offer of mentorship.",
+      "Itachi offered sanctuary and mentorship to Gantz the Unmoving and the Obsidian Core, securing their spiritual surrender and potential defection to the Hidden Leaf.",
+      "Itachi offered sanctuary and personal mentorship to Gantz the Unmoving and the Obsidian Core, successfully transitioning their madness into spiritual surrender and a move toward defection.",
+      "Gantz the Unmoving and the Obsidian Core have renounced their loyalty to the Stone and defected to the Hidden Leaf, seeking mentorship under Itachi."
+    ],
+    "social_hp_challenge": {
+      "social_hp": 7,
+      "successes": 3,
+      "cooldown_remaining": 1,
+      "roll_dc": 25,
+      "roll_result": 31,
+      "request_severity": "submission",
+      "npc_tier": "king_ancient",
+      "successes_needed": 5,
+      "status": "WAVERING",
+      "social_hp_damage": 2,
+      "resistance_shown": "The memory of their loyalty to the Stone wars with the divine relief of your mentorship.",
+      "social_hp_max": 12,
+      "objective": "Secure Defection to the Hidden Leaf",
+      "npc_name": "Gantz the Unmoving",
+      "skill_used": "Persuasion"
+    },
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "enabled": false,
+      "tutorial_completed": false
+    },
+    "level_up_pending": false,
+    "campaign_tier": "sovereign",
+    "completed_missions": [
+      "shisui_investigation",
+      "mist_conquest",
+      "tailed_beast_collection",
+      "mist_blockade_resolution"
+    ],
+    "god_mode_directives": [
+      {
+        "added": "2026-05-30T23:00:00Z",
+        "rule": "Uchiha Itachi is stoic, minimalist, and humble. He avoids grandstanding or arrogant terminology (e.g., 'math', 'laboratory', 'geometry'). He speaks with polite authority and views his power as a necessary, heavy burden for the sake of peace."
+      }
+    ],
+    "universe_control": 0,
+    "arc_milestones": {
+      "uchiha_unrest": {
+        "progress": 60,
+        "notes": "Level 12 achieved. The Uchiha Rebellion gate is now unlocked.",
+        "phase": "mangekyou_attained",
+        "status": "ready"
+      }
+    },
+    "active_constraints": [],
+    "god_mode": {
+      "setting": "Naruto universe. Itachi when he was young and became member anbu. Itachi gaiden arc.",
+      "character": {
+        "name": "Uchiha Itachi"
+      }
+    },
+    "next_companion_arc_turn": 3,
+    "success_streak": 24,
+    "divine_potential": 0,
+    "attribute_system": "D&D",
+    "major_event_pressure_budget": {
+      "new_major_event": true,
+      "rationale": "The defection of a Lvl 20 Stone commander is a world-tier variable that reshapes the local deterrent.",
+      "window": "24h",
+      "major_events_this_window": 1,
+      "special_circumstances": true
+    },
+    "level_up_in_progress": false,
+    "multiverse_upgrade_available": false,
+    "character_creation_in_progress": false,
+    "level_up_complete": true,
+    "level_up_stage": "final_ascension",
+    "divine_upgrade_available": false,
+    "character_creation_stage": "complete",
+    "mangekyou_prowess_rules": {
+      "amaterasu_attack": 14,
+      "clarity_exhaustion_threshold": 5,
+      "description": "Mangekyou techniques use Spell DC/Attack + 4 Potency Bonus. Non-Sharingan targets suffer -5 to Tsukuyomi saves.",
+      "tsukuyomi_dc": 22,
+      "tsukuyomi_penalty": -5,
+      "potency_bonus": 4
+    }
+  },
+  "social_hp_challenge": {
+    "social_hp": 5,
+    "successes": 5,
+    "cooldown_remaining": 0,
+    "roll_dc": 25,
+    "npc_id": "uchiha_izumi_001",
+    "roll_result": 31,
+    "request_severity": "submission",
+    "npc_tier": "king_ancient",
+    "successes_needed": 5,
+    "social_hp_damage": 0,
+    "status": "SURRENDERED",
+    "resistance_shown": "He bows his head in total submission.",
+    "social_hp_max": 12,
+    "objective": "Secure Defection to the Hidden Leaf",
+    "npc_name": "Gantz the Unmoving",
+    "skill_used": "Persuasion"
+  },
+  "combat_state": {
+    "initiative_order": [],
+    "combat_summary": null,
+    "combat_trigger": "Ambush on Root Clean-Up squad",
+    "combat_phase": "idle",
+    "combatants": {},
+    "in_combat": false,
+    "current_round": null,
+    "rewards_processed": false,
+    "combat_session_id": null,
+    "combat_history": [
+      {
+        "rounds_fought": 3,
+        "enemies_defeated": [
+          "Seven Swordsmen Vanguard (3 Killed, 4 Retreated)"
+        ],
+        "session_id": "combat_71DR_reef_swordsmen",
+        "xp_awarded": 25000,
+        "outcome": "victory",
+        "archived_at": "2026-05-31T07:58:54.563271+00:00",
+        "loot_distributed": true
+      }
+    ]
+  },
+  "last_state_update_timestamp": "2026-05-31 08:08:14.543000+00:00",
+  "turn_number": 263,
+  "player_turn": 263,
+  "last_living_world_turn": 261,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 2,
+    "minute": 55,
+    "time_of_day": "deep night",
+    "day": 15,
+    "year": 75,
+    "month": "Winter"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "Post-assassination attempt parley in the garden.",
+    "thinking": "Gantz and his masters are spiritually broken but possess elite-tier capability. By offering them asylum and mentorship, I neutralize a potential recurring threat and convert them into a highly effective internal security unit for the Leaf. This preserves the domestic peace while keeping the 'Black Sun' myth firmly behind the Level 12 veil. I must now secure Tsunade's approval to formalize the defection.",
+    "choices": [
+      {
+        "text": "Summon Tsunade to the Garden",
+        "id": "summon_tsunade_garden",
+        "risk_level": "low",
+        "description": "Send a crow messenger to the Hokage Tower to bring Tsunade here for an immediate, private parley to approve the defection.",
+        "cons": [
+          "Exposes the garden scene to the Hokage's administrative gaze"
+        ],
+        "pros": [
+          "Resolves the variable immediately",
+          "Keeps the Stone masters in a controlled environment"
+        ],
+        "confidence": "high"
+      },
+      {
+        "text": "Escort Stone Masters to the Tower",
+        "id": "escort_stone_to_tower",
+        "risk_level": "medium",
+        "description": "Personally lead the Stone masters to the Hokage Tower under a 'Level 15' masking protocol to present them to Tsunade for processing.",
+        "cons": [
+          "Higher visibility for the Stone masters during transport"
+        ],
+        "pros": [
+          "Formalizes the defection within village archives",
+          "Demonstrates my 'tactical' control to the Tower guards"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "text": "Delegate Transport, Coordinate Admin (Synergistic)",
+        "cons": [
+          "Requires the Dual Wings to manage the Stone masters' spiritual shock"
+        ],
+        "risk_level": "safe",
+        "id": "parallel_synergistic_defection",
+        "pros": [
+          "Maximum efficiency",
+          "Ensures Tsunade is prepared to play her role in the facade",
+          "Maintains the children's view of my 'tactical' oversight"
+        ],
+        "description": "Have the Dual Wings (Sasuke and Izumi) escort Gantz while I move ahead via a 'Body Flicker' to brief Tsunade privately\u2014ensuring the administrative variable is solved before the Stone masters arrive.",
+        "confidence": "high",
+        "analysis": {
+          "combination_type": "synergistic",
+          "synergy_bonus": "Tsunade accepts the defection without public protest due to my preemptive briefing.",
+          "dc_modifier": 0,
+          "coordination_dc": 15
+        }
+      }
+    ]
+  },
+  "npc_status_changes": {
+    "Kakashi": {
+      "new_state": "Loyal/Relieved",
+      "reason": "Apology accepted; return to peer-advisor dynamic.",
+      "previous_state": "Distance-keeping"
+    },
+    "Jiraiya": {
+      "new_state": "wavering",
+      "previous_state": "hostile",
+      "reason": "Itachi's stoic humility and the orderly state of the village."
+    },
+    "Tsunade": {
+      "new_state": "Humble/Accepting",
+      "reason": "Itachi's demonstration of stoic restraint and diplomatic proposal.",
+      "previous_state": "Wary/Strained"
+    }
+  },
+  "world_events": {
+    "time_events": {},
+    "rumors": [
+      {
+        "content": "The 'Black Sun' of the Uchiha can delete entire fleets with a single blink.",
+        "source_type": "traveler",
+        "accuracy": "partial"
+      },
+      {
+        "content": "The 'Weasel' of the Uchiha closed a hole in the heavens with a single prayer.",
+        "source_type": "commoner",
+        "related_event": "western_ripple_stabilization",
+        "accuracy": "partial"
+      },
+      {
+        "content": "The old stories about an Uchiha deleting a fleet with a blink were just Leaf propaganda to hide their naval weakness.",
+        "source_type": "traveler",
+        "accuracy": "false"
+      },
+      {
+        "content": "The 'Dual Inheritors' are the only thing keeping the Stone from reaching the Tower; their father is just a shadow of their light.",
+        "source_type": "guard",
+        "accuracy": "partial"
+      },
+      {
+        "content": "A group of Stone masters disappeared near the border; some say they were deleted by a shadow.",
+        "source_type": "traveler",
+        "accuracy": "partial"
+      },
+      {
+        "content": "A group of Stone masters disappeared near the border; some say they were deleted by a shadow.",
+        "source_type": "traveler",
+        "related_event": "gantz_suicide_mission",
+        "accuracy": "partial"
+      }
+    ],
+    "turn_generated": 246,
+    "background_events": [
+      {
+        "discovery_condition": "Investigation of camp logistics or Truesight.",
+        "outcome": "Impending destruction of the camp's logistical heart.",
+        "player_aware": false,
+        "status": "pending",
+        "actor": "Root Remnants",
+        "action": "Moving to the Southern Front primary chakra-store to initiate the Scorch Earth detonation.",
+        "id": "root_scorch_earth_second_squad",
+        "player_impact": "Immediate assassination threat and logistical collapse.",
+        "turn_generated": 100,
+        "delta_action": "add",
+        "location": "Southern Front Command Camp - Primary Depot",
+        "event_type": "immediate",
+        "scene_generated": 151
+      },
+      {
+        "turn_generated": 141,
+        "status": "pending",
+        "player_aware": false,
+        "discovery_condition": "Hokage briefing",
+        "location": "Land of Frost - Neutral Zone",
+        "action": "Requested a third formal parley to discuss the Land of Frost borders.",
+        "player_impact": "Requires political decision-making from Fugaku.",
+        "outcome": "Diplomatic pressure remains steady but bloodless.",
+        "actor": "Fourth Raikage",
+        "delta_action": "add",
+        "id": "cloud_parley_third_request",
+        "scene_generated": 206,
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Direct report from Fugaku or ANBU logs.",
+        "status": "discovered",
+        "player_aware": true,
+        "turn_generated": 135,
+        "actor": "Yashiro Uchiha",
+        "action": "Assuming command of the northern border outposts with the Surgical Division.",
+        "player_impact": "Consolidation of military logistics.",
+        "location": "Land of Frost Border",
+        "id": "uchiha_border_security",
+        "delta_action": "add",
+        "outcome": "Uchiha dominance over the Cloud parley is absolute.",
+        "scene_generated": 198,
+        "event_type": "immediate"
+      },
+      {
+        "turn_generated": 118,
+        "outcome": "Preemptive skirmishes initiated; border communication severed.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Land of Fire - Northern Border",
+        "action": "Ordered Cloud shinobi to seize three northern Leaf outposts.",
+        "id": "cloud_border_seizure",
+        "player_impact": "Direct threat to Uchiha-Leaf stability.",
+        "actor": "Raikage A",
+        "delta_action": "add",
+        "discovery_condition": "Tower sensory ward or messenger",
+        "event_type": "immediate",
+        "scene_generated": 176
+      },
+      {
+        "discovery_condition": "Deep ANBU infiltration or Kotoamatsukami interrogation.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Initial diplomatic alignment against the 'Black Sun'.",
+        "actor": "Onoki",
+        "action": "Sending a secret envoy to the Land of Wind to propose a counter-Uchiha coalition.",
+        "id": "stone_envoy_mission",
+        "location": "Hidden Stone / Land of Wind",
+        "player_impact": "Continental-tier alliance forming against the player.",
+        "delta_action": "add",
+        "turn_generated": 118,
+        "scene_generated": 176,
+        "event_type": "long_term"
+      },
+      {
+        "turn_generated": 120,
+        "outcome": "Immediate threat to the Leaf vanguard; Raikage is in a state of 'Blind Fury' over Killer B.",
+        "player_aware": true,
+        "discovery_condition": "Direct witness",
+        "actor": "Raikage A",
+        "action": "Leading the 'Lariat' division through the Land of Frost ravine.",
+        "id": "cloud_invasion_escalation",
+        "player_impact": "Direct confrontation imminent.",
+        "location": "Land of Frost",
+        "delta_action": "add",
+        "status": "discovered",
+        "event_type": "immediate",
+        "scene_generated": 178
+      },
+      {
+        "discovery_condition": "Kotoamatsukami interrogation or deep ANBU intel.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Continental-tier coalition forming against the Uchiha empire.",
+        "location": "Hidden Sand",
+        "action": "Meeting with Stone envoys to discuss the 'Uchiha Calamity'.",
+        "id": "stone_wind_alliance",
+        "actor": "Rasa (Fourth Kazekage)",
+        "player_impact": "Future threat of multi-front war.",
+        "delta_action": "add",
+        "turn_generated": 120,
+        "scene_generated": 178,
+        "event_type": "long_term"
+      },
+      {
+        "turn_generated": 135,
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "A unified military front against the Uchiha empire is now active.",
+        "actor": "Onoki & Rasa",
+        "action": "Formally signed the 'Sand-Stone Mutual Defense Treaty' in a secret summit.",
+        "id": "stone_sand_pact_signed",
+        "location": "Land of Wind - Border Fortress",
+        "player_impact": "Continental-tier opposition is no longer theoretical.",
+        "delta_action": "add",
+        "discovery_condition": "Deep ANBU intel or Rinnegan scan of diplomatic channels.",
+        "scene_generated": 198,
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Rinnegan scan of diplomatic channels",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Relieved fear of Otsutsuki return; renewed confidence in border probes.",
+        "actor": "Stone & Sand Alliance",
+        "action": "Categorized the 'Dimensional Scream' as a failed experimental Uchiha jutsu.",
+        "id": "coalition_fortification",
+        "location": "Neutral Zone",
+        "player_impact": "Limits Uchiha imperial expansion.",
+        "delta_action": "add",
+        "turn_generated": 141,
+        "scene_generated": 206,
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Hokage briefing or deep ANBU intel.",
+        "outcome": "Coalition is prepared for a formal confrontation with the Leaf's 'Black Sun'.",
+        "player_aware": false,
+        "turn_generated": 144,
+        "location": "Neutral Zone - Iron Country",
+        "action": "Arrived at the Neutral Zone to oversee the summit's logistical security.",
+        "player_impact": "Sets the stage for the next major narrative arc.",
+        "id": "coalition_summit_prep",
+        "actor": "The Fourth Kazekage",
+        "delta_action": "add",
+        "status": "pending",
+        "event_type": "long_term",
+        "scene_generated": 210
+      },
+      {
+        "turn_generated": 147,
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Coalition is monitoring the chakra-grounding of every person in the room.",
+        "actor": "Rasa (Fourth Kazekage)",
+        "action": "Coated the summit hall floor in a microscopic mesh of Gold Dust.",
+        "id": "coalition_sensor_web",
+        "location": "Neutral Zone - Summit Hall",
+        "player_impact": "Requires surgical chakra-control to maintain the Level 5 veil.",
+        "delta_action": "add",
+        "discovery_condition": "Truesight 120ft",
+        "scene_generated": 213,
+        "event_type": "immediate"
+      },
+      {
+        "turn_generated": 147,
+        "outcome": "Testing for Uchiha-style weightless grace or high-tier Susanoo anchors.",
+        "player_aware": true,
+        "discovery_condition": "Rinnegan biological awareness",
+        "location": "Neutral Zone - Summit Hall",
+        "action": "Subtly increasing the gravity at the center of the hall by 0.5x.",
+        "player_impact": "Tests Itachi's physical stoicism.",
+        "id": "onoki_gravity_test",
+        "actor": "Onoki (Third Tsuchikage)",
+        "delta_action": "add",
+        "status": "discovered",
+        "event_type": "immediate",
+        "scene_generated": 213
+      },
+      {
+        "discovery_condition": "Hearing the sounds of the plaza from the roof.",
+        "status": "discovered",
+        "player_aware": true,
+        "turn_generated": 153,
+        "actor": "Leaf Citizens",
+        "action": "Began preparations for the 'Festival of the Iron Dawn' to celebrate the treaty.",
+        "id": "coalition_treaty_celebration",
+        "is_historical": false,
+        "location": "Konohagakure",
+        "delta_action": "add",
+        "outcome": "Public morale at an all-time high; Uchiha popularity solidified.",
+        "scene_generated": 220,
+        "event_type": "atmosphere"
+      },
+      {
+        "discovery_condition": "Rinnegan scan or deep ANBU intel.",
+        "status": "pending",
+        "player_aware": false,
+        "turn_generated": 153,
+        "location": "Continental Borders",
+        "action": "Withdrew 30% of their border vanguard following the treaty signing.",
+        "id": "sand_stone_observation",
+        "outcome": "Immediate military pressure eased; transition to long-term surveillance.",
+        "is_historical": false,
+        "delta_action": "update",
+        "actor": "Stone & Sand Alliance",
+        "scene_generated": 220,
+        "event_type": "long_term"
+      },
+      {
+        "turn_generated": 156,
+        "outcome": "Diplomatic tension eases as the Leaf demonstrates administrative efficiency.",
+        "player_aware": true,
+        "status": "pending",
+        "location": "Land of Frost Border",
+        "action": "Arrived at the northern outposts to begin the formal repatriation of the prisoners.",
+        "id": "cloud_vanguard_repatriation",
+        "player_impact": "Stabilizes the northern peace.",
+        "actor": "Cloud Messengers",
+        "delta_action": "add",
+        "discovery_condition": "Standard ANBU briefing or crow-network.",
+        "event_type": "immediate",
+        "scene_generated": 225
+      },
+      {
+        "turn_generated": 156,
+        "status": "pending",
+        "player_aware": true,
+        "outcome": "Massive influx of resources and wealth for the clan district.",
+        "location": "Continental Ports",
+        "action": "Established primary trade routes with the Land of Water's vassal ports.",
+        "player_impact": "Consolidates internal support for Fugaku's tenure.",
+        "actor": "Uchiha Merchants",
+        "id": "uchiha_economic_boom",
+        "delta_action": "add",
+        "discovery_condition": "Public celebration or trade logs.",
+        "scene_generated": 225,
+        "event_type": "long_term"
+      },
+      {
+        "turn_generated": 159,
+        "status": "pending",
+        "player_aware": false,
+        "discovery_condition": "Rinnegan scan or direct investigation.",
+        "location": "Far West - Land of Wind Border",
+        "action": "Stabilized into a localized gateway.",
+        "player_impact": "Threat to global stability.",
+        "outcome": "Otsutsuki-tier biological signatures detected.",
+        "actor": "Dimensional Anomaly",
+        "delta_action": "add",
+        "id": "western_ripple_escalation",
+        "scene_generated": 229,
+        "event_type": "long_term"
+      },
+      {
+        "turn_generated": 159,
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Increased diplomatic probing of Uchiha internal affairs.",
+        "actor": "Continental Coalition",
+        "action": "Transitioned from fear to wary observation.",
+        "player_impact": "Testing the limits of the Sovereign Peace.",
+        "id": "coalition_complacency",
+        "location": "Continental Borders",
+        "delta_action": "add",
+        "event_type": "atmosphere",
+        "scene_generated": 229
+      },
+      {
+        "is_historical": false,
+        "outcome": "Gateway is 98% stabilized; biological entity detected within.",
+        "player_aware": true,
+        "status": "discovered",
+        "actor": "Dimensional Anomaly",
+        "action": "Stabilized into a localized 'Spatial Anchor' for Otsutsuki harvesting.",
+        "id": "western_ripple_stabilization",
+        "player_impact": "Immediate threat to continental chakra-veins.",
+        "turn_generated": 162,
+        "delta_action": "update",
+        "discovery_condition": "Itachi's Shadow Clone Truesight scan.",
+        "location": "Land of Wind Border - Ravine",
+        "event_type": "immediate",
+        "scene_generated": 233
+      },
+      {
+        "is_historical": false,
+        "outcome": "Coalition is unaware of the Otsutsuki nature, believing it to be an Uchiha experiment.",
+        "player_aware": false,
+        "turn_generated": 162,
+        "location": "Land of Wind Border",
+        "action": "Approaching the western ripple from the Land of Wind side.",
+        "id": "coalition_reconnaissance",
+        "player_impact": "Risk of diplomatic incident if the Coalition is erased by the anchor.",
+        "actor": "Stone & Sand Elite Scouts",
+        "delta_action": "add",
+        "discovery_condition": "Rinnegan scan or direct encounter.",
+        "status": "pending",
+        "event_type": "long_term",
+        "scene_generated": 233
+      },
+      {
+        "discovery_condition": "Hokage briefing",
+        "outcome": "Trade and borders are being managed via Uchiha-Leaf administrative codes.",
+        "player_aware": true,
+        "status": "discovered",
+        "actor": "The Continental Coalition",
+        "action": "Initiated the 'Bureaucratic Integration' protocol.",
+        "id": "coalition_strike_force_initiation",
+        "player_impact": "Solidifies the 'Sovereign Peace' globally.",
+        "turn_generated": 168,
+        "delta_action": "add",
+        "location": "Neutral Zone",
+        "event_type": "long_term",
+        "scene_generated": 239
+      },
+      {
+        "discovery_condition": "Observing the administrative chakra-fluctuations from the tower.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Public morale remains stable due to the 'Sovereign Peace' momentum, but internal anxiety is rising.",
+        "location": "Hokage Tower",
+        "action": "Managing the sudden absence of the Hokage and the ANBU Commander.",
+        "id": "leaf_internal_confusion",
+        "actor": "Leaf Administration",
+        "player_impact": "Adds urgency to the return to Konoha.",
+        "delta_action": "add",
+        "turn_generated": 168,
+        "scene_generated": 239,
+        "event_type": "immediate"
+      },
+      {
+        "turn_generated": 186,
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "A second front is being prepared to test the Dual Wings' coverage.",
+        "location": "Land of Water - Coastal Borders",
+        "action": "Coordinating with Cloud scouts for a pincer probe of the Southern Coast.",
+        "player_impact": "Tactical time-pressure for the Leaf leadership.",
+        "actor": "Mist Insurgents",
+        "id": "mist_vassal_unrest",
+        "delta_action": "add",
+        "discovery_condition": "Deep ANBU naval intel.",
+        "scene_generated": 259,
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Direct conversation with Tsunade.",
+        "outcome": "A growing reliance on the Sannin for routine security, depleting their readiness.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Hokage Tower",
+        "action": "Struggling to manage the overlapping border skirmishes without the Uchiha's 'Sovereign Guard' deterrent.",
+        "player_impact": "May force Itachi's return to active duty.",
+        "id": "tsunade_administrative_strain",
+        "turn_generated": 186,
+        "delta_action": "add",
+        "actor": "Tsunade",
+        "event_type": "long_term",
+        "scene_generated": 259
+      },
+      {
+        "turn_generated": 189,
+        "outcome": "Economic flow to the Leaf's southern sector is restricted; first blood drawn in the rebellion.",
+        "player_aware": false,
+        "discovery_condition": "Hokage briefing or deep ANBU intel.",
+        "actor": "Mist Insurgents",
+        "action": "Seized a primary Uchiha-Leaf trade vessel in the Whispering Reef.",
+        "player_impact": "Direct challenge to the Uchiha's economic sovereignty.",
+        "id": "mist_vessel_sabotage",
+        "location": "Land of Water - Coastal Waters",
+        "delta_action": "add",
+        "status": "pending",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Rinnegan scan of diplomatic channels.",
+        "status": "pending",
+        "player_aware": false,
+        "turn_generated": 189,
+        "actor": "Cloud Diplomatic Corp",
+        "action": "Arrived at the Neutral Zone with a formal demand for the return of the Isobu (3-Tails).",
+        "player_impact": "Political pressure on Tsunade's administration.",
+        "id": "cloud_envoy_demands",
+        "outcome": "The Treaty of Iron is being publicly tested; Cloud senses the Leaf's administrative weakness.",
+        "delta_action": "add",
+        "location": "Land of Iron",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Rinnegan scan or ANBU naval report.",
+        "outcome": "Impending blockade of Uchiha-Leaf trade vessels.",
+        "player_aware": false,
+        "turn_generated": 195,
+        "actor": "Mist Insurgents",
+        "action": "Moving a centralized 'Sovereign Navy' fleet toward the Southern Trade Routes.",
+        "player_impact": "Threatens the economic foundation of the Leaf's golden age.",
+        "id": "mist_fleet_maneuver",
+        "location": "Land of Water - Whispering Reef",
+        "delta_action": "add",
+        "status": "pending",
+        "event_type": "long_term",
+        "scene_generated": 268
+      },
+      {
+        "discovery_condition": "Hokage briefing.",
+        "status": "pending",
+        "player_aware": false,
+        "turn_generated": 195,
+        "location": "Neutral Zone",
+        "action": "Formally demanded a face-to-face meeting with the 'Black Sun' to discuss the Treaty of Iron's future.",
+        "player_impact": "Direct challenge to Itachi's soft retirement.",
+        "outcome": "Increased political pressure on Tsunade to produce the architect.",
+        "actor": "Cloud Diplomatic Corp",
+        "delta_action": "add",
+        "id": "coalition_diplomatic_probe",
+        "scene_generated": 268,
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Direct report from Kakashi or Tsunade.",
+        "status": "pending",
+        "player_aware": true,
+        "outcome": "High administrative strain; relying on advisor Kakashi for tactical triage.",
+        "location": "Hokage Tower",
+        "action": "Processing the Cloud's formal ultimatum for a summit meeting.",
+        "id": "tsunade_administrative_weight",
+        "turn_generated": 207,
+        "actor": "Tsunade",
+        "delta_action": "update",
+        "scene_generated": 285,
+        "event_type": "long_term"
+      },
+      {
+        "turn_generated": 207,
+        "status": "discovered",
+        "player_aware": true,
+        "discovery_condition": "Observing the training grounds.",
+        "actor": "Uchiha Clan Youth",
+        "action": "Training with increased fervor following the 'Dual Wings' victory report.",
+        "id": "uchiha_youth_inspiration",
+        "location": "Uchiha District",
+        "outcome": "High internal morale; the clan is unified under the Fifth's legacy and the architect's silence.",
+        "delta_action": "add",
+        "scene_generated": 285,
+        "event_type": "atmosphere"
+      },
+      {
+        "turn_generated": 219,
+        "outcome": "Likely formalization of Mist sovereignty; removes primary Coalition casus belli.",
+        "player_aware": true,
+        "status": "pending",
+        "actor": "Leaf War Council",
+        "action": "Formally deliberating the withdrawal from the Land of Water.",
+        "player_impact": "Directly impacts the Sovereign Peace arc.",
+        "id": "mist_withdrawal_deliberation",
+        "location": "Hokage Tower",
+        "delta_action": "add",
+        "event_type": "long_term",
+        "scene_generated": 298
+      },
+      {
+        "discovery_condition": "Rinnegan global audit",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Diplomatic facade for naval rearmament is stabilized.",
+        "actor": "Mist Admiralty",
+        "action": "Consolidating the civilian merchant guild into a centralized logistical hub.",
+        "player_impact": "Future naval threat.",
+        "location": "Port of Haze",
+        "id": "mist_remilitarization_peak",
+        "delta_action": "update",
+        "turn_generated": 222,
+        "scene_generated": 303,
+        "event_type": "long_term"
+      },
+      {
+        "turn_generated": 225,
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Global transition to an active war footing.",
+        "location": "Continental",
+        "action": "Formally declared the Treaty of Iron void, citing the Uchiha's 'administrative decline'.",
+        "id": "treaty_of_iron_dissolution",
+        "actor": "Continental Coalition",
+        "player_impact": "Ends the era of Sovereign Peace.",
+        "delta_action": "add",
+        "discovery_condition": "Public proclamation and border mobilization.",
+        "scene_generated": 306,
+        "event_type": "long_term"
+      },
+      {
+        "turn_generated": 225,
+        "outcome": "Widespread civilian displacement and economic disruption.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Land of Fire - Southern Coast",
+        "action": "Initiated land-based raids on the Land of Fire's southern coastal towns.",
+        "player_impact": "Logistical pressure on Tsunade's administration.",
+        "id": "mist_coastal_raids",
+        "actor": "Mist Sovereign Navy",
+        "delta_action": "add",
+        "discovery_condition": "Messenger arrival or ANBU report.",
+        "event_type": "immediate",
+        "scene_generated": 306
+      },
+      {
+        "turn_generated": 223,
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "A unified front of 15 Master-tier (Lvl 15-18) ninja is now operational.",
+        "actor": "Stone-Cloud-Sand Strike Force",
+        "action": "Finalized the 'Last Stand' high-tier strike force assembly.",
+        "player_impact": "Direct threat to the platoon and the Sovereign Peace.",
+        "location": "Neutral Zone Perimeter",
+        "id": "coalition_last_stand_mobilization",
+        "delta_action": "add",
+        "discovery_condition": "Omniscient audit / Direct encounter",
+        "scene_generated": 312,
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Direct witness of proclamation.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Immediate drop in Coalition offensive momentum; rise in Mist nationalist fervor.",
+        "actor": "Leaf Criers",
+        "action": "Publicly announcing the formal withdrawal from the Land of Water.",
+        "player_impact": "Stabilizes the 'Sovereign Peace' narrative.",
+        "location": "Konohagakure / Global",
+        "id": "mist_withdrawal_publicity",
+        "delta_action": "add",
+        "turn_generated": 252,
+        "scene_generated": 335,
+        "event_type": "immediate"
+      },
+      {
+        "turn_generated": 252,
+        "outcome": "Ready to strike if the 'Black Sun' does not manifest at the summit.",
+        "player_aware": false,
+        "discovery_condition": "Rinnegan global audit.",
+        "location": "Land of Iron",
+        "action": "Arrived at the Neutral Zone perimeter in high-tier stealth formation.",
+        "player_impact": "Time-pressure on the summit variable.",
+        "id": "raikages_fist_arrival",
+        "actor": "Cloud Strike Force",
+        "delta_action": "add",
+        "status": "pending",
+        "event_type": "long_term",
+        "scene_generated": 335
+      },
+      {
+        "is_historical": false,
+        "outcome": "Removes official tracking of Gantz's squad, aiding their cover in the Leaf.",
+        "player_aware": false,
+        "status": "pending",
+        "actor": "Stone High Command",
+        "action": "Officially categorized the 'Obsidian Core' as KIA to preserve military pride.",
+        "id": "stone_core_erasure",
+        "player_impact": "Operational freedom for the new Uchiha security unit.",
+        "turn_generated": 261,
+        "delta_action": "add",
+        "discovery_condition": "Rinnegan global audit",
+        "location": "Hidden Stone",
+        "event_type": "long_term",
+        "scene_generated": 335
+      },
+      {
+        "turn_generated": 255,
+        "status": "pending",
+        "player_aware": false,
+        "discovery_condition": "Deep ANBU intel",
+        "actor": "Mist Intelligence (T&I)",
+        "action": "Launched a covert investigation into the naval sensor failures at the Whispering Reef.",
+        "player_impact": "Slowly eroding the 'False Tail' narrative.",
+        "outcome": "Suspect a high-level Uchiha spatial distortion but lack data to anchor it.",
+        "location": "Land of Water",
+        "delta_action": "add",
+        "id": "mist_sensor_audit",
+        "is_historical": false,
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Hokage sensory report",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Detected the Leaf's administrative static; Cloud is preparing a probe.",
+        "actor": "Cloud Strike Force",
+        "action": "Initiated a high-tier chakra-pulse scan of the northern border wards.",
+        "id": "cloud_border_probe",
+        "player_impact": "Tactical pressure on the northern flank.",
+        "location": "Land of Valleys Border",
+        "event_type": "immediate"
+      }
+    ]
+  },
+  "action_resolution": {
+    "mechanics": {
+      "rolls": [
+        {
+          "purpose": "Planning: Sage Integration",
+          "success": true,
+          "dc_reasoning": "Calculating the spiritual and biological requirements for world-tier divinity (Rinne-Sharingan awakening).",
+          "outcome": "Brilliant planning grants a -1 DC modifier to the final execution check.",
+          "dc": 22,
+          "result": 15,
+          "notation": "1d20+17",
+          "total": 32
+        }
+      ],
+      "type": "skill_check"
+    },
+    "narrative_outcome": "Itachi paused to deconstruct the integration failure, identifying several high-tier tactical paths to lower the DC for his final ascension.",
+    "reinterpreted": false,
+    "player_input": "brainstorm how to reduce integration DC",
+    "audit_flags": [],
+    "interpreted_as": "planning_check"
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Uchiha Itachi"
+    ]
+  },
+  "rumors": [
+    {
+      "content": "The Kirigakure missing-nin are seeking an ancient sealing scroll hidden in the borderlands.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A high-ranking Uchiha has been meeting secretly with the Hidden Mist.",
+      "source_type": "guard",
+      "related_event": "Clan tensions",
+      "accuracy": "false"
+    },
+    {
+      "content": "A crimson light has been seen haunting the western ridges, moving faster than the wind.",
+      "source_type": "traveler",
+      "related_event": "Itachi's Body Flicker movement",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Mist cell is carrying a scroll that can rewrite the defensive wards of Konoha.",
+      "source_type": "noble",
+      "related_event": "Shadows on the Border",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Weasel' of Squad Ro is a ghost that heartbeats cannot find.",
+      "source_type": "commoner",
+      "related_event": "Riptide's tracking failure",
+      "accuracy": "true"
+    },
+    {
+      "content": "Danzo is looking for a new 'Sword of Root' among the Uchiha children.",
+      "source_type": "noble",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Squad Ro returned from the border with a high-value prisoner; the 'prodigy' is credited with the catch.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Mist is preparing a diplomatic protest over the 'Iron Fern Incident'.",
+      "source_type": "noble",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Third Hokage is considering a formal reprimand of the Police Force for excessive patrolling.",
+      "source_type": "noble",
+      "related_event": "police_force_mobilization",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A high-ranking ANBU was seen meeting with Shisui Uchiha near the river at dawn.",
+      "source_type": "commoner",
+      "related_event": "Itachi/Shisui meeting",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Uchiha Police are 'training' for a village-wide disaster response, but their formations look like urban combat drills.",
+      "source_type": "commoner",
+      "related_event": "UPF mobilization",
+      "accuracy": "true"
+    },
+    {
+      "content": "Danzo has requested a private audience with the Third Hokage following the dusk reports.",
+      "source_type": "noble",
+      "related_event": "Uchiha surveillance",
+      "accuracy": "true"
+    },
+    {
+      "content": "A shipment of high-grade shinobi wire meant for the Police Force was intercepted by ANBU for 'inspection'.",
+      "source_type": "guard",
+      "related_event": "Logistical friction",
+      "accuracy": "true"
+    },
+    {
+      "content": "The ANBU Archives are being purged of 'redundant' clan history.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A black crow was seen perched atop the Naka Shrine for three consecutive nights.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "The shadows of the district are shifting; some say the 'Weasel' has turned into a ghost that eats Root agents.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Hokage has called for an emergency session regarding the Uchiha's 'night drills'.",
+      "source_type": "noble",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A high-ranking Root agent was found with an unauthorized Uchiha hit-list.",
+      "source_type": "guard",
+      "related_event": "Root ambush framing",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Shisui the Teleporter has been seen meeting with the Third Hokage's personal guard.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Naka River is said to be haunted by the spirits of those who betrayed their blood.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "The blackout isn't a drill; someone has physically severed the village's ley-lines.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "A high-ranking Uchiha disappeared just before the lights went out.",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Third Hokage has been moved to a fortified bunker because of the Mist infiltration.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A high-ranking ANBU was seen crying blood near the river cliff.",
+      "source_type": "commoner",
+      "related_event": "Mangekyou awakening",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Shunshin' was taken by the Mist; the scrap at the perimeter proves an invasion is imminent.",
+      "source_type": "Police Force Officer",
+      "related_event": "shisui_investigation",
+      "accuracy": "false"
+    },
+    {
+      "content": "The Uchiha Police are pulling back from the streets... they say a monster was born in the river tonight.",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Hokage's tower went dark for a full minute... something is wrong with the master wards.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The blackout isn't a test; the sensory wards in the north were physically severed.",
+      "source_type": "guard",
+      "related_event": "blackout_initiated",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Uchiha Police Force has pulled all patrols back to the district center; they're hiding something.",
+      "source_type": "commoner",
+      "related_event": "uchiha_unrest",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Shunshin' has fallen, and the Uchiha are hunting his killer in the village tower.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A high-tier Uchiha is reportedly rampaging through the ANBU sector.",
+      "source_type": "guard",
+      "related_event": "sanctum_assassination",
+      "accuracy": "true"
+    },
+    {
+      "content": "Shisui the Shunshin was murdered by a 'shadow from the tower.'",
+      "source_type": "commoner",
+      "related_event": "shisui_death",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Uchiha District is holding a secret festival of lights.",
+      "source_type": "commoner",
+      "related_event": "blackout_initiated",
+      "accuracy": "false"
+    },
+    {
+      "content": "Root Headquarters has been completely silenced.",
+      "source_type": "guard",
+      "related_event": "fu_eliminated",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Root has gone silent; not a single beetle has been seen in the lower wards tonight.",
+      "source_type": "guard",
+      "related_event": "Assassination of Tatsuma and Fu",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Naka River is running red downstream from the cliffs; the search for the Shunshin is turning grim.",
+      "source_type": "traveler",
+      "related_event": "Discovery of Shisui's cloak",
+      "accuracy": "true"
+    },
+    {
+      "content": "A Mist Seven Swordsman has infiltrated the tower to avenge Riptide.",
+      "source_type": "Chunin Guard",
+      "related_event": "danzo_recovery_scene",
+      "accuracy": "false"
+    },
+    {
+      "content": "The blackout wasn't a relay failure; it was a ritual sacrifice in the Uchiha district.",
+      "source_type": "Civilian",
+      "related_event": "civilian_panic_blackout",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Master of Root was taken by Mist Hunter-nin who were actually 'ghosts' using Uchiha techniques.",
+      "source_type": "ANBU",
+      "related_event": "danzo_recovery_scene",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A high-ranking ANBU team found proof that the Mist infiltrated the Root's command sanctum.",
+      "source_type": "guard",
+      "related_event": "anbu_sensory_conclusion",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Uchiha district has gone unusually quiet; some say they are mourning Shisui, others say they are preparing for war.",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Fourth Mizukage is furious about the 'Unit 7' accusations and is mobilizing border patrols.",
+      "source_type": "traveler",
+      "accuracy": "true"
+    },
+    {
+      "content": "They say the Master of Root was killed by a Mist ghost who could bypass reality itself.",
+      "source_type": "guard",
+      "related_event": "danzo_recovery_scene",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Seven Swordsmen remnants have been sighted near the Port of Haze.",
+      "source_type": "traveler",
+      "related_event": "mist_beachhead_established",
+      "accuracy": "true"
+    },
+    {
+      "content": "ANBU Command is sending the 'Weasel' to the front lines as a peace offering to the Mist.",
+      "source_type": "guard",
+      "related_event": "mist_beachhead_established",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Black Sun' of the Uchiha was seen flying over the Port of Haze; some say the Sage has returned to judge the Leaf.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Black Sun is an Uchiha monster who turns men to glass.",
+      "source_type": "traveler",
+      "related_event": "itachi_ems_awakening",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Danzo Shimura was killed by a Mist ghost.",
+      "source_type": "guard",
+      "related_event": "danzo_assassination",
+      "accuracy": "false"
+    },
+    {
+      "content": "The 'Black Sun' turned the sea into a mountain of force to crush the Mist.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Uchiha have taken the Hokage's tower for 'protection'.",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Cloud's 'Blue Lightning' speedster intends to challenge the 'Black Sun' of the Leaf.",
+      "source_type": "merchant",
+      "related_event": "cloud_mobilization",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Nine-Tails has vanished from the village, and the Hokage's sensors are silent.",
+      "source_type": "guard",
+      "related_event": "Naruto's capture",
+      "accuracy": "true"
+    },
+    {
+      "content": "Itachi's eyes can see the destiny of every soul in the Leaf.",
+      "source_type": "commoner",
+      "related_event": "Rinnegan awakening",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Fourth Raikage has sworn to crush the Uchiha beneath his feet to avenge his brother.",
+      "source_type": "messenger",
+      "related_event": "cloud_invasion_escalation",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Black Sun' is actually a child who enslaved the Hidden Mist.",
+      "source_type": "traveler",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Raikage was silenced by a single look from a Leaf child.",
+      "source_type": "soldier",
+      "related_event": "cloud_surrender_ravine",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Black Sun' has stolen the thunder of the Raikage without drawing a blade; the Sage's eyes have returned to rule.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Black Sun' has stolen the souls of the Tailed Beasts and locked them in a wooden god.",
+      "source_type": "traveler",
+      "related_event": "tailed_beast_collection",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Weasel' of the Uchiha can silence a Kage with a single tap of his hilt.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Fifth Hokage's son is more interested in doting on his brother than ruling the village.",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Black Sun' can see the heartbeat of a butterfly from across the Land of Fire.",
+      "source_type": "commoner",
+      "related_event": "Uchiha Sovereignty",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Black Sun' is attending the summit to sign a global peace treaty.",
+      "source_type": "traveler",
+      "related_event": "coalition_summit_prep",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Black Sun' is actually a myth created by Konoha's Genjutsu corps to hide their lack of Jinchuuriki.",
+      "source_type": "guard",
+      "related_event": "tailed_beast_collection",
+      "accuracy": "false"
+    },
+    {
+      "content": "The Leaf's shadow is a ghost story told to frighten Kages.",
+      "source_type": "traveler",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Uchiha Hokage has tamed the Sannin through the wisdom of his son.",
+      "source_type": "noble",
+      "related_event": "social_parley_conclusion",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Black Sun' has gone quiet, but some say he's simply waiting for the moon to tell him when to strike again.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Captain Itachi is a 'soft' Jonin who got his rank through his father's robes.",
+      "source_type": "guard",
+      "accuracy": "false"
+    },
+    {
+      "content": "A strange star has been seen in the west, even during the day.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The western sands are turning to glass without the presence of fire or heat.",
+      "source_type": "traveler",
+      "related_event": "western_ripple_stabilization",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Uchiha 'Black Sun' has gone dim, his light fading as he plays at being a teacher.",
+      "source_type": "noble",
+      "related_event": "coalition_complacency",
+      "accuracy": "false"
+    },
+    {
+      "content": "The sky over the western border turned violet for a single second before the silence returned.",
+      "source_type": "traveler",
+      "related_event": "western_ripple_stabilization",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Black Sun' has ascended beyond the world to silence the stars.",
+      "source_type": "commoner",
+      "related_event": "Otsutsuki Erasure",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Uchiha's next generation has awakened eyes that do not hunger for blood.",
+      "source_type": "guard",
+      "related_event": "mangekyou_awakening",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Ghost of the Uchiha' has been seen watching the northern passes of Iron Country.",
+      "source_type": "noble",
+      "related_event": "current_mission",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Dual Wings of the Uchiha' defeated a ghost from the stars in the Land of Iron.",
+      "source_type": "traveler",
+      "related_event": "void_stalker_neutralization",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Black Sun' was just a myth created by the Fifth Hokage to scare the other nations.",
+      "source_type": "traveler",
+      "accuracy": "false"
+    },
+    {
+      "content": "The Hidden Mist is building a new 'Ghost Fleet' in the deep trenches to bypass Uchiha sensors.",
+      "source_type": "merchant",
+      "related_event": "mist_vassal_unrest",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Fifth Hokage's eldest son has lost his edge in retirement; he spends his days babysitting while his family protects the borders.",
+      "source_type": "commoner",
+      "related_event": "coalition_complacency",
+      "accuracy": "false"
+    },
+    {
+      "content": "The Sannin were seen entering the Uchiha District late at night, whispering about a 'return to the shadows'.",
+      "source_type": "guard",
+      "related_event": "leaf_internal_confusion",
+      "accuracy": "true"
+    },
+    {
+      "content": "Mist merchants are claiming that the Uchiha's 'Black Sun' has finally faded, and the sea is ours again.",
+      "source_type": "traveler",
+      "related_event": "mist_vassal_unrest",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Black Sun' has gone cold; some say the Uchiha's god died with his father.",
+      "source_type": "traveler",
+      "related_event": "coalition_complacency",
+      "accuracy": "false"
+    },
+    {
+      "content": "The Mist rebels have forged a blade capable of cutting through Uchiha sapphire steel.",
+      "source_type": "traveler",
+      "related_event": "mist_vessel_sabotage",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Fifth Hokage is searching for a successor to handle the 'Cloud Thunder'.",
+      "source_type": "noble",
+      "related_event": "tsunade_administrative_strain",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Black Sun' has grown soft in the nursery; he is no longer the blade that erased the Mist.",
+      "source_type": "traveler",
+      "accuracy": "false"
+    },
+    {
+      "content": "The Uchiha children soloed the exams, yet they weep at the victory feast; the bloodline is failing.",
+      "source_type": "commoner",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Hidden Cloud has sent a Black Lightning courier to Konoha with terms of blood.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "Market prices for medicinal herbs from the Land of Water have tripled this week due to Reef static.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Dual Wings' of the Uchiha can now shatter oceans with a single stroke of sapphire steel.",
+      "source_type": "merchant",
+      "related_event": "mist_blockade_resolved",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Uchiha 'Dual Wings' have achieved a mastery that makes the Sannin look like students.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Black Sun' has truly burned out, leaving only a stoic ghost in the Uchiha garden.",
+      "source_type": "guard",
+      "accuracy": "false"
+    },
+    {
+      "content": "The Uchiha shadow clones can move without a ripple, as if they are part of the air itself.",
+      "source_type": "guard",
+      "related_event": "uchiha_youth_inspiration",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Hokage has been seen pacing the tower balcony every night this week.",
+      "source_type": "noble",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Uchiha are planning to abandon the Land of Water to avoid a multi-front war.",
+      "source_type": "noble",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Sannin are no longer the ones making the real decisions in the Tower.",
+      "source_type": "guard",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Weasel' doesn't even use his eyes anymore; his chakra has withered to nothing.",
+      "source_type": "guard",
+      "accuracy": "false"
+    },
+    {
+      "content": "The 'Dual Wings' are the only thing keeping the Leaf from being a Stone province.",
+      "source_type": "traveler",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Black Sun' didn't die; he's just waiting for a reason to burn the world again.",
+      "source_type": "traveler",
+      "related_event": "stone_probe_conclusion",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Dual Inheritors' are facing their first true Master in the Valleys; some say their father is just a spectator to his own legacy.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Fifth Hokage no longer signs decrees without the 'Weasel's' shadow in the room.",
+      "source_type": "guard",
+      "related_event": "tsunade_administrative_weight",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Uchiha 'Dual Inheritors' are already stronger than their father ever was.",
+      "source_type": "commoner",
+      "accuracy": "false"
+    },
+    {
+      "content": "The Seven Swordsmen have returned to reclaim the seas; the Uchiha wings are already clipped.",
+      "source_type": "traveler",
+      "related_event": "mist_fleet_maneuver",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Dual Wings' are the true gods of the Leaf; the 'Black Sun' was just a shadow of their light.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Dual Inheritors' are being trained by the 'Weasel' himself to replace the Sannin.",
+      "source_type": "guard",
+      "related_event": "uchiha_youth_inspiration",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Stone's legendary 'Obsidian Core' vanished during a classified mission; some say they found a god in the dark.",
+      "source_type": "merchant",
+      "related_event": "obsidian_core_defection",
+      "accuracy": "partial"
+    }
+  ],
+  "schema_migration_version": 1,
+  "schema_migrated_at": "2026-05-27T12:19:50.143434+00:00",
+  "session_id": "legacy-migrated-e17a1fe874a9058f",
+  "frozen_plans": {},
+  "time_events": {},
+  "faction_updates": {
+    "Mist Insurgents": {
+      "resource_change": "+ Ice-Breaker Fleet",
+      "player_standing_change": "Hostile (Vassalage Repudiated)",
+      "progress": "Blockade 85% effective.",
+      "next_action": "Raiding coastal supply depots.",
+      "current_objective": "Enforce total economic isolation of the Hidden Leaf."
+    },
+    "Hidden Leaf": {
+      "progress": "Proposal for Mist withdrawal submitted.",
+      "next_action": "Drafting sovereign decree.",
+      "current_objective": "Stabilize continental peace through diplomatic concessions."
+    },
+    "The Continental Coalition": {
+      "progress": "Active",
+      "player_standing_change": "Wary/Hostile",
+      "resource_change": "Loss of 1 elite scouting unit",
+      "next_action": "Assembling a high-tier diplomatic probe for the Neutral Zone.",
+      "current_objective": "Testing the limits of the 'Dual Wings' deterrent."
+    },
+    "The Five Great Nations": {
+      "progress": "Stone and Sand have unified; Cloud is in recovery; Mist is a vassal.",
+      "resource_change": "Increased military spending; trade routes near Leaf are being diverted.",
+      "next_action": "Diplomatic pressure on neutral smaller nations.",
+      "current_objective": "Containment of the 'Uchiha Calamity'"
+    },
+    "Leaf Administration": {
+      "progress": "20%",
+      "player_standing_change": "Steady",
+      "next_action": "Mobilizing ANBU squads for coastal perimeter sweeps.",
+      "current_objective": "Contain border unrest and maintain the Treaty of Iron."
+    },
+    "Hidden Mist Fleet": {
+      "progress": "65%",
+      "next_action": "Coordinate orbital-style water strikes from the Mist.",
+      "current_objective": "Encircle and destroy the Southern Front Command."
+    },
+    "Hidden Cloud": {
+      "resource_change": "+ Tactical Foothold in Frost",
+      "progress": "Vanguard engaged; primary targets identified.",
+      "next_action": "Deploying S-Rank specialist 'Darui' to the shoreline.",
+      "current_objective": "Eliminate the Leaf's 'Black Sun' and reclaim Tailed Beast vessels."
+    },
+    "Uchiha Clan": {
+      "resource_change": "+100% Otsutsuki Artifacts",
+      "player_standing_change": "Absolute Sovereign",
+      "progress": "95%",
+      "next_action": "Establishing the first extra-dimensional outpost.",
+      "current_objective": "Consolidating internal security and preparing for cosmic expansion."
+    },
+    "Root": {
+      "resource_change": "Leadership: Decapitated; Tactical coordination: 0",
+      "player_standing_change": "Status: Enemy of the State",
+      "progress": "High tension; 30% of cells have gone dark to avoid the audit.",
+      "next_action": "Shadow sweeps of the ANBU Archive logs.",
+      "current_objective": "Identify the 'Internal Traitor' while maintaining decentralized operations."
+    },
+    "Continental Coalition": {
+      "progress": "Ultimatum deadline passing.",
+      "player_standing_change": "None",
+      "resource_change": "None",
+      "next_action": "Advancing Strike Force to Neutral Zone.",
+      "current_objective": "Test the Leaf's internal deterrent."
+    },
+    "Mist Missing-Nin": {
+      "progress": "70% - Entered the Valley chokepoint.",
+      "player_standing_change": "None",
+      "resource_change": "None",
+      "next_action": "Proceed through the geyser cluster.",
+      "current_objective": "Reach the border with stolen data."
+    },
+    "Mist Merchant Guild": {
+      "resource_change": "+ Gold",
+      "player_standing_change": "Neutral",
+      "progress": "High",
+      "next_action": "Requesting official recognition from Tsunade.",
+      "current_objective": "Secure trade monopoly in the Southern Sea."
+    },
+    "Stone-Cloud Alliance": {
+      "progress": "Initial vanguard neutralized; high-tier report pending.",
+      "player_standing_change": "Neutral (Unknown)",
+      "resource_change": "Loss of one elite saboteur squad.",
+      "next_action": "High-tier logistical mobilization.",
+      "current_objective": "Audit the 'Uchiha Anomaly' through live-fire border probes."
+    },
+    "Mist Sovereign Navy": {
+      "progress": "80% efficiency reached",
+      "next_action": "Targeting the Leaf's primary merchant convoy.",
+      "current_objective": "Economic Strangling / Blockade Escalation"
+    },
+    "Cloud High Command": {
+      "progress": "Ultimatum delivered to Tsunade.",
+      "next_action": "Mobilizing the 'Storm' division for a border demonstration.",
+      "current_objective": "Reacquire the Three-Tails (Isobu) via diplomatic coercion."
+    },
+    "Root Remnants": {
+      "resource_change": "Significant loss of elite personnel and telepathic coordination.",
+      "progress": "Stalled",
+      "current_objective": "Escape the internal ANBU purge and regroup at secondary bunkers."
+    },
+    "Hidden Mist": {
+      "progress": "Regressing",
+      "player_standing_change": "Terrified/Vassal Potential",
+      "resource_change": "Major Loss (-3 Elite Squads)",
+      "next_action": "Northern Flank landfall",
+      "current_objective": "Survive the internal collapse of the Admiralty."
+    },
+    "Cloud Diplomatic Corp": {
+      "progress": "Ultimatum delivered",
+      "next_action": "Awaiting Tsunade's response.",
+      "current_objective": "Umasking the Deterrent"
+    },
+    "Squad Ro": {
+      "progress": "In position.",
+      "player_standing_change": "Increasing professional respect (conditional on success).",
+      "resource_change": "None",
+      "next_action": "Execute pincer strike.",
+      "current_objective": "Retrieve stolen scroll and eliminate cell."
+    },
+    "Uchiha Police Force": {
+      "resource_change": "Searchlights deployed; heavy gear distributed",
+      "player_standing_change": "Seeking 'Weasel' for tactical debrief",
+      "progress": "Heavy gear distributed to 80% of officers",
+      "next_action": "Secure the administrative rooftops under cover of the blackout",
+      "current_objective": "Accelerated Mobilization"
+    },
+    "Hidden Stone": {
+      "progress": "High",
+      "resource_change": "+3 heavy divisions mobilized",
+      "next_action": "Eliminate the Uchiha 'Dual Inheritors' strike force.",
+      "current_objective": "Secure the Land of Valleys as a primary staging ground for a Leaf invasion."
+    }
+  }
+}

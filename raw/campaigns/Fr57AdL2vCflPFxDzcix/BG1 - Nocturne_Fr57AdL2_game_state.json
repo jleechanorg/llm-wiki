@@ -1,0 +1,902 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "death_saves": {
+      "successes": 1,
+      "failures": 0
+    },
+    "multiclass_plan": "Rogue",
+    "active_effects": [
+      {
+        "effect": "Resistance to All Damage",
+        "duration": "1 minute",
+        "name": "Invulnerability"
+      },
+      {
+        "effect": "+10 Stealth",
+        "duration": "50 minutes",
+        "name": "Pass Without Trace"
+      }
+    ],
+    "proficiency_bonus": 3,
+    "class": "Ranger",
+    "attributes": {
+      "strength": 10,
+      "dexterity": 20,
+      "intelligence": 12,
+      "wisdom": 18,
+      "charisma": 14,
+      "constitution": 14
+    },
+    "combat_stats": {
+      "passive_perception": 15,
+      "initiative": 10,
+      "attack_bonus_longbow": 11
+    },
+    "subclass_plan": "Gloom Stalker",
+    "status_conditions": [
+      "Satiated"
+    ],
+    "temp_hp": 4,
+    "spells_known": [
+      "Hunter's Mark",
+      "Speak with Animals",
+      "Pass Without Trace",
+      "Spike Growth",
+      "Rope Trick",
+      "Disguise Self"
+    ],
+    "resources": {
+      "hit_dice": {
+        "used": 0,
+        "total": 5
+      },
+      "consumables": {
+        "rations_days": 14,
+        "other_notable": [
+          "Poisoned Dagger (1 dose)",
+          "Crawler Mucus (3 doses)"
+        ]
+      },
+      "spell_slots": {
+        "level_2": {
+          "used": 1,
+          "total": 2
+        },
+        "level_1": {
+          "used": 0,
+          "total": 4
+        }
+      },
+      "arrows": 118,
+      "long_rests_since_last": 1,
+      "gold": 3792.6,
+      "short_rests": {
+        "used": 1,
+        "total": 0
+      }
+    },
+    "experience": {
+      "needed_for_next_level": 14000,
+      "current": 12500,
+      "to_next_level": 1500
+    },
+    "features": [
+      "Extra Attack",
+      "Proficiency Bonus +3",
+      "2nd Level Spells",
+      "Gloom Stalker Magic (Rope Trick)"
+    ],
+    "feats": [],
+    "hp_max": 38,
+    "level": 5,
+    "skills": [
+      "Stealth",
+      "Perception",
+      "Insight",
+      "Survival",
+      "Deception"
+    ],
+    "hp_current": 38,
+    "inventory": {
+      "gold": 5187.6,
+      "arrows": 158,
+      "items": {
+        "Letter from Sarevok (Seven Suns)": {
+          "quest_item": true,
+          "count": 1,
+          "description": "Orders to liquidate Seven Suns assets."
+        },
+        "Letters from Davaeorn": {
+          "quest_item": true,
+          "count": 1,
+          "description": "Intel on Cloakwood Mines."
+        },
+        "Full Plate Armor": {
+          "owner": "Kagain",
+          "description": "AC 18 Heavy Armor.",
+          "count": 0
+        },
+        "Studded Leather +1": {
+          "count": 1,
+          "description": "AC 13 + Dex Mod"
+        },
+        "Gemstones (Seven Suns)": {
+          "count": 1,
+          "description": "Loose rubies and pearls.",
+          "value": 800
+        },
+        "Poisoned Dagger": {
+          "count": 4,
+          "description": "Dagger coated in Crawler Mucus."
+        },
+        "Chain Mail +1": {
+          "owner": "Xan",
+          "description": "Magical Armor (AC 16)",
+          "count": 1
+        },
+        "Rusty Iron Key": {
+          "quest_item": true,
+          "count": 1,
+          "description": "Key to Level 3 / Flood Controls"
+        },
+        "Potion of Explosions": {
+          "count": 1,
+          "description": "Deals 6d6 Fire damage in AoE"
+        },
+        "Emeralds": {
+          "count": 2,
+          "description": "Stolen emeralds of Queen Ellesime. Quest Item/Valuable."
+        },
+        "Alchemist's Fire": {
+          "count": 1,
+          "description": "Flask of sticky fire. 1d4 Fire dmg per turn."
+        },
+        "Potion of Healing": {
+          "count": 11,
+          "description": "Restores 2d4+2 HP"
+        },
+        "Arrows +1": {
+          "count": 40,
+          "description": "Magical ammunition (+1 hit/dmg)"
+        },
+        "Varscona +2": {
+          "equipped": true,
+          "count": 1,
+          "description": "Longsword +2, +1d4 Cold. Finesse Property Added.",
+          "properties": [
+            "Finesse",
+            "Versatile"
+          ]
+        },
+        "Key to Davaeorn's Lift": {
+          "quest_item": true,
+          "count": 1
+        },
+        "Bracers of Defense": {
+          "count": 1,
+          "description": "AC 14 (Base)."
+        },
+        "Ring of Holiness": {
+          "count": 1,
+          "description": "Restores one Level 1-3 spell slot daily."
+        },
+        "Composite Longbow +1": {
+          "count": 1,
+          "description": "Requires 16 STR. +1 Hit/Dmg."
+        },
+        "Ring of Fire Resistance": {
+          "count": 1,
+          "description": "Resistance to Fire damage"
+        },
+        "Robe of the Evil Archmagi": {
+          "count": 1,
+          "description": "AC 15 + Dex. Evil alignment only. Valuable."
+        },
+        "Letter from Tazok": {
+          "quest_item": true,
+          "count": 1,
+          "description": "Found on Tranzig. Details the location of the Bandit Camp in the Wood of Sharp Teeth."
+        },
+        "Shortsword +1": {
+          "owner": "Roric",
+          "description": "Magical Shortsword, +1 to Hit and Damage.",
+          "count": 0
+        },
+        "Potion of Magic Blocking": {
+          "count": 1,
+          "description": "Immunity to magic for 5 rounds."
+        },
+        "Letters from Sarevok": {
+          "quest_item": true,
+          "count": 1,
+          "description": "Intel on Iron Throne HQ in Baldur's Gate."
+        },
+        "Elixir of Health": {
+          "count": 1,
+          "description": "Cures blindness, deafness, paralysis, and poison."
+        },
+        "Antidote": {
+          "count": 10,
+          "description": "Neutralizes poison."
+        },
+        "Potion of Invulnerability": {
+          "count": 0,
+          "description": "Resistance to all damage for 1 minute"
+        },
+        "Potion of Storm Giant Strength": {
+          "count": 1,
+          "description": "Sets STR to 29 for 1 hour. Identified."
+        },
+        "Trade Bars": {
+          "count": 1,
+          "description": "Gold ingots worth 1000gp",
+          "value": 1000
+        },
+        "Scroll of Slow": {
+          "count": 1
+        },
+        "Bag of Holding": {
+          "quest_item": true,
+          "count": 1,
+          "description": "A magical bag that holds 250 pounds within a 30 cubic foot space."
+        },
+        "Wand of Frost": {
+          "owner": "Dynaheir",
+          "description": "Wand, casts Cone of Cold. 7 Charges.",
+          "count": 0
+        },
+        "Studded Leather Armor": {
+          "equipped": true,
+          "description": "Reinforced leather armor (AC 12 + Dex Mod)",
+          "name": "Studded Leather Armor"
+        },
+        "Potion of Heroism": {
+          "count": 2,
+          "description": "Gain 10 Temp HP and Bless effect for 1 hour."
+        },
+        "Star Sapphire": {
+          "count": 1,
+          "description": "A flawless blue gem from the Temple coffers.",
+          "value": "500gp"
+        },
+        "Scroll of Web": {
+          "count": 1,
+          "description": "Spell Scroll (Level 2)"
+        },
+        "Arrows of Fire": {
+          "count": 5,
+          "description": "Deal +1d4 Fire damage"
+        },
+        "Gauntlets of Dexterity": {
+          "owner": "Roric",
+          "description": "Set wearer's Dexterity to 18. Requires Attunement.",
+          "count": 0
+        },
+        "Shield +1": {
+          "owner": "Kagain",
+          "description": "Magical Shield +1 AC",
+          "count": 1
+        },
+        "Legacy of the Masters": {
+          "equipped": true,
+          "count": 1,
+          "description": "Gauntlets. +1 to Attack Rolls, +2 to Damage Rolls."
+        },
+        "Loose Gems": {
+          "count": 1,
+          "description": "Rubies and pearls worth 800gp",
+          "value": 800
+        },
+        "Agate": {
+          "description": "A rough, banded gemstone.",
+          "value": "10gp",
+          "name": "Agate"
+        },
+        "Seven Suns Ledger": {
+          "quest_item": true,
+          "count": 1,
+          "description": "Proof of Iron Throne involvement."
+        },
+        "Potion of Absorption": {
+          "owner": "Kagain",
+          "description": "Resistance to all damage types (except Psychic) for 1 hour.",
+          "count": 0
+        },
+        "Heavy Crossbow of Accuracy": {
+          "count": 1,
+          "description": "Masterwork Crossbow +1 to Hit"
+        },
+        "Arrows of Detonation": {
+          "count": 3,
+          "description": "Explodes as Fireball (8d6 Fire) on impact."
+        },
+        "Scroll of Hold Person": {
+          "count": 1
+        },
+        "Potion of Invisibility": {
+          "count": 2,
+          "description": "Drinker becomes invisible for 1 hour or until attacking/casting."
+        },
+        "Potion of Fire Breath": {
+          "owner": "Minsc",
+          "description": "Exhale fire (4d6 damage)",
+          "count": 1
+        },
+        "Cloakwood Patrol Map": {
+          "quest_item": true,
+          "count": 1,
+          "description": "Advantage on Survival in Cloakwood."
+        },
+        "Scroll of Fireball": {
+          "count": 1
+        },
+        "Letter of Recommendation": {
+          "quest_item": true,
+          "count": 1,
+          "description": "A formal letter from Mayor Ghastkill commending Nocturne to the Dukes of Baldur's Gate."
+        },
+        "Jhampah's Vault Key": {
+          "quest_item": true,
+          "count": 1,
+          "description": "Key to the wall safe in the Seven Suns office."
+        },
+        "Wand of Magic Missiles": {
+          "count": 1,
+          "description": "Wand, 7 charges."
+        },
+        "Trade Bars (Seven Suns)": {
+          "count": 1,
+          "description": "Heavy gold ingots.",
+          "value": 1000
+        },
+        "Potion of Speed": {
+          "count": 1,
+          "description": "Grants Haste for 1 minute"
+        },
+        "Letters from Iron Throne": {
+          "quest_item": true,
+          "count": 1,
+          "description": "Intel on Cloakwood and Davaeorn."
+        },
+        "Letters from Tazok": {
+          "quest_item": true,
+          "count": 1,
+          "description": "Orders from the Iron Throne. Points to Tranzig and Bandit Camp."
+        },
+        "Jasper Gem": {
+          "count": 1,
+          "description": "A polished red stone."
+        },
+        "Arrows of Ice": {
+          "count": 10,
+          "description": "+1d6 Cold Damage"
+        },
+        "Boots of Grounding": {
+          "count": 1,
+          "description": "Resistance to Lightning damage."
+        },
+        "Ring of Protection +1": {
+          "equipped": true,
+          "count": 2,
+          "description": "Ring +1 AC and Saves."
+        },
+        "Arrow of Slaying (Kobold)": {
+          "count": 20,
+          "description": "Extra damage vs Kobolds"
+        },
+        "Robe of the Neutral Archmagi": {
+          "owner": "Xan",
+          "description": "AC 15 + Dex (max 2). Advantage on Saves vs Magic. Requires Attunement.",
+          "count": 1
+        },
+        "Holy Symbol of Cyric": {
+          "count": 1,
+          "description": "Mulahey's symbol."
+        },
+        "Scroll of Lightning Bolt": {
+          "count": 1,
+          "description": "Level 3 Evocation Spell"
+        },
+        "Potion of Master Thievery": {
+          "count": 1,
+          "description": "Advantage on Sleight of Hand/Stealth/Lockpicking. Identified."
+        },
+        "Cloak of Protection": {
+          "equipped": true,
+          "count": 1,
+          "description": "+1 AC and Saving Throws. Attuned."
+        },
+        "Potion of Hill Giant Strength": {
+          "owner": "Kagain",
+          "description": "Sets STR to 21 for 1 hour.",
+          "count": 1
+        },
+        "Wand of Lightning Bolts": {
+          "count": 1,
+          "description": "Casts Lightning Bolt (6 charges)."
+        }
+      }
+    },
+    "armor_class": 20,
+    "subclass": "Gloom Stalker",
+    "equipment": {
+      "arrows": 49,
+      "armor": "Studded Leather Armor",
+      "other": [
+        "Explorer's Pack",
+        "Arrows (19)"
+      ],
+      "dropped_items": [
+        "Longsword"
+      ],
+      "weapons": [
+        "Varscona +2 (Equipped)",
+        "Longbow",
+        "Dagger",
+        "Serrated Dagger (Poisoned)"
+      ]
+    }
+  },
+  "world_data": {
+    "reputation": {
+      "Beregost": "Hostile/Feared",
+      "Nashkel": "Feared"
+    },
+    "world_time": {
+      "minute": 20,
+      "time_of_day": "Evening",
+      "day": 16,
+      "second": 0,
+      "year": 1368,
+      "hour": 17,
+      "month": "Mirtul",
+      "microsecond": 0
+    },
+    "current_location": "Seven Suns Office",
+    "combat_state": {
+      "round": 1,
+      "in_combat": true,
+      "surprise_round": true,
+      "enemies": [
+        {
+          "hp_current": 52,
+          "status": "Surprised",
+          "name": "Doppelganger"
+        }
+      ]
+    },
+    "current_location_name": "Seven Suns Coster"
+  },
+  "npc_data": {
+    "Dynaheir": {
+      "attitude_to_party": "Ally (Bonded)",
+      "class": "Wizard (Invoker)",
+      "status": "Ready (War Caster)",
+      "feats": [
+        "War Caster"
+      ],
+      "location": "Fortified Armory - Casting Wards",
+      "level": 4,
+      "hp_max": 22,
+      "hp_current": 22,
+      "inventory": {
+        "Scroll of Fireball": 1,
+        "Scroll of Lightning Bolt": 1
+      },
+      "string_id": "npc_dynaheir_001",
+      "gender": "female",
+      "name": "Dynaheir"
+    },
+    "Hakt": {
+      "status": "Dead"
+    },
+    "Xan": {
+      "class": "Wizard (Enchanter)",
+      "mbti": "INTP",
+      "status": "Ready (War Caster)",
+      "feats": [
+        "War Caster"
+      ],
+      "location": "Fortified Armory - Roof, Scrying",
+      "level": 4,
+      "hp_max": 22,
+      "hp_current": 22,
+      "inventory": {
+        "Scroll of Web": 1
+      },
+      "string_id": "npc_xan_001",
+      "role": "Prisoner / Enchanter",
+      "armor_class": 15
+    },
+    "Natasha": {
+      "status": "Dead",
+      "mbti": "INTJ",
+      "hp_max": 40,
+      "hp_current": 0,
+      "age": 30,
+      "string_id": "npc_natasha_001",
+      "ac": 15,
+      "gender": "female",
+      "role": "Flood Gate Mage"
+    },
+    "Venkt": {
+      "status": "Dead"
+    },
+    "Raemon": {
+      "status": "Dead"
+    },
+    "Oublek": {
+      "attitude_to_party": "Fearful/Resentful",
+      "string_id": "npc_oublek_001",
+      "status": "Alive (Nashkel)",
+      "location": "Nashkel"
+    },
+    "Silke": {
+      "attitude_to_party": "Ally (Transactional)",
+      "status": "Unknown (Fled)",
+      "mbti": "ENTJ",
+      "hp_max": 22,
+      "level": 4,
+      "hp_current": 22,
+      "age": 28,
+      "string_id": "npc_silke_001",
+      "knowledge": [
+        "Nocturne saw through the act"
+      ],
+      "gender": "female",
+      "role": "Thespian / Mage",
+      "name": "Silke"
+    },
+    "Mulahey": {
+      "status": "Dead"
+    },
+    "Greywolf": {
+      "status": "Dead"
+    },
+    "Roric": {
+      "class": "Rogue",
+      "mbti": "ESTP",
+      "attributes": {
+        "dexterity": 18
+      },
+      "location": "Friendly Arm Inn",
+      "_comment_mbti": "INTERNAL USE ONLY - Action-oriented, adaptable, opportunistic",
+      "string_id": "npc_roric_001",
+      "gender": "male",
+      "name": "Roric",
+      "attitude_to_party": "Loyal (Partner)",
+      "status": "Active Party Member",
+      "feats": [
+        "Alert"
+      ],
+      "hp_max": 23,
+      "level": 4,
+      "hp_current": 23,
+      "age": 24,
+      "inventory": {
+        "Bracers of Defense": "Equipped (AC 14 Base)",
+        "Gauntlets of Dexterity": "Equipped (Attuned)",
+        "Thieves' Tools": "Equipped",
+        "Shortsword +1": "Equipped",
+        "Masterwork Shortsword": "Backup"
+      },
+      "armor_class": 18,
+      "subclass": "Assassin",
+      "role": "Pragmatic Survivalist"
+    },
+    "Tarnesh": {
+      "status": "Dead"
+    },
+    "Commander Scar": {
+      "string_id": "npc_scar_001",
+      "status": "Ally (Cautious)",
+      "role": "Flaming Fist Commander",
+      "location": "Baldur's Gate"
+    },
+    "Sarevok": {
+      "string_id": "npc_sarevok_001",
+      "status": "Unknown (Cloakwood?)",
+      "threat_level": "Tier 3 (Deadly)",
+      "role": "Armored Antagonist",
+      "name": "Sarevok Anchev"
+    },
+    "Hareishan": {
+      "level": 5,
+      "hp_current": 0,
+      "status": "Dead",
+      "string_id": "npc_hareishan_001",
+      "role": "Luskan Battle-Mage",
+      "location": "Level 2 Hallway",
+      "name": "Hareishan"
+    },
+    "Kagain": {
+      "class": "Fighter",
+      "mbti": "ISTJ",
+      "attributes": {
+        "strength": 16,
+        "dexterity": 12,
+        "intelligence": 10,
+        "wisdom": 10,
+        "charisma": 8,
+        "constitution": 20
+      },
+      "location": "Fortified Armory - Reinforcing Door",
+      "_comment_mbti": "INTERNAL USE ONLY - Lawful Evil, profit-driven",
+      "string_id": "npc_kagain_001",
+      "gender": "male",
+      "resources": {
+        "action_surge": {
+          "used": 1,
+          "total": 1
+        }
+      },
+      "attitude_to_party": "Ally (Greedy)",
+      "name": "Kagain",
+      "status": "Ready (Sentinel)",
+      "feats": [
+        "Sentinel"
+      ],
+      "hp_max": 36,
+      "level": 4,
+      "hp_current": 36,
+      "age": 55,
+      "inventory": {
+        "Splint Mail": "Equipped",
+        "Potion of Hill Giant Strength": 1,
+        "Potion of Healing": 1,
+        "Potion of Absorption": 1,
+        "Shield +1": "Equipped",
+        "Full Plate Armor": "Equipped"
+      },
+      "armor_class": 21,
+      "role": "Mercenary / Fence"
+    },
+    "Britik": {
+      "status": "Dead"
+    },
+    "Garrick": {
+      "attitude_to_party": "Loyal (Greedy)",
+      "resources": {
+        "spell_slots": {
+          "level_1": {
+            "used": 0,
+            "total": 2
+          }
+        }
+      },
+      "status": "Warden of Cloakwood Mines",
+      "mbti": "ESFP",
+      "hp_max": 10,
+      "location": "Cloakwood Mines",
+      "level": 1,
+      "hp_current": 10,
+      "age": 20,
+      "string_id": "npc_garrick_001",
+      "inventory": {
+        "Alchemist's Fire": 2
+      },
+      "role": "Administrator",
+      "gender": "male",
+      "name": "Garrick"
+    },
+    "Ender Sai": {
+      "string_id": "npc_ender_sai_001",
+      "status": "Detained",
+      "role": "Prisoner / Thief"
+    },
+    "Gauth": {
+      "hp_current": 0,
+      "status": "Dead"
+    },
+    "Minsc": {
+      "class": "Ranger",
+      "mbti": "ESFJ",
+      "location": "Fortified Armory - Packing",
+      "_comment_mbti": "INTERNAL USE ONLY - Fanatically loyal, protective, guided by Boo",
+      "string_id": "npc_minsc_001",
+      "gender": "male",
+      "name": "Minsc",
+      "attitude_to_party": "Enthusiastic Ally",
+      "status": "Ready (GWM)",
+      "feats": [
+        "Great Weapon Master"
+      ],
+      "hp_max": 32,
+      "level": 4,
+      "hp_current": 32,
+      "age": 30,
+      "inventory": {
+        "Potion of Fire Breath": 1
+      },
+      "role": "Ranger / Berserker",
+      "armor_class": 17
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "base_status": "bandit_camp_abandoned",
+    "cloakwood_alert_level": "low",
+    "cloakwood_intel": "waterfall_entrance_flood_protocol",
+    "character_creation": {
+      "in_progress": false,
+      "complete": true,
+      "ready_to_start": false,
+      "current_step": 9
+    },
+    "last_location": "Friendly Arm Inn",
+    "intel_level_3": "flood_trigger_secured",
+    "bears_recruited": false,
+    "core_memories": [
+      "Survived Sarevok's ambush; Gorion sacrificed himself to ensure escape.",
+      "Betrayed Jaheira and Khalid in Beregost to execute Silke's contract.",
+      "Executed the gem merchants and defeated Jaheira and Khalid in Beregost for Silke.",
+      "Interrogated Garrick; confirmed Silke worked for the Iron Throne to hide evidence of artificial ore taint.",
+      "Rescued Dynaheir from the Gnoll Stronghold using a fire diversion and surgical strike; assassinated Gnoll Elites.",
+      "Assassinated Mulahey in the Nashkel Mines, breaking the Iron Throne's local command and recovering proof of Tazok's involvement.",
+      "[auto] With the patrol neutralized and stripped of valuables, silence returns to the perimeter. The bodies are dragged deep into the bracken, hidden from casual inspection. Roric w",
+      "[auto] The bodies of the Black Talon patrol are hidden deep in the bracken, stripping the perimeter of its eyes. Silence returns to the woods, save for the distant, raucous noise o",
+      "[auto] You leave the pack behind in the bracken, vanishing into the treeline like smoke. The *Hunger* sharpens your senses, turning the chaotic noise of the camp into a stratified ",
+      "[auto] You hand Roric one of the black-fletched arrows recovered from the perimeter patrol. \"Make it count,\" you whisper. \"Black Talon arrow. Hobgoblin throat. Don't be seen.\"\n\nRor",
+      "[auto] You signal the pack to move. With the riot raging near the eastern wall, the noise discipline of the camp has collapsed. You circle wide, skirting the flickering light of th",
+      "[auto] You exhale, and the world bends to the rhythm of the *Hunger*. You whisper the incantation for *Zephyr Strike*, and a gale of invisible wind wraps around your limbs, acceler",
+      "[auto] You step over Venkt's twitching corpse and point **Varscona** at the stunned survivors. \"Minsc! Kagain! Clear the room!\"\n\nThe command snaps the leash on your heavy hitters. ",
+      "[auto] You do not hesitate. While Raemon fumbles for his shortsword, blood already soaking his tunic from Roric's strike, you lunge. **Varscona** hums a lethal note, the cold iron ",
+      "[auto] You do not risk the bow. The *Hunger* demands a guarantee, and nothing is more certain than the venom of a giant centipede.\n\nWith a flick of your wrist, you send the serrate",
+      "[auto] You do not risk the melee. With **Britik** grappling Minsc, a sword thrust is too risky, but an arrow knows only the line you draw for it.\n\nYou draw the fletching to your ea",
+      "[auto] You slice through the ropes binding **Ender Sai** with a flick of *Varscona*. The thief collapses to the floor, rubbing his wrists, his face pale but his eyes sharp with sur",
+      "[auto] You grab **Ender Sai** by the shoulder before he can slip away. \"The Armory,\" you demand, your voice low and urgent. \"Where is it? And is it worth the blood it will cost to ",
+      "[auto] You place a hand on Minsc's shoulder, the *Hunger* channeling raw vitality into the berserker. You whisper the words of *Cure Wounds*, and the gash in his side knits togethe",
+      "[auto] The timeline snaps back. The victory fades, replaced by the tension of the moment before the shot.\n\n**Operation: Civil War (Redux)**\n\nYou place a hand on Minsc's shoulder, w",
+      "[auto] You hand the flask of Alchemist's Fire to **Roric**. \"Do it,\" you whisper. \"Make it look like a Black Talon raid.\"\n\nThe rogue nods, his face grim. He circles wide, moving wi",
+      "[auto] The timeline corrects itself. The Command Tent behind you is silent, a canvas tomb for **Venkt** and his elite guard. You have already butchered the leadership and stripped ",
+      "[auto] You signal the move. With the Command Tent burning behind you, creating a beacon of panic that draws the eyes of every bandit in the valley, you slip into the shadows of the",
+      "Prepared for final day of hunting. Consolidated all loot into Bag of Holding and laid traps to defend the empty fortress. Party is setting for a long rest before the Cloakwood campaign."
+    ],
+    "intel_level_5": "flood_protocol_known",
+    "last_story_mode_sequence_id": 502,
+    "base_prep_plan": "wait_1_day_secure_hunt",
+    "level_up_pending": false,
+    "natasha_status": "dead",
+    "mine_alert_level": "medium",
+    "days_since_kill": 0,
+    "mission_status": "seven_suns_infiltration",
+    "combat_state": {
+      "round": 1,
+      "in_combat": true,
+      "surprise_round": true,
+      "enemies": [
+        {
+          "hp_current": 52,
+          "status": "Surprised",
+          "name": "Doppelganger"
+        }
+      ]
+    },
+    "location": "Baldur's Gate - Seven Suns Basement",
+    "bandit_camp_status": "fortified_and_abandoned",
+    "level_4_guards_cleared": true,
+    "flood_protocol_status": "neutralized",
+    "gauth_status": "dead",
+    "house_rules": {
+      "ignore_attunement": true
+    },
+    "scar_contact_made": true,
+    "party_size": 5,
+    "mine_infiltration_status": "undetected",
+    "attribute_system": "D&D",
+    "jhampah_status": "bound_interrogated",
+    "davaeorn_key_obtained": true,
+    "next_objective": "iron_throne_hq",
+    "intel_level_7": "sarevok_doppelganger_plot_confirmed",
+    "roric_status": "in_party",
+    "passive_income_enabled": true,
+    "bandit_camp_alert_level": "civil_war",
+    "intel_seven_suns_vault": "looted",
+    "intel_level_1": "mapped",
+    "active_missions": [
+      {
+        "title": "Investigate the Seven Suns",
+        "status": "active",
+        "mission_id": "seven_suns_investigation",
+        "objective": "Enter the Seven Suns trading coster and uncover the cause of the merchants' strange behavior."
+      }
+    ],
+    "current_dungeon_level": 0,
+    "scar_trust": "high",
+    "camp_loot_secured": true,
+    "alert_level": "low",
+    "mine_status": "occupied_by_player_faction",
+    "cloakwood_entry": true,
+    "side_quests_available": [
+      "scout_surrounding_outposts",
+      "track_bandit_leader",
+      "fortify_armory_for_defense"
+    ],
+    "intel_level_6": "doppelgangers_confirmed",
+    "chapter": 5,
+    "garrick_summoned": true,
+    "garrick_status": "warden",
+    "davaeorn_status": "dead",
+    "tazok_tent_guards": 1,
+    "hunger_state": "satiated",
+    "spider_nest_cleared": false,
+    "intel_level_2": "mulahey_undead_traps",
+    "prisoners_released": true,
+    "garrick_arrival_eta": 5,
+    "cloakwood_cleared_zones": [
+      "spider_nest",
+      "waterfall_entrance",
+      "level_1_staging"
+    ],
+    "base_established": true,
+    "intel_level_4": "tazok_tent_loc_confirmed",
+    "party_level_sync": "complete",
+    "cloakwood_infiltration_method": "bear_distraction",
+    "arc_milestones": {},
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "active_constraints": [],
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "round": 2,
+    "in_combat": true,
+    "surprise_round": false,
+    "turn": 1,
+    "combatants": {
+      "Nocturne": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": "prone"
+      },
+      "Roric": {
+        "hp_current": 1,
+        "hp_max": 1,
+        "status": "active"
+      },
+      "Gauth": {
+        "hp_current": 22,
+        "hp_max": 1,
+        "status": "bloodied"
+      }
+    },
+    "current_actor_index": 0
+  },
+  "last_state_update_timestamp": "2025-12-01 11:10:44.205000+00:00",
+  "turn_number": 0,
+  "player_turn": 0,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "minute": 20,
+    "time_of_day": "Evening",
+    "day": 16,
+    "second": 0,
+    "year": 1368,
+    "hour": 17,
+    "month": "Mirtul"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {
+    "last_note": "Arrows: 123"
+  },
+  "time_pressure_warnings": {},
+  "debug_mode": false,
+  "pending_instruction_hints": [],
+  "debug_info": {
+    "dm_notes": [
+      "Provided psychological analysis of Minsc and Dynaheir.",
+      "Confirmed manipulation vectors: Deception for Minsc, Pragmatism for Dynaheir.",
+      "No state changes; planning phase only."
+    ],
+    "state_rationale": "Deep Think response to user query."
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73"
+}

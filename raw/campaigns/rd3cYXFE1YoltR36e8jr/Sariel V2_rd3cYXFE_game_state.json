@@ -1,0 +1,693 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "core_unconscious_beliefs": [
+      "Absolute control is the only true safety and the ultimate pleasure.",
+      "Weakness (especially emotional) is a fatal flaw to be purged, both in herself and others.",
+      "The world is a system to be ordered and controlled by the strongest will, and that will is mine."
+    ],
+    "combat_prowess_bonus": 3,
+    "background": "Noble",
+    "death_saves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "composite_psychological_sketch": {
+      "dominant_defenses": "Intellectualization, Isolation of Affect, Rationalization, Compartmentalization (to hide darker enjoyment)",
+      "attachment_color": "Avoidant-Fearful (evolving towards Dismissive-Avoidant and eventually Strategic/Controlling/Dominating)"
+    },
+    "xp_current": 26190,
+    "social_persona_vs_repressed_interior": {
+      "social_persona": "The grieving, brilliant scholar seeking answers; the competent, if solemn, princess now armed with terrifying knowledge.",
+      "inner_person": "A fiercely intelligent strategist embracing the path of absolute control, finding a cold, dark satisfaction in outmaneuvering, dominating, and subtly unmaking perceived obstacles and powerful individuals, driven by avarice and hedonism."
+    },
+    "current_ep": 36,
+    "combat_stats": {
+      "speed": 30,
+      "passive_perception": 13,
+      "initiative": 0
+    },
+    "backstory_summary": "Daughter of the legendary Alexiel and Prince Artorius. At age 15, she was kidnapped by the warlord Mordan. Under duress from torture, she revealed the secret of her mother's absolute moral vow to protect children. She then witnessed Mordan use this information to trap her mother, forcing Alexiel to sacrifice her own life to stop a demonic ritual and save Sariel. She is now consumed by guilt, believing her weakness directly caused her mother's death.",
+    "temp_hp": 0,
+    "saving_throw_proficiencies": [
+      "Intelligence",
+      "Wisdom"
+    ],
+    "resources": {
+      "hit_dice": {
+        "used": 0,
+        "total": 1
+      },
+      "spell_slots": {
+        "level_1": {
+          "used": 0,
+          "total": 0
+        }
+      },
+      "energy_points": {
+        "current": 36,
+        "total": 36
+      },
+      "gold": 15,
+      "inspiration": false
+    },
+    "experience": {
+      "current": 26190,
+      "to_next_level": 0,
+      "needed_for_next_level": 300
+    },
+    "core_memories": [
+      "Sariel uses her Mirror Magic with Gideon's anchor to access Kaelan's memories, witnessing the true events of the Starfall Gambit: Alexiel's mastery of the Nullification Field, her hidden magic, her six wings, and the chilling, 'unmoved' expression of the 'Joyful Predator' as she defeated Lucifer, revealing the ultimate betrayal of Kaelan's fallen comrades.",
+      "Sariel accesses Kaelan's restored memory of Alexiel's visit to his cell after the Starfall Gambit, witnessing her mother's profound, hidden grief and the chilling, conscious effort to resume her 'unmoved' persona, confirming the dual nature of her strength and suffering."
+    ],
+    "followers": null,
+    "features": [
+      "Stifled Prodigy",
+      "Latent Mirror Magic"
+    ],
+    "feats": {
+      "Alert": {
+        "description": "You are keenly aware of danger. You gain a +5 bonus to initiative. You can't be surprised while you are conscious. Other creatures don't gain advantage on attack rolls against you as a result of being unseen by you."
+      }
+    },
+    "personal_myth_narrative": {
+      "toxicity": "Her myth will lead her to sacrifice any personal bond, any human empathy, if it stands in the way of her ultimate goal of absolute control and personal gratification, risking becoming the very tyrant she initially condemned.",
+      "role": "The Architect of Control; The Unseen Empress; The Dominator of Wills",
+      "comfort": "The flawless execution of a complex plan. The subtle dismantling of an opponent's will. The feeling of absolute, unchallengeable control and the humiliation of those beneath her.",
+      "story_told": "The world is chaos, broken by sentiment and weakness. I am the will that will impose absolute order, forging a perfected reality from its fractured remains, and I will take everything I desire along the way."
+    },
+    "level": 1,
+    "core_motivation": "To achieve absolute, unchallengeable control over her own destiny and the Imperium, ensuring neither she nor her family ever suffer helplessness or loss again. To impose perfect order through precise, ruthless unmaking.",
+    "skills": [
+      "Ancient History",
+      "Imperial Political History",
+      "Arcane Theory",
+      "Cryptography"
+    ],
+    "age": 15,
+    "xp_to_next": 10700,
+    "armor_class": 10,
+    "defense_mechanism_diagnostics": {
+      "Isolation of Affect": "She can perform devastating acts of manipulation or violence while maintaining perfect outward calm, feeling only intellectual and personal satisfaction, not remorse, rigidly separating this enjoyment from public perception.",
+      "Rationalization": "Any ruthless or dominating action will be rationalized as a 'necessary step' for the 'greater good' of order and stability, particularly her own control and advancement, masking her avaricious enjoyment.",
+      "Intellectualization": "She will analyze personal betrayals or cruelties purely in terms of strategic advantage or logical necessity, detaching from emotional cost, even as she savors the hidden enjoyment.",
+      "Compartmentalization": "Her hidden, darker satisfaction in domination and humiliation will be rigidly separated from her public persona and her genuine (if guarded) affection for her allies and family."
+    },
+    "equipment": {
+      "backpack": [
+        "Leather-bound journal",
+        "Silver locket (broken)",
+        "Small pouch with 15 gp"
+      ],
+      "money": "15 gp",
+      "armor": "None",
+      "weapons": [
+        "Dagger"
+      ]
+    },
+    "class": "Scholar",
+    "status_effects": {
+      "psychic_strain": "__DELETE__"
+    },
+    "mbti": "INFJ",
+    "closing_pulse": "She will either save the world by becoming its ultimate tyrant, or destroy it in her relentless pursuit of perfect, gratifying order.",
+    "attributes": {
+      "strength": 8,
+      "dexterity": 10,
+      "intelligence": 18,
+      "wisdom": 16,
+      "charisma": 12,
+      "constitution": 12
+    },
+    "greatest_fear": "Loss of control. Not physical helplessness, but the inability to impose her will, to dictate terms, or to dominate others.",
+    "gold_per_day": null,
+    "status_conditions": [],
+    "string_id": "pc_sariel_001",
+    "alignment": "Neutral Good",
+    "relational_decoding": {
+      "attachment_script": "If I achieve absolute control, then I will be safe and powerful. Relationships are leverage or tools to that end, to be dominated and owned, or to be discarded if they no longer serve.",
+      "behavior": [
+        "She will assess individuals purely by their utility and potential for control, manipulating them subtly to serve her agenda, finding personal enjoyment in their compliance.",
+        "Her 'loyalty' to allies will be based on their strategic value and their adherence to her vision, treating them as extensions of her will, not as equals."
+      ]
+    },
+    "name": "Sariel val Artorius",
+    "key_personality_traits": "Calculating, precise, ruthless, highly intelligent, ambitious, avaricious, hedonistic, domineering, and with a hidden, developing satisfaction in dominating and humiliating powerful individuals.",
+    "experience_to_next_level": null,
+    "spells_known": {
+      "Misty Step": {
+        "description": "Teleport a short distance.",
+        "level": 2
+      },
+      "Haste": {
+        "description": "Increase a creature's speed and grant them an additional action.",
+        "level": 3
+      },
+      "Fireball": {
+        "description": "A burst of fire that deals fire damage in an area.",
+        "level": 3
+      },
+      "Detect Thoughts": {
+        "description": "Read the surface thoughts of creatures.",
+        "level": 2
+      },
+      "Clairvoyance": {
+        "description": "You create an invisible sensor within range in a location familiar to you or known to you. You can hear or see from the sensor's location.",
+        "level": 3
+      },
+      "Arcane Eye": {
+        "description": "You create an invisible, magical eye that hovers in the air for the duration. You mentally receive visual information from the eye, which has normal vision and darkvision out to 30 feet. The eye can look in any direction. As an action, you can move the eye up to 30 feet in any direction. The eye can travel through walls.",
+        "level": 4
+      },
+      "status": [],
+      "Greater Invisibility": {
+        "description": "A creature you touch becomes invisible until the spell ends, even if it attacks or casts a spell.",
+        "level": 4
+      },
+      "Lightning Bolt": {
+        "description": "A stroke of lightning that deals lightning damage in a line.",
+        "level": 3
+      },
+      "Ice Storm": {
+        "description": "A cylinder of freezing hail and piercing force. Deals cold and bludgeoning damage and creates a patch of difficult terrain.",
+        "level": 4
+      },
+      "Invisibility": {
+        "description": "Make a creature invisible.",
+        "level": 2
+      },
+      "Hold Person": {
+        "description": "Paralyze a humanoid.",
+        "level": 2
+      },
+      "Major Image": {
+        "description": "You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 20-foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it creates no sound, smell, or other sensory effects. You can use your action to move the image anywhere within range.",
+        "level": 3
+      }
+    },
+    "psychology_and_personality": {
+      "core_motivation": "To achieve absolute, unchallengeable control over her own destiny and the Imperium, ensuring neither she nor her family ever suffer helplessness or loss again. To impose perfect order through precise, ruthless unmaking.",
+      "key_personality_traits": "Calculating, precise, ruthless, highly intelligent, ambitious, avaricious, hedonistic, domineering, and with a hidden, developing satisfaction in dominating and humiliating powerful individuals.",
+      "greatest_fear": "Loss of control. Not physical helplessness, but the inability to impose her will, to dictate terms, or to dominate others."
+    },
+    "hp_max": 7,
+    "class_features": {
+      "Mirror Reflection": {
+        "level_unlocked": 2,
+        "description": "When Sariel successfully casts a spell of 1st level or higher, she can, as a bonus action on the same turn, store a faint 'reflection' of that spell's energy within her mind. Once stored, for the next minute, she can cause one visible object within 30 feet to briefly shimmer with the spell's visual effect (no mechanical effect)."
+      },
+      "Echoed Insight": {
+        "level_unlocked": 2,
+        "description": "Sariel has an uncanny ability to glean information from magical sources. When Sariel examines a magical item or spellbook for at least 1 minute, she can make an Intelligence (Arcana) check (DC determined by the item/spell's complexity). On a success, she gains Advantage on her next Intelligence (Investigation) check related to the item's history or purpose, or on her next Intelligence (Arcana) check to identify or understand a spell within the book."
+      }
+    },
+    "hp_current": 7,
+    "archetype": "The Disgraced Scholar / The Architect of Absolute Will",
+    "proficiency_bonus": 2,
+    "subclass": "School of the Mirror"
+  },
+  "world_data": {
+    "world_time": {
+      "hour": 13,
+      "day": 5,
+      "year": 11,
+      "month": "Kythorn",
+      "minute": 0,
+      "microsecond": 0,
+      "time_of_day": "midday"
+    },
+    "current_location": "Small Study, Great Archives, Zenith Spire, Aeterna."
+  },
+  "npc_data": {
+    "Valerius Arcanus": {
+      "class": "Knight",
+      "mbti": "ISTJ",
+      "hidden": false,
+      "attributes": {
+        "strength": 18,
+        "dexterity": 16,
+        "intelligence": 16,
+        "wisdom": 15,
+        "charisma": 14,
+        "constitution": 17
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 3,
+        "passive_perception": 12
+      },
+      "faction": "faction_principatesenate_001",
+      "conscious": true,
+      "present": true,
+      "string_id": "npc_valerius_001",
+      "recent_actions": [],
+      "name": "Valerius Arcanus",
+      "attitude_to_party": "watchful, assessing",
+      "status": "Imposing, silently observing",
+      "hp_max": 165,
+      "level": 15,
+      "hp_current": 165,
+      "age": 18,
+      "knowledge": [],
+      "relationships": {
+        "npc_darius_001": "professional alliance",
+        "npc_cassian_001": "professional alliance"
+      },
+      "role": "Senior Imperial Guard Commander, Prince's trusted aide",
+      "armor_class": 21
+    },
+    "Magister Lucian Kantos": {
+      "class": "Runesmith",
+      "mbti": "INFJ",
+      "hidden": false,
+      "attributes": {
+        "strength": 12,
+        "dexterity": 10,
+        "intelligence": 24,
+        "wisdom": 18,
+        "charisma": 14,
+        "constitution": 16
+      },
+      "combat_stats": {
+        "speed": 25,
+        "initiative": 0,
+        "passive_perception": 14
+      },
+      "faction": "faction_revisionistscholars_001",
+      "conscious": true,
+      "present": true,
+      "string_id": "npc_lucian_001",
+      "recent_actions": [],
+      "name": "Magister Lucian Kantos",
+      "attitude_to_party": "fearful ally",
+      "status": "Terrified, submissive",
+      "hp_max": 123,
+      "level": 16,
+      "hp_current": 123,
+      "age": 200,
+      "knowledge": [],
+      "relationships": {
+        "pc_sariel_001": "desperate reliance"
+      },
+      "role": "Keeper of Hallowed Archives, Revisionist Scholar",
+      "armor_class": 18
+    },
+    "Gareth Ashfeld": {
+      "class": "Expert",
+      "mbti": "INFP",
+      "hidden": false,
+      "attributes": {
+        "strength": 9,
+        "dexterity": 10,
+        "intelligence": 16,
+        "wisdom": 14,
+        "charisma": 12,
+        "constitution": 12
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 0,
+        "passive_perception": 12
+      },
+      "faction": null,
+      "string_id": "npc_gareth_001",
+      "present": true,
+      "conscious": true,
+      "recent_actions": [],
+      "attitude_to_party": "supportive",
+      "status": "Nervous, trying to de-escalate",
+      "hp_max": 21,
+      "level": 3,
+      "hp_current": 21,
+      "knowledge": [],
+      "role": "Personal scribe and aide to Lady Sariel",
+      "armor_class": 10,
+      "relationships": {
+        "pc_sariel_001": "loyal friend"
+      }
+    },
+    "Sariel val Artorius": {
+      "status": "Anxious but focused after roll results",
+      "relationships": {
+        "Darius val Artorius": "strained",
+        "Cassian Arcanus": "hostile"
+      }
+    },
+    "Cassian val Artorius": {
+      "class": "Fighter",
+      "mbti": "ESFP",
+      "hidden": false,
+      "attributes": {
+        "strength": 18,
+        "dexterity": 16,
+        "intelligence": 10,
+        "wisdom": 12,
+        "charisma": 14,
+        "constitution": 16
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 3,
+        "passive_perception": 11
+      },
+      "faction": "faction_starfallcommand_001",
+      "string_id": "npc_cassian_001",
+      "present": true,
+      "conscious": true,
+      "recent_actions": [
+        "Confronting Sariel"
+      ],
+      "attitude_to_party": "hostile",
+      "status": "Furious and accusatory towards Sariel",
+      "hp_max": 141,
+      "level": 13,
+      "hp_current": 141,
+      "knowledge": [
+        "Mother's death at Sacrifice Fields"
+      ],
+      "role": "Prince of Celestial Imperium, Avenger Son",
+      "armor_class": 18,
+      "relationships": {
+        "pc_sariel_001": "resentful, suspicious"
+      }
+    },
+    "Cressida Valeriana": {
+      "age": 16,
+      "xp_current": 4700,
+      "level": 5
+    },
+    "Sergeant Kaelan": {
+      "class": "Fighter",
+      "mbti": "ISTJ",
+      "hidden": false,
+      "attributes": {
+        "strength": 16,
+        "dexterity": 14,
+        "intelligence": 12,
+        "wisdom": 13,
+        "charisma": 10,
+        "constitution": 15
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 2,
+        "passive_perception": 13
+      },
+      "faction": "faction_starfallcommand_001",
+      "conscious": false,
+      "present": true,
+      "string_id": "npc_kaelan_001",
+      "recent_actions": [],
+      "name": "Sergeant Kaelan",
+      "attitude_to_party": "unresponsive",
+      "status": "Catatonic, unresponsive",
+      "hp_max": 28,
+      "level": 4,
+      "hp_current": 28,
+      "age": 28,
+      "knowledge": [
+        "Starfall Gambit details (traumatized memories)"
+      ],
+      "relationships": {},
+      "role": "Catatonic Starfall Guard survivor",
+      "armor_class": 16
+    },
+    "Darius val Artorius": {
+      "class": "Fighter",
+      "mbti": "ISTJ",
+      "hidden": false,
+      "attributes": {
+        "strength": 16,
+        "dexterity": 18,
+        "intelligence": 18,
+        "wisdom": 14,
+        "charisma": 12,
+        "constitution": 16
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 4,
+        "passive_perception": 12
+      },
+      "faction": "faction_starfallcommand_001",
+      "string_id": "npc_darius_001",
+      "present": true,
+      "conscious": true,
+      "recent_actions": [
+        "Confronting Sariel"
+      ],
+      "attitude_to_party": "suspicious",
+      "status": "Coldly analytical, demanding answers",
+      "hp_max": 128,
+      "level": 13,
+      "hp_current": 128,
+      "knowledge": [
+        "Mother's death at Sacrifice Fields"
+      ],
+      "role": "Prince of Celestial Imperium, Cold Disciplinarian",
+      "armor_class": 21,
+      "relationships": {
+        "pc_sariel_001": "distrustful, wary"
+      }
+    },
+    "Gideon Vance": {
+      "xp_current": 7700,
+      "level": 6
+    },
+    "Rowan Thorne": {
+      "class": "Expert",
+      "faction": null,
+      "hidden": false,
+      "attributes": {
+        "strength": 9,
+        "dexterity": 10,
+        "intelligence": 16,
+        "wisdom": 14,
+        "charisma": 12,
+        "constitution": 12
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 0,
+        "passive_perception": 12
+      },
+      "mbti": "INFP",
+      "xp_current": 2900,
+      "conscious": true,
+      "present": true,
+      "string_id": "npc_rowan_001",
+      "recent_actions": [],
+      "name": "Rowan Thorne",
+      "attitude_to_party": "supportive",
+      "status": "Trying to de-escalate",
+      "hp_max": 21,
+      "level": 3,
+      "hp_current": 21,
+      "age": 16,
+      "knowledge": [],
+      "role": "Personal scribe and aide to Lady Sariel",
+      "armor_class": 10,
+      "relationships": {
+        "pc_sariel_001": "loyal friend"
+      }
+    },
+    "Ser Gideon Vance": {
+      "class": "Fighter",
+      "faction": "faction_starfallcommand_001",
+      "hidden": false,
+      "attributes": {
+        "strength": 20,
+        "dexterity": 14,
+        "intelligence": 10,
+        "wisdom": 16,
+        "charisma": 10,
+        "constitution": 18
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 2,
+        "passive_perception": 13
+      },
+      "mbti": "ISTJ",
+      "xp_current": 7200,
+      "conscious": true,
+      "present": true,
+      "string_id": "npc_gideon_001",
+      "recent_actions": [],
+      "name": "Ser Gideon Vance",
+      "attitude_to_party": "protective",
+      "status": "Vigilant, ready to defend Sariel",
+      "hp_max": 152,
+      "level": 14,
+      "hp_current": 152,
+      "age": 25,
+      "knowledge": [],
+      "role": "Knight of Starfall Guard, Sariel's sworn shield",
+      "armor_class": 22,
+      "relationships": {
+        "pc_sariel_001": "unwavering loyalty, repressed love"
+      }
+    },
+    "Cassian Arcanus": {
+      "level": 13,
+      "age": 18,
+      "status": "Frustrated by passive approach, advocating for direct action",
+      "role": "Heir to House Arcanus, Twin Prince.",
+      "name": "Cassian Arcanus"
+    },
+    "Lady Cressida Valeriana": {
+      "class": "Expert",
+      "faction": null,
+      "hidden": false,
+      "attributes": {
+        "strength": 10,
+        "dexterity": 14,
+        "intelligence": 18,
+        "wisdom": 16,
+        "charisma": 16,
+        "constitution": 12
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 2,
+        "passive_perception": 13
+      },
+      "mbti": "ENTJ",
+      "xp_current": 4700,
+      "conscious": true,
+      "present": true,
+      "string_id": "npc_cressida_001",
+      "recent_actions": [],
+      "name": "Lady Cressida Valeriana",
+      "attitude_to_party": "strategic ally",
+      "status": "Composed, strategically assessing",
+      "hp_max": 75,
+      "level": 12,
+      "hp_current": 75,
+      "age": 16,
+      "knowledge": [],
+      "role": "Lady-in-Waiting to Sariel, political operative",
+      "armor_class": 15,
+      "relationships": {
+        "pc_sariel_001": "loyal friend, political partner"
+      }
+    },
+    "Sergeant Roric": {
+      "class": "Fighter",
+      "mbti": "ISTJ",
+      "hidden": false,
+      "attributes": {
+        "strength": 18,
+        "dexterity": 12,
+        "intelligence": 10,
+        "wisdom": 14,
+        "charisma": 10,
+        "constitution": 17
+      },
+      "combat_stats": {
+        "speed": 30,
+        "initiative": 1,
+        "passive_perception": 12
+      },
+      "faction": "faction_starfallcommand_001",
+      "string_id": "npc_roric_001",
+      "present": true,
+      "conscious": true,
+      "recent_actions": [],
+      "attitude_to_party": "watchful, disciplined",
+      "status": "Disciplined, observing the scene",
+      "hp_max": 80,
+      "level": 8,
+      "hp_current": 80,
+      "knowledge": [],
+      "role": "Veteran Starfall Guard",
+      "armor_class": 20,
+      "relationships": {
+        "npc_gideon_001": "professional respect"
+      }
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "titus_control_over_assets": "Exercised through traditional guardianship; believes Sariel is too vulnerable/inexperienced to manage it.",
+    "last_story_mode_sequence_id": 483,
+    "attribute_system": "D&D",
+    "name_overrides_confirmed": true,
+    "active_missions": [
+      {
+        "title": "Secure Forbidden Knowledge",
+        "status": "in_progress",
+        "mission_id": "secure_forbidden_knowledge",
+        "objective": "Copy, fragment, disperse, and destroy the Null Genesis Project journals and other sensitive lore. Ensure the truth remains controlled."
+      },
+      {
+        "title": "Acquire Dream-Weaver Cactus Distillate",
+        "status": "in_progress",
+        "mission_id": "acquire_dreamweaver_distillate",
+        "objective": "Cressida to discreetly contact Nexus Glimmering Combine contacts to acquire a psychic distillate from the Dream-Weaver cactus from the Sylvan Remnant."
+      },
+      {
+        "title": "Acquire Personal Guard",
+        "status": "completed",
+        "mission_id": "acquire_personal_guard",
+        "objective": "Secured a dedicated personal guard from the Starfall Guard, leveraging perceived trauma and Titus's influence. They are now awaiting summons."
+      },
+      {
+        "title": "Initiate Blackmail Network",
+        "status": "in_progress",
+        "mission_id": "initiate_blackmail_network",
+        "objective": "Identify vulnerable noble houses using the Affliction ledger and leverage their secrets for ongoing financial and political gain. Exploit their pride and fear for personal dominion."
+      }
+    ],
+    "premise": "One year after her legendary mother sacrificed herself to save her, Sariel Arcanus continues to navigate a web of grief, guilt, and political intrigue, all while bearing the secret that she was the one who broke under torture and revealed the weakness that led to her mother's death. Her research into this past year has led her to terrifying new truths about her lineage.",
+    "completed_missions": [],
+    "house_arcanus_assets": {
+      "status": "Under Titus's nominal control, but accessible through subtle manipulation",
+      "value": "Vast (tens of thousands of gold pieces, multiple estates, trade holdings)"
+    },
+    "core_memories": [
+      "Sariel uncovers the terrifying truth: her mother's 'Joyful Predator' trait and unique Nullification powers are a refined manifestation of the Empyrean Affliction, stemming from Lucifer's essence.",
+      "Sariel successfully manipulated the Silent Guard, leveraging their rigid protocols and philosophical vulnerabilities to gain access to the Quiet Ward, demonstrating an unprecedented level of psychological and intellectual control over Apex Celestials.",
+      "Sariel accesses Kaelan's restored memory of Alexiel's visit to his cell after the Starfall Gambit, witnessing her mother's profound, hidden grief and the chilling, conscious effort to resume her 'unmoved' persona, confirming the dual nature of her strength and suffering.",
+      "Sariel subtly manipulates Rowan, leveraging his empathy to bind him to her will as her 'conscience,' making him an unwitting enabler of her dark path to power.",
+      "Sariel subtly manipulates Ser Gideon Vance, leveraging his absolute loyalty and rigid discipline to redefine his duty, making him an unwavering instrument of her will to impose absolute order.",
+      "Sariel subtly manipulates Lady Cressida Valeriana, leveraging her ambition and desire for power to bind her into willing, hedonistic complicity, making her a co-conspirator in Sariel's ascent to absolute control.",
+      "Sariel's political influence initiative yields mixed but significant results, with a critical success from the Collegium of Divination and a critical failure from the Lords of the Crimson March."
+    ],
+    "arc_milestones": {},
+    "companion_arcs": {},
+    "next_companion_arc_turn": 3,
+    "active_constraints": [],
+    "campaign_tier": "mortal",
+    "divine_potential": 0,
+    "universe_control": 0,
+    "divine_upgrade_available": false,
+    "multiverse_upgrade_available": false
+  },
+  "social_hp_challenge": null,
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2025-07-04 18:31:02.950000+00:00",
+  "turn_number": 0,
+  "player_turn": 0,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "hour": 13,
+    "day": 5,
+    "year": 11,
+    "month": "Kythorn",
+    "minute": 0
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "migration_status": "MIGRATED",
+  "core_memories": [
+    "Sariel confirms her vast inheritance from House Arcanus, understanding Titus's control is a perceived protection, not an overt denial, paving the way for subtle financial dominion."
+  ]
+}

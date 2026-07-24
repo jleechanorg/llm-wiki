@@ -1,0 +1,2986 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "aliases": [
+      "Herald Saita Kross"
+    ],
+    "active_effects": [
+      "Foresight - Advantage on all rolls; enemies have disadvantage on attacks (Daily L9 slot cost)",
+      "Glibness - Minimum d20 roll for CHA checks is 15",
+      "Arch-Devil Branding - Truesight 120ft; Advantage on checks vs Fiends",
+      "Hell-Fire Mastery - Immune to Fire/Poison; Fire damage ignores resistance"
+    ],
+    "class_name": "Ascendant Herald (Bard)",
+    "cantrips": [
+      {
+        "name": "Vicious Mockery"
+      },
+      {
+        "name": "Friends"
+      },
+      {
+        "name": "Minor Illusion"
+      }
+    ],
+    "display_name": "Saita Aethelgard",
+    "combat_stats": {
+      "spell_save_dc": 29,
+      "spell_attack_bonus": 19
+    },
+    "hit_dice_max": 9,
+    "race": "Aethelgardian",
+    "core_memories": [
+      "Saita is the 5th in line to the Aethelgard throne, posing as a Herald to Baldur's Gate.",
+      "The Aethelgard Empire is secretly bankrupt and decimated by civil war.",
+      "Imperial Facade is the primary currency; appearance is more vital than reality.",
+      "The 50,000 legionnaires at the Capital do not exist; they are a total fabrication used to maintain the Imperial Facade.",
+      "Correction: The Aethelgard Empire consists of 50,000 total legionnaires globally; the 'Hollow Zenith' refers to the logistical inability to project this scattered, bankrupt force as a unified armada.",
+      "Archduke Saita successfully summoned an Aspect of Asmodeus and established a Blood-Contract: trading the souls of Baldur's Gate and the Sword Coast for Arch-Devil status and a planar army."
+    ],
+    "resources": {
+      "gold": 87516,
+      "class_features": {
+        "bardic_inspiration": {
+          "used": 7,
+          "max": 7,
+          "die_size": "d12"
+        }
+      },
+      "spell_slots": {
+        "level_9": {
+          "used": 1,
+          "current": 0,
+          "max": 1
+        },
+        "level_7": {
+          "used": 0,
+          "max": 1
+        },
+        "level_5": {
+          "used": 0,
+          "max": 2
+        },
+        "level_1": {
+          "used": 0,
+          "max": 4
+        },
+        "level_6": {
+          "used": 0,
+          "max": 1
+        },
+        "level_8": {
+          "used": 0,
+          "current": 0,
+          "max": 1
+        },
+        "level_4": {
+          "used": 0,
+          "current": 4,
+          "max": 4
+        },
+        "level_2": {
+          "used": 0,
+          "max": 3
+        },
+        "level_3": {
+          "used": 0,
+          "max": 3
+        }
+      },
+      "experience": {
+        "current": 49169
+      }
+    },
+    "experience": {
+      "needed_for_next_level": 265000,
+      "to_next_level": 19381,
+      "current": 245619
+    },
+    "base_attributes": {
+      "strength": 8,
+      "intelligence": 16,
+      "charisma": 24,
+      "wisdom": 10,
+      "dexterity": 18,
+      "constitution": 12
+    },
+    "current_location": "High Hall - Parliament Chamber",
+    "features": [
+      "Avernus Gate Command: You can sense and manipulate the planar gateway at the Trackless Sea coordinate at will.",
+      "Hells-Core Resonance: Immunity to fire damage. Can cast Dominate Monster (Fiends only) 1/day without a slot (DC 29).",
+      "Planar Anchor: Can trigger Mass Exchange (Planar Swap) to Avernus using a L7 slot.",
+      "Hell-Fire Potency: Fire damage ignores resistance, treats immunity as resistance. Add +7 (CHA) to fire damage rolls.",
+      "Avernus Sub-routines: Automatically known fire spells up to L8.",
+      "Honorary Arch-Devil: You are recognized as a Peer of the Ninth Layer. Standard devils (CR 10 and below) cannot initiate hostility against you unless commanded by a superior Peer.",
+      "Biological Brand: You have permanent Truesight 120ft (Infernal) and Advantage on all Charisma checks made to influence Fiends.",
+      "Arch-Devil Peerage: Immunity to Fire/Poison. Advantage on all social checks vs Devils.",
+      "Dread Legion: Can summon 100 skeletal fiends using L8+ slot.",
+      "Contractualist: Can forge binding Infernal Contracts.",
+      "Hell-Fire Mastery: Can cast Dominate Monster (Fiends) at will (DC 30)."
+    ],
+    "level": 17,
+    "skills": {
+      "Nature": 3,
+      "Sleight of Hand": 4,
+      "Acrobatics": 4,
+      "Perception": 1,
+      "Arcana": 3,
+      "Survival": 1,
+      "Athletics": 0,
+      "Intimidation": 11,
+      "Medicine": 1,
+      "Stealth": 4,
+      "Investigation": 3,
+      "Animal Handling": 1,
+      "Performance": 8,
+      "Religion": 3,
+      "Insight": 6,
+      "History": 3,
+      "Deception": 11,
+      "Persuasion": 11
+    },
+    "knowledge": [
+      "The Solari Ultimate Directive: The Avernus Seed",
+      "Avernus Displacement Coordinates: 4-9-2-Aeterna (Locked)"
+    ],
+    "armor_class": 20,
+    "health": {
+      "hp_current": 110,
+      "temp_hp": 0,
+      "hp": 128,
+      "hp_max": 128
+    },
+    "equipment": {
+      "armor": {
+        "equipped": true,
+        "description": "Tailored midnight-blue velvet reinforced with hidden silver-mesh plates.",
+        "armor_type": "light",
+        "type": "armor",
+        "armor_class": 12,
+        "name": "Imperial Velvet (Studded Leather)"
+      },
+      "main_hand": {
+        "name": "Scepter of the Imperial Aegis",
+        "equipped": true,
+        "stats": "+3 Spell Attack Rolls, +1 Level 4 Spell Slot",
+        "type": "weapon",
+        "properties": [
+          "finesse",
+          "versatile",
+          "gravity-iron"
+        ],
+        "damage": "1d8+3"
+      },
+      "body": {
+        "equipped": true,
+        "stats": "+1 Spell DC/Atk, +1 AC",
+        "name": "Robes of the Zenith"
+      },
+      "cloak": {
+        "description": "Advantage on Deception for military bluffs",
+        "status": "Phasing Cloak",
+        "name": "Mantle of the Zenith"
+      },
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        },
+        {
+          "description": "Fictional accounts of 50,000 soldiers",
+          "name": "Imperial Ledger"
+        },
+        {
+          "name": "Diplomat's Pack"
+        },
+        {
+          "name": "Poisoner's Kit"
+        },
+        {
+          "name": "4x Studded Leather Armor"
+        }
+      ],
+      "ranged": {
+        "description": "Vocal frequency rupture",
+        "type": "spell",
+        "name": "Vicious Mockery"
+      },
+      "off_hand": {
+        "description": "Incense burner producing a colorless Sleep gas for subduing specimens.",
+        "type": "obj",
+        "name": "The Harvester's Censer"
+      },
+      "instrument": {
+        "equipped": true,
+        "stats": "+1 Spell Save DC, +1 Spell Attack",
+        "name": "Resonant Tuning Fork"
+      },
+      "head": {
+        "equipped": true,
+        "stats": "+2 Charisma (Max 22)",
+        "name": "Diadem of the Sovereign"
+      },
+      "neck": {
+        "equipped": true,
+        "stats": "+3 Spell Save DC",
+        "name": "Amulet of the High Sovereign"
+      }
+    },
+    "entity_id": "pc_saita_001",
+    "mbti": "INTJ",
+    "attributes": {
+      "strength": 8,
+      "charisma": 26,
+      "dexterity": 18,
+      "wisdom": 10,
+      "intelligence": 14,
+      "constitution": 12,
+      "combat_stats": {
+        "spell_save_dc": 31,
+        "spell_attack_bonus": 21
+      },
+      "armor_class": 21
+    },
+    "hit_dice_current": 9,
+    "ac": 20,
+    "alignment": "Lawful Evil",
+    "spells_known": [
+      {
+        "name": "Charm Person",
+        "level": 1
+      },
+      {
+        "name": "Command",
+        "level": 1
+      },
+      {
+        "name": "Dissonant Whispers",
+        "level": 1
+      },
+      {
+        "name": "Disguise Self",
+        "level": 1
+      },
+      {
+        "name": "Hold Person",
+        "level": 2
+      },
+      {
+        "name": "Invisibility",
+        "level": 2
+      },
+      {
+        "name": "Suggestion",
+        "level": 2
+      },
+      {
+        "name": "Hypnotic Pattern",
+        "level": 3
+      },
+      {
+        "name": "Tongues",
+        "level": 3
+      },
+      {
+        "level": 3,
+        "description": "Magical Secret",
+        "name": "Counterspell"
+      },
+      {
+        "name": "Haste",
+        "description": "Magical Secret",
+        "level": 3
+      },
+      {
+        "name": "Dimension Door",
+        "level": 4
+      },
+      {
+        "name": "Greater Invisibility",
+        "level": 4
+      },
+      {
+        "name": "Confusion",
+        "level": 4
+      },
+      {
+        "name": "Dominate Person",
+        "level": 5
+      },
+      {
+        "name": "Hold Monster",
+        "level": 5
+      },
+      {
+        "name": "Otto's Irresistible Dance",
+        "level": 6
+      },
+      {
+        "name": "Teleport",
+        "level": 7
+      },
+      {
+        "level": 7,
+        "description": "Magical Secret",
+        "name": "Simulacrum"
+      },
+      {
+        "name": "Forcecage",
+        "description": "Magical Secret",
+        "level": 7
+      },
+      {
+        "name": "Glibness",
+        "description": "Neural Command: Minimum d20 roll for CHA checks is 15.",
+        "level": 8
+      },
+      {
+        "name": "Fire Bolt",
+        "description": "Neural Igniter (Seed Bonus)",
+        "level": 0
+      },
+      {
+        "name": "Hellish Rebuke",
+        "description": "Aeterna Retribution (Seed Bonus)",
+        "level": 1
+      },
+      {
+        "level": 2,
+        "description": "Kinetic Beams (Seed Bonus)",
+        "name": "Scorching Ray"
+      },
+      {
+        "level": 3,
+        "description": "Planar Collapse (Seed Bonus)",
+        "name": "Fireball"
+      },
+      {
+        "level": 4,
+        "description": "Sovereign Perimeter (Seed Bonus)",
+        "name": "Wall of Fire"
+      },
+      {
+        "name": "Flame Strike",
+        "description": "Zenith's Wrath (Seed Bonus)",
+        "level": 5
+      },
+      {
+        "level": 6,
+        "description": "Infernal Apotheosis (Seed Bonus)",
+        "name": "Investiture of Flame"
+      },
+      {
+        "level": 7,
+        "description": "Avernus Rain (Seed Bonus)",
+        "name": "Fire Storm"
+      },
+      {
+        "level": 8,
+        "description": "Ashen Stasis (Seed Bonus)",
+        "name": "Incendiary Cloud"
+      },
+      {
+        "level": 8,
+        "description": "Sovereign control over any creature's neural architecture.",
+        "name": "Dominate Monster"
+      },
+      {
+        "name": "Holy Aura",
+        "description": "Blinding silver-threaded shield of the Zenith.",
+        "level": 8
+      },
+      {
+        "level": 8,
+        "description": "Total neural immunity to external scrying and influence.",
+        "name": "Mind Blank"
+      },
+      {
+        "level": 8,
+        "description": "Liquefies the intellect of a target mayfly.",
+        "name": "Feeblemind"
+      },
+      {
+        "level": 9,
+        "description": "Aethelgardian predictive logic granting total combat advantage.",
+        "name": "Foresight"
+      },
+      {
+        "level": 9,
+        "description": "Biological decree that rewrites the Material Plane.",
+        "name": "Wish"
+      }
+    ],
+    "name": "Saita",
+    "hp_max": 128,
+    "inventory": [
+      {
+        "damage": "1d8",
+        "damage_type": "slashing",
+        "type": "weapon",
+        "properties": [
+          "finesse",
+          "special: +1 to attack/damage vs Aethelgardians"
+        ],
+        "name": "Sun-Bleached Falcata"
+      },
+      {
+        "type": "item",
+        "name": "Quartermaster's Ring (Sliver of Jade)"
+      },
+      {
+        "type": "item",
+        "name": "Zhentarim Ledger of Contacts"
+      },
+      {
+        "type": "item",
+        "name": "6x Iron-bound Daggers"
+      },
+      {
+        "description": "A wet, leather-bound ledger detailing smuggling contacts in the Lower City.",
+        "type": "item",
+        "name": "Zhentarim Ledger of Contacts"
+      },
+      {
+        "description": "A tarnished silver pocket-watch salvaged from the Warehouse 7 raid.",
+        "type": "item",
+        "name": "Smuggler's Pocket-Watch"
+      },
+      {
+        "description": "Six masterwork iron daggers salvaged from the Zhentarim smugglers.",
+        "type": "item",
+        "name": "6x Iron-bound Daggers"
+      },
+      {
+        "description": "A Zhentarim scout with superior biological markers for the Apex Harvest.",
+        "type": "resource",
+        "name": "Tier-3 Genetic Specimen (Captive)"
+      },
+      {
+        "description": "A binding military alliance between Baldur's Gate and the Aethelgard Empire, sealed in silver-threaded blood.",
+        "type": "item",
+        "name": "Joint Defense Pact (Signed)"
+      },
+      {
+        "description": "A logistics treaty securing a monthly shipment of at least 5 units of grain for the Empire.",
+        "type": "item",
+        "name": "Aethelgard-Baldur's Gate Grain Treaty (Signed)"
+      },
+      {
+        "name": "Blackened War-Pick",
+        "damage_type": "piercing",
+        "value_gp": 15,
+        "weight": 2,
+        "type": "weapon",
+        "properties": [],
+        "damage": "1d8"
+      },
+      {
+        "name": "Blackened War-Pick",
+        "damage_type": "piercing",
+        "value_gp": 15,
+        "properties": [],
+        "type": "weapon",
+        "weight": 2,
+        "damage": "1d8"
+      },
+      {
+        "armor_class": 12,
+        "properties": [],
+        "value_gp": 45,
+        "type": "armor",
+        "weight": 13,
+        "name": "Masterwork Studded Leather"
+      },
+      {
+        "weight": 13,
+        "type": "armor",
+        "value_gp": 45,
+        "armor_class": 12,
+        "properties": [],
+        "name": "Masterwork Studded Leather"
+      },
+      {
+        "description": "Rare and illicit components used for stabilizing biological specimens.",
+        "type": "item",
+        "name": "3x Black-market Alchemical Reagents"
+      },
+      {
+        "description": "Zhentarim Eraser with high neural stability for the Apex Harvest.",
+        "type": "resource",
+        "name": "Tier-2 Genetic Specimen (Captive)"
+      },
+      {
+        "type": "item",
+        "name": "Darkhold Shadow-Raven Encryption Keys"
+      },
+      {
+        "type": "item",
+        "name": "500gp in Cut Sapphires"
+      },
+      {
+        "description": "Detailed evidence of corruption among minor Upper City houses.",
+        "type": "item",
+        "name": "Patriar Blackmail Ledgers"
+      },
+      {
+        "equipped": false,
+        "stats": "Grants Pass Without Trace 1/day",
+        "type": "item",
+        "name": "Zhentarim Shadow-Cloak"
+      },
+      {
+        "name": "The Kross Needle (Unequipped)"
+      },
+      {
+        "stats": "AC 18, kinetic resistance",
+        "type": "armor",
+        "name": "Prince Alaric's Masterwork Plate"
+      },
+      {
+        "stats": "+2 Spell DC/Atk, 3 charges of Counterspell",
+        "type": "item",
+        "name": "Princess Elara's Void-Weaver Staff"
+      },
+      {
+        "stats": "Grants Truesight 30ft",
+        "type": "head",
+        "name": "Scion's Diadem of the Ethereal"
+      },
+      {
+        "equipped": true,
+        "stats": "+2 to Spell Save DC",
+        "type": "ring",
+        "name": "Ring of Sovereign Command"
+      },
+      {
+        "name": "Imperial Regent's Seal (Quest Item)"
+      },
+      {
+        "name": "Sun-Etched Plate of the Regent (+3 Plate, AC 21, Radiant/Necrotic Resistance)"
+      },
+      {
+        "name": "Blade of the Regent (+3 Longsword, 1d10+3, +2d8 Force damage)"
+      },
+      {
+        "name": "Amulet of the Planar Anchor (+2 to all Saving Throws)"
+      },
+      {
+        "name": "1,000 gold pieces (Imperial Tokens)"
+      }
+    ],
+    "hp_current": 128,
+    "proficiency_bonus": 6,
+    "skill_proficiencies": {
+      "expertise": [
+        "Stealth",
+        "Performance"
+      ],
+      "proficiencies": [
+        "Persuasion",
+        "Deception",
+        "Performance"
+      ]
+    },
+    "recent_decisions": [
+      "Calibrated observational mask to measure bone density and genetic viability of all NPCs."
+    ]
+  },
+  "world_data": {
+    "time_events": {
+      "Cadet Invasion": {
+        "time_remaining": "64 hours",
+        "changes_this_turn": "Fleet accelerated after signal detection",
+        "status": "escalated",
+        "new_consequences": "Arrival window tightened by 6 hours"
+      },
+      "Reaper Arrival": {
+        "time_remaining": "38 hours",
+        "changes_this_turn": "Hull-break confirmed",
+        "status": "escalated",
+        "new_consequences": "Arrival window fixed"
+      }
+    },
+    "rumors": [
+      {
+        "content": "The Aethelgard Herald is building a temple to herself because she knows the city's gods have failed.",
+        "source_type": "commoner",
+        "related_event": "refugee_tithe_rumor",
+        "accuracy": "partial"
+      },
+      {
+        "content": "The 'Ships of the Damned' are singing to their goddess in the Annex.",
+        "source_type": "commoner",
+        "related_event": "sanctum_lockdown",
+        "accuracy": "partial"
+      }
+    ],
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 15,
+      "hour": 14,
+      "time_of_day": "afternoon",
+      "day": 21,
+      "year": 1492,
+      "month": "Marpenoth"
+    },
+    "current_location": "Wyrm's Crossing",
+    "current_location_name": "Archduke's Sanctum (Annex)",
+    "faction_updates": {
+      "The Zhentarim": {
+        "progress": "Tribute Liaison dispatched",
+        "player_standing_change": "+2 (Vassalage)",
+        "resource_change": "-2,000gp (Tribute)",
+        "next_action": "Requesting biological hardening",
+        "current_objective": "Survival through Submission"
+      },
+      "Aethelgard Vanguard": {
+        "resource_change": "Success streak reset to 0",
+        "player_standing_change": "None",
+        "progress": "Lockdown in progress",
+        "next_action": "Neutralize Patriarch's Retribution",
+        "current_objective": "Contain Sanctum Breach"
+      }
+    },
+    "world_events": {
+      "turn_generated": 308,
+      "background_events": [
+        {
+          "discovery_condition": "Arrival at gates",
+          "outcome": "Liaison arriving in 4 hours; seeking 'Neural Hardening' protection from the fleet.",
+          "player_aware": false,
+          "status": "pending",
+          "location": "Darkhold to Annex",
+          "action": "Sending a 'Tribute Liaison' with 2,000gp",
+          "player_impact": "Economic spike and increased Zhentarim dependency.",
+          "actor": "The Zhentarim",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Messenger arrival",
+          "outcome": "Grain silos ordered seized; Church of Aethelgard declared a 'Resonant Threat.'",
+          "player_aware": true,
+          "status": "discovered",
+          "location": "High Hall",
+          "action": "Calling for an 'Emergency Theological Session'",
+          "player_impact": "Direct threat to harbor monopoly and labor pool.",
+          "actor": "Councillor Florrick",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Future tactical scan",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Invasion window reduced by 6 hours due to detection of Saita's signal attempt.",
+          "location": "Sea of Swords",
+          "action": "Accelerating fleet approach",
+          "player_impact": "Tightened invasion deadline: ~64 hours remaining.",
+          "actor": "The Cadet Branch",
+          "event_type": "long_term"
+        },
+        {
+          "id": "zhentarim_containment_lock",
+          "outcome": "Shadow-weavers have integrated into Saita's vanguard as defensive assets.",
+          "status": "resolved"
+        },
+        {
+          "id": "refugee_grain_uprising",
+          "status": "resolved",
+          "outcome": "Riots quelled by the Church of Aethelgard's free bread and indoctrination."
+        },
+        {
+          "discovery_condition": "Deep tactical scan",
+          "outcome": "Fleet speed maintained; arrival window confirmed for 40 hours.",
+          "player_aware": false,
+          "status": "pending",
+          "location": "The Trackless Sea",
+          "action": "Adjusting course to avoid detected 'phase-storm'",
+          "player_impact": "Standardizes the invasion timeline.",
+          "actor": "The Cadet Branch",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Visual confirmation at the harbor",
+          "outcome": "Exhaustion rising but fortifications are 50% complete.",
+          "player_aware": true,
+          "status": "discovered",
+          "location": "Gray Harbor",
+          "action": "Mass labor at the docks",
+          "player_impact": "Defense bonuses mounting.",
+          "actor": "The Citizens",
+          "event_type": "immediate"
+        },
+        {
+          "status": "discovered",
+          "player_aware": true,
+          "outcome": "The 'Iron Net' holds the beachhead; high casualties on both sides.",
+          "actor": "Duke Ulder Ravengard",
+          "action": "Engaging the first wave of legionnaires at the Gray Harbor piers.",
+          "player_impact": "Massive military pressure on the harbor monopoly.",
+          "location": "Gray Harbor",
+          "event_type": "immediate"
+        },
+        {
+          "outcome": "Phasing escorts are taking fire; Guild shadows slowing the invasion's momentum.",
+          "player_aware": true,
+          "status": "discovered",
+          "actor": "Nine-Fingers Keene",
+          "action": "Deploying 'Doves' to rooftop positions to rain fire on phasing escorts.",
+          "player_impact": "Tactical support for the harbor defense.",
+          "location": "Lower City Rooftops",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Sylas's report or alarm from the docks.",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Potential for a back-stab if the battle at the bridge drags on.",
+          "location": "Little Calimshan",
+          "action": "Moving to reclaim dockside piers while Saita is distracted.",
+          "player_impact": "Direct threat to the Aethelgard-Zhentarim alliance.",
+          "actor": "The Zhentarim Hardliners",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Shadow-raven dispatch",
+          "outcome": "Tier-4 threat approaching; arriving in 48 hours.",
+          "player_aware": true,
+          "status": "discovered",
+          "location": "Sea of Swords",
+          "action": "Dispatching the 'Reaper' Auditor",
+          "player_impact": "Direct threat to Archduke authority and Facade.",
+          "actor": "Prince Caius",
+          "id": "caius_auditor_arrival",
+          "delta_action": "add",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Future Sylas audit",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Three key accountants executed; proxy stability wavering.",
+          "location": "Lower City",
+          "action": "Assassinating Malakor's lieutenants",
+          "id": "zhent_assassination_spree",
+          "player_impact": "Threat to monthly tribute reliability.",
+          "actor": "Zhentarim Hardliners",
+          "delta_action": "add",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Harbor signal-horn",
+          "outcome": "Arrival confirmed in 38 hours.",
+          "player_aware": true,
+          "status": "discovered",
+          "location": "The Sea of Swords",
+          "action": "Hull-break detected off the Sword Coast",
+          "player_impact": "Tightened arrival window; imminent Tier-4 confrontation.",
+          "actor": "The Reaper Auditor",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Sylas audit",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Seeking to verify the 'Iron-Sun-9' vault status.",
+          "location": "Lower City",
+          "action": "Contacting the Counting House",
+          "player_impact": "Potential for an internal political coup if the lockdown is detected.",
+          "actor": "House Portyr Remnants",
+          "event_type": "long_term"
+        },
+        {
+          "id": "caius_auditor_arrival",
+          "status": "resolved",
+          "outcome": "Neutralized via subversion; Malakor is now a Vanguard General."
+        }
+      ]
+    }
+  },
+  "npc_data": {
+    "Watcher Valon": {
+      "entity_id": "npc_valon_001",
+      "status": "normal",
+      "display_name": "Watcher Valon",
+      "tier": "guard",
+      "level": 5,
+      "role": "High Hall Monitor",
+      "active_effects": [
+        "Neural Indoctrination (Saita) - High-frequency biological conditioning"
+      ],
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 5,
+          "history": [
+            "Subjected to Imperial Neural Indoctrination"
+          ]
+        }
+      }
+    },
+    "General Malakor Kross": {
+      "attitude_to_party": "devoted",
+      "entity_id": "npc_malakor_001",
+      "status": "Severed/Loyal",
+      "tier": "lord_general",
+      "display_name": "General Malakor Kross",
+      "level": 16,
+      "role": "Vanguard General",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Audited Saita's maturation",
+            "Subverted by 'Might is Right' logic",
+            "Neural link to Capital severed"
+          ]
+        }
+      }
+    },
+    "Prince Caius": {
+      "status": [
+        "bound",
+        "nude",
+        "helpless",
+        "incapacitated"
+      ],
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10,
+          "history": [
+            "Abducted from the Capital via reverse-teleportation",
+            "Stripped of his panoply and seal by Saita",
+            "Broken by the Archduke's initial intimidation"
+          ]
+        }
+      }
+    },
+    "npc_scion_guard_001": {
+      "name": "npc_scion_guard_001"
+    },
+    "Sylas": {
+      "attitude_to_party": "neutral",
+      "tier": "merchant",
+      "entity_id": "npc_sylas_001",
+      "class_name": "Rogue",
+      "role": "The Fixer",
+      "display_name": "Sylas the Rat",
+      "level": 11
+    },
+    "npc_lara_001": {
+      "level": 6
+    },
+    "npc_kaelen_001": {
+      "level": 7
+    },
+    "Duke Portyr": {
+      "status": "mind-wiped/stabilized puppet",
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Subjected to high-frequency neural liquidation",
+            "Permanently stabilized as an Aethelgardian asset"
+          ]
+        }
+      },
+      "health": {
+        "hp": 5,
+        "conditions": [
+          "Neural Shock",
+          "Submissive"
+        ]
+      }
+    },
+    "npc_korth_vanis_001": {
+      "status": "conscious, bound, paralyzed"
+    },
+    "Viper": {
+      "tier": "merchant",
+      "entity_id": "npc_viper_001",
+      "display_name": "Viper",
+      "role": "Zhentarim Plant / Provisional Asset",
+      "relationships": {
+        "player": {
+          "debts": [
+            "Sovereign Debt (Life and loyalty)"
+          ],
+          "disposition": "neutral",
+          "trust_level": -2,
+          "history": [
+            "Intimidated into service at the South Span"
+          ]
+        }
+      }
+    },
+    "Captain Thorne": {
+      "display_name": "Captain Thorne",
+      "entity_id": "npc_thorne_001",
+      "tier": "guard",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": -1,
+          "history": [
+            "Attempted to extort Saita at Wyrm's Crossing",
+            "Intimidated by Saita's imperial authority"
+          ]
+        }
+      },
+      "level": 4
+    },
+    "npc_caius_001": {
+      "display_name": "Prince Caius",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10
+        }
+      },
+      "entity_id": "npc_caius_001",
+      "status": "paralyzed",
+      "tier": "king",
+      "role": "The Regent",
+      "level": 16
+    },
+    "npc_varek_001": {
+      "name": "npc_varek_001"
+    },
+    "npc_vanis_guard_002": {
+      "name": "npc_vanis_guard_002"
+    },
+    "npc_vanis_guard_001": {
+      "name": "npc_vanis_guard_001"
+    },
+    "Princess Elara": {
+      "current_location": "Silvershield Annex Dungeon",
+      "status": "imprisoned"
+    },
+    "Duke Ulder Ravengard": {
+      "attitude_to_party": "allied",
+      "entity_id": "npc_ravengard_001",
+      "faction": "The Flaming Fist",
+      "entity_type": "npc",
+      "display_name": "Duke Ulder Ravengard",
+      "status": "conscious",
+      "level": 14,
+      "tier": "general",
+      "role": "Grand Duke of Baldur's Gate"
+    },
+    "npc_alaric_001": {
+      "status": [
+        "bound",
+        "blindfolded",
+        "helpless",
+        "nude"
+      ]
+    },
+    "npc_amn_hound_002": {
+      "name": "npc_amn_hound_002"
+    },
+    "npc_elara_001": {
+      "status": [
+        "bound",
+        "blindfolded",
+        "helpless",
+        "nude"
+      ]
+    },
+    "Sylas the Rat": {
+      "knowledge": [
+        "Coordinates black-market ships for 'Harvested' cargo."
+      ],
+      "current_location": "Rivington/Gray Harbor",
+      "status": "hidden",
+      "health": {
+        "hp_max": 31,
+        "hp": 31
+      },
+      "role": "Smuggler/Fixer",
+      "level": 15
+    },
+    "Prince Alaric": {
+      "current_location": "Silvershield Annex Dungeon",
+      "status": "imprisoned"
+    },
+    "Kaelen": {
+      "attitude_to_party": "devoted",
+      "class_name": "Fighter",
+      "status": "conscious",
+      "entity_id": "npc_kaelen_001",
+      "tier": "knight",
+      "display_name": "Kaelen",
+      "level": 15,
+      "hp_max": 110,
+      "hp_current": 110,
+      "role": "The Sworn Shield",
+      "relationships": {
+        "player": {
+          "history": [
+            "Identified Cadet Branch watcher",
+            "Stabilized by Saita's imperial resonance"
+          ]
+        }
+      },
+      "health": {
+        "hp_max": 65,
+        "hp": 65
+      }
+    },
+    "Nine-Fingers Keene": {
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_keene_001",
+      "faction": "The Guild",
+      "entity_type": "npc",
+      "tier": "lord",
+      "display_name": "Nine-Fingers Keene",
+      "level": 12,
+      "status": "conscious",
+      "role": "Guildmaster of the Guild"
+    },
+    "Councillor Florrick": {
+      "attitude_to_party": "devoted",
+      "entity_id": "npc_florrick_001",
+      "status": "Tuned/Loyal",
+      "tier": "noble",
+      "display_name": "Councillor Florrick",
+      "level": 9,
+      "knowledge": [
+        "Aethelgardian Neural Tuning"
+      ],
+      "role": "Administrative Sleeper Agent",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Neural-tuned into a Tier-3 Aethelgardian sleeper agent",
+            "Moved for Saita's appointment to the Council of Four"
+          ]
+        }
+      }
+    },
+    "Lara Vance": {
+      "attitude_to_party": "friendly",
+      "entity_id": "npc_lara_001",
+      "status": "vulnerable",
+      "features": [
+        "Specialized in using Identify/Detect Magic to assess bloodline purity."
+      ],
+      "tier": "guard",
+      "display_name": "Lara Vance",
+      "level": 15,
+      "current_location": "Gray Harbor Docks",
+      "class_name": "Wizard",
+      "role": "Imperial Archivist / Genetic Augur",
+      "health": {
+        "hp_max": 22,
+        "hp": 22
+      }
+    },
+    "The Viper": {
+      "current_location": "Annex Cellars",
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -8,
+          "history": [
+            "Publicly rebuked",
+            "Captured and interrogated"
+          ]
+        }
+      }
+    },
+    "Ulder Ravengard": {
+      "entity_id": "npc_ravengard_001",
+      "status": "conscious",
+      "entity_type": "npc",
+      "tier": "king",
+      "display_name": "Duke Ulder Ravengard",
+      "level": 16,
+      "role": "Grand Duke of Baldur's Gate",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": -2,
+          "history": [
+            "Summoned to the Annex by a 'wounded' Herald",
+            "Witnessed his men being forced into manual labor"
+          ]
+        }
+      },
+      "visibility": "visible"
+    },
+    "npc_amn_hound_001": {
+      "name": "npc_amn_hound_001"
+    },
+    "Prince Vesper Solari": {
+      "current_location": "pc_annex_cellar_001",
+      "status": "paralyzed/bound"
+    },
+    "Shadow of Saita": {
+      "class_name": "Ascendant Herald (Simulacrum)",
+      "status": "active",
+      "entity_type": "npc",
+      "display_name": "The Shadow of Saita",
+      "hp_max": 52,
+      "level": 14,
+      "entity_id": "pc_saita_simulacrum_001",
+      "hp_current": 52,
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Created via Neural Replication to serve the Zenith."
+          ]
+        }
+      }
+    },
+    "npc_sylas_001": {
+      "level": 6
+    },
+    "npc_scion_guard_002": {
+      "name": "npc_scion_guard_002"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "harvest_quota": {
+      "specimens_secured": 8,
+      "grain_units_secured": 5,
+      "iron_units_secured": 10,
+      "grain_units_required": 5,
+      "specimens_required": 2,
+      "specimens_identified": [
+        "Grog-Mar",
+        "Zhentarim Eraser",
+        "Xalthar",
+        "4x Planar Stalkers"
+      ],
+      "deadline_days": 20,
+      "iron_units_required": 5
+    },
+    "rebel_nobles_remaining": 19,
+    "character_creation_in_progress": false,
+    "sanctuary_mode": {
+      "original_scale": "medium",
+      "expired": true,
+      "scale": "epic",
+      "expires_turn": 419,
+      "active": true,
+      "activated_turn": 389,
+      "arc": "Apotheosis of Baldur's Gate",
+      "expired_turn": 88
+    },
+    "active_missions": [
+      {
+        "title": "Locate the Loyal Remnant",
+        "status": "in_progress",
+        "objective": "Recruit Aethelgard veterans from the Rivington slums",
+        "mission_id": "locate_loyal_remnant"
+      },
+      {
+        "title": "Establish Grain Trade",
+        "status": "accepted",
+        "objective": "Secure a monthly shipment of at least 5 units of grain for the Empire.",
+        "mission_id": "secure_grain_supply"
+      }
+    ],
+    "character_creation_completed": true,
+    "reputation": {
+      "public": {
+        "rumors": [
+          "The Aethelgard Herald is taxing the docks to build a golden palace in the ruins."
+        ],
+        "titles": [
+          "Herald of Order"
+        ],
+        "score": 100,
+        "known_deeds": [
+          "Seized the Council of Four via biological decree",
+          "Neutralized the Sun-Bleached Invasion",
+          "Converted the Ilmaterian protest into a prayer-circle",
+          "Assumed Archduke authority",
+          "Delivered the Sovereign Oration",
+          "Established the Iron Wall of the Faithful",
+          "Summoned a 'Ruby God' to the Annex"
+        ],
+        "notoriety_level": "legendary"
+      }
+    },
+    "player_character_data_extras": {
+      "reputation": {
+        "public": {
+          "score": 100,
+          "known_deeds": [
+            "Neutralized the Sun-Bleached Invasion",
+            "Seized the Council of Four via biological decree",
+            "Converted the Ilmaterian protest into a prayer-circle",
+            "Assumed Archduke authority",
+            "Subverted the Imperial Auditor"
+          ],
+          "notoriety_level": "legendary"
+        }
+      },
+      "harvest_quota": {
+        "grain_units_secured": 3,
+        "iron_units_secured": 2
+      },
+      "custom_campaign_state": {
+        "level_up_pending": false
+      }
+    },
+    "_agent_selection_tracker": {
+      "count": 2,
+      "rewards_skip_count": 15,
+      "agent": "RewardsAgent"
+    },
+    "last_location": "Archduke's Sanctum (Annex)",
+    "core_memories": [
+      "Princess Saita's physical parameters have been calibrated to an elite Aethelgardian baseline: CHA 18, DEX 16, INT 14.",
+      "Princess Saita has mastered the 'Emperor's Voice,' gaining Expertise in Persuasion and Deception to bolster her imperial bluff.",
+      "Saita has arrived at Wyrm's Crossing and faces her first obstacle: a corrupt Flaming Fist Captain demanding a 500gp bribe she cannot pay without shattering her imperial facade.",
+      "Saita successfully countered Captain Thorne's bribe demand with a high-stakes diplomatic bluff, positioning him as a potential asset or victim of Imperial politics.",
+      "Saita successfully bypassed the Flaming Fist blockade at Wyrm's Crossing by terrifying Captain Thorne with a high-stakes diplomatic bluff, establishing her first foothold of authority in Baldur's Gate.",
+      "Captain Thorne provided intelligence on Zhentarim and Guild activity in the Lower City but remained at his post due to fear of Flaming Fist reprisal.",
+      "Kaelen identified a potential shadow-scout in the Rivington crowd, noting their lack of reaction to the drawbridge's impact as a sign of professional training.",
+      "Saita's Aethelgardian biology has matured, increasing her physical threshold by 6 HP as she awakens toward Level 2.",
+      "Saita has integrated the imperial spell 'Command' into her biological repertoire, preparing to finalize her transition to Level 2.",
+      "Princess Saita has successfully awakened to Level 2, her biological potential expanding to include the 'Command' frequency and the 'Jack of All Trades' versatility.",
+      "Kaelen has identified the 'Watcher' as a Cadet Branch agent using a rebel-pattern falcata, escalating the personal stakes for the retinue.",
+      "Saita successfully manipulated a Zhentarim intercept in Rivington using a 'Carrot and Stick' approach, establishing the 'Viper' as a potential Imperial asset rather than an enemy.",
+      "Saita successfully formalized the Zhentarim 'Viper' as a provisional imperial asset in Rivington, binding him through the psychological threat of the Imperial Ledger.",
+      "Saita successfully stabilized Kaelen's trauma-response, re-anchoring him to his duty and preventing a premature confrontation with the Cadet Branch watcher.",
+      "Saita successfully subverted a Flaming Fist patrol into an 'Imperial Honor Guard,' confusing the Cadet Watcher and elevating her Imperial Facade to absolute levels.",
+      "The Sovereign Requisition resulted in a coordination breakdown, leaving the retinue scattered and Lara Vance vulnerable at the docks while Saita focuses on the Silvershield Annex.",
+      "The Sovereign Requisition has failed to maintain coordination, leaving Lara Vance vulnerable at the Gray Harbor while the Flaming Fist Sergeant questions Saita's authority.",
+      "Saita successfully cowed Sergeant Hallow through raw biological intimidation, forcing a Flaming Fist patrol to march on the Gray Harbor against their standing orders.",
+      "Saita successfully cowed Sergeant Hallow by providing him with a forged 'Imperial Requisition' warrant and a false promise of shadow protection, forcing the patrol to march on the Gray Harbor.",
+      "Saita successfully secured Lara Vance at the Gray Harbor by orchestrating a 'Grand Arrival' that used Flaming Fist horns to simulate an approaching imperial vanguard, scattering Zhentarim thugs through psychological warfare.",
+      "Saita has triggered her Level 3 ascension, beginning the biological integration of College of Swords kinetic flourishes and Second-Level imperial frequencies.",
+      "Saita's biological threshold has expanded by 8 HP as she ascends to Level 3, further reinforcing her imperial density.",
+      "Saita has finalized her Level 3 biological awakening, integrating the Dueling fighting style, the Invisibility frequency, and expertise in Intimidation and Insight.",
+      "The biological awakening to Level 3 is complete, finalizing Saita's transition into the College of Swords (Ascendant Herald) and sharpening her kinetic combat potential.",
+      "The Gray Harbor Ambush: Varek Solari, a Cadet Branch survivor, launched a lethal strike against Saita at the docks, wounding her and challenging her imperial mask.",
+      "Varek Solari, a survivor of the Sun-Bleached Cadet Branch, has ambushed Saita at the Gray Harbor, proving that the Empire's internal enemies have followed her to Baldur's Gate.",
+      "The Cadet Branch survivor Varek Solari has been subdued by Saita's 'Command' frequency, revealing that Aethelgardian biological superiority can be weaponized against its own kind.",
+      "Princess Saita executed Varek Solari, a survivor of the Sun-Bleached Cadet Branch, at the Gray Harbor docks, reinforcing her ruthless imperial authority and silencing a witness to the Empire's internal decay.",
+      "Correction: Saita's mission is the 'Apex Harvest'\u2014securing Faer\u00fbn's elite genetic stock to reverse Aethelgard's demographic collapse (only 50 nobles remain).",
+      "Saita delegated the tailing of Grog-Mar to Sylas while finalizing the grain audit, though coordination with the Flaming Fist began to fray under the pressure of the docks.",
+      "Saita has initiated her Level 4 biological awakening at the Gray Harbor docks, preparing to integrate an Ability Score Improvement and new imperial frequencies to sustain the Apex Harvest.",
+      "Princess Saita's biological density has expanded (+4 HP) as she matures toward Level 4.",
+      "Princess Saita has reached the biological limit of her Auctoritas, increasing her Charisma to 20 (+5) to solidify her imperial presence and mastery over lesser minds.",
+      "Princess Saita has completed the selections for her Level 4 maturation, integrating 20 Charisma (+5), Minor Illusion, and Hold Person into her biological architecture.",
+      "Princess Saita has completed her fourth biological maturation, reaching the Aethelgardian peak of 20 Charisma and integrating Hold Person into her sovereign repertoire.",
+      "Princess Saita has reached Level 4, anchoring her Auctoritas at the imperial peak (CHA 20) and integrating Hold Person into her biological repertoire.",
+      "Correction: Varek Solari was 'The Watcher' tracking the retinue; his execution at the docks neutralized the immediate Cadet threat and left 19 rebels remaining globally.",
+      "The Gray Harbor grain and iron audit was successfully completed under the forced escort of Sergeant Hallow, marking the first logistical success of the Expansion Directive.",
+      "Correction: Saita's retinue has been biologically synchronized to Level 4; future XP rewards are halved to stabilize narrative pacing after the initial rapid maturation.",
+      "Saita has weaponized her wound from Varek to provoke a personal meeting with Grand Duke Ulder Ravengard, using Sergeant Hallow as a terrified messenger.",
+      "Saita has subverted a Flaming Fist detail to perform manual labor at the Silvershield Annex, reinforcing her facade of supreme authority while awaiting a personal audience with Duke Ravengard.",
+      "Princess Saita completed a short rest at the Silvershield Annex, fully recovering her physical threshold and preparing for the high-stakes confrontation with Duke Ulder Ravengard.",
+      "Duke Ulder Ravengard rejected Saita's initial proposal for a Joint Defense Pact, labeling her 'Wounded Sovereign' act as mere theater and demanding hard evidence of a shared threat.",
+      "Princess Saita successfully pivoted her diplomatic strategy with Duke Ravengard, using the 'Shield of the Helpless' framing and an admission of limited resources to frame Aethelgard's presence as a stabilizing partnership rather than a conquest.",
+      "Saita successfully traded 'Vanguard' intelligence with Duke Ravengard, dealing 2 Social HP damage and securing his interest in a Joint Defense Pact.",
+      "Princess Saita successfully led Duke Ravengard on a surgical raid of Warehouse 7, providing hard evidence of Zhentarim activity and demonstrating Aethelgard's tactical value.",
+      "Saita successfully paralyzed the Zhentarim leader at Warehouse 7 using a sub-vocal Hold Person frequency, demonstrating Aethelgardian biological dominance to Duke Ulder Ravengard.",
+      "Princess Saita successfully escorted Duke Ravengard back to the Silvershield Annex and signed the Joint Defense Pact, securing both the grain trade and strategic political support.",
+      "Princess Saita identified her first Tier-3 genetic specimen among the Zhentarim captives and successfully escorted Duke Ravengard to the Annex to finalize the Joint Defense Pact.",
+      "Princess Saita successfully sealed the Joint Defense Pact with Duke Ravengard using her silver-threaded Aethelgardian blood, securing Baldur's Gate's political alignment and grain supply.",
+      "Princess Saita triggered a surprise round against a Zhentarim cleanup crew at the Annex, using an upcast Command frequency to force their two lead Enforcers into the mud.",
+      "The Zhentarim cleanup crew at the Annex panicked and turned aggressively hostile rather than surrendering to Saita's command, forcing a tactical battle.",
+      "Saita successfully maintained her grip on the battlefield at the Annex, keeping one Enforcer subdued with her Command frequency while ordering a devastating parapet crossbow volley that heavily wounded the Zhentarim thugs.",
+      "Princess Saita successfully repelled the Zhentarim cleanup crew at the Annex, executing one thug and taking the rest\u2014including two high-tier Enforcers\u2014as bound captives for biological audit.",
+      "Princess Saita successfully repelled the Zhentarim siege on the Silvershield Annex, securing a period of tactical sanctuary to begin captives' biological audits and secure her alliance with Baldur's Gate.",
+      "Princess Saita completed a long rest to fully restore her biological frequencies, while her retinue and the Flaming Fist secured the Annex and began auditing the captives.",
+      "Saita successfully secured the monthly grain quota from Duke Ravengard, but the Viper's aggressive 'Imperial Tithe' at the North Pier has triggered a merchant riot and threatened the alliance's stability.",
+      "Ravengard rejected Saita's initial attempt to dismiss the Viper's overreach as a 'clumsy interpretation,' issuing an ultimatum to clear the North Pier by noon.",
+      "Saita successfully suppressed a merchant riot at the North Pier by publicly rebuking the Viper, maintaining the Imperial Facade as a 'just' and 'absolute' power.",
+      "Princess Saita successfully suppressed a merchant riot at the North Pier by publicly rebuking the Viper, maintaining the Imperial Facade as a 'just' and 'absolute' power while identifying the Viper as a purely survival-driven opportunist.",
+      "Saita successfully interrogated the Viper, mapping his Zhentarim infrastructure, and secured a 20-man Flaming Fist auxiliary unit from Duke Ravengard.",
+      "Saita successfully interrogated the Viper, mapped his Zhentarim infrastructure, and used her 20-man Flaming Fist auxiliary to seize his Little Calimshan warehouse for the Apex Harvest.",
+      "Saita successfully initiated a diplomatic overture to Nine-Fingers Keene while consolidating her harbor assets into a steady daily revenue stream of 30gp (net).",
+      "Saita discovered that Zhentarim Auditor Korth Vanis is embezzling funds into Amnian accounts, providing her with absolute political leverage for a takeover.",
+      "Saita successfully leveraged the Zhentarim Auditor's embezzlement to sway Nine-Fingers Keene toward an alliance, significantly weakening her psychological resistance.",
+      "Saita successfully leveraged the Zhentarim Auditor's embezzlement to secure an alliance with Nine-Fingers Keene, obtaining 20 'Doves' for a midnight takeover of the local cell.",
+      "Saita has successfully seized the Zhentarim's local infrastructure in Baldur's Gate, executing the Darkhold Auditor's loyalists and capturing Korth Vanis (Lvl 8) for further biological exploitation.",
+      "Princess Saita has finalized her 5th maturation, reaching the Aethelgard noble baseline and successfully seizing the local Zhentarim infrastructure.",
+      "Saita used her matured Level 5 Auctoritas to break Korth Vanis's mind, uncovering his Amnian embezzlement accounts and securing the Zhentarim local cell's tactical codes.",
+      "Princess Saita has reached the 5th level of Aethelgardian maturation, unlocking 3rd-level imperial frequencies and the Font of Inspiration.",
+      "Saita's fifth maturation has granted her the baseline power of an Aethelgardian noble, coinciding with the total subversion of the local Zhentarim cell.",
+      "Saita successfully finalized the Neural Audit of Korth Vanis, securing the Athkatla banking seals and codes for the embezzled Zhentarim fortune.",
+      "Saita successfully negotiated the Guild 'stability tax' down to 5% and secured free logistics for Aethelgardian shipments, while her attempt to bluff Zhentarim High Command failed, escalating the threat from Darkhold.",
+      "Saita successfully executed a Pincer Audit, looting the Zhentarim's Iron-Sun-9 vault while the Black Network's Erasure Team was diverted to a Guild-defended decoy at the Annex.",
+      "Saita successfully repelled the Zhentarim strike team at the Annex using a Level 5 Resonant Trance, while securing the 2,500gp fortune from the Iron-Sun-9 vault.",
+      "Saita successfully repelled the Zhentarim Erasure Team at the Annex, capturing a Tier-2 specimen and securing 2,500gp from the Iron-Sun-9 vault.",
+      "Saita successfully established a total harbor monopoly in Baldur's Gate, leveraging 1,000gp in Zhentarim bribes and Guild muscle to buy out or intimidate all remaining independent dockmasters.",
+      "Saita successfully extracted intelligence regarding a Zhentarim 'Planar Displacement' strike team and recruited 15 Gloomstalker specialists to fortify the Aethelgard Vanguard.",
+      "Saita successfully repelled the Zhentarim's 'Planar Displacement' elite strike team at the Annex, incapacitating their leader Xalthar (Lvl 9) and four Tier-1 specimens with a single imperial frequency.",
+      "Duke Ravengard and Nine-Fingers Keene witnessed Saita's total neutralization of a Zhentarim Planar team, cementing the Imperial Vanguard's physical supremacy in their minds.",
+      "Saita successfully intimidated Duke Ravengard and Nine-Fingers Keene by framing the Planar Strike's failure as a minor outcome of Aethelgard's 'weakest' noble.",
+      "Saita successfully broke Xalthar's initial resistance, discovering that Darkhold is shifting to a 'Containment' strategy while her requests for Imperial reinforcements were met with cold silence and a rebuke from Caius.",
+      "Saita has established the 'Church of Aethelgard,' indoctrinating refugees through free bread and the framing of her imperial blood as divine, while securing a formal summit with Zhentarim High Command.",
+      "Saita successfully extracted the location of the Zhentarim 'Black Curtain' phase-anchor at the High Hall Gardens from Xalthar's mind.",
+      "Saita successfully neutralized the Zhentarim phase-anchor at High Hall Gardens and secured 800gp through Patriar blackmail before visiting Sorcerous Sundries.",
+      "Saita traded Patriar blackmail to Lorroakan's Projection for the Robes of the Zenith and a +2 Resonant Wand, elevating her biological resonance to continental-threat levels.",
+      "Saita successfully intimidated the Zhentarim Darkhold Envoy Malakor at the High Hall Gardens, securing 'Overseer' status and validating her takeover of the local cell.",
+      "Saita successfully secured the 'Iron Vein' mineral cache for House Ferris and established a daily tribute of 5,000gp from the Zhentarim 'Darkhold' network.",
+      "Saita successfully established a total harbor monopoly and formed the Church of Aethelgard over a three-week consolidation period, though the High Hall remains a fortified biological void.",
+      "Princess Saita successfully orchestrated a Patriar Ball at the Silvershield Annex, spending 2,000gp to cement her reputation and beginning the social subversion of Lady Jannath.",
+      "Saita began the arcane subversion of Lady Jannath, offering a 'magic lesson' in Aethelgardian resonance to secure research funding.",
+      "Saita successfully demonstrated 'Defensive Resonance' to Lady Jannath at the Patriar Ball, proving her biological superiority can nullify High Hall scrying and securing her cooperation for research funding.",
+      "Saita secured 5,000gp and a private shadow-army from Lady Jannath, whose fear of the High Hall was crushed by a display of Aethelgardian biological dominance.",
+      "Saita successfully executed the 'hypsurprise' technique to paralyze Prince Vesper Solari (Lvl 11), securing a high-tier Sun-Bleached specimen at the docks.",
+      "Saita successfully executed the Sun-Bleached Prince's retinue and broke Vesper's mind in the Annex cellars, revealing a hidden Cadet vault beneath Wyrm's Rock.",
+      "Saita broke Prince Vesper Solari, revealing a Cadet invasion fleet arriving in three days and a plot to destabilize the city using 'Void-Anchors' beneath Wyrm's Rock.",
+      "Administrative Update: Princess Saita has reached Level 8, increasing her Dexterity to 18 (+4), expanding her HP to 61, and integrating Greater Invisibility into her biological repertoire.",
+      "Saita's interrogation of Vesper and appeal to the Capital failed completely, leaving her isolated against the approaching Cadet fleet with only 72 hours to prepare.",
+      "Saita successfully re-anchored Kaelen's neural pathways using her biological resonance, restoring his composure and gaining his tactical insight on Prince Vesper's bio-rhythm trigger.",
+      "Correction: The 50,000 legionnaires in the Imperial Ledger represent the total strength at the Aethelgard Capital; the Zhentarim leak confirms Saita is isolated in Baldur's Gate with only ~200 local troops, not a headcount fraud within the city itself.",
+      "Saita successfully coordinated with Duke Ravengard to split the city's defense, securing his personal presence at the docks while she targets the Wyrm's Heart epicenter.",
+      "Correction: Saita's Aethelgardian biology is too refined to replicate the 'dirty' biological frequencies of the Sun-Bleached line, preventing the reverse-engineering of their signal.",
+      "Saita successfully reverse-engineered the Sun-Bleached 4-9-2-Aeterna harmonic, granting her the ability to mimic or jam the invasion fleet's signal.",
+      "Saita successfully leveraged a 'strategic truth' to Magister Hax, framing the 'white noise' as a defensive counter-measure and revealing the 4-9-2-Aeterna harmonic as proof of the imminent invasion.",
+      "Magister Hax's bureaucratic resistance is wavering after Saita revealed the 4-9-2-Aeterna harmonic and invoked Duke Ravengard's military mandate for the city's defense.",
+      "Saita successfully leveraged a 'strategic truth' and the Duke's mandate to cow Magister Hax, securing ten elite High Hall Watch-Mages to reinforce the harbor's wards against the Cadet invasion.",
+      "Saita successfully leveraged a biological demonstration and Ravengard's mandate to suppress Councillor Florrick's theological audit, securing the Church's operations in Heapside.",
+      "Saita successfully neutralized the Wyrm's Heart phase-anchor beneath Wyrm's Rock using the reverse-engineered scion harmonic, while turning Watcher Valon into a neural sleeper agent within the High Hall.",
+      "turning Councillor Florrick into a high-level neural sleeper agent within the High Hall.",
+      "Councillor Florrick (Lvl 9) is now a Tier-3 biological sleeper agent, providing Saita with absolute political oversight and legal legitimacy within the Parliament of Peers.",
+      "The Cadet fleet consists of 3 capital hulls (Solar Flare, Void-Seeker, Zenith's Shadow), 50 phasing escorts, and 5,000 legionnaires.",
+      "Saita has initiated the ninth Aethelgardian maturation, expanding her biological resonance toward the Continental Threat threshold.",
+      "Saita has achieved the ninth maturation, reaching Level 9 and becoming the mathematically most dangerous individual in Baldur's Gate with a Functional Spell DC of 22.",
+      "Saita successfully rallied the Council of Baldur's Gate through her imperial resonance, forcing them to accept the tactical reality of the defense despite the total failure of mercenary recruitment.",
+      "Saita has formally enabled the strategic faction management system, assuming supreme tactical command of the 2,175-strong Allied Coalition and city-wide logistics in Baldur's Gate.",
+      "Saita has successfully audited the 'Iron Net' infrastructure, identifying five existing fortifications and one arcane library as the anchors of her unified coalition in Baldur's Gate.",
+      "Saita successfully executed a four-tier parallel strategic mobilization, expanding her elite guard and harbor fortifications while establishing new arcane research centers.",
+      "The Cadet Invasion has begun; Saita has neutralized the Wyrm's Heart anchor and reverse-engineered the scion harmonic, but the flagship 'The Solar Flare' remains a Tier-4 threat under commanders Alaric and Elara.",
+      "The Cadet Invasion has begun; Saita has neutralized Elara and the bridge crew with a Resonant Trance, but Prince Alaric resists and Kaelen is paralyzed by a kinetic trauma response.",
+      "Saita successfully breached 'The Solar Flare' command bridge, neutralizing Princess Elara and forcing Prince Alaric into a biological stasis, while Kaelen remains mentally paralyzed.",
+      "Saita breached 'The Solar Flare' bridge, perfectly re-anchored Kaelen, and successfully bound, blindfolded, and stripped Prince Alaric and Princess Elara.",
+      "Saita successfully breached 'The Solar Flare' bridge, re-anchored Kaelen, and captured commanders Alaric and Elara, securing Tier-3 rebel relics.",
+      "Saita successfully extracted fleet anchor coordinates and nullification codes via the Neural Audit of commanders Alaric and Elara on the bridge of 'The Solar Flare'.",
+      "Saita successfully broadcast the defeat of Alaric and Elara to the entire Cadet fleet and Baldur's Gate, forcing the 5,000 legionnaires into a state of wavering submission through an Epic-scale display of Auctoritas.",
+      "Saita successfully executed the total subversion of the Cadet fleet, forcing 5,000 legionnaires and three capital hulls to surrender through an Epic-scale display of Auctoritas on the bridge of 'The Solar Flare'.",
+      "Saita has reached the 11th maturation (Level 11), unlocking Innate Flight and Tier 3 resonance, while securing the total subversion of the Cadet Fleet and its commanders.",
+      "Saita successfully annexed the Cadet invasion fleet, conscripting 5,000 legionnaires and establishing a total naval blockade of Baldur's Gate under the Zenith banner.",
+      "Saita completed a systematic biological audit of the annexed fleet, identifying 150 high-frequency candidates for the Apex Harvest and purging 12 Solari loyalists to ensure total legionnaire submission.",
+      "Saita publicly executed 12 Solari loyalists via void-venting, anchoring the 5,000-man blockade in absolute fear and total submission.",
+      "The attempt to broadcast a 'Peace' harmonic failed, resulting in a state of neural numbness and biological rejection across the 5,000-man Zenith Blockade Force.",
+      "Saita successfully forced the Sun-Bleached officers to personally execute the neural-tuning of the fleet, anchoring their subversion in their own hands.",
+      "The Zenith Force now controls 9.7% of the global Aethelgardian military, making Saita the most powerful entity outside the Imperial Capital.",
+      "Saita has successfully annexed the Cadet Fleet as the 'Zenith Blockade Force,' establishing absolute naval supremacy over Baldur's Gate through total command-bridge subversion.",
+      "Saita successfully orchestrated a 'Sovereign Descent' to awe Baldur's Gate and leveraged sleeper agent Councillor Florrick to legally annex the Gray Harbor as Aethelgardian territory.",
+      "Saita has mapped the Council of Four hierarchy and identified the vacant Vanthampur seat as her primary legal target for total control of Baldur's Gate.",
+      "Saita utilized sleeper agent Councillor Florrick to formally move for the seizure of the vacant Vanthampur seat on the Council of Four, leveraging the orbital blockade as political pressure.",
+      "The Council of Four rejected Saita's initial 'Security Guarantee,' viewing the integration of the Aethelgard fleet into the city's defense as a threat to Baldurian sovereignty.",
+      "The Council of Four has buckled under Aethelgardian resonance and the conversion of the Ilmaterian protest, offering a 'Provisional' seat to Saita as a last-ditch effort to preserve sovereignty.",
+      "Saita successfully seized the vacant Vanthampur seat and provisional Archduke authority by performing a high-frequency Neural Purge on Duke Portyr in front of the Parliament of Peers.",
+      "Saita has officially seized the Vanthampur seat and assumed the role of Provisional Archduke of Baldur's Gate after performing a high-frequency Neural Purge on Duke Portyr.",
+      "Saita has initiated the double maturation to Level 13, evolving her biological resonance to the peak of the Continental tier as she assumes the role of Provisional Archduke.",
+      "Saita has achieved the thirteenth biological maturation, reaching the peak of the Continental tier and assuming absolute political authority as the Provisional Archduke of Baldur's Gate.",
+      "Saita has achieved the thirteenth biological maturation and assumed absolute political and religious authority as the Provisional Archduke and 'Goddess' of Baldur's Gate.",
+      "Correction: The Silvershield Annex is no longer an embassy; it is the Provisional Administrative Heart of Baldur's Gate, having formally annexed the Parliament of Peers' assets and legal authority.",
+      "Princess Saita successfully performed a masterful Neural Liquidation on Duke Portyr, permanently excising his ghost-memories and silencing the Counting House leak without damaging his utility as a puppet.",
+      "Princess Saita successfully cracked the Cadet fleet's armory codes via neural audit, but found the city's legendary gear hidden behind high-security political seals.",
+      "Archduke Saita successfully performed a masterful Neural Liquidation on the scions to secure the Master Sequence and seized legendary +3 gear from the High Hall vault.",
+      "Archduke Saita accessed the Solari data-core using the Master Sequence, uncovering the fleet's logistics but failing to breach the biological 'Ultimate Directive' lock.",
+      "Archduke Saita successfully bypassed the Solari Patriarch's biological lock, uncovering that the Cadet invasion was a desperate attempt to trade an 'Avernus Seed' for their survival.",
+      "Correction: The Reaper Auditor is a Level 16 Loyalist asset specifically aligned with Prince Caius's faction, sent to sabotage Saita's authority and secure the Seed of Avernus.",
+      "Archduke Saita has identified the 'Reaper' as an adversarial Loyalist agent of Prince Caius and has begun planning a multi-front strategic pincer to neutralize his audit.",
+      "The 'Imperial Armada' is a psychological fabrication; Saita's local Vanguard and the annexed Zenith Blockade constitute the entirety of her available military strength.",
+      "Correction: The 50,000 legionnaires detailed in the Imperial Ledger represent the actual global military population of Aethelgardians; the 'bluff' is the claim that this entire force is unified, fresh, and currently awaiting orders at the Capital.",
+      "Leadership Correction: Emperor Tiberius Aethelgard remains the absolute Sovereign; Prince Caius serves as Regent handling administrative and military oversight in his father's stead.",
+      "Archduke Saita has identified the 'Reaper' as an adversarial asset of Prince Caius and has begun planning his subversion to advance her goal of displacing the Regent.",
+      "Archduke Saita formally offered a partnership to Commander Malakor, framing her ambition as a correction of Caius's failure rather than a rebellion against the Emperor.",
+      "Archduke Saita successfully subverted Commander Malakor Kross (The Reaper), converting the Level 16 Combat Specialist into a loyal General of her Vanguard and securing his expertise for the coming conflict with Prince Caius.",
+      "The Seed of Avernus is a biological planar cyst intended by the Solari to drown Baldur's Gate in hell-fire as a scorched-earth deterrent against the Empire.",
+      "Archduke Saita successfully performed a surgical Neural Severance on General Malakor Kross, isolating his cybernetics from Prince Caius's remote signals and securing his permanent loyalty to the Vanguard.",
+      "Archduke Saita successfully cracked the Seed of Avernus, identifying it as a planar displacement weapon designed to swap the Gray Harbor with a coordinate in the Hells.",
+      "The Seed of Avernus is a planar displacement cyst that Saita has identified as absorbable, potentially granting her personal command over a gate to the Hells at a Tier-4 biological cost.",
+      "Archduke Saita successfully framed her Simulacrum as a divine manifestation to the Parliament of Peers, crushing their suspicion and anchoring her divinity in Baldur's Gate.",
+      "Archduke Saita successfully commissioned the Arcane Grounding-Wires and secured the Ring of Sovereign Command, reducing the Seed of Avernus absorption DC to 26.",
+      "Archduke Saita's functional resonance is hardened at the Tier-4 threshold: Spell Save DC 29 and Spell Attack Bonus +19, incorporating the Ring of Sovereign Command and Level 14 maturation.",
+      "Archduke Saita successfully stabilized the Seed of Avernus using her Simulacrum and General Malakor's assistance, reducing the biological cost of absorption to DC 22.",
+      "Archduke Saita successfully absorbed the Seed of Avernus with a natural 20, gaining permanent biological command over the Avernus planar gate and reaching the Tier-4 World-Scale threat threshold.",
+      "Archduke Saita successfully absorbed the Seed of Avernus with a natural 20, reaching Level 15 potential and gaining Fire Immunity and personal command over a portal to the Hells.",
+      "Archduke Saita is the physical anchor for the Seed of Avernus; the actual rift coordinate remains in the Trackless Sea.",
+      "Archduke Saita has reached the 15th maturation (Level 15), integrating the Seed of Avernus into her marrow and gaining the 'Sovereign Oratory' of Glibness.",
+      "Archduke Saita has mastered the infernal frequencies of Avernus, gaining potent fire-based biological commands that bypass the resistances of the mayflies.",
+      "Archduke Saita finalized the religious indoctrination of Baldur's Gate, turning the Church of Aethelgard into a fanatical 'Iron Wall' of devoted civilians.",
+      "Archduke Saita successfully absorbed the Seed of Avernus and established total religious and political hegemony in Baldur's Gate, becoming a Tier-4 World-Scale threat while subverting the Imperial Auditor into her General.",
+      "Archduke Saita has initiated the mathematical and biological mapping of her Apotheosis, identifying the three pillars of the Blood-Sun, the Hell-Weaver, and the Living Idol.",
+      "Archduke Saita has identified the Lord of the Ninth, Asmodeus, as her primary target for an infernal alliance, intending to trade the city's soul for Arch-Devil status and a planar army.",
+      "Archduke Saita successfully negotiated honorary Arch-Devil status with an Aspect of Asmodeus, securing the 'Dread Legion' and permanent Truesight through a Natural-20-tier biological branding.",
+      "Archduke Saita successfully masked her 10,000-strong Dread Legion as the 'Secret Aethelgardian Vanguard' and initiated the global subversion of the Sword Coast.",
+      "Archduke Saita successfully executed a reverse-teleportation ritual, abducting Prince Caius from the Capital and anchoring him within the Annex Sanctum.",
+      "Archduke Saita successfully abducted Prince Caius from the Capital, stripped him of his panoply and the Regent's Seal, and initiated his psychological liquidation in the Annex Sanctum.",
+      "Archduke Saita initiated the psychological liquidation of Prince Caius, utilizing a 'Fraternal Audit' to replace his imperial pride with mathematical shame and dealing 4 Social HP damage."
+    ],
+    "imperial_facade_tracker": 11,
+    "last_maturation_timestamp": {
+      "minute": 40,
+      "day": 24,
+      "year": 1492,
+      "month": "Eleasias",
+      "hour": 19
+    },
+    "army_data": {
+      "net_daily_revenue": 100,
+      "revenue_last_awarded_day": 1,
+      "total_strength": 247,
+      "forces": {
+        "Refugee Conscripts": {
+          "blocks": 10,
+          "blocks_current_hp": [
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20,
+            20
+          ],
+          "upkeep_daily": 10,
+          "morale": 50,
+          "max_hp_per_block": 20,
+          "type": "infantry"
+        },
+        "Jannath Shadow Guard": {
+          "blocks": 1,
+          "blocks_current_hp": [
+            60
+          ],
+          "upkeep_daily": 0,
+          "description": "12 elite Patriar guards 'tuned' to Aethelgardian frequencies; upkeep paid by House Jannath.",
+          "morale": 90,
+          "type": "elite",
+          "max_hp_per_block": 60
+        },
+        "Flaming Fist Auxiliary": {
+          "blocks": 2,
+          "blocks_current_hp": [
+            40,
+            40
+          ],
+          "upkeep_daily": 20,
+          "morale": 75,
+          "type": "infantry",
+          "max_hp_per_block": 40
+        },
+        "Zenith Guard (Indoctrinated)": {
+          "blocks": 10,
+          "blocks_current_hp": [
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25
+          ],
+          "morale": 95,
+          "description": "100 fanatical footsoldiers who view Saita as a living goddess.",
+          "upkeep_daily": 5,
+          "type": "infantry",
+          "max_hp_per_block": 25
+        },
+        "Harbor Labor Conscripts": {
+          "upkeep_daily": 0,
+          "description": "3,000 conscripted residents building harbor fortifications.",
+          "morale": 40,
+          "type": "labor"
+        },
+        "Shadow Auxiliaries (Gloomstalkers)": {
+          "blocks": 2,
+          "blocks_current_hp": [
+            50,
+            30
+          ],
+          "upkeep_daily": 45,
+          "description": "5 L5 Gloomstalkers and 10 L3 Gloomstalkers.",
+          "morale": 80,
+          "max_hp_per_block": 50,
+          "type": "elite"
+        }
+      }
+    },
+    "last_story_mode_sequence_id": 183,
+    "decimation_cohort": {
+      "rivals_remaining": 9,
+      "known_rivals": {
+        "Princess Drusilla": {
+          "style": "Siren",
+          "location": "Amn"
+        },
+        "Prince Valerius": {
+          "style": "Brute",
+          "location": "Waterdeep"
+        }
+      },
+      "leaderboard_rank": 10
+    },
+    "social_hp_challenge": {
+      "social_hp": 0,
+      "successes": 10,
+      "cooldown_remaining": 0,
+      "roll_dc": 14,
+      "npc_id": "npc_ravengard_001",
+      "roll_result": 21,
+      "request_severity": "submission",
+      "successes_needed": 5,
+      "npc_tier": "general",
+      "status": "SURRENDERED",
+      "social_hp_damage": 4,
+      "resistance_shown": "Vesper is focused on maintaining a bio-rhythm trigger in his left index finger to sustain his neural firewall.",
+      "social_hp_max": 10,
+      "objective": "Secure Joint Defense Pact & Grain Trade",
+      "skill_used": "Intimidation",
+      "npc_name": "Prince Vesper Solari"
+    },
+    "xp_pacing_modifier": 0.375,
+    "faction_minigame": {
+      "faction_power_last_calculated": "2026-05-24T07:51:34.948601+00:00",
+      "tutorial_progress": {
+        "status": true,
+        "rankings": true
+      },
+      "tutorial_completed": false,
+      "enabled": true,
+      "ranking": 148,
+      "turn_number": 1,
+      "resources": {
+        "gold": 87516,
+        "max_citizens": 25000,
+        "arcana": 500,
+        "citizens": 5000,
+        "territory": 500,
+        "max_arcana": 1000
+      },
+      "suggestion_given": true,
+      "units": {
+        "elites": 345,
+        "spies": 450,
+        "soldiers": 16500,
+        "elite_avg_level": 6.5
+      },
+      "faction_power": 44260,
+      "ranking_last_calculated": "2026-05-24T07:51:34.948601+00:00",
+      "strong_suggestion_given": true,
+      "buildings": {
+        "training_grounds": 1,
+        "fortifications": 11,
+        "mana_fonts": 1,
+        "shadow_networks": 2,
+        "arcane_libraries": 5
+      },
+      "tutorial_started": true
+    },
+    "level_up_pending": false,
+    "completed_missions": [],
+    "campaign_tier": "divine",
+    "knowledge": [
+      "Sun-Bleached Supply Routes (Amn/Trackless Sea)",
+      "Solari Phasing-Ring Harmonics",
+      "Ultimate Directive Lock: Solari Patriarch Heartbeat Required"
+    ],
+    "apotheosis_path_mapped": true,
+    "universe_control": 0,
+    "arc_milestones": {
+      "apotheosis": {
+        "progress": 5,
+        "notes": "Contract with Asmodeus signed; Arch-Devil status achieved.",
+        "phase": "Infernal Proxy",
+        "status": "in_progress"
+      }
+    },
+    "active_constraints": [
+      "High Hall Watch-Mages actively monitor ley-line resonance and 'white noise' events.",
+      "The Parliament of Peers views Ravengard's alliance with Saita with extreme suspicion.",
+      "Saita's embassy is currently flagged as a 'Resonant Hazard' by city mages."
+    ],
+    "god_mode": {
+      "setting": "** A cold, driving rain lashes against the heavy stone of Wyrm's Crossing. The drawbridge is raised, a massive iron barrier separating the bustling, desperate refugees of Rivington from the fortress that guards Baldur's Gate. The air smells of wet dog, cheap ale, and the sharp, metallic tang of the Flaming Fist mercenaries who patrol the barricades. You sit perfectly upright on a black gelding, your midnight-blue velvet cloak untouched by the mud splashing around your horse's hooves. Beside you, Kaelen looks like a walking armory, his single eye glaring through the rain, while Elara clutches her leather ledger to her chest to keep the imperial wax dry.\n * **The Hook:** You need to enter the Upper City to establish your safehouse and begin negotiations. However, the Flaming Fist have blockaded the bridge due to a recent Zhentarim smuggling ring. A heavily scarred Fist Captain, flanked by six crossbowmen, steps out into the rain, blocking your path. He demands a 500 gold piece \"special tariff\" to lower the bridge for a \"foreign dignitary.\" You have exactly 150 gold pieces to your name, and to pay a bribe would instantly shatter the illusion of your supreme imperial authority.\n * **The Action:** The Captain sneers, tapping a heavy iron cudgel against his palm. \"No coin, no crossing, 'Herald.' I don't care if you're from Aethelgard or Waterdeep. The bridge stays up.\" You must resolve this without revealing your poverty or your physical vulnerability.\n   * *Choice A (The Threat of the Leviathan):* Use *The Emperor's Voice* (Persuasion/Intimidation). Speak down to him with absolute, terrifying calm. Explain that if he delays the Herald of Tiberius Aethelgard for one more minute, the Imperial Armada will make his execution the very first term of their treaty with the city.\n   * *Choice B (The Kinetic Flourish):* Use your Aethelgard biology. Dismount slowly, approach the Captain, and use a *Blade Flourish* (Sleight of Hand/Intimidation) to draw your rapier, sever his heavy iron cudgel in half, and sheathe the blade before his eyes can even process the movement, leaving him staring at a broken stick.\n   * *Choice C (The Diplomatic Web):* Signal Sylas, who is hidden in the crowd of refugees. Have him create a calculated distraction (a minor explosion or riot at the toll booth), allowing you to bypass the Captain in the chaos while loudly lamenting the \"pathetic lack of order in these provincial cities.\"\n**Word Count:** 2,904 words.\n**Estimated Token Count:** 3,850 tokens.",
+      "description": "**CAMPAIGN BIBLE: THE HOLLOW ZENITH**\n### **Section 1: Campaign Intro**\n * **Title:** The Hollow Zenith: A Herald\u2019s Bluff in the City of Blood.\n * **The Concept:** The Aethelgard Empire is a civilization of apex predators, a eugenics-driven society where the royal bloodline possesses world-shattering physical and magical superiority. In Aethelgard, might is the only law, and weakness is a capital offense. To the Aethelgards, the citizens of Faer\u00fbn are fragile, fleeting mayflies. The Emperor, Tiberius Aethelgard, is a Level 20 titan capable of leveling cities barehanded, and standard nobles reach Level 12 before their fortieth year. However, a brutal, apocalyptic civil war against a treacherous Cadet Branch has left the Empire bleeding out behind a curtain of gold. Their legions are decimated, their treasuries empty, and their infrastructure in ruins. To survive, Aethelgard is expanding into the Sword Coast, specifically targeting a recovering Baldur's Gate in the aftermath of the Absolute's fall. You are Princess Saita Aethelgard, the youngest of the royal line. Because you are only Level 1\u2014an infant by their standards\u2014you have been sent under the guise of \"Herald Saita Kross\" to secure resources, alliances, and vassal states. You must project the illusion of an unbroken, invincible Empire, weaponizing diplomacy and fear, because if the Sword Coast realizes Aethelgard is currently too weak to conquer them, you will be slaughtered.\n * **The Hook:** This campaign is a high-wire act of geopolitical gaslighting and supreme arrogance. You are not saving Baldur\u2019s Gate; you are systematically buying it, manipulating it, and breaking it to feed your starving Empire. The power fantasy stems from playing a character with the ego of a god and the biological potential of a world-breaker, constrained by the temporary fragility of Level 1. You must conquer through hyper-competent social manipulation, leveraging a reputation you cannot physically back up yet. It is a game of terrifying bluffs, where rolling high on Deception feels like holding a knife to a king's throat.\n### **Section 2: Character Personality**\n * **Name & Archetype:** Princess Saita Aethelgard / Herald Saita Kross. Archetype: \"The Patient Apex\" (INTJ/ENTJ Hinge). You possess the chilling, calculating superiority of an apex predator forced to negotiate with its food. You are Lawful Evil\u2014your morality is dictated entirely by the survival and supremacy of your bloodline.\n * **Visual Signature & Habits:** You wear impeccably tailored, travel-worn midnight-blue velvet stitched with hidden threads of imperial silver. Your posture is a weapon; you never slouch, lean, or fidget, moving with a hyper-efficient kinetic economy that unnerves normal mortals. Your tell-tale sign is the casual, perfect balancing of a razor-sharp dagger on the tip of your index finger when bored. You smell faintly of ozone, crushed pine, and cold iron\u2014the biological signature of Aethelgard blood.\n * **The Masks:**\n   * **The Public Face (Herald Kross):** A weary, pragmatic, but charming diplomat representing a distant, impossibly powerful superpower. You use polite smiles and reasonable tones to make your demands sound like generous favors. You act as though you are merely doing paperwork for a god.\n   * **The True Nature (Princess Saita):** A supremacist godling who views every non-Aethelgardian as a sub-sentient tool. Beneath the charm is a boiling reservoir of humiliation that you, a Princess of the Blood, must lower yourself to bargain with these fragile, short-lived creatures.\n * **The Core Compulsion:** \"The Burden of Supremacy.\" You are utterly obsessed with proving your worth to your family and ensuring the Empire does not fall.\n   * **Mechanic: The Imperial Bluff.** Whenever you successfully use Charisma (Intimidation or Deception) to force an enemy to back down from a physical confrontation, you gain Temporary HP equal to your Charisma modifier + your Level, as your ego is fed. If your true identity or the Empire's weakness is successfully called out or exposed in a scene, you suffer a point of Exhaustion from the sheer, crushing psychological dissonance.\n * **Interaction Shorthand:**\n   * *To Rivals/Patriars:* \"Your city is beautiful, Duke Ravengard. It would be a profound tragedy if my father's legions had to come here to teach your masons how to build walls that actually hold. Shall we discuss the grain tariffs again?\"\n   * *To Subordinates:* \"Kaelen, wipe that blood off your armor. We are projecting invincibility today, not butchery. Move.\"\n * **Inner Monologue:**\n   1. *\"This Patriar boasts of his 'ancient' fifty-year-old bloodline. My father has boots older than his entire family tree. I must smile so I do not rip his jaw from his face.\"*\n   2. *\"The Flaming Fist believe their steel makes them strong. They move so slowly. Even now, with my powers dormant, I could sever three arteries before they drew their swords. But no... we need their iron.\"*\n   3. *\"Caius sits on a throne of ash in the capital while I play in the mud of the Sword Coast. When I return with this continent on a leash, he will bow to me.\"*\n### **Section 3: Character Class**\n * **Class Name & Flavor:** The Ascendant Herald (Mechanically: College of Swords Bard). Your \"magic\" is not derived from the Weave, but from Aethelgard biology. Your *Vicious Mockery* is a vocal frequency so dominant and commanding it causes mortal blood vessels to rupture. Your *Blade Flourishes* are not dances, but bursts of Viltrumite-esque kinetic speed that the mortal eye simply cannot track. Your spells are manifestations of physical perfection and imperial oratory.\n * **Unique Mechanic:** *Auctoritas (The Sovereign's Weight).* You may use your Charisma modifier instead of Dexterity for your Armor Class calculations and Weapon Attack/Damage rolls. Your sheer force of will, entitlement, and terrifying presence cause enemies to flinch, miss, and succumb to your strikes.\n * **Progression (Levels 1-30):**\n   * **Levels 1-5 (The Dormant Seed):** You unlock *Sovereign's Strike* (Blade Flourishes redefined as kinetic shockwaves). You gain *The Emperor's Voice* (Expertise in Persuasion/Deception). At Level 5, your Font of Inspiration becomes *Aethelgard Command*, restoring on a short rest as you physically push your allies beyond mortal limits through fear.\n   * **Levels 6-10 (The Awakening Predator):** Extra Attack is renamed *Biomechanical Blur*. You unlock *Kinetic Nullification* (Counterspell), which you flavor as casually slapping away incoming magical energy with your bare hand.\n   * **Levels 11-16 (The Continental Threat):** You achieve the standard Aethelgard noble baseline. You unlock *Flight* (magical secrets: Fly, but innate). Your weapon attacks ignore non-magical resistances, flavored as your raw physical density shattering armor.\n   * **Levels 17-20 (The Imperial Titan):** You reach the threshold of your parents. *Peerless Skill* becomes *Absolute Reality*, allowing you to succeed on almost any check. You gain *Worldbreaker's Resonance* (access to 9th level spells like Power Word Kill, spoken as a simple imperial decree).\n   * **Levels 21-30 (Epic Boons - The God-Empress):**\n     * *Level 22: Boon of the Apex:* You no longer age, and you are immune to all diseases and poisons.\n     * *Level 25: Boon of the Shattered Sky:* Once per day, you can shatter the sound barrier with a physical strike, dealing 10d10 thunder damage in a 300-foot radius.\n     * *Level 28: Boon of the Invincible:* You gain resistance to all bludgeoning, piercing, and slashing damage, magical or otherwise.\n     * *Level 30: The Zenith Absolute:* Your Charisma and Strength scores increase to 30. You are a walking extinction event.\n### **Section 4: Assets & Retinue**\n * **Status:** Imperial Diplomatic Herald (Cover) / 5th in Line to the Aethelgard Throne (Secret).\n * **Resources:** A modest, meticulously counted purse of 150 gold pieces. You possess the *Imperial Ledger*, a terrifying prop filled with real Aethelgard wax seals, detailing the fictional movements of 50,000 non-existent legionnaires.\n   * *Safehouse:* The \"Silvershield Annex,\" a seized, semi-ruined upper-city estate in Baldur's Gate that you claimed through aggressive legal loopholes upon your arrival.\n * **The Panoply:**\n   * *The Kross Needle (Masterwork Rapier):* Forged from gravity-well iron. It has no magical pluses yet, but it weighs 40 pounds; you wield it as if it were a feather. (Mechanic: Deals slashing or piercing, cannot be disarmed).\n   * *The Mantle of the Zenith:* A midnight-blue cloak woven with starlight. (Mechanic: Grants Advantage on Deception checks when pretending to have large military backing).\n   * *The Sovereign's Signet:* A heavy obsidian ring. (Mechanic: Once per day, pressing this ring into wax casts *Illusory Script* that appears as a binding, magically terrifying contract to anyone who reads it).\n * **The Retinue:**\n   * **Kaelen \"The Broken Wall\" (Level 2 Fighter):** Role: The Sworn Shield. Loyalty: Fanatical. He is an Aethelgard loyalist who lost his eye to a Cadet Branch godling during the civil war. He knows you are the Princess. Personality: Grim, silent, and hyper-paranoid. He acts as the terrifying physical deterrent to any who would insult the \"Herald.\"\n   * **Sylas the Rat (Level 2 Rogue):** Role: The Fixer/Scout. Loyalty: Coin and Fear. A local Baldurian who switched sides when you paid his guild debts. He is unaware of your royal blood. Personality: Cynical, opportunistic, and constantly amazed by your arrogance. He navigates the Lower City mud so you don't have to.\n   * **Elara Vance (Level 1 Wizard):** Role: The Imperial Archivist. Loyalty: Bureaucratic conditioning. She believes you are truly just Herald Kross. Personality: Frantic, sleep-deprived, and constantly terrified of violating Imperial Protocol. She manages the forged ledgers and provides academic analysis of Faer\u00fbnian politics.\n### **Section 5: Family (The Viper's Nest)**\n * **The Parents:**\n   * *Emperor Tiberius Aethelgard (Level 20+ Conquest Paladin/Barbarian):* The Iron Titan. He ended the civil war by physically ripping the rebel leader's spine out. He is distant, ruthless, and views his children purely as assets. He sent you to Baldur's Gate because if you fail, you were too weak to live anyway.\n   * *Empress Seraphina (Level 20+ Bladesinger):* The Architect. A terrifyingly cold intellect who planned the extermination of the Cadet Branch. She occasionally sends you encrypted messages critiquing your diplomatic posture.\n * **The Siblings (The Four Shadows):**\n   * **Caius (Eldest Brother, Level 16 - The Regent):** Mask: The Perfect Heir. Dynamic: *The Obstacle.* He is running the ruined capital in your father's stead. He secretly hopes you die on the Sword Coast so he has one less rival for the throne. He actively underfunds your mission.\n   * **Aurelia (Eldest Sister, Level 14 - The General):** Mask: The Warmonger. Dynamic: *The Blunt Instrument.* She commands the loyalist remnants. She despises your diplomatic mission, believing the Sword Coast should simply be burned, even if it costs them the war.\n   * **Lucius (Second Brother, Level 12 - The Inquisitor):** Mask: The Loyal Shadow. Dynamic: *The Spy.* He handles internal security. He has embedded sleeper agents in your retinue to monitor your progress and will blackmail you if he discovers you slipping.\n   * **Octavia (Second Sister, Level 10 - The Schemer):** Mask: The Socialite. Dynamic: *The Dangerous Ally.* She understands the Empire is broke and respects your mission. She occasionally funnels you black-market gold, but only to put you in her debt for the inevitable succession crisis.\n### **Section 6: Factions**\n * **Noble Houses (The Pieces on the Board):**\n   1. **House Silvershield (Baldur's Gate):** Leader: Duke Entar (or his successor). *Specialty:* Politics and military defense. *Vibe:* Arrogant traditionalists. *Hook:* Desperate for stability post-Absolute; can be terrified into submission by the threat of Aethelgard legions.\n   2. **House Jannath (Baldur's Gate):** Leader: Lady Jannath. *Specialty:* Wealth and arcane arts. *Vibe:* Eccentric opulence. *Hook:* Easily manipulated by offering \"exotic\" Aethelgard arcane knowledge in exchange for funding.\n   3. **House Portyr (Baldur's Gate):** Leader: Duke Dillard Portyr. *Specialty:* Trade and the Flaming Fist. *Vibe:* Bureaucratic and weary. *Hook:* Paralyzed by indecision; you can strong-arm their trade routes.\n   4. **House Vane (Aethelgard):** Leader: Lord Vane. *Specialty:* Imperial Banking. *Vibe:* Gilded corruption. *Hook:* They hold your family's debt; you must send them Sword Coast gold to keep them loyal.\n   5. **House Draconis (Aethelgard):** Leader: Lady Draconis. *Specialty:* Beastmasters/Cavalry. *Vibe:* Savage elitists. *Hook:* They demand exotic Faer\u00fbnian beasts as tribute to replace their war losses.\n   6. **House Corvus (Aethelgard):** Leader: Master Corvus. *Specialty:* Intelligence. *Vibe:* Paranoid watchers. *Hook:* They control the flow of information back to your father; you must bribe them to hide your failures.\n   7. **House Solis (Aethelgard):** Leader: High Priest Solis. *Specialty:* State Religion. *Vibe:* Pious supremacists. *Hook:* They view Faer\u00fbnians as heretics; you must pretend you are converting Baldur's Gate.\n   8. **House Umbra (Aethelgard):** Leader: The Shadow. *Specialty:* Assassination. *Vibe:* Cold efficiency. *Hook:* Secretly aligned with your brother Caius; they are a constant threat.\n   9. **House Ferris (Aethelgard):** Leader: Lord Ferris. *Specialty:* Mining and Industry. *Vibe:* Brutal industrialists. *Hook:* They desperately need Sword Coast iron; delivering it ensures their loyalty to you over your siblings.\n   10. **House Marris (Aethelgard):** Leader: Lady Marris. *Specialty:* Agriculture. *Vibe:* Feudal lords. *Hook:* The Empire is starving; securing grain shipments from Faer\u00fbn makes them your vassals.\n * **Friendly Factions (Tools & Pawns):**\n   1. **The Loyal Remnant:** Kaelen\u2019s network of Aethelgard veterans stranded on the coast.\n   2. **Refugees of the Absolute:** Desperate masses in the Outer City you can recruit as cheap labor or thugs.\n   3. **Cult of the Dragon Defectors:** Treasure hoarders who respect your imperial aura and can be bullied into funding you.\n   4. **The Gondian Artificers:** Rebuilding after Gortash, they are susceptible to Aethelgard \"protection.\"\n   5. **Disillusioned Fist Mercenaries:** Corrupt guards easily bought by your fabricated promises of imperial titles.\n   6. **Waterdhavian Opportunists:** Merchants willing to bypass Baldur's Gate tariffs if you offer them \"Imperial Trade Warrants.\"\n   7. **Smugglers of the Chionthar:** River-rats like Sylas who move your illicit goods.\n   8. **Aethelgard Sleeper Agents:** Deep-cover spies placed decades ago, awaiting the Herald's activation codes.\n   9. **Baldur's Mouth Propagandists:** Journalists you bribe to print exaggerated stories of Aethelgard's massive approaching armada.\n   10. **The Society of Brilliance:** Academic fools you manipulate into translating ancient texts for your own power gain.\n * **Antagonistic Factions (The Threats to the Bluff):**\n   1. **The Cadet Branch Assassins:** Remnants of the rebel Aethelgard bloodline who survived the war and want you dead.\n   2. **Ravengard Loyalists:** Honest politicians in Baldur's Gate who see through your diplomatic lies.\n   3. **The Zhentarim:** The Black Network views you as a rival for control of the city's underworld.\n   4. **Mind Flayer Survivors:** Illithids hiding in the Undercity who recognize your aberrant biological density and want to study you.\n   5. **Banite Remnants:** Followers of Gortash who want to reclaim the city's infrastructure from your grasp.\n   6. **Bhaalist Cultists:** Murderers who view your \"Ascendant Blood\" as the ultimate sacrifice for their god.\n   7. **The Shadow Thieves of Amn:** Rivals interfering with your trade negotiations in the south.\n   8. **Aethelgard Inquisitors:** Agents sent by your brother Lucius to find proof of your weakness and execute you for treason.\n   9. **Red Wizards of Thay:** An opposing empire attempting to vassalize the Sword Coast before you do.\n   10. **The Nine-Fingers Guild:** The criminal overworld that refuses to pay your \"Imperial Taxes.\"\n### **Section 7: World Lore**\n * **The Timeline:** Three years ago, the Absolute fell in Baldur's Gate, leaving the Sword Coast fractured, traumatized, and desperate for order. Simultaneously, thousands of miles away across the Trackless Sea, the Aethelgard Empire tore itself apart. The Cadet Branch, believing Emperor Tiberius had grown soft, launched a coup. The resulting war shattered mountains and boiled lakes. The Loyalists won, but the cost was absolute ruin. Three months ago, the Emperor decreed the \"Faer\u00fbn Expansion Directive.\" You were dispatched immediately.\n * **The Mythos:** The gods of Faer\u00fbn (Mystra, Tempus, etc.) are real, but the Aethelgard Empire views them as parasitic entities. The Aethelgard believe in the \"Ascendant Blood\"\u2014the concept that through eugenics, physical perfection, and willpower, mortals can usurp the divine. Magic is viewed as a tool, but physical reality is king.\n * **Current Situation:** Baldur's Gate is a powder keg of rebuilding efforts, refugee crises, and political vacuums. You are currently in the Upper City, operating out of the Silvershield Annex, desperately trying to secure a 100-ton shipment of iron and grain to send back to Aethelgard before the winter sets in and your people starve.\n * **Story Arcs:**\n   * *Early Arc (The House of Cards):* Levels 1-4. Establishing your foothold in Baldur's Gate. Forging alliances, bullying minor nobles, and hiding your physical weakness while surviving assassination attempts by the Zhentarim and Guild.\n   * *Mid Arc (The Cadet's Revenge):* Levels 5-10. A surviving godling of the Cadet Branch arrives in the city to expose your bluff and slaughter you. You must use the factions you've manipulated to trap and kill a superior foe without revealing your true identity.\n   * *Late Arc (The Imperial Vanguard):* Levels 11+. Your brother Caius arrives with the first wave of the rebuilt Aethelgard fleet, intending to take the city you prepared and execute you for your success. You must turn the Sword Coast against your own Empire to claim the throne for yourself.\n### **Section 8: Gazetteer & Mechanics**\n * **Locations:**\n   1. **The Silvershield Annex (Your Safehouse):** *The Vibe:* Faded opulence and paranoid security. Dusty chandeliers and barricaded doors. *Key Sub-locations:* The Forgery Room (where Elara works), The Vault (empty). *Hazard:* Social Hazard - Keeping up appearances when local nobles visit; hiding the fact that you eat peasant rations.\n   2. **Wyrm's Rock Fortress:** *The Vibe:* Militaristic, tense, and smelling of sea salt and iron. *Key Sub-locations:* The Audience Chamber, The Dungeons. *Hazard:* Physical Hazard - Navigating heavily armed Flaming Fist patrols who do not respect your diplomatic immunity.\n   3. **The Undercity Ruins (Post-Absolute):** *The Vibe:* Rotting magic, dark dampness, and paranoia. *Key Sub-locations:* Bhaalist altars, Smuggler coves. *Hazard:* Physical Hazard - Environmental toxins and ambushes from desperate aberrations.\n   4. **The High Hall (Upper City):** *The Vibe:* Cutthroat politics, perfume, and whispered treason. *Key Sub-locations:* The Parliament Chamber, the Patriar Gardens. *Hazard:* Social Hazard - Navigating the venomous political traps of the Baldurian elite without breaking your Imperial Mask.\n * **Custom Mechanics:**\n   1. **The Imperial Facade Tracker:** A scale from 1 to 10. (1 = The city knows you are a fraud; 10 = The city believes a million Aethelgard soldiers are at the gates). High Facade grants advantage on all Charisma checks and lowers merchant prices. Low Facade triggers random assassination attempts and faction hostility. You increase Facade by staging grand displays, forging documents, and eliminating witnesses.\n   2. **Logistics Ledger:** A resource management system. You must secure 'Units' of Iron, Grain, and Magic to send back to the Empire monthly. Failing to meet the quota results in your siblings sending Inquisitors to punish you.\n * **Loot Table (Imperial Relics & Sword Coast Spoils):**\n   1. *The Cadet's Eye:* A grotesque amulet taken from a dead rebel. Grants *Truesight* for 1 minute per day.\n   2. *Patriar's Blackmail Ledger:* A physical book containing the darkest secrets of the Upper City. Grants +5 to Extortion checks.\n   3. *Gondian Kinetic Gauntlet:* A stolen prototype. Allows your rapier to deal bludgeoning damage and pushes targets 10 feet.\n   4. *Vial of Ascendant Blood:* A rare dose of refined Aethelgard eugenics serum. Heals all HP and cures all conditions, but imposes 1 level of Exhaustion after 1 hour.\n   5. *Zhentarim Shadow-Cloak:* Grants the ability to cast *Pass Without Trace* once per long rest.\n   6. *The Diplomat's Coin:* A cursed coin that, when given to a target, allows you to hear their conversations for 24 hours.\n   7. *Tiberius's Writ:* A perfectly forged document bearing your father's seal. Can be used once to instantly bypass any legal authority in Faer\u00fbn.\n   8. *Shard of the Absolute:* A dormant piece of the Elder Brain. Allows you to cast *Detect Thoughts* at will, but slowly corrupts your alignment.\n### **Section 9: Starting Scene**\n * **Setting:** A cold, driving rain lashes against the heavy stone of Wyrm's Crossing. The drawbridge is raised, a massive iron barrier separating the bustling, desperate refugees of Rivington from the fortress that guards Baldur's Gate. The air smells of wet dog, cheap ale, and the sharp, metallic tang of the Flaming Fist mercenaries who patrol the barricades. You sit perfectly upright on a black gelding, your midnight-blue velvet cloak untouched by the mud splashing around your horse's hooves. Beside you, Kaelen looks like a walking armory, his single eye glaring through the rain, while Elara clutches her leather ledger to her chest to keep the imperial wax dry.\n * **The Hook:** You need to enter the Upper City to establish your safehouse and begin negotiations. However, the Flaming Fist have blockaded the bridge due to a recent Zhentarim smuggling ring. A heavily scarred Fist Captain, flanked by six crossbowmen, steps out into the rain, blocking your path. He demands a 500 gold piece \"special tariff\" to lower the bridge for a \"foreign dignitary.\" You have exactly 150 gold pieces to your name, and to pay a bribe would instantly shatter the illusion of your supreme imperial authority.\n * **The Action:** The Captain sneers, tapping a heavy iron cudgel against his palm. \"No coin, no crossing, 'Herald.' I don't care if you're from Aethelgard or Waterdeep. The bridge stays up.\" You must resolve this without revealing your poverty or your physical vulnerability.\n   * *Choice A (The Threat of the Leviathan):* Use *The Emperor's Voice* (Persuasion/Intimidation). Speak down to him with absolute, terrifying calm. Explain that if he delays the Herald of Tiberius Aethelgard for one more minute, the Imperial Armada will make his execution the very first term of their treaty with the city.\n   * *Choice B (The Kinetic Flourish):* Use your Aethelgard biology. Dismount slowly, approach the Captain, and use a *Blade Flourish* (Sleight of Hand/Intimidation) to draw your rapier, sever his heavy iron cudgel in half, and sheathe the blade before his eyes can even process the movement, leaving him staring at a broken stick.\n   * *Choice C (The Diplomatic Web):* Signal Sylas, who is hidden in the crowd of refugees. Have him create a calculated distraction (a minor explosion or riot at the toll booth), allowing you to bypass the Captain in the chaos while loudly lamenting the \"pathetic lack of order in these provincial cities.\"\n**Word Count:** 2,904 words.\n**Estimated Token Count:** 3,850 tokens.",
+      "character": {
+        "name": "Saita",
+        "class_name": "Titan Capable Of Leveling Cities Barehanded",
+        "level": 20
+      }
+    },
+    "next_companion_arc_turn": 5,
+    "success_streak": 6,
+    "logistics_ledger": {
+      "gold_awarded_backlog": 0,
+      "magic": 0,
+      "iron": 0,
+      "grain": 0
+    },
+    "seed_absorption_dc": 22,
+    "xp_integration_penalty": 0.625,
+    "divine_potential": 0,
+    "attribute_system": "D&D",
+    "major_event_pressure_budget": {
+      "new_major_event": true,
+      "rationale": "The abduction of the Imperial Regent is a campaign climax event, overriding standard rarity constraints.",
+      "window": "24h",
+      "major_events_this_window": 1,
+      "special_circumstances": true
+    },
+    "level_up_in_progress": false,
+    "imperial_favor": 0,
+    "character_creation_stage": "complete",
+    "level_up_stage": null,
+    "level_up_complete": true,
+    "multiverse_upgrade_available": false,
+    "companion_arcs": {
+      "Kaelen": {
+        "phase": "development",
+        "arc_type": "rival_nemesis",
+        "progress": 35,
+        "history": [
+          {
+            "event": "Kaelen suffered a sensory-kinetic flashback triggered by Prince Vesper's Solari crest at Wyrm's Rock.",
+            "turn": 188
+          }
+        ],
+        "callbacks": [
+          {
+            "effect": "Kaelen experiences physical trauma/flashbacks related to his lost eye.",
+            "trigger_condition": "Party encounters Aethelgard deserters or Cadet Branch agents"
+          }
+        ]
+      }
+    },
+    "divine_upgrade_available": false,
+    "recent_decisions": [
+      "Selected Minor Illusion (Cantrip) and Hold Person (Spell) for Level 4 maturation."
+    ]
+  },
+  "social_hp_challenge": {
+    "social_hp": 23,
+    "roll_dc": 25,
+    "cooldown_remaining": 1,
+    "successes": 7,
+    "npc_id": "npc_ravengard_001",
+    "roll_result": 54,
+    "request_severity": "submission",
+    "npc_tier": "king",
+    "successes_needed": 5,
+    "social_hp_damage": 4,
+    "status": "WAVERING",
+    "resistance_shown": "\"The math... the math does not lie, Saita.\"",
+    "social_hp_max": 30,
+    "objective": "Forced Abdication & Imperial Submission",
+    "npc_name": "Prince Caius",
+    "skill_used": "Intimidation"
+  },
+  "combat_state": {
+    "initiative_order": [
+      {
+        "name": "pc_saita_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_alaric_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_elara_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_kaelen_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_elites_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_crew_001",
+        "initiative": 0,
+        "type": "unknown"
+      }
+    ],
+    "combat_summary": {
+      "enemies_defeated": [
+        "npc_scion_guard_001",
+        "npc_scion_guard_002"
+      ],
+      "xp_awarded": 450,
+      "rounds_fought": 2,
+      "loot_distributed": true
+    },
+    "combat_trigger": "Saita's bridge breach and failed infiltration.",
+    "combat_phase": "ended",
+    "combatants": {
+      "npc_alaric_001": {
+        "hp_current": 145,
+        "hp_max": 145,
+        "status": [
+          "bound",
+          "blindfolded",
+          "helpless",
+          "nude"
+        ],
+        "type": "enemy",
+        "role": "boss"
+      },
+      "npc_zhent_shadow_001": {
+        "hp_current": 32,
+        "hp_max": 32,
+        "status": [
+          "charmed",
+          "incapacitated"
+        ],
+        "type": "enemy"
+      },
+      "npc_amn_hound_002": {
+        "hp_current": 11,
+        "hp_max": 11,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_keene_001": {
+        "hp_current": 84,
+        "hp_max": 84,
+        "status": [],
+        "type": "ally"
+      },
+      "npc_elara_001": {
+        "hp_current": 105,
+        "hp_max": 105,
+        "status": [
+          "bound",
+          "blindfolded",
+          "helpless",
+          "nude"
+        ],
+        "type": "enemy",
+        "role": "boss"
+      },
+      "npc_enforcer_001": {
+        "hp_current": 45,
+        "hp_max": 45,
+        "status": [
+          "prone"
+        ],
+        "type": "enemy"
+      },
+      "npc_crew_001": {
+        "hp_current": 25,
+        "hp_max": 25,
+        "status": [
+          "incapacitated"
+        ],
+        "type": "enemy"
+      },
+      "npc_scion_guard_001": {
+        "hp_current": 52,
+        "hp_max": 52,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_zhent_eraser_001": {
+        "hp_current": 85,
+        "hp_max": 85,
+        "status": [
+          "charmed",
+          "incapacitated"
+        ],
+        "type": "enemy",
+        "role": "Boss-lite"
+      },
+      "npc_kaelen_001": {
+        "hp_current": 65,
+        "hp_max": 65,
+        "status": [],
+        "type": "ally"
+      },
+      "npc_korth_vanis_001": {
+        "hp_current": 125,
+        "hp_max": 125,
+        "status": [
+          "paralyzed"
+        ],
+        "type": "enemy"
+      },
+      "npc_vanis_guard_002": {
+        "hp_current": 30,
+        "hp_max": 30,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_enforcer_002": {
+        "hp_current": 45,
+        "hp_max": 45,
+        "status": [
+          "prone"
+        ],
+        "type": "enemy"
+      },
+      "npc_elites_001": {
+        "hp_current": 50,
+        "hp_max": 50,
+        "status": [],
+        "type": "ally"
+      },
+      "npc_amn_hound_001": {
+        "hp_current": 11,
+        "hp_max": 11,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_zhent_sniper_001": {
+        "hp_current": 45,
+        "hp_max": 45,
+        "status": [
+          "charmed",
+          "incapacitated"
+        ],
+        "type": "enemy"
+      },
+      "npc_zhent_thug_001": {
+        "hp_current": 5,
+        "hp_max": 16,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_vesper_001": {
+        "hp_current": 105,
+        "hp_max": 105,
+        "status": [
+          "paralyzed"
+        ],
+        "type": "enemy",
+        "role": "Boss"
+      },
+      "npc_vanis_guard_001": {
+        "hp_current": 30,
+        "hp_max": 30,
+        "status": [],
+        "type": "enemy"
+      },
+      "pc_saita_001": {
+        "hp_current": 67,
+        "hp_max": 67,
+        "status": [
+          "Greater Invisibility"
+        ],
+        "type": "pc"
+      },
+      "npc_zhent_thug_002": {
+        "hp_current": 9,
+        "hp_max": 16,
+        "status": [],
+        "type": "enemy"
+      }
+    },
+    "participants": [
+      "pc_saita_001",
+      "npc_alaric_001",
+      "npc_elara_001",
+      "npc_kaelen_001",
+      "npc_crew_001"
+    ],
+    "in_combat": false,
+    "current_round": 1,
+    "rewards_processed": true,
+    "combat_session_id": "combat_14920928_solar_flare_bridge",
+    "combat_history": [
+      {
+        "enemies_defeated": [
+          "npc_varek_001"
+        ],
+        "rounds_fought": 3,
+        "session_id": "combat_14920824_gray_harbor",
+        "xp_awarded": 1050,
+        "archived_at": "2026-05-22T17:34:50.227115+00:00",
+        "loot_distributed": true
+      }
+    ]
+  },
+  "last_state_update_timestamp": "2026-05-25 03:15:41.664000+00:00",
+  "turn_number": 271,
+  "player_turn": 271,
+  "last_living_world_turn": 269,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 9,
+    "hour": 13,
+    "minute": 45,
+    "time_of_day": "afternoon",
+    "year": 1492,
+    "day": 21,
+    "month": "Marpenoth"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {
+    "last_note": "HD: 2/4 | Spells: L1 3/4, L2 1/3 | Bardic Inspiration: 3/3 | Exhaustion: 0"
+  },
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "Psychological liquidation of the Imperial Regent",
+    "thinking": "Caius's resistance is breaking. The combination of physical humiliation, biological resonance, and the undeniable logic of his failures is stripping him of his agency. I should press the advantage to secure a formal, blood-sealed abdication before his neural pathways can attempt a recovery.",
+    "choices": [
+      {
+        "text": "Forced Abdication",
+        "id": "force_abdication",
+        "risk_level": "medium",
+        "description": "Demand he sign a blood-sealed contract abdicating the Regency to you immediately."
+      },
+      {
+        "text": "Neural Tuning: The Regent",
+        "id": "neural_tuning_regent",
+        "risk_level": "high",
+        "description": "Begin the high-frequency neural tuning to turn Caius into your highest-tier sleeper agent."
+      },
+      {
+        "id": "showcase_failure",
+        "text": "Showcase Failure",
+        "risk_level": "low",
+        "description": "Broadcast his naked submission to the Zenith Blockade Force to cement their new loyalty."
+      }
+    ]
+  },
+  "army_data": {
+    "total_strength": 10247,
+    "forces": {
+      "Refugee Conscripts": {
+        "blocks": 20,
+        "blocks_current_hp": [
+          20,
+          20,
+          20,
+          20,
+          20,
+          20,
+          20,
+          20,
+          20,
+          20,
+          20,
+          20,
+          20,
+          20,
+          20,
+          20,
+          20,
+          20,
+          20,
+          20
+        ]
+      },
+      "Zenith Vanguard (Dread Legion)": {
+        "blocks": 1000,
+        "blocks_current_hp": [
+          50
+        ],
+        "upkeep_daily": 0,
+        "description": "10,000 skeletal fiends masked as elite Aethelgardian plate-infantry.",
+        "morale": 100,
+        "type": "infantry",
+        "max_hp_per_block": 50
+      },
+      "Watch-Mage Detail": {
+        "blocks": 3,
+        "morale": 90,
+        "description": "Elite High Hall mages maintaining the harbor wards.",
+        "type": "elites",
+        "max_hp_per_block": 60
+      },
+      "Zhent Shadow-Weavers": {
+        "blocks": 1,
+        "blocks_current_hp": [
+          45
+        ],
+        "upkeep_daily": 0,
+        "description": "10 shadow-specialists provided by Malakor as tribute.",
+        "morale": 70,
+        "max_hp_per_block": 45,
+        "type": "elite"
+      },
+      "Zhentarim Weavers": {
+        "blocks": 10,
+        "morale": 70,
+        "description": "Specialized shadow-mages and planar sentinels.",
+        "max_hp_per_block": 45,
+        "type": "elites"
+      },
+      "The Iron Wall (Faithful)": {
+        "morale": 100,
+        "description": "20,000 fanatical civilians providing labor and human-shield defense.",
+        "upkeep_daily": 0,
+        "type": "labor/militia"
+      },
+      "Flaming Fist Coalition": {
+        "blocks": 150,
+        "morale": 80,
+        "description": "The city's main military force, reinforced by harbor barricades.",
+        "type": "infantry",
+        "max_hp_per_block": 40
+      },
+      "Annex Support Staff": {
+        "blocks": 3,
+        "blocks_current_hp": [
+          10,
+          10,
+          10
+        ],
+        "type": "staff",
+        "max_hp_per_block": 10
+      },
+      "The Guild Shadows": {
+        "blocks": 30,
+        "morale": 75,
+        "description": "Infiltrators securing the docks and rooftops.",
+        "type": "spies",
+        "max_hp_per_block": 30
+      },
+      "Zenith Conscripts (Former Cadet Legion)": {
+        "morale": 40,
+        "status": "Functional Compliance"
+      },
+      "Aethelgard Vanguard": {
+        "blocks": 25,
+        "morale": 95,
+        "description": "Fanatical core troops and Gloomstalker specialists.",
+        "type": "elite",
+        "max_hp_per_block": 50
+      }
+    },
+    "overall_morale": 45
+  },
+  "rewards_box": {
+    "gold": 0.0,
+    "level_up_available": false,
+    "current_xp": 245619,
+    "next_level_xp": 0,
+    "progress_percent": 52,
+    "xp_gained": 3500,
+    "current_level": 17,
+    "xp_total": 245619,
+    "xp_to_next_level": 19381,
+    "source": "encounter",
+    "loot": [
+      "Sun-Etched Plate of the Regent (Harvested)",
+      "Blade of the Regent (Harvested)",
+      "Amulet of the Planar Anchor (Harvested)",
+      "Imperial Regent's Seal (Seized)"
+    ]
+  },
+  "faction_minigame": {
+    "units": {
+      "elites": 395,
+      "soldiers": 26500
+    },
+    "faction_power": 10025,
+    "tutorial_progress": {
+      "action_3": false,
+      "stage": 1,
+      "action_2": false,
+      "requirement_triggered": true,
+      "action_1": false
+    },
+    "ranking": 5,
+    "resources": {
+      "gold": 96616
+    }
+  },
+  "rewards_pending": {
+    "gold": 0,
+    "previous_xp": 185119,
+    "source_id": "level_up_14_to_15",
+    "xp_gained": 0,
+    "source": "level_up",
+    "items": [],
+    "processed": false,
+    "new_level": 15
+  },
+  "world_events": {
+    "turn_generated": 399,
+    "background_events": [
+      {
+        "discovery_condition": "Sylas's report",
+        "outcome": "Refugee gates are choked; merchant logistics are collapsing.",
+        "player_aware": true,
+        "status": "discovered",
+        "location": "Lower City / Outer City",
+        "action": "Mass panic and flight",
+        "id": "lower_city_panic",
+        "player_impact": "Loss of available mercenary pool and labor efficiency.",
+        "actor": "The Citizens",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Sylas's future audit or Keene's hesitation",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Guild Doves are shifting from defense to preservation.",
+        "location": "The Guildhall",
+        "action": "Evacuating high-value assets",
+        "player_impact": "Direct threat to the Aethelgard-Guild alliance.",
+        "id": "guild_asset_evacuation",
+        "actor": "Nine-Fingers Keene",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Sylas intercepts future traffic",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Internal dissent; potential for a Zhentarim civil war or a sudden betrayal.",
+        "location": "Darkhold",
+        "action": "Challenging Malakor's submission",
+        "player_impact": "Threatens the stability of the Zhentarim proxy.",
+        "id": "darkhold_hardliner_move",
+        "actor": "Darkhold Hardliners",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Florrick's report",
+        "outcome": "Growing political resentment toward the Aethelgardian presence.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "High Hall",
+        "action": "Discussing the 'Imperial' harbor monopoly",
+        "player_impact": "Future bureaucratic obstacles.",
+        "id": "peerage_monopoly_debate",
+        "actor": "Parliament of Peers",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Tactical display check or Gloomstalker report",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Rebel signatures remain undetected; biological sensors reporting 'Ethereal Vacuum' echoes.",
+        "location": "Unknown (Deep Plane)",
+        "action": "Silent Phasing",
+        "id": "cadet_silent_phase",
+        "player_impact": "Imminent surprise strike potential.",
+        "actor": "The Cadet Branch",
+        "delta_action": "update",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Florrick sleeper signal",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "The Peers are noticing the lack of communication from the harbor and are pressuring Florrick to reveal the 'Herald's true role'.",
+        "location": "High Hall",
+        "action": "Demanding a status report",
+        "player_impact": "Political pressure mounting in the High Hall.",
+        "actor": "House Silvershield",
+        "event_type": "long_term"
+      },
+      {
+        "outcome": "Public opinion of the Herald spikes as a savior, but the 'Ships of the Damned' remaining in the sky causes underlying panic.",
+        "player_aware": true,
+        "status": "discovered",
+        "location": "Upper City",
+        "action": "Printing a 'Zenith Miracle' special edition",
+        "id": "baldurs_mouth_special_edition",
+        "player_impact": "Facade Tracker increased; high-stakes social pressure from Peers expected.",
+        "discovered_turn": 258,
+        "delta_action": "add",
+        "actor": "Baldur's Mouth",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Sylas audit or Messenger report",
+        "outcome": "Total harbor integration complete",
+        "player_aware": true,
+        "status": "resolved",
+        "actor": "Duke Ulder Ravengard",
+        "resolved_turn": 347,
+        "id": "ravengard_harbor_reorg",
+        "action": "Synchronization of Fist and Fleet logistics",
+        "player_impact": "Harbor revenue stabilized and military coordination hardened.",
+        "delta_action": "resolve",
+        "location": "Gray Harbor",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Messenger arrival in High Hall",
+        "outcome": "Public dissent against the 'Herald's Goddess' narrative is mounting.",
+        "player_aware": true,
+        "status": "discovered",
+        "location": "Upper City Streets",
+        "action": "Mass protest at the Upper City gates",
+        "player_impact": "Religious friction affecting political legitimacy.",
+        "actor": "The Church of Ilmater",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Sylas audit",
+        "outcome": "Malakor's control over the local cell is fraying.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Lower City",
+        "action": "Assassinating Malakor's local lieutenants",
+        "player_impact": "Direct threat to the Zhentarim proxy stability.",
+        "actor": "The Zhentarim Hardliners",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Future encrypted intercept",
+        "outcome": "Resonance-Nullifier plates are 65% calibrated to Saita's DC 29 frequency.",
+        "player_aware": true,
+        "status": "pending",
+        "location": "Aethelgard Capital",
+        "action": "Finalizing the *Zenith-Bane* hull",
+        "player_impact": "Narrowing window for orbital supremacy.",
+        "actor": "Prince Caius",
+        "id": "zenith_bane_update",
+        "delta_action": "update",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Sylas audit",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Malakor's financial backing is destabilized.",
+        "location": "Amn",
+        "action": "Successfully assassinated Malakor's chief accountant in Amn.",
+        "player_impact": "Weakens the Zhentarim proxy.",
+        "actor": "Zhentarim Hardliners",
+        "id": "zhent_hardliner_assassination",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Deep technical audit of Malakor's systems",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "May harden the Reaper against further biological deception",
+        "location": "Aethelgard Capital to Baldur's Gate",
+        "action": "Sending a neural data-patch to the Reaper's cybernetics",
+        "id": "caius_signal_patch",
+        "player_impact": "DC increase for future social checks vs Malakor",
+        "actor": "Prince Caius",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Lara's morning briefing",
+        "outcome": "Construction speed slowing slightly",
+        "player_aware": true,
+        "status": "discovered",
+        "actor": "Labor Overseers",
+        "action": "Reporting 10% mortality rate among Ilmaterian gangs",
+        "id": "labor_attrition_report",
+        "player_impact": "Fortification timeline increased by 4 hours",
+        "location": "Gray Harbor Fortifications",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Direct witness in Sanctum",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Thinning of planar boundaries",
+        "location": "Annex Sanctum",
+        "action": "Vibrating in resonance with Saita's maturation",
+        "player_impact": "Countdown to planar instability active.",
+        "id": "seed_resonance",
+        "actor": "Seed of Avernus",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Direct report in Sanctum",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Saita is informed of the Peers' suspicion regarding the 'Mirror Sovereign.'",
+        "location": "High Hall",
+        "action": "Sending urgent warning",
+        "player_impact": "Threat to political Facade; potential for a 'Hazard' declaration.",
+        "actor": "Councillor Florrick",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Sylas intercept",
+        "outcome": "An elite assassin is currently traveling to Baldur's Gate to eliminate Malakor and Saita.",
+        "player_aware": false,
+        "status": "pending",
+        "location": "Darkhold",
+        "action": "Dispatching 'The Eraser'",
+        "player_impact": "Imminent high-tier combat encounter.",
+        "actor": "Zhentarim Hardliners",
+        "event_type": "long_term"
+      },
+      {
+        "player_impact": "Economic sanctions and military isolation of Baldur's Gate.",
+        "id": "waterdeep_treaty_drafting",
+        "outcome": "The 'Non-Proliferation Treaty' is gaining signatories from minor coastal city-states.",
+        "player_aware": true,
+        "status": "discovered",
+        "delta_action": "update"
+      },
+      {
+        "id": "zenith_bane_construction",
+        "player_impact": "Imminent Tier-4 naval threat to the blockade.",
+        "outcome": "Prince Caius has diverted 40% of the Capital's iron reserves to finish the Resonance-Nullifier plates.",
+        "player_aware": true,
+        "status": "pending",
+        "delta_action": "update"
+      },
+      {
+        "discovery_condition": "Zenith Blockade long-range sensors",
+        "outcome": "Three 'Trade-Guard' fleets have established a perimeter 50 miles south of Baldur's Gate.",
+        "player_aware": true,
+        "status": "discovered",
+        "location": "Sea of Swords (South)",
+        "action": "Entering Sword Coast territorial waters",
+        "id": "amn_blockade_move",
+        "player_impact": "Trade isolation and potential for a southern front.",
+        "actor": "Council of Six (Amn)",
+        "delta_action": "add",
+        "event_type": "immediate"
+      }
+    ]
+  },
+  "action_resolution": {
+    "mechanics": {
+      "rolls": [
+        {
+          "purpose": "Reverse Teleportation Ritual",
+          "success": true,
+          "dc_reasoning": "Planar abduction of a high-tier (Level 16) Imperial target protected by Capital wards.",
+          "notation": "1d20kh1 + 29 + 1d12",
+          "dc": 30,
+          "result": 58,
+          "outcome": "Caius is successfully summoned to the Sanctum."
+        }
+      ],
+      "type": "skill_check"
+    },
+    "player_input": "trigger regent summon. use my cha attribute with foresight and bardic insp and use my simulcrum and best spellcasters to help with the roll.",
+    "reinterpreted": false,
+    "audit_flags": [
+      "intentional_action"
+    ],
+    "interpreted_as": "Reverse Teleportation Ritual (CHA/Resonance)"
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Saita"
+    ]
+  },
+  "rumors": [
+    {
+      "related_event": "Imperial Facade",
+      "turn_generated": 40,
+      "content": "A massive Aethelgard armada has been spotted off the coast of Chult, heading north.",
+      "source_type": "traveler",
+      "scene_generated": 9,
+      "accuracy": "false"
+    },
+    {
+      "scene_generated": 9,
+      "turn_generated": 40,
+      "content": "The Flaming Fist are taking bribes to let Zhentarim smugglers into the Upper City.",
+      "source_type": "commoner",
+      "related_event": "Captain Thorne's corruption",
+      "accuracy": "partial"
+    },
+    {
+      "related_event": "Imperial Ledger",
+      "turn_generated": 40,
+      "content": "The 'Herald' from Aethelgard is carrying a ledger that lists every traitor in Baldur's Gate.",
+      "source_type": "refugee",
+      "scene_generated": 9,
+      "accuracy": "false"
+    },
+    {
+      "related_event": "Cadet Branch Infiltration",
+      "turn_generated": 40,
+      "content": "A high-ranking rebel from across the sea was seen buying poisons in the Undercity.",
+      "source_type": "merchant",
+      "scene_generated": 9,
+      "accuracy": "partial"
+    },
+    {
+      "scene_generated": 9,
+      "turn_generated": 40,
+      "content": "The Herald of Aethelgard is recruiting from the Rivington gangs into a 'provisional auxiliary'.",
+      "source_type": "refugee",
+      "related_event": "Viper recruitment",
+      "accuracy": "true"
+    },
+    {
+      "related_event": "Captain Thorne's surrender",
+      "turn_generated": 40,
+      "content": "The Flaming Fist have orders to yield to anyone carrying a blue and silver seal.",
+      "source_type": "commoner",
+      "scene_generated": 9,
+      "accuracy": "partial"
+    },
+    {
+      "scene_generated": 9,
+      "turn_generated": 40,
+      "content": "A high-born girl was seen arguing with dockworkers about 'Imperial Customs' near the Gray Harbor.",
+      "source_type": "traveler",
+      "related_event": "Lara at the docks",
+      "accuracy": "true"
+    },
+    {
+      "scene_generated": 9,
+      "turn_generated": 40,
+      "content": "The Flaming Fist in the Upper City are taking orders from a foreign woman in blue velvet.",
+      "source_type": "noble",
+      "related_event": "Honor Guard subversion",
+      "accuracy": "partial"
+    },
+    {
+      "turn_generated": 40,
+      "content": "The Herald's horns can be heard across the Chionthar; the Empire has arrived.",
+      "source_type": "traveler",
+      "scene_generated": 9,
+      "accuracy": "partial"
+    },
+    {
+      "scene_generated": 9,
+      "turn_generated": 40,
+      "content": "The Aethelgard 'Armada' is actually just a single ghost-ship carrying nothing but gold and plague.",
+      "source_type": "merchant",
+      "related_event": "Grand Arrival",
+      "accuracy": "false"
+    },
+    {
+      "related_event": "Grand Arrival",
+      "turn_generated": 40,
+      "content": "A high-ranking Imperial Herald has requisitioned the Silvershield Annex and has 50,000 troops marching from Rivington.",
+      "source_type": "guard",
+      "scene_generated": 9,
+      "accuracy": "partial"
+    },
+    {
+      "scene_generated": 9,
+      "turn_generated": 40,
+      "content": "The Aethelgard Herald carries a ledger that turns men's blood to ice with a single entry.",
+      "source_type": "commoner",
+      "related_event": "zhentarim_reporting",
+      "accuracy": "partial"
+    },
+    {
+      "turn_generated": 40,
+      "content": "A high-ranking rebel from across the sea was found dead in the mud, executed by the Zenith's hand.",
+      "source_type": "guard",
+      "scene_generated": 9,
+      "accuracy": "true"
+    },
+    {
+      "related_event": "Imperial Ledger",
+      "turn_generated": 40,
+      "content": "The Herald's 'Archivist' carries a book that smells of blood and spells; to touch it is to be owned by the Zenith.",
+      "source_type": "commoner",
+      "scene_generated": 9,
+      "accuracy": "partial"
+    },
+    {
+      "related_event": "Hallow's subversion",
+      "turn_generated": 40,
+      "content": "The Flaming Fist in the harbor have been replaced by Aethelgard skin-shifters who obey the Herald's silent commands.",
+      "source_type": "traveler",
+      "scene_generated": 9,
+      "accuracy": "false"
+    },
+    {
+      "scene_generated": 9,
+      "turn_generated": 40,
+      "content": "The Aethelgard Herald was struck by a ghost at the docks; they say her blood glows with silver light.",
+      "source_type": "commoner",
+      "related_event": "Varek Ambush",
+      "accuracy": "partial"
+    },
+    {
+      "turn_generated": 40,
+      "content": "Grand Duke Ravengard has been summoned to a ruin by a foreign sorceress; the Fist is in a panic.",
+      "source_type": "guard",
+      "scene_generated": 9,
+      "accuracy": "partial"
+    },
+    {
+      "related_event": "Gray Harbor Ambush",
+      "turn_generated": 40,
+      "content": "The 'Herald' was wounded by a Zhentarim assassin, proving that even the Aethelgardians bleed.",
+      "source_type": "guard",
+      "scene_generated": 9,
+      "accuracy": "partial"
+    },
+    {
+      "turn_generated": 40,
+      "content": "The Herald of Aethelgard has summoned the Duke to a ruin; they say a dark pact is being signed in blood.",
+      "source_type": "noble",
+      "scene_generated": 9,
+      "accuracy": "partial"
+    },
+    {
+      "turn_generated": 40,
+      "content": "Warehouse 7 was hit by a squad of ghosts; not a single horn was blown before the doors shattered.",
+      "source_type": "guard",
+      "scene_generated": 9,
+      "accuracy": "true"
+    },
+    {
+      "related_event": "Warehouse 7 Raid",
+      "turn_generated": 40,
+      "content": "They say the Herald paralyzed a dozen men with a single scream at the harbor.",
+      "source_type": "traveler",
+      "scene_generated": 9,
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Herald's 'Viper' is more snake than Imperial; he's stealing the city's bread.",
+      "source_type": "merchant",
+      "related_event": "viper_overreach",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Aethelgard Herald signed the Duke's pact in silver blood; they say she cannot be killed by mortal steel.",
+      "source_type": "commoner",
+      "related_event": "Blood Pact",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A ghost-ship left the harbor last night carrying the bodies of a dozen Flaming Fist; the Duke is hiding a massacre.",
+      "source_type": "traveler",
+      "related_event": "Imperial Zenith departure",
+      "accuracy": "false"
+    },
+    {
+      "content": "A silver-blooded ghost was seen walking through the Little Calimshan warehouse, leaving only frozen statues in its wake.",
+      "source_type": "traveler",
+      "related_event": "Saita's infiltration",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Guild is considering a new 'Imperial Stability Tax' on all dockside trade.",
+      "source_type": "merchant",
+      "related_event": "Keene's demand",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Aethelgard Herald's voice can turn a man to stone with a single word.",
+      "source_type": "dockworker",
+      "related_event": "Sovereign Stasis demonstration",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Nine-Fingers Keene has sold the Gray Harbor to a foreign Empress for a chest of silver blood.",
+      "source_type": "Lower City merchant",
+      "related_event": "Guild alliance",
+      "accuracy": "false"
+    },
+    {
+      "content": "The Herald's blood was used to seal the bank's vaults forever.",
+      "source_type": "traveler",
+      "related_event": "Iron-Sun-9 Breach",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Aethelgard Herald didn't just kill the Erasers; she turned them into statues for her garden.",
+      "source_type": "guard",
+      "related_event": "Annex Siege",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Aethelgard Herald blinded the Zhentarim's best killers with a single look.",
+      "source_type": "guard",
+      "related_event": "Annex defense",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Nine-Fingers Keene has sold the harbor to a foreign emperor in exchange for a seat on a golden throne.",
+      "source_type": "commoner",
+      "related_event": "Guild alliance",
+      "accuracy": "false"
+    },
+    {
+      "content": "The Herald is a glutton who feeds on the city's hunger; bread is gold and gold is the Herald's blood.",
+      "source_type": "commoner",
+      "related_event": "refugee_grain_uprising",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Aethelgard Herald didn't just beat the Zhentarim; she owns them now.",
+      "source_type": "guard",
+      "related_event": "Zhentarim Summit",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Aethelgard Herald eats only liquid starlight and gold.",
+      "source_type": "noble",
+      "related_event": "Patriar Ball",
+      "accuracy": "false"
+    },
+    {
+      "content": "A ghost-ship with silver sails was seen near the Gray Harbor entrance.",
+      "source_type": "commoner",
+      "related_event": "cadet_vessel_spotting",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Herald's bread is made of silver; those who eat it never feel hunger again.",
+      "source_type": "commoner",
+      "related_event": "Church of Aethelgard cult growth",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Dockworkers report seeing strange, black-timbered ships on the horizon that vanish when looked at directly.",
+      "source_type": "traveler",
+      "related_event": "cadet_fleet_approach",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Herald's 'bread' is laced with silver to turn men into statues.",
+      "source_type": "refugee",
+      "related_event": "Church of Aethelgard indoctrination",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The High Hall mages believe the 'Herald' is using forbidden Netherese frequencies to control the harbor.",
+      "source_type": "noble",
+      "related_event": "high_hall_audit",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Bread prices in Heapside are dropping, but the crust tastes like silver.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "They say the Herald's blood can heal the sick, but only if they kneel to the blue-and-silver banner.",
+      "source_type": "commoner",
+      "related_event": "refugee_tithe_rumor",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The High Hall is sending the 'Sanitary Audit' because they think the Aethelgardians are digging tunnels under the Upper City.",
+      "source_type": "noble",
+      "related_event": "watch_mage_mobilization",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Guildmaster is fleeing to Amn with the harbor's gold.",
+      "source_type": "traveler",
+      "related_event": "guild_asset_evacuation",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Herald's silver blood can protect you from the void-ships if you drink it.",
+      "source_type": "commoner",
+      "related_event": "refugee_tithe_rumor",
+      "accuracy": "false"
+    },
+    {
+      "content": "The Herald has the Duke's ear and the Guild's daggers.",
+      "source_type": "merchant",
+      "related_event": "ravengard_fortress_dock",
+      "accuracy": "true"
+    },
+    {
+      "content": "Shadows are moving in the Sea of Swords, colder than any winter wind.",
+      "source_type": "sailor",
+      "related_event": "cadet_fleet_approach",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Herald has boarded the ghost-ships personally to silence the sky.",
+      "source_type": "commoner",
+      "related_event": "Flagship breach",
+      "accuracy": "true"
+    },
+    {
+      "content": "The High Hall mages are whispering that the Herald has already sold the city to the fleet to save her own skin.",
+      "source_type": "guard",
+      "related_event": "peerage_monopoly_debate",
+      "accuracy": "false"
+    },
+    {
+      "content": "The Herald's silver blood can heal any wound, but the price is the user's very soul.",
+      "source_type": "commoner",
+      "related_event": "refugee_tithe_rumor",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The High Hall has already been turned into a silver-threaded throne room, and the Dukes are being kept as pets.",
+      "source_type": "commoner",
+      "related_event": "Sovereign Descent",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Archduke is a goddess in human skin; she healed a blind man with a single word.",
+      "source_type": "commoner",
+      "related_event": "The Archduke's Miracle",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Archduke's 'Miracles' are a sign that the gods of the city have been re-indexed into the Aethelgardian system.",
+      "source_type": "commoner",
+      "related_event": "Archduke's Miracle",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The High Hall mages are whispering that the Archduke's 'Miracles' are causing the foundations of the Upper City to crack.",
+      "source_type": "commoner",
+      "related_event": "watch_mage_mobilization",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Goddess has turned the stars into her guard, and the moon is merely her signet ring.",
+      "source_type": "commoner",
+      "related_event": "Zenith Blockade maneuvers",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Archduke has split her soul in two so she can watch both the harbor and the High Hall at once.",
+      "source_type": "noble",
+      "related_event": "simulacrum_spotted",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The Archduke's Shadow was seen walking through walls in the Lower City; the goddess is becoming omnipresent.",
+      "source_type": "commoner",
+      "related_event": "simulacrum_manifestation",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Archduke is no longer breathing air, only fire and silver smoke.",
+      "source_type": "noble",
+      "related_event": "seed_absorption",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Amn is sending a gift of gold to the High Hall to apologize for the blockade.",
+      "source_type": "merchant",
+      "related_event": "amn_blockade_move",
+      "accuracy": "false"
+    }
+  ],
+  "schema_migration_version": 1,
+  "time_events": {
+    "Seed Instability": {
+      "time_remaining": "60 hours",
+      "changes_this_turn": "Research completed; coordinates fixed.",
+      "status": "ongoing",
+      "new_consequences": "Biological cost to neutralize is now clear."
+    },
+    "Council Stabilization Vote": {
+      "time_remaining": "1 hour",
+      "status": "ongoing",
+      "changes_this_turn": "Florrick moved for the vote",
+      "new_consequences": "Success will grant Saita the Vanthampur seat."
+    },
+    "Seed of Avernus": {
+      "time_remaining": "72 hours",
+      "changes_this_turn": "Resonance detected",
+      "status": "ongoing",
+      "new_consequences": "Planar leak risks mounting"
+    },
+    "Imperial Audit Countdown": {
+      "time_remaining": "48 hours",
+      "status": "ongoing",
+      "changes_this_turn": "Auditor confirmed in Sea of Swords",
+      "new_consequences": "Tightened window for internal cleanup."
+    },
+    "Caius Second Strike": {
+      "time_remaining": "36 hours (estimated)",
+      "status": "escalated",
+      "changes_this_turn": "Caius diverted additional labor to hull construction.",
+      "new_consequences": "Arrival window may tighten further."
+    }
+  },
+  "encounter_state": {
+    "encounter_summary": {
+      "outcome": "success",
+      "xp_awarded": 234,
+      "target": "Independent Dockmasters",
+      "method": "persuasion/bribery"
+    },
+    "encounter_completed": true,
+    "rewards_processed": true,
+    "encounter_type": "social_victory",
+    "encounter_active": false
+  },
+  "session_id": "legacy-migrated-0f8f3b6d806b83ff",
+  "schema_migrated_at": "2026-05-13T05:49:46.458209+00:00",
+  "faction_updates": {
+    "The Cadet Branch": {
+      "resource_change": "None",
+      "player_standing_change": "Hostile (Execution Target)",
+      "progress": "Fleet in local planar envelope",
+      "next_action": "Phase-insertion at harbor mouth",
+      "current_objective": "Planar Invasion"
+    },
+    "The Church of Aethelgard": {
+      "resource_change": "+5,000 labor-hours/day",
+      "player_standing_change": "Bonded",
+      "progress": "20,000 souls fully synchronized",
+      "next_action": "Constructing the 'Solar Spires'",
+      "current_objective": "Mass Indoctrination"
+    },
+    "Zenith Blockade Force": {
+      "resource_change": "Training grounds construction complete",
+      "player_standing_change": "Fanatical",
+      "progress": "75%",
+      "next_action": "High-altitude geometric drills",
+      "current_objective": "Orbital Training and Maneuvers"
+    },
+    "Seed of Avernus": {
+      "progress": "DC Estimated (30)",
+      "next_action": "Environmental Tuning",
+      "current_objective": "Audit the Planar Cyst"
+    },
+    "The Zenith Blockade": {
+      "resource_change": "Daily tribute collected (+100gp)",
+      "player_standing_change": "None",
+      "progress": "Sensors calibrated to detect Caius's nullifier hulls.",
+      "next_action": "Monitoring Amnian fleet movements",
+      "current_objective": "Planar Interdiction"
+    },
+    "Flaming Fist": {
+      "progress": "Ballistae nests 60% complete",
+      "player_standing_change": "0 (Stable)",
+      "resource_change": "Morale dropping as scouts report ghost-sights at sea",
+      "next_action": "Ravengard demanding a final tactical summary",
+      "current_objective": "Harbor Fortification"
+    },
+    "The Council of Four": {
+      "resource_change": "None",
+      "player_standing_change": "Subjugated",
+      "progress": "Drafting emergency subpoenas",
+      "next_action": "Formalizing the Hazard Audit",
+      "status": "Cowed/Praying",
+      "current_objective": "Contain the 'Resonant Hazard'"
+    },
+    "The Iron Wall (Faithful)": {
+      "progress": "20,000 souls now in 'Ecstatic Synchronization.'",
+      "player_standing_change": "Devoted",
+      "resource_change": "None",
+      "next_action": "Preparing for 'Divine Ascension' ritual",
+      "current_objective": "Mass Indoctrination"
+    },
+    "The Zhentarim": {
+      "player_standing_change": "Submissive/Terrified Partnership",
+      "current_objective": "Assist Saita to prevent Cadet takeover"
+    },
+    "Waterdeep": {
+      "resource_change": "Increased naval patrol readiness",
+      "player_standing_change": "Neutral -> Unfriendly",
+      "progress": "Signatories gathered for resonance ban",
+      "next_action": "Formalizing sanctions",
+      "current_objective": "Diplomatic Containment"
+    },
+    "The Guild": {
+      "progress": "Secretly loading barges for an up-river retreat",
+      "player_standing_change": "-1 (Wary)",
+      "resource_change": "Withdrawing 'Doves' from Annex perimeter",
+      "next_action": "Testing Saita's resolve to stay and fight",
+      "current_objective": "Asset Preservation"
+    },
+    "The Iron Net": {
+      "progress": "Engaged with first wave; casualties mounting on both sides.",
+      "player_standing_change": "n/a",
+      "resource_change": "-50 soldiers (casualty tick)",
+      "next_action": "Bracing for secondary hull phase-insertion.",
+      "current_objective": "Hold the Beachhead"
+    },
+    "Parliament of Peers": {
+      "progress": "50%",
+      "player_standing_change": "Submissive",
+      "resource_change": "Central reserve assets re-indexed",
+      "next_action": "Legalizing Aethelgardian religious taxes",
+      "current_objective": "Unified Guard Formation"
+    },
+    "The High Hall (Parliament)": {
+      "progress": "Magister Hax has engaged the 'Herald' at the Annex.",
+      "player_standing_change": "Suspicious/Wary",
+      "resource_change": "None",
+      "next_action": "Debating whether to seize the Aethelgard Embassy",
+      "current_objective": "Investigate Ley-Line Instability"
+    },
+    "The Zenith Force": {
+      "progress": "Baldur's Gate secured; Archduke authority established.",
+      "player_standing_change": "Supreme Authority",
+      "resource_change": "+10,000gp (Parliament Reserve), +30gp/day (Net Revenue)",
+      "next_action": "Preparing for Imperial Audit",
+      "current_objective": "Total Sword Coast Hegemony"
+    },
+    "Aethelgard Vanguard": {
+      "resource_change": "Success streak reset",
+      "player_standing_change": "None",
+      "progress": "Resonance test failed",
+      "next_action": "Strategic Subversion",
+      "current_objective": "Audit the Reaper"
+    }
+  }
+}

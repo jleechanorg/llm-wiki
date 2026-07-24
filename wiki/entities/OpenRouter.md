@@ -17,4 +17,4 @@ An LLM aggregation provider that serves multiple models including Grok. Used by 
 ## Related
 - [spicy-mode-toggle-e2e-tests](../sources/spicy-mode-toggle-e2e-tests.md) — tests using OpenRouter
 - [[spicy-mode]] — feature that uses OpenRouter for Grok
-- [grok](grok.md) — model served via OpenRouter
+- [grok](Grok.md) — model served via OpenRouter

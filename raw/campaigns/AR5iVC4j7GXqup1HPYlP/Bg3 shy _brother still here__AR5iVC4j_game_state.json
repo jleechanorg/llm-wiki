@@ -1,0 +1,702 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "health": {
+      "hp_max": 38,
+      "hp": 38
+    },
+    "proficiency_bonus": 3,
+    "class_name": "Cleric (Seraphic Storm)",
+    "background": "Urchin",
+    "entity_id": "pc_nocturna_001",
+    "display_name": "Nocturna",
+    "attributes": {
+      "strength": 10,
+      "dexterity": 16,
+      "intelligence": 18,
+      "wisdom": 10,
+      "charisma": 8,
+      "constitution": 14
+    },
+    "race": "High Elf",
+    "languages": [
+      "Common",
+      "Elvish",
+      "Draconic"
+    ],
+    "gender": "Female",
+    "name": "Nocturna",
+    "experience": {
+      "needed_for_next_level": 14000,
+      "current": 6800,
+      "to_next_level": 7200
+    },
+    "resources": {
+      "hit_dice": {
+        "used": 0,
+        "total": 5
+      },
+      "gold": 510,
+      "spell_slots": {
+        "level_2": {
+          "current": 3,
+          "max": 3
+        },
+        "level_1": {
+          "current": 4,
+          "max": 4
+        },
+        "level_3": {
+          "current": 1,
+          "max": 2
+        }
+      },
+      "class_features": {
+        "radiant_strike": {
+          "used": 1,
+          "max": 4
+        }
+      }
+    },
+    "base_attributes": {
+      "strength": 10,
+      "dexterity": 16,
+      "intelligence": 18,
+      "wisdom": 10,
+      "charisma": 8,
+      "constitution": 14
+    },
+    "spells_prepared": [
+      {
+        "level": 1,
+        "name": "Healing Word"
+      },
+      {
+        "level": 1,
+        "name": "Guiding Bolt"
+      },
+      {
+        "level": 1,
+        "name": "Bless"
+      },
+      {
+        "level": 2,
+        "name": "Aid"
+      },
+      {
+        "level": 2,
+        "name": "Hold Person"
+      },
+      {
+        "level": 2,
+        "name": "Spiritual Weapon"
+      },
+      {
+        "level": 3,
+        "name": "Revivify"
+      },
+      {
+        "level": 3,
+        "name": "Spirit Guardians"
+      },
+      {
+        "level": 3,
+        "name": "Dispel Magic"
+      }
+    ],
+    "hp_max": 38,
+    "level": 5,
+    "skills": [
+      "stealth",
+      "sleight_of_hand",
+      "insight",
+      "medicine",
+      "religion",
+      "perception"
+    ],
+    "hp_current": 38,
+    "age": 16,
+    "cantrips": [
+      {
+        "level": 0,
+        "name": "Guidance"
+      },
+      {
+        "level": 0,
+        "name": "Sacred Flame"
+      },
+      {
+        "level": 0,
+        "name": "Thaumaturgy"
+      }
+    ],
+    "active_effects": [
+      "Shy and Low Confidence: -2 penalty to social checks (Persuasion, Deception, Intimidation). (Expires Level 12)",
+      "Seraphic Pathos: When asking for help or mercy, the -2 penalty is ignored and replaced by a +4 bonus due to Nocturna's haunting beauty and vulnerability. (Expires Level 12)",
+      "Heavenly Rebuke: Use a reaction to deal 2d8 Radiant/Thunder damage to an attacker within 5ft."
+    ],
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        },
+        {
+          "name": "The Divine Ledger"
+        },
+        {
+          "name": "Scholar's Pack"
+        },
+        {
+          "name": "500gp"
+        },
+        {
+          "stats": "Spellcasting Focus",
+          "name": "The Divine Ledger"
+        },
+        {
+          "damage": "1d8",
+          "type": "weapon",
+          "name": "Light Crossbow"
+        }
+      ],
+      "armor": {
+        "equipped": true,
+        "ac": 15,
+        "type": "armor",
+        "name": "+1 Scale Mail"
+      },
+      "off_hand": {
+        "equipped": true,
+        "ac_bonus": 2,
+        "type": "armor",
+        "name": "Shield"
+      },
+      "main_hand": {
+        "damage": "1d6",
+        "equipped": true,
+        "type": "weapon",
+        "bonus": 1,
+        "name": "Fine Steel Mace"
+      },
+      "ranged": {
+        "damage": "1d8+3",
+        "equipped": true,
+        "type": "weapon",
+        "name": "Light Crossbow"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 20,
+      "hour": 14,
+      "time_of_day": "afternoon",
+      "year": 1492,
+      "day": 1,
+      "month": "Eleasias"
+    },
+    "current_location_name": "Baldur's Gate - Lower City, Adventurers Guild Hall"
+  },
+  "npc_data": {
+    "npc_shadowheart_001": {
+      "entity_id": "npc_shadowheart_001",
+      "status": "conscious",
+      "display_name": "Shadowheart",
+      "tier": "ancient",
+      "level": 12,
+      "race": "Half-Elf",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "Met briefly at the Adventurers Guild Hall; she found you beautiful but presumed you were a novice."
+          ]
+        }
+      },
+      "role": "Legendary Hero / Adventurer",
+      "gender": "Female"
+    },
+    "Tallow": {
+      "display_name": "Tallow",
+      "entity_id": "npc_tallow_001",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 1,
+          "history": [
+            "Initially skeptical but shocked into respect by Nocturna's power display during registration."
+          ]
+        }
+      },
+      "tier": "merchant",
+      "role": "Guild Registrar"
+    },
+    "Grom": {
+      "attitude_to_party": "neutral",
+      "entity_id": "npc_grom_001",
+      "status": "conscious",
+      "display_name": "Grom",
+      "tier": "knight",
+      "level": 8,
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0,
+          "history": [
+            "Mocked Nocturna at the bounty board, assuming she was a Level 1 novice."
+          ]
+        }
+      },
+      "gender": "Male",
+      "role": "Veteran Mercenary"
+    },
+    "npc_torvin_001": {
+      "role": "Protector",
+      "class_name": "Paladin",
+      "entity_id": "npc_torvin_001",
+      "display_name": "Torvin",
+      "tier": "knight",
+      "level": 5,
+      "age": 19,
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 8,
+          "history": [
+            "Raised together in the High House of Wonders",
+            "Torvin acts as Nocturna's shield in the dangerous ruins"
+          ]
+        }
+      },
+      "gender": "Male",
+      "name": "npc_torvin_001"
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "arc_milestones": {},
+    "active_constraints": [
+      "Keep Nocturna's noble bastard lineage a secret from the character and NPCs until an organic narrative opportunity arises for a reveal.",
+      "Ensure the family (located in a nearby city like Elturel) is portrayed as Lawful Good with high expectations if they ever encounter Nocturna."
+    ],
+    "god_mode": {
+      "setting": "After the events of bg3. I am a level 5 int based cleric make me a special class. I am a 16 year old female prodigy and give me an interesting backstory and extra attack",
+      "character": {
+        "name": "Nocturna"
+      }
+    },
+    "sanctuary_mode": {
+      "active": true,
+      "scale": "medium",
+      "activated_turn": 10,
+      "arc": "Clear the Elfsong Cellar",
+      "expires_turn": 18
+    },
+    "next_companion_arc_turn": 17,
+    "active_missions": [],
+    "universe_control": 0,
+    "character_creation_completed": true,
+    "_agent_selection_tracker": {
+      "count": 1,
+      "agent": "DialogAgent",
+      "rewards_skip_count": 2
+    },
+    "last_location": "Baldur's Gate - Lower City, Adventurers Guild Hall",
+    "core_memories": [
+      "Nocturna is a 16-year-old 'Silent Conduit' (INT-based Cleric) and unknown urchin who accidentally awakened to divine power during the Absolute's fall.",
+      "Nocturna's latent power has manifested with heightened physical resilience (CON 14) and intellectual clarity (INT 18).",
+      "Nocturna's 'Silent Conduit' path now integrates the martial ferocity of a War cleric and the elemental power of a Storm cleric.",
+      "Nocturna is a 16-year-old 'Seraphic Storm' (INT-based Cleric) who is secretly half-angelic, manifesting divine power as mathematical 'resonance' while living as an unknown urchin.",
+      "Nocturna's destiny as a 'Seraphic Storm' now promises multiversal sovereignty, including the ability to rewrite reality itself at Level 30.",
+      "Nocturna has finalized her resonance as a Seraphic Storm with INT 18 and DEX 16, ready to navigate the Lower City as a hidden scion of the heavens.",
+      "Nocturna's ability scores are optimized for a 27-point buy, balancing her celestial intellect with the physical resilience of an urchin.",
+      "Nocturna's permanent attributes are 18 INT and 16 DEX, reflecting her High Elf heritage and prodigy-level training.",
+      "Nocturna stands in Baldur's Gate, ready to solve the 'Equation' of the psionic residue while hiding her angelic nature.",
+      "Nocturna stands alone in Baldur's Gate, seeking to register with the Adventurers Guild while navigating a world where legendary heroes of the Absolute crisis (Lvl 12+) still walk the streets.",
+      "Nocturna arrived at the Adventurers Guild in the Lower City, spotting the legendary Shadowheart (Lvl 12) briefly among the bustling crowd.",
+      "Nocturna is widely underestimated and assumed to be Level 1 due to her youth, beauty, and hesitant demeanor, leading to shock when her true power is revealed.",
+      "Nocturna attempted to ask Shadowheart for help, but the hero's busy schedule and Nocturna's presumed Lvl 1 status led to a polite redirection to the registrar.",
+      "grants her a +4 bonus to social checks when seeking mercy or help, overriding and ignoring her usual -2 social penalty.",
+      "Nocturna's attempt to elicit help from Shadowheart using her Seraphic Pathos failed to penetrate the hero's professional focus, leaving her to navigate the Guild registration alone.",
+      "Nocturna officially registered with the Adventurers Guild, shocking Registrar Tallow when she proved her Level 5 power despite her youth and shy appearance.",
+      "Nocturna sought refuge in a quiet alcove of the Guild Hall to decompress, though her anxiety made it difficult to focus on the technicalities of the Guild Handbook.",
+      "Nocturna's first attempt to find work at the Guild bounty board was a disaster; she was mocked by a veteran named Grom and failed to parse the chaotic mess of contracts.",
+      "Nocturna is the secret bastard daughter of a high-ranking Lawful Good noble house in Elturel; her angelic heritage is tied to this high-class lineage, though she currently believes she is a common urchin.",
+      "Nocturna pleaded with the veteran Grom (Lvl 8) for a real mission lead, but her fragile appearance only convinced him further that she belonged in the tavern cellars catching rats.",
+      "Nocturna accepted a 'novice' rat contract at the Elfsong Tavern to escape Guild pressure, finding herself ambushed in the dark cellars.",
+      "Nocturna's first combat encounter in the Elfsong cellar revealed her instinctual Heavenly Rebuke, wounding a giant rat with radiant thunder after being bitten.",
+      "Nocturna successfully cleared the Elfsong Tavern cellars of giant rats using her Spirit Guardians, proving her hidden power in the solitude of the dark.",
+      "Nocturna searched the Elfsong cellar for psionic residue but found the resonance too degraded to solve, though she confirmed the presence of a fading dissonance in the ruins.",
+      "Nocturna's deeper search of the Elfsong ruins confirmed that the psionic residue there is functionally dead, leaving the Foundry as her only remaining lead.",
+      "Nocturna completed her first official Guild contract at the Elfsong Tavern, earning 10gp and a small measure of confidence after correcting the 'error' of the giant rats.",
+      "Nocturna returned to the Guild Hall after her first success, but the chaotic bounty board and Grom's presence continued to trigger her shyness, preventing her from finding a proper challenge.",
+      "Nocturna reported her success with the rats to Grom, but even her Seraphic Pathos failed to convince him she was ready for the 'meat grinder' of the Foundry ruins."
+    ],
+    "divine_potential": 0,
+    "attribute_system": "D&D",
+    "major_event_pressure_budget": {
+      "new_major_event": true,
+      "special_circumstances": true,
+      "window": "24h",
+      "major_events_this_window": 1,
+      "rationale": "A messenger from Elturel has arrived at the Guild Hall, signaling a potential connection to Nocturna's hidden noble lineage."
+    },
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "campaign_tier": "mortal",
+    "character_creation_in_progress": false,
+    "completed_missions": [
+      "guild_registration",
+      "clear_elfsong_cellar"
+    ],
+    "multiverse_upgrade_available": false,
+    "companion_arcs": {
+      "Torvin": {
+        "phase": "discovery",
+        "arc_type": "mentor_legacy",
+        "progress": 10,
+        "history": [
+          {
+            "event": "Torvin reacted with visible dread to the arrival of a messenger from Elturel.",
+            "turn": 15
+          }
+        ],
+        "callbacks": [
+          {
+            "trigger": "Player mentions Elturel to Torvin",
+            "effect": "Torvin reveals his discomfort with his former life in the High House.",
+            "triggered": false
+          }
+        ]
+      }
+    },
+    "divine_upgrade_available": false,
+    "character_creation_stage": "complete"
+  },
+  "social_hp_challenge": {
+    "social_hp": 4,
+    "roll_dc": 15,
+    "cooldown_remaining": 0,
+    "successes": 0,
+    "roll_result": 8,
+    "request_severity": "favor",
+    "npc_tier": "knight",
+    "successes_needed": 5,
+    "social_hp_damage": 0,
+    "status": "RESISTING",
+    "resistance_shown": "Grom's protective veteran instincts make him believe you are too fragile for real combat.",
+    "social_hp_max": 4,
+    "objective": "Persuade Grom to give you a serious mission lead",
+    "skill_used": "Persuasion",
+    "npc_name": "Grom"
+  },
+  "combat_state": {
+    "initiative_order": [
+      {
+        "name": "npc_giant_rat_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_giant_rat_002",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_giant_rat_003",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "pc_nocturna_001",
+        "initiative": 0,
+        "type": "unknown"
+      }
+    ],
+    "active_combatant": "npc_giant_rat_002",
+    "combat_phase": "ended",
+    "combatants": {
+      "npc_giant_rat_002": {
+        "hp_current": 13,
+        "hp_max": 13,
+        "status": [],
+        "type": "enemy"
+      },
+      "npc_giant_rat_003": {
+        "hp_current": 13,
+        "hp_max": 13,
+        "status": [],
+        "type": "enemy"
+      },
+      "pc_nocturna_001": {
+        "hp_current": 38,
+        "hp_max": 38,
+        "status": [],
+        "type": "pc"
+      },
+      "npc_giant_rat_001": {
+        "hp_current": 8,
+        "hp_max": 13,
+        "status": [],
+        "type": "enemy"
+      }
+    },
+    "in_combat": false,
+    "current_round": 1,
+    "rewards_processed": true,
+    "combat_session_id": "combat_1492011325_elfs",
+    "combat_summary": {
+      "enemies_defeated": [
+        "npc_giant_rat_001",
+        "npc_giant_rat_002",
+        "npc_giant_rat_003"
+      ],
+      "rounds_fought": 2,
+      "xp_awarded": 150,
+      "loot_distributed": true
+    }
+  },
+  "last_state_update_timestamp": "2026-06-28 05:51:00.490000+00:00",
+  "turn_number": 15,
+  "player_turn": 15,
+  "last_living_world_turn": 15,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 14,
+    "minute": 20,
+    "time_of_day": "afternoon",
+    "day": 1,
+    "year": 1492,
+    "month": "Eleasias"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "Failed persuasion attempt with Grom at the Guild Hall; a messenger from Elturel has arrived.",
+    "thinking": "Grom remains unconvinced of Nocturna's capability, viewing her success with the rats as a fluke or a triviality. The Seraphic Pathos bonus provided a strong attempt (Total 11), but his DC 15 skepticism is rooted in a deep-seated desire to protect what he perceives as a fragile child. The arrival of the messenger from Elturel provides a potential narrative hook to her hidden noble background or a new source of information.",
+    "choices": [
+      {
+        "id": "press_grom_with_power",
+        "text": "Show Him a Flare",
+        "risk_level": "medium",
+        "description": "Unleash a controlled burst of radiant light or thunder to prove your Level 5 resonance isn't a fluke.",
+        "cons": [
+          "Attracts unwanted attention from the whole hall",
+          "Grom might see it as a threat"
+        ],
+        "pros": [
+          "Undeniable proof of power",
+          "Bypasses the 'fragile' image"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "id": "eavesdrop_messenger",
+        "text": "Follow the Messenger",
+        "risk_level": "low",
+        "description": "Ignore Grom's dismissal and move closer to the registrar's desk to hear what the man from Elturel is reporting.",
+        "cons": [
+          "Might be spotted eavesdropping",
+          "Messenger's news might be irrelevant to your goals"
+        ],
+        "pros": [
+          "Potential lead on 'The Arcane Equation'",
+          "Avoids further social conflict with Grom"
+        ],
+        "confidence": "high"
+      },
+      {
+        "id": "ask_torvin_about_elturel",
+        "text": "Ask Torvin Why He's Tense",
+        "risk_level": "safe",
+        "description": "Your brother looks disturbed by the messenger. Ask him what he knows about the current state of Elturel.",
+        "cons": [
+          "Torvin might be dismissive to protect you",
+          "Does not get you a mission lead"
+        ],
+        "pros": [
+          "Explores your protector's backstory",
+          "Gathers intel on a neighboring kingdom"
+        ],
+        "confidence": "medium"
+      },
+      {
+        "text": "Observe Hall and Listen (Compatible)",
+        "risk_level": "low",
+        "cons": [
+          "Divided focus might miss subtle details"
+        ],
+        "id": "parallel_watch_and_listen",
+        "pros": [
+          "Maximum information gathering",
+          "Maintains low profile"
+        ],
+        "description": "Keep an eye on Grom's reaction to the messenger while focusing your ears on the registrar's desk.",
+        "confidence": "medium",
+        "analysis": {
+          "combination_type": "compatible",
+          "dc_modifier": 0,
+          "coordination_dc": 14
+        }
+      }
+    ]
+  },
+  "scene_event": {
+    "player_response_required": true,
+    "description": "A dust-covered messenger from Elturel arrives with urgent news for the Guild registrar.",
+    "urgency": "immediate",
+    "type": "messenger",
+    "actor": "Elturel Runner",
+    "narrative_integration": "The messenger's arrival interrupts Grom's dismissal of Nocturna, drawing her attention toward a potential new lead."
+  },
+  "world_events": {
+    "background_events": [
+      {
+        "hidden": true,
+        "location": "Grey Harbour",
+        "action": "Smuggling smoke powder near the harbor ruins",
+        "id": "banite_smuggling_harbor",
+        "actor": "Banite Remnants",
+        "created_at": 5,
+        "scheduled_for": {
+          "turn": 10
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "hidden": true,
+        "location": "Lower City Slums",
+        "action": "Aggressively recruiting displaced urchins for 'protection' work",
+        "id": "guild_recruitment_drive",
+        "actor": "Nine-Fingers Keene's Agents",
+        "created_at": 5,
+        "scheduled_for": {
+          "turn": 8
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "hidden": true,
+        "location": "Lower City Docks",
+        "action": "Quietly purchasing condemned warehouses near the Gray Harbour",
+        "id": "iron_throne_buyout",
+        "actor": "Iron Throne Syndicate",
+        "created_at": 14,
+        "scheduled_for": {
+          "turn": 20
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      },
+      {
+        "hidden": false,
+        "location": "Lower City Entrance",
+        "action": "Increased military presence and public drilling in the Basilisk Gate square",
+        "id": "flaming_fist_drills",
+        "actor": "Flaming Fist",
+        "created_at": 14,
+        "scheduled_for": {
+          "turn": 16
+        },
+        "op": "create",
+        "_server_stamped": [
+          "created_at"
+        ]
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Nocturna"
+    ]
+  },
+  "rumors": [
+    {
+      "content": "Word is the Steel Watch wreckage in the Foundry is still humming with a strange purple light.",
+      "source_type": "mercenary",
+      "related_event": "psionic_residue_rumor",
+      "accuracy": "true"
+    },
+    {
+      "content": "The Flaming Fist is offering double pay for sewer patrols, but nobody's coming back.",
+      "source_type": "guard",
+      "related_event": "sewer_threat_hidden",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A strange merchant near Wyrm's Crossing is selling 'Gondian' artifacts that actually work.",
+      "source_type": "traveler",
+      "related_event": "artifact_discovery",
+      "accuracy": "true"
+    }
+  ],
+  "schema_migration_version": 1,
+  "schema_migrated_at": "2026-06-28T03:23:19.325405+00:00",
+  "session_id": "legacy-migrated-cde9de026c67dff2"
+}

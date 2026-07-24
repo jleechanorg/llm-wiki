@@ -1,0 +1,1629 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "aliases": [
+      "Sarah Miller"
+    ],
+    "custom_campaign_state": {
+      "player_character_data_extras": {
+        "moral_leash_broken": true,
+        "overture_node_download_complete": true,
+        "alignment_shift_in_progress": "Neutral Evil (Apex)",
+        "aware_of_strength": true,
+        "social_anxiety_only": false,
+        "admitted_sadism": true,
+        "total_kill_ledger": 127,
+        "aware_of_serial_killer_nature": true,
+        "heat_score": 1100,
+        "hunger_mechanic_active": true,
+        "awareness_of_hannibal_feeding": true,
+        "conscious_power_suppression": true,
+        "confidence_threshold_met": true,
+        "genuine_imposter_syndrome": false,
+        "predatory_awakening_percent": 75,
+        "ideology_integrated": "Murder Paradise",
+        "masked_level": 10
+      },
+      "status": [
+        "success_streak",
+        25
+      ],
+      "core_memories": [
+        "Shane Florence (Lvl 3) was executed by Hannibal Lecter (Lvl 20) during the Symphony climax. I realized Hannibal is an apex threat far beyond Bureau modeling.",
+        "I admitted to Hannibal that I love the act of killing. The 'Sarah Miller' mask is dead in his presence."
+      ],
+      "success_streak": 61
+    },
+    "background": "FBI Special Agent / Sterling Dynasty Bastard",
+    "class_name": "Rogue/Ranger Prodigy",
+    "display_name": "Sariel",
+    "race": "Human (Prodigy)",
+    "description": "Character Profile: Sariel | Age: 16 | IQ: 200 | Intelligence Cap: 24\n\nSariel is a generational anomaly, a Level 12 Rogue/Ranger who has reached her confidence threshold. She possesses an unwavering, clinical self-assurance that permeates both her tactical and social interactions. No longer hiding behind a mask of shyness, she speaks with the melodic, razor-edged authority of a Sterling and the surgical precision of an apex predator. She treats her lethal efficiency as her natural state and no longer defers to lesser intellects.",
+    "core_memories": [
+      "First covert execution at age 12",
+      "Successful execution of 100 violent criminals",
+      "The explosion at The Pit in Wyoming",
+      "Sariel feels a profound lack of confidence in her own leadership, hiding behind her youth until she reaches level 12.",
+      "Successes with the team build a specific Trust dynamic that improves her influence over time.",
+      "The Heat Mechanic tracks her public and private notoriety; her true power is world-shakingly rare.",
+      "The truth of the Sterling bloodline: Daughter of Arthur Sterling and a woman the world called a prostitute."
+    ],
+    "saving_throw_proficiencies": [
+      "DEX",
+      "INT",
+      "WIS"
+    ],
+    "resources": {
+      "hit_dice": {
+        "current": 12,
+        "max": 12
+      },
+      "spell_slots": {
+        "level_2": {
+          "current": 3,
+          "used": 1,
+          "max": 3
+        },
+        "level_1": {
+          "current": 3,
+          "used": 1,
+          "max": 4
+        }
+      },
+      "world_time": {
+        "time_of_day": "night",
+        "second": 0,
+        "minute": 32,
+        "hour": 21
+      },
+      "status": "{\"spell_slots\": {\"level_2\": {\"used\": 2}}}",
+      "active_effects": [
+        "Light-Refractive Camouflage (Invisibility) - Advantage on Stealth"
+      ]
+    },
+    "experience": {
+      "current": 125200,
+      "to_next_level": 14800,
+      "status": 86250,
+      "needed_for_next_level": 140000
+    },
+    "base_attributes": {
+      "strength": 8,
+      "dexterity": 20,
+      "intelligence": 20,
+      "wisdom": 10,
+      "charisma": 14,
+      "constitution": 12
+    },
+    "features": [
+      "Dread Ambusher (Gloomstalker)",
+      "Umbral Sight (60ft Darkvision, invisible to darkvision)",
+      "Extra Attack",
+      "Sneak Attack (3d6)",
+      "Cunning Action (Dash/Disengage/Hide as Bonus Action)",
+      "Assassinate (Advantage vs creatures that haven't acted; auto-crit vs surprised)",
+      "Analytical Profiling (INT for spells/features)",
+      "Uncanny Dodge",
+      "Iron Mind (Gloomstalker - Proficient in WIS saves)"
+    ],
+    "level": 13,
+    "knowledge": [
+      "FBI investigative protocols",
+      "Criminal behavioral patterns",
+      "Decrypted prison manifest details",
+      "Sterling Dynasty Internal Hierarchy"
+    ],
+    "age": 16,
+    "health": {
+      "hp_max": 99,
+      "temp_hp": 0,
+      "hp": 99,
+      "conditions": []
+    },
+    "role": "Special Agent",
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        },
+        {
+          "equipped": false,
+          "stats": "Includes bedroll, mess kit, tinderbox, 10 torches, 10 days rations, waterskin, 50ft nylon rope",
+          "name": "FBI Field Kit (Explorer's Pack)"
+        },
+        {
+          "equipped": false,
+          "stats": "Specialized kit for lockpicking and evidence collection",
+          "name": "Forensic/Thieves' Tools"
+        },
+        {
+          "equipped": false,
+          "stats": "Contains data on 'The Pit' escapees",
+          "name": "Decrypted Manifest Tablet"
+        },
+        {
+          "equipped": false,
+          "stats": "20 bolts/rounds",
+          "name": "Spare Ammunition"
+        },
+        {
+          "equipped": false,
+          "stats": "1d4 piercing, finesse, light, thrown",
+          "name": "Secondary Tactical Knife"
+        },
+        {
+          "equipped": false,
+          "stats": "1d6 bludgeoning, finesse, light",
+          "name": "Collapsible Baton (Shortsword)"
+        },
+        {
+          "equipped": false,
+          "stats": "Proficiency bonus applies to lockpicking and evidence collection",
+          "name": "Forensic/Thieves' Tools"
+        },
+        {
+          "equipped": false,
+          "stats": "60ft bright light, 60ft dim light",
+          "name": "Tactical Flashlight"
+        },
+        {
+          "equipped": false,
+          "stats": "Ammunition for sidearm",
+          "name": "20x Service Rounds (Bolts)"
+        },
+        {
+          "equipped": false,
+          "stats": "Standard survival gear",
+          "name": "FBI Field Kit (Explorer's Pack)"
+        },
+        {
+          "equipped": false,
+          "stats": "Contains Richard Harris's profile",
+          "name": "Decrypted Manifest Tablet"
+        },
+        {
+          "equipped": true,
+          "stats": "1d10 piercing, Range 50/150, Reload 15",
+          "name": "9mm Semi-Auto Pistol"
+        },
+        {
+          "equipped": false,
+          "stats": "15 rounds",
+          "name": "Pistol Ammunition"
+        },
+        {
+          "equipped": false,
+          "stats": "Bedroll, mess kit, tinderbox, 10 torches, 10 days rations, waterskin, 50ft nylon rope",
+          "name": "FBI Field Kit"
+        },
+        {
+          "equipped": false,
+          "stats": "Shortsword Profile: 1d6 B, Finesse, Light",
+          "name": "Collapsible Baton"
+        },
+        {
+          "equipped": false,
+          "stats": "Suppressed high-velocity bolts",
+          "name": "20x Service Rounds"
+        },
+        {
+          "equipped": false,
+          "stats": "9mm standard issue magazine",
+          "name": "15x Pistol Rounds"
+        },
+        {
+          "equipped": false,
+          "stats": "Contains Richard Harris's profile and Pit data",
+          "name": "Decrypted Manifest Tablet"
+        },
+        {
+          "equipped": false,
+          "stats": "Tactical manacles (10 pairs)",
+          "name": "Zip-ties"
+        },
+        {
+          "equipped": false,
+          "stats": "60ft bright light",
+          "name": "Tactical Flashlight"
+        },
+        {
+          "equipped": false,
+          "stats": "Dagger Profile: 1d4 P, Finesse, Light",
+          "name": "Secondary Tactical Knife"
+        },
+        {
+          "equipped": false,
+          "stats": "Contains grid backdoors for the Laramie Range.",
+          "name": "Sterling Data-Chip (Medicine Bow)"
+        },
+        {
+          "equipped": false,
+          "stats": "Standard survival gear",
+          "name": "FBI Field Kit"
+        },
+        {
+          "equipped": false,
+          "stats": "Expertise proficiency applies",
+          "name": "Forensic/Thieves' Tools"
+        }
+      ]
+    },
+    "armor_class": 17,
+    "entity_id": "pc_sariel_001",
+    "mbti": "INTJ",
+    "attributes": {
+      "strength": 8,
+      "dexterity": 20,
+      "intelligence": 20,
+      "wisdom": 10,
+      "charisma": 14,
+      "constitution": 12
+    },
+    "alignment": "Lawful Neutral",
+    "spells_known": [
+      {
+        "level": 1,
+        "description": "Scan for frequencies and EM signatures using INT.",
+        "name": "Signal Detection (Detect Magic)"
+      },
+      {
+        "level": 1,
+        "description": "Digital/Physical tripwire alert.",
+        "name": "System Breach Alert (Alarm)"
+      },
+      {
+        "level": 2,
+        "description": "Localized EM jamming of audio/signals.",
+        "name": "Signal Jammer (Silence)"
+      },
+      {
+        "level": 2,
+        "description": "MAC address or tag tracking via satellite/local ping.",
+        "name": "GPS Tracking (Locate Object)"
+      },
+      {
+        "level": 2,
+        "description": "Short, secure message delivery via proxy.",
+        "name": "Encrypted Data Burst (Animal Messenger)"
+      },
+      {
+        "level": 1,
+        "description": "Algorithmic vulnerability focus.",
+        "name": "Algorithmic Focus (Hunter's Mark)"
+      },
+      {
+        "level": 1,
+        "description": "Optimized stride frequency.",
+        "name": "Tactical Stride (Longstrider)"
+      },
+      {
+        "level": 2,
+        "description": "Signature dampening field.",
+        "name": "Signature Dampening (Pass Without Trace)"
+      },
+      {
+        "level": 2,
+        "description": "Project 3 thermal/visual duplicates to misdirect attackers.",
+        "name": "Thermal Decoy (Mirror Image)"
+      },
+      {
+        "level": 2,
+        "description": "Bend light to become invisible to optics and the naked eye.",
+        "name": "Light-Refractive Camouflage (Invisibility)"
+      },
+      {
+        "level": 1,
+        "description": "Chemical stim grants temporary HP and immunity to fear.",
+        "name": "Adrenaline Overdrive (Heroism)"
+      },
+      {
+        "level": 1,
+        "description": "Absorb kinetic/elemental energy for resistance and a damage boost.",
+        "name": "Kinetic Redirection (Absorb Elements)"
+      }
+    ],
+    "name": "Sariel",
+    "gender": "Female",
+    "equipped_items": {
+      "armor": "FBI Tactical Studded Leather (AC 12 + DEX)",
+      "wrist": "Tactical Smartwatch",
+      "main_hand": "Service Sidearm (Hand Crossbow Profile)",
+      "waist": "FBI Badge & Tactical Belt",
+      "body": "Sterling 'Zero-Signature' Windbreaker",
+      "hands": "Tactical Gloves",
+      "feet": "Tactical Boots",
+      "off_hand": "Tactical Knife (Dagger Profile)",
+      "ring_1": "FBI Academy Class Ring",
+      "sidearm_modern": "9mm Semi-Auto Pistol"
+    },
+    "inventory": {},
+    "proficiency_bonus": 5,
+    "skill_proficiencies": {
+      "expertise": [
+        "Investigation",
+        "Stealth",
+        "Perception"
+      ],
+      "proficiencies": [
+        "Stealth",
+        "Insight",
+        "Perception",
+        "Persuasion",
+        "Acrobatics",
+        "Deception"
+      ]
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "status": [
+        2025,
+        2,
+        10,
+        12,
+        45,
+        0,
+        0,
+        "midday"
+      ],
+      "second": 15,
+      "microsecond": 0,
+      "minute": 45,
+      "hour": 4,
+      "time_of_day": "deep night",
+      "day": 4,
+      "year": 2025,
+      "month": 3
+    },
+    "current_location": "Cheyenne, Wyoming - Above \"The Pit\"",
+    "location": "Baltimore Old Hospital - Sub-Level Cradle"
+  },
+  "npc_data": {
+    "Bex Henderson": {
+      "social_hp_challenge": {
+        "cooldown_remaining": 0
+      },
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 4,
+          "history": [
+            "Observed Sariel's moral defense of Shane."
+          ]
+        }
+      }
+    },
+    "Rebecca Bex Henderson": {
+      "role": "Former FBI Profiler",
+      "display_name": "Rebecca 'Bex' Henderson",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 2,
+          "history": [
+            "Recognizes Sariel as a genius asset"
+          ]
+        }
+      },
+      "gender": "Female",
+      "tier": "noble"
+    },
+    "Dr": {
+      " Hannibal Lecter": {
+        "status": "away",
+        "relationships": {
+          "player": {
+            "disposition": "bonded",
+            "trust_level": 10,
+            "history": [
+              "Recognized Sariel as his true inheritor",
+              "Orchestrated the 'Final Refinement' breakthrough"
+            ]
+          }
+        }
+      }
+    },
+    "npc_richard_harris_001": {
+      "hp_current": 0,
+      "status": [
+        "dead"
+      ]
+    },
+    "npc_red_john_001": {
+      "relationships": {
+        "player": {
+          "history": [
+            "Invited Sariel to the Symphony",
+            "Critiqued for theatrical clutter",
+            "Labelled as a puppet distraction"
+          ]
+        }
+      }
+    },
+    "Red John": {
+      "hp_current": 78,
+      "status": "dead",
+      "health": {
+        "hp_max": 150,
+        "hp": 0
+      }
+    },
+    "Arthur Sterling": {
+      "attitude_to_party": "friendly",
+      "entity_id": "npc_arthur_sterling_001",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 8,
+          "history": [
+            "Secretly funded education",
+            "Ensured placement in FBI",
+            "Named Sariel 'true inheritor' in private"
+          ]
+        }
+      },
+      "role": "Patriarch of Sterling Global",
+      "tier": "king"
+    },
+    "Shane Florence": {
+      "attitude_to_party": "friendly",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 2,
+          "history": [
+            "Survivor of the Pit explosion",
+            "Assigned to the primary tracking team"
+          ]
+        }
+      },
+      "entity_id": "npc_shane_florence_001",
+      "gender": "Male",
+      "entity_type": "npc",
+      "display_name": "Shane Florence",
+      "hp_max": 22,
+      "level": 3,
+      "tier": "commoner",
+      "hp_current": 22,
+      "role": "Prison Officer / Survivor",
+      "proficiency_bonus": 2,
+      "name": "Shane Florence"
+    },
+    "npc_shane_florence_001": {
+      "status": "dead",
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 4,
+          "history": [
+            "Sariel saved Shane's life from the Reaper",
+            "Shane bought the team pizza/drinks"
+          ]
+        }
+      },
+      "health": {
+        "hp": 0
+      }
+    },
+    "npc_elias_thorne_001": {
+      "status": "dead",
+      "health": {
+        "hp": 0
+      }
+    },
+    "Jennifer Morales": {
+      "display_name": "Jennifer Morales",
+      "relationships": {
+        "player": {
+          "notes": "Professional kindness with a paternalistic lean.",
+          "disposition": "friendly",
+          "trust_level": 4,
+          "history": [
+            "Grateful for life saved at Horse Creek Dam.",
+            "Impressed by 'Special Agent' rank revelation."
+          ]
+        }
+      },
+      "tier": "guard",
+      "status": "relationships, player, trust_level, 4",
+      "gender": "Female",
+      "role": "Army Intelligence Officer",
+      "name": "Jennifer Morales"
+    },
+    "npc_jacob_001": {
+      "knowledge": [
+        "Sariel is a child-prodigy intern",
+        "Bureau leadership is obsessed with her for unknown reasons"
+      ],
+      "status": "{\"relationships\": {\"player\": {\"trust_level\": 6, \"disposition\": \"friendly\", \"history\": [\"Recognized Sariel as a tactical peer\"]}}}",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 5,
+          "history": [
+            "Witnessed surgical field precision",
+            "Accepted Sariel as a peer"
+          ]
+        }
+      },
+      "name": "npc_jacob_001"
+    },
+    "npc_george_foyet_001": {
+      "status": [
+        "jammed_signals",
+        "wounded"
+      ],
+      "health": {
+        "hp": 94
+      }
+    },
+    "npc_odell_001": {
+      "level": 8,
+      "knowledge": [
+        "Sariel is the secret bastard daughter of Arthur Sterling",
+        "Arthur Sterling's influence is the primary reason for Sariel's FBI placement",
+        "Sterling Global will destroy the careers of anyone who fails to protect her"
+      ],
+      "status": "watching_overwatch",
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 8,
+          "history": [
+            "Witnessed surgical precision in Baltimore",
+            "Following Sariel into the Cradle"
+          ]
+        }
+      },
+      "name": "npc_odell_001"
+    },
+    "Jacob Hassani": {
+      "attitude_to_party": "allied",
+      "role": "CIA Agent",
+      "display_name": "Jacob Hassani",
+      "relationships": {
+        "player": {
+          "notes": "Highly skeptical of the Harris kill; scrutinizes every move for signs of deception.",
+          "disposition": "allied",
+          "trust_level": 6,
+          "history": [
+            "Bonded during the Boettcher Hall rescue",
+            "Broke protocol to console Sariel"
+          ]
+        }
+      },
+      "gender": "Male",
+      "tier": "guard"
+    },
+    "Hannibal Lecter": {
+      "health": {
+        "hp_max": 250,
+        "hp": 250
+      },
+      "class_name": "Bard (College of Eloquence)",
+      "entity_id": "npc_lecter_001",
+      "attributes": {
+        "strength": 10,
+        "dexterity": 16,
+        "intelligence": 20,
+        "wisdom": 18,
+        "charisma": 22,
+        "constitution": 14
+      },
+      "description": "The Chesapeake Ripper. Secretly Level 20. Kill count: Thousands. Maternal grandfather of Sariel.",
+      "attitude_to_party": "neutral",
+      "status": "away",
+      "current_location": "Sariel's Penthouse, Denver",
+      "tier": "god_primordial",
+      "hp_max": 250,
+      "level": 20,
+      "hp_current": 250,
+      "relationships": {
+        "player": {
+          "disposition": "admiring",
+          "trust_level": 2,
+          "history": [
+            "Revealed as grandfather",
+            "Acknowledged peer status in the dark"
+          ]
+        }
+      },
+      "skill_proficiencies": {
+        "expertise": [
+          "Persuasion",
+          "Deception",
+          "Insight",
+          "Medicine"
+        ]
+      },
+      "role": "Secret Endgame Boss"
+    },
+    "Eli Vance": {
+      "entity_id": "npc_eli_vance_001",
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 9,
+          "history": [
+            "Saved from St. Louis robbers in 2022",
+            "Saved from Boettcher Hall Symphony in 2025"
+          ]
+        }
+      },
+      "role": "Bodega Owner / St. Louis Survivor",
+      "tier": "commoner"
+    },
+    "Arthur Mitchell": {
+      "name": "Arthur Mitchell"
+    },
+    "Rebecca 'Bex' Henderson": {
+      "relationships": {
+        "player": {
+          "notes": "Mentorship-focused; views Sariel as a clinical peer but narratively plays the 'nice' veteran.",
+          "disposition": "trusted"
+        }
+      }
+    },
+    "npc_paul_spector_001": {
+      "status": "neutralized",
+      "health": {
+        "hp": 0
+      }
+    },
+    "npc_jennifer_001": {
+      "knowledge": [
+        "Sariel is a brilliant but vulnerable 'diversity hire' for the investigative team"
+      ],
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 3,
+          "history": [
+            "Acknowledged Sariel's role in saving the team's lives."
+          ]
+        }
+      }
+    },
+    "Lydia": {
+      "attitude_to_party": "hostile",
+      "social_hp": 2,
+      "entity_id": "npc_lydia_001",
+      "status": "away",
+      "current_location": "unknown",
+      "display_name": "Lydia",
+      "tier": "lord",
+      "level": 12,
+      "relationships": {
+        "player": {
+          "disposition": "broken",
+          "trust_level": -10,
+          "history": [
+            "Calculated into irrelevance by Sariel",
+            "Subject of a surgical ego-dissection"
+          ]
+        }
+      },
+      "role": "Evil Mother / Overture Architect",
+      "visibility": "hidden"
+    },
+    "npc_hannibal_lecter_001": {
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 8,
+          "history": [
+            "Successfully audited the Overture Denver node",
+            "Admitted shared predatory nature",
+            "Acknowledged Sterling-Lecter lineage"
+          ]
+        }
+      }
+    },
+    "Oliver Odell": {
+      "entity_id": "npc_odell_001",
+      "entity_type": "npc",
+      "attributes": {
+        "strength": 14,
+        "dexterity": 14,
+        "intelligence": 12,
+        "wisdom": 14,
+        "charisma": 16,
+        "constitution": 16
+      },
+      "display_name": "Oliver Odell",
+      "gender": "Male",
+      "name": "Oliver Odell",
+      "attitude_to_party": "allied",
+      "status": "{\"relationships\": {\"player\": {\"trust_level\": 8, \"disposition\": \"devoted\", \"history\": [\"Recognized Sterling lineage\", \"Refused to use Sariel as bait\"]}}}",
+      "tier": "knight",
+      "hp_max": 68,
+      "level": 8,
+      "hp_current": 68,
+      "relationships": {
+        "player": {
+          "notes": "Protective instinct tempered; treats Sariel as a gifted but fragile ward.",
+          "disposition": "devoted",
+          "trust_level": 5,
+          "history": [
+            "Protected Sariel during the SUV roll",
+            "Witnessed Sariel 'accidentally' kill Richard Harris"
+          ]
+        }
+      },
+      "proficiency_bonus": 3,
+      "role": "FBI Special Agent"
+    },
+    "npc_morales_001": {
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 3,
+          "history": [
+            "Sariel saved the team at Horse Creek Dam",
+            "Morales shared a celebratory dinner"
+          ]
+        }
+      }
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "sanctuary_mode": {
+      "scale": "major",
+      "expires_turn": 86,
+      "broken_turn": 72,
+      "broken_reason": "Alignment shift and predatory admission to primary antagonist",
+      "active": false,
+      "activated_turn": 71,
+      "broken": true,
+      "arc": "The Symphony of Blood"
+    },
+    "active_missions": [
+      {
+        "title": "The Blood Identity",
+        "status": "active",
+        "mission_id": "the_blood_identity",
+        "objective": "Determine why Lydia and Hannibal are targeting your 'Identity'."
+      }
+    ],
+    "character_creation_completed": true,
+    "reputation": {
+      "public": {
+        "score": 46,
+        "titles": [
+          "The Ghost",
+          "Blood Angel",
+          "Special Agent-in-Charge"
+        ],
+        "notoriety_level": "known"
+      }
+    },
+    "player_character_data_extras": {
+      "overture_node_download_complete": true,
+      "alignment_shift_in_progress": "Neutral Evil (Apex)",
+      "team_loyalty_shift": "Undeclared/Awe-struck",
+      "aware_of_serial_killer_nature": true,
+      "corruption_countdown_active": true,
+      "iq": 200,
+      "internal_combat_calm": true,
+      "target_identified_hannibal": "Leader of The Overture",
+      "moral_leash_active": true,
+      "father_knows_vigilantism": false,
+      "father_alignment": "Lawful Neutral / Political Power Broker",
+      "father_knows_full_lethality": false,
+      "confidence_threshold_met": true,
+      "status": [
+        "heat_score",
+        850
+      ],
+      "biometric_undetectable": true,
+      "favorite_child_status_confirmed": true,
+      "masked_level": 11,
+      "black_budget_assets_unlocked": true,
+      "cradle_logic_integrated": true,
+      "hannibal_threat_level": "primordial_thousands_killed",
+      "blood_angel_title_active": true,
+      "target_fear_immunity": true,
+      "super_child_project": true,
+      "pulse_monitoring_blocked": true,
+      "predatory_realization_complete": true,
+      "npc_focus_shifted_to_hostages": true,
+      "identity_realization_complete": true,
+      "moral_framework_status": "collapsing",
+      "heat_score": 1250,
+      "social_anxiety_only": true,
+      "unredacted_vesalius_access": true,
+      "alignment_tension": "high",
+      "admitted_sadism": true,
+      "aware_of_eugenics_origins": true,
+      "moral_leash_tension": "critical",
+      "survivor_conspiracy_active": true,
+      "hunger_mechanic_enabled": true,
+      "int_cap": 24,
+      "social_hp_challenge_active": true,
+      "genuine_imposter_syndrome": true,
+      "unconscious_killer_nature": true,
+      "trust_bonuses_enabled": true,
+      "no_mask_comfort_active": true,
+      "baltimore_arc_active": true,
+      "aware_of_grandparent_lineage": true,
+      "confidence_threshold": 12,
+      "emotional_temptation_active": true,
+      "lecter_grandchild": true,
+      "hannibal_perceives_discipline": true
+    },
+    "scene_event": {
+      "quest_description": "Bex wants you to promise that if you find Lecter, you won't let the blood math override the law.",
+      "actor": "Bex Henderson",
+      "narrative_integration": "Bex requests a final private word before the Baltimore blackout.",
+      "quest_type": "diplomacy",
+      "reward_hint": "Preserves Bex's trust or shifts her to 'Skeptical' antagonist.",
+      "description": "Bex pulls you aside as the engines whine to life, her eyes searching yours for the 'Sarah Miller' she used to know.",
+      "type": "quest_offered",
+      "quest_objective": "Either lie to Bex, tell her the truth of your nature, or deflect.",
+      "refusal_consequence": "Bex will initiate an unauthorized internal investigation into your history.",
+      "estimated_turns": 3,
+      "status": "{\"type\": \"messenger\", \"actor\": \"Jacob Hassani\", \"description\": \"Jacob's voice crackles over the comms, focusing on signal strength rather than biometrics.\", \"player_response_required\": true, \"urgency\": \"immediate\", \"companion_dialogue\": \"'Handshake at 91%! Sterling, his irritation is creating a beautiful frequency jitter. I need one more movement in this Symphony. Deconstruct the Handler. If you can make Red John think his master is about to pull the plug, I can ghost the whole grid.'\"}",
+      "player_response_required": true,
+      "quest_title": "The Profiler's Plea",
+      "acceptance_required": true,
+      "urgency": "immediate",
+      "quest_source": "companion",
+      "companion_dialogue": "'Sariel. Answer the call. The manual for parental management suggests that silence is the loudest variable in a Sterling ledger.'"
+    },
+    "core_memories": [
+      "Executed Richard Harris (CR 9) in the Cheyenne industrial sector.",
+      "Successfully deceived Odell and Morales into believing the kill was a panicked accident.",
+      "Regrouped at the mobile command base. Jacob Hassani's suspicion has shifted from annoyance to active profiling after observing the precision of the Harris kill.",
+      "Exhibited Tier-1 marksmanship at the Cheyenne range; Jacob Hassani's suspicion is now critical.",
+      "Successfully downplayed Tier-1 marksmanship as 'lab training' to the team.",
+      "Neutralized the Clockmaker and captured the Reaper at Horse Creek Dam. Oliver Odell revealed my Special Agent rank to the team, but the 'intern' label persists as a narrative shield.",
+      "Successfully intercepted a Sterling Global courier at the Rusty Spur, diverting a high-profile delivery to a secure Bureau locker to preserve the 'Sarah Miller' mask.",
+      "Successfully retrieved the Sterling Global gift (Zero-Signature Windbreaker) from the Field Office secure lockers under the cover of night.",
+      "Retrieved Sterling Global tactical gear and observed the interrogation of George Foyet (The Reaper).",
+      "append",
+      "Red John sent a direct invitation to my private burner phone.",
+      "{\"append\": \"Successfully convinced Oliver Odell to allow the 'Bait' protocol for the Boettcher Hall mission using logic and team support.\"}",
+      "Red John executed at Boettcher Hall. Shane Florence murdered by Hannibal Lecter during the EMP blind.",
+      "Hidden Background Truth: Sariel is the granddaughter of Hannibal Lecter, engineered by his daughter as a 'Super Child' via Arthur Sterling.",
+      "Jacob Hassani became a dedicated ally following the Boettcher Hall rescue.",
+      "Recognized by Eli Vance, a survivor of a 2022 vigilante execution in St. Louis.",
+      "Successfully navigated the public recognition by Eli Vance, maintaining the 'Miller' mask under Bex Henderson's direct scrutiny.",
+      "The title 'Blood Angel' has surfaced among the survivors, reflecting my secret history as a vigilante protector of the innocent.",
+      "Confirmed Hannibal Lecter is my grandfather. Admitted my predatory nature but chose to hold firm to my moral leash as a form of tactical discipline.",
+      "I have accepted my identity as a serial killer by genus. I recognized the mathematical beauty of the 'murder paradise' and used my sadism to dismantle my mother's ego. I am a Sterling corrector, but my blood is the Ripper's legacy."
+    ],
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "status": "{\"suggestion_given\": true}",
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "level_up_pending": false,
+    "completed_missions": [
+      "denver_crossover"
+    ],
+    "campaign_tier": "mortal",
+    "the_blood_identity": {
+      "phase": "cradle_audit_success",
+      "progress": 100,
+      "completed_at": "2025-03-04T04:45:00Z",
+      "status": "completed",
+      "updated_at": "2025-02-10T21:46:00Z"
+    },
+    "universe_control": 0,
+    "world_events": {
+      "background_events": [
+        {
+          "discovery_condition": "Radio report from Arthur's lead PMC",
+          "status": "resolved",
+          "player_aware": true,
+          "outcome": "Overture Sanitization Squad neutralized",
+          "location": "Tabor Center Garage",
+          "action": "Interception",
+          "player_impact": "Physical extraction path secured",
+          "actor": "Arthur's Tactical Team",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Next interaction with Jacob",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Jacob finds the 2022 St. Louis link",
+          "location": "FBI Field Office",
+          "action": "Vesalius Decryption",
+          "player_impact": "Jacob realizes 'Agent Miller' is the St. Louis vigilante",
+          "actor": "Jacob Hassani",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Bex confrontation in 2 turns",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Bex identifies the reverence as a 'cult' dynamic",
+          "location": "Denver Triage",
+          "action": "Hostage Profiling",
+          "player_impact": "Lead profiler begins questioning the 101st Variable's morality",
+          "actor": "Bex Henderson",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "News report in 10 turns",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Sariel's first victims are being forensically exhumed",
+          "location": "St. Louis, MO",
+          "action": "Harvester Activation",
+          "player_impact": "Legal and social exposure of the 101-kill ledger",
+          "actor": "The Overture Board",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Encrypted memo on tablet",
+          "status": "resolved",
+          "player_aware": true,
+          "outcome": "All records of the Sterling name in Denver have been black-budgeted.",
+          "location": "Washington D.C.",
+          "action": "Classifying the Denver Incident",
+          "player_impact": "Masked Level maintained despite Heat.",
+          "actor": "The Director",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Chemical scan upon entry",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Old hospital vents have been rigged with paralytic neurotoxins.",
+          "location": "Baltimore, MD",
+          "action": "Hospital Preparation",
+          "player_impact": "Tactical hazard for Baltimore insertion.",
+          "actor": "Hannibal Lecter",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Confrontation in 5 turns",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Bex has found the matching trajectory for the 'Blood Angel's' 10th kill.",
+          "location": "FBI Denver Field Office",
+          "action": "Private St. Louis Audit",
+          "player_impact": "Bex realizes you've been a killer since age 12.",
+          "actor": "Bex Henderson",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Financial intercept",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Overture is purging its middle-management to hide Hannibal's involvement.",
+          "location": "Global",
+          "action": "Asset Liquidation",
+          "player_impact": "The organization is streamlining into a purely predatory shell.",
+          "actor": "The Overture Board",
+          "event_type": "long_term"
+        },
+        {
+          "discovery_condition": "Financial report on tablet",
+          "status": "resolved",
+          "player_aware": true,
+          "outcome": "Three Overture shell companies bankrupted",
+          "location": "D.C. / Financial Markets",
+          "action": "Hostile Takeover",
+          "player_impact": "Overture logistical support in Baltimore is halved.",
+          "actor": "Sterling Global Legal",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Jacob's debrief in 2 turns",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Twelve D.C. Sleepers identified in infrastructure",
+          "location": "Washington D.C.",
+          "action": "Handshake Interception",
+          "player_impact": "Capitol Harvest threat is mitigated but remains active.",
+          "actor": "Jacob's Filter Array",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Eleanor warning call",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Identified the 'Black-Tier' jet heading to Baltimore",
+          "location": "London / Airspace",
+          "action": "Flight Tracking",
+          "player_impact": "Marcus begins wondering why Arthur's 'bastard' has access to Black-Tier assets.",
+          "actor": "Marcus Sterling",
+          "event_type": "immediate"
+        },
+        {
+          "discovery_condition": "Deep-level breach",
+          "status": "pending",
+          "player_aware": false,
+          "outcome": "Established 'The Gallery' in the sub-basement",
+          "location": "Baltimore Old Hospital",
+          "action": "Curator Arrival",
+          "player_impact": "The destination of the mission is confirmed as a primordial-tier kill-box.",
+          "actor": "Hannibal Lecter",
+          "event_type": "long_term"
+        }
+      ]
+    },
+    "arc_milestones": {
+      "the_blood_identity": {
+        "progress": 100,
+        "phase": "predatory_awakening",
+        "completed_at": "2025-02-10T21:50:00Z",
+        "status": "completed",
+        "updated_at": "2025-02-10T21:46:00Z"
+      },
+      "primary_arc": {
+        "progress": 100,
+        "phase": "the_symphony_climax",
+        "completed_at": "2025-02-10T13:02:20Z",
+        "status": "completed",
+        "updated_at": "2025-02-10T12:05:00Z"
+      },
+      "status": {
+        "status": "in_progress"
+      }
+    },
+    "nemesis_organization": {
+      "knowledge": [
+        "Sariel's 100+ covert executions",
+        "Sterling lineage",
+        "Identity: 101st Variable"
+      ],
+      "intel_level": "Unknown",
+      "primary_agenda": "Recruit Sariel as a Tier-1 Overture Asset",
+      "known_capabilities": [
+        "Pit Breach Orchestration",
+        "Advanced Encryption",
+        "Tactical Resource Deployment"
+      ],
+      "name": "The Overture"
+    },
+    "god_mode": {
+      "character": {
+        "description": "Character Profile: Sariel\nAge: 16\n\nClass: Level 1 Rogue/Ranger Prodigy (Gloomstalker/Assassin hybrid traits enabled narratively).\n\nAttributes: INT-based spellcasting and profiling. You use your genius-level intellect to calculate trajectories, deduce behavioral patterns, and cast ranger abilities.\n\nBackground: FBI Special Agent / Secret Vigilante. You are extremely beautiful, using your looks as camouflage. Behind the federal badge, you have a dark, hidden history: operating off the books since age 12, you have successfully and covertly executed exactly 100 violent criminals.\n\nReputation: The public and lower-level agents see a brilliant, unprecedented young prodigy. But among the elite, there are rumors about the terrifying, unexplainable efficiency of your methods.\n\n============================================================\nSCENE 1: The Pit\n\nTimestamp: 2025, January 19, 04:00:00 Location: Cheyenne, Wyoming - Above \"The Pit\" \nStatus: Lvl 1 Prodigy | HP: 12/12 | Conditions: Normal\n\nGame Master:\nThe freezing Wyoming wind whips across the shattered landscape. Beneath your feet lies the smoking, catastrophic ruin of a top-secret underground silo known to a select few as The Pit. An unexpected explosion has just ripped the facility open, and the nation's worst serial killers are once again at large.\n\nYou stand at the edge of the crater, your unearthly beauty and youth a stark contrast to the tactical chaos. Despite your age, your genius intellect secured your spot on this elite investigative team.\n\nA few yards away, former FBI profiler Rebecca \"Bex\" Henderson is speaking quietly with her former partner and lover, Oliver Odell. Jacob Hassani, a seasoned CIA agent, is coordinating with Army Intelligence officer Jennifer Morales to secure the wider perimeter.\n\nWalking up the incline toward your group is Shane Florence, a prison officer who survived the silo's explosion. He looks battered, holding a decrypted manifest tablet.\n\n\"We've got our first confirmed escapee trajectory,\" Shane says, his voice raspy from the smoke. He hands the tablet to Bex, but she holds it out to you, her profiler's eyes searching your flawless face for a reaction.\n\n\"The target is Richard Harris,\" Bex says, naming the first escapee. \"He's in the wind. Sariel, the Bureau put you on this team because you see the board differently. Look at the blast radius and the perimeter gaps. Where does he go first?",
+        "name": "Sariel"
+      },
+      "description": "Character Profile: Sariel\nAge: 16\n\nClass: Level 1 Rogue/Ranger Prodigy (Gloomstalker/Assassin hybrid traits enabled narratively).\n\nAttributes: INT-based spellcasting and profiling. You use your genius-level intellect to calculate trajectories, deduce behavioral patterns, and cast ranger abilities.\n\nBackground: FBI Special Agent / Secret Vigilante. You are extremely beautiful, using your looks as camouflage. Behind the federal badge, you have a dark, hidden history: operating off the books since age 12, you have successfully and covertly executed exactly 100 violent criminals.\n\nReputation: The public and lower-level agents see a brilliant, unprecedented young prodigy. But among the elite, there are rumors about the terrifying, unexplainable efficiency of your methods.\n\n============================================================\nSCENE 1: The Pit\n\nTimestamp: 2025, January 19, 04:00:00 Location: Cheyenne, Wyoming - Above \"The Pit\" \nStatus: Lvl 1 Prodigy | HP: 12/12 | Conditions: Normal\n\nGame Master:\nThe freezing Wyoming wind whips across the shattered landscape. Beneath your feet lies the smoking, catastrophic ruin of a top-secret underground silo known to a select few as The Pit. An unexpected explosion has just ripped the facility open, and the nation's worst serial killers are once again at large.\n\nYou stand at the edge of the crater, your unearthly beauty and youth a stark contrast to the tactical chaos. Despite your age, your genius intellect secured your spot on this elite investigative team.\n\nA few yards away, former FBI profiler Rebecca \"Bex\" Henderson is speaking quietly with her former partner and lover, Oliver Odell. Jacob Hassani, a seasoned CIA agent, is coordinating with Army Intelligence officer Jennifer Morales to secure the wider perimeter.\n\nWalking up the incline toward your group is Shane Florence, a prison officer who survived the silo's explosion. He looks battered, holding a decrypted manifest tablet.\n\n\"We've got our first confirmed escapee trajectory,\" Shane says, his voice raspy from the smoke. He hands the tablet to Bex, but she holds it out to you, her profiler's eyes searching your flawless face for a reaction.\n\n\"The target is Richard Harris,\" Bex says, naming the first escapee. \"He's in the wind. Sariel, the Bureau put you on this team because you see the board differently. Look at the blast radius and the perimeter gaps. Where does he go first?"
+    },
+    "active_constraints": [
+      "Hannibal views Sariel's morality as a tactical asset (discipline) rather than a barrier.",
+      "Team stand-down order on Hannibal Lecter is active.",
+      "Arthur Sterling is unaware of Sariel's true lethality."
+    ],
+    "next_companion_arc_turn": 3,
+    "pit_manifest": {
+      "paul_spector": {
+        "team": "Cell 1",
+        "partner": "Arthur Mitchell",
+        "status": "AT LARGE"
+      },
+      "red_john": {
+        "team": "Cell 2",
+        "partner": "Hannibal Lecter",
+        "status": "AT LARGE",
+        "helpers": [
+          "The Blake Association"
+        ]
+      },
+      "george_foyet": "CAPTURED",
+      "hannibal_lecter": {
+        "partner": "Red John",
+        "perceived_level": 12,
+        "status": "AT LARGE",
+        "secret_status": "Unknown to Overture",
+        "helpers": [
+          "Influenced Patients"
+        ],
+        "team": "Cell 2",
+        "social_minimum_check": 27,
+        "true_class": "Silver Tongue Bard Variant",
+        "true_level": 20
+      },
+      "elias_thorne": "DECEASED",
+      "arthur_mitchell": {
+        "team": "Cell 1",
+        "partner": "Paul Spector",
+        "status": "AT LARGE",
+        "helpers": [
+          "The Caretaker"
+        ]
+      },
+      "richard_harris": "DECEASED"
+    },
+    "success_streak": 62,
+    "npc_agendas": {
+      "hannibal_lecter": {
+        "current_goal": "The Final Refinement (Moral Corruption)",
+        "notes": "Views Sariel's morals as necessary discipline for a superior killer; planning to erode her 'Justice' constant in Baltimore.",
+        "status": "active",
+        "progress_percentage": 25
+      }
+    },
+    "divine_potential": 0,
+    "rumors": [
+      {
+        "content": "A teenage girl in a black jacket walked through an EMP to kill Red John.",
+        "source_type": "local_pd",
+        "accuracy": "partial"
+      }
+    ],
+    "attribute_system": "standard",
+    "multiverse_upgrade_available": false,
+    "character_creation_in_progress": false,
+    "character_creation_stage": "complete",
+    "companion_arcs": {},
+    "faction_updates": {
+      "pit_task_force": {
+        "player_standing_change": "Legendary Leader / Protective Target",
+        "morale": 70,
+        "current_objective": "Hostage triage and forensic reconstruction"
+      },
+      "the_overture": {
+        "progress": "Recalibrating after Red John's failure",
+        "player_standing_change": "Priority Recruitment Target (Hostile/Admiring)",
+        "current_objective": "Regain control of the 101st Variable narrative"
+      }
+    },
+    "divine_upgrade_available": false
+  },
+  "social_hp_challenge": {
+    "social_hp": 9,
+    "roll_dc": 22,
+    "cooldown_remaining": 1,
+    "successes": 6,
+    "roll_result": 34,
+    "request_severity": "information",
+    "npc_tier": "king",
+    "successes_needed": 5,
+    "social_hp_damage": 2,
+    "status": "WAVERING",
+    "resistance_shown": "Arthur is analyzing the 'Vesalius' data-stream, weighing the cost of a private war in Baltimore.",
+    "social_hp_max": 15,
+    "objective": "Extract the motive for the intrusion",
+    "skill_used": "Persuasion",
+    "npc_name": "Arthur Sterling"
+  },
+  "combat_state": {
+    "initiative_order": [
+      {
+        "name": "npc_george_foyet_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "pc_sariel_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_odell_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_elias_thorne_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_jacob_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_jennifer_001",
+        "initiative": 0,
+        "type": "unknown"
+      }
+    ],
+    "active_combatant": "npc_odell_001",
+    "combat_phase": "ended",
+    "round_number": 3,
+    "combatants": {
+      "npc_george_foyet_001": {
+        "hp_current": 0,
+        "hp_max": 110,
+        "status": [
+          "unconscious",
+          "captured"
+        ],
+        "type": "enemy",
+        "role": "The Reaper (Lvl 11)"
+      },
+      "npc_odell_001": {
+        "hp_current": 55,
+        "hp_max": 55,
+        "status": [
+          "normal"
+        ],
+        "type": "ally"
+      },
+      "npc_jennifer_001": {
+        "hp_current": 42,
+        "hp_max": 42,
+        "status": [
+          "flanking",
+          "moving"
+        ],
+        "type": "ally"
+      },
+      "npc_elias_thorne_001": {
+        "hp_current": 0,
+        "hp_max": 75,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy",
+        "role": "The Clockmaker (Lvl 7)"
+      },
+      "pc_sariel_001": {
+        "hp_current": 67,
+        "hp_max": 67,
+        "status": [
+          "focused"
+        ],
+        "type": "pc"
+      },
+      "npc_richard_harris_001": {
+        "hp_current": 96,
+        "hp_max": 138,
+        "status": [
+          "bloodied",
+          "intimidated"
+        ],
+        "type": "enemy"
+      },
+      "npc_jacob_001": {
+        "hp_current": 42,
+        "hp_max": 48,
+        "status": [
+          "wounded"
+        ],
+        "type": "ally"
+      }
+    },
+    "participants": [
+      "pc_sariel_001",
+      "npc_odell_001",
+      "npc_jacob_001",
+      "npc_jennifer_001",
+      "npc_shane_florence_001",
+      "npc_elias_thorne_001",
+      "npc_george_foyet_001"
+    ],
+    "in_combat": false,
+    "current_round": 3,
+    "combat_session_id": "combat_1713501300_dam",
+    "combat_summary": {
+      "loot_distributed": true,
+      "enemies_defeated": [
+        "Red John (Target neutralized)"
+      ],
+      "outcome": "victory/setback",
+      "rounds_fought": 2,
+      "xp_awarded": 5000,
+      "allied_casualties": [
+        "Shane Florence"
+      ]
+    }
+  },
+  "last_state_update_timestamp": "2026-03-03 08:04:29.929000+00:00",
+  "turn_number": 396,
+  "player_turn": 396,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 4,
+    "minute": 0,
+    "time_of_day": "deep night",
+    "day": 19,
+    "year": 2025,
+    "month": 1
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {
+    "the_overture": {
+      "current_goal": "Isolate Sariel for recruitment evaluation",
+      "next_milestone": "The Denver Symphony Contact",
+      "progress_percentage": 15,
+      "status": "active"
+    }
+  },
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "Escaping the collapsing Baltimore hospital.",
+    "thinking": "The unredacted genetic logs are secured, and we have breached the sub-basement kill-box. The hospital is scheduled for demolition by the Overture Handler in under ten minutes. The primary objective is now extraction while maintaining the 'Agent Miller' persona under Bex's dawning scrutiny.",
+    "choices": [
+      {
+        "id": "roof_extraction_sprint",
+        "text": "Roof Extraction Sprint",
+        "risk_level": "low",
+        "description": "Utilize 'Tactical Stride' to bypass the remaining three floors and reach the dropship before the charges detonate.",
+        "cons": [
+          "Leaves Jacob's team to handle their own extraction"
+        ],
+        "pros": [
+          "Fastest exit",
+          "Minimizes NPC exposure"
+        ],
+        "confidence": "high"
+      },
+      {
+        "text": "Coordinated Extraction (Synergistic)",
+        "risk_level": "medium",
+        "cons": [
+          "Extends time in the collapse zone"
+        ],
+        "id": "coordinated_extraction",
+        "pros": [
+          "Zero allied casualties",
+          "Strengthens team trust"
+        ],
+        "description": "Direct Jacob to the service elevator while you and Odell provide suppressing fire from the mezzanine to ensure the whole team exits together.",
+        "confidence": "medium",
+        "analysis": {
+          "combination_type": "synergistic",
+          "synergy_bonus": "Jacob recovers a secondary Overture server-blade otherwise lost in the collapse.",
+          "dc_modifier": 0,
+          "coordination_dc": 16
+        }
+      },
+      {
+        "id": "confront_bex_narrative",
+        "text": "Confront Bex's Profiling",
+        "risk_level": "high",
+        "description": "Use the flight back to Baltimore to proactively address Bex's suspicion, using your Sterling 'Philanthropy' logic to redirect her focus.",
+        "cons": [
+          "Risks a critical failure and total exposure"
+        ],
+        "pros": [
+          "Potential to reset her Social HP",
+          "Preserves the mask"
+        ],
+        "confidence": "low"
+      }
+    ]
+  },
+  "directives": {
+    "add": [
+      "Sariel is aware of her own lethal strength but views it as a technical reality rather than a source of pride.",
+      "Sariel's social shyness is genuine; she avoids the spotlight and prefers to be underestimated.",
+      "Intentional deception (acting) requires a Deception check. Default state is 'clinical/ordinary'.",
+      "Sariel will prioritize blending in and using minimum necessary force unless allies are in immediate danger."
+    ],
+    "drop": [
+      "Sariel does not realize her own genius and combat prodigy. i think im normal",
+      "Sariel's default behavior is to treat her high-level feats as ordinary results of logic and practice, rather than acting afraid or deceptive."
+    ]
+  },
+  "scene_event": {
+    "quest_description": "Bex wants you to promise that if you find the archives, you won't let your 'math' override the law.",
+    "reward_hint": "Preserves Bex's trust as your primary profiler.",
+    "narrative_integration": "The air in the lab is suddenly occluded by freezing fog, dropping visibility to zero for everyone except those with Umbral Sight.",
+    "quest_type": "diplomacy",
+    "actor": "The Cradle",
+    "description": "The liquid nitrogen leak reaches the primary incubation vats, causing the reinforced glass to explode in a cloud of blinding, sub-zero mist.",
+    "type": "environmental_hazard",
+    "quest_objective": "Either promise Bex, lie, or deflect the question.",
+    "estimated_turns": 3,
+    "refusal_consequence": "Bex initiates an unauthorized internal investigation into the St. Louis 'Blood Angel' rumors.",
+    "status": "{\"type\": \"messenger\", \"actor\": \"Jacob Hassani\", \"description\": \"Jacob's voice crackles over the comms, a low-frequency hum accompanying his words.\", \"player_response_required\": true, \"urgency\": \"immediate\", \"companion_dialogue\": \"'Sterling, the relay is shifting. I've got the handshake, but he's using a secondary heartbeat monitor on the hostages. If his pulse spikes or drops, the sleepers trigger. You need to keep him calm. Keep him talking while I ghost the biological triggers.'\"}",
+    "player_response_required": true,
+    "quest_title": "The Profiler's Plea",
+    "acceptance_required": true,
+    "urgency": "immediate",
+    "quest_source": "companion",
+    "companion_dialogue": "'Sariel, the secondary uplink at Sterling Global just flagged your penthouse node. Arthur is watching the data-stream. He knows you're auditing the Overture's internal logs. He's asking why his 'Agent Miller' is digging into the Vesalius Protocol. You have three minutes before he calls your direct line.'"
+  },
+  "army_data": {
+    "overall_morale": 85,
+    "forces": {
+      "pit_task_force": {
+        "blocks": 15,
+        "blocks_current_hp": [
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "morale": 85,
+        "upkeep_daily": 0,
+        "type": "federal_agents",
+        "max_hp_per_block": 50
+      }
+    },
+    "total_strength": 150
+  },
+  "world_events": {
+    "turn_generated": 405,
+    "background_events": [
+      {
+        "discovery_condition": "Encrypted 'Handshake' found in the data-dump logs.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Lecter identifies the specific data Sariel is prioritizing in the Cradle.",
+        "actor": "Hannibal Lecter (Lvl 20)",
+        "action": "Monitoring the Sync",
+        "player_impact": "Hannibal calibrates his next D.C. movement based on Sariel's curiosity.",
+        "location": "Aboard 'The Verger', Atlantic Waters",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Vesalius archive decryption during the Baltimore debrief.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Three Sleepers within the Capitol Police have been signaled to stand by.",
+        "actor": "The Overture Board",
+        "action": "D.C. Infrastructure Activation",
+        "player_impact": "Sets the stakes for the next campaign arc.",
+        "location": "Washington D.C.",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Radio report on the tactical tablet.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "A temporary 'No-Fly Zone' has been established over the Baltimore hospital to shield the extraction.",
+        "actor": "Arthur Sterling (Lvl 18)",
+        "action": "Lobbying Deployment",
+        "player_impact": "Prevents local PD helicopters from interfering with the dropship.",
+        "location": "Washington D.C.",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Confrontation during the return flight.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Bex has isolated the 'Blood Angel' signature from a St. Louis 2022 CCTV backup.",
+        "actor": "Bex Henderson (Lvl 8)",
+        "action": "Private Profiling",
+        "player_impact": "Bex's trust level is currently under high pressure.",
+        "location": "Sterling Dropship (Overhead)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Next interaction with Lecter",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Hannibal identifies that Sariel has secured the unredacted files.",
+        "location": "Aboard 'The Verger'",
+        "action": "Calibrating Response",
+        "player_impact": "Lecter begins preparing the 'D.C. Harvest' specifically for her.",
+        "actor": "Hannibal Lecter (Lvl 20)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Debrief on dropship",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Sterling has successfully blocked three Overture drone launches aimed at the Baltimore extraction.",
+        "location": "Washington D.C.",
+        "action": "Securing Airspace",
+        "player_impact": "Physical extraction remains viable.",
+        "actor": "Arthur Sterling (Lvl 18)",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Explosion detection on watch",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "The Handler has initiated a 'scorched earth' protocol for all Overture assets in Baltimore.",
+        "location": "Baltimore Outer Perimeter",
+        "action": "Node Abandonment",
+        "player_impact": "The hospital is set to collapse in 10 minutes.",
+        "actor": "The Overture Handler",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Intra-family conflict turn 150+",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Marcus's private investigator has captured thermal footage of the Sterling dropship.",
+        "location": "Baltimore",
+        "action": "Asset Shadowing",
+        "player_impact": "Marcus now has physical proof of Arthur's 'special project'.",
+        "actor": "Marcus Sterling",
+        "event_type": "long_term"
+      }
+    ]
+  },
+  "action_resolution": {
+    "mechanics": "{\"type\": \"skill_check\", \"rolls\": [{\"notation\": \"1d20+13\", \"result\": 1, \"total\": 14, \"dc\": 15, \"success\": false, \"purpose\": \"Persuasion\", \"dc_category\": \"Standard\", \"dc_reasoning\": \"convincing protective veterans (Odell) to use a teenager as live bait in a Tier-1 serial killer trap.\"}]}",
+    "interpreted_as": "persuasion_attempt",
+    "player_input": "propose i go to the invitation and they counter ambush",
+    "reinterpreted": false,
+    "audit_flags": [],
+    "narrative_outcome": "Odell's protective instinct overrides the logical tactical proposal."
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Sariel"
+    ]
+  },
+  "schema_migration_version": 1,
+  "schema_migrated_at": "2026-02-21T20:45:08.877825+00:00",
+  "session_id": "legacy-migrated-516352965f414de5",
+  "frozen_plans": {
+    "mercury_extraction_strategy": "{\"failed_at\": \"2025-02-10 11:31:00\", \"freeze_until\": \"2025-02-10 13:31:00\", \"original_dc\": 12, \"freeze_hours\": 2, \"description\": \"planning the extraction and counter-sabotage strategy for the Mercury Building\"}",
+    "denver_crossover_strategy": {
+      "original_dc": 15,
+      "freeze_until": "2025-02-10 11:15:00",
+      "failed_at": "2025-02-10 09:15:00",
+      "description": "planning the Mercury Building breach strategy",
+      "freeze_hours": 2
+    }
+  },
+  "faction_updates": {
+    "the_overture": {
+      "progress": "70% complete; data-wipe interrupted by Sariel's audit.",
+      "current_objective": "Sanitize the Baltimore Cradle"
+    }
+  }
+}

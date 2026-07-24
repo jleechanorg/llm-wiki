@@ -16,7 +16,7 @@ Python module providing a unified JSON interface layer for WorldArchitect.AI, ex
 
 ## Connections
 - Used by [Flask](Flask.md) routes and [[MCP Server]] tools
-- Depends on [FirestoreService](FirestoreService.md), [LLMService](LLMService.md), [GameState](GameState.md)
+- Depends on [FirestoreService](FirestoreService.md), [LLMService](LlmService.md), [GameState](GameState.md)
 
 ## Status
 Active — serves as single source of truth for campaign creation, action processing, and state management.

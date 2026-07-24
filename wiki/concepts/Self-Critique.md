@@ -74,7 +74,7 @@ WorldArchitect.AI's `caveats` field uses the implicit pattern: the model produce
 
 - [[Constitutional-AI]] — the canonical self-critique implementation
 - [RLAIF](RLAIF.md) — AI feedback as critique mechanism
-- [Debate](Debate.md) — adversarial critique as truth-seeking
+- [Debate](debate.md) — adversarial critique as truth-seeking
 - [Model-as-Judge](Model-as-Judge.md) — where self-critique fits in the decision architecture
-- [Corrigibility](Corrigibility.md) — alignment property enabled by self-critique
+- [Corrigibility](corrigibility.md) — alignment property enabled by self-critique
 - [ZFC-Level-Up-Architecture](ZFC-Level-Up-Architecture.md) — WorldArchitect's specific self-critique application via `caveats` field

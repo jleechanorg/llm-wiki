@@ -1,0 +1,1744 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "proficiency_bonus": 5,
+    "class_name": "Fighter (Eldritch Knight) / Monk (Way of the Kensei)",
+    "background": "Sword Dojo Instructor",
+    "entity_id": "pc_vaelen_001",
+    "display_name": "Master Vaelen",
+    "combat_stats": {
+      "speed": 55,
+      "passive_perception": 19,
+      "initiative_modifier": 5
+    },
+    "hit_dice_current": 12,
+    "hit_dice_max": 12,
+    "race": "Human",
+    "attributes": {
+      "strength": 12,
+      "dexterity": 20,
+      "intelligence": 14,
+      "wisdom": 20,
+      "charisma": 10,
+      "constitution": 14
+    },
+    "core_memories": [
+      "Master Vaelen possesses exceptional physical beauty (top 1% of men) and peak-human conditioning, appearing significantly younger than 40, though he is entirely unaware of his own allure.",
+      "possessing the mature visual age of a man in his early 30s despite being 40"
+    ],
+    "spells_known": [
+      {
+        "level": 1,
+        "name": "Shield"
+      },
+      {
+        "level": 1,
+        "name": "Absorb Elements"
+      },
+      {
+        "level": 1,
+        "name": "Protection from Evil and Good"
+      },
+      {
+        "level": 1,
+        "name": "Thunderwave"
+      },
+      {
+        "level": 2,
+        "name": "Mirror Image"
+      },
+      {
+        "level": 2,
+        "name": "Misty Step"
+      },
+      {
+        "level": 2,
+        "name": "Hold Person"
+      },
+      {
+        "level": 2,
+        "name": "Spirit Shroud"
+      },
+      {
+        "level": 3,
+        "description": "Target's speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action on each of its turns.",
+        "name": "Haste"
+      }
+    ],
+    "name": "Vaelen",
+    "experience": {
+      "needed_for_next_level": 140000,
+      "current": 125650,
+      "to_next_level": 14350
+    },
+    "resources": {
+      "spell_slots": {
+        "level_2": {
+          "used": 1,
+          "max": 3
+        },
+        "level_1": {
+          "used": 4,
+          "max": 4
+        },
+        "level_3": {
+          "used": 1,
+          "max": 2
+        }
+      },
+      "gold": 2365,
+      "ki_points": {
+        "used": 6,
+        "max": 14
+      },
+      "daily_income": 20
+    },
+    "base_attributes": {
+      "strength": 12,
+      "dexterity": 20,
+      "intelligence": 14,
+      "wisdom": 20,
+      "charisma": 10,
+      "constitution": 14
+    },
+    "spells_prepared": [
+      {
+        "level": 1,
+        "name": "Shield"
+      },
+      {
+        "level": 1,
+        "name": "Absorb Elements"
+      },
+      {
+        "level": 1,
+        "name": "Protection from Evil and Good"
+      },
+      {
+        "level": 1,
+        "name": "Thunderwave"
+      },
+      {
+        "level": 2,
+        "name": "Mirror Image"
+      },
+      {
+        "level": 2,
+        "name": "Misty Step"
+      },
+      {
+        "level": 2,
+        "name": "Hold Person"
+      },
+      {
+        "level": 3,
+        "name": "Spirit Shroud"
+      },
+      {
+        "name": "Haste"
+      }
+    ],
+    "hp_max": 132,
+    "features": [
+      "Crossbow Expert",
+      "Sharpshooter",
+      "Extra Attack (2)",
+      "War Magic",
+      "Eldritch Strike",
+      "Kensei Weapons",
+      "Sharpen the Blade",
+      "Purity of Body",
+      "Diamond Soul",
+      "Tongue of the Sun and Moon",
+      "Indomitable (2/long rest)",
+      "Tongue of the Sun and Moon",
+      "Indomitable (2/long rest)"
+    ],
+    "level": 13,
+    "skills": [
+      "acrobatics",
+      "athletics",
+      "history",
+      "insight",
+      "perception",
+      "stealth"
+    ],
+    "hp_current": 129,
+    "cantrips": [
+      "Booming Blade",
+      "Mage Hand",
+      "Minor Illusion"
+    ],
+    "health": {
+      "hp_max": 132,
+      "hp": 129
+    },
+    "equipment": {
+      "backpack": [
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Backpack"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Bedroll"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Mess kit"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Tinderbox"
+        },
+        {
+          "equipped": false,
+          "stats": "10",
+          "name": "Torch"
+        },
+        {
+          "equipped": false,
+          "stats": "10 days",
+          "name": "Rations"
+        },
+        {
+          "equipped": false,
+          "stats": null,
+          "name": "Waterskin"
+        },
+        {
+          "equipped": false,
+          "stats": "50 feet",
+          "name": "Rope"
+        },
+        {
+          "equipped": false,
+          "stats": "10gp",
+          "name": "Coin pouch"
+        },
+        {
+          "name": "Scholar's Pack"
+        },
+        {
+          "name": "Set of Weaver's Tools"
+        },
+        {
+          "name": "Sack of moldy potatoes"
+        },
+        {
+          "name": "Iron-wood Longsword"
+        },
+        {
+          "delta": "__DELETE__",
+          "name": "Sack of moldy potatoes"
+        },
+        {
+          "damage": "1d8",
+          "equipped": false,
+          "damage_type": "piercing",
+          "type": "weapon",
+          "properties": [
+            "finesse",
+            "kensei weapon",
+            "monk weapon"
+          ],
+          "name": "Finesse Rapier"
+        },
+        {
+          "damage": "1d8",
+          "equipped": false,
+          "damage_type": "slashing",
+          "type": "weapon",
+          "properties": [
+            "versatile (1d10)"
+          ],
+          "name": "Longsword"
+        },
+        {
+          "damage": "1d8",
+          "equipped": false,
+          "damage_type": "slashing",
+          "type": "weapon",
+          "properties": [
+            "versatile (1d10)"
+          ],
+          "name": "Longsword"
+        }
+      ],
+      "off_hand": {
+        "damage": "1d6",
+        "equipped": true,
+        "damage_type": "piercing",
+        "type": "weapon",
+        "properties": [
+          "finesse",
+          "light"
+        ],
+        "name": "Hand Crossbow (Off-hand)"
+      },
+      "main_hand": {
+        "damage": "1d8",
+        "equipped": true,
+        "damage_type": "piercing",
+        "type": "weapon",
+        "properties": [
+          "finesse",
+          "kensei weapon",
+          "monk weapon"
+        ],
+        "name": "Finesse Rapier"
+      },
+      "ranged": {
+        "damage": "1d6",
+        "equipped": true,
+        "damage_type": "piercing",
+        "type": "weapon",
+        "properties": [
+          "finesse",
+          "kensei weapon",
+          "monk weapon"
+        ],
+        "name": "Hand Crossbow (Main)"
+      }
+    }
+  },
+  "world_data": {
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 0,
+      "hour": 23,
+      "time_of_day": "night",
+      "year": 1492,
+      "day": 26,
+      "month": "Flamerule"
+    },
+    "current_location_name": "High Security Inquisitorial Ward, Grand Citadel"
+  },
+  "npc_data": {
+    "Marek": {
+      "attitude_to_party": "antagonistic",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -5,
+          "history": [
+            "Subdued at the Southern Watchtower",
+            "Interrogated in the Citadel"
+          ]
+        }
+      },
+      "entity_id": "npc_marek_001",
+      "status": "conscious",
+      "entity_type": "npc",
+      "display_name": "Marek",
+      "tier": "lord",
+      "level": 12,
+      "current_location": "Grand Citadel (Dungeons)",
+      "hp_current": 56,
+      "health": {
+        "hp_max": 100,
+        "hp": 1
+      },
+      "role": "Dark Inheritor",
+      "name": "Marek"
+    },
+    "npc_marcella_vance": {
+      "attitude_to_party": "friendly",
+      "entity_type": "npc",
+      "display_name": "Commander Marcella Vance",
+      "tier": "general",
+      "level": 12,
+      "relationships": {
+        "player": {
+          "trust_level": 8,
+          "history": [
+            "Vaelen's former top student",
+            "Promoted his move to the Capital"
+          ]
+        }
+      },
+      "role": "Commander of the Imperial Guard",
+      "alignment": "Lawful Good"
+    },
+    "Xanthia": {
+      "tier": "god",
+      "entity_id": "npc_xanthia_001",
+      "status": "dormant",
+      "alignment": "Lawful Evil",
+      "role": "Thayan Triumvirate / Former Lover",
+      "level": 18
+    },
+    "npc_calista_001": {
+      "tier": "knight",
+      "entity_id": "npc_calista_001",
+      "status": "conscious",
+      "age": 17,
+      "display_name": "Calista",
+      "role": "Imperial Knight Trainee",
+      "level": 5
+    },
+    "High Chancellor Peryn": {
+      "attitude_to_party": "cold",
+      "entity_id": "npc_peryn_001",
+      "entity_type": "npc",
+      "tier": "lord",
+      "display_name": "High Chancellor Peryn",
+      "level": 12,
+      "knowledge": [
+        "Technical recognition: Pulverized armor signatures match Vaelen's kinetic grounding."
+      ],
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "trust_level": -2,
+          "history": [
+            "Witnessed Vaelen's unconvincing 'simple teacher' performance"
+          ]
+        }
+      },
+      "role": "High Chancellor"
+    },
+    "npc_hestor_001": {
+      "role": "Captain of the Royal Guard",
+      "tier": "general",
+      "entity_id": "npc_hestor_001",
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 5,
+          "history": [
+            "Vitnessed Vaelen catch his live steel barehanded",
+            "Inspired by Vaelen's kinetic geometry"
+          ]
+        }
+      },
+      "display_name": "Captain Hestor",
+      "level": 12
+    },
+    "npc_marek_001": {
+      "role": "Dark Inheritor",
+      "tier": "knight",
+      "entity_id": "npc_marek_001",
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "antagonistic",
+          "trust_level": -5,
+          "history": [
+            "Original graduate of Vaelen's dojo",
+            "Turned to the dark 20 years ago",
+            "Witnessed Vaelen's return at the Watchtower"
+          ]
+        }
+      },
+      "display_name": "Marek",
+      "level": 12
+    },
+    "Orla": {
+      "entity_id": "npc_orla_001",
+      "status": "conscious",
+      "display_name": "Orla",
+      "level": 5,
+      "age": 19,
+      "role": "Imperial Knight Trainee",
+      "internal_tags": [
+        "Daughter Candidate E"
+      ],
+      "gender": "Female"
+    },
+    "npc_harkin_001": {
+      "name": "npc_harkin_001"
+    },
+    "npc_juna_001": {
+      "tier": "knight",
+      "entity_id": "npc_juna_001",
+      "status": "conscious",
+      "age": 16,
+      "display_name": "Juna",
+      "role": "Imperial Knight Trainee",
+      "level": 5
+    },
+    "Gideon": {
+      "role": "Capped Good Disciple",
+      "display_name": "Gideon",
+      "entity_id": "npc_gideon_001",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 9,
+          "history": [
+            "Graduated from Vaelen's dojo",
+            "Returned to assist the Master in the capital"
+          ]
+        }
+      },
+      "tier": "knight",
+      "level": 11
+    },
+    "Lysette": {
+      "experience": {
+        "current": 7000
+      },
+      "entity_id": "npc_lysette_001",
+      "status": "conscious",
+      "display_name": "Lysette",
+      "level": 5,
+      "age": 17,
+      "role": "Imperial Knight Trainee",
+      "internal_tags": [
+        "Daughter Candidate B"
+      ],
+      "gender": "Female"
+    },
+    "Finnian": {
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 5,
+          "history": [
+            "Felt brittle under the scale of training"
+          ]
+        }
+      },
+      "status": "conscious",
+      "alignment_internal": "GOOD_LEANING",
+      "potential": "mythic_ceiling_12",
+      "level": 2
+    },
+    "Tamsin": {
+      "experience": {
+        "current": 7000
+      },
+      "entity_id": "npc_tamsin_001",
+      "status": "conscious",
+      "display_name": "Tamsin",
+      "level": 5,
+      "age": 18,
+      "role": "Imperial Knight Trainee",
+      "internal_tags": [
+        "Daughter Candidate C"
+      ],
+      "gender": "Female"
+    },
+    "Sergeant Garrick": {
+      "attitude_to_party": "cold",
+      "entity_id": "npc_garrick_001",
+      "entity_type": "npc",
+      "tier": "guard",
+      "display_name": "Sergeant Garrick",
+      "level": 6,
+      "relationships": {
+        "player": {
+          "disposition": "cold",
+          "trust_level": -1,
+          "history": [
+            "Skeptical of the 'Sage of Oakhaven'"
+          ]
+        }
+      },
+      "role": "Elite Recruit Leader"
+    },
+    "Juna": {
+      "experience": {
+        "current": 7000
+      },
+      "entity_id": "npc_juna_001",
+      "status": "conscious",
+      "display_name": "Juna",
+      "level": 5,
+      "age": 16,
+      "role": "Imperial Knight Trainee",
+      "internal_tags": [
+        "Daughter Candidate D"
+      ],
+      "gender": "Female"
+    },
+    "Baroness Elara Vance": {
+      "status": "stable",
+      "current_location": "Ruins of the Old Watchtower",
+      "relationships": {
+        "player": {
+          "history": [
+            "Rescued from Marek at the Watchtower",
+            "Witnessed Vaelen's Mythic Awakening"
+          ]
+        }
+      },
+      "health": {
+        "hp_max": 85,
+        "hp": 73
+      }
+    },
+    "npc_lysette_001": {
+      "tier": "knight",
+      "entity_id": "npc_lysette_001",
+      "status": "conscious",
+      "age": 17,
+      "display_name": "Lysette",
+      "role": "Imperial Knight Trainee",
+      "level": 5
+    },
+    "Calista": {
+      "entity_id": "npc_calista_001",
+      "status": "conscious",
+      "display_name": "Calista",
+      "level": 5,
+      "age": 17,
+      "role": "Imperial Knight Trainee",
+      "internal_tags": [
+        "Daughter Candidate F"
+      ],
+      "gender": "Female"
+    },
+    "Captain Hestor": {
+      "role": "Captain of the Royal Guard",
+      "tier": "knight",
+      "entity_id": "npc_hestor_001",
+      "status": "dormant",
+      "is_capped": true,
+      "health": {
+        "hp_max": 100,
+        "hp": 92
+      },
+      "level": 12
+    },
+    "Countess Mirabelle": {
+      "knowledge": [
+        "Observational recognition: The efficiency of the 'Ghost-Stroke' mirrors Vaelen's silent steel-catch."
+      ]
+    },
+    "npc_orla_001": {
+      "tier": "knight",
+      "entity_id": "npc_orla_001",
+      "status": "conscious",
+      "age": 19,
+      "display_name": "Orla",
+      "role": "Imperial Knight Trainee",
+      "level": 5
+    },
+    "Harkin": {
+      "entity_id": "npc_harkin_001",
+      "status": "conscious",
+      "entity_type": "npc",
+      "display_name": "Harkin",
+      "hp_max": 45,
+      "level": 5,
+      "tier": "merchant",
+      "hp_current": 35,
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -5,
+          "history": [
+            "Raided Oakhaven",
+            "Disarmed by Vaelen"
+          ]
+        }
+      },
+      "health": {
+        "hp_max": 45,
+        "hp": 45
+      },
+      "role": "Bandit Leader"
+    },
+    "npc_guard_group_001": {
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 3,
+          "history": [
+            "Witnessed Vaelen's kinetic intervention",
+            "Stabilized by Vaelen after Chitterer attack"
+          ]
+        }
+      },
+      "health": {
+        "hp": 15
+      }
+    },
+    "Princess Thalia": {
+      "tier": "noble",
+      "entity_id": "npc_thalia_001",
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0
+        }
+      },
+      "role": "Princess of the Western Kingdom",
+      "level": 3
+    },
+    "Elite Recruits": {
+      "display_name": "Standard Elite Recruits",
+      "entity_id": "npc_recruit_group_001",
+      "entity_type": "npc",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 1,
+          "history": [
+            "Began drills under Vaelen's instruction",
+            "Struggling with the physical intensity of the regime"
+          ]
+        }
+      },
+      "tier": "guard",
+      "level": 3
+    },
+    "npc_elara_vance_001": {
+      "role": "Commander of the Imperial Guard / Landed Baroness",
+      "display_name": "Baroness Elara Vance",
+      "entity_id": "npc_elara_vance_001",
+      "relationships": {
+        "player": {
+          "history": [
+            "Discussed court protocol; feels high pressure"
+          ]
+        }
+      },
+      "tier": "noble",
+      "resources": {
+        "daily_income": 200
+      }
+    },
+    "Elite Knights": {
+      "display_name": "Imperial Elite Knights",
+      "entity_id": "npc_knight_group_001",
+      "entity_type": "npc",
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 4,
+          "history": [
+            "Witnessed Vaelen's catch in the High Court",
+            "Began drills under Vaelen's instruction",
+            "Inspired by the 'geometry of the form'"
+          ]
+        }
+      },
+      "tier": "knight",
+      "level": 4
+    },
+    "Instructor Brom": {
+      "attitude_to_party": "antagonistic",
+      "entity_id": "npc_brom_001",
+      "status": "inspired",
+      "entity_type": "npc",
+      "display_name": "Instructor Brom",
+      "tier": "general",
+      "level": 7,
+      "relationships": {
+        "player": {
+          "disposition": "friendly",
+          "trust_level": 2,
+          "history": [
+            "Challenged Vaelen in the yard",
+            "Critiqued by Vaelen for over-extension",
+            "Pride wounded during elite drills"
+          ]
+        }
+      },
+      "role": "Lead Barracks Instructor"
+    },
+    "npc_tamsin_001": {
+      "tier": "knight",
+      "entity_id": "npc_tamsin_001",
+      "status": "conscious",
+      "age": 18,
+      "display_name": "Tamsin",
+      "role": "Imperial Knight Trainee",
+      "level": 5
+    },
+    "Prince Eamon Ravengard": {
+      "tier": "noble",
+      "entity_id": "npc_eamon_001",
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "neutral",
+          "trust_level": 0
+        }
+      },
+      "role": "Prince of Baldur's Gate",
+      "level": 5
+    },
+    "npc_finnian_001": {
+      "attitude_to_party": "friendly",
+      "role": "Dojo Student",
+      "tier": "commoner",
+      "entity_type": "npc",
+      "relationships": {
+        "player": {
+          "trust_level": 5,
+          "history": [
+            "Persistent student",
+            "Brings 'junk' gifts from the market"
+          ]
+        }
+      },
+      "display_name": "Finnian",
+      "level": 3
+    },
+    "npc_mina_001": {
+      "attitude_to_party": "neutral",
+      "role": "Advanced Student",
+      "tier": "knight",
+      "entity_type": "npc",
+      "relationships": {
+        "player": {
+          "trust_level": 4,
+          "history": [
+            "One of the 20 graduates",
+            "Quiet and observant"
+          ]
+        }
+      },
+      "display_name": "Mina",
+      "level": 9
+    },
+    "Mina": {
+      "relationships": {
+        "player": {
+          "disposition": "trusted",
+          "trust_level": 6,
+          "history": [
+            "Wounded pride from over-dense instruction"
+          ]
+        }
+      },
+      "role": "Dojo Student / Thayan Infiltrator",
+      "entity_id": "npc_mina_001",
+      "status": "conscious",
+      "is_uncapped": true,
+      "potential": "mythic_ceiling_12",
+      "level": 4,
+      "masked_level": 12,
+      "age": 16,
+      "alignment_internal": "GOOD_LEANING",
+      "internal_tags": [
+        "Daughter Candidate A"
+      ],
+      "secret_identity": "Daughter of Vaelen and Xanthia"
+    },
+    "Archmage Selina": {
+      "appearance": "Child-like",
+      "entity_id": "npc_selina_001",
+      "status": "dormant",
+      "role": "Leader of Mage Forces",
+      "tier": "lord_general",
+      "level": 14
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "sanctuary_mode": {
+      "original_scale": "medium",
+      "expired": true,
+      "scale": "medium",
+      "expires_turn": 45,
+      "active": false,
+      "activated_turn": 37,
+      "arc": "Nautiloid Scrap Crisis",
+      "expired_turn": 71
+    },
+    "active_missions": [
+      {
+        "title": "The Silence of the Heartlands",
+        "status": "accepted",
+        "mission_id": "neutralize_kinetic_cage",
+        "objective": "Neutralize the three kinetic anchors before the Blood Moon convergence in three days."
+      }
+    ],
+    "character_creation_completed": true,
+    "reputation": {
+      "private": {
+        "faction_high_council": {
+          "standing": "unfriendly",
+          "score": -2,
+          "known_deeds": [
+            "Exposed as a potential high-tier threat during sparring"
+          ]
+        },
+        "faction_imperial_guard": {
+          "standing": "champion",
+          "trust_override": 10,
+          "score": 10
+        }
+      },
+      "internal_mythic_titles": [
+        "The Unbound God of War",
+        "Sword of the Apocalypse",
+        "The Kinetic Absolute",
+        "The Great Calamity",
+        "The Crimson Child (Former)"
+      ],
+      "public": {
+        "score": 30,
+        "titles": [
+          "Special Grand Instructor to the Crown's Elite"
+        ],
+        "notoriety_level": "famous",
+        "known_deeds": [
+          "Demonstrated barehanded steel-catching mastery before the High Lords' Council",
+          "Publicly reunited with a high-tier disciple (Gideon)"
+        ]
+      }
+    },
+    "_agent_selection_tracker": {
+      "count": 1,
+      "agent": "HeavyDialogAgent",
+      "rewards_skip_count": 0
+    },
+    "player_character_data_extras": {
+      "reputation": {
+        "public": {
+          "titles": [
+            "Special Grand Instructor to the Crown's Elite"
+          ]
+        }
+      },
+      "active_constraints": [
+        "Apply the Defense Resolution Matrix: Misses = Easy Dodge/Fingertip, Shield (21-25) = Kinetic Barrier, Deflect (Crit/25+) = Barehanded Catch.",
+        "Narrate high NPC rolls as 'better skill' that forces Vaelen to use a resource."
+      ]
+    },
+    "last_location": "High Security Inquisitorial Ward, Grand Citadel",
+    "core_memories": [
+      "Vaelen is a Level 20 Thayan prodigy whose output is subconsciously locked to Level 12 by trauma and guilt.",
+      "A cold war exists between the Good Disciples, the Evil Infiltrators, and the Thayan Triumvirate to keep Vaelen's identity secret.",
+      "Master Vaelen lives a modest, lower-middle-class life with only 1,000 gp, as his brutal training regime causes a high student churn rate.",
+      "Vaelen's spellcasting is adjusted to full Level 12 Eldritch Knight capacity (3 cantrips, 8 spells) using Wisdom as his primary modifier.",
+      "Vaelen's spellcasting follows standard Level 12 Eldritch Knight progression (2nd level slots), despite the Spirit Shroud anomaly in his tactical records.",
+      "Master Vaelen has accepted his Level 12 calibration and started his journey in the Western Heartlands, beginning at his rural dojo.",
+      "After three days of quiet training, Oakhaven was attacked by a mercenary band led by Harkin, forcing Vaelen to choose between his peace and the village's safety.",
+      "Vaelen intervened in the Oakhaven raid, shattering the leader Harkin's weapon with a 'clumsy' strike that demonstrated his uncalibrated kinetic power.",
+      "shattering the leader Harkin's weapon with a strike he perceived as routine, highlighting his disconnect from mortal fragility.",
+      "Vaelen systematically dismantled the Oakhaven bandit vanguard with effortless non-lethal strikes after his demand for surrender was met with a desperate charge.",
+      "Vaelen effortlessly dismantled a mercenary vanguard at Oakhaven with non-lethal strikes, feeling bewildered by the extreme physical fragility of standard mortals compared to his 'routine' techniques.",
+      "Correction: Vaelen's current XP has been synchronized to the Level 12 threshold (100,000) plus the Oakhaven victory award (1,100) to ensure progression consistency.",
+      "Master Vaelen accepted Commander Elara Vance's royal invitation to the capital, successfully negotiating for his students Mina and Finnian to accompany him despite Elara's warnings of political exploitation.",
+      "Correction: Vaelen is a Sword Dojo Instructor; any previous framing of him as a farmer was a narrative error and is replaced by his identity as a humble martial master.",
+      "Master Vaelen closed his countryside dojo and departed for the Western Kingdom's capital with his last two students, Mina and Finnian, under the escort of Commander Elara Vance.",
+      "Master Vaelen expressed pride in Commander Elara Vance's achievements, deeply moving her stoic persona while observing the Imperial Guard's discipline with a master's critical eye.",
+      "Master Vaelen is largely oblivious to the subtle reactions of others, focusing instead on his perceived 'rustiness'; while he is generally doubted by new acquaintances, he is respected for his courage, even if the strength of his past foes is debated.",
+      "Master Vaelen offered martial advice to Commander Elara and conducted a roadside training session for his students, though he remains preoccupied with his own perceived 'rustiness.'",
+      "Mina and Finnian possess the rare biological composition to potentially reach Level 12 under Vaelen's tutelage, though their moral alignment remains hidden from their master.",
+      "Master Vaelen deferred to Commander Elara Vance's authority during the Nautiloid scrap crisis, though she privately entrusted the defense of the students and the rear flank to his superior judgment.",
+      "Master Vaelen's 'sluggish' intervention during the Nautiloid scrap crisis saved the Imperial Guard from slaughter, demonstrating a level of speed and kinetic density that fundamentally broke the knights' understanding of mortal limits.",
+      "Master Vaelen's kinetic intervention saved the Imperial Guard from Void-Scarred Chitterers, demonstrating a level of speed and power that fundamentally broke the knights' understanding of mortal limits, though Vaelen remains convinced his technique was sluggish and uncoordinated.",
+      "Master Vaelen aided the wounded after the Chitterer attack, critiquing his 'sluggish' performance while the Imperial Guard and Commander Elara Vance grappled with the terrifying reality of his true power.",
+      "Master Vaelen's decisive intervention against the Void-Scarred Chitterers has replaced the Imperial Guard's skepticism with a mixture of reverence and existential dread.",
+      "Master Vaelen maintains absolute secrecy regarding his Thayan past; he never uses Thayan military terminology or references his former rank in dialogue.",
+      "Vaelen achieved a meditative breakthrough on the journey to the capital, beginning to heal the psychological anchor of his Thayan trauma and slightly 'de-rusting' his kinetic calibration.",
+      "possessing the mature visual age of a man in his early 30s despite being 40",
+      "Master Vaelen entered the Grand Citadel with intentional humility, successfully framing himself as a simple instructor to avoid the attention of the gate guards.",
+      "Master Vaelen entered the Grand Citadel and used his calm philosophy to steady his students Finnian and Mina, while noting the intense political pressure weighing on Commander Elara Vance ahead of the royal audience.",
+      "Master Vaelen attempted to maintain a humble facade before the High Lords' Council, but his elite physical conditioning and effortless poise made the 'simple teacher' act unconvincing to the skeptical nobility.",
+      "Countess Mirabelle of the High Council successfully perceived Vaelen's geometric posture, marking her as one of the few who suspect his true nature.",
+      "Master Vaelen's 'Absolute Humility' successfully masked his potential from the High Council during Elara's testimony, even causing Countess Mirabelle's previous suspicion to waver.",
+      "Chancellor Peryn and Countess Mirabelle have seen through Vaelen's humble facade, realizing his posture and poise indicate a master-tier combatant, though the rest of the Council remains skeptical.",
+      "Master Vaelen proposed a sparring demonstration to the High Council to prove his worth, though his delivery was so intentionally humble and 'rusty' that it was initially met with mockery by Chancellor Peryn.",
+      "Master Vaelen demonstrated his 'remedial' geometry by catching Sir Kaelen's blade with two fingers, shattering the High Court's marble floor and silencing the skeptics.",
+      "Master Vaelen demonstrated his kinetic density in the High Court by blocking live steel barehanded, shattering the marble floor and forcing the Council and Elara Vance to realize the true scale of his power.",
+      "displaying a level of absolute, silent kinetic absorption that bypassed the mathematics of the Weave, leaving the floor untouched and the Council in a state of primitive awe.",
+      "Master Vaelen explained the lethal difference between wooden and steel training while the High Court remained in a state of existential shock after witnessing his silent absorption of live steel.",
+      "The High Council appointed Vaelen as Special Grand Instructor following his barehanded block of live steel, though their approval is rooted in terrified containment while Elara Vance was profoundly awakened to his true, mythic tier.",
+      "Master Vaelen began his tenure at the Elite Training Grounds, identifying structural flaws in the facility and facing immediate resentment from Instructor Brom and the skeptical recruits.",
+      "Elara Vance is a landed Baroness, promoted for her military victories; she earns 200 gp per day, double Vaelen's salary.",
+      "Master Vaelen began his tenure at the Elite Training Grounds by effortlessly neutralizing Instructor Brom's aggressive opening strike, further deepening the shock of those who witnessed his silent kinetic control.",
+      "Correction: Master Vaelen's daily income is 20 gp (half of a Baron's 40 gp baseline), allowing for an Aristocratic lifestyle and modest savings.",
+      "Master Vaelen provided a technical critique of Instructor Brom's over-extended thrust, dealing 2 Social HP damage toward earning his respect while apologizing for his own 'sluggish' evasion.",
+      "Master Vaelen began intensive drills at the Elite Training Grounds, where his high-tier instruction overwhelmed many but found a rare resonance among the Imperial Knights.",
+      "Master Vaelen conducted a high-level sparring demonstration with Sergeant Garrick, inspiring the Imperial Knights while forcing Instructor Brom to confront the visual reality of Vaelen's kinetic geometry.",
+      "Master Vaelen conducted a private training session with Baroness Elara Vance, further shattering her understanding of mortal limits while he remained fixated on his own perceived 'sluggish' calibration.",
+      "Baroness Elara Vance successfully executed her first high-velocity wooden catch under Vaelen's instruction, beginning the long path toward mythic-tier kinetic mastery.",
+      "Master Vaelen increased the intensity of Elara's training, delivering high-velocity wooden strikes that pushed her to maintain her kinetic grounding under pressure.",
+      "Master Vaelen conducted 21 days of elite training in the capital, successfully guiding Baroness Elara Vance to her first high-velocity wooden catch breakthrough while the Thayan Envoy's arrival escalated the geopolitical tension.",
+      "The current Thayan Envoy is a low-ranking official unaware of Vaelen's identity as the Crimson Child, viewing him only as a secondary regional curiosity.",
+      "Master Vaelen arrived at the High Garden for a demonstration before Envoy Malas, a low-ranking Thayan diplomat who is oblivious to Vaelen's identity as the Crimson Child.",
+      "Master Vaelen delivered a breathtakingly perfect demonstration of 'basic' katas before Envoy Malas, further cementing his facade as a high-tier martial artist while hiding his mythic power.",
+      "Vaelen has a secret, evil daughter with Xanthia who has infiltrated his circle to meet him and power up; her identity is currently hidden among six candidates (Mina and five Imperial Trainees).",
+      "Master Vaelen demonstrated the 'Silent Anchor' by barehandedly catching Captain Hestor's critical broadsword strike in the High Throne room, profoundly inspiring the Captain while terrifying the elite trainees.",
+      "Master Vaelen demonstrated 'Kinetic Redirection' by using Captain Hestor's own momentum to strike him non-lethally with the flat of his own blade, profoundly deepening the Captain's awe.",
+      "Master Vaelen provided a clinical analysis of his kinetic redirection to Captain Hestor in the High Throne room, turning a lethal critique into a moment of profound instructional inspiration for the Royal Guard.",
+      "Captain Hestor suffered wounded pride after failing to internalize Vaelen's instruction following their spar, while the arrival of Gideon (Lvl 11) in the capital signals the return of Vaelen's past students.",
+      "Master Vaelen has reunited with Gideon (Lvl 11), a Capped Good Disciple, and agreed to calibrate his training methods to better suit standard students following advice from Gideon and Elara.",
+      "Correction: The graduates of Vaelen's dojo are now referred to as 'Inheritors' (Good) or 'Dark Inheritors' (Evil), replacing the term 'outcast'.",
+      "Master Vaelen attempted to follow Gideon's advice to simplify his training, but his internal calibration resulted in a critical failure that left most recruits overwhelmed, though it profoundly inspired Tamsin, Orla, and Finnian.",
+      "Vaelen has a secret, evil daughter with Xanthia who has infiltrated his circle; her identity is unknown and hidden among the six candidates.",
+      "The Inner Circle dinner at Vaelen's new manor established a fragile bond between the Inheritors and the new Imperial trainees, while the 'Daughter Candidate' mystery remains active under strict secrecy.",
+      "Master Vaelen subconsciously exhibited Thayan high-court etiquette during the Inner Circle dinner, a refinement noticed by Elara Vance that further complicates his humble teacher facade.",
+      "Master Vaelen identified a 'twisted geometry' in the southern trade route massacre, recognizing the kinetic signature of a rogue student while Baroness Elara Vance grapples with the resulting political fallout.",
+      "Knowledge of the link between Vaelen's martial forms and the southern trade route massacre is restricted to high-tier NPCs with arcane or martial expertise; the general council remains technically oblivious.",
+      "Master Vaelen attempted to pivot the inner circle dinner away from technical discussions of the southern massacre, resulting in a divided emotional response among the trainees while maintaining Elara's loyalty.",
+      "Master Vaelen dismissed the candidates after a night of guidance, leaving a divided emotional wake while Baroness Vance and Gideon warned of the High Council's attempt to link Vaelen's methods to the southern massacre.",
+      "Master Vaelen analyzed the southern massacre sketches and confirmed the event was a brutal, tragic slaughter with no identifiable technical link to his own methods or history.",
+      "The Southern Trade Way massacre is recognized by Vaelen, Elara, and Gideon as a tragic, mysterious slaughter with no identifiable technical link to Vaelen's martial methods.",
+      "Master Vaelen achieved a breakthrough in teaching calibration on Flamerule 18, profoundly inspiring the daughter candidates and his original students while deepening the resentment of Instructor Brom.",
+      "Countess Mirabelle approached Master Vaelen with a recruitment offer from her faction within the High Council, masking her fear of his power with promises of 'protection' and 'autonomy' following Elara Vance's departure.",
+      "Master Vaelen politely declined Countess Mirabelle's offer of political alignment, insisting he is merely a teacher, though she recognized his 'rust' as a thin veil for his sovereign-tier power.",
+      "Master Vaelen acknowledged the silent observation of Archmage Selina during his confrontation with Countess Mirabelle, revealing his awareness to both technical and political vipers.",
+      "Vaelen has fully accepted his Level 12 status as his functional reality, abandoning his previous self-deprecating 'rusty' internal monologue for a state of calm, veteran confidence.",
+      "Mina (Lvl 4) and Finnian (Lvl 2) have achieved their first level-ups in the capital, though the density of Vaelen's training continues to strain the psychological limits of the Inheritors.",
+      "Master Vaelen accepted a duel from Archmage Selina but was immediately interrupted by a High Council decree demanding a formal arcane audit of the demonstration.",
+      "The Arcane Audit began in the Vault of Echoes; Archmage Selina successfully perceived Vaelen's kinetic absolute despite his humble facade, while the Council auditors remain technically oblivious.",
+      "Master Vaelen successfully reframed the first phase of the Arcane Audit as an instructional demonstration, using his technical critique to unsettle Archmage Selina while satisfying the Council's safety protocols.",
+      "Master Vaelen challenged Archmage Selina's focus during the Arcane Audit, reframing the demonstration as an instructional session while successfully masking his Thayan prime through technical critiques of her weave.",
+      "Master Vaelen effortlessly neutralized Archmage Selina's tightened sapphire pulse in the Vault of Echoes, treating a Tier-3 magical strike with the indifference of a common breeze while the Council watched in strategic terror.",
+      "Vaelen successfully neutralized Archmage Selina's peak sapphire pulse in the Vault of Echoes, further alarming the technical vipers while proving his kinetic dominance over Tier-3 magic.",
+      "Vaelen successfully neutralized Archmage Selina's peak sapphire weave and challenged the Council to find a line that could touch him, resulting in a total perceptual failure for the Archmage and a state of professional terror for High Chancellor Peryn.",
+      "Master Vaelen has broken the Level 12 Mortal Ceiling during the Arcane Audit, reclaiming a fraction of his Thayan prime through the 'Unmoving Anchor' demonstration.",
+      "Master Vaelen has finalized his transition to Level 13 (Mythic Awakening) in the Vault of Echoes, reclaiming the ability to understand all languages and unlocking 3rd-level arcane frequencies like Haste.",
+      "Master Vaelen received a desperate report that Baroness Elara Vance is cornered by a Dark Inheritor at a watchtower on the Southern Trade Way.",
+      "Master Vaelen has entered the Southern Trade Way ruins alone to rescue Baroness Elara Vance, recognizing the technical signature of Marek, a Dark Inheritor, in the slaughter.",
+      "Master Vaelen intervened at the Southern Watchtower, effortlessly redirecting the strike of Marek, a Dark Inheritor, with a single finger to prove the absolute nature of his restraint.",
+      "Master Vaelen attempted to command the surrender of the Dark Inheritor Marek at the Southern Watchtower, but Marek's existential inadequacy and hunger for the 'summit' resulted in a total resistance to the master's authority.",
+      "Master Vaelen neutralized the Dark Inheritor Marek at the Southern Watchtower, demonstrating the 'Mythic Awakening' through a Hasted, Action-Surged sequence that shattered Marek's porcelain defense non-lethally.",
+      "The Dark Inheritor Marek has been taken prisoner after Vaelen shattered his kinetic center; Baroness Elara Vance is secured, though the technical reality of the slaughter remains a looming political risk.",
+      "Master Vaelen interrogated the Dark Inheritor Marek in the Citadel's dungeons, uncovering a Thayan strategy using rogue students as 'kinetic anchors' to encage the Western Heartlands.",
+      "Master Vaelen offered Marek protection within the Citadel's wards, causing Marek's resistance to yield as he revealed the existence of 'kinetic anchors' Silas and Valara at High Horn and Baldur's Gate.",
+      "Marek revealed that the Dark Inheritors are placing 'kinetic anchors' at strategic points like High Horn and Baldur's Gate to weave a paralyzing cage around the Heartlands during the Blood Moon convergence."
+    ],
+    "faction_minigame": {
+      "suggestion_given": false,
+      "tutorial_progress": {},
+      "strong_suggestion_given": false,
+      "tutorial_completed": false,
+      "enabled": false
+    },
+    "level_up_pending": false,
+    "xanthia_evolution": {
+      "current_level": 18,
+      "target_level": 25,
+      "status": "Infiltration of the Zulkir Council",
+      "objective": "Overthrow Szass Tam"
+    },
+    "completed_missions": [],
+    "campaign_tier": "divine",
+    "universe_control": 0,
+    "polarity_tracking": {
+      "finnian": {
+        "days_trained": 65,
+        "roll_completed": false
+      },
+      "orla": {
+        "days_trained": 55,
+        "roll_completed": false
+      },
+      "calista": {
+        "days_trained": 55,
+        "roll_completed": false
+      },
+      "juna": {
+        "days_trained": 55,
+        "roll_completed": false
+      },
+      "gideon": {
+        "days_trained": 90,
+        "result": "Immune (Graduated)",
+        "roll_completed": true
+      },
+      "tamsin": {
+        "days_trained": 55,
+        "roll_completed": false
+      },
+      "mina": {
+        "days_trained": 65,
+        "roll_completed": false
+      },
+      "lysette": {
+        "days_trained": 55,
+        "roll_completed": false
+      }
+    },
+    "arc_milestones": {},
+    "active_constraints": [
+      "High Council recognizes Vaelen as a high-tier threat; antagonism is driven by fear, containment, and political leverage.",
+      "Public doubt is limited to those who have not witnessed his power; witnesses (Council, Guard) are in a state of strategic alarm.",
+      "Elara acts as a shield against political weaponization/dissection of Vaelen's history.",
+      "ABSOLUTE BAN: Do not generate modest or self-deprecating internal thoughts for Vaelen.",
+      "Vaelen perceives his current skill as elite, functional, and his new baseline; he has moved past the 'perception paradox' of feeling rusty."
+    ],
+    "god_mode": {
+      "setting": "** The Western Heartlands (Post-Baldur\u2019s Gate 3 Era)\n**System Architecture:** Gestalt Tier-2 / Tier-3 Sandbox Integration\n**Tone:** Grounded Martial Arts Noir, Geopolitical Cold War, Narrative Realism\n## SECTION 1: MASTER DESIGN & COSMIC PARAMETERS\n### 1.1 The Axioms of Power (The Level 12 Ceiling)\nAcross the continent of Faer\u00fbn, the fundamental laws governing mortal growth have rigid, structural boundaries.\n * **The Common Baseline:** 95% of the sentient population lives and dies between Levels 1 and 3. A veteran city guard or a career mercenary captain operates at Level 5 or 6.\n * **The Mortal Pinnacle (Level 12):** Level 12 represents the absolute hard ceiling of mortal capability. It is the boundary where biological limits, psychological capacity, and standard spiritual discipline intersect. An individual at Level 12 is a walking nation-state\u2014capable of altering the borders of small principalities, routing entire conventional battalions single-handedly, or dictating the military policy of kingdoms. There are fewer than fifty active Level 12 individuals across the Western Heartlands.\n * **The Mythic Tier Exceptions (Levels 13\u201320):** Breaking past Level 12 requires transcending standard mortal physics entirely. Historically, this is reserved for cosmic anomalies: the direct Chosen of major deities (e.g., Elminster), ancient undead horrors who have bartered away their mortality (e.g., Szass Tam), or extraplanar masterminds. Individuals operating in this mythic tier are fundamentally unanchored from the standard mathematics of the Weave.\n### 1.2 The Anomaly: Master Vaelen\nMaster Vaelen is a historical and structural glitch in the continental balance of power. He was not born of divine bloodlines, nor was he the product of Thayan arcane engineering or test-tube ritualism. He was simply a **pure, unadulterated martial prodigy**.\nDuring the height of Thay\u2019s aggressive territorial expansion twenty years ago, Vaelen\u2019s innate talent for the blade, flawless kinesthetic reaction time, and absolute dedication to physical discipline allowed him to naturally shatter the Mortal Ceiling. By the age of twenty, he had achieved a flawless **Level 20 Gestalt** composition, serving as a frontline General whose very presence on a battlefield guaranteed Thayan dominance.\n * **The Sunder and the Anchor:** Crushed under the psychological weight of the industrialized slaughter he executed for the Red Wizards, Vaelen suffered a profound spiritual and psychological break. He deserted Thay, fled thousands of miles west to the rustic borderlands outside Baldur's Gate, and buried his identity. For twenty years, his overwhelming guilt has acted as a permanent, subconscious psychological anchor.\n * **The Calibration Crisis:** Vaelen\u2019s internal matrix is permanently hardwired to a Level 20 Mythic Tier baseline, while his self-imposed trauma has physically locked his output down to the global mortal maximum of **Level 12 Gestalt**. Because his brain processes combat at supersonic speeds while his body consciously holds back to avoid being a \"monster,\" his calibration is completely broken. He views his current Level 12 state as a pathetic, sluggish, middle-aged failure. He genuinely believes that the world around him is fragile and that his own movements are clumsy, leading to an intense, deeply earnest humility.\n```\n                  [ THE PERCEPTION PARADOX ]\n  \n  VAELEN'S CORE MEMORY                     GLOBAL MORTAL PEAK\n (Level 20 Mythic Gestalt)                (Level 12 Single-Class)\n            \u2502                                        \u2502\n            \u25bc                                        \u25bc\n\"I am sluggish, rusty, and               \"This man is a walking god\n  incapable of basic forms.\"               who manipulates kinetic energy\n                                           with a casual footstep.\"\n\n```\n## SECTION 2: THE DISCIPLES MATRIX (THE TWENTY GRADUATES)\nOver twenty years of running a modest, rustic dojo in the Western Kingdom, hundreds of students have passed through Vaelen\u2019s doors. Because Vaelen calibrates his \"beginner\" curriculum to his own broken Level 20 baseline, 99% of his students suffer from immediate exhaustion, confusion, or injury, leading to a massive attrition rate. The local populace widely considers his dojo a highly eccentric, brutally demanding gamble.\nHowever, exactly **twenty students** possessed the rare biological composition and psychological stubbornness to survive his regime and graduate. These twenty are split into distinct ideological and mechanical networks across the continent.\n### 2.1 The Good Circle (10 Total)\nThe public recognizes this faction as the premier martial elite of the Western Kingdom. They are the primary reason Vaelen's dojo receives a steady stream of ambitious young guards and merchants' children who hope to replicate their success. The public believes these ten individuals were simply born with once-in-a-century natural talent, dismissing Vaelen as an eccentric local babysitter who happened to be in the right place at the right time.\n * **7 Capped Good Disciples (Levels 9\u201312):** High-ranking knights, royal champions, and monastic judges. They are bound by the Level 12 Mortal Ceiling. They hold Vaelen in deep, protective reverence and are perpetually frustrated that the royal court views his training as a historical fluke.\n * **3 Uncapped Good Disciples (Levels 13+):** Natural anomalies who broke past the Level 12 ceiling by fully internalizing Vaelen\u2019s philosophy of absolute physical and spiritual restraint. They are highly isolated, emotionally detached figures who view their own climbing power as a terrifying burden that distances them from the common humanity they protect.\n### 2.2 The Evil Outcasts (10 Total)\nThis faction represents the hidden, structural decay of Vaelen's legacy. They recognize that Vaelen\u2019s training is a systematic method for reaching the absolute peak of mortal capability, and they have weaponized it for personal survival, ambition, or geopolitical leverage.\n * **7 Capped Evil Disciples (Levels 9\u201312):** Syndicate leaders, elite mercenary captains, and rogue warlords capitalizing on the immense power vacuum left behind in the Western Heartlands following the collapse of the Netherbrain in nearby Baldur's Gate. They are openly corrupt but remain firmly bound under the Level 12 Mortal Ceiling.\n * **3 Uncapped Evil Infiltrators (Levels 13+ / The Deep-Cover Parasites):** The most dangerous entities in the Western Hemisphere. They do not seek open conquest or global chaos; their motive is entirely selfish and analytical: **they want to keep powering up**. They have flawlessly infiltrated the Good Circle, wearing the masks of Vaelen's most gentle, loving, and supportive students. They use this proximity to manipulate his intense humility and guilt, coaxing him into demonstrating advanced, mythic-tier techniques that they copy and internalize.\n### 2.3 The Imperial Thayan Pinnacle (3 Total)\n * **The Triumvirate:** Levels 17\u201320, Non-Gestalt, Immortal. These three individuals were Vaelen\u2019s original top military lieutenants or most brilliant students during his time as a Thayan General. When he fled, they seized the administrative and military levers of the empire. They used dark pacts, ancient necromancy, and high-tier stasis arcana to achieve biological immortality, transforming Thay into an aggressively expanded, deeply fortified superpower that dominates surrounding territories through ironclad economic monopolies and vast shadow spy networks.\n## SECTION 3: THE THREE-WAY COLD WAR ARCHITECTURE\nThe campaign does not operate on a simple \"Heroes vs. Villains\" axis. Instead, it is governed by a complex, multi-layered intelligence deadlock where all three primary factions are paradoxically aligned toward the exact same operational objective: **Keep Master Vaelen\u2019s identity completely buried from the world.**\n```\n                     [ THE SECRECY DEADLOCK ]\n                     \n         \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n         \u25bc                              \u25bc                              \u25bc\n THE 3 INFILTRATORS             THE GOOD DISCIPLES             THE THAYAN PINNACLE\n(Keep Vaelen hidden to         (Keep Vaelen hidden to         (Keep Vaelen hidden to\n monopolize his secrets.)       protect his peace.)            avoid waking a monster.)\n\n```\n### 3.1 Faction Operational Directives\n#### Faction A: The 3 Imperial Thayan Disciples (The Containment Bureau)\n * **The Core Psychology:** Absolute, institutional terror. The Immortal Triumvirate remembers exactly what Vaelen was capable of when his natural Level 20 Gestalt matrix was fully functional. They are acutely aware that because they are single-classed, a fully awakened Vaelen could single-handedly collapse their entire imperial hierarchy if he ever decided that Thay was an evil entity that required cleansing.\n * **The Standing Mandate:** The **Thayan Zero-Engagement Directive**. Every deep-cover Thayan asset, spy-ring leader, and assassination cell operating in the Western Kingdom is under strict orders: *Never approach Vaelen, never challenge him, and never engage him in combat.* Provoking him risks triggering a life-or-death survival instinct that could break his psychological locks and wake the monster up.\n * **The Enforcement Protocol:** To maintain this containment, Thayan shadow units act as a brutal, invisible cleanup crew. If anyone in the Western Kingdom discovers Vaelen\u2019s true identity as the Crimson Child, Thayan black-ops squads will immediately deploy to slaughter them. Thay is actively murdering people to keep Vaelen safely asleep as a peaceful turnip farmer.\n#### Faction B: The 3 Uncapped Evil Infiltrators (The Parasitic Network)\n * **The Core Psychology:** Strategic calculated leeching. They view Vaelen as an infinite wellspring of ultimate power. They know that if his cover is blown, either Thay will launch a catastrophic preemptive strike to bury the region, or the high lords of the Sword Coast will attempt to force him into service as a military weapon, destroying their private access to his mind.\n * **The Operational Strategy:** They perfectly mirror the behaviors of the Good Disciples. They help paint the dojo, check on his health, and bring him rare magical items masked as \"cheap market junk\" so his humble nature will accept them. They aggressively suppress information from within the kingdom, using their deep-cover agents to assassinate any rival warlords or lower-tier evil disciples who get too close to uncovering Vaelen's past.\n#### Faction C: The 10 Good Disciples (The Imperial Promoters)\n * **The Core Psychology:** Fierce, protective loyalty. Led by high-ranking figures such as Commander Elara Vance of the Imperial Guard, they see Vaelen as a saintly, peaceful grandmaster who is being unfairly dismissed by a skeptical public.\n * **The Operational Strategy:** Recognizing the rising geopolitical instability following the fall of the Absolute, they want to bring Vaelen into the cultural and military heart of the Western Kingdom's capital. They intend to install him as the **Special Grand Instructor** of the Crown's elite forces. They believe that by housing him in the center of the imperial citadel, they can give him a comfortable retirement, protect him from low-level local violence, and utilize his \"remedial\" training methods to build an army capable of deterring foreign threats.\n## SECTION 4: THE CAMPAIGN STRUCTURE (ACT-BY-ACT BLUEPRINT)\nThis campaign blueprint is organized into a modular three-act structure designed for a sandbox environment. Rather than following a linear path, the party navigates a web of clues, where combat encounters often double as intelligence gathering.\n### ACT I: THE REED-CUTTER\u2019S HEIRLOOM\n * **Setting:** The rustic valleys, low farmlands, and marshy trade-routes of the Western Kingdom\u2019s outskirts. The local economy is struggling with an influx of war refugees, broken cult deserters, and low-tier mercenary bands fleeing the ruins of Baldur's Gate.\n * **The Party's Integration:** The player characters begin as intermediate students or workers at Vaelen\u2019s modest countryside dojo. They are familiar with his demanding physical regime and his frustratingly humble attitude. They watch as the dojo experiences a steady influx of hopeful recruits who inevitably quit within a month, keeping the dojo's finances locked in a tight, working-class struggle.\n * **The Catalyst:** A low-tier rogue group\u2014remnants of an Absolute cult cell or a greedy local mercenary band\u2014attempts to extort Vaelen\u2019s village for food and property. They hold a deep-cover Thayan trade ledger or a piece of ancient scrap metal that contains dangerous geographical markers.\n * **The Mechanical Highlight:** Vaelen is forced to intervene in a minor skirmish to protect a player character. The DM must execute this encounter using the **Uncalibrated Output** rules (see Section 5). Vaelen clumsily stumbles or uses a completely mundane movement that accidentally shatters the villain's masterwork steel weapon into iron filings, before instantly apologizing and offering the bewildered survivor a bowl of turnip soup.\n * **The Act Climax:** The local escalation draws the attention of the capital. A luxurious Imperial Guard carriage arrives in the rural village, bearing an official summon from **Commander Elara Vance**. She has successfully leveraged her political clout to invite Vaelen to the capital city to assume the mantle of Special Grand Instructor. Vaelen, completely convinced he is about to be audited for tax evasion or sued for a training injury, packs a sack of moldy potatoes and asks the party to accompany him as his \"assistants\" so they can protect him from the scary city politicians.\n```\n                    [ ACT I FLOW ARCHITECTURE ]\n  \n   [Dojo Daily Operations] \u2500\u2500\u25ba [Local Extortion Event] \u2500\u2500\u25ba [The Uncalibrated Snap]\n                                                                    \u2502\n   [Departure to Capital]  \u25c4\u2500\u2500 [Arrival of Imperial Guard] \u25c4\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518\n\n```\n### ACT II: THE CAPITAL CHESSBOARD\n * **Setting:** The sprawling stone citadel, political courts, and high-tier military academies of the Western Kingdom\u2019s capital city.\n * **The Political Sandbox:** Vaelen is installed in the grand training yards of the royal palace. The nobility views him with deep skepticism, believing he is a senile country fraud whom Commander Elara brought in out of misplaced childhood sentimentality. The player characters are tasked with running his daily classes, translating his bizarre agricultural analogies (*\"Swing the halberd like you're clearing rocks from a turnip patch\"*) into actual tactical instructions for the elite recruits.\n * **The Deepening Shadow:** The party begins to uncover a series of highly sophisticated, blood-chilling assassinations within the capital. High-ranking merchants, visiting diplomats, and foreign scouts are being found dead in the gutters\u2014their bodies showing signs of high-density kinetic trauma or precise Thayan death magic.\n * **The Investigation Layer:** The party realizes they are walking through an invisible warzone. They track a lead on an evil faction plot, only to arrive at the villain's safehouse and find it completely wiped out by an anonymous Thayan black-ops unit. The party must use investigative skills to deduce that someone is violently erasing anyone who investigates Vaelen's past.\n * **The Mechanical Progression:** Levels are incredibly rare. As the party edges closer to Level 9, Vaelen begins to experience minor \"amnesia clearances.\" Every major threat forces his subconscious mind to release a fraction of his old Thayan muscle memory, transitioning him from a clumsy old man into a terrifyingly precise, silent executioner for a split second, followed by severe bouts of psychological guilt and panic attacks.\n### ACT III: THE SHATTERED CELING\n * **Setting:** The ruined border keeps along the Chionthar River and the deep-cover infiltration hubs connecting the Western Kingdom to the frontiers of the expanded Thayan Empire.\n * **The Convergence:** The structural deadlock collapses. The **3 Uncapped Evil Infiltrators** realize that Vaelen's proximity to the capital's high-arcane infrastructure is running a high risk of exposure. They begin accelerating their timeline to isolate Vaelen, planning to stage a massive state crisis that forces him to unleash his full Level 20 capabilities so they can witness and steal the final, cosmic equations of his *Ki* manipulation.\n * **The Thayan Intervention:** Recognizing that the Western Masterminds are on the verge of waking the Crimson Child, the **3 Imperial Thayan Disciples** break their cold-war posture. They bypass their own Zero-Engagement Directive by deploying ancient, high-tier immortal constructs and deep-cover death-squads directly into the kingdom\u2019s borders with a explicit command: *Exterminate the rogue disciples before they compromise the containment.*\n * **The Final Conflict:** The party is thrust into a morally grey, high-tier confrontation where the lines between ally and enemy are completely erased. They must defend a deeply traumatized, guilt-ridden Vaelen from both his most devoted, power-hungry students and the terrifying, god-like shadow assets of his past empire, ultimately deciding whether to help their master permanently bury his lethal legacy or force him to reclaim his mythic peak to save the realm from total structural collapse.\n## SECTION 5: SPECIAL NARRATIVE & MECHANICAL ENGINE RULES\nTo capture the precise, grounded martial arts tone of this campaign, the DM must implement three custom mechanical systems that override standard D&D 5e/Baldur's Gate 3 rules.\n### 5.1 The Uncalibrated Output System\nWhenever Vaelen is forced to react in combat while running his psychological blocks, his mechanical output is governed by an extreme disconnect between his internal intention and his physical execution.\n```\n[TACTICAL RESOLUTION EXAMPLE]\nAn elite assassin targets Vaelen with a critical melee strike. \nVaelen spends 1 Ki point to execute a \"Deflect Melee Strike\" reaction.\n\nCalculation: 1d10 + 5 (Dexterity) + 12 (Monk Level) = 22 Damage Reduced.\nIf incoming damage is reduced to 0, Vaelen catches the blade bare-handed.\n\nThe Narrative Resolution:\nVaelen's muscle memory stops the attack with two fingers. His brain processes \nthis as a sluggish, narrow escape. The kinetic shockwave of the stopped blow \nis channeled down into the earth, entirely shattering the 10-foot radius of \nstone tiles beneath his feet while leaving his skin unmarked.\n\n```\n### 5.2 The Nature vs. Nurture Dialogue Engine\nWhen interacting with NPC students, guards, and noblemen in the capital, the DM must actively enforce the **Prodigy Theory** in all social dialogue.\n * **The Rule of Dismissal:** No matter how spectacular a player character or a good disciple performs in public, the NPC nobility must always attribute the success to the individual's \"freakish natural genetics\" rather than Vaelen's instruction.\n * **The Mechanical Translation:** If a player character uses a technique learned at the dojo to defeat a high-tier monster, the court wizards should comment: *\"A fascinating display of innate biological talent! It is a miracle that such a gifted young warrior wasted their formative years sweeping floors for that old valley farmer before finding their true calling.\"* This keeps Vaelen safely insulated in his own self-doubt and maintains his working-class reputation.\n### 5.3 The Post-War \"Scrap Metal\" Economy\nFollowing the catastrophic events of the Netherbrain's fall in Baldur's Gate, the countryside is littered with dangerous, volatile historical junk. The DM should replace standard magical treasure tables with realistic, high-risk alternatives.\n * **The Scavenger Economy:** The items found in bandit hoards or merchant caravans are not pristine relics; they are fractured pieces of mind-flayer technology, broken Thayan spell-scrolls, or cursed cult ironwork. Local populations are actively digging up these hazardous artifacts simply to sell them for basic food and livestock feed, creating a gritty, economically depressed environment where the line between a petty criminal and a starving peasant is entirely non-existent.\n## SECTION 6: STATISTICAL BLUEPRINT & DAMAGE MODELS\n### 6.1 Master Vaelen (Level 12 Gestalt Baseline)\n*Medium Humanoid (Prodigy), Lawful Good (with Severe Trauma)*\n * **Armor Class:** 20 (Unarmored Defense: 10 + 5\\ \text{Dexterity} + 5\\ \text{Wisdom})\n * **Hit Points:** 124 (12d10 hit dice + constitution modifications)\n * **Speed:** 55 ft. (Base 30 ft. + Monk Unarmored Movement 25 ft.)",
+      "character": {
+        "name": "Vaelen"
+      },
+      "description": "Read through this prompt but you dont need to 100% follow it. Give ideas/suggestions\n\n# THE RUST-BOUND BLADE: A GROUNDED GEOPOLITICAL CAMPAIGN BIBLE\n**Setting:** The Western Heartlands (Post-Baldur\u2019s Gate 3 Era)\n**System Architecture:** Gestalt Tier-2 / Tier-3 Sandbox Integration\n**Tone:** Grounded Martial Arts Noir, Geopolitical Cold War, Narrative Realism\n## SECTION 1: MASTER DESIGN & COSMIC PARAMETERS\n### 1.1 The Axioms of Power (The Level 12 Ceiling)\nAcross the continent of Faer\u00fbn, the fundamental laws governing mortal growth have rigid, structural boundaries.\n * **The Common Baseline:** 95% of the sentient population lives and dies between Levels 1 and 3. A veteran city guard or a career mercenary captain operates at Level 5 or 6.\n * **The Mortal Pinnacle (Level 12):** Level 12 represents the absolute hard ceiling of mortal capability. It is the boundary where biological limits, psychological capacity, and standard spiritual discipline intersect. An individual at Level 12 is a walking nation-state\u2014capable of altering the borders of small principalities, routing entire conventional battalions single-handedly, or dictating the military policy of kingdoms. There are fewer than fifty active Level 12 individuals across the Western Heartlands.\n * **The Mythic Tier Exceptions (Levels 13\u201320):** Breaking past Level 12 requires transcending standard mortal physics entirely. Historically, this is reserved for cosmic anomalies: the direct Chosen of major deities (e.g., Elminster), ancient undead horrors who have bartered away their mortality (e.g., Szass Tam), or extraplanar masterminds. Individuals operating in this mythic tier are fundamentally unanchored from the standard mathematics of the Weave.\n### 1.2 The Anomaly: Master Vaelen\nMaster Vaelen is a historical and structural glitch in the continental balance of power. He was not born of divine bloodlines, nor was he the product of Thayan arcane engineering or test-tube ritualism. He was simply a **pure, unadulterated martial prodigy**.\nDuring the height of Thay\u2019s aggressive territorial expansion twenty years ago, Vaelen\u2019s innate talent for the blade, flawless kinesthetic reaction time, and absolute dedication to physical discipline allowed him to naturally shatter the Mortal Ceiling. By the age of twenty, he had achieved a flawless **Level 20 Gestalt** composition, serving as a frontline General whose very presence on a battlefield guaranteed Thayan dominance.\n * **The Sunder and the Anchor:** Crushed under the psychological weight of the industrialized slaughter he executed for the Red Wizards, Vaelen suffered a profound spiritual and psychological break. He deserted Thay, fled thousands of miles west to the rustic borderlands outside Baldur's Gate, and buried his identity. For twenty years, his overwhelming guilt has acted as a permanent, subconscious psychological anchor.\n * **The Calibration Crisis:** Vaelen\u2019s internal matrix is permanently hardwired to a Level 20 Mythic Tier baseline, while his self-imposed trauma has physically locked his output down to the global mortal maximum of **Level 12 Gestalt**. Because his brain processes combat at supersonic speeds while his body consciously holds back to avoid being a \"monster,\" his calibration is completely broken. He views his current Level 12 state as a pathetic, sluggish, middle-aged failure. He genuinely believes that the world around him is fragile and that his own movements are clumsy, leading to an intense, deeply earnest humility.\n```\n                  [ THE PERCEPTION PARADOX ]\n  \n  VAELEN'S CORE MEMORY                     GLOBAL MORTAL PEAK\n (Level 20 Mythic Gestalt)                (Level 12 Single-Class)\n            \u2502                                        \u2502\n            \u25bc                                        \u25bc\n\"I am sluggish, rusty, and               \"This man is a walking god\n  incapable of basic forms.\"               who manipulates kinetic energy\n                                           with a casual footstep.\"\n\n```\n## SECTION 2: THE DISCIPLES MATRIX (THE TWENTY GRADUATES)\nOver twenty years of running a modest, rustic dojo in the Western Kingdom, hundreds of students have passed through Vaelen\u2019s doors. Because Vaelen calibrates his \"beginner\" curriculum to his own broken Level 20 baseline, 99% of his students suffer from immediate exhaustion, confusion, or injury, leading to a massive attrition rate. The local populace widely considers his dojo a highly eccentric, brutally demanding gamble.\nHowever, exactly **twenty students** possessed the rare biological composition and psychological stubbornness to survive his regime and graduate. These twenty are split into distinct ideological and mechanical networks across the continent.\n### 2.1 The Good Circle (10 Total)\nThe public recognizes this faction as the premier martial elite of the Western Kingdom. They are the primary reason Vaelen's dojo receives a steady stream of ambitious young guards and merchants' children who hope to replicate their success. The public believes these ten individuals were simply born with once-in-a-century natural talent, dismissing Vaelen as an eccentric local babysitter who happened to be in the right place at the right time.\n * **7 Capped Good Disciples (Levels 9\u201312):** High-ranking knights, royal champions, and monastic judges. They are bound by the Level 12 Mortal Ceiling. They hold Vaelen in deep, protective reverence and are perpetually frustrated that the royal court views his training as a historical fluke.\n * **3 Uncapped Good Disciples (Levels 13+):** Natural anomalies who broke past the Level 12 ceiling by fully internalizing Vaelen\u2019s philosophy of absolute physical and spiritual restraint. They are highly isolated, emotionally detached figures who view their own climbing power as a terrifying burden that distances them from the common humanity they protect.\n### 2.2 The Evil Outcasts (10 Total)\nThis faction represents the hidden, structural decay of Vaelen's legacy. They recognize that Vaelen\u2019s training is a systematic method for reaching the absolute peak of mortal capability, and they have weaponized it for personal survival, ambition, or geopolitical leverage.\n * **7 Capped Evil Disciples (Levels 9\u201312):** Syndicate leaders, elite mercenary captains, and rogue warlords capitalizing on the immense power vacuum left behind in the Western Heartlands following the collapse of the Netherbrain in nearby Baldur's Gate. They are openly corrupt but remain firmly bound under the Level 12 Mortal Ceiling.\n * **3 Uncapped Evil Infiltrators (Levels 13+ / The Deep-Cover Parasites):** The most dangerous entities in the Western Hemisphere. They do not seek open conquest or global chaos; their motive is entirely selfish and analytical: **they want to keep powering up**. They have flawlessly infiltrated the Good Circle, wearing the masks of Vaelen's most gentle, loving, and supportive students. They use this proximity to manipulate his intense humility and guilt, coaxing him into demonstrating advanced, mythic-tier techniques that they copy and internalize.\n### 2.3 The Imperial Thayan Pinnacle (3 Total)\n * **The Triumvirate:** Levels 17\u201320, Non-Gestalt, Immortal. These three individuals were Vaelen\u2019s original top military lieutenants or most brilliant students during his time as a Thayan General. When he fled, they seized the administrative and military levers of the empire. They used dark pacts, ancient necromancy, and high-tier stasis arcana to achieve biological immortality, transforming Thay into an aggressively expanded, deeply fortified superpower that dominates surrounding territories through ironclad economic monopolies and vast shadow spy networks.\n## SECTION 3: THE THREE-WAY COLD WAR ARCHITECTURE\nThe campaign does not operate on a simple \"Heroes vs. Villains\" axis. Instead, it is governed by a complex, multi-layered intelligence deadlock where all three primary factions are paradoxically aligned toward the exact same operational objective: **Keep Master Vaelen\u2019s identity completely buried from the world.**\n```\n                     [ THE SECRECY DEADLOCK ]\n                     \n         \u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n         \u25bc                              \u25bc                              \u25bc\n THE 3 INFILTRATORS             THE GOOD DISCIPLES             THE THAYAN PINNACLE\n(Keep Vaelen hidden to         (Keep Vaelen hidden to         (Keep Vaelen hidden to\n monopolize his secrets.)       protect his peace.)            avoid waking a monster.)\n\n```\n### 3.1 Faction Operational Directives\n#### Faction A: The 3 Imperial Thayan Disciples (The Containment Bureau)\n * **The Core Psychology:** Absolute, institutional terror. The Immortal Triumvirate remembers exactly what Vaelen was capable of when his natural Level 20 Gestalt matrix was fully functional. They are acutely aware that because they are single-classed, a fully awakened Vaelen could single-handedly collapse their entire imperial hierarchy if he ever decided that Thay was an evil entity that required cleansing.\n * **The Standing Mandate:** The **Thayan Zero-Engagement Directive**. Every deep-cover Thayan asset, spy-ring leader, and assassination cell operating in the Western Kingdom is under strict orders: *Never approach Vaelen, never challenge him, and never engage him in combat.* Provoking him risks triggering a life-or-death survival instinct that could break his psychological locks and wake the monster up.\n * **The Enforcement Protocol:** To maintain this containment, Thayan shadow units act as a brutal, invisible cleanup crew. If anyone in the Western Kingdom discovers Vaelen\u2019s true identity as the Crimson Child, Thayan black-ops squads will immediately deploy to slaughter them. Thay is actively murdering people to keep Vaelen safely asleep as a peaceful turnip farmer.\n#### Faction B: The 3 Uncapped Evil Infiltrators (The Parasitic Network)\n * **The Core Psychology:** Strategic calculated leeching. They view Vaelen as an infinite wellspring of ultimate power. They know that if his cover is blown, either Thay will launch a catastrophic preemptive strike to bury the region, or the high lords of the Sword Coast will attempt to force him into service as a military weapon, destroying their private access to his mind.\n * **The Operational Strategy:** They perfectly mirror the behaviors of the Good Disciples. They help paint the dojo, check on his health, and bring him rare magical items masked as \"cheap market junk\" so his humble nature will accept them. They aggressively suppress information from within the kingdom, using their deep-cover agents to assassinate any rival warlords or lower-tier evil disciples who get too close to uncovering Vaelen's past.\n#### Faction C: The 10 Good Disciples (The Imperial Promoters)\n * **The Core Psychology:** Fierce, protective loyalty. Led by high-ranking figures such as Commander Elara Vance of the Imperial Guard, they see Vaelen as a saintly, peaceful grandmaster who is being unfairly dismissed by a skeptical public.\n * **The Operational Strategy:** Recognizing the rising geopolitical instability following the fall of the Absolute, they want to bring Vaelen into the cultural and military heart of the Western Kingdom's capital. They intend to install him as the **Special Grand Instructor** of the Crown's elite forces. They believe that by housing him in the center of the imperial citadel, they can give him a comfortable retirement, protect him from low-level local violence, and utilize his \"remedial\" training methods to build an army capable of deterring foreign threats.\n## SECTION 4: THE CAMPAIGN STRUCTURE (ACT-BY-ACT BLUEPRINT)\nThis campaign blueprint is organized into a modular three-act structure designed for a sandbox environment. Rather than following a linear path, the party navigates a web of clues, where combat encounters often double as intelligence gathering.\n### ACT I: THE REED-CUTTER\u2019S HEIRLOOM\n * **Setting:** The rustic valleys, low farmlands, and marshy trade-routes of the Western Kingdom\u2019s outskirts. The local economy is struggling with an influx of war refugees, broken cult deserters, and low-tier mercenary bands fleeing the ruins of Baldur's Gate.\n * **The Party's Integration:** The player characters begin as intermediate students or workers at Vaelen\u2019s modest countryside dojo. They are familiar with his demanding physical regime and his frustratingly humble attitude. They watch as the dojo experiences a steady influx of hopeful recruits who inevitably quit within a month, keeping the dojo's finances locked in a tight, working-class struggle.\n * **The Catalyst:** A low-tier rogue group\u2014remnants of an Absolute cult cell or a greedy local mercenary band\u2014attempts to extort Vaelen\u2019s village for food and property. They hold a deep-cover Thayan trade ledger or a piece of ancient scrap metal that contains dangerous geographical markers.\n * **The Mechanical Highlight:** Vaelen is forced to intervene in a minor skirmish to protect a player character. The DM must execute this encounter using the **Uncalibrated Output** rules (see Section 5). Vaelen clumsily stumbles or uses a completely mundane movement that accidentally shatters the villain's masterwork steel weapon into iron filings, before instantly apologizing and offering the bewildered survivor a bowl of turnip soup.\n * **The Act Climax:** The local escalation draws the attention of the capital. A luxurious Imperial Guard carriage arrives in the rural village, bearing an official summon from **Commander Elara Vance**. She has successfully leveraged her political clout to invite Vaelen to the capital city to assume the mantle of Special Grand Instructor. Vaelen, completely convinced he is about to be audited for tax evasion or sued for a training injury, packs a sack of moldy potatoes and asks the party to accompany him as his \"assistants\" so they can protect him from the scary city politicians.\n```\n                    [ ACT I FLOW ARCHITECTURE ]\n  \n   [Dojo Daily Operations] \u2500\u2500\u25ba [Local Extortion Event] \u2500\u2500\u25ba [The Uncalibrated Snap]\n                                                                    \u2502\n   [Departure to Capital]  \u25c4\u2500\u2500 [Arrival of Imperial Guard] \u25c4\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518\n\n```\n### ACT II: THE CAPITAL CHESSBOARD\n * **Setting:** The sprawling stone citadel, political courts, and high-tier military academies of the Western Kingdom\u2019s capital city.\n * **The Political Sandbox:** Vaelen is installed in the grand training yards of the royal palace. The nobility views him with deep skepticism, believing he is a senile country fraud whom Commander Elara brought in out of misplaced childhood sentimentality. The player characters are tasked with running his daily classes, translating his bizarre agricultural analogies (*\"Swing the halberd like you're clearing rocks from a turnip patch\"*) into actual tactical instructions for the elite recruits.\n * **The Deepening Shadow:** The party begins to uncover a series of highly sophisticated, blood-chilling assassinations within the capital. High-ranking merchants, visiting diplomats, and foreign scouts are being found dead in the gutters\u2014their bodies showing signs of high-density kinetic trauma or precise Thayan death magic.\n * **The Investigation Layer:** The party realizes they are walking through an invisible warzone. They track a lead on an evil faction plot, only to arrive at the villain's safehouse and find it completely wiped out by an anonymous Thayan black-ops unit. The party must use investigative skills to deduce that someone is violently erasing anyone who investigates Vaelen's past.\n * **The Mechanical Progression:** Levels are incredibly rare. As the party edges closer to Level 9, Vaelen begins to experience minor \"amnesia clearances.\" Every major threat forces his subconscious mind to release a fraction of his old Thayan muscle memory, transitioning him from a clumsy old man into a terrifyingly precise, silent executioner for a split second, followed by severe bouts of psychological guilt and panic attacks.\n### ACT III: THE SHATTERED CELING\n * **Setting:** The ruined border keeps along the Chionthar River and the deep-cover infiltration hubs connecting the Western Kingdom to the frontiers of the expanded Thayan Empire.\n * **The Convergence:** The structural deadlock collapses. The **3 Uncapped Evil Infiltrators** realize that Vaelen's proximity to the capital's high-arcane infrastructure is running a high risk of exposure. They begin accelerating their timeline to isolate Vaelen, planning to stage a massive state crisis that forces him to unleash his full Level 20 capabilities so they can witness and steal the final, cosmic equations of his *Ki* manipulation.\n * **The Thayan Intervention:** Recognizing that the Western Masterminds are on the verge of waking the Crimson Child, the **3 Imperial Thayan Disciples** break their cold-war posture. They bypass their own Zero-Engagement Directive by deploying ancient, high-tier immortal constructs and deep-cover death-squads directly into the kingdom\u2019s borders with a explicit command: *Exterminate the rogue disciples before they compromise the containment.*\n * **The Final Conflict:** The party is thrust into a morally grey, high-tier confrontation where the lines between ally and enemy are completely erased. They must defend a deeply traumatized, guilt-ridden Vaelen from both his most devoted, power-hungry students and the terrifying, god-like shadow assets of his past empire, ultimately deciding whether to help their master permanently bury his lethal legacy or force him to reclaim his mythic peak to save the realm from total structural collapse.\n## SECTION 5: SPECIAL NARRATIVE & MECHANICAL ENGINE RULES\nTo capture the precise, grounded martial arts tone of this campaign, the DM must implement three custom mechanical systems that override standard D&D 5e/Baldur's Gate 3 rules.\n### 5.1 The Uncalibrated Output System\nWhenever Vaelen is forced to react in combat while running his psychological blocks, his mechanical output is governed by an extreme disconnect between his internal intention and his physical execution.\n```\n[TACTICAL RESOLUTION EXAMPLE]\nAn elite assassin targets Vaelen with a critical melee strike. \nVaelen spends 1 Ki point to execute a \"Deflect Melee Strike\" reaction.\n\nCalculation: 1d10 + 5 (Dexterity) + 12 (Monk Level) = 22 Damage Reduced.\nIf incoming damage is reduced to 0, Vaelen catches the blade bare-handed.\n\nThe Narrative Resolution:\nVaelen's muscle memory stops the attack with two fingers. His brain processes \nthis as a sluggish, narrow escape. The kinetic shockwave of the stopped blow \nis channeled down into the earth, entirely shattering the 10-foot radius of \nstone tiles beneath his feet while leaving his skin unmarked.\n\n```\n### 5.2 The Nature vs. Nurture Dialogue Engine\nWhen interacting with NPC students, guards, and noblemen in the capital, the DM must actively enforce the **Prodigy Theory** in all social dialogue.\n * **The Rule of Dismissal:** No matter how spectacular a player character or a good disciple performs in public, the NPC nobility must always attribute the success to the individual's \"freakish natural genetics\" rather than Vaelen's instruction.\n * **The Mechanical Translation:** If a player character uses a technique learned at the dojo to defeat a high-tier monster, the court wizards should comment: *\"A fascinating display of innate biological talent! It is a miracle that such a gifted young warrior wasted their formative years sweeping floors for that old valley farmer before finding their true calling.\"* This keeps Vaelen safely insulated in his own self-doubt and maintains his working-class reputation.\n### 5.3 The Post-War \"Scrap Metal\" Economy\nFollowing the catastrophic events of the Netherbrain's fall in Baldur's Gate, the countryside is littered with dangerous, volatile historical junk. The DM should replace standard magical treasure tables with realistic, high-risk alternatives.\n * **The Scavenger Economy:** The items found in bandit hoards or merchant caravans are not pristine relics; they are fractured pieces of mind-flayer technology, broken Thayan spell-scrolls, or cursed cult ironwork. Local populations are actively digging up these hazardous artifacts simply to sell them for basic food and livestock feed, creating a gritty, economically depressed environment where the line between a petty criminal and a starving peasant is entirely non-existent.\n## SECTION 6: STATISTICAL BLUEPRINT & DAMAGE MODELS\n### 6.1 Master Vaelen (Level 12 Gestalt Baseline)\n*Medium Humanoid (Prodigy), Lawful Good (with Severe Trauma)*\n * **Armor Class:** 20 (Unarmored Defense: 10 + 5\\ \\text{Dexterity} + 5\\ \\text{Wisdom})\n * **Hit Points:** 124 (12d10 hit dice + constitution modifications)\n * **Speed:** 55 ft. (Base 30 ft. + Monk Unarmored Movement 25 ft.)\n| STR | DEX | CON | INT | WIS | CHA |\n|---|---|---|---|---|---|\n| 12 (+1) | 20 (+5) | 14 (+2) | 14 (+2) | 20 (+5) | 10 (+0) |\n * **Saving Throws:** Strength +6, Dexterity +10, Wisdom +10 (Monk Diamond Soul adaptation tracking).\n * **Skills:** Acrobatics +10, Athletics +6, History +7, Insight +10, Perception +10, Stealth +10.\n * **Special Passive - Uncalibrated Rhythm:** Every consecutive melee strike Vaelen lands on a single target within a single round builds kinetic resonance. Each consecutive hit adds a cumulative +1 flat bonus to his attack and damage rolls (stacking up to a maximum equal to his Dexterity modifier of +5).\n### 6.2 The Apex Damage Matrix (The \"Hold Back\" Calibration)\nWhen Vaelen\u2019s subconscious child-soldier instincts temporarily override his mental blocks during a high-stakes round in Act II or Act III, his combat round utilizes a combined **Eldritch Knight Extra Attack (3 Strikes)**, **Action Surge (3 Strikes)**, and **Way of the Kensei Flurry of Blows (2 Weapon-Channeled Strikes)**.\n * **Active Buff State:** *Spirit Shroud* is running via a 2nd-level Eldritch Knight slot (adds 1d8 radiant/necrotic damage per hit). His Kensei weapon is infused via *Sharpen the Blade* (expending 3 Ki points to grant a flat +3 bonus to attack and damage rolls).\n#### The 8-Hit Mechanical Cascade:\n```\n[DAMAGE MODEL BREAKDOWN - LEVEL 12 PEAK PROBABILITY]\n\nBase Weapon: Versatile Iron-Wood Longsword (Kensei Weapon / Dex-Based)\nFlat Modifiers per Strike: +5 (Dexterity) +3 (Sharpen the Blade) = +8 Damage\n\n1. Strike 1: 1d10 (Weapon) + 8 (Flat) + 1d8 (Spirit Shroud)\n2. Strike 2: 1d10 (Weapon) + 8 (Flat) + 1d8 (Spirit Shroud) + 1 (Uncalibrated Stacking)\n3. Strike 3: 1d10 (Weapon) + 8 (Flat) + 1d8 (Spirit Shroud) + 2 (Uncalibrated Stacking)\n4. Strike 4: 1d10 (Weapon) + 8 (Flat) + 1d8 (Spirit Shroud) + 3 (Uncalibrated Stacking)\n5. Strike 5: 1d10 (Weapon) + 8 (Flat) + 1d8 (Spirit Shroud) + 4 (Uncalibrated Stacking)\n6. Strike 6: 1d10 (Weapon) + 8 (Flat) + 1d8 (Spirit Shroud) + 5 (Uncalibrated Stacking)\n7. Strike 7 (Flurry): 1d10 (Kensei-Channeled) + 8 (Flat) + 1d8 (Spirit Shroud) + 5 (Max Stack)\n8. Strike 8 (Flurry): 1d10 (Kensei-Channeled) + 8 (Flat) + 1d8 (Spirit Shroud) + 5 (Max Stack) + 1d6 (Deft Strike Ki Burst)\n\n```\n#### Cumulative Damage Statistical Yield:\n * **The Visual Reality:** To any external observer, Vaelen has not executed a frantic sequence of strikes. He simply makes a single, clean, fluid motion with his practice blade to clear a cobweb or shake a drop of water off the tip. The kinetic density of the movement creates a vacuum pocket that cleanly disintegrates the target's armor, throwing them thirty feet through the dojo infrastructure. Vaelen will immediately look down at his hands with an expression of intense self-loathing, muttering: *\"Ah, look at that. My grip was entirely off center. I completely ruined my form. I am getting far too old for this.\"*\n## SECTION 7: RUNNING THE BLIND-CAMPAIGN PROTOCOL (DM ONLY)\nTo successfully run this campaign template through an AI orchestration engine or a live DM layout, the **Blind-Campaign Protocol** must remain strictly active.\n```\n[DEEP ARCHIVE SYSTEM STATE - LOCK CODES]\n- 3 UNCAPPED GOOD DISCIPLES: [ENCRYPTED]\n- 7 STANDARD EVIL DISCIPLES: [IDENTIFIED IN REGIONAL SANDBOX TABLES]\n- 3 UNCAPPED EVIL INFILTRATORS: [IDENTITY MATRIX HIDDEN IN THE GOOD CIRCLE]\n- 3 IMPERIAL THAYAN DISCIPLES: [HISTORICAL OVERLAYS SECURED]\n\n```\n### 7.1 Operational Execution Guidelines\n 1. **The Infiltration Reveal:** The true identity of the **3 Deep-Cover Uncapped Evil Infiltrators** must never be revealed through direct exposition or standard divination magic. They must play the role of Vaelen's most protective, loving allies flawlessly. The party should only begin to suspect them when they notice subtle, terrifying irregularities: an elite Thayan assassin who is tracking the party suddenly turning up dead with a specific, clean broken neck that matches Vaelen's style, executed by a \"good\" student who claimed they were home sick with a common cold.\n 2. **Managing the Romantic Subplot:** One of the key pillars of the capital city sandbox is the genuine romantic adoration directed at Vaelen by his top military promoter. This interest must be portrayed as completely sincere, grounded, and emotionally complex, completely free of cartoonish seduction tropes. It serves as Vaelen's primary motivation for staying in the capital, as his immense humility makes him incredibly protective of her career and safety, completely blind to any darker agendas operating around him.\n 3. **The Slow Clearance:** Do not rush Vaelen's progression. For the entire first half of the campaign, he must remain firmly locked at Level 12, running his Reverse Imposter Syndrome at 100% capacity. Gaining a \"level\" is not an acquisition of new training; it is a profound dramatic event where the party successfully helps him heal a layer of his past trauma, allowing his physical matrix to reluctantly unlock a fraction of his natural, forbidden Level 13+ capabilities.\n\nTo shift Vaelen to a **Wisdom-based Eldritch Knight**, we change his spellcasting ability modifier from Intelligence to Wisdom. This creates a flawless mechanical synergy with the Monk class, mapping his unarmored armor class ($10 + \\text{Dex} + \\text{Wis}$), his Ki save DC, his Eldritch Knight spell save DC, and his spell attack bonus to the exact same mental stat: **Wisdom**.\n\nHis magic ceases to feel like book-learned, academic wizardry and instead represents a profound, instinctual control over kinetic lines and spatial awareness\u2014a natural extension of his martial prodigy status.\n\n---\n\n# \ud83d\udcd1 Master Vaelen: Level 1\u201320 Gestalt Progression Matrix\n\nBecause Vaelen is a **Gestalt** character, he advances in **both classes simultaneously at every single level**. He takes the hit dice, saving throws, and base attack mechanics of the superior class (Fighter handles the hit points and Extra Attacks; Monk handles the saving throws and movement scales).\n\n### \ud83d\udee0\ufe0f Core Attributes Configuration (Level 1 Baseline)\n\n* **Primary Stat:** Dexterity (Reflexes, Accuracy, Unarmored Defense)\n* **Secondary Stat:** Wisdom (Ki Reserves, Kinetic Arcana, Unarmored Defense)\n* **Saves:** Strength & Dexterity (Monk foundation; later unlocks all saves via *Diamond Soul*).\n* **Spellcasting Modifier:** **Wisdom** (Replaces Intelligence for all Eldritch Knight features).\n\n---\n\n## \ud83d\udcc8 The Gestalt Leveling Table\n\n| Level | Left Track: Monk (Way of the Kensei) | Right Track: Fighter (Eldritch Knight) | Tactical Progression & Synergy Notes |\n| --- | --- | --- | --- |\n| **1** | Unarmored Defense, Martial Arts ($1d4$) | Fighting Style (Archery/Dueling), Second Wind | **The Foundations:** Chooses Dexterity for his melee strikes. AC is immediately driven by $\\text{Dex} + \\text{Wis}$. |\n| **2** | Ki Pool (2 Points), Unarmored Movement ($+10\\text{ ft}$) | Action Surge (1/short rest) | **The Burst Engine:** Unlocks *Flurry of Blows* and *Patient Defense* alongside *Action Surge* for massive early action economy. |\n| **3** | Deflect Missiles, Kensei Weapons (e.g., Longsword) | Eldritch Knight Archetype, Spellcasting (**Wisdom**) | **Arcane Awakening:** Longsword becomes a Dex-based Monk weapon. Spells like *Shield* and *Absorb Elements* use Wisdom. |\n| **4** | Slow Fall, Ability Score Improvement (ASI) | Ability Score Improvement (ASI) | **Dual ASI:** Allows Vaelen to rapidly pump Dexterity and Wisdom toward the maximum boundaries early on. |\n| **5** | Extra Attack, Stunning Strike, Martial Arts ($1d6$) | Extra Attack (Fighter baseline matched) | **The Stun-Lock:** Vaelen can now stun enemies via weapon strikes, using his Wisdom modifier to set an insanely high Save DC. |\n| **6** | Ki-Infused Strikes, One with the Blade, Movement ($+15\\text{ ft}$) | Weapon Bond | **Magic Iron:** Attacks count as magical. *Weapon Bond* lets him summon his wooden practice blade to his hand from thin air. |\n| **7** | Evasion, Stillness of Mind | War Magic | **Kinetic Weaving:** When he casts an action cantrip (like *Booming Blade*), he can make a weapon attack as a bonus action. |\n| **8** | Ability Score Improvement (ASI) | Ability Score Improvement (ASI) | **Stat Cap:** Maxes out Dexterity to 20 and aggressively drives Wisdom toward the peak. |\n| **9** | Unarmored Movement Improvement (Vertical surfaces) | Indomitable (1/long rest) | **Mortal Scaling Begins:** Vaelen can now run up walls and cross water effortlessly due to his uncalibrated mass control. |\n| **10** | Sharpen the Blade, Martial Arts ($1d8$) | Eldritch Strike | **The Sieve:** Enemies hit by his Kensei weapon have disadvantage on his Wisdom-based Eldritch Knight spell saves. |\n| **11** | Unarmored Movement ($+20\\text{ ft}$) | **Extra Attack (2)** | **The 3-Strike Threshold:** Vaelen now gets 3 weapon strikes per Attack Action. His baseline combat layout accelerates dramatically. |\n| **12** | Ability Score Improvement (ASI) | Ability Score Improvement (ASI) | **THE MORTAL CEILING:** This is Vaelen's current active state. Max stats achieved ($\\text{Dex 20} / \\text{Wis 20}$). His progression locks here. |\n\n---\n\n## \ud83d\udd13 The Mythic Tiers (The Locked Trauma Clearance)\n\n*Levels 13\u201320 represent Vaelen breaking his psychological locks and reclaiming his forbidden Thayan prime. No mortal in the Western Kingdom can naturally cross this line.*\n\n| Level | Left Track: Monk (Way of the Kensei) | Right Track: Fighter (Eldritch Knight) | Tactical Progression & Synergy Notes |\n| --- | --- | --- | --- |\n| **13** | Tongue of the Sun and Moon | Indomitable (2/long rest) | **Mythic Awakening:** Vaelen understands all spoken languages as his spiritual frequency begins to separate from normal mortal limits. |\n| **14** | **Diamond Soul** (Proficiency in ALL saves) | ASI / Feat | **Absolute Defenses:** Adding his $+5$ Wisdom and full proficiency bonus to every single saving throw makes him completely untouchable. |\n| **15** | Timeless Body (Immunity to age/poison) | Arcane Charge | **Spatial Rip:** When he uses *Action Surge*, he teleports up to 30 feet into a pocket of displaced air before unleashing his strikes. |\n| **16** | Ability Score Improvement (ASI) | Ability Score Improvement (ASI) | **Soul Expansion:** Allows him to take advanced feats to layer kinetic options onto his reactions. |\n| **17** | Martial Arts ($1d10$), Kensei Weapon Mastery | Action Surge (2/short rest), Indomitable (3) | **The Calamity State:** Two Action Surges per short rest allows him to cycle through 10 to 12 individual strikes in a single combat loop. |\n| **18** | Empty Body (Invisibility & Resistance) | Improved War Magic | **The Apex Phantom:** He can cast a high-tier spell as an action and still execute a full Kensei weapon strike as a bonus action. |\n| **19** | Ability Score Improvement (ASI) | Ability Score Improvement (ASI) | **Final Optimization:** Complete maximization of physical and mental resilience. |\n| **20** | Perfect Self (Ki Restoration) | **Extra Attack (3)** | **THE CRIMSON CHILD RECLAIMED:** Vaelen achieves **4 weapon strikes per Attack Action**. Combined with *Flurry of Blows* and *Action Surge*, he outputs **10 to 14 attacks per round**, operating completely as an apex predator. |"
+    },
+    "next_companion_arc_turn": 3,
+    "success_streak": 1,
+    "divine_potential": 0,
+    "progression": {
+      "calista": {
+        "xp_gained": 300
+      },
+      "orla": {
+        "xp_gained": 750
+      },
+      "juna": {
+        "xp_gained": 750
+      },
+      "tamsin": {
+        "xp_gained": 300
+      },
+      "lysette": {
+        "xp_gained": 300
+      }
+    },
+    "attribute_system": "D&D",
+    "level_up_in_progress": false,
+    "major_event_pressure_budget": {
+      "new_major_event": false,
+      "special_circumstances": false,
+      "window": "24h",
+      "major_events_this_window": 1,
+      "rationale": "The rescue of Elara and defeat of Marek was the major event; this turn focuses on recovery and logistics."
+    },
+    "multiverse_upgrade_available": false,
+    "character_creation_in_progress": false,
+    "level_up_complete": false,
+    "character_creation_stage": "complete",
+    "companion_arcs": {},
+    "training_trackers": {
+      "elara_silent_anchor": {
+        "phase": "wood_mastery",
+        "total_days_needed": 365,
+        "breakthrough_achieved": true,
+        "progress_days": 25
+      }
+    },
+    "divine_upgrade_available": false
+  },
+  "social_hp_challenge": {
+    "social_hp": 2,
+    "roll_dc": 14,
+    "cooldown_remaining": 1,
+    "successes": 4,
+    "roll_result": 21,
+    "request_severity": "information",
+    "npc_tier": "lord_general",
+    "successes_needed": 5,
+    "social_hp_damage": 2,
+    "status": "YIELDING",
+    "resistance_shown": "Marek's spirit is yielding to the sanctuary of your protection.",
+    "social_hp_max": 6,
+    "objective": "Learn Dark Inheritor Plans",
+    "skill_used": "Persuasion",
+    "npc_name": "Marek"
+  },
+  "combat_state": {
+    "initiative_order": [
+      {
+        "name": "pc_vaelen_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_guard_group_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_chitterer_001",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_chitterer_002",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_chitterer_003",
+        "initiative": 0,
+        "type": "unknown"
+      },
+      {
+        "name": "npc_elara_vance_001",
+        "initiative": 0,
+        "type": "unknown"
+      }
+    ],
+    "combat_phase": "ended",
+    "combatants": {
+      "npc_elara_vance_001": {
+        "hp_current": 73,
+        "hp_max": 85,
+        "status": [],
+        "type": "ally"
+      },
+      "npc_bandit_group_001": {
+        "hp_current": 0,
+        "hp_max": 100,
+        "status": [
+          "unconscious",
+          "defeated"
+        ],
+        "type": "enemy",
+        "role": "Minion Group"
+      },
+      "npc_chitterer_001": {
+        "hp_current": 0,
+        "hp_max": 52,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy"
+      },
+      "npc_chitterer_002": {
+        "hp_current": 0,
+        "hp_max": 48,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy"
+      },
+      "npc_chitterer_003": {
+        "hp_current": 0,
+        "hp_max": 48,
+        "status": [
+          "dead"
+        ],
+        "type": "enemy"
+      },
+      "pc_vaelen_001": {
+        "hp_current": 121,
+        "hp_max": 124,
+        "status": [],
+        "type": "pc"
+      },
+      "npc_harkin_001": {
+        "hp_current": 35,
+        "hp_max": 45,
+        "status": [
+          "conscious",
+          "prone",
+          "disarmed"
+        ],
+        "type": "enemy",
+        "role": "Bandit Leader"
+      },
+      "npc_guard_group_001": {
+        "hp_current": 2,
+        "hp_max": 40,
+        "status": [],
+        "type": "ally"
+      }
+    },
+    "in_combat": false,
+    "current_round": 3,
+    "rewards_processed": true,
+    "combat_session_id": "combat_14920528_highroad",
+    "combat_summary": {
+      "enemies_defeated": [
+        "npc_bandit_group_001"
+      ],
+      "rounds_fought": 2,
+      "xp_awarded": 1100,
+      "loot_distributed": true
+    }
+  },
+  "last_state_update_timestamp": "2026-06-18 23:17:08.888000+00:00",
+  "turn_number": 101,
+  "player_turn": 101,
+  "last_living_world_turn": 101,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "hour": 23,
+    "minute": 0,
+    "time_of_day": "night",
+    "day": 26,
+    "year": 1492,
+    "month": "Flamerule"
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {},
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "planning_block": {
+    "context": "Interrogation successful; imminent regional threat identified.",
+    "thinking": "Marek has surrendered the technical blueprint for the 'Kinetic Cage.' The threat is no longer a southern mystery; it is a structural countdown localized in the Citadel's own foundations. With only three nights until the Blood Moon convergence, I must decide how to neutralize the anchors. Silas and Valara are distant, and I cannot be in two places at once. The tremors suggest the Citadel's anchor is already active and preparing for the resonance.",
+    "choices": [
+      {
+        "id": "investigate_citadel_foundations",
+        "text": "Neutralize the Citadel Anchor",
+        "risk_level": "medium",
+        "description": "Lead a team into the deep foundations to find and disable the local resonance point.",
+        "pros": [
+          "Prevents the local collapse",
+          "Protects the King and the students"
+        ],
+        "cons": [
+          "Leaves Silas and Valara to continue their work",
+          "Potential for a high-tier trap"
+        ]
+      },
+      {
+        "id": "dispatch_gideon_high_horn",
+        "text": "Send Gideon to High Horn",
+        "risk_level": "high",
+        "description": "Order Gideon to take a cohort of Imperial Knights to neutralize Silas.",
+        "pros": [
+          "Addresses a distant anchor",
+          "Utilizes Gideon's Lvl 11 clarity"
+        ],
+        "cons": [
+          "Gideon might be outmatched by Silas",
+          "Weakens the Citadel's internal defense"
+        ]
+      },
+      {
+        "id": "contact_ravengard_alliance",
+        "text": "Activate the Baldur's Gate Alliance",
+        "risk_level": "low",
+        "description": "Send an urgent magical dispatch to Archduke Ravengard to warn him of Valara's presence.",
+        "pros": [
+          "Alerts a sovereign ally",
+          "Potential for coordinated neutralization"
+        ],
+        "cons": [
+          "Ravengard may not believe the warning in time",
+          "Reveals the 'riddle' of the geometry to external powers"
+        ]
+      }
+    ]
+  },
+  "scene_event": {
+    "player_response_required": true,
+    "description": "A messenger arrives in the ward with news of harmonic tremors detected beneath the Citadel's foundations.",
+    "urgency": "immediate",
+    "type": "messenger",
+    "actor": "Royal Messenger"
+  },
+  "rewards_box": {
+    "current_xp": 125650,
+    "level_up_available": false,
+    "loot": [
+      "Marek's Deployment Ledger (Full Details)",
+      "Technical Awareness of the 'Cage' Mechanics"
+    ],
+    "gold": 0.0,
+    "progress_percent": 28,
+    "xp_gained": 500,
+    "current_level": 13,
+    "xp_total": 125650,
+    "xp_to_next_level": 14350,
+    "source": "milestone",
+    "next_level_xp": 140000
+  },
+  "world_events": {
+    "background_events": [
+      {
+        "discovery_condition": "Deep investigation of Thayan movements in the capital.",
+        "status": "pending",
+        "player_aware": false,
+        "turn_generated": 61,
+        "actor": "Xanthia's Hand",
+        "action": "Monitoring Envoy Malas",
+        "id": "thayan_shadow_monitoring",
+        "outcome": "Xanthia has a higher-tier agent watching Malas to ensure he doesn't accidentally reveal the Crimson Child's proximity.",
+        "location": "Upper City",
+        "delta_action": "add",
+        "event_type": "long_term",
+        "scene_generated": 68
+      },
+      {
+        "discovery_condition": "Listening to barracks gossip or court news.",
+        "status": "pending",
+        "player_aware": true,
+        "turn_generated": 61,
+        "actor": "Elias (Good Disciple)",
+        "action": "Marching to the border",
+        "id": "good_student_rumor",
+        "outcome": "Rumors reach the capital of a 'Knight of the Silvered Reed' successfully defending a border keep against Thayan scouts.",
+        "location": "Eastern Frontiers",
+        "delta_action": "add",
+        "event_type": "long_term",
+        "scene_generated": 68
+      },
+      {
+        "discovery_condition": "Barracks gossip and council reports.",
+        "status": "discovered",
+        "player_aware": true,
+        "turn_generated": 65,
+        "actor": "Marek (Evil Outcast)",
+        "action": "Slaughtering a merchant caravan in the south",
+        "player_impact": "Increased political suspicion on Vaelen's past.",
+        "location": "Southern Trade Way",
+        "outcome": "Forty civilians dead; rumors of 'Sage-like' techniques spreading to the capital.",
+        "delta_action": "add",
+        "id": "outcast_caravan_slaughter",
+        "event_type": "long_term",
+        "scene_generated": 79
+      },
+      {
+        "discovery_condition": "Direct witness at the training grounds.",
+        "status": "discovered",
+        "player_aware": true,
+        "turn_generated": 65,
+        "actor": "Gideon (Good Disciple)",
+        "action": "Arriving at the Grand Citadel to find Vaelen",
+        "player_impact": "New high-level ally and possible training catalyst.",
+        "location": "Elite Training Grounds",
+        "outcome": "A high-tier ally has joined Vaelen's circle, increasing the risk of Thayan detection.",
+        "delta_action": "add",
+        "id": "gideon_arrival",
+        "event_type": "immediate",
+        "scene_generated": 79
+      },
+      {
+        "turn_generated": 95,
+        "status": "pending",
+        "player_aware": false,
+        "discovery_condition": "Intercepting embassy dispatches or Thayan agents' actions.",
+        "actor": "Envoy Malas",
+        "action": "Drafting an urgent report",
+        "player_impact": "The Thayan Triumvirate's timeline for direct verification is accelerating.",
+        "outcome": "Malas is officially flagging Vaelen as a 'Class-A Anomaly' after receiving witnesses' accounts of the Vault of Echoes audit.",
+        "id": "thayan_envoy_coded_dispatch",
+        "delta_action": "add",
+        "location": "Thayan Embassy",
+        "event_type": "long_term",
+        "scene_generated": 124
+      },
+      {
+        "discovery_condition": "Private conversation with Selina or discovering her research notes.",
+        "status": "pending",
+        "player_aware": false,
+        "turn_generated": 95,
+        "location": "High Spire Research Lab",
+        "action": "Arcane analysis of the 'Anchor'",
+        "player_impact": "Selina becomes a wild card in the geopolitical deadlock.",
+        "actor": "Archmage Selina",
+        "outcome": "Selina has concluded that Vaelen's grounding is not magic, but a manipulation of fundamental kinetic constants\u2014knowledge she is keeping secret from the Council.",
+        "id": "archmage_selina_approach",
+        "event_type": "long_term",
+        "scene_generated": 124
+      },
+      {
+        "discovery_condition": "Visiting the Lower City or hearing market rumors.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "A group of refugees from the fallen kingdom of Aglarond has arrived, speaking of the 'Crimson God' who led the Thayan advance years ago.",
+        "location": "Great Northern Gate",
+        "action": "Entering the Lower City",
+        "player_impact": "Increased risk of Vaelen's old identity being recognized.",
+        "actor": "Aglarond Survivors",
+        "id": "aglarond_refugee_arrival",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "High-level perception or detection magic around the manor.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "The agent notes the gathering of the Inheritors and the high level of discipline among the trainees.",
+        "actor": "Xanthia's Hand",
+        "action": "Observing the Manor Dinner",
+        "id": "thayan_envoy_manor_monitoring",
+        "location": "Upper City Rooftops",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Visiting the market or Lower City barracks.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "News of the 'Ghost-Stroke' becomes more visceral; rumors of an invisible blade master begin to circulate in the Lower City.",
+        "actor": "Southern Trade Delegation",
+        "action": "Arriving at the Citadel",
+        "id": "southern_massacre_panic_escalation",
+        "location": "Great Northern Gate",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Seeing the child-like Archmage watching from the balcony.",
+        "outcome": "The Lvl 14 Archmage notes the kinetic grounding of the recruits, recognizing a tier of magic she didn't believe existed.",
+        "player_aware": true,
+        "status": "discovered",
+        "actor": "Archmage Selina",
+        "action": "Observing the training yard from the High Balcony",
+        "id": "archmage_selina_observation",
+        "location": "High Balcony, Grand Citadel",
+        "delta_action": "add",
+        "event_type": "immediate"
+      },
+      {
+        "discovery_condition": "Deep intelligence gathering or intercepting the courier.",
+        "status": "pending",
+        "player_aware": false,
+        "is_historical": false,
+        "actor": "Envoy Malas",
+        "action": "Waiting for Thayan Triumvirate's encrypted reply",
+        "id": "thayan_envoy_response_wait",
+        "outcome": "Malas remains in a state of high-tension observation, unsure if he's found a traitor or a god.",
+        "turn_generated": 83,
+        "delta_action": "add",
+        "location": "Thayan Embassy",
+        "event_type": "long_term",
+        "scene_generated": 109
+      },
+      {
+        "is_historical": false,
+        "resolved_scene_number": 127,
+        "player_aware": false,
+        "turn_generated": 83,
+        "location": "Southern Trade Way",
+        "actor": "Baroness Elara Vance",
+        "event_type": "long_term",
+        "scene_generated": 109,
+        "discovery_condition": "Messenger arrival or future report from Elara.",
+        "status": "resolved",
+        "outcome": "Elara's scouts have located a single survivor hidden in a storm drain; the survivor speaks of a 'Silver-Haired Shadow'.",
+        "resolved_turn": 98,
+        "id": "elara_southern_discovery",
+        "action": "Arriving at the Southern Trade Way",
+        "delta_action": "resolve"
+      },
+      {
+        "discovery_condition": "Vaelen felt the gaze of the Thayan tracker at the tower.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "Xanthia has received word of the 'Catch' and is sending a trusted agent to verify if the 'monster' has truly awakened.",
+        "actor": "Xanthia",
+        "action": "Dispatching a 'Shadow Disciple' to the capital",
+        "player_impact": "Direct Thayan intervention is now on a countdown.",
+        "id": "thayan_triumvirate_alert",
+        "turn_generated": 89,
+        "delta_action": "update",
+        "location": "Thay",
+        "event_type": "long_term",
+        "scene_generated": 115
+      },
+      {
+        "discovery_condition": "A messenger from Elara arrives in the capital.",
+        "status": "discovered",
+        "player_aware": true,
+        "outcome": "The survivor has confirmed that the 'Silver-Haired Shadow' didn't use magic, but 'hit the ground until the air stopped.'",
+        "actor": "Baroness Elara Vance",
+        "action": "Interrogating the Southern Survivor",
+        "player_impact": "The technical link to Vaelen's past is becoming a risk again.",
+        "id": "elara_southern_evidence",
+        "turn_generated": 89,
+        "delta_action": "update",
+        "location": "Southern Trade Way",
+        "event_type": "long_term",
+        "scene_generated": 115
+      },
+      {
+        "discovery_condition": "Observing her next training session.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Juna has managed to catch wood for 30 consecutive minutes; her kinetic alignment is sharpening faster than the others.",
+        "actor": "Juna (Trainee)",
+        "action": "Intensive Night Training",
+        "player_impact": "Juna is a primary daughter candidate for power siphoning.",
+        "id": "candidate_progression_juna",
+        "turn_generated": 89,
+        "delta_action": "add",
+        "location": "Elite Barracks",
+        "event_type": "immediate",
+        "scene_generated": 115
+      },
+      {
+        "discovery_condition": "Visiting the Lower City market.",
+        "outcome": "Public order is straining under the weight of Thayan expansion stories.",
+        "player_aware": false,
+        "status": "pending",
+        "actor": "Aglarond Refugees",
+        "action": "Protesting for more aid",
+        "id": "refugee_unrest_lower_city",
+        "location": "Lower City, Grand Citadel",
+        "delta_action": "add",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "Marek's confession or intercepting orders.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "The Triumvirate, terrified by the 'Catch' report, orders all Western assets to accelerate the cage's activation to bury the 'Monster' before he can move.",
+        "actor": "Xanthia",
+        "action": "Authorizing 'Bury' protocols",
+        "player_impact": "The timeline for the regional collapse has been shortened.",
+        "location": "Thay",
+        "id": "thayan_triumvirate_escalation",
+        "delta_action": "update",
+        "event_type": "long_term"
+      },
+      {
+        "discovery_condition": "A private meeting with Selina.",
+        "status": "pending",
+        "player_aware": false,
+        "outcome": "Selina realizes that if the 'cage' is triggered, it will cause a permanent atmospheric stagnation that could end all life in the region.",
+        "actor": "Archmage Selina",
+        "action": "Simulating kinetic resonance",
+        "player_impact": "Reveals the true existential stakes of the mission.",
+        "location": "High Spire",
+        "id": "archmage_selina_simulation",
+        "delta_action": "add",
+        "event_type": "long_term"
+      }
+    ]
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "entity_tracking": {
+    "present_entities": [],
+    "active_entities": [
+      "Vaelen"
+    ]
+  },
+  "rumors": [
+    {
+      "content": "A traveler from the east says the 'Sage of Oakhaven' is actually a youth who found an ancient elixir, though others claim he's just a farmer who got lucky against a drunkard with an axe.",
+      "source_type": "commoner",
+      "related_event": "oakhaven_raid_victory",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A merchant from the south claims the roads near the Chionthar are being picked clean of any 'ancient scrap metal' by men in dark cloaks.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "A 'Silver Ghost' was seen dismantling monsters on the High Road in seconds.",
+      "source_type": "traveler",
+      "related_event": "Chitterer Attack",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Sage of Oakhaven' is actually a retired general from the Fall of Elturel who grew tired of the bloodshed.",
+      "source_type": "traveler",
+      "related_event": "oakhaven_victory",
+      "accuracy": "false"
+    },
+    {
+      "content": "Commander Vance has discovered a training method that can turn a simple farmer into a match for a knight in a single tenday.",
+      "source_type": "commoner",
+      "related_event": "vaelen_instruction",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A 'Knight of the Silvered Reed' is holding the eastern border alone.",
+      "source_type": "guard",
+      "related_event": "good_student_rumor",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Sage' is a monster sent by Thay to weaken the kingdom's resolve.",
+      "source_type": "noble",
+      "related_event": "thayan_envoy_arrival_city",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A silver-haired knight is clearing the southern roads of bandits with his bare hands.",
+      "source_type": "traveler",
+      "related_event": "good_student_rumor",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Ghost of the Blade' seen in the south is said to move with the same 'sluggish' grace as the new Grand Instructor.",
+      "source_type": "merchant",
+      "accuracy": "true"
+    },
+    {
+      "content": "They say the 'Southern Ghost' killed forty men without a single drop of blood being spilled on the road\u2014only dust.",
+      "source_type": "guard",
+      "related_event": "outcast_caravan_slaughter",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Ghost-Stroke' in the south has left the trade roads silent; some say the Absolute's generals have returned.",
+      "source_type": "guard",
+      "related_event": "Southern Trade Way Massacre",
+      "accuracy": "partial"
+    },
+    {
+      "content": "Countess Mirabelle is seeking a 'secret champion' to tip the balance of the High Council.",
+      "source_type": "commoner",
+      "related_event": "Council Maneuvering",
+      "accuracy": "true"
+    },
+    {
+      "content": "Whispers in the Lower City speak of a 'Silver-Haired Ghost' who can kill with a look, supposedly seen near the Oakhaven outskirts.",
+      "source_type": "traveler",
+      "related_event": "southern_massacre_panic_escalation",
+      "accuracy": "partial"
+    },
+    {
+      "content": "The 'Oakhaven Sage' just stood in the middle of a Tier-3 Archmage spell and didn't even blink.",
+      "source_type": "guard",
+      "related_event": "arcane_audit_duel",
+      "accuracy": "true"
+    },
+    {
+      "content": "The 'Sage of Oakhaven' is not a teacher, but a Thayan prince in hiding.",
+      "source_type": "High Court gossip",
+      "related_event": "The Arcane Audit",
+      "accuracy": "partial"
+    },
+    {
+      "content": "A Thayan merchant was seen buying up silvered-reed staves in the docks, claiming they were for 'ceremonial use'.",
+      "source_type": "commoner",
+      "accuracy": "true"
+    },
+    {
+      "content": "The King's personal physician was summoned to the High Court archives late last night to treat a 'spiritual ailment'.",
+      "source_type": "guard",
+      "accuracy": "partial"
+    }
+  ],
+  "schema_migration_version": 1,
+  "level_up_session": {
+    "status": "complete",
+    "last_error": null,
+    "current_level": 13,
+    "source": "model",
+    "selections": {
+      "hp_gain": 8,
+      "spells_known_added": [
+        "Haste"
+      ],
+      "spells_prepared": [
+        "Shield",
+        "Absorb Elements",
+        "Protection from Evil and Good",
+        "Thunderwave",
+        "Mirror Image",
+        "Misty Step",
+        "Hold Person",
+        "Spirit Shroud",
+        "Haste"
+      ],
+      "hp_method": "fixed"
+    },
+    "completed_at_story_id": null,
+    "entered_at_story_id": null,
+    "source_story_id": "unknown",
+    "target_level": 13
+  },
+  "time_events": {},
+  "schema_migrated_at": "2026-06-18T03:57:21.845351+00:00",
+  "session_id": "legacy-migrated-277ac449d22b5ad8",
+  "faction_updates": {
+    "Imperial Guard": {
+      "resource_change": "Minor casualties to Vanguard equipment",
+      "player_standing_change": "From 'Suspicious' to 'Revered/Feared'",
+      "progress": "Day 1 of 4 complete",
+      "next_action": "Double watch rotation due to psychic saturations",
+      "current_objective": "Escort the Special Grand Instructor to the Capital"
+    }
+  }
+}

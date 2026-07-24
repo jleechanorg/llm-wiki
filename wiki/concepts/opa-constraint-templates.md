@@ -28,7 +28,7 @@ OPA Gatekeeper's constraint templates are parameterized Rego policies that can b
 Constraint templates' pattern — write policy once, instantiate with different runtime data — maps to the ZFC `level_up_signal` schema: define the structure (`level_up`, `new_level`, `previous_turn_exp`, `current_turn_exp`) once; the model provides values per response. The formatter is the constraint template engine that instantiates the policy with the model's provided values.
 
 ## See Also
-- [OPA-Gatekeeper](../entities/OPA-Gatekeeper.md)
-- [Partial-Rules](Partial-Rules.md)
+- [OPA-Gatekeeper](../entities/opa-gatekeeper.md)
+- [Partial-Rules](partial-rules.md)
 - [OPA](../entities/OPA.md)
 - [ZFC-Level-Up-Architecture](ZFC-Level-Up-Architecture.md)

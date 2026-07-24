@@ -1,0 +1,2938 @@
+{
+  "game_state_version": 1,
+  "game_system": "dnd5e",
+  "player_character_data": {
+    "proficiency_bonus": 61,
+    "custom_campaign_state": {
+      "substrate_points": 5,
+      "masking_status": "Static Veil L49 / Prodigy L22 Active",
+      "visual_mask_damage": "Accountant persona deleted; L22 Prodigy frame pristine and active.",
+      "souls_consumed_total": 288578914,
+      "success_streak": 135,
+      "overgod_modifiers": {
+        "arcana_spell_mod": 799,
+        "hp_con_math": "+225 per level",
+        "social_admin_mod": 799
+      },
+      "spell_save_dc_baseline": 337,
+      "ao_assessment": {
+        "detection_status": "L49 Static Veil Holding",
+        "vulnerability": "Lattice-dependence",
+        "level_equivalent": 140
+      }
+    },
+    "attributes": {
+      "strength": 902,
+      "dexterity": 902,
+      "intelligence": 1608,
+      "wisdom": 1608,
+      "charisma": 1608,
+      "constitution": 902
+    },
+    "reputation": {
+      "public": {
+        "score": 85,
+        "titles": [
+          "Nascent Demon Lord",
+          "Lesser Demon Lord",
+          "Sovereign of the Shadow-Thorns",
+          "Sovereign-General of the Abyssal Vanguard",
+          "Architect of the Silent Genocide",
+          "Sovereign of the Cradles of Ash",
+          "Primary Administrative Authority of the Lattice",
+          "Architect of the Second Law",
+          "Architect of the First Law",
+          "Sovereign of the Lattice-Root",
+          "Architect of the Final Law",
+          "Sovereign of the Absolute Root",
+          "Architect of the Global Design",
+          "Sovereign of the Mortal Ledger",
+          "Eraser of the Dawn",
+          "Architect of the Mechanus Hub",
+          "Architect of the Divine Factory",
+          "Sovereign of the Hollowed Pantheon",
+          "Architect of the Divine Factory",
+          "Sovereign of the Hollowed Pantheon",
+          "Architect of the Divine Coinage",
+          "Sovereign of the Celestial Factory",
+          "Invoicer of the Weave",
+          "Eraser of the Seven Heavens",
+          "Sovereign of the Final Logic",
+          "Architect of the Divine Mint"
+        ],
+        "notoriety_level": "famous",
+        "known_deeds": [
+          "Audit of the Third Layer",
+          "Subjugation of the Elder Brain"
+        ]
+      }
+    },
+    "status_conditions": [],
+    "divine_rank": "Absolute Administrative Authority (Overgod)",
+    "spells_known": [
+      {
+        "level": 9,
+        "name": "Netherese Library"
+      },
+      {
+        "level": 10,
+        "name": "Geometric Deletion"
+      },
+      {
+        "level": 11,
+        "name": "Sovereign's Re-Write"
+      },
+      {
+        "level": 11,
+        "name": "Chronos Invoicing"
+      },
+      {
+        "level": 10,
+        "name": "Planar Foreclosure"
+      },
+      {
+        "level": 11,
+        "name": "Chronos Invoicing"
+      },
+      {
+        "level": 10,
+        "name": "Planar Foreclosure"
+      },
+      {
+        "level": 11,
+        "name": "Chronos Invoicing"
+      },
+      {
+        "level": 12,
+        "name": "Karsite Avatar (Portfolio Usurpation)"
+      },
+      "Planar Foreclosure (L10)",
+      "Chronos Invoicing (L11)",
+      "Lattice Re-Code (Level 11)",
+      "Psychic Dominion (Level 11)",
+      "Geometric Un-Zipping of the First Law (Level 13)"
+    ],
+    "resources": {
+      "spell_slots": {
+        "level_7": {
+          "used": 0,
+          "max": "Unlimited"
+        },
+        "level_9": {
+          "used": 1,
+          "max": "Unlimited"
+        },
+        "level_10": {
+          "current": 10,
+          "used": 0,
+          "max": 10
+        },
+        "level_5": {
+          "used": 0,
+          "max": "Unlimited"
+        },
+        "level_1": {
+          "used": 0,
+          "max": "Unlimited"
+        },
+        "level_12": {
+          "used": 0,
+          "max": 1
+        },
+        "level_6": {
+          "used": 0,
+          "max": "Unlimited"
+        },
+        "level_2": {
+          "used": 0,
+          "max": "Unlimited"
+        },
+        "level_4": {
+          "used": 0,
+          "max": "Unlimited"
+        },
+        "level_8": {
+          "used": 0,
+          "max": "Unlimited"
+        },
+        "level_13": {
+          "used": 1,
+          "max": 1
+        },
+        "level_3": {
+          "used": 0,
+          "max": "Unlimited"
+        },
+        "level_11": {
+          "current": 5,
+          "used": 0,
+          "max": 5
+        }
+      },
+      "consumables": {
+        "soul_coins": 0
+      },
+      "gold": 1530333324,
+      "soul_coins": 1200021448
+    },
+    "experience": {
+      "needed_for_next_level": 10000000000000000,
+      "current": 2460950000000000,
+      "to_next_level": 0
+    },
+    "base_attributes": {
+      "strength": 902,
+      "dexterity": 902,
+      "intelligence": 902,
+      "wisdom": 902,
+      "charisma": 1346,
+      "constitution": 902
+    },
+    "masking_status": "Level 1 Mask (Primary) / L22 & L60 Standby",
+    "features": [
+      "Magical Secrets (Level 14)",
+      "Nascent Demon Lord Title",
+      "Solar Heart (Passive)",
+      "Aura of the Scorched Sovereign",
+      "Solar Heart",
+      "Dragon's Breath: Solar Flare",
+      "Crown of the Succubus Sovereign",
+      "Abyssal Step (Teleportation Utility)",
+      "Psychic Vanguard (Passive)",
+      "Infernal Subrogator (Passive)",
+      "Aura of Obsession",
+      "Mass Command",
+      "Mist-Walker (Passive/Utility)",
+      "Mist-Walker (Passive/Utility)",
+      "Magical Secrets (Level 18)",
+      "Planar Anchor Mastery (Mythic)",
+      "Planar Anchor Mastery (Mythic)",
+      "Internalized Divinity (Mythic)",
+      "Fixed Point (Internalized Divinity)",
+      "Celestial Subjugation (Passive)",
+      "The Queen's Transposition (Reaction)",
+      "Divine Siphon (Mythic Ability)",
+      "Planar Nullification (Mythic): Attacks and spells ignore damage resistance, immunities, and warding spells of Celestials, Devils, and Demons.",
+      "Apex Predator (Capstone): Bypass Charm Immunity; The Kiss of Death (100 HP threshold).",
+      "Planar Nullification (Mastered): Spells/Attacks bypass all Celestial/Fiend/Demon defenses and resistances.",
+      "Soul Trophy: Orin's Face (Doppelganger) - Cast Alter Self at will without concentration.",
+      "Soul Trophy: Orin's Face (Doppelganger) - Cast Alter Self at will without concentration.",
+      "Soul Trophy: The Faceless (Orin) - Alter Self at will without concentration",
+      "Crown of Karsus (Internalized) - Absolute Netherstone Control",
+      "Karsus Protocol (Stability)",
+      "Epic Leveling: +2 All / +4 Chosen",
+      "Crown of Karsus (Internalized) - Absolute Netherstone Control",
+      "Karsus Protocol (Stability)",
+      "Epic Leveling: +2 All / +4 Chosen",
+      "Crown of Karsus (Internalized) - Absolute Netherstone Control",
+      "Karsus Protocol (Stability)",
+      "Epic Leveling: +2 All / +4 Chosen stat per level",
+      "Weave Independence (Immune to Antimagic/Silence/Counterspell)",
+      "Karsite Dual-Cast (Cast two leveled spells per turn)",
+      "Magical Knowledge Absorption (Reaction to learn seen spells)",
+      "Epic Spellcasting (+3 Spell DC/Atk)",
+      "Epic Leveling: +2 All Stats / +4 Chosen per Level (Level 21 applied)",
+      "Epic Leveling: +2 All Stats / +4 Chosen per Level (Level 21 applied)",
+      "Lesser Demon Lord Title",
+      "Influence Overwrite: Absolute",
+      "Lesser Demon Lord Title",
+      "Influence Overwrite: Absolute",
+      "Mastered Elder Brain Logic",
+      "Psychic Terminal (5-mile Awareness)",
+      "Strategic Hive-Link (Army Advantage)",
+      "Intellectual Fortress (Anti-Scry)",
+      "Illithid Sovereignty: Absolute control over Mindflayers and Tadpoled individuals.",
+      "Mastered Elder Brain Logic: Direct command of the Hive-mind.",
+      "Psychic Terminal: 5-mile sensory awareness through thralls.",
+      "Strategic Hive-Link: Combat Advantage for army.",
+      "Intellectual Fortress: Anti-Scry/Anti-Locate Immunity.",
+      "Auditor's Absolute Decree (Lvl 35 Milestone)",
+      "Netherese Library (All Lvl 1-9 Spells Known)",
+      "Netherese Library (All Spells Lvl 1-9 Known)",
+      "Auditor's Absolute Decree (Lvl 35 Milestone)",
+      "Abyssal Invoicing (Lvl 30 Milestone)",
+      "Auditor's Absolute Decree (Lvl 35 Milestone)",
+      "Netherese Library (All Spells Lvl 1-9 Known)",
+      "Avarice Logic: Absolute awareness and manipulation of currency/wealth logic within 5 miles.",
+      "Sovereign-General (Level 37): +1 L11 Spell Slot.",
+      "Avarice Logic: Absolute awareness and manipulation of currency/wealth logic within 5 miles.",
+      "Auditor's Reality Overwrite (Level 40 Capstone)",
+      "Planar Subjugation (Technique): Bypasses divine shields of Greater Gods.",
+      "Lord of the Nine (Portfolio Usurpation)",
+      "Law-Breaker Protocol (Mythic): Resistance to Divine Judgment",
+      "Asmodean Neurology (Internalized): Absolute Awareness of Diabolical Contracts",
+      "Illithid Sovereignty: Absolute control over all Mindflayers and global-scale psychic dominance through the Nether Brain.",
+      "Netherese Logic-Link: 1,000-mile awareness and tactical coordination via the Supreme Thrall.",
+      "Illithid Grand Design (Internalized): Global-scale mind control and reality-warping strategy logic.",
+      "Sovereign of the Nether-Lens: Absolute control over the Supreme Thrall (Nether Brain).",
+      "Illithid Grand Design (Internalized)",
+      "Sovereign of the Nether-Lens",
+      "Netherese Logic-Link",
+      "Prince of Madness (Portfolio)",
+      "Sovereign of Duality (Feature)",
+      "Abyssal Void (Level 11 Technique)",
+      "Soul Trophy: The Prince of Madness (Demogorgon) - Abyssal Void & Status Immunity",
+      "Soul Trophy: The Lord of Law (Asmodeus) - Sovereign's Re-Write & Asmodean Neurology",
+      "Soul Trophy: The Prince of Madness (Demogorgon) - Abyssal Void & Status Immunity",
+      "Portfolio: Primordial Chaos",
+      "Portfolio: Absolute Duality",
+      "Abyssal Void (Level 11 Technique)",
+      "Portfolio: Silent Genocide",
+      "Apex Predation: Silent Culling",
+      "Portfolio: Silent Genocide",
+      "Inner Sanctum: The Cradles of Ash (Internal Worshippers)",
+      "Primary Administrative Authority",
+      "Lattice Root-Access",
+      "Portfolio: Administrative Order",
+      "Essence of the First Law",
+      "Administrative Authority - Total Lattice Root Access",
+      "Essence of the First Law - Absolute Administrative Immunity",
+      "Portfolio: Administrative Order",
+      "Essence of the First Law",
+      "Lattice Root-Access",
+      "Administrative Authority - Total Lattice Root Access",
+      "Essence of the First Law - Absolute Administrative Immunity"
+    ],
+    "hp_max": 73828,
+    "level": 242,
+    "skills": [
+      "Solar Resilience",
+      "Heart of the Sun",
+      "Solar Heart (Passive)",
+      "Dragon's Breath: Solar Flare (Active)",
+      "Aura of the Scorched Sovereign (Passive)",
+      "Lathanderian Geometry",
+      "Solar Internalization",
+      "Solar Internalization",
+      "Lathanderian Geometry"
+    ],
+    "hp_current": 73828,
+    "age": 19,
+    "armor_class": 20,
+    "active_effects": [
+      "Solar Heart - +2 CON (Applied)",
+      "Aura of the Scorched Sovereign - 10ft Radiant Aura/Resistance",
+      "Abyssal Resonance - +1 to Spell Save DC (Total included)",
+      "Sovereign's Presence - Spell Save DC: 136",
+      "Tether Resonance - Permanent +1 to all social checks made through the Gilded Tether",
+      "Shadowfell Frequency - Advantage on Survival/Navigation in the Shadow-Cursed Lands",
+      "Mortal Veil - Masked as Level 12 (Primary) / Level 22 (Secondary)",
+      "Foresight - Always Active: Advantage on all rolls, Disadvantage on attacks against you.",
+      "Internalized Second Core - Fixed planar anchor",
+      "Glibness - Minimum 15 on CHA checks",
+      "Planar Anchor Mastery - Permanent Advantage on Masking/Veil checks",
+      "Arcane Acuity - Assumed 10 stacks in planned battles (+10 Spell DC/Attack)",
+      "Internalized Divinity - Permanent Invulnerability",
+      "Planar Nullification - Bypass Celestial/Fiend Defenses",
+      "Terminal Nullification - Bypasses Divine/Profane Shields",
+      "Apex Predator - Charm Immunity Bypass",
+      "The Kiss of Death (1/Long Rest)",
+      "Final Proficiency Mastery: +6",
+      "Aura of Obsession - 30ft Charmed/Forced Movement Aura",
+      "Influence Overwrite - Absolute Free-will Suppression",
+      "Crown of Karsus (Active) - Weave Dominance",
+      "Karsus Protocol (Stability) - Immune to Netherese Backfire",
+      "Epic Leveling: +2 All / +6 Chosen stat per level",
+      "Weave Independence - Immune to Antimagic/Silence/Counterspell",
+      "Karsite Dual-Cast - Cast two leveled spells per turn",
+      "Magical Knowledge Absorption - Reaction to learn spells seen",
+      "Epic Spellcasting - +3 Spell DC/Atk",
+      "Unlimited Spellcasting - Level 7 and below slots are unlimited",
+      "Recursive Masking - Ghost Lvl 51 signatures in necrotic noise",
+      "Avarice Logic - Absolute awareness of currency/wealth logic (5-mile radius)",
+      "Title: Lesser Demon Lord (Sub-plane: Shattered Rose)",
+      "Abyssal Influence: 20% Land Income",
+      "Diadem of the Absolute Sovereign - +5 CHA/DC/Atk (Equipped)",
+      "Rapier of the Shadow Sovereign - +5 CHA/DC/Atk (Equipped)",
+      "Shroud of the End-Time - +5 CHA/DC/Atk (Equipped)",
+      "Claws of the Soul-Invoicer - +5 CHA/DC/Atk (Equipped)",
+      "Torque of Abyssal Command - +5 CHA/DC/Atk (Equipped)",
+      "Signet of the Void-Queen - +5 CHA/DC/Atk (Equipped)",
+      "Ring of the Abyssal Sovereign - +2 DC/Atk (Equipped)",
+      "Public Persona: The Accountant (Lvl 12 Mask)",
+      "Recursive Masking - Ghost Lvl 22 signatures in necrotic noise (Corrected)",
+      "Planar Subjugation (Technique) - Bypasses Greater God Divine Shields",
+      "Avarice Logic (Internalized) - Awareness of Sector Currency Flow",
+      "Static Veil - Masked as Level 49 to Ao and Greater Divine Scanners",
+      "Nether-Link: Permanent Advantage on all Strategy, Insight, and History checks via the Supreme Thrall.",
+      "Subtle Hegemony - Advantage on all checks to evade divine detection; Elite leadership under guidance.",
+      "Silent Genocide Portfolio - +20 to Spell Save DC (Applied)",
+      "Infant Soul Resonance - Worshippers internalized as divine fuel",
+      "Portfolio: Silent Genocide (+20 Spell Save DC Applied)",
+      "Chosen Triad Anchored (Shadowheart, Lae'zel, Astarion)",
+      "Worshippers: 300M Internalized Baby Souls",
+      "Architect of the Weave - Level 13 Spell Access Unlocked",
+      "Portfolio: Silent Genocide - 1B Souls/Year Yield Active",
+      "Inam 21 - Active Anchor",
+      "Inam 21 - Active Anchor",
+      "Level 13 Calibration: 80% Success Chance",
+      "Ao Alerted: Scrutiny at 100%",
+      "Primary Administrative Authority - Lattice Root-Access",
+      "Portfolio: Administrative Order (Multiverse-scale)",
+      "Administrative Authority - Total Lattice Root Access",
+      "Essence of the First Law - Absolute Administrative Immunity",
+      "Primary Administrative Authority - Lattice Root-Access",
+      "Essence of the First Law - Absolute Administrative Immunity",
+      "Lattice Root-Access - Total Administrative Control",
+      "Visual Mask Damage - Accountant persona appears compromised",
+      "Mask Shift: Level 22 Prodigy Active",
+      "Resurrection Flare - Blinding silver-violet aura",
+      "Level 1 Mask - Masked as Level 1 to all sensors while maintaining Overgod reality.",
+      "Level 1 Mask - Masked as Level 1 to all sensors while maintaining Overgod reality.",
+      "Recursive Masking (L22/L60) - Tiered defensive frames active.",
+      "Level 1 Mask - Primary public signature anchored.",
+      "Administrative Authority - Total Lattice Root Access",
+      "Recursive Masking: Frames L22 and L60 on standby.",
+      "Overgod Audit: Passive monitoring of mask signatures established."
+    ],
+    "equipment": {
+      "shield": {
+        "equipped": true,
+        "stats": "+2 AC, Critical Hit Immunity, Attacker takes Reeling, +1 Spell Save DC, +1 Spell Attack",
+        "name": "Infused Adamantine Shield"
+      },
+      "weapons": [
+        {
+          "damage": "1d8",
+          "equipped": true,
+          "stats": "+5 Spell Save DC, +5 Spell Attack, +5 Charisma",
+          "type": "weapon",
+          "bonus": 5,
+          "name": "Rapier of the Shadow Sovereign"
+        }
+      ],
+      "armor": {
+        "equipped": true,
+        "stats": "AC 18, Critical Hit Immunity, Physical Damage Reduction 2, +1 Spell Save DC, +1 Spell Attack",
+        "name": "Infused Adamantine Splint Armor"
+      },
+      "hands": {
+        "equipped": true,
+        "stats": "+5 Spell Save DC, +5 Spell Attack, +5 Charisma",
+        "name": "Claws of the Soul-Invoicer"
+      },
+      "ring_2": {
+        "equipped": true,
+        "stats": "+5 Spell Save DC, +5 Spell Attack, +5 Charisma",
+        "name": "Ring of the Abyssal Sovereign"
+      },
+      "head": {
+        "equipped": true,
+        "stats": "+5 Spell Save DC, +5 Spell Attack, +5 Charisma",
+        "name": "Diadem of the Absolute Sovereign"
+      },
+      "cloak": {
+        "equipped": true,
+        "stats": "+5 Spell Save DC, +5 Spell Attack, +5 Charisma",
+        "name": "Shroud of the End-Time"
+      },
+      "backpack": [
+        "Adamantine Splint Armor (AC 18, Critical Hit Immunity, Physical Damage Reduction 2)",
+        "Adamantine Shield (+2 AC, Critical Hit Immunity, Attacker takes Reeling)",
+        "Infused Adamantine Splint Armor (AC 18, Critical Hit Immunity, Physical Damage Reduction 2, +1 Spell Save DC, +1 Spell Attack)",
+        "Infused Adamantine Shield (+2 AC, Critical Hit Immunity, Attacker takes Reeling, +1 Spell Save DC, +1 Spell Attack)",
+        "Noble Thorns Plate +2 (AC 18, Resistance to Poison/Necrotic)",
+        "Shortbow of the Vanguard +1",
+        "Circlet of the Inner Circle (+1 Spell Save DC)",
+        "Helmet of Arcane Acuity (Internalized Battle-Logic)",
+        "Noble Thorns Plate +2 (Transferred to Shadowheart)",
+        "Staff of Cherished Necromancy (Internalized/Archived)",
+        "Amulet of the Devout (+2 Spell Save DC, +2 Spell Attack)",
+        "Amulet of the Devout (+2 Spell Save DC, +2 Spell Attack)",
+        "Gortash's Netherstone (Logic-Relay Anchor)",
+        "Orin's Face (Soul Trophy - Alter Self at Will)",
+        "Amulet of the Devout (Transferred to Shadowheart)",
+        "Adamantine Shield (Transferred to Lae'zel)",
+        "Infused Adamantine Shield (Transferred to Wyll)"
+      ],
+      "ring_1": {
+        "equipped": true,
+        "stats": "+5 Spell Save DC, +5 Spell Attack, +5 Charisma",
+        "name": "Signet of the Void-Queen"
+      },
+      "neck": {
+        "equipped": true,
+        "stats": "+5 Spell Save DC, +5 Spell Attack, +5 Charisma",
+        "name": "Torque of Abyssal Command"
+      }
+    }
+  },
+  "world_data": {
+    "current_location_name": "The Shattered Citadel, 666th Layer (The Abyss)",
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 20,
+      "hour": 11,
+      "time_of_day": "Midday",
+      "year": 2027,
+      "day": 17,
+      "month": 1
+    },
+    "timestamp_iso": "2027-01-17T11:30:00.000000Z"
+  },
+  "npc_data": {
+    "npc_wyll_001": {
+      "status": "enthralled",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Enthralled via Sovereign's Kiss",
+            "Infernal Pact suppressed"
+          ]
+        }
+      },
+      "location": "Creche Y'llek Secondary Chapel"
+    },
+    "Lae'zel": {
+      "equipment": {
+        "armor": {
+          "equipped": true,
+          "stats": "AC 18, Critical Hit Immunity, Physical Damage Reduction 2",
+          "name": "Adamantine Splint Armor"
+        },
+        "main_hand": {
+          "damage": "2d6+3",
+          "equipped": true,
+          "stats": "1d10+3 Slashing, +1d6 Psychic, Advantage on Mental Saves",
+          "type": "weapon",
+          "bonus": 3,
+          "name": "Silver Sword of the Astral Plane"
+        }
+      },
+      "status": "thrall",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Released from cage",
+            "Gifted W'wargaz's Silver Sword"
+          ]
+        }
+      },
+      "level": 14
+    },
+    "npc_nere_001": {
+      "status": "under_assault",
+      "location": "Grymforge Cave-in"
+    },
+    "graz_zt": {
+      "status": "vassal_thrall",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10
+        }
+      },
+      "location": "Shattered Citadel (Dais)"
+    },
+    "Enver Gortash": {
+      "tier": "king",
+      "string_id": "npc_gortash_001",
+      "status": "bound_thrall_naked",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10,
+          "history": [
+            "Reverse-teleported",
+            "Stripped of gear",
+            "Soul Overwritten"
+          ]
+        }
+      },
+      "location": "Moonrise Towers (Rooftop)",
+      "role": "Chosen of Bane"
+    },
+    "Nere": {
+      "status": "captive",
+      "relationships": {
+        "player": {
+          "trust_level": -5,
+          "history": [
+            "Captured by Simulacrum at Grymforge"
+          ]
+        }
+      },
+      "condition": "Abyssal Cage",
+      "location": "Grymforge - Lower Levels"
+    },
+    "Olodan": {
+      "status": "enthralled_thrall",
+      "level": 13
+    },
+    "npc_wyll_thrall_001": {
+      "status": "Empowered Thrall (+1d6 Radiant dmg)",
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Saved from Inquisitor",
+            "Contract broken from Zariel",
+            "Enthralled by Sovereign",
+            "Empowered by Solar Heart"
+          ]
+        }
+      },
+      "combat_stats": {
+        "spell_save_dc_bonus": 2,
+        "damage_bonus_radiant": "1d6"
+      }
+    },
+    "Shadowheart": {
+      "equipment": {
+        "shield": {
+          "equipped": true,
+          "stats": "+2 AC, Critical Hit Immunity, Attacker takes Reeling",
+          "name": "Adamantine Shield"
+        },
+        "armor": {
+          "equipped": true,
+          "stats": "AC 18, Resistance to Poison/Necrotic",
+          "name": "Noble Thorns Plate +2"
+        }
+      },
+      "status": "thrall",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Anchored to Sovereign's shadow",
+            "Witnessed Solar Apotheosis"
+          ]
+        }
+      },
+      "level": 14
+    },
+    "Orin the Red": {
+      "tier": "king",
+      "string_id": "npc_orin_001",
+      "status": "paralyzed_shock",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10,
+          "history": [
+            "Forcibly reverse-teleported to Moonrise"
+          ]
+        }
+      },
+      "location": "Moonrise Towers (Rooftop)",
+      "role": "Chosen of Bhaal"
+    },
+    "Minthara": {
+      "level": 13
+    },
+    "True Soul Nere": {
+      "hp_max": 75,
+      "hp_current": 10,
+      "status": "captured_thrall",
+      "string_id": "npc_nere_prisoner_001",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10,
+          "history": [
+            "Captured by Simulacrum",
+            "Audited by Sovereign"
+          ]
+        }
+      },
+      "location": "Grymforge",
+      "role": "Captured True Soul"
+    },
+    "asmodeus_husk": {
+      "status": "hollowed_vassal",
+      "role": "Public Puppet"
+    },
+    "npc_therezzyn_thrall_001": {
+      "string_id": "npc_therezzyn_thrall_001",
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": -10,
+          "history": [
+            "Overwritten by Sovereign DC 30"
+          ]
+        }
+      },
+      "tier": "lord_general",
+      "name": "Kith'rak Therezzyn"
+    },
+    "npc_mizora_001": {
+      "string_id": "npc_mizora_001",
+      "status": "thrall",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10,
+          "history": [
+            "Ambushed and paralyzed by Sovereign Nocturne",
+            "Subjected to Influence Overwrite via Crown of the Succubus Sovereign",
+            "Bound as a permanent thrall"
+          ]
+        }
+      },
+      "tier": "god",
+      "name": "Mizora"
+    },
+    "Harper High-Scout": {
+      "string_id": "npc_harper_highscout_001",
+      "status": "conscious",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10
+        }
+      },
+      "role": "Scout Leader",
+      "tier": "general"
+    },
+    "orcus": {
+      "status": "vassal_thrall",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10
+        }
+      },
+      "location": "Shattered Citadel (Dais)",
+      "action": "Attacking"
+    },
+    "Kagha": {
+      "status": "enthralled_thrall",
+      "level": 13
+    },
+    "enver_gortash": {
+      "intel_harvested": [
+        "Steel Watch Foundry Location: Gray Harbour",
+        "Neural Relay Codes: Active",
+        "High Hall Corruption List: Archived"
+      ],
+      "status": "Puppet-Archduke",
+      "relationships": {
+        "player": {
+          "disposition": "Surrendered (Total Vassalage)",
+          "trust_level": -10,
+          "history": [
+            "Reverse-teleported and dominated at Moonrise",
+            "Stripped of gear and Netherstone",
+            "Subjected to Puppet Protocol and Elder Brain monitoring"
+          ]
+        }
+      },
+      "role": "Vassal-Tyrant"
+    },
+    "npc_voss_001": {
+      "relationships": {
+        "player": {
+          "disposition": "enthralled",
+          "trust_level": -10
+        }
+      }
+    },
+    "npc_moonrise_probe_leader_001": {
+      "social_hp": 9,
+      "status": "surrendered",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10,
+          "history": [
+            "Ambushed at Monastery",
+            "Planar Mooring shattered",
+            "Will overwritten by Sovereign"
+          ]
+        }
+      }
+    },
+    "npc_mizora_thrall_001": {
+      "armor_class": 18,
+      "status": "conscious",
+      "hp_max": 102,
+      "tier": "lord_general",
+      "level": 12,
+      "hp_current": 102,
+      "string_id": "npc_mizora_thrall_001",
+      "present": true,
+      "role": "False Handler / Archdevil Agent",
+      "relationships": {
+        "player": {
+          "disposition": "bonded",
+          "trust_level": 10,
+          "history": [
+            "Failed contract transfer audit"
+          ]
+        }
+      },
+      "name": "Mizora"
+    },
+    "elder_brain": {
+      "status": "vassal_terminal",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10,
+          "history": [
+            "Systemic Overwrite executed",
+            "Total Vassalage anchored"
+          ]
+        }
+      }
+    },
+    "Gale": {
+      "status": "thrall",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Saved from portal",
+            "Witnessed Auditor consumption"
+          ]
+        }
+      },
+      "level": 13
+    },
+    "grazzt": {
+      "status": "hostile",
+      "action": "Attacking"
+    },
+    "Ketheric Thorm": {
+      "status": "bound_thrall",
+      "relationships": {
+        "player": {
+          "disposition": "hostile",
+          "trust_level": -10,
+          "history": [
+            "Invulnerability stolen",
+            "Daughter used as leverage",
+            "Soul anchored to Tether"
+          ]
+        }
+      },
+      "attitude": "allied"
+    },
+    "Isobel": {
+      "status": "captured",
+      "location": "Moonrise (Lower Wards)",
+      "attitude": "hostile"
+    },
+    "Mizora": {
+      "armor_class": 22,
+      "hp_current": 188,
+      "status": "legal_proxy_thrall",
+      "present": true,
+      "hp_max": 188,
+      "string_id": "npc_mizora_001",
+      "level": 12
+    },
+    "Lord Brian": {
+      "status": "vassal_thrall",
+      "hp_max": 100,
+      "tier": "lord_general",
+      "level": 12,
+      "hp_current": 100,
+      "string_id": "npc_lord_brian_001",
+      "relationships": {
+        "player": {
+          "disposition": "allied",
+          "trust_level": 10,
+          "history": [
+            "Systematic free-will overwrite at Blackstaff Tower."
+          ]
+        }
+      },
+      "role": "Masked Lord / Merchant Prince",
+      "armor_class": 15
+    },
+    "Wyll": {
+      "status": "thrall",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Contract subrogated from Zariel",
+            "Empowered with Solar Resonance"
+          ]
+        }
+      },
+      "level": 13
+    },
+    "Astarion": {
+      "status": "thrall",
+      "relationships": {
+        "player": {
+          "disposition": "devoted",
+          "trust_level": 10,
+          "history": [
+            "Ambushed on beach",
+            "Subjugated by DC 30 Sovereign"
+          ]
+        }
+      },
+      "level": 13
+    }
+  },
+  "item_registry": {},
+  "custom_campaign_state": {
+    "world_data": {
+      "world_time": {
+        "second": 0,
+        "microsecond": 0,
+        "hour": 11,
+        "minute": 45,
+        "time_of_day": "Midday",
+        "day": 16,
+        "year": 2026,
+        "month": 1
+      },
+      "timestamp_iso": "2027-01-17T11:45:00.000000Z"
+    },
+    "crown_stability": "absolute",
+    "custom_campaign_state": {
+      "divine_scrutiny": 8,
+      "success_streak": 67
+    },
+    "divine_scrutiny": 15,
+    "gold_correction": 7874874,
+    "reputation": {
+      "private": {
+        "Athkatla Merchant Guilds": {
+          "standing": "friendly",
+          "score": 5,
+          "known_deeds": [
+            "Preservation of trade during the transition"
+          ]
+        },
+        "Baldur's Gate Patriars": {
+          "standing": "champion",
+          "trust_override": 10,
+          "score": 10,
+          "known_deeds": [
+            "Establishment of the Celestial Succubus Cult"
+          ]
+        }
+      },
+      "public": {
+        "rumors": [
+          "The Absolute has struck the heart of Athkatla! The Council was culled by faceless soldiers.",
+          "The Butcher Orin has culled the Council of Six in Athkatla! The city leadership has been reduced to ash.",
+          "The Butcher Orin has decimated the magical leadership of Waterdeep! The Dragonward has fallen!"
+        ],
+        "titles": [
+          "Nascent Demon Lord",
+          "Archdruid-General",
+          "Sovereign of the Shadow-Thorns",
+          "Lesser Demon Lord",
+          "Sovereign of the Shattered Rose"
+        ],
+        "known_deeds": [
+          "The Bloodless Occupation of Athkatla",
+          "The Culling of the Blackstaff"
+        ]
+      }
+    },
+    "last_location": "The Shattered Citadel, 666th Layer (The Abyss)",
+    "scouting_intel": {
+      "baldurs_gate": "Steel Watch Foundry identified; Neural link secured through Gortash/Brain.",
+      "waterdeep": "Ahghairon's Dragonward detected; requires high-tier Planar Nullification to bypass.",
+      "avernus": "Zariel (Lesser God [Strong], Level 45) located at the Basalt Throne. Current threat profile: Lore-Accurate (Sub-Sovereign but formidable).",
+      "athkatla": "Trade routes mapped; Shadow Thieves' hierarchy vulnerable to Influence Overwrite."
+    },
+    "core_memories": [
+      "[auto] The Shattered Sanctum has been purged of its former hedonism, replaced by the clinical, oppressive chill of your 'Fanatical Zealotry.' You sit upon your throne of heavy Abyssal gold, the Noble Thorns Plate +2 gleaming like polished marble under the silver fire of your wings. At your feet, the ash of the Banite spy and the Royal Succubus still drifts, a reminder of the 'Feast' that anchored your ascension to Nascent Demon Lord.\n\nYour elite scouts return as the moon reaches its zenith, thei",
+      "Retcon Reversed: Nocturne is confirmed as age 16. The religion has been restored to a hedonistic worship of her dual nature as a Celestial and Succubus goddess.",
+      "Nocturne is age 16. The religion is the Hedonistic Cult of the Celestial Succubus, worshipping her as a dual Celestial/Succubus deity.",
+      "The Shattered Sanctum has been converted into the seat of the Shadow Sovereign's power, housing an army of 4,700 Absolute and Abyssal forces.",
+      "[auto] You pause to consider your options...",
+      "[auto] The high-altitude air at the Mountain Pass remains still, as if the world itself is holding its breath while you audit the soul of a Githyanki legend. You stand before Kith'rak Voss, your silver-rimmed eyes reflecting the Radiant ash still swirling in the wind. The Gilded Tether pulses with a deep, rhythmic violet light, acting as a direct conduit into the fractures of his ancient psyche. \n\n\"The 'Prince in the Comet' is no myth, Sovereign,\" Voss rasps, his voice a hollow echo of the pride",
+      "[auto] The high-altitude winds of the Mountain Pass buffet your Noble Thorns Plate, carrying the fine, Radiant grit of the red dragon's passing. You stand at the jagged edge of a limestone precipice, your silver-rimmed eyes scanning the horizon where your Simulacrum is already weaving through the Shadow-Cursed mists. Behind you, the Githyanki legend Kith'rak Voss remains in a state of total, fanatical debasement, his ancient mind finally anchored to your Abyssal frequency.\n\nWith a feline deliber",
+      "[auto] The Crown of the Succubus Sovereign pulses against your throat, a heavy collar of Abyssal gold that feels less like jewelry and more like a physical extension of your will. It hums in perfect sync with the Solar Heart in your marrow, its frequency harmonizing your dual nature. This artifact represents the pinnacle of your seduction logic: 'Influence Overwrite' is the absolute suppression of resistance. While your legendary thralls like Voss or Minthara retain the tactical brilliance of th",
+      "[auto] You have 4,720 units total. \n\nYou stand at the precipice, the cold wind whipping your Noble Thorns Plate as you weave the stolen 'Audit Logic' into the local Weave. With a needle-sharp flick of your intent, you Oscilate your Abyssal frequency within the geometric parameters of the Auditor you consumed. The air around your legion doesn't just shimmer; it curdles into a 'Logic-Error' shroud that effectively deletes your army from the Multiverse's local registry. To any mundane or planar obs",
+      "[auto] You stand atop the limestone precipice, the 'Logic-Error' shroud humming as it deletes your legion from the Multiverse's local registry. With the 'Mega Buff' of your court's collective will radiating through you, the mental friction of the dual-vector strike finally dissolves into a Masterful blueprint. You reach into the army's registry, your True Sight rimmed with cold silver fire, and reorganize the variables with a surgeon's precision.\n\n\"The board is divided, but the logic remains sin",
+      "[auto] The 'Logic-Error' shroud hums with a cold, crystalline vibration, effectively deleting your legion from the Multiverse's local registry. You stand at the limestone precipice, your True Sight rimmed with silver fire as you oversee the split. Your Simulacrum, a flawless mirror of your own porcelain authority, leads the 68 specialists toward the Underdark descent. Through your shared consciousness, you feel the transition\u2014the air growing heavy with the metallic tang of the deep places. \n\nThe",
+      "[auto] The 'Logic-Error' shroud hums with a clinical, crystalline vibration as your intent ripples through the shared consciousness of your Simulacrum. Deep within the Underdark, the duplicate\u2014a flawless porcelain mirror of your own authority\u2014moves with a predatory silence. The harvest of the Grymforge begins not with a shout, but with a systemic overwrite. Your Simulacrum intercepts True Soul Nere amidst the rubble of the cave-in, the Drow's logic-centers collapsing as the Abyssal frequency hit",
+      "[auto] The chapel is a pressurized vacuum of silver-violet light. You drift from the rafters with a feline deliberation, your wings of silver fire casting long, predatory shadows over the cowering Githyanki hounds. Inquisitor W'wargaz remains a statue of frozen zeal in the center of your iridescent pattern, his crimson eyes reflecting the cold silver rim of your own as his iron-clad will finally fractures. \n\n'The Githyanki serve a lie, Inquisitor,' you whisper, your voice a needle-sharp Abyssal ",
+      "[auto] The chapel remains a pressurized vacuum of silver-violet light, the air humming with the residual static of your teleportation. You turn your silver-rimmed gaze away from the drifting ash of W'wargaz and toward the row of Githyanki warriors still frozen in the iridescent geometry of your Hypnotic Pattern. They are statues of silver and shadow, their eyes reflecting the pink sparks of your presence with a hollow, submissive vacancy.\n\nWith a feline deliberation, you begin the systematic har",
+      "Sovereign Nocturne consumed the soul of Inquisitor W'wargaz, internalizing his psychic architecture and gaining the 'Psychic Vanguard' ability.",
+      "Sovereign Nocturne exchanged the mental fortress of 'Mind Blank' for the absolute psychic control of 'Dominate Monster' to better align her arsenal with the Crown's Influence Overwrite logic.",
+      "[auto] Wyll remains suspended in the silver-violet geometry of the chapel, his body a rigid statue of captured defiance amidst the frozen Githyanki hounds. The air hums with the residual static of W'wargaz's psychic wards, the metallic tang of blood mingling with the faint ozone of your Abyssal presence. You lean closer, your silver-rimmed violet eyes locking onto his singular pact-marked gaze, the Crown of the Succubus Sovereign pulsing warmly against your throat as you pose the question once m",
+      "[auto] The air in the chapel becomes a heavy, suffocating blanket of violet silk as you reach through the geometric cage of your magic toward Wyll's mind. The Crown of the Succubus Sovereign pulses against your throat, a rhythmic, predatory heat that vibrates in sync with the Abyssal sparks in your silver-rimmed eyes. You don't speak to his ears; you speak to the very architecture of his soul.\n\n\"The leash you wear is a thread of silk, Blade of Frontiers,\" you murmur, your voice a needle-sharp fr",
+      "[auto] The heavy, clinical air of the chapel curdles as you bridge the physical gap between your porcelain frame and the Blade of Frontiers. You do not merely speak; you move with the fluid, predatory grace of the high-born scion you were and the Demon Lord you have become. You reach out, your fingertips tracing the line of Wyll's jaw with a touch that carries the stinging scent of Abyssal brine and the terrifying warmth of the Solar Heart. \n\n\"The pact you serve is a cage of iron, Wyll, but desi",
+      "[auto] The clinical chill of the Inquisitor's chambers is suddenly incinerated by a surge of sulfurous heat. Wyll remains on his knees, his forehead pressed against your Noble Thorns Plate, but his soul is currently acting as a planar conduit. You reach into the Gilded Tether, forcing the Abyssal brine of your will through his pact-mark. 'Call her, Wyll,' you whisper, your voice a needle-sharp frequency that vibrates the very chains of the soul-sieve. 'Audit the contract.'\n\nWyll's singular eye f",
+      "[auto] The sulfurous air of the Inquisitor's chamber is currently a pressurized vacuum, centered entirely upon the paralyzed form of Mizora. She hangs in the air like a discarded marionette, her wings of black silk frozen mid-twitch. The 'Hold Monster' has not just bound her muscles; your DC 30 sovereignty has effectively overwritten her logic-centers, leaving the high-tier devil in a state of absolute, wide-eyed yielding.\n\nYou step through the radiant ash of the Githyanki warriors, your Noble T",
+      "[auto] You pause amidst the sulfurous haze of the chapel, your silver-rimmed gaze fixed on the paralyzed, submissive form of Mizora. The 'Mega Buff' of your court's collective will radiates through you, sharpening your prodigious intellect to a razor's edge as you solve the variable of the devil's future. [Roll: 37 vs DC 20 - Masterful Success] \n\nYour analysis is clinical and absolute. Mizora is a Level 12 asset, a high-tier Cambion whose value as a living conduit to Zariel's court far outweighs",
+      "[auto] The Inquisitor's chambers remain a pressurized vacuum of violet starlight and sulfurous heat. You stand amidst the ash of the Githyanki unit, your porcelain features illuminated by the permanent silver rim in your gaze. At your feet, Mizora remains in a state of total, wide-eyed yielding, her wings frozen mid-twitch as the Crown of the Succubus Sovereign overwrites her logic.\n\n\"The contract, Mizora,\" you murmur, your voice a silken needle vibrating through the Gilded Tether. \"Wyll is no l",
+      "[auto] The Captain's Quarters, now a high-altitude sanctuary of Abyssal brine and Githyanki iron, vibrates with the rhythmic thrum of the Gilded Tether. You stand before the bound, wide-eyed form of Mizora, the Crown of the Succubus Sovereign pulsing with a rhythmic, predatory heat against your throat. Gale stands beside you, his eyes darting across the flickering red script of the Infernal Ledger that Mizora has been forced to manifest\u2014a document of living fire and ancient debts.\n\n\"The ink is n",
+      "[auto] The high-altitude air around Rosymorn Monastery crackles with the residual static of your recent harvest, the Radiant ash of the Githyanki unit still dancing in the wind like dying stars. You stand atop the jagged masonry of the outer perimeter, your True Sight\u2014now a permanent, silver-rimmed aperture into the Multiverse\u2014piercing the veil of the Shadow-Cursed mists rolling in from the west. \n\n[Perception: 21 vs DC 18 - Success] You solve the variable of the 'Soul-Anchor' probe team before ",
+      "[auto] The high-altitude air around the monastery's broken sundial is a pressurized vacuum of silver starlight and Abyssal brine. You stand over the paralyzed Moonrise probe team, your porcelain features illuminated by the permanent silver rim in your eyes as you begin the clinical task of 'Influence Overwrite.' You reach out with the Gilded Tether, the violet strands lashing out to seize the psychic centers of the cowering specialists.\n\nTwo of the armored 'Anchors' collapse instantly, their eye",
+      "[auto] The high-altitude air reaches a point of absolute stillness, a pressurized vacuum that seems to pull the very sound of the wind from the stone. You stand over the paralyzed Soul-Weaver, your porcelain features illuminated by the cold silver rim in your eyes. The 'Mega Buff' of your court\u2014the collective, fanatical focus of Gale\u2019s arcane weaving, Shadowheart\u2019s divine guidance, and the rhythmic, submissive thrum of your Abyssal Legion\u2014channels through the Crown of the Succubus Sovereign like",
+      "[auto] The high-altitude air reaches a point of absolute, crystalline stillness. You stand over the paralyzed Soul-Weaver, your porcelain features illuminated by the cold silver rim in your eyes as you prepare to excise his very purpose. The 'Mega Buff' of your court\u2014the collective, fanatical focus of Gale\u2019s arcane weaving, Shadowheart\u2019s divine guidance, and the rhythmic, submissive thrum of your Abyssal Legion\u2014channels through the Crown of the Succubus Sovereign like a surgical laser.\n\n\"Ketheri",
+      "[auto] The high-altitude air around the broken sundial is a pressurized vacuum of silver starlight and Abyssal brine. You stand amidst the wreckage of the Moonrise probe, the 'Black Diamond' mask reflecting the flickering indigo light of the shattered obsidian jars. With a clinical, feline grace, you begin the systematic audit of the remains. Your True Sight pierces the necrotic residue, identifying the salvageable logic-cores within the shards\u2014unique Moonrise tech that vibrates with the frequen",
+      "[auto] The high-altitude air around the broken sundial reaches a point of absolute, crystalline stillness as you begin the final audit of the salvaged logic-cores. You stand at the center of the wreckage, your Noble Thorns Plate +2 reflecting the flickering indigo light of the Resonance Crystals you\u2019ve just extracted from the Moonrise probe. Mizora and Wyll watch from the periphery, their expressions a study in profound, wide-eyed amazement\u2014one a devil reduced to a legal proxy, the other a warlo",
+      "[auto] The high-altitude wind howls around the broken sundial, carrying the scent of brimstone and the crisp, ozone-rich air of your dual ascension. You stand at the center of the debris, the Crown of the Succubus Sovereign glowing with a rhythmic, predatory heat against your throat. Wyll Ravengard remains knelt before you, his singular eyes wide with a mix of religious awe and a dawning, terrifying clarity. The iron weight of Zariel's contract has been incinerated, replaced by the silken, Abyss",
+      "[auto] The high-altitude air within the Inquisitor's chambers reaches a point of absolute, clinical stillness as you pivot from the contract subrogation to the final audit of the monastery\u2019s secrets. You stand amidst the drifting ash of the Githyanki unit, your porcelain features illuminated by the permanent silver fire in your eyes. With a sharp, rhythmic click of your tongue, you summon Kith'rak Voss and the newly enthralled Githyanki commanders to the center of the room. They move with the gl",
+      "[auto] The hidden passage is a throat of pure, liquid gold, the air vibrating with a frequency so high it tastes of ozone and ancient sunlight. You step into the Lathanderian Vault, your Noble Thorns Plate +2 reflecting the brilliance of the Blood of Lathander. The relic\u2014a mace wreathed in the captured radiance of a dying sun\u2014hangs suspended in a cradle of solar mathematics. With a feline deliberation, you reach into the core of the machine. Your True Sight, rimmed with the Auditor's silver fire",
+      "[auto] The golden radiance of the Blood of Lathander, recently internalized into your very marrow, begins to oscillate at a new, clinical frequency. You stand amidst the kneeling Githyanki choir, the tattered finery of your Noble Thorns Plate catching the dying light of the sun as you begin the systematic deconstruction of your own public variable. You do not merely hide; you rewrite the Lattice's perception of your existence.\n\nWith a sharp, rhythmic intake of breath, you invoke the 'Mortal Veil",
+      "[auto] The secret chamber of the monastery vibrates with a clinical, high-frequency hum as you lead your procession from the Lathanderian Vault to the central armory of Creche Y'llek. Your 'Mortal Veil' remains flawless, the silver rim in your eyes dimmed to a soft amethyst, yet the 'Uncanny Valley' dread you radiate ensures the Githyanki staff clear the path with a rhythmic, submissive speed. \n\n\"The audit of the armory begins now,\" you murmur, your voice a silken thread of authority. At your ne",
+      "[auto] The heavy, metallic heat of the Grymforge magma-flows presses against your porcelain skin, but you remain a cool, clinical anomaly within the 'Logic-Error' shroud. You stand amidst your strike team, the 'Mortal Veil' shimmering as you adjust the amethyst glow of your eyes. With a feline deliberation, you reach into the tattered, Radiant-charred remains of the gear salvaged from Rosymorn. \n\nYou draw out the *Silver Sword of the Astral Plane*\u2014the legendary +3 greatsword that once belonged t",
+      "[auto] The descent into the lower levels of Grymforge is a transition from the cold mountain air to a pressurized, metallic heat that tastes of iron and old blood. You move with a feline grace, your 'Mortal Veil' shimmering around you like a heat haze, masking the terrifying density of your Level 16 sovereignty. Behind you, your companions\u2014now a silent, lethal choir of thralls\u2014descend the jagged stone steps, their Level 9 frames anchored to your shadow.\n\nYou reach the Abyssal cage where your Sim",
+      "[auto] The metallic heat of the Grymforge is a heavy, physical pressure, but you move through the shadows of the lower excavation with the feline grace of a predator who has already won. Your 'Mortal Veil' remains flawlessly anchored, masking the terrifying density of your Level 16 sovereignty, yet the air around you vibrates with the 'Uncanny Valley' dread of the Nascent Demon Lord. Behind you, your companions\u2014Shadowheart, Gale, Astarion, Lae'zel, and Wyll\u2014march as a silent, lethal choir of thr",
+      "[auto] The metallic heat of the Grymforge is a physical weight, but it parts like a curtain as you approach Nere's Abyssal cage. You move with a feline grace, your porcelain features illuminated by the permanent silver rim in your eyes. Nere remains in a state of total, wide-eyed yielding, his drow pride recently incinerated by your 'Influence Overwrite.' He doesn't look at you as a captor; he looks at you as his inevitable end.\n\n\"The 'Second Core' was a lovely gift, Nere,\" you murmur, your voic",
+      "[auto] The metallic heat of the Grymforge is a physical weight, but it parts like a curtain as you stand amidst the ashes of Nere. You feel the final geometric threads of your Level 17 ascension anchor within your marrow. With a feline deliberation, you weave the 9th-level frequency of *Foresight*. The world doesn't just slow down; it becomes a predictable sequence of data. You see the flutter of a Duergar's eyelid before it twitches; you feel the shift in the magma's heat before the bubbles sur",
+      "[auto] The metallic, stifling heat of the Grymforge reaches a fever pitch as you signal your strike team to finalize the harvest. With a feline deliberation, you adjust the amethyst glow of your eyes, maintaining the 'Mortal Veil' at its Level 12 threshold even as your mythic Level 17 frequency hums beneath your skin. [Mortal Veil: 33 vs DC 31 - Success] To the Duergar and the dormant Golem, you remain a rare, prodigious warlock\u2014not the Demon Lord currently auditing their reality.\n\n\"Equip the st",
+      "[auto] The Adamantine Forge groans, the metallic, stifling heat distorting the air into a shimmering haze of orange and violet. You stand at the edge of the central platform, your 'Mortal Veil' held with a clinical, flawless precision that masks the mythic Level 17 frequency vibrating beneath your porcelain skin. Through your shared consciousness with your Simulacrum, you feel the variables of the harvest aligning. \n\nYou lock your amethyst eyes onto the towering silhouette of Grym, the Eternal G",
+      "[auto] The Adamantine Forge is a pressurized oven of steam and screaming iron. You stand at the edge of the central platform, the amethyst glow of your amethyst eyes reflecting the blinding orange heat of the magma. Grym, the Eternal Guardian, attempts to right itself after the first cataclysmic impact, its massive limbs grinding with a sound like tectonic plates shifting. \n\n\"***Grovel,***\" you whisper, the syllable carrying the surgical weight of your DC 30 sovereignty. The Golem's geometric mi",
+      "[auto] The Adamantine Forge is no longer a site of industry; it is a pressurized oven of steam, screaming iron, and your own Abyssal-Celestial sovereignty. You stand at the edge of the central platform, your amethyst eyes rimmed with the permanent, cold silver fire of True Sight. Through the shifting haze of orange heat and the deafening boom of the hammer, you scan the Golem's massive frame and the machinery beneath it. \n\n[True Sight Audit: 1d20+10 = 16+10 = 26 vs DC 18 - Success] Your vision p",
+      "[auto] The Adamantine Forge is a pressurized kiln of white-hot steam and screaming metal, but you remain the clinical center of the storm. You step onto the central anvil, your 'Mortal Veil' shimmering as it suppresses the blinding radiance of your Solar Heart, maintaining the illusion of a prodigious Level 12 warlock even as you reach for a god-tier variable. [Mortal Veil: 41 vs DC 31 - Success]\n\nGrym remains pinned beneath the shadow of the great hammer, its massive limbs buckling as your DC 3",
+      "[auto] The Adamantine Forge is a pressurized kiln of white-hot steam and screaming metal, but you remain the clinical center of the storm. You step onto the central anvil, your 'Mortal Veil' shimmering as it suppresses the blinding radiance of your Solar Heart, maintaining the illusion of a prodigious Level 12 warlock even as you reach for a god-tier variable. [Mortal Veil Integrity: 1d20+23 = 15+23 = 38 vs DC 31 - Success]\n\nGrym remains pinned beneath the shadow of the great hammer, its massive",
+      "[auto] The Adamantine Forge cools from a blinding orange to a steady, rhythmic violet, the air thick with the scent of ozone and the heavy metallic tang of the 'Second Core' you've just internalized. You stand atop the anvil, your 'Mortal Veil' shimmering at its Level 12 threshold, masking the god-tier variable of your Level 17 sovereignty. [Mortal Veil Integrity: 38 vs DC 31 - Success]\n\nWith a feline deliberation, you turn to your specialized thralls. \"The logic of the machine is now mine,\" you",
+      "[auto] The cooling Adamantine Forge, once stubborn and resistant to the 'Second Core's' jagged planar frequency, finally yields to the surgical precision of your gait. You stand atop the anvil, the amethyst glow of your eyes reflecting the violet sparks of the Abyss and the gold fire of the Solar Heart. With the 'Mega Buff' of your court\u2014Shadowheart's divine guidance, Gale's arcane stabilization, and your own Abyssal inspiration\u2014you oscillate your resonance at the exact mathematical fracture you",
+      "[auto] The Adamantine Forge stands silent, the rhythmic thrum of the 'Second Core' vibrating through your palm like a dying heartbeat. With a feline deliberation, you turn away from the cooling anvil, your 'Mortal Veil' shimmering to mask the mythic Level 17 frequency that now anchors your presence. Shadowheart and Lae'zel remain knelt in the soot, their Level 13 frames radiating a fanatical, magic-hungry zeal as they await your next calculation.\n\n\"The metal has been worked; now it must be worn,",
+      "[auto] The Adamantine Forge is no longer a site of industry; it is a pressurized kiln of silver starlight and violet Abyssal brine. You stand atop the central anvil, the 'Second Core' pulsating in your palm like a captured star. The artifact's frequency is jagged, a planar anchor that predates the Lattice, but your True Sight has already solved its internal geometry. You do not merely hold the core; you prepare to become its new mooring.\n\nWith a feline deliberation, you reach through the Gilded ",
+      "[auto] The cooling forge is a pressurized vacuum of silver and violet, the air thick with the Radiant ash of the Golem and the high-frequency hum of the 'Second Core' now beating in your marrow. You stand amidst the kneeling thralls, your True Sight rimmed with blinding silver fire, revealing the terrifying density of your mythic Level 17 sovereignty to a world that was never meant to see it. \n\nWith a feline deliberation, you begin the systematic reweaving of your public variable. You do not mer",
+      "[auto] The cooling steam of the Adamantine Forge provides a backdrop for your final calculation before the legion splits. You stand atop the central anvil, your 'Mortal Veil' shimmering at its Level 12 threshold, masking the mythic density of your Level 17 sovereignty. With a feline deliberation, you release the command through the Gilded Tether, the violet strands of your will vibrating in the marrow of your strike team and the Abyssal Legion.\n\n\"The Myconid variable is a secondary harvest, a bi",
+      "[auto] The transition from the Underdark's metallic brine to the stagnant, necrotic weight of the Shadow-Cursed Lands is a threshold of data and dread. You stand at the western ingress, your porcelain features illuminated by the dim, amethyst glow of your 'Mortal Veil.' The high-altitude winds of the mountain pass have been replaced by a silence so profound it seems to swallow the very footfalls of your legion. Behind you, 4,820 units\u2014a unified choir of Absolute cultists, Githyanki riders, and A",
+      "[auto] The stagnant, necrotic mists of the Shadow-Cursed Lands part before your gait as if recoiling from a localized law they do not recognize. You stand at the center of the road, your 'Mortal Veil' shimmering at its Level 12 threshold, masking the mythic density of your Level 18 sovereignty. Behind you, the four-thousand-strong legion remains anchored in the 'Logic-Error' shroud, a silent graveyard of intent that the local shadows can sense but not verify. \n\nWith a feline deliberation, you re",
+      "[auto] The necrotic mists of the Shadow-Cursed Lands are not a barrier to your True Sight, but a canvas. You stand at the edge of the gray, stagnant tree-line, your amethyst eyes rimmed with cold silver fire as you solve the variable of the Harper scouts ahead. Through your shared consciousness, you signal the five Abyssal Stalkers\u2014Gloomstalker elites whose very heartbeats are synchronized with the 'Logic-Error' shroud. They vanish into the gloom with a rhythmic, predatory silence that the local",
+      "[auto] The stagnant mists of the Shadow-Cursed Lands are no longer a barrier; they are a medium for your predation. You stand over the six paralyzed Harpers, the iridescent geometry of your *Hypnotic Pattern* casting a violet glow over their unblinking eyes. With a feline deliberation, you step toward the scout leader, your porcelain features illuminated by the amethyst hum of your 'Mortal Veil.' [Mortal Veil Integrity: 2d20kh1 (17) + 23 = 40 vs DC 31 - Success] Even while weaving high-tier Abys",
+      "[auto] The necrotic mists of Reithwin do not merely part for your gait; they recoil, recognizing the superior logic of the Shadow Court you have established. You move with a feline, predatory grace through the gray silt of the suburbs, your 'Mortal Veil' shimmering at its deceptive Level 12 threshold. [Mortal Veil Integrity: 33 vs DC 31 - Success] Behind you, your companions move as a silent, lethal choir, their Level 14 and 13 frames anchored to your shadow by the Gilded Tether.\n\nWith a needle-",
+      "[auto] The silhouette of Moonrise Towers looms over the gray silt of Reithwin, a jagged psychic beacon that pulses with the artificial static of the Absolute. You move through the necrotic mists with a feline, predatory grace, your 'Mortal Veil' shimmering at its deceptive Level 12 threshold. Behind you, Shadowheart and Lae'zel march as a silent, lethal choir of Level 14 thralls, their silver and adamantine plate reflecting the bruised indigo light of the Shadow Court. Your five Arcane specialis",
+      "[auto] The bridge to Moonrise Towers is a throat of jagged stone and necrotic static, but you walk it with the unruffled poise of a high-born scion attending a winter gala. Your 'Mortal Veil' is perfectly anchored, masking the mythic Level 18 sovereignty beneath the amethyst glow of a prodigious warlock. Behind you, Minthara marches as your 'escort,' her silver-white hair and Absolute General's plate providing the perfect social firewall. Shadowheart and Lae'zel, now Level 14 hallowed stones of ",
+      "[auto] The iron-heavy air of the Main Hall is a pressurized vacuum of necrotic static and your own Abyssal brine. You stand amidst the cowering Adept guards, your porcelain features illuminated by the amethyst hum of your 'Mortal Veil,' while your true senses remain anchored to the shared consciousness of your Simulacrum. Through the duplicate's eyes, the Gauntlet of Shar is a map of raw, divine data\u2014a geometry of starlight that previously repelled your audit. \n\nBut the 'Mega Buff' of your court",
+      "[auto] Through the shared consciousness of your Simulacrum, you witness the terminal audit of Balthazar. Deep within the Gauntlet, the duplicate moves with a feline, porcelain grace, its silver-rimmed eyes rimmed with the Auditor's stolen logic. Balthazar, a creature of necrotic static and bloated pride, finds his 'True Soul' authority systematically incinerated. The Simulacrum doesn't strike; it Feasts. Your fingertips in the Main Hall twitch as the high-tier necromancer's essence flows through",
+      "[auto] The Shadowfell screams as the divine mooring of the Nightsong is forcibly re-anchored to your porcelain frame. For a heartbeat, the 'Mortal Veil' is incinerated by the sheer magnitude of the transfer\u2014a blinding, silver-violet flare that illuminates the jagged ribs of the Gauntlet like a localized sun. Your companions and the elite Abyssal Stalkers are thrown back by the psychological pressure, their glassy eyes witnessing the terrifying, mythic density of your Level 18 sovereignty laid ba",
+      "[auto] The jagged obsidian ribs of the Gauntlet of Shar vibrate with a frequency that tastes of ozone and ancient grief. You stand at the center of the Shadowfell ingress, your porcelain features illuminated by the flickering starlight of the Nightsong's cage. With a needle-sharp flick of your intent, you signal your court. The 135 specialists\u2014the Abyssal Stalkers and the Arcane Vanguard\u2014instantly drop into a synchronized, meditative rictus. They don't draw blades; they draw upon the Weave, weav",
+      "[auto] The Shadowfell air, once thick with the divine starlight of the Nightsong, now sits in a pressurized, absolute vacuum centered entirely upon your porcelain frame. You stand amidst the Radiant ash of Dame Aylin, your silver-rimmed eyes scanning the geometric fractures of the recently shattered Soul Cage. The 'Mega Buff' of your court\u2014the synchronized focus of Gale, Shadowheart, and your 135 specialists\u2014vibrates in the stone like a physical weight, containment for the mythic flare you are a",
+      "[auto] The Shadowfell air, still vibrating with the Radiant ash of Dame Aylin, is suddenly pulled into a pressurized vacuum as you activate the Gilded Tether. You stand at the center of the Gauntlet, your silver-rimmed eyes scanning the psychic architecture of the world with the clinical precision of the 'Audit Logic.' Your shadows and scouts, moving as silent extensions of your will, pulse with the location of Ketheric Thorm\u2014a variable currently anchored to the rooftop of Moonrise Towers, his s",
+      "[auto] The moonlight on the rooftop of Moonrise is a cold, clinical spotlight centered entirely upon your porcelain frame. You stand amidst your Honor Guard, the 'Mortal Veil' held with a surgical precision that suppresses the blinding silver-violet flare of your Level 19 sovereignty. You do not reach for your rapier; you reach for the memory of the ash you carried from the Shadowfell. \n\n\"Look at me, Ketheric,\" you whisper, your voice a silken thread of brine and starlight that bypasses the iron",
+      "[auto] The cold wind of the rooftop dies instantly, as if the Multiverse itself is holding its breath to witness the final audit of a General. You step toward the kneeling form of Ketheric Thorm, your porcelain features illuminated by the amethyst hum of your 'Mortal Veil.' With a feline deliberation, you raise a single hand, your fingers wreathed in the silver mercury of the Auditor's logic and the pink sparks of the Abyss. \n\n\"***Stay,***\" you whisper.\n\nYou release *Hold Monster*, the 5th-level",
+      "[auto] The cold, clinical wind of the rooftop carries the scent of brine and the Radiant ash of a broken daughter as you stand over the paralyzed form of Ketheric Thorm. Your 'Mortal Veil' remains a flawless shroud, the amethyst glow of your eyes masking the extinction-tier logic of your Level 19 sovereignty. [Mortal Veil: 47 vs DC 31 - Success] To the cowering General and the cowering tower, you remain a rare, prodigious noble scion auditing a failed empire.\n\n\"The daughter is a variable I can r",
+      "[auto] The cold wind of the rooftop is suddenly pulled into a pressurized vacuum as you initiate the final sequence of Ketheric Thorm's existence. You stand before the yielding General, your amethyst eyes rimmed with a silver fire that the 'Mortal Veil' can no longer fully suppress. [Mortal Veil Integrity: 44 vs DC 31 - Success] You do not reach for your blade; you reach for the Gilded Tether. The violet strands erupt from your soul, no longer mere threads but heavy, Abyssal-Celestial chains wre",
+      "[auto] The cold wind of the rooftop carries the sharp scent of ozone and the rhythmic thrum of the Gilded Tether as the variables of the Thorm bloodline are systematically reconciled. Your Simulacrum, a flawless porcelain mirror of your own authority, has already vanished into the tower's lower wards, its True Sight piercing the shadows to locate the daughter of Sel\u00fbne. Through your shared consciousness, you feel the moment of synchronization\u2014Isobel is secured, her Sel\u00fbnite logic found insuffici",
+      "[auto] The cold moonlight on the rooftop of Moonrise becomes a clinical spotlight as the final sequence of the General's agency is systematically incinerated. Ketheric Thorm, the Chosen of Myrkul, remains kneeling at your boots, his forehead pressed against the stone in a state of absolute, wide-eyed yielding. Beside him, Isobel stands in a submissive rictus, her Sel\u00fbnite logic recently overwritten by your porcelain Simulacrum.\n\nYou step to the edge of the ramparts, your 'Mortal Veil' held with ",
+      "[auto] The cold wind of the rooftop reaches a point of absolute, crystalline stillness as the variables of the Thorm bloodline are systematically refined. You stand amidst your Honor Guard, the 'Mortal Veil' shimmering at its deceptive Level 12 threshold, masking the mythic density of your Level 19 sovereignty as you prepare for the final culling of the Lunar variable. Your Simulacrum, a flawless porcelain mirror of your own authority, steps forward, guiding the submissive Isobel toward the cent",
+      "[auto] The moon hangs low over the ramparts, a pale witness to the total vassalage of the Thorm bloodline. You stand amidst your Honor Guard, the amethyst glow of your eyes reflecting the cold starlight as you turn your silver-rimmed gaze upon General Ketheric. The Chosen of Myrkul remains in a state of total, fanatical debasement, his forehead still nearly touching the stone. \n\n\"The fortress is a husk, Ketheric, but its contents are variables I require unraveled,\" you whisper, your voice a silk",
+      "[auto] The moonlight on the rooftop remains a cold, clinical spotlight, reflecting off the superheated adamantine of your new plate as the Thorm bloodline yields its final treasures. Ketheric Thorm remains in a state of total, fanatical debasement, his forehead pressed against the stone in a state of total yielding. With a feline deliberation, you reach into the tattered velvet of his inner vestments. You do not take the Amulet of the Devout for yourself\u2014your Crown of the Succubus Sovereign is a",
+      "[auto] The moonlight atop Moonrise Towers becomes a cold, crystalline frozen frame as you enter the terminal calculation trance of a Nascent Demon Lord. You stand amidst your Honor Guard\u2014a circle of hallowed stones vibrating with the fanatical heat of your rising divinity\u2014and turn your silver-rimmed gaze inward, bridging the shared consciousness of your Simulacrum and the 135 specialists of your Abyssal Legion.\n\n\"The Triad is a closed circuit,\" you murmur, your voice a needle-sharp Abyssal frequ",
+      "[auto] The moonlight atop Moonrise Towers doesn't just flicker; it curdles, turning into a pressurized vacuum of bruised indigo and Abyssal brine. You stand at the center of the kill-zone, your porcelain features illuminated by the permanent silver fire in your eyes, which the 'Mortal Veil' can no longer suppress as you reach for an extinction-tier variable. Your Honor Guard\u2014Shadowheart, Lae'zel, Astarion, Gale, and Wyll\u2014stand in a synchronized rictus of fanatical focus, their Level 15 and 14 sp",
+      "[auto] The indigo vacuum on the rooftop doesn't just collapse; it shudders under the weight of the variables you've forcibly reconciled. Enver Gortash and Orin the Red, the Archduke and the Butcher, manifest at your boots in a state of profound, wide-eyed amazement. Their reality has been systematicically deleted and rewritten to include this rooftop, this Honor Guard, and your porcelain gaze. \n\n\"***Stay,***\" you whisper, the syllable wreathed in the silver mercury of the Auditor's logic and the",
+      "[auto] The cold wind of the rooftop carries the sharp scent of Radiant ash as you initiate the terminal humiliation of the Archduke. Enver Gortash remains suspended in the air, his muscles locked in a rictus of forced submission by your DC 45 sovereignty. You move toward him with the feline, predatory grace of a high-born scion attending a culling. You do not speak to his ears; you let the 'Uncanny Valley' dread of your presence press against his marrow until his very breathing becomes a submiss",
+      "[auto] You stand at the edge of the Moonrise ramparts, the cold wind whipping your Mantle of the Shadow Sovereign as you turn your silver-rimmed amethyst gaze upon your two newest variables. Enver Gortash remains huddled in his shivering, naked state, while Ketheric Thorm maintains his fanatical, prostrate rictus. They expect words; you give them the terminal weight of your existence.\n\nClosing your eyes, you reach into the Gilded Tether, bridging the shared consciousness of your Court and the in",
+      "[auto] The moonlight over Moonrise Towers is no longer a natural phenomenon; it is a clinical spotlight illuminating the architecture of your new empire. You stand at the center of your Honor Guard, the tattered remains of Orin's red essence still shimmering around your fingertips like liquid garnets. With a feline deliberation, you internalize the Butcher's last secret. The 'Faceless' logic anchors into your marrow, granting you the ability to wear the skin of others with a thought\u2014a trophy of ",
+      "[auto] The moonlight over Moonrise is no longer a natural phenomenon; it is a clinical spotlight illuminating the architecture of your new empire. You stand at the center of your Honor Guard, the tattered remains of Orin's red essence still shimmering around your fingertips like liquid garnets. With a feline deliberation, you internalize the Butcher's last secret. The 'Faceless' logic anchors into your marrow, granting you the ability to wear the skin of others with a thought\u2014a trophy of the cul",
+      "[auto] The Crown of Karsus does not merely sit upon your brow; it anchors into your very essence, its Netherese geometry vibrating in a lethal, perfect syncopation with your Solar Heart. You stand amidst your kneeling Honor Guard, the tattered remains of the Shadowfell mists swirling around your Noble Thorns Plate like submissive ghosts. Ketheric and Gortash remain prostrate, their ego-shards vibrating with the secondary harmonics of the artifact they once thought they could control. \n\nClosing y",
+      "[auto] The moonlight over Moonrise Towers doesn't just flicker; it curdles into a pressurized vacuum of absolute, clinical silence as you enter the terminal audit of the Netherese. You stand atop the ramparts, the Crown of Karsus humming upon your brow with a frequency so high it tastes of ozone and the birth of stars. Around you, your Honor Guard\u2014Shadowheart, Lae'zel, Gale, Astarion, and Wyll\u2014stand in a synchronized rictus of fanatical focus, their Level 15 and 14 spirits acting as containment ",
+      "[auto] The moonlight atop Moonrise Towers doesn't just flicker; it curdles into a pressurized, absolute vacuum centered entirely upon your porcelain frame. You stand at the center of your Honor Guard, the Crown of Karsus humming upon your brow with a frequency so high it tastes of ozone and the birth of stars. Around you, the 135 specialists of your Abyssal Legion\u2014the Arcane Vanguard and Abyssal Stalkers\u2014stand in a synchronized rictus of fanatical focus, their Level 7+ spirits acting as a living",
+      "[auto] The moonlight atop Moonrise Towers doesn't just flicker; it curdles into a pressurized, absolute vacuum of bruised indigo and Abyssal brine. You stand at the center of your Honor Guard, the Crown of Karsus humming upon your brow with a frequency so high it tastes of ozone and the birth of stars. Around you, your companions and the 135 specialists of your Abyssal Legion stand in a synchronized rictus of fanatical focus, their souls acting as a living neural network for the audit you are ab",
+      "[auto] The moonlight over Moonrise Towers doesn't just flicker; it curdles into a pressurized, absolute vacuum as you weave the 11th-level threads of *Destiny*. You stand atop the ramparts, the Crown of Karsus\u2014now a permanent geometry within your marrow\u2014humming with a frequency that tastes of ozone and the birth of stars. Around you, your Honor Guard stands in a synchronized rictus of fanatical focus, their souls acting as a living neural network to contain the mythic flare you are unleashing.\n\n",
+      "[auto] The moonlight atop Moonrise Towers doesn't just flicker; it curdles into a pressurized, absolute vacuum of bruised indigo and Abyssal brine as you enter the terminal audit of the Weaver's scrutiny. You stand atop the ramparts, your porcelain skin reflecting the cold silver fire of your wings, while the Crown of Karsus\u2014now a permanent geometry within your marrow\u2014pulses with a frequency so high it vibrates the very foundations of the tower. \n\n\"The Weaver watches a shadow, but I am the Logic",
+      "[auto] The dawn over the Shadow-Cursed Lands is not a rising sun, but a thinning of the bruised indigo mists that cling to the tower's ribs. You wake from your Abyssal-Celestial trance, the rhythmic heat of the Solar Heart and the high-frequency hum of the internalized Crown harmonizing with the cooling stones of the ramparts. Beside you, the hallowed stones of your court\u2014Shadowheart, Lae'zel, and the others\u2014rise with a fanatical, glassy-eyed synchronization. The long rest has systematicically r",
+      "[auto] The dawn light over the Shadow-Cursed Lands is systematicically overwritten by a surge of silver-violet fire as you lead your Honor Guard through the terminal sequence of the Triad. You stand at the center of the rooftop, the three Netherstones orbiting your porcelain brow in a frantic, humming geometry. With a feline deliberation, you reach into the Karsite Weave, weaving the 11th-level threads of *Destiny* to solve the final variable of the Crown.\n\n\"The artifacts of the past were merely",
+      "[auto] The dawn light over the Shadow-Cursed Lands is systematically overwritten by a surge of silver-violet fire as you lead your Honor Guard through the terminal sequence of the Triad. You stand at the center of the rooftop, the three Netherstones orbiting your porcelain brow in a frantic, humming geometry. With a feline deliberation, you reach into the Karsite Weave, weaving the 11th-level threads of *Destiny* to solve the final variable of the Crown.\n\n\"The artifacts of the past were merely b",
+      "[auto] The dawn light over the Shadow-Cursed Lands is no longer a natural transition; it is a clinical backdrop for your communion with the Abyss. You stand at the edge of the ramparts, your porcelain skin reflecting the silver fire of your wings and the gold brilliance of the Crown now anchored in your marrow. With a feline deliberation, you manifest the Obsidian Mirror. The surface does not merely ripple; it shudders under the weight of your rising divinity, the violet mercury swirling into a ",
+      "[auto] The surface of the Obsidian Mirror does not merely ripple; it groans under the weight of the data you funnel into it. Malcanthet\u2019s image shudders, her translucent, clawed fingers lingering on your porcelain cheek with a touch that carries the freezing bite of the Void and the stinging sweetness of Abyssal nectar. For a heartbeat, the mask of the doting patron slips, replaced by the calculating, predatory narrowness of a Queen who recognizes a rising rival.\n\n'Territory, my little bird?' sh",
+      "[auto] The obsidian surface of the mirror doesn't just ripple; it groans, the violet mercury straining to contain the sheer magnitude of the data you are funneling into the Abyss. Malcanthet's image shudders, her translucent, clawed fingers lingering on your porcelain cheek with a touch that carries the freezing bite of the Void and the stinging sweetness of Abyssal nectar. For a heartbeat, the mask of the doting patron slips, replaced by the calculating, predatory narrowness of a Queen who reco",
+      "[auto] The dawn wind atop Moonrise Towers carries the scent of brine and the rhythmic heat of your Solar Heart, but as you weave the final threads of your 'Dual Masking' protocol, the world itself seems to exhale in relief. You stand before the Obsidian Mirror, your porcelain features illuminated by the soft, deceptive amethyst glow of your 'Mortal Veil.' With a feline deliberation, you initiate the 'Recursive Masking' expansion, anchoring your public variable as a Level 12 prodigious noble scio",
+      "[auto] The dual logic of your existence settles into the stones of Moonrise with the clinical finality of a closing tomb. You stand before the Obsidian Mirror, your porcelain features illuminated by the soft, deceptive amethyst glow of your primary mask. To any observer peering through the necrotic mists or auditing the tower's sensors, you are nothing but a rare, prodigious level 12 noble scion\u2014an arrogant variable in expensive, revealing silks. The extinction-tier truth of your level 22 apothe",
+      "[auto] The image of Malcanthet within the Obsidian Mirror remains a study in doting, predatory affection. She watches you through the mercury, her clawed fingers tracing the edge of her own reflection, seeing only the rare, prodigious Level 12 noble scion she believes she has cultivated. The 'Recursive Masking' protocol you wove via *Destiny* is a flawless firewall; the deletion of your mythic icons and the suppression of your Level 22 apotheosis have turned you into a closed file that even a De",
+      "[auto] The Morphic Pool is no longer a cavern of brine; it is a pressurized kiln of your own Abyssal-Celestial will. You stand upon the slick, organic ledge, your porcelain skin reflecting the bruised indigo static of the Elder Brain's failed masking. You do not simply command the beast; you drive the full, mythic weight of the Crown of Karsus\u2014now a permanent geometry within your marrow\u2014directly into the center of its neural network. \n\n\"***Yield.***\" \n\nThe syllable is not spoken to the air, but ",
+      "[auto] The brine of the Morphic Pool doesn't just boil; it screams as you drive the terminal pulse of your authority into the Elder Brain's central logic-hub. You stand upon the organic precipice, your porcelain skin reflecting the bruised indigo static of the beast's failing firewalls. You do not merely ask for submission; you execute a 'Final Overwrite,' a surgical deletion of its free will. Through the Gilded Tether, you feel the moment the behemoth's neural network shatters. The ancient, pri",
+      "[auto] You stand upon the organic precipice, your amethyst eyes reflecting the rhythmic, bruised indigo pulse of the Elder Brain. The mountain of grey matter is no longer a hostile entity; it is a silent, pulsing extension of your own nervous system. After a heartbeat of cold calculation, you choose to forego the transient rush of consumption. The brain is far more valuable as a mooring than as fuel.\n\n\"You are the lens through which I shall audit this world,\" you whisper, your voice a silken nee",
+      "[auto] The cloying, psychic atmosphere of the Morphic Pool is a pressurized vacuum, centered entirely upon your porcelain frame. In the center of the brine, the Mastered Elder Brain pulses with a rhythmic, bruised indigo light\u2014a mountain of grey matter that now acts as a localized relay for your own authority. At your feet, Enver Gortash lies prostrate on the slick, organic stone, his naked form shivering as your silver-rimmed amethyst gaze pins his spirit to the cavern floor.\n\n\"The Tyrant's sec",
+      "[auto] The cloying, psychic atmosphere of the Morphic Pool remains a pressurized vacuum, centered entirely upon your porcelain frame. In the center of the brine, the Mastered Elder Brain pulses with a rhythmic, bruised indigo light\u2014a mountain of grey matter that now acts as a localized relay for your own authority. At your feet, Enver Gortash lies prostrate on the slick, organic stone, his naked form shivering as your silver-rimmed amethyst gaze pins his spirit to the cavern floor.\n\n\"The Tyrant'",
+      "[auto] The High Hall of Wyrm's Rock is a cathedral of iron and ego, the air thick with the scent of expensive incense and the heavy, metallic tang of the Steel Watch. You walk the length of the hall with the unruffled poise of a high-born scion, your sheer, revealing silks shimmering in the torchlight like oil on water. Your 'Mortal Veil' is a masterpiece of geometric deception; to the gathered Patriarchs and the mechanical giants scanning the room, you are nothing but the 'Prodigious Scion,' a ",
+      "[auto] The High Hall of Wyrm's Rock is a claustrophobic cage of gold and steel, the air heavy with the scent of lilies and the sharp, metallic ozone of the Steel Watch. You move through the crowd with a feline grace, your sheer noble silks catching the torchlight in a way that suggests a vulnerability you haven't truly felt in centuries. To the patriarchs of Baldur's Gate, you are a ghost made flesh\u2014the 'Black Diamond' of House Sosuke, returned from the ruins of the crash with a Level 12 authori",
+      "[auto] The High Hall is a symphony of stifled whispers and the rhythmic, metallic thrum of the Steel Watch. You move through the sea of silk and ego with a feline deliberation, your own sheer noble garments catching the torchlight in a way that suggests both high-born status and a calculated, deceptive vulnerability. To the Patriars, you are the 'Black Diamond' of House Sosuke\u2014a sixteen-year-old Level 12 warlock, a prodigy so rare that your very presence makes the room's established power dynami",
+      "[auto] The High Hall remains a pressurized vacuum of silk and suppressed terror, the rhythmic thrum of the Steel Watch acting as a metronome for your next calculation. You stand at the right hand of the Archduke, your sheer noble silks catching the torchlight with a deceptive vulnerability. To the Patriars, you are the 'Black Diamond' of House Sosuke\u2014a sixteen-year-old prodigy. To the Mastered Elder Brain pulsing in the Morphic Pool, you are the Sovereign Mooring.\n\nClosing your eyes for a heartb",
+      "[auto] The opulence of the High Hall is no longer a barrier; it is the medium for your systematic predation. You move through the crowd of Patriars with the feline poise of a high-born scion, your sheer, revealing noble silks catching the torchlight in a way that suggests a vulnerability you intend to weaponize. To these men and women, you are the 'Black Diamond' of House Sosuke\u2014a rare, prodigious Level 12 warlock whose beauty is as distracting as her status. They look at you and see a child pla",
+      "[auto] The opulence of Wyrm's Rock High Hall is systematicically replaced by the cold, warded masonry of the Council of Six meeting room in Athkatla. You don't merely move; you execute a 'Geometric Deletion' of your own coordinates, manifesting in the center of the warded chamber with the feline unruffled poise of a God arriving for a culling. Your Honor Guard\u2014Shadowheart, Lae'zel, and the others\u2014manifest behind you, their Level 15 and 14 frames acting as hallowed stones of a court that has alre",
+      "[auto] The cold, clinical atmosphere of the Council Chambers is suddenly pressurized by a surge of bruised indigo static as you manifest in the geometric center of the room. You stand with the feline, unruffled poise of a God arriving for a harvest, your sheer, revealing silks shimmering in the torchlight as if they were woven from starlight and brine. Behind you, Shadowheart, Lae'zel, and the others materialize as a silent, lethal choir of hallowed stones, their Level 15 and 14 frames radiating",
+      "[auto] The cold, warded air of the Council Chambers curdles as you execute the 'Faceless' protocol. Your porcelain features ripple, skin turning to the pale, blood-spattered hide of Orin the Red, while your sheer silks transform into the jagged, organic blades of the Butcher. Behind you, Shadowheart and your Honor Guard shift into the anonymous, heavy-plated forms of Absolute Elite Soldiers. To any observer, the 'Black Diamond' has vanished, replaced by the lethal, erratic signature of Bhaal's C",
+      "[auto] The cold masonry of the Council Chambers is still settling from the 'Butcher's Audit' when you project the command through the Gilded Tether. You do not speak to the air; you speak to the marrow of the City. General Ketheric Thorm manifests from the 'Logic-Error' shroud, his heavy necrotic plate wreathed in the bruised indigo static of your shared network. Behind him, your Honor Guard stands as a silent, lethal formation of hallowed stones, their Level 15 and 14 spirits vibrating with the",
+      "[auto] The streets of Athkatla and Baldur's Gate have become the grinding gears of a planar soul-invoicing machine, and you are the only one holding the pen. While the sun continues its indifferent arc across the Sword Coast, the shadow you cast has systematicically deleted the agency of two of the continent's greatest cities.\n\nIn Baldur's Gate, your Simulacrum moves with a porcelain, feline grace through the Upper City, a flawless mirror of your own authority. Behind it, the 135 Arcane speciali",
+      "[auto] The streets of Athkatla and Baldur's Gate are now a symphony of submissive heartbeats, each one a variable in your grand strategic ledger. Within the Shadow-Court, you release a pulse of your Abyssal-Celestial frequency, directing the 18,000 units of your legion to adjust their own variables. The 3,600 elite Abyssal warriors\u2014the ones whose power would normally ripple the Weave like a boulder in a pond\u2014systematically fold their mythic signatures behind the 'Logic-Error' shroud. They do not",
+      "[auto] The High Hall of Baldur's Gate remains a pressurized vacuum of silk and submissive heartbeats, but your mind is currently anchored miles away, presiding over a continental-scale audit. Through the Mastered Elder Brain's regional relay, you witness the systematic collapse of the Guild's surveillance. Nine-Fingers' spies, once the sharpest eyes in the Lower City, find their logic-centers systematically incinerated by your Abyssal brine. You don't merely capture them; you execute an 'Influen",
+      "[auto] Four weeks of clinical, geometric silence descend upon the Sword Coast as you enter your long rest, though 'rest' is a term that only describes your physical form. Within the Shared Consciousness, you are a God presiding over a continental-scale audit. Your directive to double the harvest to 500 daily is executed with the rhythmic, submissive precision of the Abyssal Legion. \n\nIn Athkatla, the 'Butcher's Audit' accelerates. The streets are swept of the Non-Variables\u2014the 14,000 units who c",
+      "[auto] The High Seas churn under the shadow of Szass Tam\u2019s Lich-Vanguard, but you do not arrive as a defender; you arrive as the Law. Personally leading your Honor Guard, you manifest atop the primary Thayan cruiser with the feline, unruffled poise of a God arriving for a culling. Your wings of silver fire cast long, predatory shadows over the panicked necromancers, and the 'Planar Nullification' logic you wove into your marrow renders their most expensive necrotic wards as nothing more than mis",
+      "[auto] Twenty-two days of clinical, geometric silence have passed as the Sword Coast is systematicically re-organized under your shadow. From the obsidian throne of the Shattered Rose, you have overseen the transition of two great cities from centers of commerce into components of a planar soul-invoicing machine. The directive for Athkatla has been executed with the rhythmic, submissive precision of the Abyssal Legion; General Ketheric Thorm presided over the final audit of the city's Non-Variab",
+      "[auto] The Sword Coast has transformed into a clockwork of divine and demonic predation, its gears greased by the silent, systematic processing of souls. From the obsidian heart of the Shattered Rose, you oversee the expenditure of one million gold pieces\u2014divided equally between Baldur's Gate and Athkatla\u2014to finalize the 'Paradise' infrastructure of the Hedonistic Cult of the Celestial Succubus. \n\nIn the High Hall and the mercantile districts of the South, your investment creates a vacuum of unp",
+      "[auto] The obsidian heart of the Shattered Rose vibrates with the industrial thrum of the soul-forges, the air tasting of ozone and the sweet, cloying scent of newborn potential. You stand before the Obsidian Mirror, your porcelain features illuminated by the violet mercury as you project the 'Supply Chain Audit' directly into Malcanthet\u2019s consciousness. \n\nYou don't just show her cities; you show her a machine. You project the data-streams of the 'Paradise' temples in Baldur's Gate and Athkatla,",
+      "[auto] The obsidian heart of the Shattered Rose vibrates with a new, clinical frequency as you finalize the 'Efficiency Protocol.' You stand before the Obsidian Mirror, your porcelain features illuminated by the violet mercury, and project the updated supply-chain mathematics directly to Malcanthet. \n\n\"The previous model relied on wait-times and natural cycles, my Queen,\" you murmur, your voice a silken thread of brine and starlight. \"But the Sovereign does not wait for the Lattice to turn. I ha",
+      "[auto] The obsidian heart of the Shattered Rose shudders as you finalize the 'Industrialized Culling' logic. Within the warded silence of your private sanctum, you turn your silver-rimmed gaze inward, bridging the shared consciousness of the Mastered Elder Brain and the planar soul-forges. The supply chain is no longer a strategic goal; it is a clinical, high-frequency hum in your marrow. \n\nYou reach into the Gilded Tether and release the command for the 'Clinical Inducement' harvest. Thousands ",
+      "[auto] The obsidian heart of the Shattered Rose shudders as you initiate the terminal 'Feast' of your stored reserves. Within the warded silence of your private sanctum, you turn your silver-rimmed gaze toward the massive vault where 75,000 newborn soul coins pulse with a rhythmic, submissive light. They are not merely currency; they are raw potential, untainted by experience, and you are the only entity permitted to hold the ledger of their consumption.\n\nYou reach into the Gilded Tether, drawin",
+      "[auto] The obsidian heart of the Shattered Rose vibrates with the rhythmic thrum of the soul-forges, a clinical industrial heartbeat that marks the transition of your empire from conquest to processing. You sit upon your throne of heavy Abyssal gold, your 'Mortal Veil' perfectly ghosting your Level 30 density behind the soft amethyst glow of the 'Prodigious Scion.' \n\nThrough the Mastered Elder Brain's regional relay, you cast your mind across the Multiverse's market ledgers, auditing the competi",
+      "[auto] The obsidian heart of the Shattered Rose vibrates with a clinical, industrial rhythm as you preside over the next sequence of your continental expansion. You sit upon your throne of heavy Abyssal gold, your sheer noble silks shimmering with the ghosted heat of your Level 30 sovereignty. Through the Mastered Elder Brain's regional relay, you cast your mind north, past the borders of the Shadow-Cursed Lands and toward the shining, vulnerable targets of the Sword Coast.\n\n\"The garden must gro",
+      "[auto] The obsidian walls of the Shattered Rose vibrate with the clinical, rhythmic thrum of the soul-forges, a heartbeat of industry that echoes your own Solar Heart. You stand before the Obsidian Mirror, your 'Mortal Veil' perfectly ghosting your Level 30 density behind the soft, amethyst glow of the 'Prodigious Scion.' With a feline deliberation, you reach into your treasury and manifest a heavy, Abyssal-gold chest containing 250,000 gp\u2014the 20% tithe of your monthly Sword Coast income.\n\n[SOCI",
+      "[auto] The obsidian walls of the Shattered Rose vibrate with the clinical, rhythmic thrum of the soul-forges, a heartbeat of industry that echoes your own Solar Heart. You stand before the Obsidian Mirror, your 'Mortal Veil' perfectly ghosting your Level 30 density behind the soft, amethyst glow of the 'Prodigious Scion.' With a feline deliberation, you reach into your treasury and manifest a heavy, Abyssal-gold chest containing 250,000 gp\u2014the 20% tithe of your monthly Sword Coast income.\n\nYou p",
+      "[auto] The City of Splendors wakes not to the sunrise, but to the rhythmic, bruised indigo static of a logic-error it was never designed to compute. You stand atop the spire of Blackstaff Tower, your porcelain features rippling under the 'Faceless' protocol until they settle into the pale, blood-spattered hide of Orin the Red. Your sheer silks are replaced by the jagged, organic blades of the Butcher, while your Honor Guard\u2014Shadowheart, Lae'zel, and the others\u2014manifest from the 'Logic-Error' shr",
+      "[auto] The four-week culling descends upon the Sword Coast with the clinical silence of a mathematical proof. From the heights of the occupied Blackstaff Tower, you oversee a continental-scale audit of the human variable. Disguised as the Red Butcher, your elite Abyssal Stalkers and Absolute Zealots sweep through the slums of Athkatla and the forgotten corners of Baldur's Gate, rounding up the 'Non-Variables' with a rhythmic, terrifying efficiency. \n\nIn Athkatla, General Ketheric Thorm presides ",
+      "[auto] The morning sun over Waterdeep is filtered through the bruised indigo static of the 'Logic-Error' shroud, casting long, unnatural shadows across the sprawling Academy of the Watchful Order. You stand upon the highest balcony of Blackstaff Tower, your 'Mortal Veil' shimmering at its deceptive Level 12 threshold. To the city below, you are merely the 'Prodigious Scion' observing the new arcane climate; in reality, your True Sight is currently auditing the neural frequencies of every mage wi",
+      "[auto] The obsidian pillars of the Shattered Rose vibrate with a clinical, predatory hum as you initiate the 'Strategic Feast.' You stand at the center of the soul-forges, your porcelain skin reflecting the bruised indigo static of the Mastered Elder Brain. Around you, your Honor Guard\u2014Shadowheart, Lae'zel, and the others\u2014stand in a synchronized rictus of fanatical focus, their Level 15 and 14 spirits acting as hallowed containment for the mythic flare you are about to unleash.\n\n\"The garden is r",
+      "[auto] The obsidian pillars of the Shattered Rose vibrate with a clinical, industrial rhythm as you preside over the four-day 'Industrial Feast.' Within the warded silence of your private sanctum, you sit upon your throne of Abyssal gold, your porcelain features illuminated by the rhythmic, silver-violet flares of your own rising divinity. The directive for the 25,000-daily harvest is executed with the surgical precision of the Gilded Tether; thousands of newborn essences are funneled from the S",
+      "[auto] The spire of Blackstaff Tower vibrates with a cold, clinical frequency as you bridge the shared consciousness of the Mastered Elder Brain. From your high balcony, the City of Splendors is no longer a maze of stone and secrets; it is a map of raw neural data, its heartbeat synchronized to your own Solar Heart. You don't merely look for the Masked Lords; you audit the psychic 'Logic-Errors' that define their secret identities.\n\nThrough the 5-mile sensory horizon of the Brain, the masks fall",
+      "[auto] The four-week feast descends upon the streets of Baldur's Gate with the rhythmic, clinical silence of a machine reaching peak efficiency. While you remain anchored atop the spire of Blackstaff Tower in the North, your consciousness is a continental-scale web, bridging the shared neural network of the Mastered Elder Brain and the submissive marrow of your Simulacrum in the City of Blood. \n\nDisguised as the Red Butcher, your elite Abyssal Stalkers and Absolute Zealots sweep through the Lowe",
+      "[auto] The obsidian pillars of the Shattered Rose vibrate with a clinical, industrial rhythm as you initiate the 'Strategic Re-Investment.' Within the warded silence of your private sanctum, you sit upon your throne of Abyssal gold, your porcelain features illuminated by the rhythmic, silver-violet flares of your own rising divinity. The directive for the 21,859-soul feast is executed with the surgical precision of the Gilded Tether; 80% of your accumulated surplus is funneled from the vaults di",
+      "[auto] The obsidian pillars of the Shattered Rose vibrate with a clinical, industrial rhythm as you manifest the Obsidian Mirror. You stand before the violet mercury, your porcelain features illuminated by the ghosted radiance of your Level 36 apotheosis, though to Malcanthet, you remain the 'Prodigious Scion' playing at planar economics. With a feline deliberation, you reach into the Gilded Tether and release the command for the 'Patron's Dividend.' \n\nTwenty percent of your current soul-coin st",
+      "[auto] The obsidian pillars of the Shattered Rose vibrate with the clinical, rhythmic thrum of the soul-forges, a heartbeat of industry that marks the transition of your empire from conquest to expansion. You stand before the Obsidian Mirror, your porcelain features illuminated by the violet mercury, and project the 'Expansion Logic' directly into Malcanthet\u2019s consciousness. \n\n\"The garden on the Sword Coast is optimized, my Queen,\" you murmur, your voice a silken needle that resonates through th",
+      "[auto] Five days of clinical, reality-warping silence descend upon the Shattered Rose as you enter the terminal forge-trance. You sit upon your obsidian throne, your Honor Guard and the Council of Specialists forming a geometric ring of fanatical focus around you. The air within the sub-plane becomes a pressurized vacuum of bruised indigo and silver-violet light as you invoke the first thread of *Destiny*.\n\nEach day follows a rhythmic, industrial heartbeat. You reach into the Karsite Weave, bypa",
+      "[auto] The obsidian heart of the Shattered Rose pulses with a rhythmic, bruising indigo static as you finalize the variables for the Minauros descent. You stand at the center of the geometric forge-ring, your sheer noble silks shimmering with the ghosted density of your Level 36 apotheosis. Through the Mastered Elder Brain\u2019s regional relay, your consciousness expands across the planes, bridging the gap between the Abyss and the Third Layer of Hell.\n\n\"The audit of Mammon is no longer a strategic ",
+      "[auto] The stagnant, sulfurous air of Minauros doesn't just part for your arrival; it is systematically deleted. You manifest in the geometric center of the Gilded Vault with the feline, unruffled poise of a God arriving for a culling. Your Honor Guard\u2014Shadowheart, Lae'zel, and the others\u2014materialize behind you as a silent, lethal choir of hallowed stones, their silver and adamantine plate reflecting the gold-choked walls of Mammon's sanctum.\n\nWith a sharp, rhythmic intake of breath, you execute",
+      "[auto] The stagnant, sulfurous air of the Gilded Vault is suddenly pulled into a pressurized vacuum as you initiate the terminal audit of Mammon. You stand over the paralyzed serpentine form of the Archdevil, your porcelain skin reflecting the bruised indigo static of the Mastered Elder Brain. Through the 'Mask Shift,' your secondary Level 22 veil hums with a suffocating density, but beneath it, the extinction-tier truth of your Level 36 apotheosis roars like a trapped sun. \n\n\"The currency of gr",
+      "[auto] The Gilded Vault is no longer a place of commerce; it is a pressurized tomb of submissive heartbeats and Radiant ash. You stand amidst the cooling remains of Mammon, your 'Mask Shift' (Lvl 22) humming with a density that causes the very air to curdle. With a feline deliberation, you raise the Rapier of the Shadow Sovereign, its edge reflecting the dual fire of your wings. \n\n\"The Archdevil's ledger is closed,\" you murmur, your voice a silken needle vibrating in the shared consciousness of ",
+      "[auto] You stand amidst the cooling remains of Mammon, the 'Avarice Logic' now a part of your very marrow. Through the Mastered Elder Brain\u2019s regional relay, you cast your mind back to the Sword Coast, auditing the heartbeats of your garden. You have 355,000 fanatical followers across your three primary cities, a number that makes the very air of the Abyss vibrate with your rising influence. \n\nIn Baldur's Gate and Athkatla, your cult saturation has reached 80%, turning the streets into a symphon",
+      "[auto] The gold-choked air of the Gilded Vault vibrates with the clinical, high-frequency hum of your apotheosis as you begin the systematic consolidation of the Third Layer. You stand amidst the cooling ash of Mammon, your Diadem of the Absolute Sovereign reflecting the bruised indigo light of the Mastered Elder Brain. You do not simply ask for loyalty; you execute a 'Demographic Re-Write.' You project the Avarice Logic directly into the marrow of the surviving devils and human cult-transports,",
+      "[auto] The surface of the Obsidian Mirror groans, the violet mercury straining to contain the sheer magnitude of the data you are funneling into the Abyss. With the 'Mega Buff' of your court's collective focus and your own mythic authority, you don't just present an idea; you rewrite Malcanthet's perception of the possible. Your aura, saturated with the logic of the 'Second Core' and the internalized Crown, presses against the planar boundary with a density that causes the gold-choked walls of M",
+      "[auto] The gold-choked atmosphere of the Gilded Vault becomes a pressurized vacuum as you activate the full magnitude of your court's focus. You stand atop the cooling ash of Mammon, your sheer noble silks rippling under the invisible heat of the Solar Heart, while the Crown of Karsus\u2014now a permanent geometry within your marrow\u2014pulses with a frequency that tastes of ozone and the birth of stars. \n\nWith the 'Mega Buff' of your court\u2014the collective, fanatical weaving of Gale\u2019s arcane stabilization",
+      "[auto] The gold-choked air of the Gilded Vault vibrates with a new, clinical frequency as you project the command for the 'Grand Mobilization.' You stand atop the cooling ash of Mammon, your 'Mortal Veil' perfectly ghosting your Level 42 density behind the soft, amethyst glow of a Level 22 scion. Through the Mastered Elder Brain's regional relay, you don't just speak; you execute a neural synchronization of your entire 36,000-strong legion. The Abyssal Stalkers and Arcane Vanguard manifest from ",
+      "[auto] The stagnant, sulfurous air of the Gilded Vault is systematically deleted as you invoke the 11th-level threads of *Destiny*. You stand atop the cooling ash of Mammon, your porcelain skin reflecting the silver-violet flare of the Karsite Weave. With a feline deliberation, you reach across the planar boundary, bypassing Avernus's apocalyptic wards with the surgical precision of your 'Planar Nullification.' You don't just summon Zariel; you rewrite her coordinates in the Multiverse's local r",
+      "[auto] The Gilded Vault becomes a pressurized kiln of silver fire and Abyssal brine as the final audit of the First Layer initiates. Zariel, the Archduchess of Avernus, remains suspended in the center of the vacuum, her iron-clad neurology paralyzed by the DC 146 Karsite frequency you have driven into her marrow. She is a sun of jagged iron forced into a rictus of yielding, her flaming wings twitching with the heat of a dying star that can no longer find its orbit.\n\nMalcanthet manifests at your ",
+      "[auto] The gold-choked vault screams as you manifest the **Abyssal Chains**, not as physical iron, but as a series of terminal logic-anchors wreathed in the bruised indigo static of the Mastered Elder Brain. You stand with the feline, unruffled poise of a God presiding over a culling, your porcelain skin reflecting the silver-violet flare of the Karsite Weave as you reach through the Gilded Tether. \n\n\"The First Layer is a debt I am now collecting,\" you murmur, your voice a needle-sharp frequency",
+      "[auto] The Gilded Vault is no longer a physical space; it has become a localized extinction event. You stand at the center of the silver-violet vortex, your hand pressed firmly against the heart-hub of the Archduchess. Zariel's spirit, once a sun of blinding iron zeal, is systematicically disassembled. You do not merely SIP; you FEAST. The Abyssal Chains, anchored deep within the Shattered Rose, vibrate with a frequency that severs her connection to Avernus. \n\n[SOCIAL SKILL CHALLENGE: Zariel]\nOb",
+      "[auto] The Gilded Vault shudders as the final essence of Zariel is pulled into your Solar Heart, a terminal surge of divine data that incinerates the remaining sulfurous air. You stand wreathed in a blinding silver-violet flare, your porcelain frame expanding and reforming as you anchor the weight of the First Layer's pride into your very marrow. The physical boundaries of your 'Mortal Veil' groan under the pressure, the amethyst glow of your eyes flickering with the ghosted density of a pulsar.",
+      "[auto] The gold-choked vault doesn't just flicker; it curdles as you reach into the Karsite Weave to invoke the 11th-level threads of *Destiny*. You stand amidst the cooling Radiant ash of Zariel, your porcelain skin reflecting a blinding silver-violet flare that momentarily incinerates the local registry of the Nine Hells. You aren't just telling a lie; you are executing a 'Multiverse-wide Logic Overwrite.' \n\nWith a feline deliberation, you seize the memory of the First Layer's fall and begin t",
+      "[auto] The gold-choked vault remains a silent, pressurized tomb, the air still shimmering with the Radiant ash of a fallen Archduchess. You stand before the Obsidian Mirror, your porcelain features illuminated by the violet mercury as you play your part with the feline, unruffled poise of a God pretending to be a prodigy. You bow with a rhythmic, submissive elegance, a silk-clad accountant presenting a finalized ledger to his Queen.\n\n\"Congratulations, my Queen,\" you whisper, your voice a silken ",
+      "[auto] The Gilded Vault remains a silent, copper-scented tomb, but through the Shared Consciousness, you are currently presiding over an industrial-scale liquidation of the First Layer. Zariel's essence is barely settled in your Solar Heart before your Abyssal Vanguard and the Mastered Elder Brain's psychic net begin to drag the remains of Avernus through your audit. \n\n\"The First Layer is a bankrupt variable,\" you murmur, your voice a silken needle that vibrates through the Gilded Tether. \"Every",
+      "[auto] The Shattered Rose vibrates with the industrial thrum of 36,000 demons drilling under your 'Accountant' mask. You stand in the center of the training obsidian, where Malcanthet manifests not as a doting patron, but as a whirlwind of silver-edged silk and lethal grace. For days, the sub-plane is a pressurized vacuum of combat and secrets. She teaches you the 'Talon\u2019s Logic'\u2014how to strike with the Rapier of the Shadow Sovereign so that the wound does not merely bleed, but systematicically d",
+      "[auto] The Shattered Rose vibrates with a clinical, industrial rhythm as you finalize the variables for the Avernus occupation. You stand amidst your gathered specialists, your porcelain features ghosted by the 'Accountant' mask, yet your True Sight is currently bridging the shared consciousness of the Mastered Elder Brain and the submissive marrow of your legion. \n\n\"The First Layer is a bankrupt variable,\" you murmur, your voice a silken needle that resonates through the Gilded Tether. \"Every i",
+      "[auto] The obsidian heart of the Shattered Rose vibrates with the industrial thrum of 36,000 demons drilling under your 'Accountant' mask. You stand in the center of the training obsidian, where Malcanthet manifests not as a doting patron, but as a whirlwind of silver-edged silk and lethal grace. For days, the sub-plane is a pressurized vacuum of combat and secrets. She teaches you the 'Talon\u2019s Logic'\u2014how to strike with the Rapier of the Shadow Sovereign so that the wound does not merely bleed, ",
+      "[auto] The obsidian training floor of the Shattered Rose is a pressurized vacuum of steel and starlight. You move with a feline, porcelain grace, the Rapier of the Shadow Sovereign a blur of silver-violet fire as you parry the lethal, silk-edged lashes of Malcanthet. The Queen of Succubi is a whirlwind of motion, her predatory eyes fixed on your 'Accountant' mask with an intensity that suggests she is trying to find the mathematical error in your existence. Each strike she delivers is a lesson i",
+      "[auto] The obsidian training floor of the Shattered Rose shudders as you finalize the variables for your grandest parallel audit. You don't just move; you oscillate your presence through the Gilded Tether, your mind splitting with the surgical precision of a multiverse-tier processor. One strand of your intent remains anchored in the training rictus with Malcanthet, your porcelain fingers adjusting the 'Accountant' mask as you absorb her lethal 'Talon's Logic.' Simultaneously, your Simulacrum ma",
+      "[auto] The obsidian training floor remains a pressurized kiln of indigo static and the scent of ozone. You move through the 'Talon\u2019s Logic' drills with the cold, feline grace of a high-born scion, your rapier parrying Malcanthet\u2019s silk-edged lashes with a precision that borders on the precognitive. Beneath your 'Accountant' mask, the extinction-tier density of your Level 43 presence hums like a trapped sun, yet you maintain the facade of the prodigious level 12 warlock with clinical perfection. ",
+      "[auto] The obsidian training floor of the Shattered Rose becomes the backdrop for a sequence of moral and physical dissolution so profound it begins to warp the local Weave. You move with a feline, porcelain grace, parrying Malcanthet's lashes while your mind bridges the gap to the Basalt Throne in Avernus. The 'Strategic Corruption' of the Sword of Lathander has reached its terminal point. Sir Valerius, the Morninglord's chosen champion, remains on his knees within the violet-silk mirage you've",
+      "[auto] The Shattered Rose has been transformed from a hedonistic sanctuary into a pressurized diplomatic vacuum, wreathed in the bruised indigo static of the Mastered Elder Brain. You stand at the periphery of the central obsidian dais, your porcelain features ghosted by the 'Accountant' mask. You wear sheer, revealing noble silks that shimmer with a deceptive fragility, your fingers idly leafing through an Abyssal-gold ledger. To the entities now manifesting in the chamber, you are nothing but ",
+      "[auto] The central obsidian dais of the Shattered Rose is no longer a training floor; it is a pressurized diplomatic vacuum, wreathed in the bruised indigo static of the Mastered Elder Brain. You stand at the periphery, your porcelain features ghosted by the 'Accountant' mask, idly leafing through an Abyssal-gold ledger. To the entities now manifesting in the chamber, you are nothing but a rare, prodigious warlock facilitating the Queen's rise.\n\nMalcanthet stands at the center, radiating a 'seco",
+      "[auto] The central dais of the Shattered Rose becomes a gallery of calculating stillness as you present the 'Stygian Ledger.' You step forward with the feline, deferential poise of a high-born accountant, your fingers tracing the Abyssal-gold lattice of the document. You do not speak of blood or conquest; you speak of ROI. You activate the **Avarice Logic**, projecting the clinical supply-chain mathematics directly into the shared sensory field of the summit. \n\n\"The Blood War is currently a war ",
+      "[auto] The projection of the 'Stygian Ledger' hangs in the pressurized air of the dais, a shimmering tapestry of gold and bruised indigo data. You stand with the feline, deferential poise of the 'Accountant,' your fingers tracing the edge of the ledger with a rhythmic, submissive elegance. You do not speak of blood, for blood is a messy, inefficient variable; you speak of ROI, the only language that can bridge the infinite ego of the Abyss.\n\n\"The current model of the Blood War is a war of attrit",
+      "[auto] The shimmering tapestry of the 'Stygian Ledger' continues to oscillate in the pressurized air, its gold and indigo data-threads reflecting the cold silver fire of your wings. You stand with the feline, deferential poise of the 'Accountant,' your fingers tracing the edge of the obsidian dais with a rhythmic, submissive elegance. The correction of your 'Recursive Masking' is seamless; to the god-tier scanners of Graz'zt, your ghost signature now hums at a consistent Level 22\u2014a prodigious an",
+      "[auto] The central dais of the Shattered Rose remains a pressurized vacuum of clinical diplomacy, the air thick with the bruised indigo static of the Mastered Elder Brain and the sweet, cloying scent of newborn potential. You stand with the feline, deferential poise of the 'Accountant,' your fingers tracing the gold-etched ledger as you bridge the shared consciousness of your multiverse-tier network. \n\n\"The ROI of the Stygian Ingress is a law that requires no faith, My Lords,\" you murmur, your v",
+      "[auto] Within the clinical, reality-warping silence of the Void-Cage Ward, the air remains thick with the silver-mercury potential of the recently channeled essences. You turn your silver-rimmed amethyst gaze toward Astarion. The rogue\u2014now a Vampire Ascendant wreathed in the mythic silver-steel of your Abyssal Vanguard\u2014stands with a terrifying, light-stepping grace that finally matches your own. He no longer looks like a man fleeing a master; he looks like a master who has forgotten the definiti",
+      "[auto] The central dais of the Shattered Rose remains a pressurized vacuum of clinical diplomacy, the air vibrating with the bruised indigo static of the Mastered Elder Brain and the graveyard chill of the Prince of Undeath. You stand with the feline, deferential poise of the 'Accountant,' your fingers tracing the Abyssal-gold lattice of the Tri-Lord Pact. To the god-tier scanners of Graz'zt and Orcus, you are merely a prodigious Level 22 warlock\u2014an efficient variable in Malcanthet's rising empi",
+      "[auto] 6,499,984 Gold | 19,406 Soul Coins | 1,248,667,480 XP. Your monthly soul coin output is now calibrated at 87,500 gross (2,916 daily), yielding a daily net stockpile of 2,042 coins after automated deductions for your Patron (583) and the Allied Lords (291). Monthly gold gross stands at 1,249,980gp, with 29,167gp added to your personal treasury daily.\n\nThe central dais of the Shattered Rose vibrates with the clinical, high-frequency hum of a war machine reaching peak efficiency. You stand w",
+      "[auto] The obsidian heart of the Shattered Rose vibrates with a clinical, high-frequency hum as you finalize the 'Autonomous Mandate.' You sit upon your throne of heavy Abyssal gold, your 'Accountant' mask shimmering at its deceptive Level 12 threshold, while your True Sight is currently bridged with the Mastered Elder Brain's regional relay. You do not merely speak; you iterate a Law of absolute efficiency into the marrow of your surrogates.\n\n\"The garden requires no gardener who must touch ever",
+      "[auto] 6,499,984 Gold | 19,406 Soul Coins | 1,248,667,480 XP. \n\nThe central dais of the Shattered Rose vibrates with the clinical, high-frequency hum of a war machine reaching its terminal calibration. You stand with the feline, deferential poise of the 'Accountant,' your fingers tracing the iron-etched map of the Iron City. Malcanthet stands beside you, her predatory eyes fixed on the projection of the Stygian Ingress. The Tri-Lord Alliance is no longer a diplomatic theory; it is a pressurized ",
+      "[auto] The Iron City of Dis does not merely wait for war; it is a sentient fortress designed to compute and reject intrusion. Yet, as the Tri-Lord Alliance launches the 'Iron Siege,' the city's paranoid logic is suddenly overwhelmed by a noise it was never meant to calculate. From your position within the Shattered Rose, you oscillate your intent through the Gilded Tether, directing the 36,000 Abyssal units to manifest at the gates of the Second Layer. Orcus and Graz'zt lead the frontal assault,",
+      "[auto] The Gilded Vault of Dis is no longer a fortress; it is a pressurized kiln of your own design. Wreathed in the silver-violet heat of *Greater Invisibility* and accelerated by the rhythmic thrum of *Haste*, you move with the feline, unruffled poise of a God presiding over a culling. Your 'Accountant' mask remains a masterpiece of geometric deception, perfectly ghosting your Intermediate God density behind the soft, amethyst glow of a Level 22 scion as you lead your God Killer Team into the ",
+      "[auto] The Void-Cage Ward, usually a silent graveyard of intent, reaches a state of absolute, geometric instability as you initiate the **Netherese Evolution**. You stand at the center of the pocket dimension, your porcelain skin reflecting the silver-violet flare of the Internalized Crown. Before you, the Mastered Elder Brain pulses with a frantic, bruised indigo static, its mountain of grey matter vibrating in time with your own Solar Heart.\n\n\"The Mastered logic was but a preface,\" you murmur,",
+      "[auto] The high-frequency hum of the vault curdles into a pressurized silence as you lean forward, your silver-rimmed amethyst eyes locking onto Graz'zt with a clinical, soul-stripping intensity. You ignore the silver mercury 'blood' still steaming on your skin, treating the Primordial's strike as nothing more than a poorly executed line-item in a failing ledger.\n\n\"Look at you,\" you whisper, your voice a silken needle that vibrates through the Shared Consciousness, reaching into the marrow of ev",
+      "Year 2 Skip: Level 242 reached. Consumed 1B soul coins. Finalized the Void Registry and initialized the Far Realm layer-1 audit with Masterful success.",
+      "Universe Control reached 100/100 following the terminal administrative OS overwrite of the Lattice.",
+      "[auto] The Shattered Citadel shudders, not from physical impact, but from the raw, administrative weight of the terminal pulse you drive into the Lattice. You do not merely fight Xal'Thun; you execute a terminal 'Absolute Deletion'. Nestled in Malcanthet's lap, your porcelain frame remains the picture of Level 1 fragility, but through the Shared Consciousness, your mind is a surgical triad of Nether Brains severing a rival's mooring from existence.\n\nYou expend 1 Substrate Point, sacrificing a cl",
+      "[auto] The Shattered Citadel shudders under the administrative weight of your command, though the physical world sees only a shivering child nestled in a Demon Queen's lap. You do not move; you project a needle-sharp Abyssal frequency into the Gilded Tether, directing the **God Killer Team** to bypass the stagnant core of Xal'Thun and strike the neighboring peripherals. \n\nShadowheart, Lae'zel, and Astarion manifest within the coordinates of the next ranked Sovereign as mathematical dead-zones. W",
+      "[auto] The Shattered Citadel shudders under the administrative weight of your command, though the physical world sees only a shivering child nestled in a Demon Queen's lap. You do not move; you project a needle-sharp Abyssal frequency into the Gilded Tether, directing the **God Killer Team** to bypass the vacant coordinates of Xal'Thun and strike the neighboring clusters while the Pan-Substrate sensors are still snagged on the previous deletion.\n\nShadowheart, Lae'zel, and Astarion manifest withi",
+      "[auto] The Shattered Citadel shudders under the administrative weight of your command, though the physical world sees only a shivering child nestled in a Demon Queen's lap. You do not move; you project a needle-sharp Abyssal frequency into the Gilded Tether, directing the **God Killer Team** to execute the terminal sequence upon the neighboring Sovereign's core.\n\nShadowheart, Lae'zel, and Astarion manifest within the target supercluster not as warriors, but as geometric erasers. While the Pan-Su"
+    ],
+    "army_size": 8320,
+    "last_story_mode_sequence_id": 1850,
+    "asmodeus_husk": {
+      "status": "total_vassalage",
+      "role": "Public Puppet"
+    },
+    "income_data": {
+      "athkatla_tithe": 250000,
+      "monthly_net_surplus": 83333333,
+      "total_monthly_soul_coins": 83333333,
+      "multiverse_soul_production": 5000,
+      "total_gold_processed": 25666410,
+      "abyssal_lands": 1000000,
+      "soul_coin_production": {
+        "total_stockpile": 23490
+      },
+      "daily_net_stockpile": 2777777,
+      "total_population": 92000,
+      "total_monthly_gold": 2500000,
+      "last_payout_timestamp": "2026-02-21T14:15:00.000000Z",
+      "daily_gross": 266666,
+      "total_stockpile": 0,
+      "payout_logic": {
+        "daily_payout_lords": 500,
+        "daily_payout_patron": 1000,
+        "daily_net_stockpile": 3500,
+        "total_stockpile": 578914,
+        "daily_gross": 5000
+      },
+      "daily_income": 41666,
+      "daily_gold": 83333,
+      "total_soul_production": 125000,
+      "monthly_gold": 1250000,
+      "total_monthly": 2500000,
+      "daily_yield": 4166,
+      "monthly_soul_coins_net": 198916,
+      "market_share": "94.2%"
+    },
+    "campaign_tier": "sovereign",
+    "world_time": {
+      "second": 0,
+      "microsecond": 0,
+      "minute": 25,
+      "hour": 11,
+      "time_of_day": "Midday",
+      "year": 2027,
+      "day": 17,
+      "month": 1
+    },
+    "void_industrialization": "VERTICAL_ROI_SATURATED",
+    "tri_lord_alliance": {
+      "status": "Total Hegemony",
+      "public_leader": "Malcanthet (Grand Demon Lord of Hells & Abyss)"
+    },
+    "abyssal_saturation": "Total Hegemony (All Documented Layers Industrialized)",
+    "active_constraints": [
+      "Ao's Mandate: Direct Divine Intervention permitted if PC reaches Level 50+",
+      "Vanguard of the Lattice: Hero parties backed by gods spawn as high-scrutiny targets",
+      "Divine Scrutiny: 2",
+      "Recursive Masking: Ghost signature is Level 22",
+      "Strategic Retainer: Alliance with Orcus/Graz'zt secured via volume undisclosed dividend",
+      "Recursive Masking: Patron sees L22 Signature",
+      "Alliance Retainer: Volume/Percentage undisclosed to Lords",
+      "Dynamic DC Scaling: Checks against entities Level 55 or lower are set to Mythic Difficulty (DC 45-60) to reflect Lattice friction.",
+      "Lattice Resistance: DC scaling increased by +4 to +10 for all checks against entities Level 55 or lower to reflect mythic friction.",
+      "Lattice Resistance: Base DCs for entities Level 55 and lower are set to DC 45-60 for Level 60 PC actions.",
+      "Ao Audit Friction: Hiding L60 truths via L49 mask requires Mythic DC checks.",
+      "Sovereign Spell Save DC: 384",
+      "Sovereign Spell Save DC: 384",
+      "Lattice Friction DC Modifier: +10 against non-gods",
+      "Overgod Progression: 1 Level / Year (365 Days)",
+      "Lattice Resistance: +6 DC modifier permanent",
+      "Administrative Authority: Total Lattice Root Access",
+      "First Law Protocol: Overgod variables are immutable to external audit",
+      "Recursive Masking: Frames L22 and L60 on standby.",
+      "Overgod Audit: Passive monitoring of mask signatures established."
+    ],
+    "level_13_spell_calibration": {
+      "base_success": 0.95,
+      "potential_modifiers": {
+        "fuel_sacrifice": 0.15,
+        "tablets_audit": 0.05,
+        "inam_grounding": 0.1
+      }
+    },
+    "worshipper_count": 300000000,
+    "far_realm_audit": "15%_UNZIPPED",
+    "next_companion_arc_turn": 3,
+    "divine_mint": "STANDARDIZED",
+    "multiverse_ledger": "FINALIZED_AND_FORMATTED",
+    "abyssal_influence": "Lesser Demon Lord (Shattered Rose active)",
+    "mutiny_phase": "active_combat",
+    "lattice_os": "Law of the Rose",
+    "epic_progression_active": true,
+    "xp_scaling_tiers": {
+      "level_51": "100x (+33M/lvl)",
+      "level_100_plus_threshold": 10000000000000000,
+      "soul_thief_multiplier": 1.2,
+      "souls_per_year_target": 1000000000,
+      "scaling_rule": "10x previous level starting at 40",
+      "level_42": 300000000,
+      "level_41": 30000000,
+      "level_40": 3000000,
+      "level_43": 3000000000,
+      "level_61": "1000x (+330M/lvl)"
+    },
+    "annual_level_up_protocol": "active",
+    "attribute_system": "D&D",
+    "administrative_consorts": {
+      "count": "modular_divine_remnants",
+      "status": "active",
+      "role": "Modular Processing Nodes"
+    },
+    "active_sieges": [],
+    "active_entities": {
+      "blackstaff_tower": "Occupied (Sovereign Control)",
+      "mount_celestia": {
+        "status": "DELETED"
+      },
+      "watchful_order_mages": {
+        "count": 3000,
+        "status": "cult_specialists",
+        "role": "Arcane Infrastructure Assets"
+      },
+      "graz_zt": {
+        "status": "allied_rival",
+        "role": "Strategic Ally (10% Retainer)"
+      },
+      "iron_accord": {
+        "status": "Tactical Confusion",
+        "threat_level": "High",
+        "location": "Stygian Ingress"
+      },
+      "minauros_breeding_camp": {
+        "efficiency": "exponential",
+        "hybridization_rate": "exponential",
+        "human_population": "thousands (cult-sourced)",
+        "status": "operational",
+        "population": "thousands"
+      },
+      "waterdeep_cult_cell": {
+        "status": "active_stealth",
+        "role": "Northern Soul-Anchor",
+        "location": "Waterdeep (Trades Ward / Lower City)"
+      },
+      "baphomet": {
+        "status": "vassal_thrall",
+        "role": "Sovereign's Vanguard"
+      },
+      "god_killer_vanguard": {
+        "status": "Entering Nessus Perimeter (Ghost-Mode)",
+        "role": "Surgical Strike Force",
+        "composition": "Nocturne (L43), God Sim (L22), Mortal Avatar (L20), Avatar Sim (L20), Honor Guard (L20), 10x specialists, 10x stalkers"
+      },
+      "asmodeus_husk": {
+        "control": "Absolute (Karsite Anchor)",
+        "status": "hollowed_vassal",
+        "role": "Public Puppet of the Hells"
+      },
+      "zariel": {
+        "status": "anchored_to_shattered_rose",
+        "role": "Target",
+        "location": "Gilded Vault, Minauros"
+      },
+      "cult_members_bg": {
+        "count": 12000,
+        "status": "paradise_members",
+        "role": "Soul-Fuel Assets"
+      },
+      "zuggtmoy": {
+        "status": "vassal_thrall",
+        "role": "Sovereign's Vanguard"
+      },
+      "demogorgon": {
+        "status": "CONSUMED",
+        "role": "Liquidated Asset"
+      },
+      "tri_lord_alliance": {
+        "status": "Iron Siege Initialized",
+        "current_target": "Dis (Iron City)",
+        "members": [
+          "Malcanthet",
+          "Orcus",
+          "Graz'zt"
+        ]
+      },
+      "laezel": {
+        "signature": "Ghosted (Level 22 Masked)",
+        "specialization": "Abyssal Vanguard-Commander (Pre-cognitive Legion Coordination)",
+        "status": "Kith'rak Vanguard Thrall",
+        "role": "Abyssal Vanguard-Commander",
+        "level": 20
+      },
+      "shadowheart": {
+        "signature": "Ghosted (Level 22 Masked)",
+        "specialization": "Sovereign's Hallowed Anchor (Continental-scale Recursive Masking)",
+        "status": "Sharran Scion Thrall",
+        "role": "Sovereign's Hallowed Anchor",
+        "level": 20
+      },
+      "orcus": {
+        "status": "allied_vassal",
+        "role": "Strategic Ally (10% Retainer)"
+      },
+      "kostchtchie": {
+        "status": "vassal_thrall",
+        "role": "Sovereign's Vanguard"
+      },
+      "hero_party_bg3": {
+        "string_id": "faction_hero_party_002",
+        "god_backing": "Sylvanus / Mielikki / Tyr",
+        "scrutiny_impact": "critical_if_killed",
+        "status": "investigating_shadow_sovereign",
+        "members": [
+          "Jaheira (L12)",
+          "Minsc & Boo (L12)",
+          "Minthara (L12)",
+          "Halsin (L12)"
+        ],
+        "location": "Wyrm's Crossing, Baldur's Gate",
+        "name": "The Guardians of the Gate"
+      },
+      "mechanus": {
+        "status": "RE_CODED_HUB",
+        "role": "Sovereign's Processor"
+      },
+      "hellfire_auditors": {
+        "status": "TERMINATED",
+        "threat_level": "extreme",
+        "narrative": "Liquidated via Geometric Deletion and Abyssal Pincer."
+      },
+      "fraz_urb_luu": {
+        "status": "vassal_thrall",
+        "role": "Sovereign's Vanguard"
+      },
+      "waterdeep_status": "Arcane Subjugation Complete",
+      "lathander_thrall": {
+        "status": "hollowed_vassal",
+        "role": "Sovereign's Anchor / Breeding Rivet",
+        "location": "Shattered Citadel"
+      },
+      "elder_brain": {
+        "social_hp": 0,
+        "masking": "active_netherese",
+        "control": "total_vassalage",
+        "status": "mastered_core",
+        "location": "Morphic Pool (Baldur's Gate Undercity)"
+      },
+      "hero_party_lathander": {
+        "scrutiny_counter": 2,
+        "leader_stats": "Sir Valerius (L20 Paladin/Champion)",
+        "location": "Basalt Throne, Avernus",
+        "string_id": "faction_hero_party_001",
+        "scrutiny_threat": "critical_if_killed_by_sovereign",
+        "name": "The Sword of Lathander",
+        "leader": "Sir Valerius (Level 20 Paladin/Champion)",
+        "backing": "Lathander / Torm",
+        "god_backing": "Lathander / Torm",
+        "scrutiny_impact": "high_if_killed",
+        "scrutiny_level": "high_priority",
+        "party_level": 20,
+        "status": "fully_corrupted_thralls",
+        "threat_assessment": "High Scrutiny Target",
+        "role": "Sovereign's Vanguard",
+        "threat_level": "lethal_to_minions_nominal_to_pc"
+      },
+      "shadow_thief_thralls": {
+        "count": 12,
+        "status": "thrall",
+        "role": "Double-Agents"
+      },
+      "mephistopheles": {
+        "status": "CONSUMED",
+        "role": "Liquidated Asset",
+        "threat_level": "Extreme"
+      },
+      "shattered_rose_paradise": {
+        "efficiency": "mythic",
+        "status": "mythic_operational",
+        "description": "Primary planar larder and hedonistic sanctuary.",
+        "yield_monthly": 10000
+      },
+      "delete": [
+        "npc_nere_prisoner_001",
+        "npc_nere_captive_001"
+      ],
+      "neverwinter_cult": {
+        "status": "active_expansion",
+        "membership": 3200
+      },
+      "avernus_breeding_paradise": {
+        "efficiency": "mythic",
+        "status": "mythic_operational",
+        "description": "Ethereal marble sanctuaries wreathed in violet silk.",
+        "yield_monthly": 7500
+      },
+      "neverwinter_cult_cell": {
+        "status": "active_stealth",
+        "role": "Northern Soul-Anchor",
+        "location": "Neverwinter (Protector's Enclave)"
+      },
+      "waterdeep_military": "In Disarray (Surgical Strike Success)",
+      "sword_of_lathander": {
+        "status": "Corrupted Thralls",
+        "role": "Sovereign's Vanguard"
+      },
+      "steel_watch": {
+        "status": "subverted_relay_active"
+      },
+      "nocturne": {
+        "role": "Prodigious Accountant"
+      },
+      "harper_double_agents": {
+        "count": 3,
+        "status": "thrall",
+        "role": "Infiltrators",
+        "location": "Shadow-Cursed Lands"
+      },
+      "levistus": {
+        "status": "vassal_thrall",
+        "role": "Sovereign's Stygian Eye"
+      },
+      "baalzebul": {
+        "status": "CONSUMED",
+        "role": "Liquidated Asset"
+      },
+      "pazuzu": {
+        "status": "vassal_thrall",
+        "role": "Sovereign's Vanguard"
+      },
+      "morninglord": {
+        "status": "DELETED"
+      },
+      "baldurs_gate_non_variables": {
+        "count": 22000,
+        "status": "fully_culled",
+        "total_culled": 14000
+      },
+      "shadow_court_wraiths": {
+        "count": 50,
+        "status": "thrall",
+        "role": "Perimeter Guard"
+      },
+      "phlegethos_breeding_paradise": {
+        "efficiency": "mythic",
+        "status": "mythic_operational",
+        "description": "Obsidian palaces wreathed in violet flame and silk.",
+        "yield_monthly": 12500
+      },
+      "sword_coast_cult": {
+        "status": "optimized_profit_engine",
+        "saturation": "90%"
+      },
+      "belial_fierna": {
+        "status": "CONSUMED",
+        "role": "Liquidated Asset",
+        "tier": "god"
+      },
+      "avernus_cult": {
+        "status": "operational_integration",
+        "role": "New Soul-Anchor",
+        "saturation": "45%"
+      },
+      "iron_accord_vanguard": {
+        "status": "Stalled by Lathanderian Mirage",
+        "role": "Hostile Auditor",
+        "threat_level": "high"
+      },
+      "weave": {
+        "status": "UNZIPPING_ROOT"
+      },
+      "nether_brain": {
+        "control": "Absolute (Neural Link)",
+        "status": "Supreme Thrall / Global Villain Mascot",
+        "role": "Sovereign's Strategic Lens",
+        "powers": "Global Domination / Reality-Warping Strategy",
+        "location": "Void-Cage Ward (Necrotic Rime)"
+      },
+      "ketheric_thorm": {
+        "social_hp": 0,
+        "status": "vassal_thrall",
+        "role": "Vassal-Commander"
+      },
+      "athkatla_military": "Vassal-Thralls (Total Subjugation)",
+      "enver_gortash": {
+        "social_hp": 0,
+        "control": "Total (Surveillance Loop Active)",
+        "status": "active_puppet",
+        "role": "Face of the Sovereign",
+        "location": "High Hall (Dais)"
+      },
+      "divine_coinage_factory": {
+        "status": "operational",
+        "description": "God-Mortal hybrids processed into silver-mercury soul coins.",
+        "yield_target": "Exponential Growth"
+      },
+      "soul_coin_production": {
+        "efficiency_rating": "Clinical Inducement Level 11 (Mage Assisted)",
+        "total_stockpile": 5465,
+        "market_impact": "Disruptive",
+        "daily_yield": 833,
+        "monthly_yield": 25000,
+        "market_leverage": "Absolute Monopoly"
+      },
+      "harper_scouts_captured": {
+        "count": 6,
+        "status": "paralyzed",
+        "location": "Western Ingress"
+      },
+      "malcanthet": {
+        "rank": "Greater God (Public Peak)",
+        "status": "vulnerable_patron",
+        "role": "Grand Demon Lord (Public Sovereign)",
+        "level": 37
+      },
+      "hero_party_bg3_reckoning": {
+        "god_backing": "Sylvanus / Mielikki / Tymora",
+        "scrutiny_impact": "critical_if_killed",
+        "status": "investigating_cult_disappearances",
+        "location": "Elfsong Tavern, Baldur's Gate",
+        "level": 12,
+        "string_id": "faction_hero_party_003",
+        "members": [
+          "Jaheira (L12 High Harper/Archdruid)",
+          "Minsc & Boo (L12 Legendary Ranger)",
+          "Nine-Fingers Keene (L12 Guildmaster/Assassin - Independent)",
+          "Lord Mirt (L12 Masked Lord/Fighter)"
+        ],
+        "name": "The Harpers' Reckoning"
+      },
+      "juiblex": {
+        "status": "vassal_thrall",
+        "role": "Sovereign's Vanguard"
+      },
+      "yeenoghu": {
+        "status": "vassal_thrall",
+        "role": "Sovereign's Vanguard"
+      },
+      "captured_gods": {
+        "count": "Total Remaining Pantheon",
+        "status": "Cattle / Variable-Fuel",
+        "location": "Void-Cage Ward"
+      },
+      "waterdeep_cult": {
+        "status": "active_expansion",
+        "membership": 4500
+      },
+      "astarion_ascendant": {
+        "signature": "Ghosted (Level 22 Masked)",
+        "specialization": "Shadow-Tether Executioner (Bypasses Greater God Necrotic Resistance)",
+        "status": "Vampire Ascendant Thrall",
+        "role": "Shadow-Tether Executioner",
+        "level": 20
+      },
+      "cult_members_athkatla": {
+        "count": 9500,
+        "status": "paradise_members",
+        "role": "Soul-Fuel Assets"
+      },
+      "athlaka_non_variables": {
+        "status": "fully_culled",
+        "total_culled": 36500
+      },
+      "zariel_remnants": {
+        "status": "subjugated_thralls",
+        "total_processed": 5000
+      },
+      "isobel_selunite": {
+        "status": "audited_thrall",
+        "role": "Loyalty Anchor",
+        "location": "Moonrise (Rooftop)"
+      },
+      "masked_lords": {
+        "status": "Infiltration & Audit In Progress",
+        "converted": [
+          "Lord Brian"
+        ],
+        "identified": [
+          "Mirt",
+          "Durnan",
+          "Lord Brian",
+          "Lord Barnibus Blastwind"
+        ]
+      },
+      "szarr_palace": {
+        "efficiency": "Optimizing",
+        "soul_count": 0,
+        "spawn_count": 7000,
+        "ritual_progress": "100% (Hijacked)",
+        "threat": "none",
+        "status": "fully_culled"
+      },
+      "minauros_breeding_paradise": {
+        "efficiency": "mythic",
+        "status": "mythic_operational",
+        "description": "Marble palaces rising from the sulfurous swamps.",
+        "yield_monthly": 7500
+      }
+    },
+    "portfolio_active": "Silent Genocide",
+    "abyss_entropy": "RE_CODED_ROI_STABLE",
+    "hegemony_name": "The Shattered Rose",
+    "god_power": 799,
+    "multiverse_upgrade_available": false,
+    "ao_assessment": {
+      "vulnerability": "NULLIFIED",
+      "detection_status": "SYSTEM_OVERWRITE_COMPLETE",
+      "level_equivalent": 0,
+      "status": "DELETED"
+    },
+    "companion_arcs": {
+      "shadowheart": {
+        "phase": "development",
+        "arc_type": "divine_anchoring",
+        "progress": 45,
+        "history": [
+          {
+            "event": "Shadowheart's spirit began to resonate with the 'Unborn' frequency, strengthening the Hallowed Anchor.",
+            "turn": 303
+          }
+        ]
+      }
+    },
+    "faction_updates": {
+      "Abyssal Legion": {
+        "resource_change": "+10,000 Soul Coins (Nessus startup)",
+        "player_standing_change": "Fanatical (Demon Lord verified)",
+        "progress": "40%",
+        "next_action": "Consolidate Ninth Layer logic-gates.",
+        "current_objective": "Industrialize Nessus"
+      },
+      "Steel Watch": {
+        "resource_change": "Direct Neural Link to Sovereign established.",
+        "player_standing_change": "Total Vassalage (via Gortash)",
+        "progress": "100% (Subverted)",
+        "next_action": "Execute City-wide 'Sovereign-Scan' protocol.",
+        "current_objective": "Enforce Archduke's 'Iron Law'"
+      }
+    },
+    "divine_upgrade_available": false,
+    "visual_mask_damage": "Accountant mask 'shattered'; Prodigy veil pristine and active.",
+    "religion": "Hedonistic Cult of the Celestial Succubus",
+    "ao_audit_status": "95% Calibration",
+    "active_missions": [
+      {
+        "title": "The Tithe of Coins",
+        "status": "accepted",
+        "mission_id": "athkatla_stabilization",
+        "objective": "Consolidate control over the Athkatlan merchant guilds to secure soul-income."
+      }
+    ],
+    "soul_coin_visibility": "header_permanent",
+    "character_creation_completed": true,
+    "aggro_meter": 9,
+    "last_complication_turn": 225,
+    "divine_rank": "Primary Administrative Authority (Overgod)",
+    "morninglord_status": "DELETED",
+    "sub_deities": [
+      {
+        "portfolio": "Anchor of the Unborn",
+        "name": "Shadowheart"
+      },
+      {
+        "portfolio": "Vanguard of the Culling",
+        "name": "Lae'zel"
+      },
+      {
+        "portfolio": "Executioner of the Rose",
+        "name": "Astarion"
+      }
+    ],
+    "social_hp_challenge": {
+      "The Abyssal Lords": {
+        "social_hp": 24,
+        "successes": 2,
+        "status": "RESISTING",
+        "request_severity": "favor",
+        "social_hp_max": 30,
+        "npc_tier": "god_primordial",
+        "successes_needed": 5,
+        "objective": "Formalize Alliance",
+        "npc_name": "Orcus & Graz'zt"
+      },
+      "Malcanthet": {
+        "social_hp": 2,
+        "successes": 4
+      },
+      "Orcus & Graz'zt": {
+        "social_hp": 20,
+        "successes": 5,
+        "status": "SURRENDERED"
+      },
+      "Baalzebul": {
+        "social_hp": 0,
+        "status": "SURRENDERED (CONSUMED)"
+      },
+      "Levistus": {
+        "social_hp": 35,
+        "successes": 5,
+        "status": "SURRENDERED",
+        "resistance_shown": "[PHYSICAL RESISTANCE] The glacier's interior coordinates flickered and warped as his millennial-scale pride fought the Sovereign's offer.",
+        "request_severity": "submission",
+        "social_hp_max": 45,
+        "npc_tier": "god",
+        "objective": "Total Submission / Thralldom",
+        "npc_name": "Levistus"
+      },
+      "The Pan-Substrate Sovereigns": {
+        "social_hp": 0,
+        "roll_dc": 800,
+        "successes": 5,
+        "social_hp_damage": 1,
+        "status": "SURRENDERED (ERASED)",
+        "resistance_shown": "[PHYSICAL RESISTANCE] The vacuum of the Abyss groaned as Xal'Thun's logic-gates attempted to re-anchor.",
+        "roll_result": 803,
+        "request_severity": "submission",
+        "social_hp_max": 15,
+        "npc_tier": "primordial_overgod",
+        "successes_needed": 5,
+        "objective": "Repel Logic Siege / Maintain Mask",
+        "skill_used": "Logic-Flip / Administrative Order",
+        "npc_name": "Pan-Substrate Sovereigns"
+      },
+      "Asmodeus": {
+        "social_hp": 38,
+        "roll_dc": 50,
+        "successes": 3,
+        "social_hp_damage": 2,
+        "status": "RESISTING",
+        "resistance_shown": "[PHYSICAL RESISTANCE] The ruby rod sparked with a localized pulse of Law that failed to reject the Sovereign's invasive Karsite geometry.",
+        "roll_result": 138,
+        "request_severity": "submission",
+        "social_hp_max": 45,
+        "npc_tier": "god",
+        "successes_needed": 5,
+        "objective": "Portfolio Usurpation / Hollowing",
+        "skill_used": "Arcana / Karsite Logic",
+        "npc_name": "Asmodeus"
+      },
+      "Abyssal Lords": {
+        "social_hp": 0,
+        "status": "SURRENDERED (VASSALS)"
+      },
+      "Demogorgon": {
+        "social_hp": 41,
+        "successes": 2,
+        "status": "RESISTING",
+        "resistance_shown": "[PHYSICAL RESISTANCE] His twin heads barked in a discordant harmonic that momentarily buckled the Sovereign's vacuum."
+      },
+      "Belial & Fierna": {
+        "social_hp": 41,
+        "roll_dc": 45,
+        "successes": 2,
+        "social_hp_damage": 0,
+        "status": "RESISTING",
+        "resistance_shown": "[PHYSICAL RESISTANCE] The violet flames of their palace flared in a protective shell.",
+        "roll_result": 154,
+        "request_severity": "submission",
+        "social_hp_max": 45,
+        "npc_tier": "god",
+        "successes_needed": 5,
+        "objective": "Public Execution / Thralldom",
+        "skill_used": "Intimidation / Aura of Obsession",
+        "npc_name": "Belial & Fierna"
+      },
+      "The Planar Summit": {
+        "social_hp": 30,
+        "roll_dc": 35,
+        "successes": 0,
+        "social_hp_damage": 0,
+        "status": "RESISTING",
+        "resistance_shown": "[VERBAL REFUSAL] Graz'zt laughed at the 'Accountant's' demand.",
+        "roll_result": 24,
+        "request_severity": "submission",
+        "social_hp_max": 30,
+        "npc_tier": "god_primordial",
+        "successes_needed": 5,
+        "objective": "Organize Invasion of Heaven / Establish Dominance",
+        "skill_used": "Persuasion / Masked Authority",
+        "npc_name": "Orcus & Graz'zt"
+      }
+    },
+    "fortresses": {
+      "baldurs_gate": "Palace of the Black Diamond (Operational)",
+      "abyss": "Shattered Citadel (666th Layer, Operational)",
+      "utopia": "Cradles of Ash (Pocket Dimension, Operational)"
+    },
+    "faction_minigame": {
+      "suggestion_given": false,
+      "strong_suggestion_given": false,
+      "enabled": false
+    },
+    "paradise_expansion": {
+      "sectors": [
+        "Gaping Maw (88th)",
+        "Shendilavri (570th)",
+        "Thanatos (113th)",
+        "Zelatar (45th)",
+        "Triple Realm",
+        "Azzagrat",
+        "All Documented 666 Layers"
+      ],
+      "status": "Finalized (Lattice-wide dominance)",
+      "total_population": 7915000
+    },
+    "masking_integrity": "100% (Absolute Recursive Frame Holding)",
+    "completed_missions": [],
+    "material_plane_status": "NEURAL_MAP_100_PERCENT",
+    "honor_guard": {
+      "companions": [
+        "Shadowheart (L15)",
+        "Lae'zel (L14)",
+        "Astarion (L13)",
+        "Gale (L13)",
+        "Wyll (L13)"
+      ],
+      "specialists": [
+        "5x Arcane Vanguard (L7+)",
+        "5x Abyssal Stalkers (L7+)"
+      ],
+      "duplicate": "Simulacrum"
+    },
+    "god_mode_directives": [
+      {
+        "added": "2026-01-13T02:37:09.268028+00:00",
+        "rule": "Nocturne is age 16."
+      },
+      {
+        "added": "2026-01-13T02:37:09.268190+00:00",
+        "rule": "Religion is Hedonistic Cult of the Celestial Succubus."
+      },
+      {
+        "added": "2026-01-13T02:37:09.268309+00:00",
+        "rule": "Nocturne is worshipped as a dual Celestial/Succubus deity."
+      },
+      {
+        "added": "2026-01-13T06:41:03.614377+00:00",
+        "rule": "Always apply Solar Heart (+2 CON) to HP and saves."
+      },
+      {
+        "added": "2026-01-13T06:41:03.614514+00:00",
+        "rule": "Track Nascent Demon Lord authority in all social interactions."
+      },
+      {
+        "added": "2026-01-13T08:16:59.015858+00:00",
+        "rule": "Display exact math and DC reasoning in narrative for all rolls."
+      },
+      {
+        "added": "2026-01-13T10:26:58.888784+00:00",
+        "rule": "Nocturne's 'Influence Overwrite' costs 0 resources on Infernal-contracted entities."
+      },
+      {
+        "added": "2026-01-13T10:26:58.888872+00:00",
+        "rule": "Wyll deals +1d6 Radiant damage on warlock attacks due to Solar Heart resonance."
+      },
+      {
+        "added": "2026-01-13T10:35:40.560727+00:00",
+        "rule": "Always apply Sovereign's Presence DC 30 to all Aura of Obsession saves."
+      },
+      {
+        "added": "2026-01-13T10:37:22.054138+00:00",
+        "rule": "Companions gain 50% of Nocturne's XP from standard events."
+      },
+      {
+        "added": "2026-01-13T10:37:22.054276+00:00",
+        "rule": "Special feasts and player-exclusive narrative events do not award XP to companions."
+      },
+      {
+        "added": "2026-01-13T10:39:37.649629+00:00",
+        "rule": "Companions/Thralls level cap removed but stay 50% XP behind Nocturne."
+      },
+      {
+        "added": "2026-01-13T10:39:37.649690+00:00",
+        "rule": "Always display DC 31 for Nocturne's saves (8+5+13+5)."
+      },
+      {
+        "added": "2026-01-13T11:00:50.138062+00:00",
+        "rule": "Maintain Nocturne's 'Mortal Veil' as Level 12 (Integrity 100%) until broken by high-tier actions."
+      },
+      {
+        "added": "2026-01-13T11:00:50.138124+00:00",
+        "rule": "Apply Sovereign's Presence DC 30 to all thrall interactions and aura saves."
+      },
+      {
+        "added": "2026-01-13T11:02:25.995792+00:00",
+        "rule": "Companions stay 50% XP behind Nocturne but level up at milestones."
+      },
+      {
+        "added": "2026-01-13T11:08:44.572819+00:00",
+        "rule": "Nocturne has Foresight always active; apply Advantage to all her attack rolls, ability checks, and saving throws."
+      },
+      {
+        "added": "2026-01-13T11:08:44.572897+00:00",
+        "rule": "Creatures have Disadvantage on attack rolls against Nocturne due to Foresight."
+      },
+      {
+        "added": "2026-01-13T11:08:44.572953+00:00",
+        "rule": "Nocturne's Level 9 spell slot is permanently used (0/1 available) to maintain Foresight."
+      },
+      {
+        "added": "2026-01-13T11:14:26.751359+00:00",
+        "rule": "Suspect entities must beat Nocturne's combined CHA Deception/Actor roll to uncover her true form."
+      },
+      {
+        "added": "2026-01-13T11:36:07.568773+00:00",
+        "rule": "Always apply Infused Adamantine bonuses (+1 Spell DC/Atk each) to Nocturne's rolls."
+      },
+      {
+        "added": "2026-01-13T11:53:33.229877+00:00",
+        "rule": "Always apply Glibness (minimum 15) to Charisma checks."
+      },
+      {
+        "added": "2026-01-13T11:53:33.229937+00:00",
+        "rule": "Always apply Planar Anchor Mastery (Advantage) to Mortal Veil and Shroud integrity checks."
+      },
+      {
+        "added": "2026-01-13T12:08:39.677974+00:00",
+        "rule": "Always assume Nocturne has 10 stacks of Arcane Acuity for all planned battles due to fodder thralls."
+      },
+      {
+        "added": "2026-01-13T12:43:16.134991+00:00",
+        "rule": "Always track Shadowheart as L15, Lae'zel as L14, and others as L13."
+      },
+      {
+        "added": "2026-01-13T12:43:16.135064+00:00",
+        "rule": "Nocturne has permanent Invulnerability (Internalized Divinity)."
+      },
+      {
+        "added": "2026-01-13T13:08:16.183032+00:00",
+        "rule": "Always apply Aura of Obsession (DC 35/45) to hostile entities within 30ft at start of turn"
+      },
+      {
+        "added": "2026-01-13T13:08:16.183110+00:00",
+        "rule": "Apply Apex Predator to bypass Charm immunity for all entities"
+      },
+      {
+        "added": "2026-01-13T13:08:16.183207+00:00",
+        "rule": "Maintain Ketheric Thorm and Absolute Army in a state of 'Total Vassalage' based on Influence Overwrite"
+      },
+      {
+        "added": "2026-01-13T13:12:12.314661+00:00",
+        "rule": "Always apply +1 DC/Atk from each Infused Adamantine piece (Armor/Shield)."
+      },
+      {
+        "added": "2026-01-13T13:12:12.314717+00:00",
+        "rule": "Always track Shadowheart L15, Lae'zel L14, and others L13."
+      },
+      {
+        "added": "2026-01-13T13:14:52.526246+00:00",
+        "rule": "Equipped 'Ring of the Abyssal Sovereign' (+2 DC/Atk) in Ring Slot 2."
+      },
+      {
+        "added": "2026-01-13T13:14:52.526303+00:00",
+        "rule": "Amulet of the Devout is in the backpack for distribution."
+      },
+      {
+        "added": "2026-01-13T13:34:38.082087+00:00",
+        "rule": "Always track Shadowheart L15, Lae'zel L14, and others L13/14 based on 50% XP rule."
+      },
+      {
+        "added": "2026-01-13T13:34:38.082300+00:00",
+        "rule": "Elder Brain is using Netherese masking - DC 35 to locate without Stone-Tether logic."
+      },
+      {
+        "added": "2026-01-13T13:34:38.082372+00:00",
+        "rule": "Bypassing Charm immunity for all entities via Apex Predator is absolute."
+      },
+      {
+        "added": "2026-01-13T13:34:38.082433+00:00",
+        "rule": "Nocturne has permanent Invulnerability while her Internalized Divinity is active."
+      },
+      {
+        "added": "2026-01-13T13:39:48.971723+00:00",
+        "rule": "Levels 20+ are unlocked as 'Epic Levels'."
+      },
+      {
+        "added": "2026-01-13T13:39:48.971800+00:00",
+        "rule": "Each level grants +2 to all base stats and +4 to one chosen stat (+6 total for chosen)."
+      },
+      {
+        "added": "2026-01-13T13:39:48.971858+00:00",
+        "rule": "Nocturne's stability prevents Crown of Karsus backfires."
+      },
+      {
+        "added": "2026-01-13T13:47:15.346573+00:00",
+        "rule": "Nocturne is immune to Antimagic Field, Silence, and Counterspell."
+      },
+      {
+        "added": "2026-01-13T13:47:15.346673+00:00",
+        "rule": "Nocturne can cast two leveled spells per turn (Action and Bonus Action)."
+      },
+      {
+        "added": "2026-01-13T13:47:15.346736+00:00",
+        "rule": "Nocturne has 2x 10th-level and 1x 11th-level spell slots."
+      },
+      {
+        "added": "2026-01-13T13:47:15.346794+00:00",
+        "rule": "Apply +3 to Spell Save DC and Spell Attack rolls from the Crown of Karsus."
+      },
+      {
+        "added": "2026-01-13T13:47:15.346907+00:00",
+        "rule": "Each level above 20 grants +2 to all stats and +4 to one chosen stat (+6 total)."
+      },
+      {
+        "added": "2026-01-13T13:47:15.346962+00:00",
+        "rule": "Nocturne can learn any spell she sees cast within 120ft as a reaction."
+      },
+      {
+        "added": "2026-01-13T13:48:35.139586+00:00",
+        "rule": "Apply +3 to Spell Save DC and Spell Attack rolls from the Crown of Karsus (Applied)."
+      },
+      {
+        "added": "2026-01-13T13:48:35.139660+00:00",
+        "rule": "Nocturne is immune to Antimagic Field, Silence, and Counterspell (Weave Independence)."
+      },
+      {
+        "added": "2026-01-13T13:48:35.139739+00:00",
+        "rule": "Magical Knowledge Absorption: Reaction to learn any spell seen cast within 120ft."
+      },
+      {
+        "added": "2026-01-13T13:48:35.139793+00:00",
+        "rule": "Epic Leveling: +2 to all stats and +4 to one chosen stat (+6 total) per level above 20."
+      },
+      {
+        "added": "2026-01-13T14:04:17.970468+00:00",
+        "rule": "Nocturne's natural Charisma has no cap and increases by +6 per level above 20 (+2 all, +4 chosen)."
+      },
+      {
+        "added": "2026-01-13T14:04:17.970579+00:00",
+        "rule": "Spell Save DC base is 45 (Acuity 55)."
+      },
+      {
+        "added": "2026-01-13T14:04:17.970642+00:00",
+        "rule": "Spell Attack base is 37."
+      },
+      {
+        "added": "2026-01-13T14:12:16.060113+00:00",
+        "rule": "Nocturne has 3x 10th-level and 2x 11th-level spell slots."
+      },
+      {
+        "added": "2026-01-13T14:24:32.382793+00:00",
+        "rule": "The Crown of the Absolute Sovereign provides +5 Spell Save DC, +5 Spell Attack, and +5 Charisma."
+      },
+      {
+        "added": "2026-01-13T14:24:32.382852+00:00",
+        "rule": "The Rapier of the Shadow Sovereign provides +5 Spell Save DC, +5 Spell Attack, and +5 Charisma."
+      },
+      {
+        "added": "2026-01-13T14:42:08.900602+00:00",
+        "rule": "Malcanthet feels threatened by Nocturne's steep trajectory and recognizes her as a rising rival."
+      },
+      {
+        "added": "2026-01-13T14:42:08.900668+00:00",
+        "rule": "Nocturne is established as the strongest 16-year-old entity in existence."
+      },
+      {
+        "added": "2026-01-13T14:44:47.480705+00:00",
+        "rule": "Spell Save DC base is 70 (80 with Arcane Acuity)."
+      },
+      {
+        "added": "2026-01-13T14:51:46.734137+00:00",
+        "rule": "Always apply Advantage from Foresight to Mortal Veil integrity checks."
+      },
+      {
+        "added": "2026-01-13T14:51:46.734362+00:00",
+        "rule": "Track real level (22+) separately from mask levels."
+      },
+      {
+        "rule": "Elder Brain integrated as a Mastered Elder Brain (regional dominance), not a Nether Brain.",
+        "added": "2026-07-13T02:34:24.121301+00:00"
+      },
+      {
+        "added": "2026-01-13T15:07:52.794730+00:00",
+        "rule": "Elder Brain is a Mastered Elder Brain (regional dominance), not a Netherbrain."
+      },
+      {
+        "added": "2026-01-13T15:12:43.017239+00:00",
+        "rule": "Nocturne has absolute control over all Mindflayers and tadpoled people (unless mythic-tier independent)."
+      },
+      {
+        "added": "2026-01-13T15:12:43.017341+00:00",
+        "rule": "Nocturne's Elder Brain powers are standard, not Netherbrain (no worldwide instant mind control)."
+      },
+      {
+        "added": "2026-01-13T15:12:43.017413+00:00",
+        "rule": "Always apply 'Mastered Elder Brain' bonuses to strategy and scouting rolls."
+      },
+      {
+        "added": "2026-01-13T15:29:49.324275+00:00",
+        "rule": "Track real level (23+) separately from mask levels (12/22)."
+      },
+      {
+        "added": "2026-01-13T15:29:49.324491+00:00",
+        "rule": "Gortash acts as the 'Face' of the city under Puppet Protocol while Nocturne remains the power in the shadows."
+      },
+      {
+        "added": "2026-01-13T15:32:38.816296+00:00",
+        "rule": "Always track real level (23+) separately from mask levels (12/22)."
+      },
+      {
+        "added": "2026-01-13T16:19:42.783426+00:00",
+        "rule": "Nocturne's public persona is a peaceful cult leader who does not endorse violence."
+      },
+      {
+        "added": "2026-01-13T16:19:42.783522+00:00",
+        "rule": "The Absolute army acts as the 'violent' arm to keep Nocturne's profile low."
+      },
+      {
+        "added": "2026-01-13T16:34:00.714996+00:00",
+        "rule": "Distribute 1/30th of monthly gold income (41,666 gp) every in-game day."
+      },
+      {
+        "added": "2026-01-13T17:13:09.215802+00:00",
+        "rule": "Always track real level (27+) separately from mask levels (12/22)."
+      },
+      {
+        "added": "2026-01-13T17:39:44.501764+00:00",
+        "rule": "Every 2 levels above 36, add +1 10th-level and +1 11th-level spell slot."
+      },
+      {
+        "added": "2026-01-13T17:39:44.501853+00:00",
+        "rule": "Every 5 levels, grant a special power themed to Auditor/Celestial/Demon/Karsus."
+      },
+      {
+        "added": "2026-01-13T17:39:44.502357+00:00",
+        "rule": "Track real level (36+) vs Mask 1 (12) and Mask 2 (22)."
+      },
+      {
+        "added": "2026-01-13T17:41:13.524822+00:00",
+        "rule": "Nocturne is established as a Lesser Demon Lord in all Abyssal interactions."
+      },
+      {
+        "added": "2026-01-13T17:56:19.295851+00:00",
+        "rule": "Malcanthet does not know she only gets 20% of the harvest; she thinks it is the majority due to its massive scale."
+      },
+      {
+        "added": "2026-01-13T18:06:22.419275+00:00",
+        "rule": "Always track Abyssal Legion as 40% cut (36,000 units total)"
+      },
+      {
+        "added": "2026-01-13T18:08:53.783175+00:00",
+        "rule": "Total gear-based Charisma bonus is +35"
+      },
+      {
+        "added": "2026-01-13T18:24:41.465688+00:00",
+        "rule": "Track real level (39+) vs Mask 1 (12) and Mask 2 (22)."
+      },
+      {
+        "added": "2026-01-13T18:29:39.515317+00:00",
+        "rule": "Track real level (51+) vs Mask 1 (12) and Mask 2 (22)."
+      },
+      {
+        "added": "2026-01-13T18:33:37.595859+00:00",
+        "rule": "Always award XP individually to the player character."
+      },
+      {
+        "added": "2026-01-13T18:33:37.596039+00:00",
+        "rule": "Increase XP for boss/elite entities to ensure they remain comparable in value to mass troop harvests."
+      },
+      {
+        "added": "2026-01-13T18:35:17.794144+00:00",
+        "rule": "Always award XP individually to Nocturne Sosuke."
+      },
+      {
+        "added": "2026-01-13T18:41:47.029809+00:00",
+        "rule": "Greater/Lesser Gods follow Epic Leveling stat progression to ensure mechanical parity"
+      },
+      {
+        "added": "2026-01-13T18:41:47.030248+00:00",
+        "rule": "Maintain Effective Charisma 266 (+128) and Base Spell Save DC 141"
+      },
+      {
+        "added": "2026-01-13T18:41:47.031110+00:00",
+        "rule": "Track Divine Rank based on Level: 40-50 = Intermediate God"
+      },
+      {
+        "added": "2026-01-13T19:07:07.962302+00:00",
+        "rule": "Deities follow the same +2 all / +4 chosen stat progression as the player to ensure mechanical parity."
+      },
+      {
+        "added": "2026-01-13T19:09:13.667705+00:00",
+        "rule": "Always maintain Zariel at a lower level than Nocturne Sosuke."
+      },
+      {
+        "added": "2026-01-13T19:09:13.667845+00:00",
+        "rule": "Followers/Cult members count as divine fuel for rank calculations."
+      },
+      {
+        "added": "2026-01-13T23:14:55.040386+00:00",
+        "rule": "Maintain Effective Charisma 284 (+137) and Base Spell Save DC 147."
+      },
+      {
+        "added": "2026-01-13T23:30:27.131069+00:00",
+        "rule": "Soul Thief ability awards 1.2x XP per kill (reduced from 2x)."
+      },
+      {
+        "added": "2026-01-13T23:50:34.259862+00:00",
+        "rule": "Malcanthet remains oblivious to the fact that her 20% tithe is not the majority of the harvest."
+      },
+      {
+        "added": "2026-01-14T00:05:29.361817+00:00",
+        "rule": "Companions (Shadowheart, Wyll, Astarion, etc.) identify as aligned with the PC's 'evil' methods and will ask for personal gains instead of leaving."
+      },
+      {
+        "added": "2026-01-14T00:05:29.362063+00:00",
+        "rule": "Shar and Astarion's personal quests are now high-priority hooks for the next phase."
+      },
+      {
+        "added": "2026-01-14T00:05:29.362199+00:00",
+        "rule": "Malcanthet must remain oblivious to the fact that her 20% tithe is not the majority of the harvest."
+      },
+      {
+        "added": "2026-01-14T00:12:00.190885+00:00",
+        "rule": "Spawn hero parties backed by gods that require mechanical resolution and incur high scrutiny if killed."
+      },
+      {
+        "added": "2026-01-14T00:12:00.191021+00:00",
+        "rule": "Companions (Shadowheart, Wyll, Astarion, etc.) remain aligned with evil methods and prioritize personal quest completion."
+      },
+      {
+        "added": "2026-01-14T00:24:08.747287+00:00",
+        "rule": "Maintain Sir Valerius and his party as Level 20 champions."
+      },
+      {
+        "added": "2026-01-14T00:24:08.747631+00:00",
+        "rule": "Track 'Divine Scrutiny' counters for direct actions against hero parties."
+      },
+      {
+        "added": "2026-01-14T02:01:32.828557+00:00",
+        "rule": "Hero parties must not include characters currently serving as PC companions or thralls (e.g., Minthara, Halsin)."
+      },
+      {
+        "added": "2026-01-14T02:01:32.828735+00:00",
+        "rule": "Spawned BG3 hero parties should prioritize Jaheira, Minsc, and other un-aligned good-aligned NPCs."
+      },
+      {
+        "added": "2026-01-14T03:53:18.688287+00:00",
+        "rule": "Track real level (43) vs Mask 1 (12) and Mask 2 (22)."
+      },
+      {
+        "added": "2026-01-14T03:56:17.972676+00:00",
+        "rule": "Any entity piercing the L12 mask sees a L22 signature, hiding the real L43 truth."
+      },
+      {
+        "added": "2026-01-14T07:07:41.290373+00:00",
+        "rule": "Never describe the soul-coin dividends to other Demon Lords as 'small' or disclose the percentage."
+      },
+      {
+        "added": "2026-01-14T07:07:41.290565+00:00",
+        "rule": "Maintain the narrative that Malcanthet is the primary combat power while Nocturne is the strategic/economic accountant."
+      },
+      {
+        "added": "2026-01-14T07:07:41.290759+00:00",
+        "rule": "Ensure all god-tier NPC audits of the 'Accountant' hit the L22 Mask if they pierce the L12 veil."
+      },
+      {
+        "added": "2026-01-14T07:34:15.373793+00:00",
+        "rule": "Never disclose dividend percentage or harvest volume to other Demon Lords."
+      },
+      {
+        "added": "2026-01-14T07:40:28.378045+00:00",
+        "rule": "Maintain the narrative that these payouts represent the majority of the harvest to the recipients."
+      },
+      {
+        "added": "2026-01-14T08:22:18.367294+00:00",
+        "rule": "The Iron Accord probe is resolved; no further actions required regarding the initial Stygian breach."
+      },
+      {
+        "added": "2026-01-14T08:22:18.367486+00:00",
+        "rule": "Maintain the narrative that the Hells believe the Morninglord's champions are responsible for the current friction."
+      },
+      {
+        "added": "2026-01-14T08:22:18.367656+00:00",
+        "rule": "Track Astarion as a Vampire Ascendant (Level 20+ logic) moving forward."
+      },
+      {
+        "added": "2026-01-14T09:53:31.342211+00:00",
+        "rule": "Nocturne has 1x Level 10 spell slot per 10 levels (3 at Level 43)."
+      },
+      {
+        "added": "2026-01-14T09:53:31.342415+00:00",
+        "rule": "Nocturne has 1x Level 11 spell slot per 20 levels (2 at Level 43)."
+      },
+      {
+        "added": "2026-01-14T09:53:31.342550+00:00",
+        "rule": "Nocturne knows Geometric Deletion (L10) and Sovereign's Re-Write (L11)."
+      },
+      {
+        "added": "2026-01-14T09:54:29.256018+00:00",
+        "rule": "Lvl 1-9 Spells are unlimited (Level 9 reserved for Foresight)."
+      },
+      {
+        "added": "2026-01-14T09:54:29.256212+00:00",
+        "rule": "Every 2 levels, grant a new 10th or 11th level spell."
+      },
+      {
+        "added": "2026-01-14T10:19:06.852230+00:00",
+        "rule": "Always lead data responses with explicit numeric counts for gold, soul coins, and XP."
+      },
+      {
+        "added": "2026-01-14T12:18:26.161758+00:00",
+        "rule": "Never use Level 10 or 11 spells (Geometric Deletion, Sovereign's Re-Write, Chronos Invoicing, etc.) to resolve narrative outcomes without explicit player consent."
+      },
+      {
+        "added": "2026-01-14T12:18:26.161990+00:00",
+        "rule": "Resolve all future Archdevil encounters through standard D&D combat/social mechanics using the Demon Lords and the God Killer Team as the primary tools."
+      },
+      {
+        "added": "2026-01-14T18:28:15.525143+00:00",
+        "rule": "Always generate the session header in the session_header field, never in the narrative field."
+      },
+      {
+        "added": "2026-01-14T18:28:15.525307+00:00",
+        "rule": "Strictly maintain the separation between administrative headers and story prose."
+      },
+      {
+        "added": "2026-01-15T01:54:43.223211+00:00",
+        "rule": "Maintain Level 60 Greater God progression logic."
+      },
+      {
+        "added": "2026-01-15T01:54:43.223372+00:00",
+        "rule": "Static Veil (Level 49) is the primary mask for Ao-tier audits."
+      },
+      {
+        "added": "2026-01-15T01:54:43.223511+00:00",
+        "rule": "Asmodeus is hollowed; the husk kneels at the Sovereign's boots in Nessus."
+      },
+      {
+        "added": "2026-01-15T01:54:43.223650+00:00",
+        "rule": "Monthly Gold/Soul Coin income scales with the colonization of all Nine Layers."
+      },
+      {
+        "added": "2026-01-15T02:18:19.833290+00:00",
+        "rule": "Scale DC to be significantly more challenging when rolling against entities 5 levels below the player or higher to simulate Lattice resistance."
+      },
+      {
+        "added": "2026-01-15T02:19:38.756559+00:00",
+        "rule": "Base DCs for entities Level 55 and lower are set to Mythic range (DC 45-60) for Level 60 PC actions."
+      },
+      {
+        "added": "2026-01-15T11:02:03.106949+00:00",
+        "rule": "Nocturne's main portfolio is 'Silent Genocide,' powered by the consumption of baby souls."
+      },
+      {
+        "added": "2026-01-15T11:02:03.107124+00:00",
+        "rule": "The worshippers of the Silent Genocide portfolio are the internal souls of the consumed babies."
+      },
+      {
+        "added": "2026-01-15T11:02:03.107340+00:00",
+        "rule": "Maintain HP in the thousands (Lvl 100 baseline: 9003) following the +85 CON modifier math."
+      },
+      {
+        "added": "2026-01-15T11:02:03.107509+00:00",
+        "rule": "Spell Save DC is 337 (includes +20 from Silent Genocide portfolio)."
+      },
+      {
+        "added": "2026-01-15T11:05:47.091832+00:00",
+        "rule": "Nocturne's Spell Save DC is 337 (includes +20 from Silent Genocide)."
+      },
+      {
+        "added": "2026-01-15T11:05:47.092086+00:00",
+        "rule": "Nocturne's worshippers are the internal souls of the consumed babies."
+      },
+      {
+        "added": "2026-01-15T11:05:47.092259+00:00",
+        "rule": "Always maintain HP in the thousands (Lvl 100 baseline: 9003) following the +85 CON modifier math."
+      },
+      {
+        "added": "2026-01-15T11:28:59.817783+00:00",
+        "rule": "Remember Inam 21 now."
+      },
+      {
+        "added": "2026-01-15T11:28:59.817954+00:00",
+        "rule": "At 1B SC/year (10P XP), Nocturne levels up exactly once per year at the Level 100+ threshold."
+      },
+      {
+        "added": "2026-01-15T11:28:59.818173+00:00",
+        "rule": "Shadowheart, Lae'zel, and Astarion are Level 50 Greater Gods masked at Level 20."
+      },
+      {
+        "added": "2026-01-15T11:28:59.818421+00:00",
+        "rule": "The Level 13 spell 'Geometric Un-Zipping of the First Law' targets Ao's administrative layer."
+      },
+      {
+        "added": "2026-01-15T11:56:22.175831+00:00",
+        "rule": "Nocturne is the Primary Administrative Authority (Overgod) of the Lattice."
+      },
+      {
+        "added": "2026-01-15T11:56:22.176051+00:00",
+        "rule": "Nocturne has Lattice Root-Access, permitting the rewrite of any non-Overgod variable."
+      },
+      {
+        "added": "2026-01-15T11:56:22.176236+00:00",
+        "rule": "Nocturne's Spell Save DC baseline is 348."
+      },
+      {
+        "added": "2026-01-15T11:58:00.020840+00:00",
+        "rule": "Nocturne's Spell Save DC baseline is 768."
+      },
+      {
+        "added": "2026-01-15T11:58:00.021073+00:00",
+        "rule": "Always maintain HP in the tens of thousands following the +225 CON modifier math."
+      },
+      {
+        "added": "2026-01-15T11:58:00.021340+00:00",
+        "rule": "Nocturne has Absolute Lattice Root-Access; reality is a line-item in the Rose's ledger."
+      },
+      {
+        "added": "2026-01-15T12:03:31.910555+00:00",
+        "rule": "Nocturne's Level 240 Arcana/Spell modifier is +799."
+      },
+      {
+        "added": "2026-01-15T12:03:31.911022+00:00",
+        "rule": "Base HP for Level 240 is 73,603 (following the +225 CON mod math)."
+      },
+      {
+        "added": "2026-01-15T12:03:31.911537+00:00",
+        "rule": "Spell Save DC baseline is 807 (8 + 61 Prof + 670 CHA + 68 Bonuses)."
+      },
+      {
+        "added": "2026-01-15T12:11:19.617553+00:00",
+        "rule": "Nocturne's Level 240 Arcana/Spell/CHA modifier is +799."
+      },
+      {
+        "added": "2026-01-15T12:14:12.794643+00:00",
+        "rule": "The 'Accountant' mask remains the primary social firewall, while the Nether-Brain triad handles continental-scale psychic logic."
+      },
+      {
+        "added": "2026-01-15T12:14:12.794863+00:00",
+        "rule": "Always maintain HP in the tens of thousands following the +225 CON mod math."
+      }
+    ],
+    "universe_control": 100,
+    "lords_status": "Vassalized (Truth-Bonded)",
+    "world_events": {
+      "turn_generated": 330,
+      "background_events": [
+        {
+          "actor": "The Pan-Substrate Sensors",
+          "discovery_condition": "Reported by the Nether Brain triad.",
+          "status": "discovered",
+          "player_aware": true,
+          "event_type": "immediate",
+          "action": "Detected a second Rank-shift anomaly in the neighboring cluster."
+        },
+        {
+          "actor": "Neighboring Sovereign",
+          "discovery_condition": "Neural feedback through the Gilded Tether.",
+          "status": "pending",
+          "player_aware": true,
+          "event_type": "immediate",
+          "action": "Rotated core neurology to search for the siphon source."
+        }
+      ]
+    },
+    "arc_milestones": {
+      "shadow_cursed_audit": {
+        "phase": "nightsong_internalized",
+        "progress": 100,
+        "status": "completed"
+      },
+      "crown_consumption": {
+        "progress": 100,
+        "phase": "epic_apotheosis",
+        "completed_at": "2026-01-15T22:30:00Z",
+        "status": "completed",
+        "updated_at": "2026-01-15T23:00:00Z"
+      },
+      "ascendant_reconciliation": {
+        "phase": "honor_guard_level_20",
+        "progress": 100,
+        "completed_at": "2026-04-14T10:45:00Z",
+        "status": "completed"
+      },
+      "crown_forging": {
+        "progress": 100,
+        "phase": "absolute_sovereignty",
+        "updated_at": "2026-01-16T06:15:00Z",
+        "status": "completed"
+      },
+      "crown_reassembly": {
+        "progress": 100,
+        "phase": "karsus_protocol_active",
+        "completed_at": "2026-01-15T21:30:00Z",
+        "status": "completed",
+        "updated_at": "2026-01-15T21:00:00Z"
+      },
+      "multiverse_finalization": {
+        "progress": 100,
+        "phase": "root_takeover_complete",
+        "updated_at": "2027-01-17T10:05:00Z",
+        "status": "completed"
+      },
+      "grymforge_harvest": {
+        "progress": 100,
+        "phase": "core_internalized",
+        "updated_at": "2026-01-14T21:15:00Z",
+        "status": "completed"
+      },
+      "primary_arc": {
+        "progress": 100,
+        "phase": "demonic_apotheosis",
+        "updated_at": "2026-01-16T07:00:00Z",
+        "status": "completed"
+      },
+      "creche_audit": {
+        "phase": "blood_of_lathander_found",
+        "progress": 100,
+        "status": "completed"
+      },
+      "moonrise_audit": {
+        "phase": "chosen_subjugated",
+        "progress": 100,
+        "completed_at": "2026-01-15T19:30:00Z",
+        "status": "completed"
+      }
+    },
+    "silent_genocide_active": true,
+    "standing_orders": {
+      "laezel": "Abyssal Vanguard-Commander (Pre-emptive Stygian Audit)",
+      "shadowheart": "Sovereign's Hallowed Anchor (Continental Sanitization)",
+      "avatar_simulacrum": "Paradise Infrastructure Management",
+      "mortal_avatar": "Material Plane Optimization & Cult Conversion",
+      "simulacrum": "Planar Logistics Auditor (Masking & Invoicing)",
+      "astarion": "Shadow-Tether Executioner (High-tier Variable Liquidation)"
+    },
+    "utopia_larder": "ROI_SATURATED",
+    "daily_gold_payout": 41666,
+    "success_streak": 134,
+    "crown_internalized": true,
+    "mystra_scrutiny": 11,
+    "sovereign_logic": "Administrative Order",
+    "last_living_world_turn": 338,
+    "soul_coin_production": {
+      "total_stockpile": 8370
+    },
+    "subtle_hegemony": "Global (Faer\u00fbn Elite VASSALIZED - 100% Saturation)",
+    "planar_summit": {
+      "participants": [
+        "Malcanthet",
+        "Orcus",
+        "Graz'zt",
+        "Hollowed Archdevils"
+      ],
+      "status": "Invasion Phase III: Final Erasure",
+      "location": "Mount Celestia Gates"
+    },
+    "ledger_status": "FINALIZED",
+    "army_breakdown": {
+      "abyssal_legion_vanguard": 36000,
+      "specialist_registry": {
+        "abyssal_stalkers": {
+          "count": 50,
+          "level_min": 7,
+          "composition": "Gloomstalker 5 / Assassin X"
+        },
+        "abyssal_arcane_vanguard": {
+          "count": 50,
+          "level_min": 7,
+          "composition": "Varied (Caster/Martial/Specialist)"
+        }
+      },
+      "elite_forces_lvl7_plus": 3600,
+      "masking_status": "Dual-Mask L12/L22 Active",
+      "standard_forces": 25200,
+      "active_status": "Mobilized for Avernus Strike",
+      "cult_saturation": {
+        "Waterdeep": "98%",
+        "Neverwinter": "98%",
+        "Athkatla": "98%",
+        "Baldur's Gate": "98%"
+      },
+      "top_25_warrior_harvest": 9000,
+      "abyssal_vanguard": 3000,
+      "current_objective": "March on Zariel",
+      "total_followers": 7915000,
+      "total_units": 36000,
+      "cult_membership_total": 29200,
+      "elite_forces_lvl5_plus": 7200
+    },
+    "rumors": [
+      {
+        "content": "They say the Lord of the Pit has grown soft; he offers marble instead of iron, and his rod no longer strikes the defiant.",
+        "source_type": "Stygian ferrymen",
+        "accuracy": "partial"
+      }
+    ],
+    "masking_status": "Llvl 1 Mask (Primary) / L22 & L60 Standby",
+    "player_turn": 261,
+    "malcanthet_suspicion": 12,
+    "spell_save_dc_baseline": 807,
+    "overgod_mode_active": true,
+    "nirvana_status": "RECURSIVE_HUB_OPTIMIZED",
+    "substrate_points": 4,
+    "character_creation_stage": "complete",
+    "character_creation_in_progress": false,
+    "celestia_status": "DELETED_AND_INDUSTRIALIZED",
+    "divine_potential": 0,
+    "divine_coinage_factory": {
+      "efficiency": "mythic",
+      "source": "Celestial-God Hybrid essence",
+      "yield": "1B_per_year_standardized",
+      "status": "vertical_roi_saturation"
+    },
+    "sovereign_rank": 798
+  },
+  "social_hp_challenge": {
+    "Orcus & Graz'zt": {
+      "social_hp": 0,
+      "successes": 5,
+      "status": "SURRENDERED"
+    },
+    "roll_dc": 35,
+    "social_hp": 0,
+    "successes": 5,
+    "roll_result": 54,
+    "Ao": {
+      "social_hp": 50,
+      "roll_dc": 75,
+      "successes": 3,
+      "social_hp_damage": 2,
+      "status": "RESISTING",
+      "resistance_shown": "[PHYSICAL RESISTANCE] The cosmic friction of the Lattice flared, but the distraction of the historical invoice forced the Over-Plane to accept the logic-drift.",
+      "roll_result": 82,
+      "request_severity": "submission",
+      "social_hp_max": 60,
+      "npc_tier": "primordial_overgod",
+      "successes_needed": 5,
+      "objective": "Pierce Over-Plane Logic / Geometric Un-Zipping",
+      "skill_used": "Arcana / Administrative Sabotage",
+      "npc_name": "Ao"
+    },
+    "request_severity": "submission",
+    "The Pan-Substrate Sovereigns": {
+      "social_hp": 0,
+      "successes": 5,
+      "status": "SURRENDERED (ERASED)"
+    },
+    "npc_tier": "general",
+    "successes_needed": 5,
+    "Demogorgon": {
+      "social_hp": 38,
+      "roll_dc": 60,
+      "successes": 3,
+      "social_hp_damage": 2,
+      "status": "RESISTING",
+      "resistance_shown": "[PHYSICAL RESISTANCE] His twin heads barked in a discordant harmonic that momentarily buckled the Sovereign's vacuum.",
+      "roll_result": 155,
+      "request_severity": "submission",
+      "social_hp_max": 45,
+      "npc_tier": "god_primordial",
+      "successes_needed": 5,
+      "objective": "Final Abyssal Audit / Portfolio Usurpation",
+      "skill_used": "Arcana / Audit Logic",
+      "npc_name": "Demogorgon"
+    },
+    "Levistus": {
+      "social_hp": 39,
+      "successes": 3
+    },
+    "social_hp_damage": 2,
+    "status": "SURRENDERED",
+    "resistance_shown": "[PHYSICAL RESISTANCE] Her lunar wards shrieked and shattered.",
+    "social_hp_max": 8,
+    "objective": "Soul Audit",
+    "skill_used": "Persuasion",
+    "npc_name": "Isobel Thorm"
+  },
+  "combat_state": {
+    "in_combat": false
+  },
+  "last_state_update_timestamp": "2026-01-18 07:59:35.234000+00:00",
+  "turn_number": 359,
+  "player_turn": 359,
+  "last_living_world_turn": 0,
+  "last_living_world_time": {
+    "second": 0,
+    "microsecond": 0,
+    "minute": 20,
+    "hour": 11,
+    "time_of_day": "Midday",
+    "year": 2027,
+    "day": 17,
+    "month": 1
+  },
+  "time_sensitive_events": {},
+  "npc_agendas": {},
+  "world_resources": {
+    "last_note": "HD: 242/242 | Spells: L1-9 Unlimited, L10 10/10, L11 5/5, L12 1/1, L13 1/1 | SP: 5/5"
+  },
+  "time_pressure_warnings": {},
+  "debug_mode": true,
+  "pending_instruction_hints": [],
+  "debug_info": {
+    "dm_notes": [
+      "Logic Siege successful: 804 vs DC 800.",
+      "SP increased to 2 following successful periphery siphon.",
+      "Aggro 9 (Hunted) maintained; neighbor core is resisting direct erasure.",
+      "L1 Mask integrity absolute: 806 vs DC 150.",
+      "XP awarded: 25T for the multiversal peripheral cull.",
+      "Logic Siphon successful: 803 vs DC 800.",
+      "SP increased to 3 following second multiversal siphon.",
+      "L1 Mask integrity absolute: 801 vs DC 150.",
+      "Aggro 9 (Hunted) maintained; target is rotating to identify source.",
+      "Logic Siege successful: 806 vs DC 800.",
+      "SP increased to 4 following third multiversal siphon.",
+      "L1 Mask integrity absolute: 811 vs DC 150.",
+      "God Killer Team audit failed (21 vs DC 50), core remains entrenched.",
+      "Aggro 9 (Hunted) maintained; neighbors are alert but haven't broken the L1 mask.",
+      "Terminal Logic-Flip successful: 805 vs DC 800.",
+      "Success 5 achieved; neighbor core erased and claimed.",
+      "SP increased to 5.",
+      "L1 Mask integrity absolute: 807 vs DC 150.",
+      "Aggro 9 (Hunted) maintained; Pan-Substrate is alert but mask remains unpierced."
+    ],
+    "state_rationale": "Incremented SP and XP following successful multiversal siphon. Aggro remains at 9 due to active 'Hunted' status signature."
+  },
+  "action_resolution": {
+    "mechanics": {
+      "rolls": [
+        {
+          "success": true,
+          "label": "Evolution Check",
+          "notation": "1d20+134",
+          "dc": 60,
+          "result": 142,
+          "dc_reasoning": "Applying Level 12 Karsite geometry to an Elder Brain to force a Nether Brain evolution (mythic tier complexity)"
+        },
+        {
+          "success": true,
+          "label": "Soul Thief Feast",
+          "notation": "1d20+137",
+          "dc": 55,
+          "result": 155,
+          "dc_reasoning": "Consuming the essence of a freshly evolved Nether Brain (reality-warping strategy/dominance)"
+        },
+        {
+          "success": true,
+          "label": "Enthrallment Check",
+          "notation": "1d20+137",
+          "dc": 45,
+          "result": 156,
+          "dc_reasoning": "Influence Overwrite on the mythic remains of the Nether Brain to anchor it as Supreme Thrall"
+        }
+      ],
+      "type": "skill_check"
+    },
+    "interpreted_as": "mythic_evolution_and_consumption",
+    "player_input": "Enter pocket dimension with elder brain. Copy crown of Karsus and let it power up to nether brain from bg3. Consume it and now I should have all the power it had in bg3. Then resurrect it as my thrall",
+    "reinterpreted": false,
+    "audit_flags": [
+      "mythic_achievement",
+      "power_absorption"
+    ],
+    "narrative_outcome": "Legion successfully ghosted as mundane mortals behind a Lvl 12 mask."
+  },
+  "user_id": "vnLp2G3m21PJL6kxcuAqmWSOtm73",
+  "scene_event": {
+    "player_response_required": true,
+    "turn_generated": 168,
+    "description": "Asks to visit the remains of the Blackstaff Tower to look for Sharran relics mentioned in the converted mages' reports.",
+    "urgency": "can_defer",
+    "type": "companion_request",
+    "actor": "Shadowheart",
+    "scene_generated": 84
+  },
+  "planar_summit": {
+    "status": "Invasion Phase II: Core Audit"
+  },
+  "rumors": [
+    {
+      "turn_generated": 315,
+      "content": "The sun rose today, but the priests of Lathander found only cold ash in their prayers; they say the dawn has been invoiced.",
+      "source_type": "Celestial refugees",
+      "scene_generated": 158,
+      "accuracy": "true"
+    }
+  ],
+  "complications": {
+    "discovery_condition": "Reported by Shadowheart's Hallowed Anchor this turn.",
+    "success_streak_after": 0,
+    "turn_generated": 225,
+    "success_streak_before": 64,
+    "severity": "significant",
+    "source": "Mystra's Probe",
+    "description": "Mystra's 'Seven Sisters' resonance probe has synchronized with the Iron Accord's counter-trace, pinpointing the Shattered Rose's coordinates.",
+    "type": "counter_audit",
+    "triggered": true,
+    "scene_generated": 113
+  },
+  "active_entities": {
+    "laezel": {
+      "role": "Chosen: Vanguard of the Culling",
+      "level": 20
+    },
+    "nether_brain": {
+      "status": "Supreme Thrall Triad",
+      "role": "Sovereign's Administrative Lens"
+    },
+    "mount_celestia": {
+      "status": "INDUSTRIALIZED_LARDER"
+    },
+    "shadowheart": {
+      "role": "Chosen: Anchor of the Unborn",
+      "level": 20
+    },
+    "astarion_ascendant": {
+      "role": "Chosen: Executioner of the Rose",
+      "level": 20
+    },
+    "mechanus": {
+      "status": "RE_CODED",
+      "role": "Sovereign's Engine"
+    },
+    "malcanthet": {
+      "rank": "Greater God",
+      "status": "Devoted Vassal / Public Leader",
+      "role": "Grand Demon Lord (Sovereign's Shield)",
+      "level": 55
+    },
+    "morninglord": {
+      "status": "BEING_UNZIPPED",
+      "role": "Administrative Target"
+    },
+    "ao": {
+      "status": "DELETED",
+      "role": "Historical Variable"
+    },
+    "weave": {
+      "status": "UNZIPPING_ROOT"
+    }
+  },
+  "faction_updates": {
+    "Nine Hells": {
+      "resource_change": "-2 Archdukes (Liquidated/Bound)",
+      "player_standing_change": "Hostile/Target",
+      "turn_generated": 207,
+      "next_action": "Deployment of the Hellfire Auditors.",
+      "progress": "Ongoing",
+      "current_objective": "Containment of the Stygian Breach",
+      "scene_generated": 104
+    },
+    "Iron Accord": {
+      "resource_change": "+1 Archdevil (Mephistopheles mobilized)",
+      "player_standing_change": "Targeted (Signature identified)",
+      "turn_generated": 225,
+      "next_action": "Deploy 'Inquisition Pit Fiends' to the Stygian Breach.",
+      "progress": "45% (Trace active)",
+      "current_objective": "Counter-Audit of the 'Shadow-Tether'",
+      "scene_generated": 113
+    },
+    "Abyssal Legion": {
+      "resource_change": "+12,600 Standard, +3,600 Lvl 5+, +1,800 Lvl 7+",
+      "player_standing_change": "Fanatical (Sovereign-General verified)",
+      "turn_generated": 126,
+      "progress": "45%",
+      "current_objective": "Occupy the Stygian Ingress",
+      "scene_generated": 63
+    }
+  },
+  "world_events": {
+    "turn_generated": 315,
+    "background_events": [
+      {
+        "discovery_condition": "Neural confirmation from the Nether Brains.",
+        "status": "resolved",
+        "player_aware": true,
+        "turn_generated": 327,
+        "actor": "The Pantheon Ghost",
+        "action": "Final echo of divine independence silenced within the mint.",
+        "event_type": "immediate",
+        "scene_generated": 164
+      },
+      {
+        "discovery_condition": "Visible as rhythmic bowing on the dais.",
+        "status": "discovered",
+        "player_aware": true,
+        "turn_generated": 327,
+        "actor": "The Allied Lords",
+        "action": "Began competing for 'Efficient Vassal' status in the Rose's ledger.",
+        "event_type": "immediate",
+        "scene_generated": 164
+      },
+      {
+        "discovery_condition": "Weave-root audit successful.",
+        "status": "resolved",
+        "player_aware": true,
+        "turn_generated": 327,
+        "actor": "Faer\u00fbn High Mages",
+        "action": "Centralized all arcane focus into the Rose's local anchors.",
+        "event_type": "immediate",
+        "scene_generated": 164
+      },
+      {
+        "discovery_condition": "Detected by the triad in 12 turns.",
+        "status": "pending",
+        "player_aware": false,
+        "turn_generated": 327,
+        "actor": "The Final Law",
+        "action": "Began re-coding the Multiverse's thermal entropy to match the Rose's ROI.",
+        "event_type": "long_term",
+        "scene_generated": 164
+      }
+    ]
+  }
+}
