@@ -5874,3 +5874,33 @@ Source: sources/2026-04-23-pr6565-zfc-m0-stabilization-bridge.md. [[jeffrey-orac
 11 Comet kills in 24h at 30s throttle was over-firing under sustained WARN-level swap pressure; all kills were under 800MB and well below the 2GB per-process cap, so the per-process path was not the trigger. Bumped `PRESSURE_KILL_THROTTLE_SECONDS` 30→300 in `~/bin/mem-watchdog.sh:43` so the OS can reclaim between jetsam-style kills; daemon restarted (old PID 90410 → new PID 55153 at 20:19:17, health green). Memory Saver Maximum (`MemorySaverModeSavings=2`) for both `ai.perplexity.comet` and `com.google.Chrome` was already in place from bd-o18 — verified `defaults find MemorySaver` returns =2 for both. No rogue subagents. Heavy Comet extensions (Adblock Plus 332MB, Comet Web Resources 157MB, Grammarly 82MB) raise renderer baseline but are not the trigger. Bead bd-bg6 (closed).
 
 Source: sources/feedback-2026-06-21-mem-watchdog-pressure-throttle.md. Companion concept update: [MacCompressorOOMPressureSignal](concepts/MacCompressorOOMPressureSignal.md) gained a "Throttle calibration" section. [[jeffrey-oracle]]: NO.
+
+## [2026-07-07] ingest | Reboot-cause classification, concurrent-mission config conflicts, swarm verification, kdump arming
+
+Jeff-Ubuntu crash-mission day: both Jul-7 reboots were watchdog(8) max-load-1=24 self-shutdowns on a 32-thread box (not panics — pstore unchanged); soakctl had auto-FAILED a zero-panic 4-day soak and now classifies dead boots (pstore → journalctl -t watchdog → PID-1 clean markers → silent-stop; user-session shutdown.target explicitly excluded) with a new INTERRUPTED verdict (bead bd-9ac). A count=16→10 config edit was byte-identically ghost-reverted by the user's own concurrent "runner-truly-healthy" mission enforcing 16 runners — new rule: check for concurrent missions before editing shared config; newest explicit user directive wins. A 3-lens refute-by-default swarm on the "complete" diagnosis found a missed 3rd boot (12:52, silent-stop, still unexplained), the revert, and a better watchdog fix (repair-binary pausing the runner fleet instead of rebooting — deployed). kdump was installed since April but never armed through 15 panics (crashkernel low-mem alloc failure, kexec_crash_loaded=0) — fixed with crashkernel=512M,high staged; lesson: verify observability ARMED, not installed. Learning bead bd-p7m (closed).
+
+Source: sources/feedback-2026-07-07-reboot-classification-and-concurrent-missions.md. New concept: [RebootCauseClassification](concepts/RebootCauseClassification.md). [[jeffrey-oracle]]: NO.
+## [2026-07-11] ingest | Gate-assessment IS merge authorization — dark-factory PR #207 incident
+
+## [2026-07-20] ingest | Superpowers Cloud Build — Install & Enrollment
+
+## [2026-07-20] ingest | Cloud Build box: heartbeat stale during LLM ops is normal — do NOT abort
+Source: sources/feedback-2026-07-20-cloud-build-heartbeat-stale-during-llm.md. New concepts: [CloudBuildHeartbeatStaleDuringLLM](concepts/CloudBuildHeartbeatStaleDuringLLM.md), [CloudBuildFollowLoop](concepts/CloudBuildFollowLoop.md). Corrected: [CloudBuildInstallEnrollment](sources/cloud-build-install-enrollment.md) Key Claim "Heartbeat stale ≥240s = wedged → abort" → replaced with "stale during LLM ops is normal, do NOT abort; use cloud_build_land_result when head_sha advances". [[jeffrey-oracle]]: NO.
+
+## [2026-07-21] ingest | Cloud Build dispatch end-to-end proof on both bastions + v0.8.1 cd drift fix
+
+**Key claims:**
+- E2E verified 2026-07-21: built orphan snapshots cb-e2e-{jeff,mac}-20260721-172109 with trivial plan (create marker file), dispatched via `cloud-build-super-dispatch.sh`, polled until state=done, called `cloud_build_land_result`, verified box-authored commits.
+- jeff-ubuntu: `e17cfb8 Cloud Build <supervisor@cloud-build.local> cloud-build-e2e: jeff-ubuntu dispatch proof` (run_id cb-e2e-jeff-ubuntu-20260721-172109-20260722002148-2001e7)
+- Mac: `8a12c52 Cloud Build <supervisor@cloud-build.local> cloud-build-e2e: macbook dispatch proof` (run_id cb-e2e-macbook-20260721-172109-20260722003813-1aba7a)
+- Both: harness `serf-3`, runner `exec`, model `""` (undisclosed in status JSON; disclosed via in-plan `AGENT_IDENTITY.md` task = `serf` CLI + `openrouter/z-ai/glm-5.2` via box internal proxy `10.0.100.1:65500`, NOT OpenRouter).
+- **BUG FIX**: `cloud-build-super-dispatch.sh` v0.8.1 shipped on Linux with `cd "$SCRIPT_DIR"` (wrong) instead of `cd "$SCRIPT_DIR/.."` (correct). After the broken `cd`, `bash scripts/preflight-local.sh ...` failed with "No such file or directory". Mac copy was always correct. Applied one-line patch locally on jeff-ubuntu 2026-07-21 — dispatch now works.
+- The bug explains every "still no luck" report from `/super` invocations on jeff-ubuntu since 2026-07-20 enrollment. Mac's 17 prior runs (cb-wa-8353 → PR #8466, cb-wa-levelup → PR #8476, cb-lineage-fix, cb-mrtr-e2e, cb-wa-pr{8429,8461,8399,8319}) all worked because Mac's script was correct.
+
+**Entities created:** none
+**Concepts created:** [[CloudBuildDispatchCdDriftBug]] (the v0.8.1 `cd "$SCRIPT_DIR"` → `cd "$SCRIPT_DIR/.."` fix)
+**Source page:** `sources/cloud-build-dispatch-proof-2026-07-21.md`
+**Bead:** rev-2kmm4
+
+## [2026-07-22] ingest | Cloud Build dispatch canon (4 verified box commits + cd drift fix)
+
